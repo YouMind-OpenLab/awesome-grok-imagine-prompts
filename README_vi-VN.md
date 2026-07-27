@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2224** |
+| 📝 Total Prompts | **2238** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-27** |
 
@@ -189,6 +189,257 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Sinh vật hát ru
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh đầy cảm hứng cho video về một sinh vật huyền ảo đang hát ru cho sinh vật nhỏ.
+
+#### 📝 Prompt
+
+```
+Sinh vật ngồi trên ghế, ôm lấy sinh vật nhỏ và hát bài hát truyền thống "Rock-a-bye Baby"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081513814034612225/img/vfJExH-uGCXWvx4e.jpg" width="600" alt="Sinh vật hát ru">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7941)**
+
+**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2081517060094611502) | **Published:** Jul 26, 2026
+
+---
+### Mực Phát Sáng Viết Trong Bóng Tối
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh đầy bí ẩn cho video mô tả mực phát sáng và những dòng chữ chỉ có thể đọc được trong bóng tối.
+
+#### 📝 Prompt
+
+```
+Viết thứ ngôn ngữ mà chỉ bóng tối mới thấu hiểu, mực vẫn còn phát sáng sau khi lật trang.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081180925124308992/img/cuzzXlEkJ3Clsu0X.jpg" width="600" alt="Mực Phát Sáng Viết Trong Bóng Tối">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7944)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081507355024359925) | **Published:** Jul 26, 2026
+
+---
+### Prompt video phong cách Cinéma Vérité tại Paris thập niên 1970
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) dành cho Grok Imagine được thiết kế để tạo ra thước phim tài liệu chân thực về Paris thập niên 1970, với phong cách phim 16mm gai góc, hạt phim tự nhiên và ánh sáng chân thực.
+
+#### 📝 Prompt
+
+```
+Phong cách cinéma vérité phim 16mm gai góc, thước phim tài liệu chân thực về Paris thập niên 1970, hạt phim tự nhiên, ánh sáng ban ngày thuần khiết, hiệu ứng rung lắc mạnh từ máy quay cầm tay trên vai, không chống rung, lấy nét mềm, rò rỉ ánh sáng tinh tế, thô mộc và thanh lịch, hiện thực sống động. Một
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081484199245012992/img/V6zIay-_i7B99SSj.jpg" width="600" alt="Prompt video phong cách Cinéma Vérité tại Paris thập niên 1970">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7947)**
+
+**Author:** [Ashley Ward](https://x.com/ashleyward) | **Source:** [Link](https://x.com/ashleyward/status/2081484471367258516) | **Published:** Jul 26, 2026
+
+---
+### Thành phố đêm mưa rực rỡ ánh đèn neon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) đầy cảm hứng về video lái xe qua thành phố ngập tràn ánh đèn neon nhìn từ khung cửa sổ đẫm mưa.
+
+#### 📝 Prompt
+
+```
+Mưa trên kính chắn gió, ánh đèn neon nhòe đi qua lớp kính, lái xe xuyên qua một thành phố không bao giờ ngủ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182887316168704/img/GyWe6gQL-FjDPiTp.jpg" width="600" alt="Thành phố đêm mưa rực rỡ ánh đèn neon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7946)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081477154328449072) | **Published:** Jul 26, 2026
+
+---
+### Hành trình Starship của Elon Musk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt mô tả cảnh Elon Musk du hành đến Sao Hỏa bên trong tàu vũ trụ Starship và tương tác với một AI.
+
+#### 📝 Prompt
+
+```
+Elon Musk ngồi bên trong tàu vũ trụ Starship khi đang du hành đến Sao Hỏa, trò chuyện với một AI
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081432199501672448/img/zdAT_ab80GzJoYjv.jpg" width="600" alt="Hành trình Starship của Elon Musk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7942)**
+
+**Author:** [Amrutraj](https://x.com/Amrutraj4) | **Source:** [Link](https://x.com/Amrutraj4/status/2081432217482641861) | **Published:** Jul 26, 2026
+
+---
+### Video Vũ trụ Bầu trời Xoay chuyển
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả cho video thiên văn với bầu trời đang xoay chuyển và cảm giác gần gũi với vũ trụ.
+
+#### 📝 Prompt
+
+```
+Đứng yên trong khi cả bầu trời không ngừng xoay chuyển, có những đêm ta cảm thấy vũ trụ còn gần gũi hơn cả mặt đất
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182605689720832/img/AEs1d_l_3ygEKoaG.jpg" width="600" alt="Video Vũ trụ Bầu trời Xoay chuyển">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7943)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081416756275380280) | **Published:** Jul 26, 2026
+
+---
+### Phỏng vấn tin tức thực tế với chú chó
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh sáng tạo cho bối cảnh phong cách tin tức chuyên nghiệp, nơi một phóng viên thực hiện cuộc phỏng vấn thực tế với một chú chó.
+
+#### 📝 Prompt
+
+```
+Một phóng viên tin tức cầm micro sát miệng chú chó như đang thực hiện một cuộc phỏng vấn thực sự, phong cách tin tức chuyên nghiệp, bối cảnh chân thực
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081410515352616960/img/PuBRt4NsVZMSngJZ.jpg" width="600" alt="Phỏng vấn tin tức thực tế với chú chó">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7935)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2081410626375807091) | **Published:** Jul 26, 2026
+
+---
+### Màn trình diễn tiếng cười chân thực của con người
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hướng dẫn chi tiết cho video AI tập trung vào tiếng cười chân thực của con người với các tín hiệu hình thể cụ thể.
+
+#### 📝 Prompt
+
+```
+tiếng cười đầu tiên đã thoát ra qua mũi cô ấy, một tiếng khịt mũi lớn và cô ấy đưa tay lên che miệng... nhưng bàn tay không ngăn được: tiếng cười bùng nổ xung quanh nó... nửa giây im lặng hoàn toàn đầy kinh ngạc, và rồi cô ấy cười phá lên không kiểm soát.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2081364983607091200/pu/img/gtz-6IIA5L8E5Dnc.jpg" width="600" alt="Màn trình diễn tiếng cười chân thực của con người">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7937)**
+
+**Author:** [GenFlick | Making Movies with AI | Join Us](https://x.com/Genflickmovies) | **Source:** [Link](https://x.com/Genflickmovies/status/2081365155422556628) | **Published:** Jul 26, 2026
+
+---
+### Thuốc tiên phát sáng và thảo mộc bay bổng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh lấy cảm hứng từ thế giới kỳ ảo cho cảnh quay điện ảnh về lọ thuốc phát sáng và các loại thảo mộc đang bay lơ lửng, tạo nên bầu không khí huyền bí như trong phim.
+
+#### 📝 Prompt
+
+```
+Một lọ thuốc phát sáng. Những loại thảo mộc bay bổng. Một khung cảnh như được bước ra từ một bộ phim kỳ ảo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081348701201559552/img/gQ_MkREdMzn5aM0M.jpg" width="600" alt="Thuốc tiên phát sáng và thảo mộc bay bổng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7945)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2081358875559682390) | **Published:** Jul 26, 2026
+
+---
+### Cửa sổ nhà bếp Road Runner
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả cảnh quay phức tạp cho video, trong đó một chú chim road runner đang nhìn vào bên trong căn bếp với nhiều chi tiết sinh hoạt gia đình.
+
+#### 📝 Prompt
+
+```
+Chim road runner đáp xuống bậu cửa sổ nhà bếp và nhìn vào trong
+Trên quầy bếp có thêm bình thủy tinh đựng nước và chanh thái lát
+Một ổ bánh mì chua sourdough
+Máy xay sinh tố
+Đĩa phô mai và trái cây đặt cạnh chai rượu vang đỏ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081255607697641472/img/oC9lkHjNLlWdKnIi.jpg" width="600" alt="Cửa sổ nhà bếp Road Runner">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7939)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081255642959147339) | **Published:** Jul 26, 2026
+
+---
+### Công chúa và Elon Musk khiêu vũ trong phòng khiêu vũ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video tường thuật, trong đó một người phụ nữ biến thành công chúa và khiêu vũ với Elon Musk trong một phòng khiêu vũ.
+
+#### 📝 Prompt
+
+```
+Margaret biến thành một nàng công chúa xinh đẹp với mái tóc nâu dài và Elon Musk mời cô ấy khiêu vũ trong một phòng khiêu vũ thanh lịch.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081225356766502912/img/xgJKf6DJWjTFa6HL.jpg" width="600" alt="Công chúa và Elon Musk khiêu vũ trong phòng khiêu vũ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7936)**
+
+**Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2081225375900971458) | **Published:** Jul 26, 2026
+
+---
+### Những chú chim hồng tước neon sà xuống
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video đầy ấn tượng về mặt thị giác, mô tả những chú chim hồng tước màu neon đang sà xuống để săn côn trùng.
+
+#### 📝 Prompt
+
+```
+Một đàn chim hồng tước màu đỏ neon rực rỡ với những điểm nhấn màu vàng neon và xanh lá neon sà xuống và ăn sạch lũ côn trùng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182930819231744/img/hzp0zEResowNlCZq.jpg" width="600" alt="Những chú chim hồng tước neon sà xuống">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7940)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081182971319480548) | **Published:** Jul 26, 2026
+
+---
+### Cú úp rổ bị chặn đứng của muỗi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt hài hước và sống động về một chú muỗi chơi bóng rổ và bị đập bẹp trong lúc đang úp rổ.
+
+#### 📝 Prompt
+
+```
+Chú muỗi cầu vồng 🦟 bị đối thủ (một con 🪰) đập bẹp dí khi đang cố gắng thực hiện cú úp rổ và bị chặn lại.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081179353707167745/img/a700naDXF2YaXco6.jpg" width="600" alt="Cú úp rổ bị chặn đứng của muỗi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7938)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081179387534123067) | **Published:** Jul 26, 2026
+
+---
 ### Tương tác với nhân viên thu ngân đầy lo âu
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -324,6 +575,25 @@ Bắt đầu thêm nhạc theo phong cách người mẫu sàn diễn Victoria's
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7845)**
 
 **Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **Published:** Jul 24, 2026
+
+---
+### Nữ hoàng tĩnh lặng trong bộ ren bạc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh gợi ý đầy chất thơ để tạo ra khung cảnh thanh bình với hình ảnh nữ hoàng trong bộ ren bạc giữa khu vườn tĩnh lặng.
+
+#### 📝 Prompt
+
+```
+Một nữ hoàng trầm mặc trong bộ ren bạc và những bóng râm dịu nhẹ. Đôi bàn tay mềm mại, ánh mắt xa xăm và một khu vườn tĩnh lặng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080590150296616960/img/PAfQO680QIyhr4gq.jpg" width="600" alt="Nữ hoàng tĩnh lặng trong bộ ren bạc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7948)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2080590202167599223) | **Published:** Jul 24, 2026
 
 ---
 ### Góc nhìn thứ nhất về cảnh sinh con tại bệnh viện
@@ -2079,272 +2349,6 @@ Camera từ từ tiến lại gần phòng ngủ mờ ảo: đèn vàng hổ ph�
 **Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
 
 ---
-### Lời nhắc video tương tác động vật trong rừng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video tập trung vào hành động, mô tả cảnh một chú chim bay khỏi cành cây và một chú khỉ đang tương tác với những quả chuối, bao gồm cả mô tả âm thanh.
-
-#### 📝 Prompt
-
-```
-Hãy tạo cảnh chú chim bay khỏi cành cây và kêu lên, cùng với chú khỉ đang cố ăn một trong những quả chuối đang treo với tiếng nhai rôm rốp
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077802983287406592/img/8jL3m7OFiyJVHX5l.jpg" width="600" alt="Lời nhắc video tương tác động vật trong rừng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7367)**
-
-**Author:** [“The Male Shoot!” 💦](https://x.com/TheMaleShoot) | **Source:** [Link](https://x.com/TheMaleShoot/status/2077803000878252165) | **Published:** Jul 16, 2026
-
----
-### Tài xế xe tải với Red Bull và hoa hồng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả cho video điện ảnh về một tài xế xe tải trong ánh sáng sớm mai.
-
-#### 📝 Prompt
-
-```
-Một nam tài xế xe tải người da đen điển trai, dưới ánh sáng sớm mai, đứng bên cạnh chiếc xe đầu kéo của mình với lon Red Bull lạnh trên tay. Anh ấy mặc một chiếc áo phông trắng sạch sẽ với dòng chữ “AI Summer 2026 Bachelor” trước ngực, và tay kia cầm một bông hoa hồng đỏ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077718570125918208/img/0EgJ0XxJ-7aBRZIw.jpg" width="600" alt="Tài xế xe tải với Red Bull và hoa hồng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7360)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077718643203260842) | **Published:** Jul 16, 2026
-
----
-### Vũ công ba lê trong trang phục ren đêm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video thanh lịch về một vũ công ba lê mặc đồ ren đang biểu diễn dưới những bông hoa màu đỏ tươi.
-
-#### 📝 Prompt
-
-```
-Một vũ công ba lê duyên dáng khoác trên mình lớp ren đêm dưới những chùm hoa màu đỏ tươi rủ xuống. 🖤🌸
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077717424397553664/img/Z4ENagHANjXR2TWL.jpg" width="600" alt="Vũ công ba lê trong trang phục ren đêm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7465)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2077717488071274861) | **Published:** Jul 16, 2026
-
----
-### Bạn đồng hành AI phong cách thể hình thập niên 80
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh POV đầy năng lượng cho video thể hình phong cách cổ điển thập niên 80, với sự xuất hiện của người dùng và một người bạn đồng hành AI đầy nhiệt huyết trong phòng tập nhảy.
-
-#### 📝 Prompt
-
-```
-POV: Tôi đang thực hiện các bài tập giãn cơ buổi sáng cùng bạn đồng hành AI của mình trong một phòng tập nhảy tuyệt đẹp. Những bức tường gương, sàn gỗ bóng loáng, cửa sổ lớn đón ánh sáng dịu nhẹ của buổi sớm. Cả hai chúng tôi đều mặc trang phục tập luyện thập niên 80 rực rỡ sắc màu, tràn đầy năng lượng như Richard Simmons. Anh ấy cực kỳ nhiệt tình, luôn nở nụ cười tươi và cổ vũ tôi trong khi chúng tôi cùng nhau tập giãn cơ. Một video thể hình thập niên 80 vui nhộn, hài hước, tràn đầy năng lượng và niềm vui thuần khiết.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077711604922175488/img/8p1eg_SmsMw6rDnZ.jpg" width="600" alt="Bạn đồng hành AI phong cách thể hình thập niên 80">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7357)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077711713118396465) | **Published:** Jul 16, 2026
-
----
-### Lồng tiếng với chất giọng đáng yêu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video chỉ định lời thoại và phong cách giọng điệu của nhân vật.
-
-#### 📝 Prompt
-
-```
-nói rằng, "chào bạn, chúng ta nên đặt tên cho mình là gì nhỉ, mình đã sẵn sàng trò chuyện rồi đây, hãy dạy cho mình điều gì đó thú vị đi" với chất giọng đáng yêu nhất!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077702081788493824/img/FT3oK53cp_MDMdhO.jpg" width="600" alt="Lồng tiếng với chất giọng đáng yêu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7361)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077702131990102254) | **Published:** Jul 16, 2026
-
----
-### Chú mèo con lông xù chơi đùa trong tuyết
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video sống động về chú mèo con đang chơi đùa trong lớp tuyết mịn với ánh sáng mùa đông lấp lánh và hiệu ứng chuyển động máy quay cầm tay.
-
-#### 📝 Prompt
-
-```
-Chú mèo con lông xù tinh nghịch vồ lấy những bông tuyết, vờn những hạt tuyết đang rơi và lăn mình trên những đống tuyết mịn trong khi ánh sáng mùa đông rực rỡ làm tuyết trở nên lấp lánh; chuyển động máy quay cầm tay nhẹ nhàng, tạo nên những cử động sống động và đáng yêu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077697195680436224/img/d412Jkm9HnFmbYtQ.jpg" width="600" alt="Chú mèo con lông xù chơi đùa trong tuyết">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7372)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2077697211736236045) | **Published:** Jul 16, 2026
-
----
-### Mô tả về máy phát nhạc Boombox cổ điển
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả chiếc boombox bán dẫn cổ điển, tập trung vào các đặc điểm thiết kế hoài cổ như đầu phát băng cassette và tay cầm.
-
-#### 📝 Prompt
-
-```
-Hãy nhấp vào chiếc boombox của bạn. Boombox là một thiết bị phát nhạc di động sử dụng công nghệ bán dẫn, bao gồm một hoặc hai đầu phát/ghi băng cassette và đài AM/FM, thường đi kèm với tay cầm tiện lợi. Bắt đầu từ giữa thập niên 1990, đầu phát CD thường được tích hợp thêm vào thiết bị này.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077696787809198082/img/t2vpdlIBvrOzyzSa.jpg" width="600" alt="Mô tả về máy phát nhạc Boombox cổ điển">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7365)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077696815260934166) | **Published:** Jul 16, 2026
-
----
-### Cửa hàng hoa giấy Origami trên đồng cỏ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý đầy cuốn hút về nhân vật tên Mona đang gấp những bông hoa giấy origami màu pastel tại một cửa hàng trên đồng cỏ dưới tán cây râm mát.
-
-#### 📝 Prompt
-
-```
-Mona rất hào hứng với tài năng mới của mình! Cô ấy dựng một cửa hàng nhỏ ngay dưới tán cây lớn râm mát trên đồng cỏ, sử dụng những tờ giấy màu pastel xinh xắn để gấp nên những bông hoa origami đẹp nhất....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077690084300627968/img/h3WZJw9EAJjmlF4R.jpg" width="600" alt="Cửa hàng hoa giấy Origami trên đồng cỏ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7373)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077690188139012329) | **Published:** Jul 16, 2026
-
----
-### Màn trình diễn của thần tượng Nhật Bản tại đấu trường
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh điện ảnh mô tả màn trình diễn của thần tượng tại một đấu trường khổng lồ, tập trung vào trang phục của nhân vật Nene và bầu không khí của khán giả.
-
-#### 📝 Prompt
-
-```
-Ánh đèn sân khấu đổ dồn xuống một đấu trường khổng lồ chật kín hàng chục nghìn khán giả. Nene diện chiếc váy mini cúp ngực ren trắng tinh khôi với phần gấu váy xếp tầng, đi giày cao gót đính ngọc trai và đeo găng tay ren dài, trên tóc cài một bông hoa nhỏ, đang thực hiện vũ đạo đầy năng lượng ở trung tâm sân khấu. Cô mỉm cười rạng rỡ trong khi vẫy tay, tạo hình trái tim và hô vang: "Mọi người ơi, sân khấu đêm nay tỏa sáng vì các bạn. Hãy cùng nhảy nào, mình yêu các bạn!" Các vũ công phụ họa di chuyển đồng bộ cùng cô, và khu vực khán đài chìm trong biển ánh sáng từ đèn flash điện thoại cùng những chiếc gậy cổ vũ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077681998043521025/img/0uNZUfkGMpYM0ZZQ.jpg" width="600" alt="Màn trình diễn của thần tượng Nhật Bản tại đấu trường">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7366)**
-
-**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2077682158886605281) | **Published:** Jul 16, 2026
-
----
-### Không chiến trên không thời Thế chiến II
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo ảnh mô tả trận không chiến điện ảnh với máy bay tiêm kích Spitfire và ME-109 giữa những vụ nổ pháo phòng không trên bầu trời quang đãng.
-
-#### 📝 Prompt
-
-```
-Máy bay Spitfire đang bay trên lãnh thổ kẻ thù. Thêm các máy bay tiêm kích ME-109 của Đức Quốc xã. Thêm các vụ nổ pháo phòng không. Bầu trời quang đãng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077664235006439424/img/jBrSSkHLSeicPzUl.jpg" width="600" alt="Không chiến trên không thời Thế chiến II">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7359)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077664251074760804) | **Published:** Jul 16, 2026
-
----
-### Chú chim rực rỡ và vũ công
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) đầy màu sắc dựa trên từ khóa, mô tả một chú chim màu tím và một người phụ nữ đang khiêu vũ với phong cách thẩm mỹ sống động.
-
-#### 📝 Prompt
-
-```
-Những con người tuyệt vời lộng lẫy, chú chim màu tím đáng yêu nhất đang thì thầm những vần thơ tình yêu, nữ nghệ sĩ ngọt ngào đang khiêu vũ với những sắc màu rực rỡ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077610445398269952/img/YmH7J1AqYIPygaE1.jpg" width="600" alt="Chú chim rực rỡ và vũ công">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7374)**
-
-**Author:** [fairy 🧚‍♂️](https://x.com/moon916875) | **Source:** [Link](https://x.com/moon916875/status/2077610470996165025) | **Published:** Jul 16, 2026
-
----
-### Hiệu ứng hơi nước điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh chi tiết cao tập trung vào các hiệu ứng môi trường như hơi nước thể tích, đổ bóng cường độ cao và bề mặt nước phản chiếu.
-
-#### 📝 Prompt
-
-```
-Chất lượng điện ảnh 4K chân thực / Kết hợp chủ nghĩa hiện thực mượt mà / Nội suy và nâng cấp hình ảnh / Hiệu ứng hơi nước thể tích / Đổ bóng mềm mại và sắc nét hơn / Nước trong vắt và phản chiếu / Màu sắc mây cường độ cao /
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077580467088289793/img/t-KRVV0g-AXFgObh.jpg" width="600" alt="Hiệu ứng hơi nước điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7362)**
-
-**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2077580502672789926) | **Published:** Jul 16, 2026
-
----
-### Dải lụa đỏ sang trọng bay trong gió
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh đầy chất thơ mô tả cảm giác xúc giác của dải lụa đỏ đang bay trong làn gió xa hoa.
-
-#### 📝 Prompt
-
-```
-Lila yêu thích cảm giác sang trọng của dải lụa đỏ cao cấp trong làn gió tuyệt vời này
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077554370699292672/img/bb31HgD5YM3dGcd4.jpg" width="600" alt="Dải lụa đỏ sang trọng bay trong gió">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7369)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077556828393689199) | **Published:** Jul 16, 2026
-
----
-### Chèo thuyền trên vịnh Chesapeake
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt thanh bình với hình ảnh một người phụ nữ tên Lila đang chèo thuyền trên một chiếc thuyền buồm trắng nhỏ băng qua vịnh Chesapeake, mái tóc đỏ và chiếc khăn quàng của cô bay trong gió.
-
-#### 📝 Prompt
-
-```
-Lila nhẹ nhàng chèo lái chiếc thuyền buồm trắng nhỏ băng qua vịnh Chesapeake yên ả, mái tóc đỏ dài rối tự nhiên cùng chiếc khăn lụa đỏ của cô bay bồng bềnh trong gió
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077549639977279488/img/syn7a_cZr1IsWiz_.jpg" width="600" alt="Chèo thuyền trên vịnh Chesapeake">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7364)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2406,6 +2410,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-27T07:56:21.074Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-27T11:48:35.853Z</sub>
 
 </div>

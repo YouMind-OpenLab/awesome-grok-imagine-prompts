@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2224** |
+| 📝 プロンプト総数 | **2238** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-27** |
 
@@ -189,6 +189,257 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 子守唄を歌うクリーチャー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ファンタジーなクリーチャーが赤ちゃんのクリーチャーに子守唄を歌う様子を描いた、幻想的な動画用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+椅子に座り、赤ちゃんのクリーチャーを抱きかかえたクリーチャーが、伝統的な歌「Rock-a-bye Baby」を歌っている
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081513814034612225/img/vfJExH-uGCXWvx4e.jpg" width="600" alt="子守唄を歌うクリーチャー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7941)**
+
+**作者:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **ソース:** [Link](https://x.com/CosmicCowboyCDN/status/2081517060094611502) | **公開日:** Jul 26, 2026
+
+---
+### 暗闇で光るインクの文字
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 暗闇でしか読み取れない、光るインクと文字を描写するミステリアスな動画用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+暗闇だけが理解できる言語を綴る。ページをめくった後も、インクは光り続けている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081180925124308992/img/cuzzXlEkJ3Clsu0X.jpg" width="600" alt="暗闇で光るインクの文字">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7944)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2081507355024359925) | **公開日:** Jul 26, 2026
+
+---
+### 1970 年代パリのシネマ・ヴェリテ風ビデオプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1970 年代パリのドキュメンタリー映像を再現するために設計された Grok Imagine 用プロンプト。16mm フィルム特有のザラついた質感、有機的な粒子感、自然光を活かした表現が特徴です。
+
+#### 📝 プロンプト
+
+```
+ザラついた 16mm シネマ・ヴェリテ、1970 年代パリの本格的なドキュメンタリー映像、有機的なフィルム粒子、純粋な自然光、肩乗せカメラによる激しい手ブレ、スタビライザーなし、ソフトフォーカス、微かな光漏れ、生々しくもエレガントな、生活感のあるリアリズム。1
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081484199245012992/img/V6zIay-_i7B99SSj.jpg" width="600" alt="1970 年代パリのシネマ・ヴェリテ風ビデオプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7947)**
+
+**作者:** [Ashley Ward](https://x.com/ashleyward) | **ソース:** [Link](https://x.com/ashleyward/status/2081484471367258516) | **公開日:** Jul 26, 2026
+
+---
+### 雨の夜のネオン街
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 雨に濡れた窓越しにネオン輝く街をドライブする様子を描いた、臨場感あふれるビデオ用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+フロントガラスを打つ雨、ガラス越しに滲むネオン、眠らない街をただ走り抜ける
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182887316168704/img/GyWe6gQL-FjDPiTp.jpg" width="600" alt="雨の夜のネオン街">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7946)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2081477154328449072) | **公開日:** Jul 26, 2026
+
+---
+### イーロン・マスクの Starship 宇宙旅行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> イーロン・マスクが Starship に乗って火星へ向かい、AI と対話する様子を描いた動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+火星へ向かう Starship 宇宙船内で AI と会話をするイーロン・マスク
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081432199501672448/img/zdAT_ab80GzJoYjv.jpg" width="600" alt="イーロン・マスクの Starship 宇宙旅行">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7942)**
+
+**作者:** [Amrutraj](https://x.com/Amrutraj4) | **ソース:** [Link](https://x.com/Amrutraj4/status/2081432217482641861) | **公開日:** Jul 26, 2026
+
+---
+### 回転する空の宇宙ビデオ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 回転する空と宇宙への親近感を表現した、天体ビデオ用の記述的プロンプト。
+
+#### 📝 プロンプト
+
+```
+静止したまま見上げる夜空が回転し続ける時、足元の地面よりも宇宙を身近に感じることがある
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182605689720832/img/AEs1d_l_3ygEKoaG.jpg" width="600" alt="回転する空の宇宙ビデオ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7943)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2081416756275380280) | **公開日:** Jul 26, 2026
+
+---
+### リアルな犬のニュースインタビュー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> レポーターが犬にリアルなインタビューを行う、プロフェッショナルなニュース風シーンのためのクリエイティブなプロンプトです。
+
+#### 📝 プロンプト
+
+```
+ニュースレポーターがまるで本物のインタビューを行っているかのように、犬の口元にマイクを近づけている様子。プロフェッショナルなニューススタイル、リアルなシーン
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081410515352616960/img/PuBRt4NsVZMSngJZ.jpg" width="600" alt="リアルな犬のニュースインタビュー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7935)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2081410626375807091) | **公開日:** Jul 26, 2026
+
+---
+### リアルな人間の笑い声のパフォーマンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> AI 動画において、特定の身体的合図を伴うリアルな人間の笑いを表現するための詳細な演出指示。
+
+#### 📝 プロンプト
+
+```
+最初の笑い声がすでに鼻から漏れ出し、大きな鼻を鳴らす音が響く。彼女は手で口を覆うが……手は負けてしまい、笑い声がその隙間から弾け飛ぶ。0.5 秒間の純粋な驚きの沈黙の後、彼女は完全に笑い崩れてしまう。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2081364983607091200/pu/img/gtz-6IIA5L8E5Dnc.jpg" width="600" alt="リアルな人間の笑い声のパフォーマンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7937)**
+
+**作者:** [GenFlick | Making Movies with AI | Join Us](https://x.com/Genflickmovies) | **ソース:** [Link](https://x.com/Genflickmovies/status/2081365155422556628) | **公開日:** Jul 26, 2026
+
+---
+### 幻想的な光るポーションと浮かぶハーブ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 光るポーションと浮かぶハーブを捉えた、映画のようなシネマティックなショットのためのファンタジー風プロンプト。魔法のような映画の雰囲気を演出します。
+
+#### 📝 プロンプト
+
+```
+光り輝くポーション。浮かび上がるハーブ。まるでファンタジー映画からそのまま飛び出してきたかのような光景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081348701201559552/img/gQ_MkREdMzn5aM0M.jpg" width="600" alt="幻想的な光るポーションと浮かぶハーブ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7945)**
+
+**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **ソース:** [Link](https://x.com/MarioNawfal/status/2081358875559682390) | **公開日:** Jul 26, 2026
+
+---
+### ロードランナーとキッチン窓
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ロードランナーがキッチンの窓を覗き込んでいる様子を描いた、家庭的なディテールを含む複雑なシーンの描写。
+
+#### 📝 プロンプト
+
+```
+ロードランナーがキッチンの窓枠に着地し、窓の中を覗き込む
+キッチンカウンターの上に、水が入ったガラスのピッチャーとスライスしたレモンを追加
+サワードウブレッドの塊
+ブレンダー
+赤ワインのボトルの横にチーズとフルーツの盛り合わせ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081255607697641472/img/oC9lkHjNLlWdKnIi.jpg" width="600" alt="ロードランナーとキッチン窓">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7939)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2081255642959147339) | **公開日:** Jul 26, 2026
+
+---
+### プリンセスと Elon Musk の社交ダンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 女性がプリンセスに変身し、舞踏会で Elon Musk とダンスを踊る様子を描いたナラティブ動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+Margaret が長い茶髪の美しいプリンセスに変身し、優雅な舞踏会で Elon Musk が彼女にダンスを申し込む。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081225356766502912/img/xgJKf6DJWjTFa6HL.jpg" width="600" alt="プリンセスと Elon Musk の社交ダンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7936)**
+
+**作者:** [Margaret Ford](https://x.com/Margaretfit08) | **ソース:** [Link](https://x.com/Margaretfit08/status/2081225375900971458) | **公開日:** Jul 26, 2026
+
+---
+### ネオンカラーのショウジョウコウカンチョウが急降下
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ネオンカラーのショウジョウコウカンチョウが昆虫を捕食するために急降下する、視覚的に印象的な動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+鮮やかなネオンレッドの羽を持ち、ネオンイエローとネオングリーンのアクセントが輝くショウジョウコウカンチョウの群れが、急降下して昆虫を捕食する。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182930819231744/img/hzp0zEResowNlCZq.jpg" width="600" alt="ネオンカラーのショウジョウコウカンチョウが急降下">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7940)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2081182971319480548) | **公開日:** Jul 26, 2026
+
+---
+### 蚊のダンクシュート阻止
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> バスケットボールをする蚊が、ダンクシュートの瞬間に叩き潰されるという、ユーモラスで躍動感のある動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+レインボー蚊 🦟 がダンクシュートを試みるも、対戦相手（ハエ 🪰）に強烈なブロックを食らい、叩き潰されてしまう様子。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081179353707167745/img/a700naDXF2YaXco6.jpg" width="600" alt="蚊のダンクシュート阻止">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7938)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2081179387534123067) | **公開日:** Jul 26, 2026
+
+---
 ### 不安げなレジ係のやり取り
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -324,6 +575,25 @@ Victoria's Secret のランウェイモデルのような音楽を加え、着�
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7845)**
 
 **作者:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **ソース:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **公開日:** Jul 24, 2026
+
+---
+### 銀のレースを纏った静かな女王
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 銀のレースを纏った女王が静寂な庭園に佇む、穏やかなシーンを生成するための詩的なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+銀のレースと柔らかな影に包まれた、静かな女王。優しげな手元、遠くを見つめる瞳、そして静寂に満ちた庭園。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080590150296616960/img/PAfQO680QIyhr4gq.jpg" width="600" alt="銀のレースを纏った静かな女王">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7948)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2080590202167599223) | **公開日:** Jul 24, 2026
 
 ---
 ### 病院での出産：一人称視点
@@ -2079,272 +2349,6 @@ Annabelle 🪻🌸🌹🐞🍇⛲️🌲
 **作者:** [PussyGalorious](https://x.com/PussyGaloryious) | **ソース:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **公開日:** Jul 16, 2026
 
 ---
-### ジャングルでの動物のインタラクション動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 鳥が止まり木から飛び立ち、サルがバナナと触れ合う様子を描いた、アクション重視の動画プロンプト。効果音の描写も含まれています。
-
-#### 📝 プロンプト
-
-```
-鳥が鳴き声を上げながら止まり木から飛び立ち、サルがぶら下がっているバナナを食べようとしてモグモグと音を立てる様子
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077802983287406592/img/8jL3m7OFiyJVHX5l.jpg" width="600" alt="ジャングルでの動物のインタラクション動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7367)**
-
-**作者:** [“The Male Shoot!” 💦](https://x.com/TheMaleShoot) | **ソース:** [Link](https://x.com/TheMaleShoot/status/2077803000878252165) | **公開日:** Jul 16, 2026
-
----
-### レッドブルとバラを持つトラック運転手
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 早朝の光の中に佇むトラック運転手を撮影した、映画のような動画のための詳細なプロンプト。
-
-#### 📝 プロンプト
-
-```
-早朝の光の中、大型トラックの横に立つハンサムな黒人のトラック運転手。片手には冷えた Red Bull を持ち、もう片方の手には一輪の赤いバラを持っている。胸元に「AI Summer 2026 Bachelor」と書かれた清潔な白い T シャツを着用している。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077718570125918208/img/0EgJ0XxJ-7aBRZIw.jpg" width="600" alt="レッドブルとバラを持つトラック運転手">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7360)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077718643203260842) | **公開日:** Jul 16, 2026
-
----
-### ミッドナイトレースを纏ったバレリーナ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> マゼンタ色の花々の下でレースの衣装を纏い踊る、優雅なバレリーナのための動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-垂れ下がるマゼンタ色の花々の下、ミッドナイトレースに包まれて踊る優雅なバレリーナ。 🖤🌸
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077717424397553664/img/Z4ENagHANjXR2TWL.jpg" width="600" alt="ミッドナイトレースを纏ったバレリーナ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7465)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2077717488071274861) | **公開日:** Jul 16, 2026
-
----
-### 80 年代フィットネス AI コンパニオン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ダンススタジオでユーザーと熱狂的な AI コンパニオンが登場する、80 年代風フィットネス動画のハイエナジーな POV プロンプト。
-
-#### 📝 プロンプト
-
-```
-POV：美しいダンススタジオで、AI コンパニオンと一緒に朝のストレッチをしている。壁一面の鏡、光沢のあるリノリウムの床、柔らかな朝の光が差し込む大きな窓。二人とも鮮やかでカラフルな 80 年代のワークアウトウェアを着て、Richard Simmons のようなエネルギー全開。彼はとても熱心で、満面の笑みを浮かべ、一緒にストレッチをしながら応援してくれる。楽しくて少しおどけた、80 年代フィットネス動画のハイエナジーな雰囲気。純粋な喜び。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077711604922175488/img/8p1eg_SmsMw6rDnZ.jpg" width="600" alt="80 年代フィットネス AI コンパニオン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7357)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077711713118396465) | **公開日:** Jul 16, 2026
-
----
-### 愛らしいアクセントのボイスオーバー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャラクターのセリフとアクセントのスタイルを指定する動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-「ねえ、私の名前は何にする？おしゃべりの準備はできているよ。何か楽しいことを教えて！」と、最高に愛らしいアクセントで話します！
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077702081788493824/img/FT3oK53cp_MDMdhO.jpg" width="600" alt="愛らしいアクセントのボイスオーバー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7361)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077702131990102254) | **公開日:** Jul 16, 2026
-
----
-### 雪の中で遊ぶふわふわの子猫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> きらめく冬の光と手持ちカメラの動きで、パウダースノーの中を遊ぶ子猫を表現したダイナミックな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-ふわふわの子猫が雪の中を元気に飛び跳ね、舞い落ちる雪片にじゃれつき、パウダースノーの吹き溜まりで転げ回る様子。冬の明るい光の中で雪がキラキラと輝き、手持ちカメラの穏やかな揺れが、生き生きとした可愛らしい動きを引き立てます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077697195680436224/img/d412Jkm9HnFmbYtQ.jpg" width="600" alt="雪の中で遊ぶふわふわの子猫">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7372)**
-
-**作者:** [Grok imagine user](https://x.com/imagine_user_) | **ソース:** [Link](https://x.com/imagine_user_/status/2077697211736236045) | **公開日:** Jul 16, 2026
-
----
-### レトロなラジカセの説明
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> カセットデッキや持ち手など、レトロなデザインが特徴的な、昔ながらのトランジスタ式ラジカセを描写するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ラジカセをクリックしてください。ラジカセとは、1 つまたは 2 つのカセットテーププレーヤー / レコーダーと AM/FM ラジオを備えたトランジスタ式のポータブル音楽プレーヤーで、一般的に持ち運び用のハンドルが付いています。1990 年代半ば以降は、CD プレーヤーが搭載されることも一般的になりました。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077696787809198082/img/t2vpdlIBvrOzyzSa.jpg" width="600" alt="レトロなラジカセの説明">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7365)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077696815260934166) | **公開日:** Jul 16, 2026
-
----
-### 草原の折り紙フラワーショップ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 木陰の草原で、Mona というキャラクターがパステルカラーの折り紙で花を折る、魅力的なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-Mona は自分の新しい才能にワクワクしています！彼女は草原の大きな木陰に小さなお店を開き、美しいパステルカラーの紙を使って、最高に素敵な折り紙の花を折っています……。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077690084300627968/img/h3WZJw9EAJjmlF4R.jpg" width="600" alt="草原の折り紙フラワーショップ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7373)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077690188139012329) | **公開日:** Jul 16, 2026
-
----
-### 日本のアイドルによるアリーナ公演
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 巨大なアリーナでのアイドル公演を描写するシネマティックなプロンプト。キャラクター「Nene」の衣装と会場の雰囲気に焦点を当てています。
-
-#### 📝 プロンプト
-
-```
-数万人の観客で埋め尽くされた巨大なアリーナにスポットライトが降り注ぐ。Nene は、裾がフリルになった純白のレースのベアトップミニドレスを身にまとい、パールのハイヒールと長いレースの手袋を着用し、髪には小さな花を飾ってステージ中央でエネルギッシュなダンスを披露している。彼女は満面の笑みで手を振り、ハートのポーズを作りながら叫ぶ。「みんな、今夜のステージはあなたたちのために輝いているよ。一緒に踊ろう、大好き！」バックダンサーたちが彼女と息を合わせて動き、客席はスマートフォンのフラッシュとペンライトの光の海に包まれている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077681998043521025/img/0uNZUfkGMpYM0ZZQ.jpg" width="600" alt="日本のアイドルによるアリーナ公演">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7366)**
-
-**作者:** [Peter Lam](https://x.com/PeterPanLam1990) | **ソース:** [Link](https://x.com/PeterPanLam1990/status/2077682158886605281) | **公開日:** Jul 16, 2026
-
----
-### 第二次世界大戦の空中戦
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 晴れ渡った空を舞台に、スピットファイアと ME-109 戦闘機が対空砲火の爆発の中で繰り広げる、映画のような空中戦のプロンプトです。
-
-#### 📝 プロンプト
-
-```
-敵地上空を飛行するスピットファイア。ナチスの ME-109 戦闘機を追加。対空砲火の爆発を追加。晴天。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077664235006439424/img/jBrSSkHLSeicPzUl.jpg" width="600" alt="第二次世界大戦の空中戦">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7359)**
-
-**作者:** [Erkki Heliö](https://x.com/erkki_helio) | **ソース:** [Link](https://x.com/erkki_helio/status/2077664251074760804) | **公開日:** Jul 16, 2026
-
----
-### 鮮やかな鳥とダンサー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 紫色の鳥と鮮やかな美学の中で踊る女性をフィーチャーした、キーワードベースのカラフルなプロンプトです。
-
-#### 📝 プロンプト
-
-```
-豪華で素晴らしい人々、最高にキュートで愛らしい紫色の鳥が愛の詩をささやく、愛らしくスイートなアーティストの女性が鮮やかな色彩の中で踊る
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077610445398269952/img/YmH7J1AqYIPygaE1.jpg" width="600" alt="鮮やかな鳥とダンサー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7374)**
-
-**作者:** [fairy 🧚‍♂️](https://x.com/moon916875) | **ソース:** [Link](https://x.com/moon916875/status/2077610470996165025) | **公開日:** Jul 16, 2026
-
----
-### シネマティックな水蒸気の雰囲気
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ボリューム感のある水蒸気、強烈な影、反射する水面といった環境エフェクトに焦点を当てた、非常に詳細なシネマティックプロンプトです。
-
-#### 📝 プロンプト
-
-```
-リアルな 4K シネマティック品質 / スムーズなミックスリアリズム / 補間およびアップスケール / ボリューム感のある水蒸気エフェクト / より柔らかく強烈な影 / 透明感があり反射する水面 / 強烈な雲の色 /
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077580467088289793/img/t-KRVV0g-AXFgObh.jpg" width="600" alt="シネマティックな水蒸気の雰囲気">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7362)**
-
-**作者:** [Arak Dark](https://x.com/orgunus93304) | **ソース:** [Link](https://x.com/orgunus93304/status/2077580502672789926) | **公開日:** Jul 16, 2026
-
----
-### 風になびく豪華な赤いシルクの帯
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 贅沢な風に吹かれる赤いシルクの帯の触感を表現した、詩的なプロンプト。
-
-#### 📝 プロンプト
-
-```
-Lila は、この贅沢な風の中でなびく高級感あふれる赤いシルクの帯の感触が大好きです
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077554370699292672/img/bb31HgD5YM3dGcd4.jpg" width="600" alt="風になびく豪華な赤いシルクの帯">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7369)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077556828393689199) | **公開日:** Jul 16, 2026
-
----
-### チェサピーク湾でのセーリング
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> チェサピーク湾を小さな白いヨットで航行するライラという女性を描いた、穏やかなビデオプロンプト。彼女の赤い髪とスカーフが風になびいています。
-
-#### 📝 プロンプト
-
-```
-穏やかなチェサピーク湾を小さな白いヨットで優雅に航行するライラ。彼女の長く乱れた赤い髪と赤いシルクのスカーフが、風を受けて美しくなびいている
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077549639977279488/img/syn7a_cZr1IsWiz_.jpg" width="600" alt="チェサピーク湾でのセーリング">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7364)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **公開日:** Jul 16, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2406,6 +2410,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-27T07:56:15.475Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-27T11:48:33.621Z</sub>
 
 </div>

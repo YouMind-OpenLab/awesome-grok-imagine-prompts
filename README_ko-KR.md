@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2224** |
+| 📝 총 프롬프트 수 | **2238** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-27** |
 
@@ -189,6 +189,257 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 자장가를 부르는 크리처
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 판타지 크리처가 아기 크리처에게 자장가를 불러주는 모습을 담은 기발한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+의자에 앉아 아기 크리처를 안고 있는 크리처가 전통 자장가인 "Rock-a-bye Baby"를 부르는 모습
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081513814034612225/img/vfJExH-uGCXWvx4e.jpg" width="600" alt="자장가를 부르는 크리처">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7941)**
+
+**작성자:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **출처:** [Link](https://x.com/CosmicCowboyCDN/status/2081517060094611502) | **게시일:** Jul 26, 2026
+
+---
+### 어둠 속에서 빛나는 잉크 글귀
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 어둠 속에서만 읽을 수 있는 빛나는 잉크와 글씨가 담긴 영상을 위한 신비로운 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+페이지를 넘겨도 여전히 빛나는 잉크로 어둠만이 이해할 수 있는 언어를 써 내려갑니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081180925124308992/img/cuzzXlEkJ3Clsu0X.jpg" width="600" alt="어둠 속에서 빛나는 잉크 글귀">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7944)**
+
+**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2081507355024359925) | **게시일:** Jul 26, 2026
+
+---
+### 1970년대 파리 시네마 베리테 비디오 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 유기적인 필름 그레인과 자연광을 활용한 거친 16mm 필름 미학의 1970년대 파리 다큐멘터리 영상을 생성하기 위해 설계된 Grok Imagine용 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+거친 16mm 시네마 베리테, 1970년대 파리 다큐멘터리 영상의 진정성, 유기적인 필름 그레인, 순수한 자연광, 숄더 마운트 핸드헬드의 강한 흔들림, 보정 없음, 부드러운 초점 흐림, 미묘한 빛 번짐, 날것 그대로의 우아함, 삶이 묻어나는 사실주의. 1
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081484199245012992/img/V6zIay-_i7B99SSj.jpg" width="600" alt="1970년대 파리 시네마 베리테 비디오 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7947)**
+
+**작성자:** [Ashley Ward](https://x.com/ashleyward) | **출처:** [Link](https://x.com/ashleyward/status/2081484471367258516) | **게시일:** Jul 26, 2026
+
+---
+### 비 내리는 밤의 네온 도시
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 빗줄기가 흐르는 창문을 통해 본 네온사인 가득한 도시의 드라이브 영상을 위한 생생하고 분위기 있는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+앞 유리에 내리는 빗물, 유리를 통해 번지는 네온사인, 잠들지 않는 도시를 가로지르는 드라이브
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182887316168704/img/GyWe6gQL-FjDPiTp.jpg" width="600" alt="비 내리는 밤의 네온 도시">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7946)**
+
+**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2081477154328449072) | **게시일:** Jul 26, 2026
+
+---
+### Elon Musk 의 Starship 여정
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Elon Musk 가 Starship 을 타고 화성으로 여행하며 AI 와 상호작용하는 모습을 담은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+화성으로 향하는 Starship 우주선 안에 앉아 AI 와 대화하는 Elon Musk
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081432199501672448/img/zdAT_ab80GzJoYjv.jpg" width="600" alt="Elon Musk 의 Starship 여정">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7942)**
+
+**작성자:** [Amrutraj](https://x.com/Amrutraj4) | **출처:** [Link](https://x.com/Amrutraj4/status/2081432217482641861) | **게시일:** Jul 26, 2026
+
+---
+### 회전하는 하늘 코스믹 비디오
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 회전하는 하늘과 우주와의 근접성을 특징으로 하는 천체 비디오를 위한 묘사적 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+가만히 서 있는데 밤마다 온 하늘이 계속 회전하는 것 같아, 때로는 땅보다 우주가 더 가깝게 느껴진다
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182605689720832/img/AEs1d_l_3ygEKoaG.jpg" width="600" alt="회전하는 하늘 코스믹 비디오">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7943)**
+
+**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2081416756275380280) | **게시일:** Jul 26, 2026
+
+---
+### 실감 나는 강아지 뉴스 인터뷰
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 기자가 강아지와 실제 인터뷰를 진행하는 전문적인 뉴스 스타일의 장면을 위한 창의적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+실제 인터뷰를 진행하는 것처럼 강아지 입 가까이에 마이크를 대고 있는 뉴스 기자, 전문적인 뉴스 스타일, 실감 나는 장면
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081410515352616960/img/PuBRt4NsVZMSngJZ.jpg" width="600" alt="실감 나는 강아지 뉴스 인터뷰">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7935)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2081410626375807091) | **게시일:** Jul 26, 2026
+
+---
+### 실감 나는 인간의 웃음 연기
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 구체적인 신체적 단서를 활용하여 실감 나는 인간의 웃음을 구현하기 위한 AI 비디오 상세 연기 지침입니다.
+
+#### 📝 프롬프트
+
+```
+첫 웃음이 이미 코를 통해 터져 나옵니다. 크게 한 번 콧방귀를 뀌며 손으로 입을 막아보지만... 손은 역부족입니다. 웃음이 손 사이로 터져 나옵니다. 0.5초간의 완벽하고 멍한 정적, 그리고 그녀는 완전히 웃음 속에 빠져듭니다.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2081364983607091200/pu/img/gtz-6IIA5L8E5Dnc.jpg" width="600" alt="실감 나는 인간의 웃음 연기">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7937)**
+
+**작성자:** [GenFlick | Making Movies with AI | Join Us](https://x.com/Genflickmovies) | **출처:** [Link](https://x.com/Genflickmovies/status/2081365155422556628) | **게시일:** Jul 26, 2026
+
+---
+### 판타지풍의 빛나는 물약과 공중에 떠 있는 허브
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 빛나는 물약과 공중에 떠 있는 허브를 담은 영화적 장면을 위한 판타지풍 프롬프트로, 마법 같은 영화적 분위기를 연출합니다.
+
+#### 📝 프롬프트
+
+```
+빛나는 물약. 공중에 떠 있는 허브. 마치 판타지 영화 속 한 장면을 그대로 옮겨놓은 듯한 분위기.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081348701201559552/img/gQ_MkREdMzn5aM0M.jpg" width="600" alt="판타지풍의 빛나는 물약과 공중에 떠 있는 허브">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7945)**
+
+**작성자:** [Mario Nawfal](https://x.com/MarioNawfal) | **출처:** [Link](https://x.com/MarioNawfal/status/2081358875559682390) | **게시일:** Jul 26, 2026
+
+---
+### 로드러너 주방 창문
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 다양한 가정집 디테일이 담긴 주방을 들여다보는 로드러너가 등장하는 영상의 복합적인 장면 묘사.
+
+#### 📝 프롬프트
+
+```
+로드러너가 주방 창틀에 내려앉아 창문 안을 들여다본다
+주방 조리대 위에는 물이 담긴 유리 피처와 슬라이스한 레몬이 놓여 있다
+사워도우 빵 한 덩이
+블렌더
+레드 와인 병 옆에 놓인 치즈와 과일 접시
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081255607697641472/img/oC9lkHjNLlWdKnIi.jpg" width="600" alt="로드러너 주방 창문">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7939)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2081255642959147339) | **게시일:** Jul 26, 2026
+
+---
+### 공주와 Elon Musk 의 무도회 댄스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 한 여성이 공주로 변신해 Elon Musk 와 무도회장에서 춤을 추는 서사적 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+Margaret 이 긴 갈색 머리의 아름다운 공주로 변신하고, Elon Musk 가 우아한 무도회장에서 그녀에게 춤을 청합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081225356766502912/img/xgJKf6DJWjTFa6HL.jpg" width="600" alt="공주와 Elon Musk 의 무도회 댄스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7936)**
+
+**작성자:** [Margaret Ford](https://x.com/Margaretfit08) | **출처:** [Link](https://x.com/Margaretfit08/status/2081225375900971458) | **게시일:** Jul 26, 2026
+
+---
+### 네온 카디널 새들의 급강하
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 네온 색상의 카디널 새들이 곤충을 사냥하기 위해 급강하하는 모습을 담은 시각적으로 강렬한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+눈부신 네온 레드 색상의 카디널 새 무리가 네온 옐로우와 네온 그린 하이라이트를 뽐내며 급강하하여 곤충들을 잡아먹습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182930819231744/img/hzp0zEResowNlCZq.jpg" width="600" alt="네온 카디널 새들의 급강하">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7940)**
+
+**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2081182971319480548) | **게시일:** Jul 26, 2026
+
+---
+### 모기 슬램덩크 거부
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 농구를 하던 모기가 덩크슛을 시도하다가 파리채에 맞아 납작해지는 유머러스하고 역동적인 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+무지개 모기 🦟가 슬램덩크를 시도하다가 상대 선수(🪰)에게 강력한 블로킹을 당해 납작하게 찌부러지는 모습입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081179353707167745/img/a700naDXF2YaXco6.jpg" width="600" alt="모기 슬램덩크 거부">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7938)**
+
+**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2081179387534123067) | **게시일:** Jul 26, 2026
+
+---
 ### 불안해하는 계산대 점원들의 상호작용
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -324,6 +575,25 @@ Victoria's Secret 런웨이 모델처럼 승리감 넘치는 음악을 추가하
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7845)**
 
 **작성자:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **출처:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **게시일:** Jul 24, 2026
+
+---
+### 은빛 레이스를 입은 고요한 여왕
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 고요한 정원 속 은빛 레이스를 입은 여왕의 평온한 모습을 생성하기 위한 시적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+은빛 레이스와 부드러운 그림자 속에 있는 고요한 여왕. 섬세한 손길, 먼 곳을 응시하는 눈빛, 그리고 정적만이 흐르는 정원.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080590150296616960/img/PAfQO680QIyhr4gq.jpg" width="600" alt="은빛 레이스를 입은 고요한 여왕">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7948)**
+
+**작성자:** [Stella 𝕏](https://x.com/StellaGrokStar) | **출처:** [Link](https://x.com/StellaGrokStar/status/2080590202167599223) | **게시일:** Jul 24, 2026
 
 ---
 ### 병원 출산 1인칭 시점
@@ -2079,272 +2349,6 @@ Annabelle 🪻🌸🌹🐞🍇⛲️🌲
 **작성자:** [PussyGalorious](https://x.com/PussyGaloryious) | **출처:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **게시일:** Jul 16, 2026
 
 ---
-### 정글 동물 상호작용 비디오 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 새가 횃대에서 날아오르고 원숭이가 바나나와 상호작용하는 모습을 담은 액션 중심의 비디오 프롬프트로, 사운드 설명이 포함되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-새가 울음소리를 내며 횃대에서 날아오르고, 원숭이가 매달린 바나나 중 하나를 먹으려 하며 우적거리는 소리를 내도록 설정하세요
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077802983287406592/img/8jL3m7OFiyJVHX5l.jpg" width="600" alt="정글 동물 상호작용 비디오 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7367)**
-
-**작성자:** [“The Male Shoot!” 💦](https://x.com/TheMaleShoot) | **출처:** [Link](https://x.com/TheMaleShoot/status/2077803000878252165) | **게시일:** Jul 16, 2026
-
----
-### 레드불과 장미를 든 트럭 운전사
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 이른 아침 햇살 속 트럭 운전사의 모습을 담은 영화 같은 영상용 묘사 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이른 아침 햇살을 받으며 자신의 대형 트럭 옆에 서 있는 잘생긴 흑인 트럭 운전사. 그는 한 손에 차가운 레드불을 들고 있습니다. 가슴에 “AI Summer 2026 Bachelor”라고 적힌 깔끔한 흰색 티셔츠를 입고 있으며, 다른 한 손에는 붉은 장미 한 송이를 들고 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077718570125918208/img/0EgJ0XxJ-7aBRZIw.jpg" width="600" alt="레드불과 장미를 든 트럭 운전사">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7360)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2077718643203260842) | **게시일:** Jul 16, 2026
-
----
-### 미드나잇 레이스를 입은 발레리나
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 마젠타 꽃 아래에서 레이스 의상을 입고 공연하는 발레리나를 위한 우아한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-늘어진 마젠타 꽃 아래, 미드나잇 레이스를 입고 우아하게 춤추는 발레리나. 🖤🌸
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077717424397553664/img/Z4ENagHANjXR2TWL.jpg" width="600" alt="미드나잇 레이스를 입은 발레리나">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7465)**
-
-**작성자:** [Stella 𝕏](https://x.com/StellaGrokStar) | **출처:** [Link](https://x.com/StellaGrokStar/status/2077717488071274861) | **게시일:** Jul 16, 2026
-
----
-### 80년대 피트니스 AI 컴패니언
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 댄스 스튜디오에서 사용자와 열정적인 AI 컴패니언이 함께하는 빈티지 80년대 스타일 피트니스 영상의 하이 에너지 POV 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-POV: 아름다운 댄스 스튜디오에서 AI 컴패니언과 함께 아침 스트레칭을 하고 있다. 벽면 전체가 거울로 되어 있고, 반짝이는 리놀륨 바닥, 부드러운 아침 햇살이 들어오는 큰 창문이 있다. 우리 둘 다 밝고 화려한 80년대 운동복을 입고 있으며, 리처드 시몬스(Richard Simmons) 같은 에너지가 넘친다. 그는 매우 열정적이며, 환하게 웃으며 함께 스트레칭하는 나를 응원해 준다. 재미있고 엉뚱하며 에너지가 넘치는 80년대 피트니스 영상 분위기, 순수한 즐거움 그 자체.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077711604922175488/img/8p1eg_SmsMw6rDnZ.jpg" width="600" alt="80년대 피트니스 AI 컴패니언">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7357)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2077711713118396465) | **게시일:** Jul 16, 2026
-
----
-### 사랑스러운 억양의 보이스오버
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 캐릭터의 대사와 억양 스타일을 지정하는 비디오 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-"안녕, 나를 뭐라고 부르면 좋을까? 대화할 준비 됐어, 재미있는 거 하나 알려줘"라고 아주 사랑스러운 억양으로 말해줘!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077702081788493824/img/FT3oK53cp_MDMdhO.jpg" width="600" alt="사랑스러운 억양의 보이스오버">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7361)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2077702131990102254) | **게시일:** Jul 16, 2026
-
----
-### 눈 위에서 뛰어노는 복슬복슬한 아기 고양이
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 반짝이는 겨울 햇살 아래 고운 눈 위에서 뛰어노는 아기 고양이를 위한 역동적인 비디오 프롬프트로, 핸드헬드 카메라 기법이 적용되었습니다.
-
-#### 📝 프롬프트
-
-```
-복슬복슬한 아기 고양이가 눈 위를 장난스럽게 뛰어다니고, 떨어지는 눈송이를 솜방망이로 툭툭 치며, 고운 눈 더미 속에서 뒹굽니다. 밝은 겨울 햇살에 눈이 반짝이며, 부드러운 핸드헬드 카메라 움직임이 생동감 있고 귀여운 모습을 담아냅니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077697195680436224/img/d412Jkm9HnFmbYtQ.jpg" width="600" alt="눈 위에서 뛰어노는 복슬복슬한 아기 고양이">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7372)**
-
-**작성자:** [Grok imagine user](https://x.com/imagine_user_) | **출처:** [Link](https://x.com/imagine_user_/status/2077697211736236045) | **게시일:** Jul 16, 2026
-
----
-### 레트로 붐박스 설명
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 카세트 플레이어와 손잡이 등 레트로한 디자인 특징에 초점을 맞춘 클래식 트랜지스터 붐박스에 대한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-붐박스를 클릭하세요. 붐박스는 일반적으로 손잡이가 달려 있으며, 한두 개의 카세트 테이프 플레이어/레코더와 AM/FM 라디오를 갖춘 트랜지스터 방식의 휴대용 음악 재생 기기입니다. 1990년대 중반부터는 CD 플레이어가 포함되는 경우가 많았습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077696787809198082/img/t2vpdlIBvrOzyzSa.jpg" width="600" alt="레트로 붐박스 설명">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7365)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2077696815260934166) | **게시일:** Jul 16, 2026
-
----
-### 초원 위의 종이접기 꽃집
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 그늘진 나무 아래 초원 위에서 Mona라는 캐릭터가 파스텔 톤의 종이접기 꽃을 만드는 매력적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Mona는 자신의 새로운 재능에 무척 들떠 있습니다! 그녀는 초원의 커다란 나무 그늘 아래 작은 가게를 차리고, 예쁜 파스텔 톤 종이를 사용해 세상에서 가장 아름다운 종이접기 꽃을 만듭니다....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077690084300627968/img/h3WZJw9EAJjmlF4R.jpg" width="600" alt="초원 위의 종이접기 꽃집">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7373)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2077690188139012329) | **게시일:** Jul 16, 2026
-
----
-### 일본 아이돌 아레나 공연
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 거대한 아레나에서 펼쳐지는 아이돌 공연을 묘사한 시네마틱 프롬프트로, 캐릭터 네네의 의상과 관객석의 분위기에 초점을 맞췄습니다.
-
-#### 📝 프롬프트
-
-```
-수만 명의 관객으로 가득 찬 거대한 아레나 위로 조명이 쏟아집니다. 네네는 러플 밑단이 달린 순백색 레이스 튜브톱 미니 드레스에 진주 하이힐, 긴 레이스 장갑을 착용하고 머리에는 작은 꽃을 꽂은 채 무대 중앙에서 활기찬 춤을 선보입니다. 그녀는 밝게 웃으며 손을 흔들고, 하트 모양을 만들며 외칩니다. "여러분, 오늘 밤의 무대는 여러분을 위해 빛나고 있어요. 함께 춤춰요, 사랑해요!" 백댄서들은 그녀와 완벽한 호흡을 맞추며 움직이고, 객석은 스마트폰 플래시와 야광봉이 만들어내는 빛의 바다로 뒤덮여 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077681998043521025/img/0uNZUfkGMpYM0ZZQ.jpg" width="600" alt="일본 아이돌 아레나 공연">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7366)**
-
-**작성자:** [Peter Lam](https://x.com/PeterPanLam1990) | **출처:** [Link](https://x.com/PeterPanLam1990/status/2077682158886605281) | **게시일:** Jul 16, 2026
-
----
-### 제2차 세계 대전 공중전
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 맑은 하늘을 배경으로 스핏파이어(Spitfire)와 ME-109 전투기가 대공포 폭발 속에서 벌이는 영화 같은 공중전 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-적진 상공을 비행하는 스핏파이어. 나치 ME-109 전투기 추가. 대공포 폭발 효과 추가. 맑은 하늘.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077664235006439424/img/jBrSSkHLSeicPzUl.jpg" width="600" alt="제2차 세계 대전 공중전">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7359)**
-
-**작성자:** [Erkki Heliö](https://x.com/erkki_helio) | **출처:** [Link](https://x.com/erkki_helio/status/2077664251074760804) | **게시일:** Jul 16, 2026
-
----
-### 생동감 넘치는 새와 댄서
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 보라색 새와 생동감 넘치는 미학으로 춤을 추는 여성을 특징으로 하는 다채로운 키워드 기반 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-매혹적이고 놀라운 사람들, 가장 귀엽고 사랑스러운 보라색 새가 사랑의 시를 속삭이고, 다채로운 색감으로 춤을 추는 사랑스럽고 달콤한 예술가 여성
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077610445398269952/img/YmH7J1AqYIPygaE1.jpg" width="600" alt="생동감 넘치는 새와 댄서">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7374)**
-
-**작성자:** [fairy 🧚‍♂️](https://x.com/moon916875) | **출처:** [Link](https://x.com/moon916875/status/2077610470996165025) | **게시일:** Jul 16, 2026
-
----
-### 영화 같은 수증기 분위기
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 볼륨감 있는 수증기, 강렬한 그림자, 반사되는 수면과 같은 환경 효과에 초점을 맞춘 매우 상세한 영화적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-사실적인 4K 영화 품질 / 부드러운 사실주의 혼합 / 보간 및 업스케일 / 볼륨감 있는 수증기 효과 / 더 부드럽고 강렬한 그림자 / 수정처럼 맑고 반사되는 물 / 강렬한 구름 색상 /
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077580467088289793/img/t-KRVV0g-AXFgObh.jpg" width="600" alt="영화 같은 수증기 분위기">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7362)**
-
-**작성자:** [Arak Dark](https://x.com/orgunus93304) | **출처:** [Link](https://x.com/orgunus93304/status/2077580502672789926) | **게시일:** Jul 16, 2026
-
----
-### 바람에 휘날리는 고급스러운 레드 실크 새시
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 호화로운 바람에 휘날리는 레드 실크 새시의 촉감을 묘사한 시적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Lila는 이 호화로운 바람과 함께 느껴지는 고급스러운 레드 실크 새시의 감촉을 사랑합니다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077554370699292672/img/bb31HgD5YM3dGcd4.jpg" width="600" alt="바람에 휘날리는 고급스러운 레드 실크 새시">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7369)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2077556828393689199) | **게시일:** Jul 16, 2026
-
----
-### 체서피크 만에서의 요트 항해
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 체서피크 만을 가로질러 작은 흰색 요트를 타고 항해하는 라일라(Lila)의 평온한 모습을 담은 비디오 프롬프트입니다. 그녀의 붉은 머리카락과 스카프가 바람에 휘날리는 장면이 특징입니다.
-
-#### 📝 프롬프트
-
-```
-잔잔한 체서피크 만을 가로질러 작은 흰색 요트를 타고 부드럽게 항해하는 라일라(Lila). 그녀의 길고 헝클어진 붉은 머리카락과 붉은 실크 스카프가 바람에 아름답게 휘날리고 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077549639977279488/img/syn7a_cZr1IsWiz_.jpg" width="600" alt="체서피크 만에서의 요트 항해">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7364)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **게시일:** Jul 16, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2406,6 +2410,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-27T07:56:17.101Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-27T11:48:34.237Z</sub>
 
 </div>

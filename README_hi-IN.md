@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2224** |
+| 📝 Total Prompts | **2238** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-27** |
 
@@ -189,6 +189,257 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### लोरी गाता हुआ जीव
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक काल्पनिक जीव द्वारा शिशु जीव को लोरी सुनाने का वीडियो बनाने के लिए एक मनमोहक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+कुर्सी पर बैठा जीव शिशु जीव को गोद में लेकर पारंपरिक गीत "Rock-a-bye Baby" गा रहा है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081513814034612225/img/vfJExH-uGCXWvx4e.jpg" width="600" alt="लोरी गाता हुआ जीव">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7941)**
+
+**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2081517060094611502) | **Published:** Jul 26, 2026
+
+---
+### चमकती स्याही और गहरा लेखन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक रहस्यमयी प्रॉम्प्ट, जिसमें चमकती स्याही और ऐसे लेखन को दिखाया गया है जिसे केवल अंधेरे में ही समझा जा सकता है।
+
+#### 📝 Prompt
+
+```
+उस भाषा को लिखना जिसे केवल अंधेरा ही समझता है, पन्ना पलटने के बाद भी स्याही चमकती रहती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081180925124308992/img/cuzzXlEkJ3Clsu0X.jpg" width="600" alt="चमकती स्याही और गहरा लेखन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7944)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081507355024359925) | **Published:** Jul 26, 2026
+
+---
+### 1970 के दशक का पेरिस सिनेमा वेराइट (Cinéma Vérité) वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक प्रॉम्प्ट जिसे 1970 के दशक के प्रामाणिक पेरिस डॉक्यूमेंट्री फुटेज तैयार करने के लिए डिज़ाइन किया गया है, जिसमें ऑर्गेनिक ग्रेन और प्राकृतिक रोशनी के साथ ग्रिटी 16mm फिल्म का सौंदर्य शामिल है।
+
+#### 📝 Prompt
+
+```
+ग्रिटी 16mm सिनेमा वेराइट (cinéma vérité), 1970 के दशक का प्रामाणिक पेरिस डॉक्यूमेंट्री फुटेज, ऑर्गेनिक फिल्म ग्रेन, शुद्ध प्राकृतिक दिन का प्रकाश, भारी शोल्डर-माउंटेड हैंडहेल्ड शेक, कोई स्टेबलाइजेशन नहीं, सॉफ्ट फोकस फॉल्स, सूक्ष्म लाइट लीक, रॉ और एलिगेंट, जीवंत यथार्थवाद। एक
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081484199245012992/img/V6zIay-_i7B99SSj.jpg" width="600" alt="1970 के दशक का पेरिस सिनेमा वेराइट (Cinéma Vérité) वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7947)**
+
+**Author:** [Ashley Ward](https://x.com/ashleyward) | **Source:** [Link](https://x.com/ashleyward/status/2081484471367258516) | **Published:** Jul 26, 2026
+
+---
+### बरसात की रात और नियॉन शहर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> बारिश की बूंदों वाली खिड़कियों से नियॉन रोशनी से जगमगाते शहर की ड्राइव के वीडियो के लिए एक जीवंत और प्रभावशाली प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+विंडशील्ड पर बारिश, कांच से छनकर आती नियॉन रोशनी, और कभी न सोने वाले शहर में बस यूं ही गाड़ी चलाना
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182887316168704/img/GyWe6gQL-FjDPiTp.jpg" width="600" alt="बरसात की रात और नियॉन शहर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7946)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081477154328449072) | **Published:** Jul 26, 2026
+
+---
+### Elon Musk का Starship सफर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जो Elon Musk को Starship के अंदर मंगल ग्रह की यात्रा करते हुए और एक AI के साथ बातचीत करते हुए दर्शाता है।
+
+#### 📝 Prompt
+
+```
+Elon Musk मंगल ग्रह की यात्रा के दौरान Starship अंतरिक्ष यान के अंदर बैठे हैं और एक AI के साथ बात कर रहे हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081432199501672448/img/zdAT_ab80GzJoYjv.jpg" width="600" alt="Elon Musk का Starship सफर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7942)**
+
+**Author:** [Amrutraj](https://x.com/Amrutraj4) | **Source:** [Link](https://x.com/Amrutraj4/status/2081432217482641861) | **Published:** Jul 26, 2026
+
+---
+### घूमते आसमान का कॉस्मिक वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक घूमते हुए आसमान और ब्रह्मांड से निकटता के अहसास को दर्शाने वाले आकाशीय वीडियो के लिए एक वर्णनात्मक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक जगह स्थिर खड़े रहना जबकि पूरा आसमान घूमता रहे, कुछ रातें ऐसी होती हैं जब ब्रह्मांड जमीन से ज्यादा करीब महसूस होता है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182605689720832/img/AEs1d_l_3ygEKoaG.jpg" width="600" alt="घूमते आसमान का कॉस्मिक वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7943)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081416756275380280) | **Published:** Jul 26, 2026
+
+---
+### यथार्थवादी डॉग न्यूज़ इंटरव्यू
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक पेशेवर न्यूज़-शैली के दृश्य के लिए एक रचनात्मक प्रॉम्प्ट, जहाँ एक रिपोर्टर एक कुत्ते का यथार्थवादी इंटरव्यू ले रहा है।
+
+#### 📝 Prompt
+
+```
+एक न्यूज़ रिपोर्टर जो एक कुत्ते के मुँह के पास माइक पकड़े हुए है जैसे कि वह कोई असली इंटरव्यू ले रहा हो, पेशेवर न्यूज़ शैली, यथार्थवादी दृश्य
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081410515352616960/img/PuBRt4NsVZMSngJZ.jpg" width="600" alt="यथार्थवादी डॉग न्यूज़ इंटरव्यू">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7935)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2081410626375807091) | **Published:** Jul 26, 2026
+
+---
+### यथार्थवादी मानवीय हंसी का प्रदर्शन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> AI वीडियो के लिए एक विस्तृत प्रदर्शन निर्देश, जो विशिष्ट शारीरिक संकेतों के साथ एक यथार्थवादी मानवीय हंसी पर केंद्रित है।
+
+#### 📝 Prompt
+
+```
+पहली हंसी पहले ही उसकी नाक से बाहर निकल जाती है, एक जोरदार खर्राटा जिसे वह अपने हाथ से दबाने की कोशिश करती है... लेकिन हाथ हार जाता है: हंसी उसके चारों ओर फूट पड़ती है... आधे सेकंड की पूरी तरह से स्तब्ध कर देने वाली खामोशी, और फिर वह पूरी तरह से खो जाती है।
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2081364983607091200/pu/img/gtz-6IIA5L8E5Dnc.jpg" width="600" alt="यथार्थवादी मानवीय हंसी का प्रदर्शन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7937)**
+
+**Author:** [GenFlick | Making Movies with AI | Join Us](https://x.com/Genflickmovies) | **Source:** [Link](https://x.com/Genflickmovies/status/2081365155422556628) | **Published:** Jul 26, 2026
+
+---
+### काल्पनिक चमकती औषधि और तैरती हुई जड़ी-बूटियाँ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक चमकती हुई औषधि और तैरती हुई जड़ी-बूटियों के सिनेमाई शॉट के लिए एक काल्पनिक-प्रेरित प्रॉम्प्ट, जो एक जादुई फिल्म जैसा माहौल बनाता है।
+
+#### 📝 Prompt
+
+```
+एक चमकती हुई औषधि। तैरती हुई जड़ी-बूटियाँ। एक ऐसा दृश्य जो सीधे किसी काल्पनिक फिल्म से लिया गया लगता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081348701201559552/img/gQ_MkREdMzn5aM0M.jpg" width="600" alt="काल्पनिक चमकती औषधि और तैरती हुई जड़ी-बूटियाँ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7945)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2081358875559682390) | **Published:** Jul 26, 2026
+
+---
+### रोड रनर किचन विंडो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जटिल वीडियो दृश्य का विवरण जिसमें एक रोड रनर रसोई के अंदर झांक रहा है, जिसमें विभिन्न घरेलू विवरण शामिल हैं।
+
+#### 📝 Prompt
+
+```
+रोड रनर रसोई की खिड़की की चौखट पर उतरता है और खिड़की के अंदर देखता है
+रसोई के काउंटर पर पानी का कांच का जग और कटे हुए नींबू रखें
+खमीर वाली ब्रेड (sourdough bread) का एक लोफ
+ब्लेंडर
+लाल वाइन की बोतल के बगल में पनीर और फलों की प्लेट
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081255607697641472/img/oC9lkHjNLlWdKnIi.jpg" width="600" alt="रोड रनर किचन विंडो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7939)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081255642959147339) | **Published:** Jul 26, 2026
+
+---
+### राजकुमारी और Elon Musk का बॉलरूम डांस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक नैरेटिव वीडियो प्रॉम्प्ट जिसमें एक महिला राजकुमारी में बदल जाती है और एक बॉलरूम में Elon Musk के साथ नृत्य करती है।
+
+#### 📝 Prompt
+
+```
+Margaret लंबे भूरे बालों वाली एक खूबसूरत राजकुमारी में बदल जाती है और Elon Musk उसे एक शानदार बॉलरूम में नृत्य करने के लिए कहते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081225356766502912/img/xgJKf6DJWjTFa6HL.jpg" width="600" alt="राजकुमारी और Elon Musk का बॉलरूम डांस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7936)**
+
+**Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2081225375900971458) | **Published:** Jul 26, 2026
+
+---
+### नीयन कार्डिनल पक्षियों की उड़ान
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> नीयन रंगों वाले कार्डिनल पक्षियों का कीड़ों का शिकार करने के लिए नीचे की ओर झपट्टा मारने वाला एक आकर्षक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+चमकदार नीयन लाल रंग के कार्डिनल पक्षियों का एक झुंड, जिसमें नीयन पीले और नीयन हरे रंग की झलक है, नीचे की ओर झपट्टा मारता है और कीड़ों को खा जाता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182930819231744/img/hzp0zEResowNlCZq.jpg" width="600" alt="नीयन कार्डिनल पक्षियों की उड़ान">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7940)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081182971319480548) | **Published:** Jul 26, 2026
+
+---
+### मच्छर का स्लम डंक और करारा जवाब
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मजेदार और डायनामिक वीडियो प्रॉम्प्ट, जिसमें एक मच्छर बास्केटबॉल खेल रहा है और डंक मारते समय उसे थप्पड़ मारकर पिचका दिया जाता है।
+
+#### 📝 Prompt
+
+```
+रेनबो मच्छर 🦟 स्लम डंक की कोशिश कर रहा है, तभी उसका प्रतिद्वंद्वी (एक 🪰) उसे इतनी जोर से ब्लॉक करता है कि वह थप्पड़ खाकर पूरी तरह पिचक जाता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081179353707167745/img/a700naDXF2YaXco6.jpg" width="600" alt="मच्छर का स्लम डंक और करारा जवाब">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7938)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081179387534123067) | **Published:** Jul 26, 2026
+
+---
 ### चिंतित चेकआउट क्लर्क की बातचीत
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -324,6 +575,25 @@ Victoria's Secret रनवे मॉडल की तरह संगीत क
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7845)**
 
 **Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **Published:** Jul 24, 2026
+
+---
+### चांदी की लेस में शांत रानी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक शांत बगीचे में चांदी की लेस पहने रानी के दृश्य को उत्पन्न करने के लिए एक काव्यात्मक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+चांदी की लेस और हल्की परछाइयों में एक शांत रानी। कोमल हाथ, दूर तक देखती आंखें, और एक खामोश बगीचा।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080590150296616960/img/PAfQO680QIyhr4gq.jpg" width="600" alt="चांदी की लेस में शांत रानी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7948)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2080590202167599223) | **Published:** Jul 24, 2026
 
 ---
 ### फर्स्ट पर्सन पर्सपेक्टिव हॉस्पिटल बर्थ
@@ -2078,272 +2348,6 @@ Annabelle 🪻🌸🌹🐞🍇⛲️🌲
 **Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
 
 ---
-### जंगल के जानवरों के इंटरैक्शन का वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक एक्शन-ओरिएंटेड वीडियो प्रॉम्प्ट जिसमें एक पक्षी को अपनी जगह से उड़ते हुए और एक बंदर को केले के साथ इंटरैक्ट करते हुए दिखाया गया है, साथ ही इसमें साउंड के विवरण भी शामिल हैं।
-
-#### 📝 Prompt
-
-```
-पक्षी को कांव-कांव करते हुए अपनी जगह से उड़ते हुए दिखाएं और बंदर को लटकते हुए केलों में से एक को खाने की कोशिश करते हुए और चबाने की आवाज़ें निकालते हुए दिखाएं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077802983287406592/img/8jL3m7OFiyJVHX5l.jpg" width="600" alt="जंगल के जानवरों के इंटरैक्शन का वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7367)**
-
-**Author:** [“The Male Shoot!” 💦](https://x.com/TheMaleShoot) | **Source:** [Link](https://x.com/TheMaleShoot/status/2077803000878252165) | **Published:** Jul 16, 2026
-
----
-### रेड बुल और गुलाब के साथ ट्रक ड्राइवर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सुबह की रोशनी में एक ट्रक ड्राइवर के सिनेमाई वीडियो के लिए एक वर्णनात्मक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक सुंदर अश्वेत ट्रक ड्राइवर, सुबह की रोशनी, अपने बड़े ट्रक के बगल में खड़ा है और उसके हाथ में एक ठंडी Red Bull है। उसने एक साफ सफेद टी-शर्ट पहनी है जिस पर छाती पर “AI Summer 2026 Bachelor” लिखा है, और उसने अपने दूसरे हाथ में एक लाल गुलाब पकड़ा हुआ है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077718570125918208/img/0EgJ0XxJ-7aBRZIw.jpg" width="600" alt="रेड बुल और गुलाब के साथ ट्रक ड्राइवर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7360)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077718643203260842) | **Published:** Jul 16, 2026
-
----
-### मिडनाइट लेस में बैलेरीना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> मैजेंटा फूलों के नीचे लेस पहने हुए बैलेरीना के लिए एक शानदार वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-लटकते हुए मैजेंटा फूलों के नीचे मिडनाइट लेस में लिपटी एक सुंदर बैलेरीना। 🖤🌸
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077717424397553664/img/Z4ENagHANjXR2TWL.jpg" width="600" alt="मिडनाइट लेस में बैलेरीना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7465)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2077717488071274861) | **Published:** Jul 16, 2026
-
----
-### 80s फिटनेस AI कंपेनियन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विंटेज 80 के दशक की फिटनेस वीडियो के लिए हाई-एनर्जी POV प्रॉम्प्ट, जिसमें उपयोगकर्ता और एक उत्साही AI कंपेनियन एक डांस स्टूडियो में हैं।
-
-#### 📝 Prompt
-
-```
-POV: मैं अपने AI कंपेनियन के साथ एक खूबसूरत डांस स्टूडियो में सुबह की स्ट्रेचिंग कर रहा हूँ। दीवार से दीवार तक लगे शीशे, चमकदार लिनोलियम फर्श, और सुबह की हल्की रोशनी वाली बड़ी खिड़कियाँ। हम दोनों ने 80 के दशक के चमकीले और रंगीन वर्कआउट कपड़े पहने हैं, बिल्कुल रिचर्ड सिमंस जैसी ऊर्जा के साथ। वह बेहद उत्साही है, बड़ी मुस्कान के साथ, और स्ट्रेचिंग के दौरान मेरा उत्साह बढ़ा रहा है। मज़ेदार, थोड़ा बचकाना, और 80 के दशक की हाई-एनर्जी फिटनेस वीडियो वाली वाइब्स, शुद्ध आनंद।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077711604922175488/img/8p1eg_SmsMw6rDnZ.jpg" width="600" alt="80s फिटनेस AI कंपेनियन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7357)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077711713118396465) | **Published:** Jul 16, 2026
-
----
-### प्यारा एक्सेंट वॉयसओवर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जनरेशन प्रॉम्प्ट जो किसी पात्र के संवाद और एक्सेंट शैली को निर्दिष्ट करता है।
-
-#### 📝 Prompt
-
-```
-यह सबसे प्यारे एक्सेंट में कहता है, "हे देयर, व्हाट शुड वी नेम मी, आई एम रेडी टू चैट, टीच मी समथिंग फन"!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077702081788493824/img/FT3oK53cp_MDMdhO.jpg" width="600" alt="प्यारा एक्सेंट वॉयसओवर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7361)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077702131990102254) | **Published:** Jul 16, 2026
-
----
-### बर्फ में खेलता प्यारा सा बिल्ली का बच्चा
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> पाउडरी बर्फ में खेलते, चमकती सर्दियों की रोशनी और हैंडहेल्ड कैमरा मोशन वाले बिल्ली के बच्चे के लिए एक डायनामिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-रूई जैसा मुलायम बिल्ली का बच्चा चंचलता से बर्फ में कूदता है, गिरते हुए बर्फ के फाहे को मारता है, और पाउडर जैसी बर्फ के ढेर में लोटता है, जबकि सर्दियों की चमकदार रोशनी में बर्फ चमक रही है; हल्का हैंडहेल्ड कैमरा ड्रिफ्ट, जीवंत और प्यारा मोशन।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077697195680436224/img/d412Jkm9HnFmbYtQ.jpg" width="600" alt="बर्फ में खेलता प्यारा सा बिल्ली का बच्चा">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7372)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2077697211736236045) | **Published:** Jul 16, 2026
-
----
-### रेट्रो बूमबॉक्स विवरण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक क्लासिक ट्रांजिस्टर बूमबॉक्स का वर्णन करने वाला प्रॉम्प्ट, जो इसके रेट्रो डिज़ाइन फीचर्स जैसे कैसेट प्लेयर और कैरीइंग हैंडल पर केंद्रित है।
-
-#### 📝 Prompt
-
-```
-अपने बूमबॉक्स पर क्लिक करें, जो कि एक ट्रांजिस्टर पोर्टेबल म्यूजिक प्लेयर है। इसमें एक या दो कैसेट टेप प्लेयर/रिकॉर्डर और AM/FM रेडियो की सुविधा होती है, और आमतौर पर इसे ले जाने के लिए एक हैंडल लगा होता है। 1990 के दशक के मध्य से, इसमें अक्सर CD प्लेयर भी शामिल किया जाने लगा।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077696787809198082/img/t2vpdlIBvrOzyzSa.jpg" width="600" alt="रेट्रो बूमबॉक्स विवरण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7365)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077696815260934166) | **Published:** Jul 16, 2026
-
----
-### घास के मैदान में ओरिगामी फूलों की दुकान
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> मोना नाम की एक पात्र की आकर्षक कहानी, जो घास के मैदान में एक छायादार पेड़ के नीचे अपनी दुकान पर पेस्टल रंग के ओरिगामी फूल बना रही है।
-
-#### 📝 Prompt
-
-```
-मोना अपनी नई प्रतिभा को लेकर बहुत उत्साहित है! उसने घास के मैदान में एक बड़े छायादार पेड़ के नीचे अपनी छोटी सी दुकान सजाई है, जहाँ वह सुंदर पेस्टल रंग के कागजों से बेहद खूबसूरत ओरिगामी फूल बना रही है....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077690084300627968/img/h3WZJw9EAJjmlF4R.jpg" width="600" alt="घास के मैदान में ओरिगामी फूलों की दुकान">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7373)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077690188139012329) | **Published:** Jul 16, 2026
-
----
-### जापानी आइडल एरिना परफॉरमेंस
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एक विशाल एरिना में आइडल परफॉरमेंस का वर्णन करने वाला एक सिनेमैटिक प्रॉम्प्ट, जो नेने (Nene) के पहनावे और दर्शकों के माहौल पर केंद्रित है।
-
-#### 📝 Prompt
-
-```
-हजारों दर्शकों से खचाखच भरे एक विशाल एरिना पर स्पॉटलाइट्स पड़ रही हैं। नेने (Nene) ने रफल्ड हेम वाली शुद्ध सफेद लेस स्ट्रैपलेस मिनी ड्रेस, पर्ल हाई हील्स और लंबे लेस ग्लव्स पहने हैं, और उसके बालों में एक छोटा सा फूल लगा है, वह मंच के केंद्र में एक ऊर्जावान नृत्य प्रस्तुत कर रही है। वह मुस्कुराते हुए हाथ हिला रही है, दिल का इशारा कर रही है और चिल्ला रही है। "सब लोग, आज की रात का मंच आप सभी के लिए चमक रहा है। चलो साथ में नाचते हैं, मैं आप सभी से प्यार करती हूँ!" बैकअप डांसर उसके साथ तालमेल बिठाकर नृत्य कर रहे हैं, और दर्शकों की सीटें स्मार्टफोन की फ्लैश और ग्लो स्टिक्स की रोशनी के समुद्र में डूबी हुई हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077681998043521025/img/0uNZUfkGMpYM0ZZQ.jpg" width="600" alt="जापानी आइडल एरिना परफॉरमेंस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7366)**
-
-**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2077682158886605281) | **Published:** Jul 16, 2026
-
----
-### द्वितीय विश्व युद्ध का हवाई डॉगफाइट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई हवाई युद्ध का प्रॉम्प्ट जिसमें साफ आसमान में फ्लैक गन के विस्फोटों के बीच स्पिटफायर (Spitfire) और ME-109 फाइटर विमान शामिल हैं।
-
-#### 📝 Prompt
-
-```
-दुश्मन के इलाके के ऊपर उड़ता हुआ स्पिटफायर। नाज़ी ME-109 फाइटर विमान जोड़ें। फ्लैक गन के विस्फोट जोड़ें। साफ आसमान।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077664235006439424/img/jBrSSkHLSeicPzUl.jpg" width="600" alt="द्वितीय विश्व युद्ध का हवाई डॉगफाइट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7359)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077664251074760804) | **Published:** Jul 16, 2026
-
----
-### जीवंत पक्षी और नर्तकी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक रंगीन कीवर्ड-आधारित प्रॉम्प्ट जिसमें एक बैंगनी पक्षी और जीवंत सौंदर्य के साथ नृत्य करती एक महिला शामिल है।
-
-#### 📝 Prompt
-
-```
-खूबसूरत अद्भुत लोग सबसे प्यारे मनमोहक बैंगनी पक्षी जो प्रेम कविता फुसफुसा रहे हैं, प्यार, प्यारी कलाकार महिला जो जीवंत रंगों के साथ नृत्य कर रही है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077610445398269952/img/YmH7J1AqYIPygaE1.jpg" width="600" alt="जीवंत पक्षी और नर्तकी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7374)**
-
-**Author:** [fairy 🧚‍♂️](https://x.com/moon916875) | **Source:** [Link](https://x.com/moon916875/status/2077610470996165025) | **Published:** Jul 16, 2026
-
----
-### सिनेमैटिक वॉटर वेपर एटमॉस्फियर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अत्यधिक विस्तृत सिनेमैटिक प्रॉम्प्ट जो वॉल्यूमेट्रिक वॉटर वेपर (जल वाष्प), गहरे छाया प्रभाव और परावर्तक जल सतहों जैसे पर्यावरणीय प्रभावों पर केंद्रित है।
-
-#### 📝 Prompt
-
-```
-यथार्थवादी 4K सिनेमैटिक क्वालिटी / स्मूथ मिक्स रियलिज्म / इंटरपोलेशन और अपस्केल / वॉल्यूमेट्रिक वॉटर वेपर इफेक्ट / नरम, अधिक तीव्र छाया / क्रिस्टल क्लियर और रिफ्लेक्टिव वॉटर / तीव्र बादलों के रंग /
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077580467088289793/img/t-KRVV0g-AXFgObh.jpg" width="600" alt="सिनेमैटिक वॉटर वेपर एटमॉस्फियर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7362)**
-
-**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2077580502672789926) | **Published:** Jul 16, 2026
-
----
-### हवा में लहराता शानदार लाल रेशमी साश
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक काव्यात्मक प्रॉम्प्ट जो शानदार हवा में लहराते लाल रेशमी साश के स्पर्श का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-लीला को इस शानदार हवा के साथ लक्ज़री लाल रेशमी साश का अहसास बहुत पसंद है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077554370699292672/img/bb31HgD5YM3dGcd4.jpg" width="600" alt="हवा में लहराता शानदार लाल रेशमी साश">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7369)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077556828393689199) | **Published:** Jul 16, 2026
-
----
-### चेसापीक बे (Chesapeake Bay) में नौकायन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक शांत वीडियो प्रॉम्प्ट जिसमें लीला नाम की एक महिला चेसापीक बे (Chesapeake Bay) में एक छोटी सफेद नाव पर नौकायन कर रही है, और उसके लाल बाल व स्कार्फ हवा में लहरा रहे हैं।
-
-#### 📝 Prompt
-
-```
-लीला शांत चेसापीक बे (Chesapeake Bay) में एक छोटी सफेद नाव पर धीरे-धीरे नौकायन कर रही है, उसके लंबे बिखरे हुए लाल बाल और लाल रेशमी स्कार्फ हवा में खूबसूरती से लहरा रहे हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077549639977279488/img/syn7a_cZr1IsWiz_.jpg" width="600" alt="चेसापीक बे (Chesapeake Bay) में नौकायन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7364)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2405,6 +2409,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-27T07:56:22.427Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-27T11:48:36.619Z</sub>
 
 </div>

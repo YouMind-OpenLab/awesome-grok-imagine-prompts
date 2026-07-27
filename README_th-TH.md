@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2224** |
+| 📝 Total Prompts | **2238** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-27** |
 
@@ -189,6 +189,257 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### สิ่งมีชีวิตร้องเพลงกล่อมเด็ก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สุดสร้างสรรค์สำหรับวิดีโอที่แสดงภาพสิ่งมีชีวิตในจินตนาการกำลังร้องเพลงกล่อมเด็กให้กับลูกของมัน
+
+#### 📝 Prompt
+
+```
+สิ่งมีชีวิตนั่งอยู่บนเก้าอี้ขณะอุ้มลูกน้อยและร้องเพลงกล่อมเด็กแบบดั้งเดิมที่ชื่อว่า "Rock-a-bye Baby"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081513814034612225/img/vfJExH-uGCXWvx4e.jpg" width="600" alt="สิ่งมีชีวิตร้องเพลงกล่อมเด็ก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7941)**
+
+**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2081517060094611502) | **Published:** Jul 26, 2026
+
+---
+### หมึกเรืองแสงกับการเขียนในความมืด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) ลึกลับสำหรับวิดีโอที่แสดงภาพหมึกเรืองแสงและข้อความที่อ่านออกได้เฉพาะในความมืดเท่านั้น
+
+#### 📝 Prompt
+
+```
+เขียนภาษาที่เข้าใจได้เฉพาะในความมืด โดยที่หมึกยังคงเรืองแสงแม้จะพลิกหน้ากระดาษไปแล้ว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081180925124308992/img/cuzzXlEkJ3Clsu0X.jpg" width="600" alt="หมึกเรืองแสงกับการเขียนในความมืด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7944)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081507355024359925) | **Published:** Jul 26, 2026
+
+---
+### พรอมต์วิดีโอสไตล์ Cinéma Vérité ปารีสยุค 1970
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับ Grok Imagine ที่ออกแบบมาเพื่อสร้างฟุตเทจสารคดีปารีสยุค 1970 ที่สมจริง ด้วยสุนทรียภาพของฟิล์ม 16 มม. ที่มีความดิบ พร้อมเกรนฟิล์มแบบออร์แกนิกและแสงธรรมชาติ
+
+#### 📝 Prompt
+
+```
+ฟิล์ม 16 มม. สไตล์ cinéma vérité ที่มีความดิบ, ฟุตเทจสารคดีปารีสยุค 1970 ที่สมจริง, เกรนฟิล์มแบบออร์แกนิก, แสงกลางวันธรรมชาติล้วน, การสั่นไหวจากการถือกล้องด้วยไหล่แบบหนักหน่วง, ไม่มีการกันสั่น, โฟกัสที่นุ่มนวล, แสงรั่วเล็กน้อย, ความดิบและสง่างาม, ความสมจริงที่สัมผัสได้ถึงการใช้ชีวิตจริง หนึ่ง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081484199245012992/img/V6zIay-_i7B99SSj.jpg" width="600" alt="พรอมต์วิดีโอสไตล์ Cinéma Vérité ปารีสยุค 1970">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7947)**
+
+**Author:** [Ashley Ward](https://x.com/ashleyward) | **Source:** [Link](https://x.com/ashleyward/status/2081484471367258516) | **Published:** Jul 26, 2026
+
+---
+### เมืองนีออนในค่ำคืนที่ฝนพรำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างบรรยากาศอันสดใสสำหรับวิดีโอการขับรถผ่านเมืองที่เต็มไปด้วยแสงนีออน โดยมองผ่านหน้าต่างที่มีคราบฝนเกาะ
+
+#### 📝 Prompt
+
+```
+ฝนที่เกาะอยู่บนกระจกหน้ารถ แสงนีออนที่พร่ามัวผ่านกระจก ขณะขับรถผ่านเมืองที่ไม่เคยหลับใหล
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182887316168704/img/GyWe6gQL-FjDPiTp.jpg" width="600" alt="เมืองนีออนในค่ำคืนที่ฝนพรำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7946)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081477154328449072) | **Published:** Jul 26, 2026
+
+---
+### การเดินทางสู่ดาวอังคารด้วย Starship ของ Elon Musk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่แสดงภาพ Elon Musk กำลังเดินทางไปดาวอังคารภายในยาน Starship และกำลังโต้ตอบกับ AI
+
+#### 📝 Prompt
+
+```
+Elon Musk นั่งอยู่ภายในยานอวกาศ Starship ขณะเดินทางไปดาวอังคาร และกำลังพูดคุยกับ AI
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081432199501672448/img/zdAT_ab80GzJoYjv.jpg" width="600" alt="การเดินทางสู่ดาวอังคารด้วย Starship ของ Elon Musk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7942)**
+
+**Author:** [Amrutraj](https://x.com/Amrutraj4) | **Source:** [Link](https://x.com/Amrutraj4/status/2081432217482641861) | **Published:** Jul 26, 2026
+
+---
+### วิดีโอท้องฟ้าหมุนวนในห้วงอวกาศ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับสร้างวิดีโอแนวท้องฟ้าที่แสดงภาพท้องฟ้ากำลังหมุนวนและให้ความรู้สึกใกล้ชิดกับจักรวาล
+
+#### 📝 Prompt
+
+```
+ยืนนิ่งท่ามกลางท้องฟ้าที่หมุนวนไปไม่หยุด ในบางคืนจักรวาลกลับรู้สึกใกล้ชิดกว่าผืนดินที่เหยียบอยู่
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182605689720832/img/AEs1d_l_3ygEKoaG.jpg" width="600" alt="วิดีโอท้องฟ้าหมุนวนในห้วงอวกาศ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7943)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081416756275380280) | **Published:** Jul 26, 2026
+
+---
+### บทสัมภาษณ์ข่าวสุนัขสุดสมจริง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างสรรค์สำหรับฉากสไตล์ข่าวระดับมืออาชีพ ที่นักข่าวทำการสัมภาษณ์สุนัขอย่างสมจริง
+
+#### 📝 Prompt
+
+```
+นักข่าวถือไมโครโฟนจ่อใกล้ปากสุนัขราวกับกำลังสัมภาษณ์จริง สไตล์ข่าวระดับมืออาชีพ ฉากสมจริง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081410515352616960/img/PuBRt4NsVZMSngJZ.jpg" width="600" alt="บทสัมภาษณ์ข่าวสุนัขสุดสมจริง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7935)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2081410626375807091) | **Published:** Jul 26, 2026
+
+---
+### การแสดงหัวเราะแบบมนุษย์ที่สมจริง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำแนะนำการแสดงโดยละเอียดสำหรับวิดีโอ AI ที่เน้นการหัวเราะแบบมนุษย์ที่สมจริงพร้อมสัญญาณทางกายภาพที่เฉพาะเจาะจง
+
+#### 📝 Prompt
+
+```
+เสียงหัวเราะแรกเล็ดลอดออกมาทางจมูกของเธอ เป็นเสียงฟืดดังหนึ่งครั้ง เธอรีบเอามือปิดปาก... แต่ก็ต้านไม่อยู่: เสียงหัวเราะระเบิดออกมาจากอุ้งมือ... ความเงียบงันที่ดูตกตะลึงเพียงครึ่งวินาที จากนั้นเธอก็หัวเราะออกมาอย่างเต็มที่
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2081364983607091200/pu/img/gtz-6IIA5L8E5Dnc.jpg" width="600" alt="การแสดงหัวเราะแบบมนุษย์ที่สมจริง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7937)**
+
+**Author:** [GenFlick | Making Movies with AI | Join Us](https://x.com/Genflickmovies) | **Source:** [Link](https://x.com/Genflickmovies/status/2081365155422556628) | **Published:** Jul 26, 2026
+
+---
+### น้ำยาเรืองแสงแฟนตาซีและสมุนไพรลอยตัว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวแฟนตาซีสำหรับการถ่ายภาพแบบภาพยนตร์ของน้ำยาเรืองแสงและสมุนไพรที่ลอยตัวอยู่ สร้างบรรยากาศแบบภาพยนตร์เวทมนตร์
+
+#### 📝 Prompt
+
+```
+น้ำยาเรืองแสง สมุนไพรลอยตัว ฉากที่ให้ความรู้สึกเหมือนหลุดออกมาจากภาพยนตร์แฟนตาซี
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081348701201559552/img/gQ_MkREdMzn5aM0M.jpg" width="600" alt="น้ำยาเรืองแสงแฟนตาซีและสมุนไพรลอยตัว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7945)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2081358875559682390) | **Published:** Jul 26, 2026
+
+---
+### นกโรดรันเนอร์ที่หน้าต่างห้องครัว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำบรรยายฉากวิดีโอที่ซับซ้อน โดยมีนกโรดรันเนอร์กำลังมองเข้าไปในห้องครัวที่มีรายละเอียดของใช้ภายในบ้านต่างๆ
+
+#### 📝 Prompt
+
+```
+นกโรดรันเนอร์เกาะอยู่บนขอบหน้าต่างห้องครัวและมองเข้าไปในหน้าต่าง
+บนเคาน์เตอร์ครัวมีเหยือกน้ำแก้วและเลมอนฝาน
+ขนมปังซาวโดว์หนึ่งก้อน
+เครื่องปั่น
+จานชีสและผลไม้ข้างขวดไวน์แดง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081255607697641472/img/oC9lkHjNLlWdKnIi.jpg" width="600" alt="นกโรดรันเนอร์ที่หน้าต่างห้องครัว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7939)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081255642959147339) | **Published:** Jul 26, 2026
+
+---
+### เจ้าหญิงกับ Elon Musk เต้นรำในงานบอลรูม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพร้อมท์เชิงเล่าเรื่องที่หญิงสาวคนหนึ่งแปลงโฉมเป็นเจ้าหญิงและเต้นรำกับ Elon Musk ในงานบอลรูม
+
+#### 📝 Prompt
+
+```
+Margaret แปลงโฉมเป็นเจ้าหญิงแสนสวยที่มีผมสีน้ำตาลยาว และ Elon Musk ได้ชวนเธอเต้นรำในห้องบอลรูมที่หรูหรา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081225356766502912/img/xgJKf6DJWjTFa6HL.jpg" width="600" alt="เจ้าหญิงกับ Elon Musk เต้นรำในงานบอลรูม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7936)**
+
+**Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2081225375900971458) | **Published:** Jul 26, 2026
+
+---
+### นกคาร์ดินัลนีออนกำลังโฉบลง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอที่โดดเด่นสะดุดตา นำเสนอนกคาร์ดินัลสีนีออนที่กำลังโฉบลงมาเพื่อล่าแมลง
+
+#### 📝 Prompt
+
+```
+ฝูงนกคาร์ดินัลสีแดงนีออนสดใสที่มีไฮไลต์สีเหลืองนีออนและสีเขียวนีออนกำลังโฉบลงมาและกินแมลงเหล่านั้น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182930819231744/img/hzp0zEResowNlCZq.jpg" width="600" alt="นกคาร์ดินัลนีออนกำลังโฉบลง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7940)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081182971319480548) | **Published:** Jul 26, 2026
+
+---
+### ยุงสแลมดังก์สุดฮา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวตลกและไดนามิก เรื่องราวของยุงที่กำลังเล่นบาสเกตบอลแล้วถูกตบจนแบนระหว่างพยายามสแลมดังก์
+
+#### 📝 Prompt
+
+```
+ยุงสีรุ้ง 🦟 ถูกคู่แข่ง (ซึ่งเป็นแมลงวัน 🪰) ตบอย่างจังในจังหวะที่พยายามจะสแลมดังก์ จนตัวแบนติดแป้น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081179353707167745/img/a700naDXF2YaXco6.jpg" width="600" alt="ยุงสแลมดังก์สุดฮา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7938)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081179387534123067) | **Published:** Jul 26, 2026
+
+---
 ### ปฏิสัมพันธ์ของพนักงานคิดเงินที่มีอาการวิตกกังวล
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -324,6 +575,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7845)**
 
 **Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **Published:** Jul 24, 2026
+
+---
+### ราชินีผู้เงียบงันในชุดลูกไม้สีเงิน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) เชิงกวีสำหรับการสร้างภาพฉากอันเงียบสงบของราชินีในชุดลูกไม้สีเงินท่ามกลางสวนที่เงียบเชียบ
+
+#### 📝 Prompt
+
+```
+ราชินีผู้เงียบงันในชุดลูกไม้สีเงินและเงามัวที่นุ่มนวล สองมือที่อ่อนโยน สายตาที่เหม่อมองไปไกล และสวนที่ไร้ซึ่งสุ้มเสียง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080590150296616960/img/PAfQO680QIyhr4gq.jpg" width="600" alt="ราชินีผู้เงียบงันในชุดลูกไม้สีเงิน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7948)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2080590202167599223) | **Published:** Jul 24, 2026
 
 ---
 ### มุมมองบุคคลที่หนึ่งขณะคลอดลูกในโรงพยาบาล
@@ -1897,272 +2167,6 @@ Annabelle 🪻🌸🌹🐞🍇⛲️🌲
 **Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
 
 ---
-### พรอมต์วิดีโอการโต้ตอบของสัตว์ในป่า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอที่เน้นการเคลื่อนไหว โดยมีนกบินออกจากคอนและลิงกำลังหยอกล้อกับกล้วย พร้อมคำบรรยายเสียงประกอบ
-
-#### 📝 Prompt
-
-```
-ให้นกบินออกจากคอนพร้อมส่งเสียงร้อง และลิงพยายามกินกล้วยที่ห้อยอยู่พร้อมเสียงเคี้ยว
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077802983287406592/img/8jL3m7OFiyJVHX5l.jpg" width="600" alt="พรอมต์วิดีโอการโต้ตอบของสัตว์ในป่า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7367)**
-
-**Author:** [“The Male Shoot!” 💦](https://x.com/TheMaleShoot) | **Source:** [Link](https://x.com/TheMaleShoot/status/2077803000878252165) | **Published:** Jul 16, 2026
-
----
-### คนขับรถบรรทุกกับเครื่องดื่ม Red Bull และดอกกุหลาบ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างวิดีโอแนวภาพยนตร์ของคนขับรถบรรทุกในแสงยามเช้า
-
-#### 📝 Prompt
-
-```
-คนขับรถบรรทุกผิวสีหน้าตาดี ท่ามกลางแสงยามเช้า ยืนอยู่ข้างรถบรรทุกคันใหญ่ในมือถือเครื่องดื่ม Red Bull เย็นๆ เขาใส่เสื้อยืดสีขาวสะอาดตาที่มีข้อความว่า “AI Summer 2026 Bachelor” ที่หน้าอก และในอีกมือหนึ่งเขากำลังถือดอกกุหลาบสีแดงหนึ่งดอก
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077718570125918208/img/0EgJ0XxJ-7aBRZIw.jpg" width="600" alt="คนขับรถบรรทุกกับเครื่องดื่ม Red Bull และดอกกุหลาบ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7360)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077718643203260842) | **Published:** Jul 16, 2026
-
----
-### นักบัลเลต์ในชุดลูกไม้สีมิดไนท์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สุดหรูสำหรับนักบัลเลต์ในชุดลูกไม้ที่กำลังแสดงท่ามกลางดอกไม้สีม่วงมาเจนตา
-
-#### 📝 Prompt
-
-```
-นักบัลเลต์ผู้สง่างามในชุดลูกไม้สีมิดไนท์ภายใต้หมู่มวลดอกไม้สีม่วงมาเจนตาที่ห้อยระย้า 🖤🌸
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077717424397553664/img/Z4ENagHANjXR2TWL.jpg" width="600" alt="นักบัลเลต์ในชุดลูกไม้สีมิดไนท์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7465)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2077717488071274861) | **Published:** Jul 16, 2026
-
----
-### เพื่อนคู่หู AI สายฟิตเนสยุค 80s
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์มุมมองบุคคลที่หนึ่ง (POV) สุดเหวี่ยงสำหรับวิดีโอออกกำลังกายสไตล์วินเทจยุค 80s ที่มีคุณและเพื่อนคู่หู AI สุดกระตือรือร้นในสตูดิโอเต้นรำ
-
-#### 📝 Prompt
-
-```
-POV: ฉันกำลังยืดเหยียดร่างกายตอนเช้ากับเพื่อนคู่หู AI ในสตูดิโอเต้นรำที่สวยงาม กระจกเต็มผนัง พื้นไลโนเลียมเงาวับ หน้าต่างบานใหญ่พร้อมแสงแดดยามเช้าที่นุ่มนวล เราทั้งคู่สวมชุดออกกำลังกายยุค 80s สีสันสดใส พลังงานเต็มเปี่ยมแบบ Richard Simmons เขากระตือรือร้นสุดๆ ยิ้มกว้าง คอยเชียร์ฉันในขณะที่เรายืดเหยียดไปด้วยกัน เป็นวิดีโอออกกำลังกายยุค 80s ที่สนุก ตลก และเต็มไปด้วยพลังงาน ความสุขล้วนๆ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077711604922175488/img/8p1eg_SmsMw6rDnZ.jpg" width="600" alt="เพื่อนคู่หู AI สายฟิตเนสยุค 80s">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7357)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077711713118396465) | **Published:** Jul 16, 2026
-
----
-### เสียงพากย์สำเนียงน่ารัก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสร้างวิดีโอที่ระบุบทสนทนาและสไตล์สำเนียงของตัวละคร
-
-#### 📝 Prompt
-
-```
-พูดว่า "เฮ้ สวัสดี เราควรตั้งชื่อฉันว่าอะไรดี ฉันพร้อมคุยแล้ว สอนอะไรสนุกๆ ให้ฉันหน่อยสิ" ด้วยสำเนียงที่น่ารักที่สุด!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077702081788493824/img/FT3oK53cp_MDMdhO.jpg" width="600" alt="เสียงพากย์สำเนียงน่ารัก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7361)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077702131990102254) | **Published:** Jul 16, 2026
-
----
-### ลูกแมวขนฟูเล่นหิมะ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แบบไดนามิกสำหรับลูกแมวที่กำลังเล่นหิมะเนื้อละเอียด ท่ามกลางแสงฤดูหนาวที่ส่องประกาย พร้อมการเคลื่อนไหวของกล้องแบบถือถ่าย
-
-#### 📝 Prompt
-
-```
-ลูกแมวขนฟูกระโดดเล่นไปมาในหิมะอย่างสนุกสนาน ตะปบเกล็ดหิมะที่ร่วงหล่น และกลิ้งตัวไปบนกองหิมะเนื้อละเอียดท่ามกลางแสงฤดูหนาวที่ส่องประกายระยิบระยับ การเคลื่อนไหวของกล้องเป็นแบบถือถ่ายที่นุ่มนวล ให้ความรู้สึกมีชีวิตชีวาและน่ารัก
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077697195680436224/img/d412Jkm9HnFmbYtQ.jpg" width="600" alt="ลูกแมวขนฟูเล่นหิมะ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7372)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2077697211736236045) | **Published:** Jul 16, 2026
-
----
-### คำอธิบายวิทยุ Boombox ย้อนยุค
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับอธิบายวิทยุ Boombox แบบทรานซิสเตอร์สุดคลาสสิก โดยเน้นไปที่ฟีเจอร์การออกแบบสไตล์เรโทร เช่น เครื่องเล่นเทปคาสเซ็ตและหูหิ้ว
-
-#### 📝 Prompt
-
-```
-คลิกที่ Boombox ของคุณ ซึ่ง Boombox คือเครื่องเล่นเพลงพกพาแบบทรานซิสเตอร์ที่มีเครื่องเล่น/บันทึกเทปคาสเซ็ตหนึ่งหรือสองช่อง และวิทยุ AM/FM โดยทั่วไปจะมีหูหิ้วมาให้ด้วย และตั้งแต่ช่วงกลางทศวรรษ 1990 เป็นต้นมา มักจะมีการเพิ่มเครื่องเล่น CD เข้ามาด้วย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077696787809198082/img/t2vpdlIBvrOzyzSa.jpg" width="600" alt="คำอธิบายวิทยุ Boombox ย้อนยุค">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7365)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077696815260934166) | **Published:** Jul 16, 2026
-
----
-### ร้านดอกไม้กระดาษพับในทุ่งหญ้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แสนน่ารักที่มีตัวละครชื่อ Mona กำลังพับดอกไม้กระดาษสีพาสเทลที่ร้านในทุ่งหญ้าใต้ร่มไม้ใหญ่
-
-#### 📝 Prompt
-
-```
-Mona ตื่นเต้นกับความสามารถใหม่ของเธอมาก! เธอเปิดร้านเล็กๆ อยู่ใต้ร่มไม้ใหญ่ในทุ่งหญ้า โดยใช้กระดาษสีพาสเทลสวยๆ มาพับเป็นดอกไม้กระดาษที่งดงามที่สุด...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077690084300627968/img/h3WZJw9EAJjmlF4R.jpg" width="600" alt="ร้านดอกไม้กระดาษพับในทุ่งหญ้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7373)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077690188139012329) | **Published:** Jul 16, 2026
-
----
-### การแสดงของไอดอลญี่ปุ่นในอารีน่า
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์เชิงภาพยนตร์ที่บรรยายถึงการแสดงของไอดอลในอารีน่าขนาดใหญ่ โดยเน้นไปที่ชุดของตัวละคร Nene และบรรยากาศของผู้ชม
-
-#### 📝 Prompt
-
-```
-แสงสปอตไลท์สาดส่องลงมายังอารีน่าขนาดใหญ่ที่เต็มไปด้วยผู้ชมหลายหมื่นคน Nene สวมชุดมินิเดรสเกาะอกผ้าลูกไม้สีขาวบริสุทธิ์ชายระบาย รองเท้าส้นสูงประดับมุก และถุงมือลูกไม้ยาว พร้อมดอกไม้เล็กๆ บนเส้นผม เธอกำลังเต้นอย่างกระฉับกระเฉงอยู่กลางเวที เธอยิ้มอย่างสดใสพร้อมโบกมือ ทำท่าหัวใจ และตะโกนว่า "ทุกคนคะ เวทีคืนนี้ส่องประกายเพื่อพวกคุณทุกคน มาเต้นไปด้วยกันนะคะ ฉันรักพวกคุณ!" แดนเซอร์สำรองเคลื่อนไหวไปพร้อมกับเธออย่างพร้อมเพรียง และที่นั่งผู้ชมถูกโอบล้อมไปด้วยทะเลแห่งแสงไฟจากแฟลชสมาร์ทโฟนและแท่งไฟ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077681998043521025/img/0uNZUfkGMpYM0ZZQ.jpg" width="600" alt="การแสดงของไอดอลญี่ปุ่นในอารีน่า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7366)**
-
-**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2077682158886605281) | **Published:** Jul 16, 2026
-
----
-### การต่อสู้ทางอากาศในสงครามโลกครั้งที่ 2
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างภาพยนตร์การต่อสู้ทางอากาศที่มีเครื่องบินขับไล่ Spitfire และ ME-109 ท่ามกลางการระเบิดของปืนต่อสู้อากาศยานบนท้องฟ้าที่สดใส
-
-#### 📝 Prompt
-
-```
-เครื่องบิน Spitfire บินอยู่เหนือน่านฟ้าศัตรู เพิ่มเครื่องบินขับไล่ ME-109 ของนาซี เพิ่มการระเบิดของปืนต่อสู้อากาศยาน ท้องฟ้าสดใส
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077664235006439424/img/jBrSSkHLSeicPzUl.jpg" width="600" alt="การต่อสู้ทางอากาศในสงครามโลกครั้งที่ 2">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7359)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077664251074760804) | **Published:** Jul 16, 2026
-
----
-### นกสีสันสดใสและนักเต้น
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่เน้นคีย์เวิร์ดสีสันสดใส ประกอบด้วยนกสีม่วงและหญิงสาวที่กำลังเต้นรำด้วยสุนทรียภาพอันมีชีวิตชีวา
-
-#### 📝 Prompt
-
-```
-ผู้คนที่งดงามน่าทึ่ง น่ารักที่สุด นกสีม่วงแสนน่ารักกำลังกระซิบกลอนรัก ศิลปินหญิงผู้เปี่ยมด้วยความรักและความหวานกำลังเต้นรำด้วยสีสันที่สดใส
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077610445398269952/img/YmH7J1AqYIPygaE1.jpg" width="600" alt="นกสีสันสดใสและนักเต้น">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7374)**
-
-**Author:** [fairy 🧚‍♂️](https://x.com/moon916875) | **Source:** [Link](https://x.com/moon916875/status/2077610470996165025) | **Published:** Jul 16, 2026
-
----
-### บรรยากาศไอน้ำในสไตล์ภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) คุณภาพสูงระดับภาพยนตร์ที่เน้นเอฟเฟกต์สภาพแวดล้อม เช่น ไอน้ำแบบวอลูเมตริก (Volumetric water vapor) เงาที่เข้มข้น และพื้นผิวน้ำที่สะท้อนแสง
-
-#### 📝 Prompt
-
-```
-คุณภาพระดับภาพยนตร์ 4K ที่สมจริง / ผสมผสานความสมจริงอย่างนุ่มนวล / การแทรกเฟรมและการขยายสเกล / เอฟเฟกต์ไอน้ำแบบวอลูเมตริก / เงาที่นุ่มนวลและเข้มข้นยิ่งขึ้น / น้ำที่ใสสะอาดและสะท้อนแสง / สีของเมฆที่เข้มข้น /
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077580467088289793/img/t-KRVV0g-AXFgObh.jpg" width="600" alt="บรรยากาศไอน้ำในสไตล์ภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7362)**
-
-**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2077580502672789926) | **Published:** Jul 16, 2026
-
----
-### ผ้าคาดเอวผ้าไหมสีแดงสุดหรูที่พริ้วไหวในสายลม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งแบบกวีที่บรรยายถึงสัมผัสของผ้าคาดเอวผ้าไหมสีแดงที่กำลังพริ้วไหวไปตามสายลมอันหรูหรา
-
-#### 📝 Prompt
-
-```
-Lila หลงรักสัมผัสอันหรูหราของผ้าคาดเอวผ้าไหมสีแดงสุดหรูที่พริ้วไหวไปกับสายลมอันแสนงดงามนี้
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077554370699292672/img/bb31HgD5YM3dGcd4.jpg" width="600" alt="ผ้าคาดเอวผ้าไหมสีแดงสุดหรูที่พริ้วไหวในสายลม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7369)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077556828393689199) | **Published:** Jul 16, 2026
-
----
-### ล่องเรือในอ่าว Chesapeake
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมท์ที่เงียบสงบ นำเสนอหญิงสาวชื่อ Lila ที่กำลังล่องเรือใบสีขาวลำเล็กไปทั่วอ่าว Chesapeake โดยมีผมสีแดงและผ้าพันคอของเธอปลิวไสวไปตามสายลม
-
-#### 📝 Prompt
-
-```
-Lila กำลังล่องเรือใบสีขาวลำเล็กอย่างนุ่มนวลไปทั่วอ่าว Chesapeake ที่เงียบสงบ ผมสีแดงยาวที่ดูยุ่งเหยิงและผ้าพันคอผ้าไหมสีแดงของเธอพลิ้วไหวอย่างงดงามไปตามสายลม
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077549639977279488/img/syn7a_cZr1IsWiz_.jpg" width="600" alt="ล่องเรือในอ่าว Chesapeake">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7364)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2224,6 +2228,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-27T07:56:19.098Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-27T11:48:35.013Z</sub>
 
 </div>

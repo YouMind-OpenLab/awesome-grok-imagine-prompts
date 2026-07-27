@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2224** |
+| 📝 Total Prompts | **2238** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-27** |
 
@@ -189,6 +189,257 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Criatura cantando una canción de cuna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt fantástico para un video que muestra a una criatura de fantasía cantándole una canción de cuna a una cría.
+
+#### 📝 Prompt
+
+```
+Una criatura sentada en una silla sosteniendo a una cría mientras canta la canción tradicional "Rock-a-bye Baby"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081513814034612225/img/vfJExH-uGCXWvx4e.jpg" width="600" alt="Criatura cantando una canción de cuna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7941)**
+
+**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2081517060094611502) | **Published:** Jul 26, 2026
+
+---
+### Tinta brillante, escritura oscura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt misterioso para un video que muestra tinta brillante y una escritura que solo se comprende en la oscuridad.
+
+#### 📝 Prompt
+
+```
+Escribiendo el lenguaje que solo la oscuridad comprende, con tinta que sigue brillando después de pasar la página.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081180925124308992/img/cuzzXlEkJ3Clsu0X.jpg" width="600" alt="Tinta brillante, escritura oscura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7944)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081507355024359925) | **Published:** Jul 26, 2026
+
+---
+### Prompt de video: Cinéma Vérité en el París de los años 70
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para Grok Imagine diseñado para generar metraje documental auténtico del París de los años 70, con una estética de película de 16 mm, grano orgánico e iluminación natural.
+
+#### 📝 Prompt
+
+```
+Cinéma vérité crudo en 16 mm, metraje documental auténtico del París de los años 70, grano de película orgánico, luz natural pura, movimiento intenso de cámara en mano al hombro, sin estabilización, desenfoque suave, sutiles fugas de luz, crudo y elegante, realismo vivido. Uno
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081484199245012992/img/V6zIay-_i7B99SSj.jpg" width="600" alt="Prompt de video: Cinéma Vérité en el París de los años 70">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7947)**
+
+**Author:** [Ashley Ward](https://x.com/ashleyward) | **Source:** [Link](https://x.com/ashleyward/status/2081484471367258516) | **Published:** Jul 26, 2026
+
+---
+### Ciudad de neón en una noche lluviosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt atmosférico y vívido para un video de un recorrido por una ciudad iluminada con luces de neón, visto a través de ventanas cubiertas por la lluvia.
+
+#### 📝 Prompt
+
+```
+Lluvia en el parabrisas, luces de neón filtrándose a través del cristal, conduciendo por una ciudad que nunca duerme
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182887316168704/img/GyWe6gQL-FjDPiTp.jpg" width="600" alt="Ciudad de neón en una noche lluviosa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7946)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081477154328449072) | **Published:** Jul 26, 2026
+
+---
+### El viaje de Elon Musk en Starship
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video que muestra a Elon Musk viajando a Marte dentro de una Starship e interactuando con una IA.
+
+#### 📝 Prompt
+
+```
+Elon Musk sentado dentro de la nave espacial Starship mientras viaja a Marte, hablando con una IA
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081432199501672448/img/zdAT_ab80GzJoYjv.jpg" width="600" alt="El viaje de Elon Musk en Starship">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7942)**
+
+**Author:** [Amrutraj](https://x.com/Amrutraj4) | **Source:** [Link](https://x.com/Amrutraj4/status/2081432217482641861) | **Published:** Jul 26, 2026
+
+---
+### Video cósmico de cielo giratorio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt descriptivo para un video celestial que presenta un cielo giratorio y una sensación de cercanía con el universo.
+
+#### 📝 Prompt
+
+```
+Quedarse quieto mientras todo el cielo sigue girando; algunas noches el universo se siente más cerca que el suelo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182605689720832/img/AEs1d_l_3ygEKoaG.jpg" width="600" alt="Video cósmico de cielo giratorio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7943)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081416756275380280) | **Published:** Jul 26, 2026
+
+---
+### Entrevista de noticias realista con un perro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt creativo para una escena de estilo noticiero profesional donde un reportero realiza una entrevista realista a un perro.
+
+#### 📝 Prompt
+
+```
+Un reportero de noticias sosteniendo un micrófono cerca del hocico de un perro como si estuviera realizando una entrevista real, estilo noticiero profesional, escena realista
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081410515352616960/img/PuBRt4NsVZMSngJZ.jpg" width="600" alt="Entrevista de noticias realista con un perro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7935)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2081410626375807091) | **Published:** Jul 26, 2026
+
+---
+### Representación de risa humana realista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una dirección de actuación detallada para video con IA, enfocada en una risa humana realista con señales físicas específicas.
+
+#### 📝 Prompt
+
+```
+la primera risa ya se le escapa por la nariz, un resoplido fuerte que intenta cubrir con la mano... la mano pierde: la risa estalla a su alrededor... medio segundo de puro silencio atónito, y luego ella desaparece por completo.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2081364983607091200/pu/img/gtz-6IIA5L8E5Dnc.jpg" width="600" alt="Representación de risa humana realista">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7937)**
+
+**Author:** [GenFlick | Making Movies with AI | Join Us](https://x.com/Genflickmovies) | **Source:** [Link](https://x.com/Genflickmovies/status/2081365155422556628) | **Published:** Jul 26, 2026
+
+---
+### Poción brillante de fantasía y hierbas flotantes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt inspirado en la fantasía para una toma cinematográfica de una poción brillante y hierbas flotantes, creando una atmósfera de película mágica.
+
+#### 📝 Prompt
+
+```
+Una poción brillante. Hierbas flotantes. Una escena que parece sacada directamente de una película de fantasía.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081348701201559552/img/gQ_MkREdMzn5aM0M.jpg" width="600" alt="Poción brillante de fantasía y hierbas flotantes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7945)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2081358875559682390) | **Published:** Jul 26, 2026
+
+---
+### Correcaminos en la ventana de la cocina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una descripción compleja de una escena de video que muestra a un correcaminos mirando hacia una cocina con varios detalles domésticos.
+
+#### 📝 Prompt
+
+```
+Un correcaminos aterriza en el alféizar de la ventana de la cocina y mira hacia adentro
+En la encimera de la cocina, añadir una jarra de vidrio con agua y rodajas de limón
+Una hogaza de pan de masa madre
+Licuadora
+Plato de queso y frutas junto a una botella de vino tinto
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081255607697641472/img/oC9lkHjNLlWdKnIi.jpg" width="600" alt="Correcaminos en la ventana de la cocina">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7939)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081255642959147339) | **Published:** Jul 26, 2026
+
+---
+### Baile de salón entre una princesa y Elon Musk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video narrativo donde una mujer se transforma en princesa y baila con Elon Musk en un salón de baile.
+
+#### 📝 Prompt
+
+```
+Margaret se transforma en una hermosa princesa de cabello castaño largo y Elon Musk la invita a bailar en un elegante salón de baile.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081225356766502912/img/xgJKf6DJWjTFa6HL.jpg" width="600" alt="Baile de salón entre una princesa y Elon Musk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7936)**
+
+**Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2081225375900971458) | **Published:** Jul 26, 2026
+
+---
+### Cardenales de neón en picada
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video visualmente impactante que muestra cardenales de colores neón descendiendo en picada para cazar insectos.
+
+#### 📝 Prompt
+
+```
+Una bandada de brillantes cardenales de color rojo neón con reflejos en amarillo y verde neón descienden en picada y devoran a los insectos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182930819231744/img/hzp0zEResowNlCZq.jpg" width="600" alt="Cardenales de neón en picada">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7940)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081182971319480548) | **Published:** Jul 26, 2026
+
+---
+### El rechazo del mate del mosquito
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video humorístico y dinámico que involucra a un mosquito jugando baloncesto y siendo aplastado durante un mate.
+
+#### 📝 Prompt
+
+```
+Un mosquito arcoíris 🦟 recibe un golpe tan fuerte de su oponente (una 🪰) mientras intenta hacer un mate, que termina aplastado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081179353707167745/img/a700naDXF2YaXco6.jpg" width="600" alt="El rechazo del mate del mosquito">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7938)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081179387534123067) | **Published:** Jul 26, 2026
+
+---
 ### Interacción con cajeros ansiosos
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -324,6 +575,25 @@ Comienza incluyendo música al estilo de una modelo de pasarela de Victoria's Se
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7845)**
 
 **Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **Published:** Jul 24, 2026
+
+---
+### Reina silenciosa en encaje de plata
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt poético para generar una escena serena que presenta a una reina con encaje de plata dentro de un jardín silencioso.
+
+#### 📝 Prompt
+
+```
+Una reina tranquila en encaje de plata y sombras suaves. Manos delicadas, mirada distante y un jardín silencioso.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080590150296616960/img/PAfQO680QIyhr4gq.jpg" width="600" alt="Reina silenciosa en encaje de plata">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7948)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2080590202167599223) | **Published:** Jul 24, 2026
 
 ---
 ### Parto en hospital desde una perspectiva en primera persona
@@ -2079,272 +2349,6 @@ Acercamiento suave de cámara en un dormitorio con luz tenue: lámpara ámbar pa
 **Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
 
 ---
-### Prompt de video de interacción con animales de la selva
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video orientado a la acción que muestra a un ave volando desde su percha y a un mono interactuando con plátanos, incluyendo descripciones de sonido.
-
-#### 📝 Prompt
-
-```
-Haz que el ave vuele desde su percha graznando y que el mono intente comer uno de los plátanos colgantes con sonidos de masticación
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077802983287406592/img/8jL3m7OFiyJVHX5l.jpg" width="600" alt="Prompt de video de interacción con animales de la selva">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7367)**
-
-**Author:** [“The Male Shoot!” 💦](https://x.com/TheMaleShoot) | **Source:** [Link](https://x.com/TheMaleShoot/status/2077803000878252165) | **Published:** Jul 16, 2026
-
----
-### Camionero con Red Bull y una rosa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descriptivo para un video cinematográfico de un camionero bajo la luz de la madrugada.
-
-#### 📝 Prompt
-
-```
-Un apuesto camionero afroamericano, bajo la luz de la madrugada, de pie junto a su camión con una Red Bull fría en la mano. Viste una camiseta blanca impecable que dice “AI Summer 2026 Bachelor” en el pecho y sostiene una rosa roja en la otra mano.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077718570125918208/img/0EgJ0XxJ-7aBRZIw.jpg" width="600" alt="Camionero con Red Bull y una rosa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7360)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077718643203260842) | **Published:** Jul 16, 2026
-
----
-### Bailarina en encaje de medianoche
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un elegante prompt de video para una bailarina vestida de encaje actuando bajo flores magenta.
-
-#### 📝 Prompt
-
-```
-Una elegante bailarina envuelta en encaje de medianoche bajo flores magenta colgantes. 🖤🌸
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077717424397553664/img/Z4ENagHANjXR2TWL.jpg" width="600" alt="Bailarina en encaje de medianoche">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7465)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2077717488071274861) | **Published:** Jul 16, 2026
-
----
-### Compañero de fitness con IA al estilo de los 80
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de POV lleno de energía para un video de fitness al estilo vintage de los 80, que presenta al usuario y a un entusiasta compañero de IA en un estudio de baile.
-
-#### 📝 Prompt
-
-```
-POV: Estoy haciendo mis estiramientos matutinos con mi compañero de IA en un hermoso estudio de baile. Espejos de pared a pared, piso de linóleo brillante, grandes ventanales con una suave luz de la mañana. Ambos vestimos ropa de entrenamiento colorida de los 80, con toda la energía de Richard Simmons. Él está súper entusiasmado, con una gran sonrisa, animándome mientras estiramos juntos. Un ambiente divertido, alocado y lleno de energía de video de fitness de los 80, pura alegría.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077711604922175488/img/8p1eg_SmsMw6rDnZ.jpg" width="600" alt="Compañero de fitness con IA al estilo de los 80">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7357)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077711713118396465) | **Published:** Jul 16, 2026
-
----
-### Voz en off con acento adorable
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de generación de video que especifica el diálogo y el estilo de acento de un personaje.
-
-#### 📝 Prompt
-
-```
-dice: "¡hola! ¿qué nombre debería tener? estoy listo para charlar, enséñame algo divertido" ¡con el acento más adorable!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077702081788493824/img/FT3oK53cp_MDMdhO.jpg" width="600" alt="Voz en off con acento adorable">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7361)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077702131990102254) | **Published:** Jul 16, 2026
-
----
-### Gatito esponjoso jugando en la nieve
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video dinámico de un gatito jugando en nieve polvo con luz invernal brillante y movimiento de cámara en mano.
-
-#### 📝 Prompt
-
-```
-El gatito esponjoso salta juguetonamente a través de la nieve, golpea los copos que caen y rueda en los bancos de nieve polvo mientras esta brilla bajo la luz invernal; suave movimiento de cámara en mano, con un desplazamiento animado y tierno.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077697195680436224/img/d412Jkm9HnFmbYtQ.jpg" width="600" alt="Gatito esponjoso jugando en la nieve">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7372)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2077697211736236045) | **Published:** Jul 16, 2026
-
----
-### Descripción de Retro Boombox
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt que describe un boombox transistorizado clásico, enfocándose en sus características de diseño retro como reproductores de casete y asa de transporte.
-
-#### 📝 Prompt
-
-```
-haz clic en tu boombox, el cual es un reproductor de música portátil transistorizado que cuenta con una o dos caseteras/grabadoras y radio AM/FM, generalmente con un asa de transporte. A partir de mediados de la década de 1990, a menudo se incluía un reproductor de CD.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077696787809198082/img/t2vpdlIBvrOzyzSa.jpg" width="600" alt="Descripción de Retro Boombox">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7365)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077696815260934166) | **Published:** Jul 16, 2026
-
----
-### Tienda de flores de origami en un prado
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un encantador prompt que presenta a un personaje llamado Mona doblando flores de origami en tonos pastel en una tienda en un prado bajo un árbol frondoso.
-
-#### 📝 Prompt
-
-```
-¡Mona está muy emocionada con su nuevo talento! Monta una pequeña tienda justo debajo de un gran árbol frondoso en el prado, usando un hermoso papel en tonos pastel para doblar las flores de origami más bellas...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077690084300627968/img/h3WZJw9EAJjmlF4R.jpg" width="600" alt="Tienda de flores de origami en un prado">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7373)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077690188139012329) | **Published:** Jul 16, 2026
-
----
-### Presentación de ídolo japonés en estadio
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt cinematográfico que describe la presentación de una ídolo en un estadio masivo, centrándose en el atuendo del personaje Nene y la atmósfera del público.
-
-#### 📝 Prompt
-
-```
-Los reflectores iluminan un estadio masivo repleto de decenas de miles de espectadores. Nene viste un minivestido blanco puro de encaje sin tirantes con dobladillo con volantes, tacones altos de perlas y guantes largos de encaje, con una pequeña flor en el cabello, mientras realiza un baile energético en el centro del escenario. Ella sonríe radiante mientras saluda, hace un gesto de corazón y grita: "¡Todos, el escenario de esta noche brilla para ustedes! ¡Bailemos juntos, los amo!". Los bailarines de apoyo se mueven en sincronía con ella, y los asientos del público están envueltos en un mar de luces provenientes de los flashes de teléfonos inteligentes y varitas luminosas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077681998043521025/img/0uNZUfkGMpYM0ZZQ.jpg" width="600" alt="Presentación de ídolo japonés en estadio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7366)**
-
-**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2077682158886605281) | **Published:** Jul 16, 2026
-
----
-### Combate aéreo de la Segunda Guerra Mundial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de combate aéreo cinematográfico que presenta cazas Spitfire y ME-109 en medio de explosiones de artillería antiaérea en un cielo despejado.
-
-#### 📝 Prompt
-
-```
-Spitfire volando sobre territorio enemigo. Añadir cazas nazis ME-109. Añadir explosiones de artillería antiaérea. Cielo despejado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077664235006439424/img/jBrSSkHLSeicPzUl.jpg" width="600" alt="Combate aéreo de la Segunda Guerra Mundial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7359)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077664251074760804) | **Published:** Jul 16, 2026
-
----
-### Ave vibrante y bailarina
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt colorido basado en palabras clave que presenta un ave morada y una mujer bailando con una estética vibrante.
-
-#### 📝 Prompt
-
-```
-Hermosa gente increíble, el ave morada más linda y adorable susurrando poesía de amor, mujer artista dulce y amorosa bailando con colores vibrantes
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077610445398269952/img/YmH7J1AqYIPygaE1.jpg" width="600" alt="Ave vibrante y bailarina">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7374)**
-
-**Author:** [fairy 🧚‍♂️](https://x.com/moon916875) | **Source:** [Link](https://x.com/moon916875/status/2077610470996165025) | **Published:** Jul 16, 2026
-
----
-### Atmósfera de vapor de agua cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico altamente detallado enfocado en efectos ambientales como vapor de agua volumétrico, sombras intensas y superficies de agua reflectantes.
-
-#### 📝 Prompt
-
-```
-Calidad cinematográfica 4K realista / Mezcla suave de realismo / Interpolación y escalado / Efecto de vapor de agua volumétrico / Sombras más suaves y más intensas / Agua cristalina y reflectante / Color de nubes intenso /
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077580467088289793/img/t-KRVV0g-AXFgObh.jpg" width="600" alt="Atmósfera de vapor de agua cinematográfica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7362)**
-
-**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2077580502672789926) | **Published:** Jul 16, 2026
-
----
-### Lujosa faja de seda roja al viento
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt poético que describe la sensación táctil de una faja de seda roja ondeando con un viento suntuoso.
-
-#### 📝 Prompt
-
-```
-A Lila le encanta la sensación de lujo de la faja de seda roja con este viento suntuoso
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077554370699292672/img/bb31HgD5YM3dGcd4.jpg" width="600" alt="Lujosa faja de seda roja al viento">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7369)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077556828393689199) | **Published:** Jul 16, 2026
-
----
-### Navegando en la Bahía de Chesapeake
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video prompt sereno que muestra a una mujer llamada Lila navegando por la Bahía de Chesapeake en un pequeño velero blanco, con su cabello rojo y su bufanda ondeando con el viento.
-
-#### 📝 Prompt
-
-```
-Lila navegando suavemente en un pequeño velero blanco a través de la tranquila Bahía de Chesapeake, con su largo y alborotado cabello rojo y su bufanda de seda roja ondeando hermosamente con el viento
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077549639977279488/img/syn7a_cZr1IsWiz_.jpg" width="600" alt="Navegando en la Bahía de Chesapeake">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7364)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2406,6 +2410,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-27T07:56:24.899Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-27T11:48:38.584Z</sub>
 
 </div>

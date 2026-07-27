@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2224** |
+| 📝 Total Prompts | **2238** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-27** |
 
@@ -189,6 +189,257 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Kreatur singt Schlaflied
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein fantasievoller Prompt für ein Video, das eine Fantasy-Kreatur zeigt, die einem Baby-Wesen ein Schlaflied vorsingt.
+
+#### 📝 Prompt
+
+```
+Eine Kreatur sitzt im Stuhl, hält das Baby-Wesen im Arm und singt das traditionelle Lied „Rock-a-bye Baby“
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081513814034612225/img/vfJExH-uGCXWvx4e.jpg" width="600" alt="Kreatur singt Schlaflied">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7941)**
+
+**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2081517060094611502) | **Published:** Jul 26, 2026
+
+---
+### Leuchtende Tinte, dunkle Schrift
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein geheimnisvoller Prompt für ein Video, das leuchtende Tinte und eine Schrift zeigt, die nur im Dunkeln lesbar ist.
+
+#### 📝 Prompt
+
+```
+Die Sprache schreiben, die nur die Dunkelheit versteht; Tinte, die auch nach dem Umblättern der Seite noch leuchtet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081180925124308992/img/cuzzXlEkJ3Clsu0X.jpg" width="600" alt="Leuchtende Tinte, dunkle Schrift">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7944)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081507355024359925) | **Published:** Jul 26, 2026
+
+---
+### Video-Prompt für Cinéma-Vérité-Aufnahmen aus dem Paris der 1970er Jahre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für Grok Imagine, der darauf ausgelegt ist, authentisches Dokumentarfilmmaterial aus dem Paris der 1970er Jahre im rauen 16-mm-Film-Look mit organischem Filmkorn und natürlicher Beleuchtung zu generieren.
+
+#### 📝 Prompt
+
+```
+Rauer 16-mm-Cinéma-Vérité-Stil, authentisches Dokumentarfilmmaterial aus dem Paris der 1970er Jahre, organisches Filmkorn, reines natürliches Tageslicht, starkes handgeführtes Schulterkamera-Wackeln, keine Stabilisierung, weiche Fokusverläufe, subtile Lichtlecks, roh und elegant, gelebter Realismus. Eins
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081484199245012992/img/V6zIay-_i7B99SSj.jpg" width="600" alt="Video-Prompt für Cinéma-Vérité-Aufnahmen aus dem Paris der 1970er Jahre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7947)**
+
+**Author:** [Ashley Ward](https://x.com/ashleyward) | **Source:** [Link](https://x.com/ashleyward/status/2081484471367258516) | **Published:** Jul 26, 2026
+
+---
+### Regnerische Neon-Stadt bei Nacht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein lebendiger, atmosphärischer Prompt für ein Video einer Fahrt durch eine neonbeleuchtete Stadt, gefilmt durch regennasse Fensterscheiben.
+
+#### 📝 Prompt
+
+```
+Regen auf der Windschutzscheibe, Neonlichter, die durch das Glas verschwimmen, einfach durch eine Stadt fahren, die niemals schläft
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182887316168704/img/GyWe6gQL-FjDPiTp.jpg" width="600" alt="Regnerische Neon-Stadt bei Nacht">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7946)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081477154328449072) | **Published:** Jul 26, 2026
+
+---
+### Elon Musks Starship-Reise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, der Elon Musk zeigt, wie er in einem Starship zum Mars reist und mit einer KI interagiert.
+
+#### 📝 Prompt
+
+```
+Elon Musk sitzt im Inneren des Starship-Raumschiffs auf dem Weg zum Mars und spricht mit einer KI
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081432199501672448/img/zdAT_ab80GzJoYjv.jpg" width="600" alt="Elon Musks Starship-Reise">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7942)**
+
+**Author:** [Amrutraj](https://x.com/Amrutraj4) | **Source:** [Link](https://x.com/Amrutraj4/status/2081432217482641861) | **Published:** Jul 26, 2026
+
+---
+### Wirbelnder kosmischer Himmel – Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein beschreibender Prompt für ein himmlisches Video, das einen rotierenden Nachthimmel zeigt und ein Gefühl der Nähe zum Universum vermittelt.
+
+#### 📝 Prompt
+
+```
+Stillstehen, während sich der gesamte Himmel dreht; an manchen Nächten fühlt sich das Universum näher an als der Boden
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182605689720832/img/AEs1d_l_3ygEKoaG.jpg" width="600" alt="Wirbelnder kosmischer Himmel – Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7943)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081416756275380280) | **Published:** Jul 26, 2026
+
+---
+### Realistisches Nachrichten-Interview mit einem Hund
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Prompt für eine professionelle Szene im Nachrichtenstil, in der ein Reporter ein realistisches Interview mit einem Hund führt.
+
+#### 📝 Prompt
+
+```
+Ein Nachrichtenreporter hält einem Hund ein Mikrofon vor das Maul, als würde er ein echtes Interview führen, professioneller Nachrichtenstil, realistische Szene
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081410515352616960/img/PuBRt4NsVZMSngJZ.jpg" width="600" alt="Realistisches Nachrichten-Interview mit einem Hund">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7935)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2081410626375807091) | **Published:** Jul 26, 2026
+
+---
+### Realistische menschliche Lache
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine detaillierte Regieanweisung für KI-Videos, die sich auf eine realistische menschliche Lache mit spezifischen körperlichen Signalen konzentriert.
+
+#### 📝 Prompt
+
+```
+Das erste Lachen entweicht ihr bereits durch die Nase, ein lautes Schnauben, sie schlägt sich eine Hand davor... die Hand verliert: Das Lachen bricht um sie herum hervor... eine halbe Sekunde reine, verblüffte Stille, und dann ist sie völlig weg.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2081364983607091200/pu/img/gtz-6IIA5L8E5Dnc.jpg" width="600" alt="Realistische menschliche Lache">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7937)**
+
+**Author:** [GenFlick | Making Movies with AI | Join Us](https://x.com/Genflickmovies) | **Source:** [Link](https://x.com/Genflickmovies/status/2081365155422556628) | **Published:** Jul 26, 2026
+
+---
+### Fantasy-Leuchttrank und schwebende Kräuter
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein von Fantasy inspirierter Prompt für eine filmische Aufnahme eines leuchtenden Tranks und schwebender Kräuter, die eine magische Film-Atmosphäre erzeugen.
+
+#### 📝 Prompt
+
+```
+Ein leuchtender Trank. Schwebende Kräuter. Eine Szene, die wirkt, als wäre sie direkt einem Fantasy-Film entsprungen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081348701201559552/img/gQ_MkREdMzn5aM0M.jpg" width="600" alt="Fantasy-Leuchttrank und schwebende Kräuter">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7945)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2081358875559682390) | **Published:** Jul 26, 2026
+
+---
+### Road Runner am Küchenfenster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine komplexe Szenenbeschreibung für ein Video, das einen Roadrunner zeigt, der in eine Küche mit verschiedenen häuslichen Details blickt.
+
+#### 📝 Prompt
+
+```
+Roadrunner landet auf dem Küchenfenstersims und schaut ins Fenster
+Auf der Küchentheke stehen ein Glaskrug mit Wasser und Zitronenscheiben
+Ein Laib Sauerteigbrot
+Ein Mixer
+Käse- und Obstplatte neben einer Flasche Rotwein
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081255607697641472/img/oC9lkHjNLlWdKnIi.jpg" width="600" alt="Road Runner am Küchenfenster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7939)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081255642959147339) | **Published:** Jul 26, 2026
+
+---
+### Prinzessin und Elon Musk beim Ballsaal-Tanz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein narrativer Video-Prompt, bei dem sich eine Frau in eine Prinzessin verwandelt und mit Elon Musk in einem Ballsaal tanzt.
+
+#### 📝 Prompt
+
+```
+Margaret verwandelt sich in eine wunderschöne Prinzessin mit langem braunem Haar und Elon Musk bittet sie in einem eleganten Ballsaal zum Tanz.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081225356766502912/img/xgJKf6DJWjTFa6HL.jpg" width="600" alt="Prinzessin und Elon Musk beim Ballsaal-Tanz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7936)**
+
+**Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2081225375900971458) | **Published:** Jul 26, 2026
+
+---
+### Herabstürzende Neon-Kardinäle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein visuell beeindruckender Video-Prompt, der neonfarbene Kardinalvögel zeigt, die herabstürzen, um Insekten zu jagen.
+
+#### 📝 Prompt
+
+```
+Ein Schwarm leuchtend roter Neon-Kardinäle mit neon-gelben und neon-grünen Akzenten stürzt herab und verschlingt die Insekten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081182930819231744/img/hzp0zEResowNlCZq.jpg" width="600" alt="Herabstürzende Neon-Kardinäle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7940)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081182971319480548) | **Published:** Jul 26, 2026
+
+---
+### Mücken-Slam-Dunk-Abfuhr
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein humorvoller und dynamischer Video-Prompt, bei dem eine Mücke Basketball spielt und während eines Dunks zerquetscht wird.
+
+#### 📝 Prompt
+
+```
+Eine Regenbogen-Mücke 🦟 wird von ihrem Gegner (einer 🪰) bei einem Slam-Dunk-Versuch so hart geblockt, dass sie regelrecht zerquetscht wird.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081179353707167745/img/a700naDXF2YaXco6.jpg" width="600" alt="Mücken-Slam-Dunk-Abfuhr">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7938)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081179387534123067) | **Published:** Jul 26, 2026
+
+---
 ### Ängstliche Interaktion mit dem Kassenpersonal
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -324,6 +575,25 @@ Beginne mit Musik wie bei einem Victoria's Secret Runway-Model und stimme jede B
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7845)**
 
 **Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **Published:** Jul 24, 2026
+
+---
+### Stille Königin in silberner Spitze
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein poetischer Prompt zur Erzeugung einer heiteren Szene mit einer Königin in silberner Spitze in einem stillen Garten.
+
+#### 📝 Prompt
+
+```
+Eine stille Königin in silberner Spitze und sanften Schatten. Sanfte Hände, ferne Augen und ein stiller Garten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080590150296616960/img/PAfQO680QIyhr4gq.jpg" width="600" alt="Stille Königin in silberner Spitze">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7948)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2080590202167599223) | **Published:** Jul 24, 2026
 
 ---
 ### Krankenhausgeburt aus der Ich-Perspektive
@@ -1897,272 +2167,6 @@ Sanfter Kamera-Push-in auf ein abgedunkeltes Schlafzimmer: eine bernsteinfarbene
 **Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
 
 ---
-### Video-Prompt für Interaktion mit Dschungeltieren
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein aktionsgeladener Video-Prompt, der einen Vogel zeigt, der von seiner Stange abhebt, und einen Affen, der mit Bananen interagiert, inklusive Soundbeschreibungen.
-
-#### 📝 Prompt
-
-```
-Lasse den Vogel krächzend von seiner Stange abheben und den Affen versuchen, eine der hängenden Bananen mit Kaugeräuschen zu essen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077802983287406592/img/8jL3m7OFiyJVHX5l.jpg" width="600" alt="Video-Prompt für Interaktion mit Dschungeltieren">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7367)**
-
-**Author:** [“The Male Shoot!” 💦](https://x.com/TheMaleShoot) | **Source:** [Link](https://x.com/TheMaleShoot/status/2077803000878252165) | **Published:** Jul 16, 2026
-
----
-### Trucker mit Red Bull und Rose
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein beschreibender Prompt für ein filmreifes Video eines Truckers im Licht des frühen Morgens.
-
-#### 📝 Prompt
-
-```
-Ein gutaussehender schwarzer Trucker im Licht des frühen Morgens, der neben seinem Truck steht und ein kaltes Red Bull in der Hand hält. Er trägt ein sauberes weißes T-Shirt mit der Aufschrift „AI Summer 2026 Bachelor“ auf der Brust und hält in der anderen Hand eine einzelne rote Rose.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077718570125918208/img/0EgJ0XxJ-7aBRZIw.jpg" width="600" alt="Trucker mit Red Bull und Rose">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7360)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077718643203260842) | **Published:** Jul 16, 2026
-
----
-### Ballerina in mitternachtsblauem Spitzenkleid
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein eleganter Video-Prompt für eine Ballerina in Spitzenkleidung, die unter magentafarbenen Blumen tanzt.
-
-#### 📝 Prompt
-
-```
-Eine anmutige Ballerina, gehüllt in mitternachtsblaue Spitze unter herabhängenden magentafarbenen Blüten. 🖤🌸
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077717424397553664/img/Z4ENagHANjXR2TWL.jpg" width="600" alt="Ballerina in mitternachtsblauem Spitzenkleid">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7465)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2077717488071274861) | **Published:** Jul 16, 2026
-
----
-### 80er-Jahre Fitness-KI-Begleiter
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein energiegeladener POV-Prompt für ein Fitnessvideo im Vintage-Stil der 80er Jahre, das den Nutzer und einen enthusiastischen KI-Begleiter in einem Tanzstudio zeigt.
-
-#### 📝 Prompt
-
-```
-POV: Ich mache meine morgendlichen Dehnübungen mit meinem KI-Begleiter in einem wunderschönen Tanzstudio. Spiegelwände, glänzender Linoleumboden, große Fenster mit weichem Morgenlicht. Wir tragen beide bunte 80er-Jahre-Workout-Kleidung und versprühen die volle Energie eines Richard Simmons. Er ist super enthusiastisch, strahlt über das ganze Gesicht und feuert mich an, während wir uns gemeinsam dehnen. Spaßiges, albernes, energiegeladenes 80er-Jahre-Fitnessvideo-Feeling, pure Freude.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077711604922175488/img/8p1eg_SmsMw6rDnZ.jpg" width="600" alt="80er-Jahre Fitness-KI-Begleiter">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7357)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077711713118396465) | **Published:** Jul 16, 2026
-
----
-### Entzückendes Voiceover mit Akzent
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Videogenerierung, der den Dialog und den Akzentstil eines Charakters festlegt.
-
-#### 📝 Prompt
-
-```
-es sagt: „Hey, wie soll ich heißen? Ich bin bereit zu plaudern, bring mir etwas Lustiges bei“ mit dem entzückendsten Akzent!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077702081788493824/img/FT3oK53cp_MDMdhO.jpg" width="600" alt="Entzückendes Voiceover mit Akzent">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7361)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077702131990102254) | **Published:** Jul 16, 2026
-
----
-### Flauschiges Kätzchen spielt im Schnee
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein dynamischer Video-Prompt für ein Kätzchen, das in pulvrigem Schnee spielt, mit funkelndem Winterlicht und Handkamera-Bewegung.
-
-#### 📝 Prompt
-
-```
-Das flauschige Kätzchen springt verspielt durch den Schnee, schlägt nach fallenden Flocken und wälzt sich in pulvrigen Verwehungen, während der Schnee im hellen Winterlicht glitzert; sanfte Handkamera-Führung, lebhafte und niedliche Bewegungen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077697195680436224/img/d412Jkm9HnFmbYtQ.jpg" width="600" alt="Flauschiges Kätzchen spielt im Schnee">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7372)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2077697211736236045) | **Published:** Jul 16, 2026
-
----
-### Beschreibung eines Retro-Boombox
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Beschreibung eines klassischen transistorisierten Boombox, mit Fokus auf Retro-Designmerkmale wie Kassettendecks und Tragegriff.
-
-#### 📝 Prompt
-
-```
-Klicken Sie auf Ihren Boombox. Ein Boombox ist ein tragbarer transistorisierter Musikplayer, der mit einem oder zwei Kassettenspielern/-rekordern sowie einem AM/FM-Radio ausgestattet ist und in der Regel über einen Tragegriff verfügt. Ab Mitte der 1990er Jahre wurde häufig auch ein CD-Player integriert.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077696787809198082/img/t2vpdlIBvrOzyzSa.jpg" width="600" alt="Beschreibung eines Retro-Boombox">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7365)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077696815260934166) | **Published:** Jul 16, 2026
-
----
-### Origami-Blumenladen auf einer Blumenwiese
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein bezaubernder Prompt mit einer Figur namens Mona, die unter einem schattigen Baum auf einer Wiese pastellfarbene Origami-Blumen faltet.
-
-#### 📝 Prompt
-
-```
-Mona ist ganz begeistert von ihrem neuen Talent! Sie eröffnet einen kleinen Laden direkt unter einem großen, schattigen Baum auf der Wiese und faltet aus hübschem Pastellpapier die schönsten Origami-Blumen...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077690084300627968/img/h3WZJw9EAJjmlF4R.jpg" width="600" alt="Origami-Blumenladen auf einer Blumenwiese">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7373)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077690188139012329) | **Published:** Jul 16, 2026
-
----
-### Japanischer Idol-Auftritt in der Arena
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein filmischer Prompt, der einen Idol-Auftritt in einer riesigen Arena beschreibt, mit Fokus auf das Outfit der Figur Nene und die Atmosphäre im Publikum.
-
-#### 📝 Prompt
-
-```
-Scheinwerfer fluten eine riesige Arena, die mit zehntausenden Zuschauern gefüllt ist. Nene trägt ein trägerloses Minikleid aus reinweißer Spitze mit gerüschtem Saum, dazu High Heels mit Perlenbesatz und lange Spitzenhandschuhe. Mit einer kleinen Blume im Haar führt sie in der Mitte der Bühne einen energiegeladenen Tanz auf. Sie lächelt strahlend, winkt dem Publikum zu, formt ein Herz mit den Händen und ruft: „Leute, die heutige Bühne leuchtet nur für euch. Lasst uns zusammen tanzen, ich liebe euch!“ Die Background-Tänzer bewegen sich synchron zu ihr, während die Zuschauerränge in ein Lichtermeer aus Smartphone-Blitzen und Leuchtstäben getaucht sind.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077681998043521025/img/0uNZUfkGMpYM0ZZQ.jpg" width="600" alt="Japanischer Idol-Auftritt in der Arena">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7366)**
-
-**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2077682158886605281) | **Published:** Jul 16, 2026
-
----
-### Luftkampf im Zweiten Weltkrieg
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kinoreifer Luftkampf-Prompt mit einer Spitfire und ME-109-Jägern inmitten von Flak-Explosionen vor einem klaren Himmel.
-
-#### 📝 Prompt
-
-```
-Spitfire fliegt über feindlichem Gebiet. Füge Nazi-ME-109-Jäger hinzu. Füge Flak-Explosionen hinzu. Klarer Himmel.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077664235006439424/img/jBrSSkHLSeicPzUl.jpg" width="600" alt="Luftkampf im Zweiten Weltkrieg">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7359)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077664251074760804) | **Published:** Jul 16, 2026
-
----
-### Lebhafter Vogel und Tänzerin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein farbenfroher, schlüsselwortbasierter Prompt mit einem violetten Vogel und einer tanzenden Frau in lebendiger Ästhetik.
-
-#### 📝 Prompt
-
-```
-Wunderschöne, erstaunliche Menschen, süßester, bezaubernder violetter Vogel, der Liebesgedichte flüstert, liebevolle, süße Künstlerin, die Frau tanzt mit lebendigen Farben
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077610445398269952/img/YmH7J1AqYIPygaE1.jpg" width="600" alt="Lebhafter Vogel und Tänzerin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7374)**
-
-**Author:** [fairy 🧚‍♂️](https://x.com/moon916875) | **Source:** [Link](https://x.com/moon916875/status/2077610470996165025) | **Published:** Jul 16, 2026
-
----
-### Filmreife Wasserdampf-Atmosphäre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, filmreifer Prompt, der sich auf Umgebungseffekte wie volumetrischen Wasserdampf, intensive Schatten und reflektierende Wasseroberflächen konzentriert.
-
-#### 📝 Prompt
-
-```
-Realistische 4K-Filmqualität / Smoot-Mix-Realismus / Interpolation und Upscale / Volumetrischer Wasserdampfeffekt / Weichere, intensivere Schatten / Kristallklares und reflektierendes Wasser / Intensive Wolkenfarben /
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077580467088289793/img/t-KRVV0g-AXFgObh.jpg" width="600" alt="Filmreife Wasserdampf-Atmosphäre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7362)**
-
-**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2077580502672789926) | **Published:** Jul 16, 2026
-
----
-### Luxuriöse rote Seidenschärpe im Wind
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein poetischer Prompt, der das haptische Gefühl einer roten Seidenschärpe beschreibt, die in einem prächtigen Wind weht.
-
-#### 📝 Prompt
-
-```
-Lila liebt das luxuriöse Gefühl der edlen roten Seidenschärpe in diesem prächtigen Wind
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077554370699292672/img/bb31HgD5YM3dGcd4.jpg" width="600" alt="Luxuriöse rote Seidenschärpe im Wind">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7369)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077556828393689199) | **Published:** Jul 16, 2026
-
----
-### Segeln in der Chesapeake Bay
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein ruhiger Video-Prompt, der eine Frau namens Lila zeigt, wie sie mit einem kleinen weißen Segelboot über die Chesapeake Bay segelt, wobei ihr rotes Haar und ihr Schal im Wind wehen.
-
-#### 📝 Prompt
-
-```
-Lila segelt sanft auf einem kleinen weißen Segelboot über die ruhige Chesapeake Bay, während ihr langes, zerzaustes rotes Haar und ihr roter Seidenschal wunderschön im Wind wehen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077549639977279488/img/syn7a_cZr1IsWiz_.jpg" width="600" alt="Segeln in der Chesapeake Bay">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7364)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2224,6 +2228,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-27T07:56:26.124Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-27T11:48:39.951Z</sub>
 
 </div>
