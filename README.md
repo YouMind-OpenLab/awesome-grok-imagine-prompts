@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2238** |
+| 📝 Total Prompts | **2242** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-28** |
 
@@ -189,11 +189,87 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Creature Singing Lullaby
+### Horses Grazing in Sunny Wildflower Meadow
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A whimsical prompt for a video showing a fantasy creature singing a lullaby to a baby creature.
+> A peaceful and photorealistic video prompt of two horses grazing among wildflowers in a sunny meadow with oak trees in the background.
+
+#### 📝 Prompt
+
+```
+Two horses graze quietly on the grass among the wildflowers in the sunny meadow, with oak trees in the background. Photorealistic, bright natural light, peaceful atmosphere. Keep the original meadow composition and lighting intact.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081913129752305665/img/MnUHHilVVaH6lbR6.jpg" width="600" alt="Horses Grazing in Sunny Wildflower Meadow">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
+
+---
+### Bioluminescent Aquarium Dolphin Whirlpool
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt for an aquarium scene where spinning dolphins create a whirlpool of bioluminescence.
+
+#### 📝 Prompt
+
+```
+Aquarium   The spinning dolphins create a whirlpool effect that fosters a creation of bioluminescence.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081844999608586240/img/AvTpMW5aNqaQLOlT.jpg" width="600" alt="Bioluminescent Aquarium Dolphin Whirlpool">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8023)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081845035058737455) | **Published:** Jul 27, 2026
+
+---
+### Underwater Aquamarine House and Seahorses
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt depicting a surreal underwater aquamarine house with large seahorses floating past a staircase.
+
+#### 📝 Prompt
+
+```
+Aquamarine house   A group of oddly large seahorses float by above the fish after the float down from the staircase above.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081841609159708672/img/igi57thnkyybSoxI.jpg" width="600" alt="Underwater Aquamarine House and Seahorses">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8022)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081841647046869133) | **Published:** Jul 27, 2026
+
+---
+### Fluffy Puppy Sunny Lawn Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a heartwarming and photorealistic video of a cute fluffy puppy sitting on a sunny lawn with detailed fur textures.
+
+#### 📝 Prompt
+
+```
+A cute fluffy puppy with big round eyes, soft floppy ears, and a happy smiling expression, sitting on a grassy lawn under soft sunlight. Adorable, heartwarming, photorealistic with fine fur details and gentle warm lighting.
+```
+
+<img src="https://cms-assets.youmind.com/media/1785227500202_1g8w1y_HOOu2KZXcAAcv5S.jpg" width="600" alt="Fluffy Puppy Sunny Lawn Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8024)**
+
+**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2081699714743914631) | **Published:** Jul 27, 2026
+
+---
+### Creature Singing Lullaby Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for generating a video of a creature sitting in a chair and singing a traditional lullaby to a baby creature.
 
 #### 📝 Prompt
 
@@ -201,7 +277,7 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 Creature sitting in the chair holding the baby creature sings the traditional song "Rock-a-bye Baby"
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081513814034612225/img/vfJExH-uGCXWvx4e.jpg" width="600" alt="Creature Singing Lullaby">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081513814034612225/img/vfJExH-uGCXWvx4e.jpg" width="600" alt="Creature Singing Lullaby Animation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7941)**
 
@@ -735,11 +811,11 @@ Ultra realistic cinematic portrait of a warrior woman with fair skin, piercing b
 **Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **Published:** Jul 22, 2026
 
 ---
-### Nordic 8-Bit Pixel Art Style
+### Relaxing 8-Bit Pixel Art Nordic Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a relaxing 8-bit pixel art scene accompanied by ethereal Nordic instrumental music.
+> A cozy pixel art prompt that generates a relaxing 8-bit visual paired with ethereal Nordic instrumental music.
 
 #### 📝 Prompt
 
@@ -747,7 +823,7 @@ Ultra realistic cinematic portrait of a warrior woman with fair skin, piercing b
 Cute relaxing 8 bit pixel art, calm ethereal instrumental Nordic music with no vocals, like you're coming home to where you truly belong after a long journey out of the deep dark night of chaos.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="Nordic 8-Bit Pixel Art Style">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="Relaxing 8-Bit Pixel Art Nordic Scene">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7758)**
 
@@ -2089,82 +2165,6 @@ Cinematic action-thriller still in vertical 2:3 framing: Vladimir Putin from the
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
 
 ---
-### Chaotic War Room Conflict
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dramatic prompt depicting a chaotic scene in a war room featuring global leaders and security teams in a climactic standoff.
-
-#### 📝 Prompt
-
-```
-Climactic war-room meltdown in 2:3 portrait composition: all five leaders—Putin, Kim Jong Il, Trump, Musk on holographic display, and Xi Jinping—caught in a single chaotic wide shot as elite security teams exchange rifle fire cross-room. Tracers, spa...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="Chaotic War Room Conflict">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7363)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **Published:** Jul 16, 2026
-
----
-### Sparkling Dust Silhouette Couple Transition
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic transition from a black screen to sparkling dust forming silhouettes of a couple touching hands under a starry sky.
-
-#### 📝 Prompt
-
-```
-Black screen becomes Sparking dust in silhouette of a man and woman, their hands touch, flash of bright light, the moon and stars fill the screen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="Sparkling Dust Silhouette Couple Transition">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7371)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **Published:** Jul 16, 2026
-
----
-### Wings of Amethyst Fire
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic and mystical video prompt describing amethyst fire wings and turquoise light in a veiled mist.
-
-#### 📝 Prompt
-
-```
-Wings of amethyst fire and turquoise light whispering alchemical truth through the veiled mist Tiptoeing softly, creating rings of glowing light where sacred waters fall in shimmering heights
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="Wings of Amethyst Fire">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7375)**
-
-**Author:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **Source:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **Published:** Jul 16, 2026
-
----
-### Dim Bedroom Cinematic Push-in Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing a slow camera push-in on a bedroom scene with specific lighting, texture, and atmospheric details.
-
-#### 📝 Prompt
-
-```
-Gentle camera push-in on a dim bedroom: amber lamp flickers, satin sheets slowly shift, warm dust motes in the air, soft cinematic mood only, no body movement.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="Dim Bedroom Cinematic Push-in Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7368)**
-
-**Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2226,6 +2226,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T06:51:36.758Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T10:57:58.272Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2238** |
+| 📝 총 프롬프트 수 | **2242** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-28** |
 
@@ -189,6 +189,82 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 햇살 가득한 야생화 초원에서 풀을 뜯는 말들
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 배경에 참나무가 있는 햇살 가득한 초원에서 야생화 사이로 풀을 뜯는 두 마리의 말을 담은 평화롭고 사실적인 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+햇살 가득한 초원의 야생화 사이에서 두 마리의 말이 조용히 풀을 뜯고 있으며, 배경에는 참나무가 보입니다. 사실적인 묘사, 밝은 자연광, 평화로운 분위기. 원래의 초원 구도와 조명을 그대로 유지하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081913129752305665/img/MnUHHilVVaH6lbR6.jpg" width="600" alt="햇살 가득한 야생화 초원에서 풀을 뜯는 말들">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8021)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **게시일:** Jul 28, 2026
+
+---
+### 생물 발광 아쿠아리움 돌고래 소용돌이
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 돌고래가 회전하며 생물 발광 소용돌이를 만들어내는 아쿠아리움 장면을 위한 창의적인 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+아쿠아리움   회전하는 돌고래들이 소용돌이 효과를 만들어내며 생물 발광을 생성합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081844999608586240/img/AvTpMW5aNqaQLOlT.jpg" width="600" alt="생물 발광 아쿠아리움 돌고래 소용돌이">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8023)**
+
+**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2081845035058737455) | **게시일:** Jul 27, 2026
+
+---
+### 수중 아쿠아마린 하우스와 해마
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 계단 위를 떠다니는 거대한 해마와 초현실적인 수중 아쿠아마린 하우스를 묘사한 비디오 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+아쿠아마린 하우스   비정상적으로 거대한 해마 무리가 위쪽 계단에서 내려온 후 물고기들 위를 떠다닙니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081841609159708672/img/igi57thnkyybSoxI.jpg" width="600" alt="수중 아쿠아마린 하우스와 해마">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8022)**
+
+**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2081841647046869133) | **게시일:** Jul 27, 2026
+
+---
+### 햇살 가득한 잔디밭 위의 복슬복슬한 강아지 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 햇살이 내리쬐는 잔디밭에 앉아 있는 귀엽고 복슬복슬한 강아지의 모습을 섬세한 털 질감까지 살려 따뜻하고 사실적인 영상으로 생성합니다.
+
+#### 📝 프롬프트
+
+```
+크고 동그란 눈, 부드럽게 처진 귀, 행복한 미소를 짓고 있는 귀엽고 복슬복슬한 강아지가 부드러운 햇살 아래 잔디밭에 앉아 있습니다. 사랑스럽고 마음이 따뜻해지는 영상으로, 섬세한 털 표현과 부드럽고 따스한 조명이 돋보이는 사실적인 결과물입니다.
+```
+
+<img src="https://cms-assets.youmind.com/media/1785227500202_1g8w1y_HOOu2KZXcAAcv5S.jpg" width="600" alt="햇살 가득한 잔디밭 위의 복슬복슬한 강아지 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8024)**
+
+**작성자:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **출처:** [Link](https://x.com/Yesyesyes_OK/status/2081699714743914631) | **게시일:** Jul 27, 2026
+
+---
 ### 자장가를 부르는 크리처
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2273,82 +2349,6 @@ Annabelle 🪻🌸🌹🐞🍇⛲️🌲
 **작성자:** [Erkki Heliö](https://x.com/erkki_helio) | **출처:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **게시일:** Jul 16, 2026
 
 ---
-### 혼란스러운 워룸(War Room)의 갈등
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 글로벌 리더들과 보안팀이 대치하는 긴박한 상황 속, 혼란스러운 워룸의 모습을 묘사한 드라마틱한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-2:3 세로형 구도의 긴박한 워룸 붕괴 상황: 푸틴, 김정일, 트럼프, 홀로그램으로 표시된 머스크, 그리고 시진핑 등 5명의 리더가 한 화면에 담긴 혼란스러운 와이드 샷. 정예 보안팀이 방을 가로질러 소총을 교전 중임. 예광탄, 스파...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="혼란스러운 워룸(War Room)의 갈등">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7363)**
-
-**작성자:** [Erkki Heliö](https://x.com/erkki_helio) | **출처:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **게시일:** Jul 16, 2026
-
----
-### 반짝이는 먼지 실루엣 커플 전환 효과
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 검은 화면에서 별이 빛나는 밤하늘 아래 서로 손을 맞잡은 커플의 실루엣이 반짝이는 먼지로 형성되는 영화 같은 전환 효과입니다.
-
-#### 📝 프롬프트
-
-```
-검은 화면이 남녀의 실루엣을 형상화한 반짝이는 먼지로 변하고, 두 사람이 손을 맞잡으며 밝은 빛이 번쩍인 뒤 달과 별이 화면을 가득 채웁니다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="반짝이는 먼지 실루엣 커플 전환 효과">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7371)**
-
-**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **게시일:** Jul 16, 2026
-
----
-### 자수정 불꽃의 날개
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 자수정 불꽃 날개와 베일에 싸인 안개 속 청록색 빛을 묘사한 시적이고 신비로운 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-자수정 불꽃의 날개와 청록색 빛이 베일에 싸인 안개 속에서 연금술의 진실을 속삭이네. 살며시 발끝으로 걸으며, 신성한 물이 반짝이는 높은 곳에서 떨어지는 곳마다 빛의 고리를 만들어내네
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="자수정 불꽃의 날개">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7375)**
-
-**작성자:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **출처:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **게시일:** Jul 16, 2026
-
----
-### 어두운 침실 시네마틱 푸시인 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 특정 조명, 질감 및 분위기 디테일이 포함된 침실 장면을 향해 카메라가 천천히 다가가는(푸시인) 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-어두운 침실로 향하는 부드러운 카메라 푸시인: 호박색 램프가 깜빡이고, 새틴 시트가 천천히 움직이며, 공기 중에는 따뜻한 먼지 입자가 떠다님, 부드러운 시네마틱 분위기 강조, 신체 움직임 없음.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="어두운 침실 시네마틱 푸시인 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7368)**
-
-**작성자:** [PussyGalorious](https://x.com/PussyGaloryious) | **출처:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **게시일:** Jul 16, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2410,6 +2410,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-28T06:51:40.419Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-28T10:58:03.354Z</sub>
 
 </div>

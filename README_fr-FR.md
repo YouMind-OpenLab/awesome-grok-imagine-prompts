@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2238** |
+| 📝 Total Prompts | **2242** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-28** |
 
@@ -189,6 +189,82 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Chevaux broutant dans une prairie fleurie ensoleillée
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo paisible et photoréaliste montrant deux chevaux qui broutent au milieu de fleurs sauvages dans une prairie ensoleillée, avec des chênes en arrière-plan.
+
+#### 📝 Prompt
+
+```
+Deux chevaux broutent paisiblement l'herbe au milieu des fleurs sauvages dans une prairie ensoleillée, avec des chênes en arrière-plan. Photoréaliste, lumière naturelle vive, atmosphère paisible. Conservez la composition et l'éclairage originaux de la prairie.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081913129752305665/img/MnUHHilVVaH6lbR6.jpg" width="600" alt="Chevaux broutant dans une prairie fleurie ensoleillée">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
+
+---
+### Tourbillon de dauphins dans un aquarium bioluminescent
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo créatif pour une scène d'aquarium où des dauphins en rotation créent un tourbillon de bioluminescence.
+
+#### 📝 Prompt
+
+```
+Aquarium   Les dauphins en rotation créent un effet de tourbillon qui favorise la création de bioluminescence.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081844999608586240/img/AvTpMW5aNqaQLOlT.jpg" width="600" alt="Tourbillon de dauphins dans un aquarium bioluminescent">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8023)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081845035058737455) | **Published:** Jul 27, 2026
+
+---
+### Maison sous-marine aigue-marine et hippocampes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo représentant une maison sous-marine aigue-marine surréaliste avec de grands hippocampes flottant devant un escalier.
+
+#### 📝 Prompt
+
+```
+Maison aigue-marine   Un groupe d'hippocampes étrangement grands flotte au-dessus des poissons après être descendu de l'escalier situé au-dessus.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081841609159708672/img/igi57thnkyybSoxI.jpg" width="600" alt="Maison sous-marine aigue-marine et hippocampes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8022)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081841647046869133) | **Published:** Jul 27, 2026
+
+---
+### Vidéo d'un chiot tout doux sur une pelouse ensoleillée
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Génère une vidéo réaliste et touchante d'un chiot tout doux assis sur une pelouse ensoleillée, avec des textures de poils détaillées.
+
+#### 📝 Prompt
+
+```
+Un chiot tout doux avec de grands yeux ronds, des oreilles tombantes et une expression joyeuse, assis sur une pelouse sous une lumière douce. Adorable, touchant, photoréaliste avec des détails de poils fins et un éclairage chaleureux.
+```
+
+<img src="https://cms-assets.youmind.com/media/1785227500202_1g8w1y_HOOu2KZXcAAcv5S.jpg" width="600" alt="Vidéo d'un chiot tout doux sur une pelouse ensoleillée">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8024)**
+
+**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2081699714743914631) | **Published:** Jul 27, 2026
+
+---
 ### Créature chantant une berceuse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2273,82 +2349,6 @@ Image fixe de thriller d'action cinématographique au format vertical 2:3 : Vlad
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
 
 ---
-### Conflit chaotique dans une salle de crise
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dramatique dépeignant une scène chaotique dans une salle de crise, mettant en scène des dirigeants mondiaux et des équipes de sécurité lors d'une confrontation décisive.
-
-#### 📝 Prompt
-
-```
-Effondrement dramatique dans une salle de crise, composition portrait 2:3 : les cinq dirigeants — Poutine, Kim Jong-il, Trump, Musk sur affichage holographique, et Xi Jinping — pris dans un seul plan large chaotique alors que des équipes de sécurité d'élite échangent des tirs de fusil à travers la pièce. Traceurs, étin...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="Conflit chaotique dans une salle de crise">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7363)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **Published:** Jul 16, 2026
-
----
-### Transition de couple en silhouette avec poussière scintillante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une transition cinématographique partant d'un écran noir vers une poussière scintillante formant la silhouette d'un couple se touchant la main sous un ciel étoilé.
-
-#### 📝 Prompt
-
-```
-L'écran noir se transforme en poussière scintillante formant la silhouette d'un homme et d'une femme, leurs mains se touchent, un flash de lumière vive, la lune et les étoiles remplissent l'écran
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="Transition de couple en silhouette avec poussière scintillante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7371)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **Published:** Jul 16, 2026
-
----
-### Ailes de feu améthyste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo poétique et mystique décrivant des ailes de feu améthyste et une lumière turquoise dans une brume voilée.
-
-#### 📝 Prompt
-
-```
-Ailes de feu améthyste et lumière turquoise murmurant la vérité alchimique à travers la brume voilée, avançant sur la pointe des pieds, créant des cercles de lumière incandescente là où les eaux sacrées tombent en hauteurs scintillantes
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="Ailes de feu améthyste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7375)**
-
-**Author:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **Source:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **Published:** Jul 16, 2026
-
----
-### Prompt de travelling cinématique pour chambre tamisée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématique décrivant un travelling avant lent sur une scène de chambre à coucher avec des détails spécifiques d'éclairage, de texture et d'ambiance.
-
-#### 📝 Prompt
-
-```
-Travelling avant lent sur une chambre tamisée : une lampe ambrée vacille, les draps en satin bougent lentement, des grains de poussière chauds flottent dans l'air, ambiance cinématique douce uniquement, aucun mouvement de corps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="Prompt de travelling cinématique pour chambre tamisée">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7368)**
-
-**Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2410,6 +2410,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T06:51:48.552Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T10:58:17.628Z</sub>
 
 </div>

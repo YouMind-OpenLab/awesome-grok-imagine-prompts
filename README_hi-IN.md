@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2238** |
+| 📝 Total Prompts | **2242** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-28** |
 
@@ -189,6 +189,82 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### धूप से खिले जंगली फूलों के मैदान में चरते घोड़े
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> दो घोड़ों का एक शांत और फोटो-रियलिस्टिक वीडियो प्रॉम्प्ट, जो पृष्ठभूमि में ओक के पेड़ों वाले धूप से खिले मैदान में जंगली फूलों के बीच चर रहे हैं।
+
+#### 📝 Prompt
+
+```
+दो घोड़े धूप से खिले मैदान में जंगली फूलों के बीच शांति से घास चर रहे हैं, और पृष्ठभूमि में ओक के पेड़ हैं। फोटो-रियलिस्टिक, उज्ज्वल प्राकृतिक रोशनी, शांत वातावरण। मूल मैदान की संरचना और लाइटिंग को बरकरार रखें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081913129752305665/img/MnUHHilVVaH6lbR6.jpg" width="600" alt="धूप से खिले जंगली फूलों के मैदान में चरते घोड़े">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
+
+---
+### बायोल्यूमिनिसेंट एक्वेरियम डॉल्फिन व्हर्लपूल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक एक्वेरियम दृश्य के लिए एक रचनात्मक वीडियो प्रॉम्प्ट, जहाँ घूमती हुई डॉल्फ़िन बायोल्यूमिनिसेंस (जैव-दीप्ति) का एक भंवर बनाती हैं।
+
+#### 📝 Prompt
+
+```
+एक्वेरियम   घूमती हुई डॉल्फ़िन एक भंवर प्रभाव पैदा करती हैं जो बायोल्यूमिनिसेंस के निर्माण को बढ़ावा देता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081844999608586240/img/AvTpMW5aNqaQLOlT.jpg" width="600" alt="बायोल्यूमिनिसेंट एक्वेरियम डॉल्फिन व्हर्लपूल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8023)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081845035058737455) | **Published:** Jul 27, 2026
+
+---
+### पानी के नीचे एक्वामरीन घर और समुद्री घोड़े
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जिसमें पानी के नीचे एक असली जैसा दिखने वाला एक्वामरीन घर दिखाया गया है, जिसके पास से बड़े समुद्री घोड़े सीढ़ियों से तैरते हुए गुजर रहे हैं।
+
+#### 📝 Prompt
+
+```
+एक्वामरीन घर   अजीब तरह से बड़े समुद्री घोड़ों का एक समूह ऊपर की सीढ़ियों से नीचे तैरने के बाद मछलियों के ऊपर से तैरते हुए गुजरता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081841609159708672/img/igi57thnkyybSoxI.jpg" width="600" alt="पानी के नीचे एक्वामरीन घर और समुद्री घोड़े">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8022)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081841647046869133) | **Published:** Jul 27, 2026
+
+---
+### धूप वाले लॉन में प्यारा पिल्ला वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> धूप वाले लॉन में बैठे एक प्यारे और रोएंदार पिल्ले का दिल छू लेने वाला और फोटो-रियलिस्टिक वीडियो बनाता है, जिसमें फर की विस्तृत बनावट दिखाई देती है।
+
+#### 📝 Prompt
+
+```
+बड़ी गोल आँखों, नरम लटके हुए कानों और खुशमिजाज मुस्कान वाला एक प्यारा रोएंदार पिल्ला, जो हल्की धूप में घास के लॉन पर बैठा है। मनमोहक, दिल छू लेने वाला, बारीक फर विवरण और हल्की गर्म रोशनी के साथ फोटो-रियलिस्टिक।
+```
+
+<img src="https://cms-assets.youmind.com/media/1785227500202_1g8w1y_HOOu2KZXcAAcv5S.jpg" width="600" alt="धूप वाले लॉन में प्यारा पिल्ला वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8024)**
+
+**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2081699714743914631) | **Published:** Jul 27, 2026
+
+---
 ### लोरी गाता हुआ जीव
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2272,82 +2348,6 @@ Annabelle 🪻🌸🌹🐞🍇⛲️🌲
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
 
 ---
-### अराजक वॉर रूम संघर्ष
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक नाटकीय प्रॉम्प्ट जो वॉर रूम में अराजक दृश्य को दर्शाता है, जिसमें वैश्विक नेता और सुरक्षा टीमें एक निर्णायक गतिरोध में शामिल हैं।
-
-#### 📝 Prompt
-
-```
-2:3 पोर्ट्रेट कंपोजिशन में निर्णायक वॉर-रूम मेल्टडाउन: सभी पांच नेता—पुतिन, किम जोंग इल, ट्रम्प, होलोग्राफिक डिस्प्ले पर मस्क, और शी जिनपिंग—एक ही अराजक वाइड शॉट में कैद हैं, जबकि एलीट सुरक्षा टीमें कमरे के आर-पार राइफल से गोलीबारी कर रही हैं। ट्रेसर, स्पा...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="अराजक वॉर रूम संघर्ष">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7363)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **Published:** Jul 16, 2026
-
----
-### स्पार्कलिंग डस्ट सिल्हूट कपल ट्रांजिशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक ब्लैक स्क्रीन से तारों भरे आसमान के नीचे एक-दूसरे का हाथ थामे हुए जोड़े की सिल्हूट (परछाई) बनाने वाली स्पार्कलिंग डस्ट तक का एक सिनेमैटिक ट्रांजिशन।
-
-#### 📝 Prompt
-
-```
-ब्लैक स्क्रीन एक पुरुष और महिला की सिल्हूट वाली स्पार्कलिंग डस्ट में बदल जाती है, उनके हाथ आपस में मिलते हैं, तेज रोशनी की चमक होती है, और चंद्रमा और तारे स्क्रीन को भर देते हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="स्पार्कलिंग डस्ट सिल्हूट कपल ट्रांजिशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7371)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **Published:** Jul 16, 2026
-
----
-### एमेथिस्ट अग्नि के पंख
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एमेथिस्ट अग्नि के पंखों और धुंध में लिपटी फ़िरोज़ी रोशनी का वर्णन करने वाला एक काव्यात्मक और रहस्यमयी वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एमेथिस्ट अग्नि के पंख और फ़िरोज़ी रोशनी, जो धुंध के बीच कीमियाई सत्य को फुसफुसा रही है। दबे पाँव चलते हुए, जहाँ पवित्र जल चमकती ऊँचाइयों से गिरता है, वहाँ चमकती रोशनी के छल्ले बनाती है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="एमेथिस्ट अग्नि के पंख">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7375)**
-
-**Author:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **Source:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **Published:** Jul 16, 2026
-
----
-### धुंधले बेडरूम का सिनेमैटिक पुश-इन प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो बेडरूम के दृश्य पर धीमे कैमरा पुश-इन का वर्णन करता है, जिसमें विशिष्ट लाइटिंग, टेक्सचर और वायुमंडलीय विवरण शामिल हैं।
-
-#### 📝 Prompt
-
-```
-धुंधले बेडरूम पर धीरे-धीरे कैमरा पुश-इन: एम्बर लैंप टिमटिमा रहा है, साटन की चादरें धीरे-धीरे हिल रही हैं, हवा में गर्म धूल के कण, केवल सॉफ्ट सिनेमैटिक मूड, कोई शारीरिक हलचल नहीं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="धुंधले बेडरूम का सिनेमैटिक पुश-इन प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7368)**
-
-**Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2409,6 +2409,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T06:51:44.370Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T10:58:07.408Z</sub>
 
 </div>

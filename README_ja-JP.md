@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2238** |
+| 📝 プロンプト総数 | **2242** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-28** |
 
@@ -189,6 +189,82 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 日差しが降り注ぐ野草の草原で草を食む馬たち
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 日差しが降り注ぐ草原で、オークの木々を背景に野草の間で草を食む 2 頭の馬を描いた、穏やかでフォトリアルな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+日差しが降り注ぐ草原で、オークの木々を背景に、2 頭の馬が野草の間で静かに草を食んでいる。フォトリアル、明るい自然光、穏やかな雰囲気。草原の構図と照明は元の状態を維持すること。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081913129752305665/img/MnUHHilVVaH6lbR6.jpg" width="600" alt="日差しが降り注ぐ野草の草原で草を食む馬たち">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8021)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **公開日:** Jul 28, 2026
+
+---
+### 生物発光する水族館のイルカの渦
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 回転するイルカが生物発光の渦を作り出す、水族館シーンのためのクリエイティブな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+水族館   回転するイルカが渦巻き効果を生み出し、生物発光を作り出します。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081844999608586240/img/AvTpMW5aNqaQLOlT.jpg" width="600" alt="生物発光する水族館のイルカの渦">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8023)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2081845035058737455) | **公開日:** Jul 27, 2026
+
+---
+### 海中のアクアマリンハウスとタツノオトシゴ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 階段のそばを大きなタツノオトシゴが通り過ぎる、シュールな海中のアクアマリンハウスを描いた動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+アクアマリンハウス。上階の階段から降りてきた一団の巨大なタツノオトシゴが、魚たちの頭上を漂っている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081841609159708672/img/igi57thnkyybSoxI.jpg" width="600" alt="海中のアクアマリンハウスとタツノオトシゴ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8022)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2081841647046869133) | **公開日:** Jul 27, 2026
+
+---
+### ふわふわの子犬が日当たりの良い芝生で遊ぶ動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 日当たりの良い芝生に座る、毛並みの質感までリアルに再現された、心温まるかわいい子犬の動画を生成します。
+
+#### 📝 プロンプト
+
+```
+大きな丸い目と柔らかい垂れ耳、幸せそうな笑顔が特徴のかわいい子犬が、柔らかな日差しが降り注ぐ芝生の上に座っています。毛並みの細部までリアルに表現された、愛らしくて心温まる、温かみのある光に包まれた映像です。
+```
+
+<img src="https://cms-assets.youmind.com/media/1785227500202_1g8w1y_HOOu2KZXcAAcv5S.jpg" width="600" alt="ふわふわの子犬が日当たりの良い芝生で遊ぶ動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8024)**
+
+**作者:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **ソース:** [Link](https://x.com/Yesyesyes_OK/status/2081699714743914631) | **公開日:** Jul 27, 2026
+
+---
 ### 子守唄を歌うクリーチャー
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2273,82 +2349,6 @@ Annabelle 🪻🌸🌹🐞🍇⛲️🌲
 **作者:** [Erkki Heliö](https://x.com/erkki_helio) | **ソース:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **公開日:** Jul 16, 2026
 
 ---
-### 混沌とした作戦室の対立
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 世界の指導者たちと警備チームが極限の対峙を繰り広げる、作戦室の混沌としたシーンを描いたドラマチックなプロンプト。
-
-#### 📝 プロンプト
-
-```
-2:3 の縦長構図で描く、作戦室でのクライマックスとなる崩壊シーン：プーチン、金正日、トランプ、ホログラムで表示されたマスク、そして習近平の 5 人の指導者全員が、エリート警備チームが部屋のあちこちで銃撃戦を繰り広げる混沌としたワイドショットの中に捉えられている。曳光弾、スパ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="混沌とした作戦室の対立">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7363)**
-
-**作者:** [Erkki Heliö](https://x.com/erkki_helio) | **ソース:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **公開日:** Jul 16, 2026
-
----
-### きらめくダストのシルエット：カップルのトランジション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ブラックスクリーンから、星空の下で手を取り合うカップルのシルエットを形作るきらめくダストへと変化する、シネマティックなトランジション。
-
-#### 📝 プロンプト
-
-```
-ブラックスクリーンが男女のシルエットを形作るきらめくダストに変化し、二人が手を触れ合うと明るい光が放たれ、月と星が画面いっぱいに広がる
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="きらめくダストのシルエット：カップルのトランジション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7371)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **公開日:** Jul 16, 2026
-
----
-### アメジストの炎の翼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ヴェールのような霧の中で、アメジストの炎の翼とターコイズブルーの光が舞う様子を描いた、詩的で神秘的なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-アメジストの炎の翼とターコイズブルーの光が、ヴェールのような霧の中で錬金術の真実を囁く。聖なる水が煌めく高みから流れ落ちる場所で、光の輪を描きながら静かに爪先立ちする
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="アメジストの炎の翼">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7375)**
-
-**作者:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **ソース:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **公開日:** Jul 16, 2026
-
----
-### 薄暗い寝室のシネマティックなプッシュイン・プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 特定の照明、質感、雰囲気のディテールを備えた、寝室のシーンへのゆっくりとしたカメラプッシュインを描写するシネマティックなビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-薄暗い寝室への穏やかなカメラプッシュイン：琥珀色のランプが揺らめき、サテンのシーツがゆっくりと動き、空気中には温かみのある塵が舞う。ソフトでシネマティックなムードのみ、人物の動きはなし。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="薄暗い寝室のシネマティックなプッシュイン・プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7368)**
-
-**作者:** [PussyGalorious](https://x.com/PussyGaloryious) | **ソース:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **公開日:** Jul 16, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2410,6 +2410,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-28T06:51:39.282Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-28T10:58:02.106Z</sub>
 
 </div>

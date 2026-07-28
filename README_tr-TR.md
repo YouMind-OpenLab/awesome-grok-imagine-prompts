@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2238** |
+| 📝 Total Prompts | **2242** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-28** |
 
@@ -189,6 +189,82 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Güneşli Kır Çiçeği Çayırında Otlayan Atlar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Arka planda meşe ağaçlarının bulunduğu güneşli bir çayırda, kır çiçekleri arasında otlayan iki atı gösteren huzurlu ve fotogerçekçi bir video istemi.
+
+#### 📝 Prompt
+
+```
+İki at, güneşli çayırda kır çiçeklerinin arasında sessizce otluyor, arka planda ise meşe ağaçları yer alıyor. Fotogerçekçi, parlak doğal ışık, huzurlu atmosfer. Orijinal çayır kompozisyonunu ve ışıklandırmayı koruyun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081913129752305665/img/MnUHHilVVaH6lbR6.jpg" width="600" alt="Güneşli Kır Çiçeği Çayırında Otlayan Atlar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
+
+---
+### Biyolüminesans Akvaryum Yunus Girdabı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dönen yunusların biyolüminesans bir girdap oluşturduğu akvaryum sahnesi için yaratıcı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Akvaryum   Dönen yunuslar, biyolüminesans oluşumunu destekleyen bir girdap etkisi yaratıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081844999608586240/img/AvTpMW5aNqaQLOlT.jpg" width="600" alt="Biyolüminesans Akvaryum Yunus Girdabı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8023)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081845035058737455) | **Published:** Jul 27, 2026
+
+---
+### Sualtı Akuamarin Evi ve Deniz Atları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Büyük deniz atlarının bir merdivenin yanından süzülerek geçtiği, sürreal bir sualtı akuamarin evini tasvir eden bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Akuamarin ev   Alışılmadık derecede büyük bir grup deniz atı, yukarıdaki merdivenlerden aşağı süzüldükten sonra balıkların üzerinde yüzüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081841609159708672/img/igi57thnkyybSoxI.jpg" width="600" alt="Sualtı Akuamarin Evi ve Deniz Atları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8022)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081841647046869133) | **Published:** Jul 27, 2026
+
+---
+### Güneşli Çimenlerdeki Sevimli Yavru Köpek Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Güneşli bir çimenlikte oturan, detaylı tüy dokularına sahip, sevimli ve tüylü bir yavru köpeğin iç ısıtan, fotogerçekçi videosunu oluşturur.
+
+#### 📝 Prompt
+
+```
+İri yuvarlak gözleri, yumuşak düşük kulakları ve mutlu gülümseyen ifadesiyle, yumuşak güneş ışığı altında çimenli bir alanda oturan sevimli ve tüylü bir yavru köpek. Sevimli, iç ısıtan, ince tüy detaylarına ve hafif sıcak bir aydınlatmaya sahip fotogerçekçi bir görüntü.
+```
+
+<img src="https://cms-assets.youmind.com/media/1785227500202_1g8w1y_HOOu2KZXcAAcv5S.jpg" width="600" alt="Güneşli Çimenlerdeki Sevimli Yavru Köpek Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8024)**
+
+**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2081699714743914631) | **Published:** Jul 27, 2026
+
+---
 ### Ninni Söyleyen Yaratık
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2273,82 +2349,6 @@ Dikey 2:3 çerçeveleme ile sinematik aksiyon-gerilim karesi: İlk referanstan V
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
 
 ---
-### Kaotik Savaş Odası Çatışması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Küresel liderlerin ve güvenlik ekiplerinin yer aldığı, doruk noktasındaki bir çatışmayı konu alan, savaş odasındaki kaotik sahneyi betimleyen dramatik bir istem.
-
-#### 📝 Prompt
-
-```
-2:3 dikey kompozisyonda doruk noktasındaki savaş odası krizi: Putin, Kim Jong Il, Trump, holografik ekrandaki Musk ve Xi Jinping olmak üzere beş liderin tamamı, seçkin güvenlik ekiplerinin oda içinde tüfek ateşiyle çatıştığı tek bir kaotik geniş açılı karede yakalanmış. İzli mermiler, kıvılcımlar...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="Kaotik Savaş Odası Çatışması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7363)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **Published:** Jul 16, 2026
-
----
-### Işıltılı Toz Silüet Çift Geçişi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Siyah bir ekrandan, yıldızlı bir gökyüzü altında elleri birbirine değen bir çiftin silüetini oluşturan ışıltılı toza doğru sinematik bir geçiş.
-
-#### 📝 Prompt
-
-```
-Siyah ekran, bir erkek ve kadının silüetini oluşturan ışıltılı toza dönüşür, elleri birbirine değer, parlak bir ışık patlaması olur, ay ve yıldızlar ekranı doldurur
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="Işıltılı Toz Silüet Çift Geçişi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7371)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **Published:** Jul 16, 2026
-
----
-### Ametist Ateşinin Kanatları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Örtülü bir sisin içinde ametist rengi ateş kanatlarını ve turkuaz ışığı betimleyen şiirsel ve mistik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Ametist ateşinden kanatlar ve turkuaz ışık, örtülü sisin içinden simyasal gerçekleri fısıldıyor. Hafifçe parmak uçlarında yürüyerek, kutsal suların ışıltılı yüksekliklerden döküldüğü yerlerde parlayan ışık halkaları yaratıyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="Ametist Ateşinin Kanatları">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7375)**
-
-**Author:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **Source:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **Published:** Jul 16, 2026
-
----
-### Loş Yatak Odası Sinematik Yakınlaşma İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli aydınlatma, doku ve atmosferik detaylara sahip bir yatak odası sahnesine yavaş kamera yakınlaşmasını tanımlayan sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Loş yatak odasına yumuşak kamera yakınlaşması: kehribar rengi lamba titriyor, saten çarşaflar yavaşça hareket ediyor, havada uçuşan sıcak toz zerreleri, sadece yumuşak sinematik atmosfer, vücut hareketi yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="Loş Yatak Odası Sinematik Yakınlaşma İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7368)**
-
-**Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2410,6 +2410,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T06:51:52.301Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T10:58:23.338Z</sub>
 
 </div>

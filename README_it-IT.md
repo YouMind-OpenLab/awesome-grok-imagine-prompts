@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2238** |
+| 📝 Total Prompts | **2242** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-28** |
 
@@ -189,6 +189,82 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Cavalli al pascolo in un prato soleggiato di fiori selvatici
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video realistico e tranquillo che ritrae due cavalli al pascolo tra fiori selvatici in un prato soleggiato, con querce sullo sfondo.
+
+#### 📝 Prompt
+
+```
+Due cavalli pascolano tranquillamente sull'erba tra i fiori selvatici in un prato soleggiato, con querce sullo sfondo. Fotorealistico, luce naturale brillante, atmosfera pacifica. Mantieni intatta la composizione e l'illuminazione originale del prato.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081913129752305665/img/MnUHHilVVaH6lbR6.jpg" width="600" alt="Cavalli al pascolo in un prato soleggiato di fiori selvatici">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
+
+---
+### Vortice di delfini in un acquario bioluminescente
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video creativo per una scena d'acquario in cui dei delfini che nuotano in cerchio creano un vortice di bioluminescenza.
+
+#### 📝 Prompt
+
+```
+Acquario   I delfini che nuotano in cerchio creano un effetto vortice che favorisce la generazione di bioluminescenza.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081844999608586240/img/AvTpMW5aNqaQLOlT.jpg" width="600" alt="Vortice di delfini in un acquario bioluminescente">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8023)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081845035058737455) | **Published:** Jul 27, 2026
+
+---
+### Casa acquamarina sottomarina e cavallucci marini
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per la generazione di video che raffigura una surreale casa acquamarina sottomarina con grandi cavallucci marini che fluttuano oltre una scala.
+
+#### 📝 Prompt
+
+```
+Casa acquamarina   Un gruppo di cavallucci marini insolitamente grandi fluttua sopra i pesci dopo essere sceso dalla scala sovrastante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081841609159708672/img/igi57thnkyybSoxI.jpg" width="600" alt="Casa acquamarina sottomarina e cavallucci marini">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8022)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081841647046869133) | **Published:** Jul 27, 2026
+
+---
+### Video di un cucciolo soffice su un prato soleggiato
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genera un video realistico ed emozionante di un tenero cucciolo soffice seduto su un prato soleggiato, con texture del pelo dettagliate.
+
+#### 📝 Prompt
+
+```
+Un tenero cucciolo soffice con grandi occhi rotondi, morbide orecchie pendenti e un'espressione felice e sorridente, seduto su un prato erboso sotto una luce solare soffusa. Adorabile, emozionante, fotorealistico, con dettagli del pelo definiti e una delicata illuminazione calda.
+```
+
+<img src="https://cms-assets.youmind.com/media/1785227500202_1g8w1y_HOOu2KZXcAAcv5S.jpg" width="600" alt="Video di un cucciolo soffice su un prato soleggiato">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8024)**
+
+**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2081699714743914631) | **Published:** Jul 27, 2026
+
+---
 ### Creatura che canta una ninna nanna
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2274,82 +2350,6 @@ Immagine in stile action-thriller cinematografico con inquadratura verticale 2:3
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
 
 ---
-### Conflitto caotico nella War Room
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt drammatico che ritrae una scena caotica in una war room, con leader globali e team di sicurezza coinvolti in uno scontro decisivo.
-
-#### 📝 Prompt
-
-```
-Crollo drammatico nella war room, composizione ritratto 2:3: tutti e cinque i leader—Putin, Kim Jong Il, Trump, Musk su display olografico e Xi Jinping—colti in un'unica inquadratura caotica a campo largo mentre i team di sicurezza d'élite si scambiano colpi di fucile attraverso la stanza. Traccianti, spa...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="Conflitto caotico nella War Room">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7363)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **Published:** Jul 16, 2026
-
----
-### Transizione coppia con silhouette e polvere scintillante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una transizione cinematografica che parte da uno schermo nero per trasformarsi in polvere scintillante che forma la silhouette di una coppia che si tocca le mani sotto un cielo stellato.
-
-#### 📝 Prompt
-
-```
-Lo schermo nero diventa polvere scintillante che forma la silhouette di un uomo e una donna, le loro mani si toccano, un lampo di luce intensa, la luna e le stelle riempiono lo schermo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="Transizione coppia con silhouette e polvere scintillante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7371)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **Published:** Jul 16, 2026
-
----
-### Ali di fuoco ametista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video poetico e mistico che descrive ali di fuoco ametista e luce turchese in una nebbia velata.
-
-#### 📝 Prompt
-
-```
-Ali di fuoco ametista e luce turchese che sussurrano verità alchemiche attraverso la nebbia velata, camminando in punta di piedi, creando cerchi di luce brillante dove acque sacre cadono in altezze scintillanti
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="Ali di fuoco ametista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7375)**
-
-**Author:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **Source:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **Published:** Jul 16, 2026
-
----
-### Prompt per ripresa cinematografica in avanti in camera da letto in penombra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico che descrive un lento movimento di macchina in avanti su una scena in camera da letto con dettagli specifici su illuminazione, texture e atmosfera.
-
-#### 📝 Prompt
-
-```
-Lento movimento di macchina in avanti in una camera da letto in penombra: una lampada color ambra tremola, le lenzuola di raso si muovono lentamente, granelli di polvere caldi nell'aria, atmosfera puramente cinematografica, nessun movimento corporeo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="Prompt per ripresa cinematografica in avanti in camera da letto in penombra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7368)**
-
-**Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2411,6 +2411,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T06:51:49.530Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T10:58:19.120Z</sub>
 
 </div>

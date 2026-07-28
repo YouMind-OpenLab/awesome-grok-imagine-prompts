@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2238** |
+| 📝 Total Prompts | **2242** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-28** |
 
@@ -189,6 +189,82 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Những chú ngựa đang gặm cỏ trên đồng hoa dại đầy nắng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video chân thực và yên bình về hai chú ngựa đang gặm cỏ giữa những bông hoa dại trên một đồng cỏ đầy nắng với những cây sồi ở phía xa.
+
+#### 📝 Prompt
+
+```
+Hai chú ngựa đang lặng lẽ gặm cỏ giữa những bông hoa dại trên đồng cỏ đầy nắng, với những cây sồi ở phía sau. Hình ảnh chân thực, ánh sáng tự nhiên rực rỡ, bầu không khí yên bình. Giữ nguyên bố cục đồng cỏ và ánh sáng như ban đầu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081913129752305665/img/MnUHHilVVaH6lbR6.jpg" width="600" alt="Những chú ngựa đang gặm cỏ trên đồng hoa dại đầy nắng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
+
+---
+### Bể cá phát quang với xoáy nước cá heo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video sáng tạo cho cảnh quay bể cá, nơi những chú cá heo đang bơi xoay tròn tạo thành một xoáy nước phát quang.
+
+#### 📝 Prompt
+
+```
+Bể cá   Những chú cá heo đang bơi xoay tròn tạo ra hiệu ứng xoáy nước, thúc đẩy sự hình thành của hiện tượng phát quang sinh học.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081844999608586240/img/AvTpMW5aNqaQLOlT.jpg" width="600" alt="Bể cá phát quang với xoáy nước cá heo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8023)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081845035058737455) | **Published:** Jul 27, 2026
+
+---
+### Ngôi nhà màu xanh ngọc dưới đáy biển và những chú cá ngựa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video mô tả ngôi nhà màu xanh ngọc siêu thực dưới đáy biển với những chú cá ngựa khổng lồ đang bơi ngang qua cầu thang.
+
+#### 📝 Prompt
+
+```
+Ngôi nhà màu xanh ngọc   Một đàn cá ngựa to bất thường bơi lội phía trên những con cá sau khi chúng trôi xuống từ cầu thang phía trên.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081841609159708672/img/igi57thnkyybSoxI.jpg" width="600" alt="Ngôi nhà màu xanh ngọc dưới đáy biển và những chú cá ngựa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8022)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081841647046869133) | **Published:** Jul 27, 2026
+
+---
+### Video chú cún con lông xù trên bãi cỏ đầy nắng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo video chân thực và ấm áp về một chú cún con lông xù đáng yêu đang ngồi trên bãi cỏ đầy nắng với các chi tiết lông được thể hiện sắc nét.
+
+#### 📝 Prompt
+
+```
+Một chú cún con lông xù đáng yêu với đôi mắt to tròn, đôi tai cụp mềm mại và biểu cảm vui vẻ, đang ngồi trên bãi cỏ dưới ánh nắng dịu nhẹ. Đáng yêu, ấm áp, chân thực với các chi tiết lông tinh tế và ánh sáng ấm áp nhẹ nhàng.
+```
+
+<img src="https://cms-assets.youmind.com/media/1785227500202_1g8w1y_HOOu2KZXcAAcv5S.jpg" width="600" alt="Video chú cún con lông xù trên bãi cỏ đầy nắng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8024)**
+
+**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2081699714743914631) | **Published:** Jul 27, 2026
+
+---
 ### Sinh vật hát ru
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2273,82 +2349,6 @@ Tạo một video ngắn mượt mà đậm chất điện ảnh từ hình ản
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
 
 ---
-### Xung đột căng thẳng tại phòng chiến lược
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh kịch tính mô tả khung cảnh hỗn loạn trong phòng chiến lược, nơi các nhà lãnh đạo toàn cầu và đội ngũ an ninh đang đối đầu trong tình thế ngàn cân treo sợi tóc.
-
-#### 📝 Prompt
-
-```
-Cuộc đối đầu kịch tính tại phòng chiến lược với bố cục chân dung 2:3: tất cả năm nhà lãnh đạo—Putin, Kim Jong Il, Trump, Musk trên màn hình ba chiều, và Tập Cận Bình—đều bị bắt trọn trong một khung hình rộng đầy hỗn loạn khi các đội ngũ an ninh tinh nhuệ đấu súng qua lại khắp phòng. Những vệt đạn, tia lửa...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="Xung đột căng thẳng tại phòng chiến lược">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7363)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **Published:** Jul 16, 2026
-
----
-### Hiệu ứng chuyển cảnh cặp đôi bóng hình bụi sao lấp lánh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một hiệu ứng chuyển cảnh đậm chất điện ảnh từ màn hình đen sang những hạt bụi lấp lánh tạo hình bóng của một cặp đôi đang chạm tay nhau dưới bầu trời đầy sao.
-
-#### 📝 Prompt
-
-```
-Màn hình đen chuyển thành những hạt bụi lấp lánh tạo hình bóng của một người đàn ông và một người phụ nữ, tay họ chạm vào nhau, một luồng sáng rực rỡ lóe lên, mặt trăng và các vì sao lấp đầy màn hình
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="Hiệu ứng chuyển cảnh cặp đôi bóng hình bụi sao lấp lánh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7371)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **Published:** Jul 16, 2026
-
----
-### Đôi cánh lửa thạch anh tím
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đầy chất thơ và huyền bí, mô tả đôi cánh lửa thạch anh tím cùng ánh sáng màu ngọc lam trong làn sương mờ ảo.
-
-#### 📝 Prompt
-
-```
-Đôi cánh lửa thạch anh tím và ánh sáng ngọc lam thì thầm chân lý giả kim qua làn sương mờ ảo. Nhón chân nhẹ nhàng, tạo nên những vòng sáng rực rỡ nơi dòng nước thiêng đổ xuống từ những tầng cao lấp lánh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="Đôi cánh lửa thạch anh tím">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7375)**
-
-**Author:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **Source:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **Published:** Jul 16, 2026
-
----
-### Prompt quay cận cảnh điện ảnh cho phòng ngủ mờ ảo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt video điện ảnh mô tả cảnh quay camera từ từ tiến lại gần trong không gian phòng ngủ với các chi tiết cụ thể về ánh sáng, kết cấu và bầu không khí.
-
-#### 📝 Prompt
-
-```
-Camera từ từ tiến lại gần phòng ngủ mờ ảo: đèn vàng hổ phách nhấp nháy, ga trải giường bằng satin khẽ chuyển động, những hạt bụi ấm áp lơ lửng trong không trung, chỉ tập trung vào bầu không khí điện ảnh nhẹ nhàng, không có chuyển động cơ thể.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="Prompt quay cận cảnh điện ảnh cho phòng ngủ mờ ảo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7368)**
-
-**Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2410,6 +2410,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T06:51:43.443Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T10:58:05.828Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2238** |
+| 📝 提示詞總數 | **2242** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-28** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 在陽光明媚的野花草地上吃草的馬匹
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個寧靜且具備照片級真實感的影片提示詞，描述了兩匹馬在陽光明媚的草地上、背景有橡樹的野花叢中吃草的場景。
+
+#### 📝 提示詞
+
+```
+兩匹馬在陽光明媚的草地上，於野花叢間安靜地吃草，背景為橡樹。照片級真實感，明亮的自然光，氛圍寧靜。請保持原始草地的構圖與光影效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081913129752305665/img/MnUHHilVVaH6lbR6.jpg" width="600" alt="在陽光明媚的野花草地上吃草的馬匹">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8021)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **發布時間:** Jul 28, 2026
+
+---
+### 生物發光水族館海豚漩渦
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個創意影片提示詞，描繪海豚在水族館中旋轉並創造出生物發光漩渦的場景。
+
+#### 📝 提示詞
+
+```
+水族館 旋轉的海豚創造出漩渦效應，進而產生了生物發光。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081844999608586240/img/AvTpMW5aNqaQLOlT.jpg" width="600" alt="生物發光水族館海豚漩渦">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8023)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2081845035058737455) | **發布時間:** Jul 27, 2026
+
+---
+### 水下海藍色房屋與海馬
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個影片生成提示詞，描繪了一座超現實的水下海藍色房屋，巨大的海馬從樓梯旁漂浮而過。
+
+#### 📝 提示詞
+
+```
+海藍色房屋   一群異常巨大的海馬在魚群上方漂浮，隨後從上方的樓梯緩緩游下。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081841609159708672/img/igi57thnkyybSoxI.jpg" width="600" alt="水下海藍色房屋與海馬">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8022)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2081841647046869133) | **發布時間:** Jul 27, 2026
+
+---
+### 毛茸茸小狗在陽光草坪上的影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段溫馨且逼真的影片，呈現一隻可愛、毛茸茸的小狗坐在陽光普照的草坪上，並展現細緻的毛髮質感。
+
+#### 📝 提示詞
+
+```
+一隻可愛且毛茸茸的小狗，擁有圓滾滾的大眼睛、柔軟下垂的耳朵以及開心的笑容，正坐在陽光柔和的草坪上。畫面可愛、溫馨且具備照片級的真實感，呈現細膩的毛髮細節與柔和溫暖的光影。
+```
+
+<img src="https://cms-assets.youmind.com/media/1785227500202_1g8w1y_HOOu2KZXcAAcv5S.jpg" width="600" alt="毛茸茸小狗在陽光草坪上的影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8024)**
+
+**作者:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **來源:** [Link](https://x.com/Yesyesyes_OK/status/2081699714743914631) | **發布時間:** Jul 27, 2026
+
+---
 ### 奇幻生物唱搖籃曲
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2273,82 +2349,6 @@ Humpback 🐋 絕不崩潰 👽🛸
 **作者:** [Erkki Heliö](https://x.com/erkki_helio) | **來源:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **發布時間:** Jul 16, 2026
 
 ---
-### 混亂的戰情室衝突
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個戲劇性的提示詞，描繪了戰情室中混亂的場景，全球領導人與安全團隊正處於緊張的對峙狀態。
-
-#### 📝 提示詞
-
-```
-2:3 直式構圖，呈現戰情室的關鍵崩潰時刻：五位領導人——普丁 (Putin)、金正日 (Kim Jong Il)、川普 (Trump)、全息投影上的馬斯克 (Musk) 以及習近平——同時出現在一個混亂的廣角鏡頭中，菁英安全團隊在房間內交火。曳光彈、火花...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="混亂的戰情室衝突">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7363)**
-
-**作者:** [Erkki Heliö](https://x.com/erkki_helio) | **來源:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **發布時間:** Jul 16, 2026
-
----
-### 閃耀星塵剪影情侶轉場
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一種電影級的轉場效果：畫面從全黑開始，閃耀的星塵逐漸匯聚成一對情侶的剪影，在星空下輕觸雙手。
-
-#### 📝 提示詞
-
-```
-黑色畫面轉變為由星塵組成的男女剪影，兩人雙手觸碰，隨後閃過一道亮光，月亮與繁星填滿整個螢幕
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="閃耀星塵剪影情侶轉場">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7371)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **發布時間:** Jul 16, 2026
-
----
-### 紫水晶之火的羽翼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段充滿詩意與神秘感的影片提示詞，描述了紫水晶之火的羽翼以及籠罩在薄霧中那如綠松石般的微光。
-
-#### 📝 提示詞
-
-```
-紫水晶之火的羽翼與綠松石般的微光，在薄霧中低語著煉金術的真理。輕盈地踮起腳尖，在神聖水流傾瀉而下的閃爍高處，激起一圈圈發光的漣漪。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="紫水晶之火的羽翼">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7375)**
-
-**作者:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **來源:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **發布時間:** Jul 16, 2026
-
----
-### 昏暗臥室電影感推近提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個電影感影片提示詞，描述對臥室場景進行緩慢的鏡頭推近，包含特定的光影、質感與氛圍細節。
-
-#### 📝 提示詞
-
-```
-柔和的鏡頭推近昏暗臥室：琥珀色檯燈閃爍，絲綢床單緩慢移動，空氣中漂浮著溫暖的塵埃，純粹的柔和電影氛圍，無肢體動作。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="昏暗臥室電影感推近提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7368)**
-
-**作者:** [PussyGalorious](https://x.com/PussyGaloryious) | **來源:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **發布時間:** Jul 16, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2410,6 +2410,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-28T06:51:38.325Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-28T10:58:00.861Z</sub>
 
 </div>

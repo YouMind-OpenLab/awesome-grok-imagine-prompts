@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2238** |
+| 📝 Total Prompts | **2242** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-28** |
 
@@ -189,6 +189,82 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Pferde beim Grasen auf einer sonnigen Wildblumenwiese
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein friedlicher und fotorealistischer Video-Prompt von zwei Pferden, die inmitten von Wildblumen auf einer sonnigen Wiese mit Eichen im Hintergrund grasen.
+
+#### 📝 Prompt
+
+```
+Zwei Pferde grasen ruhig auf der Wiese inmitten der Wildblumen auf einer sonnigen Lichtung, mit Eichen im Hintergrund. Fotorealistisch, helles natürliches Licht, friedliche Atmosphäre. Behalten Sie die ursprüngliche Komposition der Wiese und die Lichtverhältnisse bei.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081913129752305665/img/MnUHHilVVaH6lbR6.jpg" width="600" alt="Pferde beim Grasen auf einer sonnigen Wildblumenwiese">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
+
+---
+### Biolumineszierender Aquarium-Delfin-Strudel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Video-Prompt für eine Aquariumszene, in der sich drehende Delfine einen Strudel aus Biolumineszenz erzeugen.
+
+#### 📝 Prompt
+
+```
+Aquarium   Die sich drehenden Delfine erzeugen einen Strudeleffekt, der die Entstehung von Biolumineszenz fördert.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081844999608586240/img/AvTpMW5aNqaQLOlT.jpg" width="600" alt="Biolumineszierender Aquarium-Delfin-Strudel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8023)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081845035058737455) | **Published:** Jul 27, 2026
+
+---
+### Unterwasser-Aquamarinhaus und Seepferdchen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt, der ein surreales Unterwasser-Aquamarinhaus zeigt, an dessen Treppe große Seepferdchen vorbeischweben.
+
+#### 📝 Prompt
+
+```
+Aquamarinhaus   Eine Gruppe ungewöhnlich großer Seepferdchen schwebt über den Fischen, nachdem sie die Treppe von oben herabgeschwommen sind.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081841609159708672/img/igi57thnkyybSoxI.jpg" width="600" alt="Unterwasser-Aquamarinhaus und Seepferdchen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8022)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081841647046869133) | **Published:** Jul 27, 2026
+
+---
+### Video von flauschigem Welpen auf sonniger Wiese
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt ein herzerwärmendes und fotorealistisches Video eines niedlichen, flauschigen Welpen, der mit detaillierter Fellstruktur auf einer sonnigen Wiese sitzt.
+
+#### 📝 Prompt
+
+```
+Ein niedlicher, flauschiger Welpe mit großen runden Augen, weichen Schlappohren und einem fröhlichen, lächelnden Ausdruck, der auf einer grünen Wiese im sanften Sonnenlicht sitzt. Entzückend, herzerwärmend, fotorealistisch mit feinen Felldetails und sanfter, warmer Beleuchtung.
+```
+
+<img src="https://cms-assets.youmind.com/media/1785227500202_1g8w1y_HOOu2KZXcAAcv5S.jpg" width="600" alt="Video von flauschigem Welpen auf sonniger Wiese">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8024)**
+
+**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2081699714743914631) | **Published:** Jul 27, 2026
+
+---
 ### Kreatur singt Schlaflied
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2091,82 +2167,6 @@ Filmreifes Action-Thriller-Standbild im vertikalen 2:3-Format: Wladimir Putin au
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
 
 ---
-### Chaotischer Konflikt im War Room
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein dramatischer Prompt, der eine chaotische Szene in einem War Room darstellt, in dem globale Führungspersönlichkeiten und Sicherheitsteams in einer dramatischen Konfrontation aufeinandertreffen.
-
-#### 📝 Prompt
-
-```
-Dramatische Eskalation im War Room im 2:3-Hochformat: Alle fünf Führungspersönlichkeiten – Putin, Kim Jong Il, Trump, Musk als Hologramm und Xi Jinping – sind in einer einzigen chaotischen Weitwinkelaufnahme zu sehen, während Elite-Sicherheitsteams sich quer durch den Raum ein Feuergefecht liefern. Leuchtspurmunition, Funken...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="Chaotischer Konflikt im War Room">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7363)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **Published:** Jul 16, 2026
-
----
-### Übergang: Funkelnde Staub-Silhouette eines Paares
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Übergang von einem schwarzen Bildschirm zu funkelndem Staub, der unter einem Sternenhimmel die Silhouetten eines sich an den Händen berührenden Paares bildet.
-
-#### 📝 Prompt
-
-```
-Schwarzer Bildschirm wird zu funkelndem Staub in der Silhouette eines Mannes und einer Frau, ihre Hände berühren sich, ein heller Lichtblitz, Mond und Sterne füllen den Bildschirm
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="Übergang: Funkelnde Staub-Silhouette eines Paares">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7371)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **Published:** Jul 16, 2026
-
----
-### Schwingen aus Amethystfeuer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein poetischer und mystischer Video-Prompt, der Schwingen aus Amethystfeuer und türkisfarbenes Licht in einem verschleierten Nebel beschreibt.
-
-#### 📝 Prompt
-
-```
-Schwingen aus Amethystfeuer und türkisfarbenem Licht, die alchemistische Wahrheiten durch den verschleierten Nebel flüstern. Auf leisen Sohlen, während sie Ringe aus leuchtendem Licht dort erschaffen, wo heilige Wasser aus schimmernden Höhen herabstürzen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="Schwingen aus Amethystfeuer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7375)**
-
-**Author:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **Source:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **Published:** Jul 16, 2026
-
----
-### Cinematic Push-in Prompt für ein abgedunkeltes Schlafzimmer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kinoreifer Video-Prompt, der einen langsamen Kamera-Push-in auf eine Schlafzimmerszene mit spezifischen Licht-, Textur- und atmosphärischen Details beschreibt.
-
-#### 📝 Prompt
-
-```
-Sanfter Kamera-Push-in auf ein abgedunkeltes Schlafzimmer: eine bernsteinfarbene Lampe flackert, Satintücher bewegen sich langsam, warme Staubpartikel in der Luft, sanfte cineastische Stimmung, keine Körperbewegungen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="Cinematic Push-in Prompt für ein abgedunkeltes Schlafzimmer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7368)**
-
-**Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2228,6 +2228,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T06:51:47.744Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T10:58:16.315Z</sub>
 
 </div>

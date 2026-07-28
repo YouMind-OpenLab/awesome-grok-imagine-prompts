@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2238** |
+| 📝 Total Prompts | **2242** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-28** |
 
@@ -189,6 +189,82 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Cavalos pastando em um campo ensolarado de flores silvestres
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo fotorrealista e tranquilo de dois cavalos pastando entre flores silvestres em um campo ensolarado com carvalhos ao fundo.
+
+#### 📝 Prompt
+
+```
+Dois cavalos pastam calmamente na grama entre as flores silvestres no campo ensolarado, com carvalhos ao fundo. Fotorrealista, luz natural brilhante, atmosfera pacífica. Mantenha a composição e a iluminação originais do campo intactas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081913129752305665/img/MnUHHilVVaH6lbR6.jpg" width="600" alt="Cavalos pastando em um campo ensolarado de flores silvestres">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
+
+---
+### Redemoinho de Golfinhos em Aquário Bioluminescente
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo criativo para uma cena de aquário onde golfinhos girando criam um redemoinho de bioluminescência.
+
+#### 📝 Prompt
+
+```
+Aquário   Os golfinhos girando criam um efeito de redemoinho que promove a criação de bioluminescência.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081844999608586240/img/AvTpMW5aNqaQLOlT.jpg" width="600" alt="Redemoinho de Golfinhos em Aquário Bioluminescente">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8023)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081845035058737455) | **Published:** Jul 27, 2026
+
+---
+### Casa Aquamarine Subaquática e Cavalos-Marinhos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo que retrata uma casa aquamarine subaquática surreal com grandes cavalos-marinhos flutuando perto de uma escadaria.
+
+#### 📝 Prompt
+
+```
+Casa aquamarine   Um grupo de cavalos-marinhos estranhamente grandes flutua acima dos peixes depois de descerem da escadaria acima.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081841609159708672/img/igi57thnkyybSoxI.jpg" width="600" alt="Casa Aquamarine Subaquática e Cavalos-Marinhos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8022)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081841647046869133) | **Published:** Jul 27, 2026
+
+---
+### Vídeo de filhote fofinho em gramado ensolarado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gera um vídeo emocionante e fotorrealista de um filhote fofinho sentado em um gramado ensolarado com texturas de pelos detalhadas.
+
+#### 📝 Prompt
+
+```
+Um filhote fofinho com olhos grandes e redondos, orelhas caídas macias e uma expressão feliz e sorridente, sentado em um gramado sob luz solar suave. Adorável, emocionante, fotorrealista com detalhes finos nos pelos e iluminação quente e suave.
+```
+
+<img src="https://cms-assets.youmind.com/media/1785227500202_1g8w1y_HOOu2KZXcAAcv5S.jpg" width="600" alt="Vídeo de filhote fofinho em gramado ensolarado">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8024)**
+
+**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2081699714743914631) | **Published:** Jul 27, 2026
+
+---
 ### Criatura cantando uma canção de ninar
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2091,82 +2167,6 @@ Imagem cinematográfica de suspense e ação em enquadramento vertical 2:3: Vlad
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
 
 ---
-### Conflito Caótico na Sala de Guerra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt dramático que retrata uma cena caótica em uma sala de guerra, apresentando líderes globais e equipes de segurança em um impasse climático.
-
-#### 📝 Prompt
-
-```
-Colapso climático em uma sala de guerra em composição de retrato 2:3: todos os cinco líderes — Putin, Kim Jong Il, Trump, Musk em exibição holográfica e Xi Jinping — capturados em um único plano aberto caótico enquanto equipes de elite de segurança trocam tiros de fuzil pelo recinto. Traçantes, faí...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="Conflito Caótico na Sala de Guerra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7363)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **Published:** Jul 16, 2026
-
----
-### Transição de Casal em Silhueta com Poeira Cintilante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma transição cinematográfica de uma tela preta para poeira cintilante que forma as silhuetas de um casal tocando as mãos sob um céu estrelado.
-
-#### 📝 Prompt
-
-```
-A tela preta se transforma em poeira cintilante na silhueta de um homem e uma mulher, suas mãos se tocam, um clarão de luz brilhante, a lua e as estrelas preenchem a tela
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="Transição de Casal em Silhueta com Poeira Cintilante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7371)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **Published:** Jul 16, 2026
-
----
-### Asas de Fogo de Ametista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo poético e místico que descreve asas de fogo de ametista e luz turquesa em uma névoa velada.
-
-#### 📝 Prompt
-
-```
-Asas de fogo de ametista e luz turquesa sussurrando verdades alquímicas através da névoa velada, caminhando suavemente, criando anéis de luz brilhante onde águas sagradas caem em alturas cintilantes
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="Asas de Fogo de Ametista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7375)**
-
-**Author:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **Source:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **Published:** Jul 16, 2026
-
----
-### Prompt de Push-in Cinematográfico para Quarto na Penumbra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico que descreve um movimento lento de câmera (push-in) em uma cena de quarto, com detalhes específicos de iluminação, textura e atmosfera.
-
-#### 📝 Prompt
-
-```
-Push-in suave de câmera em um quarto na penumbra: lâmpada âmbar tremeluzindo, lençóis de cetim se movendo lentamente, partículas de poeira quentes no ar, clima cinematográfico suave, sem movimento corporal.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="Prompt de Push-in Cinematográfico para Quarto na Penumbra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7368)**
-
-**Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2228,6 +2228,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T06:51:51.291Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T10:58:22.277Z</sub>
 
 </div>

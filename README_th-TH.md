@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2238** |
+| 📝 Total Prompts | **2242** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-28** |
 
@@ -189,6 +189,82 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ม้ากำลังเล็มหญ้าในทุ่งดอกไม้ป่าท่ามกลางแสงแดด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวสมจริงที่ให้ความรู้สึกสงบของม้าสองตัวกำลังเล็มหญ้าท่ามกลางดอกไม้ป่าในทุ่งหญ้าที่มีแสงแดดส่องถึง โดยมีต้นโอ๊กเป็นฉากหลัง
+
+#### 📝 Prompt
+
+```
+ม้าสองตัวกำลังเล็มหญ้าอย่างสงบอยู่ท่ามกลางดอกไม้ป่าในทุ่งหญ้าที่มีแสงแดดส่องถึง โดยมีต้นโอ๊กเป็นฉากหลัง ภาพมีความสมจริง แสงธรรมชาติสว่างสดใส บรรยากาศเงียบสงบ คงองค์ประกอบของทุ่งหญ้าและแสงตามต้นฉบับเอาไว้
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081913129752305665/img/MnUHHilVVaH6lbR6.jpg" width="600" alt="ม้ากำลังเล็มหญ้าในทุ่งดอกไม้ป่าท่ามกลางแสงแดด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
+
+---
+### โลมาในตู้ปลาเรืองแสงที่หมุนวนเป็นวังน้ำวน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงสร้างสรรค์สำหรับฉากในตู้ปลาที่โลมาหมุนตัวสร้างวังน้ำวนแห่งแสงเรืองรอง
+
+#### 📝 Prompt
+
+```
+ตู้ปลา   โลมาที่กำลังหมุนตัวสร้างเอฟเฟกต์วังน้ำวนที่ก่อให้เกิดการเรืองแสงขึ้นมา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081844999608586240/img/AvTpMW5aNqaQLOlT.jpg" width="600" alt="โลมาในตู้ปลาเรืองแสงที่หมุนวนเป็นวังน้ำวน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8023)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081845035058737455) | **Published:** Jul 27, 2026
+
+---
+### บ้านสีอความารีนใต้ทะเลและม้าน้ำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอที่แสดงภาพบ้านสีอความารีนใต้ทะเลสุดเซอร์เรียล โดยมีม้าน้ำขนาดใหญ่ลอยผ่านบันได
+
+#### 📝 Prompt
+
+```
+บ้านสีอความารีน กลุ่มม้าน้ำขนาดใหญ่ผิดปกติลอยผ่านฝูงปลาหลังจากที่พวกมันลอยลงมาจากบันไดด้านบน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081841609159708672/img/igi57thnkyybSoxI.jpg" width="600" alt="บ้านสีอความารีนใต้ทะเลและม้าน้ำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8022)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081841647046869133) | **Published:** Jul 27, 2026
+
+---
+### วิดีโอสุนัขตัวน้อยขนฟูบนสนามหญ้าท่ามกลางแสงแดด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> สร้างวิดีโอที่น่ารักและสมจริงของลูกสุนัขขนฟูที่กำลังนั่งอยู่บนสนามหญ้าท่ามกลางแสงแดด พร้อมรายละเอียดของขนที่คมชัด
+
+#### 📝 Prompt
+
+```
+ลูกสุนัขขนฟูแสนน่ารักที่มีดวงตากลมโต หูพับนุ่มนิ่ม และสีหน้าที่ยิ้มแย้มมีความสุข กำลังนั่งอยู่บนสนามหญ้าภายใต้แสงแดดอ่อนๆ ให้ความรู้สึกน่าเอ็นดู อบอุ่นหัวใจ และสมจริงด้วยรายละเอียดของขนที่ละเอียดอ่อนและแสงโทนอุ่นที่นุ่มนวล
+```
+
+<img src="https://cms-assets.youmind.com/media/1785227500202_1g8w1y_HOOu2KZXcAAcv5S.jpg" width="600" alt="วิดีโอสุนัขตัวน้อยขนฟูบนสนามหญ้าท่ามกลางแสงแดด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8024)**
+
+**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2081699714743914631) | **Published:** Jul 27, 2026
+
+---
 ### สิ่งมีชีวิตร้องเพลงกล่อมเด็ก
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2091,82 +2167,6 @@ Annabelle 🪻🌸🌹🐞🍇⛲️🌲
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
 
 ---
-### ความขัดแย้งในห้องปฏิบัติการสงครามอันโกลาหล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงดราม่าที่ถ่ายทอดฉากความโกลาหลในห้องปฏิบัติการสงคราม ซึ่งมีผู้นำระดับโลกและทีมรักษาความปลอดภัยกำลังเผชิญหน้ากันในช่วงเวลาสำคัญ
-
-#### 📝 Prompt
-
-```
-ฉากความขัดแย้งในห้องปฏิบัติการสงครามในช่วงเวลาสำคัญในรูปแบบภาพแนวตั้ง 2:3: ผู้นำทั้ง 5 คน ได้แก่ ปูติน, คิม จอง อิล, ทรัมป์, มัสก์ (บนจอโฮโลแกรม) และ สี จิ้นผิง ต่างอยู่ในช็อตมุมกว้างที่เต็มไปด้วยความโกลาหล ขณะที่ทีมรักษาความปลอดภัยระดับสูงกำลังยิงปะทะกันข้ามห้อง มีกระสุนส่องวิถี...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="ความขัดแย้งในห้องปฏิบัติการสงครามอันโกลาหล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7363)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **Published:** Jul 16, 2026
-
----
-### เอฟเฟกต์เปลี่ยนฉากคู่รักเงาประกายระยิบระยับ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> เอฟเฟกต์เปลี่ยนฉากแบบภาพยนตร์ที่เริ่มจากหน้าจอมืดสนิทไปสู่ละอองประกายระยิบระยับที่ก่อตัวเป็นเงาของคู่รักกำลังสัมผัสมือกันภายใต้ท้องฟ้าที่เต็มไปด้วยดวงดาว
-
-#### 📝 Prompt
-
-```
-หน้าจอมืดเปลี่ยนเป็นละอองประกายระยิบระยับในรูปเงาของชายหญิง มือของทั้งคู่สัมผัสกัน เกิดแสงสว่างวาบขึ้น ก่อนที่ดวงจันทร์และดวงดาวจะปรากฏเต็มหน้าจอ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="เอฟเฟกต์เปลี่ยนฉากคู่รักเงาประกายระยิบระยับ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7371)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **Published:** Jul 16, 2026
-
----
-### ปีกแห่งเปลวเพลิงอเมทิสต์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์เชิงกวีและลึกลับที่บรรยายถึงปีกเปลวเพลิงสีอเมทิสต์และแสงสีเทอร์ควอยซ์ท่ามกลางสายหมอกที่ปกคลุม
-
-#### 📝 Prompt
-
-```
-ปีกแห่งเปลวเพลิงสีอเมทิสต์และแสงสีเทอร์ควอยซ์ที่กระซิบความจริงแห่งแปรธาตุผ่านสายหมอกที่ปกคลุม ย่างกรายอย่างแผ่วเบา สร้างวงแหวนแห่งแสงสว่างเรืองรอง ณ จุดที่สายน้ำศักดิ์สิทธิ์ร่วงหล่นลงมาจากความสูงที่ส่องประกายระยิบระยับ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="ปีกแห่งเปลวเพลิงอเมทิสต์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7375)**
-
-**Author:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **Source:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **Published:** Jul 16, 2026
-
----
-### พร้อมท์วิดีโอซีนีมาติกแบบ Push-in ในห้องนอนสลัว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมท์สำหรับสร้างวิดีโอสไตล์ซีนีมาติกที่อธิบายการเคลื่อนกล้องแบบ Push-in อย่างช้าๆ เข้าไปในฉากห้องนอน โดยเน้นรายละเอียดของแสง พื้นผิว และบรรยากาศ
-
-#### 📝 Prompt
-
-```
-การเคลื่อนกล้องแบบ Push-in อย่างนุ่มนวลเข้าไปในห้องนอนที่สลัว: โคมไฟสีอำพันกะพริบ ผ้าปูที่นอนผ้าซาตินขยับตัวช้าๆ ฝุ่นละอองที่ลอยอยู่ในอากาศดูอบอุ่น เน้นอารมณ์แบบภาพยนตร์ที่นุ่มนวลเท่านั้น ไม่มีการเคลื่อนไหวของร่างกาย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="พร้อมท์วิดีโอซีนีมาติกแบบ Push-in ในห้องนอนสลัว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7368)**
-
-**Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2228,6 +2228,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T06:51:41.122Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T10:58:04.552Z</sub>
 
 </div>
