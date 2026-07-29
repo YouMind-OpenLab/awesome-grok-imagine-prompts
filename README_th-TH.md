@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2242** |
+| 📝 Total Prompts | **2255** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-29** |
 
@@ -189,6 +189,241 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ส่วนขยาย Cuban Plaza Dancers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์สำหรับ Grok Imagine ที่เพิ่มนักเต้นผู้ร่าเริงสองคนใหม่เข้าไปในฉากอ้างอิงของการเฉลิมฉลองที่จัตุรัสในคิวบา
+
+#### 📝 Prompt
+
+```
+เพิ่มผู้หญิงสง่างามสองคนใหม่ที่กำลังเต้นรำอย่างสนุกสนานร่วมกับนักเต้นสองคนที่อยู่ในภาพแรก โดยให้อยู่ในฉากการเฉลิมฉลองที่จัตุรัสในคิวบาอันมีชีวิตชีวาเช่นเดิม เพื่อคิวบาที่เสรี
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082332490052886528/img/hShvSTUf2DkmaxD8.jpg" width="600" alt="ส่วนขยาย Cuban Plaza Dancers">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8095)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2082332516825129295) | **Published:** Jul 29, 2026
+
+---
+### เรือสปีดโบ๊ท SpaceX Starship
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์เชิงจินตนาการที่แสดงภาพ SpaceX Starship ลอยอยู่บนมหาสมุทรและเคลื่อนที่เหมือนเรือสปีดโบ๊ทความเร็วสูงโดยที่เครื่องยนต์ยังคงทำงานอยู่
+
+#### 📝 Prompt
+
+```
+ยาน SpaceX starship ลอยอยู่บนมหาสมุทรโดยเปิดเครื่องยนต์ขับเคลื่อนเหมือนเรือสปีดโบ๊ท
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082282176201281536/img/H9RbjBFgsGpBubEH.jpg" width="600" alt="เรือสปีดโบ๊ท SpaceX Starship">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8093)**
+
+**Author:** [Matthew Peters](https://x.com/Matthew38546207) | **Source:** [Link](https://x.com/Matthew38546207/status/2082282199089545619) | **Published:** Jul 29, 2026
+
+---
+### ปลาทองพร้อมริบบิ้นพริ้วไหว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์สุดหรูที่แสดงภาพปลาทองกำลังว่ายน้ำไปพร้อมกับริบบิ้นลายดอกทานตะวัน
+
+#### 📝 Prompt
+
+```
+ปลาทองว่ายน้ำอย่างสง่างามโดยมีริบบิ้นสีเหลืองและสีแดงพริ้วไหวตามหลัง
+เพิ่มลวดลายดอกทานตะวันลงบนริบบิ้น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082189523707195392/img/nXpp6GNbP8moe4wh.jpg" width="600" alt="ปลาทองพร้อมริบบิ้นพริ้วไหว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8090)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082189578849710225) | **Published:** Jul 28, 2026
+
+---
+### ดินแดนแห่งสัตว์ยักษ์ที่สาบสูญ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่บรรยายถึงมุมมองแบบบินโฉบลงมาเห็นฝูงสัตว์ยักษ์บนที่ราบแห่งกาแล็กซี
+
+#### 📝 Prompt
+
+```
+ดินแดนแห่งสิ่งที่สาบสูญ 
+
+เขากำลังบินโฉบลงมาเพื่อดูฝูงสัตว์ยักษ์ที่อยู่รวมกันเป็นกลุ่มก้อนขณะเดินทางข้ามที่ราบ ซึ่งมีอยู่เพียงในภูมิภาคนี้ของกาแล็กซีเท่านั้น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082162598921801728/img/yIS-mPRnnrVoie60.jpg" width="600" alt="ดินแดนแห่งสัตว์ยักษ์ที่สาบสูญ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8088)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082162644371349900) | **Published:** Jul 28, 2026
+
+---
+### ภาพถ่ายแฟชั่นย้อนยุคทศวรรษ 1960 พร้อมปีกโมเสก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์สำหรับ Grok Imagine ที่นำเสนอหญิงสาวในชุดเดรสสีแดงพร้อมปีกโมเสกสีดำทองขนาดใหญ่ ในสไตล์การถ่ายภาพแฟชั่นชั้นสูงยุค 1960
+
+#### 📝 Prompt
+
+```
+ภาพถ่ายย้อนยุคทศวรรษ 1960 ที่สมจริงอย่างเหลือเชื่อของหญิงสาวผู้สง่างามที่มีผิวตกกระ ผมตรงยาวสีขาวเงางามพร้อมหน้าม้าตัดตรงและดวงตาสีฟ้าคมกริบ เธอกำลังหันมองข้ามไหล่ สวมชุดเดรสเกาะอกสีแดงสไตล์มินิมอลที่ดูเรียบหรูและเข้ารูป ปีกโมเสกสีดำทองขนาดใหญ่ที่ดูน่าทึ่งครอบคลุมพื้นที่เกือบทั้งเฟรม เต็มหน้าจอเกือบทั้งหมด ประกอบด้วยชิ้นส่วนแก้วสีดำและสีทองรูปทรงเรขาคณิตที่ซ้อนทับกันพร้อมความแวววาวของโลหะที่เหลือบแสง ในมือของเธอถือขวดน้ำหอมรูปหัวใจคริสตัลสุดหรูที่มีตัวขวดใสแวววาวและรายละเอียดที่งดงาม แสงเงาแบบภาพยนตร์ที่เน้นความเปรียบต่างสูง ไฮไลท์ที่นุ่มนวลบนผิวหนัง ชุดเดรสสีแดง และขวดน้ำหอม ฉากหลังเป็นสตูดิโอโทนเข้มแบบมินิมอล สไตล์แฟชั่นชั้นสูงจากยุค 1970-1980 โทนสีฟิล์มวินเทจที่อบอุ่น พร้อมเกรนฟิล์มที่ละเอียดอ่อน พื้นผิวผิวหนังและกระที่ละเอียดมาก โฟกัสที่ใบหน้าและเส้นผมอย่างคมชัด ระยะชัดลึกตื้น โบเก้ที่นุ่มนวล ความละเอียดระดับ 16K สมจริงดั่งภาพถ่าย ผลงานชิ้นเอก คุณภาพดีที่สุด
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082145868107415552/img/adcq93hsCJLPlxmC.jpg" width="600" alt="ภาพถ่ายแฟชั่นย้อนยุคทศวรรษ 1960 พร้อมปีกโมเสก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8100)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2082145993550868756) | **Published:** Jul 28, 2026
+
+---
+### อาณาจักรแรดใต้สมุทรสุดแฟนตาซี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวเหนือจริงและเปี่ยมด้วยจินตนาการ ที่นำเสนอภาพแรดในอาณาจักรใต้ทะเลซึ่งปกครองโดยแมวน้ำและนางเงือก
+
+#### 📝 Prompt
+
+```
+เหล่าแรดดำดิ่งลงสู่ห้วงลึกสู่อาณาจักรใต้สมุทรที่ปกครองโดยแมวน้ำ ซึ่งมีนางเงือกทำหน้าที่เป็นพนักงานต้อนรับ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082094123595550720/img/AExvo18sMhAOldhO.jpg" width="600" alt="อาณาจักรแรดใต้สมุทรสุดแฟนตาซี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8092)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082094189953556535) | **Published:** Jul 28, 2026
+
+---
+### การค้นพบแนวปะการังใต้น้ำของแรด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวเหนือจริงและเปี่ยมด้วยจินตนาการ ที่แรดดำดิ่งลงสู่มหาสมุทรและว่ายน้ำท่ามกลางแนวปะการังและเหล่านางเงือก
+
+#### 📝 Prompt
+
+```
+มุดและดำดิ่ง 
+
+เหล่าแรดดำดิ่งลงใต้เกลียวคลื่นและว่ายน้ำไปยังพื้นมหาสมุทรที่ปกคลุมไปด้วยแนวปะการังขนาดใหญ่ที่มีชีวิต ซึ่งเป็นที่อยู่อาศัยของสิ่งมีชีวิตใต้ทะเลที่มีความหลากหลายทางชีวภาพมหาศาล รวมถึงเหล่านางเงือกที่อาศัยอยู่ร่วมกัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082092331210088448/img/WNEtJ_J6ZR_eFeU1.jpg" width="600" alt="การค้นพบแนวปะการังใต้น้ำของแรด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8096)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082092410855706805) | **Published:** Jul 28, 2026
+
+---
+### การกลายพันธุ์ของม้าและหมาป่า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงสร้างสรรค์ที่อธิบายถึงการเปลี่ยนร่างของม้าที่กำลังควบไปข้างหน้าให้กลายเป็นมิวแทนต์กล้ามเนื้อแน่นที่ผสมกับหมาป่า
+
+#### 📝 Prompt
+
+```
+ปลดปล่อยพลัง ⛓️‍💥
+
+ม้าที่กำลังควบไปข้างหน้าเหล่านี้เปลี่ยนร่างเป็นมิวแทนต์ที่มีกล้ามเนื้อแน่นเกินจริงและผสมผสานเข้ากับหมาป่า
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082083275057598464/img/oMXM7rq7XCgGRYtv.jpg" width="600" alt="การกลายพันธุ์ของม้าและหมาป่า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8091)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082083301209096323) | **Published:** Jul 28, 2026
+
+---
+### ตัวอย่างวิดีโอ Aura Wizards ในเมือง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอตัวอย่างของพ่อมดที่อาศัยอยู่ในสหรัฐอเมริกาในชุดแฟชั่นฤดูร้อน
+
+#### 📝 Prompt
+
+```
+ตัวอย่างวิดีโอของพ่อมด Aura ในสไตล์ Harry Potter ที่อาศัยอยู่ในสหรัฐอเมริกา กำลังเดินเล่นกับผู้คนในชุดลำลองที่ดูทันสมัยสำหรับช่วงฤดูร้อน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082042224292814848/img/DOaZdB7VKN_G8xEf.jpg" width="600" alt="ตัวอย่างวิดีโอ Aura Wizards ในเมือง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8089)**
+
+**Author:** [Chadwick A Sutton](https://x.com/BioMindBeliever) | **Source:** [Link](https://x.com/BioMindBeliever/status/2082042244391981565) | **Published:** Jul 28, 2026
+
+---
+### คลีโอพัตราเต้นรำกับดวงอาทิตย์และดวงจันทร์
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์ภาษาญี่ปุ่นแบบละเอียดสำหรับวิดีโอเชิงศิลป์ของคลีโอพัตราที่มีใบหน้าเพนต์สีสันสดใสและองค์ประกอบทางจักรวาลที่กำลังหมุนวน
+
+#### 📝 Prompt
+
+```
+ฉันจะแต่งตัวเป็นคลีโอพัตรา ดวงจันทร์สีขาวและดวงอาทิตย์สีส้มส่องแสงเจิดจ้าอยู่รอบตัว พวกมันอยู่บนท้องฟ้า ฉันกลายเป็นคลีโอพัตราและขับร้องอย่างกึกก้องถึงการตระหนักรู้ในความสุข ความกล้าหาญ ความมุ่งมั่น โชคลาภ ความรัก และสันติภาพ ด้วยรอยยิ้มอันเปี่ยมด้วยความรัก ความบริสุทธิ์ ความฝัน และความหวัง ใบหน้าของฉัน ใบหน้าของราชินี ถูกแต่งแต้มด้วยแม่สี ได้แก่ สีแดง สีน้ำเงิน สีเหลือง สีเขียว สีดำ และสีขาว ในสไตล์ภาพวาด ผมของฉันแผ่ออกไปด้านนอกด้วยเส้นสายสีดำบนพื้นสีขาว ที่ปลายผมซึ่งดูเลือนลางและกำลังจะจางหายไปนั้น คือดวงจันทร์และดวงอาทิตย์ในท้องฟ้าสีม่วง ดวงจันทร์และดวงอาทิตย์กำลังหมุนวนไปรอบๆ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081954481311465472/img/COw-w_FyuZtt_qRx.jpg" width="600" alt="คลีโอพัตราเต้นรำกับดวงอาทิตย์และดวงจันทร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8098)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2081954818181206424) | **Published:** Jul 28, 2026
+
+---
+### แอนิเมชันเทพธิดาเชื้อสายแอฟริกัน-อเมริกันพื้นเมือง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบละเอียดสำหรับตัวละครเทพธิดาที่มีลักษณะทางชาติพันธุ์เฉพาะตัวและข้อความเชิงบวก
+
+#### 📝 Prompt
+
+```
+เปลี่ยนฉันให้เป็นเทพธิดาเชื้อสายแอฟริกัน-อเมริกันพื้นเมือง ผมหยิกยาวสวย ผิวสีเข้มเนียนละเอียด โหนกแก้มสูง ดวงตาเรียวสวย ยิ้มแย้มสดใส พร้อมพูดว่า อย่าเพิ่งยอมแพ้
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081937002711429120/img/5odyLugnAsgKhsJ-.jpg" width="600" alt="แอนิเมชันเทพธิดาเชื้อสายแอฟริกัน-อเมริกันพื้นเมือง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8097)**
+
+**Author:** [𝓒𝓱𝓪𝓻𝓶𝓪𝓲𝓷𝓮🍫🍀](https://x.com/lovelyhousecat) | **Source:** [Link](https://x.com/lovelyhousecat/status/2081937054024577402) | **Published:** Jul 28, 2026
+
+---
+### Grok Imagine สำหรับการสร้างแอนิเมชันตัวละครกำลังวิ่ง
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> คำสั่ง (Prompt) สำหรับ Grok Imagine เพื่อสร้างแอนิเมชันลูปตัวละครกำลังวิ่ง พร้อมการเปลี่ยนสีเสื้อและเทคนิคการเคลื่อนไหวที่นุ่มนวล เช่น Squash and Stretch
+
+#### 📝 Prompt
+
+```
+เปลี่ยนสีเสื้อทุก ๆ 0.7 วินาที เชื่อมต่อเฟรมแรกและเฟรมสุดท้ายให้ลื่นไหล การเคลื่อนไหวที่เป็นธรรมชาติและนุ่มนวลโดยใช้เทคนิค Squash and Stretch และ Anticipation การวิ่ง, การเคลื่อนไหวแบบโค้ง (Arc motion), ช้า, ลูป, 12 fps, ไม่มีบทสนทนา
+```
+
+<img src="https://cms-assets.youmind.com/media/1785313939438_567xi2_HOR1I_sbMAAJiiW.jpg" width="600" alt="Grok Imagine สำหรับการสร้างแอนิเมชันตัวละครกำลังวิ่ง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8099)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2081923401623724240) | **Published:** Jul 28, 2026
+
+---
 ### ม้ากำลังเล็มหญ้าในทุ่งดอกไม้ป่าท่ามกลางแสงแดด
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +441,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
+
+---
+### แอนิเมชันพี่สาวแห่งห้วงอวกาศอันแสนงดงาม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับการแปลงวิดีโอที่เปลี่ยนตัวละครให้กลายเป็นตัวละครในธีมอวกาศอันงดงามที่กำลังลอยอยู่ในวงโคจรเหนือโลก
+
+#### 📝 Prompt
+
+```
+แก้ไขให้ผู้หญิงคนนี้กลายเป็นพี่สาวแห่งห้วงอวกาศที่ดูงดงามและกำลังลอยอยู่ในอวกาศเหนือโลกที่กำลังส่องแสง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081848480302321664/img/DDwab0kbch1s9G2v.jpg" width="600" alt="แอนิเมชันพี่สาวแห่งห้วงอวกาศอันแสนงดงาม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8094)**
+
+**Author:** [Amir Prince](https://x.com/princeduduamir) | **Source:** [Link](https://x.com/princeduduamir/status/2081848508160610723) | **Published:** Jul 27, 2026
 
 ---
 ### โลมาในตู้ปลาเรืองแสงที่หมุนวนเป็นวังน้ำวน
@@ -1904,269 +2158,6 @@ Annabelle 🪻🌸🌹🐞🍇⛲️🌲
 **Author:** [MarketMaverick](https://x.com/AKCapStrat) | **Source:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **Published:** Jul 17, 2026
 
 ---
-### ตัดต่อวิดีโอภาพเงาที่ท่าเรือยามค่ำคืน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ชุดคำสั่งวิดีโอแบบหลายขั้นตอนสำหรับเพิ่มหิ่งห้อยและเปลี่ยนคู่รักให้กลายเป็นภาพเงาแห่งจักรวาลบนท่าเรือริมทะเลสาบ
-
-#### 📝 Prompt
-
-```
-เพิ่มหิ่งห้อย
-เพิ่มชายและหญิงนั่งอยู่ที่ปลายท่าเรือโดยเอาเท้าแช่ในน้ำ
-เปลี่ยนชายและหญิงให้กลายเป็นภาพเงาสีดำของจักรวาล
-
-ชายและหญิงนั่งอยู่ที่ปลายท่าเรือหันหน้าไปทางทะเลสาบ เห็นเป็นด้านหลังของพวกเขา
-ชายและหญิงหันหน้าเข้าหากัน...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078175189876228096/img/-c3jM7q83iyyeDax.jpg" width="600" alt="ตัดต่อวิดีโอภาพเงาที่ท่าเรือยามค่ำคืน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7453)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2078175251276652699) | **Published:** Jul 17, 2026
-
----
-### บทพูดของชายชราผู้ผ่านโลกมาอย่างโชกโชน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ระดับภาพยนตร์ที่ซับซ้อนสำหรับการสร้างภาพโคลสอัพสุดขีดของชายชราที่กำลังแบ่งปันภูมิปัญญาอย่างสมจริง โดยเน้นรายละเอียดพื้นผิวและบทพูดที่สอดประสานกันอย่างลงตัว
-
-#### 📝 Prompt
-
-```
-ภาพพอร์ตเทรตโคลสอัพสุดขีดที่ให้ความรู้สึกใกล้ชิดของชายชราที่มีผิวพรรณผ่านกาลเวลามาอย่างโชกโชน เคราสีเทาเงิน ดวงตาสีฟ้าอมเทาที่เต็มไปด้วยความรู้สึก และสีหน้าที่ดูสงบนิ่งและครุ่นคิด ใบหน้าของเขาเกือบเต็มเฟรม เผยให้เห็นริ้วรอยละเอียด พื้นผิวผิวหนังที่เป็นธรรมชาติ จุดด่างดำตามวัย และความไม่สมบูรณ์แบบเล็กน้อยด้วยความสมจริงระดับภาพถ่าย แสงกลางวันแบบนุ่มนวลส่องเข้ามาจากด้านหนึ่ง ช่วยสร้างมิติให้กับโครงหน้าพร้อมสร้างเงาที่ละเอียดอ่อนรอบดวงตาและโหนกแก้ม การปรับโทนสีฟ้าและเขียวอมฟ้าแบบลดความอิ่มตัว ระยะชัดตื้น พื้นหลังเบลออย่างนุ่มนวล องค์ประกอบภาพแบบภาพยนตร์ การถ่ายภาพแนวสารคดีที่ถ่ายทอดอารมณ์ได้อย่างแท้จริง เลนส์พอร์ตเทรต 85mm รูรับแสง f/1.8 โฟกัสที่ดวงตาคมชัดระดับสูงสุด เกรนฟิล์มละเอียด ช่วงไดนามิกสูง ให้บรรยากาศที่ดิบและเหนือกาลเวลา
-
-กล้องจับภาพโคลสอัพสุดขีดต่อเนื่องเพียงช็อตเดียวโดยมีการเคลื่อนกล้องเข้าหาตัวแบบอย่างช้าๆ จนแทบสังเกตไม่เห็น ชายชราหายใจอย่างเป็นธรรมชาติ กะพริบตาเป็นระยะ และแสดงสีหน้าเล็กๆ น้อยๆ เมื่อความทรงจำหวนคืน ดวงตาของเขาเป็นประกายเล็กน้อย และมีรอยยิ้มที่ดูครุ่นคิดปรากฏขึ้นในช่วงท้าย ริมฝีปากของเขาขยับตามบทพูดได้อย่างสอดประสานกันอย่างสมบูรณ์แบบในขณะที่ยังคงสบตากับกล้องอย่างสงบ ทุกการเคลื่อนไหวบนใบหน้าดูสมจริงและเป็นธรรมชาติ
-
-บทพูด (15 วินาที):
-“ตอนที่ฉันยังหนุ่ม ฉันไล่ตามความสำเร็จเพราะคิดว่ามันจะคงอยู่ตลอดไป แต่ตอนนี้ฉันรู้แล้วว่า… ช่วงเวลาที่คุณได้แบ่งปันกับคนที่คุณรัก คือสิ่งเดียวที่กาลเวลาไม่มีวันพรากไปได้”
-
-จังหวะการพูดที่เป็นธรรมชาติพร้อมการเว้นวรรคที่นุ่มนวล การขยับปากที่ตรงกับเสียงอย่างสมบูรณ์แบบ การเคลื่อนไหวของกล้ามเนื้อใบหน้าที่สมจริง การเคลื่อนไหวของดวงตาที่ละเอียดอ่อน การหายใจที่แผ่วเบา การแสดงสไตล์สารคดี ไม่มีการแสดงที่เกินจริง ไม่มีคำบรรยาย ไม่มีข้อความบนหน้าจอ ไม่มีดนตรีประกอบ มีเพียงเสียงบรรยากาศในห้องที่เงียบสงบและความอบอุ่นจากน้ำเสียงที่เป็นธรรมชาติของเขา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078126631454130176/img/Qu2cocBFk9NfFjaz.jpg" width="600" alt="บทพูดของชายชราผู้ผ่านโลกมาอย่างโชกโชน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7458)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2078126675540455669) | **Published:** Jul 17, 2026
-
----
-### พอร์ทัลอวกาศวาฬหลังค่อม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวเหนือจริงแบบภาพยนตร์ที่วาฬหลังค่อมกลายร่างเป็นยานอวกาศข้ามมิติและเป็นประตูเชื่อมต่อสำหรับสิ่งมีชีวิตจากต่างดาว
-
-#### 📝 Prompt
-
-```
-วาฬหลังค่อม 🐋 ไม่มีคำว่าพลาด 👽🛸
-
-ฉากนี้จะเปลี่ยนไปสู่ประตูเชื่อมต่อสู่อีกมิติหนึ่งที่วาฬหลังค่อม 🐋 กลายเป็นยานอวกาศ 🚀 คอยขนส่งสิ่งมีชีวิตจากต่างดาวไปมาระหว่างโลกต่าง ๆ....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078118809253158912/img/GNQu9B67SskBJ0EK.jpg" width="600" alt="พอร์ทัลอวกาศวาฬหลังค่อม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7456)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078118847979106524) | **Published:** Jul 17, 2026
-
----
-### การต่อสู้ศิลปะป้องกันตัวแบบกายกรรม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ฉากแอ็กชันความเข้มข้นสูงที่นำเสนอนักกายกรรมผู้เชี่ยวชาญในลำดับการต่อสู้ศิลปะป้องกันตัวสุดดราม่า พร้อมการเก็บภาพทุกมุมกล้องและไม่มีบทสนทนา
-
-#### 📝 Prompt
-
-```
-ทั้งคู่เป็นนักกายกรรมที่ผ่านการฝึกฝนและเชี่ยวชาญศิลปะป้องกันตัวทุกแขนง พวกเขาพร้อมสู้ตายและเคลื่อนไหวอย่างต่อเนื่องไม่หยุดนิ่ง การถ่ายทำแบบเก็บทุกมุมกล้องช่วยให้เห็นทุกจังหวะการปะทะและจังหวะเฉียดฉิว จัดแสงแบบดราม่า ไม่มีบทสนทนาและไม่มีดนตรีประกอบ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078088291551707136/img/pblRDCAL2KzHNICH.jpg" width="600" alt="การต่อสู้ศิลปะป้องกันตัวแบบกายกรรม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7459)**
-
-**Author:** [Datedman](https://x.com/Datedman) | **Source:** [Link](https://x.com/Datedman/status/2078088307477447101) | **Published:** Jul 17, 2026
-
----
-### การเปลี่ยนภาพถ่ายบุคคล (Headshot)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับการแปลงรูปภาพต้นฉบับให้เป็นภาพถ่ายบุคคลระดับมืออาชีพในสตูดิโอ โดยยังคงรายละเอียดของใบหน้าไว้อย่างครบถ้วน
-
-#### 📝 Prompt
-
-```
-เปลี่ยนภาพนี้ให้เป็นภาพถ่ายบุคคลระดับมืออาชีพในสตูดิโอที่สมจริงของชายคนเดิม โดยคงโครงสร้างใบหน้า สัดส่วน ผมสั้นสีน้ำตาล ไรผม หนวดเคราจางๆ โทนสีผิว พื้นผิวผิวตามธรรมชาติที่มีไฝและริ้วรอยจริง อายุที่ดูสมจริง และ f...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078072979250925568/img/FJevrN9Yi-6Oh8QY.jpg" width="600" alt="การเปลี่ยนภาพถ่ายบุคคล (Headshot)">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7448)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2078072992219709491) | **Published:** Jul 17, 2026
-
----
-### การขี่มอเตอร์ไซค์สไตล์ขี่ม้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์การเคลื่อนไหวที่ไม่เหมือนใครสำหรับตัวละครที่ขึ้นขี่มอเตอร์ไซค์เสมือนกำลังขี่ม้า โดยมีฉากหลังเป็นคลื่นที่ซัดสาด
-
-#### 📝 Prompt
-
-```
-ขึ้นขี่มอเตอร์ไซค์ในลักษณะเดียวกับการขี่ม้า ขาซ้ายต้องก้าวข้ามผ่านตัวมอเตอร์ไซค์รุ่นเดิมเป๊ะๆ รุ่นเดียวกัน ชุดเดิมเป๊ะๆ ขี่อย่างสนุกสุดเหวี่ยงไปตามท่าเรือท่ามกลางคลื่นที่ซัดสาดในขณะนี้
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078059962836684800/img/VXEx_TgMlsQDue7T.jpg" width="600" alt="การขี่มอเตอร์ไซค์สไตล์ขี่ม้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7457)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078060007975694402) | **Published:** Jul 17, 2026
-
----
-### เมืองแห่งอนาคตกลางมหาสมุทรกับรถลีมูซีนบินได้
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ภาพยนตร์ที่มีรายละเอียดสูงสำหรับเมืองแห่งอนาคตบนผืนน้ำ พร้อมยานพาหนะหรูหราที่เปลี่ยนรูปร่างได้และแสงในช่วงโกลเด้นอาวร์
-
-#### 📝 Prompt
-
-```
-มุมมองทางอากาศของฝูงยานพาหนะหรูหราที่เปลี่ยนรูปร่างได้ ไม่ว่าจะเป็นตัวเรือยอชต์ที่พับเป็นรถลีมูซีนบินได้ หรือโกคาร์ทที่ยุบตัวกลายเป็นกระเป๋าเดินทางดีไซน์เนอร์ กำลังร่อนผ่านวิลล่ากลางมหาสมุทรที่เชื่อมต่อกันด้วยสะพานแสง พื้นผิวทุกจุดสะท้อนเงาวับ ทั้งผืนน้ำสีนิล สถาปัตยกรรมแพลทินัม และป้ายโฮโลแกรม แสงอาทิตย์ในช่วงโกลเด้นอาวร์ทอดผ่านเงาสะท้อนบนผิวน้ำ เมืองแห่งอนาคตกลางมหาสมุทรที่หรูหราเหนือระดับ พร้อมรายละเอียดที่เงางามสมจริงและสเกลภาพยนตร์ระดับพรีเมียม
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078050676949590016/img/ARFEnSWuZFj3_nPS.jpg" width="600" alt="เมืองแห่งอนาคตกลางมหาสมุทรกับรถลีมูซีนบินได้">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7454)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078053374671347881) | **Published:** Jul 17, 2026
-
----
-### การเดินแบบบนรันเวย์แฟชั่น
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) ที่เน้นตัวละครหญิงที่มีสไตล์ เดินอย่างมั่นใจในรองเท้าบูท พร้อมถ่ายทอดทัศนคติแบบตัวแม่สุดแสบ
-
-#### 📝 Prompt
-
-```
-ชุดสวยมาก จัดเต็มทุกอย่างแล้วเดินด้วยรองเท้าบูทคู่นั้นให้เหมือนกับว่าคุณคือตัวอันตรายที่ใครก็ต้องเหลียวมอง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078048484221968384/img/O17b8JlonNgwa-FR.jpg" width="600" alt="การเดินแบบบนรันเวย์แฟชั่น">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7444)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078048544540270970) | **Published:** Jul 17, 2026
-
----
-### สุนัขนักดิ่งพสุธาและเพนกวินกระโดดร่ม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สุดสร้างสรรค์สำหรับวิดีโอการโต้ตอบระหว่างสุนัขและเพนกวินกระโดดร่ม โดยทั้งคู่สวมแว่นตากันลมสำหรับดิ่งพสุธา
-
-#### 📝 Prompt
-
-```
-ข้าง ๆ สุนัข ให้เพิ่มเพนกวินที่กำลังกระโดดร่มลงมาด้วย แล้วให้ทั้งคู่คุยกัน โดยให้ทั้งสองตัวสวมแว่นตากันลมสำหรับดิ่งพสุธา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077932647708508160/img/Fe-GLcxLdpmIuJkn.jpg" width="600" alt="สุนัขนักดิ่งพสุธาและเพนกวินกระโดดร่ม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7455)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2077932663261032730) | **Published:** Jul 17, 2026
-
----
-### เข้าใกล้ประตูมิติ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมท์ที่แสดงภาพตัวละครกำลังเดินเข้าใกล้ประตูมิติที่ไม่รู้จักอย่างระมัดระวังท่ามกลางสภาพแวดล้อมที่โกลาหล
-
-#### 📝 Prompt
-
-```
-เขากำลังเดินเข้าใกล้ประตูมิติที่ไม่รู้จักอย่างระมัดระวัง
-
-พยายามเดินฝ่าความโกลาหลอย่างระวัง โดยไม่รู้สึกถึงความร้อนเลย !
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077926118774931456/img/5X1CFQdfzARRmlOz.jpg" width="600" alt="เข้าใกล้ประตูมิติ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7450)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2077926150936912218) | **Published:** Jul 17, 2026
-
----
-### สุนัขชิบะอินุกับวิวพระอาทิตย์ตกในลอนดอน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสร้างภาพแนวภาพยนตร์ที่แสดงภาพสุนัขชิบะอินุสีเทาเงินกำลังมองทิวทัศน์อันเป็นเอกลักษณ์ของลอนดอนในช่วงเวลาโกลเด้นอาวร์ริมแม่น้ำเทมส์
-
-#### 📝 Prompt
-
-```
-สุนัขชิบะอินุสีเทาเงินที่มีหูตั้งและดวงตาสีฟ้าโดดเด่น ยืนอยู่บนตลิ่งริมแม่น้ำในช่วงเวลาโกลเด้นอาวร์ กำลังมองทิวทัศน์ของลอนดอนฝั่งตรงข้ามแม่น้ำเทมส์อย่างสงบ โดยมี Big Ben, The Shard, London Eye และ Tower Bridge ที่กำลังอาบไล้ด้วยแสงสีทองของพระอาทิตย์ตก
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077868761458376704/img/FyWQxZTpgDfVMbJ9.jpg" width="600" alt="สุนัขชิบะอินุกับวิวพระอาทิตย์ตกในลอนดอน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7356)**
-
-**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2077868780055838815) | **Published:** Jul 16, 2026
-
----
-### วิดีโอการเคลื่อนไหวแบบกระดอนในแนวตั้ง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) ที่เน้นการเคลื่อนไหวซึ่งออกแบบมาเพื่อสร้างแอนิเมชันจากภาพเด็กผู้หญิงที่กำลังกระดอนเป็นจังหวะในแนวตั้ง พร้อมให้ความรู้สึกแบบภาพยนตร์
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอสั้นแบบภาพยนตร์ที่ลื่นไหลจากภาพนี้ โดยเน้นไปที่เด็กผู้หญิงเพียงคนเดียว เธอแสดงท่าทางการกระดอนในแนวตั้งที่เป็นจังหวะอย่างชัดเจน โดยมีแกนกลางลำตัวที่มั่นคงและท่าทางที่ตั้งตรง การเคลื่อนไหวจะเป็นแนวขึ้นและลงในแนวตรงเท่านั้น โดยมี...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077866562829074432/img/-afTiZDQYx4iTFL0.jpg" width="600" alt="วิดีโอการเคลื่อนไหวแบบกระดอนในแนวตั้ง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7358)**
-
-**Author:** [Devonte Sterling](https://x.com/DevonteStel08) | **Source:** [Link](https://x.com/DevonteStel08/status/2077866579241353371) | **Published:** Jul 16, 2026
-
----
-### ภาพการพบกันในสไตล์ภาพยนตร์ของ วลาดิเมียร์ ปูติน และ คิม จองอิล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ภาพนิ่งแนวแอ็กชันทริลเลอร์สุดดราม่าที่ถ่ายทอดช่วงเวลาส่วนตัวอันตึงเครียดระหว่าง วลาดิเมียร์ ปูติน และ คิม จองอิล ภายในพระราชวังที่ตกแต่งด้วยทองคำ
-
-#### 📝 Prompt
-
-```
-ภาพนิ่งแนวแอ็กชันทริลเลอร์ในสไตล์ภาพยนตร์ด้วยอัตราส่วนแนวตั้ง 2:3 : วลาดิเมียร์ ปูติน จากภาพอ้างอิงแรก และ คิม จองอิล จากภาพอ้างอิงที่สอง กำลังแบ่งปันช่วงเวลาส่วนตัวอันตึงเครียดตามลำพังในห้องนั่งเล่นภายในพระราชวังที่ตกแต่งด้วยทองคำ—แสงไฟสีอำพันสลัว ผ้าม่านกำมะหยี่ แก้วคริสตัล...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077846656297451520/img/wL3QogxgIEqz6yxW.jpg" width="600" alt="ภาพการพบกันในสไตล์ภาพยนตร์ของ วลาดิเมียร์ ปูติน และ คิม จองอิล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7370)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2228,6 +2219,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-29T06:55:04.503Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-29T10:58:48.809Z</sub>
 
 </div>

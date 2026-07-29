@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2242** |
+| 📝 Total Prompts | **2255** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-29** |
 
@@ -189,6 +189,241 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Cuban Plaza Dancers Eklentisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Küba meydanındaki bir kutlama sahnesine iki yeni neşeli dansçı ekleyen Grok Imagine için bir video istemi.
+
+#### 📝 Prompt
+
+```
+Özgür bir Küba için aynı canlı Küba meydanı kutlamasında, ilk görselde halihazırda bulunan iki dansçıya eşlik eden, neşeyle dans eden iki yeni zarif kadın ekleyin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082332490052886528/img/hShvSTUf2DkmaxD8.jpg" width="600" alt="Cuban Plaza Dancers Eklentisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8095)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2082332516825129295) | **Published:** Jul 29, 2026
+
+---
+### SpaceX Starship Okyanus Sürat Teknesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> SpaceX Starship'in okyanusta yüzdüğünü ve motorları açık bir şekilde yüksek hızlı bir tekne gibi hareket ettiğini betimleyen yaratıcı bir video istemi.
+
+#### 📝 Prompt
+
+```
+SpaceX Starship, motorları açık bir şekilde sürat teknesi gibi okyanusta yüzüyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082282176201281536/img/H9RbjBFgsGpBubEH.jpg" width="600" alt="SpaceX Starship Okyanus Sürat Teknesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8093)**
+
+**Author:** [Matthew Peters](https://x.com/Matthew38546207) | **Source:** [Link](https://x.com/Matthew38546207/status/2082282199089545619) | **Published:** Jul 29, 2026
+
+---
+### Kurdele İzli Japon Balıkları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dekoratif ayçiçeği kurdeleleriyle yüzen Japon balıklarını içeren zarif bir video istemi.
+
+#### 📝 Prompt
+
+```
+Japon balıkları, sarı ve kırmızı kurdeleler bırakarak zarif bir şekilde yüzüyor
+Kurdelelere ayçiçeği desenleri ekle
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082189523707195392/img/nXpp6GNbP8moe4wh.jpg" width="600" alt="Kurdele İzli Japon Balıkları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8090)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082189578849710225) | **Published:** Jul 28, 2026
+
+---
+### Kayıp Mega Faunalar Diyarı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Galaktik bir düzlükte ilerleyen mega fauna sürülerini yukarıdan aşağıya doğru bir açıyla gösteren sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kayıp diyarlar 
+
+Galaksinin yalnızca bu bölgesinde bulunan düzlüklerde ilerleyen iç içe geçmiş mega fauna sürülerini daha yakından görmek için aşağıya doğru süzülüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082162598921801728/img/yIS-mPRnnrVoie60.jpg" width="600" alt="Kayıp Mega Faunalar Diyarı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8088)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082162644371349900) | **Published:** Jul 28, 2026
+
+---
+### Mozaik Kanatlı 1960'lar Retro Moda Portresi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1960'ların yüksek moda fotoğrafçılığı tarzında, büyük siyah-altın mozaik kanatlı kırmızı elbiseli bir kadını konu alan Grok Imagine için sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Çilli bir cilde, küt kahküllü uzun düz parlak beyaz saçlara ve delici mavi gözlere sahip, omzunun üzerinden bakan zarif bir kadının hiper gerçekçi 1960'lar retro fotoğrafı. Minimalist kırmızı straplez bir elbise giyiyor; zarif, pürüzsüz ve vücuda oturan bir kesim. Devasa, dramatik siyah-altın mozaik kanatlar neredeyse tüm kareyi kaplıyor, ekranın tamamını dolduruyor; güçlü yanardöner metalik bir parlaklığa sahip, üst üste binen geometrik siyah ve altın cam parçalarından oluşuyor. Elinde, parlak şeffaf gövdeli ve zarif detaylara sahip lüks, kalp şeklinde kristal bir parfüm şişesi tutuyor. Güçlü kontrastlı dramatik sinematik yan aydınlatma, ciltte, kırmızı elbisede ve parfüm şişesinde yumuşak vurgular, minimalist karanlık stüdyo arka planı. 1970'ler-1980'lerden yüksek moda editoryal tarzı, sıcak vintage film tonları, hafif film greni. Son derece detaylı cilt dokusu ve çiller, yüz ve saç üzerinde keskin odak, sığ alan derinliği, kremsi bokeh, 16K ultra fotogerçekçi, başyapıt, en iyi kalite.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082145868107415552/img/adcq93hsCJLPlxmC.jpg" width="600" alt="Mozaik Kanatlı 1960'lar Retro Moda Portresi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8100)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2082145993550868756) | **Published:** Jul 28, 2026
+
+---
+### Fantastik Sualtı Gergedan Krallığı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Foklar ve deniz kızları tarafından yönetilen bir su altı krallığında yaşayan gergedanları konu alan sürreal ve yaratıcı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Gergedanlar, deniz kızlarını hostes olarak çalıştıran fokların yönettiği bir su altı krallığına derin dalışlar yapıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082094123595550720/img/AExvo18sMhAOldhO.jpg" width="600" alt="Fantastik Sualtı Gergedan Krallığı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8092)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082094189953556535) | **Published:** Jul 28, 2026
+
+---
+### Gergedanların Sualtı Mercan Resifi Keşfi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gergedanların okyanusa daldığı, mercan resifleri ve deniz kızları arasında yüzdüğü sürreal ve yaratıcı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Dal ve keşfet 
+
+Gergedanlar dalgaların altına dalarak, engin bir deniz yaşamı çeşitliliğine ev sahipliği yapan canlı mercan resifleriyle kaplı okyanus tabanına yüzerler ve burada deniz kızlarıyla birlikte yaşarlar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082092331210088448/img/WNEtJ_J6ZR_eFeU1.jpg" width="600" alt="Gergedanların Sualtı Mercan Resifi Keşfi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8096)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082092410855706805) | **Published:** Jul 28, 2026
+
+---
+### Mutant At ve Kurt Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dört nala koşan atların, kurtlarla melezlenmiş kaslı mutantlara dönüşümünü anlatan yaratıcı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Zincirlerinden Boşaldı ⛓️‍💥
+
+Dört nala koşan bu atlar, kurtlarla melezlenmiş, aşırı kaslı mutantlara dönüşüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082083275057598464/img/oMXM7rq7XCgGRYtv.jpg" width="600" alt="Mutant At ve Kurt Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8091)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082083301209096323) | **Published:** Jul 28, 2026
+
+---
+### Aura Wizards Urban Fragmanı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ABD'de yaşayan, modaya uygun yazlık kıyafetler giyen büyücüler için fragman tarzında bir komut.
+
+#### 📝 Prompt
+
+```
+ABD'de yaşayan ve yaz için sade ama şık kıyafetlerle başkalarıyla birlikte dolaşan, Harry Potter benzeri Aura büyücülerinin fragmanı
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082042224292814848/img/DOaZdB7VKN_G8xEf.jpg" width="600" alt="Aura Wizards Urban Fragmanı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8089)**
+
+**Author:** [Chadwick A Sutton](https://x.com/BioMindBeliever) | **Source:** [Link](https://x.com/BioMindBeliever/status/2082042244391981565) | **Published:** Jul 28, 2026
+
+---
+### Güneş ve Ay ile Dans Eden Kleopatra
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Renkli boyalı bir yüze ve dönen kozmik elementlere sahip, sanatsal bir Kleopatra videosu için ayrıntılı Japonca istem.
+
+#### 📝 Prompt
+
+```
+Kleopatra kılığına gireceğim. Beyaz ay ve turuncu güneş her yeri parlak bir şekilde aydınlatıyor. Gökyüzündeler. Ben Kleopatra oluyor; mutluluğun, cesaretin, kararlılığın, talihin, aşkın ve barışın gerçekleştiğini sevgi, saflık, hayaller ve umut dolu huzurlu bir gülümsemeyle haykırıyorum. Kraliçenin yüzü olan yüzüm; kırmızı, mavi, sarı, yeşil, siyah ve beyaz ana renklerle boyanmış bir tarzda. Saçlarım dışa doğru yayılıyor ve üzerinde beyaz üzerine siyah çizgiler var. Kanayan ve kaybolmak üzere olan saç uçlarımda, mor bir gökyüzünde ay ve güneş yer alıyor. Ay ve güneş etrafımda dönüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081954481311465472/img/COw-w_FyuZtt_qRx.jpg" width="600" alt="Güneş ve Ay ile Dans Eden Kleopatra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8098)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2081954818181206424) | **Published:** Jul 28, 2026
+
+---
+### Afro-Yerli Amerikalı Tanrıça Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Belirli etnik özelliklere ve olumlu bir mesaja sahip bir tanrıça karakteri için detaylı video istemi.
+
+#### 📝 Prompt
+
+```
+Beni Afro-Yerli Amerikalı bir tanrıçaya dönüştür; uzun, güzel kıvırcık saçlı, koyu, pürüzsüz, melaninli ten rengine sahip, belirgin elmacık kemikli, çekik gözlü, güzel gülümsemeli ve 'asla pes etme' diyen biri olsun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081937002711429120/img/5odyLugnAsgKhsJ-.jpg" width="600" alt="Afro-Yerli Amerikalı Tanrıça Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8097)**
+
+**Author:** [𝓒𝓱𝓪𝓻𝓶𝓪𝓲𝓷𝓮🍫🍀](https://x.com/lovelyhousecat) | **Source:** [Link](https://x.com/lovelyhousecat/status/2081937054024577402) | **Published:** Jul 28, 2026
+
+---
+### Grok Imagine Koşan Karakter Animasyonu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Forma rengi değişimleri ve squash and stretch gibi akıcı hareket teknikleriyle döngüsel bir koşu animasyonu oluşturmaya yönelik Grok Imagine istemi.
+
+#### 📝 Prompt
+
+```
+Forma rengi her 0,7 saniyede bir değişir. İlk ve son kareleri akıcı bir şekilde birleştirin. Squash and stretch ve anticipation tekniklerini kullanarak doğal ve yumuşak hareketler. Koşma, kavisli hareket, Yavaş, Döngü, 12 fps, diyalog yok.
+```
+
+<img src="https://cms-assets.youmind.com/media/1785313939438_567xi2_HOR1I_sbMAAJiiW.jpg" width="600" alt="Grok Imagine Koşan Karakter Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8099)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2081923401623724240) | **Published:** Jul 28, 2026
+
+---
 ### Güneşli Kır Çiçeği Çayırında Otlayan Atlar
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +441,25 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
+
+---
+### Ethereal Space Sister Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir özneyi Dünya yörüngesinde süzülen ruhani bir kozmik karaktere dönüştüren video düzenleme komutu.
+
+#### 📝 Prompt
+
+```
+Kadını, parlayan Dünya'nın üzerinde uzayda süzülen ruhani bir Space sister karakterine dönüştür.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081848480302321664/img/DDwab0kbch1s9G2v.jpg" width="600" alt="Ethereal Space Sister Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8094)**
+
+**Author:** [Amir Prince](https://x.com/princeduduamir) | **Source:** [Link](https://x.com/princeduduamir/status/2081848508160610723) | **Published:** Jul 27, 2026
 
 ---
 ### Biyolüminesans Akvaryum Yunus Girdabı
@@ -2086,269 +2340,6 @@ Klibin başı ve sonunun neredeyse aynı görünmesi için tüm hareketleri saki
 **Author:** [MarketMaverick](https://x.com/AKCapStrat) | **Source:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **Published:** Jul 17, 2026
 
 ---
-### Gece İskele Silüeti Video Düzenlemesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ateş böcekleri eklemek ve bir göl iskelesindeki çifti göksel silüetlere dönüştürmek için kullanılan çok adımlı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Ateş böcekleri ekle
-İskelenin ucunda oturan, ayakları suda olan bir erkek ve kadın ekle
-Erkek ve kadını kozmik gölge silüetlerine dönüştür
-
-İskelenin ucunda, göle bakacak şekilde oturan erkek ve kadının sırtları görünüyor
-Erkek ve kadın yüzlerini birbirine çeviriyor...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078175189876228096/img/-c3jM7q83iyyeDax.jpg" width="600" alt="Gece İskele Silüeti Video Düzenlemesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7453)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2078175251276652699) | **Published:** Jul 17, 2026
-
----
-### Yaşlı ve Yorgun Bir Adamın Monoloğu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bilgelik paylaşan yaşlı bir adamın fotorealistik ve aşırı yakın plan çekimi için detaylı dokular ve senkronize diyalog içeren sofistike bir sinematik istem.
-
-#### 📝 Prompt
-
-```
-Derin çizgili bir cilde, gümüş grisi bir sakala, anlamlı mavi-gri gözlere ve sessiz, düşünceli bir ifadeye sahip yaşlı bir adamın samimi ve aşırı yakın plan portresi. Yüzü neredeyse tüm kareyi kaplıyor; ince kırışıklıklar, doğal cilt dokusu, yaşlılık lekeleri ve hafif kusurlar olağanüstü bir fotorealistik gerçeklikle ortaya çıkıyor. Bir yandan gelen yumuşak ve dağıtılmış gün ışığı, yüz hatlarını nazikçe belirginleştirirken göz ve elmacık kemikleri çevresinde narin gölgeler oluşturuyor. Soğuk, doygunluğu azaltılmış mavi ve turkuaz renk tonlaması, sığ alan derinliği, hafif bulanık arka plan, sinematik kompozisyon, otantik duygusal belgesel fotoğrafçılığı, 85mm portre lensi, f/1.8 diyafram açıklığı, keskin göz odağı, hafif film greni, yüksek dinamik aralık, ham ve zamansız bir atmosfer.
-
-Kamera, neredeyse fark edilmeyecek kadar yavaş bir yakınlaşma ile tek bir sürekli aşırı yakın plan çekimi yapıyor. Adam doğal bir şekilde nefes alıyor, ara sıra göz kırpıyor ve anılar yüzeye çıktıkça ince mikro ifadeler sergiliyor. Gözleri hafifçe parlıyor ve sonlara doğru belirsiz, düşünceli bir gülümseme beliriyor. Dudakları, kamerayla sakin göz temasını korurken mükemmel şekilde senkronize edilmiş bir konuşmayla hareket ediyor. Her yüz hareketi otantik ve abartısız hissettiriyor.
-
-Diyalog (15 saniye):
-“Gençken başarının peşinden koştum çünkü sonsuza kadar süreceğini sanıyordum. Şimdi biliyorum ki… sevdiklerinizle paylaştığınız anlar, zamanın asla elinizden alamayacağı tek şeydir.”
-
-Nazik duraksamalarla doğal konuşma temposu, mükemmel dudak senkronizasyonu, gerçekçi yüz kası hareketleri, hafif göz hareketleri, yumuşak nefes alışverişi, belgesel tarzı performans, abartısız oyunculuk, altyazı yok, ekranda metin yok, arka plan müziği yok, sadece sessiz oda ambiyansı ve doğal sesinin sıcaklığı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078126631454130176/img/Qu2cocBFk9NfFjaz.jpg" width="600" alt="Yaşlı ve Yorgun Bir Adamın Monoloğu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7458)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2078126675540455669) | **Published:** Jul 17, 2026
-
----
-### Kambur Balina Uzay Portalı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kambur balinaların boyutlar arası uzay gemilerine ve uzaylı türler için portallara dönüştüğü sürreal ve sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Kambur balinalar 🐋 asla pes etmez 👽🛸
-
-Bu sahne, kambur balinaların 🐋 dünyalar arasında uzaylı türleri taşıyan uzay gemilerine 🚀 dönüştüğü başka bir boyuta açılan bir portala dönüşüyor....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078118809253158912/img/GNQu9B67SskBJ0EK.jpg" width="600" alt="Kambur Balina Uzay Portalı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7456)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078118847979106524) | **Published:** Jul 17, 2026
-
----
-### Akrobatik Dövüş Sanatları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Diyalog içermeyen, tam kamera kapsamıyla çekilmiş, yetenekli akrobatların yer aldığı dramatik bir dövüş sanatları sekansına sahip yüksek yoğunluklu aksiyon istemi.
-
-#### 📝 Prompt
-
-```
-Her ikisi de eğitimli akrobatlar ve tüm dövüş sanatlarında yetenekliler. Kan davası güdüyorlar ve hareket etmeyi asla bırakmıyorlar. Tam kamera kapsamı, her teması ve kıl payı kaçan her hamleyi yakalıyor. Dramatik aydınlatma. Diyalog yok, müzik yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078088291551707136/img/pblRDCAL2KzHNICH.jpg" width="600" alt="Akrobatik Dövüş Sanatları">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7459)**
-
-**Author:** [Datedman](https://x.com/Datedman) | **Source:** [Link](https://x.com/Datedman/status/2078088307477447101) | **Published:** Jul 17, 2026
-
----
-### Vesikalık Fotoğraf Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Girdi fotoğrafını, yüz detaylarını koruyarak profesyonel bir stüdyo vesikalık fotoğrafına dönüştürmek için tasarlanmış bir dönüşüm komutu.
-
-#### 📝 Prompt
-
-```
-Bunu, aynı erkeğin fotogerçekçi ve profesyonel bir stüdyo vesikalık fotoğrafına dönüştür; yüz geometrisini, oranlarını, kısa kahverengi saçlarını, saç çizgisini, hafif kirli sakalını, cilt tonunu, gerçek benler ve çizgilerle doğal cilt dokusunu, görünür yaşını ve f...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078072979250925568/img/FJevrN9Yi-6Oh8QY.jpg" width="600" alt="Vesikalık Fotoğraf Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7448)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2078072992219709491) | **Published:** Jul 17, 2026
-
----
-### At Üstündeymiş Gibi Motosiklet Sürüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin motosiklete sanki bir ata biniyormuş gibi binip sürdüğü, arka planda ise çarpan dalgaların olduğu benzersiz bir hareket istemi.
-
-#### 📝 Prompt
-
-```
-motosiklete tıpkı ata biner gibi bin, sol bacak mutlaka aynı motosikletin üzerinden geçmeli, aynı model, aynı kıyafet, çarpan dalgalar eşliğinde iskelede coşkulu bir sürüş
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078059962836684800/img/VXEx_TgMlsQDue7T.jpg" width="600" alt="At Üstündeymiş Gibi Motosiklet Sürüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7457)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078060007975694402) | **Published:** Jul 17, 2026
-
----
-### Fütüristik Okyanus Şehri Uçan Limuzinler
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dönüşebilen lüks araçlar ve altın saat ışıklandırmasına sahip, su üzerindeki hiper fütüristik bir şehir için oldukça detaylı sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Işık köprüleriyle birbirine bağlanan okyanus villaları arasında süzülen, havada uçan limuzinlere dönüşen yat gövdeli araçlar ve tasarım bagajlara dönüşen go-kartlardan oluşan bir dönüştürülebilir lüks araç filosunun kuş bakışı görünümü. Her yüzey ayna gibi parlak: obsidyen rengi su, platin mimari, holografik tabelalar. Altın saat güneşi ıslak yansımalar üzerinde parlıyor; ultra lüks, hiper fütüristik su üstü şehri, inanılmaz parlak detaylar ve pahalı sinematik ölçek.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078050676949590016/img/ARFEnSWuZFj3_nPS.jpg" width="600" alt="Fütüristik Okyanus Şehri Uçan Limuzinler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7454)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078053374671347881) | **Published:** Jul 17, 2026
-
----
-### Moda Podyum Yürüyüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Botlarıyla kendinden emin bir şekilde yürüyen, baş belası bir tavır sergileyen şık bir kadına odaklanan karakter odaklı bir istem.
-
-#### 📝 Prompt
-
-```
-harika bir kıyafet, şimdi hepsini bir araya getir ve o botlarla sanki başa bela açacakmışsın gibi yürü
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078048484221968384/img/O17b8JlonNgwa-FR.jpg" width="600" alt="Moda Podyum Yürüyüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7444)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078048544540270970) | **Published:** Jul 17, 2026
-
----
-### Paraşütle Atlayan Köpek ve Penguen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Paraşütle atlayan gözlükleri takan bir köpek ile paraşütle atlayan bir penguen arasındaki video etkileşimi için yaratıcı bir komut.
-
-#### 📝 Prompt
-
-```
-Köpeğin yanına paraşütlü bir penguen ekle ve birbirleriyle konuşmalarını sağla; her ikisinin de paraşütle atlama gözlüğü taktığından emin ol
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077932647708508160/img/Fe-GLcxLdpmIuJkn.jpg" width="600" alt="Paraşütle Atlayan Köpek ve Penguen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7455)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2077932663261032730) | **Published:** Jul 17, 2026
-
----
-### Uzay Portalına Yaklaşım
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kaotik bir ortamda bilinmeyen bir portala temkinli bir şekilde yaklaşan bir karakteri betimleyen video istemi.
-
-#### 📝 Prompt
-
-```
-bilinmeyen bir portala temkinli bir şekilde yaklaşıyor
-
-Kaosun içinde dikkatlice yürümeye çalışıyor, sıcağı hissetmiyor !
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077926118774931456/img/5X1CFQdfzARRmlOz.jpg" width="600" alt="Uzay Portalına Yaklaşım">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7450)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2077926150936912218) | **Published:** Jul 17, 2026
-
----
-### Shiba Inu Londra Gün Batımı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Thames Nehri kıyısında, altın saatlerde ikonik Londra silüetine karşı duran gümüş grisi bir Shiba Inu'yu betimleyen sinematik bir görsel istemi.
-
-#### 📝 Prompt
-
-```
-Dik kulaklı ve çarpıcı mavi gözlü gümüş grisi bir Shiba Inu, altın saatlerde nehir kenarındaki bir set üzerinde duruyor ve Thames Nehri'nin karşısındaki Londra silüetini sakin bir şekilde izliyor; Big Ben, The Shard, London Eye ve Tower Bridge sıcak gün batımı ışığında parlıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077868761458376704/img/FyWQxZTpgDfVMbJ9.jpg" width="600" alt="Shiba Inu Londra Gün Batımı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7356)**
-
-**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2077868780055838815) | **Published:** Jul 16, 2026
-
----
-### Dikey Zıplama Hareketli Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sinematik bir hisle ritmik dikey zıplama hareketi yapan bir kızın görselini canlandırmak için tasarlanmış, hareket odaklı bir komut.
-
-#### 📝 Prompt
-
-```
-Bu görselden kısa, akıcı ve sinematik bir video oluştur. Sadece kıza odaklan. Kız, sabit bir merkez ekseni ve dik bir duruşla güçlü, ritmik bir dikey zıplama hareketi yapıyor. Hareket kesinlikle sadece yukarı ve aşağı yönlü olup...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077866562829074432/img/-afTiZDQYx4iTFL0.jpg" width="600" alt="Dikey Zıplama Hareketli Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7358)**
-
-**Author:** [Devonte Sterling](https://x.com/DevonteStel08) | **Source:** [Link](https://x.com/DevonteStel08/status/2077866579241353371) | **Published:** Jul 16, 2026
-
----
-### Vladimir Putin ve Kim Jong Il Sinematik Buluşması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Vladimir Putin ve Kim Jong Il arasında altın varaklı bir sarayda geçen gergin ve özel bir anı yakalayan dramatik, sinematik bir aksiyon-gerilim karesi.
-
-#### 📝 Prompt
-
-```
-Dikey 2:3 çerçeveleme ile sinematik aksiyon-gerilim karesi: İlk referanstan Vladimir Putin ve ikinci referanstan Kim Jong Il, altın varaklı bir sarayın oturma odasında baş başa, gergin ve özel bir anı paylaşıyorlar; loş kehribar rengi lambalar, kadife perdeler, kristal bardaklar...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077846656297451520/img/wL3QogxgIEqz6yxW.jpg" width="600" alt="Vladimir Putin ve Kim Jong Il Sinematik Buluşması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7370)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2410,6 +2401,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-29T06:55:12.496Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-29T10:58:58.823Z</sub>
 
 </div>

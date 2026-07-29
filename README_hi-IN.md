@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2242** |
+| 📝 Total Prompts | **2255** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-29** |
 
@@ -189,6 +189,241 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Cuban Plaza Dancers एक्सटेंशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो प्रॉम्प्ट, जो क्यूबा के एक प्लाज़ा उत्सव के संदर्भ दृश्य में दो नए आनंदित नर्तकों को जोड़ता है।
+
+#### 📝 Prompt
+
+```
+एक स्वतंत्र क्यूबा के लिए उसी जीवंत क्यूबा प्लाज़ा उत्सव में, पहली छवि में पहले से मौजूद दो नर्तकों के साथ खुशी से नृत्य करती हुई दो नई सुंदर महिलाओं को जोड़ें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082332490052886528/img/hShvSTUf2DkmaxD8.jpg" width="600" alt="Cuban Plaza Dancers एक्सटेंशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8095)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2082332516825129295) | **Published:** Jul 29, 2026
+
+---
+### SpaceX Starship ओशन स्पीडबोट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक काल्पनिक वीडियो प्रॉम्प्ट जिसमें SpaceX Starship को समुद्र में तैरते हुए और अपने इंजनों के साथ एक हाई-स्पीड नाव की तरह चलते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+SpaceX Starship समुद्र में तैर रहा है और रॉकेट चालू होने के कारण यह एक स्पीड बोट की तरह चल रहा है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082282176201281536/img/H9RbjBFgsGpBubEH.jpg" width="600" alt="SpaceX Starship ओशन स्पीडबोट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8093)**
+
+**Author:** [Matthew Peters](https://x.com/Matthew38546207) | **Source:** [Link](https://x.com/Matthew38546207/status/2082282199089545619) | **Published:** Jul 29, 2026
+
+---
+### रिबन ट्रेल के साथ गोल्डफिश
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक शानदार वीडियो प्रॉम्प्ट जिसमें गोल्डफिश सजावटी सूरजमुखी रिबन के साथ तैर रही हैं।
+
+#### 📝 Prompt
+
+```
+गोल्डफिश खूबसूरती से तैर रही हैं और उनके पीछे पीले और लाल रंग के रिबन लहरा रहे हैं
+रिबन पर सूरजमुखी के निशान जोड़ें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082189523707195392/img/nXpp6GNbP8moe4wh.jpg" width="600" alt="रिबन ट्रेल के साथ गोल्डफिश">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8090)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082189578849710225) | **Published:** Jul 28, 2026
+
+---
+### लुप्त विशाल जीवों की भूमि
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई वीडियो प्रॉम्प्ट जो एक गैलेक्टिक मैदान पर विशाल जीवों के झुंडों के ऊपर से नीचे की ओर के दृश्य का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+लुप्त जीवों की भूमि 
+
+वह गैलेक्सी के केवल इसी क्षेत्र में पाए जाने वाले विशाल जीवों के आपस में गुंथे हुए झुंडों को करीब से देखने के लिए नीचे की ओर गोता लगाता है, जो इन मैदानों में यात्रा कर रहे हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082162598921801728/img/yIS-mPRnnrVoie60.jpg" width="600" alt="लुप्त विशाल जीवों की भूमि">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8088)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082162644371349900) | **Published:** Jul 28, 2026
+
+---
+### मोज़ेक पंखों के साथ 1960 के दशक का रेट्रो फैशन पोर्ट्रेट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें 1960 के दशक की हाई फैशन फोटोग्राफी की शैली में बड़े काले और सुनहरे मोज़ेक पंखों वाली लाल पोशाक में एक महिला को दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+1960 के दशक की अति-यथार्थवादी रेट्रो फोटोग्राफी, जिसमें एक सुंदर महिला है जिसकी त्वचा पर झाइयां हैं, लंबे सीधे चमकदार सफेद बाल और सीधी बैंग्स हैं, और उसकी नीली आंखें बहुत आकर्षक हैं, जो अपने कंधे के ऊपर से देख रही है। उसने एक मिनिमलिस्ट लाल स्ट्रैपलेस ड्रेस पहनी है - जो सुरुचिपूर्ण, चिकनी और शरीर पर फिट बैठने वाली है। विशाल और नाटकीय काले और सुनहरे मोज़ेक पंख लगभग पूरे फ्रेम को घेरे हुए हैं, जो पूरी स्क्रीन को भर रहे हैं, और ये पंख ज्यामितीय काले और सुनहरे कांच के टुकड़ों से बने हैं जिनमें एक मजबूत इंद्रधनुषी धात्विक चमक है। उसके हाथ में एक शानदार क्रिस्टल दिल के आकार की इत्र की बोतल है जिसका शरीर चमकदार पारदर्शी है और विवरण बहुत सुंदर हैं। मजबूत कंट्रास्ट के साथ नाटकीय सिनेमैटिक साइड लाइटिंग, त्वचा, लाल पोशाक और इत्र की बोतल पर हल्के हाइलाइट्स, और मिनिमलिस्ट डार्क स्टूडियो बैकग्राउंड। 1970-1980 के दशक की हाई फैशन एडिटोरियल शैली, गर्म विंटेज फिल्म टोन, सूक्ष्म फिल्म ग्रेन। त्वचा की बनावट और झाइयों का अत्यंत विस्तृत विवरण, चेहरे और बालों पर एकदम स्पष्ट फोकस, उथली डेप्थ ऑफ फील्ड, क्रीमी बोकेह, 16K अल्ट्रा फोटो-यथार्थवादी, मास्टरपीस, सर्वोत्तम गुणवत्ता।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082145868107415552/img/adcq93hsCJLPlxmC.jpg" width="600" alt="मोज़ेक पंखों के साथ 1960 के दशक का रेट्रो फैशन पोर्ट्रेट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8100)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2082145993550868756) | **Published:** Jul 28, 2026
+
+---
+### काल्पनिक जलीय गैंडा साम्राज्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक असली और कल्पनाशील वीडियो प्रॉम्प्ट, जिसमें सील और जलपरियों द्वारा शासित पानी के नीचे के साम्राज्य में गैंडे दिखाई देते हैं।
+
+#### 📝 Prompt
+
+```
+गैंडे गहरे पानी में एक ऐसे जलीय साम्राज्य में गोता लगाते हैं जिस पर सील का शासन है, जो जलपरियों को परिचारिकाओं के रूप में नियुक्त करते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082094123595550720/img/AExvo18sMhAOldhO.jpg" width="600" alt="काल्पनिक जलीय गैंडा साम्राज्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8092)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082094189953556535) | **Published:** Jul 28, 2026
+
+---
+### राइनोसोरस (गैंडों) की पानी के नीचे कोरल रीफ की खोज
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक असली और कल्पनाशील वीडियो प्रॉम्प्ट जहाँ गैंडे समुद्र में गोता लगाते हैं और कोरल रीफ और जलपरियों के बीच तैरते हैं।
+
+#### 📝 Prompt
+
+```
+डुबकी और गोता 
+
+गैंडे लहरों के नीचे गोता लगाते हैं और समुद्र की तलहटी की ओर तैरते हैं, जो एक विशाल जीवित कोरल रीफ से ढकी हुई है। यह रीफ समुद्री जीवों की अपार जैव विविधता का घर है और यहाँ वे जलपरियों के साथ सह-अस्तित्व में रहते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082092331210088448/img/WNEtJ_J6ZR_eFeU1.jpg" width="600" alt="राइनोसोरस (गैंडों) की पानी के नीचे कोरल रीफ की खोज">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8096)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082092410855706805) | **Published:** Jul 28, 2026
+
+---
+### म्यूटेंट घोड़े और भेड़िये का रूपांतरण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक रचनात्मक वीडियो प्रॉम्प्ट जो सरपट दौड़ते घोड़ों के भेड़ियों के साथ मिश्रित मांसल म्यूटेंट में रूपांतरण का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+Unleashed ⛓️‍💥
+
+ये सरपट दौड़ते घोड़े अत्यधिक मांसल म्यूटेंट में बदल जाते हैं जो भेड़ियों के साथ मिश्रित हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082083275057598464/img/oMXM7rq7XCgGRYtv.jpg" width="600" alt="म्यूटेंट घोड़े और भेड़िये का रूपांतरण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8091)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082083301209096323) | **Published:** Jul 28, 2026
+
+---
+### Aura Wizards Urban ट्रेलर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> अमेरिका में रहने वाले और फैशनेबल समर कपड़े पहनने वाले जादूगरों के लिए एक ट्रेलर-स्टाइल प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+अमेरिका में रहने वाले हैरी पॉटर जैसे Aura जादूगरों का ट्रेलर, जो गर्मियों के लिए साधारण लेकिन फैशनेबल कपड़ों में दूसरों के साथ घूम रहे हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082042224292814848/img/DOaZdB7VKN_G8xEf.jpg" width="600" alt="Aura Wizards Urban ट्रेलर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8089)**
+
+**Author:** [Chadwick A Sutton](https://x.com/BioMindBeliever) | **Source:** [Link](https://x.com/BioMindBeliever/status/2082042244391981565) | **Published:** Jul 28, 2026
+
+---
+### सूर्य और चंद्रमा के साथ नृत्य करती क्लियोपेट्रा
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> रंगीन पेंट किए हुए चेहरे और घूमते हुए ब्रह्मांडीय तत्वों के साथ क्लियोपेट्रा के एक कलात्मक वीडियो के लिए एक विस्तृत जापानी प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+मैं क्लियोपेट्रा के रूप में तैयार होऊंगी। सफेद चंद्रमा और नारंगी सूर्य चारों ओर शानदार ढंग से चमक रहे हैं। वे आकाश में हैं। मैं क्लियोपेट्रा बनकर प्रेम, पवित्रता, सपनों और आशा की शांतिपूर्ण मुस्कान के साथ खुशी, साहस, दृढ़ संकल्प, भाग्य, प्रेम और शांति की प्राप्ति का जोर-जोर से गान करती हूं। मेरा चेहरा, रानी का चेहरा, पेंट शैली में लाल, नीले, पीले, हरे, काले और सफेद प्राथमिक रंगों में रंगा हुआ है। मेरे बाल बाहर की ओर फैले हुए हैं, जिन पर सफेद रंग पर काली रेखाएं हैं। बालों के सिरों पर, जो धुंधले होकर गायब होने वाले हैं, बैंगनी आकाश में चंद्रमा और सूर्य हैं। चंद्रमा और सूर्य चारों ओर घूम रहे हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081954481311465472/img/COw-w_FyuZtt_qRx.jpg" width="600" alt="सूर्य और चंद्रमा के साथ नृत्य करती क्लियोपेट्रा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8098)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2081954818181206424) | **Published:** Jul 28, 2026
+
+---
+### एफ्रो-नेटिव अमेरिकन गॉडेस एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> विशिष्ट जातीय विशेषताओं और सकारात्मक संदेश वाली एक देवी चरित्र के लिए विस्तृत वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+मुझे एक एफ्रो-नेटिव अमेरिकन देवी में बदलें, लंबे सुंदर घुंघराले बाल, गहरे, चिकने मेलनेटेड त्वचा का रंग, उभरे हुए गाल, तिरछी आँखें, सुंदर मुस्कान - जो कह रही हो कि कभी हार न मानें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081937002711429120/img/5odyLugnAsgKhsJ-.jpg" width="600" alt="एफ्रो-नेटिव अमेरिकन गॉडेस एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8097)**
+
+**Author:** [𝓒𝓱𝓪𝓻𝓶𝓪𝓲𝓷𝓮🍫🍀](https://x.com/lovelyhousecat) | **Source:** [Link](https://x.com/lovelyhousecat/status/2081937054024577402) | **Published:** Jul 28, 2026
+
+---
+### Grok Imagine रनिंग कैरेक्टर एनिमेशन
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> जर्सी के रंग बदलने और स्क्वैश एंड स्ट्रेच जैसी स्मूथ मोशन तकनीकों के साथ रनिंग एनिमेशन लूप बनाने के लिए एक Grok Imagine प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+जर्सी का रंग हर 0.7 सेकंड में बदलता है। पहले और आखिरी फ्रेम को स्मूथ तरीके से जोड़ें। स्क्वैश एंड स्ट्रेच और एंटीसिपेशन तकनीकों का उपयोग करके स्वाभाविक और सौम्य गति। रनिंग, आर्क मोशन, स्लो, लूप, 12 fps, कोई संवाद नहीं।
+```
+
+<img src="https://cms-assets.youmind.com/media/1785313939438_567xi2_HOR1I_sbMAAJiiW.jpg" width="600" alt="Grok Imagine रनिंग कैरेक्टर एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8099)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2081923401623724240) | **Published:** Jul 28, 2026
+
+---
 ### धूप से खिले जंगली फूलों के मैदान में चरते घोड़े
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +441,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
+
+---
+### Ethereal Space Sister एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो ट्रांसफॉर्मेशन प्रॉम्प्ट जो किसी विषय को पृथ्वी की कक्षा में तैरते हुए एक अलौकिक ब्रह्मांडीय चरित्र में बदल देता है।
+
+#### 📝 Prompt
+
+```
+महिला को चमकती पृथ्वी के ऊपर अंतरिक्ष में तैरती हुई एक Ethereal Space sister के रूप में बदलें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081848480302321664/img/DDwab0kbch1s9G2v.jpg" width="600" alt="Ethereal Space Sister एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8094)**
+
+**Author:** [Amir Prince](https://x.com/princeduduamir) | **Source:** [Link](https://x.com/princeduduamir/status/2081848508160610723) | **Published:** Jul 27, 2026
 
 ---
 ### बायोल्यूमिनिसेंट एक्वेरियम डॉल्फिन व्हर्लपूल
@@ -2085,269 +2339,6 @@ Annabelle 🪻🌸🌹🐞🍇⛲️🌲
 **Author:** [MarketMaverick](https://x.com/AKCapStrat) | **Source:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **Published:** Jul 17, 2026
 
 ---
-### नाइटटाइम डॉक सिल्हूट वीडियो एडिट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मल्टी-स्टेप वीडियो प्रॉम्प्ट जिसका उपयोग जुगनू जोड़ने और झील के डॉक पर एक जोड़े को आकाशीय सिल्हूट में बदलने के लिए किया जाता है।
-
-#### 📝 Prompt
-
-```
-जुगनू जोड़ें
-डॉक के किनारे बैठे एक पुरुष और महिला को जोड़ें जिनके पैर पानी में हैं
-पुरुष और महिला को ब्रह्मांडीय छायादार सिल्हूट में बदलें
-
-पुरुष और महिला डॉक के किनारे झील की ओर पीठ करके बैठे हैं
-पुरुष और महिला अपने चेहरे एक-दूसरे की ओर घुमाते हैं...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078175189876228096/img/-c3jM7q83iyyeDax.jpg" width="600" alt="नाइटटाइम डॉक सिल्हूट वीडियो एडिट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7453)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2078175251276652699) | **Published:** Jul 17, 2026
-
----
-### वृद्ध व्यक्ति का मार्मिक एकालाप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बुद्धिमत्ता साझा करते हुए एक वृद्ध व्यक्ति के फोटो-यथार्थवादी एक्सट्रीम क्लोज-अप के लिए एक परिष्कृत सिनेमैटिक प्रॉम्प्ट, जिसमें विस्तृत बनावट और सिंक्रोनाइज़्ड संवाद शामिल हैं।
-
-#### 📝 Prompt
-
-```
-गहरी झुर्रियों वाली त्वचा, चांदी जैसी ग्रे दाढ़ी, भावपूर्ण नीली-ग्रे आँखें और शांत, विचारशील अभिव्यक्ति वाले एक वृद्ध व्यक्ति का एक अंतरंग एक्सट्रीम क्लोज-अप पोर्ट्रेट। उनका चेहरा लगभग पूरे फ्रेम को भर देता है, जिसमें महीन झुर्रियाँ, प्राकृतिक त्वचा की बनावट, उम्र के धब्बे और सूक्ष्म खामियाँ असाधारण फोटो-यथार्थवादी सटीकता के साथ दिखाई देती हैं। एक तरफ से आती हल्की विसरित रोशनी उनके चेहरे की विशेषताओं को धीरे से उभारती है, जिससे आँखों और गालों के आसपास नाजुक छाया बनती है। कूल डिसैचुरेटेड ब्लू और टील कलर ग्रेडिंग, उथली डेप्थ ऑफ फील्ड, धुंधली पृष्ठभूमि, सिनेमैटिक कंपोजिशन, प्रामाणिक भावनात्मक डॉक्यूमेंट्री फोटोग्राफी, 85mm पोर्ट्रेट लेंस, f/1.8 अपर्चर, आँखों पर एकदम सटीक फोकस, हल्का फिल्म ग्रेन, हाई डायनेमिक रेंज, रॉ और सदाबहार वातावरण।
-
-कैमरा एक निरंतर एक्सट्रीम क्लोज-अप शॉट को बनाए रखता है जिसमें बहुत ही धीमी गति से आगे की ओर ज़ूम होता है। व्यक्ति स्वाभाविक रूप से सांस लेता है, कभी-कभी पलकें झपकाता है, और यादें ताजा होने पर सूक्ष्म भाव प्रदर्शित करता है। उनकी आँखों में हल्की चमक है, और अंत के करीब एक मंद, विचारशील मुस्कान आती है। कैमरे के साथ शांत आई-कॉन्टैक्ट बनाए रखते हुए उनके होंठ पूरी तरह से सिंक्रोनाइज़्ड संवाद के साथ हिलते हैं। चेहरे की हर हरकत प्रामाणिक और संयमित लगती है।
-
-संवाद (15 सेकंड):
-“जब मैं युवा था, तो मैंने सफलता का पीछा किया क्योंकि मुझे लगा कि यह हमेशा बनी रहेगी। अब मैं जानता हूँ… जो पल आप उन लोगों के साथ बिताते हैं जिन्हें आप प्यार करते हैं, वही एकमात्र ऐसी चीज है जिसे समय कभी छीन नहीं सकता।”
-
-हल्के ठहराव के साथ स्वाभाविक बातचीत की गति, सटीक लिप सिंक्रोनाइज़ेशन, चेहरे की मांसपेशियों की यथार्थवादी हलचल, आँखों की सूक्ष्म गति, धीमी सांसें, डॉक्यूमेंट्री शैली का प्रदर्शन, कोई अतिरंजित अभिनय नहीं, कोई सबटाइटल नहीं, स्क्रीन पर कोई टेक्स्ट नहीं, कोई बैकग्राउंड म्यूजिक नहीं, केवल कमरे की शांत ध्वनि और उनकी प्राकृतिक आवाज़ की गर्माहट।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078126631454130176/img/Qu2cocBFk9NfFjaz.jpg" width="600" alt="वृद्ध व्यक्ति का मार्मिक एकालाप">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7458)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2078126675540455669) | **Published:** Jul 17, 2026
-
----
-### हम्पबैक व्हेल स्पेस पोर्टल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक असली और सिनेमाई प्रॉम्प्ट जहाँ हम्पबैक व्हेल अंतरआयामी अंतरिक्ष यान और विदेशी प्रजातियों के लिए पोर्टल में बदल जाती हैं।
-
-#### 📝 Prompt
-
-```
-हम्पबैक 🐋 कभी कम नहीं होते 👽🛸
-
-यह दृश्य एक दूसरे आयाम के पोर्टल में बदल जाता है जहाँ हम्पबैक व्हेल 🐋 अंतरिक्ष यान 🚀 हैं जो विदेशी प्रजातियों को दुनिया के बीच ले जाते हैं....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078118809253158912/img/GNQu9B67SskBJ0EK.jpg" width="600" alt="हम्पबैक व्हेल स्पेस पोर्टल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7456)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078118847979106524) | **Published:** Jul 17, 2026
-
----
-### एक्रोबैटिक मार्शल आर्ट्स कॉम्बैट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक हाई-इंटेंसिटी एक्शन प्रॉम्प्ट जिसमें कुशल एक्रोबैट्स एक नाटकीय मार्शल आर्ट्स सीक्वेंस में हैं, जिसमें फुल कैमरा कवरेज है और कोई संवाद नहीं है।
-
-#### 📝 Prompt
-
-```
-वे दोनों प्रशिक्षित एक्रोबैट्स हैं और सभी मार्शल आर्ट्स में कुशल हैं। वे एक-दूसरे की जान लेने पर उतारू हैं और वे रुकते नहीं हैं। फुल कैमरा कवरेज हर संपर्क और चूक को कैद करता है। नाटकीय लाइटिंग। कोई संवाद नहीं, कोई संगीत नहीं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078088291551707136/img/pblRDCAL2KzHNICH.jpg" width="600" alt="एक्रोबैटिक मार्शल आर्ट्स कॉम्बैट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7459)**
-
-**Author:** [Datedman](https://x.com/Datedman) | **Source:** [Link](https://x.com/Datedman/status/2078088307477447101) | **Published:** Jul 17, 2026
-
----
-### हेडशॉट इमेज ट्रांसफॉर्मेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक ट्रांसफॉर्मेशन प्रॉम्प्ट जिसे इनपुट फोटो को पेशेवर स्टूडियो हेडशॉट में बदलने के लिए डिज़ाइन किया गया है, साथ ही चेहरे के विवरण को भी बरकरार रखा गया है।
-
-#### 📝 Prompt
-
-```
-इसे बिल्कुल उसी व्यक्ति के फोटो-यथार्थवादी पेशेवर स्टूडियो हेडशॉट में बदलें—उसके चेहरे की ज्यामिति, अनुपात, छोटे भूरे बाल, हेयरलाइन, हल्की दाढ़ी, त्वचा का रंग, वास्तविक तिल और रेखाओं के साथ प्राकृतिक त्वचा बनावट, स्पष्ट उम्र, और f...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078072979250925568/img/FJevrN9Yi-6Oh8QY.jpg" width="600" alt="हेडशॉट इमेज ट्रांसफॉर्मेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7448)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2078072992219709491) | **Published:** Jul 17, 2026
-
----
-### घोड़े की सवारी की शैली में मोटरसाइकिल चलाना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अनोखा मोशन प्रॉम्प्ट, जिसमें एक पात्र मोटरसाइकिल पर ऐसे सवार होता है जैसे वह घोड़ा हो, और पृष्ठभूमि में टकराती हुई लहरें दिखाई देती हैं।
-
-#### 📝 Prompt
-
-```
-मोटरसाइकिल पर घोड़े की तरह सवार हों, बायां पैर बिल्कुल उसी मोटरसाइकिल के ऊपर से जाना चाहिए, बिल्कुल वही मॉडल, वही पोशाक, टकराती लहरों के बीच डॉक पर रोमांचक सवारी
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078059962836684800/img/VXEx_TgMlsQDue7T.jpg" width="600" alt="घोड़े की सवारी की शैली में मोटरसाइकिल चलाना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7457)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078060007975694402) | **Published:** Jul 17, 2026
-
----
-### भविष्यवादी ओशन सिटी और उड़ने वाली लिमोसिन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> पानी पर बसी एक अति-भविष्यवादी (hyper-futuristic) सिटी के लिए एक अत्यधिक विस्तृत सिनेमैटिक प्रॉम्प्ट, जिसमें बदलने वाली लग्जरी गाड़ियाँ और गोल्डन आवर की लाइटिंग शामिल है।
-
-#### 📝 Prompt
-
-```
-बदलने वाली लग्जरी गाड़ियों के बेड़े का हवाई दृश्य—याट-हल (yacht-hulls) जो हवा में उड़ने वाली लिमोसिन में बदल जाते हैं, गो-कार्ट्स जो डिजाइनर लगेज में सिमट जाते हैं—प्रकाश के पुलों से जुड़ी समुद्र पर बनी विलाओं के बीच तैर रहे हैं। हर सतह दर्पण की तरह चमक रही है: ओब्सीडियन पानी, प्लैटिनम आर्किटेक्चर, और होलोग्राफिक साइनेज। गोल्डन आवर का सूरज गीले प्रतिबिंबों पर चमक रहा है, अल्ट्रा-लक्स अति-भविष्यवादी पानी पर बसी सिटी, अविश्वसनीय चमकदार विवरण और महंगे सिनेमैटिक पैमाने के साथ।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078050676949590016/img/ARFEnSWuZFj3_nPS.jpg" width="600" alt="भविष्यवादी ओशन सिटी और उड़ने वाली लिमोसिन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7454)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078053374671347881) | **Published:** Jul 17, 2026
-
----
-### फैशन रनवे वॉक
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बूट्स पहनकर आत्मविश्वास के साथ चलने वाली एक स्टाइलिश महिला के लिए कैरेक्टर-केंद्रित प्रॉम्प्ट, जो एक शरारती और बेबाक अंदाज़ को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-शानदार आउटफिट, अब सब कुछ एक साथ पहनें और उन बूट्स के साथ ऐसे चलें जैसे आप किसी मुसीबत की तरह आकर्षक लग रही हों
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078048484221968384/img/O17b8JlonNgwa-FR.jpg" width="600" alt="फैशन रनवे वॉक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7444)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078048544540270970) | **Published:** Jul 17, 2026
-
----
-### स्काईडाइविंग करने वाला कुत्ता और पैराशूट से उतरता पेंगुइन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक कुत्ते और पैराशूट से उतरते पेंगुइन के बीच वीडियो इंटरैक्शन के लिए एक कल्पनाशील प्रॉम्प्ट, जिसमें दोनों ने स्काईडाइविंग गॉगल्स पहने हुए हैं।
-
-#### 📝 Prompt
-
-```
-कुत्ते के बगल में एक पैराशूट वाला पेंगुइन भी रखें और उन्हें एक-दूसरे से बात करते हुए दिखाएं - दोनों को स्काईडाइविंग गॉगल्स पहनाएं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077932647708508160/img/Fe-GLcxLdpmIuJkn.jpg" width="600" alt="स्काईडाइविंग करने वाला कुत्ता और पैराशूट से उतरता पेंगुइन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7455)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2077932663261032730) | **Published:** Jul 17, 2026
-
----
-### स्पेस पोर्टल के करीब
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जिसमें एक पात्र अराजक वातावरण के बीच एक अज्ञात पोर्टल की ओर सावधानी से बढ़ रहा है।
-
-#### 📝 Prompt
-
-```
-वह सावधानी से एक अज्ञात पोर्टल की ओर बढ़ रहा है
-
-अराजकता के बीच से गुजरने की सावधानीपूर्वक कोशिश कर रहा है, गर्मी महसूस नहीं कर रहा है !
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077926118774931456/img/5X1CFQdfzARRmlOz.jpg" width="600" alt="स्पेस पोर्टल के करीब">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7450)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2077926150936912218) | **Published:** Jul 17, 2026
-
----
-### शिबा इनु लंदन सनसेट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक प्रॉम्प्ट जिसमें टेम्स नदी के किनारे गोल्डन आवर के दौरान लंदन के प्रतिष्ठित स्काईलाइन को देखते हुए एक सिल्वर-ग्रे शिबा इनु को दर्शाया गया है।
-
-#### 📝 Prompt
-
-```
-सीधे कान और आकर्षक नीली आंखों वाला एक सिल्वर-ग्रे शिबा इनु गोल्डन आवर के दौरान नदी के किनारे खड़ा है और टेम्स नदी के पार लंदन के स्काईलाइन को शांति से देख रहा है—बिग बेन, द शार्ड, लंदन आई और टॉवर ब्रिज डूबते सूरज की सुनहरी रोशनी में चमक रहे हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077868761458376704/img/FyWQxZTpgDfVMbJ9.jpg" width="600" alt="शिबा इनु लंदन सनसेट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7356)**
-
-**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2077868780055838815) | **Published:** Jul 16, 2026
-
----
-### वर्टिकल बाउंसिंग मोशन वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मोशन-केंद्रित प्रॉम्प्ट जिसे एक लड़की की लयबद्ध वर्टिकल बाउंसिंग गति को सिनेमैटिक अनुभव के साथ एनिमेट करने के लिए डिज़ाइन किया गया है।
-
-#### 📝 Prompt
-
-```
-इस इमेज से एक छोटा, स्मूथ सिनेमैटिक वीडियो बनाएं। केवल लड़की पर ध्यान केंद्रित करें। वह स्थिर केंद्रित बॉडी एक्सिस और सीधी मुद्रा के साथ एक मजबूत लयबद्ध वर्टिकल बाउंसिंग गति करती है। मूवमेंट पूरी तरह से केवल ऊपर-नीचे की ओर है, जिसमें...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077866562829074432/img/-afTiZDQYx4iTFL0.jpg" width="600" alt="वर्टिकल बाउंसिंग मोशन वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7358)**
-
-**Author:** [Devonte Sterling](https://x.com/DevonteStel08) | **Source:** [Link](https://x.com/DevonteStel08/status/2077866579241353371) | **Published:** Jul 16, 2026
-
----
-### व्लादिमीर पुतिन और किम जोंग इल की सिनेमैटिक मुलाकात
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सुनहरे महल में व्लादिमीर पुतिन और किम जोंग इल के बीच के तनावपूर्ण निजी पल को दर्शाती एक नाटकीय सिनेमैटिक एक्शन-थ्रिलर स्टिल।
-
-#### 📝 Prompt
-
-```
-वर्टिकल 2:3 फ्रेमिंग में सिनेमैटिक एक्शन-थ्रिलर स्टिल: पहले संदर्भ से व्लादिमीर पुतिन और दूसरे संदर्भ से किम जोंग इल एक सुनहरे महल के बैठक कक्ष में अकेले एक तनावपूर्ण निजी पल साझा कर रहे हैं—धीमी एम्बर लैंप की रोशनी, मखमली पर्दे, क्रिस्टल ग्लास...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077846656297451520/img/wL3QogxgIEqz6yxW.jpg" width="600" alt="व्लादिमीर पुतिन और किम जोंग इल की सिनेमैटिक मुलाकात">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7370)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2409,6 +2400,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-29T06:55:06.052Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-29T10:58:50.658Z</sub>
 
 </div>

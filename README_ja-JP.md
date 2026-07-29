@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2242** |
+| 📝 プロンプト総数 | **2255** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-29** |
 
@@ -189,6 +189,241 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Cuban Plaza Dancers 拡張機能
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キューバの広場での祝祭シーンに、楽しげに踊る 2 人のダンサーを追加する Grok Imagine 用のビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+自由なキューバを祝う活気あふれる広場のシーンにおいて、最初の画像にいる 2 人のダンサーに加え、楽しげに踊る優雅な女性 2 人を新たに追加してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082332490052886528/img/hShvSTUf2DkmaxD8.jpg" width="600" alt="Cuban Plaza Dancers 拡張機能">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8095)**
+
+**作者:** [Cyperpienso](https://x.com/cyperpienso) | **ソース:** [Link](https://x.com/cyperpienso/status/2082332516825129295) | **公開日:** Jul 29, 2026
+
+---
+### SpaceX Starship オーシャンスピードボート
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> SpaceX Starship が海上に浮かび、エンジンを噴射しながら高速ボートのように走行する様子を描いた想像力豊かなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+エンジンを噴射してスピードボートのように海面を走行する SpaceX Starship
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082282176201281536/img/H9RbjBFgsGpBubEH.jpg" width="600" alt="SpaceX Starship オーシャンスピードボート">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8093)**
+
+**作者:** [Matthew Peters](https://x.com/Matthew38546207) | **ソース:** [Link](https://x.com/Matthew38546207/status/2082282199089545619) | **公開日:** Jul 29, 2026
+
+---
+### リボンをなびかせる金魚
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ヒマワリ柄のリボンをなびかせて泳ぐ、優雅な金魚のビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+金魚が黄色と赤のリボンをなびかせながら優雅に泳ぐ
+リボンにヒマワリの模様を追加する
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082189523707195392/img/nXpp6GNbP8moe4wh.jpg" width="600" alt="リボンをなびかせる金魚">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8090)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2082189578849710225) | **公開日:** Jul 28, 2026
+
+---
+### 失われた巨大動物の地
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 銀河の平原を移動する巨大動物の群れを上空から俯瞰する、映画のようなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+失われた地
+
+カメラが急降下し、この銀河の特定の領域にのみ存在する、平原を移動する巨大動物たちの入り混じった群れを間近で捉える。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082162598921801728/img/yIS-mPRnnrVoie60.jpg" width="600" alt="失われた巨大動物の地">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8088)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2082162644371349900) | **公開日:** Jul 28, 2026
+
+---
+### 1960 年代レトロファッションのポートレート：モザイクの翼を纏って
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用のシネマティックな動画プロンプト。1960 年代のハイファッション写真風のスタイルで、大きな黒と金のモザイクの翼を背負った赤いドレスの女性を描写します。
+
+#### 📝 プロンプト
+
+```
+1960 年代のレトロな写真を彷彿とさせるハイパーリアリスティックな作品。そばかすのある肌、艶やかな白いストレートのロングヘアに切り揃えられた前髪、そして射抜くような青い瞳を持つエレガントな女性が、肩越しにこちらを振り返っている。彼女はミニマルな赤いストラップレスドレスを着用しており、そのシルエットはエレガントで滑らか、そして体にフィットしている。画面のほぼ全体を覆うほど巨大でドラマチックな黒と金のモザイクの翼が広がり、重なり合う幾何学的な黒と金のガラス片が強い虹色の金属光沢を放っている。手には、透明で光沢のあるボディとエレガントなディテールが施された、豪華なクリスタルのハート型香水瓶を持っている。ドラマチックでシネマティックなサイドライティングが強いコントラストを生み出し、肌、赤いドレス、香水瓶に柔らかなハイライトが当たっている。背景はミニマルなダークスタジオ。1970 年代から 1980 年代のハイファッション・エディトリアルスタイルで、温かみのあるヴィンテージフィルムの色調と繊細なフィルムグレインを再現。極めて詳細な肌の質感とそばかす、顔と髪に鋭いピントを合わせ、浅い被写界深度とクリーミーなボケ味を表現。16K 超フォトリアリスティック、マスターピース、最高品質。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082145868107415552/img/adcq93hsCJLPlxmC.jpg" width="600" alt="1960 年代レトロファッションのポートレート：モザイクの翼を纏って">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8100)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2082145993550868756) | **公開日:** Jul 28, 2026
+
+---
+### 幻想的な水中サイの王国
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> アザラシと人魚が統治する水中の王国で、サイたちが繰り広げるシュールで想像力豊かなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+サイたちが深く潜り込んだ先には、アザラシが統治し、人魚がホステスを務める水中王国が広がっていた。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082094123595550720/img/AExvo18sMhAOldhO.jpg" width="600" alt="幻想的な水中サイの王国">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8092)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2082094189953556535) | **公開日:** Jul 28, 2026
+
+---
+### サイの水中サンゴ礁探検
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> サイが海に潜り、サンゴ礁や人魚の間を泳ぐという、シュールで想像力豊かなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+潜水とダイビング 
+
+サイが波の下へと潜り、多様な海洋生物が生息する広大なサンゴ礁に覆われた海底まで泳いでいきます。そこでは、サイと人魚たちが共生しています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082092331210088448/img/WNEtJ_J6ZR_eFeU1.jpg" width="600" alt="サイの水中サンゴ礁探検">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8096)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2082092410855706805) | **公開日:** Jul 28, 2026
+
+---
+### 突然変異した馬と狼の変身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 疾走する馬が狼と掛け合わされた筋肉質の突然変異体へと変身する様子を描写した、クリエイティブな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+解き放たれし姿 ⛓️‍💥
+
+疾走する馬たちが、狼と掛け合わされた過剰なほど筋肉質な突然変異体へと変身を遂げる。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082083275057598464/img/oMXM7rq7XCgGRYtv.jpg" width="600" alt="突然変異した馬と狼の変身">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8091)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2082083301209096323) | **公開日:** Jul 28, 2026
+
+---
+### Aura Wizards Urban Trailer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 米国で暮らす、ファッショナブルな夏服を身にまとった魔法使いたちをテーマにしたトレーラー風プロンプト。
+
+#### 📝 プロンプト
+
+```
+ハリー・ポッターのような Aura 魔法使いたちが米国で暮らし、シンプルながらもファッショナブルな夏服で街を歩く様子を描いたトレーラー
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082042224292814848/img/DOaZdB7VKN_G8xEf.jpg" width="600" alt="Aura Wizards Urban Trailer">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8089)**
+
+**作者:** [Chadwick A Sutton](https://x.com/BioMindBeliever) | **ソース:** [Link](https://x.com/BioMindBeliever/status/2082042244391981565) | **公開日:** Jul 28, 2026
+
+---
+### 太陽と月と踊るクレオパトラ
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 顔にカラフルなペイントを施したクレオパトラが、回転する宇宙の要素と共に踊る芸術的な動画のための詳細な日本語プロンプト。
+
+#### 📝 プロンプト
+
+```
+私はクレオパトラに扮する。白い月とオレンジ色の太陽が周囲でまばゆいばかりに輝き、空に浮かんでいる。私はクレオパトラとなり、愛と純粋さ、夢と希望に満ちた穏やかな笑みを浮かべながら、幸福、勇気、決意、幸運、愛、そして平和の実現を声高らかに歌い上げる。女王である私の顔は、赤、青、黄色、緑、黒、白の原色を用いたペイントスタイルで彩られている。私の髪は外側に向かって広がり、白地に黒いラインが描かれている。滲んで消えかかっている髪の毛先には、紫色の空に浮かぶ月と太陽がある。月と太陽は周囲を回転している。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081954481311465472/img/COw-w_FyuZtt_qRx.jpg" width="600" alt="太陽と月と踊るクレオパトラ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8098)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **ソース:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2081954818181206424) | **公開日:** Jul 28, 2026
+
+---
+### アフリカ系ネイティブアメリカンの女神のアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 特定の民族的特徴とポジティブなメッセージを持つ女神キャラクターのための詳細な動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+私をアフリカ系ネイティブアメリカンの女神に変身させて。長く美しい巻き髪、ダークで滑らかなメラニンの肌、高い頬骨、切れ長の目、美しい笑顔で「決してあきらめないで」と言っている様子。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081937002711429120/img/5odyLugnAsgKhsJ-.jpg" width="600" alt="アフリカ系ネイティブアメリカンの女神のアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8097)**
+
+**作者:** [𝓒𝓱𝓪𝓻𝓶𝓪𝓲𝓷𝓮🍫🍀](https://x.com/lovelyhousecat) | **ソース:** [Link](https://x.com/lovelyhousecat/status/2081937054024577402) | **公開日:** Jul 28, 2026
+
+---
+### Grok Imagine で作成するキャラクターのランニングアニメーション
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine を使用して、ジャージの色の変化や「スクワッシュ＆ストレッチ」などのスムーズな動きのテクニックを取り入れた、ループ再生可能なランニングアニメーションを作成するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+ジャージの色を 0.7 秒ごとに変更。最初と最後のフレームをスムーズにつなげてください。「スクワッシュ＆ストレッチ」や「予備動作（Anticipation）」のテクニックを使い、自然で滑らかな動きを表現してください。ランニング、円弧運動、スロー、ループ、12 fps、セリフなし。
+```
+
+<img src="https://cms-assets.youmind.com/media/1785313939438_567xi2_HOR1I_sbMAAJiiW.jpg" width="600" alt="Grok Imagine で作成するキャラクターのランニングアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8099)**
+
+**作者:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **ソース:** [Link](https://x.com/FC_Cicadas/status/2081923401623724240) | **公開日:** Jul 28, 2026
+
+---
 ### 日差しが降り注ぐ野草の草原で草を食む馬たち
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +441,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8021)**
 
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **公開日:** Jul 28, 2026
+
+---
+### 幻想的な宇宙の姉妹のアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 被写体を地球の軌道上に浮かぶ幻想的な宇宙のキャラクターへと編集するための動画変換プロンプトです。
+
+#### 📝 プロンプト
+
+```
+女性を、輝く地球の上の宇宙空間に浮かぶ幻想的な宇宙の姉妹へと編集してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081848480302321664/img/DDwab0kbch1s9G2v.jpg" width="600" alt="幻想的な宇宙の姉妹のアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8094)**
+
+**作者:** [Amir Prince](https://x.com/princeduduamir) | **ソース:** [Link](https://x.com/princeduduamir/status/2081848508160610723) | **公開日:** Jul 27, 2026
 
 ---
 ### 生物発光する水族館のイルカの渦
@@ -2086,269 +2340,6 @@ Annabelle 🪻🌸🌹🐞🍇⛲️🌲
 **作者:** [MarketMaverick](https://x.com/AKCapStrat) | **ソース:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **公開日:** Jul 17, 2026
 
 ---
-### 夜の桟橋のシルエット動画編集
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ホタルを追加し、湖の桟橋にいるカップルを宇宙のシルエットへと変身させるための多段階動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-ホタルを追加
-桟橋の先端に座り、足を水につけている男女を追加
-男女を宇宙の影のようなシルエットに変更
-
-桟橋の先端に座り、湖の方を向いている男女（背中側からの視点）
-男女が互いに顔を見合わせる...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078175189876228096/img/-c3jM7q83iyyeDax.jpg" width="600" alt="夜の桟橋のシルエット動画編集">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7453)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2078175251276652699) | **公開日:** Jul 17, 2026
-
----
-### 人生の深みを語る老人のモノローグ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 知恵を語る老人のフォトリアルな超クローズアップ映像のための、洗練されたシネマティックプロンプト。緻密な質感と同期したセリフが特徴です。
-
-#### 📝 プロンプト
-
-```
-深く刻まれた皺、銀灰色の髭、表情豊かな青灰色の瞳、そして静かで思慮深い表情を浮かべた老人の、親密な超クローズアップポートレート。顔がフレームのほぼ全体を占め、微細な皺、自然な肌の質感、老人斑、そして繊細な不完全さが、極めて高いフォトリアリズムで描き出されています。片側から差し込む柔らかな拡散光が顔の造形を優しく際立たせ、目元や頬骨の周りに繊細な影を作り出します。彩度を抑えたクールなブルーとティールのカラーグレーディング、浅い被写界深度、柔らかくぼかされた背景、シネマティックな構図、ドキュメンタリー写真のような本物の感情、85 mm ポートレートレンズ、f/1.8 の絞り、瞳に合わせた鋭いフォーカス、微かなフィルムグレイン、高いダイナミックレンジ、生々しく時代を超越した雰囲気。
-
-カメラは、ほとんど気づかないほどのゆっくりとしたズームインを伴う、単一の連続した超クローズアップを維持します。老人は自然に呼吸し、時折瞬きをし、記憶が蘇るにつれて微細な表情の変化を見せます。瞳はわずかに潤み、終盤にはかすかな思慮深い微笑みが浮かびます。唇はカメラと穏やかなアイコンタクトを保ちながら、完璧に同期して動きます。すべての顔の動きが本物らしく、控えめに表現されています。
-
-セリフ（15 秒）：
-「若い頃の私は、成功こそが永遠に続くものだと信じて追い求めていた。だが今ならわかる……愛する人たちと分かち合った時間こそが、時が経っても決して奪うことのできない唯一のものなのだと。」
-
-穏やかな間を置いた自然な会話のペース、完璧なリップシンク、リアルな顔の筋肉の動き、繊細な視線の動き、柔らかな呼吸、ドキュメンタリースタイルの演技。誇張された演技や字幕、画面上のテキスト、BGM は一切なし。静かな部屋の環境音と、温かみのある自然な声のみで構成。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078126631454130176/img/Qu2cocBFk9NfFjaz.jpg" width="600" alt="人生の深みを語る老人のモノローグ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7458)**
-
-**作者:** [BMX](https://x.com/bmx_ai13) | **ソース:** [Link](https://x.com/bmx_ai13/status/2078126675540455669) | **公開日:** Jul 17, 2026
-
----
-### ザトウクジラのスペースポータル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ザトウクジラが次元を超えた宇宙船や異星人のためのポータルへと変貌を遂げる、超現実的で映画のようなプロンプト。
-
-#### 📝 プロンプト
-
-```
-ザトウクジラ 🐋 は決して揺るがない 👽🛸
-
-このシーンは、ザトウクジラ 🐋 が異星人を世界間へと運ぶ宇宙船 🚀 となり、別次元へのポータルへと変貌を遂げる様子を描いています……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078118809253158912/img/GNQu9B67SskBJ0EK.jpg" width="600" alt="ザトウクジラのスペースポータル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7456)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2078118847979106524) | **公開日:** Jul 17, 2026
-
----
-### アクロバティックな格闘アクション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 熟練のアクロバット俳優による、迫力満点の格闘シーンを描いた高強度アクションプロンプト。カメラワークを駆使し、セリフなしで構成。
-
-#### 📝 プロンプト
-
-```
-二人は訓練を受けたアクロバットであり、あらゆる武術に精通している。殺気立ち、動きを止めることはない。フルカメラカバレッジが、あらゆる打撃や紙一重の攻防を捉える。ドラマチックなライティング。セリフや音楽は一切なし。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078088291551707136/img/pblRDCAL2KzHNICH.jpg" width="600" alt="アクロバティックな格闘アクション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7459)**
-
-**作者:** [Datedman](https://x.com/Datedman) | **ソース:** [Link](https://x.com/Datedman/status/2078088307477447101) | **公開日:** Jul 17, 2026
-
----
-### 顔写真の変換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 入力された写真を、顔のディテールを維持したままプロ仕様のスタジオ撮影風ヘッドショットに変換するための変換プロンプトです。
-
-#### 📝 プロンプト
-
-```
-この写真を、全く同一人物のフォトリアルなプロ仕様スタジオヘッドショットに変換してください。顔の形状、比率、短い茶髪、生え際、薄い無精髭、肌の色、リアルなほくろやシワを含む自然な肌の質感、見た目の年齢を維持し、f...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078072979250925568/img/FJevrN9Yi-6Oh8QY.jpg" width="600" alt="顔写真の変換">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7448)**
-
-**作者:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **ソース:** [Link](https://x.com/Yesyesyes_OK/status/2078072992219709491) | **公開日:** Jul 17, 2026
-
----
-### 馬のようにまたがるバイクライディング
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャラクターがバイクを馬のようにまたがり、波が打ち寄せる海岸を疾走する様子を描いたユニークなモーションプロンプトです。
-
-#### 📝 プロンプト
-
-```
-馬に乗るのと同じ方法でバイクにまたがる。左脚は必ず同じバイク、同じモデル、同じ服装のまま上を越えること。波が打ち寄せる桟橋を熱狂的に疾走する様子。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078059962836684800/img/VXEx_TgMlsQDue7T.jpg" width="600" alt="馬のようにまたがるバイクライディング">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7457)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2078060007975694402) | **公開日:** Jul 17, 2026
-
----
-### 未来の海上都市を飛ぶ高級リムジン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 変形する高級車とゴールデンアワーの光が特徴的な、超未来的な海上都市を描くための高精細なシネマティックプロンプト。
-
-#### 📝 プロンプト
-
-```
-変形する高級車の群れを俯瞰した光景。ヨットの船体が空飛ぶリムジンへと折り畳まれ、ゴーカートがデザイナーズラゲッジへと収縮し、光の橋で結ばれた海上ヴィラの間を滑空していく。黒曜石のような水面、プラチナの建築物、ホログラフィックな看板など、あらゆる表面が鏡のように輝いている。ゴールデンアワーの太陽光が濡れた反射面に差し込む、超豪華でハイパーフューチャリスティックな海上都市。圧倒的な光沢感と、映画のような壮大なスケール。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078050676949590016/img/ARFEnSWuZFj3_nPS.jpg" width="600" alt="未来の海上都市を飛ぶ高級リムジン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7454)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2078053374671347881) | **公開日:** Jul 17, 2026
-
----
-### ファッションランウェイのウォーキング
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ブーツを履いて自信たっぷりに歩く、小悪魔的な雰囲気を持つスタイリッシュな女性を表現するためのキャラクター重視のプロンプトです。
-
-#### 📝 プロンプト
-
-```
-素晴らしい衣装だ。すべてを完璧に整えて、まるでトラブルの香りがするような足取りで、そのブーツを履いて歩いてみて
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078048484221968384/img/O17b8JlonNgwa-FR.jpg" width="600" alt="ファッションランウェイのウォーキング">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7444)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2078048544540270970) | **公開日:** Jul 17, 2026
-
----
-### スカイダイビングをする犬とパラシュートで降下するペンギン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> スカイダイビング用ゴーグルを装着した犬と、パラシュートで降下するペンギンが対話する様子を描いた、想像力豊かな動画生成用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-犬の隣にパラシュートを装着したペンギンを配置し、両者にスカイダイビング用ゴーグルを着用させて、互いに会話をさせてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077932647708508160/img/Fe-GLcxLdpmIuJkn.jpg" width="600" alt="スカイダイビングをする犬とパラシュートで降下するペンギン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7455)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **ソース:** [Link](https://x.com/RobinMurrat43a/status/2077932663261032730) | **公開日:** Jul 17, 2026
-
----
-### スペースポータルへの接近
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 混沌とした環境の中、未知のポータルに慎重に近づくキャラクターを描いたビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-彼は未知のポータルに慎重に近づいている
-
-混沌の中を慎重に歩みを進め、熱さを感じないようにしている！
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077926118774931456/img/5X1CFQdfzARRmlOz.jpg" width="600" alt="スペースポータルへの接近">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7450)**
-
-**作者:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **ソース:** [Link](https://x.com/foxypatience/status/2077926150936912218) | **公開日:** Jul 17, 2026
-
----
-### ロンドンの夕暮れと柴犬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ゴールデンアワーのテムズ川沿いから、ロンドンの象徴的な街並みを眺めるシルバーグレーの柴犬を描いたシネマティックなプロンプト。
-
-#### 📝 プロンプト
-
-```
-ピンと立った耳と印象的な青い瞳を持つシルバーグレーの柴犬が、ゴールデンアワーの川岸に立ち、テムズ川越しにロンドンの街並みを静かに見つめている。ビッグ・ベン、ザ・シャード、ロンドン・アイ、タワー・ブリッジが、夕日の温かな光に照らされている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077868761458376704/img/FyWQxZTpgDfVMbJ9.jpg" width="600" alt="ロンドンの夕暮れと柴犬">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7356)**
-
-**作者:** [Robert Heinlein](https://x.com/strangerinastr) | **ソース:** [Link](https://x.com/strangerinastr/status/2077868780055838815) | **公開日:** Jul 16, 2026
-
----
-### 垂直バウンスモーション動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 少女がリズミカルに垂直バウンスする動きを、映画のような質感でアニメーション化するために設計されたモーション特化型プロンプトです。
-
-#### 📝 プロンプト
-
-```
-この画像から、滑らかで映画のような短い動画を作成してください。少女のみに焦点を当てます。少女は、体の軸を中央に安定させ、姿勢を正したまま、力強くリズミカルな垂直バウンスの動きを行います。動きは厳密に上下方向のみとし、...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077866562829074432/img/-afTiZDQYx4iTFL0.jpg" width="600" alt="垂直バウンスモーション動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7358)**
-
-**作者:** [Devonte Sterling](https://x.com/DevonteStel08) | **ソース:** [Link](https://x.com/DevonteStel08/status/2077866579241353371) | **公開日:** Jul 16, 2026
-
----
-### ウラジーミル・プーチンと金正日による映画のような会談
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 豪華な宮殿でウラジーミル・プーチンと金正日が対峙する、緊張感あふれる映画のようなアクションスリラーの一場面。
-
-#### 📝 プロンプト
-
-```
-縦型 2:3 フレームの映画のようなアクションスリラーの一場面：1 つ目の参照画像からウラジーミル・プーチン、2 つ目の参照画像から金正日が、豪華な宮殿の居間で二人きりで緊張感のある時間を共有している。低い位置にある琥珀色のランプ、ベルベットのカーテン、クリスタルグラス...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077846656297451520/img/wL3QogxgIEqz6yxW.jpg" width="600" alt="ウラジーミル・プーチンと金正日による映画のような会談">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7370)**
-
-**作者:** [Erkki Heliö](https://x.com/erkki_helio) | **ソース:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **公開日:** Jul 16, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2410,6 +2401,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-29T06:55:02.853Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-29T10:58:46.518Z</sub>
 
 </div>

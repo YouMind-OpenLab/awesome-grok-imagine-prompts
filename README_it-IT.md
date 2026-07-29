@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2242** |
+| 📝 Total Prompts | **2255** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-29** |
 
@@ -189,6 +189,241 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Estensione Cuban Plaza Dancers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video per Grok Imagine che aggiunge due nuove ballerine piene di gioia a una scena di riferimento di una festa in una piazza cubana.
+
+#### 📝 Prompt
+
+```
+Aggiungi due nuove donne eleganti che ballano con gioia insieme ai due ballerini già presenti nella prima immagine, nella stessa vibrante festa in una piazza cubana per una Cuba libera.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082332490052886528/img/hShvSTUf2DkmaxD8.jpg" width="600" alt="Estensione Cuban Plaza Dancers">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8095)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2082332516825129295) | **Published:** Jul 29, 2026
+
+---
+### Motoscafo SpaceX Starship
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video prompt creativo che raffigura una SpaceX Starship che galleggia nell'oceano e si muove come un motoscafo ad alta velocità con i motori accesi.
+
+#### 📝 Prompt
+
+```
+La SpaceX Starship che galleggia nell'oceano con i motori accesi come un motoscafo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082282176201281536/img/H9RbjBFgsGpBubEH.jpg" width="600" alt="Motoscafo SpaceX Starship">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8093)**
+
+**Author:** [Matthew Peters](https://x.com/Matthew38546207) | **Source:** [Link](https://x.com/Matthew38546207/status/2082282199089545619) | **Published:** Jul 29, 2026
+
+---
+### Pesci rossi con scie di nastri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un elegante prompt video che mostra pesci rossi che nuotano con nastri decorativi a forma di girasole.
+
+#### 📝 Prompt
+
+```
+Pesci rossi nuotano elegantemente lasciando scie di nastri gialli e rossi
+Aggiungi stampe di girasoli sui nastri
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082189523707195392/img/nXpp6GNbP8moe4wh.jpg" width="600" alt="Pesci rossi con scie di nastri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8090)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082189578849710225) | **Published:** Jul 28, 2026
+
+---
+### Terra della megafauna perduta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico che descrive una vista dall'alto di mandrie di megafauna su una pianura galattica.
+
+#### 📝 Prompt
+
+```
+Terra dei perduti 
+
+Si abbassa in picchiata per osservare più da vicino le mandrie intrecciate di megafauna che attraversano le pianure presenti solo in questa regione della galassia.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082162598921801728/img/yIS-mPRnnrVoie60.jpg" width="600" alt="Terra della megafauna perduta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8088)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082162644371349900) | **Published:** Jul 28, 2026
+
+---
+### Ritratto di moda retrò anni '60 con ali a mosaico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico per Grok Imagine che ritrae una donna in abito rosso con grandi ali a mosaico nero e oro, ispirato alla fotografia di alta moda degli anni '60.
+
+#### 📝 Prompt
+
+```
+Fotografia retrò iperrealistica anni '60 di un'elegante donna con pelle lentigginosa, lunghi capelli bianchi lisci e lucenti con frangia netta e penetranti occhi azzurri, che guarda oltre la spalla. Indossa un minimalista abito rosso senza spalline: elegante, liscio, aderente. Enormi e drammatiche ali a mosaico nero e oro occupano quasi l'intera inquadratura, riempiendo quasi tutto lo schermo, composte da pezzi di vetro geometrici neri e oro sovrapposti con un forte riflesso metallico iridescente. In mano tiene un lussuoso flacone di profumo a forma di cuore in cristallo con un corpo trasparente lucido e dettagli eleganti. Illuminazione cinematografica drammatica laterale con forte contrasto, riflessi morbidi sulla pelle, sull'abito rosso e sul flacone di profumo, sfondo da studio scuro minimalista. Stile editoriale di alta moda anni '70-'80, toni caldi da pellicola vintage, sottile grana cinematografica. Texture della pelle e lentiggini estremamente dettagliate, messa a fuoco nitidissima sul viso e sui capelli, profondità di campo ridotta, bokeh cremoso, 16K ultra fotorealistico, capolavoro, qualità eccellente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082145868107415552/img/adcq93hsCJLPlxmC.jpg" width="600" alt="Ritratto di moda retrò anni '60 con ali a mosaico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8100)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2082145993550868756) | **Published:** Jul 28, 2026
+
+---
+### Regno fantastico dei rinoceronti acquatici
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video surreale e fantasioso che vede protagonisti dei rinoceronti in un regno sottomarino governato da foche e sirene.
+
+#### 📝 Prompt
+
+```
+I rinoceronti si immergono in profondità verso un regno acquatico governato da foche che impiegano sirene come hostess.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082094123595550720/img/AExvo18sMhAOldhO.jpg" width="600" alt="Regno fantastico dei rinoceronti acquatici">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8092)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082094189953556535) | **Published:** Jul 28, 2026
+
+---
+### Scoperta della barriera corallina sottomarina dei rinoceronti
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video surreale e fantasioso in cui i rinoceronti si immergono nell'oceano e nuotano tra barriere coralline e sirene.
+
+#### 📝 Prompt
+
+```
+Tuffati nell'avventura 
+
+I rinoceronti si immergono sotto le onde e nuotano fino al fondale oceanico, coperto da una vasta barriera corallina vivente che ospita un'immensa biodiversità di vita marina e le sirene con cui convivono.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082092331210088448/img/WNEtJ_J6ZR_eFeU1.jpg" width="600" alt="Scoperta della barriera corallina sottomarina dei rinoceronti">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8096)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082092410855706805) | **Published:** Jul 28, 2026
+
+---
+### Trasformazione mutante di cavallo e lupo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video creativo che descrive la trasformazione di cavalli al galoppo in mutanti muscolosi incrociati con lupi.
+
+#### 📝 Prompt
+
+```
+Scatenati ⛓️‍💥
+
+Questi cavalli al galoppo si trasformano in mutanti estremamente muscolosi incrociati con lupi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082083275057598464/img/oMXM7rq7XCgGRYtv.jpg" width="600" alt="Trasformazione mutante di cavallo e lupo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8091)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082083301209096323) | **Published:** Jul 28, 2026
+
+---
+### Trailer urbano di Aura Wizards
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt in stile trailer per maghi che vivono negli Stati Uniti e indossano abiti estivi alla moda.
+
+#### 📝 Prompt
+
+```
+Trailer di maghi di Aura in stile Harry Potter che vivono negli Stati Uniti e passeggiano con altri indossando abiti semplici ma alla moda per l'estate
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082042224292814848/img/DOaZdB7VKN_G8xEf.jpg" width="600" alt="Trailer urbano di Aura Wizards">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8089)**
+
+**Author:** [Chadwick A Sutton](https://x.com/BioMindBeliever) | **Source:** [Link](https://x.com/BioMindBeliever/status/2082042244391981565) | **Published:** Jul 28, 2026
+
+---
+### Cleopatra che danza con il Sole e la Luna
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt giapponese dettagliato per un video artistico di Cleopatra con un volto dipinto a colori vivaci ed elementi cosmici rotanti.
+
+#### 📝 Prompt
+
+```
+Mi vestirò da Cleopatra. La luna bianca e il sole arancione brillano intensamente tutt'intorno. Sono nel cielo. Divento Cleopatra e canto a gran voce la realizzazione della felicità, del coraggio, della determinazione, della fortuna, dell'amore e della pace con un sorriso sereno intriso di amore, purezza, sogni e speranza. Il mio volto, il volto della regina, è colorato con i colori primari rosso, blu, giallo, verde, nero e bianco, in uno stile pittorico. I miei capelli si aprono verso l'esterno, con linee nere su fondo bianco. Alle estremità dei capelli, che sfumano fino quasi a scomparire, si trovano la luna e il sole in un cielo viola. La luna e il sole ruotano vorticosamente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081954481311465472/img/COw-w_FyuZtt_qRx.jpg" width="600" alt="Cleopatra che danza con il Sole e la Luna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8098)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2081954818181206424) | **Published:** Jul 28, 2026
+
+---
+### Animazione di una dea afro-nativa americana
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dettagliato per un personaggio divino con tratti etnici specifici e un messaggio positivo.
+
+#### 📝 Prompt
+
+```
+Trasformami in una dea afro-nativa americana, lunghi e bellissimi capelli ricci, carnagione scura, liscia e ricca di melanina, zigomi alti, occhi a mandorla, un bellissimo sorriso, mentre dico di non arrendersi mai.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081937002711429120/img/5odyLugnAsgKhsJ-.jpg" width="600" alt="Animazione di una dea afro-nativa americana">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8097)**
+
+**Author:** [𝓒𝓱𝓪𝓻𝓶𝓪𝓲𝓷𝓮🍫🍀](https://x.com/lovelyhousecat) | **Source:** [Link](https://x.com/lovelyhousecat/status/2081937054024577402) | **Published:** Jul 28, 2026
+
+---
+### Animazione di un personaggio che corre con Grok Imagine
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt per Grok Imagine per creare un'animazione in loop di una corsa, con cambi di colore della maglia e tecniche di movimento fluido come lo squash and stretch.
+
+#### 📝 Prompt
+
+```
+Il colore della maglia cambia ogni 0,7 secondi. Collega fluidamente il primo e l'ultimo fotogramma. Movimento naturale e delicato utilizzando le tecniche di squash and stretch e di anticipazione. Corsa, movimento ad arco, lento, loop, 12 fps, nessun dialogo.
+```
+
+<img src="https://cms-assets.youmind.com/media/1785313939438_567xi2_HOR1I_sbMAAJiiW.jpg" width="600" alt="Animazione di un personaggio che corre con Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8099)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2081923401623724240) | **Published:** Jul 28, 2026
+
+---
 ### Cavalli al pascolo in un prato soleggiato di fiori selvatici
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +441,25 @@ Due cavalli pascolano tranquillamente sull'erba tra i fiori selvatici in un prat
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
+
+---
+### Animazione Ethereal Space Sister
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di trasformazione video che modifica un soggetto in un personaggio cosmico etereo che fluttua in orbita sopra la Terra.
+
+#### 📝 Prompt
+
+```
+Modifica la donna in una Space sister eterea che fluttua nello spazio sopra la Terra luminosa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081848480302321664/img/DDwab0kbch1s9G2v.jpg" width="600" alt="Animazione Ethereal Space Sister">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8094)**
+
+**Author:** [Amir Prince](https://x.com/princeduduamir) | **Source:** [Link](https://x.com/princeduduamir/status/2081848508160610723) | **Published:** Jul 27, 2026
 
 ---
 ### Vortice di delfini in un acquario bioluminescente
@@ -2087,269 +2341,6 @@ Mantieni tutto il movimento calmo, lento e naturale in modo che l'inizio e la fi
 **Author:** [MarketMaverick](https://x.com/AKCapStrat) | **Source:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **Published:** Jul 17, 2026
 
 ---
-### Video editing: silhouette su pontile notturno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video multi-fase utilizzato per aggiungere lucciole e trasformare una coppia in sagome celestiali su un pontile in riva al lago.
-
-#### 📝 Prompt
-
-```
-Aggiungi lucciole
-Aggiungi un uomo e una donna seduti in fondo al pontile con i piedi nell'acqua
-Trasforma l'uomo e la donna in sagome oscure del cosmo
-
-Uomo e donna seduti in fondo al pontile di spalle rivolti verso il lago
-L'uomo e la donna si voltano l'uno verso l'altra...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078175189876228096/img/-c3jM7q83iyyeDax.jpg" width="600" alt="Video editing: silhouette su pontile notturno">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7453)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2078175251276652699) | **Published:** Jul 17, 2026
-
----
-### Monologo di un anziano dal volto segnato dal tempo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un sofisticato prompt cinematografico per un primo piano estremo fotorealistico di un anziano che condivide la sua saggezza, caratterizzato da texture dettagliate e dialogo sincronizzato.
-
-#### 📝 Prompt
-
-```
-Un intimo ritratto in primo piano estremo di un uomo anziano con la pelle profondamente segnata dal tempo, una barba grigio argento, espressivi occhi grigio-azzurri e un'espressione calma e riflessiva. Il suo volto riempie quasi l'intera inquadratura, rivelando rughe sottili, la texture naturale della pelle, macchie senili e imperfezioni sottili con un realismo fotorealistico eccezionale. Una luce diurna soffusa e diffusa entra da un lato, scolpendo delicatamente i tratti del suo viso e creando ombre leggere attorno agli occhi e agli zigomi. Color grading freddo desaturato sui toni del blu e del verde acqua, profondità di campo ridotta, sfondo leggermente sfocato, composizione cinematografica, autentica fotografia documentaristica emozionale, obiettivo per ritratti da 85mm, apertura f/1.8, messa a fuoco nitidissima sugli occhi, sottile grana cinematografica, alta gamma dinamica, atmosfera cruda e senza tempo.
-
-La cinepresa mantiene un unico primo piano estremo continuo con un lentissimo zoom in quasi impercettibile. L'uomo respira naturalmente, batte le palpebre di tanto in tanto e mostra sottili micro-espressioni mentre i ricordi riaffiorano. I suoi occhi brillano leggermente e un accenno di sorriso pensieroso appare verso la fine. Le sue labbra si muovono con un parlato perfettamente sincronizzato, mantenendo un contatto visivo calmo con la cinepresa. Ogni movimento facciale risulta autentico e misurato.
-
-Dialogo (15 secondi):
-“Quando ero giovane, inseguivo il successo perché pensavo che sarebbe durato per sempre. Ora so che… i momenti che condividi con le persone che ami sono le uniche cose che il tempo non potrà mai portarti via.”
-
-Ritmo conversazionale naturale con pause delicate, perfetta sincronizzazione labiale, movimento realistico dei muscoli facciali, sottile movimento oculare, respiro leggero, performance in stile documentaristico, nessuna recitazione esagerata, nessun sottotitolo, nessun testo a schermo, nessuna musica di sottofondo, solo la quieta atmosfera della stanza e il calore della sua voce naturale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078126631454130176/img/Qu2cocBFk9NfFjaz.jpg" width="600" alt="Monologo di un anziano dal volto segnato dal tempo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7458)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2078126675540455669) | **Published:** Jul 17, 2026
-
----
-### Portale spaziale delle megattere
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico surreale in cui le megattere si trasformano in astronavi interdimensionali e portali per specie aliene.
-
-#### 📝 Prompt
-
-```
-Le megattere 🐋 non si fermano mai 👽🛸
-
-Questa scena si trasforma in un portale verso un'altra dimensione dove le megattere 🐋 sono astronavi 🚀 che trasportano specie aliene tra i mondi....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078118809253158912/img/GNQu9B67SskBJ0EK.jpg" width="600" alt="Portale spaziale delle megattere">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7456)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078118847979106524) | **Published:** Jul 17, 2026
-
----
-### Combattimento di arti marziali acrobatiche
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'azione ad alta intensità che vede protagonisti acrobati esperti in una drammatica sequenza di arti marziali, con copertura completa della telecamera e assenza di dialoghi.
-
-#### 📝 Prompt
-
-```
-Sono entrambi acrobati addestrati ed esperti in tutte le arti marziali. Sono assetati di sangue e non smettono mai di muoversi. La copertura completa della telecamera cattura ogni contatto e ogni colpo mancato di poco. Illuminazione drammatica. Nessun dialogo, nessuna musica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078088291551707136/img/pblRDCAL2KzHNICH.jpg" width="600" alt="Combattimento di arti marziali acrobatiche">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7459)**
-
-**Author:** [Datedman](https://x.com/Datedman) | **Source:** [Link](https://x.com/Datedman/status/2078088307477447101) | **Published:** Jul 17, 2026
-
----
-### Trasformazione immagine in ritratto professionale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di trasformazione progettato per convertire una foto in un ritratto professionale da studio, mantenendo intatti i dettagli del volto.
-
-#### 📝 Prompt
-
-```
-Trasforma questa immagine in un ritratto professionale da studio fotorealistico dello stesso uomo: preserva la geometria del viso, le proporzioni, i capelli castani corti, l'attaccatura dei capelli, la barba incolta, il tono della pelle, la texture naturale con nei e rughe reali, l'età apparente e f...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078072979250925568/img/FJevrN9Yi-6Oh8QY.jpg" width="600" alt="Trasformazione immagine in ritratto professionale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7448)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2078072992219709491) | **Published:** Jul 17, 2026
-
----
-### Guida della moto in stile equestre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di movimento unico per un personaggio che sale e guida una moto come se fosse un cavallo, con uno sfondo di onde che si infrangono.
-
-#### 📝 Prompt
-
-```
-monta in sella alla moto come se fosse un cavallo, la gamba sinistra deve passare sopra la stessa identica moto, stesso modello, stesso outfit, corsa estatica lungo il molo con onde che si infrangono ora
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078059962836684800/img/VXEx_TgMlsQDue7T.jpg" width="600" alt="Guida della moto in stile equestre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7457)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078060007975694402) | **Published:** Jul 17, 2026
-
----
-### Limousine volanti in una città oceanica futuristica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico altamente dettagliato per una città iper-futuristica sull'acqua, caratterizzata da veicoli di lusso trasformabili e illuminazione durante l'ora d'oro.
-
-#### 📝 Prompt
-
-```
-Veduta aerea di una flotta di veicoli di lusso trasformabili: scafi di yacht che si ripiegano in limousine volanti, go-kart che si comprimono in bagagli di design, che scivolano tra ville oceaniche sovrapposte collegate da ponti di luce. Ogni superficie è lucida come uno specchio: acqua color ossidiana, architettura in platino, insegne olografiche. Il sole dell'ora d'oro attraversa i riflessi bagnati, città sull'acqua iper-futuristica ultra-lusso, dettagli lucidi incredibili e una scala cinematografica di alto livello.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078050676949590016/img/ARFEnSWuZFj3_nPS.jpg" width="600" alt="Limousine volanti in una città oceanica futuristica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7454)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078053374671347881) | **Published:** Jul 17, 2026
-
----
-### Sfilata di moda
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt incentrato sul personaggio di una donna alla moda che cammina con sicurezza indossando stivali, trasmettendo un atteggiamento provocatorio.
-
-#### 📝 Prompt
-
-```
-ottimo outfit, metti tutto insieme ora e cammina con quegli stivali come se fossi un guaio in persona
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078048484221968384/img/O17b8JlonNgwa-FR.jpg" width="600" alt="Sfilata di moda">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7444)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078048544540270970) | **Published:** Jul 17, 2026
-
----
-### Cane che fa paracadutismo e pinguino con paracadute
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt creativo per un'interazione video tra un cane e un pinguino con paracadute, entrambi dotati di occhiali da paracadutismo.
-
-#### 📝 Prompt
-
-```
-Accanto al cane, inserisci anche un pinguino con un paracadute e falli parlare tra loro; entrambi devono indossare occhiali da paracadutismo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077932647708508160/img/Fe-GLcxLdpmIuJkn.jpg" width="600" alt="Cane che fa paracadutismo e pinguino con paracadute">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7455)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2077932663261032730) | **Published:** Jul 17, 2026
-
----
-### Avvicinamento al portale spaziale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video che ritrae un personaggio che si avvicina con cautela a un portale sconosciuto attraverso un ambiente caotico.
-
-#### 📝 Prompt
-
-```
-si sta avvicinando con cautela a un portale sconosciuto
-
-Cerca di attraversare il caos con attenzione, senza sentire il calore!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077926118774931456/img/5X1CFQdfzARRmlOz.jpg" width="600" alt="Avvicinamento al portale spaziale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7450)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2077926150936912218) | **Published:** Jul 17, 2026
-
----
-### Shiba Inu al tramonto a Londra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico che ritrae uno Shiba Inu grigio argento che osserva l'iconico skyline di Londra durante l'ora d'oro al tramonto lungo il Tamigi.
-
-#### 📝 Prompt
-
-```
-Uno Shiba Inu grigio argento con orecchie dritte e sorprendenti occhi azzurri si trova su un argine lungo il fiume durante l'ora d'oro, osservando con calma lo skyline di Londra oltre il Tamigi: il Big Ben, lo Shard, il London Eye e il Tower Bridge risplendono nella calda luce del tramonto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077868761458376704/img/FyWQxZTpgDfVMbJ9.jpg" width="600" alt="Shiba Inu al tramonto a Londra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7356)**
-
-**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2077868780055838815) | **Published:** Jul 16, 2026
-
----
-### Video con movimento di rimbalzo verticale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt incentrato sul movimento progettato per animare l'immagine di una ragazza che esegue un ritmico movimento di rimbalzo verticale con un tocco cinematografico.
-
-#### 📝 Prompt
-
-```
-Crea un breve video cinematografico fluido a partire da questa immagine. Concentrati solo sulla ragazza. Esegue un forte movimento ritmico di rimbalzo verticale con un asse corporeo centrale stabile e una postura eretta. Il movimento è rigorosamente solo verticale, dall'alto verso il basso, con...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077866562829074432/img/-afTiZDQYx4iTFL0.jpg" width="600" alt="Video con movimento di rimbalzo verticale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7358)**
-
-**Author:** [Devonte Sterling](https://x.com/DevonteStel08) | **Source:** [Link](https://x.com/DevonteStel08/status/2077866579241353371) | **Published:** Jul 16, 2026
-
----
-### Incontro cinematografico tra Vladimir Putin e Kim Jong Il
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un'immagine drammatica in stile action-thriller cinematografico che cattura un teso momento privato tra Vladimir Putin e Kim Jong Il in un palazzo dorato.
-
-#### 📝 Prompt
-
-```
-Immagine in stile action-thriller cinematografico con inquadratura verticale 2:3: Vladimir Putin dal primo riferimento e Kim Jong Il dal secondo riferimento condividono un teso momento privato da soli nel salotto di un palazzo dorato—lampade color ambra a bassa intensità, tende di velluto, bicchieri di cristallo...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077846656297451520/img/wL3QogxgIEqz6yxW.jpg" width="600" alt="Incontro cinematografico tra Vladimir Putin e Kim Jong Il">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7370)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2411,6 +2402,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-29T06:55:10.063Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-29T10:58:55.689Z</sub>
 
 </div>

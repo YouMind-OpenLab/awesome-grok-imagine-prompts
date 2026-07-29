@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2242** |
+| 📝 提示词总数 | **2255** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-07-29** |
 
@@ -189,6 +189,241 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Cuban Plaza Dancers 扩展插件
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个用于 Grok Imagine 的视频提示词，旨在向古巴广场庆典的参考场景中增加两位欢快起舞的舞者。
+
+#### 📝 提示词
+
+```
+在第一张图像现有的两位舞者基础上，增加两位优雅的女性，让她们在同一个充满活力的古巴广场庆典场景中欢快起舞，共同庆祝自由的古巴。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082332490052886528/img/hShvSTUf2DkmaxD8.jpg" width="600" alt="Cuban Plaza Dancers 扩展插件">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8095)**
+
+**作者:** [Cyperpienso](https://x.com/cyperpienso) | **来源:** [Link](https://x.com/cyperpienso/status/2082332516825129295) | **发布时间:** Jul 29, 2026
+
+---
+### SpaceX Starship 海上快艇
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满想象力的视频提示词，描绘了 SpaceX Starship 漂浮在海面上，并像快艇一样开启引擎高速行驶的场景。
+
+#### 📝 提示词
+
+```
+SpaceX Starship 漂浮在海面上，引擎开启，像快艇一样行驶
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082282176201281536/img/H9RbjBFgsGpBubEH.jpg" width="600" alt="SpaceX Starship 海上快艇">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8093)**
+
+**作者:** [Matthew Peters](https://x.com/Matthew38546207) | **来源:** [Link](https://x.com/Matthew38546207/status/2082282199089545619) | **发布时间:** Jul 29, 2026
+
+---
+### 带有丝带轨迹的金鱼
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个优雅的视频提示词，展示了金鱼在游动时拖曳着装饰性的向日葵丝带。
+
+#### 📝 提示词
+
+```
+金鱼优雅地游动，拖曳着黄色和红色的丝带
+在丝带上添加向日葵印花
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082189523707195392/img/nXpp6GNbP8moe4wh.jpg" width="600" alt="带有丝带轨迹的金鱼">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8090)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2082189578849710225) | **发布时间:** Jul 28, 2026
+
+---
+### 失落巨型动物群之地
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影级的视频提示词，描述了从高空俯瞰银河平原上巨型动物群迁徙的场景。
+
+#### 📝 提示词
+
+```
+失落之地
+
+镜头俯冲而下，近距离观察那些交织在一起的巨型动物群，它们正穿行在仅存在于银河系这一区域的平原上。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082162598921801728/img/yIS-mPRnnrVoie60.jpg" width="600" alt="失落巨型动物群之地">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8088)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2082162644371349900) | **发布时间:** Jul 28, 2026
+
+---
+### 1960 年代复古时尚肖像，配以马赛克翅膀
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个为 Grok Imagine 准备的电影感视频提示词，主角是一位身穿红裙、背负巨大黑金马赛克翅膀的女性，风格致敬 1960 年代的高级时装摄影。
+
+#### 📝 提示词
+
+```
+超写实 1960 年代复古摄影，一位优雅的女性，皮肤上有雀斑，留着长直且有光泽的白发，平刘海，深邃的蓝色眼睛，正回头凝视。她身穿极简风格的红色抹胸裙——优雅、平滑、修身。巨大的戏剧性黑金马赛克翅膀占据了几乎整个画面，几乎填满了屏幕，由重叠的几何形状黑金玻璃片组成，带有强烈的虹彩金属光泽。她手中拿着一个奢华的水晶心形香水瓶，瓶身晶莹剔透，细节精致。戏剧性的电影感侧光，对比强烈，皮肤、红裙和香水瓶上有柔和的高光，极简的深色摄影棚背景。1970 年代至 1980 年代的高级时装杂志风格，温暖的复古胶片色调，细腻的胶片颗粒感。极其细腻的皮肤纹理和雀斑，面部和头发焦点极其锐利，浅景深，奶油般虚化的背景，16K 超写实，杰作，最高画质。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082145868107415552/img/adcq93hsCJLPlxmC.jpg" width="600" alt="1960 年代复古时尚肖像，配以马赛克翅膀">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8100)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **来源:** [Link](https://x.com/monicamoonx/status/2082145993550868756) | **发布时间:** Jul 28, 2026
+
+---
+### 奇幻水下犀牛王国
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个超现实且充满想象力的视频提示词，描绘了由海豹和美人鱼统治的水下王国中的犀牛。
+
+#### 📝 提示词
+
+```
+犀牛潜入深海，来到一个由海豹统治的水下王国，海豹们雇佣美人鱼担任接待员。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082094123595550720/img/AExvo18sMhAOldhO.jpg" width="600" alt="奇幻水下犀牛王国">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8092)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2082094189953556535) | **发布时间:** Jul 28, 2026
+
+---
+### 犀牛海底珊瑚礁探索
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个超现实且充满想象力的视频提示词：犀牛潜入海洋，在珊瑚礁和美人鱼之间游弋。
+
+#### 📝 提示词
+
+```
+潜入深海 
+
+犀牛潜入波浪之下，游向覆盖着大型活性珊瑚礁的海底。这里栖息着极其丰富的海洋生物，而它们正与美人鱼共同生活在这里。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082092331210088448/img/WNEtJ_J6ZR_eFeU1.jpg" width="600" alt="犀牛海底珊瑚礁探索">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8096)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2082092410855706805) | **发布时间:** Jul 28, 2026
+
+---
+### 变异马与狼的形态转换
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个富有创意的视频提示词，描述了奔跑的马匹转化为肌肉发达的狼人变异体的过程。
+
+#### 📝 提示词
+
+```
+释放潜能 ⛓️‍💥
+
+这些奔跑的马匹正在转化为肌肉发达、与狼结合的变异体。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082083275057598464/img/oMXM7rq7XCgGRYtv.jpg" width="600" alt="变异马与狼的形态转换">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8091)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2082083301209096323) | **发布时间:** Jul 28, 2026
+
+---
+### Aura Wizards 城市预告片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于居住在美国、身着时尚夏装的巫师的预告片风格提示词。
+
+#### 📝 提示词
+
+```
+像哈利·波特一样的 Aura 巫师居住在美国，并与其他人在街头漫步，身着简约而时尚的夏装，以此为主题的预告片
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082042224292814848/img/DOaZdB7VKN_G8xEf.jpg" width="600" alt="Aura Wizards 城市预告片">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8089)**
+
+**作者:** [Chadwick A Sutton](https://x.com/BioMindBeliever) | **来源:** [Link](https://x.com/BioMindBeliever/status/2082042244391981565) | **发布时间:** Jul 28, 2026
+
+---
+### 克利奥帕特拉与日月共舞
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个详细的日语提示词，用于创作一段艺术视频：克利奥帕特拉面部绘有色彩斑斓的图案，周围环绕着旋转的宇宙元素。
+
+#### 📝 提示词
+
+```
+我将装扮成克利奥帕特拉。白色的月亮和橙色的太阳在四周熠熠生辉，悬挂在天空中。我化身为克利奥帕特拉，带着爱、纯洁、梦想与希望的宁静微笑，大声歌唱着对幸福、勇气、决心、财富、爱与和平的感悟。我的脸，即女王的脸，以绘画风格涂上了红、蓝、黄、绿、黑、白等原色。我的头发向外散开，在白色背景上呈现出黑色线条。在头发末端，那些正在晕染并即将消失的地方，是紫色天空中的月亮和太阳。月亮和太阳正在旋转。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081954481311465472/img/COw-w_FyuZtt_qRx.jpg" width="600" alt="克利奥帕特拉与日月共舞">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8098)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **来源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2081954818181206424) | **发布时间:** Jul 28, 2026
+
+---
+### 非裔美洲原住民女神动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于具有特定民族特征和积极寓意的女神角色的详细视频提示词。
+
+#### 📝 提示词
+
+```
+将我变成一位非裔美洲原住民女神，拥有美丽的长卷发、深邃光滑的肤色、高颧骨、丹凤眼以及迷人的微笑——并配上“永不放弃”的台词。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081937002711429120/img/5odyLugnAsgKhsJ-.jpg" width="600" alt="非裔美洲原住民女神动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8097)**
+
+**作者:** [𝓒𝓱𝓪𝓻𝓶𝓪𝓲𝓷𝓮🍫🍀](https://x.com/lovelyhousecat) | **来源:** [Link](https://x.com/lovelyhousecat/status/2081937054024577402) | **发布时间:** Jul 28, 2026
+
+---
+### Grok Imagine 跑步角色动画
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个用于创建跑步动画循环的 Grok Imagine 提示词，包含球衣颜色变换以及挤压与拉伸等流畅动作技巧。
+
+#### 📝 提示词
+
+```
+球衣颜色每 0.7 秒变换一次。首尾帧平滑衔接。运用挤压与拉伸及预备动作技巧，呈现自然柔和的动态。跑步，弧线运动，慢速，循环，12 fps，无对话。
+```
+
+<img src="https://cms-assets.youmind.com/media/1785313939438_567xi2_HOR1I_sbMAAJiiW.jpg" width="600" alt="Grok Imagine 跑步角色动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8099)**
+
+**作者:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **来源:** [Link](https://x.com/FC_Cicadas/status/2081923401623724240) | **发布时间:** Jul 28, 2026
+
+---
 ### 阳光下野花草地上的马匹
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +441,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8021)**
 
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **发布时间:** Jul 28, 2026
+
+---
+### 空灵太空姐妹动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频转换提示词，将主体编辑为漂浮在地球轨道上空的空灵宇宙角色。
+
+#### 📝 提示词
+
+```
+将这位女性编辑为漂浮在发光地球上方太空中的空灵太空姐妹。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081848480302321664/img/DDwab0kbch1s9G2v.jpg" width="600" alt="空灵太空姐妹动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8094)**
+
+**作者:** [Amir Prince](https://x.com/princeduduamir) | **来源:** [Link](https://x.com/princeduduamir/status/2081848508160610723) | **发布时间:** Jul 27, 2026
 
 ---
 ### 生物发光水族馆海豚漩涡
@@ -2087,269 +2341,6 @@ Annabelle 🪻🌸🌹🐞🍇⛲️🌲
 **作者:** [MarketMaverick](https://x.com/AKCapStrat) | **来源:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **发布时间:** Jul 17, 2026
 
 ---
-### 夜间码头剪影视频编辑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个多步骤的视频提示词，用于添加萤火虫，并将湖边码头上的情侣转化为星空剪影。
-
-#### 📝 提示词
-
-```
-添加萤火虫
-添加坐在码头尽头、双脚浸在水中的男女
-将男女转化为星空剪影
-
-男女坐在码头尽头面向湖面，背对镜头
-男女转头看向彼此...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078175189876228096/img/-c3jM7q83iyyeDax.jpg" width="600" alt="夜间码头剪影视频编辑">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7453)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2078175251276652699) | **发布时间:** Jul 17, 2026
-
----
-### 饱经风霜的老人独白
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个精致的电影级提示词，用于生成一位老人分享人生智慧的超写实特写镜头，包含细腻的纹理和同步的对话。
-
-#### 📝 提示词
-
-```
-一位老人的亲密超写实特写肖像，皮肤饱经风霜，留着银灰色胡须，眼神深邃且富有表现力，表情宁静而沉思。他的脸庞几乎填满了整个画面，细腻地呈现出细纹、自然的皮肤纹理、老年斑以及细微的瑕疵，具有极高的写实感。柔和的漫射光从一侧射入，轻轻勾勒出他的面部轮廓，并在眼周和颧骨处投下微妙的阴影。采用冷色调的蓝绿色调，浅景深，背景虚化，电影级构图，真实的纪实摄影风格，85mm 人像镜头，f/1.8 光圈，焦点精准对准双眼，带有细微的胶片颗粒感，高动态范围，原始且永恒的氛围。
-
-镜头保持一个连续的超写实特写，并伴有几乎察觉不到的缓慢推进。老人自然地呼吸，偶尔眨眼，随着记忆浮现做出细微的微表情。他的双眼微微闪烁，在结尾处露出一抹淡淡的沉思微笑。他的双唇随着同步的对话自然开合，同时与镜头保持平静的眼神交流。每一个面部动作都显得真实且内敛。
-
-对话（15 秒）：
-“年轻时，我追逐成功，以为它能永恒。现在我明白了……你与所爱之人共度的时光，才是时间永远无法夺走的东西。”
-
-自然的对话节奏，伴有轻柔的停顿，完美的唇形同步，逼真的面部肌肉运动，细微的眼部动作，轻柔的呼吸，纪实风格的表演，无夸张演技，无字幕，无屏幕文字，无背景音乐，仅保留安静的室内环境音和他温暖自然的嗓音。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078126631454130176/img/Qu2cocBFk9NfFjaz.jpg" width="600" alt="饱经风霜的老人独白">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7458)**
-
-**作者:** [BMX](https://x.com/bmx_ai13) | **来源:** [Link](https://x.com/bmx_ai13/status/2078126675540455669) | **发布时间:** Jul 17, 2026
-
----
-### 座头鲸空间之门
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个超现实的电影感提示词：座头鲸化身为跨维度宇宙飞船，成为外星物种的穿梭之门。
-
-#### 📝 提示词
-
-```
-Humpback 🐋 永不言弃 👽🛸
-
-这一场景转化为通往另一个维度的门户，在那里，座头鲸 🐋 化身为宇宙飞船 🚀，在外星物种之间穿梭于各个世界……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078118809253158912/img/GNQu9B67SskBJ0EK.jpg" width="600" alt="座头鲸空间之门">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7456)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2078118847979106524) | **发布时间:** Jul 17, 2026
-
----
-### 杂技武术格斗
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高强度的动作提示词，展示了技艺精湛的杂技演员在戏剧性的武术场景中对决，全程多角度拍摄，无对白。
-
-#### 📝 提示词
-
-```
-他们两人都是训练有素的杂技演员，且精通各种武术。他们杀气腾腾，动作从未停歇。全方位的摄像覆盖捕捉到了每一次接触和惊险瞬间。戏剧性的灯光效果。无对白，无音乐。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078088291551707136/img/pblRDCAL2KzHNICH.jpg" width="600" alt="杂技武术格斗">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7459)**
-
-**作者:** [Datedman](https://x.com/Datedman) | **来源:** [Link](https://x.com/Datedman/status/2078088307477447101) | **发布时间:** Jul 17, 2026
-
----
-### 职业形象照转换
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个旨在将输入照片转换为专业摄影棚形象照，同时保留面部细节的转换提示词。
-
-#### 📝 提示词
-
-```
-将此照片转换为一张照片级真实的专业摄影棚形象照，要求呈现完全相同的人物——保留其面部几何结构、比例、棕色短发、发际线、淡淡的胡茬、肤色、带有真实痣和纹理的自然皮肤质感、外貌年龄以及 f...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078072979250925568/img/FJevrN9Yi-6Oh8QY.jpg" width="600" alt="职业形象照转换">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7448)**
-
-**作者:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **来源:** [Link](https://x.com/Yesyesyes_OK/status/2078072992219709491) | **发布时间:** Jul 17, 2026
-
----
-### 像骑马一样骑摩托车
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个独特的动作提示词：角色像骑马一样跨上并骑行摩托车，背景设定为海浪拍打的码头。
-
-#### 📝 提示词
-
-```
-像骑马一样跨上摩托车，左腿必须从同一辆摩托车的上方跨过，保持完全相同的摩托车型号和服装，在海浪拍打的码头上进行一场狂喜的骑行
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078059962836684800/img/VXEx_TgMlsQDue7T.jpg" width="600" alt="像骑马一样骑摩托车">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7457)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2078060007975694402) | **发布时间:** Jul 17, 2026
-
----
-### 未来感海上城市与飞行豪华轿车
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于超未来感海上城市的电影级详细提示词，包含变形豪华载具与黄金时刻的灯光效果。
-
-#### 📝 提示词
-
-```
-俯瞰视角，展现一支由变形豪华载具组成的舰队——船体可折叠成飞行轿车的游艇，以及可收纳为设计师行李箱的卡丁车——在由光桥连接的堆叠式海上别墅间穿梭。每一处表面都如镜面般明亮：黑曜石般的水面、铂金质感的建筑、全息标牌。黄金时刻的阳光掠过湿润的倒影，展现出极致奢华的超未来感海上城市，呈现出令人惊叹的光泽细节与昂贵的电影级质感。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078050676949590016/img/ARFEnSWuZFj3_nPS.jpg" width="600" alt="未来感海上城市与飞行豪华轿车">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7454)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2078053374671347881) | **发布时间:** Jul 17, 2026
-
----
-### 时尚 T 台走秀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个以角色为中心的提示词，描述一位穿着靴子的时尚女性自信地走秀，展现出一种“惹是生非”的态度。
-
-#### 📝 提示词
-
-```
-绝佳的穿搭，现在把所有元素组合起来，穿着那双靴子走秀，展现出你那种让人难以抗拒的“危险”魅力
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078048484221968384/img/O17b8JlonNgwa-FR.jpg" width="600" alt="时尚 T 台走秀">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7444)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2078048544540270970) | **发布时间:** Jul 17, 2026
-
----
-### 跳伞的狗与降落伞企鹅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满想象力的提示词，用于生成一只狗与一只戴着跳伞护目镜的降落伞企鹅之间的视频互动。
-
-#### 📝 提示词
-
-```
-在狗的旁边也放上一只背着降落伞的企鹅，并让它们互相交谈——让它们都戴上跳伞护目镜
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077932647708508160/img/Fe-GLcxLdpmIuJkn.jpg" width="600" alt="跳伞的狗与降落伞企鹅">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7455)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **来源:** [Link](https://x.com/RobinMurrat43a/status/2077932663261032730) | **发布时间:** Jul 17, 2026
-
----
-### 接近空间传送门
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段视频提示词，描绘了一个角色在混乱的环境中小心翼翼地接近一个未知传送门的场景。
-
-#### 📝 提示词
-
-```
-他正小心翼翼地接近一个未知的传送门
-
-在混乱中谨慎前行，完全感受不到那股灼热！
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077926118774931456/img/5X1CFQdfzARRmlOz.jpg" width="600" alt="接近空间传送门">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7450)**
-
-**作者:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **来源:** [Link](https://x.com/foxypatience/status/2077926150936912218) | **发布时间:** Jul 17, 2026
-
----
-### 伦敦日落下的柴犬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影感提示词，描绘了一只银灰色柴犬在黄金时刻俯瞰泰晤士河畔标志性的伦敦天际线。
-
-#### 📝 提示词
-
-```
-一只竖着耳朵、拥有迷人蓝眼睛的银灰色柴犬站在黄金时刻的河岸边，平静地注视着泰晤士河对岸的伦敦天际线——大本钟、碎片大厦、伦敦眼和伦敦塔桥在温暖的夕阳余晖中熠熠生辉。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077868761458376704/img/FyWQxZTpgDfVMbJ9.jpg" width="600" alt="伦敦日落下的柴犬">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7356)**
-
-**作者:** [Robert Heinlein](https://x.com/strangerinastr) | **来源:** [Link](https://x.com/strangerinastr/status/2077868780055838815) | **发布时间:** Jul 16, 2026
-
----
-### 垂直弹跳动态视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个专注于动态效果的提示词，旨在让图像中的女孩呈现出具有电影质感的节奏性垂直弹跳动作。
-
-#### 📝 提示词
-
-```
-利用此图像创作一段短小流畅的电影级视频。仅聚焦于女孩。她表现出强劲且有节奏的垂直弹跳动作，身体轴心保持稳定，姿态挺拔。动作严格限制在垂直上下方向，且...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077866562829074432/img/-afTiZDQYx4iTFL0.jpg" width="600" alt="垂直弹跳动态视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7358)**
-
-**作者:** [Devonte Sterling](https://x.com/DevonteStel08) | **来源:** [Link](https://x.com/DevonteStel08/status/2077866579241353371) | **发布时间:** Jul 16, 2026
-
----
-### Vladimir Putin 与 Kim Jong Il 的电影感会面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一张充满戏剧张力的动作惊悚片电影剧照，捕捉了 Vladimir Putin 与 Kim Jong Il 在金碧辉煌的宫殿中私下会面的紧张瞬间。
-
-#### 📝 提示词
-
-```
-采用 2:3 竖构图的电影感动作惊悚片剧照：Vladimir Putin（参考图 1）与 Kim Jong Il（参考图 2）在金碧辉煌的宫殿客厅中私下会面，气氛紧张——低垂的琥珀色灯光、天鹅绒窗帘、水晶玻璃杯……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077846656297451520/img/wL3QogxgIEqz6yxW.jpg" width="600" alt="Vladimir Putin 与 Kim Jong Il 的电影感会面">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7370)**
-
-**作者:** [Erkki Heliö](https://x.com/erkki_helio) | **来源:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **发布时间:** Jul 16, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2411,6 +2402,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-29T06:55:01.223Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-29T10:58:44.336Z</sub>
 
 </div>

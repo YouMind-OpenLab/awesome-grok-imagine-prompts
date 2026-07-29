@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2242** |
+| 📝 Total Prompts | **2255** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-29** |
 
@@ -189,6 +189,241 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Tiện ích mở rộng Cuban Plaza Dancers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video cho Grok Imagine giúp thêm hai vũ công vui vẻ mới vào cảnh quay tham chiếu về một lễ hội tại quảng trường Cuba.
+
+#### 📝 Prompt
+
+```
+Thêm hai người phụ nữ thanh lịch mới đang nhảy múa vui vẻ cùng hai vũ công đã có trong hình ảnh đầu tiên, trong cùng một khung cảnh lễ hội quảng trường Cuba sôi động vì một đất nước Cuba tự do.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082332490052886528/img/hShvSTUf2DkmaxD8.jpg" width="600" alt="Tiện ích mở rộng Cuban Plaza Dancers">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8095)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2082332516825129295) | **Published:** Jul 29, 2026
+
+---
+### Tàu vũ trụ SpaceX Starship chạy trên mặt nước
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video đầy sáng tạo mô tả tàu vũ trụ SpaceX Starship đang nổi trên đại dương và di chuyển như một chiếc tàu cao tốc với động cơ đang hoạt động.
+
+#### 📝 Prompt
+
+```
+Tàu vũ trụ SpaceX Starship nổi trên đại dương với động cơ tên lửa đang hoạt động như một chiếc tàu cao tốc
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082282176201281536/img/H9RbjBFgsGpBubEH.jpg" width="600" alt="Tàu vũ trụ SpaceX Starship chạy trên mặt nước">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8093)**
+
+**Author:** [Matthew Peters](https://x.com/Matthew38546207) | **Source:** [Link](https://x.com/Matthew38546207/status/2082282199089545619) | **Published:** Jul 29, 2026
+
+---
+### Cá vàng với dải ruy băng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt đầy tinh tế với hình ảnh những chú cá vàng bơi lội cùng dải ruy băng hoa hướng dương trang trí.
+
+#### 📝 Prompt
+
+```
+Cá vàng bơi lội thanh thoát, kéo theo những dải ruy băng màu vàng và đỏ
+Thêm họa tiết hoa hướng dương vào dải ruy băng
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082189523707195392/img/nXpp6GNbP8moe4wh.jpg" width="600" alt="Cá vàng với dải ruy băng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8090)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082189578849710225) | **Published:** Jul 28, 2026
+
+---
+### Vùng đất của các loài động vật khổng lồ đã mất
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh mô tả góc nhìn từ trên cao xuống các đàn động vật khổng lồ trên một bình nguyên thiên hà.
+
+#### 📝 Prompt
+
+```
+Vùng đất của những điều đã mất 
+
+Anh ấy sà xuống để quan sát kỹ hơn những đàn động vật khổng lồ đan xen nhau đang di chuyển trên các bình nguyên, nơi chỉ tồn tại ở khu vực này của thiên hà.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082162598921801728/img/yIS-mPRnnrVoie60.jpg" width="600" alt="Vùng đất của các loài động vật khổng lồ đã mất">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8088)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082162644371349900) | **Published:** Jul 28, 2026
+
+---
+### Chân dung thời trang retro thập niên 1960 với đôi cánh khảm mosaic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh cho Grok Imagine, khắc họa một người phụ nữ mặc váy đỏ với đôi cánh khảm mosaic đen vàng cỡ lớn, theo phong cách nhiếp ảnh thời trang cao cấp thập niên 1960.
+
+#### 📝 Prompt
+
+```
+Ảnh chụp phong cách retro thập niên 1960 siêu thực về một người phụ nữ thanh lịch với làn da tàn nhang, mái tóc dài thẳng mượt mà màu trắng với phần mái bằng và đôi mắt xanh thẳm, đang nhìn qua vai. Cô ấy mặc một chiếc váy đỏ cúp ngực tối giản – thanh lịch, mượt mà, ôm sát cơ thể. Đôi cánh khảm mosaic đen vàng kịch tính, khổng lồ chiếm gần như toàn bộ khung hình, bao phủ gần hết màn hình, được tạo thành từ các mảnh thủy tinh hình học màu đen và vàng chồng lên nhau với độ bóng kim loại óng ánh mạnh mẽ. Trên tay cô cầm một chai nước hoa hình trái tim bằng pha lê sang trọng với thân chai trong suốt sáng bóng và các chi tiết tinh tế. Ánh sáng điện ảnh bên hông đầy kịch tính với độ tương phản mạnh, các điểm nhấn mềm mại trên da, váy đỏ và chai nước hoa, phông nền studio tối giản. Phong cách biên tập thời trang cao cấp từ thập niên 1970 - 1980, tông màu phim cổ điển ấm áp, hạt phim tinh tế. Kết cấu da và tàn nhang cực kỳ chi tiết, lấy nét sắc sảo vào khuôn mặt và mái tóc, độ sâu trường ảnh nông, hiệu ứng bokeh mượt mà, siêu thực 16K, kiệt tác, chất lượng tốt nhất.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082145868107415552/img/adcq93hsCJLPlxmC.jpg" width="600" alt="Chân dung thời trang retro thập niên 1960 với đôi cánh khảm mosaic">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8100)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2082145993550868756) | **Published:** Jul 28, 2026
+
+---
+### Vương quốc tê giác dưới đáy đại dương huyền ảo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video đầy tính siêu thực và giàu trí tưởng tượng về những chú tê giác trong vương quốc dưới nước, nơi được cai trị bởi hải cẩu và nàng tiên cá.
+
+#### 📝 Prompt
+
+```
+Những chú tê giác lặn sâu xuống một vương quốc dưới nước, nơi được cai trị bởi những chú hải cẩu sử dụng nàng tiên cá làm người tiếp đón.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082094123595550720/img/AExvo18sMhAOldhO.jpg" width="600" alt="Vương quốc tê giác dưới đáy đại dương huyền ảo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8092)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082094189953556535) | **Published:** Jul 28, 2026
+
+---
+### Khám phá rạn san hô dưới đáy biển cùng tê giác
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt đầy chất siêu thực và giàu trí tưởng tượng, nơi những chú tê giác lặn xuống đại dương và bơi lội giữa các rạn san hô cùng những nàng tiên cá.
+
+#### 📝 Prompt
+
+```
+Lặn sâu dưới làn nước 
+
+Những chú tê giác lặn xuống dưới những con sóng và bơi đến đáy đại dương, nơi có một rạn san hô sống động rộng lớn, là mái nhà của hệ sinh thái biển đa dạng cùng những nàng tiên cá đang cùng chung sống tại đó.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082092331210088448/img/WNEtJ_J6ZR_eFeU1.jpg" width="600" alt="Khám phá rạn san hô dưới đáy biển cùng tê giác">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8096)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082092410855706805) | **Published:** Jul 28, 2026
+
+---
+### Biến hình Ngựa và Sói đột biến
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video sáng tạo mô tả cảnh những chú ngựa đang phi nước đại biến hình thành các sinh vật đột biến cơ bắp lai với sói.
+
+#### 📝 Prompt
+
+```
+Giải phóng sức mạnh ⛓️‍💥
+
+Những chú ngựa đang phi nước đại này biến hình thành các sinh vật đột biến với cơ bắp cuồn cuộn, lai giữa ngựa và sói.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082083275057598464/img/oMXM7rq7XCgGRYtv.jpg" width="600" alt="Biến hình Ngựa và Sói đột biến">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8091)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082083301209096323) | **Published:** Jul 28, 2026
+
+---
+### Trailer phong cách Aura Wizards
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) theo phong cách trailer về các phù thủy sống tại Mỹ trong trang phục mùa hè thời thượng.
+
+#### 📝 Prompt
+
+```
+Trailer về các phù thủy Aura giống như Harry Potter đang sống tại Mỹ, đi dạo cùng mọi người trong những bộ trang phục giản dị nhưng đầy phong cách cho mùa hè
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082042224292814848/img/DOaZdB7VKN_G8xEf.jpg" width="600" alt="Trailer phong cách Aura Wizards">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8089)**
+
+**Author:** [Chadwick A Sutton](https://x.com/BioMindBeliever) | **Source:** [Link](https://x.com/BioMindBeliever/status/2082042244391981565) | **Published:** Jul 28, 2026
+
+---
+### Cleopatra nhảy múa cùng Mặt Trăng và Mặt Trời
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh (prompt) chi tiết bằng tiếng Nhật cho video nghệ thuật về Cleopatra với khuôn mặt được vẽ đầy màu sắc cùng các yếu tố vũ trụ đang xoay chuyển.
+
+#### 📝 Prompt
+
+```
+Tôi sẽ hóa thân thành Cleopatra. Mặt trăng trắng và mặt trời cam tỏa sáng rực rỡ xung quanh. Chúng hiện diện trên bầu trời. Tôi trở thành Cleopatra và cất tiếng hát vang về sự nhận thức về hạnh phúc, lòng dũng cảm, sự quyết tâm, vận may, tình yêu và hòa bình với nụ cười an nhiên của tình yêu, sự thuần khiết, những giấc mơ và hy vọng. Khuôn mặt tôi, khuôn mặt của nữ hoàng, được tô điểm bằng các màu cơ bản như đỏ, xanh dương, vàng, xanh lá, đen và trắng theo phong cách hội họa. Mái tóc tôi tỏa ra xung quanh với những đường nét đen trên nền trắng. Ở phần đuôi tóc đang nhòe đi và dần biến mất là hình ảnh mặt trăng và mặt trời trên bầu trời tím. Mặt trăng và mặt trời đang xoay tròn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081954481311465472/img/COw-w_FyuZtt_qRx.jpg" width="600" alt="Cleopatra nhảy múa cùng Mặt Trăng và Mặt Trời">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8098)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2081954818181206424) | **Published:** Jul 28, 2026
+
+---
+### Hoạt hình nữ thần mang dòng máu Afro-Native American
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video chi tiết về nhân vật nữ thần với các đặc điểm sắc tộc cụ thể và thông điệp tích cực.
+
+#### 📝 Prompt
+
+```
+Hãy biến tôi thành một nữ thần mang dòng máu Afro-Native American, mái tóc xoăn dài tuyệt đẹp, làn da ngăm đen mịn màng, gò má cao, đôi mắt xếch, nụ cười rạng rỡ - đang nói thông điệp đừng bao giờ bỏ cuộc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081937002711429120/img/5odyLugnAsgKhsJ-.jpg" width="600" alt="Hoạt hình nữ thần mang dòng máu Afro-Native American">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8097)**
+
+**Author:** [𝓒𝓱𝓪𝓻𝓶𝓪𝓲𝓷𝓮🍫🍀](https://x.com/lovelyhousecat) | **Source:** [Link](https://x.com/lovelyhousecat/status/2081937054024577402) | **Published:** Jul 28, 2026
+
+---
+### Grok Imagine: Hoạt ảnh nhân vật đang chạy
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh Grok Imagine để tạo vòng lặp hoạt ảnh nhân vật đang chạy với hiệu ứng thay đổi màu áo và các kỹ thuật chuyển động mượt mà như squash and stretch.
+
+#### 📝 Prompt
+
+```
+Màu áo thay đổi mỗi 0,7 giây. Kết nối mượt mà khung hình đầu tiên và cuối cùng. Chuyển động tự nhiên và nhẹ nhàng sử dụng các kỹ thuật squash and stretch và anticipation. Đang chạy, chuyển động theo đường cong, Chậm, Lặp lại, 12 fps, không có lời thoại.
+```
+
+<img src="https://cms-assets.youmind.com/media/1785313939438_567xi2_HOR1I_sbMAAJiiW.jpg" width="600" alt="Grok Imagine: Hoạt ảnh nhân vật đang chạy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8099)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2081923401623724240) | **Published:** Jul 28, 2026
+
+---
 ### Những chú ngựa đang gặm cỏ trên đồng hoa dại đầy nắng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +441,25 @@ Hai chú ngựa đang lặng lẽ gặm cỏ giữa những bông hoa dại trê
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
+
+---
+### Hoạt ảnh Chị gái Không gian Huyền ảo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chuyển đổi video giúp chỉnh sửa chủ thể thành một nhân vật vũ trụ huyền ảo đang lơ lửng trên quỹ đạo phía trên Trái Đất.
+
+#### 📝 Prompt
+
+```
+Chỉnh sửa người phụ nữ thành một chị gái Không gian huyền ảo đang lơ lửng trong không gian phía trên Trái Đất rực rỡ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081848480302321664/img/DDwab0kbch1s9G2v.jpg" width="600" alt="Hoạt ảnh Chị gái Không gian Huyền ảo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8094)**
+
+**Author:** [Amir Prince](https://x.com/princeduduamir) | **Source:** [Link](https://x.com/princeduduamir/status/2081848508160610723) | **Published:** Jul 27, 2026
 
 ---
 ### Bể cá phát quang với xoáy nước cá heo
@@ -2086,269 +2340,6 @@ Giữ cho mọi chuyển động đều bình lặng, chậm rãi và tự nhiê
 **Author:** [MarketMaverick](https://x.com/AKCapStrat) | **Source:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **Published:** Jul 17, 2026
 
 ---
-### Chỉnh sửa video bóng hình trên cầu cảng vào ban đêm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video gồm nhiều bước được sử dụng để thêm đom đóm và biến đổi một cặp đôi thành những bóng hình vũ trụ trên cầu cảng ven hồ.
-
-#### 📝 Prompt
-
-```
-Thêm đom đóm
-Thêm hình ảnh một người đàn ông và một người phụ nữ đang ngồi ở cuối cầu cảng với đôi chân thả dưới nước
-Chuyển đổi người đàn ông và người phụ nữ thành những bóng hình vũ trụ
-
-Người đàn ông và người phụ nữ đang ngồi ở cuối cầu cảng, quay lưng về phía hồ
-Người đàn ông và người phụ nữ quay mặt nhìn nhau...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078175189876228096/img/-c3jM7q83iyyeDax.jpg" width="600" alt="Chỉnh sửa video bóng hình trên cầu cảng vào ban đêm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7453)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2078175251276652699) | **Published:** Jul 17, 2026
-
----
-### Độc thoại của người đàn ông lớn tuổi trải đời
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh tinh tế để tạo cận cảnh cực đại chân thực về một người đàn ông lớn tuổi đang chia sẻ những chiêm nghiệm, với kết cấu chi tiết và lời thoại đồng bộ.
-
-#### 📝 Prompt
-
-```
-Chân dung cận cảnh cực đại đầy cảm xúc của một người đàn ông lớn tuổi với làn da hằn sâu dấu vết thời gian, bộ râu màu xám bạc, đôi mắt xanh xám đầy biểu cảm cùng vẻ mặt tĩnh lặng, suy tư. Khuôn mặt ông chiếm gần trọn khung hình, để lộ những nếp nhăn mảnh, kết cấu da tự nhiên, đồi mồi và những khuyết điểm tinh tế với độ chân thực tuyệt đối. Ánh sáng ban ngày dịu nhẹ chiếu từ một phía, khéo léo làm nổi bật các đường nét trên khuôn mặt, đồng thời tạo ra những bóng đổ mềm mại quanh mắt và gò má. Phối màu xanh dương và xanh mòng két khử bão hòa, độ sâu trường ảnh nông, hậu cảnh mờ ảo, bố cục điện ảnh, phong cách nhiếp ảnh tài liệu đầy cảm xúc, ống kính chân dung 85mm, khẩu độ f/1.8, lấy nét sắc nét vào đôi mắt, hạt phim tinh tế, dải tương phản động cao, bầu không khí thô mộc, vượt thời gian.
-
-Máy quay giữ một góc cận cảnh cực đại liên tục với chuyển động tiến chậm gần như không thể nhận thấy. Người đàn ông thở tự nhiên, thỉnh thoảng chớp mắt và có những biểu cảm vi mô tinh tế khi ký ức ùa về. Đôi mắt ông hơi long lanh, và một nụ cười nhẹ nhàng, suy tư xuất hiện gần cuối. Đôi môi ông chuyển động với lời thoại được đồng bộ hoàn hảo trong khi vẫn duy trì giao tiếp bằng mắt đầy bình tĩnh với máy quay. Mọi cử động trên khuôn mặt đều chân thực và tinh tế.
-
-Lời thoại (15 giây):
-“Khi còn trẻ, tôi theo đuổi thành công vì nghĩ rằng nó sẽ kéo dài mãi mãi. Giờ đây tôi mới hiểu… những khoảnh khắc bạn chia sẻ cùng người mình yêu thương là điều duy nhất mà thời gian không bao giờ có thể lấy đi.”
-
-Nhịp điệu trò chuyện tự nhiên với những khoảng lặng nhẹ nhàng, đồng bộ môi hoàn hảo, chuyển động cơ mặt chân thực, cử động mắt tinh tế, hơi thở nhẹ, phong cách diễn xuất tài liệu, không cường điệu, không phụ đề, không văn bản trên màn hình, không nhạc nền, chỉ có âm thanh tĩnh lặng của căn phòng và sự ấm áp từ giọng nói tự nhiên của ông.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078126631454130176/img/Qu2cocBFk9NfFjaz.jpg" width="600" alt="Độc thoại của người đàn ông lớn tuổi trải đời">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7458)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2078126675540455669) | **Published:** Jul 17, 2026
-
----
-### Cổng không gian cá voi lưng gù
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh siêu thực, nơi những chú cá voi lưng gù biến hình thành các phi thuyền không gian liên chiều và cổng dịch chuyển cho các loài sinh vật ngoài hành tinh.
-
-#### 📝 Prompt
-
-```
-Humpback 🐋 không hề đùa đâu 👽🛸
-
-Khung cảnh này biến đổi thành một cánh cổng dẫn đến chiều không gian khác, nơi những chú cá voi lưng gù 🐋 chính là các phi thuyền 🚀 vận chuyển những loài sinh vật ngoài hành tinh giữa các thế giới....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078118809253158912/img/GNQu9B67SskBJ0EK.jpg" width="600" alt="Cổng không gian cá voi lưng gù">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7456)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078118847979106524) | **Published:** Jul 17, 2026
-
----
-### Võ thuật nhào lộn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh hành động cường độ cao với các nghệ sĩ nhào lộn điêu luyện trong một phân cảnh võ thuật kịch tính, được quay toàn cảnh và không có lời thoại.
-
-#### 📝 Prompt
-
-```
-Cả hai đều là những nghệ sĩ nhào lộn được đào tạo bài bản và thông thạo mọi kỹ năng võ thuật. Họ quyết đấu một mất một còn và không ngừng di chuyển. Góc máy bao quát bắt trọn mọi cú va chạm và những pha suýt trúng. Ánh sáng kịch tính. Không lời thoại, không âm nhạc.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078088291551707136/img/pblRDCAL2KzHNICH.jpg" width="600" alt="Võ thuật nhào lộn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7459)**
-
-**Author:** [Datedman](https://x.com/Datedman) | **Source:** [Link](https://x.com/Datedman/status/2078088307477447101) | **Published:** Jul 17, 2026
-
----
-### Chuyển đổi hình ảnh chân dung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chuyển đổi được thiết kế để biến ảnh đầu vào thành ảnh chân dung chuyên nghiệp tại studio mà vẫn giữ nguyên các chi tiết khuôn mặt.
-
-#### 📝 Prompt
-
-```
-Hãy chuyển đổi hình ảnh này thành ảnh chân dung chuyên nghiệp tại studio, chân thực như ảnh chụp, của cùng một người đàn ông đó — giữ nguyên cấu trúc khuôn mặt, tỷ lệ, mái tóc nâu ngắn, đường chân tóc, râu quai nón nhạt, tông màu da, kết cấu da tự nhiên với các nốt ruồi và nếp nhăn thực tế, độ tuổi hiện tại, và f...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078072979250925568/img/FJevrN9Yi-6Oh8QY.jpg" width="600" alt="Chuyển đổi hình ảnh chân dung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7448)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2078072992219709491) | **Published:** Jul 17, 2026
-
----
-### Cưỡi mô tô theo phong cách cưỡi ngựa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chuyển động độc đáo mô tả nhân vật leo lên và lái xe mô tô như thể đang cưỡi ngựa, với bối cảnh là những con sóng vỗ rì rào.
-
-#### 📝 Prompt
-
-```
-leo lên mô tô giống như cưỡi ngựa, chân trái phải vắt qua đúng chiếc mô tô đó, đúng mẫu xe đó, đúng trang phục đó, lái xe đầy phấn khích dọc theo cầu cảng với những con sóng đang vỗ mạnh
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078059962836684800/img/VXEx_TgMlsQDue7T.jpg" width="600" alt="Cưỡi mô tô theo phong cách cưỡi ngựa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7457)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078060007975694402) | **Published:** Jul 17, 2026
-
----
-### Thành phố đại dương tương lai với những chiếc limousine bay
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh chi tiết cao dành cho một thành phố siêu tương lai trên mặt nước, nổi bật với các phương tiện sang trọng có khả năng biến hình và ánh sáng giờ vàng.
-
-#### 📝 Prompt
-
-```
-Góc nhìn từ trên không về một đội phương tiện sang trọng có khả năng biến hình—thân du thuyền gập lại thành limousine bay, xe go-kart thu gọn thành hành lý thiết kế—lướt giữa các biệt thự đại dương xếp chồng lên nhau được kết nối bằng những cây cầu ánh sáng. Mọi bề mặt đều sáng bóng như gương: nước màu đá obsidian, kiến trúc bạch kim, bảng hiệu ba chiều. Ánh nắng giờ vàng trải dài trên những vệt phản chiếu ướt át, thành phố trên mặt nước siêu sang trọng và đậm chất tương lai, chi tiết bóng bẩy đến kinh ngạc cùng quy mô điện ảnh đắt giá.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078050676949590016/img/ARFEnSWuZFj3_nPS.jpg" width="600" alt="Thành phố đại dương tương lai với những chiếc limousine bay">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7454)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078053374671347881) | **Published:** Jul 17, 2026
-
----
-### Sải bước trên sàn diễn thời trang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tập trung vào nhân vật, mô tả một người phụ nữ sành điệu đang tự tin sải bước trong đôi bốt, toát lên thần thái của một cô nàng nổi loạn.
-
-#### 📝 Prompt
-
-```
-trang phục tuyệt vời, hãy phối tất cả lại với nhau và sải bước với đôi bốt đó như thể bạn là một cô nàng đầy rắc rối
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078048484221968384/img/O17b8JlonNgwa-FR.jpg" width="600" alt="Sải bước trên sàn diễn thời trang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7444)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078048544540270970) | **Published:** Jul 17, 2026
-
----
-### Chú chó nhảy dù và chú chim cánh cụt lướt gió
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh đầy sáng tạo cho video tương tác giữa một chú chó và một chú chim cánh cụt đang nhảy dù, cả hai đều đeo kính bảo hộ chuyên dụng.
-
-#### 📝 Prompt
-
-```
-Bên cạnh chú chó, hãy thêm một chú chim cánh cụt đang dùng dù và để chúng trò chuyện với nhau - cả hai đều phải đeo kính bảo hộ nhảy dù
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077932647708508160/img/Fe-GLcxLdpmIuJkn.jpg" width="600" alt="Chú chó nhảy dù và chú chim cánh cụt lướt gió">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7455)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2077932663261032730) | **Published:** Jul 17, 2026
-
----
-### Tiếp cận Cổng không gian
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt mô tả một nhân vật đang thận trọng tiến về phía một cánh cổng bí ẩn giữa khung cảnh hỗn loạn.
-
-#### 📝 Prompt
-
-```
-anh ấy đang thận trọng tiến về phía một cánh cổng bí ẩn
-
-Cẩn thận bước đi giữa sự hỗn loạn, không cảm nhận được hơi nóng !
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077926118774931456/img/5X1CFQdfzARRmlOz.jpg" width="600" alt="Tiếp cận Cổng không gian">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7450)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2077926150936912218) | **Published:** Jul 17, 2026
-
----
-### Shiba Inu ngắm hoàng hôn tại London
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) đậm chất điện ảnh mô tả chú chó Shiba Inu màu xám bạc đang nhìn ra đường chân trời biểu tượng của London trong khoảnh khắc hoàng hôn bên bờ sông Thames.
-
-#### 📝 Prompt
-
-```
-Một chú chó Shiba Inu màu xám bạc với đôi tai dựng đứng và đôi mắt xanh ấn tượng đang đứng trên bờ kè ven sông vào giờ vàng, bình tĩnh quan sát đường chân trời London bên kia sông Thames—Big Ben, tòa nhà The Shard, vòng quay London Eye và cầu Tower Bridge đang tỏa sáng trong ánh hoàng hôn ấm áp.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077868761458376704/img/FyWQxZTpgDfVMbJ9.jpg" width="600" alt="Shiba Inu ngắm hoàng hôn tại London">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7356)**
-
-**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2077868780055838815) | **Published:** Jul 16, 2026
-
----
-### Video chuyển động nảy theo chiều dọc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tập trung vào chuyển động được thiết kế để tạo hiệu ứng hoạt ảnh cho hình ảnh một cô gái đang thực hiện động tác nảy theo nhịp điệu theo chiều dọc với cảm giác đậm chất điện ảnh.
-
-#### 📝 Prompt
-
-```
-Tạo một video ngắn mượt mà đậm chất điện ảnh từ hình ảnh này. Chỉ tập trung vào cô gái. Cô ấy thực hiện động tác nảy theo nhịp điệu mạnh mẽ theo chiều dọc với trục cơ thể ổn định ở chính giữa và tư thế thẳng đứng. Chuyển động chỉ hoàn toàn theo hướng lên xuống, với...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077866562829074432/img/-afTiZDQYx4iTFL0.jpg" width="600" alt="Video chuyển động nảy theo chiều dọc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7358)**
-
-**Author:** [Devonte Sterling](https://x.com/DevonteStel08) | **Source:** [Link](https://x.com/DevonteStel08/status/2077866579241353371) | **Published:** Jul 16, 2026
-
----
-### Cuộc gặp gỡ đậm chất điện ảnh giữa Vladimir Putin và Kim Jong Il
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một bức ảnh tĩnh thuộc thể loại hành động - giật gân đầy kịch tính, ghi lại khoảnh khắc riêng tư căng thẳng giữa Vladimir Putin và Kim Jong Il trong một cung điện dát vàng.
-
-#### 📝 Prompt
-
-```
-Ảnh tĩnh hành động - giật gân đậm chất điện ảnh với khung hình dọc 2:3: Vladimir Putin từ hình ảnh tham chiếu thứ nhất và Kim Jong Il từ hình ảnh tham chiếu thứ hai đang chia sẻ một khoảnh khắc riêng tư căng thẳng khi ở một mình trong phòng khách của một cung điện dát vàng—ánh đèn vàng dịu nhẹ, rèm nhung, ly pha lê...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077846656297451520/img/wL3QogxgIEqz6yxW.jpg" width="600" alt="Cuộc gặp gỡ đậm chất điện ảnh giữa Vladimir Putin và Kim Jong Il">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7370)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2410,6 +2401,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-29T06:55:05.243Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-29T10:58:49.906Z</sub>
 
 </div>
