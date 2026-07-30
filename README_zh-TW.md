@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2255** |
+| 📝 提示詞總數 | **2262** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-30** |
 
@@ -189,6 +189,142 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### He-Man 閃電變身影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影級的影片提示詞，描述了變身為 He-Man 的過程，包含戲劇性的天空光影與能量特效。
+
+#### 📝 提示詞
+
+```
+再製作一個影片，內容是我坐在椅子上，接收到從天而降並流向我頭上頭盔的閃電能量，隨著閃電湧入，我一邊抽搐一邊擺脫腦中的聲音。請讓我說出：「Bring on the lightning and zap these Aliens! I hate Xenu!」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082720000192950272/img/WssvnsGpO8VrNpYX.jpg" width="600" alt="He-Man 閃電變身影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8102)**
+
+**作者:** [The Love King](https://x.com/ryanwilson2015) | **來源:** [Link](https://x.com/ryanwilson2015/status/2082720018236928104) | **發布時間:** Jul 30, 2026
+
+---
+### 神秘巨龍俏皮漫步
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於生成藍色與黃色巨龍的影片提示詞，這些巨龍擁有獨特的鱗片，正朝著紅色穀倉走去。
+
+#### 📝 提示詞
+
+```
+加入擁有八角形鱗片的藍色巨龍 
+擁有三角形鱗片的黃色巨龍 
+俏皮地並肩走向紅色穀倉 
+讓巨龍看起來更具神秘感
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082703619489660930/img/FarIJccUtoOH14rf.jpg" width="600" alt="神秘巨龍俏皮漫步">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8104)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2082703667103473802) | **發布時間:** Jul 30, 2026
+
+---
+### 賽博藝伎霓虹雨景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個超細緻的電影感提示詞，描繪了在霓虹燈雨巷中，賽博藝伎與機器貓的賽博龐克場景。
+
+#### 📝 提示詞
+
+```
+深夜的賽博龐克小巷，大雨滂沱，粉色、青色與紫色的霓虹燈在濕漉漉的地面上形成倒影。一位 20 多歲、容貌柔和的絕美日本女性，留著黑色長髮，身穿現代賽博藝伎服裝：優雅的黑色絲綢和服，繡有發光的霓虹刺繡，高開衩設計，搭配過膝長靴。她輕柔地懷抱著一隻毛茸茸的銀白色貓咪，貓咪有著明亮的大眼睛和微小的發光賽博耳部植入物。雨滴輕柔地落在她們的臉龐與毛髮上。淺景深，霓虹燈投射出體積光，超細緻，充滿情感與寧靜的氛圍，使用 85mm 鏡頭拍攝，電影級燈光，高對比度，8k 解析度
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082651121911263232/img/8raU0QhnkJ0W22rK.jpg" width="600" alt="賽博藝伎霓虹雨景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8103)**
+
+**作者:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **來源:** [Link](https://x.com/JinxLovesCats/status/2082651158082920752) | **發布時間:** Jul 30, 2026
+
+---
+### 紅色潑墨字母變形
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個動畫提示詞，描述紅色潑墨效果在變形為不同字母的同時，保持潑墨的視覺風格。
+
+#### 📝 提示詞
+
+```
+紅色潑墨效果從字母 A 變形為 K，接著變形為 O，最後變形為 S，過程中始終保持潑墨的視覺效果
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082618211988635648/img/QZ9yYDl0wE1cU0pl.jpg" width="600" alt="紅色潑墨字母變形">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8107)**
+
+**作者:** [AKOS ᴺᶠᵀ](https://x.com/akosphoto) | **來源:** [Link](https://x.com/akosphoto/status/2082618270775927099) | **發布時間:** Jul 30, 2026
+
+---
+### 漂浮在海洋中的火箭
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿創意的影片提示詞：一枚火箭水平漂浮在海洋中，一名男子為其安裝了馬達，並騎在火箭上方乘風破浪抵達岸邊。
+
+#### 📝 提示詞
+
+```
+請製作一段影片，畫面中有一枚火箭漂浮在海洋上。接著，一名男子出現，將一個馬達安裝在火箭後方，並騎在火箭上方，駕駛著它抵達岸邊。請確保火箭保持水平漂浮的狀態。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082558692818378753/img/LXf39o6qexTkJk72.jpg" width="600" alt="漂浮在海洋中的火箭">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8106)**
+
+**作者:** [Sofia @ Sacred Petals™](https://x.com/LightTemple) | **來源:** [Link](https://x.com/LightTemple/status/2082558813836620150) | **發布時間:** Jul 29, 2026
+
+---
+### 古墓尋寶
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個極具細節、電影感十足的影片提示詞，用於創作一個 15 秒、發生在墓室中充滿懸疑感的冒險場景。
+
+#### 📝 提示詞
+
+```
+Alice 用手電筒照向石棺，在遺骸中發現了一塊奇特的金屬徽章。她心中頓生疑慮，隨即關掉手電筒，在黑暗中緩緩後退，隱約感覺到墓室裡不只有她一個人。這是一個 15 秒寫實風格的電影感尋寶場景，發生在古老的墓室中，充滿懸疑、真實感，且情緒層層遞進，宛如高品質冒險電影中危險降臨前的那一刻。一位女性探險家俯身在敞開的石棺上，手持手電筒觀察著木乃伊遺骸及其陪葬品。她注意到遺骸中放著一塊奇特的金屬牌，仔細端詳並輕輕觸碰，隨後在金屬牌與骷髏之間來回打量，彷彿在思索它為何會出現在這裡。遺骸紋絲不動，完全沒有任何動靜。但一股靜謐的不安感開始蔓延。她用手電筒緩緩掃視周圍的墓室，聽到墓室深處傳來一聲輕響，她嚇了一跳，更加警覺地再次掃過光束，隨後果斷關掉手電筒，神情極度不安地退入黑暗中。視覺基調：紮實的冒險電影寫實感、塵封古墓的氛圍、穿透黑暗的溫暖手電筒光束、斑駁的石塊、墓葬雕刻、乾燥的碎屑、細微的霧氣，以及充滿質感的皮膚、織物、灰塵和陳舊的文物。墓室應呈現出神聖、幽閉且令人感到「不對勁」的真實感。非奇幻魔法，也非誇張的恐怖片。恐懼應源於真實感、寂靜、黑暗、飄落的塵埃，以及墓室中似乎有某種存在正在注視著她的感覺。角色表演與情緒弧線：探險家起初專注於謹慎的調查。當她注意到金屬牌時，表情因發現稀世珍寶的專注與不安而變得緊繃。她看起來像是一個意識到自己發現了重要物品，但直覺告訴她這東西不該出現在陪葬品中的人。她的情緒變化應清晰而細膩：警覺的好奇心、入迷的審視、升起的疑慮、對環境的本能感知、受驚後的後退、防禦性的掃視，以及克制的恐懼。強調微表情：盯著金屬牌時微微瞇起的雙眼、研究時微微張開的嘴唇、屏住的呼吸、皺起的眉頭、視線在物品與周圍墓室間的轉換、聽到遠處聲響後緊繃的下顎，以及撤退時努力保持冷靜的緊繃神情。手電筒的運用至關重要：手電筒必須是敘事的核心元素。起初，光束穩定且實用，引導她對石棺和金屬牌的檢查。光束應隨手部自然移動，揭示金屬牌、裹屍布、骨骼結構和灰塵的細節。在她觸碰金屬牌並感到不安後，手電筒成為她本能掃視房間的一部分，小心翼翼地掠過棺材邊緣、附近的牆壁、陰影角落和更深處的黑暗。聽到聲響後，手電筒應隨著她的驚嚇反應晃動一下，隨後在檢查墓室時變成一道克制但急促的光束。最後，她必須親自做出一個清晰、果斷的動作將其關閉。光束不應閃爍或自行熄滅。關燈的動作必須像是一個突如其來的生存決策，也是一個明確的轉折點。肢體語言與手部細節：她全程單手持手電筒。另一隻手扮演重要角色：懸在金屬牌上方，停頓，然後用指尖輕輕拂過或描繪其表面。她的姿勢應自然演變：俯身檢查石棺，研究金屬牌時身體前傾，微微抬頭比較金屬牌與骷髏及裹屍布，然後緩緩直起身子觀察墓室。聽到聲音後，身體應本能地後縮，隨後在掃視時進入防禦姿態。關燈後，她邁著謹慎、測量過的步伐後退，肩膀緊繃，臉部和注意力始終鎖定在黑暗中。屍體表現：身體和骷髏必須始終保持完全靜止。切勿以任何方式讓屍體產生動作。懸疑感應完全來自於她的反應、環境、墓室深處的聲響、飄落的塵埃，以及關掉手電筒的決定。灰塵與環境細節：細微的灰塵和粉末應在營造不安感中發揮積極作用。場景初期，手電筒捕捉到靜止空氣中漂浮的微塵。隨著不安感加劇和遠處聲響出現，細塵開始從上方明顯飄落，穿過光束，輕柔地落在石塊和石棺邊緣。保持細膩且真實。沒有大規模坍塌，沒有大型碎片。墓室應感覺古老、乾燥、安靜且略顯不穩，灰塵讓黑暗顯得彷彿有生命般。攝影語言：流暢、自然且由懸疑感驅動。無突兀剪輯，無花俏的運鏡技巧，無蒙太奇。首選單一連續的流動鏡頭。鏡頭應從石棺和她上半身近處開始，讓觀眾能同時看清金屬牌和她的臉。鏡頭應隨她的注意力流暢移動：在她檢查金屬牌時稍微拉近，隨視線轉向骷髏和裹屍布，然後適度拉寬，讓手電筒的掃視揭示更多墓室細節。當墓室深處傳來聲響時，鏡頭應保持清晰且親密，回應她的後縮與撤退，而不顯得混亂。鏡頭運動應像是一位謹慎的電影見證者，始終由她的注意力和恐懼所驅動。15 秒場景進程：0-3 秒：她俯身在敞開的石棺上，用手電筒緩緩掃過遺骸和陪葬品。光束照在裹屍布和骨頭間的一塊奇特金屬牌上。她立刻停下，雙眼因專注的好奇而瞇起。她用低沉、好奇的聲音說：「等等……這是什麼？」3-6 秒：她降低光束並靠近金屬牌，研究其表面、邊緣和紋路。空閒的手緩緩抬起，猶豫片刻後輕觸金屬牌，用指尖拂去上面的灰塵。她的表情從發現轉為疑慮。她低聲自語：「不……這不可能是意外放在這裡的。」6-9 秒：她依然專注，將視線從金屬牌移向骷髏和周圍的裹屍布，試圖理解這件物品為何會出現在此。一切靜止。遺骸紋絲不動。但一股靜謐的不安感爬上她的臉龐。她緩緩舉起手電筒開始環顧墓室，先是眼神掃視，隨後光束掠過棺材邊緣、附近的牆壁、陰影角落以及更深處的黑暗空間。細塵在光束中懸浮。9-12 秒：當她繼續掃視墓室時，墓室深處傳來一聲輕響——輕微的刮擦聲、石塊移動聲或遠處乾燥物體的碰撞聲。她嚇了一跳，向後退了半步，手電筒光束隨動作晃動了一下。灰塵開始從上方明顯飄落，穿過光束。她緊握手電筒，更加警覺地再次掃視，此刻已完全進入戒備狀態。她用低沉、緊張的聲音說：「不……不，我聽到了。」12-15 秒：她突然意識到光線暴露了自己的位置。她做出一個清晰、果斷的動作，按下了手電筒開關。黑暗瞬間籠罩，只剩下微弱的環境光和漂浮的塵埃。她小心翼翼地後退，肩膀緊繃，雙眼死死盯著前方的黑暗。她以極低的耳語說道：「這裡面有東西。」結尾應營造出墓室不再空無一人的氛圍。對話要求：- 英文
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082489516733140994/img/ZncWPdN1YY6C1cMQ.jpg" width="600" alt="古墓尋寶">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8108)**
+
+**作者:** [Loriel.AI](https://x.com/ou_zhen599) | **來源:** [Link](https://x.com/ou_zhen599/status/2082490046972936620) | **發布時間:** Jul 29, 2026
+
+---
+### 大理石馬賽克貓咪肖像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個極致細膩且超寫實的提示詞，用於生成完全由精緻大理石馬賽克磚與礦物碎片構成的貓咪肖像。
+
+#### 📝 提示詞
+
+```
+超細膩、超寫實的貓咪側面肖像，完全由精緻的大理石馬賽克磚與拋光礦物碎片構成。貓咪戴著一頂印有花朵標誌與風格化字母圖案的大理石馬賽克棒球帽，以及一副鑲嵌礦物馬賽克鏡片的圓形石框眼鏡。其鬍鬚、下巴處的毛髮與面部細節皆由細緻的石材絲線與磚塊雕琢而成。皮膚與毛髮由微小的拋光大理石方塊組成，呈現出奢華的石材馬賽克質感。沿著下顎線與頸部，微型未來派石材摩天大樓與建築結構從馬賽克表面有機地浮現，將貓咪形態與大理石大都會完美融合。貓爪若有所思地托著下巴，同樣覆蓋著細膩的大理石馬賽克磚，並佩戴著鑲嵌發光深色寶石的華麗石戒。其服裝是一件精緻的大理石馬賽克衣物，裝飾著向日葵般的飾品與幾何圖案。戲劇性的攝影棚燈光突顯了拋光石材表面與極致細節。深黑色背景營造高對比度。超清晰對焦、電影級燈光、奢華編輯攝影風格、超真實質感、極致細節、藝術傑作。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082488996022947840/img/tC0K1qojgoLhdW5P.jpg" width="600" alt="大理石馬賽克貓咪肖像">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8105)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2082489044496507259) | **發布時間:** Jul 29, 2026
+
+---
 ### Cuban Plaza Dancers 擴充功能
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2200,146 +2336,6 @@ Meowlow
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2078242696322322629) | **發布時間:** Jul 17, 2026
 
 ---
-### 太空船逃脫動作場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個關於外星人與身穿栗色連身裙的女子在爆炸的太空船中奔跑的動作提示詞。
-
-#### 📝 提示詞
-
-```
-高大的藍色外星人與留著波浪長金髮辮子、戴著鑽石耳環和鑽石項鍊、身穿栗色連身裙的美麗女士，正手牽手在太空船中奔跑，身後則是接連引爆的炸彈。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078238146882367488/img/Ird_lFOGKNY_zjgd.jpg" width="600" alt="太空船逃脫動作場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7446)**
-
-**作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **來源:** [Link](https://x.com/blarneytrades/status/2078238181154013612) | **發布時間:** Jul 17, 2026
-
----
-### 聶魯達詩歌電影感推軌變焦
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個結合巴勃羅·聶魯達詩歌與緩慢推軌變焦鏡頭拍攝人臉的電影感影片提示詞。
-
-#### 📝 提示詞
-
-```
-讓我用你的沉默對你說話——像燈一樣明亮，像戒指一樣簡單。你就像夜晚，安靜而繁星點點。你的沉默就像一顆星星——如此遙遠而簡單。我喜歡你沉默的時候，因為你彷彿不在場。——巴勃羅·聶魯達——《詩歌 15 首》（1924 年）
-緩慢的電影感推軌變焦，鏡頭向她的臉部推進，同時她轉過頭……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078235059685826560/img/78MU6Gf3yJ8bUvLC.jpg" width="600" alt="聶魯達詩歌電影感推軌變焦">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7461)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **來源:** [Link](https://x.com/clemensilverio/status/2078235180951654614) | **發布時間:** Jul 17, 2026
-
----
-### 月球十字紀念碑影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一部宏大且具電影感的影片提示詞，描繪了全球齊心協力在月球上豎立一座輝煌十字架的壯舉。
-
-#### 📝 提示詞
-
-```
-想像全世界團結一致，在月球上豎立第一個十字架，場面壯麗，且所有細節都令人驚嘆
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078206578407157760/img/oGzyeg8T7_EDDSAe.jpg" width="600" alt="月球十字紀念碑影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7452)**
-
-**作者:** [the_light](https://x.com/the_light35) | **來源:** [Link](https://x.com/the_light35/status/2078206660540039569) | **發布時間:** Jul 17, 2026
-
----
-### 科幻恐怖繭狀動態
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個詳細的科幻恐怖提示詞，描述在大理石地板上被困於橡膠繭中的掙扎過程。
-
-#### 📝 提示詞
-
-```
-行李員的黑色橡膠繭傾斜並重重地摔在開著的箱子旁，金色的房間地板上，隨後在堅硬且有光澤的豆莢內劇烈蠕動與扭動，在大理石地面上左右滾動，呈現出科幻恐怖的電影級動態。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078205269784293376/img/iQJKcRtp2Ub1ntkM.jpg" width="600" alt="科幻恐怖繭狀動態">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7460)**
-
-**作者:** [William Looby](https://x.com/WilliamLooby) | **來源:** [Link](https://x.com/WilliamLooby/status/2078205297802289155) | **發布時間:** Jul 17, 2026
-
----
-### 科幻外星太空舞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個詳細的科幻提示詞，描繪了一名外星人與一名身穿黑色緊身衣的女子在太空船甲板上跳舞的場景。
-
-#### 📝 提示詞
-
-```
-高大的藍色外星人與美麗的女士正在緩慢共舞，女士留著帶有辮子的金色波浪長髮，佩戴鑽石耳環與鑽石項鍊，兩人皆戴著防毒面具，在太空船的主甲板上緩慢起舞，背景有煙火與 b...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078184093070630912/img/89vs2_ijTQiKvpTk.jpg" width="600" alt="科幻外星太空舞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7445)**
-
-**作者:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **來源:** [Link](https://x.com/abitoblarney/status/2078184117875744912) | **發布時間:** Jul 17, 2026
-
----
-### 青春之泉秘密花園
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿綠意、風景優美的提示詞，用於生成帶有噴泉與寧靜氛圍的神祕花園影片。
-
-#### 📝 提示詞
-
-```
-Annabelle 🪻🌸🌹🐞🍇⛲️🌲
-
-這座美麗的花園正是青春之泉的所在地。它提供了永恆生命與長久平靜的源泉 ✌️。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078183762882338817/img/bW9GjeVYURMKIgCk.jpg" width="600" alt="青春之泉秘密花園">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7451)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2078183805542609356) | **發布時間:** Jul 17, 2026
-
----
-### 無縫季風雨循環
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個複雜的多部分提示詞，用於製作一個完美的靜態攝影機鏡頭，呈現帶有閃爍燈光與水波紋的雨景。
-
-#### 📝 提示詞
-
-```
-靜態固定腳架鏡頭，攝影機完全靜止。無變焦、無平移、無推拉，無任何形式的攝影機運動。畫面從第一幀到最後一幀保持完全相同的大小與位置，以實現無縫循環。
-
-僅有以下元素在輕柔且持續地移動：沉重的季風雨穩定落下，穿過溫暖的燈光並留下雨痕；雨滴輕柔地濺起，在靜止的倒影池中激起漣漪；黃銅油燈（diyas）的火焰溫暖地閃爍；懸掛的燈具幾乎難以察覺地搖曳；背景中緩慢飄動的薄霧；遠處微弱的燈光在雨中閃爍。
-
-保持所有動作平靜、緩慢且自然，使片段的開頭與結尾看起來幾乎一致。流暢的電影級無縫循環，無剪輯、無跳幀、無場景切換、無攝影機偏移。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078177855280730112/img/JfojpFLsFGeQndvX.jpg" width="600" alt="無縫季風雨循環">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7447)**
-
-**作者:** [MarketMaverick](https://x.com/AKCapStrat) | **來源:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **發布時間:** Jul 17, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2401,6 +2397,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-30T06:51:01.820Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-30T10:48:55.075Z</sub>
 
 </div>

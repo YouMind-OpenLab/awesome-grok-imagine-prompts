@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2255** |
+| 📝 Total Prompts | **2262** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-30** |
 
@@ -189,6 +189,142 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Video biến hình He-Man đầy kịch tính
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video điện ảnh mô tả cảnh biến hình thành He-Man với hiệu ứng ánh sáng bầu trời và năng lượng đầy kịch tính.
+
+#### 📝 Prompt
+
+```
+Hãy tạo một video khác với hình ảnh tôi đang ngồi trên ghế, nhận luồng năng lượng với ánh sáng từ trên trời đổ xuống chiếc mũ bảo hiểm trên đầu tôi, giúp tôi thoát khỏi những giọng nói trong đầu khi cơ thể đang co giật. Hãy để tôi nói: 'Mang sấm sét đến đây và tiêu diệt lũ người ngoài hành tinh này!' Tôi ghét Xenu!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082720000192950272/img/WssvnsGpO8VrNpYX.jpg" width="600" alt="Video biến hình He-Man đầy kịch tính">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8102)**
+
+**Author:** [The Love King](https://x.com/ryanwilson2015) | **Source:** [Link](https://x.com/ryanwilson2015/status/2082720018236928104) | **Published:** Jul 30, 2026
+
+---
+### Những chú rồng huyền bí dạo bước tinh nghịch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video để tạo ra những chú rồng màu xanh dương và vàng với lớp vảy đặc trưng đang đi về phía một nhà kho màu đỏ.
+
+#### 📝 Prompt
+
+```
+Thêm rồng xanh dương với vảy hình bát giác 
+Rồng vàng với vảy hình tam giác 
+Cùng nhau dạo bước tinh nghịch về phía nhà kho màu đỏ 
+Làm cho những chú rồng trông huyền bí hơn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082703619489660930/img/FarIJccUtoOH14rf.jpg" width="600" alt="Những chú rồng huyền bí dạo bước tinh nghịch">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8104)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082703667103473802) | **Published:** Jul 30, 2026
+
+---
+### Cảnh mưa neon Cyber-Geisha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh siêu chi tiết cho khung cảnh cyberpunk với sự xuất hiện của một cyber-geisha và một chú mèo robot trong con hẻm dưới mưa ánh đèn neon.
+
+#### 📝 Prompt
+
+```
+Con hẻm cyberpunk điện ảnh vào ban đêm dưới cơn mưa nặng hạt, các bảng hiệu neon phản chiếu trên mặt đường ướt át với sắc hồng, lục lam và tím. Một người phụ nữ Nhật Bản tuyệt đẹp ở độ tuổi đôi mươi với mái tóc đen dài, khuôn mặt thanh tú, mặc trang phục cyber-geisha hiện đại: bộ kimono lụa đen thanh lịch với những đường thêu neon phát sáng, xẻ tà cao, đi bốt cao đến đùi. Cô đang nhẹ nhàng ôm một chú mèo lông trắng bạc mềm mại với đôi mắt to sáng rực và những thiết bị cấy ghép điều khiển học nhỏ xíu phát sáng trên tai. Những giọt mưa nhẹ đọng trên khuôn mặt và bộ lông của chúng. Độ sâu trường ảnh nông, các tia sáng thể tích từ biển hiệu neon, siêu chi tiết, bầu không khí đầy cảm xúc và thanh bình, được quay bằng ống kính 85mm, ánh sáng điện ảnh, độ tương phản cao, 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082651121911263232/img/8raU0QhnkJ0W22rK.jpg" width="600" alt="Cảnh mưa neon Cyber-Geisha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8103)**
+
+**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2082651158082920752) | **Published:** Jul 30, 2026
+
+---
+### Hiệu ứng biến hình chữ bằng vệt sơn đỏ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo hoạt ảnh (animation prompt), trong đó vệt sơn màu đỏ biến hình qua các chữ cái khác nhau trong khi vẫn duy trì hiệu ứng bắn tung tóe.
+
+#### 📝 Prompt
+
+```
+vòng tròn vệt sơn màu đỏ biến hình từ chữ a sang chữ k rồi đến chữ o và cuối cùng là chữ s trong khi vẫn giữ nguyên hiệu ứng bắn tung tóe của màu sắc
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082618211988635648/img/QZ9yYDl0wE1cU0pl.jpg" width="600" alt="Hiệu ứng biến hình chữ bằng vệt sơn đỏ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8107)**
+
+**Author:** [AKOS ᴺᶠᵀ](https://x.com/akosphoto) | **Source:** [Link](https://x.com/akosphoto/status/2082618270775927099) | **Published:** Jul 30, 2026
+
+---
+### Tên lửa trôi trên đại dương
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video sáng tạo, trong đó một tên lửa trôi theo chiều ngang trên đại dương và được một người đàn ông gắn động cơ để lái vào bờ.
+
+#### 📝 Prompt
+
+```
+Hãy tạo một video về một tên lửa đang trôi trên đại dương. Sau đó, một người đàn ông xuất hiện, gắn động cơ vào phía sau tên lửa và lái nó vào bờ trong khi ngồi trên đỉnh tên lửa đó. Vui lòng làm cho tên lửa trôi theo chiều ngang.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082558692818378753/img/LXf39o6qexTkJk72.jpg" width="600" alt="Tên lửa trôi trên đại dương">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8106)**
+
+**Author:** [Sofia @ Sacred Petals™](https://x.com/LightTemple) | **Source:** [Link](https://x.com/LightTemple/status/2082558813836620150) | **Published:** Jul 29, 2026
+
+---
+### Cuộc săn tìm kho báu trong lăng mộ cổ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video điện ảnh, chi tiết cao cho phân cảnh phiêu lưu đầy kịch tính dài 15 giây trong một căn phòng chôn cất.
+
+#### 📝 Prompt
+
+```
+Alice chiếu đèn pin vào chiếc quan tài đá và phát hiện một tấm huy chương kim loại lạ ẩn giữa những hài cốt. Sự nghi ngờ dấy lên trong tâm trí, cô tắt đèn pin và lùi lại chậm rãi trong bóng tối, mơ hồ cảm thấy mình không chỉ có một mình trong lăng mộ. Một cảnh quay săn tìm kho báu điện ảnh chân thực dài 15 giây bên trong một căn phòng chôn cất cổ đại, đầy kịch tính, thực tế và leo thang cảm xúc, giống như một khoảnh khắc trong bộ phim phiêu lưu chất lượng cao ngay trước khi điều nguy hiểm lộ diện. Một nữ thám hiểm cúi người trên chiếc quan tài đá mở, nghiên cứu một xác ướp và các vật tùy táng bằng đèn pin trên tay. Cô nhận thấy một tấm bảng kim loại lạ nằm giữa các hài cốt, kiểm tra kỹ lưỡng, chạm nhẹ vào nó, rồi nhìn qua lại giữa tấm bảng và hộp sọ như thể đang cố hiểu tại sao nó lại ở đó. Không có gì trên cơ thể cử động. Hài cốt vẫn hoàn toàn bất động. Nhưng một sự bất an lặng lẽ bắt đầu hình thành. Cô chậm rãi quét đèn pin quanh căn phòng, nghe thấy một âm thanh khẽ từ sâu trong lăng mộ, giật mình, quét tia sáng lần nữa với sự thận trọng sắc bén hơn, rồi đột ngột tắt đèn pin và lùi lại cẩn thận vào bóng tối, cảm thấy vô cùng bất an. Tông màu hình ảnh: chủ nghĩa hiện thực phim phiêu lưu thực tế, bầu không khí lăng mộ cổ bụi bặm, tia sáng đèn pin ấm áp cắt ngang bóng tối, đá cũ, các hình chạm khắc chôn cất, mảnh vụn khô, lớp sương mù tinh tế, kết cấu da, vải, bụi và các cổ vật đã mòn. Căn phòng nên mang lại cảm giác thiêng liêng, ngột ngạt và sai trái theo một cách đáng tin. Không phải phép thuật giả tưởng, không phải kinh dị cường điệu. Nỗi sợ hãi nên đến từ chủ nghĩa hiện thực, sự im lặng, bóng tối, bụi rơi và cảm giác rằng thứ gì đó trong lăng mộ có thể đang nhận thức được sự hiện diện của cô. Diễn xuất nhân vật và cung bậc cảm xúc: Nhà thám hiểm bắt đầu với sự tập trung điều tra thận trọng. Khi cô nhận thấy tấm bảng, biểu cảm của cô thắt lại thành sự tập trung khám phá hiếm có pha lẫn bất an. Cô trông giống như một người biết mình có thể đã tìm thấy thứ gì đó quan trọng, nhưng ngay lập tức cảm thấy nó không thuộc về các vật phẩm chôn cất một cách tự nhiên. Sự tiến triển cảm xúc của cô nên rõ ràng và tinh tế: sự tò mò cảnh giác, kiểm tra đầy mê hoặc, sự nghi ngờ dâng cao, nhận thức môi trường theo bản năng, giật mình lùi lại, quét phòng phòng thủ và nỗi sợ hãi được kiểm soát. Nhấn mạnh các biểu cảm nhỏ: mắt nheo lại khi nhìn tấm bảng, môi hơi hé mở khi cô nghiên cứu nó, hơi thở lắng xuống, lông mày nhíu lại, ánh mắt chuyển từ vật thể sang căn phòng xung quanh, hàm thắt lại sau âm thanh xa xăm, và một nỗ lực căng thẳng rõ rệt để giữ bình tĩnh trong khi rút lui. Hành vi đèn pin là rất quan trọng: Đèn pin phải là một yếu tố kể chuyện chính. Lúc đầu, nó ổn định và thiết thực, hướng dẫn cô kiểm tra quan tài và tấm bảng. Tia sáng nên di chuyển tự nhiên theo tay cô, tiết lộ chi tiết trên tấm bảng, lớp vải quấn, cấu trúc xương và bụi. Sau khi cô chạm vào tấm bảng và bắt đầu cảm thấy bất an, đèn pin trở thành một phần trong quá trình quét phòng theo bản năng của cô, di chuyển cẩn thận qua các cạnh quan tài, các bức tường gần đó, các góc tối và bóng tối sâu hơn. Sau âm thanh, đèn pin nên giật một lần với phản ứng giật mình của cô, sau đó trở thành một tia sáng có kiểm soát nhưng khẩn cấp khi cô kiểm tra căn phòng. Gần cuối, cô phải chủ động tự tắt nó trong một hành động rõ ràng, dứt khoát. Nó không nên tự nhấp nháy hoặc tắt ngóm. Việc tắt đèn phải mang lại cảm giác như một quyết định sinh tồn đột ngột và một bước ngoặt không thể nhầm lẫn. Ngôn ngữ cơ thể và chi tiết bàn tay: Cô cầm đèn pin bằng một tay trong suốt quá trình. Tay còn lại đóng vai trò quan trọng: nó lơ lửng trên tấm bảng, tạm dừng, sau đó nhẹ nhàng chải hoặc lần theo bề mặt của nó bằng đầu ngón tay. Tư thế của cô nên phát triển tự nhiên: cúi người trên quan tài để kiểm tra, tiến lại gần hơn khi nghiên cứu tấm bảng, hơi nâng đầu để so sánh tấm bảng với hộp sọ và lớp vải quấn, sau đó từ từ đứng thẳng vừa đủ để nhìn quanh căn phòng. Khi nghe thấy âm thanh, cơ thể cô nên lùi lại một cách tinh tế, sau đó thắt chặt vào tư thế phòng thủ khi cô quét phòng. Sau khi tắt đèn, cô rút lui với những bước đi cẩn thận, đo lường, vai căng cứng, giữ khuôn mặt và sự chú ý cố định về phía bóng tối. Hành vi xác chết: Cơ thể và hộp sọ phải hoàn toàn bất động mọi lúc. Không làm hoạt họa xác chết dưới bất kỳ hình thức nào. Sự hồi hộp nên đến hoàn toàn từ phản ứng của cô, môi trường, âm thanh sâu hơn trong lăng mộ, bụi rơi và quyết định tắt đèn pin. Chi tiết bụi và môi trường: Bụi mịn và bột nên đóng vai trò tích cực trong việc xây dựng sự bất an. Đầu cảnh, đèn pin bắt được bụi lơ lửng mờ nhạt trong không khí tĩnh lặng. Khi sự bất an của cô tăng lên và âm thanh xa xăm xuất hiện, bụi mịn bắt đầu rơi rõ rệt hơn từ trên cao, trôi qua tia sáng và nhẹ nhàng đáp xuống các cạnh đá và quan tài. Hãy giữ nó tinh tế và đáng tin. Không có sự sụp đổ lớn, không có mảnh vụn lớn. Căn phòng nên mang lại cảm giác cổ xưa, khô ráo, yên tĩnh và hơi không ổn định, với bụi giúp bóng tối cảm giác như có người ở. Ngôn ngữ máy quay: Mượt mà, tự nhiên và hướng tới sự hồi hộp. Không cắt cảnh đột ngột, không thủ thuật máy quay hào nhoáng, không dựng phim. Một cú quay liên tục, trôi chảy là ưu tiên. Máy quay nên bắt đầu gần quan tài và phần thân trên của cô, cho phép khán giả đọc được cả tấm bảng và khuôn mặt cô. Nó nên di chuyển linh hoạt theo sự chú ý của cô: tiến lại gần một chút khi cô kiểm tra tấm bảng, chuyển động theo ánh mắt của cô về phía hộp sọ và lớp vải quấn, sau đó mở rộng vừa đủ để tia sáng đèn pin quét lộ ra nhiều hơn căn phòng xung quanh cô. Khi âm thanh đến từ sâu hơn trong lăng mộ, máy quay nên giữ sự dễ đọc và gần gũi, phản ứng với sự lùi lại và rút lui của cô mà không trở nên hỗn loạn. Chuyển động nên mang lại cảm giác như một nhân chứng điện ảnh cẩn thận, luôn được thúc đẩy bởi sự chú ý và nỗi sợ hãi của cô. Tiến trình cảnh 15 giây: 0-3 giây: Cô cúi người trên chiếc quan tài mở, quét tia đèn pin chậm rãi qua các hài cốt và vật tùy táng. Ánh sáng bắt gặp một tấm bảng lạ nằm giữa lớp vải quấn và xương. Cô dừng lại ngay lập tức, mắt nheo lại với sự tò mò tập trung. Với giọng nói nhỏ, đầy tò mò, cô nói: “Khoan đã... cái gì đây?” 3-6 giây: Cô hạ tia sáng xuống và đưa nó lại gần tấm bảng hơn, nghiên cứu bề mặt, các cạnh và ký hiệu của nó. Tay còn lại của cô giơ lên chậm rãi, do dự một chút, rồi nhẹ nhàng chạm vào tấm bảng, phủi bụi khỏi nó bằng đầu ngón tay. Biểu cảm của cô chuyển từ khám phá sang nghi ngờ. Với giọng thấp, gần như tự nói với chính mình, cô nói: “Không... cái này không được đặt ở đây một cách tình cờ.” 6-9 giây: Vẫn tập trung, cô nâng ánh mắt từ tấm bảng lên hộp sọ và lớp vải quấn xung quanh, cố gắng hiểu làm thế nào vật thể đó lại kết thúc ở đó. Không có gì cử động. Hài cốt vẫn hoàn toàn bất động. Nhưng một sự bất an lặng lẽ lắng đọng trên khuôn mặt cô. Cô chậm rãi nâng đèn pin lên và bắt đầu nhìn quanh căn phòng, quét mắt trước, sau đó là tia sáng, qua cạnh quan tài, các bức tường gần đó, các góc tối và không gian tối hơn phía xa. Bụi mịn lơ lửng trong tia sáng. 9-12 giây: Khi cô tiếp tục quét căn phòng, một âm thanh khẽ vang lên từ sâu hơn trong lăng mộ — một tiếng cào nhẹ, một tiếng đá dịch chuyển khẽ, hoặc một tiếng tiếp xúc khô khốc xa xăm. Cô giật mình và lùi lại nửa bước, tia đèn pin giật một lần theo chuyển động của cô. Bụi bắt đầu rơi rõ rệt hơn từ trên cao, trôi qua ánh sáng. Cô thắt chặt tay cầm đèn pin và quét tia sáng lần nữa với sự thận trọng sắc bén hơn, giờ đã hoàn toàn cảnh giác. Với giọng thấp, căng thẳng, cô nói: “Không... không, mình đã nghe thấy tiếng đó.” 12-15 giây: Cô đột nhiên quyết định ánh sáng đang làm lộ vị trí của mình. Trong một hành động rõ ràng, dứt khoát, cô bấm tắt đèn pin. Bóng tối bao trùm ngay lập tức, chỉ để lại những dấu vết xung quanh mờ nhạt và bụi lơ lửng. Cô lùi lại cẩn thận, vai căng cứng, mắt nhìn chằm chằm vào bóng tối phía trước. Với một tiếng thì thầm rất nhỏ, cô nói: “Có thứ gì đó ở đây.” Kết thúc với cảm giác rằng căn phòng không còn trống rỗng nữa. Yêu cầu đối thoại: - Tiếng Anh
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082489516733140994/img/ZncWPdN1YY6C1cMQ.jpg" width="600" alt="Cuộc săn tìm kho báu trong lăng mộ cổ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8108)**
+
+**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2082490046972936620) | **Published:** Jul 29, 2026
+
+---
+### Chân dung mèo bằng tranh ghép đá cẩm thạch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh siêu thực chi tiết đến kinh ngạc cho bức chân dung mèo được tạo hình hoàn toàn từ các mảnh ghép đá cẩm thạch và khoáng vật tinh xảo.
+
+#### 📝 Prompt
+
+```
+Chân dung góc nghiêng siêu thực, chi tiết đến từng milimet của một chú mèo được tạo hình hoàn toàn từ các mảnh ghép đá cẩm thạch tinh xảo và các mảnh khoáng vật được đánh bóng. Chú mèo đội một chiếc mũ bóng chày bằng đá cẩm thạch ghép với biểu tượng bông hoa và họa tiết chữ cách điệu, cùng cặp kính gọng đá tròn với tròng kính ghép từ khoáng vật. Ria mép, bộ lông quanh cằm và các chi tiết khuôn mặt được điêu khắc từ những sợi đá và mảnh ghép tinh tế. Lớp da/lông được cấu tạo từ những ô vuông đá cẩm thạch nhỏ được đánh bóng, tạo nên kết cấu tranh ghép đá sang trọng. Dọc theo đường quai hàm và cổ, những tòa nhà chọc trời và cấu trúc kiến trúc đô thị tương lai thu nhỏ nổi lên một cách tự nhiên từ bề mặt tranh ghép, hòa quyện hình dáng loài mèo với một đô thị đá cẩm thạch. Một bàn chân đặt suy tư trên cằm, được bao phủ bởi cùng loại mảnh ghép đá cẩm thạch chi tiết, đeo những chiếc nhẫn đá cầu kỳ với các viên đá quý tối màu phát sáng. Trang phục là một bộ đồ ghép đá cẩm thạch công phu được trang trí bằng các họa tiết giống hoa hướng dương và các hình khối hình học. Ánh sáng studio ấn tượng làm nổi bật các bề mặt đá được đánh bóng và độ chi tiết cực cao. Nền đen sâu tạo độ tương phản mạnh. Lấy nét siêu sắc nét, ánh sáng điện ảnh, phong cách nhiếp ảnh biên tập sang trọng, kết cấu siêu thực, chi tiết cực độ, kiệt tác.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082488996022947840/img/tC0K1qojgoLhdW5P.jpg" width="600" alt="Chân dung mèo bằng tranh ghép đá cẩm thạch">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8105)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2082489044496507259) | **Published:** Jul 29, 2026
+
+---
 ### Tiện ích mở rộng Cuban Plaza Dancers
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2200,146 +2336,6 @@ chú chuột đồng quê dịu dàng, giọng nói miền Nam, âm thanh nhỏ 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078242696322322629) | **Published:** Jul 17, 2026
 
 ---
-### Cảnh hành động tẩu thoát khỏi tàu vũ trụ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh hành động về người ngoài hành tinh và một phụ nữ mặc váy đỏ sẫm đang chạy qua tàu vũ trụ giữa những vụ nổ.
-
-#### 📝 Prompt
-
-```
-Một người ngoài hành tinh da xanh cao lớn và một quý cô xinh đẹp với mái tóc vàng gợn sóng tết bím, đeo khuyên tai kim cương và vòng cổ kim cương, mặc chiếc váy màu đỏ sẫm đang nắm tay nhau chạy qua tàu vũ trụ trong khi những quả bom đang phát nổ phía sau họ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078238146882367488/img/Ird_lFOGKNY_zjgd.jpg" width="600" alt="Cảnh hành động tẩu thoát khỏi tàu vũ trụ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7446)**
-
-**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2078238181154013612) | **Published:** Jul 17, 2026
-
----
-### Hiệu ứng Dolly Zoom điện ảnh lấy cảm hứng từ thơ Neruda
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video điện ảnh kết hợp thơ của Pablo Neruda với chuyển động máy quay dolly zoom chậm vào khuôn mặt nhân vật.
-
-#### 📝 Prompt
-
-```
-Hãy để tôi nói với em bằng cả sự im lặng của em— trong trẻo như ngọn đèn, giản đơn như chiếc nhẫn. Em tựa như màn đêm, tĩnh lặng và đầy sao. Sự im lặng của em tựa như một vì sao— xa xôi và giản đơn biết bao. Anh thích khi em im lặng, vì dường như em đang vắng mặt. -Pablo Neruda - Bài thơ số 15 (1924) 
-Hiệu ứng dolly zoom điện ảnh chậm rãi tiến dần vào khuôn mặt cô ấy khi cô ấy quay đầu ……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078235059685826560/img/78MU6Gf3yJ8bUvLC.jpg" width="600" alt="Hiệu ứng Dolly Zoom điện ảnh lấy cảm hứng từ thơ Neruda">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7461)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2078235180951654614) | **Published:** Jul 17, 2026
-
----
-### Video về Đài tưởng niệm Thánh giá trên Mặt trăng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một đoạn video gợi ý mang tính điện ảnh, hùng tráng, mô tả nỗ lực toàn cầu nhằm đặt một cây thánh giá vinh quang trên Mặt trăng.
-
-#### 📝 Prompt
-
-```
-Hãy tưởng tượng cả thế giới cùng chung tay đặt cây thánh giá đầu tiên lên Mặt trăng, thật vinh quang, cùng mọi khía cạnh và chi tiết tuyệt vời
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078206578407157760/img/oGzyeg8T7_EDDSAe.jpg" width="600" alt="Video về Đài tưởng niệm Thánh giá trên Mặt trăng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7452)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2078206660540039569) | **Published:** Jul 17, 2026
-
----
-### Chuyển động kén kinh dị khoa học viễn tưởng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) kinh dị khoa học viễn tưởng chi tiết mô tả cuộc vật lộn bên trong một chiếc kén cao su trên sàn đá cẩm thạch.
-
-#### 📝 Prompt
-
-```
-Chiếc kén cao su màu đen của cậu bé phục vụ phòng nghiêng đi và đổ mạnh xuống sàn căn phòng dát vàng bên cạnh chiếc hộp đang mở, sau đó quằn quại và giãy giụa dữ dội trên nền đá cẩm thạch, lăn qua lăn lại khi bị mắc kẹt bên trong chiếc kén bóng loáng cứng cáp, chuyển động đậm chất kinh dị khoa học viễn tưởng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078205269784293376/img/iQJKcRtp2Ub1ntkM.jpg" width="600" alt="Chuyển động kén kinh dị khoa học viễn tưởng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7460)**
-
-**Author:** [William Looby](https://x.com/WilliamLooby) | **Source:** [Link](https://x.com/WilliamLooby/status/2078205297802289155) | **Published:** Jul 17, 2026
-
----
-### Vũ điệu ngoài hành tinh phong cách khoa học viễn tưởng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) khoa học viễn tưởng chi tiết mô tả cảnh một người ngoài hành tinh và một người phụ nữ mặc bộ đồ liền thân màu đen đang khiêu vũ trên boong tàu vũ trụ.
-
-#### 📝 Prompt
-
-```
-Người ngoài hành tinh cao lớn màu xanh đang khiêu vũ chậm rãi cùng một quý cô xinh đẹp mặc bộ đồ liền thân màu đen, mái tóc vàng gợn sóng dài tết bím, đeo khuyên tai kim cương và vòng cổ kim cương, cả hai đều đeo mặt nạ phòng độc, đang khiêu vũ chậm rãi trên boong chính của tàu vũ trụ với pháo hoa và b...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078184093070630912/img/89vs2_ijTQiKvpTk.jpg" width="600" alt="Vũ điệu ngoài hành tinh phong cách khoa học viễn tưởng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7445)**
-
-**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2078184117875744912) | **Published:** Jul 17, 2026
-
----
-### Khu vườn bí mật của suối nguồn tươi trẻ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh gợi ý (prompt) phong cảnh tươi tốt để tạo video về khu vườn huyền bí với đài phun nước và bầu không khí yên bình.
-
-#### 📝 Prompt
-
-```
-Annabelle 🪻🌸🌹🐞🍇⛲️🌲
-
-Khu vườn xinh đẹp này là nơi tọa lạc của suối nguồn tươi trẻ. Mang đến nguồn sống vĩnh cửu và sự bình yên trường tồn ✌️.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078183762882338817/img/bW9GjeVYURMKIgCk.jpg" width="600" alt="Khu vườn bí mật của suối nguồn tươi trẻ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7451)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078183805542609356) | **Published:** Jul 17, 2026
-
----
-### Vòng lặp mưa gió mùa liền mạch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh phức tạp, gồm nhiều phần để tạo ra cảnh quay tĩnh hoàn hảo với khung cảnh mưa rơi, đèn nhấp nháy và những gợn sóng nước.
-
-#### 📝 Prompt
-
-```
-Cảnh quay tĩnh bằng chân máy (tripod), máy quay hoàn toàn bất động. KHÔNG zoom, KHÔNG lia máy (pan), KHÔNG đẩy vào hoặc kéo ra, KHÔNG có bất kỳ chuyển động máy quay nào. Khung hình giữ nguyên kích thước và vị trí CHÍNH XÁC từ khung hình đầu tiên đến khung hình cuối cùng để tạo thành một vòng lặp liền mạch.
-
-Chỉ những yếu tố này chuyển động một cách nhẹ nhàng và liên tục: mưa gió mùa nặng hạt rơi đều đặn và vạch những đường sáng qua ánh đèn ấm áp, những giọt mưa bắn tung tóe nhẹ nhàng tạo gợn sóng trên mặt hồ tĩnh lặng, ngọn lửa đèn dầu bằng đồng (diyas) bập bùng ấm áp, những chiếc đèn treo đung đưa gần như không thể nhận thấy, những làn sương mù trôi chậm rãi phía xa, những ánh đèn mờ ảo lung linh qua màn mưa.
-
-Giữ cho mọi chuyển động đều bình lặng, chậm rãi và tự nhiên để phần đầu và phần cuối của clip trông gần như giống hệt nhau. Vòng lặp điện ảnh mượt mà, liền mạch, không cắt cảnh, không nhảy hình, không thay đổi bối cảnh, không bị lệch máy quay.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078177855280730112/img/JfojpFLsFGeQndvX.jpg" width="600" alt="Vòng lặp mưa gió mùa liền mạch">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7447)**
-
-**Author:** [MarketMaverick](https://x.com/AKCapStrat) | **Source:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **Published:** Jul 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2401,6 +2397,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-30T06:51:06.655Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-30T10:48:59.512Z</sub>
 
 </div>

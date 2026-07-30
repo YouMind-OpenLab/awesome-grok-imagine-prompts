@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2255** |
+| 📝 Total Prompts | **2262** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-30** |
 
@@ -189,6 +189,142 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### He-Man Lightning Transformation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a transformation into He-Man with dramatic sky lighting and energy effects.
+
+#### 📝 Prompt
+
+```
+Make another one with Me as He- Man string in a chair receiving ect with lighting flowing from the sky to a helmet on my head ridding of the voices as I convulse Having me say bring on the lightning and zap these Aliens!  I hate  Xenu!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082720000192950272/img/WssvnsGpO8VrNpYX.jpg" width="600" alt="He-Man Lightning Transformation Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8102)**
+
+**Author:** [The Love King](https://x.com/ryanwilson2015) | **Source:** [Link](https://x.com/ryanwilson2015/status/2082720018236928104) | **Published:** Jul 30, 2026
+
+---
+### Mystical Dragons Playful Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for generating blue and yellow dragons with distinct scales walking toward a red barn.
+
+#### 📝 Prompt
+
+```
+Add blue dragon with octagon scales 
+Yellow dragon with triangular scales 
+Walking playfully side by side toward the red barn
+Make dragons more mystical looking
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082703619489660930/img/FarIJccUtoOH14rf.jpg" width="600" alt="Mystical Dragons Playful Walk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8104)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082703667103473802) | **Published:** Jul 30, 2026
+
+---
+### Cyber-Geisha Neon Rain Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An ultra-detailed cinematic prompt for a cyberpunk scene featuring a cyber-geisha and a robotic cat in a neon-lit rain alley.
+
+#### 📝 Prompt
+
+```
+Cinematic cyberpunk alley at night during heavy rain, neon signs reflecting on wet pavement in pink, cyan and violet. A stunning Japanese woman in her mid-20s with long black hair, soft face, wearing a modern cyber-geisha outfit: elegant black silk kimono with glowing neon embroidery, high slit, thigh-high boots. She is gently cradling a fluffy white and silver cat with big luminous eyes and tiny glowing cybernetic ear implants. Soft rain droplets on their faces and fur. Shallow depth of field, volumetric god rays from neon signs, ultra-detailed, emotional and serene atmosphere, shot on 85mm lens, cinematic lighting, high contrast, 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082651121911263232/img/8raU0QhnkJ0W22rK.jpg" width="600" alt="Cyber-Geisha Neon Rain Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8103)**
+
+**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2082651158082920752) | **Published:** Jul 30, 2026
+
+---
+### Red Splash Letter Morph
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An animation prompt where a red color splash morphs through different letters while maintaining the splash effect.
+
+#### 📝 Prompt
+
+```
+the corcle of red color splash morphes from a to k letter then to the o letter then to the s letter whilet keeping the splashing color
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082618211988635648/img/QZ9yYDl0wE1cU0pl.jpg" width="600" alt="Red Splash Letter Morph">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8107)**
+
+**Author:** [AKOS ᴺᶠᵀ](https://x.com/akosphoto) | **Source:** [Link](https://x.com/akosphoto/status/2082618270775927099) | **Published:** Jul 30, 2026
+
+---
+### Rocket Floating in Ocean
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt where a rocket floats horizontally in the ocean and is ridden to shore by a man with a motor.
+
+#### 📝 Prompt
+
+```
+Create a video of a rocket floating in the ocean. Then arrives a man, attaching a motor to the back of it and rides it to the shore while seating on top of that rocket. Please make that rocket float horizontally.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082558692818378753/img/LXf39o6qexTkJk72.jpg" width="600" alt="Rocket Floating in Ocean">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8106)**
+
+**Author:** [Sofia @ Sacred Petals™](https://x.com/LightTemple) | **Source:** [Link](https://x.com/LightTemple/status/2082558813836620150) | **Published:** Jul 29, 2026
+
+---
+### Ancient Tomb Treasure Hunt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, cinematic video prompt for a suspenseful 15-second adventure scene in a burial chamber.
+
+#### 📝 Prompt
+
+```
+Alice shone her flashlight into the stone sarcophagus and discovered a strange metal medallion hidden among the remains. Suspicions arose in her mind, so she turned off the flashlight and slowly backed away in the darkness, vaguely sensing that she wasn’t alone in the tomb. A 15-second realistic cinematic treasure-hunting scene inside an ancient burial chamber, suspenseful, grounded, and emotionally escalating, like a moment from a high-quality adventure film just before something dangerous reveals itself. A female explorer leans over an open stone sarcophagus, studying a mummified body and its grave goods with a flashlight in hand. She notices a strange metallic plaque resting among the remains, examines it closely, lightly touches it, then looks between the plaque and the skull as if trying to understand why it is there. Nothing in the body moves. The remains stay completely still. But a quiet unease begins to build. She slowly scans the chamber around her with the flashlight, hears a faint sound from deeper in the tomb, startles, sweeps the beam again with sharper caution, then abruptly switches the flashlight off and backs away carefully into the dark, deeply unsettled. Visual tone: grounded adventure-film realism, dusty ancient tomb atmosphere, warm flashlight beam cutting through darkness, aged stone, burial carvings, dry debris, subtle haze, textured skin, fabric, dust, and worn artifacts. The chamber should feel sacred, claustrophobic, and wrong in a believable way. Not fantasy magic, not exaggerated horror. The fear should come from realism, silence, darkness, falling dust, and the feeling that something in the tomb may be aware of her. Character performance and emotional arc: The explorer begins in cautious investigative focus. When she notices the plaque, her expression tightens into rare-discovery concentration mixed with unease. She looks like someone who knows she may have found something important, but immediately senses it does not belong naturally among the burial objects. Her emotional progression should be clear and subtle: alert curiosity, fascinated inspection, rising suspicion, instinctive environmental awareness, startled recoil, defensive scanning, and controlled fear. Emphasize micro-expressions: eyes narrowing at the plaque, lips parting slightly as she studies it, breath quieting, brows drawing in, gaze shifting from the object to the chamber around her, jaw tightening after the distant sound, and a visibly strained effort to stay calm while retreating. Flashlight behavior is critical: The flashlight must be a major storytelling element. At first it is steady and practical, guiding her inspection of the sarcophagus and plaque. The beam should move naturally with her hand, revealing detail in the plaque, wrappings, bone structure, and dust. After she touches the plaque and begins feeling unease, the flashlight becomes part of her instinctive scan of the room, moving carefully across coffin edges, nearby walls, shadowed corners, and deeper darkness. After the sound, the flashlight should jolt once with her startled reaction, then become a controlled but urgent beam as she checks the chamber. Near the end, she must actively switch it off herself in one clear, deliberate action. It should not flicker out or die on its own. The shutoff must feel like a sudden survival decision and an unmistakable turning point. Body language and hand detail: She holds the flashlight in one hand throughout. Her free hand plays an important role: it hovers over the plaque, pauses, then gently brushes or traces its surface with her fingertips. Her posture should evolve naturally: leaning over the sarcophagus to inspect, shifting closer as she studies the plaque, lifting her head slightly to compare the plaque with the skull and wrappings, then slowly straightening just enough to look around the chamber. Once she hears the sound, her body should recoil subtly, then tighten into a defensive stance as she scans. After switching the light off, she retreats with careful, measured steps, shoulders tense, keeping her face and attention fixed toward the darkness. Corpse behavior: The body and skull must remain completely still at all times. Do not animate the corpse in any way. The suspense should come entirely from her reaction, the environment, the sound deeper in the tomb, falling dust, and the decision to turn the flashlight off. Dust and environment detail: Fine dust and powder should play an active role in building unease. Early in the scene, the flashlight catches faint floating dust in still air. As her unease increases and the distant sound appears, fine dust begins to fall more noticeably from above, drifting through the beam and softly landing on the stone and sarcophagus edges. Keep it subtle and believable. No major collapse, no large debris. The chamber should feel ancient, dry, quiet, and lightly unstable, with the dust helping the darkness feel inhabited. Camera language: Smooth, natural, and suspense-driven. No abrupt cuts, no flashy camera tricks, no montage. A single continuous flowing shot is preferred. The camera should begin close to the sarcophagus and her upper body, allowing the audience to read both the plaque and her face. It should move fluidly with her attention: closing in slightly as she examines the plaque, shifting with her gaze toward the skull and wrappings, then widening just enough to let the flashlight scan reveal more of the chamber around her. When the sound comes from deeper in the tomb, the camera should stay readable and intimate, responding to her recoil and retreat without becoming chaotic. The motion should feel like a careful cinematic witness, always motivated by her attention and fear. 15-second scene progression: 0-3 seconds: She leans over the open sarcophagus, sweeping the flashlight beam slowly across the remains and grave objects. The light catches on a strange plaque lying among the wrappings and bones. She stops immediately, eyes narrowing with focused curiosity. In a quiet, intrigued voice, she says: “Wait... what is this?” 3-6 seconds: She lowers the beam and brings it closer to the plaque, studying its surface, edges, and markings. Her free hand rises slowly, hesitates for a moment, then lightly touches the plaque, brushing dust from it with her fingertips. Her expression shifts from discovery to suspicion. In a low voice, almost to herself, she says: “No... this wasn’t placed here by accident.” 6-9 seconds: Still focused, she lifts her gaze from the plaque to the skull and surrounding wrappings, trying to understand how the object ended up there. Nothing moves. The remains stay completely still. But a quiet unease settles across her face. She slowly raises the flashlight and begins to look around the chamber, sweeping her eyes first, then the beam, across the coffin edge, nearby walls, shadowed corners, and the darker space beyond. Fine dust hangs in the beam. 9-12 seconds: As she continues scanning the chamber, a faint sound comes from deeper in the tomb — a light scrape, a soft stone shift, or a distant dry contact. She startles and steps back a half step, the flashlight beam jolting once with her movement. Dust begins to fall more noticeably from above, drifting through the light. She tightens her grip on the flashlight and sweeps the beam again with sharper caution, now fully alert. In a low, tense voice, she says: “No... no, I heard that.” 12-15 seconds: She suddenly decides the light is exposing her position. In one clear, deliberate motion, she clicks the flashlight off. Darkness closes in immediately, leaving only faint ambient traces and floating dust. She backs away carefully, shoulders tight, eyes fixed into the dark ahead. In a very low whisper, she says: “Something’s in here.” End on the feeling that the chamber is no longer empty. Dialogue requirements: - Englis
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082489516733140994/img/ZncWPdN1YY6C1cMQ.jpg" width="600" alt="Ancient Tomb Treasure Hunt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8108)**
+
+**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2082490046972936620) | **Published:** Jul 29, 2026
+
+---
+### Marble Stone Mosaic Cat Portrait
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An extremely detailed hyper-realistic prompt for a cat portrait constructed entirely from intricate marble mosaic tiles and mineral fragments.
+
+#### 📝 Prompt
+
+```
+Ultra-detailed hyper-realistic side profile portrait of a cat made entirely of intricate marble stone mosaic tiles and polished mineral fragments. The cat wears a marble mosaic baseball cap with a flower emblem and stylized letter pattern, and round stone-framed glasses with mineral mosaic lenses. Its whiskers, beard-like fur, and facial details are sculpted from delicate stone filaments and tiles. Its skin/fur is composed of tiny polished marble squares forming a luxurious stone mosaic texture. Along its jawline and neck, miniature futuristic stone city skyscrapers and architectural structures emerge organically from the mosaic surface, blending the feline form with a marble metropolis. Its paw rests thoughtfully on its chin, covered in the same detailed marble mosaic tiles, wearing ornate stone rings with glowing dark gemstones. Its clothing is an elaborate marble mosaic garment decorated with sunflower-like ornaments and geometric patterns. Dramatic studio lighting highlights the polished stone surfaces and extreme detail. Deep black background for high contrast. Ultra sharp focus, cinematic lighting, luxury editorial photography style, hyper-real textures, extreme detail, masterpiece.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082488996022947840/img/tC0K1qojgoLhdW5P.jpg" width="600" alt="Marble Stone Mosaic Cat Portrait">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8105)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2082489044496507259) | **Published:** Jul 29, 2026
+
+---
 ### Cuban Plaza Dancers Extension
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2016,146 +2152,6 @@ gentle soft country mouse with southern accent voice, "this is ice-cream" small 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078242696322322629) | **Published:** Jul 17, 2026
 
 ---
-### Spaceship Escape Action Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An action prompt for an alien and a woman in a maroon dress running through a spaceship amidst explosions.
-
-#### 📝 Prompt
-
-```
-Tall Blue alien and beautiful lady with long wavy blonde hair in braids and diamond earrings and a diamond necklace wearing a maroon dress are running thru the spaceship while bombs are being detonated behind them hand in hand.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078238146882367488/img/Ird_lFOGKNY_zjgd.jpg" width="600" alt="Spaceship Escape Action Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7446)**
-
-**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2078238181154013612) | **Published:** Jul 17, 2026
-
----
-### Neruda Poetry Cinematic Dolly Zoom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt combining Pablo Neruda's poetry with a slow dolly zoom camera movement on a subject's face.
-
-#### 📝 Prompt
-
-```
-Let me speak to you with your silence, too— clear as a lamp, simple as a ring. You are like the night, hushed and starry. Your silence is that of a star—so distant and simple. I like it when you are silent, for you seem absent. -Pablo Neruda - Poem 15 (1924) 
-Slow cinematic dolly zoom pushing in on her face as she turns ……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078235059685826560/img/78MU6Gf3yJ8bUvLC.jpg" width="600" alt="Neruda Poetry Cinematic Dolly Zoom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7461)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2078235180951654614) | **Published:** Jul 17, 2026
-
----
-### Lunar Cross Monument Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A grand, cinematic video prompt depicting a global effort to place a glorious cross on the moon.
-
-#### 📝 Prompt
-
-```
-Imagine the world coming together to put the first cross on the moon, glorious, and all aspects and amazing
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078206578407157760/img/oGzyeg8T7_EDDSAe.jpg" width="600" alt="Lunar Cross Monument Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7452)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2078206660540039569) | **Published:** Jul 17, 2026
-
----
-### Sci-Fi Horror Cocoon Motion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed sci-fi horror prompt describing a struggle within a rubber cocoon on a marble floor.
-
-#### 📝 Prompt
-
-```
-The bell boy's black rubber cocoon tips and falls hard onto the golden chamber floor beside the open box, then squirms and wiggles violently on the marble rolling side to side trapped inside the rigid glossy pod, sci-fi horror cinematic motion.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078205269784293376/img/iQJKcRtp2Ub1ntkM.jpg" width="600" alt="Sci-Fi Horror Cocoon Motion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7460)**
-
-**Author:** [William Looby](https://x.com/WilliamLooby) | **Source:** [Link](https://x.com/WilliamLooby/status/2078205297802289155) | **Published:** Jul 17, 2026
-
----
-### Sci-Fi Alien Space Dance
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed science fiction prompt featuring an alien and a woman in a black catsuit dancing on a spaceship deck.
-
-#### 📝 Prompt
-
-```
-Tall blue alien slow dancing with beautiful lady wearing a black catsuit with long wavy blonde hair with braids and diamond earrings and a diamond necklace both wearing gas masks are slow dancing in the main deck of the spaceship with fireworks and b...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078184093070630912/img/89vs2_ijTQiKvpTk.jpg" width="600" alt="Sci-Fi Alien Space Dance">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7445)**
-
-**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2078184117875744912) | **Published:** Jul 17, 2026
-
----
-### Fountain of Youth Secret Garden
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A lush, scenic prompt for generating a mystical garden video with a fountain and a peaceful atmosphere.
-
-#### 📝 Prompt
-
-```
-Annabelle 🪻🌸🌹🐞🍇⛲️🌲
-
-This beautiful garden is the location of the fountain of youth. Providing a source of eternal life and everlasting peace ✌️.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078183762882338817/img/bW9GjeVYURMKIgCk.jpg" width="600" alt="Fountain of Youth Secret Garden">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7451)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078183805542609356) | **Published:** Jul 17, 2026
-
----
-### Seamless Monsoon Rain Loop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex, multi-part prompt for a perfectly static camera shot of a rainy scene with flickering lamps and water ripples.
-
-#### 📝 Prompt
-
-```
-Static locked-off tripod shot, camera completely still. NO zoom, NO pan, NO push in or out, NO camera movement of any kind. The frame stays EXACTLY the same size and position from first to last frame for a seamless loop.
-
-Only these elements move, gently and continuously: heavy monsoon rain falling steadily and streaking through the warm lamp light, raindrops splashing softly and rippling the still reflecting pool, the brass oil lamp flames (diyas) flickering warmly, hanging lamps swaying almost imperceptibly, wisps of mist drifting slowly in the background, faint distant lights shimmering through the rain.
-
-Keep all motion calm, slow, and natural so the beginning and end of the clip look nearly identical. Smooth cinematic seamless loop, no cut, no jump, no scene change, no camera drift.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078177855280730112/img/JfojpFLsFGeQndvX.jpg" width="600" alt="Seamless Monsoon Rain Loop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7447)**
-
-**Author:** [MarketMaverick](https://x.com/AKCapStrat) | **Source:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **Published:** Jul 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2217,6 +2213,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-30T06:50:58.733Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-30T10:48:52.304Z</sub>
 
 </div>

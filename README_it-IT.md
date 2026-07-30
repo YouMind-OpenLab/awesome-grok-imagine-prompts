@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2255** |
+| 📝 Total Prompts | **2262** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-30** |
 
@@ -189,6 +189,142 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Video della trasformazione folgorante di He-Man
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico che descrive una trasformazione in He-Man con un'illuminazione drammatica del cielo ed effetti energetici.
+
+#### 📝 Prompt
+
+```
+Creane un altro in cui io sono He-Man seduto su una sedia, mentre ricevo energia con fulmini che scendono dal cielo verso un elmo sulla mia testa, liberandomi dalle voci mentre ho delle convulsioni. Fammi dire: "Scatenate i fulmini e colpite questi alieni! Odio Xenu!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082720000192950272/img/WssvnsGpO8VrNpYX.jpg" width="600" alt="Video della trasformazione folgorante di He-Man">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8102)**
+
+**Author:** [The Love King](https://x.com/ryanwilson2015) | **Source:** [Link](https://x.com/ryanwilson2015/status/2082720018236928104) | **Published:** Jul 30, 2026
+
+---
+### La passeggiata giocosa dei draghi mistici
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video per generare draghi blu e gialli con squame distintive che camminano verso un fienile rosso.
+
+#### 📝 Prompt
+
+```
+Aggiungi un drago blu con squame ottagonali 
+Drago giallo con squame triangolari 
+Che camminano giocosamente fianco a fianco verso il fienile rosso
+Rendi i draghi dall'aspetto più mistico
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082703619489660930/img/FarIJccUtoOH14rf.jpg" width="600" alt="La passeggiata giocosa dei draghi mistici">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8104)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082703667103473802) | **Published:** Jul 30, 2026
+
+---
+### Scena di pioggia neon con Cyber-Geisha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico ultra-dettagliato per una scena cyberpunk con una cyber-geisha e un gatto robotico in un vicolo illuminato dai neon sotto la pioggia.
+
+#### 📝 Prompt
+
+```
+Vicolo cyberpunk cinematografico di notte durante una forte pioggia, insegne al neon che si riflettono sull'asfalto bagnato nei toni del rosa, ciano e viola. Una splendida donna giapponese di circa 25 anni con lunghi capelli neri, viso delicato, che indossa un moderno outfit da cyber-geisha: elegante kimono in seta nera con ricami al neon luminosi, spacco alto, stivali sopra il ginocchio. Culla delicatamente un soffice gatto bianco e argento con grandi occhi luminosi e minuscoli impianti auricolari cibernetici brillanti. Gocce di pioggia leggera sui loro volti e sul pelo. Profondità di campo ridotta, raggi di luce volumetrici dalle insegne al neon, ultra-dettagliato, atmosfera emozionale e serena, girato con obiettivo 85mm, illuminazione cinematografica, alto contrasto, 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082651121911263232/img/8raU0QhnkJ0W22rK.jpg" width="600" alt="Scena di pioggia neon con Cyber-Geisha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8103)**
+
+**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2082651158082920752) | **Published:** Jul 30, 2026
+
+---
+### Morphing lettera con effetto splash rosso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di animazione in cui uno splash di colore rosso si trasforma attraverso diverse lettere, mantenendo l'effetto splash.
+
+#### 📝 Prompt
+
+```
+il cerchio di colore rosso splash si trasforma dalla lettera a alla k, poi alla lettera o e infine alla lettera s, mantenendo l'effetto del colore che schizza
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082618211988635648/img/QZ9yYDl0wE1cU0pl.jpg" width="600" alt="Morphing lettera con effetto splash rosso">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8107)**
+
+**Author:** [AKOS ᴺᶠᵀ](https://x.com/akosphoto) | **Source:** [Link](https://x.com/akosphoto/status/2082618270775927099) | **Published:** Jul 30, 2026
+
+---
+### Razzo che galleggia nell'oceano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video creativo in cui un razzo galleggia orizzontalmente nell'oceano e viene guidato verso riva da un uomo con un motore.
+
+#### 📝 Prompt
+
+```
+Crea un video di un razzo che galleggia nell'oceano. Poi arriva un uomo, attacca un motore sul retro e lo guida fino a riva sedendosi sopra il razzo. Fai in modo che il razzo galleggi in posizione orizzontale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082558692818378753/img/LXf39o6qexTkJk72.jpg" width="600" alt="Razzo che galleggia nell'oceano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8106)**
+
+**Author:** [Sofia @ Sacred Petals™](https://x.com/LightTemple) | **Source:** [Link](https://x.com/LightTemple/status/2082558813836620150) | **Published:** Jul 29, 2026
+
+---
+### Caccia al tesoro nell'antica tomba
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico estremamente dettagliato per una scena d'avventura ricca di suspense di 15 secondi all'interno di una camera sepolcrale.
+
+#### 📝 Prompt
+
+```
+Alice illumina con la torcia il sarcofago di pietra e scopre uno strano medaglione metallico nascosto tra i resti. Un sospetto le attraversa la mente, così spegne la torcia e indietreggia lentamente nell'oscurità, percependo vagamente di non essere sola nella tomba. Una scena di caccia al tesoro cinematografica e realistica di 15 secondi all'interno di un'antica camera sepolcrale, carica di suspense, concreta e con una tensione emotiva crescente, come un momento tratto da un film d'avventura di alta qualità poco prima che si riveli qualcosa di pericoloso. Un'esploratrice si sporge su un sarcofago di pietra aperto, studiando con una torcia in mano un corpo mummificato e il suo corredo funerario. Nota una strana placca metallica tra i resti, la esamina da vicino, la tocca leggermente, poi sposta lo sguardo dalla placca al teschio come se cercasse di capire perché si trovi lì. Nulla nel corpo si muove. I resti rimangono completamente immobili. Ma un silenzioso disagio inizia a crescere. Scansiona lentamente la camera attorno a sé con la torcia, sente un suono debole provenire dalle profondità della tomba, trasale, punta di nuovo il fascio di luce con maggiore cautela, poi spegne bruscamente la torcia e indietreggia con attenzione nell'oscurità, profondamente turbata. Tono visivo: realismo da film d'avventura concreto, atmosfera di antica tomba polverosa, caldo fascio di luce che taglia l'oscurità, pietra invecchiata, incisioni funerarie, detriti secchi, leggera foschia, texture della pelle, tessuti, polvere e manufatti usurati. La camera deve apparire sacra, claustrofobica e inquietante in modo credibile. Niente magia fantasy, niente horror esagerato. La paura deve scaturire dal realismo, dal silenzio, dall'oscurità, dalla polvere che cade e dalla sensazione che qualcosa nella tomba possa essere consapevole della sua presenza. Interpretazione del personaggio e arco emotivo: L'esploratrice inizia con un focus investigativo cauto. Quando nota la placca, la sua espressione si contrae in una concentrazione da scoperta rara mista a disagio. Sembra qualcuno che sa di aver trovato qualcosa di importante, ma percepisce immediatamente che non appartiene naturalmente agli oggetti funerari. La sua progressione emotiva deve essere chiara e sottile: curiosità vigile, ispezione affascinata, sospetto crescente, consapevolezza istintiva dell'ambiente, ritrazione improvvisa, scansione difensiva e paura controllata. Enfatizzare le micro-espressioni: occhi che si restringono sulla placca, labbra che si schiudono leggermente mentre la studia, respiro che si fa più calmo, sopracciglia che si contraggono, sguardo che si sposta dall'oggetto alla camera circostante, mascella che si contrae dopo il suono lontano e uno sforzo visibilmente teso per rimanere calma mentre si ritira. Il comportamento della torcia è fondamentale: la torcia deve essere un elemento narrativo principale. All'inizio è ferma e pratica, guidando la sua ispezione del sarcofago e della placca. Il fascio di luce deve muoversi naturalmente con la sua mano, rivelando dettagli nella placca, nelle bende, nella struttura ossea e nella polvere. Dopo aver toccato la placca e aver iniziato a provare disagio, la torcia diventa parte della sua scansione istintiva della stanza, muovendosi con attenzione lungo i bordi della bara, le pareti vicine, gli angoli in ombra e l'oscurità più profonda. Dopo il suono, la torcia deve sobbalzare una volta con la sua reazione di spavento, per poi diventare un fascio controllato ma urgente mentre controlla la camera. Verso la fine, deve spegnerla attivamente lei stessa con un gesto chiaro e deliberato. Non deve sfarfallare o spegnersi da sola. Lo spegnimento deve sembrare una decisione improvvisa di sopravvivenza e un punto di svolta inequivocabile. Linguaggio del corpo e dettagli delle mani: Tiene la torcia in una mano per tutto il tempo. La mano libera gioca un ruolo importante: si libra sopra la placca, si ferma, poi spazzola o traccia delicatamente la sua superficie con la punta delle dita. La sua postura deve evolversi naturalmente: sporgersi sul sarcofago per ispezionare, avvicinarsi mentre studia la placca, sollevare leggermente la testa per confrontare la placca con il teschio e le bende, poi raddrizzarsi lentamente quanto basta per guardarsi intorno nella camera. Una volta sentito il suono, il suo corpo dovrebbe ritrarsi sottilmente, poi irrigidirsi in una posizione difensiva mentre scansiona. Dopo aver spento la luce, si ritira con passi attenti e misurati, spalle tese, mantenendo il viso e l'attenzione fissi verso l'oscurità. Comportamento del cadavere: Il corpo e il teschio devono rimanere completamente immobili in ogni momento. Non animare il cadavere in alcun modo. La suspense deve derivare interamente dalla sua reazione, dall'ambiente, dal suono nelle profondità della tomba, dalla polvere che cade e dalla decisione di spegnere la torcia. Dettagli della polvere e dell'ambiente: Polvere fine e pulviscolo devono giocare un ruolo attivo nel creare disagio. All'inizio della scena, la torcia cattura la polvere che fluttua debolmente nell'aria ferma. Man mano che il suo disagio aumenta e appare il suono lontano, la polvere fine inizia a cadere in modo più evidente dall'alto, fluttuando attraverso il fascio di luce e posandosi dolcemente sulla pietra e sui bordi del sarcofago. Mantieni il tutto sottile e credibile. Nessun crollo importante, nessun detrito di grandi dimensioni. La camera deve sembrare antica, secca, silenziosa e leggermente instabile, con la polvere che aiuta a far sentire l'oscurità come qualcosa di abitato. Linguaggio della macchina da presa: Fluido, naturale e guidato dalla suspense. Nessun taglio brusco, nessun trucco di ripresa appariscente, nessun montaggio. Si preferisce un'unica ripresa continua e fluida. La macchina da presa dovrebbe iniziare vicino al sarcofago e alla parte superiore del suo corpo, permettendo al pubblico di leggere sia la placca che il suo viso. Dovrebbe muoversi fluidamente con la sua attenzione: avvicinandosi leggermente mentre esamina la placca, spostandosi con il suo sguardo verso il teschio e le bende, poi allargandosi quanto basta per lasciare che la scansione della torcia riveli di più della camera circostante. Quando il suono proviene dalle profondità della tomba, la macchina da presa dovrebbe rimanere leggibile e intima, rispondendo alla sua ritrazione e alla sua ritirata senza diventare caotica. Il movimento dovrebbe sembrare quello di un attento testimone cinematografico, sempre motivato dalla sua attenzione e dalla sua paura. Progressione della scena di 15 secondi: 0-3 secondi: Si sporge sul sarcofago aperto, facendo scorrere lentamente il fascio della torcia sui resti e sugli oggetti funerari. La luce si posa su una strana placca che giace tra le bende e le ossa. Si ferma immediatamente, gli occhi si restringono con curiosità concentrata. Con voce bassa e incuriosita, dice: “Aspetta... cos'è questo?” 3-6 secondi: Abbassa il fascio di luce e lo avvicina alla placca, studiandone la superficie, i bordi e i segni. La mano libera si alza lentamente, esita per un momento, poi tocca leggermente la placca, spazzando via la polvere con la punta delle dita. La sua espressione passa dalla scoperta al sospetto. A voce bassa, quasi tra sé e sé, dice: “No... questo non è stato messo qui per caso.” 6-9 secondi: Sempre concentrata, solleva lo sguardo dalla placca al teschio e alle bende circostanti, cercando di capire come l'oggetto sia finito lì. Nulla si muove. I resti rimangono completamente immobili. Ma un silenzioso disagio si dipinge sul suo viso. Solleva lentamente la torcia e inizia a guardarsi intorno nella camera, facendo scorrere prima gli occhi, poi il fascio di luce, lungo il bordo della bara, le pareti vicine, gli angoli in ombra e lo spazio più buio oltre. Polvere fine sospesa nel fascio di luce. 9-12 secondi: Mentre continua a scansionare la camera, un suono debole proviene dalle profondità della tomba — un leggero graffio, un morbido spostamento di pietra o un lontano contatto secco. Trasale e fa mezzo passo indietro, il fascio della torcia sobbalza una volta con il suo movimento. La polvere inizia a cadere in modo più evidente dall'alto, fluttuando attraverso la luce. Stringe la presa sulla torcia e punta di nuovo il fascio con maggiore cautela, ora completamente allerta. Con voce bassa e tesa, dice: “No... no, l'ho sentito.” 12-15 secondi: Decide improvvisamente che la luce sta esponendo la sua posizione. Con un gesto chiaro e deliberato, spegne la torcia. L'oscurità si chiude immediatamente, lasciando solo deboli tracce ambientali e polvere fluttuante. Indietreggia con attenzione, spalle tese, occhi fissi nell'oscurità davanti a sé. Con un sussurro molto basso, dice: “C'è qualcosa qui dentro.” Finire con la sensazione che la camera non sia più vuota. Requisiti per i dialoghi: - Inglese
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082489516733140994/img/ZncWPdN1YY6C1cMQ.jpg" width="600" alt="Caccia al tesoro nell'antica tomba">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8108)**
+
+**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2082490046972936620) | **Published:** Jul 29, 2026
+
+---
+### Ritratto di gatto in mosaico di pietra marmorea
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt iperrealistico estremamente dettagliato per un ritratto di gatto costruito interamente con intricati tasselli di mosaico in marmo e frammenti minerali.
+
+#### 📝 Prompt
+
+```
+Ritratto di profilo iperrealistico ultra-dettagliato di un gatto realizzato interamente con intricati tasselli di mosaico in marmo e frammenti minerali levigati. Il gatto indossa un berretto da baseball in mosaico di marmo con un emblema floreale e un motivo a lettere stilizzate, e occhiali con montatura in pietra rotonda e lenti in mosaico minerale. I baffi, il pelo simile a una barba e i dettagli del viso sono scolpiti da delicati filamenti e tessere di pietra. La sua pelle/il suo pelo è composto da minuscoli quadratini di marmo levigato che formano una lussuosa texture a mosaico lapideo. Lungo la mascella e il collo, grattacieli e strutture architettoniche di una città di pietra futuristica emergono organicamente dalla superficie del mosaico, fondendo la forma felina con una metropoli di marmo. La zampa poggia pensierosa sul mento, coperta dagli stessi dettagliati tasselli di mosaico in marmo, e indossa elaborati anelli di pietra con gemme scure luminose. Il suo abbigliamento è un elaborato capo in mosaico di marmo decorato con ornamenti simili a girasoli e motivi geometrici. L'illuminazione drammatica da studio mette in risalto le superfici in pietra levigata e l'estremo dettaglio. Sfondo nero profondo per un contrasto elevato. Messa a fuoco ultra nitida, illuminazione cinematografica, stile fotografico editoriale di lusso, texture iperrealistiche, dettaglio estremo, capolavoro.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082488996022947840/img/tC0K1qojgoLhdW5P.jpg" width="600" alt="Ritratto di gatto in mosaico di pietra marmorea">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8105)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2082489044496507259) | **Published:** Jul 29, 2026
+
+---
 ### Estensione Cuban Plaza Dancers
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2201,146 +2337,6 @@ gentile e tenero topolino di campagna con voce dall'accento del sud, suoni delic
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078242696322322629) | **Published:** Jul 17, 2026
 
 ---
-### Scena d'azione: Fuga dall'astronave
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'azione che ritrae un alieno e una donna in abito bordeaux mentre corrono attraverso un'astronave tra le esplosioni.
-
-#### 📝 Prompt
-
-```
-Un alto alieno blu e una bellissima donna con lunghi capelli biondi mossi raccolti in trecce, orecchini di diamanti e una collana di diamanti, che indossa un abito bordeaux, corrono mano nella mano attraverso l'astronave mentre delle bombe esplodono alle loro spalle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078238146882367488/img/Ird_lFOGKNY_zjgd.jpg" width="600" alt="Scena d'azione: Fuga dall'astronave">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7446)**
-
-**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2078238181154013612) | **Published:** Jul 17, 2026
-
----
-### Dolly zoom cinematografico ispirato alla poesia di Neruda
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico che unisce la poesia di Pablo Neruda a un lento movimento di camera dolly zoom sul volto del soggetto.
-
-#### 📝 Prompt
-
-```
-Lascia che ti parli anche con il tuo silenzio — chiaro come una lampada, semplice come un anello. Sei come la notte, silenziosa e stellata. Il tuo silenzio è quello di una stella, così lontano e semplice. Mi piaci quando taci, perché sei come assente. -Pablo Neruda - Poesia 15 (1924) 
-Lento dolly zoom cinematografico che stringe sul suo volto mentre lei si gira ……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078235059685826560/img/78MU6Gf3yJ8bUvLC.jpg" width="600" alt="Dolly zoom cinematografico ispirato alla poesia di Neruda">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7461)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2078235180951654614) | **Published:** Jul 17, 2026
-
----
-### Video del Monumento della Croce Lunare
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video prompt grandioso e cinematografico che ritrae uno sforzo globale per posizionare una gloriosa croce sulla luna.
-
-#### 📝 Prompt
-
-```
-Immagina il mondo che si unisce per posizionare la prima croce sulla luna, gloriosa, in ogni suo aspetto e straordinaria
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078206578407157760/img/oGzyeg8T7_EDDSAe.jpg" width="600" alt="Video del Monumento della Croce Lunare">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7452)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2078206660540039569) | **Published:** Jul 17, 2026
-
----
-### Movimento horror sci-fi in bozzolo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt horror sci-fi dettagliato che descrive una lotta all'interno di un bozzolo di gomma su un pavimento di marmo.
-
-#### 📝 Prompt
-
-```
-Il bozzolo di gomma nera del fattorino si inclina e cade pesantemente sul pavimento dorato della camera accanto alla scatola aperta, poi si dimena e si agita violentemente sul marmo rotolando da un lato all'altro, intrappolato all'interno del rigido baccello lucido, movimento cinematografico horror sci-fi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078205269784293376/img/iQJKcRtp2Ub1ntkM.jpg" width="600" alt="Movimento horror sci-fi in bozzolo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7460)**
-
-**Author:** [William Looby](https://x.com/WilliamLooby) | **Source:** [Link](https://x.com/WilliamLooby/status/2078205297802289155) | **Published:** Jul 17, 2026
-
----
-### Ballo spaziale alieno sci-fi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di fantascienza dettagliato che ritrae un alieno e una donna in tuta aderente nera che ballano sul ponte di un'astronave.
-
-#### 📝 Prompt
-
-```
-Alto alieno blu che balla lentamente con una bellissima donna che indossa una tuta aderente nera, con lunghi capelli biondi ondulati con trecce, orecchini di diamanti e una collana di diamanti; entrambi indossano maschere antigas e ballano lentamente sul ponte principale dell'astronave con fuochi d'artificio e b...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078184093070630912/img/89vs2_ijTQiKvpTk.jpg" width="600" alt="Ballo spaziale alieno sci-fi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7445)**
-
-**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2078184117875744912) | **Published:** Jul 17, 2026
-
----
-### Giardino segreto della fonte della giovinezza
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt rigoglioso e suggestivo per generare il video di un giardino mistico con una fontana e un'atmosfera serena.
-
-#### 📝 Prompt
-
-```
-Annabelle 🪻🌸🌹🐞🍇⛲️🌲
-
-Questo splendido giardino è il luogo in cui si trova la fonte della giovinezza. Offre una fonte di vita eterna e di pace infinita ✌️.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078183762882338817/img/bW9GjeVYURMKIgCk.jpg" width="600" alt="Giardino segreto della fonte della giovinezza">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7451)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078183805542609356) | **Published:** Jul 17, 2026
-
----
-### Loop continuo di pioggia monsonica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt complesso e articolato per un'inquadratura statica perfetta di una scena piovosa con lampade tremolanti e increspature nell'acqua.
-
-#### 📝 Prompt
-
-```
-Ripresa statica su treppiede, fotocamera completamente immobile. NESSUNO zoom, NESSUNA panoramica, NESSUN movimento di avvicinamento o allontanamento, NESSUN tipo di movimento della fotocamera. L'inquadratura rimane ESATTAMENTE della stessa dimensione e posizione dal primo all'ultimo fotogramma per un loop continuo.
-
-Solo questi elementi si muovono, in modo delicato e continuo: forte pioggia monsonica che cade costantemente e solca la calda luce delle lampade, gocce di pioggia che creano delicati schizzi e increspature nella pozza riflettente, fiamme delle lampade a olio in ottone (diyas) che tremolano caldamente, lampade sospese che oscillano in modo quasi impercettibile, banchi di nebbia che si spostano lentamente sullo sfondo, deboli luci in lontananza che brillano attraverso la pioggia.
-
-Mantieni tutto il movimento calmo, lento e naturale in modo che l'inizio e la fine della clip appaiano quasi identici. Loop cinematografico fluido e continuo, senza tagli, senza salti, senza cambi di scena, senza derive della fotocamera.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078177855280730112/img/JfojpFLsFGeQndvX.jpg" width="600" alt="Loop continuo di pioggia monsonica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7447)**
-
-**Author:** [MarketMaverick](https://x.com/AKCapStrat) | **Source:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **Published:** Jul 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2402,6 +2398,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-30T06:51:14.709Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-30T10:49:10.608Z</sub>
 
 </div>

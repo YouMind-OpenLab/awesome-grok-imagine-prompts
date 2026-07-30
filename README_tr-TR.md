@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2255** |
+| 📝 Total Prompts | **2262** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-30** |
 
@@ -189,6 +189,142 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### He-Man Yıldırım Dönüşümü Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dramatik gökyüzü ışıklandırması ve enerji efektleriyle He-Man'e dönüşümü betimleyen sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Beni bir sandalyede otururken, gökyüzünden başımdaki miğfere akan yıldırımlarla enerji yüklenirken, seslerden kurtulup sarsıldığım başka bir video hazırla. Bu sırada 'Yıldırımları üzerime gönder ve bu Uzaylıları çarp!' diye bağırdığımı ekle. Xenu'dan nefret ediyorum!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082720000192950272/img/WssvnsGpO8VrNpYX.jpg" width="600" alt="He-Man Yıldırım Dönüşümü Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8102)**
+
+**Author:** [The Love King](https://x.com/ryanwilson2015) | **Source:** [Link](https://x.com/ryanwilson2015/status/2082720018236928104) | **Published:** Jul 30, 2026
+
+---
+### Mistik Ejderhaların Oyunbaz Yürüyüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Belirgin pullara sahip mavi ve sarı ejderhaların kırmızı bir ahıra doğru yürüdüğü bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Sekizgen pullara sahip mavi bir ejderha ekle 
+Üçgen pullara sahip sarı bir ejderha 
+Kırmızı ahıra doğru yan yana oyunbaz bir şekilde yürüyorlar
+Ejderhaları daha mistik bir görünüme kavuştur
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082703619489660930/img/FarIJccUtoOH14rf.jpg" width="600" alt="Mistik Ejderhaların Oyunbaz Yürüyüşü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8104)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082703667103473802) | **Published:** Jul 30, 2026
+
+---
+### Siber-Geyşa Neon Yağmur Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Neon ışıklı yağmurlu bir ara sokakta siber-geyşa ve robotik bir kedinin yer aldığı, ultra detaylı sinematik bir cyberpunk istemi.
+
+#### 📝 Prompt
+
+```
+Gece vakti, şiddetli yağmur altında sinematik cyberpunk ara sokağı; pembe, camgöbeği ve menekşe rengi neon tabelaların ıslak zemine yansıması. 20'li yaşlarının ortasında, uzun siyah saçlı, yumuşak yüz hatlarına sahip, modern bir siber-geyşa kıyafeti giymiş çarpıcı bir Japon kadın: parlayan neon işlemeli, derin yırtmaçlı zarif siyah ipek kimono ve diz üstü çizmeler. Kadın, kucağında büyük ışıldayan gözleri ve minik parlayan sibernetik kulak implantları olan, tüylü beyaz ve gümüş renkli bir kediyi nazikçe tutuyor. Yüzlerinde ve tüylerinde hafif yağmur damlaları. Sığ alan derinliği, neon tabelalardan gelen hacimsel ışık hüzmeleri, ultra detaylı, duygusal ve dingin bir atmosfer, 85mm lens ile çekilmiş, sinematik aydınlatma, yüksek kontrast, 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082651121911263232/img/8raU0QhnkJ0W22rK.jpg" width="600" alt="Siber-Geyşa Neon Yağmur Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8103)**
+
+**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2082651158082920752) | **Published:** Jul 30, 2026
+
+---
+### Kırmızı Sıçrama Harf Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kırmızı bir renk sıçramasının, sıçrama etkisini koruyarak farklı harflere dönüştüğü bir animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Kırmızı renk sıçraması döngüsü, sıçrayan rengi koruyarak a harfinden k harfine, ardından o harfine ve son olarak s harfine dönüşür
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082618211988635648/img/QZ9yYDl0wE1cU0pl.jpg" width="600" alt="Kırmızı Sıçrama Harf Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8107)**
+
+**Author:** [AKOS ᴺᶠᵀ](https://x.com/akosphoto) | **Source:** [Link](https://x.com/akosphoto/status/2082618270775927099) | **Published:** Jul 30, 2026
+
+---
+### Okyanusta Yüzen Roket
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir roketin okyanusta yatay bir şekilde yüzdüğü ve bir adamın motor takarak onu kıyıya sürdüğü yaratıcı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Okyanusta yüzen bir roket videosu oluşturun. Ardından bir adam gelip roketin arkasına bir motor takıyor ve roketin üzerine oturarak onu kıyıya sürüyor. Lütfen roketin yatay bir şekilde yüzmesini sağlayın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082558692818378753/img/LXf39o6qexTkJk72.jpg" width="600" alt="Okyanusta Yüzen Roket">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8106)**
+
+**Author:** [Sofia @ Sacred Petals™](https://x.com/LightTemple) | **Source:** [Link](https://x.com/LightTemple/status/2082558813836620150) | **Published:** Jul 29, 2026
+
+---
+### Antik Mezar Hazine Avı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir mezar odasında geçen, 15 saniyelik gerilim dolu bir macera sahnesi için oldukça detaylı, sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Alice el fenerini taş lahdin içine tuttu ve kalıntılar arasında gizlenmiş tuhaf, metal bir madalyon keşfetti. Zihninde şüpheler belirdi; bu yüzden el fenerini kapattı ve yavaşça karanlığın içine doğru geri çekildi, mezarda yalnız olmadığını belli belirsiz hissetti. Antik bir mezar odasının içinde geçen, 15 saniyelik gerçekçi ve sinematik bir hazine avı sahnesi; gerilim dolu, ayakları yere basan ve duygusal yoğunluğu giderek artan, yüksek kaliteli bir macera filminden, tehlikeli bir şeyin ortaya çıkmasından hemen önceki bir an gibi. Kadın bir kaşif, açık taş lahdin üzerine eğilmiş, elinde fenerle mumyalanmış bir bedeni ve mezar hediyelerini inceliyor. Kalıntılar arasında duran tuhaf metal bir plakayı fark ediyor, yakından inceliyor, hafifçe dokunuyor, ardından neden orada olduğunu anlamaya çalışır gibi plaka ile kafatası arasında gidip geliyor. Bedende hiçbir hareket yok. Kalıntılar tamamen hareketsiz. Ancak sessiz bir huzursuzluk büyümeye başlıyor. El feneriyle etrafındaki odayı yavaşça tarıyor, mezarın derinliklerinden gelen hafif bir ses duyuyor, irkiliyor, ışığı daha keskin bir dikkatle tekrar gezdiriyor, ardından aniden el fenerini kapatıp derin bir tedirginlikle karanlığa doğru dikkatle geri çekiliyor. Görsel ton: Gerçekçi macera filmi atmosferi, tozlu antik mezar havası, karanlığı kesen sıcak bir el feneri ışığı, yaşlanmış taş, mezar oymaları, kuru döküntüler, hafif pus, dokulu cilt, kumaş, toz ve yıpranmış eserler. Oda kutsal, klostrofobik ve inandırıcı bir şekilde 'yanlış' hissettirmeli. Fantastik bir büyü ya da abartılı bir korku değil. Korku; gerçekçilikten, sessizlikten, karanlıktan, düşen tozlardan ve mezardaki bir şeyin onun farkında olabileceği hissinden gelmeli. Karakter performansı ve duygusal gelişim: Kaşif, temkinli ve araştırmacı bir odakla başlıyor. Plakayı fark ettiğinde ifadesi, nadir bir keşfin getirdiği konsantrasyon ve huzursuzlukla geriliyor. Önemli bir şey bulduğunu bilen ama bunun mezar eşyaları arasında doğal bir şekilde bulunmadığını hemen hisseden biri gibi görünüyor. Duygusal ilerleyişi net ve incelikli olmalı: tetikte bir merak, büyülenmiş bir inceleme, artan şüphe, içgüdüsel çevresel farkındalık, irkilerek geri çekilme, savunmacı bir tarama ve kontrollü korku. Mikro ifadelere vurgu yapın: plakaya bakarken kısılan gözler, incelerken hafifçe aralanan dudaklar, sakinleşen nefes, çatılan kaşlar, bakışların nesneden odanın çevresine kayması, uzaktan gelen sesten sonra sıkılan çene ve geri çekilirken sakin kalmak için gösterilen gözle görülür çaba. El feneri kullanımı kritik: El feneri hikaye anlatımının ana unsuru olmalı. Başlangıçta sabit ve pratik, lahit ve plaka incelemesine rehberlik ediyor. Işık, eliyle doğal bir şekilde hareket etmeli; plaka, sargılar, kemik yapısı ve tozdaki detayları ortaya çıkarmalı. Plakaya dokunup huzursuzluk hissetmeye başladığında, el feneri odadaki içgüdüsel taramasının bir parçası haline geliyor; tabut kenarları, yakındaki duvarlar, gölgeli köşeler ve daha derin karanlıklar üzerinde dikkatle hareket ediyor. Sesten sonra, el feneri irkilme tepkisiyle bir kez sarsılmalı, ardından odayı kontrol ederken kontrollü ama acil bir ışık huzmesine dönüşmeli. Sonuna doğru, ışığı kendi başına net ve kararlı bir hareketle kapatmalı. Kendi kendine sönmemeli veya titrememeli. Kapanış anı, ani bir hayatta kalma kararı ve geri dönüşü olmayan bir dönüm noktası gibi hissettirmeli. Beden dili ve el detayı: El fenerini baştan sona bir elinde tutuyor. Boşta kalan eli önemli bir rol oynuyor: plakanın üzerinde geziniyor, duraksıyor, ardından parmak uçlarıyla yüzeyini hafifçe fırçalıyor veya takip ediyor. Duruşu doğal bir şekilde evrilmeli: incelemek için lahdin üzerine eğilmek, plakayı incelerken yaklaşmak, plakayı kafatası ve sargılarla karşılaştırmak için başını hafifçe kaldırmak, ardından etrafına bakmak için yavaşça doğrulmak. Sesi duyduğunda bedeni hafifçe geri çekilmeli, ardından tarama yaparken savunmacı bir duruşla gerilmeli. Işığı kapattıktan sonra, omuzları gergin, yüzünü ve dikkatini karanlığa sabitleyerek dikkatli ve ölçülü adımlarla geri çekiliyor. Ceset davranışı: Beden ve kafatası her zaman tamamen hareketsiz kalmalı. Cesedi hiçbir şekilde hareket ettirmeyin. Gerilim tamamen onun tepkisinden, çevreden, mezarın derinliklerinden gelen sesten, düşen tozlardan ve el fenerini kapatma kararından kaynaklanmalı. Toz ve çevre detayı: İnce toz ve parçacıklar, huzursuzluğu inşa etmede aktif bir rol oynamalı. Sahnenin başlarında el feneri, durgun havadaki hafif tozları yakalıyor. Huzursuzluğu arttığında ve uzaktaki ses duyulduğunda, yukarıdan daha belirgin bir şekilde ince tozlar düşmeye başlıyor, ışık huzmesinin içinden süzülüp taş ve lahit kenarlarına yumuşakça konuyor. Bunu incelikli ve inandırıcı tutun. Büyük bir çöküş veya büyük enkaz parçaları olmasın. Oda antik, kuru, sessiz ve hafif dengesiz hissettirmeli; toz, karanlığın 'yaşanmış' hissetmesine yardımcı olmalı. Kamera dili: Akıcı, doğal ve gerilim odaklı. Ani kesmeler, gösterişli kamera numaraları veya montaj yok. Tek, kesintisiz ve akıcı bir çekim tercih edilir. Kamera, lahdin ve üst bedeninin yakınında başlamalı, izleyicinin hem plakayı hem de yüzünü okumasına izin vermeli. Dikkatini takip ederek akışkan bir şekilde hareket etmeli: plakayı incelerken hafifçe yaklaşmalı, bakışlarıyla kafatasına ve sargılara doğru kaymalı, ardından el fenerinin taramasının odanın daha fazlasını ortaya çıkarmasına izin verecek kadar genişlemeli. Ses mezarın derinliklerinden geldiğinde, kamera kaotikleşmeden onun irkilmesine ve geri çekilmesine yanıt vererek okunabilir ve samimi kalmalı. Hareket, her zaman onun dikkati ve korkusuyla motive edilen, dikkatli bir sinematik tanık gibi hissettirmeli. 15 saniyelik sahne ilerleyişi: 0-3 saniye: Açık lahdin üzerine eğilmiş, el fenerini kalıntılar ve mezar eşyaları üzerinde yavaşça gezdiriyor. Işık, sargılar ve kemikler arasında yatan tuhaf bir plakaya takılıyor. Hemen duruyor, gözleri odaklanmış bir merakla kısılıyor. Sessiz ve meraklı bir sesle şöyle diyor: “Bekle... bu da ne?” 3-6 saniye: Işığı alçaltıyor ve plakaya yaklaştırıyor, yüzeyini, kenarlarını ve işaretlerini inceliyor. Boşta kalan eli yavaşça yükseliyor, bir an tereddüt ediyor, ardından parmak uçlarıyla tozları temizleyerek plakaya hafifçe dokunuyor. İfadesi keşiften şüpheye evriliyor. Kısık bir sesle, neredeyse kendi kendine şöyle diyor: “Hayır... bu buraya kazara konulmamış.” 6-9 saniye: Hala odaklanmış bir şekilde, bakışlarını plakadan kafatasına ve çevresindeki sargılara kaldırıyor, nesnenin oraya nasıl geldiğini anlamaya çalışıyor. Hiçbir şey hareket etmiyor. Kalıntılar tamamen hareketsiz kalıyor. Ancak yüzüne sessiz bir huzursuzluk çöküyor. El fenerini yavaşça kaldırıyor ve odayı incelemeye başlıyor; önce gözleriyle, sonra ışıkla tabut kenarını, yakındaki duvarları, gölgeli köşeleri ve ötesindeki daha karanlık alanı tarıyor. Işık huzmesinde ince tozlar asılı kalıyor. 9-12 saniye: Odayı taramaya devam ederken, mezarın derinliklerinden hafif bir ses geliyor; hafif bir kazınma, yumuşak bir taş kayması veya uzaktan gelen kuru bir temas sesi. İrkiliyor ve yarım adım geri atılıyor, el feneri ışığı hareketiyle bir kez sarsılıyor. Yukarıdan daha belirgin bir şekilde tozlar düşmeye başlıyor, ışığın içinden süzülüyor. El fenerini daha sıkı kavrıyor ve artık tamamen tetikte bir şekilde, daha keskin bir dikkatle ışığı tekrar gezdiriyor. Kısık ve gergin bir sesle şöyle diyor: “Hayır... hayır, bunu duydum.” 12-15 saniye: Aniden ışığın yerini belli ettiğine karar veriyor. Tek, net ve kararlı bir hareketle el fenerini kapatıyor. Karanlık hemen çöküyor, geriye sadece hafif ortam izleri ve uçuşan tozlar kalıyor. Omuzları gergin, gözleri ilerideki karanlığa sabitlenmiş bir şekilde dikkatle geri çekiliyor. Çok kısık bir fısıltıyla şöyle diyor: “Burada bir şey var.” Odanın artık boş olmadığı hissiyle bitirin. Diyalog gereksinimleri: - İngilizce
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082489516733140994/img/ZncWPdN1YY6C1cMQ.jpg" width="600" alt="Antik Mezar Hazine Avı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8108)**
+
+**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2082490046972936620) | **Published:** Jul 29, 2026
+
+---
+### Mermer Taş Mozaik Kedi Portresi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tamamen karmaşık mermer mozaik karolar ve mineral parçalarından oluşturulmuş, son derece detaylı ve hiper-gerçekçi bir kedi portresi istemi.
+
+#### 📝 Prompt
+
+```
+Tamamen karmaşık mermer mozaik karolar ve cilalı mineral parçalarından yapılmış, ultra detaylı ve hiper-gerçekçi kedi yan profil portresi. Kedi, çiçek amblemli ve stilize harf desenli mermer mozaik bir beyzbol şapkası ile mineral mozaik camlara sahip yuvarlak taş çerçeveli gözlükler takıyor. Bıyıkları, sakalı andıran tüyleri ve yüz detayları, narin taş liflerinden ve karolardan şekillendirilmiş. Derisi/tüyleri, lüks bir taş mozaik dokusu oluşturan minik cilalı mermer karelerden oluşuyor. Çene hattı ve boynu boyunca, minyatür fütüristik taş şehir gökdelenleri ve mimari yapılar mozaik yüzeyden organik bir şekilde yükselerek kedi formunu mermer bir metropol ile birleştiriyor. Patisi, aynı detaylı mermer mozaik karolarla kaplı çenesinin üzerinde düşünceli bir şekilde duruyor ve parmaklarında parlayan koyu renkli değerli taşlara sahip süslü taş yüzükler bulunuyor. Kıyafeti, ayçiçeğine benzer süslemeler ve geometrik desenlerle bezenmiş, özenle işlenmiş bir mermer mozaik giysi. Dramatik stüdyo ışıklandırması, cilalı taş yüzeyleri ve aşırı detayı vurguluyor. Yüksek kontrast için derin siyah arka plan. Ultra keskin odak, sinematik aydınlatma, lüks editoryal fotoğrafçılık tarzı, hiper-gerçek dokular, aşırı detay, başyapıt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082488996022947840/img/tC0K1qojgoLhdW5P.jpg" width="600" alt="Mermer Taş Mozaik Kedi Portresi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8105)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2082489044496507259) | **Published:** Jul 29, 2026
+
+---
 ### Cuban Plaza Dancers Eklentisi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2200,146 +2336,6 @@ nazik yumuşak kır faresi, güney aksanlı ses, "bu dondurma" küçük karışt
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078242696322322629) | **Published:** Jul 17, 2026
 
 ---
-### Uzay Gemisi Kaçış Aksiyon Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir uzay gemisinde patlamalar arasında koşan bir uzaylı ve bordo elbiseli bir kadını konu alan aksiyon odaklı bir istem.
-
-#### 📝 Prompt
-
-```
-Uzun boylu mavi bir uzaylı ve örgülü uzun dalgalı sarı saçları, elmas küpeleri ve elmas kolyesiyle bordo bir elbise giyen güzel bir kadın, arkalarında patlayan bombalar eşliğinde el ele uzay gemisinin içinde koşuyorlar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078238146882367488/img/Ird_lFOGKNY_zjgd.jpg" width="600" alt="Uzay Gemisi Kaçış Aksiyon Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7446)**
-
-**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2078238181154013612) | **Published:** Jul 17, 2026
-
----
-### Neruda Şiiri Sinematik Dolly Zoom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Pablo Neruda'nın şiirini, bir öznenin yüzüne yapılan yavaş bir dolly zoom kamera hareketiyle birleştiren sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Seninle sessizliğinle de konuşmama izin ver— bir lamba kadar berrak, bir yüzük kadar sade. Gece gibisin, sessiz ve yıldızlı. Sessizliğin bir yıldızınki gibi—o kadar uzak ve sade. Sessiz olduğunda hoşuma gidiyor, çünkü sanki yokmuşsun gibi. -Pablo Neruda - 15. Şiir (1924) 
-Yavaş sinematik dolly zoom, o dönerken yüzüne doğru yaklaşıyor ……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078235059685826560/img/78MU6Gf3yJ8bUvLC.jpg" width="600" alt="Neruda Şiiri Sinematik Dolly Zoom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7461)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2078235180951654614) | **Published:** Jul 17, 2026
-
----
-### Lunar Cross Monument Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ay'a görkemli bir haç yerleştirmek için gösterilen küresel çabayı betimleyen, sinematik ve görkemli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Dünyanın ilk haçı Ay'a yerleştirmek için bir araya geldiğini hayal edin; görkemli, her yönüyle büyüleyici ve muazzam bir görüntü.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078206578407157760/img/oGzyeg8T7_EDDSAe.jpg" width="600" alt="Lunar Cross Monument Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7452)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2078206660540039569) | **Published:** Jul 17, 2026
-
----
-### Bilim Kurgu Korku Kozası Hareketi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mermer bir zemin üzerindeki kauçuk bir koza içinde yaşanan mücadeleyi betimleyen detaylı bir bilim kurgu korku istemi.
-
-#### 📝 Prompt
-
-```
-Bellboy'un siyah kauçuk kozası devrilip açık kutunun yanındaki altın rengi oda zeminine sertçe düşüyor, ardından sert ve parlak kapsülün içinde hapsolmuş bir şekilde mermer üzerinde şiddetle kıvranıp bir o yana bir bu yana yuvarlanıyor; bilim kurgu korku sinematik hareketi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078205269784293376/img/iQJKcRtp2Ub1ntkM.jpg" width="600" alt="Bilim Kurgu Korku Kozası Hareketi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7460)**
-
-**Author:** [William Looby](https://x.com/WilliamLooby) | **Source:** [Link](https://x.com/WilliamLooby/status/2078205297802289155) | **Published:** Jul 17, 2026
-
----
-### Bilim Kurgu Uzaylı Uzay Dansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir uzay gemisi güvertesinde dans eden bir uzaylı ve siyah kedi kostümlü bir kadını konu alan detaylı bir bilim kurgu istemi.
-
-#### 📝 Prompt
-
-```
-Uzun boylu mavi bir uzaylı, siyah kedi kostümü giymiş, örgülü uzun dalgalı sarı saçlı, elmas küpeli ve elmas kolyeli güzel bir kadınla yavaş dans ediyor; her ikisi de gaz maskesi takıyor ve uzay gemisinin ana güvertesinde havai fişekler eşliğinde yavaş dans ediyorlar ve b...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078184093070630912/img/89vs2_ijTQiKvpTk.jpg" width="600" alt="Bilim Kurgu Uzaylı Uzay Dansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7445)**
-
-**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2078184117875744912) | **Published:** Jul 17, 2026
-
----
-### Gençlik Pınarı Gizli Bahçesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir çeşme ve huzurlu bir atmosfere sahip mistik bir bahçe videosu oluşturmak için yemyeşil, manzaralı bir komut.
-
-#### 📝 Prompt
-
-```
-Annabelle 🪻🌸🌹🐞🍇⛲️🌲
-
-Bu güzel bahçe, gençlik pınarının bulunduğu yerdir. Sonsuz yaşamın ve bitmek bilmeyen bir huzurun kaynağını sunar ✌️.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078183762882338817/img/bW9GjeVYURMKIgCk.jpg" width="600" alt="Gençlik Pınarı Gizli Bahçesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7451)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078183805542609356) | **Published:** Jul 17, 2026
-
----
-### Kesintisiz Muson Yağmuru Döngüsü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Titreyen lambalar ve su dalgalanmalarıyla dolu yağmurlu bir sahnenin mükemmel, sabit kamera çekimi için karmaşık, çok bölümlü bir komut.
-
-#### 📝 Prompt
-
-```
-Sabit tripod çekimi, kamera tamamen hareketsiz. Yakınlaştırma yok, kaydırma yok, ileri veya geri hareket yok, hiçbir şekilde kamera hareketi yok. Kesintisiz bir döngü için kare, ilk kareden son kareye kadar TAM OLARAK aynı boyutta ve konumda kalır.
-
-Yalnızca şu öğeler nazikçe ve sürekli olarak hareket eder: şiddetli muson yağmuru sürekli bir şekilde yağıyor ve sıcak lamba ışığının içinden süzülüyor, yağmur damlaları yumuşakça sıçrayarak durgun yansıtıcı havuzda dalgalanmalar yaratıyor, pirinç yağ lambalarının (diyas) alevleri sıcak bir şekilde titriyor, asılı lambalar neredeyse fark edilmeyecek şekilde sallanıyor, arka planda sis kümeleri yavaşça sürükleniyor, yağmurun içinden parıldayan belli belirsiz uzak ışıklar.
-
-Klibin başı ve sonunun neredeyse aynı görünmesi için tüm hareketleri sakin, yavaş ve doğal tutun. Pürüzsüz sinematik kesintisiz döngü; kesinti yok, atlama yok, sahne değişimi yok, kamera kayması yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078177855280730112/img/JfojpFLsFGeQndvX.jpg" width="600" alt="Kesintisiz Muson Yağmuru Döngüsü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7447)**
-
-**Author:** [MarketMaverick](https://x.com/AKCapStrat) | **Source:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **Published:** Jul 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2401,6 +2397,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-30T06:51:19.799Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-30T10:49:14.796Z</sub>
 
 </div>

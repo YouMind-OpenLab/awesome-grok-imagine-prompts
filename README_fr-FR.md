@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2255** |
+| 📝 Total Prompts | **2262** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-30** |
 
@@ -189,6 +189,142 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Vidéo de transformation éclair de Musclor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique décrivant une transformation en Musclor avec un éclairage dramatique du ciel et des effets d'énergie.
+
+#### 📝 Prompt
+
+```
+Fais-en une autre où je suis assis sur une chaise, recevant de l'énergie avec des éclairs descendant du ciel vers un casque sur ma tête, chassant les voix alors que je suis pris de convulsions. Fais-moi dire : « Apporte la foudre et électrocute ces extraterrestres ! Je déteste Xenu ! »
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082720000192950272/img/WssvnsGpO8VrNpYX.jpg" width="600" alt="Vidéo de transformation éclair de Musclor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8102)**
+
+**Author:** [The Love King](https://x.com/ryanwilson2015) | **Source:** [Link](https://x.com/ryanwilson2015/status/2082720018236928104) | **Published:** Jul 30, 2026
+
+---
+### Promenade ludique de dragons mystiques
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo pour générer des dragons bleus et jaunes aux écailles distinctes marchant vers une grange rouge.
+
+#### 📝 Prompt
+
+```
+Ajouter un dragon bleu avec des écailles octogonales 
+Dragon jaune avec des écailles triangulaires 
+Marchant de manière ludique côte à côte vers la grange rouge
+Rendre les dragons plus mystiques
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082703619489660930/img/FarIJccUtoOH14rf.jpg" width="600" alt="Promenade ludique de dragons mystiques">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8104)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082703667103473802) | **Published:** Jul 30, 2026
+
+---
+### Scène de pluie néon avec cyber-geisha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique ultra-détaillé pour une scène cyberpunk mettant en scène une cyber-geisha et un chat robotique dans une ruelle sous une pluie de néons.
+
+#### 📝 Prompt
+
+```
+Ruelle cyberpunk cinématographique de nuit sous une pluie battante, enseignes néon se reflétant sur le pavé mouillé en rose, cyan et violet. Une superbe femme japonaise d'une vingtaine d'années aux longs cheveux noirs, au visage doux, portant une tenue de cyber-geisha moderne : élégant kimono en soie noire avec broderies néon lumineuses, fente haute, bottes montant jusqu'aux cuisses. Elle berce délicatement un chat blanc et argenté au pelage duveteux, aux grands yeux lumineux et aux minuscules implants cybernétiques brillants sur les oreilles. Fines gouttes de pluie sur leurs visages et leur pelage. Faible profondeur de champ, rayons divins volumétriques provenant des enseignes néon, ultra-détaillé, atmosphère émotionnelle et sereine, filmé avec un objectif 85 mm, éclairage cinématographique, contraste élevé, 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082651121911263232/img/8raU0QhnkJ0W22rK.jpg" width="600" alt="Scène de pluie néon avec cyber-geisha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8103)**
+
+**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2082651158082920752) | **Published:** Jul 30, 2026
+
+---
+### Morphing de lettres en éclaboussure rouge
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'animation où une éclaboussure de couleur rouge se transforme en différentes lettres tout en conservant l'effet d'éclaboussure.
+
+#### 📝 Prompt
+
+```
+Le cercle d'éclaboussure de couleur rouge se transforme de la lettre A à la lettre K, puis à la lettre O, et enfin à la lettre S, tout en conservant l'effet de projection de couleur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082618211988635648/img/QZ9yYDl0wE1cU0pl.jpg" width="600" alt="Morphing de lettres en éclaboussure rouge">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8107)**
+
+**Author:** [AKOS ᴺᶠᵀ](https://x.com/akosphoto) | **Source:** [Link](https://x.com/akosphoto/status/2082618270775927099) | **Published:** Jul 30, 2026
+
+---
+### Fusée flottant dans l'océan
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo créatif où une fusée flotte horizontalement dans l'océan et est pilotée jusqu'au rivage par un homme équipé d'un moteur.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo d'une fusée flottant dans l'océan. Un homme arrive, fixe un moteur à l'arrière de celle-ci et la pilote jusqu'au rivage en restant assis sur la fusée. Veuillez faire en sorte que la fusée flotte horizontalement.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082558692818378753/img/LXf39o6qexTkJk72.jpg" width="600" alt="Fusée flottant dans l'océan">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8106)**
+
+**Author:** [Sofia @ Sacred Petals™](https://x.com/LightTemple) | **Source:** [Link](https://x.com/LightTemple/status/2082558813836620150) | **Published:** Jul 29, 2026
+
+---
+### Chasse au trésor dans une tombe antique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique très détaillé pour une scène d'aventure pleine de suspense de 15 secondes dans une chambre funéraire.
+
+#### 📝 Prompt
+
+```
+Alice dirigea la lumière de sa lampe torche vers le sarcophage en pierre et découvrit un étrange médaillon en métal caché parmi les restes. Le doute s'installa dans son esprit ; elle éteignit alors sa lampe et recula lentement dans l'obscurité, sentant confusément qu'elle n'était pas seule dans la tombe. Une scène de chasse au trésor cinématographique réaliste de 15 secondes à l'intérieur d'une ancienne chambre funéraire, empreinte de suspense, ancrée dans le réel et à la tension émotionnelle croissante, comme un moment tiré d'un film d'aventure de haute qualité juste avant qu'une menace ne se révèle. Une exploratrice se penche au-dessus d'un sarcophage en pierre ouvert, examinant un corps momifié et ses offrandes funéraires à l'aide d'une lampe torche. Elle remarque une étrange plaque métallique reposant parmi les restes, l'examine de près, l'effleure, puis alterne son regard entre la plaque et le crâne comme pour comprendre pourquoi elle se trouve là. Rien sur le corps ne bouge. Les restes demeurent parfaitement immobiles. Mais un malaise silencieux commence à s'installer. Elle balaie lentement la chambre autour d'elle avec la lampe, entend un léger bruit provenant des profondeurs de la tombe, sursaute, déplace le faisceau avec une prudence accrue, puis éteint brusquement la lampe et recule prudemment dans le noir, profondément troublée. Ton visuel : réalisme cinématographique d'aventure, atmosphère de tombe antique poussiéreuse, faisceau de lumière chaude perçant l'obscurité, pierre vieillie, gravures funéraires, débris secs, légère brume, texture de la peau, tissus, poussière et artefacts usés. La chambre doit paraître sacrée, claustrophobe et inquiétante de manière crédible. Pas de magie fantastique, pas d'horreur exagérée. La peur doit naître du réalisme, du silence, de l'obscurité, de la poussière qui tombe et du sentiment que quelque chose dans la tombe pourrait être conscient de sa présence. Performance du personnage et arc émotionnel : L'exploratrice commence par une concentration prudente et investigative. Lorsqu'elle remarque la plaque, son expression se tend, mêlant concentration liée à une découverte rare et malaise. Elle ressemble à quelqu'un qui sait qu'elle a trouvé quelque chose d'important, mais qui sent immédiatement que cela n'a pas sa place parmi les objets funéraires. Sa progression émotionnelle doit être claire et subtile : curiosité alerte, inspection fascinée, suspicion grandissante, conscience instinctive de l'environnement, recul soudain, balayage défensif et peur maîtrisée. Mettre l'accent sur les micro-expressions : yeux qui se plissent devant la plaque, lèvres qui s'entrouvrent légèrement pendant l'étude, respiration qui se calme, sourcils qui se froncent, regard qui passe de l'objet à la chambre, mâchoire qui se serre après le bruit lointain, et un effort visible pour rester calme tout en reculant. Le comportement de la lampe torche est crucial : elle doit être un élément narratif majeur. Au début, elle est stable et pratique, guidant l'inspection du sarcophage et de la plaque. Le faisceau doit bouger naturellement avec sa main, révélant les détails de la plaque, des bandelettes, de la structure osseuse et de la poussière. Après avoir touché la plaque et ressenti le malaise, la lampe devient un outil de scan instinctif, se déplaçant avec précaution sur les bords du cercueil, les murs proches, les coins ombragés et l'obscurité plus profonde. Après le bruit, la lampe doit tressaillir une fois sous le coup de la surprise, puis devenir un faisceau contrôlé mais urgent alors qu'elle inspecte la chambre. Vers la fin, elle doit l'éteindre elle-même par un geste clair et délibéré. Elle ne doit pas vaciller ou s'éteindre toute seule. L'extinction doit être perçue comme une décision de survie soudaine et un tournant indéniable. Langage corporel et détails des mains : Elle tient la lampe dans une main tout du long. Sa main libre joue un rôle important : elle plane au-dessus de la plaque, marque une pause, puis effleure ou trace doucement sa surface du bout des doigts. Sa posture doit évoluer naturellement : penchée sur le sarcophage pour inspecter, se rapprochant pour étudier la plaque, levant légèrement la tête pour comparer la plaque avec le crâne et les bandelettes, puis se redressant lentement juste assez pour regarder autour de la chambre. Une fois le bruit entendu, son corps doit reculer subtilement, puis se tendre dans une posture défensive alors qu'elle scanne les lieux. Après avoir éteint la lumière, elle recule à pas prudents et mesurés, les épaules tendues, gardant son visage et son attention fixés vers l'obscurité. Comportement du cadavre : Le corps et le crâne doivent rester parfaitement immobiles en tout temps. Ne pas animer le cadavre. Le suspense doit provenir entièrement de sa réaction, de l'environnement, du bruit dans la tombe, de la poussière qui tombe et de la décision d'éteindre la lampe. Détails de la poussière et de l'environnement : La poussière fine et la poudre doivent jouer un rôle actif dans l'installation du malaise. Au début de la scène, la lampe capte de la poussière flottant dans l'air immobile. À mesure que son malaise augmente et que le bruit lointain se fait entendre, de la poussière fine commence à tomber de manière plus visible, dérivant à travers le faisceau et se déposant doucement sur la pierre et les bords du sarcophage. Restez subtil et crédible. Pas d'effondrement majeur, pas de gros débris. La chambre doit paraître ancienne, sèche, silencieuse et légèrement instable, la poussière aidant à rendre l'obscurité habitée. Langage cinématographique : Fluide, naturel et axé sur le suspense. Pas de coupes abruptes, pas d'effets de caméra tape-à-l'œil, pas de montage. Un plan séquence continu est préférable. La caméra doit commencer près du sarcophage et du haut de son corps, permettant au public de lire à la fois la plaque et son visage. Elle doit se déplacer de manière fluide avec son attention : se rapprochant légèrement lorsqu'elle examine la plaque, se déplaçant avec son regard vers le crâne et les bandelettes, puis s'élargissant juste assez pour que le balayage de la lampe révèle davantage la chambre. Lorsque le bruit provient des profondeurs de la tombe, la caméra doit rester lisible et intime, répondant à son recul sans devenir chaotique. Le mouvement doit ressembler à celui d'un témoin cinématographique attentif, toujours motivé par son attention et sa peur. Progression de la scène de 15 secondes : 0-3 secondes : Elle se penche sur le sarcophage ouvert, balayant lentement le faisceau de la lampe sur les restes et les objets funéraires. La lumière se pose sur une étrange plaque gisant parmi les bandelettes et les os. Elle s'arrête immédiatement, les yeux plissés par une curiosité concentrée. D'une voix calme et intriguée, elle dit : « Attends... qu'est-ce que c'est ? » 3-6 secondes : Elle abaisse le faisceau et le rapproche de la plaque, étudiant sa surface, ses bords et ses marques. Sa main libre se lève lentement, hésite un instant, puis touche légèrement la plaque, en balayant la poussière du bout des doigts. Son expression passe de la découverte à la suspicion. À voix basse, presque pour elle-même, elle dit : « Non... ce n'est pas là par hasard. » 6-9 secondes : Toujours concentrée, elle lève les yeux de la plaque vers le crâne et les bandelettes environnantes, essayant de comprendre comment l'objet a fini là. Rien ne bouge. Les restes demeurent parfaitement immobiles. Mais un malaise silencieux s'installe sur son visage. Elle relève lentement la lampe et commence à regarder autour de la chambre, balayant d'abord du regard, puis avec le faisceau, le bord du cercueil, les murs proches, les coins ombragés et l'espace plus sombre au-delà. De la poussière fine flotte dans le faisceau. 9-12 secondes : Alors qu'elle continue de scanner la chambre, un léger bruit provient des profondeurs de la tombe — un léger raclement, un déplacement de pierre, ou un contact sec lointain. Elle sursaute et recule d'un demi-pas, le faisceau de la lampe tressaillant avec son mouvement. La poussière commence à tomber de manière plus visible d'en haut, dérivant à travers la lumière. Elle resserre sa prise sur la lampe et balaie à nouveau avec une prudence accrue, désormais pleinement en alerte. D'une voix basse et tendue, elle dit : « Non... non, j'ai entendu ça. » 12-15 secondes : Elle décide soudain que la lumière expose sa position. D'un geste clair et délibéré, elle éteint la lampe. L'obscurité se referme immédiatement, ne laissant que de faibles traces ambiantes et de la poussière en suspension. Elle recule prudemment, les épaules tendues, les yeux fixés dans le noir devant elle. Dans un murmure très bas, elle dit : « Il y a quelque chose ici. » Finir sur le sentiment que la chambre n'est plus vide. Exigences de dialogue : - Anglais
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082489516733140994/img/ZncWPdN1YY6C1cMQ.jpg" width="600" alt="Chasse au trésor dans une tombe antique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8108)**
+
+**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2082490046972936620) | **Published:** Jul 29, 2026
+
+---
+### Portrait de chat en mosaïque de marbre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt hyper-réaliste extrêmement détaillé pour un portrait de chat entièrement composé de mosaïques de marbre complexes et de fragments minéraux.
+
+#### 📝 Prompt
+
+```
+Portrait de profil hyper-réaliste ultra-détaillé d'un chat entièrement composé de carreaux de mosaïque en marbre complexe et de fragments minéraux polis. Le chat porte une casquette de baseball en mosaïque de marbre ornée d'un emblème floral et d'un motif de lettres stylisées, ainsi que des lunettes à monture en pierre avec des verres en mosaïque minérale. Ses moustaches, sa fourrure au niveau du menton et les détails de son visage sont sculptés à partir de délicats filaments et carreaux de pierre. Sa peau/fourrure est composée de minuscules carrés de marbre poli formant une texture de mosaïque de pierre luxueuse. Le long de sa mâchoire et de son cou, des gratte-ciel et des structures architecturales en pierre futuristes miniatures émergent organiquement de la surface en mosaïque, fusionnant la forme féline avec une métropole de marbre. Sa patte repose pensivement sur son menton, recouverte des mêmes carreaux de mosaïque de marbre détaillés, et porte des bagues en pierre ornées de pierres précieuses sombres et lumineuses. Son vêtement est une parure élaborée en mosaïque de marbre décorée d'ornements en forme de tournesol et de motifs géométriques. Un éclairage de studio dramatique souligne les surfaces en pierre polie et l'extrême précision des détails. Fond noir profond pour un contraste élevé. Mise au point ultra-nette, éclairage cinématographique, style photographie éditoriale de luxe, textures hyper-réalistes, détails extrêmes, chef-d'œuvre.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082488996022947840/img/tC0K1qojgoLhdW5P.jpg" width="600" alt="Portrait de chat en mosaïque de marbre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8105)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2082489044496507259) | **Published:** Jul 29, 2026
+
+---
 ### Extension Cuban Plaza Dancers
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2200,146 +2336,6 @@ douce souris champêtre avec un accent du sud, sons légers de mélange "this is
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078242696322322629) | **Published:** Jul 17, 2026
 
 ---
-### Scène d'action : Évasion du vaisseau spatial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'action mettant en scène un extraterrestre et une femme en robe bordeaux courant à travers un vaisseau spatial au milieu d'explosions.
-
-#### 📝 Prompt
-
-```
-Un grand extraterrestre bleu et une belle femme aux longs cheveux blonds ondulés en tresses, portant des boucles d'oreilles en diamant et un collier en diamant ainsi qu'une robe bordeaux, courent main dans la main à travers le vaisseau spatial alors que des bombes explosent derrière eux.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078238146882367488/img/Ird_lFOGKNY_zjgd.jpg" width="600" alt="Scène d'action : Évasion du vaisseau spatial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7446)**
-
-**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2078238181154013612) | **Published:** Jul 17, 2026
-
----
-### Dolly zoom cinématographique sur la poésie de Neruda
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique alliant la poésie de Pablo Neruda à un mouvement de caméra en dolly zoom lent sur le visage d'un sujet.
-
-#### 📝 Prompt
-
-```
-Laisse-moi te parler aussi avec ton silence, clair comme une lampe, simple comme un anneau. Tu es comme la nuit, silencieuse et étoilée. Ton silence est celui d'une étoile, si lointain et si simple. J'aime quand tu te tais, car tu sembles absente. - Pablo Neruda - Poème 15 (1924) 
-Dolly zoom cinématographique lent se rapprochant de son visage alors qu'elle se tourne ……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078235059685826560/img/78MU6Gf3yJ8bUvLC.jpg" width="600" alt="Dolly zoom cinématographique sur la poésie de Neruda">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7461)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2078235180951654614) | **Published:** Jul 17, 2026
-
----
-### Vidéo du monument de la croix lunaire
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un grand prompt vidéo cinématographique illustrant un effort mondial pour placer une croix glorieuse sur la Lune.
-
-#### 📝 Prompt
-
-```
-Imaginez le monde s'unissant pour placer la première croix sur la Lune, un projet glorieux, sous tous ses aspects et tout simplement incroyable
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078206578407157760/img/oGzyeg8T7_EDDSAe.jpg" width="600" alt="Vidéo du monument de la croix lunaire">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7452)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2078206660540039569) | **Published:** Jul 17, 2026
-
----
-### Mouvement de cocon d'horreur de science-fiction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'horreur de science-fiction détaillé décrivant une lutte à l'intérieur d'un cocon en caoutchouc sur un sol en marbre.
-
-#### 📝 Prompt
-
-```
-Le cocon en caoutchouc noir du groom bascule et s'écrase lourdement sur le sol doré de la chambre, à côté de la boîte ouverte, puis se tortille et s'agite violemment sur le marbre, roulant d'un côté à l'autre, piégé à l'intérieur de la capsule rigide et brillante, mouvement cinématographique d'horreur de science-fiction.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078205269784293376/img/iQJKcRtp2Ub1ntkM.jpg" width="600" alt="Mouvement de cocon d'horreur de science-fiction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7460)**
-
-**Author:** [William Looby](https://x.com/WilliamLooby) | **Source:** [Link](https://x.com/WilliamLooby/status/2078205297802289155) | **Published:** Jul 17, 2026
-
----
-### Danse spatiale extraterrestre de science-fiction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de science-fiction détaillé mettant en scène un extraterrestre et une femme en combinaison noire dansant sur le pont d'un vaisseau spatial.
-
-#### 📝 Prompt
-
-```
-Un grand extraterrestre bleu danse lentement avec une belle femme portant une combinaison noire, de longs cheveux blonds ondulés avec des tresses, des boucles d'oreilles en diamant et un collier en diamant. Tous deux portent des masques à gaz et dansent lentement sur le pont principal du vaisseau spatial avec des feux d'artifice et b...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078184093070630912/img/89vs2_ijTQiKvpTk.jpg" width="600" alt="Danse spatiale extraterrestre de science-fiction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7445)**
-
-**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2078184117875744912) | **Published:** Jul 17, 2026
-
----
-### Jardin secret de la fontaine de jouvence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt luxuriant et pittoresque pour générer une vidéo de jardin mystique avec une fontaine et une atmosphère paisible.
-
-#### 📝 Prompt
-
-```
-Annabelle 🪻🌸🌹🐞🍇⛲️🌲
-
-Ce magnifique jardin abrite la fontaine de jouvence. Il offre une source de vie éternelle et une paix durable ✌️.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078183762882338817/img/bW9GjeVYURMKIgCk.jpg" width="600" alt="Jardin secret de la fontaine de jouvence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7451)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078183805542609356) | **Published:** Jul 17, 2026
-
----
-### Boucle fluide de pluie de mousson
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt complexe en plusieurs parties pour un plan de caméra parfaitement statique d'une scène pluvieuse avec des lampes vacillantes et des ondulations dans l'eau.
-
-#### 📝 Prompt
-
-```
-Plan fixe sur trépied, caméra totalement immobile. AUCUN zoom, AUCUN panoramique, AUCUN mouvement de caméra d'aucune sorte. Le cadre reste EXACTEMENT de la même taille et dans la même position de la première à la dernière image pour une boucle fluide.
-
-Seuls ces éléments bougent, doucement et continuellement : une forte pluie de mousson tombant régulièrement et striant la lumière chaude des lampes, des gouttes de pluie éclaboussant doucement et créant des ondulations dans le bassin réfléchissant immobile, les flammes des lampes à huile en laiton (diyas) vacillant chaleureusement, des lampes suspendues se balançant de manière presque imperceptible, des volutes de brume dérivant lentement en arrière-plan, de faibles lumières lointaines scintillant à travers la pluie.
-
-Gardez tout mouvement calme, lent et naturel afin que le début et la fin du clip semblent presque identiques. Boucle cinématographique fluide et sans couture, pas de coupure, pas de saut, pas de changement de scène, pas de dérive de la caméra.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078177855280730112/img/JfojpFLsFGeQndvX.jpg" width="600" alt="Boucle fluide de pluie de mousson">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7447)**
-
-**Author:** [MarketMaverick](https://x.com/AKCapStrat) | **Source:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **Published:** Jul 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2401,6 +2397,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-30T06:51:13.425Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-30T10:49:08.116Z</sub>
 
 </div>

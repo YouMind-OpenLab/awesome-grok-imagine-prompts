@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2255** |
+| 📝 Total Prompts | **2262** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-30** |
 
@@ -189,6 +189,142 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### He-Man Blitz-Transformations-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt, der eine Transformation in He-Man mit dramatischer Himmelsbeleuchtung und Energieeffekten beschreibt.
+
+#### 📝 Prompt
+
+```
+Erstelle ein weiteres Video, in dem ich wie He-Man auf einem Stuhl sitze und Energie empfange, während Blitze vom Himmel auf einen Helm auf meinem Kopf niedergehen. Die Stimmen verschwinden, während ich zucke. Ich sage dabei: 'Bring on the lightning and zap these Aliens!' Ich hasse Xenu!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082720000192950272/img/WssvnsGpO8VrNpYX.jpg" width="600" alt="He-Man Blitz-Transformations-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8102)**
+
+**Author:** [The Love King](https://x.com/ryanwilson2015) | **Source:** [Link](https://x.com/ryanwilson2015/status/2082720018236928104) | **Published:** Jul 30, 2026
+
+---
+### Verspielter Spaziergang mystischer Drachen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt zur Generierung von blauen und gelben Drachen mit markanten Schuppen, die auf eine rote Scheune zulaufen.
+
+#### 📝 Prompt
+
+```
+Füge einen blauen Drachen mit achteckigen Schuppen hinzu 
+Gelber Drache mit dreieckigen Schuppen 
+Laufen verspielt nebeneinander auf die rote Scheune zu
+Lasse die Drachen mystischer aussehen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082703619489660930/img/FarIJccUtoOH14rf.jpg" width="600" alt="Verspielter Spaziergang mystischer Drachen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8104)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082703667103473802) | **Published:** Jul 30, 2026
+
+---
+### Cyber-Geisha Neon-Regen-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, filmischer Prompt für eine Cyberpunk-Szene mit einer Cyber-Geisha und einer Roboter-Katze in einer neonbeleuchteten, verregneten Gasse.
+
+#### 📝 Prompt
+
+```
+Filmische Cyberpunk-Gasse bei Nacht während eines starken Regenschauers, Neonreklamen spiegeln sich auf dem nassen Pflaster in Pink, Cyan und Violett. Eine atemberaubende Japanerin Mitte 20 mit langem schwarzem Haar, weichen Gesichtszügen, in einem modernen Cyber-Geisha-Outfit: eleganter schwarzer Seidenkimono mit leuchtenden Neonstickereien, hoher Schlitz, Overknee-Stiefel. Sie wiegt sanft eine flauschige weiß-silberne Katze mit großen, leuchtenden Augen und winzigen glühenden kybernetischen Ohr-Implantaten. Sanfte Regentropfen auf ihren Gesichtern und dem Fell. Geringe Schärfentiefe, volumetrische Lichtstrahlen von Neonreklamen, hochdetailliert, emotionale und gelassene Atmosphäre, aufgenommen mit 85mm-Objektiv, filmische Beleuchtung, hoher Kontrast, 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082651121911263232/img/8raU0QhnkJ0W22rK.jpg" width="600" alt="Cyber-Geisha Neon-Regen-Szene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8103)**
+
+**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2082651158082920752) | **Published:** Jul 30, 2026
+
+---
+### Roter Farbspritzer-Buchstaben-Morph
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Animations-Prompt, bei dem ein roter Farbspritzer in verschiedene Buchstaben morpht, während der Spritz-Effekt erhalten bleibt.
+
+#### 📝 Prompt
+
+```
+Der Kreis aus rotem Farbspritzer morpht vom Buchstaben A zum K, dann zum O und schließlich zum S, wobei der spritzende Farbeffekt beibehalten wird.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082618211988635648/img/QZ9yYDl0wE1cU0pl.jpg" width="600" alt="Roter Farbspritzer-Buchstaben-Morph">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8107)**
+
+**Author:** [AKOS ᴺᶠᵀ](https://x.com/akosphoto) | **Source:** [Link](https://x.com/akosphoto/status/2082618270775927099) | **Published:** Jul 30, 2026
+
+---
+### Rakete treibt im Ozean
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Video-Prompt, bei dem eine Rakete horizontal im Ozean treibt und von einem Mann mit einem Motor ans Ufer gesteuert wird.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Video einer Rakete, die im Ozean treibt. Dann kommt ein Mann hinzu, befestigt einen Motor an der Rückseite und steuert sie zum Ufer, während er auf der Rakete sitzt. Bitte sorge dafür, dass die Rakete horizontal im Wasser treibt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082558692818378753/img/LXf39o6qexTkJk72.jpg" width="600" alt="Rakete treibt im Ozean">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8106)**
+
+**Author:** [Sofia @ Sacred Petals™](https://x.com/LightTemple) | **Source:** [Link](https://x.com/LightTemple/status/2082558813836620150) | **Published:** Jul 29, 2026
+
+---
+### Schatzsuche im antiken Grab
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, filmischer Video-Prompt für eine spannungsgeladene, 15-sekündige Abenteuerszene in einer Grabkammer.
+
+#### 📝 Prompt
+
+```
+Alice leuchtet mit ihrer Taschenlampe in den steinernen Sarkophag und entdeckt ein seltsames Metallmedaillon, das zwischen den Überresten verborgen liegt. Misstrauen regt sich in ihr, also schaltet sie die Taschenlampe aus und weicht langsam in die Dunkelheit zurück, mit dem vagen Gefühl, dass sie in dem Grab nicht allein ist. Eine 15-sekündige, realistische, filmische Schatzsuche in einer antiken Grabkammer; spannend, bodenständig und emotional eskalierend, wie ein Moment aus einem hochwertigen Abenteuerfilm kurz bevor sich etwas Gefährliches offenbart. Eine Forscherin beugt sich über einen offenen Steinsarkophag und untersucht mit einer Taschenlampe in der Hand einen mumifizierten Körper und dessen Grabbeigaben. Sie bemerkt eine seltsame Metallplakette zwischen den Überresten, betrachtet sie genau, berührt sie leicht und blickt dann zwischen der Plakette und dem Schädel hin und her, als wolle sie verstehen, warum sie dort liegt. Nichts an dem Körper bewegt sich. Die Überreste bleiben vollkommen still. Doch eine leise Unruhe macht sich breit. Sie scannt langsam mit der Taschenlampe die Kammer um sich herum ab, hört ein schwaches Geräusch aus der Tiefe des Grabes, schreckt auf, lässt den Lichtstrahl mit größerer Vorsicht erneut schweifen, schaltet die Taschenlampe dann abrupt aus und weicht vorsichtig in die Dunkelheit zurück, zutiefst verunsichert. Visueller Ton: bodenständiger Abenteuerfilm-Realismus, staubige Atmosphäre eines antiken Grabes, ein warmer Taschenlampenstrahl, der die Dunkelheit durchschneidet, gealterter Stein, Grabgravuren, trockener Schutt, subtiler Dunst, texturierte Haut, Stoff, Staub und abgenutzte Artefakte. Die Kammer sollte sich heilig, klaustrophobisch und auf glaubwürdige Weise falsch anfühlen. Keine Fantasy-Magie, kein übertriebener Horror. Die Angst sollte aus dem Realismus, der Stille, der Dunkelheit, herabfallendem Staub und dem Gefühl entstehen, dass etwas im Grab sie bemerken könnte. Charakterdarstellung und emotionaler Bogen: Die Forscherin beginnt mit vorsichtiger, untersuchender Konzentration. Als sie die Plakette bemerkt, verhärtet sich ihr Gesichtsausdruck zu einer Mischung aus seltener Entdeckerfreude und Unbehagen. Sie wirkt wie jemand, der weiß, dass er etwas Wichtiges gefunden haben könnte, aber sofort spürt, dass es nicht auf natürliche Weise zu den Grabbeigaben gehört. Ihre emotionale Entwicklung sollte klar und subtil sein: wache Neugier, faszinierte Inspektion, wachsendes Misstrauen, instinktives Bewusstsein für die Umgebung, erschrockenes Zurückweichen, defensives Absuchen und kontrollierte Angst. Betonen Sie die Mikro-Mimik: Augen, die sich bei der Plakette verengen, leicht geöffnete Lippen während der Untersuchung, ruhiger werdender Atem, zusammengezogene Brauen, der Blick, der vom Objekt zur Kammer schweift, ein angespannter Kiefer nach dem fernen Geräusch und ein sichtbar angestrengter Versuch, beim Zurückweichen ruhig zu bleiben. Das Verhalten der Taschenlampe ist entscheidend: Die Taschenlampe muss ein wichtiges erzählerisches Element sein. Zuerst ist sie ruhig und praktisch und leitet ihre Inspektion des Sarkophags und der Plakette. Der Strahl sollte sich natürlich mit ihrer Hand bewegen und Details der Plakette, der Wicklungen, der Knochenstruktur und des Staubs enthüllen. Nachdem sie die Plakette berührt hat und das Unbehagen spürt, wird die Taschenlampe Teil ihres instinktiven Absuchens des Raumes und bewegt sich vorsichtig über Sargkanten, nahegelegene Wände, schattige Ecken und die tiefere Dunkelheit. Nach dem Geräusch sollte die Taschenlampe einmal mit ihrer erschrockenen Reaktion zucken und dann zu einem kontrollierten, aber dringlichen Strahl werden, während sie die Kammer überprüft. Gegen Ende muss sie sie aktiv selbst in einer klaren, bewussten Handlung ausschalten. Sie darf nicht von selbst flackern oder ausgehen. Das Ausschalten muss sich wie eine plötzliche Überlebensentscheidung und ein unverkennbarer Wendepunkt anfühlen. Körpersprache und Handdetails: Sie hält die Taschenlampe durchgehend in einer Hand. Ihre freie Hand spielt eine wichtige Rolle: Sie schwebt über der Plakette, hält inne und streicht dann sanft mit den Fingerspitzen über deren Oberfläche. Ihre Haltung sollte sich natürlich entwickeln: über den Sarkophag beugen, um zu untersuchen, näher heranrücken, während sie die Plakette studiert, den Kopf leicht heben, um die Plakette mit dem Schädel und den Wicklungen zu vergleichen, und sich dann langsam gerade so weit aufrichten, um sich in der Kammer umzusehen. Sobald sie das Geräusch hört, sollte ihr Körper leicht zurückweichen und sich dann in eine defensive Haltung versteifen, während sie den Raum scannt. Nachdem sie das Licht ausgeschaltet hat, zieht sie sich mit vorsichtigen, gemessenen Schritten zurück, die Schultern angespannt, das Gesicht und die Aufmerksamkeit fest auf die Dunkelheit gerichtet. Verhalten der Leiche: Der Körper und der Schädel müssen zu jeder Zeit vollkommen still bleiben. Animieren Sie die Leiche in keiner Weise. Die Spannung sollte allein aus ihrer Reaktion, der Umgebung, dem Geräusch aus der Tiefe des Grabes, herabfallendem Staub und der Entscheidung, die Taschenlampe auszuschalten, entstehen. Staub und Umgebungsdetails: Feiner Staub und Pulver sollten eine aktive Rolle beim Aufbau des Unbehagens spielen. Zu Beginn der Szene fängt die Taschenlampe schwach schwebenden Staub in der stillen Luft ein. Während ihr Unbehagen zunimmt und das ferne Geräusch auftaucht, beginnt feiner Staub deutlicher von oben herabzufallen, durch den Lichtstrahl zu driften und sanft auf den Stein und die Sarkophagkanten zu landen. Halten Sie es subtil und glaubwürdig. Kein großer Einsturz, kein großer Schutt. Die Kammer sollte sich antik, trocken, still und leicht instabil anfühlen, wobei der Staub dazu beiträgt, dass sich die Dunkelheit bewohnt anfühlt. Kamerasprache: Fließend, natürlich und spannungsorientiert. Keine abrupten Schnitte, keine auffälligen Kameratricks, keine Montage. Eine einzige, kontinuierliche, fließende Aufnahme wird bevorzugt. Die Kamera sollte nah am Sarkophag und ihrem Oberkörper beginnen, damit das Publikum sowohl die Plakette als auch ihr Gesicht lesen kann. Sie sollte sich flüssig mit ihrer Aufmerksamkeit bewegen: leicht näher herangehen, während sie die Plakette untersucht, sich mit ihrem Blick zum Schädel und den Wicklungen verschieben und dann weit genug aufzoomen, damit der Taschenlampenstrahl mehr von der Kammer um sie herum enthüllt. Wenn das Geräusch aus der Tiefe des Grabes kommt, sollte die Kamera lesbar und intim bleiben und auf ihr Zurückweichen reagieren, ohne chaotisch zu werden. Die Bewegung sollte sich wie ein vorsichtiger, filmischer Zeuge anfühlen, der immer durch ihre Aufmerksamkeit und Angst motiviert ist. 15-sekündiger Szenenverlauf: 0-3 Sekunden: Sie beugt sich über den offenen Sarkophag und lässt den Taschenlampenstrahl langsam über die Überreste und Grabbeigaben schweifen. Das Licht fällt auf eine seltsame Plakette, die zwischen den Wicklungen und Knochen liegt. Sie hält sofort inne, ihre Augen verengen sich vor fokussierter Neugier. Mit leiser, faszinierter Stimme sagt sie: „Warte... was ist das?“ 3-6 Sekunden: Sie senkt den Strahl und bringt ihn näher an die Plakette, wobei sie deren Oberfläche, Kanten und Markierungen studiert. Ihre freie Hand hebt sich langsam, zögert einen Moment und berührt dann leicht die Plakette, wobei sie mit den Fingerspitzen Staub davon wischt. Ihr Ausdruck wandelt sich von Entdeckung zu Misstrauen. Mit tiefer Stimme, fast zu sich selbst, sagt sie: „Nein... das wurde hier nicht zufällig platziert.“ 6-9 Sekunden: Immer noch konzentriert, hebt sie ihren Blick von der Plakette zum Schädel und den umliegenden Wicklungen, während sie versucht zu verstehen, wie das Objekt dorthin gelangt ist. Nichts bewegt sich. Die Überreste bleiben vollkommen still. Doch eine leise Unruhe legt sich über ihr Gesicht. Sie hebt langsam die Taschenlampe und beginnt, die Kammer zu betrachten, wobei sie zuerst mit den Augen und dann mit dem Lichtstrahl über die Sargkante, nahegelegene Wände, schattige Ecken und den dunkleren Raum dahinter schweift. Feiner Staub hängt im Lichtstrahl. 9-12 Sekunden: Während sie die Kammer weiter absucht, kommt ein schwaches Geräusch aus der Tiefe des Grabes – ein leichtes Scharren, ein sanftes Verschieben von Stein oder ein entfernter, trockener Kontakt. Sie schreckt auf und macht einen halben Schritt zurück, wobei der Taschenlampenstrahl bei ihrer Bewegung einmal zuckt. Staub beginnt deutlicher von oben herabzufallen und driftet durch das Licht. Sie verstärkt ihren Griff um die Taschenlampe und lässt den Strahl mit größerer Vorsicht erneut schweifen, nun vollkommen alarmiert. Mit tiefer, angespannter Stimme sagt sie: „Nein... nein, das habe ich gehört.“ 12-15 Sekunden: Sie entscheidet plötzlich, dass das Licht ihre Position verrät. In einer klaren, bewussten Bewegung schaltet sie die Taschenlampe aus. Dunkelheit schließt sich sofort um sie herum und hinterlässt nur schwache Umgebungsspuren und schwebenden Staub. Sie weicht vorsichtig zurück, die Schultern angespannt, die Augen fest in die Dunkelheit vor ihr gerichtet. In einem sehr leisen Flüstern sagt sie: „Hier ist etwas drin.“ Enden Sie mit dem Gefühl, dass die Kammer nicht länger leer ist. Dialoganforderungen: - Englisch
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082489516733140994/img/ZncWPdN1YY6C1cMQ.jpg" width="600" alt="Schatzsuche im antiken Grab">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8108)**
+
+**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2082490046972936620) | **Published:** Jul 29, 2026
+
+---
+### Katzenporträt aus Marmormosaik
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein extrem detaillierter, hyperrealistischer Prompt für ein Katzenporträt, das vollständig aus kunstvollen Marmormosaikfliesen und Mineralfragmenten besteht.
+
+#### 📝 Prompt
+
+```
+Ultra-detailliertes, hyperrealistisches Seitenprofil-Porträt einer Katze, vollständig gefertigt aus kunstvollen Marmormosaikfliesen und polierten Mineralfragmenten. Die Katze trägt eine Baseballkappe aus Marmormosaik mit Blumenemblem und stilisiertem Buchstabenmuster sowie eine runde, steingerahmte Brille mit Mineralmosaikgläsern. Schnurrhaare, bartähnliches Fell und Gesichtsdetails sind aus feinen Steinfäden und Fliesen geformt. Haut und Fell bestehen aus winzigen, polierten Marmorquadraten, die eine luxuriöse Steinmosaik-Textur bilden. Entlang der Kieferpartie und des Halses erheben sich organisch aus der Mosaikoberfläche futuristische Miniatur-Wolkenkratzer und architektonische Strukturen, die die Katzenform mit einer Marmormetropole verschmelzen lassen. Die Pfote ruht nachdenklich am Kinn, bedeckt mit denselben detaillierten Marmormosaikfliesen und geschmückt mit verzierten Steinringen mit leuchtenden dunklen Edelsteinen. Die Kleidung ist ein aufwendiges Marmormosaik-Gewand, verziert mit sonnenblumenartigen Ornamenten und geometrischen Mustern. Dramatische Studiobeleuchtung hebt die polierten Steinoberflächen und die extremen Details hervor. Tiefschwarzer Hintergrund für hohen Kontrast. Ultra-scharfer Fokus, filmische Beleuchtung, luxuriöser Editorial-Fotografie-Stil, hyperreale Texturen, extreme Detailtiefe, Meisterwerk.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082488996022947840/img/tC0K1qojgoLhdW5P.jpg" width="600" alt="Katzenporträt aus Marmormosaik">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8105)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2082489044496507259) | **Published:** Jul 29, 2026
+
+---
 ### Cuban Plaza Dancers Erweiterung
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2018,146 +2154,6 @@ sanfte, weiche Landmaus mit Südstaatenakzent, „this is ice-cream“, leise R�
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078242696322322629) | **Published:** Jul 17, 2026
 
 ---
-### Action-Szene: Flucht vom Raumschiff
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Action-Prompt für einen Alien und eine Frau in einem kastanienbraunen Kleid, die inmitten von Explosionen durch ein Raumschiff rennen.
-
-#### 📝 Prompt
-
-```
-Ein großer blauer Alien und eine wunderschöne Dame mit langem, welligem blonden Haar in Zöpfen, Diamantohrringen und einer Diamantkette in einem kastanienbraunen Kleid rennen Hand in Hand durch das Raumschiff, während hinter ihnen Bomben explodieren.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078238146882367488/img/Ird_lFOGKNY_zjgd.jpg" width="600" alt="Action-Szene: Flucht vom Raumschiff">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7446)**
-
-**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2078238181154013612) | **Published:** Jul 17, 2026
-
----
-### Neruda-Poesie filmischer Dolly-Zoom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Videoprompt, der die Poesie von Pablo Neruda mit einer langsamen Dolly-Zoom-Kamerabewegung auf das Gesicht eines Subjekts kombiniert.
-
-#### 📝 Prompt
-
-```
-Lass mich auch mit deinem Schweigen zu dir sprechen – klar wie eine Lampe, einfach wie ein Ring. Du bist wie die Nacht, still und sternenreich. Dein Schweigen ist das eines Sterns – so fern und einfach. Ich mag es, wenn du schweigst, denn du scheinst abwesend. -Pablo Neruda - Gedicht 15 (1924) 
-Langsamer filmischer Dolly-Zoom, der auf ihr Gesicht zufährt, während sie sich umdreht ……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078235059685826560/img/78MU6Gf3yJ8bUvLC.jpg" width="600" alt="Neruda-Poesie filmischer Dolly-Zoom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7461)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2078235180951654614) | **Published:** Jul 17, 2026
-
----
-### Video vom Lunar Cross Monument
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein großartiger, filmischer Video-Prompt, der eine weltweite Anstrengung darstellt, ein prächtiges Kreuz auf dem Mond zu errichten.
-
-#### 📝 Prompt
-
-```
-Stellen Sie sich vor, wie die Welt zusammenkommt, um das erste Kreuz auf dem Mond zu platzieren – glorreich, in jeder Hinsicht beeindruckend und einfach fantastisch.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078206578407157760/img/oGzyeg8T7_EDDSAe.jpg" width="600" alt="Video vom Lunar Cross Monument">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7452)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2078206660540039569) | **Published:** Jul 17, 2026
-
----
-### Sci-Fi-Horror Kokon-Bewegung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Sci-Fi-Horror-Prompt, der einen Kampf innerhalb eines Gummikokons auf einem Marmorboden beschreibt.
-
-#### 📝 Prompt
-
-```
-Der schwarze Gummikokon des Hotelpagen kippt und fällt hart auf den goldenen Kammerboden neben der offenen Kiste, windet und krümmt sich dann heftig auf dem Marmor, rollt von einer Seite zur anderen, gefangen im starren, glänzenden Pod, filmische Sci-Fi-Horror-Bewegung.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078205269784293376/img/iQJKcRtp2Ub1ntkM.jpg" width="600" alt="Sci-Fi-Horror Kokon-Bewegung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7460)**
-
-**Author:** [William Looby](https://x.com/WilliamLooby) | **Source:** [Link](https://x.com/WilliamLooby/status/2078205297802289155) | **Published:** Jul 17, 2026
-
----
-### Sci-Fi Alien-Weltraumtanz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Science-Fiction-Prompt, der ein Alien und eine Frau in einem schwarzen Catsuit zeigt, die auf dem Deck eines Raumschiffs tanzen.
-
-#### 📝 Prompt
-
-```
-Ein großes blaues Alien tanzt langsam mit einer wunderschönen Frau in einem schwarzen Catsuit, die langes, welliges blondes Haar mit Zöpfen sowie Diamantohrringe und eine Diamantkette trägt; beide tragen Gasmasken und tanzen langsam auf dem Hauptdeck des Raumschiffs, während im Hintergrund ein Feuerwerk zu sehen ist und b...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078184093070630912/img/89vs2_ijTQiKvpTk.jpg" width="600" alt="Sci-Fi Alien-Weltraumtanz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7445)**
-
-**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2078184117875744912) | **Published:** Jul 17, 2026
-
----
-### Geheimer Garten des Jungbrunnens
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein üppiger, malerischer Prompt zur Generierung eines mystischen Gartenvideos mit einem Brunnen und einer friedlichen Atmosphäre.
-
-#### 📝 Prompt
-
-```
-Annabelle 🪻🌸🌹🐞🍇⛲️🌲
-
-Dieser wunderschöne Garten ist der Standort des Jungbrunnens. Er ist eine Quelle ewigen Lebens und immerwährenden Friedens ✌️.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078183762882338817/img/bW9GjeVYURMKIgCk.jpg" width="600" alt="Geheimer Garten des Jungbrunnens">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7451)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078183805542609356) | **Published:** Jul 17, 2026
-
----
-### Nahtlose Monsunregen-Schleife
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer, mehrteiliger Prompt für eine perfekt statische Kameraaufnahme einer regnerischen Szene mit flackernden Lampen und Wasserwellen.
-
-#### 📝 Prompt
-
-```
-Statischer, fest fixierter Stativ-Shot, Kamera komplett unbeweglich. KEIN Zoom, KEIN Schwenk, KEIN Hinein- oder Herauszoomen, KEINERLEI Kamerabewegung. Der Bildausschnitt bleibt vom ersten bis zum letzten Frame EXAKT gleich groß und an der gleichen Position für eine nahtlose Schleife.
-
-Nur diese Elemente bewegen sich sanft und kontinuierlich: starker Monsunregen, der stetig fällt und durch das warme Lampenlicht streift, Regentropfen, die sanft aufprallen und Wellen auf dem stillen Reflexionsbecken erzeugen, die Flammen der Messing-Öllampen (Diyas), die warm flackern, hängende Lampen, die fast unmerklich schwingen, Nebelschwaden, die langsam im Hintergrund driften, schwache, ferne Lichter, die durch den Regen schimmern.
-
-Halten Sie alle Bewegungen ruhig, langsam und natürlich, damit der Anfang und das Ende des Clips nahezu identisch aussehen. Flüssige, filmische, nahtlose Schleife, kein Schnitt, kein Sprung, kein Szenenwechsel, kein Kamera-Drift.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078177855280730112/img/JfojpFLsFGeQndvX.jpg" width="600" alt="Nahtlose Monsunregen-Schleife">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7447)**
-
-**Author:** [MarketMaverick](https://x.com/AKCapStrat) | **Source:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **Published:** Jul 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2219,6 +2215,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-30T06:51:12.127Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-30T10:49:06.279Z</sub>
 
 </div>
