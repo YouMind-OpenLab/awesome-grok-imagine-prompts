@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2262** |
+| 📝 Total Prompts | **2276** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-31** |
 
@@ -189,6 +189,196 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### POV einer angehenden Dämonenjägerin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt aus der Egoperspektive einer unerfahrenen Dämonenjägerin, die versucht, eine Sukkubus mit einem Kreuz zu bändigen, was in einem leisen Kichern endet.
+
+#### 📝 Prompt
+
+```
+Eine durchgehende Einstellung. POV-Stil. Kein Dialog. Aus der Perspektive einer angehenden Dämonenjägerin bei ihrer ersten Jagd. Du näherst dich und hältst dein gesegnetes Kreuz in Richtung der Sukkubus, in der Erwartung, sie damit zu bändigen, doch sie kichert nur leise.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083101439451099136/img/qPm3UFkJfQYOjO-b.jpg" width="600" alt="POV einer angehenden Dämonenjägerin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8175)**
+
+**Author:** [David](https://x.com/Mmmm8x5mMmmm) | **Source:** [Link](https://x.com/Mmmm8x5mMmmm/status/2083101713003696300) | **Published:** Jul 31, 2026
+
+---
+### Video eines sprechenden Romani-Mannes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein dynamischer Video-Prompt eines Romani-Mannes, der direkt in die Kamera Ungarisch spricht, mit realistischer Gestik und Mimik.
+
+#### 📝 Prompt
+
+```
+Der kernig aussehende Romani-Mann mit lockigem Haar und Schnurrbart schaut direkt in die Kamera. Sein Mund bewegt sich, während er herausfordernd auf Ungarisch spricht: „Na mit bámulsz gádzsó? Kell valami?“, und dabei eine leichte Handbewegung mit einer Hand aus der Tasche macht.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083086054119370752/img/WOw9Bu5j41DD_TfS.jpg" width="600" alt="Video eines sprechenden Romani-Mannes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8174)**
+
+**Author:** [Sic @ Warmer Sun](https://x.com/WarmerSun) | **Source:** [Link](https://x.com/WarmerSun/status/2083086074985976235) | **Published:** Jul 31, 2026
+
+---
+### Professionelles Video eines Kätzchen-CEOs im Büro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kinoreifer Video-Prompt eines professionellen Kätzchen-CEOs im Business-Anzug, das Aktionen wie Blinzeln und das Tippen mit einem Stift in einer Büroumgebung ausführt.
+
+#### 📝 Prompt
+
+```
+Das bezaubernde Kätzchen-CEO im Business-Anzug dreht den Kopf langsam und leicht in Richtung Kamera mit intensivem, professionellem Fokus, blinzelt einmal bewusst, hebt dann seine winzige Pfote mit dem Füllfederhalter und tippt zur Betonung dramatisch damit auf den Laptop.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083025324392996864/img/VT0l18fmaNvyaDWb.jpg" width="600" alt="Professionelles Video eines Kätzchen-CEOs im Büro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8170)**
+
+**Author:** [GIXXER4820](https://x.com/DovelRandy) | **Source:** [Link](https://x.com/DovelRandy/status/2083025347658887665) | **Published:** Jul 31, 2026
+
+---
+### Filmischer Mars-Raumpionier
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, 10-sekündiger filmischer Video-Prompt, der Raumpioniere auf dem Mars während der goldenen Stunde zeigt, mit Fokus auf spezifische Kleidungsdetails und eine emotionale Atmosphäre.
+
+#### 📝 Prompt
+
+```
+Eine filmische 10-sekündige Szene auf der roten, felsigen Oberfläche des Mars während der goldenen Stunde. Ein visionärer Raumpionier, der eine schwarze Baseballkappe mit der Aufschrift „I would like to die on Mars. Just not on impact.“ sowie dazu passende schwarze Mars-Socken mit bunten Planetendesigns trägt, die über seinen robusten Stiefeln sichtbar sind, geht langsam über die Landschaft. Er hält inne und blickt mit stiller Neugier zum fernen Horizont, als würde er sich fragen, ob jemand anderes, der seinen Traum teilt, bereits angekommen ist. In der Ferne steht eine Frau, die dieselbe markante schwarze Kappe trägt, auf einem Grat; ihre gemeinsame Kopfbedeckung wird zu einem stillen Symbol für Hoffnung, Erkundung und menschliche Verbundenheit. Sanfter Marswind, realistischer Staub, filmische Beleuchtung, ultra-realistisch, hochdetailliert, emotional aufbauend, Halbtotale, bei der sowohl die Kappe als auch die Socken deutlich zu erkennen sind.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083007065006444544/img/itqxUqkcMVQccWCq.jpg" width="600" alt="Filmischer Mars-Raumpionier">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8180)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2083008164165722533) | **Published:** Jul 31, 2026
+
+---
+### Animierte Eishockeyspieler-Statuen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Animations-Prompt, der Eishockeyspieler-Statuen zum Leben erweckt, während sie das Eis für ein Fotoshooting betreten.
+
+#### 📝 Prompt
+
+```
+animiere diese Eishockeyspieler-Statuen so, dass sie das Eis betreten und sich für ein Fotoshooting bereit machen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082893258250706944/img/tS1NtLNqEIOK_54f.jpg" width="600" alt="Animierte Eishockeyspieler-Statuen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8179)**
+
+**Author:** [Viorel Stolea](https://x.com/viorel_stolea) | **Source:** [Link](https://x.com/viorel_stolea/status/2082893351569752541) | **Published:** Jul 30, 2026
+
+---
+### Video einer Prinzessin auf dem Rosenpfad
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt einer Prinzessin in einem bestickten Kleid, die auf einen König an einem Burgtor zugeht.
+
+#### 📝 Prompt
+
+```
+Die Prinzessin schreitet anmutig weiter den Rosenpfad entlang, während ihr transparentes, besticktes Kleid und ihr langer Schleier bei jedem Schritt elegant im goldenen Licht wehen. Sie nähert sich dem gutaussehenden König, der am rosenbewachsenen Burgtor steht…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082856138928975872/img/SHy5RHgKfh_EJfWv.jpg" width="600" alt="Video einer Prinzessin auf dem Rosenpfad">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8178)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2082856269443105228) | **Published:** Jul 30, 2026
+
+---
+### Video einer sprechenden KI-Frau
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt für eine Frau, die natürlich über künstliche Intelligenz spricht, mit realistischen Gesichtsbewegungen und Gesten.
+
+#### 📝 Prompt
+
+```
+Die Frau spricht über künstliche Intelligenz, wobei sich ihr Mund beim Sprechen über KI-Fortschritte und die Zukunft der Technologie natürlich bewegt. Sie macht subtile Kopfbewegungen und leichte Drehungen, ihre erhobene Hand gestikuliert sanft, um Punkte zu betonen, natürliches Blinzeln und...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082845583417749505/img/9b41u_xSSJ9jYpCY.jpg" width="600" alt="Video einer sprechenden KI-Frau">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8176)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2082845599611928577) | **Published:** Jul 30, 2026
+
+---
+### Blonde afroamerikanische Frau auf Autofahrt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine lebendige, animierte Illustration einer tätowierten Frau, die mit ihrer Katze Auto fährt, im Kawaii-Stil mit bronzefarbenen Overlays.
+
+#### 📝 Prompt
+
+```
+schöne blonde afroamerikanische tätowierte Frau im Auto mit ihrer Katze, leuchtend grüne Augen, Kawaii-Kunststil, hellorangefarbenes und hellbronzenes Overlay, animierte Illustrationen, daz3d, realistisch
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082838636114968576/img/k6utsebHs3-oSUbr.jpg" width="600" alt="Blonde afroamerikanische Frau auf Autofahrt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8171)**
+
+**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2082838664023876035) | **Published:** Jul 30, 2026
+
+---
+### Knet-Krabbe fährt Fahrrad am Strand
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Stop-Motion-Prompt für eine Knet-Krabbe, die versucht, auf einer Strandpromenade Fahrrad zu fahren, mit dramatischen, tollpatschigen Bewegungen.
+
+#### 📝 Prompt
+
+```
+Knet-Krabbe versucht, am Strand Fahrrad zu fahren, tollpatschige Bewegungen, Strandpromenade aus Plastilin 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082774839023325184/img/2ETKUfH7zgKsk-fI.jpg" width="600" alt="Knet-Krabbe fährt Fahrrad am Strand">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8173)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2082774909529514084) | **Published:** Jul 30, 2026
+
+---
+### Digitale Bewusstseinsmatrix-Bewegung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein technischer Video-Prompt, der Kamerasteuerungsparameter verwendet, um eine leuchtende digitale Bewusstseinsmatrix zu visualisieren.
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "niedrig", "camera_depth": "Nahaufnahme", "camera_view": "Augenhöhe", "camera_movement": "statische Aufnahme mit subtilem, sanftem Hineinzoomen"}, "scene": {"location": "digitale Bewusstseinsmatrix", "environment": "Eine leuchtende, abstrakte digitale..."}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082734395275022336/img/lu_35oamLTPon1Zp.jpg" width="600" alt="Digitale Bewusstseinsmatrix-Bewegung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8172)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2082734459611443355) | **Published:** Jul 30, 2026
+
+---
 ### He-Man Blitz-Transformations-Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -230,6 +420,185 @@ Lasse die Drachen mystischer aussehen
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082703667103473802) | **Published:** Jul 30, 2026
 
 ---
+### Cinematic SF-Anime-One-Cut-Animation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein umfassender Prompt zur Erstellung einer 15-sekündigen, cineastischen Sci-Fi-Animation unter Verwendung einer Ausgangsillustration als Referenzbild, mit Fokus auf natürliche Bewegungen und einen Perspektivwechsel aus der Ich-Perspektive.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie die beigefügte Illustration als ersten Frame des Videos.
+
+━━━━━━━━━━━━━━━━━━
+
+Zielsetzung
+
+Erstellen Sie eine 15-sekündige cineastische SF-Animation, während Stil, Charakter, Komposition, Hintergrund, Beleuchtung und Atmosphäre der ursprünglichen Illustration beibehalten werden.
+
+Zeichnen Sie die ursprüngliche Illustration nicht neu; verleihen Sie dem Standbild einen natürlichen Zeitfluss und Lebendigkeit.
+
+Das Filmmaterial sollte wie in einer einzigen langen Einstellung (One-Cut) inszeniert sein.
+
+Schnitte sind untersagt.
+
+Dialoge und Lippensynchronisation sind untersagt.
+
+━━━━━━━━━━━━━━━━━━
+
+Visuals
+
+Verändern Sie nicht den Kunststil.
+
+Gestalten Sie den Charakter nicht um.
+
+Verändern Sie nicht den Hintergrund.
+
+Behalten Sie die Komposition bei.
+
+Verändern Sie nicht die Kleidung.
+
+Behalten Sie die Beleuchtung bei.
+
+Priorisieren Sie die Identität des Charakters über alles andere.
+
+Behalten Sie die Körperproportionen bei.
+
+Behalten Sie die Gesichtszüge bei.
+
+Fügen Sie nur die minimal notwendige, natürliche Animation hinzu.
+
+━━━━━━━━━━━━━━━━━━
+
+Charakter
+
+Der Charakter sitzt im Cockpit eines riesigen Mechas.
+
+Bedient auf natürliche Weise das Hologramm-HUD.
+
+Bemerkt, dass er gefilmt wird.
+
+Lächelt auf natürliche Weise.
+
+Steht nicht vom Sitz auf.
+
+Beugt im Sitzen den Oberkörper natürlich nach vorne.
+
+Streckt einen Arm auf natürliche Weise aus dem Bild.
+
+Nimmt auf natürliche Weise dieselbe Kamera auf.
+
+Setzt ab diesem Punkt die natürliche Handkamera-Aufnahme fort.
+
+Das Schauspiel sollte durchgehend natürlich und entspannt wirken.
+
+Endet mit einem Augenzwinkern und einem Peace-Zeichen in die Kamera.
+
+━━━━━━━━━━━━━━━━━━
+
+Kamera
+
+Zu Beginn eine komplett fixierte Kamera.
+
+Bewegt sich überhaupt nicht, wie eine auf einem Stativ befestigte Aufnahmekamera.
+
+Kein Schwenken.
+
+Kein Neigen.
+
+Kein Zoomen.
+
+Kein Dolly-Fahrt.
+
+Kein Orbiting.
+
+Kein Tracking.
+
+Kein Hineinfahren.
+
+Kein Herausfahren.
+
+Die Kamera nähert sich dem Charakter nicht.
+
+Nur der Charakter beugt seinen Körper leicht nach vorne.
+
+Der Abstand zur Kamera verringert sich nur geringfügig.
+
+Nur in dem Moment, in dem der Charakter die Kamera berührt, tritt durch die leichte Trägheit ein natürliches Handkamera-Wackeln auf.
+
+Ab diesem Moment wird es zu einer natürlichen Handkamera-Aufnahme mit derselben Kamera.
+
+Das Filmmaterial bleibt bis zum Ende unterbrechungsfrei.
+
+━━━━━━━━━━━━━━━━━━
+
+Zeitplan
+
+0-2 Sekunden
+
+Bedient das Hologramm-HUD. Nur die Fingerspitzen bewegen sich natürlich.
+
+2-3 Sekunden
+
+Bemerkt, dass er gefilmt wird. Schaut hierher. Lächelt auf natürliche Weise.
+
+3-5 Sekunden
+
+Winkt leicht. Agieren Sie in einem natürlichen Tempo. Bleiben Sie nicht lange unbeweglich.
+
+5-8 Sekunden
+
+Steht nicht vom Sitz auf. Beugt den Oberkörper leicht nach vorne. Streckt einen Arm auf natürliche Weise aus dem Bild. Die Hand verlässt den Bildrahmen. Nimmt auf natürliche Weise dieselbe Kamera auf. Ein kleines Handkamera-Wackeln aufgrund leichter Trägheit tritt auf. Der Blickwinkel geht natürlich in eine Handkamera-Aufnahme über, während die Kontinuität gewahrt bleibt.
+
+8-15 Sekunden
+
+Setzt die natürliche Handkamera-Aufnahme mit ausgestrecktem Arm fort. Behält ein natürliches Lächeln bei. Verändert den Gesichtsausdruck leicht. Bewegt den Blick leicht. Zeigt kurz das HUD oder das Cockpit, bevor er sich wieder selbst zeigt. Die Atmosphäre ist natürlich, als würde man das Filmen genießen. Endet mit einem Augenzwinkern und einem Peace-Zeichen in die Kamera. Darf nicht sofort nach dem Aufnehmen der Kamera enden. Der Großteil der zweiten Hälfte des Videos sollte eine Handkamera-Aufnahme sein.
+
+━━━━━━━━━━━━━━━━━━
+
+Hintergrund
+
+Riesiges Mecha-Cockpit.
+
+Hologramm-UI.
+
+Schrein.
+
+Wald.
+
+Verändern Sie den Hintergrund nicht.
+
+Natürliches Licht.
+
+Haare und Kleidung wehen leicht.
+
+━━━━━━━━━━━━━━━━━━
+
+Rendering
+
+Hochwertige Animation.
+
+Filmqualität.
+
+Minimale Schwankungen der handgezeichneten Linienführung.
+
+Textur, die für Anime-Kunstwerke typisch ist.
+
+━━━━━━━━━━━━━━━━━━
+
+Das Wichtigste
+
+Zeichnen Sie die ursprüngliche Illustration nicht neu. Machen Sie den Charakter nicht zu einer anderen Person. Verändern Sie nicht den Hintergrund. Verändern Sie nicht die Kleidung. Verändern Sie nicht die Komposition. Drehen Sie den Körper nicht. Führen Sie keine unnötigen Richtungsänderungen durch. Zeichnen Sie keine nicht sichtbaren Körperteile ein. Auffällige Action ist untersagt. Stellen Sie keine Filmausrüstung innerhalb des Bildes dar. Die Kamera ist der Blickwinkel selbst und sollte nicht als Objekt innerhalb des Filmmaterials dargestellt werden. Fixierte Kamera zu Beginn. Nur der Charakter berührt die Kamera. Der Blickwinkel bewegt sich nur in dem Moment, in dem der Charakter die Kamera in der Hand hält. Keine Überblendungen. Keine Übergänge. Keine Jump-Cuts. Keine Blackouts. Eine Regieanweisung, die das Objektiv mit einer Hand verdeckt, ist untersagt. Die Kamera darf sich nicht auf den Charakter zubewegen. Das Filmmaterial muss von Anfang bis Ende als ein einziger cineastischer One-Cut etabliert sein.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082653478808412160/img/q3Yoqj87sPHBaHTy.jpg" width="600" alt="Cinematic SF-Anime-One-Cut-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8163)**
+
+**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2082654818544521489) | **Published:** Jul 30, 2026
+
+---
 ### Cyber-Geisha Neon-Regen-Szene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -268,6 +637,44 @@ Der Kreis aus rotem Farbspritzer morpht vom Buchstaben A zum K, dann zum O und s
 **Author:** [AKOS ᴺᶠᵀ](https://x.com/akosphoto) | **Source:** [Link](https://x.com/akosphoto/status/2082618270775927099) | **Published:** Jul 30, 2026
 
 ---
+### Start eines Raumschiffs mit Alien-Paar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Science-Fiction-Video-Prompt, der außerirdische Wesen in kunstvoller Rüstung zeigt, wie sie von einem Felsvorsprung aus den Start eines Raumschiffs ins All beobachten.
+
+#### 📝 Prompt
+
+```
+Die Frau und ihr gepanzerter Begleiter sind nun eindeutig außerirdische Wesen mit subtilen nicht-menschlichen Merkmalen und kunstvoller Rüstung. Sie sitzen Seite an Seite auf dem Felsvorsprung, halten Händchen und beobachten, wie das elegante Raumschiff abhebt und in den Schein aufsteigt...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082603959118618624/img/HrSGdOcoBKkFEwiK.jpg" width="600" alt="Start eines Raumschiffs mit Alien-Paar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8181)**
+
+**Author:** [Aurora](https://x.com/Aurora747220) | **Source:** [Link](https://x.com/Aurora747220/status/2082603987975438437) | **Published:** Jul 29, 2026
+
+---
+### Bewegung des Sandwurms aus Dune
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer Video-Prompt, der die spezifische Grab- und Fortbewegungsweise eines Sandwurms aus Dune beschreibt, während er von Menschen gelenkt wird.
+
+#### 📝 Prompt
+
+```
+Grok, bitte drehe den Kopf des Sandwurms, denn so gräbt er sich fort. Und die Art und Weise, wie der Sandwurm von den Menschen von Dune gelenkt wird, die mit Haken und Seilen auf seinen Rücken klettern, woraufhin der Sandwurm seinen Kopf oben hält, um schnell zu reisen, damit der Sandwurm...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082598769791541248/img/MUl1yVawi1LVhoIs.jpg" width="600" alt="Bewegung des Sandwurms aus Dune">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8177)**
+
+**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2082598813072507324) | **Published:** Jul 29, 2026
+
+---
 ### Rakete treibt im Ozean
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -285,6 +692,25 @@ Erstelle ein Video einer Rakete, die im Ozean treibt. Dann kommt ein Mann hinzu,
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8106)**
 
 **Author:** [Sofia @ Sacred Petals™](https://x.com/LightTemple) | **Source:** [Link](https://x.com/LightTemple/status/2082558813836620150) | **Published:** Jul 29, 2026
+
+---
+### Gothic Dragon Elf Queen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hyperrealistischer, filmreifer Prompt für eine Frau mit saphirblauen Augen und einem Drachen in einem verschneiten Wald.
+
+#### 📝 Prompt
+
+```
+Frau, von der Kamera eingefangen, hyperrealistische Haut mit natürlicher Textur, sichtbare Poren, wunderschönes symmetrisches Gesicht, leuchtend saphirblaue Augen mit detaillierter natürlicher Iris, dezentes natürliches Make-up, langes platinweißes Haar in zwei dicken, realistischen Zöpfen mit fransigem Pony und echten Haarsträhnen, spitze Elfenohren, detaillierte schwarze Gothic-Krone, komplexe schwarz-graue Tattoos an Armen und Oberkörper, rosafarbenes trägerloses Korsett mit authentischer Stoffstruktur, mehrlagige schwarze Choker und Halsketten, großer, realistischer schwarz-rosafarbener Drache mit hyperdetaillierten natürlichen Schuppen und realistischen Augen, der sich um ihren Körper und ihre Schultern windet, stimmungsvoller, nebliger, verschneiter Waldhintergrund, weiches, diffuses natürliches Licht, stark entsättigte, gedämpfte natürliche Farben, realistisches Filmkorn und subtiles Rauschen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082507829475188736/img/ZOCgDMtfcQzsOaof.jpg" width="600" alt="Gothic Dragon Elf Queen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8182)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2082507905622843650) | **Published:** Jul 29, 2026
 
 ---
 ### Schatzsuche im antiken Grab
@@ -1875,285 +2301,6 @@ Stell dir vor, sie singt den ersten Teil von Hearts Content: „Maybe you though
 **Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2078719563235995784) | **Published:** Jul 19, 2026
 
 ---
-### Cinematic-Prompts für Fußballübertragungen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine Sammlung professioneller Fußball-Broadcast-Prompts für Grok Imagine, die Stadionüberflüge sowie spezifische Spielszenen wie Elfmeter und Freistöße abdecken.
-
-#### 📝 Prompt
-
-```
-Stadionüberflug – 80.000-Plätze-Stadion, Argentinien gegen Spanien, eine kontinuierliche, absteigende Luftspirale, Choreografie + Pyrotechnik, Übergang von der Golden Hour zum Flutlicht
-
-Elfmeter – Lamine Yamal (Spanien Nr. 19) gegen Emiliano Martínez (argentinischer Torwart): Anlauf, Schuss, Hechtsprung, Ball im Netz. Echte Gesichter via Referenz
-
-Freistoß – Messi aus 25 Metern, Fünf-Mann-Mauer, Schlenzer über die Mauer in den oberen Winkel. Die Mauer muss zum Ball schauen, Arme eng am Körper, wie bei einer echten Mauer
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078586357488709632/img/7Rg5Aik0KFhlWel5.jpg" width="600" alt="Cinematic-Prompts für Fußballübertragungen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7573)**
-
-**Author:** [thehype.](https://x.com/thehypedotnews) | **Source:** [Link](https://x.com/thehypedotnews/status/2078586716445655145) | **Published:** Jul 18, 2026
-
----
-### Video einer singenden patriotischen grauen Katze
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Prompt, der eine dicke graue Katze mit weißen Pfoten zeigt, die während der Arbeit ein patriotisches Lied singt.
-
-#### 📝 Prompt
-
-```
-Es gibt eine dicke graue Katze mit weißen Pfoten. Sie singt leise die Melodie von „Oh beautiful for spacious skies, for amber waves of grain“, während sie arbeitet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078578004008034304/img/xH1oglULnTnXbhPu.jpg" width="600" alt="Video einer singenden patriotischen grauen Katze">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7515)**
-
-**Author:** [Susan Kurvach](https://x.com/SKurvach) | **Source:** [Link](https://x.com/SKurvach/status/2078578018801315977) | **Published:** Jul 18, 2026
-
----
-### Lebendiges Löwen-Ölgemälde
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Animations-Prompt für ein dunkles Schlafzimmer, in dem ein gerahmtes Ölgemälde eines Löwen zum Leben erwacht und sich bewegt.
-
-#### 📝 Prompt
-
-```
-Ein großer, verzierter schwarzer Rahmen hängt an einer dunklen Schlafzimmerwand mit schwarzen Wänden. Neben dem Gemälde befindet sich ein Fenster mit schweren roten Samtvorhängen. Im Inneren des verzierten schwarzen Rahmens befindet sich ein Ölgemälde, das zum Leben erweckt wurde. Nur der Löwe im Bild bewegt sich.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078575143455014912/img/MSLfxwToTfN-zDAz.jpg" width="600" alt="Lebendiges Löwen-Ölgemälde">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7517)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078575196550615483) | **Published:** Jul 18, 2026
-
----
-### Cinematic Dark Fantasy Elfen-Porträt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung eines Dark-Fantasy-Videos mit einer Elfenfrau, deren Augen von einem großen Nachtfalter verdeckt werden, inklusive dramatischer Konturbeleuchtung.
-
-#### 📝 Prompt
-
-```
-Extremes Nahaufnahme-Porträt einer Elfenfrau mit sehr blasser, sommersprossiger und staubiger Haut, spitzen Elfenohren, sie trägt eine verzierte, geschwärzte Goldkrone mit gotischem Filigran und dunklen Juwelen auf dem Kopf, langes, fließendes weißes Haar teilweise sichtbar, ein sehr großer und detaillierter Nachtfalter mit komplex gemusterten Flügeln bedeckt und verdeckt vollständig ihre beiden Augen, der Körper und die ausgebreiteten Flügel des Falters verbergen den Augenbereich komplett, dramatische Low-Key-Kinobeleuchtung mit starkem Streiflicht, das Texturen und Staubpartikel auf der Haut hervorhebt, gedämpfte, entsättigte Farbpalette mit Dominanz von Gold und Schwarz, Dark-Fantasy-Atmosphäre, hyperrealistisch, hyperdetailliert, filmisch, stimmungsvoll.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784881007798_36ite4_HNXvRqjXgAAJLzb.jpg" width="600" alt="Cinematic Dark Fantasy Elfen-Porträt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2078540320497619021) | **Published:** Jul 18, 2026
-
----
-### Häschen-Ballerina in schwarzer Spitze
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filigraner Video-Prompt für eine Häschen-Ballerina, die in schwarze Spitze und Federn gekleidet ist und sich anmutig durch funkelnde Blüten bewegt.
-
-#### 📝 Prompt
-
-```
-Eine Häschen-Ballerina, gehüllt in schwarze Spitze und Federn, die sich sanft zwischen zarten, funkelnden Blüten bewegt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078459688677699584/img/ALSZoPWS1WcZGCCv.jpg" width="600" alt="Häschen-Ballerina in schwarzer Spitze">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7572)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2078459756415791449) | **Published:** Jul 18, 2026
-
----
-### Tottenham Hotspur Fan-Selfie-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, beschreibender Prompt für ein realistisches Selfie einer Frau in einem Tottenham Hotspur-Fußballtrikot in einem Büro-Setting.
-
-#### 📝 Prompt
-
-```
-Fotorealistisches Selfie einer süßen jungen ostasiatischen Frau Anfang 20, schulterlanges, dunkelbraun-schwarzes Haar mit geradem Pony und leichten Wellen, trägt eine dicke schwarze rechteckige Brille. Sie zieht ein verspieltes, albernes Gesicht: Mund offen, Zunge seitlich herausgestreckt, direkter Blick in die Kamera.
-
-Sie trägt ein weißes Tottenham Hotspur-Fußballtrikot mit marineblauen Raglan-Schultern und -Ärmeln. Auffällig auf der Brust: das klassische Tottenham-Hahn-Wappen auf einem Ball, darunter der schwarze Nike-Swoosh und der große, fettgedruckte rote „AIA“-Sponsorenschriftzug. Teilweise ist der „KIA“-Schriftzug am linken Ärmel sichtbar.
-
-Sie sitzt in einem schwarzen Bürostuhl in einem zwanglosen Innenraum mit hellen Wänden, weißen horizontalen Jalousien auf der linken Seite, Holzboden und einem weiteren Fußballtrikot, das an der Wand hinter ihr hängt. Natürliches Tageslicht, realistische Hauttextur, scharfe Details, lässiger Selfie-Winkel, hohe Auflösung, 8k-Fotorealismus.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784448563059_4zf39l_HNe1fQibQAAMMJz.jpg" width="600" alt="Tottenham Hotspur Fan-Selfie-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7521)**
-
-**Author:** [Feyber | AI Creator](https://x.com/woleswoosh) | **Source:** [Link](https://x.com/woleswoosh/status/2078449711980450083) | **Published:** Jul 18, 2026
-
----
-### Video über lebende Metallorganismen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein konzeptioneller Sci-Fi-Prompt, der lebende Metallkugeln als wertvolle Organismen beschreibt, die eine Revolution antreiben.
-
-#### 📝 Prompt
-
-```
-Die Metallkugeln sind wertvolle und lebendige Organismen, die die technologische Revolution vorantreiben.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078434978551980032/img/tmZN-iVwdcziDEFj.jpg" width="600" alt="Video über lebende Metallorganismen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7516)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078435020054610058) | **Published:** Jul 18, 2026
-
----
-### Kosmisches Horror-Universum: Der zerbrochene Spiegel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein epischer Sci-Fi-Fantasy-Video-Prompt mit einem zersplitternden kosmischen Spiegel, rotierenden Galaxien und einem uralten, universumsgroßen Auge.
-
-#### 📝 Prompt
-
-```
-Ein zerbrochener kosmischer Spiegel explodiert in Milliarden von Fragmenten, von denen jedes ein anderes Universum widerspiegelt, in dem die außerirdische Göttin das gleiche tragische Schicksal erleidet. Die Fragmente verschmelzen zu einem kolossalen himmlischen Schloss, das größer als Galaxien ist. Als sich das Schloss langsam öffnet, hallt ein Herzschlag durch den Weltraum und lässt die Sterne erzittern. Hinter dem gebrochenen Siegel öffnet sich ein uraltes Auge von der Größe eines Universums, dessen Iris unzählige rotierende Galaxien enthält. Mit einem einzigen Lidschlag verschwinden ganze Galaxien in der Dunkelheit. Die Göttin erstarrt zum ersten Mal vor Angst. Eine telepathische Stimme flüstert: „Danke... dass du mich befreit hast.“ Risse breiten sich über ihrem leuchtenden Körper aus, während blendend weiße kosmische Energie aus ihrem Inneren hervorbrricht. Ultra-kinematisch, IMAX, Unreal Engine 5, fotorealistisch, kosmischer Horror, volumetrische Beleuchtung, galaktische Visuals, dramatische Kamerabewegung, 8K, hyperdetailliert, epische Sci-Fi-Fantasy.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078407939208159232/img/TV8-cLpw1Nm5QJv1.jpg" width="600" alt="Kosmisches Horror-Universum: Der zerbrochene Spiegel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7520)**
-
-**Author:** [badgirl🍀 🐶🐈‍⬛](https://x.com/MPhuong609) | **Source:** [Link](https://x.com/MPhuong609/status/2078408030933381214) | **Published:** Jul 18, 2026
-
----
-### Panda-Achterbahn 3D-Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein 3D-Render-Prompt für einen cartoonartigen Panda, der in einem Blender-ähnlichen Stil mit Bewegungsunschärfe-Effekten Achterbahn fährt.
-
-#### 📝 Prompt
-
-```
-Ein cartoonartiger Panda fährt in einem Blender 3D-Render mit Bewegungsunschärfe und natürlichem Hintergrund Achterbahn.
-Der Panda hat sichtlich Spaß 😄
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078330473974001664/img/SmZ_vnjIivQ8ABnz.jpg" width="600" alt="Panda-Achterbahn 3D-Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7518)**
-
-**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2078330507230589122) | **Published:** Jul 18, 2026
-
----
-### Realistischer 4K Cinematic Upscale-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein technischer Video-Prompt mit Fokus auf cineastische Qualität, Interpolation und volumetrische Effekte mit intensiven Schatten.
-
-#### 📝 Prompt
-
-```
-Realistische 4K-Cine-Qualität / Smoot-Mix-Realismus / Interpolation und Upscale / Volumetrischer Effekt / Weichere, intensivere Schatten und Sounds
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078322717904764928/img/bcmrms4zRXCeNwTG.jpg" width="600" alt="Realistischer 4K Cinematic Upscale-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7519)**
-
-**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2078322764847403145) | **Published:** Jul 18, 2026
-
----
-### Tortilla-Chip-Dippen-Meme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein beschreibender Prompt für ein animiertes Meme, das zeigt, wie ein Tortilla-Chip vor einer Picknick-Kulisse in verschiedene Saucen getaucht wird.
-
-#### 📝 Prompt
-
-```
-Ich möchte gerne ein Meme erstellen. Ich brauche einen Tortilla-Chip, der kontinuierlich in Dips verschiedener Farben getaucht wird.
-
-Der Chip soll dabei von einer weiblichen Hand gehalten werden.
-
-Als Hintergrund soll eine Picknick-Szene an einem See oder Strand im Nordosten der USA dienen. Es gibt...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078259138434412544/img/SiWxqpOIS3xbaoj7.jpg" width="600" alt="Tortilla-Chip-Dippen-Meme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7449)**
-
-**Author:** [Tommy](https://x.com/tomrcaruso) | **Source:** [Link](https://x.com/tomrcaruso/status/2078259151654863249) | **Published:** Jul 17, 2026
-
----
-### Futuristische 3D-Baupläne und Alien-Technologie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein High-Tech-Videoprompt mit goldenen Bauplänen, Nanotechnologie und außerirdischen Konstruktionswundern, die aus einem Portal mit leuchtenden Farben hervortreten.
-
-#### 📝 Prompt
-
-```
-Zahlreiche 3D-Baupläne kommen aus dem Portal, Antigravitationsantriebe, Nanotechnologie, DNA, Chips, kabellos, neue Technologien, die Wunder der Alien-Technologie, technische Geschenke an die Menschheit, kein Sprechen, goldene Baupläne, Gelb, Grün, Blau, Rot, Fertigung
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078255485120028672/img/iG7rCcKsfBCNp0o1.jpg" width="600" alt="Futuristische 3D-Baupläne und Alien-Technologie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7463)**
-
-**Author:** [JordanPaul](https://x.com/JordanPauldt3) | **Source:** [Link](https://x.com/JordanPauldt3/status/2078255523065922002) | **Published:** Jul 17, 2026
-
----
-### Satirische Sugar-Daddy-Videotransformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Image-to-Video-Prompt, der ein bestimmtes Foto in ein satirisches Themenvideo verwandelt, ohne das ursprüngliche Motiv zu verändern.
-
-#### 📝 Prompt
-
-```
-Verwandle das Foto im Sinne einer satirischen Sugar-Daddy-Ideologie in ein Video, ohne das Motiv zu verändern.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078247343724396544/img/T7IhOpC-6Dimr6OK.jpg" width="600" alt="Satirische Sugar-Daddy-Videotransformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7464)**
-
-**Author:** [Mike Rush](https://x.com/MichaelPRush1) | **Source:** [Link](https://x.com/MichaelPRush1/status/2078247393271677078) | **Published:** Jul 17, 2026
-
----
-### Ambient-Video-Prompt: Landmaus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein sensorisch ansprechender Video-Prompt mit einer sanften Landmaus mit Südstaatenakzent und entspannenden Umgebungsgeräuschen.
-
-#### 📝 Prompt
-
-```
-sanfte, weiche Landmaus mit Südstaatenakzent, „this is ice-cream“, leise Rührgeräusche, feines Klimpern von Windspielen durch das Fenster, sanfte Brise, die niedliche Landhausgardinen bewegt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078242624801009664/img/GxFvUCSpEm0AY4bX.jpg" width="600" alt="Ambient-Video-Prompt: Landmaus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7462)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078242696322322629) | **Published:** Jul 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2215,6 +2362,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-31T07:08:17.761Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-31T11:03:10.376Z</sub>
 
 </div>

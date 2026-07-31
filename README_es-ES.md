@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2262** |
+| 📝 Total Prompts | **2276** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-31** |
 
@@ -189,6 +189,196 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### POV de una cazadora de demonios novata
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video en primera persona de una cazadora de demonios novata que intenta someter a una súcubo con una cruz, lo que resulta en una risita silenciosa.
+
+#### 📝 Prompt
+
+```
+Una toma continua. Estilo POV. Sin diálogos. Desde la perspectiva de una cazadora de demonios novata que intenta su primera cacería. Te acercas y sostienes tu cruz bendita hacia la súcubo esperando que la someta, pero ella simplemente suelta una risita silenciosa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083101439451099136/img/qPm3UFkJfQYOjO-b.jpg" width="600" alt="POV de una cazadora de demonios novata">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8175)**
+
+**Author:** [David](https://x.com/Mmmm8x5mMmmm) | **Source:** [Link](https://x.com/Mmmm8x5mMmmm/status/2083101713003696300) | **Published:** Jul 31, 2026
+
+---
+### Video de un hombre romaní hablando
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video dinámico de un hombre romaní hablando húngaro directamente a la cámara con gestos y expresiones realistas.
+
+#### 📝 Prompt
+
+```
+El hombre romaní de aspecto rudo, con cabello rizado y bigote, mira directamente a la cámara mientras mueve la boca y habla en húngaro con tono desafiante: "Na mit bámulsz gádzsó? Kell valami?", al mismo tiempo que hace un ligero gesto con una mano fuera del bolsillo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083086054119370752/img/WOw9Bu5j41DD_TfS.jpg" width="600" alt="Video de un hombre romaní hablando">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8174)**
+
+**Author:** [Sic @ Warmer Sun](https://x.com/WarmerSun) | **Source:** [Link](https://x.com/WarmerSun/status/2083086074985976235) | **Published:** Jul 31, 2026
+
+---
+### Video profesional de un gatito CEO en la oficina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico de un gatito CEO profesional con traje de negocios realizando acciones como parpadear y golpear un bolígrafo en un entorno de oficina.
+
+#### 📝 Prompt
+
+```
+El adorable gatito CEO con traje de negocios gira lentamente la cabeza hacia la cámara con un enfoque profesional intenso, parpadea una vez deliberadamente, luego levanta su pequeña pata sosteniendo la pluma estilográfica y la golpea dramáticamente contra la computadora portátil para enfatizar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083025324392996864/img/VT0l18fmaNvyaDWb.jpg" width="600" alt="Video profesional de un gatito CEO en la oficina">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8170)**
+
+**Author:** [GIXXER4820](https://x.com/DovelRandy) | **Source:** [Link](https://x.com/DovelRandy/status/2083025347658887665) | **Published:** Jul 31, 2026
+
+---
+### Pionero espacial en Marte: Escena cinematográfica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico de 10 segundos altamente detallado que muestra a pioneros espaciales en Marte durante la hora dorada, centrándose en detalles específicos de la vestimenta y una atmósfera emocional.
+
+#### 📝 Prompt
+
+```
+Una escena cinematográfica de 10 segundos en la superficie rocosa y roja de Marte durante la hora dorada. Un visionario pionero espacial, que lleva una gorra de béisbol negra con la inscripción “I would like to die on Mars. Just not on impact,” y calcetines negros de Marte a juego con coloridos diseños de planetas visibles sobre botas resistentes, camina lentamente por el paisaje. Se detiene y mira hacia el horizonte lejano con curiosidad tranquila, como si se preguntara si alguien más que comparte su sueño ya ha llegado. A lo lejos, una mujer que lleva la misma gorra negra distintiva está de pie sobre una cresta; sus gorras compartidas se convierten en un símbolo silencioso de esperanza, exploración y conexión humana. Viento suave de Marte, polvo realista, iluminación cinematográfica, ultrarrealista, altamente detallado, emocionalmente inspirador, plano medio con el sombrero y los calcetines claramente visibles.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083007065006444544/img/itqxUqkcMVQccWCq.jpg" width="600" alt="Pionero espacial en Marte: Escena cinematográfica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8180)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2083008164165722533) | **Published:** Jul 31, 2026
+
+---
+### Estatuas animadas de jugadores de hockey
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de animación de video que da vida a estatuas de jugadores de hockey mientras salen al hielo para una sesión de fotos.
+
+#### 📝 Prompt
+
+```
+anima estas estatuas de jugadores de hockey para que parezca que entran al hielo y se preparan para una sesión de fotos
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082893258250706944/img/tS1NtLNqEIOK_54f.jpg" width="600" alt="Estatuas animadas de jugadores de hockey">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8179)**
+
+**Author:** [Viorel Stolea](https://x.com/viorel_stolea) | **Source:** [Link](https://x.com/viorel_stolea/status/2082893351569752541) | **Published:** Jul 30, 2026
+
+---
+### Video de una princesa caminando por un sendero de rosas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico de una princesa con un vestido bordado caminando hacia un rey en el arco de un castillo.
+
+#### 📝 Prompt
+
+```
+La princesa continúa caminando con gracia por el sendero de rosas, su vestido bordado de tela transparente y su largo velo fluyen con elegancia a cada paso mientras brilla una luz dorada. Se acerca al apuesto rey que espera en el arco del castillo cubierto de rosas...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082856138928975872/img/SHy5RHgKfh_EJfWv.jpg" width="600" alt="Video de una princesa caminando por un sendero de rosas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8178)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2082856269443105228) | **Published:** Jul 30, 2026
+
+---
+### Video de mujer con IA hablando
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video de una mujer hablando de forma natural sobre inteligencia artificial con movimientos faciales y gestos realistas.
+
+#### 📝 Prompt
+
+```
+La mujer habla sobre inteligencia artificial, su boca se mueve de forma natural mientras comenta los avances de la IA y el futuro de la tecnología, con sutiles asentimientos de cabeza y ligeros giros, su mano levantada gesticula suavemente para enfatizar los puntos clave, parpadeo natural y...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082845583417749505/img/9b41u_xSSJ9jYpCY.jpg" width="600" alt="Video de mujer con IA hablando">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8176)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2082845599611928577) | **Published:** Jul 30, 2026
+
+---
+### Mujer afroamericana rubia en un viaje en coche
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una vibrante ilustración animada de una mujer tatuada conduciendo con su gato, con estilos de arte kawaii y superposiciones en tono bronce.
+
+#### 📝 Prompt
+
+```
+hermosa mujer afroamericana rubia tatuada en un coche con su gato, ojos verde brillante, estilo de arte kawaii, superposición de color naranja claro y bronce claro, ilustraciones animadas, daz3d, realista
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082838636114968576/img/k6utsebHs3-oSUbr.jpg" width="600" alt="Mujer afroamericana rubia en un viaje en coche">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8171)**
+
+**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2082838664023876035) | **Published:** Jul 30, 2026
+
+---
+### Cangrejo de plastilina montando en bicicleta en la playa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt creativo al estilo stop-motion de un cangrejo de plastilina intentando montar en bicicleta en un paseo marítimo, con movimientos dramáticos y torpes.
+
+#### 📝 Prompt
+
+```
+cangrejo de plastilina intentando montar en bicicleta en la playa, moviéndose de forma dramática y torpe, paseo marítimo hecho de plastilina 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082774839023325184/img/2ETKUfH7zgKsk-fI.jpg" width="600" alt="Cangrejo de plastilina montando en bicicleta en la playa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8173)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2082774909529514084) | **Published:** Jul 30, 2026
+
+---
+### Movimiento de la matriz de conciencia digital
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video técnico que utiliza parámetros de control de cámara para visualizar una matriz de conciencia digital luminosa.
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "bajo", "camera_depth": "primer plano", "camera_view": "a la altura de los ojos", "camera_movement": "toma estática con un sutil y suave zoom hacia adentro"}, "scene": {"location": "matriz de conciencia digital", "environment": "Una matriz digital luminosa y abstracta..."}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082734395275022336/img/lu_35oamLTPon1Zp.jpg" width="600" alt="Movimiento de la matriz de conciencia digital">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8172)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2082734459611443355) | **Published:** Jul 30, 2026
+
+---
 ### Video de transformación de He-Man con rayos
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -230,6 +420,185 @@ Hacer que los dragones tengan un aspecto más místico
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082703667103473802) | **Published:** Jul 30, 2026
 
 ---
+### Animación cinemática de anime SF en un solo plano
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt integral para crear una animación cinemática de ciencia ficción de 15 segundos utilizando una ilustración inicial como marco de referencia, centrándose en el movimiento natural y un cambio de perspectiva en primera persona.
+
+#### 📝 Prompt
+
+```
+Utiliza la ilustración adjunta como el primer fotograma del video.
+
+━━━━━━━━━━━━━━━━━━
+
+Objetivo
+
+Producir una animación cinemática de ciencia ficción de 15 segundos manteniendo el estilo, el personaje, la composición, el fondo, la iluminación y la atmósfera de la ilustración original.
+
+No redibujes la ilustración original; dale un flujo natural de tiempo y una sensación de vida a la imagen estática.
+
+El metraje debe estar planteado como si fuera grabado en una sola toma larga (plano secuencia).
+
+Los cortes están prohibidos.
+
+Los diálogos y la sincronización labial están prohibidos.
+
+━━━━━━━━━━━━━━━━━━
+
+Visuales
+
+No cambies el estilo artístico.
+
+No rediseñes al personaje.
+
+No cambies el fondo.
+
+Mantén la composición.
+
+No cambies la vestimenta.
+
+Mantén la iluminación.
+
+Prioriza la identidad del personaje por encima de todo.
+
+Mantén las proporciones corporales.
+
+Mantén los rasgos faciales.
+
+Añade solo la animación natural mínima necesaria.
+
+━━━━━━━━━━━━━━━━━━
+
+Personaje
+
+El personaje está sentado en la cabina de un mecha gigante.
+
+Opera naturalmente el HUD holográfico.
+
+Nota que está siendo filmado.
+
+Sonríe de forma natural.
+
+No se levanta del asiento.
+
+Mientras está sentado, inclina naturalmente la parte superior del cuerpo hacia adelante.
+
+Extiende naturalmente un brazo fuera de la pantalla.
+
+Recoge naturalmente la misma cámara.
+
+Continúa con una filmación manual natural a partir de ese punto.
+
+La actuación debe ser natural y relajada en todo momento.
+
+Termina guiñando un ojo y haciendo el signo de la paz a la cámara.
+
+━━━━━━━━━━━━━━━━━━
+
+Cámara
+
+Cámara completamente fija al inicio.
+
+No se mueve en absoluto, como una cámara de grabación fijada en un trípode.
+
+Sin paneos.
+
+Sin inclinaciones (tilt).
+
+Sin zooms.
+
+Sin desplazamientos (dolly).
+
+Sin movimientos orbitales.
+
+Sin seguimiento (tracking).
+
+Sin acercamientos (push-in).
+
+Sin alejamientos (pull-out).
+
+La cámara no se acerca al personaje.
+
+Solo el personaje inclina ligeramente su cuerpo hacia adelante.
+
+La distancia a la cámara solo disminuye ligeramente.
+
+Solo en el momento en que el personaje toca la cámara, ocurre un temblor natural de mano debido a la ligera inercia.
+
+A partir de ese momento, se convierte en una filmación manual natural con la misma cámara.
+
+El metraje permanece ininterrumpido hasta el final.
+
+━━━━━━━━━━━━━━━━━━
+
+Cronología
+
+0-2 segundos
+
+Opera el HUD holográfico. Solo las puntas de los dedos se mueven naturalmente.
+
+2-3 segundos
+
+Nota que está siendo filmado. Mira hacia aquí. Sonríe de forma natural.
+
+3-5 segundos
+
+Saluda ligeramente. Actúa con un tempo natural. No permanezcas quieto por mucho tiempo.
+
+5-8 segundos
+
+No se levanta del asiento. Inclina ligeramente la parte superior del cuerpo hacia adelante. Extiende naturalmente un brazo fuera de la pantalla. La mano sale del encuadre. Recoge naturalmente la misma cámara. Ocurre un pequeño temblor manual debido a la ligera inercia. El punto de vista transiciona naturalmente a una filmación manual mientras permanece continuo.
+
+8-15 segundos
+
+Continúa la filmación manual natural con el brazo extendido. Mantiene una sonrisa natural. Cambia ligeramente la expresión facial. Mueve la mirada ligeramente. Muestra el HUD o la cabina brevemente antes de mostrarse a sí mismo de nuevo. La atmósfera es natural y como si disfrutara de la filmación. Termina guiñando un ojo y haciendo el signo de la paz a la cámara. No debe terminar inmediatamente después de recoger la cámara. La mayor parte de la segunda mitad del video debe ser filmación manual.
+
+━━━━━━━━━━━━━━━━━━
+
+Fondo
+
+Cabina de mecha gigante.
+
+Interfaz de usuario holográfica.
+
+Santuario.
+
+Bosque.
+
+No cambies el fondo.
+
+Luz natural.
+
+El cabello y la ropa se balancean ligeramente.
+
+━━━━━━━━━━━━━━━━━━
+
+Renderizado
+
+Animación de alta calidad.
+
+Calidad cinematográfica.
+
+Fluctuaciones minuciosas del arte lineal dibujado a mano.
+
+Textura típica de las obras de anime.
+
+━━━━━━━━━━━━━━━━━━
+
+Lo más importante
+
+No redibujes la ilustración original. No conviertas al personaje en otra persona. No cambies el fondo. No cambies la vestimenta. No cambies la composición. No gires el cuerpo. No realices cambios de dirección innecesarios. No dibujes partes del cuerpo que no se ven. La acción llamativa está prohibida. No representes equipos de filmación dentro del encuadre. La cámara es el punto de vista mismo y no debe ser representada como un objeto dentro del metraje. Cámara fija al inicio. Solo el personaje toca la cámara. El punto de vista se mueve solo en el momento en que el personaje sostiene la cámara en su mano. Sin fundidos. Sin transiciones. Sin cortes bruscos (jump cuts). Sin apagones. Está prohibida la dirección que cubra la lente con una mano. La cámara no debe ir al encuentro del personaje. El metraje debe establecerse como un único plano secuencia cinemático de principio a fin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082653478808412160/img/q3Yoqj87sPHBaHTy.jpg" width="600" alt="Animación cinemática de anime SF en un solo plano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8163)**
+
+**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2082654818544521489) | **Published:** Jul 30, 2026
+
+---
 ### Escena de lluvia de neón con ciber-geisha
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -268,6 +637,44 @@ el círculo de salpicadura de color rojo se transforma de la letra a a la k, lue
 **Author:** [AKOS ᴺᶠᵀ](https://x.com/akosphoto) | **Source:** [Link](https://x.com/akosphoto/status/2082618270775927099) | **Published:** Jul 30, 2026
 
 ---
+### Lanzamiento de nave espacial de pareja alienígena
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video de ciencia ficción que muestra a seres alienígenas con armaduras ornamentadas observando cómo una nave espacial asciende al espacio desde una cornisa rocosa.
+
+#### 📝 Prompt
+
+```
+La mujer y su compañero con armadura son ahora claramente seres alienígenas con rasgos sutiles no humanos y armaduras ornamentadas, sentados uno al lado del otro en la cornisa rocosa, tomados de la mano mientras observan cómo la elegante nave espacial despega y asciende hacia el resplandor...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082603959118618624/img/HrSGdOcoBKkFEwiK.jpg" width="600" alt="Lanzamiento de nave espacial de pareja alienígena">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8181)**
+
+**Author:** [Aurora](https://x.com/Aurora747220) | **Source:** [Link](https://x.com/Aurora747220/status/2082603987975438437) | **Published:** Jul 29, 2026
+
+---
+### Movimiento del gusano de arena de Dune
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video complejo que describe el movimiento específico de excavación y desplazamiento de un gusano de arena de Dune guiado por personas.
+
+#### 📝 Prompt
+
+```
+Grok, por favor gira la cabeza del gusano de arena porque así es como excava. Y la forma en que el gusano de arena es guiado por la gente de Dune, subiéndose a su espalda con cuerdas de gancho, y luego el gusano de arena mantiene la cabeza en alto para viajar rápido para mantener al gusano de arena...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082598769791541248/img/MUl1yVawi1LVhoIs.jpg" width="600" alt="Movimiento del gusano de arena de Dune">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8177)**
+
+**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2082598813072507324) | **Published:** Jul 29, 2026
+
+---
 ### Cohete flotando en el océano
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -285,6 +692,25 @@ Crea un video de un cohete flotando en el océano. Luego llega un hombre, le col
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8106)**
 
 **Author:** [Sofia @ Sacred Petals™](https://x.com/LightTemple) | **Source:** [Link](https://x.com/LightTemple/status/2082558813836620150) | **Published:** Jul 29, 2026
+
+---
+### Reina elfa dragón gótica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinemático hiperrealista de una mujer con ojos de zafiro y un dragón en un bosque nevado.
+
+#### 📝 Prompt
+
+```
+mujer capturada por la cámara, piel hiperrealista con textura natural, poros visibles, rostro hermoso y simétrico, ojos azul zafiro vívidos con iris natural detallado, maquillaje natural suave, cabello largo blanco platino en dos trenzas gruesas y realistas con flequillo desordenado y mechones de cabello real, orejas de elfo puntiagudas, corona gótica negra detallada, tatuajes intrincados en negro y gris en brazos y torso, corsé rosa sin tirantes con textura de tela auténtica, gargantillas y collares negros en capas, dragón grande y realista de color negro y rosa con escamas naturales hiperdetalladas y ojos realistas enroscado alrededor de su cuerpo y hombros, fondo de bosque nevado y brumoso, iluminación natural suave y difusa, colores naturales apagados y fuertemente desaturados, grano de película realista y ruido sutil.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082507829475188736/img/ZOCgDMtfcQzsOaof.jpg" width="600" alt="Reina elfa dragón gótica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8182)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2082507905622843650) | **Published:** Jul 29, 2026
 
 ---
 ### Búsqueda del tesoro en una tumba antigua
@@ -2057,285 +2483,6 @@ Imagina que canta la primera parte de Hearts Content: “Maybe you thought I hun
 **Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2078719563235995784) | **Published:** Jul 19, 2026
 
 ---
-### Prompts cinemáticos para retransmisiones de partidos de fútbol
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un conjunto de prompts profesionales para retransmisiones de fútbol en Grok Imagine, que cubren desde tomas aéreas del estadio hasta acciones de juego específicas como penaltis y tiros libres.
-
-#### 📝 Prompt
-
-```
-toma aérea del estadio – tazón de 80.000 asientos, argentina vs españa, espiral aérea descendente continua, tifo + bengalas, luz de hora dorada / mezcla con focos
-
-penalti – lamine yamal (españa n.º 19) vs emiliano martínez (portero de argentina): carrera, disparo único, estirada completa, balón en la red. rostros reales mediante referencia
-
-tiro libre – messi a 25 metros, barrera de cinco hombres, efecto por encima de la barrera hacia la escuadra. la barrera debe mirar al balón con los brazos pegados al cuerpo, como una barrera real
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078586357488709632/img/7Rg5Aik0KFhlWel5.jpg" width="600" alt="Prompts cinemáticos para retransmisiones de partidos de fútbol">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7573)**
-
-**Author:** [thehype.](https://x.com/thehypedotnews) | **Source:** [Link](https://x.com/thehypedotnews/status/2078586716445655145) | **Published:** Jul 18, 2026
-
----
-### Video de un gato gris patriótico cantando
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt creativo que presenta a un gato gris gordito con patas blancas cantando una melodía patriótica mientras trabaja.
-
-#### 📝 Prompt
-
-```
-Hay un gato gris gordito con patas blancas. Canta suavemente la melodía de “oh beautiful for spacious skies, for amber waves of grain” mientras trabaja.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078578004008034304/img/xH1oglULnTnXbhPu.jpg" width="600" alt="Video de un gato gris patriótico cantando">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7515)**
-
-**Author:** [Susan Kurvach](https://x.com/SKurvach) | **Source:** [Link](https://x.com/SKurvach/status/2078578018801315977) | **Published:** Jul 18, 2026
-
----
-### Pintura al óleo de un león vivo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de animación creativa para un dormitorio oscuro donde una pintura al óleo enmarcada de un león cobra vida y se mueve.
-
-#### 📝 Prompt
-
-```
-Un gran marco negro ornamentado colgado en la pared oscura de un dormitorio con paredes negras. A un lado del cuadro hay una ventana con pesadas cortinas de terciopelo rojo. Dentro del marco negro ornamentado hay una pintura al óleo que ha cobrado vida. Solo el león dentro de la pintura se mueve
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078575143455014912/img/MSLfxwToTfN-zDAz.jpg" width="600" alt="Pintura al óleo de un león vivo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7517)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078575196550615483) | **Published:** Jul 18, 2026
-
----
-### Retrato de elfa de fantasía oscura cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para crear un video de fantasía oscura que presenta a una mujer elfa con una polilla grande cubriendo sus ojos y una iluminación de contorno dramática.
-
-#### 📝 Prompt
-
-```
-Retrato en primer plano extremo de una mujer elfa con piel muy pálida, pecosa y polvorienta, orejas de elfa puntiagudas, luciendo una corona dorada ennegrecida ornamentada con filigrana gótica y joyas oscuras en la cabeza, cabello blanco largo y fluido parcialmente visible, una polilla muy grande y detallada con alas de patrones intrincados cubriendo y oscureciendo completamente ambos ojos, el cuerpo y las alas extendidas de la polilla ocultando totalmente el área de los ojos, iluminación cinematográfica dramática de clave baja con una fuerte luz de contorno resaltando las texturas y partículas de polvo en la piel, paleta de colores desaturados y apagados con predominio de dorado y negro, atmósfera de fantasía oscura, hiperrealista, hiperdetallado, cinematográfico, temperamental.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784881007798_36ite4_HNXvRqjXgAAJLzb.jpg" width="600" alt="Retrato de elfa de fantasía oscura cinematográfica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2078540320497619021) | **Published:** Jul 18, 2026
-
----
-### Conejita bailarina con encaje negro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un delicado prompt de video para una conejita bailarina vestida con encaje negro y plumas, moviéndose con gracia entre flores brillantes.
-
-#### 📝 Prompt
-
-```
-Una conejita bailarina envuelta en encaje negro y plumas, moviéndose suavemente entre delicadas flores brillantes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078459688677699584/img/ALSZoPWS1WcZGCCv.jpg" width="600" alt="Conejita bailarina con encaje negro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7572)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2078459756415791449) | **Published:** Jul 18, 2026
-
----
-### Prompt para selfie de fan del Tottenham Hotspur
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descriptivo altamente detallado para una selfie realista de una mujer vistiendo una camiseta de fútbol del Tottenham Hotspur en un entorno de oficina.
-
-#### 📝 Prompt
-
-```
-Selfie fotorrealista de una joven asiática oriental de unos 20 años, con cabello castaño oscuro a la altura de los hombros, flequillo recto y ligeras ondas, usando gafas rectangulares negras de montura gruesa. Hace una expresión divertida y juguetona: boca abierta, lengua hacia un lado, mirando directamente a la cámara.
-
-Lleva puesta una camiseta de fútbol blanca del Tottenham Hotspur con hombros y mangas ranglán en azul marino. En el pecho destaca el clásico emblema del gallo del Tottenham sobre un balón, el swoosh de Nike en negro debajo y el texto rojo grande y llamativo del patrocinador "AIA" más abajo. Se alcanza a ver parte del texto "KIA" en la manga izquierda.
-
-Está sentada en una silla de oficina negra en una habitación interior informal con paredes claras, persianas horizontales blancas a la izquierda, suelo de madera y otra camiseta de fútbol colgada en la pared detrás de ella. Luz natural, textura de piel realista, detalles nítidos, ángulo de selfie informal, alta resolución, fotorrealismo 8k.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784448563059_4zf39l_HNe1fQibQAAMMJz.jpg" width="600" alt="Prompt para selfie de fan del Tottenham Hotspur">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7521)**
-
-**Author:** [Feyber | AI Creator](https://x.com/woleswoosh) | **Source:** [Link](https://x.com/woleswoosh/status/2078449711980450083) | **Published:** Jul 18, 2026
-
----
-### Video de organismos de metal vivo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt conceptual de ciencia ficción que describe esferas de metal vivo como organismos preciosos que impulsan una revolución.
-
-#### 📝 Prompt
-
-```
-Las esferas de metal son organismos vivos y preciosos que impulsan la revolución tecnológica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078434978551980032/img/tmZN-iVwdcziDEFj.jpg" width="600" alt="Video de organismos de metal vivo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7516)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078435020054610058) | **Published:** Jul 18, 2026
-
----
-### Universo de espejo roto de horror cósmico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un épico prompt de video de fantasía y ciencia ficción que presenta un espejo cósmico haciéndose añicos, galaxias giratorias y un antiguo ojo del tamaño del universo.
-
-#### 📝 Prompt
-
-```
-Un espejo cósmico hecho añicos explota en miles de millones de fragmentos, cada uno reflejando un universo diferente donde la diosa alienígena encuentra el mismo destino trágico. Los fragmentos se fusionan en una cerradura celestial colosal más grande que las galaxias. A medida que la cerradura se abre lentamente, un latido resuena a través del espacio, haciendo que las estrellas tiemblen. Más allá del sello roto, se abre un ojo antiguo del tamaño de un universo, cuyo iris contiene innumerables galaxias giratorias. Con un solo parpadeo, galaxias enteras desaparecen en la oscuridad. La diosa se congela de miedo por primera vez. Una voz telepática susurra: "Gracias... por liberarme". Grietas se extienden por su cuerpo brillante mientras una energía cósmica blanca y cegadora brota desde su interior. Ultra cinematográfico, IMAX, Unreal Engine 5, fotorrealista, horror cósmico, iluminación volumétrica, efectos visuales a escala galáctica, movimiento de cámara dramático, 8K, hiperdetallado, fantasía épica de ciencia ficción.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078407939208159232/img/TV8-cLpw1Nm5QJv1.jpg" width="600" alt="Universo de espejo roto de horror cósmico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7520)**
-
-**Author:** [badgirl🍀 🐶🐈‍⬛](https://x.com/MPhuong609) | **Source:** [Link](https://x.com/MPhuong609/status/2078408030933381214) | **Published:** Jul 18, 2026
-
----
-### Animación 3D de un panda en una montaña rusa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de renderizado 3D para un panda caricaturesco montado en una montaña rusa con efectos de desenfoque de movimiento al estilo Blender.
-
-#### 📝 Prompt
-
-```
-Un panda caricaturesco monta una montaña rusa en un renderizado 3D estilo Blender con desenfoque de movimiento y un fondo natural.
-El panda se está divirtiendo 😄
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078330473974001664/img/SmZ_vnjIivQ8ABnz.jpg" width="600" alt="Animación 3D de un panda en una montaña rusa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7518)**
-
-**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2078330507230589122) | **Published:** Jul 18, 2026
-
----
-### Prompt de escalado cinemático 4K realista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video técnico enfocado en calidad cinemática, interpolación y efectos volumétricos con sombras intensas.
-
-#### 📝 Prompt
-
-```
-Calidad cinemática 4K realista / Mezcla suave de realismo / Interpolación y escalado / Efecto volumétrico / Sombras y sonidos más suaves e intensos
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078322717904764928/img/bcmrms4zRXCeNwTG.jpg" width="600" alt="Prompt de escalado cinemático 4K realista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7519)**
-
-**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2078322764847403145) | **Published:** Jul 18, 2026
-
----
-### Meme de tortilla chip sumergiéndose
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descriptivo para un meme animado que muestra una tortilla chip siendo sumergida en varias salsas con un fondo de picnic.
-
-#### 📝 Prompt
-
-```
-Me gustaría crear un meme, por favor. Necesito una tortilla chip que se sumerja continuamente en salsas de diferentes colores.
-
-Luego, añade la tortilla chip siendo sostenida por una mano femenina.
-
-Para el fondo, utiliza un entorno de picnic en un lago o playa en el noreste de EE. UU. Hay...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078259138434412544/img/SiWxqpOIS3xbaoj7.jpg" width="600" alt="Meme de tortilla chip sumergiéndose">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7449)**
-
-**Author:** [Tommy](https://x.com/tomrcaruso) | **Source:** [Link](https://x.com/tomrcaruso/status/2078259151654863249) | **Published:** Jul 17, 2026
-
----
-### Planos 3D futuristas y tecnología alienígena
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video de alta tecnología que presenta planos dorados, nanotecnología y regalos de ingeniería alienígena emergiendo de un portal con colores vibrantes.
-
-#### 📝 Prompt
-
-```
-Muchos planos 3D salen del portal, propulsores antigravedad, nanotecnología, ADN, chips, tecnología inalámbrica, nuevas tecnologías, las maravillas de la tecnología alienígena, regalos de ingeniería para la humanidad, sin diálogos, planos dorados, amarillo, verde, azul, rojo, fabricación
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078255485120028672/img/iG7rCcKsfBCNp0o1.jpg" width="600" alt="Planos 3D futuristas y tecnología alienígena">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7463)**
-
-**Author:** [JordanPaul](https://x.com/JordanPauldt3) | **Source:** [Link](https://x.com/JordanPauldt3/status/2078255523065922002) | **Published:** Jul 17, 2026
-
----
-### Transformación de video satírico de Sugar Daddy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de imagen a video que anima una foto específica en un video temático satírico sin cambiar al sujeto original.
-
-#### 📝 Prompt
-
-```
-En una ideología satírica de sugar daddy, no cambies la foto, solo conviértela en un video
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078247343724396544/img/T7IhOpC-6Dimr6OK.jpg" width="600" alt="Transformación de video satírico de Sugar Daddy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7464)**
-
-**Author:** [Mike Rush](https://x.com/MichaelPRush1) | **Source:** [Link](https://x.com/MichaelPRush1/status/2078247393271677078) | **Published:** Jul 17, 2026
-
----
-### Prompt de video de ratón de campo ambiental
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video rico en sensaciones que presenta a un tierno ratón de campo con acento sureño y sonidos ambientales relajantes.
-
-#### 📝 Prompt
-
-```
-ratón de campo tierno y amable con voz de acento sureño, sonidos pequeños de revolver "esto es helado", sonidos tenues de campanillas de viento a través de la ventana con una brisa suave que agita unas lindas cortinas campestres
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078242624801009664/img/GxFvUCSpEm0AY4bX.jpg" width="600" alt="Prompt de video de ratón de campo ambiental">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7462)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078242696322322629) | **Published:** Jul 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2397,6 +2544,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-31T07:08:15.440Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-31T11:03:06.327Z</sub>
 
 </div>
