@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2276** |
+| 📝 Total Prompts | **2293** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-01** |
 
@@ -189,6 +189,307 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Işıldayan Android Mekanik Hareketi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kameraya doğru dönen, ışıldayan camgöbeği devre hatlarına ve parlak mavi gözlere sahip insansı bir android için detaylı sinematik komut.
+
+#### 📝 Prompt
+
+```
+İnsansı android, hafif bir mekanik vızıltıyla başını yavaşça kameraya doğru çeviriyor; parlak mavi gözleri aydınlanırken, vücudu boyunca uzanan camgöbeği devre hatları nabız gibi atıp daha parlak bir şekilde parlıyor. Ardından, kamera yavaşça ilerlerken ölçülü bir adım atıyor...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083457142128775168/img/LrgStZAV5EJgLMxe.jpg" width="600" alt="Işıldayan Android Mekanik Hareketi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8244)**
+
+**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2083457179588133310) | **Published:** Aug 1, 2026
+
+---
+### Kara Delikte Paten Kaymak
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kişinin kara deliğin yüzeyinde paten kaydığını ve merkeze doğru ilerlediğini betimleyen sürreal bir video istemi.
+
+#### 📝 Prompt
+
+```
+Bir kişi, kara deliği katı bir yüzeymiş gibi kullanarak üzerinde patenleriyle hızla kayıyor ve merkeze doğru yaklaşıyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083424503581884416/img/4pNiW-LwkZrdm5Ck.jpg" width="600" alt="Kara Delikte Paten Kaymak">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8246)**
+
+**Author:** [Ryan Fogle](https://x.com/fogle_ryan) | **Source:** [Link](https://x.com/fogle_ryan/status/2083424826077634830) | **Published:** Aug 1, 2026
+
+---
+### Ay'da Gökkuşağı Dalgaları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ay yüzeyinde dalgalanan bulutların altında ilerleyen gökkuşağı renkli dalgaların sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Gökkuşağı renginde dalgalanan bulutlar 
+
+Gökkuşağı 🌈 dalgaları 🌊 ayın 🌕 yüzeyi boyunca ilerliyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083392628662444032/img/f_jZIl7_UwaO2pVj.jpg" width="600" alt="Ay'da Gökkuşağı Dalgaları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8242)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2083392643111723029) | **Published:** Aug 1, 2026
+
+---
+### Büyülü Balo Elbisesi Video Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Basit bir kıyafeti ruhani ve büyülü bir balo elbisesine dönüştürürken yüz tutarlılığını koruyan bir karakter dönüşüm istemi.
+
+#### 📝 Prompt
+
+```
+Aynı balo salonu pozunda, sarı ikiz at kuyruklu, mavi kurdeleli, parlayan büyülü parşömenli, aynı yüz, ifade ve arka plana sahip aynı genç kadın. Elbisesini nefes kesici, büyülü ve efsunlu bir balo elbisesine dönüştürün: ruhani, yarı saydam katmanlar...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083371734892531712/img/ak5b5j2Nft_Cm6CX.jpg" width="600" alt="Büyülü Balo Elbisesi Video Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8251)**
+
+**Author:** [シェルティソーラ](https://x.com/mioarashidaisuk) | **Source:** [Link](https://x.com/mioarashidaisuk/status/2083371756593824145) | **Published:** Aug 1, 2026
+
+---
+### Gece İzlanda Şelalesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gece saat 02:00'de İzlanda'daki bir şelalenin üzerinde dans eden kuzey ışıklarıyla birlikte çekilmiş güzel ve manzaralı bir görsel istemi.
+
+#### 📝 Prompt
+
+```
+gece saat 02:00'de dondurucu İzlanda şelalesinin altında dururken, kuzey ışıkları simsiyah gökyüzünde çılgınca dans ediyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083352929319149568/img/Oq0TSnBwRL2Gj8vi.jpg" width="600" alt="Gece İzlanda Şelalesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8249)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2083352972671484273) | **Published:** Aug 1, 2026
+
+---
+### Soyut Zeka Biçimsel Sistemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Zekayı kendi kendini inceleyen sıkıştırılmış bir biçimsel sistem olarak temsil eden, sürekli bir video sekansı için yüksek kavramlı bir komut.
+
+#### 📝 Prompt
+
+```
+Zekanın bir illüstrasyonu değil, zekanın kendi işleyişinin teorik sınırlarını incelediği ve zaman içinde açığa çıkan, sıkıştırılmış bir biçimsel sistem olan tek bir kesintisiz video (kesintisiz) oluşturun.
+Tüm sekans şuradan ortaya çıkmalıdır...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083340214701899776/img/v8SR9mhjIc7NJcql.jpg" width="600" alt="Soyut Zeka Biçimsel Sistemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8252)**
+
+**Author:** [David Pittman](https://x.com/BlitzedOstrich) | **Source:** [Link](https://x.com/BlitzedOstrich/status/2083340486324924611) | **Published:** Jul 31, 2026
+
+---
+### Kahve Takımyıldızı Hayal Gücü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sıcak kahvenin, yıldızları takımyıldızlara dönüştüren bir hayal gücünü beslediği sürreal bir animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Sıcak kahve doğrudan hayal gücünün boğazından aşağı akıyor ve hayal gücü, sıcak kahveden aldığı tüm enerjiyle gökyüzündeki yıldızları takımyıldızlar halinde düzenlemek için işe koyuluyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083325815266168832/img/EiK4SROYGFuR0F9W.jpg" width="600" alt="Kahve Takımyıldızı Hayal Gücü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8248)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2083325838875926622) | **Published:** Jul 31, 2026
+
+---
+### Siyah Kahve Dökülürken Yakın Çekim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir fincana dökülen kahvenin dokusuna ve rengine odaklanan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Tertemiz, mükemmel bir fincan siyah kahveyi doğrudan bardağa dolduruyorum, sadece en iyisi. Zengin, koyu, pürüzsüz...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083324383238504448/img/dB3x38Cd4ngTBCvo.jpg" width="600" alt="Siyah Kahve Dökülürken Yakın Çekim">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8243)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2083324400044999154) | **Published:** Jul 31, 2026
+
+---
+### Hard Rock Performansı Müzik Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ses senkronizasyonu, dudak senkronizasyonu ve görsel stabilite gereksinimleri olan uzun metrajlı bir hard-rock performansı için karmaşık sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+BAŞLIK: KART 13 — SON AT
+
+FORMAT:
+45 saniyelik sinematik hard-rock performansı
+16:9 geniş ekran
+doğal senkronize stereo ses
+tepeden tırnağa tek bir şarkı
+baştan sona net ana vokal
+doğru dudak senkronizasyonu
+stabil yüz, kostüm ve ses...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083287009200623616/img/VF_S7OOefIPVpYLC.jpg" width="600" alt="Hard Rock Performansı Müzik Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8253)**
+
+**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2083287048039932018) | **Published:** Jul 31, 2026
+
+---
+### Gerçekçi Portre Aydınlatması
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Dikey 4K videolarda yüksek kontrastlı, düşük anahtarlı (low-key) aydınlatma için; keskin cilt dokularına ve sosyal medya içeriklerine yönelik profesyonel renk düzenlemesine odaklanan teknik bir istem.
+
+#### 📝 Prompt
+
+```
+9:16 dikey kompozisyon, 4K ultra net gerçekçi görüntü kalitesi. Düşük anahtarlı (low-key) aydınlatma stili, yüksek kontrast. Soğuk tonlu arka plan, öznenin kıyafetleriyle keskin bir kontrast oluşturarak karakter hatlarını ve cilt parlaklığını vurguluyor; sosyal medya kısa videolarının tipik keskin dokusunu içeriyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083190013555351552/img/HBLt2oDD3ePcZjd0.jpg" width="600" alt="Gerçekçi Portre Aydınlatması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8258)**
+
+**Author:** [三杯吐然诺](https://x.com/r2i3c8k) | **Source:** [Link](https://x.com/r2i3c8k/status/2083190137786413133) | **Published:** Jul 31, 2026
+
+---
+### Sinematik Akrobatik Dövüş Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gerçekçi fizik kuralları ve dinamik kamera açılarıyla, yüksek enerjili, tek plan bir dövüş sanatları sahnesi için son derece detaylı bir komut.
+
+#### 📝 Prompt
+
+```
+Kesinti yok. Geçiş yok. Dinamik, yüksek enerjili akrobatik dövüş sekansı. Mükemmel hareket netliği ile akıcı, güçlü ve sinematik hareketler. Karakter; dönerek atılan tekmeler, uçan diz darbeleri, havada taklalar, duvar koşuları, zıplamalar, yuvarlanmalar ve sert yere sermeler dahil olmak üzere hızlı tempolu dövüş sanatları komboları gerçekleştiriyor. Her vuruşta hissedilen güçlü bir momentum ve ağırlık ile pürüzsüz, atletik ve gerçekçi fizik kuralları. Dinamik kamera çalışması; takip çekimleri, dönen kamera, dramatik açılar, darbe anlarında ara sıra ağır çekim. Yüksek yoğunluk, zarif ama güçlü koreografi, mükemmel akıcılık ve hız. Sinematik aydınlatma, keskin hareket detayları, donukluk yok, son derece dinamik ve heyecan verici dövüş sahnesi, başyapıt kalitesi, 6 saniyelik video...., son derece dinamik ve heyecan verici dövüş sahnesi, pürüzsüz akıcı hareket, başyapıt kalitesi, 6 saniyelik video. Sahneye gelen her saldırgan siyah giyinmiş olmalı ve farklı bir kişi gibi görünmeli. Ayrıca sadece yere uzanmamalı, aktif olarak dövüşmeliler. Karakter, dövüş sırasında özgüvenini korumalı ve sarsılmamalı veya dengesini kaybetmemeli. Öncelik doğru fizik kurallarıdır; akrobatik bir hareketi taklit etmek için asla bulanıklaştırma yapmayın veya doğru fizik kurallarından ödün vermeyin. Temiz ve net bir görüntü kalitesini koruyun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083173742629261312/img/DkB8EMcO-9eK1a0C.jpg" width="600" alt="Sinematik Akrobatik Dövüş Sekansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8250)**
+
+**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2083184843173642443) | **Published:** Jul 31, 2026
+
+---
+### Mars'ın Yeniden Doğuşu Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kızıl gezegenin yeniden canlanışını, ikiz uydular altında çalışan insanlarla tasvir eden, Mars'ta geçen umut dolu sinematik bir sahne.
+
+#### 📝 Prompt
+
+```
+Mars'ı düşleyerek uyanmak; havasını soluyabildiğin, zamanın daha sade, yaşam ve mucizelerle dolu olduğu bir yer...
+
+Mars'ta geçen umut dolu bir sahnede, Kennedy tarzı bir kadın ve başka bir figür ikiz uyduların altında duruyor. Arka planda insanlar kızıl gezegeni yeniden canlandırmak için çalışırken, kadın ileriye bakıyor ve arkasına dönmüyor; yavaş ve nazik bir varışa izin veriyor, yumuşak ay ışığı hafifçe aydınlatıyor...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083155984940519425/img/loxYB3jdNrjyNMqu.jpg" width="600" alt="Mars'ın Yeniden Doğuşu Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8247)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2083170774140248169) | **Published:** Jul 31, 2026
+
+---
+### Fraktal Mega Balinalar ve Köpekbalıkları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Renkli mega balinaların ve kırmızı-siyah köpekbalıklarının kadraja girdiği sürreal bir su altı sahnesi.
+
+#### 📝 Prompt
+
+```
+Bu çılgın fraktal Cuma da neler oluyor böyle?
+
+Sahnenin son üçte birlik kısmı, her iki taraftan kadraja giren sayısız mega balinayı gösteriyor. Onlara çok sayıda köpekbalığı türü eşlik ediyor. Köpekbalıkları siyah karınlı, koyu kırmızı renkte. Balinalar ise çeşitli renklerde...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083169242308812801/img/wmqpqhBMBFrv_jD6.jpg" width="600" alt="Fraktal Mega Balinalar ve Köpekbalıkları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8245)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2083169323363762661) | **Published:** Jul 31, 2026
+
+---
+### Biyolüminesans Yunus Girdabı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Zengin bir nehir ağzında bir portal girdabına giren parlayan yunusların canlı bir tasviri.
+
+#### 📝 Prompt
+
+```
+Mor ve turuncu biyolüminesans yunuslar 🐬, aç sürüye besin sağlayan bereketli bir nehir ağzına açılan portal girdabına katılıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083167150387146752/img/og9eiurWnI7qNOJu.jpg" width="600" alt="Biyolüminesans Yunus Girdabı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8256)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2083167221199552705) | **Published:** Jul 31, 2026
+
+---
+### Ethereal Ballerina Garden Dance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dantelli bir balerinin, yumuşak ışıklar altında ve bir ateş böceği eşliğinde beyaz bir bahçede dans ettiği şiirsel bir video istemi.
+
+#### 📝 Prompt
+
+```
+Danteller içinde bir balerin ve dingin bir ışık… Beyaz bahçede süzülen tek bir ateş böceği.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083158261063409664/img/OGuMgZHnRqIjJwIX.jpg" width="600" alt="Ethereal Ballerina Garden Dance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8257)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2083158317229301891) | **Published:** Jul 31, 2026
+
+---
 ### Acemi Kadın İblis Avcısı Bakış Açısı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +526,44 @@ Kıvırcık saçlı ve bıyıklı, sert görünümlü Roman adam doğrudan kamer
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8174)**
 
 **Author:** [Sic @ Warmer Sun](https://x.com/WarmerSun) | **Source:** [Link](https://x.com/WarmerSun/status/2083086074985976235) | **Published:** Jul 31, 2026
+
+---
+### Dronlarla İnekler Tarafından Kovalanan Ejderha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kask takan ve hover dronlarla uçan ineklerin bir ejderhayı kovaladığı sürreal ve mizahi bir video istemi.
+
+#### 📝 Prompt
+
+```
+Büyük bir ejderha uçup gidiyor, kask ve gözlük takan iki inek ise hover dronlarla onu kovalıyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083061216059310081/img/VCiZuM1P_l6bQWmT.jpg" width="600" alt="Dronlarla İnekler Tarafından Kovalanan Ejderha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8255)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2083061261697519754) | **Published:** Jul 31, 2026
+
+---
+### Nazik ve Romantik An Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Klasik piyano müziği eşliğinde, bir erkeğin yorgun bir kadını teselli ettiği duygusal bir sahneyi betimleyen video istemi.
+
+#### 📝 Prompt
+
+```
+Konuşma yok, arka planda yumuşak klasik piyano romantik müzik çalıyor, kadın yorgun ve adam onu teselli etmek için yanında. Yakın çekim yok. Nazik ve romantik bir an.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083036936252346368/img/lgNewigovVyX8tm5.jpg" width="600" alt="Nazik ve Romantik An Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8254)**
+
+**Author:** [EM](https://x.com/MuSkYnEWsA3uyp) | **Source:** [Link](https://x.com/MuSkYnEWsA3uyp/status/2083037603889045553) | **Published:** Jul 31, 2026
 
 ---
 ### Profesyonel Kedi CEO Ofis Videosu
@@ -1962,527 +2301,6 @@ Bu karmaşık ağ, tüm çevrelerini kaplıyor ve arafta sıkışıp kalmış ka
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **Published:** Jul 20, 2026
 
 ---
-### Pastel Bulutlar İçinde Ethereal Bir Melek
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Rüya gibi, pastel renkli bir bulut manzarasında nazikçe süzülen ethereal bir melek için betimleyici bir komut.
-
-#### 📝 Prompt
-
-```
-Pastel bulutlar arasında nazikçe süzülen ethereal bir melek… Hafif kanatların ve rüya gibi ışığın fısıltıları.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079179867334254592/img/DjYFr9V9Y7TKS13x.jpg" width="600" alt="Pastel Bulutlar İçinde Ethereal Bir Melek">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7901)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2079179931666530700) | **Published:** Jul 20, 2026
-
----
-### Kahve Dükkanı Etkileşim Diyaloğu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eros adında bir karakterin iki kıza kahve servisi yaptığı, belirli diyaloglar ve eylemler içeren anlatısal bir video istemi.
-
-#### 📝 Prompt
-
-```
-Kızlar der ki; Günaydın Eros.
-
-Eros der ki; bugün ne alırsınız kızlar… kahve mi?
-
-Kızlar cevap verir; Evet, lütfen.
-
-Eros elini barın üzerinde salladığında iki fincan kahve belirir. Ardından şöyle devam eder; Tam sevdiğiniz gibi… Mükemmel.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079142090974343168/img/RghMiGYtRKSXQZLc.jpg" width="600" alt="Kahve Dükkanı Etkileşim Diyaloğu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7629)**
-
-**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2079142131482898445) | **Published:** Jul 20, 2026
-
----
-### Açık Mavi Gotik Alt Kültür Modası
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Net tipografi ve yırtık çoraplar içeren açık mavi 'Jirai-kei' alt kültür kıyafeti için detaylı komut.
-
-#### 📝 Prompt
-
-```
-Tasarımı süsleyen ince tipografi ve açık mavi yırtık çoraplarla açık mavi Jirai-kei kız alt kültür modası. Tipografi; 'REBORN', 'NOCTURNE', 'VOID' ve 'ETHEREAL' gibi kelimelerle oldukça net. Bir kez giymeyi denemek ister misin?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079125853259374592/img/iYUE3hzJRI9-E4Vy.jpg" width="600" alt="Açık Mavi Gotik Alt Kültür Modası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7648)**
-
-**Author:** [インぺレン！](https://x.com/kou2020) | **Source:** [Link](https://x.com/kou2020/status/2079129559589642332) | **Published:** Jul 20, 2026
-
----
-### Pleiadian Portal Girişi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Galaktik Federasyon üyelerinin gizemli portallara girip çıktığını gösteren Ultra HD bir video istemi.
-
-#### 📝 Prompt
-
-```
-Mavi üniformalar ve gümüş çizmeler giyen Pleiadesli Galaktik Federasyon üyeleri portallara girip çıkıyor, başyapıt, Ultra HD kalite çözünürlük
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079120835642621952/img/kVz3Ri-l91NiBKrd.jpg" width="600" alt="Pleiadian Portal Girişi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7645)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2079120875773640859) | **Published:** Jul 20, 2026
-
----
-### AI Klon Dünya Kupası Zafer Kutlaması Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İspanya milli takım forması giyen bir kişinin Dünya Kupası'nı kaldırdığı bir kutlama sahnesi oluşturmak için 5 saniyelik dinamik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Yüklenen referans görseli kullanarak benim fotogerçekçi ve doğru bir klonumu oluştur (aynı yüz, uzun koyu dalgalı saçlar). Onu İspanya kadın milli takımı kırmızı forması ve pantolonuyla göster. Altın Dünya Kupası'nı tutuyor, rüzgarda uçuşan saçlarıyla kameraya gülümsüyor ve ardından kupayı kutlama amacıyla başının üzerine kaldırıyor. Dış mekan sahası, altın saat ışığı, 5 saniyelik dinamik video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079047726331785216/img/xNGg_G3mICcJxWZg.jpg" width="600" alt="AI Klon Dünya Kupası Zafer Kutlaması Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7644)**
-
-**Author:** [Mumtaz K Tejani](https://x.com/MumtazTejani_) | **Source:** [Link](https://x.com/MumtazTejani_/status/2079047739376009414) | **Published:** Jul 20, 2026
-
----
-### Fütüristik Neon Metropol Gökyüzü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gökyüzünün neon ışıklarla manzarayı kapladığı fütüristik bir şehir manzarasını betimleyen bilim kurgu videosu için bir Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-Meowlow 
-
-Geometrik gökyüzü manzarayı kaplayarak dünyaya, hareketlilik ve neon ışıklarla dolu fütüristik bir metropol görünümü kazandırıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079044316547203072/img/rOJ_KyUKUYubPtbE.jpg" width="600" alt="Fütüristik Neon Metropol Gökyüzü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7631)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079044348189012285) | **Published:** Jul 20, 2026
-
----
-### Anime OP Tarzı Dans Animasyonu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Hassas el hareketlerine, cell-shaded estetiğine ve karakter tutarlılığına odaklanan, hızlı tempolu bir Japon anime açılışı tarzında dans oluşturmaya yönelik detaylı bir animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Referans görseldeki karakter bilgilerinin analizine öncelik verin; yüz hatları, saç stili, saç rengi, gözler, cilt, kıyafet, aksesuarlar, vücut tipi, renk şeması ve atmosfer gibi özellikleri çıkarıp koruyun. Sadece görsel bir kopyalamadan ziyade, çıkarılan renkleri, dokuları ve ambiyansı metne, aydınlatmaya, el yörüngelerine, arka planlara, kamera açılarına ve çarpıcı karelere (impact frames) yansıtın.
-
-Parlak, hızlı tempolu bir Japon metaverse anime açılışı tarzında dans. Karakter karşıya bakar ve hafif bir ritimle senkronize bir şekilde, hızlı ardışık hareketler sergiler: her iki elini yüzünün yanlarına kaldırma -> bir elini çapraz olarak yukarı uzatma -> diğer elini kalçasına koyma -> sağa ve sola küçük adımlar -> her iki kolunu hızla göğüs önünde çaprazlama -> her iki elini dışa doğru genişçe açma -> bir bacağını hafifçe kaldırırken vücudunu çapraz eğme -> işaret parmaklarıyla sırayla sağa ve sola gösterme -> her iki elini yanaklarının yanında hafifçe sallama. Her iki ayak da yerde kalır.
-
-Hareketler çok büyük değil, ince ve hızlı, hafif komik ve sevimli olmalıdır. Kolların, bileklerin ve parmak uçlarının pozlarını net bir şekilde gösterin. Yoğun kalça sallama yerine üst vücut ve el koreografisine odaklanın. Anlık sabit pozlar ve ardından farklı pozlara hızlı geçişler ekleyin. İfade enerjik ve mutludur. Kamera temel olarak önden tam vücut çekimi olmalıdır. Stil: Japon tam renkli anime, TV anime tarzı, cell-shaded, düz renklendirme, pürüzsüz çizgiler ve dolgular, anime açılışı gibi hızlı kurgu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079003712157257728/img/IhSys2EIK_9tPMix.jpg" width="600" alt="Anime OP Tarzı Dans Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7647)**
-
-**Author:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **Source:** [Link](https://x.com/z933TfmXkaISSVc/status/2079003739403558990) | **Published:** Jul 20, 2026
-
----
-### Yerçekimine Meydan Okuyan Kaçaklar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kaçakların, yakalanmaktan ve adaletten kaçmak için yerçekimine meydan okuyan bir teknoloji kullandığı sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Zeki Kaçaklar Zeki kaçaklar yerçekimine nasıl meydan okuyacaklarını buldular ve bir kez daha adaletten kaçmayı başardılar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079000413630541824/img/xwSLacUEqnWnJWAJ.jpg" width="600" alt="Yerçekimine Meydan Okuyan Kaçaklar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7636)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079000450880151570) | **Published:** Jul 20, 2026
-
----
-### Fütüristik Robot Yarışması Gösterimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir robota özelliklerini sergilemesini, kendi etrafında dönmesini ve sonunda zıplamasını söyleyen bir animasyon komutu.
-
-#### 📝 Prompt
-
-```
-Bu robotu, fütüristik bir robot yarışması için tüm özelliklerini sergiliyormuş gibi canlandır. Kendi etrafında dönmesini sağla ve sonunda zıplat.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078999735789051904/img/B-JweGDNARuBZDdn.jpg" width="600" alt="Fütüristik Robot Yarışması Gösterimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7634)**
-
-**Author:** [Mr. Savistarz](https://x.com/AryehKatz) | **Source:** [Link](https://x.com/AryehKatz/status/2078999784115855538) | **Published:** Jul 20, 2026
-
----
-### Mumlarla İyi ki Doğdun Şarkısı Söylemek
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Birinin mumları üflerken İyi ki Doğdun şarkısını söylediği bir video oluşturmak için şenlikli bir komut.
-
-#### 📝 Prompt
-
-```
-Mumları üflerken İyi ki Doğdun şarkısını söylüyorum. İyi ki doğdun, iyi ki doğdun, iyi ki doğdun sevgili herkes, iyi ki doğdun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078946160816140288/img/fylJTyQLaDWqbX12.jpg" width="600" alt="Mumlarla İyi ki Doğdun Şarkısı Söylemek">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7575)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2078946208807301490) | **Published:** Jul 19, 2026
-
----
-### Nostaljik 90'lar Yaz Sinematik Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Nostaljik 90'lar estetiğine ve akıcı geçişlere sahip, tek çekim, ultra ağır çekim bir video için kapsamlı bir komut.
-
-#### 📝 Prompt
-
-```
-Referans görselleri kullanarak kesintisiz, sürekli ve tek çekim bir video oluşturun. Tüm sekans boyunca diyalog, sert kesmeler, kararma/aydınlanma (fade-in/fade-out) geçişleri veya opaklık değişimleri olmamalıdır. Rahat bir yaz atmosferi ve nostaljik 90'lar görsel estetiği uyandırmak için görüntüleri ultra ağır çekimde sunun. Her sahneyi yalnızca akıcı kamera hareketleri kullanarak doğal bir şekilde birbirine bağlayın. Uyumlu geçiş ses efektleri ekleyin ve kesintisiz, sürekli bir sinematik ortam sesi akışını koruyun. Müzik olmasın. Görsel tutarlılığı, akıcı hareketi ve gerçekçi sinematik ışık efektlerini koruyun. Süre: 10 saniye; en boy oranı: 16:9; çözünürlük: 720p. Kamera hareketi en önemli unsurdur. Modellerin sahneler arasında geçiş yapmasını istemedim; bunun yerine, her geçişi bir nesnenin yanından geçmek, ön plandaki öğelerin yanından kaydırmak veya özneyi bir sonraki ortama kadar takip etmek gibi fiziksel bir kamera hareketi olarak tanımladım.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078919323738136577/img/HWk8HR6PkKuBgFMH.jpg" width="600" alt="Nostaljik 90'lar Yaz Sinematik Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7571)**
-
-**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2078920201085845703) | **Published:** Jul 19, 2026
-
----
-### Surfer McTwist Kaykay Stili
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kaykay tarzında, stale fish grab hareketiyle karmaşık bir McTwist dönüşü yapan bir sörfçü için dinamik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Oldukça düzgün 💐
-
-Sörfçü, tahtayı stale fish grab ile kavrayarak şimdiye kadar görülmüş en yüksek McTwist ters dönüşünü gerçekleştirmek için mükemmel bir fırlatma rampasına hizalandı. Kaykaydan esinlenilmiştir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078914214249304064/img/a1-WQgHtGabLSXZy.jpg" width="600" alt="Surfer McTwist Kaykay Stili">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7567)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078914251318608302) | **Published:** Jul 19, 2026
-
----
-### Ejderha Kanadı Kaçış Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin zehirli bir kuyudan kaçmak için ejderha kanatlarına dönüştüğü fantastik bir animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Zehirli bir kuyunun pençesinden kurtulun 
-
-Bir ejderhanın 🐉 kanatlarını 🪽 çıkarıyor ve trans halinden kurtulmayı başarıyorum.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078908101114175489/img/Uo3pyJ7ypvgQhFuZ.jpg" width="600" alt="Ejderha Kanadı Kaçış Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7569)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078908136543408297) | **Published:** Jul 19, 2026
-
----
-### Pop-up Kitap Tarzında Anime Dans Videosu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Karakter tutarlılığı, çoklu kamera koordinasyonu ve renkli kağıt el işi estetiğine odaklanan 6 saniyelik bir anime dans videosu için kapsamlı bir Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-# 6 Saniyelik Pop-Up Step Dans Videosu İstemi
-Referans görseldeki karakteri tek başrol olarak kullanın. **6 saniye, 24 fps, dikey 9:16.** Yüksek kaliteli Japon tam renkli animasyonu. Tiyatro kalitesinde anime filmleri kadar rafine sanat, akıcı vücut hareketleri, zengin yüz ifadesi değişimleri ve doğal bir şekilde sallanan saçlar ve kostümler. Renkli bir pop-up resimli kitap dünyasında, başrol oyuncusu hafif bir step dansı yaparak sosyal medyada tekrar tekrar izlenmesi kolay, ultra kısa bir dans videosu oluşturur.
-
-## Temel Hedefler
-* İlk 0,3 saniyede hem hareket hem de ifadeyle izleyicileri yakalayın
-* Önceki çalışmalardan farklı, ayak oyunlarını ve ritim duygusunu kullanan bir dans yaratın
-* Sadece bir kez izlendikten sonra hatırlanabilecek imza bir hareket ekleyin
-* Videoda tempo ve akış yaratmak için detaylı kesmelerle 5 kamera kullanın
-* Sondan başa doğal bir şekilde dönen bir döngü yapısı oluşturun
-* Başrolün sevimliliğine, samimiyetine ve enerjisine öncelik verin
-* Videoyu kaydetmeye, tekrar izlemeye ve koreografiyi taklit etmeye teşvik edecek şekilde yapılandırın
-
-## Karakter Tutarlılığı
-Başrol oyuncusu, referans görseldeki karakterin ta kendisidir. Referans görselde görülen aşağıdaki özellikleri tüm kameralarda, pozlarda, ifadelerde ve karelerde koruyun:
-* Saç modeli
-* Saç rengi
-* Kahkül şekli
-* Göz rengi
-* Yüz hatları
-* Ten rengi
-* Fizik
-* Baş-vücut oranı
-* Algılanan yaş
-* Kostüm
-* Kostüm renk şeması
-* Ayakkabılar
-* Aksesuarlar
-* Genel atmosfer
-Kameralar değiştiğinde bile yüzleri veya fizikleri değiştirmeyin. Karakter değişikliğine, kostüm değişikliğine, saç modeli değişikliğine veya aksesuarların kaybolmasına izin vermeyin. Parmakları doğal şekillerde tutun ve sağ ve sol uzuvları doğru şekilde tasvir edin.
-
-## Ortam
-Ortam, dev bir pop-up resimli kitabın içinde yaratılmış minyatür bir dans sahnesidir. Açık bir sayfa gibi görünen 3D bir zemine şu dekorasyonları yerleştirin:
-* Kağıttan yapılmış bulutlar
-* Küçük yıldız şeklinde ışıklar
-* Renkli yapı blokları
-* Kemerli bir arka plan
-* Yuvarlak sahne ışıkları
-* Konfeti gibi küçük şekiller
-Arka plan renkleri krem, mercan pembesi, gök mavisi, limon sarısı ve lavanta tonlarında olmalıdır. Arka plana üç boyutluluk hissi verin ancak başrol oyuncusundan daha fazla öne çıkmasına izin vermeyin. Başrol oyuncusu dışında herhangi bir kişi, dansçı, izleyici veya hayvan yer almasın.
-
-## Müzik
-**Tamamen özgün Japonca vokal parçası.** Mevcut şarkılara, anime şarkılarına, popüler hitlere veya çocuk şarkılarına benzetmeyin. Parlak ve sevimli, tempolu J-POP/anime-pop tarzı. Kısa bir giriş eklemeyin; vokalleri, ritmi ve melodiyi 0. saniyeden itibaren aynı anda başlatın. Müzikte şu sesleri kullanın:
-* Hafif davullar
-* Parlak synthesizer'lar
-* Küçük el çırpmaları
-* Zil benzeri yüksek notalar
-* Hareketli bas
-* 'Pon', 'pah' ve 'kira' gibi hissettiren sevimli vurgu sesleri
-Koreografiyi, kamera geçişlerini ve arka plan hareketini ritimle senkronize edin. Şarkı yaklaşık 5 saniye uzunluğunda olmalı, vokaller ve melodi 5,0 ile 5,3 saniye civarında doğal bir şekilde bitmelidir. Son 0,7 saniye için, sadece kısa bir tını ve döngüye giren ses efektleri bırakın. Metin, altyazı veya şarkı sözü görüntülemeyin.
-
-## Video Konsepti
-Başrol oyuncusu küçük bir sahnede sağa sola hareket ederek, hareketli adımları ve el çırpmaları birleştiren parlak ve sevimli bir dans sergiler. Sadece üst vücudu değil, tüm vücut hareketlerini net bir şekilde gösterin:
-* Ayak parmaklarını sağa ve sola açan adımlar
-* Küçük yanal hareketler
-* Dizleri içeri doğru büken hareketler
-* Omuzların ritmik yukarı-aşağı hareketi
-* Hafif dönüşler
-* Zamanlamayla senkronize el çırpmaları
-* Finalde tek ayak üzerinde denge pozu
-Yoğun akrobasi veya büyük zıplamalar kullanmayın. Koreografiyi herkesin taklit edebileceği ve ses kaynağıyla birlikte dans etmek isteyeceği şekilde kolaylaştırın.
-
-## İmza Hareket
-Bu video için benzersiz imza hareket olarak 'Pata-Pata Step'i kullanın.
-1. Her iki eli omuz hizasında dışa doğru açın.
-2. Bilekleri hızlıca iki kez içe ve dışa doğru bükün.
-3. Aynı anda ayak parmaklarını önce sağ, sonra sol sırasıyla açın.
-4. Her iki eli göğüs önünde bir kez çaprazlayın.
-5. Çapraz elleri çapraz yukarı doğru kuvvetlice açın.
-6. Bir bacağı hafifçe kaldırın, başı eğin ve gülümseyerek donun.
-El ve ayak hareketlerini aynı ritimle gerçekleştirerek, sadece silüetiyle bile hatırlanabilecek bir koreografi oluşturun. Koreografiyi kalpler, işaret etme, yanakta zafer işareti veya öpücük gönderme etrafında merkezlemeyin.
-
-## Pop-Up Efektleri
-Önceki çalışmanın pastel boya tarzı efektlerinin aksine, üst üste binmiş kağıt kesikleri gibi görünen 3D bir kağıt el işi ifadesi kullanın. Kullanılacak motifler:
-* Küçük üçgenler
-* Renkli daireler
-* Kağıt bant
-* Zikzak çizgiler
-* Minyatür bulutlar
-* Yıldız şeklinde kağıt parçaları
-* Yarım daire kemerler
-* Yay benzeri çizgiler
-* Küçük konfetiler
-* Dalgalı şerit benzeri kağıtlar
-Efektler sahne zemininden veya arka plandan fırlıyormuş gibi görünmelidir. Şu hareketleri kullanın:
-* Sayfadan yükselme
-* Katlanmış kağıdın açılması
-* Yay gibi bir kez zıplama
-* Hafifçe sağa sola sallanma
-* Konfeti gibi dağılma
-* Sayfanın içine geri çekilme
-Başrol oyuncusunun yüzü veya vücuduyla çok fazla örtüşmeyin. Bunları hareket yönünü, ayak basışlarını ve el çırpma anlarını güçlendirmek için kullanın.
-
-## 5 Kamera Yapılandırması
-5 kamera kullanın, ancak bunları sadece her saniye değiştirmeyin. Daha uzun bir ana çekimin ortasına 0,2 ila 0,5 saniyelik kısa kesmeler ekleyerek perspektifleri ritme göre değiştirin.
-
-### Kamera A: Ön Geniş Açı Kamera
-Başrol oyuncusunun tüm vücudunu ve tüm sahneyi gösteren ana kamera. Koreografinin, ayak oyunlarının ve yanal hareketin net olduğu bir açı. Başrol oyuncusunun hareketini doğal bir şekilde takip etmek için hafifçe ileri geri dolly yapın.
-
-### Kamera B: Çapraz Aşağıdan Düşük Açı Kamera
-Başrol oyuncusunu sahnenin önündeki düşük bir konumdan, çapraz yukarı bakacak şekilde yakalayın. Ayak basışlarını, ayak parmaklarının açılıp kapanmasını ve kostümün sallanmasını vurgulayın. Aşırı düşük açı kullanmayın; sevimliliği koruyun.
-
-### Kamera C: Sağ-Ön Takip Kamerası
-Ön sağdan yanal hareketle paralel ilerleyin. Yüz, omuz, bel ve kol koordinasyonunu gösterin. Başrol oyuncusu hareket sırasında bakışlarını bir kez lense geri çevirir.
-
-### Kamera D: Doğrudan Yukarıdan Tepe Kamerası
-Zemin şekillerini, ayak yörüngelerini ve kağıt efektlerini dairesel bir kompozisyonda gösterin. Uzun süreler yerine ritim vurgusu olarak kısaca kullanın.
-
-### Kamera E: Yüz ve Üst Vücut Yakın Çekim Kamerası
-İfade değişimlerini, el çırpmalarını ve baş eğme hareketlerini gösterin. Yüzün sabit bir yakın çekimi değil; başrol oyuncusunun hareketini takip ederek hafifçe yana kaydırın.
-
-## Kamera Yönetimi
-Kamera geçişleri için gösterişli parlamalar veya flaşlar kullanmayın. Şu doğal geçişleri kullanın:
-* Başrol oyuncusunun kolu ekranı kestiği anda kesme yapın
-* Kağıt bant ekranın önünden geçtiği anda kesme yapın
-* Bir ayak zemine bastığı anda açıyı değiştirin
-* Yönleri başrol oyuncusunun dönüşlerine göre bağlayın
-* Arka plan kemerlerini kullanan eşleşen kesmeler (match cuts) kullanın
-Kesmeler değişse bile başrol oyuncusunun kollarını, bacaklarını, vücut yönünü ve hareket konumunu doğru bir şekilde bağlayın. Aynı eylemin yarı yolda geri sarılmadığından veya aniden farklı bir poza dönüşmediğinden emin olun.
-
-## 6 Saniyelik Zaman Çizelgesi
-### 0,0–0,7 saniye
-**Kamera E: Yüz ve üst vücut yakın çekimi.** Başrol oyuncusu başlangıçta zaten ritimdedir. Her iki eli yüzün yanında hızla açarken omuzları dönüşümlü olarak zıplatın. Hafifçe açılmış gözlerden (şaşırmış gibi) neşeli bir gülümsemeye geçin. 0,2 saniye civarında arka plan kağıt kemerleri aynı anda yükselir. Yüzün her iki yanından küçük yıldız şeklinde kağıt parçaları fırlar. Kamera, bir sonraki tam vücut çekimine geçmek için kısaca geri çekilir.
-
-### 0,7–1,6 saniye
-**Kamera A: Ön geniş açı.** Başrol oyuncusu sağa doğru iki küçük adım atar. İlk adımda her iki eli dışa doğru açın ve ikinci adımda göğüs önünde çırpın. Çırpma anında, ayakların altından dairesel bir kağıt efekti açılır. Tüm vücudun zıplıyor gibi görünmesi için dizleri ve ayak parmaklarını yumuşak kullanın.
-
-### 1,6–2,0 saniye
-**Kamera B: Kısa düşük açılı kesme.** Başrol oyuncusunun sağ ayağını zemine bastığı ve sol ayak parmağını dışa doğru işaret ettiği anı yakalayın. İniş sırasında zeminden üçgenler ve zikzak çizgiler fırlar. Saç ve kostüm etekleri hafif bir gecikmeyle sallanır. Kesmenin sonunda başrol oyuncusunun eli ekranın önünden geçer.
-
-### 2,0–3,0 saniye
-**Kamera C: Sağ önden takip.** Başrol oyuncusu sola dönerken 'Pata-Pata Step'in ilk yarısını gerçekleştirir. Her iki eli omuz hizasında açın ve bilekleri iki kez içe ve dışa bükün. Aynı anda ayak parmaklarını önce sağ, sonra sol sırasıyla açın. İlk başta hareket yönüne bakın, ardından son bilek büküşünde kameraya bir bakış atın. Arka plan kağıt bandı, başrol oyuncusunun hareketine göre dalgalanır.
-
-### 3,0–3,4 saniye
-**Kamera D: Kısa yukarıdan kesme.** Başrol oyuncusu her iki eli göğüs önünde çaprazlar ve her iki ayağı merkezde birleştirir. Zemine çizilmiş daireler ve yıldızlar başrol oyuncusunun etrafında bir kez döner. Konfetiler dışarı doğru yayılır ancak ekranı temizlemek için hızla kaybolur.
-
-### 3,4–4,5 saniye
-**Kamera A: Ön geniş açı.** Başrol oyuncusu çapraz ellerini çapraz yukarı doğru genişçe açarak 'Pata-Pata Step'i tamamlar. Omuzları sürekli iki kez zıplatın ve önce sağ ayak, sonra sol ayak sırasıyla küçük adımlar atın. Arka plan bulutları ve yıldız şeklindeki ışıklar, hareketlerle senkronize olarak yukarı aşağı hareket eder. Kamera yavaşça başrol oyuncusuna yaklaşır.
-
-### 4,5–5,1 saniye
-**Kamera B'den Kamera C'ye dönüş kullanarak sürekli kesme.** Düşük açıdan küçük bir yarım dönüş hareketine başlayın. Hareketi sorunsuz bir şekilde bağlamak için dönüşün ortasında sağ-ön takip kamerasına geçin. Dönüşü tamamladıktan sonra, başrol oyuncusu bir bacağını hafifçe kaldırır ve her iki kolunu çapraz açar. Saç, kostüm ve kağıt bant, şarkının son notasıyla senkronize olarak hafif bir gecikmeyle durur.
-
-### 5,1–6,0 saniye
-**Kamera E: Dinamik yakın çekim.** Başrol oyuncusu kaldırılan bacağını indirirken her iki elini omuz hizasına geri getirir. Başı hafifçe karşı tarafa eğin ve neşeyle gülümseyin. Tek gözü kapatan bir göz kırpma değil, her iki gözle kameraya bakarken parlak bir kahkaha. Çevredeki kağıt efektleri, sayfaya geri katlanıyormuş gibi kaldırılır. Elleri omuz hizasında olacak şekilde aynı başlangıç duruşuna dönerek bitirin. Omuzlar bir sonraki ritme girmeden hemen önce bitirin; döngü başlangıçtaki omuz hareketine doğal bir şekilde bağlanacaktır.
-
-## Yüz İfadesi Oyunculuğu
-Kısa süre içinde bile ifadeleri sabit tutmayın.
-* Başlangıç: Hafif şaşkın gözler
-* İlk yarı: Neşeli gülümseme
-* Kameraya bakış dönüşü: Hafif yaramaz bir ifade
-* İmza hareket: Kendinden emin gülümseme
-* Son: Samimi ve parlak gülümseme
-Aşırı komik yüzlerden veya yüz hatlarının büyük ölçüde bozulduğu ifadelerden kaçının.
-
-## Viral Odaklı Yönetim
-* Hem karakterler hem de arka plan baştan itibaren aynı anda hareket eder
-* 0,3 saniye içinde ifade değişimleri ekleyin
-* El hareketleri kadar ayak hareketlerine de belirgin özellikler verin
-* Ritimle senkronize kısa kesmeler ekleyin
-* Koreografinin merkezini 2-3 saniye işaretine yerleştirin
-* Final pozunu başlangıç hazırlık duruşuyla eşleştirin
-* Duraklatıldığında bile sevimli görünen bir silüet oluşturun
-* Yüz, el ve ayak hareketlerinin küçük ekranlarda bile ayırt edilebildiği kompozisyonlar kullanın
-* Bilgiyi çok fazla artırmayın; dikkati başrol oyuncusuna odaklayın
-
-## Kısıtlamalar
-* Başrol oyuncusu dışında herhangi bir kişi yer almasın
-* Referans görseldeki karakteri tüm kesmelerde koruyun
-* Yüzü, saç modelini, saç rengini, gözleri, fiziği, baş-vücut oranını veya algılanan yaşı değiştirmeyin
-* Kostümleri, ayakkabıları veya aksesuarları değiştirmeyin veya kaybetmeyin
-* Kamera geçişleri sırasında karakter değişikliğine izin vermeyin
-* 5 kameranın kullanımını net bir şekilde farklılaştırın
-* Kameraları değiştirirken bile eylemleri ve konumları sürekli tutun
-* Ayakları ekrandan çok fazla kesmeyin
-* Doğal olmayan yüksek hızlı dönüşler veya büyük zıplamalar eklemeyin
-* Uzuv veya eklem sayısını bozmayın
-* Aşırı kamera sarsıntısı, hareket bulanıklığı veya balıkgözü bozulması kullanmayın
-* Canlı aksiyon tarzı patlamalar, duman, ateş veya şimşek kullanmayın
-* Hata (glitch), ekran bölünmeleri veya flaş ışıkları kullanmayın
-* Metin, altyazı, şarkı sözü, logo, kullanıcı arayüzü veya filigran görüntülemeyin
-* Mevcut şarkıları veya mevcut koreografileri yeniden üretmeyin
-
-## İdeal Çıktı
-Güçlü bir açılış kancası, hafif ayak oyunları, akılda kalıcı bir imza hareket, 5 kamera ile detaylı perspektif değişimleri, müzikle senkronizasyon ve 6 saniyelik kısa süre içinde doğal bir döngü oluşturun. İzleyicilerin tekrar izlemek ve müzikle birlikte 'Pata-Pata Step'i taklit etmek isteyeceği, sevimli, tempolu, viral odaklı bir animasyonlu dans videosu yaratın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078850697823657984/img/OdpWpBDKkYAJEsE0.jpg" width="600" alt="Pop-up Kitap Tarzında Anime Dans Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7574)**
-
-**Author:** [クリラボ｜Curious Creator Lab｜AIクリエイター](https://x.com/CCL_2026) | **Source:** [Link](https://x.com/CCL_2026/status/2078851334653325546) | **Published:** Jul 19, 2026
-
----
-### Çiçekli Arabada Büyülü Cadı
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ay'dan çiçekli bir arabayla seyahat eden sevimli bir cadıyı tasvir eden, yakın plan geçişler ve orkestral temalar içeren fantastik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Gizemli ve sevimli bir cadıya dönüştüm. Aşk, hayaller, umut, ışık, özgürlük ve mutluluk kalpleriyle, elmaslar ve çiçeklerle çevrili bir şekilde, çiçeklerden ve altından yapılmış bir arabaya biniyorum. Ay'ın Kanada'sından gelerek gökyüzünde kıvrıla kıvrıla uçuyor, yüzümün son yakın plan çekimi için öne doğru yaklaşıyorum; tüm bunlara tatlı ve görkemli bir orkestra eşlik ediyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078820433366073345/img/LrmYgNjI2U0D_L-Y.jpg" width="600" alt="Çiçekli Arabada Büyülü Cadı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7576)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2078820469294375037) | **Published:** Jul 19, 2026
-
----
-### Müzikal Karides Doğum Günü Partisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sahilde doğum günü kutlayan animasyon karideslerin yer aldığı, birinin şarkı söylediği ve diğerlerinin piyano tuşlarını çaldığı eğlenceli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Lider karides, sanki Bay Teng'e İyi ki doğdun şarkısını söylüyormuş gibi ağzını net bir şekilde hareket ettirerek neşeyle şarkı söylüyor; diğer karidesler ise güneşli sahilde, arkalarında hafif dalgalar eşliğinde ritim tutarak, sallanarak ve kutlama yaparak hep birlikte piyano tuşlarını çalıyor, neşeli doğum günü partisi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078770217656926208/img/oaG6sA7_hTIr5SR3.jpg" width="600" alt="Müzikal Karides Doğum Günü Partisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7570)**
-
-**Author:** [Cinemonroll](https://x.com/cinemonroll7) | **Source:** [Link](https://x.com/cinemonroll7/status/2078770241065406655) | **Published:** Jul 19, 2026
-
----
-### Şarkı Performansı Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yapay zekayı, bir karakteri belirli şarkı sözlerini duygusal bir derinlikle söyleyecek şekilde canlandırmaya yönlendiren bir komut.
-
-#### 📝 Prompt
-
-```
-Hearts Content'in ilk kısmını söylediğini hayal edin: “Belki ayı benim yerleştirdiğimi düşündün, belki Jimmy ve June olduğumuzu düşündün. Belki sadece ikimizin olduğunu düşündün, belki de çok erken konuştuk.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078719547461230592/img/G81RRdH4FTklzS3j.jpg" width="600" alt="Şarkı Performansı Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7568)**
-
-**Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2078719563235995784) | **Published:** Jul 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2544,6 +2362,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-01T06:56:12.581Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-01T10:24:14.437Z</sub>
 
 </div>
