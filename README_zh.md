@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2293** |
+| 📝 提示词总数 | **2301** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-08-02** |
 
@@ -189,6 +189,141 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Underwater Swimming Interaction Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine that generates a scene of swimming with a friendly character underwater.
+
+#### 📝 提示词
+
+```
+Swim with her underwater; she knows you're there and is happy to take you along. Swim with her underwater, she knows you're there and is willing to take you along.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083816384979722240/img/2Y--4wmbalFpQMGh.jpg" width="600" alt="Underwater Swimming Interaction Video Prompt">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8327)**
+
+**作者:** [Loriel.AI](https://x.com/ou_zhen599) | **来源:** [Link](https://x.com/ou_zhen599/status/2083817091115962494) | **发布时间:** Aug 2, 2026
+
+---
+### Athletic Glamour Gymnastics Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for an athletic character with a bodybuilder tan performing gymnastics in a glamorous outfit.
+
+#### 📝 提示词
+
+```
+Primarily I’m seeking a more Athletic build with a body builder tan along with the exaggerated Gymnastic move despite her wearing a glamorous outfit!!!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083758305495711744/img/LW_wpPBzBeEYoqGN.jpg" width="600" alt="Athletic Glamour Gymnastics Prompt">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8324)**
+
+**作者:** [Steve Maynard](https://x.com/Sbm3Steve) | **来源:** [Link](https://x.com/Sbm3Steve/status/2083758331160576379) | **发布时间:** Aug 2, 2026
+
+---
+### Steampunk Scientist Brain Interface
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a video of a steampunk-themed woman discussing brain-computer interfaces, featuring specific attire like a monocle and short skirt.
+
+#### 📝 提示词
+
+```
+Create a video of a steampunk woman in a short skirt and knee highs wearing a monocle talking about her latest discovery in brain computer interfaces for treatment resistant depression.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083712641189466112/img/P-ulVrcKW_4FA98m.jpg" width="600" alt="Steampunk Scientist Brain Interface">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8321)**
+
+**作者:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **来源:** [Link](https://x.com/DrJGiddensRN/status/2083712659195593094) | **发布时间:** Aug 2, 2026
+
+---
+### Ocean Dragon and Wildlife
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An animation prompt involving a dragon, a crow, and a butterfly in a sunny meadow.
+
+#### 📝 提示词
+
+```
+Dragon the colors of the ocean laying on a grassy hillside stands up stretches and flexes muscles rippling on the morning sun
+Add black crow and yellow butterfly fluttering above dragon
+Move butterfly to hover over crow
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083579822731849728/img/KAe7itdMEQo-00wJ.jpg" width="600" alt="Ocean Dragon and Wildlife">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8325)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2083579899462508849) | **发布时间:** Aug 1, 2026
+
+---
+### Frustrated Mobile Use with Gloves Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A character looks at their mobile phone and realizes they cannot interact with it due to wearing gloves that they are unable to remove.
+
+#### 📝 提示词
+
+```
+Look at the mobile phone and discover that they cannot use the mobile phone because of the gloves that cannot be removed
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083564274614480896/img/80dvrye78kDVV1Ea.jpg" width="600" alt="Frustrated Mobile Use with Gloves Video">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8326)**
+
+**作者:** [ᛁᛖᛋᚢᛋ ᛘᛅᚱᛏᛁᚾᛖᛋ ᚷᚢᚾᛋᛅᛚᛁᛋ](https://x.com/jemagomoen) | **来源:** [Link](https://x.com/jemagomoen/status/2083564305333592437) | **发布时间:** Aug 1, 2026
+
+---
+### Instant Vertical Liftoff Car
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt describing a futuristic vehicle capable of vertical liftoff for near-instantaneous travel.
+
+#### 📝 提示词
+
+```
+The car is propelled to a speed that enables it to vertically lift off making the commute almost instantaneous. It is always first on the scene with a near 100% arrest of culprits rate.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083553644964667392/img/68AsQcCK8PHi1wUY.jpg" width="600" alt="Instant Vertical Liftoff Car">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8322)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2083553676233171218) | **发布时间:** Aug 1, 2026
+
+---
+### Cinematic Face Close-Up Drinking Through Straw
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a close-up shot of a woman sipping through a straw with micro-expressions and neon bokeh background.
+
+#### 📝 提示词
+
+```
+Extreme close-up of her face. She takes one last slow sip through the straw. Soft knowing smile forms, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Subtle natural micro movements of face and sip. Shallow depth of field, creamy bokeh of neon diner behind her, heavy natural film grain, soft light, photorealistic cinematic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083462160819089408/img/MtwpQQQmRz_3cZC1.jpg" width="600" alt="Cinematic Face Close-Up Drinking Through Straw">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8320)**
+
+**作者:** [Fabiano Firmo](https://x.com/FabianoFirmo) | **来源:** [Link](https://x.com/FabianoFirmo/status/2083462182482616830) | **发布时间:** Aug 1, 2026
+
+---
 ### 发光的安卓机械动态
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -304,6 +439,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8252)**
 
 **作者:** [David Pittman](https://x.com/BlitzedOstrich) | **来源:** [Link](https://x.com/BlitzedOstrich/status/2083340486324924611) | **发布时间:** Jul 31, 2026
+
+---
+### Scuba Diving Goat and Rooster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal video prompt showing a goat and a rooster swimming by while wearing scuba gear.
+
+#### 📝 提示词
+
+```
+First we have a goat swim by with scuba gear on and then we have a rooster swim by with scuba gear on
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083334853811220480/img/vr8NcRjDQxWp38si.jpg" width="600" alt="Scuba Diving Goat and Rooster">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8323)**
+
+**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **来源:** [Link](https://x.com/RobinMurrat43a/status/2083334993196237139) | **发布时间:** Jul 31, 2026
 
 ---
 ### 咖啡星座的想象力
@@ -2141,166 +2295,6 @@ Octo Pi 👁️
 **作者:** [Mr. Savistarz](https://x.com/AryehKatz) | **来源:** [Link](https://x.com/AryehKatz/status/2079294886356889866) | **发布时间:** Jul 20, 2026
 
 ---
-### 翼龙大战仙女派对
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个混乱而充满魔力的视频提示词：翼龙闯入派对，最终被仙女们用魔法粉末制服。
-
-#### 📝 提示词
-
-```
-已撒粉
-
-翼龙俯冲而下，闯入了派对。🎈 它们虽然混乱，但仙女们 🧚‍♀️ 用魔法粉末轻松搞定了它们。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079277906010718208/img/pQAxd525mRTlfrYj.jpg" width="600" alt="翼龙大战仙女派对">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7641)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2079277954324959412) | **发布时间:** Jul 20, 2026
-
----
-### Kate Greenaway 风格花园水彩画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个温馨的水彩风格视频提示词，描绘了一个女孩在花园里喂鸟的场景。
-
-#### 📝 提示词
-
-```
-受 Kate Greenaway 启发，一个穿着蓝色罩衫和软帽的可爱女孩在花园里为鸟儿撒面包屑，麻雀和知更鸟环绕在她身边，羽毛和叶片细节丰富，柔和细腻的水彩画质，温馨的儿童场景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079274259495505920/img/gtGbBhmF_znZwIxc.jpg" width="600" alt="Kate Greenaway 风格花园水彩画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7635)**
-
-**作者:** [Dawn Marie](https://x.com/DedeMoments) | **来源:** [Link](https://x.com/DedeMoments/status/2079274314033996030) | **发布时间:** Jul 20, 2026
-
----
-### 摆渡人比特币之旅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个概念性视频提示词，描绘了一位神话中的摆渡人收取一枚比特币作为前往另一个领域旅程的报酬。
-
-#### 📝 提示词
-
-```
-在前往另一个领域的摆渡人愿景中，让他收取一枚比特币作为通行费。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079267766364712960/img/NN8jvuCWSUYl9z7Y.jpg" width="600" alt="摆渡人比特币之旅">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7640)**
-
-**作者:** [Sats Nakamondo](https://x.com/shroudspeeders) | **来源:** [Link](https://x.com/shroudspeeders/status/2079267780814090567) | **发布时间:** Jul 20, 2026
-
----
-### 水桶里的小龙
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个精细的奇幻视频提示词，描述了色彩斑斓的小龙在水桶中与蝴蝶和蜂鸟嬉戏的场景。
-
-#### 📝 提示词
-
-```
-添加蝴蝶、蜻蜓、蜜蜂、蜂鸟、铲子旁边的金属水桶。添加两条并排走的小龙，一条为带有黄橙色条纹的红色，另一条为蓝色且带有闪烁光泽。小龙在水桶中跳跃。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079250071053582336/img/usApoo9fvygIGxyS.jpg" width="600" alt="水桶里的小龙">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7637)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2079250137071894916) | **发布时间:** Jul 20, 2026
-
----
-### 虎纹黑豹入场
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于稀有杂交大型猫科动物入场的视频生成提示词。
-
-#### 📝 提示词
-
-```
-虎纹黑豹 
-
-一只带有白虎条纹的黑豹进入画面。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079240828749246464/img/7e7dJ0qyRE5g_7BR.jpg" width="600" alt="虎纹黑豹入场">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7643)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2079240875234742401) | **发布时间:** Jul 20, 2026
-
----
-### 橘猫之王与众犬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个超现实的提示词：描绘了一只橘猫作为至高无上的统治者，身处一个众犬崇拜猫科动物的国度。
-
-#### 📝 提示词
-
-```
-橘色 🍊 之王统治着他的臣民 👑 这只猫漂流到了另一个国度，在那里，猫被视为至高无上的存在，并受到居住于此的犬类的顶礼膜拜。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079205626157150208/img/IHgWx_xcC5Fb4FZ_.jpg" width="600" alt="橘猫之王与众犬">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7638)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2079205676518121776) | **发布时间:** Jul 20, 2026
-
----
-### 变异恶魔昆虫网
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Grok Imagine 设计的暗黑奇幻提示词，描绘了被困在网中、化身为变异飞虫的恶魔。
-
-#### 📝 提示词
-
-```
-被捕获的恶魔飞虫 🕸️🪰
-
-这张网捕获了那些以变异飞虫形态存在于地球上的恶魔。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079202586146504705/img/Bx8_X3tIykN6vnK2.jpg" width="600" alt="变异恶魔昆虫网">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7632)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2079202684616298609) | **发布时间:** Jul 20, 2026
-
----
-### 蜘蛛狼人炼狱救援
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词，描绘了一位蜘蛛狼人利用巨大的蛛网从炼狱中拯救灵魂的场景。
-
-#### 📝 提示词
-
-```
-被蜘蛛狼人从炼狱中解救 🐺🕷️🕸️
-
-这张错综复杂的蛛网横跨了整个环境，被用来捕捉困在炼狱中的迷失灵魂。随后，他们便从苦难中得到了解脱。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079202094452559872/img/5u5-VKlEG9iFIEaE.jpg" width="600" alt="蜘蛛狼人炼狱救援">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7633)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **发布时间:** Jul 20, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2362,6 +2356,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-02T06:59:44.776Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-02T10:20:05.762Z</sub>
 
 </div>

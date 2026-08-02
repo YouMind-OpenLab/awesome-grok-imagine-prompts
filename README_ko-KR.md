@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2293** |
+| 📝 총 프롬프트 수 | **2301** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-08-02** |
 
@@ -189,6 +189,141 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Underwater Swimming Interaction Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine that generates a scene of swimming with a friendly character underwater.
+
+#### 📝 프롬프트
+
+```
+Swim with her underwater; she knows you're there and is happy to take you along. Swim with her underwater, she knows you're there and is willing to take you along.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083816384979722240/img/2Y--4wmbalFpQMGh.jpg" width="600" alt="Underwater Swimming Interaction Video Prompt">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8327)**
+
+**작성자:** [Loriel.AI](https://x.com/ou_zhen599) | **출처:** [Link](https://x.com/ou_zhen599/status/2083817091115962494) | **게시일:** Aug 2, 2026
+
+---
+### Athletic Glamour Gymnastics Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for an athletic character with a bodybuilder tan performing gymnastics in a glamorous outfit.
+
+#### 📝 프롬프트
+
+```
+Primarily I’m seeking a more Athletic build with a body builder tan along with the exaggerated Gymnastic move despite her wearing a glamorous outfit!!!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083758305495711744/img/LW_wpPBzBeEYoqGN.jpg" width="600" alt="Athletic Glamour Gymnastics Prompt">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8324)**
+
+**작성자:** [Steve Maynard](https://x.com/Sbm3Steve) | **출처:** [Link](https://x.com/Sbm3Steve/status/2083758331160576379) | **게시일:** Aug 2, 2026
+
+---
+### Steampunk Scientist Brain Interface
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a video of a steampunk-themed woman discussing brain-computer interfaces, featuring specific attire like a monocle and short skirt.
+
+#### 📝 프롬프트
+
+```
+Create a video of a steampunk woman in a short skirt and knee highs wearing a monocle talking about her latest discovery in brain computer interfaces for treatment resistant depression.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083712641189466112/img/P-ulVrcKW_4FA98m.jpg" width="600" alt="Steampunk Scientist Brain Interface">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8321)**
+
+**작성자:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **출처:** [Link](https://x.com/DrJGiddensRN/status/2083712659195593094) | **게시일:** Aug 2, 2026
+
+---
+### Ocean Dragon and Wildlife
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An animation prompt involving a dragon, a crow, and a butterfly in a sunny meadow.
+
+#### 📝 프롬프트
+
+```
+Dragon the colors of the ocean laying on a grassy hillside stands up stretches and flexes muscles rippling on the morning sun
+Add black crow and yellow butterfly fluttering above dragon
+Move butterfly to hover over crow
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083579822731849728/img/KAe7itdMEQo-00wJ.jpg" width="600" alt="Ocean Dragon and Wildlife">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8325)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2083579899462508849) | **게시일:** Aug 1, 2026
+
+---
+### Frustrated Mobile Use with Gloves Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A character looks at their mobile phone and realizes they cannot interact with it due to wearing gloves that they are unable to remove.
+
+#### 📝 프롬프트
+
+```
+Look at the mobile phone and discover that they cannot use the mobile phone because of the gloves that cannot be removed
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083564274614480896/img/80dvrye78kDVV1Ea.jpg" width="600" alt="Frustrated Mobile Use with Gloves Video">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8326)**
+
+**작성자:** [ᛁᛖᛋᚢᛋ ᛘᛅᚱᛏᛁᚾᛖᛋ ᚷᚢᚾᛋᛅᛚᛁᛋ](https://x.com/jemagomoen) | **출처:** [Link](https://x.com/jemagomoen/status/2083564305333592437) | **게시일:** Aug 1, 2026
+
+---
+### Instant Vertical Liftoff Car
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt describing a futuristic vehicle capable of vertical liftoff for near-instantaneous travel.
+
+#### 📝 프롬프트
+
+```
+The car is propelled to a speed that enables it to vertically lift off making the commute almost instantaneous. It is always first on the scene with a near 100% arrest of culprits rate.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083553644964667392/img/68AsQcCK8PHi1wUY.jpg" width="600" alt="Instant Vertical Liftoff Car">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8322)**
+
+**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2083553676233171218) | **게시일:** Aug 1, 2026
+
+---
+### Cinematic Face Close-Up Drinking Through Straw
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a close-up shot of a woman sipping through a straw with micro-expressions and neon bokeh background.
+
+#### 📝 프롬프트
+
+```
+Extreme close-up of her face. She takes one last slow sip through the straw. Soft knowing smile forms, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Subtle natural micro movements of face and sip. Shallow depth of field, creamy bokeh of neon diner behind her, heavy natural film grain, soft light, photorealistic cinematic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083462160819089408/img/MtwpQQQmRz_3cZC1.jpg" width="600" alt="Cinematic Face Close-Up Drinking Through Straw">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8320)**
+
+**작성자:** [Fabiano Firmo](https://x.com/FabianoFirmo) | **출처:** [Link](https://x.com/FabianoFirmo/status/2083462182482616830) | **게시일:** Aug 1, 2026
+
+---
 ### 빛나는 안드로이드 기계적 움직임
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -304,6 +439,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8252)**
 
 **작성자:** [David Pittman](https://x.com/BlitzedOstrich) | **출처:** [Link](https://x.com/BlitzedOstrich/status/2083340486324924611) | **게시일:** Jul 31, 2026
+
+---
+### Scuba Diving Goat and Rooster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal video prompt showing a goat and a rooster swimming by while wearing scuba gear.
+
+#### 📝 프롬프트
+
+```
+First we have a goat swim by with scuba gear on and then we have a rooster swim by with scuba gear on
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083334853811220480/img/vr8NcRjDQxWp38si.jpg" width="600" alt="Scuba Diving Goat and Rooster">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8323)**
+
+**작성자:** [Robin Murray](https://x.com/RobinMurrat43a) | **출처:** [Link](https://x.com/RobinMurrat43a/status/2083334993196237139) | **게시일:** Jul 31, 2026
 
 ---
 ### 커피 별자리 상상
@@ -2141,166 +2295,6 @@ Victoria's Secret 런웨이 모델처럼 승리감 넘치는 음악을 추가하
 **작성자:** [Mr. Savistarz](https://x.com/AryehKatz) | **출처:** [Link](https://x.com/AryehKatz/status/2079294886356889866) | **게시일:** Jul 20, 2026
 
 ---
-### 익룡 vs 요정 파티
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 익룡들이 파티장에 난입하고, 요정들이 마법 가루로 이를 해결하는 혼란스럽고 마법 같은 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-가루가 된 익룡
-
-익룡들이 급습하여 파티를 망칩니다. 🎈 혼란스러운 상황이지만, 요정들이 🧚‍♀️ 마법 가루를 사용해 그들을 제압합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079277906010718208/img/pQAxd525mRTlfrYj.jpg" width="600" alt="익룡 vs 요정 파티">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7641)**
-
-**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2079277954324959412) | **게시일:** Jul 20, 2026
-
----
-### 케이트 그린어웨이 스타일의 정원 수채화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 정원에서 새들에게 먹이를 주는 소녀를 담은 따뜻한 느낌의 수채화 스타일 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-케이트 그린어웨이 스타일, 파란색 작업복과 보닛을 쓴 사랑스러운 소녀가 정원에서 새들에게 빵 부스러기를 뿌리는 모습, 주변의 참새와 울새들, 섬세한 깃털과 나뭇잎 묘사, 부드럽고 섬세한 수채화 기법, 마음이 따뜻해지는 동화 같은 장면.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079274259495505920/img/gtGbBhmF_znZwIxc.jpg" width="600" alt="케이트 그린어웨이 스타일의 정원 수채화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7635)**
-
-**작성자:** [Dawn Marie](https://x.com/DedeMoments) | **출처:** [Link](https://x.com/DedeMoments/status/2079274314033996030) | **게시일:** Jul 20, 2026
-
----
-### 뱃사공의 비트코인 여정
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 다른 세계로 향하는 뱃사공이 통행료로 비트코인을 받는 모습을 담은 신화적 분위기의 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-다른 세계로 안내하는 뱃사공이 통행료로 비트코인 1개를 받는 모습을 영상으로 구현해 주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079267766364712960/img/NN8jvuCWSUYl9z7Y.jpg" width="600" alt="뱃사공의 비트코인 여정">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7640)**
-
-**작성자:** [Sats Nakamondo](https://x.com/shroudspeeders) | **출처:** [Link](https://x.com/shroudspeeders/status/2079267780814090567) | **게시일:** Jul 20, 2026
-
----
-### 물 양동이 속 작은 용들
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 물 양동이 안에서 나비, 벌새와 함께 어우러져 노는 알록달록한 작은 용들을 담은 상세한 판타지 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-나비, 잠자리, 꿀벌, 벌새를 추가하세요. 삽 옆에 놓인 금속 물 양동이. 나란히 걷는 두 마리의 작은 용을 추가하세요. 한 마리는 노란색과 주황색 줄무늬가 있는 빨간색 용, 다른 한 마리는 푸른 빛과 반짝이는 색조를 띤 용입니다. 용들이 물 양동이 안으로 뛰어듭니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079250071053582336/img/usApoo9fvygIGxyS.jpg" width="600" alt="물 양동이 속 작은 용들">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7637)**
-
-**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2079250137071894916) | **게시일:** Jul 20, 2026
-
----
-### 호랑이 줄무늬 흑표범 등장
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 희귀한 하이브리드 대형 고양잇과 동물이 장면에 등장하는 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-호랑이 줄무늬 흑표범 
-
-흰색 호랑이 줄무늬가 있는 흑표범이 장면에 등장합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079240828749246464/img/7e7dJ0qyRE5g_7BR.jpg" width="600" alt="호랑이 줄무늬 흑표범 등장">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7643)**
-
-**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2079240875234742401) | **게시일:** Jul 20, 2026
-
----
-### 주황색 고양이 왕과 개들
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 개들이 고양이를 숭배하는 세계에서 최고의 통치자로 군림하는 주황색 고양이를 묘사한 초현실적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-주황색 🍊 고양이 왕이 백성들을 다스립니다 👑 이 고양이는 고양이가 최고의 존재로 숭배받고 그곳에 사는 개들에게 떠받들여지는 다른 차원으로 이동합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079205626157150208/img/IHgWx_xcC5Fb4FZ_.jpg" width="600" alt="주황색 고양이 왕과 개들">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7638)**
-
-**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2079205676518121776) | **게시일:** Jul 20, 2026
-
----
-### 돌연변이 악마 곤충 거미줄
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 돌연변이 비행 곤충 형태의 악마들이 거미줄에 걸려 있는 모습을 담은 Grok Imagine용 다크 판타지 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-거미줄에 걸린 악마 파리 🕸️🪰
-
-이 거미줄은 돌연변이 기원을 가진 비행 곤충의 모습으로 지구에 존재하는 악마들을 포획합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079202586146504705/img/Bx8_X3tIykN6vnK2.jpg" width="600" alt="돌연변이 악마 곤충 거미줄">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7632)**
-
-**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2079202684616298609) | **게시일:** Jul 20, 2026
-
----
-### 스파이더울프 맨의 연옥 구출
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 스파이더울프 맨이 거대한 거미줄을 사용하여 연옥에서 영혼들을 구출하는 모습을 담은 영화 같은 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-스파이더울프 맨에 의해 연옥에서 해방된 영혼들 🐺🕷️🕸️
-
-이 정교한 거미줄은 주변 환경 전체를 뒤덮고 있으며, 연옥에 갇힌 길 잃은 영혼들을 포획하는 데 사용됩니다. 그들은 이 과정을 통해 고통에서 벗어나게 됩니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079202094452559872/img/5u5-VKlEG9iFIEaE.jpg" width="600" alt="스파이더울프 맨의 연옥 구출">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7633)**
-
-**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **게시일:** Jul 20, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2362,6 +2356,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-02T06:59:47.261Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-02T10:20:09.445Z</sub>
 
 </div>

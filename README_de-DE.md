@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2293** |
+| 📝 Total Prompts | **2301** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-02** |
 
@@ -189,6 +189,141 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Underwater Swimming Interaction Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine that generates a scene of swimming with a friendly character underwater.
+
+#### 📝 Prompt
+
+```
+Swim with her underwater; she knows you're there and is happy to take you along. Swim with her underwater, she knows you're there and is willing to take you along.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083816384979722240/img/2Y--4wmbalFpQMGh.jpg" width="600" alt="Underwater Swimming Interaction Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8327)**
+
+**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2083817091115962494) | **Published:** Aug 2, 2026
+
+---
+### Athletic Glamour Gymnastics Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for an athletic character with a bodybuilder tan performing gymnastics in a glamorous outfit.
+
+#### 📝 Prompt
+
+```
+Primarily I’m seeking a more Athletic build with a body builder tan along with the exaggerated Gymnastic move despite her wearing a glamorous outfit!!!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083758305495711744/img/LW_wpPBzBeEYoqGN.jpg" width="600" alt="Athletic Glamour Gymnastics Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8324)**
+
+**Author:** [Steve Maynard](https://x.com/Sbm3Steve) | **Source:** [Link](https://x.com/Sbm3Steve/status/2083758331160576379) | **Published:** Aug 2, 2026
+
+---
+### Steampunk Scientist Brain Interface
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a video of a steampunk-themed woman discussing brain-computer interfaces, featuring specific attire like a monocle and short skirt.
+
+#### 📝 Prompt
+
+```
+Create a video of a steampunk woman in a short skirt and knee highs wearing a monocle talking about her latest discovery in brain computer interfaces for treatment resistant depression.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083712641189466112/img/P-ulVrcKW_4FA98m.jpg" width="600" alt="Steampunk Scientist Brain Interface">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8321)**
+
+**Author:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **Source:** [Link](https://x.com/DrJGiddensRN/status/2083712659195593094) | **Published:** Aug 2, 2026
+
+---
+### Ocean Dragon and Wildlife
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An animation prompt involving a dragon, a crow, and a butterfly in a sunny meadow.
+
+#### 📝 Prompt
+
+```
+Dragon the colors of the ocean laying on a grassy hillside stands up stretches and flexes muscles rippling on the morning sun
+Add black crow and yellow butterfly fluttering above dragon
+Move butterfly to hover over crow
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083579822731849728/img/KAe7itdMEQo-00wJ.jpg" width="600" alt="Ocean Dragon and Wildlife">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8325)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2083579899462508849) | **Published:** Aug 1, 2026
+
+---
+### Frustrated Mobile Use with Gloves Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A character looks at their mobile phone and realizes they cannot interact with it due to wearing gloves that they are unable to remove.
+
+#### 📝 Prompt
+
+```
+Look at the mobile phone and discover that they cannot use the mobile phone because of the gloves that cannot be removed
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083564274614480896/img/80dvrye78kDVV1Ea.jpg" width="600" alt="Frustrated Mobile Use with Gloves Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8326)**
+
+**Author:** [ᛁᛖᛋᚢᛋ ᛘᛅᚱᛏᛁᚾᛖᛋ ᚷᚢᚾᛋᛅᛚᛁᛋ](https://x.com/jemagomoen) | **Source:** [Link](https://x.com/jemagomoen/status/2083564305333592437) | **Published:** Aug 1, 2026
+
+---
+### Instant Vertical Liftoff Car
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt describing a futuristic vehicle capable of vertical liftoff for near-instantaneous travel.
+
+#### 📝 Prompt
+
+```
+The car is propelled to a speed that enables it to vertically lift off making the commute almost instantaneous. It is always first on the scene with a near 100% arrest of culprits rate.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083553644964667392/img/68AsQcCK8PHi1wUY.jpg" width="600" alt="Instant Vertical Liftoff Car">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8322)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2083553676233171218) | **Published:** Aug 1, 2026
+
+---
+### Cinematic Face Close-Up Drinking Through Straw
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a close-up shot of a woman sipping through a straw with micro-expressions and neon bokeh background.
+
+#### 📝 Prompt
+
+```
+Extreme close-up of her face. She takes one last slow sip through the straw. Soft knowing smile forms, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Subtle natural micro movements of face and sip. Shallow depth of field, creamy bokeh of neon diner behind her, heavy natural film grain, soft light, photorealistic cinematic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083462160819089408/img/MtwpQQQmRz_3cZC1.jpg" width="600" alt="Cinematic Face Close-Up Drinking Through Straw">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8320)**
+
+**Author:** [Fabiano Firmo](https://x.com/FabianoFirmo) | **Source:** [Link](https://x.com/FabianoFirmo/status/2083462182482616830) | **Published:** Aug 1, 2026
+
+---
 ### Leuchtende Androiden-Bewegung
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -304,6 +439,25 @@ Die gesamte Sequenz muss aus stri...
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8252)**
 
 **Author:** [David Pittman](https://x.com/BlitzedOstrich) | **Source:** [Link](https://x.com/BlitzedOstrich/status/2083340486324924611) | **Published:** Jul 31, 2026
+
+---
+### Scuba Diving Goat and Rooster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal video prompt showing a goat and a rooster swimming by while wearing scuba gear.
+
+#### 📝 Prompt
+
+```
+First we have a goat swim by with scuba gear on and then we have a rooster swim by with scuba gear on
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083334853811220480/img/vr8NcRjDQxWp38si.jpg" width="600" alt="Scuba Diving Goat and Rooster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8323)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2083334993196237139) | **Published:** Jul 31, 2026
 
 ---
 ### Kaffee-Konstellationen-Fantasie
@@ -2141,166 +2295,6 @@ Lass den Menschen im roten Anzug nun so aussehen, als würde er sich vor dem Ali
 **Author:** [Mr. Savistarz](https://x.com/AryehKatz) | **Source:** [Link](https://x.com/AryehKatz/status/2079294886356889866) | **Published:** Jul 20, 2026
 
 ---
-### Pterodactyls vs. Fairies Party
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein chaotischer und magischer Video-Prompt, bei dem Pterodaktylen eine Party stürmen, nur um von Feen mit Feenstaub gebändigt zu werden.
-
-#### 📝 Prompt
-
-```
-Eingestaubt
-
-Pterodaktylen stürzen herab und crashen die Party. 🎈 Sie sorgen für Chaos, doch die Feen 🧚‍♀️ bändigen sie mit ihrem magischen Feenstaub.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079277906010718208/img/pQAxd525mRTlfrYj.jpg" width="600" alt="Pterodactyls vs. Fairies Party">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7641)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079277954324959412) | **Published:** Jul 20, 2026
-
----
-### Kate Greenaway Garten-Aquarell
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein herzerwärmender Video-Prompt im Aquarellstil, der ein Mädchen zeigt, das in einem Garten Vögel füttert.
-
-#### 📝 Prompt
-
-```
-Inspiriert von Kate Greenaway, ein süßes Mädchen in einem blauen Kittel und einer Haube, das in einem Garten Krümel für Vögel verstreut, Spatzen und Rotkehlchen um sie herum, detailliertes Gefieder und Blattwerk, zartes Aquarell, herzerwärmende Kinderszene.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079274259495505920/img/gtGbBhmF_znZwIxc.jpg" width="600" alt="Kate Greenaway Garten-Aquarell">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7635)**
-
-**Author:** [Dawn Marie](https://x.com/DedeMoments) | **Source:** [Link](https://x.com/DedeMoments/status/2079274314033996030) | **Published:** Jul 20, 2026
-
----
-### Die Bitcoin-Überfahrt des Fährmanns
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein konzeptioneller Video-Prompt, der einen mythischen Fährmann darstellt, der einen Bitcoin als Bezahlung für die Überfahrt in eine andere Welt erhält.
-
-#### 📝 Prompt
-
-```
-Stelle dir in der Vision des Fährmanns in die andere Welt vor, wie er einen Bitcoin als Bezahlung für die Überfahrt entgegennimmt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079267766364712960/img/NN8jvuCWSUYl9z7Y.jpg" width="600" alt="Die Bitcoin-Überfahrt des Fährmanns">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7640)**
-
-**Author:** [Sats Nakamondo](https://x.com/shroudspeeders) | **Source:** [Link](https://x.com/shroudspeeders/status/2079267780814090567) | **Published:** Jul 20, 2026
-
----
-### Winzige Drachen im Wassereimer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Fantasy-Video-Prompt mit winzigen, farbenfrohen Drachen, die zusammen mit Schmetterlingen und Kolibris in einem Wassereimer spielen.
-
-#### 📝 Prompt
-
-```
-Schmetterlinge hinzufügen Libellen Honigbienen Kolibris Metall-Wassereimer neben einer Schaufel Zwei winzige Drachen hinzufügen, die nebeneinander laufen Ein Drache rot mit gelb-orangen Streifen Zweiter Drache in Blau- und Schimmertönen Drachen springen in den Wassereimer
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079250071053582336/img/usApoo9fvygIGxyS.jpg" width="600" alt="Winzige Drachen im Wassereimer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7637)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2079250137071894916) | **Published:** Jul 20, 2026
-
----
-### Auftritt eines getigerten schwarzen Panthers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt, der einen seltenen hybriden Großkatzen-Auftritt zeigt.
-
-#### 📝 Prompt
-
-```
-Schwarz getigerter Panther 
-
-Ein schwarzer Panther mit weißen Tigerstreifen betritt die Szene.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079240828749246464/img/7e7dJ0qyRE5g_7BR.jpg" width="600" alt="Auftritt eines getigerten schwarzen Panthers">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7643)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079240875234742401) | **Published:** Jul 20, 2026
-
----
-### Der orangefarbene Katzenkönig und die Hunde
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein surrealer Prompt, der eine orangefarbene Katze als obersten Herrscher in einem Reich darstellt, in dem Hunde Katzen verehren.
-
-#### 📝 Prompt
-
-```
-Der orangefarbene 🍊 Mann herrscht über seine Untertanen 👑 Diese Katze driftet in ein anderes Reich ab, in dem Katzen als höchste Wesen verehrt und von den dort lebenden Hunden auf ein Podest gestellt werden.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079205626157150208/img/IHgWx_xcC5Fb4FZ_.jpg" width="600" alt="Der orangefarbene Katzenkönig und die Hunde">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7638)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079205676518121776) | **Published:** Jul 20, 2026
-
----
-### Mutiertes Dämonen-Insektennetz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Dark-Fantasy-Prompt für Grok Imagine, der Dämonen zeigt, die als mutierte fliegende Insekten in einem Netz gefangen sind.
-
-#### 📝 Prompt
-
-```
-Dämonenfliegen gefangen 🕸️🪰
-
-Das Netz fängt Dämonen ein, die auf der Erde als fliegende Insekten mutierten Ursprungs existieren.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079202586146504705/img/Bx8_X3tIykN6vnK2.jpg" width="600" alt="Mutiertes Dämonen-Insektennetz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7632)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079202684616298609) | **Published:** Jul 20, 2026
-
----
-### Spiderwolf-Mensch: Rettung aus dem Fegefeuer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt, der einen Spiderwolf-Menschen zeigt, wie er mit einem riesigen Netz Seelen aus dem Fegefeuer rettet.
-
-#### 📝 Prompt
-
-```
-Vom Spiderwolf-Menschen aus dem Fegefeuer befreit 🐺🕷️🕸️
-
-Dieses komplexe Netz erstreckt sich über die gesamte Umgebung und wird dazu genutzt, verlorene Seelen einzufangen, die im Fegefeuer feststecken. Auf diese Weise werden sie von ihrem Leiden erlöst.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079202094452559872/img/5u5-VKlEG9iFIEaE.jpg" width="600" alt="Spiderwolf-Mensch: Rettung aus dem Fegefeuer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7633)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **Published:** Jul 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2362,6 +2356,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-02T06:59:52.520Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-02T10:20:16.428Z</sub>
 
 </div>
