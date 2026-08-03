@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2301** |
+| 📝 Total Prompts | **2319** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-03** |
 
@@ -189,19 +189,305 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
-### Underwater Swimming Interaction Video Prompt
+### Red Echo Los Angeles Rooftop
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Grok Imagine that generates a scene of swimming with a friendly character underwater.
+> A cinematic prompt describing a stand-off on a downtown LA rooftop featuring a glowing blue knife and a retreating swarm.
 
 #### 📝 Prompt
 
 ```
-Swim with her underwater; she knows you're there and is happy to take you along. Swim with her underwater, she knows you're there and is willing to take you along.
+Red Echo
+You stand on the rooftop in downtown Los Angeles, the glowing blue knife still warm in your palm. The Red swarm is retreating into the Pacific like a wounded animal.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083816384979722240/img/2Y--4wmbalFpQMGh.jpg" width="600" alt="Underwater Swimming Interaction Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084156108289998848/img/QI05m6cN7qH7KSDz.jpg" width="600" alt="Red Echo Los Angeles Rooftop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8405)**
+
+**Author:** [Bentley Reed](https://x.com/BReed2069) | **Source:** [Link](https://x.com/BReed2069/status/2084156121472725348) | **Published:** Aug 3, 2026
+
+---
+### Heart Shaped Water Ripples
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A slow-motion video prompt showing a single water drip creating heart-shaped ripples in a cup.
+
+#### 📝 Prompt
+
+```
+One singular drip of water falls from the faucet landing in the cup of water creating heart shaped ripples heart shaped ripples
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084152112976633856/img/T07fPhIJn779BYpt.jpg" width="600" alt="Heart Shaped Water Ripples">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8399)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2084152135315571067) | **Published:** Aug 3, 2026
+
+---
+### Halo Ring Space Orbit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex celestial scene featuring a Halo ring and planets orbiting a sun that is itself orbiting a black hole.
+
+#### 📝 Prompt
+
+```
+Halo ring orbiting a sun flying through space with planets orbiting the sun that is orbiting around a central black hole
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084143095403212800/img/OmY6bl5ytnMarf-K.jpg" width="600" alt="Halo Ring Space Orbit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8403)**
+
+**Author:** [ozin.owl](https://x.com/ozinowl) | **Source:** [Link](https://x.com/ozinowl/status/2084143144220672104) | **Published:** Aug 3, 2026
+
+---
+### Black and Gold Bearded Dragon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt showing a shiny black and gold bearded dragon flying and yawning.
+
+#### 📝 Prompt
+
+```
+Born This merger brings forth a new creation sparked by the former’s bond. A shiny black with gold accents flying bearded dragon 🐉 forms. Its forked tongue uncurls as it yawns.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084131055775170560/img/jW_bPuMBvhYl-mQb.jpg" width="600" alt="Black and Gold Bearded Dragon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8408)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2084131117133611074) | **Published:** Aug 3, 2026
+
+---
+### Astronaut on Ice Moon with Shooting Star
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine featuring an astronaut on a frozen lunar landscape beneath a massive ringed planet, concluding with a shooting star effect.
+
+#### 📝 Prompt
+
+```
+Astronaut on an ice moon under a giant ringed world. And at the end… a shooting star.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084123670016884736/img/ju4LsPZkvGBRKuO8.jpg" width="600" alt="Astronaut on Ice Moon with Shooting Star">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8413)**
+
+**Author:** [𝓛𝓪𝓭𝔂𝓓𝓑𝓾𝓰0o ♕](https://x.com/DBug0o) | **Source:** [Link](https://x.com/DBug0o/status/2084123919842181313) | **Published:** Aug 3, 2026
+
+---
+### Dancing Rock Creature Aliens
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fun video featuring the rock creature aliens from Project Hail Mary dancing to a modern techno beat.
+
+#### 📝 Prompt
+
+```
+Give me the rock creature aliens from project Hail Mary dancing to a techno beat
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084102331147186176/img/PWtbafka4cJM_Tdv.jpg" width="600" alt="Dancing Rock Creature Aliens">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8407)**
+
+**Author:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **Source:** [Link](https://x.com/DrJGiddensRN/status/2084102356937932909) | **Published:** Aug 3, 2026
+
+---
+### Namibia Desert Lily Bloom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic video prompt depicting millions of pink and white lilies blooming in the Namibian desert at sunset after rain.
+
+#### 📝 Prompt
+
+```
+In Namibia’s hush, where the desert drinks rain, millions of lilies rise from the dust. Pink and white, they drink the last light, their faces turned to the sky they once knew only as a star. For five brief days they bloom, a quiet riot against the dry. And when the sun finally touches them, they answer with fire.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084100239389024256/img/dozbwj9g3xZEnhS0.jpg" width="600" alt="Namibia Desert Lily Bloom">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8397)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2084100344049537284) | **Published:** Aug 3, 2026
+
+---
+### Soylent Green Nature Memory
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A somber video prompt of a person on their deathbed watching films of lost nature, inspired by Soylent Green.
+
+#### 📝 Prompt
+
+```
+A person dying on their deathbed, watching a beautiful video of magnificent landscapes that once existed in the past but are now gone forever, evoking the scene from Soylent Green where the beauty of lost nature is viewed through film
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084092584394190848/img/KNTxgxHBgCLV-7Qh.jpg" width="600" alt="Soylent Green Nature Memory">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8398)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2084092604761739513) | **Published:** Aug 3, 2026
+
+---
+### Sketch to Life Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for animating a green-eyed sketch into a living woman who speaks and sheds a tear.
+
+#### 📝 Prompt
+
+```
+My eyes are green make the sketch turn to life moving squinting with eye movement and tear drop begin to fall as an angelic  woman’s voice begins to say “Why are you so scared of me?...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084049651422937088/img/wsl5jw765SYVxngk.jpg" width="600" alt="Sketch to Life Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8401)**
+
+**Author:** [Robin Vargas](https://x.com/ladiamondbaby) | **Source:** [Link](https://x.com/ladiamondbaby/status/2084049666128203959) | **Published:** Aug 2, 2026
+
+---
+### Squirrel Puddle Tackle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic video prompt featuring a squirrel jumping from a bench to tackle another squirrel playing in a rain puddle.
+
+#### 📝 Prompt
+
+```
+Gotcha Squirrel 🐿️ gets a running start and jumps from the top of a potting bench onto a friend who is playing in a puddle that is currently being filled by rain off of the drip edge of the bench. He is attempting to sneakily tackle his best mate.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084002135817986048/img/hdz-EEmuuXT2t52W.jpg" width="600" alt="Squirrel Puddle Tackle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8409)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2084002199491801240) | **Published:** Aug 2, 2026
+
+---
+### Pastel Goth Woman Haunted Mansion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt generating a cinematic scene of a pastel goth woman with mint-green hair standing in a haunted mansion with ghosts.
+
+#### 📝 Prompt
+
+```
+A pastel goth woman with short mint-green hair wearing a velvet choker, standing with a tabby cat at a haunted mansion, ghostly figures glowing softly in the moonlit air.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083963882423324673/img/O3QUVWAkGG1Fm3Gr.jpg" width="600" alt="Pastel Goth Woman Haunted Mansion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8414)**
+
+**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2083963914107121826) | **Published:** Aug 2, 2026
+
+---
+### Poppy Plant Spaceport Morph
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A transformation video prompt turning a poppy plant into a purple violet spaceport structure.
+
+#### 📝 Prompt
+
+```
+top of the flower expand purple violet colour and make the tree in image of poppy plant flower without the petals i need to look like spaceport
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083927241814126592/img/pRdnirBVpIesiPTJ.jpg" width="600" alt="Poppy Plant Spaceport Morph">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8411)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2083927255609180410) | **Published:** Aug 2, 2026
+
+---
+### Dragon of Entropy and Fire
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a dragon carrying sky ice while flying through smoke and fire.
+
+#### 📝 Prompt
+
+```
+Flames, and flowing Entropy and in the midst of it—the dragon appears holding a glowing chunk of the sky ice, clutched in its talons, and it flies through the entropic cloud of fire and smoke breathing a column of fire out, the moment resonates. As y...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083926074531131392/img/Wp19ti_7v0tsK_qC.jpg" width="600" alt="Dragon of Entropy and Fire">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8406)**
+
+**Author:** [🔥🐲τηε DξρΙθΓαβΙξ DΓΑΩθη🔥🐉](https://x.com/thedepldrgn) | **Source:** [Link](https://x.com/thedepldrgn/status/2083926195163607207) | **Published:** Aug 2, 2026
+
+---
+### Archeologist Exploration Reveal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A slow camera push-in video prompt showing a female explorer clearing moss from a carved stone wall.
+
+#### 📝 Prompt
+
+```
+Slow camera push-in from a slightly low angle as the female explorer carefully clears soft moss and earth from the carved stone wall with gentle deliberate movements, dirt and dust particles falling away to slowly reveal more of the conceal...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083909841475559424/img/jwGlkoh_zcbaNobo.jpg" width="600" alt="Archeologist Exploration Reveal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8402)**
+
+**Author:** [Jayne](https://x.com/JayneJaxon8) | **Source:** [Link](https://x.com/JayneJaxon8/status/2083909914045432128) | **Published:** Aug 2, 2026
+
+---
+### Prison Horror Exorcism
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dark horror video prompt featuring teenagers exorcising a cannibalistic officer in a deserted prison.
+
+#### 📝 Prompt
+
+```
+A group of teenagers are drawn into a deserted prison by nightmarish visions, where they try to exorcise a cannibalistic cavalry officer.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083855863132164096/img/E6cTPZx0TdGrRzu8.jpg" width="600" alt="Prison Horror Exorcism">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8410)**
+
+**Author:** [David Williams](https://x.com/DavidWilliamsYN) | **Source:** [Link](https://x.com/DavidWilliamsYN/status/2083855894685823030) | **Published:** Aug 2, 2026
+
+---
+### Underwater Swimming Interaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine that creates an immersive underwater scene where a character acknowledges the viewer and swims along.
+
+#### 📝 Prompt
+
+```
+Swim with her underwater; she knows you're there and is happy to take you along. Swim with her underwater, she knows you are there and is happy to take you along.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083816384979722240/img/2Y--4wmbalFpQMGh.jpg" width="600" alt="Underwater Swimming Interaction">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8327)**
 
@@ -227,11 +513,30 @@ Primarily I’m seeking a more Athletic build with a body builder tan along with
 **Author:** [Steve Maynard](https://x.com/Sbm3Steve) | **Source:** [Link](https://x.com/Sbm3Steve/status/2083758331160576379) | **Published:** Aug 2, 2026
 
 ---
-### Steampunk Scientist Brain Interface
+### Cosmic Guitar Morph
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a video of a steampunk-themed woman discussing brain-computer interfaces, featuring specific attire like a monocle and short skirt.
+> A video morphing prompt transforming a subject into a cosmic-themed Gibson ES-335 guitar.
+
+#### 📝 Prompt
+
+```
+Have the fun morph into a Gibson es-335 guitar with a cool cosmic themed paint job
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083754711358828544/img/AUaSj8qkbaCAb5BV.jpg" width="600" alt="Cosmic Guitar Morph">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8400)**
+
+**Author:** [Mike Hellings](https://x.com/mikehellings) | **Source:** [Link](https://x.com/mikehellings/status/2083754739632603474) | **Published:** Aug 2, 2026
+
+---
+### Steampunk Woman Discussing BCI
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video of a steampunk-styled woman wearing a monocle while discussing brain-computer interface discoveries for medical treatment.
 
 #### 📝 Prompt
 
@@ -239,11 +544,30 @@ Primarily I’m seeking a more Athletic build with a body builder tan along with
 Create a video of a steampunk woman in a short skirt and knee highs wearing a monocle talking about her latest discovery in brain computer interfaces for treatment resistant depression.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083712641189466112/img/P-ulVrcKW_4FA98m.jpg" width="600" alt="Steampunk Scientist Brain Interface">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083712641189466112/img/P-ulVrcKW_4FA98m.jpg" width="600" alt="Steampunk Woman Discussing BCI">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8321)**
 
 **Author:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **Source:** [Link](https://x.com/DrJGiddensRN/status/2083712659195593094) | **Published:** Aug 2, 2026
+
+---
+### Space Elevator Psychedelic Cells
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An immersive interior view of space elevator cells featuring multi-colored swirling lights and iridescent patterns.
+
+#### 📝 Prompt
+
+```
+Immersive interior of the space elevator's graphene hydrogen-filled cells, a wavy multi-level pathway spiraling upward through a psychedelic dreamscape of multi-colors dominated by rich purple and violet swirling lights, iridescent patterns and glowi...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083671273515761664/img/PrVFknZ_2MER0XlB.jpg" width="600" alt="Space Elevator Psychedelic Cells">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8404)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2083671287277187094) | **Published:** Aug 1, 2026
 
 ---
 ### Ocean Dragon and Wildlife
@@ -1960,339 +2284,6 @@ Bắt đầu thêm nhạc theo phong cách người mẫu sàn diễn Victoria's
 **Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **Published:** Jul 24, 2026
 
 ---
-### Nữ hoàng tĩnh lặng trong bộ ren bạc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh gợi ý đầy chất thơ để tạo ra khung cảnh thanh bình với hình ảnh nữ hoàng trong bộ ren bạc giữa khu vườn tĩnh lặng.
-
-#### 📝 Prompt
-
-```
-Một nữ hoàng trầm mặc trong bộ ren bạc và những bóng râm dịu nhẹ. Đôi bàn tay mềm mại, ánh mắt xa xăm và một khu vườn tĩnh lặng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080590150296616960/img/PAfQO680QIyhr4gq.jpg" width="600" alt="Nữ hoàng tĩnh lặng trong bộ ren bạc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7948)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2080590202167599223) | **Published:** Jul 24, 2026
-
----
-### Góc nhìn thứ nhất về cảnh sinh con tại bệnh viện
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video điện ảnh dưới góc nhìn thứ nhất, ghi lại khoảnh khắc đầy cảm xúc khi người mẹ đón đứa con mới chào đời trong bối cảnh bệnh viện.
-
-#### 📝 Prompt
-
-```
-Góc nhìn của một người phụ nữ đang sinh con trong căn phòng bệnh viện mờ ảo, bụng cô ấy đã nhỏ lại, mặc áo choàng bệnh viện che phần bụng. Bác sĩ đặt bé gái được quấn trong chăn và đội chiếc mũ len màu hồng lên ngực cô. Em bé đang hướng mặt về phía mẹ....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="Góc nhìn thứ nhất về cảnh sinh con tại bệnh viện">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7848)**
-
-**Author:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **Source:** [Link](https://x.com/condnuit/status/2080528603029102790) | **Published:** Jul 24, 2026
-
----
-### Vũ công Terracotta Veil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video về vũ công trong ánh sáng vàng ấm áp với dải lụa màu cam bay bổng trên nền tường khảm đầy màu sắc.
-
-#### 📝 Prompt
-
-```
-Cô ấy nhảy múa trong ánh sáng vàng ấm áp, dải lụa màu cam bay bổng trên nền tường khảm đầy màu sắc.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080380918401835009/img/jpLJqErXUFLPbras.jpg" width="600" alt="Vũ công Terracotta Veil">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7793)**
-
-**Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2080381005395878356) | **Published:** Jul 23, 2026
-
----
-### Chú mèo nhân hóa bí ẩn trong khu vườn dưới ánh trăng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh chi tiết dành cho Grok Imagine, khắc họa hình ảnh một chú mèo nhân hóa đầy uy quyền trong bộ áo choàng tối màu, đặt trong bối cảnh khu vườn dưới ánh trăng mang phong cách noir.
-
-#### 📝 Prompt
-
-```
-Một chú mèo nhân hóa đầy bí ẩn đang ngồi lặng lẽ, đội vương miện và khoác trên mình bộ áo choàng tối màu trong khu vườn dưới ánh trăng, nơi những cánh hoa anh đào héo úa rơi rụng. Khung cảnh được bao phủ bởi ánh sáng noir đầy kịch tính với độ tương phản sâu và những mảng bóng tối đầy tâm trạng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080305619941355520/img/Ct1mEMjGL47q8Oh_.jpg" width="600" alt="Chú mèo nhân hóa bí ẩn trong khu vườn dưới ánh trăng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7792)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **Published:** Jul 23, 2026
-
----
-### Video siêu thực về cơn mưa hoa nhài
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video giả tưởng với hình ảnh người phụ nữ mặc váy màu san hô, bao quanh là cơn mưa hoa nhài khổng lồ cùng các hiệu ứng chuyển động đậm chất điện ảnh.
-
-#### 📝 Prompt
-
-```
-siêu thực, người phụ nữ da trắng phương Tây, tóc vàng tự nhiên xoăn ngắn bồng bềnh, da rám nắng, mặc váy ngắn màu san hô, đôi chân dài tuyệt đẹp, tư thế tươi sáng và tràn đầy sức sống, cơn mưa hoa nhài siêu lớn, bung tỏa, sương sớm & bình minh, siêu thực, ánh sáng huyền ảo, cảnh quay thể hiện sự chuyển động và các chi tiết làm mờ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="Video siêu thực về cơn mưa hoa nhài">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
-
-**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2080195996315738403) | **Published:** Jul 23, 2026
-
----
-### Trận chiến sử thi giữa Gandalf và Balrog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh chuyên nghiệp cho video dài 15 giây mô tả trận chiến hoành tráng giữa một pháp sư và một con rồng lửa trong hang động núi lửa.
-
-#### 📝 Prompt
-
-```
-Một trận chiến giả tưởng đậm chất điện ảnh dài 15 giây trong hang động núi lửa rộng lớn, được chiếu sáng bởi những dòng nham thạch và tàn lửa bay tứ tung. Bắt đầu với góc quay thấp hướng về một chiến binh pháp sư tóc bạc đầy quyền năng đang đứng trên mỏm đá nứt nẻ, chiếc áo choàng xám dài bay phấp phới đầy kịch tính. Ông giơ cao hai thanh kiếm rực sáng — một thanh tỏa ra ánh sáng trắng xanh chói lòa với hiệu ứng lóe sáng, thanh còn lại phát ra luồng năng lượng vàng rực — trong khi những vòng năng lượng cam khổng lồ xoáy tròn và mở rộng xung quanh ông như những tấm khiên ma thuật.
-
-Đối diện với ông, một con quái vật rồng lửa khổng lồ đang chồm lên, cơ thể được tạo thành từ ngọn lửa nóng chảy và vảy đá obsidian, đôi cánh dang rộng, đôi mắt rực sáng như lò lửa. Con quái vật gầm lên, phun ra một luồng lửa cam dữ dội thắp sáng toàn bộ hang động.
-
-Chuyển động camera linh hoạt: quay cận cảnh chậm rãi vào gương mặt kiên định của pháp sư, sau đó là cú lia máy xoay quanh cả hai chiến binh khi con quái vật lao tới. Pháp sư nhảy lên đầy uyển chuyển từ mỏm đá, những đường kiếm chém mạnh tạo ra các vệt năng lượng rực rỡ và những tia lửa bùng nổ khi va chạm với lớp da rực lửa của con rồng. Lửa và ánh sáng va chạm tạo thành những vụ nổ, khiến tàn lửa và đá nóng chảy bắn tung tóe. Con rồng cuộn mình và đớp bằng bộ hàm sắc nhọn trong khi quất chiếc đuôi dài, buộc pháp sư phải thực hiện những pha né tránh và phản đòn nhào lộn.
-
-Nhạc nền giao hưởng hoành tráng dâng trào với tiếng gầm trầm hùng và âm thanh va chạm kiếm sắc bén. Kết thúc bằng một cảnh quay toàn cảnh đầy anh hùng khi pháp sư cắm cả hai thanh kiếm vào ngực con quái vật trong một luồng sáng trắng xanh và vàng rực rỡ, con rồng gầm lên giận dữ khi ngọn lửa bùng phát dữ dội xung quanh họ. Độ chi tiết cực cao, ánh sáng điện ảnh, chuyển động cường độ cao, quy mô sử thi, 4K, kết hợp giữa những khoảnh khắc chuyển động chậm đầy kịch tính và những pha hành động nhanh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080084050291642368/img/8eUFvxZ_lMf6KfF7.jpg" width="600" alt="Trận chiến sử thi giữa Gandalf và Balrog">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7794)**
-
-**Author:** [Lord Of The Groks](https://x.com/LordOfTheGroks) | **Source:** [Link](https://x.com/LordOfTheGroks/status/2080084115844735126) | **Published:** Jul 23, 2026
-
----
-### Chuỗi hoạt cảnh rồng chiến đấu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video hành động cao trào để tạo ra trận chiến rồng dữ dội với ánh sáng điện ảnh và hiệu ứng cháy nổ trong Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Chuỗi hoạt cảnh rồng chiến đấu: Một con rồng đỏ hung dữ với lớp vảy gai góc và đôi mắt màu hổ phách rực sáng đang gầm thét, tung ra những luồng lửa mạnh mẽ khi bay thẳng về phía người xem một cách đầy uy lực. Góc quay linh hoạt, hiệu ứng ngọn lửa bùng nổ, ánh sáng kịch tính
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080006615110168576/img/OZish_Gktox2ogxM.jpg" width="600" alt="Chuỗi hoạt cảnh rồng chiến đấu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7754)**
-
-**Author:** [Faizal](https://x.com/zalkad) | **Source:** [Link](https://x.com/zalkad/status/2080006653068616110) | **Published:** Jul 22, 2026
-
----
-### Nữ chiến binh điện ảnh trong ngôi làng bốc cháy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) chi tiết để tạo ra chân dung điện ảnh chân thực về một nữ chiến binh tóc vàng mặc giáp trụ, đứng giữa ngôi làng thời trung cổ đầy khói lửa với hình ảnh con rồng phía sau.
-
-#### 📝 Prompt
-
-```
-Chân dung điện ảnh siêu thực về một nữ chiến binh có làn da trắng, đôi mắt xanh sắc sảo và mái tóc tết màu vàng bạch kim dày, dài vắt qua vai phải, mặc bộ giáp trụ thời trung cổ màu xám bạc tinh xảo với các hoa văn chạm nổi và áo giáp lưới chi tiết, tay phải cầm một thanh trường kiếm lớn có chuôi tối màu, đứng trên con phố làng thời trung cổ với những tòa nhà đang bốc cháy, hình ảnh con rồng lớn mờ ảo ẩn hiện trong làn khói phía sau, bảng màu trầm và giảm độ bão hòa, màu sắc cực kỳ nhạt, độ bão hòa thấp, bầu không khí điện ảnh gai góc, ánh sáng ấn tượng nhưng dịu nhẹ, ánh lửa mờ ảo, đôi mắt sắc nét nhìn hơi hướng lên trên, biểu cảm nghiêm nghị và cao quý, kết cấu da siêu chi tiết với lỗ chân lông rõ nét, phản chiếu kim loại chân thực và các vết mòn trên giáp, các hạt bụi và muội than, ảnh chụp 8k raw, chân thực như ảnh chụp.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784794869283_q4h6ki_HN2Q8NdXIAAF7kf.jpg" width="600" alt="Nữ chiến binh điện ảnh trong ngôi làng bốc cháy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7757)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **Published:** Jul 22, 2026
-
----
-### Phong cách nghệ thuật Pixel 8-Bit kiểu Bắc Âu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) để tạo ra khung cảnh nghệ thuật pixel 8-bit thư giãn, kết hợp cùng âm nhạc không lời mang âm hưởng Bắc Âu huyền ảo.
-
-#### 📝 Prompt
-
-```
-Nghệ thuật pixel 8-bit dễ thương và thư giãn, nhạc không lời Bắc Âu huyền ảo, êm dịu không có giọng hát, mang lại cảm giác như bạn đang trở về nơi thực sự thuộc về mình sau một hành trình dài thoát khỏi màn đêm sâu thẳm của sự hỗn loạn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="Phong cách nghệ thuật Pixel 8-Bit kiểu Bắc Âu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7758)**
-
-**Author:** [Kiki 🇺🇸](https://x.com/kikisknees) | **Source:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **Published:** Jul 22, 2026
-
----
-### Hoạt ảnh tiên nữ pixel 8-bit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) hoàn chỉnh để tạo video nghệ thuật pixel 8-bit lặp lại liền mạch về một nàng tiên tóc bạc trong khu rừng lúc hoàng hôn.
-
-#### 📝 Prompt
-
-```
-Nghệ thuật pixel 8-bit, nàng tiên mơ màng huyền ảo với mái tóc bạc dài và vương miện hoa, mặc váy ren mỏng, đứng chân trần trong khu rừng rêu phát sáng lúc hoàng hôn, đom đóm và cánh hoa bay lơ lửng, những cái cây cổ thụ với dây thường xuân mềm mại, tông màu hồng phấn, tím oải hương và xanh lá, thẩm mỹ giả tưởng mơ màng kiểu tumblr, phong cách pixel 8-bit cổ điển, ánh sáng dịu nhẹ, bảng màu giới hạn. Video nghệ thuật pixel 8-bit lặp lại, chuyển động tinh tế, vòng lặp mơ màng liền mạch, thẩm mỹ giả tưởng tumblr, phong cách pixel cổ điển
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="Hoạt ảnh tiên nữ pixel 8-bit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
-
-**Author:** [paranoidream ♡︎](https://x.com/paranoidream) | **Source:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **Published:** Jul 22, 2026
-
----
-### Quét fMRI mặt cắt ngang khuôn mặt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video điện ảnh mô phỏng hình ảnh khuôn mặt người tách ra để lộ hình ảnh quét fMRI não bộ đang chuyển động.
-
-#### 📝 Prompt
-
-```
-cắt đôi khuôn mặt ra và làm cho nó trông giống như chúng ta đang thực hiện quét fMRI của não bộ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079724515811074048/img/ETlS_bwjcDqsxOnA.jpg" width="600" alt="Quét fMRI mặt cắt ngang khuôn mặt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7755)**
-
-**Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
-
----
-### Chân dung cận cảnh mẹ và bé phong cách Gothic siêu thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mang tính điện ảnh và giàu cảm xúc cho bức chân dung cận cảnh một người phụ nữ đội vương miện Gothic đang âu yếm bế đứa trẻ được quấn tã, tập trung vào kết cấu da chân thực và tông màu trầm.
-
-#### 📝 Prompt
-
-```
-Chân dung cận cảnh siêu thực về một người phụ nữ xinh đẹp với làn da nhợt nhạt, tàn nhang và mái tóc trắng dài bồng bềnh. Cô mặc một chiếc váy đen dài thanh lịch với các chi tiết tinh xảo, những nếp gấp tinh tế và điểm nhấn ren. Trên đầu cô là chiếc vương miện Gothic tối màu có gai trang trí công phu. Cô nhẹ nhàng ôm và giữ đứa bé đáng yêu được quấn trong lớp vải trắng mềm mại, thanh lịch bằng cả hai tay và cánh tay, âu yếm ôm bé vào lòng; đứa bé bụ bẫm, đáng yêu với làn da mềm mại, mỏng manh, được bao bọc hoàn toàn và ấm áp trong lớp vải. Tư thế của cô đầy sự bảo vệ và yêu thương.
-
-Bảng màu rất trầm, độ bão hòa thấp, tông màu gần như không bão hòa, tông màu lạnh tinh tế, bóng đổ tự nhiên mềm mại, kết cấu da chân thực với lỗ chân lông có thể nhìn thấy, ánh sáng điện ảnh nhưng tiết chế, cực kỳ chi tiết, lấy nét cận cảnh sắc nét, siêu thực, chân thực như ảnh chụp.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="Chân dung cận cảnh mẹ và bé phong cách Gothic siêu thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7795)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079626150091932125) | **Published:** Jul 21, 2026
-
----
-### Video điện ảnh về Achilles trong Chiến tranh thành Troy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) tạo video điện ảnh chuyên nghiệp cho cảnh Chiến tranh thành Troy với nhân vật Achilles, bao gồm các hướng dẫn về chuyển động máy quay, thiết kế âm thanh và ánh sáng.
-
-#### 📝 Prompt
-
-```
-Cảnh quay toàn cảnh đầy kịch tính về Achilles trong bộ giáp đồng sáng loáng đang lao qua chiến trường thành Troy đầy khói bụi vào lúc bình minh, tay giơ cao thanh kiếm, biểu cảm hét vang đầy uy lực, phía sau là những chiến binh ngã xuống và những mũi tên rực lửa, quy mô sử thi với bóng dáng con ngựa gỗ khổng lồ, những tia sáng thần thánh (god rays) xuyên qua đám mây bụi và sương máu, phản chiếu kim loại và vết rách trên vải cực kỳ chi tiết, kiệt tác kết hợp giữa phong cách giả tưởng của Greg Rutkowski, bố cục sử thi của Villeneuve và kỹ thuật ánh sáng bậc thầy của Deakins, chuẩn điện ảnh 8K IMAX. Achilles trong bộ giáp đồng sáng loáng lao về phía trước với cú vung kiếm mạnh mẽ và tiếng gầm vang dội trên chiến trường thành Troy đầy khói bụi lúc bình minh, cú máy tracking chậm đầy kịch tính đẩy từ góc rộng sang cận cảnh anh hùng với hiệu ứng thị sai (parallax) trên những mũi tên bay và bụi cuốn, vật lý hoàn hảo trên tiếng va chạm của giáp và tác động xuống mặt đất, lồng tiếng chiến binh trầm hùng đồng bộ với hiệu ứng âm thanh chiến trận chân thực (tiếng kim loại va chạm, tiếng hét xung trận, tiếng lửa rít) và nhạc nền giao hưởng dồn dập, ánh sáng bình minh vàng rực cùng kỹ thuật chiếu sáng viền (rim lighting) điện ảnh, phong cách kết hợp giữa Rutkowski/Villeneuve/Deakins, chuyển động 15 giây liên tục 24fps hoàn hảo, kiệt tác 8K siêu chi tiết sẵn sàng cho năng lượng của một đoạn trailer lan truyền.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784621994095_n65q56_HNu02XKXUAAkc2V.jpg" width="600" alt="Video điện ảnh về Achilles trong Chiến tranh thành Troy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7646)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **Published:** Jul 21, 2026
-
----
-### Chuỗi xoay nhân vật chính xác
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điều khiển chuyển động chi tiết dành cho nhân vật thực hiện các thao tác xoay và tạm dừng cụ thể.
-
-#### 📝 Prompt
-
-```
-nhân vật thực hiện xoay 40 độ tại chỗ: tạm dừng chính xác trong 0,5 giây, giữ tư thế tạm dừng một cách tự nhiên và điềm tĩnh. sau đó tiếp tục xoay 40 độ theo cùng hướng, tạm dừng 0,5 giây. sau đó xoay ngược lại về phía máy quay và...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079420629032247296/img/IAU_81whWcdJEsDL.jpg" width="600" alt="Chuỗi xoay nhân vật chính xác">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7696)**
-
-**Author:** [Claudia Jean](https://x.com/ClaudiaJeanxpe) | **Source:** [Link](https://x.com/ClaudiaJeanxpe/status/2079421393268093241) | **Published:** Jul 21, 2026
-
----
-### Ảnh động chân dung thời trang Đông Á
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video chi tiết cao cho ảnh chân dung thời trang chân thực của một phụ nữ trẻ Đông Á với mái tóc đen dài, mặc áo phông xanh quá khổ.
-
-#### 📝 Prompt
-
-```
-Ảnh chân dung thời trang chân thực của một phụ nữ trẻ Đông Á xinh đẹp với mái tóc đen nhánh, thẳng và dài, đang ngồi thoải mái trên một chiếc ghế màu đen. Cô đeo kính râm hình bầu dục màu đen, trang điểm nhẹ nhàng với đôi môi màu đỏ hồng bóng bẩy, và đeo một chiếc vòng cổ bạc tinh tế có khắc tên "Ani". Cô mặc một chiếc áo phông màu xanh đá phiến quá khổ với dòng chữ màu đen ở ngực, quần short biker màu đen và giày thể thao đen trắng với dây giày màu xanh sáng thắt nơ lớn. Tay phải cô nhẹ nhàng chạm vào tóc gần thái dương, trong khi tay trái giữ dây đeo của một chiếc túi đeo vai màu đen. Chiếc túi có gắn một chiếc móc khóa gấu bông màu trắng dễ thương mặc quần áo màu xanh và một quả bông lông xù màu xanh lớn. Phông nền là một bức tường màu xanh có kết cấu đồng nhất với từ "Comeback" được viết bằng phông chữ viết tay màu đen đậm, cỡ lớn. Ánh sáng ban ngày tự nhiên, đổ bóng mềm mại, kết cấu da chân thực, lấy nét sắc nét, chi tiết cao, phong cách nhiếp ảnh thời trang Instagram, ảnh chụp toàn thân từ góc thấp, tư thế tự tin
-```
-
-<img src="https://cms-assets.youmind.com/media/1784621982635_sglbmo_HNpWATlbYAAFwZw.jpg" width="600" alt="Ảnh động chân dung thời trang Đông Á">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7642)**
-
-**Author:** [Feyber | AI Creator](https://x.com/woleswoosh) | **Source:** [Link](https://x.com/woleswoosh/status/2079325481053356127) | **Published:** Jul 20, 2026
-
----
-### Phun mực bạch tuộc Mandala
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh về chú bạch tuộc mandala nhiều mắt đang xoay tròn và phun mực trong một cảnh quay thu nhỏ (zoom-out).
-
-#### 📝 Prompt
-
-```
-Octo Pi 👁️ 
-
-Cảnh quay thu nhỏ dần để lộ khuôn mặt của một chú bạch tuộc mandala 11 mắt đang xoay ngược chiều kim đồng hồ và phun mực màu đỏ tía cùng màu đen 🫟 từ các giác hút trên xúc tu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079320309442695168/img/LQB1lzQZcsGx7TXS.jpg" width="600" alt="Phun mực bạch tuộc Mandala">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7630)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079320346281255384) | **Published:** Jul 20, 2026
-
----
-### Hoạt ảnh người ngoài hành tinh cúi chào và tàu vũ trụ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh mô tả một người mặc bộ đồ màu đỏ đang cúi chào người ngoài hành tinh, trong khi các tàu vũ trụ bay lướt qua phía sau và những người ngoài hành tinh đang vỗ tay.
-
-#### 📝 Prompt
-
-```
-Bây giờ hãy làm cho người mặc bộ đồ màu đỏ trông như đang cúi chào trước người ngoài hành tinh. Các tàu vũ trụ ở phía sau đang bay lướt qua hậu cảnh, và những người ngoài hành tinh đang vỗ tay.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079294854610165760/img/cGrQU8eVfSnd4vJW.jpg" width="600" alt="Hoạt ảnh người ngoài hành tinh cúi chào và tàu vũ trụ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7639)**
-
-**Author:** [Mr. Savistarz](https://x.com/AryehKatz) | **Source:** [Link](https://x.com/AryehKatz/status/2079294886356889866) | **Published:** Jul 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2354,6 +2345,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-03T07:56:56.704Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-03T11:49:43.208Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2301** |
+| 📝 총 프롬프트 수 | **2319** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-08-03** |
 
@@ -189,19 +189,305 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
-### Underwater Swimming Interaction Video Prompt
+### Red Echo Los Angeles Rooftop
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Grok Imagine that generates a scene of swimming with a friendly character underwater.
+> A cinematic prompt describing a stand-off on a downtown LA rooftop featuring a glowing blue knife and a retreating swarm.
 
 #### 📝 프롬프트
 
 ```
-Swim with her underwater; she knows you're there and is happy to take you along. Swim with her underwater, she knows you're there and is willing to take you along.
+Red Echo
+You stand on the rooftop in downtown Los Angeles, the glowing blue knife still warm in your palm. The Red swarm is retreating into the Pacific like a wounded animal.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083816384979722240/img/2Y--4wmbalFpQMGh.jpg" width="600" alt="Underwater Swimming Interaction Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084156108289998848/img/QI05m6cN7qH7KSDz.jpg" width="600" alt="Red Echo Los Angeles Rooftop">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8405)**
+
+**작성자:** [Bentley Reed](https://x.com/BReed2069) | **출처:** [Link](https://x.com/BReed2069/status/2084156121472725348) | **게시일:** Aug 3, 2026
+
+---
+### Heart Shaped Water Ripples
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A slow-motion video prompt showing a single water drip creating heart-shaped ripples in a cup.
+
+#### 📝 프롬프트
+
+```
+One singular drip of water falls from the faucet landing in the cup of water creating heart shaped ripples heart shaped ripples
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084152112976633856/img/T07fPhIJn779BYpt.jpg" width="600" alt="Heart Shaped Water Ripples">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8399)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2084152135315571067) | **게시일:** Aug 3, 2026
+
+---
+### Halo Ring Space Orbit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex celestial scene featuring a Halo ring and planets orbiting a sun that is itself orbiting a black hole.
+
+#### 📝 프롬프트
+
+```
+Halo ring orbiting a sun flying through space with planets orbiting the sun that is orbiting around a central black hole
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084143095403212800/img/OmY6bl5ytnMarf-K.jpg" width="600" alt="Halo Ring Space Orbit">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8403)**
+
+**작성자:** [ozin.owl](https://x.com/ozinowl) | **출처:** [Link](https://x.com/ozinowl/status/2084143144220672104) | **게시일:** Aug 3, 2026
+
+---
+### Black and Gold Bearded Dragon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt showing a shiny black and gold bearded dragon flying and yawning.
+
+#### 📝 프롬프트
+
+```
+Born This merger brings forth a new creation sparked by the former’s bond. A shiny black with gold accents flying bearded dragon 🐉 forms. Its forked tongue uncurls as it yawns.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084131055775170560/img/jW_bPuMBvhYl-mQb.jpg" width="600" alt="Black and Gold Bearded Dragon">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8408)**
+
+**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2084131117133611074) | **게시일:** Aug 3, 2026
+
+---
+### Astronaut on Ice Moon with Shooting Star
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine featuring an astronaut on a frozen lunar landscape beneath a massive ringed planet, concluding with a shooting star effect.
+
+#### 📝 프롬프트
+
+```
+Astronaut on an ice moon under a giant ringed world. And at the end… a shooting star.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084123670016884736/img/ju4LsPZkvGBRKuO8.jpg" width="600" alt="Astronaut on Ice Moon with Shooting Star">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8413)**
+
+**작성자:** [𝓛𝓪𝓭𝔂𝓓𝓑𝓾𝓰0o ♕](https://x.com/DBug0o) | **출처:** [Link](https://x.com/DBug0o/status/2084123919842181313) | **게시일:** Aug 3, 2026
+
+---
+### Dancing Rock Creature Aliens
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fun video featuring the rock creature aliens from Project Hail Mary dancing to a modern techno beat.
+
+#### 📝 프롬프트
+
+```
+Give me the rock creature aliens from project Hail Mary dancing to a techno beat
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084102331147186176/img/PWtbafka4cJM_Tdv.jpg" width="600" alt="Dancing Rock Creature Aliens">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8407)**
+
+**작성자:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **출처:** [Link](https://x.com/DrJGiddensRN/status/2084102356937932909) | **게시일:** Aug 3, 2026
+
+---
+### Namibia Desert Lily Bloom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic video prompt depicting millions of pink and white lilies blooming in the Namibian desert at sunset after rain.
+
+#### 📝 프롬프트
+
+```
+In Namibia’s hush, where the desert drinks rain, millions of lilies rise from the dust. Pink and white, they drink the last light, their faces turned to the sky they once knew only as a star. For five brief days they bloom, a quiet riot against the dry. And when the sun finally touches them, they answer with fire.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084100239389024256/img/dozbwj9g3xZEnhS0.jpg" width="600" alt="Namibia Desert Lily Bloom">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8397)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2084100344049537284) | **게시일:** Aug 3, 2026
+
+---
+### Soylent Green Nature Memory
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A somber video prompt of a person on their deathbed watching films of lost nature, inspired by Soylent Green.
+
+#### 📝 프롬프트
+
+```
+A person dying on their deathbed, watching a beautiful video of magnificent landscapes that once existed in the past but are now gone forever, evoking the scene from Soylent Green where the beauty of lost nature is viewed through film
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084092584394190848/img/KNTxgxHBgCLV-7Qh.jpg" width="600" alt="Soylent Green Nature Memory">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8398)**
+
+**작성자:** [Marie](https://x.com/Marie8508319540) | **출처:** [Link](https://x.com/Marie8508319540/status/2084092604761739513) | **게시일:** Aug 3, 2026
+
+---
+### Sketch to Life Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for animating a green-eyed sketch into a living woman who speaks and sheds a tear.
+
+#### 📝 프롬프트
+
+```
+My eyes are green make the sketch turn to life moving squinting with eye movement and tear drop begin to fall as an angelic  woman’s voice begins to say “Why are you so scared of me?...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084049651422937088/img/wsl5jw765SYVxngk.jpg" width="600" alt="Sketch to Life Animation">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8401)**
+
+**작성자:** [Robin Vargas](https://x.com/ladiamondbaby) | **출처:** [Link](https://x.com/ladiamondbaby/status/2084049666128203959) | **게시일:** Aug 2, 2026
+
+---
+### Squirrel Puddle Tackle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic video prompt featuring a squirrel jumping from a bench to tackle another squirrel playing in a rain puddle.
+
+#### 📝 프롬프트
+
+```
+Gotcha Squirrel 🐿️ gets a running start and jumps from the top of a potting bench onto a friend who is playing in a puddle that is currently being filled by rain off of the drip edge of the bench. He is attempting to sneakily tackle his best mate.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084002135817986048/img/hdz-EEmuuXT2t52W.jpg" width="600" alt="Squirrel Puddle Tackle">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8409)**
+
+**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2084002199491801240) | **게시일:** Aug 2, 2026
+
+---
+### Pastel Goth Woman Haunted Mansion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt generating a cinematic scene of a pastel goth woman with mint-green hair standing in a haunted mansion with ghosts.
+
+#### 📝 프롬프트
+
+```
+A pastel goth woman with short mint-green hair wearing a velvet choker, standing with a tabby cat at a haunted mansion, ghostly figures glowing softly in the moonlit air.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083963882423324673/img/O3QUVWAkGG1Fm3Gr.jpg" width="600" alt="Pastel Goth Woman Haunted Mansion">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8414)**
+
+**작성자:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **출처:** [Link](https://x.com/JinxLovesCats/status/2083963914107121826) | **게시일:** Aug 2, 2026
+
+---
+### Poppy Plant Spaceport Morph
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A transformation video prompt turning a poppy plant into a purple violet spaceport structure.
+
+#### 📝 프롬프트
+
+```
+top of the flower expand purple violet colour and make the tree in image of poppy plant flower without the petals i need to look like spaceport
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083927241814126592/img/pRdnirBVpIesiPTJ.jpg" width="600" alt="Poppy Plant Spaceport Morph">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8411)**
+
+**작성자:** [KENDREIK Artist](https://x.com/kendreik) | **출처:** [Link](https://x.com/kendreik/status/2083927255609180410) | **게시일:** Aug 2, 2026
+
+---
+### Dragon of Entropy and Fire
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a dragon carrying sky ice while flying through smoke and fire.
+
+#### 📝 프롬프트
+
+```
+Flames, and flowing Entropy and in the midst of it—the dragon appears holding a glowing chunk of the sky ice, clutched in its talons, and it flies through the entropic cloud of fire and smoke breathing a column of fire out, the moment resonates. As y...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083926074531131392/img/Wp19ti_7v0tsK_qC.jpg" width="600" alt="Dragon of Entropy and Fire">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8406)**
+
+**작성자:** [🔥🐲τηε DξρΙθΓαβΙξ DΓΑΩθη🔥🐉](https://x.com/thedepldrgn) | **출처:** [Link](https://x.com/thedepldrgn/status/2083926195163607207) | **게시일:** Aug 2, 2026
+
+---
+### Archeologist Exploration Reveal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A slow camera push-in video prompt showing a female explorer clearing moss from a carved stone wall.
+
+#### 📝 프롬프트
+
+```
+Slow camera push-in from a slightly low angle as the female explorer carefully clears soft moss and earth from the carved stone wall with gentle deliberate movements, dirt and dust particles falling away to slowly reveal more of the conceal...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083909841475559424/img/jwGlkoh_zcbaNobo.jpg" width="600" alt="Archeologist Exploration Reveal">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8402)**
+
+**작성자:** [Jayne](https://x.com/JayneJaxon8) | **출처:** [Link](https://x.com/JayneJaxon8/status/2083909914045432128) | **게시일:** Aug 2, 2026
+
+---
+### Prison Horror Exorcism
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dark horror video prompt featuring teenagers exorcising a cannibalistic officer in a deserted prison.
+
+#### 📝 프롬프트
+
+```
+A group of teenagers are drawn into a deserted prison by nightmarish visions, where they try to exorcise a cannibalistic cavalry officer.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083855863132164096/img/E6cTPZx0TdGrRzu8.jpg" width="600" alt="Prison Horror Exorcism">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8410)**
+
+**작성자:** [David Williams](https://x.com/DavidWilliamsYN) | **출처:** [Link](https://x.com/DavidWilliamsYN/status/2083855894685823030) | **게시일:** Aug 2, 2026
+
+---
+### Underwater Swimming Interaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine that creates an immersive underwater scene where a character acknowledges the viewer and swims along.
+
+#### 📝 프롬프트
+
+```
+Swim with her underwater; she knows you're there and is happy to take you along. Swim with her underwater, she knows you are there and is happy to take you along.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083816384979722240/img/2Y--4wmbalFpQMGh.jpg" width="600" alt="Underwater Swimming Interaction">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8327)**
 
@@ -227,11 +513,30 @@ Primarily I’m seeking a more Athletic build with a body builder tan along with
 **작성자:** [Steve Maynard](https://x.com/Sbm3Steve) | **출처:** [Link](https://x.com/Sbm3Steve/status/2083758331160576379) | **게시일:** Aug 2, 2026
 
 ---
-### Steampunk Scientist Brain Interface
+### Cosmic Guitar Morph
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a video of a steampunk-themed woman discussing brain-computer interfaces, featuring specific attire like a monocle and short skirt.
+> A video morphing prompt transforming a subject into a cosmic-themed Gibson ES-335 guitar.
+
+#### 📝 프롬프트
+
+```
+Have the fun morph into a Gibson es-335 guitar with a cool cosmic themed paint job
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083754711358828544/img/AUaSj8qkbaCAb5BV.jpg" width="600" alt="Cosmic Guitar Morph">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8400)**
+
+**작성자:** [Mike Hellings](https://x.com/mikehellings) | **출처:** [Link](https://x.com/mikehellings/status/2083754739632603474) | **게시일:** Aug 2, 2026
+
+---
+### Steampunk Woman Discussing BCI
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video of a steampunk-styled woman wearing a monocle while discussing brain-computer interface discoveries for medical treatment.
 
 #### 📝 프롬프트
 
@@ -239,11 +544,30 @@ Primarily I’m seeking a more Athletic build with a body builder tan along with
 Create a video of a steampunk woman in a short skirt and knee highs wearing a monocle talking about her latest discovery in brain computer interfaces for treatment resistant depression.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083712641189466112/img/P-ulVrcKW_4FA98m.jpg" width="600" alt="Steampunk Scientist Brain Interface">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083712641189466112/img/P-ulVrcKW_4FA98m.jpg" width="600" alt="Steampunk Woman Discussing BCI">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8321)**
 
 **작성자:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **출처:** [Link](https://x.com/DrJGiddensRN/status/2083712659195593094) | **게시일:** Aug 2, 2026
+
+---
+### Space Elevator Psychedelic Cells
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An immersive interior view of space elevator cells featuring multi-colored swirling lights and iridescent patterns.
+
+#### 📝 프롬프트
+
+```
+Immersive interior of the space elevator's graphene hydrogen-filled cells, a wavy multi-level pathway spiraling upward through a psychedelic dreamscape of multi-colors dominated by rich purple and violet swirling lights, iridescent patterns and glowi...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083671273515761664/img/PrVFknZ_2MER0XlB.jpg" width="600" alt="Space Elevator Psychedelic Cells">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8404)**
+
+**작성자:** [KENDREIK Artist](https://x.com/kendreik) | **출처:** [Link](https://x.com/kendreik/status/2083671287277187094) | **게시일:** Aug 1, 2026
 
 ---
 ### Ocean Dragon and Wildlife
@@ -1962,339 +2286,6 @@ Victoria's Secret 런웨이 모델처럼 승리감 넘치는 음악을 추가하
 **작성자:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **출처:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **게시일:** Jul 24, 2026
 
 ---
-### 은빛 레이스를 입은 고요한 여왕
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 고요한 정원 속 은빛 레이스를 입은 여왕의 평온한 모습을 생성하기 위한 시적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-은빛 레이스와 부드러운 그림자 속에 있는 고요한 여왕. 섬세한 손길, 먼 곳을 응시하는 눈빛, 그리고 정적만이 흐르는 정원.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080590150296616960/img/PAfQO680QIyhr4gq.jpg" width="600" alt="은빛 레이스를 입은 고요한 여왕">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7948)**
-
-**작성자:** [Stella 𝕏](https://x.com/StellaGrokStar) | **출처:** [Link](https://x.com/StellaGrokStar/status/2080590202167599223) | **게시일:** Jul 24, 2026
-
----
-### 병원 출산 1인칭 시점
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 병원에서 어머니가 갓 태어난 아기를 품에 안는 감동적인 순간을 담은 영화 같은 1인칭 시점 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-어두운 병실에서 출산하는 여성의 1인칭 시점. 배는 작아졌고 배를 덮은 병원 가운을 입고 있다. 의사가 분홍색 칼하트(Carhartt) 비니를 쓰고 담요에 싸인 여자 아기를 어머니의 가슴 위에 올려놓는다. 아기는 엄마를 바라보고 있다....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="병원 출산 1인칭 시점">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7848)**
-
-**작성자:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **출처:** [Link](https://x.com/condnuit/status/2080528603029102790) | **게시일:** Jul 24, 2026
-
----
-### 테라코타 베일 댄서
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 다채로운 모자이크 벽을 배경으로 따뜻한 황금빛 조명 아래 오렌지색 실크를 휘날리며 춤추는 무용수를 위한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그녀는 따뜻한 황금빛 조명 아래에서 다채로운 모자이크 벽을 배경으로 오렌지색 실크를 휘날리며 춤을 춥니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080380918401835009/img/jpLJqErXUFLPbras.jpg" width="600" alt="테라코타 베일 댄서">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7793)**
-
-**작성자:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **출처:** [Link](https://x.com/artwithahat0/status/2080381005395878356) | **게시일:** Jul 23, 2026
-
----
-### 달빛 비치는 정원 속 신비로운 의인화된 고양이
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 상세한 시네마틱 프롬프트로, 느와르 스타일의 달빛 정원에서 어두운 로브를 입은 위엄 있는 의인화된 고양이를 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-왕관과 어두운 그림자 로브를 입은 신비로운 의인화된 고양이가 달빛이 비치는 정원에 조용히 앉아 있습니다. 정원에는 시든 벚꽃이 가득하며, 깊은 대비와 분위기 있는 그림자가 돋보이는 드라마틱한 느와르 조명이 연출됩니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080305619941355520/img/Ct1mEMjGL47q8Oh_.jpg" width="600" alt="달빛 비치는 정원 속 신비로운 의인화된 고양이">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7792)**
-
-**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **게시일:** Jul 23, 2026
-
----
-### 자스민 꽃 소나기 초현실적 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 산호색 드레스를 입은 여성이 거대한 자스민 꽃 소나기에 둘러싸여 있는, 영화 같은 움직임 효과가 가미된 판타지 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-초현실주의, 백인 서유럽인, 자연스러운 중간 밝기의 금발, 풍성한 곱슬 단발머리, 태닝한 피부, 짧은 산호색 드레스 착용, 길고 아름다운 다리, 밝고 활기찬 포즈, 초대형 자스민 꽃 소나기, 쏟아지는 꽃잎, 이슬과 새벽, 초현실적, 판타지 플레어, 움직임과 흐릿한 부분이 강조된 샷
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="자스민 꽃 소나기 초현실적 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7756)**
-
-**작성자:** [Carolina Delgado](https://x.com/carolletta) | **출처:** [Link](https://x.com/carolletta/status/2080195996315738403) | **게시일:** Jul 23, 2026
-
----
-### 간달프와 발로그의 장대한 전투
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 화산 동굴에서 펼쳐지는 마법사와 용암 드래곤의 장대한 전투를 묘사한 15초 분량의 전문가급 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-용암 강과 소용돌이치는 불씨로 밝혀진 거대한 화산 동굴에서 펼쳐지는 15초 분량의 극적인 판타지 전투 영상입니다. 갈라진 돌출부 위에 서 있는 백발의 강력한 마법사 전사를 로우 앵글로 비추며 시작합니다. 길게 휘날리는 회색 로브가 드라마틱하게 펄럭입니다. 그가 두 개의 빛나는 검을 높이 치켜들자, 하나는 눈부신 청백색 빛과 렌즈 플레어를 내뿜고, 다른 하나는 강렬한 황금빛 에너지 광선을 발산합니다. 거대한 주황색 에너지 고리가 마법 방패처럼 그 주변을 소용돌이치며 확장됩니다.
-
-그 맞은편에는 살아있는 용암 불꽃과 흑요석 비늘로 이루어진 거대한 화염 드래곤 괴수가 몸을 일으키고 있습니다. 날개를 넓게 펼친 채 용광로처럼 타오르는 눈으로 노려보며 포효하고, 동굴 전체를 밝히는 거센 주황색 불길을 내뿜습니다.
-
-역동적인 카메라 무빙: 마법사의 결연한 표정을 향해 천천히 다가가는 드라마틱한 푸시인(push-in) 기법을 사용한 뒤, 괴수가 돌진할 때 두 전사를 중심으로 빠르게 회전하는 팬(pan) 촬영을 이어갑니다. 마법사는 돌출부에서 우아하게 뛰어내리며 검을 휘둘러 강력한 호를 그리고, 드래곤의 불타는 가죽에 닿을 때마다 밝은 에너지 궤적과 함께 불꽃이 튑니다. 불과 빛이 폭발적으로 충돌하며 쏟아지는 불씨와 용암 파편들이 사방으로 튑니다. 드래곤은 몸을 똬리 틀고 턱으로 공격하며 긴 꼬리를 휘두르고, 마법사는 이를 아크로바틱한 동작으로 피하며 반격합니다.
-
-웅장한 오케스트라 음악이 깊은 울림과 날카로운 검 충돌음과 함께 고조됩니다. 마지막은 마법사가 청백색과 황금빛 섬광 속에서 두 검을 괴수의 가슴에 꽂아 넣는 영웅적인 와이드 샷으로 마무리됩니다. 드래곤은 분노하며 포효하고, 주변에는 불길이 거세게 치솟습니다. 초고화질, 시네마틱 조명, 강렬한 움직임, 장대한 스케일, 4K 해상도, 빠른 액션과 드라마틱한 슬로우 모션이 조화롭게 어우러진 영상입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080084050291642368/img/8eUFvxZ_lMf6KfF7.jpg" width="600" alt="간달프와 발로그의 장대한 전투">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7794)**
-
-**작성자:** [Lord Of The Groks](https://x.com/LordOfTheGroks) | **출처:** [Link](https://x.com/LordOfTheGroks/status/2080084115844735126) | **게시일:** Jul 23, 2026
-
----
-### 애니메이션 드래곤 전투 시퀀스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine에서 영화 같은 조명과 폭발적인 효과를 갖춘 치열한 드래곤 전투를 생성하기 위한 고액션 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-애니메이션 카툰 드래곤 전투 시퀀스: 뾰족한 비늘과 빛나는 호박색 눈을 가진 사나운 붉은 드래곤이 포효하며, 시청자를 향해 공격적으로 날아오면서 강력한 화염을 내뿜습니다. 역동적인 카메라 앵글, 폭발적인 불꽃 효과, 드라마틱한 조명
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080006615110168576/img/OZish_Gktox2ogxM.jpg" width="600" alt="애니메이션 드래곤 전투 시퀀스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7754)**
-
-**작성자:** [Faizal](https://x.com/zalkad) | **출처:** [Link](https://x.com/zalkad/status/2080006653068616110) | **게시일:** Jul 22, 2026
-
----
-### 불타는 마을의 영화 같은 여성 전사
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 연기가 자욱하고 불타는 중세 마을을 배경으로, 뒤편에 용이 있는 판금 갑옷을 입은 금발 전사의 사실적인 영화적 초상을 생성하기 위한 고도로 상세한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-하얀 피부와 날카로운 푸른 눈, 오른쪽 어깨 위로 길고 두꺼운 백금발 머리를 땋아 내린 여성 전사의 초고화질 영화적 초상. 복잡한 양각 패턴과 사슬 갑옷이 정교하게 새겨진 은회색 중세 판금 갑옷을 착용하고, 오른손에는 어두운 손잡이가 달린 크고 화려한 롱소드를 쥐고 있음. 불타는 건물이 있는 중세 마을 거리에 서 있으며, 연기 자욱한 배경으로 흐릿한 거대한 용이 보임. 매우 차분하고 채도가 낮은 색감, 억제된 색조, 낮은 채도, 거칠고 영화적인 분위기, 극적이면서도 절제된 조명, 부드러운 불빛, 약간 위를 응시하는 날카로운 눈매, 진지하고 고귀한 표정, 모공까지 보이는 초고화질 피부 질감, 갑옷의 사실적인 금속 반사와 마모 흔적, 먼지와 그을음 입자, 8k RAW 사진, 사실적인 사진.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784794869283_q4h6ki_HN2Q8NdXIAAF7kf.jpg" width="600" alt="불타는 마을의 영화 같은 여성 전사">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7757)**
-
-**작성자:** [Myluna](https://x.com/monicamoonx) | **출처:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **게시일:** Jul 22, 2026
-
----
-### 북유럽풍 8비트 픽셀 아트 스타일
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 몽환적인 북유럽풍 연주곡과 어우러진 편안한 8비트 픽셀 아트 장면을 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-귀엽고 편안한 8비트 픽셀 아트, 보컬이 없는 차분하고 몽환적인 북유럽풍 연주곡. 깊고 어두운 혼돈의 밤을 지나 긴 여정을 마치고, 진정한 안식처인 집으로 돌아온 듯한 느낌을 줍니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="북유럽풍 8비트 픽셀 아트 스타일">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7758)**
-
-**작성자:** [Kiki 🇺🇸](https://x.com/kikisknees) | **출처:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **게시일:** Jul 22, 2026
-
----
-### 8비트 픽셀 요정 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 황혼의 숲속에 있는 은발 요정을 소재로 한, 매끄럽게 반복되는 8비트 픽셀 아트 영상 제작용 전체 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-8비트 픽셀 아트, 긴 은발 머리에 꽃 왕관을 쓰고 시스루 레이스 드레스를 입은 몽환적이고 신비로운 요정 소녀, 황혼이 내린 빛나는 이끼 숲속에 맨발로 서 있음, 반딧불이와 떠다니는 꽃잎, 부드러운 담쟁이덩굴이 감긴 고목들, 파스텔 핑크와 라벤더 및 그린 색조, 텀블러 감성의 몽환적인 판타지 미학, 레트로 8비트 픽셀 스타일, 부드러운 빛, 제한된 색상 팔레트. 반복되는 앰비언트 8비트 픽셀 아트 영상, 미세한 움직임, 매끄럽고 몽환적인 루프, 텀블러 판타지 미학, 레트로 픽셀 스타일
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8비트 픽셀 요정 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7697)**
-
-**작성자:** [paranoidream ♡︎](https://x.com/paranoidream) | **출처:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **게시일:** Jul 22, 2026
-
----
-### 얼굴 단면 fMRI 스캔
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사람의 얼굴이 반으로 갈라지며 내부의 fMRI 뇌 스캔 영상이 움직이는 모습을 시각화한 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-얼굴을 반으로 가르고 그 안에서 뇌 fMRI 스캔이 진행되는 것처럼 보이게 만들어 줘
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079724515811074048/img/ETlS_bwjcDqsxOnA.jpg" width="600" alt="얼굴 단면 fMRI 스캔">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7755)**
-
-**작성자:** [Doc Toadlips](https://x.com/DToadlips) | **출처:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **게시일:** Jul 22, 2026
-
----
-### 초현실적인 고딕 양식의 엄마와 아기 매크로 초상화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 고딕 양식의 왕관을 쓴 여성이 포대기에 싸인 아기를 다정하게 안고 있는 모습을 담은 매크로 초상화 프롬프트로, 영화 같은 분위기와 감성적인 연출, 사실적인 피부 질감과 차분한 색조에 중점을 두었습니다.
-
-#### 📝 프롬프트
-
-```
-창백한 피부와 주근깨, 길게 흐르는 백발을 가진 아름다운 여성의 초현실적인 매크로 초상화. 그녀는 섬세한 디테일과 은은한 드레이프, 레이스 장식이 돋보이는 우아하고 긴 검은색 드레스를 입고 있습니다. 머리에는 화려하고 어두운 스파이크 고딕 왕관을 쓰고 있습니다. 그녀는 부드럽고 우아한 흰색 천에 싸인 귀여운 아기를 양손과 팔로 부드럽게 감싸 안아 가슴에 다정하게 품고 있으며, 아기는 통통하고 사랑스러우며 부드럽고 섬세한 피부를 가진 채 천 속에 포근하게 감싸여 있습니다. 그녀의 자세는 보호 본능이 느껴지는 사랑스러운 모습입니다.
-
-매우 차분하고 채도가 낮은 색상 팔레트, 거의 무채색에 가까운 톤, 은은한 쿨톤, 부드러운 자연스러운 그림자, 모공까지 보이는 사실적인 피부 질감, 영화적이면서도 절제된 조명, 극도로 상세하고 선명한 매크로 초점, 초현실주의, 사진 같은 사실주의.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="초현실적인 고딕 양식의 엄마와 아기 매크로 초상화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7795)**
-
-**작성자:** [Myluna](https://x.com/monicamoonx) | **출처:** [Link](https://x.com/monicamoonx/status/2079626150091932125) | **게시일:** Jul 21, 2026
-
----
-### 트로이 전쟁 아킬레우스 시네마틱 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 아킬레우스가 등장하는 트로이 전쟁 장면을 위한 전문가급 시네마틱 영상 프롬프트로, 카메라 무빙, 사운드 디자인, 조명 지침이 포함되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-새벽녘 연기 자욱한 트로이 전장을 가로질러 돌격하는, 빛나는 청동 갑옷을 입은 아킬레우스의 드라마틱한 와이드 샷. 칼을 높이 치켜들고 강렬한 함성을 지르는 표정, 배경에는 쓰러진 전사들과 불타는 화살, 거대한 목마의 실루엣이 어우러진 웅장한 스케일. 먼지 구름과 핏빛 안개를 뚫고 들어오는 시네마틱 볼류메트릭 갓 레이(God rays), 초정밀 금속 반사와 찢어진 의복 디테일. 그렉 루트코프스키(Greg Rutkowski)의 판타지 디테일, 빌뇌브(Villeneuve)의 웅장한 구도, 디킨스(Deakins)의 조명 마스터리가 융합된 8K IMAX 시네마틱 걸작. 새벽녘 혼돈의 트로이 전장에서 강력한 검 휘두르기와 전투 함성을 내지르며 돌격하는 아킬레우스. 와이드 샷에서 영웅적인 클로즈업으로 이어지는 느리고 드라마틱한 트래킹 샷, 날아오는 화살과 소용돌이치는 먼지에 모션 패럴랙스 적용. 갑옷이 부딪히는 소리와 지면 충격의 완벽한 물리 효과, '트로이를 위하여!'라고 외치는 현장감 넘치는 전사의 목소리와 거친 전투 SFX(금속 충돌음, 전쟁 함성, 불타는 소리), 웅장한 오케스트라 스코어. 황금빛 새벽의 볼류메트릭 갓 레이와 시네마틱 림 라이팅, 루트코프스키/빌뇌브/디킨스 융합 스타일, 흠잡을 데 없는 24fps 15초 연속 모션, 바이럴 트레일러에 최적화된 초정밀 8K 걸작.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784621994095_n65q56_HNu02XKXUAAkc2V.jpg" width="600" alt="트로이 전쟁 아킬레우스 시네마틱 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7646)**
-
-**작성자:** [SophieZX](https://x.com/Z_XSophie) | **출처:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **게시일:** Jul 21, 2026
-
----
-### 정밀한 캐릭터 회전 시퀀스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 캐릭터가 특정 회전 및 일시 정지 동작을 수행하도록 지시하는 매우 상세한 모션 제어 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-캐릭터가 제자리에서 40도 회전을 수행합니다: 0.5초 동안 정확하게 일시 정지하며 자연스럽고 차분한 자세를 유지합니다. 그 후 같은 방향으로 40도 더 회전하고 0.5초간 일시 정지합니다. 이어서 카메라 방향으로 다시 회전하며...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079420629032247296/img/IAU_81whWcdJEsDL.jpg" width="600" alt="정밀한 캐릭터 회전 시퀀스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7696)**
-
-**작성자:** [Claudia Jean](https://x.com/ClaudiaJeanxpe) | **출처:** [Link](https://x.com/ClaudiaJeanxpe/status/2079421393268093241) | **게시일:** Jul 21, 2026
-
----
-### 동아시아 패션 인물 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 긴 흑발을 가진 젊은 동아시아 여성이 오버사이즈 블루 티셔츠를 입고 있는, 사실적인 패션 인물 사진을 위한 고해상도 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-길고 곧은 칠흑 같은 머리카락을 가진 아름다운 젊은 동아시아 여성의 사실적인 패션 인물 사진으로, 검은색 의자에 편안하게 앉아 있는 모습입니다. 그녀는 검은색 타원형 선글라스를 착용하고 있으며, 은은한 메이크업에 윤기 나는 핑크빛 레드 립을 연출했습니다. 목에는 "Ani"라는 이름이 새겨진 섬세한 은색 목걸이를 하고 있습니다. 가슴 부분에 검은색 글씨가 적힌 오버사이즈 슬레이트 블루 티셔츠와 검은색 바이커 쇼츠를 입고 있으며, 큰 리본으로 묶인 밝은 파란색 끈이 달린 흑백 스니커즈를 신었습니다. 오른손은 관자놀이 근처의 머리카락을 부드럽게 만지고 있고, 왼손은 검은색 숄더백의 스트랩을 잡고 있습니다. 가방에는 파란색 옷을 입은 귀여운 흰색 테디베어 키링과 크고 복슬복슬한 파란색 폼폼이 달려 있습니다. 배경은 "Comeback"이라는 단어가 크고 굵은 검은색 필기체로 적힌 질감이 있는 파란색 벽입니다. 자연광 조명, 부드러운 그림자, 사실적인 피부 질감, 선명한 초점, 높은 디테일, 인스타그램 패션 사진 스타일, 약간 낮은 각도에서 촬영한 전신 샷, 자신감 있는 포즈
-```
-
-<img src="https://cms-assets.youmind.com/media/1784621982635_sglbmo_HNpWATlbYAAFwZw.jpg" width="600" alt="동아시아 패션 인물 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7642)**
-
-**작성자:** [Feyber | AI Creator](https://x.com/woleswoosh) | **출처:** [Link](https://x.com/woleswoosh/status/2079325481053356127) | **게시일:** Jul 20, 2026
-
----
-### 만다라 문어 잉크 분사
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 다중 눈을 가진 만다라 문어가 소용돌이치며 잉크를 내뿜는 모습을 줌아웃으로 담아낸 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-옥토 파이 (Octo Pi) 👁️ 
-
-장면이 줌아웃되면서 11개의 눈을 가진 만다라 문어의 얼굴이 드러나고, 문어가 반시계 방향으로 소용돌이치며 촉수의 빨판에서 버건디색과 검은색 잉크 🫟 를 내뿜습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079320309442695168/img/LQB1lzQZcsGx7TXS.jpg" width="600" alt="만다라 문어 잉크 분사">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7630)**
-
-**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2079320346281255384) | **게시일:** Jul 20, 2026
-
----
-### 외계인에게 절하는 인간과 우주선 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빨간색 슈트를 입은 인간이 외계인에게 절을 하고, 배경에는 우주선이 지나가며 외계인들이 박수를 치는 모습을 담은 영화 같은 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이제 빨간색 슈트를 입은 인간이 외계인 앞에서 절을 하는 것처럼 보이게 만들어 주세요. 배경에는 우주선들이 가로질러 지나가고, 외계인들은 박수를 치고 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079294854610165760/img/cGrQU8eVfSnd4vJW.jpg" width="600" alt="외계인에게 절하는 인간과 우주선 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7639)**
-
-**작성자:** [Mr. Savistarz](https://x.com/AryehKatz) | **출처:** [Link](https://x.com/AryehKatz/status/2079294886356889866) | **게시일:** Jul 20, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2356,6 +2347,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-03T07:56:54.349Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-03T11:49:39.958Z</sub>
 
 </div>

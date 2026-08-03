@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2301** |
+| 📝 提示詞總數 | **2319** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-08-03** |
 
@@ -189,19 +189,305 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
-### Underwater Swimming Interaction Video Prompt
+### Red Echo Los Angeles Rooftop
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Grok Imagine that generates a scene of swimming with a friendly character underwater.
+> A cinematic prompt describing a stand-off on a downtown LA rooftop featuring a glowing blue knife and a retreating swarm.
 
 #### 📝 提示詞
 
 ```
-Swim with her underwater; she knows you're there and is happy to take you along. Swim with her underwater, she knows you're there and is willing to take you along.
+Red Echo
+You stand on the rooftop in downtown Los Angeles, the glowing blue knife still warm in your palm. The Red swarm is retreating into the Pacific like a wounded animal.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083816384979722240/img/2Y--4wmbalFpQMGh.jpg" width="600" alt="Underwater Swimming Interaction Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084156108289998848/img/QI05m6cN7qH7KSDz.jpg" width="600" alt="Red Echo Los Angeles Rooftop">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8405)**
+
+**作者:** [Bentley Reed](https://x.com/BReed2069) | **來源:** [Link](https://x.com/BReed2069/status/2084156121472725348) | **發布時間:** Aug 3, 2026
+
+---
+### Heart Shaped Water Ripples
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A slow-motion video prompt showing a single water drip creating heart-shaped ripples in a cup.
+
+#### 📝 提示詞
+
+```
+One singular drip of water falls from the faucet landing in the cup of water creating heart shaped ripples heart shaped ripples
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084152112976633856/img/T07fPhIJn779BYpt.jpg" width="600" alt="Heart Shaped Water Ripples">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8399)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2084152135315571067) | **發布時間:** Aug 3, 2026
+
+---
+### Halo Ring Space Orbit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex celestial scene featuring a Halo ring and planets orbiting a sun that is itself orbiting a black hole.
+
+#### 📝 提示詞
+
+```
+Halo ring orbiting a sun flying through space with planets orbiting the sun that is orbiting around a central black hole
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084143095403212800/img/OmY6bl5ytnMarf-K.jpg" width="600" alt="Halo Ring Space Orbit">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8403)**
+
+**作者:** [ozin.owl](https://x.com/ozinowl) | **來源:** [Link](https://x.com/ozinowl/status/2084143144220672104) | **發布時間:** Aug 3, 2026
+
+---
+### Black and Gold Bearded Dragon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt showing a shiny black and gold bearded dragon flying and yawning.
+
+#### 📝 提示詞
+
+```
+Born This merger brings forth a new creation sparked by the former’s bond. A shiny black with gold accents flying bearded dragon 🐉 forms. Its forked tongue uncurls as it yawns.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084131055775170560/img/jW_bPuMBvhYl-mQb.jpg" width="600" alt="Black and Gold Bearded Dragon">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8408)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2084131117133611074) | **發布時間:** Aug 3, 2026
+
+---
+### Astronaut on Ice Moon with Shooting Star
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine featuring an astronaut on a frozen lunar landscape beneath a massive ringed planet, concluding with a shooting star effect.
+
+#### 📝 提示詞
+
+```
+Astronaut on an ice moon under a giant ringed world. And at the end… a shooting star.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084123670016884736/img/ju4LsPZkvGBRKuO8.jpg" width="600" alt="Astronaut on Ice Moon with Shooting Star">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8413)**
+
+**作者:** [𝓛𝓪𝓭𝔂𝓓𝓑𝓾𝓰0o ♕](https://x.com/DBug0o) | **來源:** [Link](https://x.com/DBug0o/status/2084123919842181313) | **發布時間:** Aug 3, 2026
+
+---
+### Dancing Rock Creature Aliens
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fun video featuring the rock creature aliens from Project Hail Mary dancing to a modern techno beat.
+
+#### 📝 提示詞
+
+```
+Give me the rock creature aliens from project Hail Mary dancing to a techno beat
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084102331147186176/img/PWtbafka4cJM_Tdv.jpg" width="600" alt="Dancing Rock Creature Aliens">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8407)**
+
+**作者:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **來源:** [Link](https://x.com/DrJGiddensRN/status/2084102356937932909) | **發布時間:** Aug 3, 2026
+
+---
+### Namibia Desert Lily Bloom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic video prompt depicting millions of pink and white lilies blooming in the Namibian desert at sunset after rain.
+
+#### 📝 提示詞
+
+```
+In Namibia’s hush, where the desert drinks rain, millions of lilies rise from the dust. Pink and white, they drink the last light, their faces turned to the sky they once knew only as a star. For five brief days they bloom, a quiet riot against the dry. And when the sun finally touches them, they answer with fire.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084100239389024256/img/dozbwj9g3xZEnhS0.jpg" width="600" alt="Namibia Desert Lily Bloom">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8397)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2084100344049537284) | **發布時間:** Aug 3, 2026
+
+---
+### Soylent Green Nature Memory
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A somber video prompt of a person on their deathbed watching films of lost nature, inspired by Soylent Green.
+
+#### 📝 提示詞
+
+```
+A person dying on their deathbed, watching a beautiful video of magnificent landscapes that once existed in the past but are now gone forever, evoking the scene from Soylent Green where the beauty of lost nature is viewed through film
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084092584394190848/img/KNTxgxHBgCLV-7Qh.jpg" width="600" alt="Soylent Green Nature Memory">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8398)**
+
+**作者:** [Marie](https://x.com/Marie8508319540) | **來源:** [Link](https://x.com/Marie8508319540/status/2084092604761739513) | **發布時間:** Aug 3, 2026
+
+---
+### Sketch to Life Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for animating a green-eyed sketch into a living woman who speaks and sheds a tear.
+
+#### 📝 提示詞
+
+```
+My eyes are green make the sketch turn to life moving squinting with eye movement and tear drop begin to fall as an angelic  woman’s voice begins to say “Why are you so scared of me?...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084049651422937088/img/wsl5jw765SYVxngk.jpg" width="600" alt="Sketch to Life Animation">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8401)**
+
+**作者:** [Robin Vargas](https://x.com/ladiamondbaby) | **來源:** [Link](https://x.com/ladiamondbaby/status/2084049666128203959) | **發布時間:** Aug 2, 2026
+
+---
+### Squirrel Puddle Tackle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic video prompt featuring a squirrel jumping from a bench to tackle another squirrel playing in a rain puddle.
+
+#### 📝 提示詞
+
+```
+Gotcha Squirrel 🐿️ gets a running start and jumps from the top of a potting bench onto a friend who is playing in a puddle that is currently being filled by rain off of the drip edge of the bench. He is attempting to sneakily tackle his best mate.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084002135817986048/img/hdz-EEmuuXT2t52W.jpg" width="600" alt="Squirrel Puddle Tackle">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8409)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2084002199491801240) | **發布時間:** Aug 2, 2026
+
+---
+### Pastel Goth Woman Haunted Mansion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt generating a cinematic scene of a pastel goth woman with mint-green hair standing in a haunted mansion with ghosts.
+
+#### 📝 提示詞
+
+```
+A pastel goth woman with short mint-green hair wearing a velvet choker, standing with a tabby cat at a haunted mansion, ghostly figures glowing softly in the moonlit air.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083963882423324673/img/O3QUVWAkGG1Fm3Gr.jpg" width="600" alt="Pastel Goth Woman Haunted Mansion">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8414)**
+
+**作者:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **來源:** [Link](https://x.com/JinxLovesCats/status/2083963914107121826) | **發布時間:** Aug 2, 2026
+
+---
+### Poppy Plant Spaceport Morph
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A transformation video prompt turning a poppy plant into a purple violet spaceport structure.
+
+#### 📝 提示詞
+
+```
+top of the flower expand purple violet colour and make the tree in image of poppy plant flower without the petals i need to look like spaceport
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083927241814126592/img/pRdnirBVpIesiPTJ.jpg" width="600" alt="Poppy Plant Spaceport Morph">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8411)**
+
+**作者:** [KENDREIK Artist](https://x.com/kendreik) | **來源:** [Link](https://x.com/kendreik/status/2083927255609180410) | **發布時間:** Aug 2, 2026
+
+---
+### Dragon of Entropy and Fire
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a dragon carrying sky ice while flying through smoke and fire.
+
+#### 📝 提示詞
+
+```
+Flames, and flowing Entropy and in the midst of it—the dragon appears holding a glowing chunk of the sky ice, clutched in its talons, and it flies through the entropic cloud of fire and smoke breathing a column of fire out, the moment resonates. As y...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083926074531131392/img/Wp19ti_7v0tsK_qC.jpg" width="600" alt="Dragon of Entropy and Fire">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8406)**
+
+**作者:** [🔥🐲τηε DξρΙθΓαβΙξ DΓΑΩθη🔥🐉](https://x.com/thedepldrgn) | **來源:** [Link](https://x.com/thedepldrgn/status/2083926195163607207) | **發布時間:** Aug 2, 2026
+
+---
+### Archeologist Exploration Reveal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A slow camera push-in video prompt showing a female explorer clearing moss from a carved stone wall.
+
+#### 📝 提示詞
+
+```
+Slow camera push-in from a slightly low angle as the female explorer carefully clears soft moss and earth from the carved stone wall with gentle deliberate movements, dirt and dust particles falling away to slowly reveal more of the conceal...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083909841475559424/img/jwGlkoh_zcbaNobo.jpg" width="600" alt="Archeologist Exploration Reveal">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8402)**
+
+**作者:** [Jayne](https://x.com/JayneJaxon8) | **來源:** [Link](https://x.com/JayneJaxon8/status/2083909914045432128) | **發布時間:** Aug 2, 2026
+
+---
+### Prison Horror Exorcism
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dark horror video prompt featuring teenagers exorcising a cannibalistic officer in a deserted prison.
+
+#### 📝 提示詞
+
+```
+A group of teenagers are drawn into a deserted prison by nightmarish visions, where they try to exorcise a cannibalistic cavalry officer.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083855863132164096/img/E6cTPZx0TdGrRzu8.jpg" width="600" alt="Prison Horror Exorcism">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8410)**
+
+**作者:** [David Williams](https://x.com/DavidWilliamsYN) | **來源:** [Link](https://x.com/DavidWilliamsYN/status/2083855894685823030) | **發布時間:** Aug 2, 2026
+
+---
+### Underwater Swimming Interaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine that creates an immersive underwater scene where a character acknowledges the viewer and swims along.
+
+#### 📝 提示詞
+
+```
+Swim with her underwater; she knows you're there and is happy to take you along. Swim with her underwater, she knows you are there and is happy to take you along.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083816384979722240/img/2Y--4wmbalFpQMGh.jpg" width="600" alt="Underwater Swimming Interaction">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8327)**
 
@@ -227,11 +513,30 @@ Primarily I’m seeking a more Athletic build with a body builder tan along with
 **作者:** [Steve Maynard](https://x.com/Sbm3Steve) | **來源:** [Link](https://x.com/Sbm3Steve/status/2083758331160576379) | **發布時間:** Aug 2, 2026
 
 ---
-### Steampunk Scientist Brain Interface
+### Cosmic Guitar Morph
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a video of a steampunk-themed woman discussing brain-computer interfaces, featuring specific attire like a monocle and short skirt.
+> A video morphing prompt transforming a subject into a cosmic-themed Gibson ES-335 guitar.
+
+#### 📝 提示詞
+
+```
+Have the fun morph into a Gibson es-335 guitar with a cool cosmic themed paint job
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083754711358828544/img/AUaSj8qkbaCAb5BV.jpg" width="600" alt="Cosmic Guitar Morph">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8400)**
+
+**作者:** [Mike Hellings](https://x.com/mikehellings) | **來源:** [Link](https://x.com/mikehellings/status/2083754739632603474) | **發布時間:** Aug 2, 2026
+
+---
+### Steampunk Woman Discussing BCI
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video of a steampunk-styled woman wearing a monocle while discussing brain-computer interface discoveries for medical treatment.
 
 #### 📝 提示詞
 
@@ -239,11 +544,30 @@ Primarily I’m seeking a more Athletic build with a body builder tan along with
 Create a video of a steampunk woman in a short skirt and knee highs wearing a monocle talking about her latest discovery in brain computer interfaces for treatment resistant depression.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083712641189466112/img/P-ulVrcKW_4FA98m.jpg" width="600" alt="Steampunk Scientist Brain Interface">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083712641189466112/img/P-ulVrcKW_4FA98m.jpg" width="600" alt="Steampunk Woman Discussing BCI">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8321)**
 
 **作者:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **來源:** [Link](https://x.com/DrJGiddensRN/status/2083712659195593094) | **發布時間:** Aug 2, 2026
+
+---
+### Space Elevator Psychedelic Cells
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An immersive interior view of space elevator cells featuring multi-colored swirling lights and iridescent patterns.
+
+#### 📝 提示詞
+
+```
+Immersive interior of the space elevator's graphene hydrogen-filled cells, a wavy multi-level pathway spiraling upward through a psychedelic dreamscape of multi-colors dominated by rich purple and violet swirling lights, iridescent patterns and glowi...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083671273515761664/img/PrVFknZ_2MER0XlB.jpg" width="600" alt="Space Elevator Psychedelic Cells">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8404)**
+
+**作者:** [KENDREIK Artist](https://x.com/kendreik) | **來源:** [Link](https://x.com/kendreik/status/2083671287277187094) | **發布時間:** Aug 1, 2026
 
 ---
 ### Ocean Dragon and Wildlife
@@ -1962,339 +2286,6 @@ Margaret 變身為留著棕色長髮的絕美公主，Elon Musk 在優雅的舞�
 **作者:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **來源:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **發布時間:** Jul 24, 2026
 
 ---
-### 銀色蕾絲中的靜謐女王
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個詩意的提示詞，用於生成一幅寧靜的場景，描繪一位身著銀色蕾絲的女王置身於靜謐花園中。
-
-#### 📝 提示詞
-
-```
-一位身著銀色蕾絲、隱沒於柔和陰影中的靜謐女王。溫柔的雙手、深邃的目光，以及一座寂靜的花園。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080590150296616960/img/PAfQO680QIyhr4gq.jpg" width="600" alt="銀色蕾絲中的靜謐女王">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7948)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **來源:** [Link](https://x.com/StellaGrokStar/status/2080590202167599223) | **發布時間:** Jul 24, 2026
-
----
-### 第一人稱視角醫院生產
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級的視角影片提示詞，捕捉母親在醫院環境中迎接新生兒的感人瞬間。
-
-#### 📝 提示詞
-
-```
-從一位女性在昏暗的醫院病房中生產的視角出發，她腹部微隆，穿著遮蓋腹部的醫院病袍。醫生將包裹在毯子裡、戴著粉紅色 Carhart 毛帽的女嬰放在她的胸口。嬰兒面向母親……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="第一人稱視角醫院生產">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7848)**
-
-**作者:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **來源:** [Link](https://x.com/condnuit/status/2080528603029102790) | **發布時間:** Jul 24, 2026
-
----
-### 陶土面紗舞者
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片提示詞，描述一位舞者在溫暖的金光下，身穿橘色絲綢，在色彩斑斕的馬賽克牆前翩翩起舞。
-
-#### 📝 提示詞
-
-```
-她在溫暖的金光中起舞，橘色的絲綢在色彩斑斕的馬賽克牆前飄動。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080380918401835009/img/jpLJqErXUFLPbras.jpg" width="600" alt="陶土面紗舞者">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7793)**
-
-**作者:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **來源:** [Link](https://x.com/artwithahat0/status/2080381005395878356) | **發布時間:** Jul 23, 2026
-
----
-### 月光花園中神秘的擬人化貓咪
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的詳細電影感提示詞，描繪了一隻身穿暗色長袍、氣質高貴的擬人化貓咪，場景設定在黑色電影風格的月光花園中。
-
-#### 📝 提示詞
-
-```
-一隻神秘的擬人化貓咪靜靜地坐著，頭戴皇冠，身穿深色暗影長袍，置身於開滿枯萎櫻花的月光花園中，呈現出戲劇性的黑色電影光影效果，伴隨著強烈的對比與憂鬱的陰影。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080305619941355520/img/Ct1mEMjGL47q8Oh_.jpg" width="600" alt="月光花園中神秘的擬人化貓咪">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7792)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **發布時間:** Jul 23, 2026
-
----
-### 茉莉花雨超現實影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個奇幻影片提示詞，描繪了一位身穿珊瑚色連身裙的女性，被超大茉莉花雨包圍，並帶有電影級的動態效果。
-
-#### 📝 提示詞
-
-```
-超寫實，白色西歐自然中金色捲髮，豐盈短髮，小麥色肌膚，身穿短款珊瑚色連身裙，修長美腿，明亮且充滿活力的姿勢，超大茉莉花雨，奔放，露水與黎明，超現實，奇幻光暈，拍攝畫面呈現動態感與模糊細節
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="茉莉花雨超現實影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7756)**
-
-**作者:** [Carolina Delgado](https://x.com/carolletta) | **來源:** [Link](https://x.com/carolletta/status/2080195996315738403) | **發布時間:** Jul 23, 2026
-
----
-### 史詩級甘道夫對戰炎魔
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個專業級的電影感提示詞，用於製作一段 15 秒的影片，描繪巫師與熔岩巨龍在火山洞穴中的史詩對決。
-
-#### 📝 提示詞
-
-```
-一場戲劇性的 15 秒電影感奇幻戰鬥，場景位於廣闊的火山洞穴中，由熔岩河與旋轉的餘燼照亮。開場採用低角度鏡頭，拍攝一位強大的白髮巫師戰士站在龜裂的石架上，長長的灰色長袍隨風劇烈飄動。他高舉兩把發光的劍——一把散發出強烈刺眼的藍白色光芒並帶有鏡頭光暈，另一把則是猛烈的金色能量束——巨大的橙色光環如魔法護盾般在他周圍旋轉並擴張。
-
-在他對面，一隻巨大的火龍蛇獸昂首挺立，身體由活生生的熔岩與黑曜石鱗片組成，雙翼展開，雙眼如熔爐般發光。巨獸咆哮著，噴射出一股咆哮的橙色火焰，照亮了整個洞穴。
-
-動態鏡頭：緩慢且具戲劇性地推近巫師堅定的臉龐，隨後在巨獸向前猛撲時，快速環繞兩位戰士進行運鏡。巫師優雅地從石架上躍下，雙劍揮舞出強而有力的弧線，在撞擊龍的火焰外皮時產生明亮的能量軌跡與爆炸火花。火焰與光芒在爆炸中碰撞，飛濺出陣陣餘燼與熔岩碎石。巨龍盤旋並張開大顎猛咬，同時甩動長尾，迫使巫師進行雜技般的閃避與反擊。
-
-史詩般的管弦樂隨之高昂，伴隨著深沉的轟鳴與尖銳的劍擊聲。結尾處採用英雄式的廣角鏡頭，巫師將雙劍刺入巨獸胸膛，爆發出耀眼的藍白與金色光芒，巨龍憤怒咆哮，火焰在他們周圍狂亂噴發。超高細節、電影級燈光、強烈動態、史詩規模、4K 畫質，結合戲劇性的慢動作與快速動作鏡頭。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080084050291642368/img/8eUFvxZ_lMf6KfF7.jpg" width="600" alt="史詩級甘道夫對戰炎魔">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7794)**
-
-**作者:** [Lord Of The Groks](https://x.com/LordOfTheGroks) | **來源:** [Link](https://x.com/LordOfTheGroks/status/2080084115844735126) | **發布時間:** Jul 23, 2026
-
----
-### 動畫龍族戰鬥場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高動作強度的影片提示詞，用於在 Grok Imagine 中生成具有電影級光影與爆炸特效的激烈龍族戰鬥。
-
-#### 📝 提示詞
-
-```
-動畫卡通龍族戰鬥場景：一隻擁有尖刺鱗片與琥珀色發光雙眼的兇猛紅龍，正咆哮著並噴射出強大的火焰，同時向觀眾方向猛烈飛行。動態攝影視角，爆炸性火焰特效，戲劇性光影。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080006615110168576/img/OZish_Gktox2ogxM.jpg" width="600" alt="動畫龍族戰鬥場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7754)**
-
-**作者:** [Faizal](https://x.com/zalkad) | **來源:** [Link](https://x.com/zalkad/status/2080006653068616110) | **發布時間:** Jul 22, 2026
-
----
-### 燃燒村莊中的電影感女戰士
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高細節的提示詞，用於生成一張寫實的電影感肖像，描繪了一位身穿板甲的金髮女戰士，背景是煙霧繚繞、燃燒的中世紀村莊與一條巨龍。
-
-#### 📝 提示詞
-
-```
-超寫實電影感肖像，描繪一位皮膚白皙、擁有銳利藍眼睛的女戰士，右肩垂著一條厚實的長鉑金色辮子，身穿細節豐富、帶有精緻浮雕圖案與鎖子甲的銀灰色中世紀板甲，右手握著一把帶有深色劍柄的華麗長劍，站在燃燒著建築物的中世紀村莊街道上，背景煙霧中隱約可見一條巨大的模糊巨龍，色調極度柔和且去飽和，低飽和度，粗獷的電影氛圍，戲劇性但柔和的燈光，微弱的火光，銳利的雙眼微微向上凝視，表情嚴肅而高貴，超細節皮膚紋理可見毛孔，寫實的金屬反射與盔甲磨損痕跡，灰塵與煤灰顆粒，8k 原片攝影，照片級真實感。
-```
-
-<img src="https://cms-assets.youmind.com/media/1784794869283_q4h6ki_HN2Q8NdXIAAF7kf.jpg" width="600" alt="燃燒村莊中的電影感女戰士">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7757)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **來源:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **發布時間:** Jul 22, 2026
-
----
-### 北歐 8-Bit 像素藝術風格
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成放鬆的 8-Bit 像素藝術場景，並伴隨空靈北歐器樂的提示詞。
-
-#### 📝 提示詞
-
-```
-可愛且令人放鬆的 8-Bit 像素藝術，平靜空靈的北歐器樂，無人聲，彷彿在經歷漫長且黑暗混亂的旅程後，回到了真正屬於你的家。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="北歐 8-Bit 像素藝術風格">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7758)**
-
-**作者:** [Kiki 🇺🇸](https://x.com/kikisknees) | **來源:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **發布時間:** Jul 22, 2026
-
----
-### 8-bit 像素精靈動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一套完整的動畫提示詞，用於創作一段關於暮色森林中銀髮精靈的無縫循環 8-bit 像素藝術影片。
-
-#### 📝 提示詞
-
-```
-8-bit 像素藝術，夢幻空靈的精靈少女，留著銀色長髮並戴著花冠，身穿透視蕾絲裙，赤腳站在暮色中發光的苔蘚森林裡，螢火蟲與漂浮的花瓣，古老的樹木纏繞著柔軟的常春藤，柔和的粉色、薰衣草紫與綠色，Tumblr 風格夢幻奇幻美學，復古 8-bit 像素風格，柔和光暈，有限色盤。循環環境 8-bit 像素藝術影片，細微動態，無縫夢幻循環，Tumblr 奇幻美學，復古像素風格
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8-bit 像素精靈動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7697)**
-
-**作者:** [paranoidream ♡︎](https://x.com/paranoidream) | **來源:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **發布時間:** Jul 22, 2026
-
----
-### 人臉橫切面 fMRI 掃描
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個電影級的影片提示詞，將人臉剖開並呈現大腦 fMRI 掃描的動態視覺效果。
-
-#### 📝 提示詞
-
-```
-將人臉從中間剖開，呈現出正在進行大腦 fMRI 掃描的視覺效果
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079724515811074048/img/ETlS_bwjcDqsxOnA.jpg" width="600" alt="人臉橫切面 fMRI 掃描">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7755)**
-
-**作者:** [Doc Toadlips](https://x.com/DToadlips) | **來源:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **發布時間:** Jul 22, 2026
-
----
-### 超寫實哥德風母嬰微距肖像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個充滿電影感與情感張力的提示詞，用於創作一張微距肖像。畫面描繪了一位頭戴哥德風皇冠的女性溫柔地懷抱著襁褓中的嬰兒，重點呈現逼真的皮膚紋理與柔和的低飽和色調。
-
-#### 📝 提示詞
-
-```
-超寫實微距肖像，主角是一位擁有白皙皮膚、雀斑與一頭飄逸長白髮的美麗女性。她身穿優雅的黑色長裙，細節精緻，帶有細膩的褶皺與蕾絲裝飾。頭戴華麗的黑色尖刺哥德風皇冠。她雙手溫柔地懷抱著可愛的嬰兒，嬰兒被包裹在柔軟優雅的白色襁褓中，緊貼在她的胸前；嬰兒圓潤可愛，皮膚細膩，被布料舒適地包裹著。她的姿勢充滿保護欲與母愛。
-
-色調極度柔和且低飽和，近乎去色，帶有細微的冷色調，柔和的自然陰影，真實的皮膚紋理可見毛孔，電影感且內斂的燈光，極致細節，銳利的微距對焦，超寫實主義，照片級真實感。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="超寫實哥德風母嬰微距肖像">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7795)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **來源:** [Link](https://x.com/monicamoonx/status/2079626150091932125) | **發布時間:** Jul 21, 2026
-
----
-### 史詩級阿基里斯特洛伊戰爭影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份專業級的電影感影片提示詞，用於生成阿基里斯在特洛伊戰爭中的場景，包含攝影機運鏡、音效設計及燈光說明。
-
-#### 📝 提示詞
-
-```
-黎明時分，身穿閃亮青銅盔甲的阿基里斯在煙霧繚繞的特洛伊戰場上衝鋒的戲劇性廣角鏡頭，高舉長劍，表情充滿激烈的戰鬥怒吼，背景為倒下的戰士與燃燒的箭矢，呈現出宏大的史詩規模，遠處可見高聳的木馬剪影，電影級體積光穿透塵埃與血霧，呈現超細膩的金屬反射與布料撕裂感，完美融合 Greg Rutkowski 的奇幻細節、Villeneuve 的史詩構圖與 Deakins 的燈光大師風格，8K IMAX 電影質感。身穿閃亮青銅盔甲的阿基里斯在混沌且煙霧瀰漫的特洛伊戰場上，伴隨強力的揮劍動作與戰吼向前衝鋒，緩慢的戲劇性跟拍鏡頭從廣角推進至英雄特寫，並結合飛箭與旋轉塵埃的視差效果，盔甲碰撞與地面衝擊的物理細節完美呈現，內建同步的深沉戰士對話「為了特洛伊！」以及粗獷的戰鬥音效（金屬碰撞聲、戰吼、火焰呼嘯聲）與澎湃的管弦樂配樂，金色黎明的體積光與電影級輪廓光，融合 Rutkowski / Villeneuve / Deakins 風格，完美流暢的 24fps 15 秒連續動態，具備病毒式預告片能量的超細膩 8K 傑作。
-```
-
-<img src="https://cms-assets.youmind.com/media/1784621994095_n65q56_HNu02XKXUAAkc2V.jpg" width="600" alt="史詩級阿基里斯特洛伊戰爭影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7646)**
-
-**作者:** [SophieZX](https://x.com/Z_XSophie) | **來源:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **發布時間:** Jul 21, 2026
-
----
-### 精確的角色旋轉序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於角色執行特定旋轉與暫停動作的高度詳細運動控制提示詞。
-
-#### 📝 提示詞
-
-```
-角色原地執行 40 度的旋轉：精確暫停 0.5 秒，並以自然、沉穩的姿勢保持暫停。接著朝同一方向繼續旋轉 40 度，暫停 0.5 秒。隨後轉回面向鏡頭並……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079420629032247296/img/IAU_81whWcdJEsDL.jpg" width="600" alt="精確的角色旋轉序列">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7696)**
-
-**作者:** [Claudia Jean](https://x.com/ClaudiaJeanxpe) | **來源:** [Link](https://x.com/ClaudiaJeanxpe/status/2079421393268093241) | **發布時間:** Jul 21, 2026
-
----
-### 東亞時尚人像動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個高細節的影片提示詞，用於生成一位留著黑色長髮、身穿寬鬆藍色 T 恤的年輕東亞女性的寫實時尚人像。
-
-#### 📝 提示詞
-
-```
-一位美麗的年輕東亞女性的寫實時尚人像，留著黑色直長髮，隨意地坐在黑色椅子上。她戴著黑色橢圓形太陽眼鏡，化著淡妝，塗著亮面粉紅色嘴唇，戴著一條刻有「Ani」字樣的精緻銀色項鍊。她身穿一件寬鬆的石板藍色 T 恤，胸前印有黑色文字，搭配黑色單車短褲，以及繫著大蝴蝶結亮藍色鞋帶的黑白運動鞋。她的右手輕觸太陽穴附近的頭髮，左手則握著黑色肩背包的背帶。包包上掛著一個穿著藍色衣服的可愛白色泰迪熊鑰匙圈，以及一個蓬鬆的大型藍色毛球。背景是純色紋理藍牆，牆上用粗體黑色草寫字體寫著「Comeback」。自然日光照明，柔和陰影，真實皮膚紋理，對焦清晰，高細節，Instagram 時尚攝影風格，略低角度全身鏡頭，自信姿勢
-```
-
-<img src="https://cms-assets.youmind.com/media/1784621982635_sglbmo_HNpWATlbYAAFwZw.jpg" width="600" alt="東亞時尚人像動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7642)**
-
-**作者:** [Feyber | AI Creator](https://x.com/woleswoosh) | **來源:** [Link](https://x.com/woleswoosh/status/2079325481053356127) | **發布時間:** Jul 20, 2026
-
----
-### 曼陀羅章魚墨水噴濺
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級的影片提示詞，描述一隻多眼曼陀羅章魚在鏡頭拉遠時旋轉並噴灑墨水。
-
-#### 📝 提示詞
-
-```
-Octo Pi 👁️ 
-
-場景鏡頭拉遠，顯現出一隻擁有 11 隻眼睛的曼陀羅章魚，牠逆時針旋轉，並從觸手的吸盤中噴出酒紅色與黑色的墨水 🫟。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079320309442695168/img/LQB1lzQZcsGx7TXS.jpg" width="600" alt="曼陀羅章魚墨水噴濺">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7630)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2079320346281255384) | **發布時間:** Jul 20, 2026
-
----
-### 外星人鞠躬與太空船動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影感十足的影片提示詞，描述一名身穿紅色套裝的人類向外星人鞠躬，背景中太空船穿梭而過，外星人則在鼓掌。
-
-#### 📝 提示詞
-
-```
-現在讓那位身穿紅色套裝的人類看起來像是在向外星人鞠躬。背景中的太空船正穿梭而過，而外星人們正在鼓掌。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079294854610165760/img/cGrQU8eVfSnd4vJW.jpg" width="600" alt="外星人鞠躬與太空船動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7639)**
-
-**作者:** [Mr. Savistarz](https://x.com/AryehKatz) | **來源:** [Link](https://x.com/AryehKatz/status/2079294886356889866) | **發布時間:** Jul 20, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2356,6 +2347,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-03T07:56:52.360Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-03T11:49:38.099Z</sub>
 
 </div>

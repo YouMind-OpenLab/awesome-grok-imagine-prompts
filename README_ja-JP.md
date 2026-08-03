@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2301** |
+| 📝 プロンプト総数 | **2319** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-08-03** |
 
@@ -189,19 +189,305 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
-### Underwater Swimming Interaction Video Prompt
+### Red Echo Los Angeles Rooftop
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Grok Imagine that generates a scene of swimming with a friendly character underwater.
+> A cinematic prompt describing a stand-off on a downtown LA rooftop featuring a glowing blue knife and a retreating swarm.
 
 #### 📝 プロンプト
 
 ```
-Swim with her underwater; she knows you're there and is happy to take you along. Swim with her underwater, she knows you're there and is willing to take you along.
+Red Echo
+You stand on the rooftop in downtown Los Angeles, the glowing blue knife still warm in your palm. The Red swarm is retreating into the Pacific like a wounded animal.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083816384979722240/img/2Y--4wmbalFpQMGh.jpg" width="600" alt="Underwater Swimming Interaction Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084156108289998848/img/QI05m6cN7qH7KSDz.jpg" width="600" alt="Red Echo Los Angeles Rooftop">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8405)**
+
+**作者:** [Bentley Reed](https://x.com/BReed2069) | **ソース:** [Link](https://x.com/BReed2069/status/2084156121472725348) | **公開日:** Aug 3, 2026
+
+---
+### Heart Shaped Water Ripples
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A slow-motion video prompt showing a single water drip creating heart-shaped ripples in a cup.
+
+#### 📝 プロンプト
+
+```
+One singular drip of water falls from the faucet landing in the cup of water creating heart shaped ripples heart shaped ripples
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084152112976633856/img/T07fPhIJn779BYpt.jpg" width="600" alt="Heart Shaped Water Ripples">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8399)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2084152135315571067) | **公開日:** Aug 3, 2026
+
+---
+### Halo Ring Space Orbit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex celestial scene featuring a Halo ring and planets orbiting a sun that is itself orbiting a black hole.
+
+#### 📝 プロンプト
+
+```
+Halo ring orbiting a sun flying through space with planets orbiting the sun that is orbiting around a central black hole
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084143095403212800/img/OmY6bl5ytnMarf-K.jpg" width="600" alt="Halo Ring Space Orbit">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8403)**
+
+**作者:** [ozin.owl](https://x.com/ozinowl) | **ソース:** [Link](https://x.com/ozinowl/status/2084143144220672104) | **公開日:** Aug 3, 2026
+
+---
+### Black and Gold Bearded Dragon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt showing a shiny black and gold bearded dragon flying and yawning.
+
+#### 📝 プロンプト
+
+```
+Born This merger brings forth a new creation sparked by the former’s bond. A shiny black with gold accents flying bearded dragon 🐉 forms. Its forked tongue uncurls as it yawns.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084131055775170560/img/jW_bPuMBvhYl-mQb.jpg" width="600" alt="Black and Gold Bearded Dragon">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8408)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2084131117133611074) | **公開日:** Aug 3, 2026
+
+---
+### Astronaut on Ice Moon with Shooting Star
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine featuring an astronaut on a frozen lunar landscape beneath a massive ringed planet, concluding with a shooting star effect.
+
+#### 📝 プロンプト
+
+```
+Astronaut on an ice moon under a giant ringed world. And at the end… a shooting star.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084123670016884736/img/ju4LsPZkvGBRKuO8.jpg" width="600" alt="Astronaut on Ice Moon with Shooting Star">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8413)**
+
+**作者:** [𝓛𝓪𝓭𝔂𝓓𝓑𝓾𝓰0o ♕](https://x.com/DBug0o) | **ソース:** [Link](https://x.com/DBug0o/status/2084123919842181313) | **公開日:** Aug 3, 2026
+
+---
+### Dancing Rock Creature Aliens
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fun video featuring the rock creature aliens from Project Hail Mary dancing to a modern techno beat.
+
+#### 📝 プロンプト
+
+```
+Give me the rock creature aliens from project Hail Mary dancing to a techno beat
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084102331147186176/img/PWtbafka4cJM_Tdv.jpg" width="600" alt="Dancing Rock Creature Aliens">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8407)**
+
+**作者:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **ソース:** [Link](https://x.com/DrJGiddensRN/status/2084102356937932909) | **公開日:** Aug 3, 2026
+
+---
+### Namibia Desert Lily Bloom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic video prompt depicting millions of pink and white lilies blooming in the Namibian desert at sunset after rain.
+
+#### 📝 プロンプト
+
+```
+In Namibia’s hush, where the desert drinks rain, millions of lilies rise from the dust. Pink and white, they drink the last light, their faces turned to the sky they once knew only as a star. For five brief days they bloom, a quiet riot against the dry. And when the sun finally touches them, they answer with fire.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084100239389024256/img/dozbwj9g3xZEnhS0.jpg" width="600" alt="Namibia Desert Lily Bloom">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8397)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2084100344049537284) | **公開日:** Aug 3, 2026
+
+---
+### Soylent Green Nature Memory
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A somber video prompt of a person on their deathbed watching films of lost nature, inspired by Soylent Green.
+
+#### 📝 プロンプト
+
+```
+A person dying on their deathbed, watching a beautiful video of magnificent landscapes that once existed in the past but are now gone forever, evoking the scene from Soylent Green where the beauty of lost nature is viewed through film
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084092584394190848/img/KNTxgxHBgCLV-7Qh.jpg" width="600" alt="Soylent Green Nature Memory">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8398)**
+
+**作者:** [Marie](https://x.com/Marie8508319540) | **ソース:** [Link](https://x.com/Marie8508319540/status/2084092604761739513) | **公開日:** Aug 3, 2026
+
+---
+### Sketch to Life Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for animating a green-eyed sketch into a living woman who speaks and sheds a tear.
+
+#### 📝 プロンプト
+
+```
+My eyes are green make the sketch turn to life moving squinting with eye movement and tear drop begin to fall as an angelic  woman’s voice begins to say “Why are you so scared of me?...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084049651422937088/img/wsl5jw765SYVxngk.jpg" width="600" alt="Sketch to Life Animation">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8401)**
+
+**作者:** [Robin Vargas](https://x.com/ladiamondbaby) | **ソース:** [Link](https://x.com/ladiamondbaby/status/2084049666128203959) | **公開日:** Aug 2, 2026
+
+---
+### Squirrel Puddle Tackle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic video prompt featuring a squirrel jumping from a bench to tackle another squirrel playing in a rain puddle.
+
+#### 📝 プロンプト
+
+```
+Gotcha Squirrel 🐿️ gets a running start and jumps from the top of a potting bench onto a friend who is playing in a puddle that is currently being filled by rain off of the drip edge of the bench. He is attempting to sneakily tackle his best mate.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084002135817986048/img/hdz-EEmuuXT2t52W.jpg" width="600" alt="Squirrel Puddle Tackle">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8409)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2084002199491801240) | **公開日:** Aug 2, 2026
+
+---
+### Pastel Goth Woman Haunted Mansion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt generating a cinematic scene of a pastel goth woman with mint-green hair standing in a haunted mansion with ghosts.
+
+#### 📝 プロンプト
+
+```
+A pastel goth woman with short mint-green hair wearing a velvet choker, standing with a tabby cat at a haunted mansion, ghostly figures glowing softly in the moonlit air.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083963882423324673/img/O3QUVWAkGG1Fm3Gr.jpg" width="600" alt="Pastel Goth Woman Haunted Mansion">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8414)**
+
+**作者:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **ソース:** [Link](https://x.com/JinxLovesCats/status/2083963914107121826) | **公開日:** Aug 2, 2026
+
+---
+### Poppy Plant Spaceport Morph
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A transformation video prompt turning a poppy plant into a purple violet spaceport structure.
+
+#### 📝 プロンプト
+
+```
+top of the flower expand purple violet colour and make the tree in image of poppy plant flower without the petals i need to look like spaceport
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083927241814126592/img/pRdnirBVpIesiPTJ.jpg" width="600" alt="Poppy Plant Spaceport Morph">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8411)**
+
+**作者:** [KENDREIK Artist](https://x.com/kendreik) | **ソース:** [Link](https://x.com/kendreik/status/2083927255609180410) | **公開日:** Aug 2, 2026
+
+---
+### Dragon of Entropy and Fire
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a dragon carrying sky ice while flying through smoke and fire.
+
+#### 📝 プロンプト
+
+```
+Flames, and flowing Entropy and in the midst of it—the dragon appears holding a glowing chunk of the sky ice, clutched in its talons, and it flies through the entropic cloud of fire and smoke breathing a column of fire out, the moment resonates. As y...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083926074531131392/img/Wp19ti_7v0tsK_qC.jpg" width="600" alt="Dragon of Entropy and Fire">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8406)**
+
+**作者:** [🔥🐲τηε DξρΙθΓαβΙξ DΓΑΩθη🔥🐉](https://x.com/thedepldrgn) | **ソース:** [Link](https://x.com/thedepldrgn/status/2083926195163607207) | **公開日:** Aug 2, 2026
+
+---
+### Archeologist Exploration Reveal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A slow camera push-in video prompt showing a female explorer clearing moss from a carved stone wall.
+
+#### 📝 プロンプト
+
+```
+Slow camera push-in from a slightly low angle as the female explorer carefully clears soft moss and earth from the carved stone wall with gentle deliberate movements, dirt and dust particles falling away to slowly reveal more of the conceal...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083909841475559424/img/jwGlkoh_zcbaNobo.jpg" width="600" alt="Archeologist Exploration Reveal">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8402)**
+
+**作者:** [Jayne](https://x.com/JayneJaxon8) | **ソース:** [Link](https://x.com/JayneJaxon8/status/2083909914045432128) | **公開日:** Aug 2, 2026
+
+---
+### Prison Horror Exorcism
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dark horror video prompt featuring teenagers exorcising a cannibalistic officer in a deserted prison.
+
+#### 📝 プロンプト
+
+```
+A group of teenagers are drawn into a deserted prison by nightmarish visions, where they try to exorcise a cannibalistic cavalry officer.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083855863132164096/img/E6cTPZx0TdGrRzu8.jpg" width="600" alt="Prison Horror Exorcism">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8410)**
+
+**作者:** [David Williams](https://x.com/DavidWilliamsYN) | **ソース:** [Link](https://x.com/DavidWilliamsYN/status/2083855894685823030) | **公開日:** Aug 2, 2026
+
+---
+### Underwater Swimming Interaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine that creates an immersive underwater scene where a character acknowledges the viewer and swims along.
+
+#### 📝 プロンプト
+
+```
+Swim with her underwater; she knows you're there and is happy to take you along. Swim with her underwater, she knows you are there and is happy to take you along.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083816384979722240/img/2Y--4wmbalFpQMGh.jpg" width="600" alt="Underwater Swimming Interaction">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8327)**
 
@@ -227,11 +513,30 @@ Primarily I’m seeking a more Athletic build with a body builder tan along with
 **作者:** [Steve Maynard](https://x.com/Sbm3Steve) | **ソース:** [Link](https://x.com/Sbm3Steve/status/2083758331160576379) | **公開日:** Aug 2, 2026
 
 ---
-### Steampunk Scientist Brain Interface
+### Cosmic Guitar Morph
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a video of a steampunk-themed woman discussing brain-computer interfaces, featuring specific attire like a monocle and short skirt.
+> A video morphing prompt transforming a subject into a cosmic-themed Gibson ES-335 guitar.
+
+#### 📝 プロンプト
+
+```
+Have the fun morph into a Gibson es-335 guitar with a cool cosmic themed paint job
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083754711358828544/img/AUaSj8qkbaCAb5BV.jpg" width="600" alt="Cosmic Guitar Morph">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8400)**
+
+**作者:** [Mike Hellings](https://x.com/mikehellings) | **ソース:** [Link](https://x.com/mikehellings/status/2083754739632603474) | **公開日:** Aug 2, 2026
+
+---
+### Steampunk Woman Discussing BCI
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video of a steampunk-styled woman wearing a monocle while discussing brain-computer interface discoveries for medical treatment.
 
 #### 📝 プロンプト
 
@@ -239,11 +544,30 @@ Primarily I’m seeking a more Athletic build with a body builder tan along with
 Create a video of a steampunk woman in a short skirt and knee highs wearing a monocle talking about her latest discovery in brain computer interfaces for treatment resistant depression.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083712641189466112/img/P-ulVrcKW_4FA98m.jpg" width="600" alt="Steampunk Scientist Brain Interface">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083712641189466112/img/P-ulVrcKW_4FA98m.jpg" width="600" alt="Steampunk Woman Discussing BCI">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8321)**
 
 **作者:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **ソース:** [Link](https://x.com/DrJGiddensRN/status/2083712659195593094) | **公開日:** Aug 2, 2026
+
+---
+### Space Elevator Psychedelic Cells
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An immersive interior view of space elevator cells featuring multi-colored swirling lights and iridescent patterns.
+
+#### 📝 プロンプト
+
+```
+Immersive interior of the space elevator's graphene hydrogen-filled cells, a wavy multi-level pathway spiraling upward through a psychedelic dreamscape of multi-colors dominated by rich purple and violet swirling lights, iridescent patterns and glowi...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083671273515761664/img/PrVFknZ_2MER0XlB.jpg" width="600" alt="Space Elevator Psychedelic Cells">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8404)**
+
+**作者:** [KENDREIK Artist](https://x.com/kendreik) | **ソース:** [Link](https://x.com/kendreik/status/2083671287277187094) | **公開日:** Aug 1, 2026
 
 ---
 ### Ocean Dragon and Wildlife
@@ -1918,339 +2242,6 @@ Victoria's Secret のランウェイモデルのような音楽を加え、着�
 **作者:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **ソース:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **公開日:** Jul 24, 2026
 
 ---
-### 銀のレースを纏った静かな女王
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 銀のレースを纏った女王が静寂な庭園に佇む、穏やかなシーンを生成するための詩的なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-銀のレースと柔らかな影に包まれた、静かな女王。優しげな手元、遠くを見つめる瞳、そして静寂に満ちた庭園。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080590150296616960/img/PAfQO680QIyhr4gq.jpg" width="600" alt="銀のレースを纏った静かな女王">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7948)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2080590202167599223) | **公開日:** Jul 24, 2026
-
----
-### 病院での出産：一人称視点
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 病院で母親が生まれたばかりの赤ちゃんを抱く感動的な瞬間を捉えた、シネマティックな一人称視点の動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-薄暗い病室で出産する女性の一人称視点。お腹は小さく、お腹を覆う病院着を着用している。医師が、ピンクの Carhartt のニット帽をかぶり、ブランケットに包まれた女の赤ちゃんを母親の胸元に乗せる。赤ちゃんは母親の方を向いている……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="病院での出産：一人称視点">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7848)**
-
-**作者:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **ソース:** [Link](https://x.com/condnuit/status/2080528603029102790) | **公開日:** Jul 24, 2026
-
----
-### テラコッタ・ヴェール・ダンサー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 温かみのある黄金色の光の中、カラフルなモザイクの壁を背景にオレンジ色のシルクをなびかせて踊るダンサーのためのビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-彼女は温かみのある黄金色の光の中で踊り、オレンジ色のシルクがカラフルなモザイクの壁を背景に優雅になびいている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080380918401835009/img/jpLJqErXUFLPbras.jpg" width="600" alt="テラコッタ・ヴェール・ダンサー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7793)**
-
-**作者:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **ソース:** [Link](https://x.com/artwithahat0/status/2080381005395878356) | **公開日:** Jul 23, 2026
-
----
-### 月明かりの庭に佇む謎めいた擬人化猫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 向けの精細なシネマティックプロンプト。ノワール調の月明かりの庭で、影のようなローブを纏った気品ある擬人化猫を描写します。
-
-#### 📝 プロンプト
-
-```
-月明かりに照らされた枯れ桜の庭で、王冠を被り、影のような暗いローブを纏った謎めいた擬人化猫が静かに座っている。ドラマチックなノワール調のライティングが、深いコントラストと情緒的な影を際立たせている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080305619941355520/img/Ct1mEMjGL47q8Oh_.jpg" width="600" alt="月明かりの庭に佇む謎めいた擬人化猫">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7792)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **公開日:** Jul 23, 2026
-
----
-### ジャスミンの花が降り注ぐシュールなビデオ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> コーラルカラーのドレスを着た女性が、巨大なジャスミンの花のシャワーに包まれる、映画のようなモーションエフェクトを駆使したファンタジービデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-ハイパーリアリズム、白人の西洋人、自然なミディアムブロンドの豊かなカールショートヘア、日焼けした肌、短いコーラルドレスを着用、長く美しい脚、明るくエネルギッシュなポーズ、超巨大なジャスミンの花のシャワー、解放感、朝露と夜明け、シュール、ファンタジーフレア、動きとボケ味を活かしたショット
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="ジャスミンの花が降り注ぐシュールなビデオ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7756)**
-
-**作者:** [Carolina Delgado](https://x.com/carolletta) | **ソース:** [Link](https://x.com/carolletta/status/2080195996315738403) | **公開日:** Jul 23, 2026
-
----
-### ガンダルフ vs バルログの壮大なバトル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 火山洞窟で繰り広げられる魔術師と溶岩のドラゴンの壮絶な戦いを描いた、15 秒間のプロ仕様シネマティック動画用プロンプト。
-
-#### 📝 プロンプト
-
-```
-溶岩の川と舞い散る火の粉に照らされた広大な火山洞窟で繰り広げられる、15 秒間のドラマチックなファンタジー・バトル。まずは、ひび割れた岩棚に立つ白髪の強力な魔術師戦士をローアングルで捉える。長くたなびく灰色のローブがドラマチックに揺れ、彼が 2 本の光り輝く剣を高く掲げる。片方の剣は眩い青白色の光とレンズフレアを放ち、もう片方は猛烈な黄金のエネルギービームを放つ。その周囲では、巨大なオレンジ色のエネルギーの輪が魔法の盾のように渦を巻き、広がっていく。
-
-対峙するのは、溶岩の炎と黒曜石の鱗で構成された巨大な火炎ドラゴンの獣。翼を大きく広げ、炉のように燃える目で咆哮し、洞窟全体を照らす激しいオレンジ色の炎を吐き出す。
-
-ダイナミックなカメラワーク：魔術師の決意に満ちた表情へゆっくりとドラマチックにズームインし、獣が飛びかかる瞬間に両者の周囲を素早く旋回する。魔術師は岩棚から優雅に飛び降り、剣を力強く振り抜く。その軌跡には鮮やかなエネルギーの尾が残り、ドラゴンの炎の皮膚に命中すると火花が爆発する。炎と光が激しくぶつかり合い、火の粉と溶岩の破片が飛び散る。ドラゴンは長い尾を振り回しながら顎で噛みつこうとし、魔術師はアクロバティックな回避と反撃を繰り返す。
-
-重厚な響きと鋭い剣戟の音が混ざり合う壮大なオーケストラ音楽が盛り上がる。最後は、魔術師が青白い光と黄金の光を放ちながら両剣を獣の胸に突き刺す英雄的なワイドショットで締めくくる。ドラゴンの怒りの咆哮とともに、周囲で炎が激しく噴き上がる。超高精細、シネマティックなライティング、激しい動き、壮大なスケール、4K 画質、ドラマチックなスローモーションと高速アクションの融合。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080084050291642368/img/8eUFvxZ_lMf6KfF7.jpg" width="600" alt="ガンダルフ vs バルログの壮大なバトル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7794)**
-
-**作者:** [Lord Of The Groks](https://x.com/LordOfTheGroks) | **ソース:** [Link](https://x.com/LordOfTheGroks/status/2080084115844735126) | **公開日:** Jul 23, 2026
-
----
-### アニメーションによるドラゴンの戦闘シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine で映画のようなライティングと爆発エフェクトを伴う、激しいドラゴンの戦闘シーンを生成するためのハイアクションなビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-アニメーション調のドラゴンの戦闘シーン：鋭い鱗と琥珀色に輝く目を持つ獰猛な赤いドラゴンが咆哮し、視聴者に向かってアグレッシブに飛びながら強力な火炎を放つ。ダイナミックなカメラアングル、爆発する炎のエフェクト、ドラマチックなライティング
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080006615110168576/img/OZish_Gktox2ogxM.jpg" width="600" alt="アニメーションによるドラゴンの戦闘シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7754)**
-
-**作者:** [Faizal](https://x.com/zalkad) | **ソース:** [Link](https://x.com/zalkad/status/2080006653068616110) | **公開日:** Jul 22, 2026
-
----
-### 燃え盛る村に立つ戦士の女性のシネマティックなポートレート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 煙が立ち込める中世の燃える村を背景に、ドラゴンが潜む場所でプレートアーマーを纏った金髪の戦士を描く、リアルでシネマティックなポートレート生成用の詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-超リアルなシネマティック・ポートレート。色白で鋭い青い瞳を持ち、右肩に長く太いプラチナブロンドの三つ編みを垂らした女性戦士。精巧なエンボス模様と鎖帷子が施された、非常に詳細な銀灰色の重厚な中世プレートアーマーを着用。右手に黒い柄の大きな装飾ロングソードを携えている。燃え盛る建物が並ぶ中世の村の通りに立ち、背景の煙の中にはぼんやりと大きなドラゴンの姿が見える。非常に落ち着いた彩度の低いカラーパレット、彩度を抑えた色調、荒々しくシネマティックな雰囲気。ドラマチックでありながら控えめな照明、柔らかな炎の輝き。わずかに上を見つめる鋭い眼差し、真剣で高潔な表情。毛穴まで見える超詳細な肌の質感、鎧のリアルな金属反射と摩耗、塵と煤の粒子。8k RAW 写真、フォトリアリスティック。
-```
-
-<img src="https://cms-assets.youmind.com/media/1784794869283_q4h6ki_HN2Q8NdXIAAF7kf.jpg" width="600" alt="燃え盛る村に立つ戦士の女性のシネマティックなポートレート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7757)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **公開日:** Jul 22, 2026
-
----
-### 北欧風 8 ビットピクセルアートスタイル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 癒やしの 8 ビットピクセルアートシーンと、幻想的な北欧のインストゥルメンタル音楽を生成するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-可愛らしくリラックスできる 8 ビットピクセルアート。ボーカルなしの穏やかで幻想的な北欧のインストゥルメンタル音楽。混沌とした深い闇の夜を抜け、長い旅の果てに、本来あるべき自分の居場所に帰ってきたかのような情景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="北欧風 8 ビットピクセルアートスタイル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7758)**
-
-**作者:** [Kiki 🇺🇸](https://x.com/kikisknees) | **ソース:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **公開日:** Jul 22, 2026
-
----
-### 8 ビットピクセル・フェアリー・アニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 黄昏の森に佇む銀髪の妖精をテーマにした、シームレスなループ再生が可能な 8 ビットピクセルアート動画を作成するための完全なアニメーションプロンプトです。
-
-#### 📝 プロンプト
-
-```
-8 ビットピクセルアート、長い銀髪と花の冠をつけた夢のように幻想的な妖精の少女、透け感のあるレースのドレスを着用、黄昏時の光る苔むした森に裸足で立っている、ホタルと舞い散る花びら、柔らかな蔦が絡まる古代樹、パステルピンク・ラベンダー・グリーンの色調、タンブラーコア風の夢幻的なファンタジー美学、レトロな 8 ビットピクセルスタイル、柔らかな輝き、限定されたカラーパレット。ループ再生可能なアンビエント 8 ビットピクセルアート動画、繊細な動き、シームレスな夢のループ、タンブラー風ファンタジー美学、レトロピクセルスタイル
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8 ビットピクセル・フェアリー・アニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7697)**
-
-**作者:** [paranoidream ♡︎](https://x.com/paranoidream) | **ソース:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **公開日:** Jul 22, 2026
-
----
-### 顔の断面の fMRI スキャン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 人間の顔が割れて、内部の fMRI 脳スキャン映像が動いている様子を視覚化するシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-顔を半分に切り開き、脳の fMRI スキャンを行っているかのように見せる
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079724515811074048/img/ETlS_bwjcDqsxOnA.jpg" width="600" alt="顔の断面の fMRI スキャン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7755)**
-
-**作者:** [Doc Toadlips](https://x.com/DToadlips) | **ソース:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **公開日:** Jul 22, 2026
-
----
-### 超写実的なゴシック様式の母子のマクロポートレート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ゴシック調の冠を被った女性が、おくるみに包まれた赤ちゃんを優しく抱きかかえる様子を捉えた、映画のように感情豊かなマクロポートレート用プロンプト。フォトリアルな肌の質感と落ち着いた色調に焦点を当てています。
-
-#### 📝 プロンプト
-
-```
-青白い肌、そばかす、長く流れるような白い髪を持つ美しい女性の超写実的なマクロポートレート。繊細なディテール、控えめなドレープ、レースのアクセントがあしらわれた、エレガントで流れるような黒いロングドレスを着用。頭には装飾的なダークなスパイク付きゴシッククラウン。彼女は、柔らかく上品な白い布のおくるみに包まれた愛らしい赤ちゃんを両手と腕で優しく抱き寄せ、胸元で慈しむように抱いている。赤ちゃんはふっくらとしていて愛らしく、柔らかく繊細な肌をしており、布にしっかりと包まれて心地よさそうにしている。彼女のポーズは保護的で愛情に満ちている。
-
-非常に落ち着いた低彩度のカラーパレット、ほぼ彩度のない色調、繊細でクールなアンダートーン、柔らかな自然の影、毛穴まで見えるリアルな肌の質感、映画のようでいて抑制されたライティング、極めて詳細、シャープなマクロフォーカス、超写実的、フォトリアリズム。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="超写実的なゴシック様式の母子のマクロポートレート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7795)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2079626150091932125) | **公開日:** Jul 21, 2026
-
----
-### トロイア戦争：アキレウスのシネマティック動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> アキレウスが登場するトロイア戦争シーンのためのプロフェッショナルなシネマティック動画プロンプト。カメラワーク、サウンドデザイン、照明の指示を含みます。
-
-#### 📝 プロンプト
-
-```
-夜明けの煙るトロイアの戦場を、輝く青銅の鎧を纏って駆け抜けるアキレウスのドラマチックなワイドショット。剣を掲げ、激しい雄叫びを上げる表情。背景には倒れた戦士たちと燃え盛る矢。そびえ立つ木馬のシルエットが壮大なスケールを強調する。塵の雲と血の霧を突き抜けるシネマティックなボリュメトリック・ゴッドレイ。金属の反射や衣服の破れまで超高精細に描写。Greg Rutkowski のファンタジーなディテール、Villeneuve の壮大な構図、Deakins の照明技術を融合させた 8K IMAX クオリティの傑作。夜明けの混沌とした戦場を、力強い剣の振り下ろしと雄叫びを上げながら突進するアキレウス。ワイドショットから英雄的なクローズアップへと押し寄せるスローでドラマチックなトラッキングショット。飛来する矢や舞い上がる塵にはモーションパララックスを適用。鎧の衝突音や地面への衝撃音の物理演算も完璧。戦士の深みのある声による「トロイアのために！」というセリフと、臨場感あふれる戦場の SFX（金属のぶつかり合う音、鬨の声、炎の音）、そして高揚感のあるオーケストラ楽曲。黄金の夜明けのボリュメトリック・ゴッドレイとシネマティックなリムライト。Rutkowski / Villeneuve / Deakins のスタイルを融合。24fps で 15 秒間途切れることのない完璧なモーション、バイラル動画に最適な超高精細 8K 傑作。
-```
-
-<img src="https://cms-assets.youmind.com/media/1784621994095_n65q56_HNu02XKXUAAkc2V.jpg" width="600" alt="トロイア戦争：アキレウスのシネマティック動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7646)**
-
-**作者:** [SophieZX](https://x.com/Z_XSophie) | **ソース:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **公開日:** Jul 21, 2026
-
----
-### 正確なキャラクター回転シーケンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャラクターが特定の回転と一時停止を行うための、非常に詳細なモーションコントロールプロンプトです。
-
-#### 📝 プロンプト
-
-```
-キャラクターがその場で 40 度回転し、0.5 秒間正確に一時停止します。自然で落ち着いた姿勢を保ったまま一時停止を維持してください。次に、同じ方向に 40 度回転を続け、0.5 秒間一時停止します。その後、カメラに向かって回転し戻り...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079420629032247296/img/IAU_81whWcdJEsDL.jpg" width="600" alt="正確なキャラクター回転シーケンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7696)**
-
-**作者:** [Claudia Jean](https://x.com/ClaudiaJeanxpe) | **ソース:** [Link](https://x.com/ClaudiaJeanxpe/status/2079421393268093241) | **公開日:** Jul 21, 2026
-
----
-### 東アジア系ファッションポートレートアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 長い黒髪でオーバーサイズの青い T シャツを着た、東アジア系の若い女性のフォトリアルなファッションポートレートを作成するための高精細ビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-長くストレートな漆黒の髪を持つ、美しい東アジア系の若い女性のフォトリアルなファッションポートレート。黒い椅子にカジュアルに座っている。黒のオーバルサングラスをかけ、控えめなメイクに艶やかなピンクレッドのリップ、そして「Ani」という名前の繊細なシルバーネックレスを着用。胸元に黒い文字がプリントされたオーバーサイズのストレートブルーの T シャツ、黒のバイカーショーツ、大きなリボン結びの鮮やかな青い靴紐が特徴的な白黒のスニーカーを合わせている。右手はこめかみ付近の髪に優しく触れ、左手は黒いショルダーバッグのストラップを握っている。バッグには、青い服を着たキュートな白いテディベアのキーホルダーと、大きなふわふわの青いポンポンが付いている。背景は質感のある青い壁で、大きく太い黒の筆記体で「Comeback」と書かれている。自然光によるライティング、柔らかな影、リアルな肌の質感、シャープなフォーカス、高精細、Instagram のファッション写真スタイル、少し低いアングルからの全身ショット、自信に満ちたポーズ。
-```
-
-<img src="https://cms-assets.youmind.com/media/1784621982635_sglbmo_HNpWATlbYAAFwZw.jpg" width="600" alt="東アジア系ファッションポートレートアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7642)**
-
-**作者:** [Feyber | AI Creator](https://x.com/woleswoosh) | **ソース:** [Link](https://x.com/woleswoosh/status/2079325481053356127) | **公開日:** Jul 20, 2026
-
----
-### マンダラ・オクトパスのインクスプレー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 多眼のマンダラ・オクトパスが渦を巻き、インクを噴射する様子をズームアウトで捉えたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-オクト・パイ 👁️ 
-
-11 個の目を持つマンダラ・オクトパスの顔からズームアウトするシーン。オクトパスは反時計回りに渦を巻き、触手の吸盤からバーガンディと黒のインク 🫟 を噴射する。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079320309442695168/img/LQB1lzQZcsGx7TXS.jpg" width="600" alt="マンダラ・オクトパスのインクスプレー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7630)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2079320346281255384) | **公開日:** Jul 20, 2026
-
----
-### お辞儀をする宇宙人と宇宙船のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 赤いスーツを着た人間が宇宙人にお辞儀をし、背景を宇宙船が横切り、宇宙人たちが拍手をしている様子を描いたシネマティックなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-赤いスーツを着た人間が宇宙人の前でお辞儀をしているようにしてください。背景では宇宙船が横切り、宇宙人たちが拍手をしています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079294854610165760/img/cGrQU8eVfSnd4vJW.jpg" width="600" alt="お辞儀をする宇宙人と宇宙船のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7639)**
-
-**作者:** [Mr. Savistarz](https://x.com/AryehKatz) | **ソース:** [Link](https://x.com/AryehKatz/status/2079294886356889866) | **公開日:** Jul 20, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2312,6 +2303,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-03T07:56:53.235Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-03T11:49:38.952Z</sub>
 
 </div>

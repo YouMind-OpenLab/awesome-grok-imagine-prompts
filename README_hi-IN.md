@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2301** |
+| 📝 Total Prompts | **2319** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-03** |
 
@@ -189,19 +189,305 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
-### Underwater Swimming Interaction Video Prompt
+### Red Echo Los Angeles Rooftop
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Grok Imagine that generates a scene of swimming with a friendly character underwater.
+> A cinematic prompt describing a stand-off on a downtown LA rooftop featuring a glowing blue knife and a retreating swarm.
 
 #### 📝 Prompt
 
 ```
-Swim with her underwater; she knows you're there and is happy to take you along. Swim with her underwater, she knows you're there and is willing to take you along.
+Red Echo
+You stand on the rooftop in downtown Los Angeles, the glowing blue knife still warm in your palm. The Red swarm is retreating into the Pacific like a wounded animal.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083816384979722240/img/2Y--4wmbalFpQMGh.jpg" width="600" alt="Underwater Swimming Interaction Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084156108289998848/img/QI05m6cN7qH7KSDz.jpg" width="600" alt="Red Echo Los Angeles Rooftop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8405)**
+
+**Author:** [Bentley Reed](https://x.com/BReed2069) | **Source:** [Link](https://x.com/BReed2069/status/2084156121472725348) | **Published:** Aug 3, 2026
+
+---
+### Heart Shaped Water Ripples
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A slow-motion video prompt showing a single water drip creating heart-shaped ripples in a cup.
+
+#### 📝 Prompt
+
+```
+One singular drip of water falls from the faucet landing in the cup of water creating heart shaped ripples heart shaped ripples
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084152112976633856/img/T07fPhIJn779BYpt.jpg" width="600" alt="Heart Shaped Water Ripples">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8399)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2084152135315571067) | **Published:** Aug 3, 2026
+
+---
+### Halo Ring Space Orbit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex celestial scene featuring a Halo ring and planets orbiting a sun that is itself orbiting a black hole.
+
+#### 📝 Prompt
+
+```
+Halo ring orbiting a sun flying through space with planets orbiting the sun that is orbiting around a central black hole
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084143095403212800/img/OmY6bl5ytnMarf-K.jpg" width="600" alt="Halo Ring Space Orbit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8403)**
+
+**Author:** [ozin.owl](https://x.com/ozinowl) | **Source:** [Link](https://x.com/ozinowl/status/2084143144220672104) | **Published:** Aug 3, 2026
+
+---
+### Black and Gold Bearded Dragon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt showing a shiny black and gold bearded dragon flying and yawning.
+
+#### 📝 Prompt
+
+```
+Born This merger brings forth a new creation sparked by the former’s bond. A shiny black with gold accents flying bearded dragon 🐉 forms. Its forked tongue uncurls as it yawns.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084131055775170560/img/jW_bPuMBvhYl-mQb.jpg" width="600" alt="Black and Gold Bearded Dragon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8408)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2084131117133611074) | **Published:** Aug 3, 2026
+
+---
+### Astronaut on Ice Moon with Shooting Star
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine featuring an astronaut on a frozen lunar landscape beneath a massive ringed planet, concluding with a shooting star effect.
+
+#### 📝 Prompt
+
+```
+Astronaut on an ice moon under a giant ringed world. And at the end… a shooting star.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084123670016884736/img/ju4LsPZkvGBRKuO8.jpg" width="600" alt="Astronaut on Ice Moon with Shooting Star">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8413)**
+
+**Author:** [𝓛𝓪𝓭𝔂𝓓𝓑𝓾𝓰0o ♕](https://x.com/DBug0o) | **Source:** [Link](https://x.com/DBug0o/status/2084123919842181313) | **Published:** Aug 3, 2026
+
+---
+### Dancing Rock Creature Aliens
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fun video featuring the rock creature aliens from Project Hail Mary dancing to a modern techno beat.
+
+#### 📝 Prompt
+
+```
+Give me the rock creature aliens from project Hail Mary dancing to a techno beat
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084102331147186176/img/PWtbafka4cJM_Tdv.jpg" width="600" alt="Dancing Rock Creature Aliens">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8407)**
+
+**Author:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **Source:** [Link](https://x.com/DrJGiddensRN/status/2084102356937932909) | **Published:** Aug 3, 2026
+
+---
+### Namibia Desert Lily Bloom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic video prompt depicting millions of pink and white lilies blooming in the Namibian desert at sunset after rain.
+
+#### 📝 Prompt
+
+```
+In Namibia’s hush, where the desert drinks rain, millions of lilies rise from the dust. Pink and white, they drink the last light, their faces turned to the sky they once knew only as a star. For five brief days they bloom, a quiet riot against the dry. And when the sun finally touches them, they answer with fire.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084100239389024256/img/dozbwj9g3xZEnhS0.jpg" width="600" alt="Namibia Desert Lily Bloom">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8397)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2084100344049537284) | **Published:** Aug 3, 2026
+
+---
+### Soylent Green Nature Memory
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A somber video prompt of a person on their deathbed watching films of lost nature, inspired by Soylent Green.
+
+#### 📝 Prompt
+
+```
+A person dying on their deathbed, watching a beautiful video of magnificent landscapes that once existed in the past but are now gone forever, evoking the scene from Soylent Green where the beauty of lost nature is viewed through film
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084092584394190848/img/KNTxgxHBgCLV-7Qh.jpg" width="600" alt="Soylent Green Nature Memory">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8398)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2084092604761739513) | **Published:** Aug 3, 2026
+
+---
+### Sketch to Life Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for animating a green-eyed sketch into a living woman who speaks and sheds a tear.
+
+#### 📝 Prompt
+
+```
+My eyes are green make the sketch turn to life moving squinting with eye movement and tear drop begin to fall as an angelic  woman’s voice begins to say “Why are you so scared of me?...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084049651422937088/img/wsl5jw765SYVxngk.jpg" width="600" alt="Sketch to Life Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8401)**
+
+**Author:** [Robin Vargas](https://x.com/ladiamondbaby) | **Source:** [Link](https://x.com/ladiamondbaby/status/2084049666128203959) | **Published:** Aug 2, 2026
+
+---
+### Squirrel Puddle Tackle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic video prompt featuring a squirrel jumping from a bench to tackle another squirrel playing in a rain puddle.
+
+#### 📝 Prompt
+
+```
+Gotcha Squirrel 🐿️ gets a running start and jumps from the top of a potting bench onto a friend who is playing in a puddle that is currently being filled by rain off of the drip edge of the bench. He is attempting to sneakily tackle his best mate.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084002135817986048/img/hdz-EEmuuXT2t52W.jpg" width="600" alt="Squirrel Puddle Tackle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8409)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2084002199491801240) | **Published:** Aug 2, 2026
+
+---
+### Pastel Goth Woman Haunted Mansion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt generating a cinematic scene of a pastel goth woman with mint-green hair standing in a haunted mansion with ghosts.
+
+#### 📝 Prompt
+
+```
+A pastel goth woman with short mint-green hair wearing a velvet choker, standing with a tabby cat at a haunted mansion, ghostly figures glowing softly in the moonlit air.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083963882423324673/img/O3QUVWAkGG1Fm3Gr.jpg" width="600" alt="Pastel Goth Woman Haunted Mansion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8414)**
+
+**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2083963914107121826) | **Published:** Aug 2, 2026
+
+---
+### Poppy Plant Spaceport Morph
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A transformation video prompt turning a poppy plant into a purple violet spaceport structure.
+
+#### 📝 Prompt
+
+```
+top of the flower expand purple violet colour and make the tree in image of poppy plant flower without the petals i need to look like spaceport
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083927241814126592/img/pRdnirBVpIesiPTJ.jpg" width="600" alt="Poppy Plant Spaceport Morph">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8411)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2083927255609180410) | **Published:** Aug 2, 2026
+
+---
+### Dragon of Entropy and Fire
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a dragon carrying sky ice while flying through smoke and fire.
+
+#### 📝 Prompt
+
+```
+Flames, and flowing Entropy and in the midst of it—the dragon appears holding a glowing chunk of the sky ice, clutched in its talons, and it flies through the entropic cloud of fire and smoke breathing a column of fire out, the moment resonates. As y...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083926074531131392/img/Wp19ti_7v0tsK_qC.jpg" width="600" alt="Dragon of Entropy and Fire">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8406)**
+
+**Author:** [🔥🐲τηε DξρΙθΓαβΙξ DΓΑΩθη🔥🐉](https://x.com/thedepldrgn) | **Source:** [Link](https://x.com/thedepldrgn/status/2083926195163607207) | **Published:** Aug 2, 2026
+
+---
+### Archeologist Exploration Reveal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A slow camera push-in video prompt showing a female explorer clearing moss from a carved stone wall.
+
+#### 📝 Prompt
+
+```
+Slow camera push-in from a slightly low angle as the female explorer carefully clears soft moss and earth from the carved stone wall with gentle deliberate movements, dirt and dust particles falling away to slowly reveal more of the conceal...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083909841475559424/img/jwGlkoh_zcbaNobo.jpg" width="600" alt="Archeologist Exploration Reveal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8402)**
+
+**Author:** [Jayne](https://x.com/JayneJaxon8) | **Source:** [Link](https://x.com/JayneJaxon8/status/2083909914045432128) | **Published:** Aug 2, 2026
+
+---
+### Prison Horror Exorcism
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dark horror video prompt featuring teenagers exorcising a cannibalistic officer in a deserted prison.
+
+#### 📝 Prompt
+
+```
+A group of teenagers are drawn into a deserted prison by nightmarish visions, where they try to exorcise a cannibalistic cavalry officer.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083855863132164096/img/E6cTPZx0TdGrRzu8.jpg" width="600" alt="Prison Horror Exorcism">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8410)**
+
+**Author:** [David Williams](https://x.com/DavidWilliamsYN) | **Source:** [Link](https://x.com/DavidWilliamsYN/status/2083855894685823030) | **Published:** Aug 2, 2026
+
+---
+### Underwater Swimming Interaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine that creates an immersive underwater scene where a character acknowledges the viewer and swims along.
+
+#### 📝 Prompt
+
+```
+Swim with her underwater; she knows you're there and is happy to take you along. Swim with her underwater, she knows you are there and is happy to take you along.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083816384979722240/img/2Y--4wmbalFpQMGh.jpg" width="600" alt="Underwater Swimming Interaction">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8327)**
 
@@ -227,11 +513,30 @@ Primarily I’m seeking a more Athletic build with a body builder tan along with
 **Author:** [Steve Maynard](https://x.com/Sbm3Steve) | **Source:** [Link](https://x.com/Sbm3Steve/status/2083758331160576379) | **Published:** Aug 2, 2026
 
 ---
-### Steampunk Scientist Brain Interface
+### Cosmic Guitar Morph
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a video of a steampunk-themed woman discussing brain-computer interfaces, featuring specific attire like a monocle and short skirt.
+> A video morphing prompt transforming a subject into a cosmic-themed Gibson ES-335 guitar.
+
+#### 📝 Prompt
+
+```
+Have the fun morph into a Gibson es-335 guitar with a cool cosmic themed paint job
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083754711358828544/img/AUaSj8qkbaCAb5BV.jpg" width="600" alt="Cosmic Guitar Morph">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8400)**
+
+**Author:** [Mike Hellings](https://x.com/mikehellings) | **Source:** [Link](https://x.com/mikehellings/status/2083754739632603474) | **Published:** Aug 2, 2026
+
+---
+### Steampunk Woman Discussing BCI
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video of a steampunk-styled woman wearing a monocle while discussing brain-computer interface discoveries for medical treatment.
 
 #### 📝 Prompt
 
@@ -239,11 +544,30 @@ Primarily I’m seeking a more Athletic build with a body builder tan along with
 Create a video of a steampunk woman in a short skirt and knee highs wearing a monocle talking about her latest discovery in brain computer interfaces for treatment resistant depression.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083712641189466112/img/P-ulVrcKW_4FA98m.jpg" width="600" alt="Steampunk Scientist Brain Interface">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083712641189466112/img/P-ulVrcKW_4FA98m.jpg" width="600" alt="Steampunk Woman Discussing BCI">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8321)**
 
 **Author:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **Source:** [Link](https://x.com/DrJGiddensRN/status/2083712659195593094) | **Published:** Aug 2, 2026
+
+---
+### Space Elevator Psychedelic Cells
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An immersive interior view of space elevator cells featuring multi-colored swirling lights and iridescent patterns.
+
+#### 📝 Prompt
+
+```
+Immersive interior of the space elevator's graphene hydrogen-filled cells, a wavy multi-level pathway spiraling upward through a psychedelic dreamscape of multi-colors dominated by rich purple and violet swirling lights, iridescent patterns and glowi...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083671273515761664/img/PrVFknZ_2MER0XlB.jpg" width="600" alt="Space Elevator Psychedelic Cells">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8404)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2083671287277187094) | **Published:** Aug 1, 2026
 
 ---
 ### Ocean Dragon and Wildlife
@@ -1962,339 +2286,6 @@ Victoria's Secret रनवे मॉडल की तरह संगीत क
 **Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **Published:** Jul 24, 2026
 
 ---
-### चांदी की लेस में शांत रानी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक शांत बगीचे में चांदी की लेस पहने रानी के दृश्य को उत्पन्न करने के लिए एक काव्यात्मक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-चांदी की लेस और हल्की परछाइयों में एक शांत रानी। कोमल हाथ, दूर तक देखती आंखें, और एक खामोश बगीचा।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080590150296616960/img/PAfQO680QIyhr4gq.jpg" width="600" alt="चांदी की लेस में शांत रानी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7948)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2080590202167599223) | **Published:** Jul 24, 2026
-
----
-### फर्स्ट पर्सन पर्सपेक्टिव हॉस्पिटल बर्थ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक पॉइंट-ऑफ-व्यू वीडियो प्रॉम्प्ट, जो अस्पताल के माहौल में एक माँ द्वारा अपने नवजात शिशु को गोद में लेने के भावनात्मक क्षण को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-एक धुंधले अस्पताल के कमरे में प्रसव करती महिला का पॉइंट ऑफ व्यू, उसका पेट छोटा है और उसने पेट को ढंकने वाला हॉस्पिटल गाउन पहना हुआ है। डॉक्टर गुलाबी कारहार्ट टोपी (carhart toque) में लिपटे हुए बच्ची को उसकी छाती पर रखता है। बच्चा माँ की ओर देख रहा है....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="फर्स्ट पर्सन पर्सपेक्टिव हॉस्पिटल बर्थ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7848)**
-
-**Author:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **Source:** [Link](https://x.com/condnuit/status/2080528603029102790) | **Published:** Jul 24, 2026
-
----
-### टेराकोटा वेल डांसर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> रंगीन मोज़ेक दीवारों के सामने बहते नारंगी रेशम और गर्म सुनहरी रोशनी में एक नर्तकी के लिए एक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-वह गर्म सुनहरी रोशनी में नृत्य करती है, जहाँ रंगीन मोज़ेक दीवारों के सामने नारंगी रेशम लहरा रहा है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080380918401835009/img/jpLJqErXUFLPbras.jpg" width="600" alt="टेराकोटा वेल डांसर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7793)**
-
-**Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2080381005395878356) | **Published:** Jul 23, 2026
-
----
-### चांदनी रात के बगीचे में रहस्यमयी मानव रूपी बिल्ली
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत सिनेमैटिक प्रॉम्प्ट, जिसमें एक नोयर-शैली के चांदनी बगीचे में गहरे साये वाले वस्त्र पहने एक राजसी मानव रूपी बिल्ली को दर्शाया गया है।
-
-#### 📝 Prompt
-
-```
-एक रहस्यमयी, मानव रूपी बिल्ली चांदनी से भरे बगीचे में चुपचाप बैठी है, जिसने मुकुट और गहरे साये वाले वस्त्र पहने हैं। बगीचा मुरझाए हुए चेरी ब्लॉसम से भरा है और दृश्य पर नाटकीय नोयर लाइटिंग, गहरा कंट्रास्ट और उदास छायाएं हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080305619941355520/img/Ct1mEMjGL47q8Oh_.jpg" width="600" alt="चांदनी रात के बगीचे में रहस्यमयी मानव रूपी बिल्ली">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7792)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **Published:** Jul 23, 2026
-
----
-### जैस्मीन फ्लावर शावर सरियल वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक फैंटेसी वीडियो प्रॉम्प्ट जिसमें कोरल ड्रेस पहने एक महिला को सिनेमैटिक मोशन इफेक्ट्स के साथ विशाल जैस्मीन फूलों की बौछार के बीच दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-हाइपर-रियलिस्टिक, गोरी पश्चिमी यूरोपीय प्राकृतिक मध्यम सुनहरे घुंघराले छोटे बाल, सांवली त्वचा, छोटी कोरल ड्रेस पहने हुए, लंबे सुंदर पैर, उज्ज्वल और ऊर्जावान पोज़, सुपर ओवरसाइज़्ड जैस्मीन फूलों की बौछार, उन्मुक्त, ओस और भोर, सरियल, फैंटेसी फ्लेयर, मूवमेंट और धुंधले हिस्सों को दर्शाने वाला शॉट
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="जैस्मीन फ्लावर शावर सरियल वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
-
-**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2080195996315738403) | **Published:** Jul 23, 2026
-
----
-### गैंडालफ बनाम बालरोग की महाकाव्य लड़ाई
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक ज्वालामुखी गुफा में जादूगर और पिघले हुए ड्रैगन के बीच एक महाकाव्य लड़ाई को दर्शाने वाले 15-सेकंड के वीडियो के लिए एक पेशेवर-ग्रेड सिनेमैटिक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-पिघली हुई लावा की नदियों और घूमती हुई चिंगारियों से प्रकाशित एक विशाल ज्वालामुखी गुफा में 15 सेकंड की एक नाटकीय सिनेमैटिक फंतासी लड़ाई। शुरुआत एक शक्तिशाली सफेद बालों वाले जादूगर-योद्धा के लो-एंगल शॉट से करें, जो टूटी हुई पत्थर की चट्टान पर खड़ा है, उसके लंबे ग्रे लबादे नाटकीय रूप से लहरा रहे हैं। वह दो चमकती तलवारें ऊपर उठाता है — एक से तीव्र चमकदार नीली-सफेद रोशनी और लेंस फ्लेयर्स निकलते हैं, दूसरी से एक उग्र सुनहरी ऊर्जा की किरण — जैसे ही विशाल चमकते नारंगी ऊर्जा के छल्ले उसके चारों ओर जादुई ढाल की तरह घूमते और फैलते हैं।
-
-उसके सामने, एक विशाल उग्र ड्रैगन-सर्प जैसा जानवर खड़ा है, जिसका शरीर जीवित पिघली हुई आग और ओब्सीडियन के शल्कों से बना है, पंख पूरी तरह फैले हुए हैं, और आँखें भट्टी की तरह चमक रही हैं। जानवर दहाड़ता है, और नारंगी आग की एक प्रचंड धारा छोड़ता है जो पूरी गुफा को रोशन कर देती है।
-
-डायनामिक कैमरा मूवमेंट: जादूगर के दृढ़ चेहरे पर धीरे-धीरे नाटकीय ज़ूम-इन, फिर जैसे ही जानवर आगे बढ़ता है, दोनों लड़ाकों के चारों ओर तेज़ ऑर्बिटिंग पैन। जादूगर चट्टान से शालीनता से कूदता है, तलवारें शक्तिशाली चाप में चलती हैं जो ड्रैगन की जलती हुई खाल पर टकराने पर चमकदार ऊर्जा की लकीरें और चिंगारियां पैदा करती हैं। आग और रोशनी विस्फोटक धमाकों के साथ टकराती हैं, जिससे चिंगारियों और पिघली हुई चट्टानों की बौछार होती है। ड्रैगन अपनी लंबी पूंछ को लहराते हुए अपने जबड़ों से हमला करता है, जिससे जादूगर को कलाबाजी करते हुए बचने और जवाबी हमला करने के लिए मजबूर होना पड़ता है।
-
-गहरी गड़गड़ाहट और तलवारों के तीखे टकराने की आवाज़ के साथ महाकाव्य ऑर्केस्ट्रा संगीत तेज़ होता है। अंत एक वीरतापूर्ण वाइड शॉट के साथ करें जहाँ जादूगर नीली-सफेद और सुनहरी रोशनी की एक शानदार चमक के साथ दोनों तलवारें जानवर की छाती में उतार देता है, ड्रैगन गुस्से में दहाड़ता है और उनके चारों ओर आग की लपटें बेतहाशा भड़क उठती हैं। अति-विस्तृत, सिनेमैटिक लाइटिंग, तीव्र गति, महाकाव्य पैमाना, 4K, तेज़ एक्शन के साथ मिश्रित नाटकीय स्लो-मोशन क्षण।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080084050291642368/img/8eUFvxZ_lMf6KfF7.jpg" width="600" alt="गैंडालफ बनाम बालरोग की महाकाव्य लड़ाई">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7794)**
-
-**Author:** [Lord Of The Groks](https://x.com/LordOfTheGroks) | **Source:** [Link](https://x.com/LordOfTheGroks/status/2080084115844735126) | **Published:** Jul 23, 2026
-
----
-### एनिमेटेड ड्रैगन बैटल सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine में सिनेमैटिक लाइटिंग और विस्फोटक प्रभावों के साथ एक भीषण ड्रैगन लड़ाई उत्पन्न करने के लिए एक हाई-एक्शन वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एनिमेटेड कार्टून ड्रैगन बैटल सीक्वेंस: नुकीले शल्कों और चमकती एम्बर आंखों वाला एक भीषण लाल ड्रैगन दहाड़ता है और दर्शक की ओर आक्रामक रूप से उड़ते हुए शक्तिशाली आग के गोले छोड़ता है। डायनामिक कैमरा एंगल, विस्फोटक फ्लेम इफेक्ट्स, ड्रामेटिक लाइट
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080006615110168576/img/OZish_Gktox2ogxM.jpg" width="600" alt="एनिमेटेड ड्रैगन बैटल सीक्वेंस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7754)**
-
-**Author:** [Faizal](https://x.com/zalkad) | **Source:** [Link](https://x.com/zalkad/status/2080006653068616110) | **Published:** Jul 22, 2026
-
----
-### जलते हुए गाँव में सिनेमैटिक योद्धा महिला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक यथार्थवादी सिनेमैटिक पोर्ट्रेट बनाने के लिए अत्यधिक विस्तृत प्रॉम्प्ट, जिसमें एक मध्ययुगीन जलते हुए धुएँ से भरे गाँव में प्लेट आर्मर पहने सुनहरे बालों वाली योद्धा है और पृष्ठभूमि में एक ड्रैगन है।
-
-#### 📝 Prompt
-
-```
-गोरी त्वचा, तीखी नीली आँखों और दाहिने कंधे पर लंबी, घनी प्लेटिनम-ब्लोंड चोटी वाली एक योद्धा महिला का अल्ट्रा-यथार्थवादी सिनेमैटिक पोर्ट्रेट, जिसने जटिल उभरे हुए पैटर्न और चेनमेल के साथ अत्यधिक विस्तृत अलंकृत सिल्वर-ग्रे मध्ययुगीन प्लेट आर्मर पहना है, दाहिने हाथ में गहरे हैंडल वाली एक बड़ी अलंकृत लंबी तलवार पकड़े हुए, जलती हुई इमारतों वाली एक मध्ययुगीन गाँव की सड़क पर खड़ी है, धुएँ वाली पृष्ठभूमि में एक बड़ा धुंधला ड्रैगन दिखाई दे रहा है, बहुत ही म्यूट और डीसैचुरेटेड कलर पैलेट, भारी रूप से म्यूट रंग, कम सैचुरेशन, ग्रिटी सिनेमैटिक वातावरण, नाटकीय लेकिन संयमित लाइटिंग, हल्की आग की चमक, ऊपर की ओर देखती हुई तीखी केंद्रित आँखें, गंभीर और नेक अभिव्यक्ति, दिखाई देने वाले रोमछिद्रों के साथ अल्ट्रा-डिटेल्ड त्वचा बनावट, आर्मर पर यथार्थवादी धातु प्रतिबिंब और घिसाव, धूल और कालिख के कण, 8k रॉ फोटोग्राफी, फोटो-यथार्थवादी।
-```
-
-<img src="https://cms-assets.youmind.com/media/1784794869283_q4h6ki_HN2Q8NdXIAAF7kf.jpg" width="600" alt="जलते हुए गाँव में सिनेमैटिक योद्धा महिला">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7757)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **Published:** Jul 22, 2026
-
----
-### नॉर्डिक 8-बिट पिक्सेल आर्ट स्टाइल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ईथरियल नॉर्डिक इंस्ट्रूमेंटल संगीत के साथ एक आरामदायक 8-बिट पिक्सेल आर्ट दृश्य उत्पन्न करने के लिए एक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-प्यारा और आरामदायक 8-बिट पिक्सेल आर्ट, बिना किसी वोकल के शांत ईथरियल नॉर्डिक इंस्ट्रूमेंटल संगीत, जैसे कि आप अराजकता की गहरी अंधेरी रात से एक लंबी यात्रा के बाद उस जगह घर लौट रहे हैं जहाँ आप वास्तव में संबंधित हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="नॉर्डिक 8-बिट पिक्सेल आर्ट स्टाइल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7758)**
-
-**Author:** [Kiki 🇺🇸](https://x.com/kikisknees) | **Source:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **Published:** Jul 22, 2026
-
----
-### 8-bit पिक्सेल फेयरी एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गोधूलि बेला के जंगल में चांदी जैसे बालों वाली परी का सीमलेस लूपिंग 8-bit पिक्सेल आर्ट वीडियो बनाने के लिए एक संपूर्ण एनिमेशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-8-bit पिक्सेल आर्ट, लंबे चांदी जैसे बालों और फूलों का ताज पहने स्वप्निल ईथरियल परी, पारदर्शी लेस ड्रेस पहने हुए, गोधूलि बेला में चमकते हुए काईदार जंगल में नंगे पैर खड़ी, जुगनू और तैरती हुई पंखुड़ियाँ, नरम आइवी के साथ प्राचीन पेड़, पेस्टल गुलाबी, लैवेंडर और हरे रंग, टम्बलर कोर स्वप्निल फैंटेसी एस्थेटिक, रेट्रो 8-bit पिक्सेल स्टाइल, सॉफ्ट ग्लो, सीमित कलर पैलेट। लूपिंग एम्बिएंट 8-bit पिक्सेल आर्ट वीडियो, सूक्ष्म गति, सीमलेस स्वप्निल लूप, टम्बलर फैंटेसी एस्थेटिक, रेट्रो पिक्सेल स्टाइल
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8-bit पिक्सेल फेयरी एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
-
-**Author:** [paranoidream ♡︎](https://x.com/paranoidream) | **Source:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **Published:** Jul 22, 2026
-
----
-### चेहरे का क्रॉस-सेक्शन fMRI स्कैन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो मानव चेहरे को बीच से खुलते हुए और उसके अंदर के fMRI ब्रेन स्कैन को गति में दिखाता है।
-
-#### 📝 Prompt
-
-```
-चेहरे को बीच से काटें और इसे खोलें ताकि ऐसा लगे कि हम मस्तिष्क का fMRI कर रहे हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079724515811074048/img/ETlS_bwjcDqsxOnA.jpg" width="600" alt="चेहरे का क्रॉस-सेक्शन fMRI स्कैन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7755)**
-
-**Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
-
----
-### अति-यथार्थवादी गॉथिक माँ और बच्चे का मैक्रो पोर्ट्रेट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई और भावनात्मक रूप से प्रभावशाली प्रॉम्प्ट, जिसमें गॉथिक मुकुट पहने एक महिला को प्यार से एक लिपटे हुए बच्चे को गोद में लिए हुए दिखाया गया है। इसमें फोटो-यथार्थवादी त्वचा की बनावट और हल्के रंगों पर ध्यान केंद्रित किया गया है।
-
-#### 📝 Prompt
-
-```
-गोरी त्वचा, झाइयों और लंबे लहराते सफेद बालों वाली एक सुंदर महिला का अति-यथार्थवादी मैक्रो पोर्ट्रेट। उसने नाजुक विवरणों, सूक्ष्म ड्रेपरी और लेस एक्सेंट के साथ एक सुंदर लंबी काली पोशाक पहनी है। उसके सिर पर अलंकृत गहरे रंग का नुकीला गॉथिक मुकुट है। वह कोमल, सुंदर सफेद कपड़े में लिपटे प्यारे बच्चे को दोनों हाथों और बाहों से धीरे से गले लगाती है और पकड़ती है, उसे अपनी छाती से प्यार से सटाए हुए है। बच्चा गोल-मटोल और प्यारा है, जिसकी त्वचा कोमल और नाजुक है, जो पूरी तरह से कपड़े में ढका हुआ और आरामदायक है। उसकी मुद्रा सुरक्षात्मक और प्रेमपूर्ण है।
-
-बहुत ही हल्के, कम-संतृप्ति वाले रंग पैलेट, लगभग फीके टोन, सूक्ष्म ठंडे अंडरटोन, नरम प्राकृतिक छाया, दिखाई देने वाले रोमछिद्रों के साथ यथार्थवादी त्वचा की बनावट, सिनेमाई लेकिन संयमित प्रकाश व्यवस्था, अत्यधिक विस्तृत, तेज मैक्रो फोकस, अति-यथार्थवादी, फोटो-यथार्थवाद।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="अति-यथार्थवादी गॉथिक माँ और बच्चे का मैक्रो पोर्ट्रेट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7795)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079626150091932125) | **Published:** Jul 21, 2026
-
----
-### सिनेमैटिक अकिलीज़ ट्रोजन वॉर वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> अकिलीज़ की विशेषता वाले ट्रोजन वॉर दृश्य के लिए एक प्रोफेशनल-ग्रेड सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें कैमरा मूवमेंट, साउंड डिज़ाइन और लाइटिंग के निर्देश शामिल हैं।
-
-#### 📝 Prompt
-
-```
-भोर के समय धुएँ से भरे ट्रोजन युद्ध के मैदान में चमकते कांस्य कवच में अकिलीज़ का नाटकीय वाइड शॉट, तलवार ऊपर उठाए हुए, तीव्र युद्ध गर्जना के भाव, पृष्ठभूमि में गिरे हुए योद्धा और जलते हुए तीर, विशाल लकड़ी के घोड़े की छाया के साथ महाकाव्य पैमाना, धूल के बादलों और रक्त की धुंध को भेदती सिनेमैटिक वॉल्यूमेट्रिक गॉड रेज़, अति-विस्तृत धात्विक प्रतिबिंब और कपड़ों के फटने के निशान, ग्रेग रुतकोव्स्की की फैंटेसी डिटेल, विलेन्यूवे की महाकाव्य संरचना और डीकिन्स की लाइटिंग महारत का मिश्रण, 8K IMAX सिनेमैटिक। भोर के समय अराजक धुएँ से भरे ट्रोजन युद्ध के मैदान में शक्तिशाली तलवार के प्रहार और युद्ध गर्जना के साथ आगे बढ़ते चमकते कांस्य कवच में अकिलीज़, उड़ते तीरों और घूमती धूल पर मोशन पैरालैक्स के साथ वाइड से हीरोइक क्लोज़-अप तक धीमा नाटकीय ट्रैकिंग शॉट, कवच की खनक और ज़मीन पर प्रभाव की त्रुटिहीन भौतिकी, 'For Troy!' संवाद के साथ मूल सिंक की गई गहरी योद्धा आवाज़ और ग्रिटी बैटल SFX (धातुओं का टकराना, युद्ध की चीखें, आग की सरसराहट) और बढ़ता हुआ ऑर्केस्ट्रल स्कोर, सुनहरी भोर की वॉल्यूमेट्रिक गॉड रेज़ और सिनेमैटिक रिम लाइटिंग, रुतकोव्स्की/विलेन्यूवे/डीकिन्स फ्यूजन स्टाइल, त्रुटिहीन 24fps निरंतर 15-सेकंड मोशन, वायरल ट्रेलर एनर्जी के लिए तैयार अति-विस्तृत 8K मास्टरपीस।
-```
-
-<img src="https://cms-assets.youmind.com/media/1784621994095_n65q56_HNu02XKXUAAkc2V.jpg" width="600" alt="सिनेमैटिक अकिलीज़ ट्रोजन वॉर वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7646)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **Published:** Jul 21, 2026
-
----
-### सटीक कैरेक्टर रोटेशन अनुक्रम
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विशिष्ट कैरेक्टर के रोटेशन और पॉज़ के लिए अत्यधिक विस्तृत मोशन कंट्रोल प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-कैरेक्टर अपनी जगह पर 40-डिग्री का रोटेशन करता है: ठीक 0.5 सेकंड के लिए रुकता है, और एक स्वाभाविक व संयमित मुद्रा में पॉज़ बनाए रखता है। फिर उसी दिशा में 40-डिग्री घूमना जारी रखें, 0.5 सेकंड के लिए रुकें। फिर कैमरे की ओर वापस घूमें और...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079420629032247296/img/IAU_81whWcdJEsDL.jpg" width="600" alt="सटीक कैरेक्टर रोटेशन अनुक्रम">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7696)**
-
-**Author:** [Claudia Jean](https://x.com/ClaudiaJeanxpe) | **Source:** [Link](https://x.com/ClaudiaJeanxpe/status/2079421393268093241) | **Published:** Jul 21, 2026
-
----
-### पूर्वी एशियाई फैशन पोर्ट्रेट एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> लंबे काले बालों वाली एक युवा पूर्वी एशियाई महिला का फोटो-यथार्थवादी फैशन पोर्ट्रेट, जिसने ओवरसाइज़्ड नीली टी-शर्ट पहनी है, के लिए एक उच्च-विवरण वाला वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-लंबे, सीधे और गहरे काले बालों वाली एक सुंदर युवा पूर्वी एशियाई महिला का फोटो-यथार्थवादी फैशन पोर्ट्रेट, जो एक काली कुर्सी पर आराम से बैठी है। उसने काले अंडाकार धूप का चश्मा पहना है, हल्का मेकअप किया है जिसमें चमकदार गुलाबी-लाल होंठ हैं, और "Ani" नाम का एक नाजुक चांदी का हार पहना है। उसने छाती पर काले अक्षरों वाली एक ओवरसाइज़्ड स्लेट-ब्लू टी-शर्ट, काले बाइकर शॉर्ट्स और बड़े धनुष के आकार में बंधे चमकीले नीले फीतों वाले काले और सफेद स्नीकर्स पहने हैं। उसका दाहिना हाथ धीरे से उसकी कनपटी के पास बालों को छू रहा है, जबकि उसका बायां हाथ एक काले शोल्डर बैग की स्ट्रैप को पकड़े हुए है। बैग में नीले कपड़े पहने एक प्यारा सफेद टेडी बियर कीचेन और एक बड़ा फूला हुआ नीला पोम-पॉम लगा है। पृष्ठभूमि एक ठोस बनावट वाली नीली दीवार है जिस पर बड़े, बोल्ड काले कर्सिव स्क्रिप्ट में "Comeback" शब्द लिखा है। प्राकृतिक दिन की रोशनी, हल्की छाया, यथार्थवादी त्वचा बनावट, तीखा फोकस, उच्च विवरण, इंस्टाग्राम फैशन फोटोग्राफी शैली, थोड़े निचले कोण से फुल बॉडी शॉट, आत्मविश्वास से भरा पोज़
-```
-
-<img src="https://cms-assets.youmind.com/media/1784621982635_sglbmo_HNpWATlbYAAFwZw.jpg" width="600" alt="पूर्वी एशियाई फैशन पोर्ट्रेट एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7642)**
-
-**Author:** [Feyber | AI Creator](https://x.com/woleswoosh) | **Source:** [Link](https://x.com/woleswoosh/status/2079325481053356127) | **Published:** Jul 20, 2026
-
----
-### मंडला ऑक्टोपस इंक स्प्रे
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें एक बहु-आंखों वाला मंडला ऑक्टोपस घूम रहा है और ज़ूम-आउट शॉट में स्याही बिखेर रहा है।
-
-#### 📝 Prompt
-
-```
-ऑक्टो पाई 👁️ 
-
-दृश्य ज़ूम आउट होता है और 11 आंखों वाले एक मंडला ऑक्टोपस का चेहरा दिखाई देता है, जो घड़ी की विपरीत दिशा में घूमता है और अपने टेंटेकल्स के सक्शन कप से बरगंडी और काली स्याही 🫟 बिखेरता है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079320309442695168/img/LQB1lzQZcsGx7TXS.jpg" width="600" alt="मंडला ऑक्टोपस इंक स्प्रे">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7630)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079320346281255384) | **Published:** Jul 20, 2026
-
----
-### एलियन के सामने झुकता इंसान और स्पेसशिप एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें लाल सूट पहने एक इंसान को एलियन के सामने झुकते हुए दिखाया गया है, जबकि बैकग्राउंड में स्पेसशिप घूम रहे हैं और एलियन ताली बजा रहे हैं।
-
-#### 📝 Prompt
-
-```
-अब लाल सूट पहने इंसान को ऐसा दिखाएं जैसे वह एलियन के सामने झुक रहा हो। बैकग्राउंड में स्पेसशिप इधर-उधर घूम रहे हैं, और एलियन ताली बजा रहे हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079294854610165760/img/cGrQU8eVfSnd4vJW.jpg" width="600" alt="एलियन के सामने झुकता इंसान और स्पेसशिप एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7639)**
-
-**Author:** [Mr. Savistarz](https://x.com/AryehKatz) | **Source:** [Link](https://x.com/AryehKatz/status/2079294886356889866) | **Published:** Jul 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2356,6 +2347,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-03T07:56:57.821Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-03T11:49:44.133Z</sub>
 
 </div>
