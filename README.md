@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2319** |
+| 📝 Total Prompts | **2332** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-04** |
 
@@ -189,6 +189,177 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Woman in Black with Pansies
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> An artistic prompt for a woman in black attire with a decorative flower hat and a mysterious black cat in the background.
+
+#### 📝 Prompt
+
+```
+I become a woman with flowers and a hat. Red and white pansies decorate the black hat. The dress is also black, and the high-standing collar is also black. The background is yellow. Two eyes of a black cat were watching in the background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084531200178401280/img/m3THnztKrjW_IQ0_.jpg" width="600" alt="Woman in Black with Pansies">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8483)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2084531222873792716) | **Published:** Aug 4, 2026
+
+---
+### Roaring 20s Dancing Lady Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a period-style video of a lady dancing in a beaded dress with silver and pearl accessories
+
+#### 📝 Prompt
+
+```
+Lady dancing in roaring 20s beaded black and silver dress wearing beaded and white pearl accessories
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084395291059298304/img/TN2E76fSry2MhK_4.jpg" width="600" alt="Roaring 20s Dancing Lady Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8477)**
+
+**Author:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **Source:** [Link](https://x.com/Thoma31928Joy/status/2084395317718298644) | **Published:** Aug 3, 2026
+
+---
+### The Office Dwight and Michael Skit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-subject sitcom scene prompt featuring characters from The Office (US) in a meeting room setting.
+
+#### 📝 Prompt
+
+```
+Subject_definitions:
+<Subject 1> Dwight from the Office
+<Subject 2> Michael from the Office.
+<Subject 3> Jim from the Office
+
+Video_description:
+[Shot 1] Sitcom scene from The Office. Dwight and Michael in the meeting room.
+<Subject 2> in an annoyed look, turns his head toward <Subject 1>, and speaks with total sincerity, "[English] Dwight I swear to God if you mention one more thing about Grok Imagine, I am firing you on the spot."
+
+[Shot 2] Camera pans quickly vlog-style from <Subject 2> to <Subject 3>. <Subject 3> turns his head toward the camera and gives a small resigned shrug, his eyebrows raised slightly, mouth in a flat line.
+
+Soundscape: Quiet room tone typical of an office meeting room, the faint hum of fluorescent lighting, a chair creaking slightly as <Subject 1> sits upright. Outro song.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084358495386648576/img/mhnXXZU6HurnsgWT.jpg" width="600" alt="The Office Dwight and Michael Skit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8475)**
+
+**Author:** [Ash](https://x.com/asheem01) | **Source:** [Link](https://x.com/asheem01/status/2084358528496484716) | **Published:** Aug 3, 2026
+
+---
+### Mountain Biking Trail Motion Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion generation prompt that takes a static photo of people on a trail and makes them begin riding their mountain bikes.
+
+#### 📝 Prompt
+
+```
+We’re on Specialized Turbo levos riding semi easy wooded trails. Make us start riding....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084305985343291392/img/EujwW4Dych7qA__x.jpg" width="600" alt="Mountain Biking Trail Motion Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8471)**
+
+**Author:** [KourX](https://x.com/SumXkourX) | **Source:** [Link](https://x.com/SumXkourX/status/2084319820728963158) | **Published:** Aug 3, 2026
+
+---
+### Quiet Evening Musical Reflection Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic video prompt for a peaceful evening scene involving musical instruments and a soulful, soaring atmosphere.
+
+#### 📝 Prompt
+
+```
+„In the quiet of the evening, my heart finds its peace, with every note I play, my soul begins to soar.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084318206374637568/img/NfHPO_ojDHbf99gn.jpg" width="600" alt="Quiet Evening Musical Reflection Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8480)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2084318293142257832) | **Published:** Aug 3, 2026
+
+---
+### AI Time Traveler Sci-Fi Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for a sci-fi sequence featuring a man discovering a time machine and meeting a robot.
+
+#### 📝 Prompt
+
+```
+Title: The AI Time Traveler
+
+[Scene 1 – A man presses a glowing button.]
+
+Man: Finally! My time machine works!
+
+(A robot suddenly appears in a flash.)
+
+Robot: Greetings, human from the primitive year 2026.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084273562639298560/img/WcsWVLHpjDRxsXBh.jpg" width="600" alt="AI Time Traveler Sci-Fi Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8479)**
+
+**Author:** [badrinathG](https://x.com/badrinathG01) | **Source:** [Link](https://x.com/badrinathG01/status/2084273602371969439) | **Published:** Aug 3, 2026
+
+---
+### Living Beating Golden Heart
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal video featuring a living, beating golden heart displayed in a luxury foyer surrounded by roses.
+
+#### 📝 Prompt
+
+```
+A living golden heart that still beats on a sealed case that sits in the foyer of a luxury bouquet of roses that surround the podium home long after her death
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084262238630584320/img/0zNSX-3wn84Atn0L.jpg" width="600" alt="Living Beating Golden Heart">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8473)**
+
+**Author:** [Robin Vargas](https://x.com/ladiamondbaby) | **Source:** [Link](https://x.com/ladiamondbaby/status/2084262278447222838) | **Published:** Aug 3, 2026
+
+---
+### Zundamon and Deltamon Rapeseed Field
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed video generation prompt for Grok Imagine featuring characters Zundamon and Deltamon in a field of rapeseed, including specific instructions for character consistency and framing.
+
+#### 📝 Prompt
+
+```
+Maintain character consistency, the color of Deltamon's tail and the shape consistency of the tail tip. Move the 'HONEY' jar in the bottom right out of the frame. Zundamon and Deltamon carrying nectar in a field of rapeseed.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084227416608919552/img/Tbjyx60FcZhrMthH.jpg" width="600" alt="Zundamon and Deltamon Rapeseed Field">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8482)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2084227436053696977) | **Published:** Aug 3, 2026
+
+---
 ### Red Echo Los Angeles Rooftop
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -209,11 +380,32 @@ You stand on the rooftop in downtown Los Angeles, the glowing blue knife still w
 **Author:** [Bentley Reed](https://x.com/BReed2069) | **Source:** [Link](https://x.com/BReed2069/status/2084156121472725348) | **Published:** Aug 3, 2026
 
 ---
-### Heart Shaped Water Ripples
+### Crocodile Consuming Flying Fish
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A slow-motion video prompt showing a single water drip creating heart-shaped ripples in a cup.
+> A dynamic wildlife video prompt of an emerald crocodile leaping from the water to consume a fish mid-flight.
+
+#### 📝 Prompt
+
+```
+Chomp 
+
+The second fish dives back into the water. A shiny black and emerald crocodile of immense size with yellow eyes jumps out of the water and consumes its flying prey. The prey vanishes in the crocodiles’ mouth.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084155029619904512/img/KCTJnX-GMbETmOw-.jpg" width="600" alt="Crocodile Consuming Flying Fish">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8476)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2084155119965221280) | **Published:** Aug 3, 2026
+
+---
+### Water Drip Heart Ripples
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A graceful video of a single water droplet falling into a cup and creating heart-shaped ripples on the surface.
 
 #### 📝 Prompt
 
@@ -221,7 +413,7 @@ You stand on the rooftop in downtown Los Angeles, the glowing blue knife still w
 One singular drip of water falls from the faucet landing in the cup of water creating heart shaped ripples heart shaped ripples
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084152112976633856/img/T07fPhIJn779BYpt.jpg" width="600" alt="Heart Shaped Water Ripples">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084152112976633856/img/T07fPhIJn779BYpt.jpg" width="600" alt="Water Drip Heart Ripples">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8399)**
 
@@ -266,6 +458,44 @@ Born This merger brings forth a new creation sparked by the former’s bond. A s
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2084131117133611074) | **Published:** Aug 3, 2026
 
 ---
+### Hello Kitty McDonald's Incident
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A playful video prompt where Hello Kitty is grounded after taking a Happy Meal.
+
+#### 📝 Prompt
+
+```
+Hello kitty steals McDonalds happy meal her mom said kitty how dare steal McDonald’s happy meal your grounded for a thousand years he cries
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084130182881751040/img/cQu0hM7oYE2QhmSc.jpg" width="600" alt="Hello Kitty McDonald's Incident">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8478)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2084130217803558927) | **Published:** Aug 3, 2026
+
+---
+### Hello Kitty Stealing Candy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt about Hello Kitty getting into trouble for stealing candy from a store.
+
+#### 📝 Prompt
+
+```
+Hello kitty steals the candy from the store: her mom said don’t steal the candy your in big trouble
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084129925561294848/img/CMVxaW0O3xYqFBF9.jpg" width="600" alt="Hello Kitty Stealing Candy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8474)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2084129945261871194) | **Published:** Aug 3, 2026
+
+---
 ### Astronaut on Ice Moon with Shooting Star
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -285,11 +515,11 @@ Astronaut on an ice moon under a giant ringed world. And at the end… a shootin
 **Author:** [𝓛𝓪𝓭𝔂𝓓𝓑𝓾𝓰0o ♕](https://x.com/DBug0o) | **Source:** [Link](https://x.com/DBug0o/status/2084123919842181313) | **Published:** Aug 3, 2026
 
 ---
-### Dancing Rock Creature Aliens
+### Project Hail Mary Techno Aliens
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fun video featuring the rock creature aliens from Project Hail Mary dancing to a modern techno beat.
+> A creative video prompt featuring the rock-like aliens from Project Hail Mary dancing to techno music.
 
 #### 📝 Prompt
 
@@ -297,7 +527,7 @@ Astronaut on an ice moon under a giant ringed world. And at the end… a shootin
 Give me the rock creature aliens from project Hail Mary dancing to a techno beat
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084102331147186176/img/PWtbafka4cJM_Tdv.jpg" width="600" alt="Dancing Rock Creature Aliens">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084102331147186176/img/PWtbafka4cJM_Tdv.jpg" width="600" alt="Project Hail Mary Techno Aliens">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8407)**
 
@@ -323,11 +553,11 @@ In Namibia’s hush, where the desert drinks rain, millions of lilies rise from 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2084100344049537284) | **Published:** Aug 3, 2026
 
 ---
-### Soylent Green Nature Memory
+### Soylent Green Tribute Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A somber video prompt of a person on their deathbed watching films of lost nature, inspired by Soylent Green.
+> A cinematic video prompt evoking a deathbed scene viewing lost natural landscapes, inspired by the film Soylent Green
 
 #### 📝 Prompt
 
@@ -335,7 +565,7 @@ In Namibia’s hush, where the desert drinks rain, millions of lilies rise from 
 A person dying on their deathbed, watching a beautiful video of magnificent landscapes that once existed in the past but are now gone forever, evoking the scene from Soylent Green where the beauty of lost nature is viewed through film
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084092584394190848/img/KNTxgxHBgCLV-7Qh.jpg" width="600" alt="Soylent Green Nature Memory">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084092584394190848/img/KNTxgxHBgCLV-7Qh.jpg" width="600" alt="Soylent Green Tribute Scene">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8398)**
 
@@ -359,6 +589,25 @@ My eyes are green make the sketch turn to life moving squinting with eye movemen
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8401)**
 
 **Author:** [Robin Vargas](https://x.com/ladiamondbaby) | **Source:** [Link](https://x.com/ladiamondbaby/status/2084049666128203959) | **Published:** Aug 2, 2026
+
+---
+### Lotus Position Energy Meditation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt showing a person in meditation radiating waves of energy, perfect for spiritual or wellness content.
+
+#### 📝 Prompt
+
+```
+Show me a person sitting in the lotus position radiating multiple energy waves ....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084042561174589440/img/Tv-IoWxVI6bqbWL9.jpg" width="600" alt="Lotus Position Energy Meditation Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8472)**
+
+**Author:** [Joel Rubin](https://x.com/rubinfrek) | **Source:** [Link](https://x.com/rubinfrek/status/2084042576659911038) | **Published:** Aug 2, 2026
 
 ---
 ### Squirrel Puddle Tackle
@@ -627,6 +876,25 @@ The car is propelled to a speed that enables it to vertically lift off making th
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8322)**
 
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2083553676233171218) | **Published:** Aug 1, 2026
+
+---
+### Loving Winter Snow Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic and descriptive prompt for a serene winter video showing snow kissing the fields.
+
+#### 📝 Prompt
+
+```
+I wonder if the snow loves the trees and fields, since it kisses them so gently? And then it wraps them up snugly—you know, in a white blanket—and perhaps says: 'Sleep, my dears, until summer returns.'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083553414911242240/img/O-EgYhgPlemZA6La.jpg" width="600" alt="Loving Winter Snow Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8481)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2083553651541393653) | **Published:** Aug 1, 2026
 
 ---
 ### Cinematic Face Close-Up Drinking Through Straw
@@ -947,11 +1215,11 @@ Purple and orange bioluminescent dolphins 🐬 join the vortex that is a portal 
 **Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2083167221199552705) | **Published:** Jul 31, 2026
 
 ---
-### Ballerina in White Garden with Firefly
+### Ballerina in Lace and Firefly
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A poetic video prompt for a graceful scene involving a ballerina in lace and a drifting firefly in a white garden.
+> A poetic video prompt for generating a scene of a ballerina in a white garden with a single firefly drifting through the quiet light.
 
 #### 📝 Prompt
 
@@ -959,7 +1227,7 @@ Purple and orange bioluminescent dolphins 🐬 join the vortex that is a portal 
 A ballerina in lace and quiet light… A single firefly drifts through the white garden.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083158261063409664/img/OGuMgZHnRqIjJwIX.jpg" width="600" alt="Ballerina in White Garden with Firefly">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083158261063409664/img/OGuMgZHnRqIjJwIX.jpg" width="600" alt="Ballerina in Lace and Firefly">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8257)**
 
@@ -1901,261 +2169,6 @@ A news reporter holding a microphone close to a dog's mouth as if conducting a r
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2081410626375807091) | **Published:** Jul 26, 2026
 
 ---
-### Realistic Human Laugh Performance
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed performance direction for AI video focusing on a realistic human laugh with specific physical cues.
-
-#### 📝 Prompt
-
-```
-the first laugh already escapes through her nose, one loud snort she claps a hand over... the hand loses: the laugh bursts around it... a half-second of pure stunned silence, and then she is gone completely.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2081364983607091200/pu/img/gtz-6IIA5L8E5Dnc.jpg" width="600" alt="Realistic Human Laugh Performance">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7937)**
-
-**Author:** [GenFlick | Making Movies with AI | Join Us](https://x.com/Genflickmovies) | **Source:** [Link](https://x.com/Genflickmovies/status/2081365155422556628) | **Published:** Jul 26, 2026
-
----
-### Fantasy Glowing Potion and Floating Herbs
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A fantasy-inspired prompt for a cinematic shot of a glowing potion and floating herbs, creating a magical film atmosphere.
-
-#### 📝 Prompt
-
-```
-A glowing potion. Floating herbs. A scene that feels pulled straight out of a fantasy film.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081348701201559552/img/gQ_MkREdMzn5aM0M.jpg" width="600" alt="Fantasy Glowing Potion and Floating Herbs">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7945)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2081358875559682390) | **Published:** Jul 26, 2026
-
----
-### Road Runner Kitchen Window
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex scene description for video featuring a road runner looking into a kitchen with various domestic details.
-
-#### 📝 Prompt
-
-```
-Road runner lands on kitchen window sill looks in window
-Add on kitchen counter glass pitcher of water and sliced lemons
-Loaf of sourdough bread 
-Blender
-Cheese and fruit plate beside bottle of red wine
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081255607697641472/img/oC9lkHjNLlWdKnIi.jpg" width="600" alt="Road Runner Kitchen Window">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7939)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081255642959147339) | **Published:** Jul 26, 2026
-
----
-### Princess and Elon Musk Ballroom Dance
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt where a woman transforms into a princess and dances with Elon Musk in a ballroom.
-
-#### 📝 Prompt
-
-```
-Margaret transforms into a beautiful princess with long brown hair and Elon Musk asks her to dance in an elegant ballroom.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081225356766502912/img/xgJKf6DJWjTFa6HL.jpg" width="600" alt="Princess and Elon Musk Ballroom Dance">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7936)**
-
-**Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2081225375900971458) | **Published:** Jul 26, 2026
-
----
-### Neon Cardinal Birds Swooping
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A visually striking video prompt featuring neon-colored cardinals swooping down to hunt insects.
-
-#### 📝 Prompt
-
-```
-A flock of brilliant neon red cardinals with neon yellow and neon green highlights swoop in and devour the insects.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081182930819231744/img/hzp0zEResowNlCZq.jpg" width="600" alt="Neon Cardinal Birds Swooping">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7940)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081182971319480548) | **Published:** Jul 26, 2026
-
----
-### Mosquito Slam Dunk Rejection
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A humorous and dynamic video prompt involving a mosquito playing basketball and being splattered during a dunk.
-
-#### 📝 Prompt
-
-```
-Rainbow Mosquito 🦟 gets slapped so hard by his opponent (a 🪰) while getting blocked during a slam dunk attempt that he is splattered.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081179353707167745/img/a700naDXF2YaXco6.jpg" width="600" alt="Mosquito Slam Dunk Rejection">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7938)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081179387534123067) | **Published:** Jul 26, 2026
-
----
-### Anxious Checkout Clerk Interaction
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed cinematic interaction prompt involving two store clerks reacting to a customer.
-
-#### 📝 Prompt
-
-```
-A customer is calling for service at the register, but the two clerks make small muffled voices, swaying their bodies, with the camera alternating between close-ups of their anxious expressions while their mouths remain closed.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081031417375686656/img/iuKZJsC_mH64azoc.jpg" width="600" alt="Anxious Checkout Clerk Interaction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7903)**
-
-**Author:** [🍠クララ🍠](https://x.com/KURARA13520706) | **Source:** [Link](https://x.com/KURARA13520706/status/2081031437067976850) | **Published:** Jul 25, 2026
-
----
-### Golden Cosmic Floral Embrace
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A highly detailed cinematic prompt featuring golden roses, rubies, and butterflies falling from space.
-
-#### 📝 Prompt
-
-```
-Many more golden roses of love and hearts, large and numerous, along with many ruby hearts and shining diamonds and black and gold butterflies falling from the distant universe, wrapping around my body and hugging me and the moon. Zoom in closer. Position from the waist up.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080908005642743808/img/eioWsa32AR4jbJ5Z.jpg" width="600" alt="Golden Cosmic Floral Embrace">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7902)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2080908197171454427) | **Published:** Jul 25, 2026
-
----
-### Death Metal Video with Voiceover
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt involving a character pulling a chain while death metal music and a deep male voiceover play.
-
-#### 📝 Prompt
-
-```
-Death metal music is playing in the background. He yanks on his chain and says in a deep male death metal voice: Fun Tiff X made me.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="Death Metal Video with Voiceover">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7849)**
-
-**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2080779188098027577) | **Published:** Jul 24, 2026
-
----
-### Piano Key Shadow Performance
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> A creative prompt that transforms a shadow resembling piano keys into an animated video where the keys are played to the tune of the Chopsticks March.
-
-#### 📝 Prompt
-
-```
-The shadow in the photo looks like piano keys; please make a video where the keys move as if someone is playing them, and the music played is the Chopsticks March.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080752996926054400/img/XebJiDEY-e8vEgUd.jpg" width="600" alt="Piano Key Shadow Performance">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7850)**
-
-**Author:** [T드라이버](https://x.com/seongwoo0930) | **Source:** [Link](https://x.com/seongwoo0930/status/2080753029775868225) | **Published:** Jul 24, 2026
-
----
-### Landship Guard Dogs Sci-Fi Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A science fiction video prompt depicting giant guard dogs protecting a landship from mutant hybrid intruders.
-
-#### 📝 Prompt
-
-```
-Landship guard dogs 🐕 🐾🐕
-
-When a threat is sensed the pair grow in size and emit a debilitating shock wave that incapacitates the intruders who are mutant hyenas that crossed with giraffes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080740252281348096/img/LqQsozrWA4MZsJ9Y.jpg" width="600" alt="Landship Guard Dogs Sci-Fi Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7846)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080740307377750343) | **Published:** Jul 24, 2026
-
----
-### Rebellious Racer Wheelie Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dynamic video prompt of a racer performing a wheelie and making a defiant gesture while speeding away from a crowd.
-
-#### 📝 Prompt
-
-```
-Move bitches 🖕
-
-The racer speeds off doing a wheelie defiantly holding up is left arm and giving the bystanders the middle finger 🖕.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080719958581874688/img/YfP2U7CUY1SGXkfu.jpg" width="600" alt="Rebellious Racer Wheelie Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7847)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080720053968789504) | **Published:** Jul 24, 2026
-
----
-### Victoria's Secret Runway Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt for a fashion show scene with specific instructions on model movement and outfit flow.
-
-#### 📝 Prompt
-
-```
-Start to include some music like a victorious secret runway model, and making each move precisely with the flow of the outfit she is wearing
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080599552080388096/img/bE4mW5QaLWMnMBNe.jpg" width="600" alt="Victoria's Secret Runway Walk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7845)**
-
-**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **Published:** Jul 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2217,6 +2230,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-04T06:52:31.910Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-04T11:03:30.547Z</sub>
 
 </div>

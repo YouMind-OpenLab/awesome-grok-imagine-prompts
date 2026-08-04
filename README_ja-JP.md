@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2319** |
+| 📝 プロンプト総数 | **2332** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-08-04** |
 
@@ -189,6 +189,177 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Woman in Black with Pansies
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> An artistic prompt for a woman in black attire with a decorative flower hat and a mysterious black cat in the background.
+
+#### 📝 プロンプト
+
+```
+I become a woman with flowers and a hat. Red and white pansies decorate the black hat. The dress is also black, and the high-standing collar is also black. The background is yellow. Two eyes of a black cat were watching in the background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084531200178401280/img/m3THnztKrjW_IQ0_.jpg" width="600" alt="Woman in Black with Pansies">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8483)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **ソース:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2084531222873792716) | **公開日:** Aug 4, 2026
+
+---
+### Roaring 20s Dancing Lady Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a period-style video of a lady dancing in a beaded dress with silver and pearl accessories
+
+#### 📝 プロンプト
+
+```
+Lady dancing in roaring 20s beaded black and silver dress wearing beaded and white pearl accessories
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084395291059298304/img/TN2E76fSry2MhK_4.jpg" width="600" alt="Roaring 20s Dancing Lady Video">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8477)**
+
+**作者:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **ソース:** [Link](https://x.com/Thoma31928Joy/status/2084395317718298644) | **公開日:** Aug 3, 2026
+
+---
+### The Office Dwight and Michael Skit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-subject sitcom scene prompt featuring characters from The Office (US) in a meeting room setting.
+
+#### 📝 プロンプト
+
+```
+Subject_definitions:
+<Subject 1> Dwight from the Office
+<Subject 2> Michael from the Office.
+<Subject 3> Jim from the Office
+
+Video_description:
+[Shot 1] Sitcom scene from The Office. Dwight and Michael in the meeting room.
+<Subject 2> in an annoyed look, turns his head toward <Subject 1>, and speaks with total sincerity, "[English] Dwight I swear to God if you mention one more thing about Grok Imagine, I am firing you on the spot."
+
+[Shot 2] Camera pans quickly vlog-style from <Subject 2> to <Subject 3>. <Subject 3> turns his head toward the camera and gives a small resigned shrug, his eyebrows raised slightly, mouth in a flat line.
+
+Soundscape: Quiet room tone typical of an office meeting room, the faint hum of fluorescent lighting, a chair creaking slightly as <Subject 1> sits upright. Outro song.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084358495386648576/img/mhnXXZU6HurnsgWT.jpg" width="600" alt="The Office Dwight and Michael Skit">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8475)**
+
+**作者:** [Ash](https://x.com/asheem01) | **ソース:** [Link](https://x.com/asheem01/status/2084358528496484716) | **公開日:** Aug 3, 2026
+
+---
+### Mountain Biking Trail Motion Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion generation prompt that takes a static photo of people on a trail and makes them begin riding their mountain bikes.
+
+#### 📝 プロンプト
+
+```
+We’re on Specialized Turbo levos riding semi easy wooded trails. Make us start riding....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084305985343291392/img/EujwW4Dych7qA__x.jpg" width="600" alt="Mountain Biking Trail Motion Video">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8471)**
+
+**作者:** [KourX](https://x.com/SumXkourX) | **ソース:** [Link](https://x.com/SumXkourX/status/2084319820728963158) | **公開日:** Aug 3, 2026
+
+---
+### Quiet Evening Musical Reflection Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic video prompt for a peaceful evening scene involving musical instruments and a soulful, soaring atmosphere.
+
+#### 📝 プロンプト
+
+```
+„In the quiet of the evening, my heart finds its peace, with every note I play, my soul begins to soar.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084318206374637568/img/NfHPO_ojDHbf99gn.jpg" width="600" alt="Quiet Evening Musical Reflection Video Prompt">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8480)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2084318293142257832) | **公開日:** Aug 3, 2026
+
+---
+### AI Time Traveler Sci-Fi Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for a sci-fi sequence featuring a man discovering a time machine and meeting a robot.
+
+#### 📝 プロンプト
+
+```
+Title: The AI Time Traveler
+
+[Scene 1 – A man presses a glowing button.]
+
+Man: Finally! My time machine works!
+
+(A robot suddenly appears in a flash.)
+
+Robot: Greetings, human from the primitive year 2026.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084273562639298560/img/WcsWVLHpjDRxsXBh.jpg" width="600" alt="AI Time Traveler Sci-Fi Scene">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8479)**
+
+**作者:** [badrinathG](https://x.com/badrinathG01) | **ソース:** [Link](https://x.com/badrinathG01/status/2084273602371969439) | **公開日:** Aug 3, 2026
+
+---
+### Living Beating Golden Heart
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal video featuring a living, beating golden heart displayed in a luxury foyer surrounded by roses.
+
+#### 📝 プロンプト
+
+```
+A living golden heart that still beats on a sealed case that sits in the foyer of a luxury bouquet of roses that surround the podium home long after her death
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084262238630584320/img/0zNSX-3wn84Atn0L.jpg" width="600" alt="Living Beating Golden Heart">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8473)**
+
+**作者:** [Robin Vargas](https://x.com/ladiamondbaby) | **ソース:** [Link](https://x.com/ladiamondbaby/status/2084262278447222838) | **公開日:** Aug 3, 2026
+
+---
+### Zundamon and Deltamon Rapeseed Field
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed video generation prompt for Grok Imagine featuring characters Zundamon and Deltamon in a field of rapeseed, including specific instructions for character consistency and framing.
+
+#### 📝 プロンプト
+
+```
+Maintain character consistency, the color of Deltamon's tail and the shape consistency of the tail tip. Move the 'HONEY' jar in the bottom right out of the frame. Zundamon and Deltamon carrying nectar in a field of rapeseed.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084227416608919552/img/Tbjyx60FcZhrMthH.jpg" width="600" alt="Zundamon and Deltamon Rapeseed Field">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8482)**
+
+**作者:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **ソース:** [Link](https://x.com/FC_Cicadas/status/2084227436053696977) | **公開日:** Aug 3, 2026
+
+---
 ### Red Echo Los Angeles Rooftop
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -209,11 +380,32 @@ You stand on the rooftop in downtown Los Angeles, the glowing blue knife still w
 **作者:** [Bentley Reed](https://x.com/BReed2069) | **ソース:** [Link](https://x.com/BReed2069/status/2084156121472725348) | **公開日:** Aug 3, 2026
 
 ---
-### Heart Shaped Water Ripples
+### Crocodile Consuming Flying Fish
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A slow-motion video prompt showing a single water drip creating heart-shaped ripples in a cup.
+> A dynamic wildlife video prompt of an emerald crocodile leaping from the water to consume a fish mid-flight.
+
+#### 📝 プロンプト
+
+```
+Chomp 
+
+The second fish dives back into the water. A shiny black and emerald crocodile of immense size with yellow eyes jumps out of the water and consumes its flying prey. The prey vanishes in the crocodiles’ mouth.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084155029619904512/img/KCTJnX-GMbETmOw-.jpg" width="600" alt="Crocodile Consuming Flying Fish">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8476)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2084155119965221280) | **公開日:** Aug 3, 2026
+
+---
+### Water Drip Heart Ripples
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A graceful video of a single water droplet falling into a cup and creating heart-shaped ripples on the surface.
 
 #### 📝 プロンプト
 
@@ -221,7 +413,7 @@ You stand on the rooftop in downtown Los Angeles, the glowing blue knife still w
 One singular drip of water falls from the faucet landing in the cup of water creating heart shaped ripples heart shaped ripples
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084152112976633856/img/T07fPhIJn779BYpt.jpg" width="600" alt="Heart Shaped Water Ripples">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084152112976633856/img/T07fPhIJn779BYpt.jpg" width="600" alt="Water Drip Heart Ripples">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8399)**
 
@@ -266,6 +458,44 @@ Born This merger brings forth a new creation sparked by the former’s bond. A s
 **作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2084131117133611074) | **公開日:** Aug 3, 2026
 
 ---
+### Hello Kitty McDonald's Incident
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A playful video prompt where Hello Kitty is grounded after taking a Happy Meal.
+
+#### 📝 プロンプト
+
+```
+Hello kitty steals McDonalds happy meal her mom said kitty how dare steal McDonald’s happy meal your grounded for a thousand years he cries
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084130182881751040/img/cQu0hM7oYE2QhmSc.jpg" width="600" alt="Hello Kitty McDonald's Incident">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8478)**
+
+**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **ソース:** [Link](https://x.com/DavontaDav5iv/status/2084130217803558927) | **公開日:** Aug 3, 2026
+
+---
+### Hello Kitty Stealing Candy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt about Hello Kitty getting into trouble for stealing candy from a store.
+
+#### 📝 プロンプト
+
+```
+Hello kitty steals the candy from the store: her mom said don’t steal the candy your in big trouble
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084129925561294848/img/CMVxaW0O3xYqFBF9.jpg" width="600" alt="Hello Kitty Stealing Candy">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8474)**
+
+**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **ソース:** [Link](https://x.com/DavontaDav5iv/status/2084129945261871194) | **公開日:** Aug 3, 2026
+
+---
 ### Astronaut on Ice Moon with Shooting Star
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -285,11 +515,11 @@ Astronaut on an ice moon under a giant ringed world. And at the end… a shootin
 **作者:** [𝓛𝓪𝓭𝔂𝓓𝓑𝓾𝓰0o ♕](https://x.com/DBug0o) | **ソース:** [Link](https://x.com/DBug0o/status/2084123919842181313) | **公開日:** Aug 3, 2026
 
 ---
-### Dancing Rock Creature Aliens
+### Project Hail Mary Techno Aliens
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fun video featuring the rock creature aliens from Project Hail Mary dancing to a modern techno beat.
+> A creative video prompt featuring the rock-like aliens from Project Hail Mary dancing to techno music.
 
 #### 📝 プロンプト
 
@@ -297,7 +527,7 @@ Astronaut on an ice moon under a giant ringed world. And at the end… a shootin
 Give me the rock creature aliens from project Hail Mary dancing to a techno beat
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084102331147186176/img/PWtbafka4cJM_Tdv.jpg" width="600" alt="Dancing Rock Creature Aliens">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084102331147186176/img/PWtbafka4cJM_Tdv.jpg" width="600" alt="Project Hail Mary Techno Aliens">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8407)**
 
@@ -323,11 +553,11 @@ In Namibia’s hush, where the desert drinks rain, millions of lilies rise from 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2084100344049537284) | **公開日:** Aug 3, 2026
 
 ---
-### Soylent Green Nature Memory
+### Soylent Green Tribute Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A somber video prompt of a person on their deathbed watching films of lost nature, inspired by Soylent Green.
+> A cinematic video prompt evoking a deathbed scene viewing lost natural landscapes, inspired by the film Soylent Green
 
 #### 📝 プロンプト
 
@@ -335,7 +565,7 @@ In Namibia’s hush, where the desert drinks rain, millions of lilies rise from 
 A person dying on their deathbed, watching a beautiful video of magnificent landscapes that once existed in the past but are now gone forever, evoking the scene from Soylent Green where the beauty of lost nature is viewed through film
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084092584394190848/img/KNTxgxHBgCLV-7Qh.jpg" width="600" alt="Soylent Green Nature Memory">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084092584394190848/img/KNTxgxHBgCLV-7Qh.jpg" width="600" alt="Soylent Green Tribute Scene">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8398)**
 
@@ -359,6 +589,25 @@ My eyes are green make the sketch turn to life moving squinting with eye movemen
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8401)**
 
 **作者:** [Robin Vargas](https://x.com/ladiamondbaby) | **ソース:** [Link](https://x.com/ladiamondbaby/status/2084049666128203959) | **公開日:** Aug 2, 2026
+
+---
+### Lotus Position Energy Meditation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt showing a person in meditation radiating waves of energy, perfect for spiritual or wellness content.
+
+#### 📝 プロンプト
+
+```
+Show me a person sitting in the lotus position radiating multiple energy waves ....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084042561174589440/img/Tv-IoWxVI6bqbWL9.jpg" width="600" alt="Lotus Position Energy Meditation Video">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8472)**
+
+**作者:** [Joel Rubin](https://x.com/rubinfrek) | **ソース:** [Link](https://x.com/rubinfrek/status/2084042576659911038) | **公開日:** Aug 2, 2026
 
 ---
 ### Squirrel Puddle Tackle
@@ -627,6 +876,25 @@ The car is propelled to a speed that enables it to vertically lift off making th
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8322)**
 
 **作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2083553676233171218) | **公開日:** Aug 1, 2026
+
+---
+### Loving Winter Snow Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic and descriptive prompt for a serene winter video showing snow kissing the fields.
+
+#### 📝 プロンプト
+
+```
+I wonder if the snow loves the trees and fields, since it kisses them so gently? And then it wraps them up snugly—you know, in a white blanket—and perhaps says: 'Sleep, my dears, until summer returns.'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083553414911242240/img/O-EgYhgPlemZA6La.jpg" width="600" alt="Loving Winter Snow Scene">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8481)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2083553651541393653) | **公開日:** Aug 1, 2026
 
 ---
 ### Cinematic Face Close-Up Drinking Through Straw
@@ -1987,261 +2255,6 @@ Grok、サンドワームの頭の向きを変えて。それが彼が地中を�
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2081410626375807091) | **公開日:** Jul 26, 2026
 
 ---
-### リアルな人間の笑い声のパフォーマンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> AI 動画において、特定の身体的合図を伴うリアルな人間の笑いを表現するための詳細な演出指示。
-
-#### 📝 プロンプト
-
-```
-最初の笑い声がすでに鼻から漏れ出し、大きな鼻を鳴らす音が響く。彼女は手で口を覆うが……手は負けてしまい、笑い声がその隙間から弾け飛ぶ。0.5 秒間の純粋な驚きの沈黙の後、彼女は完全に笑い崩れてしまう。
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2081364983607091200/pu/img/gtz-6IIA5L8E5Dnc.jpg" width="600" alt="リアルな人間の笑い声のパフォーマンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7937)**
-
-**作者:** [GenFlick | Making Movies with AI | Join Us](https://x.com/Genflickmovies) | **ソース:** [Link](https://x.com/Genflickmovies/status/2081365155422556628) | **公開日:** Jul 26, 2026
-
----
-### 幻想的な光るポーションと浮かぶハーブ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 光るポーションと浮かぶハーブを捉えた、映画のようなシネマティックなショットのためのファンタジー風プロンプト。魔法のような映画の雰囲気を演出します。
-
-#### 📝 プロンプト
-
-```
-光り輝くポーション。浮かび上がるハーブ。まるでファンタジー映画からそのまま飛び出してきたかのような光景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081348701201559552/img/gQ_MkREdMzn5aM0M.jpg" width="600" alt="幻想的な光るポーションと浮かぶハーブ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7945)**
-
-**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **ソース:** [Link](https://x.com/MarioNawfal/status/2081358875559682390) | **公開日:** Jul 26, 2026
-
----
-### ロードランナーとキッチン窓
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ロードランナーがキッチンの窓を覗き込んでいる様子を描いた、家庭的なディテールを含む複雑なシーンの描写。
-
-#### 📝 プロンプト
-
-```
-ロードランナーがキッチンの窓枠に着地し、窓の中を覗き込む
-キッチンカウンターの上に、水が入ったガラスのピッチャーとスライスしたレモンを追加
-サワードウブレッドの塊
-ブレンダー
-赤ワインのボトルの横にチーズとフルーツの盛り合わせ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081255607697641472/img/oC9lkHjNLlWdKnIi.jpg" width="600" alt="ロードランナーとキッチン窓">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7939)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2081255642959147339) | **公開日:** Jul 26, 2026
-
----
-### プリンセスと Elon Musk の社交ダンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 女性がプリンセスに変身し、舞踏会で Elon Musk とダンスを踊る様子を描いたナラティブ動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-Margaret が長い茶髪の美しいプリンセスに変身し、優雅な舞踏会で Elon Musk が彼女にダンスを申し込む。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081225356766502912/img/xgJKf6DJWjTFa6HL.jpg" width="600" alt="プリンセスと Elon Musk の社交ダンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7936)**
-
-**作者:** [Margaret Ford](https://x.com/Margaretfit08) | **ソース:** [Link](https://x.com/Margaretfit08/status/2081225375900971458) | **公開日:** Jul 26, 2026
-
----
-### ネオンカラーのショウジョウコウカンチョウが急降下
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ネオンカラーのショウジョウコウカンチョウが昆虫を捕食するために急降下する、視覚的に印象的な動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-鮮やかなネオンレッドの羽を持ち、ネオンイエローとネオングリーンのアクセントが輝くショウジョウコウカンチョウの群れが、急降下して昆虫を捕食する。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081182930819231744/img/hzp0zEResowNlCZq.jpg" width="600" alt="ネオンカラーのショウジョウコウカンチョウが急降下">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7940)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2081182971319480548) | **公開日:** Jul 26, 2026
-
----
-### 蚊のダンクシュート阻止
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> バスケットボールをする蚊が、ダンクシュートの瞬間に叩き潰されるという、ユーモラスで躍動感のある動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-レインボー蚊 🦟 がダンクシュートを試みるも、対戦相手（ハエ 🪰）に強烈なブロックを食らい、叩き潰されてしまう様子。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081179353707167745/img/a700naDXF2YaXco6.jpg" width="600" alt="蚊のダンクシュート阻止">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7938)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2081179387534123067) | **公開日:** Jul 26, 2026
-
----
-### 不安げなレジ係のやり取り
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 顧客の対応に追われる 2 人の店員の様子を描いた、詳細なシネマティック・インタラクション・プロンプト。
-
-#### 📝 プロンプト
-
-```
-レジで顧客が店員を呼んでいるが、2 人の店員は口を閉ざしたまま、不安そうな表情を浮かべて体を揺らし、小さな声で何かを呟いている。カメラは 2 人の不安げな表情のクローズアップを交互に映し出す。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081031417375686656/img/iuKZJsC_mH64azoc.jpg" width="600" alt="不安げなレジ係のやり取り">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7903)**
-
-**作者:** [🍠クララ🍠](https://x.com/KURARA13520706) | **ソース:** [Link](https://x.com/KURARA13520706/status/2081031437067976850) | **公開日:** Jul 25, 2026
-
----
-### 黄金の宇宙的な花の抱擁
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 宇宙から降り注ぐ黄金のバラ、ルビー、蝶を描いた、非常に詳細なシネマティック・プロンプト。
-
-#### 📝 プロンプト
-
-```
-愛とハートの黄金のバラを数多く、大きく、そして無数に。さらに、たくさんのルビーのハート、輝くダイヤモンド、黒と金の蝶が遠い宇宙から降り注ぎ、私の体を包み込み、私と月を抱きしめる様子。ズームインして、腰から上のアングルで。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080908005642743808/img/eioWsa32AR4jbJ5Z.jpg" width="600" alt="黄金の宇宙的な花の抱擁">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7902)**
-
-**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **ソース:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2080908197171454427) | **公開日:** Jul 25, 2026
-
----
-### デスメタル風アニメーション（ボイスオーバー付き）
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャラクターが鎖を強く引く様子を、重厚なデスメタル調のボイスとBGMで演出したドラマチックな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-背景にはデスメタルが流れている。彼が鎖を強く引き、重厚な男性のデスメタルボイスでこう言う：「Fun Tiff X が私を作った。」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="デスメタル風アニメーション（ボイスオーバー付き）">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7849)**
-
-**作者:** [FUNTIFFX](https://x.com/AbstractTiffany) | **ソース:** [Link](https://x.com/AbstractTiffany/status/2080779188098027577) | **公開日:** Jul 24, 2026
-
----
-### ピアノの鍵盤の影のパフォーマンス
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> ピアノの鍵盤に見える影を、楽曲「チョップスティック」に合わせて演奏されているアニメーション動画に変換するクリエイティブなプロンプトです。
-
-#### 📝 プロンプト
-
-```
-写真の影がピアノの鍵盤のように見えます。この鍵盤が誰かに演奏されているかのように動き、楽曲「チョップスティック」が流れる動画を作成してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080752996926054400/img/XebJiDEY-e8vEgUd.jpg" width="600" alt="ピアノの鍵盤の影のパフォーマンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7850)**
-
-**作者:** [T드라이버](https://x.com/seongwoo0930) | **ソース:** [Link](https://x.com/seongwoo0930/status/2080753029775868225) | **公開日:** Jul 24, 2026
-
----
-### ランドシップの番犬 SF 動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 巨大な番犬がミュータントの侵入者からランドシップを守る様子を描いた SF 動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-ランドシップの番犬 🐕 🐾🐕
-
-脅威を察知すると、2 匹の番犬は巨大化し、強力な衝撃波を放って侵入者を無力化します。侵入者はキリンとハイエナが掛け合わさったミュータントです。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080740252281348096/img/LqQsozrWA4MZsJ9Y.jpg" width="600" alt="ランドシップの番犬 SF 動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7846)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2080740307377750343) | **公開日:** Jul 24, 2026
-
----
-### 反抗的なレーサーのウィリー走行動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 群衆から猛スピードで走り去りながら、ウィリー走行をして挑発的なジェスチャーをするレーサーのダイナミックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-どきな 🖕
-
-レーサーがウィリー走行で走り去りながら、左腕を突き上げ、見物人に対して中指を立てて挑発している 🖕。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080719958581874688/img/YfP2U7CUY1SGXkfu.jpg" width="600" alt="反抗的なレーサーのウィリー走行動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7847)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2080720053968789504) | **公開日:** Jul 24, 2026
-
----
-### Victoria's Secret のランウェイウォーキング
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> モデルの動きや衣装の揺れ方に関する具体的な指示を含めた、ファッションショーシーンのための詳細な動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-Victoria's Secret のランウェイモデルのような音楽を加え、着用している衣装の動きに合わせて、一歩一歩正確に歩く様子を表現してください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080599552080388096/img/bE4mW5QaLWMnMBNe.jpg" width="600" alt="Victoria's Secret のランウェイウォーキング">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7845)**
-
-**作者:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **ソース:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **公開日:** Jul 24, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2303,6 +2316,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-04T06:52:35.986Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-04T11:03:34.028Z</sub>
 
 </div>

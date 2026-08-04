@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2319** |
+| 📝 提示詞總數 | **2332** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-08-04** |
 
@@ -189,6 +189,177 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Woman in Black with Pansies
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> An artistic prompt for a woman in black attire with a decorative flower hat and a mysterious black cat in the background.
+
+#### 📝 提示詞
+
+```
+I become a woman with flowers and a hat. Red and white pansies decorate the black hat. The dress is also black, and the high-standing collar is also black. The background is yellow. Two eyes of a black cat were watching in the background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084531200178401280/img/m3THnztKrjW_IQ0_.jpg" width="600" alt="Woman in Black with Pansies">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8483)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **來源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2084531222873792716) | **發布時間:** Aug 4, 2026
+
+---
+### Roaring 20s Dancing Lady Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a period-style video of a lady dancing in a beaded dress with silver and pearl accessories
+
+#### 📝 提示詞
+
+```
+Lady dancing in roaring 20s beaded black and silver dress wearing beaded and white pearl accessories
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084395291059298304/img/TN2E76fSry2MhK_4.jpg" width="600" alt="Roaring 20s Dancing Lady Video">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8477)**
+
+**作者:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **來源:** [Link](https://x.com/Thoma31928Joy/status/2084395317718298644) | **發布時間:** Aug 3, 2026
+
+---
+### The Office Dwight and Michael Skit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-subject sitcom scene prompt featuring characters from The Office (US) in a meeting room setting.
+
+#### 📝 提示詞
+
+```
+Subject_definitions:
+<Subject 1> Dwight from the Office
+<Subject 2> Michael from the Office.
+<Subject 3> Jim from the Office
+
+Video_description:
+[Shot 1] Sitcom scene from The Office. Dwight and Michael in the meeting room.
+<Subject 2> in an annoyed look, turns his head toward <Subject 1>, and speaks with total sincerity, "[English] Dwight I swear to God if you mention one more thing about Grok Imagine, I am firing you on the spot."
+
+[Shot 2] Camera pans quickly vlog-style from <Subject 2> to <Subject 3>. <Subject 3> turns his head toward the camera and gives a small resigned shrug, his eyebrows raised slightly, mouth in a flat line.
+
+Soundscape: Quiet room tone typical of an office meeting room, the faint hum of fluorescent lighting, a chair creaking slightly as <Subject 1> sits upright. Outro song.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084358495386648576/img/mhnXXZU6HurnsgWT.jpg" width="600" alt="The Office Dwight and Michael Skit">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8475)**
+
+**作者:** [Ash](https://x.com/asheem01) | **來源:** [Link](https://x.com/asheem01/status/2084358528496484716) | **發布時間:** Aug 3, 2026
+
+---
+### Mountain Biking Trail Motion Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion generation prompt that takes a static photo of people on a trail and makes them begin riding their mountain bikes.
+
+#### 📝 提示詞
+
+```
+We’re on Specialized Turbo levos riding semi easy wooded trails. Make us start riding....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084305985343291392/img/EujwW4Dych7qA__x.jpg" width="600" alt="Mountain Biking Trail Motion Video">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8471)**
+
+**作者:** [KourX](https://x.com/SumXkourX) | **來源:** [Link](https://x.com/SumXkourX/status/2084319820728963158) | **發布時間:** Aug 3, 2026
+
+---
+### Quiet Evening Musical Reflection Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic video prompt for a peaceful evening scene involving musical instruments and a soulful, soaring atmosphere.
+
+#### 📝 提示詞
+
+```
+„In the quiet of the evening, my heart finds its peace, with every note I play, my soul begins to soar.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084318206374637568/img/NfHPO_ojDHbf99gn.jpg" width="600" alt="Quiet Evening Musical Reflection Video Prompt">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8480)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **來源:** [Link](https://x.com/monicamoonx/status/2084318293142257832) | **發布時間:** Aug 3, 2026
+
+---
+### AI Time Traveler Sci-Fi Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for a sci-fi sequence featuring a man discovering a time machine and meeting a robot.
+
+#### 📝 提示詞
+
+```
+Title: The AI Time Traveler
+
+[Scene 1 – A man presses a glowing button.]
+
+Man: Finally! My time machine works!
+
+(A robot suddenly appears in a flash.)
+
+Robot: Greetings, human from the primitive year 2026.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084273562639298560/img/WcsWVLHpjDRxsXBh.jpg" width="600" alt="AI Time Traveler Sci-Fi Scene">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8479)**
+
+**作者:** [badrinathG](https://x.com/badrinathG01) | **來源:** [Link](https://x.com/badrinathG01/status/2084273602371969439) | **發布時間:** Aug 3, 2026
+
+---
+### Living Beating Golden Heart
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal video featuring a living, beating golden heart displayed in a luxury foyer surrounded by roses.
+
+#### 📝 提示詞
+
+```
+A living golden heart that still beats on a sealed case that sits in the foyer of a luxury bouquet of roses that surround the podium home long after her death
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084262238630584320/img/0zNSX-3wn84Atn0L.jpg" width="600" alt="Living Beating Golden Heart">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8473)**
+
+**作者:** [Robin Vargas](https://x.com/ladiamondbaby) | **來源:** [Link](https://x.com/ladiamondbaby/status/2084262278447222838) | **發布時間:** Aug 3, 2026
+
+---
+### Zundamon and Deltamon Rapeseed Field
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed video generation prompt for Grok Imagine featuring characters Zundamon and Deltamon in a field of rapeseed, including specific instructions for character consistency and framing.
+
+#### 📝 提示詞
+
+```
+Maintain character consistency, the color of Deltamon's tail and the shape consistency of the tail tip. Move the 'HONEY' jar in the bottom right out of the frame. Zundamon and Deltamon carrying nectar in a field of rapeseed.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084227416608919552/img/Tbjyx60FcZhrMthH.jpg" width="600" alt="Zundamon and Deltamon Rapeseed Field">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8482)**
+
+**作者:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **來源:** [Link](https://x.com/FC_Cicadas/status/2084227436053696977) | **發布時間:** Aug 3, 2026
+
+---
 ### Red Echo Los Angeles Rooftop
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -209,11 +380,32 @@ You stand on the rooftop in downtown Los Angeles, the glowing blue knife still w
 **作者:** [Bentley Reed](https://x.com/BReed2069) | **來源:** [Link](https://x.com/BReed2069/status/2084156121472725348) | **發布時間:** Aug 3, 2026
 
 ---
-### Heart Shaped Water Ripples
+### Crocodile Consuming Flying Fish
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A slow-motion video prompt showing a single water drip creating heart-shaped ripples in a cup.
+> A dynamic wildlife video prompt of an emerald crocodile leaping from the water to consume a fish mid-flight.
+
+#### 📝 提示詞
+
+```
+Chomp 
+
+The second fish dives back into the water. A shiny black and emerald crocodile of immense size with yellow eyes jumps out of the water and consumes its flying prey. The prey vanishes in the crocodiles’ mouth.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084155029619904512/img/KCTJnX-GMbETmOw-.jpg" width="600" alt="Crocodile Consuming Flying Fish">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8476)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2084155119965221280) | **發布時間:** Aug 3, 2026
+
+---
+### Water Drip Heart Ripples
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A graceful video of a single water droplet falling into a cup and creating heart-shaped ripples on the surface.
 
 #### 📝 提示詞
 
@@ -221,7 +413,7 @@ You stand on the rooftop in downtown Los Angeles, the glowing blue knife still w
 One singular drip of water falls from the faucet landing in the cup of water creating heart shaped ripples heart shaped ripples
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084152112976633856/img/T07fPhIJn779BYpt.jpg" width="600" alt="Heart Shaped Water Ripples">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084152112976633856/img/T07fPhIJn779BYpt.jpg" width="600" alt="Water Drip Heart Ripples">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8399)**
 
@@ -266,6 +458,44 @@ Born This merger brings forth a new creation sparked by the former’s bond. A s
 **作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2084131117133611074) | **發布時間:** Aug 3, 2026
 
 ---
+### Hello Kitty McDonald's Incident
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A playful video prompt where Hello Kitty is grounded after taking a Happy Meal.
+
+#### 📝 提示詞
+
+```
+Hello kitty steals McDonalds happy meal her mom said kitty how dare steal McDonald’s happy meal your grounded for a thousand years he cries
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084130182881751040/img/cQu0hM7oYE2QhmSc.jpg" width="600" alt="Hello Kitty McDonald's Incident">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8478)**
+
+**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **來源:** [Link](https://x.com/DavontaDav5iv/status/2084130217803558927) | **發布時間:** Aug 3, 2026
+
+---
+### Hello Kitty Stealing Candy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt about Hello Kitty getting into trouble for stealing candy from a store.
+
+#### 📝 提示詞
+
+```
+Hello kitty steals the candy from the store: her mom said don’t steal the candy your in big trouble
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084129925561294848/img/CMVxaW0O3xYqFBF9.jpg" width="600" alt="Hello Kitty Stealing Candy">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8474)**
+
+**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **來源:** [Link](https://x.com/DavontaDav5iv/status/2084129945261871194) | **發布時間:** Aug 3, 2026
+
+---
 ### Astronaut on Ice Moon with Shooting Star
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -285,11 +515,11 @@ Astronaut on an ice moon under a giant ringed world. And at the end… a shootin
 **作者:** [𝓛𝓪𝓭𝔂𝓓𝓑𝓾𝓰0o ♕](https://x.com/DBug0o) | **來源:** [Link](https://x.com/DBug0o/status/2084123919842181313) | **發布時間:** Aug 3, 2026
 
 ---
-### Dancing Rock Creature Aliens
+### Project Hail Mary Techno Aliens
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fun video featuring the rock creature aliens from Project Hail Mary dancing to a modern techno beat.
+> A creative video prompt featuring the rock-like aliens from Project Hail Mary dancing to techno music.
 
 #### 📝 提示詞
 
@@ -297,7 +527,7 @@ Astronaut on an ice moon under a giant ringed world. And at the end… a shootin
 Give me the rock creature aliens from project Hail Mary dancing to a techno beat
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084102331147186176/img/PWtbafka4cJM_Tdv.jpg" width="600" alt="Dancing Rock Creature Aliens">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084102331147186176/img/PWtbafka4cJM_Tdv.jpg" width="600" alt="Project Hail Mary Techno Aliens">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8407)**
 
@@ -323,11 +553,11 @@ In Namibia’s hush, where the desert drinks rain, millions of lilies rise from 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2084100344049537284) | **發布時間:** Aug 3, 2026
 
 ---
-### Soylent Green Nature Memory
+### Soylent Green Tribute Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A somber video prompt of a person on their deathbed watching films of lost nature, inspired by Soylent Green.
+> A cinematic video prompt evoking a deathbed scene viewing lost natural landscapes, inspired by the film Soylent Green
 
 #### 📝 提示詞
 
@@ -335,7 +565,7 @@ In Namibia’s hush, where the desert drinks rain, millions of lilies rise from 
 A person dying on their deathbed, watching a beautiful video of magnificent landscapes that once existed in the past but are now gone forever, evoking the scene from Soylent Green where the beauty of lost nature is viewed through film
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084092584394190848/img/KNTxgxHBgCLV-7Qh.jpg" width="600" alt="Soylent Green Nature Memory">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084092584394190848/img/KNTxgxHBgCLV-7Qh.jpg" width="600" alt="Soylent Green Tribute Scene">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8398)**
 
@@ -359,6 +589,25 @@ My eyes are green make the sketch turn to life moving squinting with eye movemen
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8401)**
 
 **作者:** [Robin Vargas](https://x.com/ladiamondbaby) | **來源:** [Link](https://x.com/ladiamondbaby/status/2084049666128203959) | **發布時間:** Aug 2, 2026
+
+---
+### Lotus Position Energy Meditation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt showing a person in meditation radiating waves of energy, perfect for spiritual or wellness content.
+
+#### 📝 提示詞
+
+```
+Show me a person sitting in the lotus position radiating multiple energy waves ....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084042561174589440/img/Tv-IoWxVI6bqbWL9.jpg" width="600" alt="Lotus Position Energy Meditation Video">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8472)**
+
+**作者:** [Joel Rubin](https://x.com/rubinfrek) | **來源:** [Link](https://x.com/rubinfrek/status/2084042576659911038) | **發布時間:** Aug 2, 2026
 
 ---
 ### Squirrel Puddle Tackle
@@ -627,6 +876,25 @@ The car is propelled to a speed that enables it to vertically lift off making th
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8322)**
 
 **作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2083553676233171218) | **發布時間:** Aug 1, 2026
+
+---
+### Loving Winter Snow Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic and descriptive prompt for a serene winter video showing snow kissing the fields.
+
+#### 📝 提示詞
+
+```
+I wonder if the snow loves the trees and fields, since it kisses them so gently? And then it wraps them up snugly—you know, in a white blanket—and perhaps says: 'Sleep, my dears, until summer returns.'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083553414911242240/img/O-EgYhgPlemZA6La.jpg" width="600" alt="Loving Winter Snow Scene">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8481)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **來源:** [Link](https://x.com/monicamoonx/status/2083553651541393653) | **發布時間:** Aug 1, 2026
 
 ---
 ### Cinematic Face Close-Up Drinking Through Straw
@@ -2031,261 +2299,6 @@ Elon Musk 坐在 Starship 太空船內前往火星，並與 AI 進行對話
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2081410626375807091) | **發布時間:** Jul 26, 2026
 
 ---
-### 逼真的人類笑聲表現
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 針對 AI 影片的詳細表演指導，重點在於透過特定的肢體動作呈現逼真的人類笑聲。
-
-#### 📝 提示詞
-
-```
-第一次笑聲已經從她的鼻腔溢出，伴隨著一聲響亮的哼笑，她用手摀住嘴……但手沒能擋住：笑聲從指縫間爆發出來……半秒鐘純粹的驚愕沉默，隨後她徹底笑得停不下來。
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2081364983607091200/pu/img/gtz-6IIA5L8E5Dnc.jpg" width="600" alt="逼真的人類笑聲表現">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7937)**
-
-**作者:** [GenFlick | Making Movies with AI | Join Us](https://x.com/Genflickmovies) | **來源:** [Link](https://x.com/Genflickmovies/status/2081365155422556628) | **發布時間:** Jul 26, 2026
-
----
-### 奇幻發光藥水與漂浮草藥
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個以奇幻為靈感的提示詞，用於生成發光藥水與漂浮草藥的電影級鏡頭，營造出魔幻的電影氛圍。
-
-#### 📝 提示詞
-
-```
-一瓶發光的藥水。漂浮的草藥。場景彷彿直接取自奇幻電影。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081348701201559552/img/gQ_MkREdMzn5aM0M.jpg" width="600" alt="奇幻發光藥水與漂浮草藥">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7945)**
-
-**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **來源:** [Link](https://x.com/MarioNawfal/status/2081358875559682390) | **發布時間:** Jul 26, 2026
-
----
-### 走鵑廚房窗戶
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段複雜的影片場景描述，內容為一隻走鵑正向廚房內窺視，並包含各種居家細節。
-
-#### 📝 提示詞
-
-```
-走鵑降落在廚房窗台上並向窗內窺視
-廚房流理台上放置著裝有水和檸檬片的玻璃水瓶
-一條酸種麵包
-果汁機
-紅酒瓶旁擺放著起司與水果盤
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081255607697641472/img/oC9lkHjNLlWdKnIi.jpg" width="600" alt="走鵑廚房窗戶">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7939)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2081255642959147339) | **發布時間:** Jul 26, 2026
-
----
-### 公主與 Elon Musk 的舞廳共舞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個敘事影片提示詞，描述一名女子變身為公主，並與 Elon Musk 在舞廳中跳舞的場景。
-
-#### 📝 提示詞
-
-```
-Margaret 變身為留著棕色長髮的絕美公主，Elon Musk 在優雅的舞廳中邀請她共舞。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081225356766502912/img/xgJKf6DJWjTFa6HL.jpg" width="600" alt="公主與 Elon Musk 的舞廳共舞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7936)**
-
-**作者:** [Margaret Ford](https://x.com/Margaretfit08) | **來源:** [Link](https://x.com/Margaretfit08/status/2081225375900971458) | **發布時間:** Jul 26, 2026
-
----
-### 霓虹色紅雀俯衝
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個視覺效果驚人的影片提示詞，描繪了霓虹色的紅雀俯衝捕捉昆蟲的場景。
-
-#### 📝 提示詞
-
-```
-一群閃耀著霓虹紅光，並帶有霓虹黃與霓虹綠亮點的紅雀俯衝而下，將昆蟲吞噬。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081182930819231744/img/hzp0zEResowNlCZq.jpg" width="600" alt="霓虹色紅雀俯衝">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7940)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2081182971319480548) | **發布時間:** Jul 26, 2026
-
----
-### 蚊子灌籃遭拒
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個幽默且充滿動感的影片提示詞，描述一隻蚊子在打籃球時，於灌籃過程中被拍扁的場景。
-
-#### 📝 提示詞
-
-```
-彩虹蚊子 🦟 在嘗試灌籃時，被對手（一隻 🪰）狠狠蓋火鍋並拍扁。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081179353707167745/img/a700naDXF2YaXco6.jpg" width="600" alt="蚊子灌籃遭拒">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7938)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2081179387534123067) | **發布時間:** Jul 26, 2026
-
----
-### 焦慮的收銀員互動
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一個詳細的電影感互動提示詞，描述兩名店員對顧客做出反應的情境。
-
-#### 📝 提示詞
-
-```
-一名顧客在收銀台呼叫服務，但兩名店員發出細微且模糊的聲音，身體搖晃著；鏡頭在他們焦慮表情的特寫之間交替切換，而他們的嘴始終緊閉。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081031417375686656/img/iuKZJsC_mH64azoc.jpg" width="600" alt="焦慮的收銀員互動">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7903)**
-
-**作者:** [🍠クララ🍠](https://x.com/KURARA13520706) | **來源:** [Link](https://x.com/KURARA13520706/status/2081031437067976850) | **發布時間:** Jul 25, 2026
-
----
-### 金色宇宙花卉擁抱
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一個高度細緻的電影感提示詞，描繪金玫瑰、紅寶石與蝴蝶從太空墜落的景象。
-
-#### 📝 提示詞
-
-```
-更多充滿愛意與心形的金玫瑰，數量眾多且巨大，伴隨著許多紅寶石心、閃耀鑽石以及黑金蝴蝶從遙遠的宇宙墜落，圍繞著我的身體，將我和月亮緊緊擁抱。拉近鏡頭。取景位置為腰部以上。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080908005642743808/img/eioWsa32AR4jbJ5Z.jpg" width="600" alt="金色宇宙花卉擁抱">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7902)**
-
-**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **來源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2080908197171454427) | **發布時間:** Jul 25, 2026
-
----
-### 死亡金屬風格動畫與配音
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿戲劇性的影片提示詞，畫面包含角色猛力拉扯鎖鏈，並搭配低沉的死亡金屬風格配音與背景音樂。
-
-#### 📝 提示詞
-
-```
-背景播放著死亡金屬音樂。他猛力拉扯鎖鏈，並以低沉的男性死亡金屬嗓音說道：Fun Tiff X 創造了我。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="死亡金屬風格動畫與配音">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7849)**
-
-**作者:** [FUNTIFFX](https://x.com/AbstractTiffany) | **來源:** [Link](https://x.com/AbstractTiffany/status/2080779188098027577) | **發布時間:** Jul 24, 2026
-
----
-### 鋼琴鍵影表演
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> 一個創意提示詞，能將酷似鋼琴鍵的陰影轉化為動畫影片，讓琴鍵隨著《筷子進行曲》的旋律彈奏。
-
-#### 📝 提示詞
-
-```
-照片中的陰影看起來像鋼琴鍵；請製作一段影片，讓這些琴鍵像有人在彈奏一樣移動，並配上《筷子進行曲》的音樂。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080752996926054400/img/XebJiDEY-e8vEgUd.jpg" width="600" alt="鋼琴鍵影表演">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7850)**
-
-**作者:** [T드라이버](https://x.com/seongwoo0930) | **來源:** [Link](https://x.com/seongwoo0930/status/2080753029775868225) | **發布時間:** Jul 24, 2026
-
----
-### 陸地艦護衛犬科幻影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段科幻影片提示詞，描繪了巨大的護衛犬保護陸地艦免受變種混種入侵者攻擊的場景。
-
-#### 📝 提示詞
-
-```
-陸地艦護衛犬 🐕 🐾🐕
-
-當感應到威脅時，這對護衛犬會體型倍增，並發出強大的衝擊波，使那些由鬣狗與長頸鹿混種而成的變種入侵者瞬間癱瘓。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080740252281348096/img/LqQsozrWA4MZsJ9Y.jpg" width="600" alt="陸地艦護衛犬科幻影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7846)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2080740307377750343) | **發布時間:** Jul 24, 2026
-
----
-### 叛逆賽車手翹孤輪影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段動態影片提示詞，描述一名賽車手在人群中加速離去時，表演翹孤輪並做出挑釁手勢。
-
-#### 📝 提示詞
-
-```
-滾開，混蛋 🖕
-
-賽車手加速離去並表演翹孤輪，同時挑釁地舉起左臂，向旁觀者比出中指 🖕。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080719958581874688/img/YfP2U7CUY1SGXkfu.jpg" width="600" alt="叛逆賽車手翹孤輪影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7847)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2080720053968789504) | **發布時間:** Jul 24, 2026
-
----
-### Victoria's Secret 伸展台走秀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的時尚秀場景影片提示詞，包含對模特兒動作及服裝流動感的具體指令。
-
-#### 📝 提示詞
-
-```
-開始加入一些音樂，呈現出 Victoria's Secret 伸展台模特兒的氣勢，並讓每一個動作都精準地配合她所穿著服裝的流動感
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080599552080388096/img/bE4mW5QaLWMnMBNe.jpg" width="600" alt="Victoria's Secret 伸展台走秀">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7845)**
-
-**作者:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **來源:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **發布時間:** Jul 24, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2347,6 +2360,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-04T06:52:35.187Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-04T11:03:32.653Z</sub>
 
 </div>

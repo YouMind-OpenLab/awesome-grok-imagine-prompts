@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2319** |
+| 📝 총 프롬프트 수 | **2332** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-08-04** |
 
@@ -189,6 +189,177 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Woman in Black with Pansies
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> An artistic prompt for a woman in black attire with a decorative flower hat and a mysterious black cat in the background.
+
+#### 📝 프롬프트
+
+```
+I become a woman with flowers and a hat. Red and white pansies decorate the black hat. The dress is also black, and the high-standing collar is also black. The background is yellow. Two eyes of a black cat were watching in the background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084531200178401280/img/m3THnztKrjW_IQ0_.jpg" width="600" alt="Woman in Black with Pansies">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8483)**
+
+**작성자:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **출처:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2084531222873792716) | **게시일:** Aug 4, 2026
+
+---
+### Roaring 20s Dancing Lady Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a period-style video of a lady dancing in a beaded dress with silver and pearl accessories
+
+#### 📝 프롬프트
+
+```
+Lady dancing in roaring 20s beaded black and silver dress wearing beaded and white pearl accessories
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084395291059298304/img/TN2E76fSry2MhK_4.jpg" width="600" alt="Roaring 20s Dancing Lady Video">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8477)**
+
+**작성자:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **출처:** [Link](https://x.com/Thoma31928Joy/status/2084395317718298644) | **게시일:** Aug 3, 2026
+
+---
+### The Office Dwight and Michael Skit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-subject sitcom scene prompt featuring characters from The Office (US) in a meeting room setting.
+
+#### 📝 프롬프트
+
+```
+Subject_definitions:
+<Subject 1> Dwight from the Office
+<Subject 2> Michael from the Office.
+<Subject 3> Jim from the Office
+
+Video_description:
+[Shot 1] Sitcom scene from The Office. Dwight and Michael in the meeting room.
+<Subject 2> in an annoyed look, turns his head toward <Subject 1>, and speaks with total sincerity, "[English] Dwight I swear to God if you mention one more thing about Grok Imagine, I am firing you on the spot."
+
+[Shot 2] Camera pans quickly vlog-style from <Subject 2> to <Subject 3>. <Subject 3> turns his head toward the camera and gives a small resigned shrug, his eyebrows raised slightly, mouth in a flat line.
+
+Soundscape: Quiet room tone typical of an office meeting room, the faint hum of fluorescent lighting, a chair creaking slightly as <Subject 1> sits upright. Outro song.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084358495386648576/img/mhnXXZU6HurnsgWT.jpg" width="600" alt="The Office Dwight and Michael Skit">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8475)**
+
+**작성자:** [Ash](https://x.com/asheem01) | **출처:** [Link](https://x.com/asheem01/status/2084358528496484716) | **게시일:** Aug 3, 2026
+
+---
+### Mountain Biking Trail Motion Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion generation prompt that takes a static photo of people on a trail and makes them begin riding their mountain bikes.
+
+#### 📝 프롬프트
+
+```
+We’re on Specialized Turbo levos riding semi easy wooded trails. Make us start riding....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084305985343291392/img/EujwW4Dych7qA__x.jpg" width="600" alt="Mountain Biking Trail Motion Video">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8471)**
+
+**작성자:** [KourX](https://x.com/SumXkourX) | **출처:** [Link](https://x.com/SumXkourX/status/2084319820728963158) | **게시일:** Aug 3, 2026
+
+---
+### Quiet Evening Musical Reflection Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic video prompt for a peaceful evening scene involving musical instruments and a soulful, soaring atmosphere.
+
+#### 📝 프롬프트
+
+```
+„In the quiet of the evening, my heart finds its peace, with every note I play, my soul begins to soar.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084318206374637568/img/NfHPO_ojDHbf99gn.jpg" width="600" alt="Quiet Evening Musical Reflection Video Prompt">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8480)**
+
+**작성자:** [Myluna](https://x.com/monicamoonx) | **출처:** [Link](https://x.com/monicamoonx/status/2084318293142257832) | **게시일:** Aug 3, 2026
+
+---
+### AI Time Traveler Sci-Fi Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for a sci-fi sequence featuring a man discovering a time machine and meeting a robot.
+
+#### 📝 프롬프트
+
+```
+Title: The AI Time Traveler
+
+[Scene 1 – A man presses a glowing button.]
+
+Man: Finally! My time machine works!
+
+(A robot suddenly appears in a flash.)
+
+Robot: Greetings, human from the primitive year 2026.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084273562639298560/img/WcsWVLHpjDRxsXBh.jpg" width="600" alt="AI Time Traveler Sci-Fi Scene">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8479)**
+
+**작성자:** [badrinathG](https://x.com/badrinathG01) | **출처:** [Link](https://x.com/badrinathG01/status/2084273602371969439) | **게시일:** Aug 3, 2026
+
+---
+### Living Beating Golden Heart
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal video featuring a living, beating golden heart displayed in a luxury foyer surrounded by roses.
+
+#### 📝 프롬프트
+
+```
+A living golden heart that still beats on a sealed case that sits in the foyer of a luxury bouquet of roses that surround the podium home long after her death
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084262238630584320/img/0zNSX-3wn84Atn0L.jpg" width="600" alt="Living Beating Golden Heart">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8473)**
+
+**작성자:** [Robin Vargas](https://x.com/ladiamondbaby) | **출처:** [Link](https://x.com/ladiamondbaby/status/2084262278447222838) | **게시일:** Aug 3, 2026
+
+---
+### Zundamon and Deltamon Rapeseed Field
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed video generation prompt for Grok Imagine featuring characters Zundamon and Deltamon in a field of rapeseed, including specific instructions for character consistency and framing.
+
+#### 📝 프롬프트
+
+```
+Maintain character consistency, the color of Deltamon's tail and the shape consistency of the tail tip. Move the 'HONEY' jar in the bottom right out of the frame. Zundamon and Deltamon carrying nectar in a field of rapeseed.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084227416608919552/img/Tbjyx60FcZhrMthH.jpg" width="600" alt="Zundamon and Deltamon Rapeseed Field">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8482)**
+
+**작성자:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **출처:** [Link](https://x.com/FC_Cicadas/status/2084227436053696977) | **게시일:** Aug 3, 2026
+
+---
 ### Red Echo Los Angeles Rooftop
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -209,11 +380,32 @@ You stand on the rooftop in downtown Los Angeles, the glowing blue knife still w
 **작성자:** [Bentley Reed](https://x.com/BReed2069) | **출처:** [Link](https://x.com/BReed2069/status/2084156121472725348) | **게시일:** Aug 3, 2026
 
 ---
-### Heart Shaped Water Ripples
+### Crocodile Consuming Flying Fish
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A slow-motion video prompt showing a single water drip creating heart-shaped ripples in a cup.
+> A dynamic wildlife video prompt of an emerald crocodile leaping from the water to consume a fish mid-flight.
+
+#### 📝 프롬프트
+
+```
+Chomp 
+
+The second fish dives back into the water. A shiny black and emerald crocodile of immense size with yellow eyes jumps out of the water and consumes its flying prey. The prey vanishes in the crocodiles’ mouth.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084155029619904512/img/KCTJnX-GMbETmOw-.jpg" width="600" alt="Crocodile Consuming Flying Fish">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8476)**
+
+**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2084155119965221280) | **게시일:** Aug 3, 2026
+
+---
+### Water Drip Heart Ripples
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A graceful video of a single water droplet falling into a cup and creating heart-shaped ripples on the surface.
 
 #### 📝 프롬프트
 
@@ -221,7 +413,7 @@ You stand on the rooftop in downtown Los Angeles, the glowing blue knife still w
 One singular drip of water falls from the faucet landing in the cup of water creating heart shaped ripples heart shaped ripples
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084152112976633856/img/T07fPhIJn779BYpt.jpg" width="600" alt="Heart Shaped Water Ripples">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084152112976633856/img/T07fPhIJn779BYpt.jpg" width="600" alt="Water Drip Heart Ripples">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8399)**
 
@@ -266,6 +458,44 @@ Born This merger brings forth a new creation sparked by the former’s bond. A s
 **작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2084131117133611074) | **게시일:** Aug 3, 2026
 
 ---
+### Hello Kitty McDonald's Incident
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A playful video prompt where Hello Kitty is grounded after taking a Happy Meal.
+
+#### 📝 프롬프트
+
+```
+Hello kitty steals McDonalds happy meal her mom said kitty how dare steal McDonald’s happy meal your grounded for a thousand years he cries
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084130182881751040/img/cQu0hM7oYE2QhmSc.jpg" width="600" alt="Hello Kitty McDonald's Incident">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8478)**
+
+**작성자:** [Davonta Davis](https://x.com/DavontaDav5iv) | **출처:** [Link](https://x.com/DavontaDav5iv/status/2084130217803558927) | **게시일:** Aug 3, 2026
+
+---
+### Hello Kitty Stealing Candy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt about Hello Kitty getting into trouble for stealing candy from a store.
+
+#### 📝 프롬프트
+
+```
+Hello kitty steals the candy from the store: her mom said don’t steal the candy your in big trouble
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084129925561294848/img/CMVxaW0O3xYqFBF9.jpg" width="600" alt="Hello Kitty Stealing Candy">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8474)**
+
+**작성자:** [Davonta Davis](https://x.com/DavontaDav5iv) | **출처:** [Link](https://x.com/DavontaDav5iv/status/2084129945261871194) | **게시일:** Aug 3, 2026
+
+---
 ### Astronaut on Ice Moon with Shooting Star
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -285,11 +515,11 @@ Astronaut on an ice moon under a giant ringed world. And at the end… a shootin
 **작성자:** [𝓛𝓪𝓭𝔂𝓓𝓑𝓾𝓰0o ♕](https://x.com/DBug0o) | **출처:** [Link](https://x.com/DBug0o/status/2084123919842181313) | **게시일:** Aug 3, 2026
 
 ---
-### Dancing Rock Creature Aliens
+### Project Hail Mary Techno Aliens
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fun video featuring the rock creature aliens from Project Hail Mary dancing to a modern techno beat.
+> A creative video prompt featuring the rock-like aliens from Project Hail Mary dancing to techno music.
 
 #### 📝 프롬프트
 
@@ -297,7 +527,7 @@ Astronaut on an ice moon under a giant ringed world. And at the end… a shootin
 Give me the rock creature aliens from project Hail Mary dancing to a techno beat
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084102331147186176/img/PWtbafka4cJM_Tdv.jpg" width="600" alt="Dancing Rock Creature Aliens">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084102331147186176/img/PWtbafka4cJM_Tdv.jpg" width="600" alt="Project Hail Mary Techno Aliens">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8407)**
 
@@ -323,11 +553,11 @@ In Namibia’s hush, where the desert drinks rain, millions of lilies rise from 
 **작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2084100344049537284) | **게시일:** Aug 3, 2026
 
 ---
-### Soylent Green Nature Memory
+### Soylent Green Tribute Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A somber video prompt of a person on their deathbed watching films of lost nature, inspired by Soylent Green.
+> A cinematic video prompt evoking a deathbed scene viewing lost natural landscapes, inspired by the film Soylent Green
 
 #### 📝 프롬프트
 
@@ -335,7 +565,7 @@ In Namibia’s hush, where the desert drinks rain, millions of lilies rise from 
 A person dying on their deathbed, watching a beautiful video of magnificent landscapes that once existed in the past but are now gone forever, evoking the scene from Soylent Green where the beauty of lost nature is viewed through film
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084092584394190848/img/KNTxgxHBgCLV-7Qh.jpg" width="600" alt="Soylent Green Nature Memory">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084092584394190848/img/KNTxgxHBgCLV-7Qh.jpg" width="600" alt="Soylent Green Tribute Scene">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8398)**
 
@@ -359,6 +589,25 @@ My eyes are green make the sketch turn to life moving squinting with eye movemen
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8401)**
 
 **작성자:** [Robin Vargas](https://x.com/ladiamondbaby) | **출처:** [Link](https://x.com/ladiamondbaby/status/2084049666128203959) | **게시일:** Aug 2, 2026
+
+---
+### Lotus Position Energy Meditation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt showing a person in meditation radiating waves of energy, perfect for spiritual or wellness content.
+
+#### 📝 프롬프트
+
+```
+Show me a person sitting in the lotus position radiating multiple energy waves ....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084042561174589440/img/Tv-IoWxVI6bqbWL9.jpg" width="600" alt="Lotus Position Energy Meditation Video">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8472)**
+
+**작성자:** [Joel Rubin](https://x.com/rubinfrek) | **출처:** [Link](https://x.com/rubinfrek/status/2084042576659911038) | **게시일:** Aug 2, 2026
 
 ---
 ### Squirrel Puddle Tackle
@@ -627,6 +876,25 @@ The car is propelled to a speed that enables it to vertically lift off making th
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8322)**
 
 **작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2083553676233171218) | **게시일:** Aug 1, 2026
+
+---
+### Loving Winter Snow Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic and descriptive prompt for a serene winter video showing snow kissing the fields.
+
+#### 📝 프롬프트
+
+```
+I wonder if the snow loves the trees and fields, since it kisses them so gently? And then it wraps them up snugly—you know, in a white blanket—and perhaps says: 'Sleep, my dears, until summer returns.'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083553414911242240/img/O-EgYhgPlemZA6La.jpg" width="600" alt="Loving Winter Snow Scene">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8481)**
+
+**작성자:** [Myluna](https://x.com/monicamoonx) | **출처:** [Link](https://x.com/monicamoonx/status/2083553651541393653) | **게시일:** Aug 1, 2026
 
 ---
 ### Cinematic Face Close-Up Drinking Through Straw
@@ -2031,261 +2299,6 @@ Grok, 샌드웜의 머리를 돌려줘. 그게 바로 녀석이 땅을 파고 �
 **작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2081410626375807091) | **게시일:** Jul 26, 2026
 
 ---
-### 실감 나는 인간의 웃음 연기
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 구체적인 신체적 단서를 활용하여 실감 나는 인간의 웃음을 구현하기 위한 AI 비디오 상세 연기 지침입니다.
-
-#### 📝 프롬프트
-
-```
-첫 웃음이 이미 코를 통해 터져 나옵니다. 크게 한 번 콧방귀를 뀌며 손으로 입을 막아보지만... 손은 역부족입니다. 웃음이 손 사이로 터져 나옵니다. 0.5초간의 완벽하고 멍한 정적, 그리고 그녀는 완전히 웃음 속에 빠져듭니다.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2081364983607091200/pu/img/gtz-6IIA5L8E5Dnc.jpg" width="600" alt="실감 나는 인간의 웃음 연기">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7937)**
-
-**작성자:** [GenFlick | Making Movies with AI | Join Us](https://x.com/Genflickmovies) | **출처:** [Link](https://x.com/Genflickmovies/status/2081365155422556628) | **게시일:** Jul 26, 2026
-
----
-### 판타지풍의 빛나는 물약과 공중에 떠 있는 허브
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빛나는 물약과 공중에 떠 있는 허브를 담은 영화적 장면을 위한 판타지풍 프롬프트로, 마법 같은 영화적 분위기를 연출합니다.
-
-#### 📝 프롬프트
-
-```
-빛나는 물약. 공중에 떠 있는 허브. 마치 판타지 영화 속 한 장면을 그대로 옮겨놓은 듯한 분위기.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081348701201559552/img/gQ_MkREdMzn5aM0M.jpg" width="600" alt="판타지풍의 빛나는 물약과 공중에 떠 있는 허브">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7945)**
-
-**작성자:** [Mario Nawfal](https://x.com/MarioNawfal) | **출처:** [Link](https://x.com/MarioNawfal/status/2081358875559682390) | **게시일:** Jul 26, 2026
-
----
-### 로드러너 주방 창문
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 다양한 가정집 디테일이 담긴 주방을 들여다보는 로드러너가 등장하는 영상의 복합적인 장면 묘사.
-
-#### 📝 프롬프트
-
-```
-로드러너가 주방 창틀에 내려앉아 창문 안을 들여다본다
-주방 조리대 위에는 물이 담긴 유리 피처와 슬라이스한 레몬이 놓여 있다
-사워도우 빵 한 덩이
-블렌더
-레드 와인 병 옆에 놓인 치즈와 과일 접시
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081255607697641472/img/oC9lkHjNLlWdKnIi.jpg" width="600" alt="로드러너 주방 창문">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7939)**
-
-**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2081255642959147339) | **게시일:** Jul 26, 2026
-
----
-### 공주와 Elon Musk 의 무도회 댄스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 한 여성이 공주로 변신해 Elon Musk 와 무도회장에서 춤을 추는 서사적 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Margaret 이 긴 갈색 머리의 아름다운 공주로 변신하고, Elon Musk 가 우아한 무도회장에서 그녀에게 춤을 청합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081225356766502912/img/xgJKf6DJWjTFa6HL.jpg" width="600" alt="공주와 Elon Musk 의 무도회 댄스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7936)**
-
-**작성자:** [Margaret Ford](https://x.com/Margaretfit08) | **출처:** [Link](https://x.com/Margaretfit08/status/2081225375900971458) | **게시일:** Jul 26, 2026
-
----
-### 네온 카디널 새들의 급강하
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 네온 색상의 카디널 새들이 곤충을 사냥하기 위해 급강하하는 모습을 담은 시각적으로 강렬한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-눈부신 네온 레드 색상의 카디널 새 무리가 네온 옐로우와 네온 그린 하이라이트를 뽐내며 급강하하여 곤충들을 잡아먹습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081182930819231744/img/hzp0zEResowNlCZq.jpg" width="600" alt="네온 카디널 새들의 급강하">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7940)**
-
-**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2081182971319480548) | **게시일:** Jul 26, 2026
-
----
-### 모기 슬램덩크 거부
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 농구를 하던 모기가 덩크슛을 시도하다가 파리채에 맞아 납작해지는 유머러스하고 역동적인 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-무지개 모기 🦟가 슬램덩크를 시도하다가 상대 선수(🪰)에게 강력한 블로킹을 당해 납작하게 찌부러지는 모습입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081179353707167745/img/a700naDXF2YaXco6.jpg" width="600" alt="모기 슬램덩크 거부">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7938)**
-
-**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2081179387534123067) | **게시일:** Jul 26, 2026
-
----
-### 불안해하는 계산대 점원들의 상호작용
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 고객의 반응에 대응하는 두 점원의 모습을 담은 상세한 영화적 상호작용 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-한 고객이 계산대에서 서비스를 요청하고 있지만, 두 점원은 입을 굳게 다문 채 불안한 표정을 짓고 있습니다. 카메라는 이들의 불안한 표정을 클로즈업으로 번갈아 비추며, 점원들은 몸을 흔들거리며 작은 목소리로 웅얼거립니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081031417375686656/img/iuKZJsC_mH64azoc.jpg" width="600" alt="불안해하는 계산대 점원들의 상호작용">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7903)**
-
-**작성자:** [🍠クララ🍠](https://x.com/KURARA13520706) | **출처:** [Link](https://x.com/KURARA13520706/status/2081031437067976850) | **게시일:** Jul 25, 2026
-
----
-### 황금빛 우주 꽃의 포옹
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 우주에서 떨어지는 황금 장미, 루비, 나비가 포함된 매우 상세한 영화적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-사랑과 마음을 상징하는 수많은 황금 장미가 크고 풍성하게 피어나고, 그와 함께 수많은 루비 하트와 빛나는 다이아몬드, 그리고 검은색과 금색의 나비들이 먼 우주에서 떨어져 내립니다. 이 꽃들이 내 몸과 달을 감싸 안는 모습을 연출해 주세요. 더 가까이 줌인하고, 허리 위쪽으로 구도를 잡아주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080908005642743808/img/eioWsa32AR4jbJ5Z.jpg" width="600" alt="황금빛 우주 꽃의 포옹">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7902)**
-
-**작성자:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **출처:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2080908197171454427) | **게시일:** Jul 25, 2026
-
----
-### 데스 메탈 애니메이션과 보이스오버
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 깊은 데스 메탈 목소리의 내레이션과 배경 음악이 어우러진, 캐릭터가 사슬을 잡아당기는 드라마틱한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-배경으로 데스 메탈 음악이 흐릅니다. 그는 사슬을 잡아당기며 굵은 남성 데스 메탈 목소리로 말합니다: Fun Tiff X가 나를 만들었다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="데스 메탈 애니메이션과 보이스오버">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7849)**
-
-**작성자:** [FUNTIFFX](https://x.com/AbstractTiffany) | **출처:** [Link](https://x.com/AbstractTiffany/status/2080779188098027577) | **게시일:** Jul 24, 2026
-
----
-### 피아노 건반 그림자 퍼포먼스
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> 피아노 건반을 닮은 그림자를 '젓가락 행진곡'에 맞춰 연주되는 애니메이션 영상으로 변환하는 창의적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-사진 속 그림자가 피아노 건반처럼 보입니다. 누군가 연주하는 것처럼 건반이 움직이고, '젓가락 행진곡'이 흘러나오는 영상으로 만들어 주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080752996926054400/img/XebJiDEY-e8vEgUd.jpg" width="600" alt="피아노 건반 그림자 퍼포먼스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7850)**
-
-**작성자:** [T드라이버](https://x.com/seongwoo0930) | **출처:** [Link](https://x.com/seongwoo0930/status/2080753029775868225) | **게시일:** Jul 24, 2026
-
----
-### 랜드십(Landship) 경비견 SF 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 랜드십을 보호하는 거대한 경비견들이 돌연변이 하이브리드 침입자들과 맞서는 모습을 담은 SF 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-랜드십(Landship) 경비견 🐕 🐾🐕
-
-위협이 감지되면 두 마리의 경비견은 몸집이 커지며 강력한 충격파를 발산합니다. 이 충격파는 기린과 교배된 돌연변이 하이에나 형태의 침입자들을 무력화시킵니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080740252281348096/img/LqQsozrWA4MZsJ9Y.jpg" width="600" alt="랜드십(Landship) 경비견 SF 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7846)**
-
-**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2080740307377750343) | **게시일:** Jul 24, 2026
-
----
-### 반항적인 레이서의 윌리 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 군중을 뒤로하고 속도를 내며 윌리를 선보이고 반항적인 제스처를 취하는 레이서의 역동적인 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-비켜, 다들 🖕
-
-레이서가 윌리를 하며 속도를 내고, 왼팔을 들어 올려 구경꾼들에게 가운데 손가락을 치켜세우며 반항적으로 질주합니다 🖕.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080719958581874688/img/YfP2U7CUY1SGXkfu.jpg" width="600" alt="반항적인 레이서의 윌리 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7847)**
-
-**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2080720053968789504) | **게시일:** Jul 24, 2026
-
----
-### Victoria's Secret 런웨이 워킹
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 모델의 움직임과 의상의 흐름에 대한 구체적인 지침이 포함된 패션쇼 장면용 상세 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Victoria's Secret 런웨이 모델처럼 승리감 넘치는 음악을 추가하고, 모델이 착용한 의상의 흐름에 맞춰 모든 동작을 정밀하게 연출하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080599552080388096/img/bE4mW5QaLWMnMBNe.jpg" width="600" alt="Victoria's Secret 런웨이 워킹">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7845)**
-
-**작성자:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **출처:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **게시일:** Jul 24, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2347,6 +2360,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-04T06:52:37.153Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-04T11:03:34.932Z</sub>
 
 </div>
