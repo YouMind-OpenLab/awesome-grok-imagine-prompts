@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2332** |
+| 📝 提示词总数 | **2343** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-08-05** |
 
@@ -189,6 +189,197 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### X-Man Futuristic Headquarters Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring X-Man walking through a high-tech headquarters with slow-motion camera tracking and glowing digital elements.
+
+#### 📝 提示词
+
+```
+X-MAN confidently walks through a futuristic black-and-green headquarters inspired by X. Massive digital screens display trending posts, rockets, electric vehicles, financial charts, Robinhood-green holograms and glowing X logos. Every step emits green energy pulses. The camera tracks backwards in slow motion while sparks and digital particles float around him. Hollywood-level cinematic lighting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084872047528964096/img/J0Dhu_Yrxa5JJbxv.jpg" width="600" alt="X-Man Futuristic Headquarters Walk">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8539)**
+
+**作者:** [Optimistic Degen](https://x.com/OptimisticD3G3n) | **来源:** [Link](https://x.com/OptimisticD3G3n/status/2084872071956611254) | **发布时间:** Aug 5, 2026
+
+---
+### Celestial Angelic Horse Gallop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dreamy video prompt featuring an angelic figure galloping through the sky on a winged white horse.
+
+#### 📝 提示词
+
+```
+Me galloping in the skys in a white horse 
+Me dress like an angel with wings galloping in a white horse with wings too
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084807676987359234/img/EZFTxyT7DJjcg_6R.jpg" width="600" alt="Celestial Angelic Horse Gallop">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8541)**
+
+**作者:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **来源:** [Link](https://x.com/AngieRamos2030/status/2084807779319955856) | **发布时间:** Aug 5, 2026
+
+---
+### Lion in Neon Nightclub
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a majestic white-maned lion in a neon-lit nightclub setting with a character named Sasha.
+
+#### 📝 提示词
+
+```
+The majestic white-maned lion with green chest stands next to non-binary Sasha in the neon nightclub. Soft camera movementos
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084800685011525632/img/igcNDJOd9EPid6y3.jpg" width="600" alt="Lion in Neon Nightclub">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8542)**
+
+**作者:** [Cyperpienso](https://x.com/cyperpienso) | **来源:** [Link](https://x.com/cyperpienso/status/2084800727894122548) | **发布时间:** Aug 5, 2026
+
+---
+### Monochrome to Color Film Reel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic video prompt depicting a silent film memory transitioning from grayscale to vibrant color.
+
+#### 📝 提示词
+
+```
+Fading frames of a monochrome past flicker like a silent film, each memory etched in grayscale—shadows stretching long, laughter muted, love a whisper lost in the static. But now, a slow bloom of radiant hues washes over the reel, saturating every moment with warmth, joy, and devotion. Sepia tones dissolve into golden light, washed-out skies reborn in dazzling blues, and the dull hum of yesterday is replaced by the melody of life, vibrant and full. Love's gentle hand reaches through the celluloid haze, painting over sorrow, stitching sunlight into the fabric of time, until the story no longer drifts in muted silence but sings—an endless symphony of color, rebirth, and heart.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084783660230721536/img/Ygn3KWSz5KkG0CB5.jpg" width="600" alt="Monochrome to Color Film Reel">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8545)**
+
+**作者:** [GrokPromptShare](https://x.com/GrokPromptShare) | **来源:** [Link](https://x.com/GrokPromptShare/status/2084783783731990763) | **发布时间:** Aug 4, 2026
+
+---
+### Martian Child Emotional Short Film
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for an emotional scene about a girl born on Mars who longs to see Earth.
+
+#### 📝 提示词
+
+```
+A quiet, emotional short film about a girl born on Mars who has never seen Earth… and refuses to believe it when she finally does.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084662073053851648/img/z9KvSJO6M55SXBDk.jpg" width="600" alt="Martian Child Emotional Short Film">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8548)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2084662494052991478) | **发布时间:** Aug 4, 2026
+
+---
+### Singing Along to Radio in Car
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for Grok Imagine featuring a character driving a car and singing along to a specific song verse.
+
+#### 📝 提示词
+
+```
+she is in her car driving, she put on the radio. play the first verse of believer and have she sings along
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084581704035938304/img/ok64SF6K4kDHiP7C.jpg" width="600" alt="Singing Along to Radio in Car">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8540)**
+
+**作者:** [The.Stargate.Project](https://x.com/ESTEBUENOSTUDIO) | **来源:** [Link](https://x.com/ESTEBUENOSTUDIO/status/2084582411061370974) | **发布时间:** Aug 4, 2026
+
+---
+### Height Difference Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt where a character uses heels to appear even taller than their partner.
+
+#### 📝 提示词
+
+```
+She taller than him and pulls out from under the bed some heels or wedges to make herself even more taller than him.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084582186636763136/img/8ll9ShWIrrqH-_2Q.jpg" width="600" alt="Height Difference Scene">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8546)**
+
+**作者:** [Brian](https://x.com/luvsheight) | **来源:** [Link](https://x.com/luvsheight/status/2084582209793474820) | **发布时间:** Aug 4, 2026
+
+---
+### Peaceful Seaside Pastel Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A serene video prompt featuring soft pastel skies and a peaceful moment by the sea with a character in a white dress.
+
+#### 📝 提示词
+
+```
+Soft pastel skies, a white dress, and a quiet companion… A peaceful moment by the sea.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084581187247632385/img/0SIhrJaIZBc97NLk.jpg" width="600" alt="Peaceful Seaside Pastel Scene">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8547)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **来源:** [Link](https://x.com/StellaGrokStar/status/2084581252007698692) | **发布时间:** Aug 4, 2026
+
+---
+### Funky Advertising Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-energy animation prompt combining Japanese and Korean advertising styles with a funky theme.
+
+#### 📝 提示词
+
+```
+강 경미 대장 양주시 공주 이기 장료 ￼ hey Grok animate my image so it looks well cool and sick make it rad and make it really really excellent and funky add some Japanese and Korean Advertising greatness and make it pop and give it a funky tune cheers salute
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084574833338204160/img/6YEQdXQBrFmvHPqA.jpg" width="600" alt="Funky Advertising Animation">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8543)**
+
+**作者:** [🇫🇷ㄹㄹ • アダム 🇩🇪 𝕏 • 𓂀𓆃𓆗𓃭𓆗☽𖤓༄](https://x.com/disnoted) | **来源:** [Link](https://x.com/disnoted/status/2084574855861567874) | **发布时间:** Aug 4, 2026
+
+---
+### Pilot Taxiing at Sydney Airport
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt where the camera spins around a pilot taxiing a Boeing 737 toward the runway.
+
+#### 📝 提示词
+
+```
+This man is excited to fly home. The camera spins around the man and it shows the man in a pilots uniform. He is taxiing towards the runway at Sydney in a Qantas Boeing 737-800. He has an Australian and UK blended accent.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084560045384294400/img/C5tlHL5lZz59FXg3.jpg" width="600" alt="Pilot Taxiing at Sydney Airport">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8544)**
+
+**作者:** [Paul Colmer @ AWS ☁️🛰️🚀🇦🇺](https://x.com/DigitalColmer) | **来源:** [Link](https://x.com/DigitalColmer/status/2084560073658179719) | **发布时间:** Aug 4, 2026
+
+---
 ### Woman in Black with Pansies
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -206,6 +397,25 @@ I become a woman with flowers and a hat. Red and white pansies decorate the blac
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8483)**
 
 **作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **来源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2084531222873792716) | **发布时间:** Aug 4, 2026
+
+---
+### Woman Walking in Green Mini Skirt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A character animation prompt showing a woman walking forward in a stylish green outfit, designed for smooth movement without obstructions.
+
+#### 📝 提示词
+
+```
+Avoid blockage while having her walking forward wearing a green mini skirt and high heels
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084443477958369280/img/-2fpW6gwMSDkyxB9.jpg" width="600" alt="Woman Walking in Green Mini Skirt">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8538)**
+
+**作者:** [Steve Maynard](https://x.com/Sbm3Steve) | **来源:** [Link](https://x.com/Sbm3Steve/status/2084443502411473340) | **发布时间:** Aug 4, 2026
 
 ---
 ### Roaring 20s Dancing Lady Video
@@ -2090,215 +2300,6 @@ SpaceX Starship 漂浮在海面上，引擎开启，像快艇一样行驶
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **发布时间:** Jul 28, 2026
 
 ---
-### 空灵太空姐妹动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频转换提示词，将主体编辑为漂浮在地球轨道上空的空灵宇宙角色。
-
-#### 📝 提示词
-
-```
-将这位女性编辑为漂浮在发光地球上方太空中的空灵太空姐妹。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081848480302321664/img/DDwab0kbch1s9G2v.jpg" width="600" alt="空灵太空姐妹动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8094)**
-
-**作者:** [Amir Prince](https://x.com/princeduduamir) | **来源:** [Link](https://x.com/princeduduamir/status/2081848508160610723) | **发布时间:** Jul 27, 2026
-
----
-### 生物发光水族馆海豚漩涡
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个富有创意的视频提示词，描绘了海豚旋转并创造出生物发光漩涡的水族馆场景。
-
-#### 📝 提示词
-
-```
-水族馆 旋转的海豚营造出漩涡效应，从而创造出生物发光景观。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081844999608586240/img/AvTpMW5aNqaQLOlT.jpg" width="600" alt="生物发光水族馆海豚漩涡">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8023)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2081845035058737455) | **发布时间:** Jul 27, 2026
-
----
-### 水下海蓝宝石屋与海马
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频生成提示词，描绘了一座超现实的水下海蓝宝石屋，巨大的海马从楼梯旁漂浮而过。
-
-#### 📝 提示词
-
-```
-海蓝宝石屋 一群异常巨大的海马从上方的楼梯游下，在鱼群上方漂浮而过。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081841609159708672/img/igi57thnkyybSoxI.jpg" width="600" alt="水下海蓝宝石屋与海马">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8022)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2081841647046869133) | **发布时间:** Jul 27, 2026
-
----
-### 毛茸茸小狗在阳光草坪上的视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段温馨且逼真的视频，展示一只毛茸茸的可爱小狗坐在阳光明媚的草坪上，并呈现细腻的毛发质感。
-
-#### 📝 提示词
-
-```
-一只毛茸茸的可爱小狗，有着圆圆的大眼睛、柔软下垂的耳朵和开心的笑容，正坐在阳光柔和的草坪上。画面可爱、温馨，具有逼真的质感，展现了细腻的毛发细节和柔和温暖的灯光。
-```
-
-<img src="https://cms-assets.youmind.com/media/1785227500202_1g8w1y_HOOu2KZXcAAcv5S.jpg" width="600" alt="毛茸茸小狗在阳光草坪上的视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8024)**
-
-**作者:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **来源:** [Link](https://x.com/Yesyesyes_OK/status/2081699714743914631) | **发布时间:** Jul 27, 2026
-
----
-### 生物唱摇篮曲
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满奇思妙想的视频提示词，展示了一只奇幻生物为幼崽唱摇篮曲的场景。
-
-#### 📝 提示词
-
-```
-生物坐在椅子上抱着幼崽，唱着传统歌曲 "Rock-a-bye Baby"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081513814034612225/img/vfJExH-uGCXWvx4e.jpg" width="600" alt="生物唱摇篮曲">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7941)**
-
-**作者:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **来源:** [Link](https://x.com/CosmicCowboyCDN/status/2081517060094611502) | **发布时间:** Jul 26, 2026
-
----
-### 荧光墨水暗色书写
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个神秘的视频提示词，展示了只有在黑暗中才能看懂的荧光墨水与文字。
-
-#### 📝 提示词
-
-```
-书写只有黑暗才能读懂的语言，翻页后墨水依然闪烁着光芒。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081180925124308992/img/cuzzXlEkJ3Clsu0X.jpg" width="600" alt="荧光墨水暗色书写">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7944)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2081507355024359925) | **发布时间:** Jul 26, 2026
-
----
-### 1970 年代巴黎电影真实主义 (Cinéma Vérité) 视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 专为 Grok Imagine 设计的提示词，旨在生成具有 1970 年代巴黎纪录片真实感的影像，呈现粗粝的 16mm 胶片质感、自然的颗粒感及天然光影。
-
-#### 📝 提示词
-
-```
-粗粝的 16mm 电影真实主义 (cinéma vérité)，地道的 1970 年代巴黎纪录片影像，自然的胶片颗粒感，纯净的自然日光，强烈的肩扛式手持抖动，无稳定效果，柔焦效果，细微的漏光，原始且优雅，极具生活气息的写实感。One
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081484199245012992/img/V6zIay-_i7B99SSj.jpg" width="600" alt="1970 年代巴黎电影真实主义 (Cinéma Vérité) 视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7947)**
-
-**作者:** [Ashley Ward](https://x.com/ashleyward) | **来源:** [Link](https://x.com/ashleyward/status/2081484471367258516) | **发布时间:** Jul 26, 2026
-
----
-### 雨夜霓虹城市
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个生动的氛围提示词，用于生成一段透过雨水冲刷的窗户拍摄的霓虹城市驾驶视频。
-
-#### 📝 提示词
-
-```
-雨水打在挡风玻璃上，霓虹灯光透过玻璃晕染开来，穿行在这一座不夜城中
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081182887316168704/img/GyWe6gQL-FjDPiTp.jpg" width="600" alt="雨夜霓虹城市">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7946)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2081477154328449072) | **发布时间:** Jul 26, 2026
-
----
-### Elon Musk 的 Starship 之旅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段视频提示词，描绘了 Elon Musk 乘坐 Starship 前往火星并与 AI 进行交互的场景。
-
-#### 📝 提示词
-
-```
-Elon Musk 坐在 Starship 飞船内前往火星，并与 AI 进行对话
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081432199501672448/img/zdAT_ab80GzJoYjv.jpg" width="600" alt="Elon Musk 的 Starship 之旅">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7942)**
-
-**作者:** [Amrutraj](https://x.com/Amrutraj4) | **来源:** [Link](https://x.com/Amrutraj4/status/2081432217482641861) | **发布时间:** Jul 26, 2026
-
----
-### 旋转星空宇宙视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于天体视频的描述性提示词，展现旋转的星空以及与宇宙近在咫尺的感受。
-
-#### 📝 提示词
-
-```
-静静伫立，看漫天星辰旋转，有些夜晚，宇宙仿佛比大地更近。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081182605689720832/img/AEs1d_l_3ygEKoaG.jpg" width="600" alt="旋转星空宇宙视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7943)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2081416756275380280) | **发布时间:** Jul 26, 2026
-
----
-### 逼真的狗狗新闻采访
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个创意提示词，用于生成专业新闻风格的场景，即记者对一只狗狗进行逼真的采访。
-
-#### 📝 提示词
-
-```
-新闻记者将麦克风靠近狗狗的嘴边，仿佛正在进行一场真实的采访，专业新闻风格，逼真场景
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081410515352616960/img/PuBRt4NsVZMSngJZ.jpg" width="600" alt="逼真的狗狗新闻采访">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7935)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2081410626375807091) | **发布时间:** Jul 26, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2360,6 +2361,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-05T06:49:22.099Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-05T11:00:56.925Z</sub>
 
 </div>

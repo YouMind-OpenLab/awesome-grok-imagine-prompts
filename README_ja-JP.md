@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2332** |
+| 📝 プロンプト総数 | **2343** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-08-05** |
 
@@ -189,6 +189,197 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### X-Man Futuristic Headquarters Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring X-Man walking through a high-tech headquarters with slow-motion camera tracking and glowing digital elements.
+
+#### 📝 プロンプト
+
+```
+X-MAN confidently walks through a futuristic black-and-green headquarters inspired by X. Massive digital screens display trending posts, rockets, electric vehicles, financial charts, Robinhood-green holograms and glowing X logos. Every step emits green energy pulses. The camera tracks backwards in slow motion while sparks and digital particles float around him. Hollywood-level cinematic lighting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084872047528964096/img/J0Dhu_Yrxa5JJbxv.jpg" width="600" alt="X-Man Futuristic Headquarters Walk">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8539)**
+
+**作者:** [Optimistic Degen](https://x.com/OptimisticD3G3n) | **ソース:** [Link](https://x.com/OptimisticD3G3n/status/2084872071956611254) | **公開日:** Aug 5, 2026
+
+---
+### Celestial Angelic Horse Gallop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dreamy video prompt featuring an angelic figure galloping through the sky on a winged white horse.
+
+#### 📝 プロンプト
+
+```
+Me galloping in the skys in a white horse 
+Me dress like an angel with wings galloping in a white horse with wings too
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084807676987359234/img/EZFTxyT7DJjcg_6R.jpg" width="600" alt="Celestial Angelic Horse Gallop">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8541)**
+
+**作者:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **ソース:** [Link](https://x.com/AngieRamos2030/status/2084807779319955856) | **公開日:** Aug 5, 2026
+
+---
+### Lion in Neon Nightclub
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a majestic white-maned lion in a neon-lit nightclub setting with a character named Sasha.
+
+#### 📝 プロンプト
+
+```
+The majestic white-maned lion with green chest stands next to non-binary Sasha in the neon nightclub. Soft camera movementos
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084800685011525632/img/igcNDJOd9EPid6y3.jpg" width="600" alt="Lion in Neon Nightclub">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8542)**
+
+**作者:** [Cyperpienso](https://x.com/cyperpienso) | **ソース:** [Link](https://x.com/cyperpienso/status/2084800727894122548) | **公開日:** Aug 5, 2026
+
+---
+### Monochrome to Color Film Reel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic video prompt depicting a silent film memory transitioning from grayscale to vibrant color.
+
+#### 📝 プロンプト
+
+```
+Fading frames of a monochrome past flicker like a silent film, each memory etched in grayscale—shadows stretching long, laughter muted, love a whisper lost in the static. But now, a slow bloom of radiant hues washes over the reel, saturating every moment with warmth, joy, and devotion. Sepia tones dissolve into golden light, washed-out skies reborn in dazzling blues, and the dull hum of yesterday is replaced by the melody of life, vibrant and full. Love's gentle hand reaches through the celluloid haze, painting over sorrow, stitching sunlight into the fabric of time, until the story no longer drifts in muted silence but sings—an endless symphony of color, rebirth, and heart.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084783660230721536/img/Ygn3KWSz5KkG0CB5.jpg" width="600" alt="Monochrome to Color Film Reel">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8545)**
+
+**作者:** [GrokPromptShare](https://x.com/GrokPromptShare) | **ソース:** [Link](https://x.com/GrokPromptShare/status/2084783783731990763) | **公開日:** Aug 4, 2026
+
+---
+### Martian Child Emotional Short Film
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for an emotional scene about a girl born on Mars who longs to see Earth.
+
+#### 📝 プロンプト
+
+```
+A quiet, emotional short film about a girl born on Mars who has never seen Earth… and refuses to believe it when she finally does.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084662073053851648/img/z9KvSJO6M55SXBDk.jpg" width="600" alt="Martian Child Emotional Short Film">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8548)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2084662494052991478) | **公開日:** Aug 4, 2026
+
+---
+### Singing Along to Radio in Car
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for Grok Imagine featuring a character driving a car and singing along to a specific song verse.
+
+#### 📝 プロンプト
+
+```
+she is in her car driving, she put on the radio. play the first verse of believer and have she sings along
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084581704035938304/img/ok64SF6K4kDHiP7C.jpg" width="600" alt="Singing Along to Radio in Car">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8540)**
+
+**作者:** [The.Stargate.Project](https://x.com/ESTEBUENOSTUDIO) | **ソース:** [Link](https://x.com/ESTEBUENOSTUDIO/status/2084582411061370974) | **公開日:** Aug 4, 2026
+
+---
+### Height Difference Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt where a character uses heels to appear even taller than their partner.
+
+#### 📝 プロンプト
+
+```
+She taller than him and pulls out from under the bed some heels or wedges to make herself even more taller than him.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084582186636763136/img/8ll9ShWIrrqH-_2Q.jpg" width="600" alt="Height Difference Scene">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8546)**
+
+**作者:** [Brian](https://x.com/luvsheight) | **ソース:** [Link](https://x.com/luvsheight/status/2084582209793474820) | **公開日:** Aug 4, 2026
+
+---
+### Peaceful Seaside Pastel Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A serene video prompt featuring soft pastel skies and a peaceful moment by the sea with a character in a white dress.
+
+#### 📝 プロンプト
+
+```
+Soft pastel skies, a white dress, and a quiet companion… A peaceful moment by the sea.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084581187247632385/img/0SIhrJaIZBc97NLk.jpg" width="600" alt="Peaceful Seaside Pastel Scene">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8547)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2084581252007698692) | **公開日:** Aug 4, 2026
+
+---
+### Funky Advertising Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-energy animation prompt combining Japanese and Korean advertising styles with a funky theme.
+
+#### 📝 プロンプト
+
+```
+강 경미 대장 양주시 공주 이기 장료 ￼ hey Grok animate my image so it looks well cool and sick make it rad and make it really really excellent and funky add some Japanese and Korean Advertising greatness and make it pop and give it a funky tune cheers salute
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084574833338204160/img/6YEQdXQBrFmvHPqA.jpg" width="600" alt="Funky Advertising Animation">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8543)**
+
+**作者:** [🇫🇷ㄹㄹ • アダム 🇩🇪 𝕏 • 𓂀𓆃𓆗𓃭𓆗☽𖤓༄](https://x.com/disnoted) | **ソース:** [Link](https://x.com/disnoted/status/2084574855861567874) | **公開日:** Aug 4, 2026
+
+---
+### Pilot Taxiing at Sydney Airport
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt where the camera spins around a pilot taxiing a Boeing 737 toward the runway.
+
+#### 📝 プロンプト
+
+```
+This man is excited to fly home. The camera spins around the man and it shows the man in a pilots uniform. He is taxiing towards the runway at Sydney in a Qantas Boeing 737-800. He has an Australian and UK blended accent.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084560045384294400/img/C5tlHL5lZz59FXg3.jpg" width="600" alt="Pilot Taxiing at Sydney Airport">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8544)**
+
+**作者:** [Paul Colmer @ AWS ☁️🛰️🚀🇦🇺](https://x.com/DigitalColmer) | **ソース:** [Link](https://x.com/DigitalColmer/status/2084560073658179719) | **公開日:** Aug 4, 2026
+
+---
 ### Woman in Black with Pansies
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -206,6 +397,25 @@ I become a woman with flowers and a hat. Red and white pansies decorate the blac
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8483)**
 
 **作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **ソース:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2084531222873792716) | **公開日:** Aug 4, 2026
+
+---
+### Woman Walking in Green Mini Skirt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A character animation prompt showing a woman walking forward in a stylish green outfit, designed for smooth movement without obstructions.
+
+#### 📝 プロンプト
+
+```
+Avoid blockage while having her walking forward wearing a green mini skirt and high heels
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084443477958369280/img/-2fpW6gwMSDkyxB9.jpg" width="600" alt="Woman Walking in Green Mini Skirt">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8538)**
+
+**作者:** [Steve Maynard](https://x.com/Sbm3Steve) | **ソース:** [Link](https://x.com/Sbm3Steve/status/2084443502411473340) | **公開日:** Aug 4, 2026
 
 ---
 ### Roaring 20s Dancing Lady Video
@@ -2046,215 +2256,6 @@ Grok、サンドワームの頭の向きを変えて。それが彼が地中を�
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **公開日:** Jul 28, 2026
 
 ---
-### 幻想的な宇宙の姉妹のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 被写体を地球の軌道上に浮かぶ幻想的な宇宙のキャラクターへと編集するための動画変換プロンプトです。
-
-#### 📝 プロンプト
-
-```
-女性を、輝く地球の上の宇宙空間に浮かぶ幻想的な宇宙の姉妹へと編集してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081848480302321664/img/DDwab0kbch1s9G2v.jpg" width="600" alt="幻想的な宇宙の姉妹のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8094)**
-
-**作者:** [Amir Prince](https://x.com/princeduduamir) | **ソース:** [Link](https://x.com/princeduduamir/status/2081848508160610723) | **公開日:** Jul 27, 2026
-
----
-### 生物発光する水族館のイルカの渦
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 回転するイルカが生物発光の渦を作り出す、水族館シーンのためのクリエイティブな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-水族館   回転するイルカが渦巻き効果を生み出し、生物発光を作り出します。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081844999608586240/img/AvTpMW5aNqaQLOlT.jpg" width="600" alt="生物発光する水族館のイルカの渦">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8023)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2081845035058737455) | **公開日:** Jul 27, 2026
-
----
-### 海中のアクアマリンハウスとタツノオトシゴ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 階段のそばを大きなタツノオトシゴが通り過ぎる、シュールな海中のアクアマリンハウスを描いた動画生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-アクアマリンハウス。上階の階段から降りてきた一団の巨大なタツノオトシゴが、魚たちの頭上を漂っている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081841609159708672/img/igi57thnkyybSoxI.jpg" width="600" alt="海中のアクアマリンハウスとタツノオトシゴ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8022)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2081841647046869133) | **公開日:** Jul 27, 2026
-
----
-### ふわふわの子犬が日当たりの良い芝生で遊ぶ動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 日当たりの良い芝生に座る、毛並みの質感までリアルに再現された、心温まるかわいい子犬の動画を生成します。
-
-#### 📝 プロンプト
-
-```
-大きな丸い目と柔らかい垂れ耳、幸せそうな笑顔が特徴のかわいい子犬が、柔らかな日差しが降り注ぐ芝生の上に座っています。毛並みの細部までリアルに表現された、愛らしくて心温まる、温かみのある光に包まれた映像です。
-```
-
-<img src="https://cms-assets.youmind.com/media/1785227500202_1g8w1y_HOOu2KZXcAAcv5S.jpg" width="600" alt="ふわふわの子犬が日当たりの良い芝生で遊ぶ動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8024)**
-
-**作者:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **ソース:** [Link](https://x.com/Yesyesyes_OK/status/2081699714743914631) | **公開日:** Jul 27, 2026
-
----
-### 子守唄を歌うクリーチャー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ファンタジーなクリーチャーが赤ちゃんのクリーチャーに子守唄を歌う様子を描いた、幻想的な動画用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-椅子に座り、赤ちゃんのクリーチャーを抱きかかえたクリーチャーが、伝統的な歌「Rock-a-bye Baby」を歌っている
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081513814034612225/img/vfJExH-uGCXWvx4e.jpg" width="600" alt="子守唄を歌うクリーチャー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7941)**
-
-**作者:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **ソース:** [Link](https://x.com/CosmicCowboyCDN/status/2081517060094611502) | **公開日:** Jul 26, 2026
-
----
-### 暗闇で光るインクの文字
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 暗闇でしか読み取れない、光るインクと文字を描写するミステリアスな動画用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-暗闇だけが理解できる言語を綴る。ページをめくった後も、インクは光り続けている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081180925124308992/img/cuzzXlEkJ3Clsu0X.jpg" width="600" alt="暗闇で光るインクの文字">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7944)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2081507355024359925) | **公開日:** Jul 26, 2026
-
----
-### 1970 年代パリのシネマ・ヴェリテ風ビデオプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1970 年代パリのドキュメンタリー映像を再現するために設計された Grok Imagine 用プロンプト。16mm フィルム特有のザラついた質感、有機的な粒子感、自然光を活かした表現が特徴です。
-
-#### 📝 プロンプト
-
-```
-ザラついた 16mm シネマ・ヴェリテ、1970 年代パリの本格的なドキュメンタリー映像、有機的なフィルム粒子、純粋な自然光、肩乗せカメラによる激しい手ブレ、スタビライザーなし、ソフトフォーカス、微かな光漏れ、生々しくもエレガントな、生活感のあるリアリズム。1
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081484199245012992/img/V6zIay-_i7B99SSj.jpg" width="600" alt="1970 年代パリのシネマ・ヴェリテ風ビデオプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7947)**
-
-**作者:** [Ashley Ward](https://x.com/ashleyward) | **ソース:** [Link](https://x.com/ashleyward/status/2081484471367258516) | **公開日:** Jul 26, 2026
-
----
-### 雨の夜のネオン街
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雨に濡れた窓越しにネオン輝く街をドライブする様子を描いた、臨場感あふれるビデオ用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-フロントガラスを打つ雨、ガラス越しに滲むネオン、眠らない街をただ走り抜ける
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081182887316168704/img/GyWe6gQL-FjDPiTp.jpg" width="600" alt="雨の夜のネオン街">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7946)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2081477154328449072) | **公開日:** Jul 26, 2026
-
----
-### イーロン・マスクの Starship 宇宙旅行
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> イーロン・マスクが Starship に乗って火星へ向かい、AI と対話する様子を描いた動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-火星へ向かう Starship 宇宙船内で AI と会話をするイーロン・マスク
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081432199501672448/img/zdAT_ab80GzJoYjv.jpg" width="600" alt="イーロン・マスクの Starship 宇宙旅行">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7942)**
-
-**作者:** [Amrutraj](https://x.com/Amrutraj4) | **ソース:** [Link](https://x.com/Amrutraj4/status/2081432217482641861) | **公開日:** Jul 26, 2026
-
----
-### 回転する空の宇宙ビデオ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 回転する空と宇宙への親近感を表現した、天体ビデオ用の記述的プロンプト。
-
-#### 📝 プロンプト
-
-```
-静止したまま見上げる夜空が回転し続ける時、足元の地面よりも宇宙を身近に感じることがある
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081182605689720832/img/AEs1d_l_3ygEKoaG.jpg" width="600" alt="回転する空の宇宙ビデオ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7943)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2081416756275380280) | **公開日:** Jul 26, 2026
-
----
-### リアルな犬のニュースインタビュー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> レポーターが犬にリアルなインタビューを行う、プロフェッショナルなニュース風シーンのためのクリエイティブなプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ニュースレポーターがまるで本物のインタビューを行っているかのように、犬の口元にマイクを近づけている様子。プロフェッショナルなニューススタイル、リアルなシーン
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081410515352616960/img/PuBRt4NsVZMSngJZ.jpg" width="600" alt="リアルな犬のニュースインタビュー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7935)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2081410626375807091) | **公開日:** Jul 26, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2316,6 +2317,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-05T06:49:23.948Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-05T11:00:59.559Z</sub>
 
 </div>

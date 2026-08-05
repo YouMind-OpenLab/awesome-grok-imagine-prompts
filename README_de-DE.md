@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2332** |
+| 📝 Total Prompts | **2343** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-05** |
 
@@ -189,6 +189,197 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### X-Man Futuristic Headquarters Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring X-Man walking through a high-tech headquarters with slow-motion camera tracking and glowing digital elements.
+
+#### 📝 Prompt
+
+```
+X-MAN confidently walks through a futuristic black-and-green headquarters inspired by X. Massive digital screens display trending posts, rockets, electric vehicles, financial charts, Robinhood-green holograms and glowing X logos. Every step emits green energy pulses. The camera tracks backwards in slow motion while sparks and digital particles float around him. Hollywood-level cinematic lighting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084872047528964096/img/J0Dhu_Yrxa5JJbxv.jpg" width="600" alt="X-Man Futuristic Headquarters Walk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8539)**
+
+**Author:** [Optimistic Degen](https://x.com/OptimisticD3G3n) | **Source:** [Link](https://x.com/OptimisticD3G3n/status/2084872071956611254) | **Published:** Aug 5, 2026
+
+---
+### Celestial Angelic Horse Gallop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dreamy video prompt featuring an angelic figure galloping through the sky on a winged white horse.
+
+#### 📝 Prompt
+
+```
+Me galloping in the skys in a white horse 
+Me dress like an angel with wings galloping in a white horse with wings too
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084807676987359234/img/EZFTxyT7DJjcg_6R.jpg" width="600" alt="Celestial Angelic Horse Gallop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8541)**
+
+**Author:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **Source:** [Link](https://x.com/AngieRamos2030/status/2084807779319955856) | **Published:** Aug 5, 2026
+
+---
+### Lion in Neon Nightclub
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a majestic white-maned lion in a neon-lit nightclub setting with a character named Sasha.
+
+#### 📝 Prompt
+
+```
+The majestic white-maned lion with green chest stands next to non-binary Sasha in the neon nightclub. Soft camera movementos
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084800685011525632/img/igcNDJOd9EPid6y3.jpg" width="600" alt="Lion in Neon Nightclub">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8542)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2084800727894122548) | **Published:** Aug 5, 2026
+
+---
+### Monochrome to Color Film Reel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic video prompt depicting a silent film memory transitioning from grayscale to vibrant color.
+
+#### 📝 Prompt
+
+```
+Fading frames of a monochrome past flicker like a silent film, each memory etched in grayscale—shadows stretching long, laughter muted, love a whisper lost in the static. But now, a slow bloom of radiant hues washes over the reel, saturating every moment with warmth, joy, and devotion. Sepia tones dissolve into golden light, washed-out skies reborn in dazzling blues, and the dull hum of yesterday is replaced by the melody of life, vibrant and full. Love's gentle hand reaches through the celluloid haze, painting over sorrow, stitching sunlight into the fabric of time, until the story no longer drifts in muted silence but sings—an endless symphony of color, rebirth, and heart.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084783660230721536/img/Ygn3KWSz5KkG0CB5.jpg" width="600" alt="Monochrome to Color Film Reel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8545)**
+
+**Author:** [GrokPromptShare](https://x.com/GrokPromptShare) | **Source:** [Link](https://x.com/GrokPromptShare/status/2084783783731990763) | **Published:** Aug 4, 2026
+
+---
+### Martian Child Emotional Short Film
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for an emotional scene about a girl born on Mars who longs to see Earth.
+
+#### 📝 Prompt
+
+```
+A quiet, emotional short film about a girl born on Mars who has never seen Earth… and refuses to believe it when she finally does.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084662073053851648/img/z9KvSJO6M55SXBDk.jpg" width="600" alt="Martian Child Emotional Short Film">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8548)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2084662494052991478) | **Published:** Aug 4, 2026
+
+---
+### Singing Along to Radio in Car
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for Grok Imagine featuring a character driving a car and singing along to a specific song verse.
+
+#### 📝 Prompt
+
+```
+she is in her car driving, she put on the radio. play the first verse of believer and have she sings along
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084581704035938304/img/ok64SF6K4kDHiP7C.jpg" width="600" alt="Singing Along to Radio in Car">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8540)**
+
+**Author:** [The.Stargate.Project](https://x.com/ESTEBUENOSTUDIO) | **Source:** [Link](https://x.com/ESTEBUENOSTUDIO/status/2084582411061370974) | **Published:** Aug 4, 2026
+
+---
+### Height Difference Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt where a character uses heels to appear even taller than their partner.
+
+#### 📝 Prompt
+
+```
+She taller than him and pulls out from under the bed some heels or wedges to make herself even more taller than him.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084582186636763136/img/8ll9ShWIrrqH-_2Q.jpg" width="600" alt="Height Difference Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8546)**
+
+**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2084582209793474820) | **Published:** Aug 4, 2026
+
+---
+### Peaceful Seaside Pastel Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A serene video prompt featuring soft pastel skies and a peaceful moment by the sea with a character in a white dress.
+
+#### 📝 Prompt
+
+```
+Soft pastel skies, a white dress, and a quiet companion… A peaceful moment by the sea.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084581187247632385/img/0SIhrJaIZBc97NLk.jpg" width="600" alt="Peaceful Seaside Pastel Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8547)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2084581252007698692) | **Published:** Aug 4, 2026
+
+---
+### Funky Advertising Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-energy animation prompt combining Japanese and Korean advertising styles with a funky theme.
+
+#### 📝 Prompt
+
+```
+강 경미 대장 양주시 공주 이기 장료 ￼ hey Grok animate my image so it looks well cool and sick make it rad and make it really really excellent and funky add some Japanese and Korean Advertising greatness and make it pop and give it a funky tune cheers salute
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084574833338204160/img/6YEQdXQBrFmvHPqA.jpg" width="600" alt="Funky Advertising Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8543)**
+
+**Author:** [🇫🇷ㄹㄹ • アダム 🇩🇪 𝕏 • 𓂀𓆃𓆗𓃭𓆗☽𖤓༄](https://x.com/disnoted) | **Source:** [Link](https://x.com/disnoted/status/2084574855861567874) | **Published:** Aug 4, 2026
+
+---
+### Pilot Taxiing at Sydney Airport
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt where the camera spins around a pilot taxiing a Boeing 737 toward the runway.
+
+#### 📝 Prompt
+
+```
+This man is excited to fly home. The camera spins around the man and it shows the man in a pilots uniform. He is taxiing towards the runway at Sydney in a Qantas Boeing 737-800. He has an Australian and UK blended accent.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084560045384294400/img/C5tlHL5lZz59FXg3.jpg" width="600" alt="Pilot Taxiing at Sydney Airport">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8544)**
+
+**Author:** [Paul Colmer @ AWS ☁️🛰️🚀🇦🇺](https://x.com/DigitalColmer) | **Source:** [Link](https://x.com/DigitalColmer/status/2084560073658179719) | **Published:** Aug 4, 2026
+
+---
 ### Woman in Black with Pansies
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -206,6 +397,25 @@ I become a woman with flowers and a hat. Red and white pansies decorate the blac
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8483)**
 
 **Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2084531222873792716) | **Published:** Aug 4, 2026
+
+---
+### Woman Walking in Green Mini Skirt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A character animation prompt showing a woman walking forward in a stylish green outfit, designed for smooth movement without obstructions.
+
+#### 📝 Prompt
+
+```
+Avoid blockage while having her walking forward wearing a green mini skirt and high heels
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084443477958369280/img/-2fpW6gwMSDkyxB9.jpg" width="600" alt="Woman Walking in Green Mini Skirt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8538)**
+
+**Author:** [Steve Maynard](https://x.com/Sbm3Steve) | **Source:** [Link](https://x.com/Sbm3Steve/status/2084443502411473340) | **Published:** Aug 4, 2026
 
 ---
 ### Roaring 20s Dancing Lady Video
@@ -2090,215 +2300,6 @@ Zwei Pferde grasen ruhig auf der Wiese inmitten der Wildblumen auf einer sonnige
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
 
 ---
-### Ätherische Weltraum-Schwester Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Transformations-Prompt, der ein Motiv in eine ätherische kosmische Figur verwandelt, die im Orbit über der Erde schwebt.
-
-#### 📝 Prompt
-
-```
-Bearbeite die Frau so, dass sie eine ätherische Weltraum-Schwester ist, die im Weltraum über der leuchtenden Erde schwebt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081848480302321664/img/DDwab0kbch1s9G2v.jpg" width="600" alt="Ätherische Weltraum-Schwester Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8094)**
-
-**Author:** [Amir Prince](https://x.com/princeduduamir) | **Source:** [Link](https://x.com/princeduduamir/status/2081848508160610723) | **Published:** Jul 27, 2026
-
----
-### Biolumineszierender Aquarium-Delfin-Strudel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Video-Prompt für eine Aquariumszene, in der sich drehende Delfine einen Strudel aus Biolumineszenz erzeugen.
-
-#### 📝 Prompt
-
-```
-Aquarium   Die sich drehenden Delfine erzeugen einen Strudeleffekt, der die Entstehung von Biolumineszenz fördert.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081844999608586240/img/AvTpMW5aNqaQLOlT.jpg" width="600" alt="Biolumineszierender Aquarium-Delfin-Strudel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8023)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081845035058737455) | **Published:** Jul 27, 2026
-
----
-### Unterwasser-Aquamarinhaus und Seepferdchen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt, der ein surreales Unterwasser-Aquamarinhaus zeigt, an dessen Treppe große Seepferdchen vorbeischweben.
-
-#### 📝 Prompt
-
-```
-Aquamarinhaus   Eine Gruppe ungewöhnlich großer Seepferdchen schwebt über den Fischen, nachdem sie die Treppe von oben herabgeschwommen sind.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081841609159708672/img/igi57thnkyybSoxI.jpg" width="600" alt="Unterwasser-Aquamarinhaus und Seepferdchen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8022)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2081841647046869133) | **Published:** Jul 27, 2026
-
----
-### Video von flauschigem Welpen auf sonniger Wiese
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Erzeugt ein herzerwärmendes und fotorealistisches Video eines niedlichen, flauschigen Welpen, der mit detaillierter Fellstruktur auf einer sonnigen Wiese sitzt.
-
-#### 📝 Prompt
-
-```
-Ein niedlicher, flauschiger Welpe mit großen runden Augen, weichen Schlappohren und einem fröhlichen, lächelnden Ausdruck, der auf einer grünen Wiese im sanften Sonnenlicht sitzt. Entzückend, herzerwärmend, fotorealistisch mit feinen Felldetails und sanfter, warmer Beleuchtung.
-```
-
-<img src="https://cms-assets.youmind.com/media/1785227500202_1g8w1y_HOOu2KZXcAAcv5S.jpg" width="600" alt="Video von flauschigem Welpen auf sonniger Wiese">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8024)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2081699714743914631) | **Published:** Jul 27, 2026
-
----
-### Kreatur singt Schlaflied
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein fantasievoller Prompt für ein Video, das eine Fantasy-Kreatur zeigt, die einem Baby-Wesen ein Schlaflied vorsingt.
-
-#### 📝 Prompt
-
-```
-Eine Kreatur sitzt im Stuhl, hält das Baby-Wesen im Arm und singt das traditionelle Lied „Rock-a-bye Baby“
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081513814034612225/img/vfJExH-uGCXWvx4e.jpg" width="600" alt="Kreatur singt Schlaflied">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7941)**
-
-**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2081517060094611502) | **Published:** Jul 26, 2026
-
----
-### Leuchtende Tinte, dunkle Schrift
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein geheimnisvoller Prompt für ein Video, das leuchtende Tinte und eine Schrift zeigt, die nur im Dunkeln lesbar ist.
-
-#### 📝 Prompt
-
-```
-Die Sprache schreiben, die nur die Dunkelheit versteht; Tinte, die auch nach dem Umblättern der Seite noch leuchtet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081180925124308992/img/cuzzXlEkJ3Clsu0X.jpg" width="600" alt="Leuchtende Tinte, dunkle Schrift">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7944)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081507355024359925) | **Published:** Jul 26, 2026
-
----
-### Video-Prompt für Cinéma-Vérité-Aufnahmen aus dem Paris der 1970er Jahre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Grok Imagine, der darauf ausgelegt ist, authentisches Dokumentarfilmmaterial aus dem Paris der 1970er Jahre im rauen 16-mm-Film-Look mit organischem Filmkorn und natürlicher Beleuchtung zu generieren.
-
-#### 📝 Prompt
-
-```
-Rauer 16-mm-Cinéma-Vérité-Stil, authentisches Dokumentarfilmmaterial aus dem Paris der 1970er Jahre, organisches Filmkorn, reines natürliches Tageslicht, starkes handgeführtes Schulterkamera-Wackeln, keine Stabilisierung, weiche Fokusverläufe, subtile Lichtlecks, roh und elegant, gelebter Realismus. Eins
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081484199245012992/img/V6zIay-_i7B99SSj.jpg" width="600" alt="Video-Prompt für Cinéma-Vérité-Aufnahmen aus dem Paris der 1970er Jahre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7947)**
-
-**Author:** [Ashley Ward](https://x.com/ashleyward) | **Source:** [Link](https://x.com/ashleyward/status/2081484471367258516) | **Published:** Jul 26, 2026
-
----
-### Regnerische Neon-Stadt bei Nacht
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein lebendiger, atmosphärischer Prompt für ein Video einer Fahrt durch eine neonbeleuchtete Stadt, gefilmt durch regennasse Fensterscheiben.
-
-#### 📝 Prompt
-
-```
-Regen auf der Windschutzscheibe, Neonlichter, die durch das Glas verschwimmen, einfach durch eine Stadt fahren, die niemals schläft
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081182887316168704/img/GyWe6gQL-FjDPiTp.jpg" width="600" alt="Regnerische Neon-Stadt bei Nacht">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7946)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081477154328449072) | **Published:** Jul 26, 2026
-
----
-### Elon Musks Starship-Reise
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, der Elon Musk zeigt, wie er in einem Starship zum Mars reist und mit einer KI interagiert.
-
-#### 📝 Prompt
-
-```
-Elon Musk sitzt im Inneren des Starship-Raumschiffs auf dem Weg zum Mars und spricht mit einer KI
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081432199501672448/img/zdAT_ab80GzJoYjv.jpg" width="600" alt="Elon Musks Starship-Reise">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7942)**
-
-**Author:** [Amrutraj](https://x.com/Amrutraj4) | **Source:** [Link](https://x.com/Amrutraj4/status/2081432217482641861) | **Published:** Jul 26, 2026
-
----
-### Wirbelnder kosmischer Himmel – Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein beschreibender Prompt für ein himmlisches Video, das einen rotierenden Nachthimmel zeigt und ein Gefühl der Nähe zum Universum vermittelt.
-
-#### 📝 Prompt
-
-```
-Stillstehen, während sich der gesamte Himmel dreht; an manchen Nächten fühlt sich das Universum näher an als der Boden
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081182605689720832/img/AEs1d_l_3ygEKoaG.jpg" width="600" alt="Wirbelnder kosmischer Himmel – Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7943)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2081416756275380280) | **Published:** Jul 26, 2026
-
----
-### Realistisches Nachrichten-Interview mit einem Hund
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Prompt für eine professionelle Szene im Nachrichtenstil, in der ein Reporter ein realistisches Interview mit einem Hund führt.
-
-#### 📝 Prompt
-
-```
-Ein Nachrichtenreporter hält einem Hund ein Mikrofon vor das Maul, als würde er ein echtes Interview führen, professioneller Nachrichtenstil, realistische Szene
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081410515352616960/img/PuBRt4NsVZMSngJZ.jpg" width="600" alt="Realistisches Nachrichten-Interview mit einem Hund">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7935)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2081410626375807091) | **Published:** Jul 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2360,6 +2361,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-05T06:49:32.044Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-05T11:01:07.129Z</sub>
 
 </div>
