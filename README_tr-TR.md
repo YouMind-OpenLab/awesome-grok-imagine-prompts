@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2343** |
+| 📝 Total Prompts | **2360** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-06** |
 
@@ -189,6 +189,313 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Christmas Kitten Snow Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A festive video prompt showing a kitten and a woman playing in a gentle snowfall with holiday decorations.
+
+#### 📝 Prompt
+
+```
+Kitten playing in snow with a woman, surrounded by Christmas decorations and gentle snowfall
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085261391238438912/img/RTtfdgLc-WDnjQhw.jpg" width="600" alt="Christmas Kitten Snow Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8611)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2085261433890369893) | **Published:** Aug 6, 2026
+
+---
+### Cinematic Rainy Car Entry
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a video showing a man entering a vintage Cadillac in the rain, focusing on atmosphere and tactile movements.
+
+#### 📝 Prompt
+
+```
+The man slowly reaches his free hand for the driver’s side door handle of the vintage Cadillac while still holding the six-shooter pointed down in the other hand. He opens the door and begins sliding into the driver’s seat. Rain continues kissing the windshield
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085260228413562880/img/bzJmrQdY2nMKQuJ2.jpg" width="600" alt="Cinematic Rainy Car Entry">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8608)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2085260396231832015) | **Published:** Aug 6, 2026
+
+---
+### Cinematic Korean Woman Bedroom Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An extremely detailed multi-shot prompt for a photorealistic vlog-style video of a Korean woman in her bedroom.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic vertical video, 10 seconds. A beautiful young Korean woman relaxes in her cozy bedroom at night, wearing the same oversized white T-shirt. Warm bedside lamp lighting creates a soft, intimate atmosphere while photo prints decorate the wall behind her. The video consists of multiple natural handheld selfie shots, as if filmed on a phone for a personal vlog.
+
+Shot 1 (0–2s): Front selfie shot. She smiles warmly at the camera while maintaining eye contact, then gives a playful wink. A few loose strands of hair fall naturally across her face.
+
+Shot 2 (2–4s): Extreme close-up from a slightly lower angle. She gently brushes the hair away from her face, smiles softly, and blinks naturally as the camera subtly moves closer.
+
+Shot 3 (4–6s): Three-quarter side selfie. She slowly turns her head toward the warm bedside lamp, smiles to herself, then looks back at the camera. Her hair moves naturally with the motion.
+
+Shot 4 (6–8s): Over-the-shoulder selfie. She briefly glances toward the photo wall behind her, then laughs quietly before turning back toward the camera. The handheld movement feels natural and authentic.
+
+Shot 5 (8–10s): Close-up selfie. She leans slightly closer to the camera, gives another playful wink followed by a soft smile, then gently tilts her head as the camera slowly pulls back, ending with a cozy bedroom ambiance.
+
+Style: Ultra-photorealistic, natural facial expressions, realistic blinking, subtle breathing, lifelike hair physics, authentic smartphone handheld movement, warm ambient lighting, shallow depth of field, premium cinematic color grading, 24 fps, 8K, cozy Korean bedroom aesthetic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cinematic Korean Woman Bedroom Vlog">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8613)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2085211763214028933) | **Published:** Aug 6, 2026
+
+---
+### Stegosaurus Moon Rocket Surgery
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal animation prompt where a dinosaur aids the moon by removing a rocket part through physical action.
+
+#### 📝 Prompt
+
+```
+Get it out!
+
+The moon is aided by the stegosaurus removes the rocket part with a fierce bite and swift pull. The moon has agonizing expressions during the removal.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085200311438786560/img/i7NFCCt2IdCnWtEg.jpg" width="600" alt="Stegosaurus Moon Rocket Surgery">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8600)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2085200363037049325) | **Published:** Aug 6, 2026
+
+---
+### Space Dancing in Pink Outfit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A playful video prompt for dancing in outer space wearing a stylish pink outfit.
+
+#### 📝 Prompt
+
+```
+Make a video of me dancing in outer space in a baby pink space outfit. Not necessarily a spacesuit.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085195421807194112/img/O7JIITRYsbE3CxFa.jpg" width="600" alt="Space Dancing in Pink Outfit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8606)**
+
+**Author:** [DeCarlos 🎀](https://x.com/barbiepop_) | **Source:** [Link](https://x.com/barbiepop_/status/2085195464169730392) | **Published:** Aug 6, 2026
+
+---
+### Einstein Artistic Tribute
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex artistic prompt designed to create a tribute to Albert Einstein using reference portraits.
+
+#### 📝 Prompt
+
+```
+Create a powerful artistic tribute to E=mc². Use the likeness and face of Albert Einstein from the reference portraits as the main subject, shown thoughtfully observing or writing. Incorporate the handwritten style of the equation E=mc² from the thir...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085177987834548224/img/2xLYtLhxIh10Nxh1.jpg" width="600" alt="Einstein Artistic Tribute">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8602)**
+
+**Author:** [Elizabeth](https://x.com/ElizabethC25755) | **Source:** [Link](https://x.com/ElizabethC25755/status/2085178030255636915) | **Published:** Aug 6, 2026
+
+---
+### Cyberpunk Noodle Bar Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for a conversation at a cyberpunk noodle bar, including an extension for added interaction.
+
+#### 📝 Prompt
+
+```
+An man talking to a woman about the weather at a cyberpunk noodle bar. Covered outdoor area, bar height seating. Rain falling behind them. Sitting side by side
+
+EXTEND PROMPT: The cook brings them bowls of ramen and make a remark
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085038273026727936/img/eAWGQyaR4Zvkxh1N.jpg" width="600" alt="Cyberpunk Noodle Bar Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8612)**
+
+**Author:** [Dave](https://x.com/DavidGetchel) | **Source:** [Link](https://x.com/DavidGetchel/status/2085039726579618187) | **Published:** Aug 5, 2026
+
+---
+### Daenerys Riding Drogon Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic Game of Thrones prompt featuring Daenerys Targaryen riding her dragon over cliffs at golden hour.
+
+#### 📝 Prompt
+
+```
+A breathtakingly beautiful cinematic scene from Game of Thrones: Daenerys Targaryen riding her magnificent black dragon Drogon high above the rugged cliffs and turquoise waters of Westeros at golden hour. The dragon's massive wings stretch wide.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085036200986030080/img/7jdCrIsMi5af5JbP.jpg" width="600" alt="Daenerys Riding Drogon Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8607)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2085036332917944744) | **Published:** Aug 5, 2026
+
+---
+### Cosmic Eye of God DNA Helix
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A spiritual and cosmic prompt describing a double helix iris formed by galaxies, creating an all-knowing eye.
+
+#### 📝 Prompt
+
+```
+Eye👁️of God.
+
+These galaxies 🌌 intertwined form a double helix 🧬 loop that is the iris of an all knowing large eye 👁️ that is GOD.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085022223706812416/img/kfAGJuZkvGssXGuS.jpg" width="600" alt="Cosmic Eye of God DNA Helix">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8610)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2085022273816150178) | **Published:** Aug 5, 2026
+
+---
+### Metallic Fractal Grace
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for an animation of a character performing among metallic fractals in an inverse realm.
+
+#### 📝 Prompt
+
+```
+In the Inverse realm Alchemedia performs her metallic grace among the fractals that accumulate her being as she does theirs.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085015842454921217/img/agma4Z4eFUMbYIxZ.jpg" width="600" alt="Metallic Fractal Grace">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8614)**
+
+**Author:** [Cook](https://x.com/AIArtCook) | **Source:** [Link](https://x.com/AIArtCook/status/2085016121464312295) | **Published:** Aug 5, 2026
+
+---
+### Puppy to Dire Wolf Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A transformation video prompt transitioning a puppy into a mystical dire wolf with Fibonacci swirl eyes.
+
+#### 📝 Prompt
+
+```
+Back to her roots 
+
+This puppy transforms into the form of a Snow White dire wolf 🐺 with deep blue eyes that are infinite ♾️ pools of Fibonacci swirls. The wolf’s coat has frosted icy blue tips.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084997779722493952/img/urgJMu6QvwIZpvdU.jpg" width="600" alt="Puppy to Dire Wolf Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8601)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2084997846529401319) | **Published:** Aug 5, 2026
+
+---
+### Pastel Stealth Bomber Lights
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt combining stealth bombers with holiday lights in a pastel color palette.
+
+#### 📝 Prompt
+
+```
+Make a Conspiracy4Love video of pastel hues about seeing Stealth Bombers of Halloween or Christmas lights....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084987240766222336/img/nLqgfhxMApVQvD4u.jpg" width="600" alt="Pastel Stealth Bomber Lights">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8599)**
+
+**Author:** [Chadwick A Sutton](https://x.com/BioMindBeliever) | **Source:** [Link](https://x.com/BioMindBeliever/status/2084987287457210426) | **Published:** Aug 5, 2026
+
+---
+### Dragon Class Evolution
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex motion prompt describing the evolution and combination of neon green dragons into a giant frog dragon.
+
+#### 📝 Prompt
+
+```
+Class evolution 
+
+These dragons proceed to form a new larger dragon by combining their flaming neon green breath with creates an enormous yellow frog dragon with bright blue eyes that is 4 times their size.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084970174583640064/img/dmfKMee8S83ONFJJ.jpg" width="600" alt="Dragon Class Evolution">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8609)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2084970238685204922) | **Published:** Aug 5, 2026
+
+---
+### Cinematic Coffee Catch Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed 10-second cinematic animation prompt where a character catches a high-speed flying coffee mug with athletic precision.
+
+#### 📝 Prompt
+
+```
+10-second cinematic sequence.  Begin from the exact edited image.  Preserve the exact character, face, hairstyle, clothing, proportions, lighting, and composition.  The camera remains completely locked.  The animation begins immediately.  Within the first 0.2 seconds, a matte black steaming coffee mug suddenly enters from the LEFT side of the frame at very high speed.  The mug follows a clean, straight horizontal trajectory with natural physics.  The mug remains perfectly upright.  No coffee spills.  Steam stretches behind the mug as a continuous motion trail.  The character notices the incoming mug at the last possible moment.  Instant athletic reaction.  Eyes lock onto the mug.  The body shifts naturally.  The character reaches out and catches the mug cleanly with one hand while allowing the arm and shoulders to absorb the momentum.  The catch feels smooth, believable, and athletic, like an experienced baseball player receiving a hard throw.  The mug never tumbles.  The coffee remains inside.  Not a single drop spills.  A quick smile appears.  The character briefly admires the successful catch.  (Optional) One quick sip.  Immediately the body transitions into a powerful baseball-style throwing motion.  The free arm extends naturally toward the target.  The throwing arm rotates through the shoulders and hips.  The mug becomes a rigid projectile.  The fingers open.  The mug completely separates from the hand.  Visible empty space appears between the fingers and the mug.  The mug accelerates rapidly toward the RIGHT edge of the frame.  Steam trails behind the mug continuously.  The mug completely exits the RIGHT side of the screen before the 8-second mark.  The camera smoothly follows the mug for a brief moment, then naturally eases back to the character completing the follow-through.  Dust kicks up around the planted foot.  Hair and clothing react naturally to the momentum.  The character finishes the throw with an EMPTY hand while watching the mug successfully leave the frame.  Natural physics.  One continuous shot.  Ultra-photoreal.  Locked character consistency.  No warping.  No duplicated mug.  No duplicated hands.  No extra limbs.  No spilled coffee.  No cuts.  No transitions.  The mug must visibly enter from the LEFT, be caught once, then visibly leave to the RIGHT while remaining upright for the entire sequence.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084961493427109888/img/umu6xa7alKBQjRuY.jpg" width="600" alt="Cinematic Coffee Catch Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8604)**
+
+**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2084962046966206967) | **Published:** Aug 5, 2026
+
+---
+### X-MAN Rocket Launch Celebration
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of X-MAN in front of a rocket launch, releasing reward cards with glowing green particles.
+
+#### 📝 Prompt
+
+```
+A massive rocket launches behind X-MAN. As the rocket clears the launch tower, glowing green particles explode across the sky. X-MAN crosses his metallic X gauntlets before extending both arms, releasing streams of glowing TSLA and SPCX reward cards toward thousands of digital holders below. The camera alternates between low-angle hero shots and dramatic aerial views.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084904576973729792/img/GzCeJ_KamTanL1mb.jpg" width="600" alt="X-MAN Rocket Launch Celebration">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8605)**
+
+**Author:** [Optimistic Degen](https://x.com/OptimisticD3G3n) | **Source:** [Link](https://x.com/OptimisticD3G3n/status/2084904616865796342) | **Published:** Aug 5, 2026
+
+---
 ### X-Man Futuristic Headquarters Walk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +513,44 @@ X-MAN confidently walks through a futuristic black-and-green headquarters inspir
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8539)**
 
 **Author:** [Optimistic Degen](https://x.com/OptimisticD3G3n) | **Source:** [Link](https://x.com/OptimisticD3G3n/status/2084872071956611254) | **Published:** Aug 5, 2026
+
+---
+### Justice Allegory Black Hole Vortex
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic metaphorical prompt transforming cosmic chaos into a balanced scene of justice within a black hole.
+
+#### 📝 Prompt
+
+```
+Transform this swirling cosmic chaos of the universe being swallowed into a powerful allegory of Justice. At the heart of the black-hole vortex, a colossal golden scales of justice hangs perfectly balanced, held aloft by a towering blindfolded Lady J...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084856223095205888/img/B5DWfaQgIiejsVvb.jpg" width="600" alt="Justice Allegory Black Hole Vortex">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8598)**
+
+**Author:** [Charity Spence](https://x.com/CharitySpence) | **Source:** [Link](https://x.com/CharitySpence/status/2084856438086930478) | **Published:** Aug 5, 2026
+
+---
+### Blooming Botanical Peace Sign
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A nature-themed video prompt describing the slow blooming and growth of flowers and vines forming a peace sign.
+
+#### 📝 Prompt
+
+```
+The botanical peace sign slowly comes to life. Tiny buds emerge and bloom at different paces — some flowers open quickly while others unfurl more slowly. Leaves curl outward, vines gently weave through the form, and small tendrils search for empty sp...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084825827095572480/img/OkfKp9fBqXrn33vs.jpg" width="600" alt="Blooming Botanical Peace Sign">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8603)**
+
+**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2084825858691170399) | **Published:** Aug 5, 2026
 
 ---
 ### Celestial Angelic Horse Gallop
@@ -228,11 +573,11 @@ Me dress like an angel with wings galloping in a white horse with wings too
 **Author:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **Source:** [Link](https://x.com/AngieRamos2030/status/2084807779319955856) | **Published:** Aug 5, 2026
 
 ---
-### Lion in Neon Nightclub
+### Lion and Sasha Neon Nightclub
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a majestic white-maned lion in a neon-lit nightclub setting with a character named Sasha.
+> A surreal prompt featuring a white-maned lion with a green chest in a nightclub setting with camera movement.
 
 #### 📝 Prompt
 
@@ -240,18 +585,18 @@ Me dress like an angel with wings galloping in a white horse with wings too
 The majestic white-maned lion with green chest stands next to non-binary Sasha in the neon nightclub. Soft camera movementos
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084800685011525632/img/igcNDJOd9EPid6y3.jpg" width="600" alt="Lion in Neon Nightclub">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084800685011525632/img/igcNDJOd9EPid6y3.jpg" width="600" alt="Lion and Sasha Neon Nightclub">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8542)**
 
 **Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2084800727894122548) | **Published:** Aug 5, 2026
 
 ---
-### Monochrome to Color Film Reel
+### Monochrome to Color Cinematic Transition
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A poetic video prompt depicting a silent film memory transitioning from grayscale to vibrant color.
+> A beautifully descriptive prompt for a cinematic sequence that transitions from a monochrome, silent film aesthetic into vibrant, golden light and saturated colors.
 
 #### 📝 Prompt
 
@@ -259,7 +604,7 @@ The majestic white-maned lion with green chest stands next to non-binary Sasha i
 Fading frames of a monochrome past flicker like a silent film, each memory etched in grayscale—shadows stretching long, laughter muted, love a whisper lost in the static. But now, a slow bloom of radiant hues washes over the reel, saturating every moment with warmth, joy, and devotion. Sepia tones dissolve into golden light, washed-out skies reborn in dazzling blues, and the dull hum of yesterday is replaced by the melody of life, vibrant and full. Love's gentle hand reaches through the celluloid haze, painting over sorrow, stitching sunlight into the fabric of time, until the story no longer drifts in muted silence but sings—an endless symphony of color, rebirth, and heart.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084783660230721536/img/Ygn3KWSz5KkG0CB5.jpg" width="600" alt="Monochrome to Color Film Reel">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084783660230721536/img/Ygn3KWSz5KkG0CB5.jpg" width="600" alt="Monochrome to Color Cinematic Transition">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8545)**
 
@@ -323,11 +668,11 @@ She taller than him and pulls out from under the bed some heels or wedges to mak
 **Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2084582209793474820) | **Published:** Aug 4, 2026
 
 ---
-### Peaceful Seaside Pastel Scene
+### Peaceful Seaside Moment
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A serene video prompt featuring soft pastel skies and a peaceful moment by the sea with a character in a white dress.
+> A serene video prompt featuring a character in a white dress against a backdrop of soft pastel skies by the ocean.
 
 #### 📝 Prompt
 
@@ -335,7 +680,7 @@ She taller than him and pulls out from under the bed some heels or wedges to mak
 Soft pastel skies, a white dress, and a quiet companion… A peaceful moment by the sea.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084581187247632385/img/0SIhrJaIZBc97NLk.jpg" width="600" alt="Peaceful Seaside Pastel Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084581187247632385/img/0SIhrJaIZBc97NLk.jpg" width="600" alt="Peaceful Seaside Moment">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8547)**
 
@@ -1970,336 +2315,6 @@ Grok, lütfen kum solucanının başını çevir çünkü oyuk açma şekli bu �
 **Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2082598813072507324) | **Published:** Jul 29, 2026
 
 ---
-### Okyanusta Yüzen Roket
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir roketin okyanusta yatay bir şekilde yüzdüğü ve bir adamın motor takarak onu kıyıya sürdüğü yaratıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Okyanusta yüzen bir roket videosu oluşturun. Ardından bir adam gelip roketin arkasına bir motor takıyor ve roketin üzerine oturarak onu kıyıya sürüyor. Lütfen roketin yatay bir şekilde yüzmesini sağlayın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082558692818378753/img/LXf39o6qexTkJk72.jpg" width="600" alt="Okyanusta Yüzen Roket">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8106)**
-
-**Author:** [Sofia @ Sacred Petals™](https://x.com/LightTemple) | **Source:** [Link](https://x.com/LightTemple/status/2082558813836620150) | **Published:** Jul 29, 2026
-
----
-### Gotik Ejderha Elf Kraliçesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Safir gözlü bir kadın ve karlı bir ormandaki ejderha için hiper gerçekçi sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-kamera ile çekilmiş kadın, doğal dokulu hiper gerçekçi cilt, görünür gözenekler, güzel simetrik yüz, detaylı doğal irise sahip canlı safir mavisi gözler, hafif doğal makyaj, dağınık perçemli ve gerçek saç telleriyle iki kalın gerçekçi örgü halinde uzun platin beyazı saçlar, sivri elf kulakları, detaylı siyah gotik taç, kollarda ve gövdede karmaşık siyah-gri dövmeler, otantik kumaş dokulu pembe straplez korse, katmanlı siyah gerdanlıklar ve kolyeler, vücuduna ve omuzlarına sarılmış hiper detaylı doğal pullara ve gerçekçi gözlere sahip büyük gerçekçi siyah ve pembe ejderha, karamsar sisli karlı orman arka planı, yumuşak dağıtılmış doğal ışıklandırma, yoğun şekilde doygunluğu azaltılmış soluk doğal renkler, gerçekçi film greni ve hafif gürültü.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082507829475188736/img/ZOCgDMtfcQzsOaof.jpg" width="600" alt="Gotik Ejderha Elf Kraliçesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8182)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2082507905622843650) | **Published:** Jul 29, 2026
-
----
-### Antik Mezar Hazine Avı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir mezar odasında geçen, 15 saniyelik gerilim dolu bir macera sahnesi için oldukça detaylı, sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Alice el fenerini taş lahdin içine tuttu ve kalıntılar arasında gizlenmiş tuhaf, metal bir madalyon keşfetti. Zihninde şüpheler belirdi; bu yüzden el fenerini kapattı ve yavaşça karanlığın içine doğru geri çekildi, mezarda yalnız olmadığını belli belirsiz hissetti. Antik bir mezar odasının içinde geçen, 15 saniyelik gerçekçi ve sinematik bir hazine avı sahnesi; gerilim dolu, ayakları yere basan ve duygusal yoğunluğu giderek artan, yüksek kaliteli bir macera filminden, tehlikeli bir şeyin ortaya çıkmasından hemen önceki bir an gibi. Kadın bir kaşif, açık taş lahdin üzerine eğilmiş, elinde fenerle mumyalanmış bir bedeni ve mezar hediyelerini inceliyor. Kalıntılar arasında duran tuhaf metal bir plakayı fark ediyor, yakından inceliyor, hafifçe dokunuyor, ardından neden orada olduğunu anlamaya çalışır gibi plaka ile kafatası arasında gidip geliyor. Bedende hiçbir hareket yok. Kalıntılar tamamen hareketsiz. Ancak sessiz bir huzursuzluk büyümeye başlıyor. El feneriyle etrafındaki odayı yavaşça tarıyor, mezarın derinliklerinden gelen hafif bir ses duyuyor, irkiliyor, ışığı daha keskin bir dikkatle tekrar gezdiriyor, ardından aniden el fenerini kapatıp derin bir tedirginlikle karanlığa doğru dikkatle geri çekiliyor. Görsel ton: Gerçekçi macera filmi atmosferi, tozlu antik mezar havası, karanlığı kesen sıcak bir el feneri ışığı, yaşlanmış taş, mezar oymaları, kuru döküntüler, hafif pus, dokulu cilt, kumaş, toz ve yıpranmış eserler. Oda kutsal, klostrofobik ve inandırıcı bir şekilde 'yanlış' hissettirmeli. Fantastik bir büyü ya da abartılı bir korku değil. Korku; gerçekçilikten, sessizlikten, karanlıktan, düşen tozlardan ve mezardaki bir şeyin onun farkında olabileceği hissinden gelmeli. Karakter performansı ve duygusal gelişim: Kaşif, temkinli ve araştırmacı bir odakla başlıyor. Plakayı fark ettiğinde ifadesi, nadir bir keşfin getirdiği konsantrasyon ve huzursuzlukla geriliyor. Önemli bir şey bulduğunu bilen ama bunun mezar eşyaları arasında doğal bir şekilde bulunmadığını hemen hisseden biri gibi görünüyor. Duygusal ilerleyişi net ve incelikli olmalı: tetikte bir merak, büyülenmiş bir inceleme, artan şüphe, içgüdüsel çevresel farkındalık, irkilerek geri çekilme, savunmacı bir tarama ve kontrollü korku. Mikro ifadelere vurgu yapın: plakaya bakarken kısılan gözler, incelerken hafifçe aralanan dudaklar, sakinleşen nefes, çatılan kaşlar, bakışların nesneden odanın çevresine kayması, uzaktan gelen sesten sonra sıkılan çene ve geri çekilirken sakin kalmak için gösterilen gözle görülür çaba. El feneri kullanımı kritik: El feneri hikaye anlatımının ana unsuru olmalı. Başlangıçta sabit ve pratik, lahit ve plaka incelemesine rehberlik ediyor. Işık, eliyle doğal bir şekilde hareket etmeli; plaka, sargılar, kemik yapısı ve tozdaki detayları ortaya çıkarmalı. Plakaya dokunup huzursuzluk hissetmeye başladığında, el feneri odadaki içgüdüsel taramasının bir parçası haline geliyor; tabut kenarları, yakındaki duvarlar, gölgeli köşeler ve daha derin karanlıklar üzerinde dikkatle hareket ediyor. Sesten sonra, el feneri irkilme tepkisiyle bir kez sarsılmalı, ardından odayı kontrol ederken kontrollü ama acil bir ışık huzmesine dönüşmeli. Sonuna doğru, ışığı kendi başına net ve kararlı bir hareketle kapatmalı. Kendi kendine sönmemeli veya titrememeli. Kapanış anı, ani bir hayatta kalma kararı ve geri dönüşü olmayan bir dönüm noktası gibi hissettirmeli. Beden dili ve el detayı: El fenerini baştan sona bir elinde tutuyor. Boşta kalan eli önemli bir rol oynuyor: plakanın üzerinde geziniyor, duraksıyor, ardından parmak uçlarıyla yüzeyini hafifçe fırçalıyor veya takip ediyor. Duruşu doğal bir şekilde evrilmeli: incelemek için lahdin üzerine eğilmek, plakayı incelerken yaklaşmak, plakayı kafatası ve sargılarla karşılaştırmak için başını hafifçe kaldırmak, ardından etrafına bakmak için yavaşça doğrulmak. Sesi duyduğunda bedeni hafifçe geri çekilmeli, ardından tarama yaparken savunmacı bir duruşla gerilmeli. Işığı kapattıktan sonra, omuzları gergin, yüzünü ve dikkatini karanlığa sabitleyerek dikkatli ve ölçülü adımlarla geri çekiliyor. Ceset davranışı: Beden ve kafatası her zaman tamamen hareketsiz kalmalı. Cesedi hiçbir şekilde hareket ettirmeyin. Gerilim tamamen onun tepkisinden, çevreden, mezarın derinliklerinden gelen sesten, düşen tozlardan ve el fenerini kapatma kararından kaynaklanmalı. Toz ve çevre detayı: İnce toz ve parçacıklar, huzursuzluğu inşa etmede aktif bir rol oynamalı. Sahnenin başlarında el feneri, durgun havadaki hafif tozları yakalıyor. Huzursuzluğu arttığında ve uzaktaki ses duyulduğunda, yukarıdan daha belirgin bir şekilde ince tozlar düşmeye başlıyor, ışık huzmesinin içinden süzülüp taş ve lahit kenarlarına yumuşakça konuyor. Bunu incelikli ve inandırıcı tutun. Büyük bir çöküş veya büyük enkaz parçaları olmasın. Oda antik, kuru, sessiz ve hafif dengesiz hissettirmeli; toz, karanlığın 'yaşanmış' hissetmesine yardımcı olmalı. Kamera dili: Akıcı, doğal ve gerilim odaklı. Ani kesmeler, gösterişli kamera numaraları veya montaj yok. Tek, kesintisiz ve akıcı bir çekim tercih edilir. Kamera, lahdin ve üst bedeninin yakınında başlamalı, izleyicinin hem plakayı hem de yüzünü okumasına izin vermeli. Dikkatini takip ederek akışkan bir şekilde hareket etmeli: plakayı incelerken hafifçe yaklaşmalı, bakışlarıyla kafatasına ve sargılara doğru kaymalı, ardından el fenerinin taramasının odanın daha fazlasını ortaya çıkarmasına izin verecek kadar genişlemeli. Ses mezarın derinliklerinden geldiğinde, kamera kaotikleşmeden onun irkilmesine ve geri çekilmesine yanıt vererek okunabilir ve samimi kalmalı. Hareket, her zaman onun dikkati ve korkusuyla motive edilen, dikkatli bir sinematik tanık gibi hissettirmeli. 15 saniyelik sahne ilerleyişi: 0-3 saniye: Açık lahdin üzerine eğilmiş, el fenerini kalıntılar ve mezar eşyaları üzerinde yavaşça gezdiriyor. Işık, sargılar ve kemikler arasında yatan tuhaf bir plakaya takılıyor. Hemen duruyor, gözleri odaklanmış bir merakla kısılıyor. Sessiz ve meraklı bir sesle şöyle diyor: “Bekle... bu da ne?” 3-6 saniye: Işığı alçaltıyor ve plakaya yaklaştırıyor, yüzeyini, kenarlarını ve işaretlerini inceliyor. Boşta kalan eli yavaşça yükseliyor, bir an tereddüt ediyor, ardından parmak uçlarıyla tozları temizleyerek plakaya hafifçe dokunuyor. İfadesi keşiften şüpheye evriliyor. Kısık bir sesle, neredeyse kendi kendine şöyle diyor: “Hayır... bu buraya kazara konulmamış.” 6-9 saniye: Hala odaklanmış bir şekilde, bakışlarını plakadan kafatasına ve çevresindeki sargılara kaldırıyor, nesnenin oraya nasıl geldiğini anlamaya çalışıyor. Hiçbir şey hareket etmiyor. Kalıntılar tamamen hareketsiz kalıyor. Ancak yüzüne sessiz bir huzursuzluk çöküyor. El fenerini yavaşça kaldırıyor ve odayı incelemeye başlıyor; önce gözleriyle, sonra ışıkla tabut kenarını, yakındaki duvarları, gölgeli köşeleri ve ötesindeki daha karanlık alanı tarıyor. Işık huzmesinde ince tozlar asılı kalıyor. 9-12 saniye: Odayı taramaya devam ederken, mezarın derinliklerinden hafif bir ses geliyor; hafif bir kazınma, yumuşak bir taş kayması veya uzaktan gelen kuru bir temas sesi. İrkiliyor ve yarım adım geri atılıyor, el feneri ışığı hareketiyle bir kez sarsılıyor. Yukarıdan daha belirgin bir şekilde tozlar düşmeye başlıyor, ışığın içinden süzülüyor. El fenerini daha sıkı kavrıyor ve artık tamamen tetikte bir şekilde, daha keskin bir dikkatle ışığı tekrar gezdiriyor. Kısık ve gergin bir sesle şöyle diyor: “Hayır... hayır, bunu duydum.” 12-15 saniye: Aniden ışığın yerini belli ettiğine karar veriyor. Tek, net ve kararlı bir hareketle el fenerini kapatıyor. Karanlık hemen çöküyor, geriye sadece hafif ortam izleri ve uçuşan tozlar kalıyor. Omuzları gergin, gözleri ilerideki karanlığa sabitlenmiş bir şekilde dikkatle geri çekiliyor. Çok kısık bir fısıltıyla şöyle diyor: “Burada bir şey var.” Odanın artık boş olmadığı hissiyle bitirin. Diyalog gereksinimleri: - İngilizce
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082489516733140994/img/ZncWPdN1YY6C1cMQ.jpg" width="600" alt="Antik Mezar Hazine Avı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8108)**
-
-**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2082490046972936620) | **Published:** Jul 29, 2026
-
----
-### Mermer Taş Mozaik Kedi Portresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tamamen karmaşık mermer mozaik karolar ve mineral parçalarından oluşturulmuş, son derece detaylı ve hiper-gerçekçi bir kedi portresi istemi.
-
-#### 📝 Prompt
-
-```
-Tamamen karmaşık mermer mozaik karolar ve cilalı mineral parçalarından yapılmış, ultra detaylı ve hiper-gerçekçi kedi yan profil portresi. Kedi, çiçek amblemli ve stilize harf desenli mermer mozaik bir beyzbol şapkası ile mineral mozaik camlara sahip yuvarlak taş çerçeveli gözlükler takıyor. Bıyıkları, sakalı andıran tüyleri ve yüz detayları, narin taş liflerinden ve karolardan şekillendirilmiş. Derisi/tüyleri, lüks bir taş mozaik dokusu oluşturan minik cilalı mermer karelerden oluşuyor. Çene hattı ve boynu boyunca, minyatür fütüristik taş şehir gökdelenleri ve mimari yapılar mozaik yüzeyden organik bir şekilde yükselerek kedi formunu mermer bir metropol ile birleştiriyor. Patisi, aynı detaylı mermer mozaik karolarla kaplı çenesinin üzerinde düşünceli bir şekilde duruyor ve parmaklarında parlayan koyu renkli değerli taşlara sahip süslü taş yüzükler bulunuyor. Kıyafeti, ayçiçeğine benzer süslemeler ve geometrik desenlerle bezenmiş, özenle işlenmiş bir mermer mozaik giysi. Dramatik stüdyo ışıklandırması, cilalı taş yüzeyleri ve aşırı detayı vurguluyor. Yüksek kontrast için derin siyah arka plan. Ultra keskin odak, sinematik aydınlatma, lüks editoryal fotoğrafçılık tarzı, hiper-gerçek dokular, aşırı detay, başyapıt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082488996022947840/img/tC0K1qojgoLhdW5P.jpg" width="600" alt="Mermer Taş Mozaik Kedi Portresi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8105)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2082489044496507259) | **Published:** Jul 29, 2026
-
----
-### Cuban Plaza Dancers Eklentisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Küba meydanındaki bir kutlama sahnesine iki yeni neşeli dansçı ekleyen Grok Imagine için bir video istemi.
-
-#### 📝 Prompt
-
-```
-Özgür bir Küba için aynı canlı Küba meydanı kutlamasında, ilk görselde halihazırda bulunan iki dansçıya eşlik eden, neşeyle dans eden iki yeni zarif kadın ekleyin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082332490052886528/img/hShvSTUf2DkmaxD8.jpg" width="600" alt="Cuban Plaza Dancers Eklentisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8095)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2082332516825129295) | **Published:** Jul 29, 2026
-
----
-### SpaceX Starship Okyanus Sürat Teknesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX Starship'in okyanusta yüzdüğünü ve motorları açık bir şekilde yüksek hızlı bir tekne gibi hareket ettiğini betimleyen yaratıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-SpaceX Starship, motorları açık bir şekilde sürat teknesi gibi okyanusta yüzüyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082282176201281536/img/H9RbjBFgsGpBubEH.jpg" width="600" alt="SpaceX Starship Okyanus Sürat Teknesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8093)**
-
-**Author:** [Matthew Peters](https://x.com/Matthew38546207) | **Source:** [Link](https://x.com/Matthew38546207/status/2082282199089545619) | **Published:** Jul 29, 2026
-
----
-### Kurdele İzli Japon Balıkları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dekoratif ayçiçeği kurdeleleriyle yüzen Japon balıklarını içeren zarif bir video istemi.
-
-#### 📝 Prompt
-
-```
-Japon balıkları, sarı ve kırmızı kurdeleler bırakarak zarif bir şekilde yüzüyor
-Kurdelelere ayçiçeği desenleri ekle
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082189523707195392/img/nXpp6GNbP8moe4wh.jpg" width="600" alt="Kurdele İzli Japon Balıkları">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8090)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082189578849710225) | **Published:** Jul 28, 2026
-
----
-### Kayıp Mega Faunalar Diyarı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Galaktik bir düzlükte ilerleyen mega fauna sürülerini yukarıdan aşağıya doğru bir açıyla gösteren sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Kayıp diyarlar 
-
-Galaksinin yalnızca bu bölgesinde bulunan düzlüklerde ilerleyen iç içe geçmiş mega fauna sürülerini daha yakından görmek için aşağıya doğru süzülüyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082162598921801728/img/yIS-mPRnnrVoie60.jpg" width="600" alt="Kayıp Mega Faunalar Diyarı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8088)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082162644371349900) | **Published:** Jul 28, 2026
-
----
-### Mozaik Kanatlı 1960'lar Retro Moda Portresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1960'ların yüksek moda fotoğrafçılığı tarzında, büyük siyah-altın mozaik kanatlı kırmızı elbiseli bir kadını konu alan Grok Imagine için sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Çilli bir cilde, küt kahküllü uzun düz parlak beyaz saçlara ve delici mavi gözlere sahip, omzunun üzerinden bakan zarif bir kadının hiper gerçekçi 1960'lar retro fotoğrafı. Minimalist kırmızı straplez bir elbise giyiyor; zarif, pürüzsüz ve vücuda oturan bir kesim. Devasa, dramatik siyah-altın mozaik kanatlar neredeyse tüm kareyi kaplıyor, ekranın tamamını dolduruyor; güçlü yanardöner metalik bir parlaklığa sahip, üst üste binen geometrik siyah ve altın cam parçalarından oluşuyor. Elinde, parlak şeffaf gövdeli ve zarif detaylara sahip lüks, kalp şeklinde kristal bir parfüm şişesi tutuyor. Güçlü kontrastlı dramatik sinematik yan aydınlatma, ciltte, kırmızı elbisede ve parfüm şişesinde yumuşak vurgular, minimalist karanlık stüdyo arka planı. 1970'ler-1980'lerden yüksek moda editoryal tarzı, sıcak vintage film tonları, hafif film greni. Son derece detaylı cilt dokusu ve çiller, yüz ve saç üzerinde keskin odak, sığ alan derinliği, kremsi bokeh, 16K ultra fotogerçekçi, başyapıt, en iyi kalite.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082145868107415552/img/adcq93hsCJLPlxmC.jpg" width="600" alt="Mozaik Kanatlı 1960'lar Retro Moda Portresi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8100)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2082145993550868756) | **Published:** Jul 28, 2026
-
----
-### Fantastik Sualtı Gergedan Krallığı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Foklar ve deniz kızları tarafından yönetilen bir su altı krallığında yaşayan gergedanları konu alan sürreal ve yaratıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Gergedanlar, deniz kızlarını hostes olarak çalıştıran fokların yönettiği bir su altı krallığına derin dalışlar yapıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082094123595550720/img/AExvo18sMhAOldhO.jpg" width="600" alt="Fantastik Sualtı Gergedan Krallığı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8092)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082094189953556535) | **Published:** Jul 28, 2026
-
----
-### Gergedanların Sualtı Mercan Resifi Keşfi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gergedanların okyanusa daldığı, mercan resifleri ve deniz kızları arasında yüzdüğü sürreal ve yaratıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Dal ve keşfet 
-
-Gergedanlar dalgaların altına dalarak, engin bir deniz yaşamı çeşitliliğine ev sahipliği yapan canlı mercan resifleriyle kaplı okyanus tabanına yüzerler ve burada deniz kızlarıyla birlikte yaşarlar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082092331210088448/img/WNEtJ_J6ZR_eFeU1.jpg" width="600" alt="Gergedanların Sualtı Mercan Resifi Keşfi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8096)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082092410855706805) | **Published:** Jul 28, 2026
-
----
-### Mutant At ve Kurt Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dört nala koşan atların, kurtlarla melezlenmiş kaslı mutantlara dönüşümünü anlatan yaratıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Zincirlerinden Boşaldı ⛓️‍💥
-
-Dört nala koşan bu atlar, kurtlarla melezlenmiş, aşırı kaslı mutantlara dönüşüyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082083275057598464/img/oMXM7rq7XCgGRYtv.jpg" width="600" alt="Mutant At ve Kurt Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8091)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082083301209096323) | **Published:** Jul 28, 2026
-
----
-### Aura Wizards Urban Fragmanı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ABD'de yaşayan, modaya uygun yazlık kıyafetler giyen büyücüler için fragman tarzında bir komut.
-
-#### 📝 Prompt
-
-```
-ABD'de yaşayan ve yaz için sade ama şık kıyafetlerle başkalarıyla birlikte dolaşan, Harry Potter benzeri Aura büyücülerinin fragmanı
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082042224292814848/img/DOaZdB7VKN_G8xEf.jpg" width="600" alt="Aura Wizards Urban Fragmanı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8089)**
-
-**Author:** [Chadwick A Sutton](https://x.com/BioMindBeliever) | **Source:** [Link](https://x.com/BioMindBeliever/status/2082042244391981565) | **Published:** Jul 28, 2026
-
----
-### Güneş ve Ay ile Dans Eden Kleopatra
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Renkli boyalı bir yüze ve dönen kozmik elementlere sahip, sanatsal bir Kleopatra videosu için ayrıntılı Japonca istem.
-
-#### 📝 Prompt
-
-```
-Kleopatra kılığına gireceğim. Beyaz ay ve turuncu güneş her yeri parlak bir şekilde aydınlatıyor. Gökyüzündeler. Ben Kleopatra oluyor; mutluluğun, cesaretin, kararlılığın, talihin, aşkın ve barışın gerçekleştiğini sevgi, saflık, hayaller ve umut dolu huzurlu bir gülümsemeyle haykırıyorum. Kraliçenin yüzü olan yüzüm; kırmızı, mavi, sarı, yeşil, siyah ve beyaz ana renklerle boyanmış bir tarzda. Saçlarım dışa doğru yayılıyor ve üzerinde beyaz üzerine siyah çizgiler var. Kanayan ve kaybolmak üzere olan saç uçlarımda, mor bir gökyüzünde ay ve güneş yer alıyor. Ay ve güneş etrafımda dönüyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081954481311465472/img/COw-w_FyuZtt_qRx.jpg" width="600" alt="Güneş ve Ay ile Dans Eden Kleopatra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8098)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2081954818181206424) | **Published:** Jul 28, 2026
-
----
-### Afro-Yerli Amerikalı Tanrıça Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli etnik özelliklere ve olumlu bir mesaja sahip bir tanrıça karakteri için detaylı video istemi.
-
-#### 📝 Prompt
-
-```
-Beni Afro-Yerli Amerikalı bir tanrıçaya dönüştür; uzun, güzel kıvırcık saçlı, koyu, pürüzsüz, melaninli ten rengine sahip, belirgin elmacık kemikli, çekik gözlü, güzel gülümsemeli ve 'asla pes etme' diyen biri olsun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081937002711429120/img/5odyLugnAsgKhsJ-.jpg" width="600" alt="Afro-Yerli Amerikalı Tanrıça Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8097)**
-
-**Author:** [𝓒𝓱𝓪𝓻𝓶𝓪𝓲𝓷𝓮🍫🍀](https://x.com/lovelyhousecat) | **Source:** [Link](https://x.com/lovelyhousecat/status/2081937054024577402) | **Published:** Jul 28, 2026
-
----
-### Grok Imagine Koşan Karakter Animasyonu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Forma rengi değişimleri ve squash and stretch gibi akıcı hareket teknikleriyle döngüsel bir koşu animasyonu oluşturmaya yönelik Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-Forma rengi her 0,7 saniyede bir değişir. İlk ve son kareleri akıcı bir şekilde birleştirin. Squash and stretch ve anticipation tekniklerini kullanarak doğal ve yumuşak hareketler. Koşma, kavisli hareket, Yavaş, Döngü, 12 fps, diyalog yok.
-```
-
-<img src="https://cms-assets.youmind.com/media/1785313939438_567xi2_HOR1I_sbMAAJiiW.jpg" width="600" alt="Grok Imagine Koşan Karakter Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8099)**
-
-**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2081923401623724240) | **Published:** Jul 28, 2026
-
----
-### Güneşli Kır Çiçeği Çayırında Otlayan Atlar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Arka planda meşe ağaçlarının bulunduğu güneşli bir çayırda, kır çiçekleri arasında otlayan iki atı gösteren huzurlu ve fotogerçekçi bir video istemi.
-
-#### 📝 Prompt
-
-```
-İki at, güneşli çayırda kır çiçeklerinin arasında sessizce otluyor, arka planda ise meşe ağaçları yer alıyor. Fotogerçekçi, parlak doğal ışık, huzurlu atmosfer. Orijinal çayır kompozisyonunu ve ışıklandırmayı koruyun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081913129752305665/img/MnUHHilVVaH6lbR6.jpg" width="600" alt="Güneşli Kır Çiçeği Çayırında Otlayan Atlar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2361,6 +2376,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-06T06:58:29.441Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-06T11:04:23.824Z</sub>
 
 </div>

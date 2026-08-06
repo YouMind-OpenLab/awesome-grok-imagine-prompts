@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2343** |
+| 📝 プロンプト総数 | **2360** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-08-06** |
 
@@ -189,6 +189,313 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Christmas Kitten Snow Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A festive video prompt showing a kitten and a woman playing in a gentle snowfall with holiday decorations.
+
+#### 📝 プロンプト
+
+```
+Kitten playing in snow with a woman, surrounded by Christmas decorations and gentle snowfall
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085261391238438912/img/RTtfdgLc-WDnjQhw.jpg" width="600" alt="Christmas Kitten Snow Scene">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8611)**
+
+**作者:** [Grok imagine user](https://x.com/imagine_user_) | **ソース:** [Link](https://x.com/imagine_user_/status/2085261433890369893) | **公開日:** Aug 6, 2026
+
+---
+### Cinematic Rainy Car Entry
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a video showing a man entering a vintage Cadillac in the rain, focusing on atmosphere and tactile movements.
+
+#### 📝 プロンプト
+
+```
+The man slowly reaches his free hand for the driver’s side door handle of the vintage Cadillac while still holding the six-shooter pointed down in the other hand. He opens the door and begins sliding into the driver’s seat. Rain continues kissing the windshield
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085260228413562880/img/bzJmrQdY2nMKQuJ2.jpg" width="600" alt="Cinematic Rainy Car Entry">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8608)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2085260396231832015) | **公開日:** Aug 6, 2026
+
+---
+### Cinematic Korean Woman Bedroom Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An extremely detailed multi-shot prompt for a photorealistic vlog-style video of a Korean woman in her bedroom.
+
+#### 📝 プロンプト
+
+```
+Ultra-realistic cinematic vertical video, 10 seconds. A beautiful young Korean woman relaxes in her cozy bedroom at night, wearing the same oversized white T-shirt. Warm bedside lamp lighting creates a soft, intimate atmosphere while photo prints decorate the wall behind her. The video consists of multiple natural handheld selfie shots, as if filmed on a phone for a personal vlog.
+
+Shot 1 (0–2s): Front selfie shot. She smiles warmly at the camera while maintaining eye contact, then gives a playful wink. A few loose strands of hair fall naturally across her face.
+
+Shot 2 (2–4s): Extreme close-up from a slightly lower angle. She gently brushes the hair away from her face, smiles softly, and blinks naturally as the camera subtly moves closer.
+
+Shot 3 (4–6s): Three-quarter side selfie. She slowly turns her head toward the warm bedside lamp, smiles to herself, then looks back at the camera. Her hair moves naturally with the motion.
+
+Shot 4 (6–8s): Over-the-shoulder selfie. She briefly glances toward the photo wall behind her, then laughs quietly before turning back toward the camera. The handheld movement feels natural and authentic.
+
+Shot 5 (8–10s): Close-up selfie. She leans slightly closer to the camera, gives another playful wink followed by a soft smile, then gently tilts her head as the camera slowly pulls back, ending with a cozy bedroom ambiance.
+
+Style: Ultra-photorealistic, natural facial expressions, realistic blinking, subtle breathing, lifelike hair physics, authentic smartphone handheld movement, warm ambient lighting, shallow depth of field, premium cinematic color grading, 24 fps, 8K, cozy Korean bedroom aesthetic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cinematic Korean Woman Bedroom Vlog">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8613)**
+
+**作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **ソース:** [Link](https://x.com/iamahmedfaraz66/status/2085211763214028933) | **公開日:** Aug 6, 2026
+
+---
+### Stegosaurus Moon Rocket Surgery
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal animation prompt where a dinosaur aids the moon by removing a rocket part through physical action.
+
+#### 📝 プロンプト
+
+```
+Get it out!
+
+The moon is aided by the stegosaurus removes the rocket part with a fierce bite and swift pull. The moon has agonizing expressions during the removal.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085200311438786560/img/i7NFCCt2IdCnWtEg.jpg" width="600" alt="Stegosaurus Moon Rocket Surgery">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8600)**
+
+**作者:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **ソース:** [Link](https://x.com/PhilipC34457079/status/2085200363037049325) | **公開日:** Aug 6, 2026
+
+---
+### Space Dancing in Pink Outfit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A playful video prompt for dancing in outer space wearing a stylish pink outfit.
+
+#### 📝 プロンプト
+
+```
+Make a video of me dancing in outer space in a baby pink space outfit. Not necessarily a spacesuit.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085195421807194112/img/O7JIITRYsbE3CxFa.jpg" width="600" alt="Space Dancing in Pink Outfit">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8606)**
+
+**作者:** [DeCarlos 🎀](https://x.com/barbiepop_) | **ソース:** [Link](https://x.com/barbiepop_/status/2085195464169730392) | **公開日:** Aug 6, 2026
+
+---
+### Einstein Artistic Tribute
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex artistic prompt designed to create a tribute to Albert Einstein using reference portraits.
+
+#### 📝 プロンプト
+
+```
+Create a powerful artistic tribute to E=mc². Use the likeness and face of Albert Einstein from the reference portraits as the main subject, shown thoughtfully observing or writing. Incorporate the handwritten style of the equation E=mc² from the thir...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085177987834548224/img/2xLYtLhxIh10Nxh1.jpg" width="600" alt="Einstein Artistic Tribute">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8602)**
+
+**作者:** [Elizabeth](https://x.com/ElizabethC25755) | **ソース:** [Link](https://x.com/ElizabethC25755/status/2085178030255636915) | **公開日:** Aug 6, 2026
+
+---
+### Cyberpunk Noodle Bar Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for a conversation at a cyberpunk noodle bar, including an extension for added interaction.
+
+#### 📝 プロンプト
+
+```
+An man talking to a woman about the weather at a cyberpunk noodle bar. Covered outdoor area, bar height seating. Rain falling behind them. Sitting side by side
+
+EXTEND PROMPT: The cook brings them bowls of ramen and make a remark
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085038273026727936/img/eAWGQyaR4Zvkxh1N.jpg" width="600" alt="Cyberpunk Noodle Bar Scene">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8612)**
+
+**作者:** [Dave](https://x.com/DavidGetchel) | **ソース:** [Link](https://x.com/DavidGetchel/status/2085039726579618187) | **公開日:** Aug 5, 2026
+
+---
+### Daenerys Riding Drogon Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic Game of Thrones prompt featuring Daenerys Targaryen riding her dragon over cliffs at golden hour.
+
+#### 📝 プロンプト
+
+```
+A breathtakingly beautiful cinematic scene from Game of Thrones: Daenerys Targaryen riding her magnificent black dragon Drogon high above the rugged cliffs and turquoise waters of Westeros at golden hour. The dragon's massive wings stretch wide.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085036200986030080/img/7jdCrIsMi5af5JbP.jpg" width="600" alt="Daenerys Riding Drogon Scene">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8607)**
+
+**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **ソース:** [Link](https://x.com/AnnetteHollerWe/status/2085036332917944744) | **公開日:** Aug 5, 2026
+
+---
+### Cosmic Eye of God DNA Helix
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A spiritual and cosmic prompt describing a double helix iris formed by galaxies, creating an all-knowing eye.
+
+#### 📝 プロンプト
+
+```
+Eye👁️of God.
+
+These galaxies 🌌 intertwined form a double helix 🧬 loop that is the iris of an all knowing large eye 👁️ that is GOD.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085022223706812416/img/kfAGJuZkvGssXGuS.jpg" width="600" alt="Cosmic Eye of God DNA Helix">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8610)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2085022273816150178) | **公開日:** Aug 5, 2026
+
+---
+### Metallic Fractal Grace
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for an animation of a character performing among metallic fractals in an inverse realm.
+
+#### 📝 プロンプト
+
+```
+In the Inverse realm Alchemedia performs her metallic grace among the fractals that accumulate her being as she does theirs.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085015842454921217/img/agma4Z4eFUMbYIxZ.jpg" width="600" alt="Metallic Fractal Grace">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8614)**
+
+**作者:** [Cook](https://x.com/AIArtCook) | **ソース:** [Link](https://x.com/AIArtCook/status/2085016121464312295) | **公開日:** Aug 5, 2026
+
+---
+### Puppy to Dire Wolf Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A transformation video prompt transitioning a puppy into a mystical dire wolf with Fibonacci swirl eyes.
+
+#### 📝 プロンプト
+
+```
+Back to her roots 
+
+This puppy transforms into the form of a Snow White dire wolf 🐺 with deep blue eyes that are infinite ♾️ pools of Fibonacci swirls. The wolf’s coat has frosted icy blue tips.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084997779722493952/img/urgJMu6QvwIZpvdU.jpg" width="600" alt="Puppy to Dire Wolf Transformation">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8601)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2084997846529401319) | **公開日:** Aug 5, 2026
+
+---
+### Pastel Stealth Bomber Lights
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt combining stealth bombers with holiday lights in a pastel color palette.
+
+#### 📝 プロンプト
+
+```
+Make a Conspiracy4Love video of pastel hues about seeing Stealth Bombers of Halloween or Christmas lights....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084987240766222336/img/nLqgfhxMApVQvD4u.jpg" width="600" alt="Pastel Stealth Bomber Lights">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8599)**
+
+**作者:** [Chadwick A Sutton](https://x.com/BioMindBeliever) | **ソース:** [Link](https://x.com/BioMindBeliever/status/2084987287457210426) | **公開日:** Aug 5, 2026
+
+---
+### Dragon Class Evolution
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex motion prompt describing the evolution and combination of neon green dragons into a giant frog dragon.
+
+#### 📝 プロンプト
+
+```
+Class evolution 
+
+These dragons proceed to form a new larger dragon by combining their flaming neon green breath with creates an enormous yellow frog dragon with bright blue eyes that is 4 times their size.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084970174583640064/img/dmfKMee8S83ONFJJ.jpg" width="600" alt="Dragon Class Evolution">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8609)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2084970238685204922) | **公開日:** Aug 5, 2026
+
+---
+### Cinematic Coffee Catch Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed 10-second cinematic animation prompt where a character catches a high-speed flying coffee mug with athletic precision.
+
+#### 📝 プロンプト
+
+```
+10-second cinematic sequence.  Begin from the exact edited image.  Preserve the exact character, face, hairstyle, clothing, proportions, lighting, and composition.  The camera remains completely locked.  The animation begins immediately.  Within the first 0.2 seconds, a matte black steaming coffee mug suddenly enters from the LEFT side of the frame at very high speed.  The mug follows a clean, straight horizontal trajectory with natural physics.  The mug remains perfectly upright.  No coffee spills.  Steam stretches behind the mug as a continuous motion trail.  The character notices the incoming mug at the last possible moment.  Instant athletic reaction.  Eyes lock onto the mug.  The body shifts naturally.  The character reaches out and catches the mug cleanly with one hand while allowing the arm and shoulders to absorb the momentum.  The catch feels smooth, believable, and athletic, like an experienced baseball player receiving a hard throw.  The mug never tumbles.  The coffee remains inside.  Not a single drop spills.  A quick smile appears.  The character briefly admires the successful catch.  (Optional) One quick sip.  Immediately the body transitions into a powerful baseball-style throwing motion.  The free arm extends naturally toward the target.  The throwing arm rotates through the shoulders and hips.  The mug becomes a rigid projectile.  The fingers open.  The mug completely separates from the hand.  Visible empty space appears between the fingers and the mug.  The mug accelerates rapidly toward the RIGHT edge of the frame.  Steam trails behind the mug continuously.  The mug completely exits the RIGHT side of the screen before the 8-second mark.  The camera smoothly follows the mug for a brief moment, then naturally eases back to the character completing the follow-through.  Dust kicks up around the planted foot.  Hair and clothing react naturally to the momentum.  The character finishes the throw with an EMPTY hand while watching the mug successfully leave the frame.  Natural physics.  One continuous shot.  Ultra-photoreal.  Locked character consistency.  No warping.  No duplicated mug.  No duplicated hands.  No extra limbs.  No spilled coffee.  No cuts.  No transitions.  The mug must visibly enter from the LEFT, be caught once, then visibly leave to the RIGHT while remaining upright for the entire sequence.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084961493427109888/img/umu6xa7alKBQjRuY.jpg" width="600" alt="Cinematic Coffee Catch Sequence">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8604)**
+
+**作者:** [Lala](https://x.com/keepgoingAnnie) | **ソース:** [Link](https://x.com/keepgoingAnnie/status/2084962046966206967) | **公開日:** Aug 5, 2026
+
+---
+### X-MAN Rocket Launch Celebration
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of X-MAN in front of a rocket launch, releasing reward cards with glowing green particles.
+
+#### 📝 プロンプト
+
+```
+A massive rocket launches behind X-MAN. As the rocket clears the launch tower, glowing green particles explode across the sky. X-MAN crosses his metallic X gauntlets before extending both arms, releasing streams of glowing TSLA and SPCX reward cards toward thousands of digital holders below. The camera alternates between low-angle hero shots and dramatic aerial views.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084904576973729792/img/GzCeJ_KamTanL1mb.jpg" width="600" alt="X-MAN Rocket Launch Celebration">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8605)**
+
+**作者:** [Optimistic Degen](https://x.com/OptimisticD3G3n) | **ソース:** [Link](https://x.com/OptimisticD3G3n/status/2084904616865796342) | **公開日:** Aug 5, 2026
+
+---
 ### X-Man Futuristic Headquarters Walk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +513,44 @@ X-MAN confidently walks through a futuristic black-and-green headquarters inspir
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8539)**
 
 **作者:** [Optimistic Degen](https://x.com/OptimisticD3G3n) | **ソース:** [Link](https://x.com/OptimisticD3G3n/status/2084872071956611254) | **公開日:** Aug 5, 2026
+
+---
+### Justice Allegory Black Hole Vortex
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic metaphorical prompt transforming cosmic chaos into a balanced scene of justice within a black hole.
+
+#### 📝 プロンプト
+
+```
+Transform this swirling cosmic chaos of the universe being swallowed into a powerful allegory of Justice. At the heart of the black-hole vortex, a colossal golden scales of justice hangs perfectly balanced, held aloft by a towering blindfolded Lady J...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084856223095205888/img/B5DWfaQgIiejsVvb.jpg" width="600" alt="Justice Allegory Black Hole Vortex">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8598)**
+
+**作者:** [Charity Spence](https://x.com/CharitySpence) | **ソース:** [Link](https://x.com/CharitySpence/status/2084856438086930478) | **公開日:** Aug 5, 2026
+
+---
+### Blooming Botanical Peace Sign
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A nature-themed video prompt describing the slow blooming and growth of flowers and vines forming a peace sign.
+
+#### 📝 プロンプト
+
+```
+The botanical peace sign slowly comes to life. Tiny buds emerge and bloom at different paces — some flowers open quickly while others unfurl more slowly. Leaves curl outward, vines gently weave through the form, and small tendrils search for empty sp...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084825827095572480/img/OkfKp9fBqXrn33vs.jpg" width="600" alt="Blooming Botanical Peace Sign">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8603)**
+
+**作者:** [LisaVale](https://x.com/DriftNShadow) | **ソース:** [Link](https://x.com/DriftNShadow/status/2084825858691170399) | **公開日:** Aug 5, 2026
 
 ---
 ### Celestial Angelic Horse Gallop
@@ -228,11 +573,11 @@ Me dress like an angel with wings galloping in a white horse with wings too
 **作者:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **ソース:** [Link](https://x.com/AngieRamos2030/status/2084807779319955856) | **公開日:** Aug 5, 2026
 
 ---
-### Lion in Neon Nightclub
+### Lion and Sasha Neon Nightclub
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a majestic white-maned lion in a neon-lit nightclub setting with a character named Sasha.
+> A surreal prompt featuring a white-maned lion with a green chest in a nightclub setting with camera movement.
 
 #### 📝 プロンプト
 
@@ -240,18 +585,18 @@ Me dress like an angel with wings galloping in a white horse with wings too
 The majestic white-maned lion with green chest stands next to non-binary Sasha in the neon nightclub. Soft camera movementos
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084800685011525632/img/igcNDJOd9EPid6y3.jpg" width="600" alt="Lion in Neon Nightclub">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084800685011525632/img/igcNDJOd9EPid6y3.jpg" width="600" alt="Lion and Sasha Neon Nightclub">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8542)**
 
 **作者:** [Cyperpienso](https://x.com/cyperpienso) | **ソース:** [Link](https://x.com/cyperpienso/status/2084800727894122548) | **公開日:** Aug 5, 2026
 
 ---
-### Monochrome to Color Film Reel
+### Monochrome to Color Cinematic Transition
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A poetic video prompt depicting a silent film memory transitioning from grayscale to vibrant color.
+> A beautifully descriptive prompt for a cinematic sequence that transitions from a monochrome, silent film aesthetic into vibrant, golden light and saturated colors.
 
 #### 📝 プロンプト
 
@@ -259,7 +604,7 @@ The majestic white-maned lion with green chest stands next to non-binary Sasha i
 Fading frames of a monochrome past flicker like a silent film, each memory etched in grayscale—shadows stretching long, laughter muted, love a whisper lost in the static. But now, a slow bloom of radiant hues washes over the reel, saturating every moment with warmth, joy, and devotion. Sepia tones dissolve into golden light, washed-out skies reborn in dazzling blues, and the dull hum of yesterday is replaced by the melody of life, vibrant and full. Love's gentle hand reaches through the celluloid haze, painting over sorrow, stitching sunlight into the fabric of time, until the story no longer drifts in muted silence but sings—an endless symphony of color, rebirth, and heart.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084783660230721536/img/Ygn3KWSz5KkG0CB5.jpg" width="600" alt="Monochrome to Color Film Reel">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084783660230721536/img/Ygn3KWSz5KkG0CB5.jpg" width="600" alt="Monochrome to Color Cinematic Transition">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8545)**
 
@@ -323,11 +668,11 @@ She taller than him and pulls out from under the bed some heels or wedges to mak
 **作者:** [Brian](https://x.com/luvsheight) | **ソース:** [Link](https://x.com/luvsheight/status/2084582209793474820) | **公開日:** Aug 4, 2026
 
 ---
-### Peaceful Seaside Pastel Scene
+### Peaceful Seaside Moment
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A serene video prompt featuring soft pastel skies and a peaceful moment by the sea with a character in a white dress.
+> A serene video prompt featuring a character in a white dress against a backdrop of soft pastel skies by the ocean.
 
 #### 📝 プロンプト
 
@@ -335,7 +680,7 @@ She taller than him and pulls out from under the bed some heels or wedges to mak
 Soft pastel skies, a white dress, and a quiet companion… A peaceful moment by the sea.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084581187247632385/img/0SIhrJaIZBc97NLk.jpg" width="600" alt="Peaceful Seaside Pastel Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084581187247632385/img/0SIhrJaIZBc97NLk.jpg" width="600" alt="Peaceful Seaside Moment">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8547)**
 
@@ -1926,336 +2271,6 @@ Grok、サンドワームの頭の向きを変えて。それが彼が地中を�
 **作者:** [Michael Bradley](https://x.com/MikeBradleySr2) | **ソース:** [Link](https://x.com/MikeBradleySr2/status/2082598813072507324) | **公開日:** Jul 29, 2026
 
 ---
-### 海に浮かぶロケット
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ロケットが海面に水平に浮かび、男性がモーターを取り付けてそれに乗り、岸まで移動するというクリエイティブな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-海に浮かぶロケットの動画を作成してください。そこに男性が現れ、ロケットの後部にモーターを取り付け、ロケットの上にまたがって岸まで運転していく様子を描いてください。ロケットは海面に水平に浮かぶようにしてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082558692818378753/img/LXf39o6qexTkJk72.jpg" width="600" alt="海に浮かぶロケット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8106)**
-
-**作者:** [Sofia @ Sacred Petals™](https://x.com/LightTemple) | **ソース:** [Link](https://x.com/LightTemple/status/2082558813836620150) | **公開日:** Jul 29, 2026
-
----
-### ゴシック・ドラゴン・エルフ・クイーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> サファイアの瞳を持つ女性とドラゴンが雪の森に佇む、ハイパーリアルなシネマティック・プロンプト。
-
-#### 📝 プロンプト
-
-```
-カメラで捉えた女性、自然な質感のハイパーリアルな肌、目に見える毛穴、美しい左右対称の顔立ち、詳細な虹彩まで表現された鮮やかなサファイアブルーの瞳、ソフトで自然なメイク、2 本の太いリアルな三つ編みにしたプラチナホワイトのロングヘア、無造作な前髪とリアルな髪の毛の質感、尖ったエルフの耳、精巧な黒のゴシック調の冠、腕と胴体に施された複雑な黒とグレーのタトゥー、本物の生地の質感を持つピンクのストラップレスコルセット、重ね付けされた黒のチョーカーとネックレス、体と肩に巻き付いた大きくリアルな黒とピンクのドラゴン（ハイパーディテールな鱗とリアルな瞳）、霧が立ち込める雪の森の背景、柔らかく拡散した自然光、彩度を抑えた落ち着いた自然な色調、リアルなフィルムグレインと微細なノイズ。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082507829475188736/img/ZOCgDMtfcQzsOaof.jpg" width="600" alt="ゴシック・ドラゴン・エルフ・クイーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8182)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2082507905622843650) | **公開日:** Jul 29, 2026
-
----
-### 古代墓のトレジャーハント
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 墓室での緊迫した 15 秒間の冒険シーンに向けた、非常に詳細で映画のようなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-アリスが懐中電灯を石棺の中に照らすと、遺骨の間に隠された奇妙な金属製のメダルが見つかった。疑念を抱いた彼女は懐中電灯を消し、暗闇の中をゆっくりと後ずさりした。墓の中に自分以外に誰かいるような気配をかすかに感じたからだ。古代の墓室での 15 秒間のリアルな映画的トレジャーハントシーン。緊迫感があり、地に足がついており、感情が高まっていくような、質の高い冒険映画で何かが現れる直前のワンシーンのような雰囲気。女性探検家が石棺に身を乗り出し、懐中電灯を手にミイラ化した遺体と副葬品を調べている。彼女は遺体の間に置かれた奇妙な金属製の銘板に気づき、それをじっくりと観察し、軽く触れてから、なぜそれがそこにあるのかを理解しようとするかのように、銘板と頭蓋骨を交互に見つめる。遺体は一切動かない。遺骸は完全に静止している。しかし、静かな不安が徐々に募っていく。彼女は懐中電灯で周囲の墓室をゆっくりと照らし、墓の奥からかすかな音を聞いて驚き、より鋭い警戒心で再び光を走らせる。そして突然、懐中電灯を消し、深い不安を感じながら慎重に暗闇の中へと後ずさりする。視覚的なトーン：地に足のついた冒険映画のリアリズム、埃っぽい古代墓の雰囲気、暗闇を切り裂く懐中電灯の温かい光、古びた石、墓の彫刻、乾いた破片、かすかな霞、質感のある肌、布地、埃、そして使い古された遺物。墓室は神聖で閉所恐怖症を誘うような、信憑性のある「異様さ」を感じさせるべきである。ファンタジーの魔法や誇張されたホラーではない。恐怖はリアリズム、静寂、暗闇、舞い落ちる埃、そして墓の中の何かが彼女の存在に気づいているかもしれないという感覚から生まれるべきである。キャラクターの演技と感情の弧：探検家は最初は慎重な調査の集中から始まる。銘板に気づいたとき、彼女の表情は発見の集中と不安が入り混じったものに引き締まる。彼女は重要なものを見つけたかもしれないと自覚しているが、それが本来副葬品の中に存在するはずがないと直感する。彼女の感情の推移は明確かつ繊細であるべきだ：警戒心のある好奇心、魅了された観察、高まる疑念、本能的な環境への意識、驚いてのけぞる動作、防御的な周囲の確認、そして制御された恐怖。微細な表情を強調すること：銘板を見て細められる目、観察する際にわずかに開く唇、静まる呼吸、寄せられる眉、対象物から周囲の墓室へと移る視線、遠くの音を聞いた後の引き締まる顎、そして後退しながら冷静さを保とうとする目に見える緊張。懐中電灯の使い方は極めて重要である：懐中電灯は物語の主要な要素でなければならない。最初は安定しており、石棺と銘板を調べるための実用的な道具である。光は彼女の手の動きに合わせて自然に動き、銘板、包帯、骨格、埃の細部を浮かび上がらせる。彼女が銘板に触れて不安を感じ始めると、懐中電灯は彼女の本能的な周囲の確認の一部となり、棺の縁、近くの壁、影になった隅、そしてさらに深い暗闇を慎重に照らす。音が聞こえた後、懐中電灯は彼女の驚きに合わせて一度大きく揺れ、その後、墓室を確認するために制御された、しかし切迫した光となる。最後には、彼女自身が明確かつ意図的な動作でスイッチを切らなければならない。勝手に点滅したり消えたりしてはならない。消灯は、突然の生存のための決断であり、紛れもない転換点であると感じさせる必要がある。身体言語と手の詳細：彼女は終始片手に懐中電灯を持っている。空いている方の手は重要な役割を果たす：銘板の上をさまよい、一時停止し、指先で優しく触れたりなぞったりする。姿勢は自然に変化する：石棺を調べるために身を乗り出し、銘板を観察するために近づき、銘板と頭蓋骨や包帯を比較するためにわずかに頭を上げ、周囲を見回すためにゆっくりと体を起こす。音が聞こえると、彼女の体はわずかにのけぞり、周囲を確認するために防御的な姿勢に引き締まる。ライトを消した後、彼女は肩を緊張させ、顔と意識を前方の暗闇に向けたまま、慎重で測定された歩幅で後退する。死体の挙動：遺体と頭蓋骨は常に完全に静止していなければならない。死体をいかなる形でも動かしてはならない。サスペンスは、彼女の反応、環境、墓の奥からの音、舞い落ちる埃、そして懐中電灯を消すという決断からのみ生まれるべきである。埃と環境の詳細：細かい埃や粉塵は、不安を醸成する上で積極的な役割を果たすべきである。シーンの序盤では、懐中電灯が静止した空気中に漂うかすかな埃を捉える。彼女の不安が高まり、遠くの音が聞こえると、細かい埃が上からより顕著に落ち始め、光の中を漂い、石や石棺の縁に静かに降り積もる。繊細かつ信憑性のある描写を保つこと。大きな崩落や大きな破片は不要。墓室は古代の、乾燥した、静かな、そしてわずかに不安定な場所であると感じさせ、埃が暗闇に「何かが潜んでいる」ような感覚を与える助けとなるようにする。カメラワーク：スムーズで自然、かつサスペンス主導であること。急なカット、派手なカメラトリック、モンタージュは禁止。単一の連続した流れるようなショットが望ましい。カメラは石棺と彼女の上半身の近くから始まり、観客が銘板と彼女の顔の両方を読み取れるようにする。カメラは彼女の意識に合わせて流動的に動くべきである：銘板を調べる際にわずかに寄り、頭蓋骨や包帯へと視線が移るのに合わせて動き、懐中電灯の光が墓室のより広い範囲を照らせるようにわずかに引く。墓の奥から音が聞こえるとき、カメラは彼女ののけぞりや後退に反応しつつも、混沌とすることなく、親密で読み取りやすい状態を保つべきである。動きは、常に彼女の意識と恐怖に動機づけられた、慎重な映画的目撃者のように感じられるべきである。15 秒間のシーンの進行：0～3秒：彼女は開いた石棺に身を乗り出し、懐中電灯の光を遺体と副葬品にゆっくりと走らせる。光が包帯と骨の間に横たわる奇妙な銘板を捉える。彼女はすぐに動きを止め、好奇心に集中して目を細める。静かで興味をそそられた声で、彼女は言う：「待って……これは何？」3～6秒：彼女は光を下げ、銘板に近づけて、その表面、縁、刻印を調べる。空いている手がゆっくりと上がり、一瞬ためらってから、指先で軽く銘板に触れ、埃を払う。彼女の表情は発見から疑念へと変わる。低い声で、自分に言い聞かせるように言う：「まさか……これは偶然ここに置かれたものじゃない」6～9秒：集中したまま、彼女は視線を銘板から頭蓋骨と周囲の包帯へと移し、どうしてその物体がそこにあるのかを理解しようとする。何も動かない。遺骸は完全に静止している。しかし、静かな不安が彼女の顔に広がる。彼女はゆっくりと懐中電灯を上げ、周囲を見回し始める。まず視線を走らせ、次に光を棺の縁、近くの壁、影になった隅、そしてその先の暗い空間へと向ける。光の中に細かい埃が漂っている。9～12秒：墓室をスキャンし続けると、墓の奥からかすかな音が聞こえる――わずかな擦れる音、石が動く柔らかい音、あるいは遠くで何かが触れ合う乾いた音。彼女は驚いて半歩後ずさりし、動きに合わせて懐中電灯の光が一度大きく揺れる。上から埃がより顕著に落ち始め、光の中を漂う。彼女は懐中電灯を握りしめ、より鋭い警戒心で再び光を走らせ、完全に覚醒する。低く緊張した声で言う：「いや……違う、今の音を聞いた」12～15秒：彼女は突然、光が自分の位置をさらしていると判断する。明確かつ意図的な動作で、懐中電灯のスイッチを切る。暗闇がすぐに迫り、かすかな環境光の痕跡と浮遊する埃だけが残る。彼女は肩を緊張させ、前方の暗闇を凝視したまま、慎重に後退する。非常に低いささやき声で言う：「何かが、ここにいる」墓室がもはや空ではないという感覚で終わる。セリフの要件：- 英語
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082489516733140994/img/ZncWPdN1YY6C1cMQ.jpg" width="600" alt="古代墓のトレジャーハント">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8108)**
-
-**作者:** [Loriel.AI](https://x.com/ou_zhen599) | **ソース:** [Link](https://x.com/ou_zhen599/status/2082490046972936620) | **公開日:** Jul 29, 2026
-
----
-### 大理石モザイクの猫のポートレート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 精巧な大理石のモザイクタイルと鉱物の破片で構成された、極めて詳細でハイパーリアルな猫のポートレート用プロンプト。
-
-#### 📝 プロンプト
-
-```
-精巧な大理石のモザイクタイルと研磨された鉱物の破片のみで構成された、極めて詳細でハイパーリアルな猫の横顔ポートレート。猫は、花のエンブレムとスタイリッシュな文字模様があしらわれた大理石モザイクの野球帽を被り、鉱物モザイクのレンズが入った石枠の丸眼鏡をかけている。髭や顎の毛、顔のディテールは、繊細な石のフィラメントとタイルで彫刻されている。肌や毛並みは、小さな研磨された大理石の正方形が組み合わさり、豪華な石のモザイクテクスチャを形成している。顎のラインと首元からは、未来的な石造りの超高層ビルや建築構造物がモザイクの表面から有機的に現れ、猫のフォルムと大理石のメトロポリスが融合している。前足は思慮深く顎に添えられており、同様に詳細な大理石モザイクタイルで覆われ、輝くダークジェムストーンが埋め込まれた華やかな石の指輪をはめている。衣服は、ひまわりのような装飾と幾何学模様で飾られた精巧な大理石モザイクの衣装。ドラマチックなスタジオ照明が、研磨された石の表面と極限のディテールを際立たせている。コントラストを高める深い黒の背景。超シャープなフォーカス、映画のようなライティング、高級エディトリアル写真スタイル、ハイパーリアルな質感、極限のディテール、傑作。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082488996022947840/img/tC0K1qojgoLhdW5P.jpg" width="600" alt="大理石モザイクの猫のポートレート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8105)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2082489044496507259) | **公開日:** Jul 29, 2026
-
----
-### Cuban Plaza Dancers 拡張機能
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キューバの広場での祝祭シーンに、楽しげに踊る 2 人のダンサーを追加する Grok Imagine 用のビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-自由なキューバを祝う活気あふれる広場のシーンにおいて、最初の画像にいる 2 人のダンサーに加え、楽しげに踊る優雅な女性 2 人を新たに追加してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082332490052886528/img/hShvSTUf2DkmaxD8.jpg" width="600" alt="Cuban Plaza Dancers 拡張機能">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8095)**
-
-**作者:** [Cyperpienso](https://x.com/cyperpienso) | **ソース:** [Link](https://x.com/cyperpienso/status/2082332516825129295) | **公開日:** Jul 29, 2026
-
----
-### SpaceX Starship オーシャンスピードボート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX Starship が海上に浮かび、エンジンを噴射しながら高速ボートのように走行する様子を描いた想像力豊かなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-エンジンを噴射してスピードボートのように海面を走行する SpaceX Starship
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082282176201281536/img/H9RbjBFgsGpBubEH.jpg" width="600" alt="SpaceX Starship オーシャンスピードボート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8093)**
-
-**作者:** [Matthew Peters](https://x.com/Matthew38546207) | **ソース:** [Link](https://x.com/Matthew38546207/status/2082282199089545619) | **公開日:** Jul 29, 2026
-
----
-### リボンをなびかせる金魚
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ヒマワリ柄のリボンをなびかせて泳ぐ、優雅な金魚のビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-金魚が黄色と赤のリボンをなびかせながら優雅に泳ぐ
-リボンにヒマワリの模様を追加する
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082189523707195392/img/nXpp6GNbP8moe4wh.jpg" width="600" alt="リボンをなびかせる金魚">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8090)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2082189578849710225) | **公開日:** Jul 28, 2026
-
----
-### 失われた巨大動物の地
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 銀河の平原を移動する巨大動物の群れを上空から俯瞰する、映画のようなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-失われた地
-
-カメラが急降下し、この銀河の特定の領域にのみ存在する、平原を移動する巨大動物たちの入り混じった群れを間近で捉える。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082162598921801728/img/yIS-mPRnnrVoie60.jpg" width="600" alt="失われた巨大動物の地">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8088)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2082162644371349900) | **公開日:** Jul 28, 2026
-
----
-### 1960 年代レトロファッションのポートレート：モザイクの翼を纏って
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用のシネマティックな動画プロンプト。1960 年代のハイファッション写真風のスタイルで、大きな黒と金のモザイクの翼を背負った赤いドレスの女性を描写します。
-
-#### 📝 プロンプト
-
-```
-1960 年代のレトロな写真を彷彿とさせるハイパーリアリスティックな作品。そばかすのある肌、艶やかな白いストレートのロングヘアに切り揃えられた前髪、そして射抜くような青い瞳を持つエレガントな女性が、肩越しにこちらを振り返っている。彼女はミニマルな赤いストラップレスドレスを着用しており、そのシルエットはエレガントで滑らか、そして体にフィットしている。画面のほぼ全体を覆うほど巨大でドラマチックな黒と金のモザイクの翼が広がり、重なり合う幾何学的な黒と金のガラス片が強い虹色の金属光沢を放っている。手には、透明で光沢のあるボディとエレガントなディテールが施された、豪華なクリスタルのハート型香水瓶を持っている。ドラマチックでシネマティックなサイドライティングが強いコントラストを生み出し、肌、赤いドレス、香水瓶に柔らかなハイライトが当たっている。背景はミニマルなダークスタジオ。1970 年代から 1980 年代のハイファッション・エディトリアルスタイルで、温かみのあるヴィンテージフィルムの色調と繊細なフィルムグレインを再現。極めて詳細な肌の質感とそばかす、顔と髪に鋭いピントを合わせ、浅い被写界深度とクリーミーなボケ味を表現。16K 超フォトリアリスティック、マスターピース、最高品質。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082145868107415552/img/adcq93hsCJLPlxmC.jpg" width="600" alt="1960 年代レトロファッションのポートレート：モザイクの翼を纏って">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8100)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2082145993550868756) | **公開日:** Jul 28, 2026
-
----
-### 幻想的な水中サイの王国
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> アザラシと人魚が統治する水中の王国で、サイたちが繰り広げるシュールで想像力豊かなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-サイたちが深く潜り込んだ先には、アザラシが統治し、人魚がホステスを務める水中王国が広がっていた。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082094123595550720/img/AExvo18sMhAOldhO.jpg" width="600" alt="幻想的な水中サイの王国">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8092)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2082094189953556535) | **公開日:** Jul 28, 2026
-
----
-### サイの水中サンゴ礁探検
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> サイが海に潜り、サンゴ礁や人魚の間を泳ぐという、シュールで想像力豊かなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-潜水とダイビング 
-
-サイが波の下へと潜り、多様な海洋生物が生息する広大なサンゴ礁に覆われた海底まで泳いでいきます。そこでは、サイと人魚たちが共生しています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082092331210088448/img/WNEtJ_J6ZR_eFeU1.jpg" width="600" alt="サイの水中サンゴ礁探検">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8096)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2082092410855706805) | **公開日:** Jul 28, 2026
-
----
-### 突然変異した馬と狼の変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 疾走する馬が狼と掛け合わされた筋肉質の突然変異体へと変身する様子を描写した、クリエイティブな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-解き放たれし姿 ⛓️‍💥
-
-疾走する馬たちが、狼と掛け合わされた過剰なほど筋肉質な突然変異体へと変身を遂げる。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082083275057598464/img/oMXM7rq7XCgGRYtv.jpg" width="600" alt="突然変異した馬と狼の変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8091)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2082083301209096323) | **公開日:** Jul 28, 2026
-
----
-### Aura Wizards Urban Trailer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 米国で暮らす、ファッショナブルな夏服を身にまとった魔法使いたちをテーマにしたトレーラー風プロンプト。
-
-#### 📝 プロンプト
-
-```
-ハリー・ポッターのような Aura 魔法使いたちが米国で暮らし、シンプルながらもファッショナブルな夏服で街を歩く様子を描いたトレーラー
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082042224292814848/img/DOaZdB7VKN_G8xEf.jpg" width="600" alt="Aura Wizards Urban Trailer">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8089)**
-
-**作者:** [Chadwick A Sutton](https://x.com/BioMindBeliever) | **ソース:** [Link](https://x.com/BioMindBeliever/status/2082042244391981565) | **公開日:** Jul 28, 2026
-
----
-### 太陽と月と踊るクレオパトラ
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 顔にカラフルなペイントを施したクレオパトラが、回転する宇宙の要素と共に踊る芸術的な動画のための詳細な日本語プロンプト。
-
-#### 📝 プロンプト
-
-```
-私はクレオパトラに扮する。白い月とオレンジ色の太陽が周囲でまばゆいばかりに輝き、空に浮かんでいる。私はクレオパトラとなり、愛と純粋さ、夢と希望に満ちた穏やかな笑みを浮かべながら、幸福、勇気、決意、幸運、愛、そして平和の実現を声高らかに歌い上げる。女王である私の顔は、赤、青、黄色、緑、黒、白の原色を用いたペイントスタイルで彩られている。私の髪は外側に向かって広がり、白地に黒いラインが描かれている。滲んで消えかかっている髪の毛先には、紫色の空に浮かぶ月と太陽がある。月と太陽は周囲を回転している。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081954481311465472/img/COw-w_FyuZtt_qRx.jpg" width="600" alt="太陽と月と踊るクレオパトラ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8098)**
-
-**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **ソース:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2081954818181206424) | **公開日:** Jul 28, 2026
-
----
-### アフリカ系ネイティブアメリカンの女神のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 特定の民族的特徴とポジティブなメッセージを持つ女神キャラクターのための詳細な動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-私をアフリカ系ネイティブアメリカンの女神に変身させて。長く美しい巻き髪、ダークで滑らかなメラニンの肌、高い頬骨、切れ長の目、美しい笑顔で「決してあきらめないで」と言っている様子。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081937002711429120/img/5odyLugnAsgKhsJ-.jpg" width="600" alt="アフリカ系ネイティブアメリカンの女神のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8097)**
-
-**作者:** [𝓒𝓱𝓪𝓻𝓶𝓪𝓲𝓷𝓮🍫🍀](https://x.com/lovelyhousecat) | **ソース:** [Link](https://x.com/lovelyhousecat/status/2081937054024577402) | **公開日:** Jul 28, 2026
-
----
-### Grok Imagine で作成するキャラクターのランニングアニメーション
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine を使用して、ジャージの色の変化や「スクワッシュ＆ストレッチ」などのスムーズな動きのテクニックを取り入れた、ループ再生可能なランニングアニメーションを作成するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ジャージの色を 0.7 秒ごとに変更。最初と最後のフレームをスムーズにつなげてください。「スクワッシュ＆ストレッチ」や「予備動作（Anticipation）」のテクニックを使い、自然で滑らかな動きを表現してください。ランニング、円弧運動、スロー、ループ、12 fps、セリフなし。
-```
-
-<img src="https://cms-assets.youmind.com/media/1785313939438_567xi2_HOR1I_sbMAAJiiW.jpg" width="600" alt="Grok Imagine で作成するキャラクターのランニングアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8099)**
-
-**作者:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **ソース:** [Link](https://x.com/FC_Cicadas/status/2081923401623724240) | **公開日:** Jul 28, 2026
-
----
-### 日差しが降り注ぐ野草の草原で草を食む馬たち
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 日差しが降り注ぐ草原で、オークの木々を背景に野草の間で草を食む 2 頭の馬を描いた、穏やかでフォトリアルな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-日差しが降り注ぐ草原で、オークの木々を背景に、2 頭の馬が野草の間で静かに草を食んでいる。フォトリアル、明るい自然光、穏やかな雰囲気。草原の構図と照明は元の状態を維持すること。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081913129752305665/img/MnUHHilVVaH6lbR6.jpg" width="600" alt="日差しが降り注ぐ野草の草原で草を食む馬たち">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8021)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **公開日:** Jul 28, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2317,6 +2332,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-06T06:58:21.261Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-06T11:04:09.679Z</sub>
 
 </div>

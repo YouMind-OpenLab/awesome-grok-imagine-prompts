@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2343** |
+| 📝 Total Prompts | **2360** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-06** |
 
@@ -189,6 +189,313 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Christmas Kitten Snow Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A festive video prompt showing a kitten and a woman playing in a gentle snowfall with holiday decorations.
+
+#### 📝 Prompt
+
+```
+Kitten playing in snow with a woman, surrounded by Christmas decorations and gentle snowfall
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085261391238438912/img/RTtfdgLc-WDnjQhw.jpg" width="600" alt="Christmas Kitten Snow Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8611)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2085261433890369893) | **Published:** Aug 6, 2026
+
+---
+### Cinematic Rainy Car Entry
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a video showing a man entering a vintage Cadillac in the rain, focusing on atmosphere and tactile movements.
+
+#### 📝 Prompt
+
+```
+The man slowly reaches his free hand for the driver’s side door handle of the vintage Cadillac while still holding the six-shooter pointed down in the other hand. He opens the door and begins sliding into the driver’s seat. Rain continues kissing the windshield
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085260228413562880/img/bzJmrQdY2nMKQuJ2.jpg" width="600" alt="Cinematic Rainy Car Entry">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8608)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2085260396231832015) | **Published:** Aug 6, 2026
+
+---
+### Cinematic Korean Woman Bedroom Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An extremely detailed multi-shot prompt for a photorealistic vlog-style video of a Korean woman in her bedroom.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic vertical video, 10 seconds. A beautiful young Korean woman relaxes in her cozy bedroom at night, wearing the same oversized white T-shirt. Warm bedside lamp lighting creates a soft, intimate atmosphere while photo prints decorate the wall behind her. The video consists of multiple natural handheld selfie shots, as if filmed on a phone for a personal vlog.
+
+Shot 1 (0–2s): Front selfie shot. She smiles warmly at the camera while maintaining eye contact, then gives a playful wink. A few loose strands of hair fall naturally across her face.
+
+Shot 2 (2–4s): Extreme close-up from a slightly lower angle. She gently brushes the hair away from her face, smiles softly, and blinks naturally as the camera subtly moves closer.
+
+Shot 3 (4–6s): Three-quarter side selfie. She slowly turns her head toward the warm bedside lamp, smiles to herself, then looks back at the camera. Her hair moves naturally with the motion.
+
+Shot 4 (6–8s): Over-the-shoulder selfie. She briefly glances toward the photo wall behind her, then laughs quietly before turning back toward the camera. The handheld movement feels natural and authentic.
+
+Shot 5 (8–10s): Close-up selfie. She leans slightly closer to the camera, gives another playful wink followed by a soft smile, then gently tilts her head as the camera slowly pulls back, ending with a cozy bedroom ambiance.
+
+Style: Ultra-photorealistic, natural facial expressions, realistic blinking, subtle breathing, lifelike hair physics, authentic smartphone handheld movement, warm ambient lighting, shallow depth of field, premium cinematic color grading, 24 fps, 8K, cozy Korean bedroom aesthetic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cinematic Korean Woman Bedroom Vlog">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8613)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2085211763214028933) | **Published:** Aug 6, 2026
+
+---
+### Stegosaurus Moon Rocket Surgery
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal animation prompt where a dinosaur aids the moon by removing a rocket part through physical action.
+
+#### 📝 Prompt
+
+```
+Get it out!
+
+The moon is aided by the stegosaurus removes the rocket part with a fierce bite and swift pull. The moon has agonizing expressions during the removal.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085200311438786560/img/i7NFCCt2IdCnWtEg.jpg" width="600" alt="Stegosaurus Moon Rocket Surgery">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8600)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2085200363037049325) | **Published:** Aug 6, 2026
+
+---
+### Space Dancing in Pink Outfit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A playful video prompt for dancing in outer space wearing a stylish pink outfit.
+
+#### 📝 Prompt
+
+```
+Make a video of me dancing in outer space in a baby pink space outfit. Not necessarily a spacesuit.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085195421807194112/img/O7JIITRYsbE3CxFa.jpg" width="600" alt="Space Dancing in Pink Outfit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8606)**
+
+**Author:** [DeCarlos 🎀](https://x.com/barbiepop_) | **Source:** [Link](https://x.com/barbiepop_/status/2085195464169730392) | **Published:** Aug 6, 2026
+
+---
+### Einstein Artistic Tribute
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex artistic prompt designed to create a tribute to Albert Einstein using reference portraits.
+
+#### 📝 Prompt
+
+```
+Create a powerful artistic tribute to E=mc². Use the likeness and face of Albert Einstein from the reference portraits as the main subject, shown thoughtfully observing or writing. Incorporate the handwritten style of the equation E=mc² from the thir...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085177987834548224/img/2xLYtLhxIh10Nxh1.jpg" width="600" alt="Einstein Artistic Tribute">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8602)**
+
+**Author:** [Elizabeth](https://x.com/ElizabethC25755) | **Source:** [Link](https://x.com/ElizabethC25755/status/2085178030255636915) | **Published:** Aug 6, 2026
+
+---
+### Cyberpunk Noodle Bar Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for a conversation at a cyberpunk noodle bar, including an extension for added interaction.
+
+#### 📝 Prompt
+
+```
+An man talking to a woman about the weather at a cyberpunk noodle bar. Covered outdoor area, bar height seating. Rain falling behind them. Sitting side by side
+
+EXTEND PROMPT: The cook brings them bowls of ramen and make a remark
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085038273026727936/img/eAWGQyaR4Zvkxh1N.jpg" width="600" alt="Cyberpunk Noodle Bar Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8612)**
+
+**Author:** [Dave](https://x.com/DavidGetchel) | **Source:** [Link](https://x.com/DavidGetchel/status/2085039726579618187) | **Published:** Aug 5, 2026
+
+---
+### Daenerys Riding Drogon Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic Game of Thrones prompt featuring Daenerys Targaryen riding her dragon over cliffs at golden hour.
+
+#### 📝 Prompt
+
+```
+A breathtakingly beautiful cinematic scene from Game of Thrones: Daenerys Targaryen riding her magnificent black dragon Drogon high above the rugged cliffs and turquoise waters of Westeros at golden hour. The dragon's massive wings stretch wide.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085036200986030080/img/7jdCrIsMi5af5JbP.jpg" width="600" alt="Daenerys Riding Drogon Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8607)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2085036332917944744) | **Published:** Aug 5, 2026
+
+---
+### Cosmic Eye of God DNA Helix
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A spiritual and cosmic prompt describing a double helix iris formed by galaxies, creating an all-knowing eye.
+
+#### 📝 Prompt
+
+```
+Eye👁️of God.
+
+These galaxies 🌌 intertwined form a double helix 🧬 loop that is the iris of an all knowing large eye 👁️ that is GOD.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085022223706812416/img/kfAGJuZkvGssXGuS.jpg" width="600" alt="Cosmic Eye of God DNA Helix">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8610)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2085022273816150178) | **Published:** Aug 5, 2026
+
+---
+### Metallic Fractal Grace
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for an animation of a character performing among metallic fractals in an inverse realm.
+
+#### 📝 Prompt
+
+```
+In the Inverse realm Alchemedia performs her metallic grace among the fractals that accumulate her being as she does theirs.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085015842454921217/img/agma4Z4eFUMbYIxZ.jpg" width="600" alt="Metallic Fractal Grace">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8614)**
+
+**Author:** [Cook](https://x.com/AIArtCook) | **Source:** [Link](https://x.com/AIArtCook/status/2085016121464312295) | **Published:** Aug 5, 2026
+
+---
+### Puppy to Dire Wolf Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A transformation video prompt transitioning a puppy into a mystical dire wolf with Fibonacci swirl eyes.
+
+#### 📝 Prompt
+
+```
+Back to her roots 
+
+This puppy transforms into the form of a Snow White dire wolf 🐺 with deep blue eyes that are infinite ♾️ pools of Fibonacci swirls. The wolf’s coat has frosted icy blue tips.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084997779722493952/img/urgJMu6QvwIZpvdU.jpg" width="600" alt="Puppy to Dire Wolf Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8601)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2084997846529401319) | **Published:** Aug 5, 2026
+
+---
+### Pastel Stealth Bomber Lights
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt combining stealth bombers with holiday lights in a pastel color palette.
+
+#### 📝 Prompt
+
+```
+Make a Conspiracy4Love video of pastel hues about seeing Stealth Bombers of Halloween or Christmas lights....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084987240766222336/img/nLqgfhxMApVQvD4u.jpg" width="600" alt="Pastel Stealth Bomber Lights">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8599)**
+
+**Author:** [Chadwick A Sutton](https://x.com/BioMindBeliever) | **Source:** [Link](https://x.com/BioMindBeliever/status/2084987287457210426) | **Published:** Aug 5, 2026
+
+---
+### Dragon Class Evolution
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex motion prompt describing the evolution and combination of neon green dragons into a giant frog dragon.
+
+#### 📝 Prompt
+
+```
+Class evolution 
+
+These dragons proceed to form a new larger dragon by combining their flaming neon green breath with creates an enormous yellow frog dragon with bright blue eyes that is 4 times their size.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084970174583640064/img/dmfKMee8S83ONFJJ.jpg" width="600" alt="Dragon Class Evolution">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8609)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2084970238685204922) | **Published:** Aug 5, 2026
+
+---
+### Cinematic Coffee Catch Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed 10-second cinematic animation prompt where a character catches a high-speed flying coffee mug with athletic precision.
+
+#### 📝 Prompt
+
+```
+10-second cinematic sequence.  Begin from the exact edited image.  Preserve the exact character, face, hairstyle, clothing, proportions, lighting, and composition.  The camera remains completely locked.  The animation begins immediately.  Within the first 0.2 seconds, a matte black steaming coffee mug suddenly enters from the LEFT side of the frame at very high speed.  The mug follows a clean, straight horizontal trajectory with natural physics.  The mug remains perfectly upright.  No coffee spills.  Steam stretches behind the mug as a continuous motion trail.  The character notices the incoming mug at the last possible moment.  Instant athletic reaction.  Eyes lock onto the mug.  The body shifts naturally.  The character reaches out and catches the mug cleanly with one hand while allowing the arm and shoulders to absorb the momentum.  The catch feels smooth, believable, and athletic, like an experienced baseball player receiving a hard throw.  The mug never tumbles.  The coffee remains inside.  Not a single drop spills.  A quick smile appears.  The character briefly admires the successful catch.  (Optional) One quick sip.  Immediately the body transitions into a powerful baseball-style throwing motion.  The free arm extends naturally toward the target.  The throwing arm rotates through the shoulders and hips.  The mug becomes a rigid projectile.  The fingers open.  The mug completely separates from the hand.  Visible empty space appears between the fingers and the mug.  The mug accelerates rapidly toward the RIGHT edge of the frame.  Steam trails behind the mug continuously.  The mug completely exits the RIGHT side of the screen before the 8-second mark.  The camera smoothly follows the mug for a brief moment, then naturally eases back to the character completing the follow-through.  Dust kicks up around the planted foot.  Hair and clothing react naturally to the momentum.  The character finishes the throw with an EMPTY hand while watching the mug successfully leave the frame.  Natural physics.  One continuous shot.  Ultra-photoreal.  Locked character consistency.  No warping.  No duplicated mug.  No duplicated hands.  No extra limbs.  No spilled coffee.  No cuts.  No transitions.  The mug must visibly enter from the LEFT, be caught once, then visibly leave to the RIGHT while remaining upright for the entire sequence.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084961493427109888/img/umu6xa7alKBQjRuY.jpg" width="600" alt="Cinematic Coffee Catch Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8604)**
+
+**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2084962046966206967) | **Published:** Aug 5, 2026
+
+---
+### X-MAN Rocket Launch Celebration
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of X-MAN in front of a rocket launch, releasing reward cards with glowing green particles.
+
+#### 📝 Prompt
+
+```
+A massive rocket launches behind X-MAN. As the rocket clears the launch tower, glowing green particles explode across the sky. X-MAN crosses his metallic X gauntlets before extending both arms, releasing streams of glowing TSLA and SPCX reward cards toward thousands of digital holders below. The camera alternates between low-angle hero shots and dramatic aerial views.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084904576973729792/img/GzCeJ_KamTanL1mb.jpg" width="600" alt="X-MAN Rocket Launch Celebration">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8605)**
+
+**Author:** [Optimistic Degen](https://x.com/OptimisticD3G3n) | **Source:** [Link](https://x.com/OptimisticD3G3n/status/2084904616865796342) | **Published:** Aug 5, 2026
+
+---
 ### X-Man Futuristic Headquarters Walk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +513,44 @@ X-MAN confidently walks through a futuristic black-and-green headquarters inspir
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8539)**
 
 **Author:** [Optimistic Degen](https://x.com/OptimisticD3G3n) | **Source:** [Link](https://x.com/OptimisticD3G3n/status/2084872071956611254) | **Published:** Aug 5, 2026
+
+---
+### Justice Allegory Black Hole Vortex
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic metaphorical prompt transforming cosmic chaos into a balanced scene of justice within a black hole.
+
+#### 📝 Prompt
+
+```
+Transform this swirling cosmic chaos of the universe being swallowed into a powerful allegory of Justice. At the heart of the black-hole vortex, a colossal golden scales of justice hangs perfectly balanced, held aloft by a towering blindfolded Lady J...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084856223095205888/img/B5DWfaQgIiejsVvb.jpg" width="600" alt="Justice Allegory Black Hole Vortex">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8598)**
+
+**Author:** [Charity Spence](https://x.com/CharitySpence) | **Source:** [Link](https://x.com/CharitySpence/status/2084856438086930478) | **Published:** Aug 5, 2026
+
+---
+### Blooming Botanical Peace Sign
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A nature-themed video prompt describing the slow blooming and growth of flowers and vines forming a peace sign.
+
+#### 📝 Prompt
+
+```
+The botanical peace sign slowly comes to life. Tiny buds emerge and bloom at different paces — some flowers open quickly while others unfurl more slowly. Leaves curl outward, vines gently weave through the form, and small tendrils search for empty sp...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084825827095572480/img/OkfKp9fBqXrn33vs.jpg" width="600" alt="Blooming Botanical Peace Sign">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8603)**
+
+**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2084825858691170399) | **Published:** Aug 5, 2026
 
 ---
 ### Celestial Angelic Horse Gallop
@@ -228,11 +573,11 @@ Me dress like an angel with wings galloping in a white horse with wings too
 **Author:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **Source:** [Link](https://x.com/AngieRamos2030/status/2084807779319955856) | **Published:** Aug 5, 2026
 
 ---
-### Lion in Neon Nightclub
+### Lion and Sasha Neon Nightclub
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a majestic white-maned lion in a neon-lit nightclub setting with a character named Sasha.
+> A surreal prompt featuring a white-maned lion with a green chest in a nightclub setting with camera movement.
 
 #### 📝 Prompt
 
@@ -240,18 +585,18 @@ Me dress like an angel with wings galloping in a white horse with wings too
 The majestic white-maned lion with green chest stands next to non-binary Sasha in the neon nightclub. Soft camera movementos
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084800685011525632/img/igcNDJOd9EPid6y3.jpg" width="600" alt="Lion in Neon Nightclub">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084800685011525632/img/igcNDJOd9EPid6y3.jpg" width="600" alt="Lion and Sasha Neon Nightclub">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8542)**
 
 **Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2084800727894122548) | **Published:** Aug 5, 2026
 
 ---
-### Monochrome to Color Film Reel
+### Monochrome to Color Cinematic Transition
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A poetic video prompt depicting a silent film memory transitioning from grayscale to vibrant color.
+> A beautifully descriptive prompt for a cinematic sequence that transitions from a monochrome, silent film aesthetic into vibrant, golden light and saturated colors.
 
 #### 📝 Prompt
 
@@ -259,7 +604,7 @@ The majestic white-maned lion with green chest stands next to non-binary Sasha i
 Fading frames of a monochrome past flicker like a silent film, each memory etched in grayscale—shadows stretching long, laughter muted, love a whisper lost in the static. But now, a slow bloom of radiant hues washes over the reel, saturating every moment with warmth, joy, and devotion. Sepia tones dissolve into golden light, washed-out skies reborn in dazzling blues, and the dull hum of yesterday is replaced by the melody of life, vibrant and full. Love's gentle hand reaches through the celluloid haze, painting over sorrow, stitching sunlight into the fabric of time, until the story no longer drifts in muted silence but sings—an endless symphony of color, rebirth, and heart.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084783660230721536/img/Ygn3KWSz5KkG0CB5.jpg" width="600" alt="Monochrome to Color Film Reel">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084783660230721536/img/Ygn3KWSz5KkG0CB5.jpg" width="600" alt="Monochrome to Color Cinematic Transition">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8545)**
 
@@ -323,11 +668,11 @@ She taller than him and pulls out from under the bed some heels or wedges to mak
 **Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2084582209793474820) | **Published:** Aug 4, 2026
 
 ---
-### Peaceful Seaside Pastel Scene
+### Peaceful Seaside Moment
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A serene video prompt featuring soft pastel skies and a peaceful moment by the sea with a character in a white dress.
+> A serene video prompt featuring a character in a white dress against a backdrop of soft pastel skies by the ocean.
 
 #### 📝 Prompt
 
@@ -335,7 +680,7 @@ She taller than him and pulls out from under the bed some heels or wedges to mak
 Soft pastel skies, a white dress, and a quiet companion… A peaceful moment by the sea.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084581187247632385/img/0SIhrJaIZBc97NLk.jpg" width="600" alt="Peaceful Seaside Pastel Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084581187247632385/img/0SIhrJaIZBc97NLk.jpg" width="600" alt="Peaceful Seaside Moment">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8547)**
 
@@ -1970,336 +2315,6 @@ Grok, bitte drehe den Kopf des Sandwurms, denn so gräbt er sich fort. Und die A
 **Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2082598813072507324) | **Published:** Jul 29, 2026
 
 ---
-### Rakete treibt im Ozean
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Video-Prompt, bei dem eine Rakete horizontal im Ozean treibt und von einem Mann mit einem Motor ans Ufer gesteuert wird.
-
-#### 📝 Prompt
-
-```
-Erstelle ein Video einer Rakete, die im Ozean treibt. Dann kommt ein Mann hinzu, befestigt einen Motor an der Rückseite und steuert sie zum Ufer, während er auf der Rakete sitzt. Bitte sorge dafür, dass die Rakete horizontal im Wasser treibt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082558692818378753/img/LXf39o6qexTkJk72.jpg" width="600" alt="Rakete treibt im Ozean">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8106)**
-
-**Author:** [Sofia @ Sacred Petals™](https://x.com/LightTemple) | **Source:** [Link](https://x.com/LightTemple/status/2082558813836620150) | **Published:** Jul 29, 2026
-
----
-### Gothic Dragon Elf Queen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hyperrealistischer, filmreifer Prompt für eine Frau mit saphirblauen Augen und einem Drachen in einem verschneiten Wald.
-
-#### 📝 Prompt
-
-```
-Frau, von der Kamera eingefangen, hyperrealistische Haut mit natürlicher Textur, sichtbare Poren, wunderschönes symmetrisches Gesicht, leuchtend saphirblaue Augen mit detaillierter natürlicher Iris, dezentes natürliches Make-up, langes platinweißes Haar in zwei dicken, realistischen Zöpfen mit fransigem Pony und echten Haarsträhnen, spitze Elfenohren, detaillierte schwarze Gothic-Krone, komplexe schwarz-graue Tattoos an Armen und Oberkörper, rosafarbenes trägerloses Korsett mit authentischer Stoffstruktur, mehrlagige schwarze Choker und Halsketten, großer, realistischer schwarz-rosafarbener Drache mit hyperdetaillierten natürlichen Schuppen und realistischen Augen, der sich um ihren Körper und ihre Schultern windet, stimmungsvoller, nebliger, verschneiter Waldhintergrund, weiches, diffuses natürliches Licht, stark entsättigte, gedämpfte natürliche Farben, realistisches Filmkorn und subtiles Rauschen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082507829475188736/img/ZOCgDMtfcQzsOaof.jpg" width="600" alt="Gothic Dragon Elf Queen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8182)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2082507905622843650) | **Published:** Jul 29, 2026
-
----
-### Schatzsuche im antiken Grab
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, filmischer Video-Prompt für eine spannungsgeladene, 15-sekündige Abenteuerszene in einer Grabkammer.
-
-#### 📝 Prompt
-
-```
-Alice leuchtet mit ihrer Taschenlampe in den steinernen Sarkophag und entdeckt ein seltsames Metallmedaillon, das zwischen den Überresten verborgen liegt. Misstrauen regt sich in ihr, also schaltet sie die Taschenlampe aus und weicht langsam in die Dunkelheit zurück, mit dem vagen Gefühl, dass sie in dem Grab nicht allein ist. Eine 15-sekündige, realistische, filmische Schatzsuche in einer antiken Grabkammer; spannend, bodenständig und emotional eskalierend, wie ein Moment aus einem hochwertigen Abenteuerfilm kurz bevor sich etwas Gefährliches offenbart. Eine Forscherin beugt sich über einen offenen Steinsarkophag und untersucht mit einer Taschenlampe in der Hand einen mumifizierten Körper und dessen Grabbeigaben. Sie bemerkt eine seltsame Metallplakette zwischen den Überresten, betrachtet sie genau, berührt sie leicht und blickt dann zwischen der Plakette und dem Schädel hin und her, als wolle sie verstehen, warum sie dort liegt. Nichts an dem Körper bewegt sich. Die Überreste bleiben vollkommen still. Doch eine leise Unruhe macht sich breit. Sie scannt langsam mit der Taschenlampe die Kammer um sich herum ab, hört ein schwaches Geräusch aus der Tiefe des Grabes, schreckt auf, lässt den Lichtstrahl mit größerer Vorsicht erneut schweifen, schaltet die Taschenlampe dann abrupt aus und weicht vorsichtig in die Dunkelheit zurück, zutiefst verunsichert. Visueller Ton: bodenständiger Abenteuerfilm-Realismus, staubige Atmosphäre eines antiken Grabes, ein warmer Taschenlampenstrahl, der die Dunkelheit durchschneidet, gealterter Stein, Grabgravuren, trockener Schutt, subtiler Dunst, texturierte Haut, Stoff, Staub und abgenutzte Artefakte. Die Kammer sollte sich heilig, klaustrophobisch und auf glaubwürdige Weise falsch anfühlen. Keine Fantasy-Magie, kein übertriebener Horror. Die Angst sollte aus dem Realismus, der Stille, der Dunkelheit, herabfallendem Staub und dem Gefühl entstehen, dass etwas im Grab sie bemerken könnte. Charakterdarstellung und emotionaler Bogen: Die Forscherin beginnt mit vorsichtiger, untersuchender Konzentration. Als sie die Plakette bemerkt, verhärtet sich ihr Gesichtsausdruck zu einer Mischung aus seltener Entdeckerfreude und Unbehagen. Sie wirkt wie jemand, der weiß, dass er etwas Wichtiges gefunden haben könnte, aber sofort spürt, dass es nicht auf natürliche Weise zu den Grabbeigaben gehört. Ihre emotionale Entwicklung sollte klar und subtil sein: wache Neugier, faszinierte Inspektion, wachsendes Misstrauen, instinktives Bewusstsein für die Umgebung, erschrockenes Zurückweichen, defensives Absuchen und kontrollierte Angst. Betonen Sie die Mikro-Mimik: Augen, die sich bei der Plakette verengen, leicht geöffnete Lippen während der Untersuchung, ruhiger werdender Atem, zusammengezogene Brauen, der Blick, der vom Objekt zur Kammer schweift, ein angespannter Kiefer nach dem fernen Geräusch und ein sichtbar angestrengter Versuch, beim Zurückweichen ruhig zu bleiben. Das Verhalten der Taschenlampe ist entscheidend: Die Taschenlampe muss ein wichtiges erzählerisches Element sein. Zuerst ist sie ruhig und praktisch und leitet ihre Inspektion des Sarkophags und der Plakette. Der Strahl sollte sich natürlich mit ihrer Hand bewegen und Details der Plakette, der Wicklungen, der Knochenstruktur und des Staubs enthüllen. Nachdem sie die Plakette berührt hat und das Unbehagen spürt, wird die Taschenlampe Teil ihres instinktiven Absuchens des Raumes und bewegt sich vorsichtig über Sargkanten, nahegelegene Wände, schattige Ecken und die tiefere Dunkelheit. Nach dem Geräusch sollte die Taschenlampe einmal mit ihrer erschrockenen Reaktion zucken und dann zu einem kontrollierten, aber dringlichen Strahl werden, während sie die Kammer überprüft. Gegen Ende muss sie sie aktiv selbst in einer klaren, bewussten Handlung ausschalten. Sie darf nicht von selbst flackern oder ausgehen. Das Ausschalten muss sich wie eine plötzliche Überlebensentscheidung und ein unverkennbarer Wendepunkt anfühlen. Körpersprache und Handdetails: Sie hält die Taschenlampe durchgehend in einer Hand. Ihre freie Hand spielt eine wichtige Rolle: Sie schwebt über der Plakette, hält inne und streicht dann sanft mit den Fingerspitzen über deren Oberfläche. Ihre Haltung sollte sich natürlich entwickeln: über den Sarkophag beugen, um zu untersuchen, näher heranrücken, während sie die Plakette studiert, den Kopf leicht heben, um die Plakette mit dem Schädel und den Wicklungen zu vergleichen, und sich dann langsam gerade so weit aufrichten, um sich in der Kammer umzusehen. Sobald sie das Geräusch hört, sollte ihr Körper leicht zurückweichen und sich dann in eine defensive Haltung versteifen, während sie den Raum scannt. Nachdem sie das Licht ausgeschaltet hat, zieht sie sich mit vorsichtigen, gemessenen Schritten zurück, die Schultern angespannt, das Gesicht und die Aufmerksamkeit fest auf die Dunkelheit gerichtet. Verhalten der Leiche: Der Körper und der Schädel müssen zu jeder Zeit vollkommen still bleiben. Animieren Sie die Leiche in keiner Weise. Die Spannung sollte allein aus ihrer Reaktion, der Umgebung, dem Geräusch aus der Tiefe des Grabes, herabfallendem Staub und der Entscheidung, die Taschenlampe auszuschalten, entstehen. Staub und Umgebungsdetails: Feiner Staub und Pulver sollten eine aktive Rolle beim Aufbau des Unbehagens spielen. Zu Beginn der Szene fängt die Taschenlampe schwach schwebenden Staub in der stillen Luft ein. Während ihr Unbehagen zunimmt und das ferne Geräusch auftaucht, beginnt feiner Staub deutlicher von oben herabzufallen, durch den Lichtstrahl zu driften und sanft auf den Stein und die Sarkophagkanten zu landen. Halten Sie es subtil und glaubwürdig. Kein großer Einsturz, kein großer Schutt. Die Kammer sollte sich antik, trocken, still und leicht instabil anfühlen, wobei der Staub dazu beiträgt, dass sich die Dunkelheit bewohnt anfühlt. Kamerasprache: Fließend, natürlich und spannungsorientiert. Keine abrupten Schnitte, keine auffälligen Kameratricks, keine Montage. Eine einzige, kontinuierliche, fließende Aufnahme wird bevorzugt. Die Kamera sollte nah am Sarkophag und ihrem Oberkörper beginnen, damit das Publikum sowohl die Plakette als auch ihr Gesicht lesen kann. Sie sollte sich flüssig mit ihrer Aufmerksamkeit bewegen: leicht näher herangehen, während sie die Plakette untersucht, sich mit ihrem Blick zum Schädel und den Wicklungen verschieben und dann weit genug aufzoomen, damit der Taschenlampenstrahl mehr von der Kammer um sie herum enthüllt. Wenn das Geräusch aus der Tiefe des Grabes kommt, sollte die Kamera lesbar und intim bleiben und auf ihr Zurückweichen reagieren, ohne chaotisch zu werden. Die Bewegung sollte sich wie ein vorsichtiger, filmischer Zeuge anfühlen, der immer durch ihre Aufmerksamkeit und Angst motiviert ist. 15-sekündiger Szenenverlauf: 0-3 Sekunden: Sie beugt sich über den offenen Sarkophag und lässt den Taschenlampenstrahl langsam über die Überreste und Grabbeigaben schweifen. Das Licht fällt auf eine seltsame Plakette, die zwischen den Wicklungen und Knochen liegt. Sie hält sofort inne, ihre Augen verengen sich vor fokussierter Neugier. Mit leiser, faszinierter Stimme sagt sie: „Warte... was ist das?“ 3-6 Sekunden: Sie senkt den Strahl und bringt ihn näher an die Plakette, wobei sie deren Oberfläche, Kanten und Markierungen studiert. Ihre freie Hand hebt sich langsam, zögert einen Moment und berührt dann leicht die Plakette, wobei sie mit den Fingerspitzen Staub davon wischt. Ihr Ausdruck wandelt sich von Entdeckung zu Misstrauen. Mit tiefer Stimme, fast zu sich selbst, sagt sie: „Nein... das wurde hier nicht zufällig platziert.“ 6-9 Sekunden: Immer noch konzentriert, hebt sie ihren Blick von der Plakette zum Schädel und den umliegenden Wicklungen, während sie versucht zu verstehen, wie das Objekt dorthin gelangt ist. Nichts bewegt sich. Die Überreste bleiben vollkommen still. Doch eine leise Unruhe legt sich über ihr Gesicht. Sie hebt langsam die Taschenlampe und beginnt, die Kammer zu betrachten, wobei sie zuerst mit den Augen und dann mit dem Lichtstrahl über die Sargkante, nahegelegene Wände, schattige Ecken und den dunkleren Raum dahinter schweift. Feiner Staub hängt im Lichtstrahl. 9-12 Sekunden: Während sie die Kammer weiter absucht, kommt ein schwaches Geräusch aus der Tiefe des Grabes – ein leichtes Scharren, ein sanftes Verschieben von Stein oder ein entfernter, trockener Kontakt. Sie schreckt auf und macht einen halben Schritt zurück, wobei der Taschenlampenstrahl bei ihrer Bewegung einmal zuckt. Staub beginnt deutlicher von oben herabzufallen und driftet durch das Licht. Sie verstärkt ihren Griff um die Taschenlampe und lässt den Strahl mit größerer Vorsicht erneut schweifen, nun vollkommen alarmiert. Mit tiefer, angespannter Stimme sagt sie: „Nein... nein, das habe ich gehört.“ 12-15 Sekunden: Sie entscheidet plötzlich, dass das Licht ihre Position verrät. In einer klaren, bewussten Bewegung schaltet sie die Taschenlampe aus. Dunkelheit schließt sich sofort um sie herum und hinterlässt nur schwache Umgebungsspuren und schwebenden Staub. Sie weicht vorsichtig zurück, die Schultern angespannt, die Augen fest in die Dunkelheit vor ihr gerichtet. In einem sehr leisen Flüstern sagt sie: „Hier ist etwas drin.“ Enden Sie mit dem Gefühl, dass die Kammer nicht länger leer ist. Dialoganforderungen: - Englisch
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082489516733140994/img/ZncWPdN1YY6C1cMQ.jpg" width="600" alt="Schatzsuche im antiken Grab">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8108)**
-
-**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2082490046972936620) | **Published:** Jul 29, 2026
-
----
-### Katzenporträt aus Marmormosaik
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein extrem detaillierter, hyperrealistischer Prompt für ein Katzenporträt, das vollständig aus kunstvollen Marmormosaikfliesen und Mineralfragmenten besteht.
-
-#### 📝 Prompt
-
-```
-Ultra-detailliertes, hyperrealistisches Seitenprofil-Porträt einer Katze, vollständig gefertigt aus kunstvollen Marmormosaikfliesen und polierten Mineralfragmenten. Die Katze trägt eine Baseballkappe aus Marmormosaik mit Blumenemblem und stilisiertem Buchstabenmuster sowie eine runde, steingerahmte Brille mit Mineralmosaikgläsern. Schnurrhaare, bartähnliches Fell und Gesichtsdetails sind aus feinen Steinfäden und Fliesen geformt. Haut und Fell bestehen aus winzigen, polierten Marmorquadraten, die eine luxuriöse Steinmosaik-Textur bilden. Entlang der Kieferpartie und des Halses erheben sich organisch aus der Mosaikoberfläche futuristische Miniatur-Wolkenkratzer und architektonische Strukturen, die die Katzenform mit einer Marmormetropole verschmelzen lassen. Die Pfote ruht nachdenklich am Kinn, bedeckt mit denselben detaillierten Marmormosaikfliesen und geschmückt mit verzierten Steinringen mit leuchtenden dunklen Edelsteinen. Die Kleidung ist ein aufwendiges Marmormosaik-Gewand, verziert mit sonnenblumenartigen Ornamenten und geometrischen Mustern. Dramatische Studiobeleuchtung hebt die polierten Steinoberflächen und die extremen Details hervor. Tiefschwarzer Hintergrund für hohen Kontrast. Ultra-scharfer Fokus, filmische Beleuchtung, luxuriöser Editorial-Fotografie-Stil, hyperreale Texturen, extreme Detailtiefe, Meisterwerk.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082488996022947840/img/tC0K1qojgoLhdW5P.jpg" width="600" alt="Katzenporträt aus Marmormosaik">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8105)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2082489044496507259) | **Published:** Jul 29, 2026
-
----
-### Cuban Plaza Dancers Erweiterung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für Grok Imagine, der zwei neue fröhliche Tänzerinnen zu einer Referenzszene einer Feier auf einem kubanischen Platz hinzufügt.
-
-#### 📝 Prompt
-
-```
-Füge zwei neue elegante Frauen hinzu, die freudig mit den beiden bereits im ersten Bild vorhandenen Tänzern tanzen, inmitten derselben lebhaften Feier auf einem kubanischen Platz für ein freies Kuba.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082332490052886528/img/hShvSTUf2DkmaxD8.jpg" width="600" alt="Cuban Plaza Dancers Erweiterung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8095)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2082332516825129295) | **Published:** Jul 29, 2026
-
----
-### SpaceX Starship als Hochgeschwindigkeitsboot auf dem Ozean
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein fantasievoller Video-Prompt, der ein SpaceX Starship zeigt, das auf dem Ozean schwimmt und sich mit eingeschalteten Triebwerken wie ein Schnellboot fortbewegt.
-
-#### 📝 Prompt
-
-```
-Das SpaceX Starship schwimmt auf dem Ozean und bewegt sich mit eingeschalteten Triebwerken wie ein Schnellboot fort
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082282176201281536/img/H9RbjBFgsGpBubEH.jpg" width="600" alt="SpaceX Starship als Hochgeschwindigkeitsboot auf dem Ozean">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8093)**
-
-**Author:** [Matthew Peters](https://x.com/Matthew38546207) | **Source:** [Link](https://x.com/Matthew38546207/status/2082282199089545619) | **Published:** Jul 29, 2026
-
----
-### Goldfisch mit Band-Spuren
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein eleganter Video-Prompt mit Goldfischen, die mit dekorativen Sonnenblumenbändern schwimmen.
-
-#### 📝 Prompt
-
-```
-Goldfische schwimmen elegant und hinterlassen gelbe und rote Bänder
-Füge den Bändern Sonnenblumen-Motive hinzu
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082189523707195392/img/nXpp6GNbP8moe4wh.jpg" width="600" alt="Goldfisch mit Band-Spuren">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8090)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082189578849710225) | **Published:** Jul 28, 2026
-
----
-### Land der verlorenen Megafauna
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt, der eine Sturzflug-Perspektive auf Herden von Megafauna in einer galaktischen Ebene beschreibt.
-
-#### 📝 Prompt
-
-```
-Land der Verlorenen 
-
-Er stürzt herab, um einen genaueren Blick auf die ineinander verschlungenen Herden der Megafauna zu werfen, die durch die Ebenen ziehen, welche nur in dieser Region der Galaxie zu finden sind.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082162598921801728/img/yIS-mPRnnrVoie60.jpg" width="600" alt="Land der verlorenen Megafauna">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8088)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082162644371349900) | **Published:** Jul 28, 2026
-
----
-### Retro-Modeporträt der 1960er Jahre mit Mosaikflügeln
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt für Grok Imagine, der eine Frau in einem roten Kleid mit großen schwarz-goldenen Mosaikflügeln zeigt, im Stil der High-Fashion-Fotografie der 1960er Jahre.
-
-#### 📝 Prompt
-
-```
-Hyperrealistische Retro-Fotografie der 1960er Jahre einer eleganten Frau mit sommersprossiger Haut, langem, glattem, glänzendem weißem Haar mit stumpfem Pony und stechend blauen Augen, die über ihre Schulter blickt. Sie trägt ein minimalistisches, trägerloses rotes Kleid – elegant, glatt, figurbetont. Riesige, dramatische schwarz-goldene Mosaikflügel nehmen fast den gesamten Rahmen ein und füllen beinahe den ganzen Bildschirm aus; sie bestehen aus überlappenden, geometrischen schwarzen und goldenen Glasstücken mit einem starken irisierenden Metallic-Glanz. In ihrer Hand hält sie einen luxuriösen, herzförmigen Parfümflakon aus Kristall mit einem glänzenden, transparenten Körper und eleganten Details. Dramatische, filmische Seitenbeleuchtung mit starkem Kontrast, weiche Glanzlichter auf der Haut, dem roten Kleid und dem Parfümflakon, minimalistischer dunkler Studiohintergrund. High-Fashion-Editorial-Stil der 1970er bis 1980er Jahre, warme Vintage-Filmtöne, dezente Filmkörnung. Extrem detaillierte Hautstruktur und Sommersprossen, messerscharfer Fokus auf Gesicht und Haar, geringe Schärfentiefe, cremiges Bokeh, 16K ultra-fotorealistisch, Meisterwerk, beste Qualität.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082145868107415552/img/adcq93hsCJLPlxmC.jpg" width="600" alt="Retro-Modeporträt der 1960er Jahre mit Mosaikflügeln">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8100)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2082145993550868756) | **Published:** Jul 28, 2026
-
----
-### Fantastisches Unterwasser-Nashorn-Königreich
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein surrealer und fantasievoller Video-Prompt mit Nashörnern in einem Unterwasserreich, das von Robben und Meerjungfrauen regiert wird.
-
-#### 📝 Prompt
-
-```
-Die Nashörner tauchen tief in ein Unterwasserreich hinab, das von Robben regiert wird, die Meerjungfrauen als Gastgeberinnen beschäftigen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082094123595550720/img/AExvo18sMhAOldhO.jpg" width="600" alt="Fantastisches Unterwasser-Nashorn-Königreich">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8092)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082094189953556535) | **Published:** Jul 28, 2026
-
----
-### Nashörner entdecken das Unterwasser-Korallenriff
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein surrealer und fantasievoller Video-Prompt, bei dem Nashörner in den Ozean eintauchen und zwischen Korallenriffen und Meerjungfrauen schwimmen.
-
-#### 📝 Prompt
-
-```
-Abtauchen und eintauchen 
-
-Die Nashörner tauchen unter die Wellen und schwimmen zum Meeresboden, der von einem großen, lebendigen Korallenriff bedeckt ist, das eine enorme Artenvielfalt an Meereslebewesen sowie die Meerjungfrauen beherbergt, mit denen sie dort zusammenleben.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082092331210088448/img/WNEtJ_J6ZR_eFeU1.jpg" width="600" alt="Nashörner entdecken das Unterwasser-Korallenriff">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8096)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082092410855706805) | **Published:** Jul 28, 2026
-
----
-### Mutierte Pferde- und Wolfstransformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Video-Prompt, der die Verwandlung galoppierender Pferde in muskulöse, mit Wölfen gekreuzte Mutanten beschreibt.
-
-#### 📝 Prompt
-
-```
-Entfesselt ⛓️‍💥
-
-Diese galoppierenden Pferde verwandeln sich in übermäßig muskulöse Mutanten, die mit Wölfen gekreuzt sind.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082083275057598464/img/oMXM7rq7XCgGRYtv.jpg" width="600" alt="Mutierte Pferde- und Wolfstransformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8091)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2082083301209096323) | **Published:** Jul 28, 2026
-
----
-### Aura Wizards Urban Trailer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Trailer-artiger Prompt für Zauberer, die in den USA leben und modische Sommerkleidung tragen.
-
-#### 📝 Prompt
-
-```
-Trailer über Aura-Zauberer wie Harry Potter, die in den USA leben und zusammen mit anderen in schlichter, aber modischer Sommerkleidung herumlaufen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082042224292814848/img/DOaZdB7VKN_G8xEf.jpg" width="600" alt="Aura Wizards Urban Trailer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8089)**
-
-**Author:** [Chadwick A Sutton](https://x.com/BioMindBeliever) | **Source:** [Link](https://x.com/BioMindBeliever/status/2082042244391981565) | **Published:** Jul 28, 2026
-
----
-### Cleopatra tanzt mit Sonne und Mond
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter japanischer Prompt für ein künstlerisches Video von Cleopatra mit bunt bemaltem Gesicht und rotierenden kosmischen Elementen.
-
-#### 📝 Prompt
-
-```
-Ich verkleide mich als Cleopatra. Der weiße Mond und die orangefarbene Sonne leuchten strahlend überall um mich herum. Sie befinden sich am Himmel. Ich werde zu Cleopatra und singe laut von der Verwirklichung von Glück, Mut, Entschlossenheit, Schicksal, Liebe und Frieden, mit einem friedlichen Lächeln voller Liebe, Reinheit, Träume und Hoffnung. Mein Gesicht, das Gesicht der Königin, ist im Stil eines Gemäldes in den Primärfarben Rot, Blau, Gelb, Grün, Schwarz und Weiß bemalt. Mein Haar breitet sich nach außen aus, mit schwarzen Linien auf Weiß. An den Haarspitzen, die verlaufen und fast verschwinden, befinden sich Mond und Sonne an einem violetten Himmel. Mond und Sonne drehen sich im Kreis.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081954481311465472/img/COw-w_FyuZtt_qRx.jpg" width="600" alt="Cleopatra tanzt mit Sonne und Mond">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8098)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2081954818181206424) | **Published:** Jul 28, 2026
-
----
-### Animation einer afro-indigenen Göttin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt für eine Göttin-Figur mit spezifischen ethnischen Merkmalen und einer positiven Botschaft.
-
-#### 📝 Prompt
-
-```
-Verwandle mich in eine afro-indigene Göttin, langes, wunderschönes lockiges Haar, dunkler, ebenmäßiger, melaninhaltiger Hautton, hohe Wangenknochen, mandelförmige Augen, ein wunderschönes Lächeln – und sie sagt: Gib niemals auf.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081937002711429120/img/5odyLugnAsgKhsJ-.jpg" width="600" alt="Animation einer afro-indigenen Göttin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8097)**
-
-**Author:** [𝓒𝓱𝓪𝓻𝓶𝓪𝓲𝓷𝓮🍫🍀](https://x.com/lovelyhousecat) | **Source:** [Link](https://x.com/lovelyhousecat/status/2081937054024577402) | **Published:** Jul 28, 2026
-
----
-### Grok Imagine Laufende Charakter-Animation
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Grok Imagine-Prompt zur Erstellung einer laufenden Animationsschleife mit Trikotfarbwechseln und flüssigen Bewegungstechniken wie Squash and Stretch.
-
-#### 📝 Prompt
-
-```
-Das Trikot wechselt alle 0,7 Sekunden die Farbe. Verbinden Sie den ersten und letzten Frame nahtlos miteinander. Natürliche und sanfte Bewegungen unter Verwendung von Squash-and-Stretch- sowie Antizipationstechniken. Laufen, Bogenbewegung, langsam, Loop, 12 fps, kein Dialog.
-```
-
-<img src="https://cms-assets.youmind.com/media/1785313939438_567xi2_HOR1I_sbMAAJiiW.jpg" width="600" alt="Grok Imagine Laufende Charakter-Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8099)**
-
-**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2081923401623724240) | **Published:** Jul 28, 2026
-
----
-### Pferde beim Grasen auf einer sonnigen Wildblumenwiese
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein friedlicher und fotorealistischer Video-Prompt von zwei Pferden, die inmitten von Wildblumen auf einer sonnigen Wiese mit Eichen im Hintergrund grasen.
-
-#### 📝 Prompt
-
-```
-Zwei Pferde grasen ruhig auf der Wiese inmitten der Wildblumen auf einer sonnigen Lichtung, mit Eichen im Hintergrund. Fotorealistisch, helles natürliches Licht, friedliche Atmosphäre. Behalten Sie die ursprüngliche Komposition der Wiese und die Lichtverhältnisse bei.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081913129752305665/img/MnUHHilVVaH6lbR6.jpg" width="600" alt="Pferde beim Grasen auf einer sonnigen Wildblumenwiese">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8021)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2081913170046988659) | **Published:** Jul 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2361,6 +2376,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-06T06:58:26.378Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-06T11:04:18.439Z</sub>
 
 </div>
