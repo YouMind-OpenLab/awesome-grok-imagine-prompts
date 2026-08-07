@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2360** |
+| 📝 Total Prompts | **2374** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-07** |
 
@@ -189,6 +189,362 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Futuristic Shinjuku Pelican on Bicycle
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A surreal high-resolution video prompt depicting a pelican riding a pedal-less, eye-tracking bicycle through the streets of Shinjuku in 2055.
+
+#### 📝 Prompt
+
+```
+Ultra-unrealistic resolution: A pelican in Shinjuku in 2055, riding a bicycle released in 2054. The bicycle has no pedals as it is operated solely by eye-tracking. Of particular note is the depiction of cornering on the famous Metropolitan Expressway slalom.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085638778748801024/img/fTm8fo_A0Kw-EZl8.jpg" width="600" alt="Futuristic Shinjuku Pelican on Bicycle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8670)**
+
+**Author:** [original だいすけ](https://x.com/daisuke) | **Source:** [Link](https://x.com/daisuke/status/2085638794615898621) | **Published:** Aug 7, 2026
+
+---
+### Woman and Monkey Playful Interaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for Grok Imagine that uses reference images of a woman and a macaque to create a photorealistic video of them laughing and playing together.
+
+#### 📝 Prompt
+
+```
+Use the exact face and identity from the provided woman reference image and the exact face and identity from the provided Japanese macaque (Punch) reference photo. Do not change, alter, or redesign any facial features of either subject. Photorealistic cinematic video of the exact same young woman from the reference (long wavy dark brown hair, light blue eyes, white blouse) and the exact same Punch monkey from the reference photo playfully interacting together. Both are smiling and laughing while gently playing. Soft natural outdoor lighting, warm atmosphere, smooth natural motion, high detail, keep both faces completely unchanged and identical to the references.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786090950705_n2f4rg_HPGkYpWXMAA-XD9.jpg" width="600" alt="Woman and Monkey Playful Interaction">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8668)**
+
+**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2085628853926465770) | **Published:** Aug 7, 2026
+
+---
+### Three-Panel Split Screen Cinematic Portrait Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed 8K prompt for creating a three-panel vertical split-screen cinematic video featuring a woman with short golden hair and freckles in a misty dusk setting.
+
+#### 📝 Prompt
+
+```
+8K hyper-realistic 6-second vertical dynamic short film, fixed three-panel vertical split-screen frame, with the dividing lines remaining unchanged. The three panels move independently without overlapping visuals. Hazy and misty outdoor twilight, low-saturation dark-toned cinematic weak side lighting, film grain texture. A woman with light golden short curly hair and a black minimalist top, with highly realistic freckled skin texture and hair constantly blowing in the breeze. Total duration 6 seconds.
+[Top Panel | 0-6s Independent Motion] The woman slowly raises her right hand to the side of her forehead, her fingertips lightly touching her temple. Her gaze is empty and wandering, her lips slightly parted, showing a weary and preoccupied expression. Strands of hair sweep over her eyes in the wind, and her eyelids blink slowly. The lens moves forward very slowly with a small push, focusing on the eyes and hand, with subtle camera shake from a sense of breathing. No dialogue.
+[Middle Panel | 0-6s Independent Motion] A close-up of the character's side profile, looking into the distance with eyelashes trembling slowly. Tears gradually well up in her eyes, hair constantly brushes against her cheeks and nose tip, and her lips purse slightly, showing restrained sadness. The lens moves slowly and slightly horizontally, fixed on the face close-up, with subtle breathing shake and no zooming. No dialogue.
+[Bottom Panel | 0-6s Independent Motion] The woman stands quietly facing the camera, her short hair swaying in the wind, a few strands falling over her eyes. Her gaze slowly shifts from wandering to calm and indifferent. Her breathing is steady, with only slight eyelid movement. The lens pulls back very slowly from a close-up to a bust shot, as the character slowly blends into the dark, misty background. No dialogue.
+All three panels play simultaneously, with natural and realistic movements and micro-expressions, avoiding AI stiffness or distortion. Skin pores and hair details are realistic.
+Accompanying 6-second audio: Minimalist low-pitched piano solo music overlaid with gentle wilderness wind sounds, with overall low volume to create an oppressive and contemplative atmosphere.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085586335331713024/img/seXhMn8JMIdH_GWx.jpg" width="600" alt="Three-Panel Split Screen Cinematic Portrait Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8671)**
+
+**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2085586844088156403) | **Published:** Aug 7, 2026
+
+---
+### Magical Starry Night Dreamscape Bike Ride
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dreamlike journey through a landscape inspired by Starry Night, featuring glowing cherry blossoms and a radiant golden tower.
+
+#### 📝 Prompt
+
+```
+A magical bike ride through a Starry Night dreamscape, cherry blossoms glowing, golden path leading to that radiant tower.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085582801886199808/img/RHEKj38NQEKFN-hT.jpg" width="600" alt="Magical Starry Night Dreamscape Bike Ride">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8667)**
+
+**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2085582849575399884) | **Published:** Aug 7, 2026
+
+---
+### East Asian Woman MiniDV Self-Filming in Tide Temple
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed cinematic prompt for Grok Imagine Video, featuring a continuous 15-second MiniDV-style self-shot of a woman exploring an ancient white jade temple above the clouds, complete with realistic camera artifacts and binaural sound descriptions.
+
+#### 📝 Prompt
+
+```
+The same 24-year-old East Asian female protagonist @0ba07db1-974c-467d-80dc-d9dffddac0ba wearing @27d48282-8e11-4b4e-94aa-f77a7eb8fbc1, with consistent facial features, age, and temperament throughout. Dark moist pupils, a delicate nose bridge, natural pale pink lips; skin retains pores and fine lines under the eyes, no airbrushing or 'influencer' makeup.
+
+The protagonist always holds a silver-grey MiniDV camera in her right hand to film herself—no cameraman. Selfie distance is about 45 cm; when showing the environment, she must first rotate her wrist and body, passing the lens over her shoulder, sleeve, or a railing before facing the scenery; returning to the selfie must also involve a complete physical rotation process.
+
+It is forbidden to show her from a third-person back view, full-body tracking, aerial shot, or external camera perspective while she is filming herself. When the camera turns to the environment, the protagonist can only continue to exist in the frame through her extended left hand, white sleeve, skirt edge, shadow, or live sound.
+
+16:9 MiniDV widescreen mode, natural handheld with slight walking jitter, imperfect composition, brief loss of focus, hesitant autofocus, white balance drift, exposure breathing, motion blur, subtle interlacing artifacts, DV grain, soft highlight bloom, and authentic tape colors.
+
+Each segment is a continuous 15-second selfie shot, no cuts. Between the six segments are travelogue-style time jumps, allowing for changes in weather and light, but the character, clothing, hair accessories, MiniDV, and sound must remain consistent.
+
+The female lead's voice is a natural Mandarin Chinese spoken by an East Asian woman in her 20s, soft, warm, and curious, with occasional slight panting from walking or climbing. Not a costume drama recitation, AI narration, broadcaster, or high-energy influencer-style pitch. 15-second MiniDV selfie video | Oriental Siren Style @b061c722-4fae-42c2-aa5d-48e9dd7dc6df
+
+This is no ordinary palace, but an ancient Tide Temple built above a sea of clouds. Inside stands an unimaginably huge white jade dragon platform: tiered lotus petal bases, spiraling dragon bodies, waves, shells, fish scales, and tide patterns are all carved from aged white jade. Tall dragon-coiled stone pillars support a dark wooden palace roof, with cold white water vapor constantly rushing in between the pillars, leaving moist water marks on the white jade surfaces.
+
+Siren style is expressed through the real environment: cold moist vapor, pearl and mother-of-pearl reflections, low-frequency distant tides, occasionally dripping seawater, and faint female chanting. Do not directly show fish tails or exaggerated monsters.
+
+The protagonist remains the same person, the same face, and the same white-to-pale-pink gradient hanfu. The cold moist vapor makes stray hairs by her ears stick slightly to her cheeks, and her skin shows moist reflections; the white gauze appears pale mother-of-pearl under the blue-grey water light, not a sudden outfit change. The silver hairpin, milky white bead ornaments, and dark red tassel on her wrist remain unchanged.
+
+She always holds the MiniDV herself with her right hand, no cameraman.
+
+0–4 seconds
+
+The recording begins as she walks slowly along the bottom of the white jade dragon platform.
+
+She holds the MiniDV in front of her, her face in the lower right of the frame, with the massive white jade carvings extending off-screen from above her head. It's darker here than outside, the MiniDV's auto-gain is noticeably high, and slight color noise appears in the shadows; the bright clouds behind her produce soft overexposure.
+
+Cold vapor brushes her face, and she instinctively shrugs her shoulders, her breath forming a faint white mist in front of the lens. She touches her damp sleeve with her left hand and says in a low voice:
+
+'Why is it... suddenly so cold here?'
+
+She doesn't intentionally create a sense of mystery while speaking; it's just a physical reaction to the temperature.
+
+4–8 seconds
+
+She first looks up at the dragon platform, then slowly turns the camera outward from herself via her right wrist.
+
+The lens passes her damp hair, silver hairpin, and white sleeve, then captures a close-up low-angle shot of the massive lotus base, the dragon statue, and the dragon stone pillars behind it. This is a realistic angle she could capture while standing below the platform, not an aerial or external panoramic view.
+
+The autofocus first lands on mottled water marks nearby, then shifts to the high dragon head. She says softly off-screen:
+
+'This dragon platform... looks like it rose from the sea.'
+
+Her voice is off-axis from the microphone, slightly obscured by the low echoes and water sounds inside the palace.
+
+8–11 seconds
+
+Just as she finishes speaking, a short snippet of female chanting comes from the shadows behind the dragon platform.
+
+It's not background music, but a real sound located far off in the hall: very low volume, just a soft, ethereal long note, reflecting off the pillars and the massive dome, making its direction hard to judge. The sound is mixed with low-frequency tide sounds, as if coming from a hollow structure beneath the dragon platform.
+
+The protagonist's wrist stops immediately, the frame holding on the slightly tilted white jade carving. She doesn't turn around right away but first holds her breath and tilts her head to confirm.
+
+Then she turns the camera back to herself, her eyes looking past the lens toward the source of the sound, and asks in a hushed tone:
+
+'Wait... did you guys hear that?'
+
+11–15 seconds
+
+The chanting stops briefly. She blinks naturally once, and the curious smile on her face gradually fades.
+
+A clear echo of a water drop falling into deep water comes from the base of the dragon platform. Immediately after, a second, closer female long note sounds from her back left. Her shoulders tighten slightly, her breathing becomes shallow, and she slowly looks at her flip screen as if confirming if the camera recorded it too.
+
+She looks back at the lens, her voice almost a whisper:
+
+'The one singing just now... wasn't me.'
+
+After speaking, she doesn't scream or run but slowly turns the camera toward the dark passage behind the dragon platform. The frame passes her shoulder and damp sleeve, finally stopping on a patch of slightly vibrating shallow water beneath the white jade carving.
+
+A ripple appears on the water surface with no visible source. The recording ends naturally with a third, extremely soft and distant chant.
+
+Live Sound: Cold wind in the hall, slight friction of damp fabric, stone pillar echoes, dripping water, low-frequency distant tides, female chanting from behind the dragon platform. No background music, no narration.
+
+Siren Style Performance Requirements: The protagonist does not perform seductive poses. The sequence of real reactions must be: feeling cold → observing the dragon platform → hearing the sound → holding breath to confirm → realizing the sound was not her. Use subtle eye movements, natural blinking, swallowing, tightening of shoulders, and shallow breathing to show unease.
+
+Supplementary Negative Constraints: No cameraman, no third-person full-body shots, no external orbiting camera movement; no sudden outfit changes, no fish tails, no blue skin, no fangs, no exaggerated monster transformations; no sexy dancing, no exaggerated seductive performance; the protagonist does not open her mouth to sing, the mysterious chanting must come from the space behind the dragon platform; no background soundtrack, no horror sound effect jumpscares, no underwater filters, no palace liquefaction, no statues suddenly moving, no subtitles or watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085539256617803776/img/RuvdVFPamv7rLRT-.jpg" width="600" alt="East Asian Woman MiniDV Self-Filming in Tide Temple">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8669)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2085539666472665473) | **Published:** Aug 7, 2026
+
+---
+### Sci-Fi Terafab Megacity Aerial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic, highly detailed cinematic aerial prompt for a futuristic manufacturing megacity called Terafab, featuring skyscrapers, drones, and neon lights.
+
+#### 📝 Prompt
+
+```
+A breathtaking aerial shot glides over Terafab, a colossal sci-fi megacity where kilometer-high chrome skyscrapers, glowing blue energy cores, floating factories, and endless sky bridges stretch beyond the horizon. Thousands of autonomous drones, magnetic freight trains, and anti-gravity vehicles move in perfect synchronization as massive robotic construction arms continuously build new districts. The camera dives between towering structures, revealing holographic billboards, neon-lit streets, quantum power reactors, and rivers of molten metal flowing through transparent energy channels. Giant orbital elevators connect the city to enormous space stations while flying cargo ships descend through the clouds with brilliant blue engine trails. As the sun sets, Terafab transforms into a sea of dazzling neon lights, shimmering reflections, and futuristic traffic, creating an awe-inspiring cyber-industrial skyline. The sequence ends with a cinematic pullback into space, revealing Terafab as the most advanced manufacturing civilization on a futuristic planet, ultra-photorealistic, cinematic lighting, volumetric fog, HDR, ray tracing, 8K, hyper-detailed, epic scale, smooth drone camera movement, realistic physics, and masterpiece quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085534025125711872/img/MwhTrZdVnpL3Y4Bl.jpg" width="600" alt="Sci-Fi Terafab Megacity Aerial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8659)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2085534622176125238) | **Published:** Aug 7, 2026
+
+---
+### Surreal Beach Motion Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Creates a dreamlike, surreal video featuring flying furniture and animals over a beach landscape with complex moving elements.
+
+#### 📝 Prompt
+
+```
+Have a arm chair with a dog on it fly by on the sand passing the couch with the women flying as well
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085451214679150592/img/iB9UIEDOscznf7lm.jpg" width="600" alt="Surreal Beach Motion Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8664)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2085451255833653447) | **Published:** Aug 6, 2026
+
+---
+### Alice in Wonderland Space Mirror
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal prompt depicting a girl stepping through a looking glass into a cosmic outer space environment.
+
+#### 📝 Prompt
+
+```
+Make an video of a girl stepping through a looking glass like Alice in wonderland but into outer space....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085398290690953216/img/KMYM4AKqSWRK0zeL.jpg" width="600" alt="Alice in Wonderland Space Mirror">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8658)**
+
+**Author:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **Source:** [Link](https://x.com/DrJGiddensRN/status/2085398479182959091) | **Published:** Aug 6, 2026
+
+---
+### Moderation-Safe Energetic Y2K Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt designed to bypass moderation while generating a fun, bouncy Y2K-style video of a seated subject with specific movement constraints.
+
+#### 📝 Prompt
+
+```
+Use the uploaded photo as the exact character reference. Preserve the subject’s face and identity perfectly. Use ONLY the uploaded face reference photo as the character reference. The overall model appearance, including race and ethnicity, must match the subject of the uploaded photo. Y2K compact digital camera style video. The subject remains seated in the same compact pose with knees drawn upward. She gently sways her upper body and shoulders in a soft, rhythmic motion while staying seated, with light natural movement in her head and tousled wavy hair. Warm flash lighting, soft film grain, and nostalgic early-2000s atmosphere. Very subtle and natural movement only: soft swaying of the shoulders and upper body, gentle head motion, slight hair movement — she stays fully seated the entire time. Use the uploaded photo as the exact character reference. Preserve the subject’s face and identity perfectly. Use ONLY the uploaded face reference photo as the character reference. The overall model appearance, including race and ethnicity, must match the subject of the uploaded photo. Y2K compact digital camera style video. The subject stays completely seated in the same compact pose with knees drawn upward the entire time. She moves with fun, energetic upper-body rhythm — light bouncy shoulder shimmies, playful head bobs, and small cheerful upper-body shakes in time with the beat. Her tousled wavy hair gently bounces with the movement. Warm flash lighting, soft film grain, and nostalgic early-2000s atmosphere. Important: She remains fully seated at all times. Movement is limited to light, bouncy, playful upper-body and shoulder motion only — cheerful and energetic, never suggestive.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085362136444792832/img/exJKh6aK_cZGME2l.jpg" width="600" alt="Moderation-Safe Energetic Y2K Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8663)**
+
+**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2085365705361273330) | **Published:** Aug 6, 2026
+
+---
+### Mechanical Horse Chase Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt describing a mechanical archer on horseback chasing a demon boar, focusing on dynamic motion.
+
+#### 📝 Prompt
+
+```
+The veil of time parts before me 
+
+The archer’s mechanical equidae back legs gallop 🏇 to give chase to an evil possessed demon wild boar 🐗.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085360503400833024/img/xyNkj9ytSEQNpymO.jpg" width="600" alt="Mechanical Horse Chase Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8661)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2085360781646823801) | **Published:** Aug 6, 2026
+
+---
+### 16mm Handheld Influencer Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive prompt designed to mimic the aesthetic of a vintage 16mm handheld camcorder, creating a highly realistic influencer-style vlog.
+
+#### 📝 Prompt
+
+```
+CAMERA: DV 16mm tape camcorder handheld aesthetic. POV of a beautiful influencer-style woman filming herself directly by hand. Keep natural hand shake, slightly crooked framing, delayed focus pulls, awkward zooms, occasional moments where her face is partly cut off, and imperfect framing that briefly loses the subject. Every shot is filmed by the woman herself in selfie-cam or first-person style, except for one brief moment when she props the camera down. The camcorder itself never appears on screen. LOOK: Soft digital tape look with a subtle vintage camcorder feel. Slight blur, faint tape noise, softly blooming highlights in dim light, mild flicker in auto-exposure, low contrast, realistic skin tones. STYLE: Late-night post-practice vlog mood — tired, calm, a little out of breath, but clearly happy and satisfied. Quiet, natural, unposed energy. Handheld all the way through, slower and more intimate than a daytime gym vlog. Occasional heavy breathing between lines. CHARACTER: A beautiful Instagram-style brunette model in her 20s. Long dark brown hair tied back or slightly messy after rehearsal, attractive feminine features, glowing skin with a light sweat sheen, expressive eyes, slim fit build. Wearing a modest fitted long-sleeve athletic top, loose joggers or sweatpants, and sneakers. No jewelry. SETTING: An empty dance rehearsal studio late at night. Mirror wall on one side, wooden floor, a speaker in the corner, a towel and water bottle near the wall, dim overhead lighting, dark hallway visible outside the studio windows. STORYBOARD: (~2s, propped camera near the mirror, medium shot) She walks into frame catching her breath, wipes sweat from her forehead, gives a small exhausted smile. “Finally done… it’s way too late.” (~2s, handheld, slow drift across the room and back to her) The camera loosely pans over the empty mirrors and quiet studio, then returns to her face. (softly, off-screen): “Whole studio’s empty now.” (~2s, medium handheld near the wall) She grabs her water bottle, takes a long drink, lowers it, and exhales in relief. “I really needed that.” (~2s, propped camera facing the mirror, wider shot) She sets the camera down, steps back, does a short sharp dance combo, then laughs at herself when she finishes. (~2s, arm’s-length selfie close-up finish) She picks the camera back up, towel over her shoulder, cheeks flushed, still breathing a little heavy. She gives a small tired wave and a genuine smile. “Okay, I’m going home. Good night
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085349546964484096/img/ufTGaXlMa20fqC5T.jpg" width="600" alt="16mm Handheld Influencer Vlog">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8665)**
+
+**Author:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2085350644915765377) | **Published:** Aug 6, 2026
+
+---
+### Cinematic Korean Lifestyle Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, professional-grade prompt for a 15-second cinematic video of a Korean woman in a pastel bedroom.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic vertical video, 15 seconds. A beautiful young Korean woman in a cozy pastel bedroom during a bright spring morning. She wears the same blush pink plaid dress with cream long sleeves, a delicate bow at the neckline, and a black ribbon in her long wavy hair. The room is softly decorated with pastel wall art, flowers, books, and warm natural window light. Every shot features a different camera angle with smooth cinematic transitions, natural movement, and subtle expressions.
+
+Shot 1 (0–2s): Extreme close-up of fresh pink flowers on the desk. The camera slowly slides past the flowers, revealing her softly smiling face in the background through a shallow depth of field.
+
+Shot 2 (2–4s): Close-up of her hands gently straightening the ribbon on the front of her dress. The camera tilts upward to her face as she finishes adjusting it.
+
+Shot 3 (4–6s): Side-profile medium shot. She slowly turns toward the window, sunlight illuminating her face as a gentle breeze moves a few loose strands of hair. She closes her eyes for a brief moment and smiles peacefully.
+
+Shot 4 (6–8s): Over-the-shoulder shot from behind. She looks at the pastel decorations and photo cards on the wall, lightly touching one with her fingertips before turning back.
+
+Shot 5 (8–10s): Front medium close-up. The camera slowly circles around her while she tilts her head slightly, blinks naturally, and gives a soft, genuine smile. Her long wavy hair sways gently with the breeze.
+
+Shot 6 (10–13s): Low-angle close-up from tabletop level beside the vase of flowers. She leans forward slightly, resting her hands together, looking directly into the camera with warm, expressive eyes before giving a subtle playful wink.
+
+Shot 7 (13–15s): Wide shot. She walks toward the window, gently parts the sheer curtains, and warm morning sunlight floods the room. She glances back over her shoulder with a sweet smile as the camera slowly pulls away, ending on a dreamy, peaceful frame.
+
+Style: Ultra-photorealistic, premium Korean lifestyle commercial, natural body language, realistic facial expressions, lifelike eye movement and blinking, subtle breathing, physically accurate hair and fabric simulation, smooth cinematic camera movement, shallow depth of field, creamy bokeh, soft pastel color palette, warm morning sunlight, luxury editorial photography aesthetic, 35mm and 85mm lens look, 24 fps, HDR, 8K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085338302216089600/img/mKF3Bz1eYfh1h2ne.jpg" width="600" alt="Cinematic Korean Lifestyle Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8660)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2085338630692692405) | **Published:** Aug 6, 2026
+
+---
+### Rap Music Video Production
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive multi-part prompt for producing a full hip-hop music video with character consistency and dynamic studio shots.
+
+#### 📝 Prompt
+
+```
+Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance throughout the video. She has long black hair in a sleek high ponytail with soft face-framing strands and wears a vibrant hot-pink cropped bomber jacket over a fitted black crop top, a black pleated mini skirt layered over biker shorts, white crew socks, chunky sneakers, silver hoop earrings, layered chain necklaces, and rings. Maintain perfect character consistency in every scene.
+
+Create an ultra-realistic premium American hip-hop music video inside a modern industrial studio with glossy black floors, neon pink and blue lighting, graffiti walls, chrome speakers, LED light bars, a professional drum kit, vintage leather furniture, subtle haze, and cinematic contrast.
+
+The video opens with an extreme close-up as she confidently adjusts the collar of her pink jacket, stares directly into the camera, smirks, and snaps her fingers to the beat. She turns sharply and walks toward the camera with effortless swagger while her jacket flows naturally. She performs energetic hip-hop choreography with shoulder pops, smooth footwork, body rolls, confident poses, and expressive hand gestures as the camera circles around her with dynamic handheld movement.
+
+She jumps onto the drum platform, twirls a drumstick between her fingers, then performs an energetic drum solo with realistic stick movement, powerful cymbal crashes, snare hits, and fast tom fills. The camera alternates between overhead, side-profile, macro close-ups, and dramatic low-angle shots synchronized with the rhythm.
+
+The performance continues beside a graffiti-covered roller shutter where she confidently squats, leans against stacked speakers, points toward the lens, and continues lip-syncing with playful attitude. She walks across the studio beneath moving spotlights, lounges briefly on a vintage leather sofa while nodding to the beat, then stands again as industrial fans create natural movement in her ponytail and jacket.
+
+The final performance takes place center stage beneath vibrant magenta and blue lights surrounded by drums, LED light bars, chrome speakers, and graffiti walls. She delivers the final lyrics with bold confidence, spins one drumstick in her hand, throws it toward the camera, crosses her arms with a confident smile, and holds a powerful hero pose as the camera slowly pulls back while the lights fade.
+
+Style: Premium rap music video, luxury editorial fashion aesthetic, cinematic handheld camera, wide-angle hero shots, smooth gimbal movement, realistic lip-sync, expressive performance, physically accurate lighting, natural fabric simulation, real
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085297445630865408/img/ZQLrZIe2X9WvPiWv.jpg" width="600" alt="Rap Music Video Production">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8662)**
+
+**Author:** [Aira](https://x.com/AzraJalal) | **Source:** [Link](https://x.com/AzraJalal/status/2085297532486533177) | **Published:** Aug 6, 2026
+
+---
 ### Christmas Kitten Snow Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,11 +583,11 @@ The man slowly reaches his free hand for the driver’s side door handle of the 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2085260396231832015) | **Published:** Aug 6, 2026
 
 ---
-### Cinematic Korean Woman Bedroom Vlog
+### Cozy Bedroom Vlog Selfie
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An extremely detailed multi-shot prompt for a photorealistic vlog-style video of a Korean woman in her bedroom.
+> A highly detailed multi-shot prompt for a realistic vertical video of a woman in a cozy bedroom, designed to mimic a smartphone vlog.
 
 #### 📝 Prompt
 
@@ -251,28 +607,26 @@ Shot 5 (8–10s): Close-up selfie. She leans slightly closer to the camera, give
 Style: Ultra-photorealistic, natural facial expressions, realistic blinking, subtle breathing, lifelike hair physics, authentic smartphone handheld movement, warm ambient lighting, shallow depth of field, premium cinematic color grading, 24 fps, 8K, cozy Korean bedroom aesthetic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cinematic Korean Woman Bedroom Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cozy Bedroom Vlog Selfie">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8613)**
 
 **Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2085211763214028933) | **Published:** Aug 6, 2026
 
 ---
-### Stegosaurus Moon Rocket Surgery
+### Stegosaurus Rocket Removal
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal animation prompt where a dinosaur aids the moon by removing a rocket part through physical action.
+> A creative surrealist prompt where a stegosaurus helps the moon by biting and pulling a rocket out of it, featuring expressive facial emotions.
 
 #### 📝 Prompt
 
 ```
-Get it out!
-
 The moon is aided by the stegosaurus removes the rocket part with a fierce bite and swift pull. The moon has agonizing expressions during the removal.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085200311438786560/img/i7NFCCt2IdCnWtEg.jpg" width="600" alt="Stegosaurus Moon Rocket Surgery">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085200311438786560/img/i7NFCCt2IdCnWtEg.jpg" width="600" alt="Stegosaurus Rocket Removal">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8600)**
 
@@ -315,6 +669,25 @@ Create a powerful artistic tribute to E=mc². Use the likeness and face of Alber
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8602)**
 
 **Author:** [Elizabeth](https://x.com/ElizabethC25755) | **Source:** [Link](https://x.com/ElizabethC25755/status/2085178030255636915) | **Published:** Aug 6, 2026
+
+---
+### Dragon Rider Adventure Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic sequence where a woman interacts with a dragon in a meadow before flying off into a fiery sunset.
+
+#### 📝 Prompt
+
+```
+She stands in the field • Turns and walks toward the dragon • Reaches out and climbs onto its head • The dragon rears up, spreads its wings, and takes off • They soar into a fiery sunset while it breathes fire
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085068571978133504/img/uVafmO5VKZMw8tsE.jpg" width="600" alt="Dragon Rider Adventure Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8666)**
+
+**Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2085068608762155443) | **Published:** Aug 5, 2026
 
 ---
 ### Cyberpunk Noodle Bar Scene
@@ -378,11 +751,11 @@ These galaxies 🌌 intertwined form a double helix 🧬 loop that is the iris o
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2085022273816150178) | **Published:** Aug 5, 2026
 
 ---
-### Metallic Fractal Grace
+### Metallic Fractal Grace Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive prompt for an animation of a character performing among metallic fractals in an inverse realm.
+> A complex animation prompt describing a character performing in a fractal-filled metallic realm.
 
 #### 📝 Prompt
 
@@ -390,7 +763,7 @@ These galaxies 🌌 intertwined form a double helix 🧬 loop that is the iris o
 In the Inverse realm Alchemedia performs her metallic grace among the fractals that accumulate her being as she does theirs.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085015842454921217/img/agma4Z4eFUMbYIxZ.jpg" width="600" alt="Metallic Fractal Grace">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085015842454921217/img/agma4Z4eFUMbYIxZ.jpg" width="600" alt="Metallic Fractal Grace Animation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8614)**
 
@@ -458,19 +831,19 @@ These dragons proceed to form a new larger dragon by combining their flaming neo
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2084970238685204922) | **Published:** Aug 5, 2026
 
 ---
-### Cinematic Coffee Catch Sequence
+### Cinematic Catch and Throw Mug Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed 10-second cinematic animation prompt where a character catches a high-speed flying coffee mug with athletic precision.
+> A comprehensive prompt for generating a seamless 10-second cinematic animation where a character catches a high-speed coffee mug and throws it back, focusing on realistic physics and character consistency.
 
 #### 📝 Prompt
 
 ```
-10-second cinematic sequence.  Begin from the exact edited image.  Preserve the exact character, face, hairstyle, clothing, proportions, lighting, and composition.  The camera remains completely locked.  The animation begins immediately.  Within the first 0.2 seconds, a matte black steaming coffee mug suddenly enters from the LEFT side of the frame at very high speed.  The mug follows a clean, straight horizontal trajectory with natural physics.  The mug remains perfectly upright.  No coffee spills.  Steam stretches behind the mug as a continuous motion trail.  The character notices the incoming mug at the last possible moment.  Instant athletic reaction.  Eyes lock onto the mug.  The body shifts naturally.  The character reaches out and catches the mug cleanly with one hand while allowing the arm and shoulders to absorb the momentum.  The catch feels smooth, believable, and athletic, like an experienced baseball player receiving a hard throw.  The mug never tumbles.  The coffee remains inside.  Not a single drop spills.  A quick smile appears.  The character briefly admires the successful catch.  (Optional) One quick sip.  Immediately the body transitions into a powerful baseball-style throwing motion.  The free arm extends naturally toward the target.  The throwing arm rotates through the shoulders and hips.  The mug becomes a rigid projectile.  The fingers open.  The mug completely separates from the hand.  Visible empty space appears between the fingers and the mug.  The mug accelerates rapidly toward the RIGHT edge of the frame.  Steam trails behind the mug continuously.  The mug completely exits the RIGHT side of the screen before the 8-second mark.  The camera smoothly follows the mug for a brief moment, then naturally eases back to the character completing the follow-through.  Dust kicks up around the planted foot.  Hair and clothing react naturally to the momentum.  The character finishes the throw with an EMPTY hand while watching the mug successfully leave the frame.  Natural physics.  One continuous shot.  Ultra-photoreal.  Locked character consistency.  No warping.  No duplicated mug.  No duplicated hands.  No extra limbs.  No spilled coffee.  No cuts.  No transitions.  The mug must visibly enter from the LEFT, be caught once, then visibly leave to the RIGHT while remaining upright for the entire sequence.
+10-second cinematic sequence. Begin from the exact edited image. Preserve the exact character, face, hairstyle, clothing, proportions, lighting, and composition. The camera remains completely locked. The animation begins immediately. Within the first 0.2 seconds, a matte black steaming coffee mug suddenly enters from the LEFT side of the frame at very high speed. The mug follows a clean, straight horizontal trajectory with natural physics. The mug remains perfectly upright. No coffee spills. Steam stretches behind the mug as a continuous motion trail. The character notices the incoming mug at the last possible moment. Instant athletic reaction. Eyes lock onto the mug. The body shifts naturally. The character reaches out and catches the mug cleanly with one hand while allowing the arm and shoulders to absorb the momentum. The catch feels smooth, believable, and athletic, like an experienced baseball player receiving a hard throw. The mug never tumbles. The coffee remains inside. Not a single drop spills. A quick smile appears. The character briefly admires the successful catch. (Optional) One quick sip. Immediately the body transitions into a powerful baseball-style throwing motion. The free arm extends naturally toward the target. The throwing arm rotates through the shoulders and hips. The mug becomes a rigid projectile. The fingers open. The mug completely separates from the hand. Visible empty space appears between the fingers and the mug. The mug accelerates rapidly toward the RIGHT edge of the frame. Steam trails behind the mug continuously. The mug completely exits the RIGHT side of the screen before the 8-second mark. The camera smoothly follows the mug for a brief moment, then naturally eases back to the character completing the follow-through. Dust kicks up around the planted foot. Hair and clothing react naturally to the momentum. The character finishes the throw with an EMPTY hand while watching the mug successfully leave the frame. Natural physics. One continuous shot. Ultra-photoreal. Locked character consistency. No warping. No duplicated mug. No duplicated hands. No extra limbs. No spilled coffee. No cuts. No transitions. The mug must visibly enter from the LEFT, be caught once, then visibly leave to the RIGHT while remaining upright for the entire sequence.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084961493427109888/img/umu6xa7alKBQjRuY.jpg" width="600" alt="Cinematic Coffee Catch Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084961493427109888/img/umu6xa7alKBQjRuY.jpg" width="600" alt="Cinematic Catch and Throw Mug Sequence">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8604)**
 
@@ -1886,435 +2259,6 @@ First we have a goat swim by with scuba gear on and then we have a rooster swim 
 **Author:** [GIXXER4820](https://x.com/DovelRandy) | **Source:** [Link](https://x.com/DovelRandy/status/2083025347658887665) | **Published:** Jul 31, 2026
 
 ---
-### ผู้บุกเบิกอวกาศบนดาวอังคารในสไตล์ภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสไตล์ภาพยนตร์ความยาว 10 วินาทีที่มีรายละเอียดสูง นำเสนอผู้บุกเบิกอวกาศบนดาวอังคารในช่วงเวลาโกลเด้นอาวร์ โดยเน้นที่รายละเอียดของเครื่องแต่งกายและบรรยากาศทางอารมณ์
-
-#### 📝 Prompt
-
-```
-ฉากภาพยนตร์ความยาว 10 วินาทีบนพื้นผิวหินสีแดงของดาวอังคารในช่วงโกลเด้นอาวร์ ผู้บุกเบิกอวกาศผู้มีวิสัยทัศน์สวมหมวกแก๊ปสีดำที่มีข้อความว่า “I would like to die on Mars. Just not on impact.” และถุงเท้าสีดำลายดาวอังคารที่เข้าชุดกันพร้อมลวดลายดาวเคราะห์หลากสีสันซึ่งมองเห็นได้เหนือรองเท้าบูทที่ทนทาน เขากำลังเดินอย่างช้าๆ ไปบนพื้นผิวของดาว เขาหยุดชะงักและมองไปยังขอบฟ้าไกลด้วยความอยากรู้อยากเห็นอย่างเงียบๆ ราวกับกำลังสงสัยว่าจะมีใครอีกคนที่ฝันเหมือนกันมาถึงที่นี่ก่อนแล้วหรือไม่ ในระยะไกล หญิงสาวที่สวมหมวกแก๊ปสีดำแบบเดียวกันยืนอยู่บนสันเขา หมวกที่เหมือนกันของพวกเขากลายเป็นสัญลักษณ์แห่งความหวัง การสำรวจ และความสัมพันธ์ของมนุษย์ที่เงียบงัน สายลมเบาๆ บนดาวอังคาร ฝุ่นละอองที่สมจริง แสงแบบภาพยนตร์ สมจริงเป็นพิเศษ รายละเอียดสูง ให้ความรู้สึกยกระดับจิตใจ ถ่ายในระยะปานกลางโดยเห็นทั้งหมวกและถุงเท้าได้อย่างชัดเจน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083007065006444544/img/itqxUqkcMVQccWCq.jpg" width="600" alt="ผู้บุกเบิกอวกาศบนดาวอังคารในสไตล์ภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8180)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2083008164165722533) | **Published:** Jul 31, 2026
-
----
-### รูปปั้นนักฮอกกี้เคลื่อนไหวได้
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอแอนิเมชันที่ทำให้รูปปั้นนักฮอกกี้กลับมามีชีวิตอีกครั้ง ขณะที่พวกเขากำลังเดินลงสู่ลานน้ำแข็งเพื่อเตรียมตัวถ่ายภาพ
-
-#### 📝 Prompt
-
-```
-animate this hockey player statues to show them like entering the ice and prepare for a photo shoot
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082893258250706944/img/tS1NtLNqEIOK_54f.jpg" width="600" alt="รูปปั้นนักฮอกกี้เคลื่อนไหวได้">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8179)**
-
-**Author:** [Viorel Stolea](https://x.com/viorel_stolea) | **Source:** [Link](https://x.com/viorel_stolea/status/2082893351569752541) | **Published:** Jul 30, 2026
-
----
-### วิดีโอเจ้าหญิงเดินบนเส้นทางกุหลาบ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ของเจ้าหญิงในชุดปักลวดลายที่กำลังเดินไปหาพระราชาที่ซุ้มประตูของปราสาท
-
-#### 📝 Prompt
-
-```
-เจ้าหญิงยังคงเดินต่อไปข้างหน้าอย่างสง่างามบนเส้นทางที่เต็มไปด้วยดอกกุหลาบ ชุดปักลวดลายเนื้อบางเบาและผ้าคลุมหน้ายาวของเธอพลิ้วไหวอย่างงดงามตามจังหวะการก้าวเดินท่ามกลางแสงสีทองที่ส่องประกาย เธอค่อยๆ เดินเข้าไปใกล้พระราชาผู้สง่างามที่กำลังยืนรออยู่ที่ซุ้มประตูปราสาทซึ่งปกคลุมไปด้วยดอกกุหลาบ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082856138928975872/img/SHy5RHgKfh_EJfWv.jpg" width="600" alt="วิดีโอเจ้าหญิงเดินบนเส้นทางกุหลาบ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8178)**
-
-**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2082856269443105228) | **Published:** Jul 30, 2026
-
----
-### วิดีโอ AI หญิงสาวกำลังพูด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอผู้หญิงที่กำลังพูดคุยเรื่องปัญญาประดิษฐ์อย่างเป็นธรรมชาติ พร้อมการเคลื่อนไหวของใบหน้าและท่าทางที่สมจริง
-
-#### 📝 Prompt
-
-```
-หญิงสาวกำลังพูดคุยเกี่ยวกับปัญญาประดิษฐ์ โดยปากของเธอขยับอย่างเป็นธรรมชาติขณะพูดถึงความก้าวหน้าของ AI และอนาคตของเทคโนโลยี มีการพยักหน้าและหันศีรษะเล็กน้อย มือที่ยกขึ้นทำท่าทางอย่างนุ่มนวลเพื่อเน้นย้ำประเด็นต่างๆ รวมถึงการกะพริบตาที่เป็นธรรมชาติและ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082845583417749505/img/9b41u_xSSJ9jYpCY.jpg" width="600" alt="วิดีโอ AI หญิงสาวกำลังพูด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8176)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2082845599611928577) | **Published:** Jul 30, 2026
-
----
-### หญิงสาวแอฟริกันอเมริกันผมบลอนด์กับการเดินทางด้วยรถยนต์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ภาพประกอบแอนิเมชันที่มีชีวิตชีวาของหญิงสาวที่มีรอยสักกำลังขับรถพร้อมกับแมวของเธอ โดดเด่นด้วยสไตล์ศิลปะแบบคาวาอี้และโทนสีบรอนซ์
-
-#### 📝 Prompt
-
-```
-หญิงสาวแอฟริกันอเมริกันผมบลอนด์ที่มีรอยสักอยู่ในรถกับแมวของเธอ, ดวงตาสีเขียวสดใส, สไตล์ศิลปะคาวาอี้, โอเวอร์เลย์สีส้มอ่อนและสีบรอนซ์อ่อน, ภาพประกอบแอนิเมชัน, daz3d, สมจริง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082838636114968576/img/k6utsebHs3-oSUbr.jpg" width="600" alt="หญิงสาวแอฟริกันอเมริกันผมบลอนด์กับการเดินทางด้วยรถยนต์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8171)**
-
-**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2082838664023876035) | **Published:** Jul 30, 2026
-
----
-### ปูดินน้ำมันขี่จักรยานบนชายหาด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สไตล์สตอปโมชันสุดสร้างสรรค์สำหรับปูดินน้ำมันที่พยายามขี่จักรยานบนทางเดินริมชายหาด พร้อมการเคลื่อนไหวแบบกระเสือกกระสนที่ดูสมจริง
-
-#### 📝 Prompt
-
-```
-ปูดินน้ำมันพยายามขี่จักรยานบนชายหาด เคลื่อนไหวแบบกระเสือกกระสน ทางเดินริมชายหาดทำจากดินน้ำมัน 16:9
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082774839023325184/img/2ETKUfH7zgKsk-fI.jpg" width="600" alt="ปูดินน้ำมันขี่จักรยานบนชายหาด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8173)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2082774909529514084) | **Published:** Jul 30, 2026
-
----
-### Digital Consciousness Matrix Motion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงเทคนิคที่ใช้พารามิเตอร์ควบคุมกล้องเพื่อสร้างภาพจำลองของเมทริกซ์แห่งจิตสำนึกดิจิทัลที่ส่องสว่าง
-
-#### 📝 Prompt
-
-```
-{"shot": {"motion_level": "ต่ำ", "camera_depth": "ภาพระยะใกล้", "camera_view": "ระดับสายตา", "camera_movement": "ภาพนิ่งพร้อมการซูมเข้าอย่างนุ่มนวลและแผ่วเบา"}, "scene": {"location": "เมทริกซ์แห่งจิตสำนึกดิจิทัล", "environment": "เมทริกซ์ดิจิทัลเชิงนามธรรมที่ส่องสว่าง..."}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082734395275022336/img/lu_35oamLTPon1Zp.jpg" width="600" alt="Digital Consciousness Matrix Motion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8172)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2082734459611443355) | **Published:** Jul 30, 2026
-
----
-### วิดีโอการแปลงร่างสายฟ้าของ He-Man
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่อธิบายถึงการแปลงร่างเป็น He-Man พร้อมแสงท้องฟ้าที่ดูดราม่าและเอฟเฟกต์พลังงาน
-
-#### 📝 Prompt
-
-```
-ช่วยทำวิดีโออีกอันโดยให้ฉันนั่งอยู่บนเก้าอี้ในสภาพที่ได้รับพลังงาน โดยมีแสงสว่างไหลลงมาจากท้องฟ้าเข้าสู่หมวกบนหัวของฉัน เพื่อกำจัดเสียงรบกวนในขณะที่ฉันกำลังชักกระตุก พร้อมให้ฉันพูดว่า "Bring on the lightning and zap these Aliens!" (เรียกสายฟ้ามาจัดการพวกเอเลี่ยนพวกนี้!) ฉันเกลียด Xenu!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082720000192950272/img/WssvnsGpO8VrNpYX.jpg" width="600" alt="วิดีโอการแปลงร่างสายฟ้าของ He-Man">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8102)**
-
-**Author:** [The Love King](https://x.com/ryanwilson2015) | **Source:** [Link](https://x.com/ryanwilson2015/status/2082720018236928104) | **Published:** Jul 30, 2026
-
----
-### มังกรเวทมนตร์เดินเล่นอย่างสนุกสนาน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สำหรับสร้างมังกรสีฟ้าและสีเหลืองที่มีเกล็ดโดดเด่นกำลังเดินมุ่งหน้าไปยังโรงนาสีแดง
-
-#### 📝 Prompt
-
-```
-เพิ่มมังกรสีฟ้าที่มีเกล็ดรูปแปดเหลี่ยม 
-มังกรสีเหลืองที่มีเกล็ดรูปสามเหลี่ยม 
-เดินเล่นอย่างสนุกสนานเคียงข้างกันมุ่งหน้าไปยังโรงนาสีแดง 
-ทำให้มังกรดูมีความเป็นเวทมนตร์มากขึ้น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082703619489660930/img/FarIJccUtoOH14rf.jpg" width="600" alt="มังกรเวทมนตร์เดินเล่นอย่างสนุกสนาน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8104)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2082703667103473802) | **Published:** Jul 30, 2026
-
----
-### แอนิเมชันแนวไซไฟแบบ Cinematic One-Cut
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> คำสั่ง (Prompt) ฉบับสมบูรณ์สำหรับการสร้างแอนิเมชันแนวไซไฟแบบ Cinematic ความยาว 15 วินาที โดยใช้ภาพประกอบเริ่มต้นเป็นเฟรมอ้างอิง เน้นการเคลื่อนไหวที่เป็นธรรมชาติและการเปลี่ยนมุมมองแบบบุคคลที่หนึ่ง
-
-#### 📝 Prompt
-
-```
-ใช้ภาพประกอบที่แนบมาเป็นเฟรมแรกของวิดีโอ
-
-━━━━━━━━━━━━━━━━━━
-
-วัตถุประสงค์
-
-สร้างแอนิเมชันแนวไซไฟแบบ Cinematic ความยาว 15 วินาที โดยคงสไตล์ ตัวละคร องค์ประกอบภาพ ฉากหลัง แสง และบรรยากาศของภาพประกอบต้นฉบับเอาไว้
-
-ห้ามวาดภาพต้นฉบับใหม่ ให้ใส่ความลื่นไหลของเวลาและความมีชีวิตชีวาให้กับภาพนิ่ง
-
-ฟุตเทจควรจัดทำเสมือนการถ่ายทำแบบลองเทคต่อเนื่องเพียงช็อตเดียว (One-cut)
-
-ห้ามมีการตัดต่อ (Cuts)
-
-ห้ามมีบทสนทนาและการลิปซิงค์
-
-━━━━━━━━━━━━━━━━━━
-
-ภาพและองค์ประกอบ
-
-ห้ามเปลี่ยนสไตล์ศิลปะ
-
-ห้ามออกแบบตัวละครใหม่
-
-ห้ามเปลี่ยนฉากหลัง
-
-คงองค์ประกอบภาพเดิมไว้
-
-ห้ามเปลี่ยนเสื้อผ้า
-
-คงลักษณะแสงเดิมไว้
-
-ให้ความสำคัญกับอัตลักษณ์ของตัวละครเป็นอันดับแรก
-
-คงสัดส่วนร่างกาย
-
-คงลักษณะใบหน้า
-
-เพิ่มเฉพาะการเคลื่อนไหวที่เป็นธรรมชาติที่จำเป็นเท่านั้น
-
-━━━━━━━━━━━━━━━━━━
-
-ตัวละคร
-
-ตัวละครนั่งอยู่ในห้องนักบินของหุ่นยนต์ยักษ์
-
-ใช้งานโฮโลแกรม HUD อย่างเป็นธรรมชาติ
-
-สังเกตเห็นว่ากำลังถูกถ่ายทำอยู่
-
-ยิ้มออกมาอย่างเป็นธรรมชาติ
-
-ไม่ลุกขึ้นจากที่นั่ง
-
-ขณะนั่งอยู่ ให้โน้มตัวไปข้างหน้าอย่างเป็นธรรมชาติ
-
-ยื่นแขนข้างหนึ่งออกไปนอกเฟรมอย่างเป็นธรรมชาติ
-
-หยิบกล้องตัวเดียวกันขึ้นมา
-
-ถ่ายทำต่อด้วยมือ (Handheld) อย่างเป็นธรรมชาติจากจุดนั้น
-
-การแสดงควรดูเป็นธรรมชาติและผ่อนคลายตลอดทั้งคลิป
-
-จบด้วยการขยิบตาและทำท่าชูสองนิ้วให้กล้อง
-
-━━━━━━━━━━━━━━━━━━
-
-กล้อง
-
-กล้องตั้งนิ่งสนิทในช่วงเริ่มต้น
-
-ไม่มีการเคลื่อนไหวใดๆ เหมือนกล้องที่ติดตั้งบนขาตั้ง
-
-ไม่มีการแพน (Panning)
-
-ไม่มีการทิลต์ (Tilting)
-
-ไม่มีการซูม (Zooming)
-
-ไม่มีการดอลลี่ (Dollying)
-
-ไม่มีการออร์บิท (Orbiting)
-
-ไม่มีการติดตาม (Tracking)
-
-ไม่มีการดันกล้องเข้า (Pushing in)
-
-ไม่มีการดึงกล้องออก (Pulling out)
-
-กล้องไม่เคลื่อนเข้าหาตัวละคร
-
-มีเพียงตัวละครที่โน้มตัวไปข้างหน้าเล็กน้อยเท่านั้น
-
-ระยะห่างจากกล้องจะลดลงเพียงเล็กน้อย
-
-เฉพาะในจังหวะที่ตัวละครสัมผัสกล้อง จะเกิดการสั่นไหวแบบถือด้วยมือ (Handheld) ตามธรรมชาติเนื่องจากแรงเฉื่อยเล็กน้อย
-
-จากจุดนั้นเป็นต้นไป จะกลายเป็นการถ่ายทำแบบถือด้วยมือด้วยกล้องตัวเดียวกัน
-
-ฟุตเทจจะดำเนินไปอย่างต่อเนื่องจนจบ
-
-━━━━━━━━━━━━━━━━━━
-
-ไทม์ไลน์
-
-0-2 วินาที
-
-ใช้งานโฮโลแกรม HUD มีเพียงปลายนิ้วที่เคลื่อนไหวอย่างเป็นธรรมชาติ
-
-2-3 วินาที
-
-สังเกตเห็นว่ากำลังถูกถ่ายทำ มองมาที่นี่ แล้วยิ้มออกมาอย่างเป็นธรรมชาติ
-
-3-5 วินาที
-
-โบกมือเล็กน้อย แสดงท่าทางด้วยจังหวะที่เป็นธรรมชาติ อย่าอยู่นิ่งเป็นเวลานาน
-
-5-8 วินาที
-
-ไม่ลุกจากที่นั่ง โน้มตัวไปข้างหน้าเล็กน้อย ยื่นแขนข้างหนึ่งออกไปนอกเฟรม มือหลุดออกจากเฟรม หยิบกล้องตัวเดียวกันขึ้นมา เกิดการสั่นไหวเล็กน้อยจากการถือด้วยมือเนื่องจากแรงเฉื่อย มุมมองเปลี่ยนไปเป็นการถ่ายทำแบบถือด้วยมืออย่างเป็นธรรมชาติโดยที่ยังคงความต่อเนื่องไว้
-
-8-15 วินาที
-
-ถ่ายทำแบบถือด้วยมือต่อไปโดยยื่นแขนออกไป คงรอยยิ้มที่เป็นธรรมชาติ เปลี่ยนสีหน้าเล็กน้อย ขยับสายตาเล็กน้อย ให้เห็น HUD หรือห้องนักบินสลับกับตัวละครบ้าง บรรยากาศดูเป็นธรรมชาติเสมือนกำลังสนุกกับการถ่ายทำ จบด้วยการขยิบตาและชูสองนิ้วให้กล้อง ต้องไม่จบลงทันทีหลังจากหยิบกล้องขึ้นมา ช่วงครึ่งหลังของวิดีโอส่วนใหญ่ควรเป็นการถ่ายทำแบบถือด้วยมือ
-
-━━━━━━━━━━━━━━━━━━
-
-ฉากหลัง
-
-ห้องนักบินหุ่นยนต์ยักษ์
-
-โฮโลแกรม UI
-
-ศาลเจ้า
-
-ป่า
-
-ห้ามเปลี่ยนฉากหลัง
-
-แสงธรรมชาติ
-
-เส้นผมและเสื้อผ้าพริ้วไหวเล็กน้อย
-
-━━━━━━━━━━━━━━━━━━
-
-การเรนเดอร์
-
-แอนิเมชันคุณภาพสูง
-
-คุณภาพระดับภาพยนตร์
-
-มีความละเอียดอ่อนของลายเส้นวาดมือ
-
-มีพื้นผิว (Texture) ตามแบบฉบับงานอนิเมะ
-
-━━━━━━━━━━━━━━━━━━
-
-สิ่งที่สำคัญที่สุด
-
-ห้ามวาดภาพต้นฉบับใหม่ ห้ามเปลี่ยนตัวละครเป็นคนอื่น ห้ามเปลี่ยนฉากหลัง ห้ามเปลี่ยนเสื้อผ้า ห้ามเปลี่ยนองค์ประกอบภาพ ห้ามหมุนตัว ห้ามเปลี่ยนทิศทางโดยไม่จำเป็น ห้ามวาดส่วนของร่างกายที่มองไม่เห็น ห้ามทำท่าทางที่หวือหวาเกินไป ห้ามให้เห็นอุปกรณ์ถ่ายทำในเฟรม กล้องคือมุมมองของผู้ถ่ายและไม่ควรปรากฏเป็นวัตถุในฟุตเทจ กล้องต้องนิ่งในช่วงเริ่มต้น มีเพียงตัวละครเท่านั้นที่สัมผัสกล้อง มุมมองจะเคลื่อนที่เฉพาะในจังหวะที่ตัวละครถือกล้องไว้ในมือเท่านั้น ห้ามใช้การเฟด (Fades) ห้ามใช้การเปลี่ยนฉาก (Transitions) ห้ามใช้การตัดข้าม (Jump cuts) ห้ามใช้การตัดเป็นสีดำ (Blackouts) ห้ามกำกับให้มือบังหน้าเลนส์ กล้องต้องไม่เคลื่อนที่ไปหาตัวละคร ฟุตเทจต้องเป็นแบบ Cinematic One-cut ต่อเนื่องตั้งแต่ต้นจนจบ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082653478808412160/img/q3Yoqj87sPHBaHTy.jpg" width="600" alt="แอนิเมชันแนวไซไฟแบบ Cinematic One-Cut">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8163)**
-
-**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2082654818544521489) | **Published:** Jul 30, 2026
-
----
-### ฉากไซเบอร์เกอิชาท่ามกลางสายฝนแสงนีออน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ภาพยนตร์ที่มีรายละเอียดสูงสำหรับฉากไซเบอร์พังก์ ซึ่งมีไซเบอร์เกอิชาและแมวหุ่นยนต์ในตรอกท่ามกลางสายฝนที่ส่องสว่างด้วยแสงนีออน
-
-#### 📝 Prompt
-
-```
-ตรอกไซเบอร์พังก์ในยามค่ำคืนท่ามกลางสายฝนที่ตกหนัก แสงไฟนีออนสีชมพู สีฟ้า และสีม่วงสะท้อนบนพื้นถนนที่เปียกชื้น หญิงสาวชาวญี่ปุ่นวัย 20 กว่าๆ ที่ดูงดงาม มีผมสีดำยาว ใบหน้าอ่อนหวาน สวมชุดไซเบอร์เกอิชาสมัยใหม่: กิโมโนผ้าไหมสีดำหรูหราพร้อมงานปักนีออนเรืองแสง ผ่าสูง และรองเท้าบูทสูงถึงต้นขา เธอกำลังอุ้มแมวขนฟูสีขาวเงินอย่างทะนุถนอม ดวงตาของมันกลมโตเป็นประกายและมีอุปกรณ์ไซเบอร์เนติกส์ขนาดจิ๋วเรืองแสงที่หู หยดน้ำฝนเกาะอยู่บนใบหน้าและขนของพวกเขา ระยะชัดตื้น แสงวูบวาบจากป้ายนีออน รายละเอียดคมชัด บรรยากาศที่ดูมีอารมณ์และเงียบสงบ ถ่ายด้วยเลนส์ 85 มม. แสงแบบภาพยนตร์ คอนทราสต์สูง ความละเอียด 8k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082651121911263232/img/8raU0QhnkJ0W22rK.jpg" width="600" alt="ฉากไซเบอร์เกอิชาท่ามกลางสายฝนแสงนีออน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8103)**
-
-**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2082651158082920752) | **Published:** Jul 30, 2026
-
----
-### Red Splash Letter Morph
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แอนิเมชันที่เอฟเฟกต์สีแดงกระจายตัวเปลี่ยนรูปร่างไปตามตัวอักษรต่างๆ โดยยังคงเอฟเฟกต์การกระจายตัวเอาไว้
-
-#### 📝 Prompt
-
-```
-วงกลมของสีแดงที่กระจายตัวเปลี่ยนรูปร่างจากตัวอักษร a ไปเป็น k จากนั้นเปลี่ยนเป็นตัวอักษร o และตัวอักษร s โดยที่ยังคงเอฟเฟกต์สีที่กระจายตัวอยู่
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082618211988635648/img/QZ9yYDl0wE1cU0pl.jpg" width="600" alt="Red Splash Letter Morph">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8107)**
-
-**Author:** [AKOS ᴺᶠᵀ](https://x.com/akosphoto) | **Source:** [Link](https://x.com/akosphoto/status/2082618270775927099) | **Published:** Jul 30, 2026
-
----
-### คู่รักเอเลี่ยนกับการปล่อยยานอวกาศ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวไซไฟที่แสดงภาพสิ่งมีชีวิตต่างดาวในชุดเกราะวิจิตรบรรจง กำลังเฝ้ามองยานอวกาศทะยานขึ้นสู่ห้วงอวกาศจากบนโขดหิน
-
-#### 📝 Prompt
-
-```
-หญิงสาวและเพื่อนร่วมทางในชุดเกราะดูเป็นสิ่งมีชีวิตต่างดาวอย่างชัดเจน ด้วยลักษณะที่ไม่ใช่มนุษย์ที่ดูแนบเนียนและชุดเกราะที่วิจิตรบรรจง ทั้งคู่นั่งเคียงข้างกันบนโขดหินโดยกุมมือกันไว้ขณะเฝ้ามองยานอวกาศรูปทรงเพรียวบางค่อย ๆ ลอยตัวขึ้นและทะยานสู่แสงสว่าง...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082603959118618624/img/HrSGdOcoBKkFEwiK.jpg" width="600" alt="คู่รักเอเลี่ยนกับการปล่อยยานอวกาศ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8181)**
-
-**Author:** [Aurora](https://x.com/Aurora747220) | **Source:** [Link](https://x.com/Aurora747220/status/2082603987975438437) | **Published:** Jul 29, 2026
-
----
-### การเคลื่อนไหวของหนอนทรายใน Dune
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่ซับซ้อนซึ่งอธิบายลักษณะการมุดและการเคลื่อนที่เฉพาะตัวของหนอนทรายจากเรื่อง Dune โดยมีผู้คนคอยควบคุม
-
-#### 📝 Prompt
-
-```
-Grok ช่วยหันหัวของหนอนทรายที เพราะนั่นคือวิธีที่มันใช้มุดดิน และวิธีที่หนอนทรายถูกควบคุมโดยผู้คนแห่ง Dune ที่ปีนขึ้นไปบนหลังของมันพร้อมกับเชือกตะขอ จากนั้นหนอนทรายก็เชิดหัวขึ้นเพื่อเคลื่อนที่อย่างรวดเร็วเพื่อรักษา...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082598769791541248/img/MUl1yVawi1LVhoIs.jpg" width="600" alt="การเคลื่อนไหวของหนอนทรายใน Dune">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8177)**
-
-**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2082598813072507324) | **Published:** Jul 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2376,6 +2320,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-07T06:03:50.300Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-07T09:23:55.925Z</sub>
 
 </div>

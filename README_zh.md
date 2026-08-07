@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2360** |
+| 📝 提示词总数 | **2374** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-08-07** |
 
@@ -189,6 +189,362 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Futuristic Shinjuku Pelican on Bicycle
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A surreal high-resolution video prompt depicting a pelican riding a pedal-less, eye-tracking bicycle through the streets of Shinjuku in 2055.
+
+#### 📝 提示词
+
+```
+Ultra-unrealistic resolution: A pelican in Shinjuku in 2055, riding a bicycle released in 2054. The bicycle has no pedals as it is operated solely by eye-tracking. Of particular note is the depiction of cornering on the famous Metropolitan Expressway slalom.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085638778748801024/img/fTm8fo_A0Kw-EZl8.jpg" width="600" alt="Futuristic Shinjuku Pelican on Bicycle">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8670)**
+
+**作者:** [original だいすけ](https://x.com/daisuke) | **来源:** [Link](https://x.com/daisuke/status/2085638794615898621) | **发布时间:** Aug 7, 2026
+
+---
+### Woman and Monkey Playful Interaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for Grok Imagine that uses reference images of a woman and a macaque to create a photorealistic video of them laughing and playing together.
+
+#### 📝 提示词
+
+```
+Use the exact face and identity from the provided woman reference image and the exact face and identity from the provided Japanese macaque (Punch) reference photo. Do not change, alter, or redesign any facial features of either subject. Photorealistic cinematic video of the exact same young woman from the reference (long wavy dark brown hair, light blue eyes, white blouse) and the exact same Punch monkey from the reference photo playfully interacting together. Both are smiling and laughing while gently playing. Soft natural outdoor lighting, warm atmosphere, smooth natural motion, high detail, keep both faces completely unchanged and identical to the references.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786090950705_n2f4rg_HPGkYpWXMAA-XD9.jpg" width="600" alt="Woman and Monkey Playful Interaction">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8668)**
+
+**作者:** [Hyun Lee](https://x.com/HolyMolySakura) | **来源:** [Link](https://x.com/HolyMolySakura/status/2085628853926465770) | **发布时间:** Aug 7, 2026
+
+---
+### Three-Panel Split Screen Cinematic Portrait Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed 8K prompt for creating a three-panel vertical split-screen cinematic video featuring a woman with short golden hair and freckles in a misty dusk setting.
+
+#### 📝 提示词
+
+```
+8K hyper-realistic 6-second vertical dynamic short film, fixed three-panel vertical split-screen frame, with the dividing lines remaining unchanged. The three panels move independently without overlapping visuals. Hazy and misty outdoor twilight, low-saturation dark-toned cinematic weak side lighting, film grain texture. A woman with light golden short curly hair and a black minimalist top, with highly realistic freckled skin texture and hair constantly blowing in the breeze. Total duration 6 seconds.
+[Top Panel | 0-6s Independent Motion] The woman slowly raises her right hand to the side of her forehead, her fingertips lightly touching her temple. Her gaze is empty and wandering, her lips slightly parted, showing a weary and preoccupied expression. Strands of hair sweep over her eyes in the wind, and her eyelids blink slowly. The lens moves forward very slowly with a small push, focusing on the eyes and hand, with subtle camera shake from a sense of breathing. No dialogue.
+[Middle Panel | 0-6s Independent Motion] A close-up of the character's side profile, looking into the distance with eyelashes trembling slowly. Tears gradually well up in her eyes, hair constantly brushes against her cheeks and nose tip, and her lips purse slightly, showing restrained sadness. The lens moves slowly and slightly horizontally, fixed on the face close-up, with subtle breathing shake and no zooming. No dialogue.
+[Bottom Panel | 0-6s Independent Motion] The woman stands quietly facing the camera, her short hair swaying in the wind, a few strands falling over her eyes. Her gaze slowly shifts from wandering to calm and indifferent. Her breathing is steady, with only slight eyelid movement. The lens pulls back very slowly from a close-up to a bust shot, as the character slowly blends into the dark, misty background. No dialogue.
+All three panels play simultaneously, with natural and realistic movements and micro-expressions, avoiding AI stiffness or distortion. Skin pores and hair details are realistic.
+Accompanying 6-second audio: Minimalist low-pitched piano solo music overlaid with gentle wilderness wind sounds, with overall low volume to create an oppressive and contemplative atmosphere.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085586335331713024/img/seXhMn8JMIdH_GWx.jpg" width="600" alt="Three-Panel Split Screen Cinematic Portrait Video">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8671)**
+
+**作者:** [Loriel.AI](https://x.com/ou_zhen599) | **来源:** [Link](https://x.com/ou_zhen599/status/2085586844088156403) | **发布时间:** Aug 7, 2026
+
+---
+### Magical Starry Night Dreamscape Bike Ride
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dreamlike journey through a landscape inspired by Starry Night, featuring glowing cherry blossoms and a radiant golden tower.
+
+#### 📝 提示词
+
+```
+A magical bike ride through a Starry Night dreamscape, cherry blossoms glowing, golden path leading to that radiant tower.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085582801886199808/img/RHEKj38NQEKFN-hT.jpg" width="600" alt="Magical Starry Night Dreamscape Bike Ride">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8667)**
+
+**作者:** [Maer](https://x.com/Maer4real) | **来源:** [Link](https://x.com/Maer4real/status/2085582849575399884) | **发布时间:** Aug 7, 2026
+
+---
+### East Asian Woman MiniDV Self-Filming in Tide Temple
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed cinematic prompt for Grok Imagine Video, featuring a continuous 15-second MiniDV-style self-shot of a woman exploring an ancient white jade temple above the clouds, complete with realistic camera artifacts and binaural sound descriptions.
+
+#### 📝 提示词
+
+```
+The same 24-year-old East Asian female protagonist @0ba07db1-974c-467d-80dc-d9dffddac0ba wearing @27d48282-8e11-4b4e-94aa-f77a7eb8fbc1, with consistent facial features, age, and temperament throughout. Dark moist pupils, a delicate nose bridge, natural pale pink lips; skin retains pores and fine lines under the eyes, no airbrushing or 'influencer' makeup.
+
+The protagonist always holds a silver-grey MiniDV camera in her right hand to film herself—no cameraman. Selfie distance is about 45 cm; when showing the environment, she must first rotate her wrist and body, passing the lens over her shoulder, sleeve, or a railing before facing the scenery; returning to the selfie must also involve a complete physical rotation process.
+
+It is forbidden to show her from a third-person back view, full-body tracking, aerial shot, or external camera perspective while she is filming herself. When the camera turns to the environment, the protagonist can only continue to exist in the frame through her extended left hand, white sleeve, skirt edge, shadow, or live sound.
+
+16:9 MiniDV widescreen mode, natural handheld with slight walking jitter, imperfect composition, brief loss of focus, hesitant autofocus, white balance drift, exposure breathing, motion blur, subtle interlacing artifacts, DV grain, soft highlight bloom, and authentic tape colors.
+
+Each segment is a continuous 15-second selfie shot, no cuts. Between the six segments are travelogue-style time jumps, allowing for changes in weather and light, but the character, clothing, hair accessories, MiniDV, and sound must remain consistent.
+
+The female lead's voice is a natural Mandarin Chinese spoken by an East Asian woman in her 20s, soft, warm, and curious, with occasional slight panting from walking or climbing. Not a costume drama recitation, AI narration, broadcaster, or high-energy influencer-style pitch. 15-second MiniDV selfie video | Oriental Siren Style @b061c722-4fae-42c2-aa5d-48e9dd7dc6df
+
+This is no ordinary palace, but an ancient Tide Temple built above a sea of clouds. Inside stands an unimaginably huge white jade dragon platform: tiered lotus petal bases, spiraling dragon bodies, waves, shells, fish scales, and tide patterns are all carved from aged white jade. Tall dragon-coiled stone pillars support a dark wooden palace roof, with cold white water vapor constantly rushing in between the pillars, leaving moist water marks on the white jade surfaces.
+
+Siren style is expressed through the real environment: cold moist vapor, pearl and mother-of-pearl reflections, low-frequency distant tides, occasionally dripping seawater, and faint female chanting. Do not directly show fish tails or exaggerated monsters.
+
+The protagonist remains the same person, the same face, and the same white-to-pale-pink gradient hanfu. The cold moist vapor makes stray hairs by her ears stick slightly to her cheeks, and her skin shows moist reflections; the white gauze appears pale mother-of-pearl under the blue-grey water light, not a sudden outfit change. The silver hairpin, milky white bead ornaments, and dark red tassel on her wrist remain unchanged.
+
+She always holds the MiniDV herself with her right hand, no cameraman.
+
+0–4 seconds
+
+The recording begins as she walks slowly along the bottom of the white jade dragon platform.
+
+She holds the MiniDV in front of her, her face in the lower right of the frame, with the massive white jade carvings extending off-screen from above her head. It's darker here than outside, the MiniDV's auto-gain is noticeably high, and slight color noise appears in the shadows; the bright clouds behind her produce soft overexposure.
+
+Cold vapor brushes her face, and she instinctively shrugs her shoulders, her breath forming a faint white mist in front of the lens. She touches her damp sleeve with her left hand and says in a low voice:
+
+'Why is it... suddenly so cold here?'
+
+She doesn't intentionally create a sense of mystery while speaking; it's just a physical reaction to the temperature.
+
+4–8 seconds
+
+She first looks up at the dragon platform, then slowly turns the camera outward from herself via her right wrist.
+
+The lens passes her damp hair, silver hairpin, and white sleeve, then captures a close-up low-angle shot of the massive lotus base, the dragon statue, and the dragon stone pillars behind it. This is a realistic angle she could capture while standing below the platform, not an aerial or external panoramic view.
+
+The autofocus first lands on mottled water marks nearby, then shifts to the high dragon head. She says softly off-screen:
+
+'This dragon platform... looks like it rose from the sea.'
+
+Her voice is off-axis from the microphone, slightly obscured by the low echoes and water sounds inside the palace.
+
+8–11 seconds
+
+Just as she finishes speaking, a short snippet of female chanting comes from the shadows behind the dragon platform.
+
+It's not background music, but a real sound located far off in the hall: very low volume, just a soft, ethereal long note, reflecting off the pillars and the massive dome, making its direction hard to judge. The sound is mixed with low-frequency tide sounds, as if coming from a hollow structure beneath the dragon platform.
+
+The protagonist's wrist stops immediately, the frame holding on the slightly tilted white jade carving. She doesn't turn around right away but first holds her breath and tilts her head to confirm.
+
+Then she turns the camera back to herself, her eyes looking past the lens toward the source of the sound, and asks in a hushed tone:
+
+'Wait... did you guys hear that?'
+
+11–15 seconds
+
+The chanting stops briefly. She blinks naturally once, and the curious smile on her face gradually fades.
+
+A clear echo of a water drop falling into deep water comes from the base of the dragon platform. Immediately after, a second, closer female long note sounds from her back left. Her shoulders tighten slightly, her breathing becomes shallow, and she slowly looks at her flip screen as if confirming if the camera recorded it too.
+
+She looks back at the lens, her voice almost a whisper:
+
+'The one singing just now... wasn't me.'
+
+After speaking, she doesn't scream or run but slowly turns the camera toward the dark passage behind the dragon platform. The frame passes her shoulder and damp sleeve, finally stopping on a patch of slightly vibrating shallow water beneath the white jade carving.
+
+A ripple appears on the water surface with no visible source. The recording ends naturally with a third, extremely soft and distant chant.
+
+Live Sound: Cold wind in the hall, slight friction of damp fabric, stone pillar echoes, dripping water, low-frequency distant tides, female chanting from behind the dragon platform. No background music, no narration.
+
+Siren Style Performance Requirements: The protagonist does not perform seductive poses. The sequence of real reactions must be: feeling cold → observing the dragon platform → hearing the sound → holding breath to confirm → realizing the sound was not her. Use subtle eye movements, natural blinking, swallowing, tightening of shoulders, and shallow breathing to show unease.
+
+Supplementary Negative Constraints: No cameraman, no third-person full-body shots, no external orbiting camera movement; no sudden outfit changes, no fish tails, no blue skin, no fangs, no exaggerated monster transformations; no sexy dancing, no exaggerated seductive performance; the protagonist does not open her mouth to sing, the mysterious chanting must come from the space behind the dragon platform; no background soundtrack, no horror sound effect jumpscares, no underwater filters, no palace liquefaction, no statues suddenly moving, no subtitles or watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085539256617803776/img/RuvdVFPamv7rLRT-.jpg" width="600" alt="East Asian Woman MiniDV Self-Filming in Tide Temple">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8669)**
+
+**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2085539666472665473) | **发布时间:** Aug 7, 2026
+
+---
+### Sci-Fi Terafab Megacity Aerial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic, highly detailed cinematic aerial prompt for a futuristic manufacturing megacity called Terafab, featuring skyscrapers, drones, and neon lights.
+
+#### 📝 提示词
+
+```
+A breathtaking aerial shot glides over Terafab, a colossal sci-fi megacity where kilometer-high chrome skyscrapers, glowing blue energy cores, floating factories, and endless sky bridges stretch beyond the horizon. Thousands of autonomous drones, magnetic freight trains, and anti-gravity vehicles move in perfect synchronization as massive robotic construction arms continuously build new districts. The camera dives between towering structures, revealing holographic billboards, neon-lit streets, quantum power reactors, and rivers of molten metal flowing through transparent energy channels. Giant orbital elevators connect the city to enormous space stations while flying cargo ships descend through the clouds with brilliant blue engine trails. As the sun sets, Terafab transforms into a sea of dazzling neon lights, shimmering reflections, and futuristic traffic, creating an awe-inspiring cyber-industrial skyline. The sequence ends with a cinematic pullback into space, revealing Terafab as the most advanced manufacturing civilization on a futuristic planet, ultra-photorealistic, cinematic lighting, volumetric fog, HDR, ray tracing, 8K, hyper-detailed, epic scale, smooth drone camera movement, realistic physics, and masterpiece quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085534025125711872/img/MwhTrZdVnpL3Y4Bl.jpg" width="600" alt="Sci-Fi Terafab Megacity Aerial">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8659)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2085534622176125238) | **发布时间:** Aug 7, 2026
+
+---
+### Surreal Beach Motion Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Creates a dreamlike, surreal video featuring flying furniture and animals over a beach landscape with complex moving elements.
+
+#### 📝 提示词
+
+```
+Have a arm chair with a dog on it fly by on the sand passing the couch with the women flying as well
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085451214679150592/img/iB9UIEDOscznf7lm.jpg" width="600" alt="Surreal Beach Motion Scene">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8664)**
+
+**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **来源:** [Link](https://x.com/RobinMurrat43a/status/2085451255833653447) | **发布时间:** Aug 6, 2026
+
+---
+### Alice in Wonderland Space Mirror
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal prompt depicting a girl stepping through a looking glass into a cosmic outer space environment.
+
+#### 📝 提示词
+
+```
+Make an video of a girl stepping through a looking glass like Alice in wonderland but into outer space....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085398290690953216/img/KMYM4AKqSWRK0zeL.jpg" width="600" alt="Alice in Wonderland Space Mirror">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8658)**
+
+**作者:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **来源:** [Link](https://x.com/DrJGiddensRN/status/2085398479182959091) | **发布时间:** Aug 6, 2026
+
+---
+### Moderation-Safe Energetic Y2K Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt designed to bypass moderation while generating a fun, bouncy Y2K-style video of a seated subject with specific movement constraints.
+
+#### 📝 提示词
+
+```
+Use the uploaded photo as the exact character reference. Preserve the subject’s face and identity perfectly. Use ONLY the uploaded face reference photo as the character reference. The overall model appearance, including race and ethnicity, must match the subject of the uploaded photo. Y2K compact digital camera style video. The subject remains seated in the same compact pose with knees drawn upward. She gently sways her upper body and shoulders in a soft, rhythmic motion while staying seated, with light natural movement in her head and tousled wavy hair. Warm flash lighting, soft film grain, and nostalgic early-2000s atmosphere. Very subtle and natural movement only: soft swaying of the shoulders and upper body, gentle head motion, slight hair movement — she stays fully seated the entire time. Use the uploaded photo as the exact character reference. Preserve the subject’s face and identity perfectly. Use ONLY the uploaded face reference photo as the character reference. The overall model appearance, including race and ethnicity, must match the subject of the uploaded photo. Y2K compact digital camera style video. The subject stays completely seated in the same compact pose with knees drawn upward the entire time. She moves with fun, energetic upper-body rhythm — light bouncy shoulder shimmies, playful head bobs, and small cheerful upper-body shakes in time with the beat. Her tousled wavy hair gently bounces with the movement. Warm flash lighting, soft film grain, and nostalgic early-2000s atmosphere. Important: She remains fully seated at all times. Movement is limited to light, bouncy, playful upper-body and shoulder motion only — cheerful and energetic, never suggestive.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085362136444792832/img/exJKh6aK_cZGME2l.jpg" width="600" alt="Moderation-Safe Energetic Y2K Video">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8663)**
+
+**作者:** [Lala](https://x.com/keepgoingAnnie) | **来源:** [Link](https://x.com/keepgoingAnnie/status/2085365705361273330) | **发布时间:** Aug 6, 2026
+
+---
+### Mechanical Horse Chase Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt describing a mechanical archer on horseback chasing a demon boar, focusing on dynamic motion.
+
+#### 📝 提示词
+
+```
+The veil of time parts before me 
+
+The archer’s mechanical equidae back legs gallop 🏇 to give chase to an evil possessed demon wild boar 🐗.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085360503400833024/img/xyNkj9ytSEQNpymO.jpg" width="600" alt="Mechanical Horse Chase Sequence">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8661)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2085360781646823801) | **发布时间:** Aug 6, 2026
+
+---
+### 16mm Handheld Influencer Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive prompt designed to mimic the aesthetic of a vintage 16mm handheld camcorder, creating a highly realistic influencer-style vlog.
+
+#### 📝 提示词
+
+```
+CAMERA: DV 16mm tape camcorder handheld aesthetic. POV of a beautiful influencer-style woman filming herself directly by hand. Keep natural hand shake, slightly crooked framing, delayed focus pulls, awkward zooms, occasional moments where her face is partly cut off, and imperfect framing that briefly loses the subject. Every shot is filmed by the woman herself in selfie-cam or first-person style, except for one brief moment when she props the camera down. The camcorder itself never appears on screen. LOOK: Soft digital tape look with a subtle vintage camcorder feel. Slight blur, faint tape noise, softly blooming highlights in dim light, mild flicker in auto-exposure, low contrast, realistic skin tones. STYLE: Late-night post-practice vlog mood — tired, calm, a little out of breath, but clearly happy and satisfied. Quiet, natural, unposed energy. Handheld all the way through, slower and more intimate than a daytime gym vlog. Occasional heavy breathing between lines. CHARACTER: A beautiful Instagram-style brunette model in her 20s. Long dark brown hair tied back or slightly messy after rehearsal, attractive feminine features, glowing skin with a light sweat sheen, expressive eyes, slim fit build. Wearing a modest fitted long-sleeve athletic top, loose joggers or sweatpants, and sneakers. No jewelry. SETTING: An empty dance rehearsal studio late at night. Mirror wall on one side, wooden floor, a speaker in the corner, a towel and water bottle near the wall, dim overhead lighting, dark hallway visible outside the studio windows. STORYBOARD: (~2s, propped camera near the mirror, medium shot) She walks into frame catching her breath, wipes sweat from her forehead, gives a small exhausted smile. “Finally done… it’s way too late.” (~2s, handheld, slow drift across the room and back to her) The camera loosely pans over the empty mirrors and quiet studio, then returns to her face. (softly, off-screen): “Whole studio’s empty now.” (~2s, medium handheld near the wall) She grabs her water bottle, takes a long drink, lowers it, and exhales in relief. “I really needed that.” (~2s, propped camera facing the mirror, wider shot) She sets the camera down, steps back, does a short sharp dance combo, then laughs at herself when she finishes. (~2s, arm’s-length selfie close-up finish) She picks the camera back up, towel over her shoulder, cheeks flushed, still breathing a little heavy. She gives a small tired wave and a genuine smile. “Okay, I’m going home. Good night
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085349546964484096/img/ufTGaXlMa20fqC5T.jpg" width="600" alt="16mm Handheld Influencer Vlog">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8665)**
+
+**作者:** [Alpha Mom](https://x.com/YourAlphaMom) | **来源:** [Link](https://x.com/YourAlphaMom/status/2085350644915765377) | **发布时间:** Aug 6, 2026
+
+---
+### Cinematic Korean Lifestyle Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, professional-grade prompt for a 15-second cinematic video of a Korean woman in a pastel bedroom.
+
+#### 📝 提示词
+
+```
+Ultra-realistic cinematic vertical video, 15 seconds. A beautiful young Korean woman in a cozy pastel bedroom during a bright spring morning. She wears the same blush pink plaid dress with cream long sleeves, a delicate bow at the neckline, and a black ribbon in her long wavy hair. The room is softly decorated with pastel wall art, flowers, books, and warm natural window light. Every shot features a different camera angle with smooth cinematic transitions, natural movement, and subtle expressions.
+
+Shot 1 (0–2s): Extreme close-up of fresh pink flowers on the desk. The camera slowly slides past the flowers, revealing her softly smiling face in the background through a shallow depth of field.
+
+Shot 2 (2–4s): Close-up of her hands gently straightening the ribbon on the front of her dress. The camera tilts upward to her face as she finishes adjusting it.
+
+Shot 3 (4–6s): Side-profile medium shot. She slowly turns toward the window, sunlight illuminating her face as a gentle breeze moves a few loose strands of hair. She closes her eyes for a brief moment and smiles peacefully.
+
+Shot 4 (6–8s): Over-the-shoulder shot from behind. She looks at the pastel decorations and photo cards on the wall, lightly touching one with her fingertips before turning back.
+
+Shot 5 (8–10s): Front medium close-up. The camera slowly circles around her while she tilts her head slightly, blinks naturally, and gives a soft, genuine smile. Her long wavy hair sways gently with the breeze.
+
+Shot 6 (10–13s): Low-angle close-up from tabletop level beside the vase of flowers. She leans forward slightly, resting her hands together, looking directly into the camera with warm, expressive eyes before giving a subtle playful wink.
+
+Shot 7 (13–15s): Wide shot. She walks toward the window, gently parts the sheer curtains, and warm morning sunlight floods the room. She glances back over her shoulder with a sweet smile as the camera slowly pulls away, ending on a dreamy, peaceful frame.
+
+Style: Ultra-photorealistic, premium Korean lifestyle commercial, natural body language, realistic facial expressions, lifelike eye movement and blinking, subtle breathing, physically accurate hair and fabric simulation, smooth cinematic camera movement, shallow depth of field, creamy bokeh, soft pastel color palette, warm morning sunlight, luxury editorial photography aesthetic, 35mm and 85mm lens look, 24 fps, HDR, 8K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085338302216089600/img/mKF3Bz1eYfh1h2ne.jpg" width="600" alt="Cinematic Korean Lifestyle Video">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8660)**
+
+**作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **来源:** [Link](https://x.com/iamahmedfaraz66/status/2085338630692692405) | **发布时间:** Aug 6, 2026
+
+---
+### Rap Music Video Production
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive multi-part prompt for producing a full hip-hop music video with character consistency and dynamic studio shots.
+
+#### 📝 提示词
+
+```
+Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance throughout the video. She has long black hair in a sleek high ponytail with soft face-framing strands and wears a vibrant hot-pink cropped bomber jacket over a fitted black crop top, a black pleated mini skirt layered over biker shorts, white crew socks, chunky sneakers, silver hoop earrings, layered chain necklaces, and rings. Maintain perfect character consistency in every scene.
+
+Create an ultra-realistic premium American hip-hop music video inside a modern industrial studio with glossy black floors, neon pink and blue lighting, graffiti walls, chrome speakers, LED light bars, a professional drum kit, vintage leather furniture, subtle haze, and cinematic contrast.
+
+The video opens with an extreme close-up as she confidently adjusts the collar of her pink jacket, stares directly into the camera, smirks, and snaps her fingers to the beat. She turns sharply and walks toward the camera with effortless swagger while her jacket flows naturally. She performs energetic hip-hop choreography with shoulder pops, smooth footwork, body rolls, confident poses, and expressive hand gestures as the camera circles around her with dynamic handheld movement.
+
+She jumps onto the drum platform, twirls a drumstick between her fingers, then performs an energetic drum solo with realistic stick movement, powerful cymbal crashes, snare hits, and fast tom fills. The camera alternates between overhead, side-profile, macro close-ups, and dramatic low-angle shots synchronized with the rhythm.
+
+The performance continues beside a graffiti-covered roller shutter where she confidently squats, leans against stacked speakers, points toward the lens, and continues lip-syncing with playful attitude. She walks across the studio beneath moving spotlights, lounges briefly on a vintage leather sofa while nodding to the beat, then stands again as industrial fans create natural movement in her ponytail and jacket.
+
+The final performance takes place center stage beneath vibrant magenta and blue lights surrounded by drums, LED light bars, chrome speakers, and graffiti walls. She delivers the final lyrics with bold confidence, spins one drumstick in her hand, throws it toward the camera, crosses her arms with a confident smile, and holds a powerful hero pose as the camera slowly pulls back while the lights fade.
+
+Style: Premium rap music video, luxury editorial fashion aesthetic, cinematic handheld camera, wide-angle hero shots, smooth gimbal movement, realistic lip-sync, expressive performance, physically accurate lighting, natural fabric simulation, real
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085297445630865408/img/ZQLrZIe2X9WvPiWv.jpg" width="600" alt="Rap Music Video Production">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8662)**
+
+**作者:** [Aira](https://x.com/AzraJalal) | **来源:** [Link](https://x.com/AzraJalal/status/2085297532486533177) | **发布时间:** Aug 6, 2026
+
+---
 ### Christmas Kitten Snow Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,11 +583,11 @@ The man slowly reaches his free hand for the driver’s side door handle of the 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2085260396231832015) | **发布时间:** Aug 6, 2026
 
 ---
-### Cinematic Korean Woman Bedroom Vlog
+### Cozy Bedroom Vlog Selfie
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An extremely detailed multi-shot prompt for a photorealistic vlog-style video of a Korean woman in her bedroom.
+> A highly detailed multi-shot prompt for a realistic vertical video of a woman in a cozy bedroom, designed to mimic a smartphone vlog.
 
 #### 📝 提示词
 
@@ -251,28 +607,26 @@ Shot 5 (8–10s): Close-up selfie. She leans slightly closer to the camera, give
 Style: Ultra-photorealistic, natural facial expressions, realistic blinking, subtle breathing, lifelike hair physics, authentic smartphone handheld movement, warm ambient lighting, shallow depth of field, premium cinematic color grading, 24 fps, 8K, cozy Korean bedroom aesthetic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cinematic Korean Woman Bedroom Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cozy Bedroom Vlog Selfie">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8613)**
 
 **作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **来源:** [Link](https://x.com/iamahmedfaraz66/status/2085211763214028933) | **发布时间:** Aug 6, 2026
 
 ---
-### Stegosaurus Moon Rocket Surgery
+### Stegosaurus Rocket Removal
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal animation prompt where a dinosaur aids the moon by removing a rocket part through physical action.
+> A creative surrealist prompt where a stegosaurus helps the moon by biting and pulling a rocket out of it, featuring expressive facial emotions.
 
 #### 📝 提示词
 
 ```
-Get it out!
-
 The moon is aided by the stegosaurus removes the rocket part with a fierce bite and swift pull. The moon has agonizing expressions during the removal.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085200311438786560/img/i7NFCCt2IdCnWtEg.jpg" width="600" alt="Stegosaurus Moon Rocket Surgery">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085200311438786560/img/i7NFCCt2IdCnWtEg.jpg" width="600" alt="Stegosaurus Rocket Removal">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8600)**
 
@@ -315,6 +669,25 @@ Create a powerful artistic tribute to E=mc². Use the likeness and face of Alber
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8602)**
 
 **作者:** [Elizabeth](https://x.com/ElizabethC25755) | **来源:** [Link](https://x.com/ElizabethC25755/status/2085178030255636915) | **发布时间:** Aug 6, 2026
+
+---
+### Dragon Rider Adventure Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic sequence where a woman interacts with a dragon in a meadow before flying off into a fiery sunset.
+
+#### 📝 提示词
+
+```
+She stands in the field • Turns and walks toward the dragon • Reaches out and climbs onto its head • The dragon rears up, spreads its wings, and takes off • They soar into a fiery sunset while it breathes fire
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085068571978133504/img/uVafmO5VKZMw8tsE.jpg" width="600" alt="Dragon Rider Adventure Sequence">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8666)**
+
+**作者:** [Art Muse](https://x.com/art_muse) | **来源:** [Link](https://x.com/art_muse/status/2085068608762155443) | **发布时间:** Aug 5, 2026
 
 ---
 ### Cyberpunk Noodle Bar Scene
@@ -378,11 +751,11 @@ These galaxies 🌌 intertwined form a double helix 🧬 loop that is the iris o
 **作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2085022273816150178) | **发布时间:** Aug 5, 2026
 
 ---
-### Metallic Fractal Grace
+### Metallic Fractal Grace Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive prompt for an animation of a character performing among metallic fractals in an inverse realm.
+> A complex animation prompt describing a character performing in a fractal-filled metallic realm.
 
 #### 📝 提示词
 
@@ -390,7 +763,7 @@ These galaxies 🌌 intertwined form a double helix 🧬 loop that is the iris o
 In the Inverse realm Alchemedia performs her metallic grace among the fractals that accumulate her being as she does theirs.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085015842454921217/img/agma4Z4eFUMbYIxZ.jpg" width="600" alt="Metallic Fractal Grace">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085015842454921217/img/agma4Z4eFUMbYIxZ.jpg" width="600" alt="Metallic Fractal Grace Animation">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8614)**
 
@@ -458,19 +831,19 @@ These dragons proceed to form a new larger dragon by combining their flaming neo
 **作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2084970238685204922) | **发布时间:** Aug 5, 2026
 
 ---
-### Cinematic Coffee Catch Sequence
+### Cinematic Catch and Throw Mug Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed 10-second cinematic animation prompt where a character catches a high-speed flying coffee mug with athletic precision.
+> A comprehensive prompt for generating a seamless 10-second cinematic animation where a character catches a high-speed coffee mug and throws it back, focusing on realistic physics and character consistency.
 
 #### 📝 提示词
 
 ```
-10-second cinematic sequence.  Begin from the exact edited image.  Preserve the exact character, face, hairstyle, clothing, proportions, lighting, and composition.  The camera remains completely locked.  The animation begins immediately.  Within the first 0.2 seconds, a matte black steaming coffee mug suddenly enters from the LEFT side of the frame at very high speed.  The mug follows a clean, straight horizontal trajectory with natural physics.  The mug remains perfectly upright.  No coffee spills.  Steam stretches behind the mug as a continuous motion trail.  The character notices the incoming mug at the last possible moment.  Instant athletic reaction.  Eyes lock onto the mug.  The body shifts naturally.  The character reaches out and catches the mug cleanly with one hand while allowing the arm and shoulders to absorb the momentum.  The catch feels smooth, believable, and athletic, like an experienced baseball player receiving a hard throw.  The mug never tumbles.  The coffee remains inside.  Not a single drop spills.  A quick smile appears.  The character briefly admires the successful catch.  (Optional) One quick sip.  Immediately the body transitions into a powerful baseball-style throwing motion.  The free arm extends naturally toward the target.  The throwing arm rotates through the shoulders and hips.  The mug becomes a rigid projectile.  The fingers open.  The mug completely separates from the hand.  Visible empty space appears between the fingers and the mug.  The mug accelerates rapidly toward the RIGHT edge of the frame.  Steam trails behind the mug continuously.  The mug completely exits the RIGHT side of the screen before the 8-second mark.  The camera smoothly follows the mug for a brief moment, then naturally eases back to the character completing the follow-through.  Dust kicks up around the planted foot.  Hair and clothing react naturally to the momentum.  The character finishes the throw with an EMPTY hand while watching the mug successfully leave the frame.  Natural physics.  One continuous shot.  Ultra-photoreal.  Locked character consistency.  No warping.  No duplicated mug.  No duplicated hands.  No extra limbs.  No spilled coffee.  No cuts.  No transitions.  The mug must visibly enter from the LEFT, be caught once, then visibly leave to the RIGHT while remaining upright for the entire sequence.
+10-second cinematic sequence. Begin from the exact edited image. Preserve the exact character, face, hairstyle, clothing, proportions, lighting, and composition. The camera remains completely locked. The animation begins immediately. Within the first 0.2 seconds, a matte black steaming coffee mug suddenly enters from the LEFT side of the frame at very high speed. The mug follows a clean, straight horizontal trajectory with natural physics. The mug remains perfectly upright. No coffee spills. Steam stretches behind the mug as a continuous motion trail. The character notices the incoming mug at the last possible moment. Instant athletic reaction. Eyes lock onto the mug. The body shifts naturally. The character reaches out and catches the mug cleanly with one hand while allowing the arm and shoulders to absorb the momentum. The catch feels smooth, believable, and athletic, like an experienced baseball player receiving a hard throw. The mug never tumbles. The coffee remains inside. Not a single drop spills. A quick smile appears. The character briefly admires the successful catch. (Optional) One quick sip. Immediately the body transitions into a powerful baseball-style throwing motion. The free arm extends naturally toward the target. The throwing arm rotates through the shoulders and hips. The mug becomes a rigid projectile. The fingers open. The mug completely separates from the hand. Visible empty space appears between the fingers and the mug. The mug accelerates rapidly toward the RIGHT edge of the frame. Steam trails behind the mug continuously. The mug completely exits the RIGHT side of the screen before the 8-second mark. The camera smoothly follows the mug for a brief moment, then naturally eases back to the character completing the follow-through. Dust kicks up around the planted foot. Hair and clothing react naturally to the momentum. The character finishes the throw with an EMPTY hand while watching the mug successfully leave the frame. Natural physics. One continuous shot. Ultra-photoreal. Locked character consistency. No warping. No duplicated mug. No duplicated hands. No extra limbs. No spilled coffee. No cuts. No transitions. The mug must visibly enter from the LEFT, be caught once, then visibly leave to the RIGHT while remaining upright for the entire sequence.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084961493427109888/img/umu6xa7alKBQjRuY.jpg" width="600" alt="Cinematic Coffee Catch Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084961493427109888/img/umu6xa7alKBQjRuY.jpg" width="600" alt="Cinematic Catch and Throw Mug Sequence">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8604)**
 
@@ -1886,435 +2259,6 @@ First we have a goat swim by with scuba gear on and then we have a rooster swim 
 **作者:** [GIXXER4820](https://x.com/DovelRandy) | **来源:** [Link](https://x.com/DovelRandy/status/2083025347658887665) | **发布时间:** Jul 31, 2026
 
 ---
-### 电影感火星太空先驱
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段 10 秒的高细节电影感视频提示词，展示了黄金时刻在火星上的太空先驱，重点刻画了服装细节与情感氛围。
-
-#### 📝 提示词
-
-```
-一段 10 秒的电影感场景，背景是黄金时刻火星红色的岩石表面。一位富有远见的太空先驱戴着一顶黑色棒球帽，上面写着“I would like to die on Mars. Just not on impact.”，脚穿与帽子配套的黑色火星袜，袜子上印有彩色行星图案，在粗犷的靴子上方清晰可见，他正缓慢地穿过这片景观。他停下脚步，带着安静的好奇心望向遥远的地平线，仿佛在思考是否还有其他怀揣同样梦想的人已经抵达。在远处，一位戴着同样标志性黑帽的女性站在山脊上，他们佩戴的同款帽子成为了希望、探索与人类连接的无声象征。柔和的火星风，逼真的尘埃，电影级光影，超写实，高细节，情感动人，中景镜头，帽子和袜子均清晰可见。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083007065006444544/img/itqxUqkcMVQccWCq.jpg" width="600" alt="电影感火星太空先驱">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8180)**
-
-**作者:** [Marie](https://x.com/Marie8508319540) | **来源:** [Link](https://x.com/Marie8508319540/status/2083008164165722533) | **发布时间:** Jul 31, 2026
-
----
-### 动画冰球运动员雕像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频动画提示词，让冰球运动员雕像“活”过来，呈现它们进入冰场并准备拍摄照片的场景。
-
-#### 📝 提示词
-
-```
-让这些冰球运动员雕像动起来，展示它们进入冰场并准备拍摄照片的样子
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082893258250706944/img/tS1NtLNqEIOK_54f.jpg" width="600" alt="动画冰球运动员雕像">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8179)**
-
-**作者:** [Viorel Stolea](https://x.com/viorel_stolea) | **来源:** [Link](https://x.com/viorel_stolea/status/2082893351569752541) | **发布时间:** Jul 30, 2026
-
----
-### 公主漫步玫瑰小径视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词：一位身着刺绣礼服的公主正走向城堡拱门处的国王。
-
-#### 📝 提示词
-
-```
-公主沿着玫瑰小径优雅地继续前行，她那透明的刺绣礼服和长长的面纱随着步伐轻盈飘动，金色的光芒洒落在她身上。她缓缓走向站在玫瑰覆盖的城堡拱门处的英俊国王……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082856138928975872/img/SHy5RHgKfh_EJfWv.jpg" width="600" alt="公主漫步玫瑰小径视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8178)**
-
-**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **来源:** [Link](https://x.com/AnnetteHollerWe/status/2082856269443105228) | **发布时间:** Jul 30, 2026
-
----
-### AI 女性演讲视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于女性自然谈论人工智能的视频生成提示词，包含逼真的面部表情和手势。
-
-#### 📝 提示词
-
-```
-这位女性正在谈论人工智能，随着她讲述 AI 的进步和技术未来，她的嘴部动作自然，伴有细微的点头和轻微的转头，她抬起手轻轻做出手势以强调重点，并伴有自然的眨眼和……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082845583417749505/img/9b41u_xSSJ9jYpCY.jpg" width="600" alt="AI 女性演讲视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8176)**
-
-**作者:** [Grok imagine user](https://x.com/imagine_user_) | **来源:** [Link](https://x.com/imagine_user_/status/2082845599611928577) | **发布时间:** Jul 30, 2026
-
----
-### 金发非裔美国女性汽车之旅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一幅充满活力的动画插画，描绘了一位有纹身的女性带着她的猫开车，采用了卡哇伊艺术风格和青铜色调叠加。
-
-#### 📝 提示词
-
-```
-美丽的金色头发非裔美国纹身女性在车里和她的猫在一起，明亮的绿色眼睛，卡哇伊艺术风格，浅橙色和浅青铜色叠加，动画插画，daz3d，写实
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082838636114968576/img/k6utsebHs3-oSUbr.jpg" width="600" alt="金发非裔美国女性汽车之旅">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8171)**
-
-**作者:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **来源:** [Link](https://x.com/JinxLovesCats/status/2082838664023876035) | **发布时间:** Jul 30, 2026
-
----
-### 骑自行车的黏土螃蟹海滩
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个富有创意的定格动画风格提示词，描述了一只黏土螃蟹试图在海滩木板路上骑自行车，并伴有夸张的扑腾动作。
-
-#### 📝 提示词
-
-```
-clay crab trying to ride a bicycle on the beach, flopping dramatically, beach boardwalk made of plastilina 16:9
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082774839023325184/img/2ETKUfH7zgKsk-fI.jpg" width="600" alt="骑自行车的黏土螃蟹海滩">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8173)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2082774909529514084) | **发布时间:** Jul 30, 2026
-
----
-### 数字意识矩阵运动
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个使用摄像机控制参数来可视化发光数字意识矩阵的技术视频提示词。
-
-#### 📝 提示词
-
-```
-{"shot": {"motion_level": "低", "camera_depth": "特写", "camera_view": "平视", "camera_movement": "静态拍摄，带有细微平滑的放大效果"}, "scene": {"location": "数字意识矩阵", "environment": "一个发光的、抽象的数字……"}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082734395275022336/img/lu_35oamLTPon1Zp.jpg" width="600" alt="数字意识矩阵运动">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8172)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **来源:** [Link](https://x.com/TLouisevsughan/status/2082734459611443355) | **发布时间:** Jul 30, 2026
-
----
-### He-Man 闪电变身视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词，描述了在戏剧性的天空光效和能量特效下变身为 He-Man 的过程。
-
-#### 📝 提示词
-
-```
-再制作一个视频，画面中我坐在椅子上，接受某种能量，闪电从天而降汇聚到我头上的头盔中，随着我身体的抽搐，那些杂音逐渐消失。让我说出台词：“让闪电来吧，消灭这些外星人！” 我讨厌 Xenu！
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082720000192950272/img/WssvnsGpO8VrNpYX.jpg" width="600" alt="He-Man 闪电变身视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8102)**
-
-**作者:** [The Love King](https://x.com/ryanwilson2015) | **来源:** [Link](https://x.com/ryanwilson2015/status/2082720018236928104) | **发布时间:** Jul 30, 2026
-
----
-### 神秘巨龙的俏皮漫步
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成蓝色和黄色巨龙的视频提示词，描述它们带着独特的鳞片走向一座红色谷仓。
-
-#### 📝 提示词
-
-```
-添加一只带有八角形鳞片的蓝色巨龙 
-一只带有三角形鳞片的黄色巨龙 
-并排俏皮地走向红色谷仓 
-让巨龙看起来更具神秘感
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082703619489660930/img/FarIJccUtoOH14rf.jpg" width="600" alt="神秘巨龙的俏皮漫步">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8104)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2082703667103473802) | **发布时间:** Jul 30, 2026
-
----
-### 电影级科幻动漫一镜到底动画
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一份综合提示词，用于以初始插图作为参考帧，创作 15 秒电影级科幻动画，重点在于自然动作和第一人称视角的切换。
-
-#### 📝 提示词
-
-```
-请将附带的插图作为视频的第一帧。
-
-━━━━━━━━━━━━━━━━━━
-
-目标
-
-制作一段 15 秒的电影级科幻动画，同时保持原始插图的风格、角色、构图、背景、光影和氛围。
-
-请勿重绘原始插图；为静态图像赋予自然的流动感和生命力。
-
-镜头应呈现为单次长镜头（一镜到底）拍摄的效果。
-
-禁止剪辑。
-
-禁止对话和口型同步。
-
-━━━━━━━━━━━━━━━━━━
-
-视觉效果
-
-请勿更改艺术风格。
-
-请勿重新设计角色。
-
-请勿更改背景。
-
-保持构图不变。
-
-请勿更改服装。
-
-保持光影效果。
-
-角色一致性高于一切。
-
-保持身体比例。
-
-保持面部特征。
-
-仅添加必要的最小限度自然动画。
-
-━━━━━━━━━━━━━━━━━━
-
-角色
-
-角色坐在巨型机甲的驾驶舱内。
-
-自然地操作全息 HUD。
-
-注意到自己正在被拍摄。
-
-自然地露出微笑。
-
-不要从座位上站起来。
-
-在坐着的状态下，自然地将上半身前倾。
-
-自然地将一只手臂伸出画面外。
-
-自然地拿起同一台摄像机。
-
-从那一刻起继续进行自然的手持拍摄。
-
-表演应始终保持自然和放松。
-
-最后以对镜头眨眼并比出剪刀手结束。
-
-━━━━━━━━━━━━━━━━━━
-
-摄像机
-
-开始时摄像机完全固定。
-
-完全静止，就像固定在三脚架上的录像机一样。
-
-无平移。
-
-无俯仰。
-
-无变焦。
-
-无推拉。
-
-无环绕。
-
-无追踪。
-
-无推进。
-
-无拉出。
-
-摄像机不会靠近角色。
-
-只有角色身体微微前倾。
-
-与摄像机的距离仅有轻微缩短。
-
-仅在角色触碰摄像机的瞬间，由于轻微惯性产生自然的手持晃动。
-
-从那一刻起，变为使用同一台摄像机进行自然的手持拍摄。
-
-画面直到最后都保持连续，不中断。
-
-━━━━━━━━━━━━━━━━━━
-
-时间轴
-
-0-2 秒
-
-操作全息 HUD。仅指尖自然移动。
-
-2-3 秒
-
-注意到正在被拍摄。看向这里。自然地露出微笑。
-
-3-5 秒
-
-轻轻挥手。动作节奏要自然。不要长时间保持静止。
-
-5-8 秒
-
-不要从座位上站起来。上半身微微前倾。自然地将一只手臂伸出画面外。手移出画面。自然地拿起同一台摄像机。由于轻微惯性产生轻微的手持晃动。视角在保持连续的同时自然过渡到手持拍摄。
-
-8-15 秒
-
-伸展手臂继续进行自然的手持拍摄。保持自然的微笑。面部表情略有变化。视线轻微移动。简要展示 HUD 或驾驶舱，然后再次展示自己。氛围自然，仿佛在享受拍摄过程。最后以对镜头眨眼并比出剪刀手结束。拿起摄像机后不得立即结束。视频后半部分的大部分时间应为手持拍摄。
-
-━━━━━━━━━━━━━━━━━━
-
-背景
-
-巨型机甲驾驶舱。
-
-全息 UI。
-
-神社。
-
-森林。
-
-请勿更改背景。
-
-自然光。
-
-头发和衣服轻微摆动。
-
-━━━━━━━━━━━━━━━━━━
-
-渲染
-
-高质量动画。
-
-电影级画质。
-
-手绘线条的细微波动。
-
-动漫作品特有的质感。
-
-━━━━━━━━━━━━━━━━━━
-
-最重要事项
-
-请勿重绘原始插图。请勿将角色变成其他人。请勿更改背景。请勿更改服装。请勿更改构图。请勿旋转身体。请勿进行不必要的方向改变。请勿绘制未见到的身体部位。禁止夸张动作。画面内不得出现拍摄设备。摄像机即视角本身，不应作为物体出现在画面中。开始时摄像机固定。只有角色触碰摄像机。视角仅在角色手持摄像机的瞬间移动。无淡入淡出。无转场。无跳剪。无黑屏。禁止用手遮挡镜头的导演手法。摄像机不得主动去迎合角色。画面必须从始至终确立为单一的电影级一镜到底。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082653478808412160/img/q3Yoqj87sPHBaHTy.jpg" width="600" alt="电影级科幻动漫一镜到底动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8163)**
-
-**作者:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **来源:** [Link](https://x.com/Eris_Create_Lab/status/2082654818544521489) | **发布时间:** Jul 30, 2026
-
----
-### 赛博艺伎霓虹雨夜场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个超高细节的电影感提示词，描绘了赛博朋克场景中，霓虹雨巷里的赛博艺伎与机器猫。
-
-#### 📝 提示词
-
-```
-电影感赛博朋克雨夜小巷，大雨倾盆，粉色、青色和紫色的霓虹灯在湿滑的地面上投下倒影。一位 20 多岁、容貌柔美的日本女性，留着黑色长发，身着现代赛博艺伎装束：优雅的黑色丝绸和服，配有发光的霓虹刺绣、高开叉设计及过膝长靴。她正温柔地怀抱着一只毛茸茸的银白色小猫，小猫有着明亮的大眼睛和微小的发光机械耳植入物。雨滴轻柔地落在她们的脸庞和皮毛上。浅景深效果，霓虹灯投射出体积光，超高细节，氛围感性且宁静，85mm 镜头拍摄，电影级布光，高对比度，8k 分辨率
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082651121911263232/img/8raU0QhnkJ0W22rK.jpg" width="600" alt="赛博艺伎霓虹雨夜场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8103)**
-
-**作者:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **来源:** [Link](https://x.com/JinxLovesCats/status/2082651158082920752) | **发布时间:** Jul 30, 2026
-
----
-### 红色溅射字母变形
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个动画提示词，描述红色溅射效果在不同字母间变形，同时保持溅射效果。
-
-#### 📝 提示词
-
-```
-红色溅射效果从字母 A 变形为 K，接着变为 O，最后变为 S，同时全程保持溅射效果。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082618211988635648/img/QZ9yYDl0wE1cU0pl.jpg" width="600" alt="红色溅射字母变形">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8107)**
-
-**作者:** [AKOS ᴺᶠᵀ](https://x.com/akosphoto) | **来源:** [Link](https://x.com/akosphoto/status/2082618270775927099) | **发布时间:** Jul 30, 2026
-
----
-### 外星伴侣目送飞船升空
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段科幻视频提示词，展示了身着华丽盔甲的外星生物坐在岩石峭壁上，注视着一艘飞船升入太空。
-
-#### 📝 提示词
-
-```
-这位女性和她的盔甲同伴显然是外星生物，拥有微妙的非人类特征和华丽的盔甲。他们并肩坐在岩石峭壁上，双手紧握，注视着那艘流线型飞船缓缓升起，飞向光芒之中……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082603959118618624/img/HrSGdOcoBKkFEwiK.jpg" width="600" alt="外星伴侣目送飞船升空">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8181)**
-
-**作者:** [Aurora](https://x.com/Aurora747220) | **来源:** [Link](https://x.com/Aurora747220/status/2082603987975438437) | **发布时间:** Jul 29, 2026
-
----
-### 《沙丘》沙虫移动方式
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段复杂的视频提示词，描述了《沙丘》中沙虫在人类引导下进行钻地和行进的特定动作。
-
-#### 📝 提示词
-
-```
-Grok，请转动沙虫的头部，因为那是它钻地的方式。以及沙虫在《沙丘》人民的引导下，通过钩绳爬上它的背部，随后沙虫保持头部抬起以快速行进，从而让沙虫保持……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082598769791541248/img/MUl1yVawi1LVhoIs.jpg" width="600" alt="《沙丘》沙虫移动方式">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8177)**
-
-**作者:** [Michael Bradley](https://x.com/MikeBradleySr2) | **来源:** [Link](https://x.com/MikeBradleySr2/status/2082598813072507324) | **发布时间:** Jul 29, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2376,6 +2320,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-07T06:03:47.725Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-07T09:23:53.084Z</sub>
 
 </div>
