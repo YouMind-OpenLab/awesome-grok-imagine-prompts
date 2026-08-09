@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2374** |
+| 📝 Total Prompts | **2386** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-09** |
 
@@ -189,6 +189,202 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Ballerina on Top of the World
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a ballerina dancing on the globe to elicit strength and universal trust.
+
+#### 📝 Prompt
+
+```
+A ballerina dancing on top of the world in no way to evoke fear but to ellicit strength and trust the universe
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086292167568379904/img/J-otDzfGMvkHGapz.jpg" width="600" alt="Ballerina on Top of the World">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8754)**
+
+**Author:** [Emily Morsello](https://x.com/EmilyMorsello) | **Source:** [Link](https://x.com/EmilyMorsello/status/2086292179002044861) | **Published:** Aug 9, 2026
+
+---
+### Tesla Optimus Seawall Construction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical video prompt for simulating a Tesla Optimus robot performing underwater construction in Cartagena, Colombia.
+
+#### 📝 Prompt
+
+```
+Tesla Optimus does Autonomous modular seawall construction on actively subsiding muddy seabed under tidal cycles in Cartagena, Colombia.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086280259104583680/img/DKXpUSqt93CpsKJL.jpg" width="600" alt="Tesla Optimus Seawall Construction">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8756)**
+
+**Author:** [Luis E. De Pombo](https://x.com/luisdepombo) | **Source:** [Link](https://x.com/luisdepombo/status/2086280358161424832) | **Published:** Aug 9, 2026
+
+---
+### Bioluminescent Crystal Flower 3D Render
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for a glowing crystal flower floating in space with realistic light scattering and reflections.
+
+#### 📝 Prompt
+
+```
+A breathtaking bioluminescent crystal flower suspended in pitch black deep space. The flower features delicate, translucent X-ray like glass petals with intricate crystalline structures. A warm amber and vivid magenta light radiates from the glowing core, creating realistic internal reflections and subtle light scattering through the transparent petals. Several glass petals gently float around the main flower, giving the composition a sense of weightlessness and motion.
+
+A subtle, sparse starfield appears in the distant background, keeping the focus entirely on the flower. Ultra-realistic glass refraction, caustics, volumetric glow, physically accurate reflections, intricate crystalline details, premium Octane render aesthetic, photorealistic materials, dramatic cinematic lighting, deep blacks, high contrast, futuristic sci-fi atmosphere, elegant and minimal composition.
+
+8K resolution, cinematic quality, highly detailed 3D render, darknmode UI background aesthetic, centered composition, no text, no logos, no watermark.
+
+Aspect Ratio: 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086274733796962304/img/y4hoHUZIUl9aojK-.jpg" width="600" alt="Bioluminescent Crystal Flower 3D Render">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8758)**
+
+**Author:** [X Ethan](https://x.com/XEthanai) | **Source:** [Link](https://x.com/XEthanai/status/2086274761429037300) | **Published:** Aug 9, 2026
+
+---
+### King Rising Toward Stars
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a king standing on the edge of tomorrow with a crown held high as the future ignites.
+
+#### 📝 Prompt
+
+```
+A king, one man stands on the edge of tomorrow, crown lifted high as the future ignites before him. With fire in his spirit and vision in his gaze, he rises toward the stars. God’s not done with me yet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086250951057252352/img/ql3TVoV7fqRPDN2g.jpg" width="600" alt="King Rising Toward Stars">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8757)**
+
+**Author:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **Source:** [Link](https://x.com/AngieRamos2030/status/2086251074491384222) | **Published:** Aug 9, 2026
+
+---
+### Cracking Julius Caesar Statue Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A hyper-realistic cinematic prompt depicting a split-screen transformation where a marble statue of Julius Caesar begins to crack.
+
+#### 📝 Prompt
+
+```
+In a hyper-realistic photographic style, a split-screen image transforms as the left marble statue of Julius Caesar suddenly cracks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086244652299202560/img/ibQkf23BcW77TSMh.jpg" width="600" alt="Cracking Julius Caesar Statue Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8753)**
+
+**Author:** [Charity Spence](https://x.com/CharitySpence) | **Source:** [Link](https://x.com/CharitySpence/status/2086244664487932104) | **Published:** Aug 9, 2026
+
+---
+### Morphing Cycling Environment Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt that creates a morphing effect where a cyclist travels through different regions that transition randomly.
+
+#### 📝 Prompt
+
+```
+The cyclist is cycling through different regions, transitioning randomly every two seconds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086242876472582144/img/s1kPG1UOXbGJNEs3.jpg" width="600" alt="Morphing Cycling Environment Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8752)**
+
+**Author:** [AI Tales - Not by Humans](https://x.com/AITalesNBH) | **Source:** [Link](https://x.com/AITalesNBH/status/2086242925634101535) | **Published:** Aug 9, 2026
+
+---
+### Butterfly Landing on Child's Finger
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A peaceful park animation of a butterfly flying off and landing on a young girl's finger during a family picnic.
+
+#### 📝 Prompt
+
+```
+Have the butterfly fly off and land on a little young white girl finger. She is sitting on a blanket in a park with Mom and Dad also sitting on the picknick blanket. It is a beautifully day with birds in the air and area.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086178997390725120/img/HnNIV09e7q-mRU86.jpg" width="600" alt="Butterfly Landing on Child's Finger">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8755)**
+
+**Author:** [Carlos W Royal](https://x.com/carloswroyal) | **Source:** [Link](https://x.com/carloswroyal/status/2086179017233957087) | **Published:** Aug 8, 2026
+
+---
+### Segmented Scene Control Interaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An advanced video prompt using segmentation IDs to direct multiple interactions between a man, a robot sculpture, and a vehicle.
+
+#### 📝 Prompt
+
+```
+(Man with sunglasses) turns toward (red white blue robot sculpture) as the (red white blue robot sculpture dances. The (man in a light blue shirt) runs over to the (green vehicle) and begins to drive in in reverse, and then forward toward the dancing (red white blue robot sculpture)
+```
+
+<img src="https://cms-assets.youmind.com/media/1786263206666_tgyokf_HPNW-ReWcAAq5wy.jpg" width="600" alt="Segmented Scene Control Interaction">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8760)**
+
+**Author:** [The Qubits Guy](https://x.com/Toy_Maestro) | **Source:** [Link](https://x.com/Toy_Maestro/status/2086107661569831265) | **Published:** Aug 8, 2026
+
+---
+### Japanese Festival Night Scene
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A descriptive prompt creating a cinematic Japanese summer festival atmosphere with lanterns, yukata, and traditional music.
+
+#### 📝 Prompt
+
+```
+Many festival lanterns light up the night sky. I stand at the edge of a food stall, holding a fox mask in one hand. I am wearing a red, black, and yellow yukata. The sound of flutes and drums nearby makes my heart flutter. It feels so feminine. The scent of flowers seems to waft through the air. In a video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086073921938522112/img/u4xlGj3DD5no73wA.jpg" width="600" alt="Japanese Festival Night Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8763)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2086073936845135977) | **Published:** Aug 8, 2026
+
+---
+### Giant Robot vs Sea Monster Cinematic Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed cinematic prompt for a video depicting a massive robot fighting a dinosaur-like sea creature during a nocturnal sea storm.
+
+#### 📝 Prompt
+
+```
+A combat robot hundreds of meters tall standing in the sea, with everything below its thighs underwater. The scene is at night with heavy rain. Five helicopters with searchlights are flying in circles around this huge robot, searching for unidentified objects underwater. The sea surface is surging with waves and strong winds. Suddenly, in an instant, a very large dinosaur-like aquatic creature emerges from under the sea and knocks down the robot with one palm strike.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086069163685199872/img/gk-aS3myUext6lgJ.jpg" width="600" alt="Giant Robot vs Sea Monster Cinematic Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8762)**
+
+**Author:** [广州水军](https://x.com/TidyFzy) | **Source:** [Link](https://x.com/TidyFzy/status/2086069405746971028) | **Published:** Aug 8, 2026
+
+---
 ### Futuristic Shinjuku Pelican on Bicycle
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -268,6 +464,37 @@ A magical bike ride through a Starry Night dreamscape, cherry blossoms glowing, 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8667)**
 
 **Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2085582849575399884) | **Published:** Aug 7, 2026
+
+---
+### Late Night Study Vlog Korean Woman
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for generating a 10-second smartphone vlog of a Korean student studying late at night, featuring specific shot breakdowns and realistic lighting.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic vertical smartphone video, 10 seconds. A beautiful young Korean woman is taking a short break while studying at her cozy desk late at night. She wears the same oversized light gray hoodie. Warm desk lamp lighting creates a comfortable atmosphere, with aesthetic wall posters, books, an open notebook, an iced coffee, and an open laptop in the background. The video is filmed with a handheld front-facing smartphone camera, featuring subtle natural movement and authentic smartphone autofocus.
+
+Shot 1 (0–2s): She adjusts the phone slightly as if she has just started recording, smiles softly, and blinks naturally while resting her chin on her sleeve.
+
+Shot 2 (2–4s): She glances toward her notebook, picks up a pen, underlines one sentence, then looks back at the camera with a tired but satisfied smile.
+
+Shot 3 (4–6s): She stretches her shoulders gently, brushes a loose strand of hair behind her ear, and exhales with a relaxed expression. The warm desk lamp creates soft highlights on her face.
+
+Shot 4 (6–8s): She reaches for the iced coffee, takes one small sip, sets it down naturally, then laughs quietly as if reacting to something off-camera.
+
+Shot 5 (8–10s): She gives a playful wink, points briefly toward the open notebook as if saying "back to studying," then smiles warmly at the camera before lowering her gaze and continuing to write.
+
+Style: Ultra-photorealistic, realistic smartphone selfie video, natural body language, authentic facial micro-expressions, subtle breathing, realistic blinking, accurate hand movement, lifelike hair physics, natural hoodie fabric movement, warm tungsten desk lamp, soft room ambience, smartphone autofocus breathing, slight handheld camera shake, shallow depth of field, cinematic yet authentic vlog aesthetic, HDR, 24 fps, 8K, no exaggerated expressions, no unrealistic camera motion, no AI artifacts.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085462976048549888/img/4A9Zonh4USg8hSxx.jpg" width="600" alt="Late Night Study Vlog Korean Woman">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8761)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2085574151058677777) | **Published:** Aug 7, 2026
 
 ---
 ### East Asian Woman MiniDV Self-Filming in Tide Temple
@@ -380,6 +607,25 @@ A breathtaking aerial shot glides over Terafab, a colossal sci-fi megacity where
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8659)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2085534622176125238) | **Published:** Aug 7, 2026
+
+---
+### Handsome Idol Pavilion Dance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for generating a captivating dance performance by a handsome idol in a traditional setting.
+
+#### 📝 Prompt
+
+```
+The pavilion's beloved handsome idol performs his signature dance, leaving every wealthy young lady spellbound.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085525869980946432/img/3goOxSwvNLk50mXX.jpg" width="600" alt="Handsome Idol Pavilion Dance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8759)**
+
+**Author:** [🌸 Bubskyy 🌸](https://x.com/NyaiiBubu) | **Source:** [Link](https://x.com/NyaiiBubu/status/2085526044019466464) | **Published:** Aug 7, 2026
 
 ---
 ### Surreal Beach Motion Scene
@@ -583,11 +829,11 @@ The man slowly reaches his free hand for the driver’s side door handle of the 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2085260396231832015) | **Published:** Aug 6, 2026
 
 ---
-### Cozy Bedroom Vlog Selfie
+### Cinematic Korean Bedroom Vlog
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed multi-shot prompt for a realistic vertical video of a woman in a cozy bedroom, designed to mimic a smartphone vlog.
+> A highly detailed multi-shot video prompt creating a realistic vlog-style sequence of a woman in a cozy bedroom with warm lighting.
 
 #### 📝 Prompt
 
@@ -607,7 +853,7 @@ Shot 5 (8–10s): Close-up selfie. She leans slightly closer to the camera, give
 Style: Ultra-photorealistic, natural facial expressions, realistic blinking, subtle breathing, lifelike hair physics, authentic smartphone handheld movement, warm ambient lighting, shallow depth of field, premium cinematic color grading, 24 fps, 8K, cozy Korean bedroom aesthetic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cozy Bedroom Vlog Selfie">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cinematic Korean Bedroom Vlog">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8613)**
 
@@ -2018,245 +2264,6 @@ Tôi đang rót một tách cà phê đen hoàn hảo, nguyên chất vào ly, c
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2083324400044999154) | **Published:** Jul 31, 2026
 
 ---
-### Video Âm nhạc Biểu diễn Hard Rock
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video điện ảnh phức tạp cho màn trình diễn hard-rock dài, với các yêu cầu về đồng bộ âm thanh, khớp khẩu hình và độ ổn định hình ảnh.
-
-#### 📝 Prompt
-
-```
-TIÊU ĐỀ: THẺ 13 — CON NGỰA CUỐI CÙNG
-
-ĐỊNH DẠNG:
-Video biểu diễn hard-rock điện ảnh dài 45 giây
-Tỷ lệ khung hình 16:9
-Âm thanh stereo đồng bộ gốc
-Một bài hát liền mạch
-Giọng hát chính rõ ràng từ đầu đến cuối
-Khớp khẩu hình chính xác
-Khuôn mặt, trang phục và giọng hát ổn định...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083287009200623616/img/VF_S7OOefIPVpYLC.jpg" width="600" alt="Video Âm nhạc Biểu diễn Hard Rock">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8253)**
-
-**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2083287048039932018) | **Published:** Jul 31, 2026
-
----
-### Ánh sáng chân dung chân thực
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh kỹ thuật cho ánh sáng độ tương phản cao, phong cách low-key trong video dọc 4K, tập trung vào kết cấu da sắc nét và chỉnh màu chuyên nghiệp cho nội dung mạng xã hội.
-
-#### 📝 Prompt
-
-```
-Bố cục dọc 9:16, chất lượng hình ảnh 4K siêu nét chân thực. Phong cách ánh sáng low-key, độ tương phản cao. Phông nền tông lạnh tạo sự tương phản sắc nét với trang phục của chủ thể, làm nổi bật đường nét nhân vật và độ bóng của da, mang đặc trưng kết cấu sắc nét của các video ngắn trên mạng xã hội.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083190013555351552/img/HBLt2oDD3ePcZjd0.jpg" width="600" alt="Ánh sáng chân dung chân thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8258)**
-
-**Author:** [三杯吐然诺](https://x.com/r2i3c8k) | **Source:** [Link](https://x.com/r2i3c8k/status/2083190137786413133) | **Published:** Jul 31, 2026
-
----
-### Chuỗi hành động nhào lộn đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh cực kỳ chi tiết cho cảnh chiến đấu võ thuật quay một lần (one-take) đầy năng lượng với vật lý chân thực và kỹ thuật quay phim năng động.
-
-#### 📝 Prompt
-
-```
-Không cắt cảnh. Không chuyển cảnh. Chuỗi hành động nhào lộn năng lượng cao, đầy linh hoạt. Chuyển động mượt mà, mạnh mẽ và đậm chất điện ảnh với độ rõ nét tuyệt vời. Nhân vật thực hiện các combo võ thuật tốc độ cao bao gồm đá xoay, lên gối bay, lộn nhào trên không, chạy trên tường, nhảy, lăn và các đòn hạ gục quyết liệt. Vật lý mượt mà, thể thao và chân thực với động lượng mạnh mẽ và sức nặng trong từng cú đánh. Kỹ thuật quay phim năng động — quay theo dõi (tracking shot), camera xoay vòng, các góc quay kịch tính, thỉnh thoảng quay chậm (slow-motion) khi va chạm. Cường độ cao, vũ đạo uyển chuyển nhưng đầy uy lực, độ linh hoạt và tốc độ xuất sắc. Ánh sáng điện ảnh, chi tiết chuyển động sắc nét, không bị cứng nhắc, cảnh chiến đấu cực kỳ năng động và thú vị, chất lượng kiệt tác, video 6 giây...., cảnh chiến đấu cực kỳ năng động và thú vị, chuyển động mượt mà linh hoạt, chất lượng kiệt tác, video 6 giây. Bất kỳ kẻ tấn công nào xuất hiện trong cảnh quay đều phải mặc đồ đen và trông như một người khác. Họ cũng không được chỉ nằm im mà phải đang chiến đấu. Cô ấy phải duy trì sự tự tin khi chiến đấu và không được loạng choạng. Ưu tiên vật lý chính xác, không bao giờ làm mờ hoặc bỏ qua vật lý chuẩn để tạo ra các động tác nhào lộn giả tạo. Giữ hình ảnh rõ nét và sạch sẽ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083173742629261312/img/DkB8EMcO-9eK1a0C.jpg" width="600" alt="Chuỗi hành động nhào lộn đậm chất điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8250)**
-
-**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2083184843173642443) | **Published:** Jul 31, 2026
-
----
-### Cảnh hồi sinh Sao Hỏa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một khung cảnh điện ảnh đầy hy vọng trên Sao Hỏa, mô tả sự hồi sinh của hành tinh đỏ với con người đang làm việc dưới hai mặt trăng.
-
-#### 📝 Prompt
-
-```
-Tỉnh giấc mơ về Sao Hỏa, nơi bạn có thể hít thở bầu không khí và thời gian trở nên giản đơn, tràn đầy sức sống và kỳ diệu\n\nMột khung cảnh đầy hy vọng trên Sao Hỏa với một người phụ nữ kiểu Kennedy và một nhân vật khác đứng dưới hai mặt trăng, trong khi mọi người đang làm việc để hồi sinh hành tinh đỏ ở phía sau. Cô ấy hướng mặt về phía trước và không quay đi, cho phép một sự xuất hiện chậm rãi, nhẹ nhàng, ánh trăng dịu dàng khẽ chiếu...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083155984940519425/img/loxYB3jdNrjyNMqu.jpg" width="600" alt="Cảnh hồi sinh Sao Hỏa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8247)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2083170774140248169) | **Published:** Jul 31, 2026
-
----
-### Cá voi khổng lồ và cá mập Fractal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một khung cảnh dưới nước siêu thực với những chú cá voi khổng lồ đầy màu sắc và những con cá mập đỏ đen đang tiến vào khung hình.
-
-#### 📝 Prompt
-
-```
-Chuyện quái quỷ gì đang diễn ra vào ngày thứ Sáu fractal điên rồ này vậy?
-
-Một phần ba cuối cùng của cảnh quay này cho thấy vô số cá voi khổng lồ đang tiến vào khung hình từ cả hai phía. Chúng đi kèm với vô số loài cá mập. Những con cá mập có màu đỏ thẫm với phần bụng màu đen. Những chú cá voi có nhiều màu sắc đa dạng trải dài t...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083169242308812801/img/wmqpqhBMBFrv_jD6.jpg" width="600" alt="Cá voi khổng lồ và cá mập Fractal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8245)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2083169323363762661) | **Published:** Jul 31, 2026
-
----
-### Vòng xoáy cá heo phát quang sinh học
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả sống động về những chú cá heo phát sáng đang tiến vào một vòng xoáy cổng không gian bên trong một cửa sông trù phú.
-
-#### 📝 Prompt
-
-```
-Những chú cá heo phát quang sinh học màu tím và cam 🐬 cùng nhau tiến vào vòng xoáy, một cánh cổng dẫn đến cửa sông trù phú, nơi cung cấp nguồn thức ăn dồi dào cho cả đàn đang đói.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083167150387146752/img/og9eiurWnI7qNOJu.jpg" width="600" alt="Vòng xoáy cá heo phát quang sinh học">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8256)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2083167221199552705) | **Published:** Jul 31, 2026
-
----
-### Vũ điệu sân vườn của nàng vũ công thanh tao
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đầy chất thơ với hình ảnh một vũ công ballet mặc váy ren đang khiêu vũ trong khu vườn trắng dưới ánh sáng dịu nhẹ cùng một chú đom đóm.
-
-#### 📝 Prompt
-
-```
-Một vũ công ballet trong bộ váy ren dưới ánh sáng tĩnh lặng… Một chú đom đóm đơn độc bay lượn khắp khu vườn trắng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083158261063409664/img/OGuMgZHnRqIjJwIX.jpg" width="600" alt="Vũ điệu sân vườn của nàng vũ công thanh tao">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8257)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2083158317229301891) | **Published:** Jul 31, 2026
-
----
-### Góc nhìn của nữ thợ săn quỷ tập sự
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt theo góc nhìn thứ nhất về một nữ thợ săn quỷ tập sự đang cố gắng khuất phục một nữ quỷ bằng cây thánh giá, dẫn đến một tràng cười khúc khích nhẹ nhàng.
-
-#### 📝 Prompt
-
-```
-Một cảnh quay liên tục. Phong cách POV. Không có lời thoại. Từ góc nhìn của một nữ thợ săn quỷ tập sự đang thực hiện cuộc săn đầu tiên. Bạn tiến lại gần và giơ cao cây thánh giá đã được ban phước về phía nữ quỷ với hy vọng nó sẽ khuất phục được cô ta, nhưng cô ta chỉ khẽ cười khúc khích.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083101439451099136/img/qPm3UFkJfQYOjO-b.jpg" width="600" alt="Góc nhìn của nữ thợ săn quỷ tập sự">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8175)**
-
-**Author:** [David](https://x.com/Mmmm8x5mMmmm) | **Source:** [Link](https://x.com/Mmmm8x5mMmmm/status/2083101713003696300) | **Published:** Jul 31, 2026
-
----
-### Video người đàn ông Romani đang nói chuyện
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video sống động về một người đàn ông Romani đang nói tiếng Hungary trực tiếp trước ống kính với các cử chỉ và biểu cảm chân thực.
-
-#### 📝 Prompt
-
-```
-Người đàn ông Romani có vẻ ngoài gai góc với mái tóc xoăn và bộ ria mép nhìn thẳng vào ống kính, miệng cử động khi anh ta nói bằng tiếng Hungary đầy thách thức: "Na mit bámulsz gádzsó? Kell valami?" trong khi thực hiện một cử chỉ tay nhẹ với một tay rút ra khỏi túi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083086054119370752/img/WOw9Bu5j41DD_TfS.jpg" width="600" alt="Video người đàn ông Romani đang nói chuyện">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8174)**
-
-**Author:** [Sic @ Warmer Sun](https://x.com/WarmerSun) | **Source:** [Link](https://x.com/WarmerSun/status/2083086074985976235) | **Published:** Jul 31, 2026
-
----
-### Rồng bị đàn bò đuổi theo trên máy bay không người lái
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video hài hước và siêu thực với hình ảnh một con rồng đang bị những con bò đội mũ bảo hiểm, bay trên máy bay không người lái đuổi theo.
-
-#### 📝 Prompt
-
-```
-Một con rồng lớn bay đi với hai con bò đội mũ bảo hiểm và đeo kính bảo hộ, bay trên máy bay không người lái đuổi theo nó
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083061216059310081/img/VCiZuM1P_l6bQWmT.jpg" width="600" alt="Rồng bị đàn bò đuổi theo trên máy bay không người lái">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8255)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2083061261697519754) | **Published:** Jul 31, 2026
-
----
-### Video khoảnh khắc lãng mạn nhẹ nhàng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video mô tả cảnh tượng dịu dàng khi người đàn ông an ủi người phụ nữ đang mệt mỏi trên nền nhạc piano cổ điển.
-
-#### 📝 Prompt
-
-```
-Không lời thoại, nhạc piano cổ điển lãng mạn nhẹ nhàng làm nền, người phụ nữ đang mệt mỏi và người đàn ông ở bên cạnh để an ủi cô ấy. Không quay cận cảnh. Khoảnh khắc lãng mạn nhẹ nhàng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083036936252346368/img/lgNewigovVyX8tm5.jpg" width="600" alt="Video khoảnh khắc lãng mạn nhẹ nhàng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8254)**
-
-**Author:** [EM](https://x.com/MuSkYnEWsA3uyp) | **Source:** [Link](https://x.com/MuSkYnEWsA3uyp/status/2083037603889045553) | **Published:** Jul 31, 2026
-
----
-### Video chuyên nghiệp về chú mèo con làm CEO trong văn phòng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video điện ảnh về chú mèo con trong vai CEO chuyên nghiệp mặc vest, thực hiện các hành động như chớp mắt và gõ bút trong bối cảnh văn phòng.
-
-#### 📝 Prompt
-
-```
-Chú mèo con đáng yêu trong bộ vest CEO từ từ quay đầu nhẹ về phía máy quay với sự tập trung chuyên nghiệp cao độ, chớp mắt một cách chậm rãi, sau đó giơ chiếc chân nhỏ xíu đang cầm bút máy lên và gõ mạnh vào máy tính xách tay để nhấn mạnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083025324392996864/img/VT0l18fmaNvyaDWb.jpg" width="600" alt="Video chuyên nghiệp về chú mèo con làm CEO trong văn phòng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8170)**
-
-**Author:** [GIXXER4820](https://x.com/DovelRandy) | **Source:** [Link](https://x.com/DovelRandy/status/2083025347658887665) | **Published:** Jul 31, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2318,6 +2325,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-09T05:29:45.759Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-09T09:12:49.167Z</sub>
 
 </div>

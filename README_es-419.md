@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2374** |
+| 📝 Total Prompts | **2386** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-09** |
 
@@ -189,6 +189,202 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Ballerina on Top of the World
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a ballerina dancing on the globe to elicit strength and universal trust.
+
+#### 📝 Prompt
+
+```
+A ballerina dancing on top of the world in no way to evoke fear but to ellicit strength and trust the universe
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086292167568379904/img/J-otDzfGMvkHGapz.jpg" width="600" alt="Ballerina on Top of the World">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8754)**
+
+**Author:** [Emily Morsello](https://x.com/EmilyMorsello) | **Source:** [Link](https://x.com/EmilyMorsello/status/2086292179002044861) | **Published:** Aug 9, 2026
+
+---
+### Tesla Optimus Seawall Construction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical video prompt for simulating a Tesla Optimus robot performing underwater construction in Cartagena, Colombia.
+
+#### 📝 Prompt
+
+```
+Tesla Optimus does Autonomous modular seawall construction on actively subsiding muddy seabed under tidal cycles in Cartagena, Colombia.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086280259104583680/img/DKXpUSqt93CpsKJL.jpg" width="600" alt="Tesla Optimus Seawall Construction">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8756)**
+
+**Author:** [Luis E. De Pombo](https://x.com/luisdepombo) | **Source:** [Link](https://x.com/luisdepombo/status/2086280358161424832) | **Published:** Aug 9, 2026
+
+---
+### Bioluminescent Crystal Flower 3D Render
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for a glowing crystal flower floating in space with realistic light scattering and reflections.
+
+#### 📝 Prompt
+
+```
+A breathtaking bioluminescent crystal flower suspended in pitch black deep space. The flower features delicate, translucent X-ray like glass petals with intricate crystalline structures. A warm amber and vivid magenta light radiates from the glowing core, creating realistic internal reflections and subtle light scattering through the transparent petals. Several glass petals gently float around the main flower, giving the composition a sense of weightlessness and motion.
+
+A subtle, sparse starfield appears in the distant background, keeping the focus entirely on the flower. Ultra-realistic glass refraction, caustics, volumetric glow, physically accurate reflections, intricate crystalline details, premium Octane render aesthetic, photorealistic materials, dramatic cinematic lighting, deep blacks, high contrast, futuristic sci-fi atmosphere, elegant and minimal composition.
+
+8K resolution, cinematic quality, highly detailed 3D render, darknmode UI background aesthetic, centered composition, no text, no logos, no watermark.
+
+Aspect Ratio: 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086274733796962304/img/y4hoHUZIUl9aojK-.jpg" width="600" alt="Bioluminescent Crystal Flower 3D Render">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8758)**
+
+**Author:** [X Ethan](https://x.com/XEthanai) | **Source:** [Link](https://x.com/XEthanai/status/2086274761429037300) | **Published:** Aug 9, 2026
+
+---
+### King Rising Toward Stars
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a king standing on the edge of tomorrow with a crown held high as the future ignites.
+
+#### 📝 Prompt
+
+```
+A king, one man stands on the edge of tomorrow, crown lifted high as the future ignites before him. With fire in his spirit and vision in his gaze, he rises toward the stars. God’s not done with me yet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086250951057252352/img/ql3TVoV7fqRPDN2g.jpg" width="600" alt="King Rising Toward Stars">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8757)**
+
+**Author:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **Source:** [Link](https://x.com/AngieRamos2030/status/2086251074491384222) | **Published:** Aug 9, 2026
+
+---
+### Cracking Julius Caesar Statue Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A hyper-realistic cinematic prompt depicting a split-screen transformation where a marble statue of Julius Caesar begins to crack.
+
+#### 📝 Prompt
+
+```
+In a hyper-realistic photographic style, a split-screen image transforms as the left marble statue of Julius Caesar suddenly cracks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086244652299202560/img/ibQkf23BcW77TSMh.jpg" width="600" alt="Cracking Julius Caesar Statue Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8753)**
+
+**Author:** [Charity Spence](https://x.com/CharitySpence) | **Source:** [Link](https://x.com/CharitySpence/status/2086244664487932104) | **Published:** Aug 9, 2026
+
+---
+### Morphing Cycling Environment Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt that creates a morphing effect where a cyclist travels through different regions that transition randomly.
+
+#### 📝 Prompt
+
+```
+The cyclist is cycling through different regions, transitioning randomly every two seconds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086242876472582144/img/s1kPG1UOXbGJNEs3.jpg" width="600" alt="Morphing Cycling Environment Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8752)**
+
+**Author:** [AI Tales - Not by Humans](https://x.com/AITalesNBH) | **Source:** [Link](https://x.com/AITalesNBH/status/2086242925634101535) | **Published:** Aug 9, 2026
+
+---
+### Butterfly Landing on Child's Finger
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A peaceful park animation of a butterfly flying off and landing on a young girl's finger during a family picnic.
+
+#### 📝 Prompt
+
+```
+Have the butterfly fly off and land on a little young white girl finger. She is sitting on a blanket in a park with Mom and Dad also sitting on the picknick blanket. It is a beautifully day with birds in the air and area.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086178997390725120/img/HnNIV09e7q-mRU86.jpg" width="600" alt="Butterfly Landing on Child's Finger">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8755)**
+
+**Author:** [Carlos W Royal](https://x.com/carloswroyal) | **Source:** [Link](https://x.com/carloswroyal/status/2086179017233957087) | **Published:** Aug 8, 2026
+
+---
+### Segmented Scene Control Interaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An advanced video prompt using segmentation IDs to direct multiple interactions between a man, a robot sculpture, and a vehicle.
+
+#### 📝 Prompt
+
+```
+(Man with sunglasses) turns toward (red white blue robot sculpture) as the (red white blue robot sculpture dances. The (man in a light blue shirt) runs over to the (green vehicle) and begins to drive in in reverse, and then forward toward the dancing (red white blue robot sculpture)
+```
+
+<img src="https://cms-assets.youmind.com/media/1786263206666_tgyokf_HPNW-ReWcAAq5wy.jpg" width="600" alt="Segmented Scene Control Interaction">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8760)**
+
+**Author:** [The Qubits Guy](https://x.com/Toy_Maestro) | **Source:** [Link](https://x.com/Toy_Maestro/status/2086107661569831265) | **Published:** Aug 8, 2026
+
+---
+### Japanese Festival Night Scene
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A descriptive prompt creating a cinematic Japanese summer festival atmosphere with lanterns, yukata, and traditional music.
+
+#### 📝 Prompt
+
+```
+Many festival lanterns light up the night sky. I stand at the edge of a food stall, holding a fox mask in one hand. I am wearing a red, black, and yellow yukata. The sound of flutes and drums nearby makes my heart flutter. It feels so feminine. The scent of flowers seems to waft through the air. In a video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086073921938522112/img/u4xlGj3DD5no73wA.jpg" width="600" alt="Japanese Festival Night Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8763)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2086073936845135977) | **Published:** Aug 8, 2026
+
+---
+### Giant Robot vs Sea Monster Cinematic Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed cinematic prompt for a video depicting a massive robot fighting a dinosaur-like sea creature during a nocturnal sea storm.
+
+#### 📝 Prompt
+
+```
+A combat robot hundreds of meters tall standing in the sea, with everything below its thighs underwater. The scene is at night with heavy rain. Five helicopters with searchlights are flying in circles around this huge robot, searching for unidentified objects underwater. The sea surface is surging with waves and strong winds. Suddenly, in an instant, a very large dinosaur-like aquatic creature emerges from under the sea and knocks down the robot with one palm strike.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086069163685199872/img/gk-aS3myUext6lgJ.jpg" width="600" alt="Giant Robot vs Sea Monster Cinematic Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8762)**
+
+**Author:** [广州水军](https://x.com/TidyFzy) | **Source:** [Link](https://x.com/TidyFzy/status/2086069405746971028) | **Published:** Aug 8, 2026
+
+---
 ### Futuristic Shinjuku Pelican on Bicycle
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -268,6 +464,37 @@ A magical bike ride through a Starry Night dreamscape, cherry blossoms glowing, 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8667)**
 
 **Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2085582849575399884) | **Published:** Aug 7, 2026
+
+---
+### Late Night Study Vlog Korean Woman
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for generating a 10-second smartphone vlog of a Korean student studying late at night, featuring specific shot breakdowns and realistic lighting.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic vertical smartphone video, 10 seconds. A beautiful young Korean woman is taking a short break while studying at her cozy desk late at night. She wears the same oversized light gray hoodie. Warm desk lamp lighting creates a comfortable atmosphere, with aesthetic wall posters, books, an open notebook, an iced coffee, and an open laptop in the background. The video is filmed with a handheld front-facing smartphone camera, featuring subtle natural movement and authentic smartphone autofocus.
+
+Shot 1 (0–2s): She adjusts the phone slightly as if she has just started recording, smiles softly, and blinks naturally while resting her chin on her sleeve.
+
+Shot 2 (2–4s): She glances toward her notebook, picks up a pen, underlines one sentence, then looks back at the camera with a tired but satisfied smile.
+
+Shot 3 (4–6s): She stretches her shoulders gently, brushes a loose strand of hair behind her ear, and exhales with a relaxed expression. The warm desk lamp creates soft highlights on her face.
+
+Shot 4 (6–8s): She reaches for the iced coffee, takes one small sip, sets it down naturally, then laughs quietly as if reacting to something off-camera.
+
+Shot 5 (8–10s): She gives a playful wink, points briefly toward the open notebook as if saying "back to studying," then smiles warmly at the camera before lowering her gaze and continuing to write.
+
+Style: Ultra-photorealistic, realistic smartphone selfie video, natural body language, authentic facial micro-expressions, subtle breathing, realistic blinking, accurate hand movement, lifelike hair physics, natural hoodie fabric movement, warm tungsten desk lamp, soft room ambience, smartphone autofocus breathing, slight handheld camera shake, shallow depth of field, cinematic yet authentic vlog aesthetic, HDR, 24 fps, 8K, no exaggerated expressions, no unrealistic camera motion, no AI artifacts.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085462976048549888/img/4A9Zonh4USg8hSxx.jpg" width="600" alt="Late Night Study Vlog Korean Woman">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8761)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2085574151058677777) | **Published:** Aug 7, 2026
 
 ---
 ### East Asian Woman MiniDV Self-Filming in Tide Temple
@@ -380,6 +607,25 @@ A breathtaking aerial shot glides over Terafab, a colossal sci-fi megacity where
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8659)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2085534622176125238) | **Published:** Aug 7, 2026
+
+---
+### Handsome Idol Pavilion Dance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for generating a captivating dance performance by a handsome idol in a traditional setting.
+
+#### 📝 Prompt
+
+```
+The pavilion's beloved handsome idol performs his signature dance, leaving every wealthy young lady spellbound.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085525869980946432/img/3goOxSwvNLk50mXX.jpg" width="600" alt="Handsome Idol Pavilion Dance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8759)**
+
+**Author:** [🌸 Bubskyy 🌸](https://x.com/NyaiiBubu) | **Source:** [Link](https://x.com/NyaiiBubu/status/2085526044019466464) | **Published:** Aug 7, 2026
 
 ---
 ### Surreal Beach Motion Scene
@@ -583,11 +829,11 @@ The man slowly reaches his free hand for the driver’s side door handle of the 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2085260396231832015) | **Published:** Aug 6, 2026
 
 ---
-### Cozy Bedroom Vlog Selfie
+### Cinematic Korean Bedroom Vlog
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed multi-shot prompt for a realistic vertical video of a woman in a cozy bedroom, designed to mimic a smartphone vlog.
+> A highly detailed multi-shot video prompt creating a realistic vlog-style sequence of a woman in a cozy bedroom with warm lighting.
 
 #### 📝 Prompt
 
@@ -607,7 +853,7 @@ Shot 5 (8–10s): Close-up selfie. She leans slightly closer to the camera, give
 Style: Ultra-photorealistic, natural facial expressions, realistic blinking, subtle breathing, lifelike hair physics, authentic smartphone handheld movement, warm ambient lighting, shallow depth of field, premium cinematic color grading, 24 fps, 8K, cozy Korean bedroom aesthetic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cozy Bedroom Vlog Selfie">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cinematic Korean Bedroom Vlog">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8613)**
 
@@ -2018,247 +2264,6 @@ Estoy sirviendo una taza de café negro limpia y perfecta directamente desde arr
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2083324400044999154) | **Published:** Jul 31, 2026
 
 ---
-### Video musical de presentación de Hard Rock
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico complejo para una presentación de hard rock de larga duración con requisitos de sincronización de audio, sincronización labial y estabilidad visual.
-
-#### 📝 Prompt
-
-```
-TÍTULO: TARJETA 13 — EL ÚLTIMO CABALLO
-
-FORMATO:
-Presentación de hard rock cinematográfica de 45 segundos
-Pantalla panorámica 16:9
-Audio estéreo sincronizado nativo
-Una canción continua
-Voz principal clara de principio a fin
-Sincronización labial precisa
-Rostro, vestuario y voz estables...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083287009200623616/img/VF_S7OOefIPVpYLC.jpg" width="600" alt="Video musical de presentación de Hard Rock">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8253)**
-
-**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2083287048039932018) | **Published:** Jul 31, 2026
-
----
-### Iluminación de retrato realista
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt técnico para iluminación de bajo perfil (low-key) y alto contraste en video vertical 4K, enfocado en texturas de piel nítidas y corrección de color profesional para contenido de redes sociales.
-
-#### 📝 Prompt
-
-```
-Composición vertical 9:16, calidad de imagen realista 4K ultra nítida. Estilo de iluminación de bajo perfil (low-key), alto contraste. El fondo de tonos fríos crea un contraste marcado con la vestimenta del sujeto, enfatizando los contornos del personaje y el brillo de la piel, presentando la textura nítida típica de los videos cortos en redes sociales.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083190013555351552/img/HBLt2oDD3ePcZjd0.jpg" width="600" alt="Iluminación de retrato realista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8258)**
-
-**Author:** [三杯吐然诺](https://x.com/r2i3c8k) | **Source:** [Link](https://x.com/r2i3c8k/status/2083190137786413133) | **Published:** Jul 31, 2026
-
----
-### Secuencia de pelea acrobática cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt extremadamente detallado para una escena de pelea de artes marciales de alta energía en una sola toma, con física realista y trabajo de cámara dinámico.
-
-#### 📝 Prompt
-
-```
-Sin cortes. Sin transiciones. Secuencia de pelea acrobática dinámica y de alta energía. Movimiento fluido, potente y cinematográfico con excelente claridad de movimiento. El personaje realiza combos de artes marciales de ritmo rápido que incluyen patadas giratorias, rodillazos voladores, volteretas aéreas, carreras por la pared, saltos, rodadas y derribos brutales. Física fluida, atlética y realista con gran impulso y peso detrás de cada golpe. Trabajo de cámara dinámico: tomas de seguimiento, cámara circular, ángulos dramáticos, cámara lenta ocasional al impactar. Alta intensidad, coreografía elegante pero poderosa, excelente fluidez y velocidad. Iluminación cinematográfica, detalles de movimiento nítidos, sin rigidez, escena de pelea altamente dinámica y emocionante, calidad de obra maestra, video de 6 segundos..., escena de pelea altamente dinámica y emocionante, movimiento fluido y suave, calidad de obra maestra, video de 6 segundos. Cualquier atacante que aparezca en escena debe estar vestido de negro y parecer una persona diferente. Tampoco deben estar simplemente tirados, sino peleando. Ella debe mantener la confianza al pelear y no tambalearse. La prioridad es la física correcta; nunca desenfocar ni abandonar la física adecuada para fingir un movimiento acrobático. Mantener una imagen limpia y de buena calidad.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083173742629261312/img/DkB8EMcO-9eK1a0C.jpg" width="600" alt="Secuencia de pelea acrobática cinematográfica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8250)**
-
-**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2083184843173642443) | **Published:** Jul 31, 2026
-
----
-### Escena del renacimiento de Marte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una escena cinematográfica esperanzadora en Marte que representa el renacimiento del planeta rojo con personas trabajando bajo lunas gemelas.
-
-#### 📝 Prompt
-
-```
-Soñando despierto con Marte, donde podías respirar el aire y los tiempos eran más sencillos, llenos de vida y asombro
-
-Una escena esperanzadora en Marte con una mujer Kennedy y otra figura de pie bajo lunas gemelas, mientras la gente trabaja para revivir el planeta rojo al fondo; ella mira hacia adelante y no se aparta, permitiendo una llegada lenta y suave, con la luz de la luna iluminando suavemente...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083155984940519425/img/loxYB3jdNrjyNMqu.jpg" width="600" alt="Escena del renacimiento de Marte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8247)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2083170774140248169) | **Published:** Jul 31, 2026
-
----
-### Ballenas y tiburones megafractales
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una escena submarina surrealista con coloridas megaballenas y tiburones rojos y negros entrando en escena.
-
-#### 📝 Prompt
-
-```
-¿Qué rayos está pasando aquí en este viernes fractal tan extraño?
-
-El último tercio de esta escena muestra una cantidad incontable de megaballenas entrando en el encuadre desde ambos lados. Están acompañadas por una plétora de especies de tiburones. Los tiburones son de un rojo intenso con vientres negros. Las ballenas presentan una variedad de colores que abarcan...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083169242308812801/img/wmqpqhBMBFrv_jD6.jpg" width="600" alt="Ballenas y tiburones megafractales">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8245)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2083169323363762661) | **Published:** Jul 31, 2026
-
----
-### Vórtice de delfines bioluminiscentes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una descripción vívida de delfines brillantes que entran en un vórtice de portal dentro de un estuario rico.
-
-#### 📝 Prompt
-
-```
-Delfines bioluminiscentes de color púrpura y naranja 🐬 se unen al vórtice que es un portal hacia un estuario de abundancia que proporciona alimento para la manada hambrienta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083167150387146752/img/og9eiurWnI7qNOJu.jpg" width="600" alt="Vórtice de delfines bioluminiscentes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8256)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2083167221199552705) | **Published:** Jul 31, 2026
-
----
-### Danza etérea de bailarina en el jardín
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video poético que presenta a una bailarina con encaje bailando en un jardín blanco bajo una iluminación suave con una luciérnaga.
-
-#### 📝 Prompt
-
-```
-Una bailarina con encaje y luz tenue… Una solitaria luciérnaga flota a través del jardín blanco.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083158261063409664/img/OGuMgZHnRqIjJwIX.jpg" width="600" alt="Danza etérea de bailarina en el jardín">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8257)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2083158317229301891) | **Published:** Jul 31, 2026
-
----
-### POV de una cazadora de demonios novata
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video prompt en primera persona de una cazadora de demonios novata que intenta someter a una súcubo con una cruz, lo que resulta en una risita silenciosa.
-
-#### 📝 Prompt
-
-```
-Una toma continua. Estilo POV. Sin diálogos. Desde la perspectiva de una cazadora de demonios novata que intenta su primera cacería. Te acercas y sostienes tu cruz bendita hacia la súcubo esperando que la someta, pero ella simplemente suelta una risita silenciosa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083101439451099136/img/qPm3UFkJfQYOjO-b.jpg" width="600" alt="POV de una cazadora de demonios novata">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8175)**
-
-**Author:** [David](https://x.com/Mmmm8x5mMmmm) | **Source:** [Link](https://x.com/Mmmm8x5mMmmm/status/2083101713003696300) | **Published:** Jul 31, 2026
-
----
-### Video de hombre romaní hablando
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video dinámico de un hombre romaní hablando húngaro directamente a la cámara con gestos y expresiones realistas.
-
-#### 📝 Prompt
-
-```
-El hombre romaní de aspecto rudo, con cabello rizado y bigote, mira directamente a la cámara mientras mueve la boca y habla en húngaro con tono desafiante: "Na mit bámulsz gádzsó? Kell valami?", al mismo tiempo que hace un ligero gesto con una mano fuera de su bolsillo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083086054119370752/img/WOw9Bu5j41DD_TfS.jpg" width="600" alt="Video de hombre romaní hablando">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8174)**
-
-**Author:** [Sic @ Warmer Sun](https://x.com/WarmerSun) | **Source:** [Link](https://x.com/WarmerSun/status/2083086074985976235) | **Published:** Jul 31, 2026
-
----
-### Dragón perseguido por vacas en drones
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video surrealista y humorístico que muestra a un dragón siendo perseguido por vacas que vuelan en drones y usan cascos.
-
-#### 📝 Prompt
-
-```
-Un dragón grande sale volando mientras dos vacas lo persiguen en drones, usando cascos y gafas de protección
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083061216059310081/img/VCiZuM1P_l6bQWmT.jpg" width="600" alt="Dragón perseguido por vacas en drones">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8255)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2083061261697519754) | **Published:** Jul 31, 2026
-
----
-### Video de un momento romántico y tierno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video que describe una escena tierna de un hombre consolando a una mujer cansada con música de piano clásica.
-
-#### 📝 Prompt
-
-```
-Sin diálogos, música romántica de piano clásico suave de fondo, una mujer está cansada y un hombre la acompaña para consolarla. Sin primeros planos. Momento romántico y delicado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083036936252346368/img/lgNewigovVyX8tm5.jpg" width="600" alt="Video de un momento romántico y tierno">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8254)**
-
-**Author:** [EM](https://x.com/MuSkYnEWsA3uyp) | **Source:** [Link](https://x.com/MuSkYnEWsA3uyp/status/2083037603889045553) | **Published:** Jul 31, 2026
-
----
-### Video profesional de un gatito CEO en la oficina
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico de un gatito CEO profesional con traje de negocios realizando acciones como parpadear y golpear un bolígrafo en un entorno de oficina.
-
-#### 📝 Prompt
-
-```
-El adorable gatito CEO con traje de negocios gira lentamente la cabeza hacia la cámara con un enfoque profesional intenso, parpadea una vez deliberadamente, luego levanta su pequeña pata sosteniendo la pluma estilográfica y la golpea dramáticamente contra la laptop para enfatizar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083025324392996864/img/VT0l18fmaNvyaDWb.jpg" width="600" alt="Video profesional de un gatito CEO en la oficina">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8170)**
-
-**Author:** [GIXXER4820](https://x.com/DovelRandy) | **Source:** [Link](https://x.com/DovelRandy/status/2083025347658887665) | **Published:** Jul 31, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2320,6 +2325,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-09T05:29:50.081Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-09T09:12:52.339Z</sub>
 
 </div>

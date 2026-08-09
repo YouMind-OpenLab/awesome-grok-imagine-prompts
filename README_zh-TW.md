@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2374** |
+| 📝 提示詞總數 | **2386** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-08-09** |
 
@@ -189,6 +189,202 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Ballerina on Top of the World
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a ballerina dancing on the globe to elicit strength and universal trust.
+
+#### 📝 提示詞
+
+```
+A ballerina dancing on top of the world in no way to evoke fear but to ellicit strength and trust the universe
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086292167568379904/img/J-otDzfGMvkHGapz.jpg" width="600" alt="Ballerina on Top of the World">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8754)**
+
+**作者:** [Emily Morsello](https://x.com/EmilyMorsello) | **來源:** [Link](https://x.com/EmilyMorsello/status/2086292179002044861) | **發布時間:** Aug 9, 2026
+
+---
+### Tesla Optimus Seawall Construction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical video prompt for simulating a Tesla Optimus robot performing underwater construction in Cartagena, Colombia.
+
+#### 📝 提示詞
+
+```
+Tesla Optimus does Autonomous modular seawall construction on actively subsiding muddy seabed under tidal cycles in Cartagena, Colombia.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086280259104583680/img/DKXpUSqt93CpsKJL.jpg" width="600" alt="Tesla Optimus Seawall Construction">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8756)**
+
+**作者:** [Luis E. De Pombo](https://x.com/luisdepombo) | **來源:** [Link](https://x.com/luisdepombo/status/2086280358161424832) | **發布時間:** Aug 9, 2026
+
+---
+### Bioluminescent Crystal Flower 3D Render
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for a glowing crystal flower floating in space with realistic light scattering and reflections.
+
+#### 📝 提示詞
+
+```
+A breathtaking bioluminescent crystal flower suspended in pitch black deep space. The flower features delicate, translucent X-ray like glass petals with intricate crystalline structures. A warm amber and vivid magenta light radiates from the glowing core, creating realistic internal reflections and subtle light scattering through the transparent petals. Several glass petals gently float around the main flower, giving the composition a sense of weightlessness and motion.
+
+A subtle, sparse starfield appears in the distant background, keeping the focus entirely on the flower. Ultra-realistic glass refraction, caustics, volumetric glow, physically accurate reflections, intricate crystalline details, premium Octane render aesthetic, photorealistic materials, dramatic cinematic lighting, deep blacks, high contrast, futuristic sci-fi atmosphere, elegant and minimal composition.
+
+8K resolution, cinematic quality, highly detailed 3D render, darknmode UI background aesthetic, centered composition, no text, no logos, no watermark.
+
+Aspect Ratio: 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086274733796962304/img/y4hoHUZIUl9aojK-.jpg" width="600" alt="Bioluminescent Crystal Flower 3D Render">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8758)**
+
+**作者:** [X Ethan](https://x.com/XEthanai) | **來源:** [Link](https://x.com/XEthanai/status/2086274761429037300) | **發布時間:** Aug 9, 2026
+
+---
+### King Rising Toward Stars
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a king standing on the edge of tomorrow with a crown held high as the future ignites.
+
+#### 📝 提示詞
+
+```
+A king, one man stands on the edge of tomorrow, crown lifted high as the future ignites before him. With fire in his spirit and vision in his gaze, he rises toward the stars. God’s not done with me yet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086250951057252352/img/ql3TVoV7fqRPDN2g.jpg" width="600" alt="King Rising Toward Stars">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8757)**
+
+**作者:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **來源:** [Link](https://x.com/AngieRamos2030/status/2086251074491384222) | **發布時間:** Aug 9, 2026
+
+---
+### Cracking Julius Caesar Statue Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A hyper-realistic cinematic prompt depicting a split-screen transformation where a marble statue of Julius Caesar begins to crack.
+
+#### 📝 提示詞
+
+```
+In a hyper-realistic photographic style, a split-screen image transforms as the left marble statue of Julius Caesar suddenly cracks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086244652299202560/img/ibQkf23BcW77TSMh.jpg" width="600" alt="Cracking Julius Caesar Statue Video">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8753)**
+
+**作者:** [Charity Spence](https://x.com/CharitySpence) | **來源:** [Link](https://x.com/CharitySpence/status/2086244664487932104) | **發布時間:** Aug 9, 2026
+
+---
+### Morphing Cycling Environment Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt that creates a morphing effect where a cyclist travels through different regions that transition randomly.
+
+#### 📝 提示詞
+
+```
+The cyclist is cycling through different regions, transitioning randomly every two seconds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086242876472582144/img/s1kPG1UOXbGJNEs3.jpg" width="600" alt="Morphing Cycling Environment Video">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8752)**
+
+**作者:** [AI Tales - Not by Humans](https://x.com/AITalesNBH) | **來源:** [Link](https://x.com/AITalesNBH/status/2086242925634101535) | **發布時間:** Aug 9, 2026
+
+---
+### Butterfly Landing on Child's Finger
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A peaceful park animation of a butterfly flying off and landing on a young girl's finger during a family picnic.
+
+#### 📝 提示詞
+
+```
+Have the butterfly fly off and land on a little young white girl finger. She is sitting on a blanket in a park with Mom and Dad also sitting on the picknick blanket. It is a beautifully day with birds in the air and area.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086178997390725120/img/HnNIV09e7q-mRU86.jpg" width="600" alt="Butterfly Landing on Child's Finger">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8755)**
+
+**作者:** [Carlos W Royal](https://x.com/carloswroyal) | **來源:** [Link](https://x.com/carloswroyal/status/2086179017233957087) | **發布時間:** Aug 8, 2026
+
+---
+### Segmented Scene Control Interaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An advanced video prompt using segmentation IDs to direct multiple interactions between a man, a robot sculpture, and a vehicle.
+
+#### 📝 提示詞
+
+```
+(Man with sunglasses) turns toward (red white blue robot sculpture) as the (red white blue robot sculpture dances. The (man in a light blue shirt) runs over to the (green vehicle) and begins to drive in in reverse, and then forward toward the dancing (red white blue robot sculpture)
+```
+
+<img src="https://cms-assets.youmind.com/media/1786263206666_tgyokf_HPNW-ReWcAAq5wy.jpg" width="600" alt="Segmented Scene Control Interaction">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8760)**
+
+**作者:** [The Qubits Guy](https://x.com/Toy_Maestro) | **來源:** [Link](https://x.com/Toy_Maestro/status/2086107661569831265) | **發布時間:** Aug 8, 2026
+
+---
+### Japanese Festival Night Scene
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A descriptive prompt creating a cinematic Japanese summer festival atmosphere with lanterns, yukata, and traditional music.
+
+#### 📝 提示詞
+
+```
+Many festival lanterns light up the night sky. I stand at the edge of a food stall, holding a fox mask in one hand. I am wearing a red, black, and yellow yukata. The sound of flutes and drums nearby makes my heart flutter. It feels so feminine. The scent of flowers seems to waft through the air. In a video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086073921938522112/img/u4xlGj3DD5no73wA.jpg" width="600" alt="Japanese Festival Night Scene">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8763)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **來源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2086073936845135977) | **發布時間:** Aug 8, 2026
+
+---
+### Giant Robot vs Sea Monster Cinematic Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed cinematic prompt for a video depicting a massive robot fighting a dinosaur-like sea creature during a nocturnal sea storm.
+
+#### 📝 提示詞
+
+```
+A combat robot hundreds of meters tall standing in the sea, with everything below its thighs underwater. The scene is at night with heavy rain. Five helicopters with searchlights are flying in circles around this huge robot, searching for unidentified objects underwater. The sea surface is surging with waves and strong winds. Suddenly, in an instant, a very large dinosaur-like aquatic creature emerges from under the sea and knocks down the robot with one palm strike.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086069163685199872/img/gk-aS3myUext6lgJ.jpg" width="600" alt="Giant Robot vs Sea Monster Cinematic Video">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8762)**
+
+**作者:** [广州水军](https://x.com/TidyFzy) | **來源:** [Link](https://x.com/TidyFzy/status/2086069405746971028) | **發布時間:** Aug 8, 2026
+
+---
 ### Futuristic Shinjuku Pelican on Bicycle
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -268,6 +464,37 @@ A magical bike ride through a Starry Night dreamscape, cherry blossoms glowing, 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8667)**
 
 **作者:** [Maer](https://x.com/Maer4real) | **來源:** [Link](https://x.com/Maer4real/status/2085582849575399884) | **發布時間:** Aug 7, 2026
+
+---
+### Late Night Study Vlog Korean Woman
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for generating a 10-second smartphone vlog of a Korean student studying late at night, featuring specific shot breakdowns and realistic lighting.
+
+#### 📝 提示詞
+
+```
+Ultra-realistic vertical smartphone video, 10 seconds. A beautiful young Korean woman is taking a short break while studying at her cozy desk late at night. She wears the same oversized light gray hoodie. Warm desk lamp lighting creates a comfortable atmosphere, with aesthetic wall posters, books, an open notebook, an iced coffee, and an open laptop in the background. The video is filmed with a handheld front-facing smartphone camera, featuring subtle natural movement and authentic smartphone autofocus.
+
+Shot 1 (0–2s): She adjusts the phone slightly as if she has just started recording, smiles softly, and blinks naturally while resting her chin on her sleeve.
+
+Shot 2 (2–4s): She glances toward her notebook, picks up a pen, underlines one sentence, then looks back at the camera with a tired but satisfied smile.
+
+Shot 3 (4–6s): She stretches her shoulders gently, brushes a loose strand of hair behind her ear, and exhales with a relaxed expression. The warm desk lamp creates soft highlights on her face.
+
+Shot 4 (6–8s): She reaches for the iced coffee, takes one small sip, sets it down naturally, then laughs quietly as if reacting to something off-camera.
+
+Shot 5 (8–10s): She gives a playful wink, points briefly toward the open notebook as if saying "back to studying," then smiles warmly at the camera before lowering her gaze and continuing to write.
+
+Style: Ultra-photorealistic, realistic smartphone selfie video, natural body language, authentic facial micro-expressions, subtle breathing, realistic blinking, accurate hand movement, lifelike hair physics, natural hoodie fabric movement, warm tungsten desk lamp, soft room ambience, smartphone autofocus breathing, slight handheld camera shake, shallow depth of field, cinematic yet authentic vlog aesthetic, HDR, 24 fps, 8K, no exaggerated expressions, no unrealistic camera motion, no AI artifacts.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085462976048549888/img/4A9Zonh4USg8hSxx.jpg" width="600" alt="Late Night Study Vlog Korean Woman">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8761)**
+
+**作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **來源:** [Link](https://x.com/iamahmedfaraz66/status/2085574151058677777) | **發布時間:** Aug 7, 2026
 
 ---
 ### East Asian Woman MiniDV Self-Filming in Tide Temple
@@ -380,6 +607,25 @@ A breathtaking aerial shot glides over Terafab, a colossal sci-fi megacity where
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8659)**
 
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2085534622176125238) | **發布時間:** Aug 7, 2026
+
+---
+### Handsome Idol Pavilion Dance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for generating a captivating dance performance by a handsome idol in a traditional setting.
+
+#### 📝 提示詞
+
+```
+The pavilion's beloved handsome idol performs his signature dance, leaving every wealthy young lady spellbound.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085525869980946432/img/3goOxSwvNLk50mXX.jpg" width="600" alt="Handsome Idol Pavilion Dance">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8759)**
+
+**作者:** [🌸 Bubskyy 🌸](https://x.com/NyaiiBubu) | **來源:** [Link](https://x.com/NyaiiBubu/status/2085526044019466464) | **發布時間:** Aug 7, 2026
 
 ---
 ### Surreal Beach Motion Scene
@@ -583,11 +829,11 @@ The man slowly reaches his free hand for the driver’s side door handle of the 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2085260396231832015) | **發布時間:** Aug 6, 2026
 
 ---
-### Cozy Bedroom Vlog Selfie
+### Cinematic Korean Bedroom Vlog
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed multi-shot prompt for a realistic vertical video of a woman in a cozy bedroom, designed to mimic a smartphone vlog.
+> A highly detailed multi-shot video prompt creating a realistic vlog-style sequence of a woman in a cozy bedroom with warm lighting.
 
 #### 📝 提示詞
 
@@ -607,7 +853,7 @@ Shot 5 (8–10s): Close-up selfie. She leans slightly closer to the camera, give
 Style: Ultra-photorealistic, natural facial expressions, realistic blinking, subtle breathing, lifelike hair physics, authentic smartphone handheld movement, warm ambient lighting, shallow depth of field, premium cinematic color grading, 24 fps, 8K, cozy Korean bedroom aesthetic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cozy Bedroom Vlog Selfie">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cinematic Korean Bedroom Vlog">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8613)**
 
@@ -2018,247 +2264,6 @@ First we have a goat swim by with scuba gear on and then we have a rooster swim 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2083324400044999154) | **發布時間:** Jul 31, 2026
 
 ---
-### 硬搖滾表演音樂影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於長篇硬搖滾表演的複雜電影級影片提示詞，包含對音訊同步、唇形同步及視覺穩定性的要求。
-
-#### 📝 提示詞
-
-```
-標題：CARD 13 — THE LAST HORSE
-
-格式：
-45 秒電影級硬搖滾表演
-16:9 寬螢幕
-原生同步立體聲音訊
-單一連續歌曲
-從頭到尾清晰的主唱人聲
-精準的唇形同步
-穩定的臉部、服裝與聲音...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083287009200623616/img/VF_S7OOefIPVpYLC.jpg" width="600" alt="硬搖滾表演音樂影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8253)**
-
-**作者:** [@TheCFormula credo.](https://x.com/TheCFormula) | **來源:** [Link](https://x.com/TheCFormula/status/2083287048039932018) | **發布時間:** Jul 31, 2026
-
----
-### 寫實人像光影
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 針對垂直 4K 影片的高對比、低調光影技術提示詞，專注於銳利的皮膚紋理與社群媒體內容的專業調色。
-
-#### 📝 提示詞
-
-```
-9:16 垂直構圖，4K 超清晰寫實畫質。低調光影風格，高對比度。冷色調背景與主體服裝形成強烈對比，突顯人物輪廓與皮膚光澤，呈現社群媒體短影音典型的銳利質感。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083190013555351552/img/HBLt2oDD3ePcZjd0.jpg" width="600" alt="寫實人像光影">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8258)**
-
-**作者:** [三杯吐然诺](https://x.com/r2i3c8k) | **來源:** [Link](https://x.com/r2i3c8k/status/2083190137786413133) | **發布時間:** Jul 31, 2026
-
----
-### 電影級動作打鬥場面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個極其詳細的提示詞，用於生成高能量、一鏡到底且具備真實物理效果與動態運鏡的武術打鬥場景。
-
-#### 📝 提示詞
-
-```
-無剪輯片段。無轉場。動態、高能量的特技打鬥序列。流暢、有力且具備電影感的動作，擁有極佳的動態清晰度。角色執行快節奏的武術連擊，包括迴旋踢、飛膝、空中翻轉、跑牆、跳躍、翻滾以及強力的擊倒動作。流暢、矯健且符合真實物理規律，每一次打擊都帶有強大的動能與重量感。動態運鏡——跟拍、環繞鏡頭、戲劇性角度，並在衝擊瞬間適時加入慢動作。高強度、優雅而強而有力的編排，極佳的流暢度與速度感。電影級光影，銳利的動作細節，無僵硬感，高度動態且令人興奮的打鬥場景，大師級品質，6 秒影片……高度動態且令人興奮的打鬥場景，流暢的動作，大師級品質，6 秒影片。任何進入場景的攻擊者都應身穿黑衣，且外貌各異。他們不應只是躺在地上，而是要參與戰鬥。她必須在戰鬥中保持自信，不可搖晃或站立不穩。優先考慮正確的物理規律，絕不為了虛構特技動作而模糊或放棄真實物理效果。保持畫面清晰乾淨。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083173742629261312/img/DkB8EMcO-9eK1a0C.jpg" width="600" alt="電影級動作打鬥場面">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8250)**
-
-**作者:** [Lala](https://x.com/keepgoingAnnie) | **來源:** [Link](https://x.com/keepgoingAnnie/status/2083184843173642443) | **發布時間:** Jul 31, 2026
-
----
-### 火星復甦場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿希望的火星電影級場景，描繪了在雙月之下，人們致力於讓這顆紅色星球重現生機的畫面。
-
-#### 📝 提示詞
-
-```
-夢迴火星，在那裡你可以自由呼吸，時光簡單而純粹，充滿了生命與奇蹟。
-
-這是一個充滿希望的火星場景，一位肯尼迪風格的女性與另一位身影站在雙月之下。背景中，人們正努力讓這顆紅色星球重現生機。她面向前方，堅定不移，迎接緩慢而溫柔的到來，柔和的月光輕輕地照亮了一切……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083155984940519425/img/loxYB3jdNrjyNMqu.jpg" width="600" alt="火星復甦場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8247)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2083170774140248169) | **發布時間:** Jul 31, 2026
-
----
-### 碎形巨型鯨魚與鯊魚
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一幅超現實的水下場景，色彩繽紛的巨型鯨魚與紅黑相間的鯊魚正游入畫面。
-
-#### 📝 提示詞
-
-```
-這到底是怎麼一回事，簡直是瘋狂的碎形星期五？
-
-此場景的最後三分之一處，展示了無數巨型鯨魚從兩側游入畫面。伴隨牠們出現的還有多種鯊魚。這些鯊魚呈現深紅色，並帶有黑色的腹部。鯨魚則擁有橫跨多種色彩的斑斕外觀……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083169242308812801/img/wmqpqhBMBFrv_jD6.jpg" width="600" alt="碎形巨型鯨魚與鯊魚">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8245)**
-
-**作者:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **來源:** [Link](https://x.com/PhilipC34457079/status/2083169323363762661) | **發布時間:** Jul 31, 2026
-
----
-### 生物發光海豚漩渦
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生動描述了發光海豚進入豐富河口內傳送漩渦的景象。
-
-#### 📝 提示詞
-
-```
-紫色與橘色的生物發光海豚 🐬 匯入了漩渦，那是一個通往豐饒河口的傳送門，為飢餓的鯨群提供滋養。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083167150387146752/img/og9eiurWnI7qNOJu.jpg" width="600" alt="生物發光海豚漩渦">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8256)**
-
-**作者:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **來源:** [Link](https://x.com/PhilipC34457079/status/2083167221199552705) | **發布時間:** Jul 31, 2026
-
----
-### 空靈芭蕾舞者花園之舞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段充滿詩意的影片提示詞，描繪了一位身著蕾絲舞裙的芭蕾舞者，在柔和光線下的白色花園中與螢火蟲共舞。
-
-#### 📝 提示詞
-
-```
-身著蕾絲舞裙的芭蕾舞者，在靜謐的光影中……一隻螢火蟲在白色花園裡緩緩飄動。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083158261063409664/img/OGuMgZHnRqIjJwIX.jpg" width="600" alt="空靈芭蕾舞者花園之舞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8257)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **來源:** [Link](https://x.com/StellaGrokStar/status/2083158317229301891) | **發布時間:** Jul 31, 2026
-
----
-### 新手女惡魔獵人視角
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段第一人稱視角的影片提示詞，描述一名新手惡魔獵人試圖用十字架制伏魅魔，結果對方卻發出輕笑。
-
-#### 📝 提示詞
-
-```
-一鏡到底。POV 視角。無對話。以一名新手女惡魔獵人進行首次狩獵的視角呈現。你走上前，將受過祝福的十字架舉向魅魔，本以為能將其制伏，沒想到她只是輕聲笑了出來。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083101439451099136/img/qPm3UFkJfQYOjO-b.jpg" width="600" alt="新手女惡魔獵人視角">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8175)**
-
-**作者:** [David](https://x.com/Mmmm8x5mMmmm) | **來源:** [Link](https://x.com/Mmmm8x5mMmmm/status/2083101713003696300) | **發布時間:** Jul 31, 2026
-
----
-### 羅姆人男子說話影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段動態影片提示詞，描述一名羅姆人男子對著鏡頭說匈牙利語，並伴隨逼真的手勢與表情。
-
-#### 📝 提示詞
-
-```
-這名留著捲髮與鬍鬚、外表粗獷的羅姆人男子直視鏡頭，嘴唇開合，以匈牙利語挑釁地說道：「Na mit bámulsz gádzsó? Kell valami?」，同時一隻手從口袋中伸出，做出細微的手勢。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083086054119370752/img/WOw9Bu5j41DD_TfS.jpg" width="600" alt="羅姆人男子說話影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8174)**
-
-**作者:** [Sic @ Warmer Sun](https://x.com/WarmerSun) | **來源:** [Link](https://x.com/WarmerSun/status/2083086074985976235) | **發布時間:** Jul 31, 2026
-
----
-### 被無人機上的牛群追趕的龍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個超現實且幽默的影片提示詞，描述了一條龍被戴著頭盔、駕駛懸浮無人機的牛群追趕的場景。
-
-#### 📝 提示詞
-
-```
-一條巨大的龍飛走了，兩頭戴著頭盔和護目鏡的牛駕駛著懸浮無人機在後方追趕牠
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083061216059310081/img/VCiZuM1P_l6bQWmT.jpg" width="600" alt="被無人機上的牛群追趕的龍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8255)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **來源:** [Link](https://x.com/RobinMurrat43a/status/2083061261697519754) | **發布時間:** Jul 31, 2026
-
----
-### 溫柔浪漫時刻影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個影片提示詞，描述了一名男子以古典鋼琴音樂安慰疲憊女子的溫馨場景。
-
-#### 📝 提示詞
-
-```
-無對話，背景播放柔和的古典鋼琴浪漫音樂，女子感到疲憊，男子陪伴在旁安慰她。無特寫鏡頭。溫柔浪漫的時刻。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083036936252346368/img/lgNewigovVyX8tm5.jpg" width="600" alt="溫柔浪漫時刻影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8254)**
-
-**作者:** [EM](https://x.com/MuSkYnEWsA3uyp) | **來源:** [Link](https://x.com/MuSkYnEWsA3uyp/status/2083037603889045553) | **發布時間:** Jul 31, 2026
-
----
-### 專業小貓 CEO 辦公室影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級的影片提示詞，描述一隻穿著西裝的專業小貓 CEO 在辦公室場景中眨眼、用筆敲擊桌面的動作。
-
-#### 📝 提示詞
-
-```
-穿著西裝的可愛小貓 CEO 緩慢地將頭微微轉向鏡頭，眼神流露出專業的專注感，刻意地眨了一下眼睛，接著舉起握著鋼筆的小爪子，戲劇性地在筆記型電腦上敲擊以強調重點。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083025324392996864/img/VT0l18fmaNvyaDWb.jpg" width="600" alt="專業小貓 CEO 辦公室影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8170)**
-
-**作者:** [GIXXER4820](https://x.com/DovelRandy) | **來源:** [Link](https://x.com/DovelRandy/status/2083025347658887665) | **發布時間:** Jul 31, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2320,6 +2325,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-09T05:29:40.648Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-09T09:12:46.414Z</sub>
 
 </div>
