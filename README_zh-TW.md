@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2386** |
+| 📝 提示詞總數 | **2408** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-08-10** |
 
@@ -189,6 +189,387 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Optimus Bot Rocket Space Trip
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt where a Tesla Optimus bot holds a woman's hand and they blast off together on a rocket.
+
+#### 📝 提示詞
+
+```
+Make Tesla bot Optimus cone up to her and grab her hand. They should also take off on a rocket 🚀 ship. Play music instead of talking.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086702645960466432/img/MPhQ0W3tWwQ-c3A1.jpg" width="600" alt="Optimus Bot Rocket Space Trip">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8832)**
+
+**作者:** [Diamondinrutx](https://x.com/diamondinrutx) | **來源:** [Link](https://x.com/diamondinrutx/status/2086702685068132463) | **發布時間:** Aug 10, 2026
+
+---
+### Elon Musk Sustainability Speech Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt where a stylized character delivers an inspiring quote about the path to a sustainable global economy.
+
+#### 📝 提示詞
+
+```
+recreate it with an X-Man version in picture form, make the character say: “Basically, the goal is to give people hope, realistic hope. Maybe hope is even the wrong word. Simply to say that there is a path to a fully sustainable, global economy. We are on that path, and we are accelerating that path. So long as we don't get complacent about it, it will happen.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086487298963898368/img/K9wJ82-CelDufhQX.jpg" width="600" alt="Elon Musk Sustainability Speech Video">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8840)**
+
+**作者:** [Optimistic Degen](https://x.com/OptimisticD3G3n) | **來源:** [Link](https://x.com/OptimisticD3G3n/status/2086639699268091914) | **發布時間:** Aug 10, 2026
+
+---
+### Grand Canyon Mustang Jump
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-action video prompt featuring a Ford Mustang and Land Cruiser performing a massive jump into a natural rock ramp in the Grand Canyon.
+
+#### 📝 提示詞
+
+```
+The black Ford Mustang GT and the beige Land Cruiser SUV from the reference image are now dropping into the biggest ramp on Earth: a massive, steep, curved natural rock halfpipe ramp carved into the Grand Canyon walls. Both vehicles accelerate hard d...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086597506889048064/img/Lx_RRKHoPEa-9L8b.jpg" width="600" alt="Grand Canyon Mustang Jump">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8839)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2086597536408621308) | **發布時間:** Aug 9, 2026
+
+---
+### Purple Rain Portrait Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video transformation prompt turning a hand-drawn pencil portrait into a stylized purple rain aesthetic video.
+
+#### 📝 提示詞
+
+```
+Transform this hand-drawn colored pencil portrait into a dreamy purple rain dream girl. Keep the exact same young woman with freckles, large turquoise-blue eyes, full pink lips, multi-colored blue-purple-gray shoulder-length hair, and pink hoop earrings...
+```
+
+<img src="https://cms-assets.youmind.com/media/1786349702764_278hhg_HPT6vX4WUAAw9oJ.jpg" width="600" alt="Purple Rain Portrait Transformation">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8833)**
+
+**作者:** [Tiffany Martin](https://x.com/TMartin061018) | **來源:** [Link](https://x.com/TMartin061018/status/2086568235772867020) | **發布時間:** Aug 9, 2026
+
+---
+### Elven Sorceress Museum Emergence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex, seamless sequence where an elven sorceress creates a magical portal to exit an oil painting and enter a photorealistic museum setting.
+
+#### 📝 提示詞
+
+```
+Start from the exact provided oil painting of the elegant elven sorceress with long flowing white hair, pointed ears, ornate deep purple and gold robes, and a swirling blue magical flame hovering above her open palm. In one continuous seamless 15-second sequence with smooth, elegant, flowing movement: She gracefully raises her hand and uses the blue flame like a brush to broadly draw a large tall elliptical portal of swirling blue and violet arcane energy with golden light trails and glowing rings in the air directly in front of her. The portal expands and solidifies into a shimmering magical gateway positioned between her and the viewer. She then steps forward through the glowing threshold, robes and hair flowing naturally. The camera smoothly follows her then performs a slow cinematic dolly pull-back, revealing that she has fully emerged from a large ornate gold-framed oil painting that remains firmly hanging on the wall of a grand classical museum gallery behind her. The painting on the wall now shows only the empty rocky platform and the original painted background — her figure is completely gone from the painting. She stands fully in the real museum space directly in front of the now-empty painting, with marble floors, high ceilings, soft warm lighting, and other artworks nearby. As she fully exits the portal into the museum in front of the empty painting, her appearance gradually and seamlessly transforms from the textured oil-painting brushstroke style and painterly lighting into a cinematic photorealistic version of herself. Only the rendering style changes — the thick brushstrokes dissolve into sharp realistic skin details, individual hair strands, and realistic fabric textures under natural museum lighting. The exact same ornate deep purple and gold robes, identical design, cut, gold embroidery patterns, blue gems, silhouette, and every clothing detail remain completely unchanged. The clothing does not morph, redesign, or alter in any way; it simply becomes photorealistic fabric while keeping every detail of the original painted outfit. Her exact likeness, facial features, hair, body proportions, and elegant posture are also perfectly preserved. The framed painting (now empty of her figure) and the wall stay clearly present and visible in the background behind her throughout the rest of the sequence. Continuous fluid camera and character motion, magical atmosphere, no cuts.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086559441113976832/img/der6v8cc__9Bwrui.jpg" width="600" alt="Elven Sorceress Museum Emergence">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8849)**
+
+**作者:** [AI Survivalist](https://x.com/SurviveWithAI) | **來源:** [Link](https://x.com/SurviveWithAI/status/2086559641131991233) | **發布時間:** Aug 9, 2026
+
+---
+### Ocean Sand Castle Builder
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt showing waves knocking down sandcastles before the ocean itself forms a house on the hills.
+
+#### 📝 提示詞
+
+```
+Create many beaches well of sand castles getting knocked over by the waves, and then the ocean itself becomes a builder that creates a house behind the hills up high
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086545900579815424/img/aa4J58dmuQrPB4MC.jpg" width="600" alt="Ocean Sand Castle Builder">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8841)**
+
+**作者:** [Margo](https://x.com/Margotrident) | **來源:** [Link](https://x.com/Margotrident/status/2086545945395855822) | **發布時間:** Aug 9, 2026
+
+---
+### Fluffy Lime Green Kitten and Frappe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cute video generation prompt featuring a lime green kitten next to a matching frappe against a coordinated aesthetic background.
+
+#### 📝 提示詞
+
+```
+Fluffy lime green kitten beside a fancy lime, green white and tan frappe. Beautiful background that matches.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086525589981196288/img/Z1w2BuemQAH0sUjb.jpg" width="600" alt="Fluffy Lime Green Kitten and Frappe">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8836)**
+
+**作者:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **來源:** [Link](https://x.com/JinxLovesCats/status/2086525626563891289) | **發布時間:** Aug 9, 2026
+
+---
+### Startup Comedy Stand-up Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A humorous video prompt for a startup founder performing stand-up comedy with an AI-themed joke.
+
+#### 📝 提示詞
+
+```
+a startup man doing stand up comedy in a small venue tells an AI founder startup investing joke with an absurd surprise (include the joke in the dialogue)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086515503158448129/img/EvzHQIDdpA5_FDHq.jpg" width="600" alt="Startup Comedy Stand-up Scene">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8850)**
+
+**作者:** [Yev Marusenko](https://x.com/DoctorYev) | **來源:** [Link](https://x.com/DoctorYev/status/2086515821497766106) | **發布時間:** Aug 9, 2026
+
+---
+### Forest Animal Scene Integration
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex video prompt for merging a character from one scene into a peaceful forest animal background.
+
+#### 📝 提示詞
+
+```
+Place the young Asian woman from the second image into the peaceful forest animal scene of the first image. Keep her exact appearance, face, dark hair in high bun, magenta fleece jacket, teal leggings and pink shoes. Have her sit calmly on a mossy fa...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086515214850134016/img/D8xf0Ww1Y-Ajcu0h.jpg" width="600" alt="Forest Animal Scene Integration">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8843)**
+
+**作者:** [Sunset](https://x.com/wanxia59) | **來源:** [Link](https://x.com/wanxia59/status/2086515228297101705) | **發布時間:** Aug 9, 2026
+
+---
+### Macrophage Microscopic Combat Game
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative prompt for a microscopic video game scene showing macrophages ingesting fibers in the GI tract.
+
+#### 📝 提示詞
+
+```
+Video game of macrophages seeking out and ingesting needle-like fibers, then breaking them down to harmless components. Level 2 -GI tract
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086510052525920256/img/kOgPhU-4FlUs9LVa.jpg" width="600" alt="Macrophage Microscopic Combat Game">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8831)**
+
+**作者:** [Renee Chicoine](https://x.com/Renerjoy) | **來源:** [Link](https://x.com/Renerjoy/status/2086510065754816861) | **發布時間:** Aug 9, 2026
+
+---
+### Adrenaline-Fueled Asian Woman in Cockpit
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed cinematic prompt for a short video showing an expressive Asian woman in a futuristic cockpit, capturing high-energy emotion and specific character movements.
+
+#### 📝 提示詞
+
+```
+<<<image_1>>> — Young Asian woman, short curly brown hair with bangs, silver glitter band-aid on the bridge of her nose, yellow latex crop top, beige cargo pants. <<<image_2>>> — Cockpit interior only: dark cramped space, control sticks on both sides of the seat, tech panels and cables on the bulkhead. Close-up in the cockpit — post-war calm and relaxed atmosphere — <<<image_1>>> sitting in the seat filled with pure adrenaline, eyes glowing. She looks around while speaking — vivid and natural. Gasps excitedly saying: "You should have seen this!" Pause — take a breath — "Pufffff—" then makes a heavy punch gesture in the air — arms moving slowly as if she's reenacting it in slow motion — facial expression recreating that epic moment — eyes wide — total comedic excitement. External background almost invisible — all attention focused on her. Camera full of life with a slight shake. Realistic. 16:9. 8 seconds. SFX only. Cinematic. Handheld. Heavy grain.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786349714513_wi5rlr_HPS0LGtbkAAGO7N.jpg" width="600" alt="Adrenaline-Fueled Asian Woman in Cockpit">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8846)**
+
+**作者:** [Loriel.AI](https://x.com/ou_zhen599) | **來源:** [Link](https://x.com/ou_zhen599/status/2086490782459191393) | **發布時間:** Aug 9, 2026
+
+---
+### Stand-up Comedy Marriage Joke
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video of a woman performing stand-up comedy in a small venue, focusing on her delivering a specific joke about marriage.
+
+#### 📝 提示詞
+
+```
+a woman doing stand up comedy in a small venue tells a marriage joke (include the joke in the dialogue)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086475665411330049/img/IBiQQ8_dXXbW4Yv0.jpg" width="600" alt="Stand-up Comedy Marriage Joke">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8835)**
+
+**作者:** [Min Choi](https://x.com/minchoi) | **來源:** [Link](https://x.com/minchoi/status/2086477829013692680) | **發布時間:** Aug 9, 2026
+
+---
+### Historical Character Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt featuring Olaf the White, Cherball MacDungail, and Ivar the Boneless in a shared scene.
+
+#### 📝 提示詞
+
+```
+Have Olaf the white standing next to Cherball MacDungail and Ivar the boneless with crutches.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086469845650923521/img/4n7kp3Y5OZOmT8uA.jpg" width="600" alt="Historical Character Scene">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8848)**
+
+**作者:** [🐕‍🦺Ðoge✝️Cherball🚀](https://x.com/DogeCherball) | **來源:** [Link](https://x.com/DogeCherball/status/2086469861975208241) | **發布時間:** Aug 9, 2026
+
+---
+### Futuristic Gold Figure Newspaper Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex cinematic prompt using JSON structure for a futuristic figure with a gold face against a newspaper background.
+
+#### 📝 提示詞
+
+```
+{"shot": {"motion_level": "low", "camera_depth": "medium close-up", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "abstract setting with a newspaper background", "environment": "The background consists of layered, out-of-focus newspaper pages with various headlines and images. The lighting is focused on the central figure, creating a high-contrast, spotlight effect."}, "cinematography": {"lighting": "artificial, focused lighting", "style": "futuristic, digital art with a retro-futuristic aesthetic", "texture": "glossy, metallic surfaces on the figure, matte and aged paper textures in the background", "depth_of_field": "shallow focus on foreground"}, "visual_details": {"objects": ["Futuristic figure: A figure with a glossy, gold-colored metallic face and head structure, glowing eyes, and a high ponytail with dark, braided or twisted hair. The figure wears a purple garment and has visible mechanical joints and components."], "positioning": ["The Futuristic figure is centered in the foreground of the frame, superimposed over a background of newspaper pages."], "text_elements": ["Headline text: Large, bold text at the top of the frame reads 'PROTOTYPE BREAKS THE MOLD! THE WORLD'S FIRST BLACK WOMAN TECH BILLIONAIRE!' in a vintage newspaper font style."]}, "motion": "The video begins with a Futuristic figure centered in the foreground, its glowing eyes fixed forward. The figure's head initiates a slow, deliberate turn to its right, accompanied by a subtle, mechanical whirring motion in its neck and facial components. As the head turns, the high ponytail of dark, braided hair sways gently from left to right in a smooth, arcing trajectory, following the head's movement. The glowing elements within the figure's eyes and facial structure pulse with a steady, rhythmic intensity, casting shifting reflections on its glossy, gold-colored metallic surfaces. The figure's upper body makes minor, synchronized adjustments, with mechanical joints in the neck and shoulders moving fluidly. (no dialogue)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086435106856816640/img/2VXLnleuVblX-zsc.jpg" width="600" alt="Futuristic Gold Figure Newspaper Video">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8851)**
+
+**作者:** [PRⓞTⓄTYPE LIVE](https://x.com/PrototypeLive) | **來源:** [Link](https://x.com/PrototypeLive/status/2086435623993581615) | **發布時間:** Aug 9, 2026
+
+---
+### Cinematic Japanese Street Documentary
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video script for a 16mm gritty documentary-style shot of a woman walking through a Japanese street.
+
+#### 📝 提示詞
+
+```
+[STYLE + CAMERA + ATMOSPHERE]
+
+Gritty 16mm cinéma vérité, authentic documentary footage from a lived-in contemporary Japanese street with strong pseudo-feudal aesthetics. Organic film grain, pure natural daylight mixed with soft red paper lantern glow and subtle modern neon from traditional wooden storefronts, heavy shoulder-mounted handheld shake, no stabilization, soft focus falls, subtle light leaks, raw and elegant, lived-in realism. Continuous imperfect handheld observation, camera constantly breathing and shifting with aggressive energy.
+
+[TIMELINE SECOND BY SECOND]
+
+0-1.5s: [Close Handheld Tracking] Young Japanese woman in aggressive urban streetwear (asymmetrical short black hair with undercut, cropped black tactical jacket over layered tank, baggy cargo pants with straps, heavy combat boots, silver chains, fierce natural expression) strides forward with powerful posture down a narrow stone-paved street lined with traditional wooden merchant houses, noren curtains and hanging lanterns. Camera stays tight on her sharp profile and upper body. She glances sideways with quiet intensity.
+
+1.5-3s: [Unsteady Following Shot] She cuts through a small flow of pedestrians in mixed modern and traditional-inspired work clothes. Camera stays close behind and to the side, bouncing hard with every step. A delivery bicycle weaves past; she adjusts her path without slowing, eyes locked ahead.
+
+3-4.5s: [Handheld Medium] A group of schoolkids on bikes suddenly cuts across her path. She steps aside with fluid aggression, locks eyes with the nearest kid for a half-second of hard mutual recognition, then continues. Plaza energy remains chaotic around her.
+
+4.5-6s: [Raw Side Tracking] Camera swings unsteadily to her side as she passes an open-front traditional workshop. A craftsman looks up; she gives a barely perceptible nod without breaking stride. Light shifts across her face, chains and hair as the camera breathes with her movement.
+
+6-7.5s: [Close Imperfect Push] She slows near a small street stall selling grilled skewers under a weathered wooden sign. Buys one with a quick cash exchange, takes a bite while still moving. Camera stays tight, catching the ordinary transaction and her unguarded micro-expression.
+
+7.5-9s: [Unsteady Following] She resumes walking under the shadow of an elevated modern walkway that crosses the old street. A long group of office workers parts slightly as she passes through them without acknowledgment. Residual motion and city hum everywhere.
+
+9-10.5s: [Raw Tracking] Camera stays close and imperfect as she moves past flickering lanterns and a row of rounded modern scooters parked against wooden facades. Her gait remains strong and uninterrupted, face catching shifting daylight and soft red glow.
+
+10.5-12s: [Handheld Side] She steps aside for a moment against a weathered stone pillar near a small shrine gate, watches the street flow for one second with a quiet, grounded look, then pushes off again at
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086421646814990336/img/lFHIYl_JXrw6Wu0h.jpg" width="600" alt="Cinematic Japanese Street Documentary">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8842)**
+
+**作者:** [TechHalla](https://x.com/techhalla) | **來源:** [Link](https://x.com/techhalla/status/2086421987602121205) | **發布時間:** Aug 9, 2026
+
+---
+### Jackie Chan Style Action Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-energy video prompt generating a martial arts fight scene in a market in the style of Jackie Chan.
+
+#### 📝 提示詞
+
+```
+Majid from the photo running and fighting a strong evil man, full Jackie Chan style, 15 seconds
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086364681753763840/img/zNwEEQcMCy34R-j7.jpg" width="600" alt="Jackie Chan Style Action Sequence">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8834)**
+
+**作者:** [Khalid Ali Al Hajri](https://x.com/KhalidAliAlHaj2) | **來源:** [Link](https://x.com/KhalidAliAlHaj2/status/2086364740545376535) | **發布時間:** Aug 9, 2026
+
+---
+### Magical Fairytale Garden Adventure
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical video prompt describing a first-person walk through a magical garden filled with songbirds and butterflies.
+
+#### 📝 提示詞
+
+```
+I am walking through a beautiful magical garden. There are song birds and butterflies. I am having a fairytale adventure.….
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086340282811895808/img/5LezjLkV4W5YrfIf.jpg" width="600" alt="Magical Fairytale Garden Adventure">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8838)**
+
+**作者:** [Diana J](https://x.com/DianaJ5858) | **來源:** [Link](https://x.com/DianaJ5858/status/2086340297546440810) | **發布時間:** Aug 9, 2026
+
+---
+### Cozy Indoor Profile Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed instruction to transform a personal photo into a stylized cozy indoor profile video while maintaining facial identity.
+
+#### 📝 提示詞
+
+```
+Transform this photo into a cozy indoors profile picture of the exact same young woman. Keep her face geometry, proportions, green eyes, nose, mouth, jawline, fair skin tone with natural texture and pores, long straight black hair with bangs, exact h...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086334736171970560/img/nldH8TI6aJwIeoep.jpg" width="600" alt="Cozy Indoor Profile Transformation">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8837)**
+
+**作者:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **來源:** [Link](https://x.com/AngieRamos2030/status/2086334770317807765) | **發布時間:** Aug 9, 2026
+
+---
+### Mad Max Chaos Frog Car
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt generating a vehicle inspired by Mad Max but stylized as an 'angry frog car' with unique features.
+
+#### 📝 提示詞
+
+```
+This is a mad max looking car but it’s the chaos angry frog car  whith a lot of cool stuff
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086323023393779712/img/c2zqAMuFct15OkCG.jpg" width="600" alt="Mad Max Chaos Frog Car">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8844)**
+
+**作者:** [Marys Flowers](https://x.com/Marycottagefarm) | **來源:** [Link](https://x.com/Marycottagefarm/status/2086323060739801213) | **發布時間:** Aug 9, 2026
+
+---
 ### Ballerina on Top of the World
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +587,25 @@ A ballerina dancing on top of the world in no way to evoke fear but to ellicit s
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8754)**
 
 **作者:** [Emily Morsello](https://x.com/EmilyMorsello) | **來源:** [Link](https://x.com/EmilyMorsello/status/2086292179002044861) | **發布時間:** Aug 9, 2026
+
+---
+### Abstract Painting Motion Synthesis
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt that mixes visual references of paintings and fabrics into a new motion piece.
+
+#### 📝 提示詞
+
+```
+Photo of 2 Neurolink paintings in process. Photo of those wet "Autonomism" producing fabrics in basement. Mix, move, and create.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786349722503_um2067_HPP8OZDXwAABnOp.jpg" width="600" alt="Abstract Painting Motion Synthesis">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8852)**
+
+**作者:** [Lisa Renko](https://x.com/LanaSuccess11) | **來源:** [Link](https://x.com/LanaSuccess11/status/2086288455403798909) | **發布時間:** Aug 9, 2026
 
 ---
 ### Tesla Optimus Seawall Construction
@@ -227,11 +627,11 @@ Tesla Optimus does Autonomous modular seawall construction on actively subsiding
 **作者:** [Luis E. De Pombo](https://x.com/luisdepombo) | **來源:** [Link](https://x.com/luisdepombo/status/2086280358161424832) | **發布時間:** Aug 9, 2026
 
 ---
-### Bioluminescent Crystal Flower 3D Render
+### Bioluminescent Crystal Flower Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video prompt for a glowing crystal flower floating in space with realistic light scattering and reflections.
+> A high-quality, descriptive prompt for a cinematic 3D render of a glowing crystal flower in deep space.
 
 #### 📝 提示詞
 
@@ -245,7 +645,7 @@ A subtle, sparse starfield appears in the distant background, keeping the focus 
 Aspect Ratio: 16:9
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086274733796962304/img/y4hoHUZIUl9aojK-.jpg" width="600" alt="Bioluminescent Crystal Flower 3D Render">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086274733796962304/img/y4hoHUZIUl9aojK-.jpg" width="600" alt="Bioluminescent Crystal Flower Video">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8758)**
 
@@ -290,11 +690,30 @@ In a hyper-realistic photographic style, a split-screen image transforms as the 
 **作者:** [Charity Spence](https://x.com/CharitySpence) | **來源:** [Link](https://x.com/CharitySpence/status/2086244664487932104) | **發布時間:** Aug 9, 2026
 
 ---
-### Morphing Cycling Environment Video
+### Surreal Loop of Dancing Lady
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt that creates a morphing effect where a cyclist travels through different regions that transition randomly.
+> Generates a surreal infinite loop of a dancing lady in an ornamental pattern style, featuring a swirling petalstorm and a saturated harmonious palette.
+
+#### 📝 提示詞
+
+```
+a dancing lady beside a tree amid a swirling petalstorm, with a bird and clouds in a void and an infinite loop surreal scene, rendered in pattern and decoration style with dense ornamental motifs, arabesques, florals, tessellations, saturated harmonious palette, glittering fabric textures, all‑over decorative field
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086244318935760896/img/1MENS9CB8qDIqyAO.jpg" width="600" alt="Surreal Loop of Dancing Lady">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8847)**
+
+**作者:** [Tina ♡ 💫](https://x.com/Tina22_2) | **來源:** [Link](https://x.com/Tina22_2/status/2086244619738591374) | **發布時間:** Aug 9, 2026
+
+---
+### Cycling Through Regions Transition
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for creating a sequence of a cyclist traveling through various regions with a random transition every two seconds.
 
 #### 📝 提示詞
 
@@ -302,11 +721,30 @@ In a hyper-realistic photographic style, a split-screen image transforms as the 
 The cyclist is cycling through different regions, transitioning randomly every two seconds.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086242876472582144/img/s1kPG1UOXbGJNEs3.jpg" width="600" alt="Morphing Cycling Environment Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086242876472582144/img/s1kPG1UOXbGJNEs3.jpg" width="600" alt="Cycling Through Regions Transition">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8752)**
 
 **作者:** [AI Tales - Not by Humans](https://x.com/AITalesNBH) | **來源:** [Link](https://x.com/AITalesNBH/status/2086242925634101535) | **發布時間:** Aug 9, 2026
+
+---
+### Comic Book Superhero Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Creates a classic comic book style animation of a muscular superhero flying away from a collapsing bridge with dramatic cape movement and vibrant colors.
+
+#### 📝 提示詞
+
+```
+In classic comic book animation style with bold outlines and vibrant colors, the muscular superhero flies powerfully forward and upward away from the collapsing bridge, his red cape billowing dramatically in the wind. Debris, concrete chunks, and spa...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086221960225116160/img/sFKT5RFcQTfQ_frK.jpg" width="600" alt="Comic Book Superhero Flight">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8845)**
+
+**作者:** [Kathleen Higney](https://x.com/krhigney) | **來源:** [Link](https://x.com/krhigney/status/2086222003980091899) | **發布時間:** Aug 8, 2026
 
 ---
 ### Butterfly Landing on Child's Finger
@@ -1841,429 +2279,6 @@ top of the flower expand purple violet colour and make the tree in image of popp
 **作者:** [KENDREIK Artist](https://x.com/kendreik) | **來源:** [Link](https://x.com/kendreik/status/2083927255609180410) | **發布時間:** Aug 2, 2026
 
 ---
-### Dragon of Entropy and Fire
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing a dragon carrying sky ice while flying through smoke and fire.
-
-#### 📝 提示詞
-
-```
-Flames, and flowing Entropy and in the midst of it—the dragon appears holding a glowing chunk of the sky ice, clutched in its talons, and it flies through the entropic cloud of fire and smoke breathing a column of fire out, the moment resonates. As y...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083926074531131392/img/Wp19ti_7v0tsK_qC.jpg" width="600" alt="Dragon of Entropy and Fire">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8406)**
-
-**作者:** [🔥🐲τηε DξρΙθΓαβΙξ DΓΑΩθη🔥🐉](https://x.com/thedepldrgn) | **來源:** [Link](https://x.com/thedepldrgn/status/2083926195163607207) | **發布時間:** Aug 2, 2026
-
----
-### Archeologist Exploration Reveal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A slow camera push-in video prompt showing a female explorer clearing moss from a carved stone wall.
-
-#### 📝 提示詞
-
-```
-Slow camera push-in from a slightly low angle as the female explorer carefully clears soft moss and earth from the carved stone wall with gentle deliberate movements, dirt and dust particles falling away to slowly reveal more of the conceal...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083909841475559424/img/jwGlkoh_zcbaNobo.jpg" width="600" alt="Archeologist Exploration Reveal">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8402)**
-
-**作者:** [Jayne](https://x.com/JayneJaxon8) | **來源:** [Link](https://x.com/JayneJaxon8/status/2083909914045432128) | **發布時間:** Aug 2, 2026
-
----
-### Prison Horror Exorcism
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dark horror video prompt featuring teenagers exorcising a cannibalistic officer in a deserted prison.
-
-#### 📝 提示詞
-
-```
-A group of teenagers are drawn into a deserted prison by nightmarish visions, where they try to exorcise a cannibalistic cavalry officer.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083855863132164096/img/E6cTPZx0TdGrRzu8.jpg" width="600" alt="Prison Horror Exorcism">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8410)**
-
-**作者:** [David Williams](https://x.com/DavidWilliamsYN) | **來源:** [Link](https://x.com/DavidWilliamsYN/status/2083855894685823030) | **發布時間:** Aug 2, 2026
-
----
-### Underwater Swimming Interaction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine that creates an immersive underwater scene where a character acknowledges the viewer and swims along.
-
-#### 📝 提示詞
-
-```
-Swim with her underwater; she knows you're there and is happy to take you along. Swim with her underwater, she knows you are there and is happy to take you along.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083816384979722240/img/2Y--4wmbalFpQMGh.jpg" width="600" alt="Underwater Swimming Interaction">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8327)**
-
-**作者:** [Loriel.AI](https://x.com/ou_zhen599) | **來源:** [Link](https://x.com/ou_zhen599/status/2083817091115962494) | **發布時間:** Aug 2, 2026
-
----
-### Athletic Glamour Gymnastics Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for an athletic character with a bodybuilder tan performing gymnastics in a glamorous outfit.
-
-#### 📝 提示詞
-
-```
-Primarily I’m seeking a more Athletic build with a body builder tan along with the exaggerated Gymnastic move despite her wearing a glamorous outfit!!!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083758305495711744/img/LW_wpPBzBeEYoqGN.jpg" width="600" alt="Athletic Glamour Gymnastics Prompt">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8324)**
-
-**作者:** [Steve Maynard](https://x.com/Sbm3Steve) | **來源:** [Link](https://x.com/Sbm3Steve/status/2083758331160576379) | **發布時間:** Aug 2, 2026
-
----
-### Cosmic Guitar Morph
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video morphing prompt transforming a subject into a cosmic-themed Gibson ES-335 guitar.
-
-#### 📝 提示詞
-
-```
-Have the fun morph into a Gibson es-335 guitar with a cool cosmic themed paint job
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083754711358828544/img/AUaSj8qkbaCAb5BV.jpg" width="600" alt="Cosmic Guitar Morph">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8400)**
-
-**作者:** [Mike Hellings](https://x.com/mikehellings) | **來源:** [Link](https://x.com/mikehellings/status/2083754739632603474) | **發布時間:** Aug 2, 2026
-
----
-### Steampunk Woman Discussing BCI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video of a steampunk-styled woman wearing a monocle while discussing brain-computer interface discoveries for medical treatment.
-
-#### 📝 提示詞
-
-```
-Create a video of a steampunk woman in a short skirt and knee highs wearing a monocle talking about her latest discovery in brain computer interfaces for treatment resistant depression.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083712641189466112/img/P-ulVrcKW_4FA98m.jpg" width="600" alt="Steampunk Woman Discussing BCI">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8321)**
-
-**作者:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **來源:** [Link](https://x.com/DrJGiddensRN/status/2083712659195593094) | **發布時間:** Aug 2, 2026
-
----
-### Space Elevator Psychedelic Cells
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An immersive interior view of space elevator cells featuring multi-colored swirling lights and iridescent patterns.
-
-#### 📝 提示詞
-
-```
-Immersive interior of the space elevator's graphene hydrogen-filled cells, a wavy multi-level pathway spiraling upward through a psychedelic dreamscape of multi-colors dominated by rich purple and violet swirling lights, iridescent patterns and glowi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083671273515761664/img/PrVFknZ_2MER0XlB.jpg" width="600" alt="Space Elevator Psychedelic Cells">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8404)**
-
-**作者:** [KENDREIK Artist](https://x.com/kendreik) | **來源:** [Link](https://x.com/kendreik/status/2083671287277187094) | **發布時間:** Aug 1, 2026
-
----
-### Ocean Dragon and Wildlife
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An animation prompt involving a dragon, a crow, and a butterfly in a sunny meadow.
-
-#### 📝 提示詞
-
-```
-Dragon the colors of the ocean laying on a grassy hillside stands up stretches and flexes muscles rippling on the morning sun
-Add black crow and yellow butterfly fluttering above dragon
-Move butterfly to hover over crow
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083579822731849728/img/KAe7itdMEQo-00wJ.jpg" width="600" alt="Ocean Dragon and Wildlife">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8325)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2083579899462508849) | **發布時間:** Aug 1, 2026
-
----
-### Frustrated Mobile Use with Gloves Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A character looks at their mobile phone and realizes they cannot interact with it due to wearing gloves that they are unable to remove.
-
-#### 📝 提示詞
-
-```
-Look at the mobile phone and discover that they cannot use the mobile phone because of the gloves that cannot be removed
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083564274614480896/img/80dvrye78kDVV1Ea.jpg" width="600" alt="Frustrated Mobile Use with Gloves Video">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8326)**
-
-**作者:** [ᛁᛖᛋᚢᛋ ᛘᛅᚱᛏᛁᚾᛖᛋ ᚷᚢᚾᛋᛅᛚᛁᛋ](https://x.com/jemagomoen) | **來源:** [Link](https://x.com/jemagomoen/status/2083564305333592437) | **發布時間:** Aug 1, 2026
-
----
-### Instant Vertical Liftoff Car
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt describing a futuristic vehicle capable of vertical liftoff for near-instantaneous travel.
-
-#### 📝 提示詞
-
-```
-The car is propelled to a speed that enables it to vertically lift off making the commute almost instantaneous. It is always first on the scene with a near 100% arrest of culprits rate.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083553644964667392/img/68AsQcCK8PHi1wUY.jpg" width="600" alt="Instant Vertical Liftoff Car">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8322)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2083553676233171218) | **發布時間:** Aug 1, 2026
-
----
-### Loving Winter Snow Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic and descriptive prompt for a serene winter video showing snow kissing the fields.
-
-#### 📝 提示詞
-
-```
-I wonder if the snow loves the trees and fields, since it kisses them so gently? And then it wraps them up snugly—you know, in a white blanket—and perhaps says: 'Sleep, my dears, until summer returns.'
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083553414911242240/img/O-EgYhgPlemZA6La.jpg" width="600" alt="Loving Winter Snow Scene">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8481)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **來源:** [Link](https://x.com/monicamoonx/status/2083553651541393653) | **發布時間:** Aug 1, 2026
-
----
-### Cinematic Face Close-Up Drinking Through Straw
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt for a close-up shot of a woman sipping through a straw with micro-expressions and neon bokeh background.
-
-#### 📝 提示詞
-
-```
-Extreme close-up of her face. She takes one last slow sip through the straw. Soft knowing smile forms, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Subtle natural micro movements of face and sip. Shallow depth of field, creamy bokeh of neon diner behind her, heavy natural film grain, soft light, photorealistic cinematic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083462160819089408/img/MtwpQQQmRz_3cZC1.jpg" width="600" alt="Cinematic Face Close-Up Drinking Through Straw">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8320)**
-
-**作者:** [Fabiano Firmo](https://x.com/FabianoFirmo) | **來源:** [Link](https://x.com/FabianoFirmo/status/2083462182482616830) | **發布時間:** Aug 1, 2026
-
----
-### 發光的 Android 機械動態
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個詳細的電影級提示詞，描述一個擁有發光青色電路紋路與明亮藍色雙眼的類人型 Android 轉向鏡頭。
-
-#### 📝 提示詞
-
-```
-類人型 Android 伴隨著細微的機械運轉聲緩慢地將頭轉向鏡頭，其明亮的藍色雙眼愈發耀眼，青色的電路紋路沿著身體脈動並閃爍著更強的光芒。隨後，它邁出了沉穩的一步，同時鏡頭緩緩地……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083457142128775168/img/LrgStZAV5EJgLMxe.jpg" width="600" alt="發光的 Android 機械動態">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8244)**
-
-**作者:** [Jacek](https://x.com/iadventurejacek) | **來源:** [Link](https://x.com/iadventurejacek/status/2083457179588133310) | **發布時間:** Aug 1, 2026
-
----
-### 在黑洞上溜直排輪
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段超現實的影片提示詞，描繪了一個人在黑洞表面溜直排輪，並向其中心移動的場景。
-
-#### 📝 提示詞
-
-```
-某人穿著直排輪，在黑洞表面如同在堅實地面般快速滑行，並逐漸靠近黑洞中心
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083424503581884416/img/4pNiW-LwkZrdm5Ck.jpg" width="600" alt="在黑洞上溜直排輪">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8246)**
-
-**作者:** [Ryan Fogle](https://x.com/fogle_ryan) | **來源:** [Link](https://x.com/fogle_ryan/status/2083424826077634830) | **發布時間:** Aug 1, 2026
-
----
-### 月球上的彩虹波浪
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級的影片提示詞，描述彩虹色的波浪在波光粼粼的雲層下，於月球表面翻湧。
-
-#### 📝 提示詞
-
-```
-彩虹漣漪雲層翻湧 
-
-彩虹 🌈 波浪 🌊 在月球 🌕 表面滾動。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083392628662444032/img/f_jZIl7_UwaO2pVj.jpg" width="600" alt="月球上的彩虹波浪">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8242)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2083392643111723029) | **發布時間:** Aug 1, 2026
-
----
-### 夢幻舞會禮服影片變身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個角色變身提示詞，能在保持面部一致性的同時，將簡單的服裝演變為飄逸、充滿魔力的夢幻禮服。
-
-#### 📝 提示詞
-
-```
-同一位年輕女性，保持相同的舞廳姿勢，留著金色雙馬尾，繫著藍色緞帶，手持發光的魔法捲軸，面部特徵、表情與背景完全一致。將她的服裝變身為令人驚豔的夢幻魔法舞會禮服：飄逸且半透明的層次感...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083371734892531712/img/ak5b5j2Nft_Cm6CX.jpg" width="600" alt="夢幻舞會禮服影片變身">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8251)**
-
-**作者:** [シェルティソーラ](https://x.com/mioarashidaisuk) | **來源:** [Link](https://x.com/mioarashidaisuk/status/2083371756593824145) | **發布時間:** Aug 1, 2026
-
----
-### 冰島深夜瀑布
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個絕美的風景提示詞，描繪凌晨 2 點冰島瀑布上方，極光在天空中舞動的景象。
-
-#### 📝 提示詞
-
-```
-站在凌晨 2 點冰島冰冷的瀑布下，極光在漆黑的夜空中狂野地舞動。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083352929319149568/img/Oq0TSnBwRL2Gj8vi.jpg" width="600" alt="冰島深夜瀑布">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8249)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2083352972671484273) | **發布時間:** Aug 1, 2026
-
----
-### 抽象智能形式系統
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個高概念的提示詞，用於製作一段連續的影片序列，將智能呈現為一個自我審視的壓縮形式系統。
-
-#### 📝 提示詞
-
-```
-創作一段單一連續的影片（無剪輯），這不是對智能的描繪，而是一個壓縮的形式系統，即智能正在審視其自身運作的理論極限——並隨時間推移而展開。
-整個序列必須源自 stri...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083340214701899776/img/v8SR9mhjIc7NJcql.jpg" width="600" alt="抽象智能形式系統">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8252)**
-
-**作者:** [David Pittman](https://x.com/BlitzedOstrich) | **來源:** [Link](https://x.com/BlitzedOstrich/status/2083340486324924611) | **發布時間:** Jul 31, 2026
-
----
-### Scuba Diving Goat and Rooster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal video prompt showing a goat and a rooster swimming by while wearing scuba gear.
-
-#### 📝 提示詞
-
-```
-First we have a goat swim by with scuba gear on and then we have a rooster swim by with scuba gear on
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083334853811220480/img/vr8NcRjDQxWp38si.jpg" width="600" alt="Scuba Diving Goat and Rooster">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8323)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **來源:** [Link](https://x.com/RobinMurrat43a/status/2083334993196237139) | **發布時間:** Jul 31, 2026
-
----
-### 咖啡星座的想像力
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個超現實的動畫提示詞，描述熱咖啡激發了想像力，將繁星排列成星座的過程。
-
-#### 📝 提示詞
-
-```
-熱咖啡直衝想像力的喉嚨，想像力隨即運作，利用熱咖啡帶來的能量，將天空中的繁星排列成星座。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083325815266168832/img/EiK4SROYGFuR0F9W.jpg" width="600" alt="咖啡星座的想像力">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8248)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2083325838875926622) | **發布時間:** Jul 31, 2026
-
----
-### 黑咖啡倒入特寫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級的影片提示詞，展示咖啡倒入杯中的過程，聚焦於其質感與色澤。
-
-#### 📝 提示詞
-
-```
-我正將純淨、完美的黑咖啡直接倒入杯中，只留下最精華的部分。濃郁、深邃、滑順……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083324383238504448/img/dB3x38Cd4ngTBCvo.jpg" width="600" alt="黑咖啡倒入特寫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8243)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2083324400044999154) | **發布時間:** Jul 31, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2325,6 +2340,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-10T05:56:11.488Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-10T09:57:55.479Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2386** |
+| 📝 プロンプト総数 | **2408** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-08-10** |
 
@@ -189,6 +189,387 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Optimus Bot Rocket Space Trip
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt where a Tesla Optimus bot holds a woman's hand and they blast off together on a rocket.
+
+#### 📝 プロンプト
+
+```
+Make Tesla bot Optimus cone up to her and grab her hand. They should also take off on a rocket 🚀 ship. Play music instead of talking.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086702645960466432/img/MPhQ0W3tWwQ-c3A1.jpg" width="600" alt="Optimus Bot Rocket Space Trip">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8832)**
+
+**作者:** [Diamondinrutx](https://x.com/diamondinrutx) | **ソース:** [Link](https://x.com/diamondinrutx/status/2086702685068132463) | **公開日:** Aug 10, 2026
+
+---
+### Elon Musk Sustainability Speech Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt where a stylized character delivers an inspiring quote about the path to a sustainable global economy.
+
+#### 📝 プロンプト
+
+```
+recreate it with an X-Man version in picture form, make the character say: “Basically, the goal is to give people hope, realistic hope. Maybe hope is even the wrong word. Simply to say that there is a path to a fully sustainable, global economy. We are on that path, and we are accelerating that path. So long as we don't get complacent about it, it will happen.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086487298963898368/img/K9wJ82-CelDufhQX.jpg" width="600" alt="Elon Musk Sustainability Speech Video">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8840)**
+
+**作者:** [Optimistic Degen](https://x.com/OptimisticD3G3n) | **ソース:** [Link](https://x.com/OptimisticD3G3n/status/2086639699268091914) | **公開日:** Aug 10, 2026
+
+---
+### Grand Canyon Mustang Jump
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-action video prompt featuring a Ford Mustang and Land Cruiser performing a massive jump into a natural rock ramp in the Grand Canyon.
+
+#### 📝 プロンプト
+
+```
+The black Ford Mustang GT and the beige Land Cruiser SUV from the reference image are now dropping into the biggest ramp on Earth: a massive, steep, curved natural rock halfpipe ramp carved into the Grand Canyon walls. Both vehicles accelerate hard d...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086597506889048064/img/Lx_RRKHoPEa-9L8b.jpg" width="600" alt="Grand Canyon Mustang Jump">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8839)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2086597536408621308) | **公開日:** Aug 9, 2026
+
+---
+### Purple Rain Portrait Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video transformation prompt turning a hand-drawn pencil portrait into a stylized purple rain aesthetic video.
+
+#### 📝 プロンプト
+
+```
+Transform this hand-drawn colored pencil portrait into a dreamy purple rain dream girl. Keep the exact same young woman with freckles, large turquoise-blue eyes, full pink lips, multi-colored blue-purple-gray shoulder-length hair, and pink hoop earrings...
+```
+
+<img src="https://cms-assets.youmind.com/media/1786349702764_278hhg_HPT6vX4WUAAw9oJ.jpg" width="600" alt="Purple Rain Portrait Transformation">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8833)**
+
+**作者:** [Tiffany Martin](https://x.com/TMartin061018) | **ソース:** [Link](https://x.com/TMartin061018/status/2086568235772867020) | **公開日:** Aug 9, 2026
+
+---
+### Elven Sorceress Museum Emergence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex, seamless sequence where an elven sorceress creates a magical portal to exit an oil painting and enter a photorealistic museum setting.
+
+#### 📝 プロンプト
+
+```
+Start from the exact provided oil painting of the elegant elven sorceress with long flowing white hair, pointed ears, ornate deep purple and gold robes, and a swirling blue magical flame hovering above her open palm. In one continuous seamless 15-second sequence with smooth, elegant, flowing movement: She gracefully raises her hand and uses the blue flame like a brush to broadly draw a large tall elliptical portal of swirling blue and violet arcane energy with golden light trails and glowing rings in the air directly in front of her. The portal expands and solidifies into a shimmering magical gateway positioned between her and the viewer. She then steps forward through the glowing threshold, robes and hair flowing naturally. The camera smoothly follows her then performs a slow cinematic dolly pull-back, revealing that she has fully emerged from a large ornate gold-framed oil painting that remains firmly hanging on the wall of a grand classical museum gallery behind her. The painting on the wall now shows only the empty rocky platform and the original painted background — her figure is completely gone from the painting. She stands fully in the real museum space directly in front of the now-empty painting, with marble floors, high ceilings, soft warm lighting, and other artworks nearby. As she fully exits the portal into the museum in front of the empty painting, her appearance gradually and seamlessly transforms from the textured oil-painting brushstroke style and painterly lighting into a cinematic photorealistic version of herself. Only the rendering style changes — the thick brushstrokes dissolve into sharp realistic skin details, individual hair strands, and realistic fabric textures under natural museum lighting. The exact same ornate deep purple and gold robes, identical design, cut, gold embroidery patterns, blue gems, silhouette, and every clothing detail remain completely unchanged. The clothing does not morph, redesign, or alter in any way; it simply becomes photorealistic fabric while keeping every detail of the original painted outfit. Her exact likeness, facial features, hair, body proportions, and elegant posture are also perfectly preserved. The framed painting (now empty of her figure) and the wall stay clearly present and visible in the background behind her throughout the rest of the sequence. Continuous fluid camera and character motion, magical atmosphere, no cuts.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086559441113976832/img/der6v8cc__9Bwrui.jpg" width="600" alt="Elven Sorceress Museum Emergence">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8849)**
+
+**作者:** [AI Survivalist](https://x.com/SurviveWithAI) | **ソース:** [Link](https://x.com/SurviveWithAI/status/2086559641131991233) | **公開日:** Aug 9, 2026
+
+---
+### Ocean Sand Castle Builder
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt showing waves knocking down sandcastles before the ocean itself forms a house on the hills.
+
+#### 📝 プロンプト
+
+```
+Create many beaches well of sand castles getting knocked over by the waves, and then the ocean itself becomes a builder that creates a house behind the hills up high
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086545900579815424/img/aa4J58dmuQrPB4MC.jpg" width="600" alt="Ocean Sand Castle Builder">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8841)**
+
+**作者:** [Margo](https://x.com/Margotrident) | **ソース:** [Link](https://x.com/Margotrident/status/2086545945395855822) | **公開日:** Aug 9, 2026
+
+---
+### Fluffy Lime Green Kitten and Frappe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cute video generation prompt featuring a lime green kitten next to a matching frappe against a coordinated aesthetic background.
+
+#### 📝 プロンプト
+
+```
+Fluffy lime green kitten beside a fancy lime, green white and tan frappe. Beautiful background that matches.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086525589981196288/img/Z1w2BuemQAH0sUjb.jpg" width="600" alt="Fluffy Lime Green Kitten and Frappe">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8836)**
+
+**作者:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **ソース:** [Link](https://x.com/JinxLovesCats/status/2086525626563891289) | **公開日:** Aug 9, 2026
+
+---
+### Startup Comedy Stand-up Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A humorous video prompt for a startup founder performing stand-up comedy with an AI-themed joke.
+
+#### 📝 プロンプト
+
+```
+a startup man doing stand up comedy in a small venue tells an AI founder startup investing joke with an absurd surprise (include the joke in the dialogue)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086515503158448129/img/EvzHQIDdpA5_FDHq.jpg" width="600" alt="Startup Comedy Stand-up Scene">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8850)**
+
+**作者:** [Yev Marusenko](https://x.com/DoctorYev) | **ソース:** [Link](https://x.com/DoctorYev/status/2086515821497766106) | **公開日:** Aug 9, 2026
+
+---
+### Forest Animal Scene Integration
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex video prompt for merging a character from one scene into a peaceful forest animal background.
+
+#### 📝 プロンプト
+
+```
+Place the young Asian woman from the second image into the peaceful forest animal scene of the first image. Keep her exact appearance, face, dark hair in high bun, magenta fleece jacket, teal leggings and pink shoes. Have her sit calmly on a mossy fa...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086515214850134016/img/D8xf0Ww1Y-Ajcu0h.jpg" width="600" alt="Forest Animal Scene Integration">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8843)**
+
+**作者:** [Sunset](https://x.com/wanxia59) | **ソース:** [Link](https://x.com/wanxia59/status/2086515228297101705) | **公開日:** Aug 9, 2026
+
+---
+### Macrophage Microscopic Combat Game
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative prompt for a microscopic video game scene showing macrophages ingesting fibers in the GI tract.
+
+#### 📝 プロンプト
+
+```
+Video game of macrophages seeking out and ingesting needle-like fibers, then breaking them down to harmless components. Level 2 -GI tract
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086510052525920256/img/kOgPhU-4FlUs9LVa.jpg" width="600" alt="Macrophage Microscopic Combat Game">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8831)**
+
+**作者:** [Renee Chicoine](https://x.com/Renerjoy) | **ソース:** [Link](https://x.com/Renerjoy/status/2086510065754816861) | **公開日:** Aug 9, 2026
+
+---
+### Adrenaline-Fueled Asian Woman in Cockpit
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed cinematic prompt for a short video showing an expressive Asian woman in a futuristic cockpit, capturing high-energy emotion and specific character movements.
+
+#### 📝 プロンプト
+
+```
+<<<image_1>>> — Young Asian woman, short curly brown hair with bangs, silver glitter band-aid on the bridge of her nose, yellow latex crop top, beige cargo pants. <<<image_2>>> — Cockpit interior only: dark cramped space, control sticks on both sides of the seat, tech panels and cables on the bulkhead. Close-up in the cockpit — post-war calm and relaxed atmosphere — <<<image_1>>> sitting in the seat filled with pure adrenaline, eyes glowing. She looks around while speaking — vivid and natural. Gasps excitedly saying: "You should have seen this!" Pause — take a breath — "Pufffff—" then makes a heavy punch gesture in the air — arms moving slowly as if she's reenacting it in slow motion — facial expression recreating that epic moment — eyes wide — total comedic excitement. External background almost invisible — all attention focused on her. Camera full of life with a slight shake. Realistic. 16:9. 8 seconds. SFX only. Cinematic. Handheld. Heavy grain.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786349714513_wi5rlr_HPS0LGtbkAAGO7N.jpg" width="600" alt="Adrenaline-Fueled Asian Woman in Cockpit">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8846)**
+
+**作者:** [Loriel.AI](https://x.com/ou_zhen599) | **ソース:** [Link](https://x.com/ou_zhen599/status/2086490782459191393) | **公開日:** Aug 9, 2026
+
+---
+### Stand-up Comedy Marriage Joke
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video of a woman performing stand-up comedy in a small venue, focusing on her delivering a specific joke about marriage.
+
+#### 📝 プロンプト
+
+```
+a woman doing stand up comedy in a small venue tells a marriage joke (include the joke in the dialogue)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086475665411330049/img/IBiQQ8_dXXbW4Yv0.jpg" width="600" alt="Stand-up Comedy Marriage Joke">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8835)**
+
+**作者:** [Min Choi](https://x.com/minchoi) | **ソース:** [Link](https://x.com/minchoi/status/2086477829013692680) | **公開日:** Aug 9, 2026
+
+---
+### Historical Character Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt featuring Olaf the White, Cherball MacDungail, and Ivar the Boneless in a shared scene.
+
+#### 📝 プロンプト
+
+```
+Have Olaf the white standing next to Cherball MacDungail and Ivar the boneless with crutches.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086469845650923521/img/4n7kp3Y5OZOmT8uA.jpg" width="600" alt="Historical Character Scene">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8848)**
+
+**作者:** [🐕‍🦺Ðoge✝️Cherball🚀](https://x.com/DogeCherball) | **ソース:** [Link](https://x.com/DogeCherball/status/2086469861975208241) | **公開日:** Aug 9, 2026
+
+---
+### Futuristic Gold Figure Newspaper Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex cinematic prompt using JSON structure for a futuristic figure with a gold face against a newspaper background.
+
+#### 📝 プロンプト
+
+```
+{"shot": {"motion_level": "low", "camera_depth": "medium close-up", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "abstract setting with a newspaper background", "environment": "The background consists of layered, out-of-focus newspaper pages with various headlines and images. The lighting is focused on the central figure, creating a high-contrast, spotlight effect."}, "cinematography": {"lighting": "artificial, focused lighting", "style": "futuristic, digital art with a retro-futuristic aesthetic", "texture": "glossy, metallic surfaces on the figure, matte and aged paper textures in the background", "depth_of_field": "shallow focus on foreground"}, "visual_details": {"objects": ["Futuristic figure: A figure with a glossy, gold-colored metallic face and head structure, glowing eyes, and a high ponytail with dark, braided or twisted hair. The figure wears a purple garment and has visible mechanical joints and components."], "positioning": ["The Futuristic figure is centered in the foreground of the frame, superimposed over a background of newspaper pages."], "text_elements": ["Headline text: Large, bold text at the top of the frame reads 'PROTOTYPE BREAKS THE MOLD! THE WORLD'S FIRST BLACK WOMAN TECH BILLIONAIRE!' in a vintage newspaper font style."]}, "motion": "The video begins with a Futuristic figure centered in the foreground, its glowing eyes fixed forward. The figure's head initiates a slow, deliberate turn to its right, accompanied by a subtle, mechanical whirring motion in its neck and facial components. As the head turns, the high ponytail of dark, braided hair sways gently from left to right in a smooth, arcing trajectory, following the head's movement. The glowing elements within the figure's eyes and facial structure pulse with a steady, rhythmic intensity, casting shifting reflections on its glossy, gold-colored metallic surfaces. The figure's upper body makes minor, synchronized adjustments, with mechanical joints in the neck and shoulders moving fluidly. (no dialogue)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086435106856816640/img/2VXLnleuVblX-zsc.jpg" width="600" alt="Futuristic Gold Figure Newspaper Video">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8851)**
+
+**作者:** [PRⓞTⓄTYPE LIVE](https://x.com/PrototypeLive) | **ソース:** [Link](https://x.com/PrototypeLive/status/2086435623993581615) | **公開日:** Aug 9, 2026
+
+---
+### Cinematic Japanese Street Documentary
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video script for a 16mm gritty documentary-style shot of a woman walking through a Japanese street.
+
+#### 📝 プロンプト
+
+```
+[STYLE + CAMERA + ATMOSPHERE]
+
+Gritty 16mm cinéma vérité, authentic documentary footage from a lived-in contemporary Japanese street with strong pseudo-feudal aesthetics. Organic film grain, pure natural daylight mixed with soft red paper lantern glow and subtle modern neon from traditional wooden storefronts, heavy shoulder-mounted handheld shake, no stabilization, soft focus falls, subtle light leaks, raw and elegant, lived-in realism. Continuous imperfect handheld observation, camera constantly breathing and shifting with aggressive energy.
+
+[TIMELINE SECOND BY SECOND]
+
+0-1.5s: [Close Handheld Tracking] Young Japanese woman in aggressive urban streetwear (asymmetrical short black hair with undercut, cropped black tactical jacket over layered tank, baggy cargo pants with straps, heavy combat boots, silver chains, fierce natural expression) strides forward with powerful posture down a narrow stone-paved street lined with traditional wooden merchant houses, noren curtains and hanging lanterns. Camera stays tight on her sharp profile and upper body. She glances sideways with quiet intensity.
+
+1.5-3s: [Unsteady Following Shot] She cuts through a small flow of pedestrians in mixed modern and traditional-inspired work clothes. Camera stays close behind and to the side, bouncing hard with every step. A delivery bicycle weaves past; she adjusts her path without slowing, eyes locked ahead.
+
+3-4.5s: [Handheld Medium] A group of schoolkids on bikes suddenly cuts across her path. She steps aside with fluid aggression, locks eyes with the nearest kid for a half-second of hard mutual recognition, then continues. Plaza energy remains chaotic around her.
+
+4.5-6s: [Raw Side Tracking] Camera swings unsteadily to her side as she passes an open-front traditional workshop. A craftsman looks up; she gives a barely perceptible nod without breaking stride. Light shifts across her face, chains and hair as the camera breathes with her movement.
+
+6-7.5s: [Close Imperfect Push] She slows near a small street stall selling grilled skewers under a weathered wooden sign. Buys one with a quick cash exchange, takes a bite while still moving. Camera stays tight, catching the ordinary transaction and her unguarded micro-expression.
+
+7.5-9s: [Unsteady Following] She resumes walking under the shadow of an elevated modern walkway that crosses the old street. A long group of office workers parts slightly as she passes through them without acknowledgment. Residual motion and city hum everywhere.
+
+9-10.5s: [Raw Tracking] Camera stays close and imperfect as she moves past flickering lanterns and a row of rounded modern scooters parked against wooden facades. Her gait remains strong and uninterrupted, face catching shifting daylight and soft red glow.
+
+10.5-12s: [Handheld Side] She steps aside for a moment against a weathered stone pillar near a small shrine gate, watches the street flow for one second with a quiet, grounded look, then pushes off again at
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086421646814990336/img/lFHIYl_JXrw6Wu0h.jpg" width="600" alt="Cinematic Japanese Street Documentary">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8842)**
+
+**作者:** [TechHalla](https://x.com/techhalla) | **ソース:** [Link](https://x.com/techhalla/status/2086421987602121205) | **公開日:** Aug 9, 2026
+
+---
+### Jackie Chan Style Action Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-energy video prompt generating a martial arts fight scene in a market in the style of Jackie Chan.
+
+#### 📝 プロンプト
+
+```
+Majid from the photo running and fighting a strong evil man, full Jackie Chan style, 15 seconds
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086364681753763840/img/zNwEEQcMCy34R-j7.jpg" width="600" alt="Jackie Chan Style Action Sequence">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8834)**
+
+**作者:** [Khalid Ali Al Hajri](https://x.com/KhalidAliAlHaj2) | **ソース:** [Link](https://x.com/KhalidAliAlHaj2/status/2086364740545376535) | **公開日:** Aug 9, 2026
+
+---
+### Magical Fairytale Garden Adventure
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical video prompt describing a first-person walk through a magical garden filled with songbirds and butterflies.
+
+#### 📝 プロンプト
+
+```
+I am walking through a beautiful magical garden. There are song birds and butterflies. I am having a fairytale adventure.….
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086340282811895808/img/5LezjLkV4W5YrfIf.jpg" width="600" alt="Magical Fairytale Garden Adventure">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8838)**
+
+**作者:** [Diana J](https://x.com/DianaJ5858) | **ソース:** [Link](https://x.com/DianaJ5858/status/2086340297546440810) | **公開日:** Aug 9, 2026
+
+---
+### Cozy Indoor Profile Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed instruction to transform a personal photo into a stylized cozy indoor profile video while maintaining facial identity.
+
+#### 📝 プロンプト
+
+```
+Transform this photo into a cozy indoors profile picture of the exact same young woman. Keep her face geometry, proportions, green eyes, nose, mouth, jawline, fair skin tone with natural texture and pores, long straight black hair with bangs, exact h...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086334736171970560/img/nldH8TI6aJwIeoep.jpg" width="600" alt="Cozy Indoor Profile Transformation">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8837)**
+
+**作者:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **ソース:** [Link](https://x.com/AngieRamos2030/status/2086334770317807765) | **公開日:** Aug 9, 2026
+
+---
+### Mad Max Chaos Frog Car
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt generating a vehicle inspired by Mad Max but stylized as an 'angry frog car' with unique features.
+
+#### 📝 プロンプト
+
+```
+This is a mad max looking car but it’s the chaos angry frog car  whith a lot of cool stuff
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086323023393779712/img/c2zqAMuFct15OkCG.jpg" width="600" alt="Mad Max Chaos Frog Car">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8844)**
+
+**作者:** [Marys Flowers](https://x.com/Marycottagefarm) | **ソース:** [Link](https://x.com/Marycottagefarm/status/2086323060739801213) | **公開日:** Aug 9, 2026
+
+---
 ### Ballerina on Top of the World
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +587,25 @@ A ballerina dancing on top of the world in no way to evoke fear but to ellicit s
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8754)**
 
 **作者:** [Emily Morsello](https://x.com/EmilyMorsello) | **ソース:** [Link](https://x.com/EmilyMorsello/status/2086292179002044861) | **公開日:** Aug 9, 2026
+
+---
+### Abstract Painting Motion Synthesis
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt that mixes visual references of paintings and fabrics into a new motion piece.
+
+#### 📝 プロンプト
+
+```
+Photo of 2 Neurolink paintings in process. Photo of those wet "Autonomism" producing fabrics in basement. Mix, move, and create.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786349722503_um2067_HPP8OZDXwAABnOp.jpg" width="600" alt="Abstract Painting Motion Synthesis">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8852)**
+
+**作者:** [Lisa Renko](https://x.com/LanaSuccess11) | **ソース:** [Link](https://x.com/LanaSuccess11/status/2086288455403798909) | **公開日:** Aug 9, 2026
 
 ---
 ### Tesla Optimus Seawall Construction
@@ -227,11 +627,11 @@ Tesla Optimus does Autonomous modular seawall construction on actively subsiding
 **作者:** [Luis E. De Pombo](https://x.com/luisdepombo) | **ソース:** [Link](https://x.com/luisdepombo/status/2086280358161424832) | **公開日:** Aug 9, 2026
 
 ---
-### Bioluminescent Crystal Flower 3D Render
+### Bioluminescent Crystal Flower Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video prompt for a glowing crystal flower floating in space with realistic light scattering and reflections.
+> A high-quality, descriptive prompt for a cinematic 3D render of a glowing crystal flower in deep space.
 
 #### 📝 プロンプト
 
@@ -245,7 +645,7 @@ A subtle, sparse starfield appears in the distant background, keeping the focus 
 Aspect Ratio: 16:9
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086274733796962304/img/y4hoHUZIUl9aojK-.jpg" width="600" alt="Bioluminescent Crystal Flower 3D Render">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086274733796962304/img/y4hoHUZIUl9aojK-.jpg" width="600" alt="Bioluminescent Crystal Flower Video">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8758)**
 
@@ -290,11 +690,30 @@ In a hyper-realistic photographic style, a split-screen image transforms as the 
 **作者:** [Charity Spence](https://x.com/CharitySpence) | **ソース:** [Link](https://x.com/CharitySpence/status/2086244664487932104) | **公開日:** Aug 9, 2026
 
 ---
-### Morphing Cycling Environment Video
+### Surreal Loop of Dancing Lady
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt that creates a morphing effect where a cyclist travels through different regions that transition randomly.
+> Generates a surreal infinite loop of a dancing lady in an ornamental pattern style, featuring a swirling petalstorm and a saturated harmonious palette.
+
+#### 📝 プロンプト
+
+```
+a dancing lady beside a tree amid a swirling petalstorm, with a bird and clouds in a void and an infinite loop surreal scene, rendered in pattern and decoration style with dense ornamental motifs, arabesques, florals, tessellations, saturated harmonious palette, glittering fabric textures, all‑over decorative field
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086244318935760896/img/1MENS9CB8qDIqyAO.jpg" width="600" alt="Surreal Loop of Dancing Lady">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8847)**
+
+**作者:** [Tina ♡ 💫](https://x.com/Tina22_2) | **ソース:** [Link](https://x.com/Tina22_2/status/2086244619738591374) | **公開日:** Aug 9, 2026
+
+---
+### Cycling Through Regions Transition
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for creating a sequence of a cyclist traveling through various regions with a random transition every two seconds.
 
 #### 📝 プロンプト
 
@@ -302,11 +721,30 @@ In a hyper-realistic photographic style, a split-screen image transforms as the 
 The cyclist is cycling through different regions, transitioning randomly every two seconds.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086242876472582144/img/s1kPG1UOXbGJNEs3.jpg" width="600" alt="Morphing Cycling Environment Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086242876472582144/img/s1kPG1UOXbGJNEs3.jpg" width="600" alt="Cycling Through Regions Transition">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8752)**
 
 **作者:** [AI Tales - Not by Humans](https://x.com/AITalesNBH) | **ソース:** [Link](https://x.com/AITalesNBH/status/2086242925634101535) | **公開日:** Aug 9, 2026
+
+---
+### Comic Book Superhero Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Creates a classic comic book style animation of a muscular superhero flying away from a collapsing bridge with dramatic cape movement and vibrant colors.
+
+#### 📝 プロンプト
+
+```
+In classic comic book animation style with bold outlines and vibrant colors, the muscular superhero flies powerfully forward and upward away from the collapsing bridge, his red cape billowing dramatically in the wind. Debris, concrete chunks, and spa...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086221960225116160/img/sFKT5RFcQTfQ_frK.jpg" width="600" alt="Comic Book Superhero Flight">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8845)**
+
+**作者:** [Kathleen Higney](https://x.com/krhigney) | **ソース:** [Link](https://x.com/krhigney/status/2086222003980091899) | **公開日:** Aug 8, 2026
 
 ---
 ### Butterfly Landing on Child's Finger
@@ -1841,429 +2279,6 @@ top of the flower expand purple violet colour and make the tree in image of popp
 **作者:** [KENDREIK Artist](https://x.com/kendreik) | **ソース:** [Link](https://x.com/kendreik/status/2083927255609180410) | **公開日:** Aug 2, 2026
 
 ---
-### Dragon of Entropy and Fire
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing a dragon carrying sky ice while flying through smoke and fire.
-
-#### 📝 プロンプト
-
-```
-Flames, and flowing Entropy and in the midst of it—the dragon appears holding a glowing chunk of the sky ice, clutched in its talons, and it flies through the entropic cloud of fire and smoke breathing a column of fire out, the moment resonates. As y...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083926074531131392/img/Wp19ti_7v0tsK_qC.jpg" width="600" alt="Dragon of Entropy and Fire">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8406)**
-
-**作者:** [🔥🐲τηε DξρΙθΓαβΙξ DΓΑΩθη🔥🐉](https://x.com/thedepldrgn) | **ソース:** [Link](https://x.com/thedepldrgn/status/2083926195163607207) | **公開日:** Aug 2, 2026
-
----
-### Archeologist Exploration Reveal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A slow camera push-in video prompt showing a female explorer clearing moss from a carved stone wall.
-
-#### 📝 プロンプト
-
-```
-Slow camera push-in from a slightly low angle as the female explorer carefully clears soft moss and earth from the carved stone wall with gentle deliberate movements, dirt and dust particles falling away to slowly reveal more of the conceal...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083909841475559424/img/jwGlkoh_zcbaNobo.jpg" width="600" alt="Archeologist Exploration Reveal">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8402)**
-
-**作者:** [Jayne](https://x.com/JayneJaxon8) | **ソース:** [Link](https://x.com/JayneJaxon8/status/2083909914045432128) | **公開日:** Aug 2, 2026
-
----
-### Prison Horror Exorcism
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dark horror video prompt featuring teenagers exorcising a cannibalistic officer in a deserted prison.
-
-#### 📝 プロンプト
-
-```
-A group of teenagers are drawn into a deserted prison by nightmarish visions, where they try to exorcise a cannibalistic cavalry officer.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083855863132164096/img/E6cTPZx0TdGrRzu8.jpg" width="600" alt="Prison Horror Exorcism">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8410)**
-
-**作者:** [David Williams](https://x.com/DavidWilliamsYN) | **ソース:** [Link](https://x.com/DavidWilliamsYN/status/2083855894685823030) | **公開日:** Aug 2, 2026
-
----
-### Underwater Swimming Interaction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine that creates an immersive underwater scene where a character acknowledges the viewer and swims along.
-
-#### 📝 プロンプト
-
-```
-Swim with her underwater; she knows you're there and is happy to take you along. Swim with her underwater, she knows you are there and is happy to take you along.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083816384979722240/img/2Y--4wmbalFpQMGh.jpg" width="600" alt="Underwater Swimming Interaction">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8327)**
-
-**作者:** [Loriel.AI](https://x.com/ou_zhen599) | **ソース:** [Link](https://x.com/ou_zhen599/status/2083817091115962494) | **公開日:** Aug 2, 2026
-
----
-### Athletic Glamour Gymnastics Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for an athletic character with a bodybuilder tan performing gymnastics in a glamorous outfit.
-
-#### 📝 プロンプト
-
-```
-Primarily I’m seeking a more Athletic build with a body builder tan along with the exaggerated Gymnastic move despite her wearing a glamorous outfit!!!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083758305495711744/img/LW_wpPBzBeEYoqGN.jpg" width="600" alt="Athletic Glamour Gymnastics Prompt">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8324)**
-
-**作者:** [Steve Maynard](https://x.com/Sbm3Steve) | **ソース:** [Link](https://x.com/Sbm3Steve/status/2083758331160576379) | **公開日:** Aug 2, 2026
-
----
-### Cosmic Guitar Morph
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video morphing prompt transforming a subject into a cosmic-themed Gibson ES-335 guitar.
-
-#### 📝 プロンプト
-
-```
-Have the fun morph into a Gibson es-335 guitar with a cool cosmic themed paint job
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083754711358828544/img/AUaSj8qkbaCAb5BV.jpg" width="600" alt="Cosmic Guitar Morph">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8400)**
-
-**作者:** [Mike Hellings](https://x.com/mikehellings) | **ソース:** [Link](https://x.com/mikehellings/status/2083754739632603474) | **公開日:** Aug 2, 2026
-
----
-### Steampunk Woman Discussing BCI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video of a steampunk-styled woman wearing a monocle while discussing brain-computer interface discoveries for medical treatment.
-
-#### 📝 プロンプト
-
-```
-Create a video of a steampunk woman in a short skirt and knee highs wearing a monocle talking about her latest discovery in brain computer interfaces for treatment resistant depression.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083712641189466112/img/P-ulVrcKW_4FA98m.jpg" width="600" alt="Steampunk Woman Discussing BCI">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8321)**
-
-**作者:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **ソース:** [Link](https://x.com/DrJGiddensRN/status/2083712659195593094) | **公開日:** Aug 2, 2026
-
----
-### Space Elevator Psychedelic Cells
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An immersive interior view of space elevator cells featuring multi-colored swirling lights and iridescent patterns.
-
-#### 📝 プロンプト
-
-```
-Immersive interior of the space elevator's graphene hydrogen-filled cells, a wavy multi-level pathway spiraling upward through a psychedelic dreamscape of multi-colors dominated by rich purple and violet swirling lights, iridescent patterns and glowi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083671273515761664/img/PrVFknZ_2MER0XlB.jpg" width="600" alt="Space Elevator Psychedelic Cells">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8404)**
-
-**作者:** [KENDREIK Artist](https://x.com/kendreik) | **ソース:** [Link](https://x.com/kendreik/status/2083671287277187094) | **公開日:** Aug 1, 2026
-
----
-### Ocean Dragon and Wildlife
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An animation prompt involving a dragon, a crow, and a butterfly in a sunny meadow.
-
-#### 📝 プロンプト
-
-```
-Dragon the colors of the ocean laying on a grassy hillside stands up stretches and flexes muscles rippling on the morning sun
-Add black crow and yellow butterfly fluttering above dragon
-Move butterfly to hover over crow
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083579822731849728/img/KAe7itdMEQo-00wJ.jpg" width="600" alt="Ocean Dragon and Wildlife">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8325)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2083579899462508849) | **公開日:** Aug 1, 2026
-
----
-### Frustrated Mobile Use with Gloves Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A character looks at their mobile phone and realizes they cannot interact with it due to wearing gloves that they are unable to remove.
-
-#### 📝 プロンプト
-
-```
-Look at the mobile phone and discover that they cannot use the mobile phone because of the gloves that cannot be removed
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083564274614480896/img/80dvrye78kDVV1Ea.jpg" width="600" alt="Frustrated Mobile Use with Gloves Video">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8326)**
-
-**作者:** [ᛁᛖᛋᚢᛋ ᛘᛅᚱᛏᛁᚾᛖᛋ ᚷᚢᚾᛋᛅᛚᛁᛋ](https://x.com/jemagomoen) | **ソース:** [Link](https://x.com/jemagomoen/status/2083564305333592437) | **公開日:** Aug 1, 2026
-
----
-### Instant Vertical Liftoff Car
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt describing a futuristic vehicle capable of vertical liftoff for near-instantaneous travel.
-
-#### 📝 プロンプト
-
-```
-The car is propelled to a speed that enables it to vertically lift off making the commute almost instantaneous. It is always first on the scene with a near 100% arrest of culprits rate.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083553644964667392/img/68AsQcCK8PHi1wUY.jpg" width="600" alt="Instant Vertical Liftoff Car">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8322)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2083553676233171218) | **公開日:** Aug 1, 2026
-
----
-### Loving Winter Snow Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic and descriptive prompt for a serene winter video showing snow kissing the fields.
-
-#### 📝 プロンプト
-
-```
-I wonder if the snow loves the trees and fields, since it kisses them so gently? And then it wraps them up snugly—you know, in a white blanket—and perhaps says: 'Sleep, my dears, until summer returns.'
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083553414911242240/img/O-EgYhgPlemZA6La.jpg" width="600" alt="Loving Winter Snow Scene">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8481)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2083553651541393653) | **公開日:** Aug 1, 2026
-
----
-### Cinematic Face Close-Up Drinking Through Straw
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt for a close-up shot of a woman sipping through a straw with micro-expressions and neon bokeh background.
-
-#### 📝 プロンプト
-
-```
-Extreme close-up of her face. She takes one last slow sip through the straw. Soft knowing smile forms, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Subtle natural micro movements of face and sip. Shallow depth of field, creamy bokeh of neon diner behind her, heavy natural film grain, soft light, photorealistic cinematic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083462160819089408/img/MtwpQQQmRz_3cZC1.jpg" width="600" alt="Cinematic Face Close-Up Drinking Through Straw">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8320)**
-
-**作者:** [Fabiano Firmo](https://x.com/FabianoFirmo) | **ソース:** [Link](https://x.com/FabianoFirmo/status/2083462182482616830) | **公開日:** Aug 1, 2026
-
----
-### 光り輝くアンドロイドのメカニカルな動き
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 光るシアン色の回路ラインと発光する青い瞳を持ち、カメラの方を向く人型アンドロイドのための詳細なシネマティックプロンプト。
-
-#### 📝 プロンプト
-
-```
-人型アンドロイドがかすかな機械音を立てながらゆっくりとカメラの方へ顔を向け、その青く光る瞳が輝きを増すと同時に、体中のシアン色の回路ラインが脈動し、より明るく発光します。そしてアンドロイドが慎重に一歩前へ踏み出すと、カメラはゆっくりと...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083457142128775168/img/LrgStZAV5EJgLMxe.jpg" width="600" alt="光り輝くアンドロイドのメカニカルな動き">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8244)**
-
-**作者:** [Jacek](https://x.com/iadventurejacek) | **ソース:** [Link](https://x.com/iadventurejacek/status/2083457179588133310) | **公開日:** Aug 1, 2026
-
----
-### ブラックホールでのローラースケート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ブラックホールの表面をローラースケートで滑りながら、中心部へと向かっていく人物を描いたシュールな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-ブラックホールの表面をまるで固い地面であるかのようにローラースケートで滑走し、中心部へと近づいていく様子
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083424503581884416/img/4pNiW-LwkZrdm5Ck.jpg" width="600" alt="ブラックホールでのローラースケート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8246)**
-
-**作者:** [Ryan Fogle](https://x.com/fogle_ryan) | **ソース:** [Link](https://x.com/fogle_ryan/status/2083424826077634830) | **公開日:** Aug 1, 2026
-
----
-### 月面に広がる虹色の波
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 揺らめく雲の下、月面を虹色の波が押し寄せる様子を描いたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-虹色に波打つ雲が押し寄せる 
-
-虹色 🌈 の波 🌊 が月 🌕 の表面を駆け抜ける。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083392628662444032/img/f_jZIl7_UwaO2pVj.jpg" width="600" alt="月面に広がる虹色の波">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8242)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2083392643111723029) | **公開日:** Aug 1, 2026
-
----
-### 魔法のボールガウンへのビデオ変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> シンプルな衣装を幻想的で魔法のようなドレスへと変化させつつ、顔の整合性を維持するキャラクター変身用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-同じボールルームのポーズをとる、同じ若い女性。ツインテールのブロンドヘア、青いリボン、光り輝く魔法の巻物、同一の顔立ち、表情、背景を維持。彼女のドレスを、息をのむような魔法のボールガウンへと変身させる：幻想的で半透明なレイ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083371734892531712/img/ak5b5j2Nft_Cm6CX.jpg" width="600" alt="魔法のボールガウンへのビデオ変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8251)**
-
-**作者:** [シェルティソーラ](https://x.com/mioarashidaisuk) | **ソース:** [Link](https://x.com/mioarashidaisuk/status/2083371756593824145) | **公開日:** Aug 1, 2026
-
----
-### 夜のアイスランドの滝
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 午前 2 時のアイスランドの滝と、空に舞うオーロラを描いた美しい風景プロンプトです。
-
-#### 📝 プロンプト
-
-```
-午前 2 時、凍てつくアイスランドの滝の下に立ち、漆黒の空に激しく舞うオーロラを眺める。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083352929319149568/img/Oq0TSnBwRL2Gj8vi.jpg" width="600" alt="夜のアイスランドの滝">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8249)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2083352972671484273) | **公開日:** Aug 1, 2026
-
----
-### 抽象的知能の形式体系
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 知能を自己検証する圧縮された形式体系として表現する、連続的なビデオシーケンスのためのハイコンセプトなプロンプト。
-
-#### 📝 プロンプト
-
-```
-知能のイラストレーションではなく、知能が自らの動作の理論的限界を検証する様子を圧縮された形式体系として表現した、単一の連続的なビデオ（カットなし）を作成してください。それは時間とともに展開していきます。
-シーケンス全体は...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083340214701899776/img/v8SR9mhjIc7NJcql.jpg" width="600" alt="抽象的知能の形式体系">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8252)**
-
-**作者:** [David Pittman](https://x.com/BlitzedOstrich) | **ソース:** [Link](https://x.com/BlitzedOstrich/status/2083340486324924611) | **公開日:** Jul 31, 2026
-
----
-### Scuba Diving Goat and Rooster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal video prompt showing a goat and a rooster swimming by while wearing scuba gear.
-
-#### 📝 プロンプト
-
-```
-First we have a goat swim by with scuba gear on and then we have a rooster swim by with scuba gear on
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083334853811220480/img/vr8NcRjDQxWp38si.jpg" width="600" alt="Scuba Diving Goat and Rooster">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8323)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **ソース:** [Link](https://x.com/RobinMurrat43a/status/2083334993196237139) | **公開日:** Jul 31, 2026
-
----
-### コーヒー星座のイマジネーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 熱いコーヒーが想像力を刺激し、星々を星座へと変えていくシュールなアニメーションプロンプト。
-
-#### 📝 プロンプト
-
-```
-熱いコーヒーが想像力の喉を直接通り抜け、そのエネルギーによって想像力が働き出し、空に浮かぶ星々を星座へと整理していく
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083325815266168832/img/EiK4SROYGFuR0F9W.jpg" width="600" alt="コーヒー星座のイマジネーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8248)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2083325838875926622) | **公開日:** Jul 31, 2026
-
----
-### ブラックコーヒーを注ぐクローズアップ映像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> カップにコーヒーが注がれる様子を捉えたシネマティックなビデオプロンプト。質感と色味に焦点を当てています。
-
-#### 📝 プロンプト
-
-```
-ブラックコーヒーをカップの真ん中に、完璧かつ丁寧に注いでいます。雑味のない、最高の一杯です。リッチでダーク、そして滑らかな質感……。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083324383238504448/img/dB3x38Cd4ngTBCvo.jpg" width="600" alt="ブラックコーヒーを注ぐクローズアップ映像">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8243)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2083324400044999154) | **公開日:** Jul 31, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2325,6 +2340,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-10T05:56:13.109Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-10T09:57:56.495Z</sub>
 
 </div>
