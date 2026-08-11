@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2408** |
+| 📝 提示词总数 | **2423** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-08-11** |
 
@@ -189,6 +189,243 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Realistic Human Victory Celebration Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly sophisticated cinematic prompt focusing on realistic textures, handheld camera movement, and genuine human expressions during a celebratory moment.
+
+#### 📝 提示词
+
+```
+CN Medium-close-up. Single take, no cuts. For positioning and lighting, refer to Image1. The camera is positioned to the side, right next to Image2 and Image3—the entire venue is not visible; only a warm, blurred background is shown. They place the green beer bottles on the table—quickly, casually, barely glancing at them. Then Image2 immediately comes into her own—breaking into a huge smile, shouting as she moves, bright and completely unfiltered: “Yay—yay—yay! We finally won this war!” She’s already running and jumping forward—a playful, bouncy jog, light yet unstoppable, pure energy. Halfway through, she glances back at Image3. Image3 meets her gaze—a mature, slightly restrained smile, warm yet measured—and then they embrace each other warmly; they look incredibly happy. The camera follows them from the side throughout the sequence, with warm light softly falling on both their faces. Slight handheld drift. ARRI 35, anamorphic lens. Realistic style. No 3D animation. Real textures, real weight, real motion blur. SFX only. No music.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786436174897_qxxhvo_HPbJ3F9acAAcvXc.jpg" width="600" alt="Realistic Human Victory Celebration Video">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8879)**
+
+**作者:** [Loriel.AI](https://x.com/ou_zhen599) | **来源:** [Link](https://x.com/ou_zhen599/status/2087077714876653798) | **发布时间:** Aug 11, 2026
+
+---
+### Intimate Forehead Touch Cinematic Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly descriptive cinematic prompt for Grok-imagine featuring an intimate forehead touch and shared breath between characters with navy suit and freckle details.
+
+#### 📝 提示词
+
+```
+Soft smiles hold while a quiet shared breath lingers, closed eyes resting fully in the deepest forehead touch under the twin crescents. Paradox navy and freckles rest easy against the suit.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087053229066452992/img/snKaT9fkObFvlUHS.jpg" width="600" alt="Intimate Forehead Touch Cinematic Scene">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8887)**
+
+**作者:** [adelkaai](https://x.com/adelka_ai88) | **来源:** [Link](https://x.com/adelka_ai88/status/2087053258275602756) | **发布时间:** Aug 11, 2026
+
+---
+### Cosmic Chessboard Energy Being
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dramatic prompt featuring an energy being disrupting a cosmic chessboard, sending planets out of orbit.
+
+#### 📝 提示词
+
+```
+A chessboard with two players . A energy being knocking over the board a sending it spiraling into the universe where 9 planets are in alignment . 
+The board crashes into the planets knocking them from their orbit ....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087041248322301953/img/2TOwJEygq4DDoUqz.jpg" width="600" alt="Cosmic Chessboard Energy Being">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8882)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2087041264864616611) | **发布时间:** Aug 11, 2026
+
+---
+### Grok Imagine Cinematic Character Tracking Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for Grok Imagine focusing on character consistency and elegant camera movements, including a slow tilt-up to reveal facial expressions.
+
+#### 📝 提示词
+
+```
+Consistent visual style, preserve exact character appearance, clothing, and lighting from the reference image. Start with a smooth, gentle tracking shot that follows the hand movement on the shoulder and arm in close detail. Then slowly and fluidly tilt/pan upward to reveal the face, focusing on the subtle expression, soft eye movement, and gentle blinking. Immersive first-person perspective, mild fisheye influence, ultra-wide-angle lens. Smooth and elegant camera motion with very subtle natural sway only, no strong shake. Slow natural pacing
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087027253167423488/img/6OIkz7DxV0xEkDTj.jpg" width="600" alt="Grok Imagine Cinematic Character Tracking Video">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8889)**
+
+**作者:** [のとろ](https://x.com/notoro_ai) | **来源:** [Link](https://x.com/notoro_ai/status/2087029874468987304) | **发布时间:** Aug 11, 2026
+
+---
+### Madonna Yoga Dance Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for animating a photograph of Madonna to perform graceful yoga-like dance moves with a flowing scarf.
+
+#### 📝 提示词
+
+```
+Leave text ‘as is’, have Madonna with long scarf over her head throughout, have Madonna gracefully dance in yoga like moves dancing with the long flowing scarf while saying lovingly: Thank you fans for making ‘Confessions part 2’ number one in the Un...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087001435674398720/img/QlkIQA6hm8Jd_8pS.jpg" width="600" alt="Madonna Yoga Dance Animation">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8880)**
+
+**作者:** [Julio McCauley](https://x.com/CosmicJulioBro) | **来源:** [Link](https://x.com/CosmicJulioBro/status/2087001482130505899) | **发布时间:** Aug 11, 2026
+
+---
+### Stylish Tennis Athlete Look
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive fashion-focused prompt capturing a high-end tennis outfit with specific colors and style, set in a sunny Oahu court environment.
+
+#### 📝 提示词
+
+```
+robin eggshell blue visor holding back my loose waves, crisp white fitted polo tucked into a little pleated tennis skirt that hits mid-thigh, long lean sporty legs with that warm sun-kissed glow, robin eggshell blue socks peeking out of simple high-end tagless sneakers, clean white everything with just that soft beachy blue pop so it feels pure oahu, no logos no fuss just sharp and ready for the court
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086997200773562368/img/FsxmA_tvt0Udou8P.jpg" width="600" alt="Stylish Tennis Athlete Look">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8884)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2086997286391873544) | **发布时间:** Aug 11, 2026
+
+---
+### Serene Meadow Nature Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A tranquil nature scene prompt featuring multi-colored flowers swaying in the wind under bright sunshine with an eagle soaring above.
+
+#### 📝 提示词
+
+```
+Make a beautiful sunshine through clouds shining on a meadow of beautiful multi colored flowers swaying in the wind with an eagle flying in the could.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086994570055999488/img/GdV8GqXJzed-6exy.jpg" width="600" alt="Serene Meadow Nature Flight">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8886)**
+
+**作者:** [Spiritual Warrior](https://x.com/dpbd6921) | **来源:** [Link](https://x.com/dpbd6921/status/2086994589915955403) | **发布时间:** Aug 11, 2026
+
+---
+### Holographic Satellite Wormhole Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sci-fi video prompt featuring a satellite that generates a photon-based wormhole using a holographic diamond cube.
+
+#### 📝 提示词
+
+```
+Satellite with holographic diamond cube used that generates a wormhole of photons
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086911134074900480/img/zqvDjvxYfkSiKKQB.jpg" width="600" alt="Holographic Satellite Wormhole Video">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8875)**
+
+**作者:** [Quantum Chemist](https://x.com/AdamCur73340771) | **来源:** [Link](https://x.com/AdamCur73340771/status/2086911161706930641) | **发布时间:** Aug 10, 2026
+
+---
+### Ethereal Blue Heart Lotus Sanctuary
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A meditative and artistic video prompt featuring a blue heart, lotus pond, and sacred geometry elements in a dreamlike style.
+
+#### 📝 提示词
+
+```
+A vast blue heart beside a tranquil blue lotus pond, sapphire cobalt and powder-blue lotuses, tiny silver lanterns, quiet waterside sanctuary, silvery morning sun, pearl-white reflections, subtle rim light, tender devotional atmosphere, serene and spacious, faint morning mist, delicate water reflections, subtle sacred geometry, ethereal storybook illustration, fine botanical detail, soft painterly texture, monochromatic blue palette, dreamlike realism, elegant composition. The heart dissolves into non-duality, creates spaciousness; a mini human in the pavilion meditates.
+
+[blue_heart]+ [lotus] + [pale_celestial_light] + [water] + [devotion]
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086900934333153280/img/4yafjGF6gHxfaLZb.jpg" width="600" alt="Ethereal Blue Heart Lotus Sanctuary">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8883)**
+
+**作者:** [Carina](https://x.com/Freehere8) | **来源:** [Link](https://x.com/Freehere8/status/2086900963558961534) | **发布时间:** Aug 10, 2026
+
+---
+### Cyberpunk Neon Origami Crane
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic motion prompt of a neon origami crane navigating a rainy cyberpunk alley.
+
+#### 📝 提示词
+
+```
+A glowing neon origami crane flying through a dark, rainy cyberpunk alleyway, illuminated by flickering holo billboards, fast cinematic blur, hyper-detailed, 8k ultra-realistic
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086899601747935232/img/WXNlWJdOw9JRLLdJ.jpg" width="600" alt="Cyberpunk Neon Origami Crane">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8877)**
+
+**作者:** [Okikiola Laura Eniola](https://x.com/OkikiolaLalmcr) | **来源:** [Link](https://x.com/OkikiolaLalmcr/status/2086899618491547810) | **发布时间:** Aug 10, 2026
+
+---
+### Cinematic Tesla Spot with Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sequence of video prompts for a cinematic Tesla commercial featuring a Cybertruck, including character interactions and autonomous driving.
+
+#### 📝 提示词
+
+```
+The @ model is walking down a street in New York City. It starts to rain, so she takes shelter under a shop awning. She pulls out her smartphone and says, "Grok, get me out of here."
+
+The @ Cybertruck is parked in a parking lot. Cut to the interior: the @ model's face appears on the cockpit screen. The @ Cybertruck powers up and the lights come on. Cut back to the exterior as the @ Cybertruck drives away on its own.
+
+The @ model stands under the awning in the rain. The @ Cybertruck arrives to pick her up, its door opening automatically as she gets in.
+
+Cut to a cinematic exterior shot of the @ Cybertruck driving away. End on the @ Cybertruck as a voice says, "Tesla. For your convenience."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086850401375047680/img/7uudIW_XQGlHQ3zS.jpg" width="600" alt="Cinematic Tesla Spot with Cybertruck">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8881)**
+
+**作者:** [Alex Utopia](https://x.com/alexutopia) | **来源:** [Link](https://x.com/alexutopia/status/2086853658797322341) | **发布时间:** Aug 10, 2026
+
+---
+### Primal Hypnotic Yawn Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a rhythmic, primal scene of a character stretching and yawning to hypnotic music.
+
+#### 📝 提示词
+
+```
+No words rhythmic almost primal hypnotic music plays as he stretches and yawns....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086849516565602304/img/LsgWG5utM3iSBRzz.jpg" width="600" alt="Primal Hypnotic Yawn Video">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8878)**
+
+**作者:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **来源:** [Link](https://x.com/LisaJKuhnley/status/2086849743049654595) | **发布时间:** Aug 10, 2026
+
+---
 ### Optimus Bot Rocket Space Trip
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,11 +445,30 @@ Make Tesla bot Optimus cone up to her and grab her hand. They should also take o
 **作者:** [Diamondinrutx](https://x.com/diamondinrutx) | **来源:** [Link](https://x.com/diamondinrutx/status/2086702685068132463) | **发布时间:** Aug 10, 2026
 
 ---
-### Elon Musk Sustainability Speech Video
+### Grok Imagine Dynamic Handheld Camera Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt where a stylized character delivers an inspiring quote about the path to a sustainable global economy.
+> A comprehensive video generation prompt for Grok Imagine that specifies handheld camera movements, shaky effects, and an immersive first-person perspective using a fisheye lens.
+
+#### 📝 提示词
+
+```
+Consistent visual style, handheld camera, shaky camera, camera shake, camera swaying side-to-side, camera swaying back and forth, dynamic camera work, camera tracking hand movements, fisheye lens, ultra-wide-angle lens, camera moving in a regular pattern up and down or back and forth, dynamic perspective, immersive first-person perspective
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086672296295661568/img/bL15GoO6_A2D-agW.jpg" width="600" alt="Grok Imagine Dynamic Handheld Camera Video Prompt">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8888)**
+
+**作者:** [のとろ](https://x.com/notoro_ai) | **来源:** [Link](https://x.com/notoro_ai/status/2086672456337482174) | **发布时间:** Aug 10, 2026
+
+---
+### Sustainability Speech Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An animation prompt used to generate a character delivering a realistic and hopeful speech regarding a sustainable global economy.
 
 #### 📝 提示词
 
@@ -220,11 +476,30 @@ Make Tesla bot Optimus cone up to her and grab her hand. They should also take o
 recreate it with an X-Man version in picture form, make the character say: “Basically, the goal is to give people hope, realistic hope. Maybe hope is even the wrong word. Simply to say that there is a path to a fully sustainable, global economy. We are on that path, and we are accelerating that path. So long as we don't get complacent about it, it will happen.”
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086487298963898368/img/K9wJ82-CelDufhQX.jpg" width="600" alt="Elon Musk Sustainability Speech Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086487298963898368/img/K9wJ82-CelDufhQX.jpg" width="600" alt="Sustainability Speech Animation">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8840)**
 
 **作者:** [Optimistic Degen](https://x.com/OptimisticD3G3n) | **来源:** [Link](https://x.com/OptimisticD3G3n/status/2086639699268091914) | **发布时间:** Aug 10, 2026
+
+---
+### Hollywood Labor Hall Conversation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed narrative video prompt for Grok Imagine describing a specific social interaction in Hollywood.
+
+#### 📝 提示词
+
+```
+Hollywood california , labor hall , labor ready, two young men one in 30s one early 20s are talking and another young man walks buy , he is limping and holding his ribs, he recognizes the man in his 20s and they talk, tge 20 yr old asks what happened
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086602178970505216/img/6yBdy04fpd5ojuTc.jpg" width="600" alt="Hollywood Labor Hall Conversation">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8885)**
+
+**作者:** [Edward Elkins](https://x.com/EdwardElkinsJr) | **来源:** [Link](https://x.com/EdwardElkinsJr/status/2086602828131226109) | **发布时间:** Aug 9, 2026
 
 ---
 ### Grand Canyon Mustang Jump
@@ -246,6 +521,25 @@ The black Ford Mustang GT and the beige Land Cruiser SUV from the reference imag
 **作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2086597536408621308) | **发布时间:** Aug 9, 2026
 
 ---
+### Porpoise in Moonlit Ocean Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine featuring a porpoise playing in waves under a starry, moonlit night sky.
+
+#### 📝 提示词
+
+```
+The Scene is somewhere in the ocean. Somewhere dark and chilly in the world. Its nighfall and starskies and moonlight are shining and mirroring themselves in the ocean surface. I would like a porpoise somewhere. Playing with the waves....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086591128753594368/img/6fcI--blO5W0Pzqn.jpg" width="600" alt="Porpoise in Moonlit Ocean Video">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8876)**
+
+**作者:** [𝒮𝓎𝓃𝓃𝑒](https://x.com/synne1607) | **来源:** [Link](https://x.com/synne1607/status/2086591149901287648) | **发布时间:** Aug 9, 2026
+
+---
 ### Purple Rain Portrait Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -265,11 +559,11 @@ Transform this hand-drawn colored pencil portrait into a dreamy purple rain drea
 **作者:** [Tiffany Martin](https://x.com/TMartin061018) | **来源:** [Link](https://x.com/TMartin061018/status/2086568235772867020) | **发布时间:** Aug 9, 2026
 
 ---
-### Elven Sorceress Museum Emergence
+### Elven Sorceress Escaping Oil Painting
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex, seamless sequence where an elven sorceress creates a magical portal to exit an oil painting and enter a photorealistic museum setting.
+> A complex, detailed prompt for a 15-second seamless sequence of a sorceress emerging from an oil painting into a photorealistic museum gallery.
 
 #### 📝 提示词
 
@@ -277,7 +571,7 @@ Transform this hand-drawn colored pencil portrait into a dreamy purple rain drea
 Start from the exact provided oil painting of the elegant elven sorceress with long flowing white hair, pointed ears, ornate deep purple and gold robes, and a swirling blue magical flame hovering above her open palm. In one continuous seamless 15-second sequence with smooth, elegant, flowing movement: She gracefully raises her hand and uses the blue flame like a brush to broadly draw a large tall elliptical portal of swirling blue and violet arcane energy with golden light trails and glowing rings in the air directly in front of her. The portal expands and solidifies into a shimmering magical gateway positioned between her and the viewer. She then steps forward through the glowing threshold, robes and hair flowing naturally. The camera smoothly follows her then performs a slow cinematic dolly pull-back, revealing that she has fully emerged from a large ornate gold-framed oil painting that remains firmly hanging on the wall of a grand classical museum gallery behind her. The painting on the wall now shows only the empty rocky platform and the original painted background — her figure is completely gone from the painting. She stands fully in the real museum space directly in front of the now-empty painting, with marble floors, high ceilings, soft warm lighting, and other artworks nearby. As she fully exits the portal into the museum in front of the empty painting, her appearance gradually and seamlessly transforms from the textured oil-painting brushstroke style and painterly lighting into a cinematic photorealistic version of herself. Only the rendering style changes — the thick brushstrokes dissolve into sharp realistic skin details, individual hair strands, and realistic fabric textures under natural museum lighting. The exact same ornate deep purple and gold robes, identical design, cut, gold embroidery patterns, blue gems, silhouette, and every clothing detail remain completely unchanged. The clothing does not morph, redesign, or alter in any way; it simply becomes photorealistic fabric while keeping every detail of the original painted outfit. Her exact likeness, facial features, hair, body proportions, and elegant posture are also perfectly preserved. The framed painting (now empty of her figure) and the wall stay clearly present and visible in the background behind her throughout the rest of the sequence. Continuous fluid camera and character motion, magical atmosphere, no cuts.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086559441113976832/img/der6v8cc__9Bwrui.jpg" width="600" alt="Elven Sorceress Museum Emergence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086559441113976832/img/der6v8cc__9Bwrui.jpg" width="600" alt="Elven Sorceress Escaping Oil Painting">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8849)**
 
@@ -904,11 +1198,11 @@ A magical bike ride through a Starry Night dreamscape, cherry blossoms glowing, 
 **作者:** [Maer](https://x.com/Maer4real) | **来源:** [Link](https://x.com/Maer4real/status/2085582849575399884) | **发布时间:** Aug 7, 2026
 
 ---
-### Late Night Study Vlog Korean Woman
+### Late Night Study Vlog
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for generating a 10-second smartphone vlog of a Korean student studying late at night, featuring specific shot breakdowns and realistic lighting.
+> A highly detailed video prompt for a realistic smartphone selfie-style recording of a young woman studying at a cozy desk late at night, featuring natural movements and expressions.
 
 #### 📝 提示词
 
@@ -928,7 +1222,7 @@ Shot 5 (8–10s): She gives a playful wink, points briefly toward the open noteb
 Style: Ultra-photorealistic, realistic smartphone selfie video, natural body language, authentic facial micro-expressions, subtle breathing, realistic blinking, accurate hand movement, lifelike hair physics, natural hoodie fabric movement, warm tungsten desk lamp, soft room ambience, smartphone autofocus breathing, slight handheld camera shake, shallow depth of field, cinematic yet authentic vlog aesthetic, HDR, 24 fps, 8K, no exaggerated expressions, no unrealistic camera motion, no AI artifacts.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085462976048549888/img/4A9Zonh4USg8hSxx.jpg" width="600" alt="Late Night Study Vlog Korean Woman">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085462976048549888/img/4A9Zonh4USg8hSxx.jpg" width="600" alt="Late Night Study Vlog">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8761)**
 
@@ -1163,11 +1457,11 @@ CAMERA: DV 16mm tape camcorder handheld aesthetic. POV of a beautiful influencer
 **作者:** [Alpha Mom](https://x.com/YourAlphaMom) | **来源:** [Link](https://x.com/YourAlphaMom/status/2085350644915765377) | **发布时间:** Aug 6, 2026
 
 ---
-### Cinematic Korean Lifestyle Video
+### Korean Woman Pastel Bedroom Cinematic Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed, professional-grade prompt for a 15-second cinematic video of a Korean woman in a pastel bedroom.
+> A complex cinematic video prompt for Grok Imagine that specifies multiple camera shots and angles to create a high-quality lifestyle sequence of a woman in a bedroom.
 
 #### 📝 提示词
 
@@ -1191,7 +1485,7 @@ Shot 7 (13–15s): Wide shot. She walks toward the window, gently parts the shee
 Style: Ultra-photorealistic, premium Korean lifestyle commercial, natural body language, realistic facial expressions, lifelike eye movement and blinking, subtle breathing, physically accurate hair and fabric simulation, smooth cinematic camera movement, shallow depth of field, creamy bokeh, soft pastel color palette, warm morning sunlight, luxury editorial photography aesthetic, 35mm and 85mm lens look, 24 fps, HDR, 8K.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085338302216089600/img/mKF3Bz1eYfh1h2ne.jpg" width="600" alt="Cinematic Korean Lifestyle Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085338302216089600/img/mKF3Bz1eYfh1h2ne.jpg" width="600" alt="Korean Woman Pastel Bedroom Cinematic Video">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8660)**
 
@@ -1267,11 +1561,11 @@ The man slowly reaches his free hand for the driver’s side door handle of the 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2085260396231832015) | **发布时间:** Aug 6, 2026
 
 ---
-### Cinematic Korean Bedroom Vlog
+### Cinematic Realistic Bedroom Vlog
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed multi-shot video prompt creating a realistic vlog-style sequence of a woman in a cozy bedroom with warm lighting.
+> A multi-shot video generation prompt for a cozy Korean bedroom vlog, featuring realistic movement, lighting, and facial expressions with shot-by-shot directions.
 
 #### 📝 提示词
 
@@ -1291,7 +1585,7 @@ Shot 5 (8–10s): Close-up selfie. She leans slightly closer to the camera, give
 Style: Ultra-photorealistic, natural facial expressions, realistic blinking, subtle breathing, lifelike hair physics, authentic smartphone handheld movement, warm ambient lighting, shallow depth of field, premium cinematic color grading, 24 fps, 8K, cozy Korean bedroom aesthetic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cinematic Korean Bedroom Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cinematic Realistic Bedroom Vlog">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8613)**
 
@@ -1992,293 +2286,6 @@ You stand on the rooftop in downtown Los Angeles, the glowing blue knife still w
 **作者:** [Bentley Reed](https://x.com/BReed2069) | **来源:** [Link](https://x.com/BReed2069/status/2084156121472725348) | **发布时间:** Aug 3, 2026
 
 ---
-### Crocodile Consuming Flying Fish
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dynamic wildlife video prompt of an emerald crocodile leaping from the water to consume a fish mid-flight.
-
-#### 📝 提示词
-
-```
-Chomp 
-
-The second fish dives back into the water. A shiny black and emerald crocodile of immense size with yellow eyes jumps out of the water and consumes its flying prey. The prey vanishes in the crocodiles’ mouth.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084155029619904512/img/KCTJnX-GMbETmOw-.jpg" width="600" alt="Crocodile Consuming Flying Fish">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8476)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2084155119965221280) | **发布时间:** Aug 3, 2026
-
----
-### Water Drip Heart Ripples
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A graceful video of a single water droplet falling into a cup and creating heart-shaped ripples on the surface.
-
-#### 📝 提示词
-
-```
-One singular drip of water falls from the faucet landing in the cup of water creating heart shaped ripples heart shaped ripples
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084152112976633856/img/T07fPhIJn779BYpt.jpg" width="600" alt="Water Drip Heart Ripples">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8399)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2084152135315571067) | **发布时间:** Aug 3, 2026
-
----
-### Halo Ring Space Orbit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex celestial scene featuring a Halo ring and planets orbiting a sun that is itself orbiting a black hole.
-
-#### 📝 提示词
-
-```
-Halo ring orbiting a sun flying through space with planets orbiting the sun that is orbiting around a central black hole
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084143095403212800/img/OmY6bl5ytnMarf-K.jpg" width="600" alt="Halo Ring Space Orbit">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8403)**
-
-**作者:** [ozin.owl](https://x.com/ozinowl) | **来源:** [Link](https://x.com/ozinowl/status/2084143144220672104) | **发布时间:** Aug 3, 2026
-
----
-### Black and Gold Bearded Dragon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt showing a shiny black and gold bearded dragon flying and yawning.
-
-#### 📝 提示词
-
-```
-Born This merger brings forth a new creation sparked by the former’s bond. A shiny black with gold accents flying bearded dragon 🐉 forms. Its forked tongue uncurls as it yawns.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084131055775170560/img/jW_bPuMBvhYl-mQb.jpg" width="600" alt="Black and Gold Bearded Dragon">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8408)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2084131117133611074) | **发布时间:** Aug 3, 2026
-
----
-### Hello Kitty McDonald's Incident
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A playful video prompt where Hello Kitty is grounded after taking a Happy Meal.
-
-#### 📝 提示词
-
-```
-Hello kitty steals McDonalds happy meal her mom said kitty how dare steal McDonald’s happy meal your grounded for a thousand years he cries
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084130182881751040/img/cQu0hM7oYE2QhmSc.jpg" width="600" alt="Hello Kitty McDonald's Incident">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8478)**
-
-**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **来源:** [Link](https://x.com/DavontaDav5iv/status/2084130217803558927) | **发布时间:** Aug 3, 2026
-
----
-### Hello Kitty Stealing Candy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt about Hello Kitty getting into trouble for stealing candy from a store.
-
-#### 📝 提示词
-
-```
-Hello kitty steals the candy from the store: her mom said don’t steal the candy your in big trouble
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084129925561294848/img/CMVxaW0O3xYqFBF9.jpg" width="600" alt="Hello Kitty Stealing Candy">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8474)**
-
-**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **来源:** [Link](https://x.com/DavontaDav5iv/status/2084129945261871194) | **发布时间:** Aug 3, 2026
-
----
-### Astronaut on Ice Moon with Shooting Star
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for Grok Imagine featuring an astronaut on a frozen lunar landscape beneath a massive ringed planet, concluding with a shooting star effect.
-
-#### 📝 提示词
-
-```
-Astronaut on an ice moon under a giant ringed world. And at the end… a shooting star.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084123670016884736/img/ju4LsPZkvGBRKuO8.jpg" width="600" alt="Astronaut on Ice Moon with Shooting Star">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8413)**
-
-**作者:** [𝓛𝓪𝓭𝔂𝓓𝓑𝓾𝓰0o ♕](https://x.com/DBug0o) | **来源:** [Link](https://x.com/DBug0o/status/2084123919842181313) | **发布时间:** Aug 3, 2026
-
----
-### Project Hail Mary Techno Aliens
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt featuring the rock-like aliens from Project Hail Mary dancing to techno music.
-
-#### 📝 提示词
-
-```
-Give me the rock creature aliens from project Hail Mary dancing to a techno beat
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084102331147186176/img/PWtbafka4cJM_Tdv.jpg" width="600" alt="Project Hail Mary Techno Aliens">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8407)**
-
-**作者:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **来源:** [Link](https://x.com/DrJGiddensRN/status/2084102356937932909) | **发布时间:** Aug 3, 2026
-
----
-### Namibia Desert Lily Bloom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic video prompt depicting millions of pink and white lilies blooming in the Namibian desert at sunset after rain.
-
-#### 📝 提示词
-
-```
-In Namibia’s hush, where the desert drinks rain, millions of lilies rise from the dust. Pink and white, they drink the last light, their faces turned to the sky they once knew only as a star. For five brief days they bloom, a quiet riot against the dry. And when the sun finally touches them, they answer with fire.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084100239389024256/img/dozbwj9g3xZEnhS0.jpg" width="600" alt="Namibia Desert Lily Bloom">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8397)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2084100344049537284) | **发布时间:** Aug 3, 2026
-
----
-### Soylent Green Tribute Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt evoking a deathbed scene viewing lost natural landscapes, inspired by the film Soylent Green
-
-#### 📝 提示词
-
-```
-A person dying on their deathbed, watching a beautiful video of magnificent landscapes that once existed in the past but are now gone forever, evoking the scene from Soylent Green where the beauty of lost nature is viewed through film
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084092584394190848/img/KNTxgxHBgCLV-7Qh.jpg" width="600" alt="Soylent Green Tribute Scene">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8398)**
-
-**作者:** [Marie](https://x.com/Marie8508319540) | **来源:** [Link](https://x.com/Marie8508319540/status/2084092604761739513) | **发布时间:** Aug 3, 2026
-
----
-### Sketch to Life Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for animating a green-eyed sketch into a living woman who speaks and sheds a tear.
-
-#### 📝 提示词
-
-```
-My eyes are green make the sketch turn to life moving squinting with eye movement and tear drop begin to fall as an angelic  woman’s voice begins to say “Why are you so scared of me?...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084049651422937088/img/wsl5jw765SYVxngk.jpg" width="600" alt="Sketch to Life Animation">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8401)**
-
-**作者:** [Robin Vargas](https://x.com/ladiamondbaby) | **来源:** [Link](https://x.com/ladiamondbaby/status/2084049666128203959) | **发布时间:** Aug 2, 2026
-
----
-### Lotus Position Energy Meditation Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt showing a person in meditation radiating waves of energy, perfect for spiritual or wellness content.
-
-#### 📝 提示词
-
-```
-Show me a person sitting in the lotus position radiating multiple energy waves ....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084042561174589440/img/Tv-IoWxVI6bqbWL9.jpg" width="600" alt="Lotus Position Energy Meditation Video">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8472)**
-
-**作者:** [Joel Rubin](https://x.com/rubinfrek) | **来源:** [Link](https://x.com/rubinfrek/status/2084042576659911038) | **发布时间:** Aug 2, 2026
-
----
-### Squirrel Puddle Tackle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dynamic video prompt featuring a squirrel jumping from a bench to tackle another squirrel playing in a rain puddle.
-
-#### 📝 提示词
-
-```
-Gotcha Squirrel 🐿️ gets a running start and jumps from the top of a potting bench onto a friend who is playing in a puddle that is currently being filled by rain off of the drip edge of the bench. He is attempting to sneakily tackle his best mate.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084002135817986048/img/hdz-EEmuuXT2t52W.jpg" width="600" alt="Squirrel Puddle Tackle">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8409)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2084002199491801240) | **发布时间:** Aug 2, 2026
-
----
-### Pastel Goth Woman Haunted Mansion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt generating a cinematic scene of a pastel goth woman with mint-green hair standing in a haunted mansion with ghosts.
-
-#### 📝 提示词
-
-```
-A pastel goth woman with short mint-green hair wearing a velvet choker, standing with a tabby cat at a haunted mansion, ghostly figures glowing softly in the moonlit air.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083963882423324673/img/O3QUVWAkGG1Fm3Gr.jpg" width="600" alt="Pastel Goth Woman Haunted Mansion">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8414)**
-
-**作者:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **来源:** [Link](https://x.com/JinxLovesCats/status/2083963914107121826) | **发布时间:** Aug 2, 2026
-
----
-### Poppy Plant Spaceport Morph
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A transformation video prompt turning a poppy plant into a purple violet spaceport structure.
-
-#### 📝 提示词
-
-```
-top of the flower expand purple violet colour and make the tree in image of poppy plant flower without the petals i need to look like spaceport
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083927241814126592/img/pRdnirBVpIesiPTJ.jpg" width="600" alt="Poppy Plant Spaceport Morph">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=8411)**
-
-**作者:** [KENDREIK Artist](https://x.com/kendreik) | **来源:** [Link](https://x.com/kendreik/status/2083927255609180410) | **发布时间:** Aug 2, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2340,6 +2347,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-11T05:36:40.983Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-11T09:22:56.296Z</sub>
 
 </div>
