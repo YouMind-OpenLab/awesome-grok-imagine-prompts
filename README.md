@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2423** |
+| 📝 Total Prompts | **2433** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-12** |
 
@@ -189,11 +189,173 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Realistic Human Victory Celebration Video
+### Sunrise Athletic Stretching Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly sophisticated cinematic prompt focusing on realistic textures, handheld camera movement, and genuine human expressions during a celebratory moment.
+> A cinematic video prompt of an athlete stretching at sunrise with city skyline views and golden hour lighting.
+
+#### 📝 Prompt
+
+```
+Athletic person stretching at sunrise, city skyline background, golden hour lighting, minimalist activewear, cinematic photography
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087367634077814784/img/aYMPTsTLcQE4yL0P.jpg" width="600" alt="Sunrise Athletic Stretching Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8922)**
+
+**Author:** [Viralblend](https://x.com/_Viralblend) | **Source:** [Link](https://x.com/_Viralblend/status/2087367648606872030) | **Published:** Aug 12, 2026
+
+---
+### Electric Energy Visual Effects
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a static camera shot with rapid pulsing electric highlights and energy strobe effects.
+
+#### 📝 Prompt
+
+```
+Static locked camera, no subject movement, everything remains completely still. Rapid electric highlights and outlines flash and pulse across the image — glowing electric blue and white energy strobes on edges, backgrounds, and foregrounds, making it feel alive and electric with only light and energy effects, no actual motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087312301032366080/img/688R0vemAvNLWXiL.jpg" width="600" alt="Electric Energy Visual Effects">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8923)**
+
+**Author:** [Teh Lid](https://x.com/TehLid88) | **Source:** [Link](https://x.com/TehLid88/status/2087312335165686193) | **Published:** Aug 11, 2026
+
+---
+### Sleek Silver Rocket Launch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly descriptive cinematic video prompt of a rocket accelerating through the atmosphere with fire and smoke.
+
+#### 📝 Prompt
+
+```
+The sleek silver rocket accelerates powerfully upward through the atmosphere, its engines roaring with intensifying orange and white flames as the massive plume of smoke and fire expands and trails behind. The camera slowly pans and tilts upward to t...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087309167312728065/img/Rqe6QETEmurGJAev.jpg" width="600" alt="Sleek Silver Rocket Launch">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8927)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2087309189534151111) | **Published:** Aug 11, 2026
+
+---
+### Golden hour ocean view dolly shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine capturing a luxurious interior transition to a sunset ocean view.
+
+#### 📝 Prompt
+
+```
+The camera slowly dollies forward through the luxurious hotel room toward the floor-to-ceiling windows, revealing the vast sparkling ocean at golden hour as silk curtains gently billow in the breeze and warm sunlight glides across the polished floors...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087230586813321216/img/Wf_DWol8_UFAXrAW.jpg" width="600" alt="Golden hour ocean view dolly shot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8925)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2087230601719877929) | **Published:** Aug 11, 2026
+
+---
+### Ghibli Style Cycling Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Studio Ghibli-inspired video prompt featuring a girl cycling down a mountain path towards a scenic bay with realistic motion and wind effects.
+
+#### 📝 Prompt
+
+```
+Low camera angle following a girl pedaling her bike down a gentle slope facing a scenic bay and green mountain. Gentle motion blur on wheels, realistic wind blowing her blonde hair, sparkling ocean water in the background, Studio Ghibli-inspired vibrant lighting. (Immersive
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087220575290953728/img/1ERY9JOToSLakiWJ.jpg" width="600" alt="Ghibli Style Cycling Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8928)**
+
+**Author:** [arnab](https://x.com/arnab28x) | **Source:** [Link](https://x.com/arnab28x/status/2087221207422919109) | **Published:** Aug 11, 2026
+
+---
+### Cinematic 3-Shot Product Reveal Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A professional video prompt designed to transform a static product photo into a cinematic three-shot reveal sequence for advertisements.
+
+#### 📝 Prompt
+
+```
+Hero Product Reveal, Turn one product photo into a cinematic 3-shot reveal video
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087146457535287296/img/OLV0JT2u5ygb6ORf.jpg" width="600" alt="Cinematic 3-Shot Product Reveal Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8931)**
+
+**Author:** [いにしえ@AI Director / Creator / Engineer｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2087147332702007732) | **Published:** Aug 11, 2026
+
+---
+### Cinematic Fashion Lifestyle Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for a fashion sequence with complex camera movements and natural character physics.
+
+#### 📝 Prompt
+
+```
+Make the video feel like a cinematic fashion/lifestyle sequence with varied shots and natural storytelling. Start with a wide environmental shot showing her full body and surroundings, then transition into a full-body tracking shot as she slowly walks through the breeze. Move into a medium three-quarter shot where she naturally brushes windblown hair away from her face and briefly looks into the distance with a soft, thoughtful expression. Follow with a medium-long side-profile shot as a stronger gust moves her hair and coat while the camera slowly arcs around her. End with an intimate close-up matching the reference image, her eyes gently closed as she tilts her face toward the breeze with a subtle peaceful expression. Use smooth cinematic camera movements, realistic walking and body mechanics, natural breathing, detailed hair and fabric physics, changing wind intensity, realistic depth and motion blur. Avoid making every shot a close-up or keeping her static. Preserve her exact face, identity, hairstyle, outfit, body proportions, jewelry, and overall appearance throughout. No exaggerated expressions, no talking, no sudden movements, no face morphing or outfit changes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086959132725407744/img/cOj85JUzbazK07rr.jpg" width="600" alt="Cinematic Fashion Lifestyle Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8924)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2087144498258128996) | **Published:** Aug 11, 2026
+
+---
+### High-speed magical broom flight video prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic video prompt for Grok Imagine featuring a character on a magical broom flying at high speeds through a coastal landscape with dynamic camera movements.
+
+#### 📝 Prompt
+
+```
+@Image1: exact character reference. Preserve identity, face, hairstyle, body proportions, outfit, accessories, colors, materials and silhouette exactly. Do not redesign or invent details.
+
+One continuous 15-second high-speed magical broom flight toward a vast coastal city and bright ocean. The character stands balanced on the broom as it races just above a lush green hillside at extreme speed, then performs a steep climb, full inversion, sharp dive, rising spiral, second climb and inversion, ending in a powerful forward glide toward the city.
+
+Camera: aggressive low rear three-quarter tracking, 2–3 m behind, 47° FOV, locked on character and broom, no cuts. Strong vibration, speed blur and wind buffeting. The city continuously grows larger ahead.
+
+Character constantly adjusts posture, feet, knees and arms for balance. Hair, clothing, accessories and any flexible elements visible in @Image1 react naturally and violently to wind and acceleration. No weightless drifting.
+
+Bright midday sunlight, strong rim light, vivid blue sky, white clouds, floating white whales and seagulls. Grass, flowers and petals streak past with heavy motion blur.
+
+Real-time motion, 24 fps, high-energy throughout, no slow motion, no dialogue. Continuous intense wind roar and cinematic high-energy soundtrack.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087100093099036672/img/7dGpJiUFuQPxpbau.jpg" width="600" alt="High-speed magical broom flight video prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8929)**
+
+**Author:** [Curious 1](https://x.com/CuriousOne_01) | **Source:** [Link](https://x.com/CuriousOne_01/status/2087100628891738289) | **Published:** Aug 11, 2026
+
+---
+### Cinematic Party Celebration Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic video prompt for a single-take celebration scene with complex lighting, character interaction, and realistic textures.
 
 #### 📝 Prompt
 
@@ -201,7 +363,7 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 CN Medium-close-up. Single take, no cuts. For positioning and lighting, refer to Image1. The camera is positioned to the side, right next to Image2 and Image3—the entire venue is not visible; only a warm, blurred background is shown. They place the green beer bottles on the table—quickly, casually, barely glancing at them. Then Image2 immediately comes into her own—breaking into a huge smile, shouting as she moves, bright and completely unfiltered: “Yay—yay—yay! We finally won this war!” She’s already running and jumping forward—a playful, bouncy jog, light yet unstoppable, pure energy. Halfway through, she glances back at Image3. Image3 meets her gaze—a mature, slightly restrained smile, warm yet measured—and then they embrace each other warmly; they look incredibly happy. The camera follows them from the side throughout the sequence, with warm light softly falling on both their faces. Slight handheld drift. ARRI 35, anamorphic lens. Realistic style. No 3D animation. Real textures, real weight, real motion blur. SFX only. No music.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786436174897_qxxhvo_HPbJ3F9acAAcvXc.jpg" width="600" alt="Realistic Human Victory Celebration Video">
+<img src="https://cms-assets.youmind.com/media/1786522054248_oqnmnz_HPbJ3F9acAAcvXc.jpg" width="600" alt="Cinematic Party Celebration Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8879)**
 
@@ -247,11 +409,11 @@ The board crashes into the planets knocking them from their orbit ....
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2087041264864616611) | **Published:** Aug 11, 2026
 
 ---
-### Grok Imagine Cinematic Character Tracking Video
+### Cinematic first person tracking reveal
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for Grok Imagine focusing on character consistency and elegant camera movements, including a slow tilt-up to reveal facial expressions.
+> A professional video prompt for a smooth first-person sequence focusing on hand movements and facial expressions with wide-angle lens effects.
 
 #### 📝 Prompt
 
@@ -259,18 +421,18 @@ The board crashes into the planets knocking them from their orbit ....
 Consistent visual style, preserve exact character appearance, clothing, and lighting from the reference image. Start with a smooth, gentle tracking shot that follows the hand movement on the shoulder and arm in close detail. Then slowly and fluidly tilt/pan upward to reveal the face, focusing on the subtle expression, soft eye movement, and gentle blinking. Immersive first-person perspective, mild fisheye influence, ultra-wide-angle lens. Smooth and elegant camera motion with very subtle natural sway only, no strong shake. Slow natural pacing
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087027253167423488/img/6OIkz7DxV0xEkDTj.jpg" width="600" alt="Grok Imagine Cinematic Character Tracking Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087027253167423488/img/6OIkz7DxV0xEkDTj.jpg" width="600" alt="Cinematic first person tracking reveal">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8889)**
 
 **Author:** [のとろ](https://x.com/notoro_ai) | **Source:** [Link](https://x.com/notoro_ai/status/2087029874468987304) | **Published:** Aug 11, 2026
 
 ---
-### Madonna Yoga Dance Animation
+### Madonna Scarf Dance Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for animating a photograph of Madonna to perform graceful yoga-like dance moves with a flowing scarf.
+> A video generation prompt for Grok Imagine that animates a static photograph of Madonna, making her dance gracefully with a long scarf while delivering a spoken message to her fans.
 
 #### 📝 Prompt
 
@@ -278,7 +440,7 @@ Consistent visual style, preserve exact character appearance, clothing, and ligh
 Leave text ‘as is’, have Madonna with long scarf over her head throughout, have Madonna gracefully dance in yoga like moves dancing with the long flowing scarf while saying lovingly: Thank you fans for making ‘Confessions part 2’ number one in the Un...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087001435674398720/img/QlkIQA6hm8Jd_8pS.jpg" width="600" alt="Madonna Yoga Dance Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087001435674398720/img/QlkIQA6hm8Jd_8pS.jpg" width="600" alt="Madonna Scarf Dance Animation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8880)**
 
@@ -304,11 +466,11 @@ robin eggshell blue visor holding back my loose waves, crisp white fitted polo t
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2086997286391873544) | **Published:** Aug 11, 2026
 
 ---
-### Serene Meadow Nature Flight
+### Sunlit Meadow with Flying Eagle
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A tranquil nature scene prompt featuring multi-colored flowers swaying in the wind under bright sunshine with an eagle soaring above.
+> A scenic video prompt generating sunshine through clouds over a meadow of multi-colored flowers with an eagle flying above.
 
 #### 📝 Prompt
 
@@ -316,11 +478,30 @@ robin eggshell blue visor holding back my loose waves, crisp white fitted polo t
 Make a beautiful sunshine through clouds shining on a meadow of beautiful multi colored flowers swaying in the wind with an eagle flying in the could.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086994570055999488/img/GdV8GqXJzed-6exy.jpg" width="600" alt="Serene Meadow Nature Flight">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086994570055999488/img/GdV8GqXJzed-6exy.jpg" width="600" alt="Sunlit Meadow with Flying Eagle">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8886)**
 
 **Author:** [Spiritual Warrior](https://x.com/dpbd6921) | **Source:** [Link](https://x.com/dpbd6921/status/2086994589915955403) | **Published:** Aug 11, 2026
+
+---
+### DMV Security Bike Patrol
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt describing security guards on bike patrol at a DMV headquarters in Sacramento.
+
+#### 📝 Prompt
+
+```
+The downtown DMV headquarters in Sacramento, California, security guards are patrolling the parking lots for state government employees. Three male blonde security guards in their late 20s to early 30s are on bike patrol and ride to the back parking...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086988040069656576/img/QOu8bXKld4RrXTgd.jpg" width="600" alt="DMV Security Bike Patrol">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8926)**
+
+**Author:** [Edward Elkins](https://x.com/EdwardElkinsJr) | **Source:** [Link](https://x.com/EdwardElkinsJr/status/2086989567635140643) | **Published:** Aug 11, 2026
 
 ---
 ### Holographic Satellite Wormhole Video
@@ -382,11 +563,11 @@ A glowing neon origami crane flying through a dark, rainy cyberpunk alleyway, il
 **Author:** [Okikiola Laura Eniola](https://x.com/OkikiolaLalmcr) | **Source:** [Link](https://x.com/OkikiolaLalmcr/status/2086899618491547810) | **Published:** Aug 10, 2026
 
 ---
-### Cinematic Tesla Spot with Cybertruck
+### Tesla Cybertruck Cinematic Commercial
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sequence of video prompts for a cinematic Tesla commercial featuring a Cybertruck, including character interactions and autonomous driving.
+> A multi-scene video generation prompt for a cinematic Tesla spot featuring a character interaction and the Cybertruck's autonomous features.
 
 #### 📝 Prompt
 
@@ -400,7 +581,7 @@ The @ model stands under the awning in the rain. The @ Cybertruck arrives to pic
 Cut to a cinematic exterior shot of the @ Cybertruck driving away. End on the @ Cybertruck as a voice says, "Tesla. For your convenience."
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086850401375047680/img/7uudIW_XQGlHQ3zS.jpg" width="600" alt="Cinematic Tesla Spot with Cybertruck">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086850401375047680/img/7uudIW_XQGlHQ3zS.jpg" width="600" alt="Tesla Cybertruck Cinematic Commercial">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8881)**
 
@@ -692,11 +873,11 @@ Video game of macrophages seeking out and ingesting needle-like fibers, then bre
 **Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2086490782459191393) | **Published:** Aug 9, 2026
 
 ---
-### Stand-up Comedy Marriage Joke
+### Stand-Up Comedy Marriage Joke
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a video of a woman performing stand-up comedy in a small venue, focusing on her delivering a specific joke about marriage.
+> A video prompt for Grok Imagine 2.0 that generates a scene of a woman performing stand-up comedy in a small venue, including a specific dialogue request for a joke about marriage.
 
 #### 📝 Prompt
 
@@ -704,7 +885,7 @@ Video game of macrophages seeking out and ingesting needle-like fibers, then bre
 a woman doing stand up comedy in a small venue tells a marriage joke (include the joke in the dialogue)
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086475665411330049/img/IBiQQ8_dXXbW4Yv0.jpg" width="600" alt="Stand-up Comedy Marriage Joke">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086475665411330049/img/IBiQQ8_dXXbW4Yv0.jpg" width="600" alt="Stand-Up Comedy Marriage Joke">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8835)**
 
@@ -730,6 +911,25 @@ Have Olaf the white standing next to Cherball MacDungail and Ivar the boneless w
 **Author:** [🐕‍🦺Ðoge✝️Cherball🚀](https://x.com/DogeCherball) | **Source:** [Link](https://x.com/DogeCherball/status/2086469861975208241) | **Published:** Aug 9, 2026
 
 ---
+### 90s West Coast Documentary Realism
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, professional multi-section script for generating a 16mm handheld documentary video with realistic West Coast vibes.
+
+#### 📝 Prompt
+
+```
+[STYLE + CAMERA + ATMOSPHERE] Gritty 16mm cinéma vérité, authentic documentary footage from a single continuous handheld take in a lived-in 1990s West Coast neighborhood. Organic film grain, soft golden-hour natural light, heavy shoulder-mounted handheld shake, no stabilization, soft focus falls, subtle light leaks, raw and elegant, lived-in realism. Continuous imperfect handheld observation. Completely photorealistic real photography — zero CGI. [TIMELINE SECOND BY SECOND] 0-2s: [Close Handheld Tracking] Black woman in her early 30s walks straight toward camera down the quiet residential street. Short textured undercut, dark lipstick, gold chains, black open oversized blazer over fitted tank, baggy black cargos, sneakers. Sunglasses on. Hands in pockets, powerful casual stride. Camera stays tight on her upper body and face, bouncing with every step. Palm trees and pastel low-rise apartments frame the background. 2-4s: [Unsteady Following] She continues without breaking pace. A young guy sitting on a low wall nods at her; she returns a short, knowing nod without slowing. Camera stays close and imperfect, drifting slightly to her side then back. Soft golden light hits the gold chains and the side of her face. 4-6s: [Raw Side Tracking] A woman in a red top approaches from the sidewalk. Brief exchange — the woman says something quiet, the dealer gives a small head tilt and keeps walking. Camera follows in continuous handheld, catching the natural street energy and distant people hanging out near a parked 90s car. 6-8s: [Close Imperfect Push] She slows just enough for a quick, low-key handoff with a guy in a white tee who steps up briefly. The exchange is fast, natural, almost invisible. Camera stays locked on her, micro-shake and all, never cutting. Her expression stays calm and unreadable behind the sunglasses. 8-10s: [Unsteady Following] She resumes full stride. Another local on a skateboard rolls past and gives her a quick chin-up recognition. She barely acknowledges it. Camera continues the same continuous take, breathing with her movement past more stucco apartments and palm shadows. 10-12s: [Raw Tracking] A small group of three hanging near a driveway watches her pass. One of them steps forward slightly; she gives a short verbal reply without stopping and keeps moving. Camera stays close behind and to the side, imperfect and alive. 12-15s: [Continuous Handheld] She walks deeper into the neighborhood as the take continues unresolved. Soft late-afternoon light, distant hills, power lines, the casual rhythm of the street. Camera never cuts, staying with her natural pace until the end of the shot. [STYLE & QUALITY BOOSTERS] Photorealistic real 16mm film emulation, heavy organic grain, authentic 1990s West Coast neighborhood details (palm trees, pastel stucco, period cars, skate culture, golden hour light), natural skin and fabric texture, imperfect continuous handheld physics, subtle fil
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086468980659699712/img/OoSyaWguujBvS-RH.jpg" width="600" alt="90s West Coast Documentary Realism">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8930)**
+
+**Author:** [TechHalla](https://x.com/techhalla) | **Source:** [Link](https://x.com/techhalla/status/2086469019146592294) | **Published:** Aug 9, 2026
+
+---
 ### Futuristic Gold Figure Newspaper Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -749,11 +949,11 @@ Have Olaf the white standing next to Cherball MacDungail and Ivar the boneless w
 **Author:** [PRⓞTⓄTYPE LIVE](https://x.com/PrototypeLive) | **Source:** [Link](https://x.com/PrototypeLive/status/2086435623993581615) | **Published:** Aug 9, 2026
 
 ---
-### Cinematic Japanese Street Documentary
+### Cinema Verite Japanese Street
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video script for a 16mm gritty documentary-style shot of a woman walking through a Japanese street.
+> A sophisticated video prompt using a documentary aesthetic to capture a woman walking through a contemporary Japanese street with feudal influences.
 
 #### 📝 Prompt
 
@@ -781,7 +981,7 @@ Gritty 16mm cinéma vérité, authentic documentary footage from a lived-in cont
 10.5-12s: [Handheld Side] She steps aside for a moment against a weathered stone pillar near a small shrine gate, watches the street flow for one second with a quiet, grounded look, then pushes off again at
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086421646814990336/img/lFHIYl_JXrw6Wu0h.jpg" width="600" alt="Cinematic Japanese Street Documentary">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086421646814990336/img/lFHIYl_JXrw6Wu0h.jpg" width="600" alt="Cinema Verite Japanese Street">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8842)**
 
@@ -1198,11 +1398,11 @@ A magical bike ride through a Starry Night dreamscape, cherry blossoms glowing, 
 **Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2085582849575399884) | **Published:** Aug 7, 2026
 
 ---
-### Late Night Study Vlog
+### Korean Student Study Vlog
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video prompt for a realistic smartphone selfie-style recording of a young woman studying at a cozy desk late at night, featuring natural movements and expressions.
+> A highly detailed video prompt for a realistic vertical vlog-style video featuring a Korean student studying at a cozy desk at night.
 
 #### 📝 Prompt
 
@@ -1222,7 +1422,7 @@ Shot 5 (8–10s): She gives a playful wink, points briefly toward the open noteb
 Style: Ultra-photorealistic, realistic smartphone selfie video, natural body language, authentic facial micro-expressions, subtle breathing, realistic blinking, accurate hand movement, lifelike hair physics, natural hoodie fabric movement, warm tungsten desk lamp, soft room ambience, smartphone autofocus breathing, slight handheld camera shake, shallow depth of field, cinematic yet authentic vlog aesthetic, HDR, 24 fps, 8K, no exaggerated expressions, no unrealistic camera motion, no AI artifacts.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085462976048549888/img/4A9Zonh4USg8hSxx.jpg" width="600" alt="Late Night Study Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085462976048549888/img/4A9Zonh4USg8hSxx.jpg" width="600" alt="Korean Student Study Vlog">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8761)**
 
@@ -1457,11 +1657,11 @@ CAMERA: DV 16mm tape camcorder handheld aesthetic. POV of a beautiful influencer
 **Author:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2085350644915765377) | **Published:** Aug 6, 2026
 
 ---
-### Korean Woman Pastel Bedroom Cinematic Video
+### Korean Lifestyle Cinematic Commercial
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex cinematic video prompt for Grok Imagine that specifies multiple camera shots and angles to create a high-quality lifestyle sequence of a woman in a bedroom.
+> A complex multi-shot video prompt for generating a premium Korean lifestyle commercial. It includes specific shot-by-shot directions, camera angles, and lighting details for a photorealistic 15-second video.
 
 #### 📝 Prompt
 
@@ -1485,7 +1685,7 @@ Shot 7 (13–15s): Wide shot. She walks toward the window, gently parts the shee
 Style: Ultra-photorealistic, premium Korean lifestyle commercial, natural body language, realistic facial expressions, lifelike eye movement and blinking, subtle breathing, physically accurate hair and fabric simulation, smooth cinematic camera movement, shallow depth of field, creamy bokeh, soft pastel color palette, warm morning sunlight, luxury editorial photography aesthetic, 35mm and 85mm lens look, 24 fps, HDR, 8K.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085338302216089600/img/mKF3Bz1eYfh1h2ne.jpg" width="600" alt="Korean Woman Pastel Bedroom Cinematic Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085338302216089600/img/mKF3Bz1eYfh1h2ne.jpg" width="600" alt="Korean Lifestyle Cinematic Commercial">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8660)**
 
@@ -2076,216 +2276,6 @@ This man is excited to fly home. The camera spins around the man and it shows th
 **Author:** [Paul Colmer @ AWS ☁️🛰️🚀🇦🇺](https://x.com/DigitalColmer) | **Source:** [Link](https://x.com/DigitalColmer/status/2084560073658179719) | **Published:** Aug 4, 2026
 
 ---
-### Woman in Black with Pansies
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> An artistic prompt for a woman in black attire with a decorative flower hat and a mysterious black cat in the background.
-
-#### 📝 Prompt
-
-```
-I become a woman with flowers and a hat. Red and white pansies decorate the black hat. The dress is also black, and the high-standing collar is also black. The background is yellow. Two eyes of a black cat were watching in the background.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084531200178401280/img/m3THnztKrjW_IQ0_.jpg" width="600" alt="Woman in Black with Pansies">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8483)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2084531222873792716) | **Published:** Aug 4, 2026
-
----
-### Woman Walking in Green Mini Skirt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A character animation prompt showing a woman walking forward in a stylish green outfit, designed for smooth movement without obstructions.
-
-#### 📝 Prompt
-
-```
-Avoid blockage while having her walking forward wearing a green mini skirt and high heels
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084443477958369280/img/-2fpW6gwMSDkyxB9.jpg" width="600" alt="Woman Walking in Green Mini Skirt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8538)**
-
-**Author:** [Steve Maynard](https://x.com/Sbm3Steve) | **Source:** [Link](https://x.com/Sbm3Steve/status/2084443502411473340) | **Published:** Aug 4, 2026
-
----
-### Roaring 20s Dancing Lady Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a period-style video of a lady dancing in a beaded dress with silver and pearl accessories
-
-#### 📝 Prompt
-
-```
-Lady dancing in roaring 20s beaded black and silver dress wearing beaded and white pearl accessories
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084395291059298304/img/TN2E76fSry2MhK_4.jpg" width="600" alt="Roaring 20s Dancing Lady Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8477)**
-
-**Author:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **Source:** [Link](https://x.com/Thoma31928Joy/status/2084395317718298644) | **Published:** Aug 3, 2026
-
----
-### The Office Dwight and Michael Skit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A multi-subject sitcom scene prompt featuring characters from The Office (US) in a meeting room setting.
-
-#### 📝 Prompt
-
-```
-Subject_definitions:
-<Subject 1> Dwight from the Office
-<Subject 2> Michael from the Office.
-<Subject 3> Jim from the Office
-
-Video_description:
-[Shot 1] Sitcom scene from The Office. Dwight and Michael in the meeting room.
-<Subject 2> in an annoyed look, turns his head toward <Subject 1>, and speaks with total sincerity, "[English] Dwight I swear to God if you mention one more thing about Grok Imagine, I am firing you on the spot."
-
-[Shot 2] Camera pans quickly vlog-style from <Subject 2> to <Subject 3>. <Subject 3> turns his head toward the camera and gives a small resigned shrug, his eyebrows raised slightly, mouth in a flat line.
-
-Soundscape: Quiet room tone typical of an office meeting room, the faint hum of fluorescent lighting, a chair creaking slightly as <Subject 1> sits upright. Outro song.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084358495386648576/img/mhnXXZU6HurnsgWT.jpg" width="600" alt="The Office Dwight and Michael Skit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8475)**
-
-**Author:** [Ash](https://x.com/asheem01) | **Source:** [Link](https://x.com/asheem01/status/2084358528496484716) | **Published:** Aug 3, 2026
-
----
-### Mountain Biking Trail Motion Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A motion generation prompt that takes a static photo of people on a trail and makes them begin riding their mountain bikes.
-
-#### 📝 Prompt
-
-```
-We’re on Specialized Turbo levos riding semi easy wooded trails. Make us start riding....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084305985343291392/img/EujwW4Dych7qA__x.jpg" width="600" alt="Mountain Biking Trail Motion Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8471)**
-
-**Author:** [KourX](https://x.com/SumXkourX) | **Source:** [Link](https://x.com/SumXkourX/status/2084319820728963158) | **Published:** Aug 3, 2026
-
----
-### Quiet Evening Musical Reflection Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic video prompt for a peaceful evening scene involving musical instruments and a soulful, soaring atmosphere.
-
-#### 📝 Prompt
-
-```
-„In the quiet of the evening, my heart finds its peace, with every note I play, my soul begins to soar.”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084318206374637568/img/NfHPO_ojDHbf99gn.jpg" width="600" alt="Quiet Evening Musical Reflection Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8480)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2084318293142257832) | **Published:** Aug 3, 2026
-
----
-### AI Time Traveler Sci-Fi Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt for a sci-fi sequence featuring a man discovering a time machine and meeting a robot.
-
-#### 📝 Prompt
-
-```
-Title: The AI Time Traveler
-
-[Scene 1 – A man presses a glowing button.]
-
-Man: Finally! My time machine works!
-
-(A robot suddenly appears in a flash.)
-
-Robot: Greetings, human from the primitive year 2026.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084273562639298560/img/WcsWVLHpjDRxsXBh.jpg" width="600" alt="AI Time Traveler Sci-Fi Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8479)**
-
-**Author:** [badrinathG](https://x.com/badrinathG01) | **Source:** [Link](https://x.com/badrinathG01/status/2084273602371969439) | **Published:** Aug 3, 2026
-
----
-### Living Beating Golden Heart
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal video featuring a living, beating golden heart displayed in a luxury foyer surrounded by roses.
-
-#### 📝 Prompt
-
-```
-A living golden heart that still beats on a sealed case that sits in the foyer of a luxury bouquet of roses that surround the podium home long after her death
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084262238630584320/img/0zNSX-3wn84Atn0L.jpg" width="600" alt="Living Beating Golden Heart">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8473)**
-
-**Author:** [Robin Vargas](https://x.com/ladiamondbaby) | **Source:** [Link](https://x.com/ladiamondbaby/status/2084262278447222838) | **Published:** Aug 3, 2026
-
----
-### Zundamon and Deltamon Rapeseed Field
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed video generation prompt for Grok Imagine featuring characters Zundamon and Deltamon in a field of rapeseed, including specific instructions for character consistency and framing.
-
-#### 📝 Prompt
-
-```
-Maintain character consistency, the color of Deltamon's tail and the shape consistency of the tail tip. Move the 'HONEY' jar in the bottom right out of the frame. Zundamon and Deltamon carrying nectar in a field of rapeseed.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084227416608919552/img/Tbjyx60FcZhrMthH.jpg" width="600" alt="Zundamon and Deltamon Rapeseed Field">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8482)**
-
-**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2084227436053696977) | **Published:** Aug 3, 2026
-
----
-### Red Echo Los Angeles Rooftop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt describing a stand-off on a downtown LA rooftop featuring a glowing blue knife and a retreating swarm.
-
-#### 📝 Prompt
-
-```
-Red Echo
-You stand on the rooftop in downtown Los Angeles, the glowing blue knife still warm in your palm. The Red swarm is retreating into the Pacific like a wounded animal.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084156108289998848/img/QI05m6cN7qH7KSDz.jpg" width="600" alt="Red Echo Los Angeles Rooftop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8405)**
-
-**Author:** [Bentley Reed](https://x.com/BReed2069) | **Source:** [Link](https://x.com/BReed2069/status/2084156121472725348) | **Published:** Aug 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2347,6 +2337,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-12T05:59:01.762Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-12T09:33:51.891Z</sub>
 
 </div>
