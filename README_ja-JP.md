@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2433** |
+| 📝 プロンプト総数 | **2439** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-08-13** |
 
@@ -189,11 +189,68 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
-### Sunrise Athletic Stretching Video
+### Cinematic Fantasy Sky Citadel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of an athlete stretching at sunrise with city skyline views and golden hour lighting.
+> A descriptive fantasy prompt for generating a cinematic video of a girl looking towards a majestic floating sky citadel with waterfalls and airships, perfect for motion generation.
+
+#### 📝 プロンプト
+
+```
+A mysterious girl with ocean eyes rises from the mist… and looks up at a floating sky citadel of golden domes, waterfalls, and airships.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786608220710_x82irk_HPlbm-RakAAc3TT.jpg" width="600" alt="Cinematic Fantasy Sky Citadel">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9013)**
+
+**作者:** [Naoya](https://x.com/NaoyaCreates) | **ソース:** [Link](https://x.com/NaoyaCreates/status/2087800665926209550) | **公開日:** Aug 13, 2026
+
+---
+### Fig Ripening Time-lapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An animation prompt that transforms a small green underripe fig into a full-sized ripe one, creating a natural growth and ripening effect.
+
+#### 📝 プロンプト
+
+```
+Can you make that tiny green underripe fig turn into a gorgeous full-size ripe fig?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087733516188479488/img/b5ldsAn0o2XNxhWc.jpg" width="600" alt="Fig Ripening Time-lapse">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9008)**
+
+**作者:** [Sasquatch Intellect](https://x.com/CoryHug04362472) | **ソース:** [Link](https://x.com/CoryHug04362472/status/2087733530902024342) | **公開日:** Aug 13, 2026
+
+---
+### Chinese Cheongsam and Dragon Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive cinematic prompt for a video featuring a woman in a traditional cheongsam being lifted into the air by a dragon.
+
+#### 📝 プロンプト
+
+```
+The beauty changed her clothes to Chinese cheongsam. The evil dragon leaned over and circled to look at the camera, and then the evil dragon rolled up the beautiful woman into the air. The beautiful woman looked down at the camera in the air and waved with a smile.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087474580504117248/img/68EJF92sedAVgrqX.jpg" width="600" alt="Chinese Cheongsam and Dragon Video">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9010)**
+
+**作者:** [实在人](https://x.com/yngfipng1) | **ソース:** [Link](https://x.com/yngfipng1/status/2087474826802086038) | **公開日:** Aug 12, 2026
+
+---
+### Sunrise Athletic Stretching
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cinematic photography-style video of an athlete stretching against a golden hour city skyline.
 
 #### 📝 プロンプト
 
@@ -201,11 +258,54 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 Athletic person stretching at sunrise, city skyline background, golden hour lighting, minimalist activewear, cinematic photography
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087367634077814784/img/aYMPTsTLcQE4yL0P.jpg" width="600" alt="Sunrise Athletic Stretching Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087367634077814784/img/aYMPTsTLcQE4yL0P.jpg" width="600" alt="Sunrise Athletic Stretching">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8922)**
 
 **作者:** [Viralblend](https://x.com/_Viralblend) | **ソース:** [Link](https://x.com/_Viralblend/status/2087367648606872030) | **公開日:** Aug 12, 2026
+
+---
+### Busy Beaver Computation Desk Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative animation prompt depicting a beaver's desk where work meets nature through computational switches and flowers.
+
+#### 📝 プロンプト
+
+```
+The Busy Beaver’s desk now has its flower point:
+
+64 SWITCHES   1 FLOWER VASE
+WORK   PLAY   LIFE
+
+The flowers bring color into the computation without interrupting the Beaver’s work.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087323909725044737/img/VjgJEMl-CaB2QzHT.jpg" width="600" alt="Busy Beaver Computation Desk Animation">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9011)**
+
+**作者:** [John Colwell](https://x.com/Jmcssystems) | **ソース:** [Link](https://x.com/Jmcssystems/status/2087323943648559187) | **公開日:** Aug 11, 2026
+
+---
+### Anime Marker Raccoon Portrait
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An anime marker style illustration of a cartoon raccoon with a unique color palette, set against a 1980s airbrush-style family portrait background.
+
+#### 📝 プロンプト
+
+```
+Anime marker style (mostly solid colors and fills) portrait as a cartoon raccoon with a fat head like this and white and dark green and gold tinged themed fur instead of just black and white. Tasteful appointments with a 1980s themed airbrush background like old family portrait photos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087319223567896576/img/zMwcv4x0oGBqXAF5.jpg" width="600" alt="Anime Marker Raccoon Portrait">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9009)**
+
+**作者:** [Pure Jimothy](https://x.com/purejimothy) | **ソース:** [Link](https://x.com/purejimothy/status/2087319238629572834) | **公開日:** Aug 11, 2026
 
 ---
 ### Electric Energy Visual Effects
@@ -282,6 +382,25 @@ Low camera angle following a girl pedaling her bike down a gentle slope facing a
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8928)**
 
 **作者:** [arnab](https://x.com/arnab28x) | **ソース:** [Link](https://x.com/arnab28x/status/2087221207422919109) | **公開日:** Aug 11, 2026
+
+---
+### Zendaya James Bond Video Concept
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A proof-of-concept video prompt imagining Zendaya as James Bond to demonstrate casting potential for major studios.
+
+#### 📝 プロンプト
+
+```
+What if Zendaya was James Bond? Create a proof-of-concept video to convince Amy Pascal and @AmazonMGMStudio that she’s perfect casting as the new Bond.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087174944698310656/img/FiZYuwcNiwvcTrWs.jpg" width="600" alt="Zendaya James Bond Video Concept">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9012)**
+
+**作者:** [Huff](https://x.com/Huff4Congress) | **ソース:** [Link](https://x.com/Huff4Congress/status/2087175078651768903) | **公開日:** Aug 11, 2026
 
 ---
 ### Cinematic 3-Shot Product Reveal Video
@@ -563,25 +682,19 @@ A glowing neon origami crane flying through a dark, rainy cyberpunk alleyway, il
 **作者:** [Okikiola Laura Eniola](https://x.com/OkikiolaLalmcr) | **ソース:** [Link](https://x.com/OkikiolaLalmcr/status/2086899618491547810) | **公開日:** Aug 10, 2026
 
 ---
-### Tesla Cybertruck Cinematic Commercial
+### Tesla Cybertruck Cinematic Commercial Spot
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-scene video generation prompt for a cinematic Tesla spot featuring a character interaction and the Cybertruck's autonomous features.
+> A structured multi-scene video prompt for creating a cinematic commercial spot for the Tesla Cybertruck, including automated pickup and interior interface details.
 
 #### 📝 プロンプト
 
 ```
-The @ model is walking down a street in New York City. It starts to rain, so she takes shelter under a shop awning. She pulls out her smartphone and says, "Grok, get me out of here."
-
-The @ Cybertruck is parked in a parking lot. Cut to the interior: the @ model's face appears on the cockpit screen. The @ Cybertruck powers up and the lights come on. Cut back to the exterior as the @ Cybertruck drives away on its own.
-
-The @ model stands under the awning in the rain. The @ Cybertruck arrives to pick her up, its door opening automatically as she gets in.
-
-Cut to a cinematic exterior shot of the @ Cybertruck driving away. End on the @ Cybertruck as a voice says, "Tesla. For your convenience."
+The model is walking down a street in New York City. It starts to rain, so she takes shelter under a shop awning. She pulls out her smartphone and says, "Grok, get me out of here." The Cybertruck is parked in a parking lot. Cut to the interior: the model's face appears on the cockpit screen. The Cybertruck powers up and the lights come on. Cut back to the exterior as the Cybertruck drives away on its own. The model stands under the awning in the rain. The Cybertruck arrives to pick her up, its door opening automatically as she gets in. Cut to a cinematic exterior shot of the Cybertruck driving away. End on the Cybertruck as a voice says, "Tesla. For your convenience."
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086850401375047680/img/7uudIW_XQGlHQ3zS.jpg" width="600" alt="Tesla Cybertruck Cinematic Commercial">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086850401375047680/img/7uudIW_XQGlHQ3zS.jpg" width="600" alt="Tesla Cybertruck Cinematic Commercial Spot">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8881)**
 
@@ -873,11 +986,11 @@ Video game of macrophages seeking out and ingesting needle-like fibers, then bre
 **作者:** [Loriel.AI](https://x.com/ou_zhen599) | **ソース:** [Link](https://x.com/ou_zhen599/status/2086490782459191393) | **公開日:** Aug 9, 2026
 
 ---
-### Stand-Up Comedy Marriage Joke
+### Stand-up Comedy Marriage Joke Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt for Grok Imagine 2.0 that generates a scene of a woman performing stand-up comedy in a small venue, including a specific dialogue request for a joke about marriage.
+> A video generation prompt for creating a scene of a female comedian performing a marriage-themed joke in an intimate venue, featuring synchronized dialogue.
 
 #### 📝 プロンプト
 
@@ -885,7 +998,7 @@ Video game of macrophages seeking out and ingesting needle-like fibers, then bre
 a woman doing stand up comedy in a small venue tells a marriage joke (include the joke in the dialogue)
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086475665411330049/img/IBiQQ8_dXXbW4Yv0.jpg" width="600" alt="Stand-Up Comedy Marriage Joke">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086475665411330049/img/IBiQQ8_dXXbW4Yv0.jpg" width="600" alt="Stand-up Comedy Marriage Joke Video">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8835)**
 
@@ -1761,11 +1874,11 @@ The man slowly reaches his free hand for the driver’s side door handle of the 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2085260396231832015) | **公開日:** Aug 6, 2026
 
 ---
-### Cinematic Realistic Bedroom Vlog
+### Cinematic Korean Woman Vlog Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-shot video generation prompt for a cozy Korean bedroom vlog, featuring realistic movement, lighting, and facial expressions with shot-by-shot directions.
+> A highly detailed multi-shot video prompt for creating a realistic smartphone-style vlog of a Korean woman in a bedroom setting, featuring natural movements and specific lighting details.
 
 #### 📝 プロンプト
 
@@ -1785,7 +1898,7 @@ Shot 5 (8–10s): Close-up selfie. She leans slightly closer to the camera, give
 Style: Ultra-photorealistic, natural facial expressions, realistic blinking, subtle breathing, lifelike hair physics, authentic smartphone handheld movement, warm ambient lighting, shallow depth of field, premium cinematic color grading, 24 fps, 8K, cozy Korean bedroom aesthetic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cinematic Realistic Bedroom Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cinematic Korean Woman Vlog Video">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8613)**
 
@@ -2162,120 +2275,6 @@ Fading frames of a monochrome past flicker like a silent film, each memory etche
 **作者:** [GrokPromptShare](https://x.com/GrokPromptShare) | **ソース:** [Link](https://x.com/GrokPromptShare/status/2084783783731990763) | **公開日:** Aug 4, 2026
 
 ---
-### Martian Child Emotional Short Film
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt for an emotional scene about a girl born on Mars who longs to see Earth.
-
-#### 📝 プロンプト
-
-```
-A quiet, emotional short film about a girl born on Mars who has never seen Earth… and refuses to believe it when she finally does.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084662073053851648/img/z9KvSJO6M55SXBDk.jpg" width="600" alt="Martian Child Emotional Short Film">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8548)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2084662494052991478) | **公開日:** Aug 4, 2026
-
----
-### Singing Along to Radio in Car
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for Grok Imagine featuring a character driving a car and singing along to a specific song verse.
-
-#### 📝 プロンプト
-
-```
-she is in her car driving, she put on the radio. play the first verse of believer and have she sings along
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084581704035938304/img/ok64SF6K4kDHiP7C.jpg" width="600" alt="Singing Along to Radio in Car">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8540)**
-
-**作者:** [The.Stargate.Project](https://x.com/ESTEBUENOSTUDIO) | **ソース:** [Link](https://x.com/ESTEBUENOSTUDIO/status/2084582411061370974) | **公開日:** Aug 4, 2026
-
----
-### Height Difference Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt where a character uses heels to appear even taller than their partner.
-
-#### 📝 プロンプト
-
-```
-She taller than him and pulls out from under the bed some heels or wedges to make herself even more taller than him.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084582186636763136/img/8ll9ShWIrrqH-_2Q.jpg" width="600" alt="Height Difference Scene">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8546)**
-
-**作者:** [Brian](https://x.com/luvsheight) | **ソース:** [Link](https://x.com/luvsheight/status/2084582209793474820) | **公開日:** Aug 4, 2026
-
----
-### Peaceful Seaside Moment
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A serene video prompt featuring a character in a white dress against a backdrop of soft pastel skies by the ocean.
-
-#### 📝 プロンプト
-
-```
-Soft pastel skies, a white dress, and a quiet companion… A peaceful moment by the sea.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084581187247632385/img/0SIhrJaIZBc97NLk.jpg" width="600" alt="Peaceful Seaside Moment">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8547)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2084581252007698692) | **公開日:** Aug 4, 2026
-
----
-### Funky Advertising Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-energy animation prompt combining Japanese and Korean advertising styles with a funky theme.
-
-#### 📝 プロンプト
-
-```
-강 경미 대장 양주시 공주 이기 장료 ￼ hey Grok animate my image so it looks well cool and sick make it rad and make it really really excellent and funky add some Japanese and Korean Advertising greatness and make it pop and give it a funky tune cheers salute
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084574833338204160/img/6YEQdXQBrFmvHPqA.jpg" width="600" alt="Funky Advertising Animation">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8543)**
-
-**作者:** [🇫🇷ㄹㄹ • アダム 🇩🇪 𝕏 • 𓂀𓆃𓆗𓃭𓆗☽𖤓༄](https://x.com/disnoted) | **ソース:** [Link](https://x.com/disnoted/status/2084574855861567874) | **公開日:** Aug 4, 2026
-
----
-### Pilot Taxiing at Sydney Airport
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt where the camera spins around a pilot taxiing a Boeing 737 toward the runway.
-
-#### 📝 プロンプト
-
-```
-This man is excited to fly home. The camera spins around the man and it shows the man in a pilots uniform. He is taxiing towards the runway at Sydney in a Qantas Boeing 737-800. He has an Australian and UK blended accent.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084560045384294400/img/C5tlHL5lZz59FXg3.jpg" width="600" alt="Pilot Taxiing at Sydney Airport">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8544)**
-
-**作者:** [Paul Colmer @ AWS ☁️🛰️🚀🇦🇺](https://x.com/DigitalColmer) | **ソース:** [Link](https://x.com/DigitalColmer/status/2084560073658179719) | **公開日:** Aug 4, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2337,6 +2336,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-13T06:06:12.586Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-13T09:38:43.527Z</sub>
 
 </div>
