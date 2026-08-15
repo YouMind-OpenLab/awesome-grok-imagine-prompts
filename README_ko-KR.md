@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2458** |
+| 📝 총 프롬프트 수 | **2479** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-08-15** |
 
@@ -189,11 +189,315 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
-### Cinematic Louvre Golden Hour Portrait
+### Dragon Snout Golden Light Touch
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sophisticated video prompt featuring a woman at the Louvre with a blend of idol-like charm and environmental tension.
+> A poetic video prompt capturing the moment fingers nearly touch a dragon's snout under dancing golden light.
+
+#### 📝 프롬프트
+
+```
+her fingers almost touching its snout as golden light dances across both of them
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088487362472837120/img/z7hpOYjISu7I1mtg.jpg" width="600" alt="Dragon Snout Golden Light Touch">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9173)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2088488663302779227) | **게시일:** Aug 15, 2026
+
+---
+### Late Night Adventure Sneak Out
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for generating a video of a child cautiously sneaking out for a late-night adventure while their mother sleeps.
+
+#### 📝 프롬프트
+
+```
+Checking to make sure mother's asleep before sneaking out for a late night adventure.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088485262443900928/img/FHHwZMwSUBc8WhiJ.jpg" width="600" alt="Late Night Adventure Sneak Out">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9185)**
+
+**작성자:** [Christopher Gwinn | Grindhouse Glitch](https://x.com/ChrisGwinnLA) | **출처:** [Link](https://x.com/ChrisGwinnLA/status/2088485933494751406) | **게시일:** Aug 15, 2026
+
+---
+### Coffee shop bravery discussion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dramatic video prompt for a close-up discussion between a man and a woman in a coffee shop focusing on micro-expressions.
+
+#### 📝 프롬프트
+
+```
+A man and a woman talking in a coffee shop having a discussion about the value of bravery in a world that rewards cowardice. Cinematic, prestige level quality directing and cinematography. Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088480964515123200/img/bibzKm-q7Urs6URB.jpg" width="600" alt="Coffee shop bravery discussion">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9171)**
+
+**작성자:** [Rob Allan](https://x.com/allan_robII) | **출처:** [Link](https://x.com/allan_robII/status/2088481490740916582) | **게시일:** Aug 15, 2026
+
+---
+### Modern MGM intro remake
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to generate a modern and high-bass version of the iconic MGM lion roar intro.
+
+#### 📝 프롬프트
+
+```
+A modern version of the mgm intro with a louder roar extra bass is how I feel inside all the time
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088481167909552128/img/Vl_YF05gwmNDq_Ci.jpg" width="600" alt="Modern MGM intro remake">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9170)**
+
+**작성자:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **출처:** [Link](https://x.com/AMERICA250e9/status/2088481205649854466) | **게시일:** Aug 15, 2026
+
+---
+### Friendly Dragon Cliffside Greeting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a person on a cliff edge welcoming a dragon with a gentle, inviting gesture.
+
+#### 📝 프롬프트
+
+```
+i'm standing tall on the cliff edge, one hand reaching out toward the dragon with an open palm, gentle and inviting, like i'm welcoming an old friend.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088479193356984320/img/452nGQnbzrkX-2WJ.jpg" width="600" alt="Friendly Dragon Cliffside Greeting">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9174)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2088479596656177372) | **게시일:** Aug 15, 2026
+
+---
+### Gentle Dragon Bond at Sunset
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An evocative and poetic video prompt describing a peaceful moment between a girl and a shimmering dragon at sunset by the ocean.
+
+#### 📝 프롬프트
+
+```
+the dragon’s head slowly lowers toward her open hand, scales shimmering with soft light as the wind gently lifts her long hair and the hem of her flowing dress, its wings softly unfurling and catching the sunset glow while the ocean waves roll quietly behind them, the dragon’s eyes blink once with warmth and its mouth curves into a slow knowing smile, her fingers almost touching its snout as golden light dances across both of them… pure gentle bond, no big movements.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088476460897972224/img/sLVfIOeXg862Y-dp.jpg" width="600" alt="Gentle Dragon Bond at Sunset">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9168)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2088476669673627890) | **게시일:** Aug 15, 2026
+
+---
+### SpaceX Mars Landing Video Landing Page
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for a SpaceX Starship landing on Mars at dusk, designed for high-end hero sections with smooth motion.
+
+#### 📝 프롬프트
+
+```
+Landing page hero section design for SpaceX Starship landing on Mars at dusk, soft warm off-white and pale stone canvas, oversized clean photographic imagery with gentle natural light, elegant muted champagne and soft gray tones with subtle cyan accents, ultra-clean composition, sophisticated high-end typography, subtle floating glass elements, generous negative space, soft diffused lighting, minimal technical details, polished luxury product aesthetic, calm and refined atmosphere, ultra-high detail 12k quality, cinematic depth ready for smooth video motion
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088337507327074304/img/4tOfZhmL6_bVVNmK.jpg" width="600" alt="SpaceX Mars Landing Video Landing Page">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9175)**
+
+**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **게시일:** Aug 14, 2026
+
+---
+### Dragon Day-to-Night Transition
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematographic prompt involving a dragon flying over the Grand Canyon with a day-to-night seamless transition.
+
+#### 📝 프롬프트
+
+```
+The awestruck man sits on the Grand Canyon edge holding his steaming coffee, eyes wide with wonder as the exact golden Chinese lung-style dragon with massive scientifically realistic wings soars alone. The golden dragon breathes a powerful stream of fire directly toward the rising sun above the horizon. Then the dragon banks and flies toward the left side of the frame as a night skyline with stars and city lights begins to appear on the far left, creating a seamless day-to-night transition like crossing time zones — the dragon flies between the two worlds. Keep the enormous wings fully extended for lift, ultra-realistic detail, intense eyes, sun-reflecting golden scales, continuous smooth flight motion, epic lighting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088381582834892800/img/YWP9hBcWdfxDtEw5.jpg" width="600" alt="Dragon Day-to-Night Transition">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9167)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2088382010322772177) | **게시일:** Aug 14, 2026
+
+---
+### Starship loading process
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical and realistic prompt for animating a SpaceX Starship being loaded onto a transport trailer using claw arms.
+
+#### 📝 프롬프트
+
+```
+Using the claw arms load the Starship slowly onto an empty transport trailer truck then driven away from launch site
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088366889076457473/img/pdzOQHfq_DfORIrN.jpg" width="600" alt="Starship loading process">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9169)**
+
+**작성자:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **출처:** [Link](https://x.com/SuperGeekCRC/status/2088366936958660710) | **게시일:** Aug 14, 2026
+
+---
+### SpaceX orbital refueling design
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A professional architectural and cinematic prompt for a SpaceX refueling depot featuring luxury product aesthetics and smooth camera motion.
+
+#### 📝 프롬프트
+
+```
+Landing page hero section design for SpaceX orbital refueling depot, soft warm off-white and pale stone canvas, oversized clean photographic imagery with gentle natural light, elegant muted champagne and soft gray tones with subtle cyan accents, ultra-clean composition, sophisticated high-end typography, subtle floating glass elements, generous negative space, soft diffused lighting, minimal technical details, polished luxury product aesthetic, calm and refined atmosphere, ultra high detail 12k quality, cinematic depth ready for smooth video motion. Slow cinematic camera push-in, subtle floating particles and soft light movement, gentle atmospheric haze drifting, smooth elegant motion, premium cinematic feel, ultra-high detail, calm and refined atmosphere
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088331909390852098/img/HbuWOalEbijvW4s7.jpg" width="600" alt="SpaceX orbital refueling design">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9172)**
+
+**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2088362524987236421) | **게시일:** Aug 14, 2026
+
+---
+### Starship Mars Landing Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for a SpaceX Starship landing on Mars, featuring a cinematic push-in and atmospheric effects designed for video motion.
+
+#### 📝 프롬프트
+
+```
+Landing page hero section design for SpaceX Starship landing on Mars at dusk, deep charcoal to near-black background, oversized immersive photographic imagery, rich atmospheric depth, warm copper and amber highlights with cool cyan and steel blue accents, soft volumetric haze, pronounced cinematic contrast, subtle translucent glass UI elements, elegant refined typography, delicate technical annotations, asymmetric composition, generous negative space, soft bloom, tactile film grain, ultra-premium futuristic aesthetic, ultra high detail 12k quality, cinematic depth ready for smooth video motion. Slow cinematic camera push-in, subtle floating particles and soft light movement, gentle atmospheric haze drifting, smooth elegant motion, premium cinematic feel, ultra high detail, calm and refined atmosphere
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088323317975674880/img/WyD8QUZXAglo-Q80.jpg" width="600" alt="Starship Mars Landing Animation">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9176)**
+
+**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2088323673103208482) | **게시일:** Aug 14, 2026
+
+---
+### Australian Collie Ocean Shore Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Captures a majestic Australian Collie with striking ocean eyes playing on the shore, focusing on lighting and its steady, loyal gaze.
+
+#### 📝 프롬프트
+
+```
+Australian collie, ocean eyes that catch the light like sun on water… sleek coat, alert ears, that steady gaze that says “I’m here for you.” plays with tennis balls on the ocean shore
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088315906703101952/img/ZnGqTwKezCtzwx5R.jpg" width="600" alt="Australian Collie Ocean Shore Animation">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9183)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2088316174509515150) | **게시일:** Aug 14, 2026
+
+---
+### Ebony Dragon Tea Party Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a video of a growing dragon elegantly holding a teacup with its black claws, blending mythical power with dainty movements.
+
+#### 📝 프롬프트
+
+```
+dragon grows up to be big and daintily holds own teacup in ebony black fingerclaw
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088303551034372096/img/sbfUg6H0e2qT3QhE.jpg" width="600" alt="Ebony Dragon Tea Party Animation">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9180)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2088303946016153820) | **게시일:** Aug 14, 2026
+
+---
+### Noah's Flood Starship Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dramatic cinematic video prompt showing a starship leaving Earth during a global flood that submerges the pyramids, blending biblical and sci-fi imagery.
+
+#### 📝 프롬프트
+
+```
+A woman and a man aboard an open starship charting off planet Earth towards the sun, watching the waters prevail over the world as in Noah’s flood, massive floodwaters covering the pyramids and submerging the Earth below them only a few on the planet, remain the ones that were warned and made vessels for the sea
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088289936520757248/img/LgWytKEgcs0PEpvQ.jpg" width="600" alt="Noah's Flood Starship Video Prompt">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9179)**
+
+**작성자:** [Maria Of Mars](https://x.com/MariaGa68521784) | **출처:** [Link](https://x.com/MariaGa68521784/status/2088289952517759388) | **게시일:** Aug 14, 2026
+
+---
+### Luminous Humanoid Entity Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal video prompt featuring a glowing humanoid entity against a dark abstract backdrop.
+
+#### 📝 프롬프트
+
+```
+A surreal, luminous humanoid entity with glowing aura in a dark, abstract background.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786779721376_i0zfwy_HPsF8rNbsAA7B9F.jpg" width="600" alt="Luminous Humanoid Entity Animation">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9178)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2088269525498384859) | **게시일:** Aug 14, 2026
+
+---
+### Pixel Art Looping Aesthetic
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A video prompt creating a pixel art style scene with a looping aesthetic and a relatively still camera, inspired by Japanese song lyrics.
+
+#### 📝 프롬프트
+
+```
+pixel art style, looping aesthetic, relatively still camera. I can no longer test the tires and heart I changed for you.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088180539593527296/img/i4HHRg60vuC2ni5p.jpg" width="600" alt="Pixel Art Looping Aesthetic">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9187)**
+
+**작성자:** [今井宏之](https://x.com/imaikaiimai) | **출처:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **게시일:** Aug 14, 2026
+
+---
+### Louvre Golden Hour Idol Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An artistic video prompt of a bubbly female idol admiring the Louvre during golden hour with dynamic background responses.
 
 #### 📝 프롬프트
 
@@ -201,7 +505,7 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 American female playfully admiring the louvre at golden hour, bubbly and expressive like a popular idol, but show subtle environmental tension artistic and thought-provoking, consistent overall composition but with dynamic background response to her presence
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088153830563450880/img/_u2QzRzpHA1WodHc.jpg" width="600" alt="Cinematic Louvre Golden Hour Portrait">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088153830563450880/img/_u2QzRzpHA1WodHc.jpg" width="600" alt="Louvre Golden Hour Idol Video">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9095)**
 
@@ -246,11 +550,11 @@ The bald man in black suit and fedora sings passionately into the vintage microp
 **작성자:** [pistacchione](https://x.com/Oldtool9) | **출처:** [Link](https://x.com/Oldtool9/status/2088149153813577744) | **게시일:** Aug 14, 2026
 
 ---
-### Ultra-Cinematic Time Travel Rift
+### Cinematic Time Traveler Portal Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An extensive, multi-scene 15-second cinematic prompt detailing a time traveler stepping through a rift into various historical eras.
+> A comprehensive 15-second cinematic video sequence depicting a time traveler stepping through a temporal rift into space.
 
 #### 📝 프롬프트
 
@@ -272,7 +576,7 @@ Lighting: High contrast between deep blacks of the void and intense cool whites/
 Native audio design: Starts with deep low-frequency void rumble and faint mechanical ticking. Builds with electrical tearing and crackling as the portal opens, layered overlapping historical soundscapes (distant horses and market chatter, jazz saxophone, cyberpunk rain and neon hum, forest wind and birds), rising orchestral tension and ethereal tones, peaking in a pure resonant crystalline note at the singularity, then resolving into soft ambient space silence with a single distant heartbeat and gentle orbital hum.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088143927710822400/img/P6C2auiwtspVMggi.jpg" width="600" alt="Ultra-Cinematic Time Travel Rift">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088143927710822400/img/P6C2auiwtspVMggi.jpg" width="600" alt="Cinematic Time Traveler Portal Sequence">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9094)**
 
@@ -336,6 +640,65 @@ A scene on Mars depicting a self-sustaining energy loop system. Coils in orbit, 
 **작성자:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **출처:** [Link](https://x.com/TLouisevsughan/status/2088129717148975216) | **게시일:** Aug 14, 2026
 
 ---
+### Queen Warrior Battle Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt depicting a queen dressed as a warrior, armed with a sword, riding a horse into a battle scene.
+
+#### 📝 프롬프트
+
+```
+Make a horse running to a battle me dressed up as a warrior with a sword make me wearing a crown for a queen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088105992131387393/img/RYKSv0c37xjiK5-a.jpg" width="600" alt="Queen Warrior Battle Scene">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9184)**
+
+**작성자:** [loretta Goldthwaite Goldthrite Sanders](https://x.com/loretta824yaho1) | **출처:** [Link](https://x.com/loretta824yaho1/status/2088106006413033633) | **게시일:** Aug 14, 2026
+
+---
+### Psychedelic Surreal Cherub Album Art
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex surrealist prompt for a psychedelic album cover that blends multiple reference images into a scene featuring a chubby rebellious cherub.
+
+#### 📝 프롬프트
+
+```
+A powerful surreal psychedelic album-cover artwork that fuses all the reference images into one cohesive scene. In the center stands the rebellious cherub from the fourth image — chubby baby angel  beauty groki ai x
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088087541513867264/img/S3EG87dAzwHDuXGR.jpg" width="600" alt="Psychedelic Surreal Cherub Album Art">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9177)**
+
+**작성자:** [Cyperpienso](https://x.com/cyperpienso) | **출처:** [Link](https://x.com/cyperpienso/status/2088087648124743926) | **게시일:** Aug 14, 2026
+
+---
+### Manoa Falls Rainforest Hike Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A serene, atmospheric video prompt focusing on a lush rainforest hike to Manoa Falls, featuring fresh fruit, drinks, and big green leaves.
+
+#### 📝 프롬프트
+
+```
+no words or voices, no sudden movements
+
+Lose Control Sometimes: with ... fresh fruit, some little sandwiches, and cold drinks in the cooler. the waterfall's up in the mountains, about a thirty-minute drive from here. it's called manoa falls, super lush hike through the rainforest with big green leaves everywhere...you ready to go?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088083245502013440/img/w1zw8vccJYIBsuZr.jpg" width="600" alt="Manoa Falls Rainforest Hike Video">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9182)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2088083861888462939) | **게시일:** Aug 14, 2026
+
+---
 ### Football Game Night Atmosphere
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -355,39 +718,58 @@ Change the outside scenery to being dark out TV playing with the Steelers on it 
 **작성자:** [Irene Sieg](https://x.com/SiegSieg50040) | **출처:** [Link](https://x.com/SiegSieg50040/status/2088073752781152305) | **게시일:** Aug 14, 2026
 
 ---
-### Cybernetic Woman Reciting Japanese Proverb
+### Western Wizard of Oz with Dinosaurs
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a woman with cybernetic enhancements performing a slow zoom while reciting a traditional Japanese proverb.
+> A mashup video prompt combining the Wizard of Oz characters with an old western setting and prehistoric dinosaurs in the background.
 
 #### 📝 프롬프트
 
 ```
-A slow delicate zoom as she raises her right hand growing with through the cybernetics, she says in a perfectly lip sync voice “A frog in a well knows nothing of the great ocean.”
+Wizard of Oz and they were old western background cowboy and some dinosaurs in the background
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088066196516339712/img/HUQcIMq7mlSxR_nY.jpg" width="600" alt="Western Wizard of Oz with Dinosaurs">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9181)**
+
+**작성자:** [Spacecowboy](https://x.com/Spacedragon22) | **출처:** [Link](https://x.com/Spacedragon22/status/2088066209095065908) | **게시일:** Aug 14, 2026
+
+---
+### Cybernetic Lip Sync Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex cinematic prompt for a cybernetic character with precise lip-syncing and delicate camera work.
+
+#### 📝 프롬프트
+
+```
+A slow delicate zoom as she raises her right hand growing with through the cybernetics, she says in a perfectly lip sync voice “A frog in a well does not know the great ocean”
 A soft subtle breeze blowing through her hair.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088055538101915648/img/sickJtjhr1DecCin.jpg" width="600" alt="Cybernetic Woman Reciting Japanese Proverb">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088055538101915648/img/sickJtjhr1DecCin.jpg" width="600" alt="Cybernetic Lip Sync Animation">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9101)**
 
 **작성자:** [RocKet-boys](https://x.com/Stardust0024) | **출처:** [Link](https://x.com/Stardust0024/status/2088055574202298374) | **게시일:** Aug 14, 2026
 
 ---
-### Outdoor Evening Restaurant Atmosphere
+### Evening outdoor restaurant scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for creating a lively outdoor restaurant scene at night with string lights and people chatting under umbrellas.
+> A cozy video prompt depicting people chatting at an outdoor restaurant under umbrellas with string lights during the evening.
 
 #### 📝 프롬프트
 
 ```
-Make it make an outdoor evening sitting under a sitting under several umbrellas in an outdoor restaurant type setting with string lights overhead, and I have several people sitting at tables chatting with each other and having a nice time
+Make it make an outdoor evening sitting under a sitting under several umbrellas in an outdoor restaurant type setting with string lights overhead, and I have several people sitting at tables chatting with each other and having a nice time Good evening friends…,,,
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088054923216687104/img/qOMedkbVy8E0A84w.jpg" width="600" alt="Outdoor Evening Restaurant Atmosphere">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088054923216687104/img/qOMedkbVy8E0A84w.jpg" width="600" alt="Evening outdoor restaurant scene">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9096)**
 
@@ -449,6 +831,25 @@ I walk down the stairs to the stage. I have a microphone in my hand and I sing a
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9087)**
 
 **작성자:** [Jarosław Justka](https://x.com/jaras70berlin) | **출처:** [Link](https://x.com/jaras70berlin/status/2087978382038380859) | **게시일:** Aug 13, 2026
+
+---
+### Historical and Star-forged Evolution
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A morphing sequence prompt for Grok Imagine that transforms a historical pharaoh into various warriors, ending in space.
+
+#### 📝 프롬프트
+
+```
+Pharaoh → Emperor → Berserker → Ronin → Airship Captain → Sorcerer → Jaguar Priest → Star-forged Knight… then silence on Mars.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087894188209610753/img/wJeLmCWmKpqBwEhX.jpg" width="600" alt="Historical and Star-forged Evolution">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9186)**
+
+**작성자:** [Tina ♡ 💫](https://x.com/Tina22_2) | **출처:** [Link](https://x.com/Tina22_2/status/2087894300600283624) | **게시일:** Aug 13, 2026
 
 ---
 ### Woman Walking Park Path
@@ -1063,12 +1464,12 @@ A glowing neon origami crane flying through a dark, rainy cyberpunk alleyway, il
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A structured multi-scene video prompt for creating a cinematic commercial spot for the Tesla Cybertruck, including automated pickup and interior interface details.
+> A multi-part video prompt for a Tesla Cybertruck commercial featuring automated driving and remote interaction in a city setting.
 
 #### 📝 프롬프트
 
 ```
-The model is walking down a street in New York City. It starts to rain, so she takes shelter under a shop awning. She pulls out her smartphone and says, "Grok, get me out of here." The Cybertruck is parked in a parking lot. Cut to the interior: the model's face appears on the cockpit screen. The Cybertruck powers up and the lights come on. Cut back to the exterior as the Cybertruck drives away on its own. The model stands under the awning in the rain. The Cybertruck arrives to pick her up, its door opening automatically as she gets in. Cut to a cinematic exterior shot of the Cybertruck driving away. End on the Cybertruck as a voice says, "Tesla. For your convenience."
+The @ model is walking down a street in New York City. It starts to rain, so she takes shelter under a shop awning. She pulls out her smartphone and says, \"Grok, get me out of here.\"\n\nThe @ Cybertruck is parked in a parking lot. Cut to the interior: the @ model's face appears on the cockpit screen. The @ Cybertruck powers up and the lights come on. Cut back to the exterior as the @ Cybertruck drives away on its own.\n\nThe @ model stands under the awning in the rain. The @ Cybertruck arrives to pick her up, its door opening automatically as she gets in.\n\nCut to a cinematic exterior shot of the @ Cybertruck driving away. End on the @ Cybertruck as a voice says, \"Tesla. For your convenience.\"
 ```
 
 <img src="https://pbs.twimg.com/amplify_video_thumb/2086850401375047680/img/7uudIW_XQGlHQ3zS.jpg" width="600" alt="Tesla Cybertruck Cinematic Commercial Spot">
@@ -1750,538 +2151,6 @@ Have the butterfly fly off and land on a little young white girl finger. She is 
 **작성자:** [Carlos W Royal](https://x.com/carloswroyal) | **출처:** [Link](https://x.com/carloswroyal/status/2086179017233957087) | **게시일:** Aug 8, 2026
 
 ---
-### Segmented Scene Control Interaction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An advanced video prompt using segmentation IDs to direct multiple interactions between a man, a robot sculpture, and a vehicle.
-
-#### 📝 프롬프트
-
-```
-(Man with sunglasses) turns toward (red white blue robot sculpture) as the (red white blue robot sculpture dances. The (man in a light blue shirt) runs over to the (green vehicle) and begins to drive in in reverse, and then forward toward the dancing (red white blue robot sculpture)
-```
-
-<img src="https://cms-assets.youmind.com/media/1786263206666_tgyokf_HPNW-ReWcAAq5wy.jpg" width="600" alt="Segmented Scene Control Interaction">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8760)**
-
-**작성자:** [The Qubits Guy](https://x.com/Toy_Maestro) | **출처:** [Link](https://x.com/Toy_Maestro/status/2086107661569831265) | **게시일:** Aug 8, 2026
-
----
-### Japanese Festival Night Scene
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A descriptive prompt creating a cinematic Japanese summer festival atmosphere with lanterns, yukata, and traditional music.
-
-#### 📝 프롬프트
-
-```
-Many festival lanterns light up the night sky. I stand at the edge of a food stall, holding a fox mask in one hand. I am wearing a red, black, and yellow yukata. The sound of flutes and drums nearby makes my heart flutter. It feels so feminine. The scent of flowers seems to waft through the air. In a video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086073921938522112/img/u4xlGj3DD5no73wA.jpg" width="600" alt="Japanese Festival Night Scene">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8763)**
-
-**작성자:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **출처:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2086073936845135977) | **게시일:** Aug 8, 2026
-
----
-### Giant Robot vs Sea Monster Cinematic Video
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A highly detailed cinematic prompt for a video depicting a massive robot fighting a dinosaur-like sea creature during a nocturnal sea storm.
-
-#### 📝 프롬프트
-
-```
-A combat robot hundreds of meters tall standing in the sea, with everything below its thighs underwater. The scene is at night with heavy rain. Five helicopters with searchlights are flying in circles around this huge robot, searching for unidentified objects underwater. The sea surface is surging with waves and strong winds. Suddenly, in an instant, a very large dinosaur-like aquatic creature emerges from under the sea and knocks down the robot with one palm strike.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086069163685199872/img/gk-aS3myUext6lgJ.jpg" width="600" alt="Giant Robot vs Sea Monster Cinematic Video">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8762)**
-
-**작성자:** [广州水军](https://x.com/TidyFzy) | **출처:** [Link](https://x.com/TidyFzy/status/2086069405746971028) | **게시일:** Aug 8, 2026
-
----
-### Futuristic Shinjuku Pelican on Bicycle
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A surreal high-resolution video prompt depicting a pelican riding a pedal-less, eye-tracking bicycle through the streets of Shinjuku in 2055.
-
-#### 📝 프롬프트
-
-```
-Ultra-unrealistic resolution: A pelican in Shinjuku in 2055, riding a bicycle released in 2054. The bicycle has no pedals as it is operated solely by eye-tracking. Of particular note is the depiction of cornering on the famous Metropolitan Expressway slalom.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085638778748801024/img/fTm8fo_A0Kw-EZl8.jpg" width="600" alt="Futuristic Shinjuku Pelican on Bicycle">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8670)**
-
-**작성자:** [original だいすけ](https://x.com/daisuke) | **출처:** [Link](https://x.com/daisuke/status/2085638794615898621) | **게시일:** Aug 7, 2026
-
----
-### Woman and Monkey Playful Interaction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt for Grok Imagine that uses reference images of a woman and a macaque to create a photorealistic video of them laughing and playing together.
-
-#### 📝 프롬프트
-
-```
-Use the exact face and identity from the provided woman reference image and the exact face and identity from the provided Japanese macaque (Punch) reference photo. Do not change, alter, or redesign any facial features of either subject. Photorealistic cinematic video of the exact same young woman from the reference (long wavy dark brown hair, light blue eyes, white blouse) and the exact same Punch monkey from the reference photo playfully interacting together. Both are smiling and laughing while gently playing. Soft natural outdoor lighting, warm atmosphere, smooth natural motion, high detail, keep both faces completely unchanged and identical to the references.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786090950705_n2f4rg_HPGkYpWXMAA-XD9.jpg" width="600" alt="Woman and Monkey Playful Interaction">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8668)**
-
-**작성자:** [Hyun Lee](https://x.com/HolyMolySakura) | **출처:** [Link](https://x.com/HolyMolySakura/status/2085628853926465770) | **게시일:** Aug 7, 2026
-
----
-### Three-Panel Split Screen Cinematic Portrait Video
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed 8K prompt for creating a three-panel vertical split-screen cinematic video featuring a woman with short golden hair and freckles in a misty dusk setting.
-
-#### 📝 프롬프트
-
-```
-8K hyper-realistic 6-second vertical dynamic short film, fixed three-panel vertical split-screen frame, with the dividing lines remaining unchanged. The three panels move independently without overlapping visuals. Hazy and misty outdoor twilight, low-saturation dark-toned cinematic weak side lighting, film grain texture. A woman with light golden short curly hair and a black minimalist top, with highly realistic freckled skin texture and hair constantly blowing in the breeze. Total duration 6 seconds.
-[Top Panel | 0-6s Independent Motion] The woman slowly raises her right hand to the side of her forehead, her fingertips lightly touching her temple. Her gaze is empty and wandering, her lips slightly parted, showing a weary and preoccupied expression. Strands of hair sweep over her eyes in the wind, and her eyelids blink slowly. The lens moves forward very slowly with a small push, focusing on the eyes and hand, with subtle camera shake from a sense of breathing. No dialogue.
-[Middle Panel | 0-6s Independent Motion] A close-up of the character's side profile, looking into the distance with eyelashes trembling slowly. Tears gradually well up in her eyes, hair constantly brushes against her cheeks and nose tip, and her lips purse slightly, showing restrained sadness. The lens moves slowly and slightly horizontally, fixed on the face close-up, with subtle breathing shake and no zooming. No dialogue.
-[Bottom Panel | 0-6s Independent Motion] The woman stands quietly facing the camera, her short hair swaying in the wind, a few strands falling over her eyes. Her gaze slowly shifts from wandering to calm and indifferent. Her breathing is steady, with only slight eyelid movement. The lens pulls back very slowly from a close-up to a bust shot, as the character slowly blends into the dark, misty background. No dialogue.
-All three panels play simultaneously, with natural and realistic movements and micro-expressions, avoiding AI stiffness or distortion. Skin pores and hair details are realistic.
-Accompanying 6-second audio: Minimalist low-pitched piano solo music overlaid with gentle wilderness wind sounds, with overall low volume to create an oppressive and contemplative atmosphere.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085586335331713024/img/seXhMn8JMIdH_GWx.jpg" width="600" alt="Three-Panel Split Screen Cinematic Portrait Video">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8671)**
-
-**작성자:** [Loriel.AI](https://x.com/ou_zhen599) | **출처:** [Link](https://x.com/ou_zhen599/status/2085586844088156403) | **게시일:** Aug 7, 2026
-
----
-### Magical Starry Night Dreamscape Bike Ride
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dreamlike journey through a landscape inspired by Starry Night, featuring glowing cherry blossoms and a radiant golden tower.
-
-#### 📝 프롬프트
-
-```
-A magical bike ride through a Starry Night dreamscape, cherry blossoms glowing, golden path leading to that radiant tower.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085582801886199808/img/RHEKj38NQEKFN-hT.jpg" width="600" alt="Magical Starry Night Dreamscape Bike Ride">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8667)**
-
-**작성자:** [Maer](https://x.com/Maer4real) | **출처:** [Link](https://x.com/Maer4real/status/2085582849575399884) | **게시일:** Aug 7, 2026
-
----
-### Korean Student Late Night Study Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive and detailed multi-shot prompt for a photorealistic smartphone-style video of a Korean woman studying at night.
-
-#### 📝 프롬프트
-
-```
-Ultra-realistic vertical smartphone video, 10 seconds. A beautiful young Korean woman is taking a short break while studying at her cozy desk late at night. She wears the same oversized light gray hoodie. Warm desk lamp lighting creates a comfortable atmosphere, with aesthetic wall posters, books, an open notebook, an iced coffee, and an open laptop in the background. The video is filmed with a handheld front-facing smartphone camera, featuring subtle natural movement and authentic smartphone autofocus.
-
-Shot 1 (0–2s): She adjusts the phone slightly as if she has just started recording, smiles softly, and blinks naturally while resting her chin on her sleeve.
-
-Shot 2 (2–4s): She glances toward her notebook, picks up a pen, underlines one sentence, then looks back at the camera with a tired but satisfied smile.
-
-Shot 3 (4–6s): She stretches her shoulders gently, brushes a loose strand of hair behind her ear, and exhales with a relaxed expression. The warm desk lamp creates soft highlights on her face.
-
-Shot 4 (6–8s): She reaches for the iced coffee, takes one small sip, sets it down naturally, then laughs quietly as if reacting to something off-camera.
-
-Shot 5 (8–10s): She gives a playful wink, points briefly toward the open notebook as if saying "back to studying," then smiles warmly at the camera before lowering her gaze and continuing to write.
-
-Style: Ultra-photorealistic, realistic smartphone selfie video, natural body language, authentic facial micro-expressions, subtle breathing, realistic blinking, accurate hand movement, lifelike hair physics, natural hoodie fabric movement, warm tungsten desk lamp, soft room ambience, smartphone autofocus breathing, slight handheld camera shake, shallow depth of field, cinematic yet authentic vlog aesthetic, HDR, 24 fps, 8K, no exaggerated expressions, no unrealistic camera motion, no AI artifacts.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085462976048549888/img/4A9Zonh4USg8hSxx.jpg" width="600" alt="Korean Student Late Night Study Vlog">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8761)**
-
-**작성자:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **출처:** [Link](https://x.com/iamahmedfaraz66/status/2085574151058677777) | **게시일:** Aug 7, 2026
-
----
-### East Asian Woman MiniDV Self-Filming in Tide Temple
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A highly detailed cinematic prompt for Grok Imagine Video, featuring a continuous 15-second MiniDV-style self-shot of a woman exploring an ancient white jade temple above the clouds, complete with realistic camera artifacts and binaural sound descriptions.
-
-#### 📝 프롬프트
-
-```
-The same 24-year-old East Asian female protagonist @0ba07db1-974c-467d-80dc-d9dffddac0ba wearing @27d48282-8e11-4b4e-94aa-f77a7eb8fbc1, with consistent facial features, age, and temperament throughout. Dark moist pupils, a delicate nose bridge, natural pale pink lips; skin retains pores and fine lines under the eyes, no airbrushing or 'influencer' makeup.
-
-The protagonist always holds a silver-grey MiniDV camera in her right hand to film herself—no cameraman. Selfie distance is about 45 cm; when showing the environment, she must first rotate her wrist and body, passing the lens over her shoulder, sleeve, or a railing before facing the scenery; returning to the selfie must also involve a complete physical rotation process.
-
-It is forbidden to show her from a third-person back view, full-body tracking, aerial shot, or external camera perspective while she is filming herself. When the camera turns to the environment, the protagonist can only continue to exist in the frame through her extended left hand, white sleeve, skirt edge, shadow, or live sound.
-
-16:9 MiniDV widescreen mode, natural handheld with slight walking jitter, imperfect composition, brief loss of focus, hesitant autofocus, white balance drift, exposure breathing, motion blur, subtle interlacing artifacts, DV grain, soft highlight bloom, and authentic tape colors.
-
-Each segment is a continuous 15-second selfie shot, no cuts. Between the six segments are travelogue-style time jumps, allowing for changes in weather and light, but the character, clothing, hair accessories, MiniDV, and sound must remain consistent.
-
-The female lead's voice is a natural Mandarin Chinese spoken by an East Asian woman in her 20s, soft, warm, and curious, with occasional slight panting from walking or climbing. Not a costume drama recitation, AI narration, broadcaster, or high-energy influencer-style pitch. 15-second MiniDV selfie video | Oriental Siren Style @b061c722-4fae-42c2-aa5d-48e9dd7dc6df
-
-This is no ordinary palace, but an ancient Tide Temple built above a sea of clouds. Inside stands an unimaginably huge white jade dragon platform: tiered lotus petal bases, spiraling dragon bodies, waves, shells, fish scales, and tide patterns are all carved from aged white jade. Tall dragon-coiled stone pillars support a dark wooden palace roof, with cold white water vapor constantly rushing in between the pillars, leaving moist water marks on the white jade surfaces.
-
-Siren style is expressed through the real environment: cold moist vapor, pearl and mother-of-pearl reflections, low-frequency distant tides, occasionally dripping seawater, and faint female chanting. Do not directly show fish tails or exaggerated monsters.
-
-The protagonist remains the same person, the same face, and the same white-to-pale-pink gradient hanfu. The cold moist vapor makes stray hairs by her ears stick slightly to her cheeks, and her skin shows moist reflections; the white gauze appears pale mother-of-pearl under the blue-grey water light, not a sudden outfit change. The silver hairpin, milky white bead ornaments, and dark red tassel on her wrist remain unchanged.
-
-She always holds the MiniDV herself with her right hand, no cameraman.
-
-0–4 seconds
-
-The recording begins as she walks slowly along the bottom of the white jade dragon platform.
-
-She holds the MiniDV in front of her, her face in the lower right of the frame, with the massive white jade carvings extending off-screen from above her head. It's darker here than outside, the MiniDV's auto-gain is noticeably high, and slight color noise appears in the shadows; the bright clouds behind her produce soft overexposure.
-
-Cold vapor brushes her face, and she instinctively shrugs her shoulders, her breath forming a faint white mist in front of the lens. She touches her damp sleeve with her left hand and says in a low voice:
-
-'Why is it... suddenly so cold here?'
-
-She doesn't intentionally create a sense of mystery while speaking; it's just a physical reaction to the temperature.
-
-4–8 seconds
-
-She first looks up at the dragon platform, then slowly turns the camera outward from herself via her right wrist.
-
-The lens passes her damp hair, silver hairpin, and white sleeve, then captures a close-up low-angle shot of the massive lotus base, the dragon statue, and the dragon stone pillars behind it. This is a realistic angle she could capture while standing below the platform, not an aerial or external panoramic view.
-
-The autofocus first lands on mottled water marks nearby, then shifts to the high dragon head. She says softly off-screen:
-
-'This dragon platform... looks like it rose from the sea.'
-
-Her voice is off-axis from the microphone, slightly obscured by the low echoes and water sounds inside the palace.
-
-8–11 seconds
-
-Just as she finishes speaking, a short snippet of female chanting comes from the shadows behind the dragon platform.
-
-It's not background music, but a real sound located far off in the hall: very low volume, just a soft, ethereal long note, reflecting off the pillars and the massive dome, making its direction hard to judge. The sound is mixed with low-frequency tide sounds, as if coming from a hollow structure beneath the dragon platform.
-
-The protagonist's wrist stops immediately, the frame holding on the slightly tilted white jade carving. She doesn't turn around right away but first holds her breath and tilts her head to confirm.
-
-Then she turns the camera back to herself, her eyes looking past the lens toward the source of the sound, and asks in a hushed tone:
-
-'Wait... did you guys hear that?'
-
-11–15 seconds
-
-The chanting stops briefly. She blinks naturally once, and the curious smile on her face gradually fades.
-
-A clear echo of a water drop falling into deep water comes from the base of the dragon platform. Immediately after, a second, closer female long note sounds from her back left. Her shoulders tighten slightly, her breathing becomes shallow, and she slowly looks at her flip screen as if confirming if the camera recorded it too.
-
-She looks back at the lens, her voice almost a whisper:
-
-'The one singing just now... wasn't me.'
-
-After speaking, she doesn't scream or run but slowly turns the camera toward the dark passage behind the dragon platform. The frame passes her shoulder and damp sleeve, finally stopping on a patch of slightly vibrating shallow water beneath the white jade carving.
-
-A ripple appears on the water surface with no visible source. The recording ends naturally with a third, extremely soft and distant chant.
-
-Live Sound: Cold wind in the hall, slight friction of damp fabric, stone pillar echoes, dripping water, low-frequency distant tides, female chanting from behind the dragon platform. No background music, no narration.
-
-Siren Style Performance Requirements: The protagonist does not perform seductive poses. The sequence of real reactions must be: feeling cold → observing the dragon platform → hearing the sound → holding breath to confirm → realizing the sound was not her. Use subtle eye movements, natural blinking, swallowing, tightening of shoulders, and shallow breathing to show unease.
-
-Supplementary Negative Constraints: No cameraman, no third-person full-body shots, no external orbiting camera movement; no sudden outfit changes, no fish tails, no blue skin, no fangs, no exaggerated monster transformations; no sexy dancing, no exaggerated seductive performance; the protagonist does not open her mouth to sing, the mysterious chanting must come from the space behind the dragon platform; no background soundtrack, no horror sound effect jumpscares, no underwater filters, no palace liquefaction, no statues suddenly moving, no subtitles or watermarks.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085539256617803776/img/RuvdVFPamv7rLRT-.jpg" width="600" alt="East Asian Woman MiniDV Self-Filming in Tide Temple">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8669)**
-
-**작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2085539666472665473) | **게시일:** Aug 7, 2026
-
----
-### Sci-Fi Terafab Megacity Aerial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An epic, highly detailed cinematic aerial prompt for a futuristic manufacturing megacity called Terafab, featuring skyscrapers, drones, and neon lights.
-
-#### 📝 프롬프트
-
-```
-A breathtaking aerial shot glides over Terafab, a colossal sci-fi megacity where kilometer-high chrome skyscrapers, glowing blue energy cores, floating factories, and endless sky bridges stretch beyond the horizon. Thousands of autonomous drones, magnetic freight trains, and anti-gravity vehicles move in perfect synchronization as massive robotic construction arms continuously build new districts. The camera dives between towering structures, revealing holographic billboards, neon-lit streets, quantum power reactors, and rivers of molten metal flowing through transparent energy channels. Giant orbital elevators connect the city to enormous space stations while flying cargo ships descend through the clouds with brilliant blue engine trails. As the sun sets, Terafab transforms into a sea of dazzling neon lights, shimmering reflections, and futuristic traffic, creating an awe-inspiring cyber-industrial skyline. The sequence ends with a cinematic pullback into space, revealing Terafab as the most advanced manufacturing civilization on a futuristic planet, ultra-photorealistic, cinematic lighting, volumetric fog, HDR, ray tracing, 8K, hyper-detailed, epic scale, smooth drone camera movement, realistic physics, and masterpiece quality.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085534025125711872/img/MwhTrZdVnpL3Y4Bl.jpg" width="600" alt="Sci-Fi Terafab Megacity Aerial">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8659)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2085534622176125238) | **게시일:** Aug 7, 2026
-
----
-### Handsome Idol Pavilion Dance
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive prompt for generating a captivating dance performance by a handsome idol in a traditional setting.
-
-#### 📝 프롬프트
-
-```
-The pavilion's beloved handsome idol performs his signature dance, leaving every wealthy young lady spellbound.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085525869980946432/img/3goOxSwvNLk50mXX.jpg" width="600" alt="Handsome Idol Pavilion Dance">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8759)**
-
-**작성자:** [🌸 Bubskyy 🌸](https://x.com/NyaiiBubu) | **출처:** [Link](https://x.com/NyaiiBubu/status/2085526044019466464) | **게시일:** Aug 7, 2026
-
----
-### Surreal Beach Motion Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Creates a dreamlike, surreal video featuring flying furniture and animals over a beach landscape with complex moving elements.
-
-#### 📝 프롬프트
-
-```
-Have a arm chair with a dog on it fly by on the sand passing the couch with the women flying as well
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085451214679150592/img/iB9UIEDOscznf7lm.jpg" width="600" alt="Surreal Beach Motion Scene">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8664)**
-
-**작성자:** [Robin Murray](https://x.com/RobinMurrat43a) | **출처:** [Link](https://x.com/RobinMurrat43a/status/2085451255833653447) | **게시일:** Aug 6, 2026
-
----
-### Alice in Wonderland Space Mirror
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal prompt depicting a girl stepping through a looking glass into a cosmic outer space environment.
-
-#### 📝 프롬프트
-
-```
-Make an video of a girl stepping through a looking glass like Alice in wonderland but into outer space....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085398290690953216/img/KMYM4AKqSWRK0zeL.jpg" width="600" alt="Alice in Wonderland Space Mirror">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8658)**
-
-**작성자:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **출처:** [Link](https://x.com/DrJGiddensRN/status/2085398479182959091) | **게시일:** Aug 6, 2026
-
----
-### Moderation-Safe Energetic Y2K Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt designed to bypass moderation while generating a fun, bouncy Y2K-style video of a seated subject with specific movement constraints.
-
-#### 📝 프롬프트
-
-```
-Use the uploaded photo as the exact character reference. Preserve the subject’s face and identity perfectly. Use ONLY the uploaded face reference photo as the character reference. The overall model appearance, including race and ethnicity, must match the subject of the uploaded photo. Y2K compact digital camera style video. The subject remains seated in the same compact pose with knees drawn upward. She gently sways her upper body and shoulders in a soft, rhythmic motion while staying seated, with light natural movement in her head and tousled wavy hair. Warm flash lighting, soft film grain, and nostalgic early-2000s atmosphere. Very subtle and natural movement only: soft swaying of the shoulders and upper body, gentle head motion, slight hair movement — she stays fully seated the entire time. Use the uploaded photo as the exact character reference. Preserve the subject’s face and identity perfectly. Use ONLY the uploaded face reference photo as the character reference. The overall model appearance, including race and ethnicity, must match the subject of the uploaded photo. Y2K compact digital camera style video. The subject stays completely seated in the same compact pose with knees drawn upward the entire time. She moves with fun, energetic upper-body rhythm — light bouncy shoulder shimmies, playful head bobs, and small cheerful upper-body shakes in time with the beat. Her tousled wavy hair gently bounces with the movement. Warm flash lighting, soft film grain, and nostalgic early-2000s atmosphere. Important: She remains fully seated at all times. Movement is limited to light, bouncy, playful upper-body and shoulder motion only — cheerful and energetic, never suggestive.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085362136444792832/img/exJKh6aK_cZGME2l.jpg" width="600" alt="Moderation-Safe Energetic Y2K Video">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8663)**
-
-**작성자:** [Lala](https://x.com/keepgoingAnnie) | **출처:** [Link](https://x.com/keepgoingAnnie/status/2085365705361273330) | **게시일:** Aug 6, 2026
-
----
-### Mechanical Horse Chase Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt describing a mechanical archer on horseback chasing a demon boar, focusing on dynamic motion.
-
-#### 📝 프롬프트
-
-```
-The veil of time parts before me 
-
-The archer’s mechanical equidae back legs gallop 🏇 to give chase to an evil possessed demon wild boar 🐗.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085360503400833024/img/xyNkj9ytSEQNpymO.jpg" width="600" alt="Mechanical Horse Chase Sequence">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8661)**
-
-**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2085360781646823801) | **게시일:** Aug 6, 2026
-
----
-### 16mm Handheld Influencer Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive prompt designed to mimic the aesthetic of a vintage 16mm handheld camcorder, creating a highly realistic influencer-style vlog.
-
-#### 📝 프롬프트
-
-```
-CAMERA: DV 16mm tape camcorder handheld aesthetic. POV of a beautiful influencer-style woman filming herself directly by hand. Keep natural hand shake, slightly crooked framing, delayed focus pulls, awkward zooms, occasional moments where her face is partly cut off, and imperfect framing that briefly loses the subject. Every shot is filmed by the woman herself in selfie-cam or first-person style, except for one brief moment when she props the camera down. The camcorder itself never appears on screen. LOOK: Soft digital tape look with a subtle vintage camcorder feel. Slight blur, faint tape noise, softly blooming highlights in dim light, mild flicker in auto-exposure, low contrast, realistic skin tones. STYLE: Late-night post-practice vlog mood — tired, calm, a little out of breath, but clearly happy and satisfied. Quiet, natural, unposed energy. Handheld all the way through, slower and more intimate than a daytime gym vlog. Occasional heavy breathing between lines. CHARACTER: A beautiful Instagram-style brunette model in her 20s. Long dark brown hair tied back or slightly messy after rehearsal, attractive feminine features, glowing skin with a light sweat sheen, expressive eyes, slim fit build. Wearing a modest fitted long-sleeve athletic top, loose joggers or sweatpants, and sneakers. No jewelry. SETTING: An empty dance rehearsal studio late at night. Mirror wall on one side, wooden floor, a speaker in the corner, a towel and water bottle near the wall, dim overhead lighting, dark hallway visible outside the studio windows. STORYBOARD: (~2s, propped camera near the mirror, medium shot) She walks into frame catching her breath, wipes sweat from her forehead, gives a small exhausted smile. “Finally done… it’s way too late.” (~2s, handheld, slow drift across the room and back to her) The camera loosely pans over the empty mirrors and quiet studio, then returns to her face. (softly, off-screen): “Whole studio’s empty now.” (~2s, medium handheld near the wall) She grabs her water bottle, takes a long drink, lowers it, and exhales in relief. “I really needed that.” (~2s, propped camera facing the mirror, wider shot) She sets the camera down, steps back, does a short sharp dance combo, then laughs at herself when she finishes. (~2s, arm’s-length selfie close-up finish) She picks the camera back up, towel over her shoulder, cheeks flushed, still breathing a little heavy. She gives a small tired wave and a genuine smile. “Okay, I’m going home. Good night
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085349546964484096/img/ufTGaXlMa20fqC5T.jpg" width="600" alt="16mm Handheld Influencer Vlog">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8665)**
-
-**작성자:** [Alpha Mom](https://x.com/YourAlphaMom) | **출처:** [Link](https://x.com/YourAlphaMom/status/2085350644915765377) | **게시일:** Aug 6, 2026
-
----
-### Korean Lifestyle Cinematic Commercial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex multi-shot video prompt for generating a premium Korean lifestyle commercial. It includes specific shot-by-shot directions, camera angles, and lighting details for a photorealistic 15-second video.
-
-#### 📝 프롬프트
-
-```
-Ultra-realistic cinematic vertical video, 15 seconds. A beautiful young Korean woman in a cozy pastel bedroom during a bright spring morning. She wears the same blush pink plaid dress with cream long sleeves, a delicate bow at the neckline, and a black ribbon in her long wavy hair. The room is softly decorated with pastel wall art, flowers, books, and warm natural window light. Every shot features a different camera angle with smooth cinematic transitions, natural movement, and subtle expressions.
-
-Shot 1 (0–2s): Extreme close-up of fresh pink flowers on the desk. The camera slowly slides past the flowers, revealing her softly smiling face in the background through a shallow depth of field.
-
-Shot 2 (2–4s): Close-up of her hands gently straightening the ribbon on the front of her dress. The camera tilts upward to her face as she finishes adjusting it.
-
-Shot 3 (4–6s): Side-profile medium shot. She slowly turns toward the window, sunlight illuminating her face as a gentle breeze moves a few loose strands of hair. She closes her eyes for a brief moment and smiles peacefully.
-
-Shot 4 (6–8s): Over-the-shoulder shot from behind. She looks at the pastel decorations and photo cards on the wall, lightly touching one with her fingertips before turning back.
-
-Shot 5 (8–10s): Front medium close-up. The camera slowly circles around her while she tilts her head slightly, blinks naturally, and gives a soft, genuine smile. Her long wavy hair sways gently with the breeze.
-
-Shot 6 (10–13s): Low-angle close-up from tabletop level beside the vase of flowers. She leans forward slightly, resting her hands together, looking directly into the camera with warm, expressive eyes before giving a subtle playful wink.
-
-Shot 7 (13–15s): Wide shot. She walks toward the window, gently parts the sheer curtains, and warm morning sunlight floods the room. She glances back over her shoulder with a sweet smile as the camera slowly pulls away, ending on a dreamy, peaceful frame.
-
-Style: Ultra-photorealistic, premium Korean lifestyle commercial, natural body language, realistic facial expressions, lifelike eye movement and blinking, subtle breathing, physically accurate hair and fabric simulation, smooth cinematic camera movement, shallow depth of field, creamy bokeh, soft pastel color palette, warm morning sunlight, luxury editorial photography aesthetic, 35mm and 85mm lens look, 24 fps, HDR, 8K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085338302216089600/img/mKF3Bz1eYfh1h2ne.jpg" width="600" alt="Korean Lifestyle Cinematic Commercial">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8660)**
-
-**작성자:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **출처:** [Link](https://x.com/iamahmedfaraz66/status/2085338630692692405) | **게시일:** Aug 6, 2026
-
----
-### Rap Music Video Production
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive multi-part prompt for producing a full hip-hop music video with character consistency and dynamic studio shots.
-
-#### 📝 프롬프트
-
-```
-Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance throughout the video. She has long black hair in a sleek high ponytail with soft face-framing strands and wears a vibrant hot-pink cropped bomber jacket over a fitted black crop top, a black pleated mini skirt layered over biker shorts, white crew socks, chunky sneakers, silver hoop earrings, layered chain necklaces, and rings. Maintain perfect character consistency in every scene.
-
-Create an ultra-realistic premium American hip-hop music video inside a modern industrial studio with glossy black floors, neon pink and blue lighting, graffiti walls, chrome speakers, LED light bars, a professional drum kit, vintage leather furniture, subtle haze, and cinematic contrast.
-
-The video opens with an extreme close-up as she confidently adjusts the collar of her pink jacket, stares directly into the camera, smirks, and snaps her fingers to the beat. She turns sharply and walks toward the camera with effortless swagger while her jacket flows naturally. She performs energetic hip-hop choreography with shoulder pops, smooth footwork, body rolls, confident poses, and expressive hand gestures as the camera circles around her with dynamic handheld movement.
-
-She jumps onto the drum platform, twirls a drumstick between her fingers, then performs an energetic drum solo with realistic stick movement, powerful cymbal crashes, snare hits, and fast tom fills. The camera alternates between overhead, side-profile, macro close-ups, and dramatic low-angle shots synchronized with the rhythm.
-
-The performance continues beside a graffiti-covered roller shutter where she confidently squats, leans against stacked speakers, points toward the lens, and continues lip-syncing with playful attitude. She walks across the studio beneath moving spotlights, lounges briefly on a vintage leather sofa while nodding to the beat, then stands again as industrial fans create natural movement in her ponytail and jacket.
-
-The final performance takes place center stage beneath vibrant magenta and blue lights surrounded by drums, LED light bars, chrome speakers, and graffiti walls. She delivers the final lyrics with bold confidence, spins one drumstick in her hand, throws it toward the camera, crosses her arms with a confident smile, and holds a powerful hero pose as the camera slowly pulls back while the lights fade.
-
-Style: Premium rap music video, luxury editorial fashion aesthetic, cinematic handheld camera, wide-angle hero shots, smooth gimbal movement, realistic lip-sync, expressive performance, physically accurate lighting, natural fabric simulation, real
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085297445630865408/img/ZQLrZIe2X9WvPiWv.jpg" width="600" alt="Rap Music Video Production">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8662)**
-
-**작성자:** [Aira](https://x.com/AzraJalal) | **출처:** [Link](https://x.com/AzraJalal/status/2085297532486533177) | **게시일:** Aug 6, 2026
-
----
-### Christmas Kitten Snow Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A festive video prompt showing a kitten and a woman playing in a gentle snowfall with holiday decorations.
-
-#### 📝 프롬프트
-
-```
-Kitten playing in snow with a woman, surrounded by Christmas decorations and gentle snowfall
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085261391238438912/img/RTtfdgLc-WDnjQhw.jpg" width="600" alt="Christmas Kitten Snow Scene">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8611)**
-
-**작성자:** [Grok imagine user](https://x.com/imagine_user_) | **출처:** [Link](https://x.com/imagine_user_/status/2085261433890369893) | **게시일:** Aug 6, 2026
-
----
-### Cinematic Rainy Car Entry
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt for a video showing a man entering a vintage Cadillac in the rain, focusing on atmosphere and tactile movements.
-
-#### 📝 프롬프트
-
-```
-The man slowly reaches his free hand for the driver’s side door handle of the vintage Cadillac while still holding the six-shooter pointed down in the other hand. He opens the door and begins sliding into the driver’s seat. Rain continues kissing the windshield
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085260228413562880/img/bzJmrQdY2nMKQuJ2.jpg" width="600" alt="Cinematic Rainy Car Entry">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8608)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2085260396231832015) | **게시일:** Aug 6, 2026
-
----
-### Cinematic Korean Woman Vlog Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed multi-shot video prompt for creating a realistic smartphone-style vlog of a Korean woman in a bedroom setting, featuring natural movements and specific lighting details.
-
-#### 📝 프롬프트
-
-```
-Ultra-realistic cinematic vertical video, 10 seconds. A beautiful young Korean woman relaxes in her cozy bedroom at night, wearing the same oversized white T-shirt. Warm bedside lamp lighting creates a soft, intimate atmosphere while photo prints decorate the wall behind her. The video consists of multiple natural handheld selfie shots, as if filmed on a phone for a personal vlog.
-
-Shot 1 (0–2s): Front selfie shot. She smiles warmly at the camera while maintaining eye contact, then gives a playful wink. A few loose strands of hair fall naturally across her face.
-
-Shot 2 (2–4s): Extreme close-up from a slightly lower angle. She gently brushes the hair away from her face, smiles softly, and blinks naturally as the camera subtly moves closer.
-
-Shot 3 (4–6s): Three-quarter side selfie. She slowly turns her head toward the warm bedside lamp, smiles to herself, then looks back at the camera. Her hair moves naturally with the motion.
-
-Shot 4 (6–8s): Over-the-shoulder selfie. She briefly glances toward the photo wall behind her, then laughs quietly before turning back toward the camera. The handheld movement feels natural and authentic.
-
-Shot 5 (8–10s): Close-up selfie. She leans slightly closer to the camera, gives another playful wink followed by a soft smile, then gently tilts her head as the camera slowly pulls back, ending with a cozy bedroom ambiance.
-
-Style: Ultra-photorealistic, natural facial expressions, realistic blinking, subtle breathing, lifelike hair physics, authentic smartphone handheld movement, warm ambient lighting, shallow depth of field, premium cinematic color grading, 24 fps, 8K, cozy Korean bedroom aesthetic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085129512334118912/img/t-83pAuM-vgJZT0f.jpg" width="600" alt="Cinematic Korean Woman Vlog Video">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8613)**
-
-**작성자:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **출처:** [Link](https://x.com/iamahmedfaraz66/status/2085211763214028933) | **게시일:** Aug 6, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2343,6 +2212,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-15T04:55:25.102Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-15T08:54:45.025Z</sub>
 
 </div>
