@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2497** |
+| 📝 Total Prompts | **2509** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-17** |
 
@@ -189,6 +189,196 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Dynamic Cowboy Gun Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-action video prompt describing a gunslinger in a battle with muzzle flashes, smoke, and explosions.
+
+#### 📝 Prompt
+
+```
+Dynamic cowboy gun battle action: the gunslinger fires his revolver with muzzle flash and recoil, body tense and moving forward aggressively, dust and debris flying, explosions erupting around him with fire and smoke, bullets tracers flying past
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089242691355992064/img/1bHdhIT7WqmrCRl6.jpg" width="600" alt="Dynamic Cowboy Gun Battle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9317)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2089242763284062564) | **Published:** Aug 17, 2026
+
+---
+### Alien Planet Figure Skating Performance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic video prompt of a figure skater performing a triple axel jump on an icy alien planet under a shooting star sky.
+
+#### 📝 Prompt
+
+```
+A dynamic tracking shot of a young female figure skater on an icy alien planet. She has platinum blonde hair in a tight bun and wears a costume like a deep indigo night sky, decorated with countless tiny stardust-like sparkles. She glides at high speed across a vast ice rink under a sky filled with shooting stars. Her silver skating shoes reflect the stars and the glowing ice. As her speed builds, she launches into a powerful triple axel jump, spinning gracefully in midair. She lands smoothly on the glowing ice and immediately accelerates again, cutting long, bright trails across the rink as more meteors and shooting stars fall around her. Ultra detailed, cinematic lighting, slow shutter motion blur, dynamic camera movement, 4K, high frame rate.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089241004939554816/img/2DDKiOQ2OHa_WOct.jpg" width="600" alt="Alien Planet Figure Skating Performance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9323)**
+
+**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2089241259085095024) | **Published:** Aug 17, 2026
+
+---
+### Dragon and Woman at Sunset
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic video prompt featuring a shimmering dragon interacting with a woman on an ocean shore at sunset.
+
+#### 📝 Prompt
+
+```
+the dragon’s head slowly lowers toward her open hand, scales shimmering with soft light as the wind gently lifts her long hair and the hem of her flowing dress, its wings softly unfurling and catching the sunset glow while the ocean waves roll quietly
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089206770350661632/img/_tbJue-mFW2ri6O9.jpg" width="600" alt="Dragon and Woman at Sunset">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9319)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2089206829905481906) | **Published:** Aug 17, 2026
+
+---
+### Healthy Chef Cooking Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a cinematic sequence starting with fresh ingredients on a table followed by a chef preparing healthy meals.
+
+#### 📝 Prompt
+
+```
+Create a table full of vegetables, healthy fats, and protein. Then you have a chef create delicious plates with them for a healthy free cancer life.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089107807509307392/img/9huUvi3C3SnhiyjO.jpg" width="600" alt="Healthy Chef Cooking Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9318)**
+
+**Author:** [RexCesar](https://x.com/CesarCRDZO) | **Source:** [Link](https://x.com/CesarCRDZO/status/2089107819928617031) | **Published:** Aug 16, 2026
+
+---
+### Glamorous Cyborg Neuromancer Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring a glamorous cyborg in a Neuromancer aesthetic with flashing neon lights and jerky staging.
+
+#### 📝 Prompt
+
+```
+Glamorous Cyborg Neuromancer, 4k rgb, acescg, jerky staging, flashing neon, in english
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089058933943959552/img/_jy2ylbJWDVyQqW8.jpg" width="600" alt="Glamorous Cyborg Neuromancer Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9324)**
+
+**Author:** [Noreen.Kh](https://x.com/NKh2to) | **Source:** [Link](https://x.com/NKh2to/status/2089059103620399462) | **Published:** Aug 16, 2026
+
+---
+### Cosmic Vortex Goddess Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex cinematic prompt involving a space vortex, realigning planets, and an ethereal goddess.
+
+#### 📝 Prompt
+
+```
+Choose vortex in space add picture of the women . Ethereal affects . Sudden cosmic blast planets realigning . Goddess appears grabs the woman with black on ....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089048801910648832/img/2NYJGKZdeIAeRuq-.jpg" width="600" alt="Cosmic Vortex Goddess Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9316)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2089048819044319433) | **Published:** Aug 16, 2026
+
+---
+### Rotating Chocolate Cake Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a rotating chocolate cake that divides into six pieces and reassembles.
+
+#### 📝 Prompt
+
+```
+OK, can we have this beautiful cake rotate and then divide and get back together again in like six pieces and then we say chocolate the powerhouse Cocoa
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088989322754027520/img/o_ENLd8I77PIPk86.jpg" width="600" alt="Rotating Chocolate Cake Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9321)**
+
+**Author:** [Amandasatiro](https://x.com/Amandasatiro07) | **Source:** [Link](https://x.com/Amandasatiro07/status/2088989343478079969) | **Published:** Aug 16, 2026
+
+---
+### Realistic Walking Motion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for a realistic walking sequence with natural body physics and camera tracking on an urban sidewalk.
+
+#### 📝 Prompt
+
+```
+The man walks forward naturally towards the camera with a confident, smooth gait, arms swinging freely, legs stepping mid-stride continuously, slight camera tracking forward, realistic clothing movement, natural body physics, sunny urban sidewalk env...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088977139886391296/img/ARSqffLf07_D17iR.jpg" width="600" alt="Realistic Walking Motion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9313)**
+
+**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2088977165786173691) | **Published:** Aug 16, 2026
+
+---
+### Gym Selfie Motion Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A photorealistic video generation prompt for a stylish gym selfie with subtle natural movements.
+
+#### 📝 Prompt
+
+```
+The young man in black Nike shirt poses alone in the gym for a stylish side-view selfie. He makes subtle natural movements, slight head turns, confident expression, soft body shifts, cool fluorescent lighting, photoreal social media vibe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088965651302080513/img/g14zM-lDzIGlKRRR.jpg" width="600" alt="Gym Selfie Motion Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9320)**
+
+**Author:** [GOTC](https://x.com/gotcbaby) | **Source:** [Link](https://x.com/gotcbaby/status/2088965668519678384) | **Published:** Aug 16, 2026
+
+---
+### Onyx Gemstone Crow
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A majestic video prompt for a crow sculpted from gemstone spreading its wings with intricate silver filigree.
+
+#### 📝 Prompt
+
+```
+A majestic crow sculpted entirely from polished black onyx gemstone, powerfully spreading its wings wide in a heroic pose, intricate silver filigree and ornate patterns etched across its body, feathers, and wings, sharp emphasized edges with crystall...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088939136220897280/img/Pf0wfssd_bVrY95P.jpg" width="600" alt="Onyx Gemstone Crow">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9315)**
+
+**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2088939174762348704) | **Published:** Aug 16, 2026
+
+---
 ### Dora and Team Umizoomi Rescue
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,11 +417,11 @@ Hello kitty steals the candy from the store: her mom said don’t steal the cand
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088877441540342157) | **Published:** Aug 16, 2026
 
 ---
-### Astronaut Alien World Reveal
+### Astronaut Alien Sunrise Retreat
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of an astronaut on a rocky ridge at the edge of an unexplored world, with a slow camera retreat revealing Earth in the distance.
+> A cinematic video prompt featuring a slow camera retreat from an astronaut standing on a rocky ridge as a second sun rises on an alien world.
 
 #### 📝 Prompt
 
@@ -239,11 +429,30 @@ Hello kitty steals the candy from the store: her mom said don’t steal the cand
 Wide cinematic 16:9 shot of a lone astronaut standing on a high rocky outcrop at the edge of an unexplored world, looking out across a vast and silent alien terrain as a second sun begins to rise, Earth visible as a small distant sphere in the dark sky, their spacecraft resting far below in the middle ground, slow and steady camera retreat that gradually reveals the scale and emptiness of the new landscape, soft natural light, quiet hopeful atmosphere, photorealistic, filmic and emotional
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="Astronaut Alien World Reveal">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="Astronaut Alien Sunrise Retreat">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9256)**
 
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088875908434203079) | **Published:** Aug 16, 2026
+
+---
+### Watercolor Narrative Conversation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sophisticated video generation prompt using wet-on-wet watercolor aesthetics to depict a complex emotional conversation between a man and a woman.
+
+#### 📝 Prompt
+
+```
+Visual aesthetic is wet on wet watercolor style. Maintain the watercolor style in every shot with the characters looking like moving watercolor paintings and adhering to the style perfectly. A man and a woman jokingly discuss how they think they were about to fall in love before they were separated. They are joking to hide that they actually mean it. Insert some pauses to make it seem more natural. Cinematic, prestige level quality directing and cinematography. Establishing shot, Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786953735801_hadx6t_HP0OHs_XoAAMwHw.jpg" width="600" alt="Watercolor Narrative Conversation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9322)**
+
+**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088841453124342009) | **Published:** Aug 16, 2026
 
 ---
 ### Colorful Birds Flying Over Backyard
@@ -265,11 +474,11 @@ Add several colorful birds flying happily in the clear blue sky above the backya
 **Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2088828673269072163) | **Published:** Aug 16, 2026
 
 ---
-### Jesus Christ Resurrection Scene
+### Christ Leading Believers to Paradise
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A spiritual cinematic prompt for Grok Imagine depicting Jesus Christ leading believers to paradise.
+> A cinematic video prompt depicting Jesus Christ leading believers from Hades to paradise.
 
 #### 📝 Prompt
 
@@ -277,7 +486,7 @@ Add several colorful birds flying happily in the clear blue sky above the backya
 Imagine our Lord Jesus Christ leading the believers from Hades to paradise after dying on the cross
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="Jesus Christ Resurrection Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="Christ Leading Believers to Paradise">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9250)**
 
@@ -303,23 +512,42 @@ Emerald wolf, silver trim, actual gem shine, edge enhancement, mysterious creatu
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088786721601405439) | **Published:** Aug 16, 2026
 
 ---
-### Emerald Wolf Family Feeding Scene
+### Cinematic Emerald Wolf Gemstone
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A highly descriptive narrative prompt for a video showing a parent and pup emerald wolf interacting with raw gemstones, ending in a peaceful fade out.
+> A detailed cinematic video prompt featuring wolves made of emeralds and silver with realistic lighting effects.
 
 #### 📝 Prompt
 
 ```
-Animal made of emerald with silver trim, wolf, realistic gemstone shine, edge enhancement, as lifelike as possible, looking as if it is about to move, food is raw emerald, gnawing, overflowing with raw gemstones, emerald wolf cub gnawing, parent wolf's affectionate gaze, eyes appearing gentle, a charming wild scene with the emerald wolf cub's mouth wide open, ending with a sleep fade-out, howling heard in the distance.
+Animal made of emerald with silver trim, wolf, real gemstone shine, edge emphasis, as animal-like as possible, looking like it's about to move, food is raw emerald stones, gnawing, stones overflowing, emerald wolf cub gnawing, parent wolf's gaze of affection, eyes are somehow gentle, a wild scene of the emerald wolf cub's mouth being large and somewhat heartwarming, finally a fade-out to sleep, howling can be heard.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="Emerald Wolf Family Feeding Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="Cinematic Emerald Wolf Gemstone">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9257)**
 
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **Published:** Aug 16, 2026
+
+---
+### Grok Humanoid Robot Speaking
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt describing a Grok humanoid robot speaking with specific physical features and natural movement.
+
+#### 📝 Prompt
+
+```
+The Grok humanoid robot speaks and introduces himself. He has black molded slightly waved hair, snug short silver t-shirt with G and xAI logo, silver and black belt, black pants and boots, and bright blue eyes. His mouth opens and closes naturally as he speaks, head moves slightly,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088781703229911040/img/PGz9a9i5Q0s3Cg6A.jpg" width="600" alt="Grok Humanoid Robot Speaking">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9314)**
+
+**Author:** [Leah Johnson](https://x.com/LeahJoh5652391) | **Source:** [Link](https://x.com/LeahJoh5652391/status/2088781726898426101) | **Published:** Aug 16, 2026
 
 ---
 ### Cinematic Emotional Dialogue Scene
@@ -381,11 +609,11 @@ Landing page hero section design for Tesla AI, deep charcoal to near-black backg
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088755110658842971) | **Published:** Aug 15, 2026
 
 ---
-### Grok Humanoid Robot Jumpsuit Video
+### Grok Humanoid Robot in Carhartt Jumpsuit
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for a Grok humanoid robot wearing branded workwear in an industrial setting.
+> A video prompt for Grok Imagine showing a humanoid robot wearing branded workwear and high-top sneakers in an industrial environment.
 
 #### 📝 Prompt
 
@@ -393,7 +621,7 @@ Landing page hero section design for Tesla AI, deep charcoal to near-black backg
 The Grok humanoid robot wearing a blue Carhartt-style jumpsuit with short sleeves featuring the Xai logo, a baseball cap with the same Xai logo, and blue Converse high top sneakers. Keep the overall pose, industrial background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088746691541483520/img/1ekaE54PifpTcg9O.jpg" width="600" alt="Grok Humanoid Robot Jumpsuit Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088746691541483520/img/1ekaE54PifpTcg9O.jpg" width="600" alt="Grok Humanoid Robot in Carhartt Jumpsuit">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9244)**
 
@@ -1158,11 +1386,11 @@ I walk down the stairs to the stage. I have a microphone in my hand and I sing a
 **Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2087978382038380859) | **Published:** Aug 13, 2026
 
 ---
-### Legendary Hero Evolution Video
+### Historical Warrior Evolution
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt mapping the evolution of a character through various historical and mythical roles.
+> A sequence prompt showing the evolution of a warrior from a Pharaoh to a Sorcerer, ending on Mars.
 
 #### 📝 Prompt
 
@@ -1170,7 +1398,7 @@ I walk down the stairs to the stage. I have a microphone in my hand and I sing a
 Pharaoh → Emperor → Berserker → Ronin → Airship Captain → Sorcerer → Jaguar Priest → Star-forged Knight… then silence on Mars.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087894188209610753/img/wJeLmCWmKpqBwEhX.jpg" width="600" alt="Legendary Hero Evolution Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087894188209610753/img/wJeLmCWmKpqBwEhX.jpg" width="600" alt="Historical Warrior Evolution">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9186)**
 
@@ -1525,11 +1753,11 @@ Hero Product Reveal, Turn one product photo into a cinematic 3-shot reveal video
 **Author:** [いにしえ@AI Director / Creator / Engineer｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2087147332702007732) | **Published:** Aug 11, 2026
 
 ---
-### Cinematic Fashion Lifestyle Video Sequence
+### Cinematic Fashion Lifestyle Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed prompt for creating a professional cinematic fashion video, featuring multiple camera angles, natural body movement, and realistic physics for hair and fabric.
+> A detailed multi-shot video prompt for a professional fashion sequence with cinematic camera movements and realistic physics.
 
 #### 📝 Prompt
 
@@ -1537,7 +1765,7 @@ Hero Product Reveal, Turn one product photo into a cinematic 3-shot reveal video
 Make the video feel like a cinematic fashion/lifestyle sequence with varied shots and natural storytelling. Start with a wide environmental shot showing her full body and surroundings, then transition into a full-body tracking shot as she slowly walks through the breeze. Move into a medium three-quarter shot where she naturally brushes windblown hair away from her face and briefly looks into the distance with a soft, thoughtful expression. Follow with a medium-long side-profile shot as a stronger gust moves her hair and coat while the camera slowly arcs around her. End with an intimate close-up matching the reference image, her eyes gently closed as she tilts her face toward the breeze with a subtle peaceful expression. Use smooth cinematic camera movements, realistic walking and body mechanics, natural breathing, detailed hair and fabric physics, changing wind intensity, realistic depth and motion blur. Avoid making every shot a close-up or keeping her static. Preserve her exact face, identity, hairstyle, outfit, body proportions, jewelry, and overall appearance throughout. No exaggerated expressions, no talking, no sudden movements, no face morphing or outfit changes.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086959132725407744/img/cOj85JUzbazK07rr.jpg" width="600" alt="Cinematic Fashion Lifestyle Video Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086959132725407744/img/cOj85JUzbazK07rr.jpg" width="600" alt="Cinematic Fashion Lifestyle Sequence">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8924)**
 
@@ -1785,11 +2013,11 @@ A glowing neon origami crane flying through a dark, rainy cyberpunk alleyway, il
 **Author:** [Okikiola Laura Eniola](https://x.com/OkikiolaLalmcr) | **Source:** [Link](https://x.com/OkikiolaLalmcr/status/2086899618491547810) | **Published:** Aug 10, 2026
 
 ---
-### Tesla Cybertruck Cinematic Commercial Sequence
+### Cybertruck NYC Rain Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional-grade multi-scene cinematic prompt for a Tesla Cybertruck advertisement, utilizing character and prop references for autonomous driving and interaction scenes.
+> A multi-shot cinematic workflow for a Tesla commercial featuring a character, a Cybertruck, and rain in NYC.
 
 #### 📝 Prompt
 
@@ -1803,7 +2031,7 @@ The @ model stands under the awning in the rain. The @ Cybertruck arrives to pic
 Cut to a cinematic exterior shot of the @ Cybertruck driving away. End on the @ Cybertruck as a voice says, "Tesla. For your convenience."
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086850401375047680/img/7uudIW_XQGlHQ3zS.jpg" width="600" alt="Tesla Cybertruck Cinematic Commercial Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086850401375047680/img/7uudIW_XQGlHQ3zS.jpg" width="600" alt="Cybertruck NYC Rain Sequence">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8881)**
 
@@ -1905,234 +2133,6 @@ recreate it with an X-Man version in picture form, make the character say: “Ba
 **Author:** [Optimistic Degen](https://x.com/OptimisticD3G3n) | **Source:** [Link](https://x.com/OptimisticD3G3n/status/2086639699268091914) | **Published:** Aug 10, 2026
 
 ---
-### Hollywood Labor Hall Conversation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed narrative video prompt for Grok Imagine describing a specific social interaction in Hollywood.
-
-#### 📝 Prompt
-
-```
-Hollywood california , labor hall , labor ready, two young men one in 30s one early 20s are talking and another young man walks buy , he is limping and holding his ribs, he recognizes the man in his 20s and they talk, tge 20 yr old asks what happened
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086602178970505216/img/6yBdy04fpd5ojuTc.jpg" width="600" alt="Hollywood Labor Hall Conversation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8885)**
-
-**Author:** [Edward Elkins](https://x.com/EdwardElkinsJr) | **Source:** [Link](https://x.com/EdwardElkinsJr/status/2086602828131226109) | **Published:** Aug 9, 2026
-
----
-### Grand Canyon Mustang Jump
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-action video prompt featuring a Ford Mustang and Land Cruiser performing a massive jump into a natural rock ramp in the Grand Canyon.
-
-#### 📝 Prompt
-
-```
-The black Ford Mustang GT and the beige Land Cruiser SUV from the reference image are now dropping into the biggest ramp on Earth: a massive, steep, curved natural rock halfpipe ramp carved into the Grand Canyon walls. Both vehicles accelerate hard d...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086597506889048064/img/Lx_RRKHoPEa-9L8b.jpg" width="600" alt="Grand Canyon Mustang Jump">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8839)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2086597536408621308) | **Published:** Aug 9, 2026
-
----
-### Porpoise in Moonlit Ocean Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for Grok Imagine featuring a porpoise playing in waves under a starry, moonlit night sky.
-
-#### 📝 Prompt
-
-```
-The Scene is somewhere in the ocean. Somewhere dark and chilly in the world. Its nighfall and starskies and moonlight are shining and mirroring themselves in the ocean surface. I would like a porpoise somewhere. Playing with the waves....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086591128753594368/img/6fcI--blO5W0Pzqn.jpg" width="600" alt="Porpoise in Moonlit Ocean Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8876)**
-
-**Author:** [𝒮𝓎𝓃𝓃𝑒](https://x.com/synne1607) | **Source:** [Link](https://x.com/synne1607/status/2086591149901287648) | **Published:** Aug 9, 2026
-
----
-### Purple Rain Portrait Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video transformation prompt turning a hand-drawn pencil portrait into a stylized purple rain aesthetic video.
-
-#### 📝 Prompt
-
-```
-Transform this hand-drawn colored pencil portrait into a dreamy purple rain dream girl. Keep the exact same young woman with freckles, large turquoise-blue eyes, full pink lips, multi-colored blue-purple-gray shoulder-length hair, and pink hoop earrings...
-```
-
-<img src="https://cms-assets.youmind.com/media/1786349702764_278hhg_HPT6vX4WUAAw9oJ.jpg" width="600" alt="Purple Rain Portrait Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8833)**
-
-**Author:** [Tiffany Martin](https://x.com/TMartin061018) | **Source:** [Link](https://x.com/TMartin061018/status/2086568235772867020) | **Published:** Aug 9, 2026
-
----
-### Elven Sorceress Escaping Oil Painting
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex, detailed prompt for a 15-second seamless sequence of a sorceress emerging from an oil painting into a photorealistic museum gallery.
-
-#### 📝 Prompt
-
-```
-Start from the exact provided oil painting of the elegant elven sorceress with long flowing white hair, pointed ears, ornate deep purple and gold robes, and a swirling blue magical flame hovering above her open palm. In one continuous seamless 15-second sequence with smooth, elegant, flowing movement: She gracefully raises her hand and uses the blue flame like a brush to broadly draw a large tall elliptical portal of swirling blue and violet arcane energy with golden light trails and glowing rings in the air directly in front of her. The portal expands and solidifies into a shimmering magical gateway positioned between her and the viewer. She then steps forward through the glowing threshold, robes and hair flowing naturally. The camera smoothly follows her then performs a slow cinematic dolly pull-back, revealing that she has fully emerged from a large ornate gold-framed oil painting that remains firmly hanging on the wall of a grand classical museum gallery behind her. The painting on the wall now shows only the empty rocky platform and the original painted background — her figure is completely gone from the painting. She stands fully in the real museum space directly in front of the now-empty painting, with marble floors, high ceilings, soft warm lighting, and other artworks nearby. As she fully exits the portal into the museum in front of the empty painting, her appearance gradually and seamlessly transforms from the textured oil-painting brushstroke style and painterly lighting into a cinematic photorealistic version of herself. Only the rendering style changes — the thick brushstrokes dissolve into sharp realistic skin details, individual hair strands, and realistic fabric textures under natural museum lighting. The exact same ornate deep purple and gold robes, identical design, cut, gold embroidery patterns, blue gems, silhouette, and every clothing detail remain completely unchanged. The clothing does not morph, redesign, or alter in any way; it simply becomes photorealistic fabric while keeping every detail of the original painted outfit. Her exact likeness, facial features, hair, body proportions, and elegant posture are also perfectly preserved. The framed painting (now empty of her figure) and the wall stay clearly present and visible in the background behind her throughout the rest of the sequence. Continuous fluid camera and character motion, magical atmosphere, no cuts.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086559441113976832/img/der6v8cc__9Bwrui.jpg" width="600" alt="Elven Sorceress Escaping Oil Painting">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8849)**
-
-**Author:** [AI Survivalist](https://x.com/SurviveWithAI) | **Source:** [Link](https://x.com/SurviveWithAI/status/2086559641131991233) | **Published:** Aug 9, 2026
-
----
-### Ocean Sand Castle Builder
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt showing waves knocking down sandcastles before the ocean itself forms a house on the hills.
-
-#### 📝 Prompt
-
-```
-Create many beaches well of sand castles getting knocked over by the waves, and then the ocean itself becomes a builder that creates a house behind the hills up high
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086545900579815424/img/aa4J58dmuQrPB4MC.jpg" width="600" alt="Ocean Sand Castle Builder">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8841)**
-
-**Author:** [Margo](https://x.com/Margotrident) | **Source:** [Link](https://x.com/Margotrident/status/2086545945395855822) | **Published:** Aug 9, 2026
-
----
-### Fluffy Lime Green Kitten and Frappe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cute video generation prompt featuring a lime green kitten next to a matching frappe against a coordinated aesthetic background.
-
-#### 📝 Prompt
-
-```
-Fluffy lime green kitten beside a fancy lime, green white and tan frappe. Beautiful background that matches.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086525589981196288/img/Z1w2BuemQAH0sUjb.jpg" width="600" alt="Fluffy Lime Green Kitten and Frappe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8836)**
-
-**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2086525626563891289) | **Published:** Aug 9, 2026
-
----
-### Startup Comedy Stand-up Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A humorous video prompt for a startup founder performing stand-up comedy with an AI-themed joke.
-
-#### 📝 Prompt
-
-```
-a startup man doing stand up comedy in a small venue tells an AI founder startup investing joke with an absurd surprise (include the joke in the dialogue)
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086515503158448129/img/EvzHQIDdpA5_FDHq.jpg" width="600" alt="Startup Comedy Stand-up Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8850)**
-
-**Author:** [Yev Marusenko](https://x.com/DoctorYev) | **Source:** [Link](https://x.com/DoctorYev/status/2086515821497766106) | **Published:** Aug 9, 2026
-
----
-### Forest Animal Scene Integration
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex video prompt for merging a character from one scene into a peaceful forest animal background.
-
-#### 📝 Prompt
-
-```
-Place the young Asian woman from the second image into the peaceful forest animal scene of the first image. Keep her exact appearance, face, dark hair in high bun, magenta fleece jacket, teal leggings and pink shoes. Have her sit calmly on a mossy fa...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086515214850134016/img/D8xf0Ww1Y-Ajcu0h.jpg" width="600" alt="Forest Animal Scene Integration">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8843)**
-
-**Author:** [Sunset](https://x.com/wanxia59) | **Source:** [Link](https://x.com/wanxia59/status/2086515228297101705) | **Published:** Aug 9, 2026
-
----
-### Macrophage Microscopic Combat Game
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative prompt for a microscopic video game scene showing macrophages ingesting fibers in the GI tract.
-
-#### 📝 Prompt
-
-```
-Video game of macrophages seeking out and ingesting needle-like fibers, then breaking them down to harmless components. Level 2 -GI tract
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086510052525920256/img/kOgPhU-4FlUs9LVa.jpg" width="600" alt="Macrophage Microscopic Combat Game">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8831)**
-
-**Author:** [Renee Chicoine](https://x.com/Renerjoy) | **Source:** [Link](https://x.com/Renerjoy/status/2086510065754816861) | **Published:** Aug 9, 2026
-
----
-### Adrenaline-Fueled Asian Woman in Cockpit
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed cinematic prompt for a short video showing an expressive Asian woman in a futuristic cockpit, capturing high-energy emotion and specific character movements.
-
-#### 📝 Prompt
-
-```
-<<<image_1>>> — Young Asian woman, short curly brown hair with bangs, silver glitter band-aid on the bridge of her nose, yellow latex crop top, beige cargo pants. <<<image_2>>> — Cockpit interior only: dark cramped space, control sticks on both sides of the seat, tech panels and cables on the bulkhead. Close-up in the cockpit — post-war calm and relaxed atmosphere — <<<image_1>>> sitting in the seat filled with pure adrenaline, eyes glowing. She looks around while speaking — vivid and natural. Gasps excitedly saying: "You should have seen this!" Pause — take a breath — "Pufffff—" then makes a heavy punch gesture in the air — arms moving slowly as if she's reenacting it in slow motion — facial expression recreating that epic moment — eyes wide — total comedic excitement. External background almost invisible — all attention focused on her. Camera full of life with a slight shake. Realistic. 16:9. 8 seconds. SFX only. Cinematic. Handheld. Heavy grain.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786349714513_wi5rlr_HPS0LGtbkAAGO7N.jpg" width="600" alt="Adrenaline-Fueled Asian Woman in Cockpit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8846)**
-
-**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2086490782459191393) | **Published:** Aug 9, 2026
-
----
-### Stand-up Comedy Video with Dialogue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for a stand-up comedy scene that specifically includes instructions for the dialogue and humor.
-
-#### 📝 Prompt
-
-```
-a woman doing stand up comedy in a small venue tells a marriage joke (include the joke in the dialogue)
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086475665411330049/img/IBiQQ8_dXXbW4Yv0.jpg" width="600" alt="Stand-up Comedy Video with Dialogue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8835)**
-
-**Author:** [Min Choi](https://x.com/minchoi) | **Source:** [Link](https://x.com/minchoi/status/2086477829013692680) | **Published:** Aug 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2194,6 +2194,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-17T05:05:45.838Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-17T09:07:29.034Z</sub>
 
 </div>
