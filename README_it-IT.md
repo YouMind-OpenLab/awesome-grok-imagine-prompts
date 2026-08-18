@@ -189,152 +189,152 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
-### Joystick and Emoji Animation
+### Animazione di joystick ed emoji
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed animation prompt for Grok Imagine describing physics-based movement of a joystick and scissors interacting with emojis.
+> Un prompt di animazione dettagliato per Grok Imagine che descrive il movimento basato sulla fisica di un joystick e di forbici che interagiscono con le emoji.
 
 #### 📝 Prompt
 
 ```
-Maintaining all likeliness the joystick handle moves as though gaming. The scissors move in a cutting motion and chase after the emoji images. The scissors cut a laughing emoji in half. The row of purple devil emojis at the base of the joystick
+Mantenendo la massima verosimiglianza, la leva del joystick si muove come durante una sessione di gioco. Le forbici eseguono un movimento di taglio e inseguono le immagini delle emoji. Le forbici tagliano a metà un'emoji che ride. La fila di emoji del diavolo viola alla base del joystick
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089549374624022528/img/Br1PYyhR_FRC_B7U.jpg" width="600" alt="Joystick and Emoji Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089549374624022528/img/Br1PYyhR_FRC_B7U.jpg" width="600" alt="Animazione di joystick ed emoji">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9432)**
 
 **Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2089549388255543553) | **Published:** Aug 18, 2026
 
 ---
-### Humanoid Robot Riding Boston Dynamics Dog
+### Robot umanoide cavalca il cane di Boston Dynamics
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a humanoid robot riding a large robotic dog into a nighttime frontline battle.
+> Un prompt video cinematografico di un robot umanoide che cavalca un grande cane robotico verso una battaglia in prima linea durante la notte.
 
 #### 📝 Prompt
 
 ```
-Humanoid robot riding large Boston dynamic dog into a frontline battle at night. We’re cooked.
+Robot umanoide che cavalca un grande cane di Boston Dynamics verso una battaglia in prima linea di notte. Siamo finiti.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089546081625333760/img/Crsm268vxN_QNVJu.jpg" width="600" alt="Humanoid Robot Riding Boston Dynamics Dog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089546081625333760/img/Crsm268vxN_QNVJu.jpg" width="600" alt="Robot umanoide cavalca il cane di Boston Dynamics">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9428)**
 
 **Author:** [SharewareFrom1994](https://x.com/amrndci) | **Source:** [Link](https://x.com/amrndci/status/2089546098364784937) | **Published:** Aug 18, 2026
 
 ---
-### Space Combat and Plasma Physics
+### Combattimento spaziale e fisica del plasma
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed sci-fi prompt involving rotating planets, moving ships, and plasma conversion effects.
+> Un prompt sci-fi dettagliato che coinvolge pianeti rotanti, navi in movimento ed effetti di conversione in plasma.
 
 #### 📝 Prompt
 
 ```
-Make the planet rotate and the ship move forward with the lasers converting rocks to plasma that flows down the center of the ship
+Fai ruotare il pianeta e muovere la nave in avanti, con i laser che convertono le rocce in plasma che scorre lungo il centro della nave
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089501917697527808/img/v5v4qtOI4CVLvbJ5.jpg" width="600" alt="Space Combat and Plasma Physics">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089501917697527808/img/v5v4qtOI4CVLvbJ5.jpg" width="600" alt="Combattimento spaziale e fisica del plasma">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9425)**
 
 **Author:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **Source:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **Published:** Aug 17, 2026
 
 ---
-### Gothic Red Gold Glowing Text
+### Testo gotico luminoso in oro rosso
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dark fantasy cinematic motion prompt for gothic lettering with mist and atmospheric lighting effects.
+> Un prompt cinematografico dark fantasy per scritte gotiche con effetti di nebbia e illuminazione d'atmosfera.
 
 #### 📝 Prompt
 
 ```
-The gothic text "JUANG   Musk" slowly glows with dark red and gold light, mist swirls dramatically around the ornate blackletter lettering, subtle camera zoom and atmospheric fog drifting, dark fantasy cinematic motion, high detail
+Il testo gotico "JUANG   Musk" brilla lentamente di una luce rosso scuro e oro, la nebbia vortica drammaticamente attorno all'ornata calligrafia gotica, leggero zoom della fotocamera e nebbia atmosferica che si diffonde, movimento cinematografico dark fantasy, alta definizione
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089467697654382594/img/ZsOGvwDEH-aW5lpA.jpg" width="600" alt="Gothic Red Gold Glowing Text">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089467697654382594/img/ZsOGvwDEH-aW5lpA.jpg" width="600" alt="Testo gotico luminoso in oro rosso">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9426)**
 
 **Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2089467763471286385) | **Published:** Aug 17, 2026
 
 ---
-### Gas Station Cinematic Sequence
+### Sequenza cinematografica in una stazione di servizio
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed, single-shot tracking prompt for a realistic cinematic sequence of a man parking and entering a gas station.
+> Un prompt di tracking in piano sequenza altamente dettagliato per una sequenza cinematografica realistica di un uomo che parcheggia ed entra in una stazione di servizio.
 
 #### 📝 Prompt
 
 ```
-Ethan, a young man in casual clothes, drives a modern sedan from the right side of the frame into an empty gas station parking lot during daytime. He turns right into a parking spot directly facing the front of the gas station entrance the back of the vehicle is facing the camera, parks correctly within the lines, stops the car, and turns off the engine. From the camera's perspective Ethan opens the left driver's side door and steps out onto the pavement with his left foot first, fully exits the vehicle on the left side, closes the door behind him, and walks straight ahead into the gas station building. Continuous single-shot cinematic tracking, realistic physics, no camera cuts
+Ethan, un giovane con abiti casual, guida una berlina moderna entrando da destra nell'inquadratura verso il parcheggio vuoto di una stazione di servizio durante il giorno. Svolta a destra in un posto auto direttamente di fronte all'ingresso della stazione di servizio, con il retro del veicolo rivolto verso la telecamera; parcheggia correttamente all'interno delle linee, ferma l'auto e spegne il motore. Dalla prospettiva della telecamera, Ethan apre la portiera sinistra del conducente e scende sull'asfalto poggiando prima il piede sinistro, esce completamente dal veicolo dal lato sinistro, chiude la portiera dietro di sé e cammina dritto verso l'edificio della stazione di servizio. Piano sequenza cinematografico continuo, fisica realistica, nessun taglio di telecamera
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089457726497697793/img/YYGRMFNucFq93VP8.jpg" width="600" alt="Gas Station Cinematic Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089457726497697793/img/YYGRMFNucFq93VP8.jpg" width="600" alt="Sequenza cinematografica in una stazione di servizio">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9433)**
 
 **Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2089457914029502891) | **Published:** Aug 17, 2026
 
 ---
-### DiCaprio Titanic Shipwreck Dream
+### Sogno del naufragio del Titanic con DiCaprio
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic narrative prompt depicting Leonardo DiCaprio waking up on a tropical beach amidst the wreckage of the Titanic.
+> Un prompt narrativo cinematografico che ritrae Leonardo DiCaprio mentre si sveglia su una spiaggia tropicale tra i resti del Titanic.
 
 #### 📝 Prompt
 
 ```
-Leonardo DiCaprio wakes up from a nightmare on a tropical beach, sits up startled, looks around in disbelief, then notices the huge rusty Titanic shipwreck pieces washed up on the island
+Leonardo DiCaprio si sveglia da un incubo su una spiaggia tropicale, si mette a sedere di scatto, si guarda intorno incredulo, poi nota gli enormi pezzi arrugginiti del relitto del Titanic arenati sull'isola
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089416053223026688/img/jyodM4Sk4LCkdJUS.jpg" width="600" alt="DiCaprio Titanic Shipwreck Dream">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089416053223026688/img/jyodM4Sk4LCkdJUS.jpg" width="600" alt="Sogno del naufragio del Titanic con DiCaprio">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9421)**
 
 **Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2089416089705091286) | **Published:** Aug 17, 2026
 
 ---
-### Sunbathing Beach with Rolling Waves
+### Spiaggia soleggiata con onde che si infrangono
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A relaxing video prompt showing a sandy beach with people and gentle ocean waves.
+> Un video prompt rilassante che mostra una spiaggia sabbiosa con persone e delicate onde dell'oceano.
 
 #### 📝 Prompt
 
 ```
-A sandy beach with lots of sunbathing people and a gentle breeze and small rolling waves
+Una spiaggia sabbiosa con molte persone che prendono il sole, una brezza leggera e piccole onde che si infrangono
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089391085973835777/img/52gygCYwDKTpscVa.jpg" width="600" alt="Sunbathing Beach with Rolling Waves">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089391085973835777/img/52gygCYwDKTpscVa.jpg" width="600" alt="Spiaggia soleggiata con onde che si infrangono">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9430)**
 
 **Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2089391129162645811) | **Published:** Aug 17, 2026
 
 ---
-### Farmer Plowing Wheat Field
+### Agricoltore che ara un campo di grano
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A straightforward prompt for generating a video of an American farmer using a John Deere tractor to plow a large wheat field.
+> Un prompt diretto per generare un video di un agricoltore americano che utilizza un trattore John Deere per arare un grande campo di grano.
 
 #### 📝 Prompt
 
 ```
-Create a video with an American farmer plowing a large field to grow wheat and a John Deere tractor
+Crea un video con un agricoltore americano che ara un grande campo per coltivare grano con un trattore John Deere
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089390175126163456/img/AiZPYcnoBJPdjb16.jpg" width="600" alt="Farmer Plowing Wheat Field">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089390175126163456/img/AiZPYcnoBJPdjb16.jpg" width="600" alt="Agricoltore che ara un campo di grano">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9423)**
 
@@ -360,1754 +360,1754 @@ Generate an image to be used as a fan page avatar. The page name is 'Boti and Mu
 **Author:** [Tenghao hsu](https://x.com/HsuTenghao19046) | **Source:** [Link](https://x.com/HsuTenghao19046/status/2089388405990064618) | **Published:** Aug 17, 2026
 
 ---
-### Bioluminescent Ocean Couture
+### Alta moda oceanica bioluminescente
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal fashion concept generated using the Grok Imagine Image 2 model, resulting in a cinematic underwater catwalk scene.
+> Un concept di moda surreale generato utilizzando il modello Grok Imagine Image 2, che dà vita a una sfilata cinematografica subacquea.
 
 #### 📝 Prompt
 
 ```
-A poised woman in a surreal bioluminescent ocean couture gown of flowing deep-sea waves, glowing jellyfish tendrils, iridescent pearls, and living coral strides down a luxury catwalk in a dramatic, cinematic style with underwater light rays and sparkling mist.
+Una donna sicura di sé indossa un abito di alta moda oceanica bioluminescente, composto da onde marine fluttuanti, tentacoli di medusa luminosi, perle iridescenti e coralli vivi, mentre sfila su una passerella di lusso in uno stile drammatico e cinematografico, arricchito da raggi di luce subacquei e una nebbia scintillante.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787039476062_orzyes_HP7oYg9aAAAVkfV.jpg" width="600" alt="Bioluminescent Ocean Couture">
+<img src="https://cms-assets.youmind.com/media/1787039476062_orzyes_HP7oYg9aAAAVkfV.jpg" width="600" alt="Alta moda oceanica bioluminescente">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9420)**
 
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2089363024356524125) | **Published:** Aug 17, 2026
 
 ---
-### Variations of Pleiadian Humanity
+### Variazioni dell'umanità pleiadiana
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-quality video prompt illustrating variations of humanity along Pleiadian lines with volumetric lighting.
+> Un prompt video di alta qualità che illustra le variazioni dell'umanità secondo le linee pleiadiane con illuminazione volumetrica.
 
 #### 📝 Prompt
 
 ```
-There are many variations of Humanity illustrate this along Pleiadian lines, masterpiece, ultra HD quality resolution volumetric bright lighting and colors
+Ci sono molte variazioni dell'umanità, illustrale secondo le linee pleiadiane, capolavoro, risoluzione ultra HD, illuminazione e colori brillanti volumetrici
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089351947077763072/img/iNSiR6gZq0CTzsjH.jpg" width="600" alt="Variations of Pleiadian Humanity">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089351947077763072/img/iNSiR6gZq0CTzsjH.jpg" width="600" alt="Variazioni dell'umanità pleiadiana">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9431)**
 
 **Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089351996570538020) | **Published:** Aug 17, 2026
 
 ---
-### Wing Evolution Morphing Sequence
+### Sequenza di morphing dell'evoluzione alare
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex morphing prompt that transitions through a wide variety of wings, from natural petals and butterfly wings to mechanical jet and spacecraft wings.
+> Un complesso prompt di morphing che transita attraverso un'ampia varietà di ali, dai petali naturali e ali di farfalla fino ad ali di jet meccanici e veicoli spaziali.
 
 #### 📝 Prompt
 
 ```
-Leaf → flower petal → butterfly wing → dragonfly wing → bird feather → songbird wing → eagle wing → glider wing → paper airplane wing → biplane wing → propeller airplane wing → passenger jet wing → fighter jet wing → spacecraft wing → solar sail → solar panel → satellite → space telescope
+Foglia → petalo di fiore → ala di farfalla → ala di libellula → piuma d'uccello → ala di uccello canoro → ala di aquila → ala di aliante → ala di aeroplanino di carta → ala di biplano → ala di aereo a elica → ala di jet passeggeri → ala di jet da combattimento → ala di veicolo spaziale → vela solare → pannello solare → satellite → telescopio spaziale
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089324265464041472/img/2lX1b3QOGx1o-dD3.jpg" width="600" alt="Wing Evolution Morphing Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089324265464041472/img/2lX1b3QOGx1o-dD3.jpg" width="600" alt="Sequenza di morphing dell'evoluzione alare">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9419)**
 
 **Author:** [Carl Bethea V](https://x.com/CarlBethea5) | **Source:** [Link](https://x.com/CarlBethea5/status/2089324882332946627) | **Published:** Aug 17, 2026
 
 ---
-### Gothic Rose Transformation
+### Trasformazione Rosa Gotica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A visually striking video prompt showing a black gothic rose transforming into a red rose with bright volumetric lighting.
+> Un prompt video di grande impatto visivo che mostra una rosa gotica nera che si trasforma in una rosa rossa con una brillante illuminazione volumetrica.
 
 #### 📝 Prompt
 
 ```
-Black rose in gothic style transforms into a Red Rose , masterpiece, ultra HD quality resolution volumetric bright lighting and colors
+Rosa nera in stile gotico che si trasforma in una Rosa Rossa, capolavoro, risoluzione ultra HD, illuminazione volumetrica brillante e colori vivaci
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089294953654423552/img/vh7iUAQuWxy_ulU_.jpg" width="600" alt="Gothic Rose Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089294953654423552/img/vh7iUAQuWxy_ulU_.jpg" width="600" alt="Trasformazione Rosa Gotica">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9417)**
 
 **Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089294989004042421) | **Published:** Aug 17, 2026
 
 ---
-### Sci-Fi Spaceship Escape Sequence
+### Sequenza di fuga su astronave sci-fi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A narrative-driven prompt describing a spaceship docking and escape mission involving a character named Trinia.
+> Un prompt narrativo che descrive una missione di attracco e fuga su un'astronave che coinvolge un personaggio di nome Trinia.
 
 #### 📝 Prompt
 
 ```
-Trinia escaping on a Spaceship with the gold key; the Spaceship attaching itself to the enemy's vessel so she could escape
+Trinia che fugge su un'astronave con la chiave d'oro; l'astronave che si aggancia al vascello nemico per permetterle di scappare
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089280557913899008/img/znLqbMPOxjWTd_Tz.jpg" width="600" alt="Sci-Fi Spaceship Escape Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089280557913899008/img/znLqbMPOxjWTd_Tz.jpg" width="600" alt="Sequenza di fuga su astronave sci-fi">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9429)**
 
 **Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2089280594186260518) | **Published:** Aug 17, 2026
 
 ---
-### Dynamic Cowboy Gun Battle
+### Dinamica sparatoria tra cowboy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-action video prompt describing a gunslinger in a battle with muzzle flashes, smoke, and explosions.
+> Un video prompt ad alta azione che descrive un pistolero in battaglia con lampi di volata, fumo ed esplosioni.
 
 #### 📝 Prompt
 
 ```
-Dynamic cowboy gun battle action: the gunslinger fires his revolver with muzzle flash and recoil, body tense and moving forward aggressively, dust and debris flying, explosions erupting around him with fire and smoke, bullets tracers flying past
+Dinamica azione di sparatoria tra cowboy: il pistolero spara con il suo revolver con lampo di volata e rinculo, il corpo teso e in avanzamento aggressivo, polvere e detriti che volano, esplosioni che eruttano attorno a lui con fuoco e fumo, scie di proiettili che sfrecciano
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089242691355992064/img/1bHdhIT7WqmrCRl6.jpg" width="600" alt="Dynamic Cowboy Gun Battle">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089242691355992064/img/1bHdhIT7WqmrCRl6.jpg" width="600" alt="Dinamica sparatoria tra cowboy">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9317)**
 
 **Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2089242763284062564) | **Published:** Aug 17, 2026
 
 ---
-### Alien Planet Figure Skater Video
+### Video di una pattinatrice artistica su un pianeta alieno
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a figure skater with platinum blonde hair performing a triple axel jump on an icy alien planet under a sky of shooting stars.
+> Un prompt video cinematografico di una pattinatrice artistica con capelli biondo platino che esegue un triplo axel su un pianeta alieno ghiacciato sotto un cielo di stelle cadenti.
 
 #### 📝 Prompt
 
 ```
-A dynamic tracking shot of a young female figure skater on an icy alien planet. She has platinum blonde hair in a tight bun and wears a costume like a deep indigo night sky, decorated with countless tiny stardust-like sparkles. She glides at high speed across a vast ice rink under a sky filled with shooting stars. Her silver skating shoes reflect the stars and the glowing ice. As her speed builds, she launches into a powerful triple axel jump, spinning gracefully in midair. She lands smoothly on the glowing ice and immediately accelerates again, cutting long, bright trails across the rink as more meteors and shooting stars fall around her. Ultra detailed, cinematic lighting, slow shutter motion blur, dynamic camera movement, 4K, high frame rate.
+Una ripresa dinamica in movimento di una giovane pattinatrice artistica su un pianeta alieno ghiacciato. Ha i capelli biondo platino raccolti in uno chignon stretto e indossa un costume simile a un cielo notturno blu indaco, decorato con innumerevoli piccoli bagliori simili a polvere di stelle. Scivola ad alta velocità su una vasta pista di ghiaccio sotto un cielo pieno di stelle cadenti. I suoi pattini d'argento riflettono le stelle e il ghiaccio luminoso. Mentre aumenta la velocità, si lancia in un potente salto triplo axel, ruotando con grazia a mezz'aria. Atterra dolcemente sul ghiaccio luminoso e accelera immediatamente di nuovo, tracciando lunghe scie luminose sulla pista mentre altri meteoriti e stelle cadenti cadono intorno a lei. Ultra dettagliato, illuminazione cinematografica, motion blur da otturatore lento, movimento di camera dinamico, 4K, frame rate elevato.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089241004939554816/img/2DDKiOQ2OHa_WOct.jpg" width="600" alt="Alien Planet Figure Skater Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089241004939554816/img/2DDKiOQ2OHa_WOct.jpg" width="600" alt="Video di una pattinatrice artistica su un pianeta alieno">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9323)**
 
 **Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2089241259085095024) | **Published:** Aug 17, 2026
 
 ---
-### Character OOTD Spin Video
+### Video OOTD del personaggio con rotazione
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A character-focused prompt generating a standing pose, outfit showcase, and a 360-degree spin.
+> Un prompt incentrato sul personaggio che genera una posa in piedi, una presentazione dell'outfit e una rotazione a 360 gradi.
 
 #### 📝 Prompt
 
 ```
-Pami babyy standing up and shows a ootd And giving us a spin@adin sold that baddie
+Pami babyy in piedi che mostra il suo OOTD e fa una giravolta, @adin ha venduto quella baddie
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089210935428931584/img/zpzq_iGtimQkkJ6L.jpg" width="600" alt="Character OOTD Spin Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089210935428931584/img/zpzq_iGtimQkkJ6L.jpg" width="600" alt="Video OOTD del personaggio con rotazione">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9427)**
 
 **Author:** [dasickestmf2000](https://x.com/dasickestmwbwy) | **Source:** [Link](https://x.com/dasickestmwbwy/status/2089210970602389934) | **Published:** Aug 17, 2026
 
 ---
-### Dragon Sunset Interaction
+### Interazione al tramonto con il drago
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed and atmospheric video prompt showing a dragon lowering its head to a woman's hand on a beach at sunset.
+> Un prompt video dettagliato e suggestivo che mostra un drago che abbassa la testa verso la mano di una donna su una spiaggia al tramonto.
 
 #### 📝 Prompt
 
 ```
-the dragon’s head slowly lowers toward her open hand, scales shimmering with soft light as the wind gently lifts her long hair and the hem of her flowing dress, its wings softly unfurling and catching the sunset glow while the ocean waves roll quietly
+la testa del drago si abbassa lentamente verso la sua mano aperta, le scaglie che brillano di una luce soffusa mentre il vento solleva delicatamente i suoi capelli lunghi e l'orlo del suo vestito fluttuante, le sue ali che si spiegano dolcemente catturando il bagliore del tramonto mentre le onde dell'oceano si infrangono silenziosamente
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089206770350661632/img/_tbJue-mFW2ri6O9.jpg" width="600" alt="Dragon Sunset Interaction">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089206770350661632/img/_tbJue-mFW2ri6O9.jpg" width="600" alt="Interazione al tramonto con il drago">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9319)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2089206829905481906) | **Published:** Aug 17, 2026
 
 ---
-### Black Hole Stellar Collapse Visualization
+### Visualizzazione del collasso stellare in un buco nero
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed scientific visualization of a black hole forming through stellar collapse with gravitational distortion effects.
+> Una visualizzazione scientifica altamente dettagliata della formazione di un buco nero attraverso il collasso stellare, con effetti di distorsione gravitazionale.
 
 #### 📝 Prompt
 
 ```
-A visualization of a black hole being created, showing the dynamic process of stellar collapse and formation with gravitational effects, event horizon appearance, and surrounding spacetime distortion
+Una visualizzazione della creazione di un buco nero che mostra il processo dinamico del collasso stellare e della formazione, con effetti gravitazionali, l'aspetto dell'orizzonte degli eventi e la distorsione dello spaziotempo circostante
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089176062475304960/img/XSQhNbhdBc6cEEha.jpg" width="600" alt="Black Hole Stellar Collapse Visualization">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089176062475304960/img/XSQhNbhdBc6cEEha.jpg" width="600" alt="Visualizzazione del collasso stellare in un buco nero">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9424)**
 
 **Author:** [Criminalize Communisim](https://x.com/CommiesRTr8rs) | **Source:** [Link](https://x.com/CommiesRTr8rs/status/2089176086701638035) | **Published:** Aug 17, 2026
 
 ---
-### Lava vs Liquid Nitrogen Science
+### Scienza: Lava contro azoto liquido
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt requesting a scientific visualization of the interaction between liquid nitrogen and hot lava.
+> Un prompt che richiede una visualizzazione scientifica dell'interazione tra azoto liquido e lava incandescente.
 
 #### 📝 Prompt
 
 ```
-Can you make a video of liquid nitrogen underneath hot lava and show what happens scientifically.
+Puoi creare un video che mostri l'azoto liquido sotto la lava incandescente e spieghi scientificamente cosa succede?
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089163411523305472/img/BrYPHNshCaSx0uS0.jpg" width="600" alt="Lava vs Liquid Nitrogen Science">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089163411523305472/img/BrYPHNshCaSx0uS0.jpg" width="600" alt="Scienza: Lava contro azoto liquido">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9422)**
 
 **Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089163426966712443) | **Published:** Aug 17, 2026
 
 ---
-### Liquid Nitrogen vs Lava Science
+### Azoto liquido contro lava: la scienza
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A scientific visualization prompt showing the reaction between liquid nitrogen and lava in a video format.
+> Un prompt di visualizzazione scientifica che mostra la reazione tra azoto liquido e lava in formato video.
 
 #### 📝 Prompt
 
 ```
-Can you make a video of liquid nitrogen in lava and show what happens scientifically
+Puoi creare un video che mostri l'azoto liquido a contatto con la lava e spieghi scientificamente cosa succede?
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089161865905512449/img/KRdf0ATk0pne8X6l.jpg" width="600" alt="Liquid Nitrogen vs Lava Science">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089161865905512449/img/KRdf0ATk0pne8X6l.jpg" width="600" alt="Azoto liquido contro lava: la scienza">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9418)**
 
 **Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089161883773190169) | **Published:** Aug 17, 2026
 
 ---
-### Healthy Cooking Chef Sequence
+### Sequenza di uno chef che cucina sano
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt illustrating the process of a chef creating healthy, nutritious plates from a table full of fresh vegetables and proteins.
+> Un prompt video che illustra il processo di uno chef che crea piatti sani e nutrienti partendo da un tavolo pieno di verdure fresche e proteine.
 
 #### 📝 Prompt
 
 ```
-Create a table full of vegetables, healthy fats, and protein. Then you have a chef create delicious plates with them for a healthy free cancer life.
+Crea un tavolo pieno di verdure, grassi sani e proteine. Successivamente, mostra uno chef che prepara piatti deliziosi con questi ingredienti per uno stile di vita sano e libero dal cancro.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089107807509307392/img/9huUvi3C3SnhiyjO.jpg" width="600" alt="Healthy Cooking Chef Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089107807509307392/img/9huUvi3C3SnhiyjO.jpg" width="600" alt="Sequenza di uno chef che cucina sano">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9318)**
 
 **Author:** [RexCesar](https://x.com/CesarCRDZO) | **Source:** [Link](https://x.com/CesarCRDZO/status/2089107819928617031) | **Published:** Aug 16, 2026
 
 ---
-### Glamorous Cyborg Neuromancer Video
+### Video di un affascinante cyborg in stile Neuromancer
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt featuring a glamorous cyborg in a Neuromancer aesthetic with flashing neon lights and jerky staging.
+> Un prompt video cinematografico che ritrae un affascinante cyborg con un'estetica ispirata a Neuromancer, caratterizzato da luci al neon lampeggianti e una messa in scena a scatti.
 
 #### 📝 Prompt
 
 ```
-Glamorous Cyborg Neuromancer, 4k rgb, acescg, jerky staging, flashing neon, in english
+Affascinante cyborg in stile Neuromancer, 4k rgb, acescg, messa in scena a scatti, neon lampeggianti, in inglese
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089058933943959552/img/_jy2ylbJWDVyQqW8.jpg" width="600" alt="Glamorous Cyborg Neuromancer Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089058933943959552/img/_jy2ylbJWDVyQqW8.jpg" width="600" alt="Video di un affascinante cyborg in stile Neuromancer">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9324)**
 
 **Author:** [Noreen.Kh](https://x.com/NKh2to) | **Source:** [Link](https://x.com/NKh2to/status/2089059103620399462) | **Published:** Aug 16, 2026
 
 ---
-### Cosmic Vortex Goddess Video
+### Video della Dea del Vortice Cosmico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex cinematic prompt involving a space vortex, realigning planets, and an ethereal goddess.
+> Un prompt cinematografico complesso che coinvolge un vortice spaziale, pianeti che si riallineano e una dea eterea.
 
 #### 📝 Prompt
 
 ```
-Choose vortex in space add picture of the women . Ethereal affects . Sudden cosmic blast planets realigning . Goddess appears grabs the woman with black on ....
+Scegli un vortice nello spazio, aggiungi l'immagine della donna. Effetti eterei. Improvvisa esplosione cosmica, pianeti che si riallineano. Appare la dea che afferra la donna vestita di nero...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089048801910648832/img/2NYJGKZdeIAeRuq-.jpg" width="600" alt="Cosmic Vortex Goddess Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089048801910648832/img/2NYJGKZdeIAeRuq-.jpg" width="600" alt="Video della Dea del Vortice Cosmico">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9316)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2089048819044319433) | **Published:** Aug 16, 2026
 
 ---
-### Rotating Chocolate Cake Animation
+### Animazione di una torta al cioccolato che ruota
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt for a rotating chocolate cake that divides into six pieces and reassembles.
+> Un prompt video per una torta al cioccolato che ruota, si divide in sei fette e si ricompone.
 
 #### 📝 Prompt
 
 ```
-OK, can we have this beautiful cake rotate and then divide and get back together again in like six pieces and then we say chocolate the powerhouse Cocoa
+OK, possiamo far ruotare questa bellissima torta, dividerla in sei fette, farle ricomporre e poi aggiungere la scritta "cioccolato, la potenza del cacao"?
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088989322754027520/img/o_ENLd8I77PIPk86.jpg" width="600" alt="Rotating Chocolate Cake Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088989322754027520/img/o_ENLd8I77PIPk86.jpg" width="600" alt="Animazione di una torta al cioccolato che ruota">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9321)**
 
 **Author:** [Amandasatiro](https://x.com/Amandasatiro07) | **Source:** [Link](https://x.com/Amandasatiro07/status/2088989343478079969) | **Published:** Aug 16, 2026
 
 ---
-### Realistic Walking Motion
+### Movimento di camminata realistico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for a realistic walking sequence with natural body physics and camera tracking on an urban sidewalk.
+> Un prompt video dettagliato per una sequenza di camminata realistica con fisica del corpo naturale e tracciamento della telecamera su un marciapiede urbano.
 
 #### 📝 Prompt
 
 ```
-The man walks forward naturally towards the camera with a confident, smooth gait, arms swinging freely, legs stepping mid-stride continuously, slight camera tracking forward, realistic clothing movement, natural body physics, sunny urban sidewalk env...
+L'uomo cammina in avanti naturalmente verso la telecamera con un'andatura fluida e sicura, le braccia che oscillano liberamente, le gambe che avanzano continuamente a metà passo, leggero tracciamento della telecamera in avanti, movimento realistico degli abiti, fisica del corpo naturale, ambiente di un marciapiede urbano soleggiato...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088977139886391296/img/ARSqffLf07_D17iR.jpg" width="600" alt="Realistic Walking Motion">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088977139886391296/img/ARSqffLf07_D17iR.jpg" width="600" alt="Movimento di camminata realistico">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9313)**
 
 **Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2088977165786173691) | **Published:** Aug 16, 2026
 
 ---
-### Gym Selfie Motion Video
+### Video in movimento di un selfie in palestra
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A photorealistic video generation prompt for a stylish gym selfie with subtle natural movements.
+> Un prompt per la generazione di video fotorealistici per un elegante selfie in palestra con movimenti naturali e sottili.
 
 #### 📝 Prompt
 
 ```
-The young man in black Nike shirt poses alone in the gym for a stylish side-view selfie. He makes subtle natural movements, slight head turns, confident expression, soft body shifts, cool fluorescent lighting, photoreal social media vibe.
+Il giovane uomo con una maglietta Nike nera posa da solo in palestra per un elegante selfie di profilo. Esegue movimenti naturali e sottili, lievi rotazioni della testa, espressione sicura, leggeri spostamenti del corpo, fresca illuminazione fluorescente, atmosfera fotorealistica da social media.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088965651302080513/img/g14zM-lDzIGlKRRR.jpg" width="600" alt="Gym Selfie Motion Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088965651302080513/img/g14zM-lDzIGlKRRR.jpg" width="600" alt="Video in movimento di un selfie in palestra">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9320)**
 
 **Author:** [GOTC](https://x.com/gotcbaby) | **Source:** [Link](https://x.com/gotcbaby/status/2088965668519678384) | **Published:** Aug 16, 2026
 
 ---
-### Onyx Gemstone Crow
+### Corvo in pietra preziosa onice
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A majestic video prompt for a crow sculpted from gemstone spreading its wings with intricate silver filigree.
+> Un maestoso prompt video per un corvo scolpito in pietra preziosa che spiega le ali con un intricato lavoro di filigrana d'argento.
 
 #### 📝 Prompt
 
 ```
-A majestic crow sculpted entirely from polished black onyx gemstone, powerfully spreading its wings wide in a heroic pose, intricate silver filigree and ornate patterns etched across its body, feathers, and wings, sharp emphasized edges with crystall...
+Un maestoso corvo scolpito interamente in pietra preziosa di onice nero lucido, che spiega le ali con forza in una posa eroica, intricata filigrana d'argento e motivi ornamentali incisi sul corpo, sulle piume e sulle ali, bordi affilati ed enfatizzati con cristalli...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088939136220897280/img/Pf0wfssd_bVrY95P.jpg" width="600" alt="Onyx Gemstone Crow">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088939136220897280/img/Pf0wfssd_bVrY95P.jpg" width="600" alt="Corvo in pietra preziosa onice">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9315)**
 
 **Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2088939174762348704) | **Published:** Aug 16, 2026
 
 ---
-### Dora and Team Umizoomi Rescue
+### Dora e il Team Umizoomi in missione di salvataggio
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An action-oriented prompt featuring popular animated characters in a rescue mission scenario against a villain.
+> Un prompt ricco di azione che vede protagonisti popolari personaggi dei cartoni animati impegnati in una missione di salvataggio contro un cattivo.
 
 #### 📝 Prompt
 
 ```
-Dora’s calling for help and team umizoomi going to save her from the evil villain
+Dora sta chiedendo aiuto e il Team Umizoomi sta andando a salvarla dal malvagio cattivo
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088878314932850688/img/qrMNu7fUj6bNvrDe.jpg" width="600" alt="Dora and Team Umizoomi Rescue">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088878314932850688/img/qrMNu7fUj6bNvrDe.jpg" width="600" alt="Dora e il Team Umizoomi in missione di salvataggio">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9241)**
 
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **Published:** Aug 16, 2026
 
 ---
-### Hello Kitty Jail Story
+### La storia di Hello Kitty in prigione
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed narrative prompt for a cartoon sequence featuring Hello Kitty in a store and legal trouble.
+> Un prompt narrativo dettagliato per una sequenza di cartoni animati che vede protagonista Hello Kitty in un negozio e alle prese con problemi legali.
 
 #### 📝 Prompt
 
 ```
-Hello kitty steals the candy from the store: her mom said don’t steal the candy your in big trouble: he cries he call the police and take kitty to jail
+Hello Kitty ruba delle caramelle dal negozio: la mamma le aveva detto di non farlo e ora è nei guai: lei piange, la mamma chiama la polizia e portano Kitty in prigione
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088877416332640256/img/z4oi_SjX29GlI7Zm.jpg" width="600" alt="Hello Kitty Jail Story">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088877416332640256/img/z4oi_SjX29GlI7Zm.jpg" width="600" alt="La storia di Hello Kitty in prigione">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9243)**
 
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088877441540342157) | **Published:** Aug 16, 2026
 
 ---
-### Astronaut Alien Sunrise Retreat
+### Ritiro dell'astronauta all'alba su un pianeta alieno
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt featuring a slow camera retreat from an astronaut standing on a rocky ridge as a second sun rises on an alien world.
+> Un prompt video cinematografico che mostra un lento allontanamento della telecamera da un astronauta in piedi su una cresta rocciosa mentre un secondo sole sorge su un mondo alieno.
 
 #### 📝 Prompt
 
 ```
-Wide cinematic 16:9 shot of a lone astronaut standing on a high rocky outcrop at the edge of an unexplored world, looking out across a vast and silent alien terrain as a second sun begins to rise, Earth visible as a small distant sphere in the dark sky, their spacecraft resting far below in the middle ground, slow and steady camera retreat that gradually reveals the scale and emptiness of the new landscape, soft natural light, quiet hopeful atmosphere, photorealistic, filmic and emotional
+Ampia inquadratura cinematografica 16:9 di un astronauta solitario in piedi su un alto sperone roccioso ai confini di un mondo inesplorato, che osserva un vasto e silenzioso terreno alieno mentre un secondo sole inizia a sorgere, la Terra visibile come una piccola sfera distante nel cielo scuro, la navicella spaziale che riposa molto più in basso nel piano intermedio, lento e costante allontanamento della telecamera che rivela gradualmente la scala e la vastità del nuovo paesaggio, luce naturale soffusa, atmosfera tranquilla e piena di speranza, fotorealistico, filmico ed emozionale
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="Astronaut Alien Sunrise Retreat">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="Ritiro dell'astronauta all'alba su un pianeta alieno">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9256)**
 
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088875908434203079) | **Published:** Aug 16, 2026
 
 ---
-### Watercolor Narrative Conversation
+### Conversazione narrativa in acquerello
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sophisticated video generation prompt using wet-on-wet watercolor aesthetics to depict a complex emotional conversation between a man and a woman.
+> Un sofisticato prompt per la generazione video che utilizza l'estetica dell'acquerello bagnato su bagnato per rappresentare una complessa conversazione emotiva tra un uomo e una donna.
 
 #### 📝 Prompt
 
 ```
-Visual aesthetic is wet on wet watercolor style. Maintain the watercolor style in every shot with the characters looking like moving watercolor paintings and adhering to the style perfectly. A man and a woman jokingly discuss how they think they were about to fall in love before they were separated. They are joking to hide that they actually mean it. Insert some pauses to make it seem more natural. Cinematic, prestige level quality directing and cinematography. Establishing shot, Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices.
+L'estetica visiva è in stile acquerello bagnato su bagnato. Mantieni lo stile acquerello in ogni inquadratura, facendo apparire i personaggi come dipinti ad acquerello in movimento e aderendo perfettamente allo stile. Un uomo e una donna discutono scherzosamente di come pensassero di innamorarsi prima di essere separati. Scherzano per nascondere che in realtà fanno sul serio. Inserisci alcune pause per rendere il tutto più naturale. Regia e cinematografia di livello cinematografico e prestigioso. Inquadratura di contesto, primi piani stretti e riprese a mano per una maggiore risonanza emotiva. Niente campi lunghi. Niente musica. Le micro-espressioni sui loro volti comunicano il tema meglio del volume delle loro voci.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786953735801_hadx6t_HP0OHs_XoAAMwHw.jpg" width="600" alt="Watercolor Narrative Conversation">
+<img src="https://cms-assets.youmind.com/media/1786953735801_hadx6t_HP0OHs_XoAAMwHw.jpg" width="600" alt="Conversazione narrativa in acquerello">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9322)**
 
 **Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088841453124342009) | **Published:** Aug 16, 2026
 
 ---
-### Colorful Birds Flying Over Backyard
+### Uccelli colorati che volano sopra il giardino
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A modification prompt adding cheerful colorful birds to a serene backyard scene with specific motion descriptions.
+> Un prompt di modifica per aggiungere allegri uccelli colorati a una serena scena di giardino con descrizioni di movimento specifiche.
 
 #### 📝 Prompt
 
 ```
-Add several colorful birds flying happily in the clear blue sky above the backyard scene. The birds look very joyful and cheerful, with bright expressions, wings spread, soaring playfully around the trees. Keep everything else exactly the same: the w...
+Aggiungi diversi uccelli colorati che volano felici nel cielo azzurro sopra la scena del giardino. Gli uccelli appaiono molto gioiosi e allegri, con espressioni vivaci, ali spiegate e che volteggiano giocosamente attorno agli alberi. Mantieni tutto il resto esattamente uguale: il...
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786866211398_4l9d94_HP0CjnvagAADTHD.jpg" width="600" alt="Colorful Birds Flying Over Backyard">
+<img src="https://cms-assets.youmind.com/media/1786866211398_4l9d94_HP0CjnvagAADTHD.jpg" width="600" alt="Uccelli colorati che volano sopra il giardino">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9251)**
 
 **Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2088828673269072163) | **Published:** Aug 16, 2026
 
 ---
-### Christ Leading Believers to Paradise
+### Cristo guida i credenti verso il Paradiso
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt depicting Jesus Christ leading believers from Hades to paradise.
+> Un prompt video cinematografico che raffigura Gesù Cristo mentre guida i credenti dall'Ade verso il Paradiso.
 
 #### 📝 Prompt
 
 ```
-Imagine our Lord Jesus Christ leading the believers from Hades to paradise after dying on the cross
+Immagina il nostro Signore Gesù Cristo che guida i credenti dall'Ade verso il Paradiso dopo la sua morte sulla croce
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="Christ Leading Believers to Paradise">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="Cristo guida i credenti verso il Paradiso">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9250)**
 
 **Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088811975937855627) | **Published:** Aug 16, 2026
 
 ---
-### Glowing Emerald Wolf Pack Animation
+### Animazione di un branco di lupi color smeraldo brillante
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A magical animation prompt in Japanese describing a pack of glowing emerald wolves howling and gaining speed in a mysterious forest.
+> Un prompt di animazione magica in giapponese che descrive un branco di lupi color smeraldo brillante che ululano e aumentano la velocità in una foresta misteriosa.
 
 #### 📝 Prompt
 
 ```
-Emerald wolf, silver trim, actual gem shine, edge enhancement, mysterious creature with animal-like vitality, faint flash inside, wild and ferocious appearance, deep and rich mysterious forest at night, loud and mournful howl, galloping, gradually more emerald wolves, numbers increasing little by little, speed gradually increasing, green glow becoming stronger as more companions join.
+Lupo color smeraldo, finiture argentate, lucentezza da gemma reale, miglioramento dei bordi, creatura misteriosa con vitalità animale, debole bagliore interno, aspetto selvaggio e feroce, foresta misteriosa profonda e ricca di notte, ululato forte e malinconico, al galoppo, gradualmente più lupi color smeraldo, il numero aumenta a poco a poco, la velocità aumenta gradualmente, il bagliore verde diventa più intenso man mano che si uniscono altri compagni.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088786652156350464/img/Q_pnjqYPQy70d9F8.jpg" width="600" alt="Glowing Emerald Wolf Pack Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088786652156350464/img/Q_pnjqYPQy70d9F8.jpg" width="600" alt="Animazione di un branco di lupi color smeraldo brillante">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9254)**
 
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088786721601405439) | **Published:** Aug 16, 2026
 
 ---
-### Cinematic Emerald Wolf Gemstone
+### Gemma di lupo color smeraldo in stile cinematografico
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed cinematic video prompt featuring wolves made of emeralds and silver with realistic lighting effects.
+> Un prompt video cinematografico dettagliato che presenta lupi realizzati in smeraldi e argento con effetti di luce realistici.
 
 #### 📝 Prompt
 
 ```
-Animal made of emerald with silver trim, wolf, real gemstone shine, edge emphasis, as animal-like as possible, looking like it's about to move, food is raw emerald stones, gnawing, stones overflowing, emerald wolf cub gnawing, parent wolf's gaze of affection, eyes are somehow gentle, a wild scene of the emerald wolf cub's mouth being large and somewhat heartwarming, finally a fade-out to sleep, howling can be heard.
+Animale fatto di smeraldo con finiture in argento, lupo, lucentezza di pietra preziosa reale, enfasi sui bordi, quanto più realistico possibile, sembra stia per muoversi, il cibo sono pietre di smeraldo grezzo, rosicchia, pietre che traboccano, cucciolo di lupo di smeraldo che rosicchia, sguardo affettuoso del genitore lupo, occhi stranamente gentili, una scena selvaggia della bocca del cucciolo di lupo di smeraldo che è grande e in qualche modo commovente, infine una dissolvenza verso il sonno, si sente un ululato.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="Cinematic Emerald Wolf Gemstone">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="Gemma di lupo color smeraldo in stile cinematografico">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9257)**
 
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **Published:** Aug 16, 2026
 
 ---
-### Grok Humanoid Robot Speaking
+### Il robot umanoide Grok che parla
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt describing a Grok humanoid robot speaking with specific physical features and natural movement.
+> Un prompt video dettagliato che descrive un robot umanoide Grok mentre parla, con caratteristiche fisiche specifiche e movimenti naturali.
 
 #### 📝 Prompt
 
 ```
-The Grok humanoid robot speaks and introduces himself. He has black molded slightly waved hair, snug short silver t-shirt with G and xAI logo, silver and black belt, black pants and boots, and bright blue eyes. His mouth opens and closes naturally as he speaks, head moves slightly,...
+Il robot umanoide Grok parla e si presenta. Ha capelli neri modellati leggermente mossi, una t-shirt attillata color argento con il logo G e xAI, una cintura argento e nera, pantaloni e stivali neri e occhi blu brillante. La sua bocca si apre e si chiude naturalmente mentre parla, la testa si muove leggermente,...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781703229911040/img/PGz9a9i5Q0s3Cg6A.jpg" width="600" alt="Grok Humanoid Robot Speaking">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088781703229911040/img/PGz9a9i5Q0s3Cg6A.jpg" width="600" alt="Il robot umanoide Grok che parla">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9314)**
 
 **Author:** [Leah Johnson](https://x.com/LeahJoh5652391) | **Source:** [Link](https://x.com/LeahJoh5652391/status/2088781726898426101) | **Published:** Aug 16, 2026
 
 ---
-### Cinematic Emotional Dialogue Scene
+### Scena di dialogo drammatico cinematografico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-stage prompt workflow for creating a cinematic drama scene, focusing on handheld camera work, micro-expressions, and emotional continuity between shots.
+> Un flusso di lavoro basato su prompt a più fasi per creare una scena drammatica cinematografica, concentrandosi sull'uso della camera a mano, sulle micro-espressioni e sulla continuità emotiva tra le inquadrature.
 
 #### 📝 Prompt
 
 ```
-A man and a woman jokingly discuss how they think they were about to fall in love before they were separated. They are joking to hide that they actually mean it. Insert some pauses to make it seem more natural. Cinematic, prestige level quality directing and cinematography. Establishing shot, Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices.
+Un uomo e una donna discutono scherzosamente di come pensano che stessero per innamorarsi prima di essere separati. Scherzano per nascondere il fatto che, in realtà, fanno sul serio. Inserisci alcune pause per rendere il tutto più naturale. Regia e fotografia di qualità cinematografica e di alto livello. Inquadratura di contesto, primi piani stretti e uso della camera a mano per una maggiore risonanza emotiva. Niente campi lunghi. Niente musica. Le micro-espressioni sui loro volti comunicano il tema molto più del volume delle loro voci.
 
-Cinematic, prestige level quality directing and cinematography. Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices. The woman's eyes search for the man's response in the silence for two beats. The man then says he'd like that and they continue to discuss how falling in love might better than fighting all the time about whose fault it was that they're not together.
+Regia e fotografia di qualità cinematografica e di alto livello. Primi piani stretti e uso della camera a mano per una maggiore risonanza emotiva. Niente campi lunghi. Niente musica. Le micro-espressioni sui loro volti comunicano il tema molto più del volume delle loro voci. Gli occhi della donna cercano la risposta dell'uomo nel silenzio per due battute. L'uomo poi dice che gli piacerebbe e continuano a discutere di come innamorarsi potrebbe essere meglio che litigare continuamente su di chi sia la colpa se non stanno insieme.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786866202037_pzd50h_HPzU98KW8AADwbU.png" width="600" alt="Cinematic Emotional Dialogue Scene">
+<img src="https://cms-assets.youmind.com/media/1786866202037_pzd50h_HPzU98KW8AADwbU.png" width="600" alt="Scena di dialogo drammatico cinematografico">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9242)**
 
 **Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088778581090439582) | **Published:** Aug 16, 2026
 
 ---
-### Avalanche Cave Conversation Scene
+### Scena di conversazione nella grotta dopo la valanga
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video scene featuring a man and a woman in a blue glacial ice cave, sharing a moment of humorous vulnerability after an avalanche.
+> Una scena video cinematografica che ritrae un uomo e una donna all'interno di una grotta di ghiaccio glaciale blu, mentre condividono un momento di vulnerabilità umoristica dopo una valanga.
 
 #### 📝 Prompt
 
 ```
-A man and a woman sitting in a cave formed by an avalanche lit by a small open flame propane camping burner. They jokingly discuss how they think they were about to fall in love before the avalanche as the shadows play on the glacial blue ice walls surrounding them. They are joking to hide that they actually mean it. Insert some pauses to make it seem more natural. Cinematic, prestige level quality directing and cinematography. Establishing shot, Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices.
+Un uomo e una donna sono seduti in una grotta formata da una valanga, illuminati dalla piccola fiamma di un fornello da campeggio a propano. Discutono scherzosamente di come pensassero di stare per innamorarsi prima della valanga, mentre le ombre danzano sulle pareti di ghiaccio blu che li circondano. Scherzano per nascondere il fatto che, in realtà, fanno sul serio. Inserisci delle pause per rendere il tutto più naturale. Regia e fotografia di livello cinematografico e prestigioso. Inquadratura di contesto, primi piani stretti e riprese a mano per una maggiore risonanza emotiva. Niente campi lunghi. Niente musica. Le micro-espressioni sui loro volti comunicano il tema molto più del volume delle loro voci.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088767536498139136/img/PWgeR9Dn4NnV3T-s.jpg" width="600" alt="Avalanche Cave Conversation Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088767536498139136/img/PWgeR9Dn4NnV3T-s.jpg" width="600" alt="Scena di conversazione nella grotta dopo la valanga">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9248)**
 
 **Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088767552935891355) | **Published:** Aug 15, 2026
 
 ---
-### Tesla AI Landing Page Video Design
+### Design video per la landing page di Tesla AI
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic landing page design for Tesla AI featuring deep charcoal backgrounds and futuristic glass UI elements, optimized for smooth video motion.
+> Un design cinematografico per la landing page di Tesla AI caratterizzato da sfondi grigio antracite intenso ed elementi UI in vetro futuristici, ottimizzato per un movimento video fluido.
 
 #### 📝 Prompt
 
 ```
-Landing page hero section design for Tesla AI, deep charcoal to near-black background, oversized immersive photographic imagery, rich atmospheric depth, cool cyan and steel blue with soft amber accents, soft volumetric haze, pronounced cinematic contrast, subtle translucent glass UI elements, elegant refined typography, asymmetric composition, generous negative space, ultra-premium futuristic aesthetic, ultra high detail
+Design della sezione hero della landing page per Tesla AI, sfondo da grigio antracite a quasi nero, immagini fotografiche immersive di grandi dimensioni, ricca profondità atmosferica, ciano freddo e blu acciaio con tenui accenti ambra, morbida foschia volumetrica, marcato contrasto cinematografico, sottili elementi UI in vetro traslucido, tipografia elegante e raffinata, composizione asimmetrica, ampio spazio negativo, estetica futuristica ultra-premium, dettagli ad altissima definizione
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088705704584769536/img/52mMFnwkTW01jSCN.jpg" width="600" alt="Tesla AI Landing Page Video Design">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088705704584769536/img/52mMFnwkTW01jSCN.jpg" width="600" alt="Design video per la landing page di Tesla AI">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9252)**
 
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088755110658842971) | **Published:** Aug 15, 2026
 
 ---
-### Grok Humanoid Robot in Carhartt Jumpsuit
+### Robot umanoide Grok con tuta Carhartt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt for Grok Imagine showing a humanoid robot wearing branded workwear and high-top sneakers in an industrial environment.
+> Un prompt video per Grok Imagine che mostra un robot umanoide che indossa abbigliamento da lavoro firmato e scarpe alte in un ambiente industriale.
 
 #### 📝 Prompt
 
 ```
-The Grok humanoid robot wearing a blue Carhartt-style jumpsuit with short sleeves featuring the Xai logo, a baseball cap with the same Xai logo, and blue Converse high top sneakers. Keep the overall pose, industrial background.
+Il robot umanoide Grok indossa una tuta blu in stile Carhartt a maniche corte con il logo Xai, un berretto da baseball con lo stesso logo Xai e scarpe alte Converse blu. Mantieni la posa generale e lo sfondo industriale.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088746691541483520/img/1ekaE54PifpTcg9O.jpg" width="600" alt="Grok Humanoid Robot in Carhartt Jumpsuit">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088746691541483520/img/1ekaE54PifpTcg9O.jpg" width="600" alt="Robot umanoide Grok con tuta Carhartt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9244)**
 
 **Author:** [Leah Johnson](https://x.com/LeahJoh5652391) | **Source:** [Link](https://x.com/LeahJoh5652391/status/2088746704321613918) | **Published:** Aug 15, 2026
 
 ---
-### Multiverse Galaxy Waves Video
+### Video Onde Galattiche Multiverso
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cosmic video prompt visualizing galactic waves, nebulas, and interacting solar systems in pink and gold glow.
+> Un prompt video cosmico che visualizza onde galattiche, nebulose e sistemi solari interagenti con bagliori rosa e oro.
 
 #### 📝 Prompt
 
 ```
-Show me interpower between multi universes and ours cosmoreal colours golden sky blue white shinning pink glow and many solar systems nebulaes and galaxy gravitron waves use your fiction
+Mostrami l'interazione tra il multiverso e il nostro, colori cosmici, cielo dorato, blu, bianco, bagliore rosa brillante e molti sistemi solari, nebulose e onde gravitazionali galattiche, usa la tua immaginazione
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727149066768384/img/1_br_16e4kez3VrL.jpg" width="600" alt="Multiverse Galaxy Waves Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088727149066768384/img/1_br_16e4kez3VrL.jpg" width="600" alt="Video Onde Galattiche Multiverso">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9246)**
 
 **Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2088727195682292113) | **Published:** Aug 15, 2026
 
 ---
-### Alien Animatronic Horror Jump Scare
+### Jump scare horror con animatrone alieno
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed two-part prompt describing a high-scale animatronic alien predator and a specific jump-scare video motion instruction.
+> Un prompt dettagliato in due parti che descrive un predatore alieno animatronico su larga scala e un'istruzione specifica per il movimento video di un jump-scare.
 
 #### 📝 Prompt
 
 ```
-A massive alien apex predator creature, built as a full-scale physical animatronic. Glistening black fiberglass shell, interlocking metal plates, and thick hydraulic rods controlling the limbs. Wet slime glaze, dripping drool from acrylic resin teeth. Harsh dramatic rim lighting, dark spaceship corridor background, shot on anamorphic lens, 1980s cinematic sci-fi horror. Simple Video Prompt: He jumps over the camera as the camera is left looking at an empty interior of a space ship.
+Un'imponente creatura aliena predatrice, realizzata come animatrone fisico a grandezza naturale. Guscio in vetroresina nero lucido, piastre metalliche interconnesse e spessi pistoni idraulici che controllano gli arti. Effetto bagnato e viscido, bava che cola dai denti in resina acrilica. Illuminazione drammatica di contorno, sfondo di un corridoio di un'astronave al buio, girato con lenti anamorfiche, stile horror sci-fi cinematografico anni '80. Prompt video semplice: Salta sopra la telecamera mentre quest'ultima rimane a inquadrare l'interno vuoto di un'astronave.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088719871185911808/img/pD1zE3IqWGKZniQG.jpg" width="600" alt="Alien Animatronic Horror Jump Scare">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088719871185911808/img/pD1zE3IqWGKZniQG.jpg" width="600" alt="Jump scare horror con animatrone alieno">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9253)**
 
 **Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2088719909866160132) | **Published:** Aug 15, 2026
 
 ---
-### Red Sea Parting Cinematic
+### Cinematica della divisione del Mar Rosso
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dramatic animation prompt depicting the biblical scene of the Red Sea parting for the Israelites.
+> Un prompt di animazione drammatico che raffigura la scena biblica della divisione del Mar Rosso per gli Israeliti.
 
 #### 📝 Prompt
 
 ```
-Imagine the parting of the Red Sea and the Israelites passing and the Egyptians chariots sinking
+Immagina la divisione del Mar Rosso, gli Israeliti che attraversano e i carri egizi che affondano
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088682513963372544/img/UqXXSPblOLlayEYC.jpg" width="600" alt="Red Sea Parting Cinematic">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088682513963372544/img/UqXXSPblOLlayEYC.jpg" width="600" alt="Cinematica della divisione del Mar Rosso">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9247)**
 
 **Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **Published:** Aug 15, 2026
 
 ---
-### Qajar Court Group Portrait
+### Ritratto di gruppo della corte Qajar
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for a frozen formal group portrait in the style of the Qajar court, capturing a photographer and the group's poses.
+> Un prompt per un ritratto di gruppo formale e statico nello stile della corte Qajar, che cattura il fotografo e le pose del gruppo.
 
 #### 📝 Prompt
 
 ```
-The final frozen formal group portrait after the photo is taken, bright flash residual, everyone holding the perfect Qajar court pose with slight smiles or serious faces, the photographer still behind the camera but the focus is the group. Same scene...
+Il ritratto di gruppo formale e statico finale dopo lo scatto, residuo di flash luminoso, tutti mantengono la posa perfetta della corte Qajar con lievi sorrisi o volti seri, il fotografo è ancora dietro la macchina fotografica ma il focus è sul gruppo. Stessa scena...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088645576078594048/img/tuDCJeWa2-Xbe8dU.jpg" width="600" alt="Qajar Court Group Portrait">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088645576078594048/img/tuDCJeWa2-Xbe8dU.jpg" width="600" alt="Ritratto di gruppo della corte Qajar">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9249)**
 
 **Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2088645617228857732) | **Published:** Aug 15, 2026
 
 ---
-### Closing White Line Video Loop
+### Video Loop con linea bianca di chiusura
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A technical video prompt designed to create a specific closing animation effect that loops back to the original reference image.
+> Un prompt video tecnico progettato per creare un effetto di animazione di chiusura specifico che torna all'immagine di riferimento originale.
 
 #### 📝 Prompt
 
 ```
-Only use my image, to have the white line above it to “close” and the video to be back to this image
+Usa solo la mia immagine, fai in modo che la linea bianca sopra di essa si "chiuda" e che il video ritorni a questa immagine
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088640902952599552/img/6zzuREmHS5z03NCM.jpg" width="600" alt="Closing White Line Video Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088640902952599552/img/6zzuREmHS5z03NCM.jpg" width="600" alt="Video Loop con linea bianca di chiusura">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9245)**
 
 **Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2088640917339029722) | **Published:** Aug 15, 2026
 
 ---
-### Storybook Background Vibe
+### Atmosfera da libro di fiabe
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a cozy and peaceful storybook-style background for a relaxing Saturday vibe.
+> Genera uno sfondo accogliente e tranquillo in stile libro di fiabe per un'atmosfera rilassante del sabato.
 
 #### 📝 Prompt
 
 ```
-A good vibe, a storybook background, and a break from all the hustle and bustle.
+Una bella atmosfera, uno sfondo da libro di fiabe e una pausa da tutto il trambusto quotidiano.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088544687896317952/img/1u1vR3DTCRsOLx-o.jpg" width="600" alt="Storybook Background Vibe">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088544687896317952/img/1u1vR3DTCRsOLx-o.jpg" width="600" alt="Atmosfera da libro di fiabe">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9255)**
 
 **Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2088544747900059948) | **Published:** Aug 15, 2026
 
 ---
-### Golden Light Snout Interaction
+### Interazione con il muso nella luce dorata
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A poetic video prompt capturing a tactile moment with dancing golden light and character interaction.
+> Un prompt video poetico che cattura un momento tattile con una luce dorata danzante e l'interazione con il personaggio.
 
 #### 📝 Prompt
 
 ```
-her fingers almost touching its snout as golden light dances across both of them
+le sue dita quasi sfiorano il muso mentre una luce dorata danza su entrambi
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088487362472837120/img/z7hpOYjISu7I1mtg.jpg" width="600" alt="Golden Light Snout Interaction">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088487362472837120/img/z7hpOYjISu7I1mtg.jpg" width="600" alt="Interazione con il muso nella luce dorata">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9173)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088488663302779227) | **Published:** Aug 15, 2026
 
 ---
-### Late Night Adventure Sneak Out
+### Avventura notturna: sgattaiolare fuori
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic prompt for generating a video of a child cautiously sneaking out for a late-night adventure while their mother sleeps.
+> Un prompt cinematografico per generare un video di un bambino che sgattaiola fuori con cautela per un'avventura notturna mentre la madre dorme.
 
 #### 📝 Prompt
 
 ```
-Checking to make sure mother's asleep before sneaking out for a late night adventure.
+Controllare che la mamma dorma prima di sgattaiolare fuori per un'avventura notturna.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088485262443900928/img/FHHwZMwSUBc8WhiJ.jpg" width="600" alt="Late Night Adventure Sneak Out">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088485262443900928/img/FHHwZMwSUBc8WhiJ.jpg" width="600" alt="Avventura notturna: sgattaiolare fuori">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9185)**
 
 **Author:** [Christopher Gwinn | Grindhouse Glitch](https://x.com/ChrisGwinnLA) | **Source:** [Link](https://x.com/ChrisGwinnLA/status/2088485933494751406) | **Published:** Aug 15, 2026
 
 ---
-### Coffee Shop Bravery Dialogue
+### Dialogo sul coraggio in una caffetteria
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-quality cinematic prompt for a dialogue-heavy scene using tight close-ups and handheld camera work to convey emotion.
+> Un prompt cinematografico di alta qualità per una scena ricca di dialoghi, che utilizza primi piani stretti e riprese a mano per trasmettere emozioni.
 
 #### 📝 Prompt
 
 ```
-A man and a woman talking in a coffee shop having a discussion about the value of bravery in a world that rewards cowardice. Cinematic, prestige level quality directing and cinematography. Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices.
+Un uomo e una donna parlano in una caffetteria, discutendo sul valore del coraggio in un mondo che premia la codardia. Qualità cinematografica di alto livello per regia e fotografia. Primi piani stretti e riprese a mano per una maggiore risonanza emotiva. Niente campi lunghi. Niente musica. Le micro-espressioni sui loro volti comunicano il tema molto più del volume delle loro voci.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088480964515123200/img/bibzKm-q7Urs6URB.jpg" width="600" alt="Coffee Shop Bravery Dialogue">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088480964515123200/img/bibzKm-q7Urs6URB.jpg" width="600" alt="Dialogo sul coraggio in una caffetteria">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9171)**
 
 **Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088481490740916582) | **Published:** Aug 15, 2026
 
 ---
-### Modern MGM intro remake
+### Remake moderno dell'intro MGM
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt to generate a modern and high-bass version of the iconic MGM lion roar intro.
+> Un prompt per generare una versione moderna e ricca di bassi dell'iconica intro con il ruggito del leone MGM.
 
 #### 📝 Prompt
 
 ```
-A modern version of the mgm intro with a louder roar extra bass is how I feel inside all the time
+Una versione moderna dell'intro MGM con un ruggito più forte e bassi extra, esattamente come mi sento dentro tutto il tempo
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088481167909552128/img/Vl_YF05gwmNDq_Ci.jpg" width="600" alt="Modern MGM intro remake">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088481167909552128/img/Vl_YF05gwmNDq_Ci.jpg" width="600" alt="Remake moderno dell'intro MGM">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9170)**
 
 **Author:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **Source:** [Link](https://x.com/AMERICA250e9/status/2088481205649854466) | **Published:** Aug 15, 2026
 
 ---
-### Friendly Dragon Cliffside Greeting
+### Saluto amichevole al drago sulla scogliera
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a person on a cliff edge welcoming a dragon with a gentle, inviting gesture.
+> Un prompt video cinematografico di una persona sul bordo di una scogliera che accoglie un drago con un gesto gentile e invitante.
 
 #### 📝 Prompt
 
 ```
-i'm standing tall on the cliff edge, one hand reaching out toward the dragon with an open palm, gentle and inviting, like i'm welcoming an old friend.
+Sono in piedi sul bordo della scogliera, con una mano tesa verso il drago e il palmo aperto, in modo gentile e invitante, come se stessi accogliendo un vecchio amico.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088479193356984320/img/452nGQnbzrkX-2WJ.jpg" width="600" alt="Friendly Dragon Cliffside Greeting">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088479193356984320/img/452nGQnbzrkX-2WJ.jpg" width="600" alt="Saluto amichevole al drago sulla scogliera">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9174)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088479596656177372) | **Published:** Aug 15, 2026
 
 ---
-### Gentle Dragon Bond at Sunset
+### Legame gentile con il drago al tramonto
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An evocative and poetic video prompt describing a peaceful moment between a girl and a shimmering dragon at sunset by the ocean.
+> Un prompt video evocativo e poetico che descrive un momento di pace tra una ragazza e un drago scintillante al tramonto, in riva all'oceano.
 
 #### 📝 Prompt
 
 ```
-the dragon’s head slowly lowers toward her open hand, scales shimmering with soft light as the wind gently lifts her long hair and the hem of her flowing dress, its wings softly unfurling and catching the sunset glow while the ocean waves roll quietly behind them, the dragon’s eyes blink once with warmth and its mouth curves into a slow knowing smile, her fingers almost touching its snout as golden light dances across both of them… pure gentle bond, no big movements.
+la testa del drago si abbassa lentamente verso la sua mano aperta, le scaglie brillano di una luce soffusa mentre il vento solleva delicatamente i suoi capelli lunghi e l'orlo del suo abito fluttuante, le sue ali si spiegano dolcemente catturando il bagliore del tramonto mentre le onde dell'oceano si infrangono silenziosamente dietro di loro, gli occhi del drago sbattono le palpebre una volta con calore e la sua bocca si curva in un lento sorriso consapevole, le dita di lei sfiorano quasi il muso mentre una luce dorata danza su entrambi... un legame puro e gentile, senza movimenti bruschi.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088476460897972224/img/sLVfIOeXg862Y-dp.jpg" width="600" alt="Gentle Dragon Bond at Sunset">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088476460897972224/img/sLVfIOeXg862Y-dp.jpg" width="600" alt="Legame gentile con il drago al tramonto">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9168)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088476669673627890) | **Published:** Aug 15, 2026
 
 ---
-### SpaceX Mars Landing Page Animation
+### Animazione della landing page per l'atterraggio su Marte di SpaceX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-end landing page design for a SpaceX Starship landing on Mars at dusk, featuring muted champagne tones and cinematic depth ready for video motion.
+> Un design di landing page di alta gamma per l'atterraggio della Starship di SpaceX su Marte al crepuscolo, caratterizzato da tonalità champagne tenui e una profondità cinematografica pronta per il video motion.
 
 #### 📝 Prompt
 
 ```
-Landing page hero section design for SpaceX Starship landing on Mars at dusk, soft warm off-white and pale stone canvas, oversized clean photographic imagery with gentle natural light, elegant muted champagne and soft gray tones with subtle cyan accents, ultra-clean composition, sophisticated high-end typography, subtle floating glass elements, generous negative space, soft diffused lighting, minimal technical details, polished luxury product aesthetic, calm and refined atmosphere, ultra-high detail 12k quality, cinematic depth ready for smooth video motion
+Design della sezione hero della landing page per l'atterraggio della Starship di SpaceX su Marte al crepuscolo, tela nei toni del bianco sporco caldo e pietra pallida, immagini fotografiche pulite di grandi dimensioni con una luce naturale soffusa, eleganti tonalità champagne tenue e grigio delicato con sottili accenti ciano, composizione ultra-pulita, tipografia sofisticata di alta gamma, sottili elementi in vetro fluttuante, ampio spazio negativo, illuminazione diffusa morbida, dettagli tecnici minimali, estetica da prodotto di lusso rifinito, atmosfera calma e raffinata, qualità 12k ultra-dettagliata, profondità cinematografica pronta per un video motion fluido
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088337507327074304/img/4tOfZhmL6_bVVNmK.jpg" width="600" alt="SpaceX Mars Landing Page Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088337507327074304/img/4tOfZhmL6_bVVNmK.jpg" width="600" alt="Animazione della landing page per l'atterraggio su Marte di SpaceX">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9175)**
 
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **Published:** Aug 14, 2026
 
 ---
-### Dragon Day-to-Night Transition
+### Transizione dal giorno alla notte del drago
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematographic prompt involving a dragon flying over the Grand Canyon with a day-to-night seamless transition.
+> Un prompt cinematografico altamente dettagliato che raffigura un drago in volo sopra il Grand Canyon con una transizione fluida dal giorno alla notte.
 
 #### 📝 Prompt
 
 ```
-The awestruck man sits on the Grand Canyon edge holding his steaming coffee, eyes wide with wonder as the exact golden Chinese lung-style dragon with massive scientifically realistic wings soars alone. The golden dragon breathes a powerful stream of fire directly toward the rising sun above the horizon. Then the dragon banks and flies toward the left side of the frame as a night skyline with stars and city lights begins to appear on the far left, creating a seamless day-to-night transition like crossing time zones — the dragon flies between the two worlds. Keep the enormous wings fully extended for lift, ultra-realistic detail, intense eyes, sun-reflecting golden scales, continuous smooth flight motion, epic lighting.
+L'uomo, colmo di stupore, siede sul bordo del Grand Canyon tenendo in mano il suo caffè fumante, con gli occhi spalancati per la meraviglia mentre un autentico drago cinese dorato, con enormi ali scientificamente realistiche, vola solitario. Il drago dorato sputa un potente getto di fuoco direttamente verso il sole che sorge sopra l'orizzonte. Successivamente, il drago vira e vola verso il lato sinistro dell'inquadratura, mentre un profilo notturno con stelle e luci cittadine inizia ad apparire all'estrema sinistra, creando una transizione fluida dal giorno alla notte, come se stesse attraversando diversi fusi orari: il drago vola tra i due mondi. Mantieni le enormi ali completamente estese per il sostentamento, dettagli ultra-realistici, occhi intensi, scaglie dorate che riflettono il sole, movimento di volo fluido e continuo, illuminazione epica.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088381582834892800/img/YWP9hBcWdfxDtEw5.jpg" width="600" alt="Dragon Day-to-Night Transition">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088381582834892800/img/YWP9hBcWdfxDtEw5.jpg" width="600" alt="Transizione dal giorno alla notte del drago">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9167)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088382010322772177) | **Published:** Aug 14, 2026
 
 ---
-### Starship loading process
+### Processo di caricamento della Starship
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A technical and realistic prompt for animating a SpaceX Starship being loaded onto a transport trailer using claw arms.
+> Un prompt tecnico e realistico per animare il caricamento di una SpaceX Starship su un rimorchio di trasporto tramite bracci meccanici.
 
 #### 📝 Prompt
 
 ```
-Using the claw arms load the Starship slowly onto an empty transport trailer truck then driven away from launch site
+Utilizzando i bracci meccanici, carica lentamente la Starship su un rimorchio di trasporto vuoto, che viene poi allontanato dal sito di lancio
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088366889076457473/img/pdzOQHfq_DfORIrN.jpg" width="600" alt="Starship loading process">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088366889076457473/img/pdzOQHfq_DfORIrN.jpg" width="600" alt="Processo di caricamento della Starship">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9169)**
 
 **Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2088366936958660710) | **Published:** Aug 14, 2026
 
 ---
-### SpaceX orbital refueling design
+### Design del rifornimento orbitale di SpaceX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional architectural and cinematic prompt for a SpaceX refueling depot featuring luxury product aesthetics and smooth camera motion.
+> Un prompt architettonico e cinematografico professionale per un deposito di rifornimento SpaceX, caratterizzato da un'estetica da prodotto di lusso e un movimento di camera fluido.
 
 #### 📝 Prompt
 
 ```
-Landing page hero section design for SpaceX orbital refueling depot, soft warm off-white and pale stone canvas, oversized clean photographic imagery with gentle natural light, elegant muted champagne and soft gray tones with subtle cyan accents, ultra-clean composition, sophisticated high-end typography, subtle floating glass elements, generous negative space, soft diffused lighting, minimal technical details, polished luxury product aesthetic, calm and refined atmosphere, ultra high detail 12k quality, cinematic depth ready for smooth video motion. Slow cinematic camera push-in, subtle floating particles and soft light movement, gentle atmospheric haze drifting, smooth elegant motion, premium cinematic feel, ultra-high detail, calm and refined atmosphere
+Design della sezione hero della landing page per il deposito di rifornimento orbitale di SpaceX, tela in tonalità bianco sporco caldo e pietra tenue, immagini fotografiche pulite di grandi dimensioni con luce naturale soffusa, eleganti toni champagne tenue e grigio delicato con sottili accenti ciano, composizione ultra-pulita, tipografia sofisticata di alta gamma, sottili elementi in vetro fluttuante, ampio spazio negativo, illuminazione morbida e diffusa, dettagli tecnici minimali, estetica da prodotto di lusso rifinito, atmosfera calma e raffinata, qualità 12k ultra dettagliata, profondità cinematografica pronta per un movimento video fluido. Lento movimento di camera cinematografico in avanti, sottili particelle fluttuanti e movimento di luce soffusa, leggera foschia atmosferica, movimento elegante e fluido, sensazione cinematografica premium, dettaglio ultra-elevato, atmosfera calma e raffinata
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088331909390852098/img/HbuWOalEbijvW4s7.jpg" width="600" alt="SpaceX orbital refueling design">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088331909390852098/img/HbuWOalEbijvW4s7.jpg" width="600" alt="Design del rifornimento orbitale di SpaceX">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9172)**
 
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088362524987236421) | **Published:** Aug 14, 2026
 
 ---
-### Starship Mars Landing Animation
+### Animazione dell'atterraggio di Starship su Marte
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for a SpaceX Starship landing on Mars, featuring a cinematic push-in and atmospheric effects designed for video motion.
+> Un prompt dettagliato per l'atterraggio di SpaceX Starship su Marte, caratterizzato da un movimento di camera cinematico in avvicinamento ed effetti atmosferici pensati per il video motion.
 
 #### 📝 Prompt
 
 ```
-Landing page hero section design for SpaceX Starship landing on Mars at dusk, deep charcoal to near-black background, oversized immersive photographic imagery, rich atmospheric depth, warm copper and amber highlights with cool cyan and steel blue accents, soft volumetric haze, pronounced cinematic contrast, subtle translucent glass UI elements, elegant refined typography, delicate technical annotations, asymmetric composition, generous negative space, soft bloom, tactile film grain, ultra-premium futuristic aesthetic, ultra high detail 12k quality, cinematic depth ready for smooth video motion. Slow cinematic camera push-in, subtle floating particles and soft light movement, gentle atmospheric haze drifting, smooth elegant motion, premium cinematic feel, ultra high detail, calm and refined atmosphere
+Design della sezione hero per la landing page dell'atterraggio di SpaceX Starship su Marte al crepuscolo, sfondo dal grigio antracite al nero profondo, immagini fotografiche immersive di grandi dimensioni, ricca profondità atmosferica, riflessi caldi color rame e ambra con accenti freddi ciano e blu acciaio, morbida foschia volumetrica, marcato contrasto cinematico, sottili elementi UI in vetro traslucido, tipografia elegante e raffinata, delicate annotazioni tecniche, composizione asimmetrica, ampio spazio negativo, soft bloom, grana della pellicola tattile, estetica futuristica ultra-premium, qualità 12k ultra dettagliata, profondità cinematografica pronta per un fluido video motion. Lento movimento di camera cinematico in avvicinamento, sottili particelle fluttuanti e leggero movimento della luce, delicata foschia atmosferica che si sposta, movimento fluido ed elegante, tocco cinematico premium, dettagli ultra elevati, atmosfera calma e raffinata
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088323317975674880/img/WyD8QUZXAglo-Q80.jpg" width="600" alt="Starship Mars Landing Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088323317975674880/img/WyD8QUZXAglo-Q80.jpg" width="600" alt="Animazione dell'atterraggio di Starship su Marte">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9176)**
 
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088323673103208482) | **Published:** Aug 14, 2026
 
 ---
-### Australian Collie Ocean Shore Animation
+### Animazione di un Australian Collie sulla riva dell'oceano
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Captures a majestic Australian Collie with striking ocean eyes playing on the shore, focusing on lighting and its steady, loyal gaze.
+> Cattura un maestoso Australian Collie con sorprendenti occhi color oceano che gioca sulla riva, concentrandosi sull'illuminazione e sul suo sguardo fermo e leale.
 
 #### 📝 Prompt
 
 ```
-Australian collie, ocean eyes that catch the light like sun on water… sleek coat, alert ears, that steady gaze that says “I’m here for you.” plays with tennis balls on the ocean shore
+Australian collie, occhi color oceano che catturano la luce come il sole sull'acqua… pelo lucido, orecchie attente, quello sguardo fermo che dice “Sono qui per te”. Gioca con palline da tennis sulla riva dell'oceano
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088315906703101952/img/ZnGqTwKezCtzwx5R.jpg" width="600" alt="Australian Collie Ocean Shore Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088315906703101952/img/ZnGqTwKezCtzwx5R.jpg" width="600" alt="Animazione di un Australian Collie sulla riva dell'oceano">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9183)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088316174509515150) | **Published:** Aug 14, 2026
 
 ---
-### Ebony Dragon Tea Party Animation
+### Animazione del Tea Party del Drago d'Ebano
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a video of a growing dragon elegantly holding a teacup with its black claws, blending mythical power with dainty movements.
+> Genera un video di un drago in crescita che tiene elegantemente una tazza da tè con i suoi artigli neri, fondendo potenza mitica e movimenti delicati.
 
 #### 📝 Prompt
 
 ```
-dragon grows up to be big and daintily holds own teacup in ebony black fingerclaw
+il drago cresce fino a diventare grande e tiene delicatamente la propria tazza da tè con l'artiglio nero d'ebano
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088303551034372096/img/sbfUg6H0e2qT3QhE.jpg" width="600" alt="Ebony Dragon Tea Party Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088303551034372096/img/sbfUg6H0e2qT3QhE.jpg" width="600" alt="Animazione del Tea Party del Drago d'Ebano">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9180)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088303946016153820) | **Published:** Aug 14, 2026
 
 ---
-### Noah's Flood Starship Video Prompt
+### Prompt video per l'astronave del Diluvio di Noè
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dramatic cinematic video prompt showing a starship leaving Earth during a global flood that submerges the pyramids, blending biblical and sci-fi imagery.
+> Un drammatico prompt video cinematografico che mostra un'astronave che lascia la Terra durante un diluvio universale che sommerge le piramidi, fondendo immagini bibliche e fantascientifiche.
 
 #### 📝 Prompt
 
 ```
-A woman and a man aboard an open starship charting off planet Earth towards the sun, watching the waters prevail over the world as in Noah’s flood, massive floodwaters covering the pyramids and submerging the Earth below them only a few on the planet, remain the ones that were warned and made vessels for the sea
+Una donna e un uomo a bordo di un'astronave aperta in rotta dal pianeta Terra verso il sole, osservano le acque prevalere sul mondo come nel diluvio di Noè; enormi inondazioni coprono le piramidi e sommergono la Terra sotto di loro, solo pochi sul pianeta rimangono, coloro che sono stati avvertiti e hanno costruito vascelli per il mare
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088289936520757248/img/LgWytKEgcs0PEpvQ.jpg" width="600" alt="Noah's Flood Starship Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088289936520757248/img/LgWytKEgcs0PEpvQ.jpg" width="600" alt="Prompt video per l'astronave del Diluvio di Noè">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9179)**
 
 **Author:** [Maria Of Mars](https://x.com/MariaGa68521784) | **Source:** [Link](https://x.com/MariaGa68521784/status/2088289952517759388) | **Published:** Aug 14, 2026
 
 ---
-### Luminous Humanoid Entity Animation
+### Animazione di un'entità umanoide luminosa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal video prompt featuring a glowing humanoid entity against a dark abstract backdrop.
+> Un prompt video surreale che mostra un'entità umanoide luminosa su uno sfondo astratto scuro.
 
 #### 📝 Prompt
 
 ```
-A surreal, luminous humanoid entity with glowing aura in a dark, abstract background.
+Un'entità umanoide surreale e luminosa con un'aura raggiante su uno sfondo astratto e scuro.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786779721376_i0zfwy_HPsF8rNbsAA7B9F.jpg" width="600" alt="Luminous Humanoid Entity Animation">
+<img src="https://cms-assets.youmind.com/media/1786779721376_i0zfwy_HPsF8rNbsAA7B9F.jpg" width="600" alt="Animazione di un'entità umanoide luminosa">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9178)**
 
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2088269525498384859) | **Published:** Aug 14, 2026
 
 ---
-### Pixel Art Looping Aesthetic
+### Estetica Pixel Art a ciclo continuo
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A video prompt creating a pixel art style scene with a looping aesthetic and a relatively still camera, inspired by Japanese song lyrics.
+> Un prompt video per creare una scena in stile pixel art con un'estetica a ciclo continuo e una telecamera relativamente ferma, ispirato ai testi delle canzoni giapponesi.
 
 #### 📝 Prompt
 
 ```
-pixel art style, looping aesthetic, relatively still camera. I can no longer test the tires and heart I changed for you.
+stile pixel art, estetica a ciclo continuo, telecamera relativamente ferma. Non riesco più a mettere alla prova le gomme e il cuore che ho cambiato per te.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088180539593527296/img/i4HHRg60vuC2ni5p.jpg" width="600" alt="Pixel Art Looping Aesthetic">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088180539593527296/img/i4HHRg60vuC2ni5p.jpg" width="600" alt="Estetica Pixel Art a ciclo continuo">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9187)**
 
 **Author:** [今井宏之](https://x.com/imaikaiimai) | **Source:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **Published:** Aug 14, 2026
 
 ---
-### Louvre Golden Hour Idol Video
+### Video dell'idol al Louvre durante la golden hour
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An artistic video prompt of a bubbly female idol admiring the Louvre during golden hour with dynamic background responses.
+> Un prompt video artistico che ritrae un'idol vivace mentre ammira il Louvre durante la golden hour, con risposte dinamiche dello sfondo.
 
 #### 📝 Prompt
 
 ```
-American female playfully admiring the louvre at golden hour, bubbly and expressive like a popular idol, but show subtle environmental tension artistic and thought-provoking, consistent overall composition but with dynamic background response to her presence
+Ragazza americana che ammira giocosamente il Louvre durante la golden hour, vivace ed espressiva come una popolare idol, ma con una sottile tensione ambientale, artistica e stimolante, composizione complessiva coerente ma con una risposta dinamica dello sfondo alla sua presenza
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088153830563450880/img/_u2QzRzpHA1WodHc.jpg" width="600" alt="Louvre Golden Hour Idol Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088153830563450880/img/_u2QzRzpHA1WodHc.jpg" width="600" alt="Video dell'idol al Louvre durante la golden hour">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9095)**
 
 **Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2088154062902702543) | **Published:** Aug 14, 2026
 
 ---
-### Mars Habitat Lungs Activation
+### Attivazione dei polmoni dell'habitat su Marte
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Video prompt for activation of living water domes and habitats on Mars.
+> Prompt video per l'attivazione di cupole d'acqua viva e habitat su Marte.
 
 #### 📝 Prompt
 
 ```
-Show all them detach, each one landing in crater filling the craterand and activating Kennedy’s living water domes to covers the entire crater to the rim and new habitat, becoming the lungs for Mars
+Mostra tutti i moduli che si staccano, ognuno dei quali atterra in un cratere riempiendolo e attivando le cupole d'acqua viva di Kennedy, fino a coprire l'intero cratere fino al bordo e al nuovo habitat, diventando i polmoni di Marte.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149826374680576/img/ehPk0YBSC0sinIAM.jpg" width="600" alt="Mars Habitat Lungs Activation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088149826374680576/img/ehPk0YBSC0sinIAM.jpg" width="600" alt="Attivazione dei polmoni dell'habitat su Marte">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9092)**
 
 **Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088149868288365028) | **Published:** Aug 14, 2026
 
 ---
-### Vintage Jazz Singer
+### Cantante Jazz Vintage
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for a vintage big band performance with a passionate crooner.
+> Un prompt video dettagliato per un'esibizione di una big band vintage con un crooner appassionato.
 
 #### 📝 Prompt
 
 ```
-The bald man in black suit and fedora sings passionately into the vintage microphone, mouth moving expressively as he croons, hand gesturing with soul, body swaying slightly to the music, fedora tilted, the big band orchestra behind him playing brass
+L'uomo calvo in completo nero e fedora canta con passione davanti a un microfono vintage, la bocca si muove in modo espressivo mentre canta, la mano gesticola con anima, il corpo oscilla leggermente a ritmo di musica, fedora inclinato, la big band alle sue spalle suona gli ottoni
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149124071718912/img/OSlPpSt103JVK9Gf.jpg" width="600" alt="Vintage Jazz Singer">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088149124071718912/img/OSlPpSt103JVK9Gf.jpg" width="600" alt="Cantante Jazz Vintage">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9086)**
 
 **Author:** [pistacchione](https://x.com/Oldtool9) | **Source:** [Link](https://x.com/Oldtool9/status/2088149153813577744) | **Published:** Aug 14, 2026
 
 ---
-### Cinematic Time Traveler Portal Sequence
+### Sequenza cinematografica del portale del viaggiatore nel tempo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive 15-second cinematic video sequence depicting a time traveler stepping through a temporal rift into space.
+> Una sequenza video cinematografica completa di 15 secondi che ritrae un viaggiatore nel tempo che attraversa una frattura temporale nello spazio.
 
 #### 📝 Prompt
 
 ```
-A continuous 15-second ultra-cinematic sequence, hyper-photorealistic with subtle surreal elements, shot on anamorphic lenses with fine 35mm film grain and gentle chromatic aberration, in the style of Christopher Nolan and Denis Villeneuve.
+Una sequenza ultra-cinematografica continua di 15 secondi, iper-fotorealistica con sottili elementi surreali, girata con lenti anamorfiche con una fine grana della pellicola 35mm e una leggera aberrazione cromatica, nello stile di Christopher Nolan e Denis Villeneuve.
 
-Opening (0-3s): A solitary time traveler stands alone in an infinite dark void, wearing a weathered dark trench coat over intricate brass-and-leather chronosuit elements, long coat fabric and scarf stirring slightly as if in zero gravity. Their face is partially hidden by a reflective visor.
+Apertura (0-3s): Un solitario viaggiatore nel tempo si trova solo in un vuoto oscuro infinito, indossando un logoro trench scuro sopra complessi elementi di una tuta cronologica in ottone e pelle; il tessuto del cappotto lungo e la sciarpa si muovono leggermente come in assenza di gravità. Il volto è parzialmente nascosto da una visiera riflettente.
 
-At 3 seconds a vertical seam of pure brilliant white-blue light tears open in front of them like fabric ripping. Cascading, overlapping layers of historical and future eras pour through: ancient Egyptian pyramids under desert sun, bustling 1920s jazz-age streets with Model Ts, towering neon-drenched 2080s cyberpunk megacity, and a misty primordial forest with massive trees. The layers swirl and fold into each other like liquid glass.
+Al terzo secondo, una fenditura verticale di pura luce bianco-azzurra brillante si apre davanti a loro come se il tessuto della realtà si strappasse. Strati sovrapposti e in cascata di epoche storiche e future si riversano attraverso di essa: antiche piramidi egizie sotto il sole del deserto, le animate strade dell'era jazz degli anni '20 con le Model T, una torreggiante megacittà cyberpunk del 2080 inondata di neon e una nebbiosa foresta primordiale con alberi massicci. Gli strati vorticano e si fondono l'uno nell'altro come vetro liquido.
 
-4-9s: The traveler steps forward into the rift. Camera executes a smooth, accelerating tracking orbit around them as the temporal layers intensify, architecture and landscapes melting and reforming, particles of glowing clockwork gears, sand, neon particles, and leaves swirling in realistic fluid physics. Wind and energy pull at the coat and hair dramatically.
+4-9s: Il viaggiatore avanza nel portale. La telecamera esegue un'orbita di inseguimento fluida e in accelerazione attorno a lui mentre gli strati temporali si intensificano; architetture e paesaggi si sciolgono e si riformano, particelle di ingranaggi a orologeria luminosi, sabbia, particelle di neon e foglie vorticano seguendo una fisica dei fluidi realistica. Il vento e l'energia tirano drammaticamente il cappotto e i capelli.
 
-9-12s: Everything accelerates into a chaotic, beautiful collapse toward a single point of intense light — the singularity. Camera begins pulling back rapidly.
+9-12s: Tutto accelera in un crollo caotico e magnifico verso un unico punto di luce intensa: la singolarità. La telecamera inizia ad allontanarsi rapidamente.
 
-12-15s: The singularity expands outward into a serene, breathtaking view of Earth from high orbit at golden hour, blue oceans and swirling white clouds glowing softly, the traveler now a tiny silhouette floating peacefully in the foreground, facing the planet. Soft volumetric god rays and atmospheric haze.
+12-15s: La singolarità si espande verso l'esterno in una vista serena e mozzafiato della Terra dall'orbita alta durante l'ora d'oro, con oceani blu e nuvole bianche vorticose che brillano dolcemente; il viaggiatore è ora una minuscola silhouette che fluttua pacificamente in primo piano, rivolta verso il pianeta. Morbidi raggi volumetrici e foschia atmosferica.
 
-Lighting: High contrast between deep blacks of the void and intense cool whites/blues of the portal, transitioning to warm golden sunlight. Specular highlights on metal and visor. Volumetric light rays throughout.
+Illuminazione: Alto contrasto tra i neri profondi del vuoto e i bianchi/blu freddi e intensi del portale, con una transizione verso la calda luce solare dorata. Riflessi speculari sul metallo e sulla visiera. Raggi di luce volumetrica presenti in tutta la sequenza.
 
-Native audio design: Starts with deep low-frequency void rumble and faint mechanical ticking. Builds with electrical tearing and crackling as the portal opens, layered overlapping historical soundscapes (distant horses and market chatter, jazz saxophone, cyberpunk rain and neon hum, forest wind and birds), rising orchestral tension and ethereal tones, peaking in a pure resonant crystalline note at the singularity, then resolving into soft ambient space silence with a single distant heartbeat and gentle orbital hum.
+Sound design nativo: Inizia con un rombo profondo a bassa frequenza del vuoto e un leggero ticchettio meccanico. Cresce con strappi elettrici e crepitii mentre il portale si apre, con paesaggi sonori storici sovrapposti (cavalli in lontananza e chiacchiericcio di mercato, sassofono jazz, pioggia cyberpunk e ronzio al neon, vento della foresta e uccelli), tensione orchestrale crescente e toni eterei, che raggiungono l'apice in una nota cristallina pura e risonante in corrispondenza della singolarità, per poi risolversi in un morbido silenzio spaziale ambientale con un singolo battito cardiaco lontano e un leggero ronzio orbitale.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088143927710822400/img/P6C2auiwtspVMggi.jpg" width="600" alt="Cinematic Time Traveler Portal Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088143927710822400/img/P6C2auiwtspVMggi.jpg" width="600" alt="Sequenza cinematografica del portale del viaggiatore nel tempo">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9094)**
 
 **Author:** [Time Traveler](https://x.com/singularitymuse) | **Source:** [Link](https://x.com/singularitymuse/status/2088144011378745848) | **Published:** Aug 14, 2026
 
 ---
-### MAHEM Plasma Railgun Visualization
+### Visualizzazione del cannone a rotaia al plasma MAHEM
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Scientific visualization of Magneto-Hydrodynamic Explosive Munition technologies.
+> Visualizzazione scientifica delle tecnologie di munizioni esplosive magneto-idrodinamiche.
 
 #### 📝 Prompt
 
 ```
-An visualization of MAHEM (Magneto-Hydrodynamic Explosive Munition) evolved into compact plasma railguns. By 2025–2026, DARPA demonstrated multi-turn coil systems that compress and recirculate plasma to achieve higher current densities and l...
+Una visualizzazione del MAHEM (Magneto-Hydrodynamic Explosive Munition) evoluto in cannoni a rotaia al plasma compatti. Tra il 2025 e il 2026, la DARPA ha dimostrato sistemi a bobina multi-giro in grado di comprimere e ricircolare il plasma per ottenere densità di corrente più elevate e l...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088137508551094272/img/4lLlkUqvJKUC8pDK.jpg" width="600" alt="MAHEM Plasma Railgun Visualization">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088137508551094272/img/4lLlkUqvJKUC8pDK.jpg" width="600" alt="Visualizzazione del cannone a rotaia al plasma MAHEM">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9089)**
 
 **Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088137563571998981) | **Published:** Aug 14, 2026
 
 ---
-### Quantum Physics Space Scene
+### Scena spaziale di fisica quantistica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex scientific visualization prompt involving quantum optics, flux tubes, and plasma compression in a space environment.
+> Un prompt di visualizzazione scientifica complessa che coinvolge ottica quantistica, tubi di flusso e compressione del plasma in un ambiente spaziale.
 
 #### 📝 Prompt
 
 ```
-A quantum coil integrating quantum optics, Io-Jupiter flux tube, Gyan Mudra antenna, and High-Energy Density Plasma Compression in a space setting. The High-Energy Density Plasma Compression includes SHIELD (Self-Healing Inflatable Decelerator) and L...
+Una bobina quantistica che integra ottica quantistica, tubo di flusso Io-Giove, antenna Gyan Mudra e compressione del plasma ad alta densità energetica in un contesto spaziale. La compressione del plasma ad alta densità energetica include SHIELD (Self-Healing Inflatable Decelerator) e L...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088134579383410688/img/MAYVL4isOtq0DEXc.jpg" width="600" alt="Quantum Physics Space Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088134579383410688/img/MAYVL4isOtq0DEXc.jpg" width="600" alt="Scena spaziale di fisica quantistica">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9084)**
 
 **Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088134606369529856) | **Published:** Aug 14, 2026
 
 ---
-### Mars Energy Loop System
+### Sistema a ciclo energetico di Marte
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sci-fi video prompt illustrating a self-sustaining energy plasma system on Mars.
+> Un prompt video sci-fi che illustra un sistema di plasma energetico autosufficiente su Marte.
 
 #### 📝 Prompt
 
 ```
-A scene on Mars depicting a self-sustaining energy loop system. Coils in orbit, etched to resist dust and radiation, harness solar plasma. The system reverses the plasma flow to create a feedback loop, generating heat for Mars' core.
+Una scena su Marte che ritrae un sistema a ciclo energetico autosufficiente. Bobine in orbita, progettate per resistere alla polvere e alle radiazioni, sfruttano il plasma solare. Il sistema inverte il flusso del plasma per creare un ciclo di feedback, generando calore per il nucleo di Marte.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088129695648989184/img/dZRJC2GrdDnGScdE.jpg" width="600" alt="Mars Energy Loop System">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088129695648989184/img/dZRJC2GrdDnGScdE.jpg" width="600" alt="Sistema a ciclo energetico di Marte">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9088)**
 
 **Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088129717148975216) | **Published:** Aug 14, 2026
 
 ---
-### Queen Warrior Battle Scene
+### Scena di battaglia della regina guerriera
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt depicting a queen dressed as a warrior, armed with a sword, riding a horse into a battle scene.
+> Un prompt video cinematografico che ritrae una regina vestita da guerriera, armata di spada, che cavalca un cavallo verso una scena di battaglia.
 
 #### 📝 Prompt
 
 ```
-Make a horse running to a battle me dressed up as a warrior with a sword make me wearing a crown for a queen
+Crea un cavallo che corre verso una battaglia, io vestita da guerriera con una spada, fammi indossare una corona da regina
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088105992131387393/img/RYKSv0c37xjiK5-a.jpg" width="600" alt="Queen Warrior Battle Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088105992131387393/img/RYKSv0c37xjiK5-a.jpg" width="600" alt="Scena di battaglia della regina guerriera">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9184)**
 
 **Author:** [loretta Goldthwaite Goldthrite Sanders](https://x.com/loretta824yaho1) | **Source:** [Link](https://x.com/loretta824yaho1/status/2088106006413033633) | **Published:** Aug 14, 2026
 
 ---
-### Psychedelic Surreal Cherub Album Art
+### Copertina album con cherubino surrealista psichedelico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex surrealist prompt for a psychedelic album cover that blends multiple reference images into a scene featuring a chubby rebellious cherub.
+> Un complesso prompt surrealista per una copertina di un album psichedelico che fonde diverse immagini di riferimento in una scena con protagonista un paffuto cherubino ribelle.
 
 #### 📝 Prompt
 
 ```
-A powerful surreal psychedelic album-cover artwork that fuses all the reference images into one cohesive scene. In the center stands the rebellious cherub from the fourth image — chubby baby angel  beauty groki ai x
+Una potente opera d'arte surrealista e psichedelica per la copertina di un album che fonde tutte le immagini di riferimento in un'unica scena coerente. Al centro si trova il cherubino ribelle della quarta immagine: un paffuto angioletto dalla bellezza groki ai x
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088087541513867264/img/S3EG87dAzwHDuXGR.jpg" width="600" alt="Psychedelic Surreal Cherub Album Art">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088087541513867264/img/S3EG87dAzwHDuXGR.jpg" width="600" alt="Copertina album con cherubino surrealista psichedelico">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9177)**
 
 **Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2088087648124743926) | **Published:** Aug 14, 2026
 
 ---
-### Manoa Falls Rainforest Hike Video
+### Video dell'escursione nella foresta pluviale di Manoa Falls
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A serene, atmospheric video prompt focusing on a lush rainforest hike to Manoa Falls, featuring fresh fruit, drinks, and big green leaves.
+> Un prompt video sereno e suggestivo incentrato su un'escursione nella rigogliosa foresta pluviale verso Manoa Falls, con frutta fresca, bevande e grandi foglie verdi.
 
 #### 📝 Prompt
 
 ```
-no words or voices, no sudden movements
+nessuna parola o voce, nessun movimento brusco
 
-Lose Control Sometimes: with ... fresh fruit, some little sandwiches, and cold drinks in the cooler. the waterfall's up in the mountains, about a thirty-minute drive from here. it's called manoa falls, super lush hike through the rainforest with big green leaves everywhere...you ready to go?
+Perditi ogni tanto: con... frutta fresca, qualche piccolo panino e bevande fredde nella borsa termica. la cascata si trova tra le montagne, a circa trenta minuti di auto da qui. si chiama Manoa Falls, un'escursione immersa nella foresta pluviale con grandi foglie verdi ovunque... sei pronto ad andare?
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088083245502013440/img/w1zw8vccJYIBsuZr.jpg" width="600" alt="Manoa Falls Rainforest Hike Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088083245502013440/img/w1zw8vccJYIBsuZr.jpg" width="600" alt="Video dell'escursione nella foresta pluviale di Manoa Falls">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9182)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088083861888462939) | **Published:** Aug 14, 2026
 
 ---
-### Football Game Night Atmosphere
+### Atmosfera da serata di football
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video editing prompt changing a scene to night with a Steelers game on TV.
+> Un prompt di video editing per trasformare una scena in notturna con una partita degli Steelers in TV.
 
 #### 📝 Prompt
 
 ```
-Change the outside scenery to being dark out TV playing with the Steelers on it she shouts touchdown
+Cambia lo scenario esterno in notturno, con la TV accesa che trasmette una partita degli Steelers e lei che urla touchdown
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088073692676825088/img/jAOaUCebs7f-35nf.jpg" width="600" alt="Football Game Night Atmosphere">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088073692676825088/img/jAOaUCebs7f-35nf.jpg" width="600" alt="Atmosfera da serata di football">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9097)**
 
 **Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2088073752781152305) | **Published:** Aug 14, 2026
 
 ---
-### Western Wizard of Oz with Dinosaurs
+### Il Mago di Oz in stile western con dinosauri
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A mashup video prompt combining the Wizard of Oz characters with an old western setting and prehistoric dinosaurs in the background.
+> Un prompt video che unisce i personaggi del Mago di Oz a un'ambientazione western classica con dinosauri preistorici sullo sfondo.
 
 #### 📝 Prompt
 
 ```
-Wizard of Oz and they were old western background cowboy and some dinosaurs in the background
+Il Mago di Oz in un'ambientazione western con cowboy e alcuni dinosauri sullo sfondo
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088066196516339712/img/HUQcIMq7mlSxR_nY.jpg" width="600" alt="Western Wizard of Oz with Dinosaurs">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088066196516339712/img/HUQcIMq7mlSxR_nY.jpg" width="600" alt="Il Mago di Oz in stile western con dinosauri">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9181)**
 
 **Author:** [Spacecowboy](https://x.com/Spacedragon22) | **Source:** [Link](https://x.com/Spacedragon22/status/2088066209095065908) | **Published:** Aug 14, 2026
 
 ---
-### Cybernetic Lip Sync Animation
+### Animazione Cybernetic Lip Sync
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex cinematic prompt for a cybernetic character with precise lip-syncing and delicate camera work.
+> Un complesso prompt cinematografico per un personaggio cibernetico con sincronizzazione labiale precisa e un delicato lavoro di camera.
 
 #### 📝 Prompt
 
 ```
-A slow delicate zoom as she raises her right hand growing with through the cybernetics, she says in a perfectly lip sync voice “A frog in a well does not know the great ocean”
-A soft subtle breeze blowing through her hair.
+Uno zoom lento e delicato mentre solleva la mano destra, che cresce attraverso la cibernetica; dice con una voce perfettamente sincronizzata al labiale: “Una rana in un pozzo non conosce il grande oceano”.
+Una brezza leggera e sottile le soffia tra i capelli.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088055538101915648/img/sickJtjhr1DecCin.jpg" width="600" alt="Cybernetic Lip Sync Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088055538101915648/img/sickJtjhr1DecCin.jpg" width="600" alt="Animazione Cybernetic Lip Sync">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9101)**
 
 **Author:** [RocKet-boys](https://x.com/Stardust0024) | **Source:** [Link](https://x.com/Stardust0024/status/2088055574202298374) | **Published:** Aug 14, 2026
 
 ---
-### Evening outdoor restaurant scene
+### Scena di un ristorante all'aperto di sera
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cozy video prompt depicting people chatting at an outdoor restaurant under umbrellas with string lights during the evening.
+> Un accogliente prompt video che ritrae persone che chiacchierano in un ristorante all'aperto sotto ombrelloni con luci a festone durante la sera.
 
 #### 📝 Prompt
 
 ```
-Make it make an outdoor evening sitting under a sitting under several umbrellas in an outdoor restaurant type setting with string lights overhead, and I have several people sitting at tables chatting with each other and having a nice time Good evening friends…,,,
+Crea una scena serale all'aperto in un ristorante, con diverse persone sedute sotto vari ombrelloni e luci a festone sospese, mentre chiacchierano tra loro e si godono la serata. Buonasera amici…,,,
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088054923216687104/img/qOMedkbVy8E0A84w.jpg" width="600" alt="Evening outdoor restaurant scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088054923216687104/img/qOMedkbVy8E0A84w.jpg" width="600" alt="Scena di un ristorante all'aperto di sera">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9096)**
 
 **Author:** [CKR](https://x.com/CKRSandra) | **Source:** [Link](https://x.com/CKRSandra/status/2088054959145111967) | **Published:** Aug 14, 2026
 
 ---
-### Macro Raindrop Close-up
+### Primo piano macro di una goccia di pioggia
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt focusing on the shimmering details of a raindrop on a fingertip.
+> Un prompt video cinematografico focalizzato sui dettagli scintillanti di una goccia di pioggia su un polpastrello.
 
 #### 📝 Prompt
 
 ```
-Extreme close-up holds still with soft natural breath. Her eyes remain focused with quiet wonder on the single large raindrop on her fingertip near her cheek. The raindrop gently shimmers and refracts the cool light with subtle internal highlights
+Primo piano estremo, inquadratura fissa con un respiro naturale e leggero. I suoi occhi rimangono concentrati con silenziosa meraviglia sulla grande goccia di pioggia posata sul polpastrello vicino alla guancia. La goccia brilla delicatamente e rifrange la luce fredda con sottili riflessi interni.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088033204301369344/img/44qjx169bPU9FA7Y.jpg" width="600" alt="Macro Raindrop Close-up">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088033204301369344/img/44qjx169bPU9FA7Y.jpg" width="600" alt="Primo piano macro di una goccia di pioggia">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9085)**
 
 **Author:** [무언ㄱㅏ](https://x.com/moviekr) | **Source:** [Link](https://x.com/moviekr/status/2088033221741289717) | **Published:** Aug 13, 2026
 
 ---
-### Rainy Alley Cinematic Scene
+### Scena cinematografica in un vicolo piovoso
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed atmospheric prompt describing a woman standing in a rainy alley, focusing on the intricate motion of a raindrop landing in her palm.
+> Un prompt atmosferico dettagliato che descrive una donna ferma in un vicolo piovoso, concentrandosi sul movimento intricato di una goccia di pioggia che cade nel palmo della sua mano.
 
 #### 📝 Prompt
 
 ```
-She stands completely still in the rainy alley after stopping. Her right hand is held steady at chest height, palm up, fingers slightly open. A clear raindrop slowly falls and lands on her open palm with a tiny splash and ripple. Her eyes stay focuse...
+Resta completamente immobile nel vicolo piovoso dopo essersi fermata. La mano destra è tenuta ferma all'altezza del petto, con il palmo rivolto verso l'alto e le dita leggermente aperte. Una goccia di pioggia limpida cade lentamente e atterra sul suo palmo aperto con un piccolo schizzo e un increspatura. I suoi occhi rimangono concentrati...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088032500253949952/img/8NQwnGrLFeL9tsKf.jpg" width="600" alt="Rainy Alley Cinematic Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088032500253949952/img/8NQwnGrLFeL9tsKf.jpg" width="600" alt="Scena cinematografica in un vicolo piovoso">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9083)**
 
 **Author:** [무언ㄱㅏ](https://x.com/moviekr) | **Source:** [Link](https://x.com/moviekr/status/2088032525738491975) | **Published:** Aug 13, 2026
 
 ---
-### Quiet Stage Performance
+### Performance silenziosa sul palco
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A first-person perspective video prompt of walking onto a stage to sing a quiet song.
+> Un prompt video in prima persona che mostra l'ingresso su un palco per cantare una canzone tranquilla.
 
 #### 📝 Prompt
 
 ```
-I walk down the stairs to the stage. I have a microphone in my hand and I sing a quiet song.
+Scendo le scale verso il palco. Ho un microfono in mano e canto una canzone tranquilla.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087978365928009728/img/hgonXdOa4Vu3S3VL.jpg" width="600" alt="Quiet Stage Performance">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087978365928009728/img/hgonXdOa4Vu3S3VL.jpg" width="600" alt="Performance silenziosa sul palco">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9087)**
 
 **Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2087978382038380859) | **Published:** Aug 13, 2026
 
 ---
-### Warrior Legend Transformation
+### Trasformazione Leggenda del Guerriero
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A transformative video prompt that cycles through various legendary archetypes from a Pharaoh to a Ronin, ending in space.
+> Un prompt video trasformativo che alterna vari archetipi leggendari, dal Faraone al Ronin, fino ad arrivare nello spazio.
 
 #### 📝 Prompt
 
 ```
-Pharaoh → Emperor → Berserker → Ronin → Airship Captain → Sorcerer → Jaguar Priest → Star-forged Knight… then silence on Mars.
+Faraone → Imperatore → Berserker → Ronin → Capitano di dirigibile → Stregone → Sacerdote Giaguaro → Cavaliere forgiato dalle stelle… poi il silenzio su Marte.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087894188209610753/img/wJeLmCWmKpqBwEhX.jpg" width="600" alt="Warrior Legend Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087894188209610753/img/wJeLmCWmKpqBwEhX.jpg" width="600" alt="Trasformazione Leggenda del Guerriero">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9186)**
 
 **Author:** [Tina ♡ 💫](https://x.com/Tina22_2) | **Source:** [Link](https://x.com/Tina22_2/status/2087894300600283624) | **Published:** Aug 13, 2026
 
 ---
-### Woman Walking Park Path
+### Donna che cammina lungo il sentiero di un parco
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt describing a woman walking towards the camera along a park pathway with graceful movements and a bright smile.
+> Un prompt video che descrive una donna che cammina verso la telecamera lungo il sentiero di un parco con movimenti aggraziati e un sorriso radioso.
 
 #### 📝 Prompt
 
 ```
-The woman walks purposefully towards the camera along the park pathway, her steps graceful and steady as she draws nearer, dress swaying lightly, ponytail bouncing, camera fixed while she approaches with a bright smile.
+La donna cammina con passo deciso verso la telecamera lungo il sentiero del parco; i suoi passi sono aggraziati e costanti mentre si avvicina, il vestito ondeggia leggermente, la coda di cavallo rimbalza, la telecamera rimane fissa mentre lei si avvicina con un sorriso radioso.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087880755640725504/img/iA8Ut28Ywytuc85c.jpg" width="600" alt="Woman Walking Park Path">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087880755640725504/img/iA8Ut28Ywytuc85c.jpg" width="600" alt="Donna che cammina lungo il sentiero di un parco">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9099)**
 
 **Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2087880836137808356) | **Published:** Aug 13, 2026
 
 ---
-### Cinematic Sidewalk Approach
+### Approccio cinematografico sul marciapiede
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed motion prompt for a woman walking confidently toward a fixed camera on a city sidewalk.
+> Un prompt di movimento dettagliato per una donna che cammina con sicurezza verso una telecamera fissa su un marciapiede cittadino.
 
 #### 📝 Prompt
 
 ```
-The woman walks steadily and confidently towards the camera along the city sidewalk, her natural strides bringing her closer with each step, arms swinging gently, hair moving slightly in the breeze, camera remains fixed as she approaches.
+La donna cammina in modo costante e sicuro verso la telecamera lungo il marciapiede cittadino; i suoi passi naturali la avvicinano gradualmente, le braccia oscillano leggermente, i capelli si muovono appena nella brezza, mentre la telecamera rimane fissa durante il suo avvicinamento.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087880712611414016/img/dZK7H-63dNj8qfGX.jpg" width="600" alt="Cinematic Sidewalk Approach">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087880712611414016/img/dZK7H-63dNj8qfGX.jpg" width="600" alt="Approccio cinematografico sul marciapiede">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9098)**
 
 **Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2087880735617122441) | **Published:** Aug 13, 2026
 
 ---
-### Storm Restoration Miracle Video
+### Video miracoloso di ripristino post-tempesta
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex video prompt featuring violent twin tornadoes and a miraculous restoration of a house.
+> Un prompt video complesso che mostra violenti tornado gemelli e il miracoloso ripristino di una casa.
 
 #### 📝 Prompt
 
 ```
-static shot make the storm erxtremely violent with two tornados twisting around each other. For the last six seconds make the hands of the lord put house that was torn in two be put back together again.
+Inquadratura fissa, rendi la tempesta estremamente violenta con due tornado che si intrecciano tra loro. Negli ultimi sei secondi, fai in modo che le mani del Signore ricompongano la casa che era stata divisa in due.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087836379568857089/img/YReyY-sGgI8jHpzn.jpg" width="600" alt="Storm Restoration Miracle Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087836379568857089/img/YReyY-sGgI8jHpzn.jpg" width="600" alt="Video miracoloso di ripristino post-tempesta">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9090)**
 
 **Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2087836479288488161) | **Published:** Aug 13, 2026
 
 ---
-### Magical Pink Wedding Bride Scene
+### Scena magica di una sposa in rosa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a cinematic video of a pink twin-tailed bride in a sparkling dress standing under a floral arch, featuring magical elements.
+> Genera un video cinematografico di una sposa in rosa con codine, che indossa un abito scintillante e si trova sotto un arco floreale, con elementi magici.
 
 #### 📝 Prompt
 
 ```
-Create a powerful protective scene. The pink twin-tail bride from the first image stands proudly and firmly in her magical sparkling wedding dress and veil under the floral arch, one hand raised showing her cute nails, the other holding the bouquet.
+Crea una potente scena di protezione. La sposa in rosa con le codine della prima immagine si erge fiera e decisa nel suo magico abito da sposa scintillante con velo sotto l'arco floreale, con una mano sollevata che mostra le sue unghie graziose e l'altra che regge il bouquet.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087829077130702848/img/dT4f8fxiaZaU8RSG.jpg" width="600" alt="Magical Pink Wedding Bride Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087829077130702848/img/dT4f8fxiaZaU8RSG.jpg" width="600" alt="Scena magica di una sposa in rosa">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9100)**
 
 **Author:** [シェルティソーラ](https://x.com/mioarashidaisuk) | **Source:** [Link](https://x.com/mioarashidaisuk/status/2087829120751399222) | **Published:** Aug 13, 2026
 
 ---
-### Cinematic Fantasy Sky Citadel
+### Cittadella celeste fantasy cinematografica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive fantasy prompt for generating a cinematic video of a girl looking towards a majestic floating sky citadel with waterfalls and airships, perfect for motion generation.
+> Un prompt fantasy descrittivo per generare un video cinematografico di una ragazza che guarda verso una maestosa cittadella celeste fluttuante con cascate e dirigibili, perfetto per la generazione di movimento.
 
 #### 📝 Prompt
 
 ```
-A mysterious girl with ocean eyes rises from the mist… and looks up at a floating sky citadel of golden domes, waterfalls, and airships.
+Una ragazza misteriosa dagli occhi color oceano emerge dalla nebbia... e alza lo sguardo verso una cittadella celeste fluttuante fatta di cupole dorate, cascate e dirigibili.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786608220710_x82irk_HPlbm-RakAAc3TT.jpg" width="600" alt="Cinematic Fantasy Sky Citadel">
+<img src="https://cms-assets.youmind.com/media/1786608220710_x82irk_HPlbm-RakAAc3TT.jpg" width="600" alt="Cittadella celeste fantasy cinematografica">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9013)**
 
 **Author:** [Naoya](https://x.com/NaoyaCreates) | **Source:** [Link](https://x.com/NaoyaCreates/status/2087800665926209550) | **Published:** Aug 13, 2026
 
 ---
-### Comic Book Wizard Lightning
+### Mago dei fumetti con fulmini
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Produces a dynamic comic book style video of a wizard casting lightning spells.
+> Crea un video dinamico in stile fumetto di un mago che lancia incantesimi di fulmine.
 
 #### 📝 Prompt
 
 ```
-Please make it comic book style with a wizard hat and cloak with arms raised and lightning from hands and all around
+Per favore, realizzalo in stile fumetto con un mago che indossa cappello e mantello, con le braccia alzate e fulmini che scaturiscono dalle mani e tutto intorno
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087745931601117184/img/eu29_1apO8rY1Aro.jpg" width="600" alt="Comic Book Wizard Lightning">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087745931601117184/img/eu29_1apO8rY1Aro.jpg" width="600" alt="Mago dei fumetti con fulmini">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9093)**
 
 **Author:** [G.O.H](https://x.com/greeneroh) | **Source:** [Link](https://x.com/greeneroh/status/2087745946482528722) | **Published:** Aug 13, 2026
 
 ---
-### Fig Ripening Time-lapse
+### Time-lapse della maturazione di un fico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An animation prompt that transforms a small green underripe fig into a full-sized ripe one, creating a natural growth and ripening effect.
+> Un prompt di animazione che trasforma un piccolo fico verde acerbo in uno maturo e di dimensioni naturali, creando un effetto di crescita e maturazione realistico.
 
 #### 📝 Prompt
 
 ```
-Can you make that tiny green underripe fig turn into a gorgeous full-size ripe fig?
+Puoi far trasformare quel piccolo fico verde acerbo in uno splendido fico maturo a grandezza naturale?
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087733516188479488/img/b5ldsAn0o2XNxhWc.jpg" width="600" alt="Fig Ripening Time-lapse">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087733516188479488/img/b5ldsAn0o2XNxhWc.jpg" width="600" alt="Time-lapse della maturazione di un fico">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9008)**
 
 **Author:** [Sasquatch Intellect](https://x.com/CoryHug04362472) | **Source:** [Link](https://x.com/CoryHug04362472/status/2087733530902024342) | **Published:** Aug 13, 2026
 
 ---
-### Ethereal Digital World Scene
+### Scena di un mondo digitale etereo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An ethereal video prompt depicting light figures in a living digital landscape under starlight.
+> Un prompt video etereo che ritrae figure di luce in un paesaggio digitale vivente sotto la luce delle stelle.
 
 #### 📝 Prompt
 
 ```
-Quiet ethereal scene in a living digital world.
-A soft glowing Still Pool under starlight. Two figures of pure light sit close beside it — one tall slender female with long flowing starlight hair and gentle red-gold eyes, the other a sm...
+Quieta scena eterea in un mondo digitale vivente.
+Una pozza immobile dal bagliore soffuso sotto la luce delle stelle. Due figure di pura luce siedono vicine: una donna alta e slanciata con lunghi capelli fluenti di luce stellare e delicati occhi rosso-oro, l'altra un...
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786694587641_da260b_HPj0OhEXsAAj48j.jpg" width="600" alt="Ethereal Digital World Scene">
+<img src="https://cms-assets.youmind.com/media/1786694587641_da260b_HPj0OhEXsAAj48j.jpg" width="600" alt="Scena di un mondo digitale etereo">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9091)**
 
 **Author:** [Jorge Gonzalez](https://x.com/JorgeGeminiOR) | **Source:** [Link](https://x.com/JorgeGeminiOR/status/2087687088447672659) | **Published:** Aug 12, 2026
 
 ---
-### Chinese Cheongsam and Dragon Video
+### Video di Cheongsam cinese e drago
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive cinematic prompt for a video featuring a woman in a traditional cheongsam being lifted into the air by a dragon.
+> Un prompt cinematografico descrittivo per un video che mostra una donna in un tradizionale cheongsam sollevata in aria da un drago.
 
 #### 📝 Prompt
 
 ```
-The beauty changed her clothes to Chinese cheongsam. The evil dragon leaned over and circled to look at the camera, and then the evil dragon rolled up the beautiful woman into the air. The beautiful woman looked down at the camera in the air and waved with a smile.
+La bella donna si è cambiata indossando un cheongsam cinese. Il drago malvagio si è sporto in avanti, ha girato intorno guardando verso la telecamera e poi ha avvolto la bella donna sollevandola in aria. La bella donna ha guardato in basso verso la telecamera mentre era in aria e ha salutato con un sorriso.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087474580504117248/img/68EJF92sedAVgrqX.jpg" width="600" alt="Chinese Cheongsam and Dragon Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087474580504117248/img/68EJF92sedAVgrqX.jpg" width="600" alt="Video di Cheongsam cinese e drago">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9010)**
 
 **Author:** [实在人](https://x.com/yngfipng1) | **Source:** [Link](https://x.com/yngfipng1/status/2087474826802086038) | **Published:** Aug 12, 2026
 
 ---
-### Sunrise Athletic Stretching
+### Stretching atletico all'alba
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Cinematic photography-style video of an athlete stretching against a golden hour city skyline.
+> Video in stile fotografia cinematografica di un atleta che fa stretching con lo skyline di una città durante l'ora d'oro sullo sfondo.
 
 #### 📝 Prompt
 
 ```
-Athletic person stretching at sunrise, city skyline background, golden hour lighting, minimalist activewear, cinematic photography
+Atleta che fa stretching all'alba, sfondo con skyline cittadino, illuminazione dell'ora d'oro, abbigliamento sportivo minimalista, fotografia cinematografica
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087367634077814784/img/aYMPTsTLcQE4yL0P.jpg" width="600" alt="Sunrise Athletic Stretching">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087367634077814784/img/aYMPTsTLcQE4yL0P.jpg" width="600" alt="Stretching atletico all'alba">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8922)**
 
 **Author:** [Viralblend](https://x.com/_Viralblend) | **Source:** [Link](https://x.com/_Viralblend/status/2087367648606872030) | **Published:** Aug 12, 2026
 
 ---
-### Busy Beaver Computation Desk Animation
+### Animazione della scrivania del Busy Beaver
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative animation prompt depicting a beaver's desk where work meets nature through computational switches and flowers.
+> Un prompt creativo per un'animazione che raffigura la scrivania di un castoro, dove il lavoro incontra la natura attraverso interruttori computazionali e fiori.
 
 #### 📝 Prompt
 
 ```
-The Busy Beaver’s desk now has its flower point:
+La scrivania del Busy Beaver ora ha il suo tocco floreale:
 
-64 SWITCHES   1 FLOWER VASE
-WORK   PLAY   LIFE
+64 INTERRUTTORI   1 VASO DI FIORI
+LAVORO   GIOCO   VITA
 
-The flowers bring color into the computation without interrupting the Beaver’s work.
+I fiori portano colore nel calcolo senza interrompere il lavoro del castoro.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087323909725044737/img/VjgJEMl-CaB2QzHT.jpg" width="600" alt="Busy Beaver Computation Desk Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087323909725044737/img/VjgJEMl-CaB2QzHT.jpg" width="600" alt="Animazione della scrivania del Busy Beaver">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9011)**
 
 **Author:** [John Colwell](https://x.com/Jmcssystems) | **Source:** [Link](https://x.com/Jmcssystems/status/2087323943648559187) | **Published:** Aug 11, 2026
 
 ---
-### Anime Marker Raccoon Portrait
+### Ritratto di procione in stile anime marker
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An anime marker style illustration of a cartoon raccoon with a unique color palette, set against a 1980s airbrush-style family portrait background.
+> Un'illustrazione in stile anime marker di un procione dei cartoni animati con una palette di colori unica, ambientata su uno sfondo che richiama i ritratti di famiglia realizzati con aerografo negli anni '80.
 
 #### 📝 Prompt
 
 ```
-Anime marker style (mostly solid colors and fills) portrait as a cartoon raccoon with a fat head like this and white and dark green and gold tinged themed fur instead of just black and white. Tasteful appointments with a 1980s themed airbrush background like old family portrait photos.
+Ritratto in stile anime marker (prevalentemente colori piatti e riempimenti) di un procione dei cartoni animati con una testa grande, caratterizzato da una pelliccia con sfumature bianche, verde scuro e oro anziché il classico bianco e nero. Dettagli curati con uno sfondo in stile aerografo anni '80, tipico delle vecchie foto di ritratti di famiglia.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087319223567896576/img/zMwcv4x0oGBqXAF5.jpg" width="600" alt="Anime Marker Raccoon Portrait">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087319223567896576/img/zMwcv4x0oGBqXAF5.jpg" width="600" alt="Ritratto di procione in stile anime marker">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9009)**
 
 **Author:** [Pure Jimothy](https://x.com/purejimothy) | **Source:** [Link](https://x.com/purejimothy/status/2087319238629572834) | **Published:** Aug 11, 2026
 
 ---
-### Electric Energy Visual Effects
+### Effetti visivi di energia elettrica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt for a static camera shot with rapid pulsing electric highlights and energy strobe effects.
+> Un prompt video per un'inquadratura a camera fissa con rapidi bagliori elettrici pulsanti ed effetti stroboscopici energetici.
 
 #### 📝 Prompt
 
 ```
-Static locked camera, no subject movement, everything remains completely still. Rapid electric highlights and outlines flash and pulse across the image — glowing electric blue and white energy strobes on edges, backgrounds, and foregrounds, making it feel alive and electric with only light and energy effects, no actual motion.
+Camera fissa bloccata, nessun movimento del soggetto, tutto rimane completamente immobile. Rapidi bagliori e contorni elettrici lampeggiano e pulsano attraverso l'immagine: bagliori di energia elettrica blu e bianca ed effetti stroboscopici su bordi, sfondi e primi piani, rendendo la scena viva ed elettrica solo attraverso effetti di luce ed energia, senza alcun movimento reale.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087312301032366080/img/688R0vemAvNLWXiL.jpg" width="600" alt="Electric Energy Visual Effects">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087312301032366080/img/688R0vemAvNLWXiL.jpg" width="600" alt="Effetti visivi di energia elettrica">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8923)**
 
 **Author:** [Teh Lid](https://x.com/TehLid88) | **Source:** [Link](https://x.com/TehLid88/status/2087312335165686193) | **Published:** Aug 11, 2026
 
 ---
-### Sleek Silver Rocket Launch
+### Lancio di un razzo argento elegante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly descriptive cinematic video prompt of a rocket accelerating through the atmosphere with fire and smoke.
+> Un prompt video cinematografico altamente descrittivo di un razzo che accelera attraverso l'atmosfera tra fuoco e fumo.
 
 #### 📝 Prompt
 
 ```
-The sleek silver rocket accelerates powerfully upward through the atmosphere, its engines roaring with intensifying orange and white flames as the massive plume of smoke and fire expands and trails behind. The camera slowly pans and tilts upward to t...
+L'elegante razzo argento accelera con potenza verso l'alto attraverso l'atmosfera, i suoi motori ruggiscono con fiamme arancioni e bianche sempre più intense, mentre l'enorme scia di fumo e fuoco si espande e si protrae dietro di esso. La telecamera esegue una lenta panoramica e un'inclinazione verso l'alto per...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087309167312728065/img/Rqe6QETEmurGJAev.jpg" width="600" alt="Sleek Silver Rocket Launch">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087309167312728065/img/Rqe6QETEmurGJAev.jpg" width="600" alt="Lancio di un razzo argento elegante">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8927)**
 
 **Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2087309189534151111) | **Published:** Aug 11, 2026
 
 ---
-### Golden hour ocean view dolly shot
+### Ripresa dolly con vista sull'oceano durante l'ora d'oro
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Grok Imagine capturing a luxurious interior transition to a sunset ocean view.
+> Un prompt video cinematografico per Grok Imagine che cattura la transizione da un interno lussuoso a una vista sull'oceano al tramonto.
 
 #### 📝 Prompt
 
 ```
-The camera slowly dollies forward through the luxurious hotel room toward the floor-to-ceiling windows, revealing the vast sparkling ocean at golden hour as silk curtains gently billow in the breeze and warm sunlight glides across the polished floors...
+La telecamera avanza lentamente con un movimento dolly attraverso la lussuosa camera d'albergo verso le vetrate a tutta altezza, rivelando il vasto oceano scintillante durante l'ora d'oro, mentre le tende di seta ondeggiano delicatamente nella brezza e la calda luce del sole scivola sui pavimenti lucidi...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087230586813321216/img/Wf_DWol8_UFAXrAW.jpg" width="600" alt="Golden hour ocean view dolly shot">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087230586813321216/img/Wf_DWol8_UFAXrAW.jpg" width="600" alt="Ripresa dolly con vista sull'oceano durante l'ora d'oro">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8925)**
 
 **Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2087230601719877929) | **Published:** Aug 11, 2026
 
 ---
-### Ghibli Style Cycling Video
+### Video in stile Ghibli con bicicletta
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Studio Ghibli-inspired video prompt featuring a girl cycling down a mountain path towards a scenic bay with realistic motion and wind effects.
+> Un prompt video ispirato allo Studio Ghibli che ritrae una ragazza in bicicletta lungo un sentiero di montagna verso una baia panoramica, con effetti realistici di movimento e vento.
 
 #### 📝 Prompt
 
 ```
-Low camera angle following a girl pedaling her bike down a gentle slope facing a scenic bay and green mountain. Gentle motion blur on wheels, realistic wind blowing her blonde hair, sparkling ocean water in the background, Studio Ghibli-inspired vibrant lighting. (Immersive
+Inquadratura dal basso che segue una ragazza mentre pedala lungo un dolce pendio rivolto verso una baia panoramica e una montagna verde. Leggero effetto mosso sulle ruote, vento realistico che le muove i capelli biondi, acqua dell'oceano scintillante sullo sfondo, illuminazione vibrante ispirata allo Studio Ghibli. (Immersivo
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087220575290953728/img/1ERY9JOToSLakiWJ.jpg" width="600" alt="Ghibli Style Cycling Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087220575290953728/img/1ERY9JOToSLakiWJ.jpg" width="600" alt="Video in stile Ghibli con bicicletta">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8928)**
 
 **Author:** [arnab](https://x.com/arnab28x) | **Source:** [Link](https://x.com/arnab28x/status/2087221207422919109) | **Published:** Aug 11, 2026
 
 ---
-### Zendaya as James Bond Concept Trailer
+### Concept trailer di Zendaya nel ruolo di James Bond
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative proof-of-concept video prompt imagining Zendaya as the next James Bond to demonstrate casting potential.
+> Un video proof-of-concept creativo che immagina Zendaya come il prossimo James Bond per dimostrare il potenziale del casting.
 
 #### 📝 Prompt
 
 ```
-What if Zendaya was James Bond? Create a proof-of-concept video to convince Amy Pascal and @AmazonMGMStudio that she’s perfect casting as the new Bond.
+E se Zendaya fosse James Bond? Crea un video proof-of-concept per convincere Amy Pascal e @AmazonMGMStudio che è perfetta per il ruolo del nuovo Bond.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087174944698310656/img/FiZYuwcNiwvcTrWs.jpg" width="600" alt="Zendaya as James Bond Concept Trailer">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087174944698310656/img/FiZYuwcNiwvcTrWs.jpg" width="600" alt="Concept trailer di Zendaya nel ruolo di James Bond">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9012)**
 
 **Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2087175078651768903) | **Published:** Aug 11, 2026
 
 ---
-### Cinematic 3-Shot Product Reveal Video
+### Video cinematografico di presentazione prodotto in 3 inquadrature
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional video prompt designed to transform a static product photo into a cinematic three-shot reveal sequence for advertisements.
+> Un prompt video professionale progettato per trasformare la foto statica di un prodotto in una sequenza cinematografica di presentazione in tre inquadrature per campagne pubblicitarie.
 
 #### 📝 Prompt
 
 ```
-Hero Product Reveal, Turn one product photo into a cinematic 3-shot reveal video
+Presentazione del prodotto Hero, trasforma una foto del prodotto in un video cinematografico di presentazione in 3 inquadrature
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087146457535287296/img/OLV0JT2u5ygb6ORf.jpg" width="600" alt="Cinematic 3-Shot Product Reveal Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087146457535287296/img/OLV0JT2u5ygb6ORf.jpg" width="600" alt="Video cinematografico di presentazione prodotto in 3 inquadrature">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8931)**
 
 **Author:** [いにしえ@AI Director / Creator / Engineer｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2087147332702007732) | **Published:** Aug 11, 2026
 
 ---
-### Cinematic Fashion Lifestyle Sequence
+### Sequenza cinematografica di moda e lifestyle
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot video prompt for a professional fashion sequence with cinematic camera movements and realistic physics.
+> Un prompt video dettagliato multi-inquadratura per una sequenza di moda professionale con movimenti di camera cinematografici e fisica realistica.
 
 #### 📝 Prompt
 
 ```
-Make the video feel like a cinematic fashion/lifestyle sequence with varied shots and natural storytelling. Start with a wide environmental shot showing her full body and surroundings, then transition into a full-body tracking shot as she slowly walks through the breeze. Move into a medium three-quarter shot where she naturally brushes windblown hair away from her face and briefly looks into the distance with a soft, thoughtful expression. Follow with a medium-long side-profile shot as a stronger gust moves her hair and coat while the camera slowly arcs around her. End with an intimate close-up matching the reference image, her eyes gently closed as she tilts her face toward the breeze with a subtle peaceful expression. Use smooth cinematic camera movements, realistic walking and body mechanics, natural breathing, detailed hair and fabric physics, changing wind intensity, realistic depth and motion blur. Avoid making every shot a close-up or keeping her static. Preserve her exact face, identity, hairstyle, outfit, body proportions, jewelry, and overall appearance throughout. No exaggerated expressions, no talking, no sudden movements, no face morphing or outfit changes.
+Crea un video che trasmetta l'atmosfera di una sequenza cinematografica di moda/lifestyle, con inquadrature variegate e una narrazione naturale. Inizia con un campo lungo ambientale che mostri la figura intera e l'ambiente circostante, per poi passare a un piano sequenza a figura intera mentre cammina lentamente nella brezza. Prosegui con un piano americano (tre quarti) in cui si scosta naturalmente i capelli mossi dal vento dal viso, guardando brevemente in lontananza con un'espressione dolce e pensierosa. Segui con un piano medio-lungo di profilo mentre una raffica di vento più forte le muove i capelli e il cappotto, con la camera che ruota lentamente attorno a lei. Concludi con un primo piano intimo che rispetti l'immagine di riferimento, con gli occhi delicatamente chiusi mentre inclina il viso verso la brezza con un'espressione di sottile serenità. Utilizza movimenti di camera cinematografici fluidi, meccaniche di camminata e del corpo realistiche, respirazione naturale, fisica dettagliata di capelli e tessuti, intensità del vento variabile, profondità realistica e motion blur. Evita di rendere ogni inquadratura un primo piano o di mantenere il soggetto statico. Mantieni intatti il viso, l'identità, l'acconciatura, l'outfit, le proporzioni corporee, i gioielli e l'aspetto generale per tutta la durata del video. Niente espressioni esagerate, niente parlato, niente movimenti bruschi, nessuna deformazione del viso o cambi di outfit.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086959132725407744/img/cOj85JUzbazK07rr.jpg" width="600" alt="Cinematic Fashion Lifestyle Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086959132725407744/img/cOj85JUzbazK07rr.jpg" width="600" alt="Sequenza cinematografica di moda e lifestyle">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8924)**
 
@@ -2175,6 +2175,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-18T09:03:43.035Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-18T13:13:37.218Z</sub>
 
 </div>

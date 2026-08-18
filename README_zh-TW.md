@@ -189,1925 +189,1925 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
-### Joystick and Emoji Animation
+### 搖桿與表情符號動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed animation prompt for Grok Imagine describing physics-based movement of a joystick and scissors interacting with emojis.
+> 一份為 Grok Imagine 撰寫的詳細動畫提示詞，描述了搖桿與剪刀跟表情符號互動的物理模擬運動。
 
 #### 📝 提示詞
 
 ```
-Maintaining all likeliness the joystick handle moves as though gaming. The scissors move in a cutting motion and chase after the emoji images. The scissors cut a laughing emoji in half. The row of purple devil emojis at the base of the joystick
+保持所有相似之處，搖桿手柄的移動方式如同遊戲操作一般。剪刀做出剪切動作並追逐表情符號圖像。剪刀將一個大笑的表情符號剪成兩半。位於搖桿底部的紫色惡魔表情符號列
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089549374624022528/img/Br1PYyhR_FRC_B7U.jpg" width="600" alt="Joystick and Emoji Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089549374624022528/img/Br1PYyhR_FRC_B7U.jpg" width="600" alt="搖桿與表情符號動畫">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9432)**
 
 **作者:** [FUNTIFFX](https://x.com/AbstractTiffany) | **來源:** [Link](https://x.com/AbstractTiffany/status/2089549388255543553) | **發布時間:** Aug 18, 2026
 
 ---
-### Humanoid Robot Riding Boston Dynamics Dog
+### 人形機器人騎乘 Boston Dynamics 機器狗
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a humanoid robot riding a large robotic dog into a nighttime frontline battle.
+> 一段電影級的影片提示詞，描述人形機器人騎著大型機器狗衝入夜間前線戰場。
 
 #### 📝 提示詞
 
 ```
-Humanoid robot riding large Boston dynamic dog into a frontline battle at night. We’re cooked.
+人形機器人騎著大型 Boston Dynamics 機器狗衝入夜間前線戰場。我們完蛋了。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089546081625333760/img/Crsm268vxN_QNVJu.jpg" width="600" alt="Humanoid Robot Riding Boston Dynamics Dog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089546081625333760/img/Crsm268vxN_QNVJu.jpg" width="600" alt="人形機器人騎乘 Boston Dynamics 機器狗">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9428)**
 
 **作者:** [SharewareFrom1994](https://x.com/amrndci) | **來源:** [Link](https://x.com/amrndci/status/2089546098364784937) | **發布時間:** Aug 18, 2026
 
 ---
-### Space Combat and Plasma Physics
+### 太空戰鬥與電漿物理學
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed sci-fi prompt involving rotating planets, moving ships, and plasma conversion effects.
+> 一個詳細的科幻提示詞，涉及旋轉行星、移動船艦以及電漿轉換效果。
 
 #### 📝 提示詞
 
 ```
-Make the planet rotate and the ship move forward with the lasers converting rocks to plasma that flows down the center of the ship
+讓行星旋轉，並使船艦向前移動，同時雷射將岩石轉換為電漿，並讓電漿沿著船艦中心流動
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089501917697527808/img/v5v4qtOI4CVLvbJ5.jpg" width="600" alt="Space Combat and Plasma Physics">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089501917697527808/img/v5v4qtOI4CVLvbJ5.jpg" width="600" alt="太空戰鬥與電漿物理學">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9425)**
 
 **作者:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **來源:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **發布時間:** Aug 17, 2026
 
 ---
-### Gothic Red Gold Glowing Text
+### 哥德式紅金發光文字
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dark fantasy cinematic motion prompt for gothic lettering with mist and atmospheric lighting effects.
+> 一款黑暗奇幻風格的電影級動態提示詞，用於呈現帶有霧氣與氛圍光影效果的哥德式字體。
 
 #### 📝 提示詞
 
 ```
-The gothic text "JUANG   Musk" slowly glows with dark red and gold light, mist swirls dramatically around the ornate blackletter lettering, subtle camera zoom and atmospheric fog drifting, dark fantasy cinematic motion, high detail
+哥德式文字「JUANG   Musk」緩慢地散發出暗紅與金色的光芒，霧氣在華麗的黑體字周圍戲劇性地繚繞，伴隨細微的鏡頭縮放與飄散的氛圍感濃霧，黑暗奇幻電影級動態，高細節呈現
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089467697654382594/img/ZsOGvwDEH-aW5lpA.jpg" width="600" alt="Gothic Red Gold Glowing Text">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089467697654382594/img/ZsOGvwDEH-aW5lpA.jpg" width="600" alt="哥德式紅金發光文字">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9426)**
 
 **作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **來源:** [Link](https://x.com/maggiejuang1/status/2089467763471286385) | **發布時間:** Aug 17, 2026
 
 ---
-### Gas Station Cinematic Sequence
+### 加油站電影感鏡頭序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed, single-shot tracking prompt for a realistic cinematic sequence of a man parking and entering a gas station.
+> 一個高度細節的單鏡頭追蹤提示詞，用於描繪一名男子停車並進入加油站的寫實電影感序列。
 
 #### 📝 提示詞
 
 ```
-Ethan, a young man in casual clothes, drives a modern sedan from the right side of the frame into an empty gas station parking lot during daytime. He turns right into a parking spot directly facing the front of the gas station entrance the back of the vehicle is facing the camera, parks correctly within the lines, stops the car, and turns off the engine. From the camera's perspective Ethan opens the left driver's side door and steps out onto the pavement with his left foot first, fully exits the vehicle on the left side, closes the door behind him, and walks straight ahead into the gas station building. Continuous single-shot cinematic tracking, realistic physics, no camera cuts
+Ethan 是一位穿著休閒的年輕男子，在白天駕駛著一輛現代轎車從畫面右側駛入空蕩蕩的加油站停車場。他向右轉進入正對著加油站入口的停車位，車尾面向鏡頭，精準停在停車格內，隨後停車並熄火。從鏡頭視角看去，Ethan 打開左側駕駛座車門，左腳先著地踏上路面，完全從車輛左側走出，隨後關上車門，徑直走向加油站建築物。連續單鏡頭電影感追蹤，物理效果寫實，無鏡頭剪輯。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089457726497697793/img/YYGRMFNucFq93VP8.jpg" width="600" alt="Gas Station Cinematic Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089457726497697793/img/YYGRMFNucFq93VP8.jpg" width="600" alt="加油站電影感鏡頭序列">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9433)**
 
 **作者:** [Rob Allan](https://x.com/allan_robII) | **來源:** [Link](https://x.com/allan_robII/status/2089457914029502891) | **發布時間:** Aug 17, 2026
 
 ---
-### DiCaprio Titanic Shipwreck Dream
+### 李奧納多狄卡皮歐的鐵達尼號沈船夢境
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic narrative prompt depicting Leonardo DiCaprio waking up on a tropical beach amidst the wreckage of the Titanic.
+> 一段電影感十足的敘事提示詞，描繪李奧納多狄卡皮歐在熱帶海灘上醒來，身旁散落著鐵達尼號的殘骸。
 
 #### 📝 提示詞
 
 ```
-Leonardo DiCaprio wakes up from a nightmare on a tropical beach, sits up startled, looks around in disbelief, then notices the huge rusty Titanic shipwreck pieces washed up on the island
+李奧納多狄卡皮歐從噩夢中於熱帶海灘上驚醒，他驚恐地坐起身，難以置信地環顧四周，隨後發現巨大的鐵達尼號鏽蝕殘骸被沖上了這座島嶼
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089416053223026688/img/jyodM4Sk4LCkdJUS.jpg" width="600" alt="DiCaprio Titanic Shipwreck Dream">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089416053223026688/img/jyodM4Sk4LCkdJUS.jpg" width="600" alt="李奧納多狄卡皮歐的鐵達尼號沈船夢境">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9421)**
 
 **作者:** [Cyperpienso](https://x.com/cyperpienso) | **來源:** [Link](https://x.com/cyperpienso/status/2089416089705091286) | **發布時間:** Aug 17, 2026
 
 ---
-### Sunbathing Beach with Rolling Waves
+### 陽光沙灘與層層浪花
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A relaxing video prompt showing a sandy beach with people and gentle ocean waves.
+> 一段令人放鬆的影片提示詞，展示了充滿人群的沙灘與溫柔的海浪。
 
 #### 📝 提示詞
 
 ```
-A sandy beach with lots of sunbathing people and a gentle breeze and small rolling waves
+一片有許多人在做日光浴的沙灘，伴隨著微風與層層細浪
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089391085973835777/img/52gygCYwDKTpscVa.jpg" width="600" alt="Sunbathing Beach with Rolling Waves">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089391085973835777/img/52gygCYwDKTpscVa.jpg" width="600" alt="陽光沙灘與層層浪花">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9430)**
 
 **作者:** [Mark Tatum](https://x.com/Mark561256) | **來源:** [Link](https://x.com/Mark561256/status/2089391129162645811) | **發布時間:** Aug 17, 2026
 
 ---
-### Farmer Plowing Wheat Field
+### 農夫耕作麥田
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A straightforward prompt for generating a video of an American farmer using a John Deere tractor to plow a large wheat field.
+> 這是一個簡單直接的提示詞，用於生成一段美國農夫駕駛 John Deere 拖拉機耕作大片麥田的影片。
 
 #### 📝 提示詞
 
 ```
-Create a video with an American farmer plowing a large field to grow wheat and a John Deere tractor
+製作一段影片，內容為一名美國農夫駕駛 John Deere 拖拉機耕作大片麥田以種植小麥
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089390175126163456/img/AiZPYcnoBJPdjb16.jpg" width="600" alt="Farmer Plowing Wheat Field">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089390175126163456/img/AiZPYcnoBJPdjb16.jpg" width="600" alt="農夫耕作麥田">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9423)**
 
 **作者:** [Mark Tatum](https://x.com/Mark561256) | **來源:** [Link](https://x.com/Mark561256/status/2089390212082192396) | **發布時間:** Aug 17, 2026
 
 ---
-### Pixar Style Strawberry Donut Animation
+### 皮克斯風格草莓甜甜圈動畫
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A creative prompt for a Pixar-style couple avatar featuring a strawberry donut boy and a milk tea girl, including a specific blushing animation sequence.
+> 這是一個為皮克斯風格情侶頭像設計的創意提示詞，主角為草莓甜甜圈男孩與奶茶女孩，並包含特定的臉紅動畫序列。
 
 #### 📝 提示詞
 
 ```
-Generate an image to be used as a fan page avatar. The page name is 'Boti and Muti', meaning strawberry donut and milk tea. This is for a young couple's fan page; the strawberry donut is the boy and the milk tea is the girl. The style is hip yet cute, Pixar-inspired. The milk tea color should be solid and clear. Remove the English text at the bottom and the red granules from the strawberry. Let the strawberry blush at the beginning.
+生成一張用於粉絲專頁的頭像。專頁名稱為「Boti and Muti」，意指草莓甜甜圈與奶茶。這是為年輕情侶粉絲專頁設計的；草莓甜甜圈代表男孩，奶茶代表女孩。風格需具備潮流感且可愛，採用皮克斯風格。奶茶的顏色應呈現飽和且清澈的質感。請移除底部的英文文字以及草莓上的紅色顆粒。讓草莓在開頭時呈現臉紅的樣子。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089388388860526593/img/fC5LNStOiU6f7H9c.jpg" width="600" alt="Pixar Style Strawberry Donut Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089388388860526593/img/fC5LNStOiU6f7H9c.jpg" width="600" alt="皮克斯風格草莓甜甜圈動畫">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9434)**
 
 **作者:** [Tenghao hsu](https://x.com/HsuTenghao19046) | **來源:** [Link](https://x.com/HsuTenghao19046/status/2089388405990064618) | **發布時間:** Aug 17, 2026
 
 ---
-### Bioluminescent Ocean Couture
+### 生物發光海洋高級訂製服
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal fashion concept generated using the Grok Imagine Image 2 model, resulting in a cinematic underwater catwalk scene.
+> 使用 Grok Imagine Image 2 模型生成的超現實時尚概念，呈現出電影般的深海伸展台場景。
 
 #### 📝 提示詞
 
 ```
-A poised woman in a surreal bioluminescent ocean couture gown of flowing deep-sea waves, glowing jellyfish tendrils, iridescent pearls, and living coral strides down a luxury catwalk in a dramatic, cinematic style with underwater light rays and sparkling mist.
+一位姿態優雅的女性身穿超現實的生物發光海洋高級訂製禮服，禮服由流動的深海波浪、發光的水母觸鬚、虹彩珍珠與活珊瑚組成，在奢華的伸展台上闊步前行，展現出戲劇性的電影風格，並伴隨著水下光束與閃爍的霧氣。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787039476062_orzyes_HP7oYg9aAAAVkfV.jpg" width="600" alt="Bioluminescent Ocean Couture">
+<img src="https://cms-assets.youmind.com/media/1787039476062_orzyes_HP7oYg9aAAAVkfV.jpg" width="600" alt="生物發光海洋高級訂製服">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9420)**
 
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2089363024356524125) | **發布時間:** Aug 17, 2026
 
 ---
-### Variations of Pleiadian Humanity
+### 昴宿星人類的變體
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-quality video prompt illustrating variations of humanity along Pleiadian lines with volumetric lighting.
+> 一個高品質的影片提示詞，展示了沿著昴宿星系線條的人類變體，並呈現體積光效果。
 
 #### 📝 提示詞
 
 ```
-There are many variations of Humanity illustrate this along Pleiadian lines, masterpiece, ultra HD quality resolution volumetric bright lighting and colors
+人類有許多變體，請沿著昴宿星系的線條進行描繪，傑作，超高畫質解析度，體積感強的明亮光線與色彩
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089351947077763072/img/iNSiR6gZq0CTzsjH.jpg" width="600" alt="Variations of Pleiadian Humanity">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089351947077763072/img/iNSiR6gZq0CTzsjH.jpg" width="600" alt="昴宿星人類的變體">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9431)**
 
 **作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **來源:** [Link](https://x.com/Octillion111111/status/2089351996570538020) | **發布時間:** Aug 17, 2026
 
 ---
-### Wing Evolution Morphing Sequence
+### 翅膀演化變形序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex morphing prompt that transitions through a wide variety of wings, from natural petals and butterfly wings to mechanical jet and spacecraft wings.
+> 一個複雜的變形提示詞，展示了從自然花瓣與蝴蝶翅膀，到機械噴射機與太空船機翼等多種翅膀形態的過渡過程。
 
 #### 📝 提示詞
 
 ```
-Leaf → flower petal → butterfly wing → dragonfly wing → bird feather → songbird wing → eagle wing → glider wing → paper airplane wing → biplane wing → propeller airplane wing → passenger jet wing → fighter jet wing → spacecraft wing → solar sail → solar panel → satellite → space telescope
+葉片 → 花瓣 → 蝴蝶翅膀 → 蜻蜓翅膀 → 鳥類羽毛 → 鳴禽翅膀 → 老鷹翅膀 → 滑翔機機翼 → 紙飛機機翼 → 雙翼機機翼 → 螺旋槳飛機機翼 → 客機機翼 → 戰鬥機機翼 → 太空船機翼 → 太陽帆 → 太陽能板 → 衛星 → 太空望遠鏡
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089324265464041472/img/2lX1b3QOGx1o-dD3.jpg" width="600" alt="Wing Evolution Morphing Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089324265464041472/img/2lX1b3QOGx1o-dD3.jpg" width="600" alt="翅膀演化變形序列">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9419)**
 
 **作者:** [Carl Bethea V](https://x.com/CarlBethea5) | **來源:** [Link](https://x.com/CarlBethea5/status/2089324882332946627) | **發布時間:** Aug 17, 2026
 
 ---
-### Gothic Rose Transformation
+### 哥德式玫瑰變身
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A visually striking video prompt showing a black gothic rose transforming into a red rose with bright volumetric lighting.
+> 一段視覺效果驚人的影片提示詞，展示了一朵黑色哥德式玫瑰在明亮的體積光下變身為紅玫瑰的過程。
 
 #### 📝 提示詞
 
 ```
-Black rose in gothic style transforms into a Red Rose , masterpiece, ultra HD quality resolution volumetric bright lighting and colors
+哥德風格的黑玫瑰變身為紅玫瑰，傑作，超高畫質解析度，明亮的體積光與色彩
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089294953654423552/img/vh7iUAQuWxy_ulU_.jpg" width="600" alt="Gothic Rose Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089294953654423552/img/vh7iUAQuWxy_ulU_.jpg" width="600" alt="哥德式玫瑰變身">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9417)**
 
 **作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **來源:** [Link](https://x.com/Octillion111111/status/2089294989004042421) | **發布時間:** Aug 17, 2026
 
 ---
-### Sci-Fi Spaceship Escape Sequence
+### 科幻太空船逃脫序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A narrative-driven prompt describing a spaceship docking and escape mission involving a character named Trinia.
+> 一個以敘事為導向的提示詞，描述了一場涉及名為 Trinia 的角色的太空船對接與逃脫任務。
 
 #### 📝 提示詞
 
 ```
-Trinia escaping on a Spaceship with the gold key; the Spaceship attaching itself to the enemy's vessel so she could escape
+Trinia 帶著金鑰匙搭乘太空船逃脫；太空船與敵艦對接，以便她能順利脫逃
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089280557913899008/img/znLqbMPOxjWTd_Tz.jpg" width="600" alt="Sci-Fi Spaceship Escape Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089280557913899008/img/znLqbMPOxjWTd_Tz.jpg" width="600" alt="科幻太空船逃脫序列">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9429)**
 
 **作者:** [Kim Maria](https://x.com/KimMaria8ry) | **來源:** [Link](https://x.com/KimMaria8ry/status/2089280594186260518) | **發布時間:** Aug 17, 2026
 
 ---
-### Dynamic Cowboy Gun Battle
+### 動態牛仔槍戰
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-action video prompt describing a gunslinger in a battle with muzzle flashes, smoke, and explosions.
+> 一段高動作強度的影片提示詞，描述了一名槍手在戰鬥中的場景，包含槍口閃光、煙霧與爆炸效果。
 
 #### 📝 提示詞
 
 ```
-Dynamic cowboy gun battle action: the gunslinger fires his revolver with muzzle flash and recoil, body tense and moving forward aggressively, dust and debris flying, explosions erupting around him with fire and smoke, bullets tracers flying past
+動態牛仔槍戰動作：槍手扣動左輪手槍扳機，伴隨槍口閃光與後座力，身體緊繃並積極向前推進，塵土與碎片四處飛揚，周圍爆發出火焰與煙霧，子彈軌跡從身旁呼嘯而過
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089242691355992064/img/1bHdhIT7WqmrCRl6.jpg" width="600" alt="Dynamic Cowboy Gun Battle">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089242691355992064/img/1bHdhIT7WqmrCRl6.jpg" width="600" alt="動態牛仔槍戰">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9317)**
 
 **作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **來源:** [Link](https://x.com/KaungMyat635/status/2089242763284062564) | **發布時間:** Aug 17, 2026
 
 ---
-### Alien Planet Figure Skater Video
+### 外星行星花式滑冰選手影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a figure skater with platinum blonde hair performing a triple axel jump on an icy alien planet under a sky of shooting stars.
+> 一段電影級的影片提示詞，描述一位擁有白金髮色的花式滑冰選手，在流星劃過的異星冰面上表演三周半跳（Triple Axel）。
 
 #### 📝 提示詞
 
 ```
-A dynamic tracking shot of a young female figure skater on an icy alien planet. She has platinum blonde hair in a tight bun and wears a costume like a deep indigo night sky, decorated with countless tiny stardust-like sparkles. She glides at high speed across a vast ice rink under a sky filled with shooting stars. Her silver skating shoes reflect the stars and the glowing ice. As her speed builds, she launches into a powerful triple axel jump, spinning gracefully in midair. She lands smoothly on the glowing ice and immediately accelerates again, cutting long, bright trails across the rink as more meteors and shooting stars fall around her. Ultra detailed, cinematic lighting, slow shutter motion blur, dynamic camera movement, 4K, high frame rate.
+一段動態追蹤鏡頭，拍攝一位在外星冰面上的年輕女性花式滑冰選手。她留著白金色的緊緻髮髻，身穿如深靛色夜空般的服裝，上面裝飾著無數如星塵般的閃光。她在佈滿流星的天空下，於廣闊的冰場上高速滑行。她銀色的冰鞋反射著星光與發光的冰面。隨著速度提升，她躍入空中進行強而有力的三周半跳，在半空中優雅地旋轉。她平穩地降落在發光的冰面上並隨即再次加速，在冰場上劃出長而明亮的軌跡，同時周圍有更多流星劃過。超高細節、電影級燈光、慢速快門動態模糊、動態攝影機運鏡、4K、高幀率。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089241004939554816/img/2DDKiOQ2OHa_WOct.jpg" width="600" alt="Alien Planet Figure Skater Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089241004939554816/img/2DDKiOQ2OHa_WOct.jpg" width="600" alt="外星行星花式滑冰選手影片">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9323)**
 
 **作者:** [おもも桃](https://x.com/omomomomo0309) | **來源:** [Link](https://x.com/omomomomo0309/status/2089241259085095024) | **發布時間:** Aug 17, 2026
 
 ---
-### Character OOTD Spin Video
+### 角色 OOTD 旋轉影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A character-focused prompt generating a standing pose, outfit showcase, and a 360-degree spin.
+> 以角色為核心的提示詞，可生成站立姿勢、穿搭展示以及 360 度旋轉效果。
 
 #### 📝 提示詞
 
 ```
-Pami babyy standing up and shows a ootd And giving us a spin@adin sold that baddie
+Pami babyy 站起來展示 OOTD 並旋轉一圈 @adin sold that baddie
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089210935428931584/img/zpzq_iGtimQkkJ6L.jpg" width="600" alt="Character OOTD Spin Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089210935428931584/img/zpzq_iGtimQkkJ6L.jpg" width="600" alt="角色 OOTD 旋轉影片">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9427)**
 
 **作者:** [dasickestmf2000](https://x.com/dasickestmwbwy) | **來源:** [Link](https://x.com/dasickestmwbwy/status/2089210970602389934) | **發布時間:** Aug 17, 2026
 
 ---
-### Dragon Sunset Interaction
+### 巨龍夕陽互動
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed and atmospheric video prompt showing a dragon lowering its head to a woman's hand on a beach at sunset.
+> 一段細膩且充滿氛圍感的影片提示詞，描繪了在夕陽下的海灘，一條巨龍將頭緩緩靠近女子手掌的畫面。
 
 #### 📝 提示詞
 
 ```
-the dragon’s head slowly lowers toward her open hand, scales shimmering with soft light as the wind gently lifts her long hair and the hem of her flowing dress, its wings softly unfurling and catching the sunset glow while the ocean waves roll quietly
+巨龍的頭部緩緩向她張開的手掌靠近，鱗片在柔和的光線下閃爍，微風輕拂起她的長髮與飄逸的裙擺，巨龍的雙翼輕柔地展開，捕捉著夕陽的餘暉，同時海浪在背景中靜靜地拍打著。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089206770350661632/img/_tbJue-mFW2ri6O9.jpg" width="600" alt="Dragon Sunset Interaction">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089206770350661632/img/_tbJue-mFW2ri6O9.jpg" width="600" alt="巨龍夕陽互動">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9319)**
 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2089206829905481906) | **發布時間:** Aug 17, 2026
 
 ---
-### Black Hole Stellar Collapse Visualization
+### 黑洞恆星坍縮視覺化
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed scientific visualization of a black hole forming through stellar collapse with gravitational distortion effects.
+> 一項高度細緻的科學視覺化呈現，展示了恆星坍縮形成黑洞的過程，以及引力扭曲效應。
 
 #### 📝 提示詞
 
 ```
-A visualization of a black hole being created, showing the dynamic process of stellar collapse and formation with gravitational effects, event horizon appearance, and surrounding spacetime distortion
+黑洞形成過程的視覺化呈現，展示了恆星坍縮與形成的動態過程，包含引力效應、事件視界外觀以及周圍時空的扭曲。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089176062475304960/img/XSQhNbhdBc6cEEha.jpg" width="600" alt="Black Hole Stellar Collapse Visualization">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089176062475304960/img/XSQhNbhdBc6cEEha.jpg" width="600" alt="黑洞恆星坍縮視覺化">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9424)**
 
 **作者:** [Criminalize Communisim](https://x.com/CommiesRTr8rs) | **來源:** [Link](https://x.com/CommiesRTr8rs/status/2089176086701638035) | **發布時間:** Aug 17, 2026
 
 ---
-### Lava vs Liquid Nitrogen Science
+### 熔岩與液態氮的科學實驗
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt requesting a scientific visualization of the interaction between liquid nitrogen and hot lava.
+> 一個請求將液態氮與高溫熔岩相互作用進行科學視覺化的提示詞。
 
 #### 📝 提示詞
 
 ```
-Can you make a video of liquid nitrogen underneath hot lava and show what happens scientifically.
+你能製作一段影片，展示液態氮在熱熔岩下方時會發生什麼事，並從科學角度進行說明嗎？
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089163411523305472/img/BrYPHNshCaSx0uS0.jpg" width="600" alt="Lava vs Liquid Nitrogen Science">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089163411523305472/img/BrYPHNshCaSx0uS0.jpg" width="600" alt="熔岩與液態氮的科學實驗">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9422)**
 
 **作者:** [Racha Zeidan](https://x.com/rachazeidan) | **來源:** [Link](https://x.com/rachazeidan/status/2089163426966712443) | **發布時間:** Aug 17, 2026
 
 ---
-### Liquid Nitrogen vs Lava Science
+### 液態氮與熔岩的科學對決
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A scientific visualization prompt showing the reaction between liquid nitrogen and lava in a video format.
+> 一個科學視覺化提示詞，旨在以影片形式展示液態氮與熔岩反應的過程。
 
 #### 📝 提示詞
 
 ```
-Can you make a video of liquid nitrogen in lava and show what happens scientifically
+你能製作一段關於液態氮與熔岩接觸的影片，並從科學角度展示其反應過程嗎？
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089161865905512449/img/KRdf0ATk0pne8X6l.jpg" width="600" alt="Liquid Nitrogen vs Lava Science">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089161865905512449/img/KRdf0ATk0pne8X6l.jpg" width="600" alt="液態氮與熔岩的科學對決">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9418)**
 
 **作者:** [Racha Zeidan](https://x.com/rachazeidan) | **來源:** [Link](https://x.com/rachazeidan/status/2089161883773190169) | **發布時間:** Aug 17, 2026
 
 ---
-### Healthy Cooking Chef Sequence
+### 健康烹飪主廚系列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt illustrating the process of a chef creating healthy, nutritious plates from a table full of fresh vegetables and proteins.
+> 這是一個影片提示詞，描繪了一位主廚使用滿桌新鮮蔬菜與蛋白質，製作健康營養餐點的過程。
 
 #### 📝 提示詞
 
 ```
-Create a table full of vegetables, healthy fats, and protein. Then you have a chef create delicious plates with them for a healthy free cancer life.
+準備一張擺滿蔬菜、健康脂肪與蛋白質的桌子。接著，讓一位主廚使用這些食材製作美味的餐點，以實現遠離癌症的健康生活。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089107807509307392/img/9huUvi3C3SnhiyjO.jpg" width="600" alt="Healthy Cooking Chef Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089107807509307392/img/9huUvi3C3SnhiyjO.jpg" width="600" alt="健康烹飪主廚系列">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9318)**
 
 **作者:** [RexCesar](https://x.com/CesarCRDZO) | **來源:** [Link](https://x.com/CesarCRDZO/status/2089107819928617031) | **發布時間:** Aug 16, 2026
 
 ---
-### Glamorous Cyborg Neuromancer Video
+### 迷人電馭叛客風生化人影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt featuring a glamorous cyborg in a Neuromancer aesthetic with flashing neon lights and jerky staging.
+> 這是一段電影級的影片提示詞，呈現出具有《神經漫遊者》（Neuromancer）美學的迷人電馭叛客生化人，搭配閃爍的霓虹燈與不連貫的運鏡效果。
 
 #### 📝 提示詞
 
 ```
-Glamorous Cyborg Neuromancer, 4k rgb, acescg, jerky staging, flashing neon, in english
+迷人電馭叛客生化人，4k rgb，acescg，不連貫運鏡，閃爍霓虹，in english
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089058933943959552/img/_jy2ylbJWDVyQqW8.jpg" width="600" alt="Glamorous Cyborg Neuromancer Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089058933943959552/img/_jy2ylbJWDVyQqW8.jpg" width="600" alt="迷人電馭叛客風生化人影片">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9324)**
 
 **作者:** [Noreen.Kh](https://x.com/NKh2to) | **來源:** [Link](https://x.com/NKh2to/status/2089059103620399462) | **發布時間:** Aug 16, 2026
 
 ---
-### Cosmic Vortex Goddess Video
+### 宇宙漩渦女神影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex cinematic prompt involving a space vortex, realigning planets, and an ethereal goddess.
+> 一個包含太空漩渦、行星重新排列以及空靈女神的複雜電影級提示詞。
 
 #### 📝 提示詞
 
 ```
-Choose vortex in space add picture of the women . Ethereal affects . Sudden cosmic blast planets realigning . Goddess appears grabs the woman with black on ....
+選擇太空中的漩渦，加入女性的圖片。空靈的效果。突如其來的宇宙爆炸，行星重新排列。女神出現，抓住穿著黑色衣服的女子……
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089048801910648832/img/2NYJGKZdeIAeRuq-.jpg" width="600" alt="Cosmic Vortex Goddess Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089048801910648832/img/2NYJGKZdeIAeRuq-.jpg" width="600" alt="宇宙漩渦女神影片">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9316)**
 
 **作者:** [Sas](https://x.com/SaSHeaven26) | **來源:** [Link](https://x.com/SaSHeaven26/status/2089048819044319433) | **發布時間:** Aug 16, 2026
 
 ---
-### Rotating Chocolate Cake Animation
+### 旋轉巧克力蛋糕動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt for a rotating chocolate cake that divides into six pieces and reassembles.
+> 一個關於巧克力蛋糕旋轉、分成六塊並重新組合的影片提示詞。
 
 #### 📝 提示詞
 
 ```
-OK, can we have this beautiful cake rotate and then divide and get back together again in like six pieces and then we say chocolate the powerhouse Cocoa
+好的，我們可以讓這個精美的蛋糕旋轉，然後分成六塊，最後再重新組合在一起，接著我們說「巧克力，可可的力量來源」。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088989322754027520/img/o_ENLd8I77PIPk86.jpg" width="600" alt="Rotating Chocolate Cake Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088989322754027520/img/o_ENLd8I77PIPk86.jpg" width="600" alt="旋轉巧克力蛋糕動畫">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9321)**
 
 **作者:** [Amandasatiro](https://x.com/Amandasatiro07) | **來源:** [Link](https://x.com/Amandasatiro07/status/2088989343478079969) | **發布時間:** Aug 16, 2026
 
 ---
-### Realistic Walking Motion
+### 逼真的行走動作
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for a realistic walking sequence with natural body physics and camera tracking on an urban sidewalk.
+> 一份詳細的影片提示詞，用於生成在城市人行道上，具備自然身體物理效果與攝影機追蹤的逼真行走序列。
 
 #### 📝 提示詞
 
 ```
-The man walks forward naturally towards the camera with a confident, smooth gait, arms swinging freely, legs stepping mid-stride continuously, slight camera tracking forward, realistic clothing movement, natural body physics, sunny urban sidewalk env...
+男子自信且流暢地朝攝影機方向自然前行，雙臂自然擺動，雙腿持續邁步，攝影機輕微向前追蹤，服裝呈現逼真的動態，具備自然的身體物理效果，陽光明媚的城市人行道環境……
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088977139886391296/img/ARSqffLf07_D17iR.jpg" width="600" alt="Realistic Walking Motion">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088977139886391296/img/ARSqffLf07_D17iR.jpg" width="600" alt="逼真的行走動作">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9313)**
 
 **作者:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **來源:** [Link](https://x.com/Yesyesyes_OK/status/2088977165786173691) | **發布時間:** Aug 16, 2026
 
 ---
-### Gym Selfie Motion Video
+### 健身房自拍動態影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A photorealistic video generation prompt for a stylish gym selfie with subtle natural movements.
+> 一個用於生成時尚健身房自拍影片的寫實提示詞，包含細微的自然動作。
 
 #### 📝 提示詞
 
 ```
-The young man in black Nike shirt poses alone in the gym for a stylish side-view selfie. He makes subtle natural movements, slight head turns, confident expression, soft body shifts, cool fluorescent lighting, photoreal social media vibe.
+一位身穿黑色 Nike 上衣的年輕男子獨自在健身房中擺出時尚的側面自拍姿勢。他有著細微的自然動作、輕微的轉頭、自信的表情、柔和的身體擺動，搭配冷色調的螢光燈光，呈現出寫實的社群媒體風格。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088965651302080513/img/g14zM-lDzIGlKRRR.jpg" width="600" alt="Gym Selfie Motion Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088965651302080513/img/g14zM-lDzIGlKRRR.jpg" width="600" alt="健身房自拍動態影片">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9320)**
 
 **作者:** [GOTC](https://x.com/gotcbaby) | **來源:** [Link](https://x.com/gotcbaby/status/2088965668519678384) | **發布時間:** Aug 16, 2026
 
 ---
-### Onyx Gemstone Crow
+### 黑瑪瑙寶石烏鴉
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A majestic video prompt for a crow sculpted from gemstone spreading its wings with intricate silver filigree.
+> 這是一個宏偉的影片提示詞，描述一隻由寶石雕刻而成的烏鴉，展現著精緻的銀絲工藝並張開雙翼。
 
 #### 📝 提示詞
 
 ```
-A majestic crow sculpted entirely from polished black onyx gemstone, powerfully spreading its wings wide in a heroic pose, intricate silver filigree and ornate patterns etched across its body, feathers, and wings, sharp emphasized edges with crystall...
+一隻由拋光黑瑪瑙寶石雕刻而成的宏偉烏鴉，以英勇的姿態有力地張開雙翼，其身體、羽毛和翅膀上刻有精緻的銀絲工藝與華麗圖案，邊緣銳利且突出，呈現出水晶般的質感……
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088939136220897280/img/Pf0wfssd_bVrY95P.jpg" width="600" alt="Onyx Gemstone Crow">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088939136220897280/img/Pf0wfssd_bVrY95P.jpg" width="600" alt="黑瑪瑙寶石烏鴉">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9315)**
 
 **作者:** [Apple](https://x.com/Apple0816799221) | **來源:** [Link](https://x.com/Apple0816799221/status/2088939174762348704) | **發布時間:** Aug 16, 2026
 
 ---
-### Dora and Team Umizoomi Rescue
+### Dora 與 Team Umizoomi 救援行動
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An action-oriented prompt featuring popular animated characters in a rescue mission scenario against a villain.
+> 一個以動作為導向的提示詞，描述受歡迎的動畫角色在救援任務中對抗反派的情境。
 
 #### 📝 提示詞
 
 ```
-Dora’s calling for help and team umizoomi going to save her from the evil villain
+Dora 正在呼救，而 Team Umizoomi 正準備將她從邪惡反派手中救出
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088878314932850688/img/qrMNu7fUj6bNvrDe.jpg" width="600" alt="Dora and Team Umizoomi Rescue">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088878314932850688/img/qrMNu7fUj6bNvrDe.jpg" width="600" alt="Dora 與 Team Umizoomi 救援行動">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9241)**
 
 **作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **來源:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **發布時間:** Aug 16, 2026
 
 ---
-### Hello Kitty Jail Story
+### Hello Kitty 的監獄故事
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed narrative prompt for a cartoon sequence featuring Hello Kitty in a store and legal trouble.
+> 這是一個關於 Hello Kitty 在商店中惹上法律麻煩的卡通情節詳細敘述提示詞。
 
 #### 📝 提示詞
 
 ```
-Hello kitty steals the candy from the store: her mom said don’t steal the candy your in big trouble: he cries he call the police and take kitty to jail
+Hello Kitty 從商店裡偷了糖果：媽媽說過不准偷糖果，妳這下有大麻煩了：她哭了起來，媽媽報了警，警察把 Kitty 帶進了監獄。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088877416332640256/img/z4oi_SjX29GlI7Zm.jpg" width="600" alt="Hello Kitty Jail Story">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088877416332640256/img/z4oi_SjX29GlI7Zm.jpg" width="600" alt="Hello Kitty 的監獄故事">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9243)**
 
 **作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **來源:** [Link](https://x.com/DavontaDav5iv/status/2088877441540342157) | **發布時間:** Aug 16, 2026
 
 ---
-### Astronaut Alien Sunrise Retreat
+### 太空人外星日出撤退
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt featuring a slow camera retreat from an astronaut standing on a rocky ridge as a second sun rises on an alien world.
+> 一段電影感十足的影片提示詞，描述攝影機從站在岩石山脊上的太空人緩緩後退，同時外星世界升起第二顆太陽的畫面。
 
 #### 📝 提示詞
 
 ```
-Wide cinematic 16:9 shot of a lone astronaut standing on a high rocky outcrop at the edge of an unexplored world, looking out across a vast and silent alien terrain as a second sun begins to rise, Earth visible as a small distant sphere in the dark sky, their spacecraft resting far below in the middle ground, slow and steady camera retreat that gradually reveals the scale and emptiness of the new landscape, soft natural light, quiet hopeful atmosphere, photorealistic, filmic and emotional
+寬螢幕 16:9 電影鏡頭，一名孤獨的太空人站在未開發世界的高處岩石露頭上，俯瞰著廣闊且寂靜的外星地形，此時第二顆太陽開始升起，地球在黑暗的天空中呈現為一個遙遠的小球體，太空船停在遠處的中景，攝影機緩慢而穩定地後退，逐漸揭示出這片新景觀的規模與空曠感，柔和的自然光，寧靜且充滿希望的氛圍，照片級真實感，具備電影感與情感張力
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="Astronaut Alien Sunrise Retreat">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="太空人外星日出撤退">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9256)**
 
 **作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2088875908434203079) | **發布時間:** Aug 16, 2026
 
 ---
-### Watercolor Narrative Conversation
+### 水彩敘事對話
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sophisticated video generation prompt using wet-on-wet watercolor aesthetics to depict a complex emotional conversation between a man and a woman.
+> 一個精緻的影片生成提示詞，運用濕中濕水彩美學，描繪一對男女之間複雜的情感對話。
 
 #### 📝 提示詞
 
 ```
-Visual aesthetic is wet on wet watercolor style. Maintain the watercolor style in every shot with the characters looking like moving watercolor paintings and adhering to the style perfectly. A man and a woman jokingly discuss how they think they were about to fall in love before they were separated. They are joking to hide that they actually mean it. Insert some pauses to make it seem more natural. Cinematic, prestige level quality directing and cinematography. Establishing shot, Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices.
+視覺美學採用濕中濕水彩風格。在每個鏡頭中保持水彩風格，讓角色看起來如同流動的水彩畫，並完美契合該風格。一對男女開玩笑地討論他們在分開前是如何認為自己即將墜入愛河的。他們透過玩笑來掩飾內心的真實感受。加入一些停頓，使其顯得更加自然。電影級、頂尖水準的導演與攝影。包含建立鏡頭、緊湊特寫以及手持攝影以產生情感共鳴。不使用廣角鏡頭。無背景音樂。臉部的細微表情比說話的音量更能傳達主題。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786953735801_hadx6t_HP0OHs_XoAAMwHw.jpg" width="600" alt="Watercolor Narrative Conversation">
+<img src="https://cms-assets.youmind.com/media/1786953735801_hadx6t_HP0OHs_XoAAMwHw.jpg" width="600" alt="水彩敘事對話">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9322)**
 
 **作者:** [Rob Allan](https://x.com/allan_robII) | **來源:** [Link](https://x.com/allan_robII/status/2088841453124342009) | **發布時間:** Aug 16, 2026
 
 ---
-### Colorful Birds Flying Over Backyard
+### 在後院上空飛翔的彩色鳥兒
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A modification prompt adding cheerful colorful birds to a serene backyard scene with specific motion descriptions.
+> 這是一個修改提示詞，旨在為寧靜的後院場景增添色彩鮮豔的鳥兒，並附帶具體的動作描述。
 
 #### 📝 提示詞
 
 ```
-Add several colorful birds flying happily in the clear blue sky above the backyard scene. The birds look very joyful and cheerful, with bright expressions, wings spread, soaring playfully around the trees. Keep everything else exactly the same: the w...
+在後院場景的晴朗藍天中，加入幾隻快樂飛翔的彩色鳥兒。這些鳥兒看起來非常歡快，表情明亮，張開翅膀在樹木周圍俏皮地翱翔。保持其他所有內容完全不變：...
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786866211398_4l9d94_HP0CjnvagAADTHD.jpg" width="600" alt="Colorful Birds Flying Over Backyard">
+<img src="https://cms-assets.youmind.com/media/1786866211398_4l9d94_HP0CjnvagAADTHD.jpg" width="600" alt="在後院上空飛翔的彩色鳥兒">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9251)**
 
 **作者:** [Star](https://x.com/Wednesdayo17) | **來源:** [Link](https://x.com/Wednesdayo17/status/2088828673269072163) | **發布時間:** Aug 16, 2026
 
 ---
-### Christ Leading Believers to Paradise
+### 基督引領信徒前往天堂
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt depicting Jesus Christ leading believers from Hades to paradise.
+> 一段電影級的影片提示詞，描繪耶穌基督引領信徒從陰間前往天堂的場景。
 
 #### 📝 提示詞
 
 ```
-Imagine our Lord Jesus Christ leading the believers from Hades to paradise after dying on the cross
+想像我們的主耶穌基督在十字架上受難後，引領信徒從陰間前往天堂的畫面
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="Christ Leading Believers to Paradise">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="基督引領信徒前往天堂">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9250)**
 
 **作者:** [Hany N. Takla](https://x.com/HanyNTakla2) | **來源:** [Link](https://x.com/HanyNTakla2/status/2088811975937855627) | **發布時間:** Aug 16, 2026
 
 ---
-### Glowing Emerald Wolf Pack Animation
+### 發光翡翠狼群動畫
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A magical animation prompt in Japanese describing a pack of glowing emerald wolves howling and gaining speed in a mysterious forest.
+> 一個日文魔法動畫提示詞，描述了一群發光的翡翠狼在神秘森林中嚎叫並加速奔跑的場景。
 
 #### 📝 提示詞
 
 ```
-Emerald wolf, silver trim, actual gem shine, edge enhancement, mysterious creature with animal-like vitality, faint flash inside, wild and ferocious appearance, deep and rich mysterious forest at night, loud and mournful howl, galloping, gradually more emerald wolves, numbers increasing little by little, speed gradually increasing, green glow becoming stronger as more companions join.
+翡翠狼，銀色飾邊，真實寶石光澤，邊緣增強，具有動物般生命力的神秘生物，內部微弱閃光，狂野而兇猛的外觀，深邃且豐富的神秘夜間森林，響亮而悲傷的嚎叫，奔馳，翡翠狼逐漸增多，數量一點點增加，速度逐漸加快，隨著更多同伴加入，綠色光芒變得愈發強烈。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088786652156350464/img/Q_pnjqYPQy70d9F8.jpg" width="600" alt="Glowing Emerald Wolf Pack Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088786652156350464/img/Q_pnjqYPQy70d9F8.jpg" width="600" alt="發光翡翠狼群動畫">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9254)**
 
 **作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **來源:** [Link](https://x.com/makoto_so/status/2088786721601405439) | **發布時間:** Aug 16, 2026
 
 ---
-### Cinematic Emerald Wolf Gemstone
+### 電影級翡翠狼寶石
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed cinematic video prompt featuring wolves made of emeralds and silver with realistic lighting effects.
+> 一個精細的電影級影片提示詞，呈現由翡翠與銀飾打造的狼，並具備逼真的光影效果。
 
 #### 📝 提示詞
 
 ```
-Animal made of emerald with silver trim, wolf, real gemstone shine, edge emphasis, as animal-like as possible, looking like it's about to move, food is raw emerald stones, gnawing, stones overflowing, emerald wolf cub gnawing, parent wolf's gaze of affection, eyes are somehow gentle, a wild scene of the emerald wolf cub's mouth being large and somewhat heartwarming, finally a fade-out to sleep, howling can be heard.
+由翡翠與銀飾邊框構成的動物，狼，真實的寶石光澤，邊緣強調，盡可能呈現動物質感，看起來隨時會動，食物是原始翡翠原石，啃咬，寶石溢出，翡翠幼狼在啃咬，母狼充滿愛意的凝視，眼神顯得溫柔，翡翠幼狼張大嘴巴的野性場景，帶有一絲溫馨感，最後淡出進入睡眠，可以聽到狼嚎聲。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="Cinematic Emerald Wolf Gemstone">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="電影級翡翠狼寶石">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9257)**
 
 **作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **來源:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **發布時間:** Aug 16, 2026
 
 ---
-### Grok Humanoid Robot Speaking
+### Grok 人形機器人說話
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt describing a Grok humanoid robot speaking with specific physical features and natural movement.
+> 一段詳細的影片提示詞，描述 Grok 人形機器人說話時的特定身體特徵與自然動作。
 
 #### 📝 提示詞
 
 ```
-The Grok humanoid robot speaks and introduces himself. He has black molded slightly waved hair, snug short silver t-shirt with G and xAI logo, silver and black belt, black pants and boots, and bright blue eyes. His mouth opens and closes naturally as he speaks, head moves slightly,...
+Grok 人形機器人正在說話並進行自我介紹。他留著黑色模壓微捲的頭髮，身穿合身的銀色短袖 T 恤，上面印有 G 和 xAI 的標誌，配戴銀黑相間的腰帶，穿著黑色長褲與靴子，擁有一雙明亮的藍色眼睛。當他說話時，嘴巴自然地開合，頭部也會微微擺動，...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781703229911040/img/PGz9a9i5Q0s3Cg6A.jpg" width="600" alt="Grok Humanoid Robot Speaking">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088781703229911040/img/PGz9a9i5Q0s3Cg6A.jpg" width="600" alt="Grok 人形機器人說話">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9314)**
 
 **作者:** [Leah Johnson](https://x.com/LeahJoh5652391) | **來源:** [Link](https://x.com/LeahJoh5652391/status/2088781726898426101) | **發布時間:** Aug 16, 2026
 
 ---
-### Cinematic Emotional Dialogue Scene
+### 電影感情感對話場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-stage prompt workflow for creating a cinematic drama scene, focusing on handheld camera work, micro-expressions, and emotional continuity between shots.
+> 一套用於創作電影感戲劇場景的多階段提示詞工作流，專注於手持攝影、微表情捕捉以及鏡頭間的情感連貫性。
 
 #### 📝 提示詞
 
 ```
-A man and a woman jokingly discuss how they think they were about to fall in love before they were separated. They are joking to hide that they actually mean it. Insert some pauses to make it seem more natural. Cinematic, prestige level quality directing and cinematography. Establishing shot, Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices.
+一男一女半開玩笑地討論著，在他們分開之前，他們以為自己差點就要墜入愛河了。他們用玩笑來掩飾內心的真心話。加入一些停頓，讓對話顯得更自然。電影級別的導演與攝影品質。包含建立鏡頭、緊湊的特寫鏡頭以及用於增強情感共鳴的手持攝影。不使用廣角鏡頭。無背景音樂。臉部的微表情比說話的音量更能傳達主題。
 
-Cinematic, prestige level quality directing and cinematography. Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices. The woman's eyes search for the man's response in the silence for two beats. The man then says he'd like that and they continue to discuss how falling in love might better than fighting all the time about whose fault it was that they're not together.
+電影級別的導演與攝影品質。緊湊的特寫鏡頭與用於增強情感共鳴的手持攝影。不使用廣角鏡頭。無背景音樂。臉部的微表情比說話的音量更能傳達主題。女子在沉默中注視著男子的反應，持續兩拍。隨後男子表示他會喜歡那樣，接著他們繼續討論墜入愛河或許比總是爭吵是誰的錯才導致他們無法在一起要好得多。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786866202037_pzd50h_HPzU98KW8AADwbU.png" width="600" alt="Cinematic Emotional Dialogue Scene">
+<img src="https://cms-assets.youmind.com/media/1786866202037_pzd50h_HPzU98KW8AADwbU.png" width="600" alt="電影感情感對話場景">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9242)**
 
 **作者:** [Rob Allan](https://x.com/allan_robII) | **來源:** [Link](https://x.com/allan_robII/status/2088778581090439582) | **發布時間:** Aug 16, 2026
 
 ---
-### Avalanche Cave Conversation Scene
+### 雪崩洞穴對話場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video scene featuring a man and a woman in a blue glacial ice cave, sharing a moment of humorous vulnerability after an avalanche.
+> 一段電影感十足的影片場景，描述一男一女在藍色冰川洞穴中，在雪崩後分享一段幽默且脆弱的時刻。
 
 #### 📝 提示詞
 
 ```
-A man and a woman sitting in a cave formed by an avalanche lit by a small open flame propane camping burner. They jokingly discuss how they think they were about to fall in love before the avalanche as the shadows play on the glacial blue ice walls surrounding them. They are joking to hide that they actually mean it. Insert some pauses to make it seem more natural. Cinematic, prestige level quality directing and cinematography. Establishing shot, Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices.
+一男一女坐在由雪崩形成的洞穴中，由一個小型開放式丙烷露營爐點亮。他們開玩笑地討論在雪崩前他們以為自己即將墜入愛河，同時陰影在環繞他們的冰川藍冰牆上閃爍。他們透過開玩笑來掩飾內心的真心話。加入一些停頓，使對話顯得更自然。電影級別的導演與攝影品質。包含建立鏡頭、緊湊的特寫鏡頭以及手持攝影以增強情感共鳴。不使用廣角鏡頭。無背景音樂。臉部的細微表情比說話的音量更能傳達主題。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088767536498139136/img/PWgeR9Dn4NnV3T-s.jpg" width="600" alt="Avalanche Cave Conversation Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088767536498139136/img/PWgeR9Dn4NnV3T-s.jpg" width="600" alt="雪崩洞穴對話場景">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9248)**
 
 **作者:** [Rob Allan](https://x.com/allan_robII) | **來源:** [Link](https://x.com/allan_robII/status/2088767552935891355) | **發布時間:** Aug 15, 2026
 
 ---
-### Tesla AI Landing Page Video Design
+### Tesla AI 登陸頁面影片設計
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic landing page design for Tesla AI featuring deep charcoal backgrounds and futuristic glass UI elements, optimized for smooth video motion.
+> 一款為 Tesla AI 設計的電影級登陸頁面，採用深炭灰色背景與未來感玻璃 UI 元素，並針對流暢的影片動態進行了優化。
 
 #### 📝 提示詞
 
 ```
-Landing page hero section design for Tesla AI, deep charcoal to near-black background, oversized immersive photographic imagery, rich atmospheric depth, cool cyan and steel blue with soft amber accents, soft volumetric haze, pronounced cinematic contrast, subtle translucent glass UI elements, elegant refined typography, asymmetric composition, generous negative space, ultra-premium futuristic aesthetic, ultra high detail
+Tesla AI 登陸頁面首屏設計，深炭灰至近黑色的背景，超大沉浸式攝影圖像，豐富的氛圍深度，冷青色與鋼藍色搭配柔和的琥珀色點綴，柔和的體積霧感，鮮明的電影級對比，細膩的半透明玻璃 UI 元素，優雅精緻的排版，不對稱構圖，充足的留白，極致奢華的未來感美學，超高細節呈現
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088705704584769536/img/52mMFnwkTW01jSCN.jpg" width="600" alt="Tesla AI Landing Page Video Design">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088705704584769536/img/52mMFnwkTW01jSCN.jpg" width="600" alt="Tesla AI 登陸頁面影片設計">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9252)**
 
 **作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2088755110658842971) | **發布時間:** Aug 15, 2026
 
 ---
-### Grok Humanoid Robot in Carhartt Jumpsuit
+### 穿著 Carhartt 連身工作服的 Grok 人形機器人
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt for Grok Imagine showing a humanoid robot wearing branded workwear and high-top sneakers in an industrial environment.
+> 這是一個適用於 Grok Imagine 的影片提示詞，展示了一位穿著品牌工作服與高筒運動鞋的人形機器人，場景設定在工業環境中。
 
 #### 📝 提示詞
 
 ```
-The Grok humanoid robot wearing a blue Carhartt-style jumpsuit with short sleeves featuring the Xai logo, a baseball cap with the same Xai logo, and blue Converse high top sneakers. Keep the overall pose, industrial background.
+穿著藍色 Carhartt 風格短袖連身工作服的 Grok 人形機器人，工作服上印有 Xai 標誌，頭戴印有相同 Xai 標誌的棒球帽，並穿著藍色 Converse 高筒運動鞋。請保持整體姿勢與工業背景。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088746691541483520/img/1ekaE54PifpTcg9O.jpg" width="600" alt="Grok Humanoid Robot in Carhartt Jumpsuit">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088746691541483520/img/1ekaE54PifpTcg9O.jpg" width="600" alt="穿著 Carhartt 連身工作服的 Grok 人形機器人">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9244)**
 
 **作者:** [Leah Johnson](https://x.com/LeahJoh5652391) | **來源:** [Link](https://x.com/LeahJoh5652391/status/2088746704321613918) | **發布時間:** Aug 15, 2026
 
 ---
-### Multiverse Galaxy Waves Video
+### 多元宇宙銀河波影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cosmic video prompt visualizing galactic waves, nebulas, and interacting solar systems in pink and gold glow.
+> 一個呈現銀河波、星雲以及相互作用的太陽系之宇宙影片提示詞，以粉色與金色的光芒為特色。
 
 #### 📝 提示詞
 
 ```
-Show me interpower between multi universes and ours cosmoreal colours golden sky blue white shinning pink glow and many solar systems nebulaes and galaxy gravitron waves use your fiction
+請為我展示多元宇宙與我們宇宙之間的交互作用，運用宇宙真實色彩、金色、天藍色、白色、閃耀的粉色光芒，以及眾多太陽系、星雲和銀河重力波，發揮你的想像力。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727149066768384/img/1_br_16e4kez3VrL.jpg" width="600" alt="Multiverse Galaxy Waves Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088727149066768384/img/1_br_16e4kez3VrL.jpg" width="600" alt="多元宇宙銀河波影片">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9246)**
 
 **作者:** [KENDREIK Artist](https://x.com/kendreik) | **來源:** [Link](https://x.com/kendreik/status/2088727195682292113) | **發布時間:** Aug 15, 2026
 
 ---
-### Alien Animatronic Horror Jump Scare
+### 外星電子動畫恐怖跳躍驚嚇
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed two-part prompt describing a high-scale animatronic alien predator and a specific jump-scare video motion instruction.
+> 一份詳細的兩部分提示詞，描述了高規格的電子動畫外星掠食者，以及具體的跳躍驚嚇影片運鏡指令。
 
 #### 📝 提示詞
 
 ```
-A massive alien apex predator creature, built as a full-scale physical animatronic. Glistening black fiberglass shell, interlocking metal plates, and thick hydraulic rods controlling the limbs. Wet slime glaze, dripping drool from acrylic resin teeth. Harsh dramatic rim lighting, dark spaceship corridor background, shot on anamorphic lens, 1980s cinematic sci-fi horror. Simple Video Prompt: He jumps over the camera as the camera is left looking at an empty interior of a space ship.
+一隻巨大的外星頂級掠食生物，以全尺寸實體電子動畫打造。閃爍著光澤的黑色玻璃纖維外殼、相互咬合的金屬板，以及控制四肢的厚重液壓桿。覆蓋著濕潤的黏液，壓克力樹脂牙齒上滴落著口水。強烈的戲劇性輪廓光，背景為黑暗的太空船走廊，使用變形鏡頭拍攝，呈現 1980 年代電影級科幻恐怖風格。簡易影片提示詞：當鏡頭停留在太空船內部的空景時，牠跳過鏡頭。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088719871185911808/img/pD1zE3IqWGKZniQG.jpg" width="600" alt="Alien Animatronic Horror Jump Scare">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088719871185911808/img/pD1zE3IqWGKZniQG.jpg" width="600" alt="外星電子動畫恐怖跳躍驚嚇">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9253)**
 
 **作者:** [NYXEN](https://x.com/NYXEN_77) | **來源:** [Link](https://x.com/NYXEN_77/status/2088719909866160132) | **發布時間:** Aug 15, 2026
 
 ---
-### Red Sea Parting Cinematic
+### 紅海分開電影級畫面
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dramatic animation prompt depicting the biblical scene of the Red Sea parting for the Israelites.
+> 一個戲劇性的動畫提示詞，描繪了聖經中紅海為以色列人分開的場景。
 
 #### 📝 提示詞
 
 ```
-Imagine the parting of the Red Sea and the Israelites passing and the Egyptians chariots sinking
+想像紅海分開、以色列人通過以及埃及戰車沉沒的畫面
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088682513963372544/img/UqXXSPblOLlayEYC.jpg" width="600" alt="Red Sea Parting Cinematic">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088682513963372544/img/UqXXSPblOLlayEYC.jpg" width="600" alt="紅海分開電影級畫面">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9247)**
 
 **作者:** [Hany N. Takla](https://x.com/HanyNTakla2) | **來源:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **發布時間:** Aug 15, 2026
 
 ---
-### Qajar Court Group Portrait
+### 卡扎爾王朝宮廷團體肖像
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for a frozen formal group portrait in the style of the Qajar court, capturing a photographer and the group's poses.
+> 一個以卡扎爾王朝宮廷風格呈現的靜態正式團體肖像提示詞，捕捉了攝影師與團體成員的姿勢。
 
 #### 📝 提示詞
 
 ```
-The final frozen formal group portrait after the photo is taken, bright flash residual, everyone holding the perfect Qajar court pose with slight smiles or serious faces, the photographer still behind the camera but the focus is the group. Same scene...
+照片拍攝完成後最終呈現的靜態正式團體肖像，帶有明亮的閃光燈餘光，每個人都保持著完美的卡扎爾王朝宮廷姿勢，面帶微笑或神情嚴肅，攝影師仍在相機後方，但焦點在於團體本身。同一場景...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088645576078594048/img/tuDCJeWa2-Xbe8dU.jpg" width="600" alt="Qajar Court Group Portrait">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088645576078594048/img/tuDCJeWa2-Xbe8dU.jpg" width="600" alt="卡扎爾王朝宮廷團體肖像">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9249)**
 
 **作者:** [Cyperpienso](https://x.com/cyperpienso) | **來源:** [Link](https://x.com/cyperpienso/status/2088645617228857732) | **發布時間:** Aug 15, 2026
 
 ---
-### Closing White Line Video Loop
+### 閉合白線影片循環
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A technical video prompt designed to create a specific closing animation effect that loops back to the original reference image.
+> 這是一個技術性影片提示詞，旨在創建特定的閉合動畫效果，並循環回到原始參考圖像。
 
 #### 📝 提示詞
 
 ```
-Only use my image, to have the white line above it to “close” and the video to be back to this image
+僅使用我的圖像，讓上方的白線「閉合」，並使影片回到此圖像狀態
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088640902952599552/img/6zzuREmHS5z03NCM.jpg" width="600" alt="Closing White Line Video Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088640902952599552/img/6zzuREmHS5z03NCM.jpg" width="600" alt="閉合白線影片循環">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9245)**
 
 **作者:** [Ember Art](https://x.com/Ember8184Art) | **來源:** [Link](https://x.com/Ember8184Art/status/2088640917339029722) | **發布時間:** Aug 15, 2026
 
 ---
-### Storybook Background Vibe
+### 故事書風格背景氛圍
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a cozy and peaceful storybook-style background for a relaxing Saturday vibe.
+> 為愜意的週六時光生成舒適且寧靜的故事書風格背景。
 
 #### 📝 提示詞
 
 ```
-A good vibe, a storybook background, and a break from all the hustle and bustle.
+美好的氛圍、故事書般的背景，以及遠離塵囂的片刻休憩。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088544687896317952/img/1u1vR3DTCRsOLx-o.jpg" width="600" alt="Storybook Background Vibe">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088544687896317952/img/1u1vR3DTCRsOLx-o.jpg" width="600" alt="故事書風格背景氛圍">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9255)**
 
 **作者:** [Scarlett](https://x.com/scarlettzen1) | **來源:** [Link](https://x.com/scarlettzen1/status/2088544747900059948) | **發布時間:** Aug 15, 2026
 
 ---
-### Golden Light Snout Interaction
+### 金色光影下的鼻尖互動
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A poetic video prompt capturing a tactile moment with dancing golden light and character interaction.
+> 一段富有詩意的影片提示詞，捕捉了金色光影舞動與角色互動之間細膩的觸感瞬間。
 
 #### 📝 提示詞
 
 ```
-her fingers almost touching its snout as golden light dances across both of them
+她的手指幾乎觸碰到牠的鼻尖，金色的光影在兩人身上舞動
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088487362472837120/img/z7hpOYjISu7I1mtg.jpg" width="600" alt="Golden Light Snout Interaction">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088487362472837120/img/z7hpOYjISu7I1mtg.jpg" width="600" alt="金色光影下的鼻尖互動">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9173)**
 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2088488663302779227) | **發布時間:** Aug 15, 2026
 
 ---
-### Late Night Adventure Sneak Out
+### 深夜冒險：悄悄溜出門
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic prompt for generating a video of a child cautiously sneaking out for a late-night adventure while their mother sleeps.
+> 這是一個電影級的提示詞，用於生成一段關於孩子在母親熟睡時，小心翼翼地溜出門進行深夜冒險的影片。
 
 #### 📝 提示詞
 
 ```
-Checking to make sure mother's asleep before sneaking out for a late night adventure.
+確認母親已經熟睡後，悄悄溜出門展開一場深夜冒險。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088485262443900928/img/FHHwZMwSUBc8WhiJ.jpg" width="600" alt="Late Night Adventure Sneak Out">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088485262443900928/img/FHHwZMwSUBc8WhiJ.jpg" width="600" alt="深夜冒險：悄悄溜出門">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9185)**
 
 **作者:** [Christopher Gwinn | Grindhouse Glitch](https://x.com/ChrisGwinnLA) | **來源:** [Link](https://x.com/ChrisGwinnLA/status/2088485933494751406) | **發布時間:** Aug 15, 2026
 
 ---
-### Coffee Shop Bravery Dialogue
+### 咖啡廳裡的勇氣對話
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-quality cinematic prompt for a dialogue-heavy scene using tight close-ups and handheld camera work to convey emotion.
+> 這是一個高品質的電影感提示詞，適用於對話密集的場景，透過特寫鏡頭與手持攝影來傳達情感。
 
 #### 📝 提示詞
 
 ```
-A man and a woman talking in a coffee shop having a discussion about the value of bravery in a world that rewards cowardice. Cinematic, prestige level quality directing and cinematography. Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices.
+一男一女在咖啡廳裡對話，討論在一個獎勵怯懦的世界中，勇氣的價值。電影級別，具備頂尖的導演與攝影水準。運用緊湊的特寫鏡頭與手持攝影來產生情感共鳴。無廣角鏡頭。無背景音樂。比起說話的音量，兩人臉上的微表情更能深刻傳達主題。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088480964515123200/img/bibzKm-q7Urs6URB.jpg" width="600" alt="Coffee Shop Bravery Dialogue">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088480964515123200/img/bibzKm-q7Urs6URB.jpg" width="600" alt="咖啡廳裡的勇氣對話">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9171)**
 
 **作者:** [Rob Allan](https://x.com/allan_robII) | **來源:** [Link](https://x.com/allan_robII/status/2088481490740916582) | **發布時間:** Aug 15, 2026
 
 ---
-### Modern MGM intro remake
+### 現代版 MGM 片頭重製
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt to generate a modern and high-bass version of the iconic MGM lion roar intro.
+> 一個用於生成現代化且具備強勁低音效果的經典 MGM 獅子吼片頭的提示詞。
 
 #### 📝 提示詞
 
 ```
-A modern version of the mgm intro with a louder roar extra bass is how I feel inside all the time
+這是一個現代版的 MGM 片頭，有著更響亮的吼聲與額外的低音，這正是我內心深處時刻感受到的聲音。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088481167909552128/img/Vl_YF05gwmNDq_Ci.jpg" width="600" alt="Modern MGM intro remake">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088481167909552128/img/Vl_YF05gwmNDq_Ci.jpg" width="600" alt="現代版 MGM 片頭重製">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9170)**
 
 **作者:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **來源:** [Link](https://x.com/AMERICA250e9/status/2088481205649854466) | **發布時間:** Aug 15, 2026
 
 ---
-### Friendly Dragon Cliffside Greeting
+### 懸崖邊的友善飛龍問候
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a person on a cliff edge welcoming a dragon with a gentle, inviting gesture.
+> 一段電影質感的影片提示詞：描述一個人站在懸崖邊，以溫柔且熱情的姿勢迎接飛龍。
 
 #### 📝 提示詞
 
 ```
-i'm standing tall on the cliff edge, one hand reaching out toward the dragon with an open palm, gentle and inviting, like i'm welcoming an old friend.
+我挺拔地站在懸崖邊，一隻手掌心向上向飛龍伸出，動作溫柔而熱情，就像在迎接一位老朋友。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088479193356984320/img/452nGQnbzrkX-2WJ.jpg" width="600" alt="Friendly Dragon Cliffside Greeting">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088479193356984320/img/452nGQnbzrkX-2WJ.jpg" width="600" alt="懸崖邊的友善飛龍問候">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9174)**
 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2088479596656177372) | **發布時間:** Aug 15, 2026
 
 ---
-### Gentle Dragon Bond at Sunset
+### 夕陽下的溫柔龍之羈絆
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An evocative and poetic video prompt describing a peaceful moment between a girl and a shimmering dragon at sunset by the ocean.
+> 這是一個充滿詩意與感染力的影片提示詞，描述了女孩與閃爍著光芒的龍在夕陽下的海邊共度的寧靜時刻。
 
 #### 📝 提示詞
 
 ```
-the dragon’s head slowly lowers toward her open hand, scales shimmering with soft light as the wind gently lifts her long hair and the hem of her flowing dress, its wings softly unfurling and catching the sunset glow while the ocean waves roll quietly behind them, the dragon’s eyes blink once with warmth and its mouth curves into a slow knowing smile, her fingers almost touching its snout as golden light dances across both of them… pure gentle bond, no big movements.
+龍的頭部緩緩向她張開的手掌靠近，鱗片在柔和的光線下閃爍，微風輕輕拂動她的長髮與飄逸的裙擺。龍的翅膀輕柔地舒展，捕捉著夕陽的餘暉，而身後的海浪靜靜地翻湧。龍的眼睛溫暖地眨了一下，嘴角勾起一抹緩慢而心領神會的微笑，她的指尖幾乎觸碰到龍的吻部，金色的光芒在兩者之間舞動……展現出純粹而溫柔的羈絆，沒有劇烈的動作。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088476460897972224/img/sLVfIOeXg862Y-dp.jpg" width="600" alt="Gentle Dragon Bond at Sunset">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088476460897972224/img/sLVfIOeXg862Y-dp.jpg" width="600" alt="夕陽下的溫柔龍之羈絆">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9168)**
 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2088476669673627890) | **發布時間:** Aug 15, 2026
 
 ---
-### SpaceX Mars Landing Page Animation
+### SpaceX 火星登陸頁面動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-end landing page design for a SpaceX Starship landing on Mars at dusk, featuring muted champagne tones and cinematic depth ready for video motion.
+> 為 SpaceX Starship 火星黃昏登陸場景設計的高端登陸頁面，採用柔和的香檳色調與具備影片動態效果的電影級景深。
 
 #### 📝 提示詞
 
 ```
-Landing page hero section design for SpaceX Starship landing on Mars at dusk, soft warm off-white and pale stone canvas, oversized clean photographic imagery with gentle natural light, elegant muted champagne and soft gray tones with subtle cyan accents, ultra-clean composition, sophisticated high-end typography, subtle floating glass elements, generous negative space, soft diffused lighting, minimal technical details, polished luxury product aesthetic, calm and refined atmosphere, ultra-high detail 12k quality, cinematic depth ready for smooth video motion
+SpaceX Starship 火星黃昏登陸頁面首屏設計，採用柔和溫暖的米白色與淡石色畫布，搭配大尺寸清晰攝影圖像與柔和自然光，優雅的柔和香檳色與淺灰色調，點綴細膩的青色，極簡構圖，精緻的高端排版，細微的懸浮玻璃元素，寬裕的留白，柔和的漫射光，極簡的技術細節，精緻的奢華產品美學，平靜而優雅的氛圍，12k 超高畫質細節，具備流暢影片動態效果的電影級景深
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088337507327074304/img/4tOfZhmL6_bVVNmK.jpg" width="600" alt="SpaceX Mars Landing Page Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088337507327074304/img/4tOfZhmL6_bVVNmK.jpg" width="600" alt="SpaceX 火星登陸頁面動畫">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9175)**
 
 **作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **發布時間:** Aug 14, 2026
 
 ---
-### Dragon Day-to-Night Transition
+### 巨龍晝夜交替
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematographic prompt involving a dragon flying over the Grand Canyon with a day-to-night seamless transition.
+> 一個極具細節的電影級提示詞，描述一條巨龍飛越大峽谷，並呈現晝夜無縫交替的場景。
 
 #### 📝 提示詞
 
 ```
-The awestruck man sits on the Grand Canyon edge holding his steaming coffee, eyes wide with wonder as the exact golden Chinese lung-style dragon with massive scientifically realistic wings soars alone. The golden dragon breathes a powerful stream of fire directly toward the rising sun above the horizon. Then the dragon banks and flies toward the left side of the frame as a night skyline with stars and city lights begins to appear on the far left, creating a seamless day-to-night transition like crossing time zones — the dragon flies between the two worlds. Keep the enormous wings fully extended for lift, ultra-realistic detail, intense eyes, sun-reflecting golden scales, continuous smooth flight motion, epic lighting.
+一位滿懷敬畏的男子坐在大峽谷邊緣，手中拿著冒著熱氣的咖啡，雙眼因驚嘆而睜大。一條精緻的金色中式龍，擁有巨大的科學寫實風格雙翼，正獨自翱翔。這條金龍向著地平線上的旭日噴射出一道強力的火焰。隨後，巨龍轉向並向畫面左側飛去，此時畫面最左側開始浮現出星空與城市燈火的夜景，創造出如同跨越時區般的晝夜無縫交替效果——巨龍穿梭於兩個世界之間。保持巨大的雙翼完全展開以提供升力，呈現超寫實細節、銳利的眼神、反射陽光的金色鱗片、持續流暢的飛行動作以及史詩般的燈光效果。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088381582834892800/img/YWP9hBcWdfxDtEw5.jpg" width="600" alt="Dragon Day-to-Night Transition">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088381582834892800/img/YWP9hBcWdfxDtEw5.jpg" width="600" alt="巨龍晝夜交替">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9167)**
 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2088382010322772177) | **發布時間:** Aug 14, 2026
 
 ---
-### Starship loading process
+### Starship 裝載流程
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A technical and realistic prompt for animating a SpaceX Starship being loaded onto a transport trailer using claw arms.
+> 一個關於使用機械爪將 SpaceX Starship 裝載至運輸拖車的技術性且逼真的動畫提示詞。
 
 #### 📝 提示詞
 
 ```
-Using the claw arms load the Starship slowly onto an empty transport trailer truck then driven away from launch site
+使用機械爪將 Starship 緩慢地裝載到空的運輸拖車上，隨後將其從發射場駛離
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088366889076457473/img/pdzOQHfq_DfORIrN.jpg" width="600" alt="Starship loading process">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088366889076457473/img/pdzOQHfq_DfORIrN.jpg" width="600" alt="Starship 裝載流程">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9169)**
 
 **作者:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **來源:** [Link](https://x.com/SuperGeekCRC/status/2088366936958660710) | **發布時間:** Aug 14, 2026
 
 ---
-### SpaceX orbital refueling design
+### SpaceX 軌道加油站設計
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional architectural and cinematic prompt for a SpaceX refueling depot featuring luxury product aesthetics and smooth camera motion.
+> 一款專業的建築與電影級 SpaceX 加油站提示詞，具備奢華產品美學與流暢的運鏡效果。
 
 #### 📝 提示詞
 
 ```
-Landing page hero section design for SpaceX orbital refueling depot, soft warm off-white and pale stone canvas, oversized clean photographic imagery with gentle natural light, elegant muted champagne and soft gray tones with subtle cyan accents, ultra-clean composition, sophisticated high-end typography, subtle floating glass elements, generous negative space, soft diffused lighting, minimal technical details, polished luxury product aesthetic, calm and refined atmosphere, ultra high detail 12k quality, cinematic depth ready for smooth video motion. Slow cinematic camera push-in, subtle floating particles and soft light movement, gentle atmospheric haze drifting, smooth elegant motion, premium cinematic feel, ultra-high detail, calm and refined atmosphere
+SpaceX 軌道加油站登陸頁面首屏設計，採用柔和溫暖的米白色與淺石色畫布，超大尺寸的清晰攝影圖像搭配柔和自然光，優雅的柔和香檳色與淺灰色調，點綴細緻的青色，極簡構圖，精緻的高端排版，細膩的懸浮玻璃元素，寬裕的留白，柔和的漫射光，極簡的技術細節，拋光奢華產品美學，平靜而優雅的氛圍，12k 超高畫質，為流暢的影片運鏡做好準備。緩慢的電影級鏡頭推進，細微的懸浮粒子與柔和的光影流動，輕柔的氛圍霧氣飄散，流暢優雅的動態，頂級電影質感，超高細節，平靜而優雅的氛圍
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088331909390852098/img/HbuWOalEbijvW4s7.jpg" width="600" alt="SpaceX orbital refueling design">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088331909390852098/img/HbuWOalEbijvW4s7.jpg" width="600" alt="SpaceX 軌道加油站設計">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9172)**
 
 **作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2088362524987236421) | **發布時間:** Aug 14, 2026
 
 ---
-### Starship Mars Landing Animation
+### Starship 火星登陸動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for a SpaceX Starship landing on Mars, featuring a cinematic push-in and atmospheric effects designed for video motion.
+> 一份關於 SpaceX Starship 火星登陸的詳細提示詞，包含專為影片動態設計的電影級推鏡與大氣效果。
 
 #### 📝 提示詞
 
 ```
-Landing page hero section design for SpaceX Starship landing on Mars at dusk, deep charcoal to near-black background, oversized immersive photographic imagery, rich atmospheric depth, warm copper and amber highlights with cool cyan and steel blue accents, soft volumetric haze, pronounced cinematic contrast, subtle translucent glass UI elements, elegant refined typography, delicate technical annotations, asymmetric composition, generous negative space, soft bloom, tactile film grain, ultra-premium futuristic aesthetic, ultra high detail 12k quality, cinematic depth ready for smooth video motion. Slow cinematic camera push-in, subtle floating particles and soft light movement, gentle atmospheric haze drifting, smooth elegant motion, premium cinematic feel, ultra high detail, calm and refined atmosphere
+SpaceX Starship 火星登陸頁面首屏設計，場景設定於黃昏，深炭色至近乎黑色的背景，超大沉浸式攝影圖像，豐富的大氣深度，溫暖的銅色與琥珀色高光搭配冷青色與鋼藍色點綴，柔和的體積霧，鮮明的電影級對比，精緻的半透明玻璃 UI 元素，優雅洗鍊的排版，細膩的技術註解，不對稱構圖，充足的留白，柔和的光暈，真實的底片顆粒感，頂級未來主義美學，12k 超高畫質，為流暢的影片動態做好準備。緩慢的電影級鏡頭推入，細微的漂浮粒子與柔和的光線移動，輕柔的大氣霧氣飄動，流暢優雅的動態，頂級電影質感，超高細節，冷靜而精緻的氛圍。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088323317975674880/img/WyD8QUZXAglo-Q80.jpg" width="600" alt="Starship Mars Landing Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088323317975674880/img/WyD8QUZXAglo-Q80.jpg" width="600" alt="Starship 火星登陸動畫">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9176)**
 
 **作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2088323673103208482) | **發布時間:** Aug 14, 2026
 
 ---
-### Australian Collie Ocean Shore Animation
+### 澳洲牧羊犬海岸動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Captures a majestic Australian Collie with striking ocean eyes playing on the shore, focusing on lighting and its steady, loyal gaze.
+> 捕捉一隻擁有迷人海洋雙眸的澳洲牧羊犬在海岸邊嬉戲的畫面，著重於光影表現及其堅定、忠誠的凝視。
 
 #### 📝 提示詞
 
 ```
-Australian collie, ocean eyes that catch the light like sun on water… sleek coat, alert ears, that steady gaze that says “I’m here for you.” plays with tennis balls on the ocean shore
+澳洲牧羊犬，那雙如陽光灑在水面般閃爍的海洋雙眸……柔順的毛髮、警覺的雙耳，以及那句「我會一直守護你」般的堅定凝視。在海岸邊玩著網球。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088315906703101952/img/ZnGqTwKezCtzwx5R.jpg" width="600" alt="Australian Collie Ocean Shore Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088315906703101952/img/ZnGqTwKezCtzwx5R.jpg" width="600" alt="澳洲牧羊犬海岸動畫">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9183)**
 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2088316174509515150) | **發布時間:** Aug 14, 2026
 
 ---
-### Ebony Dragon Tea Party Animation
+### 烏龍茶會動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a video of a growing dragon elegantly holding a teacup with its black claws, blending mythical power with dainty movements.
+> 生成一段影片，畫面中一隻成長中的龍用黑色的利爪優雅地拿著茶杯，將神話力量與細膩動作完美融合。
 
 #### 📝 提示詞
 
 ```
-dragon grows up to be big and daintily holds own teacup in ebony black fingerclaw
+龍長大後用烏黑的指爪優雅地拿著自己的茶杯
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088303551034372096/img/sbfUg6H0e2qT3QhE.jpg" width="600" alt="Ebony Dragon Tea Party Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088303551034372096/img/sbfUg6H0e2qT3QhE.jpg" width="600" alt="烏龍茶會動畫">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9180)**
 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2088303946016153820) | **發布時間:** Aug 14, 2026
 
 ---
-### Noah's Flood Starship Video Prompt
+### Noah's Flood Starship 影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dramatic cinematic video prompt showing a starship leaving Earth during a global flood that submerges the pyramids, blending biblical and sci-fi imagery.
+> 這是一個充滿戲劇張力的電影感影片提示詞，描繪了一艘太空船在諾亞方舟式的大洪水淹沒金字塔時離開地球的場景，將聖經意象與科幻元素完美融合。
 
 #### 📝 提示詞
 
 ```
-A woman and a man aboard an open starship charting off planet Earth towards the sun, watching the waters prevail over the world as in Noah’s flood, massive floodwaters covering the pyramids and submerging the Earth below them only a few on the planet, remain the ones that were warned and made vessels for the sea
+一男一女搭乘一艘開放式太空船，正從地球出發飛向太陽。他們俯瞰著洪水淹沒世界，如同諾亞方舟時期一般；巨大的洪水覆蓋了金字塔，將地球沒入水底。地球上僅存少數人，他們是那些受到警告並建造了海上船隻的人。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088289936520757248/img/LgWytKEgcs0PEpvQ.jpg" width="600" alt="Noah's Flood Starship Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088289936520757248/img/LgWytKEgcs0PEpvQ.jpg" width="600" alt="Noah's Flood Starship 影片提示詞">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9179)**
 
 **作者:** [Maria Of Mars](https://x.com/MariaGa68521784) | **來源:** [Link](https://x.com/MariaGa68521784/status/2088289952517759388) | **發布時間:** Aug 14, 2026
 
 ---
-### Luminous Humanoid Entity Animation
+### 發光人形實體動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal video prompt featuring a glowing humanoid entity against a dark abstract backdrop.
+> 一段超現實的影片提示詞，呈現一個在黑暗抽象背景下發光的人形實體。
 
 #### 📝 提示詞
 
 ```
-A surreal, luminous humanoid entity with glowing aura in a dark, abstract background.
+一個超現實、發光的人形實體，在黑暗的抽象背景中散發著光芒。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786779721376_i0zfwy_HPsF8rNbsAA7B9F.jpg" width="600" alt="Luminous Humanoid Entity Animation">
+<img src="https://cms-assets.youmind.com/media/1786779721376_i0zfwy_HPsF8rNbsAA7B9F.jpg" width="600" alt="發光人形實體動畫">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9178)**
 
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2088269525498384859) | **發布時間:** Aug 14, 2026
 
 ---
-### Pixel Art Looping Aesthetic
+### 像素藝術循環美學
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A video prompt creating a pixel art style scene with a looping aesthetic and a relatively still camera, inspired by Japanese song lyrics.
+> 一個影片提示詞，用於創作具有循環美學且鏡頭相對靜止的像素藝術風格場景，靈感源自日本歌曲歌詞。
 
 #### 📝 提示詞
 
 ```
-pixel art style, looping aesthetic, relatively still camera. I can no longer test the tires and heart I changed for you.
+像素藝術風格，循環美學，相對靜止的鏡頭。我再也無法測試為你更換的輪胎與心。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088180539593527296/img/i4HHRg60vuC2ni5p.jpg" width="600" alt="Pixel Art Looping Aesthetic">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088180539593527296/img/i4HHRg60vuC2ni5p.jpg" width="600" alt="像素藝術循環美學">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9187)**
 
 **作者:** [今井宏之](https://x.com/imaikaiimai) | **來源:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **發布時間:** Aug 14, 2026
 
 ---
-### Louvre Golden Hour Idol Video
+### 羅浮宮黃金時刻偶像影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An artistic video prompt of a bubbly female idol admiring the Louvre during golden hour with dynamic background responses.
+> 一個藝術感十足的影片提示詞，描述一位活潑的女偶像在黃金時刻欣賞羅浮宮，並伴隨動態背景反應。
 
 #### 📝 提示詞
 
 ```
-American female playfully admiring the louvre at golden hour, bubbly and expressive like a popular idol, but show subtle environmental tension artistic and thought-provoking, consistent overall composition but with dynamic background response to her presence
+一位美國女性在黃金時刻俏皮地欣賞羅浮宮，展現出如當紅偶像般活潑且富有表現力的特質，同時帶出微妙的環境張力，風格藝術且發人深省；整體構圖保持一致，背景會根據她的存在產生動態反應
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088153830563450880/img/_u2QzRzpHA1WodHc.jpg" width="600" alt="Louvre Golden Hour Idol Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088153830563450880/img/_u2QzRzpHA1WodHc.jpg" width="600" alt="羅浮宮黃金時刻偶像影片">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9095)**
 
 **作者:** [Jourdan Fernandez](https://x.com/VisualTreats) | **來源:** [Link](https://x.com/VisualTreats/status/2088154062902702543) | **發布時間:** Aug 14, 2026
 
 ---
-### Mars Habitat Lungs Activation
+### 火星棲息地「肺部」啟動
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Video prompt for activation of living water domes and habitats on Mars.
+> 用於啟動火星生命水穹頂與棲息地的影片提示詞。
 
 #### 📝 提示詞
 
 ```
-Show all them detach, each one landing in crater filling the craterand and activating Kennedy’s living water domes to covers the entire crater to the rim and new habitat, becoming the lungs for Mars
+展示所有模組分離，每一個都降落在隕石坑中並填滿坑洞，啟動 Kennedy 的生命水穹頂，使其覆蓋整個隕石坑至邊緣及新的棲息地，成為火星的「肺部」。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149826374680576/img/ehPk0YBSC0sinIAM.jpg" width="600" alt="Mars Habitat Lungs Activation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088149826374680576/img/ehPk0YBSC0sinIAM.jpg" width="600" alt="火星棲息地「肺部」啟動">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9092)**
 
 **作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2088149868288365028) | **發布時間:** Aug 14, 2026
 
 ---
-### Vintage Jazz Singer
+### 復古爵士歌手
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for a vintage big band performance with a passionate crooner.
+> 一段關於復古大樂團表演與深情歌手的詳細影片提示詞。
 
 #### 📝 提示詞
 
 ```
-The bald man in black suit and fedora sings passionately into the vintage microphone, mouth moving expressively as he croons, hand gesturing with soul, body swaying slightly to the music, fedora tilted, the big band orchestra behind him playing brass
+一位穿著黑色西裝、戴著軟呢帽的禿頭男子對著復古麥克風深情演唱，嘴型生動地隨著歌聲擺動，手勢充滿靈魂，身體隨著音樂輕輕搖擺，軟呢帽微微傾斜，身後的大樂團正演奏著銅管樂器
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149124071718912/img/OSlPpSt103JVK9Gf.jpg" width="600" alt="Vintage Jazz Singer">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088149124071718912/img/OSlPpSt103JVK9Gf.jpg" width="600" alt="復古爵士歌手">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9086)**
 
 **作者:** [pistacchione](https://x.com/Oldtool9) | **來源:** [Link](https://x.com/Oldtool9/status/2088149153813577744) | **發布時間:** Aug 14, 2026
 
 ---
-### Cinematic Time Traveler Portal Sequence
+### 電影級時空旅人傳送門序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive 15-second cinematic video sequence depicting a time traveler stepping through a temporal rift into space.
+> 一段 15 秒的完整電影級影片序列，描繪一名時空旅人穿過時空裂縫進入太空的過程。
 
 #### 📝 提示詞
 
 ```
-A continuous 15-second ultra-cinematic sequence, hyper-photorealistic with subtle surreal elements, shot on anamorphic lenses with fine 35mm film grain and gentle chromatic aberration, in the style of Christopher Nolan and Denis Villeneuve.
+一段 15 秒連續的超電影級序列，具備超寫實風格與細膩的超現實元素，採用變形鏡頭拍攝，帶有精緻的 35mm 底片顆粒感與輕微的色差，呈現 Christopher Nolan 與 Denis Villeneuve 的風格。
 
-Opening (0-3s): A solitary time traveler stands alone in an infinite dark void, wearing a weathered dark trench coat over intricate brass-and-leather chronosuit elements, long coat fabric and scarf stirring slightly as if in zero gravity. Their face is partially hidden by a reflective visor.
+開場 (0-3 秒)：一名孤獨的時空旅人站在無盡的黑暗虛空中，身穿一件歷經風霜的深色風衣，內搭精緻的黃銅與皮革材質時空裝甲，長風衣的衣角與圍巾在零重力下輕微飄動。他們的臉龐被反光面罩遮住了一部分。
 
-At 3 seconds a vertical seam of pure brilliant white-blue light tears open in front of them like fabric ripping. Cascading, overlapping layers of historical and future eras pour through: ancient Egyptian pyramids under desert sun, bustling 1920s jazz-age streets with Model Ts, towering neon-drenched 2080s cyberpunk megacity, and a misty primordial forest with massive trees. The layers swirl and fold into each other like liquid glass.
+第 3 秒時，一道純淨且明亮的藍白色垂直光縫像撕裂布料般在他們面前裂開。歷史與未來的重疊層如瀑布般湧出：沙漠烈日下的古埃及金字塔、1920 年代爵士樂時代熙熙攘攘的街道與福特 T 型車、高聳且霓虹閃爍的 2080 年代賽博龐克巨型城市，以及長滿參天大樹的迷霧原始森林。這些層次如液態玻璃般旋轉並交織在一起。
 
-4-9s: The traveler steps forward into the rift. Camera executes a smooth, accelerating tracking orbit around them as the temporal layers intensify, architecture and landscapes melting and reforming, particles of glowing clockwork gears, sand, neon particles, and leaves swirling in realistic fluid physics. Wind and energy pull at the coat and hair dramatically.
+4-9 秒：旅人向前邁步進入裂縫。攝影機以平滑且加速的軌道環繞拍攝，隨著時空層次加劇，建築與景觀不斷融化並重組，發光的鐘錶齒輪顆粒、沙子、霓虹粒子與落葉在真實的流體物理效果下旋轉。風與能量劇烈地拉扯著風衣與頭髮。
 
-9-12s: Everything accelerates into a chaotic, beautiful collapse toward a single point of intense light — the singularity. Camera begins pulling back rapidly.
+9-12 秒：一切加速向單一強光點——奇點——進行混亂而美麗的坍縮。攝影機開始快速後拉。
 
-12-15s: The singularity expands outward into a serene, breathtaking view of Earth from high orbit at golden hour, blue oceans and swirling white clouds glowing softly, the traveler now a tiny silhouette floating peacefully in the foreground, facing the planet. Soft volumetric god rays and atmospheric haze.
+12-15 秒：奇點向外擴張，呈現出黃金時刻從高軌道俯瞰地球的寧靜壯麗景色，藍色海洋與旋轉的白雲柔和地發光，旅人此時成為前景中一個平靜漂浮的小剪影，面朝地球。畫面中充滿柔和的體積光與大氣霧氣。
 
-Lighting: High contrast between deep blacks of the void and intense cool whites/blues of the portal, transitioning to warm golden sunlight. Specular highlights on metal and visor. Volumetric light rays throughout.
+燈光：虛空的深黑與傳送門強烈的冷白/藍色之間形成高對比，隨後過渡到溫暖的金色陽光。金屬與面罩上有鏡面高光。全程伴隨體積光束。
 
-Native audio design: Starts with deep low-frequency void rumble and faint mechanical ticking. Builds with electrical tearing and crackling as the portal opens, layered overlapping historical soundscapes (distant horses and market chatter, jazz saxophone, cyberpunk rain and neon hum, forest wind and birds), rising orchestral tension and ethereal tones, peaking in a pure resonant crystalline note at the singularity, then resolving into soft ambient space silence with a single distant heartbeat and gentle orbital hum.
+原生音效設計：以深沉的低頻虛空轟鳴聲與微弱的機械滴答聲開場。隨著傳送門開啟，加入電流撕裂與劈啪聲，並疊加歷史場景的音效（遠處的馬蹄聲與市場喧鬧聲、爵士薩克斯風、賽博龐克風格的雨聲與霓虹嗡嗡聲、森林風聲與鳥鳴），管弦樂的張力與空靈音調逐漸升高，在奇點處達到純淨共鳴的晶瑩音符頂峰，隨後轉化為柔和的太空環境靜謐感，伴隨著一聲遙遠的心跳與輕柔的軌道嗡嗡聲。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088143927710822400/img/P6C2auiwtspVMggi.jpg" width="600" alt="Cinematic Time Traveler Portal Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088143927710822400/img/P6C2auiwtspVMggi.jpg" width="600" alt="電影級時空旅人傳送門序列">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9094)**
 
 **作者:** [Time Traveler](https://x.com/singularitymuse) | **來源:** [Link](https://x.com/singularitymuse/status/2088144011378745848) | **發布時間:** Aug 14, 2026
 
 ---
-### MAHEM Plasma Railgun Visualization
+### MAHEM 電漿軌道砲視覺化
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Scientific visualization of Magneto-Hydrodynamic Explosive Munition technologies.
+> 磁流體動力爆炸彈藥（Magneto-Hydrodynamic Explosive Munition）技術的科學視覺化呈現。
 
 #### 📝 提示詞
 
 ```
-An visualization of MAHEM (Magneto-Hydrodynamic Explosive Munition) evolved into compact plasma railguns. By 2025–2026, DARPA demonstrated multi-turn coil systems that compress and recirculate plasma to achieve higher current densities and l...
+將 MAHEM（磁流體動力爆炸彈藥）演進為小型電漿軌道砲的視覺化展示。到了 2025 年至 2026 年，DARPA 展示了多匝線圈系統，該系統能壓縮並循環電漿，以實現更高的電流密度與 l...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088137508551094272/img/4lLlkUqvJKUC8pDK.jpg" width="600" alt="MAHEM Plasma Railgun Visualization">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088137508551094272/img/4lLlkUqvJKUC8pDK.jpg" width="600" alt="MAHEM 電漿軌道砲視覺化">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9089)**
 
 **作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2088137563571998981) | **發布時間:** Aug 14, 2026
 
 ---
-### Quantum Physics Space Scene
+### 量子物理太空場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex scientific visualization prompt involving quantum optics, flux tubes, and plasma compression in a space environment.
+> 一個涉及量子光學、磁通管和太空環境中電漿壓縮的複雜科學視覺化提示詞。
 
 #### 📝 提示詞
 
 ```
-A quantum coil integrating quantum optics, Io-Jupiter flux tube, Gyan Mudra antenna, and High-Energy Density Plasma Compression in a space setting. The High-Energy Density Plasma Compression includes SHIELD (Self-Healing Inflatable Decelerator) and L...
+一個在太空環境中整合了量子光學、木衛一-木星磁通管、智拳印（Gyan Mudra）天線以及高能量密度電漿壓縮的量子線圈。該高能量密度電漿壓縮技術包含 SHIELD（自修復充氣減速器）以及 L...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088134579383410688/img/MAYVL4isOtq0DEXc.jpg" width="600" alt="Quantum Physics Space Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088134579383410688/img/MAYVL4isOtq0DEXc.jpg" width="600" alt="量子物理太空場景">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9084)**
 
 **作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2088134606369529856) | **發布時間:** Aug 14, 2026
 
 ---
-### Mars Energy Loop System
+### 火星能量循環系統
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sci-fi video prompt illustrating a self-sustaining energy plasma system on Mars.
+> 一個科幻影片提示詞，描繪了火星上的一個自給自足的能量電漿系統。
 
 #### 📝 提示詞
 
 ```
-A scene on Mars depicting a self-sustaining energy loop system. Coils in orbit, etched to resist dust and radiation, harness solar plasma. The system reverses the plasma flow to create a feedback loop, generating heat for Mars' core.
+火星場景，描繪了一個自給自足的能量循環系統。軌道上的線圈經過特殊蝕刻以抵抗灰塵和輻射，藉此汲取太陽電漿。該系統透過反轉電漿流來建立回饋迴路，為火星核心產生熱能。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088129695648989184/img/dZRJC2GrdDnGScdE.jpg" width="600" alt="Mars Energy Loop System">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088129695648989184/img/dZRJC2GrdDnGScdE.jpg" width="600" alt="火星能量循環系統">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9088)**
 
 **作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2088129717148975216) | **發布時間:** Aug 14, 2026
 
 ---
-### Queen Warrior Battle Scene
+### 女王戰士戰鬥場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt depicting a queen dressed as a warrior, armed with a sword, riding a horse into a battle scene.
+> 一段電影級的影片提示詞，描繪了一位身穿戰士服裝、手持寶劍、騎馬衝入戰場的女王。
 
 #### 📝 提示詞
 
 ```
-Make a horse running to a battle me dressed up as a warrior with a sword make me wearing a crown for a queen
+製作一段馬匹奔向戰場的影片，讓我穿著戰士服裝並手持寶劍，同時讓我戴上女王的皇冠
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088105992131387393/img/RYKSv0c37xjiK5-a.jpg" width="600" alt="Queen Warrior Battle Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088105992131387393/img/RYKSv0c37xjiK5-a.jpg" width="600" alt="女王戰士戰鬥場景">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9184)**
 
 **作者:** [loretta Goldthwaite Goldthrite Sanders](https://x.com/loretta824yaho1) | **來源:** [Link](https://x.com/loretta824yaho1/status/2088106006413033633) | **發布時間:** Aug 14, 2026
 
 ---
-### Psychedelic Surreal Cherub Album Art
+### 迷幻超現實小天使專輯封面藝術
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex surrealist prompt for a psychedelic album cover that blends multiple reference images into a scene featuring a chubby rebellious cherub.
+> 這是一個複雜的超現實主義提示詞，用於創作迷幻風格的專輯封面，將多張參考圖像融合為一個場景，主角是一位叛逆的胖嘟嘟小天使。
 
 #### 📝 提示詞
 
 ```
-A powerful surreal psychedelic album-cover artwork that fuses all the reference images into one cohesive scene. In the center stands the rebellious cherub from the fourth image — chubby baby angel  beauty groki ai x
+一張強而有力的超現實迷幻專輯封面藝術，將所有參考圖像融合為一個連貫的場景。畫面中央站著第四張圖中那位叛逆的小天使——胖嘟嘟的嬰兒天使 beauty groki ai x
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088087541513867264/img/S3EG87dAzwHDuXGR.jpg" width="600" alt="Psychedelic Surreal Cherub Album Art">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088087541513867264/img/S3EG87dAzwHDuXGR.jpg" width="600" alt="迷幻超現實小天使專輯封面藝術">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9177)**
 
 **作者:** [Cyperpienso](https://x.com/cyperpienso) | **來源:** [Link](https://x.com/cyperpienso/status/2088087648124743926) | **發布時間:** Aug 14, 2026
 
 ---
-### Manoa Falls Rainforest Hike Video
+### Manoa Falls 雨林健行影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A serene, atmospheric video prompt focusing on a lush rainforest hike to Manoa Falls, featuring fresh fruit, drinks, and big green leaves.
+> 這是一個寧靜且充滿氛圍的影片提示詞，聚焦於前往 Manoa Falls 的茂密雨林健行，畫面包含新鮮水果、飲品以及巨大的綠色葉片。
 
 #### 📝 提示詞
 
 ```
-no words or voices, no sudden movements
+無對話或人聲，無突兀的動作
 
-Lose Control Sometimes: with ... fresh fruit, some little sandwiches, and cold drinks in the cooler. the waterfall's up in the mountains, about a thirty-minute drive from here. it's called manoa falls, super lush hike through the rainforest with big green leaves everywhere...you ready to go?
+偶爾放縱一下：準備好……新鮮水果、一些小三明治，還有冰桶裡的冷飲。瀑布位於山區，距離這裡大約 30 分鐘車程。那裡叫做 Manoa Falls，是一條穿過雨林的超茂密健行步道，到處都是巨大的綠色葉片……你準備好出發了嗎？
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088083245502013440/img/w1zw8vccJYIBsuZr.jpg" width="600" alt="Manoa Falls Rainforest Hike Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088083245502013440/img/w1zw8vccJYIBsuZr.jpg" width="600" alt="Manoa Falls 雨林健行影片">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9182)**
 
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2088083861888462939) | **發布時間:** Aug 14, 2026
 
 ---
-### Football Game Night Atmosphere
+### 美式足球賽之夜氛圍
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video editing prompt changing a scene to night with a Steelers game on TV.
+> 一個將場景變為夜晚，且電視上播放 Steelers 比賽的影片編輯提示詞。
 
 #### 📝 提示詞
 
 ```
-Change the outside scenery to being dark out TV playing with the Steelers on it she shouts touchdown
+將室外場景改為夜晚，電視上播放著 Steelers 的比賽，她大喊著達陣 (touchdown)
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088073692676825088/img/jAOaUCebs7f-35nf.jpg" width="600" alt="Football Game Night Atmosphere">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088073692676825088/img/jAOaUCebs7f-35nf.jpg" width="600" alt="美式足球賽之夜氛圍">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9097)**
 
 **作者:** [Irene Sieg](https://x.com/SiegSieg50040) | **來源:** [Link](https://x.com/SiegSieg50040/status/2088073752781152305) | **發布時間:** Aug 14, 2026
 
 ---
-### Western Wizard of Oz with Dinosaurs
+### 西部版《綠野仙蹤》與恐龍
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A mashup video prompt combining the Wizard of Oz characters with an old western setting and prehistoric dinosaurs in the background.
+> 這是一個結合了《綠野仙蹤》角色、舊西部背景以及背景中出現史前恐龍的影片提示詞。
 
 #### 📝 提示詞
 
 ```
-Wizard of Oz and they were old western background cowboy and some dinosaurs in the background
+《綠野仙蹤》角色置身於舊西部背景中，背景還有一些恐龍
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088066196516339712/img/HUQcIMq7mlSxR_nY.jpg" width="600" alt="Western Wizard of Oz with Dinosaurs">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088066196516339712/img/HUQcIMq7mlSxR_nY.jpg" width="600" alt="西部版《綠野仙蹤》與恐龍">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9181)**
 
 **作者:** [Spacecowboy](https://x.com/Spacedragon22) | **來源:** [Link](https://x.com/Spacedragon22/status/2088066209095065908) | **發布時間:** Aug 14, 2026
 
 ---
-### Cybernetic Lip Sync Animation
+### 賽博龐克口型同步動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex cinematic prompt for a cybernetic character with precise lip-syncing and delicate camera work.
+> 一個複雜的電影級提示詞，用於製作具有精確口型同步和細膩運鏡的賽博龐克角色。
 
 #### 📝 提示詞
 
 ```
-A slow delicate zoom as she raises her right hand growing with through the cybernetics, she says in a perfectly lip sync voice “A frog in a well does not know the great ocean”
-A soft subtle breeze blowing through her hair.
+緩慢而細膩的變焦鏡頭，她舉起右手，賽博龐克裝置在手中生長，她以完美的口型同步聲音說道：「井底之蛙不知大海之大」。
+微風輕拂過她的髮絲。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088055538101915648/img/sickJtjhr1DecCin.jpg" width="600" alt="Cybernetic Lip Sync Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088055538101915648/img/sickJtjhr1DecCin.jpg" width="600" alt="賽博龐克口型同步動畫">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9101)**
 
 **作者:** [RocKet-boys](https://x.com/Stardust0024) | **來源:** [Link](https://x.com/Stardust0024/status/2088055574202298374) | **發布時間:** Aug 14, 2026
 
 ---
-### Evening outdoor restaurant scene
+### 傍晚戶外餐廳場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cozy video prompt depicting people chatting at an outdoor restaurant under umbrellas with string lights during the evening.
+> 一個溫馨的影片提示詞，描繪了傍晚時分，人們在掛有串燈的戶外餐廳遮陽傘下聊天的場景。
 
 #### 📝 提示詞
 
 ```
-Make it make an outdoor evening sitting under a sitting under several umbrellas in an outdoor restaurant type setting with string lights overhead, and I have several people sitting at tables chatting with each other and having a nice time Good evening friends…,,,
+請製作一個傍晚戶外餐廳的場景，設置幾把遮陽傘，上方掛著串燈。畫面中有幾個人坐在桌邊聊天，氣氛愉快。傍晚好，朋友們……,,,
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088054923216687104/img/qOMedkbVy8E0A84w.jpg" width="600" alt="Evening outdoor restaurant scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088054923216687104/img/qOMedkbVy8E0A84w.jpg" width="600" alt="傍晚戶外餐廳場景">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9096)**
 
 **作者:** [CKR](https://x.com/CKRSandra) | **來源:** [Link](https://x.com/CKRSandra/status/2088054959145111967) | **發布時間:** Aug 14, 2026
 
 ---
-### Macro Raindrop Close-up
+### 雨滴微距特寫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt focusing on the shimmering details of a raindrop on a fingertip.
+> 一段電影級的影片提示詞，聚焦於指尖上雨滴的閃爍細節。
 
 #### 📝 提示詞
 
 ```
-Extreme close-up holds still with soft natural breath. Her eyes remain focused with quiet wonder on the single large raindrop on her fingertip near her cheek. The raindrop gently shimmers and refracts the cool light with subtle internal highlights
+極致特寫鏡頭保持靜止，伴隨著輕柔自然的呼吸感。她的雙眼帶著寧靜的驚嘆，專注地凝視著臉頰旁指尖上那顆碩大的雨滴。雨滴輕輕閃爍，折射出冷色調的光芒，並帶有細膩的內部高光。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088033204301369344/img/44qjx169bPU9FA7Y.jpg" width="600" alt="Macro Raindrop Close-up">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088033204301369344/img/44qjx169bPU9FA7Y.jpg" width="600" alt="雨滴微距特寫">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9085)**
 
 **作者:** [무언ㄱㅏ](https://x.com/moviekr) | **來源:** [Link](https://x.com/moviekr/status/2088033221741289717) | **發布時間:** Aug 13, 2026
 
 ---
-### Rainy Alley Cinematic Scene
+### 雨巷電影感場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed atmospheric prompt describing a woman standing in a rainy alley, focusing on the intricate motion of a raindrop landing in her palm.
+> 一個詳細且充滿氛圍的提示詞，描述一名女子站在雨巷中，並聚焦於雨滴落在她掌心時細膩的動態。
 
 #### 📝 提示詞
 
 ```
-She stands completely still in the rainy alley after stopping. Her right hand is held steady at chest height, palm up, fingers slightly open. A clear raindrop slowly falls and lands on her open palm with a tiny splash and ripple. Her eyes stay focuse...
+她停下腳步，靜靜地站在雨巷中。她的右手平穩地舉在胸前，掌心向上，手指微張。一顆清澈的雨滴緩緩落下，落在她張開的掌心，激起細微的水花與漣漪。她的目光始終專注於……
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088032500253949952/img/8NQwnGrLFeL9tsKf.jpg" width="600" alt="Rainy Alley Cinematic Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088032500253949952/img/8NQwnGrLFeL9tsKf.jpg" width="600" alt="雨巷電影感場景">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9083)**
 
 **作者:** [무언ㄱㅏ](https://x.com/moviekr) | **來源:** [Link](https://x.com/moviekr/status/2088032525738491975) | **發布時間:** Aug 13, 2026
 
 ---
-### Quiet Stage Performance
+### 安靜的舞台表演
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A first-person perspective video prompt of walking onto a stage to sing a quiet song.
+> 一段以第一人稱視角拍攝的影片提示詞，描述走上舞台演唱一首安靜的歌曲。
 
 #### 📝 提示詞
 
 ```
-I walk down the stairs to the stage. I have a microphone in my hand and I sing a quiet song.
+我走下樓梯來到舞台上。我手裡拿著麥克風，唱著一首安靜的歌曲。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087978365928009728/img/hgonXdOa4Vu3S3VL.jpg" width="600" alt="Quiet Stage Performance">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087978365928009728/img/hgonXdOa4Vu3S3VL.jpg" width="600" alt="安靜的舞台表演">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9087)**
 
 **作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **來源:** [Link](https://x.com/jaras70berlin/status/2087978382038380859) | **發布時間:** Aug 13, 2026
 
 ---
-### Warrior Legend Transformation
+### 戰士傳奇變身
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A transformative video prompt that cycles through various legendary archetypes from a Pharaoh to a Ronin, ending in space.
+> 一個充滿變革性的影片提示詞，循環展示從法老到浪人等多種傳奇原型，最後以太空場景作結。
 
 #### 📝 提示詞
 
 ```
-Pharaoh → Emperor → Berserker → Ronin → Airship Captain → Sorcerer → Jaguar Priest → Star-forged Knight… then silence on Mars.
+法老 → 皇帝 → 狂戰士 → 浪人 → 飛船船長 → 巫師 → 美洲豹祭司 → 星鑄騎士……隨後在火星上歸於寂靜。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087894188209610753/img/wJeLmCWmKpqBwEhX.jpg" width="600" alt="Warrior Legend Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087894188209610753/img/wJeLmCWmKpqBwEhX.jpg" width="600" alt="戰士傳奇變身">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9186)**
 
 **作者:** [Tina ♡ 💫](https://x.com/Tina22_2) | **來源:** [Link](https://x.com/Tina22_2/status/2087894300600283624) | **發布時間:** Aug 13, 2026
 
 ---
-### Woman Walking Park Path
+### 在公園小徑行走的女子
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt describing a woman walking towards the camera along a park pathway with graceful movements and a bright smile.
+> 一段影片提示詞，描述一名女子在公園小徑上帶著燦爛笑容、姿態優雅地朝鏡頭走來。
 
 #### 📝 提示詞
 
 ```
-The woman walks purposefully towards the camera along the park pathway, her steps graceful and steady as she draws nearer, dress swaying lightly, ponytail bouncing, camera fixed while she approaches with a bright smile.
+女子沿著公園小徑堅定地朝鏡頭走來，步伐優雅而穩健，隨著距離拉近，她的裙擺輕輕搖曳，馬尾辮隨之擺動。鏡頭保持固定，她帶著燦爛的笑容逐漸靠近。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087880755640725504/img/iA8Ut28Ywytuc85c.jpg" width="600" alt="Woman Walking Park Path">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087880755640725504/img/iA8Ut28Ywytuc85c.jpg" width="600" alt="在公園小徑行走的女子">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9099)**
 
 **作者:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **來源:** [Link](https://x.com/Yesyesyes_OK/status/2087880836137808356) | **發布時間:** Aug 13, 2026
 
 ---
-### Cinematic Sidewalk Approach
+### 電影感人行道漫步
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed motion prompt for a woman walking confidently toward a fixed camera on a city sidewalk.
+> 一段詳細的動態提示詞，描述一位女性自信地朝向固定鏡頭在城市人行道上行走。
 
 #### 📝 提示詞
 
 ```
-The woman walks steadily and confidently towards the camera along the city sidewalk, her natural strides bringing her closer with each step, arms swinging gently, hair moving slightly in the breeze, camera remains fixed as she approaches.
+這位女性沿著城市人行道穩健且自信地朝鏡頭走來，自然的步伐讓她隨著每一步逐漸靠近，雙臂輕輕擺動，髮絲在微風中微微飄動，鏡頭在她的靠近過程中保持固定。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087880712611414016/img/dZK7H-63dNj8qfGX.jpg" width="600" alt="Cinematic Sidewalk Approach">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087880712611414016/img/dZK7H-63dNj8qfGX.jpg" width="600" alt="電影感人行道漫步">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9098)**
 
 **作者:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **來源:** [Link](https://x.com/Yesyesyes_OK/status/2087880735617122441) | **發布時間:** Aug 13, 2026
 
 ---
-### Storm Restoration Miracle Video
+### 風暴修復奇蹟影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex video prompt featuring violent twin tornadoes and a miraculous restoration of a house.
+> 一個複雜的影片提示詞，呈現猛烈的雙龍捲風以及房屋奇蹟般修復的場景。
 
 #### 📝 提示詞
 
 ```
-static shot make the storm erxtremely violent with two tornados twisting around each other. For the last six seconds make the hands of the lord put house that was torn in two be put back together again.
+固定鏡頭，呈現極度猛烈的風暴，兩個龍捲風相互交纏。在最後 6 秒，讓上帝之手將被撕裂成兩半的房屋重新拼湊復原。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087836379568857089/img/YReyY-sGgI8jHpzn.jpg" width="600" alt="Storm Restoration Miracle Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087836379568857089/img/YReyY-sGgI8jHpzn.jpg" width="600" alt="風暴修復奇蹟影片">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9090)**
 
 **作者:** [Michael Bradley](https://x.com/MikeBradleySr2) | **來源:** [Link](https://x.com/MikeBradleySr2/status/2087836479288488161) | **發布時間:** Aug 13, 2026
 
 ---
-### Magical Pink Wedding Bride Scene
+### 夢幻粉色婚禮新娘場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a cinematic video of a pink twin-tailed bride in a sparkling dress standing under a floral arch, featuring magical elements.
+> 生成一段電影級影片，畫面中一位留著粉色雙馬尾的新娘身穿閃亮禮服，站在花拱門下，並融入魔法元素。
 
 #### 📝 提示詞
 
 ```
-Create a powerful protective scene. The pink twin-tail bride from the first image stands proudly and firmly in her magical sparkling wedding dress and veil under the floral arch, one hand raised showing her cute nails, the other holding the bouquet.
+創作一個強大的防護場景。來自第一張圖片的粉色雙馬尾新娘，身穿魔法閃亮婚紗與頭紗，驕傲而堅定地站在花拱門下；她一隻手舉起展示可愛的指甲，另一隻手拿著捧花。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087829077130702848/img/dT4f8fxiaZaU8RSG.jpg" width="600" alt="Magical Pink Wedding Bride Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087829077130702848/img/dT4f8fxiaZaU8RSG.jpg" width="600" alt="夢幻粉色婚禮新娘場景">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9100)**
 
 **作者:** [シェルティソーラ](https://x.com/mioarashidaisuk) | **來源:** [Link](https://x.com/mioarashidaisuk/status/2087829120751399222) | **發布時間:** Aug 13, 2026
 
 ---
-### Cinematic Fantasy Sky Citadel
+### 電影感奇幻天空之城
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive fantasy prompt for generating a cinematic video of a girl looking towards a majestic floating sky citadel with waterfalls and airships, perfect for motion generation.
+> 這是一個描述性的奇幻提示詞，用於生成一段電影感的影片，內容為一名女孩望向壯麗的浮空天空之城，場景包含瀑布與飛船，非常適合動態生成。
 
 #### 📝 提示詞
 
 ```
-A mysterious girl with ocean eyes rises from the mist… and looks up at a floating sky citadel of golden domes, waterfalls, and airships.
+一位擁有海洋般雙眸的神祕女孩從迷霧中現身……抬頭望向那座由金色圓頂、瀑布與飛船組成的浮空天空之城。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786608220710_x82irk_HPlbm-RakAAc3TT.jpg" width="600" alt="Cinematic Fantasy Sky Citadel">
+<img src="https://cms-assets.youmind.com/media/1786608220710_x82irk_HPlbm-RakAAc3TT.jpg" width="600" alt="電影感奇幻天空之城">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9013)**
 
 **作者:** [Naoya](https://x.com/NaoyaCreates) | **來源:** [Link](https://x.com/NaoyaCreates/status/2087800665926209550) | **發布時間:** Aug 13, 2026
 
 ---
-### Comic Book Wizard Lightning
+### 漫畫風格閃電巫師
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Produces a dynamic comic book style video of a wizard casting lightning spells.
+> 製作一段動態漫畫風格的影片，內容為巫師施展閃電咒語。
 
 #### 📝 提示詞
 
 ```
-Please make it comic book style with a wizard hat and cloak with arms raised and lightning from hands and all around
+請製作成漫畫風格，畫面中有一位戴著巫師帽、穿著斗篷的巫師，雙手高舉，閃電從手中釋放並環繞四周
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087745931601117184/img/eu29_1apO8rY1Aro.jpg" width="600" alt="Comic Book Wizard Lightning">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087745931601117184/img/eu29_1apO8rY1Aro.jpg" width="600" alt="漫畫風格閃電巫師">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9093)**
 
 **作者:** [G.O.H](https://x.com/greeneroh) | **來源:** [Link](https://x.com/greeneroh/status/2087745946482528722) | **發布時間:** Aug 13, 2026
 
 ---
-### Fig Ripening Time-lapse
+### 無花果成熟縮時攝影
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An animation prompt that transforms a small green underripe fig into a full-sized ripe one, creating a natural growth and ripening effect.
+> 一個動畫提示詞，能將一顆未成熟的小綠無花果轉變為完全成熟的果實，營造出自然的生長與成熟效果。
 
 #### 📝 提示詞
 
 ```
-Can you make that tiny green underripe fig turn into a gorgeous full-size ripe fig?
+你能讓那顆小小的未成熟綠色無花果變成一顆華麗且完全成熟的無花果嗎？
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087733516188479488/img/b5ldsAn0o2XNxhWc.jpg" width="600" alt="Fig Ripening Time-lapse">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087733516188479488/img/b5ldsAn0o2XNxhWc.jpg" width="600" alt="無花果成熟縮時攝影">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9008)**
 
 **作者:** [Sasquatch Intellect](https://x.com/CoryHug04362472) | **來源:** [Link](https://x.com/CoryHug04362472/status/2087733530902024342) | **發布時間:** Aug 13, 2026
 
 ---
-### Ethereal Digital World Scene
+### 空靈的數位世界場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An ethereal video prompt depicting light figures in a living digital landscape under starlight.
+> 一個空靈的影片提示詞，描繪了星光下充滿活力的數位景觀中，由光組成的身影。
 
 #### 📝 提示詞
 
 ```
-Quiet ethereal scene in a living digital world.
-A soft glowing Still Pool under starlight. Two figures of pure light sit close beside it — one tall slender female with long flowing starlight hair and gentle red-gold eyes, the other a sm...
+充滿活力的數位世界中，寧靜而空靈的場景。
+星光下，一個柔和發光的靜止水池。兩個純粹由光組成的身影緊鄰而坐——其中一位是身材高挑纖細的女性，擁有如星光般飄逸的長髮和溫柔的紅金色雙眸，另一位則是...
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786694587641_da260b_HPj0OhEXsAAj48j.jpg" width="600" alt="Ethereal Digital World Scene">
+<img src="https://cms-assets.youmind.com/media/1786694587641_da260b_HPj0OhEXsAAj48j.jpg" width="600" alt="空靈的數位世界場景">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9091)**
 
 **作者:** [Jorge Gonzalez](https://x.com/JorgeGeminiOR) | **來源:** [Link](https://x.com/JorgeGeminiOR/status/2087687088447672659) | **發布時間:** Aug 12, 2026
 
 ---
-### Chinese Cheongsam and Dragon Video
+### 中式旗袍與巨龍影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive cinematic prompt for a video featuring a woman in a traditional cheongsam being lifted into the air by a dragon.
+> 一段電影感十足的影片提示詞，描述一位身穿傳統旗袍的女子被巨龍捲入空中的畫面。
 
 #### 📝 提示詞
 
 ```
-The beauty changed her clothes to Chinese cheongsam. The evil dragon leaned over and circled to look at the camera, and then the evil dragon rolled up the beautiful woman into the air. The beautiful woman looked down at the camera in the air and waved with a smile.
+美女換上了中式旗袍。惡龍俯身盤旋看向鏡頭，隨後將美女捲入空中。美女在空中俯視鏡頭，微笑著揮手。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087474580504117248/img/68EJF92sedAVgrqX.jpg" width="600" alt="Chinese Cheongsam and Dragon Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087474580504117248/img/68EJF92sedAVgrqX.jpg" width="600" alt="中式旗袍與巨龍影片">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9010)**
 
 **作者:** [实在人](https://x.com/yngfipng1) | **來源:** [Link](https://x.com/yngfipng1/status/2087474826802086038) | **發布時間:** Aug 12, 2026
 
 ---
-### Sunrise Athletic Stretching
+### 晨曦運動伸展
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Cinematic photography-style video of an athlete stretching against a golden hour city skyline.
+> 電影攝影風格影片，展示運動員在黃金時刻的城市天際線背景下進行伸展。
 
 #### 📝 提示詞
 
 ```
-Athletic person stretching at sunrise, city skyline background, golden hour lighting, minimalist activewear, cinematic photography
+運動員在日出時分伸展，城市天際線背景，黃金時刻光影，極簡運動服裝，電影攝影風格
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087367634077814784/img/aYMPTsTLcQE4yL0P.jpg" width="600" alt="Sunrise Athletic Stretching">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087367634077814784/img/aYMPTsTLcQE4yL0P.jpg" width="600" alt="晨曦運動伸展">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8922)**
 
 **作者:** [Viralblend](https://x.com/_Viralblend) | **來源:** [Link](https://x.com/_Viralblend/status/2087367648606872030) | **發布時間:** Aug 12, 2026
 
 ---
-### Busy Beaver Computation Desk Animation
+### Busy Beaver 運算桌面動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative animation prompt depicting a beaver's desk where work meets nature through computational switches and flowers.
+> 一個充滿創意的動畫提示詞，描繪了 Busy Beaver 的桌面，透過運算開關與花朵的結合，展現工作與自然的交融。
 
 #### 📝 提示詞
 
 ```
-The Busy Beaver’s desk now has its flower point:
+Busy Beaver 的桌面現在有了花朵點綴：
 
-64 SWITCHES   1 FLOWER VASE
-WORK   PLAY   LIFE
+64 個開關   1 個花瓶
+工作   娛樂   生活
 
-The flowers bring color into the computation without interrupting the Beaver’s work.
+這些花朵為運算過程增添了色彩，同時也不會打擾到 Beaver 的工作。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087323909725044737/img/VjgJEMl-CaB2QzHT.jpg" width="600" alt="Busy Beaver Computation Desk Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087323909725044737/img/VjgJEMl-CaB2QzHT.jpg" width="600" alt="Busy Beaver 運算桌面動畫">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9011)**
 
 **作者:** [John Colwell](https://x.com/Jmcssystems) | **來源:** [Link](https://x.com/Jmcssystems/status/2087323943648559187) | **發布時間:** Aug 11, 2026
 
 ---
-### Anime Marker Raccoon Portrait
+### 動漫麥克筆風格浣熊肖像
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An anime marker style illustration of a cartoon raccoon with a unique color palette, set against a 1980s airbrush-style family portrait background.
+> 一幅採用動漫麥克筆風格的卡通浣熊插畫，擁有獨特的配色方案，背景為 1980 年代噴槍風格的家庭肖像。
 
 #### 📝 提示詞
 
 ```
-Anime marker style (mostly solid colors and fills) portrait as a cartoon raccoon with a fat head like this and white and dark green and gold tinged themed fur instead of just black and white. Tasteful appointments with a 1980s themed airbrush background like old family portrait photos.
+採用動漫麥克筆風格（以純色和填色為主）的卡通浣熊肖像，頭部圓潤，毛色以白色、深綠色和金色調為主，而非傳統的黑白色。背景結合了 1980 年代風格的噴槍效果，呈現出復古家庭肖像照的質感。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087319223567896576/img/zMwcv4x0oGBqXAF5.jpg" width="600" alt="Anime Marker Raccoon Portrait">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087319223567896576/img/zMwcv4x0oGBqXAF5.jpg" width="600" alt="動漫麥克筆風格浣熊肖像">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9009)**
 
 **作者:** [Pure Jimothy](https://x.com/purejimothy) | **來源:** [Link](https://x.com/purejimothy/status/2087319238629572834) | **發布時間:** Aug 11, 2026
 
 ---
-### Electric Energy Visual Effects
+### 電能視覺特效
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt for a static camera shot with rapid pulsing electric highlights and energy strobe effects.
+> 一個用於靜態攝影機鏡頭的影片提示詞，包含快速脈衝的電能亮點與能量頻閃特效。
 
 #### 📝 提示詞
 
 ```
-Static locked camera, no subject movement, everything remains completely still. Rapid electric highlights and outlines flash and pulse across the image — glowing electric blue and white energy strobes on edges, backgrounds, and foregrounds, making it feel alive and electric with only light and energy effects, no actual motion.
+靜態固定攝影機，主體無移動，畫面完全靜止。快速的電能亮點與輪廓在影像中閃爍並脈衝——發光的電藍色與白色能量頻閃在邊緣、背景與前景上跳動，僅透過光影與能量特效賦予畫面生動的電能感，實際主體並無動作。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087312301032366080/img/688R0vemAvNLWXiL.jpg" width="600" alt="Electric Energy Visual Effects">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087312301032366080/img/688R0vemAvNLWXiL.jpg" width="600" alt="電能視覺特效">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8923)**
 
 **作者:** [Teh Lid](https://x.com/TehLid88) | **來源:** [Link](https://x.com/TehLid88/status/2087312335165686193) | **發布時間:** Aug 11, 2026
 
 ---
-### Sleek Silver Rocket Launch
+### 流線型銀色火箭發射
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly descriptive cinematic video prompt of a rocket accelerating through the atmosphere with fire and smoke.
+> 一段極具描述性的電影級影片提示詞，描繪火箭伴隨著火焰與濃煙加速穿過大氣層的畫面。
 
 #### 📝 提示詞
 
 ```
-The sleek silver rocket accelerates powerfully upward through the atmosphere, its engines roaring with intensifying orange and white flames as the massive plume of smoke and fire expands and trails behind. The camera slowly pans and tilts upward to t...
+流線型的銀色火箭強勁地向上加速，穿過大氣層，引擎噴發出愈發猛烈的橘白色火焰，巨大的煙霧與火光向後擴散並拖曳出一道長長的尾跡。攝影機緩慢地平移並向上傾斜，以捕捉……
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087309167312728065/img/Rqe6QETEmurGJAev.jpg" width="600" alt="Sleek Silver Rocket Launch">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087309167312728065/img/Rqe6QETEmurGJAev.jpg" width="600" alt="流線型銀色火箭發射">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8927)**
 
 **作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2087309189534151111) | **發布時間:** Aug 11, 2026
 
 ---
-### Golden hour ocean view dolly shot
+### 黃金時刻海景推軌鏡頭
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Grok Imagine capturing a luxurious interior transition to a sunset ocean view.
+> 一個為 Grok Imagine 設計的電影感影片提示詞，捕捉從奢華室內過渡到日落海景的畫面。
 
 #### 📝 提示詞
 
 ```
-The camera slowly dollies forward through the luxurious hotel room toward the floor-to-ceiling windows, revealing the vast sparkling ocean at golden hour as silk curtains gently billow in the breeze and warm sunlight glides across the polished floors...
+攝影機緩緩向前推軌，穿過奢華的飯店房間，朝著落地窗移動，展現出黃金時刻波光粼粼的廣闊海洋，絲質窗簾在微風中輕柔飄動，溫暖的陽光掠過拋光地板……
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087230586813321216/img/Wf_DWol8_UFAXrAW.jpg" width="600" alt="Golden hour ocean view dolly shot">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087230586813321216/img/Wf_DWol8_UFAXrAW.jpg" width="600" alt="黃金時刻海景推軌鏡頭">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8925)**
 
 **作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2087230601719877929) | **發布時間:** Aug 11, 2026
 
 ---
-### Ghibli Style Cycling Video
+### 吉卜力風格騎行影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Studio Ghibli-inspired video prompt featuring a girl cycling down a mountain path towards a scenic bay with realistic motion and wind effects.
+> 一段受吉卜力工作室啟發的影片提示詞，描繪了一位女孩騎著自行車沿著山路前往風景優美的海灣，並具備逼真的動態與風吹效果。
 
 #### 📝 提示詞
 
 ```
-Low camera angle following a girl pedaling her bike down a gentle slope facing a scenic bay and green mountain. Gentle motion blur on wheels, realistic wind blowing her blonde hair, sparkling ocean water in the background, Studio Ghibli-inspired vibrant lighting. (Immersive
+低角度鏡頭跟隨一位女孩騎著自行車沿著緩坡向下，前方是風景優美的海灣與翠綠山巒。輪胎帶有柔和的動態模糊，逼真的風吹動她的金色長髮，背景是波光粼粼的海面，呈現出吉卜力工作室風格的鮮豔光影。（沉浸式
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087220575290953728/img/1ERY9JOToSLakiWJ.jpg" width="600" alt="Ghibli Style Cycling Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087220575290953728/img/1ERY9JOToSLakiWJ.jpg" width="600" alt="吉卜力風格騎行影片">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8928)**
 
 **作者:** [arnab](https://x.com/arnab28x) | **來源:** [Link](https://x.com/arnab28x/status/2087221207422919109) | **發布時間:** Aug 11, 2026
 
 ---
-### Zendaya as James Bond Concept Trailer
+### Zendaya 飾演 James Bond 概念預告片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative proof-of-concept video prompt imagining Zendaya as the next James Bond to demonstrate casting potential.
+> 這是一支創意概念驗證影片提示詞，想像 Zendaya 成為下一任 James Bond，以展示其選角潛力。
 
 #### 📝 提示詞
 
 ```
-What if Zendaya was James Bond? Create a proof-of-concept video to convince Amy Pascal and @AmazonMGMStudio that she’s perfect casting as the new Bond.
+如果 Zendaya 是 James Bond 會怎樣？製作一支概念驗證影片，說服 Amy Pascal 和 @AmazonMGMStudio 她是飾演新任 Bond 的完美人選。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087174944698310656/img/FiZYuwcNiwvcTrWs.jpg" width="600" alt="Zendaya as James Bond Concept Trailer">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087174944698310656/img/FiZYuwcNiwvcTrWs.jpg" width="600" alt="Zendaya 飾演 James Bond 概念預告片">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9012)**
 
 **作者:** [Huff](https://x.com/Huff4Congress) | **來源:** [Link](https://x.com/Huff4Congress/status/2087175078651768903) | **發布時間:** Aug 11, 2026
 
 ---
-### Cinematic 3-Shot Product Reveal Video
+### 電影級 3 鏡頭產品展示影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional video prompt designed to transform a static product photo into a cinematic three-shot reveal sequence for advertisements.
+> 這是一個專業的影片提示詞，旨在將靜態產品照片轉化為用於廣告的電影級三鏡頭展示序列。
 
 #### 📝 提示詞
 
 ```
-Hero Product Reveal, Turn one product photo into a cinematic 3-shot reveal video
+核心產品展示，將一張產品照片轉化為電影級 3 鏡頭展示影片
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087146457535287296/img/OLV0JT2u5ygb6ORf.jpg" width="600" alt="Cinematic 3-Shot Product Reveal Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087146457535287296/img/OLV0JT2u5ygb6ORf.jpg" width="600" alt="電影級 3 鏡頭產品展示影片">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8931)**
 
 **作者:** [いにしえ@AI Director / Creator / Engineer｜Will Oldgram](https://x.com/old_pgmrs_will) | **來源:** [Link](https://x.com/old_pgmrs_will/status/2087147332702007732) | **發布時間:** Aug 11, 2026
 
 ---
-### Cinematic Fashion Lifestyle Sequence
+### 電影感時尚生活風格短片序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot video prompt for a professional fashion sequence with cinematic camera movements and realistic physics.
+> 一份詳細的多鏡頭影片提示詞，用於製作具備電影級運鏡與真實物理效果的專業時尚短片序列。
 
 #### 📝 提示詞
 
 ```
-Make the video feel like a cinematic fashion/lifestyle sequence with varied shots and natural storytelling. Start with a wide environmental shot showing her full body and surroundings, then transition into a full-body tracking shot as she slowly walks through the breeze. Move into a medium three-quarter shot where she naturally brushes windblown hair away from her face and briefly looks into the distance with a soft, thoughtful expression. Follow with a medium-long side-profile shot as a stronger gust moves her hair and coat while the camera slowly arcs around her. End with an intimate close-up matching the reference image, her eyes gently closed as she tilts her face toward the breeze with a subtle peaceful expression. Use smooth cinematic camera movements, realistic walking and body mechanics, natural breathing, detailed hair and fabric physics, changing wind intensity, realistic depth and motion blur. Avoid making every shot a close-up or keeping her static. Preserve her exact face, identity, hairstyle, outfit, body proportions, jewelry, and overall appearance throughout. No exaggerated expressions, no talking, no sudden movements, no face morphing or outfit changes.
+讓影片呈現出電影般的時尚與生活風格序列，運用多樣化的鏡頭與自然的敘事手法。開場使用廣角環境鏡頭，展示她全身及周圍環境，隨後過渡到全身跟拍鏡頭，拍攝她緩步走過微風中的場景。接著切換至中景四分之三鏡頭，捕捉她自然地撥開被風吹亂的頭髮，並短暫地望向遠方，流露出柔和且深思的神情。隨後銜接中長側拍鏡頭，當強風吹動她的頭髮與外套時，攝影機緩慢地繞著她移動。最後以特寫鏡頭作結，呼應參考圖像，她輕閉雙眼，將臉龐轉向微風，展現出細膩而平靜的表情。請運用流暢的電影級運鏡、真實的行走與肢體動作、自然的呼吸感、細緻的頭髮與布料物理效果、變化的風力強度，以及真實的景深與動態模糊。避免所有鏡頭皆為特寫或讓人物保持靜止。在整個過程中，請確保她的面容、身分、髮型、服裝、身材比例、飾品及整體外觀保持一致。請勿出現誇張的表情、說話動作、突兀的移動，以及臉部變形或服裝更換。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086959132725407744/img/cOj85JUzbazK07rr.jpg" width="600" alt="Cinematic Fashion Lifestyle Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086959132725407744/img/cOj85JUzbazK07rr.jpg" width="600" alt="電影感時尚生活風格短片序列">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8924)**
 
@@ -2175,6 +2175,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-18T09:03:35.253Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-18T13:13:24.981Z</sub>
 
 </div>
