@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2509** |
+| 📝 Total Prompts | **2527** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-18** |
 
@@ -189,6 +189,272 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Joystick and Emoji Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed animation prompt for Grok Imagine describing physics-based movement of a joystick and scissors interacting with emojis.
+
+#### 📝 Prompt
+
+```
+Maintaining all likeliness the joystick handle moves as though gaming. The scissors move in a cutting motion and chase after the emoji images. The scissors cut a laughing emoji in half. The row of purple devil emojis at the base of the joystick
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089549374624022528/img/Br1PYyhR_FRC_B7U.jpg" width="600" alt="Joystick and Emoji Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9432)**
+
+**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2089549388255543553) | **Published:** Aug 18, 2026
+
+---
+### Humanoid Robot Riding Boston Dynamics Dog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a humanoid robot riding a large robotic dog into a nighttime frontline battle.
+
+#### 📝 Prompt
+
+```
+Humanoid robot riding large Boston dynamic dog into a frontline battle at night. We’re cooked.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089546081625333760/img/Crsm268vxN_QNVJu.jpg" width="600" alt="Humanoid Robot Riding Boston Dynamics Dog">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9428)**
+
+**Author:** [SharewareFrom1994](https://x.com/amrndci) | **Source:** [Link](https://x.com/amrndci/status/2089546098364784937) | **Published:** Aug 18, 2026
+
+---
+### Space Combat and Plasma Physics
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed sci-fi prompt involving rotating planets, moving ships, and plasma conversion effects.
+
+#### 📝 Prompt
+
+```
+Make the planet rotate and the ship move forward with the lasers converting rocks to plasma that flows down the center of the ship
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089501917697527808/img/v5v4qtOI4CVLvbJ5.jpg" width="600" alt="Space Combat and Plasma Physics">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9425)**
+
+**Author:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **Source:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **Published:** Aug 17, 2026
+
+---
+### Gothic Red Gold Glowing Text
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dark fantasy cinematic motion prompt for gothic lettering with mist and atmospheric lighting effects.
+
+#### 📝 Prompt
+
+```
+The gothic text "JUANG   Musk" slowly glows with dark red and gold light, mist swirls dramatically around the ornate blackletter lettering, subtle camera zoom and atmospheric fog drifting, dark fantasy cinematic motion, high detail
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089467697654382594/img/ZsOGvwDEH-aW5lpA.jpg" width="600" alt="Gothic Red Gold Glowing Text">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9426)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2089467763471286385) | **Published:** Aug 17, 2026
+
+---
+### Gas Station Cinematic Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, single-shot tracking prompt for a realistic cinematic sequence of a man parking and entering a gas station.
+
+#### 📝 Prompt
+
+```
+Ethan, a young man in casual clothes, drives a modern sedan from the right side of the frame into an empty gas station parking lot during daytime. He turns right into a parking spot directly facing the front of the gas station entrance the back of the vehicle is facing the camera, parks correctly within the lines, stops the car, and turns off the engine. From the camera's perspective Ethan opens the left driver's side door and steps out onto the pavement with his left foot first, fully exits the vehicle on the left side, closes the door behind him, and walks straight ahead into the gas station building. Continuous single-shot cinematic tracking, realistic physics, no camera cuts
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089457726497697793/img/YYGRMFNucFq93VP8.jpg" width="600" alt="Gas Station Cinematic Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9433)**
+
+**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2089457914029502891) | **Published:** Aug 17, 2026
+
+---
+### DiCaprio Titanic Shipwreck Dream
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic narrative prompt depicting Leonardo DiCaprio waking up on a tropical beach amidst the wreckage of the Titanic.
+
+#### 📝 Prompt
+
+```
+Leonardo DiCaprio wakes up from a nightmare on a tropical beach, sits up startled, looks around in disbelief, then notices the huge rusty Titanic shipwreck pieces washed up on the island
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089416053223026688/img/jyodM4Sk4LCkdJUS.jpg" width="600" alt="DiCaprio Titanic Shipwreck Dream">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9421)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2089416089705091286) | **Published:** Aug 17, 2026
+
+---
+### Sunbathing Beach with Rolling Waves
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A relaxing video prompt showing a sandy beach with people and gentle ocean waves.
+
+#### 📝 Prompt
+
+```
+A sandy beach with lots of sunbathing people and a gentle breeze and small rolling waves
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089391085973835777/img/52gygCYwDKTpscVa.jpg" width="600" alt="Sunbathing Beach with Rolling Waves">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9430)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2089391129162645811) | **Published:** Aug 17, 2026
+
+---
+### Farmer Plowing Wheat Field
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A straightforward prompt for generating a video of an American farmer using a John Deere tractor to plow a large wheat field.
+
+#### 📝 Prompt
+
+```
+Create a video with an American farmer plowing a large field to grow wheat and a John Deere tractor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089390175126163456/img/AiZPYcnoBJPdjb16.jpg" width="600" alt="Farmer Plowing Wheat Field">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9423)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2089390212082192396) | **Published:** Aug 17, 2026
+
+---
+### Pixar Style Strawberry Donut Animation
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A creative prompt for a Pixar-style couple avatar featuring a strawberry donut boy and a milk tea girl, including a specific blushing animation sequence.
+
+#### 📝 Prompt
+
+```
+Generate an image to be used as a fan page avatar. The page name is 'Boti and Muti', meaning strawberry donut and milk tea. This is for a young couple's fan page; the strawberry donut is the boy and the milk tea is the girl. The style is hip yet cute, Pixar-inspired. The milk tea color should be solid and clear. Remove the English text at the bottom and the red granules from the strawberry. Let the strawberry blush at the beginning.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089388388860526593/img/fC5LNStOiU6f7H9c.jpg" width="600" alt="Pixar Style Strawberry Donut Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9434)**
+
+**Author:** [Tenghao hsu](https://x.com/HsuTenghao19046) | **Source:** [Link](https://x.com/HsuTenghao19046/status/2089388405990064618) | **Published:** Aug 17, 2026
+
+---
+### Bioluminescent Ocean Couture
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal fashion concept generated using the Grok Imagine Image 2 model, resulting in a cinematic underwater catwalk scene.
+
+#### 📝 Prompt
+
+```
+A poised woman in a surreal bioluminescent ocean couture gown of flowing deep-sea waves, glowing jellyfish tendrils, iridescent pearls, and living coral strides down a luxury catwalk in a dramatic, cinematic style with underwater light rays and sparkling mist.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787039476062_orzyes_HP7oYg9aAAAVkfV.jpg" width="600" alt="Bioluminescent Ocean Couture">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9420)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2089363024356524125) | **Published:** Aug 17, 2026
+
+---
+### Variations of Pleiadian Humanity
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-quality video prompt illustrating variations of humanity along Pleiadian lines with volumetric lighting.
+
+#### 📝 Prompt
+
+```
+There are many variations of Humanity illustrate this along Pleiadian lines, masterpiece, ultra HD quality resolution volumetric bright lighting and colors
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089351947077763072/img/iNSiR6gZq0CTzsjH.jpg" width="600" alt="Variations of Pleiadian Humanity">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9431)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089351996570538020) | **Published:** Aug 17, 2026
+
+---
+### Wing Evolution Morphing Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex morphing prompt that transitions through a wide variety of wings, from natural petals and butterfly wings to mechanical jet and spacecraft wings.
+
+#### 📝 Prompt
+
+```
+Leaf → flower petal → butterfly wing → dragonfly wing → bird feather → songbird wing → eagle wing → glider wing → paper airplane wing → biplane wing → propeller airplane wing → passenger jet wing → fighter jet wing → spacecraft wing → solar sail → solar panel → satellite → space telescope
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089324265464041472/img/2lX1b3QOGx1o-dD3.jpg" width="600" alt="Wing Evolution Morphing Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9419)**
+
+**Author:** [Carl Bethea V](https://x.com/CarlBethea5) | **Source:** [Link](https://x.com/CarlBethea5/status/2089324882332946627) | **Published:** Aug 17, 2026
+
+---
+### Gothic Rose Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A visually striking video prompt showing a black gothic rose transforming into a red rose with bright volumetric lighting.
+
+#### 📝 Prompt
+
+```
+Black rose in gothic style transforms into a Red Rose , masterpiece, ultra HD quality resolution volumetric bright lighting and colors
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089294953654423552/img/vh7iUAQuWxy_ulU_.jpg" width="600" alt="Gothic Rose Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9417)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089294989004042421) | **Published:** Aug 17, 2026
+
+---
+### Sci-Fi Spaceship Escape Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative-driven prompt describing a spaceship docking and escape mission involving a character named Trinia.
+
+#### 📝 Prompt
+
+```
+Trinia escaping on a Spaceship with the gold key; the Spaceship attaching itself to the enemy's vessel so she could escape
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089280557913899008/img/znLqbMPOxjWTd_Tz.jpg" width="600" alt="Sci-Fi Spaceship Escape Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9429)**
+
+**Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2089280594186260518) | **Published:** Aug 17, 2026
+
+---
 ### Dynamic Cowboy Gun Battle
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,11 +474,11 @@ Dynamic cowboy gun battle action: the gunslinger fires his revolver with muzzle 
 **Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2089242763284062564) | **Published:** Aug 17, 2026
 
 ---
-### Alien Planet Figure Skating Performance
+### Alien Planet Figure Skater Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic video prompt of a figure skater performing a triple axel jump on an icy alien planet under a shooting star sky.
+> A cinematic video prompt of a figure skater with platinum blonde hair performing a triple axel jump on an icy alien planet under a sky of shooting stars.
 
 #### 📝 Prompt
 
@@ -220,18 +486,37 @@ Dynamic cowboy gun battle action: the gunslinger fires his revolver with muzzle 
 A dynamic tracking shot of a young female figure skater on an icy alien planet. She has platinum blonde hair in a tight bun and wears a costume like a deep indigo night sky, decorated with countless tiny stardust-like sparkles. She glides at high speed across a vast ice rink under a sky filled with shooting stars. Her silver skating shoes reflect the stars and the glowing ice. As her speed builds, she launches into a powerful triple axel jump, spinning gracefully in midair. She lands smoothly on the glowing ice and immediately accelerates again, cutting long, bright trails across the rink as more meteors and shooting stars fall around her. Ultra detailed, cinematic lighting, slow shutter motion blur, dynamic camera movement, 4K, high frame rate.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089241004939554816/img/2DDKiOQ2OHa_WOct.jpg" width="600" alt="Alien Planet Figure Skating Performance">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089241004939554816/img/2DDKiOQ2OHa_WOct.jpg" width="600" alt="Alien Planet Figure Skater Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9323)**
 
 **Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2089241259085095024) | **Published:** Aug 17, 2026
 
 ---
-### Dragon and Woman at Sunset
+### Character OOTD Spin Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic video prompt featuring a shimmering dragon interacting with a woman on an ocean shore at sunset.
+> A character-focused prompt generating a standing pose, outfit showcase, and a 360-degree spin.
+
+#### 📝 Prompt
+
+```
+Pami babyy standing up and shows a ootd And giving us a spin@adin sold that baddie
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089210935428931584/img/zpzq_iGtimQkkJ6L.jpg" width="600" alt="Character OOTD Spin Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9427)**
+
+**Author:** [dasickestmf2000](https://x.com/dasickestmwbwy) | **Source:** [Link](https://x.com/dasickestmwbwy/status/2089210970602389934) | **Published:** Aug 17, 2026
+
+---
+### Dragon Sunset Interaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed and atmospheric video prompt showing a dragon lowering its head to a woman's hand on a beach at sunset.
 
 #### 📝 Prompt
 
@@ -239,18 +524,75 @@ A dynamic tracking shot of a young female figure skater on an icy alien planet. 
 the dragon’s head slowly lowers toward her open hand, scales shimmering with soft light as the wind gently lifts her long hair and the hem of her flowing dress, its wings softly unfurling and catching the sunset glow while the ocean waves roll quietly
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089206770350661632/img/_tbJue-mFW2ri6O9.jpg" width="600" alt="Dragon and Woman at Sunset">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089206770350661632/img/_tbJue-mFW2ri6O9.jpg" width="600" alt="Dragon Sunset Interaction">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9319)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2089206829905481906) | **Published:** Aug 17, 2026
 
 ---
-### Healthy Chef Cooking Scene
+### Black Hole Stellar Collapse Visualization
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt for a cinematic sequence starting with fresh ingredients on a table followed by a chef preparing healthy meals.
+> A highly detailed scientific visualization of a black hole forming through stellar collapse with gravitational distortion effects.
+
+#### 📝 Prompt
+
+```
+A visualization of a black hole being created, showing the dynamic process of stellar collapse and formation with gravitational effects, event horizon appearance, and surrounding spacetime distortion
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089176062475304960/img/XSQhNbhdBc6cEEha.jpg" width="600" alt="Black Hole Stellar Collapse Visualization">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9424)**
+
+**Author:** [Criminalize Communisim](https://x.com/CommiesRTr8rs) | **Source:** [Link](https://x.com/CommiesRTr8rs/status/2089176086701638035) | **Published:** Aug 17, 2026
+
+---
+### Lava vs Liquid Nitrogen Science
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt requesting a scientific visualization of the interaction between liquid nitrogen and hot lava.
+
+#### 📝 Prompt
+
+```
+Can you make a video of liquid nitrogen underneath hot lava and show what happens scientifically.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089163411523305472/img/BrYPHNshCaSx0uS0.jpg" width="600" alt="Lava vs Liquid Nitrogen Science">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9422)**
+
+**Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089163426966712443) | **Published:** Aug 17, 2026
+
+---
+### Liquid Nitrogen vs Lava Science
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A scientific visualization prompt showing the reaction between liquid nitrogen and lava in a video format.
+
+#### 📝 Prompt
+
+```
+Can you make a video of liquid nitrogen in lava and show what happens scientifically
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089161865905512449/img/KRdf0ATk0pne8X6l.jpg" width="600" alt="Liquid Nitrogen vs Lava Science">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9418)**
+
+**Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089161883773190169) | **Published:** Aug 17, 2026
+
+---
+### Healthy Cooking Chef Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt illustrating the process of a chef creating healthy, nutritious plates from a table full of fresh vegetables and proteins.
 
 #### 📝 Prompt
 
@@ -258,7 +600,7 @@ the dragon’s head slowly lowers toward her open hand, scales shimmering with s
 Create a table full of vegetables, healthy fats, and protein. Then you have a chef create delicious plates with them for a healthy free cancer life.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089107807509307392/img/9huUvi3C3SnhiyjO.jpg" width="600" alt="Healthy Chef Cooking Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089107807509307392/img/9huUvi3C3SnhiyjO.jpg" width="600" alt="Healthy Cooking Chef Sequence">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9318)**
 
@@ -1386,11 +1728,11 @@ I walk down the stairs to the stage. I have a microphone in my hand and I sing a
 **Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2087978382038380859) | **Published:** Aug 13, 2026
 
 ---
-### Historical Warrior Evolution
+### Warrior Legend Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sequence prompt showing the evolution of a warrior from a Pharaoh to a Sorcerer, ending on Mars.
+> A transformative video prompt that cycles through various legendary archetypes from a Pharaoh to a Ronin, ending in space.
 
 #### 📝 Prompt
 
@@ -1398,7 +1740,7 @@ I walk down the stairs to the stage. I have a microphone in my hand and I sing a
 Pharaoh → Emperor → Berserker → Ronin → Airship Captain → Sorcerer → Jaguar Priest → Star-forged Knight… then silence on Mars.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087894188209610753/img/wJeLmCWmKpqBwEhX.jpg" width="600" alt="Historical Warrior Evolution">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087894188209610753/img/wJeLmCWmKpqBwEhX.jpg" width="600" alt="Warrior Legend Transformation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9186)**
 
@@ -1772,367 +2114,6 @@ Make the video feel like a cinematic fashion/lifestyle sequence with varied shot
 **Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2087144498258128996) | **Published:** Aug 11, 2026
 
 ---
-### High-speed magical broom flight video prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic video prompt for Grok Imagine featuring a character on a magical broom flying at high speeds through a coastal landscape with dynamic camera movements.
-
-#### 📝 Prompt
-
-```
-@Image1: exact character reference. Preserve identity, face, hairstyle, body proportions, outfit, accessories, colors, materials and silhouette exactly. Do not redesign or invent details.
-
-One continuous 15-second high-speed magical broom flight toward a vast coastal city and bright ocean. The character stands balanced on the broom as it races just above a lush green hillside at extreme speed, then performs a steep climb, full inversion, sharp dive, rising spiral, second climb and inversion, ending in a powerful forward glide toward the city.
-
-Camera: aggressive low rear three-quarter tracking, 2–3 m behind, 47° FOV, locked on character and broom, no cuts. Strong vibration, speed blur and wind buffeting. The city continuously grows larger ahead.
-
-Character constantly adjusts posture, feet, knees and arms for balance. Hair, clothing, accessories and any flexible elements visible in @Image1 react naturally and violently to wind and acceleration. No weightless drifting.
-
-Bright midday sunlight, strong rim light, vivid blue sky, white clouds, floating white whales and seagulls. Grass, flowers and petals streak past with heavy motion blur.
-
-Real-time motion, 24 fps, high-energy throughout, no slow motion, no dialogue. Continuous intense wind roar and cinematic high-energy soundtrack.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087100093099036672/img/7dGpJiUFuQPxpbau.jpg" width="600" alt="High-speed magical broom flight video prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8929)**
-
-**Author:** [Curious 1](https://x.com/CuriousOne_01) | **Source:** [Link](https://x.com/CuriousOne_01/status/2087100628891738289) | **Published:** Aug 11, 2026
-
----
-### Cinematic Party Celebration Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic video prompt for a single-take celebration scene with complex lighting, character interaction, and realistic textures.
-
-#### 📝 Prompt
-
-```
-CN Medium-close-up. Single take, no cuts. For positioning and lighting, refer to Image1. The camera is positioned to the side, right next to Image2 and Image3—the entire venue is not visible; only a warm, blurred background is shown. They place the green beer bottles on the table—quickly, casually, barely glancing at them. Then Image2 immediately comes into her own—breaking into a huge smile, shouting as she moves, bright and completely unfiltered: “Yay—yay—yay! We finally won this war!” She’s already running and jumping forward—a playful, bouncy jog, light yet unstoppable, pure energy. Halfway through, she glances back at Image3. Image3 meets her gaze—a mature, slightly restrained smile, warm yet measured—and then they embrace each other warmly; they look incredibly happy. The camera follows them from the side throughout the sequence, with warm light softly falling on both their faces. Slight handheld drift. ARRI 35, anamorphic lens. Realistic style. No 3D animation. Real textures, real weight, real motion blur. SFX only. No music.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786522054248_oqnmnz_HPbJ3F9acAAcvXc.jpg" width="600" alt="Cinematic Party Celebration Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8879)**
-
-**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2087077714876653798) | **Published:** Aug 11, 2026
-
----
-### Intimate Forehead Touch Cinematic Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly descriptive cinematic prompt for Grok-imagine featuring an intimate forehead touch and shared breath between characters with navy suit and freckle details.
-
-#### 📝 Prompt
-
-```
-Soft smiles hold while a quiet shared breath lingers, closed eyes resting fully in the deepest forehead touch under the twin crescents. Paradox navy and freckles rest easy against the suit.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087053229066452992/img/snKaT9fkObFvlUHS.jpg" width="600" alt="Intimate Forehead Touch Cinematic Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8887)**
-
-**Author:** [adelkaai](https://x.com/adelka_ai88) | **Source:** [Link](https://x.com/adelka_ai88/status/2087053258275602756) | **Published:** Aug 11, 2026
-
----
-### Cosmic Chessboard Energy Being
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dramatic prompt featuring an energy being disrupting a cosmic chessboard, sending planets out of orbit.
-
-#### 📝 Prompt
-
-```
-A chessboard with two players . A energy being knocking over the board a sending it spiraling into the universe where 9 planets are in alignment . 
-The board crashes into the planets knocking them from their orbit ....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087041248322301953/img/2TOwJEygq4DDoUqz.jpg" width="600" alt="Cosmic Chessboard Energy Being">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8882)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2087041264864616611) | **Published:** Aug 11, 2026
-
----
-### Cinematic first person tracking reveal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A professional video prompt for a smooth first-person sequence focusing on hand movements and facial expressions with wide-angle lens effects.
-
-#### 📝 Prompt
-
-```
-Consistent visual style, preserve exact character appearance, clothing, and lighting from the reference image. Start with a smooth, gentle tracking shot that follows the hand movement on the shoulder and arm in close detail. Then slowly and fluidly tilt/pan upward to reveal the face, focusing on the subtle expression, soft eye movement, and gentle blinking. Immersive first-person perspective, mild fisheye influence, ultra-wide-angle lens. Smooth and elegant camera motion with very subtle natural sway only, no strong shake. Slow natural pacing
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087027253167423488/img/6OIkz7DxV0xEkDTj.jpg" width="600" alt="Cinematic first person tracking reveal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8889)**
-
-**Author:** [のとろ](https://x.com/notoro_ai) | **Source:** [Link](https://x.com/notoro_ai/status/2087029874468987304) | **Published:** Aug 11, 2026
-
----
-### Madonna Scarf Dance Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine that animates a static photograph of Madonna, making her dance gracefully with a long scarf while delivering a spoken message to her fans.
-
-#### 📝 Prompt
-
-```
-Leave text ‘as is’, have Madonna with long scarf over her head throughout, have Madonna gracefully dance in yoga like moves dancing with the long flowing scarf while saying lovingly: Thank you fans for making ‘Confessions part 2’ number one in the Un...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087001435674398720/img/QlkIQA6hm8Jd_8pS.jpg" width="600" alt="Madonna Scarf Dance Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8880)**
-
-**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2087001482130505899) | **Published:** Aug 11, 2026
-
----
-### Stylish Tennis Athlete Look
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive fashion-focused prompt capturing a high-end tennis outfit with specific colors and style, set in a sunny Oahu court environment.
-
-#### 📝 Prompt
-
-```
-robin eggshell blue visor holding back my loose waves, crisp white fitted polo tucked into a little pleated tennis skirt that hits mid-thigh, long lean sporty legs with that warm sun-kissed glow, robin eggshell blue socks peeking out of simple high-end tagless sneakers, clean white everything with just that soft beachy blue pop so it feels pure oahu, no logos no fuss just sharp and ready for the court
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086997200773562368/img/FsxmA_tvt0Udou8P.jpg" width="600" alt="Stylish Tennis Athlete Look">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8884)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2086997286391873544) | **Published:** Aug 11, 2026
-
----
-### Sunlit Meadow with Flying Eagle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A scenic video prompt generating sunshine through clouds over a meadow of multi-colored flowers with an eagle flying above.
-
-#### 📝 Prompt
-
-```
-Make a beautiful sunshine through clouds shining on a meadow of beautiful multi colored flowers swaying in the wind with an eagle flying in the could.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086994570055999488/img/GdV8GqXJzed-6exy.jpg" width="600" alt="Sunlit Meadow with Flying Eagle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8886)**
-
-**Author:** [Spiritual Warrior](https://x.com/dpbd6921) | **Source:** [Link](https://x.com/dpbd6921/status/2086994589915955403) | **Published:** Aug 11, 2026
-
----
-### DMV Security Bike Patrol
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt describing security guards on bike patrol at a DMV headquarters in Sacramento.
-
-#### 📝 Prompt
-
-```
-The downtown DMV headquarters in Sacramento, California, security guards are patrolling the parking lots for state government employees. Three male blonde security guards in their late 20s to early 30s are on bike patrol and ride to the back parking...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086988040069656576/img/QOu8bXKld4RrXTgd.jpg" width="600" alt="DMV Security Bike Patrol">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8926)**
-
-**Author:** [Edward Elkins](https://x.com/EdwardElkinsJr) | **Source:** [Link](https://x.com/EdwardElkinsJr/status/2086989567635140643) | **Published:** Aug 11, 2026
-
----
-### Holographic Satellite Wormhole Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sci-fi video prompt featuring a satellite that generates a photon-based wormhole using a holographic diamond cube.
-
-#### 📝 Prompt
-
-```
-Satellite with holographic diamond cube used that generates a wormhole of photons
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086911134074900480/img/zqvDjvxYfkSiKKQB.jpg" width="600" alt="Holographic Satellite Wormhole Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8875)**
-
-**Author:** [Quantum Chemist](https://x.com/AdamCur73340771) | **Source:** [Link](https://x.com/AdamCur73340771/status/2086911161706930641) | **Published:** Aug 10, 2026
-
----
-### Ethereal Blue Heart Lotus Sanctuary
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A meditative and artistic video prompt featuring a blue heart, lotus pond, and sacred geometry elements in a dreamlike style.
-
-#### 📝 Prompt
-
-```
-A vast blue heart beside a tranquil blue lotus pond, sapphire cobalt and powder-blue lotuses, tiny silver lanterns, quiet waterside sanctuary, silvery morning sun, pearl-white reflections, subtle rim light, tender devotional atmosphere, serene and spacious, faint morning mist, delicate water reflections, subtle sacred geometry, ethereal storybook illustration, fine botanical detail, soft painterly texture, monochromatic blue palette, dreamlike realism, elegant composition. The heart dissolves into non-duality, creates spaciousness; a mini human in the pavilion meditates.
-
-[blue_heart]+ [lotus] + [pale_celestial_light] + [water] + [devotion]
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086900934333153280/img/4yafjGF6gHxfaLZb.jpg" width="600" alt="Ethereal Blue Heart Lotus Sanctuary">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8883)**
-
-**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2086900963558961534) | **Published:** Aug 10, 2026
-
----
-### Cyberpunk Neon Origami Crane
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic motion prompt of a neon origami crane navigating a rainy cyberpunk alley.
-
-#### 📝 Prompt
-
-```
-A glowing neon origami crane flying through a dark, rainy cyberpunk alleyway, illuminated by flickering holo billboards, fast cinematic blur, hyper-detailed, 8k ultra-realistic
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086899601747935232/img/WXNlWJdOw9JRLLdJ.jpg" width="600" alt="Cyberpunk Neon Origami Crane">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8877)**
-
-**Author:** [Okikiola Laura Eniola](https://x.com/OkikiolaLalmcr) | **Source:** [Link](https://x.com/OkikiolaLalmcr/status/2086899618491547810) | **Published:** Aug 10, 2026
-
----
-### Cybertruck NYC Rain Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A multi-shot cinematic workflow for a Tesla commercial featuring a character, a Cybertruck, and rain in NYC.
-
-#### 📝 Prompt
-
-```
-The @ model is walking down a street in New York City. It starts to rain, so she takes shelter under a shop awning. She pulls out her smartphone and says, "Grok, get me out of here."
-
-The @ Cybertruck is parked in a parking lot. Cut to the interior: the @ model's face appears on the cockpit screen. The @ Cybertruck powers up and the lights come on. Cut back to the exterior as the @ Cybertruck drives away on its own.
-
-The @ model stands under the awning in the rain. The @ Cybertruck arrives to pick her up, its door opening automatically as she gets in.
-
-Cut to a cinematic exterior shot of the @ Cybertruck driving away. End on the @ Cybertruck as a voice says, "Tesla. For your convenience."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086850401375047680/img/7uudIW_XQGlHQ3zS.jpg" width="600" alt="Cybertruck NYC Rain Sequence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8881)**
-
-**Author:** [Alex Utopia](https://x.com/alexutopia) | **Source:** [Link](https://x.com/alexutopia/status/2086853658797322341) | **Published:** Aug 10, 2026
-
----
-### Primal Hypnotic Yawn Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for a rhythmic, primal scene of a character stretching and yawning to hypnotic music.
-
-#### 📝 Prompt
-
-```
-No words rhythmic almost primal hypnotic music plays as he stretches and yawns....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086849516565602304/img/LsgWG5utM3iSBRzz.jpg" width="600" alt="Primal Hypnotic Yawn Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8878)**
-
-**Author:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **Source:** [Link](https://x.com/LisaJKuhnley/status/2086849743049654595) | **Published:** Aug 10, 2026
-
----
-### The Library Ghost Short Film
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A whimsical cinematic scene set in a quiet old library where glowing books form the silhouette of a ghostly reader.
-
-#### 📝 Prompt
-
-```
-In a quiet old library, a librarian shelves the last book. As she turns off the lights, the books begin to glow faintly. Pages flutter open on their own, soft golden light spills out, forming the silhouette of a figure reading. The librarian pauses and watches with a smile.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086767226913271808/img/eeXz_VJ8zYZswBab.jpg" width="600" alt="The Library Ghost Short Film">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9258)**
-
-**Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2086767285369266240) | **Published:** Aug 10, 2026
-
----
-### Optimus Bot Rocket Space Trip
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt where a Tesla Optimus bot holds a woman's hand and they blast off together on a rocket.
-
-#### 📝 Prompt
-
-```
-Make Tesla bot Optimus cone up to her and grab her hand. They should also take off on a rocket 🚀 ship. Play music instead of talking.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086702645960466432/img/MPhQ0W3tWwQ-c3A1.jpg" width="600" alt="Optimus Bot Rocket Space Trip">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8832)**
-
-**Author:** [Diamondinrutx](https://x.com/diamondinrutx) | **Source:** [Link](https://x.com/diamondinrutx/status/2086702685068132463) | **Published:** Aug 10, 2026
-
----
-### Grok Imagine Dynamic Handheld Camera Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive video generation prompt for Grok Imagine that specifies handheld camera movements, shaky effects, and an immersive first-person perspective using a fisheye lens.
-
-#### 📝 Prompt
-
-```
-Consistent visual style, handheld camera, shaky camera, camera shake, camera swaying side-to-side, camera swaying back and forth, dynamic camera work, camera tracking hand movements, fisheye lens, ultra-wide-angle lens, camera moving in a regular pattern up and down or back and forth, dynamic perspective, immersive first-person perspective
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086672296295661568/img/bL15GoO6_A2D-agW.jpg" width="600" alt="Grok Imagine Dynamic Handheld Camera Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8888)**
-
-**Author:** [のとろ](https://x.com/notoro_ai) | **Source:** [Link](https://x.com/notoro_ai/status/2086672456337482174) | **Published:** Aug 10, 2026
-
----
-### Sustainability Speech Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An animation prompt used to generate a character delivering a realistic and hopeful speech regarding a sustainable global economy.
-
-#### 📝 Prompt
-
-```
-recreate it with an X-Man version in picture form, make the character say: “Basically, the goal is to give people hope, realistic hope. Maybe hope is even the wrong word. Simply to say that there is a path to a fully sustainable, global economy. We are on that path, and we are accelerating that path. So long as we don't get complacent about it, it will happen.”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086487298963898368/img/K9wJ82-CelDufhQX.jpg" width="600" alt="Sustainability Speech Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8840)**
-
-**Author:** [Optimistic Degen](https://x.com/OptimisticD3G3n) | **Source:** [Link](https://x.com/OptimisticD3G3n/status/2086639699268091914) | **Published:** Aug 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2194,6 +2175,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-18T04:57:51.044Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-18T09:03:32.024Z</sub>
 
 </div>
