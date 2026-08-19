@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2527** |
+| 📝 Total Prompts | **2538** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-19** |
 
@@ -189,6 +189,208 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Monologo video selfie mattutino
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt sofisticato per un video verticale in stile selfie che mostra la routine mattutina di una donna in bagno, enfatizzando un'estetica naturale e calma.
+
+#### 📝 Prompt
+
+```
+Impostazione generale:
+Video breve verticale 9:16, stile video selfie. Protagonista donna adulta che indossa [Image 2] da [Image 1], capelli lunghi che fluiscono naturalmente, tiene un telefono nella mano sinistra per riprendersi davanti a uno specchio. Bagno con piastrelle grigie, luce mattutina bianca fredda e soffusa, specchio pulito, realistica texture da selfie con cellulare, leggero tremolio a mano libera, sincronizzazione labiale accurata.
+Stile generale:
+Sofisticata fiducia in se stessi mattutina, matura, rilassata, elegante, come un monologo mattutino cinematografico. La protagonista si è appena svegliata ma è in uno stato stabile, con occhi limpidi, un'espressione gentile e movimenti naturali e misurati. Nessuna provocazione intenzionale, nessuna azione volgare, concentrandosi sull'esprimere 'fiducia, compostezza, buon umore, oggi sarà una grande giornata'.
+Azione e postura:
+La protagonista sta davanti allo specchio, spalle naturalmente rilassate, corpo leggermente rivolto verso lo specchio, si sistema delicatamente i capelli, guarda occasionalmente se stessa nello specchio, poi guarda la fotocamera del telefono. La mano destra è appoggiata delicatamente sul petto per esprimere auto-affermazione, poi si apre naturalmente verso l'esterno, come se trasmettesse il buon umore alla giornata. Piccoli movimenti, eleganti, rilassati e reali. Parole chiave di sfondo:
+Sezione 1 0:00-0:15
+Primo piano:
+La protagonista scatta un selfie con la mano sinistra, si sistema delicatamente i capelli con la destra, sposta lo sguardo dallo specchio alla fotocamera e sorride leggermente. La sua voce è dolce ma ferma, come un promemoria molto gentile a se stessa al risveglio.
+
+Nessuna musica o suono ambientale estremamente debole, leggero eco del bagno, suoni di vestiti che sfregano e suoni naturali di tremolio del telefono presenti.
+Da evitare:
+Provocazioni volgari, azioni pornografiche, nudità, leccate di labbra esagerate, torsioni eccessive della vita, deformazione delle proporzioni corporee, cambiamenti facciali, cambiamenti di abbigliamento, telefono che scompare, personaggi nello specchio incoerenti, sottotitoli confusi, filigrane, personaggi extra.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089920974015680512/img/Xe3tNU_TLm1xaUA_.jpg" width="600" alt="Monologo video selfie mattutino">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9474)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2089921747407552927) | **Published:** Aug 19, 2026
+
+---
+### Odisseo e il cane Argo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video narrativo che cattura il momento emozionante in cui Odisseo viene riconosciuto dal suo cane Argo.
+
+#### 📝 Prompt
+
+```
+Odisseo torna a Itaca travestito da mendicante; il suo cane trascurato, Argo, che ha aspettato vent'anni il suo padrone, lo riconosce, scodinzola e muore immediatamente...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089909243168079872/img/C_SvHln99CY5Ly_X.jpg" width="600" alt="Odisseo e il cane Argo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9472)**
+
+**Author:** [James Woodard](https://x.com/QuantumBikerX) | **Source:** [Link](https://x.com/QuantumBikerX/status/2089909272033251822) | **Published:** Aug 19, 2026
+
+---
+### Trailer del film Odissea
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt funzionale per creare un trailer cinematografico realistico di 15 secondi che riassume la trama dell'Odissea.
+
+#### 📝 Prompt
+
+```
+La trama dell'Odissea realizzata come trailer per un film sull'Odissea. Rendilo realistico in inglese. Assicurati che il titolo appaia alla fine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089895513369825280/img/6FijAqPFa7zAPtQM.jpg" width="600" alt="Trailer del film Odissea">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9473)**
+
+**Author:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **Source:** [Link](https://x.com/DrJGiddensRN/status/2089895538422423771) | **Published:** Aug 19, 2026
+
+---
+### Messaggio felice di un personaggio parlante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video in cui un personaggio maschile trasmette un messaggio positivo sul trovare una prospettiva migliore, seguito da un gesto di approvazione (pollice in su).
+
+#### 📝 Prompt
+
+```
+Fai in modo che il personaggio maschile dica con dolcezza e affetto: “Non dimenticare di essere felice. Quindi, spero che tu abbia trovato una prospettiva migliore... una prospettiva migliore.” Poi fagli fare un gesto di approvazione con il pollice in su.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089865756381229056/img/cHkaaOswUms_nf8d.jpg" width="600" alt="Messaggio felice di un personaggio parlante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9466)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2089865785774870784) | **Published:** Aug 19, 2026
+
+---
+### Ripresa cinematografica con movimento orbitale panoramico
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt cinematografico che ritrae una donna che osserva un vasto paesaggio, con un lento movimento di camera orbitale ed effetti di vento.
+
+#### 📝 Prompt
+
+```
+Una donna osserva un vasto paesaggio, percependo tutta la sua maestosità. La telecamera si allontana lentamente ruotando con un'angolazione orbitale attorno alla donna. Una brezza leggera le muove i vestiti e i capelli.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089847137815429120/img/-2eePH4RnpUpkgxi.jpg" width="600" alt="Ripresa cinematografica con movimento orbitale panoramico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9475)**
+
+**Author:** [Saposhi](https://x.com/Saposhin_AI) | **Source:** [Link](https://x.com/Saposhin_AI/status/2089847152986169773) | **Published:** Aug 18, 2026
+
+---
+### Animazione Care Bear con dito medio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video provocatorio che richiede un personaggio Care Bear mentre compie un gesto specifico e non convenzionale.
+
+#### 📝 Prompt
+
+```
+Generami un video di un Care Bear con un dito medio al centro della pancia dell'orsetto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089836887934447616/img/lEom-EY5_liX_IE6.jpg" width="600" alt="Animazione Care Bear con dito medio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9468)**
+
+**Author:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **Source:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **Published:** Aug 18, 2026
+
+---
+### Dialogo in un negozio di alimentari in spagnolo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per un video conversazionale di 15 secondi tra un cliente e un commesso in spagnolo.
+
+#### 📝 Prompt
+
+```
+Puoi creare un'interazione di 15 secondi in cui una signora vuole comprare qualcosa in un negozio in spagnolo? Ad esempio: 'Salve, vorrei comprare del latte, per favore', e l'uomo risponde gentilmente accontentandola.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="Dialogo in un negozio di alimentari in spagnolo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9471)**
+
+**Author:** [Marco](https://x.com/Good_Tweet_USA) | **Source:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **Published:** Aug 18, 2026
+
+---
+### Pleiadiani in modalità festeggiamento
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico che ritrae i Pleiadiani in uno stato di festa, con illuminazione volumetrica ad alta definizione e colori vivaci.
+
+#### 📝 Prompt
+
+```
+Pleiadiani in modalità festeggiamento dopo Sheen in sei D e oltre, capolavoro, risoluzione ultra HD, illuminazione volumetrica brillante e colori vivaci
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="Pleiadiani in modalità festeggiamento">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9469)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **Published:** Aug 18, 2026
+
+---
+### Video drone del Glacier National Park
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per un video drone in prima persona che cattura un soleggiato pomeriggio al Glacier National Park.
+
+#### 📝 Prompt
+
+```
+Crea un video drone in prima persona che percorre verso ovest la Going-to-the-Sun Road nel Glacier National Park, durante un soleggiato pomeriggio
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="Video drone del Glacier National Park">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9467)**
+
+**Author:** [Eric Lovold](https://x.com/ericlovold) | **Source:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **Published:** Aug 18, 2026
+
+---
+### Scena 360 VR di un falò
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt immersivo per un video VR a 360 gradi che presenta un rilassante falò e un paesaggio sonoro.
+
+#### 📝 Prompt
+
+```
+elevazione lenta sopra l'equilibrio della sfera, centro di gravità in questa sfera VR a 360 gradi, completamente immobile, falò rilassante, paesaggio sonoro
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="Scena 360 VR di un falò">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9465)**
+
+**Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
+
+---
 ### Animazione di joystick ed emoji
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +446,25 @@ Fai ruotare il pianeta e muovere la nave in avanti, con i laser che convertono l
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9425)**
 
 **Author:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **Source:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **Published:** Aug 17, 2026
+
+---
+### Effetto Terminator in cromo liquido
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video-to-video che trasforma il soggetto in una sostanza di cromo metallico liquido, ispirato ai film di Terminator.
+
+#### 📝 Prompt
+
+```
+trasforma questo video in modo che io diventi istantaneamente cromo liquido, come nei film di Terminator
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089481439981002753/img/-CUZ_gnhORuZ-ygw.jpg" width="600" alt="Effetto Terminator in cromo liquido">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9470)**
+
+**Author:** [George White](https://x.com/GeorgeWhit30059) | **Source:** [Link](https://x.com/GeorgeWhit30059/status/2089481455005032644) | **Published:** Aug 17, 2026
 
 ---
 ### Testo gotico luminoso in oro rosso
@@ -1900,220 +2121,6 @@ Una pozza immobile dal bagliore soffuso sotto la luce delle stelle. Due figure d
 **Author:** [Jorge Gonzalez](https://x.com/JorgeGeminiOR) | **Source:** [Link](https://x.com/JorgeGeminiOR/status/2087687088447672659) | **Published:** Aug 12, 2026
 
 ---
-### Video di Cheongsam cinese e drago
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico descrittivo per un video che mostra una donna in un tradizionale cheongsam sollevata in aria da un drago.
-
-#### 📝 Prompt
-
-```
-La bella donna si è cambiata indossando un cheongsam cinese. Il drago malvagio si è sporto in avanti, ha girato intorno guardando verso la telecamera e poi ha avvolto la bella donna sollevandola in aria. La bella donna ha guardato in basso verso la telecamera mentre era in aria e ha salutato con un sorriso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087474580504117248/img/68EJF92sedAVgrqX.jpg" width="600" alt="Video di Cheongsam cinese e drago">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9010)**
-
-**Author:** [实在人](https://x.com/yngfipng1) | **Source:** [Link](https://x.com/yngfipng1/status/2087474826802086038) | **Published:** Aug 12, 2026
-
----
-### Stretching atletico all'alba
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Video in stile fotografia cinematografica di un atleta che fa stretching con lo skyline di una città durante l'ora d'oro sullo sfondo.
-
-#### 📝 Prompt
-
-```
-Atleta che fa stretching all'alba, sfondo con skyline cittadino, illuminazione dell'ora d'oro, abbigliamento sportivo minimalista, fotografia cinematografica
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087367634077814784/img/aYMPTsTLcQE4yL0P.jpg" width="600" alt="Stretching atletico all'alba">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8922)**
-
-**Author:** [Viralblend](https://x.com/_Viralblend) | **Source:** [Link](https://x.com/_Viralblend/status/2087367648606872030) | **Published:** Aug 12, 2026
-
----
-### Animazione della scrivania del Busy Beaver
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt creativo per un'animazione che raffigura la scrivania di un castoro, dove il lavoro incontra la natura attraverso interruttori computazionali e fiori.
-
-#### 📝 Prompt
-
-```
-La scrivania del Busy Beaver ora ha il suo tocco floreale:
-
-64 INTERRUTTORI   1 VASO DI FIORI
-LAVORO   GIOCO   VITA
-
-I fiori portano colore nel calcolo senza interrompere il lavoro del castoro.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087323909725044737/img/VjgJEMl-CaB2QzHT.jpg" width="600" alt="Animazione della scrivania del Busy Beaver">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9011)**
-
-**Author:** [John Colwell](https://x.com/Jmcssystems) | **Source:** [Link](https://x.com/Jmcssystems/status/2087323943648559187) | **Published:** Aug 11, 2026
-
----
-### Ritratto di procione in stile anime marker
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un'illustrazione in stile anime marker di un procione dei cartoni animati con una palette di colori unica, ambientata su uno sfondo che richiama i ritratti di famiglia realizzati con aerografo negli anni '80.
-
-#### 📝 Prompt
-
-```
-Ritratto in stile anime marker (prevalentemente colori piatti e riempimenti) di un procione dei cartoni animati con una testa grande, caratterizzato da una pelliccia con sfumature bianche, verde scuro e oro anziché il classico bianco e nero. Dettagli curati con uno sfondo in stile aerografo anni '80, tipico delle vecchie foto di ritratti di famiglia.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087319223567896576/img/zMwcv4x0oGBqXAF5.jpg" width="600" alt="Ritratto di procione in stile anime marker">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9009)**
-
-**Author:** [Pure Jimothy](https://x.com/purejimothy) | **Source:** [Link](https://x.com/purejimothy/status/2087319238629572834) | **Published:** Aug 11, 2026
-
----
-### Effetti visivi di energia elettrica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video per un'inquadratura a camera fissa con rapidi bagliori elettrici pulsanti ed effetti stroboscopici energetici.
-
-#### 📝 Prompt
-
-```
-Camera fissa bloccata, nessun movimento del soggetto, tutto rimane completamente immobile. Rapidi bagliori e contorni elettrici lampeggiano e pulsano attraverso l'immagine: bagliori di energia elettrica blu e bianca ed effetti stroboscopici su bordi, sfondi e primi piani, rendendo la scena viva ed elettrica solo attraverso effetti di luce ed energia, senza alcun movimento reale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087312301032366080/img/688R0vemAvNLWXiL.jpg" width="600" alt="Effetti visivi di energia elettrica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8923)**
-
-**Author:** [Teh Lid](https://x.com/TehLid88) | **Source:** [Link](https://x.com/TehLid88/status/2087312335165686193) | **Published:** Aug 11, 2026
-
----
-### Lancio di un razzo argento elegante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico altamente descrittivo di un razzo che accelera attraverso l'atmosfera tra fuoco e fumo.
-
-#### 📝 Prompt
-
-```
-L'elegante razzo argento accelera con potenza verso l'alto attraverso l'atmosfera, i suoi motori ruggiscono con fiamme arancioni e bianche sempre più intense, mentre l'enorme scia di fumo e fuoco si espande e si protrae dietro di esso. La telecamera esegue una lenta panoramica e un'inclinazione verso l'alto per...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087309167312728065/img/Rqe6QETEmurGJAev.jpg" width="600" alt="Lancio di un razzo argento elegante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8927)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2087309189534151111) | **Published:** Aug 11, 2026
-
----
-### Ripresa dolly con vista sull'oceano durante l'ora d'oro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico per Grok Imagine che cattura la transizione da un interno lussuoso a una vista sull'oceano al tramonto.
-
-#### 📝 Prompt
-
-```
-La telecamera avanza lentamente con un movimento dolly attraverso la lussuosa camera d'albergo verso le vetrate a tutta altezza, rivelando il vasto oceano scintillante durante l'ora d'oro, mentre le tende di seta ondeggiano delicatamente nella brezza e la calda luce del sole scivola sui pavimenti lucidi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087230586813321216/img/Wf_DWol8_UFAXrAW.jpg" width="600" alt="Ripresa dolly con vista sull'oceano durante l'ora d'oro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8925)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2087230601719877929) | **Published:** Aug 11, 2026
-
----
-### Video in stile Ghibli con bicicletta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video ispirato allo Studio Ghibli che ritrae una ragazza in bicicletta lungo un sentiero di montagna verso una baia panoramica, con effetti realistici di movimento e vento.
-
-#### 📝 Prompt
-
-```
-Inquadratura dal basso che segue una ragazza mentre pedala lungo un dolce pendio rivolto verso una baia panoramica e una montagna verde. Leggero effetto mosso sulle ruote, vento realistico che le muove i capelli biondi, acqua dell'oceano scintillante sullo sfondo, illuminazione vibrante ispirata allo Studio Ghibli. (Immersivo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087220575290953728/img/1ERY9JOToSLakiWJ.jpg" width="600" alt="Video in stile Ghibli con bicicletta">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8928)**
-
-**Author:** [arnab](https://x.com/arnab28x) | **Source:** [Link](https://x.com/arnab28x/status/2087221207422919109) | **Published:** Aug 11, 2026
-
----
-### Concept trailer di Zendaya nel ruolo di James Bond
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video proof-of-concept creativo che immagina Zendaya come il prossimo James Bond per dimostrare il potenziale del casting.
-
-#### 📝 Prompt
-
-```
-E se Zendaya fosse James Bond? Crea un video proof-of-concept per convincere Amy Pascal e @AmazonMGMStudio che è perfetta per il ruolo del nuovo Bond.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087174944698310656/img/FiZYuwcNiwvcTrWs.jpg" width="600" alt="Concept trailer di Zendaya nel ruolo di James Bond">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9012)**
-
-**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2087175078651768903) | **Published:** Aug 11, 2026
-
----
-### Video cinematografico di presentazione prodotto in 3 inquadrature
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video professionale progettato per trasformare la foto statica di un prodotto in una sequenza cinematografica di presentazione in tre inquadrature per campagne pubblicitarie.
-
-#### 📝 Prompt
-
-```
-Presentazione del prodotto Hero, trasforma una foto del prodotto in un video cinematografico di presentazione in 3 inquadrature
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087146457535287296/img/OLV0JT2u5ygb6ORf.jpg" width="600" alt="Video cinematografico di presentazione prodotto in 3 inquadrature">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8931)**
-
-**Author:** [いにしえ@AI Director / Creator / Engineer｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2087147332702007732) | **Published:** Aug 11, 2026
-
----
-### Sequenza cinematografica di moda e lifestyle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video dettagliato multi-inquadratura per una sequenza di moda professionale con movimenti di camera cinematografici e fisica realistica.
-
-#### 📝 Prompt
-
-```
-Crea un video che trasmetta l'atmosfera di una sequenza cinematografica di moda/lifestyle, con inquadrature variegate e una narrazione naturale. Inizia con un campo lungo ambientale che mostri la figura intera e l'ambiente circostante, per poi passare a un piano sequenza a figura intera mentre cammina lentamente nella brezza. Prosegui con un piano americano (tre quarti) in cui si scosta naturalmente i capelli mossi dal vento dal viso, guardando brevemente in lontananza con un'espressione dolce e pensierosa. Segui con un piano medio-lungo di profilo mentre una raffica di vento più forte le muove i capelli e il cappotto, con la camera che ruota lentamente attorno a lei. Concludi con un primo piano intimo che rispetti l'immagine di riferimento, con gli occhi delicatamente chiusi mentre inclina il viso verso la brezza con un'espressione di sottile serenità. Utilizza movimenti di camera cinematografici fluidi, meccaniche di camminata e del corpo realistiche, respirazione naturale, fisica dettagliata di capelli e tessuti, intensità del vento variabile, profondità realistica e motion blur. Evita di rendere ogni inquadratura un primo piano o di mantenere il soggetto statico. Mantieni intatti il viso, l'identità, l'acconciatura, l'outfit, le proporzioni corporee, i gioielli e l'aspetto generale per tutta la durata del video. Niente espressioni esagerate, niente parlato, niente movimenti bruschi, nessuna deformazione del viso o cambi di outfit.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086959132725407744/img/cOj85JUzbazK07rr.jpg" width="600" alt="Sequenza cinematografica di moda e lifestyle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8924)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2087144498258128996) | **Published:** Aug 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2175,6 +2182,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-19T01:52:01.910Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-19T13:26:31.265Z</sub>
 
 </div>

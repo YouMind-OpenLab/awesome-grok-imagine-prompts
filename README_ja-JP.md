@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2527** |
+| 📝 プロンプト総数 | **2538** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-08-19** |
 
@@ -189,6 +189,208 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 朝の自撮りビデオモノローグ
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> バスルームでの朝のルーティンを映す、自然で落ち着いた美学を強調した縦型自撮りスタイルビデオのための洗練されたプロンプト。
+
+#### 📝 プロンプト
+
+```
+全体設定：
+9:16 の縦型ショートビデオ、自撮りスタイル。 [Image 1] の [Image 2] を着用した成人女性が主人公。長い髪を自然に流し、左手でスマートフォンを持ち、鏡の前で撮影している。グレーのタイル張りのバスルーム、柔らかくクールな朝の光、清潔な鏡、リアルなスマホ自撮りの質感、わずかな手ブレ、正確なリップシンク。
+全体的なスタイル：
+洗練された朝の自信、成熟、リラックス、エレガント、映画のような朝のモノローグ風。主人公は目覚めたばかりだが安定した状態にあり、澄んだ瞳、穏やかな表情、自然で控えめな動き。意図的な誘惑や卑俗な動作はなく、「自信、落ち着き、良好なコンディション、今日は素晴らしい一日になる」という表現に焦点を当てる。
+アクションと姿勢：
+主人公は鏡の前に立ち、肩は自然にリラックスし、体は少し鏡の方を向いている。髪を優しく整え、時折鏡の中の自分を見つめ、その後スマホのカメラを見る。右手は自己肯定を表すように胸に優しく置かれ、その後自然に外側に開く。まるでその良い状態を今日という一日に手渡すかのように。小さな動きで、エレガント、リラックス、そしてリアルに。背景キーワード：
+セクション 1 0:00-0:15
+前景：
+主人公は左手で自撮りをし、右手で優しく髪を整え、鏡からカメラへと視線を移し、わずかに微笑む。声は柔らかいが芯があり、目覚めた自分自身への非常に優しいリマインダーのよう。
+
+音楽なし、または非常に微かな環境音。バスルームのわずかな反響、衣擦れの音、自然なスマホの揺れる音を含める。
+避けるべきこと：
+卑俗な誘惑、ポルノ的な動作、ヌード、誇張された唇を舐める動作、過度な腰のひねり、体の比率の崩れ、顔の変化、服装の変化、スマホが消える、鏡の中の人物との不一致、文字化けした字幕、透かし、余計な人物。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089920974015680512/img/Xe3tNU_TLm1xaUA_.jpg" width="600" alt="朝の自撮りビデオモノローグ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9474)**
+
+**作者:** [John](https://x.com/john87445528) | **ソース:** [Link](https://x.com/john87445528/status/2089921747407552927) | **公開日:** Aug 19, 2026
+
+---
+### オデュッセウスと愛犬アルゴス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> オデュッセウスが愛犬アルゴスに再会し、正体を見抜かれる感動的な瞬間を捉えたナラティブビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+乞食に変装してイタカに帰還したオデュッセウス。20 年もの間主人を待ち続けた愛犬アルゴスは、彼を一目見てその正体を見抜き、尻尾を振ってその場に倒れ、息を引き取る……。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089909243168079872/img/C_SvHln99CY5Ly_X.jpg" width="600" alt="オデュッセウスと愛犬アルゴス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9472)**
+
+**作者:** [James Woodard](https://x.com/QuantumBikerX) | **ソース:** [Link](https://x.com/QuantumBikerX/status/2089909272033251822) | **公開日:** Aug 19, 2026
+
+---
+### Odyssey 映画予告編
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Odyssey のあらすじをまとめた、リアルな 15 秒間の映画予告編を作成するための機能的なプロンプト。
+
+#### 📝 プロンプト
+
+```
+Odyssey のあらすじを映画の予告編風にまとめてください。英語でリアルな仕上がりにしてください。最後にタイトルが表示されるようにしてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089895513369825280/img/6FijAqPFa7zAPtQM.jpg" width="600" alt="Odyssey 映画予告編">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9473)**
+
+**作者:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **ソース:** [Link](https://x.com/DrJGiddensRN/status/2089895538422423771) | **公開日:** Aug 19, 2026
+
+---
+### 話すキャラクターのハッピーメッセージ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 男性キャラクターがより高い場所を見つけることについて前向きなメッセージを伝え、最後にサムズアップをするビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+男性の画像に、優しく愛情を込めてこう言わせてください。「幸せでいることを忘れないで。だから、あなたがより高い場所を見つけられたらいいな……より高い場所をね」。その後、彼にサムズアップをさせてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089865756381229056/img/cHkaaOswUms_nf8d.jpg" width="600" alt="話すキャラクターのハッピーメッセージ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9466)**
+
+**作者:** [Julio McCauley](https://x.com/CosmicJulioBro) | **ソース:** [Link](https://x.com/CosmicJulioBro/status/2089865785774870784) | **公開日:** Aug 19, 2026
+
+---
+### 壮大な風景を捉えるオービットカメラショット
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 女性が雄大な景色を見下ろす様子を、ゆっくりとしたオービットカメラの動きと風のエフェクトで表現したシネマティックなプロンプトです。
+
+#### 📝 プロンプト
+
+```
+女性が雄大な景色を見つめ、その壮大さを感じている。カメラは女性の周囲を旋回しながら、ゆっくりと後方に引いていく。そよ風が彼女の服と髪を優しく揺らしている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089847137815429120/img/-2eePH4RnpUpkgxi.jpg" width="600" alt="壮大な風景を捉えるオービットカメラショット">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9475)**
+
+**作者:** [Saposhi](https://x.com/Saposhin_AI) | **ソース:** [Link](https://x.com/Saposhin_AI/status/2089847152986169773) | **公開日:** Aug 18, 2026
+
+---
+### ケアベアが中指を立てるアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ケアベアのキャラクターが、本来のイメージとは異なる特定のジェスチャーを行う様子をリクエストする、刺激的な動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+ケアベアのお腹の中央に中指が描かれた、ケアベアの動画を生成してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089836887934447616/img/lEom-EY5_liX_IE6.jpg" width="600" alt="ケアベアが中指を立てるアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9468)**
+
+**作者:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **ソース:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **公開日:** Aug 18, 2026
+
+---
+### スペイン語の食料品店での会話
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> スペイン語での客と店員の 15 秒間の会話動画用プロンプト。
+
+#### 📝 プロンプト
+
+```
+スペイン語で、女性が店で買い物をしようとしている 15 秒程度のやり取りを作成してください。例えば「こんにちは、牛乳をください」といった内容で、男性店員が親切に応対するようなシーンにしてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="スペイン語の食料品店での会話">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9471)**
+
+**作者:** [Marco](https://x.com/Good_Tweet_USA) | **ソース:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **公開日:** Aug 18, 2026
+
+---
+### 祝祭モードのプレアデス星人
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 祝祭状態にあるプレアデス星人を描いたシネマティックなプロンプト。高精細なボリュメトリックライティングと鮮やかな色彩が特徴です。
+
+#### 📝 プロンプト
+
+```
+6 次元以降の Sheen を経て祝祭モードにあるプレアデス星人、傑作、超高精細な画質、ボリュメトリックな明るいライティングと色彩
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="祝祭モードのプレアデス星人">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9469)**
+
+**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **ソース:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **公開日:** Aug 18, 2026
+
+---
+### グレーシャー国立公園のドローン映像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> グレーシャー国立公園の晴れた午後を捉えた、一人称視点のドローン映像用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+グレーシャー国立公園のゴーイング・トゥ・ザ・サン・ロードを西へ向かう、一人称視点のドローン映像を作成してください。時間は午後の半ばで、晴天の様子です。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="グレーシャー国立公園のドローン映像">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9467)**
+
+**作者:** [Eric Lovold](https://x.com/ericlovold) | **ソース:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **公開日:** Aug 18, 2026
+
+---
+### 360 度 VR キャンプファイヤーシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 心落ち着くキャンプファイヤーと音響風景を特徴とする、360 度 VR 動画向けの没入型プロンプトです。
+
+#### 📝 プロンプト
+
+```
+球体の均衡からゆっくりと上昇し、この 360 度 VR 球体の重心に位置する、完全な静寂、心落ち着くキャンプファイヤー、音響風景
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="360 度 VR キャンプファイヤーシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9465)**
+
+**作者:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **ソース:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **公開日:** Aug 18, 2026
+
+---
 ### ジョイスティックと絵文字のアニメーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +446,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9425)**
 
 **作者:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **ソース:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **公開日:** Aug 17, 2026
+
+---
+### リキッドクローム・ターミネーター・エフェクト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 映画『ターミネーター』シリーズを彷彿とさせる、被写体を液体金属のクローム素材へと変化させるビデオ・トゥ・ビデオ形式のプロンプトです。
+
+#### 📝 プロンプト
+
+```
+私を映画『ターミネーター』のように、一瞬で液体クロームへと変化させる動画にしてください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089481439981002753/img/-CUZ_gnhORuZ-ygw.jpg" width="600" alt="リキッドクローム・ターミネーター・エフェクト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9470)**
+
+**作者:** [George White](https://x.com/GeorgeWhit30059) | **ソース:** [Link](https://x.com/GeorgeWhit30059/status/2089481455005032644) | **公開日:** Aug 17, 2026
 
 ---
 ### ゴシック調の赤と金の光るテキスト
@@ -1900,220 +2121,6 @@ MAHEM（電磁流体力学爆発弾）が小型プラズマレールガンへと
 **作者:** [Jorge Gonzalez](https://x.com/JorgeGeminiOR) | **ソース:** [Link](https://x.com/JorgeGeminiOR/status/2087687088447672659) | **公開日:** Aug 12, 2026
 
 ---
-### チャイナドレスとドラゴンの動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 伝統的なチャイナドレスを着た女性がドラゴンによって空中に持ち上げられる様子を描いた、シネマティックな動画用プロンプト。
-
-#### 📝 プロンプト
-
-```
-美女はチャイナドレスに着替えた。邪悪なドラゴンが身を乗り出してカメラを覗き込み、そのまま美女を巻き上げて空へと舞い上がった。空中にいる美女はカメラを見下ろし、笑顔で手を振った。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087474580504117248/img/68EJF92sedAVgrqX.jpg" width="600" alt="チャイナドレスとドラゴンの動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9010)**
-
-**作者:** [实在人](https://x.com/yngfipng1) | **ソース:** [Link](https://x.com/yngfipng1/status/2087474826802086038) | **公開日:** Aug 12, 2026
-
----
-### サンライズ・アスレチック・ストレッチ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ゴールデンアワーの都会のスカイラインを背景に、アスリートがストレッチをするシネマティックな写真スタイルの動画。
-
-#### 📝 プロンプト
-
-```
-日の出にストレッチをするアスリート、都会のスカイラインを背景に、ゴールデンアワーの照明、ミニマルなアクティブウェア、シネマティックな写真
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087367634077814784/img/aYMPTsTLcQE4yL0P.jpg" width="600" alt="サンライズ・アスレチック・ストレッチ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8922)**
-
-**作者:** [Viralblend](https://x.com/_Viralblend) | **ソース:** [Link](https://x.com/_Viralblend/status/2087367648606872030) | **公開日:** Aug 12, 2026
-
----
-### Busy Beaver の計算デスクアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 計算スイッチと花々を通じて仕事と自然が融合する、ビーバーのデスクを描いたクリエイティブなアニメーションプロンプトです。
-
-#### 📝 プロンプト
-
-```
-Busy Beaver のデスクに、花の彩りが加わりました：
-
-64 個のスイッチ   1 つの花瓶
-仕事   遊び   人生
-
-ビーバーの仕事を邪魔することなく、花々が計算の世界に彩りをもたらします。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087323909725044737/img/VjgJEMl-CaB2QzHT.jpg" width="600" alt="Busy Beaver の計算デスクアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9011)**
-
-**作者:** [John Colwell](https://x.com/Jmcssystems) | **ソース:** [Link](https://x.com/Jmcssystems/status/2087323943648559187) | **公開日:** Aug 11, 2026
-
----
-### アニメマーカー風のアライグマのポートレート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ユニークなカラーパレットで描かれた、アニメマーカー風のカートゥーン調アライグマのイラスト。1980 年代のエアブラシ風の家族写真のような背景が特徴です。
-
-#### 📝 プロンプト
-
-```
-アニメマーカー風（ベタ塗りや塗りつぶしが中心）のポートレート。頭が少し大きめのカートゥーン調のアライグマで、白と黒だけでなく、白、ダークグリーン、ゴールドの色調を取り入れた毛並みが特徴です。1980 年代の古い家族写真のような、エアブラシ風の背景を合わせた上品な仕上がりです。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087319223567896576/img/zMwcv4x0oGBqXAF5.jpg" width="600" alt="アニメマーカー風のアライグマのポートレート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9009)**
-
-**作者:** [Pure Jimothy](https://x.com/purejimothy) | **ソース:** [Link](https://x.com/purejimothy/status/2087319238629572834) | **公開日:** Aug 11, 2026
-
----
-### 電気エネルギーの視覚効果
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 急速に脈動する電気のハイライトとエネルギーのストロボ効果を伴う、静止カメラショット用のビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-固定カメラ、被写体の動きなし、すべてが完全に静止した状態。急速な電気のハイライトと輪郭が画像全体で点滅し、脈動する。エッジ、背景、前景に光り輝く青と白の電気エネルギーのストロボが走り、実際の動きはないものの、光とエネルギーの効果だけで生き生きとした電気的な感覚を生み出す。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087312301032366080/img/688R0vemAvNLWXiL.jpg" width="600" alt="電気エネルギーの視覚効果">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8923)**
-
-**作者:** [Teh Lid](https://x.com/TehLid88) | **ソース:** [Link](https://x.com/TehLid88/status/2087312335165686193) | **公開日:** Aug 11, 2026
-
----
-### 洗練されたシルバーロケットの打ち上げ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 炎と煙を上げながら大気圏を加速していくロケットの、非常に詳細なシネマティック動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-洗練されたシルバーのロケットが、大気圏を力強く上昇していく。エンジンは激しいオレンジと白の炎を噴き上げ、巨大な煙と炎の尾が後方に広がっていく。カメラはゆっくりとパンし、上空へとチルトしていく...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087309167312728065/img/Rqe6QETEmurGJAev.jpg" width="600" alt="洗練されたシルバーロケットの打ち上げ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8927)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2087309189534151111) | **公開日:** Aug 11, 2026
-
----
-### ゴールデンアワーの海を望むドリーショット
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 豪華なインテリアから夕暮れの海へと切り替わる、Grok Imagine 用のシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-カメラが豪華なホテルの室内を床から天井までの窓に向かってゆっくりとドリーインしていく。窓の外にはゴールデンアワーの輝く広大な海が広がり、シルクのカーテンが風に優しくなびき、温かな陽光が磨き上げられた床の上を滑るように差し込む...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087230586813321216/img/Wf_DWol8_UFAXrAW.jpg" width="600" alt="ゴールデンアワーの海を望むドリーショット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8925)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2087230601719877929) | **公開日:** Aug 11, 2026
-
----
-### ジブリ風のサイクリング動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> スタジオジブリ作品にインスパイアされた動画プロンプト。山道を自転車で駆け下り、絶景の湾へと向かう少女の様子を、リアルな動きと風のエフェクトで表現します。
-
-#### 📝 プロンプト
-
-```
-ローアングルから、絶景の湾と緑豊かな山々を望む緩やかな坂道を自転車で駆け下りる少女を追う。車輪には柔らかなモーションブラー、金髪をなびかせるリアルな風、背景にはきらめく海面、スタジオジブリ風の鮮やかなライティング。（没入感
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087220575290953728/img/1ERY9JOToSLakiWJ.jpg" width="600" alt="ジブリ風のサイクリング動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8928)**
-
-**作者:** [arnab](https://x.com/arnab28x) | **ソース:** [Link](https://x.com/arnab28x/status/2087221207422919109) | **公開日:** Aug 11, 2026
-
----
-### ゼンデイヤがジェームズ・ボンドを演じるコンセプトトレーラー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ゼンデイヤが次期ジェームズ・ボンドを演じるというキャスティングの可能性を示す、クリエイティブなコンセプト動画用プロンプト。
-
-#### 📝 プロンプト
-
-```
-もしゼンデイヤがジェームズ・ボンドだったら？エイミー・パスカルや @AmazonMGMStudio に、彼女が新しいボンド役に最適であることを納得させるためのコンセプト動画を作成しましょう。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087174944698310656/img/FiZYuwcNiwvcTrWs.jpg" width="600" alt="ゼンデイヤがジェームズ・ボンドを演じるコンセプトトレーラー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9012)**
-
-**作者:** [Huff](https://x.com/Huff4Congress) | **ソース:** [Link](https://x.com/Huff4Congress/status/2087175078651768903) | **公開日:** Aug 11, 2026
-
----
-### シネマティックな 3 ショット製品紹介動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 静止画の製品写真を、広告用のシネマティックな 3 ショット構成の紹介動画へと変換するために設計されたプロフェッショナルな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-ヒーロー製品紹介、1 枚の製品写真をシネマティックな 3 ショットの紹介動画に変換
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087146457535287296/img/OLV0JT2u5ygb6ORf.jpg" width="600" alt="シネマティックな 3 ショット製品紹介動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8931)**
-
-**作者:** [いにしえ@AI Director / Creator / Engineer｜Will Oldgram](https://x.com/old_pgmrs_will) | **ソース:** [Link](https://x.com/old_pgmrs_will/status/2087147332702007732) | **公開日:** Aug 11, 2026
-
----
-### シネマティックなファッション・ライフスタイル映像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> シネマティックなカメラワークとリアルな物理演算を用いた、プロフェッショナルなファッション映像のための詳細なマルチショット動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-多様なショットと自然なストーリーテリングで、シネマティックなファッション／ライフスタイル映像を制作してください。まずは全身と周囲の環境を捉えたワイドショットから始め、続いて彼女が風の中をゆっくりと歩く全身のトラッキングショットへ移行します。次に、彼女が風になびく髪を自然にかき上げ、遠くを見つめて柔らかく思慮深い表情を浮かべる、ミディアム・スリークォーターショットへ切り替えます。続いて、強めの突風で髪とコートが揺れる中、カメラが彼女の周りをゆっくりと弧を描くように移動するミディアムロングのサイドプロファイルショットを撮影します。最後は、リファレンス画像に合わせた親密なクローズアップで、彼女が穏やかな表情で風に向かって顔を傾け、静かに目を閉じる様子を捉えます。滑らかなシネマティックなカメラワーク、リアルな歩行と身体の動き、自然な呼吸、詳細な髪と衣服の物理演算、変化する風の強さ、リアルな被写界深度とモーションブラーを適用してください。すべてのショットをクローズアップにしたり、彼女を静止させたりしないでください。映像全体を通して、彼女の顔、アイデンティティ、髪型、服装、体型、ジュエリー、全体的な外見を正確に維持してください。大げさな表情、会話、急な動き、顔の変形や服装の変化は避けてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086959132725407744/img/cOj85JUzbazK07rr.jpg" width="600" alt="シネマティックなファッション・ライフスタイル映像">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=8924)**
-
-**作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **ソース:** [Link](https://x.com/iamahmedfaraz66/status/2087144498258128996) | **公開日:** Aug 11, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2175,6 +2182,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-19T01:51:48.028Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-19T13:26:20.353Z</sub>
 
 </div>

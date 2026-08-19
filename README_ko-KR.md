@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2527** |
+| 📝 총 프롬프트 수 | **2538** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-08-19** |
 
@@ -189,6 +189,208 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 아침 셀카 영상 독백
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 욕실에서의 아침 일상을 담은 여성의 세로형 셀카 스타일 영상 프롬프트로, 자연스럽고 차분한 미학을 강조합니다.
+
+#### 📝 프롬프트
+
+```
+일반 설정:
+9:16 비율의 세로형 숏폼 영상, 셀카 영상 스타일. [Image 1]의 [Image 2]를 착용한 성인 여성 주인공, 자연스럽게 흐르는 긴 머리, 왼손으로 휴대폰을 들고 거울 앞에서 촬영 중. 회색 타일 욕실, 부드러운 쿨 화이트 톤의 아침 햇살, 깨끗한 거울, 사실적인 모바일 셀카 질감, 약간의 핸드헬드 흔들림, 정확한 립싱크.
+전반적인 스타일:
+세련된 아침의 자신감, 성숙하고 여유로우며 우아한, 영화 같은 아침 독백 느낌. 주인공은 막 잠에서 깼지만 안정된 상태이며, 맑은 눈빛, 온화한 표정, 자연스럽고 절제된 움직임을 보임. 의도적인 유혹이나 저속한 행동은 배제하고 '자신감, 평온함, 좋은 컨디션, 오늘 하루도 멋질 것'이라는 메시지를 표현하는 데 집중.
+동작 및 자세:
+주인공은 거울 앞에 서서 어깨를 자연스럽게 이완하고, 몸을 거울 쪽으로 살짝 돌린 채 머리카락을 부드럽게 정리하며, 가끔 거울 속 자신을 바라보다가 휴대폰 카메라를 응시함. 오른손을 가슴에 가볍게 얹어 자기 확신을 표현한 뒤, 마치 오늘 하루에 좋은 기운을 전달하듯 자연스럽게 손을 밖으로 펼침. 작고 우아하며 여유롭고 사실적인 움직임. 배경 키워드:
+섹션 1 0:00-0:15
+전경:
+주인공이 왼손으로 셀카를 찍으며 오른손으로 머리카락을 부드럽게 정리하고, 거울에서 카메라로 시선을 옮기며 살짝 미소 지음. 목소리는 부드럽지만 단호하며, 잠에서 깬 자신에게 건네는 아주 다정한 다짐과 같음.
+
+음악은 없거나 매우 약한 주변 소음, 약간의 욕실 울림, 옷 스치는 소리, 자연스러운 휴대폰 흔들림 소리 포함.
+주의 사항:
+저속한 유혹, 선정적인 행동, 노출, 과장된 입술 핥기, 과도한 허리 흔들기, 신체 비율 왜곡, 얼굴 변화, 의상 변화, 휴대폰 사라짐, 거울 속 인물 불일치, 깨진 자막, 워터마크, 추가 인물 등장 금지.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089920974015680512/img/Xe3tNU_TLm1xaUA_.jpg" width="600" alt="아침 셀카 영상 독백">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9474)**
+
+**작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2089921747407552927) | **게시일:** Aug 19, 2026
+
+---
+### 오디세우스와 개 아르고스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 오디세우스가 자신의 개 아르고스와 재회하는 감동적인 순간을 담은 내러티브 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+거지로 변장하고 이타카로 돌아온 오디세우스. 20년 동안 주인을 기다려온 늙고 병든 사냥개 아르고스는 그를 알아보고 꼬리를 흔든 뒤 곧바로 숨을 거둡니다....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089909243168079872/img/C_SvHln99CY5Ly_X.jpg" width="600" alt="오디세우스와 개 아르고스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9472)**
+
+**작성자:** [James Woodard](https://x.com/QuantumBikerX) | **출처:** [Link](https://x.com/QuantumBikerX/status/2089909272033251822) | **게시일:** Aug 19, 2026
+
+---
+### 오디세이 영화 예고편
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 오디세이의 줄거리를 요약하는 15초 분량의 사실적인 영화 예고편을 제작하기 위한 기능적 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+오디세이의 줄거리를 영화 예고편 형식으로 제작해 주세요. 영어로 사실적인 느낌을 살려 주시고, 마지막에는 반드시 제목이 나오도록 구성해 주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089895513369825280/img/6FijAqPFa7zAPtQM.jpg" width="600" alt="오디세이 영화 예고편">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9473)**
+
+**작성자:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **출처:** [Link](https://x.com/DrJGiddensRN/status/2089895538422423771) | **게시일:** Aug 19, 2026
+
+---
+### 말하는 캐릭터의 행복 메시지
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 남성 캐릭터가 더 높은 곳을 찾으라는 긍정적인 메시지를 전달한 뒤 엄지손가락을 치켜세우는 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+남성 캐릭터가 부드럽고 다정한 목소리로 다음과 같이 말하게 하세요: “행복해지는 것을 잊지 마세요. 그러니 당신이 더 높은 곳을 찾았기를 바랍니다… 더 높은 곳을요.” 그런 다음 엄지손가락을 치켜세우게 하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089865756381229056/img/cHkaaOswUms_nf8d.jpg" width="600" alt="말하는 캐릭터의 행복 메시지">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9466)**
+
+**작성자:** [Julio McCauley](https://x.com/CosmicJulioBro) | **출처:** [Link](https://x.com/CosmicJulioBro/status/2089865785774870784) | **게시일:** Aug 19, 2026
+
+---
+### 풍경 궤도 카메라 샷
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 웅장한 풍경을 내려다보는 여성의 모습을 느린 궤도 카메라 움직임과 바람 효과로 담아낸 영화적 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+한 여성이 웅장한 풍경을 바라보며 그 장엄함을 느끼고 있습니다. 카메라는 여성을 중심으로 궤도 각도를 그리며 천천히 뒤로 물러납니다. 부드러운 산들바람에 그녀의 옷과 머리카락이 흩날립니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089847137815429120/img/-2eePH4RnpUpkgxi.jpg" width="600" alt="풍경 궤도 카메라 샷">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9475)**
+
+**작성자:** [Saposhi](https://x.com/Saposhin_AI) | **출처:** [Link](https://x.com/Saposhin_AI/status/2089847152986169773) | **게시일:** Aug 18, 2026
+
+---
+### 케어베어 가운데 손가락 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 케어베어 캐릭터가 일반적이지 않은 특정 동작을 수행하도록 요청하는 도발적인 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+케어베어 배 중앙에 가운데 손가락이 있는 케어베어 영상을 생성해 줘.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089836887934447616/img/lEom-EY5_liX_IE6.jpg" width="600" alt="케어베어 가운데 손가락 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9468)**
+
+**작성자:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **출처:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **게시일:** Aug 18, 2026
+
+---
+### 스페인어 식료품점 대화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 스페인어로 진행되는 고객과 점원 간의 15초 분량 대화형 비디오를 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+스페인어로 식료품점에서 물건을 사려는 여성과 점원 간의 15초 분량 대화를 만들어 주세요. 예를 들어, 여성이 '안녕하세요, 우유를 사고 싶어요'라고 말하면 남성이 친절하게 응대하는 내용으로 구성해 주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="스페인어 식료품점 대화">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9471)**
+
+**작성자:** [Marco](https://x.com/Good_Tweet_USA) | **출처:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **게시일:** Aug 18, 2026
+
+---
+### 축제 분위기의 플레이아데스인
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 축제를 즐기는 플레이아데스인의 모습을 담은 시네마틱 프롬프트로, 고해상도 볼류메트릭 조명과 생동감 넘치는 색감이 특징입니다.
+
+#### 📝 프롬프트
+
+```
+6차원 이상의 세계에서 축제를 즐기는 플레이아데스인, 마스터피스, 초고화질 해상도, 볼류메트릭 밝은 조명 및 색감
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="축제 분위기의 플레이아데스인">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9469)**
+
+**작성자:** [Pleiadians Paradise](https://x.com/Octillion111111) | **출처:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **게시일:** Aug 18, 2026
+
+---
+### 글레이셔 국립공원 드론 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 글레이셔 국립공원의 화창한 오후를 담은 1인칭 시점의 드론 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+글레이셔 국립공원의 고잉 투 더 선 로드(Going-to-the-Sun Road)를 따라 서쪽으로 향하는 1인칭 시점의 드론 영상을 생성해 줘. 시간대는 오후 중반이며 날씨는 화창해야 해
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="글레이셔 국립공원 드론 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9467)**
+
+**작성자:** [Eric Lovold](https://x.com/ericlovold) | **출처:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **게시일:** Aug 18, 2026
+
+---
+### 360 VR 캠프파이어 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 차분한 캠프파이어와 오디오 풍경이 특징인 360도 VR 영상용 몰입형 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+구체의 평형 위로 천천히 상승, 이 VR 360도 구체 내의 무게 중심, 완전히 정지된 상태, 차분한 캠프파이어, 오디오 풍경
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="360 VR 캠프파이어 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9465)**
+
+**작성자:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **출처:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **게시일:** Aug 18, 2026
+
+---
 ### 조이스틱 및 이모지 애니메이션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +446,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9425)**
 
 **작성자:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **출처:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **게시일:** Aug 17, 2026
+
+---
+### 리퀴드 크롬 터미네이터 효과
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 터미네이터 영화에서 영감을 받아 피사체를 액체 금속 크롬 질감으로 변환하는 비디오-투-비디오 스타일 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+터미네이터 영화처럼 나를 즉시 액체 크롬으로 변하게 해서 이 비디오를 만들어 줘
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089481439981002753/img/-CUZ_gnhORuZ-ygw.jpg" width="600" alt="리퀴드 크롬 터미네이터 효과">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9470)**
+
+**작성자:** [George White](https://x.com/GeorgeWhit30059) | **출처:** [Link](https://x.com/GeorgeWhit30059/status/2089481455005032644) | **게시일:** Aug 17, 2026
 
 ---
 ### 고딕 양식의 적금색 빛나는 텍스트
@@ -1900,220 +2121,6 @@ SpaceX 궤도 급유소 랜딩 페이지 히어로 섹션 디자인, 부드럽�
 **작성자:** [Jorge Gonzalez](https://x.com/JorgeGeminiOR) | **출처:** [Link](https://x.com/JorgeGeminiOR/status/2087687088447672659) | **게시일:** Aug 12, 2026
 
 ---
-### 중국 치파오와 용 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 전통 치파오를 입은 여성이 용에게 공중으로 들어 올려지는 장면을 담은 영화 같은 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-아름다운 여성이 중국 전통 의상인 치파오로 갈아입습니다. 사악한 용이 몸을 숙여 카메라를 응시하고, 이내 아름다운 여성을 감아 공중으로 들어 올립니다. 공중에 떠 있는 아름다운 여성은 카메라를 내려다보며 미소를 지으며 손을 흔듭니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087474580504117248/img/68EJF92sedAVgrqX.jpg" width="600" alt="중국 치파오와 용 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9010)**
-
-**작성자:** [实在人](https://x.com/yngfipng1) | **출처:** [Link](https://x.com/yngfipng1/status/2087474826802086038) | **게시일:** Aug 12, 2026
-
----
-### Sunrise Athletic Stretching
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 골든 아워 도시 스카이라인을 배경으로 스트레칭하는 운동선수의 시네마틱한 영상.
-
-#### 📝 프롬프트
-
-```
-일출 속 스트레칭하는 운동선수, 도시 스카이라인 배경, 골든 아워 조명, 미니멀한 애슬레저 룩, 시네마틱 사진
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087367634077814784/img/aYMPTsTLcQE4yL0P.jpg" width="600" alt="Sunrise Athletic Stretching">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8922)**
-
-**작성자:** [Viralblend](https://x.com/_Viralblend) | **출처:** [Link](https://x.com/_Viralblend/status/2087367648606872030) | **게시일:** Aug 12, 2026
-
----
-### 바쁜 비버의 컴퓨팅 데스크 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 컴퓨팅 스위치와 꽃을 통해 일과 자연이 어우러진 비버의 책상을 묘사한 창의적인 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-바쁜 비버의 책상에 꽃이 피었습니다:
-
-64 개의 스위치   1 개의 꽃병
-일   놀이   삶
-
-꽃들은 비버의 작업을 방해하지 않으면서 컴퓨팅 환경에 생기를 불어넣습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087323909725044737/img/VjgJEMl-CaB2QzHT.jpg" width="600" alt="바쁜 비버의 컴퓨팅 데스크 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9011)**
-
-**작성자:** [John Colwell](https://x.com/Jmcssystems) | **출처:** [Link](https://x.com/Jmcssystems/status/2087323943648559187) | **게시일:** Aug 11, 2026
-
----
-### 애니메이션 마커 스타일 너구리 초상화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 독특한 색감이 돋보이는 만화 너구리 캐릭터를 1980년대 에어브러시 스타일의 가족 사진 배경에 담아낸 애니메이션 마커 스타일 일러스트입니다.
-
-#### 📝 프롬프트
-
-```
-애니메이션 마커 스타일(주로 단색 및 채우기 위주)의 만화 너구리 초상화입니다. 머리가 큰 형태이며, 일반적인 흑백 대신 흰색, 짙은 녹색, 금빛이 감도는 털 색상을 사용했습니다. 1980년대 스타일의 에어브러시 배경을 적용하여 옛날 가족 사진 느낌을 세련되게 재현했습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087319223567896576/img/zMwcv4x0oGBqXAF5.jpg" width="600" alt="애니메이션 마커 스타일 너구리 초상화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9009)**
-
-**작성자:** [Pure Jimothy](https://x.com/purejimothy) | **출처:** [Link](https://x.com/purejimothy/status/2087319238629572834) | **게시일:** Aug 11, 2026
-
----
-### 전기 에너지 시각 효과
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빠르게 맥동하는 전기 하이라이트와 에너지 스트로보 효과가 포함된 고정 카메라 샷을 위한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-고정된 카메라 샷, 피사체 움직임 없음, 모든 것이 완전히 정지된 상태. 이미지 전반에 걸쳐 빠른 전기 하이라이트와 윤곽선이 번쩍이며 맥동함 — 가장자리, 배경, 전경에 빛나는 전기 파란색과 흰색 에너지 스트로보가 나타나며, 실제 움직임 없이 오직 빛과 에너지 효과만으로 생동감 넘치는 전기적 느낌을 연출함.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087312301032366080/img/688R0vemAvNLWXiL.jpg" width="600" alt="전기 에너지 시각 효과">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8923)**
-
-**작성자:** [Teh Lid](https://x.com/TehLid88) | **출처:** [Link](https://x.com/TehLid88/status/2087312335165686193) | **게시일:** Aug 11, 2026
-
----
-### 매끄러운 은빛 로켓 발사
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 대기권을 뚫고 가속하는 로켓의 불꽃과 연기를 묘사한 고화질 영화적 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-매끄러운 은빛 로켓이 대기권을 뚫고 강력하게 가속하며 솟구칩니다. 엔진은 강렬한 주황색과 흰색 불꽃을 내뿜고, 거대한 연기와 화염이 뒤로 길게 꼬리를 그리며 퍼져 나갑니다. 카메라는 천천히 위로 팬(pan) 및 틸트(tilt)하며...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087309167312728065/img/Rqe6QETEmurGJAev.jpg" width="600" alt="매끄러운 은빛 로켓 발사">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8927)**
-
-**작성자:** [Owen](https://x.com/owenxplore) | **출처:** [Link](https://x.com/owenxplore/status/2087309189534151111) | **게시일:** Aug 11, 2026
-
----
-### 골든 아워 오션 뷰 돌리 샷
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 고급스러운 실내에서 일몰 오션 뷰로 전환되는 장면을 담은 Grok Imagine용 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-카메라가 고급스러운 호텔 객실을 지나 통유리창을 향해 천천히 돌리 인(dolly in)하며, 골든 아워에 반짝이는 광활한 바다를 드러냅니다. 실크 커튼이 바람에 부드럽게 휘날리고 따스한 햇살이 매끄러운 바닥 위를 미끄러지듯 비춥니다...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087230586813321216/img/Wf_DWol8_UFAXrAW.jpg" width="600" alt="골든 아워 오션 뷰 돌리 샷">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8925)**
-
-**작성자:** [Owen](https://x.com/owenxplore) | **출처:** [Link](https://x.com/owenxplore/status/2087230601719877929) | **게시일:** Aug 11, 2026
-
----
-### 지브리 스타일 자전거 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 스튜디오 지브리에서 영감을 받은 영상 프롬프트로, 소녀가 산길을 따라 아름다운 만을 향해 자전거를 타고 내려가는 모습과 사실적인 움직임 및 바람 효과를 포함합니다.
-
-#### 📝 프롬프트
-
-```
-아름다운 만과 푸른 산을 마주하고 완만한 경사길을 따라 자전거를 타고 내려가는 소녀를 뒤따르는 낮은 카메라 앵글. 바퀴의 부드러운 모션 블러, 금발 머리를 흩날리는 사실적인 바람, 배경에 반짝이는 바닷물, 스튜디오 지브리 스타일의 생동감 넘치는 조명. (몰입형
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087220575290953728/img/1ERY9JOToSLakiWJ.jpg" width="600" alt="지브리 스타일 자전거 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8928)**
-
-**작성자:** [arnab](https://x.com/arnab28x) | **출처:** [Link](https://x.com/arnab28x/status/2087221207422919109) | **게시일:** Aug 11, 2026
-
----
-### 젠데이아(Zendaya)의 제임스 본드 컨셉 트레일러
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 젠데이아를 차기 제임스 본드로 상상하여 캐스팅 가능성을 보여주는 창의적인 컨셉 증명(proof-of-concept) 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-젠데이아가 제임스 본드라면 어떨까요? 에이미 파스칼(Amy Pascal)과 @AmazonMGMStudio 를 설득하여 그녀가 새로운 본드 역에 완벽한 캐스팅임을 보여주는 컨셉 증명 영상을 제작해 보세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087174944698310656/img/FiZYuwcNiwvcTrWs.jpg" width="600" alt="젠데이아(Zendaya)의 제임스 본드 컨셉 트레일러">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9012)**
-
-**작성자:** [Huff](https://x.com/Huff4Congress) | **출처:** [Link](https://x.com/Huff4Congress/status/2087175078651768903) | **게시일:** Aug 11, 2026
-
----
-### 영화 같은 3 샷 제품 공개 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 정적인 제품 사진을 광고용 영화 같은 3 샷 공개 시퀀스로 변환하도록 설계된 전문 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-히어로 제품 공개, 단 한 장의 제품 사진을 영화 같은 3 샷 공개 영상으로 변환하세요
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087146457535287296/img/OLV0JT2u5ygb6ORf.jpg" width="600" alt="영화 같은 3 샷 제품 공개 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8931)**
-
-**작성자:** [いにしえ@AI Director / Creator / Engineer｜Will Oldgram](https://x.com/old_pgmrs_will) | **출처:** [Link](https://x.com/old_pgmrs_will/status/2087147332702007732) | **게시일:** Aug 11, 2026
-
----
-### 시네마틱 패션 라이프스타일 시퀀스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 시네마틱한 카메라 무빙과 사실적인 물리 효과를 갖춘 전문적인 패션 시퀀스를 위한 상세한 멀티 샷 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-다양한 샷과 자연스러운 스토리텔링을 활용하여 시네마틱한 패션/라이프스타일 시퀀스 느낌의 영상을 제작하세요. 먼저 그녀의 전신과 주변 환경을 보여주는 와이드 환경 샷으로 시작한 뒤, 그녀가 바람을 맞으며 천천히 걸어가는 전신 트래킹 샷으로 전환하세요. 이어서 그녀가 바람에 흩날리는 머리카락을 자연스럽게 넘기며 부드럽고 사색적인 표정으로 먼 곳을 잠시 바라보는 미디엄 3/4 샷으로 이어가세요. 다음으로 더 강한 돌풍이 그녀의 머리카락과 코트를 흔드는 동안 카메라가 그녀 주위를 천천히 아크(arc)하며 도는 미디엄 롱 사이드 프로필 샷을 연출하세요. 마지막으로 레퍼런스 이미지와 일치하는 친밀한 클로즈업 샷으로 마무리하며, 그녀가 미묘하고 평온한 표정으로 얼굴을 바람 쪽으로 살짝 기울인 채 눈을 부드럽게 감는 모습을 담아내세요. 부드러운 시네마틱 카메라 무빙, 사실적인 보행 및 신체 역학, 자연스러운 호흡, 디테일한 머리카락과 의상 물리 효과, 변화하는 바람의 세기, 사실적인 깊이감과 모션 블러를 사용하세요. 모든 샷을 클로즈업으로 구성하거나 그녀를 정적인 상태로 두지 마세요. 영상 전체에서 그녀의 정확한 얼굴, 정체성, 헤어스타일, 의상, 신체 비율, 액세서리 및 전반적인 외형을 유지하세요. 과장된 표정, 대화, 갑작스러운 움직임, 얼굴 변형이나 의상 변경은 없어야 합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086959132725407744/img/cOj85JUzbazK07rr.jpg" width="600" alt="시네마틱 패션 라이프스타일 시퀀스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=8924)**
-
-**작성자:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **출처:** [Link](https://x.com/iamahmedfaraz66/status/2087144498258128996) | **게시일:** Aug 11, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2175,6 +2182,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-19T01:51:49.170Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-19T13:26:22.138Z</sub>
 
 </div>

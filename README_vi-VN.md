@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2527** |
+| 📝 Total Prompts | **2538** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-19** |
 
@@ -189,6 +189,208 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Video độc thoại selfie buổi sáng
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một câu lệnh tinh tế dành cho video dọc phong cách selfie, mô tả thói quen buổi sáng của một người phụ nữ trong phòng tắm, nhấn mạnh vào thẩm mỹ tự nhiên và bình yên.
+
+#### 📝 Prompt
+
+```
+Bối cảnh chung:
+Video ngắn dọc tỉ lệ 9:16, phong cách quay selfie. Nhân vật chính là nữ giới trưởng thành mặc [Image 2] từ [Image 1], tóc dài buông xõa tự nhiên, tay trái cầm điện thoại quay trước gương. Phòng tắm ốp gạch xám, ánh sáng buổi sáng trắng mát dịu nhẹ, gương sạch, chất lượng hình ảnh selfie điện thoại chân thực, có độ rung nhẹ của tay cầm, khớp khẩu hình chính xác.
+Phong cách tổng thể:
+Sự tự tin buổi sáng tinh tế, trưởng thành, thư thái, thanh lịch, giống như một đoạn độc thoại buổi sáng đậm chất điện ảnh. Nhân vật chính vừa thức dậy nhưng ở trạng thái ổn định, ánh mắt trong trẻo, biểu cảm dịu dàng, cử động tự nhiên và chừng mực. Không cố tình gợi cảm, không có hành động thô tục, tập trung thể hiện sự "tự tin, điềm tĩnh, trạng thái tốt, hôm nay sẽ là một ngày tuyệt vời".
+Hành động và tư thế:
+Nhân vật chính đứng trước gương, vai thả lỏng tự nhiên, cơ thể hơi xoay về phía gương, nhẹ nhàng chỉnh tóc, thỉnh thoảng nhìn vào gương rồi nhìn vào camera điện thoại. Tay phải đặt nhẹ lên ngực để thể hiện sự tự khẳng định bản thân, sau đó mở rộng ra một cách tự nhiên như thể đón nhận năng lượng tích cực cho ngày mới. Các cử động nhỏ, thanh lịch, thư thái và chân thực. Từ khóa bối cảnh:
+Phần 1 0:00-0:15
+Tiền cảnh:
+Nhân vật chính selfie bằng tay trái, tay phải nhẹ nhàng chỉnh tóc, chuyển ánh nhìn từ gương sang camera và mỉm cười nhẹ. Giọng nói mềm mại nhưng kiên định, như một lời nhắc nhở bản thân rất dịu dàng khi vừa thức dậy.
+
+Không nhạc nền hoặc âm thanh môi trường cực nhỏ, có tiếng vang nhẹ trong phòng tắm, tiếng cọ xát quần áo và tiếng rung tự nhiên của điện thoại.
+Tránh:
+Gợi cảm thô tục, hành động khiêu dâm, khỏa thân, liếm môi quá đà, vặn eo quá mức, biến dạng tỉ lệ cơ thể, thay đổi khuôn mặt, thay đổi trang phục, điện thoại biến mất, nhân vật trong gương không nhất quán, phụ đề lỗi font, hình mờ (watermark), nhân vật phụ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089920974015680512/img/Xe3tNU_TLm1xaUA_.jpg" width="600" alt="Video độc thoại selfie buổi sáng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9474)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2089921747407552927) | **Published:** Aug 19, 2026
+
+---
+### Odysseus và chú chó Argos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt tường thuật ghi lại khoảnh khắc đầy cảm xúc khi Odysseus được chú chó Argos của mình nhận ra.
+
+#### 📝 Prompt
+
+```
+Odysseus trở về Ithaca trong bộ dạng một người ăn xin, chú chó săn bị bỏ rơi Argos, kẻ đã chờ đợi chủ nhân suốt hai mươi năm, nhận ra ông, vẫy đuôi và ngay lập tức qua đời....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089909243168079872/img/C_SvHln99CY5Ly_X.jpg" width="600" alt="Odysseus và chú chó Argos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9472)**
+
+**Author:** [James Woodard](https://x.com/QuantumBikerX) | **Source:** [Link](https://x.com/QuantumBikerX/status/2089909272033251822) | **Published:** Aug 19, 2026
+
+---
+### Trailer phim Odyssey
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chức năng để tạo trailer phim dài 15 giây đầy chân thực, tóm tắt cốt truyện của Odyssey.
+
+#### 📝 Prompt
+
+```
+Cốt truyện của Odyssey được thực hiện dưới dạng trailer cho một bộ phim về Odyssey. Hãy làm cho nó thật chân thực bằng tiếng Anh. Đảm bảo tiêu đề xuất hiện ở cuối.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089895513369825280/img/6FijAqPFa7zAPtQM.jpg" width="600" alt="Trailer phim Odyssey">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9473)**
+
+**Author:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **Source:** [Link](https://x.com/DrJGiddensRN/status/2089895538422423771) | **Published:** Aug 19, 2026
+
+---
+### Thông điệp vui vẻ từ nhân vật hoạt hình
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video trong đó một nhân vật nam đưa ra thông điệp tích cực về việc tìm kiếm một tầm cao mới, theo sau là cử chỉ giơ ngón tay cái.
+
+#### 📝 Prompt
+
+```
+Hãy để nhân vật nam nói một cách nhẹ nhàng và đầy yêu thương: “Đừng quên phải luôn hạnh phúc nhé. Vì vậy, tôi hy vọng bạn đã tìm thấy một tầm cao mới… một tầm cao mới.” Sau đó, hãy để anh ấy thực hiện cử chỉ giơ ngón tay cái.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089865756381229056/img/cHkaaOswUms_nf8d.jpg" width="600" alt="Thông điệp vui vẻ từ nhân vật hoạt hình">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9466)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2089865785774870784) | **Published:** Aug 19, 2026
+
+---
+### Cảnh quay camera xoay vòng phong cảnh
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh điện ảnh mô tả một người phụ nữ đang nhìn ra khung cảnh hùng vĩ với chuyển động camera xoay vòng chậm và hiệu ứng gió.
+
+#### 📝 Prompt
+
+```
+Một người phụ nữ đang ngắm nhìn khung cảnh hùng vĩ, cảm nhận sự tráng lệ của thiên nhiên. Camera từ từ lùi lại trong khi xoay vòng quanh người phụ nữ. Một làn gió nhẹ làm lay động quần áo và mái tóc của cô ấy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089847137815429120/img/-2eePH4RnpUpkgxi.jpg" width="600" alt="Cảnh quay camera xoay vòng phong cảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9475)**
+
+**Author:** [Saposhi](https://x.com/Saposhin_AI) | **Source:** [Link](https://x.com/Saposhin_AI/status/2089847152986169773) | **Published:** Aug 18, 2026
+
+---
+### Hoạt ảnh Care Bear giơ ngón tay thối
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video mang tính khiêu khích, yêu cầu nhân vật Care Bear thực hiện một cử chỉ cụ thể, không theo truyền thống.
+
+#### 📝 Prompt
+
+```
+Hãy tạo cho tôi một video về một chú gấu Care Bear với hình ảnh ngón tay thối ở ngay chính giữa bụng của chú gấu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089836887934447616/img/lEom-EY5_liX_IE6.jpg" width="600" alt="Hoạt ảnh Care Bear giơ ngón tay thối">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9468)**
+
+**Author:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **Source:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **Published:** Aug 18, 2026
+
+---
+### Hội thoại tại cửa hàng tạp hóa bằng tiếng Tây Ban Nha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một yêu cầu (prompt) cho video hội thoại dài 15 giây giữa khách hàng và nhân viên cửa hàng bằng tiếng Tây Ban Nha.
+
+#### 📝 Prompt
+
+```
+Bạn có thể tạo một đoạn hội thoại dài 15 giây cảnh một người phụ nữ muốn mua đồ tại cửa hàng bằng tiếng Tây Ban Nha không? Ví dụ như: chào hỏi, tôi muốn mua sữa, và người đàn ông phản hồi một cách lịch sự.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="Hội thoại tại cửa hàng tạp hóa bằng tiếng Tây Ban Nha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9471)**
+
+**Author:** [Marco](https://x.com/Good_Tweet_USA) | **Source:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **Published:** Aug 18, 2026
+
+---
+### Người Pleiades trong trạng thái ăn mừng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh mô tả người Pleiades đang ăn mừng với ánh sáng thể tích độ phân giải cao và màu sắc rực rỡ.
+
+#### 📝 Prompt
+
+```
+Người Pleiades trong trạng thái ăn mừng sau khi tỏa sáng ở chiều không gian thứ sáu và hơn thế nữa, kiệt tác, độ phân giải siêu nét (Ultra HD), ánh sáng thể tích rực rỡ và màu sắc sống động
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="Người Pleiades trong trạng thái ăn mừng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9469)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **Published:** Aug 18, 2026
+
+---
+### Video quay bằng flycam tại Vườn quốc gia Glacier
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý (prompt) tạo video bằng flycam ở góc nhìn thứ nhất, ghi lại khung cảnh buổi chiều đầy nắng tại Vườn quốc gia Glacier.
+
+#### 📝 Prompt
+
+```
+Tạo một video quay bằng flycam ở góc nhìn thứ nhất, di chuyển về phía tây trên con đường Going-to-the-Sun tại Vườn quốc gia Glacier, vào giữa buổi chiều đầy nắng
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="Video quay bằng flycam tại Vườn quốc gia Glacier">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9467)**
+
+**Author:** [Eric Lovold](https://x.com/ericlovold) | **Source:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **Published:** Aug 18, 2026
+
+---
+### Khung cảnh lửa trại 360 VR
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh nhập vai cho video VR 360 độ với khung cảnh lửa trại êm dịu và âm thanh sống động.
+
+#### 📝 Prompt
+
+```
+từ từ nâng lên trên trạng thái cân bằng của hình cầu, trọng tâm trong hình cầu VR 360 độ này, hoàn toàn tĩnh lặng , lửa trại êm dịu , âm thanh sống động
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="Khung cảnh lửa trại 360 VR">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9465)**
+
+**Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
+
+---
 ### Hoạt ảnh Cần điều khiển và Biểu tượng cảm xúc
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +446,25 @@ Hãy làm cho hành tinh xoay tròn và con tàu di chuyển về phía trước
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9425)**
 
 **Author:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **Source:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **Published:** Aug 17, 2026
+
+---
+### Hiệu ứng Liquid Chrome Terminator
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) chuyển đổi video sang video, biến chủ thể thành chất liệu kim loại lỏng mạ crôm, lấy cảm hứng từ loạt phim Terminator.
+
+#### 📝 Prompt
+
+```
+tạo video này với tôi, biến hình thành kim loại lỏng mạ crôm tức thì giống như trong các bộ phim Terminator
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089481439981002753/img/-CUZ_gnhORuZ-ygw.jpg" width="600" alt="Hiệu ứng Liquid Chrome Terminator">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9470)**
+
+**Author:** [George White](https://x.com/GeorgeWhit30059) | **Source:** [Link](https://x.com/GeorgeWhit30059/status/2089481455005032644) | **Published:** Aug 17, 2026
 
 ---
 ### Văn bản phát sáng màu đỏ vàng phong cách Gothic
@@ -1900,220 +2121,6 @@ Một hồ nước tĩnh lặng tỏa ánh sáng dịu nhẹ dưới bầu trờ
 **Author:** [Jorge Gonzalez](https://x.com/JorgeGeminiOR) | **Source:** [Link](https://x.com/JorgeGeminiOR/status/2087687088447672659) | **Published:** Aug 12, 2026
 
 ---
-### Video về sườn xám Trung Hoa và rồng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả mang tính điện ảnh cho video về một người phụ nữ mặc sườn xám truyền thống đang được rồng nâng lên không trung.
-
-#### 📝 Prompt
-
-```
-Người đẹp thay trang phục sườn xám Trung Hoa. Con rồng dữ tợn cúi xuống và lượn vòng nhìn vào ống kính, sau đó cuộn người đẹp lên không trung. Người đẹp nhìn xuống ống kính từ trên cao và mỉm cười vẫy tay.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087474580504117248/img/68EJF92sedAVgrqX.jpg" width="600" alt="Video về sườn xám Trung Hoa và rồng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9010)**
-
-**Author:** [实在人](https://x.com/yngfipng1) | **Source:** [Link](https://x.com/yngfipng1/status/2087474826802086038) | **Published:** Aug 12, 2026
-
----
-### Bài tập giãn cơ buổi sáng của vận động viên
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Video phong cách nhiếp ảnh điện ảnh về một vận động viên đang giãn cơ trên nền đường chân trời thành phố vào giờ vàng.
-
-#### 📝 Prompt
-
-```
-Vận động viên giãn cơ lúc bình minh, hậu cảnh là đường chân trời thành phố, ánh sáng giờ vàng, trang phục thể thao tối giản, nhiếp ảnh điện ảnh
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087367634077814784/img/aYMPTsTLcQE4yL0P.jpg" width="600" alt="Bài tập giãn cơ buổi sáng của vận động viên">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8922)**
-
-**Author:** [Viralblend](https://x.com/_Viralblend) | **Source:** [Link](https://x.com/_Viralblend/status/2087367648606872030) | **Published:** Aug 12, 2026
-
----
-### Hoạt ảnh Bàn làm việc của Busy Beaver
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý hoạt ảnh sáng tạo mô tả bàn làm việc của một chú hải ly, nơi công việc hòa quyện với thiên nhiên thông qua các công tắc tính toán và những bông hoa.
-
-#### 📝 Prompt
-
-```
-Bàn làm việc của Busy Beaver giờ đây đã có điểm nhấn là những bông hoa:
-
-64 CÔNG TẮC   1 LỌ HOA
-CÔNG VIỆC   GIẢI TRÍ   CUỘC SỐNG
-
-Những bông hoa mang màu sắc vào quá trình tính toán mà không làm gián đoạn công việc của chú hải ly.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087323909725044737/img/VjgJEMl-CaB2QzHT.jpg" width="600" alt="Hoạt ảnh Bàn làm việc của Busy Beaver">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9011)**
-
-**Author:** [John Colwell](https://x.com/Jmcssystems) | **Source:** [Link](https://x.com/Jmcssystems/status/2087323943648559187) | **Published:** Aug 11, 2026
-
----
-### Chân dung chú gấu mèo phong cách Anime Marker
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một bức tranh minh họa chú gấu mèo hoạt hình theo phong cách anime marker với bảng màu độc đáo, trên nền chân dung gia đình kiểu airbrush thập niên 1980.
-
-#### 📝 Prompt
-
-```
-Chân dung chú gấu mèo hoạt hình theo phong cách anime marker (chủ yếu là các mảng màu và tô nền) với phần đầu to, bộ lông có tông màu trắng, xanh đậm và ánh vàng thay vì chỉ có màu đen và trắng thông thường. Các chi tiết được phối hợp tinh tế trên nền airbrush theo chủ đề thập niên 1980, gợi nhớ đến những bức ảnh chân dung gia đình xưa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087319223567896576/img/zMwcv4x0oGBqXAF5.jpg" width="600" alt="Chân dung chú gấu mèo phong cách Anime Marker">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9009)**
-
-**Author:** [Pure Jimothy](https://x.com/purejimothy) | **Source:** [Link](https://x.com/purejimothy/status/2087319238629572834) | **Published:** Aug 11, 2026
-
----
-### Hiệu ứng hình ảnh năng lượng điện
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video cho cảnh quay tĩnh với các điểm nhấn điện giật nhanh và hiệu ứng nhấp nháy năng lượng.
-
-#### 📝 Prompt
-
-```
-Máy quay cố định, không có chuyển động của chủ thể, mọi thứ hoàn toàn đứng yên. Các điểm nhấn và đường viền điện giật nhanh nhấp nháy và rung động khắp hình ảnh — các tia sáng năng lượng màu xanh điện và trắng phát sáng trên các cạnh, hậu cảnh và tiền cảnh, tạo cảm giác sống động và tràn đầy năng lượng chỉ bằng các hiệu ứng ánh sáng, không có chuyển động thực tế.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087312301032366080/img/688R0vemAvNLWXiL.jpg" width="600" alt="Hiệu ứng hình ảnh năng lượng điện">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8923)**
-
-**Author:** [Teh Lid](https://x.com/TehLid88) | **Source:** [Link](https://x.com/TehLid88/status/2087312335165686193) | **Published:** Aug 11, 2026
-
----
-### Vụ phóng tên lửa bạc bóng bẩy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh đầy tính mô tả về một tên lửa đang tăng tốc xuyên qua bầu khí quyển với lửa và khói.
-
-#### 📝 Prompt
-
-```
-Tên lửa bạc bóng bẩy tăng tốc mạnh mẽ hướng lên trên xuyên qua bầu khí quyển, động cơ gầm rú với những ngọn lửa màu cam và trắng ngày càng dữ dội, trong khi cột khói và lửa khổng lồ lan rộng và để lại vệt dài phía sau. Máy quay từ từ lia và nghiêng lên trên để...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087309167312728065/img/Rqe6QETEmurGJAev.jpg" width="600" alt="Vụ phóng tên lửa bạc bóng bẩy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8927)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2087309189534151111) | **Published:** Aug 11, 2026
-
----
-### Cảnh quay dolly hướng ra đại dương vào giờ vàng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video điện ảnh dành cho Grok Imagine, ghi lại cảnh chuyển tiếp từ nội thất sang trọng sang tầm nhìn đại dương lúc hoàng hôn.
-
-#### 📝 Prompt
-
-```
-Máy quay từ từ di chuyển (dolly) về phía trước xuyên qua căn phòng khách sạn sang trọng hướng tới cửa sổ sát trần, để lộ đại dương bao la lấp lánh vào giờ vàng, trong khi những tấm rèm lụa nhẹ nhàng bay trong gió và ánh nắng ấm áp lướt trên mặt sàn sáng bóng...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087230586813321216/img/Wf_DWol8_UFAXrAW.jpg" width="600" alt="Cảnh quay dolly hướng ra đại dương vào giờ vàng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8925)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2087230601719877929) | **Published:** Aug 11, 2026
-
----
-### Video đạp xe phong cách Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video lấy cảm hứng từ Studio Ghibli, mô tả một cô gái đang đạp xe xuống con đường núi hướng về phía vịnh biển thơ mộng với hiệu ứng chuyển động và gió chân thực.
-
-#### 📝 Prompt
-
-```
-Góc máy thấp theo chân một cô gái đang đạp xe xuống con dốc thoai thoải hướng về phía vịnh biển và ngọn núi xanh. Hiệu ứng nhòe chuyển động nhẹ trên bánh xe, gió thổi chân thực làm bay mái tóc vàng của cô gái, nước biển lấp lánh ở phía sau, ánh sáng rực rỡ lấy cảm hứng từ Studio Ghibli. (Đắm chìm
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087220575290953728/img/1ERY9JOToSLakiWJ.jpg" width="600" alt="Video đạp xe phong cách Ghibli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8928)**
-
-**Author:** [arnab](https://x.com/arnab28x) | **Source:** [Link](https://x.com/arnab28x/status/2087221207422919109) | **Published:** Aug 11, 2026
-
----
-### Video ý tưởng Zendaya trong vai James Bond
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video gợi ý (prompt) mang tính sáng tạo nhằm hình dung Zendaya trong vai diễn James Bond tiếp theo để chứng minh tiềm năng tuyển chọn.
-
-#### 📝 Prompt
-
-```
-Sẽ ra sao nếu Zendaya trở thành James Bond? Hãy tạo một video ý tưởng để thuyết phục Amy Pascal và @AmazonMGMStudio rằng cô ấy là lựa chọn hoàn hảo cho vai diễn Bond mới.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087174944698310656/img/FiZYuwcNiwvcTrWs.jpg" width="600" alt="Video ý tưởng Zendaya trong vai James Bond">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9012)**
-
-**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2087175078651768903) | **Published:** Aug 11, 2026
-
----
-### Video giới thiệu sản phẩm 3 cảnh đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video chuyên nghiệp được thiết kế để biến hình ảnh sản phẩm tĩnh thành chuỗi video giới thiệu 3 cảnh đậm chất điện ảnh cho mục đích quảng cáo.
-
-#### 📝 Prompt
-
-```
-Giới thiệu sản phẩm chủ đạo, biến một bức ảnh sản phẩm thành video giới thiệu 3 cảnh đậm chất điện ảnh
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087146457535287296/img/OLV0JT2u5ygb6ORf.jpg" width="600" alt="Video giới thiệu sản phẩm 3 cảnh đậm chất điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8931)**
-
-**Author:** [いにしえ@AI Director / Creator / Engineer｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2087147332702007732) | **Published:** Aug 11, 2026
-
----
-### Chuỗi video phong cách thời trang điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt chi tiết gồm nhiều cảnh quay cho chuỗi video thời trang chuyên nghiệp với các chuyển động camera đậm chất điện ảnh và hiệu ứng vật lý chân thực.
-
-#### 📝 Prompt
-
-```
-Hãy tạo ra một video mang phong cách thời trang/phong cách sống điện ảnh với các góc quay đa dạng và lối kể chuyện tự nhiên. Bắt đầu bằng một cảnh quay toàn cảnh (wide shot) cho thấy trọn vẹn cơ thể nhân vật và môi trường xung quanh, sau đó chuyển sang cảnh quay theo chân (tracking shot) khi cô ấy chậm rãi bước đi trong gió. Chuyển sang cảnh quay trung bình (medium three-quarter shot), nơi cô ấy tự nhiên vén mái tóc bay trong gió sang một bên và nhìn vào khoảng không với biểu cảm nhẹ nhàng, suy tư. Tiếp nối bằng cảnh quay nghiêng (side-profile shot) khi một cơn gió mạnh hơn thổi bay mái tóc và chiếc áo khoác, trong khi camera từ từ di chuyển vòng quanh cô ấy. Kết thúc bằng một cảnh quay cận cảnh (close-up) thân mật khớp với hình ảnh tham chiếu, đôi mắt cô ấy khép hờ khi nghiêng mặt đón gió với biểu cảm bình yên tinh tế. Sử dụng các chuyển động camera điện ảnh mượt mà, cơ chế đi đứng và chuyển động cơ thể chân thực, hơi thở tự nhiên, hiệu ứng vật lý chi tiết cho tóc và vải, cường độ gió thay đổi, cùng độ sâu và hiệu ứng nhòe chuyển động (motion blur) chân thực. Tránh việc chỉ quay cận cảnh hoặc để nhân vật đứng yên. Duy trì chính xác khuôn mặt, danh tính, kiểu tóc, trang phục, tỷ lệ cơ thể, trang sức và ngoại hình tổng thể của cô ấy trong suốt video. Không sử dụng các biểu cảm cường điệu, không nói chuyện, không có chuyển động đột ngột, không làm biến dạng khuôn mặt hoặc thay đổi trang phục.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086959132725407744/img/cOj85JUzbazK07rr.jpg" width="600" alt="Chuỗi video phong cách thời trang điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8924)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2087144498258128996) | **Published:** Aug 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2175,6 +2182,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-19T01:51:51.740Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-19T13:26:24.849Z</sub>
 
 </div>

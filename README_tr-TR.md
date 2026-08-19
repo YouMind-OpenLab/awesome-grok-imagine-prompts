@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2527** |
+| 📝 Total Prompts | **2538** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-19** |
 
@@ -189,6 +189,208 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Sabah Özçekim Video Monoloğu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Bir kadının banyodaki sabah rutinini konu alan, doğal ve sakin bir estetiği vurgulayan, dikey özçekim tarzındaki video için sofistike bir komut.
+
+#### 📝 Prompt
+
+```
+Genel Ortam:
+9:16 dikey kısa video, özçekim video tarzı. [Image 1]'deki [Image 2]'yi giyen yetişkin kadın başrol, uzun saçları doğal bir şekilde dökülüyor, aynanın önünde çekim yapmak için sol elinde bir telefon tutuyor. Gri fayanslı banyo, yumuşak soğuk beyaz sabah ışığı, temiz ayna, gerçekçi mobil özçekim dokusu, hafif el titremesi, doğru dudak senkronizasyonu.
+Genel Stil:
+Sofistike sabah özgüveni, olgun, rahat, zarif, sinematik bir sabah monoloğu gibi. Başrol yeni uyanmış ancak dengeli bir durumda; net gözler, nazik bir ifade ve doğal, ölçülü hareketler. Kasıtlı bir baştan çıkarma yok, kaba hareketler yok, 'özgüven, dinginlik, iyi bir ruh hali, bugün harika geçecek' duygusunu ifade etmeye odaklanılıyor.
+Eylem ve Duruş:
+Başrol aynanın önünde duruyor, omuzları doğal bir şekilde rahat, vücudu hafifçe aynaya dönük, nazikçe saçını düzeltiyor, ara sıra aynadaki kendine bakıyor, ardından telefon kamerasına bakıyor. Sağ eli, kendini onayladığını ifade etmek için nazikçe göğsüne yerleştiriliyor, ardından sanki günün geri kalanına iyi bir enerji aktarıyormuş gibi doğal bir şekilde dışa doğru açılıyor. Küçük hareketler; zarif, rahat ve gerçekçi. Arka plan anahtar kelimeleri:
+Bölüm 1 0:00-0:15
+Ön Plan:
+Başrol sol eliyle özçekim yapıyor, sağ eliyle nazikçe saçını düzeltiyor, bakışlarını aynadan kameraya çeviriyor ve hafifçe gülümsüyor. Sesi yumuşak ama kararlı, tıpkı uyanır uyanmaz kendine verdiği çok nazik bir hatırlatma gibi.
+
+Müzik yok veya çok kısık ortam sesi, hafif banyo yankısı, kıyafet sürtünme sesleri ve doğal telefon sallanma sesleri mevcut.
+Kaçınılması Gerekenler:
+Kaba baştan çıkarma, pornografik eylemler, çıplaklık, abartılı dudak yalama, aşırı bel kıvırma, vücut oranı bozulması, yüz değişimleri, kıyafet değişimleri, telefonun kaybolması, aynadaki karakterin tutarsızlığı, bozuk altyazılar, filigranlar, fazladan karakterler.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089920974015680512/img/Xe3tNU_TLm1xaUA_.jpg" width="600" alt="Sabah Özçekim Video Monoloğu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9474)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2089921747407552927) | **Published:** Aug 19, 2026
+
+---
+### Odysseus ve Köpeği Argos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Odysseus'un köpeği Argos tarafından tanındığı o duygusal anı yakalayan bir anlatı videosu istemi.
+
+#### 📝 Prompt
+
+```
+Odysseus, Ithaca'ya bir dilenci kılığında döner; yirmi yıl boyunca efendisini beklemiş olan ihmal edilmiş köpeği Argos onu tanır, kuyruğunu sallar ve hemen ardından ölür...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089909243168079872/img/C_SvHln99CY5Ly_X.jpg" width="600" alt="Odysseus ve Köpeği Argos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9472)**
+
+**Author:** [James Woodard](https://x.com/QuantumBikerX) | **Source:** [Link](https://x.com/QuantumBikerX/status/2089909272033251822) | **Published:** Aug 19, 2026
+
+---
+### Odyssey Film Fragmanı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Odyssey'nin konusunu özetleyen, 15 saniyelik gerçekçi bir film fragmanı oluşturmaya yönelik işlevsel bir komut.
+
+#### 📝 Prompt
+
+```
+Odyssey'nin konusunu, bir Odyssey filmi fragmanı olarak kurgula. İngilizce dilinde gerçekçi bir şekilde hazırla. Başlığın sonda göründüğünden emin ol.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089895513369825280/img/6FijAqPFa7zAPtQM.jpg" width="600" alt="Odyssey Film Fragmanı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9473)**
+
+**Author:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **Source:** [Link](https://x.com/DrJGiddensRN/status/2089895538422423771) | **Published:** Aug 19, 2026
+
+---
+### Konuşan Karakterden Mutlu Mesaj
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erkek bir karakterin daha yüksek bir yere ulaşmakla ilgili olumlu bir mesaj verdiği ve ardından baş parmağıyla onay işareti yaptığı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Erkek karakterin nazik ve sevgi dolu bir şekilde şunu söylemesini sağlayın: “Mutlu olmayı unutma. Umarım daha yüksek bir yer bulmuşsundur… daha yüksek bir yer.” Ardından baş parmağıyla onay işareti yapmasını sağlayın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089865756381229056/img/cHkaaOswUms_nf8d.jpg" width="600" alt="Konuşan Karakterden Mutlu Mesaj">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9466)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2089865785774870784) | **Published:** Aug 19, 2026
+
+---
+### Manzaralı Yörünge Kamera Çekimi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Yavaş bir yörünge kamera hareketi ve rüzgar efektleriyle, görkemli bir manzaraya karşı duran bir kadını içeren sinematik bir komut.
+
+#### 📝 Prompt
+
+```
+Bir kadın, görkemli bir manzaraya bakıyor ve onun ihtişamını hissediyor. Kamera, kadının etrafında yörünge açısıyla dönerken yavaşça geri çekiliyor. Hafif bir esinti, kıyafetlerini ve saçlarını dalgalandırıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089847137815429120/img/-2eePH4RnpUpkgxi.jpg" width="600" alt="Manzaralı Yörünge Kamera Çekimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9475)**
+
+**Author:** [Saposhi](https://x.com/Saposhin_AI) | **Source:** [Link](https://x.com/Saposhin_AI/status/2089847152986169773) | **Published:** Aug 18, 2026
+
+---
+### Care Bear Orta Parmak Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir Care Bear karakterinin alışılmadık ve kışkırtıcı bir hareket yaptığı video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Bana, karnının tam ortasında orta parmak işareti olan bir Care Bear videosu oluştur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089836887934447616/img/lEom-EY5_liX_IE6.jpg" width="600" alt="Care Bear Orta Parmak Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9468)**
+
+**Author:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **Source:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **Published:** Aug 18, 2026
+
+---
+### İspanyolca Market Diyaloğu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir müşteri ile kasiyer arasında geçen, 15 saniyelik İspanyolca konuşma videosu için bir istem.
+
+#### 📝 Prompt
+
+```
+Bir kadının markette bir şeyler satın almak istediği, yaklaşık 15 saniyelik bir İspanyolca etkileşim kurgulayabilir misin? Örneğin; 'Merhaba, lütfen süt almak istiyorum' desin ve adam da nazikçe yanıt verip yardımcı olsun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="İspanyolca Market Diyaloğu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9471)**
+
+**Author:** [Marco](https://x.com/Good_Tweet_USA) | **Source:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **Published:** Aug 18, 2026
+
+---
+### Kutlama Modunda Pleiadesliler
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yüksek çözünürlüklü hacimsel aydınlatma ve canlı renklerle, kutlama yapan Pleiadeslileri konu alan sinematik bir istem.
+
+#### 📝 Prompt
+
+```
+Altıncı boyut ve ötesinde Sheen sonrası kutlama modunda Pleiadesliler, başyapıt, ultra HD kalite çözünürlük, hacimsel parlak aydınlatma ve renkler
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="Kutlama Modunda Pleiadesliler">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9469)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **Published:** Aug 18, 2026
+
+---
+### Glacier Ulusal Parkı Drone Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Glacier Ulusal Parkı'nda güneşli bir öğleden sonrayı yakalayan, birinci şahıs bakış açısıyla çekilmiş bir drone videosu istemi.
+
+#### 📝 Prompt
+
+```
+Glacier Ulusal Parkı'ndaki Going-to-the-Sun Road üzerinde batıya doğru ilerleyen, öğleden sonra güneşli bir havada çekilmiş, birinci şahıs bakış açısına sahip bir drone videosu oluştur
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="Glacier Ulusal Parkı Drone Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9467)**
+
+**Author:** [Eric Lovold](https://x.com/ericlovold) | **Source:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **Published:** Aug 18, 2026
+
+---
+### 360 Derece VR Kamp Ateşi Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sakinleştirici bir kamp ateşi ve ses manzarası içeren 360 derece VR video için sürükleyici bir istem.
+
+#### 📝 Prompt
+
+```
+kürenin dengesinin üzerinde yavaşça yükseliyor, bu 360 derece VR küresinde ağırlık merkezi, tamamen hareketsiz, sakinleştirici kamp ateşi, ses manzarası
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="360 Derece VR Kamp Ateşi Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9465)**
+
+**Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
+
+---
 ### Joystick ve Emoji Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +446,25 @@ Gezegenin dönmesini, geminin ileri doğru hareket etmesini ve lazerlerin kayala
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9425)**
 
 **Author:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **Source:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **Published:** Aug 17, 2026
+
+---
+### Sıvı Krom Terminator Efekti
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Konuyu Terminator filmlerinden esinlenerek sıvı metal krom bir maddeye dönüştüren bir video-video stil istemi.
+
+#### 📝 Prompt
+
+```
+bunu benimle bir videoya dönüştür, Terminator filmlerindeki gibi anında sıvı kroma dönüşeyim
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089481439981002753/img/-CUZ_gnhORuZ-ygw.jpg" width="600" alt="Sıvı Krom Terminator Efekti">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9470)**
+
+**Author:** [George White](https://x.com/GeorgeWhit30059) | **Source:** [Link](https://x.com/GeorgeWhit30059/status/2089481455005032644) | **Published:** Aug 17, 2026
 
 ---
 ### Gotik Kırmızı Altın Parlayan Metin
@@ -1900,220 +2121,6 @@ Yıldız ışığı altında hafifçe parlayan Durgun Bir Havuz. Saf ışıktan 
 **Author:** [Jorge Gonzalez](https://x.com/JorgeGeminiOR) | **Source:** [Link](https://x.com/JorgeGeminiOR/status/2087687088447672659) | **Published:** Aug 12, 2026
 
 ---
-### Çin Cheongsam ve Ejderha Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Geleneksel bir cheongsam giymiş bir kadının bir ejderha tarafından havaya kaldırıldığı, sinematik ve betimleyici bir video istemi.
-
-#### 📝 Prompt
-
-```
-Güzel kadın kıyafetlerini değiştirerek Çin cheongsam'ı giydi. Kötü ejderha eğilip kameraya bakmak için etrafında döndü ve ardından güzel kadını havaya doğru sardı. Havada süzülen güzel kadın, aşağıya, kameraya doğru baktı ve gülümseyerek el salladı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087474580504117248/img/68EJF92sedAVgrqX.jpg" width="600" alt="Çin Cheongsam ve Ejderha Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9010)**
-
-**Author:** [实在人](https://x.com/yngfipng1) | **Source:** [Link](https://x.com/yngfipng1/status/2087474826802086038) | **Published:** Aug 12, 2026
-
----
-### Gün Doğumunda Atletik Esneme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gün batımı saatlerinde şehir silüetine karşı esneme hareketleri yapan bir sporcunun sinematik fotoğraf tarzındaki videosu.
-
-#### 📝 Prompt
-
-```
-Gün doğumunda esneme yapan atletik kişi, şehir silüeti arka planı, gün batımı ışığı, minimalist spor kıyafetleri, sinematik fotoğrafçılık
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087367634077814784/img/aYMPTsTLcQE4yL0P.jpg" width="600" alt="Gün Doğumunda Atletik Esneme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8922)**
-
-**Author:** [Viralblend](https://x.com/_Viralblend) | **Source:** [Link](https://x.com/_Viralblend/status/2087367648606872030) | **Published:** Aug 12, 2026
-
----
-### Busy Beaver Hesaplama Masası Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İş ve doğanın hesaplama anahtarları ile çiçekler aracılığıyla bir araya geldiği, bir kunduzun masasını betimleyen yaratıcı bir animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Busy Beaver'ın masasında artık çiçekli bir nokta var:
-
-64 ANAHTAR   1 ÇİÇEK VAZOSU
-İŞ   EĞLENCE   YAŞAM
-
-Çiçekler, kunduzun çalışmasını bölmeden hesaplama sürecine renk katıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087323909725044737/img/VjgJEMl-CaB2QzHT.jpg" width="600" alt="Busy Beaver Hesaplama Masası Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9011)**
-
-**Author:** [John Colwell](https://x.com/Jmcssystems) | **Source:** [Link](https://x.com/Jmcssystems/status/2087323943648559187) | **Published:** Aug 11, 2026
-
----
-### Anime Marker Rakun Portresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Benzersiz bir renk paletine sahip, 1980'lerin airbrush tarzı aile portresi arka planıyla birleştirilmiş, anime marker tarzında çizgi film rakun illüstrasyonu.
-
-#### 📝 Prompt
-
-```
-Sadece siyah beyaz yerine beyaz, koyu yeşil ve altın rengi tonlarında kürke sahip, bu şekilde büyük kafalı bir çizgi film rakunu olarak anime marker tarzında (çoğunlukla düz renkler ve dolgular) portre. Eski aile portresi fotoğraflarını andıran, 1980'ler temalı airbrush arka planıyla zevkli detaylar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087319223567896576/img/zMwcv4x0oGBqXAF5.jpg" width="600" alt="Anime Marker Rakun Portresi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9009)**
-
-**Author:** [Pure Jimothy](https://x.com/purejimothy) | **Source:** [Link](https://x.com/purejimothy/status/2087319238629572834) | **Published:** Aug 11, 2026
-
----
-### Elektrik Enerjisi Görsel Efektleri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hızlı atan elektrik vurguları ve enerji flaş efektlerine sahip sabit kamera çekimi için bir video istemi.
-
-#### 📝 Prompt
-
-```
-Sabit kilitli kamera, nesne hareketi yok, her şey tamamen hareketsiz kalıyor. Hızlı elektrik vurguları ve ana hatlar görüntü boyunca yanıp sönüyor ve atıyor; kenarlarda, arka planda ve ön planda parlayan elektrik mavisi ve beyaz enerji flaşları, gerçek bir hareket olmaksızın sadece ışık ve enerji efektleriyle görüntünün canlı ve elektrikli hissetmesini sağlıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087312301032366080/img/688R0vemAvNLWXiL.jpg" width="600" alt="Elektrik Enerjisi Görsel Efektleri">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8923)**
-
-**Author:** [Teh Lid](https://x.com/TehLid88) | **Source:** [Link](https://x.com/TehLid88/status/2087312335165686193) | **Published:** Aug 11, 2026
-
----
-### Şık Gümüş Roket Fırlatılışı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Atmosferde ateş ve duman eşliğinde hızlanan bir roketin son derece betimleyici sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Şık gümüş roket, atmosferde güçlü bir şekilde yukarı doğru hızlanıyor; motorları yoğunlaşan turuncu ve beyaz alevlerle kükrerken, devasa duman ve ateş bulutu genişleyerek arkasında bir iz bırakıyor. Kamera yavaşça yukarı doğru kayıyor ve eğiliyor...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087309167312728065/img/Rqe6QETEmurGJAev.jpg" width="600" alt="Şık Gümüş Roket Fırlatılışı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8927)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2087309189534151111) | **Published:** Aug 11, 2026
-
----
-### Altın saatte okyanus manzaralı dolly çekimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lüks bir iç mekandan gün batımı okyanus manzarasına geçişi yakalayan, Grok Imagine için sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Kamera, lüks otel odasının içinden tavandan tabana pencerelere doğru yavaşça dolly hareketiyle ilerlerken, altın saatte uçsuz bucaksız parıldayan okyanusu gözler önüne seriyor; ipek perdeler esintide nazikçe dalgalanıyor ve sıcak güneş ışığı cilalı zeminlerin üzerinde süzülüyor...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087230586813321216/img/Wf_DWol8_UFAXrAW.jpg" width="600" alt="Altın saatte okyanus manzaralı dolly çekimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8925)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2087230601719877929) | **Published:** Aug 11, 2026
-
----
-### Ghibli Tarzı Bisiklet Sürme Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Studio Ghibli'den ilham alan, gerçekçi hareket ve rüzgar efektleriyle manzaralı bir koya doğru dağ yolunda bisiklet süren bir kızı konu alan video istemi.
-
-#### 📝 Prompt
-
-```
-Manzaralı bir koya ve yeşil bir dağa bakan hafif bir yokuştan aşağı bisiklet süren bir kızı takip eden düşük kamera açısı. Tekerleklerde hafif hareket bulanıklığı, sarı saçlarını uçuran gerçekçi rüzgar, arka planda parıldayan okyanus suyu, Studio Ghibli esintili canlı ışıklandırma. (Sürükleyici
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087220575290953728/img/1ERY9JOToSLakiWJ.jpg" width="600" alt="Ghibli Tarzı Bisiklet Sürme Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8928)**
-
-**Author:** [arnab](https://x.com/arnab28x) | **Source:** [Link](https://x.com/arnab28x/status/2087221207422919109) | **Published:** Aug 11, 2026
-
----
-### Zendaya'lı James Bond Konsept Fragmanı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Zendaya'nın bir sonraki James Bond olarak hayal edildiği, oyuncu seçimi potansiyelini göstermeye yönelik yaratıcı bir konsept kanıtı video istemi.
-
-#### 📝 Prompt
-
-```
-Ya Zendaya James Bond olsaydı? Amy Pascal ve @AmazonMGMStudio'yu yeni Bond rolü için mükemmel bir seçim olduğuna ikna etmek amacıyla bir konsept kanıtı videosu oluşturun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087174944698310656/img/FiZYuwcNiwvcTrWs.jpg" width="600" alt="Zendaya'lı James Bond Konsept Fragmanı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9012)**
-
-**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2087175078651768903) | **Published:** Aug 11, 2026
-
----
-### Sinematik 3 Çekimlik Ürün Tanıtım Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sabit bir ürün fotoğrafını reklamlar için sinematik üç çekimlik bir tanıtım sekansına dönüştürmek üzere tasarlanmış profesyonel bir video istemi.
-
-#### 📝 Prompt
-
-```
-Ana Ürün Tanıtımı, Tek bir ürün fotoğrafını sinematik 3 çekimlik bir tanıtım videosuna dönüştürün
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087146457535287296/img/OLV0JT2u5ygb6ORf.jpg" width="600" alt="Sinematik 3 Çekimlik Ürün Tanıtım Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8931)**
-
-**Author:** [いにしえ@AI Director / Creator / Engineer｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2087147332702007732) | **Published:** Aug 11, 2026
-
----
-### Sinematik Moda ve Yaşam Tarzı Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sinematik kamera hareketleri ve gerçekçi fizik kurallarına sahip profesyonel bir moda sekansı için detaylı çoklu çekim video istemi.
-
-#### 📝 Prompt
-
-```
-Videonun, çeşitli çekimler ve doğal bir hikaye anlatımıyla sinematik bir moda/yaşam tarzı sekansı hissi vermesini sağlayın. Tüm vücudunu ve çevresini gösteren geniş bir çevre çekimiyle başlayın, ardından rüzgarda yavaşça yürürken tam vücut takip çekimine geçiş yapın. Rüzgarda dağılan saçlarını doğal bir şekilde yüzünden çektiği ve hafif, düşünceli bir ifadeyle kısa süreliğine uzaklara baktığı orta üç çeyrek çekime geçin. Daha güçlü bir esinti saçlarını ve paltosunu hareket ettirirken kameranın yavaşça etrafında döndüğü orta-uzun yan profil çekimiyle devam edin. Referans görselle eşleşen samimi bir yakın çekimle bitirin; gözleri hafifçe kapalı, yüzünü rüzgara doğru çevirmiş ve huzurlu bir ifadeye sahip olsun. Akıcı sinematik kamera hareketleri, gerçekçi yürüyüş ve vücut mekaniği, doğal nefes alışverişi, detaylı saç ve kumaş fiziği, değişen rüzgar şiddeti, gerçekçi derinlik ve hareket bulanıklığı kullanın. Her çekimi yakın plan yapmaktan veya onu sabit tutmaktan kaçının. Yüzünü, kimliğini, saç stilini, kıyafetini, vücut oranlarını, takılarını ve genel görünümünü tüm çekimler boyunca aynı şekilde koruyun. Abartılı ifadeler, konuşma, ani hareketler, yüz bozulması veya kıyafet değişiklikleri olmasın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086959132725407744/img/cOj85JUzbazK07rr.jpg" width="600" alt="Sinematik Moda ve Yaşam Tarzı Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8924)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2087144498258128996) | **Published:** Aug 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2175,6 +2182,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-19T01:52:05.296Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-19T13:26:34.479Z</sub>
 
 </div>

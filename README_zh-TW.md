@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2527** |
+| 📝 提示詞總數 | **2538** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-08-19** |
 
@@ -189,6 +189,208 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 晨間自拍影片獨白
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 這是一個為垂直自拍風格影片設計的精緻提示詞，呈現女性在浴室的晨間日常，強調自然且冷靜的審美風格。
+
+#### 📝 提示詞
+
+```
+整體場景：
+9:16 垂直短影片，自拍影片風格。成年女性主角穿著 [Image 1] 中的 [Image 2]，長髮自然垂落，左手持手機在鏡子前拍攝。灰色磁磚浴室，柔和的冷白色晨光，乾淨的鏡面，真實的手機自拍質感，輕微的手持晃動，精準的口型同步。
+整體風格：
+精緻的晨間自信，成熟、放鬆、優雅，如同電影般的晨間獨白。主角剛起床但狀態穩定，眼神清澈，表情溫柔，動作自然且克制。無刻意挑逗，無低俗動作，專注於表達「自信、從容、狀態良好，今天會是很棒的一天」。
+動作與姿態：
+主角站在鏡子前，肩膀自然放鬆，身體微轉向鏡面，輕輕整理頭髮，偶爾看向鏡中的自己，隨後看向手機鏡頭。右手輕放在胸前表達自我肯定，隨後自然向外打開，彷彿將良好的狀態交付給新的一天。動作細膩，優雅、放鬆且真實。背景關鍵字：
+第 1 段 0:00-0:15
+前景：
+主角左手自拍，右手輕輕整理頭髮，視線從鏡子轉向鏡頭，微微一笑。聲音柔和但堅定，就像起床時對自己非常溫柔的提醒。
+
+無背景音樂或極微弱的環境音，帶有輕微的浴室回音、衣物摩擦聲以及自然的手機晃動聲。
+避免：
+低俗挑逗、色情動作、裸露、誇張的舔唇、過度扭腰、身體比例變形、臉部變化、衣物變化、手機消失、鏡中人物不一致、亂碼字幕、浮水印、多餘人物。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089920974015680512/img/Xe3tNU_TLm1xaUA_.jpg" width="600" alt="晨間自拍影片獨白">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9474)**
+
+**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2089921747407552927) | **發布時間:** Aug 19, 2026
+
+---
+### 奧德修斯與愛犬阿爾戈斯
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段敘事性影片提示詞，捕捉了奧德修斯被愛犬阿爾戈斯認出時的情感瞬間。
+
+#### 📝 提示詞
+
+```
+奧德修斯喬裝成乞丐回到伊薩卡，他那被冷落的獵犬阿爾戈斯，在苦等主人二十年後認出了他，搖了搖尾巴，隨即離世……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089909243168079872/img/C_SvHln99CY5Ly_X.jpg" width="600" alt="奧德修斯與愛犬阿爾戈斯">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9472)**
+
+**作者:** [James Woodard](https://x.com/QuantumBikerX) | **來源:** [Link](https://x.com/QuantumBikerX/status/2089909272033251822) | **發布時間:** Aug 19, 2026
+
+---
+### 《奧德賽》電影預告片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個功能性提示詞，用於製作一段 15 秒的寫實電影預告片，總結《奧德賽》的劇情。
+
+#### 📝 提示詞
+
+```
+以《奧德賽》電影預告片的形式呈現其劇情。請使用英文製作，並確保風格寫實。最後請務必顯示電影標題。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089895513369825280/img/6FijAqPFa7zAPtQM.jpg" width="600" alt="《奧德賽》電影預告片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9473)**
+
+**作者:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **來源:** [Link](https://x.com/DrJGiddensRN/status/2089895538422423771) | **發布時間:** Aug 19, 2026
+
+---
+### 會說話的角色傳遞快樂訊息
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個影片提示詞，內容為一名男性角色傳遞關於尋找更高境界的正面訊息，隨後比出讚的手勢。
+
+#### 📝 提示詞
+
+```
+讓該男性圖像溫柔且充滿愛意地說：「別忘了要快樂。所以，我希望你找到了更高的境界……更高的境界。」接著讓他比出一個讚的手勢。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089865756381229056/img/cHkaaOswUms_nf8d.jpg" width="600" alt="會說話的角色傳遞快樂訊息">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9466)**
+
+**作者:** [Julio McCauley](https://x.com/CosmicJulioBro) | **來源:** [Link](https://x.com/CosmicJulioBro/status/2089865785774870784) | **發布時間:** Aug 19, 2026
+
+---
+### 風景環繞運鏡
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一個電影級的提示詞，描繪一位女性俯瞰壯麗景觀，搭配緩慢的環繞運鏡與風吹效果。
+
+#### 📝 提示詞
+
+```
+一位女性凝視著壯麗的景觀，感受其宏偉氣勢。攝影機緩慢後拉，同時以環繞角度圍繞著她旋轉。微風輕拂，吹動了她的衣物與秀髮。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089847137815429120/img/-2eePH4RnpUpkgxi.jpg" width="600" alt="風景環繞運鏡">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9475)**
+
+**作者:** [Saposhi](https://x.com/Saposhin_AI) | **來源:** [Link](https://x.com/Saposhin_AI/status/2089847152986169773) | **發布時間:** Aug 18, 2026
+
+---
+### Care Bear 比中指動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個具挑釁性的影片提示詞，要求 Care Bear 角色做出特定的非傳統手勢。
+
+#### 📝 提示詞
+
+```
+請為我生成一段影片，內容是一隻 Care Bear，且在其肚子中央比出中指。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089836887934447616/img/lEom-EY5_liX_IE6.jpg" width="600" alt="Care Bear 比中指動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9468)**
+
+**作者:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **來源:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **發布時間:** Aug 18, 2026
+
+---
+### 西班牙語雜貨店對話
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段關於顧客與店員之間 15 秒西班牙語對話的影片提示詞。
+
+#### 📝 提示詞
+
+```
+你能否製作一段 15 秒的互動影片，內容是一位女士在商店裡用西班牙語購物，例如說「嗨，你好，我想買牛奶，謝謝」，然後由店員親切地回應並協助她？
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="西班牙語雜貨店對話">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9471)**
+
+**作者:** [Marco](https://x.com/Good_Tweet_USA) | **來源:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **發布時間:** Aug 18, 2026
+
+---
+### 昂宿星人在慶祝模式
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個電影級的提示詞，呈現昂宿星人處於慶祝狀態，具有高解析度體積光與鮮豔色彩。
+
+#### 📝 提示詞
+
+```
+昂宿星人在六維空間及更高維度閃耀後的慶祝模式，傑作，超高畫質解析度，明亮的體積光與色彩
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="昂宿星人在慶祝模式">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9469)**
+
+**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **來源:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **發布時間:** Aug 18, 2026
+
+---
+### 冰河國家公園無人機影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段以第一人稱視角拍攝的無人機影片提示詞，捕捉冰河國家公園陽光明媚的午後時光。
+
+#### 📝 提示詞
+
+```
+創作一段以第一人稱視角拍攝的無人機影片，沿著冰河國家公園的向陽大道（Going-to-the-Sun Road）向西飛行，時間為午後，天氣晴朗
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="冰河國家公園無人機影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9467)**
+
+**作者:** [Eric Lovold](https://x.com/ericlovold) | **來源:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **發布時間:** Aug 18, 2026
+
+---
+### 360 VR 營火場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於 360 度 VR 影片的沉浸式提示詞，包含療癒的營火與音效場景。
+
+#### 📝 提示詞
+
+```
+緩慢地提升至球體平衡點上方，位於此 VR 360 度球體的重心，完全靜止，療癒的營火，音效場景
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="360 VR 營火場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9465)**
+
+**作者:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **來源:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **發布時間:** Aug 18, 2026
+
+---
 ### 搖桿與表情符號動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +446,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9425)**
 
 **作者:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **來源:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **發布時間:** Aug 17, 2026
+
+---
+### 液態金屬鉻終結者特效
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個影片轉影片（video-to-video）的風格提示詞，能將目標主體轉換為液態金屬鉻材質，靈感源自《終結者》系列電影。
+
+#### 📝 提示詞
+
+```
+將此製作成一段影片，讓我像《終結者》電影中那樣瞬間變成液態金屬鉻
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089481439981002753/img/-CUZ_gnhORuZ-ygw.jpg" width="600" alt="液態金屬鉻終結者特效">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9470)**
+
+**作者:** [George White](https://x.com/GeorgeWhit30059) | **來源:** [Link](https://x.com/GeorgeWhit30059/status/2089481455005032644) | **發布時間:** Aug 17, 2026
 
 ---
 ### 哥德式紅金發光文字
@@ -1900,220 +2121,6 @@ SpaceX Starship 火星登陸頁面首屏設計，場景設定於黃昏，深炭�
 **作者:** [Jorge Gonzalez](https://x.com/JorgeGeminiOR) | **來源:** [Link](https://x.com/JorgeGeminiOR/status/2087687088447672659) | **發布時間:** Aug 12, 2026
 
 ---
-### 中式旗袍與巨龍影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影感十足的影片提示詞，描述一位身穿傳統旗袍的女子被巨龍捲入空中的畫面。
-
-#### 📝 提示詞
-
-```
-美女換上了中式旗袍。惡龍俯身盤旋看向鏡頭，隨後將美女捲入空中。美女在空中俯視鏡頭，微笑著揮手。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087474580504117248/img/68EJF92sedAVgrqX.jpg" width="600" alt="中式旗袍與巨龍影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9010)**
-
-**作者:** [实在人](https://x.com/yngfipng1) | **來源:** [Link](https://x.com/yngfipng1/status/2087474826802086038) | **發布時間:** Aug 12, 2026
-
----
-### 晨曦運動伸展
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 電影攝影風格影片，展示運動員在黃金時刻的城市天際線背景下進行伸展。
-
-#### 📝 提示詞
-
-```
-運動員在日出時分伸展，城市天際線背景，黃金時刻光影，極簡運動服裝，電影攝影風格
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087367634077814784/img/aYMPTsTLcQE4yL0P.jpg" width="600" alt="晨曦運動伸展">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8922)**
-
-**作者:** [Viralblend](https://x.com/_Viralblend) | **來源:** [Link](https://x.com/_Viralblend/status/2087367648606872030) | **發布時間:** Aug 12, 2026
-
----
-### Busy Beaver 運算桌面動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿創意的動畫提示詞，描繪了 Busy Beaver 的桌面，透過運算開關與花朵的結合，展現工作與自然的交融。
-
-#### 📝 提示詞
-
-```
-Busy Beaver 的桌面現在有了花朵點綴：
-
-64 個開關   1 個花瓶
-工作   娛樂   生活
-
-這些花朵為運算過程增添了色彩，同時也不會打擾到 Beaver 的工作。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087323909725044737/img/VjgJEMl-CaB2QzHT.jpg" width="600" alt="Busy Beaver 運算桌面動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9011)**
-
-**作者:** [John Colwell](https://x.com/Jmcssystems) | **來源:** [Link](https://x.com/Jmcssystems/status/2087323943648559187) | **發布時間:** Aug 11, 2026
-
----
-### 動漫麥克筆風格浣熊肖像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一幅採用動漫麥克筆風格的卡通浣熊插畫，擁有獨特的配色方案，背景為 1980 年代噴槍風格的家庭肖像。
-
-#### 📝 提示詞
-
-```
-採用動漫麥克筆風格（以純色和填色為主）的卡通浣熊肖像，頭部圓潤，毛色以白色、深綠色和金色調為主，而非傳統的黑白色。背景結合了 1980 年代風格的噴槍效果，呈現出復古家庭肖像照的質感。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087319223567896576/img/zMwcv4x0oGBqXAF5.jpg" width="600" alt="動漫麥克筆風格浣熊肖像">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9009)**
-
-**作者:** [Pure Jimothy](https://x.com/purejimothy) | **來源:** [Link](https://x.com/purejimothy/status/2087319238629572834) | **發布時間:** Aug 11, 2026
-
----
-### 電能視覺特效
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於靜態攝影機鏡頭的影片提示詞，包含快速脈衝的電能亮點與能量頻閃特效。
-
-#### 📝 提示詞
-
-```
-靜態固定攝影機，主體無移動，畫面完全靜止。快速的電能亮點與輪廓在影像中閃爍並脈衝——發光的電藍色與白色能量頻閃在邊緣、背景與前景上跳動，僅透過光影與能量特效賦予畫面生動的電能感，實際主體並無動作。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087312301032366080/img/688R0vemAvNLWXiL.jpg" width="600" alt="電能視覺特效">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8923)**
-
-**作者:** [Teh Lid](https://x.com/TehLid88) | **來源:** [Link](https://x.com/TehLid88/status/2087312335165686193) | **發布時間:** Aug 11, 2026
-
----
-### 流線型銀色火箭發射
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段極具描述性的電影級影片提示詞，描繪火箭伴隨著火焰與濃煙加速穿過大氣層的畫面。
-
-#### 📝 提示詞
-
-```
-流線型的銀色火箭強勁地向上加速，穿過大氣層，引擎噴發出愈發猛烈的橘白色火焰，巨大的煙霧與火光向後擴散並拖曳出一道長長的尾跡。攝影機緩慢地平移並向上傾斜，以捕捉……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087309167312728065/img/Rqe6QETEmurGJAev.jpg" width="600" alt="流線型銀色火箭發射">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8927)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2087309189534151111) | **發布時間:** Aug 11, 2026
-
----
-### 黃金時刻海景推軌鏡頭
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個為 Grok Imagine 設計的電影感影片提示詞，捕捉從奢華室內過渡到日落海景的畫面。
-
-#### 📝 提示詞
-
-```
-攝影機緩緩向前推軌，穿過奢華的飯店房間，朝著落地窗移動，展現出黃金時刻波光粼粼的廣闊海洋，絲質窗簾在微風中輕柔飄動，溫暖的陽光掠過拋光地板……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087230586813321216/img/Wf_DWol8_UFAXrAW.jpg" width="600" alt="黃金時刻海景推軌鏡頭">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8925)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2087230601719877929) | **發布時間:** Aug 11, 2026
-
----
-### 吉卜力風格騎行影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段受吉卜力工作室啟發的影片提示詞，描繪了一位女孩騎著自行車沿著山路前往風景優美的海灣，並具備逼真的動態與風吹效果。
-
-#### 📝 提示詞
-
-```
-低角度鏡頭跟隨一位女孩騎著自行車沿著緩坡向下，前方是風景優美的海灣與翠綠山巒。輪胎帶有柔和的動態模糊，逼真的風吹動她的金色長髮，背景是波光粼粼的海面，呈現出吉卜力工作室風格的鮮豔光影。（沉浸式
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087220575290953728/img/1ERY9JOToSLakiWJ.jpg" width="600" alt="吉卜力風格騎行影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8928)**
-
-**作者:** [arnab](https://x.com/arnab28x) | **來源:** [Link](https://x.com/arnab28x/status/2087221207422919109) | **發布時間:** Aug 11, 2026
-
----
-### Zendaya 飾演 James Bond 概念預告片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一支創意概念驗證影片提示詞，想像 Zendaya 成為下一任 James Bond，以展示其選角潛力。
-
-#### 📝 提示詞
-
-```
-如果 Zendaya 是 James Bond 會怎樣？製作一支概念驗證影片，說服 Amy Pascal 和 @AmazonMGMStudio 她是飾演新任 Bond 的完美人選。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087174944698310656/img/FiZYuwcNiwvcTrWs.jpg" width="600" alt="Zendaya 飾演 James Bond 概念預告片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9012)**
-
-**作者:** [Huff](https://x.com/Huff4Congress) | **來源:** [Link](https://x.com/Huff4Congress/status/2087175078651768903) | **發布時間:** Aug 11, 2026
-
----
-### 電影級 3 鏡頭產品展示影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個專業的影片提示詞，旨在將靜態產品照片轉化為用於廣告的電影級三鏡頭展示序列。
-
-#### 📝 提示詞
-
-```
-核心產品展示，將一張產品照片轉化為電影級 3 鏡頭展示影片
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087146457535287296/img/OLV0JT2u5ygb6ORf.jpg" width="600" alt="電影級 3 鏡頭產品展示影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8931)**
-
-**作者:** [いにしえ@AI Director / Creator / Engineer｜Will Oldgram](https://x.com/old_pgmrs_will) | **來源:** [Link](https://x.com/old_pgmrs_will/status/2087147332702007732) | **發布時間:** Aug 11, 2026
-
----
-### 電影感時尚生活風格短片序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的多鏡頭影片提示詞，用於製作具備電影級運鏡與真實物理效果的專業時尚短片序列。
-
-#### 📝 提示詞
-
-```
-讓影片呈現出電影般的時尚與生活風格序列，運用多樣化的鏡頭與自然的敘事手法。開場使用廣角環境鏡頭，展示她全身及周圍環境，隨後過渡到全身跟拍鏡頭，拍攝她緩步走過微風中的場景。接著切換至中景四分之三鏡頭，捕捉她自然地撥開被風吹亂的頭髮，並短暫地望向遠方，流露出柔和且深思的神情。隨後銜接中長側拍鏡頭，當強風吹動她的頭髮與外套時，攝影機緩慢地繞著她移動。最後以特寫鏡頭作結，呼應參考圖像，她輕閉雙眼，將臉龐轉向微風，展現出細膩而平靜的表情。請運用流暢的電影級運鏡、真實的行走與肢體動作、自然的呼吸感、細緻的頭髮與布料物理效果、變化的風力強度，以及真實的景深與動態模糊。避免所有鏡頭皆為特寫或讓人物保持靜止。在整個過程中，請確保她的面容、身分、髮型、服裝、身材比例、飾品及整體外觀保持一致。請勿出現誇張的表情、說話動作、突兀的移動，以及臉部變形或服裝更換。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086959132725407744/img/cOj85JUzbazK07rr.jpg" width="600" alt="電影感時尚生活風格短片序列">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=8924)**
-
-**作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **來源:** [Link](https://x.com/iamahmedfaraz66/status/2087144498258128996) | **發布時間:** Aug 11, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2175,6 +2182,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-19T01:51:43.616Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-19T13:26:19.070Z</sub>
 
 </div>

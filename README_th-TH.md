@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2527** |
+| 📝 Total Prompts | **2538** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-19** |
 
@@ -189,6 +189,208 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### วิดีโอเซลฟี่พูดคุยยามเช้า
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> พรอมต์คุณภาพสูงสำหรับวิดีโอแนวตั้งสไตล์เซลฟี่ ที่ถ่ายทอดกิจวัตรยามเช้าของผู้หญิงในห้องน้ำ โดยเน้นความสวยงามที่เป็นธรรมชาติและดูสงบ
+
+#### 📝 Prompt
+
+```
+การตั้งค่าทั่วไป:
+วิดีโอสั้นแนวตั้ง 9:16 สไตล์วิดีโอเซลฟี่ ตัวเอกเป็นผู้หญิงวัยผู้ใหญ่สวมใส่ [Image 2] จาก [Image 1] ผมยาวสลวยเป็นธรรมชาติ ถือโทรศัพท์ด้วยมือซ้ายเพื่อถ่ายหน้ากระจก ห้องน้ำปูกระเบื้องสีเทา แสงยามเช้าสีขาวอมฟ้าอ่อนๆ กระจกสะอาด พื้นผิววิดีโอแบบเซลฟี่จากมือถือที่สมจริง มีการสั่นไหวเล็กน้อยจากการถือด้วยมือ และการขยับปากที่ตรงกับเสียงอย่างแม่นยำ
+สไตล์โดยรวม:
+ความมั่นใจยามเช้าที่ดูดี มีวุฒิภาวะ ผ่อนคลาย สง่างาม เหมือนการพูดคุยกับตัวเองในยามเช้าแบบภาพยนตร์ ตัวเอกเพิ่งตื่นนอนแต่มีสภาวะที่มั่นคง แววตาแจ่มใส สีหน้าอ่อนโยน และมีการเคลื่อนไหวที่เป็นธรรมชาติและสำรวม ไม่มีการจงใจยั่วยวน ไม่มีการกระทำที่หยาบคาย เน้นการแสดงออกถึง 'ความมั่นใจ ความสงบ สภาวะจิตใจที่ดี และวันนี้จะเป็นวันที่ยอดเยี่ยม'
+การกระทำและท่าทาง:
+ตัวเอกยืนอยู่หน้ากระจก ไหล่ผ่อนคลายอย่างเป็นธรรมชาติ ร่างกายหันเข้าหากระจกเล็กน้อย จัดแต่งทรงผมเบาๆ สลับกับการมองตัวเองในกระจกและมองกล้องโทรศัพท์ มือขวาวางบนหน้าอกเบาๆ เพื่อแสดงถึงการยืนยันในตัวเอง จากนั้นผายมือออกอย่างเป็นธรรมชาติ ราวกับเป็นการส่งต่อพลังงานที่ดีให้กับวันใหม่ การเคลื่อนไหวเล็กน้อย ดูสง่างาม ผ่อนคลาย และสมจริง คำสำคัญของพื้นหลัง:
+ส่วนที่ 1 0:00-0:15
+ฉากหน้า:
+ตัวเอกถ่ายเซลฟี่ด้วยมือซ้าย จัดแต่งทรงผมเบาๆ ด้วยมือขวา เปลี่ยนสายตาจากกระจกมาที่กล้องแล้วยิ้มเล็กน้อย เสียงของเธอเบาแต่หนักแน่น เหมือนเป็นการเตือนใจตัวเองอย่างอ่อนโยนเมื่อตื่นนอน
+
+ไม่มีดนตรีประกอบหรือมีเสียงบรรยากาศที่เบามาก มีเสียงก้องในห้องน้ำเล็กน้อย เสียงเสียดสีของเสื้อผ้า และเสียงการสั่นไหวของโทรศัพท์ที่เป็นธรรมชาติ
+สิ่งที่ควรหลีกเลี่ยง:
+การยั่วยวนที่หยาบคาย การกระทำทางเพศ ความโป๊เปลือย การเลียริมฝีปากที่ดูเกินจริง การบิดเอวมากเกินไป สัดส่วนร่างกายผิดเพี้ยน ใบหน้าเปลี่ยนไป เสื้อผ้าเปลี่ยนไป โทรศัพท์หายไป ตัวละครในกระจกไม่สอดคล้องกัน คำบรรยายที่อ่านไม่ออก ลายน้ำ และตัวละครเสริม
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089920974015680512/img/Xe3tNU_TLm1xaUA_.jpg" width="600" alt="วิดีโอเซลฟี่พูดคุยยามเช้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9474)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2089921747407552927) | **Published:** Aug 19, 2026
+
+---
+### Odysseus และสุนัข Argos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงบรรยายที่ถ่ายทอดช่วงเวลาอันน่าประทับใจเมื่อ Odysseus ได้รับการจดจำจาก Argos สุนัขของเขา
+
+#### 📝 Prompt
+
+```
+Odysseus เดินทางกลับมายัง Ithaca ในคราบของขอทาน Argos สุนัขที่ถูกทอดทิ้งของเขาซึ่งเฝ้ารอเจ้านายมานานถึง 20 ปี ได้จดจำเขาได้ มันกระดิกหางด้วยความดีใจก่อนจะสิ้นใจลงในทันที...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089909243168079872/img/C_SvHln99CY5Ly_X.jpg" width="600" alt="Odysseus และสุนัข Argos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9472)**
+
+**Author:** [James Woodard](https://x.com/QuantumBikerX) | **Source:** [Link](https://x.com/QuantumBikerX/status/2089909272033251822) | **Published:** Aug 19, 2026
+
+---
+### ตัวอย่างภาพยนตร์เรื่อง Odyssey
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมท์สำหรับการใช้งานจริงเพื่อสร้างตัวอย่างภาพยนตร์ความยาว 15 วินาทีที่สมจริง โดยสรุปเนื้อเรื่องของ Odyssey
+
+#### 📝 Prompt
+
+```
+เนื้อเรื่องของ Odyssey ในรูปแบบตัวอย่างภาพยนตร์เรื่อง Odyssey ทำให้ดูสมจริงเป็นภาษาอังกฤษ และตรวจสอบให้แน่ใจว่าชื่อเรื่องปรากฏขึ้นในช่วงท้าย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089895513369825280/img/6FijAqPFa7zAPtQM.jpg" width="600" alt="ตัวอย่างภาพยนตร์เรื่อง Odyssey">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9473)**
+
+**Author:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **Source:** [Link](https://x.com/DrJGiddensRN/status/2089895538422423771) | **Published:** Aug 19, 2026
+
+---
+### ข้อความแห่งความสุขจากตัวละครพูดได้
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่ตัวละครชายส่งข้อความเชิงบวกเกี่ยวกับการค้นพบจุดยืนที่ดีกว่า พร้อมปิดท้ายด้วยท่าทางยกนิ้วโป้ง
+
+#### 📝 Prompt
+
+```
+ให้ภาพตัวละครชายพูดด้วยน้ำเสียงที่อ่อนโยนและเปี่ยมไปด้วยความรักว่า: “อย่าลืมมีความสุขนะ ผมหวังว่าคุณจะพบจุดยืนที่ดีกว่า... จุดยืนที่สูงขึ้นกว่าเดิม” จากนั้นให้เขาทำท่าทางยกนิ้วโป้ง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089865756381229056/img/cHkaaOswUms_nf8d.jpg" width="600" alt="ข้อความแห่งความสุขจากตัวละครพูดได้">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9466)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2089865785774870784) | **Published:** Aug 19, 2026
+
+---
+### มุมกล้องแบบ Scenic Orbit
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์แนวภาพยนตร์ที่แสดงภาพหญิงสาวกำลังมองทิวทัศน์อันยิ่งใหญ่ พร้อมการเคลื่อนที่ของกล้องแบบหมุนวนช้าๆ และเอฟเฟกต์สายลม
+
+#### 📝 Prompt
+
+```
+หญิงสาวกำลังจ้องมองทิวทัศน์อันกว้างใหญ่ไพศาลด้วยความรู้สึกถึงความยิ่งใหญ่ของธรรมชาติ กล้องค่อยๆ ถอยห่างออกไปพร้อมกับการหมุนวนรอบตัวหญิงสาว สายลมพัดอ่อนๆ ทำให้เสื้อผ้าและเส้นผมของเธอปลิวไสว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089847137815429120/img/-2eePH4RnpUpkgxi.jpg" width="600" alt="มุมกล้องแบบ Scenic Orbit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9475)**
+
+**Author:** [Saposhi](https://x.com/Saposhin_AI) | **Source:** [Link](https://x.com/Saposhin_AI/status/2089847152986169773) | **Published:** Aug 18, 2026
+
+---
+### แอนิเมชัน Care Bear ชูนิ้วกลาง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับสร้างวิดีโอที่ท้าทาย โดยให้ตัวละคร Care Bear แสดงท่าทางที่ไม่เหมาะสมและไม่เป็นไปตามแบบฉบับดั้งเดิม
+
+#### 📝 Prompt
+
+```
+ช่วยสร้างวิดีโอตัวละคร Care Bear ที่มีนิ้วกลางอยู่ตรงกลางหน้าท้องของ Care Bear ให้หน่อย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089836887934447616/img/lEom-EY5_liX_IE6.jpg" width="600" alt="แอนิเมชัน Care Bear ชูนิ้วกลาง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9468)**
+
+**Author:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **Source:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **Published:** Aug 18, 2026
+
+---
+### บทสนทนาในร้านขายของชำภาษาสเปน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับวิดีโอสนทนาความยาว 15 วินาทีระหว่างลูกค้ากับพนักงานร้านค้าในภาษาสเปน
+
+#### 📝 Prompt
+
+```
+ช่วยสร้างบทสนทนาความยาว 15 วินาทีที่เป็นเหตุการณ์หญิงสาวต้องการซื้อของในร้านค้าเป็นภาษาสเปน โดยเริ่มจากคำทักทาย เช่น สวัสดีค่ะ ฉันต้องการซื้อนมค่ะ และให้พนักงานชายตอบกลับด้วยความสุภาพและหยิบของให้
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="บทสนทนาในร้านขายของชำภาษาสเปน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9471)**
+
+**Author:** [Marco](https://x.com/Good_Tweet_USA) | **Source:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **Published:** Aug 18, 2026
+
+---
+### ชาวเพลยาเดียนในโหมดเฉลิมฉลอง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวภาพยนตร์ที่แสดงภาพชาวเพลยาเดียนในบรรยากาศแห่งการเฉลิมฉลอง พร้อมแสงวอลูเมตริกความละเอียดสูงและสีสันที่สดใส
+
+#### 📝 Prompt
+
+```
+ชาวเพลยาเดียนในโหมดเฉลิมฉลองหลังจาก Sheen ในมิติที่ 6 และเหนือกว่านั้น, ผลงานระดับมาสเตอร์พีซ, ความละเอียดระดับ Ultra HD, แสงวอลูเมตริกที่สว่างไสวและสีสันที่สดใส
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="ชาวเพลยาเดียนในโหมดเฉลิมฉลอง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9469)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **Published:** Aug 18, 2026
+
+---
+### วิดีโอโดรนที่อุทยานแห่งชาติ Glacier National Park
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับวิดีโอโดรนในมุมมองบุคคลที่หนึ่งที่ถ่ายทอดบรรยากาศยามบ่ายที่มีแดดจ้า ณ อุทยานแห่งชาติ Glacier National Park
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอโดรนในมุมมองบุคคลที่หนึ่ง โดยบินไปทางทิศตะวันตกบนถนน Going-to-the-Sun Road ในอุทยานแห่งชาติ Glacier National Park ในช่วงกลางบ่ายที่มีแสงแดดสดใส
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="วิดีโอโดรนที่อุทยานแห่งชาติ Glacier National Park">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9467)**
+
+**Author:** [Eric Lovold](https://x.com/ericlovold) | **Source:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **Published:** Aug 18, 2026
+
+---
+### ฉากกองไฟในรูปแบบ VR 360 องศา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แบบดื่มด่ำสำหรับวิดีโอ VR 360 องศา ที่มาพร้อมกับบรรยากาศกองไฟอันเงียบสงบและภูมิทัศน์เสียง
+
+#### 📝 Prompt
+
+```
+ค่อย ๆ ลอยตัวขึ้นเหนือจุดสมดุลของทรงกลม โดยมีจุดศูนย์ถ่วงอยู่ในทรงกลม VR 360 องศานี้ อยู่นิ่งสนิท กองไฟที่ให้ความรู้สึกสงบ และภูมิทัศน์เสียง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="ฉากกองไฟในรูปแบบ VR 360 องศา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9465)**
+
+**Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
+
+---
 ### แอนิเมชันจอยสติ๊กและอิโมจิ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +446,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9425)**
 
 **Author:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **Source:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **Published:** Aug 17, 2026
+
+---
+### เอฟเฟกต์โครเมียมเหลวแบบ Terminator
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สไตล์วิดีโอต่อวิดีโอ (video-to-video) ที่เปลี่ยนตัวละครให้กลายเป็นสารโครเมียมเหลว โดยได้รับแรงบันดาลใจจากภาพยนตร์เรื่อง Terminator
+
+#### 📝 Prompt
+
+```
+ทำวิดีโอนี้โดยให้ฉันเปลี่ยนร่างเป็นโครเมียมเหลวในทันที เหมือนกับในภาพยนตร์เรื่อง Terminator
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089481439981002753/img/-CUZ_gnhORuZ-ygw.jpg" width="600" alt="เอฟเฟกต์โครเมียมเหลวแบบ Terminator">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9470)**
+
+**Author:** [George White](https://x.com/GeorgeWhit30059) | **Source:** [Link](https://x.com/GeorgeWhit30059/status/2089481455005032644) | **Published:** Aug 17, 2026
 
 ---
 ### ข้อความเรืองแสงสีทองแดงสไตล์โกธิค
@@ -1900,220 +2121,6 @@ Wizard of Oz ในฉากหลังแบบคาวบอยตะวั�
 **Author:** [Jorge Gonzalez](https://x.com/JorgeGeminiOR) | **Source:** [Link](https://x.com/JorgeGeminiOR/status/2087687088447672659) | **Published:** Aug 12, 2026
 
 ---
-### วิดีโอชุดกี่เพ้าจีนและมังกร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่บรรยายถึงหญิงสาวในชุดกี่เพ้าแบบดั้งเดิมที่ถูกมังกรพาตัวลอยขึ้นไปในอากาศ
-
-#### 📝 Prompt
-
-```
-หญิงสาวเปลี่ยนมาสวมชุดกี่เพ้าจีน มังกรดุร้ายโน้มตัวลงมาและวนรอบเพื่อมองกล้อง จากนั้นมังกรตัวนั้นก็ม้วนตัวพาหญิงสาวขึ้นไปบนอากาศ หญิงสาวมองลงมาที่กล้องจากบนฟ้าพร้อมโบกมือด้วยรอยยิ้ม
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087474580504117248/img/68EJF92sedAVgrqX.jpg" width="600" alt="วิดีโอชุดกี่เพ้าจีนและมังกร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9010)**
-
-**Author:** [实在人](https://x.com/yngfipng1) | **Source:** [Link](https://x.com/yngfipng1/status/2087474826802086038) | **Published:** Aug 12, 2026
-
----
-### การยืดเหยียดกล้ามเนื้อของนักกีฬาในช่วงเช้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอสไตล์ภาพถ่ายระดับภาพยนตร์ของนักกีฬาที่กำลังยืดเหยียดกล้ามเนื้อโดยมีฉากหลังเป็นเส้นขอบฟ้าของเมืองในช่วงเวลาโกลเด้นอาวร์
-
-#### 📝 Prompt
-
-```
-นักกีฬายืดเหยียดกล้ามเนื้อในช่วงพระอาทิตย์ขึ้น, ฉากหลังเป็นเส้นขอบฟ้าของเมือง, แสงช่วงโกลเด้นอาวร์, ชุดออกกำลังกายสไตล์มินิมอล, ภาพถ่ายระดับภาพยนตร์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087367634077814784/img/aYMPTsTLcQE4yL0P.jpg" width="600" alt="การยืดเหยียดกล้ามเนื้อของนักกีฬาในช่วงเช้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8922)**
-
-**Author:** [Viralblend](https://x.com/_Viralblend) | **Source:** [Link](https://x.com/_Viralblend/status/2087367648606872030) | **Published:** Aug 12, 2026
-
----
-### แอนิเมชันโต๊ะทำงานของ Busy Beaver
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แอนิเมชันเชิงสร้างสรรค์ที่แสดงภาพโต๊ะทำงานของบีเวอร์ ซึ่งเป็นการผสมผสานระหว่างการทำงานและธรรมชาติผ่านสวิตช์คำนวณและดอกไม้
-
-#### 📝 Prompt
-
-```
-โต๊ะทำงานของ Busy Beaver ตอนนี้มีจุดพักสายตาเป็นดอกไม้แล้ว:
-
-64 สวิตช์   1 แจกันดอกไม้
-งาน   เล่น   ชีวิต
-
-ดอกไม้ช่วยเติมสีสันให้กับการคำนวณโดยไม่รบกวนการทำงานของบีเวอร์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087323909725044737/img/VjgJEMl-CaB2QzHT.jpg" width="600" alt="แอนิเมชันโต๊ะทำงานของ Busy Beaver">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9011)**
-
-**Author:** [John Colwell](https://x.com/Jmcssystems) | **Source:** [Link](https://x.com/Jmcssystems/status/2087323943648559187) | **Published:** Aug 11, 2026
-
----
-### ภาพวาดแรคคูนสไตล์อนิเมะมาร์กเกอร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ภาพวาดการ์ตูนแรคคูนในสไตล์อนิเมะมาร์กเกอร์ที่ใช้โทนสีอันเป็นเอกลักษณ์ ตัดกับพื้นหลังสไตล์ภาพถ่ายครอบครัวยุค 1980 ที่ใช้เทคนิคแอร์บรัช
-
-#### 📝 Prompt
-
-```
-ภาพวาดพอร์ตเทรตสไตล์อนิเมะมาร์กเกอร์ (เน้นการลงสีพื้นและเติมเต็มพื้นที่) เป็นตัวการ์ตูนแรคคูนที่มีหัวกลมโต ขนมีโทนสีขาว เขียวเข้ม และเหลือบทอง แทนที่จะเป็นสีขาวดำแบบปกติ ตกแต่งอย่างมีรสนิยมด้วยพื้นหลังสไตล์แอร์บรัชยุค 1980 เหมือนภาพถ่ายครอบครัวในสมัยก่อน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087319223567896576/img/zMwcv4x0oGBqXAF5.jpg" width="600" alt="ภาพวาดแรคคูนสไตล์อนิเมะมาร์กเกอร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9009)**
-
-**Author:** [Pure Jimothy](https://x.com/purejimothy) | **Source:** [Link](https://x.com/purejimothy/status/2087319238629572834) | **Published:** Aug 11, 2026
-
----
-### เอฟเฟกต์ภาพพลังงานไฟฟ้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสำหรับช็อตกล้องนิ่งที่มีไฮไลต์ไฟฟ้ากะพริบถี่และเอฟเฟกต์แสงพลังงาน
-
-#### 📝 Prompt
-
-```
-กล้องนิ่งแบบล็อกตำแหน่ง ไม่มีการเคลื่อนไหวของวัตถุ ทุกอย่างหยุดนิ่งสนิท ไฮไลต์และเส้นขอบไฟฟ้ากะพริบและเต้นเป็นจังหวะทั่วทั้งภาพ โดยมีแสงพลังงานสีฟ้าและสีขาวสว่างวาบตามขอบ พื้นหลัง และพื้นหน้า ทำให้ภาพดูมีชีวิตชีวาและเต็มไปด้วยพลังงานผ่านเอฟเฟกต์แสงเพียงอย่างเดียว โดยไม่มีการเคลื่อนไหวจริง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087312301032366080/img/688R0vemAvNLWXiL.jpg" width="600" alt="เอฟเฟกต์ภาพพลังงานไฟฟ้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8923)**
-
-**Author:** [Teh Lid](https://x.com/TehLid88) | **Source:** [Link](https://x.com/TehLid88/status/2087312335165686193) | **Published:** Aug 11, 2026
-
----
-### การปล่อยจรวดสีเงินโฉบเฉี่ยว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่บรรยายรายละเอียดอย่างชัดเจนของจรวดที่กำลังเร่งความเร็วผ่านชั้นบรรยากาศพร้อมเปลวไฟและควัน
-
-#### 📝 Prompt
-
-```
-จรวดสีเงินโฉบเฉี่ยวพุ่งทะยานขึ้นสู่ชั้นบรรยากาศด้วยพลังอันมหาศาล เครื่องยนต์คำรามกึกก้องพร้อมเปลวไฟสีส้มและสีขาวที่ทวีความรุนแรงขึ้น ในขณะที่กลุ่มควันและเปลวไฟขนาดใหญ่ขยายตัวและทิ้งรอยไว้เบื้องหลัง กล้องค่อย ๆ แพนและเงยขึ้นตาม...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087309167312728065/img/Rqe6QETEmurGJAev.jpg" width="600" alt="การปล่อยจรวดสีเงินโฉบเฉี่ยว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8927)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2087309189534151111) | **Published:** Aug 11, 2026
-
----
-### ภาพดอลลี่ช็อตวิวทะเลช่วงโกลเด้นอาวร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอระดับภาพยนตร์สำหรับ Grok Imagine ที่ถ่ายทอดการเปลี่ยนผ่านจากภายในห้องพักสุดหรูไปสู่ทิวทัศน์ทะเลในช่วงพระอาทิตย์ตก
-
-#### 📝 Prompt
-
-```
-กล้องค่อย ๆ เคลื่อนดอลลี่ไปข้างหน้าผ่านห้องพักโรงแรมสุดหรูมุ่งหน้าสู่หน้าต่างบานสูงจากพื้นจรดเพดาน เผยให้เห็นมหาสมุทรอันกว้างใหญ่ที่ส่องประกายระยิบระยับในช่วงโกลเด้นอาวร์ ขณะที่ผ้าม่านผ้าไหมพริ้วไหวเบา ๆ ตามสายลม และแสงแดดอันอบอุ่นทอดผ่านพื้นผิวที่ขัดเงา...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087230586813321216/img/Wf_DWol8_UFAXrAW.jpg" width="600" alt="ภาพดอลลี่ช็อตวิวทะเลช่วงโกลเด้นอาวร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8925)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2087230601719877929) | **Published:** Aug 11, 2026
-
----
-### วิดีโอปั่นจักรยานสไตล์จิบลิ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอที่ได้รับแรงบันดาลใจจาก Studio Ghibli นำเสนอภาพเด็กสาวกำลังปั่นจักรยานลงจากเส้นทางบนภูเขาไปยังอ่าวที่สวยงาม พร้อมเอฟเฟกต์การเคลื่อนไหวและสายลมที่สมจริง
-
-#### 📝 Prompt
-
-```
-มุมกล้องต่ำติดตามเด็กสาวที่กำลังปั่นจักรยานลงจากทางลาดชันที่หันหน้าเข้าหาอ่าวที่สวยงามและภูเขาสีเขียว มีเอฟเฟกต์ภาพเบลอจากการเคลื่อนไหวที่ล้อจักรยาน สายลมสมจริงพัดผ่านผมสีบลอนด์ของเธอ พื้นน้ำทะเลเป็นประกายระยิบระยับในฉากหลัง แสงสีสดใสในสไตล์ Studio Ghibli (ดื่มด่ำ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087220575290953728/img/1ERY9JOToSLakiWJ.jpg" width="600" alt="วิดีโอปั่นจักรยานสไตล์จิบลิ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8928)**
-
-**Author:** [arnab](https://x.com/arnab28x) | **Source:** [Link](https://x.com/arnab28x/status/2087221207422919109) | **Published:** Aug 11, 2026
-
----
-### คอนเซปต์เทรลเลอร์ Zendaya ในบท James Bond
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอตัวอย่างแนวคิดเชิงสร้างสรรค์ที่จินตนาการให้ Zendaya รับบทเป็น James Bond คนต่อไป เพื่อแสดงให้เห็นถึงศักยภาพในการคัดเลือกนักแสดง
-
-#### 📝 Prompt
-
-```
-จะเป็นอย่างไรถ้า Zendaya รับบทเป็น James Bond? สร้างวิดีโอตัวอย่างแนวคิดเพื่อโน้มน้าวใจ Amy Pascal และ @AmazonMGMStudio ว่าเธอคือตัวเลือกที่สมบูรณ์แบบสำหรับบทบาท Bond คนใหม่
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087174944698310656/img/FiZYuwcNiwvcTrWs.jpg" width="600" alt="คอนเซปต์เทรลเลอร์ Zendaya ในบท James Bond">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9012)**
-
-**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2087175078651768903) | **Published:** Aug 11, 2026
-
----
-### วิดีโอเปิดตัวสินค้าแบบ Cinematic 3-Shot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอระดับมืออาชีพที่ออกแบบมาเพื่อเปลี่ยนภาพถ่ายสินค้าให้นิ่งกลายเป็นลำดับการเปิดตัวแบบ Cinematic 3-Shot สำหรับโฆษณา
-
-#### 📝 Prompt
-
-```
-การเปิดตัวสินค้าแบบ Hero, เปลี่ยนภาพถ่ายสินค้า 1 ภาพให้เป็นวิดีโอเปิดตัวแบบ Cinematic 3-Shot
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087146457535287296/img/OLV0JT2u5ygb6ORf.jpg" width="600" alt="วิดีโอเปิดตัวสินค้าแบบ Cinematic 3-Shot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8931)**
-
-**Author:** [いにしえ@AI Director / Creator / Engineer｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2087147332702007732) | **Published:** Aug 11, 2026
-
----
-### ลำดับภาพไลฟ์สไตล์แฟชั่นในรูปแบบภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) วิดีโอแบบหลายช็อตโดยละเอียดสำหรับลำดับภาพแฟชั่นระดับมืออาชีพ พร้อมการเคลื่อนไหวของกล้องแบบภาพยนตร์และฟิสิกส์ที่สมจริง
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอให้มีความรู้สึกเหมือนลำดับภาพไลฟ์สไตล์แฟชั่นแบบภาพยนตร์ โดยใช้ช็อตที่หลากหลายและการเล่าเรื่องที่เป็นธรรมชาติ เริ่มต้นด้วยช็อตมุมกว้างที่เห็นทั้งตัวและสภาพแวดล้อมโดยรอบ จากนั้นเปลี่ยนไปเป็นช็อตติดตามตัว (Tracking shot) ขณะที่เธอกำลังเดินอย่างช้าๆ ท่ามกลางสายลม ต่อด้วยช็อตระยะกลางแบบสามส่วน (Medium three-quarter shot) ที่เธอปัดผมที่ปลิวมาปรกหน้าออกอย่างเป็นธรรมชาติ และมองไปในระยะไกลด้วยสีหน้าครุ่นคิดที่ดูนุ่มนวล ตามด้วยช็อตด้านข้างระยะกลาง-ไกล (Medium-long side-profile shot) ในขณะที่ลมพัดแรงขึ้นจนผมและเสื้อโค้ทของเธอขยับไปตามลม โดยที่กล้องค่อยๆ เคลื่อนที่เป็นส่วนโค้งรอบตัวเธอ ปิดท้ายด้วยช็อตโคลสอัพที่ใกล้ชิดซึ่งตรงกับภาพอ้างอิง โดยที่เธอกำลังหลับตาลงเบาๆ และเอียงหน้าไปรับลมด้วยสีหน้าที่ดูสงบและนุ่มนวล ใช้การเคลื่อนไหวของกล้องแบบภาพยนตร์ที่นุ่มนวล การเดินและกลไกของร่างกายที่สมจริง การหายใจที่เป็นธรรมชาติ รายละเอียดของเส้นผมและเนื้อผ้าที่สมจริง ความแรงของลมที่เปลี่ยนแปลงไป รวมถึงระยะชัดลึกและโมชั่นเบลอที่สมจริง หลีกเลี่ยงการใช้แต่ช็อตโคลสอัพหรือการให้ตัวละครอยู่นิ่งๆ รักษาใบหน้า อัตลักษณ์ ทรงผม ชุด สัดส่วนร่างกาย เครื่องประดับ และรูปลักษณ์โดยรวมของเธอให้คงเดิมตลอดทั้งวิดีโอ ห้ามแสดงสีหน้าที่เกินจริง ไม่มีการพูด ไม่มีการเคลื่อนไหวที่กะทันหัน และไม่มีการเปลี่ยนใบหน้าหรือชุด
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086959132725407744/img/cOj85JUzbazK07rr.jpg" width="600" alt="ลำดับภาพไลฟ์สไตล์แฟชั่นในรูปแบบภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=8924)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2087144498258128996) | **Published:** Aug 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2175,6 +2182,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-19T01:51:50.565Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-19T13:26:23.272Z</sub>
 
 </div>
