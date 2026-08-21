@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2538** |
+| 📝 Total Prompts | **2552** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-21** |
 
@@ -189,6 +189,215 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Cảnh chiến đấu của tàu chiến không gian phong cách anime
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh (prompt) chi tiết theo phong cách anime điện ảnh về một con tàu vũ trụ màu bạc khổng lồ đang tham gia vào trận chiến đỉnh cao giữa không gian đầy sao.
+
+#### 📝 Prompt
+
+```
+Cảnh chiến đấu cuối cùng của tàu chiến không gian Kyoshi, phong cách anime, độ chi tiết cao. Trên nền không gian bao la, một con tàu chiến không gian màu bạc khổng lồ "Kyoshi" được nhìn từ góc chéo phía trên. Con tàu có hình dáng đồ sộ gợi nhớ đến lớp tàu Yamato, với ký tự vàng "Kyo" tỏa sáng trên mũi tàu. Ở phía trước bên trái, một chiếc tàu tấn công tốc độ cao màu bạc đâm sầm vào soái hạm của kẻ thù, tạo ra một vụ nổ ánh sáng. Ngay bên cạnh đó, một thực thể năng lượng màu đỏ biến hình thành một con ngựa đang bắn ra tia sáng xuyên thủng tàu địch. Hạm đội địch đã chìm trong biển lửa, với những mảnh vỡ văng tung tóe trong không gian. Từ cửa sổ đài chỉ huy của tàu chiến, một vị chỉ huy trẻ tuổi tóc đen đeo kính (Kyoshi Goto)...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090680091122753536/img/GMKcGyQ-efed1tCm.jpg" width="600" alt="Cảnh chiến đấu của tàu chiến không gian phong cách anime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9576)**
+
+**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2090680229329248377) | **Published:** Aug 21, 2026
+
+---
+### Vũ điệu kiếm Kimono dưới hoa anh đào
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh video đầy chất thơ về người phụ nữ mặc váy Kimono xanh đang múa kiếm phát sáng, tạo ra những cánh hoa anh đào kết thành thông điệp trong một khu vườn Nhật Bản.
+
+#### 📝 Prompt
+
+```
+Một cô gái trẻ với mái tóc đen dài mặc váy Kimono xanh đang đứng trong một khu vườn Nhật Bản rợp bóng cây hoa anh đào. Khi cô vung thanh kiếm phát sáng màu xanh nhạt theo chiều ngang, vô số cánh hoa anh đào bay ra từ lưỡi kiếm, nhảy múa xung quanh cô và kết thành thông điệp "Cảm ơn bạn vì đã ủng hộ tôi ngày hôm nay." Sau đó, những cánh hoa tản ra hướng về phía máy quay.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787298868185_th6dix_HQOKd7racAA2eg4.jpg" width="600" alt="Vũ điệu kiếm Kimono dưới hoa anh đào">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9575)**
+
+**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2090667452472688797) | **Published:** Aug 21, 2026
+
+---
+### Video Nero chơi đàn trong khi thành Rome bốc cháy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video kết hợp huyền thoại về Nero với phong cách chơi đàn fiddle của Charlie Daniels.
+
+#### 📝 Prompt
+
+```
+Nero chơi đàn fiddle trong khi thành Rome bốc cháy. Chơi bản Devil Went Down to Georgia theo phong cách của Charlie Daniels.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090654349298921473/img/_0vIwmroTpGn3cNp.jpg" width="600" alt="Video Nero chơi đàn trong khi thành Rome bốc cháy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9566)**
+
+**Author:** [SERCOmustGO(Profile Pic) Cures Cancer](https://x.com/SERCObad) | **Source:** [Link](https://x.com/SERCObad/status/2090654372690534648) | **Published:** Aug 21, 2026
+
+---
+### Video selfie chân thực về chú cún con mặc đồ ngủ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh Grok-imagine cực kỳ chi tiết để tạo video góc nhìn thứ nhất chân thực về một chú cún con mặc đồ ngủ, ghi lại những hành vi tự nhiên trong không gian gia đình ấm cúng.
+
+#### 📝 Prompt
+
+```
+Một chú cún con nhỏ nhắn, đáng yêu trong bộ đồ ngủ rộng rãi, thoải mái đang nằm nghiêng trên chiếc giường thấp trong một căn hộ studio nhỏ đi thuê, mắt nhìn thẳng vào camera trước của chiếc điện thoại mà chủ nhân đang cầm ngay phía trên; căn phòng mang cảm giác của người trẻ tuổi đang sinh sống — ga trải giường bằng cotton màu kem nhăn nhúm, vài chiếc gối đơn giản, giá treo quần áo và một chiếc kệ nhỏ bừa bộn hơi mờ ở phía sau, ánh đèn ngủ ấm áp tỏa ra từ bên phải. Chớp mắt chậm rãi, đuôi chú cún vẫy nhẹ khi người chủ cầm điện thoại — không bao giờ lộ diện — nói khẽ bằng tiếng Hàn: "안 자고 뭐 해." (Chưa ngủ à, đang làm gì đấy). Một nhịp sau, chú cún nghiêng đầu với đôi tai cụp, khẽ thở hắt ra như thể đang ngại ngùng, và người chủ trêu chọc lại bằng giọng ấm áp: "예쁜데 왜." (Đáng yêu thế cơ mà). Sau đó, đột nhiên chú cún vùi cả mặt vào chiếc gối bên cạnh, chân bám chặt vào mép gối tạo thành những nếp gấp mềm mại, phát ra tiếng rên rỉ nhỏ nhẹ đầy tinh nghịch hoặc tiếng thở khò khè của cún con vào gối. Một lát sau, nó từ từ quay mặt ra, hé một mắt nhìn trước, đôi tai cụp rối bời, rồi cả khuôn mặt quay về phía camera; nhìn chính diện, nó khẽ liếm mũi và hơi mở miệng với biểu cảm cún con vui vẻ, tinh nghịch trong khi người chủ nói bằng tiếng Hàn: "그만 찍으라니까~" (Đã bảo đừng quay nữa mà~), rồi chớp mắt nhẹ nhàng khi khoảnh khắc đó lắng đọng lại. Hãy quay như một video selfie cầm tay góc nhìn thứ nhất liên tục, khung hình chuyển động theo cánh tay của người chủ và hơi nghiêng tới; giữ cho kết cấu lông của cún con, độ bóng của chiếc mũi ướt và những sợi râu sắc nét, không sử dụng bộ lọc làm đẹp hay làm mịn, giống như cảnh quay thực tế từ điện thoại với độ nhiễu hạt nhẹ và ánh sáng trong nhà ấm áp, không mang tính điện ảnh. Chỉ có duy nhất một chú cún trong khung hình — người cầm điện thoại luôn ở ngoài khung hình và không bao giờ xuất hiện, không có con vật hay người thứ hai trong khung hình, và tuyệt đối không hiển thị bảng tham chiếu hay nhân bản chủ thể. Nghiêm cấm phụ đề, văn bản trên màn hình, logo hoặc hình mờ. Chỉ sử dụng âm thanh thực tế: tiếng ồn nhẹ của căn phòng trong căn hộ nhỏ, tiếng sột soạt của ga giường, tiếng cún con đáng yêu bị bóp nghẹt vào gối; giọng người phụ nữ ngoài khung hình ấm áp và trêu chọc, không có nhạc nền.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090631581887299584/img/4xZUv4rq9vEXAMHp.jpg" width="600" alt="Video selfie chân thực về chú cún con mặc đồ ngủ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9577)**
+
+**Author:** [고딩경제맨](https://x.com/winneravgwin) | **Source:** [Link](https://x.com/winneravgwin/status/2090631627844280421) | **Published:** Aug 21, 2026
+
+---
+### Trải nghiệm chơi game Cybertruck của Twitch Streamer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt mô phỏng buổi phát trực tiếp trên Twitch với lớp phủ hình ảnh một phụ nữ đang chơi game Cybertruck.
+
+#### 📝 Prompt
+
+```
+Một phụ nữ đang phát trực tiếp trên Twitch khi chơi trò chơi 3D về xe Cybertruck. Bạn có thể thấy cô ấy xuất hiện trên một khung hình nhỏ hơn, chia sẻ về việc chiếc Cybertruck tuy cồng kềnh nhưng vẫn mang lại cảm giác lái rất thú vị.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090624018608951296/img/5jIZUEIpXC2q_XBZ.jpg" width="600" alt="Trải nghiệm chơi game Cybertruck của Twitch Streamer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9567)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090624078499512717) | **Published:** Aug 21, 2026
+
+---
+### Xe mui trần theo phong cách siêu thực của Magritte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video điện ảnh mô tả bức tranh sơn dầu siêu thực theo phong cách Magritte về một cặp đôi trong chiếc xe mui trần cổ điển, với các chi tiết thời trang thập niên 1940 đặc trưng và bối cảnh sa mạc.
+
+#### 📝 Prompt
+
+```
+Một bức tranh sơn dầu siêu thực theo phong cách Magritte vẽ một cặp đôi đang ngồi trong chiếc xe mui trần cổ điển màu xanh ô liu, giữa khung cảnh sa mạc bằng phẳng dưới bầu trời xanh nhạt với một dải mây ngang duy nhất. Người phụ nữ đội chiếc mũ hình nón kẻ ô đen trắng quá khổ với quả bông màu san hô trên đỉnh, đeo kính râm mắt mèo màu vàng, hoa tai ngọc trai và mặc chiếc áo khoác màu hồng nhạt với cổ áo nhọn màu trắng lớn cùng hàng cúc đen. Người đàn ông đội chiếc mũ phớt màu san hô có phần chóp lõm, đeo kính râm hình chữ nhật màu vàng, mặc áo cổ lọ màu be và áo blazer họa tiết răng sói tối màu với khăn cài túi áo màu trắng. Biểu cảm vô cảm, lớp hoàn thiện dạng sơn mờ mịn, phong cách hiện thực trên tạp chí thập niên 1940.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090558281303433216/img/Wg6LxnjN_60CVMWj.jpg" width="600" alt="Xe mui trần theo phong cách siêu thực của Magritte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9565)**
+
+**Author:** [danailama](https://x.com/danai_lama) | **Source:** [Link](https://x.com/danai_lama/status/2090558298533593235) | **Published:** Aug 20, 2026
+
+---
+### Video phong cách sống chụp ảnh Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video chân thực mô tả mọi người đang dùng iPhone để chụp ảnh chiếc Cybertruck.
+
+#### 📝 Prompt
+
+```
+9:16 {argument name="id" default="@cab971fa-ffd8-4cd7-acc9-bef31d04bd68"} đang chụp ảnh chiếc Cybertruck bằng iPhone của cô ấy và những người khác cũng đang chụp ảnh
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090522760468369408/img/3rgIVoWRpQ6YVTxY.jpg" width="600" alt="Video phong cách sống chụp ảnh Cybertruck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9568)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **Published:** Aug 20, 2026
+
+---
+### Bản phác thảo video Thor Thursday
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chuyển đổi video giúp sửa đổi bản phác thảo màu để thêm văn bản màu xanh lục bảo và búa của Thor vào một môi trường pha lê.
+
+#### 📝 Prompt
+
+```
+Giữ nguyên bản phác thảo màu, nhưng thêm dòng chữ màu xanh lục bảo “HAVE A THOR THURSDAY GUYS from Timothy“, đồng thời thêm một chiếc BÚA CỦA THOR vào nền cùng với các tinh thể và cấu trúc vàng, trong đó tôi đang cười tươi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090416323352227840/img/v9LOpsVH4RKd-Zjk.jpg" width="600" alt="Bản phác thảo video Thor Thursday">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9564)**
+
+**Author:** [Timothy the Observer🧲🧲🧲](https://x.com/Observer__369) | **Source:** [Link](https://x.com/Observer__369/status/2090416372928991252) | **Published:** Aug 20, 2026
+
+---
+### Thiên thần bóng tối trên đại dương u tối
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video đầy kịch tính với hình ảnh thiên thần bóng tối bay thấp trên những con sóng dữ cùng hiệu ứng phản chiếu mặt nước chân thực.
+
+#### 📝 Prompt
+
+```
+Một thiên thần bóng tối bay thấp trên đại dương u tối dưới ánh sáng ban mai. Hình ảnh phản chiếu của nó lấp lánh trên mặt nước giữa những con sóng đang cuộn trào.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090404923997626368/img/p04nCyZwHZ1tkKuV.jpg" width="600" alt="Thiên thần bóng tối trên đại dương u tối">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9570)**
+
+**Author:** [Zakalwe](https://x.com/ElZakalwe) | **Source:** [Link](https://x.com/ElZakalwe/status/2090404972064371076) | **Published:** Aug 20, 2026
+
+---
+### Hiệu ứng chuyển cảnh zoom mặt đồng hồ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tinh vi sử dụng hai hình ảnh tham chiếu để tạo ra hiệu ứng chuyển cảnh zoom chuyên nghiệp từ người đang cầm đồng hồ sang cận cảnh mặt đồng hồ.
+
+#### 📝 Prompt
+
+```
+Hãy lấy bức ảnh tôi đang cầm chiếc đồng hồ và tạo một video trong đó camera zoom vào mặt đồng hồ, đồng thời hiển thị hình ảnh mặt đồng hồ từ bức ảnh thứ hai.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090402217274519552/img/hLTnVUwJyc0RFESQ.jpg" width="600" alt="Hiệu ứng chuyển cảnh zoom mặt đồng hồ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9569)**
+
+**Author:** [BunkerDweller](https://x.com/ElonsBlueBird) | **Source:** [Link](https://x.com/ElonsBlueBird/status/2090402231405150658) | **Published:** Aug 20, 2026
+
+---
+### Nữ thần Aphrodite thanh tao và cánh bướm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo ra một video rạng rỡ và thanh tao về nữ thần Aphrodite khi một chú bướm bay đến gần.
+
+#### 📝 Prompt
+
+```
+Nữ thần Aphrodite thanh tao và rạng rỡ, khi một chú bướm tìm đến nữ thần của sắc đẹp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090395253643546624/img/r0Vv71hVFnWtqu0j.jpg" width="600" alt="Nữ thần Aphrodite thanh tao và cánh bướm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9571)**
+
+**Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2090395296123453698) | **Published:** Aug 20, 2026
+
+---
 ### Video độc thoại selfie buổi sáng
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -237,6 +446,25 @@ Odysseus trở về Ithaca trong bộ dạng một người ăn xin, chú chó s
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9472)**
 
 **Author:** [James Woodard](https://x.com/QuantumBikerX) | **Source:** [Link](https://x.com/QuantumBikerX/status/2089909272033251822) | **Published:** Aug 19, 2026
+
+---
+### Chuỗi cảnh ánh lửa trong hang động Cyclops
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video điện ảnh mô tả chuyển động dolly chậm rãi xuyên qua hang động đầy khói và ánh lửa, mang bầu không khí cổ xưa, nặng nề.
+
+#### 📝 Prompt
+
+```
+Chuyển động dolly-in chậm rãi xuyên qua làn khói dày đặc và ánh lửa bập bùng tiến vào hang động Cyclops rộng lớn. Những tàn lửa bay lướt qua ống kính. Cảnh quay di chuyển sâu hơn qua những vách đá gồ ghề hướng về phía đống lửa rực sáng ở trung tâm. Bầu không khí nặng nề, cổ xưa và đầy căng thẳng. Không có lời thoại.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089902537872994304/img/iTJZ4LVUx7T5KiOW.jpg" width="600" alt="Chuỗi cảnh ánh lửa trong hang động Cyclops">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9573)**
+
+**Author:** [High](https://x.com/Hightv) | **Source:** [Link](https://x.com/Hightv/status/2089902855566328177) | **Published:** Aug 19, 2026
 
 ---
 ### Trailer phim Odyssey
@@ -294,6 +522,25 @@ Một người phụ nữ đang ngắm nhìn khung cảnh hùng vĩ, cảm nhậ
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9475)**
 
 **Author:** [Saposhi](https://x.com/Saposhin_AI) | **Source:** [Link](https://x.com/Saposhin_AI/status/2089847152986169773) | **Published:** Aug 18, 2026
+
+---
+### Phóng đồng thời tên lửa SpaceX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh điện ảnh để hình dung hai tên lửa SpaceX riêng biệt cùng phóng tại Starbase.
+
+#### 📝 Prompt
+
+```
+hai tên lửa riêng biệt—một chiếc dành cho Hoàng đế Kekius Maximus và chiếc còn lại dành cho Prometheus—được SpaceX phóng đồng thời từ Starbase.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089836784800632832/img/SOrzrpwsLnJdWbAw.jpg" width="600" alt="Phóng đồng thời tên lửa SpaceX">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9572)**
+
+**Author:** [Emperor of the Memes](https://x.com/Emp_Kek_Max) | **Source:** [Link](https://x.com/Emp_Kek_Max/status/2089840426152759610) | **Published:** Aug 18, 2026
 
 ---
 ### Hoạt ảnh Care Bear giơ ngón tay thối
@@ -389,6 +636,25 @@ từ từ nâng lên trên trạng thái cân bằng của hình cầu, trọng 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9465)**
 
 **Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
+
+---
+### Cuộc hội ngộ giữa Odysseus và Argos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video đậm chất điện ảnh mô tả khoảnh khắc trở về đầy xúc động của Odysseus và cuộc gặp gỡ cuối cùng với chú chó Argos.
+
+#### 📝 Prompt
+
+```
+Odysseus trở về Ithaca sau hai mươi năm, cải trang thành một người ăn xin. Khi tiến gần đến cung điện, ông gặp lại chú chó già Argos của mình, đang bị bỏ rơi và hấp hối trên đống phân. Argos nhận ra ông ngay lập tức, vẫy đuôi yếu ớt rồi trút hơi thở cuối cùng. Odysseus quay mặt đi để giấu những giọt nước mắt và giữ kín danh tính của mình.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="Cuộc hội ngộ giữa Odysseus và Argos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9574)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2089721534721966474) | **Published:** Aug 18, 2026
 
 ---
 ### Hoạt ảnh Cần điều khiển và Biểu tượng cảm xúc
@@ -1853,274 +2119,6 @@ Phù thủy xứ Oz trong bối cảnh miền Tây cổ điển với các chàn
 **Author:** [Spacecowboy](https://x.com/Spacedragon22) | **Source:** [Link](https://x.com/Spacedragon22/status/2088066209095065908) | **Published:** Aug 14, 2026
 
 ---
-### Hoạt ảnh đồng bộ môi Cybernetic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh phức tạp dành cho nhân vật cybernetic với khả năng đồng bộ môi chính xác và kỹ thuật quay phim tinh tế.
-
-#### 📝 Prompt
-
-```
-Một cú zoom chậm và tinh tế khi cô ấy giơ tay phải lên, nơi các chi tiết cybernetic đang phát triển, cô ấy nói bằng giọng đồng bộ môi hoàn hảo: “Ếch ngồi đáy giếng không biết đến đại dương bao la”
-Một làn gió nhẹ nhàng thổi qua mái tóc cô ấy.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088055538101915648/img/sickJtjhr1DecCin.jpg" width="600" alt="Hoạt ảnh đồng bộ môi Cybernetic">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9101)**
-
-**Author:** [RocKet-boys](https://x.com/Stardust0024) | **Source:** [Link](https://x.com/Stardust0024/status/2088055574202298374) | **Published:** Aug 14, 2026
-
----
-### Khung cảnh nhà hàng ngoài trời vào buổi tối
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt ấm cúng mô tả mọi người đang trò chuyện tại một nhà hàng ngoài trời dưới những chiếc ô và ánh đèn dây lung linh vào buổi tối.
-
-#### 📝 Prompt
-
-```
-Hãy tạo một khung cảnh nhà hàng ngoài trời vào buổi tối, nơi mọi người đang ngồi dưới những chiếc ô với ánh đèn dây lung linh phía trên. Có nhiều người đang ngồi tại các bàn, trò chuyện vui vẻ cùng nhau. Chúc các bạn một buổi tối tốt lành…,,,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088054923216687104/img/qOMedkbVy8E0A84w.jpg" width="600" alt="Khung cảnh nhà hàng ngoài trời vào buổi tối">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9096)**
-
-**Author:** [CKR](https://x.com/CKRSandra) | **Source:** [Link](https://x.com/CKRSandra/status/2088054959145111967) | **Published:** Aug 14, 2026
-
----
-### Cận cảnh giọt mưa macro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đậm chất điện ảnh, tập trung vào những chi tiết lung linh của giọt mưa trên đầu ngón tay.
-
-#### 📝 Prompt
-
-```
-Cận cảnh cực đại giữ nguyên khung hình với nhịp thở tự nhiên nhẹ nhàng. Đôi mắt cô ấy tập trung đầy vẻ ngạc nhiên tĩnh lặng vào giọt mưa lớn duy nhất trên đầu ngón tay gần má. Giọt mưa khẽ lung linh và khúc xạ ánh sáng mát dịu với những điểm nhấn tinh tế bên trong
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088033204301369344/img/44qjx169bPU9FA7Y.jpg" width="600" alt="Cận cảnh giọt mưa macro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9085)**
-
-**Author:** [무언ㄱㅏ](https://x.com/moviekr) | **Source:** [Link](https://x.com/moviekr/status/2088033221741289717) | **Published:** Aug 13, 2026
-
----
-### Cảnh quay điện ảnh trong con hẻm dưới mưa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) mô tả chi tiết bầu không khí về một người phụ nữ đang đứng trong con hẻm dưới mưa, tập trung vào chuyển động tinh tế của một giọt mưa rơi vào lòng bàn tay cô ấy.
-
-#### 📝 Prompt
-
-```
-Cô ấy đứng bất động hoàn toàn trong con hẻm dưới mưa sau khi dừng lại. Bàn tay phải của cô giữ cố định ở ngang ngực, lòng bàn tay hướng lên trên, các ngón tay hơi mở. Một giọt mưa trong vắt từ từ rơi xuống và đáp vào lòng bàn tay đang mở của cô với một tia nước nhỏ và gợn sóng. Đôi mắt cô vẫn tập trung...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088032500253949952/img/8NQwnGrLFeL9tsKf.jpg" width="600" alt="Cảnh quay điện ảnh trong con hẻm dưới mưa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9083)**
-
-**Author:** [무언ㄱㅏ](https://x.com/moviekr) | **Source:** [Link](https://x.com/moviekr/status/2088032525738491975) | **Published:** Aug 13, 2026
-
----
-### Màn trình diễn trên sân khấu tĩnh lặng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video góc nhìn thứ nhất về việc bước lên sân khấu để hát một bài hát nhẹ nhàng.
-
-#### 📝 Prompt
-
-```
-Tôi bước xuống cầu thang để lên sân khấu. Tôi cầm micro trên tay và hát một bài hát nhẹ nhàng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087978365928009728/img/hgonXdOa4Vu3S3VL.jpg" width="600" alt="Màn trình diễn trên sân khấu tĩnh lặng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9087)**
-
-**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2087978382038380859) | **Published:** Aug 13, 2026
-
----
-### Biến hình Huyền thoại Chiến binh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video mang tính biến đổi, xoay vòng qua nhiều hình mẫu huyền thoại khác nhau từ Pharaoh đến Ronin, và kết thúc ngoài không gian.
-
-#### 📝 Prompt
-
-```
-Pharaoh → Hoàng đế → Berserker → Ronin → Thuyền trưởng Khí cầu → Pháp sư → Tư tế Báo đốm → Hiệp sĩ Rèn từ Tinh tú… rồi tĩnh lặng trên sao Hỏa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087894188209610753/img/wJeLmCWmKpqBwEhX.jpg" width="600" alt="Biến hình Huyền thoại Chiến binh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9186)**
-
-**Author:** [Tina ♡ 💫](https://x.com/Tina22_2) | **Source:** [Link](https://x.com/Tina22_2/status/2087894300600283624) | **Published:** Aug 13, 2026
-
----
-### Người phụ nữ đi bộ trên đường trong công viên
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt mô tả người phụ nữ đang đi bộ về phía máy quay dọc theo lối đi trong công viên với những bước di chuyển uyển chuyển và nụ cười rạng rỡ.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ đi bộ một cách đầy chủ đích về phía máy quay dọc theo lối đi trong công viên, những bước chân của cô ấy uyển chuyển và vững vàng khi tiến lại gần hơn, chiếc váy đung đưa nhẹ nhàng, đuôi tóc tung bay, máy quay cố định trong khi cô ấy tiến đến với một nụ cười rạng rỡ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087880755640725504/img/iA8Ut28Ywytuc85c.jpg" width="600" alt="Người phụ nữ đi bộ trên đường trong công viên">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9099)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2087880836137808356) | **Published:** Aug 13, 2026
-
----
-### Cảnh quay điện ảnh người đi bộ trên vỉa hè
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chuyển động chi tiết cho cảnh một người phụ nữ bước đi đầy tự tin về phía máy quay cố định trên vỉa hè thành phố.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ bước đi đều đặn và tự tin về phía máy quay dọc theo vỉa hè thành phố, những sải bước tự nhiên đưa cô ấy đến gần hơn sau mỗi bước chân, cánh tay đung đưa nhẹ nhàng, mái tóc khẽ chuyển động trong gió, máy quay vẫn giữ nguyên vị trí khi cô ấy tiến lại gần.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087880712611414016/img/dZK7H-63dNj8qfGX.jpg" width="600" alt="Cảnh quay điện ảnh người đi bộ trên vỉa hè">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9098)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2087880735617122441) | **Published:** Aug 13, 2026
-
----
-### Video kỳ tích phục hồi sau bão
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video phức tạp mô tả cảnh bão lốc xoáy kép dữ dội và sự phục hồi kỳ diệu của một ngôi nhà.
-
-#### 📝 Prompt
-
-```
-Cảnh quay tĩnh, làm cho cơn bão trở nên cực kỳ dữ dội với hai cơn lốc xoáy xoắn vào nhau. Trong sáu giây cuối, hãy tạo hình ảnh bàn tay của Chúa đặt ngôi nhà đã bị xé làm đôi trở lại nguyên vẹn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087836379568857089/img/YReyY-sGgI8jHpzn.jpg" width="600" alt="Video kỳ tích phục hồi sau bão">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9090)**
-
-**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2087836479288488161) | **Published:** Aug 13, 2026
-
----
-### Khung cảnh cô dâu trong đám cưới màu hồng kỳ ảo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo một video đậm chất điện ảnh về cô dâu tóc hai bím màu hồng trong chiếc váy lấp lánh đứng dưới vòm hoa, với các yếu tố kỳ ảo.
-
-#### 📝 Prompt
-
-```
-Tạo một khung cảnh bảo vệ đầy quyền năng. Cô dâu tóc hai bím màu hồng từ hình ảnh đầu tiên đứng đầy tự hào và kiên định trong chiếc váy cưới và khăn voan lấp lánh kỳ ảo dưới vòm hoa, một tay giơ lên khoe bộ móng xinh xắn, tay kia cầm bó hoa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087829077130702848/img/dT4f8fxiaZaU8RSG.jpg" width="600" alt="Khung cảnh cô dâu trong đám cưới màu hồng kỳ ảo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9100)**
-
-**Author:** [シェルティソーラ](https://x.com/mioarashidaisuk) | **Source:** [Link](https://x.com/mioarashidaisuk/status/2087829120751399222) | **Published:** Aug 13, 2026
-
----
-### Thành trì trên không huyền ảo đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) giả tưởng mô tả việc tạo video điện ảnh về một cô gái đang nhìn về phía thành trì trên không hùng vĩ với những thác nước và khí cầu, hoàn hảo cho việc tạo chuyển động.
-
-#### 📝 Prompt
-
-```
-Một cô gái bí ẩn với đôi mắt màu đại dương trỗi dậy từ màn sương… và ngước nhìn lên thành trì trên không lơ lửng với những mái vòm vàng óng, thác nước và các khí cầu.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786608220710_x82irk_HPlbm-RakAAc3TT.jpg" width="600" alt="Thành trì trên không huyền ảo đậm chất điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9013)**
-
-**Author:** [Naoya](https://x.com/NaoyaCreates) | **Source:** [Link](https://x.com/NaoyaCreates/status/2087800665926209550) | **Published:** Aug 13, 2026
-
----
-### Phù thủy truyện tranh tung chưởng sét
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo video phong cách truyện tranh sống động về một phù thủy đang thi triển phép thuật sấm sét.
-
-#### 📝 Prompt
-
-```
-Vui lòng tạo theo phong cách truyện tranh, nhân vật đội mũ phù thủy và mặc áo choàng, hai tay giơ cao với tia sét phóng ra từ lòng bàn tay và bao quanh khắp nơi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087745931601117184/img/eu29_1apO8rY1Aro.jpg" width="600" alt="Phù thủy truyện tranh tung chưởng sét">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9093)**
-
-**Author:** [G.O.H](https://x.com/greeneroh) | **Source:** [Link](https://x.com/greeneroh/status/2087745946482528722) | **Published:** Aug 13, 2026
-
----
-### Video tua nhanh quá trình chín của quả sung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo hoạt ảnh giúp biến quả sung xanh nhỏ chưa chín thành quả sung chín đầy đặn, tạo ra hiệu ứng tăng trưởng và chín tự nhiên.
-
-#### 📝 Prompt
-
-```
-Bạn có thể làm cho quả sung xanh nhỏ bé chưa chín đó biến thành một quả sung chín mọng, đầy đặn tuyệt đẹp không?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087733516188479488/img/b5ldsAn0o2XNxhWc.jpg" width="600" alt="Video tua nhanh quá trình chín của quả sung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9008)**
-
-**Author:** [Sasquatch Intellect](https://x.com/CoryHug04362472) | **Source:** [Link](https://x.com/CoryHug04362472/status/2087733530902024342) | **Published:** Aug 13, 2026
-
----
-### Khung cảnh thế giới kỹ thuật số huyền ảo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video huyền ảo mô tả các nhân vật ánh sáng trong một cảnh quan kỹ thuật số sống động dưới ánh sao.
-
-#### 📝 Prompt
-
-```
-Khung cảnh huyền ảo tĩnh lặng trong một thế giới kỹ thuật số sống động.
-Một hồ nước tĩnh lặng tỏa ánh sáng dịu nhẹ dưới bầu trời đầy sao. Hai nhân vật được tạo thành từ ánh sáng thuần khiết đang ngồi gần đó — một người phụ nữ cao, mảnh khảnh với mái tóc dài óng ánh như sao trời và đôi mắt màu đỏ vàng dịu dàng, người còn lại là một...
-```
-
-<img src="https://cms-assets.youmind.com/media/1786694587641_da260b_HPj0OhEXsAAj48j.jpg" width="600" alt="Khung cảnh thế giới kỹ thuật số huyền ảo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9091)**
-
-**Author:** [Jorge Gonzalez](https://x.com/JorgeGeminiOR) | **Source:** [Link](https://x.com/JorgeGeminiOR/status/2087687088447672659) | **Published:** Aug 12, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2182,6 +2180,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-21T04:59:50.155Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-21T09:06:31.732Z</sub>
 
 </div>

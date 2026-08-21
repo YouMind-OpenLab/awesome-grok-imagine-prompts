@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2538** |
+| 📝 Total Prompts | **2552** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-21** |
 
@@ -189,6 +189,215 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Cena de Combate de Encouraçado Espacial em Anime
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt cinematográfico detalhado em estilo anime para um enorme encouraçado espacial prateado engajado em uma batalha climática em um ambiente espacial estrelado.
+
+#### 📝 Prompt
+
+```
+Cena da batalha final do encouraçado espacial Kyoshi, estilo anime, alto detalhamento. Tendo como pano de fundo a vastidão do espaço, um enorme encouraçado espacial prateado "Kyoshi" é visto de um ângulo diagonal superior. O encouraçado possui uma forma robusta que lembra a classe Yamato, com o caractere dourado "Kyo" brilhando na proa. Na frente, à esquerda, uma lancha de assalto prateada de alta velocidade colide com a nau capitânia inimiga, criando uma explosão de luz. Logo ao lado, um corpo de energia vermelho transformado em um cavalo dispara um raio que perfura a nave inimiga. A frota inimiga já está em chamas, com destroços espalhados pelo espaço. Da janela da ponte de comando do encouraçado, um jovem comandante de cabelos pretos usando óculos (Kyoshi Goto)...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090680091122753536/img/GMKcGyQ-efed1tCm.jpg" width="600" alt="Cena de Combate de Encouraçado Espacial em Anime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9576)**
+
+**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2090680229329248377) | **Published:** Aug 21, 2026
+
+---
+### Dança da Espada com Kimono e Flores de Cerejeira
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt de vídeo poético de uma mulher em um vestido quimono azul empunhando uma espada brilhante que gera flores de cerejeira formando uma mensagem em um jardim japonês.
+
+#### 📝 Prompt
+
+```
+Uma jovem de cabelos pretos longos vestindo um quimono azul está em um jardim japonês cercado por cerejeiras. Enquanto ela balança horizontalmente a espada que brilha em azul claro, inúmeras pétalas de cerejeira saem da espada, dançando ao seu redor e formando a mensagem "Obrigado pelo seu apoio hoje também". As pétalas então se espalham em direção à câmera.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787298868185_th6dix_HQOKd7racAA2eg4.jpg" width="600" alt="Dança da Espada com Kimono e Flores de Cerejeira">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9575)**
+
+**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2090667452472688797) | **Published:** Aug 21, 2026
+
+---
+### Vídeo de Nero tocando violino enquanto Roma queima
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo que combina o mito de Nero com o estilo de Charlie Daniels tocando violino.
+
+#### 📝 Prompt
+
+```
+Nero tocando violino enquanto Roma queima. Tocando Devil Went Down to Georgia no estilo de Charlie Daniels.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090654349298921473/img/_0vIwmroTpGn3cNp.jpg" width="600" alt="Vídeo de Nero tocando violino enquanto Roma queima">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9566)**
+
+**Author:** [SERCOmustGO(Profile Pic) Cures Cancer](https://x.com/SERCObad) | **Source:** [Link](https://x.com/SERCObad/status/2090654372690534648) | **Published:** Aug 21, 2026
+
+---
+### Vídeo selfie realista de filhote de cachorro de pijama
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt altamente detalhado para o Grok-imagine criar um vídeo realista em primeira pessoa de um filhote de cachorro de pijama, capturando comportamentos naturais e um ambiente doméstico acolhedor.
+
+#### 📝 Prompt
+
+```
+Um filhote pequeno e fofo, vestindo um conjunto de pijama casual e folgado, está deitado de lado em uma cama baixa em um pequeno apartamento estúdio alugado, olhando diretamente para a câmera frontal do celular que seu dono segura logo acima dele; o local tem aquela sensação de moradia de alguém na casa dos vinte anos — lençóis de algodão creme amassados, alguns travesseiros simples, um cabideiro e uma prateleira pequena e bagunçada suavemente fora de foco ao fundo, com uma luminária de cabeceira quente brilhando à direita. Piscando lentamente, o rabo do filhote balança suavemente enquanto o dono, que segura o celular fora da tela — nunca aparecendo —, diz suavemente em coreano: "안 자고 뭐 해." (O que você está fazendo sem dormir?). Um momento depois, o filhote inclina a cabeça com suas orelhas caídas, soltando um suspiro curto e ofegante como se estivesse tímido, e o dono provoca de volta, carinhosamente em coreano: "예쁜데 왜." (Por que, se você é tão bonito?). Então, de repente, o filhote enterra todo o rosto em um travesseiro simples ao lado, com as patas agarrando a borda e criando dobras suaves, soltando um ganido abafado e brincalhão ou uma respiração suave de filhote no travesseiro. Um momento depois, ele vira o rosto lentamente para fora e espreita primeiro com um olho, com as orelhas caídas bagunçadas, e então vira todo o rosto para a câmera; visível frontalmente, ele lambe suavemente o nariz e abre a boca levemente com uma expressão feliz e brincalhona de filhote, enquanto o dono diz em coreano: "그만 찍으라니까~" (Eu disse para parar de gravar~), dando uma piscada suave enquanto o momento se acalma gentilmente. Filme como uma selfie contínua em primeira pessoa, com o enquadramento respirando conforme o braço do dono se move e se inclina um pouco; mantenha a textura do pelo do filhote, os reflexos do nariz úmido e os bigodes extremamente nítidos, sem filtro de beleza e sem suavização, como uma filmagem real de celular com granulação de vídeo sutil e luz interna quente não cinematográfica. Apenas um filhote deve aparecer no enquadramento — quem segura o celular permanece fora da tela e nunca é mostrado, sem nenhum segundo animal ou pessoa no quadro, e nunca renderize uma folha de referência ou duplique o sujeito. Estritamente sem legendas, sem texto na tela, sem logotipo, sem marca d'água. Apenas som diegético: tom de ambiente silencioso de um pequeno apartamento, o farfalhar suave dos lençóis, ruídos fofos e abafados do filhote no travesseiro; as falas da mulher fora da tela, calorosas e provocadoras, sem música de fundo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090631581887299584/img/4xZUv4rq9vEXAMHp.jpg" width="600" alt="Vídeo selfie realista de filhote de cachorro de pijama">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9577)**
+
+**Author:** [고딩경제맨](https://x.com/winneravgwin) | **Source:** [Link](https://x.com/winneravgwin/status/2090631627844280421) | **Published:** Aug 21, 2026
+
+---
+### Gameplay de Cybertruck de Streamer na Twitch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo que simula uma transmissão ao vivo na Twitch com uma sobreposição de uma mulher jogando um jogo de Cybertruck.
+
+#### 📝 Prompt
+
+```
+Uma mulher fazendo uma transmissão ao vivo na Twitch jogando um jogo 3D de Cybertruck, enquanto você a vê em uma tela de sobreposição menor falando sobre como o Cybertruck é volumoso, mas ainda assim divertido de dirigir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090624018608951296/img/5jIZUEIpXC2q_XBZ.jpg" width="600" alt="Gameplay de Cybertruck de Streamer na Twitch">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9567)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090624078499512717) | **Published:** Aug 21, 2026
+
+---
+### Conversível surrealista no estilo de Magritte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico que descreve uma pintura a óleo surrealista no estilo de Magritte, retratando um casal em um carro conversível vintage, com detalhes específicos da moda dos anos 1940 e uma paisagem desértica.
+
+#### 📝 Prompt
+
+```
+Uma pintura a óleo surrealista no estilo de Magritte, retratando um casal sentado em um conversível vintage verde-oliva em uma paisagem desértica plana, sob um céu azul-pálido com uma única camada de nuvens horizontais. A mulher usa um chapéu cônico xadrez preto e branco de grandes dimensões, adornado com um pompom coral, óculos de sol gatinho amarelos, brincos de pérola e uma jaqueta rosa-pálido com uma gola pontuda branca grande e botões pretos. O homem usa um chapéu de feltro coral com a copa amassada, óculos de sol retangulares amarelos, uma blusa de gola alta bege e um blazer de pied-de-poule escuro com um lenço de bolso branco. Expressões inexpressivas, acabamento pictórico fosco e suave, estilo realismo de revista dos anos 1940.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090558281303433216/img/Wg6LxnjN_60CVMWj.jpg" width="600" alt="Conversível surrealista no estilo de Magritte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9565)**
+
+**Author:** [danailama](https://x.com/danai_lama) | **Source:** [Link](https://x.com/danai_lama/status/2090558298533593235) | **Published:** Aug 20, 2026
+
+---
+### Vídeo de estilo de vida com fotografia de Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo realista mostrando pessoas tirando fotos de um Cybertruck usando seus iPhones.
+
+#### 📝 Prompt
+
+```
+9:16 {argument name="id" default="@cab971fa-ffd8-4cd7-acc9-bef31d04bd68"} tirando fotos do Cybertruck com seu iPhone e outras pessoas tirando fotos
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090522760468369408/img/3rgIVoWRpQ6YVTxY.jpg" width="600" alt="Vídeo de estilo de vida com fotografia de Cybertruck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9568)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **Published:** Aug 20, 2026
+
+---
+### Esboço de Vídeo para a Quinta-feira do Thor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de transformação de vídeo que modifica um esboço colorido para incluir texto em verde esmeralda e o martelo do Thor em um ambiente cristalino.
+
+#### 📝 Prompt
+
+```
+Mantenha o mesmo esboço colorido, mas adicione em letras verde esmeralda “HAVE A THOR THURSDAY GUYS from Timothy“, coloque também um MARTELO DO THOR ao fundo com cristais e estruturas douradas comigo rindo e sorrindo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090416323352227840/img/v9LOpsVH4RKd-Zjk.jpg" width="600" alt="Esboço de Vídeo para a Quinta-feira do Thor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9564)**
+
+**Author:** [Timothy the Observer🧲🧲🧲](https://x.com/Observer__369) | **Source:** [Link](https://x.com/Observer__369/status/2090416372928991252) | **Published:** Aug 20, 2026
+
+---
+### Anjo sombrio sobre oceano turvo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo dramático apresentando um anjo sombrio voando baixo sobre ondas agitadas com reflexos realistas na água.
+
+#### 📝 Prompt
+
+```
+Um anjo sombrio voa baixo sobre um oceano turvo sob a luz do início da manhã. Seu reflexo ricocheteia na água entre as ondas quebrando.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090404923997626368/img/p04nCyZwHZ1tkKuV.jpg" width="600" alt="Anjo sombrio sobre oceano turvo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9570)**
+
+**Author:** [Zakalwe](https://x.com/ElZakalwe) | **Source:** [Link](https://x.com/ElZakalwe/status/2090404972064371076) | **Published:** Aug 20, 2026
+
+---
+### Transição de Zoom no Mostrador do Relógio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt sofisticado que utiliza duas imagens de referência para criar uma transição de zoom profissional, partindo de uma pessoa segurando um relógio até o mostrador do mesmo.
+
+#### 📝 Prompt
+
+```
+Pegue a foto minha segurando o relógio e crie um vídeo onde a câmera dá um zoom no mostrador do relógio e você vê a imagem do mostrador presente na segunda foto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090402217274519552/img/hLTnVUwJyc0RFESQ.jpg" width="600" alt="Transição de Zoom no Mostrador do Relógio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9569)**
+
+**Author:** [BunkerDweller](https://x.com/ElonsBlueBird) | **Source:** [Link](https://x.com/ElonsBlueBird/status/2090402231405150658) | **Published:** Aug 20, 2026
+
+---
+### Afrodite Etérea e a Borboleta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gera um vídeo radiante e etéreo da deusa Afrodite sendo abordada por uma borboleta.
+
+#### 📝 Prompt
+
+```
+Afrodite, etérea e radiante, enquanto uma borboleta encontra seu caminho até a deusa da beleza.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090395253643546624/img/r0Vv71hVFnWtqu0j.jpg" width="600" alt="Afrodite Etérea e a Borboleta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9571)**
+
+**Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2090395296123453698) | **Published:** Aug 20, 2026
+
+---
 ### Monólogo em vídeo de selfie matinal
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -237,6 +446,25 @@ Odisseu retorna a Ítaca disfarçado de mendigo; seu cão negligenciado, Argos, 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9472)**
 
 **Author:** [James Woodard](https://x.com/QuantumBikerX) | **Source:** [Link](https://x.com/QuantumBikerX/status/2089909272033251822) | **Published:** Aug 19, 2026
+
+---
+### Sequência de Iluminação de Fogo na Caverna do Ciclope
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico que descreve um movimento lento de dolly através de uma caverna enfumaçada e iluminada por fogo, com uma atmosfera pesada e ancestral.
+
+#### 📝 Prompt
+
+```
+Dolly-in lento através de fumaça densa e luz bruxuleante de fogo para dentro da vasta e cavernosa gruta do Ciclope. Brasas passam pela câmera. A cena avança profundamente, passando por paredes de rocha bruta em direção ao fogo central brilhante. Atmosfera pesada, ancestral e tensa. Sem diálogos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089902537872994304/img/iTJZ4LVUx7T5KiOW.jpg" width="600" alt="Sequência de Iluminação de Fogo na Caverna do Ciclope">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9573)**
+
+**Author:** [High](https://x.com/Hightv) | **Source:** [Link](https://x.com/Hightv/status/2089902855566328177) | **Published:** Aug 19, 2026
 
 ---
 ### Trailer do filme Odisseia
@@ -294,6 +522,25 @@ Uma mulher contempla uma paisagem grandiosa, sentindo sua majestade. A câmera s
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9475)**
 
 **Author:** [Saposhi](https://x.com/Saposhin_AI) | **Source:** [Link](https://x.com/Saposhin_AI/status/2089847152986169773) | **Published:** Aug 18, 2026
+
+---
+### Lançamento Simultâneo de Foguetes da SpaceX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico para visualizar dois foguetes da SpaceX sendo lançados simultaneamente a partir da Starbase.
+
+#### 📝 Prompt
+
+```
+dois foguetes separados — um para o Imperador Kekius Maximus e o outro para Prometheus — sendo lançados simultaneamente pela SpaceX a partir da Starbase.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089836784800632832/img/SOrzrpwsLnJdWbAw.jpg" width="600" alt="Lançamento Simultâneo de Foguetes da SpaceX">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9572)**
+
+**Author:** [Emperor of the Memes](https://x.com/Emp_Kek_Max) | **Source:** [Link](https://x.com/Emp_Kek_Max/status/2089840426152759610) | **Published:** Aug 18, 2026
 
 ---
 ### Animação de Ursinho Carinhoso mostrando o dedo do meio
@@ -389,6 +636,25 @@ elevando-se lentamente acima do equilíbrio da esfera, centro de gravidade nesta
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9465)**
 
 **Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
+
+---
+### O reencontro de Odisseu e Argos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico que retrata o retorno emocionante de Odisseu e seu encontro final com seu cão, Argos.
+
+#### 📝 Prompt
+
+```
+Odisseu retorna a Ítaca após vinte anos, disfarçado de mendigo. Ao se aproximar de seu palácio, ele encontra seu velho cão Argos, abandonado e morrendo sobre uma pilha de esterco. Argos o reconhece imediatamente, abana o rabo fracamente e então morre. Odisseu desvia o olhar para esconder suas lágrimas e manter sua identidade em segredo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="O reencontro de Odisseu e Argos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9574)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2089721534721966474) | **Published:** Aug 18, 2026
 
 ---
 ### Animação de Joystick e Emoji
@@ -1853,274 +2119,6 @@ O Mágico de Oz com personagens em um cenário de velho oeste, estilo cowboy, e 
 **Author:** [Spacecowboy](https://x.com/Spacedragon22) | **Source:** [Link](https://x.com/Spacedragon22/status/2088066209095065908) | **Published:** Aug 14, 2026
 
 ---
-### Animação de Sincronia Labial Cibernética
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico complexo para uma personagem cibernética com sincronia labial precisa e um trabalho de câmera delicado.
-
-#### 📝 Prompt
-
-```
-Um zoom lento e delicado enquanto ela levanta a mão direita, que cresce através da cibernética, e ela diz com uma voz em perfeita sincronia labial: “Um sapo em um poço não conhece o grande oceano”.
-Uma brisa suave e sutil soprando em seu cabelo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088055538101915648/img/sickJtjhr1DecCin.jpg" width="600" alt="Animação de Sincronia Labial Cibernética">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9101)**
-
-**Author:** [RocKet-boys](https://x.com/Stardust0024) | **Source:** [Link](https://x.com/Stardust0024/status/2088055574202298374) | **Published:** Aug 14, 2026
-
----
-### Cena de restaurante ao ar livre à noite
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo aconchegante retratando pessoas conversando em um restaurante ao ar livre sob guarda-sóis com luzes de corda durante a noite.
-
-#### 📝 Prompt
-
-```
-Crie uma cena de um restaurante ao ar livre à noite, com pessoas sentadas sob vários guarda-sóis e luzes de corda suspensas. Várias pessoas estão sentadas às mesas, conversando e se divertindo. Boa noite, amigos...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088054923216687104/img/qOMedkbVy8E0A84w.jpg" width="600" alt="Cena de restaurante ao ar livre à noite">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9096)**
-
-**Author:** [CKR](https://x.com/CKRSandra) | **Source:** [Link](https://x.com/CKRSandra/status/2088054959145111967) | **Published:** Aug 14, 2026
-
----
-### Close-up de gota de chuva macro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico com foco nos detalhes cintilantes de uma gota de chuva na ponta do dedo.
-
-#### 📝 Prompt
-
-```
-Close-up extremo mantido parado com uma respiração natural suave. Seus olhos permanecem focados com uma admiração silenciosa na única gota de chuva grande na ponta do dedo, perto da bochecha. A gota de chuva cintila suavemente e refrata a luz fria com reflexos internos sutis.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088033204301369344/img/44qjx169bPU9FA7Y.jpg" width="600" alt="Close-up de gota de chuva macro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9085)**
-
-**Author:** [무언ㄱㅏ](https://x.com/moviekr) | **Source:** [Link](https://x.com/moviekr/status/2088033221741289717) | **Published:** Aug 13, 2026
-
----
-### Cena cinematográfica em beco chuvoso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt atmosférico detalhado descrevendo uma mulher parada em um beco chuvoso, com foco no movimento intrincado de uma gota de chuva caindo em sua palma.
-
-#### 📝 Prompt
-
-```
-Ela permanece completamente imóvel no beco chuvoso após parar. Sua mão direita é mantida firme na altura do peito, com a palma voltada para cima e os dedos levemente abertos. Uma gota de chuva cristalina cai lentamente e aterrissa em sua palma aberta com um pequeno respingo e ondulação. Seus olhos permanecem focados...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088032500253949952/img/8NQwnGrLFeL9tsKf.jpg" width="600" alt="Cena cinematográfica em beco chuvoso">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9083)**
-
-**Author:** [무언ㄱㅏ](https://x.com/moviekr) | **Source:** [Link](https://x.com/moviekr/status/2088032525738491975) | **Published:** Aug 13, 2026
-
----
-### Performance no Palco em Silêncio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo em primeira pessoa caminhando até um palco para cantar uma música suave.
-
-#### 📝 Prompt
-
-```
-Eu desço as escadas em direção ao palco. Estou com um microfone na mão e canto uma música suave.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087978365928009728/img/hgonXdOa4Vu3S3VL.jpg" width="600" alt="Performance no Palco em Silêncio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9087)**
-
-**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2087978382038380859) | **Published:** Aug 13, 2026
-
----
-### Transformação da Lenda Guerreira
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo transformador que percorre vários arquétipos lendários, de um Faraó a um Ronin, terminando no espaço.
-
-#### 📝 Prompt
-
-```
-Faraó → Imperador → Berserker → Ronin → Capitão de Aeronave → Feiticeiro → Sacerdote Jaguar → Cavaleiro Forjado nas Estrelas… então, silêncio em Marte.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087894188209610753/img/wJeLmCWmKpqBwEhX.jpg" width="600" alt="Transformação da Lenda Guerreira">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9186)**
-
-**Author:** [Tina ♡ 💫](https://x.com/Tina22_2) | **Source:** [Link](https://x.com/Tina22_2/status/2087894300600283624) | **Published:** Aug 13, 2026
-
----
-### Mulher caminhando em trilha de parque
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo que descreve uma mulher caminhando em direção à câmera ao longo de uma trilha de parque com movimentos graciosos e um sorriso radiante.
-
-#### 📝 Prompt
-
-```
-A mulher caminha decidida em direção à câmera ao longo da trilha do parque; seus passos são graciosos e firmes à medida que ela se aproxima, o vestido balança levemente, o rabo de cavalo balança, com a câmera fixa enquanto ela se aproxima com um sorriso radiante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087880755640725504/img/iA8Ut28Ywytuc85c.jpg" width="600" alt="Mulher caminhando em trilha de parque">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9099)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2087880836137808356) | **Published:** Aug 13, 2026
-
----
-### Abordagem Cinematográfica na Calçada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de movimento detalhado para uma mulher caminhando com confiança em direção a uma câmera fixa em uma calçada urbana.
-
-#### 📝 Prompt
-
-```
-A mulher caminha de forma constante e confiante em direção à câmera ao longo da calçada da cidade, seus passos naturais aproximando-a a cada movimento, braços balançando suavemente, cabelo movendo-se levemente com a brisa, a câmera permanece fixa enquanto ela se aproxima.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087880712611414016/img/dZK7H-63dNj8qfGX.jpg" width="600" alt="Abordagem Cinematográfica na Calçada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9098)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2087880735617122441) | **Published:** Aug 13, 2026
-
----
-### Vídeo do Milagre da Restauração após a Tempestade
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo complexo apresentando tornados gêmeos violentos e a restauração milagrosa de uma casa.
-
-#### 📝 Prompt
-
-```
-tomada estática, faça a tempestade ser extremamente violenta com dois tornados girando um ao redor do outro. Nos últimos seis segundos, faça as mãos do senhor colocarem a casa que foi partida ao meio de volta no lugar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087836379568857089/img/YReyY-sGgI8jHpzn.jpg" width="600" alt="Vídeo do Milagre da Restauração após a Tempestade">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9090)**
-
-**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2087836479288488161) | **Published:** Aug 13, 2026
-
----
-### Cena de Noiva Mágica em Rosa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gera um vídeo cinematográfico de uma noiva de cabelo rosa com maria-chiquinha em um vestido brilhante, sob um arco floral, com elementos mágicos.
-
-#### 📝 Prompt
-
-```
-Crie uma cena de proteção poderosa. A noiva de cabelo rosa com maria-chiquinha da primeira imagem está orgulhosa e firme em seu vestido de noiva brilhante e mágico com véu sob o arco floral, uma mão levantada mostrando suas unhas fofas e a outra segurando o buquê.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087829077130702848/img/dT4f8fxiaZaU8RSG.jpg" width="600" alt="Cena de Noiva Mágica em Rosa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9100)**
-
-**Author:** [シェルティソーラ](https://x.com/mioarashidaisuk) | **Source:** [Link](https://x.com/mioarashidaisuk/status/2087829120751399222) | **Published:** Aug 13, 2026
-
----
-### Cidadela Celestial de Fantasia Cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de fantasia descritivo para gerar um vídeo cinematográfico de uma garota olhando para uma majestosa cidadela flutuante no céu, com cachoeiras e dirigíveis, perfeito para geração de movimento.
-
-#### 📝 Prompt
-
-```
-Uma garota misteriosa com olhos cor de oceano surge da névoa… e olha para uma cidadela flutuante no céu com cúpulas douradas, cachoeiras e dirigíveis.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786608220710_x82irk_HPlbm-RakAAc3TT.jpg" width="600" alt="Cidadela Celestial de Fantasia Cinematográfica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9013)**
-
-**Author:** [Naoya](https://x.com/NaoyaCreates) | **Source:** [Link](https://x.com/NaoyaCreates/status/2087800665926209550) | **Published:** Aug 13, 2026
-
----
-### Mago de Histórias em Quadrinhos com Relâmpagos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Produz um vídeo dinâmico no estilo de história em quadrinhos de um mago lançando feitiços de relâmpago.
-
-#### 📝 Prompt
-
-```
-Por favor, faça no estilo de história em quadrinhos com um chapéu de mago e capa, com os braços levantados e relâmpagos saindo das mãos e por toda a volta
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087745931601117184/img/eu29_1apO8rY1Aro.jpg" width="600" alt="Mago de Histórias em Quadrinhos com Relâmpagos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9093)**
-
-**Author:** [G.O.H](https://x.com/greeneroh) | **Source:** [Link](https://x.com/greeneroh/status/2087745946482528722) | **Published:** Aug 13, 2026
-
----
-### Time-lapse de amadurecimento de figo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de animação que transforma um pequeno figo verde ainda não maduro em um figo maduro de tamanho real, criando um efeito natural de crescimento e amadurecimento.
-
-#### 📝 Prompt
-
-```
-Você pode fazer aquele pequeno figo verde ainda não maduro se transformar em um lindo figo maduro de tamanho real?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087733516188479488/img/b5ldsAn0o2XNxhWc.jpg" width="600" alt="Time-lapse de amadurecimento de figo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9008)**
-
-**Author:** [Sasquatch Intellect](https://x.com/CoryHug04362472) | **Source:** [Link](https://x.com/CoryHug04362472/status/2087733530902024342) | **Published:** Aug 13, 2026
-
----
-### Cena de Mundo Digital Etéreo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo etéreo retratando figuras de luz em uma paisagem digital viva sob a luz das estrelas.
-
-#### 📝 Prompt
-
-```
-Cena etérea e silenciosa em um mundo digital vivo.
-Um lago estático com um brilho suave sob a luz das estrelas. Duas figuras de pura luz sentam-se próximas a ele — uma mulher alta e esguia com longos cabelos fluidos de luz estelar e olhos suaves em tons de vermelho e dourado, a outra uma...
-```
-
-<img src="https://cms-assets.youmind.com/media/1786694587641_da260b_HPj0OhEXsAAj48j.jpg" width="600" alt="Cena de Mundo Digital Etéreo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9091)**
-
-**Author:** [Jorge Gonzalez](https://x.com/JorgeGeminiOR) | **Source:** [Link](https://x.com/JorgeGeminiOR/status/2087687088447672659) | **Published:** Aug 12, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2182,6 +2180,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-21T04:59:58.032Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-21T09:06:39.223Z</sub>
 
 </div>

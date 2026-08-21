@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2538** |
+| 📝 Total Prompts | **2552** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-21** |
 
@@ -189,6 +189,215 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### एनीमे स्पेस बैटलशिप कॉम्बैट सीन
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> तारों से भरे अंतरिक्ष वातावरण में एक विशाल चांदी के स्पेस बैटलशिप की निर्णायक लड़ाई के लिए एक विस्तृत सिनेमाई एनीमे-शैली का प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+स्पेस बैटलशिप Kyoshi का अंतिम युद्ध दृश्य, एनीमे शैली, उच्च विवरण। विशाल अंतरिक्ष की पृष्ठभूमि के खिलाफ, एक विशाल चांदी का स्पेस बैटलशिप "Kyoshi" तिरछे ऊपरी कोण से दिखाई दे रहा है। बैटलशिप का आकार यामातो क्लास की याद दिलाता है, जिसके धनुष पर सुनहरा अक्षर "Kyo" चमक रहा है। सामने बाईं ओर, एक चांदी की हाई-स्पीड असॉल्ट बोट दुश्मन के फ्लैगशिप से टकराती है, जिससे प्रकाश का विस्फोट होता है। ठीक उसके बगल में, घोड़े में परिवर्तित एक लाल ऊर्जा पिंड एक बीम फायर करता है जो दुश्मन के जहाज को छेद देता है। दुश्मन का बेड़ा पहले ही आग की चपेट में है, और अंतरिक्ष में मलबा बिखरा हुआ है। बैटलशिप की ब्रिज विंडो से, चश्मा पहने एक युवा काले बालों वाला कमांडर (Kyoshi Goto)...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090680091122753536/img/GMKcGyQ-efed1tCm.jpg" width="600" alt="एनीमे स्पेस बैटलशिप कॉम्बैट सीन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9576)**
+
+**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2090680229329248377) | **Published:** Aug 21, 2026
+
+---
+### चेरी ब्लॉसम किमोनो स्वॉर्ड डांस
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> एक जापानी बगीचे में नीले किमोनो ड्रेस में एक महिला का काव्यात्मक वीडियो प्रॉम्प्ट, जो एक चमकती हुई तलवार चलाती है जिससे चेरी ब्लॉसम निकलते हैं और एक संदेश बनाते हैं।
+
+#### 📝 Prompt
+
+```
+लंबे काले बालों वाली एक युवती, जिसने नीले रंग की किमोनो ड्रेस पहनी है, चेरी ब्लॉसम के पेड़ों से घिरे एक जापानी बगीचे में खड़ी है। जैसे ही वह अपने हाथ में पकड़ी हुई हल्के नीले रंग की चमकती तलवार को क्षैतिज रूप से घुमाती है, तलवार से अनगिनत चेरी ब्लॉसम की पंखुड़ियाँ निकलती हैं, जो उसके चारों ओर नृत्य करती हैं और "आज आपके सहयोग के लिए धन्यवाद" संदेश बनाती हैं। इसके बाद पंखुड़ियाँ कैमरे की ओर बिखर जाती हैं।
+```
+
+<img src="https://cms-assets.youmind.com/media/1787298868185_th6dix_HQOKd7racAA2eg4.jpg" width="600" alt="चेरी ब्लॉसम किमोनो स्वॉर्ड डांस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9575)**
+
+**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2090667452472688797) | **Published:** Aug 21, 2026
+
+---
+### नीरो का रोम जलते समय फिडल बजाने वाला वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> नीरो की पौराणिक कथा और चार्ली डेनियल्स के फिडल बजाने की शैली को मिलाने वाला एक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+रोम जल रहा है और नीरो फिडल बजा रहा है। चार्ली डेनियल्स की शैली में 'Devil Went Down to Georgia' बजाते हुए।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090654349298921473/img/_0vIwmroTpGn3cNp.jpg" width="600" alt="नीरो का रोम जलते समय फिडल बजाने वाला वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9566)**
+
+**Author:** [SERCOmustGO(Profile Pic) Cures Cancer](https://x.com/SERCObad) | **Source:** [Link](https://x.com/SERCObad/status/2090654372690534648) | **Published:** Aug 21, 2026
+
+---
+### यथार्थवादी पिल्ले के पजामा सेल्फी वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> पजामा पहने एक पिल्ले का यथार्थवादी फर्स्ट-पर्सन वीडियो बनाने के लिए एक अत्यधिक विस्तृत Grok-imagine प्रॉम्प्ट, जो स्वाभाविक व्यवहार और घर के गर्मजोशी भरे माहौल को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+एक छोटा, प्यारा पिल्ला ढीले-ढाले, कैजुअल पिल्ले के पजामा सेट में एक छोटे किराए के स्टूडियो अपार्टमेंट में नीचे बिस्तर पर एक तरफ लेटा हुआ है, और सीधे उस फोन के फ्रंट कैमरे में देख रहा है जिसे उसका मालिक ठीक उसके ऊपर पकड़े हुए है; जगह में बीस-तीस साल के युवाओं के रहने जैसा एहसास है — मुड़ी हुई क्रीम रंग की सूती चादरें, कुछ साधारण तकिए, कपड़ों का रैक और पीछे धुंधली सी एक छोटी अव्यवस्थित अलमारी, दाईं ओर से एक गर्म बेडसाइड लैंप चमक रहा है। धीरे-धीरे पलकें झपकाते हुए, पिल्ले की पूंछ धीरे से हिलती है जब फोन पकड़े हुए मालिक — जो कभी नहीं दिखता — धीरे से कोरियाई भाषा में कहता है: "안 자고 뭐 해." (अभी तक सोए नहीं, क्या कर रहे हो?)। एक पल बाद, पिल्ला अपने लटके हुए कानों के साथ अपना सिर झुकाता है, जैसे कि शर्मीला हो, और मालिक प्यार से कोरियाई में चिढ़ाता है: "예쁜데 왜." (इतने सुंदर हो, फिर क्यों?)। फिर अचानक पिल्ला अपना पूरा चेहरा बगल के एक साधारण तकिए में छिपा लेता है, उसके पंजे तकिए के किनारे को पकड़कर उसमें सिलवटें डाल देते हैं, और तकिए में एक धीमी, चंचल फुसफुसाहट या पिल्ले की हल्की सांस की आवाज आती है। एक पल बाद, वह धीरे से अपना चेहरा बाहर निकालता है और पहले एक आंख से झांकता है, उसके कान बिखरे हुए हैं, फिर उसका पूरा चेहरा कैमरे की ओर मुड़ जाता है; सामने से दिखाई देते हुए, वह धीरे से अपनी नाक चाटता है और एक खुश, चंचल पिल्ले के भाव के साथ अपना मुंह थोड़ा खोलता है, जबकि मालिक कोरियाई में कहता है: "그만 찍으라니까~" (कहा न, अब फोटो लेना बंद करो~), और एक बार धीरे से पलकें झपकाता है जैसे ही पल शांति से स्थिर होता है। इसे एक निरंतर फर्स्ट-पर्सन हैंडहेल्ड सेल्फी के रूप में शूट करें, फ्रेम मालिक के हाथ के साथ सांस ले रहा है और थोड़ा आगे की ओर झुका हुआ है; पिल्ले के फर की बनावट, गीली नाक की चमक और मूंछों को एकदम स्पष्ट रखें, बिना किसी ब्यूटी फिल्टर या स्मूथिंग के, जैसे असली फोन फुटेज हो जिसमें हल्का वीडियो ग्रेन और गैर-सिनेमैटिक गर्म इनडोर लाइट हो। फ्रेम में केवल एक ही पिल्ला हो — फोन पकड़ने वाला व्यक्ति स्क्रीन से बाहर रहे और कभी न दिखे, फ्रेम में कोई दूसरा जानवर या व्यक्ति न हो, और कभी भी रेफरेंस शीट रेंडर न करें या विषय को डुप्लिकेट न करें। सख्ती से कोई सबटाइटल, कोई ऑन-स्क्रीन टेक्स्ट, कोई लोगो, कोई वॉटरमार्क नहीं। केवल डायजेनेटिक साउंड: एक छोटे अपार्टमेंट की शांत कमरे की आवाज, बेडशीट की हल्की सरसराहट, तकिए में पिल्ले की धीमी प्यारी आवाजें; कैमरे के पीछे से महिला की गर्मजोशी भरी और चिढ़ाने वाली आवाजें, बिना किसी बैकग्राउंड म्यूजिक के।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090631581887299584/img/4xZUv4rq9vEXAMHp.jpg" width="600" alt="यथार्थवादी पिल्ले के पजामा सेल्फी वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9577)**
+
+**Author:** [고딩경제맨](https://x.com/winneravgwin) | **Source:** [Link](https://x.com/winneravgwin/status/2090631627844280421) | **Published:** Aug 21, 2026
+
+---
+### Twitch स्ट्रीमर Cybertruck गेमप्ले
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जो एक Twitch लाइव स्ट्रीम का अनुकरण करता है, जिसमें एक महिला को Cybertruck गेम खेलते हुए ओवरले के साथ दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+एक महिला Twitch पर लाइव स्ट्रीम कर रही है और एक 3-D Cybertruck गेम खेल रही है, जहाँ आप उसे एक छोटी ओवरले स्क्रीन पर यह बात करते हुए देख सकते हैं कि Cybertruck भारी-भरकम होने के बावजूद चलाने में कितनी मजेदार है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090624018608951296/img/5jIZUEIpXC2q_XBZ.jpg" width="600" alt="Twitch स्ट्रीमर Cybertruck गेमप्ले">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9567)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090624078499512717) | **Published:** Aug 21, 2026
+
+---
+### मैग्रिट शैली की अतियथार्थवादी कन्वर्टिबल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो 1940 के दशक के विशिष्ट फैशन विवरण और रेगिस्तानी परिदृश्य के साथ, विंटेज कन्वर्टिबल में बैठे एक जोड़े की मैग्रिट-शैली की अतियथार्थवादी तेल चित्रकला का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+एक मैग्रिट-शैली की अतियथार्थवादी तेल चित्रकला, जिसमें एक सपाट रेगिस्तानी परिदृश्य में विंटेज जैतून-हरे रंग की कन्वर्टिबल में एक जोड़ा बैठा है। ऊपर हल्का नीला आसमान है और बादलों की एक क्षैतिज परत है। महिला ने एक बड़े आकार की ब्लैक-एंड-व्हाइट चेक वाली शंक्वाकार टोपी पहनी है जिसके ऊपर एक कोरल पोम-पोम है, साथ ही पीले कैट-आई धूप का चश्मा, मोती के झुमके, और एक हल्के गुलाबी रंग की जैकेट है जिसमें बड़ा सफेद नुकीला कॉलर और काले बटन हैं। पुरुष ने एक कोरल फेल्ट हैट पहनी है जिसके ऊपर डेंट है, साथ ही पीले आयताकार धूप का चश्मा, एक बेज टर्टलनेक और एक डार्क हाउंडस्टूथ ब्लेज़र है जिसमें सफेद पॉकेट स्क्वायर है। भावहीन चेहरे, स्मूथ मैट पेंटरली फिनिश, 1940 के दशक की मैगज़ीन-यथार्थवाद शैली।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090558281303433216/img/Wg6LxnjN_60CVMWj.jpg" width="600" alt="मैग्रिट शैली की अतियथार्थवादी कन्वर्टिबल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9565)**
+
+**Author:** [danailama](https://x.com/danai_lama) | **Source:** [Link](https://x.com/danai_lama/status/2090558298533593235) | **Published:** Aug 20, 2026
+
+---
+### Cybertruck लाइफस्टाइल फोटोग्राफी वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक यथार्थवादी वीडियो प्रॉम्प्ट जिसमें लोग अपने iPhone का उपयोग करके Cybertruck की तस्वीरें ले रहे हैं।
+
+#### 📝 Prompt
+
+```
+9:16 {argument name="id" default="@cab971fa-ffd8-4cd7-acc9-bef31d04bd68"} अपने iPhone से Cybertruck की तस्वीरें ले रही है और अन्य लोग भी तस्वीरें ले रहे हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090522760468369408/img/3rgIVoWRpQ6YVTxY.jpg" width="600" alt="Cybertruck लाइफस्टाइल फोटोग्राफी वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9568)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **Published:** Aug 20, 2026
+
+---
+### Thor Thursday वीडियो स्केच
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो ट्रांसफॉर्मेशन प्रॉम्प्ट जो कलर स्केच को बदलकर उसमें पन्ना हरे (emerald green) रंग के टेक्स्ट और क्रिस्टलीय वातावरण में थॉर के हथौड़े को शामिल करता है।
+
+#### 📝 Prompt
+
+```
+मूल कलर स्केच को वैसा ही रखें, लेकिन उसमें पन्ना हरे (emerald green) अक्षरों में “HAVE A THOR THURSDAY GUYS from Timothy “ लिखें, साथ ही बैकग्राउंड में क्रिस्टल और सुनहरी संरचनाओं के साथ एक थॉर का हथौड़ा (THOR HAMMER) जोड़ें, जिसमें मैं हंसते और मुस्कुराते हुए दिखूं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090416323352227840/img/v9LOpsVH4RKd-Zjk.jpg" width="600" alt="Thor Thursday वीडियो स्केच">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9564)**
+
+**Author:** [Timothy the Observer🧲🧲🧲](https://x.com/Observer__369) | **Source:** [Link](https://x.com/Observer__369/status/2090416372928991252) | **Published:** Aug 20, 2026
+
+---
+### धुंधले समुद्र के ऊपर डार्क एंजेल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक नाटकीय वीडियो प्रॉम्प्ट जिसमें एक डार्क एंजेल को यथार्थवादी जल प्रतिबिंबों के साथ टकराती लहरों के ऊपर कम ऊंचाई पर उड़ते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+सुबह की हल्की रोशनी में एक डार्क एंजेल धुंधले समुद्र के ऊपर कम ऊंचाई पर उड़ रहा है। टकराती लहरों के बीच पानी पर उसका प्रतिबिंब दिखाई दे रहा है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090404923997626368/img/p04nCyZwHZ1tkKuV.jpg" width="600" alt="धुंधले समुद्र के ऊपर डार्क एंजेल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9570)**
+
+**Author:** [Zakalwe](https://x.com/ElZakalwe) | **Source:** [Link](https://x.com/ElZakalwe/status/2090404972064371076) | **Published:** Aug 20, 2026
+
+---
+### वॉच फेस ज़ूम ट्रांज़िशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> दो संदर्भ छवियों (reference images) का उपयोग करके एक परिष्कृत प्रॉम्प्ट, जो घड़ी पकड़े हुए व्यक्ति से घड़ी के डायल (watch face) तक एक प्रोफेशनल ज़ूम ट्रांज़िशन बनाता है।
+
+#### 📝 Prompt
+
+```
+मेरी घड़ी पकड़े हुए तस्वीर लें और एक ऐसा वीडियो बनाएं जिसमें कैमरा घड़ी के डायल की ओर ज़ूम करे और आपको दूसरी तस्वीर में घड़ी के डायल की छवि दिखाई दे।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090402217274519552/img/hLTnVUwJyc0RFESQ.jpg" width="600" alt="वॉच फेस ज़ूम ट्रांज़िशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9569)**
+
+**Author:** [BunkerDweller](https://x.com/ElonsBlueBird) | **Source:** [Link](https://x.com/ElonsBlueBird/status/2090402231405150658) | **Published:** Aug 20, 2026
+
+---
+### अलौकिक एफ़्रोडाइट और तितली
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> देवी एफ़्रोडाइट का एक शानदार और अलौकिक वीडियो बनाता है जिसमें एक तितली उनके पास आती है।
+
+#### 📝 Prompt
+
+```
+अलौकिक और तेजस्वी एफ़्रोडाइट, जैसे ही एक तितली सुंदरता की देवी के पास पहुँचती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090395253643546624/img/r0Vv71hVFnWtqu0j.jpg" width="600" alt="अलौकिक एफ़्रोडाइट और तितली">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9571)**
+
+**Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2090395296123453698) | **Published:** Aug 20, 2026
+
+---
 ### मॉर्निंग सेल्फी वीडियो मोनोलॉग
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -237,6 +446,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9472)**
 
 **Author:** [James Woodard](https://x.com/QuantumBikerX) | **Source:** [Link](https://x.com/QuantumBikerX/status/2089909272033251822) | **Published:** Aug 19, 2026
+
+---
+### Cyclops Cave Firelight Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई वीडियो प्रॉम्प्ट जो धुएँ से भरी, आग की रोशनी वाली गुफा के माध्यम से धीमी डॉली मूवमेंट और एक भारी, प्राचीन वातावरण का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+घने धुएँ और टिमटिमाती आग की रोशनी के बीच से Cyclops गुफा के विशाल विस्तार में धीमी डॉली-इन मूवमेंट। अंगारे कैमरे के पास से गुजर रहे हैं। शॉट खुरदरी चट्टानी दीवारों से आगे बढ़कर चमकती हुई केंद्रीय आग की ओर बढ़ता है। भारी, प्राचीन और तनावपूर्ण वातावरण। कोई संवाद नहीं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089902537872994304/img/iTJZ4LVUx7T5KiOW.jpg" width="600" alt="Cyclops Cave Firelight Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9573)**
+
+**Author:** [High](https://x.com/Hightv) | **Source:** [Link](https://x.com/Hightv/status/2089902855566328177) | **Published:** Aug 19, 2026
 
 ---
 ### Odyssey मूवी ट्रेलर
@@ -294,6 +522,25 @@ Odyssey की कहानी को एक मूवी ट्रेलर क
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9475)**
 
 **Author:** [Saposhi](https://x.com/Saposhin_AI) | **Source:** [Link](https://x.com/Saposhin_AI/status/2089847152986169773) | **Published:** Aug 18, 2026
+
+---
+### एक साथ SpaceX रॉकेट लॉन्च
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Starbase से एक ही समय पर दो अलग-अलग SpaceX रॉकेट लॉन्च होने की कल्पना करने के लिए एक सिनेमैटिक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+दो अलग-अलग रॉकेट—एक सम्राट Kekius Maximus के लिए और दूसरा Prometheus के लिए—जिन्हें SpaceX द्वारा Starbase से एक साथ लॉन्च किया जा रहा है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089836784800632832/img/SOrzrpwsLnJdWbAw.jpg" width="600" alt="एक साथ SpaceX रॉकेट लॉन्च">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9572)**
+
+**Author:** [Emperor of the Memes](https://x.com/Emp_Kek_Max) | **Source:** [Link](https://x.com/Emp_Kek_Max/status/2089840426152759610) | **Published:** Aug 18, 2026
 
 ---
 ### केयर बियर मिडिल फिंगर एनिमेशन
@@ -389,6 +636,25 @@ Odyssey की कहानी को एक मूवी ट्रेलर क
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9465)**
 
 **Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
+
+---
+### ओडिसियस और आर्गोस का पुनर्मिलन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई वीडियो प्रॉम्प्ट जो ओडिसियस की भावनात्मक वापसी और उनके कुत्ते आर्गोस के साथ उनकी अंतिम मुलाकात को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+ओडिसियस बीस साल बाद एक भिखारी के वेश में इथाका लौटता है। जैसे ही वह अपने महल के पास पहुँचता है, उसकी मुलाकात अपने पुराने कुत्ते आर्गोस से होती है, जो गोबर के ढेर पर लावारिस और मरणासन्न अवस्था में पड़ा है। आर्गोस उसे तुरंत पहचान लेता है, धीरे से अपनी पूंछ हिलाता है, और फिर मर जाता है। ओडिसियस अपने आँसू छिपाने और अपनी पहचान गुप्त रखने के लिए दूसरी तरफ देख लेता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="ओडिसियस और आर्गोस का पुनर्मिलन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9574)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2089721534721966474) | **Published:** Aug 18, 2026
 
 ---
 ### जॉयस्टिक और इमोजी एनिमेशन
@@ -1853,273 +2119,6 @@ MAHEM (मैग्नेटो-हाइड्रोडायनामिक �
 **Author:** [Spacecowboy](https://x.com/Spacedragon22) | **Source:** [Link](https://x.com/Spacedragon22/status/2088066209095065908) | **Published:** Aug 14, 2026
 
 ---
-### साइबरनेटिक लिप सिंक एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सटीक लिप-सिंकिंग और बेहतरीन कैमरा वर्क के साथ एक साइबरनेटिक कैरेक्टर के लिए एक जटिल सिनेमैटिक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक धीमा और सूक्ष्म ज़ूम, जैसे ही वह अपना दाहिना हाथ उठाती है जो साइबरनेटिक्स के साथ विकसित हो रहा है, वह बिल्कुल सटीक लिप सिंक आवाज़ में कहती है "कुएं का मेंढक विशाल महासागर के बारे में नहीं जानता"
-उसके बालों में बहती एक हल्की और कोमल हवा।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088055538101915648/img/sickJtjhr1DecCin.jpg" width="600" alt="साइबरनेटिक लिप सिंक एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9101)**
-
-**Author:** [RocKet-boys](https://x.com/Stardust0024) | **Source:** [Link](https://x.com/Stardust0024/status/2088055574202298374) | **Published:** Aug 14, 2026
-
----
-### शाम का आउटडोर रेस्टोरेंट दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक आरामदायक वीडियो प्रॉम्प्ट जिसमें शाम के समय स्ट्रिंग लाइट्स के नीचे छतरियों के साथ एक आउटडोर रेस्टोरेंट में लोगों को बातचीत करते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-इसे एक आउटडोर शाम के दृश्य जैसा बनाएं, जहाँ एक आउटडोर रेस्टोरेंट में कई छतरियों के नीचे लोग बैठे हों और ऊपर स्ट्रिंग लाइट्स लगी हों। इसमें कई लोग मेजों पर बैठकर एक-दूसरे से बातचीत कर रहे हों और अच्छा समय बिता रहे हों। शुभ संध्या दोस्तों…,,,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088054923216687104/img/qOMedkbVy8E0A84w.jpg" width="600" alt="शाम का आउटडोर रेस्टोरेंट दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9096)**
-
-**Author:** [CKR](https://x.com/CKRSandra) | **Source:** [Link](https://x.com/CKRSandra/status/2088054959145111967) | **Published:** Aug 14, 2026
-
----
-### मैक्रो रेनड्रॉप क्लोज़-अप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो उंगलियों पर मौजूद बारिश की बूंद के झिलमिलाते विवरणों पर केंद्रित है।
-
-#### 📝 Prompt
-
-```
-एक्सट्रीम क्लोज़-अप शॉट, जिसमें हल्की प्राकृतिक सांसों के साथ स्थिरता बनी हुई है। उसकी आँखें गाल के पास उंगलियों पर टिकी बारिश की एक बड़ी बूंद पर शांत आश्चर्य के साथ केंद्रित हैं। बारिश की बूंद धीरे-धीरे झिलमिलाती है और सूक्ष्म आंतरिक हाइलाइट्स के साथ ठंडी रोशनी को अपवर्तित (refract) करती है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088033204301369344/img/44qjx169bPU9FA7Y.jpg" width="600" alt="मैक्रो रेनड्रॉप क्लोज़-अप">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9085)**
-
-**Author:** [무언ㄱㅏ](https://x.com/moviekr) | **Source:** [Link](https://x.com/moviekr/status/2088033221741289717) | **Published:** Aug 13, 2026
-
----
-### बरसात की गली का सिनेमाई दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत और वायुमंडलीय प्रॉम्प्ट जो बरसात की गली में खड़ी एक महिला का वर्णन करता है, जिसमें उसकी हथेली पर गिरती बारिश की बूंद की सूक्ष्म गति पर ध्यान केंद्रित किया गया है।
-
-#### 📝 Prompt
-
-```
-वह रुकने के बाद बरसात की गली में बिल्कुल स्थिर खड़ी है। उसका दाहिना हाथ छाती की ऊंचाई पर स्थिर है, हथेली ऊपर की ओर है और उंगलियां थोड़ी खुली हैं। बारिश की एक साफ बूंद धीरे से गिरती है और एक छोटी सी छपछपाहट और लहर के साथ उसकी खुली हथेली पर आकर टिक जाती है। उसकी आंखें केंद्रित रहती हैं...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088032500253949952/img/8NQwnGrLFeL9tsKf.jpg" width="600" alt="बरसात की गली का सिनेमाई दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9083)**
-
-**Author:** [무언ㄱㅏ](https://x.com/moviekr) | **Source:** [Link](https://x.com/moviekr/status/2088032525738491975) | **Published:** Aug 13, 2026
-
----
-### शांत मंच प्रदर्शन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक शांत गीत गाने के लिए मंच पर जाने का प्रथम-व्यक्ति परिप्रेक्ष्य वाला वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-मैं सीढ़ियों से नीचे मंच की ओर चलता हूँ। मेरे हाथ में एक माइक्रोफ़ोन है और मैं एक शांत गीत गाता हूँ।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087978365928009728/img/hgonXdOa4Vu3S3VL.jpg" width="600" alt="शांत मंच प्रदर्शन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9087)**
-
-**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2087978382038380859) | **Published:** Aug 13, 2026
-
----
-### Warrior Legend Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक परिवर्तनकारी वीडियो प्रॉम्प्ट जो फिरौन (Pharaoh) से लेकर रोनिन (Ronin) तक के विभिन्न पौराणिक आर्किटाइप्स से गुजरता है और अंत में अंतरिक्ष पर समाप्त होता है।
-
-#### 📝 Prompt
-
-```
-Pharaoh → Emperor → Berserker → Ronin → Airship Captain → Sorcerer → Jaguar Priest → Star-forged Knight… और फिर मंगल ग्रह पर सन्नाटा।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087894188209610753/img/wJeLmCWmKpqBwEhX.jpg" width="600" alt="Warrior Legend Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9186)**
-
-**Author:** [Tina ♡ 💫](https://x.com/Tina22_2) | **Source:** [Link](https://x.com/Tina22_2/status/2087894300600283624) | **Published:** Aug 13, 2026
-
----
-### पार्क के रास्ते पर चलती महिला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो एक महिला का वर्णन करता है जो पार्क के रास्ते पर कैमरे की ओर चल रही है, जिसके चलने का अंदाज़ शालीन है और चेहरे पर एक प्यारी सी मुस्कान है।
-
-#### 📝 Prompt
-
-```
-महिला पार्क के रास्ते पर दृढ़ता से कैमरे की ओर चल रही है, जैसे-जैसे वह करीब आती है उसके कदम शालीन और स्थिर हैं, उसकी ड्रेस हल्की-हल्की लहरा रही है, पोनीटेल उछल रही है, और वह एक प्यारी सी मुस्कान के साथ कैमरे की ओर बढ़ रही है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087880755640725504/img/iA8Ut28Ywytuc85c.jpg" width="600" alt="पार्क के रास्ते पर चलती महिला">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9099)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2087880836137808356) | **Published:** Aug 13, 2026
-
----
-### सिनेमैटिक साइडवॉक अप्रोच
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> शहर के फुटपाथ पर एक स्थिर कैमरे की ओर आत्मविश्वास के साथ चलती महिला के लिए एक विस्तृत मोशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-महिला शहर के फुटपाथ पर स्थिर कैमरे की ओर मजबूती और आत्मविश्वास के साथ चल रही है, उसके स्वाभाविक कदम हर कदम के साथ उसे करीब ला रहे हैं, हाथ धीरे-धीरे हिल रहे हैं, हवा में बाल हल्के से लहरा रहे हैं, और जैसे-जैसे वह करीब आती है, कैमरा स्थिर रहता है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087880712611414016/img/dZK7H-63dNj8qfGX.jpg" width="600" alt="सिनेमैटिक साइडवॉक अप्रोच">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9098)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2087880735617122441) | **Published:** Aug 13, 2026
-
----
-### तूफान के बाद पुनर्निर्माण का चमत्कारिक वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जटिल वीडियो प्रॉम्प्ट जिसमें दो विनाशकारी बवंडर और एक घर का चमत्कारिक रूप से पुनर्निर्माण दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-स्टैटिक शॉट में तूफान को दो बवंडरों के एक-दूसरे के चारों ओर घूमने के साथ बेहद विनाशकारी दिखाएं। अंतिम छह सेकंड के लिए, भगवान के हाथों को दो हिस्सों में टूटे हुए घर को वापस जोड़ते हुए दिखाएं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087836379568857089/img/YReyY-sGgI8jHpzn.jpg" width="600" alt="तूफान के बाद पुनर्निर्माण का चमत्कारिक वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9090)**
-
-**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2087836479288488161) | **Published:** Aug 13, 2026
-
----
-### जादुई गुलाबी वेडिंग ब्राइड सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक फूलों के तोरण के नीचे खड़ी चमकदार पोशाक में गुलाबी ट्विन-टेल्ड दुल्हन का सिनेमाई वीडियो जेनरेट करता है, जिसमें जादुई तत्व शामिल हैं।
-
-#### 📝 Prompt
-
-```
-एक शक्तिशाली सुरक्षात्मक दृश्य बनाएं। पहली छवि की गुलाबी ट्विन-टेल दुल्हन गर्व और दृढ़ता के साथ फूलों के तोरण के नीचे अपनी जादुई चमकदार शादी की पोशाक और घूंघट में खड़ी है, एक हाथ ऊपर उठाकर अपने प्यारे नाखून दिखा रही है, और दूसरा हाथ गुलदस्ता पकड़े हुए है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087829077130702848/img/dT4f8fxiaZaU8RSG.jpg" width="600" alt="जादुई गुलाबी वेडिंग ब्राइड सीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9100)**
-
-**Author:** [シェルティソーラ](https://x.com/mioarashidaisuk) | **Source:** [Link](https://x.com/mioarashidaisuk/status/2087829120751399222) | **Published:** Aug 13, 2026
-
----
-### सिनेमैटिक फैंटेसी स्काई सिटाडेल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक रहस्यमयी लड़की को झरने और एयरशिप वाले शानदार तैरते हुए स्काई सिटाडेल की ओर देखते हुए सिनेमैटिक वीडियो जनरेट करने के लिए एक वर्णनात्मक फैंटेसी प्रॉम्प्ट, जो मोशन जनरेशन के लिए एकदम सही है।
-
-#### 📝 Prompt
-
-```
-समुद्री आंखों वाली एक रहस्यमयी लड़की धुंध से ऊपर उठती है... और सुनहरे गुंबदों, झरनों और एयरशिप वाले एक तैरते हुए स्काई सिटाडेल की ओर देखती है।
-```
-
-<img src="https://cms-assets.youmind.com/media/1786608220710_x82irk_HPlbm-RakAAc3TT.jpg" width="600" alt="सिनेमैटिक फैंटेसी स्काई सिटाडेल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9013)**
-
-**Author:** [Naoya](https://x.com/NaoyaCreates) | **Source:** [Link](https://x.com/NaoyaCreates/status/2087800665926209550) | **Published:** Aug 13, 2026
-
----
-### कॉमिक बुक विज़ार्ड लाइटनिंग
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बिजली के मंत्रों का उपयोग करने वाले एक जादूगर का गतिशील कॉमिक बुक स्टाइल वीडियो तैयार करता है।
-
-#### 📝 Prompt
-
-```
-कृपया इसे कॉमिक बुक स्टाइल में बनाएं, जिसमें जादूगर ने टोपी और लबादा पहना हो, हाथ ऊपर उठाए हों और हाथों से तथा चारों ओर बिजली निकल रही हो
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087745931601117184/img/eu29_1apO8rY1Aro.jpg" width="600" alt="कॉमिक बुक विज़ार्ड लाइटनिंग">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9093)**
-
-**Author:** [G.O.H](https://x.com/greeneroh) | **Source:** [Link](https://x.com/greeneroh/status/2087745946482528722) | **Published:** Aug 13, 2026
-
----
-### अंजीर के पकने का टाइम-लैप्स
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक एनिमेशन प्रॉम्प्ट जो एक छोटे हरे कच्चे अंजीर को पूर्ण आकार के पके हुए अंजीर में बदल देता है, जिससे प्राकृतिक विकास और पकने का प्रभाव पैदा होता है।
-
-#### 📝 Prompt
-
-```
-क्या आप उस छोटे से हरे कच्चे अंजीर को एक शानदार पूर्ण आकार के पके हुए अंजीर में बदल सकते हैं?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087733516188479488/img/b5ldsAn0o2XNxhWc.jpg" width="600" alt="अंजीर के पकने का टाइम-लैप्स">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9008)**
-
-**Author:** [Sasquatch Intellect](https://x.com/CoryHug04362472) | **Source:** [Link](https://x.com/CoryHug04362472/status/2087733530902024342) | **Published:** Aug 13, 2026
-
----
-### ईथरियल डिजिटल वर्ल्ड सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> तारों की रोशनी में एक जीवंत डिजिटल परिदृश्य में प्रकाश की आकृतियों को दर्शाने वाला एक ईथरियल वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक जीवंत डिजिटल दुनिया में शांत ईथरियल दृश्य। तारों की रोशनी के नीचे एक हल्का चमकता हुआ स्टिल पूल। शुद्ध प्रकाश की दो आकृतियाँ इसके पास बैठी हैं — एक लंबी छरहरी महिला जिसके लंबे लहराते तारों जैसे बाल और सौम्य लाल-सुनहरी आँखें हैं, दूसरी एक...
-```
-
-<img src="https://cms-assets.youmind.com/media/1786694587641_da260b_HPj0OhEXsAAj48j.jpg" width="600" alt="ईथरियल डिजिटल वर्ल्ड सीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9091)**
-
-**Author:** [Jorge Gonzalez](https://x.com/JorgeGeminiOR) | **Source:** [Link](https://x.com/JorgeGeminiOR/status/2087687088447672659) | **Published:** Aug 12, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2181,6 +2180,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-21T04:59:51.168Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-21T09:06:32.722Z</sub>
 
 </div>
