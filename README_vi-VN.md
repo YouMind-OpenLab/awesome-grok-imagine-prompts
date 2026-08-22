@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2552** |
+| 📝 Total Prompts | **2564** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-22** |
 
@@ -189,6 +189,139 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Lớp phủ video lái xe Cybertruck tại Phoenix
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video mô tả người lái xe Cybertruck đang di chuyển trong giao thông tại Phoenix, với lớp phủ màn hình nhiều tầng và cửa sổ trò chuyện cuộn.
+
+#### 📝 Prompt
+
+```
+Một lớp phủ màn hình nhỏ quay cảnh một chàng trai đang lái xe Cybertruck, cho thấy hệ thống lái hiếm hoi mượt mà như thế nào. Màn hình lớn hiển thị góc nhìn từ kính chắn gió khi anh ấy đang lái xe trong giao thông tại Phoenix. Bạn có thể thấy lớp phủ khung trò chuyện với nhiều người đang nhắn tin về những gì đang diễn ra...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091001617977872385/img/ff8gChZxcBhQSW3X.jpg" width="600" alt="Lớp phủ video lái xe Cybertruck tại Phoenix">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9631)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2091001668422824354) | **Published:** Aug 22, 2026
+
+---
+### Khoang lái tàu vũ trụ khoa học viễn tưởng đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một cảnh quay điện ảnh đầy chi tiết về khoang lái tàu vũ trụ tối tăm, nơi các sĩ quan quân đội hiện lên dưới dạng bóng đen trên nền khung cảnh toàn cảnh của một hành tinh xanh.
+
+#### 📝 Prompt
+
+```
+Cảnh quay khoa học viễn tưởng đậm chất điện ảnh bên trong khoang lái tàu vũ trụ tối tăm. Một vài sĩ quan trong bộ quân phục tối màu đứng dưới dạng bóng đen trên nền cửa sổ toàn cảnh khổng lồ, nơi nhìn thấy một hành tinh xanh và dải ngân hà rực rỡ. Những tia sáng thể tích dịu nhẹ xuyên qua bóng tối, ánh sáng từ bảng điều khiển màu đỏ và xanh lục tỏa sáng trên các bệ điều khiển. Không khí tĩnh lặng, hùng tráng, chi tiết cao, ánh sáng và phản chiếu chân thực.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090815306050727936/img/kfWgA3-jWemFpHQU.jpg" width="600" alt="Khoang lái tàu vũ trụ khoa học viễn tưởng đậm chất điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9628)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2090959637105500374) | **Published:** Aug 22, 2026
+
+---
+### Lễ ăn mừng chiến thắng cùng Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video mô tả người chiến thắng đứng trên chiếc Cybertruck với đèn pha nhấp nháy và hiệu ứng giọng nói 16-bit.
+
+#### 📝 Prompt
+
+```
+Cybertruck nhấp nháy đèn pha khi người chiến thắng bước lên trên xe và nói bằng giọng thu âm 16-bit: "Chiến thắng là Cyber"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090950236361420800/img/mUgxuBnOf3SrRdI0.jpg" width="600" alt="Lễ ăn mừng chiến thắng cùng Cybertruck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9627)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090950263406227956) | **Published:** Aug 21, 2026
+
+---
+### Nhập làn khi giảm làn đường
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô phỏng video cho thấy phương tiện đang nhập vào dòng giao thông trong tình huống giảm làn đường.
+
+#### 📝 Prompt
+
+```
+làn đường bị thu hẹp được chỉ báo, và ngay sau đó phương tiện ở làn đường đó đã nhập vào làn đường chính
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090873171868368896/img/e1LmBTWxpjTll7Qc.jpg" width="600" alt="Nhập làn khi giảm làn đường">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9626)**
+
+**Author:** [Rocky Flores](https://x.com/maybeme8338o01) | **Source:** [Link](https://x.com/maybeme8338o01/status/2090873216747393211) | **Published:** Aug 21, 2026
+
+---
+### Sự kiện Met Gala trong khu rừng đêm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video cho sự kiện thảm đỏ vào ban đêm tại Met với cây cối và hệ thống chiếu sáng cảnh quan.
+
+#### 📝 Prompt
+
+```
+Sự kiện thảm đỏ tại Met với nhiều cây cối vào ban đêm cùng hệ thống chiếu sáng cảnh quan, đám đông khổng lồ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090819423099609088/img/6xwyET37FO-5_NOX.jpg" width="600" alt="Sự kiện Met Gala trong khu rừng đêm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9633)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2090819440258490487) | **Published:** Aug 21, 2026
+
+---
+### Tesla Cybercab xuất hiện trên thảm đỏ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video chi tiết mô tả chiếc Tesla Cybercab màu vàng đang tiến vào sự kiện thảm đỏ với cửa xe tự động.
+
+#### 📝 Prompt
+
+```
+Chiếc Tesla Cybercab màu vàng vừa tiến đến và dừng lại nhẹ nhàng trên thảm đỏ. Cửa cánh bướm của xe tự động mở hoàn toàn hướng lên trên và ra ngoài. Một người phụ nữ quyến rũ trong chiếc váy đính kim sa đen lấp lánh bước ra khỏi xe một cách đầy duyên dáng...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090816950385381377/img/jnIQhceZFCmj1lb9.jpg" width="600" alt="Tesla Cybercab xuất hiện trên thảm đỏ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9629)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2090816984485085400) | **Published:** Aug 21, 2026
+
+---
+### Queen of Darkness Shadow Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh điện ảnh để tạo video về Nữ hoàng Bóng tối đang bước đi trong khi bóng tối và sự u ám lan tỏa xung quanh bà.
+
+#### 📝 Prompt
+
+```
+Nữ hoàng Bóng tối đang bước về phía tôi, lan tỏa những bóng ma và sự u ám xung quanh
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090784552319143937/img/M3jnUjKaSAa463X0.jpg" width="600" alt="Queen of Darkness Shadow Walk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9630)**
+
+**Author:** [David](https://x.com/Mmmm8x5mMmmm) | **Source:** [Link](https://x.com/Mmmm8x5mMmmm/status/2090784726068174879) | **Published:** Aug 21, 2026
+
+---
 ### Cảnh chiến đấu của tàu chiến không gian phong cách anime
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -220,7 +353,7 @@ Cảnh chiến đấu cuối cùng của tàu chiến không gian Kyoshi, phong 
 Một cô gái trẻ với mái tóc đen dài mặc váy Kimono xanh đang đứng trong một khu vườn Nhật Bản rợp bóng cây hoa anh đào. Khi cô vung thanh kiếm phát sáng màu xanh nhạt theo chiều ngang, vô số cánh hoa anh đào bay ra từ lưỡi kiếm, nhảy múa xung quanh cô và kết thành thông điệp "Cảm ơn bạn vì đã ủng hộ tôi ngày hôm nay." Sau đó, những cánh hoa tản ra hướng về phía máy quay.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787298868185_th6dix_HQOKd7racAA2eg4.jpg" width="600" alt="Vũ điệu kiếm Kimono dưới hoa anh đào">
+<img src="https://cms-assets.youmind.com/media/1787384997650_66coof_HQOKd7racAA2eg4.jpg" width="600" alt="Vũ điệu kiếm Kimono dưới hoa anh đào">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9575)**
 
@@ -246,6 +379,25 @@ Nero chơi đàn fiddle trong khi thành Rome bốc cháy. Chơi bản Devil Wen
 **Author:** [SERCOmustGO(Profile Pic) Cures Cancer](https://x.com/SERCObad) | **Source:** [Link](https://x.com/SERCObad/status/2090654372690534648) | **Published:** Aug 21, 2026
 
 ---
+### Cảnh viết lách trong cabin giữa bão tuyết
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh về một người đàn ông đang viết cuốn sách đầu tay dưới ánh nến trong một cabin gỗ trên núi giữa cơn bão tuyết.
+
+#### 📝 Prompt
+
+```
+Bối cảnh là một căn phòng vuông tối trong một cabin gỗ, nguồn sáng duy nhất là một ngọn nến trên chiếc bàn gỗ cũ. Đó là một đêm lạnh giá, bão tuyết mù mịt giữa những dãy núi đầy cây cối. Một người đàn ông đang ngồi tại bàn viết cuốn sách đầu tay của mình. Lò sưởi kêu lách tách ở phía sau...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090635267078008832/img/edo7_Tv2rTo5kK5k.jpg" width="600" alt="Cảnh viết lách trong cabin giữa bão tuyết">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9632)**
+
+**Author:** [Michael](https://x.com/MichaelOnXUSA) | **Source:** [Link](https://x.com/MichaelOnXUSA/status/2090635293577662604) | **Published:** Aug 21, 2026
+
+---
 ### Video selfie chân thực về chú cún con mặc đồ ngủ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -265,6 +417,25 @@ Một chú cún con nhỏ nhắn, đáng yêu trong bộ đồ ngủ rộng rãi
 **Author:** [고딩경제맨](https://x.com/winneravgwin) | **Source:** [Link](https://x.com/winneravgwin/status/2090631627844280421) | **Published:** Aug 21, 2026
 
 ---
+### Sản xuất điện năng từ sân trượt patin tại trung tâm dữ liệu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video điện ảnh siêu thực mô tả một trung tâm dữ liệu tương lai, nơi con người tạo ra năng lượng bằng cách trượt patin trong một sân trượt nằm cạnh một nhà hàng cổ điển.
+
+#### 📝 Prompt
+
+```
+Một sân trượt patin tại trung tâm dữ liệu sử dụng năng lượng tập thể của con người khi họ trượt để chuyển đổi thành điện năng bên cạnh một nhà hàng Steak n Shake
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090629256116133888/img/vZOj4HyvF3Tt2gQq.jpg" width="600" alt="Sản xuất điện năng từ sân trượt patin tại trung tâm dữ liệu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9623)**
+
+**Author:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **Source:** [Link](https://x.com/AMERICA250e9/status/2090629295139860535) | **Published:** Aug 21, 2026
+
+---
 ### Trải nghiệm chơi game Cybertruck của Twitch Streamer
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -282,6 +453,44 @@ Một phụ nữ đang phát trực tiếp trên Twitch khi chơi trò chơi 3D 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9567)**
 
 **Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090624078499512717) | **Published:** Aug 21, 2026
+
+---
+### Thông điệp thân thiện từ người đàn ông nói tiếng Bồ Đào Nha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video chi tiết về một người đàn ông đang nói chuyện một cách tự nhiên với giọng Bồ Đào Nha (Brazil), truyền tải thông điệp tích cực từ bên trong xe hơi với các chuyển động nhất quán.
+
+#### 📝 Prompt
+
+```
+Người đàn ông mỉm cười và nói chuyện tự nhiên bằng tiếng Bồ Đào Nha (giọng Brazil), đưa ra một thông điệp ngắn gọn, thân thiện và tích cực như "Oi! Estou me sentindo muito bem hoje. Que dia incrível, né?". Giữ nguyên bối cảnh nội thất xe hơi, ngoại hình giống hệt và chuyển động đầu tự nhiên.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090608673697464321/img/XIkmOTOKm5JEpI6c.jpg" width="600" alt="Thông điệp thân thiện từ người đàn ông nói tiếng Bồ Đào Nha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9624)**
+
+**Author:** [Vini](https://x.com/Vinil9t) | **Source:** [Link](https://x.com/Vinil9t/status/2090608698666160330) | **Published:** Aug 21, 2026
+
+---
+### Video Cuộc rượt đuổi Cyberpunk Aurora
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh phức tạp sử dụng đại số ký hiệu để định nghĩa một cảnh rượt đuổi khoa học viễn tưởng với xe bay hoverbike và đơn vị Aurora 7.
+
+#### 📝 Prompt
+
+```
+[[🟩+🟪]+[[hoverbike+[🤖=👮‍♀️=unit_Aurora_7]]+[🎯_pursuit]+[glossy]+[🔈🔉🔊🔉🔈🚨]]
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090580112202768384/img/SQ-5s4IEznGOmMTR.jpg" width="600" alt="Video Cuộc rượt đuổi Cyberpunk Aurora">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9625)**
+
+**Author:** [Elis Satu](https://x.com/astvatsaturn) | **Source:** [Link](https://x.com/astvatsaturn/status/2090580214120165872) | **Published:** Aug 20, 2026
 
 ---
 ### Xe mui trần theo phong cách siêu thực của Magritte
@@ -320,6 +529,25 @@ Một bức tranh sơn dầu siêu thực theo phong cách Magritte vẽ một c
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9568)**
 
 **Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **Published:** Aug 20, 2026
+
+---
+### Hoạt ảnh cuộc gặp gỡ giữa Odysseus và Nausicaa trên bãi biển
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tường thuật chi tiết mô tả cảnh Odysseus dạt vào bờ biển Scheria và cuộc gặp gỡ đầu tiên của anh với Nausicaa, bao gồm các chi tiết hoạt ảnh đậm chất điện ảnh.
+
+#### 📝 Prompt
+
+```
+Sau khi rời khỏi hòn đảo của Calypso, Odysseus đã lênh đênh trên bè suốt nhiều ngày. Một cơn bão do Poseidon tạo ra đã phá hủy chiếc bè của anh. Anh bơi cho đến khi kiệt sức hoàn toàn và dạt vào bãi biển Scheria, hòn đảo của người Phaeacian, trong trạng thái bất tỉnh. Trong tình trạng mệt mỏi và người dính đầy rong biển, anh dần tỉnh lại trên bãi cát. Nausicaa ban đầu cảm thấy sợ hãi và lùi lại, nhưng sau đó cô đã lắng nghe anh. Cô quyết định giúp đỡ và chỉ đường cho anh đến cung điện.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090462831195914240/img/QC_iaRhu8OjWcEJL.jpg" width="600" alt="Hoạt ảnh cuộc gặp gỡ giữa Odysseus và Nausicaa trên bãi biển">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9634)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2090463969496518702) | **Published:** Aug 20, 2026
 
 ---
 ### Bản phác thảo video Thor Thursday
@@ -1875,250 +2103,6 @@ phong cách nghệ thuật pixel, tính thẩm mỹ lặp lại, góc máy tươ
 **Author:** [今井宏之](https://x.com/imaikaiimai) | **Source:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **Published:** Aug 14, 2026
 
 ---
-### Video thần tượng tại bảo tàng Louvre vào giờ vàng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video nghệ thuật về một nữ thần tượng sôi nổi đang chiêm ngưỡng bảo tàng Louvre vào giờ vàng với các phản ứng nền động.
-
-#### 📝 Prompt
-
-```
-Cô gái Mỹ tinh nghịch chiêm ngưỡng bảo tàng Louvre vào giờ vàng, sôi nổi và biểu cảm như một thần tượng nổi tiếng, nhưng thể hiện sự căng thẳng tinh tế của môi trường một cách đầy nghệ thuật và gợi nhiều suy ngẫm, bố cục tổng thể nhất quán nhưng có sự phản hồi động của hậu cảnh đối với sự hiện diện của cô ấy
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088153830563450880/img/_u2QzRzpHA1WodHc.jpg" width="600" alt="Video thần tượng tại bảo tàng Louvre vào giờ vàng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9095)**
-
-**Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2088154062902702543) | **Published:** Aug 14, 2026
-
----
-### Kích hoạt Hệ thống Hô hấp cho Khu định cư trên Sao Hỏa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lời nhắc video về việc kích hoạt các vòm nước sinh thái và khu định cư trên Sao Hỏa.
-
-#### 📝 Prompt
-
-```
-Hiển thị tất cả các bộ phận tách rời, mỗi bộ phận hạ cánh xuống miệng núi lửa, lấp đầy miệng núi lửa và kích hoạt các vòm nước sinh thái của Kennedy để bao phủ toàn bộ miệng núi lửa đến tận vành đai và khu định cư mới, trở thành lá phổi cho Sao Hỏa
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149826374680576/img/ehPk0YBSC0sinIAM.jpg" width="600" alt="Kích hoạt Hệ thống Hô hấp cho Khu định cư trên Sao Hỏa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9092)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088149868288365028) | **Published:** Aug 14, 2026
-
----
-### Ca sĩ nhạc Jazz cổ điển
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video chi tiết cho màn trình diễn của một ban nhạc lớn cổ điển với một nam ca sĩ đầy cảm xúc.
-
-#### 📝 Prompt
-
-```
-Người đàn ông hói đầu mặc bộ vest đen và đội mũ phớt đang hát đầy say sưa vào chiếc micro cổ điển, miệng cử động biểu cảm khi anh ấy hát, tay cử động đầy cảm xúc, cơ thể đung đưa nhẹ nhàng theo điệu nhạc, chiếc mũ phớt hơi nghiêng, ban nhạc lớn phía sau anh ấy đang chơi các nhạc cụ đồng
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149124071718912/img/OSlPpSt103JVK9Gf.jpg" width="600" alt="Ca sĩ nhạc Jazz cổ điển">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9086)**
-
-**Author:** [pistacchione](https://x.com/Oldtool9) | **Source:** [Link](https://x.com/Oldtool9/status/2088149153813577744) | **Published:** Aug 14, 2026
-
----
-### Chuỗi hình ảnh điện ảnh về người du hành thời gian
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một chuỗi video điện ảnh toàn diện dài 15 giây mô tả cảnh một người du hành thời gian bước qua vết nứt thời gian để tiến vào không gian.
-
-#### 📝 Prompt
-
-```
-Một chuỗi hình ảnh siêu điện ảnh liên tục dài 15 giây, chân thực đến từng chi tiết với các yếu tố siêu thực tinh tế, được quay bằng ống kính anamorphic với hạt phim 35mm mịn và hiệu ứng quang sai màu nhẹ, theo phong cách của Christopher Nolan và Denis Villeneuve.
-
-Phần mở đầu (0-3 giây): Một người du hành thời gian đứng đơn độc trong khoảng không đen tối vô tận, khoác trên mình chiếc áo khoác dài sờn cũ bên ngoài bộ đồ du hành thời gian tinh xảo làm từ đồng và da, tà áo và khăn quàng cổ khẽ lay động như trong môi trường không trọng lực. Khuôn mặt của họ bị che khuất một phần bởi tấm kính phản quang.
-
-Tại giây thứ 3, một đường rạch dọc với ánh sáng trắng xanh rực rỡ xé toạc không gian trước mặt họ như thể vải bị xé rách. Các lớp chồng chéo của những thời đại lịch sử và tương lai đổ dồn qua khe nứt: những kim tự tháp Ai Cập cổ đại dưới ánh mặt trời sa mạc, những con phố nhộn nhịp thời đại nhạc Jazz những năm 1920 với xe Model T, siêu đô thị cyberpunk rực rỡ ánh đèn neon của những năm 2080, và một khu rừng nguyên sinh đầy sương mù với những cây cổ thụ khổng lồ. Các lớp hình ảnh xoáy và hòa quyện vào nhau như thủy tinh lỏng.
-
-4-9 giây: Người du hành bước tới trước, tiến vào vết nứt. Máy quay thực hiện một cú lia mượt mà, tăng tốc xoay quanh nhân vật khi các lớp thời gian trở nên mãnh liệt hơn, kiến trúc và cảnh quan tan chảy rồi tái tạo, các hạt bánh răng đồng hồ phát sáng, cát, các hạt neon và lá cây xoáy tròn theo vật lý chất lỏng chân thực. Gió và năng lượng kéo mạnh tà áo và mái tóc một cách đầy kịch tính.
-
-9-12 giây: Mọi thứ tăng tốc trong một sự sụp đổ hỗn loạn nhưng tuyệt đẹp về phía một điểm sáng duy nhất — điểm kỳ dị. Máy quay bắt đầu lùi lại nhanh chóng.
-
-12-15 giây: Điểm kỳ dị mở rộng ra thành một khung cảnh Trái Đất thanh bình, ngoạn mục từ quỹ đạo cao vào giờ vàng, đại dương xanh và những đám mây trắng xoáy nhẹ nhàng tỏa sáng, người du hành giờ đây chỉ là một bóng đen nhỏ bé trôi nổi yên bình ở tiền cảnh, hướng về phía hành tinh. Những tia sáng volumetric mềm mại và lớp sương mù khí quyển bao phủ.
-
-Ánh sáng: Độ tương phản cao giữa sắc đen sâu thẳm của khoảng không và sắc trắng/xanh mát lạnh của cổng thời gian, chuyển dần sang ánh nắng vàng ấm áp. Các điểm nhấn phản chiếu trên kim loại và tấm kính. Các tia sáng volumetric xuất hiện xuyên suốt.
-
-Thiết kế âm thanh gốc: Bắt đầu bằng tiếng ầm trầm tần số thấp của khoảng không và tiếng tích tắc cơ học mờ nhạt. Âm thanh tăng dần với tiếng xé điện và tiếng lách tách khi cổng thời gian mở ra, các âm thanh lịch sử chồng chéo (tiếng ngựa và tiếng chợ xa xăm, tiếng kèn saxophone jazz, tiếng mưa và tiếng rì rầm neon của cyberpunk, tiếng gió rừng và chim hót), sự căng thẳng của dàn nhạc giao hưởng và các tông âm thanh huyền ảo, đạt đỉnh điểm ở một nốt nhạc pha lê vang vọng tại điểm kỳ dị, sau đó lắng xuống thành sự tĩnh lặng của không gian với một nhịp tim xa xăm và tiếng rì rầm nhẹ nhàng của quỹ đạo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088143927710822400/img/P6C2auiwtspVMggi.jpg" width="600" alt="Chuỗi hình ảnh điện ảnh về người du hành thời gian">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9094)**
-
-**Author:** [Time Traveler](https://x.com/singularitymuse) | **Source:** [Link](https://x.com/singularitymuse/status/2088144011378745848) | **Published:** Aug 14, 2026
-
----
-### Mô phỏng súng điện từ plasma MAHEM
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô phỏng khoa học về các công nghệ Đạn dược Nổ Từ thủy động lực học (Magneto-Hydrodynamic Explosive Munition).
-
-#### 📝 Prompt
-
-```
-Một mô phỏng về MAHEM (Đạn dược Nổ Từ thủy động lực học) được phát triển thành các loại súng điện từ plasma nhỏ gọn. Đến năm 2025–2026, DARPA đã trình diễn các hệ thống cuộn dây đa vòng giúp nén và tái tuần hoàn plasma để đạt được mật độ dòng điện cao hơn và l...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088137508551094272/img/4lLlkUqvJKUC8pDK.jpg" width="600" alt="Mô phỏng súng điện từ plasma MAHEM">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9089)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088137563571998981) | **Published:** Aug 14, 2026
-
----
-### Khung cảnh không gian vật lý lượng tử
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo hình ảnh khoa học phức tạp liên quan đến quang học lượng tử, ống thông lượng và nén plasma trong môi trường không gian.
-
-#### 📝 Prompt
-
-```
-Một cuộn dây lượng tử tích hợp quang học lượng tử, ống thông lượng Io-Jupiter, ăng-ten Gyan Mudra và Nén Plasma Mật độ Năng lượng Cao trong bối cảnh không gian. Nén Plasma Mật độ Năng lượng Cao bao gồm SHIELD (Thiết bị giảm tốc bơm hơi tự phục hồi) và L...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088134579383410688/img/MAYVL4isOtq0DEXc.jpg" width="600" alt="Khung cảnh không gian vật lý lượng tử">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9084)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088134606369529856) | **Published:** Aug 14, 2026
-
----
-### Hệ thống Vòng lặp Năng lượng Sao Hỏa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt khoa học viễn tưởng mô tả hệ thống plasma năng lượng tự duy trì trên Sao Hỏa.
-
-#### 📝 Prompt
-
-```
-Một khung cảnh trên Sao Hỏa mô tả hệ thống vòng lặp năng lượng tự duy trì. Các cuộn dây trên quỹ đạo, được khắc để chống bụi và bức xạ, khai thác plasma mặt trời. Hệ thống đảo ngược dòng plasma để tạo ra vòng lặp phản hồi, tạo ra nhiệt lượng cho lõi của Sao Hỏa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088129695648989184/img/dZRJC2GrdDnGScdE.jpg" width="600" alt="Hệ thống Vòng lặp Năng lượng Sao Hỏa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9088)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088129717148975216) | **Published:** Aug 14, 2026
-
----
-### Cảnh chiến đấu của Nữ hoàng Chiến binh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một đoạn prompt video điện ảnh mô tả một nữ hoàng trong trang phục chiến binh, tay cầm kiếm, đang cưỡi ngựa tiến vào chiến trường.
-
-#### 📝 Prompt
-
-```
-Tạo cảnh một con ngựa đang chạy ra chiến trường, tôi mặc trang phục chiến binh cầm kiếm và đội vương miện của nữ hoàng
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088105992131387393/img/RYKSv0c37xjiK5-a.jpg" width="600" alt="Cảnh chiến đấu của Nữ hoàng Chiến binh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9184)**
-
-**Author:** [loretta Goldthwaite Goldthrite Sanders](https://x.com/loretta824yaho1) | **Source:** [Link](https://x.com/loretta824yaho1/status/2088106006413033633) | **Published:** Aug 14, 2026
-
----
-### Ảnh bìa album thiên thần nhỏ theo phong cách siêu thực ảo giác
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh siêu thực phức tạp để tạo ảnh bìa album theo phong cách ảo giác, kết hợp nhiều hình ảnh tham chiếu thành một khung cảnh có sự xuất hiện của một thiên thần nhỏ nổi loạn bụ bẫm.
-
-#### 📝 Prompt
-
-```
-Một tác phẩm nghệ thuật bìa album theo phong cách siêu thực ảo giác đầy ấn tượng, kết hợp tất cả các hình ảnh tham chiếu thành một khung cảnh thống nhất. Ở trung tâm là hình ảnh thiên thần nhỏ nổi loạn từ hình ảnh thứ tư — một thiên thần bé bỏng bụ bẫm beauty groki ai x
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088087541513867264/img/S3EG87dAzwHDuXGR.jpg" width="600" alt="Ảnh bìa album thiên thần nhỏ theo phong cách siêu thực ảo giác">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9177)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2088087648124743926) | **Published:** Aug 14, 2026
-
----
-### Video đi bộ đường dài trong rừng mưa Manoa Falls
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video thanh bình, đầy không khí tập trung vào chuyến đi bộ đường dài trong rừng mưa tươi tốt đến Manoa Falls, với trái cây tươi, đồ uống và những chiếc lá xanh lớn.
-
-#### 📝 Prompt
-
-```
-không có lời nói hay giọng nói, không có chuyển động đột ngột
-
-Đôi khi hãy thả lỏng: với ... trái cây tươi, vài chiếc bánh sandwich nhỏ và đồ uống lạnh trong thùng giữ nhiệt. Thác nước nằm trên núi, cách đây khoảng ba mươi phút lái xe. Nó được gọi là Manoa Falls, một chuyến đi bộ đường dài cực kỳ tươi tốt xuyên qua rừng mưa với những chiếc lá xanh lớn ở khắp mọi nơi... bạn đã sẵn sàng đi chưa?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088083245502013440/img/w1zw8vccJYIBsuZr.jpg" width="600" alt="Video đi bộ đường dài trong rừng mưa Manoa Falls">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9182)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088083861888462939) | **Published:** Aug 14, 2026
-
----
-### Bầu không khí đêm xem bóng bầu dục
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chỉnh sửa video giúp thay đổi khung cảnh sang ban đêm với trận đấu của Steelers đang phát trên TV.
-
-#### 📝 Prompt
-
-```
-Thay đổi khung cảnh bên ngoài thành trời tối, trên TV đang phát trận đấu của Steelers và cô ấy hét lên touchdown
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088073692676825088/img/jAOaUCebs7f-35nf.jpg" width="600" alt="Bầu không khí đêm xem bóng bầu dục">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9097)**
-
-**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2088073752781152305) | **Published:** Aug 14, 2026
-
----
-### Phù thủy xứ Oz phong cách miền Tây cùng khủng long
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video kết hợp các nhân vật trong Phù thủy xứ Oz với bối cảnh miền Tây cổ điển và những chú khủng long thời tiền sử ở phía sau.
-
-#### 📝 Prompt
-
-```
-Phù thủy xứ Oz trong bối cảnh miền Tây cổ điển với các chàng cao bồi và một vài chú khủng long ở phía sau
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088066196516339712/img/HUQcIMq7mlSxR_nY.jpg" width="600" alt="Phù thủy xứ Oz phong cách miền Tây cùng khủng long">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9181)**
-
-**Author:** [Spacecowboy](https://x.com/Spacedragon22) | **Source:** [Link](https://x.com/Spacedragon22/status/2088066209095065908) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2180,6 +2164,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-22T04:55:36.633Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-22T08:53:25.427Z</sub>
 
 </div>

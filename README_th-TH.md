@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2552** |
+| 📝 Total Prompts | **2564** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-22** |
 
@@ -189,6 +189,139 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### วิดีโอจำลองการขับ Cybertruck ท่ามกลางการจราจรในฟีนิกซ์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอที่แสดงภาพคนขับ Cybertruck ขณะขับขี่ท่ามกลางการจราจรในเมืองฟีนิกซ์ พร้อมหน้าจอซ้อนทับแบบหลายเลเยอร์และหน้าต่างแชทที่เลื่อนได้
+
+#### 📝 Prompt
+
+```
+หน้าจอซ้อนทับขนาดเล็กแสดงภาพชายคนหนึ่งกำลังขับ Cybertruck เพื่อให้เห็นความนุ่มนวลของพวงมาลัยที่หายาก โดยหน้าจอหลักจะแสดงมุมมองจากกระจกหน้ารถขณะที่เขาขับอยู่ท่ามกลางการจราจรในฟีนิกซ์ คุณจะเห็นหน้าจอซ้อนทับเป็นแชทที่มีผู้คนมากมายกำลังพิมพ์ข้อความพูดคุยเกี่ยวกับสิ่งที่กำลังเกิดขึ้น...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091001617977872385/img/ff8gChZxcBhQSW3X.jpg" width="600" alt="วิดีโอจำลองการขับ Cybertruck ท่ามกลางการจราจรในฟีนิกซ์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9631)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2091001668422824354) | **Published:** Aug 22, 2026
+
+---
+### ภาพยนตร์ไซไฟฉากสะพานเดินเรืออวกาศ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ภาพถ่ายระดับภาพยนตร์ที่มีรายละเอียดสูงของสะพานเดินเรืออวกาศที่มืดมิด เผยให้เห็นเงาของเจ้าหน้าที่ทหารตัดกับทิวทัศน์มุมกว้างของดาวเคราะห์สีน้ำเงิน
+
+#### 📝 Prompt
+
+```
+ภาพถ่ายสไตล์ไซไฟระดับภาพยนตร์ภายในสะพานเดินเรืออวกาศที่มืดมิด เจ้าหน้าที่หลายนายในชุดเครื่องแบบทหารสีเข้มยืนเป็นเงาตัดกับหน้าต่างพาโนรามาขนาดใหญ่ที่เผยให้เห็นดาวเคราะห์สีน้ำเงินและกาแล็กซีที่ส่องสว่าง ลำแสงวอลูเมตริกอ่อนๆ พาดผ่านความมืดมิด พร้อมแสงไฟจากแผงควบคุมสีแดงและสีเขียวที่ส่องสว่างบนคอนโซล บรรยากาศเงียบสงบและยิ่งใหญ่ รายละเอียดสูง พร้อมแสงและเงาสะท้อนที่สมจริง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090815306050727936/img/kfWgA3-jWemFpHQU.jpg" width="600" alt="ภาพยนตร์ไซไฟฉากสะพานเดินเรืออวกาศ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9628)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2090959637105500374) | **Published:** Aug 22, 2026
+
+---
+### ฉลองชัยชนะบน Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอที่แสดงภาพผู้ชนะยืนอยู่บนรถ Cybertruck พร้อมไฟหน้าที่กะพริบและเอฟเฟกต์เสียงพากย์แบบ 16 บิต
+
+#### 📝 Prompt
+
+```
+Cybertruck กะพริบไฟหน้าในขณะที่ผู้ชนะก้าวขึ้นไปบนรถ พร้อมกล่าวด้วยเสียงบันทึกแบบ 16 บิตว่า "ชัยชนะคือ Cyber"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090950236361420800/img/mUgxuBnOf3SrRdI0.jpg" width="600" alt="ฉลองชัยชนะบน Cybertruck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9627)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090950263406227956) | **Published:** Aug 21, 2026
+
+---
+### การรวมเลนเมื่อมีการลดช่องจราจร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอจำลองสถานการณ์ที่แสดงให้เห็นรถยนต์กำลังรวมเข้าสู่กระแสจราจรในสถานการณ์ที่มีการลดช่องจราจร
+
+#### 📝 Prompt
+
+```
+ช่องจราจรถูกลดลง และรถยนต์ในเลนนั้นกำลังรวมเข้าสู่เลนหลักในไม่ช้า
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090873171868368896/img/e1LmBTWxpjTll7Qc.jpg" width="600" alt="การรวมเลนเมื่อมีการลดช่องจราจร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9626)**
+
+**Author:** [Rocky Flores](https://x.com/maybeme8338o01) | **Source:** [Link](https://x.com/maybeme8338o01/status/2090873216747393211) | **Published:** Aug 21, 2026
+
+---
+### งานอีเวนต์ Met Gala ในธีมป่ากลางคืน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับการสร้างวิดีโอในธีมงานเดินพรมแดงช่วงกลางคืนที่ Met โดยมีต้นไม้และแสงไฟประดับตกแต่งภูมิทัศน์
+
+#### 📝 Prompt
+
+```
+งานเดินพรมแดงที่ Met รายล้อมไปด้วยต้นไม้มากมายในยามค่ำคืน พร้อมแสงไฟประดับตกแต่งภูมิทัศน์ และฝูงชนจำนวนมาก
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090819423099609088/img/6xwyET37FO-5_NOX.jpg" width="600" alt="งานอีเวนต์ Met Gala ในธีมป่ากลางคืน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9633)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2090819440258490487) | **Published:** Aug 21, 2026
+
+---
+### การมาถึงพรมแดงของ Tesla Cybercab
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แบบละเอียดที่บรรยายถึงรถ Tesla Cybercab สีทองที่กำลังมาถึงงานพรมแดงพร้อมประตูอัตโนมัติ
+
+#### 📝 Prompt
+
+```
+Tesla Cybercab สีทองเพิ่งเคลื่อนเข้ามาจอดอย่างนุ่มนวลบนพรมแดง ประตูปีกนกของมันเปิดออกเต็มที่ทั้งด้านบนและด้านข้างโดยอัตโนมัติ หญิงสาวผู้สง่างามในชุดเดรสเลื่อมสีดำประกายเพชรค่อยๆ ก้าวลงจากรถสู่...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090816950385381377/img/jnIQhceZFCmj1lb9.jpg" width="600" alt="การมาถึงพรมแดงของ Tesla Cybercab">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9629)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2090816984485085400) | **Published:** Aug 21, 2026
+
+---
+### Queen of Darkness Shadow Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ระดับภาพยนตร์สำหรับการสร้างวิดีโอ ราชินีแห่งความมืด (Queen of Darkness) ที่กำลังเดิน โดยมีเงาและความมืดแผ่ขยายออกไปรอบตัวเธอ
+
+#### 📝 Prompt
+
+```
+ราชินีแห่งความมืดกำลังเดินตรงมาทางฉัน พร้อมกับแผ่ขยายเงาและความมืดออกไปโดยรอบ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090784552319143937/img/M3jnUjKaSAa463X0.jpg" width="600" alt="Queen of Darkness Shadow Walk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9630)**
+
+**Author:** [David](https://x.com/Mmmm8x5mMmmm) | **Source:** [Link](https://x.com/Mmmm8x5mMmmm/status/2090784726068174879) | **Published:** Aug 21, 2026
+
+---
 ### ฉากการต่อสู้ของยานรบอวกาศสไตล์อนิเมะ
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -220,7 +353,7 @@ Why use our gallery?
 หญิงสาวผมยาวสีดำในชุดกิโมโนสีน้ำเงินยืนอยู่ในสวนญี่ปุ่นที่เรียงรายไปด้วยต้นซากุระ ขณะที่เธอเหวี่ยงดาบเรืองแสงสีฟ้าอ่อนในแนวนอน กลีบดอกซากุระจำนวนนับไม่ถ้วนก็พุ่งออกมาจากดาบ เต้นระบำอยู่รอบตัวเธอและก่อตัวเป็นข้อความว่า "ขอบคุณสำหรับการสนับสนุนของคุณในวันนี้เช่นกัน" จากนั้นกลีบดอกไม้เหล่านั้นก็โปรยปรายเข้ามาทางกล้อง
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787298868185_th6dix_HQOKd7racAA2eg4.jpg" width="600" alt="ระบำดาบกิโมโนท่ามกลางซากุระ">
+<img src="https://cms-assets.youmind.com/media/1787384997650_66coof_HQOKd7racAA2eg4.jpg" width="600" alt="ระบำดาบกิโมโนท่ามกลางซากุระ">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9575)**
 
@@ -246,6 +379,25 @@ Nero กำลังสีไวโอลินขณะที่กรุงโ
 **Author:** [SERCOmustGO(Profile Pic) Cures Cancer](https://x.com/SERCObad) | **Source:** [Link](https://x.com/SERCObad/status/2090654372690534648) | **Published:** Aug 21, 2026
 
 ---
+### ฉากการเขียนหนังสือท่ามกลางพายุหิมะในกระท่อม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ของชายคนหนึ่งที่กำลังเขียนหนังสือเล่มแรกของเขาด้วยแสงเทียนในกระท่อมไม้ซุงบนภูเขาในช่วงพายุหิมะ
+
+#### 📝 Prompt
+
+```
+ฉากเป็นห้องสี่เหลี่ยมมืดๆ ในกระท่อมไม้ซุง โดยมีแสงสว่างเพียงอย่างเดียวคือเทียนบนโต๊ะไม้เก่าๆ เป็นค่ำคืนที่หนาวเหน็บและมีพายุหิมะพัดกระหน่ำในป่าบนภูเขา ชายคนหนึ่งนั่งอยู่ที่โต๊ะกำลังเขียนหนังสือเล่มแรกในชีวิตของเขา มีเสียงเตาผิงดังเปรี๊ยะๆ อยู่ด้านหลัง...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090635267078008832/img/edo7_Tv2rTo5kK5k.jpg" width="600" alt="ฉากการเขียนหนังสือท่ามกลางพายุหิมะในกระท่อม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9632)**
+
+**Author:** [Michael](https://x.com/MichaelOnXUSA) | **Source:** [Link](https://x.com/MichaelOnXUSA/status/2090635293577662604) | **Published:** Aug 21, 2026
+
+---
 ### วิดีโอเซลฟี่สุดสมจริงของลูกสุนัขในชุดนอน
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -265,6 +417,25 @@ Nero กำลังสีไวโอลินขณะที่กรุงโ
 **Author:** [고딩경제맨](https://x.com/winneravgwin) | **Source:** [Link](https://x.com/winneravgwin/status/2090631627844280421) | **Published:** Aug 21, 2026
 
 ---
+### การผลิตไฟฟ้าจากลานสเก็ตในศูนย์ข้อมูล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวเซอร์เรียลแบบภาพยนตร์ที่แสดงภาพศูนย์ข้อมูลแห่งอนาคต ซึ่งมนุษย์ผลิตพลังงานด้วยการเล่นโรลเลอร์สเกตในลานสเกตข้างร้านอาหารคลาสสิก
+
+#### 📝 Prompt
+
+```
+ลานสเกตในศูนย์ข้อมูลที่ใช้พลังงานจากกลุ่มคนที่เล่นสเกตเพื่อเปลี่ยนเป็นกระแสไฟฟ้า โดยตั้งอยู่ข้างร้าน Steak 'n Shake
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090629256116133888/img/vZOj4HyvF3Tt2gQq.jpg" width="600" alt="การผลิตไฟฟ้าจากลานสเก็ตในศูนย์ข้อมูล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9623)**
+
+**Author:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **Source:** [Link](https://x.com/AMERICA250e9/status/2090629295139860535) | **Published:** Aug 21, 2026
+
+---
 ### สตรีมเมอร์ Twitch เล่นเกม Cybertruck
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -282,6 +453,44 @@ Nero กำลังสีไวโอลินขณะที่กรุงโ
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9567)**
 
 **Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090624078499512717) | **Published:** Aug 21, 2026
+
+---
+### ข้อความทักทายที่เป็นมิตรจากชายผู้พูดภาษาโปรตุเกส
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แบบละเอียดสำหรับชายที่พูดด้วยสำเนียงโปรตุเกสแบบบราซิลอย่างเป็นธรรมชาติ โดยส่งมอบข้อความเชิงบวกจากภายในรถพร้อมการเคลื่อนไหวที่ต่อเนื่อง
+
+#### 📝 Prompt
+
+```
+ชายคนดังกล่าวยิ้มและพูดด้วยภาษาโปรตุเกส (สำเนียงบราซิล) อย่างเป็นธรรมชาติ โดยกล่าวข้อความเชิงบวกที่เป็นมิตร เช่น "Oi! Estou me sentindo muito bem hoje. Que dia incrível, né?" โดยคงพื้นหลังภายในรถ รูปลักษณ์เดิม และการเคลื่อนไหวศีรษะที่เป็นธรรมชาติเอาไว้
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090608673697464321/img/XIkmOTOKm5JEpI6c.jpg" width="600" alt="ข้อความทักทายที่เป็นมิตรจากชายผู้พูดภาษาโปรตุเกส">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9624)**
+
+**Author:** [Vini](https://x.com/Vinil9t) | **Source:** [Link](https://x.com/Vinil9t/status/2090608698666160330) | **Published:** Aug 21, 2026
+
+---
+### วิดีโอการไล่ล่าแนวไซเบอร์พังก์ Aurora
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่ซับซ้อนโดยใช้พีชคณิตเชิงสัญลักษณ์เพื่อกำหนดฉากการไล่ล่าแนวไซไฟที่มีโฮเวอร์ไบค์และยูนิต Aurora 7
+
+#### 📝 Prompt
+
+```
+[[🟩+🟪]+[[hoverbike+[🤖=👮‍♀️=unit_Aurora_7]]+[🎯_pursuit]+[glossy]+[🔈🔉🔊🔉🔈🚨]]
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090580112202768384/img/SQ-5s4IEznGOmMTR.jpg" width="600" alt="วิดีโอการไล่ล่าแนวไซเบอร์พังก์ Aurora">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9625)**
+
+**Author:** [Elis Satu](https://x.com/astvatsaturn) | **Source:** [Link](https://x.com/astvatsaturn/status/2090580214120165872) | **Published:** Aug 20, 2026
 
 ---
 ### รถเปิดประทุนสไตล์เซอร์เรียลลิสต์แบบ Magritte
@@ -320,6 +529,25 @@ Nero กำลังสีไวโอลินขณะที่กรุงโ
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9568)**
 
 **Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **Published:** Aug 20, 2026
+
+---
+### แอนิเมชันฉากการพบกันของโอดิสซูสและนาวสิกาที่ชายหาด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์บรรยายรายละเอียดฉากโอดิสซูสถูกซัดขึ้นฝั่งที่เกาะสเคเรียและการพบกันครั้งแรกกับนาวสิกา พร้อมรายละเอียดแอนิเมชันในรูปแบบภาพยนตร์
+
+#### 📝 Prompt
+
+```
+โอดิสซูสล่องลอยอยู่บนแพเป็นเวลาหลายวันหลังจากออกจากเกาะของคาลิปโซ พายุที่โพไซดอนสร้างขึ้นได้ทำลายแพของเขาจนหมดสิ้น เขาว่ายน้ำจนหมดแรงและถูกซัดขึ้นฝั่งในสภาพหมดสติที่ชายหาดของเกาะสเคเรีย ซึ่งเป็นเกาะของชาวฟีเชียน เมื่อเขาฟื้นคืนสติบนชายหาดในสภาพที่เหนื่อยล้าและเต็มไปด้วยสาหร่าย นาวสิกาที่ตอนแรกตกใจกลัวได้ถอยห่างออกไป แต่แล้วเธอก็ยอมรับฟังเขา เธอตัดสินใจที่จะช่วยเหลือและชี้ทางไปยังพระราชวังให้แก่เขา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090462831195914240/img/QC_iaRhu8OjWcEJL.jpg" width="600" alt="แอนิเมชันฉากการพบกันของโอดิสซูสและนาวสิกาที่ชายหาด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9634)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2090463969496518702) | **Published:** Aug 20, 2026
 
 ---
 ### วิดีโอสเก็ตช์ Thor Thursday
@@ -1875,250 +2103,6 @@ Hello Kitty ขโมยลูกอมจากร้านค้า แม่�
 **Author:** [今井宏之](https://x.com/imaikaiimai) | **Source:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **Published:** Aug 14, 2026
 
 ---
-### วิดีโอไอดอลสาวช่วงโกลเด้นอาวร์ที่พิพิธภัณฑ์ลูฟร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงศิลป์ของไอดอลสาวสดใสที่กำลังชื่นชมพิพิธภัณฑ์ลูฟร์ในช่วงโกลเด้นอาวร์ พร้อมการตอบสนองของฉากหลังแบบไดนามิก
-
-#### 📝 Prompt
-
-```
-หญิงสาวชาวอเมริกันกำลังชื่นชมพิพิธภัณฑ์ลูฟร์อย่างสนุกสนานในช่วงโกลเด้นอาวร์ มีความสดใสและแสดงออกเหมือนไอดอลชื่อดัง แต่แฝงไปด้วยความตึงเครียดของสภาพแวดล้อมที่ดูมีศิลปะและชวนให้ขบคิด องค์ประกอบภาพโดยรวมมีความต่อเนื่อง แต่ฉากหลังมีการตอบสนองแบบไดนามิกต่อการปรากฏตัวของเธอ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088153830563450880/img/_u2QzRzpHA1WodHc.jpg" width="600" alt="วิดีโอไอดอลสาวช่วงโกลเด้นอาวร์ที่พิพิธภัณฑ์ลูฟร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9095)**
-
-**Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2088154062902702543) | **Published:** Aug 14, 2026
-
----
-### การเปิดใช้งานระบบหายใจของที่อยู่อาศัยบนดาวอังคาร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สำหรับการเปิดใช้งานโดมน้ำและที่อยู่อาศัยบนดาวอังคาร
-
-#### 📝 Prompt
-
-```
-แสดงภาพทั้งหมดแยกตัวออกจากกัน แต่ละชิ้นลงจอดในหลุมอุกกาบาตแล้วเติมเต็มหลุมนั้น พร้อมเปิดใช้งานโดมน้ำที่มีชีวิตของ Kennedy ให้ครอบคลุมทั่วทั้งหลุมอุกกาบาตไปจนถึงขอบและที่อยู่อาศัยใหม่ เพื่อกลายเป็นระบบหายใจให้กับดาวอังคาร
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149826374680576/img/ehPk0YBSC0sinIAM.jpg" width="600" alt="การเปิดใช้งานระบบหายใจของที่อยู่อาศัยบนดาวอังคาร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9092)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088149868288365028) | **Published:** Aug 14, 2026
-
----
-### นักร้องเพลงแจ๊สสไตล์วินเทจ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างวิดีโอการแสดงดนตรีบิ๊กแบนด์สไตล์วินเทจที่มีนักร้องนำผู้เปี่ยมไปด้วยอารมณ์ความรู้สึก
-
-#### 📝 Prompt
-
-```
-ชายศีรษะล้านในชุดสูทสีดำและหมวกเฟโดรากำลังร้องเพลงอย่างเต็มอารมณ์ผ่านไมโครโฟนวินเทจ ปากขยับตามจังหวะเพลงอย่างชัดเจน มือแสดงท่าทางอย่างมีจิตวิญญาณ ร่างกายโยกตามจังหวะดนตรีเล็กน้อย หมวกเฟโดราเอียงได้รูป โดยมีวงดนตรีบิ๊กแบนด์บรรเลงเครื่องเป่าอยู่ด้านหลัง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149124071718912/img/OSlPpSt103JVK9Gf.jpg" width="600" alt="นักร้องเพลงแจ๊สสไตล์วินเทจ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9086)**
-
-**Author:** [pistacchione](https://x.com/Oldtool9) | **Source:** [Link](https://x.com/Oldtool9/status/2088149153813577744) | **Published:** Aug 14, 2026
-
----
-### ลำดับภาพยนตร์การเดินทางข้ามเวลาผ่านประตูมิติ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ลำดับวิดีโอระดับภาพยนตร์ความยาว 15 วินาทีที่ถ่ายทอดเรื่องราวของนักเดินทางข้ามเวลาที่ก้าวผ่านรอยแยกของกาลเวลาเข้าสู่ห้วงอวกาศ
-
-#### 📝 Prompt
-
-```
-ลำดับภาพยนตร์ความยาว 15 วินาทีที่ต่อเนื่องและสมจริงขั้นสุด พร้อมองค์ประกอบเหนือจริงที่แนบเนียน ถ่ายทำด้วยเลนส์ Anamorphic ให้เกรนฟิล์ม 35 มม. ที่ละเอียดและมีความคลาดสี (Chromatic Aberration) เล็กน้อย ในสไตล์ของ Christopher Nolan และ Denis Villeneuve
-
-ช่วงเริ่มต้น (0-3 วินาที): นักเดินทางข้ามเวลาผู้โดดเดี่ยว ยืนอยู่ท่ามกลางความว่างเปล่าอันมืดมิดไร้ที่สิ้นสุด สวมเสื้อโค้ทตัวยาวที่ดูผ่านกาลเวลาทับชุด Chronosuit ที่ทำจากทองเหลืองและหนังอย่างประณีต ผ้าของเสื้อโค้ทและผ้าพันคอไหวตัวเล็กน้อยราวกับอยู่ในสภาวะไร้น้ำหนัก ใบหน้าถูกบดบังบางส่วนด้วยหน้ากากสะท้อนแสง
-
-ที่วินาทีที่ 3 รอยแยกแนวตั้งของแสงสีขาวอมฟ้าที่สว่างจ้าฉีกขาดออกตรงหน้าพวกเขาเหมือนการฉีกผ้า ชั้นของยุคสมัยในอดีตและอนาคตที่ซ้อนทับกันไหลทะลักออกมา ไม่ว่าจะเป็นพีระมิดอียิปต์โบราณภายใต้แสงแดดแผดเผา ถนนในยุคแจ๊สปี 1920 ที่คึกคักด้วยรถยนต์ Model T มหานครไซเบอร์พังค์ปี 2080 ที่เต็มไปด้วยแสงนีออน และป่าดึกดำบรรพ์ที่มีหมอกปกคลุมพร้อมต้นไม้ขนาดมหึมา ชั้นภาพเหล่านี้หมุนวนและหลอมรวมเข้าหากันราวกับแก้วเหลว
-
-4-9 วินาที: นักเดินทางก้าวเข้าสู่รอยแยก กล้องเคลื่อนที่แบบ Tracking Orbit อย่างนุ่มนวลและเร่งความเร็วรอบตัวพวกเขาในขณะที่ชั้นของกาลเวลาทวีความเข้มข้น สถาปัตยกรรมและทิวทัศน์หลอมละลายและก่อตัวใหม่ อนุภาคของฟันเฟืองนาฬิกาที่เรืองแสง เม็ดทราย ละอองนีออน และใบไม้หมุนวนด้วยฟิสิกส์ของของเหลวที่สมจริง ลมและพลังงานดึงรั้งเสื้อโค้ทและเส้นผมอย่างรุนแรง
-
-9-12 วินาที: ทุกอย่างเร่งความเร็วเข้าสู่การล่มสลายที่โกลาหลและงดงามมุ่งสู่จุดเดียวของแสงที่เข้มข้น นั่นคือภาวะเอกฐาน (Singularity) กล้องเริ่มถอยออกอย่างรวดเร็ว
-
-12-15 วินาที: ภาวะเอกฐานขยายตัวออกสู่มุมมองที่เงียบสงบและน่าทึ่งของโลกจากวงโคจรระดับสูงในช่วงเวลา Golden Hour มหาสมุทรสีครามและกลุ่มเมฆสีขาวที่หมุนวนเรืองแสงอย่างนุ่มนวล นักเดินทางกลายเป็นเพียงเงาร่างเล็กๆ ที่ลอยอยู่อย่างสงบในฉากหน้า หันหน้าเข้าหาโลก พร้อมแสง Volumetric God Rays และหมอกบรรยากาศ
-
-การจัดแสง: ความเปรียบต่างสูงระหว่างสีดำสนิทของความว่างเปล่ากับสีขาว/ฟ้าที่เย็นตาของประตูมิติ เปลี่ยนผ่านสู่แสงแดดสีทองที่อบอุ่น มีไฮไลท์สะท้อนบนโลหะและหน้ากาก พร้อมแสง Volumetric ตลอดทั้งฉาก
-
-การออกแบบเสียง: เริ่มต้นด้วยเสียงคำรามความถี่ต่ำของความว่างเปล่าและเสียงเข็มนาฬิกาเดินเบาๆ สร้างความตื่นเต้นด้วยเสียงฉีกขาดของกระแสไฟฟ้าเมื่อประตูมิติเปิดออก ผสมผสานกับเสียงบรรยากาศของยุคสมัยต่างๆ (เสียงม้าและเสียงตลาดที่ไกลออกไป, เสียงแซกโซโฟนแจ๊ส, เสียงฝนและเสียงหึ่งของนีออนในเมืองไซเบอร์พังค์, เสียงลมและนกในป่า) ดนตรีออร์เคสตราที่ค่อยๆ เพิ่มความตึงเครียดและโทนเสียงที่ล่องลอย ไปจนถึงจุดสูงสุดด้วยเสียงกังวานใสที่ภาวะเอกฐาน จากนั้นจึงคลี่คลายสู่ความเงียบสงบของอวกาศ พร้อมเสียงหัวใจเต้นแผ่วเบาจากระยะไกลและเสียงหึ่งของวงโคจรที่นุ่มนวล
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088143927710822400/img/P6C2auiwtspVMggi.jpg" width="600" alt="ลำดับภาพยนตร์การเดินทางข้ามเวลาผ่านประตูมิติ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9094)**
-
-**Author:** [Time Traveler](https://x.com/singularitymuse) | **Source:** [Link](https://x.com/singularitymuse/status/2088144011378745848) | **Published:** Aug 14, 2026
-
----
-### การสร้างภาพจำลองปืนรางพลาสม่า MAHEM
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> การสร้างภาพจำลองทางวิทยาศาสตร์ของเทคโนโลยีอาวุธระเบิดแบบแมกนีโตไฮโดรไดนามิก (Magneto-Hydrodynamic Explosive Munition)
-
-#### 📝 Prompt
-
-```
-ภาพจำลองของ MAHEM (Magneto-Hydrodynamic Explosive Munition) ที่ได้รับการพัฒนาไปสู่ปืนรางพลาสม่าขนาดกะทัดรัด ภายในปี 2025–2026 DARPA ได้สาธิตระบบขดลวดแบบหลายรอบที่สามารถบีบอัดและหมุนเวียนพลาสม่า เพื่อให้ได้ความหนาแน่นของกระแสไฟฟ้าที่สูงขึ้นและ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088137508551094272/img/4lLlkUqvJKUC8pDK.jpg" width="600" alt="การสร้างภาพจำลองปืนรางพลาสม่า MAHEM">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9089)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088137563571998981) | **Published:** Aug 14, 2026
-
----
-### ฉากอวกาศฟิสิกส์ควอนตัม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างภาพจำลองทางวิทยาศาสตร์ที่ซับซ้อน ซึ่งเกี่ยวข้องกับทัศนศาสตร์ควอนตัม ท่อฟลักซ์ และการบีบอัดพลาสมาในสภาพแวดล้อมอวกาศ
-
-#### 📝 Prompt
-
-```
-ขดลวดควอนตัมที่ผสานรวมทัศนศาสตร์ควอนตัม ท่อฟลักซ์ระหว่างดวงจันทร์ไอโอกับดาวพฤหัสบดี เสาอากาศท่าทาง Gyan Mudra และการบีบอัดพลาสมาความหนาแน่นพลังงานสูงในฉากอวกาศ โดยการบีบอัดพลาสมาความหนาแน่นพลังงานสูงนี้ประกอบไปด้วย SHIELD (Self-Healing Inflatable Decelerator) และ L...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088134579383410688/img/MAYVL4isOtq0DEXc.jpg" width="600" alt="ฉากอวกาศฟิสิกส์ควอนตัม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9084)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088134606369529856) | **Published:** Aug 14, 2026
-
----
-### ระบบวงจรพลังงานบนดาวอังคาร (Mars Energy Loop System)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แนวไซไฟที่แสดงภาพระบบพลาสมาพลังงานแบบหมุนเวียนในตัวเองบนดาวอังคาร
-
-#### 📝 Prompt
-
-```
-ฉากบนดาวอังคารที่แสดงให้เห็นระบบวงจรพลังงานแบบหมุนเวียนในตัวเอง ขดลวดที่อยู่ในวงโคจรซึ่งถูกออกแบบมาให้ทนทานต่อฝุ่นและรังสี ทำหน้าที่กักเก็บพลาสมาพลังงานแสงอาทิตย์ ระบบนี้จะย้อนกระแสพลาสมาเพื่อสร้างวงจรป้อนกลับ ซึ่งช่วยสร้างความร้อนให้กับแกนกลางของดาวอังคาร
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088129695648989184/img/dZRJC2GrdDnGScdE.jpg" width="600" alt="ระบบวงจรพลังงานบนดาวอังคาร (Mars Energy Loop System)">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9088)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088129717148975216) | **Published:** Aug 14, 2026
-
----
-### ฉากการต่อสู้ของราชินีนักรบ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่แสดงภาพราชินีในชุดนักรบ ถือดาบ และกำลังขี่ม้าเข้าสู่ฉากการต่อสู้
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอภาพม้ากำลังวิ่งเข้าสู่สนามรบ โดยให้ฉันแต่งกายเป็นนักรบถือดาบ และสวมมงกุฎแบบราชินี
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088105992131387393/img/RYKSv0c37xjiK5-a.jpg" width="600" alt="ฉากการต่อสู้ของราชินีนักรบ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9184)**
-
-**Author:** [loretta Goldthwaite Goldthrite Sanders](https://x.com/loretta824yaho1) | **Source:** [Link](https://x.com/loretta824yaho1/status/2088106006413033633) | **Published:** Aug 14, 2026
-
----
-### ภาพปกอัลบั้มแนวเซอร์เรียลไซเคเดลิกรูปเทวดาตัวน้อย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างภาพปกอัลบั้มแนวเซอร์เรียลไซเคเดลิกที่ซับซ้อน โดยผสมผสานภาพอ้างอิงหลายภาพเข้าด้วยกันเป็นฉากที่มีเทวดาตัวน้อยจ้ำม่ำสุดกบฏเป็นจุดเด่น
-
-#### 📝 Prompt
-
-```
-งานศิลปะปกอัลบั้มแนวเซอร์เรียลไซเคเดลิกที่ทรงพลัง ซึ่งหลอมรวมภาพอ้างอิงทั้งหมดเข้าเป็นฉากเดียวกันอย่างลงตัว ตรงกลางภาพคือเทวดาตัวน้อยสุดกบฏจากภาพที่สี่ ซึ่งเป็นทูตสวรรค์เด็กทารกจ้ำม่ำที่งดงาม groki ai x
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088087541513867264/img/S3EG87dAzwHDuXGR.jpg" width="600" alt="ภาพปกอัลบั้มแนวเซอร์เรียลไซเคเดลิกรูปเทวดาตัวน้อย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9177)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2088087648124743926) | **Published:** Aug 14, 2026
-
----
-### วิดีโอการเดินป่าฝนที่ Manoa Falls
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอที่ให้บรรยากาศเงียบสงบ เน้นการเดินป่าฝนอันเขียวชอุ่มไปยัง Manoa Falls พร้อมด้วยผลไม้สด เครื่องดื่ม และใบไม้สีเขียวขนาดใหญ่
-
-#### 📝 Prompt
-
-```
-ไม่มีคำพูดหรือเสียงพากย์ ไม่มีการเคลื่อนไหวที่รวดเร็วเกินไป
-
-ปล่อยใจไปบ้าง: ด้วย... ผลไม้สด แซนด์วิชชิ้นเล็กๆ และเครื่องดื่มเย็นๆ ในกระติก น้ำตกตั้งอยู่บนภูเขา ขับรถจากที่นี่ไปประมาณ 30 นาที ที่นั่นเรียกว่า Manoa Falls เป็นเส้นทางเดินป่าฝนที่เขียวชอุ่มสุดๆ เต็มไปด้วยใบไม้สีเขียวขนาดใหญ่... พร้อมจะไปหรือยัง?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088083245502013440/img/w1zw8vccJYIBsuZr.jpg" width="600" alt="วิดีโอการเดินป่าฝนที่ Manoa Falls">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9182)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088083861888462939) | **Published:** Aug 14, 2026
-
----
-### บรรยากาศคืนวันแข่งขันฟุตบอล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการตัดต่อวิดีโอเพื่อเปลี่ยนฉากให้เป็นเวลากลางคืน โดยมีเกมการแข่งขันของ Steelers ปรากฏบนทีวี
-
-#### 📝 Prompt
-
-```
-เปลี่ยนทิวทัศน์ภายนอกให้เป็นเวลากลางคืน มีทีวีที่กำลังฉายการแข่งขันของ Steelers อยู่ และเธอก็ตะโกนว่าทัชดาวน์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088073692676825088/img/jAOaUCebs7f-35nf.jpg" width="600" alt="บรรยากาศคืนวันแข่งขันฟุตบอล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9097)**
-
-**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2088073752781152305) | **Published:** Aug 14, 2026
-
----
-### พ่อมดแห่งออซในธีมคาวบอยตะวันตกพร้อมไดโนเสาร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแบบผสมผสานที่นำตัวละครจากเรื่อง Wizard of Oz มาอยู่ในฉากคาวบอยตะวันตกยุคเก่า โดยมีไดโนเสาร์ยุคดึกดำบรรพ์ปรากฏอยู่เป็นฉากหลัง
-
-#### 📝 Prompt
-
-```
-Wizard of Oz ในฉากหลังแบบคาวบอยตะวันตกยุคเก่าและมีไดโนเสาร์บางตัวอยู่เป็นฉากหลัง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088066196516339712/img/HUQcIMq7mlSxR_nY.jpg" width="600" alt="พ่อมดแห่งออซในธีมคาวบอยตะวันตกพร้อมไดโนเสาร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9181)**
-
-**Author:** [Spacecowboy](https://x.com/Spacedragon22) | **Source:** [Link](https://x.com/Spacedragon22/status/2088066209095065908) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2180,6 +2164,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-22T04:55:35.656Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-22T08:53:24.380Z</sub>
 
 </div>

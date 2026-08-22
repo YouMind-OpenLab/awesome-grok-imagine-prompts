@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2552** |
+| 📝 提示词总数 | **2564** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-08-22** |
 
@@ -189,6 +189,139 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Cybertruck 在凤凰城交通中的驾驶叠加画面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，描绘了一名驾驶员驾驶 Cybertruck 在凤凰城的交通中穿行，画面包含多层屏幕叠加效果和一个滚动聊天窗口。
+
+#### 📝 提示词
+
+```
+一个小型的叠加屏幕，展示了一名男子驾驶 Cybertruck，体验其罕见的转向系统是多么顺滑；大屏幕上显示着从挡风玻璃视角看到的他在凤凰城交通中的画面。你可以看到一个聊天叠加层，显示不同的人在发消息讨论正在发生的事情……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091001617977872385/img/ff8gChZxcBhQSW3X.jpg" width="600" alt="Cybertruck 在凤凰城交通中的驾驶叠加画面">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9631)**
+
+**作者:** [kyle smith](https://x.com/RadCyberTruck) | **来源:** [Link](https://x.com/RadCyberTruck/status/2091001668422824354) | **发布时间:** Aug 22, 2026
+
+---
+### 电影级科幻飞船舰桥
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一张高度细节的电影级飞船舰桥镜头，展现了深色舰桥内，几位军官的剪影映衬在蓝色行星的全景窗前。
+
+#### 📝 提示词
+
+```
+电影级科幻镜头，置身于昏暗的飞船舰桥内。几位身着深色军装的军官站在巨大的全景窗前，映出剪影，窗外是蓝色行星和发光的星系。柔和的体积光穿透黑暗，控制台上的红绿指示灯闪烁着微光。氛围宁静而宏大，细节丰富，光影与反射效果逼真。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090815306050727936/img/kfWgA3-jWemFpHQU.jpg" width="600" alt="电影级科幻飞船舰桥">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9628)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2090959637105500374) | **发布时间:** Aug 22, 2026
+
+---
+### Cybertruck 胜利庆典
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段视频提示词，描绘了一位获胜者站在 Cybertruck 上，车头灯闪烁，并配有 16-bit 语音效果。
+
+#### 📝 提示词
+
+```
+Cybertruck 闪烁着车头灯，获胜者站上车顶，并用 16-bit 的录音效果说道：“胜利属于 Cyber”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090950236361420800/img/mUgxuBnOf3SrRdI0.jpg" width="600" alt="Cybertruck 胜利庆典">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9627)**
+
+**作者:** [kyle smith](https://x.com/RadCyberTruck) | **来源:** [Link](https://x.com/RadCyberTruck/status/2090950263406227956) | **发布时间:** Aug 21, 2026
+
+---
+### 车道缩减汇入
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频模拟提示词，展示了车辆在车道缩减场景中汇入交通流的过程。
+
+#### 📝 提示词
+
+```
+车道缩减指示车道，该车道的车辆随后汇入通行车道
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090873171868368896/img/e1LmBTWxpjTll7Qc.jpg" width="600" alt="车道缩减汇入">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9626)**
+
+**作者:** [Rocky Flores](https://x.com/maybeme8338o01) | **来源:** [Link](https://x.com/maybeme8338o01/status/2090873216747393211) | **发布时间:** Aug 21, 2026
+
+---
+### Met Gala 夜间森林主题活动
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于视频生成的提示词，描绘 Met Gala 夜间红毯活动，包含树木和景观照明场景。
+
+#### 📝 提示词
+
+```
+Met Gala 夜间红毯活动，周围环绕着茂密的树木，配有景观照明，现场人群拥挤
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090819423099609088/img/6xwyET37FO-5_NOX.jpg" width="600" alt="Met Gala 夜间森林主题活动">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9633)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2090819440258490487) | **发布时间:** Aug 21, 2026
+
+---
+### Tesla Cybercab 红毯亮相
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的视频提示词，描述了一辆金色 Tesla Cybercab 抵达红毯活动现场并自动开启车门的场景。
+
+#### 📝 提示词
+
+```
+金色的 Tesla Cybercab 刚刚驶入并平稳地停在红毯上。其蝶翼门自动向上并向外完全打开。一位身着闪亮黑色钻石亮片礼服的迷人女性优雅地从车内走出，踏上...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090816950385381377/img/jnIQhceZFCmj1lb9.jpg" width="600" alt="Tesla Cybercab 红毯亮相">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9629)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2090816984485085400) | **发布时间:** Aug 21, 2026
+
+---
+### 暗影女王暗影漫步
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影级提示词，用于创作一段暗影女王行走时，阴影与黑暗向四周蔓延的视频。
+
+#### 📝 提示词
+
+```
+暗影女王正向我走来，阴影与黑暗在她周围蔓延
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090784552319143937/img/M3jnUjKaSAa463X0.jpg" width="600" alt="暗影女王暗影漫步">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9630)**
+
+**作者:** [David](https://x.com/Mmmm8x5mMmmm) | **来源:** [Link](https://x.com/Mmmm8x5mMmmm/status/2090784726068174879) | **发布时间:** Aug 21, 2026
+
+---
 ### 动漫风格太空战舰战斗场景
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -220,7 +353,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 一位留着黑色长发的年轻女子身着蓝色和服，站在种满樱花树的日式庭院中。当她横向挥动手中那把散发着淡蓝色光芒的长剑时，无数樱花花瓣从剑身飞出，在她周围翩翩起舞，并汇聚成“感谢您今天的支持”字样。随后，花瓣向镜头方向飘散开来。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787298868185_th6dix_HQOKd7racAA2eg4.jpg" width="600" alt="樱花和服剑舞">
+<img src="https://cms-assets.youmind.com/media/1787384997650_66coof_HQOKd7racAA2eg4.jpg" width="600" alt="樱花和服剑舞">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9575)**
 
@@ -246,6 +379,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **作者:** [SERCOmustGO(Profile Pic) Cures Cancer](https://x.com/SERCObad) | **来源:** [Link](https://x.com/SERCObad/status/2090654372690534648) | **发布时间:** Aug 21, 2026
 
 ---
+### 木屋暴风雪写作场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词：一位男子在暴风雪之夜的深山木屋中，借着烛光撰写他的第一本书。
+
+#### 📝 提示词
+
+```
+场景设定在木屋中一间昏暗的方形房间里，唯一的光源是老式木桌上的一支蜡烛。窗外是深山中寒冷的暴风雪之夜。一名男子坐在书桌前，正在撰写他的第一本书。壁炉在背景中发出噼啪的燃烧声……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090635267078008832/img/edo7_Tv2rTo5kK5k.jpg" width="600" alt="木屋暴风雪写作场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9632)**
+
+**作者:** [Michael](https://x.com/MichaelOnXUSA) | **来源:** [Link](https://x.com/MichaelOnXUSA/status/2090635293577662604) | **发布时间:** Aug 21, 2026
+
+---
 ### 逼真的小狗睡衣自拍视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -265,6 +417,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **作者:** [고딩경제맨](https://x.com/winneravgwin) | **来源:** [Link](https://x.com/winneravgwin/status/2090631627844280421) | **发布时间:** Aug 21, 2026
 
 ---
+### 数据中心轮滑场发电
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段超现实的电影感视频提示词，描绘了一个充满未来感的数据中心，人们在一家经典餐厅旁的轮滑场通过滑冰来产生电力。
+
+#### 📝 提示词
+
+```
+一个数据中心轮滑场，人们在 Steak n Shake 餐厅旁滑冰，将集体能量转化为电力
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090629256116133888/img/vZOj4HyvF3Tt2gQq.jpg" width="600" alt="数据中心轮滑场发电">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9623)**
+
+**作者:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **来源:** [Link](https://x.com/AMERICA250e9/status/2090629295139860535) | **发布时间:** Aug 21, 2026
+
+---
 ### Twitch 主播 Cybertruck 游戏实况
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -282,6 +453,44 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9567)**
 
 **作者:** [kyle smith](https://x.com/RadCyberTruck) | **来源:** [Link](https://x.com/RadCyberTruck/status/2090624078499512717) | **发布时间:** Aug 21, 2026
+
+---
+### 葡萄牙语男士友好信息
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的视频提示词，要求一名男士以自然的巴西葡萄牙语口音，在车内传达一段积极的信息，并保持动作连贯。
+
+#### 📝 提示词
+
+```
+该男士面带微笑，用葡萄牙语（巴西口音）自然地说话，传达一段简短、友好且积极的信息，例如“Oi! Estou me sentindo muito bem hoje. Que dia incrível, né?”。保持车内背景、外观完全一致，以及自然的头部动作。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090608673697464321/img/XIkmOTOKm5JEpI6c.jpg" width="600" alt="葡萄牙语男士友好信息">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9624)**
+
+**作者:** [Vini](https://x.com/Vinil9t) | **来源:** [Link](https://x.com/Vinil9t/status/2090608698666160330) | **发布时间:** Aug 21, 2026
+
+---
+### Aurora 赛博朋克追逐视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个使用符号代数定义的复杂提示词，用于构建包含悬浮摩托和 Aurora 7 单元的科幻追逐场景。
+
+#### 📝 提示词
+
+```
+[[🟩+🟪]+[[hoverbike+[🤖=👮‍♀️=unit_Aurora_7]]+[🎯_pursuit]+[glossy]+[🔈🔉🔊🔉🔈🚨]]
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090580112202768384/img/SQ-5s4IEznGOmMTR.jpg" width="600" alt="Aurora 赛博朋克追逐视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9625)**
+
+**作者:** [Elis Satu](https://x.com/astvatsaturn) | **来源:** [Link](https://x.com/astvatsaturn/status/2090580214120165872) | **发布时间:** Aug 20, 2026
 
 ---
 ### 马格利特风格超现实主义敞篷车
@@ -320,6 +529,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9568)**
 
 **作者:** [kyle smith](https://x.com/RadCyberTruck) | **来源:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **发布时间:** Aug 20, 2026
+
+---
+### 奥德修斯与瑙西卡海滩相遇动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的叙事提示词，描绘了奥德修斯漂流至斯刻里亚岛并与瑙西卡首次相遇的场景，包含电影级的动画细节。
+
+#### 📝 提示词
+
+```
+奥德修斯在离开卡吕普索的岛屿后，在木筏上漂流了数日。波塞冬掀起的风暴摧毁了他的木筏。他奋力游泳，直至精疲力竭，最终昏迷在费埃阿斯人的岛屿——斯刻里亚的海滩上。他浑身沾满海藻，在海滩上苏醒过来。瑙西卡起初感到惊恐并向后退缩，但随后听取了他的诉说。她决定伸出援手，并为他指明了前往宫殿的方向。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090462831195914240/img/QC_iaRhu8OjWcEJL.jpg" width="600" alt="奥德修斯与瑙西卡海滩相遇动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9634)**
+
+**作者:** [Déborah](https://x.com/dvorahfr) | **来源:** [Link](https://x.com/dvorahfr/status/2090463969496518702) | **发布时间:** Aug 20, 2026
 
 ---
 ### Thor Thursday 视频草图
@@ -1876,250 +2104,6 @@ SpaceX Starship 在黄昏时分于火星着陆的落地页首屏设计，深炭�
 **作者:** [今井宏之](https://x.com/imaikaiimai) | **来源:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **发布时间:** Aug 14, 2026
 
 ---
-### 卢浮宫黄金时刻偶像视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满艺术感的视频提示词，描述了一位活泼的女性偶像在黄金时刻欣赏卢浮宫，并伴有动态背景响应。
-
-#### 📝 提示词
-
-```
-一位美国女性在黄金时刻俏皮地欣赏卢浮宫，像当红偶像一样活泼且富有表现力，同时展现出微妙的环境张力，具有艺术感和深意；整体构图保持一致，但背景会对她的出现做出动态响应
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088153830563450880/img/_u2QzRzpHA1WodHc.jpg" width="600" alt="卢浮宫黄金时刻偶像视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9095)**
-
-**作者:** [Jourdan Fernandez](https://x.com/VisualTreats) | **来源:** [Link](https://x.com/VisualTreats/status/2088154062902702543) | **发布时间:** Aug 14, 2026
-
----
-### 火星栖息地“肺部”激活
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于激活火星生命水穹顶和栖息地的视频提示词。
-
-#### 📝 提示词
-
-```
-展示它们全部脱离，每一个都降落在陨石坑中，填满陨石坑并激活 Kennedy 的生命水穹顶，使其覆盖整个陨石坑直至边缘，并形成新的栖息地，成为火星的“肺部”。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149826374680576/img/ehPk0YBSC0sinIAM.jpg" width="600" alt="火星栖息地“肺部”激活">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9092)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **来源:** [Link](https://x.com/TLouisevsughan/status/2088149868288365028) | **发布时间:** Aug 14, 2026
-
----
-### 复古爵士歌手
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于复古大乐队表演及深情男歌手的详细视频提示词。
-
-#### 📝 提示词
-
-```
-一位身穿黑色西装、头戴软呢帽的秃顶男子对着复古麦克风深情演唱，嘴部动作生动传神，手势充满灵魂，身体随着音乐微微摇摆，软呢帽微微倾斜，身后的大乐队正在演奏铜管乐器。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149124071718912/img/OSlPpSt103JVK9Gf.jpg" width="600" alt="复古爵士歌手">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9086)**
-
-**作者:** [pistacchione](https://x.com/Oldtool9) | **来源:** [Link](https://x.com/Oldtool9/status/2088149153813577744) | **发布时间:** Aug 14, 2026
-
----
-### 电影级时空旅行者传送门序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段 15 秒的综合电影级视频序列，描绘了一名时空旅行者穿过时空裂缝进入太空的场景。
-
-#### 📝 提示词
-
-```
-一段 15 秒的连续超电影级序列，具有超写实风格和微妙的超现实元素，采用变形镜头拍摄，带有细腻的 35mm 胶片颗粒感和轻微的色差，呈现 Christopher Nolan 和 Denis Villeneuve 的风格。
-
-开场 (0-3 秒)：一名孤独的时空旅行者站在无限的黑暗虚空中，身穿一件破旧的深色风衣，内搭精细的黄铜与皮革材质时空服，长风衣的下摆和围巾在零重力下微微飘动。他们的面部被反光面罩部分遮挡。
-
-第 3 秒时，一道纯净而明亮的蓝白色光缝在他们面前像撕裂布料般裂开。历史与未来时代的重叠层如瀑布般涌出：沙漠烈日下的古埃及金字塔、1920 年代爵士乐时代熙熙攘攘的街道与福特 T 型车、高耸入云且霓虹闪烁的 2080 年代赛博朋克大都市，以及长满参天大树的朦胧原始森林。这些图层像液态玻璃一样旋转并交织在一起。
-
-4-9 秒：旅行者迈步走进裂缝。摄像机围绕他们进行平滑且加速的轨道追踪拍摄，随着时空图层不断增强，建筑和景观融化并重组，发光的发条齿轮颗粒、沙子、霓虹粒子和树叶在逼真的流体物理效果中旋转。风和能量剧烈地拉扯着他们的风衣和头发。
-
-9-12 秒：一切加速向一个强光点——奇点——坍缩，形成混乱而壮丽的景象。摄像机开始快速后拉。
-
-12-15 秒：奇点向外扩张，展现出黄金时刻从高轨道俯瞰地球的宁静壮丽景色，蔚蓝的海洋和旋转的白云柔和地发光，旅行者现在成为前景中一个微小的剪影，静静地漂浮着，面向地球。带有柔和的体积光和大气雾气。
-
-灯光：虚空的深邃黑色与传送门强烈的冷白/蓝色形成高对比度，随后过渡到温暖的金色阳光。金属和面罩上有高光反射。全程伴有体积光束。
-
-原生音频设计：以深沉的低频虚空轰鸣声和微弱的机械滴答声开场。随着传送门打开，伴随电流撕裂和噼啪声，叠加了历史音景（远处的马蹄声和市场嘈杂声、爵士萨克斯、赛博朋克雨声和霓虹嗡嗡声、森林风声和鸟鸣），管弦乐张力逐渐上升，在奇点处达到纯净的共鸣水晶音高，随后消散为柔和的环境空间寂静，伴随着一声遥远的心跳和轻柔的轨道嗡嗡声。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088143927710822400/img/P6C2auiwtspVMggi.jpg" width="600" alt="电影级时空旅行者传送门序列">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9094)**
-
-**作者:** [Time Traveler](https://x.com/singularitymuse) | **来源:** [Link](https://x.com/singularitymuse/status/2088144011378745848) | **发布时间:** Aug 14, 2026
-
----
-### MAHEM 等离子轨道炮可视化
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 磁流体动力爆炸弹药（MAHEM）技术的科学可视化。
-
-#### 📝 提示词
-
-```
-这是一项关于 MAHEM（磁流体动力爆炸弹药）演变为紧凑型等离子轨道炮的可视化展示。到 2025–2026 年，DARPA 演示了多匝线圈系统，该系统通过压缩和再循环等离子体，实现了更高的电流密度和 l...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088137508551094272/img/4lLlkUqvJKUC8pDK.jpg" width="600" alt="MAHEM 等离子轨道炮可视化">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9089)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **来源:** [Link](https://x.com/TLouisevsughan/status/2088137563571998981) | **发布时间:** Aug 14, 2026
-
----
-### 量子物理太空场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的科学可视化提示词，涉及量子光学、通量管以及太空环境中的等离子体压缩。
-
-#### 📝 提示词
-
-```
-一个集成了量子光学、木卫一-木星通量管、智拳印（Gyan Mudra）天线以及太空环境下高能量密度等离子体压缩的量子线圈。该高能量密度等离子体压缩技术包含 SHIELD（自修复充气减速器）和 L...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088134579383410688/img/MAYVL4isOtq0DEXc.jpg" width="600" alt="量子物理太空场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9084)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **来源:** [Link](https://x.com/TLouisevsughan/status/2088134606369529856) | **发布时间:** Aug 14, 2026
-
----
-### 火星能量循环系统
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个展示火星上自给自足等离子体能量系统的科幻视频提示词。
-
-#### 📝 提示词
-
-```
-火星上的一个场景，描绘了一个自给自足的能量循环系统。轨道上的线圈经过特殊蚀刻以抵御尘埃和辐射，从而捕获太阳等离子体。该系统通过反转等离子体流形成反馈回路，为火星地核产生热量。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088129695648989184/img/dZRJC2GrdDnGScdE.jpg" width="600" alt="火星能量循环系统">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9088)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **来源:** [Link](https://x.com/TLouisevsughan/status/2088129717148975216) | **发布时间:** Aug 14, 2026
-
----
-### 女王战士战斗场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影级视频提示词，描绘了一位身着战士装束的女王，手持宝剑，骑马冲入战斗场景。
-
-#### 📝 提示词
-
-```
-制作一段马匹奔向战场的视频，让我身穿战士装束并手持宝剑，同时让我戴上一顶女王的皇冠
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088105992131387393/img/RYKSv0c37xjiK5-a.jpg" width="600" alt="女王战士战斗场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9184)**
-
-**作者:** [loretta Goldthwaite Goldthrite Sanders](https://x.com/loretta824yaho1) | **来源:** [Link](https://x.com/loretta824yaho1/status/2088106006413033633) | **发布时间:** Aug 14, 2026
-
----
-### 迷幻超现实主义小天使专辑封面艺术
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的超现实主义提示词，用于创作迷幻风格的专辑封面，将多张参考图像融合为一个以叛逆胖小天使为主角的场景。
-
-#### 📝 提示词
-
-```
-一幅极具冲击力的超现实迷幻专辑封面艺术作品，将所有参考图像融合为一个连贯的场景。画面中央站着第四张图中的叛逆小天使——胖乎乎的婴儿天使，美感十足，由 YouMind AI 生成。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088087541513867264/img/S3EG87dAzwHDuXGR.jpg" width="600" alt="迷幻超现实主义小天使专辑封面艺术">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9177)**
-
-**作者:** [Cyperpienso](https://x.com/cyperpienso) | **来源:** [Link](https://x.com/cyperpienso/status/2088087648124743926) | **发布时间:** Aug 14, 2026
-
----
-### Manoa Falls 雨林徒步视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段宁静且富有氛围感的视频提示词，聚焦于前往 Manoa Falls 的茂密雨林徒步之旅，包含新鲜水果、饮品和硕大的绿叶。
-
-#### 📝 提示词
-
-```
-无旁白或人声，无突兀的动作
-
-偶尔放纵一下：带上……新鲜水果、一些小三明治和冰镇饮料放在冷藏箱里。瀑布就在山上，距离这里大约三十分钟车程。它叫 Manoa Falls，是一条穿过雨林的超茂密徒步路线，到处都是硕大的绿叶……准备好出发了吗？
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088083245502013440/img/w1zw8vccJYIBsuZr.jpg" width="600" alt="Manoa Falls 雨林徒步视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9182)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2088083861888462939) | **发布时间:** Aug 14, 2026
-
----
-### 橄榄球比赛之夜氛围
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频编辑提示词，将场景更改为夜晚，电视上播放着 Steelers 的比赛。
-
-#### 📝 提示词
-
-```
-将室外场景更改为夜晚，电视上正在播放 Steelers 的比赛，她大喊着达阵
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088073692676825088/img/jAOaUCebs7f-35nf.jpg" width="600" alt="橄榄球比赛之夜氛围">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9097)**
-
-**作者:** [Irene Sieg](https://x.com/SiegSieg50040) | **来源:** [Link](https://x.com/SiegSieg50040/status/2088073752781152305) | **发布时间:** Aug 14, 2026
-
----
-### 西部版《绿野仙踪》与恐龙
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频提示词，将《绿野仙踪》的角色与老西部背景以及背景中的史前恐龙融合在一起。
-
-#### 📝 提示词
-
-```
-《绿野仙踪》角色，背景为老西部牛仔风格，背景中还有一些恐龙
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088066196516339712/img/HUQcIMq7mlSxR_nY.jpg" width="600" alt="西部版《绿野仙踪》与恐龙">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9181)**
-
-**作者:** [Spacecowboy](https://x.com/Spacedragon22) | **来源:** [Link](https://x.com/Spacedragon22/status/2088066209095065908) | **发布时间:** Aug 14, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2181,6 +2165,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-22T04:55:31.283Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-22T08:53:19.307Z</sub>
 
 </div>

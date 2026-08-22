@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2552** |
+| 📝 プロンプト総数 | **2564** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-08-22** |
 
@@ -189,6 +189,139 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Cybertruck でフェニックスの交通状況を走行するオーバーレイ映像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cybertruck を運転してフェニックスの交通の中を進むドライバーを描いた動画生成プロンプト。マルチレイヤーの画面オーバーレイとスクロールするチャットウィンドウが特徴です。
+
+#### 📝 プロンプト
+
+```
+Cybertruck を運転する男性が、希少なステアリングの滑らかさを確かめている様子を映した小さなオーバーレイ画面。大型スクリーンには、フロントガラス越しの視点からフェニックスの交通状況が映し出されています。画面には、状況についてやり取りする人々のチャットオーバーレイが表示されています...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091001617977872385/img/ff8gChZxcBhQSW3X.jpg" width="600" alt="Cybertruck でフェニックスの交通状況を走行するオーバーレイ映像">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9631)**
+
+**作者:** [kyle smith](https://x.com/RadCyberTruck) | **ソース:** [Link](https://x.com/RadCyberTruck/status/2091001668422824354) | **公開日:** Aug 22, 2026
+
+---
+### 映画のような SF 宇宙船のブリッジ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 青い惑星のパノラマビューを背景に、軍の将校たちのシルエットが浮かび上がる、暗い宇宙船のブリッジを捉えた非常に詳細なシネマティックショット。
+
+#### 📝 プロンプト
+
+```
+暗い宇宙船のブリッジ内部を捉えた、映画のような SF ショット。暗い軍服を着た数人の将校が、青い惑星と輝く銀河が広がる巨大なパノラマウィンドウを背にシルエットとなって立っている。柔らかな光の筋が暗闇を切り裂き、コンソールでは赤や緑のコントロールパネルのライトが光を放つ。静寂で壮大な雰囲気、高精細、リアルなライティングと反射。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090815306050727936/img/kfWgA3-jWemFpHQU.jpg" width="600" alt="映画のような SF 宇宙船のブリッジ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9628)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2090959637105500374) | **公開日:** Aug 22, 2026
+
+---
+### Cybertruck 勝利の祝賀
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cybertruck の上でヘッドライトを点滅させながら勝利を祝う勝者と、16 ビットのボイスオーバー効果を表現した動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+Cybertruck がヘッドライトを点滅させ、勝者がその上に乗り、「Victory is Cyber」と 16 ビットの録音音声で語る様子。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090950236361420800/img/mUgxuBnOf3SrRdI0.jpg" width="600" alt="Cybertruck 勝利の祝賀">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9627)**
+
+**作者:** [kyle smith](https://x.com/RadCyberTruck) | **ソース:** [Link](https://x.com/RadCyberTruck/status/2090950263406227956) | **公開日:** Aug 21, 2026
+
+---
+### 車線減少時の合流
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 車線減少の状況下で、車両が交通の流れに合流する様子を示すビデオシミュレーション用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+車線減少の標識があり、その車線を走行していた車両が直進車線へと合流する
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090873171868368896/img/e1LmBTWxpjTll7Qc.jpg" width="600" alt="車線減少時の合流">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9626)**
+
+**作者:** [Rocky Flores](https://x.com/maybeme8338o01) | **ソース:** [Link](https://x.com/maybeme8338o01/status/2090873216747393211) | **公開日:** Aug 21, 2026
+
+---
+### Met Gala ナイトフォレストイベント
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Met Gala の夜のレッドカーペットイベントを想定した、木々とランドスケープ照明が特徴的な動画生成用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+夜の Met Gala のレッドカーペットイベント、周囲にはたくさんの木々、ランドスケープ照明、大勢の観衆
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090819423099609088/img/6xwyET37FO-5_NOX.jpg" width="600" alt="Met Gala ナイトフォレストイベント">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9633)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2090819440258490487) | **公開日:** Aug 21, 2026
+
+---
+### Tesla Cybercab のレッドカーペット到着
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ゴールドの Tesla Cybercab がレッドカーペットイベントに到着し、自動ドアが開く様子を描写した詳細な動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+ゴールドの Tesla Cybercab が到着し、レッドカーペット上でスムーズに停止します。バタフライドアが自動的に上部および外側へと大きく開きます。きらめく黒いダイヤモンドのスパンコールドレスをまとった魅力的な女性が、優雅に車から降りて……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090816950385381377/img/jnIQhceZFCmj1lb9.jpg" width="600" alt="Tesla Cybercab のレッドカーペット到着">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9629)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2090816984485085400) | **公開日:** Aug 21, 2026
+
+---
+### Queen of Darkness Shadow Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 闇の女王が歩き、周囲に影と闇が広がっていく様子を描写するシネマティックな動画生成用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+闇の女王がこちらに向かって歩いてくる。周囲には影と闇が広がっている
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090784552319143937/img/M3jnUjKaSAa463X0.jpg" width="600" alt="Queen of Darkness Shadow Walk">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9630)**
+
+**作者:** [David](https://x.com/Mmmm8x5mMmmm) | **ソース:** [Link](https://x.com/Mmmm8x5mMmmm/status/2090784726068174879) | **公開日:** Aug 21, 2026
+
+---
 ### アニメ風宇宙戦艦の戦闘シーン
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -220,7 +353,7 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 桜の木が立ち並ぶ日本庭園に、黒髪の長い若い女性が青い着物ドレス姿で立っている。彼女が手に持った淡く光る剣を横に振ると、剣から無数の桜の花びらが舞い上がり、彼女の周りで踊りながら「今日も応援してくれてありがとう」というメッセージを形作る。その後、花びらはカメラに向かって散っていく。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787298868185_th6dix_HQOKd7racAA2eg4.jpg" width="600" alt="桜の着物剣舞">
+<img src="https://cms-assets.youmind.com/media/1787384997650_66coof_HQOKd7racAA2eg4.jpg" width="600" alt="桜の着物剣舞">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9575)**
 
@@ -246,6 +379,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **作者:** [SERCOmustGO(Profile Pic) Cures Cancer](https://x.com/SERCObad) | **ソース:** [Link](https://x.com/SERCObad/status/2090654372690534648) | **公開日:** Aug 21, 2026
 
 ---
+### 山小屋の吹雪の中での執筆シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 吹雪の山小屋で、キャンドルの明かりを頼りに初めての著書を執筆する男性のシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+舞台はログハウスの薄暗い四角い部屋。唯一の光源は、古い木製の机の上に置かれたキャンドルのみです。木々に囲まれた山間部は、吹雪が吹き荒れる寒い夜。男性が机に座り、自身初となる著書を執筆しています。奥では暖炉がパチパチと音を立てて燃えており……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090635267078008832/img/edo7_Tv2rTo5kK5k.jpg" width="600" alt="山小屋の吹雪の中での執筆シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9632)**
+
+**作者:** [Michael](https://x.com/MichaelOnXUSA) | **ソース:** [Link](https://x.com/MichaelOnXUSA/status/2090635293577662604) | **公開日:** Aug 21, 2026
+
+---
 ### リアルな子犬のパジャマ姿の自撮り動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -265,6 +417,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **作者:** [고딩경제맨](https://x.com/winneravgwin) | **ソース:** [Link](https://x.com/winneravgwin/status/2090631627844280421) | **公開日:** Aug 21, 2026
 
 ---
+### データセンターのローラースケート場による発電
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 未来的なデータセンターを舞台に、人々がローラースケート場で滑ることで電力を生み出し、その隣に昔ながらのレストランがある様子を描いた、シュールで映画のような動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+ステーキ・アンド・シェイクの隣で、人々がグループでローラースケートをしてエネルギーを生み出し、それを電力に変換するデータセンターのローラースケート場
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090629256116133888/img/vZOj4HyvF3Tt2gQq.jpg" width="600" alt="データセンターのローラースケート場による発電">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9623)**
+
+**作者:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **ソース:** [Link](https://x.com/AMERICA250e9/status/2090629295139860535) | **公開日:** Aug 21, 2026
+
+---
 ### Twitch ストリーマーによる Cybertruck ゲームプレイ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -282,6 +453,44 @@ Twitch で Cybertruck の 3D ゲームをライブ配信する女性の映像。
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9567)**
 
 **作者:** [kyle smith](https://x.com/RadCyberTruck) | **ソース:** [Link](https://x.com/RadCyberTruck/status/2090624078499512717) | **公開日:** Aug 21, 2026
+
+---
+### ポルトガル語を話す男性のフレンドリーなメッセージ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ブラジル系ポルトガル語のアクセントで自然に話し、車内から前向きなメッセージを伝える男性の動画用詳細プロンプト。一貫した動きを維持します。
+
+#### 📝 プロンプト
+
+```
+男性が笑顔で、ポルトガル語（ブラジル訛り）で自然に話します。「Oi! Estou me sentindo muito bem hoje. Que dia incrível, né?」（やあ！今日はとても気分がいいんだ。最高の1日だよね？）といった、短くフレンドリーで前向きなメッセージを伝えてください。車内の背景、外見の一貫性、自然な頭の動きを維持してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090608673697464321/img/XIkmOTOKm5JEpI6c.jpg" width="600" alt="ポルトガル語を話す男性のフレンドリーなメッセージ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9624)**
+
+**作者:** [Vini](https://x.com/Vinil9t) | **ソース:** [Link](https://x.com/Vinil9t/status/2090608698666160330) | **公開日:** Aug 21, 2026
+
+---
+### Aurora Cyberpunk Pursuit Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 記号代数を用いて、ホバーバイクとユニット Aurora 7 による SF チェイスシーンを定義した複雑なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+[[🟩+🟪]+[[hoverbike+[🤖=👮‍♀️=unit_Aurora_7]]+[🎯_pursuit]+[glossy]+[🔈🔉🔊🔉🔈🚨]]
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090580112202768384/img/SQ-5s4IEznGOmMTR.jpg" width="600" alt="Aurora Cyberpunk Pursuit Video">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9625)**
+
+**作者:** [Elis Satu](https://x.com/astvatsaturn) | **ソース:** [Link](https://x.com/astvatsaturn/status/2090580214120165872) | **公開日:** Aug 20, 2026
 
 ---
 ### マグリット風シュルレアリスムのコンバーチブル
@@ -320,6 +529,25 @@ Twitch で Cybertruck の 3D ゲームをライブ配信する女性の映像。
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9568)**
 
 **作者:** [kyle smith](https://x.com/RadCyberTruck) | **ソース:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **公開日:** Aug 20, 2026
+
+---
+### オデュッセウスとナウシカアの浜辺での出会いのアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> オデュッセウスがスキリア島に漂着し、ナウシカアと初めて出会う場面を描いた詳細なナラティブプロンプト。映画のようなアニメーションの演出を含みます。
+
+#### 📝 プロンプト
+
+```
+カリュプソーの島を離れた後、オデュッセウスは数日間いかだで漂流していました。ポセイドンが巻き起こした嵐によっていかだは破壊され、彼は力尽きるまで泳ぎ続け、パイアケス人の島であるスキリアの浜辺に意識を失った状態で打ち上げられました。疲労困憊し、海藻にまみれた彼が浜辺で意識を取り戻します。最初は怯えて後ずさりしたナウシカアでしたが、やがて彼の話に耳を傾けます。彼女は彼を助けることを決め、宮殿への道を教えます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090462831195914240/img/QC_iaRhu8OjWcEJL.jpg" width="600" alt="オデュッセウスとナウシカアの浜辺での出会いのアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9634)**
+
+**作者:** [Déborah](https://x.com/dvorahfr) | **ソース:** [Link](https://x.com/dvorahfr/status/2090463969496518702) | **公開日:** Aug 20, 2026
 
 ---
 ### Thor Thursday ビデオスケッチ
@@ -1875,250 +2103,6 @@ SpaceX 軌道上燃料補給デポのランディングページ・ヒーロー�
 **作者:** [今井宏之](https://x.com/imaikaiimai) | **ソース:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **公開日:** Aug 14, 2026
 
 ---
-### ルーヴル美術館のゴールデンアワーとアイドル動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ゴールデンアワーのルーヴル美術館で、周囲の環境と動的に反応し合いながら楽しげに過ごす女性アイドルの芸術的な動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-ゴールデンアワーのルーヴル美術館で、人気アイドルのように快活で表情豊かなアメリカ人女性が楽しげに過ごしている様子。ただし、環境との間にわずかな緊張感を持たせ、芸術的で考えさせられるような雰囲気に。全体的な構図は一貫させつつ、彼女の存在に対して背景が動的に反応するように描写。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088153830563450880/img/_u2QzRzpHA1WodHc.jpg" width="600" alt="ルーヴル美術館のゴールデンアワーとアイドル動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9095)**
-
-**作者:** [Jourdan Fernandez](https://x.com/VisualTreats) | **ソース:** [Link](https://x.com/VisualTreats/status/2088154062902702543) | **公開日:** Aug 14, 2026
-
----
-### 火星居住施設の肺の活性化
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 火星における居住用ウォータードームおよび居住施設の活性化のためのビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-それらすべてが分離し、それぞれがクレーターに着陸してクレーターを満たし、Kennedy の居住用ウォータードームを活性化させる様子を描写してください。ドームがクレーターの縁まで広がり、新しい居住施設を覆うことで、火星の「肺」となる様子を表現してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149826374680576/img/ehPk0YBSC0sinIAM.jpg" width="600" alt="火星居住施設の肺の活性化">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9092)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **ソース:** [Link](https://x.com/TLouisevsughan/status/2088149868288365028) | **公開日:** Aug 14, 2026
-
----
-### ヴィンテージ・ジャズ・シンガー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 情熱的なクルーナーが歌い上げる、ヴィンテージなビッグバンド演奏の緻密な動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-黒いスーツにフェドラ帽をかぶったハゲの男性が、ヴィンテージ・マイクに向かって情熱的に歌っている。口元は表情豊かに動き、ソウルフルに手振りをして、音楽に合わせて体をわずかに揺らしている。フェドラ帽を傾け、背後ではビッグバンド・オーケストラがブラスを演奏している
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149124071718912/img/OSlPpSt103JVK9Gf.jpg" width="600" alt="ヴィンテージ・ジャズ・シンガー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9086)**
-
-**作者:** [pistacchione](https://x.com/Oldtool9) | **ソース:** [Link](https://x.com/Oldtool9/status/2088149153813577744) | **公開日:** Aug 14, 2026
-
----
-### シネマティックなタイムトラベラーのポータル映像シーケンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> タイムトラベラーが時空の裂け目を通って宇宙へと足を踏み入れる様子を描いた、15 秒間の包括的なシネマティック映像シーケンス。
-
-#### 📝 プロンプト
-
-```
-15 秒間の連続した超シネマティックなシーケンス。ハイパーフォトリアリスティックな映像に繊細でシュールな要素を加え、アナモフィックレンズで撮影された 35mm フィルムの微細な粒子感と穏やかな色収差を表現。クリストファー・ノーランやドゥニ・ヴィルヌーヴのスタイルを彷彿とさせる映像です。
-
-オープニング (0～3 秒): 無限の暗闇の中に佇む孤独なタイムトラベラー。使い込まれたダークトレンチコートの下には、真鍮とレザーを組み合わせた複雑なクロノスーツを着用しており、無重力空間のようにコートの裾やスカーフがわずかに揺らめいています。顔は反射するバイザーで部分的に隠されています。
-
-3 秒地点: 目の前で純白と青の光の垂直な裂け目が、布を引き裂くように開きます。砂漠の太陽の下に佇む古代エジプトのピラミッド、1920 年代のジャズエイジの賑やかな街並みと T 型フォード、ネオンに彩られた 2080 年代のサイバーパンクな巨大都市、そして霧に包まれた原生林など、歴史と未来の層が重なり合いながら流れ出します。これらの層は、液状のガラスのように互いに渦を巻き、折り重なっていきます。
-
-4～9 秒: トラベラーが裂け目の中へと足を踏み入れます。カメラはトラベラーの周囲を滑らかに加速しながらトラッキングし、時空の層が激しさを増す中で、建築物や風景が溶け合い、再構築されていきます。光り輝く時計の歯車、砂、ネオンの粒子、そして木の葉が、リアルな流体物理学に基づいて渦巻きます。風とエネルギーがコートと髪を劇的になびかせます。
-
-9～12 秒: すべてが加速し、強烈な光の単一点である「特異点」へと向かって混沌と美しさの中で崩壊していきます。カメラは急速に引きの画へと切り替わります。
-
-12～15 秒: 特異点が外側へと広がり、ゴールデンアワーの地球を高度な軌道から見下ろす、息をのむほど穏やかな光景へと変わります。青い海と渦巻く白い雲が柔らかく輝き、トラベラーは地球に向かって浮かぶ小さなシルエットとして前景に映し出されます。柔らかなボリュメトリックな光の筋と大気の霞が表現されています。
-
-ライティング: 虚無の深い黒と、ポータルの強烈な寒色系の白・青との高いコントラスト。そこから温かみのある黄金色の太陽光へと移行します。金属やバイザーには鏡面反射のハイライトが入り、全体を通してボリュメトリックな光の筋が描かれます。
-
-ネイティブ・オーディオ・デザイン: 低周波の虚無の轟音と微かな機械的な時計の音から始まります。ポータルが開くにつれて電気的な引き裂かれる音やパチパチという音が重なり、歴史的なサウンドスケープ（遠くの馬の足音や市場の喧騒、ジャズのサックス、サイバーパンクな雨とネオンのハミング、森の風と鳥の声）がレイヤー状に重なります。オーケストラの緊張感とエーテル的なトーンが高まり、特異点で純粋で共鳴するクリスタルのような音色に達した後、遠くの鼓動と穏やかな軌道のハミングを伴う静かな宇宙のアンビエントへと収束していきます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088143927710822400/img/P6C2auiwtspVMggi.jpg" width="600" alt="シネマティックなタイムトラベラーのポータル映像シーケンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9094)**
-
-**作者:** [Time Traveler](https://x.com/singularitymuse) | **ソース:** [Link](https://x.com/singularitymuse/status/2088144011378745848) | **公開日:** Aug 14, 2026
-
----
-### MAHEM プラズマレールガン・ビジュアライゼーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 電磁流体力学爆発弾（MAHEM）技術の科学的ビジュアライゼーション。
-
-#### 📝 プロンプト
-
-```
-MAHEM（電磁流体力学爆発弾）が小型プラズマレールガンへと進化した様子を可視化したものです。2025 年から 2026 年にかけて、DARPA はプラズマを圧縮・再循環させてより高い電流密度を実現する多重コイルシステムの実証に成功しました。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088137508551094272/img/4lLlkUqvJKUC8pDK.jpg" width="600" alt="MAHEM プラズマレールガン・ビジュアライゼーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9089)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **ソース:** [Link](https://x.com/TLouisevsughan/status/2088137563571998981) | **公開日:** Aug 14, 2026
-
----
-### 量子物理学の宇宙シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 量子光学、磁束管、宇宙環境におけるプラズマ圧縮を含む、複雑な科学的ビジュアライゼーションのプロンプト。
-
-#### 📝 プロンプト
-
-```
-宇宙空間を舞台に、量子光学、イオ・木星磁束管、ギャン・ムドラー・アンテナ、および高エネルギー密度プラズマ圧縮を統合した量子コイル。高エネルギー密度プラズマ圧縮には、SHIELD（自己修復型膨張式減速装置）および L...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088134579383410688/img/MAYVL4isOtq0DEXc.jpg" width="600" alt="量子物理学の宇宙シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9084)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **ソース:** [Link](https://x.com/TLouisevsughan/status/2088134606369529856) | **公開日:** Aug 14, 2026
-
----
-### 火星エネルギー・ループ・システム
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 火星における自己持続型エネルギー・プラズマ・システムを描いた SF ビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-火星の自己持続型エネルギー・ループ・システムを描いたシーン。軌道上に設置されたコイルは、塵や放射線に耐えるようエッチングが施されており、太陽プラズマを利用する。このシステムはプラズマの流れを反転させてフィードバック・ループを形成し、火星の核に熱を供給する。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088129695648989184/img/dZRJC2GrdDnGScdE.jpg" width="600" alt="火星エネルギー・ループ・システム">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9088)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **ソース:** [Link](https://x.com/TLouisevsughan/status/2088129717148975216) | **公開日:** Aug 14, 2026
-
----
-### 戦う女王のバトルシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 剣を手に馬に乗り、戦場へと向かう戦士の姿をした女王を描いたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-戦場へ向かって走る馬に乗った私を生成してください。剣を持った戦士の格好をしていて、女王の冠を被っている姿にしてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088105992131387393/img/RYKSv0c37xjiK5-a.jpg" width="600" alt="戦う女王のバトルシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9184)**
-
-**作者:** [loretta Goldthwaite Goldthrite Sanders](https://x.com/loretta824yaho1) | **ソース:** [Link](https://x.com/loretta824yaho1/status/2088106006413033633) | **公開日:** Aug 14, 2026
-
----
-### サイケデリックでシュールなケルビムのアルバムアート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 複数の参照画像を融合させ、ふっくらとした反抗的なケルビムを描き出す、サイケデリックなアルバムカバーのための複雑なシュールレアリスム系プロンプト。
-
-#### 📝 プロンプト
-
-```
-すべての参照画像を一つのまとまったシーンに融合させた、力強くシュールでサイケデリックなアルバムカバーアート。中央には、4枚目の画像に登場する反抗的なケルビムが立っている。ふっくらとした天使の赤ちゃんの美しさ groki ai x
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088087541513867264/img/S3EG87dAzwHDuXGR.jpg" width="600" alt="サイケデリックでシュールなケルビムのアルバムアート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9177)**
-
-**作者:** [Cyperpienso](https://x.com/cyperpienso) | **ソース:** [Link](https://x.com/cyperpienso/status/2088087648124743926) | **公開日:** Aug 14, 2026
-
----
-### マノアの滝 レインフォレスト・ハイキング動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> マノアの滝へ向かう緑豊かな熱帯雨林のハイキングをテーマにした、穏やかで雰囲気のある動画プロンプト。新鮮なフルーツ、ドリンク、大きな緑の葉が特徴です。
-
-#### 📝 プロンプト
-
-```
-言葉や音声はなし、急な動きもなし
-
-時には羽を伸ばして：新鮮なフルーツ、小さなサンドイッチ、クーラーボックスに入った冷たいドリンク。滝は山の中にあり、ここから車で 30 分ほど。マノアの滝と呼ばれる場所で、大きな緑の葉に囲まれた、とても緑豊かな熱帯雨林のハイキングコースです……準備はいい？
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088083245502013440/img/w1zw8vccJYIBsuZr.jpg" width="600" alt="マノアの滝 レインフォレスト・ハイキング動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9182)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2088083861888462939) | **公開日:** Aug 14, 2026
-
----
-### フットボール観戦の夜の雰囲気
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> テレビで Steelers の試合が流れている夜のシーンに変更する動画編集プロンプト。
-
-#### 📝 プロンプト
-
-```
-外の景色を夜に変更し、テレビでは Steelers の試合が流れている。彼女が「タッチダウン！」と叫ぶ。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088073692676825088/img/jAOaUCebs7f-35nf.jpg" width="600" alt="フットボール観戦の夜の雰囲気">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9097)**
-
-**作者:** [Irene Sieg](https://x.com/SiegSieg50040) | **ソース:** [Link](https://x.com/SiegSieg50040/status/2088073752781152305) | **公開日:** Aug 14, 2026
-
----
-### 西部劇風のオズの魔法使いと恐竜たち
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 「オズの魔法使い」のキャラクターを、西部劇の舞台と背景に現れる先史時代の恐竜たちと組み合わせたマッシュアップ動画用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-オズの魔法使いのキャラクターたち、背景は西部劇風で、カウボーイと恐竜が背景にいる様子
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088066196516339712/img/HUQcIMq7mlSxR_nY.jpg" width="600" alt="西部劇風のオズの魔法使いと恐竜たち">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9181)**
-
-**作者:** [Spacecowboy](https://x.com/Spacedragon22) | **ソース:** [Link](https://x.com/Spacedragon22/status/2088066209095065908) | **公開日:** Aug 14, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2180,6 +2164,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-22T04:55:33.491Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-22T08:53:21.749Z</sub>
 
 </div>

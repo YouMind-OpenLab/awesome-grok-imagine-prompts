@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2552** |
+| 📝 Total Prompts | **2564** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-22** |
 
@@ -189,6 +189,139 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Cybertruck Driving Phoenix Traffic Overlay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt depicting a driver in a Cybertruck navigating Phoenix traffic, featuring a multi-layered screen overlay and a scrolling chat window.
+
+#### 📝 Prompt
+
+```
+A small overlay screen of a guy driving a cyber truck seeing how smooth the rare steering is the big screen shows from the windshield point of view him in traffic in Phoenix. You see an overlay of a chat of different people texting on what is going o...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091001617977872385/img/ff8gChZxcBhQSW3X.jpg" width="600" alt="Cybertruck Driving Phoenix Traffic Overlay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9631)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2091001668422824354) | **Published:** Aug 22, 2026
+
+---
+### Cinematic Sci-Fi Spaceship Bridge
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic shot of a dark spaceship bridge featuring military officers silhouetted against a panoramic view of a blue planet.
+
+#### 📝 Prompt
+
+```
+Cinematic sci-fi shot inside a dark spaceship bridge. Several officers in dark military uniforms stand silhouetted against a massive panoramic window showing a blue planet and a glowing galaxy. Soft volumetric light rays cut through the darkness, red and green control panel lights glow on the consoles. Quiet, epic atmosphere, highly detailed, realistic lighting and reflections.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090815306050727936/img/kfWgA3-jWemFpHQU.jpg" width="600" alt="Cinematic Sci-Fi Spaceship Bridge">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9628)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2090959637105500374) | **Published:** Aug 22, 2026
+
+---
+### Cybertruck Victory Celebration
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt depicting a winner standing on a Cybertruck with flashing headlights and a 16-bit voiceover effect.
+
+#### 📝 Prompt
+
+```
+Cybertruck flashes its headlights as winner gets on top of cybertruck as he says in an 16 bit recorded voice” victory is Cyber”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090950236361420800/img/mUgxuBnOf3SrRdI0.jpg" width="600" alt="Cybertruck Victory Celebration">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9627)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090950263406227956) | **Published:** Aug 21, 2026
+
+---
+### Traffic Lane Reduction Merge
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video simulation prompt showing a vehicle merging into traffic during a lane reduction scenario.
+
+#### 📝 Prompt
+
+```
+lane reduction indicated lane, and soon vehicle in that lane was merge onto through lane
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090873171868368896/img/e1LmBTWxpjTll7Qc.jpg" width="600" alt="Traffic Lane Reduction Merge">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9626)**
+
+**Author:** [Rocky Flores](https://x.com/maybeme8338o01) | **Source:** [Link](https://x.com/maybeme8338o01/status/2090873216747393211) | **Published:** Aug 21, 2026
+
+---
+### Met Gala Night Forest Event
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for a night-time red carpet event at the Met with trees and landscape lighting.
+
+#### 📝 Prompt
+
+```
+Red carpet event at the met with lots of trees at night with landscape lighting, huge crowds
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090819423099609088/img/6xwyET37FO-5_NOX.jpg" width="600" alt="Met Gala Night Forest Event">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9633)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2090819440258490487) | **Published:** Aug 21, 2026
+
+---
+### Tesla Cybercab Red Carpet Arrival
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt describing a gold Tesla Cybercab arriving at a red carpet event with automated doors.
+
+#### 📝 Prompt
+
+```
+The gold Tesla Cybercab has just pulled up and stops smoothly on the red carpet. Its butterfly doors open fully upward and outward automatically. The glamorous woman in the sparkling black diamond sequined dress gracefully steps out of the car onto t...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090816950385381377/img/jnIQhceZFCmj1lb9.jpg" width="600" alt="Tesla Cybercab Red Carpet Arrival">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9629)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2090816984485085400) | **Published:** Aug 21, 2026
+
+---
+### Queen of Darkness Shadow Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for creating a video of a Queen of Darkness walking while shadows and darkness spread around her.
+
+#### 📝 Prompt
+
+```
+The Queen of Darkness comes walking in my direction, spreading shadows and darkness around
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090784552319143937/img/M3jnUjKaSAa463X0.jpg" width="600" alt="Queen of Darkness Shadow Walk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9630)**
+
+**Author:** [David](https://x.com/Mmmm8x5mMmmm) | **Source:** [Link](https://x.com/Mmmm8x5mMmmm/status/2090784726068174879) | **Published:** Aug 21, 2026
+
+---
 ### Anime Space Battleship Combat Scene
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -208,30 +341,30 @@ Final battle scene of the space battleship Kyoshi, anime style, high detail. Aga
 **Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2090680229329248377) | **Published:** Aug 21, 2026
 
 ---
-### Cherry Blossom Kimono Sword Dance
+### Kimono Sword Dance Sakura Petals
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A poetic video prompt for a woman in a blue kimono dress wielding a glowing sword that generates cherry blossoms forming a message in a Japanese garden.
+> A cinematic video prompt of a woman in a blue kimono wielding a glowing sword in a Japanese garden, where cherry blossoms form a greeting text.
 
 #### 📝 Prompt
 
 ```
-A young woman with long black hair wearing a blue kimono dress stands in a Japanese garden lined with cherry blossom trees. As she swings the light-blue glowing sword she holds horizontally, countless cherry blossom petals fly out from the sword, dancing around her and forming the message "Thank you for your support today as well." The petals then scatter towards the camera.
+A young woman with long black hair wearing a blue kimono dress, standing in a Japanese garden lined with cherry blossom trees. When she swings a glowing light-blue sword horizontally, countless cherry blossom petals fly out from the blade, dancing around her and forming the text 'Thank you for your support today,' before the petals scatter toward the camera.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787298868185_th6dix_HQOKd7racAA2eg4.jpg" width="600" alt="Cherry Blossom Kimono Sword Dance">
+<img src="https://cms-assets.youmind.com/media/1787384997650_66coof_HQOKd7racAA2eg4.jpg" width="600" alt="Kimono Sword Dance Sakura Petals">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9575)**
 
 **Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2090667452472688797) | **Published:** Aug 21, 2026
 
 ---
-### Nero Fiddling Burning Rome Video
+### Nero Fiddling While Rome Burns
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt combining the myth of Nero with the style of Charlie Daniels playing fiddle.
+> A dramatic video prompt showing Nero playing music in the style of Charlie Daniels while Rome is engulfed in flames.
 
 #### 📝 Prompt
 
@@ -239,30 +372,68 @@ A young woman with long black hair wearing a blue kimono dress stands in a Japan
 Nero fiddling while Rome burns.Playing Devil Went Down to Georgia in the style of Charlie Daniel’s.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090654349298921473/img/_0vIwmroTpGn3cNp.jpg" width="600" alt="Nero Fiddling Burning Rome Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090654349298921473/img/_0vIwmroTpGn3cNp.jpg" width="600" alt="Nero Fiddling While Rome Burns">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9566)**
 
 **Author:** [SERCOmustGO(Profile Pic) Cures Cancer](https://x.com/SERCObad) | **Source:** [Link](https://x.com/SERCObad/status/2090654372690534648) | **Published:** Aug 21, 2026
 
 ---
-### Realistic Puppy Pajama Selfie Video
+### Cabin Blizzard Writing Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed Grok-imagine prompt for creating a realistic first-person video of a puppy in pajamas, capturing natural behavior and a warm home environment.
+> A cinematic video prompt of a man writing his first book by candlelight in a mountain log cabin during a blizzard.
 
 #### 📝 Prompt
 
 ```
-A small, cute puppy in a loose, casual puppy pajama set lies on its side on a low bed in a small rented studio apartment, already gazing straight into the front camera of the phone its owner is holding just above it; the place has a lived-in twenty-something feel — rumpled cream cotton sheets, a couple of plain pillows, a clothes rack and a cluttered little shelf softly out of focus behind it, a warm bedside lamp glowing from the right. Blinking slowly, the puppy's tail wags softly as the off-screen owner holding the phone — never shown — says softly in Korean: "안 자고 뭐 해." A beat later, the puppy tilts its head with floppy ears, letting out a tiny, breathy huff as if shy, and the owner teases back, warm in Korean: "예쁜데 왜." Then suddenly the puppy buries its whole face into a plain pillow beside it, paws gripping its edge into soft creases, letting out a muffled, playful whimper or soft puppy breath into the pillow. A moment later, it slowly turns its face back out and peeks with just one eye first, floppy ears tousled, then its whole face turns to the camera; frontally visible, it softly licks its nose and opens its mouth slightly with a happy, playful puppy expression while the owner says in Korean: "그만 찍으라니까~", giving one soft blink as the moment gently settles. Shoot it as one continuous first-person handheld selfie, the frame breathing with the owner's arm and leaning in a little; keep the puppy's fur texture, wet nose highlights, and whiskers razor-sharp with no beauty filter and no smoothing, like real phone footage with subtle video grain and non-cinematic warm indoor light. Exactly one puppy is ever in frame — the phone-holder stays off-screen and is never shown, no second animal or person in frame, and never render a reference sheet or duplicate the subject. Strictly no subtitles, no on-screen text, no logo, no watermark. Diegetic sound only: quiet room tone of a small apartment, soft bedsheet rustling, muffled cute puppy noises into the pillow; the off-screen woman lines warm and teasing from behind the camera, with no background music
+The scene is a dark square room in a log cabin, the only light is a candle on an old wooden desk. It’s a cold, blizzard-like night in the wooded mountains. A man is seated at the desk writing his first ever book. A fireplace cracks and pops in the ba...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090631581887299584/img/4xZUv4rq9vEXAMHp.jpg" width="600" alt="Realistic Puppy Pajama Selfie Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090635267078008832/img/edo7_Tv2rTo5kK5k.jpg" width="600" alt="Cabin Blizzard Writing Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9632)**
+
+**Author:** [Michael](https://x.com/MichaelOnXUSA) | **Source:** [Link](https://x.com/MichaelOnXUSA/status/2090635293577662604) | **Published:** Aug 21, 2026
+
+---
+### Realistic Puppy in Pajamas Video Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed Grok Imagine 2.0 prompt for a first-person perspective video of a cute puppy in pajamas, featuring natural behavior and home environment.
+
+#### 📝 Prompt
+
+```
+A small, cute puppy in a loose, casual puppy pajama set lies on its side on a low bed in a small rented studio apartment, already gazing straight into the front camera of the phone its owner is holding just above it; the place has a lived-in twenty-something feel — rumpled cream cotton sheets, a couple of plain pillows, a clothes rack and a cluttered little shelf softly out of focus behind it, a warm bedside lamp glowing from the right. Blinking slowly, the puppy's tail wags softly as the off-screen owner holding the phone — never shown — says softly in Korean: "What are you doing not sleeping?" A beat later, the puppy tilts its head with floppy ears, letting out a tiny, breathy huff as if shy, and the owner teases back, warm in Korean: "You're pretty, so why?" Then suddenly the puppy buries its whole face into a plain pillow beside it, paws gripping its edge into soft creases, letting out a muffled, playful whimper or soft puppy breath into the pillow. A moment later, it slowly turns its face back out and peeks with just one eye first, floppy ears tousled, then its whole face turns to the camera; frontally visible, it softly licks its nose and opens its mouth slightly with a happy, playful puppy expression while the owner says in Korean: "I told you to stop filming~", giving one soft blink as the moment gently settles. Shoot it as one continuous first-person handheld selfie, the frame breathing with the owner's arm and leaning in a little; keep the puppy's fur texture, wet nose highlights, and whiskers razor-sharp with no beauty filter and no smoothing, like real phone footage with subtle video grain and non-cinematic warm indoor light. Exactly one puppy is ever in frame — the phone-holder stays off-screen and is never shown, no second animal or person in frame, and never render a reference sheet or duplicate the subject. Strictly no subtitles, no on-screen text, no logo, no watermark. Diegetic sound only: quiet room tone of a small apartment, soft bedsheet rustling, muffled cute puppy noises into the pillow; the off-screen woman lines warm and teasing from behind the camera, with no background music
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090631581887299584/img/4xZUv4rq9vEXAMHp.jpg" width="600" alt="Realistic Puppy in Pajamas Video Vlog">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9577)**
 
 **Author:** [고딩경제맨](https://x.com/winneravgwin) | **Source:** [Link](https://x.com/winneravgwin/status/2090631627844280421) | **Published:** Aug 21, 2026
+
+---
+### Data Center Roller Rink Power Generation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal cinematic video prompt depicting a futuristic data center where humans generate power by skating in a roller rink next to a classic restaurant.
+
+#### 📝 Prompt
+
+```
+A data center roller rink that uses human group energy as they skate to convert to power next to a steak n shake
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090629256116133888/img/vZOj4HyvF3Tt2gQq.jpg" width="600" alt="Data Center Roller Rink Power Generation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9623)**
+
+**Author:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **Source:** [Link](https://x.com/AMERICA250e9/status/2090629295139860535) | **Published:** Aug 21, 2026
 
 ---
 ### Twitch Streamer Cybertruck Gameplay
@@ -284,11 +455,49 @@ A woman live streaming on twitch playing a cyber truck 3-D game as you see her o
 **Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090624078499512717) | **Published:** Aug 21, 2026
 
 ---
-### Magritte Style Surrealist Convertible
+### Portuguese Speaking Man Friendly Message
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt describing a surrealist Magritte-style oil painting of a couple in a vintage convertible, featuring specific 1940s fashion details and a desert landscape.
+> A detailed video prompt for a man speaking naturally in a Brazilian Portuguese accent, delivering a positive message from inside a car with consistent movement.
+
+#### 📝 Prompt
+
+```
+The man smiles and speaks naturally in Portuguese (Brazilian accent), saying a short friendly positive message like "Oi! Estou me sentindo muito bem hoje. Que dia incrível, né?". Keep the car interior background, exact same appearance, natural head movement
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090608673697464321/img/XIkmOTOKm5JEpI6c.jpg" width="600" alt="Portuguese Speaking Man Friendly Message">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9624)**
+
+**Author:** [Vini](https://x.com/Vinil9t) | **Source:** [Link](https://x.com/Vinil9t/status/2090608698666160330) | **Published:** Aug 21, 2026
+
+---
+### Aurora Cyberpunk Pursuit Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex prompt using symbolic algebra to define a scifi pursuit scene with a hoverbike and unit Aurora 7.
+
+#### 📝 Prompt
+
+```
+[[🟩+🟪]+[[hoverbike+[🤖=👮‍♀️=unit_Aurora_7]]+[🎯_pursuit]+[glossy]+[🔈🔉🔊🔉🔈🚨]]
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090580112202768384/img/SQ-5s4IEznGOmMTR.jpg" width="600" alt="Aurora Cyberpunk Pursuit Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9625)**
+
+**Author:** [Elis Satu](https://x.com/astvatsaturn) | **Source:** [Link](https://x.com/astvatsaturn/status/2090580214120165872) | **Published:** Aug 20, 2026
+
+---
+### Surreal Magritte Desert Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex surrealist video prompt for Grok Imagine inspired by René Magritte, depicting a couple in a vintage car in a desert.
 
 #### 📝 Prompt
 
@@ -296,7 +505,7 @@ A woman live streaming on twitch playing a cyber truck 3-D game as you see her o
 A surrealist Magritte-style oil painting of a couple seated in a vintage olive-green convertible in a flat desert landscape under a pale blue sky with a single horizontal cloud bank. The woman wears an oversized black-and-white checkered conical hat topped with a coral pom-pom, yellow cat-eye sunglasses, pearl earrings, and a pale pink jacket with a large white pointed collar and black buttons. The man wears a coral felt hat with a dented crown, yellow rectangular sunglasses, a beige turtleneck and a dark houndstooth blazer with a white pocket square. Deadpan expressions, smooth matte painterly finish, 1940s magazine-realism style.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090558281303433216/img/Wg6LxnjN_60CVMWj.jpg" width="600" alt="Magritte Style Surrealist Convertible">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090558281303433216/img/Wg6LxnjN_60CVMWj.jpg" width="600" alt="Surreal Magritte Desert Scene">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9565)**
 
@@ -320,6 +529,25 @@ A surrealist Magritte-style oil painting of a couple seated in a vintage olive-g
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9568)**
 
 **Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **Published:** Aug 20, 2026
+
+---
+### Odysseus and Nausicaa Beach Meeting Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed narrative prompt depicting Odysseus washing ashore on Scheria and his first meeting with Nausicaa, featuring cinematic animation details.
+
+#### 📝 Prompt
+
+```
+Odysseus spent days drifting on a raft after leaving Calypso’s island. A storm stirred up by Poseidon destroyed his raft. He swam until he was utterly exhausted and washed up unconscious on the beach of Scheria, the island of the Phaeacians. Exhausted and covered in seaweed, he regains consciousness on the beach. Nausicaa, initially frightened, steps back but then listens to him. She decides to help him and points out the way to the palace.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090462831195914240/img/QC_iaRhu8OjWcEJL.jpg" width="600" alt="Odysseus and Nausicaa Beach Meeting Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9634)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2090463969496518702) | **Published:** Aug 20, 2026
 
 ---
 ### Thor Thursday Video Sketch
@@ -638,11 +866,11 @@ slowly elevating above the equilibrium of sphere, center of gravity in this VR 3
 **Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
 
 ---
-### Odysseus and Argos Reunion
+### Odysseus and Argos Reunion Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt depicting the emotional return of Odysseus and his final meeting with his dog Argos.
+> A detailed narrative prompt for a video scene where Odysseus returns to Ithaca and meets his dying dog, Argos.
 
 #### 📝 Prompt
 
@@ -650,7 +878,7 @@ slowly elevating above the equilibrium of sphere, center of gravity in this VR 3
 Odysseus returns to Ithaca after twenty years, disguised as a beggar. As he approaches his palace, he meets his old dog Argos, abandoned and dying on a pile of dung. Argos recognizes him at once, weakly wags his tail, then dies. Odysseus looks away to hide his tears and keep his identity secret.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="Odysseus and Argos Reunion">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="Odysseus and Argos Reunion Scene">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9574)**
 
@@ -1875,250 +2103,6 @@ pixel art style, looping aesthetic, relatively still camera. I can no longer tes
 **Author:** [今井宏之](https://x.com/imaikaiimai) | **Source:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **Published:** Aug 14, 2026
 
 ---
-### Louvre Golden Hour Idol Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An artistic video prompt of a bubbly female idol admiring the Louvre during golden hour with dynamic background responses.
-
-#### 📝 Prompt
-
-```
-American female playfully admiring the louvre at golden hour, bubbly and expressive like a popular idol, but show subtle environmental tension artistic and thought-provoking, consistent overall composition but with dynamic background response to her presence
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088153830563450880/img/_u2QzRzpHA1WodHc.jpg" width="600" alt="Louvre Golden Hour Idol Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9095)**
-
-**Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2088154062902702543) | **Published:** Aug 14, 2026
-
----
-### Mars Habitat Lungs Activation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Video prompt for activation of living water domes and habitats on Mars.
-
-#### 📝 Prompt
-
-```
-Show all them detach, each one landing in crater filling the craterand and activating Kennedy’s living water domes to covers the entire crater to the rim and new habitat, becoming the lungs for Mars
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149826374680576/img/ehPk0YBSC0sinIAM.jpg" width="600" alt="Mars Habitat Lungs Activation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9092)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088149868288365028) | **Published:** Aug 14, 2026
-
----
-### Vintage Jazz Singer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt for a vintage big band performance with a passionate crooner.
-
-#### 📝 Prompt
-
-```
-The bald man in black suit and fedora sings passionately into the vintage microphone, mouth moving expressively as he croons, hand gesturing with soul, body swaying slightly to the music, fedora tilted, the big band orchestra behind him playing brass
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149124071718912/img/OSlPpSt103JVK9Gf.jpg" width="600" alt="Vintage Jazz Singer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9086)**
-
-**Author:** [pistacchione](https://x.com/Oldtool9) | **Source:** [Link](https://x.com/Oldtool9/status/2088149153813577744) | **Published:** Aug 14, 2026
-
----
-### Cinematic Time Traveler Portal Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive 15-second cinematic video sequence depicting a time traveler stepping through a temporal rift into space.
-
-#### 📝 Prompt
-
-```
-A continuous 15-second ultra-cinematic sequence, hyper-photorealistic with subtle surreal elements, shot on anamorphic lenses with fine 35mm film grain and gentle chromatic aberration, in the style of Christopher Nolan and Denis Villeneuve.
-
-Opening (0-3s): A solitary time traveler stands alone in an infinite dark void, wearing a weathered dark trench coat over intricate brass-and-leather chronosuit elements, long coat fabric and scarf stirring slightly as if in zero gravity. Their face is partially hidden by a reflective visor.
-
-At 3 seconds a vertical seam of pure brilliant white-blue light tears open in front of them like fabric ripping. Cascading, overlapping layers of historical and future eras pour through: ancient Egyptian pyramids under desert sun, bustling 1920s jazz-age streets with Model Ts, towering neon-drenched 2080s cyberpunk megacity, and a misty primordial forest with massive trees. The layers swirl and fold into each other like liquid glass.
-
-4-9s: The traveler steps forward into the rift. Camera executes a smooth, accelerating tracking orbit around them as the temporal layers intensify, architecture and landscapes melting and reforming, particles of glowing clockwork gears, sand, neon particles, and leaves swirling in realistic fluid physics. Wind and energy pull at the coat and hair dramatically.
-
-9-12s: Everything accelerates into a chaotic, beautiful collapse toward a single point of intense light — the singularity. Camera begins pulling back rapidly.
-
-12-15s: The singularity expands outward into a serene, breathtaking view of Earth from high orbit at golden hour, blue oceans and swirling white clouds glowing softly, the traveler now a tiny silhouette floating peacefully in the foreground, facing the planet. Soft volumetric god rays and atmospheric haze.
-
-Lighting: High contrast between deep blacks of the void and intense cool whites/blues of the portal, transitioning to warm golden sunlight. Specular highlights on metal and visor. Volumetric light rays throughout.
-
-Native audio design: Starts with deep low-frequency void rumble and faint mechanical ticking. Builds with electrical tearing and crackling as the portal opens, layered overlapping historical soundscapes (distant horses and market chatter, jazz saxophone, cyberpunk rain and neon hum, forest wind and birds), rising orchestral tension and ethereal tones, peaking in a pure resonant crystalline note at the singularity, then resolving into soft ambient space silence with a single distant heartbeat and gentle orbital hum.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088143927710822400/img/P6C2auiwtspVMggi.jpg" width="600" alt="Cinematic Time Traveler Portal Sequence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9094)**
-
-**Author:** [Time Traveler](https://x.com/singularitymuse) | **Source:** [Link](https://x.com/singularitymuse/status/2088144011378745848) | **Published:** Aug 14, 2026
-
----
-### MAHEM Plasma Railgun Visualization
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Scientific visualization of Magneto-Hydrodynamic Explosive Munition technologies.
-
-#### 📝 Prompt
-
-```
-An visualization of MAHEM (Magneto-Hydrodynamic Explosive Munition) evolved into compact plasma railguns. By 2025–2026, DARPA demonstrated multi-turn coil systems that compress and recirculate plasma to achieve higher current densities and l...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088137508551094272/img/4lLlkUqvJKUC8pDK.jpg" width="600" alt="MAHEM Plasma Railgun Visualization">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9089)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088137563571998981) | **Published:** Aug 14, 2026
-
----
-### Quantum Physics Space Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex scientific visualization prompt involving quantum optics, flux tubes, and plasma compression in a space environment.
-
-#### 📝 Prompt
-
-```
-A quantum coil integrating quantum optics, Io-Jupiter flux tube, Gyan Mudra antenna, and High-Energy Density Plasma Compression in a space setting. The High-Energy Density Plasma Compression includes SHIELD (Self-Healing Inflatable Decelerator) and L...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088134579383410688/img/MAYVL4isOtq0DEXc.jpg" width="600" alt="Quantum Physics Space Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9084)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088134606369529856) | **Published:** Aug 14, 2026
-
----
-### Mars Energy Loop System
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sci-fi video prompt illustrating a self-sustaining energy plasma system on Mars.
-
-#### 📝 Prompt
-
-```
-A scene on Mars depicting a self-sustaining energy loop system. Coils in orbit, etched to resist dust and radiation, harness solar plasma. The system reverses the plasma flow to create a feedback loop, generating heat for Mars' core.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088129695648989184/img/dZRJC2GrdDnGScdE.jpg" width="600" alt="Mars Energy Loop System">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9088)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088129717148975216) | **Published:** Aug 14, 2026
-
----
-### Queen Warrior Battle Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt depicting a queen dressed as a warrior, armed with a sword, riding a horse into a battle scene.
-
-#### 📝 Prompt
-
-```
-Make a horse running to a battle me dressed up as a warrior with a sword make me wearing a crown for a queen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088105992131387393/img/RYKSv0c37xjiK5-a.jpg" width="600" alt="Queen Warrior Battle Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9184)**
-
-**Author:** [loretta Goldthwaite Goldthrite Sanders](https://x.com/loretta824yaho1) | **Source:** [Link](https://x.com/loretta824yaho1/status/2088106006413033633) | **Published:** Aug 14, 2026
-
----
-### Psychedelic Surreal Cherub Album Art
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex surrealist prompt for a psychedelic album cover that blends multiple reference images into a scene featuring a chubby rebellious cherub.
-
-#### 📝 Prompt
-
-```
-A powerful surreal psychedelic album-cover artwork that fuses all the reference images into one cohesive scene. In the center stands the rebellious cherub from the fourth image — chubby baby angel  beauty groki ai x
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088087541513867264/img/S3EG87dAzwHDuXGR.jpg" width="600" alt="Psychedelic Surreal Cherub Album Art">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9177)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2088087648124743926) | **Published:** Aug 14, 2026
-
----
-### Manoa Falls Rainforest Hike Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A serene, atmospheric video prompt focusing on a lush rainforest hike to Manoa Falls, featuring fresh fruit, drinks, and big green leaves.
-
-#### 📝 Prompt
-
-```
-no words or voices, no sudden movements
-
-Lose Control Sometimes: with ... fresh fruit, some little sandwiches, and cold drinks in the cooler. the waterfall's up in the mountains, about a thirty-minute drive from here. it's called manoa falls, super lush hike through the rainforest with big green leaves everywhere...you ready to go?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088083245502013440/img/w1zw8vccJYIBsuZr.jpg" width="600" alt="Manoa Falls Rainforest Hike Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9182)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088083861888462939) | **Published:** Aug 14, 2026
-
----
-### Football Game Night Atmosphere
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video editing prompt changing a scene to night with a Steelers game on TV.
-
-#### 📝 Prompt
-
-```
-Change the outside scenery to being dark out TV playing with the Steelers on it she shouts touchdown
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088073692676825088/img/jAOaUCebs7f-35nf.jpg" width="600" alt="Football Game Night Atmosphere">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9097)**
-
-**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2088073752781152305) | **Published:** Aug 14, 2026
-
----
-### Western Wizard of Oz with Dinosaurs
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A mashup video prompt combining the Wizard of Oz characters with an old western setting and prehistoric dinosaurs in the background.
-
-#### 📝 Prompt
-
-```
-Wizard of Oz and they were old western background cowboy and some dinosaurs in the background
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088066196516339712/img/HUQcIMq7mlSxR_nY.jpg" width="600" alt="Western Wizard of Oz with Dinosaurs">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9181)**
-
-**Author:** [Spacecowboy](https://x.com/Spacedragon22) | **Source:** [Link](https://x.com/Spacedragon22/status/2088066209095065908) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2180,6 +2164,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-22T04:55:30.258Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-22T08:53:18.006Z</sub>
 
 </div>

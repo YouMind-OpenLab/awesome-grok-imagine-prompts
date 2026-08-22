@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2552** |
+| 📝 Total Prompts | **2564** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-22** |
 
@@ -189,6 +189,139 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Phoenix Trafiğinde Cybertruck Sürüşü Ekran Katmanı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Phoenix trafiğinde ilerleyen bir Cybertruck sürücüsünü, çok katmanlı bir ekran katmanı ve kayan bir sohbet penceresi ile betimleyen bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Cybertruck kullanan bir adamın nadir direksiyonun ne kadar pürüzsüz olduğunu gördüğü küçük bir katman ekranı; büyük ekran, ön cam açısından onun Phoenix trafiğindeki halini gösteriyor. Neler olup bittiği hakkında mesajlaşan farklı insanların sohbet katmanını görüyorsunuz...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091001617977872385/img/ff8gChZxcBhQSW3X.jpg" width="600" alt="Phoenix Trafiğinde Cybertruck Sürüşü Ekran Katmanı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9631)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2091001668422824354) | **Published:** Aug 22, 2026
+
+---
+### Sinematik Bilim Kurgu Uzay Gemisi Köprüsü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mavi bir gezegenin panoramik manzarasına karşı silüetleri görünen askeri subayların yer aldığı, karanlık bir uzay gemisi köprüsünün son derece detaylı sinematik çekimi.
+
+#### 📝 Prompt
+
+```
+Karanlık bir uzay gemisi köprüsünün içinden sinematik bilim kurgu çekimi. Koyu renkli askeri üniformalar içindeki birkaç subay, mavi bir gezegeni ve parlayan bir galaksiyi gösteren devasa panoramik pencerenin önünde silüet halinde duruyor. Yumuşak hacimsel ışık huzmeleri karanlığı keserken, konsollardaki kırmızı ve yeşil kontrol paneli ışıkları parlıyor. Sessiz, epik atmosfer, yüksek detay, gerçekçi aydınlatma ve yansımalar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090815306050727936/img/kfWgA3-jWemFpHQU.jpg" width="600" alt="Sinematik Bilim Kurgu Uzay Gemisi Köprüsü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9628)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2090959637105500374) | **Published:** Aug 22, 2026
+
+---
+### Cybertruck Zafer Kutlaması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Farlarını yakıp söndüren bir Cybertruck üzerinde duran bir kazananı ve 16-bit seslendirme efektini betimleyen bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kazanan Cybertruck'ın üzerine çıktığında araç farlarını yakıp söndürür ve kazanan 16-bit kayıtlı bir sesle "Zafer Cyber'dır" der
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090950236361420800/img/mUgxuBnOf3SrRdI0.jpg" width="600" alt="Cybertruck Zafer Kutlaması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9627)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090950263406227956) | **Published:** Aug 21, 2026
+
+---
+### Şerit Daralması ve Trafiğe Katılım
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Şerit daralması senaryosunda bir aracın trafiğe katılımını gösteren bir video simülasyon istemi.
+
+#### 📝 Prompt
+
+```
+şerit daralması belirtilen şerit ve kısa süre sonra o şeritteki araç ana şeride katıldı
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090873171868368896/img/e1LmBTWxpjTll7Qc.jpg" width="600" alt="Şerit Daralması ve Trafiğe Katılım">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9626)**
+
+**Author:** [Rocky Flores](https://x.com/maybeme8338o01) | **Source:** [Link](https://x.com/maybeme8338o01/status/2090873216747393211) | **Published:** Aug 21, 2026
+
+---
+### Met Gala Gece Ormanı Etkinliği
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Met'te ağaçlar ve peyzaj aydınlatmasıyla süslü, gece gerçekleşen bir kırmızı halı etkinliği için video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Met'te gece vakti, çok sayıda ağaç ve peyzaj aydınlatmasıyla çevrili, büyük kalabalıkların olduğu bir kırmızı halı etkinliği
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090819423099609088/img/6xwyET37FO-5_NOX.jpg" width="600" alt="Met Gala Gece Ormanı Etkinliği">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9633)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2090819440258490487) | **Published:** Aug 21, 2026
+
+---
+### Tesla Cybercab Kırmızı Halı Varışı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Otomatik kapılara sahip altın rengi bir Tesla Cybercab'in kırmızı halı etkinliğine gelişini betimleyen detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Altın rengi Tesla Cybercab az önce yanaştı ve kırmızı halı üzerinde yumuşak bir şekilde durdu. Kelebek kapıları otomatik olarak tamamen yukarı ve dışa doğru açılıyor. Işıltılı siyah elmas payetli elbisesi içindeki göz alıcı kadın, zarafetle araçtan inerek...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090816950385381377/img/jnIQhceZFCmj1lb9.jpg" width="600" alt="Tesla Cybercab Kırmızı Halı Varışı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9629)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2090816984485085400) | **Published:** Aug 21, 2026
+
+---
+### Karanlıklar Kraliçesi Gölge Yürüyüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karanlıklar Kraliçesi'nin etrafına gölgeler ve karanlık yayarak yürüdüğü bir video oluşturmak için sinematik bir komut.
+
+#### 📝 Prompt
+
+```
+Karanlıklar Kraliçesi üzerime doğru yürüyor, etrafına gölgeler ve karanlık yayıyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090784552319143937/img/M3jnUjKaSAa463X0.jpg" width="600" alt="Karanlıklar Kraliçesi Gölge Yürüyüşü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9630)**
+
+**Author:** [David](https://x.com/Mmmm8x5mMmmm) | **Source:** [Link](https://x.com/Mmmm8x5mMmmm/status/2090784726068174879) | **Published:** Aug 21, 2026
+
+---
 ### Anime Uzay Savaş Gemisi Çatışma Sahnesi
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -220,7 +353,7 @@ Kyoshi uzay savaş gemisinin final savaş sahnesi, anime tarzı, yüksek detayl�
 Uzun siyah saçlı, mavi kimono elbiseli genç bir kadın, kiraz çiçeği ağaçlarıyla çevrili bir Japon bahçesinde duruyor. Elinde tuttuğu açık mavi parlayan kılıcı yatay olarak salladığında, kılıçtan sayısız kiraz çiçeği yaprağı fırlıyor, etrafında dans ediyor ve "Bugünkü desteğiniz için de teşekkürler" mesajını oluşturuyor. Yapraklar daha sonra kameraya doğru dağılıyor.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787298868185_th6dix_HQOKd7racAA2eg4.jpg" width="600" alt="Kiraz Çiçeği Kimono Kılıç Dansı">
+<img src="https://cms-assets.youmind.com/media/1787384997650_66coof_HQOKd7racAA2eg4.jpg" width="600" alt="Kiraz Çiçeği Kimono Kılıç Dansı">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9575)**
 
@@ -246,6 +379,25 @@ Nero Roma yanarken keman çalıyor. Charlie Daniels tarzında Devil Went Down to
 **Author:** [SERCOmustGO(Profile Pic) Cures Cancer](https://x.com/SERCObad) | **Source:** [Link](https://x.com/SERCObad/status/2090654372690534648) | **Published:** Aug 21, 2026
 
 ---
+### Dağ Evinde Kar Fırtınası Yazma Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir dağ evinde kar fırtınası sırasında mum ışığında ilk kitabını yazan bir adamın sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Sahne, kütükten yapılmış bir dağ evindeki karanlık, kare bir oda; tek ışık kaynağı eski ahşap bir masanın üzerindeki mum. Ormanlık dağlarda soğuk, kar fırtınasının olduğu bir gece. Bir adam masada oturmuş ilk kitabını yazıyor. Arka planda bir şömine çıtırdıyor ve...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090635267078008832/img/edo7_Tv2rTo5kK5k.jpg" width="600" alt="Dağ Evinde Kar Fırtınası Yazma Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9632)**
+
+**Author:** [Michael](https://x.com/MichaelOnXUSA) | **Source:** [Link](https://x.com/MichaelOnXUSA/status/2090635293577662604) | **Published:** Aug 21, 2026
+
+---
 ### Gerçekçi Köpek Yavrusu Pijamalı Selfie Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -265,6 +417,25 @@ Küçük, sevimli bir köpek yavrusu, bol ve günlük bir köpek pijaması takı
 **Author:** [고딩경제맨](https://x.com/winneravgwin) | **Source:** [Link](https://x.com/winneravgwin/status/2090631627844280421) | **Published:** Aug 21, 2026
 
 ---
+### Veri Merkezi Paten Pisti Güç Üretimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fütüristik bir veri merkezinde, insanların klasik bir restoranın yanındaki paten pistinde kayarak güç ürettiği sürreal ve sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Bir steak n shake restoranının yanında, insanların paten kayarken ortaya çıkardığı grup enerjisini güce dönüştüren bir veri merkezi paten pisti
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090629256116133888/img/vZOj4HyvF3Tt2gQq.jpg" width="600" alt="Veri Merkezi Paten Pisti Güç Üretimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9623)**
+
+**Author:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **Source:** [Link](https://x.com/AMERICA250e9/status/2090629295139860535) | **Published:** Aug 21, 2026
+
+---
 ### Twitch Yayıncısı Cybertruck Oyun Deneyimi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -282,6 +453,44 @@ Twitch'te canlı yayın yapan bir kadın, 3 boyutlu bir Cybertruck oyunu oynuyor
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9567)**
 
 **Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090624078499512717) | **Published:** Aug 21, 2026
+
+---
+### Portekizce Konuşan Adamdan Dostça Mesaj
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Brezilya Portekizcesi aksanıyla doğal bir şekilde konuşan, arabanın içinden tutarlı hareketlerle olumlu bir mesaj ileten bir adam için detaylı video istemi.
+
+#### 📝 Prompt
+
+```
+Adam gülümser ve Portekizce (Brezilya aksanıyla) doğal bir şekilde konuşarak "Oi! Estou me sentindo muito bem hoje. Que dia incrível, né?" gibi kısa, dostça ve olumlu bir mesaj iletir. Araba içi arka planı, aynı görünümü ve doğal kafa hareketlerini koruyun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090608673697464321/img/XIkmOTOKm5JEpI6c.jpg" width="600" alt="Portekizce Konuşan Adamdan Dostça Mesaj">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9624)**
+
+**Author:** [Vini](https://x.com/Vinil9t) | **Source:** [Link](https://x.com/Vinil9t/status/2090608698666160330) | **Published:** Aug 21, 2026
+
+---
+### Aurora Siberpunk Takip Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hoverbike ve Aurora 7 birimini içeren bir bilim kurgu takip sahnesini tanımlamak için sembolik cebir kullanan karmaşık bir komut.
+
+#### 📝 Prompt
+
+```
+[[🟩+🟪]+[[hoverbike+[🤖=👮‍♀️=unit_Aurora_7]]+[🎯_pursuit]+[glossy]+[🔈🔉🔊🔉🔈🚨]]
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090580112202768384/img/SQ-5s4IEznGOmMTR.jpg" width="600" alt="Aurora Siberpunk Takip Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9625)**
+
+**Author:** [Elis Satu](https://x.com/astvatsaturn) | **Source:** [Link](https://x.com/astvatsaturn/status/2090580214120165872) | **Published:** Aug 20, 2026
 
 ---
 ### Magritte Tarzı Sürrealist Üstü Açık Araba
@@ -320,6 +529,25 @@ Düz bir çöl manzarasında, tek bir yatay bulut kümesinin olduğu soluk mavi 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9568)**
 
 **Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **Published:** Aug 20, 2026
+
+---
+### Odysseus ve Nausicaa'nın Sahildeki Karşılaşma Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Odysseus'un Scheria kıyılarına vurmasını ve Nausicaa ile ilk karşılaşmasını sinematik animasyon detaylarıyla betimleyen ayrıntılı bir anlatı istemi.
+
+#### 📝 Prompt
+
+```
+Odysseus, Calypso'nun adasından ayrıldıktan sonra günlerce bir sal üzerinde sürüklendi. Poseidon tarafından yaratılan bir fırtına salını parçaladı. Tamamen tükenene kadar yüzdü ve Phaeacianların adası olan Scheria'nın kumsalına bilinci kapalı bir şekilde vurdu. Yorgun ve üzeri deniz yosunlarıyla kaplı bir halde kumsalda kendine gelir. Başta korkan Nausicaa geri çekilse de onu dinler. Ona yardım etmeye karar verir ve saraya giden yolu gösterir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090462831195914240/img/QC_iaRhu8OjWcEJL.jpg" width="600" alt="Odysseus ve Nausicaa'nın Sahildeki Karşılaşma Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9634)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2090463969496518702) | **Published:** Aug 20, 2026
 
 ---
 ### Thor Perşembesi Video Taslağı
@@ -1875,250 +2103,6 @@ pixel art tarzı, döngüsel estetik, nispeten sabit kamera. Senin için değiş
 **Author:** [今井宏之](https://x.com/imaikaiimai) | **Source:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **Published:** Aug 14, 2026
 
 ---
-### Louvre Altın Saat İdol Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Altın saatte Louvre'u hayranlıkla izleyen, neşeli bir kadın idolün yer aldığı, dinamik arka plan tepkilerine sahip sanatsal bir video istemi.
-
-#### 📝 Prompt
-
-```
-Altın saatte Louvre'u oyuncu bir tavırla hayranlıkla izleyen Amerikalı kadın, popüler bir idol gibi neşeli ve dışa dönük; ancak sanatsal ve düşündürücü bir şekilde ince bir çevresel gerilim yansıtıyor, genel kompozisyon tutarlı ancak varlığına karşı dinamik arka plan tepkileri içeriyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088153830563450880/img/_u2QzRzpHA1WodHc.jpg" width="600" alt="Louvre Altın Saat İdol Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9095)**
-
-**Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2088154062902702543) | **Published:** Aug 14, 2026
-
----
-### Mars Habitat Lungs Aktivasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mars'taki yaşam suyu kubbelerinin ve habitatların aktivasyonu için video istemi.
-
-#### 📝 Prompt
-
-```
-Hepsini ayrılırken göster; her biri kraterlere iniş yaparak kraterleri dolduruyor ve Kennedy'nin yaşam suyu kubbelerini aktive ederek tüm krateri kenarlarına kadar kaplıyor ve yeni habitatlar oluşturarak Mars'ın akciğerleri haline geliyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149826374680576/img/ehPk0YBSC0sinIAM.jpg" width="600" alt="Mars Habitat Lungs Aktivasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9092)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088149868288365028) | **Published:** Aug 14, 2026
-
----
-### Vintage Caz Şarkıcısı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tutkulu bir şarkıcının yer aldığı vintage bir orkestra performansı için detaylı video istemi.
-
-#### 📝 Prompt
-
-```
-Siyah takım elbiseli ve fötr şapkalı kel adam, vintage mikrofona tutkuyla şarkı söylüyor; şarkısını söylerken ağzı etkileyici bir şekilde hareket ediyor, eliyle ruh dolu jestler yapıyor, vücudu müziğe uyumlu şekilde hafifçe sallanıyor, fötr şapkası eğik duruyor, arkasındaki büyük orkestra ise nefesli çalgıları çalıyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149124071718912/img/OSlPpSt103JVK9Gf.jpg" width="600" alt="Vintage Caz Şarkıcısı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9086)**
-
-**Author:** [pistacchione](https://x.com/Oldtool9) | **Source:** [Link](https://x.com/Oldtool9/status/2088149153813577744) | **Published:** Aug 14, 2026
-
----
-### Sinematik Zaman Yolcusu Portal Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir zaman yolcusunun uzaydaki zamansal bir yarıktan geçişini tasvir eden, 15 saniyelik kapsamlı ve sinematik bir video sekansı.
-
-#### 📝 Prompt
-
-```
-Christopher Nolan ve Denis Villeneuve tarzında, ince 35mm film greni ve hafif renk sapmalarıyla anamorfik lenslerle çekilmiş, hiper-fotogerçekçi ve hafif sürreal öğeler içeren, 15 saniyelik kesintisiz ultra-sinematik sekans.
-
-Açılış (0-3 sn): Yalnız bir zaman yolcusu, karmaşık pirinç ve deri krono-giysi parçalarının üzerinde yıpranmış koyu bir trençkot giyerek sonsuz karanlık bir boşlukta tek başına duruyor; uzun palto kumaşı ve atkısı sanki yerçekimsiz ortamdaymış gibi hafifçe dalgalanıyor. Yüzü, yansıtıcı bir vizörle kısmen gizlenmiş durumda.
-
-3. saniyede, önlerinde saf parlak beyaz-mavi ışıktan dikey bir yarık, kumaş yırtılır gibi açılıyor. Tarihsel ve gelecek çağların iç içe geçmiş katmanları buradan taşıyor: çöl güneşi altında antik Mısır piramitleri, 1920'lerin hareketli caz çağı sokakları ve Model T'ler, neon ışıklarıyla yıkanan 2080'lerin devasa siberpunk şehri ve devasa ağaçlarla dolu sisli ilkel bir orman. Katmanlar, sıvı cam gibi birbirinin içine girip kıvrılıyor.
-
-4-9 sn: Yolcu yarığın içine doğru adım atıyor. Kamera, zamansal katmanlar yoğunlaşırken, mimari ve manzaralar eriyip yeniden şekillenirken, parlayan saat dişlileri, kum, neon parçacıkları ve yapraklar gerçekçi akışkan fiziğiyle savrulurken, yolcunun etrafında pürüzsüz ve hızlanan bir takip yörüngesi izliyor. Rüzgar ve enerji, paltoyu ve saçları dramatik bir şekilde çekiyor.
-
-9-12 sn: Her şey, tek bir yoğun ışık noktasına, yani tekilliğe doğru kaotik ve güzel bir çöküşle hızlanıyor. Kamera hızla geri çekilmeye başlıyor.
-
-12-15 sn: Tekillik, altın saatte yüksek yörüngeden Dünya'nın huzurlu ve nefes kesici manzarasına doğru genişliyor; mavi okyanuslar ve dönen beyaz bulutlar yumuşak bir şekilde parlıyor, yolcu artık ön planda gezegene bakan küçük bir silüet olarak huzur içinde süzülüyor. Yumuşak hacimsel tanrı ışıkları ve atmosferik pus.
-
-Aydınlatma: Boşluğun derin siyahları ile portalın yoğun soğuk beyazları/mavileri arasında yüksek kontrast, ardından sıcak altın rengi güneş ışığına geçiş. Metal ve vizör üzerinde speküler parlamalar. Genelinde hacimsel ışık huzmeleri.
-
-Yerel ses tasarımı: Derin düşük frekanslı boşluk uğultusu ve hafif mekanik tik tak sesleriyle başlıyor. Portal açıldıkça elektriksel yırtılma ve çatırdama sesleriyle güçleniyor; katmanlı ve iç içe geçmiş tarihsel ses manzaraları (uzaktan gelen atlar ve pazar sohbetleri, caz saksafonu, siberpunk yağmuru ve neon vızıltısı, orman rüzgarı ve kuşlar), yükselen orkestral gerilim ve ruhani tonlar eşlik ediyor. Tekillikte saf, rezonanslı kristal bir notada zirveye ulaşıyor ve ardından tek bir uzak kalp atışı ve hafif yörünge uğultusuyla yumuşak, ortam uzay sessizliğine evriliyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088143927710822400/img/P6C2auiwtspVMggi.jpg" width="600" alt="Sinematik Zaman Yolcusu Portal Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9094)**
-
-**Author:** [Time Traveler](https://x.com/singularitymuse) | **Source:** [Link](https://x.com/singularitymuse/status/2088144011378745848) | **Published:** Aug 14, 2026
-
----
-### MAHEM Plazma Raylı Top Görselleştirmesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Magneto-Hidrodinamik Patlayıcı Mühimmat teknolojilerinin bilimsel görselleştirmesi.
-
-#### 📝 Prompt
-
-```
-Kompakt plazma raylı toplara evrilen MAHEM (Magneto-Hidrodinamik Patlayıcı Mühimmat) teknolojisinin bir görselleştirmesi. 2025–2026 yılları itibarıyla DARPA, daha yüksek akım yoğunluklarına ulaşmak için plazmayı sıkıştıran ve devridaim ettiren çok turlu bobin sistemlerini sergiledi ve...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088137508551094272/img/4lLlkUqvJKUC8pDK.jpg" width="600" alt="MAHEM Plazma Raylı Top Görselleştirmesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9089)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088137563571998981) | **Published:** Aug 14, 2026
-
----
-### Kuantum Fiziği Uzay Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uzay ortamında kuantum optiği, akı tüpleri ve plazma sıkıştırmasını içeren karmaşık bir bilimsel görselleştirme istemi.
-
-#### 📝 Prompt
-
-```
-Uzay ortamında kuantum optiği, Io-Jüpiter akı tüpü, Gyan Mudra anteni ve Yüksek Enerji Yoğunluklu Plazma Sıkıştırmasını birleştiren bir kuantum bobini. Yüksek Enerji Yoğunluklu Plazma Sıkıştırması; SHIELD (Kendi Kendini Onaran Şişirilebilir Yavaşlatıcı) ve L...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088134579383410688/img/MAYVL4isOtq0DEXc.jpg" width="600" alt="Kuantum Fiziği Uzay Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9084)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088134606369529856) | **Published:** Aug 14, 2026
-
----
-### Mars Enerji Döngüsü Sistemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mars'ta kendi kendine yeten bir enerji plazma sistemini gösteren bilim kurgu video istemi.
-
-#### 📝 Prompt
-
-```
-Mars'ta kendi kendine yeten bir enerji döngüsü sistemini betimleyen bir sahne. Toza ve radyasyona dayanıklı şekilde işlenmiş yörüngedeki bobinler, güneş plazmasını hapseder. Sistem, plazma akışını tersine çevirerek bir geri besleme döngüsü oluşturur ve Mars'ın çekirdeği için ısı üretir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088129695648989184/img/dZRJC2GrdDnGScdE.jpg" width="600" alt="Mars Enerji Döngüsü Sistemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9088)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088129717148975216) | **Published:** Aug 14, 2026
-
----
-### Kraliçe Savaşçı Muharebe Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Savaşçı kıyafetleri içinde, elinde kılıcıyla at üzerinde bir muharebe sahnesine doğru ilerleyen kraliçeyi betimleyen sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Savaşçı kıyafetleri giymiş, elinde kılıç tutan ve başında kraliçe tacı olan bir şekilde muharebe alanına doğru koşan bir at üzerinde beni gösteren bir video oluştur
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088105992131387393/img/RYKSv0c37xjiK5-a.jpg" width="600" alt="Kraliçe Savaşçı Muharebe Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9184)**
-
-**Author:** [loretta Goldthwaite Goldthrite Sanders](https://x.com/loretta824yaho1) | **Source:** [Link](https://x.com/loretta824yaho1/status/2088106006413033633) | **Published:** Aug 14, 2026
-
----
-### Psikedelik Sürrealist Cherub Albüm Kapağı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tombul ve asi bir cherub figürünün yer aldığı bir sahnede, birden fazla referans görseli harmanlayan psikedelik bir albüm kapağı için karmaşık sürrealist bir istem.
-
-#### 📝 Prompt
-
-```
-Tüm referans görsellerini tek ve uyumlu bir sahnede birleştiren, güçlü ve sürrealist bir psikedelik albüm kapağı çalışması. Merkezde, dördüncü görseldeki asi cherub duruyor; tombul bebek melek güzelliği groki ai x
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088087541513867264/img/S3EG87dAzwHDuXGR.jpg" width="600" alt="Psikedelik Sürrealist Cherub Albüm Kapağı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9177)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2088087648124743926) | **Published:** Aug 14, 2026
-
----
-### Manoa Falls Yağmur Ormanı Yürüyüşü Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Manoa Falls'a yapılan yemyeşil bir yağmur ormanı yürüyüşüne odaklanan; taze meyveler, içecekler ve büyük yeşil yapraklarla bezeli, huzurlu ve atmosferik bir video istemi.
-
-#### 📝 Prompt
-
-```
-kelime veya ses yok, ani hareketler yok
-
-Bazen Kontrolü Kaybet: ... taze meyveler, küçük sandviçler ve soğuk içeceklerle dolu bir soğutucuyla. Şelale dağların tepesinde, buradan yaklaşık otuz dakikalık sürüş mesafesinde. Adı Manoa Falls, yağmur ormanlarının içinde her yerin büyük yeşil yapraklarla kaplı olduğu harika bir yürüyüş yolu... gitmeye hazır mısın?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088083245502013440/img/w1zw8vccJYIBsuZr.jpg" width="600" alt="Manoa Falls Yağmur Ormanı Yürüyüşü Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9182)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088083861888462939) | **Published:** Aug 14, 2026
-
----
-### Futbol Maçı Gecesi Atmosferi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir sahneyi televizyonda Steelers maçının olduğu gece ortamına dönüştüren video düzenleme istemi.
-
-#### 📝 Prompt
-
-```
-Dışarıdaki manzarayı karanlık bir geceye dönüştür, televizyonda Steelers maçı oynuyor olsun ve kadın 'touchdown' diye bağırsın
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088073692676825088/img/jAOaUCebs7f-35nf.jpg" width="600" alt="Futbol Maçı Gecesi Atmosferi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9097)**
-
-**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2088073752781152305) | **Published:** Aug 14, 2026
-
----
-### Dinozorlu Vahşi Batı Oz Büyücüsü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Oz Büyücüsü karakterlerini eski bir vahşi batı ortamı ve arka planda tarih öncesi dinozorlarla birleştiren bir video istemi.
-
-#### 📝 Prompt
-
-```
-Oz Büyücüsü karakterleri, eski bir vahşi batı arka planı, kovboylar ve arka planda bazı dinozorlar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088066196516339712/img/HUQcIMq7mlSxR_nY.jpg" width="600" alt="Dinozorlu Vahşi Batı Oz Büyücüsü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9181)**
-
-**Author:** [Spacecowboy](https://x.com/Spacedragon22) | **Source:** [Link](https://x.com/Spacedragon22/status/2088066209095065908) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2180,6 +2164,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-22T04:55:47.851Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-22T08:53:38.464Z</sub>
 
 </div>

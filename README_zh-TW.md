@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2552** |
+| 📝 提示詞總數 | **2564** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-08-22** |
 
@@ -189,6 +189,139 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Cybertruck 行駛於鳳凰城交通的疊加畫面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片生成提示詞，描繪了一位駕駛在鳳凰城交通中駕駛 Cybertruck 的場景，特色包含多層螢幕疊加效果與滾動式聊天視窗。
+
+#### 📝 提示詞
+
+```
+一個小型疊加螢幕，顯示一名男子駕駛著 Cybertruck，展示其罕見轉向系統的流暢度；大螢幕則呈現從擋風玻璃視角看到的鳳凰城交通狀況。畫面中還有一個疊加的聊天視窗，顯示不同人正在討論當前發生的事情...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091001617977872385/img/ff8gChZxcBhQSW3X.jpg" width="600" alt="Cybertruck 行駛於鳳凰城交通的疊加畫面">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9631)**
+
+**作者:** [kyle smith](https://x.com/RadCyberTruck) | **來源:** [Link](https://x.com/RadCyberTruck/status/2091001668422824354) | **發布時間:** Aug 22, 2026
+
+---
+### 電影級科幻太空船艦橋
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一張極具細節的電影級太空船艦橋鏡頭，背景為黑暗的艦橋，軍官們的剪影映襯在藍色行星的全景窗前。
+
+#### 📝 提示詞
+
+```
+電影級科幻風格，場景位於黑暗的太空船艦橋內。幾名身穿深色軍裝的軍官站立著，剪影映襯在巨大的全景窗前，窗外可見一顆藍色行星與發光的星系。柔和的體積光穿透黑暗，控制台上的紅綠指示燈閃爍著微光。氛圍寧靜而宏大，細節豐富，具備逼真的光影與反射效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090815306050727936/img/kfWgA3-jWemFpHQU.jpg" width="600" alt="電影級科幻太空船艦橋">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9628)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2090959637105500374) | **發布時間:** Aug 22, 2026
+
+---
+### Cybertruck 勝利慶祝
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片提示詞，描繪了一位獲勝者站在 Cybertruck 上，車頭燈閃爍並配有 16-bit 語音效果。
+
+#### 📝 提示詞
+
+```
+Cybertruck 閃爍著車頭燈，獲勝者站上車頂，並以 16-bit 的錄音效果說道：「勝利是 Cyber」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090950236361420800/img/mUgxuBnOf3SrRdI0.jpg" width="600" alt="Cybertruck 勝利慶祝">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9627)**
+
+**作者:** [kyle smith](https://x.com/RadCyberTruck) | **來源:** [Link](https://x.com/RadCyberTruck/status/2090950263406227956) | **發布時間:** Aug 21, 2026
+
+---
+### 車道縮減匯入
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個影片模擬提示詞，展示車輛在車道縮減情境下匯入車流的過程。
+
+#### 📝 提示詞
+
+```
+車道縮減指示車道，該車道上的車輛隨即匯入直行車道
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090873171868368896/img/e1LmBTWxpjTll7Qc.jpg" width="600" alt="車道縮減匯入">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9626)**
+
+**作者:** [Rocky Flores](https://x.com/maybeme8338o01) | **來源:** [Link](https://x.com/maybeme8338o01/status/2090873216747393211) | **發布時間:** Aug 21, 2026
+
+---
+### Met Gala 夜間森林活動
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個關於 Met Gala 夜間紅毯活動的影片生成提示詞，包含樹木與景觀照明元素。
+
+#### 📝 提示詞
+
+```
+Met Gala 夜間紅毯活動，周圍有許多樹木，搭配景觀照明，現場人潮擁擠
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090819423099609088/img/6xwyET37FO-5_NOX.jpg" width="600" alt="Met Gala 夜間森林活動">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9633)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2090819440258490487) | **發布時間:** Aug 21, 2026
+
+---
+### Tesla Cybercab 紅毯登場
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段詳細的影片提示詞，描述一輛金色 Tesla Cybercab 抵達紅毯活動現場，並展示其自動化車門。
+
+#### 📝 提示詞
+
+```
+金色的 Tesla Cybercab 剛駛入並平穩地停在紅毯上。其蝶翼式車門自動完全向上及向外開啟。一位身穿閃亮黑色鑽石亮片禮服的迷人女性，優雅地從車內步出，踏上...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090816950385381377/img/jnIQhceZFCmj1lb9.jpg" width="600" alt="Tesla Cybercab 紅毯登場">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9629)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2090816984485085400) | **發布時間:** Aug 21, 2026
+
+---
+### 暗黑女王暗影漫步
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個電影級提示詞，用於創作一段暗黑女王行走時，周圍陰影與黑暗隨之蔓延的影片。
+
+#### 📝 提示詞
+
+```
+暗黑女王正朝我的方向走來，所到之處陰影與黑暗隨之蔓延
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090784552319143937/img/M3jnUjKaSAa463X0.jpg" width="600" alt="暗黑女王暗影漫步">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9630)**
+
+**作者:** [David](https://x.com/Mmmm8x5mMmmm) | **來源:** [Link](https://x.com/Mmmm8x5mMmmm/status/2090784726068174879) | **發布時間:** Aug 21, 2026
+
+---
 ### 動漫風格太空戰艦戰鬥場景
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -220,7 +353,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 一位留著黑色長髮、身穿藍色和服的年輕女子站在種滿櫻花樹的日式庭園中。當她水平揮動手中那把散發著淡藍色光芒的劍時，無數櫻花花瓣從劍身飛舞而出，圍繞在她身邊，並組成「感謝您今天的支持」的字樣。隨後，花瓣向鏡頭方向四散開來。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787298868185_th6dix_HQOKd7racAA2eg4.jpg" width="600" alt="櫻花和服劍舞">
+<img src="https://cms-assets.youmind.com/media/1787384997650_66coof_HQOKd7racAA2eg4.jpg" width="600" alt="櫻花和服劍舞">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9575)**
 
@@ -246,6 +379,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **作者:** [SERCOmustGO(Profile Pic) Cures Cancer](https://x.com/SERCObad) | **來源:** [Link](https://x.com/SERCObad/status/2090654372690534648) | **發布時間:** Aug 21, 2026
 
 ---
+### 小木屋暴風雪寫作場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影感的影片提示詞：一位男子在暴風雪期間，於山間小木屋內藉著燭光撰寫他的第一本書。
+
+#### 📝 提示詞
+
+```
+場景是一間昏暗的方形小木屋房間，唯一的光源是老舊木桌上的一根蠟燭。窗外是樹木繁茂的山區，正值寒冷的暴風雪之夜。一名男子坐在桌前，正在撰寫他的第一本書。壁爐傳來劈啪作響的燃燒聲，背景中...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090635267078008832/img/edo7_Tv2rTo5kK5k.jpg" width="600" alt="小木屋暴風雪寫作場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9632)**
+
+**作者:** [Michael](https://x.com/MichaelOnXUSA) | **來源:** [Link](https://x.com/MichaelOnXUSA/status/2090635293577662604) | **發布時間:** Aug 21, 2026
+
+---
 ### 逼真的小狗睡衣自拍影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -265,6 +417,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **作者:** [고딩경제맨](https://x.com/winneravgwin) | **來源:** [Link](https://x.com/winneravgwin/status/2090631627844280421) | **發布時間:** Aug 21, 2026
 
 ---
+### 資料中心溜冰場發電
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段超現實的電影感影片提示詞，描繪了一個未來主義的資料中心，人們在一家經典餐廳旁的溜冰場中透過溜冰來產生電力。
+
+#### 📝 提示詞
+
+```
+一個資料中心溜冰場，人們透過集體溜冰產生的能量轉換為電力，旁邊還有一家 Steak n Shake 餐廳
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090629256116133888/img/vZOj4HyvF3Tt2gQq.jpg" width="600" alt="資料中心溜冰場發電">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9623)**
+
+**作者:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **來源:** [Link](https://x.com/AMERICA250e9/status/2090629295139860535) | **發布時間:** Aug 21, 2026
+
+---
 ### Twitch 實況主遊玩 Cybertruck 遊戲
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -282,6 +453,44 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9567)**
 
 **作者:** [kyle smith](https://x.com/RadCyberTruck) | **來源:** [Link](https://x.com/RadCyberTruck/status/2090624078499512717) | **發布時間:** Aug 21, 2026
+
+---
+### 講葡萄牙語的男性友善訊息
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一份詳細的影片提示詞，描述一位男性以自然的巴西葡萄牙語口音，在車內傳遞正面訊息，並保持動作連貫。
+
+#### 📝 提示詞
+
+```
+該男子面帶微笑，以自然的葡萄牙語（巴西口音）說話，傳遞一段簡短、友善且正面的訊息，例如「Oi! Estou me sentindo muito bem hoje. Que dia incrível, né?」。請保留車內背景、完全一致的外觀以及自然的頭部動作。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090608673697464321/img/XIkmOTOKm5JEpI6c.jpg" width="600" alt="講葡萄牙語的男性友善訊息">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9624)**
+
+**作者:** [Vini](https://x.com/Vinil9t) | **來源:** [Link](https://x.com/Vinil9t/status/2090608698666160330) | **發布時間:** Aug 21, 2026
+
+---
+### Aurora Cyberpunk Pursuit Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個使用符號代數定義的複雜提示詞，用於描述包含懸浮機車與 Aurora 7 單位的科幻追逐場景。
+
+#### 📝 提示詞
+
+```
+[[🟩+🟪]+[[hoverbike+[🤖=👮‍♀️=unit_Aurora_7]]+[🎯_pursuit]+[glossy]+[🔈🔉🔊🔉🔈🚨]]
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090580112202768384/img/SQ-5s4IEznGOmMTR.jpg" width="600" alt="Aurora Cyberpunk Pursuit Video">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9625)**
+
+**作者:** [Elis Satu](https://x.com/astvatsaturn) | **來源:** [Link](https://x.com/astvatsaturn/status/2090580214120165872) | **發布時間:** Aug 20, 2026
 
 ---
 ### 馬格利特風格超現實主義敞篷車
@@ -320,6 +529,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9568)**
 
 **作者:** [kyle smith](https://x.com/RadCyberTruck) | **來源:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **發布時間:** Aug 20, 2026
+
+---
+### 奧德修斯與瑙西卡海灘相遇動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段詳細的敘事提示詞，描繪了奧德修斯漂流至斯刻里亞島並與瑙西卡首次相遇的場景，包含電影級的動畫細節。
+
+#### 📝 提示詞
+
+```
+奧德修斯在離開卡呂普索的島嶼後，在木筏上漂流了數日。波塞頓掀起的風暴摧毀了他的木筏。他奮力游泳直到精疲力竭，最終昏迷在斯刻里亞島（費埃阿斯人的島嶼）的海灘上。他疲憊不堪且渾身沾滿海藻，隨後在海灘上恢復了意識。瑙西卡起初感到害怕而退後，但隨後傾聽了他的訴說。她決定伸出援手，並為他指引前往宮殿的方向。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090462831195914240/img/QC_iaRhu8OjWcEJL.jpg" width="600" alt="奧德修斯與瑙西卡海灘相遇動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9634)**
+
+**作者:** [Déborah](https://x.com/dvorahfr) | **來源:** [Link](https://x.com/dvorahfr/status/2090463969496518702) | **發布時間:** Aug 20, 2026
 
 ---
 ### Thor Thursday 影片草圖
@@ -1875,250 +2103,6 @@ SpaceX Starship 火星登陸頁面首屏設計，場景設定於黃昏，深炭�
 **作者:** [今井宏之](https://x.com/imaikaiimai) | **來源:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **發布時間:** Aug 14, 2026
 
 ---
-### 羅浮宮黃金時刻偶像影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個藝術感十足的影片提示詞，描述一位活潑的女偶像在黃金時刻欣賞羅浮宮，並伴隨動態背景反應。
-
-#### 📝 提示詞
-
-```
-一位美國女性在黃金時刻俏皮地欣賞羅浮宮，展現出如當紅偶像般活潑且富有表現力的特質，同時帶出微妙的環境張力，風格藝術且發人深省；整體構圖保持一致，背景會根據她的存在產生動態反應
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088153830563450880/img/_u2QzRzpHA1WodHc.jpg" width="600" alt="羅浮宮黃金時刻偶像影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9095)**
-
-**作者:** [Jourdan Fernandez](https://x.com/VisualTreats) | **來源:** [Link](https://x.com/VisualTreats/status/2088154062902702543) | **發布時間:** Aug 14, 2026
-
----
-### 火星棲息地「肺部」啟動
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於啟動火星生命水穹頂與棲息地的影片提示詞。
-
-#### 📝 提示詞
-
-```
-展示所有模組分離，每一個都降落在隕石坑中並填滿坑洞，啟動 Kennedy 的生命水穹頂，使其覆蓋整個隕石坑至邊緣及新的棲息地，成為火星的「肺部」。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149826374680576/img/ehPk0YBSC0sinIAM.jpg" width="600" alt="火星棲息地「肺部」啟動">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9092)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2088149868288365028) | **發布時間:** Aug 14, 2026
-
----
-### 復古爵士歌手
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段關於復古大樂團表演與深情歌手的詳細影片提示詞。
-
-#### 📝 提示詞
-
-```
-一位穿著黑色西裝、戴著軟呢帽的禿頭男子對著復古麥克風深情演唱，嘴型生動地隨著歌聲擺動，手勢充滿靈魂，身體隨著音樂輕輕搖擺，軟呢帽微微傾斜，身後的大樂團正演奏著銅管樂器
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149124071718912/img/OSlPpSt103JVK9Gf.jpg" width="600" alt="復古爵士歌手">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9086)**
-
-**作者:** [pistacchione](https://x.com/Oldtool9) | **來源:** [Link](https://x.com/Oldtool9/status/2088149153813577744) | **發布時間:** Aug 14, 2026
-
----
-### 電影級時空旅人傳送門序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段 15 秒的完整電影級影片序列，描繪一名時空旅人穿過時空裂縫進入太空的過程。
-
-#### 📝 提示詞
-
-```
-一段 15 秒連續的超電影級序列，具備超寫實風格與細膩的超現實元素，採用變形鏡頭拍攝，帶有精緻的 35mm 底片顆粒感與輕微的色差，呈現 Christopher Nolan 與 Denis Villeneuve 的風格。
-
-開場 (0-3 秒)：一名孤獨的時空旅人站在無盡的黑暗虛空中，身穿一件歷經風霜的深色風衣，內搭精緻的黃銅與皮革材質時空裝甲，長風衣的衣角與圍巾在零重力下輕微飄動。他們的臉龐被反光面罩遮住了一部分。
-
-第 3 秒時，一道純淨且明亮的藍白色垂直光縫像撕裂布料般在他們面前裂開。歷史與未來的重疊層如瀑布般湧出：沙漠烈日下的古埃及金字塔、1920 年代爵士樂時代熙熙攘攘的街道與福特 T 型車、高聳且霓虹閃爍的 2080 年代賽博龐克巨型城市，以及長滿參天大樹的迷霧原始森林。這些層次如液態玻璃般旋轉並交織在一起。
-
-4-9 秒：旅人向前邁步進入裂縫。攝影機以平滑且加速的軌道環繞拍攝，隨著時空層次加劇，建築與景觀不斷融化並重組，發光的鐘錶齒輪顆粒、沙子、霓虹粒子與落葉在真實的流體物理效果下旋轉。風與能量劇烈地拉扯著風衣與頭髮。
-
-9-12 秒：一切加速向單一強光點——奇點——進行混亂而美麗的坍縮。攝影機開始快速後拉。
-
-12-15 秒：奇點向外擴張，呈現出黃金時刻從高軌道俯瞰地球的寧靜壯麗景色，藍色海洋與旋轉的白雲柔和地發光，旅人此時成為前景中一個平靜漂浮的小剪影，面朝地球。畫面中充滿柔和的體積光與大氣霧氣。
-
-燈光：虛空的深黑與傳送門強烈的冷白/藍色之間形成高對比，隨後過渡到溫暖的金色陽光。金屬與面罩上有鏡面高光。全程伴隨體積光束。
-
-原生音效設計：以深沉的低頻虛空轟鳴聲與微弱的機械滴答聲開場。隨著傳送門開啟，加入電流撕裂與劈啪聲，並疊加歷史場景的音效（遠處的馬蹄聲與市場喧鬧聲、爵士薩克斯風、賽博龐克風格的雨聲與霓虹嗡嗡聲、森林風聲與鳥鳴），管弦樂的張力與空靈音調逐漸升高，在奇點處達到純淨共鳴的晶瑩音符頂峰，隨後轉化為柔和的太空環境靜謐感，伴隨著一聲遙遠的心跳與輕柔的軌道嗡嗡聲。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088143927710822400/img/P6C2auiwtspVMggi.jpg" width="600" alt="電影級時空旅人傳送門序列">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9094)**
-
-**作者:** [Time Traveler](https://x.com/singularitymuse) | **來源:** [Link](https://x.com/singularitymuse/status/2088144011378745848) | **發布時間:** Aug 14, 2026
-
----
-### MAHEM 電漿軌道砲視覺化
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 磁流體動力爆炸彈藥（Magneto-Hydrodynamic Explosive Munition）技術的科學視覺化呈現。
-
-#### 📝 提示詞
-
-```
-將 MAHEM（磁流體動力爆炸彈藥）演進為小型電漿軌道砲的視覺化展示。到了 2025 年至 2026 年，DARPA 展示了多匝線圈系統，該系統能壓縮並循環電漿，以實現更高的電流密度與 l...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088137508551094272/img/4lLlkUqvJKUC8pDK.jpg" width="600" alt="MAHEM 電漿軌道砲視覺化">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9089)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2088137563571998981) | **發布時間:** Aug 14, 2026
-
----
-### 量子物理太空場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個涉及量子光學、磁通管和太空環境中電漿壓縮的複雜科學視覺化提示詞。
-
-#### 📝 提示詞
-
-```
-一個在太空環境中整合了量子光學、木衛一-木星磁通管、智拳印（Gyan Mudra）天線以及高能量密度電漿壓縮的量子線圈。該高能量密度電漿壓縮技術包含 SHIELD（自修復充氣減速器）以及 L...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088134579383410688/img/MAYVL4isOtq0DEXc.jpg" width="600" alt="量子物理太空場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9084)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2088134606369529856) | **發布時間:** Aug 14, 2026
-
----
-### 火星能量循環系統
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個科幻影片提示詞，描繪了火星上的一個自給自足的能量電漿系統。
-
-#### 📝 提示詞
-
-```
-火星場景，描繪了一個自給自足的能量循環系統。軌道上的線圈經過特殊蝕刻以抵抗灰塵和輻射，藉此汲取太陽電漿。該系統透過反轉電漿流來建立回饋迴路，為火星核心產生熱能。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088129695648989184/img/dZRJC2GrdDnGScdE.jpg" width="600" alt="火星能量循環系統">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9088)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2088129717148975216) | **發布時間:** Aug 14, 2026
-
----
-### 女王戰士戰鬥場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級的影片提示詞，描繪了一位身穿戰士服裝、手持寶劍、騎馬衝入戰場的女王。
-
-#### 📝 提示詞
-
-```
-製作一段馬匹奔向戰場的影片，讓我穿著戰士服裝並手持寶劍，同時讓我戴上女王的皇冠
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088105992131387393/img/RYKSv0c37xjiK5-a.jpg" width="600" alt="女王戰士戰鬥場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9184)**
-
-**作者:** [loretta Goldthwaite Goldthrite Sanders](https://x.com/loretta824yaho1) | **來源:** [Link](https://x.com/loretta824yaho1/status/2088106006413033633) | **發布時間:** Aug 14, 2026
-
----
-### 迷幻超現實小天使專輯封面藝術
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個複雜的超現實主義提示詞，用於創作迷幻風格的專輯封面，將多張參考圖像融合為一個場景，主角是一位叛逆的胖嘟嘟小天使。
-
-#### 📝 提示詞
-
-```
-一張強而有力的超現實迷幻專輯封面藝術，將所有參考圖像融合為一個連貫的場景。畫面中央站著第四張圖中那位叛逆的小天使——胖嘟嘟的嬰兒天使 beauty groki ai x
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088087541513867264/img/S3EG87dAzwHDuXGR.jpg" width="600" alt="迷幻超現實小天使專輯封面藝術">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9177)**
-
-**作者:** [Cyperpienso](https://x.com/cyperpienso) | **來源:** [Link](https://x.com/cyperpienso/status/2088087648124743926) | **發布時間:** Aug 14, 2026
-
----
-### Manoa Falls 雨林健行影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個寧靜且充滿氛圍的影片提示詞，聚焦於前往 Manoa Falls 的茂密雨林健行，畫面包含新鮮水果、飲品以及巨大的綠色葉片。
-
-#### 📝 提示詞
-
-```
-無對話或人聲，無突兀的動作
-
-偶爾放縱一下：準備好……新鮮水果、一些小三明治，還有冰桶裡的冷飲。瀑布位於山區，距離這裡大約 30 分鐘車程。那裡叫做 Manoa Falls，是一條穿過雨林的超茂密健行步道，到處都是巨大的綠色葉片……你準備好出發了嗎？
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088083245502013440/img/w1zw8vccJYIBsuZr.jpg" width="600" alt="Manoa Falls 雨林健行影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9182)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2088083861888462939) | **發布時間:** Aug 14, 2026
-
----
-### 美式足球賽之夜氛圍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個將場景變為夜晚，且電視上播放 Steelers 比賽的影片編輯提示詞。
-
-#### 📝 提示詞
-
-```
-將室外場景改為夜晚，電視上播放著 Steelers 的比賽，她大喊著達陣 (touchdown)
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088073692676825088/img/jAOaUCebs7f-35nf.jpg" width="600" alt="美式足球賽之夜氛圍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9097)**
-
-**作者:** [Irene Sieg](https://x.com/SiegSieg50040) | **來源:** [Link](https://x.com/SiegSieg50040/status/2088073752781152305) | **發布時間:** Aug 14, 2026
-
----
-### 西部版《綠野仙蹤》與恐龍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個結合了《綠野仙蹤》角色、舊西部背景以及背景中出現史前恐龍的影片提示詞。
-
-#### 📝 提示詞
-
-```
-《綠野仙蹤》角色置身於舊西部背景中，背景還有一些恐龍
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088066196516339712/img/HUQcIMq7mlSxR_nY.jpg" width="600" alt="西部版《綠野仙蹤》與恐龍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9181)**
-
-**作者:** [Spacecowboy](https://x.com/Spacedragon22) | **來源:** [Link](https://x.com/Spacedragon22/status/2088066209095065908) | **發布時間:** Aug 14, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2180,6 +2164,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-22T04:55:32.306Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-22T08:53:20.613Z</sub>
 
 </div>

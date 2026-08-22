@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2552** |
+| 📝 Total Prompts | **2564** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-22** |
 
@@ -189,6 +189,139 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Sobreposição de tráfego em Phoenix com Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo que retrata um motorista em um Cybertruck navegando pelo tráfego de Phoenix, apresentando uma sobreposição de tela em várias camadas e uma janela de chat com rolagem.
+
+#### 📝 Prompt
+
+```
+Uma pequena tela de sobreposição de um cara dirigindo um Cybertruck, vendo como a direção é suave; a tela grande mostra, a partir do ponto de vista do para-brisa, ele no tráfego em Phoenix. Você vê uma sobreposição de um chat com várias pessoas enviando mensagens sobre o que está acontecendo...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091001617977872385/img/ff8gChZxcBhQSW3X.jpg" width="600" alt="Sobreposição de tráfego em Phoenix com Cybertruck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9631)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2091001668422824354) | **Published:** Aug 22, 2026
+
+---
+### Ponte de Comando de Nave Espacial Sci-Fi Cinematográfica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma tomada cinematográfica altamente detalhada de uma ponte de comando de nave espacial escura, apresentando oficiais militares em silhueta contra uma vista panorâmica de um planeta azul.
+
+#### 📝 Prompt
+
+```
+Tomada de ficção científica cinematográfica dentro de uma ponte de comando de nave espacial escura. Vários oficiais em uniformes militares escuros estão em silhueta contra uma enorme janela panorâmica que mostra um planeta azul e uma galáxia brilhante. Raios de luz volumétricos suaves cortam a escuridão, luzes vermelhas e verdes do painel de controle brilham nos consoles. Atmosfera épica e silenciosa, altamente detalhada, iluminação e reflexos realistas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090815306050727936/img/kfWgA3-jWemFpHQU.jpg" width="600" alt="Ponte de Comando de Nave Espacial Sci-Fi Cinematográfica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9628)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2090959637105500374) | **Published:** Aug 22, 2026
+
+---
+### Celebração da Vitória no Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo que retrata um vencedor em cima de um Cybertruck com faróis piscando e um efeito de narração em 16 bits.
+
+#### 📝 Prompt
+
+```
+O Cybertruck pisca os faróis enquanto o vencedor sobe no veículo e diz, com uma voz gravada em 16 bits: "A vitória é Cyber"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090950236361420800/img/mUgxuBnOf3SrRdI0.jpg" width="600" alt="Celebração da Vitória no Cybertruck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9627)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090950263406227956) | **Published:** Aug 21, 2026
+
+---
+### Fusão de tráfego em redução de faixa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de simulação de vídeo que mostra um veículo entrando no tráfego durante um cenário de redução de faixa.
+
+#### 📝 Prompt
+
+```
+faixa de redução indicada, e logo o veículo naquela faixa se fundiu à faixa de passagem
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090873171868368896/img/e1LmBTWxpjTll7Qc.jpg" width="600" alt="Fusão de tráfego em redução de faixa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9626)**
+
+**Author:** [Rocky Flores](https://x.com/maybeme8338o01) | **Source:** [Link](https://x.com/maybeme8338o01/status/2090873216747393211) | **Published:** Aug 21, 2026
+
+---
+### Evento Met Gala: Floresta Noturna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo para um evento de tapete vermelho noturno no Met, com árvores e iluminação paisagística.
+
+#### 📝 Prompt
+
+```
+Evento de tapete vermelho no Met com muitas árvores à noite, iluminação paisagística e grandes multidões
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090819423099609088/img/6xwyET37FO-5_NOX.jpg" width="600" alt="Evento Met Gala: Floresta Noturna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9633)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2090819440258490487) | **Published:** Aug 21, 2026
+
+---
+### Chegada do Tesla Cybercab no Tapete Vermelho
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado descrevendo um Tesla Cybercab dourado chegando a um evento de tapete vermelho com portas automatizadas.
+
+#### 📝 Prompt
+
+```
+O Tesla Cybercab dourado acaba de chegar e para suavemente no tapete vermelho. Suas portas estilo borboleta abrem-se automática e totalmente para cima e para fora. A mulher glamorosa, vestindo um vestido de lantejoulas de diamante preto brilhante, sai graciosamente do carro para o...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090816950385381377/img/jnIQhceZFCmj1lb9.jpg" width="600" alt="Chegada do Tesla Cybercab no Tapete Vermelho">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9629)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2090816984485085400) | **Published:** Aug 21, 2026
+
+---
+### Queen of Darkness Shadow Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico para criar um vídeo de uma Rainha das Trevas caminhando enquanto sombras e escuridão se espalham ao seu redor.
+
+#### 📝 Prompt
+
+```
+A Rainha das Trevas caminha em minha direção, espalhando sombras e escuridão ao seu redor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090784552319143937/img/M3jnUjKaSAa463X0.jpg" width="600" alt="Queen of Darkness Shadow Walk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9630)**
+
+**Author:** [David](https://x.com/Mmmm8x5mMmmm) | **Source:** [Link](https://x.com/Mmmm8x5mMmmm/status/2090784726068174879) | **Published:** Aug 21, 2026
+
+---
 ### Cena de Combate de Encouraçado Espacial em Anime
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -220,7 +353,7 @@ Cena da batalha final do encouraçado espacial Kyoshi, estilo anime, alto nível
 Uma jovem com longos cabelos pretos vestindo um quimono azul está em um jardim japonês cercado por cerejeiras. Ao balançar horizontalmente a espada que brilha em azul claro, inúmeras pétalas de cerejeira voam da espada, dançando ao seu redor e formando a mensagem "Obrigado pelo seu apoio hoje também." As pétalas então se dispersam em direção à câmera.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787298868185_th6dix_HQOKd7racAA2eg4.jpg" width="600" alt="Dança da Espada de Quimono com Flores de Cerejeira">
+<img src="https://cms-assets.youmind.com/media/1787384997650_66coof_HQOKd7racAA2eg4.jpg" width="600" alt="Dança da Espada de Quimono com Flores de Cerejeira">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9575)**
 
@@ -246,6 +379,25 @@ Nero tocando violino enquanto Roma queima. Tocando Devil Went Down to Georgia no
 **Author:** [SERCOmustGO(Profile Pic) Cures Cancer](https://x.com/SERCObad) | **Source:** [Link](https://x.com/SERCObad/status/2090654372690534648) | **Published:** Aug 21, 2026
 
 ---
+### Cena de Escrita em Cabana durante Nevasca
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico de um homem escrevendo seu primeiro livro à luz de velas em uma cabana de madeira nas montanhas durante uma nevasca.
+
+#### 📝 Prompt
+
+```
+A cena é um quarto quadrado e escuro em uma cabana de madeira, a única luz é uma vela sobre uma velha escrivaninha de madeira. É uma noite fria de nevasca nas montanhas arborizadas. Um homem está sentado à escrivaninha escrevendo seu primeiro livro. Uma lareira estala ao fundo...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090635267078008832/img/edo7_Tv2rTo5kK5k.jpg" width="600" alt="Cena de Escrita em Cabana durante Nevasca">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9632)**
+
+**Author:** [Michael](https://x.com/MichaelOnXUSA) | **Source:** [Link](https://x.com/MichaelOnXUSA/status/2090635293577662604) | **Published:** Aug 21, 2026
+
+---
 ### Vídeo selfie realista de um cachorrinho de pijama
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -265,6 +417,25 @@ Um cachorrinho pequeno e fofo, vestindo um conjunto de pijama casual e folgado, 
 **Author:** [고딩경제맨](https://x.com/winneravgwin) | **Source:** [Link](https://x.com/winneravgwin/status/2090631627844280421) | **Published:** Aug 21, 2026
 
 ---
+### Geração de Energia em Pista de Patinação em Data Center
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico surreal que retrata um data center futurista onde humanos geram energia patinando em uma pista ao lado de um restaurante clássico.
+
+#### 📝 Prompt
+
+```
+Uma pista de patinação em um data center que utiliza a energia coletiva humana enquanto patinam para converter em eletricidade ao lado de um Steak 'n Shake
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090629256116133888/img/vZOj4HyvF3Tt2gQq.jpg" width="600" alt="Geração de Energia em Pista de Patinação em Data Center">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9623)**
+
+**Author:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **Source:** [Link](https://x.com/AMERICA250e9/status/2090629295139860535) | **Published:** Aug 21, 2026
+
+---
 ### Gameplay de Cybertruck de Streamer na Twitch
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -282,6 +453,44 @@ Uma mulher fazendo uma transmissão ao vivo na Twitch jogando um jogo 3D de Cybe
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9567)**
 
 **Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090624078499512717) | **Published:** Aug 21, 2026
+
+---
+### Mensagem Amigável de um Homem Falando Português
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado para um homem falando naturalmente com sotaque brasileiro, transmitindo uma mensagem positiva de dentro de um carro com movimento consistente.
+
+#### 📝 Prompt
+
+```
+O homem sorri e fala naturalmente em português (sotaque brasileiro), dizendo uma mensagem curta, amigável e positiva como "Oi! Estou me sentindo muito bem hoje. Que dia incrível, né?". Mantenha o fundo do interior do carro, a aparência exatamente igual e o movimento natural da cabeça.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090608673697464321/img/XIkmOTOKm5JEpI6c.jpg" width="600" alt="Mensagem Amigável de um Homem Falando Português">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9624)**
+
+**Author:** [Vini](https://x.com/Vinil9t) | **Source:** [Link](https://x.com/Vinil9t/status/2090608698666160330) | **Published:** Aug 21, 2026
+
+---
+### Vídeo de Perseguição Cyberpunk Aurora
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt complexo que utiliza álgebra simbólica para definir uma cena de perseguição de ficção científica com uma moto voadora e a unidade Aurora 7.
+
+#### 📝 Prompt
+
+```
+[[🟩+🟪]+[[hoverbike+[🤖=👮‍♀️=unit_Aurora_7]]+[🎯_pursuit]+[glossy]+[🔈🔉🔊🔉🔈🚨]]
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090580112202768384/img/SQ-5s4IEznGOmMTR.jpg" width="600" alt="Vídeo de Perseguição Cyberpunk Aurora">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9625)**
+
+**Author:** [Elis Satu](https://x.com/astvatsaturn) | **Source:** [Link](https://x.com/astvatsaturn/status/2090580214120165872) | **Published:** Aug 20, 2026
 
 ---
 ### Conversível Surrealista no Estilo de Magritte
@@ -320,6 +529,25 @@ Uma pintura a óleo surrealista no estilo de Magritte, retratando um casal senta
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9568)**
 
 **Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **Published:** Aug 20, 2026
+
+---
+### Animação do Encontro de Odisseu e Nausícaa na Praia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt narrativo detalhado que descreve Odisseu chegando à costa de Esquéria e seu primeiro encontro com Nausícaa, apresentando detalhes de animação cinematográfica.
+
+#### 📝 Prompt
+
+```
+Odisseu passou dias à deriva em uma jangada após deixar a ilha de Calipso. Uma tempestade provocada por Poseidon destruiu sua jangada. Ele nadou até ficar completamente exausto e acabou inconsciente na praia de Esquéria, a ilha dos Feácios. Exausto e coberto de algas, ele recupera a consciência na areia. Nausícaa, inicialmente assustada, recua, mas depois o ouve. Ela decide ajudá-lo e indica o caminho para o palácio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090462831195914240/img/QC_iaRhu8OjWcEJL.jpg" width="600" alt="Animação do Encontro de Odisseu e Nausícaa na Praia">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9634)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2090463969496518702) | **Published:** Aug 20, 2026
 
 ---
 ### Esboço de Vídeo Thor Thursday
@@ -1875,250 +2103,6 @@ estilo pixel art, estética em loop, câmera relativamente estática. Não consi
 **Author:** [今井宏之](https://x.com/imaikaiimai) | **Source:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **Published:** Aug 14, 2026
 
 ---
-### Vídeo de Idol na Golden Hour no Louvre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo artístico de uma idol feminina alegre admirando o Louvre durante a golden hour, com reações dinâmicas do ambiente.
-
-#### 📝 Prompt
-
-```
-Jovem americana admirando o Louvre de forma brincalhona durante a golden hour, alegre e expressiva como uma idol popular, mas exibindo uma sutil tensão ambiental, artístico e instigante, com composição geral consistente, mas com resposta dinâmica do fundo à sua presença
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088153830563450880/img/_u2QzRzpHA1WodHc.jpg" width="600" alt="Vídeo de Idol na Golden Hour no Louvre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9095)**
-
-**Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2088154062902702543) | **Published:** Aug 14, 2026
-
----
-### Ativação dos Pulmões do Habitat em Marte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de vídeo para a ativação de cúpulas de água viva e habitats em Marte.
-
-#### 📝 Prompt
-
-```
-Mostre todos eles se destacando, cada um pousando em uma cratera, preenchendo-a e ativando as cúpulas de água viva de Kennedy para cobrir toda a cratera até a borda e o novo habitat, tornando-se os pulmões de Marte.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149826374680576/img/ehPk0YBSC0sinIAM.jpg" width="600" alt="Ativação dos Pulmões do Habitat em Marte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9092)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088149868288365028) | **Published:** Aug 14, 2026
-
----
-### Cantor de Jazz Vintage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo detalhado para uma apresentação de big band vintage com um cantor apaixonado.
-
-#### 📝 Prompt
-
-```
-O homem careca de terno preto e chapéu fedora canta apaixonadamente em um microfone vintage, com a boca se movendo de forma expressiva enquanto ele canta, gesticulando com alma, o corpo balançando levemente ao ritmo da música, chapéu fedora inclinado, a orquestra de big band atrás dele tocando metais
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088149124071718912/img/OSlPpSt103JVK9Gf.jpg" width="600" alt="Cantor de Jazz Vintage">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9086)**
-
-**Author:** [pistacchione](https://x.com/Oldtool9) | **Source:** [Link](https://x.com/Oldtool9/status/2088149153813577744) | **Published:** Aug 14, 2026
-
----
-### Sequência Cinematográfica de Portal de Viajante do Tempo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma sequência de vídeo cinematográfica abrangente de 15 segundos retratando um viajante do tempo atravessando uma fenda temporal em direção ao espaço.
-
-#### 📝 Prompt
-
-```
-Uma sequência ultra-cinematográfica contínua de 15 segundos, hiper-fotorrealista com elementos surreais sutis, filmada com lentes anamórficas com granulação de filme 35mm fina e leve aberração cromática, no estilo de Christopher Nolan e Denis Villeneuve.
-
-Abertura (0-3s): Um viajante do tempo solitário está sozinho em um vazio escuro infinito, vestindo um sobretudo escuro desgastado sobre elementos intrincados de um traje crono de latão e couro, com o tecido do sobretudo e o cachecol agitando-se levemente como se estivessem em gravidade zero. Seu rosto está parcialmente oculto por uma viseira reflexiva.
-
-Aos 3 segundos, uma costura vertical de luz branco-azulada pura e brilhante se abre à sua frente como um tecido sendo rasgado. Camadas sobrepostas e em cascata de eras históricas e futuras fluem através dela: pirâmides egípcias antigas sob o sol do deserto, ruas movimentadas da era do jazz dos anos 1920 com carros Modelo T, uma megacidade cyberpunk imponente e banhada em neon dos anos 2080, e uma floresta primordial enevoada com árvores gigantescas. As camadas giram e se dobram umas nas outras como vidro líquido.
-
-4-9s: O viajante caminha em direção à fenda. A câmera executa uma órbita de rastreamento suave e acelerada ao redor dele enquanto as camadas temporais se intensificam, com arquitetura e paisagens derretendo e se reformando, partículas de engrenagens de relógio brilhantes, areia, partículas de neon e folhas girando em uma física de fluidos realista. O vento e a energia puxam o sobretudo e o cabelo dramaticamente.
-
-9-12s: Tudo acelera em um colapso caótico e belo em direção a um único ponto de luz intensa — a singularidade. A câmera começa a se afastar rapidamente.
-
-12-15s: A singularidade se expande para fora em uma visão serena e de tirar o fôlego da Terra a partir de uma órbita alta durante a hora dourada, oceanos azuis e nuvens brancas rodopiantes brilhando suavemente, com o viajante agora uma pequena silhueta flutuando pacificamente em primeiro plano, de frente para o planeta. Raios de luz volumétricos suaves e névoa atmosférica.
-
-Iluminação: Alto contraste entre os pretos profundos do vazio e os brancos/azuis frios intensos do portal, transicionando para a luz solar dourada quente. Reflexos especulares em metal e na viseira. Raios de luz volumétricos por toda parte.
-
-Design de áudio nativo: Começa com um estrondo profundo de baixa frequência do vazio e um tique-taque mecânico fraco. Constrói-se com estalos e ruídos elétricos à medida que o portal se abre, com paisagens sonoras históricas sobrepostas (cavalos distantes e burburinho de mercado, saxofone de jazz, chuva cyberpunk e zumbido de neon, vento da floresta e pássaros), tensão orquestral crescente e tons etéreos, atingindo o pico em uma nota cristalina ressonante pura na singularidade, depois resolvendo-se em um silêncio espacial ambiente suave com um único batimento cardíaco distante e um zumbido orbital gentil.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088143927710822400/img/P6C2auiwtspVMggi.jpg" width="600" alt="Sequência Cinematográfica de Portal de Viajante do Tempo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9094)**
-
-**Author:** [Time Traveler](https://x.com/singularitymuse) | **Source:** [Link](https://x.com/singularitymuse/status/2088144011378745848) | **Published:** Aug 14, 2026
-
----
-### Visualização da Railgun de Plasma MAHEM
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Visualização científica de tecnologias de Munição Explosiva Magnetohidrodinâmica.
-
-#### 📝 Prompt
-
-```
-Uma visualização da MAHEM (Munição Explosiva Magnetohidrodinâmica) evoluída para railguns de plasma compactas. Até 2025–2026, a DARPA demonstrou sistemas de bobinas de múltiplas voltas que comprimem e recirculam o plasma para alcançar maiores densidades de corrente e l...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088137508551094272/img/4lLlkUqvJKUC8pDK.jpg" width="600" alt="Visualização da Railgun de Plasma MAHEM">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9089)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088137563571998981) | **Published:** Aug 14, 2026
-
----
-### Cena Espacial de Física Quântica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt complexo de visualização científica envolvendo óptica quântica, tubos de fluxo e compressão de plasma em um ambiente espacial.
-
-#### 📝 Prompt
-
-```
-Uma bobina quântica integrando óptica quântica, tubo de fluxo de Io-Júpiter, antena Gyan Mudra e Compressão de Plasma de Alta Densidade de Energia em um cenário espacial. A Compressão de Plasma de Alta Densidade de Energia inclui SHIELD (Desacelerador Inflável Autorregenerativo) e L...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088134579383410688/img/MAYVL4isOtq0DEXc.jpg" width="600" alt="Cena Espacial de Física Quântica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9084)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088134606369529856) | **Published:** Aug 14, 2026
-
----
-### Sistema de Loop de Energia de Marte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo de ficção científica que ilustra um sistema de plasma de energia autossustentável em Marte.
-
-#### 📝 Prompt
-
-```
-Uma cena em Marte retratando um sistema de loop de energia autossustentável. Bobinas em órbita, projetadas para resistir à poeira e à radiação, aproveitam o plasma solar. O sistema inverte o fluxo de plasma para criar um loop de feedback, gerando calor para o núcleo de Marte.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088129695648989184/img/dZRJC2GrdDnGScdE.jpg" width="600" alt="Sistema de Loop de Energia de Marte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9088)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2088129717148975216) | **Published:** Aug 14, 2026
-
----
-### Cena de Batalha da Rainha Guerreira
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico retratando uma rainha vestida como guerreira, armada com uma espada, montando um cavalo em uma cena de batalha.
-
-#### 📝 Prompt
-
-```
-Faça um cavalo correndo para uma batalha, eu vestida como uma guerreira com uma espada, faça-me usando uma coroa de rainha
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088105992131387393/img/RYKSv0c37xjiK5-a.jpg" width="600" alt="Cena de Batalha da Rainha Guerreira">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9184)**
-
-**Author:** [loretta Goldthwaite Goldthrite Sanders](https://x.com/loretta824yaho1) | **Source:** [Link](https://x.com/loretta824yaho1/status/2088106006413033633) | **Published:** Aug 14, 2026
-
----
-### Arte de Álbum de Querubim Surrealista Psicodélico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt surrealista complexo para uma capa de álbum psicodélica que combina várias imagens de referência em uma cena apresentando um querubim rebelde e rechonchudo.
-
-#### 📝 Prompt
-
-```
-Uma poderosa arte de capa de álbum psicodélica surrealista que funde todas as imagens de referência em uma cena coesa. No centro, destaca-se o querubim rebelde da quarta imagem — a beleza de um anjo bebê rechonchudo groki ai x
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088087541513867264/img/S3EG87dAzwHDuXGR.jpg" width="600" alt="Arte de Álbum de Querubim Surrealista Psicodélico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9177)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2088087648124743926) | **Published:** Aug 14, 2026
-
----
-### Vídeo de trilha na floresta tropical de Manoa Falls
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo sereno e atmosférico focado em uma trilha exuberante na floresta tropical até Manoa Falls, apresentando frutas frescas, bebidas e grandes folhas verdes.
-
-#### 📝 Prompt
-
-```
-sem palavras ou vozes, sem movimentos bruscos
-
-Lose Control Sometimes: com ... frutas frescas, alguns sanduíches e bebidas geladas no cooler. a cachoeira fica nas montanhas, a cerca de trinta minutos de carro daqui. chama-se Manoa Falls, uma trilha super exuberante pela floresta tropical com grandes folhas verdes por toda parte... você está pronto para ir?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088083245502013440/img/w1zw8vccJYIBsuZr.jpg" width="600" alt="Vídeo de trilha na floresta tropical de Manoa Falls">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9182)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088083861888462939) | **Published:** Aug 14, 2026
-
----
-### Atmosfera de noite de jogo de futebol americano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de edição de vídeo para mudar uma cena para a noite com um jogo dos Steelers na TV.
-
-#### 📝 Prompt
-
-```
-Mude a paisagem externa para a noite, com a TV ligada passando o jogo dos Steelers e ela gritando touchdown
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088073692676825088/img/jAOaUCebs7f-35nf.jpg" width="600" alt="Atmosfera de noite de jogo de futebol americano">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9097)**
-
-**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2088073752781152305) | **Published:** Aug 14, 2026
-
----
-### O Mágico de Oz no Velho Oeste com Dinossauros
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo que mistura os personagens de O Mágico de Oz com um cenário de velho oeste e dinossauros pré-históricos ao fundo.
-
-#### 📝 Prompt
-
-```
-O Mágico de Oz com um cenário de velho oeste, cowboys e alguns dinossauros ao fundo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088066196516339712/img/HUQcIMq7mlSxR_nY.jpg" width="600" alt="O Mágico de Oz no Velho Oeste com Dinossauros">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9181)**
-
-**Author:** [Spacecowboy](https://x.com/Spacedragon22) | **Source:** [Link](https://x.com/Spacedragon22/status/2088066209095065908) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2180,6 +2164,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-22T04:55:46.155Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-22T08:53:37.128Z</sub>
 
 </div>
