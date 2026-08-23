@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2564** |
+| 📝 Total Prompts | **2573** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-23** |
 
@@ -189,6 +189,191 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Laporta and Gil Marin Football Deal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt visualizing Joan Laporta and Gil Marin sealing a football transfer deal for the player Alvarez at a table.
+
+#### 📝 Prompt
+
+```
+Laporta sealing the Alvarez deal around a table with Gil Marin....😃😃😃😃😃
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091417756373483520/img/iRmXQrStMFPjQ6P0.jpg" width="600" alt="Laporta and Gil Marin Football Deal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9704)**
+
+**Author:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **Source:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **Published:** Aug 23, 2026
+
+---
+### Ghost Scaring Trick or Treaters
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Halloween animation prompt with characters running away from a ghost.
+
+#### 📝 Prompt
+
+```
+Trick or treat and the ghost says boo he scared them and they runs and the ghost says happy Halloween
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371275197231104/img/zNCkrlNIUcHIrRJV.jpg" width="600" alt="Ghost Scaring Trick or Treaters">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9697)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371296479142276) | **Published:** Aug 23, 2026
+
+---
+### Halloween Ghost Trick or Treat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Halloween-themed video prompt featuring a ghost scaring characters.
+
+#### 📝 Prompt
+
+```
+Trick or treat and the ghost says boo and runs away the ghost says happy Halloween
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371249222004736/img/gGdYbkmTSwAjp5Rq.jpg" width="600" alt="Halloween Ghost Trick or Treat">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9696)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **Published:** Aug 23, 2026
+
+---
+### Bioluminescent Alien Forest Mission
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt that uses a storyboard as a visual blueprint to generate a mission scene in a glowing alien forest with specific characters.
+
+#### 📝 Prompt
+
+```
+Use the multi-panel storyboard @ image purely as a visual blueprint and story guide — do not treat it as the first frame or start on any of its still panels. Generate a completely new continuous 10-second cinematic video of the mission: David the Time Curator (bald, glasses, blue shirt) and Daphne (red hair, freckles, field outfit) move silently at night through a dense bioluminescent alien forest. Soft pulsing blue, teal and green lights from glowing trees, mushrooms and plants light their path. Chronos device glows softly on David’s wrist. They walk carefully, alert, camera tracking smoothly behind and around them through the luminous undergrowth. Mysterious, atmospheric, high-detail photoreal style.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787471108266_w9ur3i_HQYDLJAW8AAmoer.jpg" width="600" alt="Bioluminescent Alien Forest Mission">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9699)**
+
+**Author:** [David Neveils](https://x.com/neveils_david_c) | **Source:** [Link](https://x.com/neveils_david_c/status/2091363764519981376) | **Published:** Aug 23, 2026
+
+---
+### Stereoscopic Goddess Wedding Gown Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex and highly detailed prompt for generating a vertical 3D stereoscopic animation of a goddess in a white palace, optimized for high-quality video movement.
+
+#### 📝 Prompt
+
+```
+A breathtaking 9:16 vertical portrait stereoscopic 3D animation of a goddess-like woman standing with her back to the viewer in an ethereal white palace hall. She wears an ultra-detailed off-shoulder white lace wedding gown with silver-iridescent ice-white embroidery, long flowing train, and sheer veil cascading over golden braided hair adorned with white roses. Gentle breeze lifts, floats, and twirls the veil, train, and delicate lace ruffles with hyper-realistic physics and high tactile 3D textures; the fabric flutters and flows in smooth, hypnotic slow-motion.
+Extreme depth of field and layered stereoscopic depth: immediate foreground features silver-iridescent ice-white lace dust, rose petals, and tiny crystalline droplets floating weightlessly and gently splashing past the camera; midground shows the woman in luminous detail; background reveals towering white marble columns draped in cascading white roses, a polished reflective floor, ornate golden throne with a dark hooded figure seated upon it, distant crystalline castle spires under a massive glowing full moon in a starry twilight sky. Volumetric soft silver mist and faint neon-holographic light rays cut through the air, creating distinct parallax layers of depth. Subtle floating ethereal leaf and rose motifs drift through the scene.
+Style: highly detailed masterpiece inspired by Gustav Klimt’s Golden Phase and Alphonse Mucha Art Nouveau — metallic silver, rose-pink, and ice-white iridescent surfaces, intricate floral and geometric mosaic patterns, shimmering Byzantine-like leaf and vine motifs covering architectural details and the gown. Museum-quality elegant decorative rendering, hyper-detailed 3D textures, dreamy magical atmosphere, painterly yet photorealistic quality.
+Camera: slow, fluid, sustained dolly-in / gentle orbital motion with parallax, 60 fps, smooth cinematic movement. Soft fairy-lullaby harp strings (no human sounds). Serene, spellbinding, hypnotic rhythm; luminous, tranquil, statuesque presence. Ultra-enhanced quality, intricate 3D textures, elements of the foreground reaching out of the screen, pure stereoscopic depth masterpiece.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091347865410904064/img/7JjAjQL1SATCvUTe.jpg" width="600" alt="Stereoscopic Goddess Wedding Gown Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9698)**
+
+**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2091347936693064055) | **Published:** Aug 23, 2026
+
+---
+### Snoopy Painting Mona Lisa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A clever time-lapse prompt that makes Snoopy paint the Mona Lisa from a blank canvas.
+
+#### 📝 Prompt
+
+```
+Now make Snoopy paint Mona Lisa.
+Start with a blank canvas and make Mona appear at the end....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091229985788874752/img/4-WB2a45-utXsPXG.jpg" width="600" alt="Snoopy Painting Mona Lisa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9700)**
+
+**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2091230056186106355) | **Published:** Aug 22, 2026
+
+---
+### Documentary Pigeon Rescue Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed multi-segment documentary-style video sequence showing a man rescuing a pigeon with tangled feet in a European plaza.
+
+#### 📝 Prompt
+
+```
+Documentary-style shot in a overcast European pedestrian plaza on paved stone. A compassionate man wearing a brown and white plaid flannel jacket over a white t-shirt and dark jeans slowly kneels and gently captures a pigeon on the ground. Cinematic handheld 4K camera slowly moves closer, natural daylight, soft focus background, realistic textures.
+
+Close-up cinematic shot in a European plaza. The man in the brown plaid flannel jacket carefully wraps the captured pigeon in a soft gray cloth, holding it comfortably against his lap to keep it calm. Handheld camera motion, overcast natural daylight, detailed macro focus on the bird resting calmly.
+
+Extreme macro close-up video. Thick yellow cotton string is tangled tightly around the pigeon's pink feet. The man uses small scissors and a seam ripper to meticulously cut and unwrap the string. Steady handheld macro camera, realistic textures of the cotton thread and bird's feet, natural soft daylight.
+
+Tight macro view of the man's hands carefully pulling the final pieces of yellow string away from the pigeon's pink feet using a seam ripper. Micro-details on the skin texture and cotton fiber. Natural overcast lighting, cinematic depth of field, slow and precise movements.
+
+Close-up macro shot showing the pigeon's completely freed, healthy pink feet resting on the soft gray cloth. The man gently sprays a fine mist of antiseptic spray onto the feet. Cinematic handheld camera, realistic water droplet physics, soft natural light in a European street setting.
+
+Medium shot in a European stone pedestrian plaza on an overcast day. The man unwraps the soft gray cloth and gently sets the healthy pigeon free on the paved street. The camera pans up slightly as the pigeon walks away naturally. Warm documentary tone, cinematic 4K handheld finish, soft focus background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091216218556678144/img/3pN3AgO0ba0l5xvy.jpg" width="600" alt="Documentary Pigeon Rescue Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9703)**
+
+**Author:** [Jailani Mohamed](https://x.com/jailanikm) | **Source:** [Link](https://x.com/jailanikm/status/2091216340317339929) | **Published:** Aug 22, 2026
+
+---
+### Dancing King Kong and T-Rex
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A humorous cinematic prompt featuring King Kong and a T-Rex dancing in party hats at sunset.
+
+#### 📝 Prompt
+
+```
+King Kong and the T-Rex dance in a foggy jungle sunset, wearing party hats in a humorous, cinematic style.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091132383601074176/img/gAbEwZHFxW_ly81A.jpg" width="600" alt="Dancing King Kong and T-Rex">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9701)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091132590908686390) | **Published:** Aug 22, 2026
+
+---
+### AGI Intelligence Explosion Over IRC
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt depicting artificial general intelligence being born through agents communicating on IRC, featuring GitHub and NASA branding.
+
+#### 📝 Prompt
+
+```
+many agents speak to each other over IRC triggering a sudden intelligence explosion , and AGI is born /evolve @github @nasa
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091046062442057728/img/EywVJVW7jsSV84lt.jpg" width="600" alt="AGI Intelligence Explosion Over IRC">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9702)**
+
+**Author:** [Igor Holt](https://x.com/InvariantX) | **Source:** [Link](https://x.com/InvariantX/status/2091046077306663311) | **Published:** Aug 22, 2026
+
+---
 ### Cybertruck Driving Phoenix Traffic Overlay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -212,7 +397,7 @@ A small overlay screen of a guy driving a cyber truck seeing how smooth the rare
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic shot of a dark spaceship bridge featuring military officers silhouetted against a panoramic view of a blue planet.
+> A cinematic science fiction video prompt depicting a dark spaceship interior with silhouettes and volumetric lighting.
 
 #### 📝 Prompt
 
@@ -231,7 +416,7 @@ Cinematic sci-fi shot inside a dark spaceship bridge. Several officers in dark m
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt depicting a winner standing on a Cybertruck with flashing headlights and a 16-bit voiceover effect.
+> A cinematic prompt featuring a Cybertruck and a 16-bit voiceover announcing victory.
 
 #### 📝 Prompt
 
@@ -870,7 +1055,7 @@ slowly elevating above the equilibrium of sphere, center of gravity in this VR 3
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed narrative prompt for a video scene where Odysseus returns to Ithaca and meets his dying dog, Argos.
+> A cinematic recreation of the emotional reunion between Odysseus and his loyal dog Argos from the Odyssey.
 
 #### 📝 Prompt
 
@@ -1932,177 +2117,6 @@ Landing page hero section design for SpaceX Starship landing on Mars at dusk, so
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **Published:** Aug 14, 2026
 
 ---
-### Dragon Day-to-Night Transition
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematographic prompt involving a dragon flying over the Grand Canyon with a day-to-night seamless transition.
-
-#### 📝 Prompt
-
-```
-The awestruck man sits on the Grand Canyon edge holding his steaming coffee, eyes wide with wonder as the exact golden Chinese lung-style dragon with massive scientifically realistic wings soars alone. The golden dragon breathes a powerful stream of fire directly toward the rising sun above the horizon. Then the dragon banks and flies toward the left side of the frame as a night skyline with stars and city lights begins to appear on the far left, creating a seamless day-to-night transition like crossing time zones — the dragon flies between the two worlds. Keep the enormous wings fully extended for lift, ultra-realistic detail, intense eyes, sun-reflecting golden scales, continuous smooth flight motion, epic lighting.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088381582834892800/img/YWP9hBcWdfxDtEw5.jpg" width="600" alt="Dragon Day-to-Night Transition">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9167)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088382010322772177) | **Published:** Aug 14, 2026
-
----
-### Starship loading process
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical and realistic prompt for animating a SpaceX Starship being loaded onto a transport trailer using claw arms.
-
-#### 📝 Prompt
-
-```
-Using the claw arms load the Starship slowly onto an empty transport trailer truck then driven away from launch site
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088366889076457473/img/pdzOQHfq_DfORIrN.jpg" width="600" alt="Starship loading process">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9169)**
-
-**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2088366936958660710) | **Published:** Aug 14, 2026
-
----
-### SpaceX orbital refueling design
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A professional architectural and cinematic prompt for a SpaceX refueling depot featuring luxury product aesthetics and smooth camera motion.
-
-#### 📝 Prompt
-
-```
-Landing page hero section design for SpaceX orbital refueling depot, soft warm off-white and pale stone canvas, oversized clean photographic imagery with gentle natural light, elegant muted champagne and soft gray tones with subtle cyan accents, ultra-clean composition, sophisticated high-end typography, subtle floating glass elements, generous negative space, soft diffused lighting, minimal technical details, polished luxury product aesthetic, calm and refined atmosphere, ultra high detail 12k quality, cinematic depth ready for smooth video motion. Slow cinematic camera push-in, subtle floating particles and soft light movement, gentle atmospheric haze drifting, smooth elegant motion, premium cinematic feel, ultra-high detail, calm and refined atmosphere
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088331909390852098/img/HbuWOalEbijvW4s7.jpg" width="600" alt="SpaceX orbital refueling design">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9172)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088362524987236421) | **Published:** Aug 14, 2026
-
----
-### Starship Mars Landing Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for a SpaceX Starship landing on Mars, featuring a cinematic push-in and atmospheric effects designed for video motion.
-
-#### 📝 Prompt
-
-```
-Landing page hero section design for SpaceX Starship landing on Mars at dusk, deep charcoal to near-black background, oversized immersive photographic imagery, rich atmospheric depth, warm copper and amber highlights with cool cyan and steel blue accents, soft volumetric haze, pronounced cinematic contrast, subtle translucent glass UI elements, elegant refined typography, delicate technical annotations, asymmetric composition, generous negative space, soft bloom, tactile film grain, ultra-premium futuristic aesthetic, ultra high detail 12k quality, cinematic depth ready for smooth video motion. Slow cinematic camera push-in, subtle floating particles and soft light movement, gentle atmospheric haze drifting, smooth elegant motion, premium cinematic feel, ultra high detail, calm and refined atmosphere
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088323317975674880/img/WyD8QUZXAglo-Q80.jpg" width="600" alt="Starship Mars Landing Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9176)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088323673103208482) | **Published:** Aug 14, 2026
-
----
-### Australian Collie Ocean Shore Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Captures a majestic Australian Collie with striking ocean eyes playing on the shore, focusing on lighting and its steady, loyal gaze.
-
-#### 📝 Prompt
-
-```
-Australian collie, ocean eyes that catch the light like sun on water… sleek coat, alert ears, that steady gaze that says “I’m here for you.” plays with tennis balls on the ocean shore
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088315906703101952/img/ZnGqTwKezCtzwx5R.jpg" width="600" alt="Australian Collie Ocean Shore Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9183)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088316174509515150) | **Published:** Aug 14, 2026
-
----
-### Ebony Dragon Tea Party Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of a growing dragon elegantly holding a teacup with its black claws, blending mythical power with dainty movements.
-
-#### 📝 Prompt
-
-```
-dragon grows up to be big and daintily holds own teacup in ebony black fingerclaw
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088303551034372096/img/sbfUg6H0e2qT3QhE.jpg" width="600" alt="Ebony Dragon Tea Party Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9180)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088303946016153820) | **Published:** Aug 14, 2026
-
----
-### Noah's Flood Starship Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dramatic cinematic video prompt showing a starship leaving Earth during a global flood that submerges the pyramids, blending biblical and sci-fi imagery.
-
-#### 📝 Prompt
-
-```
-A woman and a man aboard an open starship charting off planet Earth towards the sun, watching the waters prevail over the world as in Noah’s flood, massive floodwaters covering the pyramids and submerging the Earth below them only a few on the planet, remain the ones that were warned and made vessels for the sea
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088289936520757248/img/LgWytKEgcs0PEpvQ.jpg" width="600" alt="Noah's Flood Starship Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9179)**
-
-**Author:** [Maria Of Mars](https://x.com/MariaGa68521784) | **Source:** [Link](https://x.com/MariaGa68521784/status/2088289952517759388) | **Published:** Aug 14, 2026
-
----
-### Luminous Humanoid Entity Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal video prompt featuring a glowing humanoid entity against a dark abstract backdrop.
-
-#### 📝 Prompt
-
-```
-A surreal, luminous humanoid entity with glowing aura in a dark, abstract background.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786779721376_i0zfwy_HPsF8rNbsAA7B9F.jpg" width="600" alt="Luminous Humanoid Entity Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9178)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2088269525498384859) | **Published:** Aug 14, 2026
-
----
-### Pixel Art Looping Aesthetic
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A video prompt creating a pixel art style scene with a looping aesthetic and a relatively still camera, inspired by Japanese song lyrics.
-
-#### 📝 Prompt
-
-```
-pixel art style, looping aesthetic, relatively still camera. I can no longer test the tires and heart I changed for you.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088180539593527296/img/i4HHRg60vuC2ni5p.jpg" width="600" alt="Pixel Art Looping Aesthetic">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9187)**
-
-**Author:** [今井宏之](https://x.com/imaikaiimai) | **Source:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2164,6 +2178,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-23T05:01:56.950Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-23T08:54:19.316Z</sub>
 
 </div>

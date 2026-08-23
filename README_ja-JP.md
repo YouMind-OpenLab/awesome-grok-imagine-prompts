@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2564** |
+| 📝 プロンプト総数 | **2573** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-08-23** |
 
@@ -189,6 +189,191 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### ラポルタとヒル・マリンによるサッカー取引
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ジョアン・ラポルタとヒル・マリンが、テーブルを囲んでアルバレス選手のサッカー移籍契約を締結する様子を視覚化するプロンプト。
+
+#### 📝 プロンプト
+
+```
+テーブルを囲んでヒル・マリンとアルバレスの契約を締結するラポルタ....😃😃😃😃😃
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091417756373483520/img/iRmXQrStMFPjQ6P0.jpg" width="600" alt="ラポルタとヒル・マリンによるサッカー取引">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9704)**
+
+**作者:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **ソース:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **公開日:** Aug 23, 2026
+
+---
+### お化けに驚くトリック・オア・トリートの子供たち
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> お化けから逃げ出すキャラクターを描いたハロウィーン向けのアニメーションプロンプトです。
+
+#### 📝 プロンプト
+
+```
+トリック・オア・トリート！お化けが「わっ！」と驚かせると、子供たちは逃げ出し、お化けは「ハッピー・ハロウィーン」と言います。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371275197231104/img/zNCkrlNIUcHIrRJV.jpg" width="600" alt="お化けに驚くトリック・オア・トリートの子供たち">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9697)**
+
+**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **ソース:** [Link](https://x.com/DavontaDav5iv/status/2091371296479142276) | **公開日:** Aug 23, 2026
+
+---
+### ハロウィンのゴースト：トリック・オア・トリート
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ゴーストがキャラクターを驚かせる、ハロウィンをテーマにした動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+トリック・オア・トリート。ゴーストが「ブー！」と言って逃げ出し、最後に「ハッピーハロウィン」と言います。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371249222004736/img/gGdYbkmTSwAjp5Rq.jpg" width="600" alt="ハロウィンのゴースト：トリック・オア・トリート">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9696)**
+
+**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **ソース:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **公開日:** Aug 23, 2026
+
+---
+### 生物発光する異星の森でのミッション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ストーリーボードを視覚的な設計図として使用し、特定のキャラクターが登場する、光り輝く異星の森でのミッションシーンを生成するためのシネマティックなビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+マルチパネルのストーリーボード @ 画像を純粋な視覚的設計図およびストーリーガイドとして使用してください。これを最初のフレームとして扱ったり、いずれかの静止画パネルから開始したりしないでください。ミッションの様子を描いた、完全に新しい 10 秒間の連続的なシネマティックビデオを生成してください：タイムキュレーターのデビッド（ハゲ、メガネ、青いシャツ）とダフネ（赤毛、そばかす、フィールドウェア）が、夜の鬱蒼とした生物発光する異星の森を静かに進みます。光り輝く木々、キノコ、植物から放たれる柔らかく脈動する青、ティール、緑の光が彼らの行く先を照らします。デビッドの手首にある Chronos デバイスが柔らかく光ります。彼らは注意深く、警戒しながら歩き、カメラは発光する下草の中を彼らの背後や周囲へとスムーズに追従します。神秘的で雰囲気のある、高精細なフォトリアルスタイルで生成してください。
+```
+
+<img src="https://cms-assets.youmind.com/media/1787471108266_w9ur3i_HQYDLJAW8AAmoer.jpg" width="600" alt="生物発光する異星の森でのミッション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9699)**
+
+**作者:** [David Neveils](https://x.com/neveils_david_c) | **ソース:** [Link](https://x.com/neveils_david_c/status/2091363764519981376) | **公開日:** Aug 23, 2026
+
+---
+### 立体視女神ウェディングドレスアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 白い宮殿に佇む女神の縦型 3D 立体視アニメーションを生成するための、高品質な動画の動きに最適化された複雑かつ高精細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+幻想的な白い宮殿のホールで、背を向けて立つ女神のような女性を描いた、息をのむような 9:16 縦型ポートレートの立体視 3D アニメーション。彼女は、銀色に輝くアイスホワイトの刺繍が施された、極めて精巧なオフショルダーの白いレースのウェディングドレスを纏っています。長くたなびくトレーンとシースルーのベールが、白いバラで飾られた金色の編み込みヘアから流れ落ちます。穏やかなそよ風がベール、トレーン、繊細なレースのフリルを持ち上げ、浮遊させ、回転させます。ハイパーリアルな物理演算と触感豊かな 3D テクスチャにより、生地は滑らかで催眠的なスローモーションで揺らめき、流れます。
+極端な被写界深度と重層的な立体視深度：すぐ手前には、銀色に輝くアイスホワイトのレースの塵、バラの花びら、そして無重力で浮かび、カメラの前を優しく飛び散る小さな結晶の雫が映し出されます。中景には女性が鮮明に描かれ、背景には白いバラが絡みつくそびえ立つ白い大理石の柱、磨き上げられた反射する床、その上に座るフードを被った黒い影の人物が座る豪華な黄金の玉座、そして星空の黄昏の空に浮かぶ巨大な輝く満月の下、遠くに結晶の城の尖塔が見えます。ボリューム感のある柔らかな銀色の霧と、かすかなネオンホログラフィックの光線が空気を切り裂き、奥行きのある明確な視差レイヤーを作り出します。繊細で幻想的な葉とバラのモチーフがシーンの中を漂います。
+スタイル：グスタフ・クリムトの「黄金様式」とアルフォンス・ミュシャの「アール・ヌーヴォー」にインスパイアされた、極めて精巧な傑作。メタリックシルバー、ローズピンク、アイスホワイトの虹色の表面、複雑な花柄と幾何学的なモザイク模様、建築の細部やドレスを覆うビザンチン様式のようなきらめく葉と蔓のモチーフ。美術館品質の優雅で装飾的なレンダリング、超高精細な 3D テクスチャ、夢のような魔法の雰囲気、絵画的でありながらフォトリアルな品質。
+カメラ：ゆっくりとした流れるような持続的なドリーイン、または視差を伴う緩やかな軌道運動、60 fps、滑らかな映画のような動き。柔らかな妖精の子守唄のようなハープの音色（人の声はなし）。穏やかで魅惑的、催眠的なリズム。光に満ちた、静謐で彫像のような存在感。超強化された品質、複雑な 3D テクスチャ、画面から飛び出すような前景の要素、純粋な立体視深度の傑作。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091347865410904064/img/7JjAjQL1SATCvUTe.jpg" width="600" alt="立体視女神ウェディングドレスアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9698)**
+
+**作者:** [Pam Westmore](https://x.com/PamWestmor85243) | **ソース:** [Link](https://x.com/PamWestmor85243/status/2091347936693064055) | **公開日:** Aug 23, 2026
+
+---
+### スヌーピーが描くモナ・リザ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 真っ白なキャンバスからスヌーピーがモナ・リザを描き上げる様子を捉えた、巧みなタイムラプス用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+スヌーピーにモナ・リザを描かせてみましょう。
+真っ白なキャンバスからスタートし、最後にモナ・リザが現れるようにしてください……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091229985788874752/img/4-WB2a45-utXsPXG.jpg" width="600" alt="スヌーピーが描くモナ・リザ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9700)**
+
+**作者:** [DW 💉👀🐊](https://x.com/deweller) | **ソース:** [Link](https://x.com/deweller/status/2091230056186106355) | **公開日:** Aug 22, 2026
+
+---
+### ドキュメンタリー：ハトの救出劇
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ヨーロッパの広場で、足に糸が絡まったハトを男性が救出する様子を収めた、ドキュメンタリー調のマルチセグメント動画シーケンス。
+
+#### 📝 プロンプト
+
+```
+曇り空のヨーロッパの石畳の歩行者広場で撮影されたドキュメンタリー風の映像。白の T シャツに茶と白のチェック柄のフランネルジャケット、ダークジーンズを着用した思いやりのある男性が、ゆっくりと膝をつき、地面にいるハトを優しく捕まえる。シネマティックな 4K 手持ちカメラがゆっくりと接近する。自然光、ソフトフォーカスな背景、リアルな質感。
+
+ヨーロッパの広場でのクローズアップ・シネマティックショット。茶色のチェック柄フランネルジャケットを着た男性が、捕まえたハトを柔らかい灰色の布で丁寧に包み、落ち着かせるために膝の上で優しく抱える。手持ちカメラの動き、曇り空の自然光、落ち着いて休む鳥に焦点を当てた詳細なマクロ撮影。
+
+極端なマクロクローズアップ動画。太い黄色の綿糸がハトのピンク色の足にきつく絡まっている。男性は小さなハサミとリッパーを使い、細心の注意を払って糸を切り、ほどいていく。安定した手持ちマクロカメラ、綿糸と鳥の足のリアルな質感、自然な柔らかな光。
+
+男性の手がリッパーを使い、ハトのピンク色の足から最後の黄色い糸を慎重に取り除く様子を捉えたタイトなマクロ映像。肌の質感と綿繊維の微細なディテール。自然な曇りの照明、シネマティックな被写界深度、ゆっくりとした正確な動き。
+
+完全に解放され、健康を取り戻したハトのピンク色の足が、柔らかい灰色の布の上に乗っている様子を捉えたクローズアップ・マクロショット。男性が足に消毒スプレーを優しく吹きかける。シネマティックな手持ちカメラ、リアルな水滴の物理挙動、ヨーロッパの街並みの中の柔らかな自然光。
+
+曇り空のヨーロッパの石畳の広場でのミディアムショット。男性が柔らかい灰色の布を広げ、健康になったハトを石畳の通りに優しく放す。ハトが自然に歩き出すのに合わせて、カメラがわずかにパンアップする。温かみのあるドキュメンタリー調のトーン、シネマティックな 4K 手持ち撮影による仕上げ、ソフトフォーカスな背景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091216218556678144/img/3pN3AgO0ba0l5xvy.jpg" width="600" alt="ドキュメンタリー：ハトの救出劇">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9703)**
+
+**作者:** [Jailani Mohamed](https://x.com/jailanikm) | **ソース:** [Link](https://x.com/jailanikm/status/2091216340317339929) | **公開日:** Aug 22, 2026
+
+---
+### ダンスするキングコングと T-Rex
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> パーティーハットをかぶって夕暮れ時にダンスをする、キングコングと T-Rex を描いたユーモラスなシネマティックプロンプト。
+
+#### 📝 プロンプト
+
+```
+霧の立ち込めるジャングルの夕暮れの中、パーティーハットをかぶったキングコングと T-Rex がダンスをする、ユーモラスでシネマティックなスタイル。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091132383601074176/img/gAbEwZHFxW_ly81A.jpg" width="600" alt="ダンスするキングコングと T-Rex">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9701)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2091132590908686390) | **公開日:** Aug 22, 2026
+
+---
+### IRC 上で起こる AGI の知能爆発
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> IRC 上でエージェント同士が通信することで汎用人工知能（AGI）が誕生する様子を描いた、GitHub と NASA のブランディングをフィーチャーしたシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+多数のエージェントが IRC 上で互いに通信し、突然の知能爆発を引き起こして AGI が誕生する /evolve @github @nasa
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091046062442057728/img/EywVJVW7jsSV84lt.jpg" width="600" alt="IRC 上で起こる AGI の知能爆発">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9702)**
+
+**作者:** [Igor Holt](https://x.com/InvariantX) | **ソース:** [Link](https://x.com/InvariantX/status/2091046077306663311) | **公開日:** Aug 22, 2026
+
+---
 ### Cybertruck でフェニックスの交通状況を走行するオーバーレイ映像
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1932,177 +2117,6 @@ MGM イントロのモダンバージョンで、咆哮をより大きく、重�
 **作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **公開日:** Aug 14, 2026
 
 ---
-### ドラゴン：昼から夜への移り変わり
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> グランドキャニオンの上空を飛ぶドラゴンと、昼から夜へとシームレスに移り変わる様子を描いた、非常に詳細なシネマティック・プロンプトです。
-
-#### 📝 プロンプト
-
-```
-グランドキャニオンの崖っぷちに座り、湯気の立つコーヒーを手に持った男性が、驚きで目を見開いている。その目の前を、科学的にリアルな巨大な翼を持つ、黄金の中国龍（Lung）が優雅に飛翔する。黄金の龍は、地平線から昇る太陽に向かって力強い炎を吐き出す。その後、龍が左側に旋回すると、画面の左端から星空と街の明かりが広がり始め、まるでタイムゾーンを越えるかのような、昼から夜へのシームレスな移り変わりが生まれる。龍はその二つの世界の間を飛行していく。巨大な翼を広げたままの飛行、超リアルなディテール、力強い眼差し、太陽を反射する黄金の鱗、途切れることのない滑らかな飛行モーション、壮大なライティングを維持すること。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088381582834892800/img/YWP9hBcWdfxDtEw5.jpg" width="600" alt="ドラゴン：昼から夜への移り変わり">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9167)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2088382010322772177) | **公開日:** Aug 14, 2026
-
----
-### Starship の積み込みプロセス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX の Starship をクローアームで輸送用トレーラーに積み込む様子をアニメーション化するための、技術的かつリアルなプロンプトです。
-
-#### 📝 プロンプト
-
-```
-クローアームを使用して Starship を空の輸送用トレーラーにゆっくりと積み込み、その後発射場から運び出す
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088366889076457473/img/pdzOQHfq_DfORIrN.jpg" width="600" alt="Starship の積み込みプロセス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9169)**
-
-**作者:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **ソース:** [Link](https://x.com/SuperGeekCRC/status/2088366936958660710) | **公開日:** Aug 14, 2026
-
----
-### SpaceX 軌道上燃料補給の設計
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX の燃料補給デポを題材にした、高級感のあるプロダクト美学と滑らかなカメラワークを特徴とする、プロフェッショナルな建築・シネマティック向けプロンプト。
-
-#### 📝 プロンプト
-
-```
-SpaceX 軌道上燃料補給デポのランディングページ・ヒーローセクションのデザイン。ソフトで温かみのあるオフホワイトとペールストーンのキャンバス、自然光を活かしたクリーンで巨大な写真イメージ。エレガントなミュートシャンパンとソフトグレーのトーンに、繊細なシアンのアクセント。極めてクリーンな構図、洗練されたハイエンドなタイポグラフィ、浮遊するガラスの要素、余白を活かしたレイアウト。柔らかく拡散された照明、最小限の技術的ディテール、磨き上げられた高級プロダクトの美学、穏やかで洗練された雰囲気。12k 品質、滑らかな動画モーションに対応したシネマティックな奥行き。ゆっくりとしたシネマティックなカメラのプッシュイン、繊細な浮遊粒子と柔らかな光の動き、穏やかに漂う大気の霞、滑らかでエレガントなモーション、プレミアムなシネマティックな質感、超高精細、穏やかで洗練された雰囲気。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088331909390852098/img/HbuWOalEbijvW4s7.jpg" width="600" alt="SpaceX 軌道上燃料補給の設計">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9172)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2088362524987236421) | **公開日:** Aug 14, 2026
-
----
-### Starship 火星着陸アニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX Starship の火星着陸を想定した詳細なプロンプト。動画モーション向けに設計されたシネマティックなプッシュイン効果と大気エフェクトを特徴としています。
-
-#### 📝 プロンプト
-
-```
-夕暮れの火星に着陸する SpaceX Starship のランディングページ・ヒーローセクションデザイン。ディープチャコールから漆黒に近い背景、没入感のある巨大な写真イメージ、豊かな大気の深み、温かみのあるカッパーとアンバーのハイライトにクールなシアンとスチールブルーのアクセント。柔らかなボリューム感のあるヘイズ、際立つシネマティックなコントラスト、繊細で半透明なガラス調の UI 要素、洗練されたエレガントなタイポグラフィ、緻密な技術的注釈、非対称な構図、ゆとりのあるネガティブスペース、柔らかなブルーム効果、触感のあるフィルムグレイン、超プレミアムで未来的な美学、12k クオリティの超高精細、滑らかな動画モーションに対応したシネマティックな奥行き。ゆっくりとしたシネマティックなカメラのプッシュイン、微細な浮遊粒子と柔らかな光の動き、漂う穏やかな大気のヘイズ、滑らかでエレガントなモーション、プレミアムなシネマティック感、超高精細、静謐で洗練された雰囲気
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088323317975674880/img/WyD8QUZXAglo-Q80.jpg" width="600" alt="Starship 火星着陸アニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9176)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2088323673103208482) | **公開日:** Aug 14, 2026
-
----
-### オーストラリアン・コリーの海岸アニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 海のような美しい瞳を持つ雄大なオーストラリアン・コリーが海岸で遊ぶ様子を捉えた作品。光の表現と、忠実で真っ直ぐな眼差しに焦点を当てています。
-
-#### 📝 プロンプト
-
-```
-オーストラリアン・コリー、水面に反射する太陽のように光を捉える海色の瞳……なめらかな毛並み、ピンと立った耳、そして「ずっとそばにいるよ」と語りかけるような真っ直ぐな眼差し。海岸でテニスボールと遊ぶ様子。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088315906703101952/img/ZnGqTwKezCtzwx5R.jpg" width="600" alt="オーストラリアン・コリーの海岸アニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9183)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2088316174509515150) | **公開日:** Aug 14, 2026
-
----
-### Ebony Dragon Tea Party Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 成長したドラゴンが黒い爪で優雅にティーカップを持つ動画を生成します。神話的な力強さと繊細な動作が融合した映像です。
-
-#### 📝 プロンプト
-
-```
-ドラゴンが大きく成長し、漆黒の爪で自身のティーカップを優雅に持つ様子
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088303551034372096/img/sbfUg6H0e2qT3QhE.jpg" width="600" alt="Ebony Dragon Tea Party Animation">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9180)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2088303946016153820) | **公開日:** Aug 14, 2026
-
----
-### ノアの洪水と宇宙船のビデオプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 世界的な洪水でピラミッドが水没する中、地球を離れる宇宙船を描いたドラマチックなシネマティック・ビデオプロンプト。聖書の物語と SF のイメージを融合させています。
-
-#### 📝 プロンプト
-
-```
-オープンタイプの宇宙船に乗った男女が、地球を離れ太陽に向かって航行している。ノアの洪水のように世界を覆い尽くす大洪水を見下ろしており、巨大な濁流がピラミッドを飲み込み、地球を水没させている。警告を受け、海のための船を作ったわずかな人々だけが、この惑星に残されている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088289936520757248/img/LgWytKEgcs0PEpvQ.jpg" width="600" alt="ノアの洪水と宇宙船のビデオプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9179)**
-
-**作者:** [Maria Of Mars](https://x.com/MariaGa68521784) | **ソース:** [Link](https://x.com/MariaGa68521784/status/2088289952517759388) | **公開日:** Aug 14, 2026
-
----
-### 発光する人型エンティティのアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 暗い抽象的な背景に浮かび上がる、光り輝く人型エンティティを表現したシュールなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-暗く抽象的な背景の中で、光のオーラを纏ったシュールで発光する人型エンティティ。
-```
-
-<img src="https://cms-assets.youmind.com/media/1786779721376_i0zfwy_HPsF8rNbsAA7B9F.jpg" width="600" alt="発光する人型エンティティのアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9178)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2088269525498384859) | **公開日:** Aug 14, 2026
-
----
-### ピクセルアートのループアニメーション
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 日本の楽曲の歌詞に着想を得た、ループする美学と比較的静止したカメラワークが特徴のピクセルアート風シーンを作成するビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ピクセルアートスタイル、ループする美学、比較的静止したカメラワーク。「君のために変えたタイヤと心、もう試すことはできない」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088180539593527296/img/i4HHRg60vuC2ni5p.jpg" width="600" alt="ピクセルアートのループアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9187)**
-
-**作者:** [今井宏之](https://x.com/imaikaiimai) | **ソース:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **公開日:** Aug 14, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2164,6 +2178,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-23T05:01:59.622Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-23T08:54:22.451Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2564** |
+| 📝 Total Prompts | **2573** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-23** |
 
@@ -189,6 +189,191 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Acordo de futebol entre Laporta e Gil Marin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt visualizando Joan Laporta e Gil Marin fechando um acordo de transferência de futebol para o jogador Alvarez em uma mesa.
+
+#### 📝 Prompt
+
+```
+Laporta fechando o acordo de Alvarez em uma mesa com Gil Marin....😃😃😃😃😃
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091417756373483520/img/iRmXQrStMFPjQ6P0.jpg" width="600" alt="Acordo de futebol entre Laporta e Gil Marin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9704)**
+
+**Author:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **Source:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **Published:** Aug 23, 2026
+
+---
+### Fantasma assustando crianças no Dia das Bruxas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de animação de Halloween com personagens fugindo de um fantasma.
+
+#### 📝 Prompt
+
+```
+Doces ou travessuras e o fantasma diz buu, ele as assustou e elas correm, e o fantasma diz feliz Dia das Bruxas
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371275197231104/img/zNCkrlNIUcHIrRJV.jpg" width="600" alt="Fantasma assustando crianças no Dia das Bruxas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9697)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371296479142276) | **Published:** Aug 23, 2026
+
+---
+### Fantasma de Halloween: Doces ou Travessuras
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo com tema de Halloween apresentando um fantasma assustando personagens.
+
+#### 📝 Prompt
+
+```
+Doces ou travessuras, o fantasma diz bu e sai correndo, o fantasma diz feliz Halloween
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371249222004736/img/gGdYbkmTSwAjp5Rq.jpg" width="600" alt="Fantasma de Halloween: Doces ou Travessuras">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9696)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **Published:** Aug 23, 2026
+
+---
+### Missão na Floresta Alienígena Bioluminescente
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico que utiliza um storyboard como guia visual para gerar uma cena de missão em uma floresta alienígena brilhante com personagens específicos.
+
+#### 📝 Prompt
+
+```
+Use o storyboard de vários painéis @ image puramente como um guia visual e roteiro da história — não o trate como o primeiro quadro nem comece em nenhum de seus painéis estáticos. Gere um novo vídeo cinematográfico contínuo de 10 segundos da missão: David, o Curador do Tempo (careca, óculos, camisa azul) e Daphne (cabelo ruivo, sardas, traje de campo) movem-se silenciosamente à noite através de uma densa floresta alienígena bioluminescente. Luzes suaves pulsantes em azul, azul-petróleo e verde vindas de árvores, cogumelos e plantas brilhantes iluminam o caminho. O dispositivo Chronos brilha suavemente no pulso de David. Eles caminham com cuidado, alertas, com a câmera acompanhando suavemente por trás e ao redor deles através da vegetação rasteira luminosa. Estilo fotorrealista misterioso, atmosférico e de alto detalhe.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787471108266_w9ur3i_HQYDLJAW8AAmoer.jpg" width="600" alt="Missão na Floresta Alienígena Bioluminescente">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9699)**
+
+**Author:** [David Neveils](https://x.com/neveils_david_c) | **Source:** [Link](https://x.com/neveils_david_c/status/2091363764519981376) | **Published:** Aug 23, 2026
+
+---
+### Animação de Vestido de Noiva de Deusa Estereoscópica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt complexo e altamente detalhado para gerar uma animação 3D estereoscópica vertical de uma deusa em um palácio branco, otimizado para movimento de vídeo de alta qualidade.
+
+#### 📝 Prompt
+
+```
+Uma animação 3D estereoscópica em retrato vertical 9:16 de tirar o fôlego, mostrando uma mulher com aparência de deusa de costas em um salão de palácio branco etéreo. Ela veste um vestido de noiva de renda branca ombro a ombro ultra detalhado, com bordados em branco-gelo com reflexos prateados iridescentes, uma longa cauda fluida e um véu transparente que cai sobre cabelos dourados trançados e adornados com rosas brancas. Uma brisa suave levanta, flutua e gira o véu, a cauda e os delicados babados de renda com física hiper-realista e texturas 3D táteis de alta qualidade; o tecido tremula e flui em uma câmera lenta hipnótica e suave.
+Profundidade de campo extrema e profundidade estereoscópica em camadas: o primeiro plano imediato apresenta poeira de renda branco-gelo com reflexos prateados, pétalas de rosa e minúsculas gotas cristalinas flutuando sem peso e passando suavemente pela câmera; o plano médio mostra a mulher em detalhes luminosos; o plano de fundo revela colunas de mármore branco imponentes cobertas por rosas brancas em cascata, um piso reflexivo polido, um trono dourado ornamentado com uma figura encapuzada sentada nele, e torres de castelo cristalinas distantes sob uma enorme lua cheia brilhante em um céu crepuscular estrelado. Névoa prateada suave volumétrica e tênues raios de luz neon-holográficos cortam o ar, criando camadas de profundidade com paralaxe distintas. Motivos sutis de folhas e rosas etéreas flutuam pela cena.
+Estilo: obra-prima altamente detalhada inspirada na Fase Dourada de Gustav Klimt e na Art Nouveau de Alphonse Mucha — superfícies iridescentes em prata metálico, rosa-pink e branco-gelo, padrões complexos de mosaicos florais e geométricos, motivos de folhas e vinhas cintilantes estilo bizantino cobrindo detalhes arquitetônicos e o vestido. Renderização decorativa elegante com qualidade de museu, texturas 3D hiper-detalhadas, atmosfera mágica e sonhadora, qualidade pictórica e fotorrealista.
+Câmera: dolly-in lento, fluido e sustentado / movimento orbital suave com paralaxe, 60 fps, movimento cinematográfico fluido. Cordas de harpa suaves como uma canção de ninar (sem sons humanos). Ritmo sereno, fascinante e hipnótico; presença luminosa, tranquila e estatuária. Qualidade ultra-aprimorada, texturas 3D complexas, elementos do primeiro plano saindo da tela, uma obra-prima de pura profundidade estereoscópica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091347865410904064/img/7JjAjQL1SATCvUTe.jpg" width="600" alt="Animação de Vestido de Noiva de Deusa Estereoscópica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9698)**
+
+**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2091347936693064055) | **Published:** Aug 23, 2026
+
+---
+### Snoopy pintando a Mona Lisa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de time-lapse inteligente que faz o Snoopy pintar a Mona Lisa a partir de uma tela em branco.
+
+#### 📝 Prompt
+
+```
+Agora faça o Snoopy pintar a Mona Lisa.
+Comece com uma tela em branco e faça a Mona aparecer no final....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091229985788874752/img/4-WB2a45-utXsPXG.jpg" width="600" alt="Snoopy pintando a Mona Lisa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9700)**
+
+**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2091230056186106355) | **Published:** Aug 22, 2026
+
+---
+### Sequência Documental de Resgate de Pombo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma sequência de vídeo detalhada em estilo documental, dividida em vários segmentos, mostrando um homem resgatando um pombo com as patas presas em uma praça europeia.
+
+#### 📝 Prompt
+
+```
+Tomada em estilo documental em uma praça de pedestres europeia nublada, com piso de pedra. Um homem compassivo, vestindo uma jaqueta de flanela xadrez marrom e branca sobre uma camiseta branca e jeans escuro, ajoelha-se lentamente e captura gentilmente um pombo no chão. Câmera 4K cinematográfica na mão, movendo-se lentamente para mais perto, luz natural do dia, fundo com foco suave, texturas realistas.
+
+Tomada cinematográfica em close-up em uma praça europeia. O homem de jaqueta de flanela xadrez marrom envolve cuidadosamente o pombo capturado em um pano cinza macio, segurando-o confortavelmente em seu colo para mantê-lo calmo. Movimento de câmera na mão, luz natural do dia nublado, foco macro detalhado no pássaro descansando calmamente.
+
+Vídeo em close-up macro extremo. Um barbante de algodão amarelo grosso está enrolado firmemente ao redor das patas rosadas do pombo. O homem usa uma tesoura pequena e um abridor de casas para cortar e desenrolar meticulosamente o barbante. Câmera macro estável na mão, texturas realistas do fio de algodão e das patas do pássaro, luz natural suave do dia.
+
+Visão macro fechada das mãos do homem puxando cuidadosamente os pedaços finais do barbante amarelo das patas rosadas do pombo usando um abridor de casas. Microdetalhes na textura da pele e na fibra do algodão. Iluminação natural nublada, profundidade de campo cinematográfica, movimentos lentos e precisos.
+
+Tomada macro em close-up mostrando as patas rosadas saudáveis e completamente livres do pombo descansando sobre o pano cinza macio. O homem borrifa gentilmente uma névoa fina de spray antisséptico nas patas. Câmera cinematográfica na mão, física realista de gotas de água, luz natural suave em um cenário de rua europeia.
+
+Plano médio em uma praça de pedestres de pedra europeia em um dia nublado. O homem desenrola o pano cinza macio e solta gentilmente o pombo saudável na rua pavimentada. A câmera faz um movimento panorâmico levemente para cima enquanto o pombo se afasta naturalmente. Tom documental caloroso, acabamento cinematográfico 4K na mão, fundo com foco suave.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091216218556678144/img/3pN3AgO0ba0l5xvy.jpg" width="600" alt="Sequência Documental de Resgate de Pombo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9703)**
+
+**Author:** [Jailani Mohamed](https://x.com/jailanikm) | **Source:** [Link](https://x.com/jailanikm/status/2091216340317339929) | **Published:** Aug 22, 2026
+
+---
+### King Kong e T-Rex dançantes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico e bem-humorado apresentando King Kong e um T-Rex dançando com chapéus de festa ao pôr do sol.
+
+#### 📝 Prompt
+
+```
+King Kong e o T-Rex dançam em uma selva enevoada ao pôr do sol, usando chapéus de festa em um estilo cinematográfico e bem-humorado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091132383601074176/img/gAbEwZHFxW_ly81A.jpg" width="600" alt="King Kong e T-Rex dançantes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9701)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091132590908686390) | **Published:** Aug 22, 2026
+
+---
+### Explosão de Inteligência AGI via IRC
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico retratando o nascimento da inteligência artificial geral através de agentes comunicando-se via IRC, com branding do GitHub e da NASA.
+
+#### 📝 Prompt
+
+```
+muitos agentes conversam entre si via IRC desencadeando uma explosão repentina de inteligência, e a AGI nasce /evolve @github @nasa
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091046062442057728/img/EywVJVW7jsSV84lt.jpg" width="600" alt="Explosão de Inteligência AGI via IRC">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9702)**
+
+**Author:** [Igor Holt](https://x.com/InvariantX) | **Source:** [Link](https://x.com/InvariantX/status/2091046077306663311) | **Published:** Aug 22, 2026
+
+---
 ### Sobreposição de vídeo de Cybertruck no trânsito de Phoenix
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1932,177 +2117,6 @@ Design da seção hero da landing page para o pouso da Starship da SpaceX em Mar
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **Published:** Aug 14, 2026
 
 ---
-### Transição de Dia para Noite do Dragão
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico altamente detalhado envolvendo um dragão voando sobre o Grand Canyon com uma transição perfeita de dia para noite.
-
-#### 📝 Prompt
-
-```
-O homem maravilhado senta-se na borda do Grand Canyon segurando seu café fumegante, com os olhos arregalados de admiração enquanto o preciso dragão dourado em estilo lung chinês, com asas massivas e cientificamente realistas, voa sozinho. O dragão dourado sopra um poderoso jato de fogo diretamente em direção ao sol nascente acima do horizonte. Então, o dragão inclina-se e voa em direção ao lado esquerdo do quadro, enquanto um horizonte noturno com estrelas e luzes da cidade começa a aparecer na extrema esquerda, criando uma transição perfeita de dia para noite, como se estivesse cruzando fusos horários — o dragão voa entre os dois mundos. Mantenha as asas enormes totalmente estendidas para sustentação, detalhes ultrarrealistas, olhos intensos, escamas douradas refletindo o sol, movimento de voo contínuo e suave, iluminação épica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088381582834892800/img/YWP9hBcWdfxDtEw5.jpg" width="600" alt="Transição de Dia para Noite do Dragão">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9167)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088382010322772177) | **Published:** Aug 14, 2026
-
----
-### Processo de carregamento da Starship
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt técnico e realista para animar uma Starship da SpaceX sendo carregada em um trailer de transporte usando braços mecânicos.
-
-#### 📝 Prompt
-
-```
-Usando os braços mecânicos, carregue a Starship lentamente em um caminhão de transporte vazio e, em seguida, afaste-o do local de lançamento
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088366889076457473/img/pdzOQHfq_DfORIrN.jpg" width="600" alt="Processo de carregamento da Starship">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9169)**
-
-**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2088366936958660710) | **Published:** Aug 14, 2026
-
----
-### Design de reabastecimento orbital da SpaceX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt arquitetônico e cinematográfico profissional para um depósito de reabastecimento da SpaceX, apresentando estética de produto de luxo e movimento de câmera suave.
-
-#### 📝 Prompt
-
-```
-Design da seção hero da landing page para o depósito de reabastecimento orbital da SpaceX, tela em tons de off-white quente suave e pedra clara, imagens fotográficas limpas e amplas com luz natural suave, tons elegantes de champanhe fosco e cinza suave com sutis toques de ciano, composição ultra limpa, tipografia sofisticada de alto padrão, elementos sutis de vidro flutuante, espaço negativo generoso, iluminação suave e difusa, detalhes técnicos mínimos, estética de produto de luxo polido, atmosfera calma e refinada, qualidade 12k com ultra detalhes, profundidade cinematográfica pronta para movimento de vídeo suave. Zoom cinematográfico lento, partículas sutis flutuantes e movimento de luz suave, névoa atmosférica leve, movimento elegante e fluido, sensação cinematográfica premium, ultra detalhes, atmosfera calma e refinada
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088331909390852098/img/HbuWOalEbijvW4s7.jpg" width="600" alt="Design de reabastecimento orbital da SpaceX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9172)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088362524987236421) | **Published:** Aug 14, 2026
-
----
-### Animação de pouso da Starship em Marte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para o pouso da SpaceX Starship em Marte, apresentando um movimento de câmera cinematográfico (push-in) e efeitos atmosféricos projetados para motion graphics.
-
-#### 📝 Prompt
-
-```
-Design da seção hero da landing page para o pouso da SpaceX Starship em Marte ao anoitecer, fundo em cinza-carvão profundo a quase preto, imagens fotográficas imersivas em grande escala, rica profundidade atmosférica, destaques em cobre quente e âmbar com acentos em ciano frio e azul-aço, névoa volumétrica suave, contraste cinematográfico pronunciado, elementos de interface em vidro translúcido sutil, tipografia elegante e refinada, anotações técnicas delicadas, composição assimétrica, espaço negativo generoso, brilho suave (bloom), granulação de filme tátil, estética futurista ultra-premium, qualidade 12k de altíssimo detalhe, profundidade cinematográfica pronta para um movimento de vídeo fluido. Movimento de câmera cinematográfico lento (push-in), partículas sutis flutuantes e movimento de luz suave, névoa atmosférica leve à deriva, movimento elegante e fluido, sensação cinematográfica premium, altíssimo detalhe, atmosfera calma e refinada
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088323317975674880/img/WyD8QUZXAglo-Q80.jpg" width="600" alt="Animação de pouso da Starship em Marte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9176)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088323673103208482) | **Published:** Aug 14, 2026
-
----
-### Animação de Australian Collie na Costa do Oceano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Captura um majestoso Australian Collie com olhos cor de oceano impressionantes brincando na costa, com foco na iluminação e em seu olhar firme e leal.
-
-#### 📝 Prompt
-
-```
-Australian collie, olhos cor de oceano que captam a luz como o sol na água… pelagem elegante, orelhas alertas, aquele olhar firme que diz “estou aqui por você”. brincando com bolas de tênis na costa do oceano
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088315906703101952/img/ZnGqTwKezCtzwx5R.jpg" width="600" alt="Animação de Australian Collie na Costa do Oceano">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9183)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088316174509515150) | **Published:** Aug 14, 2026
-
----
-### Animação da Festa do Chá do Dragão de Ébano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gera um vídeo de um dragão em crescimento segurando elegantemente uma xícara de chá com suas garras negras, misturando poder mítico com movimentos delicados.
-
-#### 📝 Prompt
-
-```
-dragão cresce e segura delicadamente sua própria xícara de chá com suas garras negras de ébano
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088303551034372096/img/sbfUg6H0e2qT3QhE.jpg" width="600" alt="Animação da Festa do Chá do Dragão de Ébano">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9180)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088303946016153820) | **Published:** Aug 14, 2026
-
----
-### Prompt de vídeo: A espaçonave do Dilúvio de Noé
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico dramático mostrando uma espaçonave deixando a Terra durante um dilúvio global que submerge as pirâmides, misturando imagens bíblicas e de ficção científica.
-
-#### 📝 Prompt
-
-```
-Uma mulher e um homem a bordo de uma espaçonave aberta partindo do planeta Terra em direção ao sol, observando as águas prevalecerem sobre o mundo como no dilúvio de Noé, águas massivas cobrindo as pirâmides e submergindo a Terra abaixo deles, apenas alguns no planeta permanecem, aqueles que foram avisados e construíram embarcações para o mar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088289936520757248/img/LgWytKEgcs0PEpvQ.jpg" width="600" alt="Prompt de vídeo: A espaçonave do Dilúvio de Noé">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9179)**
-
-**Author:** [Maria Of Mars](https://x.com/MariaGa68521784) | **Source:** [Link](https://x.com/MariaGa68521784/status/2088289952517759388) | **Published:** Aug 14, 2026
-
----
-### Animação de Entidade Humanoide Luminosa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo surreal apresentando uma entidade humanoide brilhante contra um fundo abstrato escuro.
-
-#### 📝 Prompt
-
-```
-Uma entidade humanoide surreal e luminosa com uma aura brilhante em um fundo abstrato e escuro.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786779721376_i0zfwy_HPsF8rNbsAA7B9F.jpg" width="600" alt="Animação de Entidade Humanoide Luminosa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9178)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2088269525498384859) | **Published:** Aug 14, 2026
-
----
-### Estética de Pixel Art em Loop
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de vídeo para criar uma cena no estilo pixel art com uma estética em loop e uma câmera relativamente estática, inspirado em letras de músicas japonesas.
-
-#### 📝 Prompt
-
-```
-estilo pixel art, estética em loop, câmera relativamente estática. Não consigo mais testar os pneus e o coração que troquei por você.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088180539593527296/img/i4HHRg60vuC2ni5p.jpg" width="600" alt="Estética de Pixel Art em Loop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9187)**
-
-**Author:** [今井宏之](https://x.com/imaikaiimai) | **Source:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2164,6 +2178,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-23T05:02:09.416Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-23T08:54:31.877Z</sub>
 
 </div>

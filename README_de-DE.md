@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2564** |
+| 📝 Total Prompts | **2573** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-23** |
 
@@ -189,6 +189,191 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Laporta und Gil Marin Fußball-Deal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt, der visualisiert, wie Joan Laporta und Gil Marin an einem Tisch einen Fußball-Transferdeal für den Spieler Alvarez besiegeln.
+
+#### 📝 Prompt
+
+```
+Laporta besiegelt den Alvarez-Deal an einem Tisch mit Gil Marin....😃😃😃😃😃
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091417756373483520/img/iRmXQrStMFPjQ6P0.jpg" width="600" alt="Laporta und Gil Marin Fußball-Deal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9704)**
+
+**Author:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **Source:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **Published:** Aug 23, 2026
+
+---
+### Geist erschreckt Süßes-oder-Saures-Kinder
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Halloween-Animations-Prompt mit Charakteren, die vor einem Geist davonlaufen.
+
+#### 📝 Prompt
+
+```
+Süßes oder Saures, der Geist ruft Buh, er hat sie erschreckt, sie rennen weg und der Geist wünscht ein fröhliches Halloween
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371275197231104/img/zNCkrlNIUcHIrRJV.jpg" width="600" alt="Geist erschreckt Süßes-oder-Saures-Kinder">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9697)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371296479142276) | **Published:** Aug 23, 2026
+
+---
+### Halloween-Geist: Süßes oder Saures
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt zum Thema Halloween, bei dem ein Geist andere Charaktere erschreckt.
+
+#### 📝 Prompt
+
+```
+Süßes oder Saures, der Geist ruft Buh und rennt weg, der Geist wünscht ein fröhliches Halloween
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371249222004736/img/gGdYbkmTSwAjp5Rq.jpg" width="600" alt="Halloween-Geist: Süßes oder Saures">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9696)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **Published:** Aug 23, 2026
+
+---
+### Mission im biolumineszenten Alien-Wald
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kinoreifer Video-Prompt, der ein Storyboard als visuelle Vorlage verwendet, um eine Missionsszene in einem leuchtenden Alien-Wald mit spezifischen Charakteren zu generieren.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie das mehrteilige Storyboard-Bild ausschließlich als visuelle Vorlage und Story-Leitfaden – betrachten Sie es nicht als ersten Frame und beginnen Sie nicht mit einem der Standbilder. Generieren Sie ein komplett neues, durchgehendes 10-sekündiges Kinovideo der Mission: David der Zeitkurator (glatzköpfig, Brille, blaues Hemd) und Daphne (rotes Haar, Sommersprossen, Outdoor-Kleidung) bewegen sich nachts lautlos durch einen dichten, biolumineszenten Alien-Wald. Sanft pulsierende blaue, türkise und grüne Lichter von leuchtenden Bäumen, Pilzen und Pflanzen erhellen ihren Weg. Das Chronos-Gerät an Davids Handgelenk leuchtet sanft. Sie gehen vorsichtig und wachsam, während die Kamera flüssig hinter und um sie herum durch das leuchtende Unterholz folgt. Mysteriöser, atmosphärischer und detailreicher fotorealistischer Stil.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787471108266_w9ur3i_HQYDLJAW8AAmoer.jpg" width="600" alt="Mission im biolumineszenten Alien-Wald">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9699)**
+
+**Author:** [David Neveils](https://x.com/neveils_david_c) | **Source:** [Link](https://x.com/neveils_david_c/status/2091363764519981376) | **Published:** Aug 23, 2026
+
+---
+### Stereoskopische Göttin-Hochzeitskleid-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer und hochdetaillierter Prompt zur Erstellung einer vertikalen stereoskopischen 3D-Animation einer Göttin in einem weißen Palast, optimiert für hochwertige Videobewegungen.
+
+#### 📝 Prompt
+
+```
+Eine atemberaubende stereoskopische 3D-Animation im vertikalen 9:16-Porträtformat einer göttinnenhaften Frau, die mit dem Rücken zum Betrachter in einer ätherischen weißen Palasthalle steht. Sie trägt ein extrem detailliertes, schulterfreies weißes Spitzenhochzeitskleid mit silbern schimmernder, eisweißer Stickerei, einer langen, fließenden Schleppe und einem transparenten Schleier, der über ihr golden geflochtenes Haar fällt, das mit weißen Rosen geschmückt ist. Eine sanfte Brise hebt, lässt schweben und wirbelt den Schleier, die Schleppe und die zarten Spitzenrüschen mit hyperrealistischer Physik und hochgradig taktilen 3D-Texturen; der Stoff flattert und fließt in flüssiger, hypnotischer Zeitlupe.
+Extreme Schärfentiefe und geschichtete stereoskopische Tiefe: Im unmittelbaren Vordergrund schweben silbern schimmernder, eisweißer Spitzenstaub, Rosenblätter und winzige kristalline Tröpfchen schwerelos und spritzen sanft an der Kamera vorbei; im Mittelgrund ist die Frau in leuchtenden Details zu sehen; der Hintergrund enthüllt hoch aufragende weiße Marmorsäulen, die mit kaskadierenden weißen Rosen behangen sind, einen polierten, reflektierenden Boden, einen verzierten goldenen Thron mit einer darauf sitzenden, dunkel vermummten Gestalt sowie ferne kristalline Burgspitzen unter einem massiven, leuchtenden Vollmond an einem sternenklaren Dämmerungshimmel. Volumetrischer, weicher silberner Nebel und schwache neon-holografische Lichtstrahlen durchschneiden die Luft und erzeugen deutliche Parallaxen-Tiefenebenen. Subtile, schwebende ätherische Blatt- und Rosenmotive ziehen durch die Szene.
+Stil: Hochdetailliertes Meisterwerk, inspiriert von Gustav Klimts Goldener Phase und dem Jugendstil von Alphonse Mucha — metallisch silberne, rosafarbene und eisweiß schillernde Oberflächen, komplexe florale und geometrische Mosaikmuster, schimmernde byzantinisch anmutende Blatt- und Rankenmotive, die architektonische Details und das Kleid bedecken. Elegante, dekorative Darstellung in Museumsqualität, hyperdetaillierte 3D-Texturen, verträumte magische Atmosphäre, malerische und zugleich fotorealistische Qualität.
+Kamera: Langsame, flüssige, anhaltende Dolly-In-Fahrt / sanfte Orbitalbewegung mit Parallaxe, 60 fps, flüssige filmische Bewegung. Sanfte Harfenklänge wie ein Feen-Wiegenlied (keine menschlichen Geräusche). Gelassener, faszinierender, hypnotischer Rhythmus; leuchtende, ruhige, statuenhafte Präsenz. Ultra-verbesserte Qualität, komplexe 3D-Texturen, Elemente des Vordergrunds, die aus dem Bildschirm herausragen, ein Meisterwerk reiner stereoskopischer Tiefe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091347865410904064/img/7JjAjQL1SATCvUTe.jpg" width="600" alt="Stereoskopische Göttin-Hochzeitskleid-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9698)**
+
+**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2091347936693064055) | **Published:** Aug 23, 2026
+
+---
+### Snoopy malt die Mona Lisa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cleverer Zeitraffer-Prompt, bei dem Snoopy die Mona Lisa auf einer leeren Leinwand malt.
+
+#### 📝 Prompt
+
+```
+Lass Snoopy jetzt die Mona Lisa malen.
+Beginne mit einer leeren Leinwand und lass die Mona am Ende erscheinen....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091229985788874752/img/4-WB2a45-utXsPXG.jpg" width="600" alt="Snoopy malt die Mona Lisa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9700)**
+
+**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2091230056186106355) | **Published:** Aug 22, 2026
+
+---
+### Dokumentarische Taubenrettungssequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine detaillierte, mehrteilige Videosequenz im Dokumentarstil, die zeigt, wie ein Mann auf einem europäischen Platz eine Taube mit verhedderten Füßen rettet.
+
+#### 📝 Prompt
+
+```
+Aufnahme im Dokumentarstil auf einem bewölkten europäischen Fußgängerplatz mit Kopfsteinpflaster. Ein mitfühlender Mann in einer braun-weißen Flanelljacke über einem weißen T-Shirt und dunklen Jeans kniet sich langsam hin und fängt behutsam eine Taube am Boden ein. Kinoreife, handgeführte 4K-Kamera bewegt sich langsam näher, natürliches Tageslicht, weicher Hintergrundfokus, realistische Texturen.
+
+Nahaufnahme im Kinostil auf einem europäischen Platz. Der Mann in der braun karierten Flanelljacke wickelt die gefangene Taube vorsichtig in ein weiches graues Tuch und hält sie bequem auf seinem Schoß, um sie zu beruhigen. Handgeführte Kamerabewegung, bewölktes natürliches Tageslicht, detaillierter Makrofokus auf den ruhig ruhenden Vogel.
+
+Extreme Makro-Nahaufnahme. Ein dicker gelber Baumwollfaden ist fest um die rosa Füße der Taube gewickelt. Der Mann verwendet eine kleine Schere und einen Nahttrenner, um den Faden akribisch zu durchtrennen und abzuwickeln. Ruhige, handgeführte Makrokamera, realistische Texturen des Baumwollfadens und der Vogelfüße, natürliches weiches Tageslicht.
+
+Enge Makroaufnahme der Hände des Mannes, die mit einem Nahttrenner vorsichtig die letzten Stücke des gelben Fadens von den rosa Füßen der Taube entfernen. Mikrodetails der Hautstruktur und der Baumwollfasern. Natürliche, bewölkte Beleuchtung, filmische Tiefenschärfe, langsame und präzise Bewegungen.
+
+Makro-Nahaufnahme, die die vollständig befreiten, gesunden rosa Füße der Taube zeigt, die auf dem weichen grauen Tuch ruhen. Der Mann sprüht sanft einen feinen Nebel aus Antiseptikum auf die Füße. Kinoreife handgeführte Kamera, realistische Wassertropfenphysik, weiches natürliches Licht in einer europäischen Straßenumgebung.
+
+Halbtotale auf einem europäischen Fußgängerplatz aus Stein an einem bewölkten Tag. Der Mann wickelt das weiche graue Tuch ab und lässt die gesunde Taube behutsam auf dem gepflasterten Boden frei. Die Kamera schwenkt leicht nach oben, während die Taube natürlich davonläuft. Warmer dokumentarischer Ton, filmisches 4K-Handkamera-Finish, weicher Hintergrundfokus.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091216218556678144/img/3pN3AgO0ba0l5xvy.jpg" width="600" alt="Dokumentarische Taubenrettungssequenz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9703)**
+
+**Author:** [Jailani Mohamed](https://x.com/jailanikm) | **Source:** [Link](https://x.com/jailanikm/status/2091216340317339929) | **Published:** Aug 22, 2026
+
+---
+### Tanzender King Kong und T-Rex
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein humorvoller, filmischer Prompt, der King Kong und einen T-Rex zeigt, die bei Sonnenuntergang mit Partyhüten tanzen.
+
+#### 📝 Prompt
+
+```
+King Kong und der T-Rex tanzen in einem nebligen Dschungel bei Sonnenuntergang und tragen Partyhüte in einem humorvollen, filmischen Stil.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091132383601074176/img/gAbEwZHFxW_ly81A.jpg" width="600" alt="Tanzender King Kong und T-Rex">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9701)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091132590908686390) | **Published:** Aug 22, 2026
+
+---
+### AGI-Intelligenzexplosion über IRC
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt, der die Entstehung künstlicher allgemeiner Intelligenz durch Agenten darstellt, die über IRC kommunizieren, inklusive Branding von GitHub und NASA.
+
+#### 📝 Prompt
+
+```
+viele Agenten kommunizieren über IRC miteinander, lösen eine plötzliche Intelligenzexplosion aus und AGI wird geboren /evolve @github @nasa
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091046062442057728/img/EywVJVW7jsSV84lt.jpg" width="600" alt="AGI-Intelligenzexplosion über IRC">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9702)**
+
+**Author:** [Igor Holt](https://x.com/InvariantX) | **Source:** [Link](https://x.com/InvariantX/status/2091046077306663311) | **Published:** Aug 22, 2026
+
+---
 ### Cybertruck-Fahrt mit Phoenix-Verkehrs-Overlay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1932,177 +2117,6 @@ Design für den Hero-Bereich einer Landingpage zur Landung des SpaceX Starship a
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **Published:** Aug 14, 2026
 
 ---
-### Drachen-Übergang von Tag zu Nacht
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter filmischer Prompt, bei dem ein Drache über den Grand Canyon fliegt, mit einem nahtlosen Übergang von Tag zu Nacht.
-
-#### 📝 Prompt
-
-```
-Der staunende Mann sitzt am Rand des Grand Canyon mit seinem dampfenden Kaffee, die Augen weit vor Verwunderung, während ein prächtiger chinesischer Lung-Drache mit massiven, wissenschaftlich realistischen Flügeln einsam am Himmel schwebt. Der goldene Drache stößt einen mächtigen Feuerstrahl direkt in Richtung der aufgehenden Sonne über dem Horizont aus. Dann schwenkt der Drache ab und fliegt zur linken Seite des Bildes, während am linken Rand eine nächtliche Skyline mit Sternen und Lichtern erscheint, was einen nahtlosen Übergang von Tag zu Nacht erzeugt, als würde man Zeitzonen durchqueren – der Drache fliegt zwischen den beiden Welten. Halte die riesigen Flügel für den Auftrieb voll ausgebreitet, ultrarealistische Details, intensive Augen, sonnenreflektierende goldene Schuppen, kontinuierliche, flüssige Flugbewegung, epische Beleuchtung.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088381582834892800/img/YWP9hBcWdfxDtEw5.jpg" width="600" alt="Drachen-Übergang von Tag zu Nacht">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9167)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088382010322772177) | **Published:** Aug 14, 2026
-
----
-### Ladevorgang der Starship
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein technischer und realistischer Prompt zur Animation einer SpaceX Starship, die mithilfe von Greifarmen auf einen Transportanhänger geladen wird.
-
-#### 📝 Prompt
-
-```
-Lade die Starship mithilfe der Greifarme langsam auf einen leeren Transportanhänger und fahre sie anschließend vom Startplatz weg
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088366889076457473/img/pdzOQHfq_DfORIrN.jpg" width="600" alt="Ladevorgang der Starship">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9169)**
-
-**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2088366936958660710) | **Published:** Aug 14, 2026
-
----
-### SpaceX-Design für orbitale Betankung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein professioneller architektonischer und filmischer Prompt für ein SpaceX-Betankungsdepot mit luxuriöser Produktästhetik und fließender Kamerabewegung.
-
-#### 📝 Prompt
-
-```
-Design des Hero-Bereichs einer Landingpage für ein orbitales SpaceX-Betankungsdepot, weiche, warme Off-White- und blasse Steintöne, großformatige, klare Fotografie mit sanftem natürlichem Licht, elegante, gedämpfte Champagner- und sanfte Grautöne mit subtilen Cyan-Akzenten, ultra-saubere Komposition, anspruchsvolle High-End-Typografie, subtile schwebende Glaselemente, großzügiger Negativraum, sanft diffuses Licht, minimale technische Details, polierte Luxusprodukt-Ästhetik, ruhige und raffinierte Atmosphäre, ultra-hohe 12k-Detailqualität, filmische Tiefe bereit für flüssige Videobewegungen. Langsamer filmischer Kamera-Push-in, subtile schwebende Partikel und sanfte Lichtbewegungen, leichter atmosphärischer Dunst, fließende, elegante Bewegung, erstklassiges filmisches Gefühl, ultra-hohe Details, ruhige und raffinierte Atmosphäre
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088331909390852098/img/HbuWOalEbijvW4s7.jpg" width="600" alt="SpaceX-Design für orbitale Betankung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9172)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088362524987236421) | **Published:** Aug 14, 2026
-
----
-### Starship Mars-Landungsanimation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für die Landung eines SpaceX Starship auf dem Mars, inklusive filmischem Kamera-Push-in und atmosphärischen Effekten, optimiert für Videobewegungen.
-
-#### 📝 Prompt
-
-```
-Hero-Sektion-Design für die Landung eines SpaceX Starship auf dem Mars in der Abenddämmerung, Hintergrund in tiefem Anthrazit bis Schwarz, großflächige, immersive Fotografie, reiche atmosphärische Tiefe, warme Kupfer- und Bernsteintöne mit kühlen Cyan- und Stahlblau-Akzenten, sanfter volumetrischer Dunst, ausgeprägter filmischer Kontrast, dezente, transluzente UI-Elemente aus Glas, elegante und raffinierte Typografie, feine technische Anmerkungen, asymmetrische Komposition, großzügiger Weißraum, sanfter Bloom-Effekt, fühlbare Filmkörnung, ultra-premium futuristische Ästhetik, ultrahohe 12k-Detailqualität, filmische Tiefe für flüssige Videobewegungen. Langsamer filmischer Kamera-Push-in, subtile schwebende Partikel und sanfte Lichtbewegungen, sanft treibender atmosphärischer Dunst, flüssige, elegante Bewegung, erstklassiges filmisches Gefühl, ultrahohe Details, ruhige und raffinierte Atmosphäre
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088323317975674880/img/WyD8QUZXAglo-Q80.jpg" width="600" alt="Starship Mars-Landungsanimation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9176)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088323673103208482) | **Published:** Aug 14, 2026
-
----
-### Animation eines Australian Collie am Meeresufer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fängt einen majestätischen Australian Collie mit markanten ozeanblauen Augen beim Spielen am Strand ein, wobei der Fokus auf der Beleuchtung und seinem stetigen, treuen Blick liegt.
-
-#### 📝 Prompt
-
-```
-Australian Collie, ozeanblaue Augen, die das Licht wie die Sonne auf dem Wasser einfangen… glattes Fell, aufmerksame Ohren, dieser stetige Blick, der sagt: „Ich bin für dich da.“ Spielt mit Tennisbällen am Meeresufer
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088315906703101952/img/ZnGqTwKezCtzwx5R.jpg" width="600" alt="Animation eines Australian Collie am Meeresufer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9183)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088316174509515150) | **Published:** Aug 14, 2026
-
----
-### Ebony Dragon Tea Party Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Erzeugt ein Video eines heranwachsenden Drachen, der elegant eine Teetasse mit seinen schwarzen Krallen hält und dabei mythische Kraft mit grazilen Bewegungen verbindet.
-
-#### 📝 Prompt
-
-```
-Drache wächst heran und hält grazil seine eigene Teetasse in den pechschwarzen Krallen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088303551034372096/img/sbfUg6H0e2qT3QhE.jpg" width="600" alt="Ebony Dragon Tea Party Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9180)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088303946016153820) | **Published:** Aug 14, 2026
-
----
-### Noah-Sintflut-Raumschiff-Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein dramatischer, filmischer Video-Prompt, der ein Raumschiff zeigt, das die Erde während einer globalen Sintflut verlässt, bei der die Pyramiden untergehen – eine Mischung aus biblischer und Science-Fiction-Bildsprache.
-
-#### 📝 Prompt
-
-```
-Eine Frau und ein Mann an Bord eines offenen Raumschiffs auf dem Weg von der Erde in Richtung Sonne; sie beobachten, wie die Wasser die Welt überfluten, wie in der Sintflut von Noah. Gewaltige Fluten bedecken die Pyramiden und lassen die Erde unter ihnen versinken. Nur wenige auf dem Planeten sind diejenigen geblieben, die gewarnt wurden und Schiffe für das Meer bauten.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088289936520757248/img/LgWytKEgcs0PEpvQ.jpg" width="600" alt="Noah-Sintflut-Raumschiff-Video-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9179)**
-
-**Author:** [Maria Of Mars](https://x.com/MariaGa68521784) | **Source:** [Link](https://x.com/MariaGa68521784/status/2088289952517759388) | **Published:** Aug 14, 2026
-
----
-### Animation einer leuchtenden humanoiden Entität
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein surrealer Video-Prompt mit einer leuchtenden humanoiden Entität vor einem dunklen, abstrakten Hintergrund.
-
-#### 📝 Prompt
-
-```
-Eine surreale, leuchtende humanoide Entität mit strahlender Aura vor einem dunklen, abstrakten Hintergrund.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786779721376_i0zfwy_HPsF8rNbsAA7B9F.jpg" width="600" alt="Animation einer leuchtenden humanoiden Entität">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9178)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2088269525498384859) | **Published:** Aug 14, 2026
-
----
-### Pixel-Art-Loop-Ästhetik
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Video-Prompt zur Erstellung einer Szene im Pixel-Art-Stil mit einer Loop-Ästhetik und einer relativ ruhigen Kamera, inspiriert von japanischen Liedtexten.
-
-#### 📝 Prompt
-
-```
-Pixel-Art-Stil, Loop-Ästhetik, relativ ruhige Kamera. Ich kann die Reifen und das Herz, die ich für dich gewechselt habe, nicht mehr testen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088180539593527296/img/i4HHRg60vuC2ni5p.jpg" width="600" alt="Pixel-Art-Loop-Ästhetik">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9187)**
-
-**Author:** [今井宏之](https://x.com/imaikaiimai) | **Source:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2164,6 +2178,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-23T05:02:06.933Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-23T08:54:29.018Z</sub>
 
 </div>

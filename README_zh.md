@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2564** |
+| 📝 提示词总数 | **2573** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-08-23** |
 
@@ -189,6 +189,191 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Laporta 与 Gil Marin 的足球交易
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个可视化 Joan Laporta 和 Gil Marin 在桌前为球员 Alvarez 达成足球转会协议的提示词。
+
+#### 📝 提示词
+
+```
+Laporta 与 Gil Marin 在桌前达成 Alvarez 的交易……😃😃😃😃😃
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091417756373483520/img/iRmXQrStMFPjQ6P0.jpg" width="600" alt="Laporta 与 Gil Marin 的足球交易">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9704)**
+
+**作者:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **来源:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **发布时间:** Aug 23, 2026
+
+---
+### 幽灵吓跑不给糖就捣蛋的孩子们
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个万圣节动画提示词，描述角色们被幽灵吓跑的场景。
+
+#### 📝 提示词
+
+```
+不给糖就捣蛋，幽灵跳出来喊了一声“呜”，把他们吓得落荒而逃，最后幽灵祝大家万圣节快乐。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371275197231104/img/zNCkrlNIUcHIrRJV.jpg" width="600" alt="幽灵吓跑不给糖就捣蛋的孩子们">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9697)**
+
+**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **来源:** [Link](https://x.com/DavontaDav5iv/status/2091371296479142276) | **发布时间:** Aug 23, 2026
+
+---
+### 万圣节幽灵不给糖就捣蛋
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个万圣节主题的视频提示词，讲述了幽灵吓唬角色的故事。
+
+#### 📝 提示词
+
+```
+不给糖就捣蛋，幽灵说了一声“呜”，然后跑开了，幽灵祝大家万圣节快乐
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371249222004736/img/gGdYbkmTSwAjp5Rq.jpg" width="600" alt="万圣节幽灵不给糖就捣蛋">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9696)**
+
+**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **来源:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **发布时间:** Aug 23, 2026
+
+---
+### 生物发光外星森林任务
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影级视频提示词，利用 storyboard 作为视觉蓝图，在发光的异星森林中生成包含特定角色的任务场景。
+
+#### 📝 提示词
+
+```
+将多面板 storyboard @ image 仅作为视觉蓝图和故事指南使用——请勿将其视为第一帧或从其任何静态面板开始。生成一段全新的、时长 10 秒的连续电影级任务视频：时间管理员 David（秃头、戴眼镜、穿蓝色衬衫）和 Daphne（红发、有雀斑、身穿野外装备）在夜晚悄无声息地穿过茂密的生物发光外星森林。来自发光树木、蘑菇和植物的柔和蓝色、青色和绿色脉冲光照亮了他们的路径。David 手腕上的 Chronos 设备发出柔和的光芒。他们小心翼翼地前行，保持警惕，摄像机在发光的灌木丛中平稳地跟随并环绕他们拍摄。充满神秘感与氛围感，高细节写实风格。
+```
+
+<img src="https://cms-assets.youmind.com/media/1787471108266_w9ur3i_HQYDLJAW8AAmoer.jpg" width="600" alt="生物发光外星森林任务">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9699)**
+
+**作者:** [David Neveils](https://x.com/neveils_david_c) | **来源:** [Link](https://x.com/neveils_david_c/status/2091363764519981376) | **发布时间:** Aug 23, 2026
+
+---
+### 立体女神婚纱动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个复杂且高度精细的提示词，用于生成女神在白色宫殿中的竖屏 3D 立体动画，针对高质量视频运动进行了优化。
+
+#### 📝 提示词
+
+```
+令人惊叹的 9:16 竖屏肖像立体 3D 动画，一位女神般的女性背对观众，站在空灵的白色宫殿大厅中。她身穿超精细的露肩白色蕾丝婚纱，饰有银色虹彩冰白色刺绣，长长的拖尾和透明面纱垂落在饰有白玫瑰的金黄色编织发丝上。微风轻拂，使面纱、拖尾和精致的蕾丝褶边以超逼真的物理效果和高触感 3D 纹理升起、漂浮并旋转；织物在平滑、催眠般的慢动作中飘动流转。
+极端的景深和分层立体深度：近景处有银色虹彩冰白色蕾丝粉尘、玫瑰花瓣和微小的晶莹水滴无重力漂浮，并轻轻溅过镜头；中景展示了细节发光的女性；背景展现了覆盖着层叠白玫瑰的高耸白色大理石柱、抛光反射地面、坐着深色兜帽人物的华丽金王座，以及星光熠熠的暮色天空中一轮巨大的发光满月下遥远的水晶城堡尖顶。体积感柔和的银色薄雾和微弱的霓虹全息光束穿过空气，创造出独特的视差深度层。微妙的漂浮空灵叶片和玫瑰图案在场景中飘动。
+风格：受 Gustav Klimt 的“黄金时期”和 Alphonse Mucha 的新艺术运动启发的高度精细杰作——金属银、玫瑰粉和冰白色虹彩表面，复杂的几何花卉马赛克图案，覆盖在建筑细节和婚纱上的闪烁拜占庭式叶片和藤蔓图案。博物馆级优雅装饰渲染，超精细 3D 纹理，梦幻般的魔法氛围，兼具绘画感与照片级真实感。
+摄像机：缓慢、流畅、持续的推拉镜头 / 带有视差的轻柔轨道运动，60 fps，平滑的电影级运动。柔和的仙境摇篮曲竖琴声（无人类声音）。宁静、迷人、催眠般的节奏；明亮、安详、雕塑般的存在感。超增强质量，复杂的 3D 纹理，前景元素仿佛伸出屏幕，纯粹的立体深度杰作。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091347865410904064/img/7JjAjQL1SATCvUTe.jpg" width="600" alt="立体女神婚纱动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9698)**
+
+**作者:** [Pam Westmore](https://x.com/PamWestmor85243) | **来源:** [Link](https://x.com/PamWestmor85243/status/2091347936693064055) | **发布时间:** Aug 23, 2026
+
+---
+### 史努比绘制《蒙娜丽莎》
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个巧妙的延时摄影提示词，让史努比从空白画布开始绘制《蒙娜丽莎》。
+
+#### 📝 提示词
+
+```
+现在让史努比绘制《蒙娜丽莎》。
+从空白画布开始，最后让蒙娜丽莎显现出来……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091229985788874752/img/4-WB2a45-utXsPXG.jpg" width="600" alt="史努比绘制《蒙娜丽莎》">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9700)**
+
+**作者:** [DW 💉👀🐊](https://x.com/deweller) | **来源:** [Link](https://x.com/deweller/status/2091230056186106355) | **发布时间:** Aug 22, 2026
+
+---
+### 纪录片风格：鸽子救援全过程
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详尽的多片段纪录片风格视频，展示了一名男子在欧洲广场救助一只双脚被缠住的鸽子的过程。
+
+#### 📝 提示词
+
+```
+在阴天的欧洲石板步行广场拍摄的纪录片风格镜头。一名穿着棕白格纹法兰绒夹克、内搭白 T 恤、下穿深色牛仔裤的爱心男士缓缓跪下，轻轻地抓住了地面上的一只鸽子。电影级手持 4K 摄像机缓慢推进，自然日光，背景柔焦，质感真实。
+
+欧洲广场的电影级特写镜头。身穿棕色格纹法兰绒夹克的男子小心翼翼地用一块柔软的灰色布料包裹住抓到的鸽子，将其舒适地抱在膝盖上以安抚它。手持摄像机运动，阴天自然光，微距聚焦于安静休息的鸟儿。
+
+超微距特写视频。粗黄色的棉线紧紧缠绕在鸽子粉红色的脚上。男子使用小剪刀和拆线刀细致地剪开并解开绳子。稳定的手持微距拍摄，棉线与鸟脚的质感真实，自然柔和的日光。
+
+紧凑的微距视角，展示了男子用拆线刀小心地从鸽子粉红色的脚上取下最后几段黄色绳子。皮肤纹理和棉纤维的微小细节清晰可见。自然阴天光照，电影级景深，动作缓慢而精准。
+
+微距特写镜头展示了鸽子完全恢复自由、健康的粉红色双脚，正停在柔软的灰色布料上。男子轻轻地在鸽脚上喷洒了一层细细的消毒喷雾。电影级手持拍摄，真实的水滴物理效果，欧洲街道背景下的柔和自然光。
+
+阴天欧洲石板步行广场的中景镜头。男子打开柔软的灰色布料，轻轻地将健康的鸽子放归铺设好的街道上。随着鸽子自然地走开，摄像机微微上摇。温暖的纪录片色调，电影级 4K 手持收尾，背景柔焦。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091216218556678144/img/3pN3AgO0ba0l5xvy.jpg" width="600" alt="纪录片风格：鸽子救援全过程">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9703)**
+
+**作者:** [Jailani Mohamed](https://x.com/jailanikm) | **来源:** [Link](https://x.com/jailanikm/status/2091216340317339929) | **发布时间:** Aug 22, 2026
+
+---
+### 跳舞的金刚与霸王龙
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个幽默的电影感提示词，描绘了金刚和霸王龙戴着派对帽在日落时分跳舞的场景。
+
+#### 📝 提示词
+
+```
+金刚与霸王龙在雾气缭绕的丛林日落中跳舞，它们戴着派对帽，呈现出幽默且具有电影感的风格。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091132383601074176/img/gAbEwZHFxW_ly81A.jpg" width="600" alt="跳舞的金刚与霸王龙">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9701)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2091132590908686390) | **发布时间:** Aug 22, 2026
+
+---
+### 基于 IRC 的 AGI 智能爆发
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词，描绘了通用人工智能（AGI）通过在 IRC 上进行交流的 Agent 诞生，画面中包含 GitHub 和 NASA 的品牌元素。
+
+#### 📝 提示词
+
+```
+许多 Agent 在 IRC 上相互交流，触发了一场突如其来的智能爆发，AGI 就此诞生 /进化 @github @nasa
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091046062442057728/img/EywVJVW7jsSV84lt.jpg" width="600" alt="基于 IRC 的 AGI 智能爆发">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9702)**
+
+**作者:** [Igor Holt](https://x.com/InvariantX) | **来源:** [Link](https://x.com/InvariantX/status/2091046077306663311) | **发布时间:** Aug 22, 2026
+
+---
 ### Cybertruck 在凤凰城交通中的驾驶叠加画面
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1933,177 +2118,6 @@ SpaceX Starship 火星黄昏着陆页面首屏设计，采用柔和温暖的灰�
 **作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **发布时间:** Aug 14, 2026
 
 ---
-### 巨龙昼夜交替场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度精细的电影级提示词，描述巨龙飞越科罗拉多大峡谷，并实现从白天到黑夜的无缝过渡。
-
-#### 📝 提示词
-
-```
-一位满怀敬畏的男子坐在科罗拉多大峡谷边缘，手中拿着冒着热气的咖啡，双眼因惊叹而睁大。一条精致的金色中国龙，长着巨大的、符合科学原理的翅膀，正独自翱翔。金龙向着地平线上升起的太阳喷出一股强劲的火焰。随后，巨龙向画面左侧转弯飞行，画面最左侧开始浮现出繁星点点和城市灯光的夜景，营造出一种如同跨越时区般的昼夜无缝过渡效果——巨龙穿梭于两个世界之间。保持巨龙巨大的双翼完全展开以提供升力，呈现超写实细节、深邃的眼神、反射阳光的金色鳞片、持续流畅的飞行姿态以及史诗般的灯光效果。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088381582834892800/img/YWP9hBcWdfxDtEw5.jpg" width="600" alt="巨龙昼夜交替场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9167)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2088382010322772177) | **发布时间:** Aug 14, 2026
-
----
-### Starship 装载流程
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个技术性且写实的提示词，用于制作 SpaceX Starship 通过机械臂装载到运输拖车上的动画。
-
-#### 📝 提示词
-
-```
-使用机械臂将 Starship 缓慢装载到空载的运输拖车上，随后将其驶离发射场
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088366889076457473/img/pdzOQHfq_DfORIrN.jpg" width="600" alt="Starship 装载流程">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9169)**
-
-**作者:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **来源:** [Link](https://x.com/SuperGeekCRC/status/2088366936958660710) | **发布时间:** Aug 14, 2026
-
----
-### SpaceX 轨道燃料补给站设计
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一款专为 SpaceX 燃料补给站打造的专业建筑与电影级提示词，融合了奢华产品美学与流畅的镜头运动感。
-
-#### 📝 提示词
-
-```
-SpaceX 轨道燃料补给站落地页首屏设计，采用柔和温暖的米白色与浅石色画布，超大尺寸的清晰摄影图像，配以柔和的自然光。优雅的哑光香槟色与柔灰色调，点缀微妙的青色，构图极其简洁，采用精致的高端排版，融入微妙的悬浮玻璃元素，留白充裕，光线柔和漫射。极简的技术细节，呈现出精致的奢华产品美学，氛围沉稳而优雅，12k 超高画质，具备电影级景深，适合流畅的视频运镜。缓慢的电影级镜头推近，微妙的悬浮微粒与柔和的光影流动，轻柔的大气薄雾漂浮，运动平滑优雅，尽显高端电影质感，细节极其丰富，氛围沉稳而精致。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088331909390852098/img/HbuWOalEbijvW4s7.jpg" width="600" alt="SpaceX 轨道燃料补给站设计">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9172)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2088362524987236421) | **发布时间:** Aug 14, 2026
-
----
-### Starship 火星着陆动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份关于 SpaceX Starship 在火星着陆的详细提示词，包含专为视频动态设计的电影级推入镜头和大气效果。
-
-#### 📝 提示词
-
-```
-SpaceX Starship 在黄昏时分于火星着陆的落地页首屏设计，深炭色至近乎黑色的背景，超大沉浸式摄影图像，丰富的空间深度，温暖的铜色和琥珀色高光，搭配冷青色和钢蓝色点缀，柔和的体积雾，鲜明的电影级对比度，精致的半透明玻璃 UI 元素，优雅洗练的排版，细腻的技术标注，非对称构图，充裕的留白，柔和的光晕，真实的胶片颗粒感，极致高端的未来主义美学，12k 超高画质，为流畅的视频动态做好电影级深度准备。缓慢的电影级镜头推入，细腻的浮动粒子和柔和的光影移动，轻柔的大气雾气漂浮，平滑优雅的动态，高端电影质感，超高细节，宁静而精致的氛围。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088323317975674880/img/WyD8QUZXAglo-Q80.jpg" width="600" alt="Starship 火星着陆动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9176)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2088323673103208482) | **发布时间:** Aug 14, 2026
-
----
-### 澳洲牧羊犬海滨动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 捕捉一只拥有迷人海洋之眼的澳洲牧羊犬在岸边嬉戏的壮丽画面，重点刻画光影效果及其坚定而忠诚的目光。
-
-#### 📝 提示词
-
-```
-澳洲牧羊犬，那双如阳光洒在水面般闪烁的海洋之眼……顺滑的毛发，警觉的耳朵，那坚定的目光仿佛在诉说着“我会一直守护你”。在海滨玩网球的画面。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088315906703101952/img/ZnGqTwKezCtzwx5R.jpg" width="600" alt="澳洲牧羊犬海滨动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9183)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2088316174509515150) | **发布时间:** Aug 14, 2026
-
----
-### 乌龙茶会动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段视频，展示一条成长中的龙用黑色的利爪优雅地端着茶杯，将神话力量与细腻的动作完美融合。
-
-#### 📝 提示词
-
-```
-龙长大后，用乌黑的指爪优雅地端着自己的茶杯
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088303551034372096/img/sbfUg6H0e2qT3QhE.jpg" width="600" alt="乌龙茶会动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9180)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2088303946016153820) | **发布时间:** Aug 14, 2026
-
----
-### 诺亚洪水星际飞船视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段极具戏剧性的电影感视频提示词，描绘了一艘星际飞船在全球洪水淹没金字塔时离开地球的场景，融合了圣经传说与科幻意象。
-
-#### 📝 提示词
-
-```
-一男一女身处一艘敞开式的星际飞船上，正驶离地球飞向太阳。他们俯瞰着洪水如诺亚洪水般席卷全球，巨大的洪水淹没了金字塔，将整个地球没入水下。星球上仅存的少数人是那些收到预警并建造了海上避难船的幸存者。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088289936520757248/img/LgWytKEgcs0PEpvQ.jpg" width="600" alt="诺亚洪水星际飞船视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9179)**
-
-**作者:** [Maria Of Mars](https://x.com/MariaGa68521784) | **来源:** [Link](https://x.com/MariaGa68521784/status/2088289952517759388) | **发布时间:** Aug 14, 2026
-
----
-### 发光人形实体动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段超现实的视频提示词，展示了深色抽象背景下发光的人形实体。
-
-#### 📝 提示词
-
-```
-一个超现实、发光的人形实体，在深色抽象背景中散发着光环。
-```
-
-<img src="https://cms-assets.youmind.com/media/1786779721376_i0zfwy_HPsF8rNbsAA7B9F.jpg" width="600" alt="发光人形实体动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9178)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2088269525498384859) | **发布时间:** Aug 14, 2026
-
----
-### 像素艺术循环美学
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个视频提示词，用于创作具有循环美学且镜头相对静止的像素艺术风格场景，灵感来源于日本歌曲歌词。
-
-#### 📝 提示词
-
-```
-像素艺术风格，循环美学，镜头相对静止。我无法再测试为你更换的轮胎与心。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088180539593527296/img/i4HHRg60vuC2ni5p.jpg" width="600" alt="像素艺术循环美学">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9187)**
-
-**作者:** [今井宏之](https://x.com/imaikaiimai) | **来源:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **发布时间:** Aug 14, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2165,6 +2179,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-23T05:01:58.038Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-23T08:54:20.459Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2564** |
+| 📝 Total Prompts | **2573** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-23** |
 
@@ -189,6 +189,191 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Laporta ve Gil Marin Futbol Anlaşması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Joan Laporta ve Gil Marin'in bir masa başında Alvarez adlı oyuncu için futbol transfer anlaşmasını imzaladıklarını görselleştiren bir komut.
+
+#### 📝 Prompt
+
+```
+Laporta, Gil Marin ile bir masa başında Alvarez anlaşmasını imzalıyor....😃😃😃😃😃
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091417756373483520/img/iRmXQrStMFPjQ6P0.jpg" width="600" alt="Laporta ve Gil Marin Futbol Anlaşması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9704)**
+
+**Author:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **Source:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **Published:** Aug 23, 2026
+
+---
+### Şeker Şakacılarını Korkutan Hayalet
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karakterlerin bir hayaletten kaçtığı bir Cadılar Bayramı animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Şaka mı şeker mi derken hayalet 'buh' dedi, onları korkuttu, onlar kaçtı ve hayalet 'Mutlu Cadılar Bayramı' dedi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371275197231104/img/zNCkrlNIUcHIrRJV.jpg" width="600" alt="Şeker Şakacılarını Korkutan Hayalet">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9697)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371296479142276) | **Published:** Aug 23, 2026
+
+---
+### Cadılar Bayramı Hayalet Şakası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karakterleri korkutan bir hayaletin yer aldığı Cadılar Bayramı temalı video istemi.
+
+#### 📝 Prompt
+
+```
+Şaka mı şeker mi; hayalet 'bu' der ve kaçar, hayalet 'Mutlu Cadılar Bayramı' der
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371249222004736/img/gGdYbkmTSwAjp5Rq.jpg" width="600" alt="Cadılar Bayramı Hayalet Şakası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9696)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **Published:** Aug 23, 2026
+
+---
+### Biyolüminesans Uzaylı Ormanı Görevi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Belirli karakterlerle parlayan bir uzaylı ormanında görev sahnesi oluşturmak için görsel bir taslak olarak storyboard kullanan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Çok panelli storyboard görselini tamamen bir görsel taslak ve hikaye rehberi olarak kullanın; bunu ilk kare olarak kabul etmeyin veya sabit panellerinden herhangi biriyle başlamayın. Görevi anlatan, tamamen yeni ve kesintisiz 10 saniyelik sinematik bir video oluşturun: Zaman Küratörü David (kel, gözlüklü, mavi gömlekli) ve Daphne (kızıl saçlı, çilli, saha kıyafetli) gece vakti yoğun ve biyolüminesans özellikli bir uzaylı ormanında sessizce ilerliyor. Parlayan ağaçlardan, mantarlardan ve bitkilerden yayılan yumuşak mavi, turkuaz ve yeşil ışıklar yollarını aydınlatıyor. Chronos cihazı David'in bileğinde hafifçe parlıyor. Dikkatli ve tetikte bir şekilde yürüyorlar; kamera, ışıklı bitki örtüsünün içinden geçerek arkalarından ve çevrelerinden akıcı bir şekilde takip ediyor. Gizemli, atmosferik, yüksek detaylı fotorealistik tarz.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787471108266_w9ur3i_HQYDLJAW8AAmoer.jpg" width="600" alt="Biyolüminesans Uzaylı Ormanı Görevi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9699)**
+
+**Author:** [David Neveils](https://x.com/neveils_david_c) | **Source:** [Link](https://x.com/neveils_david_c/status/2091363764519981376) | **Published:** Aug 23, 2026
+
+---
+### Stereoskopik Tanrıça Gelinlik Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Beyaz bir saraydaki tanrıçanın dikey 3D stereoskopik animasyonunu oluşturmak için optimize edilmiş, yüksek kaliteli video hareketine uygun, karmaşık ve son derece detaylı bir komut.
+
+#### 📝 Prompt
+
+```
+Ethereal beyaz bir saray salonunda, izleyiciye arkası dönük duran tanrıça benzeri bir kadının nefes kesici 9:16 dikey portre stereoskopik 3D animasyonu. Üzerinde, gümüş yanardöner buz beyazı işlemeli, uzun dökümlü kuyruklu ve beyaz güllerle süslenmiş altın örgülü saçlarından aşağı süzülen şeffaf duvaklı, ultra detaylı, omuzları açık beyaz dantel bir gelinlik var. Hafif bir esinti; duvağı, kuyruğu ve narin dantel fırfırları hiper-gerçekçi fizik kuralları ve yüksek dokunsal 3D dokularla kaldırıyor, yüzdürüyor ve döndürüyor; kumaş pürüzsüz, hipnotik bir ağır çekimde dalgalanıyor ve akıyor.
+Ekstrem alan derinliği ve katmanlı stereoskopik derinlik: ön planda gümüş yanardöner buz beyazı dantel tozları, gül yaprakları ve ağırlıksız bir şekilde süzülen ve nazikçe kameranın önünden geçen minik kristal damlacıklar; orta planda ışıl ışıl detaylarıyla kadın; arka planda ise beyaz güllerle kaplı devasa beyaz mermer sütunlar, cilalı yansıtıcı bir zemin, üzerinde karanlık kapüşonlu bir figürün oturduğu süslü altın bir taht, yıldızlı bir alacakaranlık gökyüzünde devasa parlak bir dolunayın altında uzaktaki kristal kale kuleleri görülüyor. Hacimsel yumuşak gümüş sis ve hafif neon-holografik ışık huzmeleri havayı keserek belirgin paralaks derinlik katmanları oluşturuyor. Sahne boyunca süzülen ince, ruhani yaprak ve gül motifleri.
+Stil: Gustav Klimt'in Altın Dönemi ve Alphonse Mucha Art Nouveau akımından esinlenilmiş, son derece detaylı bir başyapıt — metalik gümüş, gül pembesi ve buz beyazı yanardöner yüzeyler, karmaşık çiçeksi ve geometrik mozaik desenler, mimari detayları ve gelinliği kaplayan ışıltılı Bizans tarzı yaprak ve sarmaşık motifleri. Müze kalitesinde zarif dekoratif işleme, hiper-detaylı 3D dokular, rüya gibi büyülü bir atmosfer, resimsel ama fotogerçekçi kalite.
+Kamera: Yavaş, akıcı, sürekli dolly-in / paralaks ile hafif orbital hareket, 60 fps, pürüzsüz sinematik hareket. Yumuşak peri ninnisi arp tınıları (insan sesi yok). Huzurlu, büyüleyici, hipnotik ritim; aydınlık, dingin, heykelsi bir duruş. Ultra geliştirilmiş kalite, karmaşık 3D dokular, ekrandan dışarı uzanan ön plan öğeleri, saf stereoskopik derinlik başyapıtı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091347865410904064/img/7JjAjQL1SATCvUTe.jpg" width="600" alt="Stereoskopik Tanrıça Gelinlik Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9698)**
+
+**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2091347936693064055) | **Published:** Aug 23, 2026
+
+---
+### Snoopy Mona Lisa'yı Boyuyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Snoopy'nin boş bir tuvalden başlayarak Mona Lisa'yı boyamasını sağlayan zekice bir time-lapse komutu.
+
+#### 📝 Prompt
+
+```
+Şimdi Snoopy'nin Mona Lisa'yı boyamasını sağla.
+Boş bir tuvalle başla ve sonunda Mona'nın belirmesini sağla....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091229985788874752/img/4-WB2a45-utXsPXG.jpg" width="600" alt="Snoopy Mona Lisa'yı Boyuyor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9700)**
+
+**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2091230056186106355) | **Published:** Aug 22, 2026
+
+---
+### Belgesel Güvercin Kurtarma Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Avrupa'da bir meydanda, ayakları dolanmış bir güvercini kurtaran bir adamı gösteren, çok bölümlü ve detaylı belgesel tarzında video sekansı.
+
+#### 📝 Prompt
+
+```
+Bulutlu bir Avrupa yaya meydanında, taş döşemeli zeminde çekilmiş belgesel tarzı görüntü. Beyaz tişört ve koyu renk kot pantolon üzerine kahverengi-beyaz ekose flanel ceket giymiş şefkatli bir adam, yavaşça diz çökerek yerdeki güvercini nazikçe yakalıyor. Sinematik el kamerası 4K çekim, yavaşça yaklaşıyor, doğal gün ışığı, yumuşak odaklı arka plan, gerçekçi dokular.
+
+Avrupa meydanında yakın plan sinematik çekim. Kahverengi ekose flanel ceketli adam, yakaladığı güvercini sakin kalması için yumuşak gri bir beze dikkatlice sarıyor ve kucağında rahat bir şekilde tutuyor. El kamerası hareketi, bulutlu doğal gün ışığı, sakince dinlenen kuş üzerinde detaylı makro odak.
+
+Ekstrem makro yakın plan video. Kalın sarı pamuklu ip, güvercinin pembe ayaklarına sıkıca dolanmış durumda. Adam, ipi titizlikle kesip çözmek için küçük bir makas ve sökücü kullanıyor. Sabit el makro kamerası, pamuk ipliğinin ve kuşun ayaklarının gerçekçi dokuları, doğal yumuşak gün ışığı.
+
+Adamın ellerinin, bir sökücü kullanarak sarı ipin son parçalarını güvercinin pembe ayaklarından dikkatlice çektiği yakın makro görüntü. Cilt dokusu ve pamuk lifi üzerinde mikro detaylar. Doğal bulutlu aydınlatma, sinematik alan derinliği, yavaş ve hassas hareketler.
+
+Güvercinin tamamen kurtulmuş, sağlıklı pembe ayaklarının yumuşak gri bez üzerinde durduğunu gösteren yakın makro çekim. Adam, ayaklara nazikçe ince bir sis halinde antiseptik sprey sıkıyor. Sinematik el kamerası, gerçekçi su damlası fiziği, Avrupa sokak ortamında yumuşak doğal ışık.
+
+Bulutlu bir günde, Avrupa'daki taş döşemeli bir yaya meydanında orta ölçekli çekim. Adam yumuşak gri bezi açıyor ve sağlıklı güvercini nazikçe taşlı yola bırakıyor. Güvercin doğal bir şekilde yürüyüp uzaklaşırken kamera hafifçe yukarı doğru kayıyor. Sıcak belgesel tonu, sinematik 4K el kamerası finali, yumuşak odaklı arka plan.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091216218556678144/img/3pN3AgO0ba0l5xvy.jpg" width="600" alt="Belgesel Güvercin Kurtarma Sekansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9703)**
+
+**Author:** [Jailani Mohamed](https://x.com/jailanikm) | **Source:** [Link](https://x.com/jailanikm/status/2091216340317339929) | **Published:** Aug 22, 2026
+
+---
+### Dans Eden King Kong ve T-Rex
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gün batımında parti şapkalarıyla dans eden King Kong ve T-Rex'in yer aldığı esprili ve sinematik bir istem.
+
+#### 📝 Prompt
+
+```
+King Kong ve T-Rex, sisli bir orman gün batımında, parti şapkaları takmış bir şekilde esprili ve sinematik bir tarzda dans ediyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091132383601074176/img/gAbEwZHFxW_ly81A.jpg" width="600" alt="Dans Eden King Kong ve T-Rex">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9701)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091132590908686390) | **Published:** Aug 22, 2026
+
+---
+### IRC Üzerinde AGI Zeka Patlaması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> GitHub ve NASA markalarını içeren, IRC üzerinden iletişim kuran ajanlar aracılığıyla yapay genel zekanın doğuşunu tasvir eden sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+birçok ajan IRC üzerinden birbirleriyle konuşarak ani bir zeka patlamasını tetikliyor ve AGI doğuyor /evolve @github @nasa
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091046062442057728/img/EywVJVW7jsSV84lt.jpg" width="600" alt="IRC Üzerinde AGI Zeka Patlaması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9702)**
+
+**Author:** [Igor Holt](https://x.com/InvariantX) | **Source:** [Link](https://x.com/InvariantX/status/2091046077306663311) | **Published:** Aug 22, 2026
+
+---
 ### Phoenix Trafiğinde Cybertruck Sürüşü Ekran Katmanı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1932,177 +2117,6 @@ Alacakaranlıkta Mars'a iniş yapan SpaceX Starship için açılış sayfası an
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **Published:** Aug 14, 2026
 
 ---
-### Ejderha ile Gündüzden Geceye Geçiş
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Büyük Kanyon üzerinde uçan bir ejderhanın yer aldığı, gündüzden geceye kesintisiz geçiş içeren, son derece detaylı sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Büyük Kanyon'un kenarında elinde dumanı tüten kahvesiyle oturan hayranlık içindeki adam, devasa ve bilimsel olarak gerçekçi kanatlara sahip, altın rengi Çin ejderhasının (lung) tek başına süzülüşünü şaşkınlıkla izliyor. Altın ejderha, ufkun üzerindeki doğan güneşe doğru doğrudan güçlü bir ateş püskürtüyor. Ardından ejderha sola doğru yönelip uçarken, en solda yıldızlar ve şehir ışıklarıyla dolu bir gece silüeti belirmeye başlıyor; bu da zaman dilimlerini geçiyormuş gibi gündüzden geceye kesintisiz bir geçiş yaratıyor — ejderha iki dünya arasında uçuyor. Havalanma için devasa kanatları tamamen açık tutun, ultra gerçekçi detaylar, yoğun bakışlar, güneşi yansıtan altın pullar, sürekli ve pürüzsüz uçuş hareketi, epik aydınlatma.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088381582834892800/img/YWP9hBcWdfxDtEw5.jpg" width="600" alt="Ejderha ile Gündüzden Geceye Geçiş">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9167)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088382010322772177) | **Published:** Aug 14, 2026
-
----
-### Starship yükleme süreci
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX Starship'in kıskaçlı kollar kullanılarak bir taşıyıcı dorseye yüklenmesini canlandırmak için teknik ve gerçekçi bir komut.
-
-#### 📝 Prompt
-
-```
-Kıskaçlı kolları kullanarak Starship'i yavaşça boş bir taşıyıcı dorseye yükleyin, ardından fırlatma alanından uzaklaştırın
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088366889076457473/img/pdzOQHfq_DfORIrN.jpg" width="600" alt="Starship yükleme süreci">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9169)**
-
-**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2088366936958660710) | **Published:** Aug 14, 2026
-
----
-### SpaceX yörüngesel yakıt ikmali tasarımı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lüks ürün estetiği ve akıcı kamera hareketleri içeren, SpaceX yakıt ikmal deposuna yönelik profesyonel mimari ve sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-SpaceX yörüngesel yakıt ikmal deposu için açılış sayfası ana bölüm tasarımı, yumuşak sıcak kırık beyaz ve soluk taş rengi tuval, doğal ışıkla aydınlatılmış büyük boyutlu temiz fotoğrafik görseller, zarif mat şampanya ve yumuşak gri tonları ile ince camgöbeği vurgular, ultra temiz kompozisyon, sofistike üst düzey tipografi, hafif yüzen cam elementler, geniş negatif alan, yumuşak dağılmış aydınlatma, minimal teknik detaylar, cilalı lüks ürün estetiği, sakin ve rafine atmosfer, ultra yüksek detaylı 12k kalite, akıcı video hareketine hazır sinematik derinlik. Yavaş sinematik kamera yakınlaşması, hafif yüzen parçacıklar ve yumuşak ışık hareketi, hafif atmosferik pus, pürüzsüz zarif hareket, premium sinematik his, ultra yüksek detay, sakin ve rafine atmosfer
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088331909390852098/img/HbuWOalEbijvW4s7.jpg" width="600" alt="SpaceX yörüngesel yakıt ikmali tasarımı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9172)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088362524987236421) | **Published:** Aug 14, 2026
-
----
-### Starship Mars İniş Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX Starship'in Mars'a inişi için sinematik bir yakınlaştırma ve video hareketleri için tasarlanmış atmosferik efektler içeren detaylı bir istem.
-
-#### 📝 Prompt
-
-```
-Alacakaranlıkta Mars'a iniş yapan SpaceX Starship için açılış sayfası ana bölüm tasarımı; koyu kömür renginden siyaha yakın arka plan, sürükleyici ve büyük boyutlu fotoğrafik görseller, zengin atmosferik derinlik, soğuk camgöbeği ve çelik mavisi vurgularla zenginleştirilmiş sıcak bakır ve kehribar tonları, yumuşak hacimsel pus, belirgin sinematik kontrast, zarif yarı saydam cam arayüz öğeleri, şık ve rafine tipografi, hassas teknik açıklamalar, asimetrik kompozisyon, geniş negatif alan, yumuşak parlama, dokunsal film greni, ultra premium fütüristik estetik, 12k kalitesinde ultra yüksek detay, akıcı video hareketleri için hazır sinematik derinlik. Yavaş sinematik kamera yakınlaştırması, hafif uçuşan parçacıklar ve yumuşak ışık hareketleri, sürüklenen hafif atmosferik pus, pürüzsüz ve zarif hareket, premium sinematik his, ultra yüksek detay, sakin ve rafine atmosfer
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088323317975674880/img/WyD8QUZXAglo-Q80.jpg" width="600" alt="Starship Mars İniş Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9176)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088323673103208482) | **Published:** Aug 14, 2026
-
----
-### Avustralya Collie Okyanus Kıyısı Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sahilde oynayan, çarpıcı okyanus gözlü görkemli bir Avustralya Collie'sini, ışıklandırmaya ve onun sabit, sadık bakışlarına odaklanarak yakalar.
-
-#### 📝 Prompt
-
-```
-Avustralya collie, suyun üzerindeki güneş gibi ışığı yakalayan okyanus gözleri… parlak tüyler, dik kulaklar, "Senin için buradayım" diyen o sabit bakış. Okyanus kıyısında tenis toplarıyla oynuyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088315906703101952/img/ZnGqTwKezCtzwx5R.jpg" width="600" alt="Avustralya Collie Okyanus Kıyısı Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9183)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088316174509515150) | **Published:** Aug 14, 2026
-
----
-### Abanoz Ejderha Çay Partisi Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mitolojik gücü zarif hareketlerle harmanlayarak, siyah pençeleriyle bir çay fincanını nazikçe tutan büyüyen bir ejderhanın videosunu oluşturur.
-
-#### 📝 Prompt
-
-```
-ejderha büyür ve abanoz siyahı pençeleriyle kendi çay fincanını zarif bir şekilde tutar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088303551034372096/img/sbfUg6H0e2qT3QhE.jpg" width="600" alt="Abanoz Ejderha Çay Partisi Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9180)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088303946016153820) | **Published:** Aug 14, 2026
-
----
-### Nuh Tufanı Yıldız Gemisi Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Piramitleri sular altında bırakan küresel bir tufan sırasında Dünya'dan ayrılan bir yıldız gemisini gösteren, İncil'e ait imgelerle bilim kurguyu harmanlayan dramatik ve sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Açık bir yıldız gemisinde, Dünya gezegeninden güneşe doğru yol alan bir kadın ve bir erkek; Nuh Tufanı'ndaki gibi suların dünyayı ele geçirişini izliyorlar. Devasa sel suları piramitleri kaplıyor ve altlarındaki Dünya'yı sular altında bırakıyor; gezegende sadece uyarılan ve deniz için gemiler inşa eden birkaç kişi geride kalıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088289936520757248/img/LgWytKEgcs0PEpvQ.jpg" width="600" alt="Nuh Tufanı Yıldız Gemisi Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9179)**
-
-**Author:** [Maria Of Mars](https://x.com/MariaGa68521784) | **Source:** [Link](https://x.com/MariaGa68521784/status/2088289952517759388) | **Published:** Aug 14, 2026
-
----
-### Işıltılı İnsansı Varlık Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlık ve soyut bir arka plan önünde parlayan insansı bir varlığı konu alan sürreal bir video istemi.
-
-#### 📝 Prompt
-
-```
-Karanlık ve soyut bir arka planda, parlayan bir auraya sahip sürreal ve ışıltılı insansı bir varlık.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786779721376_i0zfwy_HPsF8rNbsAA7B9F.jpg" width="600" alt="Işıltılı İnsansı Varlık Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9178)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2088269525498384859) | **Published:** Aug 14, 2026
-
----
-### Pixel Art Döngüsel Estetik
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Japon şarkı sözlerinden esinlenen, döngüsel estetiğe sahip ve nispeten sabit bir kamerayla piksel sanatı tarzında bir sahne oluşturan video istemi.
-
-#### 📝 Prompt
-
-```
-pixel art tarzı, döngüsel estetik, nispeten sabit kamera. Senin için değiştirdiğim lastikleri ve kalbi artık test edemem.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088180539593527296/img/i4HHRg60vuC2ni5p.jpg" width="600" alt="Pixel Art Döngüsel Estetik">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9187)**
-
-**Author:** [今井宏之](https://x.com/imaikaiimai) | **Source:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2164,6 +2178,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-23T05:02:11.177Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-23T08:54:33.936Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2564** |
+| 📝 Total Prompts | **2573** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-23** |
 
@@ -189,6 +189,191 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Thỏa thuận bóng đá giữa Laporta và Gil Marin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) hình dung cảnh Joan Laporta và Gil Marin đang chốt thỏa thuận chuyển nhượng cầu thủ Alvarez tại một chiếc bàn.
+
+#### 📝 Prompt
+
+```
+Laporta chốt thỏa thuận Alvarez quanh một chiếc bàn cùng với Gil Marin....😃😃😃😃😃
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091417756373483520/img/iRmXQrStMFPjQ6P0.jpg" width="600" alt="Thỏa thuận bóng đá giữa Laporta và Gil Marin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9704)**
+
+**Author:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **Source:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **Published:** Aug 23, 2026
+
+---
+### Con ma dọa những người đi xin kẹo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo hoạt ảnh Halloween với các nhân vật đang chạy trốn khỏi một con ma.
+
+#### 📝 Prompt
+
+```
+Đi xin kẹo và con ma nói 'hù', nó làm họ sợ hãi và họ bỏ chạy, sau đó con ma nói chúc mừng Halloween
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371275197231104/img/zNCkrlNIUcHIrRJV.jpg" width="600" alt="Con ma dọa những người đi xin kẹo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9697)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371296479142276) | **Published:** Aug 23, 2026
+
+---
+### Halloween Ghost Trick or Treat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt theo chủ đề Halloween với hình ảnh con ma hù dọa các nhân vật.
+
+#### 📝 Prompt
+
+```
+Cho kẹo hay bị ghẹo, con ma nói bù và chạy mất, con ma chúc mừng Halloween
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371249222004736/img/gGdYbkmTSwAjp5Rq.jpg" width="600" alt="Halloween Ghost Trick or Treat">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9696)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **Published:** Aug 23, 2026
+
+---
+### Nhiệm vụ trong khu rừng ngoài hành tinh phát quang sinh học
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh sử dụng bảng phân cảnh làm bản thiết kế hình ảnh để tạo ra một phân cảnh nhiệm vụ trong khu rừng ngoài hành tinh phát sáng với các nhân vật cụ thể.
+
+#### 📝 Prompt
+
+```
+Sử dụng bảng phân cảnh đa khung hình @ image hoàn toàn như một bản thiết kế hình ảnh và hướng dẫn cốt truyện — đừng coi đó là khung hình đầu tiên hoặc bắt đầu từ bất kỳ khung hình tĩnh nào trong đó. Hãy tạo một video điện ảnh 10 giây liên tục hoàn toàn mới về nhiệm vụ này: David, Người quản lý thời gian (hói, đeo kính, mặc áo sơ mi xanh) và Daphne (tóc đỏ, tàn nhang, mặc trang phục dã chiến) di chuyển lặng lẽ vào ban đêm qua một khu rừng ngoài hành tinh phát quang sinh học rậm rạp. Những ánh sáng xanh dương, xanh mòng két và xanh lá cây dịu nhẹ tỏa ra từ các loài cây, nấm và thực vật phát sáng soi đường cho họ. Thiết bị Chronos trên cổ tay David phát sáng dịu nhẹ. Họ bước đi cẩn thận, cảnh giác, máy quay theo sát mượt mà từ phía sau và xung quanh họ xuyên qua những tán cây rực rỡ. Phong cách chân thực, giàu chi tiết, đầy không khí bí ẩn.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787471108266_w9ur3i_HQYDLJAW8AAmoer.jpg" width="600" alt="Nhiệm vụ trong khu rừng ngoài hành tinh phát quang sinh học">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9699)**
+
+**Author:** [David Neveils](https://x.com/neveils_david_c) | **Source:** [Link](https://x.com/neveils_david_c/status/2091363764519981376) | **Published:** Aug 23, 2026
+
+---
+### Hoạt ảnh váy cưới nữ thần lập thể
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh phức tạp và chi tiết để tạo hoạt ảnh 3D lập thể dọc về một nữ thần trong cung điện trắng, được tối ưu hóa cho chuyển động video chất lượng cao.
+
+#### 📝 Prompt
+
+```
+Một hoạt ảnh 3D lập thể chân dung dọc 9:16 đầy ngoạn mục về một người phụ nữ tựa nữ thần đang đứng quay lưng về phía người xem trong một sảnh cung điện trắng thanh tao. Cô mặc chiếc váy cưới ren trắng trễ vai cực kỳ chi tiết với họa tiết thêu màu trắng băng ánh bạc óng ánh, tà váy dài thướt tha và khăn voan mỏng đổ xuống mái tóc tết vàng óng được điểm xuyết bằng những bông hồng trắng. Làn gió nhẹ nâng, làm bay và xoay tà váy, khăn voan cùng những đường bèo nhún ren tinh tế với hiệu ứng vật lý siêu thực và kết cấu 3D chân thực; lớp vải tung bay và chuyển động mượt mà, chậm rãi đầy mê hoặc.
+Độ sâu trường ảnh cực lớn và chiều sâu lập thể phân lớp: tiền cảnh ngay trước mắt có bụi ren trắng băng ánh bạc, cánh hoa hồng và những giọt pha lê nhỏ li ti trôi nổi không trọng lượng và bắn nhẹ qua ống kính; trung cảnh là người phụ nữ với chi tiết rạng rỡ; hậu cảnh lộ ra những cột đá cẩm thạch trắng cao vút được phủ đầy hoa hồng trắng, sàn nhà phản chiếu bóng loáng, ngai vàng vàng chạm trổ tinh xảo với một nhân vật trùm đầu bí ẩn đang ngồi trên đó, những ngọn tháp lâu đài pha lê xa xăm dưới ánh trăng tròn rực rỡ trên bầu trời hoàng hôn đầy sao. Làn sương bạc mềm mại và những tia sáng neon-holographic mờ ảo xuyên qua không trung, tạo nên các lớp chiều sâu thị sai rõ rệt. Những họa tiết lá và hoa hồng trôi nổi tinh tế lướt qua khung cảnh.
+Phong cách: kiệt tác cực kỳ chi tiết lấy cảm hứng từ Giai đoạn Vàng của Gustav Klimt và trường phái Art Nouveau của Alphonse Mucha — bề mặt óng ánh màu bạc kim loại, hồng phấn và trắng băng, các họa tiết hoa văn và khảm hình học phức tạp, các họa tiết lá và dây leo kiểu Byzantine lấp lánh bao phủ các chi tiết kiến trúc và váy cưới. Kết xuất trang trí thanh lịch chất lượng bảo tàng, kết cấu 3D siêu chi tiết, bầu không khí ma thuật mơ màng, chất lượng vừa mang tính hội họa vừa chân thực như ảnh chụp.
+Camera: chuyển động dolly-in chậm, mượt mà, bền bỉ / chuyển động quỹ đạo nhẹ nhàng với thị sai, 60 fps, chuyển động điện ảnh mượt mà. Tiếng đàn hạc ru dương nhẹ nhàng (không có âm thanh con người). Nhịp điệu thanh bình, mê hoặc, thôi miên; sự hiện diện rạng rỡ, tĩnh lặng, tựa như tượng tạc. Chất lượng tăng cường tối đa, kết cấu 3D phức tạp, các yếu tố tiền cảnh vươn ra khỏi màn hình, một kiệt tác về chiều sâu lập thể thuần túy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091347865410904064/img/7JjAjQL1SATCvUTe.jpg" width="600" alt="Hoạt ảnh váy cưới nữ thần lập thể">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9698)**
+
+**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2091347936693064055) | **Published:** Aug 23, 2026
+
+---
+### Snoopy vẽ tranh Mona Lisa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh time-lapse thông minh giúp Snoopy vẽ bức tranh Mona Lisa từ một khung tranh trống.
+
+#### 📝 Prompt
+
+```
+Bây giờ hãy để Snoopy vẽ Mona Lisa.
+Bắt đầu với một khung tranh trống và làm cho Mona xuất hiện ở cuối....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091229985788874752/img/4-WB2a45-utXsPXG.jpg" width="600" alt="Snoopy vẽ tranh Mona Lisa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9700)**
+
+**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2091230056186106355) | **Published:** Aug 22, 2026
+
+---
+### Chuỗi video tài liệu về giải cứu chim bồ câu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một chuỗi video phong cách tài liệu chi tiết gồm nhiều phân đoạn, ghi lại cảnh một người đàn ông giải cứu chú chim bồ câu bị vướng dây ở chân tại một quảng trường ở châu Âu.
+
+#### 📝 Prompt
+
+```
+Cảnh quay phong cách tài liệu tại một quảng trường đi bộ ở châu Âu vào ngày nhiều mây, trên nền đá lát. Một người đàn ông nhân hậu mặc áo khoác flannel kẻ ô nâu trắng khoác ngoài áo phông trắng và quần jeans tối màu từ từ quỳ xuống và nhẹ nhàng bắt lấy chú chim bồ câu trên mặt đất. Camera cầm tay 4K đậm chất điện ảnh từ từ tiến lại gần, ánh sáng ban ngày tự nhiên, hậu cảnh lấy nét mềm, kết cấu chân thực.
+
+Cảnh quay cận cảnh đậm chất điện ảnh tại một quảng trường ở châu Âu. Người đàn ông mặc áo khoác flannel kẻ ô nâu cẩn thận quấn chú chim bồ câu vừa bắt được vào một tấm vải xám mềm mại, giữ nó thoải mái trên đùi để chú chim bình tĩnh lại. Chuyển động camera cầm tay, ánh sáng ban ngày tự nhiên nhiều mây, lấy nét macro chi tiết vào chú chim đang nằm yên.
+
+Video cận cảnh macro cực đại. Sợi dây cotton màu vàng dày bị quấn chặt quanh đôi chân màu hồng của chú chim bồ câu. Người đàn ông sử dụng kéo nhỏ và dụng cụ tháo chỉ để tỉ mỉ cắt và gỡ sợi dây. Camera macro cầm tay ổn định, kết cấu chân thực của sợi cotton và chân chim, ánh sáng ban ngày tự nhiên dịu nhẹ.
+
+Góc nhìn macro cận cảnh đôi bàn tay của người đàn ông đang cẩn thận dùng dụng cụ tháo chỉ để gỡ những mảnh dây vàng cuối cùng ra khỏi đôi chân màu hồng của chú chim bồ câu. Chi tiết siêu nhỏ trên kết cấu da và sợi cotton. Ánh sáng tự nhiên ngày nhiều mây, độ sâu trường ảnh đậm chất điện ảnh, chuyển động chậm và chính xác.
+
+Cảnh quay macro cận cảnh cho thấy đôi chân màu hồng khỏe mạnh đã được giải phóng hoàn toàn của chú chim bồ câu đang đặt trên tấm vải xám mềm mại. Người đàn ông nhẹ nhàng xịt một lớp sương mỏng dung dịch sát khuẩn lên chân chim. Camera cầm tay đậm chất điện ảnh, hiệu ứng vật lý giọt nước chân thực, ánh sáng tự nhiên dịu nhẹ trong bối cảnh đường phố châu Âu.
+
+Cảnh quay trung tại quảng trường đi bộ lát đá ở châu Âu vào một ngày nhiều mây. Người đàn ông mở tấm vải xám mềm mại và nhẹ nhàng thả chú chim bồ câu khỏe mạnh ra trên con phố lát đá. Camera lia lên nhẹ nhàng khi chú chim bồ câu bước đi một cách tự nhiên. Tông màu tài liệu ấm áp, hoàn thiện bằng camera cầm tay 4K đậm chất điện ảnh, hậu cảnh lấy nét mềm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091216218556678144/img/3pN3AgO0ba0l5xvy.jpg" width="600" alt="Chuỗi video tài liệu về giải cứu chim bồ câu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9703)**
+
+**Author:** [Jailani Mohamed](https://x.com/jailanikm) | **Source:** [Link](https://x.com/jailanikm/status/2091216340317339929) | **Published:** Aug 22, 2026
+
+---
+### King Kong và T-Rex khiêu vũ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh điện ảnh hài hước với hình ảnh King Kong và T-Rex đội mũ dự tiệc đang khiêu vũ dưới ánh hoàng hôn.
+
+#### 📝 Prompt
+
+```
+King Kong và T-Rex khiêu vũ trong khung cảnh hoàng hôn rừng rậm đầy sương mù, đội mũ dự tiệc theo phong cách điện ảnh hài hước.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091132383601074176/img/gAbEwZHFxW_ly81A.jpg" width="600" alt="King Kong và T-Rex khiêu vũ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9701)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091132590908686390) | **Published:** Aug 22, 2026
+
+---
+### Sự bùng nổ trí tuệ AGI trên IRC
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video mang tính điện ảnh mô tả sự ra đời của trí tuệ nhân tạo tổng quát thông qua các tác nhân giao tiếp trên IRC, với sự xuất hiện của thương hiệu GitHub và NASA.
+
+#### 📝 Prompt
+
+```
+nhiều tác nhân trò chuyện với nhau qua IRC kích hoạt một sự bùng nổ trí tuệ đột ngột , và AGI ra đời /tiến hóa @github @nasa
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091046062442057728/img/EywVJVW7jsSV84lt.jpg" width="600" alt="Sự bùng nổ trí tuệ AGI trên IRC">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9702)**
+
+**Author:** [Igor Holt](https://x.com/InvariantX) | **Source:** [Link](https://x.com/InvariantX/status/2091046077306663311) | **Published:** Aug 22, 2026
+
+---
 ### Lớp phủ video lái xe Cybertruck tại Phoenix
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1932,177 +2117,6 @@ Thiết kế phần hero trang đích cho tàu Starship của SpaceX hạ cánh 
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **Published:** Aug 14, 2026
 
 ---
-### Chuyển cảnh Rồng từ Ngày sang Đêm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh chi tiết về cảnh rồng bay qua Grand Canyon với sự chuyển đổi liền mạch từ ngày sang đêm.
-
-#### 📝 Prompt
-
-```
-Người đàn ông đầy kinh ngạc ngồi trên mép vực Grand Canyon, tay cầm tách cà phê đang bốc khói, mắt mở to đầy ngưỡng mộ khi một con rồng vàng kiểu Trung Hoa với đôi cánh khổng lồ chân thực bay lượn một mình. Con rồng vàng phun một luồng lửa mạnh mẽ trực diện về phía mặt trời đang mọc trên đường chân trời. Sau đó, con rồng nghiêng mình và bay về phía bên trái khung hình khi bầu trời đêm với các vì sao và ánh đèn thành phố bắt đầu xuất hiện ở phía xa bên trái, tạo ra sự chuyển đổi liền mạch từ ngày sang đêm như thể đang băng qua các múi giờ — con rồng bay giữa hai thế giới. Giữ cho đôi cánh khổng lồ luôn mở rộng để tạo lực nâng, chi tiết siêu thực, đôi mắt sắc bén, vảy vàng phản chiếu ánh mặt trời, chuyển động bay mượt mà liên tục, ánh sáng hùng tráng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088381582834892800/img/YWP9hBcWdfxDtEw5.jpg" width="600" alt="Chuyển cảnh Rồng từ Ngày sang Đêm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9167)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088382010322772177) | **Published:** Aug 14, 2026
-
----
-### Quy trình vận chuyển Starship
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh kỹ thuật và thực tế để tạo hoạt ảnh mô phỏng quá trình đưa tàu Starship của SpaceX lên xe rơ-moóc vận chuyển bằng tay máy.
-
-#### 📝 Prompt
-
-```
-Sử dụng tay máy để đặt Starship lên xe rơ-moóc vận chuyển một cách chậm rãi, sau đó xe di chuyển rời khỏi bãi phóng
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088366889076457473/img/pdzOQHfq_DfORIrN.jpg" width="600" alt="Quy trình vận chuyển Starship">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9169)**
-
-**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2088366936958660710) | **Published:** Aug 14, 2026
-
----
-### Thiết kế tiếp nhiên liệu trên quỹ đạo của SpaceX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt kiến trúc và điện ảnh chuyên nghiệp dành cho trạm tiếp nhiên liệu của SpaceX, mang tính thẩm mỹ sản phẩm sang trọng và chuyển động camera mượt mà.
-
-#### 📝 Prompt
-
-```
-Thiết kế phần hero cho trang đích của trạm tiếp nhiên liệu trên quỹ đạo SpaceX, tông màu trắng kem ấm áp và màu đá nhạt, hình ảnh nhiếp ảnh sắc nét khổ lớn với ánh sáng tự nhiên dịu nhẹ, các tông màu sâm panh trầm và xám nhạt thanh lịch với điểm nhấn màu lục lam tinh tế, bố cục cực kỳ gọn gàng, kiểu chữ cao cấp tinh xảo, các yếu tố kính nổi tinh tế, khoảng trắng rộng rãi, ánh sáng khuếch tán mềm mại, chi tiết kỹ thuật tối giản, thẩm mỹ sản phẩm sang trọng bóng bẩy, không gian điềm tĩnh và tinh tế, chất lượng 12k siêu chi tiết, độ sâu điện ảnh sẵn sàng cho chuyển động video mượt mà. Camera điện ảnh đẩy vào chậm, các hạt nổi tinh tế và chuyển động ánh sáng dịu nhẹ, làn sương mù khí quyển nhẹ nhàng trôi, chuyển động thanh lịch mượt mà, cảm giác điện ảnh cao cấp, chi tiết siêu cao, không gian điềm tĩnh và tinh tế
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088331909390852098/img/HbuWOalEbijvW4s7.jpg" width="600" alt="Thiết kế tiếp nhiên liệu trên quỹ đạo của SpaceX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9172)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088362524987236421) | **Published:** Aug 14, 2026
-
----
-### Hoạt ảnh hạ cánh xuống Sao Hỏa của Starship
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết cho cảnh hạ cánh của SpaceX Starship trên Sao Hỏa, với hiệu ứng quay phim cận cảnh và các hiệu ứng khí quyển được thiết kế cho chuyển động video.
-
-#### 📝 Prompt
-
-```
-Thiết kế phần hero trang đích cho cảnh SpaceX Starship hạ cánh xuống Sao Hỏa lúc hoàng hôn, nền màu than chì đậm đến gần như đen, hình ảnh chụp chân thực đầy ấn tượng, chiều sâu khí quyển phong phú, các điểm nhấn màu đồng và hổ phách ấm áp cùng các chi tiết màu lục lam và xanh thép mát mẻ, hiệu ứng sương mù thể tích mềm mại, độ tương phản điện ảnh rõ nét, các yếu tố giao diện người dùng bằng kính mờ tinh tế, kiểu chữ thanh lịch tinh xảo, các chú thích kỹ thuật tinh tế, bố cục bất đối xứng, không gian âm rộng rãi, hiệu ứng tỏa sáng mềm mại, hạt phim chân thực, thẩm mỹ tương lai siêu cao cấp, chất lượng 12k siêu chi tiết, chiều sâu điện ảnh sẵn sàng cho chuyển động video mượt mà. Camera điện ảnh đẩy vào chậm, các hạt lơ lửng tinh tế và chuyển động ánh sáng mềm mại, sương mù khí quyển nhẹ nhàng trôi, chuyển động mượt mà thanh lịch, cảm giác điện ảnh cao cấp, siêu chi tiết, bầu không khí bình lặng và tinh tế
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088323317975674880/img/WyD8QUZXAglo-Q80.jpg" width="600" alt="Hoạt ảnh hạ cánh xuống Sao Hỏa của Starship">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9176)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088323673103208482) | **Published:** Aug 14, 2026
-
----
-### Hoạt hình Chó Collie Úc trên bờ biển
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ghi lại hình ảnh chú chó Collie Úc oai vệ với đôi mắt màu đại dương nổi bật đang vui đùa trên bờ biển, tập trung vào hiệu ứng ánh sáng và ánh nhìn kiên định, trung thành của chú.
-
-#### 📝 Prompt
-
-```
-Chó Collie Úc, đôi mắt màu đại dương bắt trọn ánh sáng như mặt trời trên mặt nước… bộ lông mượt mà, đôi tai thính nhạy, ánh nhìn kiên định như muốn nói “Tôi luôn ở đây vì bạn.” đang chơi đùa với những quả bóng tennis trên bờ biển
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088315906703101952/img/ZnGqTwKezCtzwx5R.jpg" width="600" alt="Hoạt hình Chó Collie Úc trên bờ biển">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9183)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088316174509515150) | **Published:** Aug 14, 2026
-
----
-### Hoạt hình Tiệc trà Rồng Mun
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo video về một chú rồng đang lớn dần, thanh lịch cầm tách trà bằng bộ móng vuốt đen tuyền, kết hợp giữa sức mạnh huyền thoại và những cử động tinh tế.
-
-#### 📝 Prompt
-
-```
-rồng lớn lên và cầm tách trà một cách tinh tế bằng móng vuốt đen mun
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088303551034372096/img/sbfUg6H0e2qT3QhE.jpg" width="600" alt="Hoạt hình Tiệc trà Rồng Mun">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9180)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088303946016153820) | **Published:** Aug 14, 2026
-
----
-### Gợi ý video tàu vũ trụ trong trận đại hồng thủy của Noah
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video điện ảnh đầy kịch tính mô tả cảnh một con tàu vũ trụ rời Trái Đất trong trận đại hồng thủy nhấn chìm các kim tự tháp, kết hợp giữa hình ảnh kinh thánh và khoa học viễn tưởng.
-
-#### 📝 Prompt
-
-```
-Một người phụ nữ và một người đàn ông trên con tàu vũ trụ không gian đang rời khỏi hành tinh Trái Đất hướng về phía mặt trời, chứng kiến nước dâng cao bao phủ thế giới như trong trận đại hồng thủy của Noah, những dòng nước lũ khổng lồ bao trùm các kim tự tháp và nhấn chìm Trái Đất bên dưới họ, chỉ còn lại một vài người trên hành tinh là những người đã được cảnh báo và chế tạo tàu để vượt biển.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088289936520757248/img/LgWytKEgcs0PEpvQ.jpg" width="600" alt="Gợi ý video tàu vũ trụ trong trận đại hồng thủy của Noah">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9179)**
-
-**Author:** [Maria Of Mars](https://x.com/MariaGa68521784) | **Source:** [Link](https://x.com/MariaGa68521784/status/2088289952517759388) | **Published:** Aug 14, 2026
-
----
-### Hoạt ảnh thực thể hình người phát sáng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video siêu thực với hình ảnh một thực thể hình người đang phát sáng trên nền trừu tượng tối.
-
-#### 📝 Prompt
-
-```
-Một thực thể hình người siêu thực, phát sáng với hào quang rực rỡ trên nền trừu tượng tối.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786779721376_i0zfwy_HPsF8rNbsAA7B9F.jpg" width="600" alt="Hoạt ảnh thực thể hình người phát sáng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9178)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2088269525498384859) | **Published:** Aug 14, 2026
-
----
-### Thẩm mỹ nghệ thuật Pixel lặp lại
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh video tạo ra khung cảnh theo phong cách nghệ thuật pixel với tính thẩm mỹ lặp lại và góc máy tương đối tĩnh, lấy cảm hứng từ lời bài hát tiếng Nhật.
-
-#### 📝 Prompt
-
-```
-phong cách nghệ thuật pixel, tính thẩm mỹ lặp lại, góc máy tương đối tĩnh. Tôi không thể thử thách những lốp xe và trái tim mà tôi đã thay đổi vì bạn nữa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088180539593527296/img/i4HHRg60vuC2ni5p.jpg" width="600" alt="Thẩm mỹ nghệ thuật Pixel lặp lại">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9187)**
-
-**Author:** [今井宏之](https://x.com/imaikaiimai) | **Source:** [Link](https://x.com/imaikaiimai/status/2088181003458367702) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2164,6 +2178,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-23T05:02:02.066Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-23T08:54:25.239Z</sub>
 
 </div>
