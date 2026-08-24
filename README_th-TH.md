@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2573** |
+| 📝 Total Prompts | **2583** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-24** |
 
@@ -189,6 +189,101 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### เดินบนก้อนเมฆมุ่งสู่เมืองทองคำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวแฟนตาซีที่บรรยายถึงการเดินทางผ่านสรวงสวรรค์เพื่อมุ่งหน้าสู่เมืองทองคำอันศักดิ์สิทธิ์
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอของเขาที่กำลังเดินอยู่บนก้อนเมฆ โดยเขากำลังมุ่งหน้าเข้าใกล้เมืองทองคำที่ตั้งอยู่บนสรวงสวรรค์
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="เดินบนก้อนเมฆมุ่งสู่เมืองทองคำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9746)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **Published:** Aug 24, 2026
+
+---
+### ดีไซน์ขบวนรถ Tesla Semi ในยามค่ำคืน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์การออกแบบที่หรูหราสำหรับขบวนรถบนทางหลวง โดยเน้นแสงโทนอุ่นที่นุ่มนวลและสุนทรียภาพของผลิตภัณฑ์ระดับพรีเมียม
+
+#### 📝 Prompt
+
+```
+ดีไซน์ส่วน Hero ของหน้า Landing page สำหรับขบวนรถ Tesla Semi บนทางหลวงยามค่ำคืน ใช้โทนสีขาวนวลและสีหินอ่อนที่นุ่มนวล ภาพถ่ายขนาดใหญ่ที่คมชัดพร้อมแสงธรรมชาติที่นุ่มนวล โทนสีแชมเปญหม่นและสีเทาอ่อนที่ดูหรูหรา จัดวางองค์ประกอบแบบคลีนสะอาดตา ใช้ตัวอักษรที่ดูซับซ้อนและมีระดับ แสงไฟแบบกระจายตัวที่นุ่มนวล สุนทรียภาพของผลิตภัณฑ์หรูหราที่ผ่านการขัดเกลา ให้บรรยากาศที่สงบและประณีต
+```
+
+<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="ดีไซน์ขบวนรถ Tesla Semi ในยามค่ำคืน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
+
+---
+### การแพนกล้องแบบ Cinematic อย่างช้าๆ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งเชิงเทคนิคสำหรับการสร้างสรรค์ภาพสไตล์ Cinematic ระดับมืออาชีพ ด้วยการแพนกล้องอย่างช้าๆ และการเคลื่อนไหวที่นุ่มนวลเพื่อสร้างบรรยากาศที่เงียบสงบ
+
+#### 📝 Prompt
+
+```
+very slow cinematic camera pan, soft atmospheric movement, serene and peaceful mood, elegant and tasteful motion, no aggressive movement, smoke a cigarette very slow cinematic camera pan, soft atmospheric movement
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="การแพนกล้องแบบ Cinematic อย่างช้าๆ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9750)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **Published:** Aug 24, 2026
+
+---
+### การแปลงร่างเค้กเต้นระบำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (prompt) สำหรับแปลงภาพเป็นวิดีโอที่เปลี่ยนเค้กให้กลายเป็นตัวละครเต้นระบำที่สวมหมวกทรงสูงและถุงมือ
+
+#### 📝 Prompt
+
+```
+เปลี่ยนเค้กชิ้นนี้ให้เป็นตัวละครที่กำลังเต้นรำโดยสวมหมวกทรงสูง ถุงมือสีขาว รองเท้าสีแดง และมีรอยยิ้มกว้าง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="การแปลงร่างเค้กเต้นระบำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9751)**
+
+**Author:** [The Golden Duck](https://x.com/Chrihsteenuh) | **Source:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **Published:** Aug 23, 2026
+
+---
+### การเปลี่ยนผ่านสู่แสงสว่างทางจิตวิญญาณ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่บรรยายถึงหญิงสาวที่กำลังลอยขึ้นสู่แสงสว่างเพื่อค้นพบตัวตนที่แท้จริงของเธอ
+
+#### 📝 Prompt
+
+```
+หญิงสาวผมหยิกสีดำ รูปร่างไซส์ 8 กำลังลอยขึ้นภายใต้แสงสว่างและกลายเป็นตัวตนที่แท้จริงของเธอในความงดงามระดับเทพเจ้าอย่างสมบูรณ์แบบ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="การเปลี่ยนผ่านสู่แสงสว่างทางจิตวิญญาณ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9749)**
+
+**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
+
+---
 ### ดีลฟุตบอลระหว่าง Laporta และ Gil Marin
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +301,63 @@ Laporta กำลังปิดดีล Alvarez ที่โต๊ะร่ว
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9704)**
 
 **Author:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **Source:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **Published:** Aug 23, 2026
+
+---
+### แฟชั่นโชว์รันเวย์ในชุด Sediment Coat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แฟชั่นแนวภาพยนตร์ที่มีรายละเอียดสูง สำหรับการเดินรันเวย์แบบสโลว์โมชั่นที่เน้นพื้นผิวที่ซับซ้อนและคำแนะนำด้านแสงที่เฉพาะเจาะจง
+
+#### 📝 Prompt
+
+```
+Look 01 — Sediment Coat ภาพถ่ายแฟชั่นเชิงบรรณาธิการแบบเต็มตัวของนางแบบ AI ชื่อ AVA-9 กำลังเดินบนรันเวย์ สวมเสื้อเทรนช์โค้ทที่มีโครงสร้างชัดเจน ทำจากผ้าขนสัตว์สักหลาดที่วางซ้อนกันด้วยมือเป็นแถบแนวนอนสีเหลืองดิน (Ochre) สีน้ำตาลเข้ม (Umber) และสีเทาถ่าน (Charcoal) ขอบผ้าถูกขัดและทำให้ลุ่ยเล็กน้อยเพื่อให้เห็นเส้นใยดิบระหว่างชั้นเหมือนหน้าผาที่ถูกตัด พื้นผิวผ้าแบบด้าน ไหล่เสื้อเข้ารูป ความยาวถึงกึ่งกลางน่อง สวมแบบเปิดทับชุดพื้นฐานสีเข้มเรียบๆ ฉากหลังรันเวย์สีเข้มแบบมินิมอลพร้อมไฟสปอตไลท์เหนือศีรษะหนึ่งดวง การถ่ายภาพแฟชั่นเชิงบรรณาธิการแบบภาพยนตร์ โฟกัสที่พื้นผิวอย่างคมชัด ให้ลุคเลนส์ 85 มม. กล้อง + แสง: มุมต่ำสามส่วน นางแบบเดินเข้าหากล้อง; ใช้ไฟสปอตไลท์จากด้านบนเพียงดวงเดียวเพื่อเน้นแถบชั้นผ้าให้เกิดเป็นเส้นเงาที่ชัดเจน; ฉากหลังสีเข้มแบบไร้รอยต่อ หมายเหตุวิดีโอ/การเคลื่อนไหว: คลิปความยาว 4–6 วินาที เดินเข้าหากล้องอย่างช้าๆ ด้วยความมั่นใจ ชายเสื้อโค้ทแกว่งไกวเล็กน้อย กล้องอยู่นิ่งหรือค่อยๆ ซูมเข้า; จบด้วยการหมุนตัว 45 องศาเพื่อเผยให้เห็นด้านข้างของแถบผ้าที่ซ้อนกัน พรอมต์เชิงลบ: ห้ามใช้ผ้าเงา, ห้ามมีเลื่อม, ห้ามมีลายดอกไม้, ห้ามมีการไล่เฉดสี (แถบสีต้องแยกจากกันชัดเจน), ห้ามยิ้มหรือโพสท่าแบบนางงาม — สีหน้าต้องดูนิ่งและสุขุม
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091409505435471872/img/s9DbqZZu7mC4IOdW.jpg" width="600" alt="แฟชั่นโชว์รันเวย์ในชุด Sediment Coat">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9753)**
+
+**Author:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **Source:** [Link](https://x.com/Shaiicalpineda/status/2091409536443670706) | **Published:** Aug 23, 2026
+
+---
+### Kitty และ Mimmy ขโมยลูกอม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพร้อมท์สไตล์การ์ตูนเกี่ยวกับตัวละครที่ก่อเรื่องขโมยลูกอมจนต้องโทษจำคุก
+
+#### 📝 Prompt
+
+```
+Kitty และ Mimmy อย่าขโมยลูกอมนะ พวกเธอจะเดือดร้อนกันหมด: พวกเธอร้องไห้ แม่ของพวกเธอบอกว่าจะโทรแจ้งตำรวจและพา Kitty กับ Mimmy เข้าคุก
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091373229449342976/img/22iUZv2HL1k61AEz.jpg" width="600" alt="Kitty และ Mimmy ขโมยลูกอม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9752)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091373253503709274) | **Published:** Aug 23, 2026
+
+---
+### แอนิเมชัน Kitty และ Mimmy กับหัวขโมยในฝัน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเล่าเรื่องราวของ Kitty และ Mimmy ที่ได้พบกับหัวขโมยในฝัน เหมาะสำหรับการสร้างสรรค์แอนิเมชันเนื้อเรื่องน่ารักๆ
+
+#### 📝 Prompt
+
+```
+Kitty และ Mimmy เห็นหัวขโมยในฝันกำลังนอนหลับอยู่ในหมอนแล้วกรีดร้องออกมา: Kitty บอกให้เปิดไฟ: Mimmy บอกว่าใช่แล้ว หัวขโมยในฝันซ่อนตัวอยู่ในเตาผิง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371899003568128/img/3dAMrBuymY9jLYOP.jpg" width="600" alt="แอนิเมชัน Kitty และ Mimmy กับหัวขโมยในฝัน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9747)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371917827539054) | **Published:** Aug 23, 2026
 
 ---
 ### ผีหลอกเด็ก ๆ ที่มาขอขนมในวันฮาโลวีน
@@ -244,6 +396,25 @@ Trick or treat แล้วผีก็พูดว่า แบร่! แล�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9696)**
 
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **Published:** Aug 23, 2026
+
+---
+### ภารกิจช่วยซานต้าที่ขั้วโลกเหนือ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ในธีมเทศกาลวันหยุด ที่ซานต้าถูกช่วยเหลือจากเอลฟ์ใจร้ายที่ขั้วโลกเหนือ
+
+#### 📝 Prompt
+
+```
+ซานต้ากำลังร้องขอความช่วยเหลือ และพวกเขาจะไปช่วยเขาจากเอลฟ์ใจร้ายที่ขั้วโลกเหนือ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371098424123394/img/nasNynzhBNQNcrPu.jpg" width="600" alt="ภารกิจช่วยซานต้าที่ขั้วโลกเหนือ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9748)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371115956388126) | **Published:** Aug 23, 2026
 
 ---
 ### ภารกิจในป่าเอเลี่ยนเรืองแสง
@@ -812,6 +983,25 @@ Nero กำลังสีไวโอลินขณะที่กรุงโ
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9571)**
 
 **Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2090395296123453698) | **Published:** Aug 20, 2026
+
+---
+### ขับรถเลียบชายฝั่งท่ามกลางสายฝนยามค่ำคืน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ภาพแนวภาพยนตร์และบรรยากาศสำหรับฉาก lo-fi ยามค่ำคืน ที่มีรถยนต์สีดำบนถนนเลียบชายฝั่งพร้อมแสงสะท้อนจากสายฝนในช่วงรุ่งสาง
+
+#### 📝 Prompt
+
+```
+ฝนตกตอนเที่ยงคืน, รถยนต์สีดำที่ว่างเปล่า, ถนนเลียบชายฝั่ง, แสงสะท้อน และแสงแรกก่อนรุ่งสาง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089976752764231681/img/ex_ZvRjPpa1rc4Fe.jpg" width="600" alt="ขับรถเลียบชายฝั่งท่ามกลางสายฝนยามค่ำคืน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9755)**
+
+**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2089976937913462996) | **Published:** Aug 19, 2026
 
 ---
 ### วิดีโอเซลฟี่พูดคุยยามเช้า
@@ -1930,196 +2120,6 @@ Hello Kitty ขโมยลูกอมจากร้านค้า แม่�
 **Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **Published:** Aug 15, 2026
 
 ---
-### ภาพถ่ายกลุ่มราชสำนักกอญัร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสำหรับสร้างภาพถ่ายกลุ่มแบบทางการในสไตล์ราชสำนักกอญัร โดยเก็บรายละเอียดท่าทางของช่างภาพและกลุ่มบุคคลในภาพ
-
-#### 📝 Prompt
-
-```
-ภาพถ่ายกลุ่มแบบทางการที่หยุดนิ่งหลังจากถ่ายภาพเสร็จสิ้น มีแสงแฟลชสว่างจ้าหลงเหลืออยู่ ทุกคนรักษาท่าทางแบบราชสำนักกอญัรได้อย่างสมบูรณ์แบบพร้อมรอยยิ้มจางๆ หรือใบหน้าที่ดูจริงจัง ช่างภาพยังคงอยู่หลังกล้องแต่จุดสนใจหลักอยู่ที่กลุ่มบุคคล ฉากเดียวกัน...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088645576078594048/img/tuDCJeWa2-Xbe8dU.jpg" width="600" alt="ภาพถ่ายกลุ่มราชสำนักกอญัร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9249)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2088645617228857732) | **Published:** Aug 15, 2026
-
----
-### วิดีโอวนลูปเส้นสีขาวปิดท้าย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงเทคนิคที่ออกแบบมาเพื่อสร้างเอฟเฟกต์แอนิเมชันปิดท้าย โดยให้วนกลับไปยังภาพอ้างอิงต้นฉบับ
-
-#### 📝 Prompt
-
-```
-ใช้แค่รูปภาพของฉัน โดยให้มีเส้นสีขาวด้านบน “ปิด” ลงมา และให้วิดีโอวนกลับมาที่รูปภาพนี้เหมือนเดิม
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088640902952599552/img/6zzuREmHS5z03NCM.jpg" width="600" alt="วิดีโอวนลูปเส้นสีขาวปิดท้าย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9245)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2088640917339029722) | **Published:** Aug 15, 2026
-
----
-### บรรยากาศพื้นหลังสไตล์นิทาน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สร้างพื้นหลังสไตล์นิทานที่ให้ความรู้สึกอบอุ่นและสงบ สำหรับวันเสาร์ที่แสนผ่อนคลาย
-
-#### 📝 Prompt
-
-```
-บรรยากาศดีๆ กับพื้นหลังสไตล์นิทาน และการพักผ่อนจากความวุ่นวายทั้งปวง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088544687896317952/img/1u1vR3DTCRsOLx-o.jpg" width="600" alt="บรรยากาศพื้นหลังสไตล์นิทาน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9255)**
-
-**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2088544747900059948) | **Published:** Aug 15, 2026
-
----
-### ปฏิสัมพันธ์กับจมูกท่ามกลางแสงสีทอง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงกวีที่ถ่ายทอดช่วงเวลาแห่งการสัมผัสด้วยแสงสีทองที่เต้นระบำและปฏิสัมพันธ์ของตัวละคร
-
-#### 📝 Prompt
-
-```
-นิ้วของเธอเกือบจะสัมผัสกับจมูกของมัน ในขณะที่แสงสีทองเต้นระบำอยู่รอบตัวทั้งคู่
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088487362472837120/img/z7hpOYjISu7I1mtg.jpg" width="600" alt="ปฏิสัมพันธ์กับจมูกท่ามกลางแสงสีทอง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9173)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088488663302779227) | **Published:** Aug 15, 2026
-
----
-### แอบหนีออกไปผจญภัยยามดึก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แบบภาพยนตร์สำหรับสร้างวิดีโอเด็กที่กำลังแอบย่องออกไปผจญภัยในยามดึกขณะที่แม่กำลังหลับ
-
-#### 📝 Prompt
-
-```
-ตรวจสอบให้แน่ใจว่าแม่หลับแล้วก่อนจะแอบย่องออกไปผจญภัยในยามดึก
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088485262443900928/img/FHHwZMwSUBc8WhiJ.jpg" width="600" alt="แอบหนีออกไปผจญภัยยามดึก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9185)**
-
-**Author:** [Christopher Gwinn | Grindhouse Glitch](https://x.com/ChrisGwinnLA) | **Source:** [Link](https://x.com/ChrisGwinnLA/status/2088485933494751406) | **Published:** Aug 15, 2026
-
----
-### บทสนทนาเรื่องความกล้าหาญในร้านกาแฟ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์คุณภาพระดับภาพยนตร์สำหรับฉากที่เน้นบทสนทนา โดยใช้การถ่ายภาพระยะใกล้แบบเจาะจง (Tight close-ups) และการใช้กล้องแบบถือถ่าย (Handheld) เพื่อถ่ายทอดอารมณ์
-
-#### 📝 Prompt
-
-```
-ชายและหญิงคู่หนึ่งกำลังสนทนากันในร้านกาแฟเกี่ยวกับคุณค่าของความกล้าหาญในโลกที่ยกย่องความขลาดกลัว งานกำกับและงานภาพคุณภาพระดับภาพยนตร์ชั้นนำ ใช้การถ่ายภาพระยะใกล้แบบเจาะจงและการใช้กล้องแบบถือถ่ายเพื่อสร้างอารมณ์ร่วม ไม่มีการถ่ายภาพมุมกว้าง ไม่ใช้ดนตรีประกอบ การแสดงออกทางสีหน้าเพียงเล็กน้อย (Micro-expressions) ของตัวละครสื่อถึงแก่นเรื่องได้ดีกว่าระดับเสียงที่พวกเขาพูด
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088480964515123200/img/bibzKm-q7Urs6URB.jpg" width="600" alt="บทสนทนาเรื่องความกล้าหาญในร้านกาแฟ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9171)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088481490740916582) | **Published:** Aug 15, 2026
-
----
-### รีเมคอินโทร MGM สไตล์โมเดิร์น
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างอินโทรเสียงคำรามของสิงโต MGM อันเป็นเอกลักษณ์ในเวอร์ชันโมเดิร์นที่เน้นเสียงเบสหนักแน่น
-
-#### 📝 Prompt
-
-```
-อินโทร MGM เวอร์ชันโมเดิร์นที่มาพร้อมเสียงคำรามที่ดังขึ้นและเบสที่หนักแน่นกว่าเดิม ซึ่งตรงกับความรู้สึกข้างในของฉันตลอดเวลา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088481167909552128/img/Vl_YF05gwmNDq_Ci.jpg" width="600" alt="รีเมคอินโทร MGM สไตล์โมเดิร์น">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9170)**
-
-**Author:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **Source:** [Link](https://x.com/AMERICA250e9/status/2088481205649854466) | **Published:** Aug 15, 2026
-
----
-### ทักทายมังกรแสนเป็นมิตรบนหน้าผา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ของบุคคลบนขอบหน้าผาที่กำลังต้อนรับมังกรด้วยท่าทางที่อ่อนโยนและเป็นกันเอง
-
-#### 📝 Prompt
-
-```
-ฉันยืนตระหง่านอยู่บนขอบหน้าผา ยื่นมือข้างหนึ่งออกไปหามังกรด้วยฝ่ามือที่เปิดกว้าง ดูอ่อนโยนและเป็นกันเอง ราวกับว่าฉันกำลังต้อนรับเพื่อนเก่า
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088479193356984320/img/452nGQnbzrkX-2WJ.jpg" width="600" alt="ทักทายมังกรแสนเป็นมิตรบนหน้าผา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9174)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088479596656177372) | **Published:** Aug 15, 2026
-
----
-### สายสัมพันธ์อันอ่อนโยนกับมังกรยามอาทิตย์อัสดง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสร้างวิดีโอที่เต็มไปด้วยอารมณ์และความเป็นกวี บรรยายถึงช่วงเวลาอันเงียบสงบระหว่างเด็กสาวกับมังกรที่มีเกล็ดเป็นประกาย ณ ริมทะเลในช่วงพระอาทิตย์ตกดิน
-
-#### 📝 Prompt
-
-```
-หัวของมังกรค่อย ๆ ก้มลงมาหาฝ่ามือที่แบออกของเธอ เกล็ดของมันส่องประกายด้วยแสงนวลตา ในขณะที่สายลมพัดเส้นผมยาวและชายกระโปรงพริ้วไหวของเธอเบา ๆ ปีกของมันกางออกอย่างนุ่มนวลรับกับแสงสีทองของพระอาทิตย์ตกดิน ท่ามกลางเสียงคลื่นกระทบฝั่งอย่างแผ่วเบาเบื้องหลัง ดวงตาของมังกรกะพริบหนึ่งครั้งด้วยความอบอุ่นและปากของมันคลี่ยิ้มอย่างรู้ใจ นิ้วมือของเธอเกือบจะสัมผัสกับจมูกของมันในขณะที่แสงสีทองเต้นระบำอยู่รอบตัวทั้งคู่... เป็นสายสัมพันธ์ที่อ่อนโยนและงดงาม ไม่มีการเคลื่อนไหวที่รุนแรง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088476460897972224/img/sLVfIOeXg862Y-dp.jpg" width="600" alt="สายสัมพันธ์อันอ่อนโยนกับมังกรยามอาทิตย์อัสดง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9168)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088476669673627890) | **Published:** Aug 15, 2026
-
----
-### แอนิเมชันหน้า Landing Page การลงจอดบนดาวอังคารของ SpaceX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ดีไซน์หน้า Landing Page ระดับไฮเอนด์สำหรับยาน Starship ของ SpaceX ขณะลงจอดบนดาวอังคารในช่วงพลบค่ำ โดดเด่นด้วยโทนสีแชมเปญหม่นและความลึกระดับภาพยนตร์ที่พร้อมสำหรับการทำวิดีโอโมชัน
-
-#### 📝 Prompt
-
-```
-ดีไซน์ส่วน Hero ของหน้า Landing Page สำหรับยาน Starship ของ SpaceX ขณะลงจอดบนดาวอังคารในช่วงพลบค่ำ ใช้โทนสีขาวออฟไวท์โทนอุ่นและสีหินอ่อนจางๆ เป็นพื้นหลัง ภาพถ่ายขนาดใหญ่ที่คมชัดพร้อมแสงธรรมชาติที่นุ่มนวล โทนสีแชมเปญหม่นและสีเทาอ่อนที่ดูหรูหราพร้อมรายละเอียดสีฟ้าไซแอนเล็กน้อย จัดวางองค์ประกอบแบบคลีนสะอาดตา ใช้ฟอนต์ระดับไฮเอนด์ที่ดูซับซ้อน มีองค์ประกอบกระจกลอยตัวที่ดูนุ่มนวล พื้นที่ว่างที่กว้างขวาง แสงที่ฟุ้งกระจายอย่างนุ่มนวล รายละเอียดทางเทคนิคแบบมินิมอล ให้ความรู้สึกหรูหราแบบผลิตภัณฑ์ระดับพรีเมียม บรรยากาศที่สงบและประณีต คุณภาพระดับ 12k ที่เก็บรายละเอียดสูงมาก พร้อมความลึกระดับภาพยนตร์ที่รองรับการทำวิดีโอโมชันที่ลื่นไหล
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088337507327074304/img/4tOfZhmL6_bVVNmK.jpg" width="600" alt="แอนิเมชันหน้า Landing Page การลงจอดบนดาวอังคารของ SpaceX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9175)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2181,6 +2181,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T05:08:44.479Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T09:12:45.677Z</sub>
 
 </div>

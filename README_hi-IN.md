@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2573** |
+| 📝 Total Prompts | **2583** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-24** |
 
@@ -189,6 +189,101 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### बादलों पर चलते हुए सुनहरी नगरी की ओर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक फैंटेसी वीडियो प्रॉम्प्ट जो स्वर्ग में स्थित एक दिव्य सुनहरी नगरी की यात्रा का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+उसे बादलों पर चलते हुए दिखाने वाला एक वीडियो बनाएं, वह स्वर्ग में स्थित सोने की एक नगरी के करीब पहुंच रहा है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="बादलों पर चलते हुए सुनहरी नगरी की ओर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9746)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **Published:** Aug 24, 2026
+
+---
+### Tesla Semi काफिला नाइट डिज़ाइन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> हाईवे पर काफिले के लिए एक शानदार डिज़ाइन प्रॉम्प्ट, जिसमें हल्की गर्म रोशनी और परिष्कृत लक्ज़री प्रोडक्ट एस्थेटिक पर ध्यान केंद्रित किया गया है।
+
+#### 📝 Prompt
+
+```
+रात के हाईवे पर Tesla Semi काफिले के लिए लैंडिंग पेज हीरो सेक्शन डिज़ाइन, हल्का गर्म ऑफ-व्हाइट और पेल स्टोन कैनवास, सौम्य प्राकृतिक रोशनी के साथ ओवरसाइज़्ड क्लीन फोटोग्राफिक इमेजरी, एलिगेंट म्यूटेड शैंपेन और सॉफ्ट ग्रे टोन, अल्ट्रा-क्लीन कंपोज़िशन, सोफिस्टिकेटेड हाई-एंड टाइपोग्राफी, सॉफ्ट डिफ्यूज्ड लाइटिंग, पॉलिश्ड लक्ज़री प्रोडक्ट एस्थेटिक, शांत और परिष्कृत वातावरण
+```
+
+<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi काफिला नाइट डिज़ाइन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
+
+---
+### सिनेमैटिक स्लो कैमरा पैन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> धीमे कैमरा पैन और शांत वातावरण के लिए सॉफ्ट एटमॉस्फेरिक मूवमेंट के साथ प्रोफेशनल सिनेमैटिक लुक प्राप्त करने के लिए एक तकनीकी प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+वेरी स्लो सिनेमैटिक कैमरा पैन, सॉफ्ट एटमॉस्फेरिक मूवमेंट, शांत और सुकून भरा मूड, एलिगेंट और टेस्टफुल मोशन, कोई आक्रामक मूवमेंट नहीं, स्मोक अ सिगरेट वेरी स्लो सिनेमैटिक कैमरा पैन, सॉफ्ट एटमॉस्फेरिक मूवमेंट
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="सिनेमैटिक स्लो कैमरा पैन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9750)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **Published:** Aug 24, 2026
+
+---
+### डांसिंग केक कैरेक्टर ट्रांसफॉर्मेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक इमेज-टू-वीडियो प्रॉम्प्ट जो केक को टॉप हैट और दस्ताने पहने हुए एक डांसिंग कैरेक्टर में बदल देता है।
+
+#### 📝 Prompt
+
+```
+इस केक को एक ऐसे कैरेक्टर में बदलें जो टॉप हैट, सफेद दस्ताने, लाल जूते पहने हुए है और जिसके चेहरे पर एक बड़ी मुस्कान है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="डांसिंग केक कैरेक्टर ट्रांसफॉर्मेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9751)**
+
+**Author:** [The Golden Duck](https://x.com/Chrihsteenuh) | **Source:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **Published:** Aug 23, 2026
+
+---
+### आध्यात्मिक प्रकाश रूपांतरण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई वीडियो प्रॉम्प्ट जो एक महिला को प्रकाश के माध्यम से अपने वास्तविक स्वरूप में ऊपर उठते हुए दर्शाता है।
+
+#### 📝 Prompt
+
+```
+काले घुंघराले बालों वाली एक महिला, साइज 8, प्रकाश के नीचे ऊपर उठ रही है और ईश्वर की परम सुंदरता में अपने वास्तविक स्वरूप में परिवर्तित हो रही है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="आध्यात्मिक प्रकाश रूपांतरण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9749)**
+
+**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
+
+---
 ### लापोर्टा और गिल मारिन फुटबॉल डील
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +301,63 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9704)**
 
 **Author:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **Source:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **Published:** Aug 23, 2026
+
+---
+### सेडिमेंट कोट रनवे फैशन वॉक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> जटिल बनावट और विशिष्ट लाइटिंग निर्देशों के साथ धीमी रनवे वॉक के लिए एक अत्यधिक विस्तृत सिनेमैटिक फैशन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+लुक 01 — सेडिमेंट कोट AVA-9 नामक एक AI मॉडल का फुल-बॉडी एडिटोरियल फैशन फोटो, जो रनवे पर चल रही है। उसने गेरू (ochre), अंबर (umber) और चारकोल रंगों की क्षैतिज पट्टियों में हाथ से लेयर किए गए ऊनी फेल्ट से बना एक स्ट्रक्चर्ड ट्रेंच कोट पहना है। किनारों को हल्का सैंड और फ्राय किया गया है ताकि परतों के बीच कच्चे रेशे एक कटी हुई चट्टान की तरह दिखें। मैट फैब्रिक फिनिश, टेलर्ड शोल्डर, कोट घुटनों के नीचे तक है, जिसे एक सादे गहरे बेस लेयर के ऊपर खुला पहना गया है। न्यूनतम डार्क रनवे बैकग्राउंड और एक सिंगल ओवरहेड स्पॉटलाइट, सिनेमैटिक एडिटोरियल फैशन फोटोग्राफी, टेक्सचर पर शार्प फोकस, 85mm लेंस लुक। कैमरा + लाइटिंग: लो थ्री-क्वार्टर एंगल, मॉडल कैमरे की ओर चल रही है; लेयर्ड बैंडिंग को डायरेक्शनल शैडो लाइन्स के रूप में उभारने के लिए एक सिंगल हार्ड टॉप-डाउन स्पॉटलाइट; डार्क सीमलेस बैकड्रॉप। वीडियो/मोशन नोट: 4-6 सेकंड की क्लिप, कैमरे की ओर धीमी और आत्मविश्वास भरी चाल, कोट का निचला हिस्सा हल्का हिल रहा है, कैमरा स्थिर है या धीरे-धीरे आगे बढ़ रहा है (स्लो पुश-इन); अंत में 45° मुड़ें ताकि लेयर्ड धारियों का साइड प्रोफाइल दिखाई दे। नेगेटिव प्रॉम्प्ट: कोई चमकदार कपड़ा नहीं, कोई सेक्विन नहीं, कोई फ्लोरल पैटर्न नहीं, कोई कलर ग्रेडिएंट ब्लेंड नहीं (बैंड्स अलग-अलग दिखने चाहिए), कोई मुस्कान/ग्लैमर पोज़ नहीं — अभिव्यक्ति तटस्थ और संयमित होनी चाहिए।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091409505435471872/img/s9DbqZZu7mC4IOdW.jpg" width="600" alt="सेडिमेंट कोट रनवे फैशन वॉक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9753)**
+
+**Author:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **Source:** [Link](https://x.com/Shaiicalpineda/status/2091409536443670706) | **Published:** Aug 23, 2026
+
+---
+### Kitty और Mimmy द्वारा कैंडी की चोरी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> कार्टून-शैली का एक वीडियो प्रॉम्प्ट जिसमें पात्र कैंडी चुराने के कारण मुसीबत में पड़ जाते हैं और उन्हें जेल की सजा का सामना करना पड़ता है।
+
+#### 📝 Prompt
+
+```
+Kitty और Mimmy कैंडी नहीं चुराते, आप सभी बड़ी मुसीबत में हैं: वे रोते हैं, उनकी माँ ने कहा कि वह पुलिस को बुलाएगी और Kitty और Mimmy को जेल ले जाएगी
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091373229449342976/img/22iUZv2HL1k61AEz.jpg" width="600" alt="Kitty और Mimmy द्वारा कैंडी की चोरी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9752)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091373253503709274) | **Published:** Aug 23, 2026
+
+---
+### Kitty और Mimmy का ड्रीम थीफ (Dream Thief) एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kitty और Mimmy की एक ड्रीम थीफ से मुलाकात पर आधारित एक नैरेटिव वीडियो प्रॉम्प्ट, जो प्यारे एनिमेटेड स्टोरी सेगमेंट बनाने के लिए उपयुक्त है।
+
+#### 📝 Prompt
+
+```
+Kitty और Mimmy ने ड्रीम थीफ को तकिए में सोते हुए देखा और चिल्लाए: Kitty ने कहा लाइट जलाओ: Mimmy ने कहा सही है, ड्रीम थीफ फायरप्लेस में छिपा है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371899003568128/img/3dAMrBuymY9jLYOP.jpg" width="600" alt="Kitty और Mimmy का ड्रीम थीफ (Dream Thief) एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9747)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371917827539054) | **Published:** Aug 23, 2026
 
 ---
 ### ट्रिक-ऑर-ट्रीटर्स को डराता भूत
@@ -244,6 +396,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9696)**
 
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **Published:** Aug 23, 2026
+
+---
+### सांता रेस्क्यू नॉर्थ पोल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक हॉलिडे-थीम वाला वीडियो प्रॉम्प्ट, जिसमें सांता को नॉर्थ पोल पर एक दुष्ट एल्फ से बचाया जाता है।
+
+#### 📝 Prompt
+
+```
+सांता मदद के लिए पुकार रहे हैं और वे उन्हें नॉर्थ पोल पर दुष्ट एल्फ से बचाने जा रहे हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371098424123394/img/nasNynzhBNQNcrPu.jpg" width="600" alt="सांता रेस्क्यू नॉर्थ पोल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9748)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371115956388126) | **Published:** Aug 23, 2026
 
 ---
 ### बायोल्यूमिनेसेंट एलियन फॉरेस्ट मिशन
@@ -809,6 +980,25 @@ Met में रात के समय रेड कार्पेट इव�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9571)**
 
 **Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2090395296123453698) | **Published:** Aug 20, 2026
+
+---
+### मिडनाइट रेन कोस्टल ड्राइव
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> लो-फाई मिडनाइट सीन के लिए एक सिनेमैटिक और एटमॉस्फेरिक विजुअल प्रॉम्प्ट, जिसमें भोर के समय बारिश के रिफ्लेक्शन के साथ तटीय सड़कों पर एक काली कार दिखाई गई है।
+
+#### 📝 Prompt
+
+```
+आधी रात की बारिश, एक खाली काली कार, तटीय सड़कें, रिफ्लेक्शन, और भोर से पहले की पहली रोशनी
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089976752764231681/img/ex_ZvRjPpa1rc4Fe.jpg" width="600" alt="मिडनाइट रेन कोस्टल ड्राइव">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9755)**
+
+**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2089976937913462996) | **Published:** Aug 19, 2026
 
 ---
 ### मॉर्निंग सेल्फी वीडियो मोनोलॉग
@@ -1927,196 +2117,6 @@ Grok ह्यूमनॉइड रोबोट जिसने छोटी �
 **Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **Published:** Aug 15, 2026
 
 ---
-### काजार कोर्ट ग्रुप पोर्ट्रेट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> काजार कोर्ट की शैली में एक स्थिर औपचारिक समूह पोर्ट्रेट के लिए एक प्रॉम्प्ट, जिसमें एक फोटोग्राफर और समूह के पोज़ को कैद किया गया है।
-
-#### 📝 Prompt
-
-```
-फोटो खींचे जाने के बाद का अंतिम स्थिर औपचारिक समूह पोर्ट्रेट, जिसमें ब्राइट फ्लैश का प्रभाव दिख रहा है, हर कोई काजार कोर्ट के सटीक पोज़ में हल्की मुस्कान या गंभीर चेहरों के साथ खड़ा है, फोटोग्राफर अभी भी कैमरे के पीछे है लेकिन मुख्य फोकस समूह पर है। वही दृश्य...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088645576078594048/img/tuDCJeWa2-Xbe8dU.jpg" width="600" alt="काजार कोर्ट ग्रुप पोर्ट्रेट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9249)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2088645617228857732) | **Published:** Aug 15, 2026
-
----
-### Closing White Line Video Loop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक तकनीकी वीडियो प्रॉम्प्ट जिसे एक विशिष्ट क्लोजिंग एनिमेशन प्रभाव बनाने के लिए डिज़ाइन किया गया है, जो वापस मूल संदर्भ छवि (reference image) पर लूप करता है।
-
-#### 📝 Prompt
-
-```
-केवल मेरी छवि का उपयोग करें, ताकि उसके ऊपर सफेद रेखा “बंद” हो जाए और वीडियो वापस इस छवि पर आ जाए
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088640902952599552/img/6zzuREmHS5z03NCM.jpg" width="600" alt="Closing White Line Video Loop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9245)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2088640917339029722) | **Published:** Aug 15, 2026
-
----
-### स्टोरीबुक बैकग्राउंड वाइब
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> शनिवार के सुकून भरे माहौल के लिए एक आरामदायक और शांत स्टोरीबुक-शैली का बैकग्राउंड जनरेट करता है।
-
-#### 📝 Prompt
-
-```
-एक अच्छा वाइब, एक स्टोरीबुक बैकग्राउंड, और भागदौड़ भरी जिंदगी से थोड़ा ब्रेक।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088544687896317952/img/1u1vR3DTCRsOLx-o.jpg" width="600" alt="स्टोरीबुक बैकग्राउंड वाइब">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9255)**
-
-**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2088544747900059948) | **Published:** Aug 15, 2026
-
----
-### सुनहरी रोशनी और थूथन की जुगलबंदी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक काव्यात्मक वीडियो प्रॉम्प्ट जो नाचती हुई सुनहरी रोशनी और पात्रों के बीच के स्पर्शपूर्ण क्षण को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-उसकी उंगलियां लगभग उसके थूथन को छू रही हैं, जबकि सुनहरी रोशनी उन दोनों के ऊपर नाच रही है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088487362472837120/img/z7hpOYjISu7I1mtg.jpg" width="600" alt="सुनहरी रोशनी और थूथन की जुगलबंदी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9173)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088488663302779227) | **Published:** Aug 15, 2026
-
----
-### देर रात का रोमांच: चुपके से बाहर निकलना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक प्रॉम्प्ट, जिसमें एक बच्चा अपनी माँ के सोते समय देर रात के रोमांच के लिए सावधानी से चुपके से बाहर निकलता है।
-
-#### 📝 Prompt
-
-```
-देर रात के रोमांच के लिए चुपके से बाहर निकलने से पहले यह सुनिश्चित करना कि माँ सो रही है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088485262443900928/img/FHHwZMwSUBc8WhiJ.jpg" width="600" alt="देर रात का रोमांच: चुपके से बाहर निकलना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9185)**
-
-**Author:** [Christopher Gwinn | Grindhouse Glitch](https://x.com/ChrisGwinnLA) | **Source:** [Link](https://x.com/ChrisGwinnLA/status/2088485933494751406) | **Published:** Aug 15, 2026
-
----
-### कॉफी शॉप ब्रेवरी डायलॉग
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गहन भावनाओं को व्यक्त करने के लिए टाइट क्लोज-अप और हैंडहेल्ड कैमरा वर्क का उपयोग करते हुए, संवाद-प्रधान दृश्य के लिए एक उच्च-गुणवत्ता वाला सिनेमैटिक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक कॉफी शॉप में एक पुरुष और एक महिला एक ऐसी दुनिया में बहादुरी के महत्व पर चर्चा कर रहे हैं जो कायरता को पुरस्कृत करती है। सिनेमैटिक, प्रेस्टीज लेवल की निर्देशन और सिनेमैटोग्राफी। भावनात्मक गहराई के लिए टाइट क्लोज-अप और हैंडहेल्ड कैमरा वर्क का उपयोग। कोई वाइड शॉट्स नहीं। कोई संगीत नहीं। उनके चेहरों के सूक्ष्म हाव-भाव उनकी आवाज़ की तीव्रता से कहीं अधिक विषय को प्रभावी ढंग से दर्शाते हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088480964515123200/img/bibzKm-q7Urs6URB.jpg" width="600" alt="कॉफी शॉप ब्रेवरी डायलॉग">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9171)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088481490740916582) | **Published:** Aug 15, 2026
-
----
-### आधुनिक MGM इंट्रो रीमेक
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> आइकॉनिक MGM लायन रोर इंट्रो का एक आधुनिक और हाई-बास वर्ज़न जनरेट करने के लिए एक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-MGM इंट्रो का एक आधुनिक वर्ज़न जिसमें तेज़ दहाड़ और एक्स्ट्रा बास हो, बिल्कुल वैसा ही जैसा मैं हर समय अंदर से महसूस करता हूँ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088481167909552128/img/Vl_YF05gwmNDq_Ci.jpg" width="600" alt="आधुनिक MGM इंट्रो रीमेक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9170)**
-
-**Author:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **Source:** [Link](https://x.com/AMERICA250e9/status/2088481205649854466) | **Published:** Aug 15, 2026
-
----
-### पहाड़ की चोटी पर मित्रवत ड्रैगन का स्वागत
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> पहाड़ की चोटी पर खड़े एक व्यक्ति का सिनेमाई वीडियो प्रॉम्प्ट, जो एक सौम्य और आमंत्रित करने वाले हाव-भाव के साथ ड्रैगन का स्वागत कर रहा है।
-
-#### 📝 Prompt
-
-```
-मैं पहाड़ की चोटी पर मजबूती से खड़ा हूँ, एक हाथ खुली हथेली के साथ ड्रैगन की ओर बढ़ा रहा हूँ, बिल्कुल सौम्य और आमंत्रित करने वाले अंदाज़ में, जैसे मैं किसी पुराने दोस्त का स्वागत कर रहा हूँ।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088479193356984320/img/452nGQnbzrkX-2WJ.jpg" width="600" alt="पहाड़ की चोटी पर मित्रवत ड्रैगन का स्वागत">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9174)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088479596656177372) | **Published:** Aug 15, 2026
-
----
-### सूर्यास्त के समय सौम्य ड्रैगन के साथ आत्मीयता
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक भावपूर्ण और काव्यात्मक वीडियो प्रॉम्प्ट, जो सूर्यास्त के समय समुद्र किनारे एक लड़की और एक चमकते हुए ड्रैगन के बीच के शांत क्षण का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-ड्रैगन का सिर धीरे-धीरे उसके खुले हाथ की ओर झुकता है, उसके शल्क (scales) हल्की रोशनी में चमक रहे हैं, हवा धीरे से उसके लंबे बालों और उसकी लहराती पोशाक के घेरे को उड़ा रही है, ड्रैगन के पंख धीरे से फैलते हैं और सूर्यास्त की चमक को पकड़ लेते हैं जबकि समुद्र की लहरें उनके पीछे शांति से टकरा रही हैं, ड्रैगन की आँखें एक बार गर्माहट के साथ झपकती हैं और उसका मुँह एक धीमी, समझदार मुस्कान में बदल जाता है, उसकी उंगलियाँ लगभग ड्रैगन के थूथन को छू रही हैं और सुनहरी रोशनी उन दोनों पर नाच रही है... एक शुद्ध सौम्य बंधन, कोई बड़ी हलचल नहीं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088476460897972224/img/sLVfIOeXg862Y-dp.jpg" width="600" alt="सूर्यास्त के समय सौम्य ड्रैगन के साथ आत्मीयता">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9168)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088476669673627890) | **Published:** Aug 15, 2026
-
----
-### SpaceX मार्स लैंडिंग पेज एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> शाम के समय मंगल ग्रह पर उतरते SpaceX Starship के लिए एक हाई-एंड लैंडिंग पेज डिज़ाइन, जिसमें म्यूट शैंपेन टोन और वीडियो मोशन के लिए तैयार सिनेमैटिक डेप्थ शामिल है।
-
-#### 📝 Prompt
-
-```
-शाम के समय मंगल ग्रह पर उतरते SpaceX Starship के लिए लैंडिंग पेज हीरो सेक्शन डिज़ाइन, सॉफ्ट वार्म ऑफ-व्हाइट और पेल स्टोन कैनवास, सौम्य प्राकृतिक रोशनी के साथ ओवरसाइज़्ड क्लीन फोटोग्राफिक इमेजरी, सूक्ष्म स्यान एक्सेंट के साथ एलिगेंट म्यूट शैंपेन और सॉफ्ट ग्रे टोन, अल्ट्रा-क्लीन कंपोज़िशन, सोफिस्टिकेटेड हाई-एंड टाइपोग्राफी, सूक्ष्म फ्लोटिंग ग्लास एलिमेंट्स, पर्याप्त नेगेटिव स्पेस, सॉफ्ट डिफ्यूज्ड लाइटिंग, न्यूनतम तकनीकी विवरण, पॉलिश्ड लग्जरी प्रोडक्ट एस्थेटिक, शांत और रिफाइंड वातावरण, अल्ट्रा-हाई डिटेल 12k क्वालिटी, स्मूथ वीडियो मोशन के लिए तैयार सिनेमैटिक डेप्थ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088337507327074304/img/4tOfZhmL6_bVVNmK.jpg" width="600" alt="SpaceX मार्स लैंडिंग पेज एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9175)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2178,6 +2178,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T05:08:46.683Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T09:12:50.303Z</sub>
 
 </div>

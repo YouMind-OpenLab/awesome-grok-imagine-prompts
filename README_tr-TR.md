@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2573** |
+| 📝 Total Prompts | **2583** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-24** |
 
@@ -189,6 +189,101 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Altın Şehre Doğru Bulutların Üzerinde Yürüyüş
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gökyüzünde, görkemli bir altın şehre doğru yapılan yolculuğu betimleyen fantastik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Bulutların üzerinde yürüyen bir adamın videosunu oluştur; gökyüzündeki altın bir şehre doğru yaklaşıyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="Altın Şehre Doğru Bulutların Üzerinde Yürüyüş">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9746)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **Published:** Aug 24, 2026
+
+---
+### Tesla Semi Konvoyu Gece Tasarımı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Otoyoldaki bir konvoy için yumuşak sıcak ışığa ve rafine bir lüks ürün estetiğine odaklanan zarif bir tasarım istemi.
+
+#### 📝 Prompt
+
+```
+Gece otoyolunda Tesla Semi konvoyu için açılış sayfası ana bölüm tasarımı, yumuşak sıcak kırık beyaz ve soluk taş rengi tuval, yumuşak doğal ışıkla çekilmiş büyük boyutlu temiz fotoğraf görselleri, zarif mat şampanya ve yumuşak gri tonları, ultra temiz kompozisyon, sofistike üst düzey tipografi, yumuşak dağılmış aydınlatma, cilalı lüks ürün estetiği, sakin ve rafine atmosfer
+```
+
+<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi Konvoyu Gece Tasarımı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
+
+---
+### Sinematik Yavaş Kamera Kaydırma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Huzurlu bir atmosfer için yavaş kamera kaydırmaları ve yumuşak atmosferik hareketlerle profesyonel bir sinematik görünüm elde etmeye yönelik teknik bir komut.
+
+#### 📝 Prompt
+
+```
+çok yavaş sinematik kamera kaydırma, yumuşak atmosferik hareket, dingin ve huzurlu bir ruh hali, zarif ve zevkli hareket, agresif hareket yok, sigara içme çok yavaş sinematik kamera kaydırma, yumuşak atmosferik hareket
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="Sinematik Yavaş Kamera Kaydırma">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9750)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **Published:** Aug 24, 2026
+
+---
+### Dans Eden Pasta Karakter Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir pastayı silindir şapka ve eldiven takan dans eden bir karaktere dönüştüren bir görselden videoya (image-to-video) istemi.
+
+#### 📝 Prompt
+
+```
+Bu pastayı silindir şapka, beyaz eldivenler, kırmızı ayakkabılar ve kocaman bir gülümsemeyle dans eden bir karaktere dönüştür.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="Dans Eden Pasta Karakter Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9751)**
+
+**Author:** [The Golden Duck](https://x.com/Chrihsteenuh) | **Source:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **Published:** Aug 23, 2026
+
+---
+### Ruhsal Işık Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadının ışıklar içinde yükselerek gerçek benliğine dönüşmesini betimleyen sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Siyah kıvırcık saçlı, 8 beden bir kadın, ışığın altında yükseliyor ve mutlak tanrısal bir güzellikle gerçek benliğine dönüşüyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="Ruhsal Işık Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9749)**
+
+**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
+
+---
 ### Laporta ve Gil Marin Futbol Anlaşması
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +301,63 @@ Laporta, Gil Marin ile bir masa başında Alvarez anlaşmasını imzalıyor....�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9704)**
 
 **Author:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **Source:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **Published:** Aug 23, 2026
+
+---
+### Sediment Kaban Podyum Moda Yürüyüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karmaşık dokular ve özel ışıklandırma talimatları içeren, yavaş bir podyum yürüyüşü için oldukça detaylı, sinematik bir moda istemi.
+
+#### 📝 Prompt
+
+```
+Görünüm 01 — Sediment Kaban AVA-9 adlı bir yapay zeka modelinin podyumda yürüdüğü, tam boy editoryal moda fotoğrafı; hardal, yanık kahve ve kömür rengi yatay şeritler halinde el işçiliğiyle katmanlanmış yün keçeden yapılmış, kenarları hafifçe zımparalanmış ve yıpratılmış, katmanlar arasında kesilmiş bir uçurum yüzeyi gibi ham liflerin göründüğü yapılandırılmış bir trençkot giyiyor, mat kumaş dokusu, özel dikim omuzlar, diz altına kadar inen kaban, sade koyu renk bir alt katman üzerine açık şekilde giyilmiş, tek bir tepe spot ışığıyla minimalist karanlık podyum arka planı, sinematik editoryal moda fotoğrafçılığı, dokuya keskin odaklanma, 85mm lens görünümü. Kamera + ışıklandırma: Düşük üç çeyrek açı, kameraya doğru yürüyen model; katmanlı şeritleri yönlü gölge çizgileri olarak vurgulamak için tek bir sert tepe spot ışığı; karanlık kesintisiz arka plan. Video/hareket notu: 4-6 saniyelik klip, kameraya doğru yavaş ve kendinden emin bir yürüyüş, kabanın etek ucu hafifçe sallanıyor, kamera sabit kalıyor veya yavaşça yaklaşıyor; katmanlı şeritlerin yan profilini göstermek için 45 derecelik bir dönüşle bitirin. Negatif istem: parlak kumaş yok, payet yok, çiçek deseni yok, renk geçişi karışımı yok (şeritler belirgin kalmalı), gülümseme/cazibeli poz yok — ifade nötr ve ciddi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091409505435471872/img/s9DbqZZu7mC4IOdW.jpg" width="600" alt="Sediment Kaban Podyum Moda Yürüyüşü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9753)**
+
+**Author:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **Source:** [Link](https://x.com/Shaiicalpineda/status/2091409536443670706) | **Published:** Aug 23, 2026
+
+---
+### Kitty ve Mimmy Şeker Hırsızlığı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karakterlerin şeker çaldıkları için başlarının derde girdiği ve hapis cezasıyla karşı karşıya kaldığı çizgi film tarzında bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kitty ve Mimmy şekeri çalmadılar, hepiniz başınız büyük dertte: ağlıyorlar, anneleri polisi arayacağını ve Kitty ile Mimmy'yi hapse götüreceğini söyledi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091373229449342976/img/22iUZv2HL1k61AEz.jpg" width="600" alt="Kitty ve Mimmy Şeker Hırsızlığı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9752)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091373253503709274) | **Published:** Aug 23, 2026
+
+---
+### Kitty ve Mimmy Rüya Hırsızı Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kitty ve Mimmy'nin bir rüya hırsızıyla karşılaştığı, sevimli animasyon hikaye bölümleri oluşturmaya uygun anlatısal bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kitty ve Mimmy rüya hırsızını yastığın içinde uyurken gördüler ve çığlık attılar: Kitty ışığı aç dedi: Mimmy haklısın rüya hırsızı şöminenin içinde saklanıyor dedi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371899003568128/img/3dAMrBuymY9jLYOP.jpg" width="600" alt="Kitty ve Mimmy Rüya Hırsızı Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9747)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371917827539054) | **Published:** Aug 23, 2026
 
 ---
 ### Şeker Şakacılarını Korkutan Hayalet
@@ -244,6 +396,25 @@ Laporta, Gil Marin ile bir masa başında Alvarez anlaşmasını imzalıyor....�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9696)**
 
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **Published:** Aug 23, 2026
+
+---
+### Kuzey Kutbu'nda Noel Baba'yı Kurtarma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Noel Baba'nın Kuzey Kutbu'nda kötü bir elften kurtarılmasını konu alan tatil temalı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Noel Baba yardım çağrısında bulunuyor ve onu Kuzey Kutbu'ndaki kötü elfin elinden kurtarmaya gidiyorlar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371098424123394/img/nasNynzhBNQNcrPu.jpg" width="600" alt="Kuzey Kutbu'nda Noel Baba'yı Kurtarma">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9748)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371115956388126) | **Published:** Aug 23, 2026
 
 ---
 ### Biyolüminesans Uzaylı Ormanı Görevi
@@ -809,6 +980,25 @@ Bir kelebek güzellik tanrıçasına doğru süzülürken, ruhani ve ışıl ı�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9571)**
 
 **Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2090395296123453698) | **Published:** Aug 20, 2026
+
+---
+### Gece Yarısı Yağmurunda Sahil Sürüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Şafak vaktinde sahil yollarında yağmur yansımalarıyla dolu siyah bir arabanın yer aldığı, lo-fi gece yarısı sahnesi için sinematik ve atmosferik bir görsel istemi.
+
+#### 📝 Prompt
+
+```
+gece yarısı yağmuru, boş siyah bir araba, sahil yolları, yansımalar ve şafak öncesi ilk ışık
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089976752764231681/img/ex_ZvRjPpa1rc4Fe.jpg" width="600" alt="Gece Yarısı Yağmurunda Sahil Sürüşü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9755)**
+
+**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2089976937913462996) | **Published:** Aug 19, 2026
 
 ---
 ### Sabah Özçekim Video Monoloğu
@@ -1927,196 +2117,6 @@ Kızıldeniz'in yarılmasını, İsrailoğullarının geçişini ve Mısırlıla
 **Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **Published:** Aug 15, 2026
 
 ---
-### Kaçar Sarayı Grup Portresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kaçar sarayı tarzında, fotoğrafçıyı ve grubun pozlarını yakalayan, dondurulmuş resmi bir grup portresi için komut.
-
-#### 📝 Prompt
-
-```
-Fotoğraf çekildikten sonra ortaya çıkan nihai dondurulmuş resmi grup portresi; parlak flaş kalıntısı, herkesin hafif gülümsemeler veya ciddi yüz ifadeleriyle mükemmel Kaçar sarayı pozunu koruduğu, fotoğrafçının hala kameranın arkasında olduğu ancak odak noktasının grup olduğu bir an. Aynı sahne...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088645576078594048/img/tuDCJeWa2-Xbe8dU.jpg" width="600" alt="Kaçar Sarayı Grup Portresi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9249)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2088645617228857732) | **Published:** Aug 15, 2026
-
----
-### Kapanan Beyaz Çizgi Video Döngüsü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Orijinal referans görseline geri dönen özel bir kapanış animasyon efekti oluşturmak için tasarlanmış teknik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Sadece görselimi kullan, üzerinde beyaz bir çizgi “kapansın” ve video bu görsele geri dönsün
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088640902952599552/img/6zzuREmHS5z03NCM.jpg" width="600" alt="Kapanan Beyaz Çizgi Video Döngüsü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9245)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2088640917339029722) | **Published:** Aug 15, 2026
-
----
-### Hikaye Kitabı Arka Plan Havası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Rahat bir Cumartesi atmosferi için huzurlu ve samimi, hikaye kitabı tarzında bir arka plan oluşturur.
-
-#### 📝 Prompt
-
-```
-Güzel bir atmosfer, hikaye kitabı tadında bir arka plan ve tüm o koşuşturmacaya kısa bir mola.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088544687896317952/img/1u1vR3DTCRsOLx-o.jpg" width="600" alt="Hikaye Kitabı Arka Plan Havası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9255)**
-
-**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2088544747900059948) | **Published:** Aug 15, 2026
-
----
-### Altın Işık ve Burun Etkileşimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dans eden altın ışıklar ve karakter etkileşimiyle dokunsal bir anı yakalayan şiirsel bir video istemi.
-
-#### 📝 Prompt
-
-```
-parmakları neredeyse burnuna değiyor ve altın rengi ışık ikisinin üzerinde dans ediyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088487362472837120/img/z7hpOYjISu7I1mtg.jpg" width="600" alt="Altın Işık ve Burun Etkileşimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9173)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088488663302779227) | **Published:** Aug 15, 2026
-
----
-### Gece Yarısı Macerası İçin Gizlice Dışarı Çıkma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Annesi uyurken bir çocuğun gece yarısı macerası için dikkatlice dışarı süzülmesini konu alan, video oluşturmaya yönelik sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Gece yarısı macerası için dışarı süzülmeden önce annesinin uyuduğundan emin olma.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088485262443900928/img/FHHwZMwSUBc8WhiJ.jpg" width="600" alt="Gece Yarısı Macerası İçin Gizlice Dışarı Çıkma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9185)**
-
-**Author:** [Christopher Gwinn | Grindhouse Glitch](https://x.com/ChrisGwinnLA) | **Source:** [Link](https://x.com/ChrisGwinnLA/status/2088485933494751406) | **Published:** Aug 15, 2026
-
----
-### Kahve Dükkanında Cesaret Diyaloğu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Duyguyu aktarmak için yakın plan çekimler ve el kamerası kullanılan, diyalog ağırlıklı bir sahne için yüksek kaliteli sinematik istem.
-
-#### 📝 Prompt
-
-```
-Bir kahve dükkanında oturan bir kadın ve bir erkek, korkaklığı ödüllendiren bir dünyada cesaretin değeri üzerine tartışıyorlar. Sinematik, prestij seviyesinde yönetmenlik ve görüntü yönetimi. Duygusal derinlik için yakın plan çekimler ve el kamerası kullanımı. Geniş açılı çekim yok. Müzik yok. Yüzlerindeki mikro ifadeler, seslerinin tonundan çok daha fazla temayı yansıtıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088480964515123200/img/bibzKm-q7Urs6URB.jpg" width="600" alt="Kahve Dükkanında Cesaret Diyaloğu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9171)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088481490740916582) | **Published:** Aug 15, 2026
-
----
-### Modern MGM girişinin yeniden yapımı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İkonik MGM aslan kükremesi girişinin modern ve yüksek baslı bir versiyonunu oluşturmak için bir komut.
-
-#### 📝 Prompt
-
-```
-MGM girişinin daha yüksek bir kükreme ve ekstra bas içeren modern bir versiyonu, içimde her zaman hissettiğim şeyin bir yansıması.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088481167909552128/img/Vl_YF05gwmNDq_Ci.jpg" width="600" alt="Modern MGM girişinin yeniden yapımı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9170)**
-
-**Author:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **Source:** [Link](https://x.com/AMERICA250e9/status/2088481205649854466) | **Published:** Aug 15, 2026
-
----
-### Dost Canlısı Ejderhaya Uçurum Kenarında Selam
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir uçurumun kenarında duran bir kişinin, nazik ve davetkar bir hareketle bir ejderhayı karşıladığı sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Uçurumun kenarında dimdik duruyorum, bir elimi açık avuç içiyle ejderhaya doğru uzatıyorum; sanki eski bir dostumu karşılıyormuşum gibi nazik ve davetkar bir şekilde.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088479193356984320/img/452nGQnbzrkX-2WJ.jpg" width="600" alt="Dost Canlısı Ejderhaya Uçurum Kenarında Selam">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9174)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088479596656177372) | **Published:** Aug 15, 2026
-
----
-### Gün Batımında Nazik Ejderha Bağı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gün batımında okyanus kıyısında bir kız ile parıldayan bir ejderha arasındaki huzurlu anı betimleyen, etkileyici ve şiirsel bir video istemi.
-
-#### 📝 Prompt
-
-```
-Ejderhanın başı yavaşça kızın açık eline doğru alçalıyor, pulları yumuşak bir ışıkla parıldarken rüzgar kızın uzun saçlarını ve uçuşan elbisesinin eteklerini hafifçe havalandırıyor; ejderhanın kanatları nazikçe açılarak gün batımının kızıllığını yakalıyor, arkalarında okyanus dalgaları sessizce kıyıya vuruyor. Ejderhanın gözleri sıcak bir ifadeyle bir kez kırpılıyor ve ağzı yavaş, bilgece bir gülümsemeyle kıvrılıyor; kızın parmakları ejderhanın burnuna neredeyse değecekken altın rengi ışık ikisinin üzerinde dans ediyor… saf ve nazik bir bağ, ani hareketler yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088476460897972224/img/sLVfIOeXg862Y-dp.jpg" width="600" alt="Gün Batımında Nazik Ejderha Bağı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9168)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088476669673627890) | **Published:** Aug 15, 2026
-
----
-### SpaceX Mars İniş Sayfası Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Alacakaranlıkta Mars'a iniş yapan SpaceX Starship için, yumuşak şampanya tonları ve video hareketine hazır sinematik derinlik içeren üst düzey bir açılış sayfası tasarımı.
-
-#### 📝 Prompt
-
-```
-Alacakaranlıkta Mars'a iniş yapan SpaceX Starship için açılış sayfası ana bölüm tasarımı; yumuşak, sıcak, kırık beyaz ve soluk taş rengi tuval, hafif doğal ışıkla aydınlatılmış büyük ve net fotoğrafik görseller, zarif şampanya ve yumuşak gri tonları ile ince siyan vurgular, ultra temiz kompozisyon, sofistike ve üst düzey tipografi, hafif yüzen cam öğeler, geniş negatif alan, yumuşak dağılmış ışıklandırma, minimal teknik detaylar, cilalı lüks ürün estetiği, sakin ve rafine atmosfer, ultra yüksek detaylı 12k kalite, akıcı video hareketine hazır sinematik derinlik
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088337507327074304/img/4tOfZhmL6_bVVNmK.jpg" width="600" alt="SpaceX Mars İniş Sayfası Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9175)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2178,6 +2178,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T05:08:55.381Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T09:13:00.084Z</sub>
 
 </div>

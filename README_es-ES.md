@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2573** |
+| 📝 Total Prompts | **2583** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-24** |
 
@@ -189,6 +189,101 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Caminando sobre nubes hacia la Ciudad de Oro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video de fantasía que describe un viaje a través de los cielos hacia una ciudad celestial dorada.
+
+#### 📝 Prompt
+
+```
+Haz un video de él caminando sobre las nubes, mientras se acerca a una ciudad de oro en los cielos
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="Caminando sobre nubes hacia la Ciudad de Oro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9746)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **Published:** Aug 24, 2026
+
+---
+### Diseño nocturno de convoy de Tesla Semi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un elegante prompt de diseño para un convoy en autopista, enfocado en una iluminación cálida y suave con una estética de producto de lujo refinado.
+
+#### 📝 Prompt
+
+```
+Diseño de la sección hero de la página de inicio para un convoy de Tesla Semi en una autopista nocturna, lienzo en tonos blanco cálido suave y piedra pálida, imágenes fotográficas limpias de gran tamaño con luz natural tenue, elegantes tonos champán apagado y gris suave, composición ultra limpia, tipografía sofisticada de alta gama, iluminación difusa suave, estética de producto de lujo pulido, atmósfera tranquila y refinada
+```
+
+<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Diseño nocturno de convoy de Tesla Semi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
+
+---
+### Barrido de cámara cinematográfico lento
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt técnico para lograr un aspecto cinematográfico profesional con barridos de cámara lentos y un movimiento atmosférico suave para crear un ambiente sereno.
+
+#### 📝 Prompt
+
+```
+barrido de cámara cinematográfico muy lento, movimiento atmosférico suave, ambiente sereno y tranquilo, movimiento elegante y refinado, sin movimientos agresivos, fumar un cigarrillo barrido de cámara cinematográfico muy lento, movimiento atmosférico suave
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="Barrido de cámara cinematográfico lento">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9750)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **Published:** Aug 24, 2026
+
+---
+### Transformación de pastel bailarín
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de imagen a video que transforma un pastel en un personaje bailarín que lleva un sombrero de copa y guantes.
+
+#### 📝 Prompt
+
+```
+Convierte este pastel en un personaje que baila con un sombrero de copa, guantes blancos, zapatos rojos y una gran sonrisa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="Transformación de pastel bailarín">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9751)**
+
+**Author:** [The Golden Duck](https://x.com/Chrihsteenuh) | **Source:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **Published:** Aug 23, 2026
+
+---
+### Transformación de luz espiritual
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico que describe a una mujer ascendiendo a través de la luz hacia su verdadero ser.
+
+#### 📝 Prompt
+
+```
+Una mujer de cabello negro rizado, talla 8, bajo la luz, ascendiendo y convirtiéndose en su verdadero ser en la belleza absoluta de los dioses
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="Transformación de luz espiritual">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9749)**
+
+**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
+
+---
 ### Acuerdo futbolístico entre Laporta y Gil Marín
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +301,63 @@ Laporta cerrando el acuerdo por Álvarez en una mesa con Gil Marín....😃😃�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9704)**
 
 **Author:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **Source:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **Published:** Aug 23, 2026
+
+---
+### Desfile de moda con abrigo Sediment
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de moda cinematográfico altamente detallado para una caminata lenta en pasarela, que presenta texturas intrincadas e instrucciones de iluminación específicas.
+
+#### 📝 Prompt
+
+```
+Look 01 — Abrigo Sediment. Foto de moda editorial de cuerpo completo de una modelo de IA llamada AVA-9 caminando por una pasarela, vistiendo una gabardina estructurada hecha de fieltro de lana colocado a mano en bandas horizontales de ocre, sombra tostada y carbón, con los bordes ligeramente lijados y deshilachados para que la fibra cruda se vea como un acantilado cortado, acabado de tela mate, hombros entallados, abrigo hasta la pantorrilla, usado abierto sobre una capa base oscura sencilla, fondo de pasarela oscuro y minimalista con un solo foco cenital, fotografía de moda editorial cinematográfica, enfoque nítido en la textura, estilo de lente de 85 mm. Cámara e iluminación: Ángulo bajo de tres cuartos, modelo caminando hacia la cámara; un solo foco cenital duro para enfatizar las bandas superpuestas como líneas de sombra direccionales; fondo oscuro sin costuras. Nota de video/movimiento: Clip de 4 a 6 segundos, caminata lenta y segura hacia la cámara, el dobladillo del abrigo se balancea ligeramente, la cámara permanece fija o realiza un acercamiento lento; terminar con un giro de 45° para revelar el perfil lateral de las rayas superpuestas. Prompt negativo: sin telas brillantes, sin lentejuelas, sin patrones florales, sin mezcla de degradado de color (las bandas deben permanecer distintas), sin sonrisas ni poses glamorosas; expresión neutral y compuesta.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091409505435471872/img/s9DbqZZu7mC4IOdW.jpg" width="600" alt="Desfile de moda con abrigo Sediment">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9753)**
+
+**Author:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **Source:** [Link](https://x.com/Shaiicalpineda/status/2091409536443670706) | **Published:** Aug 23, 2026
+
+---
+### El robo de dulces de Kitty y Mimmy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video estilo caricatura que involucra a personajes que se meten en problemas por robar dulces y enfrentan tiempo en prisión.
+
+#### 📝 Prompt
+
+```
+Kitty y Mimmy no roben los dulces, están en graves problemas: ellas lloran, su mamá dijo que llamaría a la policía para llevar a Kitty y a Mimmy a la cárcel
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091373229449342976/img/22iUZv2HL1k61AEz.jpg" width="600" alt="El robo de dulces de Kitty y Mimmy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9752)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091373253503709274) | **Published:** Aug 23, 2026
+
+---
+### Animación de Kitty y Mimmy: El ladrón de sueños
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video narrativo que presenta a Kitty y Mimmy encontrándose con un ladrón de sueños, ideal para crear segmentos de historias animadas adorables.
+
+#### 📝 Prompt
+
+```
+Kitty y Mimmy vieron al ladrón de sueños durmiendo en la almohada y gritaron: Kitty dijo enciende la luz: Mimmy dijo cierto, el ladrón de sueños se esconde en la chimenea
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371899003568128/img/3dAMrBuymY9jLYOP.jpg" width="600" alt="Animación de Kitty y Mimmy: El ladrón de sueños">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9747)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371917827539054) | **Published:** Aug 23, 2026
 
 ---
 ### Fantasma asustando a niños en Halloween
@@ -244,6 +396,25 @@ Truco o trato, el fantasma dice bu y sale corriendo, el fantasma dice feliz Hall
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9696)**
 
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **Published:** Aug 23, 2026
+
+---
+### Rescate de Santa en el Polo Norte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video prompt con temática navideña donde Santa es rescatado de un elfo malvado en el Polo Norte.
+
+#### 📝 Prompt
+
+```
+Santa está pidiendo ayuda y ellos van a rescatarlo del elfo malvado en el Polo Norte
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371098424123394/img/nasNynzhBNQNcrPu.jpg" width="600" alt="Rescate de Santa en el Polo Norte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9748)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371115956388126) | **Published:** Aug 23, 2026
 
 ---
 ### Misión en el bosque alienígena bioluminiscente
@@ -809,6 +980,25 @@ Afrodita, etérea y radiante, mientras una mariposa se acerca a la diosa de la b
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9571)**
 
 **Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2090395296123453698) | **Published:** Aug 20, 2026
+
+---
+### Conducción costera bajo la lluvia de medianoche
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt visual cinematográfico y atmosférico para una escena lo-fi de medianoche que presenta un coche negro en carreteras costeras con reflejos de lluvia al amanecer.
+
+#### 📝 Prompt
+
+```
+lluvia de medianoche, un coche negro vacío, carreteras costeras, reflejos y la primera luz antes del amanecer
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089976752764231681/img/ex_ZvRjPpa1rc4Fe.jpg" width="600" alt="Conducción costera bajo la lluvia de medianoche">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9755)**
+
+**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2089976937913462996) | **Published:** Aug 19, 2026
 
 ---
 ### Monólogo en video tipo selfie matutino
@@ -1927,196 +2117,6 @@ Imagina la apertura del Mar Rojo, los israelitas cruzando y los carros de los eg
 **Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **Published:** Aug 15, 2026
 
 ---
-### Retrato grupal de la corte Qajar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para un retrato grupal formal y estático al estilo de la corte Qajar, que captura a un fotógrafo y las poses del grupo.
-
-#### 📝 Prompt
-
-```
-El retrato grupal formal y estático final después de tomar la foto, con el destello residual del flash, todos manteniendo la pose perfecta de la corte Qajar con sonrisas leves o rostros serios; el fotógrafo aún detrás de la cámara, pero el enfoque está en el grupo. Misma escena...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088645576078594048/img/tuDCJeWa2-Xbe8dU.jpg" width="600" alt="Retrato grupal de la corte Qajar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9249)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2088645617228857732) | **Published:** Aug 15, 2026
-
----
-### Bucle de video con línea blanca de cierre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video técnico diseñado para crear un efecto de animación de cierre específico que regresa al bucle de la imagen de referencia original.
-
-#### 📝 Prompt
-
-```
-Usa solo mi imagen, haz que la línea blanca pase por encima para “cerrar” y que el video regrese a esta imagen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088640902952599552/img/6zzuREmHS5z03NCM.jpg" width="600" alt="Bucle de video con línea blanca de cierre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9245)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2088640917339029722) | **Published:** Aug 15, 2026
-
----
-### Ambiente de fondo de libro de cuentos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera un fondo acogedor y tranquilo al estilo de un libro de cuentos para disfrutar de un relajante ambiente de sábado.
-
-#### 📝 Prompt
-
-```
-Un buen ambiente, un fondo de libro de cuentos y un descanso de todo el ajetreo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088544687896317952/img/1u1vR3DTCRsOLx-o.jpg" width="600" alt="Ambiente de fondo de libro de cuentos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9255)**
-
-**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2088544747900059948) | **Published:** Aug 15, 2026
-
----
-### Interacción con el hocico bajo luz dorada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video poético que captura un momento táctil con luz dorada danzante y la interacción con un personaje.
-
-#### 📝 Prompt
-
-```
-sus dedos casi rozando su hocico mientras la luz dorada danza sobre ambos
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088487362472837120/img/z7hpOYjISu7I1mtg.jpg" width="600" alt="Interacción con el hocico bajo luz dorada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9173)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088488663302779227) | **Published:** Aug 15, 2026
-
----
-### Aventura nocturna: Escapada a escondidas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico para generar un video de un niño que se escabulle con cautela para vivir una aventura nocturna mientras su madre duerme.
-
-#### 📝 Prompt
-
-```
-Comprobando que mamá esté dormida antes de escabullirse para una aventura nocturna.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088485262443900928/img/FHHwZMwSUBc8WhiJ.jpg" width="600" alt="Aventura nocturna: Escapada a escondidas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9185)**
-
-**Author:** [Christopher Gwinn | Grindhouse Glitch](https://x.com/ChrisGwinnLA) | **Source:** [Link](https://x.com/ChrisGwinnLA/status/2088485933494751406) | **Published:** Aug 15, 2026
-
----
-### Diálogo sobre la valentía en una cafetería
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinemático de alta calidad para una escena centrada en el diálogo, utilizando primeros planos cerrados y cámara en mano para transmitir emoción.
-
-#### 📝 Prompt
-
-```
-Un hombre y una mujer conversan en una cafetería sobre el valor de la valentía en un mundo que premia la cobardía. Calidad cinematográfica de prestigio en la dirección y fotografía. Primeros planos cerrados y cámara en mano para lograr resonancia emocional. Sin planos generales. Sin música. Las microexpresiones en sus rostros transmiten el tema mucho más que el volumen de sus voces.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088480964515123200/img/bibzKm-q7Urs6URB.jpg" width="600" alt="Diálogo sobre la valentía en una cafetería">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9171)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088481490740916582) | **Published:** Aug 15, 2026
-
----
-### Remake moderno de la intro de MGM
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar una versión moderna y con graves intensos de la icónica intro del rugido del león de MGM.
-
-#### 📝 Prompt
-
-```
-Una versión moderna de la intro de MGM con un rugido más fuerte y graves extra, que es como me siento por dentro todo el tiempo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088481167909552128/img/Vl_YF05gwmNDq_Ci.jpg" width="600" alt="Remake moderno de la intro de MGM">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9170)**
-
-**Author:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **Source:** [Link](https://x.com/AMERICA250e9/status/2088481205649854466) | **Published:** Aug 15, 2026
-
----
-### Saludo amistoso a un dragón en el acantilado
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico de una persona al borde de un acantilado dando la bienvenida a un dragón con un gesto amable y acogedor.
-
-#### 📝 Prompt
-
-```
-Estoy de pie, erguido al borde del acantilado, con una mano extendida hacia el dragón con la palma abierta, de forma suave y acogedora, como si estuviera dando la bienvenida a un viejo amigo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088479193356984320/img/452nGQnbzrkX-2WJ.jpg" width="600" alt="Saludo amistoso a un dragón en el acantilado">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9174)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088479596656177372) | **Published:** Aug 15, 2026
-
----
-### Vínculo con un dragón amable al atardecer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video evocador y poético que describe un momento de paz entre una chica y un dragón resplandeciente al atardecer junto al océano.
-
-#### 📝 Prompt
-
-```
-la cabeza del dragón desciende lentamente hacia su mano abierta, las escamas brillan con una luz suave mientras el viento levanta delicadamente su largo cabello y el dobladillo de su vestido fluido, sus alas se despliegan suavemente capturando el resplandor del atardecer mientras las olas del océano rompen silenciosamente detrás de ellos, los ojos del dragón parpadean una vez con calidez y su boca se curva en una lenta sonrisa cómplice, sus dedos casi rozan el hocico mientras la luz dorada danza sobre ambos… un vínculo puro y tierno, sin movimientos bruscos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088476460897972224/img/sLVfIOeXg862Y-dp.jpg" width="600" alt="Vínculo con un dragón amable al atardecer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9168)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088476669673627890) | **Published:** Aug 15, 2026
-
----
-### Animación de página de aterrizaje de SpaceX en Marte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un diseño de página de aterrizaje de alta gama para el aterrizaje de la Starship de SpaceX en Marte al atardecer, con tonos champán suaves y profundidad cinematográfica lista para movimiento de video.
-
-#### 📝 Prompt
-
-```
-Diseño de sección hero para página de aterrizaje del aterrizaje de la Starship de SpaceX en Marte al atardecer, lienzo en tonos blanco roto cálido y piedra pálida, imágenes fotográficas limpias de gran tamaño con luz natural suave, elegantes tonos champán apagados y gris suave con sutiles acentos cian, composición ultra limpia, tipografía sofisticada de alta gama, sutiles elementos de vidrio flotante, generoso espacio negativo, iluminación suave y difusa, detalles técnicos mínimos, estética de producto de lujo pulido, atmósfera tranquila y refinada, calidad 12k de ultra alta definición, profundidad cinematográfica lista para un movimiento de video fluido
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088337507327074304/img/4tOfZhmL6_bVVNmK.jpg" width="600" alt="Animación de página de aterrizaje de SpaceX en Marte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9175)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2178,6 +2178,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T05:08:47.763Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T09:12:51.532Z</sub>
 
 </div>

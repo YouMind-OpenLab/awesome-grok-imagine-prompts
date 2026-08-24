@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2573** |
+| 📝 Total Prompts | **2583** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-24** |
 
@@ -189,6 +189,101 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Walking on Clouds toward City of Gold
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fantasy video prompt describing a journey through the heavens toward a celestial golden city.
+
+#### 📝 Prompt
+
+```
+Make a video of him walking on clouds, he approaches a city of gold in the heavens
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="Walking on Clouds toward City of Gold">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9746)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **Published:** Aug 24, 2026
+
+---
+### Tesla Semi Convoy Night Design
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An elegant design prompt for a highway convoy, focusing on soft warm light and a refined luxury product aesthetic.
+
+#### 📝 Prompt
+
+```
+Landing page hero section design for Tesla Semi convoy on a night highway, soft warm off-white and pale stone canvas, oversized clean photographic imagery with gentle natural light, elegant muted champagne and soft gray tones, ultra-clean composition, sophisticated high-end typography, soft diffused lighting, polished luxury product aesthetic, calm and refined atmosphere
+```
+
+<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi Convoy Night Design">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
+
+---
+### Cinematic Slow Camera Pan
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical prompt for achieving a professional cinematic look with slow camera pans and soft atmospheric movement for a serene atmosphere.
+
+#### 📝 Prompt
+
+```
+very slow cinematic camera pan, soft atmospheric movement, serene and peaceful mood, elegant and tasteful motion, no aggressive movement, smoke a cigarette very slow cinematic camera pan, soft atmospheric movement
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="Cinematic Slow Camera Pan">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9750)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **Published:** Aug 24, 2026
+
+---
+### Dancing Cake Character Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An image-to-video prompt that transforms a cake into a dancing character wearing a top hat and gloves.
+
+#### 📝 Prompt
+
+```
+Turn this cake into a character dancing with a top hat, white gloves, red shoes and a big smile.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="Dancing Cake Character Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9751)**
+
+**Author:** [The Golden Duck](https://x.com/Chrihsteenuh) | **Source:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **Published:** Aug 23, 2026
+
+---
+### Spiritual Light Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a woman rising through light into her true self.
+
+#### 📝 Prompt
+
+```
+A woman with black curly hair, a size 8, underneath the light rising and becoming her true self in absolute gods beauty
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="Spiritual Light Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9749)**
+
+**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
+
+---
 ### Laporta and Gil Marin Football Deal
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,11 +303,68 @@ Laporta sealing the Alvarez deal around a table with Gil Marin....😃😃😃�
 **Author:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **Source:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **Published:** Aug 23, 2026
 
 ---
-### Ghost Scaring Trick or Treaters
+### Sediment Coat Runway Fashion Walk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Halloween animation prompt with characters running away from a ghost.
+> A highly detailed cinematic fashion prompt for a slow runway walk featuring intricate textures and specific lighting instructions.
+
+#### 📝 Prompt
+
+```
+Look 01 — Sediment Coat Full-body editorial fashion photo of a woman AI model named AVA-9 walking a runway, wearing a structured trench coat made of hand-layered wool felt in horizontal bands of ochre, umber, and charcoal, edges lightly sanded and frayed so raw fiber shows between layers like a cut cliffside, matte fabric finish, tailored shoulders, coat falling to mid-calf, worn open over a plain dark base layer, minimalist dark runway background with a single overhead spotlight, cinematic editorial fashion photography, sharp focus on texture, 85mm lens look. Camera + lighting: Low three-quarter angle, model walking toward camera; single hard top-down spotlight to emphasize the layered banding as directional shadow lines; dark seamless backdrop. Video/motion note: 4–6 second clip, slow confident walk toward camera, coat hem swaying slightly, camera holds still or does a slow push-in; end on a 45° turn to reveal the side profile of the layered stripes. Negative prompt: no shiny fabric, no sequins, no floral pattern, no color gradient blend (bands must stay distinct), no smiling/glamour pose — expression neutral and composed.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091409505435471872/img/s9DbqZZu7mC4IOdW.jpg" width="600" alt="Sediment Coat Runway Fashion Walk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9753)**
+
+**Author:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **Source:** [Link](https://x.com/Shaiicalpineda/status/2091409536443670706) | **Published:** Aug 23, 2026
+
+---
+### Kitty and Mimmy Candy Theft
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cartoon-style video prompt involving characters getting in trouble for stealing candy and facing jail time.
+
+#### 📝 Prompt
+
+```
+Kitty and Mimmy don’t steal the candy you all in big trouble: they cries they’re mom said he call the police and take kitty and Mimmy to jail
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091373229449342976/img/22iUZv2HL1k61AEz.jpg" width="600" alt="Kitty and Mimmy Candy Theft">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9752)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091373253503709274) | **Published:** Aug 23, 2026
+
+---
+### Kitty and Mimmy Dream Thief Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt featuring Kitty and Mimmy encountering a dream thief, suitable for creating cute animated story segments.
+
+#### 📝 Prompt
+
+```
+Kitty and Mimmy saw the dream thief sleeping in the pillow and screams: kitty said turn on the light: Mimmy said right the dream thief hides in the fire place
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371899003568128/img/3dAMrBuymY9jLYOP.jpg" width="600" alt="Kitty and Mimmy Dream Thief Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9747)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371917827539054) | **Published:** Aug 23, 2026
+
+---
+### Halloween Ghost Scare
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A seasonal video prompt featuring a ghost scaring characters for Halloween.
 
 #### 📝 Prompt
 
@@ -220,7 +372,7 @@ Laporta sealing the Alvarez deal around a table with Gil Marin....😃😃😃�
 Trick or treat and the ghost says boo he scared them and they runs and the ghost says happy Halloween
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371275197231104/img/zNCkrlNIUcHIrRJV.jpg" width="600" alt="Ghost Scaring Trick or Treaters">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371275197231104/img/zNCkrlNIUcHIrRJV.jpg" width="600" alt="Halloween Ghost Scare">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9697)**
 
@@ -231,7 +383,7 @@ Trick or treat and the ghost says boo he scared them and they runs and the ghost
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Halloween-themed video prompt featuring a ghost scaring characters.
+> A festive Halloween video prompt showing a ghost performing a trick-or-treat interaction and running away.
 
 #### 📝 Prompt
 
@@ -244,6 +396,25 @@ Trick or treat and the ghost says boo and runs away the ghost says happy Hallowe
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9696)**
 
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **Published:** Aug 23, 2026
+
+---
+### Santa Rescue North Pole
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A holiday-themed video prompt where Santa is rescued from an evil elf at the North Pole.
+
+#### 📝 Prompt
+
+```
+Santa’s calling for help and they going to save him from the evil elf at the North Pole
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371098424123394/img/nasNynzhBNQNcrPu.jpg" width="600" alt="Santa Rescue North Pole">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9748)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371115956388126) | **Published:** Aug 23, 2026
 
 ---
 ### Bioluminescent Alien Forest Mission
@@ -265,22 +436,19 @@ Use the multi-panel storyboard @ image purely as a visual blueprint and story gu
 **Author:** [David Neveils](https://x.com/neveils_david_c) | **Source:** [Link](https://x.com/neveils_david_c/status/2091363764519981376) | **Published:** Aug 23, 2026
 
 ---
-### Stereoscopic Goddess Wedding Gown Animation
+### Goddess in Ethereal Lace Palace
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex and highly detailed prompt for generating a vertical 3D stereoscopic animation of a goddess in a white palace, optimized for high-quality video movement.
+> A complex 3D stereoscopic animation prompt describing a woman in an ornate lace wedding gown inside a white marble hall.
 
 #### 📝 Prompt
 
 ```
-A breathtaking 9:16 vertical portrait stereoscopic 3D animation of a goddess-like woman standing with her back to the viewer in an ethereal white palace hall. She wears an ultra-detailed off-shoulder white lace wedding gown with silver-iridescent ice-white embroidery, long flowing train, and sheer veil cascading over golden braided hair adorned with white roses. Gentle breeze lifts, floats, and twirls the veil, train, and delicate lace ruffles with hyper-realistic physics and high tactile 3D textures; the fabric flutters and flows in smooth, hypnotic slow-motion.
-Extreme depth of field and layered stereoscopic depth: immediate foreground features silver-iridescent ice-white lace dust, rose petals, and tiny crystalline droplets floating weightlessly and gently splashing past the camera; midground shows the woman in luminous detail; background reveals towering white marble columns draped in cascading white roses, a polished reflective floor, ornate golden throne with a dark hooded figure seated upon it, distant crystalline castle spires under a massive glowing full moon in a starry twilight sky. Volumetric soft silver mist and faint neon-holographic light rays cut through the air, creating distinct parallax layers of depth. Subtle floating ethereal leaf and rose motifs drift through the scene.
-Style: highly detailed masterpiece inspired by Gustav Klimt’s Golden Phase and Alphonse Mucha Art Nouveau — metallic silver, rose-pink, and ice-white iridescent surfaces, intricate floral and geometric mosaic patterns, shimmering Byzantine-like leaf and vine motifs covering architectural details and the gown. Museum-quality elegant decorative rendering, hyper-detailed 3D textures, dreamy magical atmosphere, painterly yet photorealistic quality.
-Camera: slow, fluid, sustained dolly-in / gentle orbital motion with parallax, 60 fps, smooth cinematic movement. Soft fairy-lullaby harp strings (no human sounds). Serene, spellbinding, hypnotic rhythm; luminous, tranquil, statuesque presence. Ultra-enhanced quality, intricate 3D textures, elements of the foreground reaching out of the screen, pure stereoscopic depth masterpiece.
+A breathtaking 9:16 vertical portrait stereoscopic 3D animation of a goddess-like woman standing with her back to the viewer in an ethereal white palace hall. She wears an ultra-detailed off-shoulder white lace wedding gown with silver-iridescent ice-white embroidery, long flowing train, and sheer veil cascading over golden braided hair adorned with white roses. Gentle breeze lifts, floats, and twirls the veil, train, and delicate lace ruffles with hyper-realistic physics and high tactile 3D textures; the fabric flutters and flows in smooth, hypnotic slow-motion. Extreme depth of field and layered stereoscopic depth: immediate foreground features silver-iridescent ice-white lace dust, rose petals, and tiny crystalline droplets floating weightlessly and gently splashing past the camera; midground shows the woman in luminous detail; background reveals towering white marble columns draped in cascading white roses, a polished reflective floor, ornate golden throne with a dark hooded figure seated upon it, distant crystalline castle spires under a massive glowing full moon in a starry twilight sky. Volumetric soft silver mist and faint neon-holographic light rays cut through the air, creating distinct parallax layers of depth. Subtle floating ethereal leaf and rose motifs drift through the scene. Style: highly detailed masterpiece inspired by Gustav Klimt’s Golden Phase and Alphonse Mucha Art Nouveau — metallic silver, rose-pink, and ice-white iridescent surfaces, intricate floral and geometric mosaic patterns, shimmering Byzantine-like leaf and vine motifs covering architectural details and the gown. Museum-quality elegant decorative rendering, hyper-detailed 3D textures, dreamy magical atmosphere, painterly yet photorealistic quality. Camera: slow, fluid, sustained dolly-in / gentle orbital motion with parallax, 60 fps, smooth cinematic movement. Soft fairy-lullaby harp strings (no human sounds). Serene, spellbinding, hypnotic rhythm; luminous, tranquil, statuesque presence. Ultra-enhanced quality, intricate 3D textures, elements of the foreground reaching out of the screen, pure stereoscopic depth masterpiece.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091347865410904064/img/7JjAjQL1SATCvUTe.jpg" width="600" alt="Stereoscopic Goddess Wedding Gown Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091347865410904064/img/7JjAjQL1SATCvUTe.jpg" width="600" alt="Goddess in Ethereal Lace Palace">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9698)**
 
@@ -811,6 +979,25 @@ Aphrodite, ethereal and radiant, as a butterfly finds its way to the goddess of 
 **Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2090395296123453698) | **Published:** Aug 20, 2026
 
 ---
+### Midnight Rain Coastal Drive
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic and atmospheric visual prompt for a lo-fi midnight scene featuring a black car on coastal roads with rainy reflections at dawn.
+
+#### 📝 Prompt
+
+```
+midnight rain, an empty black car, coastal roads, reflections, and the first light before dawn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089976752764231681/img/ex_ZvRjPpa1rc4Fe.jpg" width="600" alt="Midnight Rain Coastal Drive">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9755)**
+
+**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2089976937913462996) | **Published:** Aug 19, 2026
+
+---
 ### Morning Selfie Video Monologue
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -1051,11 +1238,11 @@ slowly elevating above the equilibrium of sphere, center of gravity in this VR 3
 **Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
 
 ---
-### Odysseus and Argos Reunion Scene
+### Odysseus and Argos Reunion
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic recreation of the emotional reunion between Odysseus and his loyal dog Argos from the Odyssey.
+> A vivid narrative prompt describing the emotional moment when Odysseus, disguised as a beggar, is recognized by his dying dog Argos.
 
 #### 📝 Prompt
 
@@ -1063,7 +1250,7 @@ slowly elevating above the equilibrium of sphere, center of gravity in this VR 3
 Odysseus returns to Ithaca after twenty years, disguised as a beggar. As he approaches his palace, he meets his old dog Argos, abandoned and dying on a pile of dung. Argos recognizes him at once, weakly wags his tail, then dies. Odysseus looks away to hide his tears and keep his identity secret.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="Odysseus and Argos Reunion Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="Odysseus and Argos Reunion">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9574)**
 
@@ -1927,196 +2114,6 @@ Imagine the parting of the Red Sea and the Israelites passing and the Egyptians 
 **Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **Published:** Aug 15, 2026
 
 ---
-### Qajar Court Group Portrait
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a frozen formal group portrait in the style of the Qajar court, capturing a photographer and the group's poses.
-
-#### 📝 Prompt
-
-```
-The final frozen formal group portrait after the photo is taken, bright flash residual, everyone holding the perfect Qajar court pose with slight smiles or serious faces, the photographer still behind the camera but the focus is the group. Same scene...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088645576078594048/img/tuDCJeWa2-Xbe8dU.jpg" width="600" alt="Qajar Court Group Portrait">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9249)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2088645617228857732) | **Published:** Aug 15, 2026
-
----
-### Closing White Line Video Loop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical video prompt designed to create a specific closing animation effect that loops back to the original reference image.
-
-#### 📝 Prompt
-
-```
-Only use my image, to have the white line above it to “close” and the video to be back to this image
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088640902952599552/img/6zzuREmHS5z03NCM.jpg" width="600" alt="Closing White Line Video Loop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9245)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2088640917339029722) | **Published:** Aug 15, 2026
-
----
-### Storybook Background Vibe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a cozy and peaceful storybook-style background for a relaxing Saturday vibe.
-
-#### 📝 Prompt
-
-```
-A good vibe, a storybook background, and a break from all the hustle and bustle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088544687896317952/img/1u1vR3DTCRsOLx-o.jpg" width="600" alt="Storybook Background Vibe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9255)**
-
-**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2088544747900059948) | **Published:** Aug 15, 2026
-
----
-### Golden Light Snout Interaction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic video prompt capturing a tactile moment with dancing golden light and character interaction.
-
-#### 📝 Prompt
-
-```
-her fingers almost touching its snout as golden light dances across both of them
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088487362472837120/img/z7hpOYjISu7I1mtg.jpg" width="600" alt="Golden Light Snout Interaction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9173)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088488663302779227) | **Published:** Aug 15, 2026
-
----
-### Late Night Adventure Sneak Out
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt for generating a video of a child cautiously sneaking out for a late-night adventure while their mother sleeps.
-
-#### 📝 Prompt
-
-```
-Checking to make sure mother's asleep before sneaking out for a late night adventure.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088485262443900928/img/FHHwZMwSUBc8WhiJ.jpg" width="600" alt="Late Night Adventure Sneak Out">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9185)**
-
-**Author:** [Christopher Gwinn | Grindhouse Glitch](https://x.com/ChrisGwinnLA) | **Source:** [Link](https://x.com/ChrisGwinnLA/status/2088485933494751406) | **Published:** Aug 15, 2026
-
----
-### Coffee Shop Bravery Dialogue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-quality cinematic prompt for a dialogue-heavy scene using tight close-ups and handheld camera work to convey emotion.
-
-#### 📝 Prompt
-
-```
-A man and a woman talking in a coffee shop having a discussion about the value of bravery in a world that rewards cowardice. Cinematic, prestige level quality directing and cinematography. Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088480964515123200/img/bibzKm-q7Urs6URB.jpg" width="600" alt="Coffee Shop Bravery Dialogue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9171)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088481490740916582) | **Published:** Aug 15, 2026
-
----
-### Modern MGM intro remake
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt to generate a modern and high-bass version of the iconic MGM lion roar intro.
-
-#### 📝 Prompt
-
-```
-A modern version of the mgm intro with a louder roar extra bass is how I feel inside all the time
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088481167909552128/img/Vl_YF05gwmNDq_Ci.jpg" width="600" alt="Modern MGM intro remake">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9170)**
-
-**Author:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **Source:** [Link](https://x.com/AMERICA250e9/status/2088481205649854466) | **Published:** Aug 15, 2026
-
----
-### Friendly Dragon Cliffside Greeting
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt of a person on a cliff edge welcoming a dragon with a gentle, inviting gesture.
-
-#### 📝 Prompt
-
-```
-i'm standing tall on the cliff edge, one hand reaching out toward the dragon with an open palm, gentle and inviting, like i'm welcoming an old friend.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088479193356984320/img/452nGQnbzrkX-2WJ.jpg" width="600" alt="Friendly Dragon Cliffside Greeting">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9174)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088479596656177372) | **Published:** Aug 15, 2026
-
----
-### Gentle Dragon Bond at Sunset
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An evocative and poetic video prompt describing a peaceful moment between a girl and a shimmering dragon at sunset by the ocean.
-
-#### 📝 Prompt
-
-```
-the dragon’s head slowly lowers toward her open hand, scales shimmering with soft light as the wind gently lifts her long hair and the hem of her flowing dress, its wings softly unfurling and catching the sunset glow while the ocean waves roll quietly behind them, the dragon’s eyes blink once with warmth and its mouth curves into a slow knowing smile, her fingers almost touching its snout as golden light dances across both of them… pure gentle bond, no big movements.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088476460897972224/img/sLVfIOeXg862Y-dp.jpg" width="600" alt="Gentle Dragon Bond at Sunset">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9168)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088476669673627890) | **Published:** Aug 15, 2026
-
----
-### SpaceX Mars Landing Page Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-end landing page design for a SpaceX Starship landing on Mars at dusk, featuring muted champagne tones and cinematic depth ready for video motion.
-
-#### 📝 Prompt
-
-```
-Landing page hero section design for SpaceX Starship landing on Mars at dusk, soft warm off-white and pale stone canvas, oversized clean photographic imagery with gentle natural light, elegant muted champagne and soft gray tones with subtle cyan accents, ultra-clean composition, sophisticated high-end typography, subtle floating glass elements, generous negative space, soft diffused lighting, minimal technical details, polished luxury product aesthetic, calm and refined atmosphere, ultra-high detail 12k quality, cinematic depth ready for smooth video motion
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088337507327074304/img/4tOfZhmL6_bVVNmK.jpg" width="600" alt="SpaceX Mars Landing Page Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9175)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2178,6 +2175,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T05:08:38.261Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T09:12:39.445Z</sub>
 
 </div>

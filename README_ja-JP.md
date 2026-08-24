@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2573** |
+| 📝 プロンプト総数 | **2583** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-08-24** |
 
@@ -189,6 +189,101 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 黄金の都へ向かう雲の上の旅路
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 天上の黄金の都を目指し、雲の上を歩く旅を描いたファンタジー動画用プロンプト。
+
+#### 📝 プロンプト
+
+```
+彼が雲の上を歩き、天上の黄金の都へと近づいていく様子を動画にしてください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="黄金の都へ向かう雲の上の旅路">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9746)**
+
+**作者:** [GayBar](https://x.com/GayBar_Ai) | **ソース:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **公開日:** Aug 24, 2026
+
+---
+### Tesla Semi コンボイの夜間デザイン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 高速道路を走行するコンボイのためのエレガントなデザインプロンプト。柔らかな暖色系の光と、洗練された高級感のある製品美学に焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+夜の高速道路を走る Tesla Semi コンボイのランディングページ・ヒーローセクションのデザイン。柔らかなオフホワイトとペールストーンのキャンバス、自然な光を活かした清潔感のある大型写真、エレガントなシャンパンカラーとソフトグレーの落ち着いた色調。極めてクリーンな構成、洗練されたハイエンドなタイポグラフィ、柔らかな拡散光、磨き上げられた高級製品の美学、穏やかで上品な雰囲気。
+```
+
+<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi コンボイの夜間デザイン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9754)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **公開日:** Aug 24, 2026
+
+---
+### シネマティックなスローカメラパン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ゆっくりとしたカメラパンと柔らかな雰囲気の動きで、穏やかな空気感を演出するプロフェッショナルなシネマティックルックを実現するためのテクニカルプロンプトです。
+
+#### 📝 プロンプト
+
+```
+very slow cinematic camera pan, soft atmospheric movement, serene and peaceful mood, elegant and tasteful motion, no aggressive movement, smoke a cigarette very slow cinematic camera pan, soft atmospheric movement
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="シネマティックなスローカメラパン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9750)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **公開日:** Aug 24, 2026
+
+---
+### ダンスするケーキのキャラクター変身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ケーキをトップハットと手袋を身につけたダンスするキャラクターに変身させるための Image-to-Video プロンプトです。
+
+#### 📝 プロンプト
+
+```
+このケーキを、トップハット、白い手袋、赤い靴を身につけ、満面の笑みでダンスするキャラクターに変身させてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="ダンスするケーキのキャラクター変身">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9751)**
+
+**作者:** [The Golden Duck](https://x.com/Chrihsteenuh) | **ソース:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **公開日:** Aug 23, 2026
+
+---
+### スピリチュアルな光の変容
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 光の中を上昇し、真の自分へと変容していく女性を描いたシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+黒い巻き毛の 8 号サイズの女性が、光の下で上昇し、神々しいまでの美しさで真の自分へと変容していく姿
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="スピリチュアルな光の変容">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9749)**
+
+**作者:** [Star](https://x.com/Wednesdayo17) | **ソース:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **公開日:** Aug 23, 2026
+
+---
 ### ラポルタとヒル・マリンによるサッカー取引
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +301,63 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9704)**
 
 **作者:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **ソース:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **公開日:** Aug 23, 2026
+
+---
+### Sediment Coat ランウェイ・ファッション・ウォーク
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 複雑な質感と緻密なライティング指示を盛り込んだ、スローなランウェイ・ウォークのための詳細なシネマティック・ファッション・プロンプト。
+
+#### 📝 プロンプト
+
+```
+Look 01 — Sediment Coat：AVA-9 という名の AI モデルがランウェイを歩く、全身エディトリアル・ファッション写真。オークル、アンバー、チャコールの水平バンド状に手作業で重ねられたウールフェルト製の構築的なトレンチコートを着用。エッジは軽くサンディングされ、切り立った崖のように層の間から生の繊維が見えるほつれた仕上げ。マットな生地感、仕立ての良いショルダー、ミッドカーフ丈のコートを、シンプルなダークカラーのベースレイヤーの上に羽織っている。ミニマルな暗いランウェイの背景に、頭上からのスポットライトが 1 つ。シネマティックなエディトリアル・ファッション写真、質感にシャープなフォーカス、85mm レンズのルック。カメラとライティング：ローアングル（3/4 角度）、カメラに向かって歩くモデル。層状のバンドを指向性のある影のラインとして強調する、真上からのハードなスポットライト 1 灯。暗いシームレスな背景。ビデオ／モーションの注意点：4～6 秒のクリップ、カメラに向かってゆっくりと自信に満ちた足取りで歩く。コートの裾がわずかに揺れ、カメラは固定またはゆっくりとズームイン。最後は 45 度のターンで、層状のストライプのサイドプロファイルを映し出す。ネガティブプロンプト：光沢のある生地、スパンコール、花柄、色のグラデーション（バンドは明確に分かれていること）、笑顔やグラマーなポーズは禁止。表情はニュートラルで落ち着いたもの。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091409505435471872/img/s9DbqZZu7mC4IOdW.jpg" width="600" alt="Sediment Coat ランウェイ・ファッション・ウォーク">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9753)**
+
+**作者:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **ソース:** [Link](https://x.com/Shaiicalpineda/status/2091409536443670706) | **公開日:** Aug 23, 2026
+
+---
+### キティとミミィのキャンディ泥棒
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャンディを盗んでトラブルになり、刑務所行きに直面するキャラクターを描いたカートゥーン風の動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+キティとミミィがキャンディを盗んでしまい、みんな大騒ぎ。2 人は泣き出し、ママが警察を呼んでキティとミミィを刑務所に連れて行くと言い出します。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091373229449342976/img/22iUZv2HL1k61AEz.jpg" width="600" alt="キティとミミィのキャンディ泥棒">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9752)**
+
+**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **ソース:** [Link](https://x.com/DavontaDav5iv/status/2091373253503709274) | **公開日:** Aug 23, 2026
+
+---
+### キティとミミィの夢泥棒アニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キティとミミィが夢泥棒に遭遇する物語形式のビデオプロンプトです。キュートなアニメーションのストーリー制作に適しています。
+
+#### 📝 プロンプト
+
+```
+キティとミミィは枕の中で眠る夢泥棒を見つけて叫びました。キティが「電気をつけて！」と言うと、ミミィは「そうね、夢泥棒は暖炉の中に隠れているわ」と答えました。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371899003568128/img/3dAMrBuymY9jLYOP.jpg" width="600" alt="キティとミミィの夢泥棒アニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9747)**
+
+**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **ソース:** [Link](https://x.com/DavontaDav5iv/status/2091371917827539054) | **公開日:** Aug 23, 2026
 
 ---
 ### お化けに驚くトリック・オア・トリートの子供たち
@@ -244,6 +396,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9696)**
 
 **作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **ソース:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **公開日:** Aug 23, 2026
+
+---
+### サンタ救出大作戦：北極編
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 北極で邪悪なエルフに捕まったサンタクロースを救出するという、ホリデーシーズン向けのビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+サンタが助けを求めている。北極で邪悪なエルフに捕まったサンタを救い出そう。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371098424123394/img/nasNynzhBNQNcrPu.jpg" width="600" alt="サンタ救出大作戦：北極編">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9748)**
+
+**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **ソース:** [Link](https://x.com/DavontaDav5iv/status/2091371115956388126) | **公開日:** Aug 23, 2026
 
 ---
 ### 生物発光する異星の森でのミッション
@@ -809,6 +980,25 @@ Twitch で Cybertruck の 3D ゲームをライブ配信する女性の映像。
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9571)**
 
 **作者:** [Art Muse](https://x.com/art_muse) | **ソース:** [Link](https://x.com/art_muse/status/2090395296123453698) | **公開日:** Aug 20, 2026
+
+---
+### 真夜中の雨の海岸ドライブ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 夜明け前の海岸沿いを走る黒い車と、雨に濡れた路面の反射を描いた、ローファイでシネマティックな雰囲気のビジュアルプロンプトです。
+
+#### 📝 プロンプト
+
+```
+真夜中の雨、無人の黒い車、海岸沿いの道路、反射、夜明け前の最初の光
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089976752764231681/img/ex_ZvRjPpa1rc4Fe.jpg" width="600" alt="真夜中の雨の海岸ドライブ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9755)**
+
+**作者:** [Lacey](https://x.com/LaceyPresley) | **ソース:** [Link](https://x.com/LaceyPresley/status/2089976937913462996) | **公開日:** Aug 19, 2026
 
 ---
 ### 朝の自撮りビデオモノローグ
@@ -1927,196 +2117,6 @@ Xai ロゴ入りの半袖ブルーの Carhartt 風ジャンプスーツ、同じ
 **作者:** [Hany N. Takla](https://x.com/HanyNTakla2) | **ソース:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **公開日:** Aug 15, 2026
 
 ---
-### ガージャール朝宮廷の集合写真
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ガージャール朝宮廷様式の厳かな集合写真のプロンプト。撮影者とグループのポーズを捉えています。
-
-#### 📝 プロンプト
-
-```
-撮影直後の静止した厳かな集合写真。明るいフラッシュの残光。全員がガージャール朝宮廷風の完璧なポーズをとり、わずかに微笑んでいるか、真剣な表情を浮かべている。撮影者はカメラの後ろにいるが、焦点はグループに合わせられている。同じシーン...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088645576078594048/img/tuDCJeWa2-Xbe8dU.jpg" width="600" alt="ガージャール朝宮廷の集合写真">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9249)**
-
-**作者:** [Cyperpienso](https://x.com/cyperpienso) | **ソース:** [Link](https://x.com/cyperpienso/status/2088645617228857732) | **公開日:** Aug 15, 2026
-
----
-### ホワイトラインが閉じるビデオループ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 元の参照画像に戻るループ効果を持つ、特定のクロージングアニメーションを作成するためのテクニカルビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-私の画像のみを使用し、その上に白いラインを引いて「閉じる」ようなアニメーションを作成し、最終的に元の画像に戻るようにしてください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088640902952599552/img/6zzuREmHS5z03NCM.jpg" width="600" alt="ホワイトラインが閉じるビデオループ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9245)**
-
-**作者:** [Ember Art](https://x.com/Ember8184Art) | **ソース:** [Link](https://x.com/Ember8184Art/status/2088640917339029722) | **公開日:** Aug 15, 2026
-
----
-### 絵本のような背景の雰囲気
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 土曜日のリラックスした雰囲気にぴったりの、居心地が良く穏やかな絵本風の背景を生成します。
-
-#### 📝 プロンプト
-
-```
-心地よい雰囲気、絵本のような背景、そして日々の喧騒から離れた休息。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088544687896317952/img/1u1vR3DTCRsOLx-o.jpg" width="600" alt="絵本のような背景の雰囲気">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9255)**
-
-**作者:** [Scarlett](https://x.com/scarlettzen1) | **ソース:** [Link](https://x.com/scarlettzen1/status/2088544747900059948) | **公開日:** Aug 15, 2026
-
----
-### ゴールデンライトと鼻先のインタラクション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 舞い踊る黄金の光とキャラクターの触れ合いを捉えた、詩的なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-黄金の光が二人を照らして舞う中、彼女の指先がその鼻先に触れそうな瞬間
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088487362472837120/img/z7hpOYjISu7I1mtg.jpg" width="600" alt="ゴールデンライトと鼻先のインタラクション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9173)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2088488663302779227) | **公開日:** Aug 15, 2026
-
----
-### 深夜の冒険：こっそり抜け出す
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 母親が眠っている間に、子供が深夜の冒険へ向けて慎重に家を抜け出す様子を生成するためのシネマティックなプロンプトです。
-
-#### 📝 プロンプト
-
-```
-母親が眠っていることを確認し、深夜の冒険へ向けてこっそりと抜け出す。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088485262443900928/img/FHHwZMwSUBc8WhiJ.jpg" width="600" alt="深夜の冒険：こっそり抜け出す">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9185)**
-
-**作者:** [Christopher Gwinn | Grindhouse Glitch](https://x.com/ChrisGwinnLA) | **ソース:** [Link](https://x.com/ChrisGwinnLA/status/2088485933494751406) | **公開日:** Aug 15, 2026
-
----
-### コーヒーショップでの勇気に関する対話
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 緊密なクローズアップと手持ちカメラワークを駆使し、感情を伝える対話中心のシーンに向けた高品質なシネマティックプロンプト。
-
-#### 📝 プロンプト
-
-```
-コーヒーショップで、臆病者が報われる世界における「勇気」の価値について議論する男女。映画のような、格式高い演出と撮影技術。感情的な共鳴を生むための緊密なクローズアップと手持ちカメラワーク。ワイドショットは使用しない。音楽はなし。声の大きさよりも、表情の微細な動きでテーマを表現する。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088480964515123200/img/bibzKm-q7Urs6URB.jpg" width="600" alt="コーヒーショップでの勇気に関する対話">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9171)**
-
-**作者:** [Rob Allan](https://x.com/allan_robII) | **ソース:** [Link](https://x.com/allan_robII/status/2088481490740916582) | **公開日:** Aug 15, 2026
-
----
-### モダンな MGM イントロのリメイク
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 象徴的な MGM のライオンの咆哮イントロを、モダンかつ重低音を効かせたバージョンで生成するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-MGM イントロのモダンバージョンで、咆哮をより大きく、重低音を強調したもの。私の内面を常に表現しているような感じです。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088481167909552128/img/Vl_YF05gwmNDq_Ci.jpg" width="600" alt="モダンな MGM イントロのリメイク">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9170)**
-
-**作者:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **ソース:** [Link](https://x.com/AMERICA250e9/status/2088481205649854466) | **公開日:** Aug 15, 2026
-
----
-### 崖っぷちでドラゴンを優しく迎える様子
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 崖の端に立つ人物が、優しく招くような仕草でドラゴンを歓迎するシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-私は崖の端に堂々と立ち、片手を広げてドラゴンの方へ差し出している。まるで旧友を歓迎するかのような、優しく招き入れる仕草だ。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088479193356984320/img/452nGQnbzrkX-2WJ.jpg" width="600" alt="崖っぷちでドラゴンを優しく迎える様子">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9174)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2088479596656177372) | **公開日:** Aug 15, 2026
-
----
-### 夕暮れ時の穏やかなドラゴンの絆
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 海辺の夕暮れ、少女と輝くドラゴンの間に流れる穏やかなひとときを描いた、情緒的で詩的なビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ドラゴンの頭がゆっくりと彼女の差し出した手の方へ下がり、鱗が柔らかな光を放ってきらめいている。風が彼女の長い髪と流れるようなドレスの裾を優しくなびかせ、ドラゴンの翼が静かに広がり夕焼けを捉える。背後では波が静かに打ち寄せ、ドラゴンの瞳が温かみを帯びて一度瞬き、口元がゆっくりと何かを知っているかのような微笑みを浮かべる。彼女の指先がドラゴンの鼻先に触れそうな距離で、黄金色の光が二人を包み込む……大きな動きはなく、純粋で穏やかな絆がそこにある。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088476460897972224/img/sLVfIOeXg862Y-dp.jpg" width="600" alt="夕暮れ時の穏やかなドラゴンの絆">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9168)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2088476669673627890) | **公開日:** Aug 15, 2026
-
----
-### SpaceX 火星着陸ランディングページアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夕暮れの火星に着陸する SpaceX Starship をテーマにしたハイエンドなランディングページデザイン。落ち着いたシャンパンカラーの色調と、動画モーションに適した映画のような奥行きが特徴です。
-
-#### 📝 プロンプト
-
-```
-夕暮れの火星に着陸する SpaceX Starship を想定したランディングページのヒーローセクションデザイン。ソフトで温かみのあるオフホワイトとペールストーンのキャンバスを基調とし、自然光を活かした大型でクリーンな写真イメージを採用。エレガントで落ち着いたシャンパンカラーとソフトグレーの色調に、繊細なシアンのアクセントを配置。極めてクリーンな構成、洗練されたハイエンドなタイポグラフィ、繊細なフローティングガラス要素、ゆとりのあるネガティブスペース、柔らかな拡散光が特徴です。ミニマルな技術的ディテール、洗練された高級感のあるプロダクト美学、穏やかで上品な雰囲気を演出。12k クオリティの超高精細なディテールと、滑らかな動画モーションに対応した映画のような奥行きを備えています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088337507327074304/img/4tOfZhmL6_bVVNmK.jpg" width="600" alt="SpaceX 火星着陸ランディングページアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9175)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **公開日:** Aug 14, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2178,6 +2178,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-24T05:08:41.444Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-24T09:12:42.728Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2573** |
+| 📝 Total Prompts | **2583** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-24** |
 
@@ -189,6 +189,101 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Auf Wolken zur Stadt aus Gold
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Fantasy-Video-Prompt, der eine Reise durch den Himmel zu einer himmlischen goldenen Stadt beschreibt.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Video, in dem er auf Wolken geht und sich einer goldenen Stadt im Himmel nähert
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="Auf Wolken zur Stadt aus Gold">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9746)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **Published:** Aug 24, 2026
+
+---
+### Tesla Semi Konvoi Nacht-Design
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein elegantes Design-Prompt für einen Autobahn-Konvoi, das sich auf sanftes, warmes Licht und eine raffinierte Ästhetik für Luxusprodukte konzentriert.
+
+#### 📝 Prompt
+
+```
+Design für den Hero-Bereich einer Landingpage mit einem Tesla Semi Konvoi auf einer nächtlichen Autobahn, sanftes warmes Off-White und blasser Steinfarbton als Hintergrund, großformatige, klare Fotografie mit sanftem natürlichem Licht, elegante gedeckte Champagner- und sanfte Grautöne, ultra-saubere Komposition, anspruchsvolle High-End-Typografie, sanfte diffuse Beleuchtung, polierte Luxusprodukt-Ästhetik, ruhige und raffinierte Atmosphäre
+```
+
+<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi Konvoi Nacht-Design">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
+
+---
+### Kinematischer langsamer Kameraschwenk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein technischer Prompt für einen professionellen, filmischen Look mit langsamen Kameraschwenks und sanften atmosphärischen Bewegungen für eine ruhige Stimmung.
+
+#### 📝 Prompt
+
+```
+sehr langsamer kinematischer Kameraschwenk, sanfte atmosphärische Bewegung, ruhige und friedliche Stimmung, elegante und geschmackvolle Bewegung, keine aggressiven Bewegungen, Zigarette rauchen, sehr langsamer kinematischer Kameraschwenk, sanfte atmosphärische Bewegung
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="Kinematischer langsamer Kameraschwenk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9750)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **Published:** Aug 24, 2026
+
+---
+### Tanzende Kuchen-Charakter-Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Image-to-Video-Prompt, der einen Kuchen in einen tanzenden Charakter mit Zylinder und Handschuhen verwandelt.
+
+#### 📝 Prompt
+
+```
+Verwandle diesen Kuchen in einen Charakter, der mit einem Zylinder, weißen Handschuhen, roten Schuhen und einem breiten Lächeln tanzt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="Tanzende Kuchen-Charakter-Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9751)**
+
+**Author:** [The Golden Duck](https://x.com/Chrihsteenuh) | **Source:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **Published:** Aug 23, 2026
+
+---
+### Transformation durch spirituelles Licht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt, der eine Frau beschreibt, die im Licht zu ihrem wahren Selbst aufsteigt.
+
+#### 📝 Prompt
+
+```
+Eine Frau mit schwarzem lockigem Haar, Konfektionsgröße 38, steigt unter dem Licht empor und wird zu ihrem wahren Selbst in der absoluten Schönheit Gottes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="Transformation durch spirituelles Licht">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9749)**
+
+**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
+
+---
 ### Laporta und Gil Marin Fußball-Deal
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +301,63 @@ Laporta besiegelt den Alvarez-Deal an einem Tisch mit Gil Marin....😃😃😃�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9704)**
 
 **Author:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **Source:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **Published:** Aug 23, 2026
+
+---
+### Sediment Coat Runway-Modenschau
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, filmischer Fashion-Prompt für einen langsamen Runway-Walk mit komplexen Texturen und spezifischen Beleuchtungsanweisungen.
+
+#### 📝 Prompt
+
+```
+Look 01 — Sediment Coat Ganzkörper-Editorial-Modefoto eines KI-Models namens AVA-9 bei einem Runway-Walk. Sie trägt einen strukturierten Trenchcoat aus handgeschichteter Wollfilz-Optik in horizontalen Bändern aus Ocker, Umbra und Anthrazit. Die Kanten sind leicht angeschliffen und ausgefranst, sodass die rohen Fasern zwischen den Schichten wie an einer Felswand hervortreten. Matte Stoffoberfläche, taillierte Schultern, wadenlanger Schnitt, offen über einer schlichten dunklen Basisschicht getragen. Minimalistischer, dunkler Runway-Hintergrund mit einem einzelnen Deckenstrahler, filmische Editorial-Modefotografie, scharfer Fokus auf Textur, 85mm-Objektiv-Look. Kamera + Beleuchtung: Niedriger Dreiviertelwinkel, Model läuft auf die Kamera zu; ein einzelner, harter Top-Down-Spotlight betont die geschichteten Bänder als gerichtete Schattenlinien; dunkler, nahtloser Hintergrund. Video/Motion-Hinweis: 4–6 Sekunden Clip, langsamer, selbstbewusster Gang auf die Kamera zu, der Mantelsaum schwingt leicht, Kamera bleibt ruhig oder macht einen langsamen Push-in; Ende mit einer 45°-Drehung, um das Seitenprofil der geschichteten Streifen zu zeigen. Negativer Prompt: kein glänzender Stoff, keine Pailletten, kein Blumenmuster, kein Farbverlauf (die Bänder müssen klar voneinander abgegrenzt bleiben), kein Lächeln/Glamour-Pose — Ausdruck neutral und gefasst.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091409505435471872/img/s9DbqZZu7mC4IOdW.jpg" width="600" alt="Sediment Coat Runway-Modenschau">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9753)**
+
+**Author:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **Source:** [Link](https://x.com/Shaiicalpineda/status/2091409536443670706) | **Published:** Aug 23, 2026
+
+---
+### Kitty und Mimmy: Der Süßigkeiten-Diebstahl
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt im Cartoon-Stil, bei dem Charaktere Ärger bekommen, weil sie Süßigkeiten stehlen und ins Gefängnis müssen.
+
+#### 📝 Prompt
+
+```
+Kitty und Mimmy stehlen die Süßigkeiten nicht, ihr seid alle in großen Schwierigkeiten: Sie weinen, ihre Mutter sagte, sie ruft die Polizei und bringt Kitty und Mimmy ins Gefängnis.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091373229449342976/img/22iUZv2HL1k61AEz.jpg" width="600" alt="Kitty und Mimmy: Der Süßigkeiten-Diebstahl">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9752)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091373253503709274) | **Published:** Aug 23, 2026
+
+---
+### Kitty und Mimmy: Animation vom Traumdieb
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein narrativer Video-Prompt, in dem Kitty und Mimmy auf einen Traumdieb treffen – ideal für die Erstellung niedlicher animierter Story-Sequenzen.
+
+#### 📝 Prompt
+
+```
+Kitty und Mimmy sehen den Traumdieb, der im Kissen schläft, und schreien: Kitty sagt, mach das Licht an: Mimmy sagt, stimmt, der Traumdieb versteckt sich im Kamin
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371899003568128/img/3dAMrBuymY9jLYOP.jpg" width="600" alt="Kitty und Mimmy: Animation vom Traumdieb">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9747)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371917827539054) | **Published:** Aug 23, 2026
 
 ---
 ### Geist erschreckt Süßes-oder-Saures-Kinder
@@ -244,6 +396,25 @@ Süßes oder Saures, der Geist ruft Buh und rennt weg, der Geist wünscht ein fr
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9696)**
 
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **Published:** Aug 23, 2026
+
+---
+### Weihnachtsmann-Rettung am Nordpol
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt zum Thema Feiertage, bei dem der Weihnachtsmann von einem bösen Elf am Nordpol gerettet wird.
+
+#### 📝 Prompt
+
+```
+Der Weihnachtsmann ruft um Hilfe und sie sind auf dem Weg, ihn vor dem bösen Elf am Nordpol zu retten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371098424123394/img/nasNynzhBNQNcrPu.jpg" width="600" alt="Weihnachtsmann-Rettung am Nordpol">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9748)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371115956388126) | **Published:** Aug 23, 2026
 
 ---
 ### Mission im biolumineszenten Alien-Wald
@@ -809,6 +980,25 @@ Aphrodite, ätherisch und strahlend, während ein Schmetterling seinen Weg zur G
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9571)**
 
 **Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2090395296123453698) | **Published:** Aug 20, 2026
+
+---
+### Nächtliche Küstenfahrt im Regen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer und atmosphärischer visueller Prompt für eine Lo-Fi-Mitternachtsszene mit einem schwarzen Auto auf Küstenstraßen und regnerischen Reflexionen im Morgengrauen.
+
+#### 📝 Prompt
+
+```
+nächtlicher Regen, ein leeres schwarzes Auto, Küstenstraßen, Reflexionen und das erste Licht vor der Morgendämmerung
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089976752764231681/img/ex_ZvRjPpa1rc4Fe.jpg" width="600" alt="Nächtliche Küstenfahrt im Regen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9755)**
+
+**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2089976937913462996) | **Published:** Aug 19, 2026
 
 ---
 ### Morgen-Selfie-Video-Monolog
@@ -1927,196 +2117,6 @@ Stellen Sie sich die Teilung des Roten Meeres vor, wie die Israeliten hindurchzi
 **Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **Published:** Aug 15, 2026
 
 ---
-### Gruppenporträt am Hofe der Kadscharen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für ein erstarrtes, formelles Gruppenporträt im Stil des Kadscharen-Hofes, das einen Fotografen und die Posen der Gruppe einfängt.
-
-#### 📝 Prompt
-
-```
-Das finale, erstarrte formelle Gruppenporträt nach der Aufnahme, Reste eines hellen Blitzlichts, jeder hält die perfekte Pose des Kadscharen-Hofes mit leichtem Lächeln oder ernsten Gesichtern, der Fotograf ist noch hinter der Kamera, aber der Fokus liegt auf der Gruppe. Gleiche Szene...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088645576078594048/img/tuDCJeWa2-Xbe8dU.jpg" width="600" alt="Gruppenporträt am Hofe der Kadscharen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9249)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2088645617228857732) | **Published:** Aug 15, 2026
-
----
-### Video-Loop mit schließender weißer Linie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein technischer Video-Prompt, der entwickelt wurde, um einen spezifischen Abschluss-Animationseffekt zu erzeugen, der zum ursprünglichen Referenzbild zurückkehrt.
-
-#### 📝 Prompt
-
-```
-Verwende ausschließlich mein Bild, sodass sich die weiße Linie darüber „schließt“ und das Video wieder zu diesem Bild zurückkehrt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088640902952599552/img/6zzuREmHS5z03NCM.jpg" width="600" alt="Video-Loop mit schließender weißer Linie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9245)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2088640917339029722) | **Published:** Aug 15, 2026
-
----
-### Märchenhafter Hintergrund-Vibe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Erzeugt einen gemütlichen und friedlichen Hintergrund im Märchenbuch-Stil für eine entspannte Samstagsstimmung.
-
-#### 📝 Prompt
-
-```
-Ein guter Vibe, ein märchenhafter Hintergrund und eine Auszeit vom hektischen Alltag.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088544687896317952/img/1u1vR3DTCRsOLx-o.jpg" width="600" alt="Märchenhafter Hintergrund-Vibe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9255)**
-
-**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2088544747900059948) | **Published:** Aug 15, 2026
-
----
-### Interaktion mit goldenem Licht an der Schnauze
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein poetischer Video-Prompt, der einen taktilen Moment mit tanzendem goldenen Licht und einer Charakterinteraktion einfängt.
-
-#### 📝 Prompt
-
-```
-ihre Finger berühren fast seine Schnauze, während goldenes Licht über beide tanzt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088487362472837120/img/z7hpOYjISu7I1mtg.jpg" width="600" alt="Interaktion mit goldenem Licht an der Schnauze">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9173)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088488663302779227) | **Published:** Aug 15, 2026
-
----
-### Nächtliches Abenteuer: Heimliches Ausschleichen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Prompt zur Generierung eines Videos, in dem sich ein Kind vorsichtig für ein nächtliches Abenteuer aus dem Haus schleicht, während die Mutter schläft.
-
-#### 📝 Prompt
-
-```
-Sicherstellen, dass die Mutter schläft, bevor es heimlich zu einem nächtlichen Abenteuer geht.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088485262443900928/img/FHHwZMwSUBc8WhiJ.jpg" width="600" alt="Nächtliches Abenteuer: Heimliches Ausschleichen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9185)**
-
-**Author:** [Christopher Gwinn | Grindhouse Glitch](https://x.com/ChrisGwinnLA) | **Source:** [Link](https://x.com/ChrisGwinnLA/status/2088485933494751406) | **Published:** Aug 15, 2026
-
----
-### Dialog über Mut im Café
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochwertiger, filmischer Prompt für eine dialoglastige Szene, der durch enge Nahaufnahmen und Handkameraführung Emotionen vermittelt.
-
-#### 📝 Prompt
-
-```
-Ein Mann und eine Frau unterhalten sich in einem Café über den Wert von Mut in einer Welt, die Feigheit belohnt. Filmische Regie und Kameraführung auf Prestige-Niveau. Enge Nahaufnahmen und Handkameraführung für emotionale Resonanz. Keine Totalen. Keine Musik. Die Mikro-Mimik in ihren Gesichtern vermittelt das Thema stärker als die Lautstärke ihrer Stimmen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088480964515123200/img/bibzKm-q7Urs6URB.jpg" width="600" alt="Dialog über Mut im Café">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9171)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088481490740916582) | **Published:** Aug 15, 2026
-
----
-### Modernes MGM-Intro-Remake
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung einer modernen und basslastigen Version des legendären MGM-Löwengebrüll-Intros.
-
-#### 📝 Prompt
-
-```
-Eine moderne Version des MGM-Intros mit lauterem Gebrüll und extra Bass – genau so fühle ich mich die ganze Zeit im Inneren.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088481167909552128/img/Vl_YF05gwmNDq_Ci.jpg" width="600" alt="Modernes MGM-Intro-Remake">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9170)**
-
-**Author:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **Source:** [Link](https://x.com/AMERICA250e9/status/2088481205649854466) | **Published:** Aug 15, 2026
-
----
-### Freundliche Begrüßung eines Drachen an der Klippe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt einer Person an einer Klippenkante, die einen Drachen mit einer sanften, einladenden Geste willkommen heißt.
-
-#### 📝 Prompt
-
-```
-Ich stehe aufrecht an der Klippenkante, eine Hand mit offener Handfläche dem Drachen entgegengestreckt, sanft und einladend, als würde ich einen alten Freund begrüßen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088479193356984320/img/452nGQnbzrkX-2WJ.jpg" width="600" alt="Freundliche Begrüßung eines Drachen an der Klippe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9174)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088479596656177372) | **Published:** Aug 15, 2026
-
----
-### Sanfte Drachenbindung bei Sonnenuntergang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein stimmungsvoller und poetischer Video-Prompt, der einen friedlichen Moment zwischen einem Mädchen und einem schimmernden Drachen bei Sonnenuntergang am Meer beschreibt.
-
-#### 📝 Prompt
-
-```
-Der Kopf des Drachen senkt sich langsam zu ihrer offenen Hand, die Schuppen schimmern in sanftem Licht, während der Wind ihr langes Haar und den Saum ihres fließenden Kleides sanft bewegt. Seine Flügel entfalten sich leise und fangen den Glanz des Sonnenuntergangs ein, während die Meereswellen im Hintergrund ruhig ausrollen. Die Augen des Drachen blinzeln einmal voller Wärme und sein Maul formt sich zu einem langsamen, wissenden Lächeln. Ihre Finger berühren fast seine Schnauze, während goldenes Licht über beide tanzt... eine rein sanfte Bindung, keine großen Bewegungen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088476460897972224/img/sLVfIOeXg862Y-dp.jpg" width="600" alt="Sanfte Drachenbindung bei Sonnenuntergang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9168)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088476669673627890) | **Published:** Aug 15, 2026
-
----
-### SpaceX Mars Landing Page Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein erstklassiges Landingpage-Design für die Landung des SpaceX Starship auf dem Mars in der Abenddämmerung, mit gedämpften Champagner-Tönen und filmischer Tiefe, bereit für Video-Animationen.
-
-#### 📝 Prompt
-
-```
-Design für den Hero-Bereich einer Landingpage zur Landung des SpaceX Starship auf dem Mars in der Abenddämmerung, sanfte, warme Off-White- und blasse Steintöne als Hintergrund, großflächige, klare fotografische Bildsprache mit sanftem natürlichem Licht, elegante, gedämpfte Champagner- und sanfte Grautöne mit dezenten Cyan-Akzenten, ultra-saubere Komposition, anspruchsvolle High-End-Typografie, subtile schwebende Glaselemente, großzügiger Weißraum, sanfte diffuse Beleuchtung, minimale technische Details, polierte Luxusprodukt-Ästhetik, ruhige und raffinierte Atmosphäre, ultra-hohe Detailgenauigkeit in 12k-Qualität, filmische Tiefe, bereit für flüssige Video-Animationen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088337507327074304/img/4tOfZhmL6_bVVNmK.jpg" width="600" alt="SpaceX Mars Landing Page Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9175)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2178,6 +2178,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T05:08:49.746Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T09:12:54.111Z</sub>
 
 </div>

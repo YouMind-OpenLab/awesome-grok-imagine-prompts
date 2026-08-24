@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2573** |
+| 📝 Total Prompts | **2583** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-24** |
 
@@ -189,6 +189,101 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Dạo bước trên mây hướng về Thành phố Vàng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video giả tưởng mô tả hành trình xuyên qua thiên đường để tiến về một thành phố vàng rực rỡ.
+
+#### 📝 Prompt
+
+```
+Tạo một video về anh ấy đang đi bộ trên những đám mây, anh ấy tiến gần đến một thành phố vàng trên thiên đường
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="Dạo bước trên mây hướng về Thành phố Vàng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9746)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **Published:** Aug 24, 2026
+
+---
+### Thiết kế đoàn xe Tesla Semi vào ban đêm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý thiết kế tinh tế cho đoàn xe trên đường cao tốc, tập trung vào ánh sáng ấm áp dịu nhẹ và thẩm mỹ sản phẩm sang trọng, tinh tế.
+
+#### 📝 Prompt
+
+```
+Thiết kế phần hero của trang đích cho đoàn xe Tesla Semi trên đường cao tốc vào ban đêm, phông nền màu trắng ấm nhạt và màu đá nhạt, hình ảnh chụp khổ lớn sắc nét với ánh sáng tự nhiên dịu nhẹ, tông màu sâm panh trầm thanh lịch và màu xám mềm mại, bố cục cực kỳ sạch sẽ, kiểu chữ cao cấp tinh tế, ánh sáng khuếch tán nhẹ nhàng, thẩm mỹ sản phẩm sang trọng bóng bẩy, bầu không khí điềm tĩnh và tinh tế
+```
+
+<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Thiết kế đoàn xe Tesla Semi vào ban đêm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
+
+---
+### Cú lia máy quay điện ảnh chậm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh kỹ thuật để đạt được vẻ ngoài điện ảnh chuyên nghiệp với các cú lia máy chậm và chuyển động khí quyển nhẹ nhàng, tạo nên bầu không khí thanh bình.
+
+#### 📝 Prompt
+
+```
+very slow cinematic camera pan, soft atmospheric movement, serene and peaceful mood, elegant and tasteful motion, no aggressive movement, smoke a cigarette very slow cinematic camera pan, soft atmospheric movement
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="Cú lia máy quay điện ảnh chậm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9750)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **Published:** Aug 24, 2026
+
+---
+### Biến hình nhân vật bánh kem nhảy múa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) chuyển đổi hình ảnh thành video, biến chiếc bánh kem thành một nhân vật đang nhảy múa với mũ chóp và găng tay.
+
+#### 📝 Prompt
+
+```
+Hãy biến chiếc bánh này thành một nhân vật đang nhảy múa, đội mũ chóp, đeo găng tay trắng, đi giày đỏ và nở nụ cười rạng rỡ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="Biến hình nhân vật bánh kem nhảy múa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9751)**
+
+**Author:** [The Golden Duck](https://x.com/Chrihsteenuh) | **Source:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **Published:** Aug 23, 2026
+
+---
+### Chuyển hóa Ánh sáng Tâm linh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh mô tả một người phụ nữ vươn mình qua ánh sáng để trở về với bản ngã đích thực.
+
+#### 📝 Prompt
+
+```
+Một người phụ nữ với mái tóc xoăn đen, vóc dáng size 8, đang vươn mình dưới ánh sáng để trở về với bản ngã đích thực trong vẻ đẹp tuyệt đối của thần linh
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="Chuyển hóa Ánh sáng Tâm linh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9749)**
+
+**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
+
+---
 ### Thỏa thuận bóng đá giữa Laporta và Gil Marin
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +301,63 @@ Laporta chốt thỏa thuận Alvarez quanh một chiếc bàn cùng với Gil M
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9704)**
 
 **Author:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **Source:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **Published:** Aug 23, 2026
+
+---
+### Trình diễn thời trang áo khoác Sediment Coat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) thời trang đậm chất điện ảnh, chi tiết cao cho bước đi chậm trên sàn runway, làm nổi bật các kết cấu phức tạp và hướng dẫn ánh sáng cụ thể.
+
+#### 📝 Prompt
+
+```
+Look 01 — Sediment Coat Ảnh thời trang biên tập toàn thân của người mẫu AI tên là AVA-9 đang sải bước trên sàn runway, mặc chiếc áo khoác trench coat có cấu trúc làm từ len nỉ xếp lớp thủ công theo các dải ngang màu vàng đất (ochre), nâu đất (umber) và xám than (charcoal), các cạnh được mài nhẹ và sờn để lộ sợi vải thô giữa các lớp như vách đá bị cắt, bề mặt vải lì, vai được may đo chuẩn xác, áo dài đến ngang bắp chân, mặc khoác ngoài lớp nền tối màu đơn giản, bối cảnh sàn runway tối giản với một đèn spotlight chiếu từ trên cao, nhiếp ảnh thời trang biên tập đậm chất điện ảnh, lấy nét sắc nét vào kết cấu, phong cách ống kính 85mm. Máy ảnh + ánh sáng: Góc thấp ba phần tư, người mẫu đi về phía máy ảnh; một đèn spotlight cứng chiếu từ trên xuống để làm nổi bật các dải xếp lớp thành những đường đổ bóng định hướng; phông nền tối không mối nối. Ghi chú về video/chuyển động: Clip dài 4–6 giây, bước đi chậm rãi đầy tự tin về phía máy ảnh, gấu áo đung đưa nhẹ, máy ảnh giữ nguyên hoặc từ từ tiến lại gần; kết thúc bằng cú xoay người 45° để lộ góc nghiêng của các dải xếp lớp. Negative prompt: không vải bóng, không kim sa, không họa tiết hoa, không pha trộn màu gradient (các dải màu phải tách biệt rõ ràng), không cười/tạo dáng quyến rũ — biểu cảm trung tính và điềm tĩnh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091409505435471872/img/s9DbqZZu7mC4IOdW.jpg" width="600" alt="Trình diễn thời trang áo khoác Sediment Coat">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9753)**
+
+**Author:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **Source:** [Link](https://x.com/Shaiicalpineda/status/2091409536443670706) | **Published:** Aug 23, 2026
+
+---
+### Vụ trộm kẹo của Kitty và Mimmy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt theo phong cách hoạt hình về các nhân vật gặp rắc rối vì ăn trộm kẹo và phải đối mặt với án tù.
+
+#### 📝 Prompt
+
+```
+Kitty và Mimmy không lấy trộm kẹo, tất cả các bạn gặp rắc rối lớn rồi: chúng khóc và mẹ chúng nói sẽ gọi cảnh sát để đưa Kitty và Mimmy vào tù
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091373229449342976/img/22iUZv2HL1k61AEz.jpg" width="600" alt="Vụ trộm kẹo của Kitty và Mimmy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9752)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091373253503709274) | **Published:** Aug 23, 2026
+
+---
+### Hoạt hình Kitty và Mimmy đối đầu kẻ trộm giấc mơ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video kể chuyện về Kitty và Mimmy khi chạm trán kẻ trộm giấc mơ, phù hợp để tạo các phân đoạn hoạt hình dễ thương.
+
+#### 📝 Prompt
+
+```
+Kitty và Mimmy nhìn thấy kẻ trộm giấc mơ đang ngủ trong chiếc gối và hét lên: Kitty nói hãy bật đèn lên: Mimmy nói đúng rồi, kẻ trộm giấc mơ đang trốn trong lò sưởi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371899003568128/img/3dAMrBuymY9jLYOP.jpg" width="600" alt="Hoạt hình Kitty và Mimmy đối đầu kẻ trộm giấc mơ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9747)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371917827539054) | **Published:** Aug 23, 2026
 
 ---
 ### Con ma dọa những người đi xin kẹo
@@ -244,6 +396,25 @@ Cho kẹo hay bị ghẹo, con ma nói bù và chạy mất, con ma chúc mừng
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9696)**
 
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **Published:** Aug 23, 2026
+
+---
+### Giải cứu ông già Noel tại Bắc Cực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt theo chủ đề ngày lễ, nơi ông già Noel được giải cứu khỏi một yêu tinh xấu xa tại Bắc Cực.
+
+#### 📝 Prompt
+
+```
+Ông già Noel đang kêu cứu và họ sẽ giải cứu ông khỏi yêu tinh xấu xa tại Bắc Cực
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371098424123394/img/nasNynzhBNQNcrPu.jpg" width="600" alt="Giải cứu ông già Noel tại Bắc Cực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9748)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371115956388126) | **Published:** Aug 23, 2026
 
 ---
 ### Nhiệm vụ trong khu rừng ngoài hành tinh phát quang sinh học
@@ -809,6 +980,25 @@ Nữ thần Aphrodite thanh tao và rạng rỡ, khi một chú bướm tìm đ�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9571)**
 
 **Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2090395296123453698) | **Published:** Aug 20, 2026
+
+---
+### Lái xe ven biển trong mưa đêm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý hình ảnh đầy chất điện ảnh và không khí cho khung cảnh lo-fi lúc nửa đêm, với chiếc xe màu đen trên những con đường ven biển cùng những vệt phản chiếu trong mưa lúc bình minh.
+
+#### 📝 Prompt
+
+```
+mưa đêm, một chiếc xe màu đen trống trải, những con đường ven biển, hình ảnh phản chiếu và ánh sáng đầu tiên trước bình minh
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089976752764231681/img/ex_ZvRjPpa1rc4Fe.jpg" width="600" alt="Lái xe ven biển trong mưa đêm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9755)**
+
+**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2089976937913462996) | **Published:** Aug 19, 2026
 
 ---
 ### Video độc thoại selfie buổi sáng
@@ -1927,196 +2117,6 @@ Hãy tưởng tượng cảnh Biển Đỏ rẽ nước, người Israel đang �
 **Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **Published:** Aug 15, 2026
 
 ---
-### Chân dung nhóm tại triều đình Qajar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) tạo ảnh chân dung nhóm trang trọng, tĩnh lặng theo phong cách triều đình Qajar, ghi lại khoảnh khắc nhiếp ảnh gia và các nhân vật đang tạo dáng.
-
-#### 📝 Prompt
-
-```
-Bức chân dung nhóm trang trọng, tĩnh lặng sau khi chụp, dư ảnh từ đèn flash sáng rực, mọi người giữ nguyên tư thế hoàn hảo của triều đình Qajar với nụ cười nhẹ hoặc gương mặt nghiêm nghị, nhiếp ảnh gia vẫn ở phía sau máy ảnh nhưng tiêu điểm là nhóm người. Cùng một bối cảnh...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088645576078594048/img/tuDCJeWa2-Xbe8dU.jpg" width="600" alt="Chân dung nhóm tại triều đình Qajar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9249)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2088645617228857732) | **Published:** Aug 15, 2026
-
----
-### Video lặp lại hiệu ứng đường kẻ trắng khép kín
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video kỹ thuật được thiết kế để tạo hiệu ứng hoạt ảnh kết thúc, lặp lại về hình ảnh tham chiếu ban đầu.
-
-#### 📝 Prompt
-
-```
-Chỉ sử dụng hình ảnh của tôi, để đường kẻ trắng phía trên nó “khép lại” và video quay trở về hình ảnh này
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088640902952599552/img/6zzuREmHS5z03NCM.jpg" width="600" alt="Video lặp lại hiệu ứng đường kẻ trắng khép kín">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9245)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2088640917339029722) | **Published:** Aug 15, 2026
-
----
-### Phong cách nền truyện tranh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo ra một hình nền phong cách truyện tranh ấm cúng và yên bình, mang lại cảm giác thư thái cho ngày thứ Bảy.
-
-#### 📝 Prompt
-
-```
-Một cảm giác dễ chịu, một hình nền phong cách truyện tranh và một khoảng lặng tách biệt khỏi mọi xô bồ, hối hả.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088544687896317952/img/1u1vR3DTCRsOLx-o.jpg" width="600" alt="Phong cách nền truyện tranh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9255)**
-
-**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2088544747900059948) | **Published:** Aug 15, 2026
-
----
-### Tương tác với mõm dưới ánh sáng vàng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video đầy chất thơ ghi lại khoảnh khắc xúc giác với ánh sáng vàng nhảy múa và sự tương tác của nhân vật.
-
-#### 📝 Prompt
-
-```
-những ngón tay của cô ấy gần như chạm vào mõm của nó khi ánh sáng vàng nhảy múa trên cả hai
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088487362472837120/img/z7hpOYjISu7I1mtg.jpg" width="600" alt="Tương tác với mõm dưới ánh sáng vàng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9173)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088488663302779227) | **Published:** Aug 15, 2026
-
----
-### Cuộc phiêu lưu lén lút đêm khuya
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh để tạo video về một đứa trẻ đang thận trọng lẻn ra ngoài cho một cuộc phiêu lưu đêm khuya trong khi mẹ đang ngủ.
-
-#### 📝 Prompt
-
-```
-Kiểm tra để chắc chắn rằng mẹ đã ngủ say trước khi lẻn ra ngoài cho một cuộc phiêu lưu đêm khuya.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088485262443900928/img/FHHwZMwSUBc8WhiJ.jpg" width="600" alt="Cuộc phiêu lưu lén lút đêm khuya">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9185)**
-
-**Author:** [Christopher Gwinn | Grindhouse Glitch](https://x.com/ChrisGwinnLA) | **Source:** [Link](https://x.com/ChrisGwinnLA/status/2088485933494751406) | **Published:** Aug 15, 2026
-
----
-### Đối thoại về lòng dũng cảm tại quán cà phê
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh chất lượng cao cho cảnh quay tập trung vào đối thoại, sử dụng các góc cận cảnh và kỹ thuật quay cầm tay để truyền tải cảm xúc.
-
-#### 📝 Prompt
-
-```
-Một người đàn ông và một người phụ nữ đang trò chuyện trong quán cà phê về giá trị của lòng dũng cảm trong một thế giới tôn vinh sự hèn nhát. Chất lượng đạo diễn và quay phim mang phong cách điện ảnh, đẳng cấp. Sử dụng các góc cận cảnh và kỹ thuật quay cầm tay để tạo sự cộng hưởng về cảm xúc. Không sử dụng các góc quay rộng. Không có âm nhạc. Những biểu cảm nhỏ trên khuôn mặt của họ truyền tải chủ đề hiệu quả hơn là âm lượng giọng nói.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088480964515123200/img/bibzKm-q7Urs6URB.jpg" width="600" alt="Đối thoại về lòng dũng cảm tại quán cà phê">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9171)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088481490740916582) | **Published:** Aug 15, 2026
-
----
-### Bản làm lại intro MGM hiện đại
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) để tạo ra phiên bản hiện đại và có âm trầm mạnh mẽ cho đoạn intro tiếng sư tử gầm mang tính biểu tượng của MGM.
-
-#### 📝 Prompt
-
-```
-Một phiên bản hiện đại của intro MGM với tiếng gầm lớn hơn và âm trầm mạnh hơn, đúng với cảm giác bên trong tôi mọi lúc
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088481167909552128/img/Vl_YF05gwmNDq_Ci.jpg" width="600" alt="Bản làm lại intro MGM hiện đại">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9170)**
-
-**Author:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **Source:** [Link](https://x.com/AMERICA250e9/status/2088481205649854466) | **Published:** Aug 15, 2026
-
----
-### Lời chào thân thiện với rồng trên vách đá
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đậm chất điện ảnh về một người đứng trên mép vách đá, chào đón rồng bằng một cử chỉ nhẹ nhàng, đầy thiện chí.
-
-#### 📝 Prompt
-
-```
-Tôi đang đứng hiên ngang trên mép vách đá, một tay vươn về phía con rồng với lòng bàn tay mở rộng, nhẹ nhàng và đầy thiện chí, như thể tôi đang chào đón một người bạn cũ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088479193356984320/img/452nGQnbzrkX-2WJ.jpg" width="600" alt="Lời chào thân thiện với rồng trên vách đá">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9174)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088479596656177372) | **Published:** Aug 15, 2026
-
----
-### Tình bạn dịu dàng với rồng lúc hoàng hôn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video đầy chất thơ và gợi cảm, mô tả khoảnh khắc bình yên giữa một cô gái và chú rồng lấp lánh bên bờ biển vào lúc hoàng hôn.
-
-#### 📝 Prompt
-
-```
-đầu chú rồng từ từ hạ xuống hướng về phía bàn tay đang mở của cô gái, những chiếc vảy lấp lánh ánh sáng dịu nhẹ trong khi gió khẽ lay động mái tóc dài và tà váy thướt tha của cô, đôi cánh của nó nhẹ nhàng dang rộng đón lấy ánh hoàng hôn rực rỡ, phía sau là những con sóng biển vỗ về tĩnh lặng, đôi mắt chú rồng chớp nhẹ đầy ấm áp và khuôn miệng khẽ cong lên một nụ cười thấu hiểu, những ngón tay cô gái gần như chạm vào mõm rồng khi ánh sáng vàng nhảy múa trên cả hai… một tình bạn thuần khiết và dịu dàng, không có những chuyển động mạnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088476460897972224/img/sLVfIOeXg862Y-dp.jpg" width="600" alt="Tình bạn dịu dàng với rồng lúc hoàng hôn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9168)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2088476669673627890) | **Published:** Aug 15, 2026
-
----
-### Hoạt ảnh trang đích hạ cánh xuống sao Hỏa của SpaceX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Thiết kế trang đích cao cấp cho tàu Starship của SpaceX hạ cánh xuống sao Hỏa vào lúc hoàng hôn, với tông màu sâm panh trầm và độ sâu điện ảnh sẵn sàng cho chuyển động video.
-
-#### 📝 Prompt
-
-```
-Thiết kế phần hero trang đích cho tàu Starship của SpaceX hạ cánh xuống sao Hỏa vào lúc hoàng hôn, khung nền màu trắng kem ấm áp nhẹ nhàng và màu đá nhạt, hình ảnh nhiếp ảnh sắc nét khổ lớn với ánh sáng tự nhiên dịu nhẹ, tông màu sâm panh trầm thanh lịch và màu xám mềm mại với các điểm nhấn màu lục lam tinh tế, bố cục cực kỳ sạch sẽ, kiểu chữ cao cấp tinh tế, các yếu tố kính nổi tinh tế, khoảng trắng rộng rãi, ánh sáng khuếch tán mềm mại, chi tiết kỹ thuật tối giản, thẩm mỹ sản phẩm sang trọng bóng bẩy, bầu không khí bình tĩnh và tinh tế, chất lượng 12k chi tiết cực cao, độ sâu điện ảnh sẵn sàng cho chuyển động video mượt mà
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088337507327074304/img/4tOfZhmL6_bVVNmK.jpg" width="600" alt="Hoạt ảnh trang đích hạ cánh xuống sao Hỏa của SpaceX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9175)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **Published:** Aug 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2178,6 +2178,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T05:08:45.726Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T09:12:46.819Z</sub>
 
 </div>

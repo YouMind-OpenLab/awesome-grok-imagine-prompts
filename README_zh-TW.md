@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2573** |
+| 📝 提示詞總數 | **2583** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-08-24** |
 
@@ -189,6 +189,101 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 漫步雲端，邁向黃金之城
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個奇幻影片提示詞，描述了一段穿越雲霄、前往天界黃金之城的旅程。
+
+#### 📝 提示詞
+
+```
+製作一段影片，畫面中他正漫步在雲端，並逐漸靠近一座位於天界的黃金之城
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="漫步雲端，邁向黃金之城">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9746)**
+
+**作者:** [GayBar](https://x.com/GayBar_Ai) | **來源:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **發布時間:** Aug 24, 2026
+
+---
+### Tesla Semi 車隊夜間設計
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個針對高速公路車隊的優雅設計提示詞，著重於柔和暖光與精緻的奢華產品美學。
+
+#### 📝 提示詞
+
+```
+Tesla Semi 車隊在夜間高速公路行駛的登陸頁面首屏設計，採用柔和暖米色與淺石色畫布，搭配超大尺寸的清晰攝影圖像與柔和自然光，呈現優雅的香檳金與柔灰色調，構圖極簡，採用精緻的高端排版，光線柔和擴散，展現洗鍊的奢華產品美學，營造平靜而優雅的氛圍
+```
+
+<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi 車隊夜間設計">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9754)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **發布時間:** Aug 24, 2026
+
+---
+### 電影級慢速運鏡
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一項技術提示詞，旨在透過慢速運鏡與柔和的氛圍感移動，營造出專業的電影質感與寧靜氛圍。
+
+#### 📝 提示詞
+
+```
+極慢的電影級運鏡，柔和的氛圍感移動，寧靜平和的意境，優雅且具品味的動態，無劇烈晃動，抽菸的極慢電影級運鏡，柔和的氛圍感移動
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="電影級慢速運鏡">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9750)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **發布時間:** Aug 24, 2026
+
+---
+### 跳舞蛋糕角色變身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個將蛋糕轉換為戴著高帽、穿著手套並跳舞的角色的「圖生影片」提示詞。
+
+#### 📝 提示詞
+
+```
+將這個蛋糕變成一個戴著高帽、穿著白手套、紅色鞋子並露出燦爛笑容跳舞的角色。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="跳舞蛋糕角色變身">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9751)**
+
+**作者:** [The Golden Duck](https://x.com/Chrihsteenuh) | **來源:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **發布時間:** Aug 23, 2026
+
+---
+### 靈光蛻變
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影質感的影片提示詞，描述一位女性在光芒中升起並蛻變為真實自我的過程。
+
+#### 📝 提示詞
+
+```
+一位留著黑色捲髮、穿著 8 號尺碼的女性，在光芒中升起，蛻變為絕對神聖之美的真實自我
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="靈光蛻變">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9749)**
+
+**作者:** [Star](https://x.com/Wednesdayo17) | **來源:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **發布時間:** Aug 23, 2026
+
+---
 ### Laporta 與 Gil Marin 的足球交易
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +301,63 @@ Laporta 與 Gil Marin 在桌邊敲定 Alvarez 的交易……😃😃😃😃�
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9704)**
 
 **作者:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **來源:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **發布時間:** Aug 23, 2026
+
+---
+### Sediment Coat 伸展台時尚走秀
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個高度細緻的電影感時尚提示詞，用於呈現慢速伸展台走秀，包含複雜的紋理與具體的燈光說明。
+
+#### 📝 提示詞
+
+```
+Look 01 — Sediment Coat 全身時尚編輯攝影，AI 模特兒 AVA-9 走在伸展台上，身穿結構感風衣，由赭色、赭褐色與炭灰色的羊毛氈手工層疊而成，邊緣經過輕微打磨與磨損，露出層間的原始纖維，宛如被切割的懸崖邊緣，霧面布料質感，剪裁俐落的肩部設計，風衣長度至小腿肚，內搭簡約深色底層服飾，極簡深色伸展台背景，上方僅有一盞聚光燈，電影感時尚編輯攝影，紋理對焦清晰，85mm 鏡頭視覺。攝影機與燈光：低角度四分之三側拍，模特兒朝鏡頭走來；單一硬光頂部聚光燈，強調層疊條紋的定向陰影線條；深色無縫背景。影片/動態備註：4–6 秒短片，朝鏡頭緩慢自信地行走，風衣下擺輕微擺動，攝影機保持靜止或緩慢推進；結尾以 45 度轉身，展現層疊條紋的側面輪廓。負面提示詞：無亮面布料、無亮片、無花卉圖案、無色彩漸層混合（條紋必須保持分明）、無微笑/魅力姿勢 — 表情保持中性與冷靜。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091409505435471872/img/s9DbqZZu7mC4IOdW.jpg" width="600" alt="Sediment Coat 伸展台時尚走秀">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9753)**
+
+**作者:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **來源:** [Link](https://x.com/Shaiicalpineda/status/2091409536443670706) | **發布時間:** Aug 23, 2026
+
+---
+### Kitty 與 Mimmy 偷糖果事件
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個卡通風格的影片提示詞，內容關於角色因偷竊糖果而惹上麻煩並面臨牢獄之災。
+
+#### 📝 提示詞
+
+```
+Kitty 和 Mimmy 你們偷了糖果，這下有大麻煩了：她們哭了，媽媽說要報警，並把 Kitty 和 Mimmy 帶去坐牢。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091373229449342976/img/22iUZv2HL1k61AEz.jpg" width="600" alt="Kitty 與 Mimmy 偷糖果事件">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9752)**
+
+**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **來源:** [Link](https://x.com/DavontaDav5iv/status/2091373253503709274) | **發布時間:** Aug 23, 2026
+
+---
+### Kitty 與 Mimmy 的夢境小偷動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個關於 Kitty 與 Mimmy 遇見夢境小偷的敘事影片提示詞，適合用於創作可愛的動畫故事片段。
+
+#### 📝 提示詞
+
+```
+Kitty 和 Mimmy 看見夢境小偷睡在枕頭裡並尖叫：Kitty 說把燈打開：Mimmy 說沒錯，夢境小偷躲在壁爐裡
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371899003568128/img/3dAMrBuymY9jLYOP.jpg" width="600" alt="Kitty 與 Mimmy 的夢境小偷動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9747)**
+
+**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **來源:** [Link](https://x.com/DavontaDav5iv/status/2091371917827539054) | **發布時間:** Aug 23, 2026
 
 ---
 ### 嚇跑不給糖就搗蛋者的幽靈
@@ -244,6 +396,25 @@ Laporta 與 Gil Marin 在桌邊敲定 Alvarez 的交易……😃😃😃😃�
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9696)**
 
 **作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **來源:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **發布時間:** Aug 23, 2026
+
+---
+### 聖誕老人北極救援行動
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個以節日為主題的影片提示詞，講述聖誕老人在北極被邪惡精靈綁架並獲救的故事。
+
+#### 📝 提示詞
+
+```
+聖誕老人正在呼救，他們即將前往北極將他從邪惡精靈手中救出
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091371098424123394/img/nasNynzhBNQNcrPu.jpg" width="600" alt="聖誕老人北極救援行動">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9748)**
+
+**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **來源:** [Link](https://x.com/DavontaDav5iv/status/2091371115956388126) | **發布時間:** Aug 23, 2026
 
 ---
 ### 生物發光外星森林任務
@@ -809,6 +980,25 @@ Met Gala 夜間紅毯活動，周圍有許多樹木，搭配景觀照明，現�
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9571)**
 
 **作者:** [Art Muse](https://x.com/art_muse) | **來源:** [Link](https://x.com/art_muse/status/2090395296123453698) | **發布時間:** Aug 20, 2026
+
+---
+### 午夜雨中海岸行駛
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個充滿電影感與氛圍的 lo-fi 午夜場景視覺提示詞，描繪了一輛黑色汽車在黎明時分行駛於雨後倒影的海岸公路上。
+
+#### 📝 提示詞
+
+```
+午夜雨景、空無一人的黑色汽車、海岸公路、倒影，以及黎明前的第一道曙光
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089976752764231681/img/ex_ZvRjPpa1rc4Fe.jpg" width="600" alt="午夜雨中海岸行駛">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9755)**
+
+**作者:** [Lacey](https://x.com/LaceyPresley) | **來源:** [Link](https://x.com/LaceyPresley/status/2089976937913462996) | **發布時間:** Aug 19, 2026
 
 ---
 ### 晨間自拍影片獨白
@@ -1927,196 +2117,6 @@ Tesla AI 登陸頁面首屏設計，深炭灰至近黑色的背景，超大沉�
 **作者:** [Hany N. Takla](https://x.com/HanyNTakla2) | **來源:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **發布時間:** Aug 15, 2026
 
 ---
-### 卡扎爾王朝宮廷團體肖像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個以卡扎爾王朝宮廷風格呈現的靜態正式團體肖像提示詞，捕捉了攝影師與團體成員的姿勢。
-
-#### 📝 提示詞
-
-```
-照片拍攝完成後最終呈現的靜態正式團體肖像，帶有明亮的閃光燈餘光，每個人都保持著完美的卡扎爾王朝宮廷姿勢，面帶微笑或神情嚴肅，攝影師仍在相機後方，但焦點在於團體本身。同一場景...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088645576078594048/img/tuDCJeWa2-Xbe8dU.jpg" width="600" alt="卡扎爾王朝宮廷團體肖像">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9249)**
-
-**作者:** [Cyperpienso](https://x.com/cyperpienso) | **來源:** [Link](https://x.com/cyperpienso/status/2088645617228857732) | **發布時間:** Aug 15, 2026
-
----
-### 閉合白線影片循環
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個技術性影片提示詞，旨在創建特定的閉合動畫效果，並循環回到原始參考圖像。
-
-#### 📝 提示詞
-
-```
-僅使用我的圖像，讓上方的白線「閉合」，並使影片回到此圖像狀態
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088640902952599552/img/6zzuREmHS5z03NCM.jpg" width="600" alt="閉合白線影片循環">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9245)**
-
-**作者:** [Ember Art](https://x.com/Ember8184Art) | **來源:** [Link](https://x.com/Ember8184Art/status/2088640917339029722) | **發布時間:** Aug 15, 2026
-
----
-### 故事書風格背景氛圍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為愜意的週六時光生成舒適且寧靜的故事書風格背景。
-
-#### 📝 提示詞
-
-```
-美好的氛圍、故事書般的背景，以及遠離塵囂的片刻休憩。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088544687896317952/img/1u1vR3DTCRsOLx-o.jpg" width="600" alt="故事書風格背景氛圍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9255)**
-
-**作者:** [Scarlett](https://x.com/scarlettzen1) | **來源:** [Link](https://x.com/scarlettzen1/status/2088544747900059948) | **發布時間:** Aug 15, 2026
-
----
-### 金色光影下的鼻尖互動
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段富有詩意的影片提示詞，捕捉了金色光影舞動與角色互動之間細膩的觸感瞬間。
-
-#### 📝 提示詞
-
-```
-她的手指幾乎觸碰到牠的鼻尖，金色的光影在兩人身上舞動
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088487362472837120/img/z7hpOYjISu7I1mtg.jpg" width="600" alt="金色光影下的鼻尖互動">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9173)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2088488663302779227) | **發布時間:** Aug 15, 2026
-
----
-### 深夜冒險：悄悄溜出門
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個電影級的提示詞，用於生成一段關於孩子在母親熟睡時，小心翼翼地溜出門進行深夜冒險的影片。
-
-#### 📝 提示詞
-
-```
-確認母親已經熟睡後，悄悄溜出門展開一場深夜冒險。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088485262443900928/img/FHHwZMwSUBc8WhiJ.jpg" width="600" alt="深夜冒險：悄悄溜出門">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9185)**
-
-**作者:** [Christopher Gwinn | Grindhouse Glitch](https://x.com/ChrisGwinnLA) | **來源:** [Link](https://x.com/ChrisGwinnLA/status/2088485933494751406) | **發布時間:** Aug 15, 2026
-
----
-### 咖啡廳裡的勇氣對話
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高品質的電影感提示詞，適用於對話密集的場景，透過特寫鏡頭與手持攝影來傳達情感。
-
-#### 📝 提示詞
-
-```
-一男一女在咖啡廳裡對話，討論在一個獎勵怯懦的世界中，勇氣的價值。電影級別，具備頂尖的導演與攝影水準。運用緊湊的特寫鏡頭與手持攝影來產生情感共鳴。無廣角鏡頭。無背景音樂。比起說話的音量，兩人臉上的微表情更能深刻傳達主題。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088480964515123200/img/bibzKm-q7Urs6URB.jpg" width="600" alt="咖啡廳裡的勇氣對話">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9171)**
-
-**作者:** [Rob Allan](https://x.com/allan_robII) | **來源:** [Link](https://x.com/allan_robII/status/2088481490740916582) | **發布時間:** Aug 15, 2026
-
----
-### 現代版 MGM 片頭重製
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於生成現代化且具備強勁低音效果的經典 MGM 獅子吼片頭的提示詞。
-
-#### 📝 提示詞
-
-```
-這是一個現代版的 MGM 片頭，有著更響亮的吼聲與額外的低音，這正是我內心深處時刻感受到的聲音。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088481167909552128/img/Vl_YF05gwmNDq_Ci.jpg" width="600" alt="現代版 MGM 片頭重製">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9170)**
-
-**作者:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **來源:** [Link](https://x.com/AMERICA250e9/status/2088481205649854466) | **發布時間:** Aug 15, 2026
-
----
-### 懸崖邊的友善飛龍問候
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影質感的影片提示詞：描述一個人站在懸崖邊，以溫柔且熱情的姿勢迎接飛龍。
-
-#### 📝 提示詞
-
-```
-我挺拔地站在懸崖邊，一隻手掌心向上向飛龍伸出，動作溫柔而熱情，就像在迎接一位老朋友。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088479193356984320/img/452nGQnbzrkX-2WJ.jpg" width="600" alt="懸崖邊的友善飛龍問候">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9174)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2088479596656177372) | **發布時間:** Aug 15, 2026
-
----
-### 夕陽下的溫柔龍之羈絆
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個充滿詩意與感染力的影片提示詞，描述了女孩與閃爍著光芒的龍在夕陽下的海邊共度的寧靜時刻。
-
-#### 📝 提示詞
-
-```
-龍的頭部緩緩向她張開的手掌靠近，鱗片在柔和的光線下閃爍，微風輕輕拂動她的長髮與飄逸的裙擺。龍的翅膀輕柔地舒展，捕捉著夕陽的餘暉，而身後的海浪靜靜地翻湧。龍的眼睛溫暖地眨了一下，嘴角勾起一抹緩慢而心領神會的微笑，她的指尖幾乎觸碰到龍的吻部，金色的光芒在兩者之間舞動……展現出純粹而溫柔的羈絆，沒有劇烈的動作。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088476460897972224/img/sLVfIOeXg862Y-dp.jpg" width="600" alt="夕陽下的溫柔龍之羈絆">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9168)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2088476669673627890) | **發布時間:** Aug 15, 2026
-
----
-### SpaceX 火星登陸頁面動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 SpaceX Starship 火星黃昏登陸場景設計的高端登陸頁面，採用柔和的香檳色調與具備影片動態效果的電影級景深。
-
-#### 📝 提示詞
-
-```
-SpaceX Starship 火星黃昏登陸頁面首屏設計，採用柔和溫暖的米白色與淡石色畫布，搭配大尺寸清晰攝影圖像與柔和自然光，優雅的柔和香檳色與淺灰色調，點綴細膩的青色，極簡構圖，精緻的高端排版，細微的懸浮玻璃元素，寬裕的留白，柔和的漫射光，極簡的技術細節，精緻的奢華產品美學，平靜而優雅的氛圍，12k 超高畫質細節，具備流暢影片動態效果的電影級景深
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088337507327074304/img/4tOfZhmL6_bVVNmK.jpg" width="600" alt="SpaceX 火星登陸頁面動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9175)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2088392724730761524) | **發布時間:** Aug 14, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2178,6 +2178,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-24T05:08:40.477Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-24T09:12:41.703Z</sub>
 
 </div>
