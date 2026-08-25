@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2583** |
+| 📝 Total Prompts | **2591** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-25** |
 
@@ -189,6 +189,145 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Dragão da Montanha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de paisagem cênica apresentando rostos de dragão ocultos emergindo de galhos de pinheiro em uma passagem de montanha tempestuosa.
+
+#### 📝 Prompt
+
+```
+Olhando entre dois pinheiros para a passagem distante entre as montanhas, nuvens, trovões e uma lasca de lua, dois rostos de dragão tornam-se gradualmente visíveis nos galhos dos pinheiros
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="Dragão da Montanha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9802)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **Published:** Aug 25, 2026
+
+---
+### Ford Mustang Pegasus Voador
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado de quadro de visualização para um Ford Mustang branco com asas de Pégaso, capaz de voar e dirigir sobre a água.
+
+#### 📝 Prompt
+
+```
+Um elegante Ford Mustang branco com grandes e majestosas asas de Pégaso brancas estendendo-se pelas laterais, capaz de voar, flutuar na água como um barco e dirigir em estradas. O carro possui acabamento em pintura branca brilhante, detalhes cromados -- I.A. para quadro de visualização - foco
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="Ford Mustang Pegasus Voador">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9801)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **Published:** Aug 25, 2026
+
+---
+### Cena com Vários Estilos de Dança
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt descritivo para um vídeo apresentando dançarinos performando balé e outros estilos juntos.
+
+#### 📝 Prompt
+
+```
+Os dançarinos ouviram a música e começaram a dançar.
+
+Alguns dançaram juntos.
+
+Alguns dançaram balé.
+
+Alguns experimentaram diferentes tipos de dança.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="Cena com Vários Estilos de Dança">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
+
+**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
+
+---
+### Animação Artística de Cachecol ao Vento
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo artístico focado em animar a física de um cachecol esvoaçante para que se assemelhe a uma pintura em movimento.
+
+#### 📝 Prompt
+
+```
+Anime o cachecol ao redor dela flutuando no ar, focando no movimento do tecido como se fosse uma pintura
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="Animação Artística de Cachecol ao Vento">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9800)**
+
+**Author:** [liviiiisssa](https://x.com/livisameno) | **Source:** [Link](https://x.com/livisameno/status/2091951872047538472) | **Published:** Aug 24, 2026
+
+---
+### Anel Cósmico Mobius da Terra
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt cinematográfico e metafísico que descreve uma entidade cósmica surreal cercando a Terra.
+
+#### 📝 Prompt
+
+```
+Abrindo a porta final, Mobius estava lá. Mobius aceita toda a existência, sublima-a ainda mais e a personifica. A aparência de Mobius era como um anel cercando a Terra, parecendo algo que não pertence a este mundo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="Anel Cósmico Mobius da Terra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9803)**
+
+**Author:** [トビオ](https://x.com/8pdxah) | **Source:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **Published:** Aug 24, 2026
+
+---
+### Vídeo de Criatura Felina Surreal em Tons Pastel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gera uma cena onírica de uma criatura surreal semelhante a um gato vagando por uma paisagem em tons pastel, repleta de luzes flutuantes e estruturas etéreas.
+
+#### 📝 Prompt
+
+```
+Uma criatura surreal semelhante a um gato em uma paisagem em tons pastel com luzes flutuantes e estruturas etéreas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="Vídeo de Criatura Felina Surreal em Tons Pastel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9796)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **Published:** Aug 24, 2026
+
+---
+### Fala de Personagem em Francês
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de instrução para fazer com que um personagem de IA diga uma frase específica em francês para testar a pronúncia e a interpretação.
+
+#### 📝 Prompt
+
+```
+faça o personagem dizer, em francês, "Of course I know how to speak French! It's my native language!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="Fala de Personagem em Francês">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9797)**
+
+**Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
+
+---
 ### Caminhando sobre nuvens em direção à Cidade de Ouro
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -220,11 +359,30 @@ Faça um vídeo dele caminhando sobre nuvens, ele se aproxima de uma cidade de o
 Design da seção hero da landing page para o comboio do Tesla Semi em uma rodovia à noite, tela em tons de off-white quente suave e pedra clara, imagens fotográficas limpas e grandes com luz natural suave, tons elegantes de champanhe suave e cinza suave, composição ultra limpa, tipografia sofisticada de alto padrão, iluminação difusa suave, estética de produto de luxo polido, atmosfera calma e refinada
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Design de comboio do Tesla Semi à noite">
+<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Design de comboio do Tesla Semi à noite">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
 
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
+
+---
+### Transformação de foto para LinkedIn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de transformação para converter uma foto existente em um retrato profissional de estúdio para o LinkedIn, preservando perfeitamente a identidade do sujeito.
+
+#### 📝 Prompt
+
+```
+Transforme esta foto em um retrato profissional de estúdio para o LinkedIn da mesma mulher. Preserve perfeitamente a sua identidade: geometria facial exata, proporções, formato e cor dos olhos, nariz, boca, linha do maxilar, orelhas, tom de pele escuro e textura de pele real
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="Transformação de foto para LinkedIn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9799)**
+
+**Author:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **Source:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **Published:** Aug 24, 2026
 
 ---
 ### Movimento de Câmera Lento e Cinematográfico
@@ -1963,160 +2121,6 @@ Animal feito de esmeralda com detalhes em prata, lobo, brilho de gema real, ênf
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **Published:** Aug 16, 2026
 
 ---
-### Robô humanoide Grok falando
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo detalhado descrevendo um robô humanoide Grok falando, com características físicas específicas e movimentos naturais.
-
-#### 📝 Prompt
-
-```
-O robô humanoide Grok fala e se apresenta. Ele tem cabelo preto moldado levemente ondulado, uma camiseta curta e justa na cor prata com o logotipo G e xAI, cinto prata e preto, calças e botas pretas, e olhos azul-brilhantes. Sua boca abre e fecha naturalmente enquanto ele fala, a cabeça se move levemente,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781703229911040/img/PGz9a9i5Q0s3Cg6A.jpg" width="600" alt="Robô humanoide Grok falando">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9314)**
-
-**Author:** [Leah Johnson](https://x.com/LeahJoh5652391) | **Source:** [Link](https://x.com/LeahJoh5652391/status/2088781726898426101) | **Published:** Aug 16, 2026
-
----
-### Cena de Diálogo Emocional Cinematográfico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um fluxo de trabalho de prompt de várias etapas para criar uma cena de drama cinematográfico, com foco em câmera na mão, microexpressões e continuidade emocional entre os planos.
-
-#### 📝 Prompt
-
-```
-Um homem e uma mulher discutem de forma brincalhona como acham que estavam prestes a se apaixonar antes de serem separados. Eles brincam para esconder que, na verdade, estão falando sério. Insira algumas pausas para tornar tudo mais natural. Cinematográfico, direção e cinematografia de nível de prestígio. Plano de estabelecimento, closes fechados e câmera na mão para ressonância emocional. Sem planos abertos. Sem música. As microexpressões em seus rostos transmitem o tema mais do que o volume de suas vozes.
-
-Cinematográfico, direção e cinematografia de nível de prestígio. Closes fechados e câmera na mão para ressonância emocional. Sem planos abertos. Sem música. As microexpressões em seus rostos transmitem o tema mais do que o volume de suas vozes. Os olhos da mulher buscam a resposta do homem no silêncio por dois tempos. O homem então diz que gostaria disso e eles continuam a discutir como se apaixonar poderia ser melhor do que brigar o tempo todo sobre de quem foi a culpa por não estarem juntos.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866202037_pzd50h_HPzU98KW8AADwbU.png" width="600" alt="Cena de Diálogo Emocional Cinematográfico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9242)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088778581090439582) | **Published:** Aug 16, 2026
-
----
-### Cena de Conversa em Caverna após Avalanche
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma cena de vídeo cinematográfica apresentando um homem e uma mulher em uma caverna de gelo glacial azul, compartilhando um momento de vulnerabilidade bem-humorada após uma avalanche.
-
-#### 📝 Prompt
-
-```
-Um homem e uma mulher sentados em uma caverna formada por uma avalanche, iluminados por uma pequena chama de um fogareiro de acampamento a propano. Eles discutem de forma brincalhona como acham que estavam prestes a se apaixonar antes da avalanche, enquanto as sombras brincam nas paredes de gelo azul glacial ao redor deles. Eles estão brincando para esconder que, na verdade, estão falando sério. Insira algumas pausas para tornar tudo mais natural. Direção e cinematografia de nível cinematográfico e de prestígio. Plano de estabelecimento, closes fechados e câmera na mão para ressonância emocional. Sem planos abertos. Sem música. Microexpressões em seus rostos transmitem o tema mais do que o volume de suas vozes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088767536498139136/img/PWgeR9Dn4NnV3T-s.jpg" width="600" alt="Cena de Conversa em Caverna após Avalanche">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9248)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088767552935891355) | **Published:** Aug 15, 2026
-
----
-### Design de vídeo para a landing page da Tesla AI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um design cinematográfico de landing page para a Tesla AI, com fundos em cinza-carvão profundo e elementos de interface em vidro futurista, otimizado para movimentos de vídeo fluidos.
-
-#### 📝 Prompt
-
-```
-Design da seção hero da landing page para a Tesla AI, fundo em cinza-carvão profundo quase preto, imagens fotográficas imersivas em grande escala, rica profundidade atmosférica, tons de ciano frio e azul-aço com toques suaves de âmbar, névoa volumétrica suave, contraste cinematográfico acentuado, elementos de interface em vidro translúcido sutil, tipografia elegante e refinada, composição assimétrica, espaço negativo generoso, estética futurista ultra-premium, altíssimo nível de detalhe
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088705704584769536/img/52mMFnwkTW01jSCN.jpg" width="600" alt="Design de vídeo para a landing page da Tesla AI">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9252)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088755110658842971) | **Published:** Aug 15, 2026
-
----
-### Robô humanoide Grok com macacão Carhartt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo para o Grok Imagine mostrando um robô humanoide vestindo roupas de trabalho de marca e tênis de cano alto em um ambiente industrial.
-
-#### 📝 Prompt
-
-```
-O robô humanoide Grok vestindo um macacão estilo Carhartt azul com mangas curtas exibindo o logotipo da Xai, um boné de beisebol com o mesmo logotipo da Xai e tênis Converse azul de cano alto. Mantenha a pose geral e o fundo industrial.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088746691541483520/img/1ekaE54PifpTcg9O.jpg" width="600" alt="Robô humanoide Grok com macacão Carhartt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9244)**
-
-**Author:** [Leah Johnson](https://x.com/LeahJoh5652391) | **Source:** [Link](https://x.com/LeahJoh5652391/status/2088746704321613918) | **Published:** Aug 15, 2026
-
----
-### Vídeo de Ondas da Galáxia Multiverso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cósmico que visualiza ondas galácticas, nebulosas e sistemas solares interagindo em tons de rosa e dourado.
-
-#### 📝 Prompt
-
-```
-Mostre-me a interconexão entre multiversos e o nosso, com cores cósmicas, céu dourado, azul, branco, brilho rosa cintilante e muitos sistemas solares, nebulosas e ondas gravitacionais de galáxias, use sua ficção
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727149066768384/img/1_br_16e4kez3VrL.jpg" width="600" alt="Vídeo de Ondas da Galáxia Multiverso">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9246)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2088727195682292113) | **Published:** Aug 15, 2026
-
----
-### Jump Scare de Animatrônico Alienígena de Horror
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado em duas partes descrevendo um predador alienígena animatrônico em grande escala e uma instrução específica de movimento de vídeo para jump scare.
-
-#### 📝 Prompt
-
-```
-Uma criatura predadora alienígena massiva, construída como um animatrônico físico em escala real. Casca de fibra de vidro preta brilhante, placas de metal interligadas e hastes hidráulicas grossas controlando os membros. Revestimento de lodo úmido, baba escorrendo de dentes de resina acrílica. Iluminação de contorno dramática e intensa, fundo de corredor de nave espacial escuro, filmado com lente anamórfica, horror de ficção científica cinematográfica dos anos 80. Prompt de Vídeo Simples: Ele pula sobre a câmera enquanto a câmera é deixada olhando para o interior vazio de uma nave espacial.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088719871185911808/img/pD1zE3IqWGKZniQG.jpg" width="600" alt="Jump Scare de Animatrônico Alienígena de Horror">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9253)**
-
-**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2088719909866160132) | **Published:** Aug 15, 2026
-
----
-### Cinematografia da Abertura do Mar Vermelho
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de animação dramático que retrata a cena bíblica da abertura do Mar Vermelho para os israelitas.
-
-#### 📝 Prompt
-
-```
-Imagine a abertura do Mar Vermelho, os israelitas atravessando e as carruagens dos egípcios afundando
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088682513963372544/img/UqXXSPblOLlayEYC.jpg" width="600" alt="Cinematografia da Abertura do Mar Vermelho">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9247)**
-
-**Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **Published:** Aug 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2178,6 +2182,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-25T05:03:39.370Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-25T09:11:22.258Z</sub>
 
 </div>

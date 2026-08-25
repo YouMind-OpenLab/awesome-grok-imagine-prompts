@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2583** |
+| 📝 提示詞總數 | **2591** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-08-25** |
 
@@ -189,6 +189,145 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 山中龍樹
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一幅風景提示詞，描繪在暴風雨的山隘中，從松枝間隱約浮現的龍臉。
+
+#### 📝 提示詞
+
+```
+透過兩棵松樹望向遠處的山隘，雲層中雷聲轟鳴，一彎新月隱現，兩張龍臉在松樹枝葉間逐漸清晰可見
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="山中龍樹">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9802)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **發布時間:** Aug 25, 2026
+
+---
+### 飛馬野馬跑車
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個關於白色 Ford Mustang 配備飛馬翅膀的詳細 vision board 提示詞，該車具備飛行與水面行駛能力。
+
+#### 📝 提示詞
+
+```
+一輛流線型白色 Ford Mustang 肌肉車，兩側伸展出巨大且雄偉的白色飛馬翅膀，具備飛行、像船一樣漂浮在水面上以及在道路上行駛的能力。車身採用亮面白色烤漆，搭配鍍鉻細節 -- 用於 vision board 的 A.I. 提示詞 - 聚焦
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="飛馬野馬跑車">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9801)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **發布時間:** Aug 25, 2026
+
+---
+### 多種舞蹈風格場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段關於舞者共同表演芭蕾舞及其他風格舞蹈的影片描述提示詞。
+
+#### 📝 提示詞
+
+```
+舞者們聆聽著音樂，開始翩翩起舞。
+
+有些人一起跳舞。
+
+有些人跳著芭蕾舞。
+
+有些人嘗試了不同類型的舞蹈。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="多種舞蹈風格場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9798)**
+
+**作者:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **來源:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **發布時間:** Aug 25, 2026
+
+---
+### 飄逸絲巾藝術動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個藝術影片提示詞，旨在模擬飄逸絲巾的物理動態，使其呈現出如流動畫作般的視覺效果。
+
+#### 📝 提示詞
+
+```
+讓她周圍的絲巾隨風飄動，我們將重點放在如畫作般流動的布料質感上
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="飄逸絲巾藝術動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9800)**
+
+**作者:** [liviiiisssa](https://x.com/livisameno) | **來源:** [Link](https://x.com/livisameno/status/2091951872047538472) | **發布時間:** Aug 24, 2026
+
+---
+### 莫比烏斯宇宙地球環
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一段描述環繞地球的超現實宇宙實體的電影感與形而上學提示詞。
+
+#### 📝 提示詞
+
+```
+打開最後一扇門，Mobius 就在那裡。Mobius 接納一切存在，將其進一步昇華並具象化。Mobius 的外觀宛如環繞地球的圓環，看起來像是超脫於這個世界的存在。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="莫比烏斯宇宙地球環">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9803)**
+
+**作者:** [トビオ](https://x.com/8pdxah) | **來源:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **發布時間:** Aug 24, 2026
+
+---
+### 超現實粉彩貓咪生物影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一個夢幻般的場景，描繪一隻超現實的貓科生物漫步在充滿漂浮光點與空靈建築的粉彩景觀中。
+
+#### 📝 提示詞
+
+```
+一隻漫步在充滿漂浮光點與空靈建築的粉彩景觀中的超現實貓科生物。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="超現實粉彩貓咪生物影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9796)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **發布時間:** Aug 24, 2026
+
+---
+### 法語角色對話
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個指令提示詞，用於讓 AI 角色以法語說出特定短語，以測試其發音與演技。
+
+#### 📝 提示詞
+
+```
+讓角色以法語說出：「Of course I know how to speak French! It's my native language!」（當然，我會說法語！這是我的母語！）
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="法語角色對話">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9797)**
+
+**作者:** [Gilles Guerraz](https://x.com/gillesguerraz) | **來源:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **發布時間:** Aug 24, 2026
+
+---
 ### 漫步雲端，邁向黃金之城
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -220,11 +359,30 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 Tesla Semi 車隊在夜間高速公路行駛的登陸頁面首屏設計，採用柔和暖米色與淺石色畫布，搭配超大尺寸的清晰攝影圖像與柔和自然光，呈現優雅的香檳金與柔灰色調，構圖極簡，採用精緻的高端排版，光線柔和擴散，展現洗鍊的奢華產品美學，營造平靜而優雅的氛圍
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi 車隊夜間設計">
+<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi 車隊夜間設計">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9754)**
 
 **作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **發布時間:** Aug 24, 2026
+
+---
+### LinkedIn 專業形象照轉換
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個轉換提示詞，能將現有照片轉化為專業級的 LinkedIn 形象照，同時完美保留人物的個人特徵。
+
+#### 📝 提示詞
+
+```
+將此照片轉換為同一位女性的專業級 LinkedIn 形象照。請完美保留她的個人特徵：精確的面部幾何結構、比例、眼睛形狀與顏色、鼻子、嘴巴、下顎線、耳朵、深色膚色以及真實的皮膚紋理。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="LinkedIn 專業形象照轉換">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9799)**
+
+**作者:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **來源:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **發布時間:** Aug 24, 2026
 
 ---
 ### 電影級慢速運鏡
@@ -1963,160 +2121,6 @@ Hello Kitty 從商店裡偷了糖果：媽媽說過不准偷糖果，妳這下�
 **作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **來源:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **發布時間:** Aug 16, 2026
 
 ---
-### Grok 人形機器人說話
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段詳細的影片提示詞，描述 Grok 人形機器人說話時的特定身體特徵與自然動作。
-
-#### 📝 提示詞
-
-```
-Grok 人形機器人正在說話並進行自我介紹。他留著黑色模壓微捲的頭髮，身穿合身的銀色短袖 T 恤，上面印有 G 和 xAI 的標誌，配戴銀黑相間的腰帶，穿著黑色長褲與靴子，擁有一雙明亮的藍色眼睛。當他說話時，嘴巴自然地開合，頭部也會微微擺動，...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781703229911040/img/PGz9a9i5Q0s3Cg6A.jpg" width="600" alt="Grok 人形機器人說話">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9314)**
-
-**作者:** [Leah Johnson](https://x.com/LeahJoh5652391) | **來源:** [Link](https://x.com/LeahJoh5652391/status/2088781726898426101) | **發布時間:** Aug 16, 2026
-
----
-### 電影感情感對話場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一套用於創作電影感戲劇場景的多階段提示詞工作流，專注於手持攝影、微表情捕捉以及鏡頭間的情感連貫性。
-
-#### 📝 提示詞
-
-```
-一男一女半開玩笑地討論著，在他們分開之前，他們以為自己差點就要墜入愛河了。他們用玩笑來掩飾內心的真心話。加入一些停頓，讓對話顯得更自然。電影級別的導演與攝影品質。包含建立鏡頭、緊湊的特寫鏡頭以及用於增強情感共鳴的手持攝影。不使用廣角鏡頭。無背景音樂。臉部的微表情比說話的音量更能傳達主題。
-
-電影級別的導演與攝影品質。緊湊的特寫鏡頭與用於增強情感共鳴的手持攝影。不使用廣角鏡頭。無背景音樂。臉部的微表情比說話的音量更能傳達主題。女子在沉默中注視著男子的反應，持續兩拍。隨後男子表示他會喜歡那樣，接著他們繼續討論墜入愛河或許比總是爭吵是誰的錯才導致他們無法在一起要好得多。
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866202037_pzd50h_HPzU98KW8AADwbU.png" width="600" alt="電影感情感對話場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9242)**
-
-**作者:** [Rob Allan](https://x.com/allan_robII) | **來源:** [Link](https://x.com/allan_robII/status/2088778581090439582) | **發布時間:** Aug 16, 2026
-
----
-### 雪崩洞穴對話場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影感十足的影片場景，描述一男一女在藍色冰川洞穴中，在雪崩後分享一段幽默且脆弱的時刻。
-
-#### 📝 提示詞
-
-```
-一男一女坐在由雪崩形成的洞穴中，由一個小型開放式丙烷露營爐點亮。他們開玩笑地討論在雪崩前他們以為自己即將墜入愛河，同時陰影在環繞他們的冰川藍冰牆上閃爍。他們透過開玩笑來掩飾內心的真心話。加入一些停頓，使對話顯得更自然。電影級別的導演與攝影品質。包含建立鏡頭、緊湊的特寫鏡頭以及手持攝影以增強情感共鳴。不使用廣角鏡頭。無背景音樂。臉部的細微表情比說話的音量更能傳達主題。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088767536498139136/img/PWgeR9Dn4NnV3T-s.jpg" width="600" alt="雪崩洞穴對話場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9248)**
-
-**作者:** [Rob Allan](https://x.com/allan_robII) | **來源:** [Link](https://x.com/allan_robII/status/2088767552935891355) | **發布時間:** Aug 15, 2026
-
----
-### Tesla AI 登陸頁面影片設計
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一款為 Tesla AI 設計的電影級登陸頁面，採用深炭灰色背景與未來感玻璃 UI 元素，並針對流暢的影片動態進行了優化。
-
-#### 📝 提示詞
-
-```
-Tesla AI 登陸頁面首屏設計，深炭灰至近黑色的背景，超大沉浸式攝影圖像，豐富的氛圍深度，冷青色與鋼藍色搭配柔和的琥珀色點綴，柔和的體積霧感，鮮明的電影級對比，細膩的半透明玻璃 UI 元素，優雅精緻的排版，不對稱構圖，充足的留白，極致奢華的未來感美學，超高細節呈現
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088705704584769536/img/52mMFnwkTW01jSCN.jpg" width="600" alt="Tesla AI 登陸頁面影片設計">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9252)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2088755110658842971) | **發布時間:** Aug 15, 2026
-
----
-### 穿著 Carhartt 連身工作服的 Grok 人形機器人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個適用於 Grok Imagine 的影片提示詞，展示了一位穿著品牌工作服與高筒運動鞋的人形機器人，場景設定在工業環境中。
-
-#### 📝 提示詞
-
-```
-穿著藍色 Carhartt 風格短袖連身工作服的 Grok 人形機器人，工作服上印有 Xai 標誌，頭戴印有相同 Xai 標誌的棒球帽，並穿著藍色 Converse 高筒運動鞋。請保持整體姿勢與工業背景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088746691541483520/img/1ekaE54PifpTcg9O.jpg" width="600" alt="穿著 Carhartt 連身工作服的 Grok 人形機器人">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9244)**
-
-**作者:** [Leah Johnson](https://x.com/LeahJoh5652391) | **來源:** [Link](https://x.com/LeahJoh5652391/status/2088746704321613918) | **發布時間:** Aug 15, 2026
-
----
-### 多元宇宙銀河波影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個呈現銀河波、星雲以及相互作用的太陽系之宇宙影片提示詞，以粉色與金色的光芒為特色。
-
-#### 📝 提示詞
-
-```
-請為我展示多元宇宙與我們宇宙之間的交互作用，運用宇宙真實色彩、金色、天藍色、白色、閃耀的粉色光芒，以及眾多太陽系、星雲和銀河重力波，發揮你的想像力。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727149066768384/img/1_br_16e4kez3VrL.jpg" width="600" alt="多元宇宙銀河波影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9246)**
-
-**作者:** [KENDREIK Artist](https://x.com/kendreik) | **來源:** [Link](https://x.com/kendreik/status/2088727195682292113) | **發布時間:** Aug 15, 2026
-
----
-### 外星電子動畫恐怖跳躍驚嚇
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的兩部分提示詞，描述了高規格的電子動畫外星掠食者，以及具體的跳躍驚嚇影片運鏡指令。
-
-#### 📝 提示詞
-
-```
-一隻巨大的外星頂級掠食生物，以全尺寸實體電子動畫打造。閃爍著光澤的黑色玻璃纖維外殼、相互咬合的金屬板，以及控制四肢的厚重液壓桿。覆蓋著濕潤的黏液，壓克力樹脂牙齒上滴落著口水。強烈的戲劇性輪廓光，背景為黑暗的太空船走廊，使用變形鏡頭拍攝，呈現 1980 年代電影級科幻恐怖風格。簡易影片提示詞：當鏡頭停留在太空船內部的空景時，牠跳過鏡頭。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088719871185911808/img/pD1zE3IqWGKZniQG.jpg" width="600" alt="外星電子動畫恐怖跳躍驚嚇">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9253)**
-
-**作者:** [NYXEN](https://x.com/NYXEN_77) | **來源:** [Link](https://x.com/NYXEN_77/status/2088719909866160132) | **發布時間:** Aug 15, 2026
-
----
-### 紅海分開電影級畫面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個戲劇性的動畫提示詞，描繪了聖經中紅海為以色列人分開的場景。
-
-#### 📝 提示詞
-
-```
-想像紅海分開、以色列人通過以及埃及戰車沉沒的畫面
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088682513963372544/img/UqXXSPblOLlayEYC.jpg" width="600" alt="紅海分開電影級畫面">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9247)**
-
-**作者:** [Hany N. Takla](https://x.com/HanyNTakla2) | **來源:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **發布時間:** Aug 15, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2178,6 +2182,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-25T05:03:30.485Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-25T09:11:11.232Z</sub>
 
 </div>

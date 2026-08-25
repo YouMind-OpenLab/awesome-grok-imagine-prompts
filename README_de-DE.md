@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2583** |
+| 📝 Total Prompts | **2591** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-25** |
 
@@ -189,6 +189,145 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Berg-Drachenbaum
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein malerischer Landschafts-Prompt, der verborgene Drachengesichter zeigt, die in einem stürmischen Gebirgspass aus Kiefernzweigen hervortreten.
+
+#### 📝 Prompt
+
+```
+Beim Blick zwischen zwei Kiefern auf den fernen Pass zwischen den Bergen, wo Wolken donnern und eine Mondsichel steht, werden allmählich zwei Drachengesichter in den Zweigen der Kiefern sichtbar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="Berg-Drachenbaum">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9802)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **Published:** Aug 25, 2026
+
+---
+### Fliegender Pegasus Mustang
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Vision-Board-Prompt für einen weißen Ford Mustang mit Pegasus-Flügeln, der fliegen und auf dem Wasser fahren kann.
+
+#### 📝 Prompt
+
+```
+Ein eleganter weißer Ford Mustang Muscle-Car mit großen, majestätischen weißen Pegasus-Flügeln, die seitlich ausfahren. Das Fahrzeug kann fliegen, wie ein Boot auf dem Wasser schwimmen und auf Straßen fahren. Das Auto hat eine glänzende weiße Lackierung und Chromdetails -- KI für ein Vision Board - Fokus
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="Fliegender Pegasus Mustang">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9801)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **Published:** Aug 25, 2026
+
+---
+### Szene mit verschiedenen Tanzstilen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein beschreibender Prompt für ein Video, in dem Tänzer Ballett und andere Tanzstile gemeinsam aufführen.
+
+#### 📝 Prompt
+
+```
+Die Tänzer hörten auf die Musik und begannen zu tanzen.
+
+Einige tanzten zusammen.
+
+Einige tanzten Ballett.
+
+Einige probierten verschiedene Tanzarten aus.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="Szene mit verschiedenen Tanzstilen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
+
+**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
+
+---
+### Künstlerische Animation eines wehenden Schals
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein künstlerischer Video-Prompt, der sich auf die physikalische Animation eines wehenden Schals konzentriert, um den Effekt eines bewegten Gemäldes zu erzeugen.
+
+#### 📝 Prompt
+
+```
+Animieren Sie den Schal um sie herum, wie er im Wind fliegt; wir konzentrieren uns dabei auf den wehenden Stoff, der wie ein Gemälde wirken soll.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="Künstlerische Animation eines wehenden Schals">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9800)**
+
+**Author:** [liviiiisssa](https://x.com/livisameno) | **Source:** [Link](https://x.com/livisameno/status/2091951872047538472) | **Published:** Aug 24, 2026
+
+---
+### Mobius Cosmic Earth Ring
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein filmischer und metaphysischer Prompt, der eine surreale kosmische Entität beschreibt, die die Erde umgibt.
+
+#### 📝 Prompt
+
+```
+Als sich die letzte Tür öffnete, war Mobius dort. Mobius akzeptiert alles Sein, sublimiert es weiter und verkörpert es. Das Erscheinungsbild von Mobius glich einem Ring, der die Erde umschloss und wie etwas nicht von dieser Welt wirkte.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="Mobius Cosmic Earth Ring">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9803)**
+
+**Author:** [トビオ](https://x.com/8pdxah) | **Source:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **Published:** Aug 24, 2026
+
+---
+### Surreales Video einer pastellfarbenen Katzenkreatur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt eine traumartige Szene einer surrealen, katzenähnlichen Kreatur, die durch eine pastellfarbene Landschaft voller schwebender Lichter und ätherischer Strukturen wandert.
+
+#### 📝 Prompt
+
+```
+Eine surreale, katzenähnliche Kreatur in einer pastellfarbenen Landschaft mit schwebenden Lichtern und ätherischen Strukturen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="Surreales Video einer pastellfarbenen Katzenkreatur">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9796)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **Published:** Aug 24, 2026
+
+---
+### Französische Sprachausgabe für Charaktere
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Instruktions-Prompt, um einen KI-Charakter dazu zu bringen, einen bestimmten Satz auf Französisch zu sprechen, um Aussprache und schauspielerische Leistung zu testen.
+
+#### 📝 Prompt
+
+```
+Lass den Charakter auf Französisch sagen: „Natürlich kann ich Französisch sprechen! Es ist meine Muttersprache!“
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="Französische Sprachausgabe für Charaktere">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9797)**
+
+**Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
+
+---
 ### Auf Wolken zur Stadt aus Gold
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -220,11 +359,30 @@ Erstelle ein Video, in dem er auf Wolken geht und sich einer goldenen Stadt im H
 Design für den Hero-Bereich einer Landingpage mit einem Tesla Semi Konvoi auf einer nächtlichen Autobahn, sanftes warmes Off-White und blasser Steinfarbton als Hintergrund, großformatige, klare Fotografie mit sanftem natürlichem Licht, elegante gedeckte Champagner- und sanfte Grautöne, ultra-saubere Komposition, anspruchsvolle High-End-Typografie, sanfte diffuse Beleuchtung, polierte Luxusprodukt-Ästhetik, ruhige und raffinierte Atmosphäre
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi Konvoi Nacht-Design">
+<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi Konvoi Nacht-Design">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
 
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
+
+---
+### LinkedIn-Profilbild-Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Transformations-Prompt, um ein bestehendes Foto in ein professionelles, studiogerechtes LinkedIn-Profilbild zu verwandeln, wobei die Identität der Person perfekt erhalten bleibt.
+
+#### 📝 Prompt
+
+```
+Verwandle dieses Foto in ein professionelles, studiogerechtes LinkedIn-Profilbild exakt derselben Frau. Bewahre ihre Identität perfekt: exakte Gesichtsgeometrie, Proportionen, Augenform und -farbe, Nase, Mund, Kieferpartie, Ohren, dunkler Hautton und echte Hauttextur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="LinkedIn-Profilbild-Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9799)**
+
+**Author:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **Source:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **Published:** Aug 24, 2026
 
 ---
 ### Kinematischer langsamer Kameraschwenk
@@ -1963,160 +2121,6 @@ Tier aus Smaragd mit Silberverzierungen, Wolf, echter Edelsteinglanz, betonte Ka
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **Published:** Aug 16, 2026
 
 ---
-### Sprechender Grok humanoider Roboter
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt, der einen sprechenden humanoiden Grok-Roboter mit spezifischen physischen Merkmalen und natürlichen Bewegungen beschreibt.
-
-#### 📝 Prompt
-
-```
-Der humanoide Grok-Roboter spricht und stellt sich vor. Er hat schwarzes, geformtes und leicht gewelltes Haar, ein eng anliegendes, kurzes silbernes T-Shirt mit G- und xAI-Logo, einen silber-schwarzen Gürtel, eine schwarze Hose und Stiefel sowie leuchtend blaue Augen. Sein Mund öffnet und schließt sich beim Sprechen auf natürliche Weise, der Kopf bewegt sich leicht,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781703229911040/img/PGz9a9i5Q0s3Cg6A.jpg" width="600" alt="Sprechender Grok humanoider Roboter">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9314)**
-
-**Author:** [Leah Johnson](https://x.com/LeahJoh5652391) | **Source:** [Link](https://x.com/LeahJoh5652391/status/2088781726898426101) | **Published:** Aug 16, 2026
-
----
-### Filmische emotionale Dialogszene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein mehrstufiger Prompt-Workflow zur Erstellung einer filmischen Dramaszene mit Fokus auf Handkameraführung, Mikroexpressionen und emotionaler Kontinuität zwischen den Einstellungen.
-
-#### 📝 Prompt
-
-```
-Ein Mann und eine Frau diskutieren scherzhaft darüber, wie sie glauben, dass sie sich fast ineinander verliebt hätten, bevor sie getrennt wurden. Sie scherzen, um zu verbergen, dass sie es eigentlich ernst meinen. Fügen Sie einige Pausen ein, damit es natürlicher wirkt. Filmische Regie und Kameraarbeit auf Prestige-Niveau. Establishing Shot, enge Nahaufnahmen und Handkameraführung für emotionale Resonanz. Keine Totalen. Keine Musik. Mikroexpressionen in ihren Gesichtern vermitteln das Thema stärker als die Lautstärke ihrer Stimmen.
-
-Filmische Regie und Kameraarbeit auf Prestige-Niveau. Enge Nahaufnahmen und Handkameraführung für emotionale Resonanz. Keine Totalen. Keine Musik. Mikroexpressionen in ihren Gesichtern vermitteln das Thema stärker als die Lautstärke ihrer Stimmen. Die Augen der Frau suchen in der Stille zwei Takte lang nach der Reaktion des Mannes. Der Mann sagt dann, dass ihm das gefallen würde, und sie diskutieren weiter darüber, wie es vielleicht besser wäre, sich zu verlieben, anstatt die ganze Zeit darüber zu streiten, wessen Schuld es war, dass sie nicht zusammen sind.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866202037_pzd50h_HPzU98KW8AADwbU.png" width="600" alt="Filmische emotionale Dialogszene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9242)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088778581090439582) | **Published:** Aug 16, 2026
-
----
-### Lawinengrotten-Gesprächsszene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine filmische Videoszene, in der ein Mann und eine Frau in einer blauen Gletschereishöhle nach einer Lawine einen Moment humorvoller Verletzlichkeit teilen.
-
-#### 📝 Prompt
-
-```
-Ein Mann und eine Frau sitzen in einer durch eine Lawine entstandenen Höhle, beleuchtet von einem kleinen, offenen Propangas-Campingkocher. Sie scherzen darüber, wie sie dachten, sie hätten sich vor der Lawine fast ineinander verliebt, während die Schatten auf den sie umgebenden, eisblauen Gletscherwänden spielen. Sie scherzen, um zu verbergen, dass sie es eigentlich ernst meinen. Fügen Sie einige Pausen ein, um es natürlicher wirken zu lassen. Filmische Regie und Kameraführung auf höchstem Niveau. Establishing Shot, enge Nahaufnahmen und Handkamera für emotionale Resonanz. Keine Weitwinkelaufnahmen. Keine Musik. Mikro-Ausdrücke in ihren Gesichtern vermitteln das Thema stärker als die Lautstärke ihrer Stimmen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088767536498139136/img/PWgeR9Dn4NnV3T-s.jpg" width="600" alt="Lawinengrotten-Gesprächsszene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9248)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088767552935891355) | **Published:** Aug 15, 2026
-
----
-### Tesla AI Landingpage-Video-Design
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kinoreifes Landingpage-Design für Tesla AI mit tiefdunklen anthrazitfarbenen Hintergründen und futuristischen Glas-UI-Elementen, optimiert für flüssige Videobewegungen.
-
-#### 📝 Prompt
-
-```
-Design für den Hero-Bereich der Landingpage für Tesla AI, Hintergrund in tiefem Anthrazit bis Schwarz, großflächige, immersive Fotografie, reiche atmosphärische Tiefe, kühles Cyan und Stahlblau mit sanften bernsteinfarbenen Akzenten, weicher volumetrischer Dunst, ausgeprägter kinoreifer Kontrast, subtile, halbtransparente Glas-UI-Elemente, elegante und raffinierte Typografie, asymmetrische Komposition, großzügiger Weißraum, ultra-premium futuristische Ästhetik, extrem detailreich
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088705704584769536/img/52mMFnwkTW01jSCN.jpg" width="600" alt="Tesla AI Landingpage-Video-Design">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9252)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088755110658842971) | **Published:** Aug 15, 2026
-
----
-### Grok humanoider Roboter im Carhartt-Overall
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für Grok Imagine, der einen humanoiden Roboter in Marken-Arbeitskleidung und High-Top-Sneakern in einer industriellen Umgebung zeigt.
-
-#### 📝 Prompt
-
-```
-Der humanoide Grok-Roboter trägt einen blauen Overall im Carhartt-Stil mit kurzen Ärmeln und dem Xai-Logo, eine Baseballkappe mit demselben Xai-Logo sowie blaue Converse High-Top-Sneaker. Behalte die allgemeine Pose und den industriellen Hintergrund bei.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088746691541483520/img/1ekaE54PifpTcg9O.jpg" width="600" alt="Grok humanoider Roboter im Carhartt-Overall">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9244)**
-
-**Author:** [Leah Johnson](https://x.com/LeahJoh5652391) | **Source:** [Link](https://x.com/LeahJoh5652391/status/2088746704321613918) | **Published:** Aug 15, 2026
-
----
-### Multiverse Galaxy Waves Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kosmisches Video-Prompt, das galaktische Wellen, Nebel und interagierende Sonnensysteme in einem rosa-goldenen Glanz visualisiert.
-
-#### 📝 Prompt
-
-```
-Zeige mir die Wechselwirkung zwischen Multiversen und unserem Kosmos, in Farben wie Gold, Himmelblau und Weiß mit strahlendem rosa Glanz, vielen Sonnensystemen, Nebeln und galaktischen Gravitron-Wellen – nutze deine Vorstellungskraft.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727149066768384/img/1_br_16e4kez3VrL.jpg" width="600" alt="Multiverse Galaxy Waves Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9246)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2088727195682292113) | **Published:** Aug 15, 2026
-
----
-### Alien-Animatronic-Horror-Jump-Scare
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter zweiteiliger Prompt, der ein großformatiges animatronisches Alien-Raubtier sowie eine spezifische Bewegungsanweisung für einen Jump-Scare-Videoeffekt beschreibt.
-
-#### 📝 Prompt
-
-```
-Eine massive außerirdische Spitzenprädator-Kreatur, konstruiert als lebensgroßes, physisches Animatronic. Glänzende schwarze Glasfaserhülle, ineinandergreifende Metallplatten und dicke Hydraulikstangen zur Steuerung der Gliedmaßen. Überzogen mit feuchtem Schleim, tropfender Speichel an Zähnen aus Acrylharz. Harte, dramatische Konturbeleuchtung, Hintergrund eines dunklen Raumschiffkorridors, gefilmt mit anamorphotischem Objektiv, filmischer Sci-Fi-Horror der 1980er Jahre. Einfacher Video-Prompt: Er springt über die Kamera, während diese auf das leere Innere eines Raumschiffs gerichtet bleibt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088719871185911808/img/pD1zE3IqWGKZniQG.jpg" width="600" alt="Alien-Animatronic-Horror-Jump-Scare">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9253)**
-
-**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2088719909866160132) | **Published:** Aug 15, 2026
-
----
-### Filmische Teilung des Roten Meeres
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein dramatischer Animations-Prompt, der die biblische Szene der Teilung des Roten Meeres für die Israeliten darstellt.
-
-#### 📝 Prompt
-
-```
-Stellen Sie sich die Teilung des Roten Meeres vor, wie die Israeliten hindurchziehen und die Streitwagen der Ägypter versinken.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088682513963372544/img/UqXXSPblOLlayEYC.jpg" width="600" alt="Filmische Teilung des Roten Meeres">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9247)**
-
-**Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **Published:** Aug 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2178,6 +2182,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-25T05:03:36.973Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-25T09:11:19.274Z</sub>
 
 </div>

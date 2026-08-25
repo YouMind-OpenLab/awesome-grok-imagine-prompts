@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2583** |
+| 📝 총 프롬프트 수 | **2591** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-08-25** |
 
@@ -189,6 +189,145 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 산의 용 나무
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 폭풍우가 몰아치는 산길의 소나무 가지 사이로 숨겨진 용의 얼굴이 드러나는 풍경 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+두 소나무 사이로 멀리 떨어진 산길을 바라보면 구름과 천둥이 치고 초승달이 뜬 가운데 소나무 가지 속에서 두 마리의 용 얼굴이 서서히 모습을 드러냅니다
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="산의 용 나무">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9802)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **게시일:** Aug 25, 2026
+
+---
+### 날아다니는 페가수스 머스탱
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 비행과 수상 주행이 가능한, 날개 달린 하얀색 Ford Mustang을 위한 상세한 비전 보드 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+측면에서 웅장한 하얀색 페가수스 날개가 뻗어 나와 비행이 가능하고, 보트처럼 물 위를 떠다니며 도로를 달릴 수 있는 매끄러운 하얀색 Ford Mustang 머슬카. 광택이 나는 하얀색 페인트 마감과 크롬 디테일 -- 비전 보드를 위한 A.I. - 집중
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="날아다니는 페가수스 머스탱">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9801)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **게시일:** Aug 25, 2026
+
+---
+### 다양한 댄스 스타일 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 발레를 비롯한 여러 스타일의 춤을 함께 추는 무용수들이 등장하는 영상에 대한 묘사 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+무용수들은 음악을 들으며 춤을 추기 시작했습니다.
+
+일부는 함께 춤을 추었습니다.
+
+일부는 발레를 했습니다.
+
+일부는 다양한 종류의 춤을 시도했습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="다양한 댄스 스타일 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9798)**
+
+**작성자:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **출처:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **게시일:** Aug 25, 2026
+
+---
+### 흩날리는 스카프 예술 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 움직이는 회화처럼 스카프가 흩날리는 물리적 움직임을 구현하는 데 초점을 맞춘 예술적 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+그녀 주변의 스카프가 공기 중에 흩날리는 모습을 애니메이션으로 구현하며, 마치 한 폭의 그림처럼 흐르는 옷감의 질감에 집중합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="흩날리는 스카프 예술 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9800)**
+
+**작성자:** [liviiiisssa](https://x.com/livisameno) | **출처:** [Link](https://x.com/livisameno/status/2091951872047538472) | **게시일:** Aug 24, 2026
+
+---
+### 뫼비우스 코스믹 어스 링
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 지구를 감싸고 있는 초현실적인 우주적 존재를 묘사하는 영화적이고 형이상학적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+마지막 문을 열자 그곳에 Mobius 가 있었다. Mobius 는 모든 존재를 받아들이고, 이를 더욱 승화시키며, 구체화한다. Mobius 의 모습은 지구를 감싸고 있는 고리와 같았으며, 이 세상의 것이 아닌 것처럼 보였다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="뫼비우스 코스믹 어스 링">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9803)**
+
+**작성자:** [トビオ](https://x.com/8pdxah) | **출처:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **게시일:** Aug 24, 2026
+
+---
+### 초현실적인 파스텔 톤 고양이 생명체 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 떠다니는 빛과 신비로운 구조물로 가득 찬 파스텔 톤의 풍경 속을 거니는 초현실적인 고양이 형태의 생명체가 등장하는 꿈같은 장면을 생성합니다.
+
+#### 📝 프롬프트
+
+```
+떠다니는 빛과 신비로운 구조물이 있는 파스텔 톤 풍경 속의 초현실적인 고양이 형태 생명체.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="초현실적인 파스텔 톤 고양이 생명체 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9796)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **게시일:** Aug 24, 2026
+
+---
+### 프랑스어 캐릭터 음성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> AI 캐릭터가 특정 프랑스어 문장을 말하도록 유도하여 발음과 연기력을 테스트하는 지시 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+캐릭터가 프랑스어로 "물론이죠, 제가 프랑스어를 할 줄 아느냐고요? 제 모국어인걸요!"라고 말하게 하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="프랑스어 캐릭터 음성">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9797)**
+
+**작성자:** [Gilles Guerraz](https://x.com/gillesguerraz) | **출처:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **게시일:** Aug 24, 2026
+
+---
 ### 황금의 도시를 향해 구름 위를 걷다
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -220,11 +359,30 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 야간 고속도로를 달리는 Tesla Semi 차량 행렬을 위한 랜딩 페이지 히어로 섹션 디자인, 부드러운 따뜻한 오프 화이트와 페일 스톤 캔버스, 자연스러운 부드러운 빛을 활용한 대형의 깔끔한 사진 이미지, 우아한 뮤트 샴페인 및 소프트 그레이 톤, 초깔끔한 구성, 세련된 하이엔드 타이포그래피, 부드러운 확산 조명, 고급스러운 제품 미학, 차분하고 정제된 분위기
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi 야간 고속도로 주행 디자인">
+<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi 야간 고속도로 주행 디자인">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9754)**
 
 **작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **게시일:** Aug 24, 2026
+
+---
+### LinkedIn 프로필 사진 변환
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 기존 사진을 피사체의 정체성을 완벽하게 유지하면서 전문적인 스튜디오급 LinkedIn 프로필 사진으로 변환하는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 사진을 동일한 여성의 전문적인 스튜디오급 LinkedIn 프로필 사진으로 변환하세요. 그녀의 정체성을 완벽하게 유지해야 합니다: 정확한 얼굴 형태, 비율, 눈 모양과 색상, 코, 입, 턱선, 귀, 어두운 피부 톤 및 실제 피부 질감을 그대로 보존하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="LinkedIn 프로필 사진 변환">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9799)**
+
+**작성자:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **출처:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **게시일:** Aug 24, 2026
 
 ---
 ### 영화 같은 느린 카메라 팬
@@ -1963,160 +2121,6 @@ Dora가 도움을 요청하고 있고, Team Umizoomi가 사악한 악당으로�
 **작성자:** [Apple🌏🍏👑](https://x.com/makoto_so) | **출처:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **게시일:** Aug 16, 2026
 
 ---
-### 말하는 Grok 휴머노이드 로봇
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 특정한 신체적 특징과 자연스러운 움직임을 갖춘 Grok 휴머노이드 로봇이 말하는 모습을 묘사한 상세한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Grok 휴머노이드 로봇이 말을 하며 자기소개를 합니다. 로봇은 검은색의 약간 웨이브진 몰딩 헤어 스타일을 하고 있으며, G와 xAI 로고가 새겨진 몸에 딱 맞는 은색 반팔 티셔츠, 은색과 검은색 벨트, 검은색 바지와 부츠를 착용하고 있고, 밝은 파란색 눈을 가지고 있습니다. 말을 할 때 입이 자연스럽게 움직이고 고개도 살짝 움직입니다...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781703229911040/img/PGz9a9i5Q0s3Cg6A.jpg" width="600" alt="말하는 Grok 휴머노이드 로봇">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9314)**
-
-**작성자:** [Leah Johnson](https://x.com/LeahJoh5652391) | **출처:** [Link](https://x.com/LeahJoh5652391/status/2088781726898426101) | **게시일:** Aug 16, 2026
-
----
-### 영화 같은 감정적 대화 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 핸드헬드 카메라 워킹, 미세한 표정 연기, 샷 간의 감정적 연속성에 중점을 둔 영화적 드라마 장면 제작을 위한 다단계 프롬프트 워크플로우입니다.
-
-#### 📝 프롬프트
-
-```
-남녀가 헤어지기 전 서로 사랑에 빠질 뻔했다고 농담 섞인 대화를 나눕니다. 그들은 진심을 숨기기 위해 농담을 합니다. 더 자연스럽게 느껴지도록 중간중간 멈춤(pause)을 삽입하세요. 영화적이고 수준 높은 연출과 촬영 기법을 사용합니다. 설정 샷(Establishing shot), 타이트한 클로즈업, 감정적 공명을 위한 핸드헬드 카메라 워킹을 활용하세요. 와이드 샷은 사용하지 마세요. 음악은 없습니다. 목소리 크기보다 얼굴의 미세한 표정이 주제를 더 잘 전달해야 합니다.
-
-영화적이고 수준 높은 연출과 촬영 기법을 사용합니다. 감정적 공명을 위해 타이트한 클로즈업과 핸드헬드 카메라 워킹을 활용하세요. 와이드 샷은 사용하지 마세요. 음악은 없습니다. 목소리 크기보다 얼굴의 미세한 표정이 주제를 더 잘 전달해야 합니다. 여자는 침묵 속에서 두 박자 동안 남자의 반응을 살핍니다. 그 후 남자는 그것이 좋겠다고 말하고, 그들은 왜 헤어지게 되었는지 서로 탓하며 싸우는 것보다 사랑에 빠지는 것이 더 나았을지도 모른다는 대화를 이어갑니다.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866202037_pzd50h_HPzU98KW8AADwbU.png" width="600" alt="영화 같은 감정적 대화 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9242)**
-
-**작성자:** [Rob Allan](https://x.com/allan_robII) | **출처:** [Link](https://x.com/allan_robII/status/2088778581090439582) | **게시일:** Aug 16, 2026
-
----
-### 눈사태 동굴 대화 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 눈사태 후 푸른 빙하 동굴 안에서 유머러스하면서도 취약한 순간을 공유하는 남녀의 모습을 담은 영화 같은 영상 장면.
-
-#### 📝 프롬프트
-
-```
-눈사태로 형성된 동굴 안에 앉아 있는 남녀가 작은 휴대용 프로판 가스 버너의 불빛에 의지하고 있습니다. 그들은 눈사태가 일어나기 직전 서로 사랑에 빠질 뻔했다고 농담 섞인 대화를 나누며, 주변의 푸른 빙하 벽에 비치는 그림자를 바라봅니다. 그들은 진심을 숨기기 위해 농담을 던집니다. 자연스러움을 위해 중간중간 휴지기를 넣어주세요. 영화적이고 수준 높은 연출과 촬영 기법이 필요합니다. 설정 샷(Establishing shot)을 포함하되, 감정적 울림을 위해 타이트한 클로즈업과 핸드헬드 카메라 기법을 사용하세요. 와이드 샷은 제외합니다. 음악은 넣지 마세요. 목소리 크기보다 얼굴의 미세한 표정 변화가 주제를 더 잘 전달하도록 연출해 주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088767536498139136/img/PWgeR9Dn4NnV3T-s.jpg" width="600" alt="눈사태 동굴 대화 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9248)**
-
-**작성자:** [Rob Allan](https://x.com/allan_robII) | **출처:** [Link](https://x.com/allan_robII/status/2088767552935891355) | **게시일:** Aug 15, 2026
-
----
-### Tesla AI 랜딩 페이지 비디오 디자인
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 짙은 차콜 배경과 미래지향적인 유리 UI 요소가 특징이며, 부드러운 비디오 모션에 최적화된 Tesla AI용 시네마틱 랜딩 페이지 디자인입니다.
-
-#### 📝 프롬프트
-
-```
-Tesla AI를 위한 랜딩 페이지 히어로 섹션 디자인, 짙은 차콜에서 거의 블랙에 가까운 배경, 압도적인 몰입형 사진 이미지, 풍부한 분위기 깊이감, 차가운 시안 및 스틸 블루 색상과 부드러운 앰버 포인트, 부드러운 볼륨감 있는 안개 효과, 뚜렷한 시네마틱 대비, 은은한 반투명 유리 UI 요소, 우아하고 세련된 타이포그래피, 비대칭 구성, 여유로운 여백, 초프리미엄 미래지향적 미학, 초고해상도 디테일
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088705704584769536/img/52mMFnwkTW01jSCN.jpg" width="600" alt="Tesla AI 랜딩 페이지 비디오 디자인">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9252)**
-
-**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2088755110658842971) | **게시일:** Aug 15, 2026
-
----
-### Carhartt 점프슈트를 입은 Grok 휴머노이드 로봇
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 산업 현장을 배경으로 브랜드 작업복과 하이탑 스니커즈를 착용한 휴머노이드 로봇을 보여주는 Grok Imagine용 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Xai 로고가 새겨진 반소매의 파란색 Carhartt 스타일 점프슈트와 동일한 Xai 로고가 있는 야구 모자, 그리고 파란색 Converse 하이탑 스니커즈를 착용한 Grok 휴머노이드 로봇. 전체적인 포즈와 산업 현장 배경을 유지하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088746691541483520/img/1ekaE54PifpTcg9O.jpg" width="600" alt="Carhartt 점프슈트를 입은 Grok 휴머노이드 로봇">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9244)**
-
-**작성자:** [Leah Johnson](https://x.com/LeahJoh5652391) | **출처:** [Link](https://x.com/LeahJoh5652391/status/2088746704321613918) | **게시일:** Aug 15, 2026
-
----
-### 멀티버스 은하 파동 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 분홍색과 금색 빛으로 은하 파동, 성운, 상호작용하는 태양계를 시각화한 우주 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-다중 우주와 우리 우주 사이의 상호작용을 보여줘. 우주적인 색감, 황금빛, 하늘색, 흰색, 빛나는 분홍색 광채와 수많은 태양계, 성운, 은하 중력파를 활용해 너의 상상력을 발휘해 봐
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727149066768384/img/1_br_16e4kez3VrL.jpg" width="600" alt="멀티버스 은하 파동 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9246)**
-
-**작성자:** [KENDREIK Artist](https://x.com/kendreik) | **출처:** [Link](https://x.com/kendreik/status/2088727195682292113) | **게시일:** Aug 15, 2026
-
----
-### 외계인 애니메트로닉스 호러 점프 스케어
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 대규모 애니메트로닉스 외계 포식자와 구체적인 점프 스케어 영상 모션 지침을 설명하는 상세한 2부 구성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-실물 크기의 물리적 애니메트로닉스로 제작된 거대한 외계 최상위 포식자 생명체. 번들거리는 검은색 유리섬유 외피, 맞물린 금속판, 사지를 제어하는 두꺼운 유압 로드. 젖은 점액질로 덮여 있고 아크릴 수지 치아에서 침이 뚝뚝 떨어짐. 강렬하고 드라마틱한 림 라이트, 어두운 우주선 복도 배경, 아나모픽 렌즈로 촬영, 1980년대 영화적 SF 호러 스타일. 간단한 영상 프롬프트: 카메라가 우주선의 빈 내부를 비추고 있는 동안, 외계인이 카메라 위로 뛰어넘는다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088719871185911808/img/pD1zE3IqWGKZniQG.jpg" width="600" alt="외계인 애니메트로닉스 호러 점프 스케어">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9253)**
-
-**작성자:** [NYXEN](https://x.com/NYXEN_77) | **출처:** [Link](https://x.com/NYXEN_77/status/2088719909866160132) | **게시일:** Aug 15, 2026
-
----
-### 홍해의 기적 시네마틱
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 이스라엘 백성을 위해 홍해가 갈라지는 성경 속 장면을 묘사한 드라마틱한 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-홍해가 갈라지고 이스라엘 백성이 건너가는 모습, 그리고 이집트의 전차들이 바다에 잠기는 모습을 상상해 보세요
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088682513963372544/img/UqXXSPblOLlayEYC.jpg" width="600" alt="홍해의 기적 시네마틱">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9247)**
-
-**작성자:** [Hany N. Takla](https://x.com/HanyNTakla2) | **출처:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **게시일:** Aug 15, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2178,6 +2182,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-25T05:03:32.009Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-25T09:11:12.984Z</sub>
 
 </div>

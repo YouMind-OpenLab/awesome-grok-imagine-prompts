@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2583** |
+| 📝 プロンプト総数 | **2591** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-08-25** |
 
@@ -189,6 +189,145 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 山岳の龍樹
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 嵐の山道で、松の枝から浮かび上がる龍の顔が隠された、絶景の風景プロンプト。
+
+#### 📝 プロンプト
+
+```
+2 本の松の間から遠くの山間の峠を望む。雲が立ち込め雷鳴が轟く中、わずかに見える月明かりの下、松の枝の中に 2 つの龍の顔が徐々に浮かび上がる
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="山岳の龍樹">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9802)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **公開日:** Aug 25, 2026
+
+---
+### 空飛ぶペガサス・マスタング
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 翼を持ち、飛行や水上走行が可能な白い Ford Mustang を描くための、詳細なビジョンボード用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+サイドから雄大な白いペガサスの翼が伸びた、流線型の白い Ford Mustang マッスルカー。飛行が可能で、ボートのように水面に浮かび、道路も走行できる。光沢のある白い塗装仕上げ、クロームのディテール -- A.I. ビジョンボード用 - フォーカス
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="空飛ぶペガサス・マスタング">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9801)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **公開日:** Aug 25, 2026
+
+---
+### 多様なダンススタイルのシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> バレエやその他のダンススタイルを踊るダンサーたちが共演する動画のための記述的プロンプト。
+
+#### 📝 プロンプト
+
+```
+ダンサーたちは音楽に耳を傾け、踊り始めました。
+
+一緒に踊る者もいれば、
+
+バレエを踊る者もいました。
+
+また、さまざまな種類のダンスに挑戦する者もいました。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="多様なダンススタイルのシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9798)**
+
+**作者:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **ソース:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **公開日:** Aug 25, 2026
+
+---
+### なびくスカーフのアーティスティックなアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 動く絵画のように、スカーフがなびく物理挙動をアニメーション化することに焦点を当てたアーティスティックな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+彼女の周囲で空中に舞うスカーフをアニメーション化します。絵画のような布の動きを表現することに重点を置いています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="なびくスカーフのアーティスティックなアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9800)**
+
+**作者:** [liviiiisssa](https://x.com/livisameno) | **ソース:** [Link](https://x.com/livisameno/status/2091951872047538472) | **公開日:** Aug 24, 2026
+
+---
+### メビウス・コズミック・アース・リング
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 地球を取り巻く超現実的な宇宙的存在を描写した、映画的かつ形而上学的なプロンプト。
+
+#### 📝 プロンプト
+
+```
+最後の扉を開けると、そこにはメビウスがいた。メビウスはすべての存在を受け入れ、さらに昇華させ、そして体現する。メビウスの姿は地球を取り巻くリングのようで、この世のものとは思えないほど神秘的だった。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="メビウス・コズミック・アース・リング">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9803)**
+
+**作者:** [トビオ](https://x.com/8pdxah) | **ソース:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **公開日:** Aug 24, 2026
+
+---
+### シュールなパステルカラーの猫型クリーチャーの動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> パステルカラーの風景の中をさまよう、シュールな猫のようなクリーチャーの夢のようなシーンを生成します。風景には浮遊する光や幻想的な建造物が満ちています。
+
+#### 📝 プロンプト
+
+```
+浮遊する光と幻想的な建造物に囲まれたパステルカラーの風景の中の、シュールな猫のようなクリーチャー。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="シュールなパステルカラーの猫型クリーチャーの動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9796)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **公開日:** Aug 24, 2026
+
+---
+### フランス語のキャラクター音声
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> AI キャラクターに特定のフランス語のフレーズを話させ、発音や演技をテストするための指示プロンプトです。
+
+#### 📝 プロンプト
+
+```
+キャラクターにフランス語で「もちろんフランス語は話せるよ！私の母国語なんだから！」と言わせてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="フランス語のキャラクター音声">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9797)**
+
+**作者:** [Gilles Guerraz](https://x.com/gillesguerraz) | **ソース:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **公開日:** Aug 24, 2026
+
+---
 ### 黄金の都へ向かう雲の上の旅路
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -220,11 +359,30 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 夜の高速道路を走る Tesla Semi コンボイのランディングページ・ヒーローセクションのデザイン。柔らかなオフホワイトとペールストーンのキャンバス、自然な光を活かした清潔感のある大型写真、エレガントなシャンパンカラーとソフトグレーの落ち着いた色調。極めてクリーンな構成、洗練されたハイエンドなタイポグラフィ、柔らかな拡散光、磨き上げられた高級製品の美学、穏やかで上品な雰囲気。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi コンボイの夜間デザイン">
+<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi コンボイの夜間デザイン">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9754)**
 
 **作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **公開日:** Aug 24, 2026
+
+---
+### LinkedIn 用プロフィール写真の変換
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 既存の写真を、被写体の個性を完全に維持したまま、プロ仕様のスタジオ品質の LinkedIn 用プロフィール写真に変換するプロンプトです。
+
+#### 📝 プロンプト
+
+```
+この写真を、全く同一人物によるプロ仕様のスタジオ品質の LinkedIn 用プロフィール写真に変換してください。顔の形状、比率、目の形と色、鼻、口、顎のライン、耳、ダークスキンの色味、そしてリアルな肌の質感など、被写体の個性を完璧に維持してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="LinkedIn 用プロフィール写真の変換">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9799)**
+
+**作者:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **ソース:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **公開日:** Aug 24, 2026
 
 ---
 ### シネマティックなスローカメラパン
@@ -1963,160 +2121,6 @@ Glamorous Cyborg Neuromancer, 4k rgb, acescg, jerky staging, flashing neon, 英�
 **作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **ソース:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **公開日:** Aug 16, 2026
 
 ---
-### Grok ヒューマノイドロボットが話す様子
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 特定の身体的特徴と自然な動きを備えた Grok ヒューマノイドロボットが話す様子を描写した詳細なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-Grok ヒューマノイドロボットが話し、自己紹介をします。彼は黒く成形されたわずかにウェーブのかかった髪をしており、G と xAI のロゴが入ったぴったりとした銀色のショートスリーブ T シャツ、銀と黒のベルト、黒いパンツとブーツを着用し、明るい青色の目をしています。話すときに口が自然に開閉し、頭がわずかに動きます...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781703229911040/img/PGz9a9i5Q0s3Cg6A.jpg" width="600" alt="Grok ヒューマノイドロボットが話す様子">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9314)**
-
-**作者:** [Leah Johnson](https://x.com/LeahJoh5652391) | **ソース:** [Link](https://x.com/LeahJoh5652391/status/2088781726898426101) | **公開日:** Aug 16, 2026
-
----
-### 映画のような感情的な対話シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 手持ちカメラの映像、微細な表情の変化、ショット間の感情的な連続性に焦点を当てた、映画のようなドラマシーンを作成するためのマルチステージプロンプトワークフローです。
-
-#### 📝 プロンプト
-
-```
-男女が、離れ離れになる前に恋に落ちそうだったのではないかと冗談めかして話し合っている。彼らは本心であることを隠すために冗談を言っている。自然に見えるように間（ま）を挿入すること。映画のような、格調高い演出と撮影技術。エスタブリッシング・ショット、感情的な共鳴を生むためのタイトなクローズアップと手持ちカメラの映像。ワイドショットはなし。音楽はなし。声の大きさよりも、表情の微細な変化がテーマを物語るようにする。
-
-映画のような、格調高い演出と撮影技術。感情的な共鳴を生むためのタイトなクローズアップと手持ちカメラの映像。ワイドショットはなし。音楽はなし。声の大きさよりも、表情の微細な変化がテーマを物語るようにする。女性は沈黙の中で2拍分、男性の反応を探るように見つめる。その後、男性が「それもいいかもしれない」と答え、二人は、なぜ一緒にいられないのかをお互いのせいにし続けるよりも、恋に落ちる方が良かったのかもしれないと話し続ける。
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866202037_pzd50h_HPzU98KW8AADwbU.png" width="600" alt="映画のような感情的な対話シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9242)**
-
-**作者:** [Rob Allan](https://x.com/allan_robII) | **ソース:** [Link](https://x.com/allan_robII/status/2088778581090439582) | **公開日:** Aug 16, 2026
-
----
-### 雪崩の洞窟での会話シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雪崩の後の青い氷の洞窟で、ユーモアを交えながら本音を語り合う男女を描いたシネマティックな映像シーン。
-
-#### 📝 プロンプト
-
-```
-雪崩によってできた洞窟の中に座る男女。小さなプロパンガス式のキャンプ用バーナーの炎が二人を照らしている。彼らは、雪崩が起きる直前に恋に落ちそうだったのではないかと冗談めかして語り合う。周囲の氷河の青い壁には影が揺らめいている。二人は本心をごまかすために冗談を言っている。より自然に見えるよう、適度に間を入れること。シネマティックで、格調高い演出と撮影技術を求める。確立ショット（エスタブリッシング・ショット）から始まり、感情を強調するためにタイトなクローズアップと手持ちカメラを使用する。ワイドショットは使用しない。音楽はなし。声の大きさよりも、表情の微細な動きでテーマを表現すること。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088767536498139136/img/PWgeR9Dn4NnV3T-s.jpg" width="600" alt="雪崩の洞窟での会話シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9248)**
-
-**作者:** [Rob Allan](https://x.com/allan_robII) | **ソース:** [Link](https://x.com/allan_robII/status/2088767552935891355) | **公開日:** Aug 15, 2026
-
----
-### Tesla AI ランディングページ動画デザイン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tesla AI 向けのシネマティックなランディングページデザイン。深いチャコールグレーの背景と未来的なガラス調の UI 要素を採用し、滑らかな動画モーションに最適化されています。
-
-#### 📝 プロンプト
-
-```
-Tesla AI 向けランディングページのヒーローセクションデザイン。深いチャコールから漆黒に近い背景、没入感のある大型写真、豊かな奥行き、クールなシアンとスチールブルーに柔らかなアンバーのアクセント。柔らかなボリュメトリックヘイズ、際立つシネマティックなコントラスト、繊細で半透明なガラス調の UI 要素、洗練されたエレガントなタイポグラフィ、非対称な構成、ゆとりのあるネガティブスペース、超プレミアムで未来的な美学、超高精細なディテール
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088705704584769536/img/52mMFnwkTW01jSCN.jpg" width="600" alt="Tesla AI ランディングページ動画デザイン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9252)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2088755110658842971) | **公開日:** Aug 15, 2026
-
----
-### Carhartt のジャンプスーツを着た Grok ヒューマノイドロボット
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用のビデオプロンプト。工業環境でブランドロゴ入りの作業着とハイカットスニーカーを着用したヒューマノイドロボットを描写します。
-
-#### 📝 プロンプト
-
-```
-Xai ロゴ入りの半袖ブルーの Carhartt 風ジャンプスーツ、同じく Xai ロゴ入りの野球帽、そしてブルーの Converse ハイカットスニーカーを着用した Grok ヒューマノイドロボット。全体的なポーズと工業的な背景を維持してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088746691541483520/img/1ekaE54PifpTcg9O.jpg" width="600" alt="Carhartt のジャンプスーツを着た Grok ヒューマノイドロボット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9244)**
-
-**作者:** [Leah Johnson](https://x.com/LeahJoh5652391) | **ソース:** [Link](https://x.com/LeahJoh5652391/status/2088746704321613918) | **公開日:** Aug 15, 2026
-
----
-### マルチバース・ギャラクシー・ウェーブ動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ピンクとゴールドの輝きを放つ銀河の波、星雲、相互作用する太陽系を視覚化した宇宙的な動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-マルチバースと私たちの宇宙の相互作用を見せて。宇宙的な色彩、黄金色、スカイブルー、ホワイト、輝くピンクの光、そして数多くの太陽系、星雲、銀河の重力波を、あなたの想像力を駆使して表現してください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727149066768384/img/1_br_16e4kez3VrL.jpg" width="600" alt="マルチバース・ギャラクシー・ウェーブ動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9246)**
-
-**作者:** [KENDREIK Artist](https://x.com/kendreik) | **ソース:** [Link](https://x.com/kendreik/status/2088727195682292113) | **公開日:** Aug 15, 2026
-
----
-### エイリアン・アニマトロニクスによるホラー・ジャンプスケア
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 大規模なアニマトロニクスのエイリアン・プレデターと、特定のジャンプスケア動画のモーション指示を記述した、2 部構成の詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-巨大なエイリアンの頂点捕食生物。実物大の物理アニマトロニクスとして制作。光沢のある黒いファイバーグラス製の外殻、噛み合う金属プレート、四肢を制御する太い油圧ロッド。濡れた粘液の光沢、アクリル樹脂製の歯から滴るよだれ。過酷でドラマチックなリムライト、暗い宇宙船の廊下を背景に、アナモルフィックレンズで撮影された 1980 年代の映画風 SF ホラー。シンプルな動画プロンプト：カメラが宇宙船の空の内部を映している最中に、彼がカメラを飛び越える。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088719871185911808/img/pD1zE3IqWGKZniQG.jpg" width="600" alt="エイリアン・アニマトロニクスによるホラー・ジャンプスケア">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9253)**
-
-**作者:** [NYXEN](https://x.com/NYXEN_77) | **ソース:** [Link](https://x.com/NYXEN_77/status/2088719909866160132) | **公開日:** Aug 15, 2026
-
----
-### 紅海が割れるドラマチックな映像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> イスラエルの民のために紅海が割れる聖書のシーンを描いた、ドラマチックなアニメーション用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-紅海が割れ、イスラエルの民が通り抜け、エジプトの戦車が沈んでいく様子を想像してください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088682513963372544/img/UqXXSPblOLlayEYC.jpg" width="600" alt="紅海が割れるドラマチックな映像">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9247)**
-
-**作者:** [Hany N. Takla](https://x.com/HanyNTakla2) | **ソース:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **公開日:** Aug 15, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2178,6 +2182,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-25T05:03:31.188Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-25T09:11:11.958Z</sub>
 
 </div>

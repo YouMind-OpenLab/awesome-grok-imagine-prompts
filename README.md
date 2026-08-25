@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2583** |
+| 📝 Total Prompts | **2591** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-25** |
 
@@ -189,11 +189,150 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Walking on Clouds toward City of Gold
+### Mountain Dragon Tree
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fantasy video prompt describing a journey through the heavens toward a celestial golden city.
+> A scenic landscape prompt featuring hidden dragon faces emerging from pine boughs in a stormy mountain pass.
+
+#### 📝 Prompt
+
+```
+Looking between tow pine at the distant pass between the mountains clouds thunder a sliver of moon two dragon faces gradually become visible in the pine tree boughs
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="Mountain Dragon Tree">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9802)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **Published:** Aug 25, 2026
+
+---
+### Flying Pegasus Mustang
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed vision board prompt for a white Ford Mustang with Pegasus wings, capable of flight and driving on water.
+
+#### 📝 Prompt
+
+```
+A sleek white Ford Mustang muscle car with large, majestic white Pegasus wings extending from the sides, capable of flight, floating on water like a boat, and driving on roads. The car has a glossy white paint finish, chrome details -- A.I. for a vision board - focus
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="Flying Pegasus Mustang">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9801)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **Published:** Aug 25, 2026
+
+---
+### Various Dance Styles Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for a video featuring dancers performing ballet and other styles together.
+
+#### 📝 Prompt
+
+```
+The dancers listened to the music and began to dance.
+
+Some danced together.
+
+Some danced ballet.
+
+Some tried different kinds of dancing.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="Various Dance Styles Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
+
+**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
+
+---
+### Flowing Scarf Artistic Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An artistic video prompt focused on animating the physics of a flowing scarf to resemble a moving painting.
+
+#### 📝 Prompt
+
+```
+Animate the scarf around her flies of air and we are focusing on the flewn clothe like a painting
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="Flowing Scarf Artistic Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9800)**
+
+**Author:** [liviiiisssa](https://x.com/livisameno) | **Source:** [Link](https://x.com/livisameno/status/2091951872047538472) | **Published:** Aug 24, 2026
+
+---
+### Mobius Cosmic Earth Ring
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A cinematic and metaphysical prompt describing a surreal cosmic entity surrounding the Earth.
+
+#### 📝 Prompt
+
+```
+Opening the final door, Mobius was there. Mobius accepts all existence, further sublimates it, and embodies it. Mobius's appearance was like a ring surrounding the Earth, looking like something not of this world.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="Mobius Cosmic Earth Ring">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9803)**
+
+**Author:** [トビオ](https://x.com/8pdxah) | **Source:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **Published:** Aug 24, 2026
+
+---
+### Surreal Pastel Cat Creature Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a dreamlike scene of a surreal cat-like creature wandering through a pastel landscape filled with floating lights and ethereal structures.
+
+#### 📝 Prompt
+
+```
+A surreal cat-like creature in a pastel landscape with floating lights and ethereal structures.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="Surreal Pastel Cat Creature Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9796)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **Published:** Aug 24, 2026
+
+---
+### French Language Character Speech
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An instruction prompt to make an AI character speak a specific phrase in French to test pronunciation and acting.
+
+#### 📝 Prompt
+
+```
+make the character say, in French, "Of course I know how to speak French! It's my native language!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="French Language Character Speech">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9797)**
+
+**Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
+
+---
+### Walking on Clouds Heavenly City
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal video prompt showing a character walking on clouds toward a golden city in the heavens.
 
 #### 📝 Prompt
 
@@ -201,18 +340,18 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 Make a video of him walking on clouds, he approaches a city of gold in the heavens
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="Walking on Clouds toward City of Gold">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="Walking on Clouds Heavenly City">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9746)**
 
 **Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **Published:** Aug 24, 2026
 
 ---
-### Tesla Semi Convoy Night Design
+### Tesla Semi Convoy Night Highway
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An elegant design prompt for a highway convoy, focusing on soft warm light and a refined luxury product aesthetic.
+> A sophisticated video prompt for a luxury landing page aesthetic featuring a Tesla Semi convoy moving along a night highway with elegant muted tones.
 
 #### 📝 Prompt
 
@@ -220,18 +359,37 @@ Make a video of him walking on clouds, he approaches a city of gold in the heave
 Landing page hero section design for Tesla Semi convoy on a night highway, soft warm off-white and pale stone canvas, oversized clean photographic imagery with gentle natural light, elegant muted champagne and soft gray tones, ultra-clean composition, sophisticated high-end typography, soft diffused lighting, polished luxury product aesthetic, calm and refined atmosphere
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi Convoy Night Design">
+<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi Convoy Night Highway">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
 
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
 
 ---
+### LinkedIn Headshot Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A transformation prompt to turn an existing photo into a professional studio-grade LinkedIn headshot while perfectly preserving the subject's identity.
+
+#### 📝 Prompt
+
+```
+Transform this photo into a professional studio-grade LinkedIn headshot of the exact same woman. Preserve her identity perfectly: exact face geometry, proportions, eye shape and color, nose, mouth, jawline, ears, dark skin tone and real skin texture
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="LinkedIn Headshot Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9799)**
+
+**Author:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **Source:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **Published:** Aug 24, 2026
+
+---
 ### Cinematic Slow Camera Pan
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A technical prompt for achieving a professional cinematic look with slow camera pans and soft atmospheric movement for a serene atmosphere.
+> A highly detailed cinematic prompt for slow camera movement, focusing on atmosphere and smoke.
 
 #### 📝 Prompt
 
@@ -884,19 +1042,19 @@ A surrealist Magritte-style oil painting of a couple seated in a vintage olive-g
 **Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **Published:** Aug 20, 2026
 
 ---
-### Odysseus and Nausicaa Beach Meeting Animation
+### Odysseus and Nausicaa Beach Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed narrative prompt depicting Odysseus washing ashore on Scheria and his first meeting with Nausicaa, featuring cinematic animation details.
+> A narrative video prompt capturing the moment Odysseus washes up on the island of Scheria and meets Nausicaa.
 
 #### 📝 Prompt
 
 ```
-Odysseus spent days drifting on a raft after leaving Calypso’s island. A storm stirred up by Poseidon destroyed his raft. He swam until he was utterly exhausted and washed up unconscious on the beach of Scheria, the island of the Phaeacians. Exhausted and covered in seaweed, he regains consciousness on the beach. Nausicaa, initially frightened, steps back but then listens to him. She decides to help him and points out the way to the palace.
+Exhausted and covered in seaweed, he regains consciousness on the beach. Nausicaa, initially frightened, steps back but then listens to him. She decides to help him and points out the way to the palace.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090462831195914240/img/QC_iaRhu8OjWcEJL.jpg" width="600" alt="Odysseus and Nausicaa Beach Meeting Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090462831195914240/img/QC_iaRhu8OjWcEJL.jpg" width="600" alt="Odysseus and Nausicaa Beach Scene">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9634)**
 
@@ -960,11 +1118,11 @@ Take the picture of me holding the watch and make a video where the camera zooms
 **Author:** [BunkerDweller](https://x.com/ElonsBlueBird) | **Source:** [Link](https://x.com/ElonsBlueBird/status/2090402231405150658) | **Published:** Aug 20, 2026
 
 ---
-### Ethereal Aphrodite and Butterfly
+### Aphrodite and the Butterfly
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a radiant and ethereal video of the goddess Aphrodite being approached by a butterfly.
+> A mystical and radiant video prompt featuring the goddess Aphrodite as a butterfly interacts with her beauty.
 
 #### 📝 Prompt
 
@@ -972,7 +1130,7 @@ Take the picture of me holding the watch and make a video where the camera zooms
 Aphrodite, ethereal and radiant, as a butterfly finds its way to the goddess of beauty.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090395253643546624/img/r0Vv71hVFnWtqu0j.jpg" width="600" alt="Ethereal Aphrodite and Butterfly">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090395253643546624/img/r0Vv71hVFnWtqu0j.jpg" width="600" alt="Aphrodite and the Butterfly">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9571)**
 
@@ -1238,11 +1396,11 @@ slowly elevating above the equilibrium of sphere, center of gravity in this VR 3
 **Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
 
 ---
-### Odysseus and Argos Reunion
+### Odysseus and Argos Narrative Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A vivid narrative prompt describing the emotional moment when Odysseus, disguised as a beggar, is recognized by his dying dog Argos.
+> A narrative prompt describing the emotional return of Odysseus to Ithaca and his meeting with his loyal dog Argos.
 
 #### 📝 Prompt
 
@@ -1250,7 +1408,7 @@ slowly elevating above the equilibrium of sphere, center of gravity in this VR 3
 Odysseus returns to Ithaca after twenty years, disguised as a beggar. As he approaches his palace, he meets his old dog Argos, abandoned and dying on a pile of dung. Argos recognizes him at once, weakly wags his tail, then dies. Odysseus looks away to hide his tears and keep his identity secret.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="Odysseus and Argos Reunion">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="Odysseus and Argos Narrative Scene">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9574)**
 
@@ -1960,160 +2118,6 @@ Animal made of emerald with silver trim, wolf, real gemstone shine, edge emphasi
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **Published:** Aug 16, 2026
 
 ---
-### Grok Humanoid Robot Speaking
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt describing a Grok humanoid robot speaking with specific physical features and natural movement.
-
-#### 📝 Prompt
-
-```
-The Grok humanoid robot speaks and introduces himself. He has black molded slightly waved hair, snug short silver t-shirt with G and xAI logo, silver and black belt, black pants and boots, and bright blue eyes. His mouth opens and closes naturally as he speaks, head moves slightly,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781703229911040/img/PGz9a9i5Q0s3Cg6A.jpg" width="600" alt="Grok Humanoid Robot Speaking">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9314)**
-
-**Author:** [Leah Johnson](https://x.com/LeahJoh5652391) | **Source:** [Link](https://x.com/LeahJoh5652391/status/2088781726898426101) | **Published:** Aug 16, 2026
-
----
-### Cinematic Emotional Dialogue Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A multi-stage prompt workflow for creating a cinematic drama scene, focusing on handheld camera work, micro-expressions, and emotional continuity between shots.
-
-#### 📝 Prompt
-
-```
-A man and a woman jokingly discuss how they think they were about to fall in love before they were separated. They are joking to hide that they actually mean it. Insert some pauses to make it seem more natural. Cinematic, prestige level quality directing and cinematography. Establishing shot, Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices.
-
-Cinematic, prestige level quality directing and cinematography. Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices. The woman's eyes search for the man's response in the silence for two beats. The man then says he'd like that and they continue to discuss how falling in love might better than fighting all the time about whose fault it was that they're not together.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866202037_pzd50h_HPzU98KW8AADwbU.png" width="600" alt="Cinematic Emotional Dialogue Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9242)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088778581090439582) | **Published:** Aug 16, 2026
-
----
-### Avalanche Cave Conversation Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video scene featuring a man and a woman in a blue glacial ice cave, sharing a moment of humorous vulnerability after an avalanche.
-
-#### 📝 Prompt
-
-```
-A man and a woman sitting in a cave formed by an avalanche lit by a small open flame propane camping burner. They jokingly discuss how they think they were about to fall in love before the avalanche as the shadows play on the glacial blue ice walls surrounding them. They are joking to hide that they actually mean it. Insert some pauses to make it seem more natural. Cinematic, prestige level quality directing and cinematography. Establishing shot, Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088767536498139136/img/PWgeR9Dn4NnV3T-s.jpg" width="600" alt="Avalanche Cave Conversation Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9248)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088767552935891355) | **Published:** Aug 15, 2026
-
----
-### Tesla AI Landing Page Video Design
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic landing page design for Tesla AI featuring deep charcoal backgrounds and futuristic glass UI elements, optimized for smooth video motion.
-
-#### 📝 Prompt
-
-```
-Landing page hero section design for Tesla AI, deep charcoal to near-black background, oversized immersive photographic imagery, rich atmospheric depth, cool cyan and steel blue with soft amber accents, soft volumetric haze, pronounced cinematic contrast, subtle translucent glass UI elements, elegant refined typography, asymmetric composition, generous negative space, ultra-premium futuristic aesthetic, ultra high detail
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088705704584769536/img/52mMFnwkTW01jSCN.jpg" width="600" alt="Tesla AI Landing Page Video Design">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9252)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088755110658842971) | **Published:** Aug 15, 2026
-
----
-### Grok Humanoid Robot in Carhartt Jumpsuit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for Grok Imagine showing a humanoid robot wearing branded workwear and high-top sneakers in an industrial environment.
-
-#### 📝 Prompt
-
-```
-The Grok humanoid robot wearing a blue Carhartt-style jumpsuit with short sleeves featuring the Xai logo, a baseball cap with the same Xai logo, and blue Converse high top sneakers. Keep the overall pose, industrial background.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088746691541483520/img/1ekaE54PifpTcg9O.jpg" width="600" alt="Grok Humanoid Robot in Carhartt Jumpsuit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9244)**
-
-**Author:** [Leah Johnson](https://x.com/LeahJoh5652391) | **Source:** [Link](https://x.com/LeahJoh5652391/status/2088746704321613918) | **Published:** Aug 15, 2026
-
----
-### Multiverse Galaxy Waves Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cosmic video prompt visualizing galactic waves, nebulas, and interacting solar systems in pink and gold glow.
-
-#### 📝 Prompt
-
-```
-Show me interpower between multi universes and ours cosmoreal colours golden sky blue white shinning pink glow and many solar systems nebulaes and galaxy gravitron waves use your fiction
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727149066768384/img/1_br_16e4kez3VrL.jpg" width="600" alt="Multiverse Galaxy Waves Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9246)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2088727195682292113) | **Published:** Aug 15, 2026
-
----
-### Alien Animatronic Horror Jump Scare
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed two-part prompt describing a high-scale animatronic alien predator and a specific jump-scare video motion instruction.
-
-#### 📝 Prompt
-
-```
-A massive alien apex predator creature, built as a full-scale physical animatronic. Glistening black fiberglass shell, interlocking metal plates, and thick hydraulic rods controlling the limbs. Wet slime glaze, dripping drool from acrylic resin teeth. Harsh dramatic rim lighting, dark spaceship corridor background, shot on anamorphic lens, 1980s cinematic sci-fi horror. Simple Video Prompt: He jumps over the camera as the camera is left looking at an empty interior of a space ship.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088719871185911808/img/pD1zE3IqWGKZniQG.jpg" width="600" alt="Alien Animatronic Horror Jump Scare">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9253)**
-
-**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2088719909866160132) | **Published:** Aug 15, 2026
-
----
-### Red Sea Parting Cinematic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dramatic animation prompt depicting the biblical scene of the Red Sea parting for the Israelites.
-
-#### 📝 Prompt
-
-```
-Imagine the parting of the Red Sea and the Israelites passing and the Egyptians chariots sinking
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088682513963372544/img/UqXXSPblOLlayEYC.jpg" width="600" alt="Red Sea Parting Cinematic">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9247)**
-
-**Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **Published:** Aug 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2175,6 +2179,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-25T05:03:28.855Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-25T09:11:08.740Z</sub>
 
 </div>

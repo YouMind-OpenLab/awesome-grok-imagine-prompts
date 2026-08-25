@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2583** |
+| 📝 Total Prompts | **2591** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-25** |
 
@@ -189,6 +189,145 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Dağ Ejderhası Ağacı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fırtınalı bir dağ geçidinde, çam dalları arasından beliren gizli ejderha yüzlerini içeren manzaralı bir görsel istemi.
+
+#### 📝 Prompt
+
+```
+İki çam ağacının arasından dağların arasındaki uzak geçide bakıldığında, bulutlar ve gök gürültüsü arasında, ince bir ay ışığında iki ejderha yüzü çam dallarının arasında yavaş yavaş görünür hale geliyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="Dağ Ejderhası Ağacı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9802)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **Published:** Aug 25, 2026
+
+---
+### Uçan Pegasus Mustang
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kanatlı bir Pegasus'a dönüşen, uçabilen ve su üzerinde gidebilen beyaz bir Ford Mustang için detaylı bir vizyon panosu istemi.
+
+#### 📝 Prompt
+
+```
+Yanlarından uzanan büyük, görkemli beyaz Pegasus kanatlarına sahip, uçabilen, tekne gibi su üzerinde yüzebilen ve yollarda sürülebilen şık beyaz bir Ford Mustang kaslı araba. Araba parlak beyaz boyaya ve krom detaylara sahip -- Vizyon panosu için yapay zeka - odak
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="Uçan Pegasus Mustang">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9801)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **Published:** Aug 25, 2026
+
+---
+### Çeşitli Dans Stilleri Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bale ve diğer dans stillerini birlikte icra eden dansçıların yer aldığı bir video için betimleyici bir komut.
+
+#### 📝 Prompt
+
+```
+Dansçılar müziği dinledi ve dans etmeye başladı.
+
+Bazıları birlikte dans etti.
+
+Bazıları bale yaptı.
+
+Bazıları ise farklı dans türlerini denedi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="Çeşitli Dans Stilleri Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
+
+**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
+
+---
+### Akışkan Eşarp Sanatsal Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hareketli bir tabloyu andıracak şekilde, akışkan bir eşarbın fiziğini canlandırmaya odaklanan sanatsal bir video istemi.
+
+#### 📝 Prompt
+
+```
+Eşarbın etrafındaki hava akışıyla hareketini canlandırın; kumaşın bir tablo gibi dalgalanmasına odaklanıyoruz
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="Akışkan Eşarp Sanatsal Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9800)**
+
+**Author:** [liviiiisssa](https://x.com/livisameno) | **Source:** [Link](https://x.com/livisameno/status/2091951872047538472) | **Published:** Aug 24, 2026
+
+---
+### Mobius Kozmik Dünya Yüzüğü
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Dünya'yı çevreleyen gerçeküstü bir kozmik varlığı betimleyen sinematik ve metafiziksel bir istem.
+
+#### 📝 Prompt
+
+```
+Son kapıyı açtığımda Mobius oradaydı. Mobius tüm varoluşu kabul ediyor, onu daha da yüceltiyor ve somutlaştırıyordu. Mobius'un görünüşü Dünya'yı çevreleyen bir yüzük gibiydi ve bu dünyadan değilmiş gibi duruyordu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="Mobius Kozmik Dünya Yüzüğü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9803)**
+
+**Author:** [トビオ](https://x.com/8pdxah) | **Source:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **Published:** Aug 24, 2026
+
+---
+### Sürreal Pastel Kedi Yaratığı Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yüzen ışıklar ve ruhani yapılarla dolu pastel bir manzarada dolaşan sürreal, kedi benzeri bir yaratığın rüya gibi sahnesini oluşturur.
+
+#### 📝 Prompt
+
+```
+Yüzen ışıklar ve ruhani yapılarla dolu pastel bir manzarada sürreal, kedi benzeri bir yaratık.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="Sürreal Pastel Kedi Yaratığı Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9796)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **Published:** Aug 24, 2026
+
+---
+### Fransızca Karakter Konuşması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir yapay zeka karakterinin telaffuz ve oyunculuk becerilerini test etmek amacıyla belirli bir ifadeyi Fransızca söylemesini sağlayan bir talimat istemi.
+
+#### 📝 Prompt
+
+```
+karaktere Fransızca olarak "Elbette Fransızca konuşmayı biliyorum! Benim ana dilim!" dedirt
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="Fransızca Karakter Konuşması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9797)**
+
+**Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
+
+---
 ### Altın Şehre Doğru Bulutların Üzerinde Yürüyüş
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -220,11 +359,30 @@ Bulutların üzerinde yürüyen bir adamın videosunu oluştur; gökyüzündeki 
 Gece otoyolunda Tesla Semi konvoyu için açılış sayfası ana bölüm tasarımı, yumuşak sıcak kırık beyaz ve soluk taş rengi tuval, yumuşak doğal ışıkla çekilmiş büyük boyutlu temiz fotoğraf görselleri, zarif mat şampanya ve yumuşak gri tonları, ultra temiz kompozisyon, sofistike üst düzey tipografi, yumuşak dağılmış aydınlatma, cilalı lüks ürün estetiği, sakin ve rafine atmosfer
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi Konvoyu Gece Tasarımı">
+<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi Konvoyu Gece Tasarımı">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
 
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
+
+---
+### LinkedIn Profil Fotoğrafı Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mevcut bir fotoğrafı, kişinin kimliğini mükemmel bir şekilde koruyarak profesyonel stüdyo kalitesinde bir LinkedIn profil fotoğrafına dönüştüren bir dönüşüm istemi.
+
+#### 📝 Prompt
+
+```
+Bu fotoğrafı, aynı kadının profesyonel stüdyo kalitesinde bir LinkedIn profil fotoğrafına dönüştür. Kimliğini mükemmel bir şekilde koru: tam yüz geometrisi, oranlar, göz şekli ve rengi, burun, ağız, çene hattı, kulaklar, koyu ten rengi ve gerçek cilt dokusu
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="LinkedIn Profil Fotoğrafı Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9799)**
+
+**Author:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **Source:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **Published:** Aug 24, 2026
 
 ---
 ### Sinematik Yavaş Kamera Kaydırma
@@ -1963,160 +2121,6 @@ Gümüş süslemeli zümrütten yapılmış hayvan, kurt, gerçek değerli taş 
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **Published:** Aug 16, 2026
 
 ---
-### Grok İnsansı Robot Konuşuyor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok insansı robotun belirli fiziksel özellikler ve doğal hareketlerle konuştuğunu betimleyen ayrıntılı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Grok insansı robot konuşuyor ve kendini tanıtıyor. Siyah kalıplı hafif dalgalı saçları, üzerinde G ve xAI logosu bulunan dar gümüş rengi kısa kollu tişörtü, gümüş ve siyah kemeri, siyah pantolonu ve botları var; gözleri ise parlak mavi. Konuşurken ağzı doğal bir şekilde açılıp kapanıyor, başı hafifçe hareket ediyor...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781703229911040/img/PGz9a9i5Q0s3Cg6A.jpg" width="600" alt="Grok İnsansı Robot Konuşuyor">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9314)**
-
-**Author:** [Leah Johnson](https://x.com/LeahJoh5652391) | **Source:** [Link](https://x.com/LeahJoh5652391/status/2088781726898426101) | **Published:** Aug 16, 2026
-
----
-### Sinematik Duygusal Diyalog Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Elde çekim, mikro ifadeler ve çekimler arası duygusal devamlılığa odaklanan, sinematik bir drama sahnesi oluşturmaya yönelik çok aşamalı bir istem iş akışı.
-
-#### 📝 Prompt
-
-```
-Bir erkek ve bir kadın, ayrılmadan önce aşık olmak üzere olduklarını düşündükleri bir durumu şakayla karışık tartışırlar. Aslında bunu gerçekten kastettiklerini gizlemek için şakalaşmaktadırlar. Daha doğal görünmesi için aralara bazı duraksamalar ekleyin. Sinematik, prestij seviyesinde kaliteli yönetmenlik ve sinematografi. Genel çekim, yakın plan çekimler ve duygusal derinlik için elde çekim tekniği. Geniş çekim yok. Müzik yok. Yüzlerindeki mikro ifadeler, seslerinin tonundan çok daha fazla temayı yansıtıyor.
-
-Sinematik, prestij seviyesinde kaliteli yönetmenlik ve sinematografi. Duygusal derinlik için yakın plan çekimler ve elde çekim tekniği. Geniş çekim yok. Müzik yok. Yüzlerindeki mikro ifadeler, seslerinin tonundan çok daha fazla temayı yansıtıyor. Kadın, sessizlik içinde iki vuruş boyunca erkeğin vereceği tepkiyi gözleriyle arar. Erkek daha sonra bunu isteyeceğini söyler ve birlikte olmamalarının suçunun kimde olduğu konusunda sürekli tartışmak yerine aşık olmanın daha iyi olabileceğini konuşmaya devam ederler.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866202037_pzd50h_HPzU98KW8AADwbU.png" width="600" alt="Sinematik Duygusal Diyalog Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9242)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088778581090439582) | **Published:** Aug 16, 2026
-
----
-### Çığ Mağarası Sohbet Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mavi bir buzul mağarasında, bir çığ felaketinden sonra komik bir savunmasızlık anını paylaşan bir erkek ve bir kadının yer aldığı sinematik bir video sahnesi.
-
-#### 📝 Prompt
-
-```
-Küçük, açık alevli bir propan kamp ocağıyla aydınlatılan, çığ sonucu oluşmuş bir mağarada oturan bir erkek ve bir kadın. Etraflarını saran buzul mavisi buz duvarlarında gölgeler dans ederken, çığdan önce birbirlerine aşık olmak üzere olduklarını şakayla karışık konuşuyorlar. Aslında ciddi olduklarını gizlemek için şakalaşıyorlar. Daha doğal görünmesi için aralara bazı duraksamalar ekleyin. Sinematik, prestij seviyesinde yönetmenlik ve sinematografi. Giriş çekimi, duygusal derinlik için yakın plan çekimler ve el kamerası kullanımı. Geniş açılı çekim yok. Müzik yok. Yüzlerindeki mikro ifadeler, seslerinin tonundan çok daha fazla temayı yansıtıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088767536498139136/img/PWgeR9Dn4NnV3T-s.jpg" width="600" alt="Çığ Mağarası Sohbet Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9248)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088767552935891355) | **Published:** Aug 15, 2026
-
----
-### Tesla AI Açılış Sayfası Video Tasarımı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tesla AI için koyu kömür rengi arka planlar ve fütüristik cam arayüz öğeleri içeren, akıcı video hareketleri için optimize edilmiş sinematik bir açılış sayfası tasarımı.
-
-#### 📝 Prompt
-
-```
-Tesla AI için açılış sayfası hero bölümü tasarımı, koyu kömür renginden siyaha yakın tonlara geçiş, büyük boyutlu sürükleyici fotoğrafik görseller, zengin atmosferik derinlik, yumuşak kehribar vurgularla soğuk camgöbeği ve çelik mavisi, yumuşak hacimsel pus, belirgin sinematik kontrast, ince yarı saydam cam arayüz öğeleri, zarif ve rafine tipografi, asimetrik kompozisyon, geniş negatif alan, ultra premium fütüristik estetik, ultra yüksek detay
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088705704584769536/img/52mMFnwkTW01jSCN.jpg" width="600" alt="Tesla AI Açılış Sayfası Video Tasarımı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9252)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088755110658842971) | **Published:** Aug 15, 2026
-
----
-### Carhartt Tulum Giyen Grok İnsansı Robot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Endüstriyel bir ortamda markalı iş kıyafetleri ve yüksek tabanlı spor ayakkabılar giyen insansı bir robotu gösteren, Grok Imagine için bir video istemi.
-
-#### 📝 Prompt
-
-```
-Üzerinde Xai logosu bulunan kısa kollu, mavi Carhartt tarzı bir tulum, aynı Xai logolu bir beyzbol şapkası ve mavi Converse yüksek tabanlı spor ayakkabılar giyen Grok insansı robotu. Genel pozu ve endüstriyel arka planı koruyun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088746691541483520/img/1ekaE54PifpTcg9O.jpg" width="600" alt="Carhartt Tulum Giyen Grok İnsansı Robot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9244)**
-
-**Author:** [Leah Johnson](https://x.com/LeahJoh5652391) | **Source:** [Link](https://x.com/LeahJoh5652391/status/2088746704321613918) | **Published:** Aug 15, 2026
-
----
-### Multiverse Galaxy Waves Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Galaktik dalgaları, nebulaları ve pembe ile altın rengi parıltılar içindeki etkileşimli güneş sistemlerini görselleştiren kozmik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Çoklu evrenler ile bizim evrenimiz arasındaki etkileşimi göster; kozmik renkler, altın sarısı, gökyüzü mavisi, beyaz, parlayan pembe ışıltılar ve birçok güneş sistemi, nebula ve galaktik gravitron dalgaları kullan, hayal gücünü konuştur.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727149066768384/img/1_br_16e4kez3VrL.jpg" width="600" alt="Multiverse Galaxy Waves Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9246)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2088727195682292113) | **Published:** Aug 15, 2026
-
----
-### Uzaylı Animatronik Korku Sıçrama Etkisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Büyük ölçekli bir animatronik uzaylı avcıyı ve belirli bir sıçrama etkisi (jump-scare) video hareket talimatını tanımlayan iki bölümlü detaylı bir istem.
-
-#### 📝 Prompt
-
-```
-Tam ölçekli fiziksel bir animatronik olarak inşa edilmiş devasa bir uzaylı yırtıcı yaratık. Parlak siyah fiberglas kabuk, birbirine kenetlenen metal plakalar ve uzuvları kontrol eden kalın hidrolik çubuklar. Islak sümüksü bir tabaka, akrilik reçine dişlerden damlayan salyalar. Sert ve dramatik kenar aydınlatması, karanlık uzay gemisi koridoru arka planı, anamorfik lensle çekilmiş, 1980'lerin sinematik bilim kurgu korku tarzı. Basit Video İstemi: Kamera bir uzay gemisinin boş iç mekanına bakarken, yaratık kameranın üzerinden atlar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088719871185911808/img/pD1zE3IqWGKZniQG.jpg" width="600" alt="Uzaylı Animatronik Korku Sıçrama Etkisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9253)**
-
-**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2088719909866160132) | **Published:** Aug 15, 2026
-
----
-### Kızıldeniz'in Yarılması Sinematik
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kızıldeniz'in İsrailoğulları için yarılmasını konu alan, İncil'deki sahneyi betimleyen dramatik bir animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Kızıldeniz'in yarılmasını, İsrailoğullarının geçişini ve Mısırlıların savaş arabalarının batışını hayal edin
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088682513963372544/img/UqXXSPblOLlayEYC.jpg" width="600" alt="Kızıldeniz'in Yarılması Sinematik">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9247)**
-
-**Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **Published:** Aug 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2178,6 +2182,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-25T05:03:41.286Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-25T09:11:23.873Z</sub>
 
 </div>

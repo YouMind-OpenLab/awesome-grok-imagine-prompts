@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2583** |
+| 📝 提示词总数 | **2591** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-08-25** |
 
@@ -189,6 +189,145 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 山中龙树
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个风景景观提示词，描绘了在暴风雨的山隘中，从松枝间隐现的龙脸。
+
+#### 📝 提示词
+
+```
+透过两棵松树看向远处山间的隘口，云层中雷声滚滚，一弯新月挂在天边，两张龙脸在松树枝叶间逐渐显现
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="山中龙树">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9802)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **发布时间:** Aug 25, 2026
+
+---
+### 飞马野马跑车
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的 YouMind 项目提示词，用于生成一辆长有飞马翅膀的白色福特野马，它既能飞行也能在水面上行驶。
+
+#### 📝 提示词
+
+```
+一辆流线型的白色福特野马肌肉车，两侧伸展着巨大而雄伟的白色飞马翅膀，具备飞行能力，能像船一样漂浮在水面上，也能在公路上行驶。车身采用亮面白色喷漆，配有镀铬细节 —— 专为 YouMind 项目设计的 AI 提示词 - 聚焦
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="飞马野马跑车">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9801)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **发布时间:** Aug 25, 2026
+
+---
+### 多种舞蹈风格场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段关于舞者共同表演芭蕾及其他舞蹈风格的视频描述提示词。
+
+#### 📝 提示词
+
+```
+舞者们聆听着音乐，开始翩翩起舞。
+
+有些人共同起舞。
+
+有些人跳着芭蕾。
+
+有些人尝试了不同类型的舞蹈。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="多种舞蹈风格场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9798)**
+
+**作者:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **来源:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **发布时间:** Aug 25, 2026
+
+---
+### 飘逸丝巾艺术动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个专注于丝巾物理动态的艺术视频提示词，旨在呈现出如动态油画般的视觉效果。
+
+#### 📝 提示词
+
+```
+让她周围的丝巾随风飘动，我们重点呈现出如画作般流动的布料质感
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="飘逸丝巾艺术动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9800)**
+
+**作者:** [liviiiisssa](https://x.com/livisameno) | **来源:** [Link](https://x.com/livisameno/status/2091951872047538472) | **发布时间:** Aug 24, 2026
+
+---
+### 莫比乌斯宇宙地球之环
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一段充满电影感与形而上学色彩的提示词，描述了一个环绕地球的超现实宇宙实体。
+
+#### 📝 提示词
+
+```
+推开最后一扇门，Mobius 就在那里。Mobius 接纳一切存在，将其升华并融为一体。Mobius 的外形宛如环绕地球的圆环，看起来仿佛不属于这个世界。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="莫比乌斯宇宙地球之环">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9803)**
+
+**作者:** [トビオ](https://x.com/8pdxah) | **来源:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **发布时间:** Aug 24, 2026
+
+---
+### 超现实柔和色调猫科生物视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一个梦幻般的场景，描绘一只超现实的猫科生物在充满浮动光点和空灵建筑的柔和色调景观中漫步。
+
+#### 📝 提示词
+
+```
+一只超现实的猫科生物，置身于充满浮动光点和空灵建筑的柔和色调景观中。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="超现实柔和色调猫科生物视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9796)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **发布时间:** Aug 24, 2026
+
+---
+### 法语角色语音
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一条指令提示词，用于让 AI 角色用法语说出特定短语，以测试其发音和表演效果。
+
+#### 📝 提示词
+
+```
+让角色用法语说出：“Of course I know how to speak French! It's my native language!”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="法语角色语音">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9797)**
+
+**作者:** [Gilles Guerraz](https://x.com/gillesguerraz) | **来源:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **发布时间:** Aug 24, 2026
+
+---
 ### 漫步云端，奔向黄金之城
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -220,11 +359,30 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 Tesla Semi 车队在夜间高速公路行驶的落地页首屏设计，采用柔和的暖米色和浅石色画布，超大尺寸的清晰摄影图像搭配柔和的自然光，优雅的哑光香槟色与柔灰色调，构图极其简洁，采用精致的高端排版，柔和的漫射光，呈现出考究的奢华产品美学，营造出宁静而优雅的氛围
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi 车队夜间设计">
+<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi 车队夜间设计">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9754)**
 
 **作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **发布时间:** Aug 24, 2026
+
+---
+### LinkedIn 职业形象照转换
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个转换提示词，可将现有照片转换为专业影棚级的 LinkedIn 职业形象照，同时完美保留人物的身份特征。
+
+#### 📝 提示词
+
+```
+将这张照片转换为同一位女性的专业影棚级 LinkedIn 职业形象照。完美保留其身份特征：精确的面部几何结构、比例、眼睛形状和颜色、鼻子、嘴巴、下颌线、耳朵、深色肤色以及真实的皮肤纹理。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="LinkedIn 职业形象照转换">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9799)**
+
+**作者:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **来源:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **发布时间:** Aug 24, 2026
 
 ---
 ### 电影级慢速镜头平移
@@ -1964,160 +2122,6 @@ Hello Kitty 从商店偷走了糖果：她妈妈说“不要偷糖果，你惹�
 **作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **来源:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **发布时间:** Aug 16, 2026
 
 ---
-### Grok 人形机器人演讲
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详细的视频提示词，描述了 Grok 人形机器人在演讲时的特定外貌特征与自然动作。
-
-#### 📝 提示词
-
-```
-Grok 人形机器人正在说话并进行自我介绍。他留着黑色模塑的微卷短发，身穿合身的银色短袖 T 恤，上面印有 G 和 xAI 的标志，佩戴银黑相间的腰带，穿着黑色长裤和靴子，拥有一双明亮的蓝色眼睛。他说话时嘴巴自然开合，头部有轻微的晃动，...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781703229911040/img/PGz9a9i5Q0s3Cg6A.jpg" width="600" alt="Grok 人形机器人演讲">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9314)**
-
-**作者:** [Leah Johnson](https://x.com/LeahJoh5652391) | **来源:** [Link](https://x.com/LeahJoh5652391/status/2088781726898426101) | **发布时间:** Aug 16, 2026
-
----
-### 电影感情感对话场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于创作电影感剧情场景的多阶段提示词工作流，侧重于手持摄影、微表情捕捉以及镜头间的情感连贯性。
-
-#### 📝 提示词
-
-```
-一男一女开玩笑地讨论他们如何在分开前差点坠入爱河。他们用玩笑来掩饰内心的真实想法。加入一些停顿，使对话显得更加自然。电影级、高水准的导演与摄影。包含建立镜头、紧凑特写和手持摄影，以增强情感共鸣。不使用广角镜头。无背景音乐。面部的微表情比说话的声音更能传达主题。
-
-电影级、高水准的导演与摄影。紧凑特写和手持摄影以增强情感共鸣。不使用广角镜头。无背景音乐。面部的微表情比说话的声音更能传达主题。在两拍的沉默中，女人的眼神探寻着男人的回应。随后男人表示他很乐意，两人继续讨论坠入爱河是否比一直争吵“是谁的错导致他们没能在一起”要好。
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866202037_pzd50h_HPzU98KW8AADwbU.png" width="600" alt="电影感情感对话场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9242)**
-
-**作者:** [Rob Allan](https://x.com/allan_robII) | **来源:** [Link](https://x.com/allan_robII/status/2088778581090439582) | **发布时间:** Aug 16, 2026
-
----
-### 雪崩洞穴对话场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频场景，讲述了一男一女在蓝色冰川洞穴中，在雪崩后分享一段幽默而脆弱的时刻。
-
-#### 📝 提示词
-
-```
-一男一女坐在由雪崩形成的洞穴中，由一个小型开放式丙烷露营炉照亮。他们开玩笑地讨论在雪崩前他们以为自己快要坠入爱河，此时阴影在他们周围的冰川蓝色冰墙上摇曳。他们用玩笑来掩饰内心的真实想法。加入一些停顿，使其看起来更自然。电影级、高水准的导演和摄影。包含建立镜头、紧凑的特写镜头以及用于增强情感共鸣的手持摄影。无广角镜头。无背景音乐。他们脸上的微表情比说话的声音更能传达主题。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088767536498139136/img/PWgeR9Dn4NnV3T-s.jpg" width="600" alt="雪崩洞穴对话场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9248)**
-
-**作者:** [Rob Allan](https://x.com/allan_robII) | **来源:** [Link](https://x.com/allan_robII/status/2088767552935891355) | **发布时间:** Aug 15, 2026
-
----
-### Tesla AI 着陆页视频设计
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一款为 Tesla AI 设计的电影级着陆页，采用深炭色背景与未来感玻璃 UI 元素，针对流畅的视频动态效果进行了优化。
-
-#### 📝 提示词
-
-```
-Tesla AI 着陆页首屏设计，采用从深炭色到近乎黑色的背景，超大沉浸式摄影图像，丰富的氛围深度，冷青色与钢蓝色调搭配柔和的琥珀色点缀，柔和的体积雾效果，鲜明的电影级对比度，精致的半透明玻璃 UI 元素，优雅考究的排版，非对称构图，充裕的留白，极致高端的未来感美学，超高细节呈现
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088705704584769536/img/52mMFnwkTW01jSCN.jpg" width="600" alt="Tesla AI 着陆页视频设计">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9252)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2088755110658842971) | **发布时间:** Aug 15, 2026
-
----
-### 身穿 Carhartt 连体工装的 Grok 人形机器人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个用于 Grok Imagine 的视频提示词，展示了一个在工业环境中身穿品牌工装和高帮运动鞋的人形机器人。
-
-#### 📝 提示词
-
-```
-Grok 人形机器人，身穿带有 Xai 标志的蓝色短袖 Carhartt 风格连体工装，头戴印有相同 Xai 标志的棒球帽，脚穿蓝色 Converse 高帮运动鞋。保持整体姿势和工业背景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088746691541483520/img/1ekaE54PifpTcg9O.jpg" width="600" alt="身穿 Carhartt 连体工装的 Grok 人形机器人">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9244)**
-
-**作者:** [Leah Johnson](https://x.com/LeahJoh5652391) | **来源:** [Link](https://x.com/LeahJoh5652391/status/2088746704321613918) | **发布时间:** Aug 15, 2026
-
----
-### 多元宇宙星系波视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段宇宙视频提示词，可视化呈现星系波、星云以及相互作用的太阳系，带有粉色和金色的光芒。
-
-#### 📝 提示词
-
-```
-向我展示多元宇宙与我们宇宙之间的相互作用，呈现宇宙真实的色彩，金色、天蓝色、白色，闪烁着粉色的光芒，包含许多太阳系、星云和星系引力波，发挥你的想象力
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727149066768384/img/1_br_16e4kez3VrL.jpg" width="600" alt="多元宇宙星系波视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9246)**
-
-**作者:** [KENDREIK Artist](https://x.com/kendreik) | **来源:** [Link](https://x.com/kendreik/status/2088727195682292113) | **发布时间:** Aug 15, 2026
-
----
-### 外星机械仿生恐怖跳跃惊吓
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详细的两部分提示词，描述了一个大型机械仿生外星掠食者以及具体的跳跃惊吓视频动作指令。
-
-#### 📝 提示词
-
-```
-一只巨大的外星顶级掠食生物，以全尺寸实体机械仿生装置呈现。闪烁着光泽的黑色玻璃纤维外壳、相互咬合的金属板以及控制肢体的粗壮液压杆。表面覆盖湿润的粘液，丙烯酸树脂牙齿上滴落着唾液。强烈的戏剧性轮廓光，背景为黑暗的宇宙飞船走廊，采用变形镜头拍摄，呈现 1980 年代电影级科幻恐怖质感。简单视频提示词：它跳过镜头，镜头随后停留在空荡荡的宇宙飞船内部。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088719871185911808/img/pD1zE3IqWGKZniQG.jpg" width="600" alt="外星机械仿生恐怖跳跃惊吓">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9253)**
-
-**作者:** [NYXEN](https://x.com/NYXEN_77) | **来源:** [Link](https://x.com/NYXEN_77/status/2088719909866160132) | **发布时间:** Aug 15, 2026
-
----
-### 红海分海电影级画面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段极具戏剧性的动画提示词，描绘了圣经中红海分开、以色列人从中通过的场景。
-
-#### 📝 提示词
-
-```
-想象红海分开的场景，以色列人正在通过，而埃及人的战车正在沉没
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088682513963372544/img/UqXXSPblOLlayEYC.jpg" width="600" alt="红海分海电影级画面">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9247)**
-
-**作者:** [Hany N. Takla](https://x.com/HanyNTakla2) | **来源:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **发布时间:** Aug 15, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2179,6 +2183,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-25T05:03:29.748Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-25T09:11:10.035Z</sub>
 
 </div>

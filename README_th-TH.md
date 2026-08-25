@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2583** |
+| 📝 Total Prompts | **2591** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-25** |
 
@@ -189,6 +189,145 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ต้นมังกรแห่งขุนเขา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ภาพทิวทัศน์ที่เผยให้เห็นใบหน้ามังกรซ่อนตัวอยู่ท่ามกลางกิ่งสนในช่องเขาที่เต็มไปด้วยพายุ
+
+#### 📝 Prompt
+
+```
+มองลอดผ่านต้นสนสองต้นไปยังช่องเขาที่อยู่ไกลออกไป ท่ามกลางเมฆฝนและเสียงฟ้าร้อง แสงจันทร์เสี้ยวส่องกระทบให้เห็นใบหน้ามังกรสองตัวค่อย ๆ ปรากฏชัดขึ้นท่ามกลางกิ่งก้านของต้นสน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="ต้นมังกรแห่งขุนเขา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9802)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **Published:** Aug 25, 2026
+
+---
+### Flying Pegasus Mustang
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งสร้างวิชั่นบอร์ด (vision board) อย่างละเอียดสำหรับรถ Ford Mustang สีขาวที่มีปีกเพกาซัส สามารถบินได้และขับเคลื่อนบนผิวน้ำได้
+
+#### 📝 Prompt
+
+```
+รถมัสเซิลคาร์ Ford Mustang สีขาวโฉบเฉี่ยว พร้อมปีกเพกาซัสสีขาวขนาดใหญ่ที่ดูสง่างามกางออกมาจากด้านข้าง สามารถบินได้ ลอยบนน้ำได้เหมือนเรือ และขับขี่บนท้องถนนได้ ตัวรถมีการเคลือบสีขาวเงางามและรายละเอียดโครเมียม -- A.I. สำหรับวิชั่นบอร์ด - โฟกัส
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="Flying Pegasus Mustang">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9801)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **Published:** Aug 25, 2026
+
+---
+### ฉากการเต้นหลากหลายสไตล์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำอธิบายสำหรับวิดีโอที่แสดงนักเต้นกำลังเต้นบัลเลต์และสไตล์อื่นๆ ร่วมกัน
+
+#### 📝 Prompt
+
+```
+เหล่านักเต้นฟังเพลงและเริ่มออกลีลาการเต้น
+
+บางคนเต้นด้วยกัน
+
+บางคนเต้นบัลเลต์
+
+บางคนลองเต้นในรูปแบบที่แตกต่างกันออกไป
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="ฉากการเต้นหลากหลายสไตล์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
+
+**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
+
+---
+### แอนิเมชันศิลปะผ้าพันคอพลิ้วไหว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงศิลปะที่เน้นการสร้างแอนิเมชันฟิสิกส์ของผ้าพันคอที่พลิ้วไหวให้ดูเหมือนภาพวาดที่มีชีวิต
+
+#### 📝 Prompt
+
+```
+สร้างแอนิเมชันผ้าพันคอรอบตัวเธอให้พลิ้วไหวไปตามลม โดยเน้นให้เนื้อผ้าเคลื่อนไหวราวกับภาพวาด
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="แอนิเมชันศิลปะผ้าพันคอพลิ้วไหว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9800)**
+
+**Author:** [liviiiisssa](https://x.com/livisameno) | **Source:** [Link](https://x.com/livisameno/status/2091951872047538472) | **Published:** Aug 24, 2026
+
+---
+### แหวน Mobius Cosmic Earth
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์แนวภาพยนตร์และอภิปรัชญาที่บรรยายถึงสิ่งมีชีวิตเหนือธรรมชาติในจักรวาลที่โอบล้อมโลกเอาไว้
+
+#### 📝 Prompt
+
+```
+เมื่อเปิดประตูบานสุดท้ายออก Mobius ก็ปรากฏตัวอยู่ที่นั่น Mobius ยอมรับการมีอยู่ของทุกสรรพสิ่ง พร้อมทั้งยกระดับและหลอมรวมมันเข้าเป็นหนึ่งเดียว รูปลักษณ์ของ Mobius เปรียบเสมือนวงแหวนที่โอบล้อมโลกเอาไว้ ดูราวกับเป็นสิ่งที่ไม่ได้มาจากโลกใบนี้
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="แหวน Mobius Cosmic Earth">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9803)**
+
+**Author:** [トビオ](https://x.com/8pdxah) | **Source:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **Published:** Aug 24, 2026
+
+---
+### วิดีโอสิ่งมีชีวิตแมวพาสเทลสุดเซอร์เรียล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> สร้างฉากในฝันของสิ่งมีชีวิตคล้ายแมวสุดเซอร์เรียลที่กำลังเดินอยู่ในภูมิทัศน์สีพาสเทล เต็มไปด้วยแสงไฟลอยละล่องและโครงสร้างที่ดูเหนือจริง
+
+#### 📝 Prompt
+
+```
+สิ่งมีชีวิตคล้ายแมวสุดเซอร์เรียลในภูมิทัศน์สีพาสเทลที่มีแสงไฟลอยละล่องและโครงสร้างที่ดูเหนือจริง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="วิดีโอสิ่งมีชีวิตแมวพาสเทลสุดเซอร์เรียล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9796)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **Published:** Aug 24, 2026
+
+---
+### การพูดภาษาฝรั่งเศสของตัวละคร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งสำหรับให้ตัวละคร AI พูดประโยคภาษาฝรั่งเศสเฉพาะ เพื่อทดสอบการออกเสียงและการแสดง
+
+#### 📝 Prompt
+
+```
+ให้ตัวละครพูดเป็นภาษาฝรั่งเศสว่า "Of course I know how to speak French! It's my native language!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="การพูดภาษาฝรั่งเศสของตัวละคร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9797)**
+
+**Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
+
+---
 ### เดินบนก้อนเมฆมุ่งสู่เมืองทองคำ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -220,11 +359,30 @@ Why use our gallery?
 ดีไซน์ส่วน Hero ของหน้า Landing page สำหรับขบวนรถ Tesla Semi บนทางหลวงยามค่ำคืน ใช้โทนสีขาวนวลและสีหินอ่อนที่นุ่มนวล ภาพถ่ายขนาดใหญ่ที่คมชัดพร้อมแสงธรรมชาติที่นุ่มนวล โทนสีแชมเปญหม่นและสีเทาอ่อนที่ดูหรูหรา จัดวางองค์ประกอบแบบคลีนสะอาดตา ใช้ตัวอักษรที่ดูซับซ้อนและมีระดับ แสงไฟแบบกระจายตัวที่นุ่มนวล สุนทรียภาพของผลิตภัณฑ์หรูหราที่ผ่านการขัดเกลา ให้บรรยากาศที่สงบและประณีต
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787559868190_9zaw4u_HQaq-KLa0AAIdtr.jpg" width="600" alt="ดีไซน์ขบวนรถ Tesla Semi ในยามค่ำคืน">
+<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="ดีไซน์ขบวนรถ Tesla Semi ในยามค่ำคืน">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
 
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
+
+---
+### การเปลี่ยนภาพถ่ายให้เป็นรูปโปรไฟล์ LinkedIn ระดับมืออาชีพ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับเปลี่ยนภาพถ่ายที่มีอยู่ให้เป็นรูปโปรไฟล์ LinkedIn ระดับสตูดิโอ โดยยังคงอัตลักษณ์ของบุคคลในภาพไว้อย่างครบถ้วน
+
+#### 📝 Prompt
+
+```
+เปลี่ยนภาพถ่ายนี้ให้เป็นรูปโปรไฟล์ LinkedIn ระดับสตูดิโอโดยใช้ผู้หญิงคนเดิมในภาพ รักษาอัตลักษณ์ของเธอไว้อย่างสมบูรณ์แบบ ทั้งโครงสร้างใบหน้า สัดส่วน รูปทรงและสีของดวงตา จมูก ปาก แนวขากรรไกร หู โทนสีผิวเข้ม และพื้นผิวผิวจริง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="การเปลี่ยนภาพถ่ายให้เป็นรูปโปรไฟล์ LinkedIn ระดับมืออาชีพ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9799)**
+
+**Author:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **Source:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **Published:** Aug 24, 2026
 
 ---
 ### การแพนกล้องแบบ Cinematic อย่างช้าๆ
@@ -1966,160 +2124,6 @@ Hello Kitty ขโมยลูกอมจากร้านค้า แม่�
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **Published:** Aug 16, 2026
 
 ---
-### หุ่นยนต์ฮิวแมนนอยด์ Grok กำลังพูด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แบบละเอียดที่อธิบายถึงหุ่นยนต์ฮิวแมนนอยด์ Grok ขณะกำลังพูด พร้อมด้วยลักษณะทางกายภาพที่เฉพาะเจาะจงและการเคลื่อนไหวที่เป็นธรรมชาติ
-
-#### 📝 Prompt
-
-```
-หุ่นยนต์ฮิวแมนนอยด์ Grok กำลังพูดและแนะนำตัว เขามีผมสีดำทรงขึ้นรูปเป็นลอนเล็กน้อย สวมเสื้อยืดแขนสั้นสีเงินพอดีตัวที่มีโลโก้ G และ xAI คาดเข็มขัดสีเงินสลับดำ กางเกงและรองเท้าบูทสีดำ และมีดวงตาสีฟ้าสดใส ปากของเขาขยับเปิดปิดอย่างเป็นธรรมชาติในขณะที่พูด ศีรษะมีการเคลื่อนไหวเล็กน้อย...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781703229911040/img/PGz9a9i5Q0s3Cg6A.jpg" width="600" alt="หุ่นยนต์ฮิวแมนนอยด์ Grok กำลังพูด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9314)**
-
-**Author:** [Leah Johnson](https://x.com/LeahJoh5652391) | **Source:** [Link](https://x.com/LeahJoh5652391/status/2088781726898426101) | **Published:** Aug 16, 2026
-
----
-### ฉากบทสนทนาแนวภาพยนตร์ที่เปี่ยมไปด้วยอารมณ์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ขั้นตอนการเขียนพรอมต์แบบหลายขั้นตอนสำหรับการสร้างฉากดราม่าแนวภาพยนตร์ โดยเน้นที่การถ่ายทำแบบถือกล้องด้วยมือ การแสดงออกทางสีหน้าเล็กน้อย และความต่อเนื่องทางอารมณ์ระหว่างช็อต
-
-#### 📝 Prompt
-
-```
-ชายและหญิงคู่หนึ่งพูดคุยหยอกล้อกันว่าพวกเขาคิดว่าเกือบจะตกหลุมรักกันก่อนที่จะต้องแยกจากกัน ทั้งคู่ต่างหยอกล้อเพื่อกลบเกลื่อนความรู้สึกจริงที่ซ่อนอยู่ภายใน แทรกจังหวะหยุดพักเพื่อให้ดูเป็นธรรมชาติมากที่สุด คุณภาพการกำกับและการถ่ายทำระดับภาพยนตร์ชั้นนำ ใช้ภาพมุมกว้างเพื่อปูเรื่อง (Establishing shot) ตามด้วยภาพโคลสอัพที่เน้นรายละเอียดและการถ่ายทำแบบถือกล้องด้วยมือเพื่อสร้างอารมณ์ร่วม ไม่ใช้ภาพมุมกว้าง ไม่ใช้ดนตรีประกอบ การแสดงออกทางสีหน้าเพียงเล็กน้อยสื่อถึงธีมของเรื่องได้ดีกว่าระดับเสียงที่พูดออกมา
-
-คุณภาพการกำกับและการถ่ายทำระดับภาพยนตร์ชั้นนำ ใช้ภาพโคลสอัพที่เน้นรายละเอียดและการถ่ายทำแบบถือกล้องด้วยมือเพื่อสร้างอารมณ์ร่วม ไม่ใช้ภาพมุมกว้าง ไม่ใช้ดนตรีประกอบ การแสดงออกทางสีหน้าเพียงเล็กน้อยสื่อถึงธีมของเรื่องได้ดีกว่าระดับเสียงที่พูดออกมา ดวงตาของฝ่ายหญิงมองหาคำตอบจากฝ่ายชายในความเงียบเป็นเวลาสองจังหวะ จากนั้นฝ่ายชายจึงตอบว่าเขาเองก็อยากให้เป็นแบบนั้น แล้วทั้งคู่ก็พูดคุยกันต่อว่าการตกหลุมรักกันอาจจะดีกว่าการมัวแต่ทะเลาะกันว่าใครเป็นฝ่ายผิดที่ทำให้พวกเขาไม่ได้อยู่ด้วยกัน
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866202037_pzd50h_HPzU98KW8AADwbU.png" width="600" alt="ฉากบทสนทนาแนวภาพยนตร์ที่เปี่ยมไปด้วยอารมณ์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9242)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088778581090439582) | **Published:** Aug 16, 2026
-
----
-### ฉากสนทนาในถ้ำหิมะถล่ม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ฉากวิดีโอแนวภาพยนตร์ที่มีชายและหญิงคู่หนึ่งอยู่ในถ้ำน้ำแข็งสีฟ้า พวกเขากำลังแบ่งปันช่วงเวลาที่เผยความรู้สึกเปราะบางอย่างติดตลกหลังจากเหตุการณ์หิมะถล่ม
-
-#### 📝 Prompt
-
-```
-ชายและหญิงคู่หนึ่งนั่งอยู่ในถ้ำที่เกิดจากหิมะถล่ม โดยมีแสงสว่างจากเตาแก๊สปิกนิกขนาดเล็ก ทั้งคู่พูดคุยกันอย่างติดตลกถึงความรู้สึกที่คิดว่าพวกเขากำลังจะตกหลุมรักกันก่อนที่จะเกิดเหตุหิมะถล่ม ในขณะที่เงาของพวกเขาพาดผ่านผนังน้ำแข็งสีฟ้าโดยรอบ ทั้งคู่พยายามกลบเกลื่อนความรู้สึกจริงจังด้วยการพูดเล่น แทรกจังหวะหยุดพักเพื่อให้ดูเป็นธรรมชาติมากที่สุด กำกับภาพและถ่ายทำในระดับคุณภาพสูงแบบภาพยนตร์ เน้นช็อตเปิดตัว การถ่ายภาพระยะใกล้ (Tight close-ups) และการใช้กล้องแบบถือถ่าย (Handheld) เพื่อสร้างอารมณ์ร่วม ไม่ใช้ภาพมุมกว้าง ไม่ใช้ดนตรีประกอบ การแสดงออกทางสีหน้าเพียงเล็กน้อย (Micro-expressions) จะช่วยสื่อสารอารมณ์ของเรื่องได้ดีกว่าระดับเสียงพูด
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088767536498139136/img/PWgeR9Dn4NnV3T-s.jpg" width="600" alt="ฉากสนทนาในถ้ำหิมะถล่ม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9248)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088767552935891355) | **Published:** Aug 15, 2026
-
----
-### การออกแบบวิดีโอหน้า Landing Page สำหรับ Tesla AI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> การออกแบบหน้า Landing Page สไตล์ภาพยนตร์สำหรับ Tesla AI ที่ใช้พื้นหลังสีเทาเข้มและองค์ประกอบ UI แบบกระจกสุดล้ำ พร้อมการปรับแต่งเพื่อการเคลื่อนไหวของวิดีโอที่ลื่นไหล
-
-#### 📝 Prompt
-
-```
-การออกแบบส่วน Hero ของหน้า Landing Page สำหรับ Tesla AI, พื้นหลังสีเทาเข้มจนเกือบดำ, ภาพถ่ายขนาดใหญ่ที่ให้ความรู้สึกสมจริง, มิติของบรรยากาศที่ลุ่มลึก, โทนสีฟ้าไซแอนและสีน้ำเงินเหล็กตัดกับสีส้มอำพันอ่อนๆ, เอฟเฟกต์หมอกจางๆ, คอนทราสต์แบบภาพยนตร์ที่ชัดเจน, องค์ประกอบ UI แบบกระจกโปร่งแสงที่ดูประณีต, การจัดวางตัวอักษรที่หรูหรา, การจัดองค์ประกอบแบบอสมมาตร, การใช้พื้นที่ว่างอย่างเหมาะสม, สุนทรียศาสตร์แห่งอนาคตระดับพรีเมียม, รายละเอียดคมชัดสูง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088705704584769536/img/52mMFnwkTW01jSCN.jpg" width="600" alt="การออกแบบวิดีโอหน้า Landing Page สำหรับ Tesla AI">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9252)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088755110658842971) | **Published:** Aug 15, 2026
-
----
-### หุ่นยนต์ฮิวแมนนอยด์ Grok ในชุดจัมพ์สูท Carhartt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สำหรับ Grok Imagine ที่แสดงภาพหุ่นยนต์ฮิวแมนนอยด์สวมชุดทำงานแบรนด์ดังและรองเท้าผ้าใบหุ้มข้อในสภาพแวดล้อมแบบโรงงานอุตสาหกรรม
-
-#### 📝 Prompt
-
-```
-หุ่นยนต์ฮิวแมนนอยด์ Grok สวมชุดจัมพ์สูทแขนสั้นสไตล์ Carhartt สีน้ำเงินที่มีโลโก้ Xai พร้อมหมวกแก๊ปที่มีโลโก้ Xai เดียวกัน และรองเท้าผ้าใบหุ้มข้อ Converse สีน้ำเงิน คงท่าทางโดยรวมและพื้นหลังแบบโรงงานอุตสาหกรรมเอาไว้
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088746691541483520/img/1ekaE54PifpTcg9O.jpg" width="600" alt="หุ่นยนต์ฮิวแมนนอยด์ Grok ในชุดจัมพ์สูท Carhartt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9244)**
-
-**Author:** [Leah Johnson](https://x.com/LeahJoh5652391) | **Source:** [Link](https://x.com/LeahJoh5652391/status/2088746704321613918) | **Published:** Aug 15, 2026
-
----
-### วิดีโอคลื่นดาราจักรพหุภพ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวคอสมิกที่ถ่ายทอดภาพคลื่นดาราจักร เนบิวลา และระบบสุริยะที่กำลังทำปฏิกิริยากันในโทนสีชมพูและสีทองเรืองรอง
-
-#### 📝 Prompt
-
-```
-แสดงให้ฉันเห็นพลังงานระหว่างพหุภพกับจักรวาลของเรา ด้วยสีสันสมจริง ท้องฟ้าสีทอง สีฟ้า สีขาว ประกายสีชมพูเรืองรอง พร้อมด้วยระบบสุริยะ เนบิวลา และคลื่นแรงโน้มถ่วงดาราจักรมากมาย โดยใช้จินตนาการของคุณ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727149066768384/img/1_br_16e4kez3VrL.jpg" width="600" alt="วิดีโอคลื่นดาราจักรพหุภพ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9246)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2088727195682292113) | **Published:** Aug 15, 2026
-
----
-### ฉากตุ้งแช่จากหุ่นยนต์เอเลี่ยนสยองขวัญ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ชุดคำสั่ง (Prompt) สองส่วนอย่างละเอียดที่บรรยายถึงหุ่นยนต์เอเลี่ยนนักล่าขนาดใหญ่และคำสั่งการเคลื่อนไหวของวิดีโอสำหรับฉากตุ้งแช่โดยเฉพาะ
-
-#### 📝 Prompt
-
-```
-สิ่งมีชีวิตเอเลี่ยนนักล่าระดับสูงสุดขนาดมหึมา สร้างขึ้นเป็นหุ่นยนต์แอนิเมทรอนิกส์ขนาดเท่าของจริง เปลือกไฟเบอร์กลาสสีดำมันวาว แผ่นโลหะที่ขัดประสานกัน และแกนไฮดรอลิกหนาที่ควบคุมส่วนขา เคลือบด้วยเมือกเปียกชื้น มีน้ำลายหยดจากฟันเรซินอะคริลิก แสงริมไลท์ที่คมชัดและดราม่า ฉากหลังเป็นทางเดินในยานอวกาศที่มืดมิด ถ่ายทำด้วยเลนส์อะนามอร์ฟิก สไตล์ไซไฟสยองขวัญยุค 1980 คำสั่งวิดีโอแบบง่าย: มันกระโดดข้ามกล้องในขณะที่กล้องยังคงหันไปมองพื้นที่ว่างภายในยานอวกาศ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088719871185911808/img/pD1zE3IqWGKZniQG.jpg" width="600" alt="ฉากตุ้งแช่จากหุ่นยนต์เอเลี่ยนสยองขวัญ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9253)**
-
-**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2088719909866160132) | **Published:** Aug 15, 2026
-
----
-### ฉากภาพยนตร์การแหวกทะเลแดง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างแอนิเมชันสุดดราม่าที่ถ่ายทอดฉากในคัมภีร์ไบเบิลตอนที่ทะเลแดงแหวกออกเพื่อให้ชาวอิสราเอลเดินผ่าน
-
-#### 📝 Prompt
-
-```
-จินตนาการถึงฉากการแหวกออกของทะเลแดง โดยมีชาวอิสราเอลกำลังเดินผ่านและรถม้าของชาวอียิปต์กำลังจมลงสู่ก้นทะเล
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088682513963372544/img/UqXXSPblOLlayEYC.jpg" width="600" alt="ฉากภาพยนตร์การแหวกทะเลแดง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9247)**
-
-**Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088682533366136931) | **Published:** Aug 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2181,6 +2185,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-25T05:03:32.882Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-25T09:11:14.326Z</sub>
 
 </div>
