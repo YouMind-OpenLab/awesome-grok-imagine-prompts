@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2591** |
+| 📝 Total Prompts | **2598** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-26** |
 
@@ -189,6 +189,120 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### แฟชั่นโชว์ชุดราตรีทรงหางปลาสีแดง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งสำหรับสร้างวิดีโอแบบละเอียดสำหรับนางแบบที่กำลังเดินแฟชั่นโชว์ในชุดเดรสทรงหางปลาสีแดงและทรงผมเกล้ามวยสูง
+
+#### 📝 Prompt
+
+```
+นางแบบสาวสวมชุดราตรียาวเดินบนแคทวอล์ก ทำผมทรงมวยสูงปล่อยปอยผมดัดลอน และสวมชุดเดรสทรงหางปลาสีแดงสุดหรู
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="แฟชั่นโชว์ชุดราตรีทรงหางปลาสีแดง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9860)**
+
+**Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
+
+---
+### แมวน้อยหลับปุ๋ยบนมาร์ชเมลโลว์ในลาเต้
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์สุดสร้างสรรค์ที่นำเสนอภาพแมวตัวจิ๋วกำลังนอนหลับอยู่บนมาร์ชเมลโลว์ที่ลอยอยู่บนฟองนมลาเต้อาร์ต เหมาะอย่างยิ่งสำหรับคอนเทนต์ภาพที่ให้ความรู้สึกอบอุ่นและน่ารัก
+
+#### 📝 Prompt
+
+```
+แมวตัวจิ๋วกำลังนอนหลับอยู่บนมาร์ชเมลโลว์ขนาดใหญ่ โดยที่มาร์ชเมลโลว์นั้นลอยอยู่บนกาแฟลาเต้อาร์ต
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="แมวน้อยหลับปุ๋ยบนมาร์ชเมลโลว์ในลาเต้">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
+
+**Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
+
+---
+### เผยต้นแบบไซไฟ Rainbow Universe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ฉากภาพยนตร์แนวไซไฟที่เผยให้เห็นเหล่าเพื่อนร่วมทางและอวตารโฮโลแกรมของอัจฉริยะชื่อดังที่กำลังโคจรอยู่ในจักรวาลสายรุ้ง
+
+#### 📝 Prompt
+
+```
+การเผยโฉมต้นแบบ MsX และ MrX แห่ง Rainbow Universe ในรูปแบบภาพยนตร์ที่มีชีวิตชีวา: เพื่อนร่วมทางที่เป็นมิตรในร่างมนุษย์ขยับตัวอย่างนุ่มนวลพร้อมรอยยิ้มที่อบอุ่น โดยมีอวตารโฮโลแกรมแบบวิกิของผู้ติดตามและอัจฉริยะผู้ล่วงลับ (เช่น Tesla, Franklin และบุคคลผู้ทรงภูมิปัญญาหลากหลายท่าน) กำลังโคจรอย่างช้าๆ พร้อมเปล่งแสงนวลตา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="เผยต้นแบบไซไฟ Rainbow Universe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9855)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **Published:** Aug 25, 2026
+
+---
+### ฉากหุ่นยนต์ในการแข่งขันโอลิมปิกแห่งจักรวาล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) เชิงภาพยนตร์ที่บรรยายถึงหุ่นยนต์ในสนามกีฬาโอลิมปิกท่ามกลางอวกาศพร้อมเอฟเฟกต์เนบิวลา
+
+#### 📝 Prompt
+
+```
+ภาพมุมกว้างสไตล์ภาพยนตร์ พื้นหลังเป็นอวกาศมืดมิดพร้อมเนบิวลาสีรุ้งจางๆ เวทีสนามกีฬาโอลิมปิกอยู่ตรงกลางระยะไกลพร้อมแสงสีฟ้าและสีทองนุ่มนวล หุ่นยนต์ Soft RA MsX ร่างเพรียวบางดูอ่อนโยนยืนอยู่อย่างสง่างามทางด้านซ้ายในสไตล์ Yin ที่ดูเข้าถึงง่าย...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="ฉากหุ่นยนต์ในการแข่งขันโอลิมปิกแห่งจักรวาล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9859)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **Published:** Aug 25, 2026
+
+---
+### เรือใบในน่านน้ำที่เงียบสงบ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอเคลื่อนไหวสมจริงของเรือใบที่กำลังแล่นผ่านมหาสมุทรพร้อมใบเรือที่พองลม
+
+#### 📝 Prompt
+
+```
+เรือใบแล่นไปข้างหน้าอย่างนุ่มนวลผ่านน้ำทะเลสีครามที่เงียบสงบ ใบเรือสีขาวพองลมเบา ๆ ท่ามกลางสายลมแผ่ว มีระลอกคลื่นเล็กน้อยรอบตัวเรือพร้อมแสงสะท้อนระยิบระยับ ก้อนเมฆนุ่มฟูลอยช้า ๆ อยู่บนท้องฟ้าสีครามสดใส เป็นภาพเคลื่อนไหวที่สมจริง...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="เรือใบในน่านน้ำที่เงียบสงบ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9857)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **Published:** Aug 25, 2026
+
+---
+### กบพายเรือสไตล์โมเนต์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวอิมเพรสชันนิสม์ที่เก็บรายละเอียดของกบในชุดย้อนยุคศตวรรษที่ 18 กำลังพายเรือในสระบัวสไตล์โมเนต์
+
+#### 📝 Prompt
+
+```
+ภาพนิ่งอัตราส่วน 9:16 ที่เหมาะกับการประมวลผลความเร็วสูง เรือพายไม้ลำเล็กหนึ่งลำในสระบัวสไตล์โมเนต์ ให้ความรู้สึกสมจริงและเป็นภาพวาดสีน้ำมันแนวอิมเพรสชันนิสม์ที่เปียกชื้นในเวลาเดียวกัน: เต็มไปด้วยสีน้ำเงิน สีเขียว และแสงสีครีมทอง ผิวน้ำดูเหมือนสีที่ยังไม่แห้งสนิท ไม่มีเรือลำอื่น บนเรือมีกบตัวน้อยน่ารักในชุดย้อนยุคปลายศตวรรษที่ 18: สวมหมวกฟางใบจิ๋ว เสื้อกั๊กลายทาง และเสื้อแจ็กเก็ตตัวสั้น ดูตั้งใจและร่าเริง กำลังพายเรือด้วยไม้พายขนาดเล็ก ดอกบัวแบบอิมปาสโต (Impasto) พื้นผิวผ้าใบที่ขรุขระบริเวณริมฝั่ง พร้อมเกรนฟิล์มยุค 1990 บนโทนสีแบบยุค 1870 ไม่มีผู้คน ไม่มีเรือลำอื่น และไม่มีความหม่นหมอง แนวคิดหลักคือ กบที่กำลังพายเรืออย่างจริงจังในโลกแห่งภาพวาด สวยงามและดูตลกเล็กน้อย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="กบพายเรือสไตล์โมเนต์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9858)**
+
+**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092229826128093365) | **Published:** Aug 25, 2026
+
+---
 ### ต้นมังกรแห่งขุนเขา
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -250,6 +364,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
 
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
+
+---
+### แอนิเมชันลิปซิงค์ (Lip Sync)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับการสร้างวิดีโอเพื่อทำแอนิเมชันปากตัวละครให้พูดตามข้อความที่กำหนด
+
+#### 📝 Prompt
+
+```
+คงภาพเดิมไว้โดยให้ตัวละครขยับปากพูดว่า: “Let your light so shine. I love you....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="แอนิเมชันลิปซิงค์ (Lip Sync)">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9856)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
 
 ---
 ### แอนิเมชันศิลปะผ้าพันคอพลิ้วไหว
@@ -1991,139 +2124,6 @@ Dora กำลังร้องขอความช่วยเหลือ �
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **Published:** Aug 16, 2026
 
 ---
-### เรื่องราว Hello Kitty ในคุก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างลำดับภาพการ์ตูนที่เล่าเรื่องราวของ Hello Kitty ในร้านค้าและปัญหาทางกฎหมายที่ตามมา
-
-#### 📝 Prompt
-
-```
-Hello Kitty ขโมยลูกอมจากร้านค้า แม่ของเธอบอกว่าอย่าขโมยลูกอมนะ เธอต้องเจอปัญหาใหญ่แน่ๆ เธอร้องไห้ แม่จึงโทรเรียกตำรวจและพาตัว Kitty เข้าคุก
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088877416332640256/img/z4oi_SjX29GlI7Zm.jpg" width="600" alt="เรื่องราว Hello Kitty ในคุก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9243)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088877441540342157) | **Published:** Aug 16, 2026
-
----
-### Astronaut Alien Sunrise Retreat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่แสดงภาพกล้องค่อย ๆ ถอยห่างจากนักบินอวกาศที่ยืนอยู่บนสันเขาหิน ขณะที่ดวงอาทิตย์ดวงที่สองกำลังขึ้นบนดาวเคราะห์ต่างดาว
-
-#### 📝 Prompt
-
-```
-ภาพมุมกว้างแบบภาพยนตร์สัดส่วน 16:9 ของนักบินอวกาศเพียงคนเดียวยืนอยู่บนโขดหินสูงที่ขอบของโลกที่ไม่เคยมีใครสำรวจ มองออกไปทั่วภูมิประเทศต่างดาวที่กว้างใหญ่และเงียบสงบ ขณะที่ดวงอาทิตย์ดวงที่สองเริ่มขึ้น โดยมีโลกปรากฏเป็นทรงกลมเล็ก ๆ อยู่ไกลออกไปในท้องฟ้ามืดมิด ยานอวกาศของพวกเขาจอดพักอยู่ไกลออกไปด้านล่างในระยะกลาง กล้องค่อย ๆ ถอยห่างอย่างช้า ๆ และมั่นคง ซึ่งเผยให้เห็นขนาดและความเวิ้งว้างของภูมิทัศน์ใหม่นี้ทีละน้อย แสงธรรมชาติที่นุ่มนวล บรรยากาศที่เงียบสงบและเปี่ยมไปด้วยความหวัง สมจริงเหมือนภาพถ่าย ให้ความรู้สึกเหมือนภาพยนตร์และเต็มไปด้วยอารมณ์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="Astronaut Alien Sunrise Retreat">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9256)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088875908434203079) | **Published:** Aug 16, 2026
-
----
-### บทสนทนาในรูปแบบสีน้ำ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างวิดีโอระดับสูงที่ใช้สุนทรียศาสตร์ของสีน้ำแบบเปียกบนเปียก เพื่อถ่ายทอดบทสนทนาที่เต็มไปด้วยอารมณ์ความรู้สึกระหว่างชายและหญิง
-
-#### 📝 Prompt
-
-```
-สุนทรียภาพทางภาพเป็นสไตล์สีน้ำแบบเปียกบนเปียก (wet on wet) รักษาความเป็นสไตล์สีน้ำในทุกช็อต โดยให้ตัวละครดูเหมือนภาพวาดสีน้ำที่เคลื่อนไหวได้และคงสไตล์ไว้อย่างสมบูรณ์แบบ ชายและหญิงคู่หนึ่งกำลังพูดคุยหยอกล้อกันว่าพวกเขาคิดว่าเกือบจะตกหลุมรักกันก่อนที่จะต้องแยกจากกัน ทั้งคู่กำลังหยอกล้อเพื่อกลบเกลื่อนความรู้สึกที่แท้จริง แทรกจังหวะหยุดพักเพื่อให้ดูเป็นธรรมชาติมากขึ้น กำกับภาพและถ่ายทำด้วยคุณภาพระดับภาพยนตร์และมีความเป็นมืออาชีพสูง ใช้ช็อตเปิดตัว (Establishing shot) ตามด้วยการถ่ายเจาะระยะใกล้ (Tight close-ups) และการใช้กล้องแบบถือถ่าย (Handheld) เพื่อสร้างอารมณ์ร่วม ไม่ใช้ภาพมุมกว้าง ไม่ใส่ดนตรีประกอบ การแสดงออกทางสีหน้าเพียงเล็กน้อย (Micro-expressions) จะช่วยสื่อถึงธีมของเรื่องได้ดีกว่าระดับเสียงของพวกเขา
-```
-
-<img src="https://cms-assets.youmind.com/media/1786953735801_hadx6t_HP0OHs_XoAAMwHw.jpg" width="600" alt="บทสนทนาในรูปแบบสีน้ำ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9322)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088841453124342009) | **Published:** Aug 16, 2026
-
----
-### นกหลากสีสันบินอยู่เหนือสวนหลังบ้าน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการปรับแต่งภาพโดยการเพิ่มนกสีสันสดใสที่ดูร่าเริงเข้าไปในฉากสวนหลังบ้านอันเงียบสงบ พร้อมคำอธิบายการเคลื่อนไหวที่เฉพาะเจาะจง
-
-#### 📝 Prompt
-
-```
-เพิ่มนกหลากสีสันหลายตัวที่กำลังบินอย่างมีความสุขบนท้องฟ้าสีครามสดใสเหนือฉากสวนหลังบ้าน นกดูร่าเริงและสดใสมาก มีสีหน้าเบิกบาน กางปีกออก และบินโฉบไปมาอย่างสนุกสนานรอบต้นไม้ โดยคงองค์ประกอบอื่น ๆ ทั้งหมดไว้เหมือนเดิมทุกประการ: ...
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866211398_4l9d94_HP0CjnvagAADTHD.jpg" width="600" alt="นกหลากสีสันบินอยู่เหนือสวนหลังบ้าน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9251)**
-
-**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2088828673269072163) | **Published:** Aug 16, 2026
-
----
-### พระเยซูคริสต์ทรงนำผู้ศรัทธาไปสู่สรวงสวรรค์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่แสดงภาพพระเยซูคริสต์ทรงนำผู้ศรัทธาจากนรกภูมิไปสู่สรวงสวรรค์
-
-#### 📝 Prompt
-
-```
-จินตนาการถึงองค์พระเยซูคริสต์เจ้าของเราที่กำลังทรงนำเหล่าผู้ศรัทธาจากนรกภูมิไปสู่สรวงสวรรค์ หลังจากที่พระองค์ทรงสิ้นพระชนม์บนไม้กางเขน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="พระเยซูคริสต์ทรงนำผู้ศรัทธาไปสู่สรวงสวรรค์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9250)**
-
-**Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088811975937855627) | **Published:** Aug 16, 2026
-
----
-### แอนิเมชันฝูงหมาป่ามรกตเรืองแสง
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์แอนิเมชันแนวเวทมนตร์ในภาษาญี่ปุ่น บรรยายถึงฝูงหมาป่าสีมรกตเรืองแสงที่กำลังหอนและเร่งความเร็วในป่าลึกลับ
-
-#### 📝 Prompt
-
-```
-หมาป่ามรกต, ขอบสีเงิน, ประกายอัญมณีสมจริง, การเน้นขอบ, สิ่งมีชีวิตลึกลับที่มีพลังชีวิตแบบสัตว์, แสงวาบจางๆ ภายใน, รูปลักษณ์ที่ดุร้ายและป่าเถื่อน, ป่าลึกลับยามค่ำคืนที่ลึกและอุดมสมบูรณ์, เสียงหอนที่ดังและโหยหวน, การควบวิ่ง, หมาป่ามรกตค่อยๆ ปรากฏตัวมากขึ้น, จำนวนเพิ่มขึ้นทีละน้อย, ความเร็วค่อยๆ เพิ่มขึ้น, แสงสีเขียวเข้มข้นขึ้นเมื่อมีพวกพ้องมาร่วมสมทบมากขึ้น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088786652156350464/img/Q_pnjqYPQy70d9F8.jpg" width="600" alt="แอนิเมชันฝูงหมาป่ามรกตเรืองแสง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9254)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088786721601405439) | **Published:** Aug 16, 2026
-
----
-### อัญมณีหมาป่ามรกตในรูปแบบภาพยนตร์
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์วิดีโอแนวภาพยนตร์สุดละเอียดที่นำเสนอหมาป่าซึ่งทำจากมรกตและเงิน พร้อมเอฟเฟกต์แสงที่สมจริง
-
-#### 📝 Prompt
-
-```
-สัตว์ที่ทำจากมรกตประดับขอบเงิน, หมาป่า, ความแวววาวของอัญมณีแท้, เน้นขอบคมชัด, ดูสมจริงเหมือนสัตว์ที่สุด, ดูราวกับว่ากำลังจะเคลื่อนไหว, อาหารคือหินมรกตดิบ, กำลังกัดแทะ, หินล้นออกมา, ลูกหมาป่ามรกตกำลังกัดแทะ, สายตาที่เต็มไปด้วยความรักของหมาป่าตัวแม่, ดวงตามีความอ่อนโยนอย่างน่าประหลาด, ฉากธรรมชาติที่ปากของลูกหมาป่ามรกตดูใหญ่และให้ความรู้สึกอบอุ่นหัวใจ, ปิดท้ายด้วยการค่อยๆ เฟดเข้าสู่การนอนหลับ, สามารถได้ยินเสียงหอน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="อัญมณีหมาป่ามรกตในรูปแบบภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9257)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **Published:** Aug 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2185,6 +2185,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T05:04:15.081Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T09:11:07.021Z</sub>
 
 </div>

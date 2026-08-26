@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2591** |
+| 📝 Total Prompts | **2598** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-26** |
 
@@ -189,6 +189,120 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Desfile de Moda com Vestido Sereia Vermelho
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado para uma modelo exibindo um vestido estilo sereia vermelho e penteado coque alto em uma passarela de moda.
+
+#### 📝 Prompt
+
+```
+Esta modelo desfilará com um vestido de festa longo em uma passarela, usando um coque alto com cachos soltos e um lindo vestido vermelho estilo sereia
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="Desfile de Moda com Vestido Sereia Vermelho">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9860)**
+
+**Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
+
+---
+### Gato dormindo em um latte de marshmallow
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo criativo apresentando um gatinho dormindo sobre um marshmallow flutuando em uma arte de latte, perfeito para conteúdos visuais aconchegantes e fofos.
+
+#### 📝 Prompt
+
+```
+Um gatinho dormindo sobre um marshmallow gigante, o marshmallow está flutuando no topo de um café com arte em latte
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="Gato dormindo em um latte de marshmallow">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
+
+**Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
+
+---
+### Revelação do Protótipo de Ficção Científica Rainbow Universe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma cena cinematográfica de ficção científica revelando companheiros e avatares holográficos de gênios famosos orbitando em um universo arco-íris.
+
+#### 📝 Prompt
+
+```
+Revelação cinematográfica viva do protótipo MsX e MrX do Rainbow Universe: os companheiros amigáveis humanizados se movem suavemente com sorrisos calorosos, os avatares wiki holográficos de assinantes e gênios que já nos deixaram (Tesla, Franklin e mentes diversas) orbitam lentamente e brilham suavemente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="Revelação do Protótipo de Ficção Científica Rainbow Universe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9855)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **Published:** Aug 25, 2026
+
+---
+### Cena de Robô Olímpico Cósmico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico que descreve um robô em um cenário de estádio olímpico cósmico com efeitos de nebulosa.
+
+#### 📝 Prompt
+
+```
+Imagem cinematográfica em plano aberto, fundo cósmico escuro com nebulosa suave em arco-íris, palco de estádio olímpico à meia distância com iluminação suave em azul e dourado, um robô feminino gentil Soft RA MsX posicionado graciosamente à esquerda em um estilo Yin acessível,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="Cena de Robô Olímpico Cósmico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9859)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **Published:** Aug 25, 2026
+
+---
+### Veleiro em águas calmas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um vídeo realista em movimento de um veleiro deslizando pelo oceano com velas ao vento.
+
+#### 📝 Prompt
+
+```
+O veleiro desliza suavemente pelas águas azuis e calmas do oceano, com velas brancas soprando levemente ao vento, ondas sutis ondulando ao redor do casco com reflexos brilhantes, nuvens suaves flutuando lentamente pelo céu azul claro, movimento realista...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="Veleiro em águas calmas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9857)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **Published:** Aug 25, 2026
+
+---
+### Sapo em barco a remo no estilo de Monet
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo impressionista detalhado de um sapo com roupas do século XIX remando um barco em um lago de lírios no estilo de Monet.
+
+#### 📝 Prompt
+
+```
+Still 9:16, otimizado para velocidade. Um pequeno barco de madeira em um lago de lírios de Monet, fotorrealista e, ao mesmo tempo, uma pintura a óleo impressionista úmida: tons espessos de azul, verde e luz creme-dourada, água com aspecto de tinta fresca. Sem um segundo barco. No barco, um sapo pequeno e fofo vestindo roupas do final do século XIX: um minúsculo chapéu de palha, colete listrado, jaqueta curta, com uma expressão séria e alegre, remando com um remo em miniatura. Lírios em empasto, textura de tela nas margens, granulação de filme dos anos 90 sobre cores da década de 1870. Sem pessoas, sem barcos extras, sem tom sombrio. Uma ideia: um sapo levando a água pintada a sério. Lindo e um pouco divertido.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="Sapo em barco a remo no estilo de Monet">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9858)**
+
+**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092229826128093365) | **Published:** Aug 25, 2026
+
+---
 ### Dragão da Montanha
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -250,6 +364,25 @@ Alguns experimentaram diferentes tipos de dança.
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
 
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
+
+---
+### Animação de Sincronia Labial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo usado para animar a boca de um personagem para falar um texto específico.
+
+#### 📝 Prompt
+
+```
+Mantendo a imagem inalterada, faça com que ele diga: “Deixe sua luz brilhar. Eu amo você....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="Animação de Sincronia Labial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9856)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
 
 ---
 ### Animação Artística de Cachecol ao Vento
@@ -1988,139 +2121,6 @@ Dora está pedindo ajuda e a equipe Umizoomi vai salvá-la do vilão malvado
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **Published:** Aug 16, 2026
 
 ---
-### A História da Prisão da Hello Kitty
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt narrativo detalhado para uma sequência de desenho animado apresentando a Hello Kitty em uma loja e enfrentando problemas legais.
-
-#### 📝 Prompt
-
-```
-Hello Kitty rouba doces da loja: a mãe dela disse 'não roube doces, você está em apuros': ela chora, ele chama a polícia e leva a Kitty para a prisão
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088877416332640256/img/z4oi_SjX29GlI7Zm.jpg" width="600" alt="A História da Prisão da Hello Kitty">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9243)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088877441540342157) | **Published:** Aug 16, 2026
-
----
-### Retiro do Astronauta Alienígena ao Nascer do Sol
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico apresentando um afastamento lento da câmera de um astronauta em pé em uma crista rochosa enquanto um segundo sol nasce em um mundo alienígena.
-
-#### 📝 Prompt
-
-```
-Tomada cinematográfica ampla em 16:9 de um astronauta solitário em pé em um afloramento rochoso alto na borda de um mundo inexplorado, observando um vasto e silencioso terreno alienígena enquanto um segundo sol começa a nascer, a Terra visível como uma pequena esfera distante no céu escuro, sua espaçonave descansando lá embaixo no plano médio, afastamento lento e constante da câmera que revela gradualmente a escala e o vazio da nova paisagem, luz natural suave, atmosfera silenciosa e esperançosa, fotorrealista, fílmico e emocional
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="Retiro do Astronauta Alienígena ao Nascer do Sol">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9256)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088875908434203079) | **Published:** Aug 16, 2026
-
----
-### Conversa Narrativa em Aquarela
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo sofisticado que utiliza a estética de aquarela molhado sobre molhado para retratar uma conversa emocional complexa entre um homem e uma mulher.
-
-#### 📝 Prompt
-
-```
-A estética visual é no estilo aquarela molhado sobre molhado. Mantenha o estilo de aquarela em cada tomada, com os personagens parecendo pinturas em aquarela em movimento e aderindo perfeitamente ao estilo. Um homem e uma mulher discutem de forma brincalhona como acham que estavam prestes a se apaixonar antes de serem separados. Eles brincam para esconder que, na verdade, estão falando sério. Insira algumas pausas para tornar tudo mais natural. Direção e cinematografia de nível cinematográfico e de prestígio. Tomada de estabelecimento, closes fechados e câmera na mão para ressonância emocional. Sem planos abertos. Sem música. Microexpressões em seus rostos vendem o tema mais do que o volume de suas vozes.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786953735801_hadx6t_HP0OHs_XoAAMwHw.jpg" width="600" alt="Conversa Narrativa em Aquarela">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9322)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088841453124342009) | **Published:** Aug 16, 2026
-
----
-### Pássaros coloridos voando sobre o quintal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de modificação que adiciona pássaros coloridos e alegres a uma cena serena de quintal, com descrições de movimento específicas.
-
-#### 📝 Prompt
-
-```
-Adicione vários pássaros coloridos voando alegremente no céu azul claro acima da cena do quintal. Os pássaros parecem muito felizes e animados, com expressões brilhantes, asas abertas, planando de forma lúdica ao redor das árvores. Mantenha todo o resto exatamente igual: o...
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866211398_4l9d94_HP0CjnvagAADTHD.jpg" width="600" alt="Pássaros coloridos voando sobre o quintal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9251)**
-
-**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2088828673269072163) | **Published:** Aug 16, 2026
-
----
-### Cristo conduzindo os fiéis ao paraíso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico retratando Jesus Cristo conduzindo os fiéis do Hades ao paraíso.
-
-#### 📝 Prompt
-
-```
-Imagine nosso Senhor Jesus Cristo conduzindo os fiéis do Hades ao paraíso após morrer na cruz
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="Cristo conduzindo os fiéis ao paraíso">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9250)**
-
-**Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088811975937855627) | **Published:** Aug 16, 2026
-
----
-### Animação de Alcateia de Lobos Esmeralda Brilhantes
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de animação mágico em japonês que descreve uma alcateia de lobos esmeralda brilhantes uivando e ganhando velocidade em uma floresta misteriosa.
-
-#### 📝 Prompt
-
-```
-Lobo esmeralda, detalhes em prata, brilho real de gema, realce de bordas, criatura misteriosa com vitalidade animal, brilho suave no interior, aparência selvagem e feroz, floresta misteriosa profunda e rica à noite, uivo alto e lúgubre, galopando, gradualmente mais lobos esmeralda, números aumentando pouco a pouco, velocidade aumentando gradualmente, brilho verde tornando-se mais forte à medida que mais companheiros se juntam.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088786652156350464/img/Q_pnjqYPQy70d9F8.jpg" width="600" alt="Animação de Alcateia de Lobos Esmeralda Brilhantes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9254)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088786721601405439) | **Published:** Aug 16, 2026
-
----
-### Gema de Lobo Esmeralda Cinematográfica
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de vídeo cinematográfico detalhado apresentando lobos feitos de esmeraldas e prata com efeitos de iluminação realistas.
-
-#### 📝 Prompt
-
-```
-Animal feito de esmeralda com detalhes em prata, lobo, brilho de gema real, ênfase nas bordas, o mais realista possível, parecendo que está prestes a se mover, a comida são pedras de esmeralda brutas, roendo, pedras transbordando, filhote de lobo esmeralda roendo, olhar de afeto do lobo progenitor, olhos de alguma forma gentis, uma cena selvagem da boca do filhote de lobo esmeralda sendo grande e um tanto comovente, finalmente um fade-out para o sono, uivos podem ser ouvidos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="Gema de Lobo Esmeralda Cinematográfica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9257)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **Published:** Aug 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2182,6 +2182,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T05:04:26.008Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T09:11:17.460Z</sub>
 
 </div>

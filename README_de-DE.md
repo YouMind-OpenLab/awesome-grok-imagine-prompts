@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2591** |
+| 📝 Total Prompts | **2598** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-26** |
 
@@ -189,6 +189,120 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Rotes Meerjungfrauen-Abendkleid auf dem Laufsteg
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt für ein Model, das auf einem Fashion-Laufsteg ein rotes Kleid im Meerjungfrauen-Stil und eine Hochsteckfrisur präsentiert.
+
+#### 📝 Prompt
+
+```
+Dieses Model präsentiert ein langes Abendkleid auf einem Laufsteg, trägt eine Hochsteckfrisur mit lockeren Wellen und ein wunderschönes rotes Kleid im Meerjungfrauen-Stil
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="Rotes Meerjungfrauen-Abendkleid auf dem Laufsteg">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9860)**
+
+**Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
+
+---
+### Schlafende Katze auf einem Marshmallow-Latte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein skurriler Video-Prompt mit einer winzigen Katze, die auf einem in Latte-Art schwimmenden Marshmallow schläft – perfekt für gemütliche und niedliche visuelle Inhalte.
+
+#### 📝 Prompt
+
+```
+Eine winzige Katze, die schlafend auf einem riesigen Marshmallow liegt; der Marshmallow schwimmt oben auf einem Kaffee mit Latte-Art
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="Schlafende Katze auf einem Marshmallow-Latte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
+
+**Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
+
+---
+### Enthüllung des Rainbow Universe Sci-Fi-Prototyps
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine filmreife Sci-Fi-Szene, die Begleiter und holografische Avatare berühmter Genies zeigt, welche in einem Regenbogen-Universum kreisen.
+
+#### 📝 Prompt
+
+```
+Filmreife, lebendige Enthüllung des Rainbow Universe MsX- und MrX-Prototyps: Die vermenschlichten, freundlichen Begleiter bewegen sich sanft mit einem warmen Lächeln, während die holografischen Wiki-Avatare von Abonnenten und verstorbenen Genies (Tesla, Franklin und diverse andere Köpfe) langsam ihre Bahnen ziehen und sanft leuchten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="Enthüllung des Rainbow Universe Sci-Fi-Prototyps">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9855)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **Published:** Aug 25, 2026
+
+---
+### Kosmische Roboter-Olympiade
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Prompt, der einen Roboter in einer kosmischen Olympiastadion-Umgebung mit Nebeleffekten beschreibt.
+
+#### 📝 Prompt
+
+```
+Cineastisches Weitwinkel-Hero-Bild, dunkler kosmischer Hintergrund mit sanftem Regenbogen-Nebel, Olympiastadion-Bühne in mittlerer Distanz mit sanfter blauer und goldener Beleuchtung, ein graziler, femininer Soft RA MsX Roboter, der anmutig auf der linken Seite im zugänglichen Yin-Stil steht,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="Kosmische Roboter-Olympiade">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9859)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **Published:** Aug 25, 2026
+
+---
+### Segelboot auf ruhigem Wasser
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein realistisches Bewegtbild eines Segelboots, das mit geblähten Segeln durch den Ozean gleitet.
+
+#### 📝 Prompt
+
+```
+Das Segelboot gleitet sanft durch das ruhige, blaue Wasser des Ozeans, während sich die weißen Segel leicht im Wind blähen. Subtile Wellen kräuseln sich um den Rumpf und erzeugen funkelnde Reflexionen, während weiche Wolken langsam über den klaren blauen Himmel ziehen – eine realistische Bewegungsaufnahme...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="Segelboot auf ruhigem Wasser">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9857)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **Published:** Aug 25, 2026
+
+---
+### Frosch im Ruderboot im Monet-Stil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter impressionistischer Video-Prompt eines Frosches in Kleidung des 19. Jahrhunderts, der in einem Seerosenteich im Monet-Stil rudert.
+
+#### 📝 Prompt
+
+```
+9:16 Standbild, geschwindigkeitsoptimiert. Ein kleines hölzernes Ruderboot auf einem Monet-Seerosenteich, fotorealistisch und zugleich ein impressionistisches Ölgemälde: kräftige Blau-, Grün- und cremefarbene Goldtöne, Wasser wie noch feuchte Farbe. Kein zweites Boot. Im Boot ein niedlicher kleiner Frosch in Kleidung des späten 19. Jahrhunderts: winziger Strohhut, gestreifte Weste, eine kurze Jacke, ernsthaft und fröhlich, beim Rudern mit einem Miniatur-Ruder. Impasto-Seerosen, sichtbare Leinwandstruktur am Ufer, filmische Körnung der 1990er Jahre über Farben der 1870er. Keine Menschen, keine zusätzlichen Boote, keine düstere Stimmung. Ein Gedanke: ein Frosch, der das gemalte Wasser ernst nimmt. Wunderschön und ein wenig albern.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="Frosch im Ruderboot im Monet-Stil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9858)**
+
+**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092229826128093365) | **Published:** Aug 25, 2026
+
+---
 ### Berg-Drachenbaum
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -250,6 +364,25 @@ Einige probierten verschiedene Tanzarten aus.
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
 
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
+
+---
+### Lippensynchronisations-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt, mit dem der Mund einer Figur animiert wird, um einen bestimmten Text zu sprechen.
+
+#### 📝 Prompt
+
+```
+Das Bild unverändert lassen und ihn sagen lassen: „Let your light so shine. I love you....“
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="Lippensynchronisations-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9856)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
 
 ---
 ### Künstlerische Animation eines wehenden Schals
@@ -1988,139 +2121,6 @@ Dora ruft um Hilfe und das Team Umizoomi macht sich auf den Weg, um sie vor dem 
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **Published:** Aug 16, 2026
 
 ---
-### Die Hello-Kitty-Gefängnisgeschichte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter narrativer Prompt für eine Zeichentricksequenz, in der Hello Kitty in einem Geschäft in rechtliche Schwierigkeiten gerät.
-
-#### 📝 Prompt
-
-```
-Hello Kitty stiehlt Süßigkeiten aus dem Laden: Ihre Mutter sagte, sie solle keine Süßigkeiten stehlen, jetzt steckt sie in großen Schwierigkeiten: Sie weint, sie ruft die Polizei und Kitty wird ins Gefängnis gebracht.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088877416332640256/img/z4oi_SjX29GlI7Zm.jpg" width="600" alt="Die Hello-Kitty-Gefängnisgeschichte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9243)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088877441540342157) | **Published:** Aug 16, 2026
-
----
-### Astronauten-Alien-Sonnenaufgangs-Rückzug
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt, der einen langsamen Kamera-Rückzug von einem Astronauten zeigt, der auf einem felsigen Grat steht, während eine zweite Sonne auf einer fremden Welt aufgeht.
-
-#### 📝 Prompt
-
-```
-Weite filmische 16:9-Aufnahme eines einsamen Astronauten, der auf einem hohen Felsvorsprung am Rande einer unerforschten Welt steht und über ein weites, stilles Alien-Terrain blickt, während eine zweite Sonne aufgeht; die Erde ist als kleine, ferne Kugel am dunklen Himmel sichtbar, das Raumschiff ruht weit unterhalb im Mittelgrund, langsamer und stetiger Kamera-Rückzug, der allmählich das Ausmaß und die Leere der neuen Landschaft enthüllt, weiches natürliches Licht, ruhige hoffnungsvolle Atmosphäre, fotorealistisch, filmisch und emotional
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="Astronauten-Alien-Sonnenaufgangs-Rückzug">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9256)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088875908434203079) | **Published:** Aug 16, 2026
-
----
-### Aquarell-Erzählkonversation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein anspruchsvoller Video-Generierungs-Prompt, der die Nass-in-Nass-Aquarellästhetik nutzt, um ein komplexes emotionales Gespräch zwischen einem Mann und einer Frau darzustellen.
-
-#### 📝 Prompt
-
-```
-Die visuelle Ästhetik entspricht dem Nass-in-Nass-Aquarellstil. Behalten Sie den Aquarellstil in jeder Einstellung bei, sodass die Charaktere wie sich bewegende Aquarellgemälde wirken und den Stil perfekt einhalten. Ein Mann und eine Frau diskutieren scherzhaft darüber, wie sie glauben, dass sie sich fast ineinander verliebt hätten, bevor sie getrennt wurden. Sie scherzen, um zu verbergen, dass sie es eigentlich ernst meinen. Fügen Sie einige Pausen ein, damit es natürlicher wirkt. Filmische Regie und Kameraführung auf Prestige-Niveau. Establishing Shot, enge Nahaufnahmen und Handkameraführung für emotionale Resonanz. Keine Weitwinkelaufnahmen. Keine Musik. Mikroexpressionen in ihren Gesichtern vermitteln das Thema stärker als die Lautstärke ihrer Stimmen.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786953735801_hadx6t_HP0OHs_XoAAMwHw.jpg" width="600" alt="Aquarell-Erzählkonversation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9322)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088841453124342009) | **Published:** Aug 16, 2026
-
----
-### Bunte Vögel fliegen über den Garten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Modifikations-Prompt, um eine ruhige Gartenszene mit fröhlichen, bunten Vögeln und spezifischen Bewegungsbeschreibungen zu ergänzen.
-
-#### 📝 Prompt
-
-```
-Fügen Sie mehrere bunte Vögel hinzu, die fröhlich am klaren blauen Himmel über der Gartenszene fliegen. Die Vögel wirken sehr freudig und munter, mit leuchtenden Ausdrücken, ausgebreiteten Flügeln und fliegen spielerisch um die Bäume herum. Behalten Sie alles andere genau so bei: das w...
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866211398_4l9d94_HP0CjnvagAADTHD.jpg" width="600" alt="Bunte Vögel fliegen über den Garten">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9251)**
-
-**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2088828673269072163) | **Published:** Aug 16, 2026
-
----
-### Christus führt Gläubige ins Paradies
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kinoreifer Video-Prompt, der zeigt, wie Jesus Christus Gläubige aus dem Hades ins Paradies führt.
-
-#### 📝 Prompt
-
-```
-Stellen Sie sich vor, wie unser Herr Jesus Christus nach seinem Tod am Kreuz die Gläubigen aus dem Hades ins Paradies führt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="Christus führt Gläubige ins Paradies">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9250)**
-
-**Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088811975937855627) | **Published:** Aug 16, 2026
-
----
-### Animation eines leuchtenden Smaragd-Wolfsrudels
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein magischer Animations-Prompt auf Japanisch, der ein Rudel leuchtender smaragdgrüner Wölfe beschreibt, die in einem geheimnisvollen Wald heulen und an Geschwindigkeit gewinnen.
-
-#### 📝 Prompt
-
-```
-Smaragdgrüner Wolf, silberne Verzierungen, echter Edelsteinglanz, Kantenbetonung, mysteriöse Kreatur mit tierischer Vitalität, schwaches Leuchten im Inneren, wildes und grimmiges Erscheinungsbild, tiefer und dichter geheimnisvoller Wald bei Nacht, lautes und klagendes Heulen, galoppierend, allmählich mehr smaragdgrüne Wölfe, die Anzahl nimmt nach und nach zu, die Geschwindigkeit nimmt allmählich zu, das grüne Leuchten wird stärker, während sich immer mehr Gefährten anschließen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088786652156350464/img/Q_pnjqYPQy70d9F8.jpg" width="600" alt="Animation eines leuchtenden Smaragd-Wolfsrudels">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9254)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088786721601405439) | **Published:** Aug 16, 2026
-
----
-### Filmischer Smaragd-Wolf-Edelstein
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter, filmischer Video-Prompt mit Wölfen aus Smaragden und Silber mit realistischen Lichteffekten.
-
-#### 📝 Prompt
-
-```
-Tier aus Smaragd mit Silberverzierungen, Wolf, echter Edelsteinglanz, betonte Kanten, so tierähnlich wie möglich, sieht aus, als würde er sich gleich bewegen, Nahrung besteht aus rohen Smaragden, nagend, überquellende Steine, ein nagendes Smaragd-Wolfsjunges, der liebevolle Blick des Elternwolfs, die Augen sind irgendwie sanft, eine wilde Szene, in der das Maul des Smaragd-Wolfsjungen groß und irgendwie herzerwärmend wirkt, schließlich ein Ausblenden zum Schlaf, Heulen ist zu hören.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="Filmischer Smaragd-Wolf-Edelstein">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9257)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **Published:** Aug 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2182,6 +2182,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T05:04:21.139Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T09:11:13.081Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2591** |
+| 📝 Total Prompts | **2598** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-26** |
 
@@ -189,6 +189,120 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Trình diễn thời trang váy đuôi cá màu đỏ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video chi tiết dành cho người mẫu trình diễn váy đuôi cá màu đỏ và kiểu tóc búi cao trên sàn diễn thời trang.
+
+#### 📝 Prompt
+
+```
+Cô gái này sẽ trình diễn một chiếc váy dự tiệc dài trên sàn catwalk với kiểu tóc búi cao cùng những lọn tóc xoăn nhẹ và chiếc váy đuôi cá màu đỏ tuyệt đẹp
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="Trình diễn thời trang váy đuôi cá màu đỏ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9860)**
+
+**Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
+
+---
+### Chú mèo ngủ trên ly Marshmallow Latte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video đầy sáng tạo với hình ảnh chú mèo nhỏ đang ngủ trên viên kẹo marshmallow nổi trong ly cà phê latte art, hoàn hảo cho các nội dung hình ảnh dễ thương và ấm cúng.
+
+#### 📝 Prompt
+
+```
+Một chú mèo nhỏ đang nằm ngủ trên một viên kẹo marshmallow khổng lồ, viên kẹo đang nổi trên bề mặt của ly cà phê latte art
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="Chú mèo ngủ trên ly Marshmallow Latte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
+
+**Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
+
+---
+### Tiết lộ nguyên mẫu khoa học viễn tưởng Rainbow Universe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một phân cảnh điện ảnh khoa học viễn tưởng tiết lộ các bạn đồng hành và hình đại diện ba chiều của những thiên tài nổi tiếng đang bay lượn trong một vũ trụ cầu vồng.
+
+#### 📝 Prompt
+
+```
+Màn tiết lộ sống động đậm chất điện ảnh về nguyên mẫu MsX và MrX của Rainbow Universe: những người bạn đồng hành thân thiện được nhân hóa khẽ chuyển động với nụ cười ấm áp, các hình đại diện wiki ba chiều của người đăng ký và những thiên tài đã khuất (Tesla, Franklin và nhiều bộ óc đa dạng khác) từ từ bay lượn và tỏa sáng dịu nhẹ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="Tiết lộ nguyên mẫu khoa học viễn tưởng Rainbow Universe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9855)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **Published:** Aug 25, 2026
+
+---
+### Khung cảnh Robot Olympic Vũ trụ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) đậm chất điện ảnh mô tả robot trong bối cảnh sân vận động Olympic vũ trụ với hiệu ứng tinh vân.
+
+#### 📝 Prompt
+
+```
+Hình ảnh hero góc rộng đậm chất điện ảnh, nền vũ trụ tối với tinh vân cầu vồng dịu nhẹ, sân khấu vận động Olympic ở khoảng cách trung bình với ánh sáng xanh và vàng dịu, một robot Soft RA MsX nữ tính, nhẹ nhàng đang đứng duyên dáng bên trái theo phong cách Yin gần gũi,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="Khung cảnh Robot Olympic Vũ trụ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9859)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **Published:** Aug 25, 2026
+
+---
+### Thuyền buồm trên mặt nước tĩnh lặng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video chuyển động chân thực về chiếc thuyền buồm đang lướt đi trên đại dương với những cánh buồm căng gió.
+
+#### 📝 Prompt
+
+```
+Chiếc thuyền buồm nhẹ nhàng lướt đi trên làn nước đại dương xanh thẳm, những cánh buồm trắng căng phồng trong làn gió nhẹ, những gợn sóng lăn tăn quanh thân tàu với những tia sáng phản chiếu lấp lánh, những đám mây mềm mại trôi chậm rãi trên bầu trời xanh trong, chuyển động chân thực...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="Thuyền buồm trên mặt nước tĩnh lặng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9857)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **Published:** Aug 25, 2026
+
+---
+### Chú ếch chèo thuyền phong cách Monet
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video theo phong cách ấn tượng chi tiết về một chú ếch mặc trang phục thế kỷ 19 đang chèo thuyền trên hồ hoa súng phong cách Monet.
+
+#### 📝 Prompt
+
+```
+Tỷ lệ 9:16, tối ưu tốc độ. Một chiếc thuyền gỗ nhỏ trên hồ hoa súng kiểu Monet, kết hợp giữa ảnh chụp thực tế và tranh sơn dầu ấn tượng ướt át: các mảng màu xanh dương, xanh lá và ánh sáng vàng kem dày đặc, mặt nước như lớp sơn chưa khô. Không có chiếc thuyền thứ hai. Trên thuyền, một chú ếch nhỏ dễ thương mặc trang phục cuối thế kỷ 19: đội mũ rơm nhỏ, mặc áo gile kẻ sọc, áo khoác ngắn, vẻ mặt nghiêm túc và vui tươi, đang chèo thuyền bằng một mái chèo tí hon. Hoa súng đắp nổi, bề mặt canvas ở bờ hồ, hiệu ứng hạt phim thập niên 1990 phủ trên màu sắc thập niên 1870. Không có người, không có thuyền thừa, không có sự u ám. Một ý tưởng: một chú ếch đang nghiêm túc chèo thuyền trên mặt nước được vẽ nên. Đẹp đẽ và có chút ngộ nghĩnh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="Chú ếch chèo thuyền phong cách Monet">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9858)**
+
+**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092229826128093365) | **Published:** Aug 25, 2026
+
+---
 ### Cây Rồng Núi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -250,6 +364,25 @@ Một số người thử nghiệm các loại hình nhảy khác nhau.
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
 
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
+
+---
+### Hoạt ảnh đồng bộ môi (Lip Sync)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video được sử dụng để làm cho miệng nhân vật chuyển động theo văn bản cụ thể.
+
+#### 📝 Prompt
+
+```
+Giữ nguyên hình ảnh và để nhân vật nói: “Let your light so shine. I love you....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="Hoạt ảnh đồng bộ môi (Lip Sync)">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9856)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
 
 ---
 ### Hoạt ảnh nghệ thuật khăn quàng bay bổng
@@ -1988,139 +2121,6 @@ Dora đang kêu cứu và Team Umizoomi sẽ đến giải cứu cô ấy khỏi
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **Published:** Aug 16, 2026
 
 ---
-### Câu chuyện Hello Kitty đi tù
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tường thuật chi tiết cho chuỗi hoạt hình có sự góp mặt của Hello Kitty tại một cửa hàng và những rắc rối pháp lý.
-
-#### 📝 Prompt
-
-```
-Hello Kitty ăn trộm kẹo trong cửa hàng: mẹ cô bé nói đừng ăn trộm kẹo, con đang gặp rắc rối lớn rồi: cô bé khóc, mẹ gọi cảnh sát và đưa Kitty vào tù
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088877416332640256/img/z4oi_SjX29GlI7Zm.jpg" width="600" alt="Câu chuyện Hello Kitty đi tù">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9243)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088877441540342157) | **Published:** Aug 16, 2026
-
----
-### Khu nghỉ dưỡng bình minh của phi hành gia trên hành tinh lạ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video điện ảnh mô tả cảnh camera lùi dần từ một phi hành gia đang đứng trên sườn núi đá khi mặt trời thứ hai mọc lên trên một thế giới xa lạ.
-
-#### 📝 Prompt
-
-```
-Cảnh quay điện ảnh góc rộng 16:9 về một phi hành gia đơn độc đứng trên mỏm đá cao ở rìa một thế giới chưa được khám phá, nhìn ra địa hình ngoài hành tinh rộng lớn và tĩnh lặng khi mặt trời thứ hai bắt đầu mọc, Trái Đất hiện lên như một quả cầu nhỏ xa xăm trên bầu trời tối, tàu vũ trụ của họ nằm nghỉ ở phía xa bên dưới, camera lùi chậm và ổn định dần dần tiết lộ quy mô và sự trống trải của cảnh quan mới, ánh sáng tự nhiên dịu nhẹ, bầu không khí tĩnh lặng đầy hy vọng, chân thực như ảnh chụp, đậm chất điện ảnh và giàu cảm xúc
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="Khu nghỉ dưỡng bình minh của phi hành gia trên hành tinh lạ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9256)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088875908434203079) | **Published:** Aug 16, 2026
-
----
-### Đối thoại tự sự phong cách màu nước
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video tinh tế sử dụng thẩm mỹ màu nước ướt trên ướt để khắc họa cuộc trò chuyện đầy cảm xúc giữa một người đàn ông và một người phụ nữ.
-
-#### 📝 Prompt
-
-```
-Thẩm mỹ thị giác là phong cách màu nước ướt trên ướt. Duy trì phong cách màu nước trong mọi cảnh quay, với các nhân vật trông như những bức tranh màu nước chuyển động và tuân thủ phong cách một cách hoàn hảo. Một người đàn ông và một người phụ nữ đùa giỡn thảo luận về việc họ nghĩ rằng mình suýt chút nữa đã yêu nhau trước khi bị chia cắt. Họ đùa để che giấu rằng thực ra họ đang nói thật. Chèn thêm một vài khoảng lặng để tạo cảm giác tự nhiên hơn. Đạo diễn và quay phim chất lượng điện ảnh, đẳng cấp. Cảnh quay thiết lập, quay cận cảnh và quay cầm tay để tạo sự cộng hưởng cảm xúc. Không có cảnh quay toàn cảnh. Không có nhạc. Những biểu cảm nhỏ trên khuôn mặt họ truyền tải chủ đề tốt hơn là âm lượng giọng nói.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786953735801_hadx6t_HP0OHs_XoAAMwHw.jpg" width="600" alt="Đối thoại tự sự phong cách màu nước">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9322)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088841453124342009) | **Published:** Aug 16, 2026
-
----
-### Những chú chim đầy màu sắc bay trên sân sau
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh sửa đổi giúp thêm những chú chim đầy màu sắc vui tươi vào khung cảnh sân sau yên bình với các mô tả chuyển động cụ thể.
-
-#### 📝 Prompt
-
-```
-Thêm một vài chú chim đầy màu sắc đang bay lượn vui vẻ trên bầu trời xanh trong vắt phía trên khung cảnh sân sau. Những chú chim trông rất vui tươi và phấn khởi, với biểu cảm rạng rỡ, đôi cánh dang rộng, bay lượn tinh nghịch quanh những tán cây. Giữ nguyên mọi thứ khác: w...
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866211398_4l9d94_HP0CjnvagAADTHD.jpg" width="600" alt="Những chú chim đầy màu sắc bay trên sân sau">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9251)**
-
-**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2088828673269072163) | **Published:** Aug 16, 2026
-
----
-### Chúa Kitô dẫn dắt các tín hữu đến Thiên đàng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video điện ảnh mô tả Chúa Giêsu Kitô dẫn dắt các tín hữu từ cõi âm đến Thiên đàng.
-
-#### 📝 Prompt
-
-```
-Hãy tưởng tượng Chúa Giêsu Kitô của chúng ta đang dẫn dắt các tín hữu từ cõi âm đến Thiên đàng sau khi Ngài chịu chết trên thập tự giá
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="Chúa Kitô dẫn dắt các tín hữu đến Thiên đàng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9250)**
-
-**Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088811975937855627) | **Published:** Aug 16, 2026
-
----
-### Hoạt ảnh bầy sói ngọc lục bảo phát sáng
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh tạo hoạt ảnh kỳ ảo bằng tiếng Nhật mô tả một bầy sói ngọc lục bảo đang phát sáng, hú vang và tăng tốc trong một khu rừng bí ẩn.
-
-#### 📝 Prompt
-
-```
-Sói ngọc lục bảo, viền bạc, độ sáng bóng như đá quý thật, tăng cường đường nét, sinh vật bí ẩn với sức sống mãnh liệt như động vật, ánh chớp mờ bên trong, vẻ ngoài hoang dã và hung dữ, khu rừng bí ẩn sâu thẳm và phong phú vào ban đêm, tiếng hú lớn và bi ai, phi nước đại, số lượng sói ngọc lục bảo tăng dần, số lượng tăng lên từng chút một, tốc độ tăng dần, ánh sáng xanh lục trở nên mạnh mẽ hơn khi có thêm nhiều đồng loại tham gia.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088786652156350464/img/Q_pnjqYPQy70d9F8.jpg" width="600" alt="Hoạt ảnh bầy sói ngọc lục bảo phát sáng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9254)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088786721601405439) | **Published:** Aug 16, 2026
-
----
-### Viên ngọc sói lục bảo đậm chất điện ảnh
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh tạo video điện ảnh chi tiết với hình ảnh những chú sói được tạo nên từ ngọc lục bảo và bạc cùng hiệu ứng ánh sáng chân thực.
-
-#### 📝 Prompt
-
-```
-Động vật làm từ ngọc lục bảo với đường viền bạc, sói, độ sáng bóng của đá quý chân thực, nhấn mạnh các cạnh, trông giống động vật nhất có thể, trông như sắp chuyển động, thức ăn là những viên ngọc lục bảo thô, đang gặm, đá tràn ra ngoài, sói con bằng ngọc lục bảo đang gặm, ánh nhìn trìu mến của sói mẹ, đôi mắt trông thật dịu dàng, một khung cảnh hoang dã khi miệng sói con bằng ngọc lục bảo mở lớn và có phần ấm áp, cuối cùng là hiệu ứng mờ dần để chìm vào giấc ngủ, có thể nghe thấy tiếng hú.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="Viên ngọc sói lục bảo đậm chất điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9257)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **Published:** Aug 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2182,6 +2182,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T05:04:16.272Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T09:11:08.312Z</sub>
 
 </div>

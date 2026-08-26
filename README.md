@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2591** |
+| 📝 Total Prompts | **2598** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-26** |
 
@@ -189,11 +189,125 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Mountain Dragon Tree
+### Red Mermaid Gown Fashion Runway
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A scenic landscape prompt featuring hidden dragon faces emerging from pine boughs in a stormy mountain pass.
+> A detailed video prompt for a model showcasing a red mermaid-style dress and high bun hairstyle on a fashion catwalk.
+
+#### 📝 Prompt
+
+```
+This girl will model a long party dress on a catwalk with a high bun with loose curls and a beautiful red mermaid-style dress
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="Red Mermaid Gown Fashion Runway">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9860)**
+
+**Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
+
+---
+### Sleeping Cat on Marshmallow Latte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical video prompt featuring a tiny cat sleeping on a marshmallow floating in latte art, perfect for cozy and cute visual content.
+
+#### 📝 Prompt
+
+```
+A tiny cat laying asleep on a giant marshmallow, the marshmallow is floating on top of a latte art coffee
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="Sleeping Cat on Marshmallow Latte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
+
+**Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
+
+---
+### Rainbow Universe Sci-Fi Prototype Reveal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sci-fi cinematic scene revealing companions and holographic avatars of famous geniuses orbiting in a rainbow universe.
+
+#### 📝 Prompt
+
+```
+Cinematic living reveal of the Rainbow Universe MsX and MrX prototype: the humanized friendly companions shift gently with warm smiles, the holographic wiki avatars of subscribers and RIP geniuses (Tesla, Franklin and diverse minds) orbit slowly and glow softly.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="Rainbow Universe Sci-Fi Prototype Reveal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9855)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **Published:** Aug 25, 2026
+
+---
+### Cosmic Olympic Robot Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt describing a robot in a cosmic Olympic stadium setting with nebula effects.
+
+#### 📝 Prompt
+
+```
+Cinematic wide hero image, dark cosmic background with soft rainbow nebula, Olympic stadium stage in the middle distance with soft blue and gold lighting, a gentle feminine Soft RA MsX robot standing gracefully on the left in approachable Yin style,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="Cosmic Olympic Robot Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9859)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **Published:** Aug 25, 2026
+
+---
+### Sailboat on Calm Waters
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A realistic motion video of a sailboat gliding through the ocean with billowing sails.
+
+#### 📝 Prompt
+
+```
+The sailboat gently glides forward through calm blue ocean waters, white sails billowing softly in a light breeze, subtle waves rippling around the hull with sparkling reflections, soft clouds drifting slowly across the clear blue sky, realistic moti...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="Sailboat on Calm Waters">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9857)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **Published:** Aug 25, 2026
+
+---
+### Monet Style Frog Rowboat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed impressionist video prompt of a frog in 1800s clothing paddling a rowboat in a Monet-style lily pond.
+
+#### 📝 Prompt
+
+```
+9:16 still, Speed-friendly. One small wooden rowboat on a Monet lily pond, photoreal and wet impressionist oil at once: thick blues, greens, and cream-gold light, water like paint that isn’t dry. No second boat. In the boat, a cute little frog in late-1800s period clothes: tiny straw boater, striped waistcoat, a short jacket, earnest and cheerful, paddling with a miniature oar. Impasto lilies, canvas tooth in the bank, 1990s filmic grain over 1870s color. No people, no extra boats, no grim. One idea: a frog taking the painted water seriously. Beautiful and a little silly.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="Monet Style Frog Rowboat">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9858)**
+
+**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092229826128093365) | **Published:** Aug 25, 2026
+
+---
+### Dragons in the Pine Pass
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A mystical video prompt depicting dragon faces emerging from pine trees in a mountain pass during a thunderstorm.
 
 #### 📝 Prompt
 
@@ -201,18 +315,18 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 Looking between tow pine at the distant pass between the mountains clouds thunder a sliver of moon two dragon faces gradually become visible in the pine tree boughs
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="Mountain Dragon Tree">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="Dragons in the Pine Pass">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9802)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **Published:** Aug 25, 2026
 
 ---
-### Flying Pegasus Mustang
+### White Mustang with Pegasus Wings
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed vision board prompt for a white Ford Mustang with Pegasus wings, capable of flight and driving on water.
+> An imaginative video featuring a white Ford Mustang with large wings capable of flight and driving on various surfaces.
 
 #### 📝 Prompt
 
@@ -220,7 +334,7 @@ Looking between tow pine at the distant pass between the mountains clouds thunde
 A sleek white Ford Mustang muscle car with large, majestic white Pegasus wings extending from the sides, capable of flight, floating on water like a boat, and driving on roads. The car has a glossy white paint finish, chrome details -- A.I. for a vision board - focus
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="Flying Pegasus Mustang">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="White Mustang with Pegasus Wings">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9801)**
 
@@ -250,6 +364,25 @@ Some tried different kinds of dancing.
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
 
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
+
+---
+### Lip Sync Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt used to animate a character's mouth to speak specific text.
+
+#### 📝 Prompt
+
+```
+Leaving image unchanged have him mouth: “Let your light so shine. I love you....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="Lip Sync Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9856)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
 
 ---
 ### Flowing Scarf Artistic Animation
@@ -1118,11 +1251,11 @@ Take the picture of me holding the watch and make a video where the camera zooms
 **Author:** [BunkerDweller](https://x.com/ElonsBlueBird) | **Source:** [Link](https://x.com/ElonsBlueBird/status/2090402231405150658) | **Published:** Aug 20, 2026
 
 ---
-### Aphrodite and the Butterfly
+### Aphrodite and Butterfly Myth
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A mystical and radiant video prompt featuring the goddess Aphrodite as a butterfly interacts with her beauty.
+> An ethereal video of the goddess Aphrodite as a butterfly finds its way to her, creating a living myth of beauty.
 
 #### 📝 Prompt
 
@@ -1130,7 +1263,7 @@ Take the picture of me holding the watch and make a video where the camera zooms
 Aphrodite, ethereal and radiant, as a butterfly finds its way to the goddess of beauty.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090395253643546624/img/r0Vv71hVFnWtqu0j.jpg" width="600" alt="Aphrodite and the Butterfly">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090395253643546624/img/r0Vv71hVFnWtqu0j.jpg" width="600" alt="Aphrodite and Butterfly Myth">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9571)**
 
@@ -1985,139 +2118,6 @@ Dora’s calling for help and team umizoomi going to save her from the evil vill
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **Published:** Aug 16, 2026
 
 ---
-### Hello Kitty Jail Story
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed narrative prompt for a cartoon sequence featuring Hello Kitty in a store and legal trouble.
-
-#### 📝 Prompt
-
-```
-Hello kitty steals the candy from the store: her mom said don’t steal the candy your in big trouble: he cries he call the police and take kitty to jail
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088877416332640256/img/z4oi_SjX29GlI7Zm.jpg" width="600" alt="Hello Kitty Jail Story">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9243)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088877441540342157) | **Published:** Aug 16, 2026
-
----
-### Astronaut Alien Sunrise Retreat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt featuring a slow camera retreat from an astronaut standing on a rocky ridge as a second sun rises on an alien world.
-
-#### 📝 Prompt
-
-```
-Wide cinematic 16:9 shot of a lone astronaut standing on a high rocky outcrop at the edge of an unexplored world, looking out across a vast and silent alien terrain as a second sun begins to rise, Earth visible as a small distant sphere in the dark sky, their spacecraft resting far below in the middle ground, slow and steady camera retreat that gradually reveals the scale and emptiness of the new landscape, soft natural light, quiet hopeful atmosphere, photorealistic, filmic and emotional
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="Astronaut Alien Sunrise Retreat">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9256)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088875908434203079) | **Published:** Aug 16, 2026
-
----
-### Watercolor Narrative Conversation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sophisticated video generation prompt using wet-on-wet watercolor aesthetics to depict a complex emotional conversation between a man and a woman.
-
-#### 📝 Prompt
-
-```
-Visual aesthetic is wet on wet watercolor style. Maintain the watercolor style in every shot with the characters looking like moving watercolor paintings and adhering to the style perfectly. A man and a woman jokingly discuss how they think they were about to fall in love before they were separated. They are joking to hide that they actually mean it. Insert some pauses to make it seem more natural. Cinematic, prestige level quality directing and cinematography. Establishing shot, Tight close-ups and handheld camera work for emotional resonance. No wide shots. No music. Micro-expressions in their faces sell the theme more than the volume of their voices.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786953735801_hadx6t_HP0OHs_XoAAMwHw.jpg" width="600" alt="Watercolor Narrative Conversation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9322)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088841453124342009) | **Published:** Aug 16, 2026
-
----
-### Colorful Birds Flying Over Backyard
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A modification prompt adding cheerful colorful birds to a serene backyard scene with specific motion descriptions.
-
-#### 📝 Prompt
-
-```
-Add several colorful birds flying happily in the clear blue sky above the backyard scene. The birds look very joyful and cheerful, with bright expressions, wings spread, soaring playfully around the trees. Keep everything else exactly the same: the w...
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866211398_4l9d94_HP0CjnvagAADTHD.jpg" width="600" alt="Colorful Birds Flying Over Backyard">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9251)**
-
-**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2088828673269072163) | **Published:** Aug 16, 2026
-
----
-### Christ Leading Believers to Paradise
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt depicting Jesus Christ leading believers from Hades to paradise.
-
-#### 📝 Prompt
-
-```
-Imagine our Lord Jesus Christ leading the believers from Hades to paradise after dying on the cross
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="Christ Leading Believers to Paradise">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9250)**
-
-**Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088811975937855627) | **Published:** Aug 16, 2026
-
----
-### Glowing Emerald Wolf Pack Animation
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A magical animation prompt in Japanese describing a pack of glowing emerald wolves howling and gaining speed in a mysterious forest.
-
-#### 📝 Prompt
-
-```
-Emerald wolf, silver trim, actual gem shine, edge enhancement, mysterious creature with animal-like vitality, faint flash inside, wild and ferocious appearance, deep and rich mysterious forest at night, loud and mournful howl, galloping, gradually more emerald wolves, numbers increasing little by little, speed gradually increasing, green glow becoming stronger as more companions join.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088786652156350464/img/Q_pnjqYPQy70d9F8.jpg" width="600" alt="Glowing Emerald Wolf Pack Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9254)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088786721601405439) | **Published:** Aug 16, 2026
-
----
-### Cinematic Emerald Wolf Gemstone
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed cinematic video prompt featuring wolves made of emeralds and silver with realistic lighting effects.
-
-#### 📝 Prompt
-
-```
-Animal made of emerald with silver trim, wolf, real gemstone shine, edge emphasis, as animal-like as possible, looking like it's about to move, food is raw emerald stones, gnawing, stones overflowing, emerald wolf cub gnawing, parent wolf's gaze of affection, eyes are somehow gentle, a wild scene of the emerald wolf cub's mouth being large and somewhat heartwarming, finally a fade-out to sleep, howling can be heard.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="Cinematic Emerald Wolf Gemstone">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9257)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **Published:** Aug 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2179,6 +2179,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T05:04:07.581Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T09:10:58.651Z</sub>
 
 </div>

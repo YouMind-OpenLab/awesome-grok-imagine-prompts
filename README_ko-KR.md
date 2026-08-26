@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2591** |
+| 📝 총 프롬프트 수 | **2598** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-08-26** |
 
@@ -189,6 +189,120 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 레드 머메이드 드레스 패션 런웨이
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 패션 런웨이에서 레드 머메이드 스타일 드레스와 하이 번 헤어스타일을 선보이는 모델을 위한 상세 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 모델은 런웨이에서 느슨한 컬이 들어간 하이 번 헤어스타일과 아름다운 레드 머메이드 스타일의 긴 파티 드레스를 입고 워킹을 선보일 것입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="레드 머메이드 드레스 패션 런웨이">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9860)**
+
+**작성자:** [Esther Santana](https://x.com/esther_san41998) | **출처:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **게시일:** Aug 26, 2026
+
+---
+### 마시멜로 라떼 위에서 잠든 고양이
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 라떼 아트 위에 떠 있는 마시멜로 위에서 잠든 작은 고양이를 담은 기발한 영상 프롬프트로, 아늑하고 귀여운 영상 콘텐츠 제작에 안성맞춤입니다.
+
+#### 📝 프롬프트
+
+```
+거대한 마시멜로 위에 누워 잠든 작은 고양이, 마시멜로는 라떼 아트 커피 위에 떠 있습니다
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="마시멜로 라떼 위에서 잠든 고양이">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9854)**
+
+**작성자:** [Maxime](https://x.com/Maxime887812) | **출처:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **게시일:** Aug 25, 2026
+
+---
+### Rainbow Universe SF 프로토타입 공개
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 무지개 우주를 배경으로 유명 천재들의 홀로그램 아바타와 동료들이 궤도를 도는 모습을 담은 SF 시네마틱 장면입니다.
+
+#### 📝 프롬프트
+
+```
+Rainbow Universe MsX 및 MrX 프로토타입의 시네마틱 라이브 공개: 인간화된 친근한 동료들이 따뜻한 미소를 지으며 부드럽게 움직이고, 구독자들과 고인이 된 천재들(Tesla, Franklin 및 다양한 인물들)의 홀로그램 위키 아바타가 천천히 궤도를 돌며 은은한 빛을 발합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="Rainbow Universe SF 프로토타입 공개">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9855)**
+
+**작성자:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **출처:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **게시일:** Aug 25, 2026
+
+---
+### 우주 올림픽 로봇 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 성운 효과가 있는 우주 올림픽 경기장을 배경으로 한 로봇을 묘사하는 영화 같은 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+영화 같은 와이드 히어로 이미지, 부드러운 무지개 성운이 있는 어두운 우주 배경, 중간 거리에 부드러운 파란색과 금색 조명이 비치는 올림픽 경기장 무대, 왼쪽에 우아하게 서 있는 친근한 Yin 스타일의 부드러운 여성형 Soft RA MsX 로봇,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="우주 올림픽 로봇 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9859)**
+
+**작성자:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **출처:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **게시일:** Aug 25, 2026
+
+---
+### 잔잔한 바다 위의 요트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 돛을 휘날리며 바다를 가로질러 나아가는 요트의 사실적인 모션 영상입니다.
+
+#### 📝 프롬프트
+
+```
+요트가 잔잔한 푸른 바다를 부드럽게 가로질러 나아갑니다. 산들바람에 하얀 돛이 부드럽게 휘날리고, 선체 주변으로는 미세한 파도가 일렁이며 반짝이는 물결이 비칩니다. 맑고 푸른 하늘 위로는 구름이 천천히 흘러가며, 사실적인 모션이...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="잔잔한 바다 위의 요트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9857)**
+
+**작성자:** [Owen](https://x.com/owenxplore) | **출처:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **게시일:** Aug 25, 2026
+
+---
+### 모네 스타일의 개구리 노 젓는 배
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1800년대 의상을 입은 개구리가 모네 스타일의 연꽃 연못에서 노를 젓는 모습을 담은 상세한 인상주의 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+9:16 스틸, 속도 최적화. 모네의 연꽃 연못 위에 떠 있는 작은 나무 보트 한 척, 사실적이면서도 젖은 느낌의 인상주의 유화 기법: 짙은 파란색, 녹색, 그리고 크림빛 금색 조명, 마르지 않은 물감 같은 물결. 다른 보트는 없음. 보트 안에는 1800년대 후반 의상을 입은 귀여운 작은 개구리 한 마리: 작은 밀짚 모자, 줄무늬 조끼, 짧은 재킷을 입고 진지하고 명랑한 표정으로 미니어처 노를 젓고 있음. 임파스토 기법의 연꽃, 캔버스의 질감이 느껴지는 강둑, 1870년대 색감 위에 얹힌 1990년대 필름 그레인. 사람 없음, 추가 보트 없음, 어두운 분위기 없음. 핵심 아이디어: 그림 속 물 위를 진지하게 노 젓는 개구리. 아름답고 약간은 엉뚱한 느낌.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="모네 스타일의 개구리 노 젓는 배">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9858)**
+
+**작성자:** [Lucy](https://x.com/princess414141) | **출처:** [Link](https://x.com/princess414141/status/2092229826128093365) | **게시일:** Aug 25, 2026
+
+---
 ### 산의 용 나무
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -250,6 +364,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9798)**
 
 **작성자:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **출처:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **게시일:** Aug 25, 2026
+
+---
+### 립싱크 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 특정 텍스트를 말하도록 캐릭터의 입 모양을 애니메이션화하는 데 사용되는 비디오 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이미지는 그대로 유지하고 입 모양을 다음과 같이 설정하세요: “Let your light so shine. I love you....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="립싱크 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9856)**
+
+**작성자:** [Julio McCauley](https://x.com/CosmicJulioBro) | **출처:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **게시일:** Aug 25, 2026
 
 ---
 ### 흩날리는 스카프 예술 애니메이션
@@ -1988,139 +2121,6 @@ Dora가 도움을 요청하고 있고, Team Umizoomi가 사악한 악당으로�
 **작성자:** [Davonta Davis](https://x.com/DavontaDav5iv) | **출처:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **게시일:** Aug 16, 2026
 
 ---
-### 헬로키티의 감옥 이야기
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 상점에서 헬로키티가 겪는 법적 문제와 관련된 만화 시퀀스를 위한 상세 내러티브 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-헬로키티가 상점에서 사탕을 훔칩니다. 엄마는 사탕을 훔치지 말라고, 큰일 날 거라고 말합니다. 키티는 울음을 터뜨리고, 누군가 경찰을 불러 키티를 감옥으로 데려갑니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088877416332640256/img/z4oi_SjX29GlI7Zm.jpg" width="600" alt="헬로키티의 감옥 이야기">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9243)**
-
-**작성자:** [Davonta Davis](https://x.com/DavontaDav5iv) | **출처:** [Link](https://x.com/DavontaDav5iv/status/2088877441540342157) | **게시일:** Aug 16, 2026
-
----
-### 우주비행사 외계 행성 일출 리트릿
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 외계 행성에서 두 번째 태양이 떠오를 때, 바위 능선에 서 있는 우주비행사로부터 카메라가 천천히 멀어지는 영화 같은 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-미지의 세계 끝, 높은 바위 절벽 위에 홀로 서 있는 우주비행사의 16:9 와이드 시네마틱 샷. 두 번째 태양이 떠오르며 광활하고 고요한 외계 지형을 비추고, 어두운 하늘에는 작은 구체처럼 보이는 지구가 떠 있다. 중간 지점 아래쪽에는 우주선이 놓여 있고, 카메라가 천천히 꾸준하게 뒤로 물러나며 새로운 풍경의 규모와 공허함을 점진적으로 드러낸다. 부드러운 자연광, 고요하고 희망적인 분위기, 사실적인 사진 느낌, 영화적이고 감성적인 연출
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="우주비행사 외계 행성 일출 리트릿">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9256)**
-
-**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2088875908434203079) | **게시일:** Aug 16, 2026
-
----
-### 수채화풍 서사 대화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 남녀 간의 복잡한 감정적 대화를 묘사하기 위해 웻온웻(wet-on-wet) 수채화 미학을 활용한 정교한 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-시각적 미학은 웻온웻(wet-on-wet) 수채화 스타일입니다. 모든 장면에서 수채화 스타일을 유지하여 캐릭터들이 마치 움직이는 수채화처럼 보이게 하고, 해당 스타일을 완벽하게 고수하세요. 한 남녀가 헤어지기 전 서로 사랑에 빠질 뻔했던 것 같다고 농담 섞인 대화를 나눕니다. 그들은 진심을 숨기기 위해 농담을 합니다. 더욱 자연스럽게 느껴지도록 중간중간 멈춤을 넣어주세요. 영화적이고 수준 높은 연출과 촬영 기법을 적용하세요. 익스태블리싱 샷(establishing shot), 타이트한 클로즈업, 감정적 공명을 위한 핸드헬드 카메라 워크를 사용하세요. 와이드 샷은 사용하지 마세요. 음악은 없습니다. 목소리 크기보다 얼굴의 미세한 표정 변화가 주제를 더 잘 전달하도록 하세요.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786953735801_hadx6t_HP0OHs_XoAAMwHw.jpg" width="600" alt="수채화풍 서사 대화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9322)**
-
-**작성자:** [Rob Allan](https://x.com/allan_robII) | **출처:** [Link](https://x.com/allan_robII/status/2088841453124342009) | **게시일:** Aug 16, 2026
-
----
-### 뒷마당 위를 날아다니는 알록달록한 새들
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 평온한 뒷마당 풍경에 활기찬 색감의 새들을 추가하고 구체적인 움직임을 묘사하는 수정 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-뒷마당 풍경 위로 펼쳐진 맑고 푸른 하늘에 행복하게 날아다니는 알록달록한 새들을 여러 마리 추가해 주세요. 새들은 매우 즐겁고 활기찬 모습이며, 밝은 표정으로 날개를 활짝 펴고 나무 주변을 장난스럽게 날아다닙니다. 그 외의 모든 요소는 그대로 유지하세요: w...
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866211398_4l9d94_HP0CjnvagAADTHD.jpg" width="600" alt="뒷마당 위를 날아다니는 알록달록한 새들">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9251)**
-
-**작성자:** [Star](https://x.com/Wednesdayo17) | **출처:** [Link](https://x.com/Wednesdayo17/status/2088828673269072163) | **게시일:** Aug 16, 2026
-
----
-### 낙원으로 신자들을 인도하시는 그리스도
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 예수 그리스도께서 신자들을 하데스에서 낙원으로 인도하시는 모습을 담은 영화 같은 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-십자가에서 돌아가신 후 우리 주 예수 그리스도께서 신자들을 하데스에서 낙원으로 인도하시는 모습을 상상해 보세요
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="낙원으로 신자들을 인도하시는 그리스도">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9250)**
-
-**작성자:** [Hany N. Takla](https://x.com/HanyNTakla2) | **출처:** [Link](https://x.com/HanyNTakla2/status/2088811975937855627) | **게시일:** Aug 16, 2026
-
----
-### 빛나는 에메랄드 늑대 무리 애니메이션
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 신비로운 숲속에서 에메랄드빛으로 빛나는 늑대 무리가 울부짖으며 속도를 높이는 모습을 묘사한 일본어 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-에메랄드 늑대, 은색 테두리, 실제 보석 같은 광택, 가장자리 강조, 동물적 생명력을 지닌 신비로운 생명체, 내부의 희미한 섬광, 야생적이고 사나운 외형, 깊고 풍부한 신비로운 밤의 숲, 크고 구슬픈 울음소리, 질주, 점차 늘어나는 에메랄드 늑대들, 조금씩 증가하는 개체 수, 점진적으로 빨라지는 속도, 동료들이 합류할수록 강해지는 녹색 빛.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088786652156350464/img/Q_pnjqYPQy70d9F8.jpg" width="600" alt="빛나는 에메랄드 늑대 무리 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9254)**
-
-**작성자:** [Apple🌏🍏👑](https://x.com/makoto_so) | **출처:** [Link](https://x.com/makoto_so/status/2088786721601405439) | **게시일:** Aug 16, 2026
-
----
-### 시네마틱 에메랄드 늑대 보석
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 에메랄드와 은으로 만들어진 늑대들이 사실적인 조명 효과와 함께 등장하는 상세한 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-은색 테두리가 있는 에메랄드로 만들어진 동물, 늑대, 실제 보석의 광택, 가장자리 강조, 최대한 동물답게, 금방이라도 움직일 것 같은 모습, 먹이는 날것의 에메랄드 원석, 갉아먹는 모습, 넘쳐나는 보석들, 에메랄드 늑대 새끼가 갉아먹는 모습, 어미 늑대의 애정 어린 시선, 눈빛은 어딘가 부드러움, 에메랄드 늑대 새끼의 입이 크고 다소 가슴 따뜻해지는 야생의 장면, 마지막에는 잠드는 모습으로 페이드 아웃, 하울링 소리가 들림.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="시네마틱 에메랄드 늑대 보석">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9257)**
-
-**작성자:** [Apple🌏🍏👑](https://x.com/makoto_so) | **출처:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **게시일:** Aug 16, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2182,6 +2182,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-26T05:04:13.831Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-26T09:11:03.254Z</sub>
 
 </div>

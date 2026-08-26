@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2591** |
+| 📝 プロンプト総数 | **2598** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-08-26** |
 
@@ -189,6 +189,120 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 赤いマーメイドドレスのファッションランウェイ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ファッションショーのランウェイで、赤いマーメイドドレスとハイバン（お団子ヘア）を披露するモデルのための詳細なビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+この女性モデルが、ルーズなカールをあしらったハイバンヘアと、美しい赤いマーメイドスタイルのドレスを着用し、ランウェイでロングパーティードレスを披露します
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="赤いマーメイドドレスのファッションランウェイ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9860)**
+
+**作者:** [Esther Santana](https://x.com/esther_san41998) | **ソース:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **公開日:** Aug 26, 2026
+
+---
+### マシュマロラテの上で眠る猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ラテアートの上に浮かぶマシュマロの上で眠る小さな猫をテーマにした、幻想的で可愛らしい動画プロンプトです。癒やし系のビジュアルコンテンツに最適です。
+
+#### 📝 プロンプト
+
+```
+巨大なマシュマロの上で眠る小さな猫。そのマシュマロはラテアートが施されたコーヒーの上に浮かんでいる
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="マシュマロラテの上で眠る猫">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9854)**
+
+**作者:** [Maxime](https://x.com/Maxime887812) | **ソース:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **公開日:** Aug 25, 2026
+
+---
+### Rainbow Universe SF プロトタイプ公開
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 虹色の宇宙を舞台に、仲間たちや偉大な天才たちのホログラフィック・アバターが軌道を描く、SF シネマティック・シーン。
+
+#### 📝 プロンプト
+
+```
+Rainbow Universe MsX および MrX プロトタイプのシネマティックな公開：人間味あふれるフレンドリーな仲間たちが温かい笑顔で優しく動き、登録者や偉大な天才たち（Tesla、Franklin、そして多様な知性）のホログラフィックな wiki アバターが、ゆっくりと軌道を描きながら柔らかく輝きます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="Rainbow Universe SF プロトタイプ公開">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9855)**
+
+**作者:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **ソース:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **公開日:** Aug 25, 2026
+
+---
+### 宇宙オリンピックのロボットシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 星雲のエフェクトが漂う宇宙のオリンピックスタジアムに佇むロボットを描いた、映画のようなプロンプト。
+
+#### 📝 プロンプト
+
+```
+映画のようなワイドなヒーローイメージ、柔らかな虹色の星雲が広がる暗い宇宙の背景、中距離には柔らかな青と金の照明に照らされたオリンピックスタジアムのステージ、左側には優雅に立つ親しみやすい Yin スタイルの穏やかな女性型 Soft RA MsX ロボット...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="宇宙オリンピックのロボットシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9859)**
+
+**作者:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **ソース:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **公開日:** Aug 25, 2026
+
+---
+### 穏やかな海を進むヨット
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 帆を膨らませて海を滑るように進むヨットのリアルな動画。
+
+#### 📝 プロンプト
+
+```
+穏やかな青い海をヨットが優雅に進んでいきます。白い帆がそよ風を受けて柔らかく膨らみ、船体の周りではさざ波が立ち、きらめく光を反射しています。澄み渡る青空には柔らかな雲がゆっくりと流れ、リアルな動きが表現されています...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="穏やかな海を進むヨット">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9857)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **公開日:** Aug 25, 2026
+
+---
+### モネ風のボートを漕ぐカエル
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1800 年代の服を着たカエルがモネ風の睡蓮の池でボートを漕ぐ様子を描いた、詳細な印象派スタイルの動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+9:16 の静止画、スピード重視。モネの睡蓮の池に浮かぶ小さな木製のボート。フォトリアルでありながら、厚塗りされた青、緑、クリームゴールドの光が混ざり合う、乾いていない絵の具のような水面を表現した印象派の油絵スタイル。ボートは 1 隻のみ。ボートの中には、1800 年代後半の服を着た可愛らしい小さなカエル。小さなカンカン帽、ストライプのベスト、短いジャケットを身にまとい、真剣かつ楽しげにミニチュアのオールで漕いでいる。厚塗りの睡蓮、岸辺にはキャンバスの質感、1870 年代の色調に 1990 年代のフィルムのような粒子感を重ねる。人物や他のボートは登場させず、暗い雰囲気も排除する。コンセプト：描かれた水面を真剣に漕ぐカエル。美しく、少しユーモラスな雰囲気。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="モネ風のボートを漕ぐカエル">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9858)**
+
+**作者:** [Lucy](https://x.com/princess414141) | **ソース:** [Link](https://x.com/princess414141/status/2092229826128093365) | **公開日:** Aug 25, 2026
+
+---
 ### 山岳の龍樹
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -250,6 +364,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9798)**
 
 **作者:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **ソース:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **公開日:** Aug 25, 2026
+
+---
+### リップシンクアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクターの口元を動かし、特定のテキストを話させるための動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+元の画像は変更せず、以下のセリフを口元に反映させてください：「Let your light so shine. I love you....」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="リップシンクアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9856)**
+
+**作者:** [Julio McCauley](https://x.com/CosmicJulioBro) | **ソース:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **公開日:** Aug 25, 2026
 
 ---
 ### なびくスカーフのアーティスティックなアニメーション
@@ -1988,139 +2121,6 @@ Glamorous Cyborg Neuromancer, 4k rgb, acescg, jerky staging, flashing neon, 英�
 **作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **ソース:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **公開日:** Aug 16, 2026
 
 ---
-### ハローキティの刑務所物語
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ハローキティが店内でトラブルに巻き込まれるアニメーションシーケンスのための詳細なナラティブプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ハローキティが店からキャンディを盗んでしまいます。ママに「盗んではいけません、大変なことになりますよ」と言われていたのに。キティは泣き出し、店員が警察を呼んで、キティは刑務所へ連れて行かれます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088877416332640256/img/z4oi_SjX29GlI7Zm.jpg" width="600" alt="ハローキティの刑務所物語">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9243)**
-
-**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **ソース:** [Link](https://x.com/DavontaDav5iv/status/2088877441540342157) | **公開日:** Aug 16, 2026
-
----
-### 宇宙飛行士と異星の日の出の隠れ家
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 岩だらけの尾根に立つ宇宙飛行士からカメラがゆっくりと後退し、異星で二つ目の太陽が昇る様子を捉えたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-未踏の地の岩場に佇む一人の宇宙飛行士を捉えた、16:9 のワイドなシネマティックショット。静寂に包まれた広大な異星の地形を見つめる宇宙飛行士の背後から、二つ目の太陽が昇り始める。暗い空には地球が小さな球体として浮かび、中景には宇宙船が静かに佇んでいる。カメラがゆっくりと着実に後退することで、新しい景観のスケールと空虚さが徐々に明らかになる。柔らかな自然光、静かで希望に満ちた雰囲気、フォトリアルで映画のような情緒あふれる映像。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="宇宙飛行士と異星の日の出の隠れ家">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9256)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2088875908434203079) | **公開日:** Aug 16, 2026
-
----
-### 水彩画風のナラティブな会話
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ウェット・オン・ウェットの水彩画の美学を用い、男女間の複雑な感情のやり取りを描写するための洗練された動画生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-視覚的な美学はウェット・オン・ウェットの水彩画スタイルとする。すべてのショットで水彩画のスタイルを維持し、キャラクターがまるで動く水彩画のように見え、そのスタイルを完璧に守ること。男女が、離れ離れになる前に恋に落ちそうだったのではないかと冗談めかして話し合う。彼らは本心であることを隠すために冗談を言っている。自然に見えるよう、適度に間を入れること。映画のような、最高品質の演出と撮影技術。確立ショット（エスタブリッシング・ショット）の後、感情的な共鳴を生むためにタイトなクローズアップと手持ちカメラの映像を使用する。ワイドショットは使用しない。音楽はなし。声の大きさよりも、表情の微細な変化でテーマを表現すること。
-```
-
-<img src="https://cms-assets.youmind.com/media/1786953735801_hadx6t_HP0OHs_XoAAMwHw.jpg" width="600" alt="水彩画風のナラティブな会話">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9322)**
-
-**作者:** [Rob Allan](https://x.com/allan_robII) | **ソース:** [Link](https://x.com/allan_robII/status/2088841453124342009) | **公開日:** Aug 16, 2026
-
----
-### 裏庭の上を飛ぶカラフルな鳥たち
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 穏やかな裏庭の風景に、楽しげなカラフルな鳥たちを追加し、動きを具体的に指定する修正用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-裏庭の風景の澄み渡る青空に、楽しそうに飛び回る数羽のカラフルな鳥を追加してください。鳥たちは非常に陽気で明るい表情をしており、翼を広げて木々の周りを遊び心たっぷりに舞っています。その他の要素はすべてそのまま維持してください：w...
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866211398_4l9d94_HP0CjnvagAADTHD.jpg" width="600" alt="裏庭の上を飛ぶカラフルな鳥たち">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9251)**
-
-**作者:** [Star](https://x.com/Wednesdayo17) | **ソース:** [Link](https://x.com/Wednesdayo17/status/2088828673269072163) | **公開日:** Aug 16, 2026
-
----
-### 信者を楽園へと導くキリスト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> イエス・キリストが信者をハデスから楽園へと導く様子を描いた、映画のようなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-十字架で亡くなられた後、主イエス・キリストが信者たちをハデスから楽園へと導く様子を想像してください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="信者を楽園へと導くキリスト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9250)**
-
-**作者:** [Hany N. Takla](https://x.com/HanyNTakla2) | **ソース:** [Link](https://x.com/HanyNTakla2/status/2088811975937855627) | **公開日:** Aug 16, 2026
-
----
-### 輝くエメラルドの狼の群れのアニメーション
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 神秘的な森の中で、輝くエメラルドの狼の群れが遠吠えを上げ、加速していく様子を描いた、日本語の魔法のようなアニメーションプロンプト。
-
-#### 📝 プロンプト
-
-```
-エメラルドの狼、銀色の縁取り、本物の宝石のような輝き、エッジ強調、動物的な生命力を持つ神秘的な生き物、内側から放たれる微かな閃光、野性的で獰猛な外見、深く豊かな神秘的な夜の森、高く悲しげな遠吠え、疾走、徐々に増えていくエメラルドの狼たち、少しずつ増える数、次第に加速するスピード、仲間が増えるにつれて強まる緑色の輝き。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088786652156350464/img/Q_pnjqYPQy70d9F8.jpg" width="600" alt="輝くエメラルドの狼の群れのアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9254)**
-
-**作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **ソース:** [Link](https://x.com/makoto_so/status/2088786721601405439) | **公開日:** Aug 16, 2026
-
----
-### シネマティックなエメラルドの狼の宝石
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> エメラルドとシルバーで構成された狼が、リアルな照明効果で描かれる、詳細なシネマティック動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-シルバーの縁取りが施されたエメラルド製の動物、狼、本物の宝石のような輝き、エッジの強調、可能な限り動物らしく、今にも動き出しそうな様子、餌は生の原石のエメラルド、かじっている、石が溢れ出ている、エメラルドの狼の子供がかじっている様子、親狼の愛情深い眼差し、どこか優しい目、エメラルドの狼の子供の大きな口と、どこか心温まる野生の光景、最後は眠りにつくようにフェードアウト、遠吠えが聞こえる。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="シネマティックなエメラルドの狼の宝石">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9257)**
-
-**作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **ソース:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **公開日:** Aug 16, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2182,6 +2182,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-26T05:04:11.111Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-26T09:11:02.052Z</sub>
 
 </div>

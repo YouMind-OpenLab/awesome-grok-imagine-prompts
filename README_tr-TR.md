@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2591** |
+| 📝 Total Prompts | **2598** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-26** |
 
@@ -189,6 +189,120 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Kırmızı Deniz Kızı Kesim Abiye Moda Podyumu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir moda podyumunda kırmızı deniz kızı kesim elbise ve yüksek topuz saç modeli sergileyen bir model için detaylı video istemi.
+
+#### 📝 Prompt
+
+```
+Bu genç kadın, podyumda uzun bir parti elbisesi sergileyecek; saçları gevşek bukleli yüksek bir topuz şeklinde ve üzerinde güzel, kırmızı, deniz kızı kesim bir elbise var
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="Kırmızı Deniz Kızı Kesim Abiye Moda Podyumu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9860)**
+
+**Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
+
+---
+### Marshmallow Latte Üzerinde Uyuyan Kedi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Latte sanatı üzerinde yüzen bir marshmallow'un üzerinde uyuyan minik bir kediyi konu alan, huzurlu ve sevimli görsel içerikler için mükemmel, sıra dışı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Dev bir marshmallow'un üzerinde uyuyan minik bir kedi; marshmallow, latte sanatı yapılmış bir kahvenin üzerinde yüzüyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="Marshmallow Latte Üzerinde Uyuyan Kedi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
+
+**Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
+
+---
+### Rainbow Universe Bilim Kurgu Prototipi Tanıtımı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gökkuşağı evreninde yörüngede dönen yol arkadaşları ve ünlü dâhilerin holografik avatarlarını gözler önüne seren sinematik bir bilim kurgu sahnesi.
+
+#### 📝 Prompt
+
+```
+Rainbow Universe MsX ve MrX prototipinin sinematik canlı tanıtımı: insansı dost canlısı yol arkadaşları sıcak gülümsemelerle nazikçe hareket ediyor, abonelerin ve aramızdan ayrılmış dâhilerin (Tesla, Franklin ve çeşitli zihinler) holografik wiki avatarları yavaşça yörüngede dönüyor ve yumuşak bir ışık saçıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="Rainbow Universe Bilim Kurgu Prototipi Tanıtımı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9855)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **Published:** Aug 25, 2026
+
+---
+### Kozmik Olimpiyat Robot Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Nebula efektleriyle kozmik bir Olimpiyat stadyumu ortamındaki robotu betimleyen sinematik bir komut.
+
+#### 📝 Prompt
+
+```
+Sinematik geniş açılı ana görsel, yumuşak gökkuşağı nebulalı karanlık kozmik arka plan, orta mesafede yumuşak mavi ve altın sarısı aydınlatmalı Olimpiyat stadyumu sahnesi, solda zarif bir şekilde duran, ulaşılabilir Yin tarzında nazik ve feminen bir Soft RA MsX robot,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="Kozmik Olimpiyat Robot Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9859)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **Published:** Aug 25, 2026
+
+---
+### Durgun Sularda Yelkenli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yelkenleri rüzgarla şişmiş bir şekilde okyanusta süzülen bir yelkenlinin gerçekçi hareketli videosu.
+
+#### 📝 Prompt
+
+```
+Yelkenli, durgun mavi okyanus sularında hafif bir esintiyle yumuşakça şişen beyaz yelkenleriyle nazikçe ilerliyor; teknenin gövdesi etrafında parıldayan yansımalarla hafif dalgalar oluşuyor, berrak mavi gökyüzünde yumuşak bulutlar yavaşça süzülüyor, gerçekçi hareketli...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="Durgun Sularda Yelkenli">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9857)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **Published:** Aug 25, 2026
+
+---
+### Monet Tarzı Kurbağa Sandalı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1800'lerin kıyafetleri içindeki bir kurbağanın Monet tarzı bir nilüfer göletinde sandal küreklediği, detaylı bir empresyonist video istemi.
+
+#### 📝 Prompt
+
+```
+9:16 sabit görüntü, Hız dostu. Monet nilüfer göletinde küçük bir ahşap sandal, aynı anda hem fotogerçekçi hem de ıslak empresyonist yağlı boya: yoğun maviler, yeşiller ve krem-altın rengi ışık, kurumamış boya gibi bir su. İkinci bir tekne yok. Teknede, 1800'lerin sonu dönem kıyafetleri giymiş sevimli küçük bir kurbağa: minik hasır şapka, çizgili yelek, kısa bir ceket; ciddi ve neşeli, minyatür bir kürekle kürek çekiyor. Impasto nilüferler, kıyıda tuval dokusu, 1870'lerin renkleri üzerinde 1990'ların film greni. İnsan yok, fazladan tekne yok, kasvet yok. Tek bir fikir: boyalı suyu ciddiye alan bir kurbağa. Güzel ve biraz da komik.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="Monet Tarzı Kurbağa Sandalı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9858)**
+
+**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092229826128093365) | **Published:** Aug 25, 2026
+
+---
 ### Dağ Ejderhası Ağacı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -250,6 +364,25 @@ Bazıları ise farklı dans türlerini denedi.
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
 
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
+
+---
+### Dudak Senkronizasyonu Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karakterin ağzını belirli bir metni konuşacak şekilde hareket ettirmek için kullanılan video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Görseli değiştirmeden ağzını şu şekilde hareket ettir: “Işığın parlasın. Seni seviyorum....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="Dudak Senkronizasyonu Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9856)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
 
 ---
 ### Akışkan Eşarp Sanatsal Animasyonu
@@ -1988,139 +2121,6 @@ Dora yardım çağrısında bulunuyor ve Team Umizoomi onu kötü adamdan kurtar
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **Published:** Aug 16, 2026
 
 ---
-### Hello Kitty Hapishane Hikayesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hello Kitty'nin bir mağazada yaşadığı ve hukuki sorunlarla karşılaştığı bir çizgi film sekansı için detaylı anlatım istemi.
-
-#### 📝 Prompt
-
-```
-Hello Kitty mağazadan şeker çalar: annesi ona şeker çalmaması gerektiğini, başının büyük belada olduğunu söyler: Kitty ağlar, annesi polisi arar ve polis Kitty'yi hapse götürür.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088877416332640256/img/z4oi_SjX29GlI7Zm.jpg" width="600" alt="Hello Kitty Hapishane Hikayesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9243)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088877441540342157) | **Published:** Aug 16, 2026
-
----
-### Astronot Uzaylı Gün Doğumu İnzivası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kayalık bir sırt üzerinde duran bir astronottan, yabancı bir dünyada ikinci güneş doğarken yavaşça uzaklaşan kamera çekimini içeren sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Keşfedilmemiş bir dünyanın kenarındaki yüksek kayalık bir çıkıntıda duran yalnız bir astronotun 16:9 geniş sinematik çekimi; ikinci bir güneş doğmaya başlarken uçsuz bucaksız ve sessiz yabancı bir araziye bakıyor, Dünya karanlık gökyüzünde küçük uzak bir küre olarak görünüyor, uzay araçları orta mesafede aşağıda duruyor, yeni manzaranın ölçeğini ve boşluğunu kademeli olarak ortaya çıkaran yavaş ve sabit bir kamera geri çekilmesi, yumuşak doğal ışık, sessiz ve umut dolu bir atmosfer, fotogerçekçi, film estetiğinde ve duygusal
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="Astronot Uzaylı Gün Doğumu İnzivası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9256)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088875908434203079) | **Published:** Aug 16, 2026
-
----
-### Suluboya Anlatımlı Sohbet
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir erkek ve bir kadın arasındaki karmaşık duygusal sohbeti tasvir etmek için ıslak üzerine ıslak suluboya estetiğini kullanan sofistike bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Görsel estetik, ıslak üzerine ıslak suluboya tarzındadır. Karakterlerin hareketli suluboya tabloları gibi göründüğü ve tarza mükemmel bir şekilde uyum sağladığı her çekimde suluboya tarzını koruyun. Bir erkek ve bir kadın, ayrılmadan önce aşık olmak üzere olduklarını düşündükleri bir durumu şakayla karışık tartışıyorlar. Aslında bunu kastettiklerini gizlemek için şakalaşıyorlar. Daha doğal görünmesi için aralara bazı duraksamalar ekleyin. Sinematik, prestij seviyesinde yönetmenlik ve sinematografi. Genel çekim, yakın plan çekimler ve duygusal derinlik için el kamerası kullanımı. Geniş çekim yok. Müzik yok. Yüzlerindeki mikro ifadeler, seslerinin tonundan daha fazla temayı yansıtıyor.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786953735801_hadx6t_HP0OHs_XoAAMwHw.jpg" width="600" alt="Suluboya Anlatımlı Sohbet">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9322)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088841453124342009) | **Published:** Aug 16, 2026
-
----
-### Arka Bahçede Uçan Renkli Kuşlar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Huzurlu bir arka bahçe sahnesine, belirli hareket tanımlarıyla neşeli ve renkli kuşlar ekleyen bir modifikasyon istemi.
-
-#### 📝 Prompt
-
-```
-Arka bahçe sahnesinin üzerindeki masmavi gökyüzünde neşeyle uçan birkaç renkli kuş ekleyin. Kuşlar çok mutlu ve neşeli görünüyor; parlak ifadeleri, açılmış kanatları ve ağaçların etrafında oyunbaz bir şekilde süzülüşleri var. Diğer her şeyi tamamen aynı tutun: w...
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866211398_4l9d94_HP0CjnvagAADTHD.jpg" width="600" alt="Arka Bahçede Uçan Renkli Kuşlar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9251)**
-
-**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2088828673269072163) | **Published:** Aug 16, 2026
-
----
-### İsa'nın İnananları Cennete Götürüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İsa Mesih'in inananları Hades'ten cennete götürüşünü tasvir eden sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Rabbimiz İsa Mesih'in çarmıhta öldükten sonra inananları Hades'ten cennete götürdüğünü hayal edin
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="İsa'nın İnananları Cennete Götürüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9250)**
-
-**Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088811975937855627) | **Published:** Aug 16, 2026
-
----
-### Parlayan Zümrüt Kurt Sürüsü Animasyonu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Gizemli bir ormanda uluyan ve hız kazanan parlayan zümrüt kurt sürüsünü betimleyen Japonca büyülü bir animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Zümrüt kurdu, gümüş süslemeler, gerçek mücevher ışıltısı, kenar belirginleştirme, hayvansı canlılığa sahip gizemli yaratık, içeride hafif parıltı, vahşi ve yırtıcı görünüm, gece vakti derin ve zengin gizemli orman, yüksek sesli ve kederli uluma, dört nala koşma, giderek artan zümrüt kurtları, sayıları azar azar artıyor, hız kademeli olarak yükseliyor, yeni yoldaşlar katıldıkça yeşil parıltı güçleniyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088786652156350464/img/Q_pnjqYPQy70d9F8.jpg" width="600" alt="Parlayan Zümrüt Kurt Sürüsü Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9254)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088786721601405439) | **Published:** Aug 16, 2026
-
----
-### Sinematik Zümrüt Kurt Değerli Taşı
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Zümrüt ve gümüşten yapılmış, gerçekçi ışık efektlerine sahip kurtları içeren detaylı bir sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Gümüş süslemeli zümrütten yapılmış hayvan, kurt, gerçek değerli taş parıltısı, kenar vurgusu, mümkün olduğunca hayvana benzer, hareket edecekmiş gibi görünen, yiyeceği ham zümrüt taşları, kemirme, taşların taşması, zümrüt kurt yavrusunun kemirmesi, ebeveyn kurdun şefkatli bakışı, gözler bir şekilde nazik, zümrüt kurt yavrusunun ağzının büyük ve bir nebze iç ısıtıcı olduğu vahşi bir sahne, son olarak uykuya dalışla kararma, uluma sesi duyulabiliyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="Sinematik Zümrüt Kurt Değerli Taşı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9257)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **Published:** Aug 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2182,6 +2182,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T05:04:27.181Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T09:11:20.619Z</sub>
 
 </div>

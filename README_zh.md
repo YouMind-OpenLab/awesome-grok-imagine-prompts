@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2591** |
+| 📝 提示词总数 | **2598** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-08-26** |
 
@@ -189,6 +189,120 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 红色美人鱼礼服时尚走秀
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的视频提示词，用于展示模特身穿红色美人鱼风格礼服，搭配高丸子头发型在时尚 T 台上走秀。
+
+#### 📝 提示词
+
+```
+这位模特将在 T 台上展示一件长款派对礼服，发型为带有松散卷发的高丸子头，身穿一件精美的红色美人鱼风格礼服
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="红色美人鱼礼服时尚走秀">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9860)**
+
+**作者:** [Esther Santana](https://x.com/esther_san41998) | **来源:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **发布时间:** Aug 26, 2026
+
+---
+### 棉花糖拿铁上的睡猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满奇思妙想的视频提示词，画面中一只小猫在拿铁拉花上漂浮的棉花糖里安睡，非常适合制作温馨可爱的视觉内容。
+
+#### 📝 提示词
+
+```
+一只小猫躺在巨大的棉花糖上熟睡，棉花糖漂浮在拿铁拉花咖啡的表面
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="棉花糖拿铁上的睡猫">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9854)**
+
+**作者:** [Maxime](https://x.com/Maxime887812) | **来源:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **发布时间:** Aug 25, 2026
+
+---
+### Rainbow Universe 科幻原型揭秘
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个科幻电影感场景，展示了在彩虹宇宙中环绕运行的伙伴以及著名天才的全息化身。
+
+#### 📝 提示词
+
+```
+Rainbow Universe MsX 和 MrX 原型的电影感实景揭秘：人性化的友好伙伴带着温暖的微笑轻轻移动，订阅者和已故天才（如 Tesla、Franklin 及各界精英）的维基全息化身在周围缓慢环绕并发出柔和的光芒。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="Rainbow Universe 科幻原型揭秘">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9855)**
+
+**作者:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **来源:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **发布时间:** Aug 25, 2026
+
+---
+### 宇宙奥林匹克机器人场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影级的提示词，描述了在带有星云效果的宇宙奥林匹克体育场背景下的机器人。
+
+#### 📝 提示词
+
+```
+电影级宽幅主视觉图，深邃的宇宙背景配以柔和的彩虹星云，中景处为奥林匹克体育场舞台，带有柔和的蓝金光影，左侧站立着一位优雅的女性化 Soft RA MsX 机器人，呈现出亲和的 Yin 风格，...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="宇宙奥林匹克机器人场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9859)**
+
+**作者:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **来源:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **发布时间:** Aug 25, 2026
+
+---
+### 平静水面上的帆船
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段逼真的动态视频，展示了一艘帆船在海面上平稳航行，白帆鼓动。
+
+#### 📝 提示词
+
+```
+帆船在平静的蓝色海面上平稳前行，洁白的船帆在微风中轻轻鼓动，船身周围泛起细微的涟漪，反射着粼粼波光，柔软的云朵在晴朗的蓝天中缓慢飘动，逼真的动态效果……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="平静水面上的帆船">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9857)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **发布时间:** Aug 25, 2026
+
+---
+### 莫奈风格青蛙划船
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段细腻的印象派视频提示词，描绘了一只身着 19 世纪服装的青蛙在莫奈风格的睡莲池中划船。
+
+#### 📝 提示词
+
+```
+9:16 静态画面，适合快速生成。莫奈睡莲池中有一只小木船，兼具写实感与湿润的印象派油画质感：浓郁的蓝色、绿色与奶油金色的光影，水面如同未干的颜料。画面中仅有一只船。船上有一只可爱的青蛙，身穿 19 世纪末的服饰：戴着小巧的平顶草帽，穿着条纹马甲和短外套，神情认真而愉悦，正用迷你船桨划船。厚涂法描绘的睡莲，岸边可见画布纹理，19 世纪 70 年代的色彩叠加 20 世纪 90 年代的胶片颗粒感。画面中没有人物，没有多余的船只，没有阴郁感。核心构思：一只认真对待这片画中水的青蛙。画面优美且带有一丝俏皮。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="莫奈风格青蛙划船">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9858)**
+
+**作者:** [Lucy](https://x.com/princess414141) | **来源:** [Link](https://x.com/princess414141/status/2092229826128093365) | **发布时间:** Aug 25, 2026
+
+---
 ### 山中龙树
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -250,6 +364,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9798)**
 
 **作者:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **来源:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **发布时间:** Aug 25, 2026
+
+---
+### 口型同步动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一种用于驱动角色口型以朗读特定文本的视频生成提示词。
+
+#### 📝 提示词
+
+```
+保持图像不变，让其口型说出：“Let your light so shine. I love you....”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="口型同步动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9856)**
+
+**作者:** [Julio McCauley](https://x.com/CosmicJulioBro) | **来源:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **发布时间:** Aug 25, 2026
 
 ---
 ### 飘逸丝巾艺术动画
@@ -1989,139 +2122,6 @@ Dora 正在呼救，Team Umizoomi 即将出发，从邪恶反派手中救出她
 **作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **来源:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **发布时间:** Aug 16, 2026
 
 ---
-### Hello Kitty 监狱故事
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于 Hello Kitty 在商店引发法律纠纷的卡通序列详细叙事提示词。
-
-#### 📝 提示词
-
-```
-Hello Kitty 从商店偷走了糖果：她妈妈说“不要偷糖果，你惹大麻烦了”：她哭了起来，妈妈报了警，警察把 Kitty 带进了监狱。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088877416332640256/img/z4oi_SjX29GlI7Zm.jpg" width="600" alt="Hello Kitty 监狱故事">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9243)**
-
-**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **来源:** [Link](https://x.com/DavontaDav5iv/status/2088877441540342157) | **发布时间:** Aug 16, 2026
-
----
-### 宇航员外星日出撤退
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影感视频提示词，描述了摄像机从站在岩石山脊上的宇航员处缓慢后撤，同时外星世界升起第二颗太阳的场景。
-
-#### 📝 提示词
-
-```
-宽屏 16:9 电影镜头，一名孤独的宇航员站在未探索世界的高处岩石露头上，眺望着广阔而寂静的外星地形，第二颗太阳开始升起，地球在黑暗的天空中作为一个遥远的小球体可见，他们的航天器停在远方的中景处，缓慢而稳定的摄像机后撤逐渐揭示了新景观的规模和空旷感，柔和的自然光，安静而充满希望的氛围，照片级真实感，电影感且富有情感
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="宇航员外星日出撤退">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9256)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2088875908434203079) | **发布时间:** Aug 16, 2026
-
----
-### 水彩叙事对话
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个精致的视频生成提示词，采用湿画法水彩美学，描绘男女之间一场复杂的感性对话。
-
-#### 📝 提示词
-
-```
-视觉美学采用湿画法水彩风格。在每一个镜头中保持水彩风格，使角色看起来如同移动的水彩画，并完美契合该风格。一男一女开玩笑地讨论他们如何在分开前差点坠入爱河。他们通过玩笑来掩饰内心的真实情感。加入一些停顿，使其看起来更自然。电影级、高水准的导演与摄影。包含建立镜头、紧凑特写以及手持摄影以增强情感共鸣。不要使用广角镜头。没有背景音乐。面部的微表情比声音的大小更能传达主题。
-```
-
-<img src="https://cms-assets.youmind.com/media/1786953735801_hadx6t_HP0OHs_XoAAMwHw.jpg" width="600" alt="水彩叙事对话">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9322)**
-
-**作者:** [Rob Allan](https://x.com/allan_robII) | **来源:** [Link](https://x.com/allan_robII/status/2088841453124342009) | **发布时间:** Aug 16, 2026
-
----
-### 飞过庭院的彩色小鸟
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个修改提示词，旨在为宁静的庭院场景添加欢快的彩色小鸟，并附带具体的动作描述。
-
-#### 📝 提示词
-
-```
-在庭院场景的晴朗蓝天上，添加几只快乐飞翔的彩色小鸟。小鸟看起来非常欢快愉悦，表情明亮，展翅在树木周围嬉戏翱翔。保持其他所有内容完全不变：...
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866211398_4l9d94_HP0CjnvagAADTHD.jpg" width="600" alt="飞过庭院的彩色小鸟">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9251)**
-
-**作者:** [Star](https://x.com/Wednesdayo17) | **来源:** [Link](https://x.com/Wednesdayo17/status/2088828673269072163) | **发布时间:** Aug 16, 2026
-
----
-### 基督引领信徒前往天堂
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词，描绘了耶稣基督引领信徒从阴间前往天堂的场景。
-
-#### 📝 提示词
-
-```
-想象一下我们的主耶稣基督在十字架上受难后，引领信徒从阴间前往天堂的画面
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="基督引领信徒前往天堂">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9250)**
-
-**作者:** [Hany N. Takla](https://x.com/HanyNTakla2) | **来源:** [Link](https://x.com/HanyNTakla2/status/2088811975937855627) | **发布时间:** Aug 16, 2026
-
----
-### 发光翡翠狼群动画
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个日语动画提示词，描述了一群在神秘森林中嚎叫并加速奔跑的发光翡翠狼。
-
-#### 📝 提示词
-
-```
-翡翠狼，银色饰边，真实宝石光泽，边缘增强，具有动物生命力的神秘生物，体内微弱闪光，外表狂野凶猛，深邃浓郁的神秘夜间森林，响亮而悲凉的嚎叫，奔跑，翡翠狼逐渐增多，数量一点点增加，速度逐渐加快，随着同伴加入，绿色光芒变得愈发强烈。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088786652156350464/img/Q_pnjqYPQy70d9F8.jpg" width="600" alt="发光翡翠狼群动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9254)**
-
-**作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **来源:** [Link](https://x.com/makoto_so/status/2088786721601405439) | **发布时间:** Aug 16, 2026
-
----
-### 电影级翡翠狼宝石
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一段详细的电影级视频提示词，呈现由翡翠和白银打造的狼，并带有逼真的光影效果。
-
-#### 📝 提示词
-
-```
-由翡翠制成并带有白银装饰的动物，狼，真实的宝石光泽，边缘强调，尽可能还原动物形态，看起来仿佛随时会动，食物是原始翡翠原石，啃咬，宝石溢出，翡翠狼崽在啃咬，狼父母充满爱意的注视，眼神格外温柔，翡翠狼崽张大嘴巴的野性场景，温馨动人，最后画面淡出进入睡眠，可以听到狼嚎声。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="电影级翡翠狼宝石">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9257)**
-
-**作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **来源:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **发布时间:** Aug 16, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2183,6 +2183,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-26T05:04:08.667Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-26T09:10:59.906Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2591** |
+| 📝 Total Prompts | **2598** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-26** |
 
@@ -189,6 +189,120 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### रेड मरमेड गाउन फैशन रनवे
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> फैशन कैटवॉक पर लाल मरमेड-स्टाइल ड्रेस और हाई बन हेयरस्टाइल का प्रदर्शन करने वाली मॉडल के लिए एक विस्तृत वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+यह लड़की कैटवॉक पर एक लंबी पार्टी ड्रेस पहनकर मॉडलिंग करेगी, जिसमें उसने ढीले कर्ल के साथ हाई बन बनाया है और एक सुंदर लाल मरमेड-स्टाइल ड्रेस पहनी है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="रेड मरमेड गाउन फैशन रनवे">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9860)**
+
+**Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
+
+---
+### मार्शमैलो लाटे पर सोती हुई बिल्ली
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मनमोहक वीडियो प्रॉम्प्ट जिसमें लाटे आर्ट पर तैरते हुए मार्शमैलो पर एक छोटी सी बिल्ली सो रही है, जो आरामदायक और प्यारे विज़ुअल कंटेंट के लिए एकदम सही है।
+
+#### 📝 Prompt
+
+```
+एक विशाल मार्शमैलो पर सोती हुई एक छोटी सी बिल्ली, मार्शमैलो लाटे आर्ट कॉफी के ऊपर तैर रहा है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="मार्शमैलो लाटे पर सोती हुई बिल्ली">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
+
+**Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
+
+---
+### Rainbow Universe Sci-Fi प्रोटोटाइप का अनावरण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक साइंस-फिक्शन सिनेमाई दृश्य जो इंद्रधनुषी ब्रह्मांड (rainbow universe) में परिक्रमा करते हुए साथियों और प्रसिद्ध प्रतिभाओं के होलोग्राफिक अवतारों को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+Rainbow Universe MsX और MrX प्रोटोटाइप का सिनेमाई जीवंत अनावरण: मानवीय और मिलनसार साथी गर्मजोशी भरी मुस्कान के साथ धीरे-धीरे बदलते हैं, जबकि सब्सक्राइबर्स और दिवंगत प्रतिभाओं (Tesla, Franklin और अन्य विविध विचारक) के होलोग्राफिक विकी अवतार धीरे-धीरे परिक्रमा करते हैं और हल्की चमक बिखेरते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="Rainbow Universe Sci-Fi प्रोटोटाइप का अनावरण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9855)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **Published:** Aug 25, 2026
+
+---
+### कॉस्मिक ओलंपिक रोबोट दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> नेबुला प्रभावों के साथ एक कॉस्मिक ओलंपिक स्टेडियम सेटिंग में रोबोट का वर्णन करने वाला एक सिनेमैटिक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+सिनेमैटिक वाइड हीरो इमेज, हल्के इंद्रधनुषी नेबुला के साथ गहरा कॉस्मिक बैकग्राउंड, मध्यम दूरी पर ओलंपिक स्टेडियम का मंच जिसमें हल्की नीली और सुनहरी लाइटिंग है, बाईं ओर शालीनता से खड़ा एक सौम्य और आकर्षक Soft RA MsX रोबोट जो सुलभ यिन (Yin) शैली में है,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="कॉस्मिक ओलंपिक रोबोट दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9859)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **Published:** Aug 25, 2026
+
+---
+### शांत पानी पर नाव
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> समुद्र में लहराते बादलों के साथ आगे बढ़ती एक नाव का यथार्थवादी मोशन वीडियो।
+
+#### 📝 Prompt
+
+```
+नाव शांत नीले समुद्र के पानी में धीरे-धीरे आगे बढ़ रही है, हल्की हवा में सफेद पाल धीरे-धीरे लहरा रहे हैं, पतवार के चारों ओर हल्की लहरें चमकते प्रतिबिंबों के साथ उठ रही हैं, साफ नीले आसमान में नरम बादल धीरे-धीरे तैर रहे हैं, यथार्थवादी मोशन...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="शांत पानी पर नाव">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9857)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **Published:** Aug 25, 2026
+
+---
+### मोने स्टाइल फ्रॉग रोबोट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1800 के दशक के कपड़ों में एक मेंढक द्वारा मोने-शैली के लिली तालाब में रोबोट (नाव) चलाने का एक विस्तृत प्रभाववादी (impressionist) वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+9:16 स्टिल, स्पीड-फ्रेंडली। मोने लिली तालाब पर एक छोटी लकड़ी की नाव, एक ही समय में फोटो-रियल और वेट इम्प्रेसनिस्ट ऑयल: गहरे नीले, हरे और क्रीम-गोल्ड रंग की रोशनी, पानी ऐसा जैसे पेंट अभी सूखा न हो। कोई दूसरी नाव नहीं। नाव में, 1800 के दशक के अंत के कपड़ों में एक प्यारा सा छोटा मेंढक: छोटी स्ट्रॉ बोटर हैट, धारीदार वेस्टकोट, एक छोटी जैकेट, गंभीर और खुशमिजाज, एक छोटे से चप्पू से नाव चला रहा है। इम्पैस्टो लिली, किनारे पर कैनवास का टेक्सचर, 1870 के दशक के रंगों पर 1990 के दशक का फिल्मी ग्रेन। कोई लोग नहीं, कोई अतिरिक्त नाव नहीं, कुछ भी गंभीर नहीं। एक विचार: एक मेंढक जो चित्रित पानी को गंभीरता से ले रहा है। सुंदर और थोड़ा मजाकिया।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="मोने स्टाइल फ्रॉग रोबोट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9858)**
+
+**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092229826128093365) | **Published:** Aug 25, 2026
+
+---
 ### माउंटेन ड्रैगन ट्री
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -250,6 +364,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
 
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
+
+---
+### लिप सिंक एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जिसका उपयोग किसी कैरेक्टर के मुंह को विशिष्ट टेक्स्ट बोलने के लिए एनिमेट करने हेतु किया जाता है।
+
+#### 📝 Prompt
+
+```
+इमेज को अपरिवर्तित रखते हुए उसके मुंह से यह बुलवाएं: “Let your light so shine. I love you....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="लिप सिंक एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9856)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
 
 ---
 ### लहराते स्कार्फ का कलात्मक एनीमेशन
@@ -1988,139 +2121,6 @@ Dora मदद के लिए बुला रही है और Team Umizoo
 **Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **Published:** Aug 16, 2026
 
 ---
-### Hello Kitty की जेल वाली कहानी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hello Kitty के स्टोर में होने और कानूनी मुसीबत में फंसने वाले कार्टून सीक्वेंस के लिए एक विस्तृत नैरेटिव प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-Hello Kitty स्टोर से कैंडी चुराती है: उसकी माँ कहती है कि कैंडी मत चुराओ, तुम बड़ी मुसीबत में हो: वह रोती है, वह पुलिस को बुलाती है और Kitty को जेल ले जाती है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088877416332640256/img/z4oi_SjX29GlI7Zm.jpg" width="600" alt="Hello Kitty की जेल वाली कहानी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9243)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088877441540342157) | **Published:** Aug 16, 2026
-
----
-### एस्ट्रोनॉट एलियन सनराइज रिट्रीट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें एक एलियन दुनिया पर दूसरे सूरज के उगने के साथ, चट्टानी रिज पर खड़े एक एस्ट्रोनॉट से कैमरे के धीरे-धीरे पीछे हटने का दृश्य है।
-
-#### 📝 Prompt
-
-```
-एक अज्ञात दुनिया के किनारे पर ऊंची चट्टानी ढलान पर खड़े अकेले एस्ट्रोनॉट का वाइड सिनेमैटिक 16:9 शॉट, जो एक विशाल और शांत एलियन इलाके को देख रहा है, तभी दूसरा सूरज उगना शुरू होता है, अंधेरे आसमान में पृथ्वी एक छोटे दूरस्थ गोले के रूप में दिखाई दे रही है, उनका अंतरिक्ष यान नीचे मध्य भाग में स्थित है, कैमरा धीरे-धीरे और स्थिर रूप से पीछे हटता है जो धीरे-धीरे नए परिदृश्य के पैमाने और शून्यता को प्रकट करता है, नरम प्राकृतिक रोशनी, शांत आशावादी वातावरण, फोटो-रियलिस्टिक, फिल्मी और भावनात्मक
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088727111775510528/img/QTNzx0l2Wcw7e-3Y.jpg" width="600" alt="एस्ट्रोनॉट एलियन सनराइज रिट्रीट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9256)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2088875908434203079) | **Published:** Aug 16, 2026
-
----
-### वॉटरकलर नैरेटिव कन्वर्सेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक परिष्कृत वीडियो जनरेशन प्रॉम्प्ट जो एक पुरुष और महिला के बीच जटिल भावनात्मक बातचीत को दर्शाने के लिए वेट-ऑन-वेट वॉटरकलर सौंदर्यशास्त्र का उपयोग करता है।
-
-#### 📝 Prompt
-
-```
-विजुअल एस्थेटिक वेट-ऑन-वेट वॉटरकलर स्टाइल है। हर शॉट में वॉटरकलर स्टाइल को बनाए रखें, जहाँ पात्र चलते-फिरते वॉटरकलर पेंटिंग की तरह दिखें और पूरी तरह से इस शैली का पालन करें। एक पुरुष और एक महिला मजाक में चर्चा करते हैं कि कैसे उन्हें लगता है कि वे अलग होने से पहले प्यार में पड़ने वाले थे। वे यह छिपाने के लिए मजाक कर रहे हैं कि उनका वास्तव में यही मतलब है। इसे अधिक स्वाभाविक बनाने के लिए बीच-बीच में कुछ ठहराव डालें। सिनेमाई, प्रेस्टीज लेवल की निर्देशन और सिनेमैटोग्राफी। एस्टेब्लिशिंग शॉट, टाइट क्लोज-अप और भावनात्मक गहराई के लिए हैंडहेल्ड कैमरा वर्क। कोई वाइड शॉट नहीं। कोई संगीत नहीं। उनके चेहरों के सूक्ष्म हाव-भाव उनकी आवाज़ की तीव्रता से कहीं अधिक विषय को स्पष्ट करते हैं।
-```
-
-<img src="https://cms-assets.youmind.com/media/1786953735801_hadx6t_HP0OHs_XoAAMwHw.jpg" width="600" alt="वॉटरकलर नैरेटिव कन्वर्सेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9322)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2088841453124342009) | **Published:** Aug 16, 2026
-
----
-### पिछवाड़े के ऊपर उड़ते रंग-बिरंगे पक्षी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मॉडिफिकेशन प्रॉम्प्ट जो एक शांत बैकयार्ड दृश्य में विशिष्ट गति विवरणों के साथ हंसमुख रंग-बिरंगे पक्षियों को जोड़ता है।
-
-#### 📝 Prompt
-
-```
-बैकयार्ड दृश्य के ऊपर साफ नीले आसमान में खुशी से उड़ते हुए कई रंग-बिरंगे पक्षियों को जोड़ें। पक्षी बहुत आनंदित और हंसमुख दिख रहे हैं, उनके चेहरे पर चमक है, पंख फैले हुए हैं, और वे पेड़ों के चारों ओर चंचलता से उड़ रहे हैं। बाकी सब कुछ बिल्कुल वैसा ही रखें: w...
-```
-
-<img src="https://cms-assets.youmind.com/media/1786866211398_4l9d94_HP0CjnvagAADTHD.jpg" width="600" alt="पिछवाड़े के ऊपर उड़ते रंग-बिरंगे पक्षी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9251)**
-
-**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2088828673269072163) | **Published:** Aug 16, 2026
-
----
-### ईसा मसीह का विश्वासियों को स्वर्ग ले जाना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो ईसा मसीह को विश्वासियों को नर्क (Hades) से स्वर्ग ले जाते हुए दर्शाता है।
-
-#### 📝 Prompt
-
-```
-कल्पना कीजिए कि हमारे प्रभु ईसा मसीह क्रूस पर अपने प्राण त्यागने के बाद विश्वासियों को नर्क (Hades) से स्वर्ग ले जा रहे हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088801721552453633/img/3Y1MtfI0dwreGaGF.jpg" width="600" alt="ईसा मसीह का विश्वासियों को स्वर्ग ले जाना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9250)**
-
-**Author:** [Hany N. Takla](https://x.com/HanyNTakla2) | **Source:** [Link](https://x.com/HanyNTakla2/status/2088811975937855627) | **Published:** Aug 16, 2026
-
----
-### चमकते पन्ना भेड़ियों के झुंड का एनीमेशन
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> जापानी भाषा में एक जादुई एनीमेशन प्रॉम्प्ट, जिसमें एक रहस्यमयी जंगल में चमकते पन्ना भेड़ियों के झुंड को दहाड़ते हुए और गति पकड़ते हुए दर्शाया गया है।
-
-#### 📝 Prompt
-
-```
-पन्ना भेड़िया, चांदी की किनारी, असली रत्न जैसी चमक, एज एन्हांसमेंट, जानवरों जैसी जीवन शक्ति वाला रहस्यमयी प्राणी, अंदर हल्की चमक, जंगली और खूंखार रूप, रात में गहरा और समृद्ध रहस्यमयी जंगल, तेज और दुखद दहाड़, सरपट दौड़ना, धीरे-धीरे और अधिक पन्ना भेड़िये, संख्या में थोड़ी-थोड़ी वृद्धि, गति में धीरे-धीरे वृद्धि, जैसे-जैसे और साथी जुड़ते हैं हरी चमक और तेज होती जाती है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088786652156350464/img/Q_pnjqYPQy70d9F8.jpg" width="600" alt="चमकते पन्ना भेड़ियों के झुंड का एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9254)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088786721601405439) | **Published:** Aug 16, 2026
-
----
-### सिनेमैटिक एमराल्ड वुल्फ जेमस्टोन
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> पन्ने (emeralds) और चांदी से बने भेड़ियों की एक विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें यथार्थवादी लाइटिंग इफेक्ट्स का उपयोग किया गया है।
-
-#### 📝 Prompt
-
-```
-चांदी की किनारी वाला पन्ने (emerald) से बना जानवर, भेड़िया, असली रत्न जैसी चमक, किनारों पर जोर, जितना संभव हो उतना जीवंत, ऐसा दिखना जैसे वह अभी हिलने वाला हो, भोजन कच्चे पन्ने के पत्थर हैं, कुतरना, पत्थरों का बाहर निकलना, पन्ने के भेड़िये के बच्चे का कुतरना, माता-पिता भेड़िये की स्नेह भरी दृष्टि, आंखें किसी तरह सौम्य हैं, पन्ने के भेड़िये के बच्चे का मुंह बड़ा और कुछ हद तक दिल को छू लेने वाला एक जंगली दृश्य, अंत में सोते हुए फेड-आउट, भेड़ियों के रोने की आवाज सुनाई दे सकती है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088781950664531968/img/M8nwe9D-j4-a8Mzd.jpg" width="600" alt="सिनेमैटिक एमराल्ड वुल्फ जेमस्टोन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9257)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2088781987217834046) | **Published:** Aug 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2182,6 +2182,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T05:04:17.396Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T09:11:09.717Z</sub>
 
 </div>
