@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2598** |
+| 📝 Total Prompts | **2613** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-27** |
 
@@ -189,6 +189,255 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Hoạt ảnh thuộc địa hóa Căn cứ Mặt trăng của SpaceX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt mang tính tương lai về sứ mệnh thuộc địa hóa của SpaceX tại một căn cứ trên Mặt trăng.
+
+#### 📝 Prompt
+
+```
+Đội ngũ SpaceX thực hiện thuộc địa hóa Căn cứ Mặt trăng MrFIXitX với các tải trọng được thiết kế bởi các trình mô phỏng đào tạo người đăng ký sau đó triển khai
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092905690440335361/img/n_JS-saIe54EGm5o.jpg" width="600" alt="Hoạt ảnh thuộc địa hóa Căn cứ Mặt trăng của SpaceX">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9931)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
+
+---
+### Hoạt ảnh bong bóng cắn mặt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video siêu thực, trong đó một nhân vật cắn vào mặt nhân vật khác và tạo ra một quả bong bóng kẹo cao su.
+
+#### 📝 Prompt
+
+```
+Hãy tạo cảnh nhân vật bên trái cắn vào mặt nhân vật bên phải và thổi ra một quả bong bóng kẹo cao su lớn từ người đó
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="Hoạt ảnh bong bóng cắn mặt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9929)**
+
+**Author:** [#vandehigh](https://x.com/vandehigh) | **Source:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **Published:** Aug 27, 2026
+
+---
+### Sinh vật hai chân trên đỉnh núi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một đoạn gợi ý video giả tưởng đen tối chi tiết mô tả một sinh vật bằng thịt màu trắng trên đỉnh núi đầy sương mù với chuyển động hữu cơ.
+
+#### 📝 Prompt
+
+```
+Sinh vật bằng thịt màu trắng, hai chân hoàn thiện đứng trên đỉnh núi, từ từ quay đầu nhìn ra những ngọn núi mờ sương, các mô hữu cơ dịch chuyển và nhỏ giọt, cùng chuyển động của gió và sương mù đầy không khí.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="Sinh vật hai chân trên đỉnh núi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9923)**
+
+**Author:** [BecauseGIU*](https://x.com/BecausGIU) | **Source:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **Published:** Aug 27, 2026
+
+---
+### Hộp đồ chơi động vật rơi từ trên trời
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt mô tả cảnh một chiếc hộp rơi từ trên trời xuống và giải phóng nhiều loại đồ chơi hình động vật và phương tiện giao thông.
+
+#### 📝 Prompt
+
+```
+Chiếc hộp rơi từ trên trời xuống và vỡ tung trên bãi cỏ, từ trong hộp bật ra năm món đồ chơi động vật biển ngẫu nhiên, năm món đồ chơi động vật hoang dã ngẫu nhiên, năm món đồ chơi động vật nông trại ngẫu nhiên, hai chiếc máy kéo đồ chơi, năm chiếc xe hơi cổ điển đồ chơi và năm chiếc vòng treo trang trí ngẫu nhiên dạng móc cài
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="Hộp đồ chơi động vật rơi từ trên trời">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
+
+---
+### Mèo trình diễn thời trang trên sàn catwalk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một đoạn prompt video điện ảnh chi tiết mô tả một chú mèo mặc áo khoác nhung đang sải bước trên sàn diễn thời trang như một quý ông bên cạnh một người mẫu.
+
+#### 📝 Prompt
+
+```
+Máy quay bắt đầu với góc rộng trên sàn diễn. Chú mèo trong chiếc áo khoác nhung bước về phía trước bằng hai chân sau, một chân nắm lấy tay người mẫu, chân kia đặt nhẹ lên hông. Đầu chú ngẩng cao, cằm hướng lên, đuôi đung đưa theo từng bước đi. Người mẫu lướt đi bên cạnh, cằm cũng ngẩng cao, tà váy thướt tha. Khi họ đến cuối sàn diễn, chú mèo quay đầu, chớp mắt chậm rãi và đầy chủ ý về phía khán giả, rồi nhìn lại người mẫu với một nụ cười nhỏ đầy tự mãn. Chú điều chỉnh cái nắm tay của mình như một quý ông thực thụ, sau đó họ cùng nhau quay người và bắt đầu bước trở lại, tiếng đôi ủng nhỏ của chú vang lên lách cách trên sàn diễn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="Mèo trình diễn thời trang trên sàn catwalk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9926)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **Published:** Aug 26, 2026
+
+---
+### Giấc mơ đua ngựa tại Saratoga
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo một video mô tả một cuộc đua ngựa cụ thể tại trường đua Saratoga, tập trung vào con ngựa số năm trong cuộc đua số một.
+
+#### 📝 Prompt
+
+```
+Giấc mơ của Lori diễn ra vào ngày 27 tháng 8 tại trường đua Saratoga nổi tiếng, cuộc đua số một, con ngựa số năm, hãy hiển thị số năm trên con ngựa
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="Giấc mơ đua ngựa tại Saratoga">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9921)**
+
+**Author:** [Ron Lundenberg](https://x.com/rlunden) | **Source:** [Link](https://x.com/rlunden/status/2092720610602364995) | **Published:** Aug 26, 2026
+
+---
+### Phân cảnh hài hước về một anh chàng mọt sách người Đức
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video sáng tạo đưa nhân vật vào một phân cảnh trong phim "Revenge of the Nerds" với yếu tố rào cản ngôn ngữ gây cười.
+
+#### 📝 Prompt
+
+```
+Hãy đưa anh chàng này vào một phân cảnh trong phim "Revenge of the Nerds". Nhưng anh ta lại nói giọng Đức rất đặc và không ai có thể hiểu được anh ta đang nói gì. Mọi người chỉ nhìn anh ta với vẻ mặt đầy bối rối.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="Phân cảnh hài hước về một anh chàng mọt sách người Đức">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9925)**
+
+**Author:** [Ken Simpson](https://x.com/ttul) | **Source:** [Link](https://x.com/ttul/status/2092708814281978175) | **Published:** Aug 26, 2026
+
+---
+### Phố phường với khả năng giao tiếp thần giao cách cảm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt hình ảnh hóa suy nghĩ dưới dạng các bong bóng văn bản phía trên đầu mọi người trên một con phố đông đúc.
+
+#### 📝 Prompt
+
+```
+Giao tiếp thần giao cách cảm được thể hiện trên đường phố dưới dạng các bong bóng chứa văn bản phía trên đầu mọi người, đồng thời mô tả cảm giác khi ai đó truy cập trái phép vào não bộ của bạn để đánh cắp tài sản trí tuệ, bao gồm cả những ý tưởng mà bạn đang có
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="Phố phường với khả năng giao tiếp thần giao cách cảm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9933)**
+
+**Author:** [Austin Gibson](https://x.com/5pazzisAlive) | **Source:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **Published:** Aug 26, 2026
+
+---
+### Video điện ảnh về bão bụi trên sao Hỏa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) mô tả chi tiết bầu không khí với góc máy quay trôi chậm trên bề mặt sao Hỏa cùng gió và bụi cuốn.
+
+#### 📝 Prompt
+
+```
+Góc máy quay điện ảnh trôi chậm trên khung cảnh sao Hỏa bao la, gió nhẹ thổi bay lớp bụi và cát đỏ mịn trên các cồn cát và địa hình đá, lớp sương mù khí quyển thay đổi tinh tế, những đám mây bụi từ xa chậm rãi cuộn xoáy dưới bầu trời màu cam mờ ảo, chân thực như ảnh chụp
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="Video điện ảnh về bão bụi trên sao Hỏa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9924)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **Published:** Aug 26, 2026
+
+---
+### Thám tử phong cách Miami Vice với máy in 3D
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt kết hợp phong cách Miami Vice thập niên 1970 với công nghệ in bê tông 3D tương lai tại công trường xây dựng.
+
+#### 📝 Prompt
+
+```
+Thám tử cảnh sát phong cách Miami Vice thập niên 1970 đang đi bộ trên công trường xây dựng với các máy in bê tông 3D
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="Thám tử phong cách Miami Vice với máy in 3D">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9920)**
+
+**Author:** [LeBron Daniel](https://x.com/lebron3d) | **Source:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **Published:** Aug 26, 2026
+
+---
+### Hoạt ảnh mưa sao băng sống động
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) tạo hoạt ảnh chi tiết để tạo ra mưa sao băng với các vệt sáng rực rỡ và những ngôi sao lấp lánh.
+
+#### 📝 Prompt
+
+```
+Hoạt ảnh mưa sao băng sống động: những ngôi sao băng và sao chổi rực rỡ liên tục vạch ngang bầu trời đêm theo nhiều hướng khác nhau, để lại những vệt sáng màu xanh lục và xanh lam, các ngôi sao băng mới liên tục xuất hiện và rơi xuống, những ngôi sao lấp lánh nhẹ nhàng, camera di chuyển chậm hướng lên trên, ci...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="Hoạt ảnh mưa sao băng sống động">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9927)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **Published:** Aug 26, 2026
+
+---
+### Chú vịt nhỏ họa sĩ theo phong cách ấn tượng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video theo phong cách ấn tượng đầy thanh bình, mô tả một chú vịt nhỏ mặc áo choàng họa sĩ đang vẽ khu vườn ngập nắng, được thiết kế để tạo ra chuyển động mượt mà và kết cấu mềm mại.
+
+#### 📝 Prompt
+
+```
+Hình ảnh tĩnh và câu lệnh cho video của tôi di chuyển nhẹ sang trái khi một chú chim nhỏ bay trên đỉnh giá vẽ.
+
+Một khu vườn theo phong cách ấn tượng ngập tràn ánh nắng, vừa chân thực vừa mang nét vẽ sơn dầu ướt: ánh sáng vàng kem dày đặc, những mảng xanh như thể có thể quệt được, chính mặt trời là một vệt màu ướt sáng rực chưa khô. Một chú vịt nhỏ mặc chiếc áo choàng họa sĩ cuối thế kỷ 19 và đội chiếc mũ rơm quá khổ, đứng bên giá vẽ thu nhỏ trên bãi cỏ, đang chăm chú vẽ mặt trời đó lên một tấm toan nhỏ. Những bông hoa hướng dương đắp nổi, bề mặt toan trên lối đi, hạt phim thập niên 1990. Một ý tưởng: mặt trời vẫn còn ướt, và bức tranh cũng vậy. Đẹp đẽ và có chút ngộ nghĩnh.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787828425376_09i2gr_HQpScBhWQAAYNxT.jpg" width="600" alt="Chú vịt nhỏ họa sĩ theo phong cách ấn tượng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
+
+**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092580518147617152) | **Published:** Aug 26, 2026
+
+---
+### Thay đổi bối cảnh biệt thự sang trọng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chuyển đổi bối cảnh giúp thay thế nền bãi biển hoặc du thuyền bằng không khí tiệc tùng tại một biệt thự cao cấp đầy chi tiết.
+
+#### 📝 Prompt
+
+```
+Thay đổi bối cảnh từ bãi biển/du thuyền sang biệt thự Playboy sang trọng: biệt thự nhiều tầng thanh lịch với kiến trúc hoành tráng, cây cọ, hồ bơi lấp lánh, đèn tiệc và không khí tiệc tùng đẳng cấp
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="Thay đổi bối cảnh biệt thự sang trọng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9922)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
+
+---
 ### Trình diễn thời trang váy đuôi cá màu đỏ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +457,25 @@ Cô gái này sẽ trình diễn một chiếc váy dự tiệc dài trên sàn 
 **Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
 
 ---
+### Cô gái cắt quả dứa khổng lồ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh, trong đó một người phụ nữ bước vào khung hình và cắt đôi quả dứa khổng lồ để lộ phần ruột vàng óng, mọng nước bên trong.
+
+#### 📝 Prompt
+
+```
+cô gái 23 tuổi quyến rũ bước vào khung hình và cắt đôi quả dứa, bên trong là phần ruột dứa vàng óng, mọng nước
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092450891580252160/img/c0BOWAW0nvo8h3hG.jpg" width="600" alt="Cô gái cắt quả dứa khổng lồ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9919)**
+
+**Author:** [seeksteve](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2092454370650591648) | **Published:** Aug 26, 2026
+
+---
 ### Chú mèo ngủ trên ly Marshmallow Latte
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +493,25 @@ Một chú mèo nhỏ đang nằm ngủ trên một viên kẹo marshmallow kh�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
 
 **Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
+
+---
+### Chân dung thanh thoát với chuyển động nhẹ nhàng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt ghi lại sự tận tâm sâu sắc của nhân vật với làn gió nhẹ và chuyển động của mái tóc, lấy cảm hứng từ Odysseus và Penelope.
+
+#### 📝 Prompt
+
+```
+làn gió nhẹ nhàng nâng mái tóc dài và gấu váy thướt tha của cô ấy, không có chuyển động lớn, Cô ấy quay đầu nhìn thẳng vào Odysseus, khóa ánh nhìn với anh ấy bằng vẻ tinh nghịch nhưng vô cùng trung thành, biểu cảm của cô ấy dịu dàng và đầy cảm xúc, đôi môi hơi hé mở, ánh mắt ấm áp và tập trung với sự nồng nhiệt thầm lặng cùng lòng tận tâm sâu sắc
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092362822286032898/img/VBlJOLcS7ICgtbKs.jpg" width="600" alt="Chân dung thanh thoát với chuyển động nhẹ nhàng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9930)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092362908936057342) | **Published:** Aug 25, 2026
 
 ---
 ### Tiết lộ nguyên mẫu khoa học viễn tưởng Rainbow Universe
@@ -1836,291 +2123,6 @@ Trinia trốn thoát trên một con tàu vũ trụ với chiếc chìa khóa v�
 **Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2089280594186260518) | **Published:** Aug 17, 2026
 
 ---
-### Trận đấu súng cao bồi đầy kịch tính
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt hành động cao mô tả một tay súng trong trận chiến với tia lửa đầu nòng, khói và các vụ nổ.
-
-#### 📝 Prompt
-
-```
-Hành động đấu súng cao bồi đầy kịch tính: tay súng bắn khẩu revolver với tia lửa đầu nòng và độ giật, cơ thể căng cứng và tiến về phía trước đầy quyết liệt, bụi và mảnh vụn bay tung tóe, các vụ nổ bùng lên xung quanh cùng lửa và khói, đường đạn bay vút qua
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089242691355992064/img/1bHdhIT7WqmrCRl6.jpg" width="600" alt="Trận đấu súng cao bồi đầy kịch tính">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9317)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2089242763284062564) | **Published:** Aug 17, 2026
-
----
-### Video vận động viên trượt băng nghệ thuật trên hành tinh lạ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video điện ảnh về vận động viên trượt băng nghệ thuật với mái tóc vàng bạch kim đang thực hiện cú nhảy triple axel trên một hành tinh băng giá dưới bầu trời đầy sao băng.
-
-#### 📝 Prompt
-
-```
-Một cú máy tracking năng động quay cảnh một nữ vận động viên trượt băng nghệ thuật trẻ tuổi trên một hành tinh băng giá. Cô có mái tóc vàng bạch kim búi gọn và mặc bộ trang phục tựa như bầu trời đêm màu chàm thẫm, được trang trí bằng vô số hạt lấp lánh như bụi sao. Cô lướt đi với tốc độ cao trên sân băng rộng lớn dưới bầu trời đầy sao băng. Đôi giày trượt màu bạc của cô phản chiếu ánh sao và lớp băng phát sáng. Khi tốc độ tăng dần, cô thực hiện cú nhảy triple axel đầy uy lực, xoay người duyên dáng giữa không trung. Cô tiếp đất mượt mà trên lớp băng phát sáng và ngay lập tức tăng tốc trở lại, tạo ra những vệt sáng dài trên sân băng khi các thiên thạch và sao băng rơi xuống xung quanh. Độ chi tiết cực cao, ánh sáng điện ảnh, hiệu ứng nhòe chuyển động (motion blur) tốc độ màn trập chậm, chuyển động camera năng động, 4K, tốc độ khung hình cao.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089241004939554816/img/2DDKiOQ2OHa_WOct.jpg" width="600" alt="Video vận động viên trượt băng nghệ thuật trên hành tinh lạ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9323)**
-
-**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2089241259085095024) | **Published:** Aug 17, 2026
-
----
-### Video xoay người khoe trang phục nhân vật
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tập trung vào nhân vật, tạo tư thế đứng, trình diễn trang phục và xoay 360 độ.
-
-#### 📝 Prompt
-
-```
-Pami babyy đứng dậy khoe trang phục OOTD và xoay một vòng cho chúng ta chiêm ngưỡng, đúng là một cô nàng cá tính
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089210935428931584/img/zpzq_iGtimQkkJ6L.jpg" width="600" alt="Video xoay người khoe trang phục nhân vật">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9427)**
-
-**Author:** [dasickestmf2000](https://x.com/dasickestmwbwy) | **Source:** [Link](https://x.com/dasickestmwbwy/status/2089210970602389934) | **Published:** Aug 17, 2026
-
----
-### Tương tác Hoàng hôn Rồng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt chi tiết và đầy cảm xúc mô tả cảnh một con rồng đang hạ thấp đầu xuống bàn tay của một người phụ nữ trên bãi biển lúc hoàng hôn.
-
-#### 📝 Prompt
-
-```
-đầu rồng từ từ hạ thấp về phía bàn tay đang mở của cô ấy, những chiếc vảy lấp lánh dưới ánh sáng dịu nhẹ trong khi gió khẽ lay động mái tóc dài và gấu váy thướt tha của cô, đôi cánh của nó nhẹ nhàng dang rộng và bắt trọn ánh hoàng hôn trong khi những con sóng biển vỗ về tĩnh lặng
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089206770350661632/img/_tbJue-mFW2ri6O9.jpg" width="600" alt="Tương tác Hoàng hôn Rồng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9319)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2089206829905481906) | **Published:** Aug 17, 2026
-
----
-### Mô phỏng sự sụp đổ sao thành lỗ đen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một mô phỏng khoa học chi tiết về quá trình hình thành lỗ đen thông qua sự sụp đổ của các ngôi sao với các hiệu ứng biến dạng trọng trường.
-
-#### 📝 Prompt
-
-```
-Mô phỏng quá trình hình thành lỗ đen, thể hiện quy trình động của sự sụp đổ sao và quá trình hình thành với các hiệu ứng trọng trường, sự xuất hiện của chân trời sự kiện và sự biến dạng không-thời gian xung quanh
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089176062475304960/img/XSQhNbhdBc6cEEha.jpg" width="600" alt="Mô phỏng sự sụp đổ sao thành lỗ đen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9424)**
-
-**Author:** [Criminalize Communisim](https://x.com/CommiesRTr8rs) | **Source:** [Link](https://x.com/CommiesRTr8rs/status/2089176086701638035) | **Published:** Aug 17, 2026
-
----
-### Khoa học về dung nham và nitơ lỏng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một yêu cầu gợi ý về việc mô phỏng khoa học sự tương tác giữa nitơ lỏng và dung nham nóng.
-
-#### 📝 Prompt
-
-```
-Bạn có thể tạo một video về nitơ lỏng bên dưới dung nham nóng và cho thấy điều gì sẽ xảy ra dưới góc độ khoa học không?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089163411523305472/img/BrYPHNshCaSx0uS0.jpg" width="600" alt="Khoa học về dung nham và nitơ lỏng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9422)**
-
-**Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089163426966712443) | **Published:** Aug 17, 2026
-
----
-### Khoa học về Nitơ lỏng và Dung nham
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) trực quan hóa khoa học mô phỏng phản ứng giữa nitơ lỏng và dung nham dưới dạng video.
-
-#### 📝 Prompt
-
-```
-Bạn có thể tạo một video về nitơ lỏng trong dung nham và giải thích hiện tượng xảy ra dưới góc độ khoa học không
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089161865905512449/img/KRdf0ATk0pne8X6l.jpg" width="600" alt="Khoa học về Nitơ lỏng và Dung nham">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9418)**
-
-**Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089161883773190169) | **Published:** Aug 17, 2026
-
----
-### Chuỗi video đầu bếp nấu ăn lành mạnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt minh họa quy trình một đầu bếp tạo ra những đĩa thức ăn lành mạnh, bổ dưỡng từ một bàn đầy rau củ và thực phẩm giàu protein tươi ngon.
-
-#### 📝 Prompt
-
-```
-Hãy tạo một chiếc bàn đầy rau củ, chất béo lành mạnh và protein. Sau đó, hãy để một đầu bếp chế biến những món ăn ngon miệng từ các nguyên liệu đó cho một lối sống lành mạnh, không ung thư.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089107807509307392/img/9huUvi3C3SnhiyjO.jpg" width="600" alt="Chuỗi video đầu bếp nấu ăn lành mạnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9318)**
-
-**Author:** [RexCesar](https://x.com/CesarCRDZO) | **Source:** [Link](https://x.com/CesarCRDZO/status/2089107819928617031) | **Published:** Aug 16, 2026
-
----
-### Video về Cyborg quyến rũ theo phong cách Neuromancer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video điện ảnh với hình ảnh cyborg quyến rũ mang phong cách Neuromancer, kết hợp cùng ánh đèn neon nhấp nháy và dàn dựng giật gân.
-
-#### 📝 Prompt
-
-```
-Glamorous Cyborg Neuromancer, 4k rgb, acescg, jerky staging, flashing neon, in english
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089058933943959552/img/_jy2ylbJWDVyQqW8.jpg" width="600" alt="Video về Cyborg quyến rũ theo phong cách Neuromancer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9324)**
-
-**Author:** [Noreen.Kh](https://x.com/NKh2to) | **Source:** [Link](https://x.com/NKh2to/status/2089059103620399462) | **Published:** Aug 16, 2026
-
----
-### Video Nữ thần Xoáy nước Vũ trụ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh phức tạp bao gồm xoáy nước không gian, các hành tinh tái căn chỉnh và một nữ thần thanh tao.
-
-#### 📝 Prompt
-
-```
-Chọn xoáy nước trong không gian, thêm hình ảnh người phụ nữ. Hiệu ứng thanh tao. Vụ nổ vũ trụ bất ngờ, các hành tinh tái căn chỉnh. Nữ thần xuất hiện, nắm lấy người phụ nữ mặc đồ đen ....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089048801910648832/img/2NYJGKZdeIAeRuq-.jpg" width="600" alt="Video Nữ thần Xoáy nước Vũ trụ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9316)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2089048819044319433) | **Published:** Aug 16, 2026
-
----
-### Hoạt ảnh bánh sô-cô-la xoay tròn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video cho chiếc bánh sô-cô-la xoay tròn, chia thành sáu miếng rồi ghép lại như cũ.
-
-#### 📝 Prompt
-
-```
-Được rồi, bạn có thể làm cho chiếc bánh tuyệt đẹp này xoay tròn, sau đó chia thành sáu miếng rồi ghép lại như cũ được không, và sau đó chúng ta sẽ nói 'sô-cô-la, sức mạnh của Cacao'
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088989322754027520/img/o_ENLd8I77PIPk86.jpg" width="600" alt="Hoạt ảnh bánh sô-cô-la xoay tròn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9321)**
-
-**Author:** [Amandasatiro](https://x.com/Amandasatiro07) | **Source:** [Link](https://x.com/Amandasatiro07/status/2088989343478079969) | **Published:** Aug 16, 2026
-
----
-### Chuyển động đi bộ chân thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video chi tiết cho phân cảnh đi bộ chân thực với vật lý cơ thể tự nhiên và kỹ thuật theo dõi camera trên vỉa hè đô thị.
-
-#### 📝 Prompt
-
-```
-Người đàn ông bước về phía trước một cách tự nhiên về phía camera với dáng đi mượt mà, tự tin, cánh tay vung vẩy thoải mái, đôi chân bước đi liên tục, camera theo dõi nhẹ về phía trước, chuyển động trang phục chân thực, vật lý cơ thể tự nhiên, bối cảnh vỉa hè đô thị đầy nắng...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088977139886391296/img/ARSqffLf07_D17iR.jpg" width="600" alt="Chuyển động đi bộ chân thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9313)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2088977165786173691) | **Published:** Aug 16, 2026
-
----
-### Video chuyển động chụp ảnh selfie tại phòng gym
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video chân thực cho bức ảnh selfie phong cách tại phòng gym với những chuyển động tự nhiên tinh tế.
-
-#### 📝 Prompt
-
-```
-Chàng trai trẻ mặc áo Nike đen tạo dáng một mình trong phòng gym để chụp bức ảnh selfie góc nghiêng đầy phong cách. Anh ấy thực hiện những chuyển động tự nhiên tinh tế, hơi xoay đầu, biểu cảm tự tin, cơ thể dịch chuyển nhẹ nhàng, ánh sáng huỳnh quang mát mẻ, mang đậm phong cách mạng xã hội chân thực.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088965651302080513/img/g14zM-lDzIGlKRRR.jpg" width="600" alt="Video chuyển động chụp ảnh selfie tại phòng gym">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9320)**
-
-**Author:** [GOTC](https://x.com/gotcbaby) | **Source:** [Link](https://x.com/gotcbaby/status/2088965668519678384) | **Published:** Aug 16, 2026
-
----
-### Quạ đá quý Onyx
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video đầy ấn tượng về chú quạ được điêu khắc từ đá quý đang dang rộng đôi cánh với những chi tiết chạm khắc bạc tinh xảo.
-
-#### 📝 Prompt
-
-```
-Một chú quạ hùng vĩ được điêu khắc hoàn toàn từ đá quý onyx đen bóng, đang dang rộng đôi cánh đầy uy lực trong tư thế oai hùng, với những đường nét chạm khắc bạc tinh xảo và họa tiết cầu kỳ trên khắp cơ thể, bộ lông và đôi cánh, các cạnh sắc nét được làm nổi bật cùng những tinh thể...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088939136220897280/img/Pf0wfssd_bVrY95P.jpg" width="600" alt="Quạ đá quý Onyx">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9315)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2088939174762348704) | **Published:** Aug 16, 2026
-
----
-### Dora và Team Umizoomi thực hiện giải cứu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh hành động có sự góp mặt của các nhân vật hoạt hình nổi tiếng trong kịch bản giải cứu chống lại kẻ phản diện.
-
-#### 📝 Prompt
-
-```
-Dora đang kêu cứu và Team Umizoomi sẽ đến giải cứu cô ấy khỏi kẻ phản diện độc ác
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088878314932850688/img/qrMNu7fUj6bNvrDe.jpg" width="600" alt="Dora và Team Umizoomi thực hiện giải cứu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9241)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **Published:** Aug 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2182,6 +2184,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-27T09:05:53.927Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-27T22:28:55.932Z</sub>
 
 </div>

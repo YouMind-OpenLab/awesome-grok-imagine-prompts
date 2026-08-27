@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2598** |
+| 📝 Total Prompts | **2613** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-27** |
 
@@ -189,6 +189,255 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### SpaceX MoonBase Kolonialisierungs-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein futuristischer Video-Prompt für eine SpaceX-Kolonialisierungsmission auf einer MoonBase-Basis.
+
+#### 📝 Prompt
+
+```
+SpaceX-Crew für die MoonBase-Kolonialisierung von MrFIXitX mit Nutzlasten, die von Abonnenten-Simulatoren entworfen wurden, und anschließende Implementierung
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092905690440335361/img/n_JS-saIe54EGm5o.jpg" width="600" alt="SpaceX MoonBase Kolonialisierungs-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9931)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
+
+---
+### Gesichtsbeißende Kaugummi-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein surrealer Video-Prompt, bei dem eine Figur in das Gesicht einer anderen beißt und daraus eine Kaugummi-Blase entstehen lässt.
+
+#### 📝 Prompt
+
+```
+Lasse die rechte Figur in das Gesicht der linken Figur beißen und aus ihm eine große Kaugummi-Blase formen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="Gesichtsbeißende Kaugummi-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9929)**
+
+**Author:** [#vandehigh](https://x.com/vandehigh) | **Source:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **Published:** Aug 27, 2026
+
+---
+### Zweibeiniges Wesen auf dem Berggipfel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Dark-Fantasy-Video-Prompt, der ein weißes fleischartiges Wesen auf einem nebligen Berggipfel mit organischer Bewegung darstellt.
+
+#### 📝 Prompt
+
+```
+Das voll ausgebildete zweibeinige, weißfleischige Wesen steht auf dem Gipfel, dreht langsam den Kopf, um über die nebligen Berge zu blicken, wobei sich organisches Gewebe verschiebt und abtropft, begleitet von atmosphärischen Wind- und Nebelbewegungen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="Zweibeiniges Wesen auf dem Berggipfel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9923)**
+
+**Author:** [BecauseGIU*](https://x.com/BecausGIU) | **Source:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **Published:** Aug 27, 2026
+
+---
+### Sky Falling Animal Toy Box
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, bei dem eine Kiste vom Himmel fällt und verschiedene Spielzeugtiere sowie Fahrzeuge freigibt.
+
+#### 📝 Prompt
+
+```
+Eine Kiste fällt vom Himmel und bricht auf dem Gras auf. Aus der Kiste springen fünf zufällige Meerestiere, fünf zufällige Wildtiere, fünf zufällige Bauernhoftiere, zwei Spielzeugtraktoren, fünf klassische Spielzeugautos und fünf zufällige Anhänger in Klammerform.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="Sky Falling Animal Toy Box">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
+
+---
+### Katzen-Fotomodell auf dem Laufsteg
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter, kinoreifer Video-Prompt, der eine Katze in einem Samtmantel beschreibt, die wie ein Gentleman an der Seite eines menschlichen Models über einen Laufsteg stolziert.
+
+#### 📝 Prompt
+
+```
+Die Kamera beginnt in einer Totalen auf den Laufsteg. Die Katze im Samtmantel läuft auf ihren Hinterbeinen vorwärts; eine Pfote hält die Hand des Models, die andere ruht lässig in der Hüfte. Sie trägt den Kopf hoch, das Kinn erhoben, der Schwanz schwingt bei jedem Schritt mit. Das Model gleitet neben ihr dahin, das Kinn erhoben, das Kleid fließt. Als sie das Ende des Laufstegs erreichen, dreht die Katze den Kopf, wirft dem Publikum ein langsames, bewusstes Blinzeln zu und blickt dann mit einem kleinen, selbstgefälligen Lächeln zum Model auf. Sie korrigiert ihren Griff an ihrer Hand wie ein Gentleman, dann drehen sie sich gemeinsam um und treten den Rückweg an, während ihre kleinen Stiefel auf dem Laufsteg klicken.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="Katzen-Fotomodell auf dem Laufsteg">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9926)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **Published:** Aug 26, 2026
+
+---
+### Traum vom Pferderennen in Saratoga
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt ein Video, das ein spezifisches Pferderennen auf der Rennbahn von Saratoga darstellt, mit Fokus auf Pferd Nummer fünf im ersten Rennen.
+
+#### 📝 Prompt
+
+```
+Loris Traum am 27. August auf der berühmten Rennbahn von Saratoga, erstes Rennen, Pferd Nummer fünf, zeige die Nummer fünf auf dem Pferd
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="Traum vom Pferderennen in Saratoga">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9921)**
+
+**Author:** [Ron Lundenberg](https://x.com/rlunden) | **Source:** [Link](https://x.com/rlunden/status/2092720610602364995) | **Published:** Aug 26, 2026
+
+---
+### Deutsche Nerd-Comedy-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Video-Prompt, der einen Charakter in eine Szene aus „Revenge of the Nerds“ versetzt, ergänzt um eine humorvolle Sprachbarriere.
+
+#### 📝 Prompt
+
+```
+Setze diesen Typen in eine Szene aus „Revenge of the Nerds“. Er hat jedoch einen extrem starken deutschen Akzent und niemand kann ihn verstehen. Alle schauen nur verwirrt drein.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="Deutsche Nerd-Comedy-Szene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9925)**
+
+**Author:** [Ken Simpson](https://x.com/ttul) | **Source:** [Link](https://x.com/ttul/status/2092708814281978175) | **Published:** Aug 26, 2026
+
+---
+### Telepathische Kommunikation auf der Straße
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, der Gedanken als Textblasen über den Köpfen von Menschen auf einer belebten Straße visualisiert.
+
+#### 📝 Prompt
+
+```
+Telepathische Kommunikation auf einer belebten Straße, dargestellt als Textblasen über den Köpfen der Menschen. Zudem wird das Gefühl vermittelt, wenn jemand unbefugt auf das eigene Gehirn zugreift, um geistiges Eigentum zu stehlen, einschließlich der eigenen Ideen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="Telepathische Kommunikation auf der Straße">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9933)**
+
+**Author:** [Austin Gibson](https://x.com/5pazzisAlive) | **Source:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **Published:** Aug 26, 2026
+
+---
+### Filmische Mars-Staubsturm-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter atmosphärischer Prompt, der eine langsame Kamerafahrt über die Marsoberfläche mit Wind und wirbelndem Staub beschreibt.
+
+#### 📝 Prompt
+
+```
+Langsame filmische Kamerafahrt über die weite Marslandschaft, sanfter Wind wirbelt feinen rötlichen Staub und Sand über die Dünen und das felsige Gelände, atmosphärischer Dunst verschiebt sich subtil, ferne Staubwolken wirbeln langsam unter dem diesigen orangefarbenen Himmel, fotorealistisch
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="Filmische Mars-Staubsturm-Szene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9924)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **Published:** Aug 26, 2026
+
+---
+### Miami-Vice-Detektiv mit 3D-Druckern
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, der den Miami-Vice-Stil der 1970er Jahre mit futuristischer 3D-Betondrucktechnologie auf einer Baustelle verbindet.
+
+#### 📝 Prompt
+
+```
+Polizeidetektiv im Miami-Vice-Stil der 1970er Jahre, der auf einer Baustelle mit 3D-Betondruckern läuft
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="Miami-Vice-Detektiv mit 3D-Druckern">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9920)**
+
+**Author:** [LeBron Daniel](https://x.com/lebron3d) | **Source:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **Published:** Aug 26, 2026
+
+---
+### Dynamische Meteorstrom-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Animations-Prompt zur Erstellung eines Meteorstroms mit leuchtenden Schweifen und funkelnden Sternen.
+
+#### 📝 Prompt
+
+```
+Dynamische Meteorstrom-Animation: Helle Meteore und Sternschnuppen ziehen kontinuierlich in verschiedene Richtungen über den Nachthimmel und hinterlassen leuchtend grüne und blaue Schweife, neue Meteore erscheinen und fallen, Sterne funkeln sanft, dezenter Kamera-Schwenk nach oben, ci...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="Dynamische Meteorstrom-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9927)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **Published:** Aug 26, 2026
+
+---
+### Impressionistischer Entenküken-Maler
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein ruhiger, impressionistischer Video-Prompt mit einem Entenküken im Malkittel, das einen sonnendurchfluteten Garten malt – konzipiert für flüssige Bewegungen und weiche Texturen.
+
+#### 📝 Prompt
+
+```
+Das Standbild und der Prompt für das Video bewegen sich leicht nach links, während ein kleiner Vogel oben auf der Staffelei landet.
+
+Ein sonnendurchfluteter, impressionistischer Garten, gleichzeitig fotorealistisch und in nasser Ölfarbe: dickes, cremegoldenes Licht, Grüntöne, die man verstreichen könnte, die Sonne selbst ein heller, nasser Klecks, der noch nicht getrocknet ist. Ein winziges Entenküken in einem Malkittel aus dem späten 19. Jahrhundert und einem viel zu großen Strohhut steht an einer Miniatur-Staffelei im Gras und malt eifrig diese Sonne auf eine kleine Leinwand. Impasto-Sonnenblumen, die Struktur der Leinwand im Pfad, filmische Körnung der 1990er Jahre. Eine Idee: Die Sonne ist noch nass, genau wie das Gemälde. Wunderschön und ein wenig albern.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787828425376_09i2gr_HQpScBhWQAAYNxT.jpg" width="600" alt="Impressionistischer Entenküken-Maler">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
+
+**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092580518147617152) | **Published:** Aug 26, 2026
+
+---
+### Luxuriöses Villen-Setting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Umgestaltung des Hintergrunds, der einen Strand- oder Boots-Hintergrund durch eine detaillierte, exklusive Villen-Party-Atmosphäre ersetzt.
+
+#### 📝 Prompt
+
+```
+Ändere das Setting vom Strand/Boot zur luxuriösen Playboy Mansion: elegante mehrstöckige Villa mit prachtvoller Architektur, Palmen, einem glitzernden Pool, Partybeleuchtung und einer exklusiven Party-Atmosphäre
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="Luxuriöses Villen-Setting">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9922)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
+
+---
 ### Rotes Meerjungfrauen-Abendkleid auf dem Laufsteg
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +457,25 @@ Dieses Model präsentiert ein langes Abendkleid auf einem Laufsteg, trägt eine 
 **Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
 
 ---
+### Mädchen schneidet riesige Ananas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt, bei dem eine Frau die Szene betritt und eine riesige Ananas in zwei Hälften schneidet, um ihr gelbes, saftiges Inneres zu enthüllen.
+
+#### 📝 Prompt
+
+```
+attraktives 23-jähriges Mädchen betritt die Szene und schneidet die Ananas in zwei Hälften, gelbe saftige Ananas im Inneren
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092450891580252160/img/c0BOWAW0nvo8h3hG.jpg" width="600" alt="Mädchen schneidet riesige Ananas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9919)**
+
+**Author:** [seeksteve](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2092454370650591648) | **Published:** Aug 26, 2026
+
+---
 ### Schlafende Katze auf einem Marshmallow-Latte
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +493,25 @@ Eine winzige Katze, die schlafend auf einem riesigen Marshmallow liegt; der Mars
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
 
 **Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
+
+---
+### Ätherisches Porträt mit sanfter Bewegung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, der die tiefe Hingabe einer Figur mit sanftem Wind und Haarbewegungen einfängt, inspiriert von Odysseus und Penelope.
+
+#### 📝 Prompt
+
+```
+Der Wind hebt sanft ihr langes Haar und den Saum ihres fließenden Kleides, keine großen Bewegungen. Sie dreht den Kopf, um Odysseus direkt anzusehen, und fixiert ihn mit einem verspielten, aber zutiefst loyalen Blick. Ihr Ausdruck ist weich und aufgeladen, die Lippen leicht geöffnet, die Augen warm und voller stiller Leidenschaft und tiefer Hingabe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092362822286032898/img/VBlJOLcS7ICgtbKs.jpg" width="600" alt="Ätherisches Porträt mit sanfter Bewegung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9930)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092362908936057342) | **Published:** Aug 25, 2026
 
 ---
 ### Enthüllung des Rainbow Universe Sci-Fi-Prototyps
@@ -1836,291 +2123,6 @@ Trinia flieht mit dem goldenen Schlüssel auf einem Raumschiff; das Raumschiff k
 **Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2089280594186260518) | **Published:** Aug 17, 2026
 
 ---
-### Dynamisches Cowboy-Schussgefecht
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein actiongeladener Video-Prompt, der einen Revolverhelden in einem Gefecht mit Mündungsfeuer, Rauch und Explosionen beschreibt.
-
-#### 📝 Prompt
-
-```
-Dynamische Cowboy-Schussgefecht-Action: Der Revolverheld feuert seinen Revolver mit Mündungsfeuer und Rückstoß ab, der Körper ist angespannt und bewegt sich aggressiv vorwärts, Staub und Trümmer fliegen umher, Explosionen brechen um ihn herum mit Feuer und Rauch aus, Projektilspuren fliegen vorbei
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089242691355992064/img/1bHdhIT7WqmrCRl6.jpg" width="600" alt="Dynamisches Cowboy-Schussgefecht">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9317)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2089242763284062564) | **Published:** Aug 17, 2026
-
----
-### Video einer Eiskunstläuferin auf einem fremden Planeten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt einer Eiskunstläuferin mit platinblondem Haar, die auf einem eisigen fremden Planeten unter einem Himmel voller Sternschnuppen einen dreifachen Axel springt.
-
-#### 📝 Prompt
-
-```
-Eine dynamische Kamerafahrt einer jungen Eiskunstläuferin auf einem eisigen fremden Planeten. Sie trägt ihr platinblondes Haar zu einem strengen Dutt und ein Kostüm, das an einen tiefblauen Nachthimmel erinnert, verziert mit unzähligen winzigen, sternenstaubartigen Glanzpunkten. Sie gleitet mit hoher Geschwindigkeit über eine riesige Eisfläche unter einem Himmel voller Sternschnuppen. Ihre silbernen Schlittschuhe reflektieren die Sterne und das leuchtende Eis. Während sie an Fahrt gewinnt, setzt sie zu einem kraftvollen dreifachen Axel an und dreht sich anmutig in der Luft. Sie landet sanft auf dem leuchtenden Eis und beschleunigt sofort wieder, wobei sie lange, helle Spuren auf der Eisfläche hinterlässt, während um sie herum weitere Meteore und Sternschnuppen niedergehen. Ultra-detailliert, filmische Beleuchtung, Bewegungsunschärfe durch lange Verschlusszeit, dynamische Kamerabewegung, 4K, hohe Bildrate.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089241004939554816/img/2DDKiOQ2OHa_WOct.jpg" width="600" alt="Video einer Eiskunstläuferin auf einem fremden Planeten">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9323)**
-
-**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2089241259085095024) | **Published:** Aug 17, 2026
-
----
-### Character OOTD Spin-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein charakterzentrierter Prompt, der eine stehende Pose, die Präsentation eines Outfits und eine 360-Grad-Drehung generiert.
-
-#### 📝 Prompt
-
-```
-Pami babyy steht auf und zeigt ihr OOTD, während sie sich einmal um die eigene Achse dreht@adin sold that baddie
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089210935428931584/img/zpzq_iGtimQkkJ6L.jpg" width="600" alt="Character OOTD Spin-Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9427)**
-
-**Author:** [dasickestmf2000](https://x.com/dasickestmwbwy) | **Source:** [Link](https://x.com/dasickestmwbwy/status/2089210970602389934) | **Published:** Aug 17, 2026
-
----
-### Drachen-Sonnenuntergang-Interaktion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter und atmosphärischer Video-Prompt, der zeigt, wie ein Drache bei Sonnenuntergang an einem Strand seinen Kopf zur Hand einer Frau senkt.
-
-#### 📝 Prompt
-
-```
-Der Kopf des Drachen senkt sich langsam in Richtung ihrer offenen Hand, während seine Schuppen in weichem Licht schimmern und der Wind sanft ihr langes Haar sowie den Saum ihres fließenden Kleides bewegt. Seine Flügel entfalten sich behutsam und fangen den Glanz des Sonnenuntergangs ein, während die Meereswellen leise an den Strand rollen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089206770350661632/img/_tbJue-mFW2ri6O9.jpg" width="600" alt="Drachen-Sonnenuntergang-Interaktion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9319)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2089206829905481906) | **Published:** Aug 17, 2026
-
----
-### Visualisierung des stellaren Kollapses zu einem Schwarzen Loch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine hochdetaillierte wissenschaftliche Visualisierung der Entstehung eines Schwarzen Lochs durch stellaren Kollaps mit gravitativen Verzerrungseffekten.
-
-#### 📝 Prompt
-
-```
-Eine Visualisierung der Entstehung eines Schwarzen Lochs, die den dynamischen Prozess des stellaren Kollapses und der Formung mit Gravitationseffekten, dem Erscheinungsbild des Ereignishorizonts und der umgebenden Raumzeitkrümmung zeigt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089176062475304960/img/XSQhNbhdBc6cEEha.jpg" width="600" alt="Visualisierung des stellaren Kollapses zu einem Schwarzen Loch">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9424)**
-
-**Author:** [Criminalize Communisim](https://x.com/CommiesRTr8rs) | **Source:** [Link](https://x.com/CommiesRTr8rs/status/2089176086701638035) | **Published:** Aug 17, 2026
-
----
-### Lava vs. Flüssigstickstoff: Eine wissenschaftliche Betrachtung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für eine wissenschaftliche Visualisierung der Interaktion zwischen Flüssigstickstoff und heißer Lava.
-
-#### 📝 Prompt
-
-```
-Kannst du ein Video erstellen, das zeigt, was wissenschaftlich passiert, wenn Flüssigstickstoff unter heiße Lava gelangt?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089163411523305472/img/BrYPHNshCaSx0uS0.jpg" width="600" alt="Lava vs. Flüssigstickstoff: Eine wissenschaftliche Betrachtung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9422)**
-
-**Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089163426966712443) | **Published:** Aug 17, 2026
-
----
-### Flüssigstickstoff vs. Lava: Eine wissenschaftliche Betrachtung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für eine wissenschaftliche Visualisierung, der die Reaktion zwischen Flüssigstickstoff und Lava in einem Videoformat darstellt.
-
-#### 📝 Prompt
-
-```
-Kannst du ein Video erstellen, das zeigt, was wissenschaftlich passiert, wenn Flüssigstickstoff auf Lava trifft?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089161865905512449/img/KRdf0ATk0pne8X6l.jpg" width="600" alt="Flüssigstickstoff vs. Lava: Eine wissenschaftliche Betrachtung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9418)**
-
-**Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089161883773190169) | **Published:** Aug 17, 2026
-
----
-### Sequenz: Koch bereitet gesunde Gerichte zu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, der zeigt, wie ein Koch aus einer Auswahl an frischem Gemüse und Proteinen gesunde, nahrhafte Gerichte zubereitet.
-
-#### 📝 Prompt
-
-```
-Erstelle einen Tisch voller Gemüse, gesunder Fette und Proteine. Zeige dann einen Koch, der daraus köstliche Gerichte für ein gesundes, krebsfreies Leben zubereitet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089107807509307392/img/9huUvi3C3SnhiyjO.jpg" width="600" alt="Sequenz: Koch bereitet gesunde Gerichte zu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9318)**
-
-**Author:** [RexCesar](https://x.com/CesarCRDZO) | **Source:** [Link](https://x.com/CesarCRDZO/status/2089107819928617031) | **Published:** Aug 16, 2026
-
----
-### Glamouröses Cyborg-Neuromancer-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt mit einem glamourösen Cyborg in einer Neuromancer-Ästhetik, mit blinkenden Neonlichtern und abgehackter Inszenierung.
-
-#### 📝 Prompt
-
-```
-Glamouröser Cyborg-Neuromancer, 4k rgb, acescg, abgehackte Inszenierung, blinkendes Neon, auf Englisch
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089058933943959552/img/_jy2ylbJWDVyQqW8.jpg" width="600" alt="Glamouröses Cyborg-Neuromancer-Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9324)**
-
-**Author:** [Noreen.Kh](https://x.com/NKh2to) | **Source:** [Link](https://x.com/NKh2to/status/2089059103620399462) | **Published:** Aug 16, 2026
-
----
-### Video einer kosmischen Wirbel-Göttin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer filmischer Prompt mit einem Weltraumwirbel, sich neu ausrichtenden Planeten und einer ätherischen Göttin.
-
-#### 📝 Prompt
-
-```
-Wähle einen Wirbel im Weltraum, füge das Bild der Frau hinzu. Ätherische Effekte. Plötzliche kosmische Explosion, Planeten richten sich neu aus. Eine Göttin erscheint und greift nach der Frau in Schwarz...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089048801910648832/img/2NYJGKZdeIAeRuq-.jpg" width="600" alt="Video einer kosmischen Wirbel-Göttin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9316)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2089048819044319433) | **Published:** Aug 16, 2026
-
----
-### Animation eines rotierenden Schokoladenkuchens
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für einen rotierenden Schokoladenkuchen, der sich in sechs Stücke teilt und wieder zusammensetzt.
-
-#### 📝 Prompt
-
-```
-Okay, könnten wir diesen wunderschönen Kuchen rotieren lassen, ihn dann in etwa sechs Stücke teilen und wieder zusammensetzen lassen, und dann sagen wir Schokolade, das Kraftpaket Kakao
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088989322754027520/img/o_ENLd8I77PIPk86.jpg" width="600" alt="Animation eines rotierenden Schokoladenkuchens">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9321)**
-
-**Author:** [Amandasatiro](https://x.com/Amandasatiro07) | **Source:** [Link](https://x.com/Amandasatiro07/status/2088989343478079969) | **Published:** Aug 16, 2026
-
----
-### Realistische Gehbewegung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt für eine realistische Gehsequenz mit natürlicher Körperphysik und Kameraverfolgung auf einem städtischen Gehweg.
-
-#### 📝 Prompt
-
-```
-Der Mann geht natürlich auf die Kamera zu, mit einem selbstbewussten, flüssigen Gang, frei schwingenden Armen, kontinuierlichen Schritten, leichter Kameraverfolgung nach vorne, realistischer Kleiderbewegung, natürlicher Körperphysik, sonnige städtische Gehweg-Umgebung...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088977139886391296/img/ARSqffLf07_D17iR.jpg" width="600" alt="Realistische Gehbewegung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9313)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2088977165786173691) | **Published:** Aug 16, 2026
-
----
-### Gym-Selfie-Motion-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein fotorealistischer Video-Generierungs-Prompt für ein stylisches Gym-Selfie mit subtilen, natürlichen Bewegungen.
-
-#### 📝 Prompt
-
-```
-Der junge Mann im schwarzen Nike-Shirt posiert allein im Fitnessstudio für ein stylisches Selfie aus der Seitenansicht. Er macht subtile, natürliche Bewegungen, leichte Kopfdrehungen, selbstbewusster Ausdruck, sanfte Körperverlagerungen, kühle Neonbeleuchtung, fotorealistischer Social-Media-Vibe.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088965651302080513/img/g14zM-lDzIGlKRRR.jpg" width="600" alt="Gym-Selfie-Motion-Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9320)**
-
-**Author:** [GOTC](https://x.com/gotcbaby) | **Source:** [Link](https://x.com/gotcbaby/status/2088965668519678384) | **Published:** Aug 16, 2026
-
----
-### Krähe aus Onyx-Edelstein
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein majestätischer Video-Prompt für eine aus Edelstein geformte Krähe, die ihre mit filigranem Silber verzierten Flügel ausbreitet.
-
-#### 📝 Prompt
-
-```
-Eine majestätische Krähe, vollständig aus poliertem schwarzem Onyx-Edelstein geformt, die ihre Flügel kraftvoll in einer heldenhaften Pose ausbreitet; filigrane Silberfiligranarbeiten und kunstvolle Muster sind in ihren Körper, ihre Federn und Flügel eingraviert, scharfe, betonte Kanten mit kristall...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088939136220897280/img/Pf0wfssd_bVrY95P.jpg" width="600" alt="Krähe aus Onyx-Edelstein">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9315)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2088939174762348704) | **Published:** Aug 16, 2026
-
----
-### Dora und Team Umizoomi auf Rettungsmission
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein aktionsgeladener Prompt mit beliebten Zeichentrickfiguren in einem Rettungsszenario gegen einen Bösewicht.
-
-#### 📝 Prompt
-
-```
-Dora ruft um Hilfe und das Team Umizoomi macht sich auf den Weg, um sie vor dem bösen Schurken zu retten
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088878314932850688/img/qrMNu7fUj6bNvrDe.jpg" width="600" alt="Dora und Team Umizoomi auf Rettungsmission">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9241)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **Published:** Aug 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2182,6 +2184,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-27T09:06:01.743Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-27T22:29:00.700Z</sub>
 
 </div>

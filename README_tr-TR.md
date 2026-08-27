@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2598** |
+| 📝 Total Prompts | **2613** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-27** |
 
@@ -189,6 +189,255 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### SpaceX MoonBase Kolonizasyon Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir MoonBase tesisinde SpaceX kolonizasyon görevi için fütüristik bir video istemi.
+
+#### 📝 Prompt
+
+```
+SpaceX ekip üyelerinin, aboneler tarafından tasarlanan yüklerle MrFIXitX MoonBase tesisindeki kolonizasyon görevine yönelik simülatör eğitimleri ve ardından uygulama süreci
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092905690440335361/img/n_JS-saIe54EGm5o.jpg" width="600" alt="SpaceX MoonBase Kolonizasyon Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9931)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
+
+---
+### Yüz Isırma Balon Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir figürün diğerinin yüzünü ısırdığı ve bir ciklet balonu oluşturduğu sürreal bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sol taraftaki figürün başının sağ taraftaki yüze ısırma hareketi yapmasını sağlayın ve ondan büyük bir ciklet balonu oluşturun
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="Yüz Isırma Balon Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9929)**
+
+**Author:** [#vandehigh](https://x.com/vandehigh) | **Source:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **Published:** Aug 27, 2026
+
+---
+### İki Ayaklı Varlık Dağ Zirvesinde
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sisli bir dağ zirvesinde, organik hareketlere sahip beyaz etten bir varlığı betimleyen detaylı bir karanlık fantezi video istemi.
+
+#### 📝 Prompt
+
+```
+Tam olarak şekillenmiş iki ayaklı beyaz etten varlık zirvede duruyor, yavaşça başını çevirip sisli dağlara bakıyor; organik doku hareket ediyor ve damlıyor, atmosferik rüzgar ve sis hareketi mevcut.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="İki Ayaklı Varlık Dağ Zirvesinde">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9923)**
+
+**Author:** [BecauseGIU*](https://x.com/BecausGIU) | **Source:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **Published:** Aug 27, 2026
+
+---
+### Gökyüzünden Düşen Hayvan Oyuncak Kutusu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gökyüzünden düşen bir kutunun açılıp içinden çeşitli oyuncak hayvanların ve araçların çıktığı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Gökyüzünden düşen kutu çimlerin üzerinde kırılarak açılıyor; kutunun içinden beş rastgele deniz hayvanı oyuncağı, beş rastgele vahşi hayvan oyuncağı, beş rastgele çiftlik hayvanı oyuncağı, iki oyuncak traktör, beş klasik oyuncak araba ve beş rastgele parantez tipi tılsım çıkıyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="Gökyüzünden Düşen Hayvan Oyuncak Kutusu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
+
+---
+### Kedi Moda Modeli Podyum Yürüyüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kadife ceketli bir kedinin, bir insan modelin yanında bir beyefendi gibi moda podyumunda yürümesini betimleyen detaylı ve sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kamera podyumu geniş bir açıyla göstererek başlar. Kadife ceketli kedi arka ayakları üzerinde ileri doğru yürür; bir patisiyle modelin elini tutarken diğeri hafifçe kalçasının üzerindedir. Başı dik, çenesi yukarıda ve kuyruğu her adımda sallanmaktadır. Model, çenesi havada ve elbisesi süzülerek onun yanında ilerler. Podyumun sonuna geldiklerinde kedi başını çevirir, kalabalığa doğru yavaş ve kararlı bir şekilde göz kırpar, ardından küçük, kendinden emin bir gülümsemeyle tekrar modele bakar. Bir beyefendi edasıyla modelin elini tutuşunu düzeltir, sonra birlikte dönerler ve küçük botlarının podyumdaki tıkırtıları eşliğinde geri yürümeye başlarlar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="Kedi Moda Modeli Podyum Yürüyüşü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9926)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **Published:** Aug 26, 2026
+
+---
+### Saratoga At Yarışı Rüyası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Saratoga hipodromundaki belirli bir at yarışını tasvir eden, birinci yarışta beş numaralı ata odaklanan bir video oluşturur.
+
+#### 📝 Prompt
+
+```
+Lori'nin 27 Ağustos'ta ünlü Saratoga hipodromunda gerçekleşen birinci yarışta beş numaralı atla ilgili rüyası; atın üzerindeki beş numarasını göster
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="Saratoga At Yarışı Rüyası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9921)**
+
+**Author:** [Ron Lundenberg](https://x.com/rlunden) | **Source:** [Link](https://x.com/rlunden/status/2092720610602364995) | **Published:** Aug 26, 2026
+
+---
+### Alman İnek Öğrenci Komedi Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Revenge of the Nerds filminden bir sahneye, mizahi bir dil engeli unsuruyla bir karakter yerleştiren yaratıcı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Bu adamı “Revenge of the Nerds” filmindeki bir sahneye yerleştir. Ancak adamın çok kalın bir Alman aksanı olsun ve kimse onu anlamasın. Herkes sadece şaşkın bir şekilde ona baksın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="Alman İnek Öğrenci Komedi Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9925)**
+
+**Author:** [Ken Simpson](https://x.com/ttul) | **Source:** [Link](https://x.com/ttul/status/2092708814281978175) | **Published:** Aug 26, 2026
+
+---
+### Telepatik İletişim Şehir Sokağı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İşlek bir şehir sokağındaki insanların üzerinde düşünceleri metin balonları olarak görselleştiren bir video istemi.
+
+#### 📝 Prompt
+
+```
+Şehir sokaklarında insanların başlarının üzerinde metin içeren balonlar olarak görünen telepatik iletişim; ayrıca birinin fikri mülkiyetlerinizi ve sahip olduğunuz fikirleri çalmak için beyninize yasa dışı yollarla eriştiğinde hissettirdiklerini konu alan bir görselleştirme.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="Telepatik İletişim Şehir Sokağı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9933)**
+
+**Author:** [Austin Gibson](https://x.com/5pazzisAlive) | **Source:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **Published:** Aug 26, 2026
+
+---
+### Mars Toz Fırtınası Sinematik
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mars yüzeyinde yavaş bir kamera hareketi, rüzgar ve savrulan tozları betimleyen detaylı bir atmosferik komut.
+
+#### 📝 Prompt
+
+```
+Geniş Mars manzarası üzerinde yavaş sinematik kamera hareketi, kum tepeleri ve kayalık arazi üzerinde ince kırmızımsı tozu ve kumu hareketlendiren hafif rüzgar, hafifçe değişen atmosferik pus, puslu turuncu gökyüzü altında yavaşça dönen uzak toz bulutları, fotogerçekçi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="Mars Toz Fırtınası Sinematik">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9924)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **Published:** Aug 26, 2026
+
+---
+### 3D Yazıcılı Miami Vice Dedektifi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1970'lerin Miami Vice tarzını, bir şantiyedeki fütüristik 3D beton baskı teknolojisiyle harmanlayan bir video istemi.
+
+#### 📝 Prompt
+
+```
+3D beton yazıcıları olan bir şantiyede yürüyen 1970'ler polis dedektifi Miami Vice tarzı
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="3D Yazıcılı Miami Vice Dedektifi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9920)**
+
+**Author:** [LeBron Daniel](https://x.com/lebron3d) | **Source:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **Published:** Aug 26, 2026
+
+---
+### Dinamik Meteor Yağmuru Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Parlayan izler ve parıldayan yıldızlarla bir meteor yağmuru oluşturmak için detaylı bir animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Dinamik meteor yağmuru animasyonu: parlak meteorlar ve kayan yıldızlar, gece gökyüzünde sürekli olarak çeşitli yönlerde ilerleyerek parlayan yeşil ve mavi izler bırakıyor, yeni meteorlar belirip düşüyor, yıldızlar hafifçe parıldıyor, hafif bir kamera yukarı doğru kayması, ci...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="Dinamik Meteor Yağmuru Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9927)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **Published:** Aug 26, 2026
+
+---
+### Empresyonist Bahçe Ördek Yavrusu Ressamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ressam önlüğü giymiş bir ördek yavrusunun güneşli bir bahçeyi resmettiği, akıcı hareketler ve yumuşak dokular için tasarlanmış huzurlu bir empresyonist video istemi.
+
+#### 📝 Prompt
+
+```
+Video için hazırladığım görsel ve istemde, küçük bir kuş şövalenin üzerine konarken kamera hafifçe sola doğru hareket ediyor.
+
+Güneşli bir empresyonist bahçe; hem fotogerçekçi hem de ıslak yağlı boya etkisinde: yoğun krem-altın rengi bir ışık, sürülebilir kıvamda yeşiller ve güneşin kendisi, henüz kurumamış parlak ve ıslak bir boya lekesi gibi. 1800'lerin sonundan kalma bir ressam önlüğü ve kendisine büyük gelen hasır şapkasıyla, çimlerin üzerindeki minyatür bir şövalede duran ve o güneşi küçük bir tuvale ciddiyetle resmeden minik bir ördek yavrusu. Impasto ayçiçekleri, yoldaki tuval dokusu, 1990'ların film greni. Bir fikir: güneş hala ıslak, resim de öyle. Güzel ve biraz da eğlenceli.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787828425376_09i2gr_HQpScBhWQAAYNxT.jpg" width="600" alt="Empresyonist Bahçe Ördek Yavrusu Ressamı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
+
+**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092580518147617152) | **Published:** Aug 26, 2026
+
+---
+### Lüks Köşk Mekan Değişimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Plaj veya tekne arka planını detaylı, üst düzey bir köşk partisi atmosferiyle değiştiren bir mekan dönüştürme istemi.
+
+#### 📝 Prompt
+
+```
+Mekanı plaj/tekne ortamından lüks Playboy Mansion'a dönüştür: görkemli mimariye sahip şık, çok katlı köşk, palmiye ağaçları, ışıl ışıl bir havuz, parti ışıkları ve üst düzey bir parti atmosferi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="Lüks Köşk Mekan Değişimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9922)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
+
+---
 ### Kırmızı Deniz Kızı Kesim Abiye Moda Podyumu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +457,25 @@ Bu genç kadın, podyumda uzun bir parti elbisesi sergileyecek; saçları gevşe
 **Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
 
 ---
+### Dev Ananası Kesen Kız
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadının sahneye girip dev bir ananası ikiye bölerek içindeki sarı ve sulu kısmı ortaya çıkardığı sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+sahneye giren çekici 23 yaşındaki kız ananası ikiye bölüyor, ananasın içi sarı ve sulu
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092450891580252160/img/c0BOWAW0nvo8h3hG.jpg" width="600" alt="Dev Ananası Kesen Kız">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9919)**
+
+**Author:** [seeksteve](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2092454370650591648) | **Published:** Aug 26, 2026
+
+---
 ### Marshmallow Latte Üzerinde Uyuyan Kedi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +493,25 @@ Dev bir marshmallow'un üzerinde uyuyan minik bir kedi; marshmallow, latte sanat
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
 
 **Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
+
+---
+### Hafif Hareketli Ethereal Portre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Odysseus ve Penelope'den ilham alan, yumuşak rüzgar ve saç hareketiyle bir karakterin derin bağlılığını yansıtan bir video istemi.
+
+#### 📝 Prompt
+
+```
+rüzgar uzun saçlarını ve uçuşan elbisesinin eteklerini nazikçe kaldırıyor, büyük hareketler yok, başını doğrudan Odysseus'a bakacak şekilde çeviriyor, oyuncu ama bir o kadar da sadık bir bakışla gözlerini onunkilere kilitliyor, ifadesi yumuşak ve yoğun, dudakları hafifçe aralık, gözleri sessiz bir tutku ve derin bir bağlılıkla sıcak ve kararlı
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092362822286032898/img/VBlJOLcS7ICgtbKs.jpg" width="600" alt="Hafif Hareketli Ethereal Portre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9930)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092362908936057342) | **Published:** Aug 25, 2026
 
 ---
 ### Rainbow Universe Bilim Kurgu Prototipi Tanıtımı
@@ -1836,291 +2123,6 @@ Trinia'nın altın anahtarla bir uzay gemisinde kaçışı; kaçabilmesi için u
 **Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2089280594186260518) | **Published:** Aug 17, 2026
 
 ---
-### Dinamik Kovboy Silahlı Çatışması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Namlu ağzı alevleri, duman ve patlamalarla dolu bir çatışmanın ortasındaki silahşoru betimleyen yüksek aksiyonlu bir video istemi.
-
-#### 📝 Prompt
-
-```
-Dinamik kovboy silahlı çatışma aksiyonu: silahşor, namlu ağzı alevi ve geri tepme ile tabancasını ateşliyor, vücudu gergin ve agresif bir şekilde ileri doğru hareket ediyor, toz ve enkaz uçuşuyor, etrafında ateş ve dumanla patlamalar meydana geliyor, mermi izleri yanından geçip gidiyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089242691355992064/img/1bHdhIT7WqmrCRl6.jpg" width="600" alt="Dinamik Kovboy Silahlı Çatışması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9317)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2089242763284062564) | **Published:** Aug 17, 2026
-
----
-### Yabancı Gezegende Artistik Patinajcı Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Platin sarısı saçlı bir artistik patinajcının, kayan yıldızlarla dolu bir gökyüzü altında buzdan bir yabancı gezegende üçlü axel atlayışı yaptığı sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Buzdan bir yabancı gezegende genç bir kadın artistik patinajcının dinamik takip çekimi. Sıkı bir topuz yapılmış platin sarısı saçları var ve üzerinde sayısız küçük yıldız tozu ışıltısıyla süslenmiş, derin çivit mavisi gece gökyüzünü andıran bir kostüm giyiyor. Kayan yıldızlarla dolu bir gökyüzünün altında, uçsuz bucaksız bir buz pistinde yüksek hızla süzülüyor. Gümüş patenleri, yıldızları ve parlayan buzu yansıtıyor. Hızlandıkça güçlü bir üçlü axel atlayışına geçiyor ve havada zarif bir şekilde dönüyor. Parlayan buzun üzerine yumuşak bir şekilde iniş yapıyor ve etrafına daha fazla meteor ve kayan yıldız düşerken, pistte uzun ve parlak izler bırakarak hemen tekrar hızlanıyor. Ultra detaylı, sinematik aydınlatma, yavaş enstantane hareket bulanıklığı, dinamik kamera hareketi, 4K, yüksek kare hızı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089241004939554816/img/2DDKiOQ2OHa_WOct.jpg" width="600" alt="Yabancı Gezegende Artistik Patinajcı Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9323)**
-
-**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2089241259085095024) | **Published:** Aug 17, 2026
-
----
-### Karakter OOTD Dönüş Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ayakta duruş, kıyafet sergileme ve 360 derece dönüş içeren karakter odaklı bir komut oluşturma.
-
-#### 📝 Prompt
-
-```
-Pami babyy ayağa kalkıyor ve OOTD'sini gösteriyor, ardından bize bir dönüş yapıyor @adin o afet kızı sattı
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089210935428931584/img/zpzq_iGtimQkkJ6L.jpg" width="600" alt="Karakter OOTD Dönüş Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9427)**
-
-**Author:** [dasickestmf2000](https://x.com/dasickestmwbwy) | **Source:** [Link](https://x.com/dasickestmwbwy/status/2089210970602389934) | **Published:** Aug 17, 2026
-
----
-### Ejderha Gün Batımı Etkileşimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gün batımında kumsalda bir ejderhanın başını bir kadının eline doğru eğdiği, detaylı ve atmosferik bir video istemi.
-
-#### 📝 Prompt
-
-```
-ejderhanın başı yavaşça kadının açık eline doğru alçalıyor, pulları yumuşak ışıkla parıldarken rüzgar kadının uzun saçlarını ve uçuşan elbisesinin eteklerini nazikçe havalandırıyor, kanatları hafifçe açılarak gün batımının kızıllığını yakalarken okyanus dalgaları sessizce kıyıya vuruyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089206770350661632/img/_tbJue-mFW2ri6O9.jpg" width="600" alt="Ejderha Gün Batımı Etkileşimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9319)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2089206829905481906) | **Published:** Aug 17, 2026
-
----
-### Kara Delik Yıldız Çöküşü Görselleştirmesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kütle çekimsel bozulma efektleriyle, yıldız çöküşü yoluyla oluşan bir kara deliğin son derece detaylı bilimsel görselleştirmesi.
-
-#### 📝 Prompt
-
-```
-Yıldız çöküşü ve oluşumunun dinamik sürecini, kütle çekimsel etkileri, olay ufku görünümü ve çevresindeki uzay-zaman bozulmasıyla birlikte gösteren bir kara delik oluşum görselleştirmesi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089176062475304960/img/XSQhNbhdBc6cEEha.jpg" width="600" alt="Kara Delik Yıldız Çöküşü Görselleştirmesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9424)**
-
-**Author:** [Criminalize Communisim](https://x.com/CommiesRTr8rs) | **Source:** [Link](https://x.com/CommiesRTr8rs/status/2089176086701638035) | **Published:** Aug 17, 2026
-
----
-### Lav ve Sıvı Azot Bilimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sıvı azot ve sıcak lav arasındaki etkileşimin bilimsel bir görselleştirmesini talep eden bir komut.
-
-#### 📝 Prompt
-
-```
-Sıcak lavın altına dökülen sıvı azotun videosunu oluşturabilir misin? Bilimsel olarak neler yaşandığını göstermeni istiyorum.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089163411523305472/img/BrYPHNshCaSx0uS0.jpg" width="600" alt="Lav ve Sıvı Azot Bilimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9422)**
-
-**Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089163426966712443) | **Published:** Aug 17, 2026
-
----
-### Sıvı Azot ve Lav Bilimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sıvı azot ile lav arasındaki reaksiyonu video formatında gösteren bilimsel bir görselleştirme istemi.
-
-#### 📝 Prompt
-
-```
-Sıvı azotun lavla etkileşimini gösteren ve bilimsel olarak neler olduğunu açıklayan bir video oluşturabilir misin?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089161865905512449/img/KRdf0ATk0pne8X6l.jpg" width="600" alt="Sıvı Azot ve Lav Bilimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9418)**
-
-**Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089161883773190169) | **Published:** Aug 17, 2026
-
----
-### Sağlıklı Yemek Pişiren Şef Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir şefin taze sebzeler ve proteinlerle dolu bir masadan sağlıklı ve besleyici tabaklar hazırlama sürecini gösteren bir video istemi.
-
-#### 📝 Prompt
-
-```
-Sebzeler, sağlıklı yağlar ve proteinlerle dolu bir masa oluşturun. Ardından, bir şefin kansersiz ve sağlıklı bir yaşam için bunlarla lezzetli tabaklar hazırlamasını sağlayın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089107807509307392/img/9huUvi3C3SnhiyjO.jpg" width="600" alt="Sağlıklı Yemek Pişiren Şef Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9318)**
-
-**Author:** [RexCesar](https://x.com/CesarCRDZO) | **Source:** [Link](https://x.com/CesarCRDZO/status/2089107819928617031) | **Published:** Aug 16, 2026
-
----
-### Göz Alıcı Cyborg Neuromancer Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yanıp sönen neon ışıkları ve sarsıntılı sahneleme ile Neuromancer estetiğine sahip, göz alıcı bir cyborg'u konu alan sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Göz Alıcı Cyborg Neuromancer, 4k rgb, acescg, sarsıntılı sahneleme, yanıp sönen neon, İngilizce
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089058933943959552/img/_jy2ylbJWDVyQqW8.jpg" width="600" alt="Göz Alıcı Cyborg Neuromancer Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9324)**
-
-**Author:** [Noreen.Kh](https://x.com/NKh2to) | **Source:** [Link](https://x.com/NKh2to/status/2089059103620399462) | **Published:** Aug 16, 2026
-
----
-### Kozmik Girdap Tanrıçası Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uzay girdabı, hizalanan gezegenler ve ruhani bir tanrıçayı içeren karmaşık bir sinematik istem.
-
-#### 📝 Prompt
-
-```
-Uzayda girdap seçin, kadın resmini ekleyin. Ruhani efektler. Ani kozmik patlama, hizalanan gezegenler. Tanrıça belirir, siyah giyimli kadını yakalar...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089048801910648832/img/2NYJGKZdeIAeRuq-.jpg" width="600" alt="Kozmik Girdap Tanrıçası Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9316)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2089048819044319433) | **Published:** Aug 16, 2026
-
----
-### Dönen Çikolatalı Pasta Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dönen, altı parçaya bölünen ve tekrar birleşen bir çikolatalı pasta için video istemi.
-
-#### 📝 Prompt
-
-```
-Tamam, bu güzel pastanın dönmesini, ardından altı parçaya bölünüp tekrar birleşmesini sağlayabilir miyiz? Sonrasında da 'çikolata, kakao deposu' diyelim.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088989322754027520/img/o_ENLd8I77PIPk86.jpg" width="600" alt="Dönen Çikolatalı Pasta Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9321)**
-
-**Author:** [Amandasatiro](https://x.com/Amandasatiro07) | **Source:** [Link](https://x.com/Amandasatiro07/status/2088989343478079969) | **Published:** Aug 16, 2026
-
----
-### Gerçekçi Yürüme Hareketi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kentsel bir kaldırımda doğal vücut fiziği ve kamera takibi ile gerçekçi bir yürüme sekansı için detaylı video istemi.
-
-#### 📝 Prompt
-
-```
-Adam, kendine güvenen ve akıcı bir yürüyüşle, kolları serbestçe sallanarak, bacakları sürekli orta adımda ilerleyerek kameraya doğru doğal bir şekilde yürüyor, hafif ileri kamera takibi, gerçekçi kıyafet hareketi, doğal vücut fiziği, güneşli kentsel kaldırım ortamı...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088977139886391296/img/ARSqffLf07_D17iR.jpg" width="600" alt="Gerçekçi Yürüme Hareketi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9313)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2088977165786173691) | **Published:** Aug 16, 2026
-
----
-### Spor Salonu Selfie Hareketli Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hafif ve doğal hareketlere sahip, şık bir spor salonu selfie'si için fotogerçekçi video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Siyah Nike tişörtlü genç adam, spor salonunda şık bir yan profil selfie'si için tek başına poz veriyor. Hafif ve doğal hareketler yapıyor, başını hafifçe çeviriyor, kendinden emin bir ifade takınıyor, vücudunda yumuşak geçişler var; havalı floresan aydınlatma, fotogerçekçi sosyal medya havası.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088965651302080513/img/g14zM-lDzIGlKRRR.jpg" width="600" alt="Spor Salonu Selfie Hareketli Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9320)**
-
-**Author:** [GOTC](https://x.com/gotcbaby) | **Source:** [Link](https://x.com/gotcbaby/status/2088965668519678384) | **Published:** Aug 16, 2026
-
----
-### Oniks Değerli Taş Karga
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Değerli taştan oyulmuş, karmaşık gümüş telkari detaylarıyla kanatlarını açan bir kargayı betimleyen görkemli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Tamamı cilalı siyah oniks değerli taşından oyulmuş, kahramanca bir pozla kanatlarını güçlü bir şekilde iki yana açan görkemli bir karga; gövdesi, tüyleri ve kanatları boyunca işlenmiş karmaşık gümüş telkari ve süslü desenler, keskin vurgulanmış kenarlar ve kristal...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088939136220897280/img/Pf0wfssd_bVrY95P.jpg" width="600" alt="Oniks Değerli Taş Karga">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9315)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2088939174762348704) | **Published:** Aug 16, 2026
-
----
-### Dora ve Team Umizoomi Kurtarma Operasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Popüler animasyon karakterlerinin kötü bir karaktere karşı kurtarma görevini konu alan aksiyon odaklı bir istem.
-
-#### 📝 Prompt
-
-```
-Dora yardım çağrısında bulunuyor ve Team Umizoomi onu kötü adamdan kurtarmaya gidiyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088878314932850688/img/qrMNu7fUj6bNvrDe.jpg" width="600" alt="Dora ve Team Umizoomi Kurtarma Operasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9241)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **Published:** Aug 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2182,6 +2184,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-27T09:06:08.911Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-27T22:29:06.943Z</sub>
 
 </div>

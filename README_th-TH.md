@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2598** |
+| 📝 Total Prompts | **2613** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-27** |
 
@@ -189,6 +189,255 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### แอนิเมชันการตั้งถิ่นฐานบนฐานทัพดวงจันทร์ของ SpaceX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวล้ำยุคสำหรับภารกิจการตั้งถิ่นฐานของ SpaceX บนฐานทัพดวงจันทร์
+
+#### 📝 Prompt
+
+```
+ทีมงานสร้างฐานของ SpaceX สำหรับภารกิจการตั้งถิ่นฐานบนฐานทัพดวงจันทร์ MrFIXitX พร้อมด้วยสัมภาระที่ออกแบบโดยผู้ติดตาม เพื่อใช้ในการฝึกจำลองสถานการณ์และดำเนินการตามแผน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092905690440335361/img/n_JS-saIe54EGm5o.jpg" width="600" alt="แอนิเมชันการตั้งถิ่นฐานบนฐานทัพดวงจันทร์ของ SpaceX">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9931)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
+
+---
+### แอนิเมชันกัดหน้าเป็นฟองสบู่
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวเหนือจริงที่ตัวละครหนึ่งกัดหน้าอีกตัวหนึ่งแล้วเป่าออกมาเป็นฟองหมากฝรั่ง
+
+#### 📝 Prompt
+
+```
+ทำให้ตัวละครทางขวากัดที่ใบหน้าของตัวละครทางซ้าย แล้วเป่าออกมาเป็นฟองหมากฝรั่งขนาดใหญ่จากตัวเขา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="แอนิเมชันกัดหน้าเป็นฟองสบู่">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9929)**
+
+**Author:** [#vandehigh](https://x.com/vandehigh) | **Source:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **Published:** Aug 27, 2026
+
+---
+### สิ่งมีชีวิตสองขาบนยอดเขา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวแฟนตาซีมืดมนที่แสดงภาพสิ่งมีชีวิตผิวสีขาวบนยอดเขาที่มีหมอกปกคลุม พร้อมการเคลื่อนไหวที่เป็นธรรมชาติ
+
+#### 📝 Prompt
+
+```
+สิ่งมีชีวิตสองขาผิวสีขาวที่สมบูรณ์ยืนอยู่บนยอดเขา ค่อยๆ หันศีรษะไปมองทิวเขาท่ามกลางสายหมอก เนื้อเยื่ออินทรีย์มีการขยับและหยดลงมา พร้อมการเคลื่อนไหวของลมและหมอกที่สร้างบรรยากาศสมจริง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="สิ่งมีชีวิตสองขาบนยอดเขา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9923)**
+
+**Author:** [BecauseGIU*](https://x.com/BecausGIU) | **Source:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **Published:** Aug 27, 2026
+
+---
+### กล่องของเล่นสัตว์ตกจากฟ้า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่แสดงภาพกล่องตกลงมาจากท้องฟ้าแล้วเปิดออก เผยให้เห็นของเล่นรูปสัตว์และยานพาหนะต่างๆ
+
+#### 📝 Prompt
+
+```
+กล่องตกลงมาจากท้องฟ้าแล้วแตกออกบนพื้นหญ้า จากนั้นมีของเล่นรูปสัตว์ทะเลแบบสุ่ม 5 ชิ้น ของเล่นรูปสัตว์ป่าแบบสุ่ม 5 ชิ้น ของเล่นรูปสัตว์ในฟาร์มแบบสุ่ม 5 ชิ้น รถแทรกเตอร์ของเล่น 2 คัน รถคลาสสิกของเล่น 5 คัน และชาร์มแบบสุ่มอีก 5 ชิ้นที่เป็นแบบตัวยึด
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="กล่องของเล่นสัตว์ตกจากฟ้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
+
+---
+### แฟชั่นโชว์รันเวย์ของแมวสุดเท่
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่บรรยายถึงแมวในชุดโค้ทกำมะหยี่ที่กำลังเดินบนรันเวย์แฟชั่นอย่างสุภาพบุรุษเคียงข้างนางแบบ
+
+#### 📝 Prompt
+
+```
+กล้องเริ่มจับภาพมุมกว้างบนรันเวย์ แมวในชุดโค้ทกำมะหยี่เดินไปข้างหน้าด้วยสองขาหลัง อุ้งเท้าข้างหนึ่งจับมือของนางแบบไว้ ส่วนอีกข้างวางไว้ที่สะโพกอย่างมั่นใจ หัวเชิดขึ้น คางยกสูง หางแกว่งไปมาตามจังหวะการเดิน นางแบบก้าวเดินอย่างสง่างามเคียงข้างเขา ชุดราตรีพริ้วไหว เมื่อถึงสุดทางรันเวย์ แมวหันหัวไปกะพริบตาช้าๆ อย่างจงใจให้ฝูงชนดู ก่อนจะหันกลับไปมองนางแบบพร้อมรอยยิ้มเล็กๆ ที่ดูภูมิใจในตัวเอง เขาปรับท่าทางการจับมือของเธออย่างสุภาพบุรุษ จากนั้นทั้งคู่ก็หันตัวกลับและเริ่มเดินกลับไป โดยมีเสียงรองเท้าบูทคู่เล็กๆ ของเขากระทบกับพื้นรันเวย์เป็นจังหวะ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="แฟชั่นโชว์รันเวย์ของแมวสุดเท่">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9926)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **Published:** Aug 26, 2026
+
+---
+### ความฝันในการแข่งม้าที่ Saratoga
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> สร้างวิดีโอจำลองการแข่งม้าที่สนามแข่ง Saratoga โดยเน้นไปที่ม้าหมายเลข 5 ในการแข่งขันรอบที่ 1
+
+#### 📝 Prompt
+
+```
+ความฝันของ Lori ในการแข่งวันที่ 27 สิงหาคม ที่สนามแข่งม้าชื่อดัง Saratoga รอบที่ 1 ม้าหมายเลข 5 แสดงให้เห็นหมายเลข 5 บนตัวม้า
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="ความฝันในการแข่งม้าที่ Saratoga">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9921)**
+
+**Author:** [Ron Lundenberg](https://x.com/rlunden) | **Source:** [Link](https://x.com/rlunden/status/2092720610602364995) | **Published:** Aug 26, 2026
+
+---
+### ฉากตลกแนวเนิร์ดแบบเยอรมัน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสุดสร้างสรรค์ที่นำตัวละครไปอยู่ในฉากจากภาพยนตร์เรื่อง Revenge of the Nerds พร้อมเพิ่มลูกเล่นความตลกจากกำแพงภาษา
+
+#### 📝 Prompt
+
+```
+นำผู้ชายคนนี้ไปใส่ในฉากหนึ่งของภาพยนตร์เรื่อง “Revenge of the Nerds” แต่ให้เขาพูดสำเนียงเยอรมันที่ฟังยากจนไม่มีใครเข้าใจสิ่งที่เขาพูดเลย ทุกคนทำได้เพียงมองด้วยความสับสน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="ฉากตลกแนวเนิร์ดแบบเยอรมัน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9925)**
+
+**Author:** [Ken Simpson](https://x.com/ttul) | **Source:** [Link](https://x.com/ttul/status/2092708814281978175) | **Published:** Aug 26, 2026
+
+---
+### การสื่อสารผ่านกระแสจิตบนถนนในเมือง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่แสดงภาพความคิดเป็นฟองข้อความเหนือศีรษะของผู้คนบนถนนในเมืองที่พลุกพล่าน
+
+#### 📝 Prompt
+
+```
+การสื่อสารผ่านกระแสจิตที่ปรากฏบนถนนในเมืองในรูปแบบของฟองข้อความเหนือศีรษะของผู้คน รวมถึงความรู้สึกเมื่อมีคนเข้าถึงสมองของคุณอย่างผิดกฎหมายเพื่อขโมยทรัพย์สินทางปัญญา รวมถึงไอเดียต่างๆ ที่คุณมี
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="การสื่อสารผ่านกระแสจิตบนถนนในเมือง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9933)**
+
+**Author:** [Austin Gibson](https://x.com/5pazzisAlive) | **Source:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **Published:** Aug 26, 2026
+
+---
+### ภาพยนตร์พายุฝุ่นบนดาวอังคาร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (prompt) บรรยากาศโดยละเอียดที่อธิบายถึงการเคลื่อนกล้องอย่างช้าๆ เหนือพื้นผิวดาวอังคาร พร้อมสายลมและฝุ่นที่หมุนวน
+
+#### 📝 Prompt
+
+```
+การเคลื่อนกล้องแบบภาพยนตร์อย่างช้าๆ ข้ามภูมิประเทศอันกว้างใหญ่ของดาวอังคาร สายลมพัดเบาๆ ทำให้ฝุ่นและทรายสีแดงละเอียดฟุ้งกระจายไปทั่วเนินทรายและพื้นที่ที่เป็นหิน หมอกในบรรยากาศเปลี่ยนทิศทางอย่างแนบเนียน กลุ่มฝุ่นในระยะไกลหมุนวนอย่างช้าๆ ภายใต้ท้องฟ้าสีส้มมัวๆ ให้ความรู้สึกสมจริงดั่งภาพถ่าย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="ภาพยนตร์พายุฝุ่นบนดาวอังคาร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9924)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **Published:** Aug 26, 2026
+
+---
+### นักสืบสไตล์ Miami Vice กับเครื่องพิมพ์ 3D
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่ผสมผสานสไตล์ Miami Vice ยุค 1970 เข้ากับเทคโนโลยีการพิมพ์คอนกรีต 3D แห่งอนาคตในไซต์งานก่อสร้าง
+
+#### 📝 Prompt
+
+```
+นักสืบตำรวจสไตล์ Miami Vice ยุค 1970 กำลังเดินอยู่ในไซต์งานก่อสร้างที่มีเครื่องพิมพ์คอนกรีต 3D
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="นักสืบสไตล์ Miami Vice กับเครื่องพิมพ์ 3D">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9920)**
+
+**Author:** [LeBron Daniel](https://x.com/lebron3d) | **Source:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **Published:** Aug 26, 2026
+
+---
+### แอนิเมชันฝนดาวตกแบบไดนามิก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แอนิเมชันโดยละเอียดสำหรับการสร้างฝนดาวตกพร้อมเส้นแสงเรืองรองและดวงดาวระยิบระยับ
+
+#### 📝 Prompt
+
+```
+แอนิเมชันฝนดาวตกแบบไดนามิก: ดาวตกและดาวหางสว่างไสวพุ่งผ่านท้องฟ้ายามค่ำคืนอย่างต่อเนื่องในทิศทางต่างๆ ทิ้งเส้นแสงสีเขียวและสีน้ำเงินเรืองรองไว้เบื้องหลัง มีดาวตกดวงใหม่ปรากฏขึ้นและร่วงหล่น ดวงดาวส่องแสงระยิบระยับอย่างนุ่มนวล กล้องเคลื่อนที่ขึ้นด้านบนเล็กน้อย ci...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="แอนิเมชันฝนดาวตกแบบไดนามิก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9927)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **Published:** Aug 26, 2026
+
+---
+### ลูกเป็ดจิตรกรในสวนสไตล์อิมเพรสชันนิสต์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์สไตล์อิมเพรสชันนิสต์อันเงียบสงบ นำเสนอภาพลูกเป็ดในชุดจิตรกรกำลังวาดภาพสวนท่ามกลางแสงแดด ออกแบบมาให้มีการเคลื่อนไหวที่นุ่มนวลและพื้นผิวที่ดูละมุนตา
+
+#### 📝 Prompt
+
+```
+ภาพนิ่งและวิดีโอพรอมต์นี้จะมีการเคลื่อนไหวไปทางซ้ายเล็กน้อยในขณะที่มีนกตัวน้อยบินอยู่บนขาตั้งวาดภาพ
+
+สวนสไตล์อิมเพรสชันนิสต์ท่ามกลางแสงแดด ที่มีความสมจริงและดูเหมือนภาพวาดสีน้ำมันที่ยังเปียกอยู่: แสงสีทองครีมหนาตา สีเขียวที่ดูเหมือนรอยป้ายสี และดวงอาทิตย์ที่เป็นจุดแต้มสีสดใสที่ยังไม่แห้ง ลูกเป็ดตัวน้อยในชุดจิตรกรยุคปลายศตวรรษที่ 19 สวมหมวกฟางใบใหญ่เกินตัว กำลังยืนอยู่ที่ขาตั้งวาดภาพขนาดจิ๋วบนพื้นหญ้า และตั้งใจวาดภาพดวงอาทิตย์ลงบนผืนผ้าใบเล็กๆ นั้น ดอกทานตะวันแบบอิมปาสโต (Impasto) พื้นผิวผ้าใบที่ปรากฏบนทางเดิน และเกรนฟิล์มสไตล์ยุค 1990 แนวคิดหนึ่งคือดวงอาทิตย์ยังคงดูเปียกชื้น เช่นเดียวกับภาพวาดที่กำลังทำอยู่ สวยงามและดูน่ารักน่าเอ็นดู
+```
+
+<img src="https://cms-assets.youmind.com/media/1787828425376_09i2gr_HQpScBhWQAAYNxT.jpg" width="600" alt="ลูกเป็ดจิตรกรในสวนสไตล์อิมเพรสชันนิสต์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
+
+**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092580518147617152) | **Published:** Aug 26, 2026
+
+---
+### การเปลี่ยนฉากเป็นคฤหาสน์สุดหรู
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับการเปลี่ยนฉากหลังที่ช่วยแทนที่พื้นหลังเดิมที่เป็นชายหาดหรือเรือ ให้กลายเป็นบรรยากาศงานปาร์ตี้ในคฤหาสน์สุดหรูที่มีรายละเอียดสมจริง
+
+#### 📝 Prompt
+
+```
+เปลี่ยนฉากจากชายหาด/เรือ ให้เป็นคฤหาสน์สุดหรูสไตล์ Playboy Mansion: คฤหาสน์หลายชั้นที่สวยงามพร้อมสถาปัตยกรรมอันยิ่งใหญ่ ต้นปาล์ม สระว่ายน้ำที่ส่องประกาย ไฟประดับงานปาร์ตี้ และบรรยากาศงานเลี้ยงระดับไฮเอนด์
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="การเปลี่ยนฉากเป็นคฤหาสน์สุดหรู">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9922)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
+
+---
 ### แฟชั่นโชว์ชุดราตรีทรงหางปลาสีแดง
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +457,25 @@ Why use our gallery?
 **Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
 
 ---
+### หญิงสาวกำลังหั่นสับปะรดขนาดยักษ์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่หญิงสาวเดินเข้ามาในฉากและหั่นสับปะรดขนาดยักษ์ออกเป็นสองซีก เผยให้เห็นเนื้อในสีเหลืองฉ่ำ
+
+#### 📝 Prompt
+
+```
+หญิงสาวหน้าตาดึงดูดใจวัย 23 ปี เดินเข้ามาในฉากและหั่นสับปะรดออกเป็นสองซีก เผยให้เห็นเนื้อสับปะรดสีเหลืองฉ่ำอยู่ด้านใน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092450891580252160/img/c0BOWAW0nvo8h3hG.jpg" width="600" alt="หญิงสาวกำลังหั่นสับปะรดขนาดยักษ์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9919)**
+
+**Author:** [seeksteve](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2092454370650591648) | **Published:** Aug 26, 2026
+
+---
 ### แมวน้อยหลับปุ๋ยบนมาร์ชเมลโลว์ในลาเต้
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +493,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
 
 **Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
+
+---
+### ภาพพอร์ตเทรตอันงดงามพร้อมการเคลื่อนไหวที่นุ่มนวล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่ถ่ายทอดความรักอันลึกซึ้งของตัวละคร พร้อมสายลมแผ่วเบาและการเคลื่อนไหวของเส้นผม โดยได้รับแรงบันดาลใจจาก Odysseus และ Penelope
+
+#### 📝 Prompt
+
+```
+สายลมพัดเส้นผมยาวและชายกระโปรงที่พลิ้วไหวของเธออย่างแผ่วเบา ไม่มีการเคลื่อนไหวที่รุนแรง เธอหันหน้าไปหา Odysseus โดยตรง สบตากับเขาด้วยแววตาที่ขี้เล่นแต่เต็มไปด้วยความซื่อสัตย์อย่างแรงกล้า สีหน้าของเธออ่อนโยนและเปี่ยมไปด้วยอารมณ์ ริมฝีปากเผยอเล็กน้อย ดวงตาอบอุ่นและมุ่งมั่นแฝงไปด้วยความรู้สึกที่เงียบเชียบแต่ร้อนแรงและเต็มไปด้วยความรักอันลึกซึ้ง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092362822286032898/img/VBlJOLcS7ICgtbKs.jpg" width="600" alt="ภาพพอร์ตเทรตอันงดงามพร้อมการเคลื่อนไหวที่นุ่มนวล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9930)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092362908936057342) | **Published:** Aug 25, 2026
 
 ---
 ### เผยต้นแบบไซไฟ Rainbow Universe
@@ -1839,291 +2126,6 @@ Trinia กำลังหลบหนีด้วยยานอวกาศพ�
 **Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2089280594186260518) | **Published:** Aug 17, 2026
 
 ---
-### ฉากดวลปืนคาวบอยสุดเร้าใจ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แนวแอ็กชันเข้มข้นที่บรรยายถึงมือปืนในสมรภูมิรบ พร้อมแสงจากปากกระบอกปืน ควัน และการระเบิด
-
-#### 📝 Prompt
-
-```
-ฉากแอ็กชันดวลปืนคาวบอยสุดเร้าใจ: มือปืนลั่นไกปืนลูกโม่พร้อมแสงแฟลชจากปากกระบอกปืนและแรงสะท้อน ร่างกายเกร็งและพุ่งไปข้างหน้าอย่างดุดัน ฝุ่นและเศษซากกระจัดกระจาย การระเบิดปะทุขึ้นรอบตัวพร้อมเปลวไฟและควัน รวมถึงวิถีกระสุนที่พุ่งผ่านไป
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089242691355992064/img/1bHdhIT7WqmrCRl6.jpg" width="600" alt="ฉากดวลปืนคาวบอยสุดเร้าใจ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9317)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2089242763284062564) | **Published:** Aug 17, 2026
-
----
-### วิดีโอนักสเกตลีลาบนดาวเคราะห์ต่างดาว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ของนักสเกตลีลาผมบลอนด์แพลทินัมที่กำลังกระโดดท่า Triple Axel บนดาวเคราะห์น้ำแข็งต่างดาวภายใต้ท้องฟ้าที่มีฝนดาวตก
-
-#### 📝 Prompt
-
-```
-ภาพการเคลื่อนกล้องแบบติดตาม (tracking shot) ของนักสเกตลีลาหญิงสาวบนดาวเคราะห์น้ำแข็งต่างดาว เธอมีผมสีบลอนด์แพลทินัมรวบเป็นมวยตึง และสวมชุดที่ดูเหมือนท้องฟ้ายามค่ำคืนสีน้ำเงินเข้ม ประดับด้วยประกายระยิบระยับเล็กๆ นับไม่ถ้วนราวกับละอองดาว เธอไถลตัวด้วยความเร็วสูงไปบนลานน้ำแข็งกว้างใหญ่ภายใต้ท้องฟ้าที่เต็มไปด้วยฝนดาวตก รองเท้าสเกตสีเงินของเธอสะท้อนแสงดาวและน้ำแข็งที่เรืองแสง เมื่อเธอเพิ่มความเร็ว เธอได้กระโดดขึ้นสู่ท่า Triple Axel อันทรงพลัง หมุนตัวอย่างงดงามกลางอากาศ เธอลงสู่พื้นน้ำแข็งที่เรืองแสงได้อย่างนุ่มนวลและเร่งความเร็วขึ้นอีกครั้งทันที ทิ้งรอยทางยาวสว่างไสวไว้บนลานน้ำแข็งในขณะที่มีอุกกาบาตและฝนดาวตกตกลงมาโดยรอบ รายละเอียดสูงมาก แสงแบบภาพยนตร์ การเบลอจากการเคลื่อนไหวด้วยชัตเตอร์สปีดต่ำ การเคลื่อนกล้องแบบไดนามิก ความละเอียด 4K เฟรมเรตสูง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089241004939554816/img/2DDKiOQ2OHa_WOct.jpg" width="600" alt="วิดีโอนักสเกตลีลาบนดาวเคราะห์ต่างดาว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9323)**
-
-**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2089241259085095024) | **Published:** Aug 17, 2026
-
----
-### วิดีโอหมุนตัวโชว์ชุดตัวละคร (OOTD)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอตัวละครในท่ายืน โชว์ชุด และหมุนตัว 360 องศา
-
-#### 📝 Prompt
-
-```
-Pami babyy ยืนโชว์ชุด OOTD แล้วหมุนตัวให้เราดู @adin จัดเต็มความแซ่บ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089210935428931584/img/zpzq_iGtimQkkJ6L.jpg" width="600" alt="วิดีโอหมุนตัวโชว์ชุดตัวละคร (OOTD)">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9427)**
-
-**Author:** [dasickestmf2000](https://x.com/dasickestmwbwy) | **Source:** [Link](https://x.com/dasickestmwbwy/status/2089210970602389934) | **Published:** Aug 17, 2026
-
----
-### ปฏิสัมพันธ์มังกรยามอาทิตย์อัสดง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่ละเอียดและเปี่ยมด้วยบรรยากาศ แสดงภาพมังกรกำลังก้มหัวลงมาหาฝ่ามือของผู้หญิงคนหนึ่งบนชายหาดในช่วงพระอาทิตย์ตกดิน
-
-#### 📝 Prompt
-
-```
-หัวของมังกรค่อย ๆ ก้มลงมาหาฝ่ามือที่แบออกของเธอ เกล็ดของมันส่องประกายระยิบระยับด้วยแสงนวลตา ในขณะที่สายลมพัดพาเส้นผมยาวและชายกระโปรงพริ้วไหวของเธอเบา ๆ ปีกของมันกางออกอย่างนุ่มนวลรับกับแสงสีทองของพระอาทิตย์ตกดิน ท่ามกลางเสียงคลื่นทะเลที่ซัดสาดอย่างแผ่วเบา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089206770350661632/img/_tbJue-mFW2ri6O9.jpg" width="600" alt="ปฏิสัมพันธ์มังกรยามอาทิตย์อัสดง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9319)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2089206829905481906) | **Published:** Aug 17, 2026
-
----
-### การจำลองภาพการยุบตัวของดาวฤกษ์เป็นหลุมดำ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ภาพจำลองทางวิทยาศาสตร์ที่มีรายละเอียดสูงของการก่อตัวของหลุมดำผ่านการยุบตัวของดาวฤกษ์ พร้อมเอฟเฟกต์การบิดเบือนของแรงโน้มถ่วง
-
-#### 📝 Prompt
-
-```
-ภาพจำลองการกำเนิดของหลุมดำ แสดงให้เห็นกระบวนการแบบไดนามิกของการยุบตัวและการก่อตัวของดาวฤกษ์ พร้อมด้วยเอฟเฟกต์แรงโน้มถ่วง ลักษณะของขอบฟ้าเหตุการณ์ และการบิดเบือนของกาลอวกาศโดยรอบ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089176062475304960/img/XSQhNbhdBc6cEEha.jpg" width="600" alt="การจำลองภาพการยุบตัวของดาวฤกษ์เป็นหลุมดำ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9424)**
-
-**Author:** [Criminalize Communisim](https://x.com/CommiesRTr8rs) | **Source:** [Link](https://x.com/CommiesRTr8rs/status/2089176086701638035) | **Published:** Aug 17, 2026
-
----
-### วิทยาศาสตร์ระหว่างลาวาและไนโตรเจนเหลว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสำหรับสร้างภาพจำลองทางวิทยาศาสตร์เกี่ยวกับการทำปฏิกิริยาระหว่างไนโตรเจนเหลวและลาวาร้อน
-
-#### 📝 Prompt
-
-```
-ช่วยทำวิดีโอแสดงเหตุการณ์เมื่อเทไนโตรเจนเหลวลงใต้ลาวาร้อนให้ดูหน่อยว่าในทางวิทยาศาสตร์จะเกิดอะไรขึ้น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089163411523305472/img/BrYPHNshCaSx0uS0.jpg" width="600" alt="วิทยาศาสตร์ระหว่างลาวาและไนโตรเจนเหลว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9422)**
-
-**Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089163426966712443) | **Published:** Aug 17, 2026
-
----
-### วิทยาศาสตร์ระหว่าง ไนโตรเจนเหลว ปะทะ ลาวา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างภาพเชิงวิทยาศาสตร์ที่แสดงปฏิกิริยาระหว่าง ไนโตรเจนเหลว และ ลาวา ในรูปแบบวิดีโอ
-
-#### 📝 Prompt
-
-```
-ช่วยทำวิดีโอแสดงปฏิกิริยาระหว่าง ไนโตรเจนเหลว กับ ลาวา และอธิบายสิ่งที่เกิดขึ้นในเชิงวิทยาศาสตร์ให้หน่อย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089161865905512449/img/KRdf0ATk0pne8X6l.jpg" width="600" alt="วิทยาศาสตร์ระหว่าง ไนโตรเจนเหลว ปะทะ ลาวา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9418)**
-
-**Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089161883773190169) | **Published:** Aug 17, 2026
-
----
-### ลำดับขั้นตอนการทำอาหารเพื่อสุขภาพโดยเชฟ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่แสดงให้เห็นขั้นตอนการทำงานของเชฟในการสร้างสรรค์เมนูอาหารที่มีประโยชน์และเต็มไปด้วยคุณค่าทางโภชนาการ จากวัตถุดิบผักสดและโปรตีนที่วางเรียงรายอยู่เต็มโต๊ะ
-
-#### 📝 Prompt
-
-```
-สร้างภาพโต๊ะที่เต็มไปด้วยผัก ไขมันดี และโปรตีน จากนั้นให้เชฟปรุงอาหารจานอร่อยจากวัตถุดิบเหล่านั้นเพื่อการใช้ชีวิตที่มีสุขภาพดีและห่างไกลจากโรคมะเร็ง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089107807509307392/img/9huUvi3C3SnhiyjO.jpg" width="600" alt="ลำดับขั้นตอนการทำอาหารเพื่อสุขภาพโดยเชฟ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9318)**
-
-**Author:** [RexCesar](https://x.com/CesarCRDZO) | **Source:** [Link](https://x.com/CesarCRDZO/status/2089107819928617031) | **Published:** Aug 16, 2026
-
----
-### วิดีโอไซบอร์กสุดหรูในสไตล์ Neuromancer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่นำเสนอไซบอร์กสุดหรูในสไตล์ Neuromancer พร้อมแสงนีออนกะพริบและการจัดวางท่าทางแบบกระตุก
-
-#### 📝 Prompt
-
-```
-Glamorous Cyborg Neuromancer, 4k rgb, acescg, jerky staging, flashing neon, in english
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089058933943959552/img/_jy2ylbJWDVyQqW8.jpg" width="600" alt="วิดีโอไซบอร์กสุดหรูในสไตล์ Neuromancer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9324)**
-
-**Author:** [Noreen.Kh](https://x.com/NKh2to) | **Source:** [Link](https://x.com/NKh2to/status/2089059103620399462) | **Published:** Aug 16, 2026
-
----
-### วิดีโอเทพธิดาแห่งห้วงจักรวาล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ภาพยนตร์ที่ซับซ้อนซึ่งเกี่ยวข้องกับกระแสน้ำวนในอวกาศ การเรียงตัวใหม่ของดาวเคราะห์ และเทพธิดาผู้สง่างาม
-
-#### 📝 Prompt
-
-```
-เลือกกระแสน้ำวนในอวกาศ เพิ่มรูปภาพของผู้หญิง เอฟเฟกต์แบบเหนือจริง การระเบิดของจักรวาลอย่างฉับพลันที่ทำให้ดาวเคราะห์เรียงตัวใหม่ เทพธิดาปรากฏตัวขึ้นและคว้าตัวผู้หญิงที่สวมชุดสีดำ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089048801910648832/img/2NYJGKZdeIAeRuq-.jpg" width="600" alt="วิดีโอเทพธิดาแห่งห้วงจักรวาล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9316)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2089048819044319433) | **Published:** Aug 16, 2026
-
----
-### แอนิเมชันเค้กช็อกโกแลตหมุน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สำหรับเค้กช็อกโกแลตหมุนที่แบ่งออกเป็น 6 ชิ้นแล้วประกอบกลับเข้าที่เดิม
-
-#### 📝 Prompt
-
-```
-โอเค เรามาทำให้เค้กแสนสวยชิ้นนี้หมุน แล้วแบ่งออกเป็น 6 ชิ้น จากนั้นก็ประกอบกลับเข้าที่เดิม พร้อมกับพูดว่าช็อกโกแลตคือขุมพลังแห่งโกโก้
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088989322754027520/img/o_ENLd8I77PIPk86.jpg" width="600" alt="แอนิเมชันเค้กช็อกโกแลตหมุน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9321)**
-
-**Author:** [Amandasatiro](https://x.com/Amandasatiro07) | **Source:** [Link](https://x.com/Amandasatiro07/status/2088989343478079969) | **Published:** Aug 16, 2026
-
----
-### การเคลื่อนไหวขณะเดินที่สมจริง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างวิดีโออย่างละเอียด เพื่อให้ได้ภาพการเดินที่สมจริง พร้อมฟิสิกส์ของร่างกายที่เป็นธรรมชาติและการติดตามกล้องบนทางเท้าในเมือง
-
-#### 📝 Prompt
-
-```
-ชายคนหนึ่งเดินตรงมาข้างหน้าอย่างเป็นธรรมชาติเข้าหากล้องด้วยท่าเดินที่มั่นใจและราบรื่น แขนแกว่งไปมาอย่างอิสระ ขาก้าวเดินต่อเนื่อง กล้องติดตามไปข้างหน้าเล็กน้อย การเคลื่อนไหวของเสื้อผ้าที่สมจริง ฟิสิกส์ของร่างกายที่เป็นธรรมชาติ สภาพแวดล้อมทางเท้าในเมืองที่มีแสงแดดสดใส...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088977139886391296/img/ARSqffLf07_D17iR.jpg" width="600" alt="การเคลื่อนไหวขณะเดินที่สมจริง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9313)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2088977165786173691) | **Published:** Aug 16, 2026
-
----
-### วิดีโอเซลฟี่ในยิมแบบเคลื่อนไหว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอที่สมจริงเหมือนภาพถ่าย สำหรับการเซลฟี่ในยิมสุดเท่พร้อมการเคลื่อนไหวที่เป็นธรรมชาติ
-
-#### 📝 Prompt
-
-```
-ชายหนุ่มในเสื้อ Nike สีดำกำลังโพสท่าเซลฟี่เพียงลำพังในยิมด้วยมุมมองด้านข้างสุดเท่ เขามีการเคลื่อนไหวที่เป็นธรรมชาติเล็กน้อย มีการหันศีรษะเบาๆ สีหน้ามั่นใจ ร่างกายขยับเขยื้อนอย่างนุ่มนวล แสงไฟฟลูออเรสเซนต์สุดคูล ให้บรรยากาศแบบโซเชียลมีเดียที่สมจริง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088965651302080513/img/g14zM-lDzIGlKRRR.jpg" width="600" alt="วิดีโอเซลฟี่ในยิมแบบเคลื่อนไหว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9320)**
-
-**Author:** [GOTC](https://x.com/gotcbaby) | **Source:** [Link](https://x.com/gotcbaby/status/2088965668519678384) | **Published:** Aug 16, 2026
-
----
-### อีกาอัญมณี Onyx
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สุดตระการตาสำหรับอีกาที่แกะสลักจากอัญมณี กำลังกางปีกพร้อมลวดลายเงินฉลุอันวิจิตรบรรจง
-
-#### 📝 Prompt
-
-```
-อีกาอันสง่างามที่แกะสลักจากอัญมณี Onyx สีดำขัดเงาทั้งตัว กำลังกางปีกกว้างอย่างทรงพลังในท่วงท่าที่ดูองอาจ มีลวดลายเงินฉลุและลวดลายประดับอันวิจิตรบรรจงสลักอยู่ทั่วร่างกาย ขน และปีก ขอบคมชัดที่เน้นรายละเอียดด้วยคริสตัล...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088939136220897280/img/Pf0wfssd_bVrY95P.jpg" width="600" alt="อีกาอัญมณี Onyx">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9315)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2088939174762348704) | **Published:** Aug 16, 2026
-
----
-### Dora และ Team Umizoomi กับภารกิจกู้ภัย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวแอ็กชันที่นำตัวละครแอนิเมชันยอดนิยมมาอยู่ในสถานการณ์ภารกิจกู้ภัยเพื่อต่อสู้กับวายร้าย
-
-#### 📝 Prompt
-
-```
-Dora กำลังร้องขอความช่วยเหลือ และ Team Umizoomi กำลังจะไปช่วยเธอจากวายร้ายตัวแสบ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088878314932850688/img/qrMNu7fUj6bNvrDe.jpg" width="600" alt="Dora และ Team Umizoomi กับภารกิจกู้ภัย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9241)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **Published:** Aug 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2185,6 +2187,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-27T09:05:52.254Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-27T22:28:55.221Z</sub>
 
 </div>

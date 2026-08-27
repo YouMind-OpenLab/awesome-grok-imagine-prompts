@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2598** |
+| 📝 Total Prompts | **2613** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-27** |
 
@@ -189,6 +189,255 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### SpaceX मूनबेस कोलोनाइज़ेशन एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> मूनबेस फोर्ज पर SpaceX कोलोनाइज़ेशन मिशन के लिए एक भविष्यवादी वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+SpaceX फोर्ज क्रू को MrFIXitX मूनबेस फोर्ज कोलोनाइज़ेशन के लिए सब्सक्राइबर्स द्वारा डिज़ाइन किए गए पेलोड के साथ सिम्युलेटर ट्रेनिंग दें और फिर इसे लागू करें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092905690440335361/img/n_JS-saIe54EGm5o.jpg" width="600" alt="SpaceX मूनबेस कोलोनाइज़ेशन एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9931)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
+
+---
+### फेस बाइटिंग बबल एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक असली जैसा दिखने वाला वीडियो प्रॉम्प्ट जिसमें एक आकृति दूसरी आकृति के चेहरे को काटती है और च्यूइंग गम का बुलबुला बनाती है।
+
+#### 📝 Prompt
+
+```
+बाईं ओर की आकृति के सिर के दाहिने हिस्से को काटने का दृश्य बनाएं और उससे च्यूइंग गम का एक बड़ा बुलबुला तैयार करें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="फेस बाइटिंग बबल एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9929)**
+
+**Author:** [#vandehigh](https://x.com/vandehigh) | **Source:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **Published:** Aug 27, 2026
+
+---
+### दो पैरों वाला जीव पर्वत शिखर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत डार्क-फैंटेसी वीडियो प्रॉम्प्ट, जिसमें धुंधले पर्वत शिखर पर एक सफेद मांसल जीव को जैविक गति के साथ दर्शाया गया है।
+
+#### 📝 Prompt
+
+```
+पूरी तरह से विकसित दो पैरों वाला सफेद मांसल जीव शिखर पर खड़ा है, धीरे-धीरे अपना सिर घुमाकर धुंधले पहाड़ों को देखता है, जैविक ऊतक हिल रहे हैं और टपक रहे हैं, साथ ही वायुमंडलीय हवा और कोहरे की गति भी दिखाई दे रही है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="दो पैरों वाला जीव पर्वत शिखर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9923)**
+
+**Author:** [BecauseGIU*](https://x.com/BecausGIU) | **Source:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **Published:** Aug 27, 2026
+
+---
+### Sky Falling Animal Toy Box
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जिसमें आसमान से एक बॉक्स गिरता है और उससे विभिन्न खिलौने वाले जानवर और गाड़ियाँ बाहर निकलती हैं।
+
+#### 📝 Prompt
+
+```
+आसमान से एक बॉक्स गिरता है और घास पर गिरकर टूट जाता है। बॉक्स से पाँच रैंडम समुद्री जानवरों के खिलौने, पाँच रैंडम जंगली जानवरों के खिलौने, पाँच रैंडम खेत के जानवरों के खिलौने, दो खिलौना ट्रैक्टर, पाँच क्लासिक खिलौना कारें और पाँच रैंडम ब्रैकेट-टाइप चार्म्स बाहर निकलते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="Sky Falling Animal Toy Box">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
+
+---
+### बिल्ली का फैशन मॉडल रनवे वॉक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत सिनेमाई वीडियो प्रॉम्प्ट, जिसमें मखमली कोट पहने एक बिल्ली को एक मानव मॉडल के साथ किसी जेंटलमैन की तरह फैशन रनवे पर चलते हुए दर्शाया गया है।
+
+#### 📝 Prompt
+
+```
+कैमरा रनवे के वाइड शॉट से शुरू होता है। मखमली कोट पहने बिल्ली अपने पिछले पैरों पर आगे बढ़ती है, एक पंजा मॉडल का हाथ पकड़े हुए है और दूसरा हल्का सा उसकी कमर पर टिका है। उसका सिर ऊंचा है, ठुड्डी ऊपर उठी हुई है, और हर कदम के साथ उसकी पूंछ हिल रही है। मॉडल उसके बगल में आगे बढ़ती है, ठुड्डी ऊपर उठाए हुए, गाउन लहरा रहा है। जैसे ही वे रनवे के अंत तक पहुँचते हैं, बिल्ली अपना सिर घुमाती है, भीड़ की ओर धीरे से और जानबूझकर पलकें झपकाती है, फिर एक छोटी सी, आत्मसंतुष्ट मुस्कान के साथ मॉडल की ओर देखती है। वह एक जेंटलमैन की तरह उसका हाथ थामने की अपनी पकड़ को ठीक करती है, फिर वे एक साथ मुड़ते हैं और वापस चलना शुरू करते हैं, रनवे पर उसके छोटे जूतों की आवाज़ गूंज रही है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="बिल्ली का फैशन मॉडल रनवे वॉक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9926)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **Published:** Aug 26, 2026
+
+---
+### Saratoga घुड़दौड़ का सपना
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Saratoga रेसकोर्स में एक विशिष्ट घुड़दौड़ को दर्शाने वाला वीडियो बनाता है, जिसमें रेस नंबर एक के दौरान पांच नंबर के घोड़े पर ध्यान केंद्रित किया गया है।
+
+#### 📝 Prompt
+
+```
+Lori का सपना जो 27 अगस्त को प्रसिद्ध Saratoga रेसकोर्स में दौड़ रहा है, रेस नंबर एक, घोड़ा नंबर पांच, घोड़े पर नंबर पांच दिखाएं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="Saratoga घुड़दौड़ का सपना">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9921)**
+
+**Author:** [Ron Lundenberg](https://x.com/rlunden) | **Source:** [Link](https://x.com/rlunden/status/2092720610602364995) | **Published:** Aug 26, 2026
+
+---
+### जर्मन नर्ड कॉमेडी सीन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक रचनात्मक वीडियो प्रॉम्प्ट जो एक पात्र को 'Revenge of the Nerds' के एक दृश्य में रखता है, जिसमें भाषा की बाधा का एक हास्यपूर्ण तत्व शामिल है।
+
+#### 📝 Prompt
+
+```
+इस व्यक्ति को 'Revenge of the Nerds' के एक दृश्य में डालें। लेकिन उसका जर्मन लहजा बहुत गहरा है और कोई भी उसे समझ नहीं पा रहा है। हर कोई बस भ्रमित दिख रहा है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="जर्मन नर्ड कॉमेडी सीन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9925)**
+
+**Author:** [Ken Simpson](https://x.com/ttul) | **Source:** [Link](https://x.com/ttul/status/2092708814281978175) | **Published:** Aug 26, 2026
+
+---
+### टेलीपैथिक संचार वाली शहर की सड़क
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जो व्यस्त शहर की सड़क पर लोगों के सिर के ऊपर टेक्स्ट बबल के रूप में विचारों को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+शहर की सड़कों पर टेलीपैथिक संचार का दृश्य, जिसमें लोगों के सिर के ऊपर टेक्स्ट वाले बबल दिखाई दे रहे हैं। साथ ही, यह भी कि कैसा महसूस होता है जब कोई आपके विचारों सहित आपकी बौद्धिक संपदा को चुराने के लिए अवैध रूप से आपके दिमाग तक पहुंच प्राप्त कर लेता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="टेलीपैथिक संचार वाली शहर की सड़क">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9933)**
+
+**Author:** [Austin Gibson](https://x.com/5pazzisAlive) | **Source:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **Published:** Aug 26, 2026
+
+---
+### मंगल ग्रह पर धूल भरी आंधी का सिनेमैटिक दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> मंगल ग्रह की सतह पर हवा और उड़ती धूल के साथ धीरे-धीरे चलते कैमरे के दृश्य का एक विस्तृत वायुमंडलीय प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+मंगल ग्रह के विशाल परिदृश्य पर धीरे-धीरे चलता सिनेमैटिक कैमरा, हल्की हवा के साथ टीलों और पथरीली जमीन पर उड़ती महीन लाल धूल और रेत, वायुमंडलीय धुंध में सूक्ष्म बदलाव, धुंधले नारंगी आसमान के नीचे धीरे-धीरे घूमते दूर के धूल के बादल, फोटो-रियलिस्टिक
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="मंगल ग्रह पर धूल भरी आंधी का सिनेमैटिक दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9924)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **Published:** Aug 26, 2026
+
+---
+### 3D प्रिंटर्स के साथ मियामी वाइस डिटेक्टिव
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जो 1970 के दशक की मियामी वाइस शैली को निर्माण स्थल पर भविष्य की 3D कंक्रीट प्रिंटिंग तकनीक के साथ जोड़ता है।
+
+#### 📝 Prompt
+
+```
+1970 के दशक की पुलिस डिटेक्टिव मियामी वाइस शैली, जो 3D कंक्रीट प्रिंटर्स के साथ एक निर्माण स्थल पर चल रही है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="3D प्रिंटर्स के साथ मियामी वाइस डिटेक्टिव">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9920)**
+
+**Author:** [LeBron Daniel](https://x.com/lebron3d) | **Source:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **Published:** Aug 26, 2026
+
+---
+### डायनामिक उल्कापात एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> चमकती हुई लकीरों और टिमटिमाते तारों के साथ उल्कापात बनाने के लिए एक विस्तृत एनीमेशन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+डायनामिक उल्कापात एनीमेशन: चमकीले उल्का और टूटते तारे लगातार रात के आकाश में विभिन्न दिशाओं में दौड़ रहे हैं, जो हरे और नीले रंग की चमकती लकीरें छोड़ रहे हैं, नए उल्का दिखाई दे रहे हैं और गिर रहे हैं, तारे धीरे-धीरे टिमटिमा रहे हैं, कैमरे में ऊपर की ओर सूक्ष्म बहाव है, ci...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="डायनामिक उल्कापात एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9927)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **Published:** Aug 26, 2026
+
+---
+### इंप्रेशनिस्ट गार्डन डकलिंग पेंटर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक शांत इंप्रेशनिस्ट वीडियो प्रॉम्प्ट जिसमें एक बत्तख का बच्चा पेंटर का एप्रन पहनकर धूप से खिले बगीचे की पेंटिंग बना रहा है, जिसे सहज गति और सॉफ्ट टेक्सचर के लिए डिज़ाइन किया गया है।
+
+#### 📝 Prompt
+
+```
+वीडियो के लिए स्टिल और प्रॉम्प्ट में, जैसे ही एक छोटी चिड़िया ईज़ल के ऊपर उड़ती है, दृश्य थोड़ा बाईं ओर खिसकता है।
+
+धूप से खिला हुआ एक इंप्रेशनिस्ट बगीचा, जो एक ही समय में फोटो-रियलिस्टिक और गीले ऑयल पेंट जैसा दिखता है: गाढ़ी क्रीम-गोल्ड रोशनी, ऐसी हरियाली जिसे आप फैला सकें, और सूरज खुद एक चमकदार गीला धब्बा जो अभी सूखा नहीं है। 1800 के दशक के अंत के पेंटर का एप्रन और अपनी जरूरत से बड़ी स्ट्रॉ हैट पहने एक छोटा सा बत्तख का बच्चा, घास में एक छोटे से ईज़ल पर खड़ा होकर बड़ी गंभीरता से उस सूरज को एक छोटे कैनवास पर पेंट कर रहा है। इम्पैस्टो सूरजमुखी, रास्ते में कैनवास का टेक्सचर, 1990 के दशक का फिल्मी ग्रेन। एक विचार: सूरज अभी भी गीला है, और पेंटिंग भी। सुंदर और थोड़ी मजाकिया।
+```
+
+<img src="https://cms-assets.youmind.com/media/1787828425376_09i2gr_HQpScBhWQAAYNxT.jpg" width="600" alt="इंप्रेशनिस्ट गार्डन डकलिंग पेंटर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
+
+**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092580518147617152) | **Published:** Aug 26, 2026
+
+---
+### शानदार हवेली का बैकग्राउंड बदलना
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सेटिंग ट्रांसफॉर्मेशन प्रॉम्प्ट जो समुद्र तट या नाव के बैकग्राउंड को एक विस्तृत, हाई-एंड हवेली पार्टी के माहौल से बदल देता है।
+
+#### 📝 Prompt
+
+```
+सेटिंग को समुद्र तट/नाव से बदलकर शानदार Playboy Mansion जैसा करें: भव्य वास्तुकला वाली आलीशान बहुमंजिला हवेली, ताड़ के पेड़, एक चमकता हुआ पूल, पार्टी लाइट्स और एक हाई-एंड पार्टी का माहौल
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="शानदार हवेली का बैकग्राउंड बदलना">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9922)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
+
+---
 ### रेड मरमेड गाउन फैशन रनवे
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +457,25 @@ Why use our gallery?
 **Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
 
 ---
+### विशाल अनानास काटती हुई लड़की
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें एक महिला दृश्य में प्रवेश करती है और एक विशाल अनानास को आधा काटती है, जिससे उसका पीला और रसीला अंदरूनी हिस्सा दिखाई देता है।
+
+#### 📝 Prompt
+
+```
+आकर्षक 23 वर्षीय लड़की दृश्य में आती है और अनानास को आधा काटती है, अंदर से पीला रसीला अनानास
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092450891580252160/img/c0BOWAW0nvo8h3hG.jpg" width="600" alt="विशाल अनानास काटती हुई लड़की">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9919)**
+
+**Author:** [seeksteve](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2092454370650591648) | **Published:** Aug 26, 2026
+
+---
 ### मार्शमैलो लाटे पर सोती हुई बिल्ली
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +493,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
 
 **Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
+
+---
+### सौम्य गति के साथ एक अलौकिक पोर्ट्रेट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ओडिसियस और पेनेलोप से प्रेरित, एक चरित्र की गहरी निष्ठा को दर्शाने वाला वीडियो प्रॉम्प्ट, जिसमें हल्की हवा और बालों की हलचल दिखाई गई है।
+
+#### 📝 Prompt
+
+```
+हवा धीरे से उसके लंबे बालों और उसकी लहराती पोशाक के घेरे को उठाती है, कोई बड़ी हलचल नहीं। वह ओडिसियस का सामना करने के लिए अपना सिर घुमाती है, एक चंचल लेकिन दृढ़ वफादार दृष्टि के साथ उसकी आँखों में देखती है। उसकी अभिव्यक्ति कोमल और भावपूर्ण है, होंठ थोड़े खुले हुए हैं, और आँखें शांत गर्मी और गहरी निष्ठा से भरी हुई हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092362822286032898/img/VBlJOLcS7ICgtbKs.jpg" width="600" alt="सौम्य गति के साथ एक अलौकिक पोर्ट्रेट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9930)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092362908936057342) | **Published:** Aug 25, 2026
 
 ---
 ### Rainbow Universe Sci-Fi प्रोटोटाइप का अनावरण
@@ -1836,291 +2123,6 @@ Odyssey की कहानी को एक मूवी ट्रेलर क
 **Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2089280594186260518) | **Published:** Aug 17, 2026
 
 ---
-### डायनामिक काउबॉय गन बैटल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक हाई-एक्शन वीडियो प्रॉम्प्ट जो गनस्लिंगर की लड़ाई को मज़ल फ्लैश, धुएं और विस्फोटों के साथ दर्शाता है।
-
-#### 📝 Prompt
-
-```
-डायनामिक काउबॉय गन बैटल एक्शन: गनस्लिंगर अपनी रिवॉल्वर से मज़ल फ्लैश और रिकॉइल के साथ फायर करता है, शरीर तनावपूर्ण है और आक्रामक रूप से आगे बढ़ रहा है, धूल और मलबा उड़ रहा है, उसके चारों ओर आग और धुएं के साथ विस्फोट हो रहे हैं, बुलेट ट्रेसर पास से गुजर रहे हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089242691355992064/img/1bHdhIT7WqmrCRl6.jpg" width="600" alt="डायनामिक काउबॉय गन बैटल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9317)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2089242763284062564) | **Published:** Aug 17, 2026
-
----
-### एलियन ग्रह पर फिगर स्केटर का वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> प्लेटिनम सुनहरे बालों वाली एक फिगर स्केटर का सिनेमैटिक वीडियो प्रॉम्प्ट, जो टूटते तारों से भरे आसमान के नीचे एक बर्फीले एलियन ग्रह पर ट्रिपल एक्सल जंप कर रही है।
-
-#### 📝 Prompt
-
-```
-एक बर्फीले एलियन ग्रह पर एक युवा महिला फिगर स्केटर का डायनामिक ट्रैकिंग शॉट। उसके बाल प्लेटिनम सुनहरे हैं जो एक टाइट बन में बंधे हैं और उसने गहरे इंडिगो रात के आसमान जैसी पोशाक पहनी है, जो अनगिनत छोटे स्टारडस्ट जैसे स्पार्कल से सजी है। वह टूटते तारों से भरे आसमान के नीचे एक विशाल आइस रिंक पर तेज गति से फिसल रही है। उसके चांदी के स्केटिंग जूते तारों और चमकती बर्फ को प्रतिबिंबित कर रहे हैं। जैसे ही उसकी गति बढ़ती है, वह एक शक्तिशाली ट्रिपल एक्सल जंप लेती है और हवा में खूबसूरती से घूमती है। वह चमकती बर्फ पर आसानी से लैंड करती है और तुरंत फिर से गति पकड़ लेती है, रिंक पर लंबी, चमकदार लकीरें छोड़ती है जबकि उसके चारों ओर और अधिक उल्कापिंड और टूटते तारे गिर रहे हैं। अल्ट्रा डिटेल्ड, सिनेमैटिक लाइटिंग, स्लो शटर मोशन ब्लर, डायनामिक कैमरा मूवमेंट, 4K, हाई फ्रेम रेट।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089241004939554816/img/2DDKiOQ2OHa_WOct.jpg" width="600" alt="एलियन ग्रह पर फिगर स्केटर का वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9323)**
-
-**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2089241259085095024) | **Published:** Aug 17, 2026
-
----
-### कैरेक्टर OOTD स्पिन वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक कैरेक्टर-केंद्रित प्रॉम्प्ट जो स्टैंडिंग पोज़, आउटफिट शोकेस और 360-डिग्री स्पिन जनरेट करता है।
-
-#### 📝 Prompt
-
-```
-Pami babyy खड़ी होकर अपना ootd दिखा रही है और हमें एक स्पिन दे रही है @adin ने उस बैडी (baddie) को बेच दिया
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089210935428931584/img/zpzq_iGtimQkkJ6L.jpg" width="600" alt="कैरेक्टर OOTD स्पिन वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9427)**
-
-**Author:** [dasickestmf2000](https://x.com/dasickestmwbwy) | **Source:** [Link](https://x.com/dasickestmwbwy/status/2089210970602389934) | **Published:** Aug 17, 2026
-
----
-### ड्रैगन सनसेट इंटरैक्शन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत और वायुमंडलीय वीडियो प्रॉम्प्ट, जिसमें सूर्यास्त के समय समुद्र तट पर एक ड्रैगन को एक महिला के हाथ की ओर अपना सिर झुकाते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-ड्रैगन का सिर धीरे-धीरे उसके खुले हाथ की ओर झुकता है, जिसके शल्क (scales) हल्की रोशनी में चमक रहे हैं, जबकि हवा धीरे से उसके लंबे बालों और उसकी लहराती हुई पोशाक के घेरे को उड़ा रही है, उसके पंख धीरे-धीरे फैलते हुए सूर्यास्त की चमक को पकड़ रहे हैं और समुद्र की लहरें शांति से आगे बढ़ रही हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089206770350661632/img/_tbJue-mFW2ri6O9.jpg" width="600" alt="ड्रैगन सनसेट इंटरैक्शन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9319)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2089206829905481906) | **Published:** Aug 17, 2026
-
----
-### ब्लैक होल स्टेलर कोलैप्स विज़ुअलाइज़ेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गुरुत्वाकर्षण विरूपण प्रभावों के साथ स्टेलर कोलैप्स (तारकीय पतन) के माध्यम से बनने वाले ब्लैक होल का एक अत्यधिक विस्तृत वैज्ञानिक विज़ुअलाइज़ेशन।
-
-#### 📝 Prompt
-
-```
-एक ब्लैक होल के निर्माण का विज़ुअलाइज़ेशन, जो स्टेलर कोलैप्स और फॉर्मेशन की गतिशील प्रक्रिया को गुरुत्वाकर्षण प्रभावों, इवेंट होराइजन की उपस्थिति और आसपास के स्पेसटाइम विरूपण के साथ दर्शाता है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089176062475304960/img/XSQhNbhdBc6cEEha.jpg" width="600" alt="ब्लैक होल स्टेलर कोलैप्स विज़ुअलाइज़ेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9424)**
-
-**Author:** [Criminalize Communisim](https://x.com/CommiesRTr8rs) | **Source:** [Link](https://x.com/CommiesRTr8rs/status/2089176086701638035) | **Published:** Aug 17, 2026
-
----
-### लावा बनाम लिक्विड नाइट्रोजन विज्ञान
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> लिक्विड नाइट्रोजन और गर्म लावा के बीच की प्रतिक्रिया का वैज्ञानिक विज़ुअलाइज़ेशन तैयार करने का एक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-क्या आप गर्म लावा के नीचे लिक्विड नाइट्रोजन का एक वीडियो बना सकते हैं और वैज्ञानिक रूप से दिखा सकते हैं कि क्या होता है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089163411523305472/img/BrYPHNshCaSx0uS0.jpg" width="600" alt="लावा बनाम लिक्विड नाइट्रोजन विज्ञान">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9422)**
-
-**Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089163426966712443) | **Published:** Aug 17, 2026
-
----
-### लिक्विड नाइट्रोजन बनाम लावा विज्ञान
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वैज्ञानिक विज़ुअलाइज़ेशन प्रॉम्प्ट जो वीडियो प्रारूप में लिक्विड नाइट्रोजन और लावा के बीच की प्रतिक्रिया को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-क्या आप लावा में लिक्विड नाइट्रोजन का एक वीडियो बना सकते हैं और वैज्ञानिक रूप से दिखा सकते हैं कि क्या होता है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089161865905512449/img/KRdf0ATk0pne8X6l.jpg" width="600" alt="लिक्विड नाइट्रोजन बनाम लावा विज्ञान">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9418)**
-
-**Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089161883773190169) | **Published:** Aug 17, 2026
-
----
-### हेल्दी कुकिंग शेफ सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो एक शेफ को ताजी सब्जियों और प्रोटीन से भरी मेज से स्वस्थ, पौष्टिक व्यंजन बनाते हुए दर्शाता है।
-
-#### 📝 Prompt
-
-```
-सब्जियों, स्वस्थ वसा और प्रोटीन से भरी एक मेज तैयार करें। फिर एक शेफ को उनसे कैंसर मुक्त स्वस्थ जीवन के लिए स्वादिष्ट व्यंजन बनाते हुए दिखाएं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089107807509307392/img/9huUvi3C3SnhiyjO.jpg" width="600" alt="हेल्दी कुकिंग शेफ सीक्वेंस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9318)**
-
-**Author:** [RexCesar](https://x.com/CesarCRDZO) | **Source:** [Link](https://x.com/CesarCRDZO/status/2089107819928617031) | **Published:** Aug 16, 2026
-
----
-### शानदार साइबॉर्ग न्यूरोमैंसर वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें न्यूरोमैंसर एस्थेटिक के साथ एक शानदार साइबॉर्ग, चमकती नियॉन लाइटें और जर्की स्टेजिंग दिखाई गई है।
-
-#### 📝 Prompt
-
-```
-Glamorous Cyborg Neuromancer, 4k rgb, acescg, jerky staging, flashing neon, अंग्रेजी में
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089058933943959552/img/_jy2ylbJWDVyQqW8.jpg" width="600" alt="शानदार साइबॉर्ग न्यूरोमैंसर वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9324)**
-
-**Author:** [Noreen.Kh](https://x.com/NKh2to) | **Source:** [Link](https://x.com/NKh2to/status/2089059103620399462) | **Published:** Aug 16, 2026
-
----
-### Cosmic Vortex Goddess Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> अंतरिक्ष भंवर, ग्रहों के पुनर्संरेखण और एक अलौकिक देवी से जुड़ा एक जटिल सिनेमैटिक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-अंतरिक्ष में भंवर चुनें, महिला की तस्वीर जोड़ें। अलौकिक प्रभाव। अचानक ब्रह्मांडीय विस्फोट, ग्रह पुनर्संरेखित हो रहे हैं। देवी प्रकट होती है और काले कपड़े पहने महिला को पकड़ लेती है....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089048801910648832/img/2NYJGKZdeIAeRuq-.jpg" width="600" alt="Cosmic Vortex Goddess Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9316)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2089048819044319433) | **Published:** Aug 16, 2026
-
----
-### घूमते हुए चॉकलेट केक का एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक घूमते हुए चॉकलेट केक के लिए वीडियो प्रॉम्प्ट, जो छह टुकड़ों में विभाजित होकर वापस जुड़ जाता है।
-
-#### 📝 Prompt
-
-```
-ठीक है, क्या हम इस खूबसूरत केक को घुमा सकते हैं और फिर इसे छह टुकड़ों में विभाजित करके वापस जोड़ सकते हैं, और फिर हम कहेंगे चॉकलेट, कोको का पावरहाउस
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088989322754027520/img/o_ENLd8I77PIPk86.jpg" width="600" alt="घूमते हुए चॉकलेट केक का एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9321)**
-
-**Author:** [Amandasatiro](https://x.com/Amandasatiro07) | **Source:** [Link](https://x.com/Amandasatiro07/status/2088989343478079969) | **Published:** Aug 16, 2026
-
----
-### यथार्थवादी चलने की गति
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> शहरी फुटपाथ पर प्राकृतिक शारीरिक भौतिकी और कैमरा ट्रैकिंग के साथ एक यथार्थवादी वॉकिंग सीक्वेंस के लिए एक विस्तृत वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-आदमी आत्मविश्वास और सहज चाल के साथ कैमरे की ओर स्वाभाविक रूप से आगे बढ़ता है, हाथ स्वतंत्र रूप से हिल रहे हैं, पैर लगातार कदम बढ़ा रहे हैं, हल्की कैमरा ट्रैकिंग आगे की ओर, कपड़ों की यथार्थवादी हलचल, प्राकृतिक शारीरिक भौतिकी, धूप वाला शहरी फुटपाथ का वातावरण...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088977139886391296/img/ARSqffLf07_D17iR.jpg" width="600" alt="यथार्थवादी चलने की गति">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9313)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2088977165786173691) | **Published:** Aug 16, 2026
-
----
-### जिम सेल्फी मोशन वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सूक्ष्म प्राकृतिक गतिविधियों के साथ एक स्टाइलिश जिम सेल्फी के लिए एक फोटो-रियलिस्टिक वीडियो जनरेशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-काली Nike शर्ट पहने एक युवक जिम में स्टाइलिश साइड-व्यू सेल्फी के लिए अकेले पोज़ दे रहा है। वह सूक्ष्म प्राकृतिक गतिविधियाँ करता है, सिर को थोड़ा घुमाता है, आत्मविश्वास से भरा चेहरा, शरीर में हल्की हलचल, कूल फ्लोरोसेंट लाइटिंग, फोटो-रियलिस्टिक सोशल मीडिया वाइब।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088965651302080513/img/g14zM-lDzIGlKRRR.jpg" width="600" alt="जिम सेल्फी मोशन वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9320)**
-
-**Author:** [GOTC](https://x.com/gotcbaby) | **Source:** [Link](https://x.com/gotcbaby/status/2088965668519678384) | **Published:** Aug 16, 2026
-
----
-### ओनिक्स जेमस्टोन क्रो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> रत्न से तराशे गए एक कौवे के लिए एक शानदार वीडियो प्रॉम्प्ट, जो जटिल चांदी की नक्काशी के साथ अपने पंख फैला रहा है।
-
-#### 📝 Prompt
-
-```
-पूरी तरह से पॉलिश किए गए काले ओनिक्स रत्न से तराशा गया एक राजसी कौवा, जो एक वीरतापूर्ण मुद्रा में अपने पंख मजबूती से फैला रहा है, उसके शरीर, पंखों और परों पर जटिल चांदी की नक्काशी और अलंकृत पैटर्न उकेरे गए हैं, तीखे और स्पष्ट किनारे जो क्रिस्टल की तरह चमक रहे हैं...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088939136220897280/img/Pf0wfssd_bVrY95P.jpg" width="600" alt="ओनिक्स जेमस्टोन क्रो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9315)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2088939174762348704) | **Published:** Aug 16, 2026
-
----
-### Dora और Team Umizoomi का बचाव अभियान
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक एक्शन से भरपूर प्रॉम्प्ट, जिसमें लोकप्रिय एनिमेटेड पात्र एक विलेन के खिलाफ बचाव अभियान में शामिल हैं।
-
-#### 📝 Prompt
-
-```
-Dora मदद के लिए बुला रही है और Team Umizoomi उसे दुष्ट विलेन से बचाने के लिए जा रही है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088878314932850688/img/qrMNu7fUj6bNvrDe.jpg" width="600" alt="Dora और Team Umizoomi का बचाव अभियान">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9241)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **Published:** Aug 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2182,6 +2184,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-27T09:05:55.670Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-27T22:28:56.867Z</sub>
 
 </div>

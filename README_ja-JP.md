@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2598** |
+| 📝 プロンプト総数 | **2613** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-08-27** |
 
@@ -189,6 +189,255 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### SpaceX 月面基地植民化アニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> SpaceX による月面基地での植民化ミッションをテーマにした、未来的なビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+SpaceX のフォージクルーが MrFIXitX 月面基地の植民化に向けて、登録者が設計したペイロードを使用してシミュレーター訓練を行い、それを実装する
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092905690440335361/img/n_JS-saIe54EGm5o.jpg" width="600" alt="SpaceX 月面基地植民化アニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9931)**
+
+**作者:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **ソース:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **公開日:** Aug 27, 2026
+
+---
+### 顔を噛むバブルアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ある人物が別の人物の顔を噛み、そこからガムの風船が膨らむというシュールな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+左側の人物の頭部を右側の人物が噛みつき、そこから大きなガムの風船を膨らませる様子を描写してください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="顔を噛むバブルアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9929)**
+
+**作者:** [#vandehigh](https://x.com/vandehigh) | **ソース:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **公開日:** Aug 27, 2026
+
+---
+### 二足歩行の生命体と山の頂
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 霧に包まれた山の頂に立つ、白い肉体を持つ生命体を描いたダークファンタジー風のビデオプロンプト。有機的な動きが特徴です。
+
+#### 📝 プロンプト
+
+```
+完全に形成された二足歩行の白い肉体を持つ生命体が頂上に立ち、ゆっくりと首を回して霧深い山々を見渡す。有機的な組織が変形し滴り落ちる様子や、大気中の風と霧の動きを表現。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="二足歩行の生命体と山の頂">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9923)**
+
+**作者:** [BecauseGIU*](https://x.com/BecausGIU) | **ソース:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **公開日:** Aug 27, 2026
+
+---
+### 空から降ってくるアニマルおもちゃ箱
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 箱が空から落ちてきて、中から様々なおもちゃの動物や乗り物が飛び出すビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+箱が空から落ちてきて芝生の上で壊れ、箱の中からランダムな海の動物のおもちゃ 5 個、野生動物のおもちゃ 5 個、農場の動物のおもちゃ 5 個、おもちゃのトラクター 2 台、クラシックカーのおもちゃ 5 台、ランダムなチャーム 5 個（ブラケットタイプ）が飛び出す
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="空から降ってくるアニマルおもちゃ箱">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9932)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **公開日:** Aug 27, 2026
+
+---
+### 猫のファッションモデル、ランウェイを歩く
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ベルベットのコートを着た猫が、紳士のように人間モデルと並んでファッションランウェイを歩く様子を描写した、映画のような詳細なビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+カメラはランウェイのワイドショットから始まる。ベルベットのコートを着た猫が後ろ足で前進し、片方の前足でモデルの手を握り、もう片方の前足を腰に軽く添えている。頭を高く上げ、顎を突き出し、歩くたびに尻尾を揺らしている。モデルはドレスをなびかせながら、顎を上げて猫の横を優雅に歩く。ランウェイの先端に到達すると、猫は観客の方を向いてゆっくりと意図的に瞬きをし、それからモデルを見上げて小さく得意げな笑みを浮かべる。彼は紳士のようにモデルの手を握り直し、二人で向きを変えて歩き出す。猫の小さなブーツがランウェイでカチカチと音を立てている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="猫のファッションモデル、ランウェイを歩く">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9926)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **公開日:** Aug 26, 2026
+
+---
+### サラトガ競馬場の夢
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> サラトガ競馬場で行われる特定のレースを描写した動画を生成します。第 1 レースの 5 番の馬に焦点を当てます。
+
+#### 📝 プロンプト
+
+```
+8 月 27 日に有名なサラトガ競馬場で開催される、ロリの夢のレース。第 1 レースの 5 番の馬。馬のゼッケン 5 番を強調してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="サラトガ競馬場の夢">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9921)**
+
+**作者:** [Ron Lundenberg](https://x.com/rlunden) | **ソース:** [Link](https://x.com/rlunden/status/2092720610602364995) | **公開日:** Aug 26, 2026
+
+---
+### ドイツのオタクコメディシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 映画『Revenge of the Nerds』のワンシーンにキャラクターを登場させる、言葉の壁をテーマにしたユーモアあふれる動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+この人物を映画『Revenge of the Nerds』のワンシーンに登場させてください。ただし、彼には強いドイツ語訛りがあり、周囲の誰にも言葉が通じません。周りの人たちは皆、困惑した表情を浮かべています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="ドイツのオタクコメディシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9925)**
+
+**作者:** [Ken Simpson](https://x.com/ttul) | **ソース:** [Link](https://x.com/ttul/status/2092708814281978175) | **公開日:** Aug 26, 2026
+
+---
+### テレパシーによるコミュニケーションが行き交う街角
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 賑やかな街角で、人々の頭上に浮かぶ吹き出しとして思考を可視化したビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+街角で目にするテレパシーによるコミュニケーション。人々の頭上にはテキスト入りの吹き出しが浮かんでいる。また、誰かが不正にあなたの脳にアクセスし、アイデアを含む知的財産を盗み出そうとする際の感覚を表現している。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="テレパシーによるコミュニケーションが行き交う街角">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9933)**
+
+**作者:** [Austin Gibson](https://x.com/5pazzisAlive) | **ソース:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **公開日:** Aug 26, 2026
+
+---
+### 火星の砂嵐のシネマティック映像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 火星の表面をゆっくりと移動するカメラワークと、風に舞う砂嵐を描写した詳細な雰囲気重視のプロンプト。
+
+#### 📝 プロンプト
+
+```
+広大な火星の地表をゆっくりと移動するシネマティックなカメラワーク、穏やかな風が赤みがかった細かい砂や塵を砂丘や岩場に巻き上げ、大気の霞がかすかに揺らめく様子、遠くの砂雲が霞んだオレンジ色の空の下でゆっくりと渦巻く、フォトリアルな映像
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="火星の砂嵐のシネマティック映像">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9924)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **公開日:** Aug 26, 2026
+
+---
+### 3D プリンターを駆使するマイアミ・バイス風の刑事
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1970 年代の「マイアミ・バイス」のスタイルと、建設現場における未来的な 3D コンクリートプリント技術を融合させた動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+1970 年代の刑事「マイアミ・バイス」スタイルで、3D コンクリートプリンターが稼働する建設現場を歩く様子
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="3D プリンターを駆使するマイアミ・バイス風の刑事">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9920)**
+
+**作者:** [LeBron Daniel](https://x.com/lebron3d) | **ソース:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **公開日:** Aug 26, 2026
+
+---
+### ダイナミックな流星群のアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 輝く軌跡と瞬く星々を伴う流星群を作成するための詳細なアニメーションプロンプトです。
+
+#### 📝 プロンプト
+
+```
+ダイナミックな流星群のアニメーション：明るい流星や流れ星が、緑や青の輝く軌跡を残しながら、夜空をさまざまな方向に絶え間なく横切る。新しい流星が現れては降り注ぎ、星々が優しく瞬く。カメラはわずかに上方へドリフトする。ci...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="ダイナミックな流星群のアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9927)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **公開日:** Aug 26, 2026
+
+---
+### 印象派の庭で絵を描くアヒルの子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 画家のスモックを着て陽光あふれる庭を描くアヒルの子をテーマにした、穏やかな印象派スタイルの動画プロンプト。滑らかな動きと柔らかな質感を表現するように設計されています。
+
+#### 📝 プロンプト
+
+```
+動画の静止画とプロンプトでは、小さな小鳥がイーゼルの上を飛ぶにつれて、わずかに左へ動きます。
+
+陽光が降り注ぐ印象派の庭。フォトリアルでありながら、濡れた油絵の具の質感を併せ持っています。厚みのあるクリームゴールドの光、塗り広げられたような緑、そしてまだ乾いていない明るく濡れた絵の具のような太陽。1800 年代後半の画家のスモックと、少し大きすぎる麦わら帽子を身につけた小さなアヒルの子が、草むらに置かれたミニチュアのイーゼルの前に立ち、小さなキャンバスに太陽を真剣に描いています。インパスト技法で描かれたひまわり、小道のキャンバスの質感、1990 年代のフィルムのような粒子感。コンセプト：太陽はまだ濡れており、絵画も同様に濡れている。美しく、そして少し愛らしい光景です。
+```
+
+<img src="https://cms-assets.youmind.com/media/1787828425376_09i2gr_HQpScBhWQAAYNxT.jpg" width="600" alt="印象派の庭で絵を描くアヒルの子">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9928)**
+
+**作者:** [Lucy](https://x.com/princess414141) | **ソース:** [Link](https://x.com/princess414141/status/2092580518147617152) | **公開日:** Aug 26, 2026
+
+---
+### 豪華な邸宅への背景変更
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ビーチやボートの背景を、詳細で高級感のある邸宅パーティーの雰囲気に置き換えるための設定変換プロンプトです。
+
+#### 📝 プロンプト
+
+```
+背景をビーチやボートから豪華な Playboy Mansion に変更：壮大な建築様式の優雅な多層階の邸宅、ヤシの木、きらめくプール、パーティーライト、そして高級感あふれるパーティーの雰囲気
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="豪華な邸宅への背景変更">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9922)**
+
+**作者:** [Ami A](https://x.com/AA63782) | **ソース:** [Link](https://x.com/AA63782/status/2092525163887853620) | **公開日:** Aug 26, 2026
+
+---
 ### 赤いマーメイドドレスのファッションランウェイ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +457,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **作者:** [Esther Santana](https://x.com/esther_san41998) | **ソース:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **公開日:** Aug 26, 2026
 
 ---
+### 巨大なパイナップルを切る女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 女性が画面に登場し、巨大なパイナップルを半分に切ると、中から黄色く瑞々しい果肉が現れるというシネマティックな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+魅力的な 23 歳の女性が画面に登場し、パイナップルを半分に切る。中からは黄色く瑞々しいパイナップルの果肉が見える
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092450891580252160/img/c0BOWAW0nvo8h3hG.jpg" width="600" alt="巨大なパイナップルを切る女性">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9919)**
+
+**作者:** [seeksteve](https://x.com/seeksteve) | **ソース:** [Link](https://x.com/seeksteve/status/2092454370650591648) | **公開日:** Aug 26, 2026
+
+---
 ### マシュマロラテの上で眠る猫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +493,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9854)**
 
 **作者:** [Maxime](https://x.com/Maxime887812) | **ソース:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **公開日:** Aug 25, 2026
+
+---
+### 穏やかな動きを伴う幻想的なポートレート
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> オデュッセウスとペネロペにインスパイアされた、柔らかな風と髪の揺れでキャラクターの深い献身を捉えたビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+風が彼女の長い髪と流れるようなドレスの裾を優しくなびかせる。大きな動きはなく、彼女はオデュッセウスの方を向き、遊び心がありながらもひたむきな眼差しで彼と視線を合わせる。彼女の表情は柔らかく、熱を帯びており、唇はわずかに開かれ、瞳は静かな情熱と深い献身に満ちている
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092362822286032898/img/VBlJOLcS7ICgtbKs.jpg" width="600" alt="穏やかな動きを伴う幻想的なポートレート">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9930)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2092362908936057342) | **公開日:** Aug 25, 2026
 
 ---
 ### Rainbow Universe SF プロトタイプ公開
@@ -1836,291 +2123,6 @@ SpaceX によって Starbase から同時に打ち上げられる、皇帝 Kekiu
 **作者:** [Kim Maria](https://x.com/KimMaria8ry) | **ソース:** [Link](https://x.com/KimMaria8ry/status/2089280594186260518) | **公開日:** Aug 17, 2026
 
 ---
-### ダイナミックなカウボーイの銃撃戦
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> マズルフラッシュ、煙、爆発を伴う銃撃戦を繰り広げるガンマンを描いた、アクション性の高いビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-ダイナミックなカウボーイの銃撃戦アクション：ガンマンがリボルバーを発砲し、マズルフラッシュと反動が生じる。体は緊張し、攻撃的に前進する。周囲では土埃や破片が舞い、炎と煙を伴う爆発が起こり、弾丸の曳光弾が飛び交う。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089242691355992064/img/1bHdhIT7WqmrCRl6.jpg" width="600" alt="ダイナミックなカウボーイの銃撃戦">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9317)**
-
-**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **ソース:** [Link](https://x.com/KaungMyat635/status/2089242763284062564) | **公開日:** Aug 17, 2026
-
----
-### 異星の惑星でフィギュアスケートをする動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> プラチナブロンドの髪をしたフィギュアスケーターが、流れ星が降り注ぐ異星の氷の惑星でトリプルアクセルを跳ぶ、映画のような動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-異星の氷の惑星で、若い女性フィギュアスケーターを追うダイナミックなトラッキングショット。彼女はプラチナブロンドの髪をタイトなお団子にまとめ、無数の小さな星屑のような輝きで飾られた、深い藍色の夜空のような衣装を身にまとっている。彼女は流れ星で満たされた空の下、広大な氷のリンクを高速で滑走する。銀色のスケート靴が星々と光る氷を反射する。スピードに乗った彼女は力強いトリプルアクセルへと踏み切り、空中で優雅に回転する。光る氷の上に滑らかに着氷すると、すぐに再び加速し、周囲に流星や流れ星が降り注ぐ中、リンクに長く鮮やかな軌跡を描く。超高精細、映画のようなライティング、スローシャッターによるモーションブラー、ダイナミックなカメラワーク、4K、ハイフレームレート。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089241004939554816/img/2DDKiOQ2OHa_WOct.jpg" width="600" alt="異星の惑星でフィギュアスケートをする動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9323)**
-
-**作者:** [おもも桃](https://x.com/omomomomo0309) | **ソース:** [Link](https://x.com/omomomomo0309/status/2089241259085095024) | **公開日:** Aug 17, 2026
-
----
-### キャラクターの OOTD スピン動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 立ち姿やコーディネートの紹介、360 度の回転動作を生成するキャラクター特化型のプロンプトです。
-
-#### 📝 プロンプト
-
-```
-Pami babyy が立ち上がり、OOTD を披露して 360 度回転する様子。adin がそのバディ（baddie）な魅力を引き出しています
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089210935428931584/img/zpzq_iGtimQkkJ6L.jpg" width="600" alt="キャラクターの OOTD スピン動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9427)**
-
-**作者:** [dasickestmf2000](https://x.com/dasickestmwbwy) | **ソース:** [Link](https://x.com/dasickestmwbwy/status/2089210970602389934) | **公開日:** Aug 17, 2026
-
----
-### ドラゴンと夕日のインタラクション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夕暮れのビーチで、ドラゴンが女性の手に頭を近づける様子を描いた、詳細で雰囲気のあるビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-ドラゴンの頭がゆっくりと彼女の開いた手に向かって下がり、鱗が柔らかな光を反射してきらめいている。風が彼女の長い髪と流れるようなドレスの裾を優しくなびかせ、ドラゴンの翼が静かに広がり夕日の輝きを捉える中、波が静かに打ち寄せている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089206770350661632/img/_tbJue-mFW2ri6O9.jpg" width="600" alt="ドラゴンと夕日のインタラクション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9319)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2089206829905481906) | **公開日:** Aug 17, 2026
-
----
-### ブラックホールの恒星崩壊シミュレーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 恒星の崩壊によってブラックホールが形成される過程を、重力による歪みのエフェクトと共に詳細に再現した科学的ビジュアライゼーションです。
-
-#### 📝 プロンプト
-
-```
-ブラックホールが誕生する過程を可視化したコンテンツです。恒星が崩壊して形成されるダイナミックなプロセスに加え、重力の影響、事象の地平線の様子、そして周囲の時空の歪みを詳細に表現しています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089176062475304960/img/XSQhNbhdBc6cEEha.jpg" width="600" alt="ブラックホールの恒星崩壊シミュレーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9424)**
-
-**作者:** [Criminalize Communisim](https://x.com/CommiesRTr8rs) | **ソース:** [Link](https://x.com/CommiesRTr8rs/status/2089176086701638035) | **公開日:** Aug 17, 2026
-
----
-### 溶岩 vs 液体窒素の科学
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 液体窒素と高温の溶岩が接触した際の反応を科学的に可視化するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-高温の溶岩の下に液体窒素がある状態の動画を作成し、科学的に何が起こるかを見せてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089163411523305472/img/BrYPHNshCaSx0uS0.jpg" width="600" alt="溶岩 vs 液体窒素の科学">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9422)**
-
-**作者:** [Racha Zeidan](https://x.com/rachazeidan) | **ソース:** [Link](https://x.com/rachazeidan/status/2089163426966712443) | **公開日:** Aug 17, 2026
-
----
-### 液体窒素 vs 溶岩の科学
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 液体窒素と溶岩が反応する様子を科学的に可視化したビデオ生成用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-液体窒素を溶岩にかけた際に起こる現象を、科学的な視点で解説するビデオを作成してください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089161865905512449/img/KRdf0ATk0pne8X6l.jpg" width="600" alt="液体窒素 vs 溶岩の科学">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9418)**
-
-**作者:** [Racha Zeidan](https://x.com/rachazeidan) | **ソース:** [Link](https://x.com/rachazeidan/status/2089161883773190169) | **公開日:** Aug 17, 2026
-
----
-### ヘルシー料理を作るシェフのシークエンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 新鮮な野菜やタンパク質が並ぶテーブルから、シェフが健康的で栄養価の高い料理を作り上げる過程を描いたビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-野菜、良質な脂質、タンパク質でいっぱいのテーブルを用意してください。そして、シェフがそれらを使って、がんを予防する健康的な生活のための美味しい料理を作る様子を描写してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089107807509307392/img/9huUvi3C3SnhiyjO.jpg" width="600" alt="ヘルシー料理を作るシェフのシークエンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9318)**
-
-**作者:** [RexCesar](https://x.com/CesarCRDZO) | **ソース:** [Link](https://x.com/CesarCRDZO/status/2089107819928617031) | **公開日:** Aug 16, 2026
-
----
-### 魅惑的なサイボーグ・ニューロマンサーの動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ニューロマンサーの美学を取り入れた、魅惑的なサイボーグが登場するシネマティックな動画プロンプト。点滅するネオンライトと、あえてぎこちなく演出された動きが特徴です。
-
-#### 📝 プロンプト
-
-```
-Glamorous Cyborg Neuromancer, 4k rgb, acescg, jerky staging, flashing neon, 英語
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089058933943959552/img/_jy2ylbJWDVyQqW8.jpg" width="600" alt="魅惑的なサイボーグ・ニューロマンサーの動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9324)**
-
-**作者:** [Noreen.Kh](https://x.com/NKh2to) | **ソース:** [Link](https://x.com/NKh2to/status/2089059103620399462) | **公開日:** Aug 16, 2026
-
----
-### コズミック・ボルテックス・ゴッデス動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 宇宙の渦、再配置される惑星、そして神秘的な女神が登場する、複雑でシネマティックなプロンプト。
-
-#### 📝 プロンプト
-
-```
-宇宙の渦を選択し、女性の画像を追加する。神秘的なエフェクト。突然の宇宙的な爆発と惑星の再配置。女神が現れ、黒い服を着た女性を掴む……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089048801910648832/img/2NYJGKZdeIAeRuq-.jpg" width="600" alt="コズミック・ボルテックス・ゴッデス動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9316)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2089048819044319433) | **公開日:** Aug 16, 2026
-
----
-### 回転するチョコレートケーキのアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 回転しながら 6 つのピースに分かれ、再び元に戻るチョコレートケーキのビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-この美しいケーキを回転させてから 6 つのピースに分割し、再び元通りに組み立てることはできますか？その後、「チョコレート、パワーハウス・ココア」というナレーションを入れてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088989322754027520/img/o_ENLd8I77PIPk86.jpg" width="600" alt="回転するチョコレートケーキのアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9321)**
-
-**作者:** [Amandasatiro](https://x.com/Amandasatiro07) | **ソース:** [Link](https://x.com/Amandasatiro07/status/2088989343478079969) | **公開日:** Aug 16, 2026
-
----
-### リアルな歩行動作
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 都市の歩道における、自然な身体物理演算とカメラトラッキングを伴うリアルな歩行シークエンスのための詳細なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-男性が自信に満ちた滑らかな足取りでカメラに向かって自然に前進する。腕は自由に振り、脚は絶え間なく歩調を刻む。わずかに前進するカメラトラッキング、リアルな衣服の動き、自然な身体物理演算、晴れた都市の歩道環境...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088977139886391296/img/ARSqffLf07_D17iR.jpg" width="600" alt="リアルな歩行動作">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9313)**
-
-**作者:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **ソース:** [Link](https://x.com/Yesyesyes_OK/status/2088977165786173691) | **公開日:** Aug 16, 2026
-
----
-### ジムでの自撮りモーション動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ジムでのスタイリッシュな自撮りを、自然な動きを加えてフォトリアルに生成するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-黒い Nike のシャツを着た若い男性が、ジムでスタイリッシュな横顔の自撮りをしている。わずかな頭の動きや自信に満ちた表情、自然な体の揺れなど、繊細でリアルな動作を加える。クールな蛍光灯の照明で、SNS 映えするフォトリアルな雰囲気。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088965651302080513/img/g14zM-lDzIGlKRRR.jpg" width="600" alt="ジムでの自撮りモーション動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9320)**
-
-**作者:** [GOTC](https://x.com/gotcbaby) | **ソース:** [Link](https://x.com/gotcbaby/status/2088965668519678384) | **公開日:** Aug 16, 2026
-
----
-### オニキス製のカラス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 宝石で彫刻されたカラスが、精巧な銀のフィリグリー細工を纏い、翼を広げる壮大なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-磨き上げられた黒いオニキス宝石で彫刻された壮大なカラスが、英雄的なポーズで力強く翼を広げている。その体、羽、翼には精巧な銀のフィリグリー細工と華麗な模様が刻まれ、鋭く強調されたエッジがクリスタルのような輝きを放つ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088939136220897280/img/Pf0wfssd_bVrY95P.jpg" width="600" alt="オニキス製のカラス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9315)**
-
-**作者:** [Apple](https://x.com/Apple0816799221) | **ソース:** [Link](https://x.com/Apple0816799221/status/2088939174762348704) | **公開日:** Aug 16, 2026
-
----
-### ドーラとチーム・ウミズーミのレスキュー大作戦
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 人気アニメのキャラクターたちが悪役から仲間を救い出す、アクション満載のプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ドーラが助けを求めており、チーム・ウミズーミが邪悪な悪役から彼女を救いに行く
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088878314932850688/img/qrMNu7fUj6bNvrDe.jpg" width="600" alt="ドーラとチーム・ウミズーミのレスキュー大作戦">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9241)**
-
-**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **ソース:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **公開日:** Aug 16, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2182,6 +2184,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-27T09:05:49.929Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-27T22:28:53.338Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2598** |
+| 📝 提示词总数 | **2613** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-08-27** |
 
@@ -189,6 +189,255 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### SpaceX 月球基地殖民动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于 SpaceX 月球基地殖民任务的未来感视频提示词。
+
+#### 📝 提示词
+
+```
+SpaceX 锻造团队前往 MrFIXitX 月球基地进行殖民，携带由订阅者模拟器训练设计的有效载荷，随后执行实施
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092905690440335361/img/n_JS-saIe54EGm5o.jpg" width="600" alt="SpaceX 月球基地殖民动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9931)**
+
+**作者:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **来源:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **发布时间:** Aug 27, 2026
+
+---
+### 咬脸泡泡动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个超现实的视频提示词：一个人影咬住另一个人影的脸，并吹出一个泡泡糖泡泡。
+
+#### 📝 提示词
+
+```
+让左侧人影的头部咬住右侧人影的脸，并从他口中吹出一个巨大的泡泡糖泡泡
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="咬脸泡泡动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9929)**
+
+**作者:** [#vandehigh](https://x.com/vandehigh) | **来源:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **发布时间:** Aug 27, 2026
+
+---
+### 双足生物山峰
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段细腻的暗黑奇幻视频提示词，描绘了一个位于雾气缭绕的山峰之上、动作具有有机质感的白色肉体生物。
+
+#### 📝 提示词
+
+```
+形态完整的双足白色肉体生物伫立在山峰之上，缓慢转头俯瞰云雾缭绕的群山，有机组织随之位移并滴落，伴随着大气风流与雾气涌动。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="双足生物山峰">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9923)**
+
+**作者:** [BecauseGIU*](https://x.com/BecausGIU) | **来源:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **发布时间:** Aug 27, 2026
+
+---
+### 天降动物玩具盒
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频提示词：一个盒子从天而降，落在草地上并打开，从中弹出了各种动物玩具和车辆玩具。
+
+#### 📝 提示词
+
+```
+盒子从天而降，在草地上摔开，盒子里弹出了 5 个随机海洋动物玩具、5 个随机野生动物玩具、5 个随机农场动物玩具、2 个拖拉机玩具、5 个经典小汽车玩具以及 5 个随机挂件（支架式挂件）。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="天降动物玩具盒">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9932)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **发布时间:** Aug 27, 2026
+
+---
+### 猫咪时尚模特走秀
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的电影级视频提示词，描述了一只身穿天鹅绒外套的猫咪像绅士一样与人类模特共同走上时尚 T 台的场景。
+
+#### 📝 提示词
+
+```
+镜头以广角开场，展示整个 T 台。身穿天鹅绒外套的猫咪用后腿向前行走，一只爪子牵着模特的手，另一只爪子轻搭在腰间。它昂首挺胸，下巴微抬，尾巴随着步伐轻轻摆动。模特在它身旁优雅滑行，下巴高昂，长裙飘逸。当它们走到 T 台尽头时，猫咪转过头，对着人群缓慢而从容地眨了眨眼，随后带着一丝得意的小微笑看向模特。它像绅士一样调整了握住模特的手，随后它们一起转身往回走，它脚上的小靴子在 T 台上发出清脆的响声。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="猫咪时尚模特走秀">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9926)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **发布时间:** Aug 26, 2026
+
+---
+### Saratoga 赛马梦
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段描绘 Saratoga 赛马场特定赛事的视频，重点展示第一场比赛中的 5 号赛马。
+
+#### 📝 提示词
+
+```
+Lori 的梦想是在 8 月 27 日著名的 Saratoga 赛马场第一场比赛中，展示 5 号赛马，并清晰呈现马身上的 5 号数字。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="Saratoga 赛马梦">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9921)**
+
+**作者:** [Ron Lundenberg](https://x.com/rlunden) | **来源:** [Link](https://x.com/rlunden/status/2092720610602364995) | **发布时间:** Aug 26, 2026
+
+---
+### 德国书呆子喜剧场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个创意视频提示词，将角色置于电影《Revenge of the Nerds》的场景中，并加入幽默的语言障碍元素。
+
+#### 📝 提示词
+
+```
+将这个人放入电影《Revenge of the Nerds》的一个场景中。但他带着浓重的德国口音，没人能听懂他在说什么。每个人看起来都一脸困惑。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="德国书呆子喜剧场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9925)**
+
+**作者:** [Ken Simpson](https://x.com/ttul) | **来源:** [Link](https://x.com/ttul/status/2092708814281978175) | **发布时间:** Aug 26, 2026
+
+---
+### 心灵感应沟通的城市街道
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段视频提示词，旨在可视化呈现繁忙城市街道中人们头顶上方如气泡般的文字思想。
+
+#### 📝 提示词
+
+```
+在城市街道上看到的心灵感应沟通，表现为人们头顶上方带有文字的气泡；同时也展现了当某人非法入侵你的大脑，窃取包括你的创意在内的知识产权时的那种感觉。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="心灵感应沟通的城市街道">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9933)**
+
+**作者:** [Austin Gibson](https://x.com/5pazzisAlive) | **来源:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **发布时间:** Aug 26, 2026
+
+---
+### 火星沙尘暴电影感画面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的氛围提示词，描述了摄像机在火星表面缓慢平移，伴随风吹和沙尘飞扬的场景。
+
+#### 📝 提示词
+
+```
+摄像机在广阔的火星地貌上缓慢平移，呈现出电影般的质感；微风吹拂，细小的红色沙尘在沙丘和岩石地形间翻滚；大气层中的薄雾微妙地变幻，远处的沙尘云在橙色的朦胧天空下缓慢旋转，画面具有照片级的真实感
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="火星沙尘暴电影感画面">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9924)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **发布时间:** Aug 26, 2026
+
+---
+### 迈阿密风云侦探与 3D 打印机
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段视频提示词，将 20 世纪 70 年代的《迈阿密风云》风格与建筑工地上未来派的 3D 混凝土打印技术相结合。
+
+#### 📝 提示词
+
+```
+20 世纪 70 年代《迈阿密风云》风格的警探在建筑工地上行走，旁边有 3D 混凝土打印机
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="迈阿密风云侦探与 3D 打印机">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9920)**
+
+**作者:** [LeBron Daniel](https://x.com/lebron3d) | **来源:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **发布时间:** Aug 26, 2026
+
+---
+### 动态流星雨动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于创建带有发光轨迹和闪烁星辰的流星雨动画的详细提示词。
+
+#### 📝 提示词
+
+```
+动态流星雨动画：明亮的流星和陨星在夜空中持续向不同方向划过，留下绿色和蓝色的发光轨迹，新的流星不断出现并坠落，星星轻柔地闪烁，摄像机缓慢向上漂移，ci...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="动态流星雨动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9927)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **发布时间:** Aug 26, 2026
+
+---
+### 印象派花园小鸭画家
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个宁静的印象派视频提示词，描绘了一只穿着画家罩衫的小鸭子在阳光明媚的花园中作画，旨在呈现流畅的动作和柔和的质感。
+
+#### 📝 提示词
+
+```
+视频的静态画面和提示词内容：随着一只小鸟飞到画架顶部，画面向左轻微移动。
+
+一个阳光明媚的印象派花园，既写实又呈现出湿油画的质感：浓郁的奶油金色光影，仿佛可以涂抹开的绿色，太阳本身就是一个尚未干透、明亮湿润的色块。一只穿着 19 世纪末画家罩衫、戴着一顶过大草帽的小鸭子，站在草地上的微型画架前，正认真地将太阳画在小画布上。厚涂法的向日葵，画布在路径上的纹理，以及 20 世纪 90 年代的胶片颗粒感。一个创意点：太阳是湿润的，画作也是湿润的。既美丽又带有一丝俏皮。
+```
+
+<img src="https://cms-assets.youmind.com/media/1787828425376_09i2gr_HQpScBhWQAAYNxT.jpg" width="600" alt="印象派花园小鸭画家">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9928)**
+
+**作者:** [Lucy](https://x.com/princess414141) | **来源:** [Link](https://x.com/princess414141/status/2092580518147617152) | **发布时间:** Aug 26, 2026
+
+---
+### 豪华宅邸场景替换
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个场景转换提示词，可将海滩或游艇背景替换为细节丰富的高端宅邸派对氛围。
+
+#### 📝 提示词
+
+```
+将场景从海滩/游艇更改为豪华的 Playboy Mansion：优雅的多层宅邸，拥有宏伟的建筑、棕榈树、波光粼粼的泳池、派对灯光以及高端的派对氛围
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="豪华宅邸场景替换">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9922)**
+
+**作者:** [Ami A](https://x.com/AA63782) | **来源:** [Link](https://x.com/AA63782/status/2092525163887853620) | **发布时间:** Aug 26, 2026
+
+---
 ### 红色美人鱼礼服时尚走秀
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +457,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **作者:** [Esther Santana](https://x.com/esther_san41998) | **来源:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **发布时间:** Aug 26, 2026
 
 ---
+### 女孩切开巨型菠萝
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词：一位女性走进画面，将一个巨型菠萝切成两半，露出里面金黄多汁的果肉。
+
+#### 📝 提示词
+
+```
+一位 23 岁、外形迷人的女孩走进画面并将菠萝切成两半，菠萝内部呈现出金黄多汁的状态
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092450891580252160/img/c0BOWAW0nvo8h3hG.jpg" width="600" alt="女孩切开巨型菠萝">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9919)**
+
+**作者:** [seeksteve](https://x.com/seeksteve) | **来源:** [Link](https://x.com/seeksteve/status/2092454370650591648) | **发布时间:** Aug 26, 2026
+
+---
 ### 棉花糖拿铁上的睡猫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +493,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9854)**
 
 **作者:** [Maxime](https://x.com/Maxime887812) | **来源:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **发布时间:** Aug 25, 2026
+
+---
+### 带有轻微动态的空灵肖像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频提示词，捕捉角色深沉的眷恋，伴随柔和的风与发丝飘动，灵感源自奥德修斯与珀涅罗珀的故事。
+
+#### 📝 提示词
+
+```
+微风轻轻拂起她的长发和飘逸的裙摆，没有大幅度动作。她转过头直视奥德修斯，与他四目相对，眼神中既有俏皮又透着坚定的忠诚。她的表情柔和而充满张力，双唇微启，目光温暖且专注，流露出静谧的热情与深沉的眷恋。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092362822286032898/img/VBlJOLcS7ICgtbKs.jpg" width="600" alt="带有轻微动态的空灵肖像">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9930)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2092362908936057342) | **发布时间:** Aug 25, 2026
 
 ---
 ### Rainbow Universe 科幻原型揭秘
@@ -1837,291 +2124,6 @@ Trinia 手持金钥匙在飞船上逃生；飞船成功对接敌舰，助她顺�
 **作者:** [Kim Maria](https://x.com/KimMaria8ry) | **来源:** [Link](https://x.com/KimMaria8ry/status/2089280594186260518) | **发布时间:** Aug 17, 2026
 
 ---
-### 动态牛仔枪战
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段高动作视频提示词，描述了一名枪手在战斗中的场景，包含枪口火光、烟雾和爆炸效果。
-
-#### 📝 提示词
-
-```
-动态牛仔枪战动作：枪手扣动左轮手枪扳机，伴随枪口火光与后坐力，身体紧绷并积极向前推进，尘土与碎片飞扬，周围爆发着火焰与烟雾的爆炸，子弹轨迹从身旁呼啸而过
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089242691355992064/img/1bHdhIT7WqmrCRl6.jpg" width="600" alt="动态牛仔枪战">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9317)**
-
-**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **来源:** [Link](https://x.com/KaungMyat635/status/2089242763284062564) | **发布时间:** Aug 17, 2026
-
----
-### 外星行星花样滑冰运动员视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词：一位拥有白金色头发的花样滑冰运动员，在流星划过的外星冰雪行星上完成三周半跳。
-
-#### 📝 提示词
-
-```
-一段采用动态追踪镜头的视频，拍摄了一位在外星冰雪行星上的年轻女性花样滑冰运动员。她留着白金色的紧致发髻，身穿一件如同深靛色夜空般的演出服，上面装饰着无数细小的星尘状闪光。她在布满流星的夜空下，在广阔的冰面上高速滑行。她银色的冰鞋反射着星光与冰面的辉光。随着速度提升，她腾空而起，完成了一个强有力的三周半跳，在半空中优雅地旋转。她平稳地落在发光的冰面上并立即再次加速，在冰面上划出长长的明亮轨迹，周围不断有流星划过。超高细节，电影级光影，慢快门运动模糊，动态运镜，4K 分辨率，高帧率。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089241004939554816/img/2DDKiOQ2OHa_WOct.jpg" width="600" alt="外星行星花样滑冰运动员视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9323)**
-
-**作者:** [おもも桃](https://x.com/omomomomo0309) | **来源:** [Link](https://x.com/omomomomo0309/status/2089241259085095024) | **发布时间:** Aug 17, 2026
-
----
-### 角色 OOTD 展示视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个以角色为中心的提示词，用于生成站立姿势、服装展示以及 360 度旋转效果。
-
-#### 📝 提示词
-
-```
-Pami babyy 站起来展示 OOTD，并为我们带来一个旋转动作，@adin 卖出了那个辣妹风
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089210935428931584/img/zpzq_iGtimQkkJ6L.jpg" width="600" alt="角色 OOTD 展示视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9427)**
-
-**作者:** [dasickestmf2000](https://x.com/dasickestmwbwy) | **来源:** [Link](https://x.com/dasickestmwbwy/status/2089210970602389934) | **发布时间:** Aug 17, 2026
-
----
-### 龙与落日的互动
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段细节丰富且氛围感十足的视频提示词，描绘了在落日余晖下的海滩上，一条龙将头低向一位女性手掌的场景。
-
-#### 📝 提示词
-
-```
-龙的头部缓慢地向她张开的手掌靠近，鳞片在柔光下闪烁着微光，微风轻轻拂动她长长的秀发和飘逸的裙摆，龙翼轻柔地舒展开来，映衬着落日的余晖，海浪在静谧中缓缓翻涌
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089206770350661632/img/_tbJue-mFW2ri6O9.jpg" width="600" alt="龙与落日的互动">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9319)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2089206829905481906) | **发布时间:** Aug 17, 2026
-
----
-### 黑洞恒星坍缩可视化
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 对恒星坍缩形成黑洞过程的高精度科学可视化，展示了引力畸变效应。
-
-#### 📝 提示词
-
-```
-黑洞形成过程的可视化，展示了恒星坍缩与形成的动态过程，包含引力效应、事件视界外观以及周围的时空畸变
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089176062475304960/img/XSQhNbhdBc6cEEha.jpg" width="600" alt="黑洞恒星坍缩可视化">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9424)**
-
-**作者:** [Criminalize Communisim](https://x.com/CommiesRTr8rs) | **来源:** [Link](https://x.com/CommiesRTr8rs/status/2089176086701638035) | **发布时间:** Aug 17, 2026
-
----
-### 熔岩与液氮的科学碰撞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于液氮与高温熔岩相互作用的科学可视化提示词。
-
-#### 📝 提示词
-
-```
-你能制作一个视频，展示将液氮置于高温熔岩下方时会发生什么，并从科学角度进行演示吗？
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089163411523305472/img/BrYPHNshCaSx0uS0.jpg" width="600" alt="熔岩与液氮的科学碰撞">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9422)**
-
-**作者:** [Racha Zeidan](https://x.com/rachazeidan) | **来源:** [Link](https://x.com/rachazeidan/status/2089163426966712443) | **发布时间:** Aug 17, 2026
-
----
-### 液氮与熔岩的科学对比
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个科学可视化提示词，用于展示液氮与熔岩在视频格式下的反应过程。
-
-#### 📝 提示词
-
-```
-你能制作一个关于液氮倒入熔岩的视频，并从科学角度展示其反应过程吗？
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089161865905512449/img/KRdf0ATk0pne8X6l.jpg" width="600" alt="液氮与熔岩的科学对比">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9418)**
-
-**作者:** [Racha Zeidan](https://x.com/rachazeidan) | **来源:** [Link](https://x.com/rachazeidan/status/2089161883773190169) | **发布时间:** Aug 17, 2026
-
----
-### 健康烹饪厨师序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频提示词，展示了厨师利用满桌新鲜蔬菜和蛋白质制作健康营养菜肴的过程。
-
-#### 📝 提示词
-
-```
-准备一张摆满蔬菜、健康脂肪和蛋白质的桌子。随后，让一位厨师利用这些食材制作美味的菜肴，以实现健康且远离癌症的生活。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089107807509307392/img/9huUvi3C3SnhiyjO.jpg" width="600" alt="健康烹饪厨师序列">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9318)**
-
-**作者:** [RexCesar](https://x.com/CesarCRDZO) | **来源:** [Link](https://x.com/CesarCRDZO/status/2089107819928617031) | **发布时间:** Aug 16, 2026
-
----
-### 迷人赛博格《神经漫游者》风格视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词，呈现了具有《神经漫游者》美学的迷人赛博格，伴有闪烁的霓虹灯和生硬的舞台调度。
-
-#### 📝 提示词
-
-```
-迷人赛博格，《神经漫游者》风格，4k rgb，acescg，生硬的舞台调度，闪烁的霓虹灯，英文
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089058933943959552/img/_jy2ylbJWDVyQqW8.jpg" width="600" alt="迷人赛博格《神经漫游者》风格视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9324)**
-
-**作者:** [Noreen.Kh](https://x.com/NKh2to) | **来源:** [Link](https://x.com/NKh2to/status/2089059103620399462) | **发布时间:** Aug 16, 2026
-
----
-### 宇宙漩涡女神视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个包含太空漩涡、行星重排和空灵女神的复杂电影级提示词。
-
-#### 📝 提示词
-
-```
-选择太空中的漩涡，添加女性的图片。空灵的效果。突如其来的宇宙爆炸，行星重新排列。女神出现，抓住那位身穿黑衣的女性……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089048801910648832/img/2NYJGKZdeIAeRuq-.jpg" width="600" alt="宇宙漩涡女神视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9316)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2089048819044319433) | **发布时间:** Aug 16, 2026
-
----
-### 旋转巧克力蛋糕动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于旋转巧克力蛋糕的视频提示词，要求蛋糕分成六块后重新组合。
-
-#### 📝 提示词
-
-```
-好的，我们可以让这个精美的蛋糕旋转起来，然后分成六块，再重新组合在一起，最后我们说“巧克力，可可能量源”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088989322754027520/img/o_ENLd8I77PIPk86.jpg" width="600" alt="旋转巧克力蛋糕动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9321)**
-
-**作者:** [Amandasatiro](https://x.com/Amandasatiro07) | **来源:** [Link](https://x.com/Amandasatiro07/status/2088989343478079969) | **发布时间:** Aug 16, 2026
-
----
-### 逼真的行走动作
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详细的视频提示词，用于生成在城市人行道上具有自然身体物理效果和摄像机追踪功能的逼真行走序列。
-
-#### 📝 提示词
-
-```
-一名男子自信且平稳地向镜头前方走来，步伐自然，双臂自由摆动，双腿持续迈步，摄像机轻微向前追踪，衣物呈现逼真的动态，身体物理效果自然，背景为阳光明媚的城市人行道……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088977139886391296/img/ARSqffLf07_D17iR.jpg" width="600" alt="逼真的行走动作">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9313)**
-
-**作者:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **来源:** [Link](https://x.com/Yesyesyes_OK/status/2088977165786173691) | **发布时间:** Aug 16, 2026
-
----
-### 健身房自拍动态视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成具有微妙自然动作的时尚健身房自拍视频的写实提示词。
-
-#### 📝 提示词
-
-```
-身穿黑色 Nike 上衣的年轻男子独自在健身房摆出时尚的侧身自拍姿势。他有着微妙自然的动作、轻微的转头、自信的表情、轻柔的身体晃动，搭配冷色调荧光灯，呈现出写实的社交媒体风格。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088965651302080513/img/g14zM-lDzIGlKRRR.jpg" width="600" alt="健身房自拍动态视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9320)**
-
-**作者:** [GOTC](https://x.com/gotcbaby) | **来源:** [Link](https://x.com/gotcbaby/status/2088965668519678384) | **发布时间:** Aug 16, 2026
-
----
-### 黑玛瑙宝石乌鸦
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段宏伟的视频提示词：一只由宝石雕刻而成的乌鸦，展开饰有精美银丝工艺的翅膀。
-
-#### 📝 提示词
-
-```
-一只由抛光黑玛瑙宝石雕刻而成的宏伟乌鸦，以英雄般的姿态有力地展开双翼，其身体、羽毛和翅膀上刻有复杂的银丝工艺和华丽的图案，边缘锐利且突出，呈现出水晶般的质感……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088939136220897280/img/Pf0wfssd_bVrY95P.jpg" width="600" alt="黑玛瑙宝石乌鸦">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9315)**
-
-**作者:** [Apple](https://x.com/Apple0816799221) | **来源:** [Link](https://x.com/Apple0816799221/status/2088939174762348704) | **发布时间:** Aug 16, 2026
-
----
-### Dora 与 Team Umizoomi 救援行动
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个以动作导向的提示词，讲述了热门动画角色在救援任务中对抗反派的故事。
-
-#### 📝 提示词
-
-```
-Dora 正在呼救，Team Umizoomi 即将出发，从邪恶反派手中救出她
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088878314932850688/img/qrMNu7fUj6bNvrDe.jpg" width="600" alt="Dora 与 Team Umizoomi 救援行动">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9241)**
-
-**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **来源:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **发布时间:** Aug 16, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2183,6 +2185,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-27T09:05:47.845Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-27T22:28:50.153Z</sub>
 
 </div>

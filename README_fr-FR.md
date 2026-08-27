@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2598** |
+| 📝 Total Prompts | **2613** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-27** |
 
@@ -189,6 +189,255 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Animation de la colonisation de la base lunaire par SpaceX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo futuriste pour une mission de colonisation de SpaceX sur une base lunaire.
+
+#### 📝 Prompt
+
+```
+Équipe de forge SpaceX pour la colonisation de la base lunaire MrFIXitX avec des charges utiles conçues par des simulateurs d'abonnés, puis mise en œuvre
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092905690440335361/img/n_JS-saIe54EGm5o.jpg" width="600" alt="Animation de la colonisation de la base lunaire par SpaceX">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9931)**
+
+**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
+
+---
+### Animation de bulle de visage mordu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo surréaliste où un personnage mord le visage d'un autre pour créer une bulle de chewing-gum.
+
+#### 📝 Prompt
+
+```
+Faites en sorte que le personnage de gauche morde le visage du personnage de droite et crée une grosse bulle de chewing-gum à partir de lui
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="Animation de bulle de visage mordu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9929)**
+
+**Author:** [#vandehigh](https://x.com/vandehigh) | **Source:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **Published:** Aug 27, 2026
+
+---
+### Être bipède au sommet d'une montagne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo détaillé de dark fantasy représentant un être de chair blanche sur un sommet montagneux brumeux avec des mouvements organiques.
+
+#### 📝 Prompt
+
+```
+L'être bipède de chair blanche, entièrement formé, se tient au sommet, tourne lentement la tête pour contempler les montagnes brumeuses, avec des tissus organiques qui se déplacent et suintent, le tout dans une atmosphère de vent et de brouillard en mouvement.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="Être bipède au sommet d'une montagne">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9923)**
+
+**Author:** [BecauseGIU*](https://x.com/BecausGIU) | **Source:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **Published:** Aug 27, 2026
+
+---
+### Boîte à jouets animaux tombant du ciel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo où une boîte tombe du ciel et libère divers jouets en forme d'animaux et de véhicules.
+
+#### 📝 Prompt
+
+```
+Une boîte tombe du ciel et s'ouvre sur l'herbe. De la boîte surgissent cinq jouets d'animaux marins aléatoires, cinq jouets d'animaux sauvages aléatoires, cinq jouets d'animaux de la ferme aléatoires, deux tracteurs miniatures, cinq voitures classiques miniatures et cinq breloques aléatoires de type support.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="Boîte à jouets animaux tombant du ciel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
+
+---
+### Défilé de mode d'un chat mannequin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique détaillé décrivant un chat en manteau de velours défilant sur un podium comme un gentleman aux côtés d'un mannequin humain.
+
+#### 📝 Prompt
+
+```
+La caméra commence par un plan large sur le podium. Le chat, vêtu d'un manteau de velours, avance sur ses pattes arrière, une patte tenant la main du mannequin, l'autre posée légèrement sur sa hanche. La tête haute, le menton relevé, sa queue ondule à chaque pas. Le mannequin glisse à ses côtés, menton levé, robe flottante. Arrivés au bout du podium, le chat tourne la tête, adresse un clin d'œil lent et délibéré à la foule, puis regarde à nouveau le mannequin avec un petit sourire suffisant. Il ajuste sa prise sur sa main comme un gentleman, puis ils font demi-tour ensemble pour entamer le chemin du retour, ses petites bottines claquant sur le podium.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="Défilé de mode d'un chat mannequin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9926)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **Published:** Aug 26, 2026
+
+---
+### Rêve de course hippique à Saratoga
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Génère une vidéo illustrant une course hippique spécifique à l'hippodrome de Saratoga, en se concentrant sur le cheval numéro cinq lors de la première course.
+
+#### 📝 Prompt
+
+```
+Le rêve de Lori se déroulant le 27 août sur le célèbre hippodrome de Saratoga, première course, cheval numéro cinq, montrer le numéro cinq sur le cheval
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="Rêve de course hippique à Saratoga">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9921)**
+
+**Author:** [Ron Lundenberg](https://x.com/rlunden) | **Source:** [Link](https://x.com/rlunden/status/2092720610602364995) | **Published:** Aug 26, 2026
+
+---
+### Scène de comédie de nerds allemands
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo créatif qui place un personnage dans une scène de « Revenge of the Nerds » avec un élément humoristique lié à la barrière de la langue.
+
+#### 📝 Prompt
+
+```
+Intègre ce personnage dans une scène de « Revenge of the Nerds ». Il a un fort accent allemand et personne ne peut le comprendre. Tout le monde a l'air confus.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="Scène de comédie de nerds allemands">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9925)**
+
+**Author:** [Ken Simpson](https://x.com/ttul) | **Source:** [Link](https://x.com/ttul/status/2092708814281978175) | **Published:** Aug 26, 2026
+
+---
+### Communication télépathique dans une rue animée
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo visualisant les pensées sous forme de bulles de texte au-dessus des passants dans une rue animée.
+
+#### 📝 Prompt
+
+```
+La communication télépathique observée dans les rues de la ville sous forme de bulles contenant du texte au-dessus de la tête des gens, illustrant également le sentiment d'intrusion lorsqu'une personne accède illégalement à votre cerveau pour voler votre propriété intellectuelle, y compris vos idées personnelles.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="Communication télépathique dans une rue animée">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9933)**
+
+**Author:** [Austin Gibson](https://x.com/5pazzisAlive) | **Source:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **Published:** Aug 26, 2026
+
+---
+### Cinématique de tempête de poussière martienne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt atmosphérique détaillé décrivant un lent mouvement de caméra au-dessus de la surface martienne avec du vent et de la poussière tourbillonnante.
+
+#### 📝 Prompt
+
+```
+Lent mouvement de caméra cinématographique à travers le vaste paysage martien, vent léger soulevant une fine poussière rougeâtre et du sable sur les dunes et le terrain rocheux, brume atmosphérique changeant subtilement, nuages de poussière lointains tourbillonnant lentement sous le ciel orange brumeux, photoréaliste
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="Cinématique de tempête de poussière martienne">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9924)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **Published:** Aug 26, 2026
+
+---
+### Détective façon Miami Vice avec des imprimantes 3D
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo mêlant le style Miami Vice des années 1970 à la technologie futuriste d'impression 3D béton sur un chantier de construction.
+
+#### 📝 Prompt
+
+```
+Détective de police style Miami Vice des années 1970 marchant sur un chantier de construction avec des imprimantes 3D béton
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="Détective façon Miami Vice avec des imprimantes 3D">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9920)**
+
+**Author:** [LeBron Daniel](https://x.com/lebron3d) | **Source:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **Published:** Aug 26, 2026
+
+---
+### Animation dynamique de pluie de météores
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'animation détaillé pour créer une pluie de météores avec des traînées lumineuses et des étoiles scintillantes.
+
+#### 📝 Prompt
+
+```
+Animation dynamique de pluie de météores : des météores brillants et des étoiles filantes traversent continuellement le ciel nocturne dans diverses directions, laissant derrière eux des traînées lumineuses vertes et bleues ; de nouveaux météores apparaissent et tombent, les étoiles scintillent doucement, léger mouvement de caméra vers le haut, ci...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="Animation dynamique de pluie de météores">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9927)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **Published:** Aug 26, 2026
+
+---
+### Caneton peintre dans un jardin impressionniste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo impressionniste serein mettant en scène un caneton en blouse de peintre peignant un jardin ensoleillé, conçu pour des mouvements fluides et des textures douces.
+
+#### 📝 Prompt
+
+```
+L'image fixe et le prompt pour la vidéo se déplacent légèrement vers la gauche tandis qu'un petit oiseau vole au sommet du chevalet.
+
+Un jardin impressionniste baigné de soleil, à la fois photoréaliste et peint à l'huile fraîche : une lumière crème dorée épaisse, des verts que l'on pourrait étaler, le soleil lui-même représenté par une touche humide et brillante qui n'est pas encore sèche. Un minuscule caneton vêtu d'une blouse de peintre de la fin du XIXe siècle et d'un chapeau de paille trop grand pour lui, debout devant un chevalet miniature dans l'herbe, peignant avec sérieux ce soleil sur une petite toile. Tournesols en empâtement, grain de la toile visible dans le chemin, grain cinématographique des années 1990. Une idée : le soleil est encore humide, tout comme la peinture. Magnifique et un peu fantaisiste.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787828425376_09i2gr_HQpScBhWQAAYNxT.jpg" width="600" alt="Caneton peintre dans un jardin impressionniste">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
+
+**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092580518147617152) | **Published:** Aug 26, 2026
+
+---
+### Changement de décor : Manoir luxueux
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de transformation de décor qui remplace un arrière-plan de plage ou de bateau par l'atmosphère détaillée d'une fête dans un manoir haut de gamme.
+
+#### 📝 Prompt
+
+```
+Changez le décor de la plage/du bateau pour le luxueux Playboy Mansion : élégant manoir à plusieurs étages avec une architecture grandiose, des palmiers, une piscine scintillante, des lumières de fête et une atmosphère de soirée haut de gamme
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="Changement de décor : Manoir luxueux">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9922)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
+
+---
 ### Robe sirène rouge sur podium de mode
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +457,25 @@ Cette jeune femme défilera sur un podium avec une longue robe de soirée, porta
 **Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
 
 ---
+### Jeune femme coupant un ananas géant
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique où une femme entre dans le champ et coupe un ananas géant en deux pour révéler son intérieur jaune et juteux.
+
+#### 📝 Prompt
+
+```
+une jeune femme séduisante de 23 ans entre dans le champ et coupe l'ananas en deux, intérieur d'ananas jaune et juteux
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092450891580252160/img/c0BOWAW0nvo8h3hG.jpg" width="600" alt="Jeune femme coupant un ananas géant">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9919)**
+
+**Author:** [seeksteve](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2092454370650591648) | **Published:** Aug 26, 2026
+
+---
 ### Chat endormi sur un latte au marshmallow
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +493,25 @@ Un minuscule chat endormi sur un marshmallow géant, le marshmallow flotte au-de
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
 
 **Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
+
+---
+### Portrait éthéré avec mouvement délicat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo capturant la profonde dévotion d'un personnage avec un vent léger et le mouvement des cheveux, inspiré par Ulysse et Pénélope.
+
+#### 📝 Prompt
+
+```
+le vent soulève doucement ses longs cheveux et l'ourlet de sa robe fluide, sans grands mouvements, elle tourne la tête pour faire face directement à Ulysse, croisant son regard avec une intensité à la fois espiègle et farouchement loyale, son expression est douce et chargée d'émotion, les lèvres légèrement entrouvertes, les yeux chaleureux et déterminés, empreints d'une ferveur tranquille et d'une profonde dévotion
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092362822286032898/img/VBlJOLcS7ICgtbKs.jpg" width="600" alt="Portrait éthéré avec mouvement délicat">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9930)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092362908936057342) | **Published:** Aug 25, 2026
 
 ---
 ### Révélation du prototype de science-fiction Rainbow Universe
@@ -1836,291 +2123,6 @@ Trinia s'échappant à bord d'un vaisseau spatial avec la clé dorée ; le vaiss
 **Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2089280594186260518) | **Published:** Aug 17, 2026
 
 ---
-### Duel dynamique de cow-boys
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo riche en action décrivant un pistolero en plein combat avec éclairs de bouche, fumée et explosions.
-
-#### 📝 Prompt
-
-```
-Action dynamique de duel de cow-boys : le pistolero tire avec son revolver, créant des éclairs de bouche et un recul réaliste, le corps tendu et avançant de manière agressive, poussière et débris volant dans les airs, explosions éclatant autour de lui avec feu et fumée, traînées de balles fusant à proximité
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089242691355992064/img/1bHdhIT7WqmrCRl6.jpg" width="600" alt="Duel dynamique de cow-boys">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9317)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2089242763284062564) | **Published:** Aug 17, 2026
-
----
-### Vidéo de patineuse artistique sur une planète extraterrestre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique montrant une patineuse artistique aux cheveux blond platine effectuant un triple axel sur une planète glacée sous un ciel d'étoiles filantes.
-
-#### 📝 Prompt
-
-```
-Un plan de suivi dynamique d'une jeune patineuse artistique sur une planète extraterrestre glacée. Elle a les cheveux blond platine attachés en un chignon serré et porte un costume rappelant un ciel nocturne indigo profond, orné d'innombrables petites étincelles semblables à de la poussière d'étoiles. Elle glisse à grande vitesse sur une vaste patinoire sous un ciel rempli d'étoiles filantes. Ses patins argentés reflètent les étoiles et la glace luminescente. Alors qu'elle prend de la vitesse, elle s'élance dans un puissant triple axel, tournoyant avec grâce dans les airs. Elle atterrit en douceur sur la glace brillante et accélère immédiatement à nouveau, traçant de longues traînées lumineuses sur la patinoire tandis que davantage de météores et d'étoiles filantes tombent autour d'elle. Ultra détaillé, éclairage cinématographique, flou de mouvement à obturation lente, mouvement de caméra dynamique, 4K, fréquence d'images élevée.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089241004939554816/img/2DDKiOQ2OHa_WOct.jpg" width="600" alt="Vidéo de patineuse artistique sur une planète extraterrestre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9323)**
-
-**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2089241259085095024) | **Published:** Aug 17, 2026
-
----
-### Vidéo de présentation de tenue (OOTD) de personnage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt axé sur le personnage générant une pose debout, une présentation de tenue et une rotation à 360 degrés.
-
-#### 📝 Prompt
-
-```
-Pami babyy debout qui montre sa tenue (OOTD) et fait un tour sur elle-même @adin a vendu cette baddie
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089210935428931584/img/zpzq_iGtimQkkJ6L.jpg" width="600" alt="Vidéo de présentation de tenue (OOTD) de personnage">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9427)**
-
-**Author:** [dasickestmf2000](https://x.com/dasickestmwbwy) | **Source:** [Link](https://x.com/dasickestmwbwy/status/2089210970602389934) | **Published:** Aug 17, 2026
-
----
-### Interaction au coucher du soleil avec un dragon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo détaillé et atmosphérique montrant un dragon abaissant sa tête vers la main d'une femme sur une plage au coucher du soleil.
-
-#### 📝 Prompt
-
-```
-la tête du dragon s'abaisse lentement vers sa main ouverte, ses écailles scintillant sous une lumière douce tandis que le vent soulève délicatement ses longs cheveux et l'ourlet de sa robe fluide, ses ailes se déployant doucement pour capturer la lueur du crépuscule alors que les vagues de l'océan déferlent paisiblement
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089206770350661632/img/_tbJue-mFW2ri6O9.jpg" width="600" alt="Interaction au coucher du soleil avec un dragon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9319)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2089206829905481906) | **Published:** Aug 17, 2026
-
----
-### Visualisation de l'effondrement stellaire en trou noir
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une visualisation scientifique très détaillée de la formation d'un trou noir par effondrement stellaire, incluant des effets de distorsion gravitationnelle.
-
-#### 📝 Prompt
-
-```
-Une visualisation de la création d'un trou noir, illustrant le processus dynamique d'effondrement et de formation stellaire avec des effets gravitationnels, l'apparence de l'horizon des événements et la distorsion de l'espace-temps environnant
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089176062475304960/img/XSQhNbhdBc6cEEha.jpg" width="600" alt="Visualisation de l'effondrement stellaire en trou noir">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9424)**
-
-**Author:** [Criminalize Communisim](https://x.com/CommiesRTr8rs) | **Source:** [Link](https://x.com/CommiesRTr8rs/status/2089176086701638035) | **Published:** Aug 17, 2026
-
----
-### Lave contre azote liquide : une expérience scientifique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt demandant une visualisation scientifique de l'interaction entre l'azote liquide et la lave en fusion.
-
-#### 📝 Prompt
-
-```
-Peux-tu réaliser une vidéo montrant de l'azote liquide sous de la lave en fusion et expliquer scientifiquement ce qui se produit ?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089163411523305472/img/BrYPHNshCaSx0uS0.jpg" width="600" alt="Lave contre azote liquide : une expérience scientifique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9422)**
-
-**Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089163426966712443) | **Published:** Aug 17, 2026
-
----
-### Azote liquide contre lave : une expérience scientifique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de visualisation scientifique illustrant la réaction entre l'azote liquide et la lave sous forme de vidéo.
-
-#### 📝 Prompt
-
-```
-Peux-tu créer une vidéo montrant l'interaction entre l'azote liquide et la lave, tout en expliquant le phénomène scientifique ?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089161865905512449/img/KRdf0ATk0pne8X6l.jpg" width="600" alt="Azote liquide contre lave : une expérience scientifique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9418)**
-
-**Author:** [Racha Zeidan](https://x.com/rachazeidan) | **Source:** [Link](https://x.com/rachazeidan/status/2089161883773190169) | **Published:** Aug 17, 2026
-
----
-### Séquence d'un chef cuisinant sain
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo illustrant le processus d'un chef préparant des assiettes saines et nutritives à partir d'une table remplie de légumes frais et de protéines.
-
-#### 📝 Prompt
-
-```
-Créez une table remplie de légumes, de bonnes graisses et de protéines. Ensuite, faites en sorte qu'un chef prépare de délicieuses assiettes avec ces ingrédients pour une vie saine et sans cancer.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089107807509307392/img/9huUvi3C3SnhiyjO.jpg" width="600" alt="Séquence d'un chef cuisinant sain">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9318)**
-
-**Author:** [RexCesar](https://x.com/CesarCRDZO) | **Source:** [Link](https://x.com/CesarCRDZO/status/2089107819928617031) | **Published:** Aug 16, 2026
-
----
-### Vidéo de cyborg glamour façon Neuromancien
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique mettant en scène un cyborg glamour dans une esthétique Neuromancien, avec des néons clignotants et une mise en scène saccadée.
-
-#### 📝 Prompt
-
-```
-Cyborg glamour façon Neuromancien, 4k rgb, acescg, mise en scène saccadée, néons clignotants, en anglais
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089058933943959552/img/_jy2ylbJWDVyQqW8.jpg" width="600" alt="Vidéo de cyborg glamour façon Neuromancien">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9324)**
-
-**Author:** [Noreen.Kh](https://x.com/NKh2to) | **Source:** [Link](https://x.com/NKh2to/status/2089059103620399462) | **Published:** Aug 16, 2026
-
----
-### Vidéo de la Déesse du Vortex Cosmique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique complexe impliquant un vortex spatial, un réalignement des planètes et une déesse éthérée.
-
-#### 📝 Prompt
-
-```
-Choisir un vortex dans l'espace, ajouter l'image de la femme. Effets éthérés. Soudaine explosion cosmique, les planètes se réalignent. La déesse apparaît et saisit la femme vêtue de noir...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089048801910648832/img/2NYJGKZdeIAeRuq-.jpg" width="600" alt="Vidéo de la Déesse du Vortex Cosmique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9316)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2089048819044319433) | **Published:** Aug 16, 2026
-
----
-### Animation d'un gâteau au chocolat en rotation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo pour un gâteau au chocolat en rotation qui se divise en six parts avant de se reformer.
-
-#### 📝 Prompt
-
-```
-OK, est-ce qu'on peut faire pivoter ce magnifique gâteau, puis le diviser en six parts avant qu'il ne se reforme, et ensuite dire « chocolat, la puissance du cacao »
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088989322754027520/img/o_ENLd8I77PIPk86.jpg" width="600" alt="Animation d'un gâteau au chocolat en rotation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9321)**
-
-**Author:** [Amandasatiro](https://x.com/Amandasatiro07) | **Source:** [Link](https://x.com/Amandasatiro07/status/2088989343478079969) | **Published:** Aug 16, 2026
-
----
-### Mouvement de marche réaliste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo détaillé pour une séquence de marche réaliste avec une physique corporelle naturelle et un suivi de caméra sur un trottoir urbain.
-
-#### 📝 Prompt
-
-```
-L'homme avance naturellement vers la caméra avec une démarche fluide et assurée, les bras se balançant librement, les jambes effectuant des pas continus, léger suivi de caméra vers l'avant, mouvement réaliste des vêtements, physique corporelle naturelle, environnement de trottoir urbain ensoleillé...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088977139886391296/img/ARSqffLf07_D17iR.jpg" width="600" alt="Mouvement de marche réaliste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9313)**
-
-**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2088977165786173691) | **Published:** Aug 16, 2026
-
----
-### Vidéo de selfie à la salle de sport
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo photoréaliste pour un selfie stylé à la salle de sport avec des mouvements naturels subtils.
-
-#### 📝 Prompt
-
-```
-Le jeune homme en t-shirt Nike noir pose seul dans la salle de sport pour un selfie stylé de profil. Il effectue des mouvements naturels subtils, de légers mouvements de tête, une expression confiante, des déplacements corporels fluides, un éclairage fluorescent cool, une ambiance photoréaliste typique des réseaux sociaux.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088965651302080513/img/g14zM-lDzIGlKRRR.jpg" width="600" alt="Vidéo de selfie à la salle de sport">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9320)**
-
-**Author:** [GOTC](https://x.com/gotcbaby) | **Source:** [Link](https://x.com/gotcbaby/status/2088965668519678384) | **Published:** Aug 16, 2026
-
----
-### Corbeau en pierre précieuse d'onyx
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo majestueux représentant un corbeau sculpté dans une pierre précieuse, déployant ses ailes avec un délicat filigrane d'argent.
-
-#### 📝 Prompt
-
-```
-Un corbeau majestueux entièrement sculpté dans une pierre précieuse d'onyx noir poli, déployant puissamment ses ailes dans une pose héroïque, des filigranes d'argent complexes et des motifs ornés gravés sur son corps, ses plumes et ses ailes, des bords nets et accentués avec des détails cristallins...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088939136220897280/img/Pf0wfssd_bVrY95P.jpg" width="600" alt="Corbeau en pierre précieuse d'onyx">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9315)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2088939174762348704) | **Published:** Aug 16, 2026
-
----
-### Dora et l'équipe Umizoomi à la rescousse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt orienté action mettant en scène des personnages animés populaires dans un scénario de mission de sauvetage contre un méchant.
-
-#### 📝 Prompt
-
-```
-Dora appelle à l'aide et l'équipe Umizoomi part la sauver du terrible méchant
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088878314932850688/img/qrMNu7fUj6bNvrDe.jpg" width="600" alt="Dora et l'équipe Umizoomi à la rescousse">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9241)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2088878343156388104) | **Published:** Aug 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2182,6 +2184,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-27T09:06:04.510Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-27T22:29:01.503Z</sub>
 
 </div>
