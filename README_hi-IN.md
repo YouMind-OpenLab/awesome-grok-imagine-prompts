@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2613** |
+| 📝 Total Prompts | **2625** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-28** |
 
@@ -189,6 +189,159 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### सिनेमैटिक फर्स्ट-पर्सन फ्लाइट ग्रीटिंग
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक अत्यधिक विस्तृत सिनेमैटिक फ्लाइट प्रॉम्प्ट, जिसमें एक क्रिस्टल पैलेस और हॉल ऑफ मिरर्स के माध्यम से उड़ते हुए फर्स्ट-पर्सन परिप्रेक्ष्य को दिखाया गया है, जिसका समापन एक कस्टम शैटर्ड-ग्लास टेक्स्ट इफेक्ट के साथ होता है।
+
+#### 📝 Prompt
+
+```
+आप एक सस्पेंडेड ट्रेन के नीचे बैरल-रोल करते हैं, एक विशाल क्रिस्टल पैलेस के चारों ओर पावर लूप पूरा करते हैं, फिर एक खुली खिड़की से अंदर गोता लगाते हैं और हॉल ऑफ मिरर्स के माध्यम से तेजी से गुजरते हैं जहाँ इंद्रधनुषी रोशनी कैमरे के चारों ओर बिखर जाती है। अंत में, "Thank you for your hard work today" संदेश क्रिस्टलीय अक्षरों में दिखाई देता है जो बाद में टुकड़ों में बिखर जाते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093246293917466624/img/mbJviXaH_0BG9aG4.jpg" width="600" alt="सिनेमैटिक फर्स्ट-पर्सन फ्लाइट ग्रीटिंग">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9969)**
+
+**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2093246555998548377) | **Published:** Aug 28, 2026
+
+---
+### पालतू जानवर की स्मृति में आत्मा के स्वर्गारोहण का एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> पालतू जानवर की याद में एक भावनात्मक वीडियो प्रॉम्प्ट, जिसमें एक कुत्ते की आत्मा को उसके शरीर से निकलते हुए और स्वर्ग की ओर जाते हुए दर्शाया गया है।
+
+#### 📝 Prompt
+
+```
+एक ऐसा वीडियो बनाएं जिसमें पिल्ला कह रहा हो, “मम्मा मुझे घर जाना पड़ा, मैं आपसे और पापा से बहुत प्यार करता हूँ और मैं हमेशा आप दोनों के आसपास रहूँगा और दूसरी तरफ से आप दोनों का समर्थन करूँगा।” सभी तस्वीरों को इस तरह मिलाएं कि वे स्वर्ग जैसी दिखें, पिल्ले की आत्मा को उसके छोटे से शरीर से निकलते हुए दिखाएं और...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093224113318109184/img/JOabjs3hbWp2dEf4.jpg" width="600" alt="पालतू जानवर की स्मृति में आत्मा के स्वर्गारोहण का एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9964)**
+
+**Author:** [Jenna Fasce](https://x.com/stardessten) | **Source:** [Link](https://x.com/stardessten/status/2093224141302448619) | **Published:** Aug 28, 2026
+
+---
+### अतिवास्तविक ब्रह्मांडीय मन की दृष्टि
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक काव्यात्मक और अतिवास्तविक वीडियो प्रॉम्प्ट जो एक ऐसे मन का वर्णन करता है जो पूरी तस्वीर को वास्तविकता में संसाधित करता है, जिसमें ब्रह्मांडीय और रंगीन विषय शामिल हैं।
+
+#### 📝 Prompt
+
+```
+एक ऐसा मन जो अक्षरों के पूरी तरह से उतरने से पहले तस्वीर को स्थिर नहीं करेगा। छवि अतिवास्तविक होनी चाहिए, जो एक ऐसे मन को दर्शाती है जो पूरी तस्वीर को आत्मसात करता है और दूसरों की वास्तविकता से मिलने के लिए उसे छोटा करता है। ब्रह्मांडीय। रंगीन।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093208937080512512/img/V4aBbbhrNngf3FIB.jpg" width="600" alt="अतिवास्तविक ब्रह्मांडीय मन की दृष्टि">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9959)**
+
+**Author:** [Guessmyname](https://x.com/NaturesPurpose) | **Source:** [Link](https://x.com/NaturesPurpose/status/2093208966230929432) | **Published:** Aug 28, 2026
+
+---
+### Hello Kitty जापानी रैप
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> एक अनोखा वीडियो प्रॉम्प्ट जिसमें एक ब्लिंग-आउट Hello Kitty से जापानी भाषा में रैप करने के लिए कहा गया है, जिसमें विशिष्ट बोल शामिल हैं।
+
+#### 📝 Prompt
+
+```
+Wake up the morning / As usual / If it's a habit 'Make money' my own theory / Living my life on a dream This is my story / Sending it, this city's only Life the Movie / ... और ब्लिंग-ब्लिंग Hello Kitty से जापानी में रैप करवाएं!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093196579461292032/img/9h4hfy6jnN3m2EVo.jpg" width="600" alt="Hello Kitty जापानी रैप">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9968)**
+
+**Author:** [れいじ](https://x.com/HuSSleNight24) | **Source:** [Link](https://x.com/HuSSleNight24/status/2093196626336858368) | **Published:** Aug 28, 2026
+
+---
+### Serene Angel Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक शांत दृश्य के लिए एनीमेशन प्रॉम्प्ट जिसमें एक सुनहरे बालों वाली महिला, देवदूत और चमकते हुए वस्त्र शामिल हैं।
+
+#### 📝 Prompt
+
+```
+इस शांत दृश्य को धीरे से एनिमेट करें: हल्की हवा सुनहरे बालों वाली महिला के बालों और देवदूतों के चमकते वस्त्रों और पंखों को धीरे से हिलाती है, बच्चा थोड़ा और करीब आता है, हल्की चमक
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093167309800001536/img/xi3izzOMXq_pHks_.jpg" width="600" alt="Serene Angel Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9965)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **Published:** Aug 28, 2026
+
+---
+### काव्यात्मक शंख इंटरैक्शन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक काव्यात्मक कथा प्रॉम्प्ट जो उस संवेदी अनुभव का वर्णन करता है जब आप एक ऐसे शंख को हाथ में लेते हैं जिसके भीतर पूरा महासागर समाया हुआ है।
+
+#### 📝 Prompt
+
+```
+हमने एक साथ मग नीचे रखे। लकड़ी पर हल्की सी खनक हुई।
+मैं हाथ बढ़ाकर शंख उठाता हूँ। यह मेरे हाथों में गर्म हो जाता है, जैसे इसे खाइयों की याद हो। मैं इसे आपकी ओर घुमाता हूँ और थोड़ा सा झुकाता हूँ, जैसे एक प्याला जिसमें महासागर समाया हो....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093104400797405185/img/AzgGhqx5-Cdy65gt.jpg" width="600" alt="काव्यात्मक शंख इंटरैक्शन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9961)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093104471303688698) | **Published:** Aug 27, 2026
+
+---
+### Pleiadian Motherships फिरोज़ी आसमान का वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> गर्मियों के फिरोज़ी आसमान में तश्तरी के आकार के मदरशिप के लिए एक हाई-फिडेलिटी साइंस-फिक्शन वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+Pleiadians Light Ships तश्तरी के आकार के मदरशिप, नीले फिरोज़ी गर्मियों के आसमान में, मास्टरपीस, अल्ट्रा एचडी क्वालिटी रेजोल्यूशन 111111111111111111199999999999999999 k, वॉल्यूमेट्रिक ब्राइट लाइटिंग टोन और रंग
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092982559617511424/img/9VzG2E8XbX0XFRhk.jpg" width="600" alt="Pleiadian Motherships फिरोज़ी आसमान का वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9967)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092982630153073030) | **Published:** Aug 27, 2026
+
+---
+### इमोशनल सिनेमैटिक लाइट ट्रांज़िशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> बरसात के नीले रंग से लेकर लालटेन जैसी सुनहरी रोशनी में बदलते हुए एक हाई-प्रोडक्शन इमोशनल वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+“An Ode to Freedom” / Ode to Courage जैसी ही हाई-प्रोडक्शन इमोशनल शैली में 45–70 सेकंड का सिनेमैटिक सेगमेंट। सॉफ्ट, ब्रीदिंग कैमरा मूवमेंट। समृद्ध प्राकृतिक रोशनी जो बरसात के ठंडे नीले फूलों के खेत से बदलकर गर्म लालटेन जैसी सुनहरी रोशनी में बदल जाती है। प्रभावशाली...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092954916721430528/img/TpmX8ByTrL8Wsaug.jpg" width="600" alt="इमोशनल सिनेमैटिक लाइट ट्रांज़िशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9962)**
+
+**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2092954940901568737) | **Published:** Aug 27, 2026
+
+---
 ### SpaceX मूनबेस कोलोनाइज़ेशन एनीमेशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +359,50 @@ SpaceX फोर्ज क्रू को MrFIXitX मूनबेस फोर
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9931)**
 
 **Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
+
+---
+### कोरियन नेबरहुड स्लाइस ऑफ लाइफ वीडियो स्क्रिप्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक कोरियाई पड़ोस की गली में टहलते हुए जोड़े के 'स्लाइस ऑफ लाइफ' वीडियो के लिए एक अत्यंत विस्तृत सिनेमैटिक स्क्रिप्ट।
+
+#### 📝 Prompt
+
+```
+विषय और पात्रों का विवरण
+सेटिंग: एक पुराने कोरियाई/पूर्वी एशियाई पड़ोस की शांत, धूप से सराबोर आवासीय गली — संकरी पक्की सड़क, टाइल और नालीदार छतों वाले छोटे घर, ऊपर उलझे हुए बिजली के तार, गमले में लगे पौधे, सूखते हुए कपड़े, एक खड़ी साइकिल, और पेय पदार्थों से भरा एक छोटा सुविधा-स्टोर फ्रिज। दोपहर का समय, गर्म प्राकृतिक धूप, ऊपर लटकती पेड़ों की शाखाओं से छनकर आती पत्तियों की कोमल छाया जमीन पर पड़ रही है। हैंडहेल्ड, वॉक-एंड-टॉक कैमरा स्टाइल, जिसमें ज्यादातर जोड़े का पीछे या आगे से पीछा किया जा रहा है।
+
+पात्र 1 — पुरुष
+पूर्वी एशियाई पुरुष, उम्र 20 के दशक के अंत से 30 के दशक की शुरुआत, छोटे बिखरे हुए काले बाल, क्लीन-शेवन, चेहरे पर एक सौम्य और शांत भाव।
+ओवरसाइज्ड, फीकी चारकोल-ग्रे/भूरे रंग की क्रूनेक टी-शर्ट पहनी है जिसमें कपड़े की सिलवटें दिखाई दे रही हैं, ढीली बेज/खाकी वाइड-लेग ट्राउजर, सफेद स्नीकर्स।
+बाएं हाथ की कलाई पर घड़ी पहनी है।
+एक छोटा गोल पीला लोगो पैच वाला बुना हुआ टोट बैग ले रखा है।
+हाथ में हमेशा एक पारदर्शी प्लास्टिक की आइस्ड टी/बार्ली टी की बोतल है।
+शांत, गर्मजोशी भरा, थोड़ा चंचल स्वभाव — मुस्कुराता है, अपने साथी की ओर तिरछी नजर डालता है, बात करते समय धीरे से हाथ के इशारे करता है।
+
+पात्र 2 — महिला
+पूर्वी एशियाई महिला, उम्र 20 के दशक के अंत में, काले बाल पीछे की ओर एक लो बन में बंधे हुए, चेहरे के आसपास लटें निकली हुई हैं।
+ओवरसाइज्ड सेज-ग्रीन बटन-फ्रंट शर्ट पहनी है जिसकी आस्तीनें ढीली मुड़ी हुई हैं, हल्के नीले/ग्रे रंग की जींस, सफेद स्नीकर्स।
+गले में एक पतला पेंडेंट नेकलेस पहना है।
+उसने भी एक बुना हुआ टोट बैग और आइस्ड टी की बोतल ले रखी है।
+उज्ज्वल, सहज अभिव्यक्ति — मुस्कुराती है, धीरे से हंसती है, उसके साथ कदम मिलाकर चलती है।
+
+रिश्ता/मूड: एक छोटी खरीदारी के बाद पड़ोस में आराम से टहलते हुए एक प्यारा जोड़ा — आरामदायक चुप्पी और छोटी-मोटी बातें, स्वाभाविक केमिस्ट्री, "स्लाइस ऑफ लाइफ" टोन।
+
+0:00–0:05 पीछे से वाइड शॉट, जोड़ा एक संकरी पेड़ की छाया वाली गली में कैमरे से दूर जा रहा है। बाईं ओर ग्रे टी-शर्ट और खाकी पैंट में पुरुष, दाईं ओर सेज-ग्रीन शर्ट और जींस में महिला, दोनों ने सफेद प्लास्टिक के शॉपिंग बैग ले रखे हैं। फुटपाथ पर छनकर आती धूप, दीवारों के किनारे साइकिलें और गमले, दाईं ओर कपड़े लटक रहे हैं। पीछे से उनका पीछा करता हुआ धीमा स्थिर ट्रैकिंग शॉट।
+
+0:05–0:10 कैमरा अब उनका नेतृत्व कर रहा है, छाती की ऊंचाई पर सामने/किनारे से शूट कर रहा है। अग्रभूमि में पुरुष एक तरफ देखकर मुस्कुरा रहा है, महिला उसके पीछे दाईं ओर है, बाल बन में हैं, वह भी मुस्कुरा रही है। उनके पीछे कपड़े की लाइन और हरी पत्तियां दिखाई दे रही हैं, गर्म बैकलाइट धूप। जैसे-जैसे वे करीब आते हैं, कैमरा धीरे-धीरे पीछे की ओर पैन/ट्रैक करता है।
+0:10–0:15 क्लोज टू-शॉट, कैमरा उनकी ओर है क्योंकि वे एक छोटी दुकान के बाहर खुले ड्रिंक फ्रिज की ओर चल रहे हैं। पुरुष अपनी ठुड्डी के पास आइस्ड टी की बोतल पकड़े हुए है, विचारशील/जीवंत इशारों के साथ बात कर रहा है; उसके बगल में महिला दो बोतलें पकड़े हुए है, मुस्कुरा रही है और उसकी ओर देख रही है। दाईं ओर बैकग्राउंड में रंगीन बोतलों से भरा बेवरेज कूलर दिखाई दे रहा है।
+
+0:15–0:20 मीडियम शॉट, दोनों अब आइस्ड टी की बोतलें लिए सीधे कैमरे की ओर चल रहे हैं, दोनों गर्मजोशी से मुस्कुरा रहे हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092618886546067456/img/yAeh9Kog_lpT6HmO.jpg" width="600" alt="कोरियन नेबरहुड स्लाइस ऑफ लाइफ वीडियो स्क्रिप्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9963)**
+
+**Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2092884832816906256) | **Published:** Aug 27, 2026
 
 ---
 ### फेस बाइटिंग बबल एनिमेशन
@@ -263,6 +460,63 @@ SpaceX फोर्ज क्रू को MrFIXitX मूनबेस फोर
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
+
+---
+### देवी डायना का तीरंदाजी दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अंधेरे धुंधले जंगल में देवी डायना को दर्शाने वाला एक नाटकीय वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+चांदी जैसे भूरे बालों और सफेद रंग की लहराती पोशाक वाली उग्र देवी डायना का एक नया नाटकीय रूपांतर तैयार करें, जो एक अंधेरे धुंधले जंगल में आगे की ओर छलांग लगा रही हैं और एक बड़ा धनुष खींचकर तीर को सीधे...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092783400952438784/img/o_BndaBEHdZ4GrAN.jpg" width="600" alt="देवी डायना का तीरंदाजी दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9960)**
+
+**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2092783433961590892) | **Published:** Aug 27, 2026
+
+---
+### Pleiadian Light Ships समर वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> आकाशीय जहाजों की चमकदार रोशनी और वॉल्यूमेट्रिक टोन पर केंद्रित एक हाई-डेफिनिशन साइंस-फिक्शन वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+Pleiadian light ships गर्मियों के नीले फ़िरोज़ी आसमान में, मास्टरपीस, अल्ट्रा एचडी क्वालिटी रिज़ॉल्यूशन 11111111111199999999999 k, वॉल्यूमेट्रिक ब्राइट लाइटिंग और कलर टोन
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092779708542779392/img/923tBS6kA-LuxU8x.jpg" width="600" alt="Pleiadian Light Ships समर वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9966)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092779760585756700) | **Published:** Aug 27, 2026
+
+---
+### प्राकृतिक स्थिर दृश्य एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक तकनीकी वीडियो प्रॉम्प्ट जो मॉडल को बिना किसी कैमरा मूवमेंट, बातचीत या पलक झपकाए दृश्य को स्वाभाविक रूप से एनिमेट करने का निर्देश देता है।
+
+#### 📝 Prompt
+
+```
+एनिमेट करें। दृश्य को स्थिर रखें और ज़ूम इन या ज़ूम आउट न करें। कोई बातचीत या शब्द नहीं। बस प्राकृतिक रूप से जैसा है वैसा रहने दें। पलकें न झपकाएं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092757907360129024/img/Re-Uu0FV7fbY5LdQ.jpg" width="600" alt="प्राकृतिक स्थिर दृश्य एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9958)**
+
+**Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
 
 ---
 ### बिल्ली का फैशन मॉडल रनवे वॉक
@@ -1895,234 +2149,6 @@ Odyssey की कहानी को एक मूवी ट्रेलर क
 **Author:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **Source:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **Published:** Aug 17, 2026
 
 ---
-### लिक्विड क्रोम टर्मिनेटर इफ़ेक्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो-टू-वीडियो स्टाइल प्रॉम्प्ट जो विषय को टर्मिनेटर फ़िल्मों की तरह लिक्विड मेटल क्रोम पदार्थ में बदल देता है।
-
-#### 📝 Prompt
-
-```
-इसे मेरे साथ एक वीडियो बनाएं, जिसमें मैं टर्मिनेटर फ़िल्मों की तरह तुरंत लिक्विड क्रोम में बदल जाऊं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089481439981002753/img/-CUZ_gnhORuZ-ygw.jpg" width="600" alt="लिक्विड क्रोम टर्मिनेटर इफ़ेक्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9470)**
-
-**Author:** [George White](https://x.com/GeorgeWhit30059) | **Source:** [Link](https://x.com/GeorgeWhit30059/status/2089481455005032644) | **Published:** Aug 17, 2026
-
----
-### गॉथिक रेड गोल्ड ग्लोइंग टेक्स्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> धुंध और वायुमंडलीय प्रकाश प्रभावों के साथ गॉथिक लेटरिंग के लिए एक डार्क फैंटेसी सिनेमैटिक मोशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-गॉथिक टेक्स्ट "JUANG   Musk" धीरे-धीरे गहरे लाल और सुनहरे प्रकाश के साथ चमकता है, अलंकृत ब्लैकलेटर लेटरिंग के चारों ओर धुंध नाटकीय रूप से घूमती है, सूक्ष्म कैमरा ज़ूम और वायुमंडलीय कोहरा छा रहा है, डार्क फैंटेसी सिनेमैटिक मोशन, उच्च विवरण
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089467697654382594/img/ZsOGvwDEH-aW5lpA.jpg" width="600" alt="गॉथिक रेड गोल्ड ग्लोइंग टेक्स्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9426)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2089467763471286385) | **Published:** Aug 17, 2026
-
----
-### गैस स्टेशन सिनेमैटिक सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक व्यक्ति द्वारा गैस स्टेशन पर कार पार्क करने और अंदर जाने के यथार्थवादी सिनेमैटिक सीक्वेंस के लिए एक अत्यधिक विस्तृत, सिंगल-शॉट ट्रैकिंग प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एथन, कैजुअल कपड़ों में एक युवक, दिन के समय फ्रेम के दाईं ओर से एक आधुनिक सेडान चलाकर एक खाली गैस स्टेशन पार्किंग स्थल में आता है। वह दाईं ओर मुड़कर सीधे गैस स्टेशन के प्रवेश द्वार के सामने एक पार्किंग स्थल में गाड़ी खड़ी करता है, वाहन का पिछला हिस्सा कैमरे की ओर है, लाइनों के भीतर सही ढंग से पार्क करता है, कार रोकता है और इंजन बंद कर देता है। कैमरे के नजरिए से एथन बाईं ओर का ड्राइवर का दरवाजा खोलता है और अपना बायां पैर पहले फुटपाथ पर रखता है, बाईं ओर से पूरी तरह से वाहन से बाहर निकलता है, अपने पीछे दरवाजा बंद करता है और सीधे गैस स्टेशन की इमारत की ओर चलता है। निरंतर सिंगल-शॉट सिनेमैटिक ट्रैकिंग, यथार्थवादी भौतिकी, कोई कैमरा कट नहीं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089457726497697793/img/YYGRMFNucFq93VP8.jpg" width="600" alt="गैस स्टेशन सिनेमैटिक सीक्वेंस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9433)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2089457914029502891) | **Published:** Aug 17, 2026
-
----
-### DiCaprio Titanic Shipwreck Dream
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई नैरेटिव प्रॉम्प्ट, जिसमें लियोनार्डो डिकैप्रियो को टाइटैनिक के मलबे के बीच एक उष्णकटिबंधीय समुद्र तट पर जागते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-लियोनार्डो डिकैप्रियो एक उष्णकटिबंधीय समुद्र तट पर एक बुरे सपने से जागते हैं, चौंक कर उठ बैठते हैं, अविश्वास के साथ इधर-उधर देखते हैं, और फिर द्वीप पर बहकर आए टाइटैनिक के विशाल जंग लगे मलबे के टुकड़ों को देखते हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089416053223026688/img/jyodM4Sk4LCkdJUS.jpg" width="600" alt="DiCaprio Titanic Shipwreck Dream">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9421)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2089416089705091286) | **Published:** Aug 17, 2026
-
----
-### लहरों वाला सनबाथिंग बीच
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सुकून देने वाला वीडियो प्रॉम्प्ट जिसमें रेतीला समुद्र तट, लोग और समुद्र की धीमी लहरें दिखाई गई हैं।
-
-#### 📝 Prompt
-
-```
-एक रेतीला समुद्र तट जहाँ बहुत से लोग धूप सेंक रहे हैं, साथ ही हल्की हवा और छोटी-छोटी लहरें उठ रही हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089391085973835777/img/52gygCYwDKTpscVa.jpg" width="600" alt="लहरों वाला सनबाथिंग बीच">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9430)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2089391129162645811) | **Published:** Aug 17, 2026
-
----
-### गेहूं के खेत में हल चलाता किसान
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अमेरिकी किसान द्वारा John Deere ट्रैक्टर का उपयोग करके गेहूं के एक बड़े खेत की जुताई करने का वीडियो बनाने के लिए एक सीधा-साधा प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक अमेरिकी किसान द्वारा गेहूं उगाने के लिए एक बड़े खेत की जुताई करते हुए और एक John Deere ट्रैक्टर का वीडियो बनाएं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089390175126163456/img/AiZPYcnoBJPdjb16.jpg" width="600" alt="गेहूं के खेत में हल चलाता किसान">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9423)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2089390212082192396) | **Published:** Aug 17, 2026
-
----
-### पिक्सर (Pixar) स्टाइल स्ट्रॉबेरी डोनट एनिमेशन
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> पिक्सर-स्टाइल कपल अवतार के लिए एक रचनात्मक प्रॉम्प्ट, जिसमें एक स्ट्रॉबेरी डोनट लड़का और एक मिल्क टी लड़की शामिल हैं, साथ ही एक विशेष ब्लशिंग एनिमेशन सीक्वेंस भी है।
-
-#### 📝 Prompt
-
-```
-एक फैन पेज अवतार के रूप में उपयोग करने के लिए एक इमेज जेनरेट करें। पेज का नाम 'Boti and Muti' है, जिसका अर्थ स्ट्रॉबेरी डोनट और मिल्क टी है। यह एक युवा जोड़े के फैन पेज के लिए है; स्ट्रॉबेरी डोनट लड़का है और मिल्क टी लड़की है। स्टाइल हिप और क्यूट है, जो पिक्सर (Pixar) से प्रेरित है। मिल्क टी का रंग सॉलिड और क्लियर होना चाहिए। नीचे लिखे अंग्रेजी टेक्स्ट और स्ट्रॉबेरी से लाल दानों को हटा दें। शुरुआत में स्ट्रॉबेरी को ब्लश (शर्माते हुए) करते हुए दिखाएं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089388388860526593/img/fC5LNStOiU6f7H9c.jpg" width="600" alt="पिक्सर (Pixar) स्टाइल स्ट्रॉबेरी डोनट एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9434)**
-
-**Author:** [Tenghao hsu](https://x.com/HsuTenghao19046) | **Source:** [Link](https://x.com/HsuTenghao19046/status/2089388405990064618) | **Published:** Aug 17, 2026
-
----
-### बायोलुमिनेसेंट ओशन कॉउचर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine Image 2 मॉडल का उपयोग करके तैयार की गई एक असली (surreal) फैशन अवधारणा, जो एक सिनेमैटिक अंडरवॉटर कैटवॉक दृश्य प्रस्तुत करती है।
-
-#### 📝 Prompt
-
-```
-गहरे समुद्र की लहरों, चमकते जेलीफ़िश टेंटेकल्स, इंद्रधनुषी मोतियों और जीवित मूंगों से बने एक असली बायोलुमिनेसेंट ओशन कॉउचर गाउन में एक आत्मविश्वासी महिला, पानी के नीचे की रोशनी की किरणों और चमकती धुंध के साथ एक नाटकीय, सिनेमैटिक शैली में लग्जरी कैटवॉक पर चल रही है।
-```
-
-<img src="https://cms-assets.youmind.com/media/1787039476062_orzyes_HP7oYg9aAAAVkfV.jpg" width="600" alt="बायोलुमिनेसेंट ओशन कॉउचर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9420)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2089363024356524125) | **Published:** Aug 17, 2026
-
----
-### प्लियाडियन मानवता के विभिन्न रूप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> प्लियाडियन तर्ज पर मानवता के विभिन्न रूपों को दर्शाने वाला एक उच्च-गुणवत्ता वाला वीडियो प्रॉम्प्ट, जिसमें वॉल्यूमेट्रिक लाइटिंग का उपयोग किया गया है।
-
-#### 📝 Prompt
-
-```
-मानवता के कई रूप हैं, इसे प्लियाडियन तर्ज पर दर्शाएं, मास्टरपीस, अल्ट्रा एचडी गुणवत्ता रिज़ॉल्यूशन, वॉल्यूमेट्रिक ब्राइट लाइटिंग और रंग
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089351947077763072/img/iNSiR6gZq0CTzsjH.jpg" width="600" alt="प्लियाडियन मानवता के विभिन्न रूप">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9431)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089351996570538020) | **Published:** Aug 17, 2026
-
----
-### पंख विकास मॉर्फिंग अनुक्रम
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जटिल मॉर्फिंग प्रॉम्प्ट जो प्राकृतिक पंखुड़ियों और तितली के पंखों से लेकर मैकेनिकल जेट और अंतरिक्ष यान के पंखों तक, विभिन्न प्रकार के पंखों के माध्यम से रूपांतरित होता है।
-
-#### 📝 Prompt
-
-```
-पत्ती → फूल की पंखुड़ी → तितली का पंख → ड्रैगनफ्लाई का पंख → पक्षी का पंख → गाने वाले पक्षी का पंख → बाज का पंख → ग्लाइडर का पंख → कागज़ के हवाई जहाज़ का पंख → बाईप्लेन का पंख → प्रोपेलर हवाई जहाज़ का पंख → यात्री जेट का पंख → फाइटर जेट का पंख → अंतरिक्ष यान का पंख → सोलर सेल → सोलर पैनल → सैटेलाइट → स्पेस टेलीस्कोप
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089324265464041472/img/2lX1b3QOGx1o-dD3.jpg" width="600" alt="पंख विकास मॉर्फिंग अनुक्रम">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9419)**
-
-**Author:** [Carl Bethea V](https://x.com/CarlBethea5) | **Source:** [Link](https://x.com/CarlBethea5/status/2089324882332946627) | **Published:** Aug 17, 2026
-
----
-### गॉथिक रोज़ ट्रांसफॉर्मेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक दृश्य रूप से प्रभावशाली वीडियो प्रॉम्प्ट, जिसमें एक काले गॉथिक गुलाब को चमकदार वॉल्यूमेट्रिक लाइटिंग के साथ लाल गुलाब में बदलते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-गॉथिक शैली में काला गुलाब लाल गुलाब में बदल जाता है, मास्टरपीस, अल्ट्रा एचडी क्वालिटी रिज़ॉल्यूशन, वॉल्यूमेट्रिक ब्राइट लाइटिंग और कलर्स
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089294953654423552/img/vh7iUAQuWxy_ulU_.jpg" width="600" alt="गॉथिक रोज़ ट्रांसफॉर्मेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9417)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089294989004042421) | **Published:** Aug 17, 2026
-
----
-### साइ-फाई स्पेसशिप एस्केप सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक कथा-आधारित प्रॉम्प्ट जो ट्रिनिया नामक पात्र के साथ स्पेसशिप डॉकिंग और एस्केप मिशन का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-ट्रिनिया का सुनहरी चाबी लेकर स्पेसशिप से भागना; स्पेसशिप का दुश्मन के जहाज से जुड़ना ताकि वह बच सके
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089280557913899008/img/znLqbMPOxjWTd_Tz.jpg" width="600" alt="साइ-फाई स्पेसशिप एस्केप सीक्वेंस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9429)**
-
-**Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2089280594186260518) | **Published:** Aug 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2184,6 +2210,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-28T11:14:27.598Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-28T22:23:02.417Z</sub>
 
 </div>

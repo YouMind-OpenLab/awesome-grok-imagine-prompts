@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2613** |
+| 📝 Total Prompts | **2625** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-28** |
 
@@ -189,6 +189,159 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Sinematik Birinci Şahıs Uçuş Karşılaması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için kristal bir saray ve aynalı bir salonda birinci şahıs bakış açısıyla uçuşu içeren, özel kırık cam metin efektiyle sona eren, oldukça detaylı sinematik bir uçuş istemi.
+
+#### 📝 Prompt
+
+```
+Asılı bir trenin altından varil dönüşü yapıyor, devasa bir kristal sarayın etrafında güçlü bir döngü gerçekleştiriyor, ardından açık bir pencereden dalış yaparak gökkuşağı ışıklarının kameranın etrafında dağıldığı bir aynalı salonda hızla ilerliyorsunuz. Son olarak, "Bugünkü sıkı çalışmanız için teşekkürler" mesajı kristal harflerle beliriyor ve ardından parçalara ayrılıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093246293917466624/img/mbJviXaH_0BG9aG4.jpg" width="600" alt="Sinematik Birinci Şahıs Uçuş Karşılaması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9969)**
+
+**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2093246555998548377) | **Published:** Aug 28, 2026
+
+---
+### Evcil Hayvan Anma Ruhun Yükselişi Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir köpeğin ruhunun bedeninden ayrılıp cennete gidişini tasvir eden, evcil hayvan anısına yönelik duygusal bir video istemi.
+
+#### 📝 Prompt
+
+```
+Yavru köpeğin “anneciğim, eve dönmem gerekiyordu, seni ve babamı seviyorum, her zaman yanınızda olacağım ve diğer taraftan sizi destekleyeceğim” dediğini hayal edin. Tüm fotoğrafları birleştirerek cennet gibi görünmelerini sağlayın, yavru köpeğin ruhunun küçük bedeninden ayrılışını ve...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093224113318109184/img/JOabjs3hbWp2dEf4.jpg" width="600" alt="Evcil Hayvan Anma Ruhun Yükselişi Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9964)**
+
+**Author:** [Jenna Fasce](https://x.com/stardessten) | **Source:** [Link](https://x.com/stardessten/status/2093224141302448619) | **Published:** Aug 28, 2026
+
+---
+### Sürreal Kozmik Zihin Vizyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir zihnin bütünü gerçeğe dönüştürme sürecini anlatan, kozmik ve renkli temalara sahip, şiirsel ve sürreal bir video istemi.
+
+#### 📝 Prompt
+
+```
+harflerin tamamı yerine oturmadan resmi dondurmayacak bir zihin. Görüntü sürreal olmalı; bütünü algılayan ve başkalarının gerçekliğiyle buluşmak için küçülen bir zihni yansıtmalı. Kozmik. Renkli.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093208937080512512/img/V4aBbbhrNngf3FIB.jpg" width="600" alt="Sürreal Kozmik Zihin Vizyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9959)**
+
+**Author:** [Guessmyname](https://x.com/NaturesPurpose) | **Source:** [Link](https://x.com/NaturesPurpose/status/2093208966230929432) | **Published:** Aug 28, 2026
+
+---
+### Hello Kitty Japonca Rap
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Japonca rap yapan, mücevherlerle süslü bir Hello Kitty için belirli şarkı sözlerini de içeren benzersiz bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sabah uyan / Her zamanki gibi / Eğer bir alışkanlıksa 'Para kazan' kendi teorim / Hayatımı bir rüya üzerine yaşıyorum Bu benim hikayem / Gönderiyorum, bu şehir sadece Film gibi bir hayat / ... Ve mücevherlerle süslü Hello Kitty'ye Japonca rap yaptır!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093196579461292032/img/9h4hfy6jnN3m2EVo.jpg" width="600" alt="Hello Kitty Japonca Rap">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9968)**
+
+**Author:** [れいじ](https://x.com/HuSSleNight24) | **Source:** [Link](https://x.com/HuSSleNight24/status/2093196626336858368) | **Published:** Aug 28, 2026
+
+---
+### Huzurlu Melek Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sarışın bir kadın, melekler ve parlayan cübbelerin yer aldığı huzurlu bir sahne için animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Huzurlu sahneyi nazikçe canlandırın: hafif rüzgar sarışın kadının saçlarını, meleklerin parlayan cübbelerini ve kanatlarını nazikçe hareket ettiriyor, çocuk hafifçe sokuluyor, ince bir ışıltı
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093167309800001536/img/xi3izzOMXq_pHks_.jpg" width="600" alt="Huzurlu Melek Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9965)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **Published:** Aug 28, 2026
+
+---
+### Şiirsel Deniz Kabuğu Etkileşimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İçinde okyanusu barındıran bir deniz kabuğunu tutmanın duyusal deneyimini betimleyen şiirsel bir anlatım istemi.
+
+#### 📝 Prompt
+
+```
+Kupaları birlikte masaya bıraktık. Ahşabın üzerinde hafif bir tık sesi.
+Uzanıp deniz kabuğunu aldım. Ellerimin arasında ısındı, sanki derin çukuru hatırlıyor gibi. Onu sana doğru çevirip hafifçe eğdim, tıpkı içinde okyanus taşıyan bir kupa gibi...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093104400797405185/img/AzgGhqx5-Cdy65gt.jpg" width="600" alt="Şiirsel Deniz Kabuğu Etkileşimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9961)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093104471303688698) | **Published:** Aug 27, 2026
+
+---
+### Pleiadian Ana Gemileri Turkuaz Gökyüzü Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yaz turkuazı bir gökyüzünde daire şeklindeki ana gemiler için yüksek sadakatli bir bilim kurgu video istemi.
+
+#### 📝 Prompt
+
+```
+Pleiadian Işık Gemileri, mavi turkuaz yaz gökyüzünde daire şeklinde ana gemiler, başyapıt, ultra hd kalite çözünürlük 111111111111111111199999999999999999 k, hacimsel parlak aydınlatma tonları ve renkleri
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092982559617511424/img/9VzG2E8XbX0XFRhk.jpg" width="600" alt="Pleiadian Ana Gemileri Turkuaz Gökyüzü Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9967)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092982630153073030) | **Published:** Aug 27, 2026
+
+---
+### Duygusal Sinematik Işık Geçişi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yağmurlu mavi tonlardan fener sarısına geçiş yapan ışık efektleriyle yüksek prodüksiyonlu, duygusal bir video istemi.
+
+#### 📝 Prompt
+
+```
+“An Ode to Freedom” / Ode to Courage ile aynı yüksek prodüksiyonlu duygusal tarzda 45–70 saniyelik sinematik bölüm. Yumuşak, nefes alan kamera hareketleri. Soğuk yağmurlu mavi bir çiçek tarlasından sıcak fener sarısına dönüşen zengin doğal aydınlatma. Etkileyici...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092954916721430528/img/TpmX8ByTrL8Wsaug.jpg" width="600" alt="Duygusal Sinematik Işık Geçişi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9962)**
+
+**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2092954940901568737) | **Published:** Aug 27, 2026
+
+---
 ### SpaceX MoonBase Kolonizasyon Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +359,51 @@ SpaceX ekip üyelerinin, aboneler tarafından tasarlanan yüklerle MrFIXitX Moon
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9931)**
 
 **Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
+
+---
+### Kore Mahallesinden Günlük Yaşam Video Senaryosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kore mahallesindeki bir ara sokakta yürüyen bir çiftin 'günlük yaşam' (slice of life) videosu için oldukça detaylı sinematik bir senaryo.
+
+#### 📝 Prompt
+
+```
+Konu ve Karakter Detayları
+Mekan: Eski bir Kore/Doğu Asya mahallesinde, güneş ışığı alan sessiz bir yerleşim yeri ara sokağı; dar asfalt yol, kiremit ve oluklu çatılı alçak evler, tepede birbirine dolanmış elektrik kabloları, saksı bitkileri, kurumaya bırakılmış çamaşırlar, park edilmiş bir bisiklet ve içinde içecekler bulunan küçük bir bakkal dolabı. Öğle vakti, ağaç dallarından süzülen ve zemine yumuşak yaprak gölgeleri düşüren sıcak doğal güneş ışığı. Elde çekim, yürürken konuşma tarzı, çoğunlukla çifti arkadan veya önden takip eden kamera açısı.
+
+Karakter 1 — Erkek
+Doğu Asyalı erkek, 20'li yaşların sonu veya 30'larında, kısa siyah dağınık saçlı, sinekkaydı tıraşlı, yumuşak ve rahat bir ifadeye sahip.
+Üzerinde kumaş kırışıklıkları belli olan, bol kesim, soluk kömür grisi/kahverengi bisiklet yaka tişört, bol bej/haki geniş paça pantolon ve beyaz spor ayakkabılar var.
+Sol bileğinde kol saati takılı.
+Üzerinde küçük yuvarlak sarı bir logo yaması olan bez bir çanta taşıyor.
+Elinde sürekli şeffaf plastik şişede buzlu çay/arpa çayı tutuyor.
+Sakin, sıcakkanlı ve hafif oyuncu bir tavır sergiliyor; gülümsüyor, yanındaki arkadaşına yan gözle bakıyor ve konuşurken nazik el hareketleri yapıyor.
+
+Karakter 2 — Kadın
+Doğu Asyalı kadın, 20'li yaşların sonunda, koyu renkli saçları ensede gevşek bir topuz yapılmış, yüzünü çevreleyen serbest tutamlar var.
+Üzerinde kolları hafifçe kıvrılmış, bol kesim adaçayı yeşili düğmeli bir gömlek, açık mavi/gri tonlarında kot pantolon ve beyaz spor ayakkabılar var.
+İnce bir kolye takıyor.
+O da bez bir çanta ve şişede buzlu çay taşıyor.
+Neşeli ve rahat bir ifadeye sahip; gülümsüyor, hafifçe gülüyor ve onunla aynı tempoda yürüyor.
+
+İlişki/Ruh Hali: Küçük bir alışveriş gezisinden sonra mahallede rahat bir yürüyüşe çıkan, birbirine karşı sevgi dolu bir çift; huzurlu bir sessizlik ve küçük sohbetler, doğal bir uyum, "günlük yaşam" (slice of life) tonu.
+
+0:00–0:05: Arkadan geniş açı, çift ağaç gölgesindeki dar bir sokakta kameradan uzaklaşıyor. Solda gri tişörtlü ve haki pantolonlu erkek, sağda adaçayı yeşili gömlekli ve kot pantolonlu kadın, ikisinin de elinde beyaz plastik alışveriş poşetleri var. Kaldırımda benekli güneş ışığı, duvar kenarlarında bisikletler ve saksı bitkileri, sağda asılı çamaşırlar. Onları arkadan takip eden yavaş ve sabit bir takip çekimi.
+
+0:05–0:10: Kamera artık onları yönlendiriyor, göğüs hizasından ön/yan açıdan çekim yapılıyor. Öndeki erkek gülümseyerek yana bakıyor, arkasında sağda topuz saçlı kadın da gülümsüyor. Arkalarında çamaşır ipi ve yeşil yapraklar görünüyor, sıcak arkadan aydınlatmalı güneş ışığı var. Onlar yaklaşırken kamera yavaşça geri çekiliyor/kaydırılıyor.
+
+0:10–0:15: Yakın ikili çekim, küçük bir dükkanın dışındaki açık içecek dolabına doğru yürürken kamera onlara dönük. Erkek, çenesinin yakınında tuttuğu buzlu çay şişesiyle düşünceli/hareketli bir jestle konuşuyor; yanındaki kadın iki şişe tutuyor, gülümsüyor ve ona bakıyor. Sağ taraftaki arka planda renkli şişelerle dolu içecek dolabı görünüyor.
+
+0:15–0:20: Orta çekim, ikisi de ellerinde buzlu çay şişeleriyle doğrudan kameraya doğru yürüyor, ikisi de sıcak bir şekilde gülümsüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092618886546067456/img/yAeh9Kog_lpT6HmO.jpg" width="600" alt="Kore Mahallesinden Günlük Yaşam Video Senaryosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9963)**
+
+**Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2092884832816906256) | **Published:** Aug 27, 2026
 
 ---
 ### Yüz Isırma Balon Animasyonu
@@ -263,6 +461,63 @@ Gökyüzünden düşen kutu çimlerin üzerinde kırılarak açılıyor; kutunun
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
+
+---
+### Tanrıça Diana Okçuluk Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karanlık ve sisli bir ormanda tanrıça Diana'yı betimleyen dramatik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Gümüş gri saçlı, uçuşan beyaz elbiseli, karanlık ve sisli bir ormanda büyük bir yayı gererek oku doğrudan izleyiciye doğrultmuş şekilde ileri atılan vahşi tanrıça Diana'nın yeni ve dramatik bir varyasyonunu oluşturun...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092783400952438784/img/o_BndaBEHdZ4GrAN.jpg" width="600" alt="Tanrıça Diana Okçuluk Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9960)**
+
+**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2092783433961590892) | **Published:** Aug 27, 2026
+
+---
+### Pleiadian Işık Gemileri Yaz Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Göksel gemilerin parlak ışıklandırmasına ve hacimsel tonlarına odaklanan yüksek çözünürlüklü bir bilim kurgu video istemi.
+
+#### 📝 Prompt
+
+```
+Yazın mavi turkuaz gökyüzünde Pleiadian ışık gemileri, şaheser, ultra hd kalite çözünürlük 11111111111199999999999 k, hacimsel parlak ışıklandırma ve renk tonları
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092779708542779392/img/923tBS6kA-LuxU8x.jpg" width="600" alt="Pleiadian Işık Gemileri Yaz Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9966)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092779760585756700) | **Published:** Aug 27, 2026
+
+---
+### Doğal ve Sabit Sahne Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Modelin bir sahneyi kamera hareketi, konuşma veya göz kırpma olmadan doğal bir şekilde canlandırmasını sağlayan teknik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Canlandır. Sahneyi sabit tut, yakınlaştırma veya uzaklaştırma yapma. Konuşma veya kelime yok. Sadece doğal bir şekilde var olsun. Göz kırpma yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092757907360129024/img/Re-Uu0FV7fbY5LdQ.jpg" width="600" alt="Doğal ve Sabit Sahne Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9958)**
+
+**Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
 
 ---
 ### Kedi Moda Modeli Podyum Yürüyüşü
@@ -1895,234 +2150,6 @@ Gezegenin dönmesini, geminin ileri doğru hareket etmesini ve lazerlerin kayala
 **Author:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **Source:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **Published:** Aug 17, 2026
 
 ---
-### Sıvı Krom Terminator Efekti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Konuyu Terminator filmlerinden esinlenerek sıvı metal krom bir maddeye dönüştüren bir video-video stil istemi.
-
-#### 📝 Prompt
-
-```
-bunu benimle bir videoya dönüştür, Terminator filmlerindeki gibi anında sıvı kroma dönüşeyim
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089481439981002753/img/-CUZ_gnhORuZ-ygw.jpg" width="600" alt="Sıvı Krom Terminator Efekti">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9470)**
-
-**Author:** [George White](https://x.com/GeorgeWhit30059) | **Source:** [Link](https://x.com/GeorgeWhit30059/status/2089481455005032644) | **Published:** Aug 17, 2026
-
----
-### Gotik Kırmızı Altın Parlayan Metin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sis ve atmosferik ışık efektleriyle gotik yazı tipi için karanlık fantezi sinematik hareket istemi.
-
-#### 📝 Prompt
-
-```
-Gotik "JUANG   Musk" metni yavaşça koyu kırmızı ve altın rengi ışıkla parlıyor, sis süslü gotik harflerin etrafında dramatik bir şekilde dönüyor, hafif kamera yakınlaştırması ve sürüklenen atmosferik sis, karanlık fantezi sinematik hareket, yüksek detay
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089467697654382594/img/ZsOGvwDEH-aW5lpA.jpg" width="600" alt="Gotik Kırmızı Altın Parlayan Metin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9426)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2089467763471286385) | **Published:** Aug 17, 2026
-
----
-### Benzin İstasyonu Sinematik Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir adamın arabasını park edip benzin istasyonuna girdiği, gerçekçi bir sinematik sekans için oldukça detaylı, tek çekim takip istemi.
-
-#### 📝 Prompt
-
-```
-Gündüz vakti, günlük kıyafetler içindeki genç bir adam olan Ethan, modern bir sedan aracı kadrajın sağ tarafından boş bir benzin istasyonu otoparkına sürüyor. Aracın arkası kameraya bakacak şekilde, doğrudan benzin istasyonu girişinin karşısındaki bir park yerine sağa dönüyor, çizgilerin içine düzgünce park ediyor, aracı durduruyor ve motoru kapatıyor. Kamera açısından Ethan, sol sürücü kapısını açıyor ve önce sol ayağıyla kaldırıma adım atıyor, aracın sol tarafından tamamen çıkıyor, arkasından kapıyı kapatıyor ve dümdüz yürüyerek benzin istasyonu binasına giriyor. Kesintisiz tek çekim sinematik takip, gerçekçi fizik, kamera kesintisi yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089457726497697793/img/YYGRMFNucFq93VP8.jpg" width="600" alt="Benzin İstasyonu Sinematik Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9433)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2089457914029502891) | **Published:** Aug 17, 2026
-
----
-### DiCaprio Titanic Enkazı Rüyası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Leonardo DiCaprio'nun Titanic enkazının ortasında tropikal bir kumsalda uyandığını betimleyen sinematik bir anlatım istemi.
-
-#### 📝 Prompt
-
-```
-Leonardo DiCaprio tropikal bir kumsalda gördüğü bir kabustan uyanır, irkilerek doğrulur, şaşkınlıkla etrafına bakınır ve ardından adaya vuran devasa paslı Titanic enkazı parçalarını fark eder
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089416053223026688/img/jyodM4Sk4LCkdJUS.jpg" width="600" alt="DiCaprio Titanic Enkazı Rüyası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9421)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2089416089705091286) | **Published:** Aug 17, 2026
-
----
-### Dalgalı ve Güneşli Kumsal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İnsanların olduğu kumsalı ve hafif okyanus dalgalarını gösteren rahatlatıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Güneşlenen insanlarla dolu kumsallı bir plaj, hafif bir esinti ve kıyıya vuran küçük dalgalar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089391085973835777/img/52gygCYwDKTpscVa.jpg" width="600" alt="Dalgalı ve Güneşli Kumsal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9430)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2089391129162645811) | **Published:** Aug 17, 2026
-
----
-### Buğday Tarlasını Süren Çiftçi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Amerikalı bir çiftçinin John Deere traktör kullanarak büyük bir buğday tarlasını sürmesini konu alan video oluşturmaya yönelik basit bir istem.
-
-#### 📝 Prompt
-
-```
-Buğday yetiştirmek için büyük bir tarlayı süren Amerikalı bir çiftçi ve bir John Deere traktör içeren bir video oluştur
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089390175126163456/img/AiZPYcnoBJPdjb16.jpg" width="600" alt="Buğday Tarlasını Süren Çiftçi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9423)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2089390212082192396) | **Published:** Aug 17, 2026
-
----
-### Pixar Tarzı Çilekli Donut Animasyonu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Çilekli donut bir erkek ve sütlü çay bir kız karakterini içeren, özel bir utangaçlık animasyon sekansı da dahil olmak üzere Pixar tarzı bir çift avatarı için yaratıcı bir komut.
-
-#### 📝 Prompt
-
-```
-Hayran sayfası avatarı olarak kullanılacak bir görsel oluşturun. Sayfa adı 'Boti ve Muti', yani çilekli donut ve sütlü çay anlamına geliyor. Bu, genç bir çiftin hayran sayfası içindir; çilekli donut erkek, sütlü çay ise kız karakterdir. Tarz, Pixar esintili, havalı ama sevimli olmalı. Sütlü çayın rengi net ve belirgin olmalıdır. Alttaki İngilizce metni ve çileğin üzerindeki kırmızı tanecikleri kaldırın. Çilek başlangıçta utansın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089388388860526593/img/fC5LNStOiU6f7H9c.jpg" width="600" alt="Pixar Tarzı Çilekli Donut Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9434)**
-
-**Author:** [Tenghao hsu](https://x.com/HsuTenghao19046) | **Source:** [Link](https://x.com/HsuTenghao19046/status/2089388405990064618) | **Published:** Aug 17, 2026
-
----
-### Biyolüminesans Okyanus Modası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine Image 2 modeli kullanılarak oluşturulan, sinematik bir su altı podyum sahnesiyle sonuçlanan sürreal bir moda konsepti.
-
-#### 📝 Prompt
-
-```
-Akışkan derin deniz dalgaları, parlayan denizanası dokunaçları, yanardöner inciler ve canlı mercanlardan oluşan sürreal bir biyolüminesans okyanus elbisesi içindeki vakur kadın, su altı ışık huzmeleri ve ışıltılı sis eşliğinde dramatik, sinematik bir tarzda lüks bir podyumda yürüyor.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787039476062_orzyes_HP7oYg9aAAAVkfV.jpg" width="600" alt="Biyolüminesans Okyanus Modası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9420)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2089363024356524125) | **Published:** Aug 17, 2026
-
----
-### Pleiades İnsanlığı Varyasyonları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Pleiades çizgileri doğrultusunda insanlık varyasyonlarını hacimsel ışıklandırma ile betimleyen yüksek kaliteli bir video istemi.
-
-#### 📝 Prompt
-
-```
-İnsanlığın Pleiades çizgileri doğrultusunda birçok varyasyonunu betimle, başyapıt, ultra HD kalite çözünürlük, hacimsel parlak ışıklandırma ve renkler
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089351947077763072/img/iNSiR6gZq0CTzsjH.jpg" width="600" alt="Pleiades İnsanlığı Varyasyonları">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9431)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089351996570538020) | **Published:** Aug 17, 2026
-
----
-### Kanat Evrimi Dönüşüm Dizisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Doğal yapraklardan ve kelebek kanatlarından mekanik jet ve uzay aracı kanatlarına kadar çok çeşitli kanatlar arasında geçiş yapan karmaşık bir dönüşüm istemi.
-
-#### 📝 Prompt
-
-```
-Yaprak → çiçek yaprağı → kelebek kanadı → yusufçuk kanadı → kuş tüyü → ötücü kuş kanadı → kartal kanadı → planör kanadı → kağıttan uçak kanadı → çift kanatlı uçak kanadı → pervane uçak kanadı → yolcu jeti kanadı → savaş jeti kanadı → uzay aracı kanadı → güneş yelkeni → güneş paneli → uydu → uzay teleskobu
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089324265464041472/img/2lX1b3QOGx1o-dD3.jpg" width="600" alt="Kanat Evrimi Dönüşüm Dizisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9419)**
-
-**Author:** [Carl Bethea V](https://x.com/CarlBethea5) | **Source:** [Link](https://x.com/CarlBethea5/status/2089324882332946627) | **Published:** Aug 17, 2026
-
----
-### Gotik Gül Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Siyah gotik bir gülün, parlak hacimsel aydınlatma eşliğinde kırmızı bir güle dönüştüğü görsel açıdan çarpıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Gotik tarzda siyah gül kırmızı bir güle dönüşüyor, şaheser, ultra HD kalite çözünürlük, hacimsel parlak aydınlatma ve renkler
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089294953654423552/img/vh7iUAQuWxy_ulU_.jpg" width="600" alt="Gotik Gül Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9417)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089294989004042421) | **Published:** Aug 17, 2026
-
----
-### Bilim Kurgu Uzay Gemisi Kaçış Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Trinia adında bir karakterin dahil olduğu, uzay gemisi kenetlenme ve kaçış görevini anlatan hikaye odaklı bir komut.
-
-#### 📝 Prompt
-
-```
-Trinia'nın altın anahtarla bir uzay gemisinde kaçışı; kaçabilmesi için uzay gemisinin düşman gemisine kenetlenmesi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089280557913899008/img/znLqbMPOxjWTd_Tz.jpg" width="600" alt="Bilim Kurgu Uzay Gemisi Kaçış Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9429)**
-
-**Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2089280594186260518) | **Published:** Aug 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2184,6 +2211,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-28T11:14:33.925Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-28T22:23:13.625Z</sub>
 
 </div>

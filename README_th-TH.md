@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2613** |
+| 📝 Total Prompts | **2625** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-28** |
 
@@ -189,6 +189,159 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### วิดีโอต้อนรับมุมมองบุคคลที่หนึ่งแบบภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบภาพยนตร์ที่มีรายละเอียดสูงสำหรับ Grok Imagine นำเสนอภาพมุมมองบุคคลที่หนึ่งขณะบินผ่านปราสาทคริสตัลและโถงกระจก ปิดท้ายด้วยเอฟเฟกต์ข้อความกระจกแตกที่ปรับแต่งได้
+
+#### 📝 Prompt
+
+```
+คุณบินหมุนตัวลอดใต้รถไฟที่ลอยอยู่ ทำท่าบินวนรอบปราสาทคริสตัลขนาดมหึมา จากนั้นพุ่งผ่านหน้าต่างที่เปิดอยู่และเร่งความเร็วผ่านโถงกระจกที่แสงสีรุ้งแตกกระจายอยู่รอบกล้อง ในตอนท้าย ข้อความ "ขอบคุณสำหรับการทำงานหนักในวันนี้" จะปรากฏขึ้นเป็นตัวอักษรคริสตัลแล้วแตกกระจายเป็นชิ้นๆ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093246293917466624/img/mbJviXaH_0BG9aG4.jpg" width="600" alt="วิดีโอต้อนรับมุมมองบุคคลที่หนึ่งแบบภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9969)**
+
+**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2093246555998548377) | **Published:** Aug 28, 2026
+
+---
+### แอนิเมชันส่งดวงวิญญาณสัตว์เลี้ยงสู่สรวงสวรรค์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสุดซึ้งสำหรับรำลึกถึงสัตว์เลี้ยง โดยถ่ายทอดภาพดวงวิญญาณของสุนัขที่กำลังออกจากร่างเพื่อเดินทางไปสู่สรวงสวรรค์
+
+#### 📝 Prompt
+
+```
+สร้างภาพน้องหมาที่กำลังพูดว่า “แม่ครับ ผมต้องกลับบ้านแล้วนะ ผมรักแม่กับพ่อมาก และผมจะคอยอยู่เคียงข้างและเป็นกำลังใจให้ทั้งสองคนจากอีกฝั่งเสมอ” นำภาพทั้งหมดมารวมกันให้ดูเหมือนอยู่บนสรวงสวรรค์ โดยให้เห็นดวงวิญญาณของน้องหมาค่อยๆ ออกจากร่างเล็กๆ ของเขาและ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093224113318109184/img/JOabjs3hbWp2dEf4.jpg" width="600" alt="แอนิเมชันส่งดวงวิญญาณสัตว์เลี้ยงสู่สรวงสวรรค์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9964)**
+
+**Author:** [Jenna Fasce](https://x.com/stardessten) | **Source:** [Link](https://x.com/stardessten/status/2093224141302448619) | **Published:** Aug 28, 2026
+
+---
+### วิสัยทัศน์แห่งจิตเหนือจริงในห้วงจักรวาล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์เชิงกวีและเหนือจริงที่บรรยายถึงกระบวนการของจิตที่ประมวลผลภาพรวมให้กลายเป็นความจริง โดยเน้นธีมจักรวาลและสีสันสดใส
+
+#### 📝 Prompt
+
+```
+จิตที่ไม่มีวันหยุดนิ่งจนกว่าตัวอักษรทั้งหมดจะเรียงร้อยลงตัว ภาพที่ได้ควรมีความเหนือจริง ถ่ายทอดสภาวะของจิตที่รับเอาภาพรวมทั้งหมดเข้ามาแล้วย่อส่วนลงเพื่อบรรจบกับความเป็นจริงของผู้อื่น เป็นห้วงจักรวาล และเปี่ยมไปด้วยสีสัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093208937080512512/img/V4aBbbhrNngf3FIB.jpg" width="600" alt="วิสัยทัศน์แห่งจิตเหนือจริงในห้วงจักรวาล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9959)**
+
+**Author:** [Guessmyname](https://x.com/NaturesPurpose) | **Source:** [Link](https://x.com/NaturesPurpose/status/2093208966230929432) | **Published:** Aug 28, 2026
+
+---
+### Hello Kitty แร็ปภาษาญี่ปุ่น
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> วิดีโอพรอมต์สุดพิเศษที่ให้ Hello Kitty สุดหรูมาแร็ปเป็นภาษาญี่ปุ่น พร้อมเนื้อเพลงเฉพาะ
+
+#### 📝 Prompt
+
+```
+ตื่นนอนตอนเช้า / เหมือนเช่นเคย / ถ้าเป็นนิสัย 'หาเงิน' คือทฤษฎีของฉัน / ใช้ชีวิตตามความฝัน นี่คือเรื่องราวของฉัน / ส่งต่อมันไป เมืองนี้คือ Life the Movie เพียงหนึ่งเดียว / ... และทำให้ Hello Kitty สุดวิบวับแร็ปเป็นภาษาญี่ปุ่น!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093196579461292032/img/9h4hfy6jnN3m2EVo.jpg" width="600" alt="Hello Kitty แร็ปภาษาญี่ปุ่น">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9968)**
+
+**Author:** [れいじ](https://x.com/HuSSleNight24) | **Source:** [Link](https://x.com/HuSSleNight24/status/2093196626336858368) | **Published:** Aug 28, 2026
+
+---
+### แอนิเมชันนางฟ้าผู้เงียบสงบ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างแอนิเมชันฉากอันเงียบสงบที่มีหญิงสาวผมบลอนด์ เหล่านางฟ้า และชุดคลุมเรืองแสง
+
+#### 📝 Prompt
+
+```
+สร้างแอนิเมชันฉากอันเงียบสงบอย่างนุ่มนวล: สายลมอ่อนๆ พัดผ่านเส้นผมของหญิงสาวผมบลอนด์ รวมถึงชุดคลุมและปีกที่เรืองแสงของเหล่านางฟ้า เด็กน้อยขยับเข้ามาใกล้ขึ้นเล็กน้อย พร้อมแสงเรืองรองที่ดูนุ่มนวล
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093167309800001536/img/xi3izzOMXq_pHks_.jpg" width="600" alt="แอนิเมชันนางฟ้าผู้เงียบสงบ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9965)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **Published:** Aug 28, 2026
+
+---
+### ปฏิสัมพันธ์กับสังข์แห่งห้วงสมุทรอันเปี่ยมด้วยบทกวี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) ในรูปแบบการบรรยายเชิงกวีที่ถ่ายทอดประสบการณ์ทางประสาทสัมผัสของการถือเปลือกหอยสังข์ที่บรรจุห้วงมหาสมุทรไว้ภายใน
+
+#### 📝 Prompt
+
+```
+เราวางแก้วลงพร้อมกัน เสียงกระทบไม้เบาๆ ดังขึ้น
+ฉันเอื้อมมือไปหยิบเปลือกหอยสังข์ขึ้นมา มันอุ่นขึ้นในมือราวกับว่ามันยังจดจำห้วงลึกของมหาสมุทรได้ ฉันหันมันไปทางคุณแล้วเอียงเล็กน้อย ราวกับถ้วยที่บรรจุห้วงสมุทรเอาไว้ภายใน...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093104400797405185/img/AzgGhqx5-Cdy65gt.jpg" width="600" alt="ปฏิสัมพันธ์กับสังข์แห่งห้วงสมุทรอันเปี่ยมด้วยบทกวี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9961)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093104471303688698) | **Published:** Aug 27, 2026
+
+---
+### วิดีโอยานแม่ Pleiadian บนท้องฟ้าสีเทอร์ควอยซ์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอไซไฟคุณภาพสูงสำหรับยานแม่รูปทรงจานบินบนท้องฟ้าสีเทอร์ควอยซ์ในฤดูร้อน
+
+#### 📝 Prompt
+
+```
+ยานแสง Pleiadians ยานแม่รูปทรงจานบินบนท้องฟ้าสีฟ้าเทอร์ควอยซ์ในฤดูร้อน, ผลงานชิ้นเอก, ความละเอียดคุณภาพระดับ ultra hd 111111111111111111199999999999999999 k, โทนสีและแสงสว่างแบบ volumetric ที่สดใส
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092982559617511424/img/9VzG2E8XbX0XFRhk.jpg" width="600" alt="วิดีโอยานแม่ Pleiadian บนท้องฟ้าสีเทอร์ควอยซ์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9967)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092982630153073030) | **Published:** Aug 27, 2026
+
+---
+### การเปลี่ยนผ่านของแสงในภาพยนตร์ที่เปี่ยมด้วยอารมณ์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอคุณภาพสูงที่ถ่ายทอดอารมณ์ความรู้สึก โดยมีการเปลี่ยนผ่านของแสงจากสีฟ้าของสายฝนไปสู่สีทองของโคมไฟ
+
+#### 📝 Prompt
+
+```
+วิดีโอความยาว 45–70 วินาทีในสไตล์ภาพยนตร์คุณภาพสูงเช่นเดียวกับ “An Ode to Freedom” / Ode to Courage การเคลื่อนไหวของกล้องที่นุ่มนวลและเป็นธรรมชาติ แสงธรรมชาติที่เข้มข้นซึ่งเปลี่ยนจากทุ่งดอกไม้สีฟ้าท่ามกลางสายฝนที่เย็นสบาย ไปสู่สีทองอบอุ่นของโคมไฟ ทรงพลัง...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092954916721430528/img/TpmX8ByTrL8Wsaug.jpg" width="600" alt="การเปลี่ยนผ่านของแสงในภาพยนตร์ที่เปี่ยมด้วยอารมณ์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9962)**
+
+**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2092954940901568737) | **Published:** Aug 27, 2026
+
+---
 ### แอนิเมชันการตั้งถิ่นฐานบนฐานทัพดวงจันทร์ของ SpaceX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +359,50 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9931)**
 
 **Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
+
+---
+### บทวิดีโอแนว Slice of Life ในย่านที่พักอาศัยสไตล์เกาหลี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> บทวิดีโอแนว 'Slice of Life' ที่มีความละเอียดสูงและให้ความรู้สึกแบบภาพยนตร์ สำหรับคู่รักที่กำลังเดินเล่นในตรอกย่านที่พักอาศัยสไตล์เกาหลี
+
+#### 📝 Prompt
+
+```
+รายละเอียดหัวข้อและตัวละคร
+สถานที่: ตรอกที่พักอาศัยอันเงียบสงบที่มีแสงแดดส่องถึงในย่านเก่าแก่ของเกาหลีหรือเอเชียตะวันออก — ทางเดินปูพื้นแคบๆ บ้านชั้นเดียวหลังคากระเบื้องและสังกะสี สายไฟระโยงระยางเหนือศีรษะ กระถางต้นไม้ เสื้อผ้าที่ตากไว้ จักรยานที่จอดอยู่ และตู้แช่เครื่องดื่มของร้านสะดวกซื้อขนาดเล็ก ช่วงกลางวัน แสงแดดธรรมชาติที่อบอุ่นพร้อมเงาใบไม้ที่ทอดลงบนพื้น กรองผ่านกิ่งไม้ที่ยื่นออกมา ใช้กล้องแบบถือถ่าย (Handheld) สไตล์เดินไปคุยไป โดยส่วนใหญ่จะติดตามคู่รักจากด้านหลังหรือด้านหน้า
+
+ตัวละครที่ 1 — ชาย
+ชายชาวเอเชียตะวันออก อายุประมาณปลาย 20 ถึง 30 ปี ผมสั้นสีดำยุ่งเล็กน้อย โกนหนวดเคราสะอาดสะอ้าน มีสีหน้าผ่อนคลายและดูอบอุ่น
+สวมเสื้อยืดคอกลมตัวโคร่งสีเทาเข้ม/น้ำตาลซีดที่มีรอยยับของเนื้อผ้า กางเกงขายาวทรงกระบอกกว้างสีเบจ/กากี รองเท้าผ้าใบสีขาว
+สวมนาฬิกาข้อมือที่ข้อมือซ้าย
+สะพายกระเป๋าผ้าทอที่มีป้ายโลโก้สีเหลืองวงกลมเล็กๆ
+ถือขวดพลาสติกใสบรรจุชาเย็น/ชาบาร์เลย์ตลอดเวลา
+ท่าทางสงบ อบอุ่น และขี้เล่นเล็กน้อย — ยิ้ม หันไปมองเพื่อนร่วมทาง และใช้ท่าทางประกอบการพูดอย่างนุ่มนวล
+
+ตัวละครที่ 2 — หญิง
+หญิงชาวเอเชียตะวันออก อายุประมาณปลาย 20 ปี ผมสีเข้มรวบเป็นมวยต่ำโดยมีปอยผมล้อมกรอบหน้า
+สวมเสื้อเชิ้ตกระดุมหน้าตัวโคร่งสีเขียวเซจ (Sage Green) พับแขนเสื้อแบบหลวมๆ กางเกงยีนส์สีฟ้าอ่อน/เทา รองเท้าผ้าใบสีขาว
+สวมสร้อยคอจี้เส้นเล็ก
+สะพายกระเป๋าผ้าทอและถือขวดชาเย็นเช่นกัน
+สีหน้าสดใส สบายๆ — ยิ้ม หัวเราะเบาๆ และเดินเคียงข้างเขาอย่างพร้อมเพรียง
+
+ความสัมพันธ์/บรรยากาศ: คู่รักที่ดูเป็นกันเองและมีความรักให้กัน กำลังเดินเล่นในย่านที่พักอาศัยอย่างผ่อนคลายหลังจากไปซื้อของเล็กๆ น้อยๆ — ความเงียบที่แสนสบายและการพูดคุยเรื่องสัพเพเหระ เคมีที่เป็นธรรมชาติ ในโทนแบบ "Slice of Life"
+
+0:00–0:05 ภาพมุมกว้างจากด้านหลัง คู่รักกำลังเดินห่างออกจากกล้องไปตามตรอกแคบๆ ที่มีต้นไม้ให้ร่มเงา ชายในเสื้อยืดสีเทาและกางเกงกากีอยู่ทางซ้าย หญิงในเสื้อสีเขียวเซจและกางเกงยีนส์อยู่ทางขวา ทั้งคู่ถือถุงพลาสติกใส่ของสีขาว แสงแดดส่องผ่านใบไม้ลงบนพื้นถนน มีจักรยานและกระถางต้นไม้เรียงรายอยู่ตามผนัง และมีเสื้อผ้าตากอยู่ทางขวา เป็นช็อตติดตาม (Tracking shot) ที่นิ่งและช้าตามหลังพวกเขาไป
+
+0:05–0:10 กล้องนำหน้าพวกเขา ถ่ายจากด้านหน้า/ด้านข้างที่ระดับหน้าอก ชายในฉากหน้าหันไปมองด้านข้างพร้อมรอยยิ้ม หญิงที่อยู่ด้านหลังเขาเล็กน้อยทางขวา ผมมวย ยิ้มเช่นกัน มีราวตากผ้าและใบไม้สีเขียวอยู่ด้านหลัง แสงแดดส่องจากด้านหลังที่อบอุ่น กล้องค่อยๆ แพน/ติดตามถอยหลังขณะที่พวกเขาเดินเข้ามาใกล้
+0:10–0:15 ภาพ Close-up สองคน กล้องหันหน้าเข้าหาพวกเขาขณะที่เดินไปที่ตู้แช่เครื่องดื่มที่เปิดอยู่หน้าร้านเล็กๆ ชายถือขวดชาเย็นขึ้นมาใกล้คาง พูดคุยด้วยท่าทางที่ดูครุ่นคิด/มีชีวิตชีวา หญิงข้างๆ ถือขวดสองขวด ยิ้มและหันไปมองเขา มีตู้แช่เครื่องดื่มที่มีขวดสีสันสดใสอยู่ด้านหลังทางขวา
+
+0:15–0:20 ภาพ Medium shot ทั้งคู่เดินตรงมาที่กล้องโดยถือขวดชาเย็น ทั้งคู่ยิ้มอย่างอบอุ่นให้กัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092618886546067456/img/yAeh9Kog_lpT6HmO.jpg" width="600" alt="บทวิดีโอแนว Slice of Life ในย่านที่พักอาศัยสไตล์เกาหลี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9963)**
+
+**Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2092884832816906256) | **Published:** Aug 27, 2026
 
 ---
 ### แอนิเมชันกัดหน้าเป็นฟองสบู่
@@ -263,6 +460,63 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
+
+---
+### ฉากการยิงธนูของเทพีไดอาน่า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวตื่นตาตื่นใจที่ถ่ายทอดภาพเทพีไดอาน่าในป่ามืดมิดที่มีหมอกปกคลุม
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอรูปแบบใหม่ที่ดูตื่นตาตื่นใจของเทพีไดอาน่าผู้ดุดัน โดยมีผมสีเทาเงินและสวมชุดสีขาวพลิ้วไหว กำลังกระโดดไปข้างหน้าในป่ามืดมิดที่มีหมอกปกคลุม พร้อมกับง้างคันธนูขนาดใหญ่และเล็งลูกธนูไปที่...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092783400952438784/img/o_BndaBEHdZ4GrAN.jpg" width="600" alt="ฉากการยิงธนูของเทพีไดอาน่า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9960)**
+
+**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2092783433961590892) | **Published:** Aug 27, 2026
+
+---
+### วิดีโอฤดูร้อนของยานอวกาศแห่งแสง Pleiadian
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวไซไฟความละเอียดสูงที่เน้นแสงสว่างจ้าและโทนสีแบบวอลลูเมตริกของยานอวกาศจากฟากฟ้า
+
+#### 📝 Prompt
+
+```
+ยานอวกาศแห่งแสง Pleiadian ในท้องฟ้าสีฟ้าเทอร์ควอยซ์ช่วงฤดูร้อน, ผลงานชิ้นเอก, ความละเอียดคุณภาพระดับ Ultra HD 11111111111199999999999 k, แสงสว่างจ้าแบบวอลลูเมตริกและโทนสี
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092779708542779392/img/923tBS6kA-LuxU8x.jpg" width="600" alt="วิดีโอฤดูร้อนของยานอวกาศแห่งแสง Pleiadian">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9966)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092779760585756700) | **Published:** Aug 27, 2026
+
+---
+### การทำแอนิเมชันฉากให้นิ่งและเป็นธรรมชาติ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) เชิงเทคนิคสำหรับวิดีโอที่ใช้สั่งให้โมเดลสร้างแอนิเมชันในฉากอย่างเป็นธรรมชาติ โดยไม่มีการเคลื่อนไหวของกล้อง ไม่มีการพูด และไม่มีการกะพริบตา
+
+#### 📝 Prompt
+
+```
+ทำแอนิเมชัน โดยคงฉากเดิมไว้และห้ามซูมเข้าหรือซูมออก ไม่มีการพูดหรือใช้คำพูดใดๆ ให้คงความเป็นธรรมชาติของฉากเดิมไว้ และห้ามกะพริบตา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092757907360129024/img/Re-Uu0FV7fbY5LdQ.jpg" width="600" alt="การทำแอนิเมชันฉากให้นิ่งและเป็นธรรมชาติ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9958)**
+
+**Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
 
 ---
 ### แฟชั่นโชว์รันเวย์ของแมวสุดเท่
@@ -1898,234 +2152,6 @@ Odysseus เดินทางกลับมายัง Ithaca ในครา
 **Author:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **Source:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **Published:** Aug 17, 2026
 
 ---
-### เอฟเฟกต์โครเมียมเหลวแบบ Terminator
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สไตล์วิดีโอต่อวิดีโอ (video-to-video) ที่เปลี่ยนตัวละครให้กลายเป็นสารโครเมียมเหลว โดยได้รับแรงบันดาลใจจากภาพยนตร์เรื่อง Terminator
-
-#### 📝 Prompt
-
-```
-ทำวิดีโอนี้โดยให้ฉันเปลี่ยนร่างเป็นโครเมียมเหลวในทันที เหมือนกับในภาพยนตร์เรื่อง Terminator
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089481439981002753/img/-CUZ_gnhORuZ-ygw.jpg" width="600" alt="เอฟเฟกต์โครเมียมเหลวแบบ Terminator">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9470)**
-
-**Author:** [George White](https://x.com/GeorgeWhit30059) | **Source:** [Link](https://x.com/GeorgeWhit30059/status/2089481455005032644) | **Published:** Aug 17, 2026
-
----
-### ข้อความเรืองแสงสีทองแดงสไตล์โกธิค
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ภาพเคลื่อนไหวแนวแฟนตาซีมืดมนสำหรับตัวอักษรสไตล์โกธิค พร้อมเอฟเฟกต์หมอกและแสงบรรยากาศ
-
-#### 📝 Prompt
-
-```
-ข้อความสไตล์โกธิค "JUANG Musk" ค่อย ๆ เรืองแสงด้วยสีแดงเข้มและสีทอง มีหมอกหมุนวนอย่างน่าทึ่งรอบตัวอักษรแบบ Blackletter ที่วิจิตรบรรจง มีการซูมกล้องแบบนุ่มนวลและหมอกบรรยากาศที่ลอยฟุ้ง เป็นภาพเคลื่อนไหวแนวแฟนตาซีมืดมนที่มีรายละเอียดสูง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089467697654382594/img/ZsOGvwDEH-aW5lpA.jpg" width="600" alt="ข้อความเรืองแสงสีทองแดงสไตล์โกธิค">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9426)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2089467763471286385) | **Published:** Aug 17, 2026
-
----
-### ฉากภาพยนตร์ปั๊มน้ำมัน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการถ่ายทำแบบช็อตเดียวที่เก็บรายละเอียดสูง เพื่อสร้างฉากภาพยนตร์สมจริงของชายคนหนึ่งที่กำลังจอดรถและเดินเข้าไปในปั๊มน้ำมัน
-
-#### 📝 Prompt
-
-```
-Ethan ชายหนุ่มในชุดลำลองขับรถเก๋งรุ่นใหม่จากทางด้านขวาของเฟรมเข้ามาในลานจอดรถของปั๊มน้ำมันที่ว่างเปล่าในช่วงเวลากลางวัน เขาเลี้ยวขวาเข้าสู่ช่องจอดรถที่หันหน้าเข้าหาทางเข้าปั๊มน้ำมันโดยตรง โดยให้ท้ายรถหันมาทางกล้อง จอดรถได้ตรงตามเส้น หยุดรถ และดับเครื่องยนต์ จากมุมมองของกล้อง Ethan เปิดประตูฝั่งคนขับด้านซ้ายและก้าวเท้าซ้ายลงมาบนพื้นถนนก่อน จากนั้นจึงก้าวออกจากรถทางฝั่งซ้ายจนสุด ปิดประตูตามหลัง และเดินตรงเข้าไปในอาคารปั๊มน้ำมัน เป็นการถ่ายทำแบบช็อตเดียวต่อเนื่องในสไตล์ภาพยนตร์ ฟิสิกส์สมจริง ไม่มีการตัดต่อกล้อง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089457726497697793/img/YYGRMFNucFq93VP8.jpg" width="600" alt="ฉากภาพยนตร์ปั๊มน้ำมัน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9433)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2089457914029502891) | **Published:** Aug 17, 2026
-
----
-### ความฝันของ DiCaprio เกี่ยวกับซากเรือ Titanic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เล่าเรื่องเชิงภาพยนตร์ที่ถ่ายทอดเหตุการณ์ Leonardo DiCaprio ตื่นขึ้นมาบนชายหาดเขตร้อนท่ามกลางซากปรักหักพังของเรือ Titanic
-
-#### 📝 Prompt
-
-```
-Leonardo DiCaprio ตื่นจากฝันร้ายบนชายหาดเขตร้อน เขาลุกขึ้นนั่งด้วยความตกใจ มองไปรอบๆ ด้วยความไม่อยากเชื่อสายตา ก่อนจะสังเกตเห็นชิ้นส่วนขนาดใหญ่ที่เป็นสนิมของซากเรือ Titanic ถูกซัดมาเกยตื้นอยู่บนเกาะ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089416053223026688/img/jyodM4Sk4LCkdJUS.jpg" width="600" alt="ความฝันของ DiCaprio เกี่ยวกับซากเรือ Titanic">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9421)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2089416089705091286) | **Published:** Aug 17, 2026
-
----
-### ชายหาดสำหรับอาบแดดพร้อมคลื่นกระทบฝั่ง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมท์แนวผ่อนคลายที่แสดงภาพชายหาดทรายที่มีผู้คนและคลื่นทะเลที่อ่อนโยน
-
-#### 📝 Prompt
-
-```
-ชายหาดทรายที่มีผู้คนมากมายกำลังอาบแดด พร้อมสายลมอ่อนๆ และคลื่นลูกเล็กๆ ที่กำลังม้วนตัวเข้าหาฝั่ง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089391085973835777/img/52gygCYwDKTpscVa.jpg" width="600" alt="ชายหาดสำหรับอาบแดดพร้อมคลื่นกระทบฝั่ง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9430)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2089391129162645811) | **Published:** Aug 17, 2026
-
----
-### เกษตรกรกำลังไถนาในทุ่งข้าวสาลี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (prompt) แบบตรงไปตรงมาสำหรับการสร้างวิดีโอเกษตรกรชาวอเมริกันที่กำลังใช้รถแทรกเตอร์ John Deere ไถทุ่งข้าวสาลีขนาดใหญ่
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอเกษตรกรชาวอเมริกันกำลังไถนาในทุ่งขนาดใหญ่เพื่อปลูกข้าวสาลี โดยใช้รถแทรกเตอร์ John Deere
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089390175126163456/img/AiZPYcnoBJPdjb16.jpg" width="600" alt="เกษตรกรกำลังไถนาในทุ่งข้าวสาลี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9423)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2089390212082192396) | **Published:** Aug 17, 2026
-
----
-### แอนิเมชันโดนัทสตรอว์เบอร์รีสไตล์ Pixar
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์สร้างสรรค์สำหรับรูปโปรไฟล์คู่รักสไตล์ Pixar ที่มีตัวละครเด็กชายโดนัทสตรอว์เบอร์รีและเด็กหญิงชานม พร้อมลำดับแอนิเมชันแก้มแดง
-
-#### 📝 Prompt
-
-```
-สร้างรูปภาพสำหรับใช้เป็นรูปโปรไฟล์แฟนเพจ โดยเพจชื่อ 'Boti and Muti' ซึ่งหมายถึงโดนัทสตรอว์เบอร์รีและชานม นี่เป็นเพจสำหรับคู่รักวัยรุ่น โดยเด็กชายคือโดนัทสตรอว์เบอร์รีและเด็กหญิงคือชานม สไตล์มีความเท่แต่ยังคงความน่ารักในแบบ Pixar สีของชานมควรมีความชัดเจนและเป็นสีพื้น ลบข้อความภาษาอังกฤษที่ด้านล่างออกและเอาเกล็ดสีแดงออกจากสตรอว์เบอร์รี พร้อมทั้งให้สตรอว์เบอร์รีมีอาการแก้มแดงในช่วงเริ่มต้น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089388388860526593/img/fC5LNStOiU6f7H9c.jpg" width="600" alt="แอนิเมชันโดนัทสตรอว์เบอร์รีสไตล์ Pixar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9434)**
-
-**Author:** [Tenghao hsu](https://x.com/HsuTenghao19046) | **Source:** [Link](https://x.com/HsuTenghao19046/status/2089388405990064618) | **Published:** Aug 17, 2026
-
----
-### แฟชั่นโอต์กูตูร์แห่งท้องทะเลเรืองแสง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คอนเซปต์แฟชั่นสุดเซอร์เรียลที่สร้างสรรค์โดยใช้โมเดล Grok Imagine Image 2 จนได้ภาพฉากการเดินแบบใต้น้ำในสไตล์ภาพยนตร์
-
-#### 📝 Prompt
-
-```
-หญิงสาวผู้สง่างามในชุดโอต์กูตูร์แห่งท้องทะเลเรืองแสงสุดเซอร์เรียล ที่ประกอบด้วยเกลียวคลื่นใต้ทะเลลึก หนวดแมงกะพรุนที่เปล่งประกาย ไข่มุกเหลือบสี และปะการังที่มีชีวิต กำลังเดินอยู่บนรันเวย์สุดหรูในสไตล์ภาพยนตร์ที่ดูน่าตื่นตาตื่นใจ พร้อมด้วยแสงที่ส่องผ่านผิวน้ำและละอองน้ำที่ระยิบระยับ
-```
-
-<img src="https://cms-assets.youmind.com/media/1787039476062_orzyes_HP7oYg9aAAAVkfV.jpg" width="600" alt="แฟชั่นโอต์กูตูร์แห่งท้องทะเลเรืองแสง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9420)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2089363024356524125) | **Published:** Aug 17, 2026
-
----
-### ความหลากหลายของมนุษยชาติชาวเพลยาเดียน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์คุณภาพสูงที่แสดงภาพความหลากหลายของมนุษยชาติในรูปแบบชาวเพลยาเดียน พร้อมการจัดแสงแบบ Volumetric Lighting
-
-#### 📝 Prompt
-
-```
-มีความหลากหลายมากมายของมนุษยชาติที่แสดงภาพในรูปแบบชาวเพลยาเดียน, ผลงานชิ้นเอก, ความละเอียดระดับ Ultra HD, แสงและสีสันที่สว่างสดใสแบบ Volumetric
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089351947077763072/img/iNSiR6gZq0CTzsjH.jpg" width="600" alt="ความหลากหลายของมนุษยชาติชาวเพลยาเดียน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9431)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089351996570538020) | **Published:** Aug 17, 2026
-
----
-### ลำดับการเปลี่ยนรูปร่างของปีก (Wing Evolution Morphing Sequence)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ชุดคำสั่งสำหรับการเปลี่ยนรูปร่างที่ซับซ้อน ซึ่งเปลี่ยนผ่านจากปีกหลากหลายรูปแบบ ตั้งแต่กลีบดอกไม้ตามธรรมชาติและปีกผีเสื้อ ไปจนถึงปีกเครื่องบินเจ็ตและปีกยานอวกาศ
-
-#### 📝 Prompt
-
-```
-ใบไม้ → กลีบดอกไม้ → ปีกผีเสื้อ → ปีกแมลงปอ → ขนนก → ปีกนกขับขาน → ปีกนกอินทรี → ปีกเครื่องร่อน → ปีกเครื่องบินกระดาษ → ปีกเครื่องบินสองชั้น → ปีกเครื่องบินใบพัด → ปีกเครื่องบินโดยสาร → ปีกเครื่องบินขับไล่ → ปีกยานอวกาศ → ใบเรือพลังงานแสงอาทิตย์ → แผงโซลาร์เซลล์ → ดาวเทียม → กล้องโทรทรรศน์อวกาศ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089324265464041472/img/2lX1b3QOGx1o-dD3.jpg" width="600" alt="ลำดับการเปลี่ยนรูปร่างของปีก (Wing Evolution Morphing Sequence)">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9419)**
-
-**Author:** [Carl Bethea V](https://x.com/CarlBethea5) | **Source:** [Link](https://x.com/CarlBethea5/status/2089324882332946627) | **Published:** Aug 17, 2026
-
----
-### การเปลี่ยนผ่านของกุหลาบโกธิค
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่โดดเด่นสะดุดตา แสดงภาพกุหลาบสีดำสไตล์โกธิคที่เปลี่ยนร่างเป็นกุหลาบสีแดง พร้อมแสงวอลลูเมตริกที่สว่างสดใส
-
-#### 📝 Prompt
-
-```
-กุหลาบสีดำสไตล์โกธิคเปลี่ยนร่างเป็นกุหลาบสีแดง, ผลงานระดับมาสเตอร์พีซ, ความละเอียดระดับ Ultra HD, แสงวอลลูเมตริกที่สว่างสดใสและสีสันที่คมชัด
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089294953654423552/img/vh7iUAQuWxy_ulU_.jpg" width="600" alt="การเปลี่ยนผ่านของกุหลาบโกธิค">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9417)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089294989004042421) | **Published:** Aug 17, 2026
-
----
-### ฉากการหลบหนีด้วยยานอวกาศแนวไซไฟ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงบรรยายที่บอกเล่าภารกิจการเทียบท่าและการหลบหนีด้วยยานอวกาศ โดยมีตัวละครชื่อ Trinia เป็นผู้ดำเนินเรื่อง
-
-#### 📝 Prompt
-
-```
-Trinia กำลังหลบหนีด้วยยานอวกาศพร้อมกับกุญแจทองคำ โดยที่ยานอวกาศได้เชื่อมต่อเข้ากับยานของศัตรูเพื่อให้เธอสามารถหลบหนีไปได้
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089280557913899008/img/znLqbMPOxjWTd_Tz.jpg" width="600" alt="ฉากการหลบหนีด้วยยานอวกาศแนวไซไฟ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9429)**
-
-**Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2089280594186260518) | **Published:** Aug 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2187,6 +2213,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-28T11:14:26.171Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-28T22:22:59.967Z</sub>
 
 </div>
