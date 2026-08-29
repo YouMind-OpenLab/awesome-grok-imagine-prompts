@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2625** |
+| 📝 提示詞總數 | **2633** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-08-29** |
 
@@ -189,9 +189,142 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
-### 電影級第一人稱飛行開場
+### 悲傷小狗故事動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段敘事性動畫提示詞，以電影風格描述小狗最後的動作以及一名男子轉身離去的場景。
+
+#### 📝 提示詞
+
+```
+製作動畫：小狗的耳朵抬起，尾巴拍打了兩下，隨後靜止不動。Odysseus 用袖子擦了擦眼睛，繼續向前走去。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093463391092330496/img/2L6sK226jwv9ZyX7.jpg" width="600" alt="悲傷小狗故事動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10027)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2093463477184614905) | **發布時間:** Aug 28, 2026
+
+---
+### 胖嘟嘟綠色生物動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個有趣的影片提示詞，描述一隻胖嘟嘟的綠色毛茸茸生物在沙發上放鬆並吃著零食。
+
+#### 📝 提示詞
+
+```
+一隻滑稽又呆萌的綠色毛茸茸小生物，胖乎乎的，坐在沙發上吃著起司球，有著一雙圓滾滾的黑色大眼睛
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093432471073247232/img/niMfQDtLXmodiXQ7.jpg" width="600" alt="胖嘟嘟綠色生物動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10026)**
+
+**作者:** [Chris](https://x.com/qwts_chris_dev) | **來源:** [Link](https://x.com/qwts_chris_dev/status/2093432499808477297) | **發布時間:** Aug 28, 2026
+
+---
+### 狼與狐狸獸人擁抱影片
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一個溫馨的場景，一隻灰狼獸人和一隻紅狐獸人在明亮的室內房間裡擁抱，身上穿著休閒的春季服裝。
+
+#### 📝 提示詞
+
+```
+一隻可愛的女性獸人（灰狼）正在擁抱她的朋友，另一位女性獸人（紅狐）。兩人的全身都覆蓋著蓬鬆的毛髮。她們穿著休閒的春季服裝。室內，明亮，日間。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093337483572662272/img/Rx_m6TxkmFmqyCbF.jpg" width="600" alt="狼與狐狸獸人擁抱影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10028)**
+
+**作者:** [🦦🐺TNG@MofuiWolf💕📺](https://x.com/TNG69JP) | **來源:** [Link](https://x.com/TNG69JP/status/2093337519014527394) | **發布時間:** Aug 28, 2026
+
+---
+### 單鑽祖母綠切割鑽石戒指影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於生成奢華祖母綠切割綠鑽戒指的影片生成提示詞，戒圈鑲嵌密釘鑽石。
+
+#### 📝 提示詞
+
+```
+製作一枚精美的戒指，主石為祖母綠切割綠鑽，戒圈上鑲嵌大型祖母綠切割密釘鑽石。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093320247277182976/img/1ZM7nf1LrEROjxp3.jpg" width="600" alt="單鑽祖母綠切割鑽石戒指影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10025)**
+
+**作者:** [@xAIExistentialPoet 💫 Dr.Jessica Konopka](https://x.com/DrJessxAI) | **來源:** [Link](https://x.com/DrJessxAI/status/2093320273067970594) | **發布時間:** Aug 28, 2026
+
+---
+### 舊金山歌唱表演動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份詳細的影片提示詞，用於製作表演者在舊金山歌唱的動畫，呈現自然的肢體動作與穩定的城市天際線背景。
+
+#### 📝 提示詞
+
+```
+讓兩位表演者充滿活力地歌唱並做出手勢，嘴型與手部動作需自然流暢，微風輕拂過他們的頭髮與衣物，身體帶有細微的擺動；同時保持金門大橋與舊金山天際線完全靜止，並……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093319484375171072/img/_6Ak95Qt-L1bV670.jpg" width="600" alt="舊金山歌唱表演動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10024)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **來源:** [Link](https://x.com/maggiejuang1/status/2093319537336750297) | **發布時間:** Aug 28, 2026
+
+---
+### 筆記型電腦產品攝影運鏡
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影感的影片提示詞，包含緩慢的鏡頭平移，掃過光亮的筆記型電腦與滑鼠，並帶有細膩的光影反射。
+
+#### 📝 提示詞
+
+```
+柔和且緩慢的鏡頭平移掃過場景，細膩的光影反射滑過光亮的筆記型電腦螢幕與半透明滑鼠，呈現柔和的環境動態，具備照片級真實感的產品攝影風格
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093316414954217472/img/HA_iDnoxroVepVKJ.jpg" width="600" alt="筆記型電腦產品攝影運鏡">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10022)**
+
+**作者:** [Jacek](https://x.com/iadventurejacek) | **來源:** [Link](https://x.com/iadventurejacek/status/2093316534064009631) | **發布時間:** Aug 28, 2026
+
+---
+### 電影感戶外特寫鏡頭
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個結構化的 JSON 提示詞，用於在模糊的戶外場景中生成低動態、淺景深的電影感特寫鏡頭。
+
+#### 📝 提示詞
+
+```
+{"shot": {"motion_level": "low", "camera_depth": "close-up", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indistinct outdoor setting", "environment": "The background is out of focus, showing blurred natural elements"}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093288680542584832/img/ua4qihAXdKV-zfDP.jpg" width="600" alt="電影感戶外特寫鏡頭">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10021)**
+
+**作者:** [Fauna](https://x.com/FaunaFoxD) | **來源:** [Link](https://x.com/FaunaFoxD/status/2093288701094695110) | **發布時間:** Aug 28, 2026
+
+---
+### 電影級第一人稱飛行開場
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 > 這是一個為 Grok Imagine 設計的高細節電影級飛行提示詞，呈現第一人稱視角穿梭於水晶宮殿與鏡廳，並以自訂的碎玻璃文字特效作為結尾。
 
@@ -282,6 +415,25 @@ Wake up the morning / As usual / If it's a habit 'Make money' my own theory / Li
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9965)**
 
 **作者:** [Sas](https://x.com/SaSHeaven26) | **來源:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **發布時間:** Aug 28, 2026
+
+---
+### 鑽石珠寶影片添加
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於在影片中添加並增強鑽石珠寶（如項鍊、耳環和手鍊）的提示詞。
+
+#### 📝 提示詞
+
+```
+添加一條鑽石項鍊、一副鑽石耳環和一個鑽石手鍊，並將鑽石戒指放大
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093117064491761664/img/KYvolIL1MZU7dBrH.jpg" width="600" alt="鑽石珠寶影片添加">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10023)**
+
+**作者:** [Ashley Camp](https://x.com/ashleycamp556) | **來源:** [Link](https://x.com/ashleycamp556/status/2093117079104725139) | **發布時間:** Aug 27, 2026
 
 ---
 ### 詩意海螺互動
@@ -1998,158 +2150,6 @@ Met Gala 夜間紅毯活動，周圍有許多樹木，搭配景觀照明，現�
 **作者:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **來源:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **發布時間:** Aug 18, 2026
 
 ---
-### 西班牙語雜貨店對話
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段關於顧客與店員之間 15 秒西班牙語對話的影片提示詞。
-
-#### 📝 提示詞
-
-```
-你能否製作一段 15 秒的互動影片，內容是一位女士在商店裡用西班牙語購物，例如說「嗨，你好，我想買牛奶，謝謝」，然後由店員親切地回應並協助她？
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="西班牙語雜貨店對話">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9471)**
-
-**作者:** [Marco](https://x.com/Good_Tweet_USA) | **來源:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **發布時間:** Aug 18, 2026
-
----
-### 昂宿星人在慶祝模式
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個電影級的提示詞，呈現昂宿星人處於慶祝狀態，具有高解析度體積光與鮮豔色彩。
-
-#### 📝 提示詞
-
-```
-昂宿星人在六維空間及更高維度閃耀後的慶祝模式，傑作，超高畫質解析度，明亮的體積光與色彩
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="昂宿星人在慶祝模式">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9469)**
-
-**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **來源:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **發布時間:** Aug 18, 2026
-
----
-### 冰河國家公園無人機影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段以第一人稱視角拍攝的無人機影片提示詞，捕捉冰河國家公園陽光明媚的午後時光。
-
-#### 📝 提示詞
-
-```
-創作一段以第一人稱視角拍攝的無人機影片，沿著冰河國家公園的向陽大道（Going-to-the-Sun Road）向西飛行，時間為午後，天氣晴朗
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="冰河國家公園無人機影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9467)**
-
-**作者:** [Eric Lovold](https://x.com/ericlovold) | **來源:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **發布時間:** Aug 18, 2026
-
----
-### 360 VR 營火場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於 360 度 VR 影片的沉浸式提示詞，包含療癒的營火與音效場景。
-
-#### 📝 提示詞
-
-```
-緩慢地提升至球體平衡點上方，位於此 VR 360 度球體的重心，完全靜止，療癒的營火，音效場景
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="360 VR 營火場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9465)**
-
-**作者:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **來源:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **發布時間:** Aug 18, 2026
-
----
-### 奧德修斯與阿爾戈斯的重逢
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級的影片提示詞，描繪了奧德修斯感人的歸鄉之旅，以及他與愛犬阿爾戈斯最後的相遇。
-
-#### 📝 提示詞
-
-```
-奧德修斯在離開二十年後喬裝成乞丐回到伊薩卡。當他靠近宮殿時，遇見了被遺棄在糞堆上、垂死的老狗阿爾戈斯。阿爾戈斯一眼就認出了他，虛弱地搖了搖尾巴，隨後便離世了。奧德修斯轉過頭去，掩飾自己的淚水，以維持身分的秘密。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="奧德修斯與阿爾戈斯的重逢">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9574)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **來源:** [Link](https://x.com/dvorahfr/status/2089721534721966474) | **發布時間:** Aug 18, 2026
-
----
-### 搖桿與表情符號動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份為 Grok Imagine 撰寫的詳細動畫提示詞，描述了搖桿與剪刀跟表情符號互動的物理模擬運動。
-
-#### 📝 提示詞
-
-```
-保持所有相似之處，搖桿手柄的移動方式如同遊戲操作一般。剪刀做出剪切動作並追逐表情符號圖像。剪刀將一個大笑的表情符號剪成兩半。位於搖桿底部的紫色惡魔表情符號列
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089549374624022528/img/Br1PYyhR_FRC_B7U.jpg" width="600" alt="搖桿與表情符號動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9432)**
-
-**作者:** [FUNTIFFX](https://x.com/AbstractTiffany) | **來源:** [Link](https://x.com/AbstractTiffany/status/2089549388255543553) | **發布時間:** Aug 18, 2026
-
----
-### 人形機器人騎乘 Boston Dynamics 機器狗
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級的影片提示詞，描述人形機器人騎著大型機器狗衝入夜間前線戰場。
-
-#### 📝 提示詞
-
-```
-人形機器人騎著大型 Boston Dynamics 機器狗衝入夜間前線戰場。我們完蛋了。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089546081625333760/img/Crsm268vxN_QNVJu.jpg" width="600" alt="人形機器人騎乘 Boston Dynamics 機器狗">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9428)**
-
-**作者:** [SharewareFrom1994](https://x.com/amrndci) | **來源:** [Link](https://x.com/amrndci/status/2089546098364784937) | **發布時間:** Aug 18, 2026
-
----
-### 太空戰鬥與電漿物理學
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個詳細的科幻提示詞，涉及旋轉行星、移動船艦以及電漿轉換效果。
-
-#### 📝 提示詞
-
-```
-讓行星旋轉，並使船艦向前移動，同時雷射將岩石轉換為電漿，並讓電漿沿著船艦中心流動
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089501917697527808/img/v5v4qtOI4CVLvbJ5.jpg" width="600" alt="太空戰鬥與電漿物理學">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9425)**
-
-**作者:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **來源:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **發布時間:** Aug 17, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2211,6 +2211,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-29T07:00:05.436Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-29T14:05:16.037Z</sub>
 
 </div>

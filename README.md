@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2625** |
+| 📝 Total Prompts | **2633** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-29** |
 
@@ -189,19 +189,152 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Cinematic First-Person Flight Greeting
+### Sad Dog Story Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic flight prompt for Grok Imagine, featuring a first-person perspective flying through a crystal palace and hall of mirrors, concluding with a custom shattered-glass text effect.
+> A narrative animation prompt describing a dog's final movements and a man walking away in a cinematic style.
 
 #### 📝 Prompt
 
 ```
-You barrel-roll beneath a suspended train, execute a power loop around a massive crystal palace, then dive through an open window and speed through a hall of mirrors where rainbow light shatters around the camera. Finally, the message "Thank you for your hard work today" appears in crystalline letters that then shatter into pieces.
+Animate it: the dog’s ears lift, the tail thumps once, twice, then goes still. Odysseus wipes his eyes with his sleeve and keeps walking.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093246293917466624/img/mbJviXaH_0BG9aG4.jpg" width="600" alt="Cinematic First-Person Flight Greeting">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093463391092330496/img/2L6sK226jwv9ZyX7.jpg" width="600" alt="Sad Dog Story Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10027)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093463477184614905) | **Published:** Aug 28, 2026
+
+---
+### Chubby Green Creature Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fun video prompt for a chubby green fur creature relaxing on a couch and munching on snacks.
+
+#### 📝 Prompt
+
+```
+A funny and silly little green fur creature, fat and chubby, sitting on a couch munching on cheesy poofs, with solid big rounded black eyes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093432471073247232/img/niMfQDtLXmodiXQ7.jpg" width="600" alt="Chubby Green Creature Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10026)**
+
+**Author:** [Chris](https://x.com/qwts_chris_dev) | **Source:** [Link](https://x.com/qwts_chris_dev/status/2093432499808477297) | **Published:** Aug 28, 2026
+
+---
+### Wolf and Fox Beastfolk Hugging Video
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A heartwarming scene featuring a gray wolf and a red fox beastfolk sharing a hug in a bright indoor room while wearing casual spring attire.
+
+#### 📝 Prompt
+
+```
+A cute female beastfolk (gray wolf) hugging her friend, a female beastfolk (red fox). Both are covered in fluffy fur all over their bodies. They are wearing casual spring outfits. Indoors, bright, daytime.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093337483572662272/img/Rx_m6TxkmFmqyCbF.jpg" width="600" alt="Wolf and Fox Beastfolk Hugging Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10028)**
+
+**Author:** [🦦🐺TNG@MofuiWolf💕📺](https://x.com/TNG69JP) | **Source:** [Link](https://x.com/TNG69JP/status/2093337519014527394) | **Published:** Aug 28, 2026
+
+---
+### Solitaire Emerald Cut Diamond Ring Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for creating a luxury emerald cut green diamond ring with pave diamonds on the band.
+
+#### 📝 Prompt
+
+```
+Create a beautiful ring with a green diamond mounted as a solitaire emerald cut, large pave emerald cut diamonds on the band.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093320247277182976/img/1ZM7nf1LrEROjxp3.jpg" width="600" alt="Solitaire Emerald Cut Diamond Ring Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10025)**
+
+**Author:** [@xAIExistentialPoet 💫 Dr.Jessica Konopka](https://x.com/DrJessxAI) | **Source:** [Link](https://x.com/DrJessxAI/status/2093320273067970594) | **Published:** Aug 28, 2026
+
+---
+### San Francisco Singing Performance Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for animating performers singing in San Francisco, featuring natural body motions and a steady skyline background.
+
+#### 📝 Prompt
+
+```
+Animate the two performers singing and gesturing energetically with natural mouth movements and hand motions, light wind gently moving their hair and clothes, subtle body sway, keep the Golden Gate Bridge and San Francisco skyline perfectly still and...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093319484375171072/img/_6Ak95Qt-L1bV670.jpg" width="600" alt="San Francisco Singing Performance Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10024)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2093319537336750297) | **Published:** Aug 28, 2026
+
+---
+### Photorealistic Laptop Product Pan
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring a slow camera pan across a glossy laptop and mouse with subtle light reflections.
+
+#### 📝 Prompt
+
+```
+Gentle slow camera pan across the scene with subtle light reflections gliding over the glossy laptop screen and the translucent mouse, soft ambient movement, photorealistic product shot style
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093316414954217472/img/HA_iDnoxroVepVKJ.jpg" width="600" alt="Photorealistic Laptop Product Pan">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10022)**
+
+**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2093316534064009631) | **Published:** Aug 28, 2026
+
+---
+### Cinematic Outdoor Close-Up Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A structured JSON prompt for generating a low-motion cinematic close-up in an indistinct outdoor setting with a shallow depth of field.
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "low", "camera_depth": "close-up", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indistinct outdoor setting", "environment": "The background is out of focus, showing blurred natural elements"}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093288680542584832/img/ua4qihAXdKV-zfDP.jpg" width="600" alt="Cinematic Outdoor Close-Up Shot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10021)**
+
+**Author:** [Fauna](https://x.com/FaunaFoxD) | **Source:** [Link](https://x.com/FaunaFoxD/status/2093288701094695110) | **Published:** Aug 28, 2026
+
+---
+### FPV Drone Crystal Palace Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A high-speed cinematic FPV drone flight prompt for Grok Imagine, featuring a journey through a crystal palace and hall of mirrors ending with crystalline Japanese text.
+
+#### 📝 Prompt
+
+```
+You barrel-roll beneath a suspended train, execute a power loop around a massive crystal palace, then dive through an open window and speed through a hall of mirrors where rainbow light shatters around the camera. Finally, the message "Good work today" appears in crystalline letters that then shatter into pieces.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093246293917466624/img/mbJviXaH_0BG9aG4.jpg" width="600" alt="FPV Drone Crystal Palace Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9969)**
 
@@ -250,12 +383,14 @@ a mind that will not freeze the picture before the letters have all landed. The 
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A unique video prompt asking for a blinged-out Hello Kitty to rap in Japanese, including specific lyrics.
+> A Grok-Imagine video prompt generating a blinged-out Hello Kitty performing a specific Japanese rap.
 
 #### 📝 Prompt
 
 ```
-Wake up the morning / As usual / If it's a habit 'Make money' my own theory / Living my life on a dream This is my story / Sending it, this city's only Life the Movie / ... And make bling-bling Hello Kitty rap in Japanese!
+Wake up in the morning, as usual. My catchphrase is 'Make money,' my own theory. Living my life on a dream, this is my story. Sending out 'Life the Movie' only for this town.
+
+Make a blinged-out Hello Kitty rap in Japanese!
 ```
 
 <img src="https://pbs.twimg.com/amplify_video_thumb/2093196579461292032/img/9h4hfy6jnN3m2EVo.jpg" width="600" alt="Hello Kitty Japanese Rap">
@@ -282,6 +417,25 @@ Gently animate the serene scene: soft wind gently moves the blonde woman's hair 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9965)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **Published:** Aug 28, 2026
+
+---
+### Diamond Jewelry Video Addition
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for adding and enhancing diamond jewelry items like necklaces, earrings, and bracelets within a video.
+
+#### 📝 Prompt
+
+```
+Add a diamond necklace and diamond earrings and diamond bracelet make the diamond ring bigger
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093117064491761664/img/KYvolIL1MZU7dBrH.jpg" width="600" alt="Diamond Jewelry Video Addition">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10023)**
+
+**Author:** [Ashley Camp](https://x.com/ashleycamp556) | **Source:** [Link](https://x.com/ashleycamp556/status/2093117079104725139) | **Published:** Aug 27, 2026
 
 ---
 ### Poetic Ocean Conch Interaction
@@ -1969,158 +2123,6 @@ Generate me a video a Care bear with a middle finger in the center of the care b
 **Author:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **Source:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **Published:** Aug 18, 2026
 
 ---
-### Spanish Grocery Store Dialogue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a 15-second conversational video between a customer and a clerk in Spanish.
-
-#### 📝 Prompt
-
-```
-Can you like a 15 second interaction of the lady wanted to buy something at the store in Spanish like hi hello I’d like to buy milk please and have the man respond kindly and do so
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="Spanish Grocery Store Dialogue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9471)**
-
-**Author:** [Marco](https://x.com/Good_Tweet_USA) | **Source:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **Published:** Aug 18, 2026
-
----
-### Pleiadians in Celebration Mode
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt featuring Pleiadians in a celebratory state with high-definition volumetric lighting and vibrant colors.
-
-#### 📝 Prompt
-
-```
-Pleiadians in celebration mode after Sheen in six D and beyond, masterpiece, ultra HD quality resolution volumetric bright lighting and colors
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="Pleiadians in Celebration Mode">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9469)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **Published:** Aug 18, 2026
-
----
-### Glacier National Park Drone Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A first-person perspective drone video prompt capturing a sunny afternoon at Glacier National Park.
-
-#### 📝 Prompt
-
-```
-Create a first person perspective drone video going west on the going the sun road glacier national park, mid afternoon and sunny
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="Glacier National Park Drone Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9467)**
-
-**Author:** [Eric Lovold](https://x.com/ericlovold) | **Source:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **Published:** Aug 18, 2026
-
----
-### 360 VR Campfire Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An immersive prompt for a 360-degree VR video featuring a calming campfire and audio landscape.
-
-#### 📝 Prompt
-
-```
-slowly elevating above the equilibrium of sphere, center of gravity in this VR 360 degree sphere, completely still , calming campfire , audio landscape
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="360 VR Campfire Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9465)**
-
-**Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
-
----
-### Odysseus and Argos Narrative Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative prompt describing the emotional return of Odysseus to Ithaca and his meeting with his loyal dog Argos.
-
-#### 📝 Prompt
-
-```
-Odysseus returns to Ithaca after twenty years, disguised as a beggar. As he approaches his palace, he meets his old dog Argos, abandoned and dying on a pile of dung. Argos recognizes him at once, weakly wags his tail, then dies. Odysseus looks away to hide his tears and keep his identity secret.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="Odysseus and Argos Narrative Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9574)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2089721534721966474) | **Published:** Aug 18, 2026
-
----
-### Joystick and Emoji Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed animation prompt for Grok Imagine describing physics-based movement of a joystick and scissors interacting with emojis.
-
-#### 📝 Prompt
-
-```
-Maintaining all likeliness the joystick handle moves as though gaming. The scissors move in a cutting motion and chase after the emoji images. The scissors cut a laughing emoji in half. The row of purple devil emojis at the base of the joystick
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089549374624022528/img/Br1PYyhR_FRC_B7U.jpg" width="600" alt="Joystick and Emoji Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9432)**
-
-**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2089549388255543553) | **Published:** Aug 18, 2026
-
----
-### Robot Riding Battle Dog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dramatic video prompt of a humanoid robot riding a Boston Dynamics-style dog into a nighttime battle.
-
-#### 📝 Prompt
-
-```
-Humanoid robot riding large Boston dynamic dog into a frontline battle at night.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089546081625333760/img/Crsm268vxN_QNVJu.jpg" width="600" alt="Robot Riding Battle Dog">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9428)**
-
-**Author:** [SharewareFrom1994](https://x.com/amrndci) | **Source:** [Link](https://x.com/amrndci/status/2089546098364784937) | **Published:** Aug 18, 2026
-
----
-### Space Combat and Plasma Physics
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed sci-fi prompt involving rotating planets, moving ships, and plasma conversion effects.
-
-#### 📝 Prompt
-
-```
-Make the planet rotate and the ship move forward with the lasers converting rocks to plasma that flows down the center of the ship
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089501917697527808/img/v5v4qtOI4CVLvbJ5.jpg" width="600" alt="Space Combat and Plasma Physics">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9425)**
-
-**Author:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **Source:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **Published:** Aug 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2182,6 +2184,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-29T07:00:02.630Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-29T14:05:13.562Z</sub>
 
 </div>

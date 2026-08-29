@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2625** |
+| 📝 Total Prompts | **2633** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-29** |
 
@@ -189,9 +189,142 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
-### Saludo cinematográfico de vuelo en primera persona
+### Animación de la historia del perro triste
 
 ![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de animación narrativa que describe los últimos movimientos de un perro y a un hombre alejándose con un estilo cinematográfico.
+
+#### 📝 Prompt
+
+```
+Anímalo: las orejas del perro se levantan, la cola golpea una vez, dos veces, y luego queda inmóvil. Odiseo se limpia los ojos con la manga y sigue caminando.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093463391092330496/img/2L6sK226jwv9ZyX7.jpg" width="600" alt="Animación de la historia del perro triste">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10027)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093463477184614905) | **Published:** Aug 28, 2026
+
+---
+### Animación de criatura verde regordeta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un divertido prompt de video sobre una criatura peluda de color verde y regordeta que se relaja en un sofá mientras come bocadillos.
+
+#### 📝 Prompt
+
+```
+Una pequeña y graciosa criatura peluda de color verde, gorda y regordeta, sentada en un sofá comiendo bocadillos de queso, con grandes ojos negros redondeados
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093432471073247232/img/niMfQDtLXmodiXQ7.jpg" width="600" alt="Animación de criatura verde regordeta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10026)**
+
+**Author:** [Chris](https://x.com/qwts_chris_dev) | **Source:** [Link](https://x.com/qwts_chris_dev/status/2093432499808477297) | **Published:** Aug 28, 2026
+
+---
+### Video de hombres bestia lobo y zorro abrazándose
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Una escena conmovedora que muestra a un hombre bestia lobo gris y a una zorra roja abrazándose en una habitación interior luminosa, vistiendo ropa casual de primavera.
+
+#### 📝 Prompt
+
+```
+Una linda mujer bestia (loba gris) abrazando a su amiga, una mujer bestia (zorra roja). Ambas están cubiertas de pelaje esponjoso por todo el cuerpo. Visten atuendos casuales de primavera. En interiores, luminoso, durante el día.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093337483572662272/img/Rx_m6TxkmFmqyCbF.jpg" width="600" alt="Video de hombres bestia lobo y zorro abrazándose">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10028)**
+
+**Author:** [🦦🐺TNG@MofuiWolf💕📺](https://x.com/TNG69JP) | **Source:** [Link](https://x.com/TNG69JP/status/2093337519014527394) | **Published:** Aug 28, 2026
+
+---
+### Video de anillo de diamantes con corte esmeralda solitario
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video para crear un lujoso anillo de diamantes verdes con corte esmeralda y diamantes pavé en la banda.
+
+#### 📝 Prompt
+
+```
+Crea un hermoso anillo con un diamante verde montado en solitario con corte esmeralda y grandes diamantes pavé con corte esmeralda en la banda.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093320247277182976/img/1ZM7nf1LrEROjxp3.jpg" width="600" alt="Video de anillo de diamantes con corte esmeralda solitario">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10025)**
+
+**Author:** [@xAIExistentialPoet 💫 Dr.Jessica Konopka](https://x.com/DrJessxAI) | **Source:** [Link](https://x.com/DrJessxAI/status/2093320273067970594) | **Published:** Aug 28, 2026
+
+---
+### Animación de actuación de canto en San Francisco
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video detallado para animar a artistas cantando en San Francisco, con movimientos corporales naturales y un fondo de horizonte estable.
+
+#### 📝 Prompt
+
+```
+Anima a los dos artistas cantando y gesticulando con energía, con movimientos naturales de boca y manos, una brisa ligera que mueve suavemente su cabello y ropa, un balanceo corporal sutil, manteniendo el Golden Gate Bridge y el horizonte de San Francisco perfectamente estáticos y...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093319484375171072/img/_6Ak95Qt-L1bV670.jpg" width="600" alt="Animación de actuación de canto en San Francisco">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10024)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2093319537336750297) | **Published:** Aug 28, 2026
+
+---
+### Panorámica fotorrealista de producto: portátil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de vídeo cinematográfico que muestra un movimiento de cámara lento a través de un portátil brillante y un ratón con sutiles reflejos de luz.
+
+#### 📝 Prompt
+
+```
+Movimiento de cámara lento y suave a través de la escena con sutiles reflejos de luz deslizándose sobre la pantalla brillante del portátil y el ratón translúcido, movimiento ambiental suave, estilo de toma de producto fotorrealista
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093316414954217472/img/HA_iDnoxroVepVKJ.jpg" width="600" alt="Panorámica fotorrealista de producto: portátil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10022)**
+
+**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2093316534064009631) | **Published:** Aug 28, 2026
+
+---
+### Primer plano cinematográfico en exteriores
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt JSON estructurado para generar un primer plano cinematográfico de bajo movimiento en un entorno exterior indefinido con una profundidad de campo reducida.
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "low", "camera_depth": "close-up", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indistinct outdoor setting", "environment": "The background is out of focus, showing blurred natural elements"}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093288680542584832/img/ua4qihAXdKV-zfDP.jpg" width="600" alt="Primer plano cinematográfico en exteriores">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10021)**
+
+**Author:** [Fauna](https://x.com/FaunaFoxD) | **Source:** [Link](https://x.com/FaunaFoxD/status/2093288701094695110) | **Published:** Aug 28, 2026
+
+---
+### Saludo cinematográfico de vuelo en primera persona
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 > Un prompt de vuelo cinematográfico altamente detallado para Grok Imagine, que presenta una perspectiva en primera persona volando a través de un palacio de cristal y un salón de espejos, concluyendo con un efecto de texto de cristal roto personalizado.
 
@@ -282,6 +415,25 @@ Anima suavemente la escena serena: una brisa ligera mueve delicadamente el cabel
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9965)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **Published:** Aug 28, 2026
+
+---
+### Adición de joyería de diamantes en video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para añadir y mejorar artículos de joyería de diamantes, como collares, pendientes y pulseras, dentro de un video.
+
+#### 📝 Prompt
+
+```
+Añade un collar de diamantes, pendientes de diamantes y una pulsera de diamantes, y haz que el anillo de diamantes se vea más grande
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093117064491761664/img/KYvolIL1MZU7dBrH.jpg" width="600" alt="Adición de joyería de diamantes en video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10023)**
+
+**Author:** [Ashley Camp](https://x.com/ashleycamp556) | **Source:** [Link](https://x.com/ashleycamp556/status/2093117079104725139) | **Published:** Aug 27, 2026
 
 ---
 ### Interacción poética con la caracola marina
@@ -1997,158 +2149,6 @@ Genera un video de un Care Bear con una peineta en el centro de su barriga.
 **Author:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **Source:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **Published:** Aug 18, 2026
 
 ---
-### Diálogo en una tienda de comestibles en español
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para un video conversacional de 15 segundos entre un cliente y un dependiente en español.
-
-#### 📝 Prompt
-
-```
-Puedes crear una interacción de 15 segundos de una señora que quiere comprar algo en una tienda en español, como: hola, me gustaría comprar leche, por favor, y que el hombre responda amablemente y se la entregue.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="Diálogo en una tienda de comestibles en español">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9471)**
-
-**Author:** [Marco](https://x.com/Good_Tweet_USA) | **Source:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **Published:** Aug 18, 2026
-
----
-### Pleiadianos en modo celebración
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico que muestra a los Pleiadianos en un estado de celebración con iluminación volumétrica de alta definición y colores vibrantes.
-
-#### 📝 Prompt
-
-```
-Pleiadianos en modo celebración después de Sheen en seis D y más allá, obra maestra, resolución de calidad ultra HD, iluminación brillante volumétrica y colores
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="Pleiadianos en modo celebración">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9469)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **Published:** Aug 18, 2026
-
----
-### Video de dron del Parque Nacional de los Glaciares
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video de dron en primera persona que captura una tarde soleada en el Parque Nacional de los Glaciares.
-
-#### 📝 Prompt
-
-```
-Crea un video de dron en primera persona avanzando hacia el oeste por la carretera Going-to-the-Sun en el Parque Nacional de los Glaciares, a media tarde y con un día soleado
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="Video de dron del Parque Nacional de los Glaciares">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9467)**
-
-**Author:** [Eric Lovold](https://x.com/ericlovold) | **Source:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **Published:** Aug 18, 2026
-
----
-### Escena de fogata en VR 360
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt inmersivo para un video en VR de 360 grados que presenta una fogata relajante y un paisaje sonoro.
-
-#### 📝 Prompt
-
-```
-elevándose lentamente sobre el equilibrio de la esfera, centro de gravedad en esta esfera de VR de 360 grados, completamente inmóvil, fogata relajante, paisaje sonoro
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="Escena de fogata en VR 360">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9465)**
-
-**Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
-
----
-### El reencuentro de Odiseo y Argos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico que retrata el emotivo regreso de Odiseo y su encuentro final con su perro Argos.
-
-#### 📝 Prompt
-
-```
-Odiseo regresa a Ítaca después de veinte años, disfrazado de mendigo. Al acercarse a su palacio, se encuentra con su viejo perro Argos, abandonado y agonizante sobre un montón de estiércol. Argos lo reconoce al instante, mueve débilmente la cola y luego muere. Odiseo aparta la mirada para ocultar sus lágrimas y mantener su identidad en secreto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="El reencuentro de Odiseo y Argos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9574)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2089721534721966474) | **Published:** Aug 18, 2026
-
----
-### Animación de joystick y emojis
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de animación detallado para Grok Imagine que describe el movimiento basado en física de un joystick y unas tijeras interactuando con emojis.
-
-#### 📝 Prompt
-
-```
-Manteniendo toda la verosimilitud, el mango del joystick se mueve como si estuviera en un juego. Las tijeras realizan un movimiento de corte y persiguen a los emojis. Las tijeras cortan un emoji de risa por la mitad. La fila de emojis de diablo morado en la base del joystick
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089549374624022528/img/Br1PYyhR_FRC_B7U.jpg" width="600" alt="Animación de joystick y emojis">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9432)**
-
-**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2089549388255543553) | **Published:** Aug 18, 2026
-
----
-### Robot humanoide montando un perro de Boston Dynamics
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico de un robot humanoide montando un gran perro robótico hacia una batalla en el frente durante la noche.
-
-#### 📝 Prompt
-
-```
-Robot humanoide montando un gran perro de Boston Dynamics hacia una batalla en el frente durante la noche. Estamos acabados.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089546081625333760/img/Crsm268vxN_QNVJu.jpg" width="600" alt="Robot humanoide montando un perro de Boston Dynamics">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9428)**
-
-**Author:** [SharewareFrom1994](https://x.com/amrndci) | **Source:** [Link](https://x.com/amrndci/status/2089546098364784937) | **Published:** Aug 18, 2026
-
----
-### Combate espacial y física de plasma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado de ciencia ficción que involucra planetas en rotación, naves en movimiento y efectos de conversión de plasma.
-
-#### 📝 Prompt
-
-```
-Haz que el planeta gire y la nave avance, con los láseres convirtiendo las rocas en plasma que fluye por el centro de la nave
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089501917697527808/img/v5v4qtOI4CVLvbJ5.jpg" width="600" alt="Combate espacial y física de plasma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9425)**
-
-**Author:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **Source:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **Published:** Aug 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2210,6 +2210,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-29T07:00:14.287Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-29T14:05:25.670Z</sub>
 
 </div>

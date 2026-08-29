@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2625** |
+| 📝 Total Prompts | **2633** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-29** |
 
@@ -189,9 +189,142 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
-### Lời chào bay góc nhìn thứ nhất đậm chất điện ảnh
+### Hoạt hình câu chuyện chú chó buồn
 
 ![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo hoạt hình kể chuyện mô tả những cử động cuối cùng của chú chó và một người đàn ông bước đi trong phong cách điện ảnh.
+
+#### 📝 Prompt
+
+```
+Tạo hoạt hình: đôi tai chú chó khẽ dựng lên, cái đuôi đập xuống một lần, hai lần, rồi nằm im bất động. Odysseus lau mắt bằng tay áo và tiếp tục bước đi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093463391092330496/img/2L6sK226jwv9ZyX7.jpg" width="600" alt="Hoạt hình câu chuyện chú chó buồn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10027)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093463477184614905) | **Published:** Aug 28, 2026
+
+---
+### Hoạt hình sinh vật xanh mũm mĩm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video thú vị về một sinh vật lông xanh mũm mĩm đang thư giãn trên ghế sofa và nhâm nhi đồ ăn nhẹ.
+
+#### 📝 Prompt
+
+```
+Một sinh vật lông xanh nhỏ bé vui nhộn và ngốc nghếch, béo tròn mũm mĩm, đang ngồi trên ghế sofa nhâm nhi bánh phô mai, với đôi mắt đen to tròn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093432471073247232/img/niMfQDtLXmodiXQ7.jpg" width="600" alt="Hoạt hình sinh vật xanh mũm mĩm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10026)**
+
+**Author:** [Chris](https://x.com/qwts_chris_dev) | **Source:** [Link](https://x.com/qwts_chris_dev/status/2093432499808477297) | **Published:** Aug 28, 2026
+
+---
+### Video người thú Sói và Cáo ôm nhau
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một khung cảnh ấm áp với người thú sói xám và cáo đỏ đang ôm nhau trong căn phòng sáng sủa, cả hai đều mặc trang phục mùa xuân thường ngày.
+
+#### 📝 Prompt
+
+```
+Một nữ người thú dễ thương (sói xám) đang ôm người bạn của mình, một nữ người thú khác (cáo đỏ). Cả hai đều có bộ lông xù bao phủ khắp cơ thể. Họ đang mặc trang phục mùa xuân thường ngày. Bối cảnh trong nhà, ánh sáng rực rỡ, ban ngày.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093337483572662272/img/Rx_m6TxkmFmqyCbF.jpg" width="600" alt="Video người thú Sói và Cáo ôm nhau">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10028)**
+
+**Author:** [🦦🐺TNG@MofuiWolf💕📺](https://x.com/TNG69JP) | **Source:** [Link](https://x.com/TNG69JP/status/2093337519014527394) | **Published:** Aug 28, 2026
+
+---
+### Video về nhẫn kim cương Emerald Cut đơn chiếc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video để thiết kế chiếc nhẫn kim cương xanh lục giác Emerald sang trọng với các viên kim cương pave trên đai nhẫn.
+
+#### 📝 Prompt
+
+```
+Tạo một chiếc nhẫn tuyệt đẹp với viên kim cương xanh lục giác Emerald được gắn làm tâm điểm, cùng các viên kim cương Emerald pave lớn trên đai nhẫn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093320247277182976/img/1ZM7nf1LrEROjxp3.jpg" width="600" alt="Video về nhẫn kim cương Emerald Cut đơn chiếc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10025)**
+
+**Author:** [@xAIExistentialPoet 💫 Dr.Jessica Konopka](https://x.com/DrJessxAI) | **Source:** [Link](https://x.com/DrJessxAI/status/2093320273067970594) | **Published:** Aug 28, 2026
+
+---
+### Hoạt ảnh biểu diễn ca hát tại San Francisco
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt chi tiết để tạo hoạt ảnh cho các nghệ sĩ đang hát tại San Francisco, với các chuyển động cơ thể tự nhiên và hậu cảnh đường chân trời ổn định.
+
+#### 📝 Prompt
+
+```
+Tạo hoạt ảnh cho hai nghệ sĩ đang hát và cử chỉ đầy năng lượng với chuyển động miệng và tay tự nhiên, gió nhẹ làm chuyển động tóc và quần áo của họ, cơ thể đung đưa nhẹ nhàng, giữ cho Cầu Cổng Vàng và đường chân trời San Francisco đứng yên hoàn hảo và...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093319484375171072/img/_6Ak95Qt-L1bV670.jpg" width="600" alt="Hoạt ảnh biểu diễn ca hát tại San Francisco">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10024)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2093319537336750297) | **Published:** Aug 28, 2026
+
+---
+### Quay cận cảnh sản phẩm máy tính xách tay chân thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video điện ảnh mô tả cảnh quay lia máy chậm qua một chiếc máy tính xách tay và chuột bóng loáng với những tia sáng phản chiếu tinh tế.
+
+#### 📝 Prompt
+
+```
+Cảnh quay lia máy chậm nhẹ nhàng qua khung hình với những tia sáng phản chiếu tinh tế lướt trên màn hình máy tính xách tay bóng loáng và con chuột trong suốt, chuyển động xung quanh mềm mại, phong cách quay sản phẩm chân thực
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093316414954217472/img/HA_iDnoxroVepVKJ.jpg" width="600" alt="Quay cận cảnh sản phẩm máy tính xách tay chân thực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10022)**
+
+**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2093316534064009631) | **Published:** Aug 28, 2026
+
+---
+### Cảnh quay cận cảnh ngoài trời đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một cấu trúc prompt JSON để tạo cảnh quay cận cảnh điện ảnh với chuyển động thấp trong bối cảnh ngoài trời không xác định cùng độ sâu trường ảnh nông.
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "low", "camera_depth": "close-up", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indistinct outdoor setting", "environment": "Hậu cảnh được làm mờ, hiển thị các yếu tố tự nhiên nhòe đi"}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093288680542584832/img/ua4qihAXdKV-zfDP.jpg" width="600" alt="Cảnh quay cận cảnh ngoài trời đậm chất điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10021)**
+
+**Author:** [Fauna](https://x.com/FaunaFoxD) | **Source:** [Link](https://x.com/FaunaFoxD/status/2093288701094695110) | **Published:** Aug 28, 2026
+
+---
+### Lời chào bay góc nhìn thứ nhất đậm chất điện ảnh
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 > Một câu lệnh (prompt) tạo ảnh điện ảnh chi tiết dành cho Grok Imagine, mô phỏng góc nhìn thứ nhất khi bay xuyên qua cung điện pha lê và sảnh gương, kết thúc bằng hiệu ứng chữ vỡ vụn tùy chỉnh.
 
@@ -282,6 +415,25 @@ Tạo hoạt ảnh nhẹ nhàng cho khung cảnh thanh bình: gió nhẹ khẽ l
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9965)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **Published:** Aug 28, 2026
+
+---
+### Thêm trang sức kim cương vào video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) giúp thêm và làm nổi bật các món trang sức kim cương như vòng cổ, bông tai và vòng tay trong video.
+
+#### 📝 Prompt
+
+```
+Thêm một chiếc vòng cổ kim cương, một đôi bông tai kim cương và một chiếc vòng tay kim cương, đồng thời làm cho chiếc nhẫn kim cương trông lớn hơn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093117064491761664/img/KYvolIL1MZU7dBrH.jpg" width="600" alt="Thêm trang sức kim cương vào video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10023)**
+
+**Author:** [Ashley Camp](https://x.com/ashleycamp556) | **Source:** [Link](https://x.com/ashleycamp556/status/2093117079104725139) | **Published:** Aug 27, 2026
 
 ---
 ### Tương tác với vỏ ốc biển đầy chất thơ
@@ -1997,158 +2149,6 @@ Hãy tạo cho tôi một video về một chú gấu Care Bear với hình ản
 **Author:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **Source:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **Published:** Aug 18, 2026
 
 ---
-### Hội thoại tại cửa hàng tạp hóa bằng tiếng Tây Ban Nha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một yêu cầu (prompt) cho video hội thoại dài 15 giây giữa khách hàng và nhân viên cửa hàng bằng tiếng Tây Ban Nha.
-
-#### 📝 Prompt
-
-```
-Bạn có thể tạo một đoạn hội thoại dài 15 giây cảnh một người phụ nữ muốn mua đồ tại cửa hàng bằng tiếng Tây Ban Nha không? Ví dụ như: chào hỏi, tôi muốn mua sữa, và người đàn ông phản hồi một cách lịch sự.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="Hội thoại tại cửa hàng tạp hóa bằng tiếng Tây Ban Nha">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9471)**
-
-**Author:** [Marco](https://x.com/Good_Tweet_USA) | **Source:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **Published:** Aug 18, 2026
-
----
-### Người Pleiades trong trạng thái ăn mừng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh mô tả người Pleiades đang ăn mừng với ánh sáng thể tích độ phân giải cao và màu sắc rực rỡ.
-
-#### 📝 Prompt
-
-```
-Người Pleiades trong trạng thái ăn mừng sau khi tỏa sáng ở chiều không gian thứ sáu và hơn thế nữa, kiệt tác, độ phân giải siêu nét (Ultra HD), ánh sáng thể tích rực rỡ và màu sắc sống động
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="Người Pleiades trong trạng thái ăn mừng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9469)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **Published:** Aug 18, 2026
-
----
-### Video quay bằng flycam tại Vườn quốc gia Glacier
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý (prompt) tạo video bằng flycam ở góc nhìn thứ nhất, ghi lại khung cảnh buổi chiều đầy nắng tại Vườn quốc gia Glacier.
-
-#### 📝 Prompt
-
-```
-Tạo một video quay bằng flycam ở góc nhìn thứ nhất, di chuyển về phía tây trên con đường Going-to-the-Sun tại Vườn quốc gia Glacier, vào giữa buổi chiều đầy nắng
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="Video quay bằng flycam tại Vườn quốc gia Glacier">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9467)**
-
-**Author:** [Eric Lovold](https://x.com/ericlovold) | **Source:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **Published:** Aug 18, 2026
-
----
-### Khung cảnh lửa trại 360 VR
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh nhập vai cho video VR 360 độ với khung cảnh lửa trại êm dịu và âm thanh sống động.
-
-#### 📝 Prompt
-
-```
-từ từ nâng lên trên trạng thái cân bằng của hình cầu, trọng tâm trong hình cầu VR 360 độ này, hoàn toàn tĩnh lặng , lửa trại êm dịu , âm thanh sống động
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="Khung cảnh lửa trại 360 VR">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9465)**
-
-**Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
-
----
-### Cuộc hội ngộ giữa Odysseus và Argos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đậm chất điện ảnh mô tả khoảnh khắc trở về đầy xúc động của Odysseus và cuộc gặp gỡ cuối cùng với chú chó Argos.
-
-#### 📝 Prompt
-
-```
-Odysseus trở về Ithaca sau hai mươi năm, cải trang thành một người ăn xin. Khi tiến gần đến cung điện, ông gặp lại chú chó già Argos của mình, đang bị bỏ rơi và hấp hối trên đống phân. Argos nhận ra ông ngay lập tức, vẫy đuôi yếu ớt rồi trút hơi thở cuối cùng. Odysseus quay mặt đi để giấu những giọt nước mắt và giữ kín danh tính của mình.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="Cuộc hội ngộ giữa Odysseus và Argos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9574)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2089721534721966474) | **Published:** Aug 18, 2026
-
----
-### Hoạt ảnh Cần điều khiển và Biểu tượng cảm xúc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý hoạt ảnh chi tiết cho Grok Imagine mô tả chuyển động dựa trên vật lý của cần điều khiển và kéo tương tác với các biểu tượng cảm xúc.
-
-#### 📝 Prompt
-
-```
-Giữ nguyên độ chân thực, tay cầm cần điều khiển di chuyển như đang chơi game. Kéo di chuyển theo chuyển động cắt và đuổi theo các hình ảnh biểu tượng cảm xúc. Kéo cắt đôi một biểu tượng cảm xúc đang cười. Hàng biểu tượng cảm xúc mặt quỷ màu tím ở chân cần điều khiển
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089549374624022528/img/Br1PYyhR_FRC_B7U.jpg" width="600" alt="Hoạt ảnh Cần điều khiển và Biểu tượng cảm xúc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9432)**
-
-**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2089549388255543553) | **Published:** Aug 18, 2026
-
----
-### Robot hình người cưỡi chó máy Boston Dynamics
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh về robot hình người đang cưỡi một chú chó máy lớn tiến vào chiến trường tiền tuyến vào ban đêm.
-
-#### 📝 Prompt
-
-```
-Robot hình người cưỡi chó máy Boston Dynamics lớn tiến vào chiến trường tiền tuyến vào ban đêm. Chúng ta tiêu rồi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089546081625333760/img/Crsm268vxN_QNVJu.jpg" width="600" alt="Robot hình người cưỡi chó máy Boston Dynamics">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9428)**
-
-**Author:** [SharewareFrom1994](https://x.com/amrndci) | **Source:** [Link](https://x.com/amrndci/status/2089546098364784937) | **Published:** Aug 18, 2026
-
----
-### Chiến đấu trong không gian và Vật lý Plasma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh khoa học viễn tưởng chi tiết liên quan đến các hành tinh xoay, tàu vũ trụ di chuyển và hiệu ứng chuyển đổi plasma.
-
-#### 📝 Prompt
-
-```
-Hãy làm cho hành tinh xoay tròn và con tàu di chuyển về phía trước, với các tia laser chuyển đổi đá thành plasma chảy dọc theo trung tâm của con tàu
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089501917697527808/img/v5v4qtOI4CVLvbJ5.jpg" width="600" alt="Chiến đấu trong không gian và Vật lý Plasma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9425)**
-
-**Author:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **Source:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **Published:** Aug 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2210,6 +2210,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-29T07:00:11.616Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-29T14:05:23.220Z</sub>
 
 </div>

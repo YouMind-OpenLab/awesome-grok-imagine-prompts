@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2625** |
+| 📝 총 프롬프트 수 | **2633** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-08-29** |
 
@@ -189,9 +189,142 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
-### 영화 같은 1인칭 비행 인사
+### 슬픈 강아지 이야기 애니메이션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
+
+> 강아지의 마지막 움직임과 남자가 걸어가는 모습을 영화 같은 스타일로 묘사한 내러티브 애니메이션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+애니메이션화: 강아지의 귀가 쫑긋거리고, 꼬리가 한 번, 두 번 툭 치더니 이내 멈춘다. 오디세우스(Odysseus)는 소매로 눈물을 닦으며 계속 걸어간다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093463391092330496/img/2L6sK226jwv9ZyX7.jpg" width="600" alt="슬픈 강아지 이야기 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10027)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2093463477184614905) | **게시일:** Aug 28, 2026
+
+---
+### 통통한 초록색 생명체 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 소파에서 휴식을 취하며 간식을 먹는 통통한 초록색 털 뭉치 생명체를 위한 재미있는 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+재미있고 엉뚱한 작은 초록색 털 뭉치 생명체가 통통하고 귀여운 모습으로 소파에 앉아 치즈 과자를 먹고 있으며, 크고 둥근 검은 눈을 가지고 있음
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093432471073247232/img/niMfQDtLXmodiXQ7.jpg" width="600" alt="통통한 초록색 생명체 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10026)**
+
+**작성자:** [Chris](https://x.com/qwts_chris_dev) | **출처:** [Link](https://x.com/qwts_chris_dev/status/2093432499808477297) | **게시일:** Aug 28, 2026
+
+---
+### 늑대와 여우 수인 포옹 영상
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 밝은 실내에서 캐주얼한 봄 의상을 입은 회색 늑대 수인과 붉은 여우 수인이 서로 포옹하는 가슴 따뜻한 장면입니다.
+
+#### 📝 프롬프트
+
+```
+귀여운 여성 수인(회색 늑대)이 친구인 여성 수인(붉은 여우)을 껴안고 있습니다. 둘 다 온몸이 푹신한 털로 덮여 있습니다. 캐주얼한 봄 의상을 입고 있으며, 밝은 낮의 실내 배경입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093337483572662272/img/Rx_m6TxkmFmqyCbF.jpg" width="600" alt="늑대와 여우 수인 포옹 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10028)**
+
+**작성자:** [🦦🐺TNG@MofuiWolf💕📺](https://x.com/TNG69JP) | **출처:** [Link](https://x.com/TNG69JP/status/2093337519014527394) | **게시일:** Aug 28, 2026
+
+---
+### 솔리테어 에메랄드 컷 다이아몬드 반지 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 밴드에 파베 다이아몬드가 세팅된 럭셔리한 에메랄드 컷 그린 다이아몬드 반지 영상을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+솔리테어 에메랄드 컷으로 세팅된 그린 다이아몬드와 밴드에 큰 파베 에메랄드 컷 다이아몬드가 장식된 아름다운 반지를 생성해 주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093320247277182976/img/1ZM7nf1LrEROjxp3.jpg" width="600" alt="솔리테어 에메랄드 컷 다이아몬드 반지 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10025)**
+
+**작성자:** [@xAIExistentialPoet 💫 Dr.Jessica Konopka](https://x.com/DrJessxAI) | **출처:** [Link](https://x.com/DrJessxAI/status/2093320273067970594) | **게시일:** Aug 28, 2026
+
+---
+### 샌프란시스코 노래 공연 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 샌프란시스코에서 노래하는 공연자의 자연스러운 신체 움직임과 안정적인 스카이라인 배경을 포함한 상세한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+두 명의 공연자가 자연스러운 입 모양과 손동작으로 활기차게 노래하고 제스처를 취하는 모습을 애니메이션으로 구현하세요. 가벼운 바람에 머리카락과 옷이 부드럽게 흔들리고 몸은 미세하게 흔들리며, 금문교와 샌프란시스코 스카이라인은 완벽하게 고정된 상태를 유지하세요...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093319484375171072/img/_6Ak95Qt-L1bV670.jpg" width="600" alt="샌프란시스코 노래 공연 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10024)**
+
+**작성자:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **출처:** [Link](https://x.com/maggiejuang1/status/2093319537336750297) | **게시일:** Aug 28, 2026
+
+---
+### 실사 노트북 제품 팬 촬영
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 광택이 나는 노트북과 마우스를 가로질러 은은한 빛 반사가 일어나는 느린 카메라 팬 촬영을 특징으로 하는 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+광택이 나는 노트북 화면과 반투명 마우스 위로 은은한 빛 반사가 미끄러지듯 지나가는 부드럽고 느린 카메라 팬 촬영, 부드러운 주변 움직임, 실사 제품 촬영 스타일
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093316414954217472/img/HA_iDnoxroVepVKJ.jpg" width="600" alt="실사 노트북 제품 팬 촬영">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10022)**
+
+**작성자:** [Jacek](https://x.com/iadventurejacek) | **출처:** [Link](https://x.com/iadventurejacek/status/2093316534064009631) | **게시일:** Aug 28, 2026
+
+---
+### 영화 같은 야외 클로즈업 샷
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 얕은 피사계 심도를 활용하여 흐릿한 야외 배경에서 저속 모션의 영화 같은 클로즈업 영상을 생성하기 위한 구조화된 JSON 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+{"shot": {"motion_level": "low", "camera_depth": "close-up", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indistinct outdoor setting", "environment": "The background is out of focus, showing blurred natural elements"}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093288680542584832/img/ua4qihAXdKV-zfDP.jpg" width="600" alt="영화 같은 야외 클로즈업 샷">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10021)**
+
+**작성자:** [Fauna](https://x.com/FaunaFoxD) | **출처:** [Link](https://x.com/FaunaFoxD/status/2093288701094695110) | **게시일:** Aug 28, 2026
+
+---
+### 영화 같은 1인칭 비행 인사
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 > Grok Imagine을 위한 매우 상세한 영화적 비행 프롬프트입니다. 수정 궁전과 거울의 방을 통과하는 1인칭 시점의 비행을 다루며, 마지막에는 깨진 유리 텍스트 효과가 나타납니다.
 
@@ -282,6 +415,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9965)**
 
 **작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **게시일:** Aug 28, 2026
+
+---
+### 다이아몬드 주얼리 영상 추가
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 영상 내 목걸이, 귀걸이, 팔찌와 같은 다이아몬드 주얼리 아이템을 추가하고 돋보이게 만드는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+다이아몬드 목걸이와 다이아몬드 귀걸이, 다이아몬드 팔찌를 추가하고 다이아몬드 반지를 더 크게 만들어 주세요
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093117064491761664/img/KYvolIL1MZU7dBrH.jpg" width="600" alt="다이아몬드 주얼리 영상 추가">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10023)**
+
+**작성자:** [Ashley Camp](https://x.com/ashleycamp556) | **출처:** [Link](https://x.com/ashleycamp556/status/2093117079104725139) | **게시일:** Aug 27, 2026
 
 ---
 ### 시적인 소라와의 교감
@@ -1998,158 +2150,6 @@ Emperor Kekius Maximus를 위한 로켓과 Prometheus를 위한 로켓, 이렇�
 **작성자:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **출처:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **게시일:** Aug 18, 2026
 
 ---
-### 스페인어 식료품점 대화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 스페인어로 진행되는 고객과 점원 간의 15초 분량 대화형 비디오를 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-스페인어로 식료품점에서 물건을 사려는 여성과 점원 간의 15초 분량 대화를 만들어 주세요. 예를 들어, 여성이 '안녕하세요, 우유를 사고 싶어요'라고 말하면 남성이 친절하게 응대하는 내용으로 구성해 주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="스페인어 식료품점 대화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9471)**
-
-**작성자:** [Marco](https://x.com/Good_Tweet_USA) | **출처:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **게시일:** Aug 18, 2026
-
----
-### 축제 분위기의 플레이아데스인
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 축제를 즐기는 플레이아데스인의 모습을 담은 시네마틱 프롬프트로, 고해상도 볼류메트릭 조명과 생동감 넘치는 색감이 특징입니다.
-
-#### 📝 프롬프트
-
-```
-6차원 이상의 세계에서 축제를 즐기는 플레이아데스인, 마스터피스, 초고화질 해상도, 볼류메트릭 밝은 조명 및 색감
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="축제 분위기의 플레이아데스인">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9469)**
-
-**작성자:** [Pleiadians Paradise](https://x.com/Octillion111111) | **출처:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **게시일:** Aug 18, 2026
-
----
-### 글레이셔 국립공원 드론 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 글레이셔 국립공원의 화창한 오후를 담은 1인칭 시점의 드론 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-글레이셔 국립공원의 고잉 투 더 선 로드(Going-to-the-Sun Road)를 따라 서쪽으로 향하는 1인칭 시점의 드론 영상을 생성해 줘. 시간대는 오후 중반이며 날씨는 화창해야 해
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="글레이셔 국립공원 드론 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9467)**
-
-**작성자:** [Eric Lovold](https://x.com/ericlovold) | **출처:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **게시일:** Aug 18, 2026
-
----
-### 360 VR 캠프파이어 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 차분한 캠프파이어와 오디오 풍경이 특징인 360도 VR 영상용 몰입형 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-구체의 평형 위로 천천히 상승, 이 VR 360도 구체 내의 무게 중심, 완전히 정지된 상태, 차분한 캠프파이어, 오디오 풍경
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="360 VR 캠프파이어 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9465)**
-
-**작성자:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **출처:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **게시일:** Aug 18, 2026
-
----
-### 오디세우스와 아르고스의 재회
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 오디세우스의 감동적인 귀환과 그의 반려견 아르고스와의 마지막 만남을 담은 영화 같은 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-오디세우스가 20년 만에 거지로 변장한 채 이타카로 돌아옵니다. 궁전에 다다랐을 때, 그는 오물 더미 위에서 버려진 채 죽어가던 늙은 개 아르고스를 만납니다. 아르고스는 그를 단번에 알아보고 힘없이 꼬리를 흔든 뒤 숨을 거둡니다. 오디세우스는 자신의 정체를 숨기기 위해 눈물을 감추며 고개를 돌립니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="오디세우스와 아르고스의 재회">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9574)**
-
-**작성자:** [Déborah](https://x.com/dvorahfr) | **출처:** [Link](https://x.com/dvorahfr/status/2089721534721966474) | **게시일:** Aug 18, 2026
-
----
-### 조이스틱 및 이모지 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 상세 애니메이션 프롬프트로, 조이스틱과 가위가 이모지와 상호작용하는 물리 기반 움직임을 설명합니다.
-
-#### 📝 프롬프트
-
-```
-조이스틱 핸들은 실제 게임을 하는 것처럼 생생하게 움직입니다. 가위는 자르는 동작을 하며 이모지 이미지를 뒤쫓습니다. 가위가 웃고 있는 이모지를 반으로 자릅니다. 조이스틱 하단에 있는 보라색 악마 이모지 열
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089549374624022528/img/Br1PYyhR_FRC_B7U.jpg" width="600" alt="조이스틱 및 이모지 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9432)**
-
-**작성자:** [FUNTIFFX](https://x.com/AbstractTiffany) | **출처:** [Link](https://x.com/AbstractTiffany/status/2089549388255543553) | **게시일:** Aug 18, 2026
-
----
-### Boston Dynamics 로봇 개를 탄 휴머노이드 로봇
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 야간 최전방 전투 현장으로 대형 로봇 개를 타고 이동하는 휴머노이드 로봇의 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-야간 최전방 전투 현장으로 대형 Boston Dynamics 로봇 개를 타고 이동하는 휴머노이드 로봇. 이제 우린 끝났다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089546081625333760/img/Crsm268vxN_QNVJu.jpg" width="600" alt="Boston Dynamics 로봇 개를 탄 휴머노이드 로봇">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9428)**
-
-**작성자:** [SharewareFrom1994](https://x.com/amrndci) | **출처:** [Link](https://x.com/amrndci/status/2089546098364784937) | **게시일:** Aug 18, 2026
-
----
-### 우주 전투와 플라즈마 물리학
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 회전하는 행성, 이동하는 우주선, 그리고 플라즈마 변환 효과를 포함한 상세한 SF 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-행성을 회전시키고 우주선을 전진시키세요. 레이저가 암석을 플라즈마로 변환하여 우주선 중앙으로 흘러내리게 하는 효과를 구현해 주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089501917697527808/img/v5v4qtOI4CVLvbJ5.jpg" width="600" alt="우주 전투와 플라즈마 물리학">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9425)**
-
-**작성자:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **출처:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **게시일:** Aug 17, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2211,6 +2211,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-29T07:00:08.099Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-29T14:05:20.987Z</sub>
 
 </div>

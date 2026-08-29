@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2625** |
+| 📝 Total Prompts | **2633** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-29** |
 
@@ -189,9 +189,142 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
-### วิดีโอต้อนรับมุมมองบุคคลที่หนึ่งแบบภาพยนตร์
+### แอนิเมชันเรื่องราวของสุนัขผู้เศร้าสร้อย
 
 ![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างแอนิเมชันเชิงบรรยายที่ถ่ายทอดช่วงเวลาสุดท้ายของสุนัขและชายคนหนึ่งที่เดินจากไปในสไตล์ภาพยนตร์
+
+#### 📝 Prompt
+
+```
+สร้างแอนิเมชัน: หูของสุนัขขยับขึ้น หางกระดิกหนึ่งครั้ง สองครั้ง แล้วนิ่งไป Odysseus เช็ดตาด้วยแขนเสื้อแล้วเดินจากไป
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093463391092330496/img/2L6sK226jwv9ZyX7.jpg" width="600" alt="แอนิเมชันเรื่องราวของสุนัขผู้เศร้าสร้อย">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10027)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093463477184614905) | **Published:** Aug 28, 2026
+
+---
+### แอนิเมชันสิ่งมีชีวิตสีเขียวตัวอ้วนกลม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแสนสนุกสำหรับสิ่งมีชีวิตขนฟูสีเขียวตัวอ้วนที่กำลังพักผ่อนบนโซฟาและเคี้ยวขนมอย่างเพลิดเพลิน
+
+#### 📝 Prompt
+
+```
+สิ่งมีชีวิตขนฟูสีเขียวตัวเล็กที่ดูตลกและซุกซน รูปร่างอ้วนกลม นั่งอยู่บนโซฟาพร้อมเคี้ยวขนมชีสพัฟอย่างเอร็ดอร่อย มีดวงตาสีดำกลมโตที่ดูโดดเด่น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093432471073247232/img/niMfQDtLXmodiXQ7.jpg" width="600" alt="แอนิเมชันสิ่งมีชีวิตสีเขียวตัวอ้วนกลม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10026)**
+
+**Author:** [Chris](https://x.com/qwts_chris_dev) | **Source:** [Link](https://x.com/qwts_chris_dev/status/2093432499808477297) | **Published:** Aug 28, 2026
+
+---
+### วิดีโอสัตว์กึ่งมนุษย์หมาป่าและสุนัขจิ้งจอกกอดกัน
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> ฉากสุดอบอุ่นหัวใจของสัตว์กึ่งมนุษย์หมาป่าสีเทาและสุนัขจิ้งจอกสีแดงที่กำลังกอดกันในห้องในร่มที่สว่างสดใส โดยทั้งคู่สวมชุดลำลองสำหรับฤดูใบไม้ผลิ
+
+#### 📝 Prompt
+
+```
+สัตว์กึ่งมนุษย์เพศหญิงสุดน่ารัก (หมาป่าสีเทา) กำลังกอดเพื่อนของเธอที่เป็นสัตว์กึ่งมนุษย์เพศหญิงเช่นกัน (สุนัขจิ้งจอกสีแดง) ทั้งคู่มีขนฟูปกคลุมทั่วร่างกาย พวกเธอสวมชุดลำลองสำหรับฤดูใบไม้ผลิ บรรยากาศภายในห้องที่สว่างสดใสในช่วงเวลากลางวัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093337483572662272/img/Rx_m6TxkmFmqyCbF.jpg" width="600" alt="วิดีโอสัตว์กึ่งมนุษย์หมาป่าและสุนัขจิ้งจอกกอดกัน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10028)**
+
+**Author:** [🦦🐺TNG@MofuiWolf💕📺](https://x.com/TNG69JP) | **Source:** [Link](https://x.com/TNG69JP/status/2093337519014527394) | **Published:** Aug 28, 2026
+
+---
+### วิดีโอแหวนเพชรทรงมรกตแบบเม็ดเดี่ยว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอแหวนเพชรสีเขียวทรงมรกตสุดหรู พร้อมประดับเพชรแบบพาเว่ที่ตัวเรือน
+
+#### 📝 Prompt
+
+```
+สร้างแหวนที่สวยงามด้วยเพชรสีเขียวทรงมรกตแบบเม็ดเดี่ยว พร้อมประดับเพชรทรงมรกตแบบพาเว่ขนาดใหญ่ที่ตัวเรือน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093320247277182976/img/1ZM7nf1LrEROjxp3.jpg" width="600" alt="วิดีโอแหวนเพชรทรงมรกตแบบเม็ดเดี่ยว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10025)**
+
+**Author:** [@xAIExistentialPoet 💫 Dr.Jessica Konopka](https://x.com/DrJessxAI) | **Source:** [Link](https://x.com/DrJessxAI/status/2093320273067970594) | **Published:** Aug 28, 2026
+
+---
+### แอนิเมชันการแสดงร้องเพลงในซานฟรานซิสโก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แบบละเอียดสำหรับการสร้างแอนิเมชันนักแสดงที่กำลังร้องเพลงในซานฟรานซิสโก โดยเน้นการเคลื่อนไหวร่างกายที่เป็นธรรมชาติและฉากหลังที่เป็นเส้นขอบฟ้าที่นิ่งสนิท
+
+#### 📝 Prompt
+
+```
+สร้างแอนิเมชันนักแสดงทั้งสองคนที่กำลังร้องเพลงและแสดงท่าทางอย่างกระตือรือร้น พร้อมการขยับปากและการเคลื่อนไหวมือที่เป็นธรรมชาติ มีลมพัดเบาๆ ทำให้ผมและเสื้อผ้าขยับเขยื้อนเล็กน้อย ร่างกายมีการโยกตัวอย่างนุ่มนวล โดยให้สะพานโกลเดนเกตและเส้นขอบฟ้าของซานฟรานซิสโกอยู่นิ่งสนิทและ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093319484375171072/img/_6Ak95Qt-L1bV670.jpg" width="600" alt="แอนิเมชันการแสดงร้องเพลงในซานฟรานซิสโก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10024)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2093319537336750297) | **Published:** Aug 28, 2026
+
+---
+### วิดีโอแพนกล้องสินค้าแล็ปท็อปแบบสมจริง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสไตล์ภาพยนตร์ที่เน้นการแพนกล้องอย่างช้าๆ ไปบนแล็ปท็อปและเมาส์ที่มีความเงางาม พร้อมการสะท้อนของแสงที่นุ่มนวล
+
+#### 📝 Prompt
+
+```
+แพนกล้องอย่างช้าๆ ไปทั่วทั้งฉาก โดยมีแสงสะท้อนที่นุ่มนวลไล้ไปบนหน้าจอแล็ปท็อปที่เงางามและเมาส์แบบโปร่งแสง การเคลื่อนไหวที่นุ่มนวลและเป็นธรรมชาติ สไตล์ภาพถ่ายสินค้าที่สมจริง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093316414954217472/img/HA_iDnoxroVepVKJ.jpg" width="600" alt="วิดีโอแพนกล้องสินค้าแล็ปท็อปแบบสมจริง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10022)**
+
+**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2093316534064009631) | **Published:** Aug 28, 2026
+
+---
+### ภาพโคลสอัพสไตล์ภาพยนตร์กลางแจ้ง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> โครงสร้าง JSON prompt สำหรับการสร้างวิดีโอสไตล์ภาพยนตร์แบบโคลสอัพที่มีการเคลื่อนไหวต่ำ ในสถานที่กลางแจ้งที่ไม่ระบุชัดเจน พร้อมระยะชัดลึกที่ตื้น
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "low", "camera_depth": "close-up", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indistinct outdoor setting", "environment": "The background is out of focus, showing blurred natural elements"}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093288680542584832/img/ua4qihAXdKV-zfDP.jpg" width="600" alt="ภาพโคลสอัพสไตล์ภาพยนตร์กลางแจ้ง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10021)**
+
+**Author:** [Fauna](https://x.com/FaunaFoxD) | **Source:** [Link](https://x.com/FaunaFoxD/status/2093288701094695110) | **Published:** Aug 28, 2026
+
+---
+### วิดีโอต้อนรับมุมมองบุคคลที่หนึ่งแบบภาพยนตร์
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 > พรอมต์วิดีโอแบบภาพยนตร์ที่มีรายละเอียดสูงสำหรับ Grok Imagine นำเสนอภาพมุมมองบุคคลที่หนึ่งขณะบินผ่านปราสาทคริสตัลและโถงกระจก ปิดท้ายด้วยเอฟเฟกต์ข้อความกระจกแตกที่ปรับแต่งได้
 
@@ -282,6 +415,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9965)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **Published:** Aug 28, 2026
+
+---
+### การเพิ่มเครื่องประดับเพชรในวิดีโอ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับการเพิ่มและปรับแต่งเครื่องประดับเพชร เช่น สร้อยคอ ต่างหู และสร้อยข้อมือ ให้ดูโดดเด่นภายในวิดีโอ
+
+#### 📝 Prompt
+
+```
+เพิ่มสร้อยคอเพชร ต่างหูเพชร และสร้อยข้อมือเพชร พร้อมทั้งปรับขนาดแหวนเพชรให้ใหญ่ขึ้น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093117064491761664/img/KYvolIL1MZU7dBrH.jpg" width="600" alt="การเพิ่มเครื่องประดับเพชรในวิดีโอ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10023)**
+
+**Author:** [Ashley Camp](https://x.com/ashleycamp556) | **Source:** [Link](https://x.com/ashleycamp556/status/2093117079104725139) | **Published:** Aug 27, 2026
 
 ---
 ### ปฏิสัมพันธ์กับสังข์แห่งห้วงสมุทรอันเปี่ยมด้วยบทกวี
@@ -2000,158 +2152,6 @@ Odysseus เดินทางกลับมายัง Ithaca ในครา
 **Author:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **Source:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **Published:** Aug 18, 2026
 
 ---
-### บทสนทนาในร้านขายของชำภาษาสเปน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับวิดีโอสนทนาความยาว 15 วินาทีระหว่างลูกค้ากับพนักงานร้านค้าในภาษาสเปน
-
-#### 📝 Prompt
-
-```
-ช่วยสร้างบทสนทนาความยาว 15 วินาทีที่เป็นเหตุการณ์หญิงสาวต้องการซื้อของในร้านค้าเป็นภาษาสเปน โดยเริ่มจากคำทักทาย เช่น สวัสดีค่ะ ฉันต้องการซื้อนมค่ะ และให้พนักงานชายตอบกลับด้วยความสุภาพและหยิบของให้
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="บทสนทนาในร้านขายของชำภาษาสเปน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9471)**
-
-**Author:** [Marco](https://x.com/Good_Tweet_USA) | **Source:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **Published:** Aug 18, 2026
-
----
-### ชาวเพลยาเดียนในโหมดเฉลิมฉลอง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวภาพยนตร์ที่แสดงภาพชาวเพลยาเดียนในบรรยากาศแห่งการเฉลิมฉลอง พร้อมแสงวอลูเมตริกความละเอียดสูงและสีสันที่สดใส
-
-#### 📝 Prompt
-
-```
-ชาวเพลยาเดียนในโหมดเฉลิมฉลองหลังจาก Sheen ในมิติที่ 6 และเหนือกว่านั้น, ผลงานระดับมาสเตอร์พีซ, ความละเอียดระดับ Ultra HD, แสงวอลูเมตริกที่สว่างไสวและสีสันที่สดใส
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="ชาวเพลยาเดียนในโหมดเฉลิมฉลอง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9469)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **Published:** Aug 18, 2026
-
----
-### วิดีโอโดรนที่อุทยานแห่งชาติ Glacier National Park
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับวิดีโอโดรนในมุมมองบุคคลที่หนึ่งที่ถ่ายทอดบรรยากาศยามบ่ายที่มีแดดจ้า ณ อุทยานแห่งชาติ Glacier National Park
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอโดรนในมุมมองบุคคลที่หนึ่ง โดยบินไปทางทิศตะวันตกบนถนน Going-to-the-Sun Road ในอุทยานแห่งชาติ Glacier National Park ในช่วงกลางบ่ายที่มีแสงแดดสดใส
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="วิดีโอโดรนที่อุทยานแห่งชาติ Glacier National Park">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9467)**
-
-**Author:** [Eric Lovold](https://x.com/ericlovold) | **Source:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **Published:** Aug 18, 2026
-
----
-### ฉากกองไฟในรูปแบบ VR 360 องศา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แบบดื่มด่ำสำหรับวิดีโอ VR 360 องศา ที่มาพร้อมกับบรรยากาศกองไฟอันเงียบสงบและภูมิทัศน์เสียง
-
-#### 📝 Prompt
-
-```
-ค่อย ๆ ลอยตัวขึ้นเหนือจุดสมดุลของทรงกลม โดยมีจุดศูนย์ถ่วงอยู่ในทรงกลม VR 360 องศานี้ อยู่นิ่งสนิท กองไฟที่ให้ความรู้สึกสงบ และภูมิทัศน์เสียง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="ฉากกองไฟในรูปแบบ VR 360 องศา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9465)**
-
-**Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
-
----
-### การกลับมาพบกันของโอดิสซูสและอาร์กอส
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่ถ่ายทอดช่วงเวลาอันน่าประทับใจของการกลับมาของโอดิสซูสและการพบกันครั้งสุดท้ายกับอาร์กอส สุนัขของเขา
-
-#### 📝 Prompt
-
-```
-โอดิสซูสเดินทางกลับมายังอิธากาหลังจากผ่านไป 20 ปี ในสภาพปลอมตัวเป็นขอทาน ขณะที่เขาเดินเข้าใกล้พระราชวัง เขาได้พบกับอาร์กอส สุนัขตัวเก่าของเขาที่ถูกทอดทิ้งและกำลังจะตายอยู่บนกองขยะ อาร์กอสจำเขาได้ในทันที มันกระดิกหางอย่างอ่อนแรงก่อนจะสิ้นใจ โอดิสซูสเบือนหน้าหนีเพื่อซ่อนน้ำตาและรักษาความลับเรื่องตัวตนของเขาเอาไว้
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="การกลับมาพบกันของโอดิสซูสและอาร์กอส">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9574)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2089721534721966474) | **Published:** Aug 18, 2026
-
----
-### แอนิเมชันจอยสติ๊กและอิโมจิ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างแอนิเมชันใน Grok Imagine ที่อธิบายการเคลื่อนไหวตามหลักฟิสิกส์ของจอยสติ๊กและกรรไกรที่โต้ตอบกับอิโมจิ
-
-#### 📝 Prompt
-
-```
-ด้ามจับจอยสติ๊กเคลื่อนไหวเสมือนการเล่นเกมจริง กรรไกรขยับในท่าตัดและไล่ตามภาพอิโมจิ กรรไกรตัดอิโมจิหัวเราะออกเป็นสองส่วน แถวของอิโมจิปีศาจสีม่วงที่ฐานของจอยสติ๊ก
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089549374624022528/img/Br1PYyhR_FRC_B7U.jpg" width="600" alt="แอนิเมชันจอยสติ๊กและอิโมจิ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9432)**
-
-**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2089549388255543553) | **Published:** Aug 18, 2026
-
----
-### หุ่นยนต์ฮิวแมนนอยด์ขี่สุนัขหุ่นยนต์จาก Boston Dynamics
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ของหุ่นยนต์ฮิวแมนนอยด์ที่กำลังขี่สุนัขหุ่นยนต์ตัวใหญ่เข้าสู่สมรภูมิรบในยามค่ำคืน
-
-#### 📝 Prompt
-
-```
-หุ่นยนต์ฮิวแมนนอยด์ขี่สุนัขหุ่นยนต์ตัวใหญ่จาก Boston Dynamics เข้าสู่สมรภูมิรบในยามค่ำคืน พวกเราจบสิ้นกันแล้ว
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089546081625333760/img/Crsm268vxN_QNVJu.jpg" width="600" alt="หุ่นยนต์ฮิวแมนนอยด์ขี่สุนัขหุ่นยนต์จาก Boston Dynamics">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9428)**
-
-**Author:** [SharewareFrom1994](https://x.com/amrndci) | **Source:** [Link](https://x.com/amrndci/status/2089546098364784937) | **Published:** Aug 18, 2026
-
----
-### การต่อสู้ในอวกาศและฟิสิกส์พลาสม่า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวไซไฟแบบละเอียดที่เกี่ยวข้องกับการหมุนของดาวเคราะห์ การเคลื่อนที่ของยานอวกาศ และเอฟเฟกต์การเปลี่ยนสถานะเป็นพลาสม่า
-
-#### 📝 Prompt
-
-```
-ทำให้ดาวเคราะห์หมุนและยานอวกาศเคลื่อนที่ไปข้างหน้า โดยมีเลเซอร์เปลี่ยนหินให้กลายเป็นพลาสม่าที่ไหลลงมาตรงกลางของตัวยาน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089501917697527808/img/v5v4qtOI4CVLvbJ5.jpg" width="600" alt="การต่อสู้ในอวกาศและฟิสิกส์พลาสม่า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9425)**
-
-**Author:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **Source:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **Published:** Aug 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2213,6 +2213,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-29T07:00:10.041Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-29T14:05:22.110Z</sub>
 
 </div>

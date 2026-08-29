@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2625** |
+| 📝 プロンプト総数 | **2633** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-08-29** |
 
@@ -189,9 +189,142 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
-### シネマティックな一人称視点の飛行演出
+### 悲しい犬の物語のアニメーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
+
+> 犬の最期の動きと、立ち去る男性の姿を映画のようなスタイルで描写したアニメーション用プロンプト。
+
+#### 📝 プロンプト
+
+```
+アニメーション化：犬の耳が持ち上がり、尻尾が 1 回、2 回と叩きつけられた後、静止する。オデュッセウスは袖で目を拭い、そのまま歩き続ける。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093463391092330496/img/2L6sK226jwv9ZyX7.jpg" width="600" alt="悲しい犬の物語のアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10027)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2093463477184614905) | **公開日:** Aug 28, 2026
+
+---
+### ぽっちゃりした緑色の生き物のアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ソファでくつろぎながらスナックを食べる、ぽっちゃりした緑色の毛むくじゃらの生き物の楽しい動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+ソファに座ってチーズスナックをむしゃむしゃと食べている、太ったぽっちゃり体型の面白くておどけた緑色の毛むくじゃらの生き物。大きく丸い真っ黒な目が特徴。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093432471073247232/img/niMfQDtLXmodiXQ7.jpg" width="600" alt="ぽっちゃりした緑色の生き物のアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10026)**
+
+**作者:** [Chris](https://x.com/qwts_chris_dev) | **ソース:** [Link](https://x.com/qwts_chris_dev/status/2093432499808477297) | **公開日:** Aug 28, 2026
+
+---
+### オオカミとキツネの獣人が抱き合う動画
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 明るい室内で、カジュアルな春の装いをした灰色のオオカミの獣人と赤いキツネの獣人が抱き合っている心温まるシーン。
+
+#### 📝 プロンプト
+
+```
+友人である女性獣人（赤いキツネ）を抱きしめる、女性獣人（灰色のオオカミ）のかわいらしい姿。二人とも全身がふわふわの毛で覆われています。カジュアルな春の服装を着用。屋内、明るい、昼間。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093337483572662272/img/Rx_m6TxkmFmqyCbF.jpg" width="600" alt="オオカミとキツネの獣人が抱き合う動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10028)**
+
+**作者:** [🦦🐺TNG@MofuiWolf💕📺](https://x.com/TNG69JP) | **ソース:** [Link](https://x.com/TNG69JP/status/2093337519014527394) | **公開日:** Aug 28, 2026
+
+---
+### ソリティア エメラルドカット ダイヤモンドリングの動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> バンドにパヴェダイヤモンドをあしらった、高級感のあるエメラルドカットのグリーンダイヤモンドリングを作成するための動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+ソリティア エメラルドカットとしてマウントされたグリーンダイヤモンドと、バンドに大きなパヴェ エメラルドカット ダイヤモンドをあしらった美しいリングを作成してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093320247277182976/img/1ZM7nf1LrEROjxp3.jpg" width="600" alt="ソリティア エメラルドカット ダイヤモンドリングの動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10025)**
+
+**作者:** [@xAIExistentialPoet 💫 Dr.Jessica Konopka](https://x.com/DrJessxAI) | **ソース:** [Link](https://x.com/DrJessxAI/status/2093320273067970594) | **公開日:** Aug 28, 2026
+
+---
+### サンフランシスコでの歌唱パフォーマンスアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> サンフランシスコで歌うパフォーマーをアニメーション化するための詳細なビデオプロンプト。自然な身体の動きと、安定した背景のスカイラインが特徴です。
+
+#### 📝 プロンプト
+
+```
+2 人のパフォーマーがエネルギッシュに歌い、ジェスチャーをする様子をアニメーション化してください。口の動きや手の動作は自然に、軽い風で髪や服が優しく揺れ、体はわずかに揺れるようにします。ゴールデンゲートブリッジとサンフランシスコのスカイラインは完全に静止させたまま、...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093319484375171072/img/_6Ak95Qt-L1bV670.jpg" width="600" alt="サンフランシスコでの歌唱パフォーマンスアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10024)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2093319537336750297) | **公開日:** Aug 28, 2026
+
+---
+### ノートパソコンのフォトリアルな製品パン撮影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 光沢のあるノートパソコンとマウスをゆっくりとパンする、繊細な光の反射が美しいシネマティックなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+光沢のあるノートパソコンの画面と半透明のマウスの上を繊細な光の反射が滑る、緩やかでスローなカメラパン。柔らかなアンビエントの動き、フォトリアルな製品ショットスタイル
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093316414954217472/img/HA_iDnoxroVepVKJ.jpg" width="600" alt="ノートパソコンのフォトリアルな製品パン撮影">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10022)**
+
+**作者:** [Jacek](https://x.com/iadventurejacek) | **ソース:** [Link](https://x.com/iadventurejacek/status/2093316534064009631) | **公開日:** Aug 28, 2026
+
+---
+### シネマティックな屋外クローズアップショット
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 被写界深度を浅く設定し、曖昧な屋外環境で低モーションのシネマティックなクローズアップを生成するための構造化された JSON プロンプトです。
+
+#### 📝 プロンプト
+
+```
+{"shot": {"motion_level": "low", "camera_depth": "close-up", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indistinct outdoor setting", "environment": "The background is out of focus, showing blurred natural elements"}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093288680542584832/img/ua4qihAXdKV-zfDP.jpg" width="600" alt="シネマティックな屋外クローズアップショット">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10021)**
+
+**作者:** [Fauna](https://x.com/FaunaFoxD) | **ソース:** [Link](https://x.com/FaunaFoxD/status/2093288701094695110) | **公開日:** Aug 28, 2026
+
+---
+### シネマティックな一人称視点の飛行演出
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 > Grok Imagine 向けの非常に詳細なシネマティック飛行プロンプト。クリスタルパレスや鏡の間を一人称視点で飛行し、最後は砕け散るガラスのカスタムテキストエフェクトで締めくくります。
 
@@ -282,6 +415,25 @@ Wake up the morning / いつものように / 習慣なら「稼ぐ」のが俺�
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9965)**
 
 **作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **公開日:** Aug 28, 2026
+
+---
+### ダイヤモンドジュエリーの動画追加
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 動画内のネックレス、イヤリング、ブレスレットなどのダイヤモンドジュエリーを追加・強調するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+ダイヤモンドのネックレスとダイヤモンドのイヤリング、ダイヤモンドのブレスレットを追加し、ダイヤモンドの指輪を大きくしてください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093117064491761664/img/KYvolIL1MZU7dBrH.jpg" width="600" alt="ダイヤモンドジュエリーの動画追加">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10023)**
+
+**作者:** [Ashley Camp](https://x.com/ashleycamp556) | **ソース:** [Link](https://x.com/ashleycamp556/status/2093117079104725139) | **公開日:** Aug 27, 2026
 
 ---
 ### 詩的な海螺との対話
@@ -1998,158 +2150,6 @@ SpaceX によって Starbase から同時に打ち上げられる、皇帝 Kekiu
 **作者:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **ソース:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **公開日:** Aug 18, 2026
 
 ---
-### スペイン語の食料品店での会話
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> スペイン語での客と店員の 15 秒間の会話動画用プロンプト。
-
-#### 📝 プロンプト
-
-```
-スペイン語で、女性が店で買い物をしようとしている 15 秒程度のやり取りを作成してください。例えば「こんにちは、牛乳をください」といった内容で、男性店員が親切に応対するようなシーンにしてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="スペイン語の食料品店での会話">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9471)**
-
-**作者:** [Marco](https://x.com/Good_Tweet_USA) | **ソース:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **公開日:** Aug 18, 2026
-
----
-### 祝祭モードのプレアデス星人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 祝祭状態にあるプレアデス星人を描いたシネマティックなプロンプト。高精細なボリュメトリックライティングと鮮やかな色彩が特徴です。
-
-#### 📝 プロンプト
-
-```
-6 次元以降の Sheen を経て祝祭モードにあるプレアデス星人、傑作、超高精細な画質、ボリュメトリックな明るいライティングと色彩
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="祝祭モードのプレアデス星人">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9469)**
-
-**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **ソース:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **公開日:** Aug 18, 2026
-
----
-### グレーシャー国立公園のドローン映像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> グレーシャー国立公園の晴れた午後を捉えた、一人称視点のドローン映像用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-グレーシャー国立公園のゴーイング・トゥ・ザ・サン・ロードを西へ向かう、一人称視点のドローン映像を作成してください。時間は午後の半ばで、晴天の様子です。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="グレーシャー国立公園のドローン映像">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9467)**
-
-**作者:** [Eric Lovold](https://x.com/ericlovold) | **ソース:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **公開日:** Aug 18, 2026
-
----
-### 360 度 VR キャンプファイヤーシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 心落ち着くキャンプファイヤーと音響風景を特徴とする、360 度 VR 動画向けの没入型プロンプトです。
-
-#### 📝 プロンプト
-
-```
-球体の均衡からゆっくりと上昇し、この 360 度 VR 球体の重心に位置する、完全な静寂、心落ち着くキャンプファイヤー、音響風景
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="360 度 VR キャンプファイヤーシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9465)**
-
-**作者:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **ソース:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **公開日:** Aug 18, 2026
-
----
-### オデュッセウスとアルゴスの再会
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> オデュッセウスの感動的な帰還と、愛犬アルゴスとの最期の対面を描いたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-20 年の時を経て、乞食の姿でイタカに帰還したオデュッセウス。宮殿に近づくと、彼はかつての愛犬アルゴスと出会う。アルゴスは糞の山の上で捨てられ、死に瀕していた。アルゴスは一目で主人を認識し、弱々しく尻尾を振った後、息を引き取る。オデュッセウスは正体を隠すため、涙を隠すように顔を背ける。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="オデュッセウスとアルゴスの再会">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9574)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **ソース:** [Link](https://x.com/dvorahfr/status/2089721534721966474) | **公開日:** Aug 18, 2026
-
----
-### ジョイスティックと絵文字のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用の詳細なアニメーションプロンプト。ジョイスティックとハサミが絵文字とインタラクションする物理ベースの動きを記述します。
-
-#### 📝 プロンプト
-
-```
-ジョイスティックのハンドルがゲーム機のようにリアルに動く様子を維持してください。ハサミは切るような動作で絵文字を追いかけます。ハサミが笑っている絵文字を半分に切ります。ジョイスティックの基部にある紫色のデビル絵文字の列
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089549374624022528/img/Br1PYyhR_FRC_B7U.jpg" width="600" alt="ジョイスティックと絵文字のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9432)**
-
-**作者:** [FUNTIFFX](https://x.com/AbstractTiffany) | **ソース:** [Link](https://x.com/AbstractTiffany/status/2089549388255543553) | **公開日:** Aug 18, 2026
-
----
-### Boston Dynamics の犬型ロボットに乗る人型ロボット
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夜の最前線で、人型ロボットが大型の犬型ロボットに乗って戦場へ向かう様子を描いたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-夜の最前線で、大型の Boston Dynamics 社製ロボット犬に乗る人型ロボット。もう終わりだ。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089546081625333760/img/Crsm268vxN_QNVJu.jpg" width="600" alt="Boston Dynamics の犬型ロボットに乗る人型ロボット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9428)**
-
-**作者:** [SharewareFrom1994](https://x.com/amrndci) | **ソース:** [Link](https://x.com/amrndci/status/2089546098364784937) | **公開日:** Aug 18, 2026
-
----
-### 宇宙戦闘とプラズマ物理学
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 回転する惑星、移動する宇宙船、そしてプラズマ変換エフェクトを盛り込んだ、詳細な SF プロンプトです。
-
-#### 📝 プロンプト
-
-```
-惑星を回転させ、宇宙船を前進させてください。レーザーが岩石をプラズマに変換し、そのプラズマが宇宙船の中央を通って流れ込むようなエフェクトを生成してください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089501917697527808/img/v5v4qtOI4CVLvbJ5.jpg" width="600" alt="宇宙戦闘とプラズマ物理学">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9425)**
-
-**作者:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **ソース:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **公開日:** Aug 17, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2211,6 +2211,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-29T07:00:06.921Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-29T14:05:17.794Z</sub>
 
 </div>

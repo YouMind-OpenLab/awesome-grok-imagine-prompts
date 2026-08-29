@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2625** |
+| 📝 Total Prompts | **2633** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-29** |
 
@@ -189,9 +189,142 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
-### सिनेमैटिक फर्स्ट-पर्सन फ्लाइट ग्रीटिंग
+### उदास कुत्ते की कहानी का एनीमेशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक नैरेटिव एनीमेशन प्रॉम्प्ट जो एक कुत्ते की अंतिम हलचल और एक आदमी के सिनेमैटिक स्टाइल में दूर जाने के दृश्य का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+इसे एनिमेट करें: कुत्ते के कान उठते हैं, पूंछ एक बार, फिर दो बार थपथपाती है, और फिर स्थिर हो जाती है। Odysseus अपनी आस्तीन से अपनी आँखें पोंछता है और आगे बढ़ता रहता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093463391092330496/img/2L6sK226jwv9ZyX7.jpg" width="600" alt="उदास कुत्ते की कहानी का एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10027)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093463477184614905) | **Published:** Aug 28, 2026
+
+---
+### गोल-मटोल हरे जीव का एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सोफे पर आराम करते और स्नैक्स खाते हुए गोल-मटोल हरे फर वाले जीव के लिए एक मजेदार वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक मजाकिया और चुलबुला छोटा हरा फर वाला जीव, जो मोटा और गोल-मटोल है, सोफे पर बैठकर चीजी पूफ्स (cheesy poofs) खा रहा है, जिसकी बड़ी और गोल काली आँखें हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093432471073247232/img/niMfQDtLXmodiXQ7.jpg" width="600" alt="गोल-मटोल हरे जीव का एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10026)**
+
+**Author:** [Chris](https://x.com/qwts_chris_dev) | **Source:** [Link](https://x.com/qwts_chris_dev/status/2093432499808477297) | **Published:** Aug 28, 2026
+
+---
+### भेड़िया और लोमड़ी बीस्टफोल्क के गले मिलने का वीडियो
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> एक दिल को छू लेने वाला दृश्य जिसमें एक ग्रे भेड़िया और एक लाल लोमड़ी बीस्टफोल्क एक उज्ज्वल इनडोर कमरे में कैजुअल स्प्रिंग पोशाक पहने हुए गले मिल रहे हैं।
+
+#### 📝 Prompt
+
+```
+एक प्यारी महिला बीस्टफोल्क (ग्रे भेड़िया) अपनी दोस्त, एक महिला बीस्टफोल्क (लाल लोमड़ी) को गले लगा रही है। दोनों के पूरे शरीर पर मुलायम फर हैं। उन्होंने कैजुअल स्प्रिंग आउटफिट पहने हुए हैं। घर के अंदर, उज्ज्वल, दिन का समय।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093337483572662272/img/Rx_m6TxkmFmqyCbF.jpg" width="600" alt="भेड़िया और लोमड़ी बीस्टफोल्क के गले मिलने का वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10028)**
+
+**Author:** [🦦🐺TNG@MofuiWolf💕📺](https://x.com/TNG69JP) | **Source:** [Link](https://x.com/TNG69JP/status/2093337519014527394) | **Published:** Aug 28, 2026
+
+---
+### सॉलिटेयर एमराल्ड कट डायमंड रिंग वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> बैंड पर पेव डायमंड्स के साथ एक लग्जरी एमराल्ड कट ग्रीन डायमंड रिंग बनाने के लिए एक वीडियो जनरेशन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+सॉलिटेयर एमराल्ड कट के रूप में जड़े हुए हरे हीरे और बैंड पर बड़े पेव एमराल्ड कट हीरों के साथ एक सुंदर अंगूठी बनाएं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093320247277182976/img/1ZM7nf1LrEROjxp3.jpg" width="600" alt="सॉलिटेयर एमराल्ड कट डायमंड रिंग वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10025)**
+
+**Author:** [@xAIExistentialPoet 💫 Dr.Jessica Konopka](https://x.com/DrJessxAI) | **Source:** [Link](https://x.com/DrJessxAI/status/2093320273067970594) | **Published:** Aug 28, 2026
+
+---
+### सैन फ्रांसिस्को सिंगिंग परफॉरमेंस एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> सैन फ्रांसिस्को में गाते हुए कलाकारों को एनिमेट करने के लिए एक विस्तृत वीडियो प्रॉम्प्ट, जिसमें स्वाभाविक शारीरिक गतिविधियाँ और स्थिर स्काईलाइन बैकग्राउंड शामिल है।
+
+#### 📝 Prompt
+
+```
+दोनों कलाकारों को ऊर्जा के साथ गाते और इशारा करते हुए एनिमेट करें, जिसमें स्वाभाविक होंठों की हलचल और हाथों के हाव-भाव हों, हल्की हवा से उनके बाल और कपड़े धीरे-धीरे हिल रहे हों, शरीर में हल्की लय हो, और गोल्डन गेट ब्रिज तथा सैन फ्रांसिस्को की स्काईलाइन को बिल्कुल स्थिर रखें और...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093319484375171072/img/_6Ak95Qt-L1bV670.jpg" width="600" alt="सैन फ्रांसिस्को सिंगिंग परफॉरमेंस एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10024)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2093319537336750297) | **Published:** Aug 28, 2026
+
+---
+### फोटोरीलिस्टिक लैपटॉप प्रोडक्ट पैन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें एक चमकदार लैपटॉप और माउस पर धीमी कैमरा पैनिंग और सूक्ष्म प्रकाश परावर्तन (light reflections) दिखाई देते हैं।
+
+#### 📝 Prompt
+
+```
+दृश्य के आर-पार धीमी कैमरा पैनिंग, जिसमें चमकदार लैपटॉप स्क्रीन और पारभासी माउस पर सूक्ष्म प्रकाश परावर्तन फिसलते हुए दिखाई देते हैं, हल्की एम्बिएंट मूवमेंट, फोटोरीलिस्टिक प्रोडक्ट शॉट स्टाइल
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093316414954217472/img/HA_iDnoxroVepVKJ.jpg" width="600" alt="फोटोरीलिस्टिक लैपटॉप प्रोडक्ट पैन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10022)**
+
+**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2093316534064009631) | **Published:** Aug 28, 2026
+
+---
+### सिनेमैटिक आउटडोर क्लोज-अप शॉट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अस्पष्ट आउटडोर सेटिंग में कम-मोशन वाले सिनेमैटिक क्लोज-अप और शैलो डेप्थ ऑफ फील्ड को जनरेट करने के लिए एक स्ट्रक्चर्ड JSON प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "low", "camera_depth": "close-up", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indistinct outdoor setting", "environment": "The background is out of focus, showing blurred natural elements"}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093288680542584832/img/ua4qihAXdKV-zfDP.jpg" width="600" alt="सिनेमैटिक आउटडोर क्लोज-अप शॉट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10021)**
+
+**Author:** [Fauna](https://x.com/FaunaFoxD) | **Source:** [Link](https://x.com/FaunaFoxD/status/2093288701094695110) | **Published:** Aug 28, 2026
+
+---
+### सिनेमैटिक फर्स्ट-पर्सन फ्लाइट ग्रीटिंग
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 > Grok Imagine के लिए एक अत्यधिक विस्तृत सिनेमैटिक फ्लाइट प्रॉम्प्ट, जिसमें एक क्रिस्टल पैलेस और हॉल ऑफ मिरर्स के माध्यम से उड़ते हुए फर्स्ट-पर्सन परिप्रेक्ष्य को दिखाया गया है, जिसका समापन एक कस्टम शैटर्ड-ग्लास टेक्स्ट इफेक्ट के साथ होता है।
 
@@ -282,6 +415,25 @@ Wake up the morning / As usual / If it's a habit 'Make money' my own theory / Li
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9965)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **Published:** Aug 28, 2026
+
+---
+### डायमंड ज्वेलरी वीडियो एडिशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> वीडियो में नेकलेस, इयररिंग्स और ब्रेसलेट जैसे डायमंड ज्वेलरी आइटम जोड़ने और उन्हें बेहतर बनाने के लिए एक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक डायमंड नेकलेस, डायमंड इयररिंग्स और डायमंड ब्रेसलेट जोड़ें और डायमंड रिंग को बड़ा करें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093117064491761664/img/KYvolIL1MZU7dBrH.jpg" width="600" alt="डायमंड ज्वेलरी वीडियो एडिशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10023)**
+
+**Author:** [Ashley Camp](https://x.com/ashleycamp556) | **Source:** [Link](https://x.com/ashleycamp556/status/2093117079104725139) | **Published:** Aug 27, 2026
 
 ---
 ### काव्यात्मक शंख इंटरैक्शन
@@ -1997,158 +2149,6 @@ Odyssey की कहानी को एक मूवी ट्रेलर क
 **Author:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **Source:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **Published:** Aug 18, 2026
 
 ---
-### स्पेनिश ग्रोसरी स्टोर संवाद
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> स्पेनिश में एक ग्राहक और क्लर्क के बीच 15-सेकंड के संवादात्मक वीडियो के लिए एक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-क्या आप स्पेनिश में किसी महिला के स्टोर पर कुछ खरीदने के 15 सेकंड के संवाद का वीडियो बना सकते हैं, जैसे कि 'नमस्ते, मैं दूध खरीदना चाहती हूँ' और पुरुष विनम्रतापूर्वक जवाब देते हुए उसे दूध दे।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="स्पेनिश ग्रोसरी स्टोर संवाद">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9471)**
-
-**Author:** [Marco](https://x.com/Good_Tweet_USA) | **Source:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **Published:** Aug 18, 2026
-
----
-### सेलिब्रेशन मोड में Pleiadians
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक प्रॉम्प्ट जिसमें Pleiadians को जश्न मनाते हुए दिखाया गया है, साथ ही हाई-डेफिनिशन वॉल्यूमेट्रिक लाइटिंग और जीवंत रंगों का उपयोग किया गया है।
-
-#### 📝 Prompt
-
-```
-छठे आयाम (6D) और उससे आगे Sheen के बाद सेलिब्रेशन मोड में Pleiadians, मास्टरपीस, अल्ट्रा HD क्वालिटी रिज़ॉल्यूशन, वॉल्यूमेट्रिक ब्राइट लाइटिंग और कलर्स
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="सेलिब्रेशन मोड में Pleiadians">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9469)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **Published:** Aug 18, 2026
-
----
-### ग्लेशियर नेशनल पार्क का ड्रोन वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ग्लेशियर नेशनल पार्क में एक धूप वाली दोपहर को दर्शाने वाला फर्स्ट-पर्सन पर्सपेक्टिव ड्रोन वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-ग्लेशियर नेशनल पार्क में गोइंग-टू-द-सन रोड पर पश्चिम की ओर जाते हुए दोपहर के समय का धूप वाला एक फर्स्ट-पर्सन पर्सपेक्टिव ड्रोन वीडियो बनाएं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="ग्लेशियर नेशनल पार्क का ड्रोन वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9467)**
-
-**Author:** [Eric Lovold](https://x.com/ericlovold) | **Source:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **Published:** Aug 18, 2026
-
----
-### 360 VR कैंपफायर सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक शांत कैंपफायर और ऑडियो लैंडस्केप की विशेषता वाले 360-डिग्री VR वीडियो के लिए एक इमर्सिव प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-गोले के संतुलन से धीरे-धीरे ऊपर उठना, इस VR 360 डिग्री गोले में गुरुत्वाकर्षण का केंद्र, पूरी तरह स्थिर, शांत कैंपफायर, ऑडियो लैंडस्केप
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="360 VR कैंपफायर सीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9465)**
-
-**Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
-
----
-### ओडिसियस और आर्गोस का पुनर्मिलन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई वीडियो प्रॉम्प्ट जो ओडिसियस की भावनात्मक वापसी और उनके कुत्ते आर्गोस के साथ उनकी अंतिम मुलाकात को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-ओडिसियस बीस साल बाद एक भिखारी के वेश में इथाका लौटता है। जैसे ही वह अपने महल के पास पहुँचता है, उसकी मुलाकात अपने पुराने कुत्ते आर्गोस से होती है, जो गोबर के ढेर पर लावारिस और मरणासन्न अवस्था में पड़ा है। आर्गोस उसे तुरंत पहचान लेता है, धीरे से अपनी पूंछ हिलाता है, और फिर मर जाता है। ओडिसियस अपने आँसू छिपाने और अपनी पहचान गुप्त रखने के लिए दूसरी तरफ देख लेता है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="ओडिसियस और आर्गोस का पुनर्मिलन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9574)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2089721534721966474) | **Published:** Aug 18, 2026
-
----
-### जॉयस्टिक और इमोजी एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत एनिमेशन प्रॉम्प्ट, जो जॉयस्टिक और कैंची की इमोजी के साथ इंटरैक्ट करने वाली भौतिकी-आधारित गति का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-पूरी समानता बनाए रखते हुए, जॉयस्टिक हैंडल ऐसे हिलता है जैसे गेमिंग के दौरान हिलता हो। कैंची काटने की गति में चलती है और इमोजी छवियों का पीछा करती है। कैंची एक हंसते हुए इमोजी को बीच से काट देती है। जॉयस्टिक के आधार पर बैंगनी शैतान इमोजी की पंक्ति
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089549374624022528/img/Br1PYyhR_FRC_B7U.jpg" width="600" alt="जॉयस्टिक और इमोजी एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9432)**
-
-**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2089549388255543553) | **Published:** Aug 18, 2026
-
----
-### Boston Dynamics डॉग की सवारी करता हुआ ह्यूमनॉइड रोबोट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक ह्यूमनॉइड रोबोट के रात के समय युद्ध के मैदान में एक बड़े रोबोटिक डॉग की सवारी करने का सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-रात के समय युद्ध के मैदान में Boston Dynamics डॉग की सवारी करता हुआ ह्यूमनॉइड रोबोट। हमारा काम तमाम है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089546081625333760/img/Crsm268vxN_QNVJu.jpg" width="600" alt="Boston Dynamics डॉग की सवारी करता हुआ ह्यूमनॉइड रोबोट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9428)**
-
-**Author:** [SharewareFrom1994](https://x.com/amrndci) | **Source:** [Link](https://x.com/amrndci/status/2089546098364784937) | **Published:** Aug 18, 2026
-
----
-### अंतरिक्ष युद्ध और प्लाज्मा भौतिकी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> घूमते हुए ग्रहों, चलते हुए जहाजों और प्लाज्मा रूपांतरण प्रभावों से संबंधित एक विस्तृत साइंस-फिक्शन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-ग्रह को घुमाएं और जहाज को आगे बढ़ाएं, साथ ही लेजर को चट्टानों को प्लाज्मा में बदलते हुए दिखाएं जो जहाज के केंद्र से होकर बहता है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089501917697527808/img/v5v4qtOI4CVLvbJ5.jpg" width="600" alt="अंतरिक्ष युद्ध और प्लाज्मा भौतिकी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9425)**
-
-**Author:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **Source:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **Published:** Aug 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2210,6 +2210,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-29T07:00:13.127Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-29T14:05:24.499Z</sub>
 
 </div>

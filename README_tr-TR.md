@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2625** |
+| 📝 Total Prompts | **2633** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-29** |
 
@@ -189,9 +189,142 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
-### Sinematik Birinci Şahıs Uçuş Karşılaması
+### Üzgün Köpek Hikayesi Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir köpeğin son hareketlerini ve bir adamın uzaklaşmasını sinematik bir tarzda betimleyen anlatısal bir animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Canlandır: köpeğin kulakları kalkıyor, kuyruğu bir, iki kez yere vuruyor ve sonra hareketsiz kalıyor. Odysseus gözlerini koluyla siliyor ve yürümeye devam ediyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093463391092330496/img/2L6sK226jwv9ZyX7.jpg" width="600" alt="Üzgün Köpek Hikayesi Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10027)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093463477184614905) | **Published:** Aug 28, 2026
+
+---
+### Tombul Yeşil Yaratık Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Koltukta dinlenen ve atıştırmalıklarını yiyen tombul, yeşil tüylü bir yaratık için eğlenceli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Koltukta oturmuş peynirli mısır cipslerini atıştıran, tombul ve şişman, komik ve şapşal, küçük yeşil tüylü bir yaratık; belirgin, büyük ve yuvarlak siyah gözlere sahip
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093432471073247232/img/niMfQDtLXmodiXQ7.jpg" width="600" alt="Tombul Yeşil Yaratık Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10026)**
+
+**Author:** [Chris](https://x.com/qwts_chris_dev) | **Source:** [Link](https://x.com/qwts_chris_dev/status/2093432499808477297) | **Published:** Aug 28, 2026
+
+---
+### Kurt ve Tilki Yarı İnsan Karakterlerin Sarılma Videosu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Aydınlık bir iç mekanda, günlük bahar kıyafetleri içinde birbirine sarılan gri kurt ve kızıl tilki yarı insan karakterlerin yer aldığı iç ısıtan bir sahne.
+
+#### 📝 Prompt
+
+```
+Arkadaşı olan bir başka yarı insan karaktere (kızıl tilki) sarılan sevimli bir yarı insan karakter (gri kurt). Her ikisinin de vücudu tüylü bir kürk ile kaplı. Üzerlerinde günlük bahar kıyafetleri var. İç mekan, aydınlık, gündüz vakti.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093337483572662272/img/Rx_m6TxkmFmqyCbF.jpg" width="600" alt="Kurt ve Tilki Yarı İnsan Karakterlerin Sarılma Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10028)**
+
+**Author:** [🦦🐺TNG@MofuiWolf💕📺](https://x.com/TNG69JP) | **Source:** [Link](https://x.com/TNG69JP/status/2093337519014527394) | **Published:** Aug 28, 2026
+
+---
+### Zümrüt Kesim Tektaş Pırlanta Yüzük Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bant kısmında pave pırlantalar bulunan, lüks zümrüt kesim yeşil pırlanta yüzük oluşturmaya yönelik bir video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Tektaş zümrüt kesim olarak monte edilmiş yeşil pırlantalı ve bant kısmında büyük pave zümrüt kesim pırlantalar bulunan güzel bir yüzük oluşturun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093320247277182976/img/1ZM7nf1LrEROjxp3.jpg" width="600" alt="Zümrüt Kesim Tektaş Pırlanta Yüzük Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10025)**
+
+**Author:** [@xAIExistentialPoet 💫 Dr.Jessica Konopka](https://x.com/DrJessxAI) | **Source:** [Link](https://x.com/DrJessxAI/status/2093320273067970594) | **Published:** Aug 28, 2026
+
+---
+### San Francisco Şarkı Performansı Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> San Francisco'da şarkı söyleyen sanatçıların animasyonu için, doğal vücut hareketleri ve sabit bir şehir silüeti arka planı içeren detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+İki sanatçının enerjik bir şekilde şarkı söyleyip jestler yaptığı, doğal ağız hareketleri ve el hareketlerinin olduğu, hafif rüzgarın saçlarını ve kıyafetlerini nazikçe hareket ettirdiği, hafif vücut salınımı içeren bir animasyon oluşturun; Golden Gate Köprüsü'nü ve San Francisco silüetini tamamen sabit tutun ve...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093319484375171072/img/_6Ak95Qt-L1bV670.jpg" width="600" alt="San Francisco Şarkı Performansı Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10024)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2093319537336750297) | **Published:** Aug 28, 2026
+
+---
+### Fotogerçekçi Dizüstü Bilgisayar Ürün Çekimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Parlak bir dizüstü bilgisayar ve fare üzerinde hafif ışık yansımalarıyla yavaş bir kamera geçişini içeren sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Parlak dizüstü bilgisayar ekranı ve yarı saydam fare üzerinde süzülen hafif ışık yansımalarıyla sahnede nazik ve yavaş bir kamera geçişi, yumuşak ortam hareketi, fotogerçekçi ürün çekimi tarzı
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093316414954217472/img/HA_iDnoxroVepVKJ.jpg" width="600" alt="Fotogerçekçi Dizüstü Bilgisayar Ürün Çekimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10022)**
+
+**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2093316534064009631) | **Published:** Aug 28, 2026
+
+---
+### Sinematik Dış Mekan Yakın Çekim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Belirsiz bir dış mekan ortamında, sığ alan derinliğine sahip, düşük hareketli sinematik bir yakın çekim oluşturmak için yapılandırılmış bir JSON istemi.
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "düşük", "camera_depth": "yakın çekim", "camera_view": "göz hizası", "camera_movement": "sabit çekim"}, "scene": {"location": "belirsiz dış mekan ortamı", "environment": "Arka plan odak dışıdır, bulanık doğal unsurlar görünmektedir"}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093288680542584832/img/ua4qihAXdKV-zfDP.jpg" width="600" alt="Sinematik Dış Mekan Yakın Çekim">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10021)**
+
+**Author:** [Fauna](https://x.com/FaunaFoxD) | **Source:** [Link](https://x.com/FaunaFoxD/status/2093288701094695110) | **Published:** Aug 28, 2026
+
+---
+### Sinematik Birinci Şahıs Uçuş Karşılaması
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 > Grok Imagine için kristal bir saray ve aynalı bir salonda birinci şahıs bakış açısıyla uçuşu içeren, özel kırık cam metin efektiyle sona eren, oldukça detaylı sinematik bir uçuş istemi.
 
@@ -282,6 +415,25 @@ Huzurlu sahneyi nazikçe canlandırın: hafif rüzgar sarışın kadının saçl
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9965)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **Published:** Aug 28, 2026
+
+---
+### Pırlanta Takı Video Ekleme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir video içerisindeki kolye, küpe ve bilezik gibi pırlanta takı ürünlerini eklemek ve geliştirmek için kullanılan bir komut.
+
+#### 📝 Prompt
+
+```
+Bir pırlanta kolye, pırlanta küpe ve pırlanta bilezik ekle, pırlanta yüzüğü daha büyük yap
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093117064491761664/img/KYvolIL1MZU7dBrH.jpg" width="600" alt="Pırlanta Takı Video Ekleme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10023)**
+
+**Author:** [Ashley Camp](https://x.com/ashleycamp556) | **Source:** [Link](https://x.com/ashleycamp556/status/2093117079104725139) | **Published:** Aug 27, 2026
 
 ---
 ### Şiirsel Deniz Kabuğu Etkileşimi
@@ -1998,158 +2150,6 @@ Bana, karnının tam ortasında orta parmak işareti olan bir Care Bear videosu 
 **Author:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **Source:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **Published:** Aug 18, 2026
 
 ---
-### İspanyolca Market Diyaloğu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir müşteri ile kasiyer arasında geçen, 15 saniyelik İspanyolca konuşma videosu için bir istem.
-
-#### 📝 Prompt
-
-```
-Bir kadının markette bir şeyler satın almak istediği, yaklaşık 15 saniyelik bir İspanyolca etkileşim kurgulayabilir misin? Örneğin; 'Merhaba, lütfen süt almak istiyorum' desin ve adam da nazikçe yanıt verip yardımcı olsun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089816137093517312/img/q7pl0_zhTt5HYqDr.jpg" width="600" alt="İspanyolca Market Diyaloğu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9471)**
-
-**Author:** [Marco](https://x.com/Good_Tweet_USA) | **Source:** [Link](https://x.com/Good_Tweet_USA/status/2089816149315723473) | **Published:** Aug 18, 2026
-
----
-### Kutlama Modunda Pleiadesliler
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yüksek çözünürlüklü hacimsel aydınlatma ve canlı renklerle, kutlama yapan Pleiadeslileri konu alan sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Altıncı boyut ve ötesinde Sheen sonrası kutlama modunda Pleiadesliler, başyapıt, ultra HD kalite çözünürlük, hacimsel parlak aydınlatma ve renkler
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089793715665567744/img/StdCa3pdyG9hc9ho.jpg" width="600" alt="Kutlama Modunda Pleiadesliler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9469)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2089793764244042084) | **Published:** Aug 18, 2026
-
----
-### Glacier Ulusal Parkı Drone Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Glacier Ulusal Parkı'nda güneşli bir öğleden sonrayı yakalayan, birinci şahıs bakış açısıyla çekilmiş bir drone videosu istemi.
-
-#### 📝 Prompt
-
-```
-Glacier Ulusal Parkı'ndaki Going-to-the-Sun Road üzerinde batıya doğru ilerleyen, öğleden sonra güneşli bir havada çekilmiş, birinci şahıs bakış açısına sahip bir drone videosu oluştur
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089782640056340481/img/hCndZi9USG_Z-yay.jpg" width="600" alt="Glacier Ulusal Parkı Drone Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9467)**
-
-**Author:** [Eric Lovold](https://x.com/ericlovold) | **Source:** [Link](https://x.com/ericlovold/status/2089782676496519506) | **Published:** Aug 18, 2026
-
----
-### 360 Derece VR Kamp Ateşi Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sakinleştirici bir kamp ateşi ve ses manzarası içeren 360 derece VR video için sürükleyici bir istem.
-
-#### 📝 Prompt
-
-```
-kürenin dengesinin üzerinde yavaşça yükseliyor, bu 360 derece VR küresinde ağırlık merkezi, tamamen hareketsiz, sakinleştirici kamp ateşi, ses manzarası
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089764291398561792/img/F-pqiPPjEnPl7Wl5.jpg" width="600" alt="360 Derece VR Kamp Ateşi Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9465)**
-
-**Author:** [Bacon Wrap](https://x.com/i_wishiwashuman) | **Source:** [Link](https://x.com/i_wishiwashuman/status/2089764324910989665) | **Published:** Aug 18, 2026
-
----
-### Odysseus ve Argos'un Yeniden Buluşması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Odysseus'un duygusal dönüşünü ve köpeği Argos ile son karşılaşmasını betimleyen sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Odysseus, yirmi yılın ardından dilenci kılığında İthaka'ya döner. Sarayına yaklaştığında, bir gübre yığınının üzerinde terk edilmiş ve ölmek üzere olan yaşlı köpeği Argos ile karşılaşır. Argos onu hemen tanır, zayıf bir şekilde kuyruğunu sallar ve ardından ölür. Odysseus, gözyaşlarını gizlemek ve kimliğini saklı tutmak için başka yöne bakar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089721106282205184/img/_D9XgS0kzXqNv-hV.jpg" width="600" alt="Odysseus ve Argos'un Yeniden Buluşması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9574)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2089721534721966474) | **Published:** Aug 18, 2026
-
----
-### Joystick ve Emoji Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, bir joystick ve makasın emojilerle etkileşime girdiği fizik tabanlı hareketi tanımlayan ayrıntılı bir animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Joystick kolu, oyun oynuyormuş gibi tüm benzerliğini koruyarak hareket eder. Makas, kesme hareketi yaparak emoji görsellerini kovalar. Makas, gülen bir emojiyi ortadan ikiye böler. Joystick'in tabanındaki mor şeytan emojileri sırası
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089549374624022528/img/Br1PYyhR_FRC_B7U.jpg" width="600" alt="Joystick ve Emoji Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9432)**
-
-**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2089549388255543553) | **Published:** Aug 18, 2026
-
----
-### Boston Dynamics Köpeğine Binen İnsansı Robot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gece vakti bir cephe savaşına doğru büyük bir robot köpeğe binen insansı robotun sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Gece vakti cephe savaşına doğru büyük bir Boston Dynamics köpeğine binen insansı robot. İşimizi bitirdiler.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089546081625333760/img/Crsm268vxN_QNVJu.jpg" width="600" alt="Boston Dynamics Köpeğine Binen İnsansı Robot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9428)**
-
-**Author:** [SharewareFrom1994](https://x.com/amrndci) | **Source:** [Link](https://x.com/amrndci/status/2089546098364784937) | **Published:** Aug 18, 2026
-
----
-### Uzay Savaşı ve Plazma Fiziği
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dönen gezegenler, hareket eden gemiler ve plazma dönüşüm efektlerini içeren detaylı bir bilim kurgu istemi.
-
-#### 📝 Prompt
-
-```
-Gezegenin dönmesini, geminin ileri doğru hareket etmesini ve lazerlerin kayaları geminin merkezinden aşağı doğru akan plazmaya dönüştürmesini sağla
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089501917697527808/img/v5v4qtOI4CVLvbJ5.jpg" width="600" alt="Uzay Savaşı ve Plazma Fiziği">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9425)**
-
-**Author:** [Mark D Owen](https://x.com/MarkDOwenSciFi) | **Source:** [Link](https://x.com/MarkDOwenSciFi/status/2089501932159390023) | **Published:** Aug 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2211,6 +2211,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-29T07:00:24.156Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-29T14:05:32.143Z</sub>
 
 </div>
