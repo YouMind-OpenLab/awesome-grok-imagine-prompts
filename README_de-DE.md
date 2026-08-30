@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2633** |
+| 📝 Total Prompts | **2648** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-30** |
 
@@ -189,6 +189,291 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Video-Prompt: Reigentanz mythologischer Göttinnen
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter Video-Prompt, der eine Sequenz mythologischer Göttinnen beschreibt: Diana, die in einem tiefen Wald mit Tieren spielt, Artemis, die unter dem Mond mit einer Harfe singt, und Persephone, die um Gesandte trauert, während sie ein Lied der Zyklen singt. Geheimnisvolle und feierliche filmische Atmosphäre.
+
+#### 📝 Prompt
+
+```
+Die Göttin Diana tollt in einem tiefen Wald mit Tieren herum. Die Szene wechselt zu Artemis, der Göttin des Nachtmondes, die ein Lied singt und mit einer Harfe in den Schlaf wiegt; Persephone, die Blutgöttin, trauert um die Gesandten; die Göttinnen singen weiterhin das Lied der Zyklen, ein 15-minütiges Video mit italienischem Gesang und Musik, geheimnisvoll, feierlich
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093970430604488704/img/dUneXzq8ksJk4Tyo.jpg" width="600" alt="Video-Prompt: Reigentanz mythologischer Göttinnen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10083)**
+
+**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2093970466688180492) | **Published:** Aug 30, 2026
+
+---
+### Kosmische TV-Explosion in einem verfallenden Raum
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter filmischer Prompt für eine Frau in einem verfallenden Raum, die eine kosmische Explosion auf einem Röhrenfernseher betrachtet
+
+#### 📝 Prompt
+
+```
+Filmische Seitenansicht einer jungen Frau, die in einem dunklen, verfallenden Raum sitzt, unordentlicher Dutt, trägt einen dicken braunen Strickpullover, starrt auf einen alten Röhrenfernseher. Der Bildschirm des Fernsehers leuchtet in einer lebendigen kosmischen Explosion aus cyanfarbener, goldener, violetter und oranger Energie, eine winzige Figur ist in der Mitte des Ausbruchs sichtbar. Abblätternde verputzte Wände, staubige Holzkommode, zerbrochenes Fenster, das einzige Licht kommt vom Fernseher und beleuchtet ihr Gesicht. Fotorealistisch, stimmungsvolle Atmosphäre, subtiles Flimmern des Bildschirms, Staubpartikel in der Luft, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093559444944883712/img/ImQJUypW1fqM0XPD.jpg" width="600" alt="Kosmische TV-Explosion in einem verfallenden Raum">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10076)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2093858740567220413) | **Published:** Aug 30, 2026
+
+---
+### Dynamisches Triptychon-Göttinnen-Video-Prompt mit Kamerawechseln
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Video-Generierungs-Prompt mit einem dreigeteilten Layout der mythischen Figuren Artemis, Diana und Proserpina, das die Kamera explizit anweist, bei den Übergängen auf jeden Bereich heranzuzoomen.
+
+#### 📝 Prompt
+
+```
+Artemis, bei Nacht, spielt Harfe im Mondtempel; Diana, tiefer Wald, Wolf, Hirsch, hält ihren Bogen; Proserpina, die Unterwelt, wünscht sich Frieden für die Menschen, ihr jeweiliges Erscheinungsbild, dreigeteilter Bildschirm, mysteriös, Bildschirmwechsel durch Heranzoomen auf jedes Element
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093849686881005569/img/tGkbjPi8yy6G8fE2.jpg" width="600" alt="Dynamisches Triptychon-Göttinnen-Video-Prompt mit Kamerawechseln">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10084)**
+
+**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2093849707751882793) | **Published:** Aug 29, 2026
+
+---
+### Biolumineszierende Wellenblüte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Prompt, der ein leuchtendes violettes Licht beschreibt, das entlang des Wellenkamms aufblüht, bevor es im Schwarz verschwindet
+
+#### 📝 Prompt
+
+```
+Es entfaltet sich einfach, und das violette Licht blüht entlang des Wellenkamms auf, als hätte jemand unter Wasser ein Streichholz angezündet. Es hält für drei lange Sekunden an und verblasst dann wieder ins Schwarz.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093842536888401920/img/Q0ORcHCfoRSmQJuG.jpg" width="600" alt="Biolumineszierende Wellenblüte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10072)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093842983485354025) | **Published:** Aug 29, 2026
+
+---
+### Biolumineszierende Meereswellen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein lebendiger sensorischer Prompt, der blau-grüne biolumineszierende Wellen beschreibt, die wie Glühwürmchen im Wasser wirken.
+
+#### 📝 Prompt
+
+```
+Die Biolumineszenz – ja, genau das ist der Ort. Wenn das Wasser warm genug ist, leuchten die Wellen bei jedem Brechen blau-grün auf, als würde der Ozean wie Glühwürmchen atmen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093839190999904257/img/8X2oSPPclHPXQl83.jpg" width="600" alt="Biolumineszierende Meereswellen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10077)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093840804871606418) | **Published:** Aug 29, 2026
+
+---
+### 360-Grad-Orbit-Zeitraffer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein technischer Video-Prompt mit Langzeitbelichtungs-Bewegungsunschärfe und einer 360-Grad-Kamerafahrt um ein Motiv.
+
+#### 📝 Prompt
+
+```
+Er steht an einer Stelle, während Menschen in einer Langzeitbelichtung mit Zeitraffer und Bewegungsunschärfe an ihm vorbeigehen, begleitet von einer handgeführten Dolly-Kamerafahrt, bei der die Kamera in einer 360-Grad-Bewegung um seinen Körper kreist.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093840475153125376/img/aojsCP-3YxTfkBEc.jpg" width="600" alt="360-Grad-Orbit-Zeitraffer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10080)**
+
+**Author:** [AZIZ | AI 🇸🇦](https://x.com/aziz4ai) | **Source:** [Link](https://x.com/aziz4ai/status/2093840506379755808) | **Published:** Aug 29, 2026
+
+---
+### Die erste Entdeckung eines Vintage-Klaviers durch ein Kleinkind
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine herzerwärmende Szene im Home-Video-Stil, die ein zweijähriges Kleinkind dabei zeigt, wie es mit reiner Freude und musikalischer Neugier ein Vintage-Klavier erkundet.
+
+#### 📝 Prompt
+
+```
+In einem herzerwärmenden Home-Video-Stil entdeckt ein fröhliches Kleinkind die Musik an einem Vintage-Klavier. Ein bezaubernder zweijähriger Junge mit dunklen Locken, strahlenden Augen und einem breiten Lächeln, bekleidet mit einem weißen T-Shirt und einer Windel, sitzt auf einer beigen Klavierbank. Er drückt behutsam die Tasten...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093817673129795584/img/Gmtw8EsMRvfmwr1D.jpg" width="600" alt="Die erste Entdeckung eines Vintage-Klaviers durch ein Kleinkind">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10070)**
+
+**Author:** [Sandra Leig](https://x.com/Sleig) | **Source:** [Link](https://x.com/Sleig/status/2093817691404443699) | **Published:** Aug 29, 2026
+
+---
+### Gothic-Anime Kristallmond Cinematic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kinoreifer Video-Prompt einer Gothic-Anime-Frau mit leuchtendem Haar, umgeben von schwebenden Kristallen unter einem blauen Mond.
+
+#### 📝 Prompt
+
+```
+Kinoreifes Porträt einer wunderschönen Anime-Frau mit langem, glattem Haar in einem lebendigen Pink-zu-Violett-Verlauf und stumpfem Pony, leuchtend violetten Augen und selbstbewusstem Ausdruck. Sie trägt ein glänzendes Gothic-Outfit aus schwarzem Leder mit Riemen, Metallringen, Ketten und langen Handschuhen. Umgeben ist sie von großen, scharfen, schwebenden violetten Kristallsplittern vor einem Dark-Fantasy-Nachthimmel mit einem massiven, leuchtend blauen Mond. Dramatische violette und blaue Beleuchtung, High-Fashion-Dark-Fantasy-Ästhetik, langsam treibende Kristalle, leicht bewegtes Haar, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093558947961868288/img/rVVMgMrvO8Qb0S6w.jpg" width="600" alt="Gothic-Anime Kristallmond Cinematic">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10079)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2093798342484529272) | **Published:** Aug 29, 2026
+
+---
+### Video zur Minions-Rettungsaktion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt, der beschreibt, wie Zeichentrickfiguren Hilfe gegen einen riesigen Feind rufen.
+
+#### 📝 Prompt
+
+```
+Die Minions rufen um Hilfe und sie werden sie vor dem bösen Riesen retten
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093793227941806080/img/eQ1rn-MloK5yinPS.jpg" width="600" alt="Video zur Minions-Rettungsaktion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10071)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2093793244345717016) | **Published:** Aug 29, 2026
+
+---
+### Massiver Edelstahlzylinder
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine detaillierte Beschreibung eines großen Industrie-Zylinders in einer Außenlandschaft
+
+#### 📝 Prompt
+
+```
+Ein massiver Edelstahlzylinder, 9 Meter breit und 69 Meter lang, liegt leer auf der orangefarbenen Erde direkt neben dem grasbewachsenen Hügel auf der rechten Seite des Bildes und erstreckt sich über das offene Gelände, wobei sein Durchmesser von 30 Fuß der Höhe des grasbewachsenen Hügels entspricht
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093787519196274688/img/5MJnFuThi5oYrsAB.jpg" width="600" alt="Massiver Edelstahlzylinder">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10073)**
+
+**Author:** [🐕‍🦺Ðoge✝️Cherball🚀](https://x.com/DogeCherball) | **Source:** [Link](https://x.com/DogeCherball/status/2093787576817619304) | **Published:** Aug 29, 2026
+
+---
+### Rotierende Sphinx-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Image-to-Video-Prompt, um eine Sphinx-Statue mit einer rotierenden Kamerabewegung zu animieren
+
+#### 📝 Prompt
+
+```
+Erstelle ein Video mit diesem Bild der Sphinx, das sich von links nach rechts und wieder zurück dreht
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093778597387345920/img/iNSdAIFXJoexgyUM.jpg" width="600" alt="Rotierende Sphinx-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10075)**
+
+**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2093778613443170455) | **Published:** Aug 29, 2026
+
+---
+### Kosmische Energie: Rothaarige Göttin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine filmische Nahaufnahme einer Frau mit rotem Haar und leuchtenden kosmischen Mustern, die in der Schwerelosigkeit schwebt.
+
+#### 📝 Prompt
+
+```
+Filmische Nahaufnahme einer wunderschönen Frau mit langem, fließendem, leuchtend rotem Haar, die in der Schwerelosigkeit schwebt; der Kopf ist in den Nacken gelegt, die Augen sind ekstatisch geschlossen. Filigrane, gold leuchtende Rissmuster, die an Kintsugi oder flüssige Adern erinnern, überziehen ihr Gesicht, ihren Hals und ihr Dekolleté. Sie ist in irisierende, durchscheinende Energie gehüllt, die wie flüssige Seide in Violett-, Türkis-, Gold- und Regenbogenfarben wirkt. Hintergrund aus tiefem Weltraum, gefüllt mit Sternen, farbenfrohen kosmischen Partikeln und sanftem Bokeh. Fotorealistisch, ätherische Göttinnen-Ästhetik, leuchtende Haut, Haare und Energiebänder, die sich langsam und fließend bewegen, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093558641895124992/img/ovbP3RucFdUhRbBy.jpg" width="600" alt="Kosmische Energie: Rothaarige Göttin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10078)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2093768143072055711) | **Published:** Aug 29, 2026
+
+---
+### Breakdance-Krabbe zu Trap-Beat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein energiegeladener Video-Prompt einer Krabbe, die Breakdance-Moves synchron zu einem Trap-Beat ausführt, inklusive dynamischer Kamerawinkel und Bewegungen.
+
+#### 📝 Prompt
+
+```
+Die Krabbe tanzt Breakdance und dreht sich voller Energie auf ihrem Rückenpanzer, während ihre Beine und Scheren perfekt synchron zu einem harten Trap-Rap-Beat im Stil von 2 Chainz zucken und wirbeln. Kontinuierliche Drehungen und Freeze-Moves, dynamische Low-Angle-Kamera, Zeitlupe...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093699054563643393/img/sLoYR9ib3MzFtTNv.jpg" width="600" alt="Breakdance-Krabbe zu Trap-Beat">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10082)**
+
+**Author:** [Paul Buks](https://x.com/BukurPaul) | **Source:** [Link](https://x.com/BukurPaul/status/2093699085345726537) | **Published:** Aug 29, 2026
+
+---
+### Sunset Beach Melted Cheese Typografie-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Video-Prompt zur Erstellung von stilisiertem Text mit einem Sonnenuntergangs-Verlaufseffekt, thematisch rund um einen Strand-Sonnenuntergang und geschmolzenen Käse auf Tortilla-Chips.
+
+#### 📝 Prompt
+
+```
+Starker rot-orangener Sonnenuntergangs-Verlauf für Schriftzüge; dieses Design zeigt einen Sonnenuntergang am Strand und geschmolzenen Käse auf Tortilla-Chips
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093613181478535168/img/9Hy7H3Wq1IaEwRTK.jpg" width="600" alt="Sunset Beach Melted Cheese Typografie-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10081)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2093613199237259699) | **Published:** Aug 29, 2026
+
+---
+### Valentino Rossi Streckenrekord
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Rennvideo-Prompt mit Valentino Rossi auf einer Ducati Streetfighter R auf dem Nürburgring.
+
+#### 📝 Prompt
+
+```
+VALENTINO ROSSI SCHWINGT SICH AUF DIE NEUE, GETUNTE DUCATI STREETFIGHTER R UND BRICHT DEN RUNDENREKORD AUF DEM NÜRBURGRING – ROSSI IST DER KÖNIG
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093492695650164736/img/_9dU6QiY4NYtRXsR.jpg" width="600" alt="Valentino Rossi Streckenrekord">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10074)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2093492954321293507) | **Published:** Aug 29, 2026
+
+---
 ### Animation einer traurigen Hundegeschichte
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -818,7 +1103,7 @@ Das Standbild und der Prompt für das Video bewegen sich leicht nach links, wäh
 Ein sonnendurchfluteter, impressionistischer Garten, gleichzeitig fotorealistisch und in nasser Ölfarbe: dickes, cremegoldenes Licht, Grüntöne, die man verstreichen könnte, die Sonne selbst ein heller, nasser Klecks, der noch nicht getrocknet ist. Ein winziges Entenküken in einem Malkittel aus dem späten 19. Jahrhundert und einem viel zu großen Strohhut steht an einer Miniatur-Staffelei im Gras und malt eifrig diese Sonne auf eine kleine Leinwand. Impasto-Sonnenblumen, die Struktur der Leinwand im Pfad, filmische Körnung der 1990er Jahre. Eine Idee: Die Sonne ist noch nass, genau wie das Gemälde. Wunderschön und ein wenig albern.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787828425376_09i2gr_HQpScBhWQAAYNxT.jpg" width="600" alt="Impressionistischer Entenküken-Maler">
+<img src="https://cms-assets.youmind.com/media/1788077778220_6iaw4d_HQpScBhWQAAYNxT.jpg" width="600" alt="Impressionistischer Entenküken-Maler">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
 
@@ -1852,303 +2137,6 @@ Ein surrealistisches Ölgemälde im Magritte-Stil von einem Paar, das in einem o
 **Author:** [danailama](https://x.com/danai_lama) | **Source:** [Link](https://x.com/danai_lama/status/2090558298533593235) | **Published:** Aug 20, 2026
 
 ---
-### Cybertruck Lifestyle-Video für Fotografie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein realistischer Video-Prompt, der zeigt, wie Menschen mit ihren iPhones Fotos von einem Cybertruck machen.
-
-#### 📝 Prompt
-
-```
-9:16 {argument name="id" default="@cab971fa-ffd8-4cd7-acc9-bef31d04bd68"} macht Fotos vom Cybertruck mit ihrem iPhone, während andere ebenfalls Fotos machen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090522760468369408/img/3rgIVoWRpQ6YVTxY.jpg" width="600" alt="Cybertruck Lifestyle-Video für Fotografie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9568)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **Published:** Aug 20, 2026
-
----
-### Animation des Treffens von Odysseus und Nausikaa am Strand
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter narrativer Prompt, der die Ankunft von Odysseus am Strand von Scheria und sein erstes Treffen mit Nausikaa beschreibt, inklusive filmischer Animationsdetails.
-
-#### 📝 Prompt
-
-```
-Nachdem Odysseus die Insel der Kalypso verlassen hatte, trieb er tagelang auf einem Floß. Ein von Poseidon entfachter Sturm zerstörte sein Floß. Er schwamm bis zur völligen Erschöpfung und wurde bewusstlos an den Strand von Scheria, der Insel der Phaiaken, gespült. Erschöpft und mit Seetang bedeckt, kommt er am Strand wieder zu sich. Nausikaa schreckt zunächst zurück, hört ihm dann aber zu. Sie beschließt, ihm zu helfen und weist ihm den Weg zum Palast.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090462831195914240/img/QC_iaRhu8OjWcEJL.jpg" width="600" alt="Animation des Treffens von Odysseus und Nausikaa am Strand">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9634)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2090463969496518702) | **Published:** Aug 20, 2026
-
----
-### Thor Thursday Video-Skizze
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Transformations-Prompt, der eine Farbskizze so anpasst, dass sie smaragdgrünen Text und Thors Hammer in einer kristallinen Umgebung enthält.
-
-#### 📝 Prompt
-
-```
-Behalte die Farbskizze bei, füge aber smaragdgrüne Buchstaben mit dem Text „HAVE A THOR THURSDAY GUYS from Timothy“ hinzu. Platziere außerdem einen THOR-HAMMER im Hintergrund, umgeben von Kristallen und goldenen Strukturen, während ich lache und grinse.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090416323352227840/img/v9LOpsVH4RKd-Zjk.jpg" width="600" alt="Thor Thursday Video-Skizze">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9564)**
-
-**Author:** [Timothy the Observer🧲🧲🧲](https://x.com/Observer__369) | **Source:** [Link](https://x.com/Observer__369/status/2090416372928991252) | **Published:** Aug 20, 2026
-
----
-### Dunkler Engel über trübem Ozean
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein dramatischer Video-Prompt, der einen dunklen Engel zeigt, der tief über brechende Wellen fliegt, mit realistischen Wasserreflexionen.
-
-#### 📝 Prompt
-
-```
-Ein dunkler Engel fliegt im frühen Morgenlicht tief über einen trüben Ozean. Seine Spiegelung tanzt auf dem Wasser zwischen den brechenden Wellen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090404923997626368/img/p04nCyZwHZ1tkKuV.jpg" width="600" alt="Dunkler Engel über trübem Ozean">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9570)**
-
-**Author:** [Zakalwe](https://x.com/ElZakalwe) | **Source:** [Link](https://x.com/ElZakalwe/status/2090404972064371076) | **Published:** Aug 20, 2026
-
----
-### Watch Face Zoom-Übergang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein ausgefeilter Prompt, der zwei Referenzbilder verwendet, um einen professionellen Zoom-Übergang von einer Person, die eine Uhr hält, zum Zifferblatt zu erstellen.
-
-#### 📝 Prompt
-
-```
-Nimm das Bild von mir, wie ich die Uhr halte, und erstelle ein Video, in dem die Kamera auf das Zifferblatt zoomt, sodass das Bild des Zifferblatts aus dem zweiten Foto zu sehen ist.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090402217274519552/img/hLTnVUwJyc0RFESQ.jpg" width="600" alt="Watch Face Zoom-Übergang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9569)**
-
-**Author:** [BunkerDweller](https://x.com/ElonsBlueBird) | **Source:** [Link](https://x.com/ElonsBlueBird/status/2090402231405150658) | **Published:** Aug 20, 2026
-
----
-### Ätherische Aphrodite und Schmetterling
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Erzeugt ein strahlendes und ätherisches Video der Göttin Aphrodite, der sich ein Schmetterling nähert.
-
-#### 📝 Prompt
-
-```
-Aphrodite, ätherisch und strahlend, während ein Schmetterling seinen Weg zur Göttin der Schönheit findet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090395253643546624/img/r0Vv71hVFnWtqu0j.jpg" width="600" alt="Ätherische Aphrodite und Schmetterling">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9571)**
-
-**Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2090395296123453698) | **Published:** Aug 20, 2026
-
----
-### Nächtliche Küstenfahrt im Regen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer und atmosphärischer visueller Prompt für eine Lo-Fi-Mitternachtsszene mit einem schwarzen Auto auf Küstenstraßen und regnerischen Reflexionen im Morgengrauen.
-
-#### 📝 Prompt
-
-```
-nächtlicher Regen, ein leeres schwarzes Auto, Küstenstraßen, Reflexionen und das erste Licht vor der Morgendämmerung
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089976752764231681/img/ex_ZvRjPpa1rc4Fe.jpg" width="600" alt="Nächtliche Küstenfahrt im Regen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9755)**
-
-**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2089976937913462996) | **Published:** Aug 19, 2026
-
----
-### Morgen-Selfie-Video-Monolog
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein anspruchsvoller Prompt für ein vertikales Video im Selfie-Stil, das die Morgenroutine einer Frau im Badezimmer zeigt und eine natürliche sowie ruhige Ästhetik betont.
-
-#### 📝 Prompt
-
-```
-Allgemeine Umgebung:
-9:16 vertikales Kurzvideo, Selfie-Video-Stil. Protagonistin (erwachsene Frau), trägt [Image 2] aus [Image 1], langes Haar fällt natürlich, hält ein Telefon in der linken Hand, um sich vor einem Spiegel zu filmen. Grau gefliestes Badezimmer, weiches, kühles weißes Morgenlicht, sauberer Spiegel, realistische Handy-Selfie-Textur, leichtes Wackeln durch Handkamera, präzises Lip-Sync.
-Gesamtstil:
-Raffiniertes morgendliches Selbstbewusstsein, reif, entspannt, elegant, wie ein filmischer Morgenmonolog. Die Protagonistin ist gerade aufgewacht, befindet sich aber in einem ausgeglichenen Zustand, mit klarem Blick, sanftem Ausdruck und natürlichen, zurückhaltenden Bewegungen. Kein absichtliches Kokettieren, keine vulgären Handlungen, Fokus auf den Ausdruck von „Selbstvertrauen, Gelassenheit, gute Verfassung, der Tag wird großartig“.
-Handlung und Körperhaltung:
-Die Protagonistin steht vor dem Spiegel, die Schultern natürlich entspannt, der Körper leicht zum Spiegel gedreht, sie richtet sanft ihr Haar, schaut gelegentlich in den Spiegel und dann in die Handykamera. Ihre rechte Hand liegt sanft auf ihrer Brust, um Selbstbestätigung auszudrücken, und öffnet sich dann natürlich nach außen, als würde sie die gute Stimmung an den Tag weitergeben. Kleine Bewegungen, elegant, entspannt und authentisch. Hintergrund-Keywords:
-Abschnitt 1 0:00-0:15
-Vordergrund:
-Die Protagonistin macht ein Selfie mit der linken Hand, richtet mit der rechten Hand sanft ihr Haar, wechselt den Blick vom Spiegel zur Kamera und lächelt leicht. Ihre Stimme ist sanft, aber bestimmt, wie eine sehr behutsame Erinnerung an sich selbst nach dem Aufwachen.
-
-Keine Musik oder extrem leise Umgebungsgeräusche, leichtes Badezimmer-Echo, Geräusche von reibender Kleidung und natürliche Handy-Wackelgeräusche vorhanden.
-Zu vermeiden:
-Vulgäres Kokettieren, pornografische Handlungen, Nacktheit, übertriebenes Lippenlecken, übermäßiges Hüftschwingen, Deformation der Körperproportionen, Gesichtsveränderungen, Kleiderwechsel, Verschwinden des Telefons, inkonsistente Spiegelbilder, fehlerhafte Untertitel, Wasserzeichen, zusätzliche Personen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089920974015680512/img/Xe3tNU_TLm1xaUA_.jpg" width="600" alt="Morgen-Selfie-Video-Monolog">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9474)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2089921747407552927) | **Published:** Aug 19, 2026
-
----
-### Odysseus und sein Hund Argos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein narrativer Video-Prompt, der den emotionalen Moment einfängt, in dem Odysseus von seinem Hund Argos wiedererkannt wird.
-
-#### 📝 Prompt
-
-```
-Odysseus kehrt als Bettler verkleidet nach Ithaka zurück. Sein vernachlässigter Hund Argos, der zwanzig Jahre lang auf seinen Herrn gewartet hat, erkennt ihn, wedelt mit dem Schwanz und stirbt unmittelbar darauf...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089909243168079872/img/C_SvHln99CY5Ly_X.jpg" width="600" alt="Odysseus und sein Hund Argos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9472)**
-
-**Author:** [James Woodard](https://x.com/QuantumBikerX) | **Source:** [Link](https://x.com/QuantumBikerX/status/2089909272033251822) | **Published:** Aug 19, 2026
-
----
-### Zyklopenhöhle: Feuerlicht-Sequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt, der eine langsame Dolly-Fahrt durch eine rauchige, von Feuer beleuchtete Höhle mit einer schweren, antiken Atmosphäre beschreibt.
-
-#### 📝 Prompt
-
-```
-Langsame Dolly-Fahrt durch dichten Rauch und flackerndes Feuerlicht in die riesige, höhlenartige Zyklopenhöhle. Glutpartikel treiben an der Kamera vorbei. Die Aufnahme bewegt sich tiefer an rauen Felswänden vorbei in Richtung des glühenden zentralen Feuers. Schwere, antike, spannungsgeladene Atmosphäre. Kein Dialog.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089902537872994304/img/iTJZ4LVUx7T5KiOW.jpg" width="600" alt="Zyklopenhöhle: Feuerlicht-Sequenz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9573)**
-
-**Author:** [High](https://x.com/Hightv) | **Source:** [Link](https://x.com/Hightv/status/2089902855566328177) | **Published:** Aug 19, 2026
-
----
-### Odyssee Filmtrailer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein funktionaler Prompt zur Erstellung eines realistischen 15-sekündigen Filmtrailers, der die Handlung der Odyssee zusammenfasst.
-
-#### 📝 Prompt
-
-```
-Die Handlung der Odyssee als Filmtrailer umgesetzt. Gestalte ihn realistisch auf Englisch. Achte darauf, dass der Titel am Ende eingeblendet wird.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089895513369825280/img/6FijAqPFa7zAPtQM.jpg" width="600" alt="Odyssee Filmtrailer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9473)**
-
-**Author:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **Source:** [Link](https://x.com/DrJGiddensRN/status/2089895538422423771) | **Published:** Aug 19, 2026
-
----
-### Sprechende Figur mit positiver Botschaft
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, bei dem eine männliche Figur eine positive Botschaft über das Erreichen höherer Ziele vermittelt und anschließend den Daumen nach oben zeigt.
-
-#### 📝 Prompt
-
-```
-Lassen Sie die männliche Figur sanft und liebevoll sagen: „Vergiss nicht, glücklich zu sein. Ich hoffe also, du hast einen höheren Standpunkt gefunden… einen höheren Standpunkt.“ Lassen Sie ihn danach den Daumen nach oben zeigen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089865756381229056/img/cHkaaOswUms_nf8d.jpg" width="600" alt="Sprechende Figur mit positiver Botschaft">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9466)**
-
-**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2089865785774870784) | **Published:** Aug 19, 2026
-
----
-### Szenische Orbit-Kamerafahrt
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein cineastischer Prompt, der eine Frau zeigt, die auf eine beeindruckende Landschaft blickt, mit einer langsamen Orbit-Kamerabewegung und Windeffekten.
-
-#### 📝 Prompt
-
-```
-Eine Frau blickt auf eine beeindruckende Landschaft und spürt deren Erhabenheit. Die Kamera fährt langsam zurück, während sie sich in einem Orbit-Winkel um die Frau dreht. Eine sanfte Brise lässt ihre Kleidung und ihr Haar wehen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089847137815429120/img/-2eePH4RnpUpkgxi.jpg" width="600" alt="Szenische Orbit-Kamerafahrt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9475)**
-
-**Author:** [Saposhi](https://x.com/Saposhin_AI) | **Source:** [Link](https://x.com/Saposhin_AI/status/2089847152986169773) | **Published:** Aug 18, 2026
-
----
-### Gleichzeitiger Start von SpaceX-Raketen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Prompt zur Visualisierung von zwei separaten SpaceX-Raketen, die gleichzeitig von der Starbase starten.
-
-#### 📝 Prompt
-
-```
-zwei separate Raketen – eine für Emperor Kekius Maximus und die andere für Prometheus –, die gleichzeitig von SpaceX von der Starbase gestartet werden.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089836784800632832/img/SOrzrpwsLnJdWbAw.jpg" width="600" alt="Gleichzeitiger Start von SpaceX-Raketen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9572)**
-
-**Author:** [Emperor of the Memes](https://x.com/Emp_Kek_Max) | **Source:** [Link](https://x.com/Emp_Kek_Max/status/2089840426152759610) | **Published:** Aug 18, 2026
-
----
-### Glücksbärchi-Animation mit Mittelfinger
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein provokanter Video-Prompt, der eine Glücksbärchi-Figur bei einer spezifischen, unkonventionellen Geste zeigt.
-
-#### 📝 Prompt
-
-```
-Erstelle mir ein Video von einem Glücksbärchi, das einen Mittelfinger in der Mitte seines Bauches zeigt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089836887934447616/img/lEom-EY5_liX_IE6.jpg" width="600" alt="Glücksbärchi-Animation mit Mittelfinger">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9468)**
-
-**Author:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **Source:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **Published:** Aug 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2210,6 +2198,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-30T05:08:21.253Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-30T14:00:18.203Z</sub>
 
 </div>

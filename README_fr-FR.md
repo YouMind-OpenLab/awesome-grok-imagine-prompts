@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2633** |
+| 📝 Total Prompts | **2648** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-30** |
 
@@ -189,6 +189,291 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt vidéo : Danse circulaire des déesses mythologiques
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt vidéo détaillé décrivant une séquence de déesses mythologiques : Diane jouant avec des animaux dans une forêt profonde, Artémis chantant sous la lune avec une harpe, et Perséphone pleurant des émissaires tout en chantant le chant des cycles. Atmosphère cinématographique mystérieuse et solennelle.
+
+#### 📝 Prompt
+
+```
+La déesse Diane s'ébat avec des animaux dans une forêt profonde. La scène passe à Artémis, déesse de la lune nocturne, chantant une mélodie et apaisant le sommeil avec une harpe ; Perséphone, la déesse du sang, pleure les émissaires ; les déesses continuent de chanter le chant des cycles, une vidéo de 15 minutes chantée en italien avec musique, mystérieuse et solennelle.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093970430604488704/img/dUneXzq8ksJk4Tyo.jpg" width="600" alt="Prompt vidéo : Danse circulaire des déesses mythologiques">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10083)**
+
+**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2093970466688180492) | **Published:** Aug 30, 2026
+
+---
+### Explosion cosmique à la télévision dans une pièce délabrée
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique très détaillé représentant une femme dans une pièce délabrée regardant une explosion cosmique sur un téléviseur cathodique.
+
+#### 📝 Prompt
+
+```
+Profil cinématographique d'une jeune femme assise dans une pièce sombre et délabrée, chignon décoiffé, portant un gros pull en tricot marron, fixant un vieux téléviseur cathodique. L'écran du téléviseur brille d'une vive explosion cosmique d'énergie cyan, dorée, violette et orange, une minuscule silhouette étant visible au centre de l'éclat. Murs au plâtre écaillé, commode en bois poussiéreuse, fenêtre brisée, la seule lumière provenant du téléviseur illuminant son visage. Photoréaliste, atmosphère mélancolique, scintillement subtil de l'écran, particules de poussière dans l'air, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093559444944883712/img/ImQJUypW1fqM0XPD.jpg" width="600" alt="Explosion cosmique à la télévision dans une pièce délabrée">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10076)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2093858740567220413) | **Published:** Aug 30, 2026
+
+---
+### Prompt vidéo : Triptyque dynamique de déesses avec changements de caméra
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de génération vidéo présentant une mise en page en triptyque des figures mythiques Artémis, Diane et Proserpine, avec des instructions précises pour que la caméra effectue des gros plans sur chaque section lors des transitions.
+
+#### 📝 Prompt
+
+```
+Artémis, de nuit, jouant de la harpe dans le temple de la lune ; Diane, forêt profonde, loup, cerf, tenant son arc ; Proserpine, le monde souterrain, souhaitant la paix pour les hommes, leurs apparences respectives, écran divisé en trois parties, mystérieux, transitions d'écran par gros plans sur chaque élément
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093849686881005569/img/tGkbjPi8yy6G8fE2.jpg" width="600" alt="Prompt vidéo : Triptyque dynamique de déesses avec changements de caméra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10084)**
+
+**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2093849707751882793) | **Published:** Aug 29, 2026
+
+---
+### Floraison de vague bioluminescente
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique décrivant une lumière violette éclatante fleurissant le long de la crête d'une vague avant de s'estomper dans le noir
+
+#### 📝 Prompt
+
+```
+Cela se déploie simplement, et la lumière violette fleurit le long de la crête comme si quelqu'un avait craqué une allumette sous l'eau. Elle se maintient pendant trois longues secondes, puis s'estompe pour revenir au noir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093842536888401920/img/Q0ORcHCfoRSmQJuG.jpg" width="600" alt="Floraison de vague bioluminescente">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10072)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093842983485354025) | **Published:** Aug 29, 2026
+
+---
+### Vagues bioluminescentes dans l'océan
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt sensoriel saisissant décrivant des vagues bioluminescentes bleu-vert qui ressemblent à des lucioles dans l'eau.
+
+#### 📝 Prompt
+
+```
+Les vagues bioluminescentes — oui, c'est exactement l'endroit. Lorsque l'eau est assez chaude, les vagues s'illuminent d'un bleu-vert éclatant à chaque déferlement, comme si l'océan respirait des lucioles.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093839190999904257/img/8X2oSPPclHPXQl83.jpg" width="600" alt="Vagues bioluminescentes dans l'océan">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10077)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093840804871606418) | **Published:** Aug 29, 2026
+
+---
+### Timelapse en orbite à 360 degrés
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo technique mettant en scène un flou de mouvement en pose longue et une orbite de caméra à 360 degrés autour d'un sujet.
+
+#### 📝 Prompt
+
+```
+Il se tient immobile, les gens passent autour de lui en pose longue avec un effet de timelapse et de flou de mouvement, avec un mouvement de caméra à main levée de type dolly push-in, la caméra orbitant autour de son corps à 360 degrés
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093840475153125376/img/aojsCP-3YxTfkBEc.jpg" width="600" alt="Timelapse en orbite à 360 degrés">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10080)**
+
+**Author:** [AZIZ | AI 🇸🇦](https://x.com/aziz4ai) | **Source:** [Link](https://x.com/aziz4ai/status/2093840506379755808) | **Published:** Aug 29, 2026
+
+---
+### Première découverte d'un piano vintage par un tout-petit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une scène touchante, façon vidéo de famille, capturant un enfant de 2 ans explorant un piano vintage avec une joie pure et une véritable découverte musicale.
+
+#### 📝 Prompt
+
+```
+Dans une vidéo de famille pleine de tendresse, un tout-petit découvre la musique avec joie sur un piano vintage. Un adorable petit garçon de 2 ans aux cheveux bruns bouclés, aux yeux brillants et au large sourire, vêtu d'un t-shirt blanc et d'une couche, est assis sur un banc beige. Il appuie délicatement sur les touches...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093817673129795584/img/Gmtw8EsMRvfmwr1D.jpg" width="600" alt="Première découverte d'un piano vintage par un tout-petit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10070)**
+
+**Author:** [Sandra Leig](https://x.com/Sleig) | **Source:** [Link](https://x.com/Sleig/status/2093817691404443699) | **Published:** Aug 29, 2026
+
+---
+### Cinématique Lune de Cristal Anime Gothique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématique d'une femme anime gothique aux cheveux vibrants, entourée de cristaux flottants sous une lune bleue.
+
+#### 📝 Prompt
+
+```
+Portrait cinématique d'une magnifique femme anime aux longs cheveux raides avec un dégradé rose à violet vif et une frange droite, yeux violets lumineux, expression confiante. Elle porte une tenue gothique en cuir noir brillant avec des sangles, des anneaux métalliques, des chaînes et de longs gants. Autour d'elle, de grands éclats de cristaux violets tranchants flottent dans un ciel nocturne de dark fantasy avec une immense lune bleue lumineuse. Éclairage dramatique violet et bleu, esthétique dark fantasy haute couture, cristaux dérivant lentement, cheveux en léger mouvement, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093558947961868288/img/rVVMgMrvO8Qb0S6w.jpg" width="600" alt="Cinématique Lune de Cristal Anime Gothique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10079)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2093798342484529272) | **Published:** Aug 29, 2026
+
+---
+### Vidéo de l'opération de sauvetage des Minions
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique décrivant des personnages de dessin animé appelant à l'aide face à un ennemi géant.
+
+#### 📝 Prompt
+
+```
+Les minions appellent à l'aide et ils vont les sauver du géant maléfique
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093793227941806080/img/eQ1rn-MloK5yinPS.jpg" width="600" alt="Vidéo de l'opération de sauvetage des Minions">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10071)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2093793244345717016) | **Published:** Aug 29, 2026
+
+---
+### Cylindre massif en acier inoxydable
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une description détaillée d'un grand cylindre industriel placé dans un paysage extérieur
+
+#### 📝 Prompt
+
+```
+Un cylindre massif en acier inoxydable, de 9 mètres de large et 69 mètres de long, repose vide sur la terre orange juste à côté du monticule herbeux sur le côté droit du cadre, s'étendant à travers le terrain vague avec son diamètre de 30 pieds correspondant à la hauteur du monticule herbeux
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093787519196274688/img/5MJnFuThi5oYrsAB.jpg" width="600" alt="Cylindre massif en acier inoxydable">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10073)**
+
+**Author:** [🐕‍🦺Ðoge✝️Cherball🚀](https://x.com/DogeCherball) | **Source:** [Link](https://x.com/DogeCherball/status/2093787576817619304) | **Published:** Aug 29, 2026
+
+---
+### Animation d'un Sphinx en rotation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt image-vers-vidéo pour animer une statue de Sphinx avec un mouvement de caméra rotatif
+
+#### 📝 Prompt
+
+```
+Créez une vidéo en utilisant cette image du Sphinx, avec une rotation de gauche à droite et inversement
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093778597387345920/img/iNSdAIFXJoexgyUM.jpg" width="600" alt="Animation d'un Sphinx en rotation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10075)**
+
+**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2093778613443170455) | **Published:** Aug 29, 2026
+
+---
+### Déesse aux cheveux rouges et à l'énergie cosmique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gros plan cinématographique d'une femme aux cheveux roux avec des motifs cosmiques lumineux flottant en apesanteur.
+
+#### 📝 Prompt
+
+```
+Gros plan cinématographique d'une magnifique femme aux longs cheveux roux vibrants flottant en apesanteur, la tête renversée, les yeux fermés en extase. Des motifs complexes de craquelures dorées lumineuses, rappelant le kintsugi ou des veines de métal en fusion, recouvrent son visage, son cou et sa poitrine. Elle est enveloppée dans une énergie translucide et iridescente qui ressemble à de la soie liquide aux teintes violettes, sarcelle, dorées et arc-en-ciel. Arrière-plan d'espace profond rempli d'étoiles, de particules cosmiques colorées et d'un doux bokeh. Photoréaliste, esthétique de déesse éthérée, peau lumineuse, cheveux et rubans d'énergie se déplaçant lentement et avec fluidité, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093558641895124992/img/ovbP3RucFdUhRbBy.jpg" width="600" alt="Déesse aux cheveux rouges et à l'énergie cosmique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10078)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2093768143072055711) | **Published:** Aug 29, 2026
+
+---
+### Crabe faisant du breakdance sur un beat trap
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo dynamique montrant un crabe effectuant des mouvements de breakdance synchronisés sur un beat trap, avec des angles de caméra et des mouvements fluides.
+
+#### 📝 Prompt
+
+```
+Le crabe fait du breakdance et tourne sur sa carapace avec une énergie débordante, ses pattes et ses pinces s'agitant en parfaite synchronisation avec un beat trap percutant dans le style de 2 Chainz, enchaînant rotations continues et figures figées, caméra dynamique en contre-plongée, ral...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093699054563643393/img/sLoYR9ib3MzFtTNv.jpg" width="600" alt="Crabe faisant du breakdance sur un beat trap">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10082)**
+
+**Author:** [Paul Buks](https://x.com/BukurPaul) | **Source:** [Link](https://x.com/BukurPaul/status/2093699085345726537) | **Published:** Aug 29, 2026
+
+---
+### Vidéo typographique de fromage fondu au coucher du soleil sur la plage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo créatif générant du texte stylisé avec un effet de dégradé de coucher de soleil, sur le thème d'un coucher de soleil à la plage et de fromage fondu sur des chips tortilla.
+
+#### 📝 Prompt
+
+```
+Montage de lettrage avec un dégradé intense rouge orangé évoquant le coucher de soleil, avec pour texte « sunset at the beach » et des visuels de fromage fondu sur des chips tortilla
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093613181478535168/img/9Hy7H3Wq1IaEwRTK.jpg" width="600" alt="Vidéo typographique de fromage fondu au coucher du soleil sur la plage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10081)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2093613199237259699) | **Published:** Aug 29, 2026
+
+---
+### Record de piste de Valentino Rossi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo de course mettant en scène Valentino Rossi sur une Ducati Streetfighter R au Nürburgring.
+
+#### 📝 Prompt
+
+```
+VALENTINO ROSSI ENFOURCHE LA NOUVELLE DUCATI STREETFIGHTER R SURÉQUIPÉE ET BAT LE RECORD DE LA PISTE DU NÜRBURGRING - ROSSI EST LE ROI
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093492695650164736/img/_9dU6QiY4NYtRXsR.jpg" width="600" alt="Record de piste de Valentino Rossi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10074)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2093492954321293507) | **Published:** Aug 29, 2026
+
+---
 ### Animation d'une histoire de chien triste
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -819,7 +1104,7 @@ L'image fixe et le prompt pour la vidéo se déplacent légèrement vers la gauc
 Un jardin impressionniste baigné de soleil, à la fois photoréaliste et peint à l'huile fraîche : une lumière crème dorée épaisse, des verts que l'on pourrait étaler, le soleil lui-même représenté par une touche humide et brillante qui n'est pas encore sèche. Un minuscule caneton vêtu d'une blouse de peintre de la fin du XIXe siècle et d'un chapeau de paille trop grand pour lui, debout devant un chevalet miniature dans l'herbe, peignant avec sérieux ce soleil sur une petite toile. Tournesols en empâtement, grain de la toile visible dans le chemin, grain cinématographique des années 1990. Une idée : le soleil est encore humide, tout comme la peinture. Magnifique et un peu fantaisiste.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787828425376_09i2gr_HQpScBhWQAAYNxT.jpg" width="600" alt="Caneton peintre dans un jardin impressionniste">
+<img src="https://cms-assets.youmind.com/media/1788077778220_6iaw4d_HQpScBhWQAAYNxT.jpg" width="600" alt="Caneton peintre dans un jardin impressionniste">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
 
@@ -1853,303 +2138,6 @@ Une peinture à l'huile surréaliste dans le style de Magritte représentant un 
 **Author:** [danailama](https://x.com/danai_lama) | **Source:** [Link](https://x.com/danai_lama/status/2090558298533593235) | **Published:** Aug 20, 2026
 
 ---
-### Vidéo lifestyle de photographie du Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo réaliste montrant des personnes prenant des photos d'un Cybertruck avec leurs iPhones.
-
-#### 📝 Prompt
-
-```
-9:16 {argument name="id" default="@cab971fa-ffd8-4cd7-acc9-bef31d04bd68"} prenant des photos du Cybertruck avec son iPhone et d'autres personnes en train de prendre des photos
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090522760468369408/img/3rgIVoWRpQ6YVTxY.jpg" width="600" alt="Vidéo lifestyle de photographie du Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9568)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **Published:** Aug 20, 2026
-
----
-### Animation de la rencontre entre Ulysse et Nausicaa sur la plage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt narratif détaillé illustrant l'arrivée d'Ulysse sur les côtes de Schérie et sa première rencontre avec Nausicaa, incluant des détails d'animation cinématographique.
-
-#### 📝 Prompt
-
-```
-Après avoir quitté l'île de Calypso, Ulysse a dérivé pendant des jours sur un radeau. Une tempête déchaînée par Poséidon a détruit son embarcation. Épuisé, il a nagé jusqu'à s'échouer, inconscient, sur la plage de Schérie, l'île des Phéaciens. Éreinté et couvert d'algues, il reprend connaissance sur le sable. Nausicaa, d'abord effrayée, recule avant de l'écouter. Elle décide de lui venir en aide et lui indique le chemin vers le palais.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090462831195914240/img/QC_iaRhu8OjWcEJL.jpg" width="600" alt="Animation de la rencontre entre Ulysse et Nausicaa sur la plage">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9634)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2090463969496518702) | **Published:** Aug 20, 2026
-
----
-### Sketch vidéo Thor Thursday
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de transformation vidéo qui modifie un croquis couleur pour y intégrer du texte vert émeraude et le marteau de Thor dans un environnement cristallin.
-
-#### 📝 Prompt
-
-```
-Conservez le même croquis couleur, mais ajoutez en lettres vert émeraude « HAVE A THOR THURSDAY GUYS from Timothy », et placez également un MARTEAU DE THOR en arrière-plan avec des cristaux et des structures dorées, tout en me montrant en train de rire et de sourire.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090416323352227840/img/v9LOpsVH4RKd-Zjk.jpg" width="600" alt="Sketch vidéo Thor Thursday">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9564)**
-
-**Author:** [Timothy the Observer🧲🧲🧲](https://x.com/Observer__369) | **Source:** [Link](https://x.com/Observer__369/status/2090416372928991252) | **Published:** Aug 20, 2026
-
----
-### Ange sombre au-dessus d'un océan trouble
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo dramatique mettant en scène un ange sombre volant à basse altitude au-dessus de vagues déferlantes avec des reflets réalistes sur l'eau.
-
-#### 📝 Prompt
-
-```
-Un ange sombre vole à basse altitude au-dessus d'un océan trouble à la lumière du petit matin. Son reflet se reflète sur l'eau entre les vagues déferlantes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090404923997626368/img/p04nCyZwHZ1tkKuV.jpg" width="600" alt="Ange sombre au-dessus d'un océan trouble">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9570)**
-
-**Author:** [Zakalwe](https://x.com/ElZakalwe) | **Source:** [Link](https://x.com/ElZakalwe/status/2090404972064371076) | **Published:** Aug 20, 2026
-
----
-### Transition de zoom sur le cadran de la montre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt sophistiqué utilisant deux images de référence pour créer une transition de zoom professionnelle, partant d'une personne tenant une montre pour se focaliser sur son cadran.
-
-#### 📝 Prompt
-
-```
-Prends la photo de moi tenant la montre et crée une vidéo où la caméra zoome sur le cadran de la montre, pour finir sur l'image du cadran présente dans la deuxième photo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090402217274519552/img/hLTnVUwJyc0RFESQ.jpg" width="600" alt="Transition de zoom sur le cadran de la montre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9569)**
-
-**Author:** [BunkerDweller](https://x.com/ElonsBlueBird) | **Source:** [Link](https://x.com/ElonsBlueBird/status/2090402231405150658) | **Published:** Aug 20, 2026
-
----
-### Aphrodite éthérée et papillon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Génère une vidéo rayonnante et éthérée de la déesse Aphrodite approchée par un papillon.
-
-#### 📝 Prompt
-
-```
-Aphrodite, éthérée et rayonnante, alors qu'un papillon s'approche de la déesse de la beauté.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090395253643546624/img/r0Vv71hVFnWtqu0j.jpg" width="600" alt="Aphrodite éthérée et papillon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9571)**
-
-**Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2090395296123453698) | **Published:** Aug 20, 2026
-
----
-### Balade côtière sous une pluie de minuit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt visuel cinématographique et atmosphérique pour une scène lo-fi de minuit, mettant en vedette une voiture noire sur des routes côtières avec des reflets de pluie à l'aube.
-
-#### 📝 Prompt
-
-```
-pluie de minuit, une voiture noire vide, routes côtières, reflets et la première lumière avant l'aube
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089976752764231681/img/ex_ZvRjPpa1rc4Fe.jpg" width="600" alt="Balade côtière sous une pluie de minuit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9755)**
-
-**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2089976937913462996) | **Published:** Aug 19, 2026
-
----
-### Monologue vidéo selfie du matin
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt sophistiqué pour une vidéo verticale de style selfie mettant en scène la routine matinale d'une femme dans une salle de bain, en privilégiant une esthétique naturelle et calme.
-
-#### 📝 Prompt
-
-```
-Cadre général :
-Vidéo courte verticale 9:16, style vidéo selfie. Protagoniste féminine adulte portant [Image 2] issue de [Image 1], longs cheveux naturellement lâchés, tenant un téléphone de la main gauche pour se filmer devant un miroir. Salle de bain aux carreaux gris, lumière matinale blanche froide et douce, miroir propre, texture réaliste de selfie au téléphone, léger tremblement de caméra à la main, synchronisation labiale précise.
-Style général :
-Confiance en soi matinale sophistiquée, mature, détendue, élégante, tel un monologue cinématographique du matin. La protagoniste vient de se réveiller mais est dans un état stable, avec un regard clair, une expression douce et des mouvements naturels et retenus. Pas de séduction intentionnelle, pas d'actions vulgaires, l'accent est mis sur l'expression de la « confiance, du calme, du bien-être, aujourd'hui sera une excellente journée ».
-Action et posture :
-La protagoniste se tient devant le miroir, les épaules naturellement détendues, le corps légèrement tourné vers le miroir, se recoiffant délicatement, se regardant occasionnellement dans le miroir, puis regardant l'objectif du téléphone. Sa main droite est délicatement posée sur sa poitrine pour exprimer une affirmation de soi, puis s'ouvre naturellement vers l'extérieur, comme pour transmettre cet état positif à la journée. Petits mouvements, élégants, détendus et réels. Mots-clés d'arrière-plan :
-Section 1 0:00-0:15
-Premier plan :
-La protagoniste prend un selfie de la main gauche, se recoiffe doucement de la main droite, détourne son regard du miroir vers la caméra et sourit légèrement. Sa voix est douce mais ferme, comme un rappel très délicat à elle-même au réveil.
-
-Pas de musique ou son ambiant extrêmement faible, léger écho de salle de bain, bruits de frottement de vêtements et sons naturels de tremblement de téléphone présents.
-À éviter :
-Séduction vulgaire, actions pornographiques, nudité, léchage de lèvres exagéré, déhanchements excessifs, déformation des proportions corporelles, changements faciaux, changements de vêtements, disparition du téléphone, personnages incohérents dans le miroir, sous-titres illisibles, filigranes, personnages supplémentaires.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089920974015680512/img/Xe3tNU_TLm1xaUA_.jpg" width="600" alt="Monologue vidéo selfie du matin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9474)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2089921747407552927) | **Published:** Aug 19, 2026
-
----
-### Ulysse et son chien Argos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo narratif capturant le moment émouvant où Ulysse est reconnu par son chien, Argos.
-
-#### 📝 Prompt
-
-```
-Ulysse retourne à Ithaque déguisé en mendiant. Son chien négligé, Argos, qui a attendu son maître pendant vingt ans, le reconnaît, remue la queue et meurt aussitôt...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089909243168079872/img/C_SvHln99CY5Ly_X.jpg" width="600" alt="Ulysse et son chien Argos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9472)**
-
-**Author:** [James Woodard](https://x.com/QuantumBikerX) | **Source:** [Link](https://x.com/QuantumBikerX/status/2089909272033251822) | **Published:** Aug 19, 2026
-
----
-### Séquence de la grotte du Cyclope à la lueur du feu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique décrivant un lent mouvement de travelling à travers une caverne enfumée et éclairée par un feu, avec une atmosphère lourde et ancienne.
-
-#### 📝 Prompt
-
-```
-Lent travelling avant à travers une épaisse fumée et la lueur vacillante d'un feu dans la vaste grotte du Cyclope. Des braises dérivent devant la caméra. Le plan s'enfonce plus profondément, dépassant des parois rocheuses escarpées vers le feu central incandescent. Atmosphère lourde, ancienne et tendue. Aucun dialogue.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089902537872994304/img/iTJZ4LVUx7T5KiOW.jpg" width="600" alt="Séquence de la grotte du Cyclope à la lueur du feu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9573)**
-
-**Author:** [High](https://x.com/Hightv) | **Source:** [Link](https://x.com/Hightv/status/2089902855566328177) | **Published:** Aug 19, 2026
-
----
-### Bande-annonce du film L'Odyssée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt fonctionnel pour créer une bande-annonce de film réaliste de 15 secondes résumant l'intrigue de l'Odyssée.
-
-#### 📝 Prompt
-
-```
-L'intrigue de l'Odyssée présentée sous forme de bande-annonce de film. Rends le tout réaliste en anglais. Assure-toi que le titre apparaisse à la fin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089895513369825280/img/6FijAqPFa7zAPtQM.jpg" width="600" alt="Bande-annonce du film L'Odyssée">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9473)**
-
-**Author:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **Source:** [Link](https://x.com/DrJGiddensRN/status/2089895538422423771) | **Published:** Aug 19, 2026
-
----
-### Message joyeux d'un personnage qui parle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo où un personnage masculin délivre un message positif sur la recherche d'un terrain plus élevé, suivi d'un geste du pouce levé.
-
-#### 📝 Prompt
-
-```
-Faites en sorte que le personnage masculin dise avec douceur et bienveillance : « N'oublie pas d'être heureux. Alors, j'espère que tu as trouvé un terrain plus élevé... un terrain plus élevé. » Puis, faites-lui faire un geste du pouce levé.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089865756381229056/img/cHkaaOswUms_nf8d.jpg" width="600" alt="Message joyeux d'un personnage qui parle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9466)**
-
-**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2089865785774870784) | **Published:** Aug 19, 2026
-
----
-### Prise de vue panoramique en orbite
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt cinématographique mettant en scène une femme contemplant un paysage grandiose, avec un mouvement de caméra lent en orbite et des effets de vent.
-
-#### 📝 Prompt
-
-```
-Une femme contemple un paysage grandiose, imprégnée de sa majesté. La caméra recule lentement tout en effectuant une rotation orbitale autour d'elle. Une brise légère fait voleter ses vêtements et ses cheveux.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089847137815429120/img/-2eePH4RnpUpkgxi.jpg" width="600" alt="Prise de vue panoramique en orbite">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9475)**
-
-**Author:** [Saposhi](https://x.com/Saposhin_AI) | **Source:** [Link](https://x.com/Saposhin_AI/status/2089847152986169773) | **Published:** Aug 18, 2026
-
----
-### Lancement simultané de fusées SpaceX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique pour visualiser deux fusées SpaceX distinctes décollant simultanément depuis Starbase.
-
-#### 📝 Prompt
-
-```
-deux fusées distinctes — l'une pour l'empereur Kekius Maximus et l'autre pour Prométhée — lancées simultanément par SpaceX depuis Starbase.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089836784800632832/img/SOrzrpwsLnJdWbAw.jpg" width="600" alt="Lancement simultané de fusées SpaceX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9572)**
-
-**Author:** [Emperor of the Memes](https://x.com/Emp_Kek_Max) | **Source:** [Link](https://x.com/Emp_Kek_Max/status/2089840426152759610) | **Published:** Aug 18, 2026
-
----
-### Animation d'un Bisounours faisant un doigt d'honneur
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo provocateur demandant à un personnage Bisounours d'effectuer un geste spécifique et non conventionnel.
-
-#### 📝 Prompt
-
-```
-Génère-moi une vidéo d'un Bisounours avec un doigt d'honneur au centre de son ventre.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089836887934447616/img/lEom-EY5_liX_IE6.jpg" width="600" alt="Animation d'un Bisounours faisant un doigt d'honneur">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9468)**
-
-**Author:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **Source:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **Published:** Aug 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2211,6 +2199,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-30T05:08:22.341Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-30T14:00:19.918Z</sub>
 
 </div>

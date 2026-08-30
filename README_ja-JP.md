@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2633** |
+| 📝 プロンプト総数 | **2648** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-08-30** |
 
@@ -189,6 +189,291 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 神話の女神たちの輪舞曲ビデオプロンプト
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 神話に登場する女神たちのシークエンスを描いた詳細なビデオプロンプト。深い森で動物たちと戯れるディアナ、月の下でハープを奏でながら歌うアルテミス、そして使者たちを悼みながら輪廻の歌を歌うペルセポネ。神秘的で厳かな映画のような雰囲気。
+
+#### 📝 プロンプト
+
+```
+深い森の中で動物たちと戯れる女神ディアナ。場面は夜の月の女神アルテミスへと移り、ハープを奏でながら眠りを誘う歌を歌う。血の女神ペルセポネは使者たちを悼み、女神たちは輪廻の歌を歌い続ける。イタリア語の歌と音楽が流れる 15 分間のビデオ。神秘的で厳かな雰囲気。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093970430604488704/img/dUneXzq8ksJk4Tyo.jpg" width="600" alt="神話の女神たちの輪舞曲ビデオプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10083)**
+
+**作者:** [Apple](https://x.com/Apple0816799221) | **ソース:** [Link](https://x.com/Apple0816799221/status/2093970466688180492) | **公開日:** Aug 30, 2026
+
+---
+### 荒廃した部屋で宇宙の爆発を映すブラウン管テレビ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 荒廃した部屋でブラウン管テレビに映る宇宙の爆発を見つめる女性を描く、非常に詳細なシネマティックプロンプト
+
+#### 📝 プロンプト
+
+```
+暗く荒廃した部屋に座る若い女性のシネマティックな横顔。お団子ヘアで、厚手の茶色のニットセーターを着用し、古いブラウン管テレビを見つめている。テレビ画面はシアン、ゴールド、パープル、オレンジのエネルギーが渦巻く鮮やかな宇宙の爆発を映し出し、爆発の中心には小さな人影が見える。壁の漆喰は剥がれ落ち、埃をかぶった木製のドレッサーがあり、窓は割れている。唯一の光源はテレビから放たれ、彼女の顔を照らしている。フォトリアル、ムードのある雰囲気、画面の微かなちらつき、空気中に舞う塵、16:9。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093559444944883712/img/ImQJUypW1fqM0XPD.jpg" width="600" alt="荒廃した部屋で宇宙の爆発を映すブラウン管テレビ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10076)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2093858740567220413) | **公開日:** Aug 30, 2026
+
+---
+### ダイナミックな三連祭壇画風の女神たち：カメラ切り替えビデオプロンプト
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> アルテミス、ディアナ、プロセルピナという神話の登場人物を 3 分割のパネルレイアウトで描くビデオ生成プロンプト。各セクションへのカメラのクローズアップによる切り替えを明示的に指示しています。
+
+#### 📝 プロンプト
+
+```
+アルテミス、夜、月の神殿でハープを奏でる様子。ディアナ、深い森、狼と鹿、弓を構える姿。プロセルピナ、地下世界、人々の平和を願う様子。それぞれの姿を 3 分割画面で表示。神秘的な雰囲気。各要素へのクローズアップによって画面が切り替わる
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093849686881005569/img/tGkbjPi8yy6G8fE2.jpg" width="600" alt="ダイナミックな三連祭壇画風の女神たち：カメラ切り替えビデオプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10084)**
+
+**作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **ソース:** [Link](https://x.com/makoto_so/status/2093849707751882793) | **公開日:** Aug 29, 2026
+
+---
+### 生物発光の波の開花
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 波の頂に沿って紫色の光が咲き誇り、やがて闇へと消えていく様子を描写したシネマティックなプロンプト
+
+#### 📝 プロンプト
+
+```
+波が広がり、まるで水中で誰かがマッチを擦ったかのように、波の頂に沿って紫色の光が咲き誇ります。その光は 3 秒間しっかりと留まり、その後ゆっくりと闇の中へと消えていきます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093842536888401920/img/Q0ORcHCfoRSmQJuG.jpg" width="600" alt="生物発光の波の開花">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10072)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2093842983485354025) | **公開日:** Aug 29, 2026
+
+---
+### 生物発光する波の海
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 水中でホタルのように輝く、青緑色の生物発光の波を描写した鮮やかな感覚的プロンプト。
+
+#### 📝 プロンプト
+
+```
+生物発光の波 —— そう、まさにここです。水温が十分に上がると、波が砕けるたびに青緑色に光り輝き、まるで海がホタルを呼吸しているかのようです。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093839190999904257/img/8X2oSPPclHPXQl83.jpg" width="600" alt="生物発光する波の海">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10077)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2093840804871606418) | **公開日:** Aug 29, 2026
+
+---
+### 360 度オービット・タイムラプス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 長時間露光によるモーションブラーと、被写体の周囲を 360 度回転するカメラワークを特徴とするテクニカルビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+彼がその場に立ち、周囲を人々が通り過ぎる様子を長時間露光のタイムラプスとモーションブラーで表現。手持ちカメラによるドリーインの動きで、カメラが彼の体の周囲を 360 度回転する。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093840475153125376/img/aojsCP-3YxTfkBEc.jpg" width="600" alt="360 度オービット・タイムラプス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10080)**
+
+**作者:** [AZIZ | AI 🇸🇦](https://x.com/aziz4ai) | **ソース:** [Link](https://x.com/aziz4ai/status/2093840506379755808) | **公開日:** Aug 29, 2026
+
+---
+### 幼児が初めて出会うヴィンテージピアノ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 2 歳の幼児がヴィンテージピアノで音楽の楽しさを発見する様子を捉えた、心温まるホームビデオ風のシーン。
+
+#### 📝 プロンプト
+
+```
+心温まるホームビデオのような雰囲気の中、楽しそうな幼児がヴィンテージピアノで音楽に出会います。ダークな巻き毛と輝く瞳、満面の笑みが愛らしい 2 歳の男の子が、白い T シャツとオムツ姿でベージュのベンチに座っています。彼が優しく鍵盤を押すと...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093817673129795584/img/Gmtw8EsMRvfmwr1D.jpg" width="600" alt="幼児が初めて出会うヴィンテージピアノ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10070)**
+
+**作者:** [Sandra Leig](https://x.com/Sleig) | **ソース:** [Link](https://x.com/Sleig/status/2093817691404443699) | **公開日:** Aug 29, 2026
+
+---
+### ゴシックアニメ風 クリスタルムーン シネマティック
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 青い月明かりの下、浮遊するクリスタルに囲まれた、鮮やかな髪を持つゴシックアニメ風の女性を描いたシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+鮮やかなピンクからパープルへのグラデーションがかかったストレートのロングヘアとぱっつん前髪、紫に輝く瞳、自信に満ちた表情を持つ美しいアニメ風の女性のシネマティックなポートレート。彼女はハーネスストラップ、金属のリング、チェーン、ロンググローブをあしらった光沢のある黒いレザーのゴシック衣装を身にまとっている。周囲には、巨大で輝く青い月が浮かぶダークファンタジーな夜空の中、鋭く尖った大きな紫色のクリスタルの破片が浮遊している。ドラマチックな紫と青のライティング、ハイファッションなダークファンタジーの美学、ゆっくりと漂うクリスタル、わずかに揺れる髪、16:9。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093558947961868288/img/rVVMgMrvO8Qb0S6w.jpg" width="600" alt="ゴシックアニメ風 クリスタルムーン シネマティック">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10079)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2093798342484529272) | **公開日:** Aug 29, 2026
+
+---
+### ミニオンズ救出作戦動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 巨大な敵に立ち向かうアニメキャラクターが救助を求める様子を描いた、映画のような動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+ミニオンたちが助けを求めており、彼らを邪悪な巨人から救い出そうとしている
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093793227941806080/img/eQ1rn-MloK5yinPS.jpg" width="600" alt="ミニオンズ救出作戦動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10071)**
+
+**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **ソース:** [Link](https://x.com/DavontaDav5iv/status/2093793244345717016) | **公開日:** Aug 29, 2026
+
+---
+### 巨大なステンレス製シリンダー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 屋外の風景の中に設置された大型工業用シリンダーの詳細な説明
+
+#### 📝 プロンプト
+
+```
+幅 9 メートル、長さ 69 メートルの巨大なステンレス製シリンダーが、フレーム右側の草が生い茂る丘のすぐ隣、オレンジ色の土の上に置かれています。直径 30 フィート（約 9 メートル）のこのシリンダーは、草の丘の高さと一致しており、広々とした敷地を横切るように配置されています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093787519196274688/img/5MJnFuThi5oYrsAB.jpg" width="600" alt="巨大なステンレス製シリンダー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10073)**
+
+**作者:** [🐕‍🦺Ðoge✝️Cherball🚀](https://x.com/DogeCherball) | **ソース:** [Link](https://x.com/DogeCherball/status/2093787576817619304) | **公開日:** Aug 29, 2026
+
+---
+### 回転するスフィンクスのアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> スフィンクス像を回転するカメラワークでアニメーション化するための Image-to-Video プロンプト
+
+#### 📝 プロンプト
+
+```
+このスフィンクスの画像を使用して、左から右へ、そして右から左へと回転する動画を作成してください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093778597387345920/img/iNSdAIFXJoexgyUM.jpg" width="600" alt="回転するスフィンクスのアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10075)**
+
+**作者:** [Ember Art](https://x.com/Ember8184Art) | **ソース:** [Link](https://x.com/Ember8184Art/status/2093778613443170455) | **公開日:** Aug 29, 2026
+
+---
+### 宇宙のエネルギーを纏う赤髪の女神
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 無重力空間で、輝く宇宙の模様を纏い浮かぶ赤髪の女性のシネマティックなクローズアップ。
+
+#### 📝 プロンプト
+
+```
+長く鮮やかな赤髪をなびかせ、無重力空間に浮かぶ美しい女性のシネマティックなクローズアップ。恍惚とした表情で頭を後ろに傾け、目を閉じている。顔、首、胸元には、金継ぎや溶岩のような複雑で輝く黄金のひび割れ模様が浮かび上がる。彼女は、紫、ティール、ゴールド、虹色の液体シルクのような、虹色に輝く半透明のエネルギーに包まれている。背景は星々や色鮮やかな宇宙の粒子、柔らかなボケ味に満ちた深宇宙。フォトリアルで幻想的な女神の美学、発光する肌、ゆっくりと流れるように動く髪とエネルギーのリボン、16:9。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093558641895124992/img/ovbP3RucFdUhRbBy.jpg" width="600" alt="宇宙のエネルギーを纏う赤髪の女神">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10078)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2093768143072055711) | **公開日:** Aug 29, 2026
+
+---
+### トラップビートに合わせてブレイクダンスをするカニ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> トラップミュージックのビートに合わせ、ダイナミックなカメラアングルと動きでブレイクダンスを披露するカニのハイエナジーなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+カニが甲羅を軸にして激しく回転しながらブレイクダンスを踊っている。脚とハサミは 2 Chainz スタイルのハードなトラップラップのビートに完璧に同期して動き、回転とフリーズの動きを繰り返す。ダイナミックなローアングルカメラ、スロー...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093699054563643393/img/sLoYR9ib3MzFtTNv.jpg" width="600" alt="トラップビートに合わせてブレイクダンスをするカニ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10082)**
+
+**作者:** [Paul Buks](https://x.com/BukurPaul) | **ソース:** [Link](https://x.com/BukurPaul/status/2093699085345726537) | **公開日:** Aug 29, 2026
+
+---
+### サンセットビーチととろけるチーズのタイポグラフィ動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ビーチの夕日とトルティーヤチップスの上でとろけるチーズをテーマに、夕日のグラデーション効果を施したスタイリッシュなテキストを生成するクリエイティブな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+鮮やかな赤とオレンジの夕日グラデーションのレタリング編集。ビーチの夕日とトルティーヤチップスの上でとろけるチーズを表現
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093613181478535168/img/9Hy7H3Wq1IaEwRTK.jpg" width="600" alt="サンセットビーチととろけるチーズのタイポグラフィ動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10081)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **ソース:** [Link](https://x.com/SpaceScoutsIntl/status/2093613199237259699) | **公開日:** Aug 29, 2026
+
+---
+### バレンティーノ・ロッシのトラックレコード
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ニュルブルクリンクにて、Ducati Streetfighter R に乗るバレンティーノ・ロッシをフィーチャーしたレーシング動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+バレンティーノ・ロッシが新型のカスタマイズされた Ducati Streetfighter R に乗り、ニュルブルクリンクのトラックレコードを更新 - ロッシが最強を証明
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093492695650164736/img/_9dU6QiY4NYtRXsR.jpg" width="600" alt="バレンティーノ・ロッシのトラックレコード">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10074)**
+
+**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **ソース:** [Link](https://x.com/RobinMurrat43a/status/2093492954321293507) | **公開日:** Aug 29, 2026
+
+---
 ### 悲しい犬の物語のアニメーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -819,7 +1104,7 @@ SpaceX のフォージクルーが MrFIXitX 月面基地の植民化に向けて
 陽光が降り注ぐ印象派の庭。フォトリアルでありながら、濡れた油絵の具の質感を併せ持っています。厚みのあるクリームゴールドの光、塗り広げられたような緑、そしてまだ乾いていない明るく濡れた絵の具のような太陽。1800 年代後半の画家のスモックと、少し大きすぎる麦わら帽子を身につけた小さなアヒルの子が、草むらに置かれたミニチュアのイーゼルの前に立ち、小さなキャンバスに太陽を真剣に描いています。インパスト技法で描かれたひまわり、小道のキャンバスの質感、1990 年代のフィルムのような粒子感。コンセプト：太陽はまだ濡れており、絵画も同様に濡れている。美しく、そして少し愛らしい光景です。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787828425376_09i2gr_HQpScBhWQAAYNxT.jpg" width="600" alt="印象派の庭で絵を描くアヒルの子">
+<img src="https://cms-assets.youmind.com/media/1788077778220_6iaw4d_HQpScBhWQAAYNxT.jpg" width="600" alt="印象派の庭で絵を描くアヒルの子">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9928)**
 
@@ -1853,303 +2138,6 @@ Twitch で Cybertruck の 3D ゲームをライブ配信する女性の映像。
 **作者:** [danailama](https://x.com/danai_lama) | **ソース:** [Link](https://x.com/danai_lama/status/2090558298533593235) | **公開日:** Aug 20, 2026
 
 ---
-### Cybertruck ライフスタイル撮影動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> iPhone を使って Cybertruck を撮影する人々の様子を描いたリアルな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-9:16 {argument name="id" default="@cab971fa-ffd8-4cd7-acc9-bef31d04bd68"} iPhone で Cybertruck を撮影する女性と、周囲で撮影している人々
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090522760468369408/img/3rgIVoWRpQ6YVTxY.jpg" width="600" alt="Cybertruck ライフスタイル撮影動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9568)**
-
-**作者:** [kyle smith](https://x.com/RadCyberTruck) | **ソース:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **公開日:** Aug 20, 2026
-
----
-### オデュッセウスとナウシカアの浜辺での出会いのアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> オデュッセウスがスキリア島に漂着し、ナウシカアと初めて出会う場面を描いた詳細なナラティブプロンプト。映画のようなアニメーションの演出を含みます。
-
-#### 📝 プロンプト
-
-```
-カリュプソーの島を離れた後、オデュッセウスは数日間いかだで漂流していました。ポセイドンが巻き起こした嵐によっていかだは破壊され、彼は力尽きるまで泳ぎ続け、パイアケス人の島であるスキリアの浜辺に意識を失った状態で打ち上げられました。疲労困憊し、海藻にまみれた彼が浜辺で意識を取り戻します。最初は怯えて後ずさりしたナウシカアでしたが、やがて彼の話に耳を傾けます。彼女は彼を助けることを決め、宮殿への道を教えます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090462831195914240/img/QC_iaRhu8OjWcEJL.jpg" width="600" alt="オデュッセウスとナウシカアの浜辺での出会いのアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9634)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **ソース:** [Link](https://x.com/dvorahfr/status/2090463969496518702) | **公開日:** Aug 20, 2026
-
----
-### Thor Thursday ビデオスケッチ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> カラーのスケッチを、エメラルドグリーンのテキストとクリスタルに囲まれた環境にあるマイティ・ソーのハンマーを含んだ映像へと変換するプロンプトです。
-
-#### 📝 プロンプト
-
-```
-元のカラースケッチを維持しつつ、エメラルドグリーンの文字で「HAVE A THOR THURSDAY GUYS from Timothy」と追加してください。また、背景にはクリスタルや黄金の建造物と共にマイティ・ソーのハンマーを配置し、私が笑ってニヤリとしている様子にしてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090416323352227840/img/v9LOpsVH4RKd-Zjk.jpg" width="600" alt="Thor Thursday ビデオスケッチ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9564)**
-
-**作者:** [Timothy the Observer🧲🧲🧲](https://x.com/Observer__369) | **ソース:** [Link](https://x.com/Observer__369/status/2090416372928991252) | **公開日:** Aug 20, 2026
-
----
-### 濁った海の上を飛ぶダークエンジェル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 打ち寄せる波の上を低空飛行するダークエンジェルと、リアルな水面の反射を描いたドラマチックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-早朝の光の中、ダークエンジェルが濁った海の上を低空飛行している。打ち寄せる波の間で、その姿が水面に反射している。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090404923997626368/img/p04nCyZwHZ1tkKuV.jpg" width="600" alt="濁った海の上を飛ぶダークエンジェル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9570)**
-
-**作者:** [Zakalwe](https://x.com/ElZakalwe) | **ソース:** [Link](https://x.com/ElZakalwe/status/2090404972064371076) | **公開日:** Aug 20, 2026
-
----
-### ウォッチフェイスのズームトランジション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 2 枚の参照画像を使用して、時計を持っている人物からウォッチフェイスへとプロフェッショナルなズームトランジションを作成するための洗練されたプロンプトです。
-
-#### 📝 プロンプト
-
-```
-時計を持っている私の写真を使用して、カメラがウォッチフェイスにズームインし、2 枚目の写真のウォッチフェイス画像に切り替わる動画を作成してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090402217274519552/img/hLTnVUwJyc0RFESQ.jpg" width="600" alt="ウォッチフェイスのズームトランジション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9569)**
-
-**作者:** [BunkerDweller](https://x.com/ElonsBlueBird) | **ソース:** [Link](https://x.com/ElonsBlueBird/status/2090402231405150658) | **公開日:** Aug 20, 2026
-
----
-### 幻想的なアフロディーテと蝶
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 美の女神アフロディーテに蝶が近づく、輝かしく幻想的な動画を生成します。
-
-#### 📝 プロンプト
-
-```
-美の女神のもとへ蝶が舞い降りる、幻想的で輝きを放つアフロディーテの姿。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090395253643546624/img/r0Vv71hVFnWtqu0j.jpg" width="600" alt="幻想的なアフロディーテと蝶">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9571)**
-
-**作者:** [Art Muse](https://x.com/art_muse) | **ソース:** [Link](https://x.com/art_muse/status/2090395296123453698) | **公開日:** Aug 20, 2026
-
----
-### 真夜中の雨の海岸ドライブ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夜明け前の海岸沿いを走る黒い車と、雨に濡れた路面の反射を描いた、ローファイでシネマティックな雰囲気のビジュアルプロンプトです。
-
-#### 📝 プロンプト
-
-```
-真夜中の雨、無人の黒い車、海岸沿いの道路、反射、夜明け前の最初の光
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089976752764231681/img/ex_ZvRjPpa1rc4Fe.jpg" width="600" alt="真夜中の雨の海岸ドライブ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9755)**
-
-**作者:** [Lacey](https://x.com/LaceyPresley) | **ソース:** [Link](https://x.com/LaceyPresley/status/2089976937913462996) | **公開日:** Aug 19, 2026
-
----
-### 朝の自撮りビデオモノローグ
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> バスルームでの朝のルーティンを映す、自然で落ち着いた美学を強調した縦型自撮りスタイルビデオのための洗練されたプロンプト。
-
-#### 📝 プロンプト
-
-```
-全体設定：
-9:16 の縦型ショートビデオ、自撮りスタイル。 [Image 1] の [Image 2] を着用した成人女性が主人公。長い髪を自然に流し、左手でスマートフォンを持ち、鏡の前で撮影している。グレーのタイル張りのバスルーム、柔らかくクールな朝の光、清潔な鏡、リアルなスマホ自撮りの質感、わずかな手ブレ、正確なリップシンク。
-全体的なスタイル：
-洗練された朝の自信、成熟、リラックス、エレガント、映画のような朝のモノローグ風。主人公は目覚めたばかりだが安定した状態にあり、澄んだ瞳、穏やかな表情、自然で控えめな動き。意図的な誘惑や卑俗な動作はなく、「自信、落ち着き、良好なコンディション、今日は素晴らしい一日になる」という表現に焦点を当てる。
-アクションと姿勢：
-主人公は鏡の前に立ち、肩は自然にリラックスし、体は少し鏡の方を向いている。髪を優しく整え、時折鏡の中の自分を見つめ、その後スマホのカメラを見る。右手は自己肯定を表すように胸に優しく置かれ、その後自然に外側に開く。まるでその良い状態を今日という一日に手渡すかのように。小さな動きで、エレガント、リラックス、そしてリアルに。背景キーワード：
-セクション 1 0:00-0:15
-前景：
-主人公は左手で自撮りをし、右手で優しく髪を整え、鏡からカメラへと視線を移し、わずかに微笑む。声は柔らかいが芯があり、目覚めた自分自身への非常に優しいリマインダーのよう。
-
-音楽なし、または非常に微かな環境音。バスルームのわずかな反響、衣擦れの音、自然なスマホの揺れる音を含める。
-避けるべきこと：
-卑俗な誘惑、ポルノ的な動作、ヌード、誇張された唇を舐める動作、過度な腰のひねり、体の比率の崩れ、顔の変化、服装の変化、スマホが消える、鏡の中の人物との不一致、文字化けした字幕、透かし、余計な人物。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089920974015680512/img/Xe3tNU_TLm1xaUA_.jpg" width="600" alt="朝の自撮りビデオモノローグ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9474)**
-
-**作者:** [John](https://x.com/john87445528) | **ソース:** [Link](https://x.com/john87445528/status/2089921747407552927) | **公開日:** Aug 19, 2026
-
----
-### オデュッセウスと愛犬アルゴス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> オデュッセウスが愛犬アルゴスに再会し、正体を見抜かれる感動的な瞬間を捉えたナラティブビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-乞食に変装してイタカに帰還したオデュッセウス。20 年もの間主人を待ち続けた愛犬アルゴスは、彼を一目見てその正体を見抜き、尻尾を振ってその場に倒れ、息を引き取る……。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089909243168079872/img/C_SvHln99CY5Ly_X.jpg" width="600" alt="オデュッセウスと愛犬アルゴス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9472)**
-
-**作者:** [James Woodard](https://x.com/QuantumBikerX) | **ソース:** [Link](https://x.com/QuantumBikerX/status/2089909272033251822) | **公開日:** Aug 19, 2026
-
----
-### サイクロプスの洞窟の焚き火シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 煙が立ち込め、焚き火に照らされた洞窟内をゆっくりとドリー移動する、重厚で古風な雰囲気を表現したシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-濃い煙と揺らめく焚き火の光の中、広大なサイクロプスの洞窟へとゆっくりとドリーインする。カメラの横を火の粉が舞う。荒々しい岩壁を通り過ぎ、中央で燃える焚き火に向かって奥へと進む。重厚で古風な、緊張感のある雰囲気。セリフなし。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089902537872994304/img/iTJZ4LVUx7T5KiOW.jpg" width="600" alt="サイクロプスの洞窟の焚き火シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9573)**
-
-**作者:** [High](https://x.com/Hightv) | **ソース:** [Link](https://x.com/Hightv/status/2089902855566328177) | **公開日:** Aug 19, 2026
-
----
-### Odyssey 映画予告編
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Odyssey のあらすじをまとめた、リアルな 15 秒間の映画予告編を作成するための機能的なプロンプト。
-
-#### 📝 プロンプト
-
-```
-Odyssey のあらすじを映画の予告編風にまとめてください。英語でリアルな仕上がりにしてください。最後にタイトルが表示されるようにしてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089895513369825280/img/6FijAqPFa7zAPtQM.jpg" width="600" alt="Odyssey 映画予告編">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9473)**
-
-**作者:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **ソース:** [Link](https://x.com/DrJGiddensRN/status/2089895538422423771) | **公開日:** Aug 19, 2026
-
----
-### 話すキャラクターのハッピーメッセージ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 男性キャラクターがより高い場所を見つけることについて前向きなメッセージを伝え、最後にサムズアップをするビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-男性の画像に、優しく愛情を込めてこう言わせてください。「幸せでいることを忘れないで。だから、あなたがより高い場所を見つけられたらいいな……より高い場所をね」。その後、彼にサムズアップをさせてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089865756381229056/img/cHkaaOswUms_nf8d.jpg" width="600" alt="話すキャラクターのハッピーメッセージ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9466)**
-
-**作者:** [Julio McCauley](https://x.com/CosmicJulioBro) | **ソース:** [Link](https://x.com/CosmicJulioBro/status/2089865785774870784) | **公開日:** Aug 19, 2026
-
----
-### 壮大な風景を捉えるオービットカメラショット
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 女性が雄大な景色を見下ろす様子を、ゆっくりとしたオービットカメラの動きと風のエフェクトで表現したシネマティックなプロンプトです。
-
-#### 📝 プロンプト
-
-```
-女性が雄大な景色を見つめ、その壮大さを感じている。カメラは女性の周囲を旋回しながら、ゆっくりと後方に引いていく。そよ風が彼女の服と髪を優しく揺らしている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089847137815429120/img/-2eePH4RnpUpkgxi.jpg" width="600" alt="壮大な風景を捉えるオービットカメラショット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9475)**
-
-**作者:** [Saposhi](https://x.com/Saposhin_AI) | **ソース:** [Link](https://x.com/Saposhin_AI/status/2089847152986169773) | **公開日:** Aug 18, 2026
-
----
-### SpaceX ロケットの同時打ち上げ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Starbase から 2 機の SpaceX ロケットが同時に打ち上げられる様子を視覚化するためのシネマティックなプロンプト。
-
-#### 📝 プロンプト
-
-```
-SpaceX によって Starbase から同時に打ち上げられる、皇帝 Kekius Maximus 用と Prometheus 用の 2 機のロケット。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089836784800632832/img/SOrzrpwsLnJdWbAw.jpg" width="600" alt="SpaceX ロケットの同時打ち上げ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9572)**
-
-**作者:** [Emperor of the Memes](https://x.com/Emp_Kek_Max) | **ソース:** [Link](https://x.com/Emp_Kek_Max/status/2089840426152759610) | **公開日:** Aug 18, 2026
-
----
-### ケアベアが中指を立てるアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ケアベアのキャラクターが、本来のイメージとは異なる特定のジェスチャーを行う様子をリクエストする、刺激的な動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-ケアベアのお腹の中央に中指が描かれた、ケアベアの動画を生成してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089836887934447616/img/lEom-EY5_liX_IE6.jpg" width="600" alt="ケアベアが中指を立てるアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9468)**
-
-**作者:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **ソース:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **公開日:** Aug 18, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2211,6 +2199,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-30T05:08:12.522Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-30T14:00:05.115Z</sub>
 
 </div>

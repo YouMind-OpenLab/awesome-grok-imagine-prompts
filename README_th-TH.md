@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2633** |
+| 📝 Total Prompts | **2648** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-30** |
 
@@ -189,6 +189,291 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### พรอมต์วิดีโอการเต้นรำวงของเหล่าเทพธิดาในตำนาน
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์วิดีโอแบบละเอียดที่บรรยายลำดับเหตุการณ์ของเหล่าเทพธิดาในตำนาน: Diana กำลังเล่นกับสัตว์ต่างๆ ในป่าลึก, Artemis กำลังร้องเพลงใต้แสงจันทร์พร้อมดีดพิณ และ Persephone กำลังโศกเศร้าต่อเหล่าทูตขณะร้องเพลงแห่งวัฏจักร บรรยากาศแบบภาพยนตร์ที่ดูลึกลับและเคร่งขรึม
+
+#### 📝 Prompt
+
+```
+เทพธิดา Diana กำลังหยอกล้อกับสัตว์ต่างๆ ในป่าลึก ฉากเปลี่ยนไปยัง Artemis เทพธิดาแห่งดวงจันทร์ยามค่ำคืนที่กำลังขับขานบทเพลงและกล่อมให้หลับใหลด้วยเสียงพิณ; Persephone เทพธิดาแห่งเลือดกำลังโศกเศร้าต่อเหล่าทูต; เหล่าเทพธิดายังคงร้องเพลงแห่งวัฏจักรต่อไป เป็นวิดีโอความยาว 15 นาทีที่ขับร้องเป็นภาษาอิตาลีพร้อมดนตรีประกอบ ให้ความรู้สึกลึกลับและเคร่งขรึม
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093970430604488704/img/dUneXzq8ksJk4Tyo.jpg" width="600" alt="พรอมต์วิดีโอการเต้นรำวงของเหล่าเทพธิดาในตำนาน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10083)**
+
+**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2093970466688180492) | **Published:** Aug 30, 2026
+
+---
+### ระเบิดคอสมิกบนจอทีวีในห้องที่ทรุดโทรม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวภาพยนตร์ที่มีรายละเอียดสูงสำหรับภาพหญิงสาวในห้องที่ทรุดโทรมกำลังจ้องมองการระเบิดของคอสมิกบนจอทีวี CRT
+
+#### 📝 Prompt
+
+```
+ภาพมุมข้างแนวภาพยนตร์ของหญิงสาวคนหนึ่งที่นั่งอยู่ในห้องมืดที่ทรุดโทรม ผมมวยยุ่งๆ สวมเสื้อไหมพรมถักสีน้ำตาลหนา กำลังจ้องมองทีวี CRT เครื่องเก่า หน้าจอทีวีส่องแสงสว่างไสวด้วยการระเบิดของคอสมิกที่มีพลังงานสีฟ้าอมเขียว ทอง ม่วง และส้ม โดยมีร่างเล็กๆ ปรากฏอยู่ตรงกลางของการระเบิด ผนังปูนลอกร่อน ตู้ไม้ที่มีฝุ่นเกาะ หน้าต่างที่แตกหัก แสงสว่างเพียงอย่างเดียวมาจากหน้าจอทีวีที่ส่องกระทบใบหน้าของเธอ ภาพสมจริง บรรยากาศหม่นๆ มีแสงกะพริบจางๆ จากหน้าจอ ละอองฝุ่นในอากาศ อัตราส่วน 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093559444944883712/img/ImQJUypW1fqM0XPD.jpg" width="600" alt="ระเบิดคอสมิกบนจอทีวีในห้องที่ทรุดโทรม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10076)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2093858740567220413) | **Published:** Aug 30, 2026
+
+---
+### พรอมต์วิดีโอเทพธิดาสามองค์ในรูปแบบ Triptych พร้อมการสลับมุมกล้อง
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์สำหรับสร้างวิดีโอที่แสดงเลย์เอาต์แบบแบ่ง 3 ส่วนของเทพธิดาในตำนานอย่าง Artemis, Diana และ Proserpina โดยระบุคำสั่งให้กล้องซูมเข้าไปยังแต่ละส่วนในระหว่างการเปลี่ยนฉาก
+
+#### 📝 Prompt
+
+```
+Artemis ในยามค่ำคืนกำลังดีดพิณในวิหารแห่งดวงจันทร์, Diana ในป่าลึกกับหมาป่าและกวางพร้อมคันธนูคู่ใจ, Proserpina ในโลกใต้พิภพที่ปรารถนาให้ผู้คนอยู่อย่างสงบสุข, รูปลักษณ์ของแต่ละองค์, หน้าจอแบ่งเป็น 3 ส่วน, บรรยากาศลึกลับ, หน้าจอสลับฉากด้วยการซูมเข้าไปยังแต่ละส่วน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093849686881005569/img/tGkbjPi8yy6G8fE2.jpg" width="600" alt="พรอมต์วิดีโอเทพธิดาสามองค์ในรูปแบบ Triptych พร้อมการสลับมุมกล้อง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10084)**
+
+**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2093849707751882793) | **Published:** Aug 29, 2026
+
+---
+### คลื่นเรืองแสงบานสะพรั่ง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เชิงภาพยนตร์ที่บรรยายถึงแสงสีม่วงเรืองรองที่กำลังบานสะพรั่งไปตามยอดคลื่น ก่อนจะค่อย ๆ เลือนหายไปในความมืด
+
+#### 📝 Prompt
+
+```
+มันค่อย ๆ คลี่ตัวออก และแสงสีม่วงก็บานสะพรั่งไปตามยอดคลื่นราวกับมีคนจุดไม้ขีดไฟอยู่ใต้น้ำ แสงนั้นคงอยู่เป็นเวลาสามวินาทีเต็ม ก่อนจะเลือนหายกลับเข้าสู่ความมืดมิด
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093842536888401920/img/Q0ORcHCfoRSmQJuG.jpg" width="600" alt="คลื่นเรืองแสงบานสะพรั่ง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10072)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093842983485354025) | **Published:** Aug 29, 2026
+
+---
+### คลื่นเรืองแสงในมหาสมุทร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำบรรยายเชิงประสาทสัมผัสที่สดใสเกี่ยวกับคลื่นเรืองแสงสีเขียวอมฟ้า ซึ่งดูเหมือนหิ่งห้อยในผืนน้ำ
+
+#### 📝 Prompt
+
+```
+ปรากฏการณ์เรืองแสงนั่นแหละ ใช่เลย นี่คือสถานที่นั้นจริงๆ เมื่อน้ำอุ่นพอ คลื่นจะส่องแสงสีเขียวอมฟ้าทุกครั้งที่ซัดเข้าฝั่ง ราวกับว่ามหาสมุทรมีหิ่งห้อยที่กำลังหายใจอยู่
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093839190999904257/img/8X2oSPPclHPXQl83.jpg" width="600" alt="คลื่นเรืองแสงในมหาสมุทร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10077)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093840804871606418) | **Published:** Aug 29, 2026
+
+---
+### วิดีโอไทม์แลปส์แบบหมุนรอบ 360 องศา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงเทคนิคที่เน้นการถ่ายภาพแบบเปิดรับแสงนาน (long exposure) พร้อมเอฟเฟกต์ภาพเบลอจากการเคลื่อนไหว และการเคลื่อนกล้องหมุนรอบวัตถุ 360 องศา
+
+#### 📝 Prompt
+
+```
+เขายืนนิ่งอยู่กับที่ โดยมีผู้คนเดินผ่านไปมาด้วยเทคนิคการถ่ายภาพแบบเปิดรับแสงนาน (long exposure) พร้อมเอฟเฟกต์ไทม์แลปส์และภาพเบลอจากการเคลื่อนไหว กล้องเคลื่อนที่แบบ Dolly เข้าหาตัวแบบและหมุนรอบตัวเขา 360 องศาในลักษณะถือถ่ายด้วยมือ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093840475153125376/img/aojsCP-3YxTfkBEc.jpg" width="600" alt="วิดีโอไทม์แลปส์แบบหมุนรอบ 360 องศา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10080)**
+
+**Author:** [AZIZ | AI 🇸🇦](https://x.com/aziz4ai) | **Source:** [Link](https://x.com/aziz4ai/status/2093840506379755808) | **Published:** Aug 29, 2026
+
+---
+### การค้นพบเปียโนวินเทจครั้งแรกของเด็กวัยหัดเดิน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ฉากสไตล์โฮมวิดีโอที่อบอุ่นหัวใจ จับภาพเด็กวัย 2 ขวบที่กำลังสำรวจเปียโนวินเทจด้วยความสุขและการค้นพบทางดนตรี
+
+#### 📝 Prompt
+
+```
+ในสไตล์โฮมวิดีโอที่อบอุ่นหัวใจ เด็กน้อยผู้ร่าเริงกำลังค้นพบเสียงดนตรีที่เปียโนวินเทจ เด็กชายวัย 2 ขวบสุดน่ารักที่มีผมหยิกสีเข้ม ดวงตาสดใส และรอยยิ้มกว้าง สวมเสื้อยืดสีขาวและผ้าอ้อม นั่งอยู่บนม้านั่งสีเบจ เขากำลังกดคีย์เปียโนอย่างแผ่วเบา...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093817673129795584/img/Gmtw8EsMRvfmwr1D.jpg" width="600" alt="การค้นพบเปียโนวินเทจครั้งแรกของเด็กวัยหัดเดิน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10070)**
+
+**Author:** [Sandra Leig](https://x.com/Sleig) | **Source:** [Link](https://x.com/Sleig/status/2093817691404443699) | **Published:** Aug 29, 2026
+
+---
+### อนิเมะโกธิค พระจันทร์คริสตัล งานภาพระดับภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอระดับภาพยนตร์ของหญิงสาวสไตล์อนิเมะโกธิคที่มีผมสีสันสดใส ล้อมรอบด้วยคริสตัลลอยตัวภายใต้แสงพระจันทร์สีน้ำเงิน
+
+#### 📝 Prompt
+
+```
+ภาพพอร์ตเทรตระดับภาพยนตร์ของหญิงสาวอนิเมะแสนสวย ผมยาวตรงไล่เฉดสีชมพูไปม่วงสดใสและหน้าม้าตัดตรง ดวงตาสีม่วงเปล่งประกาย สีหน้ามั่นใจ เธอสวมชุดโกธิคหนังสีดำเงาพร้อมสายรัด ห่วงโลหะ โซ่ และถุงมือยาว รอบตัวเธอมีเศษคริสตัลสีม่วงแหลมคมขนาดใหญ่ลอยอยู่ท่ามกลางท้องฟ้ายามค่ำคืนแนวแฟนตาซีมืดมนที่มีพระจันทร์สีน้ำเงินขนาดมหึมาส่องสว่าง แสงสีม่วงและสีน้ำเงินที่ดูดราม่า สุนทรียศาสตร์แนวแฟนตาซีมืดแบบไฮแฟชั่น คริสตัลค่อยๆ ลอยละล่อง เส้นผมขยับไหวเล็กน้อย อัตราส่วน 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093558947961868288/img/rVVMgMrvO8Qb0S6w.jpg" width="600" alt="อนิเมะโกธิค พระจันทร์คริสตัล งานภาพระดับภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10079)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2093798342484529272) | **Published:** Aug 29, 2026
+
+---
+### วิดีโอปฏิบัติการช่วยเหลือเหล่า Minions
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่บรรยายถึงตัวละครการ์ตูนที่กำลังร้องขอความช่วยเหลือจากการเผชิญหน้ากับศัตรูยักษ์
+
+#### 📝 Prompt
+
+```
+เหล่า Minions กำลังร้องขอความช่วยเหลือ และพวกเขากำลังจะไปช่วยพวกมันให้รอดพ้นจากยักษ์ใจร้าย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093793227941806080/img/eQ1rn-MloK5yinPS.jpg" width="600" alt="วิดีโอปฏิบัติการช่วยเหลือเหล่า Minions">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10071)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2093793244345717016) | **Published:** Aug 29, 2026
+
+---
+### ถังทรงกระบอกสเตนเลสขนาดมหึมา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำอธิบายโดยละเอียดของถังทรงกระบอกอุตสาหกรรมขนาดใหญ่ที่ตั้งอยู่กลางแจ้งในพื้นที่ภูมิทัศน์
+
+#### 📝 Prompt
+
+```
+ถังทรงกระบอกสเตนเลสขนาดมหึมา กว้าง 9 เมตร และยาว 69 เมตร ตั้งว่างเปล่าอยู่บนพื้นดินสีส้มข้างเนินหญ้าทางด้านขวาของเฟรม โดยทอดยาวไปทั่วพื้นที่โล่งด้วยเส้นผ่านศูนย์กลางสูง 30 ฟุต ซึ่งมีความสูงเท่ากับเนินหญ้าดังกล่าว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093787519196274688/img/5MJnFuThi5oYrsAB.jpg" width="600" alt="ถังทรงกระบอกสเตนเลสขนาดมหึมา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10073)**
+
+**Author:** [🐕‍🦺Ðoge✝️Cherball🚀](https://x.com/DogeCherball) | **Source:** [Link](https://x.com/DogeCherball/status/2093787576817619304) | **Published:** Aug 29, 2026
+
+---
+### แอนิเมชันรูปปั้นสฟิงซ์หมุน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับสร้างวิดีโอจากภาพนิ่ง เพื่อทำแอนิเมชันรูปปั้นสฟิงซ์ด้วยการเคลื่อนที่ของกล้องแบบหมุน
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอโดยใช้ภาพสฟิงซ์นี้ โดยให้กล้องหมุนจากซ้ายไปขวาและกลับมาที่เดิม
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093778597387345920/img/iNSdAIFXJoexgyUM.jpg" width="600" alt="แอนิเมชันรูปปั้นสฟิงซ์หมุน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10075)**
+
+**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2093778613443170455) | **Published:** Aug 29, 2026
+
+---
+### เทพธิดาผมแดงพลังแห่งจักรวาล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ภาพโคลสอัพสไตล์ภาพยนตร์ของหญิงสาวผมแดงที่มีลวดลายจักรวาลเรืองแสงลอยอยู่ในสภาวะไร้น้ำหนัก
+
+#### 📝 Prompt
+
+```
+ภาพโคลสอัพสไตล์ภาพยนตร์ของหญิงสาวสวยที่มีผมสีแดงสดสลวยลอยอยู่ในสภาวะไร้น้ำหนัก ศีรษะเอียงไปด้านหลัง หลับตาพริ้มด้วยความเคลิบเคลิ้ม ลวดลายสีทองเรืองแสงที่ซับซ้อนคล้ายศิลปะคินสึงิหรือเส้นเลือดหลอมเหลวปกคลุมใบหน้า ลำคอ และหน้าอกของเธอ เธอถูกห่อหุ้มด้วยพลังงานโปร่งแสงสีรุ้งที่ดูเหมือนผ้าไหมเหลวในเฉดสีม่วง นกเป็ดน้ำ ทอง และสีรุ้ง ฉากหลังเป็นห้วงอวกาศลึกที่เต็มไปด้วยดวงดาว อนุภาคจักรวาลหลากสีสัน และเอฟเฟกต์โบเก้นุ่มนวล ภาพสมจริงเสมือนถ่ายจากกล้อง ความงามแบบเทพธิดาที่ดูเหนือจริง ผิวพรรณเปล่งประกาย เส้นผมและริบบิ้นพลังงานเคลื่อนไหวอย่างช้าๆ และพริ้วไหว อัตราส่วน 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093558641895124992/img/ovbP3RucFdUhRbBy.jpg" width="600" alt="เทพธิดาผมแดงพลังแห่งจักรวาล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10078)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2093768143072055711) | **Published:** Aug 29, 2026
+
+---
+### ปูเต้นเบรกแดนซ์ประกอบเพลงแทรป
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์พลังงานสูงของปูที่กำลังเต้นเบรกแดนซ์เข้าจังหวะกับเพลงแทรป พร้อมมุมกล้องและการเคลื่อนไหวที่ดูมีชีวิตชีวา
+
+#### 📝 Prompt
+
+```
+ปูกำลังเต้นเบรกแดนซ์และหมุนตัวบนกระดองอย่างสุดเหวี่ยง ขาและก้ามขยับไปมาอย่างพร้อมเพรียงเข้ากับจังหวะเพลงแทรปแรปหนักๆ สไตล์ 2 Chainz มีการหมุนตัวต่อเนื่องและท่าหยุดนิ่ง มุมกล้องต่ำแบบไดนามิก สโลว์...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093699054563643393/img/sLoYR9ib3MzFtTNv.jpg" width="600" alt="ปูเต้นเบรกแดนซ์ประกอบเพลงแทรป">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10082)**
+
+**Author:** [Paul Buks](https://x.com/BukurPaul) | **Source:** [Link](https://x.com/BukurPaul/status/2093699085345726537) | **Published:** Aug 29, 2026
+
+---
+### วิดีโอตัวอักษรชีสเยิ้มในบรรยากาศพระอาทิตย์ตกริมหาด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสุดสร้างสรรค์สำหรับการสร้างข้อความที่มีสไตล์ด้วยเอฟเฟกต์ไล่เฉดสีพระอาทิตย์ตก โดยมีธีมเป็นบรรยากาศพระอาทิตย์ตกริมชายหาดและชีสเยิ้มบนแผ่นตอร์ติญ่าชิป
+
+#### 📝 Prompt
+
+```
+ปรับแต่งตัวอักษรด้วยโทนสีส้มแดงเข้มแบบพระอาทิตย์ตก โดยให้ข้อความสื่อถึงพระอาทิตย์ตกริมชายหาด และชีสเยิ้มบนแผ่นตอร์ติญ่าชิป
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093613181478535168/img/9Hy7H3Wq1IaEwRTK.jpg" width="600" alt="วิดีโอตัวอักษรชีสเยิ้มในบรรยากาศพระอาทิตย์ตกริมหาด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10081)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2093613199237259699) | **Published:** Aug 29, 2026
+
+---
+### สถิติสนามแข่งของ Valentino Rossi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์การแข่งรถที่นำเสนอ Valentino Rossi บนรถมอเตอร์ไซค์ Ducati Streetfighter R ที่สนาม Nürburgring
+
+#### 📝 Prompt
+
+```
+VALENTINO ROSSI ขึ้นขี่ Ducati Streetfighter R รุ่นแต่งใหม่ล่าสุดและทำลายสถิติสนาม Nürburgring - ROSSI คือที่สุด
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093492695650164736/img/_9dU6QiY4NYtRXsR.jpg" width="600" alt="สถิติสนามแข่งของ Valentino Rossi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10074)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2093492954321293507) | **Published:** Aug 29, 2026
+
+---
 ### แอนิเมชันเรื่องราวของสุนัขผู้เศร้าสร้อย
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -818,7 +1103,7 @@ Why use our gallery?
 สวนสไตล์อิมเพรสชันนิสต์ท่ามกลางแสงแดด ที่มีความสมจริงและดูเหมือนภาพวาดสีน้ำมันที่ยังเปียกอยู่: แสงสีทองครีมหนาตา สีเขียวที่ดูเหมือนรอยป้ายสี และดวงอาทิตย์ที่เป็นจุดแต้มสีสดใสที่ยังไม่แห้ง ลูกเป็ดตัวน้อยในชุดจิตรกรยุคปลายศตวรรษที่ 19 สวมหมวกฟางใบใหญ่เกินตัว กำลังยืนอยู่ที่ขาตั้งวาดภาพขนาดจิ๋วบนพื้นหญ้า และตั้งใจวาดภาพดวงอาทิตย์ลงบนผืนผ้าใบเล็กๆ นั้น ดอกทานตะวันแบบอิมปาสโต (Impasto) พื้นผิวผ้าใบที่ปรากฏบนทางเดิน และเกรนฟิล์มสไตล์ยุค 1990 แนวคิดหนึ่งคือดวงอาทิตย์ยังคงดูเปียกชื้น เช่นเดียวกับภาพวาดที่กำลังทำอยู่ สวยงามและดูน่ารักน่าเอ็นดู
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787828425376_09i2gr_HQpScBhWQAAYNxT.jpg" width="600" alt="ลูกเป็ดจิตรกรในสวนสไตล์อิมเพรสชันนิสต์">
+<img src="https://cms-assets.youmind.com/media/1788077778220_6iaw4d_HQpScBhWQAAYNxT.jpg" width="600" alt="ลูกเป็ดจิตรกรในสวนสไตล์อิมเพรสชันนิสต์">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
 
@@ -1855,303 +2140,6 @@ Nero กำลังสีไวโอลินขณะที่กรุงโ
 **Author:** [danailama](https://x.com/danai_lama) | **Source:** [Link](https://x.com/danai_lama/status/2090558298533593235) | **Published:** Aug 20, 2026
 
 ---
-### วิดีโอไลฟ์สไตล์การถ่ายภาพ Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอที่สมจริงแสดงภาพผู้คนกำลังถ่ายรูป Cybertruck ด้วย iPhone ของพวกเขา
-
-#### 📝 Prompt
-
-```
-9:16 {argument name="id" default="@cab971fa-ffd8-4cd7-acc9-bef31d04bd68"} กำลังถ่ายภาพ Cybertruck ด้วย iPhone ของเธอ และคนอื่นๆ ที่กำลังถ่ายภาพอยู่เช่นกัน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090522760468369408/img/3rgIVoWRpQ6YVTxY.jpg" width="600" alt="วิดีโอไลฟ์สไตล์การถ่ายภาพ Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9568)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **Published:** Aug 20, 2026
-
----
-### แอนิเมชันฉากการพบกันของโอดิสซูสและนาวสิกาที่ชายหาด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์บรรยายรายละเอียดฉากโอดิสซูสถูกซัดขึ้นฝั่งที่เกาะสเคเรียและการพบกันครั้งแรกกับนาวสิกา พร้อมรายละเอียดแอนิเมชันในรูปแบบภาพยนตร์
-
-#### 📝 Prompt
-
-```
-โอดิสซูสล่องลอยอยู่บนแพเป็นเวลาหลายวันหลังจากออกจากเกาะของคาลิปโซ พายุที่โพไซดอนสร้างขึ้นได้ทำลายแพของเขาจนหมดสิ้น เขาว่ายน้ำจนหมดแรงและถูกซัดขึ้นฝั่งในสภาพหมดสติที่ชายหาดของเกาะสเคเรีย ซึ่งเป็นเกาะของชาวฟีเชียน เมื่อเขาฟื้นคืนสติบนชายหาดในสภาพที่เหนื่อยล้าและเต็มไปด้วยสาหร่าย นาวสิกาที่ตอนแรกตกใจกลัวได้ถอยห่างออกไป แต่แล้วเธอก็ยอมรับฟังเขา เธอตัดสินใจที่จะช่วยเหลือและชี้ทางไปยังพระราชวังให้แก่เขา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090462831195914240/img/QC_iaRhu8OjWcEJL.jpg" width="600" alt="แอนิเมชันฉากการพบกันของโอดิสซูสและนาวสิกาที่ชายหาด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9634)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2090463969496518702) | **Published:** Aug 20, 2026
-
----
-### วิดีโอสเก็ตช์ Thor Thursday
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการแปลงวิดีโอที่ปรับเปลี่ยนภาพสเก็ตช์สีให้มีข้อความสีเขียวมรกตและค้อนของ Thor ในสภาพแวดล้อมที่เต็มไปด้วยคริสตัล
-
-#### 📝 Prompt
-
-```
-คงภาพสเก็ตช์สีเดิมไว้ แต่เพิ่มตัวอักษรสีเขียวมรกตคำว่า “HAVE A THOR THURSDAY GUYS from Timothy” และเพิ่มค้อน THOR ไว้ที่พื้นหลังท่ามกลางคริสตัลและโครงสร้างสีทอง โดยให้มีภาพฉันกำลังหัวเราะและยิ้มแย้มอยู่ด้วย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090416323352227840/img/v9LOpsVH4RKd-Zjk.jpg" width="600" alt="วิดีโอสเก็ตช์ Thor Thursday">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9564)**
-
-**Author:** [Timothy the Observer🧲🧲🧲](https://x.com/Observer__369) | **Source:** [Link](https://x.com/Observer__369/status/2090416372928991252) | **Published:** Aug 20, 2026
-
----
-### ทูตสวรรค์แห่งความมืดเหนือมหาสมุทรที่มืดมิด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สุดดราม่าที่แสดงภาพทูตสวรรค์แห่งความมืดบินต่ำเหนือเกลียวคลื่น พร้อมเอฟเฟกต์แสงสะท้อนบนผิวน้ำที่สมจริง
-
-#### 📝 Prompt
-
-```
-ทูตสวรรค์แห่งความมืดบินต่ำเหนือมหาสมุทรที่มืดมิดในแสงยามเช้า โดยมีเงาสะท้อนของทูตสวรรค์ปรากฏอยู่บนผิวน้ำท่ามกลางเกลียวคลื่นที่ซัดสาด
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090404923997626368/img/p04nCyZwHZ1tkKuV.jpg" width="600" alt="ทูตสวรรค์แห่งความมืดเหนือมหาสมุทรที่มืดมิด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9570)**
-
-**Author:** [Zakalwe](https://x.com/ElZakalwe) | **Source:** [Link](https://x.com/ElZakalwe/status/2090404972064371076) | **Published:** Aug 20, 2026
-
----
-### การเปลี่ยนฉากแบบซูมเข้าหน้าปัดนาฬิกา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) ระดับมืออาชีพที่ใช้รูปภาพอ้างอิง 2 รูป เพื่อสร้างการเปลี่ยนฉากแบบซูมจากภาพคนถือนาฬิกาเข้าไปที่หน้าปัดนาฬิกาอย่างสวยงาม
-
-#### 📝 Prompt
-
-```
-ใช้รูปภาพที่ฉันถือนาฬิกาอยู่ แล้วสร้างวิดีโอที่กล้องซูมเข้าไปที่หน้าปัดนาฬิกา โดยให้เห็นภาพหน้าปัดนาฬิกาจากรูปที่สอง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090402217274519552/img/hLTnVUwJyc0RFESQ.jpg" width="600" alt="การเปลี่ยนฉากแบบซูมเข้าหน้าปัดนาฬิกา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9569)**
-
-**Author:** [BunkerDweller](https://x.com/ElonsBlueBird) | **Source:** [Link](https://x.com/ElonsBlueBird/status/2090402231405150658) | **Published:** Aug 20, 2026
-
----
-### เทพีอโฟรไดท์ผู้สง่างามและผีเสื้อ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สร้างวิดีโอที่เปล่งประกายและดูเหนือจริงของเทพีอโฟรไดท์ขณะที่มีผีเสื้อบินเข้ามาหา
-
-#### 📝 Prompt
-
-```
-เทพีอโฟรไดท์ผู้สง่างามและเปล่งประกาย ในขณะที่ผีเสื้อตัวหนึ่งบินเข้ามาหาเทพีแห่งความงาม
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090395253643546624/img/r0Vv71hVFnWtqu0j.jpg" width="600" alt="เทพีอโฟรไดท์ผู้สง่างามและผีเสื้อ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9571)**
-
-**Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2090395296123453698) | **Published:** Aug 20, 2026
-
----
-### ขับรถเลียบชายฝั่งท่ามกลางสายฝนยามค่ำคืน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ภาพแนวภาพยนตร์และบรรยากาศสำหรับฉาก lo-fi ยามค่ำคืน ที่มีรถยนต์สีดำบนถนนเลียบชายฝั่งพร้อมแสงสะท้อนจากสายฝนในช่วงรุ่งสาง
-
-#### 📝 Prompt
-
-```
-ฝนตกตอนเที่ยงคืน, รถยนต์สีดำที่ว่างเปล่า, ถนนเลียบชายฝั่ง, แสงสะท้อน และแสงแรกก่อนรุ่งสาง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089976752764231681/img/ex_ZvRjPpa1rc4Fe.jpg" width="600" alt="ขับรถเลียบชายฝั่งท่ามกลางสายฝนยามค่ำคืน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9755)**
-
-**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2089976937913462996) | **Published:** Aug 19, 2026
-
----
-### วิดีโอเซลฟี่พูดคุยยามเช้า
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์คุณภาพสูงสำหรับวิดีโอแนวตั้งสไตล์เซลฟี่ ที่ถ่ายทอดกิจวัตรยามเช้าของผู้หญิงในห้องน้ำ โดยเน้นความสวยงามที่เป็นธรรมชาติและดูสงบ
-
-#### 📝 Prompt
-
-```
-การตั้งค่าทั่วไป:
-วิดีโอสั้นแนวตั้ง 9:16 สไตล์วิดีโอเซลฟี่ ตัวเอกเป็นผู้หญิงวัยผู้ใหญ่สวมใส่ [Image 2] จาก [Image 1] ผมยาวสลวยเป็นธรรมชาติ ถือโทรศัพท์ด้วยมือซ้ายเพื่อถ่ายหน้ากระจก ห้องน้ำปูกระเบื้องสีเทา แสงยามเช้าสีขาวอมฟ้าอ่อนๆ กระจกสะอาด พื้นผิววิดีโอแบบเซลฟี่จากมือถือที่สมจริง มีการสั่นไหวเล็กน้อยจากการถือด้วยมือ และการขยับปากที่ตรงกับเสียงอย่างแม่นยำ
-สไตล์โดยรวม:
-ความมั่นใจยามเช้าที่ดูดี มีวุฒิภาวะ ผ่อนคลาย สง่างาม เหมือนการพูดคุยกับตัวเองในยามเช้าแบบภาพยนตร์ ตัวเอกเพิ่งตื่นนอนแต่มีสภาวะที่มั่นคง แววตาแจ่มใส สีหน้าอ่อนโยน และมีการเคลื่อนไหวที่เป็นธรรมชาติและสำรวม ไม่มีการจงใจยั่วยวน ไม่มีการกระทำที่หยาบคาย เน้นการแสดงออกถึง 'ความมั่นใจ ความสงบ สภาวะจิตใจที่ดี และวันนี้จะเป็นวันที่ยอดเยี่ยม'
-การกระทำและท่าทาง:
-ตัวเอกยืนอยู่หน้ากระจก ไหล่ผ่อนคลายอย่างเป็นธรรมชาติ ร่างกายหันเข้าหากระจกเล็กน้อย จัดแต่งทรงผมเบาๆ สลับกับการมองตัวเองในกระจกและมองกล้องโทรศัพท์ มือขวาวางบนหน้าอกเบาๆ เพื่อแสดงถึงการยืนยันในตัวเอง จากนั้นผายมือออกอย่างเป็นธรรมชาติ ราวกับเป็นการส่งต่อพลังงานที่ดีให้กับวันใหม่ การเคลื่อนไหวเล็กน้อย ดูสง่างาม ผ่อนคลาย และสมจริง คำสำคัญของพื้นหลัง:
-ส่วนที่ 1 0:00-0:15
-ฉากหน้า:
-ตัวเอกถ่ายเซลฟี่ด้วยมือซ้าย จัดแต่งทรงผมเบาๆ ด้วยมือขวา เปลี่ยนสายตาจากกระจกมาที่กล้องแล้วยิ้มเล็กน้อย เสียงของเธอเบาแต่หนักแน่น เหมือนเป็นการเตือนใจตัวเองอย่างอ่อนโยนเมื่อตื่นนอน
-
-ไม่มีดนตรีประกอบหรือมีเสียงบรรยากาศที่เบามาก มีเสียงก้องในห้องน้ำเล็กน้อย เสียงเสียดสีของเสื้อผ้า และเสียงการสั่นไหวของโทรศัพท์ที่เป็นธรรมชาติ
-สิ่งที่ควรหลีกเลี่ยง:
-การยั่วยวนที่หยาบคาย การกระทำทางเพศ ความโป๊เปลือย การเลียริมฝีปากที่ดูเกินจริง การบิดเอวมากเกินไป สัดส่วนร่างกายผิดเพี้ยน ใบหน้าเปลี่ยนไป เสื้อผ้าเปลี่ยนไป โทรศัพท์หายไป ตัวละครในกระจกไม่สอดคล้องกัน คำบรรยายที่อ่านไม่ออก ลายน้ำ และตัวละครเสริม
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089920974015680512/img/Xe3tNU_TLm1xaUA_.jpg" width="600" alt="วิดีโอเซลฟี่พูดคุยยามเช้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9474)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2089921747407552927) | **Published:** Aug 19, 2026
-
----
-### Odysseus และสุนัข Argos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงบรรยายที่ถ่ายทอดช่วงเวลาอันน่าประทับใจเมื่อ Odysseus ได้รับการจดจำจาก Argos สุนัขของเขา
-
-#### 📝 Prompt
-
-```
-Odysseus เดินทางกลับมายัง Ithaca ในคราบของขอทาน Argos สุนัขที่ถูกทอดทิ้งของเขาซึ่งเฝ้ารอเจ้านายมานานถึง 20 ปี ได้จดจำเขาได้ มันกระดิกหางด้วยความดีใจก่อนจะสิ้นใจลงในทันที...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089909243168079872/img/C_SvHln99CY5Ly_X.jpg" width="600" alt="Odysseus และสุนัข Argos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9472)**
-
-**Author:** [James Woodard](https://x.com/QuantumBikerX) | **Source:** [Link](https://x.com/QuantumBikerX/status/2089909272033251822) | **Published:** Aug 19, 2026
-
----
-### ลำดับภาพแสงไฟในถ้ำไซคลอปส์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่บรรยายถึงการเคลื่อนกล้องแบบดอลลี่ช้า ๆ ผ่านถ้ำที่มีควันและแสงไฟสลัว พร้อมบรรยากาศที่ดูหนักแน่นและเก่าแก่
-
-#### 📝 Prompt
-
-```
-เคลื่อนกล้องแบบดอลลี่อินช้า ๆ ผ่านควันหนาและแสงไฟที่วูบวาบเข้าไปในถ้ำไซคลอปส์อันกว้างใหญ่ มีสะเก็ดไฟลอยผ่านหน้ากล้อง ภาพเคลื่อนลึกลงไปผ่านผนังหินขรุขระมุ่งหน้าสู่กองไฟที่ส่องสว่างอยู่ตรงกลาง บรรยากาศดูหนักแน่น เก่าแก่ และตึงเครียด ไม่มีบทสนทนา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089902537872994304/img/iTJZ4LVUx7T5KiOW.jpg" width="600" alt="ลำดับภาพแสงไฟในถ้ำไซคลอปส์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9573)**
-
-**Author:** [High](https://x.com/Hightv) | **Source:** [Link](https://x.com/Hightv/status/2089902855566328177) | **Published:** Aug 19, 2026
-
----
-### ตัวอย่างภาพยนตร์เรื่อง Odyssey
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมท์สำหรับการใช้งานจริงเพื่อสร้างตัวอย่างภาพยนตร์ความยาว 15 วินาทีที่สมจริง โดยสรุปเนื้อเรื่องของ Odyssey
-
-#### 📝 Prompt
-
-```
-เนื้อเรื่องของ Odyssey ในรูปแบบตัวอย่างภาพยนตร์เรื่อง Odyssey ทำให้ดูสมจริงเป็นภาษาอังกฤษ และตรวจสอบให้แน่ใจว่าชื่อเรื่องปรากฏขึ้นในช่วงท้าย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089895513369825280/img/6FijAqPFa7zAPtQM.jpg" width="600" alt="ตัวอย่างภาพยนตร์เรื่อง Odyssey">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9473)**
-
-**Author:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **Source:** [Link](https://x.com/DrJGiddensRN/status/2089895538422423771) | **Published:** Aug 19, 2026
-
----
-### ข้อความแห่งความสุขจากตัวละครพูดได้
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่ตัวละครชายส่งข้อความเชิงบวกเกี่ยวกับการค้นพบจุดยืนที่ดีกว่า พร้อมปิดท้ายด้วยท่าทางยกนิ้วโป้ง
-
-#### 📝 Prompt
-
-```
-ให้ภาพตัวละครชายพูดด้วยน้ำเสียงที่อ่อนโยนและเปี่ยมไปด้วยความรักว่า: “อย่าลืมมีความสุขนะ ผมหวังว่าคุณจะพบจุดยืนที่ดีกว่า... จุดยืนที่สูงขึ้นกว่าเดิม” จากนั้นให้เขาทำท่าทางยกนิ้วโป้ง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089865756381229056/img/cHkaaOswUms_nf8d.jpg" width="600" alt="ข้อความแห่งความสุขจากตัวละครพูดได้">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9466)**
-
-**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2089865785774870784) | **Published:** Aug 19, 2026
-
----
-### มุมกล้องแบบ Scenic Orbit
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์แนวภาพยนตร์ที่แสดงภาพหญิงสาวกำลังมองทิวทัศน์อันยิ่งใหญ่ พร้อมการเคลื่อนที่ของกล้องแบบหมุนวนช้าๆ และเอฟเฟกต์สายลม
-
-#### 📝 Prompt
-
-```
-หญิงสาวกำลังจ้องมองทิวทัศน์อันกว้างใหญ่ไพศาลด้วยความรู้สึกถึงความยิ่งใหญ่ของธรรมชาติ กล้องค่อยๆ ถอยห่างออกไปพร้อมกับการหมุนวนรอบตัวหญิงสาว สายลมพัดอ่อนๆ ทำให้เสื้อผ้าและเส้นผมของเธอปลิวไสว
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089847137815429120/img/-2eePH4RnpUpkgxi.jpg" width="600" alt="มุมกล้องแบบ Scenic Orbit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9475)**
-
-**Author:** [Saposhi](https://x.com/Saposhin_AI) | **Source:** [Link](https://x.com/Saposhin_AI/status/2089847152986169773) | **Published:** Aug 18, 2026
-
----
-### การปล่อยจรวด SpaceX พร้อมกัน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงภาพยนตร์สำหรับการสร้างภาพจรวด SpaceX สองลำที่กำลังปล่อยตัวพร้อมกันจาก Starbase
-
-#### 📝 Prompt
-
-```
-จรวดสองลำที่แยกจากกัน ลำหนึ่งสำหรับ Emperor Kekius Maximus และอีกลำสำหรับ Prometheus ซึ่งถูกปล่อยตัวพร้อมกันโดย SpaceX จาก Starbase
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089836784800632832/img/SOrzrpwsLnJdWbAw.jpg" width="600" alt="การปล่อยจรวด SpaceX พร้อมกัน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9572)**
-
-**Author:** [Emperor of the Memes](https://x.com/Emp_Kek_Max) | **Source:** [Link](https://x.com/Emp_Kek_Max/status/2089840426152759610) | **Published:** Aug 18, 2026
-
----
-### แอนิเมชัน Care Bear ชูนิ้วกลาง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างวิดีโอที่ท้าทาย โดยให้ตัวละคร Care Bear แสดงท่าทางที่ไม่เหมาะสมและไม่เป็นไปตามแบบฉบับดั้งเดิม
-
-#### 📝 Prompt
-
-```
-ช่วยสร้างวิดีโอตัวละคร Care Bear ที่มีนิ้วกลางอยู่ตรงกลางหน้าท้องของ Care Bear ให้หน่อย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089836887934447616/img/lEom-EY5_liX_IE6.jpg" width="600" alt="แอนิเมชัน Care Bear ชูนิ้วกลาง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9468)**
-
-**Author:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **Source:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **Published:** Aug 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2213,6 +2201,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-30T05:08:15.283Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-30T14:00:07.306Z</sub>
 
 </div>

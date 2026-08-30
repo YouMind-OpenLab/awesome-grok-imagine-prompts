@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2633** |
+| 📝 Total Prompts | **2648** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-30** |
 
@@ -189,6 +189,291 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### पौराणिक देवियों के सर्कल डांस का वीडियो प्रॉम्प्ट
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> पौराणिक देवियों के एक क्रम का वर्णन करने वाला एक विस्तृत वीडियो प्रॉम्प्ट: डायना गहरे जंगल में जानवरों के साथ खेल रही है, आर्टेमिस चाँद के नीचे वीणा के साथ गा रही है, और पर्सफ़ोन चक्रों का गीत गाते हुए दूतों का शोक मना रही है। रहस्यमय और गंभीर सिनेमाई वातावरण।
+
+#### 📝 Prompt
+
+```
+देवी डायना गहरे जंगल में जानवरों के साथ अठखेलियाँ कर रही है। दृश्य बदलकर रात की चांदनी की देवी आर्टेमिस पर आता है, जो एक गीत गा रही है और वीणा की धुन से नींद ला रही है; रक्त की देवी पर्सफ़ोन, दूतों का शोक मना रही है; देवियाँ चक्रों का गीत गाना जारी रखती हैं, 15 मिनट का वीडियो जिसमें इतालवी भाषा में गायन और संगीत है, रहस्यमय और गंभीर।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093970430604488704/img/dUneXzq8ksJk4Tyo.jpg" width="600" alt="पौराणिक देवियों के सर्कल डांस का वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10083)**
+
+**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2093970466688180492) | **Published:** Aug 30, 2026
+
+---
+### क्षय होते कमरे में कॉस्मिक टीवी विस्फोट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक क्षय होते कमरे में CRT टेलीविजन पर कॉस्मिक विस्फोट देख रही महिला के लिए एक अत्यधिक विस्तृत सिनेमैटिक प्रॉम्प्ट
+
+#### 📝 Prompt
+
+```
+एक अंधेरे, क्षय होते कमरे में बैठी एक युवती का सिनेमैटिक साइड प्रोफाइल, मेसी बन, मोटे भूरे रंग का बुना हुआ स्वेटर पहने हुए, एक पुराने CRT टेलीविजन को घूर रही है। टीवी स्क्रीन सियान, सुनहरे, बैंगनी और नारंगी ऊर्जा के एक जीवंत कॉस्मिक विस्फोट के साथ चमक रही है, विस्फोट के केंद्र में एक छोटी आकृति दिखाई दे रही है। उखड़ी हुई प्लास्टर वाली दीवारें, धूल भरी लकड़ी की ड्रेसर, टूटी हुई खिड़की, एकमात्र रोशनी टेलीविजन से आ रही है जो उसके चेहरे को रोशन कर रही है। फोटो-रियलिस्टिक, मूडी वातावरण, स्क्रीन से हल्की टिमटिमाहट, हवा में धूल के कण, 16:9।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093559444944883712/img/ImQJUypW1fqM0XPD.jpg" width="600" alt="क्षय होते कमरे में कॉस्मिक टीवी विस्फोट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10076)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2093858740567220413) | **Published:** Aug 30, 2026
+
+---
+### डायनामिक ट्रिप्टिक गॉडेसेस कैमरा स्वैप्स वीडियो प्रॉम्प्ट
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> पौराणिक पात्रों आर्टेमिस (Artemis), डायना (Diana) और प्रोसेरपिना (Proserpina) के 3-वे स्प्लिट पैनल लेआउट वाला एक वीडियो जनरेशन प्रॉम्प्ट, जो ट्रांज़िशन के दौरान प्रत्येक सेक्शन पर कैमरा क्लोज़-अप करने का स्पष्ट निर्देश देता है।
+
+#### 📝 Prompt
+
+```
+आर्टेमिस, रात का समय, चंद्रमा के मंदिर में वीणा बजाते हुए; डायना, गहरा जंगल, भेड़िया, हिरण, अपना धनुष थामे हुए; प्रोसेरपिना, पाताल लोक, लोगों की शांति की कामना करते हुए, उनके संबंधित रूप, तीन-भाग वाली स्प्लिट स्क्रीन, रहस्यमयी, प्रत्येक आइटम पर क्लोज़-अप के साथ स्क्रीन स्विच होती है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093849686881005569/img/tGkbjPi8yy6G8fE2.jpg" width="600" alt="डायनामिक ट्रिप्टिक गॉडेसेस कैमरा स्वैप्स वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10084)**
+
+**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2093849707751882793) | **Published:** Aug 29, 2026
+
+---
+### बायोल्यूमिनेसेंट वेव ब्लूम
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई प्रॉम्प्ट जो लहर के शिखर पर खिलती हुई बैंगनी चमक का वर्णन करता है, जो धीरे-धीरे अंधेरे में विलीन हो जाती है
+
+#### 📝 Prompt
+
+```
+यह बस खुलता है, और बैंगनी रोशनी लहर के शिखर पर ऐसे खिलती है जैसे किसी ने पानी के नीचे माचिस जलाई हो। यह तीन लंबे सेकंड तक बनी रहती है, और फिर वापस अंधेरे में विलीन हो जाती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093842536888401920/img/Q0ORcHCfoRSmQJuG.jpg" width="600" alt="बायोल्यूमिनेसेंट वेव ब्लूम">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10072)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093842983485354025) | **Published:** Aug 29, 2026
+
+---
+### जैव-दीप्तिमान समुद्री लहरें
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> नीले-हरे जैव-दीप्तिमान (bioluminescent) लहरों का एक जीवंत संवेदी विवरण, जो पानी में जुगनू की तरह दिखाई देती हैं।
+
+#### 📝 Prompt
+
+```
+जैव-दीप्तिमान लहरें — हाँ, यह बिल्कुल वही जगह है। जब पानी पर्याप्त गर्म होता है, तो लहरें हर बार टकराने पर नीले-हरे रंग में चमक उठती हैं, जैसे समुद्र में जुगनू सांस ले रहे हों।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093839190999904257/img/8X2oSPPclHPXQl83.jpg" width="600" alt="जैव-दीप्तिमान समुद्री लहरें">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10077)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093840804871606418) | **Published:** Aug 29, 2026
+
+---
+### 360 डिग्री ऑर्बिट टाइमलैप्स
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक तकनीकी वीडियो प्रॉम्प्ट जिसमें लॉन्ग एक्सपोज़र मोशन ब्लर और किसी विषय के चारों ओर 360-डिग्री कैमरा ऑर्बिट शामिल है।
+
+#### 📝 Prompt
+
+```
+वह अपनी जगह पर खड़ा है, लोग उसके आसपास लॉन्ग एक्सपोज़र के साथ टाइम लैप्स और मोशन ब्लर में गुजर रहे हैं, साथ ही पुश-इन डॉली हैंडहेल्ड कैमरा मोशन है, और कैमरा उसके शरीर के चारों ओर 360 डिग्री घूम रहा है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093840475153125376/img/aojsCP-3YxTfkBEc.jpg" width="600" alt="360 डिग्री ऑर्बिट टाइमलैप्स">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10080)**
+
+**Author:** [AZIZ | AI 🇸🇦](https://x.com/aziz4ai) | **Source:** [Link](https://x.com/aziz4ai/status/2093840506379755808) | **Published:** Aug 29, 2026
+
+---
+### नन्हे बच्चे की विंटेज पियानो के साथ पहली खोज
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक दिल को छू लेने वाला, होम-वीडियो स्टाइल का दृश्य, जिसमें 2 साल का बच्चा शुद्ध आनंद और संगीत की खोज के साथ एक विंटेज पियानो को एक्सप्लोर कर रहा है।
+
+#### 📝 Prompt
+
+```
+एक दिल को छू लेने वाले होम-वीडियो स्टाइल में, एक खुशमिजाज बच्चा विंटेज पियानो पर संगीत की खोज कर रहा है। घुंघराले काले बालों, चमकती आँखों और एक बड़ी मुस्कान वाला एक प्यारा 2 साल का लड़का, जिसने सफेद टी-शर्ट और डायपर पहना है, बेज रंग की बेंच पर बैठा है। वह धीरे से पियानो की कुंजियों को दबाता है...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093817673129795584/img/Gmtw8EsMRvfmwr1D.jpg" width="600" alt="नन्हे बच्चे की विंटेज पियानो के साथ पहली खोज">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10070)**
+
+**Author:** [Sandra Leig](https://x.com/Sleig) | **Source:** [Link](https://x.com/Sleig/status/2093817691404443699) | **Published:** Aug 29, 2026
+
+---
+### गोथिक एनीमे क्रिस्टल मून सिनेमैटिक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> नीले चाँद के नीचे तैरते हुए क्रिस्टल से घिरी जीवंत बालों वाली एक गोथिक एनीमे महिला का सिनेमैटिक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक सुंदर एनीमे महिला का सिनेमैटिक पोर्ट्रेट, जिसके लंबे सीधे बाल जीवंत गुलाबी से बैंगनी ग्रेडिएंट में हैं और माथे पर ब्लंट बैंग्स हैं, चमकती बैंगनी आँखें, आत्मविश्वास से भरा चेहरा। उसने हार्नेस स्ट्रैप्स, मेटल रिंग्स, चेन और लंबे दस्तानों के साथ चमकदार काले लेदर का गोथिक आउटफिट पहना है। उसके चारों ओर गहरे काल्पनिक रात के आकाश में बड़े नुकीले तैरते हुए बैंगनी क्रिस्टल के टुकड़े हैं और पीछे एक विशाल चमकता हुआ नीला चाँद है। नाटकीय बैंगनी और नीली लाइटिंग, हाई-फैशन डार्क फैंटेसी एस्थेटिक, धीरे-धीरे तैरते क्रिस्टल, हल्के हिलते बाल, 16:9।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093558947961868288/img/rVVMgMrvO8Qb0S6w.jpg" width="600" alt="गोथिक एनीमे क्रिस्टल मून सिनेमैटिक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10079)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2093798342484529272) | **Published:** Aug 29, 2026
+
+---
+### Minions रेस्क्यू ऑपरेशन वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो कार्टून पात्रों को एक विशाल दुश्मन के खिलाफ मदद के लिए पुकारते हुए दर्शाता है।
+
+#### 📝 Prompt
+
+```
+Minions मदद के लिए पुकार रहे हैं और वे उन्हें दुष्ट राक्षस से बचाने जा रहे हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093793227941806080/img/eQ1rn-MloK5yinPS.jpg" width="600" alt="Minions रेस्क्यू ऑपरेशन वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10071)**
+
+**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2093793244345717016) | **Published:** Aug 29, 2026
+
+---
+### विशाल स्टेनलेस स्टील सिलेंडर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> बाहरी परिदृश्य में स्थित एक बड़े औद्योगिक सिलेंडर का विस्तृत विवरण
+
+#### 📝 Prompt
+
+```
+9 मीटर चौड़ा और 69 मीटर लंबा एक विशाल स्टेनलेस-स्टील सिलेंडर, फ्रेम के दाईं ओर घास के टीले के ठीक बगल में नारंगी मिट्टी पर खाली पड़ा है। यह खुले मैदान में फैला हुआ है और इसका 30-फुट का व्यास घास के टीले की ऊंचाई के बराबर है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093787519196274688/img/5MJnFuThi5oYrsAB.jpg" width="600" alt="विशाल स्टेनलेस स्टील सिलेंडर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10073)**
+
+**Author:** [🐕‍🦺Ðoge✝️Cherball🚀](https://x.com/DogeCherball) | **Source:** [Link](https://x.com/DogeCherball/status/2093787576817619304) | **Published:** Aug 29, 2026
+
+---
+### घूमते हुए स्फिंक्स (Sphinx) का एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक इमेज-टू-वीडियो प्रॉम्प्ट, जो स्फिंक्स की मूर्ति को घूमते हुए कैमरे के मूवमेंट के साथ एनिमेट करता है
+
+#### 📝 Prompt
+
+```
+इस स्फिंक्स वाली इमेज का उपयोग करके एक वीडियो बनाएं, जिसमें कैमरा बाएं से दाएं और वापस घूम रहा हो
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093778597387345920/img/iNSdAIFXJoexgyUM.jpg" width="600" alt="घूमते हुए स्फिंक्स (Sphinx) का एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10075)**
+
+**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2093778613443170455) | **Published:** Aug 29, 2026
+
+---
+### कॉस्मिक एनर्जी रेड हेयर गॉडेस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> शून्य गुरुत्वाकर्षण में तैरते हुए लाल बालों और चमकते कॉस्मिक पैटर्न वाली एक महिला का सिनेमाई क्लोज-अप।
+
+#### 📝 Prompt
+
+```
+शून्य गुरुत्वाकर्षण में तैरते हुए लंबे, लहराते जीवंत लाल बालों वाली एक सुंदर महिला का सिनेमाई क्लोज-अप, सिर पीछे की ओर झुका हुआ, आंखें परमानंद में बंद हैं। किन्त्सुगी या पिघली हुई नसों की तरह जटिल चमकते सुनहरे दरार वाले पैटर्न उसके चेहरे, गर्दन और छाती को ढके हुए हैं। वह बैंगनी, टील, सुनहरे और इंद्रधनुषी रंगों में तरल रेशम जैसी दिखने वाली इंद्रधनुषी पारभासी बहती ऊर्जा में लिपटी हुई है। तारों, रंगीन कॉस्मिक कणों और सॉफ्ट बोकेह से भरा गहरा अंतरिक्ष बैकग्राउंड। फोटो-रियलिस्टिक, अलौकिक देवी सौंदर्य, चमकदार त्वचा, बाल और ऊर्जा के रिबन धीरे-धीरे और तरल रूप से हिल रहे हैं, 16:9।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093558641895124992/img/ovbP3RucFdUhRbBy.jpg" width="600" alt="कॉस्मिक एनर्जी रेड हेयर गॉडेस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10078)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2093768143072055711) | **Published:** Aug 29, 2026
+
+---
+### ट्रैप बीट पर ब्रेकडांस करता केकड़ा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक उच्च-ऊर्जा वाला वीडियो प्रॉम्प्ट जिसमें एक केकड़ा ट्रैप म्यूज़िक बीट के साथ तालमेल बिठाकर ब्रेकडांस मूव्स कर रहा है, जिसमें डायनामिक कैमरा एंगल और मोशन शामिल हैं।
+
+#### 📝 Prompt
+
+```
+केकड़ा ब्रेकडांस कर रहा है और अपनी ऊपरी खोल पर पूरी ऊर्जा के साथ घूम रहा है, उसके पैर और पंजे एक दमदार 2 Chainz स्टाइल ट्रैप रैप बीट के साथ पूरी तरह से तालमेल में हिल रहे हैं, लगातार घूमना और फ्रीज़िंग मूव्स, डायनामिक लो-एंगल कैमरा, स्लो...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093699054563643393/img/sLoYR9ib3MzFtTNv.jpg" width="600" alt="ट्रैप बीट पर ब्रेकडांस करता केकड़ा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10082)**
+
+**Author:** [Paul Buks](https://x.com/BukurPaul) | **Source:** [Link](https://x.com/BukurPaul/status/2093699085345726537) | **Published:** Aug 29, 2026
+
+---
+### सनसेट बीच मेल्टेड चीज़ टाइपोग्राफी वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक रचनात्मक वीडियो प्रॉम्प्ट जो सनसेट ग्रेडिएंट प्रभाव के साथ स्टाइलिश टेक्स्ट जेनरेट करता है, जिसकी थीम बीच सनसेट और टॉर्टिला चिप्स पर पिघली हुई चीज़ पर आधारित है।
+
+#### 📝 Prompt
+
+```
+इस प्रकार के लिए गहरा लाल-नारंगी सनसेट ग्रेडिएंट लेटरिंग एडिट, जिसमें बीच पर सनसेट और टॉर्टिला चिप्स पर पिघली हुई चीज़ दिखाई गई है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093613181478535168/img/9Hy7H3Wq1IaEwRTK.jpg" width="600" alt="सनसेट बीच मेल्टेड चीज़ टाइपोग्राफी वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10081)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2093613199237259699) | **Published:** Aug 29, 2026
+
+---
+### Valentino Rossi का ट्रैक रिकॉर्ड
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Nürburgring में Ducati Streetfighter R पर Valentino Rossi को दर्शाने वाला एक रेसिंग वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+VALENTINO ROSSI नई Ducati Streetfighter R पर सवार होकर Nürburgring ट्रैक रिकॉर्ड तोड़ते हैं - ROSSI का जलवा
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093492695650164736/img/_9dU6QiY4NYtRXsR.jpg" width="600" alt="Valentino Rossi का ट्रैक रिकॉर्ड">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10074)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2093492954321293507) | **Published:** Aug 29, 2026
+
+---
 ### उदास कुत्ते की कहानी का एनीमेशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -818,7 +1103,7 @@ Lori का सपना जो 27 अगस्त को प्रसिद्�
 धूप से खिला हुआ एक इंप्रेशनिस्ट बगीचा, जो एक ही समय में फोटो-रियलिस्टिक और गीले ऑयल पेंट जैसा दिखता है: गाढ़ी क्रीम-गोल्ड रोशनी, ऐसी हरियाली जिसे आप फैला सकें, और सूरज खुद एक चमकदार गीला धब्बा जो अभी सूखा नहीं है। 1800 के दशक के अंत के पेंटर का एप्रन और अपनी जरूरत से बड़ी स्ट्रॉ हैट पहने एक छोटा सा बत्तख का बच्चा, घास में एक छोटे से ईज़ल पर खड़ा होकर बड़ी गंभीरता से उस सूरज को एक छोटे कैनवास पर पेंट कर रहा है। इम्पैस्टो सूरजमुखी, रास्ते में कैनवास का टेक्सचर, 1990 के दशक का फिल्मी ग्रेन। एक विचार: सूरज अभी भी गीला है, और पेंटिंग भी। सुंदर और थोड़ी मजाकिया।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1787828425376_09i2gr_HQpScBhWQAAYNxT.jpg" width="600" alt="इंप्रेशनिस्ट गार्डन डकलिंग पेंटर">
+<img src="https://cms-assets.youmind.com/media/1788077778220_6iaw4d_HQpScBhWQAAYNxT.jpg" width="600" alt="इंप्रेशनिस्ट गार्डन डकलिंग पेंटर">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
 
@@ -1852,303 +2137,6 @@ Met में रात के समय रेड कार्पेट इव�
 **Author:** [danailama](https://x.com/danai_lama) | **Source:** [Link](https://x.com/danai_lama/status/2090558298533593235) | **Published:** Aug 20, 2026
 
 ---
-### Cybertruck लाइफस्टाइल फोटोग्राफी वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक यथार्थवादी वीडियो प्रॉम्प्ट जिसमें लोग अपने iPhone का उपयोग करके Cybertruck की तस्वीरें ले रहे हैं।
-
-#### 📝 Prompt
-
-```
-9:16 {argument name="id" default="@cab971fa-ffd8-4cd7-acc9-bef31d04bd68"} अपने iPhone से Cybertruck की तस्वीरें ले रही है और अन्य लोग भी तस्वीरें ले रहे हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090522760468369408/img/3rgIVoWRpQ6YVTxY.jpg" width="600" alt="Cybertruck लाइफस्टाइल फोटोग्राफी वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9568)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090522868496892285) | **Published:** Aug 20, 2026
-
----
-### ओडिसियस और नौसिका का समुद्र तट पर मिलन एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ओडिसियस के स्केरिया के तट पर बहकर आने और नौसिका के साथ उसकी पहली मुलाकात को दर्शाने वाला एक विस्तृत नैरेटिव प्रॉम्प्ट, जिसमें सिनेमाई एनीमेशन विवरण शामिल हैं।
-
-#### 📝 Prompt
-
-```
-कैलिप्सो के द्वीप को छोड़ने के बाद ओडिसियस ने कई दिन एक बेड़े पर बहते हुए बिताए। पोसीडॉन द्वारा उठाए गए एक तूफान ने उसके बेड़े को नष्ट कर दिया। वह तब तक तैरता रहा जब तक कि वह पूरी तरह से थक नहीं गया और बेहोशी की हालत में फेएसियन लोगों के द्वीप, स्केरिया के समुद्र तट पर आ गिरा। थकान से चूर और समुद्री शैवाल से ढका हुआ, वह समुद्र तट पर होश में आता है। नौसिका, जो शुरू में डर जाती है, पीछे हटती है लेकिन फिर उसकी बात सुनती है। वह उसकी मदद करने का फैसला करती है और उसे महल का रास्ता दिखाती है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090462831195914240/img/QC_iaRhu8OjWcEJL.jpg" width="600" alt="ओडिसियस और नौसिका का समुद्र तट पर मिलन एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9634)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2090463969496518702) | **Published:** Aug 20, 2026
-
----
-### Thor Thursday वीडियो स्केच
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो ट्रांसफॉर्मेशन प्रॉम्प्ट जो कलर स्केच को बदलकर उसमें पन्ना हरे (emerald green) रंग के टेक्स्ट और क्रिस्टलीय वातावरण में थॉर के हथौड़े को शामिल करता है।
-
-#### 📝 Prompt
-
-```
-मूल कलर स्केच को वैसा ही रखें, लेकिन उसमें पन्ना हरे (emerald green) अक्षरों में “HAVE A THOR THURSDAY GUYS from Timothy “ लिखें, साथ ही बैकग्राउंड में क्रिस्टल और सुनहरी संरचनाओं के साथ एक थॉर का हथौड़ा (THOR HAMMER) जोड़ें, जिसमें मैं हंसते और मुस्कुराते हुए दिखूं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090416323352227840/img/v9LOpsVH4RKd-Zjk.jpg" width="600" alt="Thor Thursday वीडियो स्केच">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9564)**
-
-**Author:** [Timothy the Observer🧲🧲🧲](https://x.com/Observer__369) | **Source:** [Link](https://x.com/Observer__369/status/2090416372928991252) | **Published:** Aug 20, 2026
-
----
-### धुंधले समुद्र के ऊपर डार्क एंजेल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक नाटकीय वीडियो प्रॉम्प्ट जिसमें एक डार्क एंजेल को यथार्थवादी जल प्रतिबिंबों के साथ टकराती लहरों के ऊपर कम ऊंचाई पर उड़ते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-सुबह की हल्की रोशनी में एक डार्क एंजेल धुंधले समुद्र के ऊपर कम ऊंचाई पर उड़ रहा है। टकराती लहरों के बीच पानी पर उसका प्रतिबिंब दिखाई दे रहा है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090404923997626368/img/p04nCyZwHZ1tkKuV.jpg" width="600" alt="धुंधले समुद्र के ऊपर डार्क एंजेल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9570)**
-
-**Author:** [Zakalwe](https://x.com/ElZakalwe) | **Source:** [Link](https://x.com/ElZakalwe/status/2090404972064371076) | **Published:** Aug 20, 2026
-
----
-### वॉच फेस ज़ूम ट्रांज़िशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> दो संदर्भ छवियों (reference images) का उपयोग करके एक परिष्कृत प्रॉम्प्ट, जो घड़ी पकड़े हुए व्यक्ति से घड़ी के डायल (watch face) तक एक प्रोफेशनल ज़ूम ट्रांज़िशन बनाता है।
-
-#### 📝 Prompt
-
-```
-मेरी घड़ी पकड़े हुए तस्वीर लें और एक ऐसा वीडियो बनाएं जिसमें कैमरा घड़ी के डायल की ओर ज़ूम करे और आपको दूसरी तस्वीर में घड़ी के डायल की छवि दिखाई दे।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090402217274519552/img/hLTnVUwJyc0RFESQ.jpg" width="600" alt="वॉच फेस ज़ूम ट्रांज़िशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9569)**
-
-**Author:** [BunkerDweller](https://x.com/ElonsBlueBird) | **Source:** [Link](https://x.com/ElonsBlueBird/status/2090402231405150658) | **Published:** Aug 20, 2026
-
----
-### अलौकिक एफ़्रोडाइट और तितली
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> देवी एफ़्रोडाइट का एक शानदार और अलौकिक वीडियो बनाता है जिसमें एक तितली उनके पास आती है।
-
-#### 📝 Prompt
-
-```
-अलौकिक और तेजस्वी एफ़्रोडाइट, जैसे ही एक तितली सुंदरता की देवी के पास पहुँचती है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090395253643546624/img/r0Vv71hVFnWtqu0j.jpg" width="600" alt="अलौकिक एफ़्रोडाइट और तितली">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9571)**
-
-**Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2090395296123453698) | **Published:** Aug 20, 2026
-
----
-### मिडनाइट रेन कोस्टल ड्राइव
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> लो-फाई मिडनाइट सीन के लिए एक सिनेमैटिक और एटमॉस्फेरिक विजुअल प्रॉम्प्ट, जिसमें भोर के समय बारिश के रिफ्लेक्शन के साथ तटीय सड़कों पर एक काली कार दिखाई गई है।
-
-#### 📝 Prompt
-
-```
-आधी रात की बारिश, एक खाली काली कार, तटीय सड़कें, रिफ्लेक्शन, और भोर से पहले की पहली रोशनी
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089976752764231681/img/ex_ZvRjPpa1rc4Fe.jpg" width="600" alt="मिडनाइट रेन कोस्टल ड्राइव">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9755)**
-
-**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2089976937913462996) | **Published:** Aug 19, 2026
-
----
-### मॉर्निंग सेल्फी वीडियो मोनोलॉग
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> एक महिला की सुबह की दिनचर्या को दर्शाते हुए वर्टिकल सेल्फी-स्टाइल वीडियो के लिए एक परिष्कृत प्रॉम्प्ट, जो प्राकृतिक और शांत सौंदर्य पर जोर देता है।
-
-#### 📝 Prompt
-
-```
-सामान्य सेटिंग:
-9:16 वर्टिकल शॉर्ट वीडियो, सेल्फी वीडियो स्टाइल। [Image 1] से [Image 2] पहने हुए वयस्क महिला मुख्य पात्र, लंबे बाल स्वाभाविक रूप से खुले हुए, बाएं हाथ में फोन लिए हुए दर्पण के सामने फिल्मांकन कर रही है। ग्रे टाइल वाला बाथरूम, हल्की ठंडी सफेद सुबह की रोशनी, साफ दर्पण, यथार्थवादी मोबाइल सेल्फी टेक्सचर, हल्का हैंडहेल्ड शेक, सटीक लिप-सिंकिंग।
-कुल मिलाकर शैली:
-परिष्कृत सुबह का आत्मविश्वास, परिपक्व, शांत, सुरुचिपूर्ण, एक सिनेमाई सुबह के मोनोलॉग की तरह। मुख्य पात्र अभी सोकर उठी है लेकिन स्थिर स्थिति में है, साफ आंखें, सौम्य अभिव्यक्ति और स्वाभाविक, संयमित हरकतें। कोई जानबूझकर छेड़छाड़ नहीं, कोई अश्लील हरकत नहीं, 'आत्मविश्वास, संयम, अच्छी स्थिति, आज का दिन शानदार होगा' व्यक्त करने पर ध्यान केंद्रित।
-क्रिया और मुद्रा:
-मुख्य पात्र दर्पण के सामने खड़ी है, कंधे स्वाभाविक रूप से आराम की स्थिति में, शरीर थोड़ा दर्पण की ओर मुड़ा हुआ, धीरे से अपने बालों को ठीक कर रही है, कभी-कभी दर्पण में खुद को देख रही है, फिर फोन के कैमरे में देख रही है। उसका दाहिना हाथ आत्म-पुष्टि व्यक्त करने के लिए धीरे से उसकी छाती पर रखा है, फिर स्वाभाविक रूप से बाहर की ओर खुलता है, जैसे कि दिन को अच्छी स्थिति सौंप रही हो। छोटी हरकतें, सुरुचिपूर्ण, आरामदेह और वास्तविक। बैकग्राउंड कीवर्ड:
-सेक्शन 1 0:00-0:15
-फोरग्राउंड:
-मुख्य पात्र अपने बाएं हाथ से सेल्फी ले रही है, दाहिने हाथ से धीरे से अपने बालों को ठीक करती है, अपनी नजर दर्पण से कैमरे की ओर ले जाती है और थोड़ा मुस्कुराती है। उसकी आवाज धीमी लेकिन दृढ़ है, जैसे जागने पर खुद को दी गई एक बहुत ही सौम्य याद।
-
-कोई संगीत नहीं या बेहद धीमी एम्बिएंट साउंड, हल्की बाथरूम गूंज, कपड़े रगड़ने की आवाजें, और फोन हिलने की प्राकृतिक आवाजें मौजूद हैं।
-बचें:
-अश्लील छेड़छाड़, कामुक हरकतें, नग्नता, होंठ चाटने की अतिरंजित हरकतें, कमर को अत्यधिक मरोड़ना, शरीर के अनुपात में विकृति, चेहरे में बदलाव, कपड़ों में बदलाव, फोन का गायब होना, दर्पण में असंगत पात्र, अस्पष्ट सबटाइटल, वॉटरमार्क, अतिरिक्त पात्र।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089920974015680512/img/Xe3tNU_TLm1xaUA_.jpg" width="600" alt="मॉर्निंग सेल्फी वीडियो मोनोलॉग">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9474)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2089921747407552927) | **Published:** Aug 19, 2026
-
----
-### ओडिसियस और कुत्ता आर्गोस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक नैरेटिव वीडियो प्रॉम्प्ट जो उस भावनात्मक क्षण को दर्शाता है जब ओडिसियस को उसका कुत्ता आर्गोस पहचान लेता है।
-
-#### 📝 Prompt
-
-```
-ओडिसियस एक भिखारी के वेश में इथाका लौटता है। उसका उपेक्षित शिकारी कुत्ता, आर्गोस, जिसने बीस वर्षों तक अपने मालिक का इंतज़ार किया था, उसे पहचान लेता है, अपनी पूंछ हिलाता है और तुरंत मर जाता है....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089909243168079872/img/C_SvHln99CY5Ly_X.jpg" width="600" alt="ओडिसियस और कुत्ता आर्गोस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9472)**
-
-**Author:** [James Woodard](https://x.com/QuantumBikerX) | **Source:** [Link](https://x.com/QuantumBikerX/status/2089909272033251822) | **Published:** Aug 19, 2026
-
----
-### Cyclops Cave Firelight Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई वीडियो प्रॉम्प्ट जो धुएँ से भरी, आग की रोशनी वाली गुफा के माध्यम से धीमी डॉली मूवमेंट और एक भारी, प्राचीन वातावरण का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-घने धुएँ और टिमटिमाती आग की रोशनी के बीच से Cyclops गुफा के विशाल विस्तार में धीमी डॉली-इन मूवमेंट। अंगारे कैमरे के पास से गुजर रहे हैं। शॉट खुरदरी चट्टानी दीवारों से आगे बढ़कर चमकती हुई केंद्रीय आग की ओर बढ़ता है। भारी, प्राचीन और तनावपूर्ण वातावरण। कोई संवाद नहीं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089902537872994304/img/iTJZ4LVUx7T5KiOW.jpg" width="600" alt="Cyclops Cave Firelight Sequence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9573)**
-
-**Author:** [High](https://x.com/Hightv) | **Source:** [Link](https://x.com/Hightv/status/2089902855566328177) | **Published:** Aug 19, 2026
-
----
-### Odyssey मूवी ट्रेलर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Odyssey की कहानी का सारांश देते हुए 15 सेकंड का यथार्थवादी मूवी ट्रेलर बनाने के लिए एक कार्यात्मक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-Odyssey की कहानी को एक मूवी ट्रेलर के रूप में तैयार करें। इसे अंग्रेजी में यथार्थवादी (realistic) बनाएं। सुनिश्चित करें कि अंत में शीर्षक (title) दिखाई दे।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089895513369825280/img/6FijAqPFa7zAPtQM.jpg" width="600" alt="Odyssey मूवी ट्रेलर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9473)**
-
-**Author:** [Dr. Jessica Giddens DNP (nurse)](https://x.com/DrJGiddensRN) | **Source:** [Link](https://x.com/DrJGiddensRN/status/2089895538422423771) | **Published:** Aug 19, 2026
-
----
-### बात करने वाले पात्र का सुखद संदेश
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जिसमें एक पुरुष पात्र ऊंचे स्थान को खोजने के बारे में एक सकारात्मक संदेश देता है और उसके बाद थम्स-अप का इशारा करता है।
-
-#### 📝 Prompt
-
-```
-पुरुष छवि को सौम्यता और प्यार से यह कहते हुए दिखाएं: "खुश रहना न भूलें। इसलिए, मुझे उम्मीद है कि आपको एक ऊंचा स्थान मिल गया है... एक ऊंचा स्थान।" फिर उसे थम्स-अप का इशारा करते हुए दिखाएं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089865756381229056/img/cHkaaOswUms_nf8d.jpg" width="600" alt="बात करने वाले पात्र का सुखद संदेश">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9466)**
-
-**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2089865785774870784) | **Published:** Aug 19, 2026
-
----
-### सीनिक ऑर्बिट कैमरा शॉट
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एक सिनेमैटिक प्रॉम्प्ट जिसमें एक महिला को एक विशाल परिदृश्य को देखते हुए दिखाया गया है, साथ ही धीमे ऑर्बिट कैमरा मूवमेंट और हवा के प्रभाव शामिल हैं।
-
-#### 📝 Prompt
-
-```
-एक महिला एक विशाल परिदृश्य को निहार रही है और उसकी भव्यता को महसूस कर रही है। कैमरा धीरे-धीरे पीछे हटता है और महिला के चारों ओर एक ऑर्बिट एंगल में घूमता है। एक हल्की हवा उसके कपड़ों और बालों को लहरा रही है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089847137815429120/img/-2eePH4RnpUpkgxi.jpg" width="600" alt="सीनिक ऑर्बिट कैमरा शॉट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9475)**
-
-**Author:** [Saposhi](https://x.com/Saposhin_AI) | **Source:** [Link](https://x.com/Saposhin_AI/status/2089847152986169773) | **Published:** Aug 18, 2026
-
----
-### एक साथ SpaceX रॉकेट लॉन्च
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Starbase से एक ही समय पर दो अलग-अलग SpaceX रॉकेट लॉन्च होने की कल्पना करने के लिए एक सिनेमैटिक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-दो अलग-अलग रॉकेट—एक सम्राट Kekius Maximus के लिए और दूसरा Prometheus के लिए—जिन्हें SpaceX द्वारा Starbase से एक साथ लॉन्च किया जा रहा है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089836784800632832/img/SOrzrpwsLnJdWbAw.jpg" width="600" alt="एक साथ SpaceX रॉकेट लॉन्च">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9572)**
-
-**Author:** [Emperor of the Memes](https://x.com/Emp_Kek_Max) | **Source:** [Link](https://x.com/Emp_Kek_Max/status/2089840426152759610) | **Published:** Aug 18, 2026
-
----
-### केयर बियर मिडिल फिंगर एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक उत्तेजक वीडियो प्रॉम्प्ट जिसमें एक केयर बियर कैरेक्टर से एक विशिष्ट, गैर-पारंपरिक इशारा करने का अनुरोध किया गया है।
-
-#### 📝 Prompt
-
-```
-मेरे लिए एक वीडियो जनरेट करें जिसमें एक केयर बियर हो और उसके पेट के बीच में मिडिल फिंगर का इशारा हो।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089836887934447616/img/lEom-EY5_liX_IE6.jpg" width="600" alt="केयर बियर मिडिल फिंगर एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9468)**
-
-**Author:** [Natalie M.Ulschak](https://x.com/NatalieMUle8) | **Source:** [Link](https://x.com/NatalieMUle8/status/2089836901817630962) | **Published:** Aug 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2210,6 +2198,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-30T05:08:17.726Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-30T14:00:10.490Z</sub>
 
 </div>
