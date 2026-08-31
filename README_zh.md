@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2648** |
+| 📝 提示词总数 | **2662** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-08-31** |
 
@@ -189,6 +189,235 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 电影级微缩救援场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于微缩世界救援任务的电影级视频提示词，包含精细的环境细节和逼真的动作。
+
+#### 📝 提示词
+
+```
+电影级微缩救援场景，设定在一个逼真的微型世界中，几名微缩工人正在紧急从困境中营救一个小人或小动物，精细的手工环境，逼真的动作，充满情感且治愈的氛围，戏剧性...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094299291691126784/img/a7Xs3JN4w6I2maWd.jpg" width="600" alt="电影级微缩救援场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10140)**
+
+**作者:** [Nicholas](https://x.com/Mud01185127) | **来源:** [Link](https://x.com/Mud01185127/status/2094299423258067039) | **发布时间:** Aug 31, 2026
+
+---
+### 电影感咖啡馆悬疑动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个先进的视频生成提示词，旨在将静态图像转化为 15 秒充满悬疑感的电影级序列，并具备精确的时序和角色动作。
+
+#### 📝 提示词
+
+```
+基于此图像创建一段 15 秒的写实电影感视频。保持女性的脸部特征、身份、发型、服装、珠宝、身体比例、咖啡馆内景、桌上物品、光影及构图不变。动画效果应呈现为真实的抓拍瞬间，而非时尚视频。0–3 秒：她安静地坐在咖啡桌前，神情放松，略显出神。手指靠近脸部。她自然地眨眼、轻微呼吸，长发随之微动。背景中，温暖的咖啡馆灯光和烛火自然闪烁。3–6 秒：桌上的手机突然震动并弹出通知。她听到声音后向下看，伸手拿起手机。6–9 秒：她解锁手机并阅读信息。表情从放松逐渐变为惊讶。她停顿片刻，重新阅读信息，双眼微微睁大。9–12 秒：她放下手机，看向咖啡馆入口，神情困惑且略显紧张，仿佛突然意识到附近有人。12–15 秒：她再次看向手机。屏幕上的信息写着：“我就在外面。别回头。”她的表情变得紧绷。她缓慢地看向窗户方向，而不是直接回头。在这一悬疑时刻结束。要求自然真实的表演、细微的面部表情、真实的眨眼、精准的手指动作、可信的手机交互、自然的头发物理效果、真实的织物运动、温暖精致的咖啡馆氛围、浅景深，以及非常细微的手持摄像机晃动。悬疑感需循序渐进。严禁夸张的反应、突兀的镜头移动、可见的发送者、额外角色、剪辑、脸部变形、服装改变，以及手部或手机的扭曲。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094274016601313280/img/tDJlh3HquBBgCAQp.jpg" width="600" alt="电影感咖啡馆悬疑动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10138)**
+
+**作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **来源:** [Link](https://x.com/iamahmedfaraz66/status/2094275234719502716) | **发布时间:** Aug 31, 2026
+
+---
+### 飞回德克萨斯州 Starbase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个侧重于运动的提示词，引导主体从水中升起并飞向德克萨斯州的特定地点。
+
+#### 📝 提示词
+
+```
+让它们两个从水中升起，并开始飞回德克萨斯州的 Starbase
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094268532582219776/img/qp1kB85ccqNPZjsU.jpg" width="600" alt="飞回德克萨斯州 Starbase">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10137)**
+
+**作者:** [🐕‍🦺Ðoge✝️Cherball🚀](https://x.com/DogeCherball) | **来源:** [Link](https://x.com/DogeCherball/status/2094268636663853142) | **发布时间:** Aug 31, 2026
+
+---
+### 巨型沙漠遗迹插画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词：一个巨大的机械头盔半埋在沙漠中，旁边有一位渺小的访客，采用绘本风格。
+
+#### 📝 提示词
+
+```
+宽幅电影感插画，描绘了一个巨大的风化白色机械头盔半埋在广袤的沙漠中，表面布满铆接金属板和锈迹，一个渺小的身影站在敞开的面罩内向里张望，底座周围堆积着浅色沙砾，远处是晴朗蓝天下的低矮山脉，绘本风格，线条干净，静谧的尺度感，超高细节，8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093880020808925184/img/5REPjuGQLeVh0-4m.jpg" width="600" alt="巨型沙漠遗迹插画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10141)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2094251326863736910) | **发布时间:** Aug 31, 2026
+
+---
+### 电影级飞行员紧张特写
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段充满张力的电影级视频提示词，描绘了处于受损驾驶舱内的女性飞行员，采用橙色调灯光及绘本风格。
+
+#### 📝 提示词
+
+```
+电影级紧张特写，画面中是一位身处破旧驾驶舱内的女性飞行员，她佩戴着裂开的黄色飞行头盔，护目镜碎裂遮住一只眼睛，脸上带有汗水和一道细微血迹，双眼专注圆睁，双唇微张，背景中的模拟仪表和时钟散发着温暖的橙色光芒，绘本插画风格，厚重的线条感，戏剧性的灯光，紧张的氛围，超高细节，8k 分辨率
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093879898020720640/img/mJlp1gFAFlwfjTpe.jpg" width="600" alt="电影级飞行员紧张特写">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10139)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2094221127719825542) | **发布时间:** Aug 31, 2026
+
+---
+### Tesla Optimus Cyber Taxi 到达
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满未来感的场景：Tesla Optimus 机器人乘坐 Cyber Taxi 到达并敲响前门。
+
+#### 📝 提示词
+
+```
+你全新的 Tesla Optimus 机器人乘坐 Cyber Taxi 🚕 到达，并敲响了你的前门……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094218594431143936/img/t4L5eUa2nj5aPFhe.jpg" width="600" alt="Tesla Optimus Cyber Taxi 到达">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10132)**
+
+**作者:** [Bones](https://x.com/MorePower2use) | **来源:** [Link](https://x.com/MorePower2use/status/2094218689952276679) | **发布时间:** Aug 31, 2026
+
+---
+### Tesla Optimus 工厂英雄视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个具有电影感、未来主义风格的落地页英雄区提示词，展示 Tesla Optimus 机器人穿过昏暗的工厂车间，伴有体积雾效果。
+
+#### 📝 提示词
+
+```
+Tesla Optimus 在工厂车间行走的落地页英雄区设计。深炭色至近黑色调。超大沉浸式摄影。温暖的铜色和琥珀色与冷青色及钢蓝色形成对比。柔和的体积雾。电影级对比度。精致的玻璃质感 UI。优雅的字体。非对称布局。充裕的留白。极致高端。未来感。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093898597893017600/img/9KGpmyCMtZAv63Wi.jpg" width="600" alt="Tesla Optimus 工厂英雄视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10134)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2094130530744959050) | **发布时间:** Aug 30, 2026
+
+---
+### 角色摘帽动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频提示词，描述角色摘下帽子并说出一句充满挑衅、坚毅的台词。
+
+#### 📝 提示词
+
+```
+将此图像制作成动画，角色摘下帽子并说道：“尽管说啊，混蛋，还是说你根本没那个胆量？大概没有吧。”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094053656836403200/img/n5Qt2KA-KsY5IuVp.jpg" width="600" alt="角色摘帽动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10131)**
+
+**作者:** [Marsha Bush](https://x.com/MarshaBush50) | **来源:** [Link](https://x.com/MarshaBush50/status/2094053671927484525) | **发布时间:** Aug 30, 2026
+
+---
+### 360 度环绕换装
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个技术性视频提示词，用于创建无缝的 360 度旋转效果，使主体在每次镜头循环时更换服装。
+
+#### 📝 提示词
+
+```
+摄像机以快节奏平滑地进行 360 度旋转，同时该男子的服装在每次镜头循环时发生变化。在每次旋转前，该男子打响指以切换到新服装。保持同一人物和姿势在原地不动，摄像机不停地进行 360 度旋转，唯一的变化是服装，延时摄影，无缝衔接。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094052255523639296/img/bpo_riyioik03HRS.jpg" width="600" alt="360 度环绕换装">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10143)**
+
+**作者:** [AZIZ | AI 🇸🇦](https://x.com/aziz4ai) | **来源:** [Link](https://x.com/aziz4ai/status/2094052366005723514) | **发布时间:** Aug 30, 2026
+
+---
+### 城墙上的中世纪贵族女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影级油画风格的视频提示词，描绘了一位身披黑金斗篷的贵族女性，正眺望着云层密布、阳光穿透的山谷。
+
+#### 📝 提示词
+
+```
+古典中世纪奇幻油画风格，一位留着深色长发的贵族女性站在高耸的石制城墙上，从侧后方视角拍摄，身穿一件在风中飘动的华丽黑金刺绣斗篷，正眺望着广阔的山谷，谷中蜿蜒着河流，森林茂密，远处可见一座城堡城市，戏剧性的风暴云层被金色的阳光穿透，笔触细腻，电影级构图，史诗氛围，超高细节，8k 分辨率
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093879783499464704/img/wM21diJcLNvTZ5P-.jpg" width="600" alt="城墙上的中世纪贵族女性">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10135)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2094039934650994982) | **发布时间:** Aug 30, 2026
+
+---
+### 保持一致的猴子街头动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个专注于保持猴子角色及其环境完美一致性的图生视频提示词。
+
+#### 📝 提示词
+
+```
+以这张图片为基准，在整个过程中保持猴子、面部、毛发、身体、服装、长椅、墙壁、商店橱窗、人行道、光照和摄像机角度完全一致。不要改变体型、物种、服装或背景。禁止变形。写实风格的街头场景...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094028641747218432/img/3jqwa_JFV0Zfv8yh.jpg" width="600" alt="保持一致的猴子街头动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10133)**
+
+**作者:** [Romeo_Blog’s](https://x.com/Romeo_Blogs001) | **来源:** [Link](https://x.com/Romeo_Blogs001/status/2094028742553149650) | **发布时间:** Aug 30, 2026
+
+---
+### 照片级写实风格猴子教堂纪录片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于创作慢节奏纪录片风格片段的照片级写实视频提示词，旨在让教堂中的猴子保持与参考图像一致的视觉细节。
+
+#### 📝 提示词
+
+```
+以这张图像为基准，在整个过程中保持猴子、面部、毛发、服装、圣经、墙壁、教堂、光影和摄像机角度的一致性。请勿更改身体、脸型、物种、装束或背景。
+照片级写实纪录片片段，安静且缓慢。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094001242640900096/img/mMprhCzIizL8ErtE.jpg" width="600" alt="照片级写实风格猴子教堂纪录片">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10142)**
+
+**作者:** [SHIDOFF DC🇳🇬🇦🇷🇪🇸](https://x.com/shidoff_dc2043) | **来源:** [Link](https://x.com/shidoff_dc2043/status/2094001284588208315) | **发布时间:** Aug 30, 2026
+
+---
 ### 神话女神环舞视频提示词
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -206,6 +435,27 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10083)**
 
 **作者:** [Apple](https://x.com/Apple0816799221) | **来源:** [Link](https://x.com/Apple0816799221/status/2093970466688180492) | **发布时间:** Aug 30, 2026
+
+---
+### Falcon Heavy 火箭发射
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段极具震撼力的视频提示词，捕捉了 Falcon Heavy 火箭发射时的轰鸣与张力。
+
+#### 📝 提示词
+
+```
+Falcon Heavy 发射
+人类希望的声响
+“引擎轰鸣，心跳加速。火箭在地球引力的边缘颤动 —— 只需一瞬，便将黑夜化为烈火……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093900201723375616/img/lWNzm4JEhuAX6sIf.jpg" width="600" alt="Falcon Heavy 火箭发射">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10136)**
+
+**作者:** [Marie](https://x.com/Marie8508319540) | **来源:** [Link](https://x.com/Marie8508319540/status/2093900217548509584) | **发布时间:** Aug 30, 2026
 
 ---
 ### 衰败房间里的宇宙电视爆炸
@@ -1363,6 +1613,25 @@ Rainbow Universe MsX 和 MrX 原型的电影感实景揭秘：人性化的友好
 **作者:** [Julio McCauley](https://x.com/CosmicJulioBro) | **来源:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **发布时间:** Aug 25, 2026
 
 ---
+### 奥德修斯爱犬 GoPro 视角场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影感 GoPro 风格的提示词，描述奥德修斯的爱犬在 20 年后认出他的场景。
+
+#### 📝 提示词
+
+```
+GoPro 风格场景：奥德修斯的爱犬在 20 年后瞬间认出了他，它们分享了最后一段记忆，随后爱犬离世。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091971984561192961/img/GypxhYYMpVP-335K.jpg" width="600" alt="奥德修斯爱犬 GoPro 视角场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10144)**
+
+**作者:** [Christopher Fryant](https://x.com/cfryant) | **来源:** [Link](https://x.com/cfryant/status/2091974814709829632) | **发布时间:** Aug 24, 2026
+
+---
 ### 飘逸丝巾艺术动画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1871,272 +2140,6 @@ Cybertruck 闪烁着车头灯，获胜者站上车顶，并用 16-bit 的录音�
 **作者:** [kyle smith](https://x.com/RadCyberTruck) | **来源:** [Link](https://x.com/RadCyberTruck/status/2090950263406227956) | **发布时间:** Aug 21, 2026
 
 ---
-### 车道缩减汇入
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频模拟提示词，展示了车辆在车道缩减场景中汇入交通流的过程。
-
-#### 📝 提示词
-
-```
-车道缩减指示车道，该车道的车辆随后汇入通行车道
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090873171868368896/img/e1LmBTWxpjTll7Qc.jpg" width="600" alt="车道缩减汇入">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9626)**
-
-**作者:** [Rocky Flores](https://x.com/maybeme8338o01) | **来源:** [Link](https://x.com/maybeme8338o01/status/2090873216747393211) | **发布时间:** Aug 21, 2026
-
----
-### Met Gala 夜间森林主题活动
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于视频生成的提示词，描绘 Met Gala 夜间红毯活动，包含树木和景观照明场景。
-
-#### 📝 提示词
-
-```
-Met Gala 夜间红毯活动，周围环绕着茂密的树木，配有景观照明，现场人群拥挤
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090819423099609088/img/6xwyET37FO-5_NOX.jpg" width="600" alt="Met Gala 夜间森林主题活动">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9633)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2090819440258490487) | **发布时间:** Aug 21, 2026
-
----
-### Tesla Cybercab 红毯亮相
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详细的视频提示词，描述了一辆金色 Tesla Cybercab 抵达红毯活动现场并自动开启车门的场景。
-
-#### 📝 提示词
-
-```
-金色的 Tesla Cybercab 刚刚驶入并平稳地停在红毯上。其蝶翼门自动向上并向外完全打开。一位身着闪亮黑色钻石亮片礼服的迷人女性优雅地从车内走出，踏上...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090816950385381377/img/jnIQhceZFCmj1lb9.jpg" width="600" alt="Tesla Cybercab 红毯亮相">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9629)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2090816984485085400) | **发布时间:** Aug 21, 2026
-
----
-### 暗影女王暗影漫步
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影级提示词，用于创作一段暗影女王行走时，阴影与黑暗向四周蔓延的视频。
-
-#### 📝 提示词
-
-```
-暗影女王正向我走来，阴影与黑暗在她周围蔓延
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090784552319143937/img/M3jnUjKaSAa463X0.jpg" width="600" alt="暗影女王暗影漫步">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9630)**
-
-**作者:** [David](https://x.com/Mmmm8x5mMmmm) | **来源:** [Link](https://x.com/Mmmm8x5mMmmm/status/2090784726068174879) | **发布时间:** Aug 21, 2026
-
----
-### 动漫风格太空战舰战斗场景
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个详细的电影级动漫风格提示词，描绘了一艘巨大的银色太空战舰在星际环境中进行史诗级战斗的场景。
-
-#### 📝 提示词
-
-```
-太空战舰 Kyoshi 的最终决战场景，动漫风格，高细节。在浩瀚的太空背景下，从斜上方视角可以看到一艘巨大的银色太空战舰“Kyoshi”。战舰外形厚重，让人联想到大和级战舰，舰首闪耀着金色的“京”字。左前方，一艘银色高速突击艇撞向敌方旗舰，引发了光芒四射的爆炸。紧邻其旁，一个化身为马的红色能量体发射出一道贯穿敌舰的光束。敌方舰队已陷入火海，碎片在太空中四散飞溅。从战舰的舰桥窗口，可以看到一位戴着眼镜的黑发年轻指挥官（后藤京）……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090680091122753536/img/GMKcGyQ-efed1tCm.jpg" width="600" alt="动漫风格太空战舰战斗场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9576)**
-
-**作者:** [後藤強士](https://x.com/rubensutsuyosi) | **来源:** [Link](https://x.com/rubensutsuyosi/status/2090680229329248377) | **发布时间:** Aug 21, 2026
-
----
-### 樱花和服剑舞
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个充满诗意的视频提示词：一位身着蓝色和服的女子挥舞着发光的长剑，在日式庭院中挥洒出形成文字的樱花。
-
-#### 📝 提示词
-
-```
-一位留着黑色长发的年轻女子身着蓝色和服，站在种满樱花树的日式庭院中。当她横向挥动手中那把散发着淡蓝色光芒的长剑时，无数樱花花瓣从剑身飞出，在她周围翩翩起舞，并汇聚成“感谢您今天的支持”字样。随后，花瓣向镜头方向飘散开来。
-```
-
-<img src="https://cms-assets.youmind.com/media/1787384997650_66coof_HQOKd7racAA2eg4.jpg" width="600" alt="樱花和服剑舞">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9575)**
-
-**作者:** [おもも桃](https://x.com/omomomomo0309) | **来源:** [Link](https://x.com/omomomomo0309/status/2090667452472688797) | **发布时间:** Aug 21, 2026
-
----
-### 尼禄拉小提琴火烧罗马视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个将尼禄神话与查理·丹尼尔斯 (Charlie Daniels) 拉小提琴风格相结合的视频提示词。
-
-#### 📝 提示词
-
-```
-尼禄在罗马大火中拉小提琴。以查理·丹尼尔斯 (Charlie Daniels) 的风格演奏《魔鬼去佐治亚州》(The Devil Went Down to Georgia)。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090654349298921473/img/_0vIwmroTpGn3cNp.jpg" width="600" alt="尼禄拉小提琴火烧罗马视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9566)**
-
-**作者:** [SERCOmustGO(Profile Pic) Cures Cancer](https://x.com/SERCObad) | **来源:** [Link](https://x.com/SERCObad/status/2090654372690534648) | **发布时间:** Aug 21, 2026
-
----
-### 木屋暴风雪写作场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词：一位男子在暴风雪之夜的深山木屋中，借着烛光撰写他的第一本书。
-
-#### 📝 提示词
-
-```
-场景设定在木屋中一间昏暗的方形房间里，唯一的光源是老式木桌上的一支蜡烛。窗外是深山中寒冷的暴风雪之夜。一名男子坐在书桌前，正在撰写他的第一本书。壁炉在背景中发出噼啪的燃烧声……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090635267078008832/img/edo7_Tv2rTo5kK5k.jpg" width="600" alt="木屋暴风雪写作场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9632)**
-
-**作者:** [Michael](https://x.com/MichaelOnXUSA) | **来源:** [Link](https://x.com/MichaelOnXUSA/status/2090635293577662604) | **发布时间:** Aug 21, 2026
-
----
-### 逼真的小狗睡衣自拍视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度详细的 Grok-imagine 提示词，用于创作一段逼真的第一人称小狗穿睡衣视频，捕捉其自然行为和温馨的居家环境。
-
-#### 📝 提示词
-
-```
-一只可爱的小狗穿着宽松休闲的睡衣，侧卧在小型出租公寓的矮床上，直视着主人举在它上方的手机前置摄像头；房间里充满二十多岁年轻人的生活气息——凌乱的米色棉质床单、几个朴素的枕头、背景中虚化的衣架和杂乱的小架子，右侧有一盏温暖的床头灯。小狗缓慢地眨着眼睛，尾巴轻轻摇动，此时屏幕外拿着手机的主人（未出镜）用韩语轻声说道：“안 자고 뭐 해（还不睡在干嘛）。”片刻后，小狗歪着头，耷拉着耳朵，像害羞一样呼出一口气，主人又用温暖的语气调侃道：“예쁜데 왜（长得这么好看，为什么不睡）。”突然，小狗把整张脸埋进旁边的枕头里，爪子抓紧枕头边缘，压出柔软的褶皱，对着枕头发出闷闷的、顽皮的呜咽声或轻柔的呼吸声。片刻后，它慢慢转过脸，先露出一只眼睛偷看，耷拉的耳朵有些凌乱，随后整张脸转向镜头；在画面正中，它轻轻舔了舔鼻子，微微张开嘴，露出快乐顽皮的小狗表情，同时主人用韩语说道：“그만 찍으라니까~（都说了别拍了~）”，它轻轻眨了一下眼睛，画面归于平静。采用第一人称手持自拍的连续镜头拍摄，画面随着主人的手臂呼吸感轻微晃动；保持小狗毛发的质感、湿润鼻头的反光以及胡须的锐利度，不使用任何美颜滤镜或磨皮，呈现出带有细微噪点的真实手机拍摄质感，以及非电影感的温暖室内光线。画面中始终只有一只小狗，持手机者保持在画外，不露面，画面中没有其他动物或人物，严禁生成参考图或复制主体。严格禁止添加字幕、屏幕文字、Logo 或水印。仅保留现场环境音：小型公寓内安静的背景音、柔软的床单摩擦声、小狗埋在枕头里发出的可爱闷声；画外女性的声音温暖而调皮，无背景音乐。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090631581887299584/img/4xZUv4rq9vEXAMHp.jpg" width="600" alt="逼真的小狗睡衣自拍视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9577)**
-
-**作者:** [고딩경제맨](https://x.com/winneravgwin) | **来源:** [Link](https://x.com/winneravgwin/status/2090631627844280421) | **发布时间:** Aug 21, 2026
-
----
-### 数据中心轮滑场发电
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段超现实的电影感视频提示词，描绘了一个充满未来感的数据中心，人们在一家经典餐厅旁的轮滑场通过滑冰来产生电力。
-
-#### 📝 提示词
-
-```
-一个数据中心轮滑场，人们在 Steak n Shake 餐厅旁滑冰，将集体能量转化为电力
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090629256116133888/img/vZOj4HyvF3Tt2gQq.jpg" width="600" alt="数据中心轮滑场发电">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9623)**
-
-**作者:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **来源:** [Link](https://x.com/AMERICA250e9/status/2090629295139860535) | **发布时间:** Aug 21, 2026
-
----
-### Twitch 主播 Cybertruck 游戏实况
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段模拟 Twitch 直播的视频提示词，画面中包含一位女性正在玩 Cybertruck 游戏的叠加窗口。
-
-#### 📝 提示词
-
-```
-一位女性正在 Twitch 上直播玩一款 Cybertruck 3D 游戏。画面中可以看到她在一个较小的叠加窗口中，谈论着 Cybertruck 虽然笨重但驾驶起来依然很有趣。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090624018608951296/img/5jIZUEIpXC2q_XBZ.jpg" width="600" alt="Twitch 主播 Cybertruck 游戏实况">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9567)**
-
-**作者:** [kyle smith](https://x.com/RadCyberTruck) | **来源:** [Link](https://x.com/RadCyberTruck/status/2090624078499512717) | **发布时间:** Aug 21, 2026
-
----
-### 葡萄牙语男士友好信息
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详细的视频提示词，要求一名男士以自然的巴西葡萄牙语口音，在车内传达一段积极的信息，并保持动作连贯。
-
-#### 📝 提示词
-
-```
-该男士面带微笑，用葡萄牙语（巴西口音）自然地说话，传达一段简短、友好且积极的信息，例如“Oi! Estou me sentindo muito bem hoje. Que dia incrível, né?”。保持车内背景、外观完全一致，以及自然的头部动作。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090608673697464321/img/XIkmOTOKm5JEpI6c.jpg" width="600" alt="葡萄牙语男士友好信息">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9624)**
-
-**作者:** [Vini](https://x.com/Vinil9t) | **来源:** [Link](https://x.com/Vinil9t/status/2090608698666160330) | **发布时间:** Aug 21, 2026
-
----
-### Aurora 赛博朋克追逐视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个使用符号代数定义的复杂提示词，用于构建包含悬浮摩托和 Aurora 7 单元的科幻追逐场景。
-
-#### 📝 提示词
-
-```
-[[🟩+🟪]+[[hoverbike+[🤖=👮‍♀️=unit_Aurora_7]]+[🎯_pursuit]+[glossy]+[🔈🔉🔊🔉🔈🚨]]
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090580112202768384/img/SQ-5s4IEznGOmMTR.jpg" width="600" alt="Aurora 赛博朋克追逐视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9625)**
-
-**作者:** [Elis Satu](https://x.com/astvatsaturn) | **来源:** [Link](https://x.com/astvatsaturn/status/2090580214120165872) | **发布时间:** Aug 20, 2026
-
----
-### 马格利特风格超现实主义敞篷车
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影级视频提示词，描述了一幅马格利特风格的超现实主义油画，画面中一对夫妇坐在复古敞篷车内，展现了 20 世纪 40 年代的特定时尚细节及沙漠景观。
-
-#### 📝 提示词
-
-```
-一幅马格利特风格的超现实主义油画，画面中一对夫妇坐在平坦沙漠景观中的复古橄榄绿色敞篷车内，背景是淡蓝色的天空和一道水平云层。女子戴着一顶超大号黑白格纹圆锥形帽子，顶部饰有珊瑚色绒球，佩戴黄色猫眼太阳镜、珍珠耳环，身穿淡粉色夹克，配有大号白色尖领和黑色纽扣。男子戴着一顶珊瑚色毡帽，帽顶凹陷，佩戴黄色长方形太阳镜，身穿米色高领毛衣和深色千鸟格西装外套，配有白色口袋巾。表情冷漠，呈现平滑的哑光绘画质感，具有 20 世纪 40 年代杂志写实风格。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090558281303433216/img/Wg6LxnjN_60CVMWj.jpg" width="600" alt="马格利特风格超现实主义敞篷车">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9565)**
-
-**作者:** [danailama](https://x.com/danai_lama) | **来源:** [Link](https://x.com/danai_lama/status/2090558298533593235) | **发布时间:** Aug 20, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2198,6 +2201,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-31T05:14:36.891Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-31T16:20:48.546Z</sub>
 
 </div>

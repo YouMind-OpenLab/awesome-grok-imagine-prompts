@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2648** |
+| 📝 Total Prompts | **2662** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-31** |
 
@@ -189,6 +189,235 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### सिनेमैटिक मिनिएचर रेस्क्यू सीन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मिनिएचर वर्ल्ड रेस्क्यू मिशन के लिए सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें विस्तृत वातावरण और यथार्थवादी गति शामिल है।
+
+#### 📝 Prompt
+
+```
+एक छोटी यथार्थवादी दुनिया में सिनेमैटिक मिनिएचर रेस्क्यू सीन, कई मिनिएचर वर्कर्स एक कठिन स्थिति से एक छोटे व्यक्ति/जानवर को बचाने की जल्दी में हैं, विस्तृत हस्तनिर्मित वातावरण, यथार्थवादी हरकतें, भावनात्मक लेकिन सुखद माहौल, ड्रामा...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094299291691126784/img/a7Xs3JN4w6I2maWd.jpg" width="600" alt="सिनेमैटिक मिनिएचर रेस्क्यू सीन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10140)**
+
+**Author:** [Nicholas](https://x.com/Mud01185127) | **Source:** [Link](https://x.com/Mud01185127/status/2094299423258067039) | **Published:** Aug 31, 2026
+
+---
+### सिनेमैटिक कैफ़े सस्पेंस एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक उन्नत वीडियो जनरेशन प्रॉम्प्ट जिसे एक स्थिर छवि को 15-सेकंड के सस्पेंस से भरपूर सिनेमैटिक सीक्वेंस में बदलने के लिए डिज़ाइन किया गया है, जिसमें सटीक टाइमिंग और पात्रों की क्रियाएं शामिल हैं।
+
+#### 📝 Prompt
+
+```
+इस सटीक छवि से एक फोटो-रियलिस्टिक सिनेमैटिक 15-सेकंड का वीडियो बनाएं। महिला का सटीक चेहरा, पहचान, हेयरस्टाइल, पहनावा, आभूषण, शरीर का अनुपात, कैफ़े का इंटीरियर, मेज पर रखी वस्तुएं, लाइटिंग और कंपोज़िशन को बरकरार रखें। एनिमेशन को फैशन वीडियो के बजाय एक वास्तविक कैंडिड पल जैसा महसूस कराएं। 0–3 सेकंड: वह कैफ़े की मेज पर चुपचाप बैठी है, शांत और थोड़ी खोई हुई। उसकी उंगलियां उसके चेहरे के पास हैं। वह स्वाभाविक रूप से पलकें झपकाती है, धीरे से सांस लेती है, और उसके लंबे बाल हल्के से हिलते हैं। बैकग्राउंड में कैफ़े की गर्म रोशनी और मोमबत्ती की लौ स्वाभाविक रूप से टिमटिमा रही है। 3–6 सेकंड: मेज पर रखा उसका फोन अचानक एक नोटिफिकेशन के साथ वाइब्रेट होता है। वह इसे सुनती है, नीचे देखती है, फोन की ओर हाथ बढ़ाती है और उसे उठा लेती है। 6–9 सेकंड: वह फोन अनलॉक करती है और मैसेज पढ़ती है। उसके चेहरे के भाव धीरे-धीरे शांत से हैरान होने वाले हो जाते हैं। वह एक पल के लिए हिलना बंद कर देती है, मैसेज को दोबारा पढ़ती है, और उसकी आंखें थोड़ी फैल जाती हैं। 9–12 सेकंड: वह फोन को थोड़ा नीचे करती है और कैफ़े के प्रवेश द्वार की ओर देखती है, भ्रमित और थोड़ी घबराई हुई, जैसे उसे अचानक एहसास हुआ हो कि कोई पास में है। 12–15 सेकंड: वह एक बार फिर फोन की ओर देखती है। स्क्रीन पर मैसेज लिखा है: “I'm outside. Don't look behind you.” उसके चेहरे के भाव तनावपूर्ण हो जाते हैं। वह पीछे मुड़ने के बजाय धीरे से खिड़की की ओर देखती है। इस सस्पेंस भरे पल पर समाप्त करें। स्वाभाविक यथार्थवादी अभिनय, सूक्ष्म चेहरे के भाव, यथार्थवादी पलक झपकना, सटीक हाथ और उंगलियों की हरकतें, विश्वसनीय फोन इंटरैक्शन, बालों की प्राकृतिक फिजिक्स, कपड़ों की यथार्थवादी हलचल, गर्म और परिष्कृत कैफ़े का माहौल, शैलो डेप्थ ऑफ फील्ड, बहुत ही सूक्ष्म हैंडहेल्ड कैमरा मूवमेंट। सस्पेंस को धीरे-धीरे बनाएं। कोई अतिरंजित प्रतिक्रिया नहीं, कोई अचानक कैमरा मूवमेंट नहीं, कोई दृश्य प्रेषक नहीं, कोई अतिरिक्त पात्र नहीं, कोई कट नहीं, चेहरे में कोई बदलाव नहीं, पहनावे में कोई बदलाव नहीं, हाथों या फोन में कोई विकृति नहीं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094274016601313280/img/tDJlh3HquBBgCAQp.jpg" width="600" alt="सिनेमैटिक कैफ़े सस्पेंस एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10138)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2094275234719502716) | **Published:** Aug 31, 2026
+
+---
+### Starbase Texas की ओर वापस उड़ान
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मोशन-केंद्रित प्रॉम्प्ट जो विषयों को पानी से ऊपर उठने और टेक्सास में एक विशिष्ट स्थान की ओर उड़ान भरने का निर्देश देता है।
+
+#### 📝 Prompt
+
+```
+उन दोनों को पानी से ऊपर उठने दें और Starbase, Texas की ओर वापस उड़ान भरना शुरू करें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094268532582219776/img/qp1kB85ccqNPZjsU.jpg" width="600" alt="Starbase Texas की ओर वापस उड़ान">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10137)**
+
+**Author:** [🐕‍🦺Ðoge✝️Cherball🚀](https://x.com/DogeCherball) | **Source:** [Link](https://x.com/DogeCherball/status/2094268636663853142) | **Published:** Aug 31, 2026
+
+---
+### विशाल रेगिस्तानी अवशेष का चित्रण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ग्राफिक उपन्यास शैली में, रेगिस्तान में दबे एक विशाल यांत्रिक हेलमेट और एक छोटे आगंतुक का सिनेमाई वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक विशाल रेगिस्तान में आधे दबे हुए एक विशाल, पुराने सफेद यांत्रिक हेलमेट का विस्तृत सिनेमाई चित्रण, जिसमें रिवेट की गई धातु की प्लेटें और जंग के निशान हैं, हेलमेट के खुले वाइज़र के अंदर खड़ा एक अकेला छोटा व्यक्ति जो अंदर की ओर देख रहा है, आधार के चारों ओर जमा पीली रेत, साफ नीले आकाश के नीचे दूर स्थित छोटे पहाड़, ग्राफिक उपन्यास शैली, साफ रेखांकन, शांत पैमाना, अति विस्तृत, 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093880020808925184/img/5REPjuGQLeVh0-4m.jpg" width="600" alt="विशाल रेगिस्तानी अवशेष का चित्रण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10141)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094251326863736910) | **Published:** Aug 31, 2026
+
+---
+### सिनेमैटिक पायलट टेंशन क्लोज़-अप
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक क्षतिग्रस्त कॉकपिट में महिला पायलट का तीव्र, सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें नारंगी लाइटिंग और ग्राफिक नॉवेल स्टाइल का उपयोग किया गया है।
+
+#### 📝 Prompt
+
+```
+एक क्षतिग्रस्त कॉकपिट के अंदर महिला पायलट का तीव्र सिनेमैटिक क्लोज़-अप, एक आँख पर टूटे हुए वाइज़र के साथ फटा हुआ पीला फ्लाइट हेलमेट, चेहरे पर पसीना और खून की एक पतली लकीर, चौड़ी केंद्रित आँखें, थोड़े खुले होंठ, बैकग्राउंड में नारंगी रंग में चमकते एनालॉग गेज और घड़ियाँ, ग्राफिक नॉवेल इलस्ट्रेशन स्टाइल, भारी लाइनवर्क, नाटकीय लाइटिंग, तनावपूर्ण माहौल, अल्ट्रा डिटेल्ड, 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093879898020720640/img/mJlp1gFAFlwfjTpe.jpg" width="600" alt="सिनेमैटिक पायलट टेंशन क्लोज़-अप">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10139)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094221127719825542) | **Published:** Aug 31, 2026
+
+---
+### Tesla Optimus Cyber Taxi का आगमन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक भविष्यवादी परिदृश्य जिसमें Tesla Optimus रोबोट एक Cyber Taxi में आता है और सामने के दरवाजे पर दस्तक देता है।
+
+#### 📝 Prompt
+
+```
+आपका बिल्कुल नया Tesla Optimus रोबोट एक Cyber Taxi 🚕 में आता है और आपके सामने के दरवाजे पर दस्तक देता है…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094218594431143936/img/t4L5eUa2nj5aPFhe.jpg" width="600" alt="Tesla Optimus Cyber Taxi का आगमन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10132)**
+
+**Author:** [Bones](https://x.com/MorePower2use) | **Source:** [Link](https://x.com/MorePower2use/status/2094218689952276679) | **Published:** Aug 31, 2026
+
+---
+### Tesla Optimus फैक्ट्री हीरो वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक, भविष्यवादी लैंडिंग पेज हीरो प्रॉम्प्ट, जिसमें Tesla Optimus रोबोट को वॉल्यूमेट्रिक धुंध के बीच अंधेरी फैक्ट्री के फर्श पर चलते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+फैक्ट्री के फर्श पर चलते Tesla Optimus के लिए लैंडिंग पेज हीरो। गहरा चारकोल से लगभग काला रंग। बड़े आकार की इमर्सिव तस्वीर। ठंडे स्यान (cyan) और स्टील ब्लू के विपरीत गर्म कॉपर और एम्बर रंग। हल्की वॉल्यूमेट्रिक धुंध। सिनेमैटिक कंट्रास्ट। सूक्ष्म ग्लास UI। रिफाइंड टाइपोग्राफी। असममित। पर्याप्त खाली जगह। अल्ट्रा-प्रीमियम। भविष्यवादी।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093898597893017600/img/9KGpmyCMtZAv63Wi.jpg" width="600" alt="Tesla Optimus फैक्ट्री हीरो वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10134)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094130530744959050) | **Published:** Aug 30, 2026
+
+---
+### कैरेक्टर हैट एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जिसमें एक कैरेक्टर अपनी टोपी उतारता है और एक विद्रोही, दमदार संवाद बोलता है।
+
+#### 📝 Prompt
+
+```
+इस इमेज को एनिमेट करें, टोपी उतारें और कहें 'आगे बढ़ो और कहो इसे, पंक, या क्या तुममें हिम्मत है? शायद नहीं।'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094053656836403200/img/n5Qt2KA-KsY5IuVp.jpg" width="600" alt="कैरेक्टर हैट एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10131)**
+
+**Author:** [Marsha Bush](https://x.com/MarshaBush50) | **Source:** [Link](https://x.com/MarshaBush50/status/2094053671927484525) | **Published:** Aug 30, 2026
+
+---
+### 360 ऑर्बिटल क्लोथिंग चेंज
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सीमलेस 360-डिग्री रोटेशन बनाने के लिए एक तकनीकी वीडियो प्रॉम्प्ट, जिसमें हर कैमरा लूप के साथ सब्जेक्ट के कपड़े बदल जाते हैं।
+
+#### 📝 Prompt
+
+```
+कैमरा तेज़ गति में सुचारू रूप से 360 डिग्री घूम रहा है, जबकि हर कैमरा लूप के साथ आदमी के कपड़े बदल रहे हैं, हर स्पिन से पहले आदमी नए कपड़ों में बदलने के लिए चुटकी बजाता है, एक ही व्यक्ति और पोज़ को स्थिर रखें, कैमरा बिना रुके 360 डिग्री घूम रहा है, केवल कपड़े बदल रहे हैं, टाइमलैप्स, सीमलेस मोशन
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094052255523639296/img/bpo_riyioik03HRS.jpg" width="600" alt="360 ऑर्बिटल क्लोथिंग चेंज">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10143)**
+
+**Author:** [AZIZ | AI 🇸🇦](https://x.com/aziz4ai) | **Source:** [Link](https://x.com/aziz4ai/status/2094052366005723514) | **Published:** Aug 30, 2026
+
+---
+### किले की प्राचीर पर मध्यकालीन कुलीन महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक ऑयल पेंटिंग स्टाइल का वीडियो प्रॉम्प्ट, जिसमें काले और सुनहरे लबादे में एक कुलीन महिला को तूफानी बादलों और सूर्य की किरणों के बीच पहाड़ी घाटी को निहारते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+एक कुलीन महिला की क्लासिकल मध्यकालीन फैंटेसी ऑयल पेंटिंग, जिसके लंबे काले बाल हैं और वह एक ऊंची पत्थर की प्राचीर पर खड़ी है। दृश्य पीछे और थोड़ा बगल से लिया गया है, उसने जटिल सुनहरी कढ़ाई वाला एक समृद्ध काला लबादा पहना है जो हवा में लहरा रहा है। वह एक विशाल पहाड़ी घाटी को देख रही है जिसमें घुमावदार नदी, घने जंगल और दूर एक महलनुमा शहर है। नाटकीय तूफानी बादलों को चीरती सुनहरी सूर्य की किरणें, पेंटरली ब्रशवर्क, सिनेमैटिक स्केल, महाकाव्य वातावरण, अत्यधिक विस्तृत, 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093879783499464704/img/wM21diJcLNvTZ5P-.jpg" width="600" alt="किले की प्राचीर पर मध्यकालीन कुलीन महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10135)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094039934650994982) | **Published:** Aug 30, 2026
+
+---
+### Consistent Monkey Street Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक इमेज-टू-वीडियो प्रॉम्प्ट जो मंकी कैरेक्टर और उसके वातावरण की पूर्ण निरंतरता (consistency) बनाए रखने पर केंद्रित है।
+
+#### 📝 Prompt
+
+```
+इस सटीक इमेज से शुरुआत करें और पूरे वीडियो के दौरान उसी मंकी, चेहरे, फर, शरीर, कपड़े, बेंच, दीवार, दुकान की खिड़की, फुटपाथ, लाइटिंग और कैमरा एंगल को बनाए रखें। शारीरिक बनावट, प्रजाति, पहनावे या बैकग्राउंड में कोई बदलाव न करें। कोई मॉर्फिंग नहीं होनी चाहिए। फोटोरीयल स्ट्रीट सी...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094028641747218432/img/3jqwa_JFV0Zfv8yh.jpg" width="600" alt="Consistent Monkey Street Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10133)**
+
+**Author:** [Romeo_Blog’s](https://x.com/Romeo_Blogs001) | **Source:** [Link](https://x.com/Romeo_Blogs001/status/2094028742553149650) | **Published:** Aug 30, 2026
+
+---
+### फोटोरीलिस्टिक मंकी चर्च डॉक्यूमेंट्री
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक चर्च में बंदर के धीमे डॉक्यूमेंट्री-शैली के क्लिप को बनाने के लिए एक फोटोरीलिस्टिक वीडियो प्रॉम्प्ट, जो संदर्भ छवि (reference image) से लगातार दृश्य विवरण बनाए रखता है।
+
+#### 📝 Prompt
+
+```
+इस सटीक छवि से शुरुआत करें और पूरे समय एक ही बंदर, चेहरा, फर, कपड़े, बाइबल, दीवार, चर्च, लाइटिंग और कैमरा एंगल बनाए रखें। शरीर, चेहरे का आकार, प्रजाति, पोशाक या बैकग्राउंड को न बदलें।
+फोटोरीलिस्टिक डॉक्यूमेंट्री क्लिप, शांत और धीमी।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094001242640900096/img/mMprhCzIizL8ErtE.jpg" width="600" alt="फोटोरीलिस्टिक मंकी चर्च डॉक्यूमेंट्री">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10142)**
+
+**Author:** [SHIDOFF DC🇳🇬🇦🇷🇪🇸](https://x.com/shidoff_dc2043) | **Source:** [Link](https://x.com/shidoff_dc2043/status/2094001284588208315) | **Published:** Aug 30, 2026
+
+---
 ### पौराणिक देवियों के सर्कल डांस का वीडियो प्रॉम्प्ट
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -206,6 +435,27 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10083)**
 
 **Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2093970466688180492) | **Published:** Aug 30, 2026
+
+---
+### Falcon Heavy रॉकेट लॉन्च
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Falcon Heavy रॉकेट लॉन्च की गड़गड़ाहट और तीव्रता को दर्शाने वाला एक प्रभावशाली वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+Falcon Heavy लॉन्च
+मानवीय आशा की गूँज
+“इंजन की दहाड़, धड़कते दिल। रॉकेट पृथ्वी की पकड़ के किनारे पर कांप रहा है — रात को आग में बदलने से बस एक सांस की दूरी पर....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093900201723375616/img/lWNzm4JEhuAX6sIf.jpg" width="600" alt="Falcon Heavy रॉकेट लॉन्च">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10136)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2093900217548509584) | **Published:** Aug 30, 2026
 
 ---
 ### क्षय होते कमरे में कॉस्मिक टीवी विस्फोट
@@ -1363,6 +1613,25 @@ Rainbow Universe MsX और MrX प्रोटोटाइप का सिन�
 **Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
 
 ---
+### Odysseus Dog GoPro दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक GoPro-शैली का प्रॉम्प्ट, जिसमें ओडिसियस (Odysseus) का कुत्ता 20 साल बाद उन्हें पहचान लेता है।
+
+#### 📝 Prompt
+
+```
+GoPro शैली का दृश्य जहाँ ओडिसियस (Odysseus) का कुत्ता 20 साल बाद उन्हें तुरंत पहचान लेता है, एक अंतिम याद साझा करता है, और फिर मर जाता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091971984561192961/img/GypxhYYMpVP-335K.jpg" width="600" alt="Odysseus Dog GoPro दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10144)**
+
+**Author:** [Christopher Fryant](https://x.com/cfryant) | **Source:** [Link](https://x.com/cfryant/status/2091974814709829632) | **Published:** Aug 24, 2026
+
+---
 ### लहराते स्कार्फ का कलात्मक एनीमेशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1871,272 +2140,6 @@ Cybertruck अपनी हेडलाइट्स चमकाता है �
 **Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090950263406227956) | **Published:** Aug 21, 2026
 
 ---
-### ट्रैफिक लेन रिडक्शन मर्ज
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो सिमुलेशन प्रॉम्प्ट जो लेन कम होने की स्थिति में वाहन को ट्रैफिक में मर्ज होते हुए दिखाता है।
-
-#### 📝 Prompt
-
-```
-लेन कम होने का संकेत दिया गया है, और जल्द ही उस लेन में मौजूद वाहन मुख्य लेन में मर्ज हो गया
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090873171868368896/img/e1LmBTWxpjTll7Qc.jpg" width="600" alt="ट्रैफिक लेन रिडक्शन मर्ज">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9626)**
-
-**Author:** [Rocky Flores](https://x.com/maybeme8338o01) | **Source:** [Link](https://x.com/maybeme8338o01/status/2090873216747393211) | **Published:** Aug 21, 2026
-
----
-### Met Gala नाइट फॉरेस्ट इवेंट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Met में रात के समय रेड कार्पेट इवेंट के लिए एक वीडियो जनरेशन प्रॉम्प्ट, जिसमें पेड़ और लैंडस्केप लाइटिंग शामिल है।
-
-#### 📝 Prompt
-
-```
-Met में रात के समय रेड कार्पेट इवेंट, जिसमें बहुत सारे पेड़, लैंडस्केप लाइटिंग और भारी भीड़ है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090819423099609088/img/6xwyET37FO-5_NOX.jpg" width="600" alt="Met Gala नाइट फॉरेस्ट इवेंट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9633)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2090819440258490487) | **Published:** Aug 21, 2026
-
----
-### Tesla Cybercab का रेड कार्पेट पर आगमन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत वीडियो प्रॉम्प्ट जो एक सुनहरे Tesla Cybercab को स्वचालित दरवाजों के साथ रेड कार्पेट इवेंट पर पहुंचते हुए दर्शाता है।
-
-#### 📝 Prompt
-
-```
-सुनहरा Tesla Cybercab अभी-अभी रेड कार्पेट पर आकर सुचारू रूप से रुकता है। इसके बटरफ्लाई दरवाजे अपने आप पूरी तरह से ऊपर और बाहर की ओर खुलते हैं। चमकदार काली डायमंड सेक्विन ड्रेस पहने एक ग्लैमरस महिला शालीनता से कार से बाहर निकलकर...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090816950385381377/img/jnIQhceZFCmj1lb9.jpg" width="600" alt="Tesla Cybercab का रेड कार्पेट पर आगमन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9629)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2090816984485085400) | **Published:** Aug 21, 2026
-
----
-### Queen of Darkness Shadow Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> अंधेरे की रानी (Queen of Darkness) के चलते हुए एक वीडियो बनाने के लिए सिनेमैटिक प्रॉम्प्ट, जिसमें उसके चारों ओर परछाइयाँ और अंधेरा फैल रहा है।
-
-#### 📝 Prompt
-
-```
-अंधेरे की रानी मेरी दिशा में चल रही है, और अपने चारों ओर परछाइयाँ और अंधेरा फैला रही है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090784552319143937/img/M3jnUjKaSAa463X0.jpg" width="600" alt="Queen of Darkness Shadow Walk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9630)**
-
-**Author:** [David](https://x.com/Mmmm8x5mMmmm) | **Source:** [Link](https://x.com/Mmmm8x5mMmmm/status/2090784726068174879) | **Published:** Aug 21, 2026
-
----
-### एनीमे स्पेस बैटलशिप कॉम्बैट सीन
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> तारों से भरे अंतरिक्ष वातावरण में एक विशाल चांदी के स्पेस बैटलशिप की निर्णायक लड़ाई के लिए एक विस्तृत सिनेमाई एनीमे-शैली का प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-स्पेस बैटलशिप Kyoshi का अंतिम युद्ध दृश्य, एनीमे शैली, उच्च विवरण। विशाल अंतरिक्ष की पृष्ठभूमि के खिलाफ, एक विशाल चांदी का स्पेस बैटलशिप "Kyoshi" तिरछे ऊपरी कोण से दिखाई दे रहा है। बैटलशिप का आकार यामातो क्लास की याद दिलाता है, जिसके धनुष पर सुनहरा अक्षर "Kyo" चमक रहा है। सामने बाईं ओर, एक चांदी की हाई-स्पीड असॉल्ट बोट दुश्मन के फ्लैगशिप से टकराती है, जिससे प्रकाश का विस्फोट होता है। ठीक उसके बगल में, घोड़े में परिवर्तित एक लाल ऊर्जा पिंड एक बीम फायर करता है जो दुश्मन के जहाज को छेद देता है। दुश्मन का बेड़ा पहले ही आग की चपेट में है, और अंतरिक्ष में मलबा बिखरा हुआ है। बैटलशिप की ब्रिज विंडो से, चश्मा पहने एक युवा काले बालों वाला कमांडर (Kyoshi Goto)...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090680091122753536/img/GMKcGyQ-efed1tCm.jpg" width="600" alt="एनीमे स्पेस बैटलशिप कॉम्बैट सीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9576)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2090680229329248377) | **Published:** Aug 21, 2026
-
----
-### चेरी ब्लॉसम किमोनो स्वॉर्ड डांस
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एक जापानी बगीचे में नीले किमोनो ड्रेस में एक महिला का काव्यात्मक वीडियो प्रॉम्प्ट, जो एक चमकती हुई तलवार चलाती है जिससे चेरी ब्लॉसम निकलते हैं और एक संदेश बनाते हैं।
-
-#### 📝 Prompt
-
-```
-लंबे काले बालों वाली एक युवती, जिसने नीले रंग की किमोनो ड्रेस पहनी है, चेरी ब्लॉसम के पेड़ों से घिरे एक जापानी बगीचे में खड़ी है। जैसे ही वह अपने हाथ में पकड़ी हुई हल्के नीले रंग की चमकती तलवार को क्षैतिज रूप से घुमाती है, तलवार से अनगिनत चेरी ब्लॉसम की पंखुड़ियाँ निकलती हैं, जो उसके चारों ओर नृत्य करती हैं और "आज आपके सहयोग के लिए धन्यवाद" संदेश बनाती हैं। इसके बाद पंखुड़ियाँ कैमरे की ओर बिखर जाती हैं।
-```
-
-<img src="https://cms-assets.youmind.com/media/1787384997650_66coof_HQOKd7racAA2eg4.jpg" width="600" alt="चेरी ब्लॉसम किमोनो स्वॉर्ड डांस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9575)**
-
-**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2090667452472688797) | **Published:** Aug 21, 2026
-
----
-### नीरो का रोम जलते समय फिडल बजाने वाला वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> नीरो की पौराणिक कथा और चार्ली डेनियल्स के फिडल बजाने की शैली को मिलाने वाला एक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-रोम जल रहा है और नीरो फिडल बजा रहा है। चार्ली डेनियल्स की शैली में 'Devil Went Down to Georgia' बजाते हुए।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090654349298921473/img/_0vIwmroTpGn3cNp.jpg" width="600" alt="नीरो का रोम जलते समय फिडल बजाने वाला वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9566)**
-
-**Author:** [SERCOmustGO(Profile Pic) Cures Cancer](https://x.com/SERCObad) | **Source:** [Link](https://x.com/SERCObad/status/2090654372690534648) | **Published:** Aug 21, 2026
-
----
-### केबिन ब्लिज़ार्ड राइटिंग सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बर्फ़ीले तूफ़ान के दौरान पहाड़ी लॉग केबिन में मोमबत्ती की रोशनी में एक आदमी द्वारा अपनी पहली किताब लिखने का एक सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-यह दृश्य एक लॉग केबिन के अंधेरे चौकोर कमरे का है, जिसमें रोशनी का एकमात्र स्रोत एक पुरानी लकड़ी की मेज पर रखी मोमबत्ती है। यह पहाड़ी जंगलों में एक ठंडी, बर्फ़ीले तूफ़ान वाली रात है। एक आदमी मेज पर बैठा अपनी पहली किताब लिख रहा है। बैकग्राउंड में एक चिमनी चटक रही है और...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090635267078008832/img/edo7_Tv2rTo5kK5k.jpg" width="600" alt="केबिन ब्लिज़ार्ड राइटिंग सीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9632)**
-
-**Author:** [Michael](https://x.com/MichaelOnXUSA) | **Source:** [Link](https://x.com/MichaelOnXUSA/status/2090635293577662604) | **Published:** Aug 21, 2026
-
----
-### यथार्थवादी पिल्ले के पजामा सेल्फी वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> पजामा पहने एक पिल्ले का यथार्थवादी फर्स्ट-पर्सन वीडियो बनाने के लिए एक अत्यधिक विस्तृत Grok-imagine प्रॉम्प्ट, जो स्वाभाविक व्यवहार और घर के गर्मजोशी भरे माहौल को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-एक छोटा, प्यारा पिल्ला ढीले-ढाले, कैजुअल पिल्ले के पजामा सेट में एक छोटे किराए के स्टूडियो अपार्टमेंट में नीचे बिस्तर पर एक तरफ लेटा हुआ है, और सीधे उस फोन के फ्रंट कैमरे में देख रहा है जिसे उसका मालिक ठीक उसके ऊपर पकड़े हुए है; जगह में बीस-तीस साल के युवाओं के रहने जैसा एहसास है — मुड़ी हुई क्रीम रंग की सूती चादरें, कुछ साधारण तकिए, कपड़ों का रैक और पीछे धुंधली सी एक छोटी अव्यवस्थित अलमारी, दाईं ओर से एक गर्म बेडसाइड लैंप चमक रहा है। धीरे-धीरे पलकें झपकाते हुए, पिल्ले की पूंछ धीरे से हिलती है जब फोन पकड़े हुए मालिक — जो कभी नहीं दिखता — धीरे से कोरियाई भाषा में कहता है: "안 자고 뭐 해." (अभी तक सोए नहीं, क्या कर रहे हो?)। एक पल बाद, पिल्ला अपने लटके हुए कानों के साथ अपना सिर झुकाता है, जैसे कि शर्मीला हो, और मालिक प्यार से कोरियाई में चिढ़ाता है: "예쁜데 왜." (इतने सुंदर हो, फिर क्यों?)। फिर अचानक पिल्ला अपना पूरा चेहरा बगल के एक साधारण तकिए में छिपा लेता है, उसके पंजे तकिए के किनारे को पकड़कर उसमें सिलवटें डाल देते हैं, और तकिए में एक धीमी, चंचल फुसफुसाहट या पिल्ले की हल्की सांस की आवाज आती है। एक पल बाद, वह धीरे से अपना चेहरा बाहर निकालता है और पहले एक आंख से झांकता है, उसके कान बिखरे हुए हैं, फिर उसका पूरा चेहरा कैमरे की ओर मुड़ जाता है; सामने से दिखाई देते हुए, वह धीरे से अपनी नाक चाटता है और एक खुश, चंचल पिल्ले के भाव के साथ अपना मुंह थोड़ा खोलता है, जबकि मालिक कोरियाई में कहता है: "그만 찍으라니까~" (कहा न, अब फोटो लेना बंद करो~), और एक बार धीरे से पलकें झपकाता है जैसे ही पल शांति से स्थिर होता है। इसे एक निरंतर फर्स्ट-पर्सन हैंडहेल्ड सेल्फी के रूप में शूट करें, फ्रेम मालिक के हाथ के साथ सांस ले रहा है और थोड़ा आगे की ओर झुका हुआ है; पिल्ले के फर की बनावट, गीली नाक की चमक और मूंछों को एकदम स्पष्ट रखें, बिना किसी ब्यूटी फिल्टर या स्मूथिंग के, जैसे असली फोन फुटेज हो जिसमें हल्का वीडियो ग्रेन और गैर-सिनेमैटिक गर्म इनडोर लाइट हो। फ्रेम में केवल एक ही पिल्ला हो — फोन पकड़ने वाला व्यक्ति स्क्रीन से बाहर रहे और कभी न दिखे, फ्रेम में कोई दूसरा जानवर या व्यक्ति न हो, और कभी भी रेफरेंस शीट रेंडर न करें या विषय को डुप्लिकेट न करें। सख्ती से कोई सबटाइटल, कोई ऑन-स्क्रीन टेक्स्ट, कोई लोगो, कोई वॉटरमार्क नहीं। केवल डायजेनेटिक साउंड: एक छोटे अपार्टमेंट की शांत कमरे की आवाज, बेडशीट की हल्की सरसराहट, तकिए में पिल्ले की धीमी प्यारी आवाजें; कैमरे के पीछे से महिला की गर्मजोशी भरी और चिढ़ाने वाली आवाजें, बिना किसी बैकग्राउंड म्यूजिक के।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090631581887299584/img/4xZUv4rq9vEXAMHp.jpg" width="600" alt="यथार्थवादी पिल्ले के पजामा सेल्फी वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9577)**
-
-**Author:** [고딩경제맨](https://x.com/winneravgwin) | **Source:** [Link](https://x.com/winneravgwin/status/2090631627844280421) | **Published:** Aug 21, 2026
-
----
-### डेटा सेंटर रोलर रिंक पावर जनरेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक असली और सिनेमाई वीडियो प्रॉम्प्ट, जिसमें एक भविष्यवादी डेटा सेंटर को दिखाया गया है जहाँ इंसान एक क्लासिक रेस्तरां के बगल में रोलर रिंक में स्केटिंग करके बिजली पैदा करते हैं।
-
-#### 📝 Prompt
-
-```
-एक डेटा सेंटर रोलर रिंक जो स्टीक एन शेक (Steak n Shake) के बगल में स्केटिंग करने वाले लोगों की सामूहिक ऊर्जा का उपयोग करके उसे बिजली में बदल देता है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090629256116133888/img/vZOj4HyvF3Tt2gQq.jpg" width="600" alt="डेटा सेंटर रोलर रिंक पावर जनरेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9623)**
-
-**Author:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **Source:** [Link](https://x.com/AMERICA250e9/status/2090629295139860535) | **Published:** Aug 21, 2026
-
----
-### Twitch स्ट्रीमर Cybertruck गेमप्ले
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो एक Twitch लाइव स्ट्रीम का अनुकरण करता है, जिसमें एक महिला को Cybertruck गेम खेलते हुए ओवरले के साथ दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-एक महिला Twitch पर लाइव स्ट्रीम कर रही है और एक 3-D Cybertruck गेम खेल रही है, जहाँ आप उसे एक छोटी ओवरले स्क्रीन पर यह बात करते हुए देख सकते हैं कि Cybertruck भारी-भरकम होने के बावजूद चलाने में कितनी मजेदार है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090624018608951296/img/5jIZUEIpXC2q_XBZ.jpg" width="600" alt="Twitch स्ट्रीमर Cybertruck गेमप्ले">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9567)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090624078499512717) | **Published:** Aug 21, 2026
-
----
-### पुर्तगाली बोलने वाले व्यक्ति का मैत्रीपूर्ण संदेश
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत वीडियो प्रॉम्प्ट जिसमें एक व्यक्ति ब्राज़ीलियाई पुर्तगाली लहजे में स्वाभाविक रूप से बात कर रहा है, जो कार के अंदर से एक सकारात्मक संदेश दे रहा है और जिसमें निरंतर गति बनी हुई है।
-
-#### 📝 Prompt
-
-```
-वह व्यक्ति मुस्कुराता है और पुर्तगाली (ब्राज़ीलियाई लहजे) में स्वाभाविक रूप से बात करता है, और एक छोटा मैत्रीपूर्ण सकारात्मक संदेश देता है जैसे "Oi! Estou me sentindo muito bem hoje. Que dia incrível, né?". कार के आंतरिक बैकग्राउंड, बिल्कुल वही दिखावट और स्वाभाविक सिर की गति को बनाए रखें।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090608673697464321/img/XIkmOTOKm5JEpI6c.jpg" width="600" alt="पुर्तगाली बोलने वाले व्यक्ति का मैत्रीपूर्ण संदेश">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9624)**
-
-**Author:** [Vini](https://x.com/Vinil9t) | **Source:** [Link](https://x.com/Vinil9t/status/2090608698666160330) | **Published:** Aug 21, 2026
-
----
-### Aurora Cyberpunk Pursuit वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जटिल प्रॉम्प्ट जो सिम्बॉलिक बीजगणित का उपयोग करके एक होवरबाइक और यूनिट Aurora 7 के साथ एक साइंस-फिक्शन पीछा करने वाले दृश्य को परिभाषित करता है।
-
-#### 📝 Prompt
-
-```
-[[🟩+🟪]+[[hoverbike+[🤖=👮‍♀️=unit_Aurora_7]]+[🎯_pursuit]+[glossy]+[🔈🔉🔊🔉🔈🚨]]
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090580112202768384/img/SQ-5s4IEznGOmMTR.jpg" width="600" alt="Aurora Cyberpunk Pursuit वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9625)**
-
-**Author:** [Elis Satu](https://x.com/astvatsaturn) | **Source:** [Link](https://x.com/astvatsaturn/status/2090580214120165872) | **Published:** Aug 20, 2026
-
----
-### मैग्रिट शैली की अतियथार्थवादी कन्वर्टिबल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो 1940 के दशक के विशिष्ट फैशन विवरण और रेगिस्तानी परिदृश्य के साथ, विंटेज कन्वर्टिबल में बैठे एक जोड़े की मैग्रिट-शैली की अतियथार्थवादी तेल चित्रकला का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-एक मैग्रिट-शैली की अतियथार्थवादी तेल चित्रकला, जिसमें एक सपाट रेगिस्तानी परिदृश्य में विंटेज जैतून-हरे रंग की कन्वर्टिबल में एक जोड़ा बैठा है। ऊपर हल्का नीला आसमान है और बादलों की एक क्षैतिज परत है। महिला ने एक बड़े आकार की ब्लैक-एंड-व्हाइट चेक वाली शंक्वाकार टोपी पहनी है जिसके ऊपर एक कोरल पोम-पोम है, साथ ही पीले कैट-आई धूप का चश्मा, मोती के झुमके, और एक हल्के गुलाबी रंग की जैकेट है जिसमें बड़ा सफेद नुकीला कॉलर और काले बटन हैं। पुरुष ने एक कोरल फेल्ट हैट पहनी है जिसके ऊपर डेंट है, साथ ही पीले आयताकार धूप का चश्मा, एक बेज टर्टलनेक और एक डार्क हाउंडस्टूथ ब्लेज़र है जिसमें सफेद पॉकेट स्क्वायर है। भावहीन चेहरे, स्मूथ मैट पेंटरली फिनिश, 1940 के दशक की मैगज़ीन-यथार्थवाद शैली।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090558281303433216/img/Wg6LxnjN_60CVMWj.jpg" width="600" alt="मैग्रिट शैली की अतियथार्थवादी कन्वर्टिबल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9565)**
-
-**Author:** [danailama](https://x.com/danai_lama) | **Source:** [Link](https://x.com/danai_lama/status/2090558298533593235) | **Published:** Aug 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2198,6 +2201,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-31T05:14:44.069Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-31T16:20:54.879Z</sub>
 
 </div>

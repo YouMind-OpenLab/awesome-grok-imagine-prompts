@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2648** |
+| 📝 Total Prompts | **2662** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-08-31** |
 
@@ -189,6 +189,235 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Scena cinematografica di salvataggio in miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico per una missione di salvataggio in un mondo in miniatura, caratterizzato da un ambiente dettagliato e movimenti realistici.
+
+#### 📝 Prompt
+
+```
+Scena cinematografica di salvataggio in miniatura in un minuscolo mondo realistico, diversi lavoratori in miniatura impegnati nell'urgente salvataggio di una piccola persona/animale da una situazione difficile, ambiente artigianale dettagliato, movimenti realistici, atmosfera emozionante ma rassicurante, drammaticità...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094299291691126784/img/a7Xs3JN4w6I2maWd.jpg" width="600" alt="Scena cinematografica di salvataggio in miniatura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10140)**
+
+**Author:** [Nicholas](https://x.com/Mud01185127) | **Source:** [Link](https://x.com/Mud01185127/status/2094299423258067039) | **Published:** Aug 31, 2026
+
+---
+### Animazione cinematografica di suspense al bar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt avanzato per la generazione video progettato per animare un'immagine statica in una sequenza cinematografica di suspense di 15 secondi con tempistiche precise e azioni dei personaggi.
+
+#### 📝 Prompt
+
+```
+Crea un video cinematografico fotorealistico di 15 secondi partendo da questa immagine esatta. Preserva il volto, l'identità, l'acconciatura, l'abbigliamento, i gioielli, le proporzioni corporee, l'interno del bar, gli oggetti sul tavolo, l'illuminazione e la composizione della donna. Fai in modo che l'animazione sembri un momento spontaneo e reale, non un video di moda. 0–3 sec: Lei siede tranquillamente al tavolo del bar, rilassata e leggermente assorta nei pensieri. Le dita sono vicino al viso. Sbatte le palpebre in modo naturale, respira sottilmente e i suoi capelli lunghi si muovono leggermente. Le luci calde del bar e le fiamme delle candele sullo sfondo tremolano in modo naturale. 3–6 sec: Il suo telefono sul tavolo vibra improvvisamente per una notifica. Lei lo sente, guarda in basso, allunga la mano verso il telefono e lo prende. 6–9 sec: Sblocca il telefono e legge il messaggio. La sua espressione cambia gradualmente da rilassata a sorpresa. Si ferma per un momento, rilegge il messaggio e i suoi occhi si spalancano leggermente. 9–12 sec: Abbassa un po' il telefono e guarda verso l'ingresso del bar, confusa e leggermente nervosa, come se si rendesse improvvisamente conto che qualcuno è nelle vicinanze. 12–15 sec: Guarda di nuovo il telefono un'ultima volta. Il messaggio sullo schermo recita: “Sono fuori. Non voltarti.” La sua espressione diventa tesa. Guarda lentamente verso la finestra invece di voltarsi. Termina su questo momento di suspense. Recitazione naturale e realistica, espressioni facciali sottili, battito di ciglia realistico, movimenti accurati di mani e dita, interazione credibile con il telefono, fisica dei capelli naturale, movimento realistico dei tessuti, atmosfera da bar calda e sofisticata, profondità di campo ridotta, movimento della telecamera a mano molto sottile. Costruisci la suspense gradualmente. Nessuna reazione esagerata, nessun movimento improvviso della telecamera, nessun mittente visibile, nessun personaggio extra, nessun taglio, nessun cambiamento di volto, nessun cambio di abbigliamento, nessuna mano o telefono distorti.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094274016601313280/img/tDJlh3HquBBgCAQp.jpg" width="600" alt="Animazione cinematografica di suspense al bar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10138)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2094275234719502716) | **Published:** Aug 31, 2026
+
+---
+### Ritorno in volo verso Starbase, Texas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt incentrato sul movimento che indica ai soggetti di sollevarsi dall'acqua e volare verso una posizione specifica in Texas.
+
+#### 📝 Prompt
+
+```
+Falli sollevare entrambi dall'acqua e inizia a volare verso Starbase, Texas
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094268532582219776/img/qp1kB85ccqNPZjsU.jpg" width="600" alt="Ritorno in volo verso Starbase, Texas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10137)**
+
+**Author:** [🐕‍🦺Ðoge✝️Cherball🚀](https://x.com/DogeCherball) | **Source:** [Link](https://x.com/DogeCherball/status/2094268636663853142) | **Published:** Aug 31, 2026
+
+---
+### Illustrazione di una colossale reliquia nel deserto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico di un enorme elmo meccanico sepolto nel deserto con un minuscolo visitatore, in stile graphic novel.
+
+#### 📝 Prompt
+
+```
+Ampia illustrazione cinematografica di un colossale elmo meccanico bianco e logoro, sepolto a metà in un vasto deserto, piastre metalliche rivettate e macchie di ruggine, una minuscola figura solitaria in piedi all'interno della visiera aperta che guarda verso l'interno, sabbia chiara accumulata attorno alla base, montagne basse in lontananza sotto un cielo azzurro terso, stile graphic novel, linee pulite, scala silenziosa, ultra dettagliato, 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093880020808925184/img/5REPjuGQLeVh0-4m.jpg" width="600" alt="Illustrazione di una colossale reliquia nel deserto">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10141)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094251326863736910) | **Published:** Aug 31, 2026
+
+---
+### Primo piano cinematografico di una pilota in tensione
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico e intenso di una pilota in una cabina di pilotaggio danneggiata, con illuminazione arancione e stile graphic novel.
+
+#### 📝 Prompt
+
+```
+Intenso primo piano cinematografico di una pilota all'interno di una cabina di pilotaggio usurata, casco da volo giallo incrinato con visiera infranta su un occhio, sudore e una sottile striscia di sangue sul viso, occhi sgranati e concentrati, labbra leggermente socchiuse, indicatori analogici e orologi che brillano di un arancione caldo sullo sfondo, stile illustrazione graphic novel, tratti marcati, illuminazione drammatica, atmosfera tesa, ultra dettagliato, 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093879898020720640/img/mJlp1gFAFlwfjTpe.jpg" width="600" alt="Primo piano cinematografico di una pilota in tensione">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10139)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094221127719825542) | **Published:** Aug 31, 2026
+
+---
+### L'arrivo del Tesla Optimus Cyber Taxi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uno scenario futuristico che vede il robot Tesla Optimus arrivare a bordo di un Cyber Taxi e bussare alla porta di casa.
+
+#### 📝 Prompt
+
+```
+Il tuo nuovissimo robot Tesla Optimus arriva a bordo di un Cyber Taxi 🚕 e bussa alla tua porta...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094218594431143936/img/t4L5eUa2nj5aPFhe.jpg" width="600" alt="L'arrivo del Tesla Optimus Cyber Taxi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10132)**
+
+**Author:** [Bones](https://x.com/MorePower2use) | **Source:** [Link](https://x.com/MorePower2use/status/2094218689952276679) | **Published:** Aug 31, 2026
+
+---
+### Video Hero della fabbrica di Tesla Optimus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico e futuristico per l'hero di una landing page che mostra il robot Tesla Optimus mentre cammina attraverso il pavimento di una fabbrica oscurata con foschia volumetrica.
+
+#### 📝 Prompt
+
+```
+Hero per landing page con Tesla Optimus che cammina in una fabbrica. Dal grigio antracite al nero profondo. Fotografia immersiva di grandi dimensioni. Rame caldo e ambra in contrasto con ciano freddo e blu acciaio. Morbida foschia volumetrica. Contrasto cinematografico. Interfaccia utente in vetro sottile. Tipografia raffinata. Asimmetrico. Ampio spazio vuoto. Ultra-premium. Futuristico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093898597893017600/img/9KGpmyCMtZAv63Wi.jpg" width="600" alt="Video Hero della fabbrica di Tesla Optimus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10134)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094130530744959050) | **Published:** Aug 30, 2026
+
+---
+### Animazione personaggio con cappello
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video in cui un personaggio si toglie il cappello e recita una battuta audace e grintosa.
+
+#### 📝 Prompt
+
+```
+Anima questa immagine mentre si toglie il cappello e dice: avanti, dillo pure, faccia tosta, o forse non ne hai il coraggio? Probabilmente no.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094053656836403200/img/n5Qt2KA-KsY5IuVp.jpg" width="600" alt="Animazione personaggio con cappello">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10131)**
+
+**Author:** [Marsha Bush](https://x.com/MarshaBush50) | **Source:** [Link](https://x.com/MarshaBush50/status/2094053671927484525) | **Published:** Aug 30, 2026
+
+---
+### Cambio d'abito orbitale a 360°
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video tecnico per creare una rotazione fluida a 360 gradi in cui il soggetto cambia outfit a ogni giro di camera.
+
+#### 📝 Prompt
+
+```
+La telecamera ruota a 360 gradi in modo fluido e veloce, mentre i vestiti dell'uomo cambiano a ogni giro; prima di ogni rotazione l'uomo schiocca le dita per cambiare abbigliamento, mantenendo la stessa persona e la stessa posa in modo stabile, la telecamera ruota ininterrottamente a 360 gradi, l'unico cambiamento sono i vestiti, timelapse, movimento fluido
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094052255523639296/img/bpo_riyioik03HRS.jpg" width="600" alt="Cambio d'abito orbitale a 360°">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10143)**
+
+**Author:** [AZIZ | AI 🇸🇦](https://x.com/aziz4ai) | **Source:** [Link](https://x.com/aziz4ai/status/2094052366005723514) | **Published:** Aug 30, 2026
+
+---
+### Nobile donna medievale sui merli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video in stile pittura a olio cinematografica che ritrae una nobildonna con un mantello nero e oro che osserva una valle montana con nuvole temporalesche e raggi di sole.
+
+#### 📝 Prompt
+
+```
+Dipinto a olio fantasy medievale classico di una nobildonna con lunghi capelli scuri in piedi su un alto merlo di pietra, vista da dietro e leggermente di lato, che indossa un ricco mantello nero con intricati ricami dorati che ondeggiano al vento, mentre osserva una vasta valle montana con un fiume tortuoso, fitte foreste e una città castello in lontananza, drammatiche nuvole temporalesche che si squarciano con raggi di sole dorati, pennellate pittoriche, scala cinematografica, atmosfera epica, ultra dettagliato, 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093879783499464704/img/wM21diJcLNvTZ5P-.jpg" width="600" alt="Nobile donna medievale sui merli">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10135)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094039934650994982) | **Published:** Aug 30, 2026
+
+---
+### Animazione coerente di una scimmia in strada
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt da immagine a video focalizzato sul mantenimento di una coerenza perfetta del personaggio della scimmia e del suo ambiente.
+
+#### 📝 Prompt
+
+```
+Parti esattamente da questa immagine e mantieni la stessa scimmia, volto, pelliccia, corpo, vestiti, panchina, muro, vetrina, marciapiede, illuminazione e angolazione della telecamera per tutta la durata. Non modificare il fisico, la specie, l'abbigliamento o lo sfondo. Nessun morphing. Strada fotorealistica...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094028641747218432/img/3jqwa_JFV0Zfv8yh.jpg" width="600" alt="Animazione coerente di una scimmia in strada">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10133)**
+
+**Author:** [Romeo_Blog’s](https://x.com/Romeo_Blogs001) | **Source:** [Link](https://x.com/Romeo_Blogs001/status/2094028742553149650) | **Published:** Aug 30, 2026
+
+---
+### Documentario fotorealistico su una scimmia in chiesa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video fotorealistico per creare una clip in stile documentario lento che ritrae una scimmia in una chiesa, mantenendo dettagli visivi coerenti a partire da un'immagine di riferimento.
+
+#### 📝 Prompt
+
+```
+Parti esattamente da questa immagine e mantieni la stessa scimmia, il volto, il pelo, i vestiti, la Bibbia, la parete, la chiesa, l'illuminazione e l'angolazione della telecamera per tutta la durata. Non modificare il corpo, la forma del viso, la specie, l'abbigliamento o lo sfondo.
+Clip documentaristica fotorealistica, silenziosa e lenta.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094001242640900096/img/mMprhCzIizL8ErtE.jpg" width="600" alt="Documentario fotorealistico su una scimmia in chiesa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10142)**
+
+**Author:** [SHIDOFF DC🇳🇬🇦🇷🇪🇸](https://x.com/shidoff_dc2043) | **Source:** [Link](https://x.com/shidoff_dc2043/status/2094001284588208315) | **Published:** Aug 30, 2026
+
+---
 ### Prompt video: Danza circolare delle dee mitologiche
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -206,6 +435,27 @@ La dea Diana gioca con gli animali in una foresta profonda. La scena passa ad Ar
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10083)**
 
 **Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2093970466688180492) | **Published:** Aug 30, 2026
+
+---
+### Lancio del razzo Falcon Heavy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un suggestivo prompt video che cattura il boato e l'intensità del lancio di un razzo Falcon Heavy.
+
+#### 📝 Prompt
+
+```
+Lancio del Falcon Heavy
+Il suono della speranza umana
+“I motori ruggiscono, i cuori battono forte. Il razzo trema al limite della presa terrestre — a un soffio dal trasformare la notte in fuoco....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093900201723375616/img/lWNzm4JEhuAX6sIf.jpg" width="600" alt="Lancio del razzo Falcon Heavy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10136)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2093900217548509584) | **Published:** Aug 30, 2026
 
 ---
 ### Esplosione cosmica in TV in una stanza in rovina
@@ -1363,6 +1613,25 @@ Lasciando l'immagine invariata, fagli dire: “Let your light so shine. I love y
 **Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
 
 ---
+### Scena del cane di Odisseo in stile GoPro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt in stile GoPro cinematografico per una scena in cui il cane di Odisseo lo riconosce dopo 20 anni.
+
+#### 📝 Prompt
+
+```
+Scena in stile GoPro in cui il cane di Odisseo lo riconosce istantaneamente dopo 20 anni, condivide un ultimo ricordo e poi muore.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091971984561192961/img/GypxhYYMpVP-335K.jpg" width="600" alt="Scena del cane di Odisseo in stile GoPro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10144)**
+
+**Author:** [Christopher Fryant](https://x.com/cfryant) | **Source:** [Link](https://x.com/cfryant/status/2091974814709829632) | **Published:** Aug 24, 2026
+
+---
 ### Animazione artistica di una sciarpa al vento
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1871,272 +2140,6 @@ Il Cybertruck lampeggia con i fari mentre il vincitore sale sopra il veicolo e d
 **Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090950263406227956) | **Published:** Aug 21, 2026
 
 ---
-### Riduzione di corsia con immissione nel traffico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di simulazione video che mostra un veicolo che si immette nel traffico durante uno scenario di riduzione di corsia.
-
-#### 📝 Prompt
-
-```
-corsia di riduzione indicata, e poco dopo il veicolo in quella corsia si è immesso nella corsia di scorrimento
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090873171868368896/img/e1LmBTWxpjTll7Qc.jpg" width="600" alt="Riduzione di corsia con immissione nel traffico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9626)**
-
-**Author:** [Rocky Flores](https://x.com/maybeme8338o01) | **Source:** [Link](https://x.com/maybeme8338o01/status/2090873216747393211) | **Published:** Aug 21, 2026
-
----
-### Evento Met Gala Night Forest
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di generazione video per un evento sul red carpet al Met durante la notte, con alberi e illuminazione paesaggistica.
-
-#### 📝 Prompt
-
-```
-Evento sul red carpet al Met con molti alberi di notte, illuminazione paesaggistica e folla numerosa
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090819423099609088/img/6xwyET37FO-5_NOX.jpg" width="600" alt="Evento Met Gala Night Forest">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9633)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2090819440258490487) | **Published:** Aug 21, 2026
-
----
-### Arrivo della Tesla Cybercab sul red carpet
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video dettagliato che descrive una Tesla Cybercab dorata che arriva a un evento sul red carpet con porte automatiche.
-
-#### 📝 Prompt
-
-```
-La Tesla Cybercab dorata è appena arrivata e si ferma dolcemente sul red carpet. Le sue porte ad ali di farfalla si aprono automaticamente verso l'alto e verso l'esterno. L'affascinante donna con uno scintillante abito nero tempestato di paillettes di diamante scende con grazia dall'auto sul...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090816950385381377/img/jnIQhceZFCmj1lb9.jpg" width="600" alt="Arrivo della Tesla Cybercab sul red carpet">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9629)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2090816984485085400) | **Published:** Aug 21, 2026
-
----
-### Queen of Darkness Shadow Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico per creare un video di una Regina dell'Oscurità che cammina mentre ombre e tenebre si diffondono attorno a lei.
-
-#### 📝 Prompt
-
-```
-La Regina dell'Oscurità cammina nella mia direzione, diffondendo ombre e tenebre tutt'intorno
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090784552319143937/img/M3jnUjKaSAa463X0.jpg" width="600" alt="Queen of Darkness Shadow Walk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9630)**
-
-**Author:** [David](https://x.com/Mmmm8x5mMmmm) | **Source:** [Link](https://x.com/Mmmm8x5mMmmm/status/2090784726068174879) | **Published:** Aug 21, 2026
-
----
-### Scena di combattimento tra astronavi in stile anime
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt cinematografico dettagliato in stile anime per un'enorme astronave argentata impegnata in una battaglia culminante all'interno di un ambiente spaziale stellato.
-
-#### 📝 Prompt
-
-```
-Scena della battaglia finale dell'astronave Kyoshi, stile anime, alta definizione. Sullo sfondo del vasto spazio, un'enorme astronave argentata "Kyoshi" viene inquadrata da un'angolazione diagonale dall'alto. L'astronave presenta una struttura imponente che ricorda la classe Yamato, con il carattere dorato "Kyo" che brilla sulla prua. In basso a sinistra, una motovedetta d'assalto argentata ad alta velocità si schianta contro l'ammiraglia nemica, creando un'esplosione di luce. Proprio accanto, un corpo energetico rosso trasformatosi in un cavallo spara un raggio che trafigge la nave nemica. La flotta nemica è già in fiamme, con detriti che si disperdono nello spazio. Dalla finestra del ponte di comando dell'astronave, un giovane comandante dai capelli neri che indossa gli occhiali (Kyoshi Goto)...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090680091122753536/img/GMKcGyQ-efed1tCm.jpg" width="600" alt="Scena di combattimento tra astronavi in stile anime">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9576)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2090680229329248377) | **Published:** Aug 21, 2026
-
----
-### Danza della spada in kimono tra i ciliegi in fiore
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un poetico prompt video per una donna in kimono blu che maneggia una spada luminosa, generando petali di ciliegio che formano un messaggio in un giardino giapponese.
-
-#### 📝 Prompt
-
-```
-Una giovane donna dai lunghi capelli neri, che indossa un kimono blu, si trova in un giardino giapponese circondato da alberi di ciliegio in fiore. Mentre brandisce orizzontalmente la spada che emana una luce azzurra, innumerevoli petali di ciliegio si sprigionano dalla lama, danzando attorno a lei e formando il messaggio "Grazie anche per il vostro supporto di oggi". I petali si disperdono poi verso la telecamera.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787384997650_66coof_HQOKd7racAA2eg4.jpg" width="600" alt="Danza della spada in kimono tra i ciliegi in fiore">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9575)**
-
-**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2090667452472688797) | **Published:** Aug 21, 2026
-
----
-### Video di Nerone che suona il violino mentre Roma brucia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video che unisce il mito di Nerone allo stile di Charlie Daniels che suona il violino.
-
-#### 📝 Prompt
-
-```
-Nerone che suona il violino mentre Roma brucia. Esegue 'The Devil Went Down to Georgia' nello stile di Charlie Daniels.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090654349298921473/img/_0vIwmroTpGn3cNp.jpg" width="600" alt="Video di Nerone che suona il violino mentre Roma brucia">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9566)**
-
-**Author:** [SERCOmustGO(Profile Pic) Cures Cancer](https://x.com/SERCObad) | **Source:** [Link](https://x.com/SERCObad/status/2090654372690534648) | **Published:** Aug 21, 2026
-
----
-### Scena di scrittura in una baita durante una tormenta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico di un uomo che scrive il suo primo libro a lume di candela in una baita di montagna durante una tormenta.
-
-#### 📝 Prompt
-
-```
-La scena si svolge in una stanza quadrata e buia all'interno di una baita; l'unica fonte di luce è una candela su una vecchia scrivania di legno. È una notte fredda e tempestosa tra le montagne boscose. Un uomo è seduto alla scrivania e sta scrivendo il suo primo libro in assoluto. Un camino scoppietta sullo sfo...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090635267078008832/img/edo7_Tv2rTo5kK5k.jpg" width="600" alt="Scena di scrittura in una baita durante una tormenta">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9632)**
-
-**Author:** [Michael](https://x.com/MichaelOnXUSA) | **Source:** [Link](https://x.com/MichaelOnXUSA/status/2090635293577662604) | **Published:** Aug 21, 2026
-
----
-### Video selfie realistico di un cucciolo in pigiama
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt Grok-imagine altamente dettagliato per creare un video realistico in prima persona di un cucciolo in pigiama, che cattura comportamenti naturali e un ambiente domestico accogliente.
-
-#### 📝 Prompt
-
-```
-Un cucciolo piccolo e carino, che indossa un pigiama largo e casual, è sdraiato su un fianco su un letto basso in un piccolo monolocale in affitto, mentre guarda dritto nella fotocamera frontale del telefono che il suo proprietario tiene appena sopra di lui; l'ambiente ha l'aspetto vissuto di un ventenne: lenzuola di cotone color crema stropicciate, un paio di cuscini semplici, un appendiabiti e una piccola mensola disordinata leggermente fuori fuoco sullo sfondo, con una calda lampada da comodino che brilla sulla destra. Battendo le palpebre lentamente, la coda del cucciolo scodinzola dolcemente mentre il proprietario fuori campo che tiene il telefono — mai inquadrato — dice dolcemente in coreano: "안 자고 뭐 해." (Cosa fai che non dormi?). Un istante dopo, il cucciolo inclina la testa con le orecchie flosce, emettendo un piccolo sbuffo come se fosse timido, e il proprietario risponde scherzando, con calore in coreano: "예쁜데 왜." (Sei carino, perché?). Poi, improvvisamente, il cucciolo affonda tutto il muso in un cuscino semplice accanto a lui, con le zampe che ne stringono il bordo creando morbide pieghe, emettendo un sommesso e giocoso guaito o un leggero respiro da cucciolo nel cuscino. Un momento dopo, gira lentamente il muso verso l'esterno e sbircia prima con un solo occhio, con le orecchie flosce spettinate, poi gira tutto il muso verso la fotocamera; visibile frontalmente, si lecca delicatamente il naso e apre leggermente la bocca con un'espressione felice e giocosa da cucciolo, mentre il proprietario dice in coreano: "그만 찍으라니까~" (Ti ho detto di smetterla di filmare~), sbattendo le palpebre una volta mentre il momento si placa dolcemente. Riprendilo come un unico selfie in prima persona a mano libera, con l'inquadratura che respira insieme al braccio del proprietario che si sporge leggermente; mantieni la texture del pelo del cucciolo, i riflessi del naso umido e i baffi nitidissimi, senza filtri di bellezza o levigature, come un vero filmato da telefono con una sottile grana video e una calda luce da interni non cinematografica. È presente un solo cucciolo nell'inquadratura: chi tiene il telefono rimane fuori campo e non viene mai mostrato, nessun altro animale o persona è presente nell'inquadratura, e non renderizzare mai un foglio di riferimento o duplicare il soggetto. Rigorosamente senza sottotitoli, senza testo a schermo, senza logo, senza filigrana. Solo suono diegetico: il tono silenzioso di una piccola stanza, il fruscio morbido delle lenzuola, i rumori soffusi e carini del cucciolo nel cuscino; le battute calde e scherzose della donna fuori campo dietro la fotocamera, senza musica di sottofondo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090631581887299584/img/4xZUv4rq9vEXAMHp.jpg" width="600" alt="Video selfie realistico di un cucciolo in pigiama">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9577)**
-
-**Author:** [고딩경제맨](https://x.com/winneravgwin) | **Source:** [Link](https://x.com/winneravgwin/status/2090631627844280421) | **Published:** Aug 21, 2026
-
----
-### Generazione di energia in un data center con pista di pattinaggio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico surreale che raffigura un data center futuristico in cui gli esseri umani generano energia pattinando in una pista a rotelle accanto a un ristorante classico.
-
-#### 📝 Prompt
-
-```
-Una pista di pattinaggio in un data center che utilizza l'energia di un gruppo di persone che pattinano per convertirla in elettricità accanto a uno Steak 'n Shake
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090629256116133888/img/vZOj4HyvF3Tt2gQq.jpg" width="600" alt="Generazione di energia in un data center con pista di pattinaggio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9623)**
-
-**Author:** [🇺🇸AMERICA250🇺🇸🦅](https://x.com/AMERICA250e9) | **Source:** [Link](https://x.com/AMERICA250e9/status/2090629295139860535) | **Published:** Aug 21, 2026
-
----
-### Gameplay di Cybertruck su Twitch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video che simula una diretta streaming su Twitch con una sovrapposizione di una donna che gioca a un gioco con il Cybertruck.
-
-#### 📝 Prompt
-
-```
-Una donna in live streaming su Twitch mentre gioca a un gioco 3D con il Cybertruck; la si vede in una finestra sovrapposta più piccola mentre spiega che il Cybertruck è ingombrante ma comunque divertente da guidare.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090624018608951296/img/5jIZUEIpXC2q_XBZ.jpg" width="600" alt="Gameplay di Cybertruck su Twitch">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9567)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090624078499512717) | **Published:** Aug 21, 2026
-
----
-### Messaggio amichevole di un uomo che parla portoghese
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video dettagliato per un uomo che parla in modo naturale con accento portoghese brasiliano, trasmettendo un messaggio positivo dall'interno di un'auto con movimenti coerenti.
-
-#### 📝 Prompt
-
-```
-L'uomo sorride e parla in modo naturale in portoghese (accento brasiliano), pronunciando un breve messaggio amichevole e positivo come "Oi! Estou me sentindo muito bem hoje. Que dia incrível, né?". Mantieni lo sfondo dell'interno dell'auto, lo stesso identico aspetto e un movimento naturale della testa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090608673697464321/img/XIkmOTOKm5JEpI6c.jpg" width="600" alt="Messaggio amichevole di un uomo che parla portoghese">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9624)**
-
-**Author:** [Vini](https://x.com/Vinil9t) | **Source:** [Link](https://x.com/Vinil9t/status/2090608698666160330) | **Published:** Aug 21, 2026
-
----
-### Video dell'inseguimento cyberpunk di Aurora
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt complesso che utilizza l'algebra simbolica per definire una scena di inseguimento fantascientifica con una moto a levitazione e l'unità Aurora 7.
-
-#### 📝 Prompt
-
-```
-[[🟩+🟪]+[[hoverbike+[🤖=👮‍♀️=unit_Aurora_7]]+[🎯_pursuit]+[glossy]+[🔈🔉🔊🔉🔈🚨]]
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090580112202768384/img/SQ-5s4IEznGOmMTR.jpg" width="600" alt="Video dell'inseguimento cyberpunk di Aurora">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9625)**
-
-**Author:** [Elis Satu](https://x.com/astvatsaturn) | **Source:** [Link](https://x.com/astvatsaturn/status/2090580214120165872) | **Published:** Aug 20, 2026
-
----
-### Decappottabile surrealista in stile Magritte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico che descrive un dipinto a olio surrealista in stile Magritte raffigurante una coppia su un'auto decappottabile d'epoca, con dettagli specifici della moda degli anni '40 e un paesaggio desertico.
-
-#### 📝 Prompt
-
-```
-Un dipinto a olio surrealista in stile Magritte di una coppia seduta su una decappottabile d'epoca color verde oliva in un paesaggio desertico pianeggiante sotto un cielo azzurro pallido con un'unica striscia di nuvole orizzontale. La donna indossa un cappello conico oversize a scacchi bianchi e neri sormontato da un pom-pon color corallo, occhiali da sole cat-eye gialli, orecchini di perle e una giacca rosa pallido con un ampio colletto a punta bianco e bottoni neri. L'uomo indossa un cappello di feltro color corallo con la corona ammaccata, occhiali da sole rettangolari gialli, un dolcevita beige e un blazer scuro a motivo pied-de-poule con un fazzoletto da taschino bianco. Espressioni impassibili, finitura pittorica opaca e liscia, stile realismo da rivista degli anni '40.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090558281303433216/img/Wg6LxnjN_60CVMWj.jpg" width="600" alt="Decappottabile surrealista in stile Magritte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9565)**
-
-**Author:** [danailama](https://x.com/danai_lama) | **Source:** [Link](https://x.com/danai_lama/status/2090558298533593235) | **Published:** Aug 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2198,6 +2201,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-31T05:14:51.277Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-31T16:21:01.145Z</sub>
 
 </div>
