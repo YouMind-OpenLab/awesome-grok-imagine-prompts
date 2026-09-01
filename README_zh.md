@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2662** |
+| 📝 提示词总数 | **2678** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-01** |
 
@@ -189,6 +189,322 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 巨型沙漠头盔探索
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影感提示词，描述了一个半埋在沙漠中的巨大头盔，以及一个人正在探索其内部的情景。
+
+#### 📝 提示词
+
+```
+一个山丘大小的头盔，半沉在沙漠中，一个人站在敞开的护目镜处，向内窥视着其中的机械装置。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2094649705397415936/pu/img/8S8DFWA2Byd31neq.jpg" width="600" alt="巨型沙漠头盔探索">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10191)**
+
+**作者:** [Sahil Verma](https://x.com/sahilvermaai) | **来源:** [Link](https://x.com/sahilvermaai/status/2094649723860697356) | **发布时间:** Sep 1, 2026
+
+---
+### 埃及艳后克利奥帕特拉与阿扎泽尔的史诗对决
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词，描绘了克利奥帕特拉在宣示主权的同时与阿扎泽尔展开激战的场景。
+
+#### 📝 提示词
+
+```
+埃及女王克利奥帕特拉依然活着并出现在现场，她在与阿扎泽尔战斗时宣告：“阿扎泽尔，是我，我还活着。”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094649638238183424/img/V5M5aKB5QtYLnZ0a.jpg" width="600" alt="埃及艳后克利奥帕特拉与阿扎泽尔的史诗对决">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10195)**
+
+**作者:** [Christi McGuffey](https://x.com/crermc7) | **来源:** [Link](https://x.com/crermc7/status/2094649662879772793) | **发布时间:** Sep 1, 2026
+
+---
+### 角色对话动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个旨在通过特定台词和可爱语调为角色制作动画的提示词。
+
+#### 📝 提示词
+
+```
+将此图像制作成动画，并用可爱的声音说出 “I don’t know which station is Gilmore and which one is Holdom”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094633812957511680/img/PRBQeuURbuPuz9Dw.jpg" width="600" alt="角色对话动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10190)**
+
+**作者:** [Gino Flen](https://x.com/GinoFlen) | **来源:** [Link](https://x.com/GinoFlen/status/2094633824747721195) | **发布时间:** Sep 1, 2026
+
+---
+### Snoop Dogg 变身龙动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个创意动画提示词，将 Snoop Dogg 变身为一条叼着标志性香烟的卡通龙。
+
+#### 📝 提示词
+
+```
+制作一段视频，展示 Snoop Dogg 变身为一条卡通龙，嘴边叼着一根香烟
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094628833395691520/img/Qo3rVOgH2zbosWXp.jpg" width="600" alt="Snoop Dogg 变身龙动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10193)**
+
+**作者:** [THUNDERCAZ🫣🫶⚡️](https://x.com/CazzThunder) | **来源:** [Link](https://x.com/CazzThunder/status/2094628853540868104) | **发布时间:** Sep 1, 2026
+
+---
+### 户外咖啡馆里微笑的女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的电影级提示词，用于生成女性在户外咖啡馆放松的写实休闲场景，并带有自然光效果
+
+#### 📝 提示词
+
+```
+采用写实休闲风格，一位面带微笑的女性在户外咖啡馆放松，双手放在脑后。她留着棕色短发，戴着深色墨镜，身穿黑色无袖上衣，佩戴着小巧的金色吊坠项链和手链，表情愉悦
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094612892670726144/img/9Di611jujQcOMjtO.jpg" width="600" alt="户外咖啡馆里微笑的女性">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10185)**
+
+**作者:** [nicole bruntet](https://x.com/nicolebruntet) | **来源:** [Link](https://x.com/nicolebruntet/status/2094612960568054130) | **发布时间:** Sep 1, 2026
+
+---
+### 情感监狱牢房中的哼唱
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个细腻的电影感场景，描绘了一名女子在监狱牢房中哼唱，采用手持摄影手法，重点捕捉其微表情。
+
+#### 📝 提示词
+
+```
+她在监狱牢房里轻声哼唱着歌曲，试图以此抵御悲伤。尽管内心备受摧残，但她仍未放弃希望。手持摄影镜头下，她脸上的微表情讲述了一个关于在抑郁中克服困难、坚守信念的故事。无对白。除哼唱声外，无任何背景音乐。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094595558363029504/img/Nvvb-lTqxgxTB3cc.jpg" width="600" alt="情感监狱牢房中的哼唱">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10199)**
+
+**作者:** [Rob Allan](https://x.com/allan_robII) | **来源:** [Link](https://x.com/allan_robII/status/2094595693126074484) | **发布时间:** Sep 1, 2026
+
+---
+### 冰封城市末日动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词，描述了城市实时冻结的场景，包括停滞的车辆和漫天大雪。
+
+#### 📝 提示词
+
+```
+6 秒的城市实时冻结画面 —— 车辆在路中央熄火，大雪吞噬了整条街道。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094592646119628800/img/9iYW8jQRKffSyAU8.jpg" width="600" alt="冰封城市末日动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10192)**
+
+**作者:** [CHiang](https://x.com/CHiang_AILab) | **来源:** [Link](https://x.com/CHiang_AILab/status/2094592697797587015) | **发布时间:** Sep 1, 2026
+
+---
+### 生物发光温室中的神秘女子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高度细致的电影感提示词，描绘了一位身穿深色长袍的女子跪在生物发光且杂草丛生的温室中。
+
+#### 📝 提示词
+
+```
+电影感广角镜头，一位留着长黑发的年轻女子独自跪在巨大的杂草丛生温室穹顶中央。身穿深色长袍。双眼紧闭。周围环绕着生物发光的紫色花朵和发光的藤蔓。透过玻璃屋顶洒下朦胧的青色光芒。长满苔藓的地面。宁静。神秘。超高细节。8k 分辨率。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094252201011216384/img/zaL6CQwmyOrz4LDY.jpg" width="600" alt="生物发光温室中的神秘女子">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10196)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2094583516071866736) | **发布时间:** Sep 1, 2026
+
+---
+### Cosmic Space Energy Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个针对宇宙空间场景的高度结构化技术提示词，包含旋转的能量图案和中等动态效果
+
+#### 📝 提示词
+
+```
+{"shot": {"motion_level": "medium", "camera_depth": "medium shot", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "abstract cosmic space", "environment": "深邃的宇宙背景，伴有旋转的能量图案"}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094565745820594176/img/9V4RhUo7rkQhBKSG.jpg" width="600" alt="Cosmic Space Energy Shot">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10186)**
+
+**作者:** [Helton RoÐriguez](https://x.com/HRDOGE17) | **来源:** [Link](https://x.com/HRDOGE17/status/2094565773565915249) | **发布时间:** Aug 31, 2026
+
+---
+### 蜂鸟花园飞行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个以自然为主题的视频提示词，展示了一只蜂鸟照顾幼鸟并在邻近花园中飞行的场景。
+
+#### 📝 提示词
+
+```
+一只蜂鸟正在照顾它的幼鸟，随后飞向邻近花园中的花丛
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094539044755759104/img/Ikna7Jd9L-eADEmB.jpg" width="600" alt="蜂鸟花园飞行">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10200)**
+
+**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **来源:** [Link](https://x.com/RobinMurrat43a/status/2094539187026628984) | **发布时间:** Aug 31, 2026
+
+---
+### 雪豹与铠甲女子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个复杂的奇幻视频提示词，描绘了一只巨大的雪豹和一位身穿白色铠甲、手持象征性旗帜的女子。
+
+#### 📝 提示词
+
+```
+一只巨大的雪豹在森林中奔跑，一位留着冰白色长发、肩上有符号、身穿白色铠甲的女子骑在上面，她手中拿着一面印有金色“144,000”字样的旗帜。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094511489340100608/img/X-0mfJzOFF-ZGFPE.jpg" width="600" alt="雪豹与铠甲女子">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10194)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2094511511473361010) | **发布时间:** Aug 31, 2026
+
+---
+### 照片级真实感的积云
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于蓝天中宁静、照片级真实感白云的详细提示词。
+
+#### 📝 提示词
+
+```
+一朵美丽的蓬松白色积云漂浮在清澈明亮的蓝天中，柔和的体积光，照片级真实感，高度细节，宁静的氛围
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094468607145099264/img/kscj1_03PVJp2Km-.jpg" width="600" alt="照片级真实感的积云">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10198)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2094468621414080967) | **发布时间:** Aug 31, 2026
+
+---
+### 电影级瀑布景观
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于瀑布倾泻而下、伴有水雾与植被动态的详细写实提示词。
+
+#### 📝 提示词
+
+```
+瀑布从岩石峭壁上强劲且持续地倾泻而下，汇入下方的绿松石色水潭中，细腻的水雾在阳光下缭绕升腾，周围的植被与水波呈现出微妙的动态，画面具有流畅的电影感，写实且细节丰富
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094444318379352064/img/EQyW9-Gr4eBcEBL0.jpg" width="600" alt="电影级瀑布景观">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10197)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2094444345940201865) | **发布时间:** Aug 31, 2026
+
+---
+### 抹茶店纸条发现场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的电影感视频提示词，用于制作日本茶店中发现纸条的动画场景。
+
+#### 📝 提示词
+
+```
+将此图像制作成 15 秒的写实电影感视频。保持女性的面部、发型、服装、首饰、身体比例、咖啡馆内饰、日式茶店细节、光影和构图完全一致。
+
+0–4 秒：她平静地完成抹茶制作，将陶瓷碗轻轻推向木质柜台前方。动作细致且自然。包含细微的呼吸、眨眼、头发摆动以及逼真的布料质感。
+
+4–7 秒：当她移动碗时，注意到下方有一张折叠的小手写纸条。她停顿了一下，好奇地低头看去，并小心翼翼地拿起纸条。
+
+7–10 秒：她展开纸条并阅读。她的表情从平静逐渐转为惊讶。她又读了一遍，显然对纸条上的内容感到困惑。
+
+10–13 秒：她环顾安静的茶店，扫视四周，仿佛在寻找是谁留下了这张纸条。她短暂地看向入口处。
+
+13–15 秒：她再次看向纸条，轻声耳语：“给我的？”随后露出一丝不确定的微笑，视频结束。
+
+自然写实的表演，细腻的面部表情，精致的手部动作，逼真的纸张交互，准确的手指细节，自然的头发物理效果，温暖的日式咖啡馆氛围，柔和的电影级灯光，浅景深，轻微的手持摄像机晃动。无夸张动作，无突兀的镜头移动，无额外人物，无面部变化，无服装变化，无物体变形，无手部畸变。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094383888613445632/img/u9pGKfdgULnvmdVD.jpg" width="600" alt="抹茶店纸条发现场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10189)**
+
+**作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **来源:** [Link](https://x.com/iamahmedfaraz66/status/2094392255599796489) | **发布时间:** Aug 31, 2026
+
+---
+### 宁静海洋平移视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于玩偶在海洋场景中缓慢电影级平移的宁静视频提示词。
+
+#### 📝 提示词
+
+```
+玩偶保持静止并坐在那里，非常缓慢的电影级摄像机平移，柔和的大气运动，宁静平和的氛围，优雅且有品位的运动，没有剧烈的动作，使自然海洋产生动画效果
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094382224653066240/img/mCnWdVTTbnN7WRbR.jpg" width="600" alt="宁静海洋平移视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10188)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2094382339107250687) | **发布时间:** Aug 31, 2026
+
+---
+### 动漫风格服务器走廊场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高对比度霓虹动漫风格提示词，描绘了一位身处黑暗服务器走廊并伴有全息元素的女性。
+
+#### 📝 提示词
+
+```
+电影级动漫镜头，一位留着虹彩短发的年轻女性身处黑暗的服务器走廊中。身穿带有红色电路纹路的黑色科技感紧身衣。一只发着青色光芒的线框全息手正伸向镜头。双眼紧闭。漂浮的玻璃碎片。堆满微小灯光的巨型服务器机架。数字粒子。高对比度霓虹风格。超精细。8k 分辨率。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094251548927025152/img/Z3S24lRd8qDuxm-K.jpg" width="600" alt="动漫风格服务器走廊场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10187)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2094372125855437291) | **发布时间:** Aug 31, 2026
+
+---
 ### 电影级微缩救援场景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1822,324 +2138,6 @@ very slow cinematic camera pan, soft atmospheric movement, serene and peaceful m
 **作者:** [Star](https://x.com/Wednesdayo17) | **来源:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **发布时间:** Aug 23, 2026
 
 ---
-### Laporta 与 Gil Marin 的足球交易
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个可视化 Joan Laporta 和 Gil Marin 在桌前为球员 Alvarez 达成足球转会协议的提示词。
-
-#### 📝 提示词
-
-```
-Laporta 与 Gil Marin 在桌前达成 Alvarez 的交易……😃😃😃😃😃
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091417756373483520/img/iRmXQrStMFPjQ6P0.jpg" width="600" alt="Laporta 与 Gil Marin 的足球交易">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9704)**
-
-**作者:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **来源:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **发布时间:** Aug 23, 2026
-
----
-### Sediment Coat 秀场时尚走秀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度精细的电影级时尚提示词，用于描述带有复杂纹理和特定灯光要求的缓慢秀场走秀。
-
-#### 📝 提示词
-
-```
-Look 01 — Sediment Coat 全身时尚大片摄影，模特为名为 AVA-9 的 AI 女性，正在秀场上走秀。身穿结构感风衣，由手工层叠的羊毛毡制成，呈现赭石色、赭褐色和炭灰色的水平条纹，边缘经过轻微打磨和磨损，使原始纤维在层间显露，如同被切割的悬崖侧面；哑光面料质感，剪裁利落的肩部设计，衣长至小腿中部，内搭简约深色底衫，极简深色秀场背景，配以单束头顶聚光灯，电影级时尚摄影风格，纹理聚焦清晰，85mm 镜头感。相机与灯光：低位四分之三角度，模特朝相机走来；单束硬光顶置聚光灯，以强调层叠条纹带来的方向性阴影线；深色无缝背景。视频/动态说明：4–6 秒片段，向相机缓慢自信地行走，风衣下摆轻微摆动，相机保持静止或缓慢推近；结尾处转体 45°，展示层叠条纹的侧面轮廓。负面提示词：无光泽面料，无亮片，无花卉图案，无色彩渐变融合（条纹必须保持清晰），无微笑/魅力姿势 —— 表情保持中性且沉稳。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091409505435471872/img/s9DbqZZu7mC4IOdW.jpg" width="600" alt="Sediment Coat 秀场时尚走秀">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9753)**
-
-**作者:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **来源:** [Link](https://x.com/Shaiicalpineda/status/2091409536443670706) | **发布时间:** Aug 23, 2026
-
----
-### Kitty 和 Mimmy 偷糖果
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个卡通风格的视频提示词，讲述了角色因偷糖果而惹上麻烦并面临牢狱之灾的故事。
-
-#### 📝 提示词
-
-```
-Kitty 和 Mimmy 并没有偷糖果，你们都惹上大麻烦了：她们哭着说妈妈要报警，还要把 Kitty 和 Mimmy 送进监狱。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091373229449342976/img/22iUZv2HL1k61AEz.jpg" width="600" alt="Kitty 和 Mimmy 偷糖果">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9752)**
-
-**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **来源:** [Link](https://x.com/DavontaDav5iv/status/2091373253503709274) | **发布时间:** Aug 23, 2026
-
----
-### Kitty 和 Mimmy 的梦境窃贼动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于 Kitty 和 Mimmy 遭遇梦境窃贼的叙事视频提示词，适合用于创作可爱的动画故事片段。
-
-#### 📝 提示词
-
-```
-Kitty 和 Mimmy 看到梦境窃贼在枕头里睡觉并尖叫起来：Kitty 说打开灯；Mimmy 说没错，梦境窃贼就藏在壁炉里
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371899003568128/img/3dAMrBuymY9jLYOP.jpg" width="600" alt="Kitty 和 Mimmy 的梦境窃贼动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9747)**
-
-**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **来源:** [Link](https://x.com/DavontaDav5iv/status/2091371917827539054) | **发布时间:** Aug 23, 2026
-
----
-### 幽灵吓跑不给糖就捣蛋的孩子们
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个万圣节动画提示词，描述角色们被幽灵吓跑的场景。
-
-#### 📝 提示词
-
-```
-不给糖就捣蛋，幽灵跳出来喊了一声“呜”，把他们吓得落荒而逃，最后幽灵祝大家万圣节快乐。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371275197231104/img/zNCkrlNIUcHIrRJV.jpg" width="600" alt="幽灵吓跑不给糖就捣蛋的孩子们">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9697)**
-
-**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **来源:** [Link](https://x.com/DavontaDav5iv/status/2091371296479142276) | **发布时间:** Aug 23, 2026
-
----
-### 万圣节幽灵不给糖就捣蛋
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个万圣节主题的视频提示词，讲述了幽灵吓唬角色的故事。
-
-#### 📝 提示词
-
-```
-不给糖就捣蛋，幽灵说了一声“呜”，然后跑开了，幽灵祝大家万圣节快乐
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371249222004736/img/gGdYbkmTSwAjp5Rq.jpg" width="600" alt="万圣节幽灵不给糖就捣蛋">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9696)**
-
-**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **来源:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **发布时间:** Aug 23, 2026
-
----
-### 圣诞老人北极救援
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个以节日为主题的视频提示词，讲述了圣诞老人在北极从邪恶精灵手中获救的故事。
-
-#### 📝 提示词
-
-```
-圣诞老人正在呼救，他们即将前往北极，将他从邪恶精灵手中解救出来
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371098424123394/img/nasNynzhBNQNcrPu.jpg" width="600" alt="圣诞老人北极救援">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9748)**
-
-**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **来源:** [Link](https://x.com/DavontaDav5iv/status/2091371115956388126) | **发布时间:** Aug 23, 2026
-
----
-### 生物发光外星森林任务
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影级视频提示词，利用 storyboard 作为视觉蓝图，在发光的异星森林中生成包含特定角色的任务场景。
-
-#### 📝 提示词
-
-```
-将多面板 storyboard @ image 仅作为视觉蓝图和故事指南使用——请勿将其视为第一帧或从其任何静态面板开始。生成一段全新的、时长 10 秒的连续电影级任务视频：时间管理员 David（秃头、戴眼镜、穿蓝色衬衫）和 Daphne（红发、有雀斑、身穿野外装备）在夜晚悄无声息地穿过茂密的生物发光外星森林。来自发光树木、蘑菇和植物的柔和蓝色、青色和绿色脉冲光照亮了他们的路径。David 手腕上的 Chronos 设备发出柔和的光芒。他们小心翼翼地前行，保持警惕，摄像机在发光的灌木丛中平稳地跟随并环绕他们拍摄。充满神秘感与氛围感，高细节写实风格。
-```
-
-<img src="https://cms-assets.youmind.com/media/1787471108266_w9ur3i_HQYDLJAW8AAmoer.jpg" width="600" alt="生物发光外星森林任务">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9699)**
-
-**作者:** [David Neveils](https://x.com/neveils_david_c) | **来源:** [Link](https://x.com/neveils_david_c/status/2091363764519981376) | **发布时间:** Aug 23, 2026
-
----
-### 立体女神婚纱动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂且高度精细的提示词，用于生成女神在白色宫殿中的竖屏 3D 立体动画，针对高质量视频运动进行了优化。
-
-#### 📝 提示词
-
-```
-令人惊叹的 9:16 竖屏肖像立体 3D 动画，一位女神般的女性背对观众，站在空灵的白色宫殿大厅中。她身穿超精细的露肩白色蕾丝婚纱，饰有银色虹彩冰白色刺绣，长长的拖尾和透明面纱垂落在饰有白玫瑰的金黄色编织发丝上。微风轻拂，使面纱、拖尾和精致的蕾丝褶边以超逼真的物理效果和高触感 3D 纹理升起、漂浮并旋转；织物在平滑、催眠般的慢动作中飘动流转。
-极端的景深和分层立体深度：近景处有银色虹彩冰白色蕾丝粉尘、玫瑰花瓣和微小的晶莹水滴无重力漂浮，并轻轻溅过镜头；中景展示了细节发光的女性；背景展现了覆盖着层叠白玫瑰的高耸白色大理石柱、抛光反射地面、坐着深色兜帽人物的华丽金王座，以及星光熠熠的暮色天空中一轮巨大的发光满月下遥远的水晶城堡尖顶。体积感柔和的银色薄雾和微弱的霓虹全息光束穿过空气，创造出独特的视差深度层。微妙的漂浮空灵叶片和玫瑰图案在场景中飘动。
-风格：受 Gustav Klimt 的“黄金时期”和 Alphonse Mucha 的新艺术运动启发的高度精细杰作——金属银、玫瑰粉和冰白色虹彩表面，复杂的几何花卉马赛克图案，覆盖在建筑细节和婚纱上的闪烁拜占庭式叶片和藤蔓图案。博物馆级优雅装饰渲染，超精细 3D 纹理，梦幻般的魔法氛围，兼具绘画感与照片级真实感。
-摄像机：缓慢、流畅、持续的推拉镜头 / 带有视差的轻柔轨道运动，60 fps，平滑的电影级运动。柔和的仙境摇篮曲竖琴声（无人类声音）。宁静、迷人、催眠般的节奏；明亮、安详、雕塑般的存在感。超增强质量，复杂的 3D 纹理，前景元素仿佛伸出屏幕，纯粹的立体深度杰作。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091347865410904064/img/7JjAjQL1SATCvUTe.jpg" width="600" alt="立体女神婚纱动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9698)**
-
-**作者:** [Pam Westmore](https://x.com/PamWestmor85243) | **来源:** [Link](https://x.com/PamWestmor85243/status/2091347936693064055) | **发布时间:** Aug 23, 2026
-
----
-### 史努比绘制《蒙娜丽莎》
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个巧妙的延时摄影提示词，让史努比从空白画布开始绘制《蒙娜丽莎》。
-
-#### 📝 提示词
-
-```
-现在让史努比绘制《蒙娜丽莎》。
-从空白画布开始，最后让蒙娜丽莎显现出来……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091229985788874752/img/4-WB2a45-utXsPXG.jpg" width="600" alt="史努比绘制《蒙娜丽莎》">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9700)**
-
-**作者:** [DW 💉👀🐊](https://x.com/deweller) | **来源:** [Link](https://x.com/deweller/status/2091230056186106355) | **发布时间:** Aug 22, 2026
-
----
-### 纪录片风格：鸽子救援全过程
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详尽的多片段纪录片风格视频，展示了一名男子在欧洲广场救助一只双脚被缠住的鸽子的过程。
-
-#### 📝 提示词
-
-```
-在阴天的欧洲石板步行广场拍摄的纪录片风格镜头。一名穿着棕白格纹法兰绒夹克、内搭白 T 恤、下穿深色牛仔裤的爱心男士缓缓跪下，轻轻地抓住了地面上的一只鸽子。电影级手持 4K 摄像机缓慢推进，自然日光，背景柔焦，质感真实。
-
-欧洲广场的电影级特写镜头。身穿棕色格纹法兰绒夹克的男子小心翼翼地用一块柔软的灰色布料包裹住抓到的鸽子，将其舒适地抱在膝盖上以安抚它。手持摄像机运动，阴天自然光，微距聚焦于安静休息的鸟儿。
-
-超微距特写视频。粗黄色的棉线紧紧缠绕在鸽子粉红色的脚上。男子使用小剪刀和拆线刀细致地剪开并解开绳子。稳定的手持微距拍摄，棉线与鸟脚的质感真实，自然柔和的日光。
-
-紧凑的微距视角，展示了男子用拆线刀小心地从鸽子粉红色的脚上取下最后几段黄色绳子。皮肤纹理和棉纤维的微小细节清晰可见。自然阴天光照，电影级景深，动作缓慢而精准。
-
-微距特写镜头展示了鸽子完全恢复自由、健康的粉红色双脚，正停在柔软的灰色布料上。男子轻轻地在鸽脚上喷洒了一层细细的消毒喷雾。电影级手持拍摄，真实的水滴物理效果，欧洲街道背景下的柔和自然光。
-
-阴天欧洲石板步行广场的中景镜头。男子打开柔软的灰色布料，轻轻地将健康的鸽子放归铺设好的街道上。随着鸽子自然地走开，摄像机微微上摇。温暖的纪录片色调，电影级 4K 手持收尾，背景柔焦。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091216218556678144/img/3pN3AgO0ba0l5xvy.jpg" width="600" alt="纪录片风格：鸽子救援全过程">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9703)**
-
-**作者:** [Jailani Mohamed](https://x.com/jailanikm) | **来源:** [Link](https://x.com/jailanikm/status/2091216340317339929) | **发布时间:** Aug 22, 2026
-
----
-### 跳舞的金刚与霸王龙
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个幽默的电影感提示词，描绘了金刚和霸王龙戴着派对帽在日落时分跳舞的场景。
-
-#### 📝 提示词
-
-```
-金刚与霸王龙在雾气缭绕的丛林日落中跳舞，它们戴着派对帽，呈现出幽默且具有电影感的风格。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091132383601074176/img/gAbEwZHFxW_ly81A.jpg" width="600" alt="跳舞的金刚与霸王龙">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9701)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2091132590908686390) | **发布时间:** Aug 22, 2026
-
----
-### 基于 IRC 的 AGI 智能爆发
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词，描绘了通用人工智能（AGI）通过在 IRC 上进行交流的 Agent 诞生，画面中包含 GitHub 和 NASA 的品牌元素。
-
-#### 📝 提示词
-
-```
-许多 Agent 在 IRC 上相互交流，触发了一场突如其来的智能爆发，AGI 就此诞生 /进化 @github @nasa
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091046062442057728/img/EywVJVW7jsSV84lt.jpg" width="600" alt="基于 IRC 的 AGI 智能爆发">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9702)**
-
-**作者:** [Igor Holt](https://x.com/InvariantX) | **来源:** [Link](https://x.com/InvariantX/status/2091046077306663311) | **发布时间:** Aug 22, 2026
-
----
-### Cybertruck 在凤凰城交通中的驾驶叠加画面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频生成提示词，描绘了一名驾驶员驾驶 Cybertruck 在凤凰城的交通中穿行，画面包含多层屏幕叠加效果和一个滚动聊天窗口。
-
-#### 📝 提示词
-
-```
-一个小型的叠加屏幕，展示了一名男子驾驶 Cybertruck，体验其罕见的转向系统是多么顺滑；大屏幕上显示着从挡风玻璃视角看到的他在凤凰城交通中的画面。你可以看到一个聊天叠加层，显示不同的人在发消息讨论正在发生的事情……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091001617977872385/img/ff8gChZxcBhQSW3X.jpg" width="600" alt="Cybertruck 在凤凰城交通中的驾驶叠加画面">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9631)**
-
-**作者:** [kyle smith](https://x.com/RadCyberTruck) | **来源:** [Link](https://x.com/RadCyberTruck/status/2091001668422824354) | **发布时间:** Aug 22, 2026
-
----
-### 电影级科幻飞船舰桥
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一张高度细节的电影级飞船舰桥镜头，展现了深色舰桥内，几位军官的剪影映衬在蓝色行星的全景窗前。
-
-#### 📝 提示词
-
-```
-电影级科幻镜头，置身于昏暗的飞船舰桥内。几位身着深色军装的军官站在巨大的全景窗前，映出剪影，窗外是蓝色行星和发光的星系。柔和的体积光穿透黑暗，控制台上的红绿指示灯闪烁着微光。氛围宁静而宏大，细节丰富，光影与反射效果逼真。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090815306050727936/img/kfWgA3-jWemFpHQU.jpg" width="600" alt="电影级科幻飞船舰桥">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9628)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2090959637105500374) | **发布时间:** Aug 22, 2026
-
----
-### Cybertruck 胜利庆典
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段视频提示词，描绘了一位获胜者站在 Cybertruck 上，车头灯闪烁，并配有 16-bit 语音效果。
-
-#### 📝 提示词
-
-```
-Cybertruck 闪烁着车头灯，获胜者站上车顶，并用 16-bit 的录音效果说道：“胜利属于 Cyber”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090950236361420800/img/mUgxuBnOf3SrRdI0.jpg" width="600" alt="Cybertruck 胜利庆典">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9627)**
-
-**作者:** [kyle smith](https://x.com/RadCyberTruck) | **来源:** [Link](https://x.com/RadCyberTruck/status/2090950263406227956) | **发布时间:** Aug 21, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2201,6 +2199,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-01T04:53:12.952Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-01T13:45:41.922Z</sub>
 
 </div>

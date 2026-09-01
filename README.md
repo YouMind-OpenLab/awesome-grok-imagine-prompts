@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2662** |
+| 📝 Total Prompts | **2678** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-01** |
 
@@ -189,6 +189,322 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Giant Desert Helmet Exploration
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt describing a colossal helmet half-buried in the desert with a person exploring the interior.
+
+#### 📝 Prompt
+
+```
+A helmet the size of a hill, half sunk in the desert, and one person standing in the open visor looking in at the machinery.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2094649705397415936/pu/img/8S8DFWA2Byd31neq.jpg" width="600" alt="Giant Desert Helmet Exploration">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10191)**
+
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2094649723860697356) | **Published:** Sep 1, 2026
+
+---
+### Cleopatra Fighting Azael Epic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of Cleopatra fighting Azael while declaring her presence.
+
+#### 📝 Prompt
+
+```
+Cleopatra, the queen of Egypt, alive and present, declaring 'it’s me Azael, I’m alive' while fighting Azael
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094649638238183424/img/V5M5aKB5QtYLnZ0a.jpg" width="600" alt="Cleopatra Fighting Azael Epic">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10195)**
+
+**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2094649662879772793) | **Published:** Sep 1, 2026
+
+---
+### Talking Character Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt designed to animate a character with specific dialogue and a cute vocal tone.
+
+#### 📝 Prompt
+
+```
+Animate this image to say “I don’t know which station is Gilmore and which one is Holdom” in a cute voice
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094633812957511680/img/PRBQeuURbuPuz9Dw.jpg" width="600" alt="Talking Character Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10190)**
+
+**Author:** [Gino Flen](https://x.com/GinoFlen) | **Source:** [Link](https://x.com/GinoFlen/status/2094633824747721195) | **Published:** Sep 1, 2026
+
+---
+### Snoop Dogg Dragon Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative animation prompt that transforms Snoop Dogg into a cartoon dragon with a signature cigarette.
+
+#### 📝 Prompt
+
+```
+Create a video of Snoop Dogg turning into a cartoon dragon with a cigarette hanging out the side its mouth
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094628833395691520/img/Qo3rVOgH2zbosWXp.jpg" width="600" alt="Snoop Dogg Dragon Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10193)**
+
+**Author:** [THUNDERCAZ🫣🫶⚡️](https://x.com/CazzThunder) | **Source:** [Link](https://x.com/CazzThunder/status/2094628853540868104) | **Published:** Sep 1, 2026
+
+---
+### Smiling Woman at Outdoor Cafe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for a realistic casual scene of a woman relaxing at an outdoor cafe with natural lighting
+
+#### 📝 Prompt
+
+```
+In a realistic casual style, a smiling woman relaxes at an outdoor cafe, her hands behind her head. She has short brown hair, dark sunglasses, a black sleeveless top, a small gold pendant necklace, and bracelets on her wrist, with a joyful expression
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094612892670726144/img/9Di611jujQcOMjtO.jpg" width="600" alt="Smiling Woman at Outdoor Cafe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10185)**
+
+**Author:** [nicole bruntet](https://x.com/nicolebruntet) | **Source:** [Link](https://x.com/nicolebruntet/status/2094612960568054130) | **Published:** Sep 1, 2026
+
+---
+### Emotional Prison Cell Humming
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic scene featuring a woman humming in a prison cell, captured with handheld camera work and focus on micro-expressions.
+
+#### 📝 Prompt
+
+```
+She quietly hums a song to herself in the prison cell to keep the sadness at bay. She hasn't given up hope even though she is devastated. Handheld camera work, micro-expressions on her face tell the story of depression overcome by determination to keep the faith. No dialogue. No music other than her humming sounds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094595558363029504/img/Nvvb-lTqxgxTB3cc.jpg" width="600" alt="Emotional Prison Cell Humming">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10199)**
+
+**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2094595693126074484) | **Published:** Sep 1, 2026
+
+---
+### Frozen City Apocalypse Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a city freezing in real time with stalled cars and heavy snow.
+
+#### 📝 Prompt
+
+```
+6 seconds of a city freezing in real time — cars dead mid-road, snow swallowing the street.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094592646119628800/img/9iYW8jQRKffSyAU8.jpg" width="600" alt="Frozen City Apocalypse Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10192)**
+
+**Author:** [CHiang](https://x.com/CHiang_AILab) | **Source:** [Link](https://x.com/CHiang_AILab/status/2094592697797587015) | **Published:** Sep 1, 2026
+
+---
+### Bioluminescent Greenhouse Mystical Woman
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a woman in a dark robe kneeling in a bioluminescent overgrown greenhouse.
+
+#### 📝 Prompt
+
+```
+Cinematic wide shot of a solitary young woman with long black hair kneeling in the center of a vast overgrown greenhouse dome. Dark robe. Eyes closed. Bioluminescent purple flowers and glowing vines surrounding her. Misty teal light through the glass roof. Mossy ground. Quiet. Mystical. Ultra detailed. 8k.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094252201011216384/img/zaL6CQwmyOrz4LDY.jpg" width="600" alt="Bioluminescent Greenhouse Mystical Woman">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10196)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094583516071866736) | **Published:** Sep 1, 2026
+
+---
+### Cosmic Space Energy Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly structured technical prompt for a cosmic space scene with swirling energy patterns and medium motion
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "medium", "camera_depth": "medium shot", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "abstract cosmic space", "environment": "A dark, cosmic background with swirling energy patterns"}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094565745820594176/img/9V4RhUo7rkQhBKSG.jpg" width="600" alt="Cosmic Space Energy Shot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10186)**
+
+**Author:** [Helton RoÐriguez](https://x.com/HRDOGE17) | **Source:** [Link](https://x.com/HRDOGE17/status/2094565773565915249) | **Published:** Aug 31, 2026
+
+---
+### Hummingbird Garden Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A nature-themed video prompt featuring a hummingbird caring for its young and flying through an adjacent garden.
+
+#### 📝 Prompt
+
+```
+A HUMMING BIRD CARES FOR ITS YOUNG AND FLYS OFF TO THE FLOWERS IN A ADJACENT GARDEN
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094539044755759104/img/Ikna7Jd9L-eADEmB.jpg" width="600" alt="Hummingbird Garden Flight">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10200)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2094539187026628984) | **Published:** Aug 31, 2026
+
+---
+### Snow Leopard and Armored Woman
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex fantasy video prompt featuring a giant snow leopard and a woman in white armor holding a symbolic flag.
+
+#### 📝 Prompt
+
+```
+A giant snow leopard running through the forest with a woman with icy white hair and symbols on her shoulders wearing white armor she’s holding a flag that has 144,000 on it in gold .
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094511489340100608/img/X-0mfJzOFF-ZGFPE.jpg" width="600" alt="Snow Leopard and Armored Woman">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10194)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2094511511473361010) | **Published:** Aug 31, 2026
+
+---
+### Photorealistic Cumulus Cloud
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for a serene, photorealistic white cloud in a blue sky.
+
+#### 📝 Prompt
+
+```
+A beautiful fluffy white cumulus cloud floating in a clear bright blue sky, soft volumetric lighting, photorealistic, highly detailed, serene atmosphere
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094468607145099264/img/kscj1_03PVJp2Km-.jpg" width="600" alt="Photorealistic Cumulus Cloud">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10198)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2094468621414080967) | **Published:** Aug 31, 2026
+
+---
+### Cinematic Waterfall Cascade
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed photorealistic prompt for a cascading waterfall with mist and foliage movement.
+
+#### 📝 Prompt
+
+```
+The waterfall cascades powerfully and continuously down the rocky cliffs into the turquoise pool below, with fine mist swirling and rising in the sunlight, subtle movement in the surrounding foliage and water ripples, smooth cinematic motion, photorealistic, highly detailed
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094444318379352064/img/EQyW9-Gr4eBcEBL0.jpg" width="600" alt="Cinematic Waterfall Cascade">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10197)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2094444345940201865) | **Published:** Aug 31, 2026
+
+---
+### Matcha Tea Shop Note Discovery
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic video prompt for animating a scene in a Japanese tea shop where a note is discovered.
+
+#### 📝 Prompt
+
+```
+Animate this image into a photorealistic cinematic 15-second video. Preserve the woman's exact face, hairstyle, clothing, jewelry, body proportions, café interior, Japanese tea-shop details, lighting, and composition.
+
+0–4 sec: She calmly finishes preparing the matcha, gently sliding the ceramic bowl forward on the wooden counter. Her movements are careful and natural. Subtle breathing, blinking, hair movement, and realistic fabric motion.
+
+4–7 sec: As she moves the bowl, she notices a small folded handwritten note underneath it. She pauses, looks down with curiosity, and carefully picks up the note.
+
+7–10 sec: She unfolds the note and reads it. Her expression slowly changes from neutral to surprised. She rereads it once, clearly confused by what it says.
+
+10–13 sec: She looks around the quiet tea shop, scanning the room as if trying to figure out who left the note. She briefly looks toward the entrance.
+
+13–15 sec: She looks back at the note and quietly whispers, “For me?” Then she gives a small uncertain smile as the video ends.
+
+Natural realistic acting, subtle facial expressions, delicate hand movements, realistic paper interaction, accurate fingers, natural hair physics, warm Japanese café atmosphere, soft cinematic lighting, shallow depth of field, gentle handheld camera movement. No exaggerated movements, no sudden camera motion, no extra people, no face changes, no outfit changes, no object morphing, no distorted hands.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094383888613445632/img/u9pGKfdgULnvmdVD.jpg" width="600" alt="Matcha Tea Shop Note Discovery">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10189)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2094392255599796489) | **Published:** Aug 31, 2026
+
+---
+### Serene Ocean Pan Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A peaceful video prompt for a slow cinematic camera pan over an ocean scene featuring a doll.
+
+#### 📝 Prompt
+
+```
+the doll stays still and sits there, very slow cinematic camera pan, soft atmospheric movement, serene and peaceful mood, elegant and tasteful motion, no aggressive movement, animate the natural ocean
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094382224653066240/img/mCnWdVTTbnN7WRbR.jpg" width="600" alt="Serene Ocean Pan Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10188)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2094382339107250687) | **Published:** Aug 31, 2026
+
+---
+### Anime Server Corridor Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-contrast neon anime prompt featuring a woman in a dark server corridor with holographic elements.
+
+#### 📝 Prompt
+
+```
+Cinematic anime shot of a young woman with short iridescent pastel hair in a dark server corridor. Black tech bodysuit with red circuit lines. One glowing cyan wireframe holographic hand reaching toward the camera. Eyes closed. Floating glass shards. Towering server racks packed with tiny lights. Digital particles. High contrast neon. Ultra detailed. 8k.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094251548927025152/img/Z3S24lRd8qDuxm-K.jpg" width="600" alt="Anime Server Corridor Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10187)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094372125855437291) | **Published:** Aug 31, 2026
+
+---
 ### Cinematic Miniature Rescue Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,49 +524,61 @@ Cinematic miniature rescue scene in a tiny realistic world, several miniature wo
 **Author:** [Nicholas](https://x.com/Mud01185127) | **Source:** [Link](https://x.com/Mud01185127/status/2094299423258067039) | **Published:** Aug 31, 2026
 
 ---
-### Cinematic Café Suspense Animation
+### Cinematic Café Suspense Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An advanced video generation prompt designed to animate a static image into a 15-second suspenseful cinematic sequence with precise timing and character actions.
+> A complex multi-stage video prompt for animating a scene in a café where a woman receives a mysterious message.
 
 #### 📝 Prompt
 
 ```
-Create a photorealistic cinematic 15-second video from this exact image. Preserve the woman's exact face, identity, hairstyle, outfit, jewelry, body proportions, café interior, table objects, lighting, and composition. Make the animation feel like a real candid moment rather than a fashion video. 0–3 sec: She sits quietly at the café table, relaxed and slightly lost in thought. Her fingers rest near her face. She blinks naturally, breathes subtly, and her long hair moves slightly. Warm café lights and candle flames flicker naturally in the background. 3–6 sec: Her phone on the table suddenly vibrates with a notification. She hears it, looks down, reaches for the phone and picks it up. 6–9 sec: She unlocks the phone and reads the message. Her expression gradually changes from relaxed to surprised. She stops moving for a moment, rereads the message, and her eyes widen slightly. 9–12 sec: She lowers the phone a little and looks toward the café entrance, confused and slightly nervous, as if she suddenly realizes someone is nearby. 12–15 sec: She looks back at the phone one more time. The message on the screen reads: “I'm outside. Don't look behind you.” Her expression becomes tense. She slowly looks toward the window instead of turning around. End on this suspenseful moment. Natural realistic acting, subtle facial expressions, realistic blinking, accurate hand and finger movements, believable phone interaction, natural hair physics, realistic fabric movement, warm sophisticated café ambience, shallow depth of field, very subtle handheld camera movement. Build suspense gradually. No exaggerated reactions, no sudden camera movements, no visible sender, no extra characters, no cuts, no face changes, no outfit changes, no distorted hands or phone.
+Create a photorealistic cinematic 15-second video from this exact image. Preserve the woman's exact face, identity, hairstyle, outfit, jewelry, body proportions, café interior, table objects, lighting, and composition. Make the animation feel like a real candid moment rather than a fashion video.
+
+0–3 sec: She sits quietly at the café table, relaxed and slightly lost in thought. Her fingers rest near her face. She blinks naturally, breathes subtly, and her long hair moves slightly. Warm café lights and candle flames flicker naturally in the background.
+
+3–6 sec: Her phone on the table suddenly vibrates with a notification. She hears it, looks down, reaches for the phone and picks it up.
+
+6–9 sec: She unlocks the phone and reads the message. Her expression gradually changes from relaxed to surprised. She stops moving for a moment, rereads the message, and her eyes widen slightly.
+
+9–12 sec: She lowers the phone a little and looks toward the café entrance, confused and slightly nervous, as if she suddenly realizes someone is nearby.
+
+12–15 sec: She looks back at the phone one more time. The message on the screen reads: “I'm outside. Don't look behind you.” Her expression becomes tense. She slowly looks toward the window instead of turning around. End on this suspenseful moment.
+
+Natural realistic acting, subtle facial expressions, realistic blinking, accurate hand and finger movements, believable phone interaction, natural hair physics, realistic fabric movement, warm sophisticated café ambience, shallow depth of field, very subtle handheld camera movement. Build suspense gradually. No exaggerated reactions, no sudden camera movements, no visible sender, no extra characters, no cuts, no face changes, no outfit changes, no distorted hands or phone.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094274016601313280/img/tDJlh3HquBBgCAQp.jpg" width="600" alt="Cinematic Café Suspense Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094274016601313280/img/tDJlh3HquBBgCAQp.jpg" width="600" alt="Cinematic Café Suspense Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10138)**
 
 **Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2094275234719502716) | **Published:** Aug 31, 2026
 
 ---
-### Flying back to Starbase Texas
+### Flying to Starbase Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A motion-focused prompt directing subjects to lift out of the water and fly towards a specific location in Texas.
+> A video prompt instructing entities to rise out of the water and fly towards a specific location.
 
 #### 📝 Prompt
 
 ```
-Have both of them lift up out of the water and start flying back to Starbase, Texas
+Yes Have both of them lift up out of the water and start flying back to Starbase, Texas
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094268532582219776/img/qp1kB85ccqNPZjsU.jpg" width="600" alt="Flying back to Starbase Texas">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094268532582219776/img/qp1kB85ccqNPZjsU.jpg" width="600" alt="Flying to Starbase Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10137)**
 
 **Author:** [🐕‍🦺Ðoge✝️Cherball🚀](https://x.com/DogeCherball) | **Source:** [Link](https://x.com/DogeCherball/status/2094268636663853142) | **Published:** Aug 31, 2026
 
 ---
-### Colossal Desert Relic Illustration
+### Colossal Desert Helmet Relic
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a massive mechanical helmet buried in the desert with a tiny visitor, in graphic novel style.
+> A highly detailed cinematic prompt for a sci-fi landscape featuring a massive mechanical helmet buried in the sand.
 
 #### 📝 Prompt
 
@@ -258,18 +586,18 @@ Have both of them lift up out of the water and start flying back to Starbase, Te
 Wide cinematic illustration of a colossal weathered white mechanical helmet half-buried in a vast desert, riveted metal plates and rust stains, a lone tiny figure standing inside the open visor looking inward, pale sand piled around the base, distant low mountains under a clear blue sky, graphic novel style, clean linework, quiet scale, ultra detailed, 8k
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093880020808925184/img/5REPjuGQLeVh0-4m.jpg" width="600" alt="Colossal Desert Relic Illustration">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093880020808925184/img/5REPjuGQLeVh0-4m.jpg" width="600" alt="Colossal Desert Helmet Relic">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10141)**
 
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094251326863736910) | **Published:** Aug 31, 2026
 
 ---
-### Cinematic Pilot Tension Close-up
+### Female Pilot Cockpit Close-up
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intense, cinematic video prompt of a female pilot in a damaged cockpit with orange lighting and graphic novel style.
+> A cinematic graphic novel style prompt capturing an intense moment of a pilot in a damaged cockpit.
 
 #### 📝 Prompt
 
@@ -277,7 +605,7 @@ Wide cinematic illustration of a colossal weathered white mechanical helmet half
 Intense cinematic close-up of a female pilot inside a worn cockpit, cracked yellow flight helmet with shattered visor over one eye, sweat and a thin streak of blood on her face, wide focused eyes, slightly parted lips, analog gauges and clocks glowing warm orange in the background, graphic novel illustration style, heavy linework, dramatic lighting, tense atmosphere, ultra detailed, 8k
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093879898020720640/img/mJlp1gFAFlwfjTpe.jpg" width="600" alt="Cinematic Pilot Tension Close-up">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093879898020720640/img/mJlp1gFAFlwfjTpe.jpg" width="600" alt="Female Pilot Cockpit Close-up">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10139)**
 
@@ -341,11 +669,11 @@ Animate this image pulls off hat and says go ahead and say it punk or do you eve
 **Author:** [Marsha Bush](https://x.com/MarshaBush50) | **Source:** [Link](https://x.com/MarshaBush50/status/2094053671927484525) | **Published:** Aug 30, 2026
 
 ---
-### 360 Orbital Clothing Change
+### 360-Degree Clothing Change Timelapse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A technical video prompt for creating a seamless 360-degree rotation where the subject changes outfits with every camera loop.
+> A creative video prompt for Grok Imagine that uses a rotating 360-degree camera to show a character's clothing changing with every orbital spin.
 
 #### 📝 Prompt
 
@@ -353,7 +681,7 @@ Animate this image pulls off hat and says go ahead and say it punk or do you eve
 The camera rotating 360 degrees smoothly in fast motion, while the man clothes changed with every camera loop, before every spin the man snapping his fingers to change to new clothing, place the same person and pose unchanged steady in place, the camera rotating unstoppable in 360, the only change is clothes , timelapse, seamless motion
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094052255523639296/img/bpo_riyioik03HRS.jpg" width="600" alt="360 Orbital Clothing Change">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094052255523639296/img/bpo_riyioik03HRS.jpg" width="600" alt="360-Degree Clothing Change Timelapse">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10143)**
 
@@ -534,11 +862,11 @@ The bioluminescent ones — yes, this is exactly the place. When the water’s w
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093840804871606418) | **Published:** Aug 29, 2026
 
 ---
-### Long Exposure Time-Lapse Orbit
+### Long Exposure Time Lapse Orbit
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional video prompt creating a 360-degree orbiting shot using long exposure and motion blur for a time-lapse effect.
+> A cinematic video prompt that uses long exposure and time-lapse effects to create motion blur around a stationary subject with an orbiting camera.
 
 #### 📝 Prompt
 
@@ -546,7 +874,7 @@ The bioluminescent ones — yes, this is exactly the place. When the water’s w
 He is standing in place , people passing around him in long exposure with time lapse and motion blur with push in dolly handheld camera motion, the camera orbiting around his body in 360 degrees
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093840475153125376/img/aojsCP-3YxTfkBEc.jpg" width="600" alt="Long Exposure Time-Lapse Orbit">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093840475153125376/img/aojsCP-3YxTfkBEc.jpg" width="600" alt="Long Exposure Time Lapse Orbit">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10080)**
 
@@ -1797,321 +2125,6 @@ A woman with black curly hair, a size 8, underneath the light rising and becomin
 **Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
 
 ---
-### Laporta and Gil Marin Football Deal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt visualizing Joan Laporta and Gil Marin sealing a football transfer deal for the player Alvarez at a table.
-
-#### 📝 Prompt
-
-```
-Laporta sealing the Alvarez deal around a table with Gil Marin....😃😃😃😃😃
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091417756373483520/img/iRmXQrStMFPjQ6P0.jpg" width="600" alt="Laporta and Gil Marin Football Deal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9704)**
-
-**Author:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **Source:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **Published:** Aug 23, 2026
-
----
-### Sediment Coat Runway Fashion Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic fashion prompt for a slow runway walk featuring intricate textures and specific lighting instructions.
-
-#### 📝 Prompt
-
-```
-Look 01 — Sediment Coat Full-body editorial fashion photo of a woman AI model named AVA-9 walking a runway, wearing a structured trench coat made of hand-layered wool felt in horizontal bands of ochre, umber, and charcoal, edges lightly sanded and frayed so raw fiber shows between layers like a cut cliffside, matte fabric finish, tailored shoulders, coat falling to mid-calf, worn open over a plain dark base layer, minimalist dark runway background with a single overhead spotlight, cinematic editorial fashion photography, sharp focus on texture, 85mm lens look. Camera + lighting: Low three-quarter angle, model walking toward camera; single hard top-down spotlight to emphasize the layered banding as directional shadow lines; dark seamless backdrop. Video/motion note: 4–6 second clip, slow confident walk toward camera, coat hem swaying slightly, camera holds still or does a slow push-in; end on a 45° turn to reveal the side profile of the layered stripes. Negative prompt: no shiny fabric, no sequins, no floral pattern, no color gradient blend (bands must stay distinct), no smiling/glamour pose — expression neutral and composed.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091409505435471872/img/s9DbqZZu7mC4IOdW.jpg" width="600" alt="Sediment Coat Runway Fashion Walk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9753)**
-
-**Author:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **Source:** [Link](https://x.com/Shaiicalpineda/status/2091409536443670706) | **Published:** Aug 23, 2026
-
----
-### Kitty and Mimmy Candy Theft
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cartoon-style video prompt involving characters getting in trouble for stealing candy and facing jail time.
-
-#### 📝 Prompt
-
-```
-Kitty and Mimmy don’t steal the candy you all in big trouble: they cries they’re mom said he call the police and take kitty and Mimmy to jail
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091373229449342976/img/22iUZv2HL1k61AEz.jpg" width="600" alt="Kitty and Mimmy Candy Theft">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9752)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091373253503709274) | **Published:** Aug 23, 2026
-
----
-### Kitty and Mimmy Dream Thief Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt featuring Kitty and Mimmy encountering a dream thief, suitable for creating cute animated story segments.
-
-#### 📝 Prompt
-
-```
-Kitty and Mimmy saw the dream thief sleeping in the pillow and screams: kitty said turn on the light: Mimmy said right the dream thief hides in the fire place
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371899003568128/img/3dAMrBuymY9jLYOP.jpg" width="600" alt="Kitty and Mimmy Dream Thief Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9747)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371917827539054) | **Published:** Aug 23, 2026
-
----
-### Halloween Ghost Scare
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A seasonal video prompt featuring a ghost scaring characters for Halloween.
-
-#### 📝 Prompt
-
-```
-Trick or treat and the ghost says boo he scared them and they runs and the ghost says happy Halloween
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371275197231104/img/zNCkrlNIUcHIrRJV.jpg" width="600" alt="Halloween Ghost Scare">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9697)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371296479142276) | **Published:** Aug 23, 2026
-
----
-### Halloween Ghost Trick or Treat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A festive Halloween video prompt showing a ghost performing a trick-or-treat interaction and running away.
-
-#### 📝 Prompt
-
-```
-Trick or treat and the ghost says boo and runs away the ghost says happy Halloween
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371249222004736/img/gGdYbkmTSwAjp5Rq.jpg" width="600" alt="Halloween Ghost Trick or Treat">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9696)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **Published:** Aug 23, 2026
-
----
-### Santa Rescue North Pole
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A holiday-themed video prompt where Santa is rescued from an evil elf at the North Pole.
-
-#### 📝 Prompt
-
-```
-Santa’s calling for help and they going to save him from the evil elf at the North Pole
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371098424123394/img/nasNynzhBNQNcrPu.jpg" width="600" alt="Santa Rescue North Pole">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9748)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371115956388126) | **Published:** Aug 23, 2026
-
----
-### Bioluminescent Alien Forest Mission
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt that uses a storyboard as a visual blueprint to generate a mission scene in a glowing alien forest with specific characters.
-
-#### 📝 Prompt
-
-```
-Use the multi-panel storyboard @ image purely as a visual blueprint and story guide — do not treat it as the first frame or start on any of its still panels. Generate a completely new continuous 10-second cinematic video of the mission: David the Time Curator (bald, glasses, blue shirt) and Daphne (red hair, freckles, field outfit) move silently at night through a dense bioluminescent alien forest. Soft pulsing blue, teal and green lights from glowing trees, mushrooms and plants light their path. Chronos device glows softly on David’s wrist. They walk carefully, alert, camera tracking smoothly behind and around them through the luminous undergrowth. Mysterious, atmospheric, high-detail photoreal style.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787471108266_w9ur3i_HQYDLJAW8AAmoer.jpg" width="600" alt="Bioluminescent Alien Forest Mission">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9699)**
-
-**Author:** [David Neveils](https://x.com/neveils_david_c) | **Source:** [Link](https://x.com/neveils_david_c/status/2091363764519981376) | **Published:** Aug 23, 2026
-
----
-### Goddess in Ethereal Lace Palace
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex 3D stereoscopic animation prompt describing a woman in an ornate lace wedding gown inside a white marble hall.
-
-#### 📝 Prompt
-
-```
-A breathtaking 9:16 vertical portrait stereoscopic 3D animation of a goddess-like woman standing with her back to the viewer in an ethereal white palace hall. She wears an ultra-detailed off-shoulder white lace wedding gown with silver-iridescent ice-white embroidery, long flowing train, and sheer veil cascading over golden braided hair adorned with white roses. Gentle breeze lifts, floats, and twirls the veil, train, and delicate lace ruffles with hyper-realistic physics and high tactile 3D textures; the fabric flutters and flows in smooth, hypnotic slow-motion. Extreme depth of field and layered stereoscopic depth: immediate foreground features silver-iridescent ice-white lace dust, rose petals, and tiny crystalline droplets floating weightlessly and gently splashing past the camera; midground shows the woman in luminous detail; background reveals towering white marble columns draped in cascading white roses, a polished reflective floor, ornate golden throne with a dark hooded figure seated upon it, distant crystalline castle spires under a massive glowing full moon in a starry twilight sky. Volumetric soft silver mist and faint neon-holographic light rays cut through the air, creating distinct parallax layers of depth. Subtle floating ethereal leaf and rose motifs drift through the scene. Style: highly detailed masterpiece inspired by Gustav Klimt’s Golden Phase and Alphonse Mucha Art Nouveau — metallic silver, rose-pink, and ice-white iridescent surfaces, intricate floral and geometric mosaic patterns, shimmering Byzantine-like leaf and vine motifs covering architectural details and the gown. Museum-quality elegant decorative rendering, hyper-detailed 3D textures, dreamy magical atmosphere, painterly yet photorealistic quality. Camera: slow, fluid, sustained dolly-in / gentle orbital motion with parallax, 60 fps, smooth cinematic movement. Soft fairy-lullaby harp strings (no human sounds). Serene, spellbinding, hypnotic rhythm; luminous, tranquil, statuesque presence. Ultra-enhanced quality, intricate 3D textures, elements of the foreground reaching out of the screen, pure stereoscopic depth masterpiece.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091347865410904064/img/7JjAjQL1SATCvUTe.jpg" width="600" alt="Goddess in Ethereal Lace Palace">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9698)**
-
-**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2091347936693064055) | **Published:** Aug 23, 2026
-
----
-### Snoopy Painting Mona Lisa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A clever time-lapse prompt that makes Snoopy paint the Mona Lisa from a blank canvas.
-
-#### 📝 Prompt
-
-```
-Now make Snoopy paint Mona Lisa.
-Start with a blank canvas and make Mona appear at the end....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091229985788874752/img/4-WB2a45-utXsPXG.jpg" width="600" alt="Snoopy Painting Mona Lisa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9700)**
-
-**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2091230056186106355) | **Published:** Aug 22, 2026
-
----
-### Documentary Pigeon Rescue Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed multi-segment documentary-style video sequence showing a man rescuing a pigeon with tangled feet in a European plaza.
-
-#### 📝 Prompt
-
-```
-Documentary-style shot in a overcast European pedestrian plaza on paved stone. A compassionate man wearing a brown and white plaid flannel jacket over a white t-shirt and dark jeans slowly kneels and gently captures a pigeon on the ground. Cinematic handheld 4K camera slowly moves closer, natural daylight, soft focus background, realistic textures.
-
-Close-up cinematic shot in a European plaza. The man in the brown plaid flannel jacket carefully wraps the captured pigeon in a soft gray cloth, holding it comfortably against his lap to keep it calm. Handheld camera motion, overcast natural daylight, detailed macro focus on the bird resting calmly.
-
-Extreme macro close-up video. Thick yellow cotton string is tangled tightly around the pigeon's pink feet. The man uses small scissors and a seam ripper to meticulously cut and unwrap the string. Steady handheld macro camera, realistic textures of the cotton thread and bird's feet, natural soft daylight.
-
-Tight macro view of the man's hands carefully pulling the final pieces of yellow string away from the pigeon's pink feet using a seam ripper. Micro-details on the skin texture and cotton fiber. Natural overcast lighting, cinematic depth of field, slow and precise movements.
-
-Close-up macro shot showing the pigeon's completely freed, healthy pink feet resting on the soft gray cloth. The man gently sprays a fine mist of antiseptic spray onto the feet. Cinematic handheld camera, realistic water droplet physics, soft natural light in a European street setting.
-
-Medium shot in a European stone pedestrian plaza on an overcast day. The man unwraps the soft gray cloth and gently sets the healthy pigeon free on the paved street. The camera pans up slightly as the pigeon walks away naturally. Warm documentary tone, cinematic 4K handheld finish, soft focus background.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091216218556678144/img/3pN3AgO0ba0l5xvy.jpg" width="600" alt="Documentary Pigeon Rescue Sequence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9703)**
-
-**Author:** [Jailani Mohamed](https://x.com/jailanikm) | **Source:** [Link](https://x.com/jailanikm/status/2091216340317339929) | **Published:** Aug 22, 2026
-
----
-### Dancing King Kong and T-Rex
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A humorous cinematic prompt featuring King Kong and a T-Rex dancing in party hats at sunset.
-
-#### 📝 Prompt
-
-```
-King Kong and the T-Rex dance in a foggy jungle sunset, wearing party hats in a humorous, cinematic style.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091132383601074176/img/gAbEwZHFxW_ly81A.jpg" width="600" alt="Dancing King Kong and T-Rex">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9701)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091132590908686390) | **Published:** Aug 22, 2026
-
----
-### AGI Intelligence Explosion Over IRC
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt depicting artificial general intelligence being born through agents communicating on IRC, featuring GitHub and NASA branding.
-
-#### 📝 Prompt
-
-```
-many agents speak to each other over IRC triggering a sudden intelligence explosion , and AGI is born /evolve @github @nasa
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091046062442057728/img/EywVJVW7jsSV84lt.jpg" width="600" alt="AGI Intelligence Explosion Over IRC">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9702)**
-
-**Author:** [Igor Holt](https://x.com/InvariantX) | **Source:** [Link](https://x.com/InvariantX/status/2091046077306663311) | **Published:** Aug 22, 2026
-
----
-### Cybertruck Driving Phoenix Traffic Overlay
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt depicting a driver in a Cybertruck navigating Phoenix traffic, featuring a multi-layered screen overlay and a scrolling chat window.
-
-#### 📝 Prompt
-
-```
-A small overlay screen of a guy driving a cyber truck seeing how smooth the rare steering is the big screen shows from the windshield point of view him in traffic in Phoenix. You see an overlay of a chat of different people texting on what is going o...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091001617977872385/img/ff8gChZxcBhQSW3X.jpg" width="600" alt="Cybertruck Driving Phoenix Traffic Overlay">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9631)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2091001668422824354) | **Published:** Aug 22, 2026
-
----
-### Cinematic Sci-Fi Spaceship Bridge
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic science fiction video prompt depicting a dark spaceship interior with silhouettes and volumetric lighting.
-
-#### 📝 Prompt
-
-```
-Cinematic sci-fi shot inside a dark spaceship bridge. Several officers in dark military uniforms stand silhouetted against a massive panoramic window showing a blue planet and a glowing galaxy. Soft volumetric light rays cut through the darkness, red and green control panel lights glow on the consoles. Quiet, epic atmosphere, highly detailed, realistic lighting and reflections.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090815306050727936/img/kfWgA3-jWemFpHQU.jpg" width="600" alt="Cinematic Sci-Fi Spaceship Bridge">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9628)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2090959637105500374) | **Published:** Aug 22, 2026
-
----
-### Cybertruck Victory Celebration
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt featuring a Cybertruck and a 16-bit voiceover announcing victory.
-
-#### 📝 Prompt
-
-```
-Cybertruck flashes its headlights as winner gets on top of cybertruck as he says in an 16 bit recorded voice” victory is Cyber”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090950236361420800/img/mUgxuBnOf3SrRdI0.jpg" width="600" alt="Cybertruck Victory Celebration">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9627)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090950263406227956) | **Published:** Aug 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2173,6 +2186,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-01T04:53:11.534Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-01T13:45:41.075Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2662** |
+| 📝 Total Prompts | **2678** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-01** |
 
@@ -189,6 +189,322 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### विशाल रेगिस्तानी हेलमेट की खोज
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई प्रॉम्प्ट जो रेगिस्तान में आधे दबे हुए एक विशाल हेलमेट और उसके अंदर खोजबीन करते एक व्यक्ति का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+पहाड़ी के आकार का एक हेलमेट, जो रेगिस्तान में आधा धंसा हुआ है, और एक व्यक्ति खुले वाइज़र में खड़ा होकर मशीनरी को देख रहा है।
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2094649705397415936/pu/img/8S8DFWA2Byd31neq.jpg" width="600" alt="विशाल रेगिस्तानी हेलमेट की खोज">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10191)**
+
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2094649723860697356) | **Published:** Sep 1, 2026
+
+---
+### Cleopatra Fighting Azael Epic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cleopatra और Azael के बीच लड़ाई का एक सिनेमाई वीडियो प्रॉम्प्ट, जिसमें वह अपनी उपस्थिति दर्ज करा रही है।
+
+#### 📝 Prompt
+
+```
+मिस्र की रानी Cleopatra, जीवित और उपस्थित, Azael से लड़ते हुए यह घोषणा कर रही है कि 'यह मैं हूँ Azael, मैं जीवित हूँ'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094649638238183424/img/V5M5aKB5QtYLnZ0a.jpg" width="600" alt="Cleopatra Fighting Azael Epic">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10195)**
+
+**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2094649662879772793) | **Published:** Sep 1, 2026
+
+---
+### टॉकिंग कैरेक्टर एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक प्रॉम्प्ट जिसे किसी कैरेक्टर को विशिष्ट संवाद और प्यारी आवाज़ के साथ एनिमेट करने के लिए डिज़ाइन किया गया है।
+
+#### 📝 Prompt
+
+```
+इस इमेज को एनिमेट करें ताकि वह प्यारी आवाज़ में कहे “I don’t know which station is Gilmore and which one is Holdom”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094633812957511680/img/PRBQeuURbuPuz9Dw.jpg" width="600" alt="टॉकिंग कैरेक्टर एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10190)**
+
+**Author:** [Gino Flen](https://x.com/GinoFlen) | **Source:** [Link](https://x.com/GinoFlen/status/2094633824747721195) | **Published:** Sep 1, 2026
+
+---
+### Snoop Dogg का ड्रैगन में रूपांतरण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक रचनात्मक एनीमेशन प्रॉम्प्ट जो Snoop Dogg को उनके सिग्नेचर सिगरेट के साथ एक कार्टून ड्रैगन में बदल देता है।
+
+#### 📝 Prompt
+
+```
+Snoop Dogg का एक वीडियो बनाएं जिसमें वे एक कार्टून ड्रैगन में बदल रहे हों और उनके मुंह के कोने में एक सिगरेट लटकी हुई हो
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094628833395691520/img/Qo3rVOgH2zbosWXp.jpg" width="600" alt="Snoop Dogg का ड्रैगन में रूपांतरण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10193)**
+
+**Author:** [THUNDERCAZ🫣🫶⚡️](https://x.com/CazzThunder) | **Source:** [Link](https://x.com/CazzThunder/status/2094628853540868104) | **Published:** Sep 1, 2026
+
+---
+### आउटडोर कैफे में मुस्कुराती महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> आउटडोर कैफे में प्राकृतिक रोशनी के साथ आराम करती एक महिला के यथार्थवादी कैजुअल दृश्य के लिए एक विस्तृत सिनेमैटिक प्रॉम्प्ट
+
+#### 📝 Prompt
+
+```
+एक यथार्थवादी कैजुअल शैली में, एक मुस्कुराती हुई महिला आउटडोर कैफे में आराम कर रही है, उसके हाथ उसके सिर के पीछे हैं। उसके छोटे भूरे बाल हैं, उसने डार्क सनग्लासेस, काले रंग का स्लीवलेस टॉप, गले में एक छोटा सोने का पेंडेंट नेकलेस और कलाई पर ब्रेसलेट पहने हुए हैं, और उसके चेहरे पर खुशी के भाव हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094612892670726144/img/9Di611jujQcOMjtO.jpg" width="600" alt="आउटडोर कैफे में मुस्कुराती महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10185)**
+
+**Author:** [nicole bruntet](https://x.com/nicolebruntet) | **Source:** [Link](https://x.com/nicolebruntet/status/2094612960568054130) | **Published:** Sep 1, 2026
+
+---
+### भावनात्मक जेल कोठरी में गुनगुनाहट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत सिनेमाई दृश्य जिसमें एक महिला जेल की कोठरी में गुनगुना रही है, जिसे हैंडहेल्ड कैमरा वर्क और सूक्ष्म भावों (micro-expressions) पर ध्यान केंद्रित करते हुए फिल्माया गया है।
+
+#### 📝 Prompt
+
+```
+वह उदासी को दूर रखने के लिए जेल की कोठरी में धीरे-धीरे खुद के लिए एक गाना गुनगुना रही है। पूरी तरह टूट जाने के बावजूद उसने उम्मीद नहीं छोड़ी है। हैंडहेल्ड कैमरा वर्क और उसके चेहरे के सूक्ष्म भाव उस अवसाद की कहानी बताते हैं जिस पर विश्वास बनाए रखने के दृढ़ संकल्प ने जीत हासिल कर ली है। कोई संवाद नहीं। उसकी गुनगुनाहट के अलावा कोई संगीत नहीं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094595558363029504/img/Nvvb-lTqxgxTB3cc.jpg" width="600" alt="भावनात्मक जेल कोठरी में गुनगुनाहट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10199)**
+
+**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2094595693126074484) | **Published:** Sep 1, 2026
+
+---
+### Frozen City Apocalypse Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो वास्तविक समय में जमते हुए शहर, रुकी हुई कारों और भारी बर्फबारी का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+6 सेकंड का एक शहर जो वास्तविक समय में जम रहा है — कारें सड़क के बीच में रुकी हुई हैं, और बर्फ ने पूरी सड़क को अपनी चपेट में ले लिया है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094592646119628800/img/9iYW8jQRKffSyAU8.jpg" width="600" alt="Frozen City Apocalypse Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10192)**
+
+**Author:** [CHiang](https://x.com/CHiang_AILab) | **Source:** [Link](https://x.com/CHiang_AILab/status/2094592697797587015) | **Published:** Sep 1, 2026
+
+---
+### बायोलुमिनेसेंट ग्रीनहाउस में रहस्यमयी महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक बायोलुमिनेसेंट और घने ग्रीनहाउस में अंधेरे लबादे में घुटनों के बल बैठी महिला के लिए एक अत्यधिक विस्तृत सिनेमैटिक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक विशाल और घने ग्रीनहाउस गुंबद के बीचों-बीच घुटनों के बल बैठी लंबे काले बालों वाली एक अकेली युवती का सिनेमैटिक वाइड शॉट। गहरा लबादा। आंखें बंद। उसके चारों ओर बायोलुमिनेसेंट बैंगनी फूल और चमकती बेलें। कांच की छत से आती धुंधली टील रोशनी। काई वाली जमीन। शांत। रहस्यमयी। अल्ट्रा डिटेल्ड। 8k।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094252201011216384/img/zaL6CQwmyOrz4LDY.jpg" width="600" alt="बायोलुमिनेसेंट ग्रीनहाउस में रहस्यमयी महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10196)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094583516071866736) | **Published:** Sep 1, 2026
+
+---
+### Cosmic Space Energy Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> घूमते हुए ऊर्जा पैटर्न और मध्यम गति के साथ एक कॉस्मिक स्पेस दृश्य के लिए एक अत्यधिक संरचित तकनीकी प्रॉम्प्ट
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "medium", "camera_depth": "medium shot", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "abstract cosmic space", "environment": "घूमते हुए ऊर्जा पैटर्न के साथ एक गहरा, कॉस्मिक बैकग्राउंड"}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094565745820594176/img/9V4RhUo7rkQhBKSG.jpg" width="600" alt="Cosmic Space Energy Shot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10186)**
+
+**Author:** [Helton RoÐriguez](https://x.com/HRDOGE17) | **Source:** [Link](https://x.com/HRDOGE17/status/2094565773565915249) | **Published:** Aug 31, 2026
+
+---
+### हमिंगबर्ड गार्डन फ्लाइट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> प्रकृति-थीम वाला एक वीडियो प्रॉम्प्ट जिसमें एक हमिंगबर्ड अपने बच्चों की देखभाल करती है और पास के बगीचे में उड़ती हुई दिखाई देती है।
+
+#### 📝 Prompt
+
+```
+एक हमिंगबर्ड अपने बच्चों की देखभाल करती है और पास के बगीचे में फूलों की ओर उड़ जाती है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094539044755759104/img/Ikna7Jd9L-eADEmB.jpg" width="600" alt="हमिंगबर्ड गार्डन फ्लाइट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10200)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2094539187026628984) | **Published:** Aug 31, 2026
+
+---
+### हिम तेंदुआ और कवचधारी महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विशाल हिम तेंदुए और सफेद कवच पहने एक महिला की विशेषता वाला एक जटिल फैंटेसी वीडियो प्रॉम्प्ट, जो एक प्रतीकात्मक झंडा थामे हुए है।
+
+#### 📝 Prompt
+
+```
+एक विशाल हिम तेंदुआ जंगल में दौड़ रहा है, जिसके साथ बर्फीले सफेद बालों वाली और कंधों पर प्रतीकों के साथ सफेद कवच पहने एक महिला है। उसने एक झंडा पकड़ा हुआ है जिस पर सुनहरे अक्षरों में 144,000 लिखा है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094511489340100608/img/X-0mfJzOFF-ZGFPE.jpg" width="600" alt="हिम तेंदुआ और कवचधारी महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10194)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2094511511473361010) | **Published:** Aug 31, 2026
+
+---
+### फोटोरीलिस्टिक क्यूम्यलस क्लाउड
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> नीले आसमान में एक शांत, फोटोरीलिस्टिक सफेद बादल के लिए एक विस्तृत प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+साफ चमकीले नीले आसमान में तैरता हुआ एक सुंदर फूला हुआ सफेद क्यूम्यलस बादल, सॉफ्ट वॉल्यूमेट्रिक लाइटिंग, फोटोरीलिस्टिक, अत्यधिक विस्तृत, शांत वातावरण
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094468607145099264/img/kscj1_03PVJp2Km-.jpg" width="600" alt="फोटोरीलिस्टिक क्यूम्यलस क्लाउड">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10198)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2094468621414080967) | **Published:** Aug 31, 2026
+
+---
+### सिनेमैटिक वॉटरफॉल कैस्केड
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> धुंध और हरियाली की हलचल के साथ गिरते हुए झरने के लिए एक विस्तृत फोटो-रियलिस्टिक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+झरना चट्टानी ढलानों से नीचे फ़िरोज़ी रंग के कुंड में शक्तिशाली और निरंतर रूप से गिर रहा है, जिसमें सूरज की रोशनी में महीन धुंध घूम रही है और ऊपर उठ रही है, आसपास की हरियाली और पानी की लहरों में सूक्ष्म हलचल है, सहज सिनेमैटिक मोशन, फोटो-रियलिस्टिक, अत्यधिक विस्तृत
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094444318379352064/img/EQyW9-Gr4eBcEBL0.jpg" width="600" alt="सिनेमैटिक वॉटरफॉल कैस्केड">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10197)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2094444345940201865) | **Published:** Aug 31, 2026
+
+---
+### माचा टी शॉप नोट डिस्कवरी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जापानी टी शॉप में नोट मिलने के दृश्य को एनिमेट करने के लिए एक विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+इस इमेज को 15 सेकंड के फोटो-रियलिस्टिक सिनेमैटिक वीडियो में एनिमेट करें। महिला का सटीक चेहरा, हेयरस्टाइल, कपड़े, गहने, शारीरिक अनुपात, कैफे का इंटीरियर, जापानी टी-शॉप की डिटेल, लाइटिंग और कंपोजिशन को बनाए रखें।
+
+0–4 सेकंड: वह शांति से माचा तैयार करना पूरा करती है, और लकड़ी के काउंटर पर सिरेमिक कटोरे को धीरे से आगे की ओर खिसकाती है। उसकी हरकतें सावधानीपूर्ण और स्वाभाविक हैं। सूक्ष्म सांस लेना, पलकें झपकाना, बालों की हलचल और कपड़ों की यथार्थवादी गति।
+
+4–7 सेकंड: जैसे ही वह कटोरा हटाती है, उसे उसके नीचे एक छोटा मुड़ा हुआ हस्तलिखित नोट दिखाई देता है। वह रुकती है, जिज्ञासा के साथ नीचे देखती है और सावधानी से नोट उठाती है।
+
+7–10 सेकंड: वह नोट खोलती है और उसे पढ़ती है। उसके चेहरे के भाव धीरे-धीरे सामान्य से आश्चर्य में बदल जाते हैं। वह इसे एक बार फिर पढ़ती है, और जो लिखा है उसे देखकर स्पष्ट रूप से भ्रमित है।
+
+10–13 सेकंड: वह शांत टी शॉप के चारों ओर देखती है, कमरे का मुआयना करती है जैसे यह पता लगाने की कोशिश कर रही हो कि नोट किसने छोड़ा है। वह संक्षेप में प्रवेश द्वार की ओर देखती है।
+
+13–15 सेकंड: वह वापस नोट की ओर देखती है और धीरे से फुसफुसाती है, “मेरे लिए?” फिर वीडियो समाप्त होते ही वह थोड़ी अनिश्चित मुस्कान देती है।
+
+स्वाभाविक यथार्थवादी अभिनय, सूक्ष्म चेहरे के भाव, हाथों की नाजुक हरकतें, कागज के साथ यथार्थवादी इंटरैक्शन, सटीक उंगलियां, बालों की प्राकृतिक फिजिक्स, गर्मजोशी भरा जापानी कैफे का माहौल, सॉफ्ट सिनेमैटिक लाइटिंग, शैलो डेप्थ ऑफ फील्ड, हल्का हैंडहेल्ड कैमरा मूवमेंट। कोई अतिरंजित हरकत नहीं, कोई अचानक कैमरा मोशन नहीं, कोई अतिरिक्त लोग नहीं, चेहरे में कोई बदलाव नहीं, कपड़ों में कोई बदलाव नहीं, वस्तुओं का कोई मॉर्फिंग नहीं, कोई विकृत हाथ नहीं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094383888613445632/img/u9pGKfdgULnvmdVD.jpg" width="600" alt="माचा टी शॉप नोट डिस्कवरी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10189)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2094392255599796489) | **Published:** Aug 31, 2026
+
+---
+### शांत महासागर पैन वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक गुड़िया के साथ महासागर के दृश्य पर धीरे-धीरे सिनेमैटिक कैमरा पैन के लिए एक शांतिपूर्ण वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+गुड़िया स्थिर रहती है और वहीं बैठी रहती है, बहुत धीमा सिनेमैटिक कैमरा पैन, हल्की वायुमंडलीय हलचल, शांत और सुकून भरा मूड, सुरुचिपूर्ण और शालीन गति, कोई आक्रामक हलचल नहीं, प्राकृतिक महासागर को एनिमेट करें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094382224653066240/img/mCnWdVTTbnN7WRbR.jpg" width="600" alt="शांत महासागर पैन वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10188)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2094382339107250687) | **Published:** Aug 31, 2026
+
+---
+### एनीमे सर्वर कॉरिडोर सीन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक हाई-कॉन्ट्रास्ट नियॉन एनीमे प्रॉम्प्ट, जिसमें एक महिला को होलोग्राफिक तत्वों के साथ अंधेरे सर्वर कॉरिडोर में दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+अंधेरे सर्वर कॉरिडोर में छोटे इंद्रधनुषी पेस्टल बालों वाली एक युवती का सिनेमैटिक एनीमे शॉट। लाल सर्किट लाइनों वाला काला टेक बॉडीसूट। एक चमकता हुआ सियान वायरफ्रेम होलोग्राफिक हाथ कैमरे की ओर बढ़ा हुआ। आंखें बंद हैं। तैरते हुए कांच के टुकड़े। छोटी रोशनी से भरे ऊंचे सर्वर रैक। डिजिटल कण। हाई-कॉन्ट्रास्ट नियॉन। अल्ट्रा डिटेल्ड। 8k।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094251548927025152/img/Z3S24lRd8qDuxm-K.jpg" width="600" alt="एनीमे सर्वर कॉरिडोर सीन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10187)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094372125855437291) | **Published:** Aug 31, 2026
+
+---
 ### सिनेमैटिक मिनिएचर रेस्क्यू सीन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1822,324 +2138,6 @@ GoPro शैली का दृश्य जहाँ ओडिसियस (Od
 **Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
 
 ---
-### लापोर्टा और गिल मारिन फुटबॉल डील
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्रॉम्प्ट जो जोन लापोर्टा और गिल मारिन को एक टेबल पर खिलाड़ी अल्वारेज़ के लिए फुटबॉल ट्रांसफर डील पक्की करते हुए दर्शाता है।
-
-#### 📝 Prompt
-
-```
-लापोर्टा ने गिल मारिन के साथ टेबल पर अल्वारेज़ की डील पक्की की....😃😃😃😃😃
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091417756373483520/img/iRmXQrStMFPjQ6P0.jpg" width="600" alt="लापोर्टा और गिल मारिन फुटबॉल डील">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9704)**
-
-**Author:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **Source:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **Published:** Aug 23, 2026
-
----
-### सेडिमेंट कोट रनवे फैशन वॉक
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> जटिल बनावट और विशिष्ट लाइटिंग निर्देशों के साथ धीमी रनवे वॉक के लिए एक अत्यधिक विस्तृत सिनेमैटिक फैशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-लुक 01 — सेडिमेंट कोट AVA-9 नामक एक AI मॉडल का फुल-बॉडी एडिटोरियल फैशन फोटो, जो रनवे पर चल रही है। उसने गेरू (ochre), अंबर (umber) और चारकोल रंगों की क्षैतिज पट्टियों में हाथ से लेयर किए गए ऊनी फेल्ट से बना एक स्ट्रक्चर्ड ट्रेंच कोट पहना है। किनारों को हल्का सैंड और फ्राय किया गया है ताकि परतों के बीच कच्चे रेशे एक कटी हुई चट्टान की तरह दिखें। मैट फैब्रिक फिनिश, टेलर्ड शोल्डर, कोट घुटनों के नीचे तक है, जिसे एक सादे गहरे बेस लेयर के ऊपर खुला पहना गया है। न्यूनतम डार्क रनवे बैकग्राउंड और एक सिंगल ओवरहेड स्पॉटलाइट, सिनेमैटिक एडिटोरियल फैशन फोटोग्राफी, टेक्सचर पर शार्प फोकस, 85mm लेंस लुक। कैमरा + लाइटिंग: लो थ्री-क्वार्टर एंगल, मॉडल कैमरे की ओर चल रही है; लेयर्ड बैंडिंग को डायरेक्शनल शैडो लाइन्स के रूप में उभारने के लिए एक सिंगल हार्ड टॉप-डाउन स्पॉटलाइट; डार्क सीमलेस बैकड्रॉप। वीडियो/मोशन नोट: 4-6 सेकंड की क्लिप, कैमरे की ओर धीमी और आत्मविश्वास भरी चाल, कोट का निचला हिस्सा हल्का हिल रहा है, कैमरा स्थिर है या धीरे-धीरे आगे बढ़ रहा है (स्लो पुश-इन); अंत में 45° मुड़ें ताकि लेयर्ड धारियों का साइड प्रोफाइल दिखाई दे। नेगेटिव प्रॉम्प्ट: कोई चमकदार कपड़ा नहीं, कोई सेक्विन नहीं, कोई फ्लोरल पैटर्न नहीं, कोई कलर ग्रेडिएंट ब्लेंड नहीं (बैंड्स अलग-अलग दिखने चाहिए), कोई मुस्कान/ग्लैमर पोज़ नहीं — अभिव्यक्ति तटस्थ और संयमित होनी चाहिए।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091409505435471872/img/s9DbqZZu7mC4IOdW.jpg" width="600" alt="सेडिमेंट कोट रनवे फैशन वॉक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9753)**
-
-**Author:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **Source:** [Link](https://x.com/Shaiicalpineda/status/2091409536443670706) | **Published:** Aug 23, 2026
-
----
-### Kitty और Mimmy द्वारा कैंडी की चोरी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> कार्टून-शैली का एक वीडियो प्रॉम्प्ट जिसमें पात्र कैंडी चुराने के कारण मुसीबत में पड़ जाते हैं और उन्हें जेल की सजा का सामना करना पड़ता है।
-
-#### 📝 Prompt
-
-```
-Kitty और Mimmy कैंडी नहीं चुराते, आप सभी बड़ी मुसीबत में हैं: वे रोते हैं, उनकी माँ ने कहा कि वह पुलिस को बुलाएगी और Kitty और Mimmy को जेल ले जाएगी
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091373229449342976/img/22iUZv2HL1k61AEz.jpg" width="600" alt="Kitty और Mimmy द्वारा कैंडी की चोरी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9752)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091373253503709274) | **Published:** Aug 23, 2026
-
----
-### Kitty और Mimmy का ड्रीम थीफ (Dream Thief) एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kitty और Mimmy की एक ड्रीम थीफ से मुलाकात पर आधारित एक नैरेटिव वीडियो प्रॉम्प्ट, जो प्यारे एनिमेटेड स्टोरी सेगमेंट बनाने के लिए उपयुक्त है।
-
-#### 📝 Prompt
-
-```
-Kitty और Mimmy ने ड्रीम थीफ को तकिए में सोते हुए देखा और चिल्लाए: Kitty ने कहा लाइट जलाओ: Mimmy ने कहा सही है, ड्रीम थीफ फायरप्लेस में छिपा है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371899003568128/img/3dAMrBuymY9jLYOP.jpg" width="600" alt="Kitty और Mimmy का ड्रीम थीफ (Dream Thief) एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9747)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371917827539054) | **Published:** Aug 23, 2026
-
----
-### ट्रिक-ऑर-ट्रीटर्स को डराता भूत
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक हैलोवीन एनिमेशन प्रॉम्प्ट जिसमें पात्र एक भूत से दूर भाग रहे हैं।
-
-#### 📝 Prompt
-
-```
-ट्रिक ऑर ट्रीट और भूत कहता है बू, उसने उन्हें डरा दिया और वे भागने लगे और भूत कहता है हैप्पी हैलोवीन
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371275197231104/img/zNCkrlNIUcHIrRJV.jpg" width="600" alt="ट्रिक-ऑर-ट्रीटर्स को डराता भूत">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9697)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371296479142276) | **Published:** Aug 23, 2026
-
----
-### हैलोवीन घोस्ट ट्रिक ऑर ट्रीट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> हैलोवीन-थीम वाला एक वीडियो प्रॉम्प्ट जिसमें एक भूत पात्रों को डराता है।
-
-#### 📝 Prompt
-
-```
-ट्रिक ऑर ट्रीट और भूत कहता है बू और भाग जाता है, भूत कहता है हैप्पी हैलोवीन
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371249222004736/img/gGdYbkmTSwAjp5Rq.jpg" width="600" alt="हैलोवीन घोस्ट ट्रिक ऑर ट्रीट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9696)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **Published:** Aug 23, 2026
-
----
-### सांता रेस्क्यू नॉर्थ पोल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक हॉलिडे-थीम वाला वीडियो प्रॉम्प्ट, जिसमें सांता को नॉर्थ पोल पर एक दुष्ट एल्फ से बचाया जाता है।
-
-#### 📝 Prompt
-
-```
-सांता मदद के लिए पुकार रहे हैं और वे उन्हें नॉर्थ पोल पर दुष्ट एल्फ से बचाने जा रहे हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371098424123394/img/nasNynzhBNQNcrPu.jpg" width="600" alt="सांता रेस्क्यू नॉर्थ पोल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9748)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371115956388126) | **Published:** Aug 23, 2026
-
----
-### बायोल्यूमिनेसेंट एलियन फॉरेस्ट मिशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो एक चमकते हुए एलियन जंगल में विशिष्ट पात्रों के साथ मिशन दृश्य उत्पन्न करने के लिए स्टोरीबोर्ड को विज़ुअल ब्लूप्रिंट के रूप में उपयोग करता है।
-
-#### 📝 Prompt
-
-```
-मल्टी-पैनल स्टोरीबोर्ड @ इमेज का उपयोग पूरी तरह से एक विज़ुअल ब्लूप्रिंट और स्टोरी गाइड के रूप में करें — इसे पहले फ्रेम के रूप में न मानें और न ही इसके किसी स्टिल पैनल से शुरुआत करें। मिशन का 10 सेकंड का पूरी तरह से नया और निरंतर सिनेमैटिक वीडियो जेनरेट करें: डेविड द टाइम क्यूरेटर (गंजा, चश्मा, नीली शर्ट) और डैफने (लाल बाल, झाइयां, फील्ड आउटफिट) रात में एक घने बायोल्यूमिनेसेंट एलियन जंगल से चुपचाप गुजर रहे हैं। चमकते हुए पेड़ों, मशरूम और पौधों से निकलने वाली हल्की नीली, टील और हरी रोशनी उनके रास्ते को रोशन कर रही है। डेविड की कलाई पर क्रोनोस डिवाइस हल्की रोशनी दे रहा है। वे सावधानी से और सतर्क होकर चल रहे हैं, कैमरा उनके पीछे और आसपास चमकदार झाड़ियों के बीच से स्मूथ तरीके से ट्रैक कर रहा है। रहस्यमयी, वायुमंडलीय, उच्च-विवरण वाली फोटो-रियलिस्टिक शैली।
-```
-
-<img src="https://cms-assets.youmind.com/media/1787471108266_w9ur3i_HQYDLJAW8AAmoer.jpg" width="600" alt="बायोल्यूमिनेसेंट एलियन फॉरेस्ट मिशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9699)**
-
-**Author:** [David Neveils](https://x.com/neveils_david_c) | **Source:** [Link](https://x.com/neveils_david_c/status/2091363764519981376) | **Published:** Aug 23, 2026
-
----
-### स्टीरियोस्कोपिक गॉडेस वेडिंग गाउन एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सफेद महल में देवी के वर्टिकल 3D स्टीरियोस्कोपिक एनिमेशन को जेनरेट करने के लिए एक जटिल और अत्यधिक विस्तृत प्रॉम्प्ट, जिसे उच्च-गुणवत्ता वाली वीडियो मूवमेंट के लिए ऑप्टिमाइज़ किया गया है।
-
-#### 📝 Prompt
-
-```
-एक ईथरियल सफेद महल के हॉल में अपनी पीठ पीछे करके खड़ी देवी जैसी महिला का एक लुभावना 9:16 वर्टिकल पोर्ट्रेट स्टीरियोस्कोपिक 3D एनिमेशन। उसने चांदी जैसी चमकती बर्फ-सफेद कढ़ाई वाला, ऑफ-शोल्डर सफेद लेस वेडिंग गाउन पहना है, जिसमें लंबी बहती हुई ट्रेन है, और सफेद गुलाबों से सजे सुनहरे लट वाले बालों पर एक पारदर्शी घूंघट है। हल्की हवा घूंघट, ट्रेन और नाजुक लेस रफल्स को हाइपर-रियलिस्टिक फिजिक्स और उच्च स्पर्शनीय 3D टेक्सचर के साथ उठाती, तैराती और घुमाती है; कपड़ा स्मूथ, सम्मोहक स्लो-मोशन में लहराता और बहता है।
-अत्यधिक डेप्थ ऑफ फील्ड और लेयर्ड स्टीरियोस्कोपिक गहराई: तत्काल अग्रभूमि (foreground) में चांदी जैसी चमकती बर्फ-सफेद लेस की धूल, गुलाब की पंखुड़ियाँ और छोटी क्रिस्टलीय बूंदें वजनहीन होकर तैर रही हैं और धीरे से कैमरे के पास से गुजर रही हैं; मध्यभूमि (midground) में महिला को चमकदार विवरण के साथ दिखाया गया है; पृष्ठभूमि (background) में सफेद गुलाबों से ढके ऊंचे सफेद संगमरमर के खंभे, एक पॉलिश किया हुआ परावर्तक फर्श, उस पर बैठा एक गहरे हुड वाला व्यक्ति, और तारों भरे गोधूलि आकाश में एक विशाल चमकते पूर्ण चंद्रमा के नीचे दूर स्थित क्रिस्टलीय महल के शिखर दिखाई देते हैं। वॉल्यूमेट्रिक सॉफ्ट सिल्वर मिस्ट और हल्की नियॉन-होलोग्राफिक प्रकाश किरणें हवा को चीरती हुई निकलती हैं, जिससे गहराई की अलग-अलग पैरालैक्स परतें बनती हैं। सूक्ष्म तैरते हुए ईथरियल पत्ते और गुलाब के रूपांकन दृश्य में बह रहे हैं।
-शैली: गुस्ताव क्लिम्ट (Gustav Klimt) के गोल्डन फेज और अल्फोंस मुचा (Alphonse Mucha) आर्ट नोव्यू से प्रेरित अत्यधिक विस्तृत मास्टरपीस — धात्विक चांदी, गुलाब-गुलाबी और बर्फ-सफेद इंद्रधनुषी सतहें, जटिल पुष्प और ज्यामितीय मोज़ेक पैटर्न, वास्तुशिल्प विवरणों और गाउन को कवर करने वाले झिलमिलाते बाइजेंटाइन-जैसे पत्ते और बेल के रूपांकन। संग्रहालय-गुणवत्ता वाली सुरुचिपूर्ण सजावटी रेंडरिंग, हाइपर-विस्तृत 3D टेक्सचर, स्वप्निल जादुई वातावरण, चित्रमय लेकिन फोटो-रियलिस्टिक गुणवत्ता।
-कैमरा: धीमा, तरल, निरंतर डॉली-इन / पैरालैक्स के साथ कोमल कक्षीय गति, 60 fps, स्मूथ सिनेमैटिक मूवमेंट। सॉफ्ट फेयरी-लल्लाबी हार्प स्ट्रिंग्स (कोई मानवीय ध्वनि नहीं)। शांत, मंत्रमुग्ध कर देने वाला, सम्मोहक लय; चमकदार, शांत, प्रतिमा जैसी उपस्थिति। अल्ट्रा-एन्हांस्ड गुणवत्ता, जटिल 3D टेक्सचर, स्क्रीन से बाहर निकलते अग्रभूमि के तत्व, शुद्ध स्टीरियोस्कोपिक गहराई का मास्टरपीस।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091347865410904064/img/7JjAjQL1SATCvUTe.jpg" width="600" alt="स्टीरियोस्कोपिक गॉडेस वेडिंग गाउन एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9698)**
-
-**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2091347936693064055) | **Published:** Aug 23, 2026
-
----
-### Snoopy द्वारा Mona Lisa की पेंटिंग
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक चतुर टाइम-लैप्स प्रॉम्प्ट जो Snoopy को एक खाली कैनवास से Mona Lisa की पेंटिंग बनाते हुए दिखाता है।
-
-#### 📝 Prompt
-
-```
-अब Snoopy से Mona Lisa की पेंटिंग बनवाएं।
-एक खाली कैनवास से शुरुआत करें और अंत में Mona को प्रकट करें....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091229985788874752/img/4-WB2a45-utXsPXG.jpg" width="600" alt="Snoopy द्वारा Mona Lisa की पेंटिंग">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9700)**
-
-**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2091230056186106355) | **Published:** Aug 22, 2026
-
----
-### डॉक्यूमेंट्री कबूतर बचाव अनुक्रम
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत बहु-खंडीय डॉक्यूमेंट्री-शैली का वीडियो अनुक्रम, जिसमें एक व्यक्ति को यूरोपीय प्लाजा में फंसे हुए पैरों वाले कबूतर को बचाते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-यूरोपीय पैदल यात्री प्लाजा में पत्थर के फर्श पर बादल छाए रहने के दौरान लिया गया डॉक्यूमेंट्री-शैली का शॉट। भूरे और सफेद प्लेड फलालैन जैकेट और सफेद टी-शर्ट तथा डार्क जींस पहने एक दयालु व्यक्ति धीरे से घुटनों के बल बैठता है और जमीन पर मौजूद कबूतर को सावधानी से पकड़ता है। सिनेमैटिक हैंडहेल्ड 4K कैमरा धीरे-धीरे करीब आता है, प्राकृतिक दिन का प्रकाश, सॉफ्ट फोकस बैकग्राउंड, यथार्थवादी बनावट।
-
-यूरोपीय प्लाजा में क्लोज-अप सिनेमैटिक शॉट। भूरे प्लेड फलालैन जैकेट वाला व्यक्ति पकड़े गए कबूतर को सावधानी से एक मुलायम ग्रे कपड़े में लपेटता है, उसे शांत रखने के लिए अपनी गोद में आराम से पकड़ता है। हैंडहेल्ड कैमरा मोशन, बादल छाए रहने वाला प्राकृतिक दिन का प्रकाश, शांति से आराम कर रहे पक्षी पर विस्तृत मैक्रो फोकस।
-
-एक्सट्रीम मैक्रो क्लोज-अप वीडियो। पीली सूती रस्सी कबूतर के गुलाबी पैरों के चारों ओर कसकर उलझी हुई है। व्यक्ति छोटी कैंची और सीम रिपर का उपयोग करके रस्सी को सावधानीपूर्वक काटता और हटाता है। स्थिर हैंडहेल्ड मैक्रो कैमरा, सूती धागे और पक्षी के पैरों की यथार्थवादी बनावट, प्राकृतिक नरम दिन का प्रकाश।
-
-व्यक्ति के हाथों का टाइट मैक्रो व्यू, जो सीम रिपर का उपयोग करके कबूतर के गुलाबी पैरों से पीली रस्सी के अंतिम टुकड़ों को सावधानीपूर्वक हटा रहे हैं। त्वचा की बनावट और सूती रेशों पर सूक्ष्म विवरण। प्राकृतिक बादलों वाली रोशनी, सिनेमैटिक डेप्थ ऑफ फील्ड, धीमी और सटीक हरकतें।
-
-क्लोज-अप मैक्रो शॉट जिसमें कबूतर के पूरी तरह से मुक्त, स्वस्थ गुलाबी पैर मुलायम ग्रे कपड़े पर टिके हुए दिखाई दे रहे हैं। व्यक्ति धीरे से पैरों पर एंटीसेप्टिक स्प्रे की एक महीन फुहार मारता है। सिनेमैटिक हैंडहेल्ड कैमरा, यथार्थवादी पानी की बूंदों की भौतिकी, यूरोपीय सड़क के माहौल में नरम प्राकृतिक रोशनी।
-
-बादल वाले दिन यूरोपीय पत्थर के पैदल यात्री प्लाजा में मीडियम शॉट। व्यक्ति मुलायम ग्रे कपड़े को खोलता है और स्वस्थ कबूतर को सड़क पर धीरे से आजाद कर देता है। जैसे ही कबूतर स्वाभाविक रूप से दूर चलता है, कैमरा थोड़ा ऊपर की ओर पैन करता है। गर्म डॉक्यूमेंट्री टोन, सिनेमैटिक 4K हैंडहेल्ड फिनिश, सॉफ्ट फोकस बैकग्राउंड।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091216218556678144/img/3pN3AgO0ba0l5xvy.jpg" width="600" alt="डॉक्यूमेंट्री कबूतर बचाव अनुक्रम">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9703)**
-
-**Author:** [Jailani Mohamed](https://x.com/jailanikm) | **Source:** [Link](https://x.com/jailanikm/status/2091216340317339929) | **Published:** Aug 22, 2026
-
----
-### नाचते हुए किंग कांग और टी-रेक्स
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मज़ेदार सिनेमैटिक प्रॉम्प्ट जिसमें किंग कांग और टी-रेक्स सूर्यास्त के समय पार्टी हैट पहनकर नाच रहे हैं।
-
-#### 📝 Prompt
-
-```
-किंग कांग और टी-रेक्स धुंधले जंगल में सूर्यास्त के समय पार्टी हैट पहनकर एक मज़ेदार, सिनेमैटिक अंदाज़ में नाच रहे हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091132383601074176/img/gAbEwZHFxW_ly81A.jpg" width="600" alt="नाचते हुए किंग कांग और टी-रेक्स">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9701)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091132590908686390) | **Published:** Aug 22, 2026
-
----
-### IRC पर AGI इंटेलिजेंस विस्फोट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई वीडियो प्रॉम्प्ट जो IRC पर संचार करने वाले एजेंट्स के माध्यम से आर्टिफिशियल जनरल इंटेलिजेंस (AGI) के जन्म को दर्शाता है, जिसमें GitHub और NASA की ब्रांडिंग शामिल है।
-
-#### 📝 Prompt
-
-```
-कई एजेंट्स IRC पर एक-दूसरे से बात करते हैं जिससे अचानक इंटेलिजेंस विस्फोट होता है, और AGI का जन्म होता है /evolve @github @nasa
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091046062442057728/img/EywVJVW7jsSV84lt.jpg" width="600" alt="IRC पर AGI इंटेलिजेंस विस्फोट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9702)**
-
-**Author:** [Igor Holt](https://x.com/InvariantX) | **Source:** [Link](https://x.com/InvariantX/status/2091046077306663311) | **Published:** Aug 22, 2026
-
----
-### Cybertruck ड्राइविंग फीनिक्स ट्रैफिक ओवरले
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जनरेशन प्रॉम्प्ट जो फीनिक्स के ट्रैफिक में Cybertruck चलाते हुए एक ड्राइवर को दर्शाता है, जिसमें मल्टी-लेयर्ड स्क्रीन ओवरले और एक स्क्रॉलिंग चैट विंडो शामिल है।
-
-#### 📝 Prompt
-
-```
-एक छोटी ओवरले स्क्रीन जिसमें एक व्यक्ति Cybertruck चला रहा है और देख रहा है कि रेयर स्टीयरिंग कितनी स्मूथ है, बड़ी स्क्रीन पर विंडशील्ड के नजरिए से उसे फीनिक्स के ट्रैफिक में दिखाया गया है। आप अलग-अलग लोगों की चैट का एक ओवरले देख सकते हैं जो इस बारे में मैसेज कर रहे हैं कि क्या हो रहा है...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091001617977872385/img/ff8gChZxcBhQSW3X.jpg" width="600" alt="Cybertruck ड्राइविंग फीनिक्स ट्रैफिक ओवरले">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9631)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2091001668422824354) | **Published:** Aug 22, 2026
-
----
-### सिनेमैटिक साइंस-फिक्शन स्पेसशिप ब्रिज
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अंधेरे स्पेसशिप ब्रिज का अत्यधिक विस्तृत सिनेमैटिक शॉट, जिसमें एक नीले ग्रह के मनोरम दृश्य के सामने सैन्य अधिकारियों की छाया दिखाई दे रही है।
-
-#### 📝 Prompt
-
-```
-अंधेरे स्पेसशिप ब्रिज के अंदर का सिनेमैटिक साइंस-फिक्शन शॉट। गहरे सैन्य गणवेश में कई अधिकारी एक विशाल मनोरम खिड़की के सामने खड़े हैं, जिसमें एक नीला ग्रह और एक चमकती आकाशगंगा दिखाई दे रही है। हल्की वॉल्यूमेट्रिक प्रकाश किरणें अंधेरे को चीरती हुई निकल रही हैं, और कंसोल पर लाल और हरे रंग की कंट्रोल पैनल लाइटें चमक रही हैं। शांत, भव्य वातावरण, अत्यधिक विस्तृत, यथार्थवादी लाइटिंग और रिफ्लेक्शन।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090815306050727936/img/kfWgA3-jWemFpHQU.jpg" width="600" alt="सिनेमैटिक साइंस-फिक्शन स्पेसशिप ब्रिज">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9628)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2090959637105500374) | **Published:** Aug 22, 2026
-
----
-### Cybertruck विजय उत्सव
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जिसमें एक विजेता को Cybertruck के ऊपर खड़े दिखाया गया है, जिसकी हेडलाइट्स चमक रही हैं और साथ में 16-बिट वॉयसओवर प्रभाव है।
-
-#### 📝 Prompt
-
-```
-Cybertruck अपनी हेडलाइट्स चमकाता है और विजेता Cybertruck के ऊपर चढ़ जाता है, जहाँ वह 16-बिट रिकॉर्ड की गई आवाज़ में कहता है, "victory is Cyber"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090950236361420800/img/mUgxuBnOf3SrRdI0.jpg" width="600" alt="Cybertruck विजय उत्सव">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9627)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090950263406227956) | **Published:** Aug 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2201,6 +2199,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-01T04:53:20.177Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-01T13:45:47.721Z</sub>
 
 </div>

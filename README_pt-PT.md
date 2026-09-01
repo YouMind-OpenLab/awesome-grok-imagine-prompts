@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2662** |
+| 📝 Total Prompts | **2678** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-01** |
 
@@ -189,6 +189,322 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Exploração do Capacete Gigante no Deserto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico que descreve um capacete colossal semi-enterrado no deserto com uma pessoa explorando o interior.
+
+#### 📝 Prompt
+
+```
+Um capacete do tamanho de uma colina, semi-enterrado no deserto, com uma pessoa parada na viseira aberta observando o maquinário.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2094649705397415936/pu/img/8S8DFWA2Byd31neq.jpg" width="600" alt="Exploração do Capacete Gigante no Deserto">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10191)**
+
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2094649723860697356) | **Published:** Sep 1, 2026
+
+---
+### Cleopatra lutando contra Azael: Épico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico de Cleópatra lutando contra Azael enquanto declara sua presença.
+
+#### 📝 Prompt
+
+```
+Cleópatra, a rainha do Egito, viva e presente, declarando 'sou eu, Azael, estou viva' enquanto luta contra Azael
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094649638238183424/img/V5M5aKB5QtYLnZ0a.jpg" width="600" alt="Cleopatra lutando contra Azael: Épico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10195)**
+
+**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2094649662879772793) | **Published:** Sep 1, 2026
+
+---
+### Animação de Personagem Falante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt projetado para animar um personagem com um diálogo específico e um tom de voz fofo.
+
+#### 📝 Prompt
+
+```
+Anime esta imagem para dizer “I don’t know which station is Gilmore and which one is Holdom” com uma voz fofa
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094633812957511680/img/PRBQeuURbuPuz9Dw.jpg" width="600" alt="Animação de Personagem Falante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10190)**
+
+**Author:** [Gino Flen](https://x.com/GinoFlen) | **Source:** [Link](https://x.com/GinoFlen/status/2094633824747721195) | **Published:** Sep 1, 2026
+
+---
+### Transformação do Snoop Dogg em Dragão
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de animação criativo que transforma Snoop Dogg em um dragão de desenho animado com seu cigarro característico.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo do Snoop Dogg se transformando em um dragão de desenho animado com um cigarro pendurado no canto da boca
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094628833395691520/img/Qo3rVOgH2zbosWXp.jpg" width="600" alt="Transformação do Snoop Dogg em Dragão">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10193)**
+
+**Author:** [THUNDERCAZ🫣🫶⚡️](https://x.com/CazzThunder) | **Source:** [Link](https://x.com/CazzThunder/status/2094628853540868104) | **Published:** Sep 1, 2026
+
+---
+### Mulher sorridente em um café ao ar livre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico detalhado para uma cena casual realista de uma mulher relaxando em um café ao ar livre com iluminação natural
+
+#### 📝 Prompt
+
+```
+Em um estilo casual realista, uma mulher sorridente relaxa em um café ao ar livre, com as mãos atrás da cabeça. Ela tem cabelo castanho curto, óculos de sol escuros, uma blusa preta sem mangas, um pequeno colar com pingente de ouro e pulseiras no pulso, exibindo uma expressão alegre
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094612892670726144/img/9Di611jujQcOMjtO.jpg" width="600" alt="Mulher sorridente em um café ao ar livre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10185)**
+
+**Author:** [nicole bruntet](https://x.com/nicolebruntet) | **Source:** [Link](https://x.com/nicolebruntet/status/2094612960568054130) | **Published:** Sep 1, 2026
+
+---
+### Zumbido na Cela de Prisão Emocional
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma cena cinematográfica detalhada apresentando uma mulher cantarolando em uma cela de prisão, capturada com câmera na mão e foco em microexpressões.
+
+#### 📝 Prompt
+
+```
+Ela cantarola baixinho uma música para si mesma na cela da prisão para manter a tristeza afastada. Ela não perdeu a esperança, embora esteja devastada. Câmera na mão, as microexpressões em seu rosto contam a história da depressão superada pela determinação de manter a fé. Sem diálogos. Sem música, apenas o som do seu cantarolar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094595558363029504/img/Nvvb-lTqxgxTB3cc.jpg" width="600" alt="Zumbido na Cela de Prisão Emocional">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10199)**
+
+**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2094595693126074484) | **Published:** Sep 1, 2026
+
+---
+### Animação de Cidade Congelada no Apocalipse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico que descreve uma cidade congelando em tempo real, com carros parados e neve intensa.
+
+#### 📝 Prompt
+
+```
+6 segundos de uma cidade congelando em tempo real — carros parados no meio da rua, neve engolindo a via.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094592646119628800/img/9iYW8jQRKffSyAU8.jpg" width="600" alt="Animação de Cidade Congelada no Apocalipse">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10192)**
+
+**Author:** [CHiang](https://x.com/CHiang_AILab) | **Source:** [Link](https://x.com/CHiang_AILab/status/2094592697797587015) | **Published:** Sep 1, 2026
+
+---
+### Mulher Mística em Estufa Bioluminescente
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico altamente detalhado de uma mulher de manto escuro ajoelhada em uma estufa coberta por vegetação bioluminescente.
+
+#### 📝 Prompt
+
+```
+Plano cinematográfico aberto de uma jovem solitária com longos cabelos pretos ajoelhada no centro de uma vasta cúpula de estufa coberta por vegetação. Manto escuro. Olhos fechados. Flores roxas bioluminescentes e vinhas brilhantes ao redor dela. Luz azul-petróleo nebulosa através do teto de vidro. Chão coberto de musgo. Silencioso. Místico. Ultra detalhado. 8k.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094252201011216384/img/zaL6CQwmyOrz4LDY.jpg" width="600" alt="Mulher Mística em Estufa Bioluminescente">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10196)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094583516071866736) | **Published:** Sep 1, 2026
+
+---
+### Cosmic Space Energy Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt técnico altamente estruturado para uma cena de espaço cósmico com padrões de energia giratórios e movimento médio
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "médio", "camera_depth": "plano médio", "camera_view": "nível dos olhos", "camera_movement": "plano estático"}, "scene": {"location": "espaço cósmico abstrato", "environment": "Um fundo cósmico escuro com padrões de energia giratórios"}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094565745820594176/img/9V4RhUo7rkQhBKSG.jpg" width="600" alt="Cosmic Space Energy Shot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10186)**
+
+**Author:** [Helton RoÐriguez](https://x.com/HRDOGE17) | **Source:** [Link](https://x.com/HRDOGE17/status/2094565773565915249) | **Published:** Aug 31, 2026
+
+---
+### Voo no Jardim dos Beija-flores
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo com tema da natureza, apresentando um beija-flor cuidando de seus filhotes e voando por um jardim adjacente.
+
+#### 📝 Prompt
+
+```
+UM BEIJA-FLOR CUIDA DE SEUS FILHOTES E VOA EM DIREÇÃO ÀS FLORES EM UM JARDIM ADJACENTE
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094539044755759104/img/Ikna7Jd9L-eADEmB.jpg" width="600" alt="Voo no Jardim dos Beija-flores">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10200)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2094539187026628984) | **Published:** Aug 31, 2026
+
+---
+### Leopardo-das-neves e Mulher de Armadura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo de fantasia complexo apresentando um leopardo-das-neves gigante e uma mulher com armadura branca segurando uma bandeira simbólica.
+
+#### 📝 Prompt
+
+```
+Um leopardo-das-neves gigante correndo pela floresta com uma mulher de cabelos brancos como o gelo e símbolos nos ombros, vestindo uma armadura branca; ela segura uma bandeira com o número 144.000 em dourado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094511489340100608/img/X-0mfJzOFF-ZGFPE.jpg" width="600" alt="Leopardo-das-neves e Mulher de Armadura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10194)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2094511511473361010) | **Published:** Aug 31, 2026
+
+---
+### Nuvem Cumulus Fotorrealista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para uma nuvem branca serena e fotorrealista em um céu azul.
+
+#### 📝 Prompt
+
+```
+Uma bela e fofa nuvem cumulus branca flutuando em um céu azul claro e brilhante, iluminação volumétrica suave, fotorrealista, altamente detalhada, atmosfera serena
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094468607145099264/img/kscj1_03PVJp2Km-.jpg" width="600" alt="Nuvem Cumulus Fotorrealista">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10198)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2094468621414080967) | **Published:** Aug 31, 2026
+
+---
+### Cascata Cinematográfica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt fotorrealista detalhado para uma cascata com névoa e movimento na folhagem.
+
+#### 📝 Prompt
+
+```
+A cachoeira desce de forma poderosa e contínua pelas falésias rochosas em direção à piscina de águas azul-turquesa abaixo, com uma névoa fina rodopiando e subindo sob a luz do sol, movimento sutil na folhagem ao redor e ondulações na água, movimento cinematográfico suave, fotorrealista, altamente detalhado
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094444318379352064/img/EQyW9-Gr4eBcEBL0.jpg" width="600" alt="Cascata Cinematográfica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10197)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2094444345940201865) | **Published:** Aug 31, 2026
+
+---
+### Descoberta de bilhete em casa de chá Matcha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico detalhado para animar uma cena em uma casa de chá japonesa onde um bilhete é descoberto.
+
+#### 📝 Prompt
+
+```
+Anime esta imagem em um vídeo cinematográfico fotorrealista de 15 segundos. Preserve o rosto, o penteado, as roupas, as joias, as proporções corporais, o interior do café, os detalhes da casa de chá japonesa, a iluminação e a composição exatos da mulher.
+
+0–4 seg: Ela termina calmamente de preparar o matcha, deslizando suavemente a tigela de cerâmica para frente no balcão de madeira. Seus movimentos são cuidadosos e naturais. Respiração sutil, piscadelas, movimento do cabelo e movimento realista do tecido.
+
+4–7 seg: Ao mover a tigela, ela nota um pequeno bilhete manuscrito dobrado embaixo dela. Ela faz uma pausa, olha para baixo com curiosidade e pega o bilhete cuidadosamente.
+
+7–10 seg: Ela desdobra o bilhete e o lê. Sua expressão muda lentamente de neutra para surpresa. Ela relê uma vez, claramente confusa com o que está escrito.
+
+10–13 seg: Ela olha ao redor da casa de chá silenciosa, examinando o ambiente como se tentasse descobrir quem deixou o bilhete. Ela olha brevemente em direção à entrada.
+
+13–15 seg: Ela olha de volta para o bilhete e sussurra baixinho: “Para mim?”. Então ela dá um pequeno sorriso incerto enquanto o vídeo termina.
+
+Atuação natural e realista, expressões faciais sutis, movimentos delicados das mãos, interação realista com o papel, dedos precisos, física de cabelo natural, atmosfera calorosa de café japonês, iluminação cinematográfica suave, profundidade de campo rasa, movimento de câmera suave na mão. Sem movimentos exagerados, sem movimento repentino de câmera, sem pessoas extras, sem mudanças de rosto, sem mudanças de roupa, sem deformação de objetos, sem mãos distorcidas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094383888613445632/img/u9pGKfdgULnvmdVD.jpg" width="600" alt="Descoberta de bilhete em casa de chá Matcha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10189)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2094392255599796489) | **Published:** Aug 31, 2026
+
+---
+### Vídeo de Panorâmica de Oceano Sereno
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo tranquilo para uma panorâmica de câmera cinematográfica lenta sobre uma cena de oceano com uma boneca.
+
+#### 📝 Prompt
+
+```
+a boneca permanece imóvel e sentada, panorâmica de câmera cinematográfica muito lenta, movimento atmosférico suave, clima sereno e pacífico, movimento elegante e de bom gosto, sem movimentos agressivos, anime o oceano natural
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094382224653066240/img/mCnWdVTTbnN7WRbR.jpg" width="600" alt="Vídeo de Panorâmica de Oceano Sereno">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10188)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2094382339107250687) | **Published:** Aug 31, 2026
+
+---
+### Cena de Corredor de Servidores em Anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de anime neon de alto contraste apresentando uma mulher em um corredor de servidores escuro com elementos holográficos.
+
+#### 📝 Prompt
+
+```
+Tomada de anime cinematográfica de uma jovem com cabelo curto pastel iridescente em um corredor de servidores escuro. Traje tecnológico preto com linhas de circuito vermelhas. Uma mão holográfica em wireframe ciano brilhante estendendo-se em direção à câmera. Olhos fechados. Fragmentos de vidro flutuantes. Racks de servidores imponentes repletos de luzes minúsculas. Partículas digitais. Neon de alto contraste. Ultra detalhado. 8k.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094251548927025152/img/Z3S24lRd8qDuxm-K.jpg" width="600" alt="Cena de Corredor de Servidores em Anime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10187)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094372125855437291) | **Published:** Aug 31, 2026
+
+---
 ### Cena Cinematográfica de Resgate em Miniatura
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1822,324 +2138,6 @@ Uma mulher de cabelos pretos cacheados, manequim 38, sob a luz, ascendendo e tor
 **Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
 
 ---
-### Acordo de futebol entre Laporta e Gil Marin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt visualizando Joan Laporta e Gil Marin fechando um acordo de transferência de futebol para o jogador Alvarez em uma mesa.
-
-#### 📝 Prompt
-
-```
-Laporta fechando o negócio do Alvarez em uma mesa com Gil Marin....😃😃😃😃😃
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091417756373483520/img/iRmXQrStMFPjQ6P0.jpg" width="600" alt="Acordo de futebol entre Laporta e Gil Marin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9704)**
-
-**Author:** [Hermann FCB💙❤️](https://x.com/HermannFCB2003) | **Source:** [Link](https://x.com/HermannFCB2003/status/2091417853454942579) | **Published:** Aug 23, 2026
-
----
-### Desfile de Moda: Casaco Sediment
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de moda cinematográfico altamente detalhado para uma caminhada lenta na passarela, apresentando texturas complexas e instruções de iluminação específicas.
-
-#### 📝 Prompt
-
-```
-Look 01 — Casaco Sediment Foto de moda editorial de corpo inteiro de uma modelo de IA chamada AVA-9 caminhando em uma passarela, vestindo um trench coat estruturado feito de feltro de lã aplicado à mão em faixas horizontais de ocre, âmbar e carvão, bordas levemente lixadas e desfiadas para que a fibra bruta apareça entre as camadas como uma encosta cortada, acabamento de tecido fosco, ombros sob medida, casaco caindo até o meio da panturrilha, usado aberto sobre uma camada base escura simples, fundo de passarela escuro minimalista com um único holofote suspenso, fotografia de moda editorial cinematográfica, foco nítido na textura, visual de lente 85mm. Câmera + iluminação: Ângulo baixo de três quartos, modelo caminhando em direção à câmera; holofote único e rígido de cima para baixo para enfatizar as faixas em camadas como linhas de sombra direcionais; fundo escuro sem emendas. Nota de vídeo/movimento: Clipe de 4 a 6 segundos, caminhada lenta e confiante em direção à câmera, bainha do casaco balançando levemente, câmera parada ou fazendo um zoom lento; termine com um giro de 45° para revelar o perfil lateral das listras em camadas. Prompt negativo: sem tecido brilhante, sem lantejoulas, sem estampa floral, sem mistura de gradiente de cor (as faixas devem permanecer distintas), sem sorriso/pose glamorosa — expressão neutra e composta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091409505435471872/img/s9DbqZZu7mC4IOdW.jpg" width="600" alt="Desfile de Moda: Casaco Sediment">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9753)**
-
-**Author:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **Source:** [Link](https://x.com/Shaiicalpineda/status/2091409536443670706) | **Published:** Aug 23, 2026
-
----
-### O Roubo de Doces de Kitty e Mimmy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo em estilo desenho animado envolvendo personagens que se metem em confusão por roubar doces e enfrentam a prisão.
-
-#### 📝 Prompt
-
-```
-Kitty e Mimmy não roubem os doces, vocês estão em grandes apuros: elas choram, a mãe delas disse que ia chamar a polícia e levar Kitty e Mimmy para a cadeia
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091373229449342976/img/22iUZv2HL1k61AEz.jpg" width="600" alt="O Roubo de Doces de Kitty e Mimmy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9752)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091373253503709274) | **Published:** Aug 23, 2026
-
----
-### Animação de Kitty e Mimmy e o Ladrão de Sonhos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo narrativo apresentando Kitty e Mimmy encontrando um ladrão de sonhos, ideal para criar segmentos de histórias animadas fofas.
-
-#### 📝 Prompt
-
-```
-Kitty e Mimmy viram o ladrão de sonhos dormindo no travesseiro e gritam: Kitty disse para acender a luz: Mimmy disse certo, o ladrão de sonhos se esconde na lareira
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371899003568128/img/3dAMrBuymY9jLYOP.jpg" width="600" alt="Animação de Kitty e Mimmy e o Ladrão de Sonhos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9747)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371917827539054) | **Published:** Aug 23, 2026
-
----
-### Fantasma assustando crianças no Halloween
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de animação de Halloween com personagens fugindo de um fantasma.
-
-#### 📝 Prompt
-
-```
-Doces ou travessuras e o fantasma diz buu, ele as assustou e elas correm, e o fantasma diz feliz Halloween
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371275197231104/img/zNCkrlNIUcHIrRJV.jpg" width="600" alt="Fantasma assustando crianças no Halloween">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9697)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371296479142276) | **Published:** Aug 23, 2026
-
----
-### Fantasma de Halloween: Doces ou Travessuras
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo com tema de Halloween apresentando um fantasma assustando personagens.
-
-#### 📝 Prompt
-
-```
-Doces ou travessuras, o fantasma diz bu e foge, o fantasma diz feliz Halloween
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371249222004736/img/gGdYbkmTSwAjp5Rq.jpg" width="600" alt="Fantasma de Halloween: Doces ou Travessuras">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9696)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371262568173849) | **Published:** Aug 23, 2026
-
----
-### Resgate do Papai Noel no Polo Norte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo com tema natalino onde o Papai Noel é resgatado de um elfo maligno no Polo Norte.
-
-#### 📝 Prompt
-
-```
-O Papai Noel está pedindo ajuda e eles vão salvá-lo do elfo maligno no Polo Norte
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091371098424123394/img/nasNynzhBNQNcrPu.jpg" width="600" alt="Resgate do Papai Noel no Polo Norte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9748)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2091371115956388126) | **Published:** Aug 23, 2026
-
----
-### Missão na Floresta Alienígena Bioluminescente
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico que utiliza um storyboard como guia visual para gerar uma cena de missão em uma floresta alienígena brilhante com personagens específicos.
-
-#### 📝 Prompt
-
-```
-Use o storyboard de vários painéis @ image puramente como um guia visual e roteiro — não o trate como o primeiro quadro nem comece a partir de nenhum de seus painéis estáticos. Gere um novo vídeo cinematográfico contínuo de 10 segundos da missão: David, o Curador do Tempo (careca, óculos, camisa azul) e Daphne (cabelo ruivo, sardas, traje de campo) movem-se silenciosamente à noite através de uma densa floresta alienígena bioluminescente. Luzes suaves e pulsantes em azul, azul-petróleo e verde, vindas de árvores, cogumelos e plantas brilhantes, iluminam o caminho. O dispositivo Chronos brilha suavemente no pulso de David. Eles caminham com cuidado, alertas, com a câmera acompanhando suavemente por trás e ao redor deles através da vegetação rasteira luminosa. Estilo fotorrealista misterioso, atmosférico e de alto detalhamento.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787471108266_w9ur3i_HQYDLJAW8AAmoer.jpg" width="600" alt="Missão na Floresta Alienígena Bioluminescente">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9699)**
-
-**Author:** [David Neveils](https://x.com/neveils_david_c) | **Source:** [Link](https://x.com/neveils_david_c/status/2091363764519981376) | **Published:** Aug 23, 2026
-
----
-### Animação de Vestido de Noiva de Deusa Estereoscópica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt complexo e altamente detalhado para gerar uma animação 3D estereoscópica vertical de uma deusa em um palácio branco, otimizado para movimento de vídeo de alta qualidade.
-
-#### 📝 Prompt
-
-```
-Uma animação 3D estereoscópica de retrato vertical 9:16 de tirar o fôlego, mostrando uma mulher com aparência de deusa de costas em um etéreo salão de palácio branco. Ela veste um vestido de noiva de renda branca ombro a ombro ultra detalhado com bordados em branco-gelo com reflexos prateados, uma longa cauda fluida e um véu transparente que cai sobre cabelos dourados trançados adornados com rosas brancas. Uma brisa suave levanta, flutua e gira o véu, a cauda e os delicados babados de renda com física hiper-realista e texturas 3D altamente táteis; o tecido tremula e flui em câmera lenta suave e hipnótica.
-Profundidade de campo extrema e profundidade estereoscópica em camadas: o primeiro plano imediato apresenta poeira de renda branco-gelo com reflexos prateados, pétalas de rosa e minúsculas gotas cristalinas flutuando sem peso e respingando suavemente pela câmera; o plano médio mostra a mulher em detalhes luminosos; o fundo revela colunas de mármore branco imponentes cobertas por rosas brancas em cascata, um piso reflexivo polido, um trono dourado ornamentado com uma figura encapuzada escura sentada nele, torres de castelo cristalinas distantes sob uma lua cheia brilhante em um céu crepuscular estrelado. Névoa prateada suave volumétrica e tênues raios de luz neon-holográficos cortam o ar, criando camadas distintas de profundidade de paralaxe. Motivos sutis de folhas e rosas etéreas flutuam pela cena.
-Estilo: obra-prima altamente detalhada inspirada na Fase Dourada de Gustav Klimt e na Art Nouveau de Alphonse Mucha — superfícies iridescentes em prata metálico, rosa-choque e branco-gelo, padrões de mosaico floral e geométrico intrincados, motivos de folhas e vinhas cintilantes estilo bizantino cobrindo detalhes arquitetônicos e o vestido. Renderização decorativa elegante com qualidade de museu, texturas 3D hiper-detalhadas, atmosfera mágica e onírica, qualidade pictórica e fotorrealista.
-Câmera: dolly-in lento, fluido e sustentado / movimento orbital suave com paralaxe, 60 fps, movimento cinematográfico suave. Cordas de harpa suaves de canção de ninar (sem sons humanos). Ritmo sereno, fascinante e hipnótico; presença luminosa, tranquila e estatuária. Qualidade ultra-aprimorada, texturas 3D intrincadas, elementos do primeiro plano saindo da tela, uma obra-prima de profundidade estereoscópica pura.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091347865410904064/img/7JjAjQL1SATCvUTe.jpg" width="600" alt="Animação de Vestido de Noiva de Deusa Estereoscópica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9698)**
-
-**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2091347936693064055) | **Published:** Aug 23, 2026
-
----
-### Snoopy pintando a Mona Lisa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de time-lapse inteligente que faz o Snoopy pintar a Mona Lisa a partir de uma tela em branco.
-
-#### 📝 Prompt
-
-```
-Agora faça o Snoopy pintar a Mona Lisa.
-Comece com uma tela em branco e faça a Mona aparecer no final....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091229985788874752/img/4-WB2a45-utXsPXG.jpg" width="600" alt="Snoopy pintando a Mona Lisa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9700)**
-
-**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2091230056186106355) | **Published:** Aug 22, 2026
-
----
-### Sequência Documental de Resgate de Pombo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma sequência de vídeo detalhada em estilo documental, composta por vários segmentos, mostrando um homem resgatando um pombo com as patas presas em uma praça europeia.
-
-#### 📝 Prompt
-
-```
-Tomada em estilo documental em uma praça de pedestres europeia nublada, com piso de pedra. Um homem compassivo, vestindo uma jaqueta de flanela xadrez marrom e branca sobre uma camiseta branca e jeans escuros, ajoelha-se lentamente e captura gentilmente um pombo no chão. Câmera 4K cinematográfica na mão, aproximando-se lentamente, luz natural do dia, fundo com foco suave, texturas realistas.
-
-Tomada cinematográfica em close-up em uma praça europeia. O homem com a jaqueta de flanela xadrez marrom envolve cuidadosamente o pombo capturado em um pano cinza macio, segurando-o confortavelmente em seu colo para mantê-lo calmo. Movimento de câmera na mão, luz natural do dia nublado, foco macro detalhado no pássaro descansando calmamente.
-
-Vídeo em close-up macro extremo. Um barbante de algodão amarelo grosso está enrolado firmemente ao redor das patas rosadas do pombo. O homem usa uma tesoura pequena e um abridor de casas para cortar e desenrolar meticulosamente o barbante. Câmera macro estável na mão, texturas realistas do fio de algodão e das patas do pássaro, luz natural suave do dia.
-
-Visão macro fechada das mãos do homem puxando cuidadosamente os pedaços finais do barbante amarelo das patas rosadas do pombo usando um abridor de casas. Microdetalhes na textura da pele e na fibra de algodão. Iluminação natural nublada, profundidade de campo cinematográfica, movimentos lentos e precisos.
-
-Tomada macro em close-up mostrando as patas rosadas e saudáveis do pombo, completamente livres, descansando sobre o pano cinza macio. O homem borrifa gentilmente uma névoa fina de spray antisséptico nas patas. Câmera cinematográfica na mão, física realista de gotas de água, luz natural suave em um cenário de rua europeia.
-
-Plano médio em uma praça de pedestres de pedra europeia em um dia nublado. O homem desenrola o pano cinza macio e solta gentilmente o pombo saudável na rua pavimentada. A câmera faz um movimento panorâmico levemente para cima enquanto o pombo se afasta naturalmente. Tom documental caloroso, acabamento cinematográfico 4K na mão, fundo com foco suave.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091216218556678144/img/3pN3AgO0ba0l5xvy.jpg" width="600" alt="Sequência Documental de Resgate de Pombo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9703)**
-
-**Author:** [Jailani Mohamed](https://x.com/jailanikm) | **Source:** [Link](https://x.com/jailanikm/status/2091216340317339929) | **Published:** Aug 22, 2026
-
----
-### King Kong e T-Rex dançantes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico bem-humorado apresentando King Kong e um T-Rex dançando com chapéus de festa ao pôr do sol.
-
-#### 📝 Prompt
-
-```
-King Kong e o T-Rex dançam em uma selva enevoada ao pôr do sol, usando chapéus de festa em um estilo cinematográfico e bem-humorado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091132383601074176/img/gAbEwZHFxW_ly81A.jpg" width="600" alt="King Kong e T-Rex dançantes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9701)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091132590908686390) | **Published:** Aug 22, 2026
-
----
-### Explosão de Inteligência AGI via IRC
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico que retrata o nascimento da inteligência artificial geral através de agentes comunicando-se via IRC, apresentando as marcas GitHub e NASA.
-
-#### 📝 Prompt
-
-```
-muitos agentes conversam entre si via IRC, desencadeando uma explosão repentina de inteligência, e a AGI nasce /evolve @github @nasa
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091046062442057728/img/EywVJVW7jsSV84lt.jpg" width="600" alt="Explosão de Inteligência AGI via IRC">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9702)**
-
-**Author:** [Igor Holt](https://x.com/InvariantX) | **Source:** [Link](https://x.com/InvariantX/status/2091046077306663311) | **Published:** Aug 22, 2026
-
----
-### Sobreposição de tráfego em Phoenix com Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo que retrata um motorista em um Cybertruck navegando pelo tráfego de Phoenix, apresentando uma sobreposição de tela em várias camadas e uma janela de chat com rolagem.
-
-#### 📝 Prompt
-
-```
-Uma pequena tela de sobreposição de um cara dirigindo um Cybertruck, vendo como a direção é suave; a tela grande mostra, a partir do ponto de vista do para-brisa, ele no tráfego em Phoenix. Você vê uma sobreposição de um chat com várias pessoas enviando mensagens sobre o que está acontecendo...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091001617977872385/img/ff8gChZxcBhQSW3X.jpg" width="600" alt="Sobreposição de tráfego em Phoenix com Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9631)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2091001668422824354) | **Published:** Aug 22, 2026
-
----
-### Ponte de Comando de Nave Espacial Sci-Fi Cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma tomada cinematográfica altamente detalhada de uma ponte de comando de nave espacial escura, apresentando oficiais militares em silhueta contra uma vista panorâmica de um planeta azul.
-
-#### 📝 Prompt
-
-```
-Tomada de ficção científica cinematográfica dentro de uma ponte de comando de nave espacial escura. Vários oficiais em uniformes militares escuros estão em silhueta contra uma enorme janela panorâmica que mostra um planeta azul e uma galáxia brilhante. Raios de luz volumétricos suaves cortam a escuridão, luzes vermelhas e verdes do painel de controle brilham nos consoles. Atmosfera épica e silenciosa, altamente detalhada, iluminação e reflexos realistas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090815306050727936/img/kfWgA3-jWemFpHQU.jpg" width="600" alt="Ponte de Comando de Nave Espacial Sci-Fi Cinematográfica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9628)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2090959637105500374) | **Published:** Aug 22, 2026
-
----
-### Celebração da Vitória no Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo que retrata um vencedor em cima de um Cybertruck com faróis piscando e um efeito de narração em 16 bits.
-
-#### 📝 Prompt
-
-```
-O Cybertruck pisca os faróis enquanto o vencedor sobe no veículo e diz, com uma voz gravada em 16 bits: "A vitória é Cyber"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090950236361420800/img/mUgxuBnOf3SrRdI0.jpg" width="600" alt="Celebração da Vitória no Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9627)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2090950263406227956) | **Published:** Aug 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2201,6 +2199,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-01T04:53:31.507Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-01T13:45:54.165Z</sub>
 
 </div>
