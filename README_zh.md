@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2678** |
+| 📝 提示词总数 | **2684** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-02** |
 
@@ -189,6 +189,103 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 宁静月夜晚安场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个宁静祥和的提示词，描绘了连绵起伏的丘陵和波光粼粼的湖泊上方，一轮明月高悬的景象。
+
+#### 📝 提示词
+
+```
+祝你度过一个宁静的夜晚。
+
+这是一个宁静祥和的晚安场景，描绘了一轮硕大明亮的满月在深邃湛蓝的夜空中熠熠生辉，柔和的银色月光洒在宁静的风景上，连绵起伏的丘陵与倒映着月色的平静湖面交相辉映。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095033444275302401/img/UFNKh_l3fXPCCLD6.jpg" width="600" alt="宁静月夜晚安场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10243)**
+
+**作者:** [Mattie](https://x.com/Mattie129218) | **来源:** [Link](https://x.com/Mattie129218/status/2095033462776369428) | **发布时间:** Sep 2, 2026
+
+---
+### 电影感武士对决分镜提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份包含具体时间戳、高度详细的多镜头视频提示词，用于创作雨中武士对决场景。
+
+#### 📝 提示词
+
+```
+[0-4] 缓慢推近至她的后脑勺，身穿破损羽织的决斗者将弯刀低垂于身体右侧，画面居中，背对风暴笼罩的城市，雨水从她靴边的瓦片上倾泻而下，闪电划破天空 [4-6] 快速切镜，极近距离特写刀尖，她利落地将刀上的血迹向上甩出一道弧线，水珠从钢刃上飞溅开来
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="电影感武士对决分镜提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10247)**
+
+**作者:** [🤍Hafuma🩵](https://x.com/hafuma) | **来源:** [Link](https://x.com/hafuma/status/2094956857605468426) | **发布时间:** Sep 2, 2026
+
+---
+### 火车站台上的老妇人提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于废弃火车站台老妇人的电影感忧郁风格视频提示词。
+
+#### 📝 提示词
+
+```
+电影感油画风格视频，一位留着被风吹乱的白发的老妇人坐在黄昏时分荒无人烟的火车站台上。双手捧着一台发出微光的小型复古收音机。身后是生锈废弃的蒸汽机车。潮湿空旷的铁轨延伸进迷雾中。穿着破旧的大衣。金色的多云天空。忧郁感。超高细节。8k。Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094600075960070144/img/kkpwtqGRgCRMoeX7.jpg" width="600" alt="火车站台上的老妇人提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10248)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2094885505456578626) | **发布时间:** Sep 1, 2026
+
+---
+### 生物发光温室夜间漫步
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词，描述一名男子在夜晚穿过长满发光植物的茂密温室。
+
+#### 📝 提示词
+
+```
+电影质感的视频，一名留着深色卷发的年轻男子在夜晚缓慢穿过一座巨大的、植被茂密的温室。身穿绿色衬衫。潮湿的石子路。两侧是发出生物荧光的植物。雨水从玻璃屋顶滴落。金属框架外可见满月。他停下脚步，带着宁静的惊叹抬头仰望。雾气缭绕。照片级真实感。超高细节。8k 分辨率。Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094599866626535424/img/P6E6vtztB9o2dqMj.jpg" width="600" alt="生物发光温室夜间漫步">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10244)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2094825107705176343) | **发布时间:** Sep 1, 2026
+
+---
+### 星舰火箭在山后发射
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影感视频提示词，描述了一个主体向前行走，背景中星舰火箭在山脉后方发射的场景。
+
+#### 📝 提示词
+
+```
+当他向前行走时，想象两枚星舰火箭在远处的山后发射升空
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094789718005219328/img/Hh6EvP8KRKNOkVgi.jpg" width="600" alt="星舰火箭在山后发射">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10246)**
+
+**作者:** [Ben Nash](https://x.com/bennash) | **来源:** [Link](https://x.com/bennash/status/2094789762045345824) | **发布时间:** Sep 1, 2026
+
+---
 ### 巨型沙漠头盔探索
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -358,6 +455,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10186)**
 
 **作者:** [Helton RoÐriguez](https://x.com/HRDOGE17) | **来源:** [Link](https://x.com/HRDOGE17/status/2094565773565915249) | **发布时间:** Aug 31, 2026
+
+---
+### 优雅蕾丝肖像视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段写实风格的肖像视频，一位身穿黑色蕾丝上衣的女性站在窗边，沐浴在自然侧光下。
+
+#### 📝 提示词
+
+```
+写实电影感肖像，一位美丽的年轻女性，浅棕色头发梳成优雅的松散盘发。身穿黑色花卉蕾丝高领上衣。站在高大的窗户旁。柔和的自然侧光。深色木质内饰。平静的直视镜头。浅景深。电影级皮肤质感。优雅。亲密。超高清细节。8k。Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094252040176439296/img/TyJ3I7QoKlAQivL6.jpg" width="600" alt="优雅蕾丝肖像视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10245)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2094553320576704951) | **发布时间:** Aug 31, 2026
 
 ---
 ### 蜂鸟花园飞行
@@ -2024,120 +2140,6 @@ GoPro 风格场景：奥德修斯的爱犬在 20 年后瞬间认出了他，它�
 **作者:** [Gilles Guerraz](https://x.com/gillesguerraz) | **来源:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **发布时间:** Aug 24, 2026
 
 ---
-### 漫步云端，奔向黄金之城
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段奇幻视频提示词，描述了穿越云霄前往天界黄金之城的旅程。
-
-#### 📝 提示词
-
-```
-制作一段视频，画面中他正漫步在云端，向天界的一座黄金之城走去
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="漫步云端，奔向黄金之城">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9746)**
-
-**作者:** [GayBar](https://x.com/GayBar_Ai) | **来源:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **发布时间:** Aug 24, 2026
-
----
-### Tesla Semi 车队夜间设计
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个优雅的高速公路车队设计提示词，侧重于柔和的暖光以及精致的奢华产品美学。
-
-#### 📝 提示词
-
-```
-Tesla Semi 车队在夜间高速公路行驶的落地页首屏设计，采用柔和的暖米色和浅石色画布，超大尺寸的清晰摄影图像搭配柔和的自然光，优雅的哑光香槟色与柔灰色调，构图极其简洁，采用精致的高端排版，柔和的漫射光，呈现出考究的奢华产品美学，营造出宁静而优雅的氛围
-```
-
-<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi 车队夜间设计">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9754)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **发布时间:** Aug 24, 2026
-
----
-### LinkedIn 职业形象照转换
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个转换提示词，可将现有照片转换为专业影棚级的 LinkedIn 职业形象照，同时完美保留人物的身份特征。
-
-#### 📝 提示词
-
-```
-将这张照片转换为同一位女性的专业影棚级 LinkedIn 职业形象照。完美保留其身份特征：精确的面部几何结构、比例、眼睛形状和颜色、鼻子、嘴巴、下颌线、耳朵、深色肤色以及真实的皮肤纹理。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="LinkedIn 职业形象照转换">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9799)**
-
-**作者:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **来源:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **发布时间:** Aug 24, 2026
-
----
-### 电影级慢速镜头平移
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个技术提示词，旨在通过慢速镜头平移和柔和的氛围感运动，营造出宁静氛围下的专业电影质感。
-
-#### 📝 提示词
-
-```
-very slow cinematic camera pan, soft atmospheric movement, serene and peaceful mood, elegant and tasteful motion, no aggressive movement, smoke a cigarette very slow cinematic camera pan, soft atmospheric movement
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="电影级慢速镜头平移">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9750)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **发布时间:** Aug 24, 2026
-
----
-### 跳舞蛋糕角色变形
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个将蛋糕转换为佩戴高帽和手套的跳舞角色的图生视频提示词。
-
-#### 📝 提示词
-
-```
-将这个蛋糕变成一个正在跳舞的角色，它戴着高帽、白色手套，穿着红色鞋子，脸上带着灿烂的笑容。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="跳舞蛋糕角色变形">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9751)**
-
-**作者:** [The Golden Duck](https://x.com/Chrihsteenuh) | **来源:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **发布时间:** Aug 23, 2026
-
----
-### 灵光蜕变
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影感的视频提示词，描述了一位女性在光芒中升华并找回真我的过程。
-
-#### 📝 提示词
-
-```
-一位身材 8 号、留着黑色卷发的女性，在光芒中升起，展现出神性之美，并蜕变为真正的自我
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="灵光蜕变">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9749)**
-
-**作者:** [Star](https://x.com/Wednesdayo17) | **来源:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **发布时间:** Aug 23, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2199,6 +2201,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-02T04:15:37.414Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-02T09:01:34.945Z</sub>
 
 </div>

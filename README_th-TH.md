@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2678** |
+| 📝 Total Prompts | **2684** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-02** |
 
@@ -189,6 +189,103 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ฉากคืนพระจันทร์เต็มดวงอันเงียบสงบ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่ให้ความรู้สึกสงบและผ่อนคลาย นำเสนอภาพพระจันทร์เต็มดวงสว่างไสวเหนือเนินเขาที่ทอดยาวและทะเลสาบที่สะท้อนแสงจันทร์
+
+#### 📝 Prompt
+
+```
+ขอให้เป็นค่ำคืนที่แสนสงบ
+
+ฉากราตรีสวัสดิ์ที่เงียบสงบและผ่อนคลาย นำเสนอภาพพระจันทร์เต็มดวงขนาดใหญ่ที่ส่องแสงสว่างไสวอยู่บนท้องฟ้ายามค่ำคืนสีน้ำเงินเข้มที่ปลอดโปร่ง ทอดแสงจันทร์สีเงินนวลลงบนทิวทัศน์อันเงียบสงบที่มีเนินเขาลาดต่ำและทะเลสาบที่นิ่งสงบสะท้อนเงาของพระจันทร์
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095033444275302401/img/UFNKh_l3fXPCCLD6.jpg" width="600" alt="ฉากคืนพระจันทร์เต็มดวงอันเงียบสงบ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10243)**
+
+**Author:** [Mattie](https://x.com/Mattie129218) | **Source:** [Link](https://x.com/Mattie129218/status/2095033462776369428) | **Published:** Sep 2, 2026
+
+---
+### พรอมต์สตอรีบอร์ดฉากดวลซามูไรสไตล์ภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบหลายช็อตที่มีรายละเอียดสูง พร้อมระบุช่วงเวลาสำหรับฉากดวลซามูไรท่ามกลางสายฝน
+
+#### 📝 Prompt
+
+```
+[0-4] ซูมเข้าช้าๆ ไปที่ด้านหลังศีรษะของเธอ นักดาบในชุดฮาโอริที่ขาดวิ่นถือดาบโค้งไว้ต่ำที่ด้านขวาของเธอ จัดวางไว้กลางเฟรม หันหลังให้เมืองที่มืดมิดท่ามกลางพายุ ฝนสาดกระทบกระเบื้องดินเผาที่รองเท้าบูทของเธอ สายฟ้าฟาดลงมาจากท้องฟ้า [4-6] ตัดภาพฉับไวไปที่ระยะใกล้สุดของปลายดาบ เธอสะบัดเลือดออกจากใบดาบขึ้นไปด้านบนเป็นเส้นโค้งที่คมชัด น้ำแตกกระจายออกจากตัวเหล็ก
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="พรอมต์สตอรีบอร์ดฉากดวลซามูไรสไตล์ภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10247)**
+
+**Author:** [🤍Hafuma🩵](https://x.com/hafuma) | **Source:** [Link](https://x.com/hafuma/status/2094956857605468426) | **Published:** Sep 2, 2026
+
+---
+### พรอมต์ภาพหญิงชราบนชานชาลารถไฟ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอสไตล์ภาพวาดที่ให้ความรู้สึกหม่นหมองและมีความเป็นภาพยนตร์ของหญิงชรา ณ สถานีรถไฟร้าง
+
+#### 📝 Prompt
+
+```
+วิดีโอสไตล์ภาพวาดแบบภาพยนตร์ของหญิงชราผมขาวสลวยที่ปลิวไสวตามลม นั่งอยู่บนชานชาลารถไฟที่เงียบเหงาในยามโพล้เพล้ ในมือทั้งสองข้างถือวิทยุวินเทจขนาดเล็กที่กำลังส่องแสง ด้านหลังเป็นหัวรถจักรไอน้ำเก่าขึ้นสนิมที่ถูกทิ้งร้าง รางรถไฟที่ว่างเปล่าและเปียกชื้นทอดยาวเข้าไปในสายหมอก สวมเสื้อโค้ทเก่าๆ ท้องฟ้าสีทองที่มีเมฆมาก ให้ความรู้สึกหม่นหมอง รายละเอียดคมชัดสูง 8k Grok Imagine
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094600075960070144/img/kkpwtqGRgCRMoeX7.jpg" width="600" alt="พรอมต์ภาพหญิงชราบนชานชาลารถไฟ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10248)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094885505456578626) | **Published:** Sep 1, 2026
+
+---
+### เดินชมเรือนกระจกเรืองแสงยามค่ำคืน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ของชายคนหนึ่งที่กำลังเดินผ่านเรือนกระจกที่เต็มไปด้วยพืชเรืองแสงในยามค่ำคืน
+
+#### 📝 Prompt
+
+```
+วิดีโอแนวภาพยนตร์ของชายหนุ่มผมหยิกสีเข้มที่กำลังเดินอย่างช้าๆ ผ่านเรือนกระจกขนาดใหญ่ที่รกร้างในยามค่ำคืน สวมเสื้อสีเขียว ทางเดินหินเปียกชื้น มีพืชเรืองแสงส่องสว่างอยู่ทั้งสองข้างทาง ฝนหยดลงมาจากหลังคากระจก เห็นพระจันทร์เต็มดวงผ่านโครงเหล็ก เขาหยุดเดินและแหงนมองขึ้นไปด้านบนด้วยความประหลาดใจอย่างเงียบๆ มีหมอกจางๆ ภาพสมจริงเหมือนถ่ายจากกล้อง รายละเอียดสูงมาก 8k Grok Imagine
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094599866626535424/img/P6E6vtztB9o2dqMj.jpg" width="600" alt="เดินชมเรือนกระจกเรืองแสงยามค่ำคืน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10244)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094825107705176343) | **Published:** Sep 1, 2026
+
+---
+### จรวด Starship กำลังทะยานขึ้นหลังภูเขา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่บรรยายถึงตัวละครที่กำลังเดินไปข้างหน้า ในขณะที่จรวด Starship กำลังทะยานขึ้นสู่ท้องฟ้าที่ด้านหลังแนวภูเขา
+
+#### 📝 Prompt
+
+```
+ในขณะที่เขาเดินไปข้างหน้า ลองจินตนาการถึงจรวด Starship สองลำที่กำลังทะยานขึ้นสู่ท้องฟ้าที่ด้านหลังภูเขา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094789718005219328/img/Hh6EvP8KRKNOkVgi.jpg" width="600" alt="จรวด Starship กำลังทะยานขึ้นหลังภูเขา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10246)**
+
+**Author:** [Ben Nash](https://x.com/bennash) | **Source:** [Link](https://x.com/bennash/status/2094789762045345824) | **Published:** Sep 1, 2026
+
+---
 ### การสำรวจหมวกเกราะยักษ์กลางทะเลทราย
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -358,6 +455,25 @@ Cleopatra ราชินีแห่งอียิปต์ ผู้ยัง
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10186)**
 
 **Author:** [Helton RoÐriguez](https://x.com/HRDOGE17) | **Source:** [Link](https://x.com/HRDOGE17/status/2094565773565915249) | **Published:** Aug 31, 2026
+
+---
+### วิดีโอพอร์ตเทรตผ้าลูกไม้สุดหรู
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพอร์ตเทรตสมจริงของหญิงสาวในชุดเสื้อผ้าลูกไม้สีดำ ยืนอยู่ข้างหน้าต่างที่มีแสงธรรมชาติส่องจากด้านข้าง
+
+#### 📝 Prompt
+
+```
+วิดีโอพอร์ตเทรตแนวภาพยนตร์ที่สมจริงของหญิงสาวสวยผมสีน้ำตาลอ่อนที่เกล้าผมขึ้นอย่างหรูหรา เสื้อคอสูงผ้าลูกไม้ลายดอกไม้สีดำ ยืนอยู่ใกล้หน้าต่างบานสูง แสงธรรมชาติอ่อนๆ ส่องจากด้านข้าง การตกแต่งภายในด้วยไม้สีเข้ม สายตามองตรงอย่างสงบนิ่ง ระยะชัดลึกตื้น ผิวพรรณแบบภาพยนตร์ หรูหรา อบอุ่น รายละเอียดคมชัดสูง 8k Grok Imagine
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094252040176439296/img/TyJ3I7QoKlAQivL6.jpg" width="600" alt="วิดีโอพอร์ตเทรตผ้าลูกไม้สุดหรู">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10245)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094553320576704951) | **Published:** Aug 31, 2026
 
 ---
 ### การบินของนกฮัมมิงเบิร์ดในสวน
@@ -2024,120 +2140,6 @@ VALENTINO ROSSI ขึ้นขี่ Ducati Streetfighter R รุ่นแต�
 **Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
 
 ---
-### เดินบนก้อนเมฆมุ่งสู่เมืองทองคำ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวแฟนตาซีที่บรรยายถึงการเดินทางผ่านสรวงสวรรค์เพื่อมุ่งหน้าสู่เมืองทองคำอันศักดิ์สิทธิ์
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอของเขาที่กำลังเดินอยู่บนก้อนเมฆ โดยเขากำลังมุ่งหน้าเข้าใกล้เมืองทองคำที่ตั้งอยู่บนสรวงสวรรค์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="เดินบนก้อนเมฆมุ่งสู่เมืองทองคำ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9746)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **Published:** Aug 24, 2026
-
----
-### ดีไซน์ขบวนรถ Tesla Semi ในยามค่ำคืน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์การออกแบบที่หรูหราสำหรับขบวนรถบนทางหลวง โดยเน้นแสงโทนอุ่นที่นุ่มนวลและสุนทรียภาพของผลิตภัณฑ์ระดับพรีเมียม
-
-#### 📝 Prompt
-
-```
-ดีไซน์ส่วน Hero ของหน้า Landing page สำหรับขบวนรถ Tesla Semi บนทางหลวงยามค่ำคืน ใช้โทนสีขาวนวลและสีหินอ่อนที่นุ่มนวล ภาพถ่ายขนาดใหญ่ที่คมชัดพร้อมแสงธรรมชาติที่นุ่มนวล โทนสีแชมเปญหม่นและสีเทาอ่อนที่ดูหรูหรา จัดวางองค์ประกอบแบบคลีนสะอาดตา ใช้ตัวอักษรที่ดูซับซ้อนและมีระดับ แสงไฟแบบกระจายตัวที่นุ่มนวล สุนทรียภาพของผลิตภัณฑ์หรูหราที่ผ่านการขัดเกลา ให้บรรยากาศที่สงบและประณีต
-```
-
-<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="ดีไซน์ขบวนรถ Tesla Semi ในยามค่ำคืน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
-
----
-### การเปลี่ยนภาพถ่ายให้เป็นรูปโปรไฟล์ LinkedIn ระดับมืออาชีพ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับเปลี่ยนภาพถ่ายที่มีอยู่ให้เป็นรูปโปรไฟล์ LinkedIn ระดับสตูดิโอ โดยยังคงอัตลักษณ์ของบุคคลในภาพไว้อย่างครบถ้วน
-
-#### 📝 Prompt
-
-```
-เปลี่ยนภาพถ่ายนี้ให้เป็นรูปโปรไฟล์ LinkedIn ระดับสตูดิโอโดยใช้ผู้หญิงคนเดิมในภาพ รักษาอัตลักษณ์ของเธอไว้อย่างสมบูรณ์แบบ ทั้งโครงสร้างใบหน้า สัดส่วน รูปทรงและสีของดวงตา จมูก ปาก แนวขากรรไกร หู โทนสีผิวเข้ม และพื้นผิวผิวจริง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="การเปลี่ยนภาพถ่ายให้เป็นรูปโปรไฟล์ LinkedIn ระดับมืออาชีพ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9799)**
-
-**Author:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **Source:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **Published:** Aug 24, 2026
-
----
-### การแพนกล้องแบบ Cinematic อย่างช้าๆ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งเชิงเทคนิคสำหรับการสร้างสรรค์ภาพสไตล์ Cinematic ระดับมืออาชีพ ด้วยการแพนกล้องอย่างช้าๆ และการเคลื่อนไหวที่นุ่มนวลเพื่อสร้างบรรยากาศที่เงียบสงบ
-
-#### 📝 Prompt
-
-```
-very slow cinematic camera pan, soft atmospheric movement, serene and peaceful mood, elegant and tasteful motion, no aggressive movement, smoke a cigarette very slow cinematic camera pan, soft atmospheric movement
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="การแพนกล้องแบบ Cinematic อย่างช้าๆ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9750)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **Published:** Aug 24, 2026
-
----
-### การแปลงร่างเค้กเต้นระบำ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (prompt) สำหรับแปลงภาพเป็นวิดีโอที่เปลี่ยนเค้กให้กลายเป็นตัวละครเต้นระบำที่สวมหมวกทรงสูงและถุงมือ
-
-#### 📝 Prompt
-
-```
-เปลี่ยนเค้กชิ้นนี้ให้เป็นตัวละครที่กำลังเต้นรำโดยสวมหมวกทรงสูง ถุงมือสีขาว รองเท้าสีแดง และมีรอยยิ้มกว้าง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="การแปลงร่างเค้กเต้นระบำ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9751)**
-
-**Author:** [The Golden Duck](https://x.com/Chrihsteenuh) | **Source:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **Published:** Aug 23, 2026
-
----
-### การเปลี่ยนผ่านสู่แสงสว่างทางจิตวิญญาณ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่บรรยายถึงหญิงสาวที่กำลังลอยขึ้นสู่แสงสว่างเพื่อค้นพบตัวตนที่แท้จริงของเธอ
-
-#### 📝 Prompt
-
-```
-หญิงสาวผมหยิกสีดำ รูปร่างไซส์ 8 กำลังลอยขึ้นภายใต้แสงสว่างและกลายเป็นตัวตนที่แท้จริงของเธอในความงดงามระดับเทพเจ้าอย่างสมบูรณ์แบบ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="การเปลี่ยนผ่านสู่แสงสว่างทางจิตวิญญาณ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9749)**
-
-**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2199,6 +2201,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-02T04:15:41.902Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-02T09:01:37.608Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2678** |
+| 📝 Total Prompts | **2684** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-02** |
 
@@ -189,6 +189,103 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Cena serena de boa noite sob o luar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt tranquilo e sereno apresentando uma lua cheia brilhante sobre colinas ondulantes e um lago reflexivo.
+
+#### 📝 Prompt
+
+```
+Tenha uma noite tranquila.
+
+Uma cena de boa noite serena e pacífica apresentando uma lua cheia grande e brilhante, reluzindo intensamente em um céu noturno azul-profundo e límpido, lançando um luar prateado suave sobre uma paisagem tranquila com colinas levemente ondulantes e um lago calmo que reflete a lua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095033444275302401/img/UFNKh_l3fXPCCLD6.jpg" width="600" alt="Cena serena de boa noite sob o luar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10243)**
+
+**Author:** [Mattie](https://x.com/Mattie129218) | **Source:** [Link](https://x.com/Mattie129218/status/2095033462776369428) | **Published:** Sep 2, 2026
+
+---
+### Prompt de Storyboard para Duelo Cinematográfico de Samurai
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo com várias cenas altamente detalhadas e timestamps específicos para um duelo de samurai na chuva.
+
+#### 📝 Prompt
+
+```
+[0-4] Zoom lento na parte de trás da cabeça dela, a duelista com o haori rasgado segura uma lâmina curva baixa ao seu lado direito, centro do quadro, de costas para a cidade escura pela tempestade, chuva escorrendo das telhas de barro em suas botas, relâmpagos cortam o céu [4-6] Corte seco, close-up extremo na ponta da lâmina, ela sacode o sangue para cima em um arco preciso, a água se transformando em spray ao sair do aço
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="Prompt de Storyboard para Duelo Cinematográfico de Samurai">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10247)**
+
+**Author:** [🤍Hafuma🩵](https://x.com/hafuma) | **Source:** [Link](https://x.com/hafuma/status/2094956857605468426) | **Published:** Sep 2, 2026
+
+---
+### Prompt de Idosa na Plataforma de Trem
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico e melancólico para um vídeo com estilo de pintura de uma idosa em uma estação de trem abandonada.
+
+#### 📝 Prompt
+
+```
+Vídeo cinematográfico com estilo de pintura de uma idosa com longos cabelos brancos ao vento, sentada em uma plataforma de trem deserta ao anoitecer. Segurando um pequeno rádio vintage brilhante com ambas as mãos. Locomotiva a vapor enferrujada e abandonada atrás dela. Trilhos vazios e molhados estendendo-se em direção à neblina. Casaco gasto. Céu nublado dourado. Melancólico. Ultra detalhado. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094600075960070144/img/kkpwtqGRgCRMoeX7.jpg" width="600" alt="Prompt de Idosa na Plataforma de Trem">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10248)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094885505456578626) | **Published:** Sep 1, 2026
+
+---
+### Caminhada Noturna em Estufa Bioluminescente
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico de um homem caminhando por uma estufa coberta de vegetação, repleta de plantas brilhantes à noite.
+
+#### 📝 Prompt
+
+```
+Vídeo cinematográfico de um jovem com cabelos escuros e cacheados caminhando lentamente por uma vasta estufa coberta de vegetação à noite. Camisa verde. Caminho de pedra molhada. Plantas bioluminescentes brilhando em ambos os lados. Chuva pingando do teto de vidro. Lua cheia através da estrutura de metal. Ele para e olha para cima com um deslumbramento silencioso. Nebuloso. Fotorrealista. Ultra detalhado. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094599866626535424/img/P6E6vtztB9o2dqMj.jpg" width="600" alt="Caminhada Noturna em Estufa Bioluminescente">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10244)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094825107705176343) | **Published:** Sep 1, 2026
+
+---
+### Foguetes Starship decolando atrás da montanha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico que descreve um sujeito caminhando para frente enquanto foguetes Starship decolam ao longe, atrás de uma cadeia de montanhas.
+
+#### 📝 Prompt
+
+```
+Enquanto ele caminha para frente, imagine dois foguetes Starship decolando ao longe, atrás da montanha
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094789718005219328/img/Hh6EvP8KRKNOkVgi.jpg" width="600" alt="Foguetes Starship decolando atrás da montanha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10246)**
+
+**Author:** [Ben Nash](https://x.com/bennash) | **Source:** [Link](https://x.com/bennash/status/2094789762045345824) | **Published:** Sep 1, 2026
+
+---
 ### Exploração do Capacete Gigante no Deserto
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -358,6 +455,25 @@ Plano cinematográfico aberto de uma jovem solitária com longos cabelos pretos 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10186)**
 
 **Author:** [Helton RoÐriguez](https://x.com/HRDOGE17) | **Source:** [Link](https://x.com/HRDOGE17/status/2094565773565915249) | **Published:** Aug 31, 2026
+
+---
+### Vídeo de Retrato com Renda Elegante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um vídeo de retrato fotorrealista de uma mulher vestindo uma blusa de renda preta, em pé perto de uma janela com iluminação lateral natural.
+
+#### 📝 Prompt
+
+```
+Retrato cinematográfico fotorrealista de uma bela jovem com cabelos castanhos claros em um coque elegante e solto. Blusa de gola alta em renda floral preta. Em pé perto de uma janela alta. Iluminação lateral natural suave. Interior de madeira escura. Olhar direto e calmo. Profundidade de campo rasa. Pele com aspecto fílmico. Elegante. Íntimo. Ultra detalhado. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094252040176439296/img/TyJ3I7QoKlAQivL6.jpg" width="600" alt="Vídeo de Retrato com Renda Elegante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10245)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094553320576704951) | **Published:** Aug 31, 2026
 
 ---
 ### Voo de Beija-flor no Jardim
@@ -2024,120 +2140,6 @@ faça o personagem dizer, em francês, "Of course I know how to speak French! It
 **Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
 
 ---
-### Caminhando sobre nuvens em direção à Cidade de Ouro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo de fantasia que descreve uma jornada pelos céus em direção a uma cidade dourada celestial.
-
-#### 📝 Prompt
-
-```
-Faça um vídeo dele caminhando sobre nuvens, ele se aproxima de uma cidade de ouro nos céus
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="Caminhando sobre nuvens em direção à Cidade de Ouro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9746)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **Published:** Aug 24, 2026
-
----
-### Design de comboio do Tesla Semi à noite
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de design elegante para um comboio em rodovia, com foco em luz quente suave e uma estética de produto de luxo refinada.
-
-#### 📝 Prompt
-
-```
-Design da seção hero da landing page para o comboio do Tesla Semi em uma rodovia à noite, tela em tons de off-white quente suave e pedra clara, imagens fotográficas limpas e grandes com luz natural suave, tons elegantes de champanhe suave e cinza suave, composição ultra limpa, tipografia sofisticada de alto padrão, iluminação difusa suave, estética de produto de luxo polido, atmosfera calma e refinada
-```
-
-<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Design de comboio do Tesla Semi à noite">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
-
----
-### Transformação de foto para LinkedIn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de transformação para converter uma foto existente em um retrato profissional de estúdio para o LinkedIn, preservando perfeitamente a identidade do sujeito.
-
-#### 📝 Prompt
-
-```
-Transforme esta foto em um retrato profissional de estúdio para o LinkedIn da mesma mulher. Preserve perfeitamente a sua identidade: geometria facial exata, proporções, formato e cor dos olhos, nariz, boca, linha do maxilar, orelhas, tom de pele escuro e textura de pele real
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="Transformação de foto para LinkedIn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9799)**
-
-**Author:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **Source:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **Published:** Aug 24, 2026
-
----
-### Movimento de Câmera Lento e Cinematográfico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt técnico para obter um visual cinematográfico profissional com movimentos lentos de câmera e uma atmosfera suave para um clima sereno.
-
-#### 📝 Prompt
-
-```
-movimento de câmera cinematográfico muito lento, movimento atmosférico suave, clima sereno e pacífico, movimento elegante e refinado, sem movimentos agressivos, fumar um cigarro, movimento de câmera cinematográfico muito lento, movimento atmosférico suave
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="Movimento de Câmera Lento e Cinematográfico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9750)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **Published:** Aug 24, 2026
-
----
-### Transformação de Bolo em Personagem Dançante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de imagem para vídeo que transforma um bolo em um personagem dançante usando cartola e luvas.
-
-#### 📝 Prompt
-
-```
-Transforme este bolo em um personagem dançando com uma cartola, luvas brancas, sapatos vermelhos e um grande sorriso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="Transformação de Bolo em Personagem Dançante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9751)**
-
-**Author:** [The Golden Duck](https://x.com/Chrihsteenuh) | **Source:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **Published:** Aug 23, 2026
-
----
-### Transformação pela Luz Espiritual
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico que descreve uma mulher ascendendo através da luz em direção ao seu verdadeiro eu.
-
-#### 📝 Prompt
-
-```
-Uma mulher de cabelos pretos cacheados, manequim 38, sob a luz, ascendendo e tornando-se seu verdadeiro eu na beleza absoluta de uma divindade
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="Transformação pela Luz Espiritual">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9749)**
-
-**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2199,6 +2201,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-02T04:15:50.933Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-02T09:01:44.363Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2678** |
+| 📝 Total Prompts | **2684** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-02** |
 
@@ -189,6 +189,103 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Huzurlu Ay Işığı Altında İyi Geceler Manzarası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Engebeli tepelerin ve yansıtıcı bir gölün üzerinde parlayan dolunayı içeren huzurlu ve dingin bir istem.
+
+#### 📝 Prompt
+
+```
+Huzurlu bir gece dileriz.
+
+Berrak ve koyu mavi bir gece gökyüzünde parlak bir şekilde parlayan büyük, aydınlık bir dolunayı; hafif engebeli tepeler ve ayı yansıtan durgun bir göl ile huzurlu bir manzaranın üzerine yumuşak, gümüş rengi bir ay ışığı saçan dingin ve huzurlu bir iyi geceler sahnesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095033444275302401/img/UFNKh_l3fXPCCLD6.jpg" width="600" alt="Huzurlu Ay Işığı Altında İyi Geceler Manzarası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10243)**
+
+**Author:** [Mattie](https://x.com/Mattie129218) | **Source:** [Link](https://x.com/Mattie129218/status/2095033462776369428) | **Published:** Sep 2, 2026
+
+---
+### Sinematik Samuray Düellosu Storyboard İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yağmur altındaki bir samuray düellosu için belirli zaman damgalarına sahip, oldukça detaylı çok çekimli bir video istemi.
+
+#### 📝 Prompt
+
+```
+[0-4] Başının arkasına doğru yavaş yakın çekim, yırtık haori giymiş düellocu, kavisli kılıcını sağ tarafında alçak bir konumda tutuyor, kadrajın merkezinde, fırtınayla kararmış şehre arkası dönük, botlarının üzerindeki kiremitlerden yağmur suları akıyor, gökyüzünde şimşekler çakıyor [4-6] Ani kesme, kılıcın ucuna aşırı yakın çekim, üzerindeki kanı tek bir keskin yay hareketiyle yukarı doğru savuruyor, su çelikten ayrılarak damlacıklar halinde dağılıyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="Sinematik Samuray Düellosu Storyboard İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10247)**
+
+**Author:** [🤍Hafuma🩵](https://x.com/hafuma) | **Source:** [Link](https://x.com/hafuma/status/2094956857605468426) | **Published:** Sep 2, 2026
+
+---
+### Tren İstasyonunda Yaşlı Kadın İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Terk edilmiş bir tren istasyonundaki yaşlı bir kadının resimsel videosu için sinematik ve melankolik bir istem.
+
+#### 📝 Prompt
+
+```
+Alacakaranlıkta terk edilmiş bir tren platformunda oturan, rüzgarda savrulan uzun beyaz saçlı yaşlı bir kadının sinematik resimsel videosu. İki eliyle küçük, parlayan nostaljik bir radyo tutuyor. Arkasında paslı, terk edilmiş bir buharlı lokomotif. Sise doğru uzanan ıslak ve boş raylar. Eskimiş bir palto. Altın rengi bulutlu bir gökyüzü. Melankolik. Ultra detaylı. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094600075960070144/img/kkpwtqGRgCRMoeX7.jpg" width="600" alt="Tren İstasyonunda Yaşlı Kadın İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10248)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094885505456578626) | **Published:** Sep 1, 2026
+
+---
+### Biyolüminesans Seralarda Gece Yürüyüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gece vakti, parlayan bitkilerle dolu, sarmaşıklarla kaplı bir serada yürüyen bir adamı konu alan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Gece vakti, geniş ve sarmaşıklarla kaplı bir serada yavaşça yürüyen kıvırcık koyu saçlı genç bir adamın sinematik videosu. Yeşil gömlekli. Islak taş yol. Her iki tarafta parlayan biyolüminesans bitkiler. Cam çatıdan damlayan yağmur. Metal çerçevenin arasından görünen dolunay. Adam durur ve sessiz bir hayranlıkla yukarı bakar. Sisli. Fotogerçekçi. Ultra detaylı. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094599866626535424/img/P6E6vtztB9o2dqMj.jpg" width="600" alt="Biyolüminesans Seralarda Gece Yürüyüşü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10244)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094825107705176343) | **Published:** Sep 1, 2026
+
+---
+### Dağın Ardından Yükselen Starship Roketleri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir dağ silsilesinin ardında, uzakta fırlatılan Starship roketleri eşliğinde ileriye doğru yürüyen bir özneyi betimleyen sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+İleriye doğru yürürken, dağın ardında uzakta fırlatılan iki Starship roketini hayal edin
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094789718005219328/img/Hh6EvP8KRKNOkVgi.jpg" width="600" alt="Dağın Ardından Yükselen Starship Roketleri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10246)**
+
+**Author:** [Ben Nash](https://x.com/bennash) | **Source:** [Link](https://x.com/bennash/status/2094789762045345824) | **Published:** Sep 1, 2026
+
+---
 ### Dev Çöl Miğferi Keşfi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -358,6 +455,25 @@ Geniş, bitkilerle kaplı bir sera kubbesinin merkezinde diz çökmüş, uzun si
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10186)**
 
 **Author:** [Helton RoÐriguez](https://x.com/HRDOGE17) | **Source:** [Link](https://x.com/HRDOGE17/status/2094565773565915249) | **Published:** Aug 31, 2026
+
+---
+### Zarif Dantel Portre Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Pencere kenarında, doğal yan ışık alan, siyah dantel bluzlu bir kadının fotogerçekçi portre videosu.
+
+#### 📝 Prompt
+
+```
+Açık kahverengi saçları gevşek ve zarif bir topuz yapılmış güzel genç bir kadının fotogerçekçi sinematik portresi. Siyah çiçekli dantel balıkçı yaka bluz. Yüksek bir pencerenin yanında duruyor. Yumuşak doğal yan ışık. Koyu ahşap iç mekan. Sakin ve doğrudan bakışlar. Sığ alan derinliği. Filmik cilt dokusu. Zarif. Samimi. Ultra detaylı. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094252040176439296/img/TyJ3I7QoKlAQivL6.jpg" width="600" alt="Zarif Dantel Portre Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10245)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094553320576704951) | **Published:** Aug 31, 2026
 
 ---
 ### Sinek Kuşu Bahçe Uçuşu
@@ -2025,120 +2141,6 @@ karaktere Fransızca olarak "Elbette Fransızca konuşmayı biliyorum! Benim ana
 **Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
 
 ---
-### Altın Şehre Doğru Bulutların Üzerinde Yürüyüş
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gökyüzünde, görkemli bir altın şehre doğru yapılan yolculuğu betimleyen fantastik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Bulutların üzerinde yürüyen bir adamın videosunu oluştur; gökyüzündeki altın bir şehre doğru yaklaşıyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="Altın Şehre Doğru Bulutların Üzerinde Yürüyüş">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9746)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **Published:** Aug 24, 2026
-
----
-### Tesla Semi Konvoyu Gece Tasarımı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Otoyoldaki bir konvoy için yumuşak sıcak ışığa ve rafine bir lüks ürün estetiğine odaklanan zarif bir tasarım istemi.
-
-#### 📝 Prompt
-
-```
-Gece otoyolunda Tesla Semi konvoyu için açılış sayfası ana bölüm tasarımı, yumuşak sıcak kırık beyaz ve soluk taş rengi tuval, yumuşak doğal ışıkla çekilmiş büyük boyutlu temiz fotoğraf görselleri, zarif mat şampanya ve yumuşak gri tonları, ultra temiz kompozisyon, sofistike üst düzey tipografi, yumuşak dağılmış aydınlatma, cilalı lüks ürün estetiği, sakin ve rafine atmosfer
-```
-
-<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi Konvoyu Gece Tasarımı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
-
----
-### LinkedIn Profil Fotoğrafı Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mevcut bir fotoğrafı, kişinin kimliğini mükemmel bir şekilde koruyarak profesyonel stüdyo kalitesinde bir LinkedIn profil fotoğrafına dönüştüren bir dönüşüm istemi.
-
-#### 📝 Prompt
-
-```
-Bu fotoğrafı, aynı kadının profesyonel stüdyo kalitesinde bir LinkedIn profil fotoğrafına dönüştür. Kimliğini mükemmel bir şekilde koru: tam yüz geometrisi, oranlar, göz şekli ve rengi, burun, ağız, çene hattı, kulaklar, koyu ten rengi ve gerçek cilt dokusu
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="LinkedIn Profil Fotoğrafı Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9799)**
-
-**Author:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **Source:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **Published:** Aug 24, 2026
-
----
-### Sinematik Yavaş Kamera Kaydırma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Huzurlu bir atmosfer için yavaş kamera kaydırmaları ve yumuşak atmosferik hareketlerle profesyonel bir sinematik görünüm elde etmeye yönelik teknik bir komut.
-
-#### 📝 Prompt
-
-```
-çok yavaş sinematik kamera kaydırma, yumuşak atmosferik hareket, dingin ve huzurlu bir ruh hali, zarif ve zevkli hareket, agresif hareket yok, sigara içme çok yavaş sinematik kamera kaydırma, yumuşak atmosferik hareket
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="Sinematik Yavaş Kamera Kaydırma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9750)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **Published:** Aug 24, 2026
-
----
-### Dans Eden Pasta Karakter Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir pastayı silindir şapka ve eldiven takan dans eden bir karaktere dönüştüren bir görselden videoya (image-to-video) istemi.
-
-#### 📝 Prompt
-
-```
-Bu pastayı silindir şapka, beyaz eldivenler, kırmızı ayakkabılar ve kocaman bir gülümsemeyle dans eden bir karaktere dönüştür.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="Dans Eden Pasta Karakter Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9751)**
-
-**Author:** [The Golden Duck](https://x.com/Chrihsteenuh) | **Source:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **Published:** Aug 23, 2026
-
----
-### Ruhsal Işık Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kadının ışıklar içinde yükselerek gerçek benliğine dönüşmesini betimleyen sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Siyah kıvırcık saçlı, 8 beden bir kadın, ışığın altında yükseliyor ve mutlak tanrısal bir güzellikle gerçek benliğine dönüşüyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="Ruhsal Işık Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9749)**
-
-**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2200,6 +2202,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-02T04:15:53.462Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-02T09:01:45.929Z</sub>
 
 </div>

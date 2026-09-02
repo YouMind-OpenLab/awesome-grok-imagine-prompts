@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2678** |
+| 📝 Total Prompts | **2684** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-02** |
 
@@ -189,6 +189,103 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Scena notturna serena al chiaro di luna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt tranquillo e sereno che raffigura una luna piena luminosa sopra colline ondulate e un lago riflessivo.
+
+#### 📝 Prompt
+
+```
+Ti auguro una notte serena.
+
+Una scena della buonanotte serena e tranquilla che presenta una grande e luminosa luna piena che brilla intensamente in un cielo notturno blu profondo e limpido, proiettando un morbido chiarore argenteo su un paesaggio calmo con dolci colline ondulate e un lago tranquillo che riflette la luna.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095033444275302401/img/UFNKh_l3fXPCCLD6.jpg" width="600" alt="Scena notturna serena al chiaro di luna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10243)**
+
+**Author:** [Mattie](https://x.com/Mattie129218) | **Source:** [Link](https://x.com/Mattie129218/status/2095033462776369428) | **Published:** Sep 2, 2026
+
+---
+### Prompt per storyboard di un duello cinematografico tra samurai
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video multi-inquadratura altamente dettagliato con timestamp specifici per un duello tra samurai sotto la pioggia.
+
+#### 📝 Prompt
+
+```
+[0-4] Lento zoom sulla nuca, la duellante con l'haori strappato impugna una lama curva bassa sul fianco destro, inquadratura centrale, di spalle rispetto alla città scura sotto la tempesta, la pioggia scorre via dalle tegole di argilla ai suoi stivali, un fulmine squarcia il cielo [4-6] Taglio netto, primissimo piano sulla punta della lama, lei scuote via il sangue verso l'alto con un arco netto, l'acqua si infrange in spruzzi sull'acciaio
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="Prompt per storyboard di un duello cinematografico tra samurai">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10247)**
+
+**Author:** [🤍Hafuma🩵](https://x.com/hafuma) | **Source:** [Link](https://x.com/hafuma/status/2094956857605468426) | **Published:** Sep 2, 2026
+
+---
+### Prompt: Anziana sulla banchina della stazione
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico e malinconico per un video in stile pittorico che ritrae un'anziana in una stazione ferroviaria abbandonata.
+
+#### 📝 Prompt
+
+```
+Video cinematografico in stile pittorico di un'anziana con lunghi capelli bianchi mossi dal vento, seduta su una banchina ferroviaria deserta al crepuscolo. Tiene tra le mani una piccola radio vintage luminosa. Dietro di lei, una locomotiva a vapore arrugginita e abbandonata. Binari bagnati e vuoti che si perdono nella nebbia. Cappotto logoro. Cielo nuvoloso dorato. Malinconico. Ultra dettagliato. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094600075960070144/img/kkpwtqGRgCRMoeX7.jpg" width="600" alt="Prompt: Anziana sulla banchina della stazione">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10248)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094885505456578626) | **Published:** Sep 1, 2026
+
+---
+### Passeggiata notturna in una serra bioluminescente
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico di un uomo che cammina di notte attraverso una serra incolta piena di piante luminose.
+
+#### 📝 Prompt
+
+```
+Video cinematografico di un giovane uomo dai capelli scuri e ricci che cammina lentamente di notte attraverso una vasta serra incolta. Camicia verde. Sentiero di pietra bagnata. Piante bioluminescenti che brillano lungo entrambi i lati. Pioggia che gocciola dal tetto in vetro. Luna piena visibile attraverso la struttura metallica. Si ferma e guarda verso l'alto con silenziosa meraviglia. Nebbioso. Fotorealistico. Ultra dettagliato. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094599866626535424/img/P6E6vtztB9o2dqMj.jpg" width="600" alt="Passeggiata notturna in una serra bioluminescente">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10244)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094825107705176343) | **Published:** Sep 1, 2026
+
+---
+### Razzi Starship che decollano dietro una montagna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico che descrive un soggetto che cammina in avanti mentre i razzi Starship decollano in lontananza dietro una catena montuosa.
+
+#### 📝 Prompt
+
+```
+Mentre cammina in avanti, immagina due razzi Starship che decollano in lontananza dietro la montagna
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094789718005219328/img/Hh6EvP8KRKNOkVgi.jpg" width="600" alt="Razzi Starship che decollano dietro una montagna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10246)**
+
+**Author:** [Ben Nash](https://x.com/bennash) | **Source:** [Link](https://x.com/bennash/status/2094789762045345824) | **Published:** Sep 1, 2026
+
+---
 ### Esplorazione del gigantesco elmo nel deserto
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -358,6 +455,25 @@ Inquadratura cinematografica grandangolare di una giovane donna solitaria con lu
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10186)**
 
 **Author:** [Helton RoÐriguez](https://x.com/HRDOGE17) | **Source:** [Link](https://x.com/HRDOGE17/status/2094565773565915249) | **Published:** Aug 31, 2026
+
+---
+### Video ritratto elegante in pizzo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video ritratto fotorealistico di una donna con un top in pizzo nero, in piedi accanto a una finestra con luce laterale naturale.
+
+#### 📝 Prompt
+
+```
+Ritratto cinematografico fotorealistico di una bella giovane donna con capelli castano chiaro raccolti in un'acconciatura morbida ed elegante. Top a collo alto in pizzo floreale nero. In piedi vicino a una finestra alta. Luce laterale naturale e soffice. Interni in legno scuro. Sguardo calmo e diretto. Profondità di campo ridotta. Pelle dall'aspetto filmico. Elegante. Intimo. Ultra dettagliato. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094252040176439296/img/TyJ3I7QoKlAQivL6.jpg" width="600" alt="Video ritratto elegante in pizzo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10245)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094553320576704951) | **Published:** Aug 31, 2026
 
 ---
 ### Volo nel giardino dei colibrì
@@ -2024,120 +2140,6 @@ fai dire al personaggio, in francese: "Certo che so parlare francese! È la mia 
 **Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
 
 ---
-### Camminando sulle nuvole verso la Città d'Oro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video fantasy che descrive un viaggio attraverso i cieli verso una città d'oro celestiale.
-
-#### 📝 Prompt
-
-```
-Crea un video di lui che cammina sulle nuvole, mentre si avvicina a una città d'oro nei cieli
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="Camminando sulle nuvole verso la Città d'Oro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9746)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **Published:** Aug 24, 2026
-
----
-### Design notturno di un convoglio Tesla Semi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un elegante prompt di design per un convoglio autostradale, focalizzato su una luce calda e soffusa e un'estetica raffinata da prodotto di lusso.
-
-#### 📝 Prompt
-
-```
-Design della sezione hero della landing page per un convoglio Tesla Semi su un'autostrada notturna, tela color bianco caldo tenue e pietra pallida, immagini fotografiche pulite di grandi dimensioni con luce naturale delicata, eleganti tonalità champagne tenue e grigio morbido, composizione ultra-pulita, tipografia sofisticata di alta gamma, illuminazione diffusa e soffice, estetica da prodotto di lusso raffinato, atmosfera calma e ricercata
-```
-
-<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Design notturno di un convoglio Tesla Semi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
-
----
-### Trasformazione foto profilo LinkedIn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di trasformazione per convertire una foto esistente in un ritratto professionale in stile studio per LinkedIn, preservando perfettamente l'identità del soggetto.
-
-#### 📝 Prompt
-
-```
-Trasforma questa foto in un ritratto professionale in stile studio per LinkedIn della stessa identica donna. Preserva perfettamente la sua identità: geometria del viso, proporzioni, forma e colore degli occhi, naso, bocca, mascella, orecchie, tonalità della pelle scura e texture cutanea reale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="Trasformazione foto profilo LinkedIn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9799)**
-
-**Author:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **Source:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **Published:** Aug 24, 2026
-
----
-### Panoramica cinematografica lenta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt tecnico per ottenere un look cinematografico professionale con panoramiche lente e un movimento atmosferico morbido per un'atmosfera serena.
-
-#### 📝 Prompt
-
-```
-panoramica cinematografica molto lenta, movimento atmosferico morbido, atmosfera serena e tranquilla, movimento elegante e raffinato, nessun movimento aggressivo, fuma una sigaretta panoramica cinematografica molto lenta, movimento atmosferico morbido
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="Panoramica cinematografica lenta">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9750)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **Published:** Aug 24, 2026
-
----
-### Trasformazione di una torta danzante in personaggio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt da immagine a video che trasforma una torta in un personaggio danzante che indossa un cilindro e guanti.
-
-#### 📝 Prompt
-
-```
-Trasforma questa torta in un personaggio che balla con un cilindro, guanti bianchi, scarpe rosse e un grande sorriso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="Trasformazione di una torta danzante in personaggio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9751)**
-
-**Author:** [The Golden Duck](https://x.com/Chrihsteenuh) | **Source:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **Published:** Aug 23, 2026
-
----
-### Trasformazione della Luce Spirituale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico che descrive una donna che ascende attraverso la luce verso il suo vero io.
-
-#### 📝 Prompt
-
-```
-Una donna con capelli neri ricci, taglia 42, sotto la luce che ascende e diventa il suo vero io nella bellezza assoluta degli dei
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="Trasformazione della Luce Spirituale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9749)**
-
-**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2199,6 +2201,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-02T04:15:50.018Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-02T09:01:43.684Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2678** |
+| 📝 Total Prompts | **2684** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-02** |
 
@@ -189,6 +189,103 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Khung cảnh đêm trăng thanh bình
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả khung cảnh yên bình và tĩnh lặng với vầng trăng tròn sáng tỏ phía trên những ngọn đồi nhấp nhô và mặt hồ phản chiếu.
+
+#### 📝 Prompt
+
+```
+Chúc bạn một đêm an lành.
+
+Một khung cảnh chúc ngủ ngon thanh bình và tĩnh lặng, nổi bật với vầng trăng tròn to, sáng rực rỡ trên bầu trời đêm xanh thẳm quang đãng, tỏa ánh trăng bạc dịu nhẹ xuống cảnh quan yên tĩnh với những ngọn đồi nhấp nhô thoai thoải cùng mặt hồ tĩnh lặng phản chiếu ánh trăng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095033444275302401/img/UFNKh_l3fXPCCLD6.jpg" width="600" alt="Khung cảnh đêm trăng thanh bình">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10243)**
+
+**Author:** [Mattie](https://x.com/Mattie129218) | **Source:** [Link](https://x.com/Mattie129218/status/2095033462776369428) | **Published:** Sep 2, 2026
+
+---
+### Prompt phân cảnh đấu kiếm Samurai đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt video đa cảnh quay vô cùng chi tiết với các mốc thời gian cụ thể cho một trận đấu kiếm samurai dưới mưa.
+
+#### 📝 Prompt
+
+```
+[0-4] Cận cảnh chậm dần từ phía sau đầu nhân vật, nữ kiếm sĩ trong bộ haori rách rưới đang cầm thanh kiếm cong thấp ở bên phải, khung hình trung tâm, quay lưng về phía thành phố tối tăm trong bão, mưa trút xuống những viên ngói đất nung dưới chân cô, tia chớp xé toạc bầu trời [4-6] Cắt cảnh nhanh, cận cảnh cực đại vào mũi kiếm, cô vẩy máu trên lưỡi kiếm lên trên theo một đường cung sắc lẹm, nước bắn tung tóe khỏi bề mặt thép
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="Prompt phân cảnh đấu kiếm Samurai đậm chất điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10247)**
+
+**Author:** [🤍Hafuma🩵](https://x.com/hafuma) | **Source:** [Link](https://x.com/hafuma/status/2094956857605468426) | **Published:** Sep 2, 2026
+
+---
+### Gợi ý hình ảnh: Người phụ nữ lớn tuổi trên sân ga
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý mang tính điện ảnh và đầy tâm trạng cho video phong cách hội họa về một người phụ nữ lớn tuổi tại nhà ga bỏ hoang.
+
+#### 📝 Prompt
+
+```
+Video phong cách hội họa điện ảnh về một người phụ nữ lớn tuổi với mái tóc trắng dài bay trong gió, đang ngồi trên sân ga vắng vẻ lúc hoàng hôn. Bà cầm một chiếc đài radio cổ điển nhỏ đang phát sáng trên cả hai tay. Phía sau bà là đầu máy hơi nước rỉ sét bị bỏ hoang. Những đường ray trống trải, ẩm ướt trải dài vào màn sương mù. Chiếc áo khoác sờn cũ. Bầu trời nhiều mây ánh vàng. Tâm trạng u buồn. Độ chi tiết cực cao. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094600075960070144/img/kkpwtqGRgCRMoeX7.jpg" width="600" alt="Gợi ý hình ảnh: Người phụ nữ lớn tuổi trên sân ga">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10248)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094885505456578626) | **Published:** Sep 1, 2026
+
+---
+### Dạo đêm trong nhà kính phát quang sinh học
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh về một người đàn ông đang đi dạo qua một nhà kính um tùm đầy những loài cây phát sáng vào ban đêm.
+
+#### 📝 Prompt
+
+```
+Video điện ảnh về một chàng trai trẻ có mái tóc xoăn sẫm màu đang chậm rãi bước đi trong một nhà kính rộng lớn, um tùm vào ban đêm. Mặc áo sơ mi xanh. Lối đi bằng đá ẩm ướt. Các loài cây phát quang sinh học tỏa sáng dọc hai bên đường. Mưa nhỏ giọt từ mái kính. Trăng tròn lấp ló qua khung kim loại. Anh dừng lại và nhìn lên trên với vẻ kinh ngạc lặng lẽ. Sương mù. Chân thực như ảnh chụp. Độ chi tiết cực cao. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094599866626535424/img/P6E6vtztB9o2dqMj.jpg" width="600" alt="Dạo đêm trong nhà kính phát quang sinh học">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10244)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094825107705176343) | **Published:** Sep 1, 2026
+
+---
+### Tên lửa Starship phóng lên phía sau dãy núi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video điện ảnh mô tả chủ thể đang bước về phía trước trong khi các tên lửa Starship phóng lên ở phía xa sau dãy núi.
+
+#### 📝 Prompt
+
+```
+Khi anh ấy bước về phía trước, hãy tưởng tượng hai tên lửa Starship đang phóng lên ở phía xa sau dãy núi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094789718005219328/img/Hh6EvP8KRKNOkVgi.jpg" width="600" alt="Tên lửa Starship phóng lên phía sau dãy núi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10246)**
+
+**Author:** [Ben Nash](https://x.com/bennash) | **Source:** [Link](https://x.com/bennash/status/2094789762045345824) | **Published:** Sep 1, 2026
+
+---
 ### Khám phá chiếc mũ bảo hiểm khổng lồ trên sa mạc
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -358,6 +455,25 @@ Cảnh quay điện ảnh góc rộng về một người phụ nữ trẻ đơn
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10186)**
 
 **Author:** [Helton RoÐriguez](https://x.com/HRDOGE17) | **Source:** [Link](https://x.com/HRDOGE17/status/2094565773565915249) | **Published:** Aug 31, 2026
+
+---
+### Video chân dung ren thanh lịch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video chân dung chân thực về một người phụ nữ mặc áo ren đen đứng cạnh cửa sổ với ánh sáng tự nhiên từ một bên.
+
+#### 📝 Prompt
+
+```
+Chân dung điện ảnh chân thực về một người phụ nữ trẻ xinh đẹp với mái tóc nâu nhạt được búi cao thanh lịch. Áo ren hoa cao cổ màu đen. Đứng gần cửa sổ cao. Ánh sáng tự nhiên dịu nhẹ từ một bên. Nội thất gỗ tối màu. Ánh nhìn trực diện bình thản. Độ sâu trường ảnh nông. Làn da chuẩn điện ảnh. Thanh lịch. Gần gũi. Siêu chi tiết. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094252040176439296/img/TyJ3I7QoKlAQivL6.jpg" width="600" alt="Video chân dung ren thanh lịch">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10245)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094553320576704951) | **Published:** Aug 31, 2026
 
 ---
 ### Chuyến bay trong vườn của chim ruồi
@@ -2024,120 +2140,6 @@ hãy để nhân vật nói bằng tiếng Pháp câu: "Tất nhiên là tôi bi
 **Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
 
 ---
-### Dạo bước trên mây hướng về Thành phố Vàng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video giả tưởng mô tả hành trình xuyên qua thiên đường để tiến về một thành phố vàng rực rỡ.
-
-#### 📝 Prompt
-
-```
-Tạo một video về anh ấy đang đi bộ trên những đám mây, anh ấy tiến gần đến một thành phố vàng trên thiên đường
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="Dạo bước trên mây hướng về Thành phố Vàng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9746)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **Published:** Aug 24, 2026
-
----
-### Thiết kế đoàn xe Tesla Semi vào ban đêm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý thiết kế tinh tế cho đoàn xe trên đường cao tốc, tập trung vào ánh sáng ấm áp dịu nhẹ và thẩm mỹ sản phẩm sang trọng, tinh tế.
-
-#### 📝 Prompt
-
-```
-Thiết kế phần hero của trang đích cho đoàn xe Tesla Semi trên đường cao tốc vào ban đêm, phông nền màu trắng ấm nhạt và màu đá nhạt, hình ảnh chụp khổ lớn sắc nét với ánh sáng tự nhiên dịu nhẹ, tông màu sâm panh trầm thanh lịch và màu xám mềm mại, bố cục cực kỳ sạch sẽ, kiểu chữ cao cấp tinh tế, ánh sáng khuếch tán nhẹ nhàng, thẩm mỹ sản phẩm sang trọng bóng bẩy, bầu không khí điềm tĩnh và tinh tế
-```
-
-<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Thiết kế đoàn xe Tesla Semi vào ban đêm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
-
----
-### Chuyển đổi ảnh chân dung LinkedIn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chuyển đổi giúp biến bức ảnh hiện có thành ảnh chân dung chuyên nghiệp chuẩn studio cho LinkedIn, đồng thời giữ nguyên danh tính của chủ thể.
-
-#### 📝 Prompt
-
-```
-Hãy chuyển đổi bức ảnh này thành ảnh chân dung chuyên nghiệp chuẩn studio cho LinkedIn của chính người phụ nữ này. Giữ nguyên danh tính của cô ấy một cách hoàn hảo: hình học khuôn mặt, tỷ lệ, hình dáng và màu mắt, mũi, miệng, đường viền hàm, tai, tông màu da tối và kết cấu da thật chính xác.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="Chuyển đổi ảnh chân dung LinkedIn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9799)**
-
-**Author:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **Source:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **Published:** Aug 24, 2026
-
----
-### Cú lia máy quay điện ảnh chậm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh kỹ thuật để đạt được vẻ ngoài điện ảnh chuyên nghiệp với các cú lia máy chậm và chuyển động khí quyển nhẹ nhàng, tạo nên bầu không khí thanh bình.
-
-#### 📝 Prompt
-
-```
-very slow cinematic camera pan, soft atmospheric movement, serene and peaceful mood, elegant and tasteful motion, no aggressive movement, smoke a cigarette very slow cinematic camera pan, soft atmospheric movement
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="Cú lia máy quay điện ảnh chậm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9750)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **Published:** Aug 24, 2026
-
----
-### Biến hình nhân vật bánh kem nhảy múa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) chuyển đổi hình ảnh thành video, biến chiếc bánh kem thành một nhân vật đang nhảy múa với mũ chóp và găng tay.
-
-#### 📝 Prompt
-
-```
-Hãy biến chiếc bánh này thành một nhân vật đang nhảy múa, đội mũ chóp, đeo găng tay trắng, đi giày đỏ và nở nụ cười rạng rỡ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="Biến hình nhân vật bánh kem nhảy múa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9751)**
-
-**Author:** [The Golden Duck](https://x.com/Chrihsteenuh) | **Source:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **Published:** Aug 23, 2026
-
----
-### Chuyển hóa Ánh sáng Tâm linh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh mô tả một người phụ nữ vươn mình qua ánh sáng để trở về với bản ngã đích thực.
-
-#### 📝 Prompt
-
-```
-Một người phụ nữ với mái tóc xoăn đen, vóc dáng size 8, đang vươn mình dưới ánh sáng để trở về với bản ngã đích thực trong vẻ đẹp tuyệt đối của thần linh
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="Chuyển hóa Ánh sáng Tâm linh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9749)**
-
-**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2199,6 +2201,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-02T04:15:42.956Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-02T09:01:38.191Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2678** |
+| 📝 Total Prompts | **2684** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-02** |
 
@@ -189,6 +189,103 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### शांत चांदनी रात का दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> पहाड़ियों और झील में चमकते पूर्ण चंद्रमा का एक शांत और सुकून भरा दृश्य।
+
+#### 📝 Prompt
+
+```
+आपकी रात मंगलमय हो।
+
+एक शांत और सुकून भरी रात का दृश्य, जिसमें गहरे नीले आसमान में एक बड़ा और चमकीला पूर्ण चंद्रमा चमक रहा है। यह चंद्रमा की कोमल चांदनी को ढलती हुई पहाड़ियों और एक शांत झील पर बिखेर रहा है, जिसमें चंद्रमा का प्रतिबिंब साफ दिखाई दे रहा है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095033444275302401/img/UFNKh_l3fXPCCLD6.jpg" width="600" alt="शांत चांदनी रात का दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10243)**
+
+**Author:** [Mattie](https://x.com/Mattie129218) | **Source:** [Link](https://x.com/Mattie129218/status/2095033462776369428) | **Published:** Sep 2, 2026
+
+---
+### सिनेमैटिक समुराई द्वंद्व स्टोरीबोर्ड प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> बारिश में समुराई द्वंद्व के लिए विशिष्ट टाइमस्टैम्प के साथ एक अत्यधिक विस्तृत मल्टी-शॉट वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+[0-4] उसके सिर के पिछले हिस्से पर धीमा ज़ूम इन, फटे हुए हाओरी (haori) में द्वंद्वयुद्ध करने वाली महिला अपनी दाईं ओर एक मुड़ी हुई तलवार को नीचे की ओर पकड़े हुए है, फ्रेम के केंद्र में, तूफानी अंधेरे शहर की ओर पीठ किए हुए, उसके जूतों पर मिट्टी की टाइलों से बारिश की चादर गिर रही है, आसमान में बिजली कड़क रही है [4-6] स्नैप कट, तलवार की नोक का एक्सट्रीम क्लोज़-अप, वह एक तेज़ चाप में उससे खून को ऊपर की ओर झटकती है, पानी स्टील से टकराकर फुहारों में बदल जाता है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="सिनेमैटिक समुराई द्वंद्व स्टोरीबोर्ड प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10247)**
+
+**Author:** [🤍Hafuma🩵](https://x.com/hafuma) | **Source:** [Link](https://x.com/hafuma/status/2094956857605468426) | **Published:** Sep 2, 2026
+
+---
+### ट्रेन प्लेटफॉर्म पर बुजुर्ग महिला का प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सुनसान ट्रेन स्टेशन पर बुजुर्ग महिला के पेंटिंग जैसे वीडियो के लिए एक सिनेमैटिक और उदास प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+शाम के समय एक सुनसान ट्रेन प्लेटफॉर्म पर बैठी लंबी सफेद हवा में उड़ते बालों वाली एक बुजुर्ग महिला का सिनेमैटिक पेंटिंग जैसा वीडियो। दोनों हाथों में एक छोटा चमकता हुआ विंटेज रेडियो पकड़े हुए। उनके पीछे जंग लगा हुआ परित्यक्त स्टीम लोकोमोटिव। धुंध में फैली गीली खाली पटरियां। पुराना कोट। सुनहरे बादलों वाला आसमान। उदास। अल्ट्रा डिटेल्ड। 8k। Grok Imagine।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094600075960070144/img/kkpwtqGRgCRMoeX7.jpg" width="600" alt="ट्रेन प्लेटफॉर्म पर बुजुर्ग महिला का प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10248)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094885505456578626) | **Published:** Sep 1, 2026
+
+---
+### बायोलुमिनेसेंट ग्रीनहाउस नाइट वॉक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> रात के समय चमकते पौधों से भरे एक घने ग्रीनहाउस में टहलते हुए एक व्यक्ति का सिनेमाई वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+रात के समय एक विशाल घने ग्रीनहाउस में धीरे-धीरे चलते हुए घुंघराले काले बालों वाले एक युवक का सिनेमाई वीडियो। हरी शर्ट। गीला पत्थर का रास्ता। दोनों तरफ चमकते हुए बायोलुमिनेसेंट पौधे। कांच की छत से टपकती बारिश। धातु के फ्रेम से दिखता पूर्णिमा का चांद। वह रुकता है और शांत आश्चर्य के साथ ऊपर की ओर देखता है। धुंधला। फोटो-रियलिस्टिक। अल्ट्रा डिटेल्ड। 8k। Grok Imagine।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094599866626535424/img/P6E6vtztB9o2dqMj.jpg" width="600" alt="बायोलुमिनेसेंट ग्रीनहाउस नाइट वॉक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10244)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094825107705176343) | **Published:** Sep 1, 2026
+
+---
+### पहाड़ के पीछे से लॉन्च होते Starship रॉकेट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो एक व्यक्ति को आगे बढ़ते हुए दिखाता है, जबकि पृष्ठभूमि में पहाड़ की श्रृंखला के पीछे Starship रॉकेट लॉन्च हो रहे हैं।
+
+#### 📝 Prompt
+
+```
+जैसे ही वह आगे बढ़ता है, कल्पना करें कि पहाड़ के पीछे दूर कहीं दो Starship रॉकेट लॉन्च हो रहे हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094789718005219328/img/Hh6EvP8KRKNOkVgi.jpg" width="600" alt="पहाड़ के पीछे से लॉन्च होते Starship रॉकेट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10246)**
+
+**Author:** [Ben Nash](https://x.com/bennash) | **Source:** [Link](https://x.com/bennash/status/2094789762045345824) | **Published:** Sep 1, 2026
+
+---
 ### विशाल रेगिस्तानी हेलमेट की खोज
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -358,6 +455,25 @@ Snoop Dogg का एक वीडियो बनाएं जिसमें �
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10186)**
 
 **Author:** [Helton RoÐriguez](https://x.com/HRDOGE17) | **Source:** [Link](https://x.com/HRDOGE17/status/2094565773565915249) | **Published:** Aug 31, 2026
+
+---
+### एलिगेंट लेस पोर्ट्रेट वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक खिड़की के पास खड़ी महिला का फोटो-रियलिस्टिक पोर्ट्रेट वीडियो, जिसने काले रंग का लेस टॉप पहना है और उस पर प्राकृतिक साइडलाइट पड़ रही है।
+
+#### 📝 Prompt
+
+```
+हल्के भूरे बालों वाली एक सुंदर युवती का फोटो-रियलिस्टिक सिनेमैटिक पोर्ट्रेट, जिसके बाल एक ढीले एलिगेंट अपडू में बंधे हैं। काले फ्लोरल लेस वाला हाई-नेक टॉप। एक लंबी खिड़की के पास खड़ी है। सॉफ्ट प्राकृतिक साइडलाइट। गहरे रंग का लकड़ी का इंटीरियर। शांत सीधी नज़र। शैलो डेप्थ ऑफ फील्ड। फिल्मी स्किन। एलिगेंट। अंतरंग। अल्ट्रा डिटेल्ड। 8k। Grok Imagine।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094252040176439296/img/TyJ3I7QoKlAQivL6.jpg" width="600" alt="एलिगेंट लेस पोर्ट्रेट वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10245)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094553320576704951) | **Published:** Aug 31, 2026
 
 ---
 ### हमिंगबर्ड गार्डन फ्लाइट
@@ -2024,120 +2140,6 @@ GoPro शैली का दृश्य जहाँ ओडिसियस (Od
 **Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
 
 ---
-### बादलों पर चलते हुए सुनहरी नगरी की ओर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक फैंटेसी वीडियो प्रॉम्प्ट जो स्वर्ग में स्थित एक दिव्य सुनहरी नगरी की यात्रा का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-उसे बादलों पर चलते हुए दिखाने वाला एक वीडियो बनाएं, वह स्वर्ग में स्थित सोने की एक नगरी के करीब पहुंच रहा है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="बादलों पर चलते हुए सुनहरी नगरी की ओर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9746)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **Published:** Aug 24, 2026
-
----
-### Tesla Semi काफिला नाइट डिज़ाइन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> हाईवे पर काफिले के लिए एक शानदार डिज़ाइन प्रॉम्प्ट, जिसमें हल्की गर्म रोशनी और परिष्कृत लक्ज़री प्रोडक्ट एस्थेटिक पर ध्यान केंद्रित किया गया है।
-
-#### 📝 Prompt
-
-```
-रात के हाईवे पर Tesla Semi काफिले के लिए लैंडिंग पेज हीरो सेक्शन डिज़ाइन, हल्का गर्म ऑफ-व्हाइट और पेल स्टोन कैनवास, सौम्य प्राकृतिक रोशनी के साथ ओवरसाइज़्ड क्लीन फोटोग्राफिक इमेजरी, एलिगेंट म्यूटेड शैंपेन और सॉफ्ट ग्रे टोन, अल्ट्रा-क्लीन कंपोज़िशन, सोफिस्टिकेटेड हाई-एंड टाइपोग्राफी, सॉफ्ट डिफ्यूज्ड लाइटिंग, पॉलिश्ड लक्ज़री प्रोडक्ट एस्थेटिक, शांत और परिष्कृत वातावरण
-```
-
-<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi काफिला नाइट डिज़ाइन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9754)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **Published:** Aug 24, 2026
-
----
-### LinkedIn हेडशॉट ट्रांसफॉर्मेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मौजूदा फोटो को पेशेवर स्टूडियो-ग्रेड LinkedIn हेडशॉट में बदलने के लिए एक ट्रांसफॉर्मेशन प्रॉम्प्ट, जो व्यक्ति की पहचान को पूरी तरह से सुरक्षित रखता है।
-
-#### 📝 Prompt
-
-```
-इस फोटो को उसी महिला के एक पेशेवर स्टूडियो-ग्रेड LinkedIn हेडशॉट में बदलें। उसकी पहचान को पूरी तरह से सुरक्षित रखें: सटीक चेहरा ज्यामिति, अनुपात, आंखों का आकार और रंग, नाक, मुंह, जॉलाइन, कान, गहरा स्किन टोन और वास्तविक त्वचा बनावट
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="LinkedIn हेडशॉट ट्रांसफॉर्मेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9799)**
-
-**Author:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **Source:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **Published:** Aug 24, 2026
-
----
-### सिनेमैटिक स्लो कैमरा पैन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> धीमे कैमरा पैन और शांत वातावरण के लिए सॉफ्ट एटमॉस्फेरिक मूवमेंट के साथ प्रोफेशनल सिनेमैटिक लुक प्राप्त करने के लिए एक तकनीकी प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-वेरी स्लो सिनेमैटिक कैमरा पैन, सॉफ्ट एटमॉस्फेरिक मूवमेंट, शांत और सुकून भरा मूड, एलिगेंट और टेस्टफुल मोशन, कोई आक्रामक मूवमेंट नहीं, स्मोक अ सिगरेट वेरी स्लो सिनेमैटिक कैमरा पैन, सॉफ्ट एटमॉस्फेरिक मूवमेंट
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="सिनेमैटिक स्लो कैमरा पैन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9750)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **Published:** Aug 24, 2026
-
----
-### डांसिंग केक कैरेक्टर ट्रांसफॉर्मेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक इमेज-टू-वीडियो प्रॉम्प्ट जो केक को टॉप हैट और दस्ताने पहने हुए एक डांसिंग कैरेक्टर में बदल देता है।
-
-#### 📝 Prompt
-
-```
-इस केक को एक ऐसे कैरेक्टर में बदलें जो टॉप हैट, सफेद दस्ताने, लाल जूते पहने हुए है और जिसके चेहरे पर एक बड़ी मुस्कान है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="डांसिंग केक कैरेक्टर ट्रांसफॉर्मेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9751)**
-
-**Author:** [The Golden Duck](https://x.com/Chrihsteenuh) | **Source:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **Published:** Aug 23, 2026
-
----
-### आध्यात्मिक प्रकाश रूपांतरण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई वीडियो प्रॉम्प्ट जो एक महिला को प्रकाश के माध्यम से अपने वास्तविक स्वरूप में ऊपर उठते हुए दर्शाता है।
-
-#### 📝 Prompt
-
-```
-काले घुंघराले बालों वाली एक महिला, साइज 8, प्रकाश के नीचे ऊपर उठ रही है और ईश्वर की परम सुंदरता में अपने वास्तविक स्वरूप में परिवर्तित हो रही है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="आध्यात्मिक प्रकाश रूपांतरण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9749)**
-
-**Author:** [Star](https://x.com/Wednesdayo17) | **Source:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **Published:** Aug 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2199,6 +2201,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-02T04:15:43.842Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-02T09:01:38.816Z</sub>
 
 </div>

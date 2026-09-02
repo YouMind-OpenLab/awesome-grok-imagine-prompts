@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2678** |
+| 📝 プロンプト総数 | **2684** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-02** |
 
@@ -189,6 +189,103 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 静寂な月夜の「おやすみ」シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> なだらかな丘と湖面に映る月が描かれた、穏やかで静かなプロンプトです。
+
+#### 📝 プロンプト
+
+```
+穏やかな夜をお過ごしください。
+
+澄み渡る深い青色の夜空に、大きく輝く満月が浮かぶ静寂な「おやすみ」のシーンです。柔らかな銀色の月光が、なだらかな丘と月を映し出す穏やかな湖面を優しく照らしています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095033444275302401/img/UFNKh_l3fXPCCLD6.jpg" width="600" alt="静寂な月夜の「おやすみ」シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10243)**
+
+**作者:** [Mattie](https://x.com/Mattie129218) | **ソース:** [Link](https://x.com/Mattie129218/status/2095033462776369428) | **公開日:** Sep 2, 2026
+
+---
+### 映画のような侍の決闘のストーリーボードプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 雨の中での侍の決闘を想定した、タイムスタンプ付きの詳細なマルチショット動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+[0-4] 彼女の後頭部へのスローズーム。ボロボロの羽織を着た剣士が、湾曲した刀を右腰の低い位置で構えている。フレーム中央、嵐で暗くなった街を背にし、足元の瓦屋根から雨が激しく流れ落ちる中、空に稲妻が走る [4-6] スナップカット、刀の切っ先への極端なクローズアップ。彼女が鋭い弧を描いて刀から血を振り払うと、水が鋼から飛び散り霧状になる
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="映画のような侍の決闘のストーリーボードプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10247)**
+
+**作者:** [🤍Hafuma🩵](https://x.com/hafuma) | **ソース:** [Link](https://x.com/hafuma/status/2094956857605468426) | **公開日:** Sep 2, 2026
+
+---
+### 駅のホームにいる老婦人のプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 廃駅にいる老婦人を描いた、映画のようで哀愁漂う絵画調動画のためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+夕暮れ時の誰もいない駅のホームに座る、風に白髪をなびかせた老婦人の映画のような絵画調動画。両手には小さく光るヴィンテージのラジオ。背後には錆びついた廃蒸気機関車。霧の中に伸びる濡れた空の線路。使い古されたコート。曇り空の黄金色。哀愁。超高精細。8k。Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094600075960070144/img/kkpwtqGRgCRMoeX7.jpg" width="600" alt="駅のホームにいる老婦人のプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10248)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2094885505456578626) | **公開日:** Sep 1, 2026
+
+---
+### 生物発光する温室のナイトウォーク
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 夜の生い茂った温室の中を歩く男性のシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+夜の広大で生い茂った温室の中を、ゆっくりと歩く黒い巻き毛の若い男性のシネマティックな動画。緑色のシャツ。濡れた石畳の道。両側に光り輝く生物発光植物。ガラス屋根から滴る雨。金属フレーム越しに見える満月。男性は立ち止まり、静かな驚きとともに上を見上げる。霧がかかっている。フォトリアル。超高精細。8k。Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094599866626535424/img/P6E6vtztB9o2dqMj.jpg" width="600" alt="生物発光する温室のナイトウォーク">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10244)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2094825107705176343) | **公開日:** Sep 1, 2026
+
+---
+### 山々の背後から打ち上がる Starship ロケット
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 山脈の背後で Starship ロケットが打ち上がる中、被写体が前方に歩いていく様子を描写したシネマティックな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+彼が前方に歩いていく様子を想像してください。その背後、山々の向こう側で 2 機の Starship ロケットが打ち上がっています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094789718005219328/img/Hh6EvP8KRKNOkVgi.jpg" width="600" alt="山々の背後から打ち上がる Starship ロケット">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10246)**
+
+**作者:** [Ben Nash](https://x.com/bennash) | **ソース:** [Link](https://x.com/bennash/status/2094789762045345824) | **公開日:** Sep 1, 2026
+
+---
 ### 巨大な砂漠のヘルメットの探索
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -358,6 +455,25 @@ Snoop Dogg が口の端にタバコをくわえたカートゥーン風のドラ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10186)**
 
 **作者:** [Helton RoÐriguez](https://x.com/HRDOGE17) | **ソース:** [Link](https://x.com/HRDOGE17/status/2094565773565915249) | **公開日:** Aug 31, 2026
+
+---
+### エレガントなレースのポートレート動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 黒いレースのトップスを着て、自然なサイドライトが差し込む窓辺に立つ女性のフォトリアルなポートレート動画。
+
+#### 📝 プロンプト
+
+```
+美しい若い女性のフォトリアルなシネマティック・ポートレート。ライトブラウンの髪をルーズでエレガントなアップスタイルに。黒い花柄レースのハイネックトップス。背の高い窓の近くに立っている。柔らかな自然のサイドライト。ダークウッドのインテリア。穏やかで真っ直ぐな視線。浅い被写界深度。フィルムのような肌の質感。エレガント。親密な雰囲気。超高精細。8k。Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094252040176439296/img/TyJ3I7QoKlAQivL6.jpg" width="600" alt="エレガントなレースのポートレート動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10245)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2094553320576704951) | **公開日:** Aug 31, 2026
 
 ---
 ### ハチドリの庭での飛行
@@ -2025,120 +2141,6 @@ GoPro スタイルのシーン。オデュッセウスの愛犬が 20 年ぶり�
 **作者:** [Gilles Guerraz](https://x.com/gillesguerraz) | **ソース:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **公開日:** Aug 24, 2026
 
 ---
-### 黄金の都へ向かう雲の上の旅路
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 天上の黄金の都を目指し、雲の上を歩く旅を描いたファンタジー動画用プロンプト。
-
-#### 📝 プロンプト
-
-```
-彼が雲の上を歩き、天上の黄金の都へと近づいていく様子を動画にしてください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="黄金の都へ向かう雲の上の旅路">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9746)**
-
-**作者:** [GayBar](https://x.com/GayBar_Ai) | **ソース:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **公開日:** Aug 24, 2026
-
----
-### Tesla Semi コンボイの夜間デザイン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 高速道路を走行するコンボイのためのエレガントなデザインプロンプト。柔らかな暖色系の光と、洗練された高級感のある製品美学に焦点を当てています。
-
-#### 📝 プロンプト
-
-```
-夜の高速道路を走る Tesla Semi コンボイのランディングページ・ヒーローセクションのデザイン。柔らかなオフホワイトとペールストーンのキャンバス、自然な光を活かした清潔感のある大型写真、エレガントなシャンパンカラーとソフトグレーの落ち着いた色調。極めてクリーンな構成、洗練されたハイエンドなタイポグラフィ、柔らかな拡散光、磨き上げられた高級製品の美学、穏やかで上品な雰囲気。
-```
-
-<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi コンボイの夜間デザイン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9754)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **公開日:** Aug 24, 2026
-
----
-### LinkedIn 用プロフィール写真の変換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 既存の写真を、被写体の個性を完全に維持したまま、プロ仕様のスタジオ品質の LinkedIn 用プロフィール写真に変換するプロンプトです。
-
-#### 📝 プロンプト
-
-```
-この写真を、全く同一人物によるプロ仕様のスタジオ品質の LinkedIn 用プロフィール写真に変換してください。顔の形状、比率、目の形と色、鼻、口、顎のライン、耳、ダークスキンの色味、そしてリアルな肌の質感など、被写体の個性を完璧に維持してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="LinkedIn 用プロフィール写真の変換">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9799)**
-
-**作者:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **ソース:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **公開日:** Aug 24, 2026
-
----
-### シネマティックなスローカメラパン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ゆっくりとしたカメラパンと柔らかな雰囲気の動きで、穏やかな空気感を演出するプロフェッショナルなシネマティックルックを実現するためのテクニカルプロンプトです。
-
-#### 📝 プロンプト
-
-```
-very slow cinematic camera pan, soft atmospheric movement, serene and peaceful mood, elegant and tasteful motion, no aggressive movement, smoke a cigarette very slow cinematic camera pan, soft atmospheric movement
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="シネマティックなスローカメラパン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9750)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **公開日:** Aug 24, 2026
-
----
-### ダンスするケーキのキャラクター変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ケーキをトップハットと手袋を身につけたダンスするキャラクターに変身させるための Image-to-Video プロンプトです。
-
-#### 📝 プロンプト
-
-```
-このケーキを、トップハット、白い手袋、赤い靴を身につけ、満面の笑みでダンスするキャラクターに変身させてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="ダンスするケーキのキャラクター変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9751)**
-
-**作者:** [The Golden Duck](https://x.com/Chrihsteenuh) | **ソース:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **公開日:** Aug 23, 2026
-
----
-### スピリチュアルな光の変容
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 光の中を上昇し、真の自分へと変容していく女性を描いたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-黒い巻き毛の 8 号サイズの女性が、光の下で上昇し、神々しいまでの美しさで真の自分へと変容していく姿
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="スピリチュアルな光の変容">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9749)**
-
-**作者:** [Star](https://x.com/Wednesdayo17) | **ソース:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **公開日:** Aug 23, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2200,6 +2202,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-02T04:15:39.598Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-02T09:01:36.333Z</sub>
 
 </div>

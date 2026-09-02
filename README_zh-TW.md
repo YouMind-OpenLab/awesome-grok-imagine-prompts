@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2678** |
+| 📝 提示詞總數 | **2684** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-02** |
 
@@ -189,6 +189,103 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 寧靜月夜晚安場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個平靜而寧靜的提示詞，描繪了滿月高掛在連綿起伏的丘陵與倒映湖泊之上的景象。
+
+#### 📝 提示詞
+
+```
+祝你有個平靜的夜晚。
+
+一個寧靜祥和的晚安場景，一輪明亮的大滿月在清澈深邃的夜空中閃耀，柔和的銀色月光灑落在平靜的風景上，連綿起伏的丘陵與倒映著月色的平靜湖泊交相輝映。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095033444275302401/img/UFNKh_l3fXPCCLD6.jpg" width="600" alt="寧靜月夜晚安場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10243)**
+
+**作者:** [Mattie](https://x.com/Mattie129218) | **來源:** [Link](https://x.com/Mattie129218/status/2095033462776369428) | **發布時間:** Sep 2, 2026
+
+---
+### 電影感武士對決分鏡腳本提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份針對雨中武士對決、包含特定時間戳記的高度細節多鏡頭影片提示詞。
+
+#### 📝 提示詞
+
+```
+[0-4] 緩慢變焦至她的後腦勺，身穿破舊羽織的決鬥者將彎刀低垂於身體右側，位於畫面中心，背對著暴雨籠罩的城市，雨水從她靴子旁的瓦片上傾瀉而下，閃電劃破天際 [4-6] 快速剪輯，極致特寫刀尖，她將刀上的血跡以一道銳利的弧線向上甩出，水珠在鋼刃上碎裂成霧氣
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="電影感武士對決分鏡腳本提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10247)**
+
+**作者:** [🤍Hafuma🩵](https://x.com/hafuma) | **來源:** [Link](https://x.com/hafuma/status/2094956857605468426) | **發布時間:** Sep 2, 2026
+
+---
+### 火車站月台上的老婦人提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一組為廢棄火車站的老婦人繪畫風格影片所設計的電影感且憂鬱的提示詞。
+
+#### 📝 提示詞
+
+```
+電影感繪畫風格影片，一位留著長白髮、頭髮隨風飄動的老婦人，坐在黃昏時分荒廢的火車站月台上。雙手捧著一台發出微光的小型復古收音機。身後是生鏽廢棄的蒸汽火車頭。潮濕空曠的鐵軌延伸至迷霧中。穿著破舊的大衣。金色的多雲天空。憂鬱氛圍。超細節。8k。Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094600075960070144/img/kkpwtqGRgCRMoeX7.jpg" width="600" alt="火車站月台上的老婦人提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10248)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2094885505456578626) | **發布時間:** Sep 1, 2026
+
+---
+### 生物發光溫室夜間漫步
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影質感的影片提示詞，描述一名男子在夜晚穿過長滿發光植物的茂密溫室。
+
+#### 📝 提示詞
+
+```
+電影質感的影片，一名留著深色捲髮的年輕男子在夜晚緩慢穿過一座廣闊且雜草叢生的溫室。身穿綠色襯衫。潮濕的石板路。兩側長滿了發光的生物發光植物。雨水從玻璃屋頂滴落。金屬框架外可見滿月。他停下腳步，帶著寧靜的驚嘆抬頭仰望。霧氣繚繞。照片級真實感。超高細節。8k。Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094599866626535424/img/P6E6vtztB9o2dqMj.jpg" width="600" alt="生物發光溫室夜間漫步">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10244)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2094825107705176343) | **發布時間:** Sep 1, 2026
+
+---
+### 星艦火箭於山後發射
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個電影級的影片提示詞，描述主角向前行走，背景遠處的山脈後方有星艦火箭升空。
+
+#### 📝 提示詞
+
+```
+當他向前行走時，想像兩枚星艦火箭在遠處的山脈後方發射升空
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094789718005219328/img/Hh6EvP8KRKNOkVgi.jpg" width="600" alt="星艦火箭於山後發射">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10246)**
+
+**作者:** [Ben Nash](https://x.com/bennash) | **來源:** [Link](https://x.com/bennash/status/2094789762045345824) | **發布時間:** Sep 1, 2026
+
+---
 ### 巨型沙漠頭盔探索
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -358,6 +455,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10186)**
 
 **作者:** [Helton RoÐriguez](https://x.com/HRDOGE17) | **來源:** [Link](https://x.com/HRDOGE17/status/2094565773565915249) | **發布時間:** Aug 31, 2026
+
+---
+### 優雅蕾絲肖像影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段照片級真實感的肖像影片，一位穿著黑色蕾絲上衣的女性站在窗邊，伴隨著自然的側光。
+
+#### 📝 提示詞
+
+```
+照片級真實感的電影級肖像，主角是一位留著淺棕色頭髮、梳著鬆散優雅盤髮的年輕美女。身穿黑色花卉蕾絲高領上衣。站在高大的窗戶旁。柔和的自然側光。深色木質室內裝潢。冷靜的直視鏡頭。淺景深。電影質感肌膚。優雅。親密感。超細節。8k。Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094252040176439296/img/TyJ3I7QoKlAQivL6.jpg" width="600" alt="優雅蕾絲肖像影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10245)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2094553320576704951) | **發布時間:** Aug 31, 2026
 
 ---
 ### 蜂鳥花園飛行
@@ -2025,120 +2141,6 @@ Rainbow Universe MsX 與 MrX 原型的電影級動態展示：擬人化的友善
 **作者:** [Gilles Guerraz](https://x.com/gillesguerraz) | **來源:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **發布時間:** Aug 24, 2026
 
 ---
-### 漫步雲端，邁向黃金之城
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個奇幻影片提示詞，描述了一段穿越雲霄、前往天界黃金之城的旅程。
-
-#### 📝 提示詞
-
-```
-製作一段影片，畫面中他正漫步在雲端，並逐漸靠近一座位於天界的黃金之城
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="漫步雲端，邁向黃金之城">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9746)**
-
-**作者:** [GayBar](https://x.com/GayBar_Ai) | **來源:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **發布時間:** Aug 24, 2026
-
----
-### Tesla Semi 車隊夜間設計
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個針對高速公路車隊的優雅設計提示詞，著重於柔和暖光與精緻的奢華產品美學。
-
-#### 📝 提示詞
-
-```
-Tesla Semi 車隊在夜間高速公路行駛的登陸頁面首屏設計，採用柔和暖米色與淺石色畫布，搭配超大尺寸的清晰攝影圖像與柔和自然光，呈現優雅的香檳金與柔灰色調，構圖極簡，採用精緻的高端排版，光線柔和擴散，展現洗鍊的奢華產品美學，營造平靜而優雅的氛圍
-```
-
-<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi 車隊夜間設計">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9754)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **發布時間:** Aug 24, 2026
-
----
-### LinkedIn 專業形象照轉換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個轉換提示詞，能將現有照片轉化為專業級的 LinkedIn 形象照，同時完美保留人物的個人特徵。
-
-#### 📝 提示詞
-
-```
-將此照片轉換為同一位女性的專業級 LinkedIn 形象照。請完美保留她的個人特徵：精確的面部幾何結構、比例、眼睛形狀與顏色、鼻子、嘴巴、下顎線、耳朵、深色膚色以及真實的皮膚紋理。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="LinkedIn 專業形象照轉換">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9799)**
-
-**作者:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **來源:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **發布時間:** Aug 24, 2026
-
----
-### 電影級慢速運鏡
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一項技術提示詞，旨在透過慢速運鏡與柔和的氛圍感移動，營造出專業的電影質感與寧靜氛圍。
-
-#### 📝 提示詞
-
-```
-極慢的電影級運鏡，柔和的氛圍感移動，寧靜平和的意境，優雅且具品味的動態，無劇烈晃動，抽菸的極慢電影級運鏡，柔和的氛圍感移動
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="電影級慢速運鏡">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9750)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **發布時間:** Aug 24, 2026
-
----
-### 跳舞蛋糕角色變身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個將蛋糕轉換為戴著高帽、穿著手套並跳舞的角色的「圖生影片」提示詞。
-
-#### 📝 提示詞
-
-```
-將這個蛋糕變成一個戴著高帽、穿著白手套、紅色鞋子並露出燦爛笑容跳舞的角色。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="跳舞蛋糕角色變身">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9751)**
-
-**作者:** [The Golden Duck](https://x.com/Chrihsteenuh) | **來源:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **發布時間:** Aug 23, 2026
-
----
-### 靈光蛻變
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影質感的影片提示詞，描述一位女性在光芒中升起並蛻變為真實自我的過程。
-
-#### 📝 提示詞
-
-```
-一位留著黑色捲髮、穿著 8 號尺碼的女性，在光芒中升起，蛻變為絕對神聖之美的真實自我
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="靈光蛻變">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9749)**
-
-**作者:** [Star](https://x.com/Wednesdayo17) | **來源:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **發布時間:** Aug 23, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2200,6 +2202,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-02T04:15:38.366Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-02T09:01:35.697Z</sub>
 
 </div>

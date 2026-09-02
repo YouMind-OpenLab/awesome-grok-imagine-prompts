@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2678** |
+| 📝 총 프롬프트 수 | **2684** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-09-02** |
 
@@ -189,6 +189,103 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 고요한 달빛 아래의 굿나잇 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 완만한 언덕과 달빛이 비치는 호수 위로 밝은 보름달이 떠 있는 평화롭고 고요한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+평안한 밤 되세요.
+
+맑고 깊은 푸른 밤하늘에 크고 밝은 보름달이 찬란하게 빛나고, 완만한 언덕과 달을 비추는 고요한 호수가 어우러진 풍경 위로 부드러운 은빛 달빛이 내리는 평화롭고 고요한 굿나잇 장면입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095033444275302401/img/UFNKh_l3fXPCCLD6.jpg" width="600" alt="고요한 달빛 아래의 굿나잇 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10243)**
+
+**작성자:** [Mattie](https://x.com/Mattie129218) | **출처:** [Link](https://x.com/Mattie129218/status/2095033462776369428) | **게시일:** Sep 2, 2026
+
+---
+### 영화 같은 사무라이 결투 스토리보드 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 빗속에서 펼쳐지는 사무라이 결투를 위한 타임스탬프가 포함된 매우 상세한 멀티 샷 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+[0-4] 그녀의 뒷모습으로 천천히 줌인, 찢어진 하오리를 입은 결투자가 폭풍우가 몰아치는 어두운 도시를 등지고 중앙 프레임에서 곡선을 그리는 칼을 오른쪽 아래로 낮게 들고 있다, 부츠 위로 기와에서 빗물이 쏟아지고 하늘에는 번개가 친다 [4-6] 화면 전환, 칼끝을 극도로 클로즈업, 그녀가 날카로운 호를 그리며 칼에 묻은 피를 위로 털어내자 물방울이 강철 위에서 흩어진다
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="영화 같은 사무라이 결투 스토리보드 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10247)**
+
+**작성자:** [🤍Hafuma🩵](https://x.com/hafuma) | **출처:** [Link](https://x.com/hafuma/status/2094956857605468426) | **게시일:** Sep 2, 2026
+
+---
+### 기차역 승강장의 노인 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 버려진 기차역에 있는 노인을 주제로 한, 회화적이고 우울한 분위기의 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+황혼 무렵, 버려진 기차역 승강장에 앉아 있는 긴 백발을 휘날리는 노인의 영화 같은 회화적 영상. 양손으로 작고 빛나는 빈티지 라디오를 들고 있다. 뒤편에는 녹슨 폐증기기관차가 있고, 안개 속으로 뻗어 나가는 젖은 빈 선로가 보인다. 낡은 코트. 구름 낀 황금빛 하늘. 우울한 분위기. 초정밀. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094600075960070144/img/kkpwtqGRgCRMoeX7.jpg" width="600" alt="기차역 승강장의 노인 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10248)**
+
+**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2094885505456578626) | **게시일:** Sep 1, 2026
+
+---
+### 생물 발광 온실 야간 산책
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 밤에 빛나는 식물들로 가득 찬 무성한 온실을 걷는 남자의 모습을 담은 영화 같은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+밤에 무성하게 자란 거대한 온실을 천천히 걷는 곱슬머리 청년의 영화 같은 영상. 초록색 셔츠. 젖은 돌길. 양옆으로 빛나는 생물 발광 식물들. 유리 지붕에서 떨어지는 빗방울. 금속 프레임 사이로 보이는 보름달. 그는 멈춰 서서 조용한 경이로움으로 위를 올려다본다. 안개가 자욱함. 사실적인 사진 느낌. 초고해상도. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094599866626535424/img/P6E6vtztB9o2dqMj.jpg" width="600" alt="생물 발광 온실 야간 산책">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10244)**
+
+**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2094825107705176343) | **게시일:** Sep 1, 2026
+
+---
+### 산 뒤로 발사되는 Starship 로켓
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 산맥 뒤 먼 거리에서 Starship 로켓이 발사되는 동안 주인공이 앞으로 걸어가는 모습을 묘사한 영화 같은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+그가 앞으로 걸어갈 때 산 뒤 먼 곳에서 Starship 로켓 두 대가 발사되는 모습을 상상해 보세요
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094789718005219328/img/Hh6EvP8KRKNOkVgi.jpg" width="600" alt="산 뒤로 발사되는 Starship 로켓">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10246)**
+
+**작성자:** [Ben Nash](https://x.com/bennash) | **출처:** [Link](https://x.com/bennash/status/2094789762045345824) | **게시일:** Sep 1, 2026
+
+---
 ### 거대 사막 헬멧 탐험
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -358,6 +455,25 @@ Snoop Dogg 이 입가에 담배를 물고 있는 만화 속 드래곤으로 변�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10186)**
 
 **작성자:** [Helton RoÐriguez](https://x.com/HRDOGE17) | **출처:** [Link](https://x.com/HRDOGE17/status/2094565773565915249) | **게시일:** Aug 31, 2026
+
+---
+### 우아한 레이스 인물 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 창가에 서서 자연스러운 측면 조명을 받는 검은색 레이스 상의를 입은 여성의 사실적인 인물 영상입니다.
+
+#### 📝 프롬프트
+
+```
+밝은 갈색 머리를 우아하게 올린 아름다운 젊은 여성의 사실적인 영화적 인물 영상. 검은색 꽃무늬 레이스 하이넥 상의. 높은 창가에 서 있음. 부드러운 자연 측면 조명. 어두운 목재 인테리어. 차분하고 정면을 응시하는 시선. 얕은 피사계 심도. 영화 같은 피부 표현. 우아함. 친밀함. 초고해상도. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094252040176439296/img/TyJ3I7QoKlAQivL6.jpg" width="600" alt="우아한 레이스 인물 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10245)**
+
+**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2094553320576704951) | **게시일:** Aug 31, 2026
 
 ---
 ### 벌새 정원 비행
@@ -2025,120 +2141,6 @@ Rainbow Universe MsX 및 MrX 프로토타입의 시네마틱 라이브 공개: �
 **작성자:** [Gilles Guerraz](https://x.com/gillesguerraz) | **출처:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **게시일:** Aug 24, 2026
 
 ---
-### 황금의 도시를 향해 구름 위를 걷다
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 하늘을 지나 천상의 황금 도시로 향하는 여정을 담은 판타지 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그가 구름 위를 걸어가며 하늘에 있는 황금의 도시로 다가가는 영상을 만들어 줘
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091767013354205184/img/1g_jse2dIZjjVwd1.jpg" width="600" alt="황금의 도시를 향해 구름 위를 걷다">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9746)**
-
-**작성자:** [GayBar](https://x.com/GayBar_Ai) | **출처:** [Link](https://x.com/GayBar_Ai/status/2091767050691878932) | **게시일:** Aug 24, 2026
-
----
-### Tesla Semi 야간 고속도로 주행 디자인
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 부드러운 따뜻한 조명과 세련된 럭셔리 제품 미학에 초점을 맞춘 고속도로 주행 디자인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-야간 고속도로를 달리는 Tesla Semi 차량 행렬을 위한 랜딩 페이지 히어로 섹션 디자인, 부드러운 따뜻한 오프 화이트와 페일 스톤 캔버스, 자연스러운 부드러운 빛을 활용한 대형의 깔끔한 사진 이미지, 우아한 뮤트 샴페인 및 소프트 그레이 톤, 초깔끔한 구성, 세련된 하이엔드 타이포그래피, 부드러운 확산 조명, 고급스러운 제품 미학, 차분하고 정제된 분위기
-```
-
-<img src="https://cms-assets.youmind.com/media/1787646407487_is4cy1_HQaq-KLa0AAIdtr.jpg" width="600" alt="Tesla Semi 야간 고속도로 주행 디자인">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9754)**
-
-**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2091744810600153157) | **게시일:** Aug 24, 2026
-
----
-### LinkedIn 프로필 사진 변환
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 기존 사진을 피사체의 정체성을 완벽하게 유지하면서 전문적인 스튜디오급 LinkedIn 프로필 사진으로 변환하는 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이 사진을 동일한 여성의 전문적인 스튜디오급 LinkedIn 프로필 사진으로 변환하세요. 그녀의 정체성을 완벽하게 유지해야 합니다: 정확한 얼굴 형태, 비율, 눈 모양과 색상, 코, 입, 턱선, 귀, 어두운 피부 톤 및 실제 피부 질감을 그대로 보존하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091736677568151552/img/RiOtSy-7YK4tmeOy.jpg" width="600" alt="LinkedIn 프로필 사진 변환">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9799)**
-
-**작성자:** [Elizangela Rodrigues](https://x.com/Elizangelakt1i) | **출처:** [Link](https://x.com/Elizangelakt1i/status/2091736707750408427) | **게시일:** Aug 24, 2026
-
----
-### 영화 같은 느린 카메라 팬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 느린 카메라 팬과 부드러운 분위기 연출을 통해 평온한 분위기의 전문적인 영화적 느낌을 구현하기 위한 기술적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-very slow cinematic camera pan, soft atmospheric movement, serene and peaceful mood, elegant and tasteful motion, no aggressive movement, smoke a cigarette very slow cinematic camera pan, soft atmospheric movement
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091706157979115520/img/VlzIS9ewmUjIaP8I.jpg" width="600" alt="영화 같은 느린 카메라 팬">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9750)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2091706285750177866) | **게시일:** Aug 24, 2026
-
----
-### 춤추는 케이크 캐릭터 변신
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 케이크를 탑햇과 장갑을 착용한 춤추는 캐릭터로 변환하는 이미지 투 비디오(image-to-video) 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이 케이크를 탑햇, 흰색 장갑, 빨간색 신발을 착용하고 환하게 웃으며 춤추는 캐릭터로 바꿔주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091629766164271104/img/OBVf9mNmuQREoJ43.jpg" width="600" alt="춤추는 케이크 캐릭터 변신">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9751)**
-
-**작성자:** [The Golden Duck](https://x.com/Chrihsteenuh) | **출처:** [Link](https://x.com/Chrihsteenuh/status/2091629779653140866) | **게시일:** Aug 23, 2026
-
----
-### 영적인 빛의 변모
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빛을 뚫고 올라와 진정한 자아를 찾아가는 여성의 모습을 담은 영화 같은 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-검은 곱슬머리의 8 사이즈 여성이 빛 아래에서 솟아올라 절대적인 신의 아름다움을 지닌 진정한 자아로 거듭나는 모습
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091579205859581953/img/UnTFtIm3cJayIXm-.jpg" width="600" alt="영적인 빛의 변모">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9749)**
-
-**작성자:** [Star](https://x.com/Wednesdayo17) | **출처:** [Link](https://x.com/Wednesdayo17/status/2091579231113470116) | **게시일:** Aug 23, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2200,6 +2202,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-02T04:15:40.906Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-02T09:01:36.964Z</sub>
 
 </div>
