@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2684** |
+| 📝 Total Prompts | **2690** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-03** |
 
@@ -189,6 +189,121 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Video hoạt họa mèo mướp kêu meo meo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt video hoạt họa chi tiết về chú mèo mướp giữa các mảnh vỏ trứng, với các chuyển động kêu meo meo chân thực, cái đầu lắc lư và những hạt bụi bay lơ lửng trong ánh nắng.
+
+#### 📝 Prompt
+
+```
+Tạo hoạt họa chú mèo mướp đang kêu meo meo giữa các mảnh vỏ trứng: miệng mèo cử động như đang kêu meo meo hoặc khè, đầu lắc lư nhẹ, đuôi ngoe nguẩy, các hạt bụi bay lơ lửng trong ánh nắng gay gắt, chuyển động sống động chân thực.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="Video hoạt họa mèo mướp kêu meo meo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10285)**
+
+**Author:** [Jordan Ardani](https://x.com/JordanArdady) | **Source:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **Published:** Sep 3, 2026
+
+---
+### Sự bình yên trong vườn hồng ngập nắng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video đầy chất thơ, ghi lại khoảnh khắc tĩnh lặng của một người phụ nữ đang hít hà hương thơm của đóa hồng giữa những cánh hoa rơi và ánh sáng ấm áp.
+
+#### 📝 Prompt
+
+```
+Một khoảnh khắc tĩnh lặng trong vườn hồng ngập nắng, cô ấy dừng lại, hít hà hương hoa và mỉm cười. Ánh sáng dịu nhẹ, những cánh hoa rơi và vẻ đẹp tựa như tranh vẽ. Sự bình yên gói gọn trong một nhịp thở.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="Sự bình yên trong vườn hồng ngập nắng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10286)**
+
+**Author:** [Ashutosh](https://x.com/Bhart0678) | **Source:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **Published:** Sep 3, 2026
+
+---
+### Ánh sáng bí ẩn trong rừng mưa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video điện ảnh cực kỳ chi tiết cho phân cảnh dài 15 giây về một người phụ nữ trong rừng mưa đang phát hiện ra một luồng sáng ấm áp lập lòe.
+
+#### 📝 Prompt
+
+```
+Tạo một video điện ảnh chân thực (photorealistic) dài 15 giây từ hình ảnh chính xác này. Giữ nguyên khuôn mặt, kiểu tóc, mái tóc ướt, áo mưa đen, khăn quàng cổ xám, tỷ lệ cơ thể, môi trường rừng, lượng mưa, ánh sáng và bố cục của người phụ nữ. 0–4 giây: Cô ấy đứng hoàn toàn bất động dưới cơn mưa lớn, nhắm mắt và hơi nghiêng mặt lên trên, tận hưởng cơn mưa một cách bình yên. Nước chảy tự nhiên qua mái tóc ướt và xuống chiếc áo mưa bóng loáng của cô. Khăn quàng cổ khẽ lay động trong làn gió lạnh. 4–7 giây: Một luồng sáng ấm áp mờ nhạt đột nhiên xuất hiện sâu giữa những tán cây phía sau cô. Ban đầu, ánh sáng gần như không thể nhận ra, giống như một chiếc đèn lồng ở xa đang tỏa sáng xuyên qua màn mưa và sương mù. Cô từ từ mở mắt. 7–10 giây: Cô nhận thấy luồng sáng lạ thường. Biểu cảm của cô thay đổi từ bình yên sang tò mò. Cô chậm rãi quay đầu về phía đó, nhìn chằm chằm vào khoảng không giữa những cái cây trong khi mưa vẫn tiếp tục rơi xung quanh. 10–13 giây: Luồng sáng ấm áp trở nên sáng hơn một chút và lập lòe nhẹ nhàng xuyên qua màn sương. Cô thận trọng bước một bước về phía đó, mắt dán chặt vào ánh sáng bí ẩn. Máy quay di chuyển nhẹ nhàng theo cô. 13–15 giây: Ngay khi cô bước thêm một bước nữa, ánh sáng đột ngột biến mất. Cô dừng lại và nhìn chằm chằm vào bóng tối giữa những cái cây, vẻ mặt lộ rõ sự bối rối. Một khoảng lặng bao trùm, chỉ còn tiếng mưa rơi. Chuyển sang màn hình đen. Độ chân thực điện ảnh (photorealistic), rừng mưa đầy không khí, mưa và sương mù chân thực, tóc và quần áo ướt, chuyển động gió tự nhiên, diễn xuất khuôn mặt tinh tế, chuyển động đi bộ đáng tin cậy, phối cảnh rừng sâu, môi trường xanh xám lạnh tương phản với ánh sáng vàng ấm áp ở xa, độ sâu trường ảnh nông, chuyển động máy quay cầm tay tinh tế. Luồng sáng phải duy trì ở khoảng cách xa và bị che khuất một phần bởi cây cối; tuyệt đối không để lộ nguồn sáng. Không có sinh vật siêu nhiên, không có người khác, không có quái vật kinh dị, không có cảnh hù dọa (jump scare), không có phản ứng thái quá, không có chuyển cảnh, không thay đổi khuôn mặt, không thay đổi trang phục, không có bàn tay bị biến dạng, không có hiện tượng biến hình (morphing).
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="Ánh sáng bí ẩn trong rừng mưa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10283)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **Published:** Sep 3, 2026
+
+---
+### Gợi ý video hoạt hình 3D điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gợi ý video cho một đoạn phim hoạt hình 3D phong cách điện ảnh dài 10 giây với tỷ lệ khung hình dọc 9:16.
+
+#### 📝 Prompt
+
+```
+Tập 3
+Video dọc tỷ lệ 9:16, thời lượng 10 giây. Hoạt hình 3D phong cách điện ảnh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095337640304459776/img/q90cC4ZcPhb16cmv.jpg" width="600" alt="Gợi ý video hoạt hình 3D điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10282)**
+
+**Author:** [จูบใครคิดว่าไม่สำคัญ](https://x.com/unclekidtung) | **Source:** [Link](https://x.com/unclekidtung/status/2095337708159906160) | **Published:** Sep 3, 2026
+
+---
+### Cảnh xác máy bay giữa biển bão
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một khung cảnh điện ảnh đầy tâm trạng về một người phụ nữ trên xác máy bay chìm giữa đại dương đầy bão tố.
+
+#### 📝 Prompt
+
+```
+Cảnh quay điện ảnh góc rộng về một cô gái trẻ với mái tóc dài ướt sũng đang ngồi chân trần trên cánh của một xác máy bay màu trắng hoen gỉ, chìm một nửa giữa vùng biển bão tố. Đèn đuôi màu đỏ vẫn còn sáng. Những đám mây xám nặng nề. Những con sóng vỗ vào các vách đá và ghềnh đá tối màu. Ảnh chân thực. Tâm trạng. Siêu chi tiết. 8k.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095012974671089664/img/PzQuNhY-VIzwslsz.jpg" width="600" alt="Cảnh xác máy bay giữa biển bão">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10284)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095308292243308887) | **Published:** Sep 3, 2026
+
+---
+### Xây dựng thành phố tương lai trên sao Hỏa bởi Optimus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video chi tiết hình dung về một thành phố tương lai trên sao Hỏa đang được xây dựng bởi các robot Optimus của Tesla, theo tầm nhìn của Elon Musk.
+
+#### 📝 Prompt
+
+```
+Một video về hành tinh sao Hỏa theo tầm nhìn của Elon Musk, mô tả quá trình xây dựng một thành phố tương lai trên sao Hỏa, với robot hình người Optimus từ Tesla đang tích cực xây dựng và làm việc trên các công trình của thành phố
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095299106017034240/img/qFfksIef5wsl65Fu.jpg" width="600" alt="Xây dựng thành phố tương lai trên sao Hỏa bởi Optimus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10287)**
+
+**Author:** [Delestre](https://x.com/stephdel0204) | **Source:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **Published:** Sep 2, 2026
+
+---
 ### Khung cảnh đêm trăng thanh bình
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2026,120 +2141,6 @@ Một số người thử nghiệm các loại hình nhảy khác nhau.
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
 
 ---
-### Hoạt ảnh đồng bộ môi (Lip Sync)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video được sử dụng để làm cho miệng nhân vật chuyển động theo văn bản cụ thể.
-
-#### 📝 Prompt
-
-```
-Giữ nguyên hình ảnh và để nhân vật nói: “Let your light so shine. I love you....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="Hoạt ảnh đồng bộ môi (Lip Sync)">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9856)**
-
-**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
-
----
-### Cảnh quay GoPro chú chó của Odysseus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) theo phong cách điện ảnh GoPro cho cảnh chú chó của Odysseus nhận ra chủ nhân sau 20 năm.
-
-#### 📝 Prompt
-
-```
-Cảnh quay theo phong cách GoPro, nơi chú chó của Odysseus ngay lập tức nhận ra ông sau 20 năm, cùng chia sẻ một ký ức cuối cùng rồi qua đời.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091971984561192961/img/GypxhYYMpVP-335K.jpg" width="600" alt="Cảnh quay GoPro chú chó của Odysseus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10144)**
-
-**Author:** [Christopher Fryant](https://x.com/cfryant) | **Source:** [Link](https://x.com/cfryant/status/2091974814709829632) | **Published:** Aug 24, 2026
-
----
-### Hoạt ảnh nghệ thuật khăn quàng bay bổng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video nghệ thuật tập trung vào việc mô phỏng vật lý của chiếc khăn quàng đang bay để tạo hiệu ứng như một bức tranh chuyển động.
-
-#### 📝 Prompt
-
-```
-Tạo hoạt ảnh cho chiếc khăn quàng quanh cô ấy bay trong không trung, chúng tôi tập trung vào chuyển động của vải giống như một bức tranh
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="Hoạt ảnh nghệ thuật khăn quàng bay bổng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9800)**
-
-**Author:** [liviiiisssa](https://x.com/livisameno) | **Source:** [Link](https://x.com/livisameno/status/2091951872047538472) | **Published:** Aug 24, 2026
-
----
-### Nhẫn Mobius Cosmic Earth
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh mang tính điện ảnh và siêu hình mô tả một thực thể vũ trụ siêu thực bao quanh Trái Đất.
-
-#### 📝 Prompt
-
-```
-Mở cánh cửa cuối cùng, Mobius đã ở đó. Mobius chấp nhận mọi sự tồn tại, thăng hoa nó và hiện thân cho nó. Diện mạo của Mobius giống như một chiếc nhẫn bao quanh Trái Đất, trông như một thứ gì đó không thuộc về thế giới này.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="Nhẫn Mobius Cosmic Earth">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9803)**
-
-**Author:** [トビオ](https://x.com/8pdxah) | **Source:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **Published:** Aug 24, 2026
-
----
-### Video về sinh vật mèo màu pastel siêu thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo ra một khung cảnh mơ màng với sinh vật giống mèo siêu thực đang lang thang qua một vùng đất màu pastel tràn ngập những ánh sáng lơ lửng và các cấu trúc huyền ảo.
-
-#### 📝 Prompt
-
-```
-Một sinh vật giống mèo siêu thực trong khung cảnh màu pastel với những ánh sáng lơ lửng và các cấu trúc huyền ảo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="Video về sinh vật mèo màu pastel siêu thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9796)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **Published:** Aug 24, 2026
-
----
-### Lời thoại nhân vật bằng tiếng Pháp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh hướng dẫn giúp nhân vật AI nói một cụm từ cụ thể bằng tiếng Pháp để kiểm tra khả năng phát âm và diễn xuất.
-
-#### 📝 Prompt
-
-```
-hãy để nhân vật nói bằng tiếng Pháp câu: "Tất nhiên là tôi biết nói tiếng Pháp rồi! Đó là tiếng mẹ đẻ của tôi mà!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="Lời thoại nhân vật bằng tiếng Pháp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9797)**
-
-**Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2201,6 +2202,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T04:21:48.505Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T09:10:47.601Z</sub>
 
 </div>

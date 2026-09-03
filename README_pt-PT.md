@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2684** |
+| 📝 Total Prompts | **2690** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-03** |
 
@@ -189,6 +189,121 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Gato malhado miando animado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de animação de vídeo detalhado para um gato malhado entre cascas de ovo, apresentando movimentos realistas de miado, balanço de cabeça e partículas de poeira flutuando sob a luz do sol.
+
+#### 📝 Prompt
+
+```
+Anime o gato malhado miando entre cascas de ovo: a boca do gato se move como se estivesse miando ou chiando, cabeça balançando levemente, cauda tremendo, partículas de poeira flutuando sob luz solar intensa, movimento realista e vívido.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="Gato malhado miando animado">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10285)**
+
+**Author:** [Jordan Ardani](https://x.com/JordanArdady) | **Source:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **Published:** Sep 3, 2026
+
+---
+### Paz em um Jardim de Rosas ao Sol
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo poético que captura um momento de tranquilidade de uma mulher aspirando o perfume de uma rosa em meio a pétalas que caem e uma luz quente.
+
+#### 📝 Prompt
+
+```
+Um momento de silêncio em um jardim de rosas iluminado pelo sol; ela faz uma pausa, respira o perfume da flor e sorri. Luz suave, pétalas caindo e aquele brilho artístico. Paz em um único suspiro.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="Paz em um Jardim de Rosas ao Sol">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10286)**
+
+**Author:** [Ashutosh](https://x.com/Bhart0678) | **Source:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **Published:** Sep 3, 2026
+
+---
+### Luz Misteriosa na Floresta Chuvosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico altamente detalhado para uma sequência de 15 segundos de uma mulher em uma floresta chuvosa descobrindo uma luz quente e cintilante.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo cinematográfico fotorrealista de 15 segundos a partir desta imagem exata. Preserve o rosto, o penteado, o cabelo molhado, a capa de chuva preta, o cachecol cinza, as proporções corporais, o ambiente da floresta, a chuva, a iluminação e a composição da mulher. 0–4 seg: Ela permanece completamente imóvel sob a chuva forte, com os olhos fechados e o rosto levemente inclinado para cima, desfrutando pacificamente da chuva. A água escorre naturalmente pelo seu cabelo molhado e pela capa de chuva brilhante. Seu cachecol se move suavemente na brisa fria. 4–7 seg: Uma luz fraca e quente aparece repentinamente no fundo, entre as árvores atrás dela. No início, é quase imperceptível, como uma lanterna distante brilhando através da chuva e da névoa. Ela abre os olhos lentamente. 7–10 seg: Ela percebe a luz incomum. Sua expressão muda de pacífica para curiosa. Ela vira a cabeça lentamente em direção à luz, olhando entre as árvores enquanto a chuva continua caindo ao seu redor. 10–13 seg: A luz quente torna-se um pouco mais brilhante e cintila suavemente através do nevoeiro. Ela dá um passo cauteloso em direção a ela, com os olhos fixos no brilho misterioso. A câmera se move sutilmente com ela. 13–15 seg: Assim que ela dá outro passo, a luz desaparece repentinamente. Ela para e olha para a escuridão entre as árvores, visivelmente confusa. Um momento de silêncio, exceto pela chuva. Corte para o preto. Realismo cinematográfico fotorrealista, floresta chuvosa atmosférica, chuva e névoa realistas, cabelo e roupas molhados, movimento natural do vento, atuação facial sutil, movimento de caminhada crível, perspectiva de floresta profunda, ambiente azul-acinzentado frio contrastado com uma luz âmbar quente distante, profundidade de campo rasa, movimento sutil de câmera na mão. A luz deve permanecer distante e parcialmente obscurecida pelas árvores; nunca revele sua fonte. Sem criaturas sobrenaturais, sem outras pessoas, sem monstros de terror, sem sustos repentinos, sem reações exageradas, sem transições de cena, sem mudanças de rosto, sem mudanças de roupa, sem mãos distorcidas, sem deformações.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="Luz Misteriosa na Floresta Chuvosa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10283)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **Published:** Sep 3, 2026
+
+---
+### Prompt de Vídeo 3D Estilo Cartoon Cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo para um cartoon 3D cinematográfico de 10 segundos na proporção vertical 9:16.
+
+#### 📝 Prompt
+
+```
+Episódio 3
+Vídeo vertical 9:16, 10 segundos de duração. Cartoon 3D estilizado e cinematográfico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095337640304459776/img/q90cC4ZcPhb16cmv.jpg" width="600" alt="Prompt de Vídeo 3D Estilo Cartoon Cinematográfico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10282)**
+
+**Author:** [จูบใครคิดว่าไม่สำคัญ](https://x.com/unclekidtung) | **Source:** [Link](https://x.com/unclekidtung/status/2095337708159906160) | **Published:** Sep 3, 2026
+
+---
+### Cena de naufrágio de avião em mar tempestuoso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma tomada cinematográfica e atmosférica de uma mulher em um naufrágio de avião submerso em um ambiente oceânico tempestuoso.
+
+#### 📝 Prompt
+
+```
+Tomada cinematográfica em plano aberto de uma jovem com cabelos longos e molhados, sentada descalça na asa de um avião branco enferrujado, parcialmente submerso em um mar tempestuoso. Luz traseira vermelha ainda brilhando. Nuvens cinzentas pesadas. Ondas contra rochas escuras e penhascos. Fotorrealista. Atmosférico. Ultra detalhado. 8k.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095012974671089664/img/PzQuNhY-VIzwslsz.jpg" width="600" alt="Cena de naufrágio de avião em mar tempestuoso">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10284)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095308292243308887) | **Published:** Sep 3, 2026
+
+---
+### Construção de uma cidade futurista em Marte pelo Optimus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado de geração de vídeo que visualiza uma cidade futurista em Marte sendo construída pelos robôs Optimus da Tesla, seguindo a visão de Elon Musk.
+
+#### 📝 Prompt
+
+```
+Um vídeo do planeta Marte de acordo com a visão de Elon Musk, mostrando a construção de uma cidade futurista em Marte, com o robô humanoide Optimus da Tesla trabalhando ativamente na construção das estruturas da cidade
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095299106017034240/img/qFfksIef5wsl65Fu.jpg" width="600" alt="Construção de uma cidade futurista em Marte pelo Optimus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10287)**
+
+**Author:** [Delestre](https://x.com/stephdel0204) | **Source:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **Published:** Sep 2, 2026
+
+---
 ### Cena Serena de Boa Noite sob o Luar
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2026,120 +2141,6 @@ Alguns experimentaram diferentes tipos de dança.
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
 
 ---
-### Animação de Sincronia Labial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo usado para animar a boca de um personagem para falar um texto específico.
-
-#### 📝 Prompt
-
-```
-Mantendo a imagem inalterada, faça com que ele diga: “Deixe sua luz brilhar. Eu amo você....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="Animação de Sincronia Labial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9856)**
-
-**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
-
----
-### Cena do cão de Odisseu com GoPro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico no estilo GoPro para uma cena em que o cão de Odisseu o reconhece após 20 anos.
-
-#### 📝 Prompt
-
-```
-Cena no estilo GoPro onde o cão de Odisseu o reconhece instantaneamente após 20 anos, compartilha uma última memória e então falece.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091971984561192961/img/GypxhYYMpVP-335K.jpg" width="600" alt="Cena do cão de Odisseu com GoPro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10144)**
-
-**Author:** [Christopher Fryant](https://x.com/cfryant) | **Source:** [Link](https://x.com/cfryant/status/2091974814709829632) | **Published:** Aug 24, 2026
-
----
-### Animação Artística de Cachecol ao Vento
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo artístico focado em animar a física de um cachecol esvoaçante para que se assemelhe a uma pintura em movimento.
-
-#### 📝 Prompt
-
-```
-Anime o cachecol ao redor dela flutuando no ar, focando no movimento do tecido como se fosse uma pintura
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="Animação Artística de Cachecol ao Vento">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9800)**
-
-**Author:** [liviiiisssa](https://x.com/livisameno) | **Source:** [Link](https://x.com/livisameno/status/2091951872047538472) | **Published:** Aug 24, 2026
-
----
-### Anel Cósmico Terrestre Mobius
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt cinematográfico e metafísico que descreve uma entidade cósmica surreal envolvendo a Terra.
-
-#### 📝 Prompt
-
-```
-Ao abrir a porta final, Mobius estava lá. Mobius aceita toda a existência, sublima-a ainda mais e a personifica. A aparência de Mobius era como um anel cercando a Terra, parecendo algo que não pertence a este mundo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="Anel Cósmico Terrestre Mobius">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9803)**
-
-**Author:** [トビオ](https://x.com/8pdxah) | **Source:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **Published:** Aug 24, 2026
-
----
-### Vídeo de criatura felina surreal em tons pastéis
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gera uma cena onírica de uma criatura surreal semelhante a um gato vagando por uma paisagem em tons pastéis, repleta de luzes flutuantes e estruturas etéreas.
-
-#### 📝 Prompt
-
-```
-Uma criatura surreal semelhante a um gato em uma paisagem em tons pastéis com luzes flutuantes e estruturas etéreas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="Vídeo de criatura felina surreal em tons pastéis">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9796)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **Published:** Aug 24, 2026
-
----
-### Fala de Personagem em Francês
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de instrução para fazer com que um personagem de IA diga uma frase específica em francês para testar a pronúncia e a interpretação.
-
-#### 📝 Prompt
-
-```
-faça o personagem dizer, em francês: "Of course I know how to speak French! It's my native language!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="Fala de Personagem em Francês">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9797)**
-
-**Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2201,6 +2202,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T04:21:53.985Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T09:10:58.067Z</sub>
 
 </div>

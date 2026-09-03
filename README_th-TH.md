@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2684** |
+| 📝 Total Prompts | **2690** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-03** |
 
@@ -189,6 +189,121 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### วิดีโอแอนิเมชันแมวลายสลิดกำลังร้องเมี๊ยว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแอนิเมชันรายละเอียดสูงสำหรับแมวลายสลิดท่ามกลางเปลือกไข่ พร้อมการเคลื่อนไหวขณะร้องเมี๊ยวที่สมจริง การขยับหัว และละอองฝุ่นที่ลอยอยู่ในแสงแดด
+
+#### 📝 Prompt
+
+```
+สร้างแอนิเมชันแมวลายสลิดกำลังร้องเมี๊ยวท่ามกลางเปลือกไข่: ปากของแมวขยับเหมือนกำลังร้องเมี๊ยวหรือขู่ หัวขยับเล็กน้อย หางกระดิก มีละอองฝุ่นลอยอยู่ในแสงแดดจ้า ให้การเคลื่อนไหวที่สมจริงและมีชีวิตชีวา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="วิดีโอแอนิเมชันแมวลายสลิดกำลังร้องเมี๊ยว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10285)**
+
+**Author:** [Jordan Ardani](https://x.com/JordanArdady) | **Source:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **Published:** Sep 3, 2026
+
+---
+### ความสงบในสวนกุหลาบยามต้องแสงตะวัน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงกวีที่ถ่ายทอดช่วงเวลาอันเงียบสงบของหญิงสาวที่กำลังสูดดมกลิ่นดอกกุหลาบ ท่ามกลางกลีบดอกไม้ที่ร่วงหล่นและแสงแดดอันอบอุ่น
+
+#### 📝 Prompt
+
+```
+ช่วงเวลาอันเงียบสงบในสวนกุหลาบที่อาบไล้ด้วยแสงแดด เธอหยุดพัก สูดดมกลิ่นหอมของดอกไม้ และเผยยิ้มออกมา แสงที่นุ่มนวล กลีบดอกไม้ที่ร่วงหล่น และประกายแสงราวกับภาพวาด ความสงบที่รวมอยู่ในลมหายใจเดียว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="ความสงบในสวนกุหลาบยามต้องแสงตะวัน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10286)**
+
+**Author:** [Ashutosh](https://x.com/Bhart0678) | **Source:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **Published:** Sep 3, 2026
+
+---
+### แสงปริศนาในป่าท่ามกลางสายฝน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่มีรายละเอียดสูง สำหรับลำดับภาพความยาว 15 วินาที ของหญิงสาวในป่าท่ามกลางสายฝนที่กำลังค้นพบแสงอุ่นที่สั่นไหว
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอแนวภาพยนตร์ที่สมจริงเหมือนภาพถ่ายความยาว 15 วินาทีจากภาพนี้ โดยคงรายละเอียดใบหน้า ทรงผม ผมที่เปียกชื้น เสื้อกันฝนสีดำ ผ้าพันคอสีเทา สัดส่วนร่างกาย สภาพแวดล้อมในป่า สายฝน แสง และองค์ประกอบภาพของหญิงสาวคนนี้ไว้อย่างแม่นยำ 0–4 วินาที: เธอยืนนิ่งสนิทท่ามกลางสายฝนที่ตกหนัก หลับตาและเงยหน้าขึ้นเล็กน้อย เพลิดเพลินกับสายฝนอย่างสงบ น้ำไหลผ่านเส้นผมที่เปียกชื้นและเสื้อกันฝนที่มันวาวของเธออย่างเป็นธรรมชาติ ผ้าพันคอของเธอขยับเบาๆ ตามสายลมเย็น 4–7 วินาที: แสงอุ่นจางๆ ปรากฏขึ้นอย่างกะทันหันลึกเข้าไปในแนวต้นไม้ด้านหลังเธอ ในตอนแรกแทบจะสังเกตไม่เห็น เหมือนโคมไฟที่อยู่ไกลออกไปส่องสว่างผ่านสายฝนและหมอก เธอค่อยๆ ลืมตาขึ้น 7–10 วินาที: เธอสังเกตเห็นแสงที่ผิดปกตินั้น สีหน้าของเธอเปลี่ยนจากความสงบเป็นความอยากรู้อยากเห็น เธอค่อยๆ หันศีรษะไปทางแสงนั้น จ้องมองผ่านแนวต้นไม้ในขณะที่ฝนยังคงตกอยู่รอบตัวเธอ 10–13 วินาที: แสงอุ่นเริ่มสว่างขึ้นเล็กน้อยและสั่นไหวเบาๆ ผ่านหมอก เธอเดินเข้าไปหาแสงนั้นอย่างระมัดระวังหนึ่งก้าว โดยที่สายตายังคงจับจ้องไปที่แสงปริศนานั้น กล้องเคลื่อนที่ตามเธออย่างนุ่มนวล 13–15 วินาที: ทันทีที่เธอก้าวเดินอีกก้าว แสงนั้นก็หายไปอย่างกะทันหัน เธอหยุดเดินและจ้องมองเข้าไปในความมืดระหว่างต้นไม้ด้วยความสับสนอย่างเห็นได้ชัด ทิ้งช่วงความเงียบไว้ท่ามกลางเสียงฝน ตัดเข้าสู่ความมืด สมจริงแบบภาพยนตร์เหมือนภาพถ่าย ป่าท่ามกลางสายฝนที่เต็มไปด้วยบรรยากาศ ฝนและหมอกที่สมจริง ผมและเสื้อผ้าที่เปียกชื้น การเคลื่อนไหวของลมที่เป็นธรรมชาติ การแสดงออกทางสีหน้าที่ละเอียดอ่อน การเคลื่อนไหวขณะเดินที่น่าเชื่อถือ มุมมองป่าลึก สภาพแวดล้อมสีฟ้าอมเทาที่ตัดกับแสงสีส้มอุ่นที่อยู่ไกลออกไป ระยะชัดลึกที่ตื้น การเคลื่อนไหวของกล้องแบบถือถ่ายที่นุ่มนวล แสงต้องยังคงอยู่ไกลและถูกบดบังด้วยต้นไม้บางส่วน ห้ามเผยให้เห็นแหล่งกำเนิดแสงเด็ดขาด ห้ามมีสิ่งมีชีวิตเหนือธรรมชาติ ห้ามมีบุคคลอื่น ห้ามมีสัตว์ประหลาดสยองขวัญ ห้ามมีฉากตกใจ (jump scare) ห้ามมีการแสดงออกที่เกินจริง ห้ามมีการเปลี่ยนฉาก ห้ามมีการเปลี่ยนใบหน้า ห้ามมีการเปลี่ยนชุด ห้ามมีมือที่บิดเบี้ยว และห้ามมีการเปลี่ยนรูปร่าง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="แสงปริศนาในป่าท่ามกลางสายฝน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10283)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **Published:** Sep 3, 2026
+
+---
+### พรอมต์วิดีโอการ์ตูน 3D สไตล์ภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับวิดีโอการ์ตูน 3D สไตล์ภาพยนตร์ ความยาว 10 วินาที ในอัตราส่วนแนวตั้ง 9:16
+
+#### 📝 Prompt
+
+```
+ตอนที่ 3
+วิดีโอแนวตั้ง 9:16 ความยาว 10 วินาที การ์ตูน 3D สไตล์ภาพยนตร์
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095337640304459776/img/q90cC4ZcPhb16cmv.jpg" width="600" alt="พรอมต์วิดีโอการ์ตูน 3D สไตล์ภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10282)**
+
+**Author:** [จูบใครคิดว่าไม่สำคัญ](https://x.com/unclekidtung) | **Source:** [Link](https://x.com/unclekidtung/status/2095337708159906160) | **Published:** Sep 3, 2026
+
+---
+### ฉากซากเครื่องบินในทะเลที่มีพายุ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ภาพถ่ายแนวภาพยนตร์ที่ให้ความรู้สึกหม่นหมองของหญิงสาวบนซากเครื่องบินที่จมอยู่ท่ามกลางมหาสมุทรที่มีพายุ
+
+#### 📝 Prompt
+
+```
+ภาพมุมกว้างแบบภาพยนตร์ของหญิงสาวผมยาวเปียกชื้น นั่งเท้าเปล่าอยู่บนปีกของซากเครื่องบินสีขาวที่เป็นสนิมซึ่งจมอยู่ครึ่งหนึ่งในทะเลที่มีพายุ ไฟท้ายสีแดงยังคงส่องสว่าง เมฆสีเทาหนาทึบ คลื่นซัดกระทบโขดหินและหน้าผาสีเข้ม สมจริงเหมือนภาพถ่าย ให้ความรู้สึกหม่นหมอง รายละเอียดคมชัดสูง ระดับ 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095012974671089664/img/PzQuNhY-VIzwslsz.jpg" width="600" alt="ฉากซากเครื่องบินในทะเลที่มีพายุ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10284)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095308292243308887) | **Published:** Sep 3, 2026
+
+---
+### การก่อสร้างเมืองแห่งอนาคตบนดาวอังคารโดย Optimus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับการสร้างวิดีโอแบบละเอียดที่แสดงภาพเมืองแห่งอนาคตบนดาวอังคารซึ่งกำลังถูกสร้างโดยหุ่นยนต์ Optimus ของ Tesla ตามวิสัยทัศน์ของ Elon Musk
+
+#### 📝 Prompt
+
+```
+วิดีโอของดาวอังคารตามวิสัยทัศน์ของ Elon Musk แสดงให้เห็นการก่อสร้างเมืองแห่งอนาคตบนดาวอังคาร โดยมีหุ่นยนต์ฮิวแมนนอยด์ Optimus จาก Tesla กำลังสร้างและทำงานบนโครงสร้างต่างๆ ของเมืองอย่างแข็งขัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095299106017034240/img/qFfksIef5wsl65Fu.jpg" width="600" alt="การก่อสร้างเมืองแห่งอนาคตบนดาวอังคารโดย Optimus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10287)**
+
+**Author:** [Delestre](https://x.com/stephdel0204) | **Source:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **Published:** Sep 2, 2026
+
+---
 ### ฉากคืนพระจันทร์เต็มดวงอันเงียบสงบ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2026,120 +2141,6 @@ VALENTINO ROSSI ขึ้นขี่ Ducati Streetfighter R รุ่นแต�
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
 
 ---
-### แอนิเมชันลิปซิงค์ (Lip Sync)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างวิดีโอเพื่อทำแอนิเมชันปากตัวละครให้พูดตามข้อความที่กำหนด
-
-#### 📝 Prompt
-
-```
-คงภาพเดิมไว้โดยให้ตัวละครขยับปากพูดว่า: “Let your light so shine. I love you....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="แอนิเมชันลิปซิงค์ (Lip Sync)">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9856)**
-
-**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
-
----
-### ฉากสุนัขของ Odysseus ในมุมมอง GoPro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สไตล์ภาพยนตร์ GoPro สำหรับฉากที่สุนัขของ Odysseus จำเขาได้หลังจากผ่านไป 20 ปี
-
-#### 📝 Prompt
-
-```
-ฉากสไตล์ GoPro ที่สุนัขของ Odysseus จำเขาได้ในทันทีหลังจากผ่านไป 20 ปี แบ่งปันความทรงจำสุดท้ายร่วมกัน ก่อนที่มันจะจากไปอย่างสงบ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091971984561192961/img/GypxhYYMpVP-335K.jpg" width="600" alt="ฉากสุนัขของ Odysseus ในมุมมอง GoPro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10144)**
-
-**Author:** [Christopher Fryant](https://x.com/cfryant) | **Source:** [Link](https://x.com/cfryant/status/2091974814709829632) | **Published:** Aug 24, 2026
-
----
-### แอนิเมชันศิลปะผ้าพันคอพลิ้วไหว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงศิลปะที่เน้นการสร้างแอนิเมชันฟิสิกส์ของผ้าพันคอที่พลิ้วไหวให้ดูเหมือนภาพวาดที่มีชีวิต
-
-#### 📝 Prompt
-
-```
-สร้างแอนิเมชันผ้าพันคอรอบตัวเธอให้พลิ้วไหวไปตามลม โดยเน้นให้เนื้อผ้าเคลื่อนไหวราวกับภาพวาด
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="แอนิเมชันศิลปะผ้าพันคอพลิ้วไหว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9800)**
-
-**Author:** [liviiiisssa](https://x.com/livisameno) | **Source:** [Link](https://x.com/livisameno/status/2091951872047538472) | **Published:** Aug 24, 2026
-
----
-### แหวน Mobius Cosmic Earth
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์แนวภาพยนตร์และอภิปรัชญาที่บรรยายถึงสิ่งมีชีวิตเหนือธรรมชาติในจักรวาลที่โอบล้อมโลกเอาไว้
-
-#### 📝 Prompt
-
-```
-เมื่อเปิดประตูบานสุดท้ายออก Mobius ก็ปรากฏตัวอยู่ที่นั่น Mobius ยอมรับการมีอยู่ของทุกสรรพสิ่ง พร้อมทั้งยกระดับและหลอมรวมมันเข้าเป็นหนึ่งเดียว รูปลักษณ์ของ Mobius เปรียบเสมือนวงแหวนที่โอบล้อมโลกเอาไว้ ดูราวกับเป็นสิ่งที่ไม่ได้มาจากโลกใบนี้
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="แหวน Mobius Cosmic Earth">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9803)**
-
-**Author:** [トビオ](https://x.com/8pdxah) | **Source:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **Published:** Aug 24, 2026
-
----
-### วิดีโอสิ่งมีชีวิตแมวพาสเทลสุดเซอร์เรียล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สร้างฉากในฝันของสิ่งมีชีวิตคล้ายแมวสุดเซอร์เรียลที่กำลังเดินอยู่ในภูมิทัศน์สีพาสเทล เต็มไปด้วยแสงไฟลอยละล่องและโครงสร้างที่ดูเหนือจริง
-
-#### 📝 Prompt
-
-```
-สิ่งมีชีวิตคล้ายแมวสุดเซอร์เรียลในภูมิทัศน์สีพาสเทลที่มีแสงไฟลอยละล่องและโครงสร้างที่ดูเหนือจริง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="วิดีโอสิ่งมีชีวิตแมวพาสเทลสุดเซอร์เรียล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9796)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **Published:** Aug 24, 2026
-
----
-### การพูดภาษาฝรั่งเศสของตัวละคร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสำหรับให้ตัวละคร AI พูดประโยคภาษาฝรั่งเศสเฉพาะ เพื่อทดสอบการออกเสียงและการแสดง
-
-#### 📝 Prompt
-
-```
-ให้ตัวละครพูดเป็นภาษาฝรั่งเศสว่า "Of course I know how to speak French! It's my native language!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="การพูดภาษาฝรั่งเศสของตัวละคร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9797)**
-
-**Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2201,6 +2202,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T04:21:47.572Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T09:10:46.182Z</sub>
 
 </div>

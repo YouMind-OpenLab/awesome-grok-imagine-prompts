@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2684** |
+| 📝 提示詞總數 | **2690** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-03** |
 
@@ -189,6 +189,121 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 動畫版喵喵叫虎斑貓
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個關於虎斑貓身處蛋殼中的詳細影片動畫提示詞，包含逼真的喵喵叫動作、頭部擺動以及在陽光下漂浮的塵埃微粒。
+
+#### 📝 提示詞
+
+```
+讓身處蛋殼中的虎斑貓動起來：貓咪的嘴巴做出喵喵叫或哈氣的動作，頭部輕微擺動，尾巴抽動，強烈的陽光下有塵埃微粒漂浮，呈現逼真生動的動作。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="動畫版喵喵叫虎斑貓">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10285)**
+
+**作者:** [Jordan Ardani](https://x.com/JordanArdady) | **來源:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **發布時間:** Sep 3, 2026
+
+---
+### 陽光玫瑰花園的寧靜
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個富有詩意的影片提示詞，捕捉了一位女性在玫瑰花叢中深呼吸，周圍花瓣飄落、光影溫暖的寧靜時刻。
+
+#### 📝 提示詞
+
+```
+在陽光灑落的玫瑰花園中，時光靜止。她停下腳步，輕嗅花香，隨即展露笑顏。柔和的光線、飄落的花瓣，以及那如畫般的氛圍。在一次呼吸之間，感受內心的平靜。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="陽光玫瑰花園的寧靜">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10286)**
+
+**作者:** [Ashutosh](https://x.com/Bhart0678) | **來源:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **發布時間:** Sep 3, 2026
+
+---
+### 雨林神秘之光
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高度細緻的電影級影片提示詞，用於製作一段 15 秒的短片，內容為一名女子在雨林中發現一抹閃爍的暖光。
+
+#### 📝 提示詞
+
+```
+請根據這張圖片製作一段 15 秒的寫實電影級影片。請保留女子原本的面容、髮型、濕髮狀態、黑色雨衣、灰色圍巾、身體比例、森林環境、降雨效果、光影以及構圖。0–4 秒：她靜靜地站在大雨中，閉著眼睛，臉部微微向上傾斜，平靜地享受著雨水。水珠自然地流過她濕透的頭髮，順著光亮的雨衣滑落。圍巾在冷風中輕輕擺動。4–7 秒：她身後深處的樹林間突然出現了一抹微弱的暖光。起初光線極不明顯，就像遠處的燈籠在雨霧中閃爍。她緩緩睜開雙眼。7–10 秒：她察覺到了這道異常的光芒。她的表情從平靜轉為好奇。她慢慢轉頭看向光芒處，凝視著樹林間，周圍雨勢持續。10–13 秒：暖光變得稍微明亮了一些，在霧氣中輕柔地閃爍。她謹慎地向前邁了一步，雙眼緊盯著那神秘的光芒。鏡頭隨她細微移動。13–15 秒：就在她邁出下一步時，光芒突然消失。她停下腳步，凝視著樹林間的黑暗，神情顯得困惑。除了雨聲外，現場陷入一片寂靜。畫面轉黑。寫實電影質感、氛圍感雨林、逼真的雨水與霧氣、濕髮與濕衣、自然的風動效果、細膩的表情演技、真實的行走動作、深邃的森林透視感、冷色調藍灰色環境與遠處暖琥珀色光芒形成對比、淺景深、細微的手持攝影機晃動感。光芒必須保持在遠處並被樹木部分遮擋；切勿揭露光源。禁止出現超自然生物、其他人、恐怖怪物、跳躍式驚嚇、誇張反應、場景切換、面部變形、服裝改變、手部扭曲或任何變形效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="雨林神秘之光">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10283)**
+
+**作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **來源:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **發布時間:** Sep 3, 2026
+
+---
+### 3D 電影感卡通影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於製作 10 秒電影感 3D 卡通影片的提示詞，比例為 9:16 直式。
+
+#### 📝 提示詞
+
+```
+第 3 集
+9:16 直式影片，長度 10 秒。電影感風格化 3D 卡通。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095337640304459776/img/q90cC4ZcPhb16cmv.jpg" width="600" alt="3D 電影感卡通影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10282)**
+
+**作者:** [จูบใครคิดว่าไม่สำคัญ](https://x.com/unclekidtung) | **來源:** [Link](https://x.com/unclekidtung/status/2095337708159906160) | **發布時間:** Sep 3, 2026
+
+---
+### 飛機殘骸與暴風雨海景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一張充滿氛圍感的電影級攝影作品，描繪了一名女子坐在暴風雨海洋中半沉的飛機殘骸上。
+
+#### 📝 提示詞
+
+```
+電影級廣角鏡頭，一名留著濕長髮的年輕女子赤腳坐在半沉於暴風雨海面、生鏽的白色飛機殘骸機翼上。紅色尾燈依然閃爍。厚重的灰色雲層。海浪拍打著深色的岩石與懸崖。照片級真實感。氛圍感十足。超高細節。8k 解析度。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095012974671089664/img/PzQuNhY-VIzwslsz.jpg" width="600" alt="飛機殘骸與暴風雨海景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10284)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2095308292243308887) | **發布時間:** Sep 3, 2026
+
+---
+### 由 Optimus 打造的火星未來城市
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個詳細的影片生成提示詞，描繪了在 Elon Musk 的願景下，Tesla 的 Optimus 機器人在火星上建造未來城市的場景。
+
+#### 📝 提示詞
+
+```
+一段根據 Elon Musk 願景所呈現的火星影片，展示了火星上未來城市的建設過程，其中 Tesla 的人形機器人 Optimus 正積極地進行城市建築的施工與作業
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095299106017034240/img/qFfksIef5wsl65Fu.jpg" width="600" alt="由 Optimus 打造的火星未來城市">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10287)**
+
+**作者:** [Delestre](https://x.com/stephdel0204) | **來源:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **發布時間:** Sep 2, 2026
+
+---
 ### 寧靜月夜晚安場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2027,120 +2142,6 @@ Rainbow Universe MsX 與 MrX 原型的電影級動態展示：擬人化的友善
 **作者:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **來源:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **發布時間:** Aug 25, 2026
 
 ---
-### 口型同步動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一種用於讓角色嘴部配合特定文本進行說話的影片生成提示詞。
-
-#### 📝 提示詞
-
-```
-保持圖像不變，讓他的嘴部說出：「讓你的光芒閃耀。我愛你……」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="口型同步動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9856)**
-
-**作者:** [Julio McCauley](https://x.com/CosmicJulioBro) | **來源:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **發布時間:** Aug 25, 2026
-
----
-### 奧德修斯的愛犬 GoPro 視角場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個電影級 GoPro 風格的提示詞，描繪奧德修斯的愛犬在 20 年後認出他的場景。
-
-#### 📝 提示詞
-
-```
-以 GoPro 風格呈現的場景：奧德修斯的愛犬在 20 年後一眼認出了他，兩者共享了最後的回憶，隨後愛犬安詳離世。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091971984561192961/img/GypxhYYMpVP-335K.jpg" width="600" alt="奧德修斯的愛犬 GoPro 視角場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10144)**
-
-**作者:** [Christopher Fryant](https://x.com/cfryant) | **來源:** [Link](https://x.com/cfryant/status/2091974814709829632) | **發布時間:** Aug 24, 2026
-
----
-### 飄逸絲巾藝術動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個藝術影片提示詞，旨在模擬飄逸絲巾的物理動態，使其呈現出如流動畫作般的視覺效果。
-
-#### 📝 提示詞
-
-```
-讓她周圍的絲巾隨風飄動，我們將重點放在如畫作般流動的布料質感上
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="飄逸絲巾藝術動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9800)**
-
-**作者:** [liviiiisssa](https://x.com/livisameno) | **來源:** [Link](https://x.com/livisameno/status/2091951872047538472) | **發布時間:** Aug 24, 2026
-
----
-### 莫比烏斯宇宙地球環
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一段描述環繞地球的超現實宇宙實體的電影感與形而上學提示詞。
-
-#### 📝 提示詞
-
-```
-打開最後一扇門，Mobius 就在那裡。Mobius 接納一切存在，將其進一步昇華並具象化。Mobius 的外觀宛如環繞地球的圓環，看起來像是超脫於這個世界的存在。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="莫比烏斯宇宙地球環">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9803)**
-
-**作者:** [トビオ](https://x.com/8pdxah) | **來源:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **發布時間:** Aug 24, 2026
-
----
-### 超現實粉彩貓咪生物影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一個夢幻般的場景，描繪一隻超現實的貓科生物漫步在充滿漂浮光點與空靈建築的粉彩景觀中。
-
-#### 📝 提示詞
-
-```
-一隻漫步在充滿漂浮光點與空靈建築的粉彩景觀中的超現實貓科生物。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="超現實粉彩貓咪生物影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9796)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **發布時間:** Aug 24, 2026
-
----
-### 法語角色對話
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個指令提示詞，用於讓 AI 角色以法語說出特定短語，以測試其發音與演技。
-
-#### 📝 提示詞
-
-```
-讓角色以法語說出：「Of course I know how to speak French! It's my native language!」（當然，我會說法語！這是我的母語！）
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="法語角色對話">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9797)**
-
-**作者:** [Gilles Guerraz](https://x.com/gillesguerraz) | **來源:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **發布時間:** Aug 24, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2202,6 +2203,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-03T04:21:45.524Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-03T09:10:41.612Z</sub>
 
 </div>

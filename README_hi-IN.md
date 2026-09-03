@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2684** |
+| 📝 Total Prompts | **2690** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-03** |
 
@@ -189,6 +189,121 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### एनिमेटेड म्याऊँ करती टैबी बिल्ली
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> अंडों के छिलकों के बीच एक टैबी बिल्ली के लिए विस्तृत वीडियो एनीमेशन प्रॉम्प्ट, जिसमें यथार्थवादी म्याऊँ करने की हरकतें, सिर हिलाना और धूप में तैरते धूल के कण शामिल हैं।
+
+#### 📝 Prompt
+
+```
+अंडों के छिलकों के बीच म्याऊँ करती टैबी बिल्ली को एनिमेट करें: बिल्ली का मुँह ऐसे हिलता है जैसे वह म्याऊँ कर रही हो या फुफकार रही हो, सिर हल्का सा हिल रहा हो, पूंछ फड़फड़ा रही हो, तेज धूप में धूल के कण तैर रहे हों, यथार्थवादी जीवंत गति।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="एनिमेटेड म्याऊँ करती टैबी बिल्ली">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10285)**
+
+**Author:** [Jordan Ardani](https://x.com/JordanArdady) | **Source:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **Published:** Sep 3, 2026
+
+---
+### धूप में नहाया गुलाब का बगीचा और शांति
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक काव्यात्मक वीडियो प्रॉम्प्ट, जो गिरती पंखुड़ियों और सुनहरी रोशनी के बीच एक महिला को गुलाब की खुशबू महसूस करते हुए शांति के एक पल को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+धूप से सराबोर गुलाब के बगीचे में एक शांत पल, वह रुकती है, फूल की खुशबू लेती है और मुस्कुराती है। कोमल रोशनी, गिरती पंखुड़ियाँ और वह चित्रकारी जैसी चमक। एक सांस में बसी शांति।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="धूप में नहाया गुलाब का बगीचा और शांति">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10286)**
+
+**Author:** [Ashutosh](https://x.com/Bhart0678) | **Source:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **Published:** Sep 3, 2026
+
+---
+### बरसाती जंगल का रहस्यमयी प्रकाश
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक बरसाती जंगल में एक महिला द्वारा टिमटिमाती गर्म रोशनी की खोज करने वाले 15-सेकंड के दृश्य के लिए एक अत्यधिक विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+इस सटीक छवि से एक फोटो-रियलिस्टिक सिनेमैटिक 15-सेकंड का वीडियो बनाएं। महिला का सटीक चेहरा, हेयरस्टाइल, गीले बाल, काला रेनकोट, ग्रे स्कार्फ, शारीरिक अनुपात, जंगल का वातावरण, बारिश, लाइटिंग और कंपोजिशन को बनाए रखें। 0–4 सेकंड: वह भारी बारिश में पूरी तरह स्थिर खड़ी है, आंखें बंद हैं और चेहरा थोड़ा ऊपर की ओर झुका हुआ है, वह शांति से बारिश का आनंद ले रही है। पानी उसके गीले बालों से होकर उसके चमकदार रेनकोट पर स्वाभाविक रूप से बह रहा है। ठंडी हवा में उसका स्कार्फ धीरे-धीरे हिल रहा है। 4–7 सेकंड: उसके पीछे पेड़ों के बीच अचानक एक हल्की, गर्म रोशनी दिखाई देती है। शुरुआत में यह मुश्किल से दिखाई देती है, जैसे बारिश और धुंध के बीच चमकती कोई दूर की लालटेन। वह धीरे-धीरे अपनी आंखें खोलती है। 7–10 सेकंड: वह उस असामान्य रोशनी को नोटिस करती है। उसके चेहरे के भाव शांति से जिज्ञासा में बदल जाते हैं। वह धीरे-धीरे अपना सिर उसकी ओर घुमाती है, पेड़ों के बीच घूरती है जबकि उसके चारों ओर बारिश लगातार हो रही है। 10–13 सेकंड: गर्म रोशनी थोड़ी और तेज हो जाती है और धुंध के बीच धीरे-धीरे टिमटिमाती है। वह उसकी ओर एक सतर्क कदम बढ़ाती है, उसकी नजरें उस रहस्यमयी चमक पर टिकी हैं। कैमरा उसके साथ सूक्ष्मता से हिलता है। 13–15 सेकंड: जैसे ही वह एक और कदम उठाती है, रोशनी अचानक गायब हो जाती है। वह रुक जाती है और पेड़ों के बीच के अंधेरे में घूरती है, स्पष्ट रूप से भ्रमित है। बारिश की आवाज के अलावा एक पल की खामोशी। स्क्रीन काली हो जाती है। फोटो-रियलिस्टिक सिनेमैटिक रियलिज्म, वायुमंडलीय बरसाती जंगल, यथार्थवादी बारिश और धुंध, गीले बाल और कपड़े, प्राकृतिक हवा की गति, सूक्ष्म चेहरे के भाव, विश्वसनीय चलने की गति, गहरे जंगल का परिप्रेक्ष्य, ठंडे नीले-ग्रे परिवेश के विपरीत दूर की गर्म एम्बर रोशनी, उथला डेप्थ ऑफ फील्ड, सूक्ष्म हैंडहेल्ड कैमरा मूवमेंट। रोशनी को दूर और पेड़ों से आंशिक रूप से ढका रहना चाहिए; इसका स्रोत कभी न दिखाएं। कोई अलौकिक प्राणी नहीं, कोई अन्य व्यक्ति नहीं, कोई हॉरर मॉन्स्टर नहीं, कोई जंप स्केयर नहीं, कोई अतिरंजित प्रतिक्रिया नहीं, कोई सीन ट्रांजिशन नहीं, चेहरे में कोई बदलाव नहीं, कपड़ों में कोई बदलाव नहीं, कोई विकृत हाथ नहीं, कोई मॉर्फिंग नहीं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="बरसाती जंगल का रहस्यमयी प्रकाश">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10283)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **Published:** Sep 3, 2026
+
+---
+### 3D सिनेमैटिक कार्टून वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 9:16 वर्टिकल आस्पेक्ट रेशियो में 10-सेकंड के सिनेमैटिक 3D कार्टून के लिए एक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एपिसोड 3
+वर्टिकल 9:16 वीडियो, 10 सेकंड की अवधि। सिनेमैटिक स्टाइलाइज्ड 3D कार्टून।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095337640304459776/img/q90cC4ZcPhb16cmv.jpg" width="600" alt="3D सिनेमैटिक कार्टून वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10282)**
+
+**Author:** [จูบใครคิดว่าไม่สำคัญ](https://x.com/unclekidtung) | **Source:** [Link](https://x.com/unclekidtung/status/2095337708159906160) | **Published:** Sep 3, 2026
+
+---
+### तूफानी समुद्र में विमान का मलबा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> तूफानी समुद्री वातावरण में डूबे हुए विमान के मलबे पर बैठी एक महिला का मूडी, सिनेमैटिक शॉट।
+
+#### 📝 Prompt
+
+```
+तूफानी समुद्र में आधे डूबे हुए एक जंग लगे सफेद विमान के मलबे के पंख पर नंगे पैर बैठी, लंबे गीले बालों वाली एक युवती का सिनेमैटिक वाइड शॉट। लाल टेल लाइट अभी भी जल रही है। भारी ग्रे बादल। गहरे रंग की चट्टानों और पहाड़ियों से टकराती लहरें। फोटो-रियलिस्टिक। मूडी। अल्ट्रा डिटेल्ड। 8k।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095012974671089664/img/PzQuNhY-VIzwslsz.jpg" width="600" alt="तूफानी समुद्र में विमान का मलबा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10284)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095308292243308887) | **Published:** Sep 3, 2026
+
+---
+### Optimus द्वारा मंगल ग्रह पर भविष्य के शहर का निर्माण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एलोन मस्क के विज़न के अनुसार, Tesla के Optimus रोबोट द्वारा मंगल ग्रह पर बनाए जा रहे एक भविष्यवादी शहर की कल्पना करने वाला एक विस्तृत वीडियो जनरेशन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एलोन मस्क के विज़न के अनुसार मंगल ग्रह का एक वीडियो, जिसमें मंगल पर एक भविष्यवादी शहर का निर्माण दिखाया गया है, जहाँ Tesla का ह्यूमनॉइड रोबोट Optimus सक्रिय रूप से शहर की संरचनाओं पर काम कर रहा है और उन्हें बना रहा है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095299106017034240/img/qFfksIef5wsl65Fu.jpg" width="600" alt="Optimus द्वारा मंगल ग्रह पर भविष्य के शहर का निर्माण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10287)**
+
+**Author:** [Delestre](https://x.com/stephdel0204) | **Source:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **Published:** Sep 2, 2026
+
+---
 ### शांत चांदनी रात का दृश्य
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2026,120 +2141,6 @@ Rainbow Universe MsX और MrX प्रोटोटाइप का सिन�
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
 
 ---
-### लिप सिंक एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जनरेशन प्रॉम्प्ट जिसका उपयोग किसी कैरेक्टर के मुंह को विशिष्ट टेक्स्ट बोलने के लिए एनिमेट करने हेतु किया जाता है।
-
-#### 📝 Prompt
-
-```
-इमेज को अपरिवर्तित रखते हुए उसके मुंह से यह बुलवाएं: “Let your light so shine. I love you....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="लिप सिंक एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9856)**
-
-**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
-
----
-### Odysseus Dog GoPro दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक GoPro-शैली का प्रॉम्प्ट, जिसमें ओडिसियस (Odysseus) का कुत्ता 20 साल बाद उन्हें पहचान लेता है।
-
-#### 📝 Prompt
-
-```
-GoPro शैली का दृश्य जहाँ ओडिसियस (Odysseus) का कुत्ता 20 साल बाद उन्हें तुरंत पहचान लेता है, एक अंतिम याद साझा करता है, और फिर मर जाता है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091971984561192961/img/GypxhYYMpVP-335K.jpg" width="600" alt="Odysseus Dog GoPro दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10144)**
-
-**Author:** [Christopher Fryant](https://x.com/cfryant) | **Source:** [Link](https://x.com/cfryant/status/2091974814709829632) | **Published:** Aug 24, 2026
-
----
-### लहराते स्कार्फ का कलात्मक एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक कलात्मक वीडियो प्रॉम्प्ट जो लहराते स्कार्फ की भौतिकी को एक चलती-फिरती पेंटिंग की तरह एनिमेट करने पर केंद्रित है।
-
-#### 📝 Prompt
-
-```
-उसके चारों ओर स्कार्फ को हवा में लहराते हुए एनिमेट करें, और हमारा ध्यान उड़ते हुए कपड़े को एक पेंटिंग की तरह दिखाने पर है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="लहराते स्कार्फ का कलात्मक एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9800)**
-
-**Author:** [liviiiisssa](https://x.com/livisameno) | **Source:** [Link](https://x.com/livisameno/status/2091951872047538472) | **Published:** Aug 24, 2026
-
----
-### Mobius Cosmic Earth Ring
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> पृथ्वी को घेरने वाली एक असली और आध्यात्मिक ब्रह्मांडीय इकाई का वर्णन करने वाला एक सिनेमाई और तत्वमीमांसीय प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-अंतिम दरवाजा खोलते ही, Mobius वहाँ मौजूद था। Mobius सभी अस्तित्वों को स्वीकार करता है, उन्हें और अधिक उत्कृष्ट बनाता है, और उन्हें मूर्त रूप देता है। Mobius का स्वरूप पृथ्वी के चारों ओर एक छल्ले जैसा था, जो इस दुनिया से परे किसी चीज़ जैसा दिखाई दे रहा था।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="Mobius Cosmic Earth Ring">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9803)**
-
-**Author:** [トビオ](https://x.com/8pdxah) | **Source:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **Published:** Aug 24, 2026
-
----
-### अवास्तविक पेस्टल बिल्ली जैसा जीव वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> यह तैरती हुई रोशनी और अलौकिक संरचनाओं से भरे पेस्टल परिदृश्य में घूमते हुए एक अवास्तविक बिल्ली जैसे जीव का स्वप्निल दृश्य उत्पन्न करता है।
-
-#### 📝 Prompt
-
-```
-तैरती हुई रोशनी और अलौकिक संरचनाओं वाले पेस्टल परिदृश्य में एक अवास्तविक बिल्ली जैसा जीव।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="अवास्तविक पेस्टल बिल्ली जैसा जीव वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9796)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **Published:** Aug 24, 2026
-
----
-### फ्रेंच भाषा कैरेक्टर स्पीच
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक AI कैरेक्टर को फ्रेंच में एक विशिष्ट वाक्यांश बोलने के लिए निर्देश प्रॉम्प्ट, ताकि उच्चारण और अभिनय का परीक्षण किया जा सके।
-
-#### 📝 Prompt
-
-```
-कैरेक्टर से फ्रेंच में कहलवाएं, "Of course I know how to speak French! It's my native language!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="फ्रेंच भाषा कैरेक्टर स्पीच">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9797)**
-
-**Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2201,6 +2202,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T04:21:49.599Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T09:10:49.605Z</sub>
 
 </div>

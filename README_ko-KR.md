@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2684** |
+| 📝 총 프롬프트 수 | **2690** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-09-03** |
 
@@ -189,6 +189,121 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 애니메이션으로 구현된 야옹거리는 태비 고양이
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 달걀 껍데기 사이에 있는 태비 고양이를 위한 상세한 비디오 애니메이션 프롬프트입니다. 사실적인 야옹거리는 동작, 고개를 까닥이는 모습, 햇살 속에서 떠다니는 먼지 입자를 특징으로 합니다.
+
+#### 📝 프롬프트
+
+```
+달걀 껍데기 사이에서 야옹거리는 태비 고양이를 애니메이션으로 구현하세요: 고양이가 야옹거리거나 하악질을 하는 듯 입을 움직이고, 고개를 살짝 까닥이며, 꼬리를 실룩거립니다. 강렬한 햇살 속에서 먼지 입자가 떠다니며, 생동감 넘치는 사실적인 움직임을 보여줍니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="애니메이션으로 구현된 야옹거리는 태비 고양이">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10285)**
+
+**작성자:** [Jordan Ardani](https://x.com/JordanArdady) | **출처:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **게시일:** Sep 3, 2026
+
+---
+### 햇살 가득한 장미 정원의 평온함
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 꽃잎이 흩날리고 따스한 빛이 내리쬐는 가운데, 장미 향기를 맡는 여성의 평온한 순간을 담은 시적인 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+햇살이 내리쬐는 장미 정원에서의 고요한 순간, 그녀가 잠시 멈춰 서서 꽃향기를 들이마시며 미소 짓습니다. 부드러운 빛과 흩날리는 꽃잎, 그리고 회화적인 분위기. 한 번의 숨결 속에 담긴 평온함입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="햇살 가득한 장미 정원의 평온함">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10286)**
+
+**작성자:** [Ashutosh](https://x.com/Bhart0678) | **출처:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **게시일:** Sep 3, 2026
+
+---
+### 비 내리는 숲속의 신비로운 빛
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 비 내리는 숲속에서 따스하게 깜빡이는 빛을 발견하는 여성의 15초 분량 시퀀스를 위한 고도로 상세한 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 이미지를 바탕으로 15초 분량의 사실적인 시네마틱 영상을 제작하세요. 여성의 얼굴, 헤어스타일, 젖은 머리카락, 검은색 우비, 회색 스카프, 신체 비율, 숲 환경, 빗줄기, 조명 및 구도를 정확하게 유지하세요. 0~4초: 그녀는 쏟아지는 빗속에 가만히 서서 눈을 감고 고개를 살짝 들어 빗줄기를 평온하게 즐깁니다. 젖은 머리카락과 윤기 나는 우비를 타고 물이 자연스럽게 흘러내립니다. 차가운 바람에 스카프가 부드럽게 흔들립니다. 4~7초: 그녀 뒤편 숲속 깊은 곳에서 희미하고 따스한 빛이 갑자기 나타납니다. 처음에는 빗속과 안개 사이로 멀리서 비치는 등불처럼 거의 눈에 띄지 않습니다. 그녀가 천천히 눈을 뜹니다. 7~10초: 그녀가 이 낯선 빛을 알아차립니다. 평온했던 표정이 호기심 어린 표정으로 바뀝니다. 그녀는 천천히 고개를 돌려 주위로 비가 내리는 나무 사이를 응시합니다. 10~13초: 따스한 빛이 조금 더 밝아지며 안개 속에서 부드럽게 깜빡입니다. 그녀는 신비로운 빛에 시선을 고정한 채 조심스럽게 한 걸음을 내딛습니다. 카메라는 그녀의 움직임에 맞춰 미세하게 이동합니다. 13~15초: 그녀가 다시 한 걸음을 내딛는 순간, 빛이 갑자기 사라집니다. 그녀는 멈춰 서서 나무 사이의 어둠을 응시하며 당혹스러운 표정을 짓습니다. 빗소리 외에는 정적이 흐릅니다. 화면이 검게 전환됩니다. 사실적인 시네마틱 리얼리즘, 분위기 있는 비 내리는 숲, 사실적인 빗줄기와 안개, 젖은 머리카락과 의상, 자연스러운 바람의 움직임, 섬세한 표정 연기, 자연스러운 걷기 동작, 깊이감 있는 숲의 원근감, 차가운 청회색 배경과 대비되는 멀리서 비치는 따스한 호박색 빛, 얕은 피사계 심도, 미세한 핸드헬드 카메라 움직임. 빛은 나무에 가려진 채 멀리 유지되어야 하며, 그 근원을 절대 드러내지 마세요. 초자연적인 존재, 다른 사람, 공포 괴물, 깜짝 놀라게 하는 연출, 과장된 반응, 장면 전환, 얼굴 변화, 의상 변화, 일그러진 손, 형태 변형은 포함하지 마세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="비 내리는 숲속의 신비로운 빛">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10283)**
+
+**작성자:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **출처:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **게시일:** Sep 3, 2026
+
+---
+### 3D 시네마틱 카툰 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 9:16 세로 비율의 10초 분량 시네마틱 3D 카툰 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+에피소드 3
+9:16 세로형 영상, 10초 분량. 시네마틱 스타일의 3D 카툰.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095337640304459776/img/q90cC4ZcPhb16cmv.jpg" width="600" alt="3D 시네마틱 카툰 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10282)**
+
+**작성자:** [จูบใครคิดว่าไม่สำคัญ](https://x.com/unclekidtung) | **출처:** [Link](https://x.com/unclekidtung/status/2095337708159906160) | **게시일:** Sep 3, 2026
+
+---
+### 폭풍우 치는 바다 속 비행기 잔해 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 폭풍우가 몰아치는 바다, 물에 잠긴 비행기 잔해 위에 앉아 있는 여성의 분위기 있고 영화 같은 장면.
+
+#### 📝 프롬프트
+
+```
+폭풍우 치는 바다에 반쯤 잠긴 녹슨 흰색 비행기 잔해의 날개 위에 맨발로 앉아 있는, 젖은 긴 머리의 젊은 여성을 담은 영화 같은 와이드 샷. 붉은색 꼬리 날개등이 여전히 빛나고 있음. 짙은 회색 구름. 어두운 바위와 절벽에 부딪히는 파도. 사실적인 사진 느낌. 분위기 있음. 초고해상도. 8k.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095012974671089664/img/PzQuNhY-VIzwslsz.jpg" width="600" alt="폭풍우 치는 바다 속 비행기 잔해 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10284)**
+
+**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2095308292243308887) | **게시일:** Sep 3, 2026
+
+---
+### Optimus가 건설하는 미래형 화성 도시
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Elon Musk의 비전에 따라 Tesla의 Optimus 로봇이 화성에 미래형 도시를 건설하는 모습을 시각화한 상세한 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+Elon Musk의 비전을 담은 화성 행성의 영상으로, Tesla의 휴머노이드 로봇 Optimus가 화성에서 미래형 도시를 건설하고 구조물을 작업하는 모습을 보여줍니다
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095299106017034240/img/qFfksIef5wsl65Fu.jpg" width="600" alt="Optimus가 건설하는 미래형 화성 도시">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10287)**
+
+**작성자:** [Delestre](https://x.com/stephdel0204) | **출처:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **게시일:** Sep 2, 2026
+
+---
 ### 고요한 달빛 아래의 굿나잇 장면
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2027,120 +2142,6 @@ Rainbow Universe MsX 및 MrX 프로토타입의 시네마틱 라이브 공개: �
 **작성자:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **출처:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **게시일:** Aug 25, 2026
 
 ---
-### 립싱크 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 특정 텍스트를 말하도록 캐릭터의 입 모양을 애니메이션화하는 데 사용되는 비디오 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이미지는 그대로 유지하고 입 모양을 다음과 같이 설정하세요: “Let your light so shine. I love you....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="립싱크 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9856)**
-
-**작성자:** [Julio McCauley](https://x.com/CosmicJulioBro) | **출처:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **게시일:** Aug 25, 2026
-
----
-### 오디세우스의 반려견 GoPro 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 오디세우스의 반려견이 20년 만에 그를 알아보는 장면을 위한 영화 같은 GoPro 스타일 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-오디세우스의 반려견이 20년 만에 그를 즉시 알아보고 마지막 기억을 공유한 뒤 숨을 거두는 GoPro 스타일의 장면입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091971984561192961/img/GypxhYYMpVP-335K.jpg" width="600" alt="오디세우스의 반려견 GoPro 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10144)**
-
-**작성자:** [Christopher Fryant](https://x.com/cfryant) | **출처:** [Link](https://x.com/cfryant/status/2091974814709829632) | **게시일:** Aug 24, 2026
-
----
-### 흩날리는 스카프 예술 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 움직이는 회화처럼 스카프가 흩날리는 물리적 움직임을 구현하는 데 초점을 맞춘 예술적 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그녀 주변의 스카프가 공기 중에 흩날리는 모습을 애니메이션으로 구현하며, 마치 한 폭의 그림처럼 흐르는 옷감의 질감에 집중합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="흩날리는 스카프 예술 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9800)**
-
-**작성자:** [liviiiisssa](https://x.com/livisameno) | **출처:** [Link](https://x.com/livisameno/status/2091951872047538472) | **게시일:** Aug 24, 2026
-
----
-### 뫼비우스 코스믹 어스 링
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 지구를 감싸고 있는 초현실적인 우주적 존재를 묘사하는 영화적이고 형이상학적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-마지막 문을 열자 그곳에 Mobius 가 있었다. Mobius 는 모든 존재를 받아들이고, 이를 더욱 승화시키며, 구체화한다. Mobius 의 모습은 지구를 감싸고 있는 고리와 같았으며, 이 세상의 것이 아닌 것처럼 보였다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="뫼비우스 코스믹 어스 링">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9803)**
-
-**작성자:** [トビオ](https://x.com/8pdxah) | **출처:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **게시일:** Aug 24, 2026
-
----
-### 초현실적인 파스텔 톤 고양이 생명체 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 떠다니는 빛과 신비로운 구조물로 가득 찬 파스텔 톤의 풍경 속을 거니는 초현실적인 고양이 형태의 생명체가 등장하는 꿈같은 장면을 생성합니다.
-
-#### 📝 프롬프트
-
-```
-떠다니는 빛과 신비로운 구조물이 있는 파스텔 톤 풍경 속의 초현실적인 고양이 형태 생명체.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="초현실적인 파스텔 톤 고양이 생명체 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9796)**
-
-**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **게시일:** Aug 24, 2026
-
----
-### 프랑스어 캐릭터 음성
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> AI 캐릭터가 특정 프랑스어 문장을 말하도록 유도하여 발음과 연기력을 테스트하는 지시 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-캐릭터가 프랑스어로 "물론이죠, 제가 프랑스어를 할 줄 아느냐고요? 제 모국어인걸요!"라고 말하게 하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="프랑스어 캐릭터 음성">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9797)**
-
-**작성자:** [Gilles Guerraz](https://x.com/gillesguerraz) | **출처:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **게시일:** Aug 24, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2202,6 +2203,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-03T04:21:46.917Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-03T09:10:44.720Z</sub>
 
 </div>

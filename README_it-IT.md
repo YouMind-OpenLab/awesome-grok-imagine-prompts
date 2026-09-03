@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2684** |
+| 📝 Total Prompts | **2690** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-03** |
 
@@ -189,6 +189,121 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Gatto soriano che miagola animato
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dettagliato per l'animazione di un gatto soriano tra gusci d'uovo, caratterizzato da movimenti realistici di miagolio, cenni del capo e particelle di polvere fluttuanti alla luce del sole.
+
+#### 📝 Prompt
+
+```
+Anima il gatto soriano che miagola tra i gusci d'uovo: la bocca del gatto si muove come se stesse miagolando o soffiando, la testa oscilla leggermente, la coda si agita, particelle di polvere fluttuano sotto una luce solare intensa, movimento realistico e vivace.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="Gatto soriano che miagola animato">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10285)**
+
+**Author:** [Jordan Ardani](https://x.com/JordanArdady) | **Source:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **Published:** Sep 3, 2026
+
+---
+### Pace in un giardino di rose baciato dal sole
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video poetico che cattura un momento di tranquillità: una donna respira il profumo di una rosa tra petali che cadono e una luce calda.
+
+#### 📝 Prompt
+
+```
+Un momento di quiete in un giardino di rose illuminato dal sole; lei si ferma, respira il profumo del fiore e sorride. Luce soffusa, petali che cadono e quel bagliore pittorico. La pace in un solo respiro.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="Pace in un giardino di rose baciato dal sole">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10286)**
+
+**Author:** [Ashutosh](https://x.com/Bhart0678) | **Source:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **Published:** Sep 3, 2026
+
+---
+### Misteriosa luce nella foresta piovosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico altamente dettagliato per una sequenza di 15 secondi di una donna in una foresta piovosa che scopre una calda luce tremolante.
+
+#### 📝 Prompt
+
+```
+Crea un video cinematografico fotorealistico di 15 secondi partendo da questa immagine esatta. Mantieni il volto, l'acconciatura, i capelli bagnati, l'impermeabile nero, la sciarpa grigia, le proporzioni corporee, l'ambiente forestale, la pioggia, l'illuminazione e la composizione della donna. 0–4 sec: Lei resta completamente immobile sotto la pioggia battente, con gli occhi chiusi e il viso leggermente rivolto verso l'alto, godendosi serenamente la pioggia. L'acqua scorre naturalmente tra i capelli bagnati e lungo l'impermeabile lucido. La sua sciarpa si muove delicatamente nella brezza fredda. 4–7 sec: Una debole luce calda appare improvvisamente in profondità tra gli alberi dietro di lei. All'inizio è appena percettibile, come una lanterna lontana che brilla attraverso la pioggia e la nebbia. Lei apre lentamente gli occhi. 7–10 sec: Nota la luce insolita. La sua espressione passa da serena a curiosa. Gira lentamente la testa verso di essa, fissando lo spazio tra gli alberi mentre la pioggia continua a cadere intorno a lei. 10–13 sec: La luce calda diventa leggermente più intensa e tremola dolcemente attraverso la nebbia. Fa un passo cauto verso di essa, con gli occhi fissi sul bagliore misterioso. La telecamera si muove sottilmente con lei. 13–15 sec: Proprio mentre fa un altro passo, la luce scompare improvvisamente. Lei si ferma e fissa l'oscurità tra gli alberi, visibilmente confusa. Un attimo di silenzio, interrotto solo dalla pioggia. Dissolvenza a nero. Realismo cinematografico fotorealistico, foresta piovosa d'atmosfera, pioggia e nebbia realistiche, capelli e vestiti bagnati, movimento naturale del vento, recitazione facciale sottile, movimento di camminata credibile, prospettiva di foresta profonda, ambiente blu-grigio freddo in contrasto con una lontana luce ambrata calda, profondità di campo ridotta, leggero movimento della telecamera a mano. La luce deve rimanere distante e parzialmente oscurata dagli alberi; non rivelare mai la sua fonte. Nessuna creatura soprannaturale, nessuna persona, nessun mostro horror, nessun jump scare, nessuna reazione esagerata, nessuna transizione di scena, nessun cambiamento di volto, nessun cambio di abbigliamento, nessuna mano distorta, nessuna trasformazione.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="Misteriosa luce nella foresta piovosa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10283)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **Published:** Sep 3, 2026
+
+---
+### Prompt per video 3D in stile cartoon cinematografico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video per un cartone animato 3D cinematografico di 10 secondi con formato verticale 9:16.
+
+#### 📝 Prompt
+
+```
+Episodio 3
+Video verticale 9:16, durata 10 secondi. Cartone animato 3D in stile cinematografico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095337640304459776/img/q90cC4ZcPhb16cmv.jpg" width="600" alt="Prompt per video 3D in stile cartoon cinematografico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10282)**
+
+**Author:** [จูบใครคิดว่าไม่สำคัญ](https://x.com/unclekidtung) | **Source:** [Link](https://x.com/unclekidtung/status/2095337708159906160) | **Published:** Sep 3, 2026
+
+---
+### Scena di un relitto aereo in un mare in tempesta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un'inquadratura cinematografica e suggestiva di una donna su un relitto aereo sommerso in un oceano in tempesta.
+
+#### 📝 Prompt
+
+```
+Inquadratura cinematografica ampia di una giovane donna con lunghi capelli bagnati seduta a piedi nudi sull'ala di un relitto aereo bianco arrugginito, semisommerso in un mare in tempesta. La luce di coda rossa è ancora accesa. Pesanti nuvole grigie. Onde che si infrangono contro rocce scure e scogliere. Fotorealistico. Suggestivo. Ultra dettagliato. 8k.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095012974671089664/img/PzQuNhY-VIzwslsz.jpg" width="600" alt="Scena di un relitto aereo in un mare in tempesta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10284)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095308292243308887) | **Published:** Sep 3, 2026
+
+---
+### Costruzione di una città futuristica su Marte da parte di Optimus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per la generazione di video che visualizza una città futuristica su Marte in fase di costruzione da parte dei robot Optimus di Tesla, seguendo la visione di Elon Musk.
+
+#### 📝 Prompt
+
+```
+Un video del pianeta Marte secondo la visione di Elon Musk, che mostra la costruzione di una città futuristica su Marte, con il robot umanoide Optimus di Tesla che lavora attivamente alla costruzione delle strutture della città
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095299106017034240/img/qFfksIef5wsl65Fu.jpg" width="600" alt="Costruzione di una città futuristica su Marte da parte di Optimus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10287)**
+
+**Author:** [Delestre](https://x.com/stephdel0204) | **Source:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **Published:** Sep 2, 2026
+
+---
 ### Scena notturna serena al chiaro di luna
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2026,120 +2141,6 @@ Alcuni hanno provato diversi tipi di ballo.
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
 
 ---
-### Animazione Lip Sync
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di generazione video utilizzato per animare la bocca di un personaggio affinché pronunci un testo specifico.
-
-#### 📝 Prompt
-
-```
-Lasciando l'immagine invariata, fagli dire: “Let your light so shine. I love you....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="Animazione Lip Sync">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9856)**
-
-**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
-
----
-### Scena del cane di Odisseo in stile GoPro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt in stile GoPro cinematografico per una scena in cui il cane di Odisseo lo riconosce dopo 20 anni.
-
-#### 📝 Prompt
-
-```
-Scena in stile GoPro in cui il cane di Odisseo lo riconosce istantaneamente dopo 20 anni, condivide un ultimo ricordo e poi muore.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091971984561192961/img/GypxhYYMpVP-335K.jpg" width="600" alt="Scena del cane di Odisseo in stile GoPro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10144)**
-
-**Author:** [Christopher Fryant](https://x.com/cfryant) | **Source:** [Link](https://x.com/cfryant/status/2091974814709829632) | **Published:** Aug 24, 2026
-
----
-### Animazione artistica di una sciarpa al vento
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video artistico incentrato sull'animazione della fisica di una sciarpa che fluttua, per farla sembrare un dipinto in movimento.
-
-#### 📝 Prompt
-
-```
-Anima la sciarpa attorno a lei mentre vola nell'aria, concentrandoci sul movimento del tessuto come se fosse un dipinto
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="Animazione artistica di una sciarpa al vento">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9800)**
-
-**Author:** [liviiiisssa](https://x.com/livisameno) | **Source:** [Link](https://x.com/livisameno/status/2091951872047538472) | **Published:** Aug 24, 2026
-
----
-### Anello Cosmico Mobius Terra
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt cinematografico e metafisico che descrive un'entità cosmica surreale che circonda la Terra.
-
-#### 📝 Prompt
-
-```
-Aprendo l'ultima porta, Mobius era lì. Mobius accetta ogni esistenza, la sublima ulteriormente e la incarna. L'aspetto di Mobius era come un anello che circondava la Terra, simile a qualcosa che non appartiene a questo mondo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="Anello Cosmico Mobius Terra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9803)**
-
-**Author:** [トビオ](https://x.com/8pdxah) | **Source:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **Published:** Aug 24, 2026
-
----
-### Video di una creatura felina surreale dai colori pastello
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera una scena onirica con una creatura surreale simile a un gatto che vaga in un paesaggio dai toni pastello, ricco di luci fluttuanti e strutture eteree.
-
-#### 📝 Prompt
-
-```
-Una creatura surreale simile a un gatto in un paesaggio dai colori pastello con luci fluttuanti e strutture eteree.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="Video di una creatura felina surreale dai colori pastello">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9796)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **Published:** Aug 24, 2026
-
----
-### Parlato del personaggio in lingua francese
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di istruzioni per far pronunciare a un personaggio AI una frase specifica in francese, al fine di testarne la pronuncia e l'interpretazione.
-
-#### 📝 Prompt
-
-```
-fai dire al personaggio, in francese: "Certo che so parlare francese! È la mia lingua madre!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="Parlato del personaggio in lingua francese">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9797)**
-
-**Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2201,6 +2202,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T04:21:52.846Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T09:10:55.618Z</sub>
 
 </div>

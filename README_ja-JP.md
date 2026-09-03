@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2684** |
+| 📝 プロンプト総数 | **2690** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-03** |
 
@@ -189,6 +189,121 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 鳴いているキジトラ猫のアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 卵の殻の中にいるキジトラ猫のリアルな鳴き声の動作、首を振る動き、日光の中で舞う塵の粒子を表現した詳細な動画アニメーションプロンプトです。
+
+#### 📝 プロンプト
+
+```
+卵の殻の中にいるキジトラ猫が鳴いている様子をアニメーション化：猫の口が鳴き声や威嚇をしているかのように動き、首を軽く振り、尻尾がピクピクと動く。強い日差しの中で塵の粒子が舞い、リアルで生き生きとした動きを表現。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="鳴いているキジトラ猫のアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10285)**
+
+**作者:** [Jordan Ardani](https://x.com/JordanArdady) | **ソース:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **公開日:** Sep 3, 2026
+
+---
+### 陽光あふれるバラ園の安らぎ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 舞い散る花びらと温かな光に包まれ、バラの香りを吸い込む女性の穏やかな瞬間を捉えた、詩的なビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+陽光が降り注ぐバラ園での静かなひととき。彼女は立ち止まり、バラの香りを深く吸い込み、微笑む。柔らかな光、舞い散る花びら、そして絵画のような輝き。ひと呼吸の中に宿る安らぎ。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="陽光あふれるバラ園の安らぎ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10286)**
+
+**作者:** [Ashutosh](https://x.com/Bhart0678) | **ソース:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **公開日:** Sep 3, 2026
+
+---
+### 雨の森のミステリアスな光
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 雨の森で揺らめく温かい光を発見する女性を描いた、15 秒間のシネマティックな動画生成用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+この画像をもとに、フォトリアルな 15 秒間のシネマティック動画を作成してください。女性の顔立ち、髪型、濡れた髪、黒いレインコート、グレーのスカーフ、体型、森の環境、雨の降り方、照明、構図を正確に維持してください。0～4 秒：彼女は激しい雨の中で完全に静止し、目を閉じて顔をわずかに上に向けて、雨を穏やかに楽しんでいます。水が濡れた髪を伝い、光沢のあるレインコートを自然に流れ落ちます。冷たい風にスカーフが優しく揺れます。4～7 秒：彼女の背後の木々の奥深くに、かすかな温かい光が突然現れます。最初は雨と霧越しに光る遠くのランタンのように、ほとんど目立ちません。彼女はゆっくりと目を開けます。7～10 秒：彼女はその異質な光に気づきます。表情が穏やかなものから好奇心に満ちたものへと変化します。彼女はゆっくりと首をその方向へ向け、周囲に雨が降り注ぐ中、木々の間を見つめます。10～13 秒：温かい光が少しずつ明るくなり、霧の中で優しく揺らめきます。彼女はその神秘的な輝きから目を離さず、慎重に一歩踏み出します。カメラは彼女の動きに合わせてわずかに追従します。13～15 秒：彼女がもう一歩踏み出した瞬間、光は突然消えます。彼女は立ち止まり、困惑した様子で木々の間の暗闇を見つめます。雨音以外の静寂が流れます。暗転。フォトリアルなシネマティック・リアリズム、雰囲気のある雨の森、リアルな雨と霧、濡れた髪と衣服、自然な風の動き、繊細な表情の演技、自然な歩行動作、深い森の遠近感、冷たい青灰色の周囲と対照的な遠くの温かい琥珀色の光、浅い被写界深度、繊細な手持ちカメラの動き。光は常に遠くにあり、木々に部分的に遮られている状態を維持してください。光源を決して明らかにしないでください。超自然的な生物、他の人物、ホラーモンスター、ジャンプスケア、誇張された反応、シーンの切り替わり、顔の変化、服装の変化、歪んだ手、モーフィングは一切禁止です。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="雨の森のミステリアスな光">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10283)**
+
+**作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **ソース:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **公開日:** Sep 3, 2026
+
+---
+### 3D シネマティック・カートゥーン動画プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 9:16 の縦長アスペクト比で 10 秒間のシネマティックな 3D カートゥーンを作成するための動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+エピソード 3
+縦長 9:16 動画、10 秒間。シネマティックなスタイライズド 3D カートゥーン。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095337640304459776/img/q90cC4ZcPhb16cmv.jpg" width="600" alt="3D シネマティック・カートゥーン動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10282)**
+
+**作者:** [จูบใครคิดว่าไม่สำคัญ](https://x.com/unclekidtung) | **ソース:** [Link](https://x.com/unclekidtung/status/2095337708159906160) | **公開日:** Sep 3, 2026
+
+---
+### 嵐の海に沈む飛行機の残骸
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 嵐の海に沈んだ飛行機の残骸の上に座る女性を捉えた、ムードのあるシネマティックなショット。
+
+#### 📝 プロンプト
+
+```
+嵐の海に半分沈んだ、錆びついた白い飛行機の残骸の翼の上に、裸足で座る濡れた長い髪の若い女性を捉えたシネマティックなワイドショット。赤いテールライトがまだ光っている。重く垂れ込める灰色の雲。暗い岩場や崖に打ち寄せる波。フォトリアル。ムードのある雰囲気。超高精細。8k。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095012974671089664/img/PzQuNhY-VIzwslsz.jpg" width="600" alt="嵐の海に沈む飛行機の残骸">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10284)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2095308292243308887) | **公開日:** Sep 3, 2026
+
+---
+### Optimus が建設する火星の未来都市
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> イーロン・マスク氏のビジョンに基づき、Tesla の人型ロボット Optimus が火星で未来都市を建設する様子を視覚化した詳細な動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+イーロン・マスク氏のビジョンに基づく火星の映像。火星における未来都市の建設風景と、Tesla の人型ロボット Optimus が都市の構造物を積極的に建設・作業している様子。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095299106017034240/img/qFfksIef5wsl65Fu.jpg" width="600" alt="Optimus が建設する火星の未来都市">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10287)**
+
+**作者:** [Delestre](https://x.com/stephdel0204) | **ソース:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **公開日:** Sep 2, 2026
+
+---
 ### 静寂な月夜の「おやすみ」シーン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2027,120 +2142,6 @@ Rainbow Universe MsX および MrX プロトタイプのシネマティックな
 **作者:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **ソース:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **公開日:** Aug 25, 2026
 
 ---
-### リップシンクアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャラクターの口元を動かし、特定のテキストを話させるための動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-元の画像は変更せず、以下のセリフを口元に反映させてください：「Let your light so shine. I love you....」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="リップシンクアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9856)**
-
-**作者:** [Julio McCauley](https://x.com/CosmicJulioBro) | **ソース:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **公開日:** Aug 25, 2026
-
----
-### オデュッセウスの愛犬 GoPro シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> オデュッセウスの愛犬が 20 年ぶりに主人と再会するシーンを想定した、映画のような GoPro スタイルのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-GoPro スタイルのシーン。オデュッセウスの愛犬が 20 年ぶりに主人を即座に認識し、最後の思い出を分かち合った後に息を引き取る。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091971984561192961/img/GypxhYYMpVP-335K.jpg" width="600" alt="オデュッセウスの愛犬 GoPro シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10144)**
-
-**作者:** [Christopher Fryant](https://x.com/cfryant) | **ソース:** [Link](https://x.com/cfryant/status/2091974814709829632) | **公開日:** Aug 24, 2026
-
----
-### なびくスカーフのアーティスティックなアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 動く絵画のように、スカーフがなびく物理挙動をアニメーション化することに焦点を当てたアーティスティックな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-彼女の周囲で空中に舞うスカーフをアニメーション化します。絵画のような布の動きを表現することに重点を置いています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="なびくスカーフのアーティスティックなアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9800)**
-
-**作者:** [liviiiisssa](https://x.com/livisameno) | **ソース:** [Link](https://x.com/livisameno/status/2091951872047538472) | **公開日:** Aug 24, 2026
-
----
-### メビウス・コズミック・アース・リング
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 地球を取り巻く超現実的な宇宙的存在を描写した、映画的かつ形而上学的なプロンプト。
-
-#### 📝 プロンプト
-
-```
-最後の扉を開けると、そこにはメビウスがいた。メビウスはすべての存在を受け入れ、さらに昇華させ、そして体現する。メビウスの姿は地球を取り巻くリングのようで、この世のものとは思えないほど神秘的だった。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="メビウス・コズミック・アース・リング">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9803)**
-
-**作者:** [トビオ](https://x.com/8pdxah) | **ソース:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **公開日:** Aug 24, 2026
-
----
-### シュールなパステルカラーの猫型クリーチャーの動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> パステルカラーの風景の中をさまよう、シュールな猫のようなクリーチャーの夢のようなシーンを生成します。風景には浮遊する光や幻想的な建造物が満ちています。
-
-#### 📝 プロンプト
-
-```
-浮遊する光と幻想的な建造物に囲まれたパステルカラーの風景の中の、シュールな猫のようなクリーチャー。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="シュールなパステルカラーの猫型クリーチャーの動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9796)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **公開日:** Aug 24, 2026
-
----
-### フランス語のキャラクター音声
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> AI キャラクターに特定のフランス語のフレーズを話させ、発音や演技をテストするための指示プロンプトです。
-
-#### 📝 プロンプト
-
-```
-キャラクターにフランス語で「もちろんフランス語は話せるよ！私の母国語なんだから！」と言わせてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="フランス語のキャラクター音声">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9797)**
-
-**作者:** [Gilles Guerraz](https://x.com/gillesguerraz) | **ソース:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **公開日:** Aug 24, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2202,6 +2203,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-03T04:21:46.239Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-03T09:10:42.951Z</sub>
 
 </div>

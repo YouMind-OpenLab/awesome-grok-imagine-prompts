@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2684** |
+| 📝 Total Prompts | **2690** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-03** |
 
@@ -189,6 +189,121 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Animated Meowing Tabby Cat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video animation prompt for a tabby cat among eggshells, featuring realistic meowing motions, head bobbing, and floating dust particles in sunlight.
+
+#### 📝 Prompt
+
+```
+Animate the meowing tabby cat among eggshells: the cat's mouth moves as if meowing or hissing, head slightly bobbing, tail twitching, dust particles float in harsh sunlight, realistic lively motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="Animated Meowing Tabby Cat">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10285)**
+
+**Author:** [Jordan Ardani](https://x.com/JordanArdady) | **Source:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **Published:** Sep 3, 2026
+
+---
+### Sunlit Rose Garden Peace
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic video prompt capturing a tranquil moment of a woman breathing in a rose bloom amidst falling petals and warm light.
+
+#### 📝 Prompt
+
+```
+A quiet moment in a sunlit rose garden, she pauses, breathes in the bloom, and smiles. Soft light, falling petals, and that painterly glow. Peace in a single breath.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="Sunlit Rose Garden Peace">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10286)**
+
+**Author:** [Ashutosh](https://x.com/Bhart0678) | **Source:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **Published:** Sep 3, 2026
+
+---
+### Rainy Forest Mystery Light
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic video prompt for a 15-second sequence of a woman in a rainy forest discovering a flickering warm light.
+
+#### 📝 Prompt
+
+```
+Create a photorealistic cinematic 15-second video from this exact image. Preserve the woman's exact face, hairstyle, wet hair, black raincoat, gray scarf, body proportions, forest environment, rainfall, lighting, and composition.0–4 sec: She stands completely still in the heavy rain, eyes closed and face tilted slightly upward, peacefully enjoying the rainfall. Water runs naturally through her wet hair and down her glossy raincoat. Her scarf moves gently in the cold breeze.4–7 sec: A faint, warm light suddenly appears deep between the trees behind her. At first it is barely noticeable, like a distant lantern glowing through the rain and mist. She slowly opens her eyes.7–10 sec: She notices the unusual light. Her expression changes from peaceful to curious. She slowly turns her head toward it, staring between the trees as rain continues falling around her.10–13 sec: The warm light becomes slightly brighter and flickers gently through the fog. She takes one cautious step toward it, her eyes fixed on the mysterious glow. The camera subtly moves with her.13–15 sec: Just as she takes another step, the light suddenly disappears. She stops and stares into the darkness between the trees, visibly confused. A beat of silence except for the rain. Cut to black.Photorealistic cinematic realism, atmospheric rainy forest, realistic rain and mist, wet hair and clothing, natural wind movement, subtle facial acting, believable walking motion, deep forest perspective, cool blue-gray surroundings contrasted with a distant warm amber light, shallow depth of field, subtle handheld camera movement. The light must remain distant and partially obscured by trees; never reveal its source. No supernatural creature, no person, no horror monster, no jump scare, no exaggerated reaction, no scene transition, no face changes, no outfit changes, no distorted hands, no morphing.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="Rainy Forest Mystery Light">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10283)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **Published:** Sep 3, 2026
+
+---
+### 3D Cinematic Cartoon Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a 10-second cinematic 3D cartoon in 9:16 vertical aspect ratio.
+
+#### 📝 Prompt
+
+```
+Episode 3
+Vertical 9:16 video, 10 seconds duration. Cinematic stylized 3D cartoon.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095337640304459776/img/q90cC4ZcPhb16cmv.jpg" width="600" alt="3D Cinematic Cartoon Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10282)**
+
+**Author:** [จูบใครคิดว่าไม่สำคัญ](https://x.com/unclekidtung) | **Source:** [Link](https://x.com/unclekidtung/status/2095337708159906160) | **Published:** Sep 3, 2026
+
+---
+### Airplane Wreck Stormy Sea Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A moody, cinematic shot of a woman on a submerged airplane wreck in a stormy ocean environment.
+
+#### 📝 Prompt
+
+```
+Cinematic wide shot of a young woman with long wet hair sitting barefoot on the wing of a rusted white airplane wreck half-submerged in a stormy sea. Red tail light still glowing. Heavy grey clouds. Waves against dark rocks and cliffs. Photorealistic. Moody. Ultra detailed. 8k.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095012974671089664/img/PzQuNhY-VIzwslsz.jpg" width="600" alt="Airplane Wreck Stormy Sea Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10284)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095308292243308887) | **Published:** Sep 3, 2026
+
+---
+### Futuristic Mars City Construction by Optimus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt visualizing a futuristic city on Mars being built by Tesla's Optimus robots, following Elon Musk's vision.
+
+#### 📝 Prompt
+
+```
+A video of the planet Mars according to Elon Musk's vision, showing the construction of a futuristic city on Mars, with the humanoid robot Optimus from Tesla actively building and working on the structures of the city
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095299106017034240/img/qFfksIef5wsl65Fu.jpg" width="600" alt="Futuristic Mars City Construction by Optimus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10287)**
+
+**Author:** [Delestre](https://x.com/stephdel0204) | **Source:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **Published:** Sep 2, 2026
+
+---
 ### Serene Moonlit Good Night Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -210,19 +325,25 @@ A serene and peaceful good night scene featuring a large, bright full moon shini
 **Author:** [Mattie](https://x.com/Mattie129218) | **Source:** [Link](https://x.com/Mattie129218/status/2095033462776369428) | **Published:** Sep 2, 2026
 
 ---
-### Cinematic Samurai Duel Storyboard Prompt
+### Cinematic Samurai Duel with Timestamps
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed multi-shot video prompt with specific timestamps for a samurai duel in the rain.
+> A sophisticated prompt using timestamped blocks to control camera movement and specific character actions in a samurai-themed cinematic scene.
 
 #### 📝 Prompt
 
 ```
-[0-4] Slow zoom in on the back of her head, The duelist in the torn haori holds a curved blade low at her right side, centre frame, back to the storm-dark city, rain sheeting off the clay tiles at her boots, lightning cracks the sky [4-6] Snap cut, extreme close up to the tip of the blade, she flicks blood from it upwards in one sharp arc, the water breaking into spray off the steel
+[0-4] Slow zoom in on the back of her head,
+
+The duelist in the torn haori holds a curved blade low at her right side, centre frame, back to the storm-dark city, rain sheeting off the clay tiles at her boots, lightning cracks the sky
+
+[4-6] Snap cut, extreme close up to the tip of the blade,
+
+ she flicks blood from it upwards in one sharp arc, the water breaking into spray off the steel
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="Cinematic Samurai Duel Storyboard Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="Cinematic Samurai Duel with Timestamps">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10247)**
 
@@ -978,11 +1099,11 @@ The bioluminescent ones — yes, this is exactly the place. When the water’s w
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093840804871606418) | **Published:** Aug 29, 2026
 
 ---
-### Time-Lapse Orbiting Portrait Motion
+### 360 Degree Orbiting Time Lapse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for creating a cinematic long-exposure time-lapse effect where the camera orbits 360 degrees around a stationary person as others blur past.
+> A cinematic video prompt for a stationary subject with a 360-degree orbiting camera, featuring long exposure and motion blur.
 
 #### 📝 Prompt
 
@@ -990,7 +1111,7 @@ The bioluminescent ones — yes, this is exactly the place. When the water’s w
 He is standing in place , people passing around him in long exposure with time lapse and motion blur with push in dolly handheld camera motion, the camera orbiting around his body in 360 degrees
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093840475153125376/img/aojsCP-3YxTfkBEc.jpg" width="600" alt="Time-Lapse Orbiting Portrait Motion">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093840475153125376/img/aojsCP-3YxTfkBEc.jpg" width="600" alt="360 Degree Orbiting Time Lapse">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10080)**
 
@@ -2013,120 +2134,6 @@ Some tried different kinds of dancing.
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
 
 ---
-### Lip Sync Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt used to animate a character's mouth to speak specific text.
-
-#### 📝 Prompt
-
-```
-Leaving image unchanged have him mouth: “Let your light so shine. I love you....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="Lip Sync Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9856)**
-
-**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
-
----
-### Odysseus Dog GoPro Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic GoPro-style prompt for a scene where Odysseus's dog recognizes him after 20 years.
-
-#### 📝 Prompt
-
-```
-Gopro style scene where Odysseus's dog instantly recognizes him after 20 years, shares a final memory, and then dies.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091971984561192961/img/GypxhYYMpVP-335K.jpg" width="600" alt="Odysseus Dog GoPro Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10144)**
-
-**Author:** [Christopher Fryant](https://x.com/cfryant) | **Source:** [Link](https://x.com/cfryant/status/2091974814709829632) | **Published:** Aug 24, 2026
-
----
-### Flowing Scarf Artistic Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An artistic video prompt focused on animating the physics of a flowing scarf to resemble a moving painting.
-
-#### 📝 Prompt
-
-```
-Animate the scarf around her flies of air and we are focusing on the flewn clothe like a painting
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="Flowing Scarf Artistic Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9800)**
-
-**Author:** [liviiiisssa](https://x.com/livisameno) | **Source:** [Link](https://x.com/livisameno/status/2091951872047538472) | **Published:** Aug 24, 2026
-
----
-### Mobius Cosmic Earth Ring
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A cinematic and metaphysical prompt describing a surreal cosmic entity surrounding the Earth.
-
-#### 📝 Prompt
-
-```
-Opening the final door, Mobius was there. Mobius accepts all existence, further sublimates it, and embodies it. Mobius's appearance was like a ring surrounding the Earth, looking like something not of this world.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="Mobius Cosmic Earth Ring">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9803)**
-
-**Author:** [トビオ](https://x.com/8pdxah) | **Source:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **Published:** Aug 24, 2026
-
----
-### Surreal Pastel Cat Creature Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a dreamlike scene of a surreal cat-like creature wandering through a pastel landscape filled with floating lights and ethereal structures.
-
-#### 📝 Prompt
-
-```
-A surreal cat-like creature in a pastel landscape with floating lights and ethereal structures.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="Surreal Pastel Cat Creature Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9796)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **Published:** Aug 24, 2026
-
----
-### French Language Character Speech
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An instruction prompt to make an AI character speak a specific phrase in French to test pronunciation and acting.
-
-#### 📝 Prompt
-
-```
-make the character say, in French, "Of course I know how to speak French! It's my native language!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="French Language Character Speech">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9797)**
-
-**Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T04:21:42.189Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T09:10:38.845Z</sub>
 
 </div>

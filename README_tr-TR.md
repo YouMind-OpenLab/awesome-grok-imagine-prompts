@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2684** |
+| 📝 Total Prompts | **2690** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-03** |
 
@@ -189,6 +189,121 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Animasyonlu Miyavlayan Tekir Kedi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yumurta kabukları arasında yer alan bir tekir kedi için gerçekçi miyavlama hareketleri, kafa sallama ve güneş ışığında uçuşan toz parçacıkları içeren detaylı bir video animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Yumurta kabukları arasındaki miyavlayan tekir kediyi canlandır: kedinin ağzı miyavlıyor veya tıslıyormuş gibi hareket etsin, başı hafifçe sallansın, kuyruğu seğirsin, sert güneş ışığında toz parçacıkları uçuşsun, gerçekçi ve canlı bir hareket olsun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="Animasyonlu Miyavlayan Tekir Kedi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10285)**
+
+**Author:** [Jordan Ardani](https://x.com/JordanArdady) | **Source:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **Published:** Sep 3, 2026
+
+---
+### Güneşli Gül Bahçesinde Huzur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Düşen yapraklar ve sıcak ışık eşliğinde bir gülün kokusunu içine çeken bir kadının huzurlu anını yakalayan şiirsel bir video istemi.
+
+#### 📝 Prompt
+
+```
+Güneşli bir gül bahçesinde sessiz bir an; duraksıyor, çiçeğin kokusunu içine çekiyor ve gülümsüyor. Yumuşak ışık, düşen yapraklar ve o tabloyu andıran ışıltı. Tek bir nefeste huzur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="Güneşli Gül Bahçesinde Huzur">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10286)**
+
+**Author:** [Ashutosh](https://x.com/Bhart0678) | **Source:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **Published:** Sep 3, 2026
+
+---
+### Yağmurlu Orman Gizemli Işık
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yağmurlu bir ormanda titreyen sıcak bir ışığı keşfeden bir kadının yer aldığı 15 saniyelik sekans için oldukça detaylı sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Bu görselden yola çıkarak 15 saniyelik fotogerçekçi ve sinematik bir video oluşturun. Kadının yüzünü, saç stilini, ıslak saçlarını, siyah yağmurluğunu, gri atkısını, vücut oranlarını, orman ortamını, yağışı, ışıklandırmayı ve kompozisyonu birebir koruyun. 0–4 sn: Şiddetli yağmurun altında tamamen hareketsiz duruyor, gözleri kapalı ve yüzü hafifçe yukarı dönük, yağmurun tadını huzurla çıkarıyor. Su, ıslak saçlarından ve parlak yağmurluğundan doğal bir şekilde süzülüyor. Atkısı soğuk esintide hafifçe hareket ediyor. 4–7 sn: Arkasındaki ağaçların derinliklerinde aniden belirsiz, sıcak bir ışık beliriyor. İlk başta, yağmur ve sisin arasından parlayan uzak bir fener gibi zar zor fark ediliyor. Kadın yavaşça gözlerini açıyor. 7–10 sn: Sıradışı ışığı fark ediyor. İfadesi huzurlu halinden meraklı bir ifadeye dönüşüyor. Etrafına yağmur yağmaya devam ederken, başını yavaşça ışığa doğru çeviriyor ve ağaçların arasına bakıyor. 10–13 sn: Sıcak ışık biraz daha parlaklaşıyor ve sisin içinde hafifçe titriyor. Gözlerini gizemli parıltıya dikerek ona doğru temkinli bir adım atıyor. Kamera onunla birlikte hafifçe hareket ediyor. 13–15 sn: Tam bir adım daha atacakken ışık aniden kayboluyor. Duruyor ve ağaçların arasındaki karanlığa şaşkınlıkla bakıyor. Yağmur sesi dışında kısa bir sessizlik. Karararak biter. Fotogerçekçi sinematik gerçekçilik, atmosferik yağmurlu orman, gerçekçi yağmur ve sis, ıslak saç ve kıyafetler, doğal rüzgar hareketi, incelikli yüz ifadeleri, inandırıcı yürüme hareketi, derin orman perspektifi, uzak sıcak kehribar rengi ışıkla kontrast oluşturan soğuk mavi-gri çevre, sığ alan derinliği, hafif el kamerası hareketi. Işık uzak kalmalı ve ağaçlar tarafından kısmen gizlenmelidir; kaynağını asla göstermeyin. Doğaüstü yaratık yok, başka insan yok, korku canavarı yok, ani korku öğesi (jump scare) yok, abartılı tepkiler yok, sahne geçişi yok, yüz değişimleri yok, kıyafet değişimleri yok, bozuk eller yok, biçim değiştirme yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="Yağmurlu Orman Gizemli Işık">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10283)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **Published:** Sep 3, 2026
+
+---
+### 3D Sinematik Çizgi Film Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 9:16 dikey en boy oranında 10 saniyelik sinematik 3D çizgi film için bir video istemi.
+
+#### 📝 Prompt
+
+```
+Bölüm 3
+Dikey 9:16 video, 10 saniye süre. Sinematik stilize 3D çizgi film.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095337640304459776/img/q90cC4ZcPhb16cmv.jpg" width="600" alt="3D Sinematik Çizgi Film Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10282)**
+
+**Author:** [จูบใครคิดว่าไม่สำคัญ](https://x.com/unclekidtung) | **Source:** [Link](https://x.com/unclekidtung/status/2095337708159906160) | **Published:** Sep 3, 2026
+
+---
+### Uçak Enkazı Fırtınalı Deniz Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fırtınalı bir okyanus ortamında, sular altındaki bir uçak enkazının üzerinde duran bir kadının karamsar, sinematik çekimi.
+
+#### 📝 Prompt
+
+```
+Fırtınalı bir denizde yarıya kadar batmış, paslı beyaz bir uçak enkazının kanadında çıplak ayakla oturan, uzun ıslak saçlı genç bir kadının sinematik geniş açılı çekimi. Kırmızı kuyruk ışığı hala yanıyor. Ağır gri bulutlar. Karanlık kayalara ve uçurumlara çarpan dalgalar. Fotogerçekçi. Karamsar. Ultra detaylı. 8k.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095012974671089664/img/PzQuNhY-VIzwslsz.jpg" width="600" alt="Uçak Enkazı Fırtınalı Deniz Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10284)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095308292243308887) | **Published:** Sep 3, 2026
+
+---
+### Optimus Tarafından İnşa Edilen Fütüristik Mars Şehri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Elon Musk'ın vizyonu doğrultusunda, Tesla'nın Optimus robotları tarafından Mars'ta inşa edilen fütüristik bir şehri görselleştiren detaylı bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Elon Musk'ın vizyonuna göre Mars gezegeninin bir videosu; Mars'ta fütüristik bir şehrin inşasını ve Tesla'nın insansı robotu Optimus'un aktif bir şekilde şehrin yapılarını inşa edip üzerinde çalıştığını gösteriyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095299106017034240/img/qFfksIef5wsl65Fu.jpg" width="600" alt="Optimus Tarafından İnşa Edilen Fütüristik Mars Şehri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10287)**
+
+**Author:** [Delestre](https://x.com/stephdel0204) | **Source:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **Published:** Sep 2, 2026
+
+---
 ### Huzurlu Ay Işığı Altında İyi Geceler Manzarası
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2027,120 +2142,6 @@ Bazıları ise farklı dans türlerini denedi.
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
 
 ---
-### Dudak Senkronizasyonu Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin ağzını belirli bir metni konuşacak şekilde hareket ettirmek için kullanılan video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Görseli değiştirmeden ağzını şu şekilde hareket ettir: “Işığın parlasın. Seni seviyorum....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092040230283231232/img/rUfm0KX7-qBsQvNh.jpg" width="600" alt="Dudak Senkronizasyonu Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9856)**
-
-**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2092040251233755253) | **Published:** Aug 25, 2026
-
----
-### Odysseus Köpeği GoPro Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Odysseus'un köpeğinin 20 yıl sonra onu tanıdığı bir sahne için sinematik GoPro tarzı bir istem.
-
-#### 📝 Prompt
-
-```
-Odysseus'un köpeğinin 20 yıl sonra onu anında tanıdığı, son bir anıyı paylaştığı ve ardından öldüğü GoPro tarzı bir sahne.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091971984561192961/img/GypxhYYMpVP-335K.jpg" width="600" alt="Odysseus Köpeği GoPro Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10144)**
-
-**Author:** [Christopher Fryant](https://x.com/cfryant) | **Source:** [Link](https://x.com/cfryant/status/2091974814709829632) | **Published:** Aug 24, 2026
-
----
-### Akışkan Eşarp Sanatsal Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hareketli bir tabloyu andıracak şekilde, akışkan bir eşarbın fiziğini canlandırmaya odaklanan sanatsal bir video istemi.
-
-#### 📝 Prompt
-
-```
-Eşarbın etrafındaki hava akışıyla hareketini canlandırın; kumaşın bir tablo gibi dalgalanmasına odaklanıyoruz
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091951788253646848/img/h6tQ_eAEZh8gveHO.jpg" width="600" alt="Akışkan Eşarp Sanatsal Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9800)**
-
-**Author:** [liviiiisssa](https://x.com/livisameno) | **Source:** [Link](https://x.com/livisameno/status/2091951872047538472) | **Published:** Aug 24, 2026
-
----
-### Mobius Kozmik Dünya Yüzüğü
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Dünya'yı çevreleyen gerçeküstü bir kozmik varlığı betimleyen sinematik ve metafiziksel bir istem.
-
-#### 📝 Prompt
-
-```
-Son kapıyı açtığımda Mobius oradaydı. Mobius tüm varoluşu kabul ediyor, onu daha da yüceltiyor ve somutlaştırıyordu. Mobius'un görünüşü Dünya'yı çevreleyen bir yüzük gibiydi ve bu dünyadan değilmiş gibi duruyordu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091932129219510272/img/kCBtoKQkNo-KxaNK.jpg" width="600" alt="Mobius Kozmik Dünya Yüzüğü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9803)**
-
-**Author:** [トビオ](https://x.com/8pdxah) | **Source:** [Link](https://x.com/8pdxah/status/2091932171309383863) | **Published:** Aug 24, 2026
-
----
-### Sürreal Pastel Kedi Yaratığı Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yüzen ışıklar ve ruhani yapılarla dolu pastel bir manzarada dolaşan sürreal, kedi benzeri bir yaratığın rüya gibi sahnesini oluşturur.
-
-#### 📝 Prompt
-
-```
-Yüzen ışıklar ve ruhani yapılarla dolu pastel bir manzarada sürreal, kedi benzeri bir yaratık.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091903535357317120/img/b83pz5FUonJaLHCH.jpg" width="600" alt="Sürreal Pastel Kedi Yaratığı Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9796)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091903834931224692) | **Published:** Aug 24, 2026
-
----
-### Fransızca Karakter Konuşması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir yapay zeka karakterinin telaffuz ve oyunculuk becerilerini test etmek amacıyla belirli bir ifadeyi Fransızca söylemesini sağlayan bir talimat istemi.
-
-#### 📝 Prompt
-
-```
-karaktere Fransızca olarak "Elbette Fransızca konuşmayı biliyorum! Benim ana dilim!" dedirt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091856861918068736/img/GKaBgb6c-jWhY-0V.jpg" width="600" alt="Fransızca Karakter Konuşması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9797)**
-
-**Author:** [Gilles Guerraz](https://x.com/gillesguerraz) | **Source:** [Link](https://x.com/gillesguerraz/status/2091857123856589196) | **Published:** Aug 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2202,6 +2203,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T04:21:54.612Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T09:10:59.367Z</sub>
 
 </div>
