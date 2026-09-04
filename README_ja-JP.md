@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2690** |
+| 📝 プロンプト総数 | **2701** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-04** |
 
@@ -189,6 +189,196 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 忘れ去られた人々のペガサス飛行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 忘れ去られた貧しい人々が王族となり、ペガサスに乗って城へと飛び立つ様子を描いた比喩的なプロンプト。
+
+#### 📝 プロンプト
+
+```
+忘れ去られたすべての人々、貧しい人々がペガサスに乗り、王や女王となって彼らの城へと飛び立っていく
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="忘れ去られた人々のペガサス飛行">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10343)**
+
+**作者:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **ソース:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **公開日:** Sep 4, 2026
+
+---
+### 巨大な懐中時計の中の少女
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 砂漠の風景の中に置かれた巨大で錆びついた懐中時計の中に座る少女を描いた、映画のようで哀愁漂うビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+ひび割れた砂漠にある、巨大で錆びついた懐中時計の中に座る、古びた服を着た少女の映画のようなショット。割れたガラスの文字盤。背後には巨大で埃をかぶった歯車。壊れたクリスタル越しに差し込む黄金の太陽光。乾いた大地と枯れ木。絵画的。哀愁。超高精細。8k。Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="巨大な懐中時計の中の少女">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10342)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **公開日:** Sep 4, 2026
+
+---
+### タクシーを呼ぶ犬のアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 犬の写真を生き生きと動かすための Grok-imagine 用アニメーションプロンプトです。犬がまるでタクシーを呼んでいるかのように前足を上げる様子を描写します。
+
+#### 📝 プロンプト
+
+```
+この大きな耳の犬の写真をアニメーション化してください。まるでタクシーを呼ぼうとしているかのように、前足を上げさせてください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="タクシーを呼ぶ犬のアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10345)**
+
+**作者:** [Løen](https://x.com/l03n27) | **ソース:** [Link](https://x.com/l03n27/status/2095697750130123031) | **公開日:** Sep 4, 2026
+
+---
+### メカウォーリアー変形動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 緻密なメカパーツ、火花、スローモーションの動きを特徴とする、巨大ロボット変形のシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+次なる進化。機械が戦士へと変わる時、装甲は単なる防御を超越する。それは力となり、未来となる。変形せよ。武装せよ。制圧せよ。ビジュアルスタイル：シネマティック ＋ フォトリアル、巨大ロボットの変形、高度な技術、輝くエネルギーコア、機械的な変形プロセス、火花と煙、近未来の戦場、ドラマチックなライティング、スローモーションのカメラワーク、超高精細な 8K SF リアリズム。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="メカウォーリアー変形動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10344)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **公開日:** Sep 4, 2026
+
+---
+### 三日月と火星の空
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 明け方の空に三日月と火星が接近して見える様子をシネマティックに視覚化しました。
+
+#### 📝 プロンプト
+
+```
+2026 年 9 月 6 日の明け方の空で、三日月と火星が接近して見えます
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="三日月と火星の空">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10335)**
+
+**作者:** [Marie](https://x.com/Marie8508319540) | **ソース:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **公開日:** Sep 4, 2026
+
+---
+### 山間の谷に架かる工業用パイプ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 山間の谷に架かる巨大で錆びついた工業用パイプの上を、一人の人物が歩いている様子を捉えたシネマティックなワイドショット。
+
+#### 📝 プロンプト
+
+```
+岩だらけの山間の谷に架かる、巨大で錆びついた工業用パイプのシネマティックなワイドショット。パイプの先端にある壊れた円形のファンに向かって、頂上を歩く小さな一人の人物。嵐のような灰色の雲。油絵のような質感。ドラマチックな曇天の光。超高精細。8k。Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="山間の谷に架かる工業用パイプ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10339)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **公開日:** Sep 4, 2026
+
+---
+### 勝利を収めたサイボーグ剣闘士のシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 光り輝くサイバネティックアーマーを身にまとい、ドラマチックなカメラワークで捉えられた、勝利に沸く剣闘士のための詳細なシネマティック動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+勝利の結末：サイボーグの剣闘士がアリーナで勝利を収め、青く光るアーマーとサイバーアイが輝いている。背景ではライオンが敵を仕留めており、ゆっくりとしたドラマチックなカメラの旋回、舞い上がる砂埃、英雄的なポーズ。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="勝利を収めたサイボーグ剣闘士のシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10337)**
+
+**作者:** [Cicada AQ](https://x.com/CicadaAQum) | **ソース:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **公開日:** Sep 3, 2026
+
+---
+### 炭鉱で働く女性のシネマティックなクローズアップ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けのシネマティックな詳細プロンプト。暗いトンネル内で炭にまみれた女性鉱夫に焦点を当て、目が燃えるような琥珀色に変わるドラマチックなライティングを強調しています。
+
+#### 📝 プロンプト
+
+```
+暗い円形の炭鉱トンネル内にいる、炭にまみれた女性鉱夫のシネマティックなクローズアップ。ひび割れて光るヘッドランプが付いた使い古されたヘルメット。黒い粉塵で覆われた顔。強烈な眼差し。片目がゆっくりと燃えるような琥珀色に変化する。肌の炭のような質感。ムードのあるシングルソースライト。フォトリアルな絵画調。超高精細。8k。Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="炭鉱で働く女性のシネマティックなクローズアップ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10340)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **公開日:** Sep 3, 2026
+
+---
+### 抽象的な光子の変容動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 光子が恐怖や苦しみといった負の感情を、愛や幸福へと変容させる様子を描いたコンセプト動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+美しい色彩の光子が、恐怖を愛に、悪を善に、そして苦しみを幸福へと変容させる動画を作成してください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="抽象的な光子の変容動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10338)**
+
+**作者:** [Joane](https://x.com/thejoaneunit) | **ソース:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **公開日:** Sep 3, 2026
+
+---
+### プレアデス星人の母船 Ultra HD
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ボリュームライトを使用した円盤型母船を生成するための高解像度 SF プロンプト。
+
+#### 📝 プロンプト
+
+```
+光の船に乗ったプレアデス星人と円盤型の母船、傑作、Ultra HD 高品質、11111111111111111199999999999999 k 解像度、ボリューム感のある明るい照明の色調と陰影
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="プレアデス星人の母船 Ultra HD">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10336)**
+
+**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **ソース:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **公開日:** Sep 3, 2026
+
+---
 ### 鳴いているキジトラ猫のアニメーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -302,6 +492,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10287)**
 
 **作者:** [Delestre](https://x.com/stephdel0204) | **ソース:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **公開日:** Sep 2, 2026
+
+---
+### 若き日のクレオパトラとエジプトの風景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 未来の運命を見据えながらエジプトの地を眺める、若き日のクレオパトラを視覚化。
+
+#### 📝 プロンプト
+
+```
+いつかこの地を統治することを確信し、エジプトを眺める若き日のクレオパトラ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095297599641427968/img/RLicB_jR0nFF0exF.jpg" width="600" alt="若き日のクレオパトラとエジプトの風景">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10341)**
+
+**作者:** [Christi McGuffey](https://x.com/crermc7) | **ソース:** [Link](https://x.com/crermc7/status/2095297619492851887) | **公開日:** Sep 2, 2026
 
 ---
 ### 静寂な月夜の「おやすみ」シーン
@@ -1927,221 +2136,6 @@ SpaceX のフォージクルーが MrFIXitX 月面基地の植民化に向けて
 **作者:** [Ami A](https://x.com/AA63782) | **ソース:** [Link](https://x.com/AA63782/status/2092525163887853620) | **公開日:** Aug 26, 2026
 
 ---
-### 赤いマーメイドドレスのファッションランウェイ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ファッションショーのランウェイで、赤いマーメイドドレスとハイバン（お団子ヘア）を披露するモデルのための詳細なビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-この女性モデルが、ルーズなカールをあしらったハイバンヘアと、美しい赤いマーメイドスタイルのドレスを着用し、ランウェイでロングパーティードレスを披露します
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="赤いマーメイドドレスのファッションランウェイ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9860)**
-
-**作者:** [Esther Santana](https://x.com/esther_san41998) | **ソース:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **公開日:** Aug 26, 2026
-
----
-### 巨大なパイナップルを切る女性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 女性が画面に登場し、巨大なパイナップルを半分に切ると、中から黄色く瑞々しい果肉が現れるというシネマティックな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-魅力的な 23 歳の女性が画面に登場し、パイナップルを半分に切る。中からは黄色く瑞々しいパイナップルの果肉が見える
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092450891580252160/img/c0BOWAW0nvo8h3hG.jpg" width="600" alt="巨大なパイナップルを切る女性">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9919)**
-
-**作者:** [seeksteve](https://x.com/seeksteve) | **ソース:** [Link](https://x.com/seeksteve/status/2092454370650591648) | **公開日:** Aug 26, 2026
-
----
-### マシュマロラテの上で眠る猫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ラテアートの上に浮かぶマシュマロの上で眠る小さな猫をテーマにした、幻想的で可愛らしい動画プロンプトです。癒やし系のビジュアルコンテンツに最適です。
-
-#### 📝 プロンプト
-
-```
-巨大なマシュマロの上で眠る小さな猫。そのマシュマロはラテアートが施されたコーヒーの上に浮かんでいる
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="マシュマロラテの上で眠る猫">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9854)**
-
-**作者:** [Maxime](https://x.com/Maxime887812) | **ソース:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **公開日:** Aug 25, 2026
-
----
-### 穏やかな動きを伴う幻想的なポートレート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> オデュッセウスとペネロペにインスパイアされた、柔らかな風と髪の揺れでキャラクターの深い献身を捉えたビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-風が彼女の長い髪と流れるようなドレスの裾を優しくなびかせる。大きな動きはなく、彼女はオデュッセウスの方を向き、遊び心がありながらもひたむきな眼差しで彼と視線を合わせる。彼女の表情は柔らかく、熱を帯びており、唇はわずかに開かれ、瞳は静かな情熱と深い献身に満ちている
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092362822286032898/img/VBlJOLcS7ICgtbKs.jpg" width="600" alt="穏やかな動きを伴う幻想的なポートレート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9930)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2092362908936057342) | **公開日:** Aug 25, 2026
-
----
-### Rainbow Universe SF プロトタイプ公開
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 虹色の宇宙を舞台に、仲間たちや偉大な天才たちのホログラフィック・アバターが軌道を描く、SF シネマティック・シーン。
-
-#### 📝 プロンプト
-
-```
-Rainbow Universe MsX および MrX プロトタイプのシネマティックな公開：人間味あふれるフレンドリーな仲間たちが温かい笑顔で優しく動き、登録者や偉大な天才たち（Tesla、Franklin、そして多様な知性）のホログラフィックな wiki アバターが、ゆっくりと軌道を描きながら柔らかく輝きます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="Rainbow Universe SF プロトタイプ公開">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9855)**
-
-**作者:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **ソース:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **公開日:** Aug 25, 2026
-
----
-### 宇宙オリンピックのロボットシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 星雲のエフェクトが漂う宇宙のオリンピックスタジアムに佇むロボットを描いた、映画のようなプロンプト。
-
-#### 📝 プロンプト
-
-```
-映画のようなワイドなヒーローイメージ、柔らかな虹色の星雲が広がる暗い宇宙の背景、中距離には柔らかな青と金の照明に照らされたオリンピックスタジアムのステージ、左側には優雅に立つ親しみやすい Yin スタイルの穏やかな女性型 Soft RA MsX ロボット...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="宇宙オリンピックのロボットシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9859)**
-
-**作者:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **ソース:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **公開日:** Aug 25, 2026
-
----
-### 穏やかな海を進むヨット
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 帆を膨らませて海を滑るように進むヨットのリアルな動画。
-
-#### 📝 プロンプト
-
-```
-穏やかな青い海をヨットが優雅に進んでいきます。白い帆がそよ風を受けて柔らかく膨らみ、船体の周りではさざ波が立ち、きらめく光を反射しています。澄み渡る青空には柔らかな雲がゆっくりと流れ、リアルな動きが表現されています...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="穏やかな海を進むヨット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9857)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **公開日:** Aug 25, 2026
-
----
-### モネ風のボートを漕ぐカエル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1800 年代の服を着たカエルがモネ風の睡蓮の池でボートを漕ぐ様子を描いた、詳細な印象派スタイルの動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-9:16 の静止画、スピード重視。モネの睡蓮の池に浮かぶ小さな木製のボート。フォトリアルでありながら、厚塗りされた青、緑、クリームゴールドの光が混ざり合う、乾いていない絵の具のような水面を表現した印象派の油絵スタイル。ボートは 1 隻のみ。ボートの中には、1800 年代後半の服を着た可愛らしい小さなカエル。小さなカンカン帽、ストライプのベスト、短いジャケットを身にまとい、真剣かつ楽しげにミニチュアのオールで漕いでいる。厚塗りの睡蓮、岸辺にはキャンバスの質感、1870 年代の色調に 1990 年代のフィルムのような粒子感を重ねる。人物や他のボートは登場させず、暗い雰囲気も排除する。コンセプト：描かれた水面を真剣に漕ぐカエル。美しく、少しユーモラスな雰囲気。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="モネ風のボートを漕ぐカエル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9858)**
-
-**作者:** [Lucy](https://x.com/princess414141) | **ソース:** [Link](https://x.com/princess414141/status/2092229826128093365) | **公開日:** Aug 25, 2026
-
----
-### 山岳の龍樹
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 嵐の山道で、松の枝から浮かび上がる龍の顔が隠された、絶景の風景プロンプト。
-
-#### 📝 プロンプト
-
-```
-2 本の松の間から遠くの山間の峠を望む。雲が立ち込め雷鳴が轟く中、わずかに見える月明かりの下、松の枝の中に 2 つの龍の顔が徐々に浮かび上がる
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="山岳の龍樹">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9802)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **公開日:** Aug 25, 2026
-
----
-### 空飛ぶペガサス・マスタング
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 翼を持ち、飛行や水上走行が可能な白い Ford Mustang を描くための、詳細なビジョンボード用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-サイドから雄大な白いペガサスの翼が伸びた、流線型の白い Ford Mustang マッスルカー。飛行が可能で、ボートのように水面に浮かび、道路も走行できる。光沢のある白い塗装仕上げ、クロームのディテール -- A.I. ビジョンボード用 - フォーカス
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="空飛ぶペガサス・マスタング">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9801)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **公開日:** Aug 25, 2026
-
----
-### 多様なダンススタイルのシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> バレエやその他のダンススタイルを踊るダンサーたちが共演する動画のための記述的プロンプト。
-
-#### 📝 プロンプト
-
-```
-ダンサーたちは音楽に耳を傾け、踊り始めました。
-
-一緒に踊る者もいれば、
-
-バレエを踊る者もいました。
-
-また、さまざまな種類のダンスに挑戦する者もいました。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="多様なダンススタイルのシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9798)**
-
-**作者:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **ソース:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **公開日:** Aug 25, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2203,6 +2197,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-04T04:19:46.504Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-04T09:09:36.952Z</sub>
 
 </div>

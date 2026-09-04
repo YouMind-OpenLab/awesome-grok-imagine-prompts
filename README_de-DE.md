@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2690** |
+| 📝 Total Prompts | **2701** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-04** |
 
@@ -189,6 +189,196 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Der Pegasus-Flug der Vergessenen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein metaphorischer Prompt, bei dem die vergessenen Armen zu Königen werden und auf einem Pegasus zu einem Schloss fliegen.
+
+#### 📝 Prompt
+
+```
+All die vergessenen Menschen, all die armen Menschen steigen auf das Pferd Pegasus, werden zu Königen und Königinnen und fliegen zu ihrem Schloss.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="Der Pegasus-Flug der Vergessenen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10343)**
+
+**Author:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **Source:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **Published:** Sep 4, 2026
+
+---
+### Mädchen in riesiger Taschenuhr
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer und melancholischer Video-Prompt, der ein junges Mädchen zeigt, das in einer massiven, verrosteten Taschenuhr in einer Wüstenlandschaft sitzt.
+
+#### 📝 Prompt
+
+```
+Cineastische Aufnahme eines kleinen Mädchens in abgenutzter Kleidung, das in einer riesigen, verrosteten Taschenuhr in einer rissigen Wüste sitzt. Zerbrochenes Zifferblatt. Massive, staubige Zahnräder hinter ihr. Goldener Sonnenstrahl durch das zerbrochene Glas. Trockene Erde und abgestorbene Sträucher. Malerisch. Melancholisch. Ultra-detailliert. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="Mädchen in riesiger Taschenuhr">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10342)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **Published:** Sep 4, 2026
+
+---
+### Animation eines Hundes, der ein Taxi heranwinkt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Animations-Prompt für Grok-imagine, der ein Foto eines Hundes zum Leben erweckt und ihn dabei zeigt, wie er seine Pfote hebt, als würde er ein Taxi heranwinken.
+
+#### 📝 Prompt
+
+```
+Animieren Sie dieses Foto des Hundes mit den großen Ohren so, dass er seine Pfote hebt, als wolle er ein Taxi heranwinken.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="Animation eines Hundes, der ein Taxi heranwinkt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10345)**
+
+**Author:** [Løen](https://x.com/l03n27) | **Source:** [Link](https://x.com/l03n27/status/2095697750130123031) | **Published:** Sep 4, 2026
+
+---
+### Mecha-Warrior-Transformationsvideo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kinoreifer Video-Prompt für einen massiven, sich verwandelnden Roboter mit detaillierten mechanischen Teilen, Funkenflug und Zeitlupenbewegungen.
+
+#### 📝 Prompt
+
+```
+DIE NÄCHSTE EVOLUTION Wenn Maschinen zu Kriegern werden, ist die Panzerung mehr als nur Schutz. Sie ist Macht. Sie ist die Zukunft. Transformieren. Bewaffnen. Dominieren. Visueller Stil: filmisch + fotorealistisch, massiver, sich verwandelnder Roboter, fortschrittlich, leuchtende Energiekerne, mechanische Transformation, Funken und Rauch, futuristisches Schlachtfeld, dramatische Beleuchtung, Zeitlupen-Kamerabewegung, hochdetaillierter 8K-Sci-Fi-Realismus.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="Mecha-Warrior-Transformationsvideo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10344)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **Published:** Sep 4, 2026
+
+---
+### Mondsichel und Mars am Himmel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine filmische Visualisierung der Mondsichel und des Mars, die kurz vor Sonnenaufgang nah beieinander am Himmel erscheinen.
+
+#### 📝 Prompt
+
+```
+Am 6. September 2026 werden die Mondsichel und der Mars in der Morgendämmerung nah beieinander am Himmel zu sehen sein.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="Mondsichel und Mars am Himmel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10335)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **Published:** Sep 4, 2026
+
+---
+### Industrierohr im Gebirgstal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine filmische Weitaufnahme, die ein massives, verrostetes Industrierohr zeigt, das ein Gebirgstal überspannt, mit einer einsamen Figur, die darauf entlanggeht.
+
+#### 📝 Prompt
+
+```
+Filmische Weitaufnahme eines kolossalen, verrosteten Industrierohrs, das ein felsiges Gebirgstal überspannt. Eine winzige, einsame Figur geht oben auf dem Rohr in Richtung eines zerbrochenen kreisförmigen Ventilators am offenen Ende. Stürmische graue Wolken. Malerische Ölfarben-Textur. Dramatisches bewölktes Licht. Ultra-detailliert. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="Industrierohr im Gebirgstal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10339)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **Published:** Sep 4, 2026
+
+---
+### Siegreiche Cyborg-Gladiatoren-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter filmischer Video-Prompt für einen triumphierenden Gladiator mit leuchtender kybernetischer Rüstung und einer dramatischen Kamera-Orbit-Bewegung.
+
+#### 📝 Prompt
+
+```
+Triumphales Ende: Der halb-kybernetische Gladiator steht siegreich in der Arena, leuchtende blaue Rüstung und Cyber-Auge, Löwen erledigen die Feinde im Hintergrund, langsamer dramatischer Kamera-Orbit, sich legender Staub, heldenhafte Pose.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="Siegreiche Cyborg-Gladiatoren-Szene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10337)**
+
+**Author:** [Cicada AQ](https://x.com/CicadaAQum) | **Source:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **Published:** Sep 3, 2026
+
+---
+### Filmische Nahaufnahme einer Bergarbeiterin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter filmischer Prompt für Grok Imagine, der eine kohlebedeckte Bergarbeiterin in einem dunklen Tunnel zeigt, mit Fokus auf dramatischer Beleuchtung, während sich ihr Auge in brennenden Bernstein verwandelt.
+
+#### 📝 Prompt
+
+```
+Filmische Nahaufnahme einer kohlebedeckten Bergarbeiterin in einem dunklen, kreisförmigen Minentunnel. Ramponierter Helm mit einer gesprungenen, leuchtenden Stirnlampe. Gesicht mit schwarzem Staub bedeckt. Intensiver Blick. Ein Auge entzündet sich langsam zu brennendem Bernstein. Holzkohletextur auf der Haut. Stimmungsvolles Licht aus einer einzigen Quelle. Fotorealistisch, malerisch. Ultra-detailliert. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="Filmische Nahaufnahme einer Bergarbeiterin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10340)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
+
+---
+### Abstraktes Video zur Photonen-Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein konzeptioneller Video-Prompt, der zeigt, wie Lichtphotonen negative Emotionen wie Angst und Leid in Liebe und Glück verwandeln.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Video, in dem wunderschöne farbige Photonen Angst in Liebe, das Böse in das Gute und Leid in Glück verwandeln
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="Abstraktes Video zur Photonen-Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10338)**
+
+**Author:** [Joane](https://x.com/thejoaneunit) | **Source:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **Published:** Sep 3, 2026
+
+---
+### Pleiadian Mothership Ultra HD
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochauflösender Sci-Fi-Prompt zur Generierung von untertassenförmigen Mutterschiffen mit volumetrischer Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Plejader in Lichtschiffen und untertassenförmigen Mutterschiffen, Meisterwerk, Ultra-HD-Qualität, 11111111111111111199999999999999 k Auflösung, volumetrische helle Beleuchtung, Farbtöne und Schattierungen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="Pleiadian Mothership Ultra HD">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10336)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **Published:** Sep 3, 2026
+
+---
 ### Animierte miauende getigerte Katze
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -302,6 +492,25 @@ Ein Video des Planeten Mars gemäß der Vision von Elon Musk, das den Bau einer 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10287)**
 
 **Author:** [Delestre](https://x.com/stephdel0204) | **Source:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **Published:** Sep 2, 2026
+
+---
+### Junge Kleopatra in der ägyptischen Landschaft
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Visualisiert eine junge Kleopatra, die mit einem Gefühl für ihre zukünftige Bestimmung auf das Land Ägypten blickt.
+
+#### 📝 Prompt
+
+```
+Die junge Kleopatra blickt auf Ägypten und weiß, dass sie es eines Tages regieren wird
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095297599641427968/img/RLicB_jR0nFF0exF.jpg" width="600" alt="Junge Kleopatra in der ägyptischen Landschaft">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10341)**
+
+**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2095297619492851887) | **Published:** Sep 2, 2026
 
 ---
 ### Ruhige Mondschein-Gute-Nacht-Szene
@@ -1926,221 +2135,6 @@ Ein sonnendurchfluteter, impressionistischer Garten, gleichzeitig fotorealistisc
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
 
 ---
-### Rotes Meerjungfrauen-Abendkleid auf dem Laufsteg
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt für ein Model, das auf einem Fashion-Laufsteg ein rotes Kleid im Meerjungfrauen-Stil und eine Hochsteckfrisur präsentiert.
-
-#### 📝 Prompt
-
-```
-Dieses Model präsentiert ein langes Abendkleid auf einem Laufsteg, trägt eine Hochsteckfrisur mit lockeren Wellen und ein wunderschönes rotes Kleid im Meerjungfrauen-Stil
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="Rotes Meerjungfrauen-Abendkleid auf dem Laufsteg">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9860)**
-
-**Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
-
----
-### Mädchen schneidet riesige Ananas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt, bei dem eine Frau die Szene betritt und eine riesige Ananas in zwei Hälften schneidet, um ihr gelbes, saftiges Inneres zu enthüllen.
-
-#### 📝 Prompt
-
-```
-attraktives 23-jähriges Mädchen betritt die Szene und schneidet die Ananas in zwei Hälften, gelbe saftige Ananas im Inneren
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092450891580252160/img/c0BOWAW0nvo8h3hG.jpg" width="600" alt="Mädchen schneidet riesige Ananas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9919)**
-
-**Author:** [seeksteve](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2092454370650591648) | **Published:** Aug 26, 2026
-
----
-### Schlafende Katze auf einem Marshmallow-Latte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein skurriler Video-Prompt mit einer winzigen Katze, die auf einem in Latte-Art schwimmenden Marshmallow schläft – perfekt für gemütliche und niedliche visuelle Inhalte.
-
-#### 📝 Prompt
-
-```
-Eine winzige Katze, die schlafend auf einem riesigen Marshmallow liegt; der Marshmallow schwimmt oben auf einem Kaffee mit Latte-Art
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="Schlafende Katze auf einem Marshmallow-Latte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
-
-**Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
-
----
-### Ätherisches Porträt mit sanfter Bewegung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, der die tiefe Hingabe einer Figur mit sanftem Wind und Haarbewegungen einfängt, inspiriert von Odysseus und Penelope.
-
-#### 📝 Prompt
-
-```
-Der Wind hebt sanft ihr langes Haar und den Saum ihres fließenden Kleides, keine großen Bewegungen. Sie dreht den Kopf, um Odysseus direkt anzusehen, und fixiert ihn mit einem verspielten, aber zutiefst loyalen Blick. Ihr Ausdruck ist weich und aufgeladen, die Lippen leicht geöffnet, die Augen warm und voller stiller Leidenschaft und tiefer Hingabe.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092362822286032898/img/VBlJOLcS7ICgtbKs.jpg" width="600" alt="Ätherisches Porträt mit sanfter Bewegung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9930)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092362908936057342) | **Published:** Aug 25, 2026
-
----
-### Enthüllung des Rainbow Universe Sci-Fi-Prototyps
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine filmreife Sci-Fi-Szene, die Begleiter und holografische Avatare berühmter Genies zeigt, welche in einem Regenbogen-Universum kreisen.
-
-#### 📝 Prompt
-
-```
-Filmreife, lebendige Enthüllung des Rainbow Universe MsX- und MrX-Prototyps: Die vermenschlichten, freundlichen Begleiter bewegen sich sanft mit einem warmen Lächeln, während die holografischen Wiki-Avatare von Abonnenten und verstorbenen Genies (Tesla, Franklin und diverse andere Köpfe) langsam ihre Bahnen ziehen und sanft leuchten.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="Enthüllung des Rainbow Universe Sci-Fi-Prototyps">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9855)**
-
-**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **Published:** Aug 25, 2026
-
----
-### Kosmische Roboter-Olympiade
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Prompt, der einen Roboter in einer kosmischen Olympiastadion-Umgebung mit Nebeleffekten beschreibt.
-
-#### 📝 Prompt
-
-```
-Cineastisches Weitwinkel-Hero-Bild, dunkler kosmischer Hintergrund mit sanftem Regenbogen-Nebel, Olympiastadion-Bühne in mittlerer Distanz mit sanfter blauer und goldener Beleuchtung, ein graziler, femininer Soft RA MsX Roboter, der anmutig auf der linken Seite im zugänglichen Yin-Stil steht,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="Kosmische Roboter-Olympiade">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9859)**
-
-**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **Published:** Aug 25, 2026
-
----
-### Segelboot auf ruhigem Wasser
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein realistisches Bewegtbild eines Segelboots, das mit geblähten Segeln durch den Ozean gleitet.
-
-#### 📝 Prompt
-
-```
-Das Segelboot gleitet sanft durch das ruhige, blaue Wasser des Ozeans, während sich die weißen Segel leicht im Wind blähen. Subtile Wellen kräuseln sich um den Rumpf und erzeugen funkelnde Reflexionen, während weiche Wolken langsam über den klaren blauen Himmel ziehen – eine realistische Bewegungsaufnahme...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="Segelboot auf ruhigem Wasser">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9857)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **Published:** Aug 25, 2026
-
----
-### Frosch im Ruderboot im Monet-Stil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter impressionistischer Video-Prompt eines Frosches in Kleidung des 19. Jahrhunderts, der in einem Seerosenteich im Monet-Stil rudert.
-
-#### 📝 Prompt
-
-```
-9:16 Standbild, geschwindigkeitsoptimiert. Ein kleines hölzernes Ruderboot auf einem Monet-Seerosenteich, fotorealistisch und zugleich ein impressionistisches Ölgemälde: kräftige Blau-, Grün- und cremefarbene Goldtöne, Wasser wie noch feuchte Farbe. Kein zweites Boot. Im Boot ein niedlicher kleiner Frosch in Kleidung des späten 19. Jahrhunderts: winziger Strohhut, gestreifte Weste, eine kurze Jacke, ernsthaft und fröhlich, beim Rudern mit einem Miniatur-Ruder. Impasto-Seerosen, sichtbare Leinwandstruktur am Ufer, filmische Körnung der 1990er Jahre über Farben der 1870er. Keine Menschen, keine zusätzlichen Boote, keine düstere Stimmung. Ein Gedanke: ein Frosch, der das gemalte Wasser ernst nimmt. Wunderschön und ein wenig albern.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="Frosch im Ruderboot im Monet-Stil">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9858)**
-
-**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092229826128093365) | **Published:** Aug 25, 2026
-
----
-### Berg-Drachenbaum
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein malerischer Landschafts-Prompt, der verborgene Drachengesichter zeigt, die in einem stürmischen Gebirgspass aus Kiefernzweigen hervortreten.
-
-#### 📝 Prompt
-
-```
-Beim Blick zwischen zwei Kiefern auf den fernen Pass zwischen den Bergen, wo Wolken donnern und eine Mondsichel steht, werden allmählich zwei Drachengesichter in den Zweigen der Kiefern sichtbar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="Berg-Drachenbaum">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9802)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **Published:** Aug 25, 2026
-
----
-### Fliegender Pegasus Mustang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Vision-Board-Prompt für einen weißen Ford Mustang mit Pegasus-Flügeln, der fliegen und auf dem Wasser fahren kann.
-
-#### 📝 Prompt
-
-```
-Ein eleganter weißer Ford Mustang Muscle-Car mit großen, majestätischen weißen Pegasus-Flügeln, die seitlich ausfahren. Das Fahrzeug kann fliegen, wie ein Boot auf dem Wasser schwimmen und auf Straßen fahren. Das Auto hat eine glänzende weiße Lackierung und Chromdetails -- KI für ein Vision Board - Fokus
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="Fliegender Pegasus Mustang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9801)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **Published:** Aug 25, 2026
-
----
-### Szene mit verschiedenen Tanzstilen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein beschreibender Prompt für ein Video, in dem Tänzer Ballett und andere Tanzstile gemeinsam aufführen.
-
-#### 📝 Prompt
-
-```
-Die Tänzer hörten auf die Musik und begannen zu tanzen.
-
-Einige tanzten zusammen.
-
-Einige tanzten Ballett.
-
-Einige probierten verschiedene Tanzarten aus.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="Szene mit verschiedenen Tanzstilen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
-
-**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2202,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-04T04:19:54.883Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-04T09:09:44.622Z</sub>
 
 </div>

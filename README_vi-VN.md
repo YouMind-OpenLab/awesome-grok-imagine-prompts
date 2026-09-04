@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2690** |
+| 📝 Total Prompts | **2701** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-04** |
 
@@ -189,6 +189,196 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Chuyến bay Pegasus của những con người bị lãng quên
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc ẩn dụ về việc những người nghèo khổ bị lãng quên trở thành hoàng tộc và cưỡi ngựa Pegasus bay đến lâu đài.
+
+#### 📝 Prompt
+
+```
+Tất cả những người bị lãng quên, tất cả những người nghèo khổ cùng cưỡi lên chú ngựa Pegasus, họ trở thành những vị vua và hoàng hậu, rồi cùng nhau bay đến lâu đài của mình
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="Chuyến bay Pegasus của những con người bị lãng quên">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10343)**
+
+**Author:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **Source:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **Published:** Sep 4, 2026
+
+---
+### Cô gái trong chiếc đồng hồ bỏ túi khổng lồ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt mang phong cách điện ảnh và đầy tâm trạng, khắc họa hình ảnh một cô bé đang ngồi bên trong chiếc đồng hồ bỏ túi khổng lồ, hoen gỉ giữa khung cảnh sa mạc.
+
+#### 📝 Prompt
+
+```
+Cảnh quay điện ảnh về một cô bé mặc quần áo sờn cũ đang ngồi bên trong chiếc đồng hồ bỏ túi khổng lồ, hoen gỉ giữa sa mạc nứt nẻ. Mặt kính vỡ vụn. Những bánh răng khổng lồ đầy bụi bặm phía sau cô bé. Ánh nắng vàng chiếu qua lớp pha lê vỡ. Đất khô cằn và những bụi cây khô héo. Đậm chất hội họa. Tâm trạng. Siêu chi tiết. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="Cô gái trong chiếc đồng hồ bỏ túi khổng lồ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10342)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **Published:** Sep 4, 2026
+
+---
+### Hoạt ảnh chú chó vẫy xe taxi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo hoạt ảnh cho Grok-imagine giúp thổi hồn vào bức ảnh chú chó, mô tả cảnh chú đang giơ chân lên như thể đang vẫy gọi một chiếc taxi.
+
+#### 📝 Prompt
+
+```
+Tạo hoạt ảnh cho bức ảnh chú chó có đôi tai lớn này, để chú giơ chân lên như thể đang muốn vẫy gọi một chiếc taxi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="Hoạt ảnh chú chó vẫy xe taxi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10345)**
+
+**Author:** [Løen](https://x.com/l03n27) | **Source:** [Link](https://x.com/l03n27/status/2095697750130123031) | **Published:** Sep 4, 2026
+
+---
+### Video Biến hình Chiến binh Cơ khí
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video điện ảnh về robot biến hình khổng lồ với các chi tiết cơ khí tinh xảo, tia lửa điện và chuyển động quay chậm.
+
+#### 📝 Prompt
+
+```
+BƯỚC TIẾN TIẾP THEO Khi máy móc trở thành chiến binh, giáp trụ không chỉ là sự bảo vệ. Đó là sức mạnh. Đó là tương lai. Biến hình. Vũ trang. Thống trị. Phong cách hình ảnh: điện ảnh + chân thực, robot biến hình khổng lồ, tiên tiến, lõi năng lượng phát sáng, biến hình cơ khí, tia lửa và khói, chiến trường tương lai, ánh sáng kịch tính, chuyển động camera quay chậm, chủ nghĩa hiện thực khoa học viễn tưởng 8K siêu chi tiết.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="Video Biến hình Chiến binh Cơ khí">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10344)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **Published:** Sep 4, 2026
+
+---
+### Trăng lưỡi liềm và Sao Hỏa trên bầu trời
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hình ảnh mô phỏng điện ảnh về trăng lưỡi liềm và Sao Hỏa xuất hiện gần nhau trên bầu trời lúc bình minh.
+
+#### 📝 Prompt
+
+```
+Trăng lưỡi liềm và Sao Hỏa sẽ xuất hiện gần nhau trên bầu trời trước bình minh vào ngày 6 tháng 9 năm 2026
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="Trăng lưỡi liềm và Sao Hỏa trên bầu trời">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10335)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **Published:** Sep 4, 2026
+
+---
+### Ống công nghiệp giữa thung lũng núi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một góc quay rộng đậm chất điện ảnh mô tả một đường ống công nghiệp khổng lồ hoen gỉ bắc ngang qua thung lũng núi, với một bóng người đơn độc đang đi trên đỉnh ống.
+
+#### 📝 Prompt
+
+```
+Góc quay rộng đậm chất điện ảnh về một đường ống công nghiệp khổng lồ hoen gỉ bắc ngang qua thung lũng núi đá. Một bóng người nhỏ bé đơn độc đang đi dọc trên đỉnh ống về phía chiếc quạt tròn bị vỡ ở đầu hở. Những đám mây xám bão tố. Kết cấu tranh sơn dầu. Ánh sáng u ám đầy kịch tính. Siêu chi tiết. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="Ống công nghiệp giữa thung lũng núi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10339)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **Published:** Sep 4, 2026
+
+---
+### Cảnh đấu sĩ Cyborg chiến thắng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video điện ảnh chi tiết về đấu sĩ khải hoàn với bộ giáp cơ khí phát sáng và góc quay xoay vòng đầy kịch tính.
+
+#### 📝 Prompt
+
+```
+Kết thúc huy hoàng: đấu sĩ nửa người nửa máy đứng chiến thắng giữa đấu trường, bộ giáp và mắt cơ khí phát sáng màu xanh dương, những con sư tử đang kết liễu kẻ thù ở phía sau, góc quay xoay vòng chậm đầy kịch tính, bụi lắng xuống, tư thế anh hùng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="Cảnh đấu sĩ Cyborg chiến thắng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10337)**
+
+**Author:** [Cicada AQ](https://x.com/CicadaAQum) | **Source:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **Published:** Sep 3, 2026
+
+---
+### Cận cảnh điện ảnh nữ thợ mỏ than
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chi tiết dành cho Grok Imagine, khắc họa một nữ thợ mỏ lấm lem than đá trong đường hầm tối, tập trung vào ánh sáng đầy kịch tính khi mắt cô chuyển sang màu hổ phách rực cháy.
+
+#### 📝 Prompt
+
+```
+Cận cảnh điện ảnh một nữ thợ mỏ lấm lem than đá trong đường hầm mỏ hình tròn tối tăm. Mũ bảo hộ hư hỏng với đèn đội đầu đang phát sáng nứt vỡ. Gương mặt phủ đầy bụi đen. Ánh nhìn mãnh liệt. Một bên mắt từ từ bùng cháy thành màu hổ phách rực rỡ. Kết cấu than trên da. Ánh sáng đơn nguồn đầy tâm trạng. Phong cách hội họa chân thực. Siêu chi tiết. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="Cận cảnh điện ảnh nữ thợ mỏ than">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10340)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
+
+---
+### Video trừu tượng về sự chuyển hóa photon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video mang tính khái niệm, mô tả các hạt photon ánh sáng chuyển hóa những cảm xúc tiêu cực như nỗi sợ hãi và đau khổ thành tình yêu và hạnh phúc.
+
+#### 📝 Prompt
+
+```
+Tạo một video trong đó các hạt photon màu sắc tuyệt đẹp chuyển hóa nỗi sợ hãi thành tình yêu, cái ác thành điều thiện và sự đau khổ thành hạnh phúc
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="Video trừu tượng về sự chuyển hóa photon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10338)**
+
+**Author:** [Joane](https://x.com/thejoaneunit) | **Source:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **Published:** Sep 3, 2026
+
+---
+### Pleiadian Mothership Ultra HD
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh khoa học viễn tưởng độ phân giải cao để tạo ra các tàu mẹ hình đĩa với hiệu ứng ánh sáng thể tích.
+
+#### 📝 Prompt
+
+```
+Người Pleiadian trên các tàu ánh sáng và tàu mẹ hình đĩa, kiệt tác, độ phân giải siêu nét ultra HD 11111111111111111199999999999999 k, tông màu và đổ bóng ánh sáng rực rỡ theo thể tích
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="Pleiadian Mothership Ultra HD">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10336)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **Published:** Sep 3, 2026
+
+---
 ### Video hoạt họa mèo mướp kêu meo meo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -302,6 +492,25 @@ Một video về hành tinh sao Hỏa theo tầm nhìn của Elon Musk, mô tả
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10287)**
 
 **Author:** [Delestre](https://x.com/stephdel0204) | **Source:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **Published:** Sep 2, 2026
+
+---
+### Phong cảnh Ai Cập thời trẻ của Cleopatra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hình ảnh Cleopatra thời trẻ đang nhìn ra vùng đất Ai Cập với cảm nhận về vận mệnh tương lai.
+
+#### 📝 Prompt
+
+```
+Cleopatra khi còn trẻ đang nhìn ra Ai Cập với niềm tin rằng một ngày nào đó bà sẽ cai trị nơi này
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095297599641427968/img/RLicB_jR0nFF0exF.jpg" width="600" alt="Phong cảnh Ai Cập thời trẻ của Cleopatra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10341)**
+
+**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2095297619492851887) | **Published:** Sep 2, 2026
 
 ---
 ### Khung cảnh đêm trăng thanh bình
@@ -1926,221 +2135,6 @@ Thay đổi bối cảnh từ bãi biển/du thuyền sang biệt thự Playboy 
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
 
 ---
-### Trình diễn thời trang váy đuôi cá màu đỏ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video chi tiết dành cho người mẫu trình diễn váy đuôi cá màu đỏ và kiểu tóc búi cao trên sàn diễn thời trang.
-
-#### 📝 Prompt
-
-```
-Cô gái này sẽ trình diễn một chiếc váy dự tiệc dài trên sàn catwalk với kiểu tóc búi cao cùng những lọn tóc xoăn nhẹ và chiếc váy đuôi cá màu đỏ tuyệt đẹp
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="Trình diễn thời trang váy đuôi cá màu đỏ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9860)**
-
-**Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
-
----
-### Cô gái cắt quả dứa khổng lồ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh, trong đó một người phụ nữ bước vào khung hình và cắt đôi quả dứa khổng lồ để lộ phần ruột vàng óng, mọng nước bên trong.
-
-#### 📝 Prompt
-
-```
-cô gái 23 tuổi quyến rũ bước vào khung hình và cắt đôi quả dứa, bên trong là phần ruột dứa vàng óng, mọng nước
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092450891580252160/img/c0BOWAW0nvo8h3hG.jpg" width="600" alt="Cô gái cắt quả dứa khổng lồ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9919)**
-
-**Author:** [seeksteve](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2092454370650591648) | **Published:** Aug 26, 2026
-
----
-### Chú mèo ngủ trên ly Marshmallow Latte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video đầy sáng tạo với hình ảnh chú mèo nhỏ đang ngủ trên viên kẹo marshmallow nổi trong ly cà phê latte art, hoàn hảo cho các nội dung hình ảnh dễ thương và ấm cúng.
-
-#### 📝 Prompt
-
-```
-Một chú mèo nhỏ đang nằm ngủ trên một viên kẹo marshmallow khổng lồ, viên kẹo đang nổi trên bề mặt của ly cà phê latte art
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="Chú mèo ngủ trên ly Marshmallow Latte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
-
-**Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
-
----
-### Chân dung thanh thoát với chuyển động nhẹ nhàng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt ghi lại sự tận tâm sâu sắc của nhân vật với làn gió nhẹ và chuyển động của mái tóc, lấy cảm hứng từ Odysseus và Penelope.
-
-#### 📝 Prompt
-
-```
-làn gió nhẹ nhàng nâng mái tóc dài và gấu váy thướt tha của cô ấy, không có chuyển động lớn, Cô ấy quay đầu nhìn thẳng vào Odysseus, khóa ánh nhìn với anh ấy bằng vẻ tinh nghịch nhưng vô cùng trung thành, biểu cảm của cô ấy dịu dàng và đầy cảm xúc, đôi môi hơi hé mở, ánh mắt ấm áp và tập trung với sự nồng nhiệt thầm lặng cùng lòng tận tâm sâu sắc
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092362822286032898/img/VBlJOLcS7ICgtbKs.jpg" width="600" alt="Chân dung thanh thoát với chuyển động nhẹ nhàng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9930)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092362908936057342) | **Published:** Aug 25, 2026
-
----
-### Tiết lộ nguyên mẫu khoa học viễn tưởng Rainbow Universe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một phân cảnh điện ảnh khoa học viễn tưởng tiết lộ các bạn đồng hành và hình đại diện ba chiều của những thiên tài nổi tiếng đang bay lượn trong một vũ trụ cầu vồng.
-
-#### 📝 Prompt
-
-```
-Màn tiết lộ sống động đậm chất điện ảnh về nguyên mẫu MsX và MrX của Rainbow Universe: những người bạn đồng hành thân thiện được nhân hóa khẽ chuyển động với nụ cười ấm áp, các hình đại diện wiki ba chiều của người đăng ký và những thiên tài đã khuất (Tesla, Franklin và nhiều bộ óc đa dạng khác) từ từ bay lượn và tỏa sáng dịu nhẹ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="Tiết lộ nguyên mẫu khoa học viễn tưởng Rainbow Universe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9855)**
-
-**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **Published:** Aug 25, 2026
-
----
-### Khung cảnh Robot Olympic Vũ trụ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) đậm chất điện ảnh mô tả robot trong bối cảnh sân vận động Olympic vũ trụ với hiệu ứng tinh vân.
-
-#### 📝 Prompt
-
-```
-Hình ảnh hero góc rộng đậm chất điện ảnh, nền vũ trụ tối với tinh vân cầu vồng dịu nhẹ, sân khấu vận động Olympic ở khoảng cách trung bình với ánh sáng xanh và vàng dịu, một robot Soft RA MsX nữ tính, nhẹ nhàng đang đứng duyên dáng bên trái theo phong cách Yin gần gũi,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="Khung cảnh Robot Olympic Vũ trụ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9859)**
-
-**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **Published:** Aug 25, 2026
-
----
-### Thuyền buồm trên mặt nước tĩnh lặng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video chuyển động chân thực về chiếc thuyền buồm đang lướt đi trên đại dương với những cánh buồm căng gió.
-
-#### 📝 Prompt
-
-```
-Chiếc thuyền buồm nhẹ nhàng lướt đi trên làn nước đại dương xanh thẳm, những cánh buồm trắng căng phồng trong làn gió nhẹ, những gợn sóng lăn tăn quanh thân tàu với những tia sáng phản chiếu lấp lánh, những đám mây mềm mại trôi chậm rãi trên bầu trời xanh trong, chuyển động chân thực...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="Thuyền buồm trên mặt nước tĩnh lặng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9857)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **Published:** Aug 25, 2026
-
----
-### Chú ếch chèo thuyền phong cách Monet
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video theo phong cách ấn tượng chi tiết về một chú ếch mặc trang phục thế kỷ 19 đang chèo thuyền trên hồ hoa súng phong cách Monet.
-
-#### 📝 Prompt
-
-```
-Tỷ lệ 9:16, tối ưu tốc độ. Một chiếc thuyền gỗ nhỏ trên hồ hoa súng kiểu Monet, kết hợp giữa ảnh chụp thực tế và tranh sơn dầu ấn tượng ướt át: các mảng màu xanh dương, xanh lá và ánh sáng vàng kem dày đặc, mặt nước như lớp sơn chưa khô. Không có chiếc thuyền thứ hai. Trên thuyền, một chú ếch nhỏ dễ thương mặc trang phục cuối thế kỷ 19: đội mũ rơm nhỏ, mặc áo gile kẻ sọc, áo khoác ngắn, vẻ mặt nghiêm túc và vui tươi, đang chèo thuyền bằng một mái chèo tí hon. Hoa súng đắp nổi, bề mặt canvas ở bờ hồ, hiệu ứng hạt phim thập niên 1990 phủ trên màu sắc thập niên 1870. Không có người, không có thuyền thừa, không có sự u ám. Một ý tưởng: một chú ếch đang nghiêm túc chèo thuyền trên mặt nước được vẽ nên. Đẹp đẽ và có chút ngộ nghĩnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="Chú ếch chèo thuyền phong cách Monet">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9858)**
-
-**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092229826128093365) | **Published:** Aug 25, 2026
-
----
-### Cây Rồng Núi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý phong cảnh tuyệt đẹp với hình ảnh những khuôn mặt rồng ẩn hiện giữa các tán thông tại một đèo núi đầy giông bão.
-
-#### 📝 Prompt
-
-```
-Nhìn xuyên qua hai cây thông về phía đèo xa giữa những đám mây núi sấm sét và một mảnh trăng khuyết, hai khuôn mặt rồng dần dần hiện rõ trong các tán cây thông
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="Cây Rồng Núi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9802)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **Published:** Aug 25, 2026
-
----
-### Flying Pegasus Mustang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý bảng tầm nhìn (vision board) chi tiết cho chiếc Ford Mustang màu trắng có cánh Pegasus, có khả năng bay và di chuyển trên mặt nước.
-
-#### 📝 Prompt
-
-```
-Một chiếc xe cơ bắp Ford Mustang màu trắng bóng bẩy với đôi cánh Pegasus trắng to lớn, hùng vĩ mở rộng từ hai bên, có khả năng bay, nổi trên mặt nước như thuyền và chạy trên đường bộ. Xe có lớp sơn trắng bóng, các chi tiết mạ crôm -- A.I. cho bảng tầm nhìn - tiêu điểm
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="Flying Pegasus Mustang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9801)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **Published:** Aug 25, 2026
-
----
-### Cảnh quay đa dạng các phong cách nhảy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả cho video có các vũ công biểu diễn ballet và các phong cách nhảy khác cùng nhau.
-
-#### 📝 Prompt
-
-```
-Các vũ công lắng nghe âm nhạc và bắt đầu nhảy.
-
-Một số người nhảy cùng nhau.
-
-Một số người nhảy ballet.
-
-Một số người thử nghiệm các loại hình nhảy khác nhau.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="Cảnh quay đa dạng các phong cách nhảy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
-
-**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2202,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-04T04:19:51.087Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-04T09:09:39.683Z</sub>
 
 </div>

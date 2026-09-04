@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2690** |
+| 📝 Total Prompts | **2701** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-04** |
 
@@ -189,6 +189,196 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### El vuelo de Pegaso de los olvidados
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt metafórico donde los pobres olvidados se convierten en realeza y vuelan sobre Pegaso hacia un castillo.
+
+#### 📝 Prompt
+
+```
+Todas las personas olvidadas, todas las personas pobres, sobre el caballo Pegaso se convierten en reyes y reinas, y vuelan hacia su castillo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="El vuelo de Pegaso de los olvidados">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10343)**
+
+**Author:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **Source:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **Published:** Sep 4, 2026
+
+---
+### Niña en un reloj de bolsillo colosal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico y melancólico que presenta a una niña sentada dentro de un enorme reloj de bolsillo oxidado en un paisaje desértico.
+
+#### 📝 Prompt
+
+```
+Toma cinematográfica de una niña pequeña con ropa desgastada sentada dentro de un colosal reloj de bolsillo oxidado en un desierto agrietado. Esfera de cristal rota. Engranajes masivos y polvorientos detrás de ella. Rayo de sol dorado a través del cristal roto. Tierra seca y arbustos muertos. Estilo pictórico. Melancólico. Ultra detallado. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="Niña en un reloj de bolsillo colosal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10342)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **Published:** Sep 4, 2026
+
+---
+### Animación de un perro pidiendo un taxi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de animación para Grok-imagine que da vida a la foto de un perro, representándolo levantando su pata como si estuviera pidiendo un taxi.
+
+#### 📝 Prompt
+
+```
+Anima esta foto del perro de orejas grandes, haciendo que levante su pata como si quisiera pedir un taxi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="Animación de un perro pidiendo un taxi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10345)**
+
+**Author:** [Løen](https://x.com/l03n27) | **Source:** [Link](https://x.com/l03n27/status/2095697750130123031) | **Published:** Sep 4, 2026
+
+---
+### Video de transformación de Mecha Warrior
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico para un robot gigante en transformación con piezas mecánicas detalladas, chispas y movimiento en cámara lenta.
+
+#### 📝 Prompt
+
+```
+LA PRÓXIMA EVOLUCIÓN Cuando las máquinas se convierten en guerreros, la armadura es más que protección. Es poder. Es el futuro. Transfórmate. Ármate. Domina. Estilo visual: cinematográfico + fotorrealista, robot gigante en transformación, avanzado, núcleos de energía brillantes, transformación mecánica, chispas y humo, campo de batalla futurista, iluminación dramática, movimiento de cámara en cámara lenta, realismo de ciencia ficción ultra detallado en 8K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="Video de transformación de Mecha Warrior">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10344)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **Published:** Sep 4, 2026
+
+---
+### La Luna creciente y Marte en el cielo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una visualización cinematográfica de la Luna creciente y Marte apareciendo juntos en el cielo al amanecer.
+
+#### 📝 Prompt
+
+```
+La Luna creciente y Marte aparecerán juntos en el cielo antes del amanecer el 6 de septiembre de 2026
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="La Luna creciente y Marte en el cielo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10335)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **Published:** Sep 4, 2026
+
+---
+### Tubería industrial en valle de montaña
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una toma cinematográfica de gran angular que muestra una enorme tubería industrial oxidada que atraviesa un valle de montaña, con una figura solitaria caminando sobre ella.
+
+#### 📝 Prompt
+
+```
+Toma cinematográfica de gran angular de una colosal tubería industrial oxidada que atraviesa un valle montañoso rocoso. Una pequeña figura solitaria camina por la parte superior hacia un ventilador circular destrozado en el extremo abierto. Nubes grises tormentosas. Textura de pintura al óleo. Iluminación dramática y nublada. Ultra detallado. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="Tubería industrial en valle de montaña">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10339)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **Published:** Sep 4, 2026
+
+---
+### Escena de gladiador cíborg victorioso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico detallado para un gladiador triunfante con armadura cibernética brillante y una órbita de cámara dramática.
+
+#### 📝 Prompt
+
+```
+Final triunfal: el gladiador mitad cíborg se alza victorioso en la arena, con armadura azul brillante y ojo cibernético, leones terminando con los enemigos al fondo, órbita de cámara lenta y dramática, polvo asentándose, pose heroica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="Escena de gladiador cíborg victorioso">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10337)**
+
+**Author:** [Cicada AQ](https://x.com/CicadaAQum) | **Source:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **Published:** Sep 3, 2026
+
+---
+### Primer plano cinematográfico de una minera de carbón
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico detallado para Grok Imagine que presenta a una minera cubierta de carbón en un túnel oscuro, con un enfoque en la iluminación dramática mientras su ojo se transforma en ámbar ardiente.
+
+#### 📝 Prompt
+
+```
+Primer plano cinematográfico de una minera cubierta de carbón en un túnel minero circular y oscuro. Casco maltratado con una linterna frontal agrietada y brillante. Rostro cubierto de polvo negro. Mirada intensa. Un ojo se enciende lentamente en un tono ámbar ardiente. Textura de carbón en la piel. Iluminación tenue de una sola fuente. Estilo pictórico fotorrealista. Ultra detallado. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="Primer plano cinematográfico de una minera de carbón">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10340)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
+
+---
+### Video de transformación de fotones abstractos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video conceptual que representa fotones de luz transformando emociones negativas como el miedo y el sufrimiento en amor y felicidad.
+
+#### 📝 Prompt
+
+```
+Crea un video donde hermosos fotones de colores transformen el miedo en amor, la maldad en bondad y el sufrimiento en felicidad
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="Video de transformación de fotones abstractos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10338)**
+
+**Author:** [Joane](https://x.com/thejoaneunit) | **Source:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **Published:** Sep 3, 2026
+
+---
+### Nave nodriza pleyadiana Ultra HD
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de ciencia ficción de alta resolución para generar naves nodrizas en forma de platillo con iluminación volumétrica.
+
+#### 📝 Prompt
+
+```
+Pleyadianos en naves de luz y naves nodrizas con forma de platillo, obra maestra, resolución de calidad ultra HD 11111111111111111199999999999999 k, tonos de colores de iluminación brillante volumétrica y sombreado
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="Nave nodriza pleyadiana Ultra HD">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10336)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **Published:** Sep 3, 2026
+
+---
 ### Gato atigrado maullando animado
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -302,6 +492,25 @@ Un video del planeta Marte según la visión de Elon Musk, que muestra la constr
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10287)**
 
 **Author:** [Delestre](https://x.com/stephdel0204) | **Source:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **Published:** Sep 2, 2026
+
+---
+### Paisaje de la joven Cleopatra en Egipto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Visualiza a una joven Cleopatra contemplando las tierras de Egipto con un sentido de destino futuro.
+
+#### 📝 Prompt
+
+```
+Cleopatra cuando era más joven contemplando Egipto, sabiendo que algún día lo gobernaría
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095297599641427968/img/RLicB_jR0nFF0exF.jpg" width="600" alt="Paisaje de la joven Cleopatra en Egipto">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10341)**
+
+**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2095297619492851887) | **Published:** Sep 2, 2026
 
 ---
 ### Escena serena de buenas noches bajo la luz de la luna
@@ -1926,221 +2135,6 @@ Cambia el entorno de la playa/barco a la lujosa Playboy Mansion: elegante mansi�
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
 
 ---
-### Vestido de sirena rojo en pasarela de moda
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video detallado para una modelo que exhibe un vestido estilo sirena rojo y un peinado de moño alto en una pasarela de moda.
-
-#### 📝 Prompt
-
-```
-Esta chica modelará un vestido de fiesta largo en una pasarela con un moño alto con rizos sueltos y un hermoso vestido rojo estilo sirena
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="Vestido de sirena rojo en pasarela de moda">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9860)**
-
-**Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
-
----
-### Chica cortando una piña gigante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico donde una mujer entra en escena y corta una piña gigante por la mitad para revelar su interior amarillo y jugoso.
-
-#### 📝 Prompt
-
-```
-chica atractiva de 23 años entra en escena y corta la piña por la mitad, piña amarilla y jugosa por dentro
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092450891580252160/img/c0BOWAW0nvo8h3hG.jpg" width="600" alt="Chica cortando una piña gigante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9919)**
-
-**Author:** [seeksteve](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2092454370650591648) | **Published:** Aug 26, 2026
-
----
-### Gato durmiendo sobre un latte de malvavisco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video prompt fantástico que muestra a un gatito durmiendo sobre un malvavisco que flota en el arte latte, perfecto para contenido visual acogedor y tierno.
-
-#### 📝 Prompt
-
-```
-Un gatito diminuto durmiendo sobre un malvavisco gigante, el malvavisco flota sobre la espuma de un café con arte latte
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="Gato durmiendo sobre un latte de malvavisco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
-
-**Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
-
----
-### Retrato etéreo con movimiento suave
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video que captura la profunda devoción de un personaje con viento suave y movimiento de cabello, inspirado en Odisea y Penélope.
-
-#### 📝 Prompt
-
-```
-el viento levanta suavemente su largo cabello y el dobladillo de su vestido fluido, sin grandes movimientos, ella gira la cabeza para mirar directamente a Odiseo, encontrándose con su mirada de una manera juguetona pero ferozmente leal, su expresión es suave y cargada, con los labios ligeramente entreabiertos, ojos cálidos e intensos con un calor silencioso y una profunda devoción
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092362822286032898/img/VBlJOLcS7ICgtbKs.jpg" width="600" alt="Retrato etéreo con movimiento suave">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9930)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092362908936057342) | **Published:** Aug 25, 2026
-
----
-### Revelación del prototipo de ciencia ficción Rainbow Universe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una escena cinematográfica de ciencia ficción que revela compañeros y avatares holográficos de genios famosos orbitando en un universo arcoíris.
-
-#### 📝 Prompt
-
-```
-Revelación cinematográfica en vivo del prototipo MsX y MrX de Rainbow Universe: los compañeros amigables humanizados se mueven suavemente con sonrisas cálidas, mientras los avatares wiki holográficos de suscriptores y genios fallecidos (Tesla, Franklin y diversas mentes) orbitan lentamente y brillan con suavidad.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="Revelación del prototipo de ciencia ficción Rainbow Universe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9855)**
-
-**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **Published:** Aug 25, 2026
-
----
-### Escena de robot olímpico cósmico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico que describe a un robot en un estadio olímpico cósmico con efectos de nebulosa.
-
-#### 📝 Prompt
-
-```
-Imagen cinematográfica de gran angular, fondo cósmico oscuro con una suave nebulosa arcoíris, escenario de estadio olímpico a media distancia con iluminación suave en azul y dorado, un robot femenino Soft RA MsX de aspecto amable de pie con elegancia a la izquierda en un estilo Yin accesible,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="Escena de robot olímpico cósmico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9859)**
-
-**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **Published:** Aug 25, 2026
-
----
-### Velero en aguas tranquilas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video de movimiento realista de un velero deslizándose por el océano con velas infladas.
-
-#### 📝 Prompt
-
-```
-El velero se desliza suavemente hacia adelante por las tranquilas aguas azules del océano, con velas blancas que se inflan suavemente con una brisa ligera, ondas sutiles que se forman alrededor del casco con reflejos brillantes, nubes suaves que se desplazan lentamente por el cielo azul despejado, movimiento realista...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="Velero en aguas tranquilas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9857)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **Published:** Aug 25, 2026
-
----
-### Rana en bote de remos al estilo Monet
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video impresionista detallado de una rana con ropa del siglo XIX remando en un bote en un estanque de lirios al estilo Monet.
-
-#### 📝 Prompt
-
-```
-9:16 estático, optimizado para velocidad. Un pequeño bote de remos de madera en un estanque de lirios de Monet, fotorrealista y a la vez óleo impresionista húmedo: azules intensos, verdes y luz color crema dorado, agua como pintura que aún no seca. Sin un segundo bote. En el bote, una pequeña y linda rana con ropa de finales del siglo XIX: un pequeño sombrero de paja, chaleco a rayas, una chaqueta corta, seria y alegre, remando con un remo miniatura. Lirios con empaste, textura de lienzo en la orilla, grano fílmico de los 90 sobre colores de 1870. Sin personas, sin botes adicionales, sin tonos sombríos. Una idea: una rana tomándose en serio el agua pintada. Hermoso y un poco divertido.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="Rana en bote de remos al estilo Monet">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9858)**
-
-**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092229826128093365) | **Published:** Aug 25, 2026
-
----
-### Árbol Dragón de Montaña
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de paisaje escénico que presenta rostros de dragón ocultos emergiendo de ramas de pino en un paso de montaña tormentoso.
-
-#### 📝 Prompt
-
-```
-Mirando entre dos pinos hacia el paso distante entre las montañas, nubes, truenos y una luna creciente, dos rostros de dragón se vuelven visibles gradualmente en las ramas del pino
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="Árbol Dragón de Montaña">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9802)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **Published:** Aug 25, 2026
-
----
-### Mustang Pegaso volador
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para un tablero de visión de un Ford Mustang blanco con alas de Pegaso, capaz de volar y conducir sobre el agua.
-
-#### 📝 Prompt
-
-```
-Un elegante Ford Mustang blanco con grandes y majestuosas alas de Pegaso blancas extendiéndose desde los costados, capaz de volar, flotar sobre el agua como un bote y conducir en carreteras. El auto tiene un acabado de pintura blanca brillante, detalles cromados -- I.A. para un tablero de visión - enfoque
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="Mustang Pegaso volador">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9801)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **Published:** Aug 25, 2026
-
----
-### Escena de diversos estilos de baile
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descriptivo para un video que muestra a bailarines interpretando ballet y otros estilos juntos.
-
-#### 📝 Prompt
-
-```
-Los bailarines escucharon la música y comenzaron a bailar.
-
-Algunos bailaron juntos.
-
-Algunos bailaron ballet.
-
-Algunos probaron diferentes tipos de baile.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="Escena de diversos estilos de baile">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
-
-**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2202,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-04T04:19:53.994Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-04T09:09:43.028Z</sub>
 
 </div>

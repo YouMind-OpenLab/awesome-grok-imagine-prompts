@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2690** |
+| 📝 提示词总数 | **2701** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-04** |
 
@@ -189,6 +189,196 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 被遗忘者的飞马之旅
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个隐喻性的提示词：让被遗忘的贫困者化身为王室成员，骑着飞马前往城堡。
+
+#### 📝 提示词
+
+```
+所有被遗忘的人，所有贫困的人，都骑上了飞马 Pegasus，他们变成了国王和王后，飞向属于他们的城堡。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="被遗忘者的飞马之旅">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10343)**
+
+**作者:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **来源:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **发布时间:** Sep 4, 2026
+
+---
+### 巨型怀表中的女孩
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满电影感与忧郁气息的视频提示词，描述了一个小女孩坐在沙漠中巨大的生锈怀表里。
+
+#### 📝 提示词
+
+```
+电影级镜头，一个穿着破旧衣服的小女孩坐在荒漠中巨大的生锈怀表里。破碎的玻璃表盘。身后是巨大的尘封齿轮。金色的阳光穿过破裂的水晶。干裂的土地和枯萎的灌木。油画质感。忧郁。超精细。8k。Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="巨型怀表中的女孩">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10342)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **发布时间:** Sep 4, 2026
+
+---
+### 小狗招手打车动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个用于 Grok-imagine 的动画提示词，旨在让小狗的照片“活”起来，呈现出它抬起爪子仿佛正在招手打车的画面。
+
+#### 📝 提示词
+
+```
+将这张大耳朵小狗的照片制作成动画，让它抬起爪子，就像想要招手打车一样
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="小狗招手打车动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10345)**
+
+**作者:** [Løen](https://x.com/l03n27) | **来源:** [Link](https://x.com/l03n27/status/2095697750130123031) | **发布时间:** Sep 4, 2026
+
+---
+### 机甲战士变形视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于巨型变形机器人的电影级视频提示词，包含精细的机械零件、火花和慢动作效果。
+
+#### 📝 提示词
+
+```
+下一次进化：当机器化身为战士，装甲就不再仅仅是保护。它是力量，是未来。变形。武装。统治。视觉风格：电影级 + 照片级真实感，巨型变形机器人，先进的 Agent，发光的能量核心，机械变形，火花与烟雾，未来战场，戏剧性光影，慢动作运镜，超精细 8K 科幻写实风格。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="机甲战士变形视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10344)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **发布时间:** Sep 4, 2026
+
+---
+### 新月与火星同现天际
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视觉影像，展现了新月与火星在黎明时分近距离相伴的景象。
+
+#### 📝 提示词
+
+```
+2026 年 9 月 6 日黎明前，新月与火星将出现在天空中，两者距离十分接近。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="新月与火星同现天际">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10335)**
+
+**作者:** [Marie](https://x.com/Marie8508319540) | **来源:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **发布时间:** Sep 4, 2026
+
+---
+### 工业管道山谷
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 电影级广角镜头，描绘了一根巨大的锈迹斑斑的工业管道横跨山谷，一个孤独的身影走在管道上方。
+
+#### 📝 提示词
+
+```
+电影级广角镜头，展示了一根巨大的锈迹斑斑的工业管道横跨岩石山谷。一个渺小的孤独身影正沿着管道顶部走向开口处破碎的圆形风扇。乌云密布。油画质感。戏剧性的阴天光影。超高细节。8k。Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="工业管道山谷">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10339)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **发布时间:** Sep 4, 2026
+
+---
+### 胜利的赛博格角斗士场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的电影级视频提示词，描绘了一位身穿发光赛博格盔甲、处于戏剧性环绕镜头下的胜利角斗士。
+
+#### 📝 提示词
+
+```
+胜利结局：半赛博格角斗士在竞技场中获得胜利，身穿发光蓝色盔甲，拥有赛博义眼，背景中狮子正在解决残敌，缓慢的戏剧性环绕镜头，尘埃落定，英雄姿态。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="胜利的赛博格角斗士场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10337)**
+
+**作者:** [Cicada AQ](https://x.com/CicadaAQum) | **来源:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **发布时间:** Sep 3, 2026
+
+---
+### 煤矿女工电影感特写
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个为 Grok Imagine 设计的详细电影感提示词，描绘了一位身处黑暗隧道、满脸煤灰的女性矿工，重点刻画了她眼睛转变为燃烧琥珀色时的戏剧性光影。
+
+#### 📝 提示词
+
+```
+电影感特写，一位满脸煤灰的女性矿工身处黑暗的圆形矿井隧道中。破旧的头盔上挂着一盏破裂且发光的头灯。面部覆盖着黑色粉尘。目光犀利。其中一只眼睛缓慢点燃，化作燃烧的琥珀色。皮肤呈现炭黑质感。情绪化的单光源。照片级写实绘画风格。超高细节。8k。Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="煤矿女工电影感特写">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10340)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **发布时间:** Sep 3, 2026
+
+---
+### 抽象光子转化视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个概念性视频提示词，描绘了光子将恐惧和痛苦等负面情绪转化为爱与幸福的过程。
+
+#### 📝 提示词
+
+```
+创建一个视频，展示美丽的光子将恐惧转化为爱，将邪恶转化为善良，将痛苦转化为幸福
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="抽象光子转化视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10338)**
+
+**作者:** [Joane](https://x.com/thejoaneunit) | **来源:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **发布时间:** Sep 3, 2026
+
+---
+### 昴宿星母舰超高清
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成碟形母舰的高分辨率科幻提示词，包含体积光效果。
+
+#### 📝 提示词
+
+```
+昴宿星人的光船和碟形母舰，杰作，超高清质量，11111111111111111199999999999999 k 分辨率，体积感明亮的光影色调和渲染
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="昴宿星母舰超高清">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10336)**
+
+**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **来源:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **发布时间:** Sep 3, 2026
+
+---
 ### 动画版喵喵叫的虎斑猫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -302,6 +492,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10287)**
 
 **作者:** [Delestre](https://x.com/stephdel0204) | **来源:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **发布时间:** Sep 2, 2026
+
+---
+### 年轻克利奥帕特拉的埃及风景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 描绘了年轻的克利奥帕特拉眺望埃及大地，展现出对未来命运的憧憬。
+
+#### 📝 提示词
+
+```
+年轻时的克利奥帕特拉眺望着埃及，心中笃定终有一天将统治这片土地
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095297599641427968/img/RLicB_jR0nFF0exF.jpg" width="600" alt="年轻克利奥帕特拉的埃及风景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10341)**
+
+**作者:** [Christi McGuffey](https://x.com/crermc7) | **来源:** [Link](https://x.com/crermc7/status/2095297619492851887) | **发布时间:** Sep 2, 2026
 
 ---
 ### 宁静月夜晚安场景
@@ -1926,221 +2135,6 @@ Lori 的梦想是在 8 月 27 日著名的 Saratoga 赛马场第一场比赛中�
 **作者:** [Ami A](https://x.com/AA63782) | **来源:** [Link](https://x.com/AA63782/status/2092525163887853620) | **发布时间:** Aug 26, 2026
 
 ---
-### 红色美人鱼礼服时尚走秀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的视频提示词，用于展示模特身穿红色美人鱼风格礼服，搭配高丸子头发型在时尚 T 台上走秀。
-
-#### 📝 提示词
-
-```
-这位模特将在 T 台上展示一件长款派对礼服，发型为带有松散卷发的高丸子头，身穿一件精美的红色美人鱼风格礼服
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="红色美人鱼礼服时尚走秀">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9860)**
-
-**作者:** [Esther Santana](https://x.com/esther_san41998) | **来源:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **发布时间:** Aug 26, 2026
-
----
-### 女孩切开巨型菠萝
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词：一位女性走进画面，将一个巨型菠萝切成两半，露出里面金黄多汁的果肉。
-
-#### 📝 提示词
-
-```
-一位 23 岁、外形迷人的女孩走进画面并将菠萝切成两半，菠萝内部呈现出金黄多汁的状态
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092450891580252160/img/c0BOWAW0nvo8h3hG.jpg" width="600" alt="女孩切开巨型菠萝">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9919)**
-
-**作者:** [seeksteve](https://x.com/seeksteve) | **来源:** [Link](https://x.com/seeksteve/status/2092454370650591648) | **发布时间:** Aug 26, 2026
-
----
-### 棉花糖拿铁上的睡猫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满奇思妙想的视频提示词，画面中一只小猫在拿铁拉花上漂浮的棉花糖里安睡，非常适合制作温馨可爱的视觉内容。
-
-#### 📝 提示词
-
-```
-一只小猫躺在巨大的棉花糖上熟睡，棉花糖漂浮在拿铁拉花咖啡的表面
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="棉花糖拿铁上的睡猫">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9854)**
-
-**作者:** [Maxime](https://x.com/Maxime887812) | **来源:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **发布时间:** Aug 25, 2026
-
----
-### 带有轻微动态的空灵肖像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频提示词，捕捉角色深沉的眷恋，伴随柔和的风与发丝飘动，灵感源自奥德修斯与珀涅罗珀的故事。
-
-#### 📝 提示词
-
-```
-微风轻轻拂起她的长发和飘逸的裙摆，没有大幅度动作。她转过头直视奥德修斯，与他四目相对，眼神中既有俏皮又透着坚定的忠诚。她的表情柔和而充满张力，双唇微启，目光温暖且专注，流露出静谧的热情与深沉的眷恋。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092362822286032898/img/VBlJOLcS7ICgtbKs.jpg" width="600" alt="带有轻微动态的空灵肖像">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9930)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2092362908936057342) | **发布时间:** Aug 25, 2026
-
----
-### Rainbow Universe 科幻原型揭秘
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个科幻电影感场景，展示了在彩虹宇宙中环绕运行的伙伴以及著名天才的全息化身。
-
-#### 📝 提示词
-
-```
-Rainbow Universe MsX 和 MrX 原型的电影感实景揭秘：人性化的友好伙伴带着温暖的微笑轻轻移动，订阅者和已故天才（如 Tesla、Franklin 及各界精英）的维基全息化身在周围缓慢环绕并发出柔和的光芒。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="Rainbow Universe 科幻原型揭秘">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9855)**
-
-**作者:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **来源:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **发布时间:** Aug 25, 2026
-
----
-### 宇宙奥林匹克机器人场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影级的提示词，描述了在带有星云效果的宇宙奥林匹克体育场背景下的机器人。
-
-#### 📝 提示词
-
-```
-电影级宽幅主视觉图，深邃的宇宙背景配以柔和的彩虹星云，中景处为奥林匹克体育场舞台，带有柔和的蓝金光影，左侧站立着一位优雅的女性化 Soft RA MsX 机器人，呈现出亲和的 Yin 风格，...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="宇宙奥林匹克机器人场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9859)**
-
-**作者:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **来源:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **发布时间:** Aug 25, 2026
-
----
-### 平静水面上的帆船
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段逼真的动态视频，展示了一艘帆船在海面上平稳航行，白帆鼓动。
-
-#### 📝 提示词
-
-```
-帆船在平静的蓝色海面上平稳前行，洁白的船帆在微风中轻轻鼓动，船身周围泛起细微的涟漪，反射着粼粼波光，柔软的云朵在晴朗的蓝天中缓慢飘动，逼真的动态效果……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="平静水面上的帆船">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9857)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **发布时间:** Aug 25, 2026
-
----
-### 莫奈风格青蛙划船
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段细腻的印象派视频提示词，描绘了一只身着 19 世纪服装的青蛙在莫奈风格的睡莲池中划船。
-
-#### 📝 提示词
-
-```
-9:16 静态画面，适合快速生成。莫奈睡莲池中有一只小木船，兼具写实感与湿润的印象派油画质感：浓郁的蓝色、绿色与奶油金色的光影，水面如同未干的颜料。画面中仅有一只船。船上有一只可爱的青蛙，身穿 19 世纪末的服饰：戴着小巧的平顶草帽，穿着条纹马甲和短外套，神情认真而愉悦，正用迷你船桨划船。厚涂法描绘的睡莲，岸边可见画布纹理，19 世纪 70 年代的色彩叠加 20 世纪 90 年代的胶片颗粒感。画面中没有人物，没有多余的船只，没有阴郁感。核心构思：一只认真对待这片画中水的青蛙。画面优美且带有一丝俏皮。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="莫奈风格青蛙划船">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9858)**
-
-**作者:** [Lucy](https://x.com/princess414141) | **来源:** [Link](https://x.com/princess414141/status/2092229826128093365) | **发布时间:** Aug 25, 2026
-
----
-### 山中龙树
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个风景景观提示词，描绘了在暴风雨的山隘中，从松枝间隐现的龙脸。
-
-#### 📝 提示词
-
-```
-透过两棵松树看向远处山间的隘口，云层中雷声滚滚，一弯新月挂在天边，两张龙脸在松树枝叶间逐渐显现
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="山中龙树">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9802)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **发布时间:** Aug 25, 2026
-
----
-### 飞马野马跑车
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的 YouMind 项目提示词，用于生成一辆长有飞马翅膀的白色福特野马，它既能飞行也能在水面上行驶。
-
-#### 📝 提示词
-
-```
-一辆流线型的白色福特野马肌肉车，两侧伸展着巨大而雄伟的白色飞马翅膀，具备飞行能力，能像船一样漂浮在水面上，也能在公路上行驶。车身采用亮面白色喷漆，配有镀铬细节 —— 专为 YouMind 项目设计的 AI 提示词 - 聚焦
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="飞马野马跑车">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9801)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **发布时间:** Aug 25, 2026
-
----
-### 多种舞蹈风格场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于舞者共同表演芭蕾及其他舞蹈风格的视频描述提示词。
-
-#### 📝 提示词
-
-```
-舞者们聆听着音乐，开始翩翩起舞。
-
-有些人共同起舞。
-
-有些人跳着芭蕾。
-
-有些人尝试了不同类型的舞蹈。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="多种舞蹈风格场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9798)**
-
-**作者:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **来源:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **发布时间:** Aug 25, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2202,6 +2196,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-04T04:19:44.866Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-04T09:09:34.835Z</sub>
 
 </div>

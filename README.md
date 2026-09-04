@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2690** |
+| 📝 Total Prompts | **2701** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-04** |
 
@@ -189,11 +189,201 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Forgotten People Pegasus Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A metaphorical prompt where the forgotten poor become royalty and fly on Pegasus to a castle.
+
+#### 📝 Prompt
+
+```
+All of the people forgotten all the poor people onto the horse Pegasus they become kings and queens, and they fly to their castle
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="Forgotten People Pegasus Flight">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10343)**
+
+**Author:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **Source:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **Published:** Sep 4, 2026
+
+---
+### Girl in Colossal Pocket Watch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic and melancholic video prompt featuring a young girl sitting inside a massive, rusted pocket watch in a desert landscape.
+
+#### 📝 Prompt
+
+```
+Cinematic shot of a small girl in worn clothes sitting inside a colossal rusted pocket watch in a cracked desert. Shattered glass face. Massive dusty gears behind her. Golden sunbeam through the broken crystal. Dry earth and dead shrubs. Painterly. Melancholic. Ultra detailed. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="Girl in Colossal Pocket Watch">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10342)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **Published:** Sep 4, 2026
+
+---
+### Dog Hailing a Taxi Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An animation prompt for Grok-imagine that brings a photo of a dog to life, depicting it raising its paw as if it were calling for a taxi.
+
+#### 📝 Prompt
+
+```
+Animate this photo of the dog with big ears, having him lift his paw as if he wanted to call a taxi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="Dog Hailing a Taxi Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10345)**
+
+**Author:** [Løen](https://x.com/l03n27) | **Source:** [Link](https://x.com/l03n27/status/2095697750130123031) | **Published:** Sep 4, 2026
+
+---
+### Mecha Warrior Transformation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for a massive transforming robot with detailed mechanical parts, sparks, and slow-motion movement.
+
+#### 📝 Prompt
+
+```
+THE NEXT EVOLUTION When machines become warriors, armor becomes more than protection. It becomes power. It becomes the future. Transform. Arm. Dominate. Visual style: cinematic + photorealistic, massive transforming robot, advanced , glowing energy cores, mechanical transformation, sparks and smoke, futuristic battlefield, dramatic lighting, slow-motion camera movement, ultra-detailed 8K sci-fi realism.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="Mecha Warrior Transformation Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10344)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **Published:** Sep 4, 2026
+
+---
+### Crescent Moon and Mars Sky
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic visualization of the crescent moon and Mars appearing close together in the dawn sky.
+
+#### 📝 Prompt
+
+```
+The crescent moon and Mars will appear close together in the pre-dawn sky on September 6, 2026
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="Crescent Moon and Mars Sky">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10335)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **Published:** Sep 4, 2026
+
+---
+### Industrial Pipe Mountain Valley
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic wide shot depicting a massive rusted industrial pipe spanning a mountain valley with a lone figure walking on top.
+
+#### 📝 Prompt
+
+```
+Cinematic wide shot of a colossal rusted industrial pipe spanning a rocky mountain valley. A tiny lone figure walking along the top toward a shattered circular fan at the open end. Stormy grey clouds. Painterly oil texture. Dramatic overcast light. Ultra detailed. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="Industrial Pipe Mountain Valley">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10339)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **Published:** Sep 4, 2026
+
+---
+### Victorious Cyborg Gladiator Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic video prompt for a triumphant gladiator with glowing cybernetic armor and a dramatic camera orbit.
+
+#### 📝 Prompt
+
+```
+Triumphant ending: the half-cyborg gladiator stands victorious in the arena, glowing blue armor and cyber eye, lions finishing the enemies in background, slow dramatic camera orbit, dust settling, heroic pose.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="Victorious Cyborg Gladiator Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10337)**
+
+**Author:** [Cicada AQ](https://x.com/CicadaAQum) | **Source:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **Published:** Sep 3, 2026
+
+---
+### Coal Miner Woman Cinematic Close-up
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for Grok Imagine featuring a coal-covered woman miner in a dark tunnel, with a focus on dramatic lighting as her eye turns to burning amber.
+
+#### 📝 Prompt
+
+```
+Cinematic close-up of a coal-covered woman miner in a dark circular mine tunnel. Battered helmet with a cracked glowing headlamp. Face coated in black dust. Intense stare. One eye slowly ignites into burning amber. Charcoal texture on skin. Moody single-source light. Photorealistic painterly. Ultra detailed. 8k. Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="Coal Miner Woman Cinematic Close-up">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10340)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
+
+---
+### Abstract Photon Transformation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A conceptual video prompt depicting light photons transforming negative emotions like fear and suffering into love and happiness.
+
+#### 📝 Prompt
+
+```
+Create a video where beautiful color photons transform fear into love and evil into goodness and suffering into happiness
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="Abstract Photon Transformation Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10338)**
+
+**Author:** [Joane](https://x.com/thejoaneunit) | **Source:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **Published:** Sep 3, 2026
+
+---
+### Pleiadian Mothership Ultra HD
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-resolution sci-fi prompt for generating saucer-shaped motherships with volumetric lighting.
+
+#### 📝 Prompt
+
+```
+Pleiadians in lightships and motherships of saucer shape, masterpiece, ultra HD quality resolution 11111111111111111199999999999999 k resolution, volumetric bright lighting colors tones and shading
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="Pleiadian Mothership Ultra HD">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10336)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **Published:** Sep 3, 2026
+
+---
 ### Animated Meowing Tabby Cat
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video animation prompt for a tabby cat among eggshells, featuring realistic meowing motions, head bobbing, and floating dust particles in sunlight.
+> A detailed animation prompt for a lively tabby cat meowing among eggshells with realistic lighting and motion.
 
 #### 📝 Prompt
 
@@ -227,11 +417,11 @@ A quiet moment in a sunlit rose garden, she pauses, breathes in the bloom, and s
 **Author:** [Ashutosh](https://x.com/Bhart0678) | **Source:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **Published:** Sep 3, 2026
 
 ---
-### Rainy Forest Mystery Light
+### A Light Appears Between the Trees Cinematic Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic video prompt for a 15-second sequence of a woman in a rainy forest discovering a flickering warm light.
+> A complex cinematic video prompt for a 15-second sequence of a woman in a rainy forest seeing a mysterious light.
 
 #### 📝 Prompt
 
@@ -239,7 +429,7 @@ A quiet moment in a sunlit rose garden, she pauses, breathes in the bloom, and s
 Create a photorealistic cinematic 15-second video from this exact image. Preserve the woman's exact face, hairstyle, wet hair, black raincoat, gray scarf, body proportions, forest environment, rainfall, lighting, and composition.0–4 sec: She stands completely still in the heavy rain, eyes closed and face tilted slightly upward, peacefully enjoying the rainfall. Water runs naturally through her wet hair and down her glossy raincoat. Her scarf moves gently in the cold breeze.4–7 sec: A faint, warm light suddenly appears deep between the trees behind her. At first it is barely noticeable, like a distant lantern glowing through the rain and mist. She slowly opens her eyes.7–10 sec: She notices the unusual light. Her expression changes from peaceful to curious. She slowly turns her head toward it, staring between the trees as rain continues falling around her.10–13 sec: The warm light becomes slightly brighter and flickers gently through the fog. She takes one cautious step toward it, her eyes fixed on the mysterious glow. The camera subtly moves with her.13–15 sec: Just as she takes another step, the light suddenly disappears. She stops and stares into the darkness between the trees, visibly confused. A beat of silence except for the rain. Cut to black.Photorealistic cinematic realism, atmospheric rainy forest, realistic rain and mist, wet hair and clothing, natural wind movement, subtle facial acting, believable walking motion, deep forest perspective, cool blue-gray surroundings contrasted with a distant warm amber light, shallow depth of field, subtle handheld camera movement. The light must remain distant and partially obscured by trees; never reveal its source. No supernatural creature, no person, no horror monster, no jump scare, no exaggerated reaction, no scene transition, no face changes, no outfit changes, no distorted hands, no morphing.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="Rainy Forest Mystery Light">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="A Light Appears Between the Trees Cinematic Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10283)**
 
@@ -266,42 +456,61 @@ Vertical 9:16 video, 10 seconds duration. Cinematic stylized 3D cartoon.
 **Author:** [จูบใครคิดว่าไม่สำคัญ](https://x.com/unclekidtung) | **Source:** [Link](https://x.com/unclekidtung/status/2095337708159906160) | **Published:** Sep 3, 2026
 
 ---
-### Airplane Wreck Stormy Sea Scene
+### Airplane Wreck Stormy Sea Portrait
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A moody, cinematic shot of a woman on a submerged airplane wreck in a stormy ocean environment.
+> A moody cinematic wide shot of a young woman sitting on the wing of a submerged airplane wreck in a stormy sea.
 
 #### 📝 Prompt
 
 ```
-Cinematic wide shot of a young woman with long wet hair sitting barefoot on the wing of a rusted white airplane wreck half-submerged in a stormy sea. Red tail light still glowing. Heavy grey clouds. Waves against dark rocks and cliffs. Photorealistic. Moody. Ultra detailed. 8k.
+Cinematic wide shot of a young woman with long wet hair sitting barefoot on the wing of a rusted white airplane wreck half-submerged in a stormy sea. Red tail light still glowing. Heavy grey clouds. Waves against dark rocks and cliffs. Photorealistic. Moody. Ultra detailed. 8k. Grok Imagine.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095012974671089664/img/PzQuNhY-VIzwslsz.jpg" width="600" alt="Airplane Wreck Stormy Sea Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095012974671089664/img/PzQuNhY-VIzwslsz.jpg" width="600" alt="Airplane Wreck Stormy Sea Portrait">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10284)**
 
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095308292243308887) | **Published:** Sep 3, 2026
 
 ---
-### Futuristic Mars City Construction by Optimus
+### Elon Musk's Mars City Construction
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video generation prompt visualizing a futuristic city on Mars being built by Tesla's Optimus robots, following Elon Musk's vision.
+> A cinematic video prompt visualizing Elon Musk's vision of a futuristic city on Mars being built by Tesla's Optimus humanoid robots.
 
 #### 📝 Prompt
 
 ```
-A video of the planet Mars according to Elon Musk's vision, showing the construction of a futuristic city on Mars, with the humanoid robot Optimus from Tesla actively building and working on the structures of the city
+A video of the planet Mars according to Elon Musk's vision, showing the construction of a futuristic city on Mars, with Tesla's Optimus humanoid robot actively building and working on the city structures
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095299106017034240/img/qFfksIef5wsl65Fu.jpg" width="600" alt="Futuristic Mars City Construction by Optimus">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095299106017034240/img/qFfksIef5wsl65Fu.jpg" width="600" alt="Elon Musk's Mars City Construction">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10287)**
 
 **Author:** [Delestre](https://x.com/stephdel0204) | **Source:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **Published:** Sep 2, 2026
+
+---
+### Young Cleopatra Egypt Landscape
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Visualizes a young Cleopatra looking out at the lands of Egypt with a sense of future destiny.
+
+#### 📝 Prompt
+
+```
+Cleopatra when she was younger looking out at Egypt knowing she would rule it one day
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095297599641427968/img/RLicB_jR0nFF0exF.jpg" width="600" alt="Young Cleopatra Egypt Landscape">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10341)**
+
+**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2095297619492851887) | **Published:** Sep 2, 2026
 
 ---
 ### Serene Moonlit Good Night Scene
@@ -1099,11 +1308,11 @@ The bioluminescent ones — yes, this is exactly the place. When the water’s w
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093840804871606418) | **Published:** Aug 29, 2026
 
 ---
-### 360 Degree Orbiting Time Lapse
+### 360-Degree Orbit Time-Lapse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a stationary subject with a 360-degree orbiting camera, featuring long exposure and motion blur.
+> A cinematic video prompt for a subject standing still while the crowd passes in a long-exposure time-lapse with a 360-degree camera orbit.
 
 #### 📝 Prompt
 
@@ -1111,7 +1320,7 @@ The bioluminescent ones — yes, this is exactly the place. When the water’s w
 He is standing in place , people passing around him in long exposure with time lapse and motion blur with push in dolly handheld camera motion, the camera orbiting around his body in 360 degrees
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093840475153125376/img/aojsCP-3YxTfkBEc.jpg" width="600" alt="360 Degree Orbiting Time Lapse">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093840475153125376/img/aojsCP-3YxTfkBEc.jpg" width="600" alt="360-Degree Orbit Time-Lapse">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10080)**
 
@@ -1919,221 +2128,6 @@ Change the setting from the beach/boat to the luxurious Playboy Mansion: elegant
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
 
 ---
-### Red Mermaid Dress Fashion Runway
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed fashion video prompt showing a model walking down a catwalk in a red mermaid-style dress with specific hair styling.
-
-#### 📝 Prompt
-
-```
-This girl will model a long party dress on a catwalk with a high bun with loose curls and a beautiful red mermaid-shaped dress
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="Red Mermaid Dress Fashion Runway">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9860)**
-
-**Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
-
----
-### Girl Cutting Giant Pineapple
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt where a woman enters the scene and cuts a giant pineapple in half to reveal its yellow, juicy interior.
-
-#### 📝 Prompt
-
-```
-attractive 23 year old girl walks into the scene and cuts the pineapple in half, yellow juicy pineapple on inside
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092450891580252160/img/c0BOWAW0nvo8h3hG.jpg" width="600" alt="Girl Cutting Giant Pineapple">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9919)**
-
-**Author:** [seeksteve](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2092454370650591648) | **Published:** Aug 26, 2026
-
----
-### Cat Marshmallow Coffee Art
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A whimsical video prompt depicting a tiny sleeping cat on a floating marshmallow in a latte.
-
-#### 📝 Prompt
-
-```
-A tiny cat laying asleep on a giant marshmallow, the marshmallow is floating on top of a latte art coffee
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="Cat Marshmallow Coffee Art">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
-
-**Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
-
----
-### Ethereal Portrait with Gentle Motion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt capturing a character's deep devotion with soft wind and hair movement, inspired by Odysseus and Penelope.
-
-#### 📝 Prompt
-
-```
-the wind gently lifts her long hair and the hem of her flowing dress, no big movements, She turns her head to face Odysseus directly, locking eyes with him in a playful yet fiercely loyal gaze, her expression soft and charged, lips slightly parted, eyes warm and intent with quiet heat and deep devotion
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092362822286032898/img/VBlJOLcS7ICgtbKs.jpg" width="600" alt="Ethereal Portrait with Gentle Motion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9930)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092362908936057342) | **Published:** Aug 25, 2026
-
----
-### Rainbow Universe Sci-Fi Prototype Reveal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sci-fi cinematic scene revealing companions and holographic avatars of famous geniuses orbiting in a rainbow universe.
-
-#### 📝 Prompt
-
-```
-Cinematic living reveal of the Rainbow Universe MsX and MrX prototype: the humanized friendly companions shift gently with warm smiles, the holographic wiki avatars of subscribers and RIP geniuses (Tesla, Franklin and diverse minds) orbit slowly and glow softly.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="Rainbow Universe Sci-Fi Prototype Reveal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9855)**
-
-**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **Published:** Aug 25, 2026
-
----
-### Cosmic Olympic Robot Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt describing a robot in a cosmic Olympic stadium setting with nebula effects.
-
-#### 📝 Prompt
-
-```
-Cinematic wide hero image, dark cosmic background with soft rainbow nebula, Olympic stadium stage in the middle distance with soft blue and gold lighting, a gentle feminine Soft RA MsX robot standing gracefully on the left in approachable Yin style,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="Cosmic Olympic Robot Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9859)**
-
-**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **Published:** Aug 25, 2026
-
----
-### Sailboat on Calm Waters
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A realistic motion video of a sailboat gliding through the ocean with billowing sails.
-
-#### 📝 Prompt
-
-```
-The sailboat gently glides forward through calm blue ocean waters, white sails billowing softly in a light breeze, subtle waves rippling around the hull with sparkling reflections, soft clouds drifting slowly across the clear blue sky, realistic moti...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="Sailboat on Calm Waters">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9857)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **Published:** Aug 25, 2026
-
----
-### Monet Style Frog Rowboat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed impressionist video prompt of a frog in 1800s clothing paddling a rowboat in a Monet-style lily pond.
-
-#### 📝 Prompt
-
-```
-9:16 still, Speed-friendly. One small wooden rowboat on a Monet lily pond, photoreal and wet impressionist oil at once: thick blues, greens, and cream-gold light, water like paint that isn’t dry. No second boat. In the boat, a cute little frog in late-1800s period clothes: tiny straw boater, striped waistcoat, a short jacket, earnest and cheerful, paddling with a miniature oar. Impasto lilies, canvas tooth in the bank, 1990s filmic grain over 1870s color. No people, no extra boats, no grim. One idea: a frog taking the painted water seriously. Beautiful and a little silly.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="Monet Style Frog Rowboat">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9858)**
-
-**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092229826128093365) | **Published:** Aug 25, 2026
-
----
-### Dragons in the Pine Pass
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A mystical video prompt depicting dragon faces emerging from pine trees in a mountain pass during a thunderstorm.
-
-#### 📝 Prompt
-
-```
-Looking between tow pine at the distant pass between the mountains clouds thunder a sliver of moon two dragon faces gradually become visible in the pine tree boughs
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="Dragons in the Pine Pass">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9802)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **Published:** Aug 25, 2026
-
----
-### White Mustang with Pegasus Wings
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An imaginative video featuring a white Ford Mustang with large wings capable of flight and driving on various surfaces.
-
-#### 📝 Prompt
-
-```
-A sleek white Ford Mustang muscle car with large, majestic white Pegasus wings extending from the sides, capable of flight, floating on water like a boat, and driving on roads. The car has a glossy white paint finish, chrome details -- A.I. for a vision board - focus
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="White Mustang with Pegasus Wings">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9801)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **Published:** Aug 25, 2026
-
----
-### Various Dance Styles Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive prompt for a video featuring dancers performing ballet and other styles together.
-
-#### 📝 Prompt
-
-```
-The dancers listened to the music and began to dance.
-
-Some danced together.
-
-Some danced ballet.
-
-Some tried different kinds of dancing.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="Various Dance Styles Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
-
-**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2189,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-04T04:19:43.831Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-04T09:09:33.916Z</sub>
 
 </div>

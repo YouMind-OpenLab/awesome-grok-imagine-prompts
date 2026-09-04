@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2690** |
+| 📝 Total Prompts | **2701** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-04** |
 
@@ -189,6 +189,196 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### เที่ยวบิน Pegasus ของผู้ถูกลืม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งเชิงเปรียบเทียบที่ผู้ยากไร้ซึ่งถูกลืมเลือนกลายเป็นราชวงศ์และขี่ม้า Pegasus บินไปยังปราสาท
+
+#### 📝 Prompt
+
+```
+ผู้คนที่ถูกลืมและผู้ยากไร้ทุกคนได้ขึ้นขี่ม้า Pegasus พวกเขากลายเป็นราชาและราชินี และบินไปยังปราสาทของพวกเขา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="เที่ยวบิน Pegasus ของผู้ถูกลืม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10343)**
+
+**Author:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **Source:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **Published:** Sep 4, 2026
+
+---
+### เด็กหญิงในนาฬิกาพกขนาดยักษ์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่ให้ความรู้สึกหม่นหมอง นำเสนอภาพเด็กหญิงตัวน้อยนั่งอยู่ภายในนาฬิกาพกเก่าคร่ำคร่าขนาดมหึมาท่ามกลางภูมิทัศน์ทะเลทราย
+
+#### 📝 Prompt
+
+```
+ภาพถ่ายสไตล์ภาพยนตร์ของเด็กหญิงตัวน้อยในชุดมอมแมมที่กำลังนั่งอยู่ภายในนาฬิกาพกเก่าคร่ำคร่าขนาดมหึมาท่ามกลางทะเลทรายที่แตกระแหง หน้าปัดกระจกแตกละเอียด เฟืองขนาดใหญ่ที่เต็มไปด้วยฝุ่นอยู่ด้านหลัง แสงอาทิตย์สีทองส่องผ่านคริสตัลที่แตกหัก พื้นดินแห้งแล้งและพุ่มไม้ที่ตายแล้ว ให้ความรู้สึกเหมือนภาพวาด มีความหม่นหมอง รายละเอียดสูงมาก 8k Grok Imagine
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="เด็กหญิงในนาฬิกาพกขนาดยักษ์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10342)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **Published:** Sep 4, 2026
+
+---
+### แอนิเมชันสุนัขกำลังเรียกแท็กซี่
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างแอนิเมชันด้วย Grok-imagine ที่จะทำให้ภาพถ่ายของสุนัขดูมีชีวิตขึ้นมา โดยแสดงภาพสุนัขกำลังยกอุ้งเท้าขึ้นเหมือนกับว่ามันกำลังเรียกแท็กซี่
+
+#### 📝 Prompt
+
+```
+สร้างแอนิเมชันจากภาพถ่ายสุนัขหูใหญ่ตัวนี้ โดยให้มันยกอุ้งเท้าขึ้นเหมือนกับว่ามันต้องการเรียกแท็กซี่
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="แอนิเมชันสุนัขกำลังเรียกแท็กซี่">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10345)**
+
+**Author:** [Løen](https://x.com/l03n27) | **Source:** [Link](https://x.com/l03n27/status/2095697750130123031) | **Published:** Sep 4, 2026
+
+---
+### วิดีโอการแปลงร่างของหุ่นยนต์เมกะ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์สำหรับหุ่นยนต์แปลงร่างขนาดมหึมาที่เต็มไปด้วยรายละเอียดชิ้นส่วนกลไก ประกายไฟ และการเคลื่อนไหวแบบสโลว์โมชั่น
+
+#### 📝 Prompt
+
+```
+วิวัฒนาการขั้นถัดไป เมื่อเครื่องจักรกลกลายเป็นนักรบ เกราะจึงเป็นมากกว่าแค่การป้องกัน แต่มันคือพลัง มันคืออนาคต จงแปลงร่าง ติดอาวุธ และครองความเป็นใหญ่ รูปแบบภาพ: ภาพยนตร์ + สมจริงดั่งภาพถ่าย, หุ่นยนต์แปลงร่างขนาดมหึมา, ล้ำสมัย, แกนพลังงานเรืองแสง, การแปลงร่างด้วยกลไก, ประกายไฟและควัน, สมรภูมิแห่งอนาคต, แสงสีที่ดูดราม่า, การเคลื่อนไหวกล้องแบบสโลว์โมชั่น, ความสมจริงระดับไซไฟ 8K ที่เก็บรายละเอียดครบถ้วน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="วิดีโอการแปลงร่างของหุ่นยนต์เมกะ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10344)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **Published:** Sep 4, 2026
+
+---
+### ดวงจันทร์เสี้ยวและดาวอังคารบนท้องฟ้า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ภาพจำลองเชิงภาพยนตร์ของดวงจันทร์เสี้ยวและดาวอังคารที่ปรากฏใกล้กันบนท้องฟ้าช่วงรุ่งสาง
+
+#### 📝 Prompt
+
+```
+ดวงจันทร์เสี้ยวและดาวอังคารจะปรากฏใกล้กันบนท้องฟ้าช่วงก่อนรุ่งสางในวันที่ 6 กันยายน 2026
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="ดวงจันทร์เสี้ยวและดาวอังคารบนท้องฟ้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10335)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **Published:** Sep 4, 2026
+
+---
+### ท่ออุตสาหกรรมในหุบเขา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ภาพมุมกว้างแบบภาพยนตร์ที่แสดงให้เห็นท่ออุตสาหกรรมขนาดมหึมาที่ขึ้นสนิมพาดผ่านหุบเขา โดยมีคนเพียงคนเดียวเดินอยู่ด้านบน
+
+#### 📝 Prompt
+
+```
+ภาพมุมกว้างแบบภาพยนตร์ของท่ออุตสาหกรรมขนาดมหึมาที่ขึ้นสนิมพาดผ่านหุบเขาหิน มีร่างเล็กๆ เพียงคนเดียวเดินอยู่บนท่อตรงไปยังพัดลมวงกลมที่แตกหักบริเวณปลายเปิด ท้องฟ้าเต็มไปด้วยเมฆสีเทาพายุ พื้นผิวแบบภาพวาดสีน้ำมัน แสงสลัวที่ดูดราม่า รายละเอียดสูงมาก ความละเอียด 8k ผลงานจาก Grok Imagine
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="ท่ออุตสาหกรรมในหุบเขา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10339)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **Published:** Sep 4, 2026
+
+---
+### ฉากนักรบกลาดิเอเตอร์ไซบอร์กผู้มีชัย
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอระดับภาพยนตร์ที่ละเอียดสำหรับนักรบกลาดิเอเตอร์ผู้มีชัย พร้อมชุดเกราะไซเบอร์เนติกส์เรืองแสงและการเคลื่อนกล้องแบบหมุนวนที่ดูน่าตื่นตา
+
+#### 📝 Prompt
+
+```
+ฉากจบแห่งชัยชนะ: นักรบกลาดิเอเตอร์กึ่งไซบอร์กยืนอย่างผู้ชนะในสนามประลอง ชุดเกราะสีฟ้าเรืองแสงและดวงตาไซเบอร์เนติกส์ โดยมีสิงโตกำลังจัดการกับศัตรูที่อยู่เบื้องหลัง การเคลื่อนกล้องแบบหมุนวนที่ช้าและดูน่าตื่นตา ฝุ่นที่ค่อย ๆ จางลง พร้อมท่าทางที่ดูวีรบุรุษ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="ฉากนักรบกลาดิเอเตอร์ไซบอร์กผู้มีชัย">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10337)**
+
+**Author:** [Cicada AQ](https://x.com/CicadaAQum) | **Source:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **Published:** Sep 3, 2026
+
+---
+### ภาพโคลสอัพเชิงภาพยนตร์ของหญิงสาวคนงานเหมืองถ่านหิน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เชิงภาพยนตร์ที่มีรายละเอียดสำหรับ Grok Imagine โดยนำเสนอภาพหญิงสาวคนงานเหมืองที่เปรอะเปื้อนไปด้วยถ่านหินในอุโมงค์มืด เน้นการจัดแสงที่ดูดราม่าในขณะที่ดวงตาของเธอเปลี่ยนเป็นสีอำพันที่ลุกโชน
+
+#### 📝 Prompt
+
+```
+ภาพโคลสอัพเชิงภาพยนตร์ของหญิงสาวคนงานเหมืองที่เปรอะเปื้อนไปด้วยถ่านหินในอุโมงค์เหมืองทรงกลมที่มืดมิด สวมหมวกนิรภัยที่บุบสลายพร้อมไฟฉายติดหมวกที่แตกและมีแสงเรืองรอง ใบหน้าเคลือบด้วยฝุ่นสีดำ จ้องมองด้วยสายตาที่เข้มข้น ดวงตาข้างหนึ่งค่อย ๆ ลุกโชนกลายเป็นสีอำพัน พื้นผิวของผิวหนังมีลักษณะคล้ายถ่านหิน แสงจากแหล่งกำเนิดเดียวที่ให้บรรยากาศหม่น ๆ สไตล์ภาพวาดที่สมจริงเหมือนภาพถ่าย รายละเอียดสูงพิเศษ 8k Grok Imagine
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="ภาพโคลสอัพเชิงภาพยนตร์ของหญิงสาวคนงานเหมืองถ่านหิน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10340)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
+
+---
+### วิดีโอการเปลี่ยนผ่านของโฟตอนเชิงนามธรรม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงแนวคิดที่แสดงภาพโฟตอนของแสงกำลังเปลี่ยนผ่านอารมณ์เชิงลบ เช่น ความกลัวและความทุกข์ ให้กลายเป็นความรักและความสุข
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอที่โฟตอนสีสันสวยงามเปลี่ยนความกลัวให้เป็นความรัก เปลี่ยนความชั่วร้ายให้เป็นความดี และเปลี่ยนความทุกข์ให้เป็นความสุข
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="วิดีโอการเปลี่ยนผ่านของโฟตอนเชิงนามธรรม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10338)**
+
+**Author:** [Joane](https://x.com/thejoaneunit) | **Source:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **Published:** Sep 3, 2026
+
+---
+### ยานแม่ Pleiadian ความละเอียด Ultra HD
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) แนวไซไฟความละเอียดสูงสำหรับสร้างภาพยานแม่รูปทรงจานบินพร้อมแสงแบบ Volumetric
+
+#### 📝 Prompt
+
+```
+ชาว Pleiadian ในยานแสงและยานแม่รูปทรงจานบิน, ผลงานระดับมาสเตอร์พีซ, ความละเอียดระดับ Ultra HD 11111111111111111199999999999999 k, โทนสีและแสงสว่างแบบ Volumetric พร้อมการไล่เฉดสี
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="ยานแม่ Pleiadian ความละเอียด Ultra HD">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10336)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **Published:** Sep 3, 2026
+
+---
 ### วิดีโอแอนิเมชันแมวลายสลิดกำลังร้องเมี๊ยว
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -302,6 +492,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10287)**
 
 **Author:** [Delestre](https://x.com/stephdel0204) | **Source:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **Published:** Sep 2, 2026
+
+---
+### ภาพทิวทัศน์ของคลีโอพัตราในวัยเยาว์กับอียิปต์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ภาพจำลองของคลีโอพัตราในวัยเยาว์ที่กำลังมองออกไปเห็นดินแดนอียิปต์ด้วยความรู้สึกถึงโชคชะตาในอนาคต
+
+#### 📝 Prompt
+
+```
+คลีโอพัตราในวัยเยาว์ที่กำลังมองออกไปเห็นอียิปต์ โดยรู้ดีว่าสักวันหนึ่งเธอจะได้ปกครองที่แห่งนี้
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095297599641427968/img/RLicB_jR0nFF0exF.jpg" width="600" alt="ภาพทิวทัศน์ของคลีโอพัตราในวัยเยาว์กับอียิปต์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10341)**
+
+**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2095297619492851887) | **Published:** Sep 2, 2026
 
 ---
 ### ฉากคืนพระจันทร์เต็มดวงอันเงียบสงบ
@@ -1926,221 +2135,6 @@ VALENTINO ROSSI ขึ้นขี่ Ducati Streetfighter R รุ่นแต�
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
 
 ---
-### แฟชั่นโชว์ชุดราตรีทรงหางปลาสีแดง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสำหรับสร้างวิดีโอแบบละเอียดสำหรับนางแบบที่กำลังเดินแฟชั่นโชว์ในชุดเดรสทรงหางปลาสีแดงและทรงผมเกล้ามวยสูง
-
-#### 📝 Prompt
-
-```
-นางแบบสาวสวมชุดราตรียาวเดินบนแคทวอล์ก ทำผมทรงมวยสูงปล่อยปอยผมดัดลอน และสวมชุดเดรสทรงหางปลาสีแดงสุดหรู
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092497513056010240/img/nKnXiUus3YskAzuH.jpg" width="600" alt="แฟชั่นโชว์ชุดราตรีทรงหางปลาสีแดง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9860)**
-
-**Author:** [Esther Santana](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2092497529464111412) | **Published:** Aug 26, 2026
-
----
-### หญิงสาวกำลังหั่นสับปะรดขนาดยักษ์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่หญิงสาวเดินเข้ามาในฉากและหั่นสับปะรดขนาดยักษ์ออกเป็นสองซีก เผยให้เห็นเนื้อในสีเหลืองฉ่ำ
-
-#### 📝 Prompt
-
-```
-หญิงสาวหน้าตาดึงดูดใจวัย 23 ปี เดินเข้ามาในฉากและหั่นสับปะรดออกเป็นสองซีก เผยให้เห็นเนื้อสับปะรดสีเหลืองฉ่ำอยู่ด้านใน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092450891580252160/img/c0BOWAW0nvo8h3hG.jpg" width="600" alt="หญิงสาวกำลังหั่นสับปะรดขนาดยักษ์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9919)**
-
-**Author:** [seeksteve](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2092454370650591648) | **Published:** Aug 26, 2026
-
----
-### แมวน้อยหลับปุ๋ยบนมาร์ชเมลโลว์ในลาเต้
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สุดสร้างสรรค์ที่นำเสนอภาพแมวตัวจิ๋วกำลังนอนหลับอยู่บนมาร์ชเมลโลว์ที่ลอยอยู่บนฟองนมลาเต้อาร์ต เหมาะอย่างยิ่งสำหรับคอนเทนต์ภาพที่ให้ความรู้สึกอบอุ่นและน่ารัก
-
-#### 📝 Prompt
-
-```
-แมวตัวจิ๋วกำลังนอนหลับอยู่บนมาร์ชเมลโลว์ขนาดใหญ่ โดยที่มาร์ชเมลโลว์นั้นลอยอยู่บนกาแฟลาเต้อาร์ต
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092366587508776960/img/uVMA3QMhb9_IscVJ.jpg" width="600" alt="แมวน้อยหลับปุ๋ยบนมาร์ชเมลโลว์ในลาเต้">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9854)**
-
-**Author:** [Maxime](https://x.com/Maxime887812) | **Source:** [Link](https://x.com/Maxime887812/status/2092366605452030211) | **Published:** Aug 25, 2026
-
----
-### ภาพพอร์ตเทรตอันงดงามพร้อมการเคลื่อนไหวที่นุ่มนวล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่ถ่ายทอดความรักอันลึกซึ้งของตัวละคร พร้อมสายลมแผ่วเบาและการเคลื่อนไหวของเส้นผม โดยได้รับแรงบันดาลใจจาก Odysseus และ Penelope
-
-#### 📝 Prompt
-
-```
-สายลมพัดเส้นผมยาวและชายกระโปรงที่พลิ้วไหวของเธออย่างแผ่วเบา ไม่มีการเคลื่อนไหวที่รุนแรง เธอหันหน้าไปหา Odysseus โดยตรง สบตากับเขาด้วยแววตาที่ขี้เล่นแต่เต็มไปด้วยความซื่อสัตย์อย่างแรงกล้า สีหน้าของเธออ่อนโยนและเปี่ยมไปด้วยอารมณ์ ริมฝีปากเผยอเล็กน้อย ดวงตาอบอุ่นและมุ่งมั่นแฝงไปด้วยความรู้สึกที่เงียบเชียบแต่ร้อนแรงและเต็มไปด้วยความรักอันลึกซึ้ง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092362822286032898/img/VBlJOLcS7ICgtbKs.jpg" width="600" alt="ภาพพอร์ตเทรตอันงดงามพร้อมการเคลื่อนไหวที่นุ่มนวล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9930)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092362908936057342) | **Published:** Aug 25, 2026
-
----
-### เผยต้นแบบไซไฟ Rainbow Universe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ฉากภาพยนตร์แนวไซไฟที่เผยให้เห็นเหล่าเพื่อนร่วมทางและอวตารโฮโลแกรมของอัจฉริยะชื่อดังที่กำลังโคจรอยู่ในจักรวาลสายรุ้ง
-
-#### 📝 Prompt
-
-```
-การเผยโฉมต้นแบบ MsX และ MrX แห่ง Rainbow Universe ในรูปแบบภาพยนตร์ที่มีชีวิตชีวา: เพื่อนร่วมทางที่เป็นมิตรในร่างมนุษย์ขยับตัวอย่างนุ่มนวลพร้อมรอยยิ้มที่อบอุ่น โดยมีอวตารโฮโลแกรมแบบวิกิของผู้ติดตามและอัจฉริยะผู้ล่วงลับ (เช่น Tesla, Franklin และบุคคลผู้ทรงภูมิปัญญาหลากหลายท่าน) กำลังโคจรอย่างช้าๆ พร้อมเปล่งแสงนวลตา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092270020260728832/img/UmwIiYfb4ENgG0NI.jpg" width="600" alt="เผยต้นแบบไซไฟ Rainbow Universe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9855)**
-
-**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092270062539334033) | **Published:** Aug 25, 2026
-
----
-### ฉากหุ่นยนต์ในการแข่งขันโอลิมปิกแห่งจักรวาล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) เชิงภาพยนตร์ที่บรรยายถึงหุ่นยนต์ในสนามกีฬาโอลิมปิกท่ามกลางอวกาศพร้อมเอฟเฟกต์เนบิวลา
-
-#### 📝 Prompt
-
-```
-ภาพมุมกว้างสไตล์ภาพยนตร์ พื้นหลังเป็นอวกาศมืดมิดพร้อมเนบิวลาสีรุ้งจางๆ เวทีสนามกีฬาโอลิมปิกอยู่ตรงกลางระยะไกลพร้อมแสงสีฟ้าและสีทองนุ่มนวล หุ่นยนต์ Soft RA MsX ร่างเพรียวบางดูอ่อนโยนยืนอยู่อย่างสง่างามทางด้านซ้ายในสไตล์ Yin ที่ดูเข้าถึงง่าย...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092269283828998144/img/t2k5SLHipLULwavf.jpg" width="600" alt="ฉากหุ่นยนต์ในการแข่งขันโอลิมปิกแห่งจักรวาล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9859)**
-
-**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092269299788357988) | **Published:** Aug 25, 2026
-
----
-### เรือใบในน่านน้ำที่เงียบสงบ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอเคลื่อนไหวสมจริงของเรือใบที่กำลังแล่นผ่านมหาสมุทรพร้อมใบเรือที่พองลม
-
-#### 📝 Prompt
-
-```
-เรือใบแล่นไปข้างหน้าอย่างนุ่มนวลผ่านน้ำทะเลสีครามที่เงียบสงบ ใบเรือสีขาวพองลมเบา ๆ ท่ามกลางสายลมแผ่ว มีระลอกคลื่นเล็กน้อยรอบตัวเรือพร้อมแสงสะท้อนระยิบระยับ ก้อนเมฆนุ่มฟูลอยช้า ๆ อยู่บนท้องฟ้าสีครามสดใส เป็นภาพเคลื่อนไหวที่สมจริง...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092266700456488961/img/OMe714vKas3Lzl5-.jpg" width="600" alt="เรือใบในน่านน้ำที่เงียบสงบ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9857)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092266722287841695) | **Published:** Aug 25, 2026
-
----
-### กบพายเรือสไตล์โมเนต์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวอิมเพรสชันนิสม์ที่เก็บรายละเอียดของกบในชุดย้อนยุคศตวรรษที่ 18 กำลังพายเรือในสระบัวสไตล์โมเนต์
-
-#### 📝 Prompt
-
-```
-ภาพนิ่งอัตราส่วน 9:16 ที่เหมาะกับการประมวลผลความเร็วสูง เรือพายไม้ลำเล็กหนึ่งลำในสระบัวสไตล์โมเนต์ ให้ความรู้สึกสมจริงและเป็นภาพวาดสีน้ำมันแนวอิมเพรสชันนิสม์ที่เปียกชื้นในเวลาเดียวกัน: เต็มไปด้วยสีน้ำเงิน สีเขียว และแสงสีครีมทอง ผิวน้ำดูเหมือนสีที่ยังไม่แห้งสนิท ไม่มีเรือลำอื่น บนเรือมีกบตัวน้อยน่ารักในชุดย้อนยุคปลายศตวรรษที่ 18: สวมหมวกฟางใบจิ๋ว เสื้อกั๊กลายทาง และเสื้อแจ็กเก็ตตัวสั้น ดูตั้งใจและร่าเริง กำลังพายเรือด้วยไม้พายขนาดเล็ก ดอกบัวแบบอิมปาสโต (Impasto) พื้นผิวผ้าใบที่ขรุขระบริเวณริมฝั่ง พร้อมเกรนฟิล์มยุค 1990 บนโทนสีแบบยุค 1870 ไม่มีผู้คน ไม่มีเรือลำอื่น และไม่มีความหม่นหมอง แนวคิดหลักคือ กบที่กำลังพายเรืออย่างจริงจังในโลกแห่งภาพวาด สวยงามและดูตลกเล็กน้อย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092228723957182464/img/S6AL77HY-HEmf0as.jpg" width="600" alt="กบพายเรือสไตล์โมเนต์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9858)**
-
-**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092229826128093365) | **Published:** Aug 25, 2026
-
----
-### ต้นมังกรแห่งขุนเขา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ภาพทิวทัศน์ที่เผยให้เห็นใบหน้ามังกรซ่อนตัวอยู่ท่ามกลางกิ่งสนในช่องเขาที่เต็มไปด้วยพายุ
-
-#### 📝 Prompt
-
-```
-มองลอดผ่านต้นสนสองต้นไปยังช่องเขาที่อยู่ไกลออกไป ท่ามกลางเมฆฝนและเสียงฟ้าร้อง แสงจันทร์เสี้ยวส่องกระทบให้เห็นใบหน้ามังกรสองตัวค่อย ๆ ปรากฏชัดขึ้นท่ามกลางกิ่งก้านของต้นสน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092100466524192768/img/rUNZoH1_eaKHSvjM.jpg" width="600" alt="ต้นมังกรแห่งขุนเขา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9802)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092100540683723048) | **Published:** Aug 25, 2026
-
----
-### Flying Pegasus Mustang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสร้างวิชั่นบอร์ด (vision board) อย่างละเอียดสำหรับรถ Ford Mustang สีขาวที่มีปีกเพกาซัส สามารถบินได้และขับเคลื่อนบนผิวน้ำได้
-
-#### 📝 Prompt
-
-```
-รถมัสเซิลคาร์ Ford Mustang สีขาวโฉบเฉี่ยว พร้อมปีกเพกาซัสสีขาวขนาดใหญ่ที่ดูสง่างามกางออกมาจากด้านข้าง สามารถบินได้ ลอยบนน้ำได้เหมือนเรือ และขับขี่บนท้องถนนได้ ตัวรถมีการเคลือบสีขาวเงางามและรายละเอียดโครเมียม -- A.I. สำหรับวิชั่นบอร์ด - โฟกัส
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092075702979833858/img/eJPoL-PyWLHN7Nn8.jpg" width="600" alt="Flying Pegasus Mustang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9801)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092075810265976865) | **Published:** Aug 25, 2026
-
----
-### ฉากการเต้นหลากหลายสไตล์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำอธิบายสำหรับวิดีโอที่แสดงนักเต้นกำลังเต้นบัลเลต์และสไตล์อื่นๆ ร่วมกัน
-
-#### 📝 Prompt
-
-```
-เหล่านักเต้นฟังเพลงและเริ่มออกลีลาการเต้น
-
-บางคนเต้นด้วยกัน
-
-บางคนเต้นบัลเลต์
-
-บางคนลองเต้นในรูปแบบที่แตกต่างกันออกไป
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092069465953533953/img/5jA9c9vMeKVnNuhk.jpg" width="600" alt="ฉากการเต้นหลากหลายสไตล์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9798)**
-
-**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2092069486153421219) | **Published:** Aug 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2202,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-04T04:19:50.076Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-04T09:09:38.755Z</sub>
 
 </div>
