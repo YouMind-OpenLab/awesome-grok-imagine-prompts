@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2701** |
+| 📝 Total Prompts | **2710** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-05** |
 
@@ -189,6 +189,158 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Movimiento de cámara en muralla de castillo steampunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de movimiento de cámara cinematográfico que recorre las murallas de un castillo con vistas a una ciudad de estilo steampunk durante la noche.
+
+#### 📝 Prompt
+
+```
+Desplazamiento a lo largo de las murallas del castillo mientras se observa la ciudad de estilo steampunk durante la noche.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="Movimiento de cámara en muralla de castillo steampunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10384)**
+
+**Author:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **Source:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **Published:** Sep 5, 2026
+
+---
+### Ceremonia de investidura de caballero al estilo de película de acción
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt cinematográfico detallado de una ceremonia de investidura de caballero en la sala del trono real con una heroína y una atmósfera majestuosa.
+
+#### 📝 Prompt
+
+```
+Una escena al estilo de una película de acción donde una hermosa heroína tiene una audiencia con una reina en la sala del trono del castillo real, y se lleva a cabo una ceremonia de investidura de caballero. Una atmósfera solemne y dramática, un interior real lujoso y colores nobles y vívidos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="Ceremonia de investidura de caballero al estilo de película de acción">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10392)**
+
+**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **Published:** Sep 5, 2026
+
+---
+### Infografía sobre la luz azul y el ritmo circadiano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video detallado para crear una infografía que explica cómo los rayos de luz azul afectan la producción de melatonina y alteran los ciclos de sueño.
+
+#### 📝 Prompt
+
+```
+Infografía sobre cómo los rayos de luz azul impiden la producción de melatonina y alteran el ritmo circadiano
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="Infografía sobre la luz azul y el ritmo circadiano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10385)**
+
+**Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
+
+---
+### Escena de ciencia ficción: Ciudad en caverna subterránea
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video de ciencia ficción detallado para una toma cinematográfica panorámica de una vasta ciudad en una caverna subterránea, con cápsulas habitacionales modulares e iluminación dramática.
+
+#### 📝 Prompt
+
+```
+Toma cinematográfica panorámica de una vasta ciudad en una caverna subterránea con cápsulas habitacionales modulares blancas integradas en las paredes de cañones rocosos, ventanas con luz cálida, un río que recorre el suelo de la caverna, puentes peatonales delgados con pequeñas figuras cruzando, rayos de sol dramáticos que se filtran desde una abertura circular en el techo de piedra, niebla suave en el ambiente, arquitectura de ciencia ficción esperanzadora, detalle fotorrealista, silencioso y luminoso
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="Escena de ciencia ficción: Ciudad en caverna subterránea">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10386)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **Published:** Sep 4, 2026
+
+---
+### Astronauta flotando en gravedad cero
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico detallado para un astronauta flotando en el espacio con movimientos de cámara fluidos y fondos de estrellas realistas.
+
+#### 📝 Prompt
+
+```
+El astronauta flota suavemente en gravedad cero, girando lentamente y mirando a su alrededor, las estrellas pasan a la deriva, movimiento de cámara sutil, movimiento cinematográfico fluido
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="Astronauta flotando en gravedad cero">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10388)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **Published:** Sep 4, 2026
+
+---
+### Streamer japonés hablando (Talking Head)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video de alta fidelidad para expresiones faciales realistas y sincronización labial.
+
+#### 📝 Prompt
+
+```
+Primer plano de cabeza parlante, streamer japonés joven, movimientos labiales naturales y continuos sincronizados con el habla, expresión entusiasta y de alta tensión, formas de boca que cambian claramente sílaba por sílaba, parpadeo y microexpresiones, fotorrealista
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="Streamer japonés hablando (Talking Head)">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
+
+**Author:** [AIかぴ](https://x.com/ck_pkki2) | **Source:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **Published:** Sep 4, 2026
+
+---
+### Escena de llegada de una nave espacial imperial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico para Grok Imagine que representa a una multitud observando la llegada de una nave espacial imperial a su planeta.
+
+#### 📝 Prompt
+
+```
+Todos se están reuniendo para observar la llegada de una nave espacial imperial a su planeta.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="Escena de llegada de una nave espacial imperial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10390)**
+
+**Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
+
+---
+### Figura solitaria en un salar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video surrealista y atmosférico que muestra a una figura solitaria frente a un disco de piedra colosal en un salar agrietado infinito.
+
+#### 📝 Prompt
+
+```
+Plano cinematográfico abierto de una figura solitaria con abrigo oscuro de pie sobre un salar agrietado infinito, frente a un disco circular agrietado y colosal con anillos de piedra concéntricos y un agujero oscuro en el centro, textura de piedra y metal fracturados, sombra larga y marcada sobre la tierra blanca, cielo pálido y nublado, atmósfera surrealista y tranquila, detalle pictórico, íntimo y estático, tejidos y superficies desgastadas ultra detallados
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="Figura solitaria en un salar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **Published:** Sep 4, 2026
+
+---
 ### El vuelo de Pegaso de los olvidados
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -511,6 +663,37 @@ Cleopatra cuando era más joven contemplando Egipto, sabiendo que algún día lo
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10341)**
 
 **Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2095297619492851887) | **Published:** Sep 2, 2026
+
+---
+### Animación de lectura en un dormitorio acogedor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un sofisticado prompt de video para Grok Imagine que dirige al modelo a animar una imagen estática de una mujer atrapando un libro que cae, enfocándose en un movimiento realista y expresiones faciales reactivas.
+
+#### 📝 Prompt
+
+```
+Crea un video cinematográfico fotorrealista y acogedor de 15 segundos a partir de esta imagen exacta. Conserva el rostro, peinado, cárdigan, joyas, proporciones corporales, dormitorio, cama, libros, lámpara, decoraciones de pared, iluminación y composición general de la mujer.
+
+0–4 seg: Ella está sentada cómodamente en la cama, mirando hacia la cámara con una expresión suave y relajada. Parpadea y respira de forma natural, luego mira hacia la pila de libros a su lado.
+
+4–7 seg: Extiende la mano hacia la pila y saca suavemente un libro. Mientras lo hace, otro libro se desliza repentinamente de la pila y cae hacia el suelo.
+
+7–10 seg: Reacciona rápidamente, inclinándose hacia adelante y bajando la mano para atrapar el libro que cae. Logra agarrarlo justo antes de que toque el suelo.
+
+10–12 seg: Se vuelve a sentar sosteniendo el libro, mirándolo con una expresión ligeramente sorprendida, y luego suelta una pequeña risa divertida.
+
+12–15 seg: Mira directamente a la cámara, sonríe con picardía y dice suavemente: “Eso estuvo cerca”. Coloca el libro de forma segura a su lado.
+
+Movimiento humano natural, tiempo de reacción realista, movimientos de manos y dedos creíbles, interacción precisa con el libro, movimiento sutil del cabello, tejido del cárdigan realista, expresiones faciales naturales, atmósfera de dormitorio acogedor por la tarde, iluminación cinematográfica suave, profundidad de campo reducida, sensación de cámara en mano suave. El libro que cae debe moverse naturalmente con la gravedad y ser atrapado de forma realista. Sin actuaciones exageradas, sin movimientos bruscos de cámara, sin personas adicionales, sin cambios de rostro, sin cambios de vestuario, sin manos distorsionadas, sin deformación de objetos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095138179166949376/img/lSmg-daTNlRhHUN2.jpg" width="600" alt="Animación de lectura en un dormitorio acogedor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10391)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095139680786493912) | **Published:** Sep 2, 2026
 
 ---
 ### Escena serena de buenas noches bajo la luz de la luna
@@ -1962,179 +2145,6 @@ Anima. Mantén la escena y no hagas zoom ni alejes la imagen. Sin habla ni palab
 **Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
 
 ---
-### Desfile de moda con un gato modelo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico detallado que describe a un gato con un abrigo de terciopelo caminando por una pasarela de moda como todo un caballero junto a una modelo humana.
-
-#### 📝 Prompt
-
-```
-La cámara comienza con un plano general de la pasarela. El gato, vestido con un abrigo de terciopelo, avanza sobre sus patas traseras; con una pata sostiene la mano de la modelo y la otra descansa ligeramente sobre su cadera. Mantiene la cabeza en alto, con el mentón erguido y la cola balanceándose a cada paso. La modelo se desliza a su lado con elegancia, con la barbilla alzada y el vestido fluyendo. Al llegar al final de la pasarela, el gato gira la cabeza, dedica un parpadeo lento y deliberado al público y luego mira a la modelo con una pequeña sonrisa de suficiencia. Ajusta su agarre en la mano de ella como un caballero, luego ambos giran juntos y comienzan el camino de regreso, mientras sus pequeñas botas resuenan sobre la pasarela.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="Desfile de moda con un gato modelo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9926)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **Published:** Aug 26, 2026
-
----
-### Sueño de la carrera de caballos en Saratoga
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera un video que representa una carrera de caballos específica en el hipódromo de Saratoga, centrándose en el caballo número cinco durante la primera carrera.
-
-#### 📝 Prompt
-
-```
-El sueño de Lori corriendo el 27 de agosto en el famoso hipódromo de Saratoga, carrera número uno, caballo número cinco, muestra el número cinco en el caballo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="Sueño de la carrera de caballos en Saratoga">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9921)**
-
-**Author:** [Ron Lundenberg](https://x.com/rlunden) | **Source:** [Link](https://x.com/rlunden/status/2092720610602364995) | **Published:** Aug 26, 2026
-
----
-### Escena de comedia nerd alemana
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt creativo de video que coloca a un personaje en una escena de "Revenge of the Nerds" con un elemento humorístico de barrera idiomática.
-
-#### 📝 Prompt
-
-```
-Pon a este tipo en una escena de "Revenge of the Nerds". Pero tiene un marcado acento alemán y nadie puede entenderlo. Todos se quedan mirando confundidos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="Escena de comedia nerd alemana">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9925)**
-
-**Author:** [Ken Simpson](https://x.com/ttul) | **Source:** [Link](https://x.com/ttul/status/2092708814281978175) | **Published:** Aug 26, 2026
-
----
-### Calle urbana con comunicación telepática
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video que visualiza los pensamientos como burbujas de texto sobre las personas en una calle concurrida.
-
-#### 📝 Prompt
-
-```
-Comunicación telepática vista en las calles de la ciudad como burbujas con texto en su interior sobre las cabezas de las personas; también cómo se siente cuando alguien accede a tu cerebro ilegalmente para robarte propiedad intelectual, incluyendo las ideas que tienes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="Calle urbana con comunicación telepática">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9933)**
-
-**Author:** [Austin Gibson](https://x.com/5pazzisAlive) | **Source:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **Published:** Aug 26, 2026
-
----
-### Cinemática de tormenta de polvo en Marte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt atmosférico detallado que describe un desplazamiento lento de cámara sobre la superficie marciana con viento y polvo arremolinado.
-
-#### 📝 Prompt
-
-```
-Desplazamiento cinemático lento de cámara a través del vasto paisaje marciano, viento suave agitando polvo rojizo fino y arena sobre las dunas y el terreno rocoso, neblina atmosférica cambiando sutilmente, nubes de polvo distantes arremolinándose lentamente bajo el cielo naranja brumoso, fotorrealista
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="Cinemática de tormenta de polvo en Marte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9924)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **Published:** Aug 26, 2026
-
----
-### Detective al estilo Miami Vice con impresoras 3D
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video que combina el estilo de Miami Vice de los años 70 con tecnología futurista de impresión 3D en concreto en una obra de construcción.
-
-#### 📝 Prompt
-
-```
-Detective de policía al estilo Miami Vice de los años 70 caminando en una obra de construcción con impresoras 3D de concreto
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="Detective al estilo Miami Vice con impresoras 3D">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9920)**
-
-**Author:** [LeBron Daniel](https://x.com/lebron3d) | **Source:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **Published:** Aug 26, 2026
-
----
-### Animación dinámica de lluvia de meteoritos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de animación detallado para crear una lluvia de meteoritos con estelas brillantes y estrellas centelleantes.
-
-#### 📝 Prompt
-
-```
-Animación dinámica de lluvia de meteoritos: meteoritos brillantes y estrellas fugaces atraviesan continuamente el cielo nocturno en varias direcciones, dejando estelas brillantes de color verde y azul; aparecen y caen nuevos meteoritos, las estrellas centellean suavemente, sutil movimiento de cámara hacia arriba, ci...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="Animación dinámica de lluvia de meteoritos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9927)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **Published:** Aug 26, 2026
-
----
-### Patito pintor en un jardín impresionista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un sereno prompt de video impresionista que muestra a un patito con bata de pintor pintando un jardín iluminado por el sol, diseñado para lograr movimientos fluidos y texturas suaves.
-
-#### 📝 Prompt
-
-```
-La imagen fija y el prompt para el video se mueven ligeramente hacia la izquierda mientras un pajarito vuela sobre la parte superior del caballete.
-
-Un jardín impresionista iluminado por el sol, fotorrealista y con pintura al óleo húmeda a la vez: luz de color crema dorado intenso, verdes que podrías difuminar, el sol mismo como una mancha brillante y húmeda que aún no se seca. Un pequeño patito con una bata de pintor de finales del siglo XIX y un sombrero de paja que le queda grande, de pie frente a un caballete en miniatura sobre la hierba, pintando con esmero ese sol en un pequeño lienzo. Girasoles en impasto, textura del lienzo en el camino, grano cinematográfico de los años 90. Una idea: el sol sigue húmedo, al igual que la pintura. Hermoso y un poco divertido.
-```
-
-<img src="https://cms-assets.youmind.com/media/1788077778220_6iaw4d_HQpScBhWQAAYNxT.jpg" width="600" alt="Patito pintor en un jardín impresionista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
-
-**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092580518147617152) | **Published:** Aug 26, 2026
-
----
-### Cambio de escenario a mansión de lujo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de transformación de escenario que reemplaza un fondo de playa o barco por una atmósfera detallada de fiesta en una mansión de alta gama.
-
-#### 📝 Prompt
-
-```
-Cambia el escenario de la playa/barco a la lujosa Playboy Mansion: una elegante mansión de varios pisos con arquitectura grandiosa, palmeras, una piscina resplandeciente, luces de fiesta y una atmósfera de fiesta exclusiva
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="Cambio de escenario a mansión de lujo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9922)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2206,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-05T04:14:27.197Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-05T08:35:23.422Z</sub>
 
 </div>

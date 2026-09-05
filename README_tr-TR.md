@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2701** |
+| 📝 Total Prompts | **2710** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-05** |
 
@@ -189,6 +189,158 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Steampunk Şehir Kale Duvarı Hareketi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gece vakti steampunk tarzı bir şehre tepeden bakan kale duvarları boyunca ilerleyen sinematik bir kamera hareketi istemi.
+
+#### 📝 Prompt
+
+```
+Gece vakti steampunk tarzı şehre tepeden bakarken kale duvarları boyunca ilerleme.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="Steampunk Şehir Kale Duvarı Hareketi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10384)**
+
+**Author:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **Source:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **Published:** Sep 5, 2026
+
+---
+### Aksiyon Filmi Tarzında Şövalyelik Töreni
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Kraliyet taht odasında, kadın bir kahramanın yer aldığı, görkemli bir atmosfere sahip şövalyelik töreni için detaylı sinematik komut.
+
+#### 📝 Prompt
+
+```
+Güzel bir kadın kahramanın kraliyet şatosunun taht odasında kraliçenin huzuruna çıktığı ve bir şövalyelik töreninin gerçekleştirildiği aksiyon filmi tarzında bir sahne. Ciddi ve dramatik bir atmosfer, lüks kraliyet iç mekanı, canlı ve asil renkler.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="Aksiyon Filmi Tarzında Şövalyelik Töreni">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10392)**
+
+**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **Published:** Sep 5, 2026
+
+---
+### Mavi Işık ve Sirkadiyen Ritim Bilgi Grafiği
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mavi ışık ışınlarının melatonin üretimini nasıl etkilediğini ve uyku döngülerini nasıl bozduğunu açıklayan bir bilgi grafiği oluşturmaya yönelik detaylı video istemi.
+
+#### 📝 Prompt
+
+```
+Mavi ışık ışınlarının melatonin üretimini nasıl engellediğini ve sirkadiyen ritmi nasıl bozduğunu gösteren bilgi grafiği
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="Mavi Işık ve Sirkadiyen Ritim Bilgi Grafiği">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10385)**
+
+**Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
+
+---
+### Yeraltı Mağara Şehri Bilim Kurgu Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Modüler yaşam kapsülleri ve dramatik aydınlatmaya sahip, geniş bir yeraltı mağara şehrinin sinematik geniş açılı çekimi için detaylı bir bilim kurgu video istemi.
+
+#### 📝 Prompt
+
+```
+Kayalık kanyon duvarlarına inşa edilmiş beyaz modüler yaşam kapsülleri, sıcak parlayan pencereler, mağara tabanından geçen bir nehir, üzerinden geçen küçük figürlerin olduğu ince yaya köprüleri, taş tavandaki dairesel bir açıklıktan içeri süzülen dramatik güneş ışınları, havada hafif bir sis, umut verici bilim kurgu mimarisi, fotorealistik detaylar, sessiz ve aydınlık, geniş açılı sinematik çekim
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="Yeraltı Mağara Şehri Bilim Kurgu Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10386)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **Published:** Sep 4, 2026
+
+---
+### Yerçekimsiz Ortamda Süzülen Astronot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uzayda süzülen bir astronot için yumuşak kamera hareketleri ve gerçekçi yıldız arka planlarına sahip detaylı sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Astronot yerçekimsiz ortamda nazikçe süzülüyor, yavaşça dönerek etrafına bakıyor, yanından geçip giden yıldızlar, hafif kamera hareketi, akıcı sinematik hareket
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="Yerçekimsiz Ortamda Süzülen Astronot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10388)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **Published:** Sep 4, 2026
+
+---
+### Japon Yayıncı Konuşan Kafa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gerçekçi yüz ifadeleri ve dudak senkronizasyonu için yüksek kaliteli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Yakın plan konuşan kafa, genç Japon yayıncı, konuşmayla uyumlu sürekli doğal dudak hareketleri, yüksek gerilimli heyecanlı anlatım, hece hece net bir şekilde değişen ağız şekilleri, göz kırpma ve mikro ifadeler, fotogerçekçi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="Japon Yayıncı Konuşan Kafa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
+
+**Author:** [AIかぴ](https://x.com/ck_pkki2) | **Source:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **Published:** Sep 4, 2026
+
+---
+### İmparatorluk Uzay Gemisi Varış Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, bir kalabalığın gezegenlerine gelen imparatorluk uzay gemisini izlemesini konu alan sinematik bir istem.
+
+#### 📝 Prompt
+
+```
+Herkes, imparatorluk uzay gemisinin gezegenlerine varışını izlemek için toplanıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="İmparatorluk Uzay Gemisi Varış Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10390)**
+
+**Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
+
+---
+### Tuz Düzlüğünde Yalnız Figür
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sonsuz ve çatlamış bir tuz düzlüğünde devasa bir taş diske karşı duran yalnız bir figürü konu alan, sürreal ve atmosferik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sonsuz ve çatlamış bir tuz düzlüğünde duran, koyu renkli paltolu yalnız bir figürün sinematik geniş açılı çekimi; eş merkezli taş halkalara ve merkezinde karanlık bir boşluğa sahip, çatlamış devasa dairesel bir diske karşı duruyor, kırık taş ve metal dokusu, beyaz toprak üzerinde uzun ve sert bir gölge, soluk bulutlu gökyüzü, sessiz ve sürreal bir atmosfer, resimsel detaylar, samimi ve dingin, ultra detaylı kumaşlar ve aşınmış yüzey
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="Tuz Düzlüğünde Yalnız Figür">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **Published:** Sep 4, 2026
+
+---
 ### Unutulmuş İnsanların Pegasus Uçuşu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -511,6 +663,37 @@ Kleopatra'nın gençliğinde, bir gün hükmedeceğini bilerek Mısır'a bakış
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10341)**
 
 **Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2095297619492851887) | **Published:** Sep 2, 2026
+
+---
+### Rahat Yatak Odasında Okuma Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadının düşen bir kitabı yakaladığı sabit bir görseli canlandırmak için modeli yönlendiren, gerçekçi hareketlere ve tepkisel yüz ifadelerine odaklanan sofistike bir Grok Imagine video istemi.
+
+#### 📝 Prompt
+
+```
+Bu görselin aynısını kullanarak fotogerçekçi, rahat ve 15 saniyelik sinematik bir video oluşturun. Kadının yüzünü, saç stilini, hırkasını, takılarını, vücut oranlarını, yatak odasını, yatağı, kitapları, lambayı, duvar süslemelerini, ışıklandırmayı ve genel kompozisyonu tamamen koruyun.
+
+0–4 sn: Yatakta rahat bir şekilde oturuyor, yumuşak ve gevşemiş bir ifadeyle kameraya bakıyor. Doğal bir şekilde göz kırpıyor ve nefes alıyor, ardından yanındaki kitap yığınına göz atıyor.
+
+4–7 sn: Yığına doğru uzanıyor ve nazikçe bir kitap çekiyor. O sırada, yığından başka bir kitap aniden kayıyor ve yere doğru düşüyor.
+
+7–10 sn: Hızla tepki veriyor, öne doğru eğiliyor ve düşen kitabı yakalamak için uzanıyor. Kitabı yere çarpmadan hemen önce yakalamayı başarıyor.
+
+10–12 sn: Kitabı tutarak tekrar dik oturuyor, hafif şaşkın bir ifadeyle kitaba bakıyor ve ardından küçük, eğlenmiş bir kahkaha atıyor.
+
+12–15 sn: Doğrudan kameraya bakıyor, muzipçe gülümsüyor ve kısık sesle “Bu yakındı” diyor. Kitabı güvenli bir şekilde yanına yerleştiriyor.
+
+Doğal insan hareketleri, gerçekçi tepki zamanlaması, inandırıcı el ve parmak hareketleri, kitapla doğru etkileşim, hafif saç hareketleri, gerçekçi hırka kumaşı, doğal yüz ifadeleri, rahat öğleden sonra yatak odası atmosferi, yumuşak sinematik ışıklandırma, sığ alan derinliği, hafif el kamerası hissi. Düşen kitap yerçekimiyle doğal bir şekilde hareket etmeli ve gerçekçi bir şekilde yakalanmalıdır. Abartılı oyunculuk yok, ani kamera hareketleri yok, fazladan insan yok, yüz değişikliği yok, kıyafet değişikliği yok, bozuk eller yok, nesne dönüşümü yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095138179166949376/img/lSmg-daTNlRhHUN2.jpg" width="600" alt="Rahat Yatak Odasında Okuma Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10391)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095139680786493912) | **Published:** Sep 2, 2026
 
 ---
 ### Huzurlu Ay Işığı Altında İyi Geceler Manzarası
@@ -1963,179 +2146,6 @@ Canlandır. Sahneyi sabit tut, yakınlaştırma veya uzaklaştırma yapma. Konu�
 **Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
 
 ---
-### Kedi Moda Modeli Podyum Yürüyüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kadife ceketli bir kedinin, bir insan modelin yanında bir beyefendi gibi moda podyumunda yürümesini betimleyen detaylı ve sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Kamera podyumu geniş bir açıyla göstererek başlar. Kadife ceketli kedi arka ayakları üzerinde ileri doğru yürür; bir patisiyle modelin elini tutarken diğeri hafifçe kalçasının üzerindedir. Başı dik, çenesi yukarıda ve kuyruğu her adımda sallanmaktadır. Model, çenesi havada ve elbisesi süzülerek onun yanında ilerler. Podyumun sonuna geldiklerinde kedi başını çevirir, kalabalığa doğru yavaş ve kararlı bir şekilde göz kırpar, ardından küçük, kendinden emin bir gülümsemeyle tekrar modele bakar. Bir beyefendi edasıyla modelin elini tutuşunu düzeltir, sonra birlikte dönerler ve küçük botlarının podyumdaki tıkırtıları eşliğinde geri yürümeye başlarlar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="Kedi Moda Modeli Podyum Yürüyüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9926)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **Published:** Aug 26, 2026
-
----
-### Saratoga At Yarışı Rüyası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Saratoga hipodromundaki belirli bir at yarışını tasvir eden, birinci yarışta beş numaralı ata odaklanan bir video oluşturur.
-
-#### 📝 Prompt
-
-```
-Lori'nin 27 Ağustos'ta ünlü Saratoga hipodromunda gerçekleşen birinci yarışta beş numaralı atla ilgili rüyası; atın üzerindeki beş numarasını göster
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="Saratoga At Yarışı Rüyası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9921)**
-
-**Author:** [Ron Lundenberg](https://x.com/rlunden) | **Source:** [Link](https://x.com/rlunden/status/2092720610602364995) | **Published:** Aug 26, 2026
-
----
-### Alman İnek Öğrenci Komedi Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Revenge of the Nerds filminden bir sahneye, mizahi bir dil engeli unsuruyla bir karakter yerleştiren yaratıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Bu adamı “Revenge of the Nerds” filmindeki bir sahneye yerleştir. Ancak adamın çok kalın bir Alman aksanı olsun ve kimse onu anlamasın. Herkes sadece şaşkın bir şekilde ona baksın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="Alman İnek Öğrenci Komedi Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9925)**
-
-**Author:** [Ken Simpson](https://x.com/ttul) | **Source:** [Link](https://x.com/ttul/status/2092708814281978175) | **Published:** Aug 26, 2026
-
----
-### Telepatik İletişim Şehir Sokağı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İşlek bir şehir sokağındaki insanların üzerinde düşünceleri metin balonları olarak görselleştiren bir video istemi.
-
-#### 📝 Prompt
-
-```
-Şehir sokaklarında insanların başlarının üzerinde metin içeren balonlar olarak görünen telepatik iletişim; ayrıca birinin fikri mülkiyetlerinizi ve sahip olduğunuz fikirleri çalmak için beyninize yasa dışı yollarla eriştiğinde hissettirdiklerini konu alan bir görselleştirme.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="Telepatik İletişim Şehir Sokağı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9933)**
-
-**Author:** [Austin Gibson](https://x.com/5pazzisAlive) | **Source:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **Published:** Aug 26, 2026
-
----
-### Mars Toz Fırtınası Sinematik
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mars yüzeyinde yavaş bir kamera hareketi, rüzgar ve savrulan tozları betimleyen detaylı bir atmosferik komut.
-
-#### 📝 Prompt
-
-```
-Geniş Mars manzarası üzerinde yavaş sinematik kamera hareketi, kum tepeleri ve kayalık arazi üzerinde ince kırmızımsı tozu ve kumu hareketlendiren hafif rüzgar, hafifçe değişen atmosferik pus, puslu turuncu gökyüzü altında yavaşça dönen uzak toz bulutları, fotogerçekçi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="Mars Toz Fırtınası Sinematik">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9924)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **Published:** Aug 26, 2026
-
----
-### 3D Yazıcılı Miami Vice Dedektifi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1970'lerin Miami Vice tarzını, bir şantiyedeki fütüristik 3D beton baskı teknolojisiyle harmanlayan bir video istemi.
-
-#### 📝 Prompt
-
-```
-3D beton yazıcıları olan bir şantiyede yürüyen 1970'ler polis dedektifi Miami Vice tarzı
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="3D Yazıcılı Miami Vice Dedektifi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9920)**
-
-**Author:** [LeBron Daniel](https://x.com/lebron3d) | **Source:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **Published:** Aug 26, 2026
-
----
-### Dinamik Meteor Yağmuru Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Parlayan izler ve parıldayan yıldızlarla bir meteor yağmuru oluşturmak için detaylı bir animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Dinamik meteor yağmuru animasyonu: parlak meteorlar ve kayan yıldızlar, gece gökyüzünde sürekli olarak çeşitli yönlerde ilerleyerek parlayan yeşil ve mavi izler bırakıyor, yeni meteorlar belirip düşüyor, yıldızlar hafifçe parıldıyor, hafif bir kamera yukarı doğru kayması, ci...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="Dinamik Meteor Yağmuru Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9927)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **Published:** Aug 26, 2026
-
----
-### Empresyonist Bahçe Ördek Yavrusu Ressamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ressam önlüğü giymiş bir ördek yavrusunun güneşli bir bahçeyi resmettiği, akıcı hareketler ve yumuşak dokular için tasarlanmış huzurlu bir empresyonist video istemi.
-
-#### 📝 Prompt
-
-```
-Video için hazırladığım görsel ve istemde, küçük bir kuş şövalenin üzerine konarken kamera hafifçe sola doğru hareket ediyor.
-
-Güneşli bir empresyonist bahçe; hem fotogerçekçi hem de ıslak yağlı boya etkisinde: yoğun krem-altın rengi bir ışık, sürülebilir kıvamda yeşiller ve güneşin kendisi, henüz kurumamış parlak ve ıslak bir boya lekesi gibi. 1800'lerin sonundan kalma bir ressam önlüğü ve kendisine büyük gelen hasır şapkasıyla, çimlerin üzerindeki minyatür bir şövalede duran ve o güneşi küçük bir tuvale ciddiyetle resmeden minik bir ördek yavrusu. Impasto ayçiçekleri, yoldaki tuval dokusu, 1990'ların film greni. Bir fikir: güneş hala ıslak, resim de öyle. Güzel ve biraz da eğlenceli.
-```
-
-<img src="https://cms-assets.youmind.com/media/1788077778220_6iaw4d_HQpScBhWQAAYNxT.jpg" width="600" alt="Empresyonist Bahçe Ördek Yavrusu Ressamı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
-
-**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092580518147617152) | **Published:** Aug 26, 2026
-
----
-### Lüks Köşk Mekan Değişimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Plaj veya tekne arka planını detaylı, üst düzey bir köşk partisi atmosferiyle değiştiren bir mekan dönüştürme istemi.
-
-#### 📝 Prompt
-
-```
-Mekanı plaj/tekne ortamından lüks Playboy Mansion'a dönüştür: görkemli mimariye sahip şık, çok katlı köşk, palmiye ağaçları, ışıl ışıl bir havuz, parti ışıkları ve üst düzey bir parti atmosferi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="Lüks Köşk Mekan Değişimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9922)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2197,6 +2207,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-05T04:14:34.780Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-05T08:35:30.167Z</sub>
 
 </div>

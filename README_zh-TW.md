@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2701** |
+| 📝 提示詞總數 | **2710** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-05** |
 
@@ -189,6 +189,158 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 蒸汽龐克城市城堡城牆運鏡
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個電影級的攝影機運鏡提示詞，沿著城堡城牆移動，俯瞰夜晚的蒸汽龐克風格城市。
+
+#### 📝 提示詞
+
+```
+沿著城堡城牆移動，同時俯瞰夜晚的蒸汽龐克風格城市。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="蒸汽龐克城市城堡城牆運鏡">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10384)**
+
+**作者:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **來源:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **發布時間:** Sep 5, 2026
+
+---
+### 動作電影風格騎士授勳儀式
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 關於在皇家王座廳舉行騎士授勳儀式的詳細電影級提示詞，場景包含一位女性英雄與莊嚴宏偉的氛圍。
+
+#### 📝 提示詞
+
+```
+動作電影風格的場景，一位美麗的女性英雄在皇家城堡的王座廳覲見女王，並正在舉行騎士授勳儀式。氛圍莊嚴而戲劇化，展現奢華的皇家室內裝潢，以及生動、高貴的色彩。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="動作電影風格騎士授勳儀式">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10392)**
+
+**作者:** [Apple](https://x.com/Apple0816799221) | **來源:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **發布時間:** Sep 5, 2026
+
+---
+### 藍光與生理時鐘資訊圖表
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份詳細的影片提示詞，用於製作說明藍光如何影響褪黑激素分泌並干擾睡眠週期的資訊圖表。
+
+#### 📝 提示詞
+
+```
+關於藍光如何抑制褪黑激素分泌並干擾生理時鐘的資訊圖表
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="藍光與生理時鐘資訊圖表">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10385)**
+
+**作者:** [Callum Conway](https://x.com/wordsbycallum) | **來源:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **發布時間:** Sep 5, 2026
+
+---
+### 地下洞穴城市科幻場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個詳細的科幻影片提示詞，用於拍攝廣闊地下洞穴城市的電影級廣角鏡頭，特色包含模組化居住艙與戲劇性的光影效果。
+
+#### 📝 提示詞
+
+```
+電影級廣角鏡頭，呈現一座廣闊的地下洞穴城市，白色模組化居住艙嵌入岩石峽谷壁中，窗戶透出溫暖光芒，一條河流流經洞穴底部，細長的行人天橋上有微小的人影穿梭，戲劇性的陽光從石頂的圓形開口傾瀉而下，空氣中瀰漫著柔和的霧氣，充滿希望的科幻建築風格，照片級細節，寧靜而明亮
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="地下洞穴城市科幻場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10386)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **發布時間:** Sep 4, 2026
+
+---
+### 零重力漂浮太空人
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個精細的電影級影片提示詞，描述太空人在太空中漂浮的場景，包含流暢的運鏡與逼真的星空背景。
+
+#### 📝 提示詞
+
+```
+太空人在零重力環境中輕柔地漂浮，緩慢旋轉並環顧四周，繁星在身旁掠過，細膩的運鏡，流暢的電影級動態效果
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="零重力漂浮太空人">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10388)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **發布時間:** Sep 4, 2026
+
+---
+### 日本實況主說話頭像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於逼真面部表情與唇形同步的高保真影片提示詞。
+
+#### 📝 提示詞
+
+```
+特寫說話頭像，年輕日本實況主，持續自然的唇部動作與語音同步，高張力興奮的表達，嘴型隨音節清晰變化，眨眼與微表情，照片級真實感
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="日本實況主說話頭像">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10389)**
+
+**作者:** [AIかぴ](https://x.com/ck_pkki2) | **來源:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **發布時間:** Sep 4, 2026
+
+---
+### 帝國太空船抵達場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個為 Grok Imagine 設計的電影感提示詞，描繪人群聚集觀看帝國太空船抵達其星球的畫面。
+
+#### 📝 提示詞
+
+```
+所有人都在聚集觀看一艘帝國太空船抵達他們的星球。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="帝國太空船抵達場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10390)**
+
+**作者:** [ojiji](https://x.com/ojiji2025) | **來源:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **發布時間:** Sep 4, 2026
+
+---
+### 鹽灘上的孤獨身影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個超現實且充滿氛圍感的影片提示詞，描繪了一個人影獨自面對無盡龜裂鹽灘上巨大石盤的場景。
+
+#### 📝 提示詞
+
+```
+電影級廣角鏡頭，一個身穿深色大衣的孤獨身影站在無盡龜裂的鹽灘上，面對著一個巨大的龜裂圓盤，圓盤上有同心石環，中心有一個深邃的黑洞，呈現出破碎的石材與金屬質感，長而銳利的陰影橫跨白色大地，蒼白多雲的天空，寧靜的超現實氛圍，繪畫般的細節，親密且靜謐，超細緻的布料紋理與風化表面
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="鹽灘上的孤獨身影">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10387)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **發布時間:** Sep 4, 2026
+
+---
 ### 被遺忘者的飛馬之旅
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -511,6 +663,37 @@ Pleiadians in lightships and motherships of saucer shape, masterpiece, ultra HD 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10341)**
 
 **作者:** [Christi McGuffey](https://x.com/crermc7) | **來源:** [Link](https://x.com/crermc7/status/2095297619492851887) | **發布時間:** Sep 2, 2026
+
+---
+### 舒適臥室閱讀動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個精緻的 Grok Imagine 影片提示詞，引導模型將一張女性接住掉落書籍的靜態圖片製作成動畫，重點在於呈現逼真的動作與反應式面部表情。
+
+#### 📝 提示詞
+
+```
+請根據這張圖片製作一段 15 秒的寫實風格舒適電影感影片。請保留女性原本的面容、髮型、開襟羊毛衫、飾品、身體比例，以及臥室、床鋪、書籍、檯燈、牆面裝飾、光影和整體構圖。
+
+0–4 秒：她舒適地坐在床上，面帶柔和放鬆的表情看向鏡頭。她自然地眨眼並呼吸，隨後轉頭看向身旁的書堆。
+
+4–7 秒：她伸手向書堆並輕輕抽出一本書。就在此時，另一本書突然從書堆中滑落，朝地面掉去。
+
+7–10 秒：她反應迅速，身體前傾並向下伸手接住掉落的書。她在書落地前成功將其抓住。
+
+10–12 秒：她坐回原位並拿著書，帶著些許驚訝的表情看著它，隨後發出一聲輕微的莞爾笑聲。
+
+12–15 秒：她直視鏡頭，調皮地微笑並輕聲說道：「好險。」隨後將書安全地放在身旁。
+
+動作需符合自然人體工學，反應時機要真實，手部與手指動作要可信，與書籍的互動要精準，頭髮需有細微擺動，開襟羊毛衫材質要寫實，面部表情要自然，營造舒適的午後臥室氛圍，採用柔和的電影級光影，具備淺景深效果，並帶有輕微的手持攝影感。掉落的書必須符合重力自然移動，並以寫實方式被接住。禁止誇張表演、禁止突兀的鏡頭移動、禁止出現額外人物、禁止面部變形、禁止更換服裝、禁止手部扭曲、禁止物體變形。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095138179166949376/img/lSmg-daTNlRhHUN2.jpg" width="600" alt="舒適臥室閱讀動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10391)**
+
+**作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **來源:** [Link](https://x.com/iamahmedfaraz66/status/2095139680786493912) | **發布時間:** Sep 2, 2026
 
 ---
 ### 寧靜月夜晚安場景
@@ -1963,179 +2146,6 @@ SpaceX 鍛造團隊前往 MrFIXitX 月球基地進行殖民，使用由訂閱者
 **作者:** [BRENT REEVES](https://x.com/Breeves1979) | **來源:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **發布時間:** Aug 26, 2026
 
 ---
-### 貓咪時尚模特兒伸展台走秀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段詳細的電影級影片提示詞，描述一隻穿著天鵝絨外套的貓咪，像紳士一樣與人類模特兒並肩走在時尚伸展台上。
-
-#### 📝 提示詞
-
-```
-攝影機以廣角鏡頭拍攝伸展台。穿著天鵝絨外套的貓咪用後腿向前行走，一隻爪子牽著模特兒的手，另一隻爪子輕輕放在腰間。牠昂首挺胸，下巴抬起，尾巴隨著步伐擺動。模特兒在牠身旁滑步前行，下巴微揚，禮服隨風飄動。當牠們走到伸展台盡頭時，貓咪轉過頭，對著人群緩慢而刻意地眨了眨眼，隨後帶著一抹細微且自得的微笑看向模特兒。牠像紳士般調整了握住模特兒的手，接著兩人轉身折返，牠的小靴子在伸展台上發出清脆的聲響。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="貓咪時尚模特兒伸展台走秀">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9926)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **發布時間:** Aug 26, 2026
-
----
-### Saratoga 賽馬夢境
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段描繪 Saratoga 賽馬場特定賽事的影片，重點呈現第一場比賽中的五號馬。
-
-#### 📝 提示詞
-
-```
-Lori 的夢境，於 8 月 27 日在著名的 Saratoga 賽馬場舉行，第一場比賽，五號馬，請展示馬匹身上的五號標記
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="Saratoga 賽馬夢境">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9921)**
-
-**作者:** [Ron Lundenberg](https://x.com/rlunden) | **來源:** [Link](https://x.com/rlunden/status/2092720610602364995) | **發布時間:** Aug 26, 2026
-
----
-### 德國宅男喜劇場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個創意影片提示詞，將角色置入《Revenge of the Nerds》的場景中，並加入幽默的語言障礙元素。
-
-#### 📝 提示詞
-
-```
-將這個人放入《Revenge of the Nerds》的一個場景中。但他有濃厚的德國口音，沒人聽得懂他在說什麼。每個人看起來都一臉困惑。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="德國宅男喜劇場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9925)**
-
-**作者:** [Ken Simpson](https://x.com/ttul) | **來源:** [Link](https://x.com/ttul/status/2092708814281978175) | **發布時間:** Aug 26, 2026
-
----
-### 心靈感應溝通的城市街道
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片提示詞，將人們在繁忙城市街道上的想法視覺化為頭頂上的文字氣泡。
-
-#### 📝 提示詞
-
-```
-在城市街道上看到的「心靈感應」溝通，人們頭頂上方漂浮著帶有文字的氣泡；同時呈現當有人非法存取你的大腦以竊取你的智慧財產（包括你的創意）時，那種真實的感受。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="心靈感應溝通的城市街道">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9933)**
-
-**作者:** [Austin Gibson](https://x.com/5pazzisAlive) | **來源:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **發布時間:** Aug 26, 2026
-
----
-### 火星沙塵暴電影級畫面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個詳細的氛圍提示詞，描述了鏡頭在火星表面緩慢漂移，伴隨風吹與沙塵飛揚的場景。
-
-#### 📝 提示詞
-
-```
-電影級鏡頭緩慢漂移過廣闊的火星地貌，微風吹拂著沙丘與岩石地形上細緻的紅褐色沙塵，大氣霧霾微妙地變化，遠處的沙塵雲在朦朧的橘色天空下緩慢旋轉，呈現出照片級的真實感
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="火星沙塵暴電影級畫面">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9924)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **發布時間:** Aug 26, 2026
-
----
-### 邁阿密風雲偵探與 3D 列印機
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段將 1970 年代《邁阿密風雲》風格與未來感 3D 混凝土列印技術結合於建築工地的影片提示詞。
-
-#### 📝 提示詞
-
-```
-1970 年代警探《邁阿密風雲》風格，走在配備 3D 混凝土列印機的建築工地上
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="邁阿密風雲偵探與 3D 列印機">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9920)**
-
-**作者:** [LeBron Daniel](https://x.com/lebron3d) | **來源:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **發布時間:** Aug 26, 2026
-
----
-### 動態流星雨動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的動畫提示詞，用於創作帶有發光軌跡與閃爍星辰的流星雨效果。
-
-#### 📝 提示詞
-
-```
-動態流星雨動畫：明亮的流星與彗星持續在夜空中向四面八方劃過，留下綠色與藍色的發光軌跡，新的流星不斷出現並墜落，星辰輕柔地閃爍，鏡頭細微地向上漂移，ci...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="動態流星雨動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9927)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **發布時間:** Aug 26, 2026
-
----
-### 印象派花園小鴨畫家
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個寧靜的印象派影片提示詞，描繪一隻穿著畫家罩衫的小鴨在陽光普照的花園中作畫，旨在呈現流暢的動作與柔和的質感。
-
-#### 📝 提示詞
-
-```
-影片的靜態畫面與提示詞會向左輕微移動，一隻小鳥飛到畫架頂端。
-
-一個陽光普照的印象派花園，同時具備照片級真實感與濕油畫質感：濃郁的奶油金色光影，彷彿可以抹開的綠色，太陽本身就像一個尚未乾透的明亮濕潤色塊。一隻穿著 19 世紀末畫家罩衫、戴著過大草帽的小鴨，站在草地上的迷你畫架前，正認真地將太陽畫在小畫布上。厚塗法的向日葵，畫布在路徑上的紋理，帶有 1990 年代的底片顆粒感。一個構思：太陽尚未乾透，畫作也是如此。既美麗又帶點稚趣。
-```
-
-<img src="https://cms-assets.youmind.com/media/1788077778220_6iaw4d_HQpScBhWQAAYNxT.jpg" width="600" alt="印象派花園小鴨畫家">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9928)**
-
-**作者:** [Lucy](https://x.com/princess414141) | **來源:** [Link](https://x.com/princess414141/status/2092580518147617152) | **發布時間:** Aug 26, 2026
-
----
-### 豪華豪宅場景變換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個場景轉換提示詞，可將海灘或船隻背景替換為精緻的高端豪宅派對氛圍。
-
-#### 📝 提示詞
-
-```
-將場景從海灘/船隻更改為豪華的 Playboy Mansion：優雅的多層豪宅，擁有宏偉的建築、棕櫚樹、波光粼粼的泳池、派對燈光以及高端的派對氛圍
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="豪華豪宅場景變換">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=9922)**
-
-**作者:** [Ami A](https://x.com/AA63782) | **來源:** [Link](https://x.com/AA63782/status/2092525163887853620) | **發布時間:** Aug 26, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2197,6 +2207,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-05T04:14:20.443Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-05T08:35:17.080Z</sub>
 
 </div>

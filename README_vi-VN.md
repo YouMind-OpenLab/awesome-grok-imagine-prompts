@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2701** |
+| 📝 Total Prompts | **2710** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-05** |
 
@@ -189,6 +189,158 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Chuyển động tường thành phố Steampunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý chuyển động camera điện ảnh di chuyển dọc theo các bức tường lâu đài nhìn xuống thành phố phong cách steampunk vào ban đêm.
+
+#### 📝 Prompt
+
+```
+Di chuyển dọc theo các bức tường lâu đài trong khi nhìn xuống thành phố phong cách steampunk vào ban đêm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="Chuyển động tường thành phố Steampunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10384)**
+
+**Author:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **Source:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **Published:** Sep 5, 2026
+
+---
+### Lễ phong tước phong cách phim hành động
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh (prompt) điện ảnh chi tiết về buổi lễ phong tước hiệp sĩ trong phòng ngai vàng hoàng gia với nữ anh hùng và bầu không khí hùng vĩ.
+
+#### 📝 Prompt
+
+```
+Một cảnh quay theo phong cách phim hành động, nơi một nữ anh hùng xinh đẹp diện kiến nữ hoàng trong phòng ngai vàng của lâu đài hoàng gia, và buổi lễ phong tước hiệp sĩ đang diễn ra. Bầu không khí trang nghiêm và đầy kịch tính, nội thất hoàng gia sang trọng cùng những gam màu quý phái, sống động.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="Lễ phong tước phong cách phim hành động">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10392)**
+
+**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **Published:** Sep 5, 2026
+
+---
+### Infographic về nhịp sinh học và ánh sáng xanh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video chi tiết để tạo infographic giải thích cách các tia sáng xanh ảnh hưởng đến quá trình sản xuất melatonin và làm gián đoạn chu kỳ giấc ngủ.
+
+#### 📝 Prompt
+
+```
+Infographic về cách các tia sáng xanh ngăn chặn quá trình sản xuất melatonin và làm gián đoạn nhịp sinh học
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="Infographic về nhịp sinh học và ánh sáng xanh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10385)**
+
+**Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
+
+---
+### Cảnh quan thành phố hang động ngầm phong cách khoa học viễn tưởng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video khoa học viễn tưởng chi tiết cho cảnh quay góc rộng đậm chất điện ảnh về một thành phố hang động ngầm rộng lớn, nổi bật với các mô-đun nhà ở và hiệu ứng ánh sáng ấn tượng.
+
+#### 📝 Prompt
+
+```
+Cảnh quay góc rộng đậm chất điện ảnh về một thành phố hang động ngầm rộng lớn với các mô-đun nhà ở màu trắng được xây dựng vào vách đá, những ô cửa sổ tỏa ánh sáng ấm áp, một dòng sông chảy dọc sàn hang, những cây cầu đi bộ mảnh khảnh với những bóng người nhỏ bé đang băng qua, những tia nắng đầy kịch tính đổ xuống từ một lỗ hổng hình tròn trên trần đá, làn sương mờ ảo trong không khí, kiến trúc khoa học viễn tưởng đầy hy vọng, chi tiết chân thực, tĩnh lặng và rạng rỡ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="Cảnh quan thành phố hang động ngầm phong cách khoa học viễn tưởng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10386)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **Published:** Sep 4, 2026
+
+---
+### Phi hành gia lơ lửng trong môi trường không trọng lực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một đoạn prompt video điện ảnh chi tiết về phi hành gia đang lơ lửng trong không gian với các chuyển động camera mượt mà và hậu cảnh đầy sao chân thực.
+
+#### 📝 Prompt
+
+```
+Phi hành gia lơ lửng nhẹ nhàng trong môi trường không trọng lực, từ từ xoay người và quan sát xung quanh, những vì sao trôi qua, chuyển động camera tinh tế, chuyển động điện ảnh mượt mà
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="Phi hành gia lơ lửng trong môi trường không trọng lực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10388)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **Published:** Sep 4, 2026
+
+---
+### Streamer người Nhật đang nói chuyện
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video có độ trung thực cao dành cho các biểu cảm khuôn mặt chân thực và đồng bộ hóa môi.
+
+#### 📝 Prompt
+
+```
+Cận cảnh đầu người đang nói chuyện, streamer trẻ người Nhật, chuyển động môi tự nhiên liên tục khớp với lời nói, cách truyền đạt hào hứng đầy căng thẳng, hình dạng miệng thay đổi rõ ràng theo từng âm tiết, chớp mắt và các biểu cảm siêu nhỏ, chân thực như ảnh chụp
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="Streamer người Nhật đang nói chuyện">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
+
+**Author:** [AIかぴ](https://x.com/ck_pkki2) | **Source:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **Published:** Sep 4, 2026
+
+---
+### Cảnh tàu vũ trụ đế quốc hạ cánh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh điện ảnh dành cho Grok Imagine mô tả cảnh đám đông đang theo dõi một con tàu vũ trụ đế quốc hạ cánh xuống hành tinh của họ.
+
+#### 📝 Prompt
+
+```
+Mọi người đang tập trung để theo dõi sự xuất hiện của một con tàu vũ trụ đế quốc tại hành tinh của họ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="Cảnh tàu vũ trụ đế quốc hạ cánh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10390)**
+
+**Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
+
+---
+### Nhân vật đơn độc trên cánh đồng muối
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt mang phong cách siêu thực và đầy cảm xúc, khắc họa một nhân vật đơn độc đối diện với một đĩa đá khổng lồ trên cánh đồng muối nứt nẻ vô tận.
+
+#### 📝 Prompt
+
+```
+Cảnh quay điện ảnh góc rộng về một nhân vật đơn độc mặc áo khoác tối màu đang đứng trên cánh đồng muối nứt nẻ vô tận, đối diện với một chiếc đĩa tròn khổng lồ bị nứt với các vòng đá đồng tâm và một lỗ đen ở trung tâm, kết cấu đá và kim loại bị rạn nứt, bóng đổ dài sắc nét trên nền đất trắng, bầu trời nhiều mây nhạt màu, không khí tĩnh lặng đầy siêu thực, chi tiết như tranh vẽ, gần gũi và tĩnh tại, vải vóc và bề mặt phong hóa được khắc họa siêu chi tiết
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="Nhân vật đơn độc trên cánh đồng muối">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **Published:** Sep 4, 2026
+
+---
 ### Chuyến bay Pegasus của những con người bị lãng quên
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -511,6 +663,37 @@ Cleopatra khi còn trẻ đang nhìn ra Ai Cập với niềm tin rằng một n
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10341)**
 
 **Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2095297619492851887) | **Published:** Sep 2, 2026
+
+---
+### Hoạt ảnh đọc sách trong phòng ngủ ấm cúng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video Grok Imagine tinh tế hướng dẫn mô hình tạo hoạt ảnh từ hình ảnh tĩnh một người phụ nữ đang bắt cuốn sách rơi, tập trung vào chuyển động chân thực và biểu cảm khuôn mặt phản ứng tự nhiên.
+
+#### 📝 Prompt
+
+```
+Tạo một video điện ảnh 15 giây chân thực, ấm cúng từ chính hình ảnh này. Giữ nguyên khuôn mặt, kiểu tóc, áo cardigan, trang sức, tỷ lệ cơ thể, phòng ngủ, giường, sách, đèn, đồ trang trí tường, ánh sáng và bố cục tổng thể của người phụ nữ.
+
+0–4 giây: Cô ấy ngồi thoải mái trên giường, nhìn về phía máy quay với vẻ mặt thư thái, nhẹ nhàng. Cô ấy chớp mắt và hít thở tự nhiên, sau đó liếc nhìn chồng sách bên cạnh.
+
+4–7 giây: Cô ấy với tay về phía chồng sách và nhẹ nhàng rút một cuốn ra. Khi làm vậy, một cuốn sách khác bất ngờ trượt khỏi chồng và rơi xuống sàn.
+
+7–10 giây: Cô ấy phản ứng nhanh, nhoài người về phía trước và vươn tay bắt cuốn sách đang rơi. Cô ấy bắt được nó ngay trước khi nó chạm sàn.
+
+10–12 giây: Cô ấy ngồi thẳng dậy, cầm cuốn sách, nhìn nó với vẻ mặt hơi ngạc nhiên, rồi bật cười nhẹ đầy thích thú.
+
+12–15 giây: Cô ấy nhìn thẳng vào máy quay, mỉm cười tinh nghịch và nói khẽ: “Suýt chút nữa thì xong.” Cô ấy đặt cuốn sách an toàn bên cạnh mình.
+
+Chuyển động của con người tự nhiên, thời gian phản ứng thực tế, cử động tay và ngón tay đáng tin cậy, tương tác chính xác với cuốn sách, tóc chuyển động nhẹ nhàng, chất liệu vải áo cardigan chân thực, biểu cảm khuôn mặt tự nhiên, không khí phòng ngủ buổi chiều ấm cúng, ánh sáng điện ảnh dịu nhẹ, độ sâu trường ảnh nông, cảm giác máy quay cầm tay nhẹ nhàng. Cuốn sách rơi phải di chuyển tự nhiên theo trọng lực và được bắt một cách thực tế. Không diễn xuất cường điệu, không chuyển động máy quay đột ngột, không có người lạ, không thay đổi khuôn mặt, không thay đổi trang phục, không biến dạng bàn tay, không biến đổi vật thể.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095138179166949376/img/lSmg-daTNlRhHUN2.jpg" width="600" alt="Hoạt ảnh đọc sách trong phòng ngủ ấm cúng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10391)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095139680786493912) | **Published:** Sep 2, 2026
 
 ---
 ### Khung cảnh đêm trăng thanh bình
@@ -1962,179 +2145,6 @@ Tạo hoạt ảnh. Giữ nguyên cảnh quay và không phóng to hoặc thu nh
 **Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
 
 ---
-### Mèo trình diễn thời trang trên sàn catwalk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một đoạn prompt video điện ảnh chi tiết mô tả một chú mèo mặc áo khoác nhung đang sải bước trên sàn diễn thời trang như một quý ông bên cạnh một người mẫu.
-
-#### 📝 Prompt
-
-```
-Máy quay bắt đầu với góc rộng trên sàn diễn. Chú mèo trong chiếc áo khoác nhung bước về phía trước bằng hai chân sau, một chân nắm lấy tay người mẫu, chân kia đặt nhẹ lên hông. Đầu chú ngẩng cao, cằm hướng lên, đuôi đung đưa theo từng bước đi. Người mẫu lướt đi bên cạnh, cằm cũng ngẩng cao, tà váy thướt tha. Khi họ đến cuối sàn diễn, chú mèo quay đầu, chớp mắt chậm rãi và đầy chủ ý về phía khán giả, rồi nhìn lại người mẫu với một nụ cười nhỏ đầy tự mãn. Chú điều chỉnh cái nắm tay của mình như một quý ông thực thụ, sau đó họ cùng nhau quay người và bắt đầu bước trở lại, tiếng đôi ủng nhỏ của chú vang lên lách cách trên sàn diễn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="Mèo trình diễn thời trang trên sàn catwalk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9926)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **Published:** Aug 26, 2026
-
----
-### Giấc mơ đua ngựa tại Saratoga
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo một video mô tả một cuộc đua ngựa cụ thể tại trường đua Saratoga, tập trung vào con ngựa số năm trong cuộc đua số một.
-
-#### 📝 Prompt
-
-```
-Giấc mơ của Lori diễn ra vào ngày 27 tháng 8 tại trường đua Saratoga nổi tiếng, cuộc đua số một, con ngựa số năm, hãy hiển thị số năm trên con ngựa
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="Giấc mơ đua ngựa tại Saratoga">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9921)**
-
-**Author:** [Ron Lundenberg](https://x.com/rlunden) | **Source:** [Link](https://x.com/rlunden/status/2092720610602364995) | **Published:** Aug 26, 2026
-
----
-### Phân cảnh hài hước về một anh chàng mọt sách người Đức
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video sáng tạo đưa nhân vật vào một phân cảnh trong phim "Revenge of the Nerds" với yếu tố rào cản ngôn ngữ gây cười.
-
-#### 📝 Prompt
-
-```
-Hãy đưa anh chàng này vào một phân cảnh trong phim "Revenge of the Nerds". Nhưng anh ta lại nói giọng Đức rất đặc và không ai có thể hiểu được anh ta đang nói gì. Mọi người chỉ nhìn anh ta với vẻ mặt đầy bối rối.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="Phân cảnh hài hước về một anh chàng mọt sách người Đức">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9925)**
-
-**Author:** [Ken Simpson](https://x.com/ttul) | **Source:** [Link](https://x.com/ttul/status/2092708814281978175) | **Published:** Aug 26, 2026
-
----
-### Phố phường với khả năng giao tiếp thần giao cách cảm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt hình ảnh hóa suy nghĩ dưới dạng các bong bóng văn bản phía trên đầu mọi người trên một con phố đông đúc.
-
-#### 📝 Prompt
-
-```
-Giao tiếp thần giao cách cảm được thể hiện trên đường phố dưới dạng các bong bóng chứa văn bản phía trên đầu mọi người, đồng thời mô tả cảm giác khi ai đó truy cập trái phép vào não bộ của bạn để đánh cắp tài sản trí tuệ, bao gồm cả những ý tưởng mà bạn đang có
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="Phố phường với khả năng giao tiếp thần giao cách cảm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9933)**
-
-**Author:** [Austin Gibson](https://x.com/5pazzisAlive) | **Source:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **Published:** Aug 26, 2026
-
----
-### Video điện ảnh về bão bụi trên sao Hỏa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) mô tả chi tiết bầu không khí với góc máy quay trôi chậm trên bề mặt sao Hỏa cùng gió và bụi cuốn.
-
-#### 📝 Prompt
-
-```
-Góc máy quay điện ảnh trôi chậm trên khung cảnh sao Hỏa bao la, gió nhẹ thổi bay lớp bụi và cát đỏ mịn trên các cồn cát và địa hình đá, lớp sương mù khí quyển thay đổi tinh tế, những đám mây bụi từ xa chậm rãi cuộn xoáy dưới bầu trời màu cam mờ ảo, chân thực như ảnh chụp
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="Video điện ảnh về bão bụi trên sao Hỏa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9924)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **Published:** Aug 26, 2026
-
----
-### Thám tử phong cách Miami Vice với máy in 3D
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt kết hợp phong cách Miami Vice thập niên 1970 với công nghệ in bê tông 3D tương lai tại công trường xây dựng.
-
-#### 📝 Prompt
-
-```
-Thám tử cảnh sát phong cách Miami Vice thập niên 1970 đang đi bộ trên công trường xây dựng với các máy in bê tông 3D
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="Thám tử phong cách Miami Vice với máy in 3D">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9920)**
-
-**Author:** [LeBron Daniel](https://x.com/lebron3d) | **Source:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **Published:** Aug 26, 2026
-
----
-### Hoạt ảnh mưa sao băng sống động
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) tạo hoạt ảnh chi tiết để tạo ra mưa sao băng với các vệt sáng rực rỡ và những ngôi sao lấp lánh.
-
-#### 📝 Prompt
-
-```
-Hoạt ảnh mưa sao băng sống động: những ngôi sao băng và sao chổi rực rỡ liên tục vạch ngang bầu trời đêm theo nhiều hướng khác nhau, để lại những vệt sáng màu xanh lục và xanh lam, các ngôi sao băng mới liên tục xuất hiện và rơi xuống, những ngôi sao lấp lánh nhẹ nhàng, camera di chuyển chậm hướng lên trên, ci...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="Hoạt ảnh mưa sao băng sống động">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9927)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **Published:** Aug 26, 2026
-
----
-### Chú vịt nhỏ họa sĩ theo phong cách ấn tượng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video theo phong cách ấn tượng đầy thanh bình, mô tả một chú vịt nhỏ mặc áo choàng họa sĩ đang vẽ khu vườn ngập nắng, được thiết kế để tạo ra chuyển động mượt mà và kết cấu mềm mại.
-
-#### 📝 Prompt
-
-```
-Hình ảnh tĩnh và câu lệnh cho video của tôi di chuyển nhẹ sang trái khi một chú chim nhỏ bay trên đỉnh giá vẽ.
-
-Một khu vườn theo phong cách ấn tượng ngập tràn ánh nắng, vừa chân thực vừa mang nét vẽ sơn dầu ướt: ánh sáng vàng kem dày đặc, những mảng xanh như thể có thể quệt được, chính mặt trời là một vệt màu ướt sáng rực chưa khô. Một chú vịt nhỏ mặc chiếc áo choàng họa sĩ cuối thế kỷ 19 và đội chiếc mũ rơm quá khổ, đứng bên giá vẽ thu nhỏ trên bãi cỏ, đang chăm chú vẽ mặt trời đó lên một tấm toan nhỏ. Những bông hoa hướng dương đắp nổi, bề mặt toan trên lối đi, hạt phim thập niên 1990. Một ý tưởng: mặt trời vẫn còn ướt, và bức tranh cũng vậy. Đẹp đẽ và có chút ngộ nghĩnh.
-```
-
-<img src="https://cms-assets.youmind.com/media/1788077778220_6iaw4d_HQpScBhWQAAYNxT.jpg" width="600" alt="Chú vịt nhỏ họa sĩ theo phong cách ấn tượng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
-
-**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092580518147617152) | **Published:** Aug 26, 2026
-
----
-### Thay đổi bối cảnh biệt thự sang trọng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chuyển đổi bối cảnh giúp thay thế nền bãi biển hoặc du thuyền bằng không khí tiệc tùng tại một biệt thự cao cấp đầy chi tiết.
-
-#### 📝 Prompt
-
-```
-Thay đổi bối cảnh từ bãi biển/du thuyền sang biệt thự Playboy sang trọng: biệt thự nhiều tầng thanh lịch với kiến trúc hoành tráng, cây cọ, hồ bơi lấp lánh, đèn tiệc và không khí tiệc tùng đẳng cấp
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="Thay đổi bối cảnh biệt thự sang trọng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9922)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2206,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-05T04:14:25.089Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-05T08:35:21.850Z</sub>
 
 </div>

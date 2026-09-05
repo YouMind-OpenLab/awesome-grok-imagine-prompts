@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2701** |
+| 📝 Total Prompts | **2710** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-05** |
 
@@ -189,6 +189,158 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Steampunk City Castle Wall Motion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic camera motion prompt moving along castle walls overlooking a steampunk-style city at night.
+
+#### 📝 Prompt
+
+```
+Moving along the castle walls while looking down at the steampunk-style city at night.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="Steampunk City Castle Wall Motion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10384)**
+
+**Author:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **Source:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **Published:** Sep 5, 2026
+
+---
+### Action Movie Knighting Ceremony
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed cinematic prompt of a knight investiture ceremony in a royal throne room with a female hero and majestic atmosphere.
+
+#### 📝 Prompt
+
+```
+An action movie-style scene where a beautiful female hero has an audience with a queen in the royal castle's throne room, and a knight investiture ceremony is being held. A solemn and dramatic atmosphere, luxurious royal interior, and vivid, noble colors.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="Action Movie Knighting Ceremony">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10392)**
+
+**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **Published:** Sep 5, 2026
+
+---
+### Blue Light Circadian Rhythm Infographic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for creating an infographic that explains how blue light rays affect melatonin production and disrupt sleep cycles.
+
+#### 📝 Prompt
+
+```
+Infographic on how blue light rays prevent the production of melatonin and disrupt the circadian rhythm
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="Blue Light Circadian Rhythm Infographic">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10385)**
+
+**Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
+
+---
+### Underground Cave City Sci-Fi Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed sci-fi video prompt for a cinematic wide shot of a vast underground cave city featuring modular habitat pods and dramatic lighting.
+
+#### 📝 Prompt
+
+```
+Cinematic wide shot of a vast underground cave city with white modular habitat pods built into rocky canyon walls, warm glowing windows, a river walking the cave floor, thin pedestrian bridges with tiny figures crossing, dramatic sunbeams pouring from a circular opening in the stone ceiling, soft mist in the air, hopeful sci-fi architecture, photoreal detail, quiet and luminous
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="Underground Cave City Sci-Fi Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10386)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **Published:** Sep 4, 2026
+
+---
+### Zero-Gravity Floating Astronaut
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic video prompt for an astronaut floating in space with smooth camera movements and realistic star backgrounds.
+
+#### 📝 Prompt
+
+```
+The astronaut floats gently in zero gravity, slowly rotating and looking around, stars drifting past, subtle camera movement, smooth cinematic motion
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="Zero-Gravity Floating Astronaut">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10388)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **Published:** Sep 4, 2026
+
+---
+### Japanese Streamer Talking Head
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-fidelity video prompt for realistic facial expressions and lip-syncing.
+
+#### 📝 Prompt
+
+```
+Close-up talking head, young Japanese streamer, continuous natural lip movements matching speech, high tension excited delivery, mouth shapes changing clearly syllable by syllable, blinking and micro expressions, photorealistic
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="Japanese Streamer Talking Head">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
+
+**Author:** [AIかぴ](https://x.com/ck_pkki2) | **Source:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **Published:** Sep 4, 2026
+
+---
+### Imperial Spaceship Arrival Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for Grok Imagine depicting a crowd watching an imperial spaceship arrive at their planet.
+
+#### 📝 Prompt
+
+```
+Everybody is gathering to watch the arrival of an imperial spaceship to their planet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="Imperial Spaceship Arrival Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10390)**
+
+**Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
+
+---
+### Lone Figure on Salt Flat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal and atmospheric video prompt featuring a lone figure facing a colossal stone disc on an endless cracked salt flat.
+
+#### 📝 Prompt
+
+```
+Cinematic wide shot of a lone figure in a dark coat standing on an endless cracked salt flat, facing a colossal cracked circular disc with concentric stone rings and a dark hole at the center, fractured stone and metal texture, long hard shadow across white earth, pale cloudy sky, quiet surreal atmosphere, painterly detail, intimate and still, ultra-detailed fabrics and weathered surface
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="Lone Figure on Salt Flat">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **Published:** Sep 4, 2026
+
+---
 ### Forgotten People Pegasus Flight
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -231,12 +383,12 @@ Cinematic shot of a small girl in worn clothes sitting inside a colossal rusted 
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An animation prompt for Grok-imagine that brings a photo of a dog to life, depicting it raising its paw as if it were calling for a taxi.
+> A creative animation prompt that transforms a static dog photo into a video where the dog appears to be hailing a taxi by lifting its paw.
 
 #### 📝 Prompt
 
 ```
-Animate this photo of the dog with big ears, having him lift his paw as if he wanted to call a taxi
+Animate this photo of the floppy-eared dog with him lifting his paw as if he wanted to call a taxi
 ```
 
 <img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="Dog Hailing a Taxi Animation">
@@ -246,11 +398,11 @@ Animate this photo of the dog with big ears, having him lift his paw as if he wa
 **Author:** [Løen](https://x.com/l03n27) | **Source:** [Link](https://x.com/l03n27/status/2095697750130123031) | **Published:** Sep 4, 2026
 
 ---
-### Mecha Warrior Transformation Video
+### Cinematic Transforming Robot
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a massive transforming robot with detailed mechanical parts, sparks, and slow-motion movement.
+> A detailed cinematic prompt for generating a high-fidelity video of a transforming robot in a sci-fi setting with dramatic lighting.
 
 #### 📝 Prompt
 
@@ -258,7 +410,7 @@ Animate this photo of the dog with big ears, having him lift his paw as if he wa
 THE NEXT EVOLUTION When machines become warriors, armor becomes more than protection. It becomes power. It becomes the future. Transform. Arm. Dominate. Visual style: cinematic + photorealistic, massive transforming robot, advanced , glowing energy cores, mechanical transformation, sparks and smoke, futuristic battlefield, dramatic lighting, slow-motion camera movement, ultra-detailed 8K sci-fi realism.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="Mecha Warrior Transformation Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="Cinematic Transforming Robot">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10344)**
 
@@ -303,11 +455,11 @@ Cinematic wide shot of a colossal rusted industrial pipe spanning a rocky mounta
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **Published:** Sep 4, 2026
 
 ---
-### Victorious Cyborg Gladiator Scene
+### Triumphant Cyborg Gladiator Victory
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic video prompt for a triumphant gladiator with glowing cybernetic armor and a dramatic camera orbit.
+> A cinematic video prompt featuring a victorious half-cyborg gladiator in an arena with lions and a slow dramatic camera orbit.
 
 #### 📝 Prompt
 
@@ -315,7 +467,7 @@ Cinematic wide shot of a colossal rusted industrial pipe spanning a rocky mounta
 Triumphant ending: the half-cyborg gladiator stands victorious in the arena, glowing blue armor and cyber eye, lions finishing the enemies in background, slow dramatic camera orbit, dust settling, heroic pose.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="Victorious Cyborg Gladiator Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="Triumphant Cyborg Gladiator Victory">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10337)**
 
@@ -513,6 +665,37 @@ Cleopatra when she was younger looking out at Egypt knowing she would rule it on
 **Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2095297619492851887) | **Published:** Sep 2, 2026
 
 ---
+### Cozy Bedroom Reading Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sophisticated Grok Imagine video prompt that directs the model to animate a still image of a woman catching a falling book, focusing on realistic movement and reactive facial expressions.
+
+#### 📝 Prompt
+
+```
+Create a photorealistic, cozy 15-second cinematic video from this exact image. Preserve the woman's exact face, hairstyle, cardigan, jewelry, body proportions, bedroom, bed, books, lamp, wall decorations, lighting, and overall composition.
+
+0–4 sec: She sits comfortably on the bed, looking toward the camera with a soft relaxed expression. She naturally blinks and breathes, then glances toward the stack of books beside her.
+
+4–7 sec: She reaches toward the stack and gently pulls out one book. As she does, another book suddenly slips from the stack and falls toward the floor.
+
+7–10 sec: She reacts quickly, leaning forward and reaching down to catch the falling book. She manages to grab it just before it hits the floor.
+
+10–12 sec: She sits back up holding the book, looking at it with a slightly surprised expression, then lets out a small amused laugh.
+
+12–15 sec: She looks directly toward the camera, smiles mischievously, and says softly, “That was close.” She places the book safely beside her.
+
+Natural human movement, realistic reaction timing, believable hand and finger movements, accurate interaction with the book, subtle hair movement, realistic cardigan fabric, natural facial expressions, cozy afternoon bedroom atmosphere, soft cinematic lighting, shallow depth of field, gentle handheld camera feel. The falling book must move naturally with gravity and be caught realistically. No exaggerated acting, no sudden camera movements, no extra people, no face changes, no outfit changes, no distorted hands, no object morphing.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095138179166949376/img/lSmg-daTNlRhHUN2.jpg" width="600" alt="Cozy Bedroom Reading Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10391)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095139680786493912) | **Published:** Sep 2, 2026
+
+---
 ### Serene Moonlit Good Night Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -534,11 +717,11 @@ A serene and peaceful good night scene featuring a large, bright full moon shini
 **Author:** [Mattie](https://x.com/Mattie129218) | **Source:** [Link](https://x.com/Mattie129218/status/2095033462776369428) | **Published:** Sep 2, 2026
 
 ---
-### Cinematic Samurai Duel with Timestamps
+### Cinematic Duelist Storm Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sophisticated prompt using timestamped blocks to control camera movement and specific character actions in a samurai-themed cinematic scene.
+> A sophisticated cinematic video prompt for Grok Imagine featuring a duelist in a storm, using specific timestamps to control a slow zoom and a sharp snap cut.
 
 #### 📝 Prompt
 
@@ -552,7 +735,7 @@ The duelist in the torn haori holds a curved blade low at her right side, centre
  she flicks blood from it upwards in one sharp arc, the water breaking into spray off the steel
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="Cinematic Samurai Duel with Timestamps">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="Cinematic Duelist Storm Sequence">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10247)**
 
@@ -882,11 +1065,11 @@ The waterfall cascades powerfully and continuously down the rocky cliffs into th
 **Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2094444345940201865) | **Published:** Aug 31, 2026
 
 ---
-### Cinematic Matcha Tea Ceremony Animation
+### Cinematic Matcha Ceremony Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive 15-second video animation prompt that guides a character through preparing matcha, discovering a hidden note, and reacting with subtle facial expressions in a traditional Japanese cafe setting.
+> A detailed narrative video prompt for Grok Imagine that animates a woman in a Japanese tea shop as she discovers a hidden note, featuring realistic physics and character consistency.
 
 #### 📝 Prompt
 
@@ -906,7 +1089,7 @@ Animate this image into a photorealistic cinematic 15-second video. Preserve the
 Natural realistic acting, subtle facial expressions, delicate hand movements, realistic paper interaction, accurate fingers, natural hair physics, warm Japanese café atmosphere, soft cinematic lighting, shallow depth of field, gentle handheld camera movement. No exaggerated movements, no sudden camera motion, no extra people, no face changes, no outfit changes, no object morphing, no distorted hands.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094383888613445632/img/u9pGKfdgULnvmdVD.jpg" width="600" alt="Cinematic Matcha Tea Ceremony Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094383888613445632/img/u9pGKfdgULnvmdVD.jpg" width="600" alt="Cinematic Matcha Ceremony Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10189)**
 
@@ -970,11 +1153,11 @@ Cinematic miniature rescue scene in a tiny realistic world, several miniature wo
 **Author:** [Nicholas](https://x.com/Mud01185127) | **Source:** [Link](https://x.com/Mud01185127/status/2094299423258067039) | **Published:** Aug 31, 2026
 
 ---
-### Cinematic Suspenseful Café Scene
+### Suspenseful Cafe Narrative Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video generation prompt for a 15-second cinematic sequence where a woman in a café transitions from a relaxed state to a tense realization after receiving a mysterious text message.
+> A highly detailed 15-second cinematic video prompt for Grok Imagine that builds suspense in a cafe setting with specific time-based instructions.
 
 #### 📝 Prompt
 
@@ -994,7 +1177,7 @@ Create a photorealistic cinematic 15-second video from this exact image. Preserv
 Natural realistic acting, subtle facial expressions, realistic blinking, accurate hand and finger movements, believable phone interaction, natural hair physics, realistic fabric movement, warm sophisticated café ambience, shallow depth of field, very subtle handheld camera movement. Build suspense gradually. No exaggerated reactions, no sudden camera movements, no visible sender, no extra characters, no cuts, no face changes, no outfit changes, no distorted hands or phone.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094274016601313280/img/tDJlh3HquBBgCAQp.jpg" width="600" alt="Cinematic Suspenseful Café Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094274016601313280/img/tDJlh3HquBBgCAQp.jpg" width="600" alt="Suspenseful Cafe Narrative Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10138)**
 
@@ -1308,11 +1491,11 @@ The bioluminescent ones — yes, this is exactly the place. When the water’s w
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093840804871606418) | **Published:** Aug 29, 2026
 
 ---
-### 360-Degree Orbit Time-Lapse
+### 360 Degree Orbiting Time Lapse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a subject standing still while the crowd passes in a long-exposure time-lapse with a 360-degree camera orbit.
+> A sophisticated video prompt for a 360-degree orbiting camera shot around a subject with long-exposure time-lapse motion blur.
 
 #### 📝 Prompt
 
@@ -1320,7 +1503,7 @@ The bioluminescent ones — yes, this is exactly the place. When the water’s w
 He is standing in place , people passing around him in long exposure with time lapse and motion blur with push in dolly handheld camera motion, the camera orbiting around his body in 360 degrees
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093840475153125376/img/aojsCP-3YxTfkBEc.jpg" width="600" alt="360-Degree Orbit Time-Lapse">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093840475153125376/img/aojsCP-3YxTfkBEc.jpg" width="600" alt="360 Degree Orbiting Time Lapse">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10080)**
 
@@ -1957,177 +2140,6 @@ Animate. Keep the scene and don't zoom in or out. no talking, or words. just nat
 **Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
 
 ---
-### Cat and Model Fashion Runway Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A whimsical video prompt of a sophisticated cat walking the runway in a velvet coat alongside a fashion model.
-
-#### 📝 Prompt
-
-```
-The camera starts wide on the runway. The cat in the velvet coat walks forward on his hind legs, one paw holding the model’s hand, the other resting lightly on his hip. His head is high, chin lifted, tail swaying with each step. The model glides beside him, chin raised, gown flowing. As they reach the end of the runway, the cat turns his head, gives a slow, deliberate blink to the crowd, then looks back up at the model with a tiny, smug smile. He adjusts his grip on her hand like a gentleman, then they turn together and start the walk back, his little boots clicking on the runway.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="Cat and Model Fashion Runway Walk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9926)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **Published:** Aug 26, 2026
-
----
-### Saratoga Horse Race Dream
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video depicting a specific horse race at the Saratoga racecourse, focusing on horse number five during race number one.
-
-#### 📝 Prompt
-
-```
-Lori’s dream running August 27 at the famous Saratoga racecourse race number one horse number five show the number five on the horse
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="Saratoga Horse Race Dream">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9921)**
-
-**Author:** [Ron Lundenberg](https://x.com/rlunden) | **Source:** [Link](https://x.com/rlunden/status/2092720610602364995) | **Published:** Aug 26, 2026
-
----
-### German Nerd Comedy Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt that places a character into a scene from Revenge of the Nerds with a humorous language barrier element.
-
-#### 📝 Prompt
-
-```
-Put this guy into a scene in “Revenge of the Nerds”. But he has a thick German accent and nobody can understand him. Everyone just looks confused.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="German Nerd Comedy Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9925)**
-
-**Author:** [Ken Simpson](https://x.com/ttul) | **Source:** [Link](https://x.com/ttul/status/2092708814281978175) | **Published:** Aug 26, 2026
-
----
-### Telepathic Communication City Street
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt visualizing thoughts as text bubbles above people in a busy city street.
-
-#### 📝 Prompt
-
-```
-Telepathic communication viewed on the city streets as bubbles with text inside of them above the people’s heads also how it feels when someone gets access to your brain illegally to steal intellectual properties from you including ideas you have
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="Telepathic Communication City Street">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9933)**
-
-**Author:** [Austin Gibson](https://x.com/5pazzisAlive) | **Source:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **Published:** Aug 26, 2026
-
----
-### Martian Dust Storm Cinematic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed atmospheric prompt describing a slow camera drift over the Martian surface with wind and swirling dust.
-
-#### 📝 Prompt
-
-```
-Slow cinematic camera drift across the vast Martian landscape, gentle wind stirring fine reddish dust and sand across the dunes and rocky terrain, atmospheric haze subtly shifting, distant dust clouds slowly swirling under the hazy orange sky, photorealistic
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="Martian Dust Storm Cinematic">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9924)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **Published:** Aug 26, 2026
-
----
-### Miami Vice Detective with 3D Printers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt blending 1970s Miami Vice style with futuristic 3D concrete printing technology on a construction site.
-
-#### 📝 Prompt
-
-```
-1970s police detective Miami vice style walking on a construction site with 3D concrete Printers
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="Miami Vice Detective with 3D Printers">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9920)**
-
-**Author:** [LeBron Daniel](https://x.com/lebron3d) | **Source:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **Published:** Aug 26, 2026
-
----
-### Dynamic Meteor Shower Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed animation prompt for creating a meteor shower with glowing trails and twinkling stars.
-
-#### 📝 Prompt
-
-```
-Dynamic meteor shower animation: bright meteors and shooting stars continuously streak across the night sky in various directions leaving glowing green and blue trails, new meteors appear and fall, stars twinkle gently, subtle camera drift upward, ci...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="Dynamic Meteor Shower Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9927)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **Published:** Aug 26, 2026
-
----
-### Sunlit Impressionist Garden Duckling
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt for a tiny duckling painting in a sunlit impressionist garden with specific camera motion and bird elements.
-
-#### 📝 Prompt
-
-```
-The still and the for the video I prompt move slightly to the left as a little birdie flies on the top of the easel. A sunlit impressionist garden, photoreal and wet oil paint at once: thick cream-gold light, greens you could smear, the sun itself a bright wet daub that is not dry. A tiny duckling in a late-1800s painter’s smock and a straw hat too big for it, standing at a miniature easel in the grass, earnestly painting that sun onto a little canvas. Impasto sunflowers, canvas tooth in the path, 1990s filmic grain. One idea: the sun is still wet, and so is the painting. Beautiful and a little silly.
-```
-
-<img src="https://cms-assets.youmind.com/media/1788077778220_6iaw4d_HQpScBhWQAAYNxT.jpg" width="600" alt="Sunlit Impressionist Garden Duckling">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
-
-**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092580518147617152) | **Published:** Aug 26, 2026
-
----
-### Luxurious Mansion Setting Change
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A setting transformation prompt that replaces a beach or boat background with a detailed, high-end mansion party atmosphere.
-
-#### 📝 Prompt
-
-```
-Change the setting from the beach/boat to the luxurious Playboy Mansion: elegant multi-story mansion with grand architecture, palm trees, a sparkling pool, party lights, and a high-end party atmosphere
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="Luxurious Mansion Setting Change">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9922)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2189,6 +2201,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-05T04:14:17.682Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-05T08:35:13.672Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2701** |
+| 📝 提示词总数 | **2710** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-05** |
 
@@ -189,6 +189,158 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 蒸汽朋克城市城堡城墙运镜
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影级的运镜提示词，沿着城堡城墙移动，俯瞰夜晚的蒸汽朋克风格城市。
+
+#### 📝 提示词
+
+```
+沿着城堡城墙移动，同时俯瞰夜晚的蒸汽朋克风格城市。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="蒸汽朋克城市城堡城墙运镜">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10384)**
+
+**作者:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **来源:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **发布时间:** Sep 5, 2026
+
+---
+### 动作电影风格的授勋仪式
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一段详细的电影级提示词，描绘了在皇家王座大厅内举行的骑士授勋仪式，主角为一位女性英雄，氛围庄严宏大。
+
+#### 📝 提示词
+
+```
+一个动作电影风格的场景：一位美丽的女性英雄在皇家城堡的王座大厅觐见女王，并正在举行骑士授勋仪式。氛围庄严而富有戏剧性，展现了奢华的皇家内景以及生动、高贵的色彩。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="动作电影风格的授勋仪式">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10392)**
+
+**作者:** [Apple](https://x.com/Apple0816799221) | **来源:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **发布时间:** Sep 5, 2026
+
+---
+### 蓝光与昼夜节律信息图
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份详细的视频提示词，用于制作信息图，解释蓝光射线如何影响褪黑素分泌并干扰睡眠周期。
+
+#### 📝 提示词
+
+```
+关于蓝光射线如何抑制褪黑素分泌并干扰昼夜节律的信息图
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="蓝光与昼夜节律信息图">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10385)**
+
+**作者:** [Callum Conway](https://x.com/wordsbycallum) | **来源:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **发布时间:** Sep 5, 2026
+
+---
+### 地下洞穴城市科幻场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的科幻视频提示词，用于拍摄广阔地下洞穴城市的电影级广角镜头，包含模块化居住舱和戏剧性的光影效果。
+
+#### 📝 提示词
+
+```
+电影级广角镜头，展现一座广阔的地下洞穴城市，白色的模块化居住舱嵌入岩石峡谷壁中，窗户透出温暖的光芒，一条河流穿过洞穴底部，纤细的人行天桥上有微小的人物穿行，戏剧性的阳光从石质天花板的圆形开口倾泻而下，空气中弥漫着柔和的薄雾，充满希望的科幻建筑风格，照片级真实细节，宁静而明亮
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="地下洞穴城市科幻场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10386)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **发布时间:** Sep 4, 2026
+
+---
+### 零重力漂浮宇航员
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的电影级视频提示词，描述宇航员在太空中漂浮，伴随平滑的摄像机运镜和逼真的星空背景。
+
+#### 📝 提示词
+
+```
+宇航员在零重力下轻柔漂浮，缓慢旋转并环顾四周，繁星在身旁掠过，细腻的摄像机运镜，流畅的电影级动态效果
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="零重力漂浮宇航员">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10388)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **发布时间:** Sep 4, 2026
+
+---
+### 日本主播谈话头像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于实现逼真面部表情和口型同步的高保真视频提示词。
+
+#### 📝 提示词
+
+```
+特写谈话头像，年轻的日本主播，连续自然的口型与语音匹配，高张力的兴奋表达，嘴型随音节清晰变化，眨眼和微表情，照片级真实感
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="日本主播谈话头像">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10389)**
+
+**作者:** [AIかぴ](https://x.com/ck_pkki2) | **来源:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **发布时间:** Sep 4, 2026
+
+---
+### 帝国飞船降临场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 Grok Imagine 的电影感提示词，描绘了人群聚集观看一艘帝国飞船降临其星球的场景。
+
+#### 📝 提示词
+
+```
+所有人都在聚集，观看一艘帝国飞船降临到他们的星球。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="帝国飞船降临场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10390)**
+
+**作者:** [ojiji](https://x.com/ojiji2025) | **来源:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **发布时间:** Sep 4, 2026
+
+---
+### 盐滩上的孤独身影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段超现实且充满氛围感的视频提示词，描绘了一个孤独的身影面对着无尽龟裂盐滩上一块巨大石盘的场景。
+
+#### 📝 提示词
+
+```
+电影级广角镜头，一个身穿深色外套的孤独身影站在无尽的龟裂盐滩上，面对着一块巨大的圆形石盘，石盘上有同心圆环和中心的一个深洞，呈现出破碎的石材和金属质感，长而硬的阴影投射在白色的地面上，苍白多云的天空，宁静的超现实氛围，具有绘画般的细节，亲密而静谧，超精细的织物纹理和风化表面
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="盐滩上的孤独身影">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10387)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **发布时间:** Sep 4, 2026
+
+---
 ### 被遗忘者的飞马之旅
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -511,6 +663,37 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10341)**
 
 **作者:** [Christi McGuffey](https://x.com/crermc7) | **来源:** [Link](https://x.com/crermc7/status/2095297619492851887) | **发布时间:** Sep 2, 2026
+
+---
+### 温馨卧室阅读动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个精致的 Grok Imagine 视频提示词，引导模型将一张女性接住掉落书籍的静态图片转化为动画，重点呈现逼真的动作和反应性的面部表情。
+
+#### 📝 提示词
+
+```
+基于此图片创作一段 15 秒的写实风格温馨电影感视频。保持女性的面部特征、发型、开衫、首饰、身体比例、卧室、床、书籍、台灯、墙面装饰、灯光及整体构图完全一致。
+
+0–4 秒：她舒适地坐在床上，看向镜头，表情柔和放松。她自然地眨眼和呼吸，随后看向身旁的一叠书。
+
+4–7 秒：她伸手去拿那一叠书，轻轻抽出其中一本。就在这时，另一本书突然从书堆中滑落，向地面掉去。
+
+7–10 秒：她反应迅速，身体前倾并伸手去接那本掉落的书。她在书落地前成功将其接住。
+
+10–12 秒：她坐回原位，拿着书，带着一丝惊讶的表情看着它，随后发出轻微的笑声。
+
+12–15 秒：她直视镜头，调皮地笑了笑，轻声说道：“好险。”随后将书稳妥地放在身旁。
+
+要求：自然的人类动作、逼真的反应时机、可信的手指动作、与书籍准确的交互、细微的发丝摆动、真实的开衫质感、自然的表情、温馨的午后卧室氛围、柔和的电影级灯光、浅景深效果、轻微的手持摄像机感。掉落的书籍必须符合重力规律，接书动作要真实。禁止夸张表演、禁止突兀的镜头移动、禁止出现其他人物、禁止面部变化、禁止服装变化、禁止手部畸变、禁止物体变形。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095138179166949376/img/lSmg-daTNlRhHUN2.jpg" width="600" alt="温馨卧室阅读动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10391)**
+
+**作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **来源:** [Link](https://x.com/iamahmedfaraz66/status/2095139680786493912) | **发布时间:** Sep 2, 2026
 
 ---
 ### 宁静月夜晚安场景
@@ -1962,179 +2145,6 @@ SpaceX 锻造团队前往 MrFIXitX 月球基地进行殖民，携带由订阅者
 **作者:** [BRENT REEVES](https://x.com/Breeves1979) | **来源:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **发布时间:** Aug 26, 2026
 
 ---
-### 猫咪时尚模特走秀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详细的电影级视频提示词，描述了一只身穿天鹅绒外套的猫咪像绅士一样与人类模特共同走上时尚 T 台的场景。
-
-#### 📝 提示词
-
-```
-镜头以广角开场，展示整个 T 台。身穿天鹅绒外套的猫咪用后腿向前行走，一只爪子牵着模特的手，另一只爪子轻搭在腰间。它昂首挺胸，下巴微抬，尾巴随着步伐轻轻摆动。模特在它身旁优雅滑行，下巴高昂，长裙飘逸。当它们走到 T 台尽头时，猫咪转过头，对着人群缓慢而从容地眨了眨眼，随后带着一丝得意的小微笑看向模特。它像绅士一样调整了握住模特的手，随后它们一起转身往回走，它脚上的小靴子在 T 台上发出清脆的响声。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="猫咪时尚模特走秀">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9926)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **发布时间:** Aug 26, 2026
-
----
-### Saratoga 赛马梦
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段描绘 Saratoga 赛马场特定赛事的视频，重点展示第一场比赛中的 5 号赛马。
-
-#### 📝 提示词
-
-```
-Lori 的梦想是在 8 月 27 日著名的 Saratoga 赛马场第一场比赛中，展示 5 号赛马，并清晰呈现马身上的 5 号数字。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="Saratoga 赛马梦">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9921)**
-
-**作者:** [Ron Lundenberg](https://x.com/rlunden) | **来源:** [Link](https://x.com/rlunden/status/2092720610602364995) | **发布时间:** Aug 26, 2026
-
----
-### 德国书呆子喜剧场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个创意视频提示词，将角色置于电影《Revenge of the Nerds》的场景中，并加入幽默的语言障碍元素。
-
-#### 📝 提示词
-
-```
-将这个人放入电影《Revenge of the Nerds》的一个场景中。但他带着浓重的德国口音，没人能听懂他在说什么。每个人看起来都一脸困惑。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="德国书呆子喜剧场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9925)**
-
-**作者:** [Ken Simpson](https://x.com/ttul) | **来源:** [Link](https://x.com/ttul/status/2092708814281978175) | **发布时间:** Aug 26, 2026
-
----
-### 心灵感应沟通的城市街道
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段视频提示词，旨在可视化呈现繁忙城市街道中人们头顶上方如气泡般的文字思想。
-
-#### 📝 提示词
-
-```
-在城市街道上看到的心灵感应沟通，表现为人们头顶上方带有文字的气泡；同时也展现了当某人非法入侵你的大脑，窃取包括你的创意在内的知识产权时的那种感觉。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="心灵感应沟通的城市街道">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9933)**
-
-**作者:** [Austin Gibson](https://x.com/5pazzisAlive) | **来源:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **发布时间:** Aug 26, 2026
-
----
-### 火星沙尘暴电影感画面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详细的氛围提示词，描述了摄像机在火星表面缓慢平移，伴随风吹和沙尘飞扬的场景。
-
-#### 📝 提示词
-
-```
-摄像机在广阔的火星地貌上缓慢平移，呈现出电影般的质感；微风吹拂，细小的红色沙尘在沙丘和岩石地形间翻滚；大气层中的薄雾微妙地变幻，远处的沙尘云在橙色的朦胧天空下缓慢旋转，画面具有照片级的真实感
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="火星沙尘暴电影感画面">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9924)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **发布时间:** Aug 26, 2026
-
----
-### 迈阿密风云侦探与 3D 打印机
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段视频提示词，将 20 世纪 70 年代的《迈阿密风云》风格与建筑工地上未来派的 3D 混凝土打印技术相结合。
-
-#### 📝 提示词
-
-```
-20 世纪 70 年代《迈阿密风云》风格的警探在建筑工地上行走，旁边有 3D 混凝土打印机
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="迈阿密风云侦探与 3D 打印机">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9920)**
-
-**作者:** [LeBron Daniel](https://x.com/lebron3d) | **来源:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **发布时间:** Aug 26, 2026
-
----
-### 动态流星雨动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于创建带有发光轨迹和闪烁星辰的流星雨动画的详细提示词。
-
-#### 📝 提示词
-
-```
-动态流星雨动画：明亮的流星和陨星在夜空中持续向不同方向划过，留下绿色和蓝色的发光轨迹，新的流星不断出现并坠落，星星轻柔地闪烁，摄像机缓慢向上漂移，ci...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="动态流星雨动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9927)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **发布时间:** Aug 26, 2026
-
----
-### 印象派花园小鸭画家
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个宁静的印象派视频提示词，描绘了一只穿着画家罩衫的小鸭子在阳光明媚的花园中作画，旨在呈现流畅的动作和柔和的质感。
-
-#### 📝 提示词
-
-```
-视频的静态画面和提示词内容：随着一只小鸟飞到画架顶部，画面向左轻微移动。
-
-一个阳光明媚的印象派花园，既写实又呈现出湿油画的质感：浓郁的奶油金色光影，仿佛可以涂抹开的绿色，太阳本身就是一个尚未干透、明亮湿润的色块。一只穿着 19 世纪末画家罩衫、戴着一顶过大草帽的小鸭子，站在草地上的微型画架前，正认真地将太阳画在小画布上。厚涂法的向日葵，画布在路径上的纹理，以及 20 世纪 90 年代的胶片颗粒感。一个创意点：太阳是湿润的，画作也是湿润的。既美丽又带有一丝俏皮。
-```
-
-<img src="https://cms-assets.youmind.com/media/1788077778220_6iaw4d_HQpScBhWQAAYNxT.jpg" width="600" alt="印象派花园小鸭画家">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9928)**
-
-**作者:** [Lucy](https://x.com/princess414141) | **来源:** [Link](https://x.com/princess414141/status/2092580518147617152) | **发布时间:** Aug 26, 2026
-
----
-### 豪华宅邸场景替换
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个场景转换提示词，可将海滩或游艇背景替换为细节丰富的高端宅邸派对氛围。
-
-#### 📝 提示词
-
-```
-将场景从海滩/游艇更改为豪华的 Playboy Mansion：优雅的多层宅邸，拥有宏伟的建筑、棕榈树、波光粼粼的泳池、派对灯光以及高端的派对氛围
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="豪华宅邸场景替换">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9922)**
-
-**作者:** [Ami A](https://x.com/AA63782) | **来源:** [Link](https://x.com/AA63782/status/2092525163887853620) | **发布时间:** Aug 26, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2196,6 +2206,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-05T04:14:19.433Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-05T08:35:14.533Z</sub>
 
 </div>

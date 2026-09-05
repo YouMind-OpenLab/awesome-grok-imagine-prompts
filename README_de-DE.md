@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2701** |
+| 📝 Total Prompts | **2710** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-05** |
 
@@ -189,6 +189,158 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Steampunk-Stadtburgmauer-Bewegung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Kamerabewegungs-Prompt, der sich entlang von Burgmauern bewegt und nachts auf eine Stadt im Steampunk-Stil hinunterblickt.
+
+#### 📝 Prompt
+
+```
+Bewegung entlang der Burgmauern mit Blick auf die Stadt im Steampunk-Stil bei Nacht.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="Steampunk-Stadtburgmauer-Bewegung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10384)**
+
+**Author:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **Source:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **Published:** Sep 5, 2026
+
+---
+### Ritterschlag-Zeremonie im Actionfilm-Stil
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter filmischer Prompt für eine Ritterschlag-Zeremonie in einem königlichen Thronsaal mit einer weiblichen Heldin und majestätischer Atmosphäre.
+
+#### 📝 Prompt
+
+```
+Eine Szene im Actionfilm-Stil, in der eine schöne weibliche Heldin eine Audienz bei einer Königin im Thronsaal des königlichen Schlosses hat und eine Ritterschlag-Zeremonie abgehalten wird. Eine feierliche und dramatische Atmosphäre, luxuriöses königliches Interieur sowie lebendige, noble Farben.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="Ritterschlag-Zeremonie im Actionfilm-Stil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10392)**
+
+**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **Published:** Sep 5, 2026
+
+---
+### Infografik zum Blaulicht und zirkadianen Rhythmus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt zur Erstellung einer Infografik, die erklärt, wie Blaulicht die Melatoninproduktion beeinflusst und den Schlafzyklus stört.
+
+#### 📝 Prompt
+
+```
+Infografik darüber, wie Blaulicht die Melatoninproduktion hemmt und den zirkadianen Rhythmus stört
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="Infografik zum Blaulicht und zirkadianen Rhythmus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10385)**
+
+**Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
+
+---
+### Sci-Fi-Szene einer unterirdischen Höhlenstadt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Sci-Fi-Video-Prompt für eine filmische Weitaufnahme einer riesigen unterirdischen Höhlenstadt mit modularen Wohnkapseln und dramatischer Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Filmische Weitaufnahme einer riesigen unterirdischen Höhlenstadt mit weißen, modularen Wohnkapseln, die in die felsigen Schluchtwände gebaut sind, warm leuchtende Fenster, ein Fluss, der sich durch den Höhlenboden schlängelt, schmale Fußgängerbrücken mit winzigen Figuren, die diese überqueren, dramatische Sonnenstrahlen, die durch eine kreisförmige Öffnung in der Steindecke einfallen, sanfter Nebel in der Luft, hoffnungsvolle Sci-Fi-Architektur, fotorealistische Details, ruhig und leuchtend
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="Sci-Fi-Szene einer unterirdischen Höhlenstadt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10386)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **Published:** Sep 4, 2026
+
+---
+### Schwereloser schwebender Astronaut
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter, kinoreifer Video-Prompt für einen Astronauten, der im Weltraum schwebt, mit sanften Kamerabewegungen und realistischem Sternenhintergrund.
+
+#### 📝 Prompt
+
+```
+Der Astronaut schwebt sanft in der Schwerelosigkeit, rotiert langsam und blickt sich um, Sterne ziehen vorbei, subtile Kamerabewegung, flüssige filmische Bewegung
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="Schwereloser schwebender Astronaut">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10388)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **Published:** Sep 4, 2026
+
+---
+### Japanischer Streamer Talking Head
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein High-Fidelity-Videoprompt für realistische Gesichtsausdrücke und Lippensynchronisation.
+
+#### 📝 Prompt
+
+```
+Nahaufnahme eines sprechenden Kopfes, junger japanischer Streamer, kontinuierliche natürliche Lippenbewegungen passend zur Sprache, spannungsgeladene und aufgeregte Ausdrucksweise, Mundformen verändern sich deutlich Silbe für Silbe, Blinzeln und Mikroexpressionen, fotorealistisch
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="Japanischer Streamer Talking Head">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
+
+**Author:** [AIかぴ](https://x.com/ck_pkki2) | **Source:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **Published:** Sep 4, 2026
+
+---
+### Ankunftsszene eines imperialen Raumschiffs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Prompt für Grok Imagine, der eine Menschenmenge zeigt, die die Ankunft eines imperialen Raumschiffs auf ihrem Planeten beobachtet.
+
+#### 📝 Prompt
+
+```
+Alle versammeln sich, um die Ankunft eines imperialen Raumschiffs auf ihrem Planeten zu beobachten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="Ankunftsszene eines imperialen Raumschiffs">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10390)**
+
+**Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
+
+---
+### Einsame Figur auf der Salzpfanne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein surrealer und atmosphärischer Video-Prompt, der eine einsame Figur zeigt, die vor einer kolossalen Steinscheibe auf einer endlosen, rissigen Salzpfanne steht.
+
+#### 📝 Prompt
+
+```
+Filmische Totale einer einsamen Figur in einem dunklen Mantel, die auf einer endlosen, rissigen Salzpfanne steht und einer kolossalen, rissigen kreisförmigen Scheibe mit konzentrischen Steinringen und einem dunklen Loch in der Mitte gegenübersteht, Textur aus gebrochenem Stein und Metall, langer harter Schatten auf weißer Erde, blasser bewölkter Himmel, ruhige surreale Atmosphäre, malerische Details, intim und still, hochdetaillierte Stoffe und verwitterte Oberfläche
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="Einsame Figur auf der Salzpfanne">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **Published:** Sep 4, 2026
+
+---
 ### Der Pegasus-Flug der Vergessenen
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -511,6 +663,37 @@ Die junge Kleopatra blickt auf Ägypten und weiß, dass sie es eines Tages regie
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10341)**
 
 **Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2095297619492851887) | **Published:** Sep 2, 2026
+
+---
+### Animation: Gemütliches Lesen im Schlafzimmer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein anspruchsvoller Grok Imagine Video-Prompt, der das Modell anweist, ein Standbild einer Frau, die ein fallendes Buch fängt, zu animieren, mit Fokus auf realistische Bewegungen und reaktive Mimik.
+
+#### 📝 Prompt
+
+```
+Erstelle ein fotorealistisches, gemütliches 15-sekündiges cineastisches Video auf Basis dieses exakten Bildes. Behalte das Gesicht, die Frisur, die Strickjacke, den Schmuck, die Körperproportionen, das Schlafzimmer, das Bett, die Bücher, die Lampe, die Wanddekorationen, die Beleuchtung und die gesamte Komposition der Frau exakt bei.
+
+0–4 Sek.: Sie sitzt bequem auf dem Bett und schaut mit einem sanften, entspannten Ausdruck in die Kamera. Sie blinzelt und atmet natürlich, dann blickt sie zu dem Bücherstapel neben ihr.
+
+4–7 Sek.: Sie greift nach dem Stapel und zieht vorsichtig ein Buch heraus. Während sie das tut, rutscht plötzlich ein anderes Buch aus dem Stapel und fällt Richtung Boden.
+
+7–10 Sek.: Sie reagiert schnell, beugt sich vor und greift nach dem fallenden Buch. Es gelingt ihr, es kurz vor dem Aufprall auf dem Boden zu fangen.
+
+10–12 Sek.: Sie setzt sich wieder auf, hält das Buch fest, betrachtet es mit einem leicht überraschten Ausdruck und lässt dann ein kleines, amüsiertes Lachen hören.
+
+12–15 Sek.: Sie schaut direkt in die Kamera, lächelt verschmitzt und sagt leise: „Das war knapp.“ Sie legt das Buch sicher neben sich ab.
+
+Natürliche menschliche Bewegungen, realistische Reaktionszeiten, glaubwürdige Hand- und Fingerbewegungen, präzise Interaktion mit dem Buch, subtile Haarbewegungen, realistischer Stoff der Strickjacke, natürliche Mimik, gemütliche Schlafzimmeratmosphäre am Nachmittag, weiche cineastische Beleuchtung, geringe Schärfentiefe, sanfter Handkamera-Look. Das fallende Buch muss sich natürlich mit der Schwerkraft bewegen und realistisch aufgefangen werden. Keine übertriebene Schauspielerei, keine plötzlichen Kamerabewegungen, keine zusätzlichen Personen, keine Gesichtsveränderungen, keine Outfitwechsel, keine verzerrten Hände, kein Objekt-Morphing.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095138179166949376/img/lSmg-daTNlRhHUN2.jpg" width="600" alt="Animation: Gemütliches Lesen im Schlafzimmer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10391)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095139680786493912) | **Published:** Sep 2, 2026
 
 ---
 ### Ruhige Mondschein-Gute-Nacht-Szene
@@ -1962,179 +2145,6 @@ Animieren. Behalte die Szene bei und zoome weder hinein noch heraus. Kein Sprech
 **Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
 
 ---
-### Katzen-Fotomodell auf dem Laufsteg
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, kinoreifer Video-Prompt, der eine Katze in einem Samtmantel beschreibt, die wie ein Gentleman an der Seite eines menschlichen Models über einen Laufsteg stolziert.
-
-#### 📝 Prompt
-
-```
-Die Kamera beginnt in einer Totalen auf den Laufsteg. Die Katze im Samtmantel läuft auf ihren Hinterbeinen vorwärts; eine Pfote hält die Hand des Models, die andere ruht lässig in der Hüfte. Sie trägt den Kopf hoch, das Kinn erhoben, der Schwanz schwingt bei jedem Schritt mit. Das Model gleitet neben ihr dahin, das Kinn erhoben, das Kleid fließt. Als sie das Ende des Laufstegs erreichen, dreht die Katze den Kopf, wirft dem Publikum ein langsames, bewusstes Blinzeln zu und blickt dann mit einem kleinen, selbstgefälligen Lächeln zum Model auf. Sie korrigiert ihren Griff an ihrer Hand wie ein Gentleman, dann drehen sie sich gemeinsam um und treten den Rückweg an, während ihre kleinen Stiefel auf dem Laufsteg klicken.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="Katzen-Fotomodell auf dem Laufsteg">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9926)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **Published:** Aug 26, 2026
-
----
-### Traum vom Pferderennen in Saratoga
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Erzeugt ein Video, das ein spezifisches Pferderennen auf der Rennbahn von Saratoga darstellt, mit Fokus auf Pferd Nummer fünf im ersten Rennen.
-
-#### 📝 Prompt
-
-```
-Loris Traum am 27. August auf der berühmten Rennbahn von Saratoga, erstes Rennen, Pferd Nummer fünf, zeige die Nummer fünf auf dem Pferd
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="Traum vom Pferderennen in Saratoga">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9921)**
-
-**Author:** [Ron Lundenberg](https://x.com/rlunden) | **Source:** [Link](https://x.com/rlunden/status/2092720610602364995) | **Published:** Aug 26, 2026
-
----
-### Deutsche Nerd-Comedy-Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Video-Prompt, der einen Charakter in eine Szene aus „Revenge of the Nerds“ versetzt, ergänzt um eine humorvolle Sprachbarriere.
-
-#### 📝 Prompt
-
-```
-Setze diesen Typen in eine Szene aus „Revenge of the Nerds“. Er hat jedoch einen extrem starken deutschen Akzent und niemand kann ihn verstehen. Alle schauen nur verwirrt drein.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="Deutsche Nerd-Comedy-Szene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9925)**
-
-**Author:** [Ken Simpson](https://x.com/ttul) | **Source:** [Link](https://x.com/ttul/status/2092708814281978175) | **Published:** Aug 26, 2026
-
----
-### Telepathische Kommunikation auf der Straße
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, der Gedanken als Textblasen über den Köpfen von Menschen auf einer belebten Straße visualisiert.
-
-#### 📝 Prompt
-
-```
-Telepathische Kommunikation auf einer belebten Straße, dargestellt als Textblasen über den Köpfen der Menschen. Zudem wird das Gefühl vermittelt, wenn jemand unbefugt auf das eigene Gehirn zugreift, um geistiges Eigentum zu stehlen, einschließlich der eigenen Ideen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="Telepathische Kommunikation auf der Straße">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9933)**
-
-**Author:** [Austin Gibson](https://x.com/5pazzisAlive) | **Source:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **Published:** Aug 26, 2026
-
----
-### Filmische Mars-Staubsturm-Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter atmosphärischer Prompt, der eine langsame Kamerafahrt über die Marsoberfläche mit Wind und wirbelndem Staub beschreibt.
-
-#### 📝 Prompt
-
-```
-Langsame filmische Kamerafahrt über die weite Marslandschaft, sanfter Wind wirbelt feinen rötlichen Staub und Sand über die Dünen und das felsige Gelände, atmosphärischer Dunst verschiebt sich subtil, ferne Staubwolken wirbeln langsam unter dem diesigen orangefarbenen Himmel, fotorealistisch
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="Filmische Mars-Staubsturm-Szene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9924)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **Published:** Aug 26, 2026
-
----
-### Miami-Vice-Detektiv mit 3D-Druckern
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, der den Miami-Vice-Stil der 1970er Jahre mit futuristischer 3D-Betondrucktechnologie auf einer Baustelle verbindet.
-
-#### 📝 Prompt
-
-```
-Polizeidetektiv im Miami-Vice-Stil der 1970er Jahre, der auf einer Baustelle mit 3D-Betondruckern läuft
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="Miami-Vice-Detektiv mit 3D-Druckern">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9920)**
-
-**Author:** [LeBron Daniel](https://x.com/lebron3d) | **Source:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **Published:** Aug 26, 2026
-
----
-### Dynamische Meteorstrom-Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Animations-Prompt zur Erstellung eines Meteorstroms mit leuchtenden Schweifen und funkelnden Sternen.
-
-#### 📝 Prompt
-
-```
-Dynamische Meteorstrom-Animation: Helle Meteore und Sternschnuppen ziehen kontinuierlich in verschiedene Richtungen über den Nachthimmel und hinterlassen leuchtend grüne und blaue Schweife, neue Meteore erscheinen und fallen, Sterne funkeln sanft, dezenter Kamera-Schwenk nach oben, ci...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="Dynamische Meteorstrom-Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9927)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **Published:** Aug 26, 2026
-
----
-### Impressionistischer Entenküken-Maler
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein ruhiger, impressionistischer Video-Prompt mit einem Entenküken im Malkittel, das einen sonnendurchfluteten Garten malt – konzipiert für flüssige Bewegungen und weiche Texturen.
-
-#### 📝 Prompt
-
-```
-Das Standbild und der Prompt für das Video bewegen sich leicht nach links, während ein kleiner Vogel oben auf der Staffelei landet.
-
-Ein sonnendurchfluteter, impressionistischer Garten, gleichzeitig fotorealistisch und in nasser Ölfarbe: dickes, cremegoldenes Licht, Grüntöne, die man verstreichen könnte, die Sonne selbst ein heller, nasser Klecks, der noch nicht getrocknet ist. Ein winziges Entenküken in einem Malkittel aus dem späten 19. Jahrhundert und einem viel zu großen Strohhut steht an einer Miniatur-Staffelei im Gras und malt eifrig diese Sonne auf eine kleine Leinwand. Impasto-Sonnenblumen, die Struktur der Leinwand im Pfad, filmische Körnung der 1990er Jahre. Eine Idee: Die Sonne ist noch nass, genau wie das Gemälde. Wunderschön und ein wenig albern.
-```
-
-<img src="https://cms-assets.youmind.com/media/1788077778220_6iaw4d_HQpScBhWQAAYNxT.jpg" width="600" alt="Impressionistischer Entenküken-Maler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
-
-**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092580518147617152) | **Published:** Aug 26, 2026
-
----
-### Luxuriöses Villen-Setting
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Umgestaltung des Hintergrunds, der einen Strand- oder Boots-Hintergrund durch eine detaillierte, exklusive Villen-Party-Atmosphäre ersetzt.
-
-#### 📝 Prompt
-
-```
-Ändere das Setting vom Strand/Boot zur luxuriösen Playboy Mansion: elegante mehrstöckige Villa mit prachtvoller Architektur, Palmen, einem glitzernden Pool, Partybeleuchtung und einer exklusiven Party-Atmosphäre
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="Luxuriöses Villen-Setting">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9922)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2206,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-05T04:14:29.124Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-05T08:35:25.185Z</sub>
 
 </div>

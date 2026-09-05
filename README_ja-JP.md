@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2701** |
+| 📝 プロンプト総数 | **2710** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-05** |
 
@@ -189,6 +189,158 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### スチームパンク風の都市を見下ろす城壁のカメラモーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 夜のスチームパンク風の都市を見下ろす城壁に沿って移動する、シネマティックなカメラモーションのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+夜のスチームパンク風の都市を見下ろしながら、城壁に沿って移動する。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="スチームパンク風の都市を見下ろす城壁のカメラモーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10384)**
+
+**作者:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **ソース:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **公開日:** Sep 5, 2026
+
+---
+### アクション映画風の叙任式
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 王宮の玉座の間で行われる、女性ヒーローが登場する騎士叙任式の壮大なシネマティック・プロンプト。
+
+#### 📝 プロンプト
+
+```
+アクション映画のようなシーン。王宮の玉座の間で、美しい女性ヒーローが女王に謁見し、騎士叙任式が執り行われている。厳粛かつドラマチックな雰囲気で、豪華な王室のインテリアと鮮やかで気品のある色彩が特徴。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="アクション映画風の叙任式">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10392)**
+
+**作者:** [Apple](https://x.com/Apple0816799221) | **ソース:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **公開日:** Sep 5, 2026
+
+---
+### ブルーライトと概日リズムに関するインフォグラフィック
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ブルーライトがメラトニンの生成に与える影響と、睡眠サイクルを乱すメカニズムを解説するインフォグラフィック作成用の詳細なビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+ブルーライトがメラトニンの生成を抑制し、概日リズムを乱す仕組みについてのインフォグラフィック
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="ブルーライトと概日リズムに関するインフォグラフィック">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10385)**
+
+**作者:** [Callum Conway](https://x.com/wordsbycallum) | **ソース:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **公開日:** Sep 5, 2026
+
+---
+### 地下洞窟都市の SF シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> モジュール式の居住ポッドとドラマチックな照明が特徴の、広大な地下洞窟都市を捉えたシネマティックなワイドショット向けの詳細な SF 動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+岩壁に組み込まれた白いモジュール式居住ポッド、温かく輝く窓、洞窟の底を流れる川、小さな人々が行き交う細い歩道橋、天井の円形の開口部から差し込むドラマチックな太陽光、空気中に漂う柔らかな霧が特徴の、広大な地下洞窟都市を捉えたシネマティックなワイドショット。希望に満ちた SF 建築、フォトリアルなディテール、静寂と光に包まれた空間。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="地下洞窟都市の SF シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10386)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **公開日:** Sep 4, 2026
+
+---
+### 無重力で浮遊する宇宙飛行士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 宇宙空間を漂う宇宙飛行士をテーマにした、滑らかなカメラワークとリアルな星空の背景を持つシネマティックな動画生成用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+宇宙飛行士が無重力空間で優雅に浮遊し、ゆっくりと回転しながら周囲を見渡している。背景には星々が流れ、繊細なカメラワークによる滑らかでシネマティックな映像。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="無重力で浮遊する宇宙飛行士">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10388)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **公開日:** Sep 4, 2026
+
+---
+### 日本人ストリーマーのトーキングヘッド
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> リアルな表情とリップシンクを実現するための高精細なビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+クローズアップのトーキングヘッド、若い日本人ストリーマー、発話に合わせた自然で連続的な唇の動き、テンションが高くエキサイティングな語り口、音節ごとに明確に変化する口の形、瞬きや微細な表情、フォトリアル
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="日本人ストリーマーのトーキングヘッド">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10389)**
+
+**作者:** [AIかぴ](https://x.com/ck_pkki2) | **ソース:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **公開日:** Sep 4, 2026
+
+---
+### 帝国宇宙船の到着シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 帝国宇宙船が惑星に到着する様子を群衆が見守る、Grok Imagine 用の映画的なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+帝国宇宙船が惑星に到着する様子を見ようと、人々が続々と集まってきています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="帝国宇宙船の到着シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10390)**
+
+**作者:** [ojiji](https://x.com/ojiji2025) | **ソース:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **公開日:** Sep 4, 2026
+
+---
+### 塩原に佇む孤独な人物
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 果てしなく続くひび割れた塩原で、巨大な石の円盤と対峙する孤独な人物を描いた、シュールで雰囲気のあるビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+果てしなく続くひび割れた塩原に、黒いコートを着た一人の人物が佇むシネマティックなワイドショット。目の前には、同心円状の石のリングと中央に暗い穴が開いた、巨大でひび割れた円盤がそびえ立つ。砕けた石と金属の質感、白い大地に伸びる長く鋭い影、淡い曇り空。静寂でシュールな雰囲気、絵画のようなディテール、親密で静止した空間、超高精細な生地と風化した表面の質感。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="塩原に佇む孤独な人物">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10387)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **公開日:** Sep 4, 2026
+
+---
 ### 忘れ去られた人々のペガサス飛行
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -511,6 +663,37 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10341)**
 
 **作者:** [Christi McGuffey](https://x.com/crermc7) | **ソース:** [Link](https://x.com/crermc7/status/2095297619492851887) | **公開日:** Sep 2, 2026
+
+---
+### 居心地の良い寝室での読書アニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用の洗練された動画プロンプトです。静止画の女性が落ちてくる本をキャッチする様子をアニメーション化するようモデルに指示し、リアルな動きと反応的な表情に焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+この画像から、フォトリアルで居心地の良い 15 秒間のシネマティック動画を作成してください。女性の顔、髪型、カーディガン、ジュエリー、体型、寝室、ベッド、本、ランプ、壁の装飾、照明、そして全体の構図を正確に維持してください。
+
+0 ～ 4 秒：彼女はベッドに快適に座り、リラックスした柔らかな表情でカメラの方を見ています。自然に瞬きをし、呼吸をしながら、隣にある本の山に視線を向けます。
+
+4 ～ 7 秒：彼女が本の山に手を伸ばし、そっと 1 冊の本を引き抜きます。その際、別の本が突然山から滑り落ち、床に向かって落下します。
+
+7 ～ 10 秒：彼女は素早く反応し、前かがみになって落ちてくる本をキャッチしようと手を伸ばします。床に落ちる直前で、見事に本を掴みます。
+
+10 ～ 12 秒：彼女は本を持ったまま元の姿勢に戻り、少し驚いた表情で本を見つめた後、小さく楽しそうに笑います。
+
+12 ～ 15 秒：彼女はカメラをまっすぐに見つめ、茶目っ気たっぷりに微笑みながら「危なかった」と小さくつぶやきます。そして、本を隣に安全に置きます。
+
+自然な人間の動き、リアルな反応のタイミング、説得力のある手や指の動き、本との正確なインタラクション、繊細な髪の揺れ、リアルなカーディガンの質感、自然な表情、居心地の良い午後の寝室の雰囲気、柔らかなシネマティックライティング、浅い被写界深度、手持ちカメラのような穏やかな揺れ。落ちる本は重力に従って自然に動き、リアルにキャッチされる必要があります。大げさな演技、急なカメラの動き、他の人物の登場、顔の変化、服装の変化、手の歪み、オブジェクトのモーフィングは避けてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095138179166949376/img/lSmg-daTNlRhHUN2.jpg" width="600" alt="居心地の良い寝室での読書アニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10391)**
+
+**作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **ソース:** [Link](https://x.com/iamahmedfaraz66/status/2095139680786493912) | **公開日:** Sep 2, 2026
 
 ---
 ### 静寂な月夜の「おやすみ」シーン
@@ -1963,179 +2146,6 @@ SpaceX のフォージクルーが MrFIXitX 月面基地の植民化に向けて
 **作者:** [BRENT REEVES](https://x.com/Breeves1979) | **ソース:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **公開日:** Aug 26, 2026
 
 ---
-### 猫のファッションモデル、ランウェイを歩く
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ベルベットのコートを着た猫が、紳士のように人間モデルと並んでファッションランウェイを歩く様子を描写した、映画のような詳細なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-カメラはランウェイのワイドショットから始まる。ベルベットのコートを着た猫が後ろ足で前進し、片方の前足でモデルの手を握り、もう片方の前足を腰に軽く添えている。頭を高く上げ、顎を突き出し、歩くたびに尻尾を揺らしている。モデルはドレスをなびかせながら、顎を上げて猫の横を優雅に歩く。ランウェイの先端に到達すると、猫は観客の方を向いてゆっくりと意図的に瞬きをし、それからモデルを見上げて小さく得意げな笑みを浮かべる。彼は紳士のようにモデルの手を握り直し、二人で向きを変えて歩き出す。猫の小さなブーツがランウェイでカチカチと音を立てている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="猫のファッションモデル、ランウェイを歩く">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9926)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **公開日:** Aug 26, 2026
-
----
-### サラトガ競馬場の夢
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> サラトガ競馬場で行われる特定のレースを描写した動画を生成します。第 1 レースの 5 番の馬に焦点を当てます。
-
-#### 📝 プロンプト
-
-```
-8 月 27 日に有名なサラトガ競馬場で開催される、ロリの夢のレース。第 1 レースの 5 番の馬。馬のゼッケン 5 番を強調してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="サラトガ競馬場の夢">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9921)**
-
-**作者:** [Ron Lundenberg](https://x.com/rlunden) | **ソース:** [Link](https://x.com/rlunden/status/2092720610602364995) | **公開日:** Aug 26, 2026
-
----
-### ドイツのオタクコメディシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 映画『Revenge of the Nerds』のワンシーンにキャラクターを登場させる、言葉の壁をテーマにしたユーモアあふれる動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-この人物を映画『Revenge of the Nerds』のワンシーンに登場させてください。ただし、彼には強いドイツ語訛りがあり、周囲の誰にも言葉が通じません。周りの人たちは皆、困惑した表情を浮かべています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="ドイツのオタクコメディシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9925)**
-
-**作者:** [Ken Simpson](https://x.com/ttul) | **ソース:** [Link](https://x.com/ttul/status/2092708814281978175) | **公開日:** Aug 26, 2026
-
----
-### テレパシーによるコミュニケーションが行き交う街角
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 賑やかな街角で、人々の頭上に浮かぶ吹き出しとして思考を可視化したビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-街角で目にするテレパシーによるコミュニケーション。人々の頭上にはテキスト入りの吹き出しが浮かんでいる。また、誰かが不正にあなたの脳にアクセスし、アイデアを含む知的財産を盗み出そうとする際の感覚を表現している。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="テレパシーによるコミュニケーションが行き交う街角">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9933)**
-
-**作者:** [Austin Gibson](https://x.com/5pazzisAlive) | **ソース:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **公開日:** Aug 26, 2026
-
----
-### 火星の砂嵐のシネマティック映像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 火星の表面をゆっくりと移動するカメラワークと、風に舞う砂嵐を描写した詳細な雰囲気重視のプロンプト。
-
-#### 📝 プロンプト
-
-```
-広大な火星の地表をゆっくりと移動するシネマティックなカメラワーク、穏やかな風が赤みがかった細かい砂や塵を砂丘や岩場に巻き上げ、大気の霞がかすかに揺らめく様子、遠くの砂雲が霞んだオレンジ色の空の下でゆっくりと渦巻く、フォトリアルな映像
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="火星の砂嵐のシネマティック映像">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9924)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **公開日:** Aug 26, 2026
-
----
-### 3D プリンターを駆使するマイアミ・バイス風の刑事
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1970 年代の「マイアミ・バイス」のスタイルと、建設現場における未来的な 3D コンクリートプリント技術を融合させた動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-1970 年代の刑事「マイアミ・バイス」スタイルで、3D コンクリートプリンターが稼働する建設現場を歩く様子
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="3D プリンターを駆使するマイアミ・バイス風の刑事">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9920)**
-
-**作者:** [LeBron Daniel](https://x.com/lebron3d) | **ソース:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **公開日:** Aug 26, 2026
-
----
-### ダイナミックな流星群のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 輝く軌跡と瞬く星々を伴う流星群を作成するための詳細なアニメーションプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ダイナミックな流星群のアニメーション：明るい流星や流れ星が、緑や青の輝く軌跡を残しながら、夜空をさまざまな方向に絶え間なく横切る。新しい流星が現れては降り注ぎ、星々が優しく瞬く。カメラはわずかに上方へドリフトする。ci...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="ダイナミックな流星群のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9927)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **公開日:** Aug 26, 2026
-
----
-### 印象派の庭で絵を描くアヒルの子
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 画家のスモックを着て陽光あふれる庭を描くアヒルの子をテーマにした、穏やかな印象派スタイルの動画プロンプト。滑らかな動きと柔らかな質感を表現するように設計されています。
-
-#### 📝 プロンプト
-
-```
-動画の静止画とプロンプトでは、小さな小鳥がイーゼルの上を飛ぶにつれて、わずかに左へ動きます。
-
-陽光が降り注ぐ印象派の庭。フォトリアルでありながら、濡れた油絵の具の質感を併せ持っています。厚みのあるクリームゴールドの光、塗り広げられたような緑、そしてまだ乾いていない明るく濡れた絵の具のような太陽。1800 年代後半の画家のスモックと、少し大きすぎる麦わら帽子を身につけた小さなアヒルの子が、草むらに置かれたミニチュアのイーゼルの前に立ち、小さなキャンバスに太陽を真剣に描いています。インパスト技法で描かれたひまわり、小道のキャンバスの質感、1990 年代のフィルムのような粒子感。コンセプト：太陽はまだ濡れており、絵画も同様に濡れている。美しく、そして少し愛らしい光景です。
-```
-
-<img src="https://cms-assets.youmind.com/media/1788077778220_6iaw4d_HQpScBhWQAAYNxT.jpg" width="600" alt="印象派の庭で絵を描くアヒルの子">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9928)**
-
-**作者:** [Lucy](https://x.com/princess414141) | **ソース:** [Link](https://x.com/princess414141/status/2092580518147617152) | **公開日:** Aug 26, 2026
-
----
-### 豪華な邸宅への背景変更
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ビーチやボートの背景を、詳細で高級感のある邸宅パーティーの雰囲気に置き換えるための設定変換プロンプトです。
-
-#### 📝 プロンプト
-
-```
-背景をビーチやボートから豪華な Playboy Mansion に変更：壮大な建築様式の優雅な多層階の邸宅、ヤシの木、きらめくプール、パーティーライト、そして高級感あふれるパーティーの雰囲気
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="豪華な邸宅への背景変更">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9922)**
-
-**作者:** [Ami A](https://x.com/AA63782) | **ソース:** [Link](https://x.com/AA63782/status/2092525163887853620) | **公開日:** Aug 26, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2197,6 +2207,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-05T04:14:21.538Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-05T08:35:18.158Z</sub>
 
 </div>

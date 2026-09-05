@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2701** |
+| 📝 Total Prompts | **2710** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-05** |
 
@@ -189,6 +189,158 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### स्टीमपंक सिटी कैसल वॉल मोशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> रात में स्टीमपंक-शैली के शहर को देखते हुए महल की दीवारों के साथ चलने वाला एक सिनेमाई कैमरा मोशन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+रात में स्टीमपंक-शैली के शहर को नीचे देखते हुए महल की दीवारों के साथ आगे बढ़ना।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="स्टीमपंक सिटी कैसल वॉल मोशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10384)**
+
+**Author:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **Source:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **Published:** Sep 5, 2026
+
+---
+### एक्शन मूवी नाइटिंग सेरेमनी
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> एक शाही सिंहासन कक्ष में महिला नायक के साथ नाइट इन्वेस्टिचर सेरेमनी (नाइट बनाने का समारोह) का विस्तृत सिनेमैटिक प्रॉम्प्ट, जिसमें भव्य वातावरण है।
+
+#### 📝 Prompt
+
+```
+एक्शन मूवी स्टाइल का एक दृश्य जहाँ एक सुंदर महिला नायक शाही महल के सिंहासन कक्ष में रानी से मिलती है, और नाइट इन्वेस्टिचर सेरेमनी आयोजित की जा रही है। एक गंभीर और नाटकीय वातावरण, शानदार शाही इंटीरियर, और जीवंत, कुलीन रंग।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="एक्शन मूवी नाइटिंग सेरेमनी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10392)**
+
+**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **Published:** Sep 5, 2026
+
+---
+### ब्लू लाइट और सर्केडियन रिदम इन्फोग्राफिक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत वीडियो प्रॉम्प्ट, जो एक ऐसा इन्फोग्राफिक बनाने के लिए है जो यह समझाता है कि कैसे ब्लू लाइट किरणें मेलाटोनिन उत्पादन को प्रभावित करती हैं और नींद के चक्र को बाधित करती हैं।
+
+#### 📝 Prompt
+
+```
+इस बात पर इन्फोग्राफिक कि कैसे ब्लू लाइट किरणें मेलाटोनिन के उत्पादन को रोकती हैं और सर्केडियन रिदम को बाधित करती हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="ब्लू लाइट और सर्केडियन रिदम इन्फोग्राफिक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10385)**
+
+**Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
+
+---
+### भूमिगत गुफा शहर का साइंस-फिक्शन दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विशाल भूमिगत गुफा शहर के सिनेमैटिक वाइड शॉट के लिए विस्तृत साइंस-फिक्शन वीडियो प्रॉम्प्ट, जिसमें मॉड्यूलर हैबिटेट पॉड्स और नाटकीय लाइटिंग शामिल है।
+
+#### 📝 Prompt
+
+```
+एक विशाल भूमिगत गुफा शहर का सिनेमैटिक वाइड शॉट, जिसमें चट्टानी घाटी की दीवारों में बने सफेद मॉड्यूलर हैबिटेट पॉड्स, गर्म चमकती खिड़कियाँ, गुफा के तल पर बहती एक नदी, छोटे-छोटे लोगों के साथ पतले पैदल यात्री पुल, पत्थर की छत में बने गोलाकार छेद से आती नाटकीय सूर्य की किरणें, हवा में हल्की धुंध, आशावादी साइंस-फिक्शन आर्किटेक्चर, फोटो-रियल विवरण, शांत और प्रकाशमान
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="भूमिगत गुफा शहर का साइंस-फिक्शन दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10386)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **Published:** Sep 4, 2026
+
+---
+### जीरो-ग्रेविटी फ्लोटिंग एस्ट्रोनॉट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> अंतरिक्ष में तैरते एक अंतरिक्ष यात्री के लिए एक विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें स्मूथ कैमरा मूवमेंट और यथार्थवादी स्टार बैकग्राउंड शामिल हैं।
+
+#### 📝 Prompt
+
+```
+अंतरिक्ष यात्री जीरो-ग्रेविटी में धीरे-धीरे तैर रहा है, धीरे-धीरे घूम रहा है और चारों ओर देख रहा है, तारे पीछे छूट रहे हैं, सूक्ष्म कैमरा मूवमेंट, स्मूथ सिनेमैटिक मोशन
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="जीरो-ग्रेविटी फ्लोटिंग एस्ट्रोनॉट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10388)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **Published:** Sep 4, 2026
+
+---
+### जापानी स्ट्रीमर टॉकिंग हेड
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> यथार्थवादी चेहरे के भावों और लिप-सिंकिंग के लिए एक हाई-फिडेलिटी वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+क्लोज़-अप टॉकिंग हेड, युवा जापानी स्ट्रीमर, भाषण से मेल खाते निरंतर प्राकृतिक होंठों की हलचल, उच्च तनाव वाली उत्साहित डिलीवरी, शब्दांश दर शब्दांश स्पष्ट रूप से बदलते मुंह के आकार, पलकें झपकाना और सूक्ष्म भाव, फोटो-यथार्थवादी
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="जापानी स्ट्रीमर टॉकिंग हेड">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
+
+**Author:** [AIかぴ](https://x.com/ck_pkki2) | **Source:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **Published:** Sep 4, 2026
+
+---
+### इंपीरियल स्पेसशिप के आगमन का दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक सिनेमैटिक प्रॉम्प्ट, जिसमें एक भीड़ को अपने ग्रह पर एक इंपीरियल स्पेसशिप के आगमन को देखते हुए दर्शाया गया है।
+
+#### 📝 Prompt
+
+```
+हर कोई अपने ग्रह पर एक इंपीरियल स्पेसशिप के आगमन को देखने के लिए इकट्ठा हो रहा है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="इंपीरियल स्पेसशिप के आगमन का दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10390)**
+
+**Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
+
+---
+### साल्ट फ्लैट पर अकेला व्यक्ति
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक असली और वायुमंडलीय वीडियो प्रॉम्प्ट जिसमें एक अंतहीन दरार वाले साल्ट फ्लैट पर एक विशाल पत्थर की डिस्क के सामने खड़ा एक अकेला व्यक्ति दिखाई देता है।
+
+#### 📝 Prompt
+
+```
+एक अंतहीन दरार वाले साल्ट फ्लैट पर खड़े गहरे कोट पहने एक अकेले व्यक्ति का सिनेमाई वाइड शॉट, जो संकेंद्रित पत्थर के छल्लों और केंद्र में एक गहरे छेद वाली एक विशाल दरार वाली गोलाकार डिस्क का सामना कर रहा है, टूटे हुए पत्थर और धातु की बनावट, सफेद जमीन पर लंबी गहरी छाया, हल्का बादलों वाला आसमान, शांत असली वातावरण, चित्रमय विवरण, अंतरंग और स्थिर, अति-विस्तृत कपड़े और मौसम की मार झेल चुकी सतह
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="साल्ट फ्लैट पर अकेला व्यक्ति">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **Published:** Sep 4, 2026
+
+---
 ### भुला दिए गए लोगों की पेगासस उड़ान
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -511,6 +663,37 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10341)**
 
 **Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2095297619492851887) | **Published:** Sep 2, 2026
+
+---
+### आरामदायक बेडरूम रीडिंग एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक परिष्कृत Grok Imagine वीडियो प्रॉम्प्ट, जो मॉडल को एक महिला द्वारा गिरती हुई किताब को पकड़ने वाली स्थिर छवि को एनिमेट करने का निर्देश देता है, जिसमें यथार्थवादी गति और प्रतिक्रियाशील चेहरे के हाव-भाव पर ध्यान केंद्रित किया गया है।
+
+#### 📝 Prompt
+
+```
+इस सटीक छवि से एक फोटो-रियलिस्टिक, आरामदायक 15-सेकंड का सिनेमैटिक वीडियो बनाएं। महिला का चेहरा, हेयरस्टाइल, कार्डिगन, ज्वेलरी, शारीरिक अनुपात, बेडरूम, बिस्तर, किताबें, लैंप, दीवार की सजावट, लाइटिंग और समग्र संरचना को बिल्कुल वैसा ही रखें।
+
+0–4 सेकंड: वह बिस्तर पर आराम से बैठी है, कैमरे की ओर एक सौम्य और शांत भाव से देख रही है। वह स्वाभाविक रूप से पलकें झपकाती है और सांस लेती है, फिर अपने बगल में रखी किताबों के ढेर की ओर देखती है।
+
+4–7 सेकंड: वह ढेर की ओर हाथ बढ़ाती है और धीरे से एक किताब निकालती है। जैसे ही वह ऐसा करती है, अचानक एक और किताब ढेर से फिसलकर फर्श की ओर गिरती है।
+
+7–10 सेकंड: वह तुरंत प्रतिक्रिया देती है, आगे की ओर झुकती है और गिरती हुई किताब को पकड़ने के लिए हाथ बढ़ाती है। वह फर्श पर गिरने से ठीक पहले उसे पकड़ लेती है।
+
+10–12 सेकंड: वह किताब पकड़े हुए वापस बैठ जाती है, थोड़े आश्चर्य के भाव के साथ उसे देखती है, और फिर हल्की सी हंसी हंसती है।
+
+12–15 सेकंड: वह सीधे कैमरे की ओर देखती है, शरारत भरी मुस्कान देती है और धीरे से कहती है, “That was close.” वह किताब को सुरक्षित रूप से अपने बगल में रख देती है।
+
+स्वाभाविक मानवीय गति, यथार्थवादी प्रतिक्रिया समय, विश्वसनीय हाथ और उंगलियों की हरकतें, किताब के साथ सटीक इंटरैक्शन, बालों की सूक्ष्म हलचल, यथार्थवादी कार्डिगन फैब्रिक, प्राकृतिक चेहरे के हाव-भाव, आरामदायक दोपहर के बेडरूम का माहौल, सॉफ्ट सिनेमैटिक लाइटिंग, शैलो डेप्थ ऑफ फील्ड, हल्का हैंडहेल्ड कैमरा फील। गिरती हुई किताब को गुरुत्वाकर्षण के साथ स्वाभाविक रूप से चलना चाहिए और यथार्थवादी तरीके से पकड़ा जाना चाहिए। कोई अतिरंजित अभिनय नहीं, कोई अचानक कैमरा मूवमेंट नहीं, कोई अतिरिक्त व्यक्ति नहीं, चेहरे में कोई बदलाव नहीं, कपड़ों में कोई बदलाव नहीं, हाथों में कोई विकृति नहीं, वस्तुओं का कोई मॉर्फिंग नहीं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095138179166949376/img/lSmg-daTNlRhHUN2.jpg" width="600" alt="आरामदायक बेडरूम रीडिंग एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10391)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095139680786493912) | **Published:** Sep 2, 2026
 
 ---
 ### शांत चांदनी रात का दृश्य
@@ -1962,179 +2145,6 @@ Pleiadian light ships गर्मियों के नीले फ़िर�
 **Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
 
 ---
-### बिल्ली का फैशन मॉडल रनवे वॉक
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत सिनेमाई वीडियो प्रॉम्प्ट, जिसमें मखमली कोट पहने एक बिल्ली को एक मानव मॉडल के साथ किसी जेंटलमैन की तरह फैशन रनवे पर चलते हुए दर्शाया गया है।
-
-#### 📝 Prompt
-
-```
-कैमरा रनवे के वाइड शॉट से शुरू होता है। मखमली कोट पहने बिल्ली अपने पिछले पैरों पर आगे बढ़ती है, एक पंजा मॉडल का हाथ पकड़े हुए है और दूसरा हल्का सा उसकी कमर पर टिका है। उसका सिर ऊंचा है, ठुड्डी ऊपर उठी हुई है, और हर कदम के साथ उसकी पूंछ हिल रही है। मॉडल उसके बगल में आगे बढ़ती है, ठुड्डी ऊपर उठाए हुए, गाउन लहरा रहा है। जैसे ही वे रनवे के अंत तक पहुँचते हैं, बिल्ली अपना सिर घुमाती है, भीड़ की ओर धीरे से और जानबूझकर पलकें झपकाती है, फिर एक छोटी सी, आत्मसंतुष्ट मुस्कान के साथ मॉडल की ओर देखती है। वह एक जेंटलमैन की तरह उसका हाथ थामने की अपनी पकड़ को ठीक करती है, फिर वे एक साथ मुड़ते हैं और वापस चलना शुरू करते हैं, रनवे पर उसके छोटे जूतों की आवाज़ गूंज रही है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="बिल्ली का फैशन मॉडल रनवे वॉक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9926)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **Published:** Aug 26, 2026
-
----
-### Saratoga घुड़दौड़ का सपना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Saratoga रेसकोर्स में एक विशिष्ट घुड़दौड़ को दर्शाने वाला वीडियो बनाता है, जिसमें रेस नंबर एक के दौरान पांच नंबर के घोड़े पर ध्यान केंद्रित किया गया है।
-
-#### 📝 Prompt
-
-```
-Lori का सपना जो 27 अगस्त को प्रसिद्ध Saratoga रेसकोर्स में दौड़ रहा है, रेस नंबर एक, घोड़ा नंबर पांच, घोड़े पर नंबर पांच दिखाएं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="Saratoga घुड़दौड़ का सपना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9921)**
-
-**Author:** [Ron Lundenberg](https://x.com/rlunden) | **Source:** [Link](https://x.com/rlunden/status/2092720610602364995) | **Published:** Aug 26, 2026
-
----
-### जर्मन नर्ड कॉमेडी सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक रचनात्मक वीडियो प्रॉम्प्ट जो एक पात्र को 'Revenge of the Nerds' के एक दृश्य में रखता है, जिसमें भाषा की बाधा का एक हास्यपूर्ण तत्व शामिल है।
-
-#### 📝 Prompt
-
-```
-इस व्यक्ति को 'Revenge of the Nerds' के एक दृश्य में डालें। लेकिन उसका जर्मन लहजा बहुत गहरा है और कोई भी उसे समझ नहीं पा रहा है। हर कोई बस भ्रमित दिख रहा है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="जर्मन नर्ड कॉमेडी सीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9925)**
-
-**Author:** [Ken Simpson](https://x.com/ttul) | **Source:** [Link](https://x.com/ttul/status/2092708814281978175) | **Published:** Aug 26, 2026
-
----
-### टेलीपैथिक संचार वाली शहर की सड़क
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो व्यस्त शहर की सड़क पर लोगों के सिर के ऊपर टेक्स्ट बबल के रूप में विचारों को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-शहर की सड़कों पर टेलीपैथिक संचार का दृश्य, जिसमें लोगों के सिर के ऊपर टेक्स्ट वाले बबल दिखाई दे रहे हैं। साथ ही, यह भी कि कैसा महसूस होता है जब कोई आपके विचारों सहित आपकी बौद्धिक संपदा को चुराने के लिए अवैध रूप से आपके दिमाग तक पहुंच प्राप्त कर लेता है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="टेलीपैथिक संचार वाली शहर की सड़क">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9933)**
-
-**Author:** [Austin Gibson](https://x.com/5pazzisAlive) | **Source:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **Published:** Aug 26, 2026
-
----
-### मंगल ग्रह पर धूल भरी आंधी का सिनेमैटिक दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> मंगल ग्रह की सतह पर हवा और उड़ती धूल के साथ धीरे-धीरे चलते कैमरे के दृश्य का एक विस्तृत वायुमंडलीय प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-मंगल ग्रह के विशाल परिदृश्य पर धीरे-धीरे चलता सिनेमैटिक कैमरा, हल्की हवा के साथ टीलों और पथरीली जमीन पर उड़ती महीन लाल धूल और रेत, वायुमंडलीय धुंध में सूक्ष्म बदलाव, धुंधले नारंगी आसमान के नीचे धीरे-धीरे घूमते दूर के धूल के बादल, फोटो-रियलिस्टिक
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="मंगल ग्रह पर धूल भरी आंधी का सिनेमैटिक दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9924)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **Published:** Aug 26, 2026
-
----
-### 3D प्रिंटर्स के साथ मियामी वाइस डिटेक्टिव
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो 1970 के दशक की मियामी वाइस शैली को निर्माण स्थल पर भविष्य की 3D कंक्रीट प्रिंटिंग तकनीक के साथ जोड़ता है।
-
-#### 📝 Prompt
-
-```
-1970 के दशक की पुलिस डिटेक्टिव मियामी वाइस शैली, जो 3D कंक्रीट प्रिंटर्स के साथ एक निर्माण स्थल पर चल रही है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="3D प्रिंटर्स के साथ मियामी वाइस डिटेक्टिव">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9920)**
-
-**Author:** [LeBron Daniel](https://x.com/lebron3d) | **Source:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **Published:** Aug 26, 2026
-
----
-### डायनामिक उल्कापात एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> चमकती हुई लकीरों और टिमटिमाते तारों के साथ उल्कापात बनाने के लिए एक विस्तृत एनीमेशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-डायनामिक उल्कापात एनीमेशन: चमकीले उल्का और टूटते तारे लगातार रात के आकाश में विभिन्न दिशाओं में दौड़ रहे हैं, जो हरे और नीले रंग की चमकती लकीरें छोड़ रहे हैं, नए उल्का दिखाई दे रहे हैं और गिर रहे हैं, तारे धीरे-धीरे टिमटिमा रहे हैं, कैमरे में ऊपर की ओर सूक्ष्म बहाव है, ci...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="डायनामिक उल्कापात एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9927)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **Published:** Aug 26, 2026
-
----
-### इंप्रेशनिस्ट गार्डन डकलिंग पेंटर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक शांत इंप्रेशनिस्ट वीडियो प्रॉम्प्ट जिसमें एक बत्तख का बच्चा पेंटर का एप्रन पहनकर धूप से खिले बगीचे की पेंटिंग बना रहा है, जिसे सहज गति और सॉफ्ट टेक्सचर के लिए डिज़ाइन किया गया है।
-
-#### 📝 Prompt
-
-```
-वीडियो के लिए स्टिल और प्रॉम्प्ट में, जैसे ही एक छोटी चिड़िया ईज़ल के ऊपर उड़ती है, दृश्य थोड़ा बाईं ओर खिसकता है।
-
-धूप से खिला हुआ एक इंप्रेशनिस्ट बगीचा, जो एक ही समय में फोटो-रियलिस्टिक और गीले ऑयल पेंट जैसा दिखता है: गाढ़ी क्रीम-गोल्ड रोशनी, ऐसी हरियाली जिसे आप फैला सकें, और सूरज खुद एक चमकदार गीला धब्बा जो अभी सूखा नहीं है। 1800 के दशक के अंत के पेंटर का एप्रन और अपनी जरूरत से बड़ी स्ट्रॉ हैट पहने एक छोटा सा बत्तख का बच्चा, घास में एक छोटे से ईज़ल पर खड़ा होकर बड़ी गंभीरता से उस सूरज को एक छोटे कैनवास पर पेंट कर रहा है। इम्पैस्टो सूरजमुखी, रास्ते में कैनवास का टेक्सचर, 1990 के दशक का फिल्मी ग्रेन। एक विचार: सूरज अभी भी गीला है, और पेंटिंग भी। सुंदर और थोड़ी मजाकिया।
-```
-
-<img src="https://cms-assets.youmind.com/media/1788077778220_6iaw4d_HQpScBhWQAAYNxT.jpg" width="600" alt="इंप्रेशनिस्ट गार्डन डकलिंग पेंटर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9928)**
-
-**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2092580518147617152) | **Published:** Aug 26, 2026
-
----
-### शानदार हवेली का बैकग्राउंड बदलना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सेटिंग ट्रांसफॉर्मेशन प्रॉम्प्ट जो समुद्र तट या नाव के बैकग्राउंड को एक विस्तृत, हाई-एंड हवेली पार्टी के माहौल से बदल देता है।
-
-#### 📝 Prompt
-
-```
-सेटिंग को समुद्र तट/नाव से बदलकर शानदार Playboy Mansion जैसा करें: भव्य वास्तुकला वाली आलीशान बहुमंजिला हवेली, ताड़ के पेड़, एक चमकता हुआ पूल, पार्टी लाइट्स और एक हाई-एंड पार्टी का माहौल
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="शानदार हवेली का बैकग्राउंड बदलना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9922)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2092525163887853620) | **Published:** Aug 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2206,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-05T04:14:26.237Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-05T08:35:22.563Z</sub>
 
 </div>

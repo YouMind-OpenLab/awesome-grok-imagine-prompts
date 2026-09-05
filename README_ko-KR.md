@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2701** |
+| 📝 총 프롬프트 수 | **2710** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-09-05** |
 
@@ -189,6 +189,158 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 스팀펑크 도시 성벽 모션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 밤의 스팀펑크 스타일 도시를 내려다보는 성벽을 따라 이동하는 영화적 카메라 모션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+밤의 스팀펑크 스타일 도시를 내려다보며 성벽을 따라 이동합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="스팀펑크 도시 성벽 모션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10384)**
+
+**작성자:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **출처:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **게시일:** Sep 5, 2026
+
+---
+### 액션 영화 스타일의 기사 서임식
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 왕실 알현실에서 여성 영웅이 참여하는 기사 서임식을 묘사한, 웅장한 분위기의 영화적 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+아름다운 여성 영웅이 왕실 알현실에서 여왕을 알현하며 기사 서임식을 거행하는 액션 영화 스타일의 장면입니다. 엄숙하고 극적인 분위기, 화려한 왕실 인테리어, 그리고 생생하고 고귀한 색감이 돋보입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="액션 영화 스타일의 기사 서임식">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10392)**
+
+**작성자:** [Apple](https://x.com/Apple0816799221) | **출처:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **게시일:** Sep 5, 2026
+
+---
+### 블루라이트와 일주기 리듬 인포그래픽
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 블루라이트가 멜라토닌 생성에 미치는 영향과 수면 주기를 방해하는 과정을 설명하는 인포그래픽 제작을 위한 상세 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+블루라이트가 멜라토닌 생성을 억제하고 일주기 리듬을 방해하는 원리에 관한 인포그래픽
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="블루라이트와 일주기 리듬 인포그래픽">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10385)**
+
+**작성자:** [Callum Conway](https://x.com/wordsbycallum) | **출처:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **게시일:** Sep 5, 2026
+
+---
+### 지하 동굴 도시 SF 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 모듈형 거주 포드와 극적인 조명이 특징인 거대한 지하 동굴 도시의 영화적 와이드 샷을 위한 상세한 SF 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+바위 협곡 벽에 지어진 흰색 모듈형 거주 포드, 따뜻하게 빛나는 창문, 동굴 바닥을 흐르는 강, 작은 인물들이 건너는 얇은 보행자용 다리, 돌 천장의 원형 구멍에서 쏟아지는 극적인 햇살, 공기 중의 부드러운 안개, 희망적인 SF 건축물, 사실적인 디테일, 고요하고 빛나는 거대한 지하 동굴 도시의 영화적 와이드 샷
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="지하 동굴 도시 SF 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10386)**
+
+**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **게시일:** Sep 4, 2026
+
+---
+### 무중력 상태로 떠 있는 우주비행사
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 우주 공간을 부유하는 우주비행사를 담은 정교한 시네마틱 영상 프롬프트로, 부드러운 카메라 움직임과 사실적인 별 배경이 특징입니다.
+
+#### 📝 프롬프트
+
+```
+우주비행사가 무중력 상태에서 부드럽게 떠 있으며, 천천히 회전하며 주위를 둘러봅니다. 별들이 지나가고, 미세한 카메라 움직임과 함께 부드러운 시네마틱 모션이 연출됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="무중력 상태로 떠 있는 우주비행사">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10388)**
+
+**작성자:** [Owen](https://x.com/owenxplore) | **출처:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **게시일:** Sep 4, 2026
+
+---
+### 일본인 스트리머 토킹 헤드
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 사실적인 표정과 립싱크를 위한 고화질 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+클로즈업 토킹 헤드, 젊은 일본인 스트리머, 음성에 맞춰 자연스럽게 이어지는 입 모양, 긴장감 넘치는 흥분된 말투, 음절마다 명확하게 변하는 입 모양, 눈 깜빡임 및 미세한 표정, 사실적인 사진 품질
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="일본인 스트리머 토킹 헤드">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10389)**
+
+**작성자:** [AIかぴ](https://x.com/ck_pkki2) | **출처:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **게시일:** Sep 4, 2026
+
+---
+### 제국 우주선 도착 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 행성에 도착하는 제국 우주선을 지켜보는 군중을 묘사한 Grok Imagine용 영화적 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+모든 사람들이 자신들의 행성에 도착하는 제국 우주선을 보기 위해 모여들고 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="제국 우주선 도착 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10390)**
+
+**작성자:** [ojiji](https://x.com/ojiji2025) | **출처:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **게시일:** Sep 4, 2026
+
+---
+### 소금 사막 위의 고독한 인물
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 끝없이 펼쳐진 갈라진 소금 사막 위, 거대한 돌 원반을 마주하고 있는 고독한 인물을 담은 초현실적이고 분위기 있는 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+끝없이 펼쳐진 갈라진 소금 사막 위에 어두운 코트를 입고 서 있는 고독한 인물의 영화 같은 와이드 샷, 동심원 모양의 돌 고리와 중앙의 어두운 구멍이 있는 거대한 균열된 원형 원반을 마주함, 파손된 돌과 금속 질감, 하얀 대지 위로 길게 드리워진 강렬한 그림자, 창백하고 흐린 하늘, 고요하고 초현실적인 분위기, 회화적인 디테일, 친밀하고 정적인 느낌, 초정밀하게 묘사된 직물과 풍화된 표면
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="소금 사막 위의 고독한 인물">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10387)**
+
+**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **게시일:** Sep 4, 2026
+
+---
 ### 잊혀진 사람들의 페가수스 비행
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -511,6 +663,37 @@ Elon Musk의 비전을 담은 화성 행성의 영상으로, Tesla의 휴머노�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10341)**
 
 **작성자:** [Christi McGuffey](https://x.com/crermc7) | **출처:** [Link](https://x.com/crermc7/status/2095297619492851887) | **게시일:** Sep 2, 2026
+
+---
+### 아늑한 침실 독서 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 정지된 이미지 속 여성이 떨어지는 책을 잡는 모습을 생동감 있게 구현하도록 모델에 지시하는 정교한 Grok Imagine 비디오 프롬프트입니다. 사실적인 움직임과 반응적인 표정에 초점을 맞췄습니다.
+
+#### 📝 프롬프트
+
+```
+이 이미지 그대로 15초 분량의 사실적이고 아늑한 영화 같은 비디오를 생성하세요. 여성의 얼굴, 헤어스타일, 카디건, 장신구, 신체 비율, 침실, 침대, 책, 램프, 벽 장식, 조명 및 전체적인 구도를 그대로 유지하세요.
+
+0~4초: 여성이 침대에 편안하게 앉아 부드럽고 편안한 표정으로 카메라를 바라봅니다. 자연스럽게 눈을 깜빡이고 숨을 쉬며, 옆에 쌓인 책 더미 쪽을 힐끗 쳐다봅니다.
+
+4~7초: 여성이 책 더미 쪽으로 손을 뻗어 책 한 권을 부드럽게 꺼냅니다. 그 순간, 다른 책 한 권이 갑자기 더미에서 미끄러져 바닥으로 떨어집니다.
+
+7~10초: 여성이 빠르게 반응하며 몸을 앞으로 숙여 떨어지는 책을 잡으려 손을 뻗습니다. 바닥에 닿기 직전에 책을 잡아냅니다.
+
+10~12초: 책을 든 채 다시 앉아 약간 놀란 표정으로 책을 바라보다가, 작게 웃음을 터뜨립니다.
+
+12~15초: 카메라를 정면으로 응시하며 장난스럽게 미소 짓고, 부드럽게 “하마터면 큰일 날 뻔했네.”라고 말합니다. 그런 다음 책을 옆에 안전하게 내려놓습니다.
+
+자연스러운 사람의 움직임, 사실적인 반응 타이밍, 믿을 수 있는 손과 손가락의 움직임, 책과의 정확한 상호작용, 미세한 머리카락의 움직임, 사실적인 카디건 질감, 자연스러운 표정, 아늑한 오후의 침실 분위기, 부드러운 영화적 조명, 얕은 피사계 심도, 부드러운 핸드헬드 카메라 느낌을 구현하세요. 떨어지는 책은 중력에 따라 자연스럽게 움직여야 하며 사실적으로 잡아야 합니다. 과장된 연기, 갑작스러운 카메라 움직임, 추가 인물 등장, 얼굴 변화, 의상 변화, 손 왜곡, 사물 변형은 없어야 합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095138179166949376/img/lSmg-daTNlRhHUN2.jpg" width="600" alt="아늑한 침실 독서 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10391)**
+
+**작성자:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **출처:** [Link](https://x.com/iamahmedfaraz66/status/2095139680786493912) | **게시일:** Sep 2, 2026
 
 ---
 ### 고요한 달빛 아래의 굿나잇 장면
@@ -1963,179 +2146,6 @@ Falcon Heavy 발사
 **작성자:** [BRENT REEVES](https://x.com/Breeves1979) | **출처:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **게시일:** Aug 26, 2026
 
 ---
-### 고양이 패션 모델 런웨이 워킹
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 벨벳 코트를 입고 신사처럼 인간 모델과 함께 패션 런웨이를 걷는 고양이를 묘사한 상세한 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-카메라가 런웨이 전체를 와이드 샷으로 비춥니다. 벨벳 코트를 입은 고양이가 뒷다리로 서서 앞으로 걸어 나옵니다. 한쪽 앞발로는 모델의 손을 잡고, 다른 한쪽은 허리에 가볍게 얹고 있습니다. 고양이는 머리를 높이 들고 턱을 치켜세운 채, 걸음마다 꼬리를 살랑거립니다. 모델은 드레스를 휘날리며 고양이 옆을 우아하게 지나갑니다. 런웨이 끝에 다다르자 고양이는 고개를 돌려 관중을 향해 천천히 의도적으로 눈을 깜빡인 뒤, 모델을 올려다보며 작고 자신만만한 미소를 짓습니다. 신사처럼 모델의 손을 다시 고쳐 잡은 고양이는 모델과 함께 몸을 돌려 다시 걷기 시작하고, 작은 부츠가 런웨이 바닥에 닿으며 또각거리는 소리를 냅니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092746135194460160/img/oebMADcvNGeHO8SL.jpg" width="600" alt="고양이 패션 모델 런웨이 워킹">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9926)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2092746221219701241) | **게시일:** Aug 26, 2026
-
----
-### Saratoga 경마의 꿈
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Saratoga 경마장에서 열리는 특정 경주를 묘사한 영상을 생성합니다. 제1경주에 출전하는 5번 말에 초점을 맞춥니다.
-
-#### 📝 프롬프트
-
-```
-8 월 27 일 유명한 Saratoga 경마장에서 열리는 제1경주, 5번 말의 꿈을 보여줘. 말에 5번 번호가 보이게 해줘
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092720494675943424/img/aPohigPgxXrlkaV7.jpg" width="600" alt="Saratoga 경마의 꿈">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9921)**
-
-**작성자:** [Ron Lundenberg](https://x.com/rlunden) | **출처:** [Link](https://x.com/rlunden/status/2092720610602364995) | **게시일:** Aug 26, 2026
-
----
-### 독일 너드 코미디 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 영화 'Revenge of the Nerds'의 한 장면에 캐릭터를 배치하고, 언어 장벽이라는 유머 요소를 가미한 창의적인 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이 남자를 영화 'Revenge of the Nerds'의 한 장면에 넣어줘. 그런데 그는 짙은 독일어 억양을 사용해서 아무도 그의 말을 알아듣지 못해. 모두가 당황한 표정으로 그를 쳐다보는 상황이야.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092708748708233216/img/4c3C0RNpOzTOYwkV.jpg" width="600" alt="독일 너드 코미디 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9925)**
-
-**작성자:** [Ken Simpson](https://x.com/ttul) | **출처:** [Link](https://x.com/ttul/status/2092708814281978175) | **게시일:** Aug 26, 2026
-
----
-### 텔레파시 소통이 이루어지는 도심 거리
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 번화한 도심 거리에서 사람들의 머리 위로 생각이 텍스트 말풍선으로 시각화되는 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-도심 거리에서 사람들의 머리 위로 텍스트가 담긴 말풍선이 떠오르며 텔레파시 소통이 이루어지는 모습입니다. 또한 누군가 당신의 뇌에 불법적으로 접근하여 당신이 가진 아이디어를 포함한 지적 재산을 훔쳐갈 때의 느낌을 시각화합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092703828034408448/img/DAXAzkyMwkSWmOQa.jpg" width="600" alt="텔레파시 소통이 이루어지는 도심 거리">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9933)**
-
-**작성자:** [Austin Gibson](https://x.com/5pazzisAlive) | **출처:** [Link](https://x.com/5pazzisAlive/status/2092703844874465385) | **게시일:** Aug 26, 2026
-
----
-### 화성 먼지 폭풍 시네마틱
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 화성 표면 위를 느리게 이동하는 카메라와 바람, 휘날리는 먼지를 묘사한 상세한 분위기 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-광활한 화성 지형을 가로지르는 느리고 영화 같은 카메라 이동, 모래 언덕과 암석 지대 위로 고운 붉은 먼지와 모래를 일으키는 부드러운 바람, 미묘하게 변화하는 대기 중의 안개, 흐릿한 오렌지빛 하늘 아래 천천히 소용돌이치는 먼 거리의 먼지 구름, 사실적인 사진 품질
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092676476038459392/img/2I_QDJ3vNtnSDJLf.jpg" width="600" alt="화성 먼지 폭풍 시네마틱">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9924)**
-
-**작성자:** [Owen](https://x.com/owenxplore) | **출처:** [Link](https://x.com/owenxplore/status/2092676492765401175) | **게시일:** Aug 26, 2026
-
----
-### 3D 프린터와 함께하는 마이애미 바이스 형사
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1970년대 마이애미 바이스 스타일과 미래지향적인 3D 콘크리트 프린팅 기술이 건설 현장에서 어우러지는 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-3D 콘크리트 프린터가 있는 건설 현장을 걷고 있는 1970년대 마이애미 바이스 스타일의 경찰 형사
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092673806716305408/img/U-6yQfO4PcBBfFWh.jpg" width="600" alt="3D 프린터와 함께하는 마이애미 바이스 형사">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9920)**
-
-**작성자:** [LeBron Daniel](https://x.com/lebron3d) | **출처:** [Link](https://x.com/lebron3d/status/2092673831143940542) | **게시일:** Aug 26, 2026
-
----
-### 역동적인 유성우 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빛나는 궤적과 반짝이는 별이 있는 유성우를 만들기 위한 상세한 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-역동적인 유성우 애니메이션: 밝은 유성과 별똥별이 밤하늘을 가로질러 다양한 방향으로 끊임없이 쏟아지며 녹색과 파란색의 빛나는 궤적을 남깁니다. 새로운 유성이 계속해서 나타나 떨어지고, 별들은 부드럽게 반짝이며, 카메라는 위쪽으로 미세하게 이동합니다. ci...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092641534357192704/img/b6DIJqps-oez_mfy.jpg" width="600" alt="역동적인 유성우 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9927)**
-
-**작성자:** [Owen](https://x.com/owenxplore) | **출처:** [Link](https://x.com/owenxplore/status/2092641586085609681) | **게시일:** Aug 26, 2026
-
----
-### 인상주의 정원 속 아기 오리 화가
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 화가용 작업복을 입고 햇살 가득한 정원을 그리는 아기 오리를 담은 평온한 인상주의 스타일의 비디오 프롬프트로, 부드러운 움직임과 질감을 강조하도록 설계되었습니다.
-
-#### 📝 프롬프트
-
-```
-비디오 프롬프트를 위한 스틸 컷과 영상은 작은 새가 이젤 위로 날아오르며 왼쪽으로 살짝 움직입니다.
-
-햇살이 내리쬐는 인상주의 정원, 사실적이면서도 젖은 유화 느낌을 동시에 자아냅니다. 두껍고 크림 같은 황금빛 조명, 붓으로 문지른 듯한 녹색, 아직 마르지 않은 밝고 젖은 물감 자국 같은 태양. 1800년대 후반 스타일의 화가용 작업복과 몸에 비해 너무 큰 밀짚모자를 쓴 작은 아기 오리가 잔디밭 위의 미니어처 이젤 앞에 서서 진지하게 캔버스에 태양을 그려 넣습니다. 임파스토 기법의 해바라기, 캔버스의 질감이 느껴지는 길, 1990년대 영화 같은 필름 그레인 효과가 특징입니다. 한 가지 아이디어: 태양도, 그림도 여전히 젖어 있는 상태입니다. 아름답고도 조금은 엉뚱한 매력이 있습니다.
-```
-
-<img src="https://cms-assets.youmind.com/media/1788077778220_6iaw4d_HQpScBhWQAAYNxT.jpg" width="600" alt="인상주의 정원 속 아기 오리 화가">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9928)**
-
-**작성자:** [Lucy](https://x.com/princess414141) | **출처:** [Link](https://x.com/princess414141/status/2092580518147617152) | **게시일:** Aug 26, 2026
-
----
-### 고급 저택 배경 변경
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 해변이나 보트 배경을 디테일하고 고급스러운 저택 파티 분위기로 바꿔주는 배경 변환 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-배경을 해변/보트에서 고급스러운 Playboy Mansion 으로 변경: 웅장한 건축 양식의 우아한 다층 저택, 야자수, 반짝이는 수영장, 파티 조명, 그리고 고급스러운 파티 분위기
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092525058430554112/img/RhyUC1mWOSdYQTVp.jpg" width="600" alt="고급 저택 배경 변경">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=9922)**
-
-**작성자:** [Ami A](https://x.com/AA63782) | **출처:** [Link](https://x.com/AA63782/status/2092525163887853620) | **게시일:** Aug 26, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2197,6 +2207,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-05T04:14:22.910Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-05T08:35:19.599Z</sub>
 
 </div>
