@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2710** |
+| 📝 Total Prompts | **2717** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-06** |
 
@@ -189,6 +189,101 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Düşmüş Uçak Sinematik Sahil Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fırtınalı bir sahilde askeri bir uçağın enkazında oturan bir kişinin yer aldığı, karamsar ve detaylı sinematik geniş açı çekimi.
+
+#### 📝 Prompt
+
+```
+Kayalık siyah bir sahilde düşmüş askeri nakliye uçağının kanadında oturan, koyu renkli palto giymiş bir kişinin sinematik geniş açı çekimi; fırtınalı gri bulutlar, enkaza çarpan dalgalar, gövdeden akan sular, fotogerçekçi, karamsar atmosfer, ultra detaylı, Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="Düşmüş Uçak Sinematik Sahil Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10432)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
+
+---
+### Göksel Labirent Yürüyüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genç bir kadının gerçeküstü bulutsu labirentleri ve galaksileri arasında yürüdüğü rüya gibi bir istem.
+
+#### 📝 Prompt
+
+```
+Genç bir kadın, her biri bir öncekinin üzerine inşa edilen bulutsular ve galaksilerden oluşan yıldızlı manzaralarla dolu, güzel, gerçeküstü ve rüya gibi bir dizi labirentin içinde yürüyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="Göksel Labirent Yürüyüşü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
+
+**Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
+
+---
+### Neon Çatı Katı Tüylü Elbise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yağmurlu bir gecede, neon ışıklı bir balkonda pembe tüylü bir elbise giyen kadını konu alan detaylı bir sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Gece vakti ıslak neon bir çatı balkonunda duran, koyu kıvırcık saçlı, kendinden emin bir kadının dramatik koyu pembe tüylü bir gece elbisesi içindeki sinematik tam boy çekimi, omzunun üzerinden geriye bakıyor, cam üzerindeki yağmur yansımaları, parlayan pembe ve camgöbeği şehir silüeti, anime illüstrasyon tarzı, ultra detaylı
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="Neon Çatı Katı Tüylü Elbise">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10431)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
+
+---
+### Karda Oyun Oynayan Yavru Kedi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karda oynayan, üzerine atlayan, yuvarlanan ve sürekli hareket halinde olan bir yavru kedi için detaylı video istemi.
+
+#### 📝 Prompt
+
+```
+Sevimli turuncu tekir yavru kedi, kartopunun üzerine neşeyle atlıyor, ardından yumuşak ve tozlu karda keyifle yuvarlanıp taklalar atıyor, patileriyle düşen kar tanelerine vuruyor, etrafında uçuşan kar taneleri, sürekli oyun dolu hareketler, doğal ve sevimli yavru kedi davranışları
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="Karda Oyun Oynayan Yavru Kedi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10435)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **Published:** Sep 5, 2026
+
+---
+### Karda Noel Yavru Kedisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Arka planda Noel ağaçları ve süslemelerle karda oynayan bir yavru kedi için şenlikli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Arka planda Noel süsleri ve bir Noel ağacı ile karda oynayan yavru kedi, etrafta yoğun kar yağışı
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="Karda Noel Yavru Kedisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10433)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **Published:** Sep 5, 2026
+
+---
 ### Steampunk Şehir Kale Duvarı Hareketi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -246,6 +341,44 @@ Mavi ışık ışınlarının melatonin üretimini nasıl engellediğini ve sirk
 **Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
 
 ---
+### Dr. Evil Olarak Elon Musk ile Çince Dersi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Elon Musk'ın Dr. Evil tarzında, oğluyla eğlenceli bir dil dersi sırasında Mandarin Çincesi konuştuğu yaratıcı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sahneye devam et: Elon Musk (Dr. Evil gibi siyah saçlı ve Çinli görünümünde), beyaz kedisini okşuyor ve oğlu Lil X'e (siyah saçlı Mini-Me) Mandarin Çincesi konuşarak ona eğlenceli bir dil dersi veriyor. Elon, "Küçük Mini, beni tamamlıyorsun" diyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="Dr. Evil Olarak Elon Musk ile Çince Dersi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10436)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **Published:** Sep 4, 2026
+
+---
+### Romantik Salıncakta Sallanan Çift Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, bir çiftin tam özelliklerini koruyarak sevgiyle sallandığı bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Salıncakta birlikte sevgiyle sallanan, birbirlerine karşı şefkat ve aşk gösteren, sallanırken romantik bir şekilde gülümseyen iki kişi; yüzleri, kıyafetleri ve özellikleri dahil olmak üzere dış görünüşlerini tamamen aynı şekilde koruyun
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="Romantik Salıncakta Sallanan Çift Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10434)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **Published:** Sep 4, 2026
+
+---
 ### Yeraltı Mağara Şehri Bilim Kurgu Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -300,7 +433,7 @@ Yakın plan konuşan kafa, genç Japon yayıncı, konuşmayla uyumlu sürekli do
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
 
-**Author:** [AIかぴ](https://x.com/ck_pkki2) | **Source:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **Published:** Sep 4, 2026
 
 ---
 ### İmparatorluk Uzay Gemisi Varış Sahnesi
@@ -338,7 +471,7 @@ Sonsuz ve çatlamış bir tuz düzlüğünde duran, koyu renkli paltolu yalnız 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
 
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **Published:** Sep 4, 2026
 
 ---
 ### Unutulmuş İnsanların Pegasus Uçuşu
@@ -1987,165 +2120,6 @@ SpaceX ekip üyelerinin, aboneler tarafından tasarlanan yüklerle MrFIXitX Moon
 **Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
 
 ---
-### Kore Mahallesinden Günlük Yaşam Video Senaryosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kore mahallesindeki bir ara sokakta yürüyen bir çiftin 'günlük yaşam' (slice of life) videosu için oldukça detaylı sinematik bir senaryo.
-
-#### 📝 Prompt
-
-```
-Konu ve Karakter Detayları
-Mekan: Eski bir Kore/Doğu Asya mahallesinde, güneş ışığı alan sessiz bir yerleşim yeri ara sokağı; dar asfalt yol, kiremit ve oluklu çatılı alçak evler, tepede birbirine dolanmış elektrik kabloları, saksı bitkileri, kurumaya bırakılmış çamaşırlar, park edilmiş bir bisiklet ve içinde içecekler bulunan küçük bir bakkal dolabı. Öğle vakti, ağaç dallarından süzülen ve zemine yumuşak yaprak gölgeleri düşüren sıcak doğal güneş ışığı. Elde çekim, yürürken konuşma tarzı, çoğunlukla çifti arkadan veya önden takip eden kamera açısı.
-
-Karakter 1 — Erkek
-Doğu Asyalı erkek, 20'li yaşların sonu veya 30'larında, kısa siyah dağınık saçlı, sinekkaydı tıraşlı, yumuşak ve rahat bir ifadeye sahip.
-Üzerinde kumaş kırışıklıkları belli olan, bol kesim, soluk kömür grisi/kahverengi bisiklet yaka tişört, bol bej/haki geniş paça pantolon ve beyaz spor ayakkabılar var.
-Sol bileğinde kol saati takılı.
-Üzerinde küçük yuvarlak sarı bir logo yaması olan bez bir çanta taşıyor.
-Elinde sürekli şeffaf plastik şişede buzlu çay/arpa çayı tutuyor.
-Sakin, sıcakkanlı ve hafif oyuncu bir tavır sergiliyor; gülümsüyor, yanındaki arkadaşına yan gözle bakıyor ve konuşurken nazik el hareketleri yapıyor.
-
-Karakter 2 — Kadın
-Doğu Asyalı kadın, 20'li yaşların sonunda, koyu renkli saçları ensede gevşek bir topuz yapılmış, yüzünü çevreleyen serbest tutamlar var.
-Üzerinde kolları hafifçe kıvrılmış, bol kesim adaçayı yeşili düğmeli bir gömlek, açık mavi/gri tonlarında kot pantolon ve beyaz spor ayakkabılar var.
-İnce bir kolye takıyor.
-O da bez bir çanta ve şişede buzlu çay taşıyor.
-Neşeli ve rahat bir ifadeye sahip; gülümsüyor, hafifçe gülüyor ve onunla aynı tempoda yürüyor.
-
-İlişki/Ruh Hali: Küçük bir alışveriş gezisinden sonra mahallede rahat bir yürüyüşe çıkan, birbirine karşı sevgi dolu bir çift; huzurlu bir sessizlik ve küçük sohbetler, doğal bir uyum, "günlük yaşam" (slice of life) tonu.
-
-0:00–0:05: Arkadan geniş açı, çift ağaç gölgesindeki dar bir sokakta kameradan uzaklaşıyor. Solda gri tişörtlü ve haki pantolonlu erkek, sağda adaçayı yeşili gömlekli ve kot pantolonlu kadın, ikisinin de elinde beyaz plastik alışveriş poşetleri var. Kaldırımda benekli güneş ışığı, duvar kenarlarında bisikletler ve saksı bitkileri, sağda asılı çamaşırlar. Onları arkadan takip eden yavaş ve sabit bir takip çekimi.
-
-0:05–0:10: Kamera artık onları yönlendiriyor, göğüs hizasından ön/yan açıdan çekim yapılıyor. Öndeki erkek gülümseyerek yana bakıyor, arkasında sağda topuz saçlı kadın da gülümsüyor. Arkalarında çamaşır ipi ve yeşil yapraklar görünüyor, sıcak arkadan aydınlatmalı güneş ışığı var. Onlar yaklaşırken kamera yavaşça geri çekiliyor/kaydırılıyor.
-
-0:10–0:15: Yakın ikili çekim, küçük bir dükkanın dışındaki açık içecek dolabına doğru yürürken kamera onlara dönük. Erkek, çenesinin yakınında tuttuğu buzlu çay şişesiyle düşünceli/hareketli bir jestle konuşuyor; yanındaki kadın iki şişe tutuyor, gülümsüyor ve ona bakıyor. Sağ taraftaki arka planda renkli şişelerle dolu içecek dolabı görünüyor.
-
-0:15–0:20: Orta çekim, ikisi de ellerinde buzlu çay şişeleriyle doğrudan kameraya doğru yürüyor, ikisi de sıcak bir şekilde gülümsüyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092618886546067456/img/yAeh9Kog_lpT6HmO.jpg" width="600" alt="Kore Mahallesinden Günlük Yaşam Video Senaryosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9963)**
-
-**Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2092884832816906256) | **Published:** Aug 27, 2026
-
----
-### Yüz Isırma Balon Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir figürün diğerinin yüzünü ısırdığı ve bir ciklet balonu oluşturduğu sürreal bir video istemi.
-
-#### 📝 Prompt
-
-```
-Sol taraftaki figürün başının sağ taraftaki yüze ısırma hareketi yapmasını sağlayın ve ondan büyük bir ciklet balonu oluşturun
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="Yüz Isırma Balon Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9929)**
-
-**Author:** [#vandehigh](https://x.com/vandehigh) | **Source:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **Published:** Aug 27, 2026
-
----
-### İki Ayaklı Varlık Dağ Zirvesinde
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sisli bir dağ zirvesinde, organik hareketlere sahip beyaz etten bir varlığı betimleyen detaylı bir karanlık fantezi video istemi.
-
-#### 📝 Prompt
-
-```
-Tam olarak şekillenmiş iki ayaklı beyaz etten varlık zirvede duruyor, yavaşça başını çevirip sisli dağlara bakıyor; organik doku hareket ediyor ve damlıyor, atmosferik rüzgar ve sis hareketi mevcut.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="İki Ayaklı Varlık Dağ Zirvesinde">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9923)**
-
-**Author:** [BecauseGIU*](https://x.com/BecausGIU) | **Source:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **Published:** Aug 27, 2026
-
----
-### Gökyüzünden Düşen Hayvan Oyuncak Kutusu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gökyüzünden düşen bir kutunun açılıp içinden çeşitli oyuncak hayvanların ve araçların çıktığı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Gökyüzünden düşen kutu çimlerin üzerinde kırılarak açılıyor; kutunun içinden beş rastgele deniz hayvanı oyuncağı, beş rastgele vahşi hayvan oyuncağı, beş rastgele çiftlik hayvanı oyuncağı, iki oyuncak traktör, beş klasik oyuncak araba ve beş rastgele parantez tipi tılsım çıkıyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="Gökyüzünden Düşen Hayvan Oyuncak Kutusu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
-
----
-### Tanrıça Diana Okçuluk Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlık ve sisli bir ormanda tanrıça Diana'yı betimleyen dramatik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Gümüş gri saçlı, uçuşan beyaz elbiseli, karanlık ve sisli bir ormanda büyük bir yayı gererek oku doğrudan izleyiciye doğrultmuş şekilde ileri atılan vahşi tanrıça Diana'nın yeni ve dramatik bir varyasyonunu oluşturun...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092783400952438784/img/o_BndaBEHdZ4GrAN.jpg" width="600" alt="Tanrıça Diana Okçuluk Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9960)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2092783433961590892) | **Published:** Aug 27, 2026
-
----
-### Pleiadian Işık Gemileri Yaz Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Göksel gemilerin parlak ışıklandırmasına ve hacimsel tonlarına odaklanan yüksek çözünürlüklü bir bilim kurgu video istemi.
-
-#### 📝 Prompt
-
-```
-Yazın mavi turkuaz gökyüzünde Pleiadian ışık gemileri, şaheser, ultra hd kalite çözünürlük 11111111111199999999999 k, hacimsel parlak ışıklandırma ve renk tonları
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092779708542779392/img/923tBS6kA-LuxU8x.jpg" width="600" alt="Pleiadian Işık Gemileri Yaz Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9966)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092779760585756700) | **Published:** Aug 27, 2026
-
----
-### Doğal ve Sabit Sahne Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Modelin bir sahneyi kamera hareketi, konuşma veya göz kırpma olmadan doğal bir şekilde canlandırmasını sağlayan teknik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Canlandır. Sahneyi sabit tut, yakınlaştırma veya uzaklaştırma yapma. Konuşma veya kelime yok. Sadece doğal bir şekilde var olsun. Göz kırpma yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092757907360129024/img/Re-Uu0FV7fbY5LdQ.jpg" width="600" alt="Doğal ve Sabit Sahne Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9958)**
-
-**Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2207,6 +2181,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T04:20:31.655Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T12:22:23.955Z</sub>
 
 </div>

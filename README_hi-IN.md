@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2710** |
+| 📝 Total Prompts | **2717** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-06** |
 
@@ -189,6 +189,101 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### दुर्घटनाग्रस्त विमान का सिनेमाई बीच दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> तूफानी समुद्र तट पर एक सैन्य विमान के मलबे पर बैठे व्यक्ति का एक मूडी और विस्तृत सिनेमाई वाइड शॉट।
+
+#### 📝 Prompt
+
+```
+एक पथरीले काले समुद्र तट पर दुर्घटनाग्रस्त सैन्य परिवहन विमान के पंख पर गहरे रंग का कोट पहने व्यक्ति का सिनेमाई वाइड शॉट, तूफानी ग्रे बादल, मलबे से टकराती लहरें, धड़ से गिरता पानी, फोटो-रियल, मूडी वातावरण, अल्ट्रा विस्तृत, Grok Imagine।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="दुर्घटनाग्रस्त विमान का सिनेमाई बीच दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10432)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
+
+---
+### सेलेस्टियल लेबिरिंथ वॉक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक युवा महिला का अवास्तविक नेबुलर लेबिरिंथ और आकाशगंगाओं के बीच चलने का एक स्वप्निल प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक युवा महिला लेबिरिंथ की एक श्रृंखला के बीच चल रही है, जो सुंदर, अवास्तविक और स्वप्निल है, जिसमें से प्रत्येक नेबुला और आकाशगंगाओं का एक तारों भरा परिदृश्य है जो एक-दूसरे पर आधारित है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="सेलेस्टियल लेबिरिंथ वॉक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
+
+**Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
+
+---
+### नियोन रूफटॉप फेदर गाउन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> बारिश के दौरान नियोन-लाइट वाली बालकनी पर गुलाबी पंखों वाले गाउन में एक महिला का विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+रात में एक गीली नियोन रूफटॉप बालकनी पर खड़ी, गहरे गुलाबी रंग के पंखों वाले ड्रामेटिक इवनिंग गाउन में, काले घुंघराले बालों वाली एक आत्मविश्वासी महिला का सिनेमैटिक फुल-बॉडी शॉट, पीछे मुड़कर देखते हुए, कांच पर बारिश का प्रतिबिंब, चमकता हुआ गुलाबी और सियान सिटी स्काईलाइन, एनीमे इलस्ट्रेशन स्टाइल, अल्ट्रा डिटेल्ड
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="नियोन रूफटॉप फेदर गाउन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10431)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
+
+---
+### बर्फ में खेलता प्यारा बिल्ली का बच्चा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> बर्फ में खेलते एक बिल्ली के बच्चे के लिए एक विस्तृत वीडियो प्रॉम्प्ट, जिसमें झपट्टा मारना, लुढ़कना और निरंतर गति शामिल है।
+
+#### 📝 Prompt
+
+```
+प्यारा नारंगी टैबी बिल्ली का बच्चा चंचलता से स्नोबॉल पर झपट्टा मारता है, फिर मुलायम पाउडर जैसी बर्फ में खुशी से लुढ़कता और पलटता है, अपने पंजों से गिरती बर्फ की फुहारों को मारता है, चारों ओर बर्फ उड़ रही है, निरंतर चंचल गतिविधियाँ, बिल्ली के बच्चे का स्वाभाविक प्यारा व्यवहार
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="बर्फ में खेलता प्यारा बिल्ली का बच्चा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10435)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **Published:** Sep 5, 2026
+
+---
+### बर्फ में क्रिसमस का बिल्ली का बच्चा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> क्रिसमस ट्री और सजावट के बीच बर्फ में खेल रहे एक बिल्ली के बच्चे के लिए एक उत्सवपूर्ण वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+बर्फ में खेलता हुआ बिल्ली का बच्चा, जिसके बैकग्राउंड में क्रिसमस की सजावट और क्रिसमस ट्री है, चारों ओर भारी बर्फबारी हो रही है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="बर्फ में क्रिसमस का बिल्ली का बच्चा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10433)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **Published:** Sep 5, 2026
+
+---
 ### स्टीमपंक सिटी कैसल वॉल मोशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -246,6 +341,44 @@ Why use our gallery?
 **Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
 
 ---
+### एलन मस्क का डॉ. ईविल के रूप में मंदारिन पाठ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक रचनात्मक वीडियो प्रॉम्प्ट जिसमें एलन मस्क को डॉ. ईविल के रूप में दिखाया गया है, जो अपने बेटे को एक मजेदार भाषा पाठ में मंदारिन चीनी भाषा सिखा रहे हैं।
+
+#### 📝 Prompt
+
+```
+दृश्य को आगे बढ़ाएं: एलन मस्क (डॉ. ईविल के रूप में काले बालों वाले चीनी लुक में) सफेद बिल्ली को सहलाते हुए अपने बेटे लिल एक्स (काले बालों वाले मिनी-मी) से मंदारिन चीनी में बात कर रहे हैं और उसे एक मजेदार भाषा का पाठ सिखा रहे हैं। एलन कहते हैं, "लिटिल मिनी, यू कम्प्लीट मी"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="एलन मस्क का डॉ. ईविल के रूप में मंदारिन पाठ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10436)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **Published:** Sep 4, 2026
+
+---
+### रोमांटिक कपल स्विंगिंग वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट, जो एक जोड़े को प्यार से झूला झूलते हुए एनिमेट करता है और उनकी सटीक विशेषताओं को बनाए रखता है।
+
+#### 📝 Prompt
+
+```
+दो लोग एक झूले पर प्यार से एक साथ झूल रहे हैं, स्नेह और प्रेम प्रदर्शित कर रहे हैं, आगे-पीछे झूलते हुए एक-दूसरे को रोमांटिक तरीके से देखकर मुस्कुरा रहे हैं, उनके सटीक रूप, चेहरे, कपड़ों और विशेषताओं को अपरिवर्तित रखें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="रोमांटिक कपल स्विंगिंग वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10434)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **Published:** Sep 4, 2026
+
+---
 ### भूमिगत गुफा शहर का साइंस-फिक्शन दृश्य
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -300,7 +433,7 @@ Why use our gallery?
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
 
-**Author:** [AIかぴ](https://x.com/ck_pkki2) | **Source:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **Published:** Sep 4, 2026
 
 ---
 ### इंपीरियल स्पेसशिप के आगमन का दृश्य
@@ -338,7 +471,7 @@ Why use our gallery?
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
 
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **Published:** Sep 4, 2026
 
 ---
 ### भुला दिए गए लोगों की पेगासस उड़ान
@@ -1987,164 +2120,6 @@ SpaceX फोर्ज क्रू को MrFIXitX मूनबेस फोर
 **Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
 
 ---
-### कोरियन नेबरहुड स्लाइस ऑफ लाइफ वीडियो स्क्रिप्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक कोरियाई पड़ोस की गली में टहलते हुए जोड़े के 'स्लाइस ऑफ लाइफ' वीडियो के लिए एक अत्यंत विस्तृत सिनेमैटिक स्क्रिप्ट।
-
-#### 📝 Prompt
-
-```
-विषय और पात्रों का विवरण
-सेटिंग: एक पुराने कोरियाई/पूर्वी एशियाई पड़ोस की शांत, धूप से सराबोर आवासीय गली — संकरी पक्की सड़क, टाइल और नालीदार छतों वाले छोटे घर, ऊपर उलझे हुए बिजली के तार, गमले में लगे पौधे, सूखते हुए कपड़े, एक खड़ी साइकिल, और पेय पदार्थों से भरा एक छोटा सुविधा-स्टोर फ्रिज। दोपहर का समय, गर्म प्राकृतिक धूप, ऊपर लटकती पेड़ों की शाखाओं से छनकर आती पत्तियों की कोमल छाया जमीन पर पड़ रही है। हैंडहेल्ड, वॉक-एंड-टॉक कैमरा स्टाइल, जिसमें ज्यादातर जोड़े का पीछे या आगे से पीछा किया जा रहा है।
-
-पात्र 1 — पुरुष
-पूर्वी एशियाई पुरुष, उम्र 20 के दशक के अंत से 30 के दशक की शुरुआत, छोटे बिखरे हुए काले बाल, क्लीन-शेवन, चेहरे पर एक सौम्य और शांत भाव।
-ओवरसाइज्ड, फीकी चारकोल-ग्रे/भूरे रंग की क्रूनेक टी-शर्ट पहनी है जिसमें कपड़े की सिलवटें दिखाई दे रही हैं, ढीली बेज/खाकी वाइड-लेग ट्राउजर, सफेद स्नीकर्स।
-बाएं हाथ की कलाई पर घड़ी पहनी है।
-एक छोटा गोल पीला लोगो पैच वाला बुना हुआ टोट बैग ले रखा है।
-हाथ में हमेशा एक पारदर्शी प्लास्टिक की आइस्ड टी/बार्ली टी की बोतल है।
-शांत, गर्मजोशी भरा, थोड़ा चंचल स्वभाव — मुस्कुराता है, अपने साथी की ओर तिरछी नजर डालता है, बात करते समय धीरे से हाथ के इशारे करता है।
-
-पात्र 2 — महिला
-पूर्वी एशियाई महिला, उम्र 20 के दशक के अंत में, काले बाल पीछे की ओर एक लो बन में बंधे हुए, चेहरे के आसपास लटें निकली हुई हैं।
-ओवरसाइज्ड सेज-ग्रीन बटन-फ्रंट शर्ट पहनी है जिसकी आस्तीनें ढीली मुड़ी हुई हैं, हल्के नीले/ग्रे रंग की जींस, सफेद स्नीकर्स।
-गले में एक पतला पेंडेंट नेकलेस पहना है।
-उसने भी एक बुना हुआ टोट बैग और आइस्ड टी की बोतल ले रखी है।
-उज्ज्वल, सहज अभिव्यक्ति — मुस्कुराती है, धीरे से हंसती है, उसके साथ कदम मिलाकर चलती है।
-
-रिश्ता/मूड: एक छोटी खरीदारी के बाद पड़ोस में आराम से टहलते हुए एक प्यारा जोड़ा — आरामदायक चुप्पी और छोटी-मोटी बातें, स्वाभाविक केमिस्ट्री, "स्लाइस ऑफ लाइफ" टोन।
-
-0:00–0:05 पीछे से वाइड शॉट, जोड़ा एक संकरी पेड़ की छाया वाली गली में कैमरे से दूर जा रहा है। बाईं ओर ग्रे टी-शर्ट और खाकी पैंट में पुरुष, दाईं ओर सेज-ग्रीन शर्ट और जींस में महिला, दोनों ने सफेद प्लास्टिक के शॉपिंग बैग ले रखे हैं। फुटपाथ पर छनकर आती धूप, दीवारों के किनारे साइकिलें और गमले, दाईं ओर कपड़े लटक रहे हैं। पीछे से उनका पीछा करता हुआ धीमा स्थिर ट्रैकिंग शॉट।
-
-0:05–0:10 कैमरा अब उनका नेतृत्व कर रहा है, छाती की ऊंचाई पर सामने/किनारे से शूट कर रहा है। अग्रभूमि में पुरुष एक तरफ देखकर मुस्कुरा रहा है, महिला उसके पीछे दाईं ओर है, बाल बन में हैं, वह भी मुस्कुरा रही है। उनके पीछे कपड़े की लाइन और हरी पत्तियां दिखाई दे रही हैं, गर्म बैकलाइट धूप। जैसे-जैसे वे करीब आते हैं, कैमरा धीरे-धीरे पीछे की ओर पैन/ट्रैक करता है।
-0:10–0:15 क्लोज टू-शॉट, कैमरा उनकी ओर है क्योंकि वे एक छोटी दुकान के बाहर खुले ड्रिंक फ्रिज की ओर चल रहे हैं। पुरुष अपनी ठुड्डी के पास आइस्ड टी की बोतल पकड़े हुए है, विचारशील/जीवंत इशारों के साथ बात कर रहा है; उसके बगल में महिला दो बोतलें पकड़े हुए है, मुस्कुरा रही है और उसकी ओर देख रही है। दाईं ओर बैकग्राउंड में रंगीन बोतलों से भरा बेवरेज कूलर दिखाई दे रहा है।
-
-0:15–0:20 मीडियम शॉट, दोनों अब आइस्ड टी की बोतलें लिए सीधे कैमरे की ओर चल रहे हैं, दोनों गर्मजोशी से मुस्कुरा रहे हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092618886546067456/img/yAeh9Kog_lpT6HmO.jpg" width="600" alt="कोरियन नेबरहुड स्लाइस ऑफ लाइफ वीडियो स्क्रिप्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9963)**
-
-**Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2092884832816906256) | **Published:** Aug 27, 2026
-
----
-### फेस बाइटिंग बबल एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक असली जैसा दिखने वाला वीडियो प्रॉम्प्ट जिसमें एक आकृति दूसरी आकृति के चेहरे को काटती है और च्यूइंग गम का बुलबुला बनाती है।
-
-#### 📝 Prompt
-
-```
-बाईं ओर की आकृति के सिर के दाहिने हिस्से को काटने का दृश्य बनाएं और उससे च्यूइंग गम का एक बड़ा बुलबुला तैयार करें
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="फेस बाइटिंग बबल एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9929)**
-
-**Author:** [#vandehigh](https://x.com/vandehigh) | **Source:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **Published:** Aug 27, 2026
-
----
-### दो पैरों वाला जीव पर्वत शिखर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत डार्क-फैंटेसी वीडियो प्रॉम्प्ट, जिसमें धुंधले पर्वत शिखर पर एक सफेद मांसल जीव को जैविक गति के साथ दर्शाया गया है।
-
-#### 📝 Prompt
-
-```
-पूरी तरह से विकसित दो पैरों वाला सफेद मांसल जीव शिखर पर खड़ा है, धीरे-धीरे अपना सिर घुमाकर धुंधले पहाड़ों को देखता है, जैविक ऊतक हिल रहे हैं और टपक रहे हैं, साथ ही वायुमंडलीय हवा और कोहरे की गति भी दिखाई दे रही है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="दो पैरों वाला जीव पर्वत शिखर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9923)**
-
-**Author:** [BecauseGIU*](https://x.com/BecausGIU) | **Source:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **Published:** Aug 27, 2026
-
----
-### Sky Falling Animal Toy Box
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जिसमें आसमान से एक बॉक्स गिरता है और उससे विभिन्न खिलौने वाले जानवर और गाड़ियाँ बाहर निकलती हैं।
-
-#### 📝 Prompt
-
-```
-आसमान से एक बॉक्स गिरता है और घास पर गिरकर टूट जाता है। बॉक्स से पाँच रैंडम समुद्री जानवरों के खिलौने, पाँच रैंडम जंगली जानवरों के खिलौने, पाँच रैंडम खेत के जानवरों के खिलौने, दो खिलौना ट्रैक्टर, पाँच क्लासिक खिलौना कारें और पाँच रैंडम ब्रैकेट-टाइप चार्म्स बाहर निकलते हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="Sky Falling Animal Toy Box">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
-
----
-### देवी डायना का तीरंदाजी दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अंधेरे धुंधले जंगल में देवी डायना को दर्शाने वाला एक नाटकीय वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-चांदी जैसे भूरे बालों और सफेद रंग की लहराती पोशाक वाली उग्र देवी डायना का एक नया नाटकीय रूपांतर तैयार करें, जो एक अंधेरे धुंधले जंगल में आगे की ओर छलांग लगा रही हैं और एक बड़ा धनुष खींचकर तीर को सीधे...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092783400952438784/img/o_BndaBEHdZ4GrAN.jpg" width="600" alt="देवी डायना का तीरंदाजी दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9960)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2092783433961590892) | **Published:** Aug 27, 2026
-
----
-### Pleiadian Light Ships समर वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> आकाशीय जहाजों की चमकदार रोशनी और वॉल्यूमेट्रिक टोन पर केंद्रित एक हाई-डेफिनिशन साइंस-फिक्शन वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-Pleiadian light ships गर्मियों के नीले फ़िरोज़ी आसमान में, मास्टरपीस, अल्ट्रा एचडी क्वालिटी रिज़ॉल्यूशन 11111111111199999999999 k, वॉल्यूमेट्रिक ब्राइट लाइटिंग और कलर टोन
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092779708542779392/img/923tBS6kA-LuxU8x.jpg" width="600" alt="Pleiadian Light Ships समर वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9966)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092779760585756700) | **Published:** Aug 27, 2026
-
----
-### प्राकृतिक स्थिर दृश्य एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक तकनीकी वीडियो प्रॉम्प्ट जो मॉडल को बिना किसी कैमरा मूवमेंट, बातचीत या पलक झपकाए दृश्य को स्वाभाविक रूप से एनिमेट करने का निर्देश देता है।
-
-#### 📝 Prompt
-
-```
-एनिमेट करें। दृश्य को स्थिर रखें और ज़ूम इन या ज़ूम आउट न करें। कोई बातचीत या शब्द नहीं। बस प्राकृतिक रूप से जैसा है वैसा रहने दें। पलकें न झपकाएं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092757907360129024/img/Re-Uu0FV7fbY5LdQ.jpg" width="600" alt="प्राकृतिक स्थिर दृश्य एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9958)**
-
-**Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2206,6 +2181,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T04:20:21.960Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T12:22:12.671Z</sub>
 
 </div>

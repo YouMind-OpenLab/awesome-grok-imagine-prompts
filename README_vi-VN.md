@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2710** |
+| 📝 Total Prompts | **2717** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-06** |
 
@@ -189,6 +189,101 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Cảnh quay điện ảnh máy bay rơi trên bãi biển
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một góc quay rộng mang phong cách điện ảnh, đầy tâm trạng và chi tiết về một người đang ngồi trên xác máy bay quân sự tại một bãi biển đầy giông bão.
+
+#### 📝 Prompt
+
+```
+Góc quay rộng điện ảnh về một người mặc áo khoác tối màu đang ngồi trên cánh của một chiếc máy bay vận tải quân sự bị rơi trên bãi biển đá đen, những đám mây xám xịt đầy giông bão, sóng vỗ vào xác máy bay, nước chảy tràn từ thân máy bay, chân thực, bầu không khí đầy tâm trạng, siêu chi tiết, Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="Cảnh quay điện ảnh máy bay rơi trên bãi biển">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10432)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
+
+---
+### Dạo bước trong Mê cung Thiên hà
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh đầy mơ mộng về một cô gái trẻ đang bước đi giữa những mê cung tinh vân và thiên hà siêu thực.
+
+#### 📝 Prompt
+
+```
+Một cô gái trẻ bước đi qua hàng loạt mê cung, đẹp đẽ, siêu thực và đầy mộng ảo, mỗi mê cung là một khung cảnh đầy sao với các tinh vân và thiên hà nối tiếp nhau
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="Dạo bước trong Mê cung Thiên hà">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
+
+**Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
+
+---
+### Váy dạ hội lông vũ trên sân thượng neon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video điện ảnh công phu về một người phụ nữ mặc váy lông vũ màu hồng trên ban công rực rỡ ánh đèn neon dưới trời mưa.
+
+#### 📝 Prompt
+
+```
+Cảnh quay toàn thân đậm chất điện ảnh về một người phụ nữ tự tin với mái tóc xoăn sẫm màu, diện chiếc váy dạ hội lông vũ màu hồng đậm đầy ấn tượng, đang đứng trên ban công sân thượng đầy ánh đèn neon ẩm ướt vào ban đêm, ngoái nhìn lại qua vai, hình ảnh phản chiếu của mưa trên mặt kính, đường chân trời thành phố rực rỡ sắc hồng và xanh lơ, phong cách minh họa anime, chi tiết cực cao
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="Váy dạ hội lông vũ trên sân thượng neon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10431)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
+
+---
+### Chú mèo con tinh nghịch trong tuyết
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video chi tiết về chú mèo con đang chơi đùa trong tuyết, với các hành động vồ, lăn và chuyển động liên tục.
+
+#### 📝 Prompt
+
+```
+Chú mèo mướp màu cam đáng yêu tinh nghịch vồ lấy quả cầu tuyết, sau đó lăn và nhào lộn đầy vui vẻ trên lớp tuyết mịn, dùng chân đùa nghịch với những bông tuyết đang rơi, tuyết bay tung tóe xung quanh, các chuyển động vui đùa liên tục, hành vi tự nhiên dễ thương của mèo con
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="Chú mèo con tinh nghịch trong tuyết">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10435)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **Published:** Sep 5, 2026
+
+---
+### Chú mèo con đón Giáng sinh trong tuyết
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video đầy không khí lễ hội về một chú mèo con đang chơi đùa trong tuyết với cây thông Noel và đồ trang trí ở phía sau.
+
+#### 📝 Prompt
+
+```
+Chú mèo con đang chơi đùa trong tuyết với đồ trang trí Giáng sinh và cây thông Noel ở phía sau, tuyết rơi dày đặc xung quanh
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="Chú mèo con đón Giáng sinh trong tuyết">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10433)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **Published:** Sep 5, 2026
+
+---
 ### Chuyển động tường thành phố Steampunk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -246,6 +341,44 @@ Infographic về cách các tia sáng xanh ngăn chặn quá trình sản xuất
 **Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
 
 ---
+### Bài học tiếng Quan Thoại của Elon Musk trong vai Dr. Evil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt sáng tạo với hình ảnh Elon Musk trong phong cách Dr. Evil, đang dạy con trai mình tiếng Quan Thoại thông qua một bài học ngôn ngữ hài hước.
+
+#### 📝 Prompt
+
+```
+Tiếp tục phân cảnh: Elon Musk (ngoại hình kiểu Trung Quốc với mái tóc đen trong vai Dr. Evil) vuốt ve chú mèo trắng và nói tiếng Quan Thoại với con trai Lil X (trong vai Mini-Me với mái tóc đen), dạy cậu bé một bài học ngôn ngữ thú vị. Elon nói: "Little Mini, con là mảnh ghép hoàn hảo của ta"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="Bài học tiếng Quan Thoại của Elon Musk trong vai Dr. Evil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10436)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **Published:** Sep 4, 2026
+
+---
+### Video cặp đôi lãng mạn đang chơi xích đu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video cho Grok Imagine để tạo hiệu ứng chuyển động cho cặp đôi đang chơi xích đu một cách tình cảm mà vẫn giữ nguyên các đặc điểm ngoại hình của họ.
+
+#### 📝 Prompt
+
+```
+Hai người đang cùng nhau chơi xích đu một cách tình cảm, thể hiện sự yêu thương và gắn kết, mỉm cười với nhau đầy lãng mạn trong khi đung đưa qua lại, giữ nguyên ngoại hình, khuôn mặt, trang phục và các đặc điểm của họ không thay đổi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="Video cặp đôi lãng mạn đang chơi xích đu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10434)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **Published:** Sep 4, 2026
+
+---
 ### Cảnh quan thành phố hang động ngầm phong cách khoa học viễn tưởng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -300,7 +433,7 @@ Cận cảnh đầu người đang nói chuyện, streamer trẻ người Nhật
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
 
-**Author:** [AIかぴ](https://x.com/ck_pkki2) | **Source:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **Published:** Sep 4, 2026
 
 ---
 ### Cảnh tàu vũ trụ đế quốc hạ cánh
@@ -338,7 +471,7 @@ Cảnh quay điện ảnh góc rộng về một nhân vật đơn độc mặc 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
 
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **Published:** Sep 4, 2026
 
 ---
 ### Chuyến bay Pegasus của những con người bị lãng quên
@@ -1987,164 +2120,6 @@ Phân đoạn điện ảnh dài 45–70 giây với cùng phong cách sản xu�
 **Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
 
 ---
-### Kịch bản video đời thường tại khu phố Hàn Quốc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một kịch bản điện ảnh chi tiết cho video phong cách 'đời thường' về một cặp đôi đang đi dạo trong con hẻm tại một khu phố Hàn Quốc.
-
-#### 📝 Prompt
-
-```
-Chi tiết về Chủ thể & Nhân vật
-Bối cảnh: Một con hẻm dân cư yên tĩnh, ngập tràn ánh nắng tại một khu phố cũ kiểu Hàn Quốc/Đông Á — lối đi hẹp được lát gạch, những ngôi nhà thấp tầng với mái ngói và mái tôn, dây điện chằng chịt phía trên, những chậu cây, quần áo phơi khô, một chiếc xe đạp đỗ bên đường và một tủ lạnh đựng đồ uống nhỏ của cửa hàng tiện lợi. Giữa trưa, ánh sáng tự nhiên ấm áp với những bóng lá mềm mại đổ xuống mặt đất, lọc qua các tán cây rủ xuống. Phong cách quay cầm tay, vừa đi vừa trò chuyện, chủ yếu đi theo/bám theo cặp đôi từ phía sau hoặc phía trước.
-
-Nhân vật 1 — Nam
-Nam giới Đông Á, khoảng cuối 20 đến 30 tuổi, tóc đen ngắn rối tự nhiên, cạo râu sạch sẽ với biểu cảm nhẹ nhàng, thư thái
-Mặc áo phông cổ tròn màu xám than/nâu bạc màu quá khổ với các nếp nhăn vải rõ rệt, quần ống rộng màu be/kaki, giày thể thao trắng
-Đeo đồng hồ trên cổ tay trái
-Đeo túi tote dệt có miếng vá logo nhỏ hình tròn màu vàng
-Cầm một chai trà đá/trà lúa mạch bằng nhựa trong suốt xuyên suốt video
-Phong thái bình tĩnh, ấm áp, hơi tinh nghịch — mỉm cười, liếc nhìn sang người bạn đồng hành, cử chỉ nhẹ nhàng khi trò chuyện
-
-Nhân vật 2 — Nữ
-Nữ giới Đông Á, khoảng 20 tuổi, tóc đen búi thấp với vài lọn tóc buông xõa ôm lấy khuôn mặt
-Mặc áo sơ mi cài khuy màu xanh lá xô quá khổ với tay áo xắn nhẹ, quần jeans màu xanh nhạt/xám rơm, giày thể thao trắng
-Đeo dây chuyền mặt mảnh
-Cũng đeo túi tote dệt và cầm một chai trà đá
-Biểu cảm tươi sáng, dễ gần — mỉm cười, cười khẽ, bước đi nhịp nhàng bên cạnh anh ấy
-
-Mối quan hệ/tâm trạng: Cặp đôi tình cảm, thoải mái trong chuyến đi dạo khu phố sau khi mua sắm nhỏ — sự im lặng dễ chịu và những câu chuyện phiếm, phản ứng hóa học tự nhiên, mang đậm phong cách "đời thường".
-
-0:00–0:05Cảnh quay rộng từ phía sau, cặp đôi đang đi xa dần máy quay dọc theo con hẻm hẹp rợp bóng cây. Người đàn ông mặc áo phông xám và quần kaki bên trái, người phụ nữ mặc áo sơ mi xanh lá xô và quần jeans bên phải, cả hai đều xách túi mua sắm bằng nhựa trắng. Ánh nắng lốm đốm trên mặt đường, xe đạp và chậu cây xếp dọc các bức tường, quần áo phơi bên phải. Cảnh quay theo dõi chậm và ổn định từ phía sau.
-
-0:05–0:10Máy quay dẫn đầu, quay từ phía trước/bên cạnh ở độ cao ngang ngực. Người đàn ông ở tiền cảnh nhìn sang bên cạnh mỉm cười, người phụ nữ hơi lùi về phía sau bên phải, tóc búi, cũng đang mỉm cười. Dây phơi quần áo và tán lá xanh hiện rõ phía sau họ, ánh nắng ngược ấm áp. Máy quay từ từ lia/theo dõi lùi lại khi họ tiến đến gần.
-0:10–0:15Cảnh quay cận hai người, máy quay hướng về phía họ khi họ đi bộ về phía tủ lạnh đựng đồ uống mở bên ngoài một cửa hàng nhỏ. Người đàn ông cầm chai trà đá đưa lên gần cằm, trò chuyện với cử chỉ suy tư/sinh động; người phụ nữ bên cạnh cầm hai chai, mỉm cười và liếc nhìn anh ấy. Tủ mát đựng đồ uống với những chai nước đầy màu sắc hiện rõ ở phía sau bên phải.
-
-0:15–0:20Cảnh quay trung, cả hai hiện đang đi thẳng về phía máy quay, tay cầm chai trà đá, cả hai đều mỉm cười ấm áp với s
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092618886546067456/img/yAeh9Kog_lpT6HmO.jpg" width="600" alt="Kịch bản video đời thường tại khu phố Hàn Quốc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9963)**
-
-**Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2092884832816906256) | **Published:** Aug 27, 2026
-
----
-### Hoạt ảnh bong bóng cắn mặt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video siêu thực, trong đó một nhân vật cắn vào mặt nhân vật khác và tạo ra một quả bong bóng kẹo cao su.
-
-#### 📝 Prompt
-
-```
-Hãy tạo cảnh nhân vật bên trái cắn vào mặt nhân vật bên phải và thổi ra một quả bong bóng kẹo cao su lớn từ người đó
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="Hoạt ảnh bong bóng cắn mặt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9929)**
-
-**Author:** [#vandehigh](https://x.com/vandehigh) | **Source:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **Published:** Aug 27, 2026
-
----
-### Sinh vật hai chân trên đỉnh núi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một đoạn gợi ý video giả tưởng đen tối chi tiết mô tả một sinh vật bằng thịt màu trắng trên đỉnh núi đầy sương mù với chuyển động hữu cơ.
-
-#### 📝 Prompt
-
-```
-Sinh vật bằng thịt màu trắng, hai chân hoàn thiện đứng trên đỉnh núi, từ từ quay đầu nhìn ra những ngọn núi mờ sương, các mô hữu cơ dịch chuyển và nhỏ giọt, cùng chuyển động của gió và sương mù đầy không khí.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="Sinh vật hai chân trên đỉnh núi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9923)**
-
-**Author:** [BecauseGIU*](https://x.com/BecausGIU) | **Source:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **Published:** Aug 27, 2026
-
----
-### Hộp đồ chơi động vật rơi từ trên trời
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt mô tả cảnh một chiếc hộp rơi từ trên trời xuống và giải phóng nhiều loại đồ chơi hình động vật và phương tiện giao thông.
-
-#### 📝 Prompt
-
-```
-Chiếc hộp rơi từ trên trời xuống và vỡ tung trên bãi cỏ, từ trong hộp bật ra năm món đồ chơi động vật biển ngẫu nhiên, năm món đồ chơi động vật hoang dã ngẫu nhiên, năm món đồ chơi động vật nông trại ngẫu nhiên, hai chiếc máy kéo đồ chơi, năm chiếc xe hơi cổ điển đồ chơi và năm chiếc vòng treo trang trí ngẫu nhiên dạng móc cài
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="Hộp đồ chơi động vật rơi từ trên trời">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
-
----
-### Cảnh nữ thần Diana bắn cung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video đầy kịch tính mô tả nữ thần Diana trong khu rừng tối đầy sương mù.
-
-#### 📝 Prompt
-
-```
-Tạo một biến thể kịch tính mới về nữ thần Diana dũng mãnh với mái tóc màu xám bạc trong chiếc váy trắng thướt tha, đang lao về phía trước trong khu rừng tối đầy sương mù, tay giương chiếc cung lớn và nhắm thẳng mũi tên vào...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092783400952438784/img/o_BndaBEHdZ4GrAN.jpg" width="600" alt="Cảnh nữ thần Diana bắn cung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9960)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2092783433961590892) | **Published:** Aug 27, 2026
-
----
-### Video mùa hè về tàu ánh sáng Pleiadian
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video khoa học viễn tưởng độ phân giải cao, tập trung vào ánh sáng rực rỡ và các tông màu thể tích của những con tàu thiên thể.
-
-#### 📝 Prompt
-
-```
-Tàu ánh sáng Pleiadian trên bầu trời xanh ngọc mùa hè, kiệt tác, chất lượng siêu nét độ phân giải 11111111111199999999999 k, ánh sáng rực rỡ và các tông màu thể tích
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092779708542779392/img/923tBS6kA-LuxU8x.jpg" width="600" alt="Video mùa hè về tàu ánh sáng Pleiadian">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9966)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092779760585756700) | **Published:** Aug 27, 2026
-
----
-### Hoạt ảnh cảnh quay tĩnh tự nhiên
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video kỹ thuật hướng dẫn mô hình tạo hoạt ảnh cho cảnh quay một cách tự nhiên mà không có chuyển động máy quay, không nói chuyện hoặc chớp mắt.
-
-#### 📝 Prompt
-
-```
-Tạo hoạt ảnh. Giữ nguyên cảnh quay và không phóng to hoặc thu nhỏ. Không nói chuyện hoặc xuất hiện từ ngữ. Chỉ giữ trạng thái tự nhiên vốn có. Không chớp mắt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092757907360129024/img/Re-Uu0FV7fbY5LdQ.jpg" width="600" alt="Hoạt ảnh cảnh quay tĩnh tự nhiên">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9958)**
-
-**Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2206,6 +2181,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T04:20:20.653Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T12:22:11.785Z</sub>
 
 </div>

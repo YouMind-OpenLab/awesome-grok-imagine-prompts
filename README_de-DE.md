@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2710** |
+| 📝 Total Prompts | **2717** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-06** |
 
@@ -189,6 +189,101 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Filmische Szene: Flugzeugwrack am Strand
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine stimmungsvolle und detailreiche filmische Weitaufnahme einer Person, die auf dem Wrack eines Militärflugzeugs an einem stürmischen Strand sitzt.
+
+#### 📝 Prompt
+
+```
+Filmische Weitaufnahme einer Person in einem dunklen Mantel, die auf der Tragfläche eines abgestürzten Militärtransportflugzeugs an einem felsigen schwarzen Strand sitzt, stürmische graue Wolken, Wellen, die gegen das Wrack schlagen, Wasser, das aus dem Rumpf läuft, fotorealistisch, stimmungsvolle Atmosphäre, ultra-detailliert, Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="Filmische Szene: Flugzeugwrack am Strand">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10432)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
+
+---
+### Gang durch das himmlische Labyrinth
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein traumhafter Prompt einer jungen Frau, die durch surreale, nebelartige Labyrinthe und Galaxien wandelt.
+
+#### 📝 Prompt
+
+```
+Eine junge Frau wandert durch eine Reihe von Labyrinthen, wunderschön, surreal und traumhaft; jedes einzelne ist eine sternenklare Landschaft aus Nebeln und Galaxien, die aufeinander aufbauen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="Gang durch das himmlische Labyrinth">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
+
+**Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
+
+---
+### Neon-Dachterrassen-Federkleid
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein aufwendiger filmischer Video-Prompt einer Frau in einem pinkfarbenen Federkleid auf einem neonbeleuchteten Balkon bei Regen.
+
+#### 📝 Prompt
+
+```
+Filmische Ganzkörperaufnahme einer selbstbewussten Frau mit dunklem lockigem Haar in einem dramatischen, tiefpinkfarbenen Feder-Abendkleid, die nachts auf einer nassen Neon-Dachterrasse steht, über die Schulter blickt, Regenspiegelungen auf Glas, leuchtende pinke und cyanfarbene Skyline der Stadt, Anime-Illustrationsstil, ultra-detailliert
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="Neon-Dachterrassen-Federkleid">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10431)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
+
+---
+### Verspieltes Kätzchen im Schnee
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt für ein Kätzchen, das im Schnee spielt, inklusive Springen, Rollen und kontinuierlicher Bewegung.
+
+#### 📝 Prompt
+
+```
+Das entzückende orangefarbene getigerte Kätzchen springt verspielt auf den Schneeball, rollt und purzelt dann freudig im weichen Pulverschnee, schlägt mit seinen Pfoten nach fallenden Schneeflocken, Schnee wirbelt um es herum auf, kontinuierliche verspielte Bewegungen, natürliches, niedliches Kätzchenverhalten
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="Verspieltes Kätzchen im Schnee">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10435)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **Published:** Sep 5, 2026
+
+---
+### Weihnachtskätzchen im Schnee
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein festlicher Video-Prompt für ein Kätzchen, das im Schnee spielt, mit Weihnachtsbäumen und Dekorationen im Hintergrund.
+
+#### 📝 Prompt
+
+```
+Kätzchen spielt im Schnee mit Weihnachtsdekoration und einem Weihnachtsbaum im Hintergrund, starker Schneefall ringsherum
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="Weihnachtskätzchen im Schnee">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10433)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **Published:** Sep 5, 2026
+
+---
 ### Steampunk-Stadtburgmauer-Bewegung
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -246,6 +341,44 @@ Infografik darüber, wie Blaulicht die Melatoninproduktion hemmt und den zirkadi
 **Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
 
 ---
+### Elon Musk als Dr. Evil: Mandarin-Unterricht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Video-Prompt, in dem Elon Musk im Stil von Dr. Evil seinem Sohn in einer humorvollen Sprachstunde Mandarin beibringt.
+
+#### 📝 Prompt
+
+```
+Setze die Szene fort: Elon Musk (mit chinesisch anmutendem Aussehen und schwarzem Haar als Dr. Evil) streichelt die weiße Katze und spricht auf Mandarin zu seinem Sohn Lil X (Mini-Me mit schwarzem Haar), um ihm eine unterhaltsame Lektion in der Sprache zu erteilen. Elon sagt: „Kleiner Mini, du vervollständigst mich.“
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="Elon Musk als Dr. Evil: Mandarin-Unterricht">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10436)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **Published:** Sep 4, 2026
+
+---
+### Video eines romantischen Paares auf einer Schaukel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt für Grok Imagine, um ein Paar beim liebevollen Schaukeln zu animieren, wobei ihre exakten Merkmale beibehalten werden.
+
+#### 📝 Prompt
+
+```
+Die beiden Personen schaukeln liebevoll zusammen, zeigen Zuneigung und Liebe, lächeln sich während des Hin- und Herschaukelns romantisch an, behalten ihr exaktes Aussehen, ihre Gesichter, ihre Kleidung und ihre Merkmale unverändert bei
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="Video eines romantischen Paares auf einer Schaukel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10434)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **Published:** Sep 4, 2026
+
+---
 ### Sci-Fi-Szene einer unterirdischen Höhlenstadt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -300,7 +433,7 @@ Nahaufnahme eines sprechenden Kopfes, junger japanischer Streamer, kontinuierlic
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
 
-**Author:** [AIかぴ](https://x.com/ck_pkki2) | **Source:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **Published:** Sep 4, 2026
 
 ---
 ### Ankunftsszene eines imperialen Raumschiffs
@@ -338,7 +471,7 @@ Filmische Totale einer einsamen Figur in einem dunklen Mantel, die auf einer end
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
 
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **Published:** Sep 4, 2026
 
 ---
 ### Der Pegasus-Flug der Vergessenen
@@ -1987,164 +2120,6 @@ SpaceX-Crew für die MoonBase-Kolonialisierung von MrFIXitX mit Nutzlasten, die 
 **Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
 
 ---
-### Video-Skript für eine koreanische Nachbarschaft im „Slice of Life“-Stil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetailliertes, filmisches Skript für ein „Slice of Life“-Video eines Paares, das durch eine Gasse in einem koreanischen Wohnviertel spaziert.
-
-#### 📝 Prompt
-
-```
-Details zu Thema & Charakteren
-Schauplatz: Eine ruhige, sonnendurchflutete Wohnstraße in einem älteren koreanischen bzw. ostasiatischen Viertel – schmale gepflasterte Gasse, niedrige Häuser mit Ziegel- und Wellblechdächern, verworrene Stromleitungen darüber, Topfpflanzen, zum Trocknen aufgehängte Wäsche, ein geparktes Fahrrad und ein kleiner Kühlschrank eines Kiosks, gefüllt mit Getränken. Mittagszeit, warmes natürliches Sonnenlicht mit weichen Schatten von Blättern auf dem Boden, gefiltert durch überhängende Äste. Handkamera, „Walk-and-Talk“-Stil, das Paar wird meist von hinten oder vorne verfolgt bzw. begleitet.
-
-Charakter 1 — Mann
-Ostasiatischer Mann, wirkt wie Ende 20 bis 30, kurzes zerzaustes schwarzes Haar, glatt rasiert mit einem sanften, entspannten Ausdruck.
-Trägt ein übergroßes, verwaschenes anthrazitgraues/braunes T-Shirt mit sichtbaren Stofffalten, eine weite beige/khakifarbene Hose, weiße Sneaker.
-Trägt eine Armbanduhr am linken Handgelenk.
-Trägt eine gewebte Tragetasche mit einem kleinen runden gelben Logo-Aufnäher.
-Hält durchgehend eine durchsichtige Plastikflasche mit Eistee/Gerstentee.
-Ruhiges, warmes, leicht verspieltes Auftreten – lächelt, wirft seiner Begleiterin Seitenblicke zu, gestikuliert sanft beim Sprechen.
-
-Charakter 2 — Frau
-Ostasiatische Frau, wirkt wie Ende 20, dunkles Haar zu einem tiefen Dutt gebunden, mit losen Strähnen, die das Gesicht umrahmen.
-Trägt ein übergroßes, salbeigrünes Hemd mit geknöpfter Vorderseite und locker hochgekrempelten Ärmeln, hellblaue/graue Jeans in Strohfarbe, weiße Sneaker.
-Trägt eine dünne Halskette mit Anhänger.
-Trägt ebenfalls eine gewebte Tragetasche und eine Flasche Eistee.
-Strahlender, unbeschwerter Ausdruck – lächelt, lacht leise, geht im gleichen Schritt neben ihm her.
-
-Beziehung/Stimmung: Ein entspanntes, liebevolles Paar bei einem gemütlichen Spaziergang durch die Nachbarschaft nach einem kleinen Einkauf – angenehmes Schweigen und Smalltalk, natürliche Chemie, „Slice of Life“-Stimmung.
-
-0:00–0:05 Totale von hinten, das Paar geht von der Kamera weg durch eine schmale, von Bäumen beschattete Gasse. Der Mann im grauen T-Shirt und Khaki-Hose links, die Frau im salbeigrünen Hemd und Jeans rechts, beide tragen weiße Plastikeinkaufstüten. Geflecktes Sonnenlicht auf dem Pflaster, Fahrräder und Topfpflanzen säumen die Wände, rechts hängt Wäsche. Langsame, stetige Kamerafahrt, die ihnen von hinten folgt.
-
-0:05–0:10 Die Kamera führt sie nun an, Aufnahme von vorne/seitlich auf Brusthöhe. Der Mann im Vordergrund schaut lächelnd zur Seite, die Frau etwas hinter ihm auf der rechten Seite, Haar zum Dutt gebunden, lächelt ebenfalls. Wäscheleine und grünes Blattwerk hinter ihnen sichtbar, warmes Gegenlicht. Die Kamera schwenkt/fährt langsam rückwärts, während sie sich nähern.
-0:10–0:15 Nahaufnahme (Two-Shot), die Kamera ist auf sie gerichtet, während sie auf einen offenen Getränkekühlschrank vor einem kleinen Laden zugehen. Der Mann hält eine Flasche Eistee in Kinnnähe und spricht mit einer nachdenklichen/lebhaften Geste; die Frau neben ihm hält zwei Flaschen, lächelt und schaut zu ihm herüber. Ein gefüllter Getränkekühlschrank mit bunten Flaschen ist rechts im Hintergrund zu sehen.
-
-0:15–0:20 Halbtotale, beide gehen nun direkt auf die Kamera zu, halten Eistee-Flaschen in der Hand und lächeln sich warm an.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092618886546067456/img/yAeh9Kog_lpT6HmO.jpg" width="600" alt="Video-Skript für eine koreanische Nachbarschaft im „Slice of Life“-Stil">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9963)**
-
-**Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2092884832816906256) | **Published:** Aug 27, 2026
-
----
-### Gesichtsbeißende Kaugummi-Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein surrealer Video-Prompt, bei dem eine Figur in das Gesicht einer anderen beißt und daraus eine Kaugummi-Blase entstehen lässt.
-
-#### 📝 Prompt
-
-```
-Lasse die rechte Figur in das Gesicht der linken Figur beißen und aus ihm eine große Kaugummi-Blase formen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="Gesichtsbeißende Kaugummi-Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9929)**
-
-**Author:** [#vandehigh](https://x.com/vandehigh) | **Source:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **Published:** Aug 27, 2026
-
----
-### Zweibeiniges Wesen auf dem Berggipfel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Dark-Fantasy-Video-Prompt, der ein weißes fleischartiges Wesen auf einem nebligen Berggipfel mit organischer Bewegung darstellt.
-
-#### 📝 Prompt
-
-```
-Das voll ausgebildete zweibeinige, weißfleischige Wesen steht auf dem Gipfel, dreht langsam den Kopf, um über die nebligen Berge zu blicken, wobei sich organisches Gewebe verschiebt und abtropft, begleitet von atmosphärischen Wind- und Nebelbewegungen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="Zweibeiniges Wesen auf dem Berggipfel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9923)**
-
-**Author:** [BecauseGIU*](https://x.com/BecausGIU) | **Source:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **Published:** Aug 27, 2026
-
----
-### Sky Falling Animal Toy Box
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, bei dem eine Kiste vom Himmel fällt und verschiedene Spielzeugtiere sowie Fahrzeuge freigibt.
-
-#### 📝 Prompt
-
-```
-Eine Kiste fällt vom Himmel und bricht auf dem Gras auf. Aus der Kiste springen fünf zufällige Meerestiere, fünf zufällige Wildtiere, fünf zufällige Bauernhoftiere, zwei Spielzeugtraktoren, fünf klassische Spielzeugautos und fünf zufällige Anhänger in Klammerform.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="Sky Falling Animal Toy Box">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
-
----
-### Bogenschieß-Szene der Göttin Diana
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein dramatischer Video-Prompt, der die Göttin Diana in einem dunklen, nebligen Wald darstellt.
-
-#### 📝 Prompt
-
-```
-Erstelle eine neue dramatische Variation der kampfbereiten Göttin Diana mit silbergrauem Haar in einem fließenden weißen Kleid, wie sie in einem dunklen, nebligen Wald nach vorne springt, einen großen Bogen spannt und den Pfeil direkt auf den Betrachter richtet...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092783400952438784/img/o_BndaBEHdZ4GrAN.jpg" width="600" alt="Bogenschieß-Szene der Göttin Diana">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9960)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2092783433961590892) | **Published:** Aug 27, 2026
-
----
-### Sommer-Video von Plejader-Lichtschiffen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochauflösender Sci-Fi-Video-Prompt, der sich auf helle Beleuchtung und volumetrische Töne himmlischer Schiffe konzentriert.
-
-#### 📝 Prompt
-
-```
-Plejader-Lichtschiffe in sommerlich blau-türkisfarbenem Himmel, Meisterwerk, Ultra-HD-Qualität, Auflösung 11111111111199999999999 k, volumetrische helle Beleuchtung und Farbtöne
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092779708542779392/img/923tBS6kA-LuxU8x.jpg" width="600" alt="Sommer-Video von Plejader-Lichtschiffen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9966)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092779760585756700) | **Published:** Aug 27, 2026
-
----
-### Natürliche, ruhige Szenenanimation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein technischer Video-Prompt, der das Modell anweist, eine Szene natürlich zu animieren, ohne Kamerabewegungen, Sprechen oder Blinzeln.
-
-#### 📝 Prompt
-
-```
-Animieren. Behalte die Szene bei und zoome weder hinein noch heraus. Kein Sprechen, keine Worte. Nur natürliche Existenz. Kein Blinzeln.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092757907360129024/img/Re-Uu0FV7fbY5LdQ.jpg" width="600" alt="Natürliche, ruhige Szenenanimation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9958)**
-
-**Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2206,6 +2181,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T04:20:25.098Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T12:22:16.532Z</sub>
 
 </div>

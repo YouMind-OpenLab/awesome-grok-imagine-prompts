@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2710** |
+| 📝 提示词总数 | **2717** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-06** |
 
@@ -189,6 +189,101 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 坠机残骸海滩电影感场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满情绪且细节丰富的电影感广角镜头，展示了一个人坐在暴风雨海滩上的军用飞机残骸上。
+
+#### 📝 提示词
+
+```
+电影感广角镜头，一个身穿深色外套的人坐在多岩石的黑色海滩上，飞机残骸是坠毁的军用运输机机翼，背景是暴风雨般的灰色云层，海浪拍打着残骸，水从机身流出，照片级真实感，情绪化氛围，超高细节，Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="坠机残骸海滩电影感场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10432)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **发布时间:** Sep 6, 2026
+
+---
+### 星空迷宫漫步
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个梦幻般的提示词，描绘了一位年轻女性穿梭于超现实的星云迷宫与星系之间。
+
+#### 📝 提示词
+
+```
+一位年轻女性穿梭在一系列迷宫中，场景唯美、超现实且充满梦幻色彩，每一个迷宫都是由星云和星系构成的星际景观，层层递进。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="星空迷宫漫步">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10430)**
+
+**作者:** [Jillian Spiridon](https://x.com/jillianspiridon) | **来源:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **发布时间:** Sep 6, 2026
+
+---
+### 霓虹天台羽毛礼服
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段精致的电影感视频提示词：一位身穿粉色羽毛礼服的女性在雨中霓虹灯闪烁的阳台上。
+
+#### 📝 提示词
+
+```
+电影感全身镜头，一位自信的深色卷发女性，身穿极具戏剧性的深粉色羽毛晚礼服，站在夜晚湿漉漉的霓虹天台阳台上，回眸凝视，玻璃上倒映着雨水，背景是闪烁着粉色与青色的城市天际线，动漫插画风格，超高细节
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="霓虹天台羽毛礼服">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10431)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **发布时间:** Sep 5, 2026
+
+---
+### 雪地里玩耍的小猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段关于小猫在雪地里玩耍的详细视频提示词，包含扑跃、翻滚和持续的动作。
+
+#### 📝 提示词
+
+```
+这只可爱的橘色虎斑小猫在雪地里俏皮地扑向雪球，随后在松软的雪地上欢快地翻滚打闹，用爪子拍打着飘落的雪花，雪花四溅，动作持续且充满童趣，展现出小猫自然可爱的行为。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="雪地里玩耍的小猫">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10435)**
+
+**作者:** [Grok imagine user](https://x.com/imagine_user_) | **来源:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **发布时间:** Sep 5, 2026
+
+---
+### 雪中的圣诞小猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满节日氛围的视频提示词，描述了一只小猫在圣诞树和装饰品的背景下于雪中玩耍。
+
+#### 📝 提示词
+
+```
+小猫在雪中玩耍，背景是圣诞装饰和圣诞树，周围大雪纷飞
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="雪中的圣诞小猫">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10433)**
+
+**作者:** [Grok imagine user](https://x.com/imagine_user_) | **来源:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **发布时间:** Sep 5, 2026
+
+---
 ### 蒸汽朋克城市城堡城墙运镜
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -246,6 +341,44 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **作者:** [Callum Conway](https://x.com/wordsbycallum) | **来源:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **发布时间:** Sep 5, 2026
 
 ---
+### 埃隆·马斯克化身“邪恶博士”的中文教学课
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个极具创意的视频提示词：埃隆·马斯克化身为“邪恶博士”，用中文向他的儿子进行了一场幽默的语言教学。
+
+#### 📝 提示词
+
+```
+续写场景：埃隆·马斯克（留着黑发、外貌中式，装扮成“邪恶博士”）抚摸着白猫，用中文对他儿子小 X（留着黑发的“迷你我”）说话，教他上一堂有趣的语言课。埃隆说道：“小迷你，你完整了我。”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="埃隆·马斯克化身“邪恶博士”的中文教学课">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10436)**
+
+**作者:** [Cyperpienso](https://x.com/cyperpienso) | **来源:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **发布时间:** Sep 4, 2026
+
+---
+### 浪漫情侣荡秋千视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 Grok Imagine 的视频生成提示词，旨在让一对情侣在荡秋千时展现亲密互动，同时保持其外貌特征不变。
+
+#### 📝 提示词
+
+```
+两人在秋千上深情地一起荡漾，展现出爱意与亲密，在来回荡漾的过程中浪漫地对视微笑，保持他们原本的外貌、面部特征、服装和细节不变
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="浪漫情侣荡秋千视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10434)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **来源:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **发布时间:** Sep 4, 2026
+
+---
 ### 地下洞穴城市科幻场景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -300,7 +433,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10389)**
 
-**作者:** [AIかぴ](https://x.com/ck_pkki2) | **来源:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **发布时间:** Sep 4, 2026
+**作者:** [Sahil Verma](https://x.com/sahilvermaai) | **来源:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **发布时间:** Sep 4, 2026
 
 ---
 ### 帝国飞船降临场景
@@ -338,7 +471,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10387)**
 
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **发布时间:** Sep 4, 2026
+**作者:** [Sahil Verma](https://x.com/sahilvermaai) | **来源:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **发布时间:** Sep 4, 2026
 
 ---
 ### 被遗忘者的飞马之旅
@@ -1987,164 +2120,6 @@ SpaceX 锻造团队前往 MrFIXitX 月球基地进行殖民，携带由订阅者
 **作者:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **来源:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **发布时间:** Aug 27, 2026
 
 ---
-### 韩国街区生活片段视频脚本
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份关于一对情侣漫步在韩国街区巷弄的“生活片段”视频的详细电影感脚本。
-
-#### 📝 提示词
-
-```
-主题与角色详情
-场景：韩国/东亚老城区一条安静、阳光斑驳的住宅巷弄——狭窄的铺砌小路、带有瓦片和波纹铁皮屋顶的低矮房屋、头顶交错的电线、盆栽植物、晾晒的衣物、一辆停放的自行车，以及一个装满饮料的小型便利店冷柜。正午时分，温暖的自然光透过悬垂的树枝，在地面上投下柔和的树影。手持摄影，采用边走边谈的拍摄风格，主要从后方或前方跟拍/追踪这对情侣。
-
-角色 1 — 男性
-东亚男性，看起来 20 多岁到 30 岁出头，黑色短发略显凌乱，面部干净，表情柔和放松。
-身穿一件超大号、褪色的炭灰色/棕色圆领 T 恤，面料有明显的褶皱，搭配宽松的米色/卡其色阔腿裤，脚穿白色运动鞋。
-左手腕佩戴手表。
-背着一个编织托特包，包上有一个小的圆形黄色标志贴片。
-全程手持一瓶透明塑料瓶装的冰茶/大麦茶。
-性格冷静、温暖、略带俏皮——微笑，侧头看向同伴，说话时手势轻柔。
-
-角色 2 — 女性
-东亚女性，看起来 20 多岁，深色头发扎成低发髻，脸颊两侧留有碎发。
-身穿一件超大号鼠尾草绿色的纽扣衬衫，袖口随意卷起，搭配浅蓝/灰色的草色牛仔裤，脚穿白色运动鞋。
-佩戴一条细吊坠项链。
-同样背着一个编织托特包，手拿一瓶冰茶。
-表情明亮、随和——微笑，轻声笑语，与他并肩同行。
-
-关系/氛围：一对情侣在购物后于街区悠闲漫步，氛围随意且亲密——舒适的沉默与闲聊，自然的化学反应，呈现“生活片段”的基调。
-
-0:00–0:05 从后方拍摄的广角镜头，情侣沿着一条树荫遮蔽的狭窄巷弄走远。左侧是身穿灰色 T 恤和卡其裤的男子，右侧是身穿鼠尾草绿衬衫和牛仔裤的女子，两人都提着白色塑料购物袋。阳光在路面上投下斑驳光影，墙边排列着自行车和盆栽，右侧晾晒着衣物。镜头从后方缓慢平稳地跟拍。
-
-0:05–0:10 镜头转为引导，从前方/侧面胸部高度拍摄。前景中的男子看向侧面微笑，女子在他右后方，扎着发髻，同样在微笑。背景可见晾衣绳和绿色植被，温暖的逆光。随着他们靠近，镜头缓慢后移/追踪。
-0:10–0:15 双人近景镜头，镜头对着他们，他们正走向一家小店外的敞开式饮料冷柜。男子将一瓶冰茶举到下巴附近，带着思考/生动的表情交谈；身旁的女子拿着两瓶饮料，微笑并看向他。右侧背景可见装满彩色瓶装饮料的冷柜。
-
-0:15–0:20 中景镜头，两人现在正直接走向镜头，手里拿着冰茶瓶，都对着镜头温暖地微笑。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092618886546067456/img/yAeh9Kog_lpT6HmO.jpg" width="600" alt="韩国街区生活片段视频脚本">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9963)**
-
-**作者:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **来源:** [Link](https://x.com/afrinxai/status/2092884832816906256) | **发布时间:** Aug 27, 2026
-
----
-### 咬脸泡泡动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个超现实的视频提示词：一个人影咬住另一个人影的脸，并吹出一个泡泡糖泡泡。
-
-#### 📝 提示词
-
-```
-让左侧人影的头部咬住右侧人影的脸，并从他口中吹出一个巨大的泡泡糖泡泡
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="咬脸泡泡动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9929)**
-
-**作者:** [#vandehigh](https://x.com/vandehigh) | **来源:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **发布时间:** Aug 27, 2026
-
----
-### 双足生物山峰
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段细腻的暗黑奇幻视频提示词，描绘了一个位于雾气缭绕的山峰之上、动作具有有机质感的白色肉体生物。
-
-#### 📝 提示词
-
-```
-形态完整的双足白色肉体生物伫立在山峰之上，缓慢转头俯瞰云雾缭绕的群山，有机组织随之位移并滴落，伴随着大气风流与雾气涌动。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="双足生物山峰">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9923)**
-
-**作者:** [BecauseGIU*](https://x.com/BecausGIU) | **来源:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **发布时间:** Aug 27, 2026
-
----
-### 天降动物玩具盒
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频提示词：一个盒子从天而降，落在草地上并打开，从中弹出了各种动物玩具和车辆玩具。
-
-#### 📝 提示词
-
-```
-盒子从天而降，在草地上摔开，盒子里弹出了 5 个随机海洋动物玩具、5 个随机野生动物玩具、5 个随机农场动物玩具、2 个拖拉机玩具、5 个经典小汽车玩具以及 5 个随机挂件（支架式挂件）。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="天降动物玩具盒">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9932)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **发布时间:** Aug 27, 2026
-
----
-### 女神戴安娜射箭场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个戏剧性的视频提示词，描绘了在黑暗迷雾森林中的女神戴安娜。
-
-#### 📝 提示词
-
-```
-创作一个关于凶猛女神戴安娜的全新戏剧性变体：她拥有银灰色头发，身着飘逸的白色长裙，在黑暗迷雾森林中向前跃起，同时拉开一张大弓，将箭直接瞄准...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092783400952438784/img/o_BndaBEHdZ4GrAN.jpg" width="600" alt="女神戴安娜射箭场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9960)**
-
-**作者:** [Apple](https://x.com/Apple0816799221) | **来源:** [Link](https://x.com/Apple0816799221/status/2092783433961590892) | **发布时间:** Aug 27, 2026
-
----
-### 昴宿星光之飞船夏季视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段高清科幻视频提示词，专注于明亮的灯光和天体飞船的体积感色调。
-
-#### 📝 提示词
-
-```
-夏季蓝绿松石色天空中的昴宿星光之飞船，杰作，超高清画质 11111111111199999999999 k，体积感明亮灯光与色彩色调
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092779708542779392/img/923tBS6kA-LuxU8x.jpg" width="600" alt="昴宿星光之飞船夏季视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9966)**
-
-**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **来源:** [Link](https://x.com/Octillion111111/status/2092779760585756700) | **发布时间:** Aug 27, 2026
-
----
-### 自然稳定的场景动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个技术性视频提示词，指示模型在不进行镜头移动、说话或眨眼的情况下自然地为场景制作动画。
-
-#### 📝 提示词
-
-```
-制作动画。保持场景不变，不要放大或缩小。不要说话，也不要出现文字。保持自然状态。不要眨眼。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092757907360129024/img/Re-Uu0FV7fbY5LdQ.jpg" width="600" alt="自然稳定的场景动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=9958)**
-
-**作者:** [BRENT REEVES](https://x.com/Breeves1979) | **来源:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **发布时间:** Aug 26, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2206,6 +2181,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-06T04:20:13.749Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-06T12:22:06.698Z</sub>
 
 </div>

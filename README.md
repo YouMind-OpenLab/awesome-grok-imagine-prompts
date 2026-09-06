@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2710** |
+| 📝 Total Prompts | **2717** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-06** |
 
@@ -189,11 +189,106 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Steampunk City Castle Wall Motion
+### Crashed Plane Cinematic Beach Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic camera motion prompt moving along castle walls overlooking a steampunk-style city at night.
+> A moody and detailed cinematic wide shot of a person sitting on the wreckage of a military plane on a stormy beach.
+
+#### 📝 Prompt
+
+```
+Cinematic wide shot of a person in a dark coat sitting on the wing of a crashed military transport plane on a rocky black beach, stormy grey clouds, waves crashing against the wreckage, water pouring from the fuselage, photoreal, moody atmosphere, ultra detailed, Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="Crashed Plane Cinematic Beach Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10432)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
+
+---
+### Celestial Labyrinth Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dreamlike prompt of a young woman walking through surreal nebular labyrinths and galaxies.
+
+#### 📝 Prompt
+
+```
+A young woman walks through a series of labyrinths, beautiful and surreal and dreamy, each one a starry landscape of nebulas and galaxies building on each other
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="Celestial Labyrinth Walk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
+
+**Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
+
+---
+### Neon Rooftop Feather Gown
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An elaborate cinematic video prompt of a woman in a pink feathered gown on a neon-lit balcony during rain.
+
+#### 📝 Prompt
+
+```
+Cinematic full-body shot of a confident woman with dark curly hair in a dramatic deep pink feathered evening gown standing on a wet neon rooftop balcony at night, looking back over her shoulder, rain reflections on glass, glowing pink and cyan city skyline, anime illustration style, ultra detailed
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="Neon Rooftop Feather Gown">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10431)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
+
+---
+### Playful Kitten in Snow
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for a kitten playing in the snow, featuring pouncing, rolling, and continuous motion.
+
+#### 📝 Prompt
+
+```
+The adorable orange tabby kitten playfully pounces on the snowball, then rolls and tumbles joyfully in the soft powdery snow, batting at falling snowflakes with its paws, snow flying up around it, continuous playful movements, natural cute kitten behavior
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="Playful Kitten in Snow">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10435)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **Published:** Sep 5, 2026
+
+---
+### Christmas Kitten in Snow
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A festive video prompt for a kitten playing in the snow with Christmas trees and decorations in the background.
+
+#### 📝 Prompt
+
+```
+Kitten playing in snow with Christmas decorations and a Christmas tree in the background, heavy snowfall falling all around
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="Christmas Kitten in Snow">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10433)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **Published:** Sep 5, 2026
+
+---
+### Steampunk City Castle Flyover
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic movement prompt showing a castle wall perspective looking down onto a steampunk city at night.
 
 #### 📝 Prompt
 
@@ -201,26 +296,26 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 Moving along the castle walls while looking down at the steampunk-style city at night.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="Steampunk City Castle Wall Motion">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="Steampunk City Castle Flyover">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10384)**
 
 **Author:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **Source:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **Published:** Sep 5, 2026
 
 ---
-### Action Movie Knighting Ceremony
+### Cinematic Knighting Ceremony Scene
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed cinematic prompt of a knight investiture ceremony in a royal throne room with a female hero and majestic atmosphere.
+> A cinematic action-movie style video prompt featuring a heroine's knighting ceremony in a grand royal palace with dramatic lighting and vibrant colors.
 
 #### 📝 Prompt
 
 ```
-An action movie-style scene where a beautiful female hero has an audience with a queen in the royal castle's throne room, and a knight investiture ceremony is being held. A solemn and dramatic atmosphere, luxurious royal interior, and vivid, noble colors.
+Action movie style scene, a beautiful female heroine meets the queen in the throne room of the royal castle, a knightly knighting ceremony is taking place, a solemn and dramatic atmosphere, luxurious royal interior, vivid and noble colors.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="Action Movie Knighting Ceremony">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="Cinematic Knighting Ceremony Scene">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10392)**
 
@@ -244,6 +339,44 @@ Infographic on how blue light rays prevent the production of melatonin and disru
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10385)**
 
 **Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
+
+---
+### Elon Musk as Dr. Evil Mandarin Lesson
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt featuring Elon Musk styled as Dr. Evil, speaking Mandarin Chinese to his son in a humorous language lesson.
+
+#### 📝 Prompt
+
+```
+Continue the scene: Elon Musk (Chinese-looking with black hair as Dr. Evil) strokes the white cat and speaks in Mandarin Chinese to his son Lil X (Mini-Me with black hair), teaching him a fun language lesson. Elon says "Little Mini, you complete me"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="Elon Musk as Dr. Evil Mandarin Lesson">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10436)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **Published:** Sep 4, 2026
+
+---
+### Romantic Couple Swinging Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine to animate a couple swinging affectionately while maintaining their exact features.
+
+#### 📝 Prompt
+
+```
+The two people swinging together lovingly on a swing, showing affection and love, smiling at each other romantically while swinging back and forth, keep their exact appearances, faces, clothing and features unchanged
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="Romantic Couple Swinging Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10434)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **Published:** Sep 4, 2026
 
 ---
 ### Underground Cave City Sci-Fi Scene
@@ -288,7 +421,7 @@ The astronaut floats gently in zero gravity, slowly rotating and looking around,
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-fidelity video prompt for realistic facial expressions and lip-syncing.
+> A photorealistic video prompt of a young Japanese streamer with continuous natural lip movements, high energy delivery, and expressive micro-expressions.
 
 #### 📝 Prompt
 
@@ -300,14 +433,14 @@ Close-up talking head, young Japanese streamer, continuous natural lip movements
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
 
-**Author:** [AIかぴ](https://x.com/ck_pkki2) | **Source:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **Published:** Sep 4, 2026
 
 ---
 ### Imperial Spaceship Arrival Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic prompt for Grok Imagine depicting a crowd watching an imperial spaceship arrive at their planet.
+> A crowd-scale prompt showing the arrival of an imperial vessel on a populated planet.
 
 #### 📝 Prompt
 
@@ -326,19 +459,19 @@ Everybody is gathering to watch the arrival of an imperial spaceship to their pl
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal and atmospheric video prompt featuring a lone figure facing a colossal stone disc on an endless cracked salt flat.
+> A cinematic wide shot featuring a solitary person in a dark coat standing upon a vast, cracked salt flat landscape, facing a massive stone-like circular disc.
 
 #### 📝 Prompt
 
 ```
-Cinematic wide shot of a lone figure in a dark coat standing on an endless cracked salt flat, facing a colossal cracked circular disc with concentric stone rings and a dark hole at the center, fractured stone and metal texture, long hard shadow across white earth, pale cloudy sky, quiet surreal atmosphere, painterly detail, intimate and still, ultra-detailed fabrics and weathered surface
+Cinematic wide shot of a lone figure in a dark coat standing on an endless cracked salt flat, facing a colossal cracked circular disc
 ```
 
 <img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="Lone Figure on Salt Flat">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
 
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **Published:** Sep 4, 2026
 
 ---
 ### Forgotten People Pegasus Flight
@@ -398,19 +531,19 @@ Animate this photo of the floppy-eared dog with him lifting his paw as if he wan
 **Author:** [Løen](https://x.com/l03n27) | **Source:** [Link](https://x.com/l03n27/status/2095697750130123031) | **Published:** Sep 4, 2026
 
 ---
-### Cinematic Transforming Robot
+### Cinematic Transforming Robot Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for generating a high-fidelity video of a transforming robot in a sci-fi setting with dramatic lighting.
+> A detailed prompt for generating a high-quality cinematic video of a massive transforming robot on a futuristic battlefield, featuring glowing energy cores and mechanical motion.
 
 #### 📝 Prompt
 
 ```
-THE NEXT EVOLUTION When machines become warriors, armor becomes more than protection. It becomes power. It becomes the future. Transform. Arm. Dominate. Visual style: cinematic + photorealistic, massive transforming robot, advanced , glowing energy cores, mechanical transformation, sparks and smoke, futuristic battlefield, dramatic lighting, slow-motion camera movement, ultra-detailed 8K sci-fi realism.
+THE NEXT EVOLUTION When machines become warriors, armor becomes more than protection. It becomes power. It becomes the future. Transform. Arm. Dominate.Visual style: cinematic + photorealistic, massive transforming robot, advanced , glowing energy cores, mechanical transformation, sparks and smoke, futuristic battlefield, dramatic lighting, slow-motion camera movement, ultra-detailed 8K sci-fi realism.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="Cinematic Transforming Robot">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="Cinematic Transforming Robot Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10344)**
 
@@ -717,11 +850,11 @@ A serene and peaceful good night scene featuring a large, bright full moon shini
 **Author:** [Mattie](https://x.com/Mattie129218) | **Source:** [Link](https://x.com/Mattie129218/status/2095033462776369428) | **Published:** Sep 2, 2026
 
 ---
-### Cinematic Duelist Storm Sequence
+### Stormy City Duelist
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sophisticated cinematic video prompt for Grok Imagine featuring a duelist in a storm, using specific timestamps to control a slow zoom and a sharp snap cut.
+> A linear scene direction prompt for a stylized duelist in a storm-dark city, demonstrating how to prompt environments and movements over a timeline.
 
 #### 📝 Prompt
 
@@ -735,7 +868,7 @@ The duelist in the torn haori holds a curved blade low at her right side, centre
  she flicks blood from it upwards in one sharp arc, the water breaking into spray off the steel
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="Cinematic Duelist Storm Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="Stormy City Duelist">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10247)**
 
@@ -1153,11 +1286,11 @@ Cinematic miniature rescue scene in a tiny realistic world, several miniature wo
 **Author:** [Nicholas](https://x.com/Mud01185127) | **Source:** [Link](https://x.com/Mud01185127/status/2094299423258067039) | **Published:** Aug 31, 2026
 
 ---
-### Suspenseful Cafe Narrative Video
+### Cinematic Café Suspense
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed 15-second cinematic video prompt for Grok Imagine that builds suspense in a cafe setting with specific time-based instructions.
+> A complex 15-second cinematic prompt that maintains character identity while progressing through a suspenseful narrative arc involving a phone message.
 
 #### 📝 Prompt
 
@@ -1177,7 +1310,7 @@ Create a photorealistic cinematic 15-second video from this exact image. Preserv
 Natural realistic acting, subtle facial expressions, realistic blinking, accurate hand and finger movements, believable phone interaction, natural hair physics, realistic fabric movement, warm sophisticated café ambience, shallow depth of field, very subtle handheld camera movement. Build suspense gradually. No exaggerated reactions, no sudden camera movements, no visible sender, no extra characters, no cuts, no face changes, no outfit changes, no distorted hands or phone.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094274016601313280/img/tDJlh3HquBBgCAQp.jpg" width="600" alt="Suspenseful Cafe Narrative Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094274016601313280/img/tDJlh3HquBBgCAQp.jpg" width="600" alt="Cinematic Café Suspense">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10138)**
 
@@ -2007,139 +2140,6 @@ SpaceX forge crew to MrFIXitX MoonBase forge colonization with payloads designed
 **Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
 
 ---
-### Korean Neighborhood Slice of Life Video Script
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic script for a 'slice of life' video of a couple walking through a Korean neighborhood alley.
-
-#### 📝 Prompt
-
-```
-Subject & Character Details\nSetting: A quiet, sun-dappled residential alley in an older Korean/East Asian neighborhood — narrow paved lane, low houses with tiled and corrugated roofs, tangled power lines overhead, potted plants, laundry hanging to dry, a parked bicycle, and a small convenience-store fridge stocked with drinks. Midday, warm natural sunlight with soft leaf-shadow dappling on the ground, filtered through overhanging tree branches. Handheld, walk-and-talk camera style, mostly following/tracking the couple from behind or in front.\n\nCharacter 1 — Man\nEast Asian male, appears late 20s–30s, short black tousled hair, clean-shaven with a soft, relaxed expression\nWearing an oversized, faded charcoal-grey/brown crewneck T-shirt with visible fabric wrinkles, loose beige/khaki wide-leg trousers, white sneakers\nWearing a wristwatch on left wrist\nCarries a woven tote bag with a small round yellow logo patch\nHolds a clear plastic bottle of iced tea/barley tea throughout\nCalm, warm, slightly playful demeanor — smiles, glances sideways at his companion, gestures gently while talking\n\nCharacter 2 — Woman\nEast Asian female, appears late 20s, dark hair pulled back into a low bun with loose face-framing strands\nWearing an oversized sage-green button-front shirt with sleeves loosely rolled, light blue/grey straw-colored jeans, white sneakers\nWears a thin pendant necklace\nAlso carries a woven tote bag and a bottled iced tea\nBright, easygoing expression — smiles, laughs softly, walks in step beside him\n\nRelationship/mood: Casual, affectionate couple on a relaxed neighborhood stroll after a small shopping trip — comfortable silence and small talk, natural chemistry, \"slice of life\" tone.\n\n0:00–0:05Wide shot from behind, the couple walking away from camera down a narrow tree-shaded alley. Man in grey tee and khakis on the left, woman in sage-green shirt and jeans on the right, both carrying white plastic shopping bags. Dappled sunlight on the pavement, bicycles and potted plants lining the walls, laundry hanging on the right. Slow steady tracking shot following them from behind.\n\n0:05–0:10Camera now leads them, shooting from the front/side at chest height. Man in foreground looks off to the side smiling, woman slightly behind him on the right, hair in a bun, also smiling. Laundry line and green foliage visible behind them, warm backlit sunlight. Camera slowly pans/tracks backward as they approach.\n0:10–0:15Close two-shot, camera facing them as they walk toward an open drink fridge outside a small shop. Man holds a bottle of iced tea up near his chin, talking with a thoughtful/animated gesture; woman beside him holds two bottles, smiling and glancing at him. Stocked beverage cooler with colorful bottles visible in the background on the right.\n\n0:15–0:20Medium shot, both now walking directly toward the camera holding iced tea bottles, both smiling warmly at s
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092618886546067456/img/yAeh9Kog_lpT6HmO.jpg" width="600" alt="Korean Neighborhood Slice of Life Video Script">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9963)**
-
-**Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2092884832816906256) | **Published:** Aug 27, 2026
-
----
-### Surreal Chewing Gum Interaction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal interaction prompt involving two figures and a chewing gum bubble.
-
-#### 📝 Prompt
-
-```
-Make the right face bite of the head form the left figure and make a big chewing gum bubble out of him
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="Surreal Chewing Gum Interaction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9929)**
-
-**Author:** [#vandehigh](https://x.com/vandehigh) | **Source:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **Published:** Aug 27, 2026
-
----
-### Bipedal White Flesh Being
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal and atmospheric horror video prompt of a shifting organic being in the mountains.
-
-#### 📝 Prompt
-
-```
-The fully formed bipedal white flesh being stands on the peak, slowly turns its head to look over the misty mountains, organic tissue shifting and dripping, atmospheric wind and fog movement.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="Bipedal White Flesh Being">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9923)**
-
-**Author:** [BecauseGIU*](https://x.com/BecausGIU) | **Source:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **Published:** Aug 27, 2026
-
----
-### Sky Falling Animal Toy Box
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt where a box falls from the sky and releases various toy animals and vehicles.
-
-#### 📝 Prompt
-
-```
-Box falls from the sky breaks open on the grass out of the box pops five random sea animal toys five random wild animal toys five random farm animal toys two toy tractors five toy classic cars five random charms bracket type charms
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="Sky Falling Animal Toy Box">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
-
----
-### Goddess Diana Archery Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dramatic video prompt depicting the goddess Diana in a dark misty forest.
-
-#### 📝 Prompt
-
-```
-Create a new dramatic variation of the fierce goddess Diana with silver-gray hair in a flowing white dress, leaping forward in a dark misty forest while drawing a large bow and aiming the arrow directly at the vi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092783400952438784/img/o_BndaBEHdZ4GrAN.jpg" width="600" alt="Goddess Diana Archery Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9960)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2092783433961590892) | **Published:** Aug 27, 2026
-
----
-### Pleiadian Light Ships Summer Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-definition sci-fi video prompt focusing on bright lighting and volumetric tones of celestial ships.
-
-#### 📝 Prompt
-
-```
-Pleiadian light ships in summer blue turquoise skies, masterpiece, ultra hd quality resolution 11111111111199999999999 k, volumetric bright lighting and colors tones
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092779708542779392/img/923tBS6kA-LuxU8x.jpg" width="600" alt="Pleiadian Light Ships Summer Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9966)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092779760585756700) | **Published:** Aug 27, 2026
-
----
-### Natural Steady Scene Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical video prompt that instructs the model to animate a scene naturally without camera movement, talking, or blinking.
-
-#### 📝 Prompt
-
-```
-Animate. Keep the scene and don't zoom in or out. no talking, or words. just natural existing. No blinking.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092757907360129024/img/Re-Uu0FV7fbY5LdQ.jpg" width="600" alt="Natural Steady Scene Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9958)**
-
-**Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2201,6 +2201,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T04:20:12.238Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T12:22:05.761Z</sub>
 
 </div>

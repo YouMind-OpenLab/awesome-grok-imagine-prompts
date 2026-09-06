@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2710** |
+| 📝 Total Prompts | **2717** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-06** |
 
@@ -189,6 +189,101 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Scène cinématographique d'un avion écrasé sur une plage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un plan large cinématographique, sombre et détaillé, montrant une personne assise sur l'épave d'un avion militaire sur une plage par temps d'orage.
+
+#### 📝 Prompt
+
+```
+Plan large cinématographique d'une personne en manteau sombre assise sur l'aile d'un avion de transport militaire écrasé sur une plage de sable noir rocheuse, nuages gris orageux, vagues s'écrasant contre l'épave, eau s'écoulant du fuselage, photoréaliste, atmosphère sombre, ultra détaillé, Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="Scène cinématographique d'un avion écrasé sur une plage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10432)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
+
+---
+### Promenade dans le labyrinthe céleste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt onirique représentant une jeune femme marchant à travers des labyrinthes nébuleux et des galaxies surréalistes.
+
+#### 📝 Prompt
+
+```
+Une jeune femme marche à travers une série de labyrinthes, à la fois beaux, surréalistes et oniriques, chacun formant un paysage étoilé de nébuleuses et de galaxies qui s'entremêlent.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="Promenade dans le labyrinthe céleste">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
+
+**Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
+
+---
+### Robe à plumes néon sur toit-terrasse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique élaboré représentant une femme en robe à plumes rose sur un balcon illuminé par des néons sous la pluie.
+
+#### 📝 Prompt
+
+```
+Plan cinématographique en pied d'une femme confiante aux cheveux bruns bouclés, portant une spectaculaire robe de soirée à plumes rose foncé, debout sur un toit-terrasse humide sous les néons la nuit, regardant par-dessus son épaule, reflets de pluie sur le verre, horizon urbain aux lueurs roses et cyan, style illustration anime, ultra détaillé
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="Robe à plumes néon sur toit-terrasse">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10431)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
+
+---
+### Chaton joueur dans la neige
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo détaillé pour un chaton jouant dans la neige, incluant des bonds, des roulades et un mouvement continu.
+
+#### 📝 Prompt
+
+```
+L'adorable chaton tigré roux bondit avec espièglerie sur la boule de neige, puis roule et se dégourdit joyeusement dans la neige poudreuse, tapant sur les flocons qui tombent avec ses pattes, la neige volant autour de lui, mouvements ludiques continus, comportement naturel et mignon de chaton
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="Chaton joueur dans la neige">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10435)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **Published:** Sep 5, 2026
+
+---
+### Chaton de Noël dans la neige
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo festif mettant en scène un chaton jouant dans la neige avec des sapins et des décorations de Noël en arrière-plan.
+
+#### 📝 Prompt
+
+```
+Chaton jouant dans la neige avec des décorations de Noël et un sapin en arrière-plan, fortes chutes de neige tout autour
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="Chaton de Noël dans la neige">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10433)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **Published:** Sep 5, 2026
+
+---
 ### Mouvement de caméra sur les remparts d'une cité steampunk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -246,6 +341,44 @@ Infographie sur la manière dont les rayons de lumière bleue empêchent la prod
 **Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
 
 ---
+### Elon Musk en Dr. Evil : leçon de mandarin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo créatif mettant en scène Elon Musk dans le rôle du Dr. Evil, donnant une leçon de mandarin humoristique à son fils.
+
+#### 📝 Prompt
+
+```
+Poursuivez la scène : Elon Musk (avec des traits asiatiques et des cheveux noirs, dans le rôle du Dr. Evil) caresse son chat blanc et s'adresse en mandarin à son fils Lil X (Mini-Moi avec des cheveux noirs) pour lui donner une leçon de langue amusante. Elon dit : « Petit Mini, tu me complètes »
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="Elon Musk en Dr. Evil : leçon de mandarin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10436)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **Published:** Sep 4, 2026
+
+---
+### Vidéo d'un couple romantique sur une balançoire
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo pour Grok Imagine afin d'animer un couple se balançant affectueusement tout en conservant leurs traits exacts.
+
+#### 📝 Prompt
+
+```
+Les deux personnes se balançant ensemble avec tendresse sur une balançoire, exprimant leur affection et leur amour, se souriant de manière romantique tout en allant et venant, en conservant leurs apparences, visages, vêtements et traits inchangés
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="Vidéo d'un couple romantique sur une balançoire">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10434)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **Published:** Sep 4, 2026
+
+---
 ### Scène de science-fiction : cité souterraine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -300,7 +433,7 @@ Gros plan sur un streamer japonais, mouvements naturels et continus des lèvres 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
 
-**Author:** [AIかぴ](https://x.com/ck_pkki2) | **Source:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **Published:** Sep 4, 2026
 
 ---
 ### Scène d'arrivée d'un vaisseau spatial impérial
@@ -338,7 +471,7 @@ Plan large cinématographique d'une silhouette solitaire en manteau sombre debou
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
 
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **Published:** Sep 4, 2026
 
 ---
 ### Le vol de Pégase des oubliés
@@ -1987,165 +2120,6 @@ Séquence cinématographique de 45 à 70 secondes dans le même style émotionne
 **Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
 
 ---
-### Script vidéo « tranche de vie » dans un quartier coréen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un script cinématographique très détaillé pour une vidéo « tranche de vie » montrant un couple se promenant dans une ruelle d'un quartier coréen.
-
-#### 📝 Prompt
-
-```
-Détails du sujet et des personnages
-Décor : Une ruelle résidentielle calme et ensoleillée dans un vieux quartier coréen/est-asiatique — ruelle pavée étroite, maisons basses aux toits de tuiles et de tôle ondulée, câbles électriques entremêlés au-dessus, plantes en pot, linge étendu, un vélo garé et un petit réfrigérateur de supérette rempli de boissons. Midi, lumière naturelle chaude avec des ombres de feuilles douces mouchetant le sol, filtrée par les branches d'arbres surplombantes. Style de caméra à l'épaule, type « walk-and-talk », suivant principalement le couple par derrière ou de face.
-
-Personnage 1 — Homme
-Homme est-asiatique, semble avoir entre 25 et 35 ans, cheveux noirs courts ébouriffés, rasé de près avec une expression douce et détendue.
-Porte un t-shirt col rond gris anthracite/marron délavé et oversize avec des plis visibles, un pantalon large beige/kaki, baskets blanches.
-Porte une montre-bracelet au poignet gauche.
-Porte un sac fourre-tout tissé avec un petit écusson logo jaune rond.
-Tient une bouteille en plastique transparente de thé glacé/thé d'orge tout au long de la scène.
-Comportement calme, chaleureux et légèrement joueur — sourit, jette des coups d'œil à sa compagne, fait des gestes doux en parlant.
-
-Personnage 2 — Femme
-Femme est-asiatique, semble avoir environ 25-30 ans, cheveux noirs attachés en un chignon bas avec des mèches encadrant le visage.
-Porte une chemise boutonnée vert sauge oversize avec les manches retroussées, un jean bleu clair/gris couleur paille, baskets blanches.
-Porte un collier fin avec pendentif.
-Porte également un sac fourre-tout tissé et une bouteille de thé glacé.
-Expression lumineuse et décontractée — sourit, rit doucement, marche au même rythme que lui.
-
-Relation/ambiance : Couple affectueux et décontracté lors d'une promenade tranquille dans le quartier après une petite virée shopping — silence confortable et petites discussions, complicité naturelle, ton « tranche de vie ».
-
-0:00–0:05 Plan large par derrière, le couple s'éloignant de la caméra dans une ruelle étroite ombragée par les arbres. L'homme en t-shirt gris et pantalon kaki à gauche, la femme en chemise vert sauge et jean à droite, tous deux portant des sacs de courses en plastique blanc. Lumière du soleil mouchetée sur le trottoir, vélos et plantes en pot le long des murs, linge étendu sur la droite. Travelling lent et régulier les suivant par derrière.
-
-0:05–0:10 La caméra les précède désormais, filmant de face/côté à hauteur de poitrine. L'homme au premier plan regarde sur le côté en souriant, la femme légèrement derrière lui à droite, cheveux en chignon, souriante également. Corde à linge et feuillage vert visibles derrière eux, lumière chaude en contre-jour. La caméra recule lentement alors qu'ils s'approchent.
-
-0:10–0:15 Plan rapproché à deux, caméra face à eux alors qu'ils se dirigent vers un réfrigérateur à boissons ouvert devant une petite boutique. L'homme tient une bouteille de thé glacé près de son menton, parlant avec un geste pensif/animé ; la femme à ses côtés tient deux bouteilles, sourit et le regarde. Réfrigérateur à boissons rempli de bouteilles colorées visible en arrière-plan sur la droite.
-
-0:15–0:20 Plan moyen, tous deux marchant maintenant directement vers la caméra en tenant des bouteilles de thé glacé, souriant chaleureusement à la c
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092618886546067456/img/yAeh9Kog_lpT6HmO.jpg" width="600" alt="Script vidéo « tranche de vie » dans un quartier coréen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9963)**
-
-**Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2092884832816906256) | **Published:** Aug 27, 2026
-
----
-### Animation de bulle de visage mordu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo surréaliste où un personnage mord le visage d'un autre pour créer une bulle de chewing-gum.
-
-#### 📝 Prompt
-
-```
-Faites en sorte que le personnage de gauche morde le visage du personnage de droite et crée une grosse bulle de chewing-gum à partir de lui
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="Animation de bulle de visage mordu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9929)**
-
-**Author:** [#vandehigh](https://x.com/vandehigh) | **Source:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **Published:** Aug 27, 2026
-
----
-### Être bipède au sommet d'une montagne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo détaillé de dark fantasy représentant un être de chair blanche sur un sommet montagneux brumeux avec des mouvements organiques.
-
-#### 📝 Prompt
-
-```
-L'être bipède de chair blanche, entièrement formé, se tient au sommet, tourne lentement la tête pour contempler les montagnes brumeuses, avec des tissus organiques qui se déplacent et suintent, le tout dans une atmosphère de vent et de brouillard en mouvement.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="Être bipède au sommet d'une montagne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9923)**
-
-**Author:** [BecauseGIU*](https://x.com/BecausGIU) | **Source:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **Published:** Aug 27, 2026
-
----
-### Boîte à jouets animaux tombant du ciel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo où une boîte tombe du ciel et libère divers jouets en forme d'animaux et de véhicules.
-
-#### 📝 Prompt
-
-```
-Une boîte tombe du ciel et s'ouvre sur l'herbe. De la boîte surgissent cinq jouets d'animaux marins aléatoires, cinq jouets d'animaux sauvages aléatoires, cinq jouets d'animaux de la ferme aléatoires, deux tracteurs miniatures, cinq voitures classiques miniatures et cinq breloques aléatoires de type support.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="Boîte à jouets animaux tombant du ciel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
-
----
-### Scène de tir à l'arc de la déesse Diane
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo dramatique représentant la déesse Diane dans une forêt sombre et brumeuse.
-
-#### 📝 Prompt
-
-```
-Créez une nouvelle variante dramatique de la farouche déesse Diane aux cheveux gris argenté, vêtue d'une robe blanche fluide, bondissant en avant dans une forêt sombre et brumeuse tout en bandant un grand arc et en visant directement avec la flèche...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092783400952438784/img/o_BndaBEHdZ4GrAN.jpg" width="600" alt="Scène de tir à l'arc de la déesse Diane">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9960)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2092783433961590892) | **Published:** Aug 27, 2026
-
----
-### Vidéo estivale de vaisseaux de lumière pléiadiens
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo de science-fiction en haute définition axé sur un éclairage lumineux et des tons volumétriques de vaisseaux célestes.
-
-#### 📝 Prompt
-
-```
-Vaisseaux de lumière pléiadiens dans des ciels bleu turquoise estivaux, chef-d'œuvre, qualité ultra HD résolution 11111111111199999999999 k, éclairage lumineux volumétrique et tons de couleurs
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092779708542779392/img/923tBS6kA-LuxU8x.jpg" width="600" alt="Vidéo estivale de vaisseaux de lumière pléiadiens">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9966)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092779760585756700) | **Published:** Aug 27, 2026
-
----
-### Animation de scène naturelle et stable
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo technique qui demande au modèle d'animer une scène de manière naturelle, sans mouvement de caméra, sans parole et sans clignement des yeux.
-
-#### 📝 Prompt
-
-```
-Animez. Gardez la scène fixe, sans zoom avant ni arrière. Pas de parole ni de mots. Uniquement un comportement naturel. Pas de clignement des yeux.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092757907360129024/img/Re-Uu0FV7fbY5LdQ.jpg" width="600" alt="Animation de scène naturelle et stable">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9958)**
-
-**Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2207,6 +2181,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T04:20:26.320Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T12:22:18.522Z</sub>
 
 </div>

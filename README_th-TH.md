@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2710** |
+| 📝 Total Prompts | **2717** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-06** |
 
@@ -189,6 +189,101 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ฉากภาพยนตร์เครื่องบินตกบนชายหาด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ภาพมุมกว้างแบบภาพยนตร์ที่ให้บรรยากาศหม่นและรายละเอียดสูง ของบุคคลที่นั่งอยู่บนซากเครื่องบินทหารบนชายหาดท่ามกลางพายุ
+
+#### 📝 Prompt
+
+```
+ภาพมุมกว้างแบบภาพยนตร์ของบุคคลในเสื้อโค้ทสีเข้มที่นั่งอยู่บนปีกของเครื่องบินขนส่งทหารที่ตกอยู่บนชายหาดหินสีดำ ท้องฟ้าเต็มไปด้วยเมฆพายุสีเทา คลื่นซัดเข้าหาซากเครื่องบิน น้ำไหลออกจากลำตัวเครื่องบิน สมจริง บรรยากาศหม่น รายละเอียดสูง Grok Imagine
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="ฉากภาพยนตร์เครื่องบินตกบนชายหาด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10432)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
+
+---
+### การเดินในเขาวงกตแห่งสรวงสวรรค์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวฝันหวานของหญิงสาวที่กำลังเดินผ่านเขาวงกตเนบิวลาและกาแล็กซีที่ดูเหนือจริง
+
+#### 📝 Prompt
+
+```
+หญิงสาวคนหนึ่งกำลังเดินผ่านเขาวงกตหลายแห่งที่สวยงาม เหนือจริง และดูราวกับความฝัน โดยแต่ละแห่งเป็นภูมิทัศน์ที่เต็มไปด้วยดวงดาว เนบิวลา และกาแล็กซีที่เชื่อมต่อกันอย่างต่อเนื่อง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="การเดินในเขาวงกตแห่งสรวงสวรรค์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
+
+**Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
+
+---
+### ชุดราตรีขนนกนีออนบนดาดฟ้า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์สุดอลังการของหญิงสาวในชุดราตรีขนนกสีชมพูบนระเบียงที่ประดับด้วยไฟนีออนท่ามกลางสายฝน
+
+#### 📝 Prompt
+
+```
+ภาพยนตร์ช็อตเต็มตัวของหญิงสาวผู้มั่นใจที่มีผมหยิกสีเข้ม สวมชุดราตรีขนนกสีชมพูเข้มสุดอลังการ ยืนอยู่บนระเบียงดาดฟ้าที่มีไฟนีออนท่ามกลางสายฝนในยามค่ำคืน หันกลับมามองข้ามไหล่ มีเงาสะท้อนของฝนบนกระจก ฉากหลังเป็นเส้นขอบฟ้าของเมืองที่ส่องแสงสีชมพูและสีฟ้า สไตล์ภาพประกอบอนิเมะ รายละเอียดคมชัดสูง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="ชุดราตรีขนนกนีออนบนดาดฟ้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10431)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
+
+---
+### ลูกแมวแสนซนในหิมะ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบละเอียดสำหรับลูกแมวที่กำลังเล่นหิมะ โดยเน้นท่าทางการกระโจน การกลิ้งตัว และการเคลื่อนไหวอย่างต่อเนื่อง
+
+#### 📝 Prompt
+
+```
+ลูกแมวส้มแสนน่ารักกระโจนเข้าใส่ก้อนหิมะอย่างสนุกสนาน จากนั้นกลิ้งตัวไปมาบนหิมะนุ่มฟูอย่างร่าเริง พร้อมใช้เท้าตะปบเกล็ดหิมะที่กำลังโปรยปราย มีหิมะกระเด็นฟุ้งกระจายรอบตัว แสดงท่าทางการเคลื่อนไหวที่ขี้เล่นอย่างต่อเนื่อง และพฤติกรรมลูกแมวที่น่ารักเป็นธรรมชาติ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="ลูกแมวแสนซนในหิมะ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10435)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **Published:** Sep 5, 2026
+
+---
+### ลูกแมวคริสต์มาสท่ามกลางหิมะ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ธีมเทศกาลสำหรับลูกแมวที่กำลังเล่นหิมะ โดยมีต้นคริสต์มาสและของตกแต่งเป็นฉากหลัง
+
+#### 📝 Prompt
+
+```
+ลูกแมวกำลังเล่นหิมะโดยมีของตกแต่งคริสต์มาสและต้นคริสต์มาสเป็นฉากหลัง พร้อมหิมะที่ตกหนักอยู่รอบ ๆ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="ลูกแมวคริสต์มาสท่ามกลางหิมะ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10433)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **Published:** Sep 5, 2026
+
+---
 ### ภาพเคลื่อนไหวแนวสตีมพังค์บนกำแพงปราสาทในเมือง
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -246,6 +341,44 @@ Why use our gallery?
 **Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
 
 ---
+### บทเรียนภาษาจีนของ Elon Musk ในบทบาท Dr. Evil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์สุดสร้างสรรค์ที่นำเสนอ Elon Musk ในลุค Dr. Evil กำลังสอนภาษาจีนกลางให้กับลูกชายของเขาผ่านบทเรียนภาษาที่เต็มไปด้วยความสนุกสนาน
+
+#### 📝 Prompt
+
+```
+ดำเนินฉากต่อ: Elon Musk (ในลุคชาวจีนผมดำแบบ Dr. Evil) กำลังลูบแมวสีขาวและพูดภาษาจีนกลางกับลูกชาย Lil X (ในลุค Mini-Me ผมดำ) เพื่อสอนบทเรียนภาษาแสนสนุก โดย Elon พูดว่า "Little Mini, you complete me"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="บทเรียนภาษาจีนของ Elon Musk ในบทบาท Dr. Evil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10436)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **Published:** Sep 4, 2026
+
+---
+### วิดีโอคู่รักกำลังเล่นชิงช้า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอด้วย Grok Imagine เพื่อสร้างแอนิเมชันคู่รักที่กำลังเล่นชิงช้าอย่างหวานชื่น โดยยังคงรายละเอียดใบหน้าและลักษณะเฉพาะของตัวละครไว้อย่างครบถ้วน
+
+#### 📝 Prompt
+
+```
+คนสองคนกำลังเล่นชิงช้าด้วยกันอย่างหวานชื่น แสดงความรักต่อกัน ยิ้มให้กันอย่างโรแมนติกขณะแกว่งชิงช้าไปมา โดยคงรูปลักษณ์ ใบหน้า เสื้อผ้า และลักษณะเฉพาะของทั้งคู่ไว้เหมือนเดิมทุกประการ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="วิดีโอคู่รักกำลังเล่นชิงช้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10434)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **Published:** Sep 4, 2026
+
+---
 ### ฉากเมืองในถ้ำใต้ดินสไตล์ไซไฟ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -300,7 +433,7 @@ Why use our gallery?
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
 
-**Author:** [AIかぴ](https://x.com/ck_pkki2) | **Source:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **Published:** Sep 4, 2026
 
 ---
 ### ฉากยานอวกาศจักรวรรดิมาถึง
@@ -338,7 +471,7 @@ Why use our gallery?
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
 
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **Published:** Sep 4, 2026
 
 ---
 ### เที่ยวบิน Pegasus ของผู้ถูกลืม
@@ -1987,164 +2120,6 @@ VALENTINO ROSSI ขึ้นขี่ Ducati Streetfighter R รุ่นแต�
 **Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
 
 ---
-### บทวิดีโอแนว Slice of Life ในย่านที่พักอาศัยสไตล์เกาหลี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> บทวิดีโอแนว 'Slice of Life' ที่มีความละเอียดสูงและให้ความรู้สึกแบบภาพยนตร์ สำหรับคู่รักที่กำลังเดินเล่นในตรอกย่านที่พักอาศัยสไตล์เกาหลี
-
-#### 📝 Prompt
-
-```
-รายละเอียดหัวข้อและตัวละคร
-สถานที่: ตรอกที่พักอาศัยอันเงียบสงบที่มีแสงแดดส่องถึงในย่านเก่าแก่ของเกาหลีหรือเอเชียตะวันออก — ทางเดินปูพื้นแคบๆ บ้านชั้นเดียวหลังคากระเบื้องและสังกะสี สายไฟระโยงระยางเหนือศีรษะ กระถางต้นไม้ เสื้อผ้าที่ตากไว้ จักรยานที่จอดอยู่ และตู้แช่เครื่องดื่มของร้านสะดวกซื้อขนาดเล็ก ช่วงกลางวัน แสงแดดธรรมชาติที่อบอุ่นพร้อมเงาใบไม้ที่ทอดลงบนพื้น กรองผ่านกิ่งไม้ที่ยื่นออกมา ใช้กล้องแบบถือถ่าย (Handheld) สไตล์เดินไปคุยไป โดยส่วนใหญ่จะติดตามคู่รักจากด้านหลังหรือด้านหน้า
-
-ตัวละครที่ 1 — ชาย
-ชายชาวเอเชียตะวันออก อายุประมาณปลาย 20 ถึง 30 ปี ผมสั้นสีดำยุ่งเล็กน้อย โกนหนวดเคราสะอาดสะอ้าน มีสีหน้าผ่อนคลายและดูอบอุ่น
-สวมเสื้อยืดคอกลมตัวโคร่งสีเทาเข้ม/น้ำตาลซีดที่มีรอยยับของเนื้อผ้า กางเกงขายาวทรงกระบอกกว้างสีเบจ/กากี รองเท้าผ้าใบสีขาว
-สวมนาฬิกาข้อมือที่ข้อมือซ้าย
-สะพายกระเป๋าผ้าทอที่มีป้ายโลโก้สีเหลืองวงกลมเล็กๆ
-ถือขวดพลาสติกใสบรรจุชาเย็น/ชาบาร์เลย์ตลอดเวลา
-ท่าทางสงบ อบอุ่น และขี้เล่นเล็กน้อย — ยิ้ม หันไปมองเพื่อนร่วมทาง และใช้ท่าทางประกอบการพูดอย่างนุ่มนวล
-
-ตัวละครที่ 2 — หญิง
-หญิงชาวเอเชียตะวันออก อายุประมาณปลาย 20 ปี ผมสีเข้มรวบเป็นมวยต่ำโดยมีปอยผมล้อมกรอบหน้า
-สวมเสื้อเชิ้ตกระดุมหน้าตัวโคร่งสีเขียวเซจ (Sage Green) พับแขนเสื้อแบบหลวมๆ กางเกงยีนส์สีฟ้าอ่อน/เทา รองเท้าผ้าใบสีขาว
-สวมสร้อยคอจี้เส้นเล็ก
-สะพายกระเป๋าผ้าทอและถือขวดชาเย็นเช่นกัน
-สีหน้าสดใส สบายๆ — ยิ้ม หัวเราะเบาๆ และเดินเคียงข้างเขาอย่างพร้อมเพรียง
-
-ความสัมพันธ์/บรรยากาศ: คู่รักที่ดูเป็นกันเองและมีความรักให้กัน กำลังเดินเล่นในย่านที่พักอาศัยอย่างผ่อนคลายหลังจากไปซื้อของเล็กๆ น้อยๆ — ความเงียบที่แสนสบายและการพูดคุยเรื่องสัพเพเหระ เคมีที่เป็นธรรมชาติ ในโทนแบบ "Slice of Life"
-
-0:00–0:05 ภาพมุมกว้างจากด้านหลัง คู่รักกำลังเดินห่างออกจากกล้องไปตามตรอกแคบๆ ที่มีต้นไม้ให้ร่มเงา ชายในเสื้อยืดสีเทาและกางเกงกากีอยู่ทางซ้าย หญิงในเสื้อสีเขียวเซจและกางเกงยีนส์อยู่ทางขวา ทั้งคู่ถือถุงพลาสติกใส่ของสีขาว แสงแดดส่องผ่านใบไม้ลงบนพื้นถนน มีจักรยานและกระถางต้นไม้เรียงรายอยู่ตามผนัง และมีเสื้อผ้าตากอยู่ทางขวา เป็นช็อตติดตาม (Tracking shot) ที่นิ่งและช้าตามหลังพวกเขาไป
-
-0:05–0:10 กล้องนำหน้าพวกเขา ถ่ายจากด้านหน้า/ด้านข้างที่ระดับหน้าอก ชายในฉากหน้าหันไปมองด้านข้างพร้อมรอยยิ้ม หญิงที่อยู่ด้านหลังเขาเล็กน้อยทางขวา ผมมวย ยิ้มเช่นกัน มีราวตากผ้าและใบไม้สีเขียวอยู่ด้านหลัง แสงแดดส่องจากด้านหลังที่อบอุ่น กล้องค่อยๆ แพน/ติดตามถอยหลังขณะที่พวกเขาเดินเข้ามาใกล้
-0:10–0:15 ภาพ Close-up สองคน กล้องหันหน้าเข้าหาพวกเขาขณะที่เดินไปที่ตู้แช่เครื่องดื่มที่เปิดอยู่หน้าร้านเล็กๆ ชายถือขวดชาเย็นขึ้นมาใกล้คาง พูดคุยด้วยท่าทางที่ดูครุ่นคิด/มีชีวิตชีวา หญิงข้างๆ ถือขวดสองขวด ยิ้มและหันไปมองเขา มีตู้แช่เครื่องดื่มที่มีขวดสีสันสดใสอยู่ด้านหลังทางขวา
-
-0:15–0:20 ภาพ Medium shot ทั้งคู่เดินตรงมาที่กล้องโดยถือขวดชาเย็น ทั้งคู่ยิ้มอย่างอบอุ่นให้กัน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092618886546067456/img/yAeh9Kog_lpT6HmO.jpg" width="600" alt="บทวิดีโอแนว Slice of Life ในย่านที่พักอาศัยสไตล์เกาหลี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9963)**
-
-**Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2092884832816906256) | **Published:** Aug 27, 2026
-
----
-### แอนิเมชันกัดหน้าเป็นฟองสบู่
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แนวเหนือจริงที่ตัวละครหนึ่งกัดหน้าอีกตัวหนึ่งแล้วเป่าออกมาเป็นฟองหมากฝรั่ง
-
-#### 📝 Prompt
-
-```
-ทำให้ตัวละครทางขวากัดที่ใบหน้าของตัวละครทางซ้าย แล้วเป่าออกมาเป็นฟองหมากฝรั่งขนาดใหญ่จากตัวเขา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="แอนิเมชันกัดหน้าเป็นฟองสบู่">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9929)**
-
-**Author:** [#vandehigh](https://x.com/vandehigh) | **Source:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **Published:** Aug 27, 2026
-
----
-### สิ่งมีชีวิตสองขาบนยอดเขา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แนวแฟนตาซีมืดมนที่แสดงภาพสิ่งมีชีวิตผิวสีขาวบนยอดเขาที่มีหมอกปกคลุม พร้อมการเคลื่อนไหวที่เป็นธรรมชาติ
-
-#### 📝 Prompt
-
-```
-สิ่งมีชีวิตสองขาผิวสีขาวที่สมบูรณ์ยืนอยู่บนยอดเขา ค่อยๆ หันศีรษะไปมองทิวเขาท่ามกลางสายหมอก เนื้อเยื่ออินทรีย์มีการขยับและหยดลงมา พร้อมการเคลื่อนไหวของลมและหมอกที่สร้างบรรยากาศสมจริง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="สิ่งมีชีวิตสองขาบนยอดเขา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9923)**
-
-**Author:** [BecauseGIU*](https://x.com/BecausGIU) | **Source:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **Published:** Aug 27, 2026
-
----
-### กล่องของเล่นสัตว์ตกจากฟ้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่แสดงภาพกล่องตกลงมาจากท้องฟ้าแล้วเปิดออก เผยให้เห็นของเล่นรูปสัตว์และยานพาหนะต่างๆ
-
-#### 📝 Prompt
-
-```
-กล่องตกลงมาจากท้องฟ้าแล้วแตกออกบนพื้นหญ้า จากนั้นมีของเล่นรูปสัตว์ทะเลแบบสุ่ม 5 ชิ้น ของเล่นรูปสัตว์ป่าแบบสุ่ม 5 ชิ้น ของเล่นรูปสัตว์ในฟาร์มแบบสุ่ม 5 ชิ้น รถแทรกเตอร์ของเล่น 2 คัน รถคลาสสิกของเล่น 5 คัน และชาร์มแบบสุ่มอีก 5 ชิ้นที่เป็นแบบตัวยึด
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="กล่องของเล่นสัตว์ตกจากฟ้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
-
----
-### ฉากการยิงธนูของเทพีไดอาน่า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แนวตื่นตาตื่นใจที่ถ่ายทอดภาพเทพีไดอาน่าในป่ามืดมิดที่มีหมอกปกคลุม
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอรูปแบบใหม่ที่ดูตื่นตาตื่นใจของเทพีไดอาน่าผู้ดุดัน โดยมีผมสีเทาเงินและสวมชุดสีขาวพลิ้วไหว กำลังกระโดดไปข้างหน้าในป่ามืดมิดที่มีหมอกปกคลุม พร้อมกับง้างคันธนูขนาดใหญ่และเล็งลูกธนูไปที่...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092783400952438784/img/o_BndaBEHdZ4GrAN.jpg" width="600" alt="ฉากการยิงธนูของเทพีไดอาน่า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9960)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2092783433961590892) | **Published:** Aug 27, 2026
-
----
-### วิดีโอฤดูร้อนของยานอวกาศแห่งแสง Pleiadian
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวไซไฟความละเอียดสูงที่เน้นแสงสว่างจ้าและโทนสีแบบวอลลูเมตริกของยานอวกาศจากฟากฟ้า
-
-#### 📝 Prompt
-
-```
-ยานอวกาศแห่งแสง Pleiadian ในท้องฟ้าสีฟ้าเทอร์ควอยซ์ช่วงฤดูร้อน, ผลงานชิ้นเอก, ความละเอียดคุณภาพระดับ Ultra HD 11111111111199999999999 k, แสงสว่างจ้าแบบวอลลูเมตริกและโทนสี
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092779708542779392/img/923tBS6kA-LuxU8x.jpg" width="600" alt="วิดีโอฤดูร้อนของยานอวกาศแห่งแสง Pleiadian">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9966)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092779760585756700) | **Published:** Aug 27, 2026
-
----
-### การทำแอนิเมชันฉากให้นิ่งและเป็นธรรมชาติ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) เชิงเทคนิคสำหรับวิดีโอที่ใช้สั่งให้โมเดลสร้างแอนิเมชันในฉากอย่างเป็นธรรมชาติ โดยไม่มีการเคลื่อนไหวของกล้อง ไม่มีการพูด และไม่มีการกะพริบตา
-
-#### 📝 Prompt
-
-```
-ทำแอนิเมชัน โดยคงฉากเดิมไว้และห้ามซูมเข้าหรือซูมออก ไม่มีการพูดหรือใช้คำพูดใดๆ ให้คงความเป็นธรรมชาติของฉากเดิมไว้ และห้ามกะพริบตา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092757907360129024/img/Re-Uu0FV7fbY5LdQ.jpg" width="600" alt="การทำแอนิเมชันฉากให้นิ่งและเป็นธรรมชาติ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9958)**
-
-**Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2206,6 +2181,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T04:20:19.391Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T12:22:10.998Z</sub>
 
 </div>

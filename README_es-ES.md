@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2710** |
+| 📝 Total Prompts | **2717** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-06** |
 
@@ -189,6 +189,101 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Escena cinematográfica de avión estrellado en la playa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un plano cinematográfico amplio, detallado y melancólico de una persona sentada sobre los restos de un avión militar en una playa durante una tormenta.
+
+#### 📝 Prompt
+
+```
+Plano cinematográfico amplio de una persona con abrigo oscuro sentada sobre el ala de un avión de transporte militar estrellado en una playa rocosa de arena negra, nubes grises de tormenta, olas rompiendo contra los restos, agua brotando del fuselaje, fotorrealista, atmósfera melancólica, ultra detallado, Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="Escena cinematográfica de avión estrellado en la playa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10432)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
+
+---
+### Caminata por el laberinto celestial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt onírico de una joven caminando a través de laberintos nebulares y galaxias surrealistas.
+
+#### 📝 Prompt
+
+```
+Una joven camina a través de una serie de laberintos, hermosos, surrealistas y de ensueño, cada uno de ellos un paisaje estelar de nebulosas y galaxias que se construyen unos sobre otros
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="Caminata por el laberinto celestial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
+
+**Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
+
+---
+### Vestido de plumas neón en azotea
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un elaborado prompt de video cinematográfico de una mujer con un vestido de plumas rosa en un balcón iluminado con luces de neón bajo la lluvia.
+
+#### 📝 Prompt
+
+```
+Plano cinematográfico de cuerpo completo de una mujer segura de sí misma con cabello oscuro rizado, vistiendo un dramático vestido de noche de plumas rosa intenso, de pie en un balcón de azotea con luces de neón bajo la lluvia por la noche, mirando por encima del hombro, reflejos de lluvia en el cristal, horizonte de la ciudad con tonos rosa y cian brillantes, estilo de ilustración anime, ultra detallado
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="Vestido de plumas neón en azotea">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10431)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
+
+---
+### Gatito juguetón en la nieve
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video detallado de un gatito jugando en la nieve, que incluye saltos, volteretas y movimiento continuo.
+
+#### 📝 Prompt
+
+```
+El adorable gatito atigrado naranja salta juguetonamente sobre la bola de nieve, luego rueda y da volteretas alegremente en la nieve suave y fina, golpeando los copos de nieve que caen con sus patas, con la nieve volando a su alrededor, movimientos juguetones continuos, comportamiento natural y tierno de un gatito
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="Gatito juguetón en la nieve">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10435)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **Published:** Sep 5, 2026
+
+---
+### Gatito navideño en la nieve
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video festivo de un gatito jugando en la nieve con árboles de Navidad y decoraciones de fondo.
+
+#### 📝 Prompt
+
+```
+Gatito jugando en la nieve con decoraciones navideñas y un árbol de Navidad de fondo, con una fuerte nevada cayendo alrededor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="Gatito navideño en la nieve">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10433)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **Published:** Sep 5, 2026
+
+---
 ### Movimiento de cámara en muralla de castillo steampunk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -246,6 +341,44 @@ Infografía sobre cómo los rayos de luz azul impiden la producción de melatoni
 **Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
 
 ---
+### Elon Musk como el Dr. Maligno en una lección de mandarín
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un creativo prompt de video que presenta a Elon Musk al estilo del Dr. Maligno, hablando mandarín a su hijo en una divertida lección de idiomas.
+
+#### 📝 Prompt
+
+```
+Continúa la escena: Elon Musk (con apariencia china y cabello negro como el Dr. Maligno) acaricia al gato blanco y le habla en mandarín a su hijo Lil X (Mini-Yo con cabello negro), enseñándole una divertida lección de idiomas. Elon dice: "Pequeño Mini, me completas"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="Elon Musk como el Dr. Maligno en una lección de mandarín">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10436)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **Published:** Sep 4, 2026
+
+---
+### Video de pareja romántica columpiándose
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video para Grok Imagine para animar a una pareja columpiándose afectuosamente mientras mantienen sus rasgos exactos.
+
+#### 📝 Prompt
+
+```
+Las dos personas columpiándose juntas amorosamente, mostrando afecto y cariño, sonriéndose el uno al otro de forma romántica mientras se balancean de atrás hacia adelante, manteniendo sus apariencias, rostros, vestimenta y rasgos exactos sin cambios
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="Video de pareja romántica columpiándose">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10434)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **Published:** Sep 4, 2026
+
+---
 ### Escena de ciencia ficción: Ciudad en caverna subterránea
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -300,7 +433,7 @@ Primer plano de cabeza parlante, streamer japonés joven, movimientos labiales n
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
 
-**Author:** [AIかぴ](https://x.com/ck_pkki2) | **Source:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **Published:** Sep 4, 2026
 
 ---
 ### Escena de llegada de una nave espacial imperial
@@ -338,7 +471,7 @@ Plano cinematográfico abierto de una figura solitaria con abrigo oscuro de pie 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
 
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **Published:** Sep 4, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **Published:** Sep 4, 2026
 
 ---
 ### El vuelo de Pegaso de los olvidados
@@ -1987,164 +2120,6 @@ Equipo de forja de SpaceX para la colonización de la base lunar de MrFIXitX con
 **Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
 
 ---
-### Guion de video de estilo 'slice of life' en un barrio coreano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un guion cinematográfico altamente detallado para un video de estilo 'slice of life' de una pareja caminando por un callejón de un barrio coreano.
-
-#### 📝 Prompt
-
-```
-Detalles del sujeto y los personajes
-Escenario: Un callejón residencial tranquilo y bañado por el sol en un antiguo barrio coreano/asiático: camino estrecho pavimentado, casas bajas con techos de tejas y láminas corrugadas, cables eléctricos enredados arriba, plantas en macetas, ropa tendida para secar, una bicicleta estacionada y un pequeño refrigerador de tienda de conveniencia lleno de bebidas. Mediodía, luz solar natural cálida con sombras suaves de hojas proyectadas en el suelo, filtradas a través de ramas de árboles colgantes. Estilo de cámara en mano, tipo 'walk-and-talk', siguiendo principalmente a la pareja desde atrás o desde adelante.
-
-Personaje 1 — Hombre
-Varón de Asia Oriental, aparenta entre 20 y 30 años, cabello negro corto y despeinado, afeitado, con una expresión suave y relajada.
-Lleva una camiseta de cuello redondo de color gris carbón/marrón descolorido de talla grande con arrugas visibles en la tela, pantalones anchos de color beige/caqui, zapatillas blancas.
-Lleva un reloj de pulsera en la muñeca izquierda.
-Lleva un bolso de tela tejido con un pequeño parche con un logotipo redondo amarillo.
-Sostiene una botella de plástico transparente de té helado/té de cebada durante todo el recorrido.
-Comportamiento tranquilo, cálido y ligeramente juguetón: sonríe, mira de reojo a su acompañante, gesticula suavemente mientras habla.
-
-Personaje 2 — Mujer
-Mujer de Asia Oriental, aparenta unos 20 años, cabello oscuro recogido en un moño bajo con mechones sueltos que enmarcan el rostro.
-Lleva una camisa de botones de color verde salvia de talla grande con las mangas ligeramente enrolladas, jeans de color azul claro/grisáceo, zapatillas blancas.
-Lleva un collar con un colgante fino.
-También lleva un bolso de tela tejido y una botella de té helado.
-Expresión brillante y despreocupada: sonríe, ríe suavemente, camina al paso junto a él.
-
-Relación/ambiente: Pareja cariñosa y casual en un paseo relajado por el barrio después de una pequeña compra: silencio cómodo y charla trivial, química natural, tono de "slice of life".
-
-0:00–0:05 Plano general desde atrás, la pareja alejándose de la cámara por un callejón estrecho a la sombra de los árboles. El hombre con camiseta gris y pantalones caqui a la izquierda, la mujer con camisa verde salvia y jeans a la derecha, ambos cargando bolsas de plástico blancas de la compra. Luz solar moteada en el pavimento, bicicletas y plantas en macetas bordeando las paredes, ropa tendida a la derecha. Plano de seguimiento lento y constante detrás de ellos.
-
-0:05–0:10 La cámara ahora los guía, grabando desde el frente/lado a la altura del pecho. El hombre en primer plano mira hacia un lado sonriendo, la mujer ligeramente detrás de él a la derecha, con el cabello en un moño, también sonriendo. Tendedero de ropa y follaje verde visibles detrás de ellos, luz solar cálida a contraluz. La cámara hace un paneo/seguimiento lento hacia atrás a medida que se acercan.
-0:10–0:15 Plano doble cerrado, la cámara frente a ellos mientras caminan hacia un refrigerador de bebidas abierto fuera de una pequeña tienda. El hombre sostiene una botella de té helado cerca de su barbilla, hablando con un gesto pensativo/animado; la mujer a su lado sostiene dos botellas, sonriendo y mirándolo. Refrigerador de bebidas surtido con botellas coloridas visible al fondo a la derecha.
-
-0:15–0:20 Plano medio, ambos caminando directamente hacia la cámara sosteniendo botellas de té helado, ambos sonriendo cálidamente a la c
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092618886546067456/img/yAeh9Kog_lpT6HmO.jpg" width="600" alt="Guion de video de estilo 'slice of life' en un barrio coreano">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9963)**
-
-**Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2092884832816906256) | **Published:** Aug 27, 2026
-
----
-### Animación de burbuja al morder la cara
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video surrealista donde una figura muerde la cara de otra y crea una burbuja de chicle.
-
-#### 📝 Prompt
-
-```
-Haz que la figura de la izquierda muerda la cara de la figura de la derecha y crea una gran burbuja de chicle a partir de él
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="Animación de burbuja al morder la cara">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9929)**
-
-**Author:** [#vandehigh](https://x.com/vandehigh) | **Source:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **Published:** Aug 27, 2026
-
----
-### Ser bípedo en la cima de la montaña
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un detallado prompt de video de fantasía oscura que representa a un ser de carne blanca en la cima de una montaña brumosa con movimiento orgánico.
-
-#### 📝 Prompt
-
-```
-El ser bípedo de carne blanca completamente formado se encuentra en la cima, gira lentamente la cabeza para observar las montañas brumosas, con tejido orgánico que se desplaza y gotea, y movimiento atmosférico de viento y niebla.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="Ser bípedo en la cima de la montaña">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9923)**
-
-**Author:** [BecauseGIU*](https://x.com/BecausGIU) | **Source:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **Published:** Aug 27, 2026
-
----
-### Caja de juguetes de animales que cae del cielo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video donde una caja cae del cielo y libera varios juguetes de animales y vehículos.
-
-#### 📝 Prompt
-
-```
-Una caja cae del cielo y se abre al impactar contra el césped; de la caja salen cinco juguetes de animales marinos al azar, cinco juguetes de animales salvajes al azar, cinco juguetes de animales de granja al azar, dos tractores de juguete, cinco coches clásicos de juguete y cinco dijes al azar tipo soporte
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="Caja de juguetes de animales que cae del cielo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9932)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **Published:** Aug 27, 2026
-
----
-### Escena de tiro con arco de la diosa Diana
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video dramático que representa a la diosa Diana en un bosque oscuro y neblinoso.
-
-#### 📝 Prompt
-
-```
-Crea una nueva variación dramática de la feroz diosa Diana con cabello gris plateado y un vestido blanco fluido, saltando hacia adelante en un bosque oscuro y neblinoso mientras tensa un gran arco y apunta la flecha directamente al vi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092783400952438784/img/o_BndaBEHdZ4GrAN.jpg" width="600" alt="Escena de tiro con arco de la diosa Diana">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9960)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2092783433961590892) | **Published:** Aug 27, 2026
-
----
-### Video de verano de naves de luz pleyadianas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video de ciencia ficción en alta definición centrado en iluminación brillante y tonos volumétricos de naves celestiales.
-
-#### 📝 Prompt
-
-```
-Naves de luz pleyadianas en cielos azul turquesa de verano, obra maestra, calidad ultra HD resolución 11111111111199999999999 k, iluminación brillante volumétrica y tonos de color
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092779708542779392/img/923tBS6kA-LuxU8x.jpg" width="600" alt="Video de verano de naves de luz pleyadianas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9966)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092779760585756700) | **Published:** Aug 27, 2026
-
----
-### Animación de escena natural y estable
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video técnico que instruye al modelo para animar una escena de forma natural sin movimiento de cámara, habla ni parpadeo.
-
-#### 📝 Prompt
-
-```
-Anima. Mantén la escena y no hagas zoom ni alejes la imagen. Sin habla ni palabras. Solo una existencia natural. Sin parpadeos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092757907360129024/img/Re-Uu0FV7fbY5LdQ.jpg" width="600" alt="Animación de escena natural y estable">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9958)**
-
-**Author:** [BRENT REEVES](https://x.com/Breeves1979) | **Source:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **Published:** Aug 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2206,6 +2181,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T04:20:23.153Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T12:22:13.712Z</sub>
 
 </div>

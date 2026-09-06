@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2710** |
+| 📝 プロンプト総数 | **2717** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-06** |
 
@@ -189,6 +189,101 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 墜落した飛行機とビーチのシネマティックなシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 嵐のビーチで、軍用機の残骸に座る人物を捉えた、ムードのある詳細なシネマティック・ワイドショット。
+
+#### 📝 プロンプト
+
+```
+岩だらけの黒いビーチに墜落した軍用輸送機の翼の上に、ダークコートを着た人物が座っている様子を捉えたシネマティック・ワイドショット。嵐の灰色の雲、残骸に打ち寄せる波、機体から流れ出る水、フォトリアル、ムードのある雰囲気、超高精細、Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="墜落した飛行機とビーチのシネマティックなシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10432)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **公開日:** Sep 6, 2026
+
+---
+### Celestial Labyrinth Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 星雲や銀河が広がるシュールな迷宮を歩く、夢のような若い女性のプロンプト。
+
+#### 📝 プロンプト
+
+```
+星雲や銀河が織りなす星空の風景が次々と重なり合う、美しくシュールで夢のような迷宮の数々を歩く若い女性。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="Celestial Labyrinth Walk">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10430)**
+
+**作者:** [Jillian Spiridon](https://x.com/jillianspiridon) | **ソース:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **公開日:** Sep 6, 2026
+
+---
+### ネオンの屋上で羽を纏うドレス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 雨の降るネオンのバルコニーで、ピンクの羽のドレスを纏った女性の精巧なシネマティック動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+夜の濡れたネオンの屋上バルコニーに立つ、自信に満ちたダークカーリーヘアの女性の全身シネマティックショット。ドラマチックな濃いピンクの羽のイブニングドレスを纏い、肩越しに振り返る姿。ガラスに反射する雨、輝くピンクとシアンの街のスカイライン、アニメイラストスタイル、超高精細
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="ネオンの屋上で羽を纏うドレス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10431)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **公開日:** Sep 5, 2026
+
+---
+### 雪の中で遊ぶ子猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 雪の中で飛び跳ねたり、転がったり、動き回ったりする子猫の様子を描写した詳細なビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+愛らしいオレンジ色のトラ猫の子猫が、雪玉に元気よく飛びかかり、柔らかいパウダースノーの中で楽しそうに転げ回る。前足で舞い落ちる雪を叩き、周囲に雪を散らしながら、絶え間なく遊び回る様子。子猫らしい自然で可愛らしい動き。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="雪の中で遊ぶ子猫">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10435)**
+
+**作者:** [Grok imagine user](https://x.com/imagine_user_) | **ソース:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **公開日:** Sep 5, 2026
+
+---
+### 雪の中のクリスマス子猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> クリスマスツリーや装飾を背景に、雪の中で遊ぶ子猫のフェスティバル風ビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+クリスマスツリーや装飾を背景に雪の中で遊ぶ子猫、周囲には激しく降り積もる雪
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="雪の中のクリスマス子猫">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10433)**
+
+**作者:** [Grok imagine user](https://x.com/imagine_user_) | **ソース:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **公開日:** Sep 5, 2026
+
+---
 ### スチームパンク風の都市を見下ろす城壁のカメラモーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -246,6 +341,44 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **作者:** [Callum Conway](https://x.com/wordsbycallum) | **ソース:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **公開日:** Sep 5, 2026
 
 ---
+### イーロン・マスクがドクター・イーブルに扮する中国語レッスン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> イーロン・マスクがドクター・イーブルのスタイルで、息子に中国語を教えるというユーモラスな設定のクリエイティブな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+シーンの続き：イーロン・マスク（ドクター・イーブル風の黒髪で中国人のような外見）が白い猫を撫でながら、息子である Lil X（ミニ・ミー風の黒髪）に中国語で楽しいレッスンを行う。イーロンは「Little Mini, you complete me（小さなミニ、お前は私を完成させてくれる）」と語りかける。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="イーロン・マスクがドクター・イーブルに扮する中国語レッスン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10436)**
+
+**作者:** [Cyperpienso](https://x.com/cyperpienso) | **ソース:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **公開日:** Sep 4, 2026
+
+---
+### ブランコに乗るカップルのロマンチックな動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、カップルが仲睦まじくブランコに乗る様子を、外見を維持したままアニメーション化するための動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+2 人がブランコで仲良く揺られており、愛情と親密さを表現している。ブランコを漕ぎながらロマンチックに見つめ合い、微笑んでいる。2 人の容姿、顔立ち、服装、特徴を正確に維持すること。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="ブランコに乗るカップルのロマンチックな動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10434)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **公開日:** Sep 4, 2026
+
+---
 ### 地下洞窟都市の SF シーン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -300,7 +433,7 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10389)**
 
-**作者:** [AIかぴ](https://x.com/ck_pkki2) | **ソース:** [Link](https://x.com/ck_pkki2/status/2095869011255009523) | **公開日:** Sep 4, 2026
+**作者:** [Sahil Verma](https://x.com/sahilvermaai) | **ソース:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **公開日:** Sep 4, 2026
 
 ---
 ### 帝国宇宙船の到着シーン
@@ -338,7 +471,7 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10387)**
 
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2095821678131454101) | **公開日:** Sep 4, 2026
+**作者:** [Sahil Verma](https://x.com/sahilvermaai) | **ソース:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **公開日:** Sep 4, 2026
 
 ---
 ### 忘れ去られた人々のペガサス飛行
@@ -1987,165 +2120,6 @@ SpaceX のフォージクルーが MrFIXitX 月面基地の植民化に向けて
 **作者:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **ソース:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **公開日:** Aug 27, 2026
 
 ---
-### 韓国の路地裏を舞台にした日常系動画スクリプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 韓国の路地裏を歩くカップルを題材にした、日常系動画用の詳細なシネマティック・スクリプトです。
-
-#### 📝 プロンプト
-
-```
-被写体およびキャラクターの詳細
-舞台設定：韓国や東アジアの古い住宅街にある、木漏れ日が差し込む静かな路地。狭い舗装路、瓦や波板屋根の低い家々、頭上に絡まる電線、鉢植え、干された洗濯物、停められた自転車、飲み物が並ぶ小さなコンビニの冷蔵庫。時間帯は昼過ぎ。木々の枝越しに差し込む温かな自然光が、地面に柔らかな木漏れ日を落としている。ハンディカメラによる「ウォーク・アンド・トーク」スタイルで、主にカップルの後ろや前から追うように撮影。
-
-キャラクター 1 — 男性
-東アジア系の男性。20 代後半〜30 代に見える。黒髪のショートヘアで少し無造作。髭はなく、柔らかくリラックスした表情。
-色あせたチャコールグレーまたはブラウンのオーバーサイズ・クルーネック T シャツ（生地に自然なシワあり）、ゆったりとしたベージュまたはカーキのワイドパンツ、白いスニーカーを着用。
-左手首に腕時計。
-小さな黄色い丸いロゴパッチが付いた織り地のトートバッグを所持。
-透明なプラスチックボトルに入ったアイスティー（または麦茶）を手に持っている。
-穏やかで温かく、少し遊び心のある雰囲気。微笑んだり、横にいるパートナーに視線を向けたり、話しながら優しく身振り手振りを交える。
-
-キャラクター 2 — 女性
-東アジア系の女性。20 代後半に見える。ダークヘアを低い位置でお団子にまとめ、顔周りに後れ毛を残している。
-セージグリーンのオーバーサイズ・ボタンシャツ（袖をラフにロールアップ）、ライトブルーまたはグレーがかったストレートジーンズ、白いスニーカーを着用。
-細いペンダントネックレスを着用。
-男性と同様に織り地のトートバッグとボトル入りのアイスティーを所持。
-明るく気さくな表情。微笑み、柔らかく笑いながら、男性と歩調を合わせて歩く。
-
-関係性・ムード：ちょっとした買い物の帰りに近所を散歩する、親密でリラックスしたカップル。心地よい沈黙と何気ない会話、自然な相性。「日常系」のトーン。
-
-0:00–0:05：後ろからのワイドショット。木陰のある狭い路地をカメラから遠ざかるように歩くカップル。左側にグレーの T シャツとカーキパンツの男性、右側にセージグリーンのシャツとジーンズの女性。二人とも白いビニール袋を提げている。舗装路には木漏れ日が差し込み、壁沿いには自転車や鉢植え、右側には洗濯物が干されている。二人を後ろから追う、ゆっくりとした安定したトラッキングショット。
-
-0:05–0:10：カメラが前方に回り込み、胸の高さから正面または横から撮影。手前にいる男性は横を見ながら微笑み、その少し後ろにいる女性もお団子ヘアで微笑んでいる。背景には洗濯物や緑の葉が見え、温かな逆光が差し込んでいる。二人が近づくにつれ、カメラはゆっくりと後退しながらパン／トラッキングする。
-
-0:10–0:15：ツーショットのクローズアップ。小さな店の外にある飲み物用冷蔵庫に向かって歩く二人を正面から捉える。男性はアイスティーのボトルを顎のあたりに持ち、思慮深く、あるいは活き活きとした仕草で話している。隣にいる女性はボトルを 2 本持ち、微笑みながら男性を見つめている。右側の背景には、色とりどりのボトルが並ぶ冷蔵庫が見える。
-
-0:15–0:20：ミディアムショット。二人ともアイスティーのボトルを持ち、カメラに向かって歩いてくる。二人とも温かい笑顔を浮かべている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092618886546067456/img/yAeh9Kog_lpT6HmO.jpg" width="600" alt="韓国の路地裏を舞台にした日常系動画スクリプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9963)**
-
-**作者:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **ソース:** [Link](https://x.com/afrinxai/status/2092884832816906256) | **公開日:** Aug 27, 2026
-
----
-### 顔を噛むバブルアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ある人物が別の人物の顔を噛み、そこからガムの風船が膨らむというシュールな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-左側の人物の頭部を右側の人物が噛みつき、そこから大きなガムの風船を膨らませる様子を描写してください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092850437850308608/img/Gk4DcuSZcN34m5i3.jpg" width="600" alt="顔を噛むバブルアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9929)**
-
-**作者:** [#vandehigh](https://x.com/vandehigh) | **ソース:** [Link](https://x.com/vandehigh/status/2092850454254239799) | **公開日:** Aug 27, 2026
-
----
-### 二足歩行の生命体と山の頂
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 霧に包まれた山の頂に立つ、白い肉体を持つ生命体を描いたダークファンタジー風のビデオプロンプト。有機的な動きが特徴です。
-
-#### 📝 プロンプト
-
-```
-完全に形成された二足歩行の白い肉体を持つ生命体が頂上に立ち、ゆっくりと首を回して霧深い山々を見渡す。有機的な組織が変形し滴り落ちる様子や、大気中の風と霧の動きを表現。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092819943754534912/img/yT2Y_NY9GuZN3c_9.jpg" width="600" alt="二足歩行の生命体と山の頂">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9923)**
-
-**作者:** [BecauseGIU*](https://x.com/BecausGIU) | **ソース:** [Link](https://x.com/BecausGIU/status/2092819970040180802) | **公開日:** Aug 27, 2026
-
----
-### 空から降ってくるアニマルおもちゃ箱
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 箱が空から落ちてきて、中から様々なおもちゃの動物や乗り物が飛び出すビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-箱が空から落ちてきて芝生の上で壊れ、箱の中からランダムな海の動物のおもちゃ 5 個、野生動物のおもちゃ 5 個、農場の動物のおもちゃ 5 個、おもちゃのトラクター 2 台、クラシックカーのおもちゃ 5 台、ランダムなチャーム 5 個（ブラケットタイプ）が飛び出す
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092808529220665344/img/uFa_JEJ7wFCiIq_e.jpg" width="600" alt="空から降ってくるアニマルおもちゃ箱">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9932)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2092808594484031888) | **公開日:** Aug 27, 2026
-
----
-### 女神ダイアナのアーチェリーシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 暗く霧深い森の中にいる女神ダイアナを描いた、ドラマチックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-銀灰色の髪に流れるような白いドレスを纏った勇猛な女神ダイアナの、新たなドラマチックなバリエーションを作成してください。暗く霧深い森の中で前方に跳躍しながら、大きな弓を引き、矢を直接こちらに向けて狙いを定めている様子を表現してください...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092783400952438784/img/o_BndaBEHdZ4GrAN.jpg" width="600" alt="女神ダイアナのアーチェリーシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9960)**
-
-**作者:** [Apple](https://x.com/Apple0816799221) | **ソース:** [Link](https://x.com/Apple0816799221/status/2092783433961590892) | **公開日:** Aug 27, 2026
-
----
-### プレアデス星人の光の宇宙船 夏のビデオ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 天上の宇宙船の明るい照明と立体的な色調に焦点を当てた、高精細な SF ビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-夏の青緑色の空に浮かぶプレアデス星人の光の宇宙船、傑作、超高精細品質 11111111111199999999999 k、立体的な明るい照明と色調
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092779708542779392/img/923tBS6kA-LuxU8x.jpg" width="600" alt="プレアデス星人の光の宇宙船 夏のビデオ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9966)**
-
-**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **ソース:** [Link](https://x.com/Octillion111111/status/2092779760585756700) | **公開日:** Aug 27, 2026
-
----
-### 自然で安定したシーンアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> カメラの動きや会話、瞬きをさせずに、シーンを自然にアニメーション化するようモデルに指示するための技術的なビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-アニメーション化してください。シーンを維持し、ズームインやズームアウトは行わないでください。会話や言葉は一切なしで、自然な状態を保ってください。瞬きも禁止です。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092757907360129024/img/Re-Uu0FV7fbY5LdQ.jpg" width="600" alt="自然で安定したシーンアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9958)**
-
-**作者:** [BRENT REEVES](https://x.com/Breeves1979) | **ソース:** [Link](https://x.com/Breeves1979/status/2092757934664994973) | **公開日:** Aug 26, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2207,6 +2181,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-06T04:20:16.596Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-06T12:22:08.911Z</sub>
 
 </div>
