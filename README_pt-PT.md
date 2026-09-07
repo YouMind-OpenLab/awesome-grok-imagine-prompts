@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2717** |
+| 📝 Total Prompts | **2733** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-07** |
 
@@ -189,6 +189,292 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Cena de preparo de jantar com personagens
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo que descreve duas personagens, Alice e Dani, preparando o jantar em uma cozinha, utilizando referências de personagens.
+
+#### 📝 Prompt
+
+```
+Alice @Reference3 e Dani @Reference2 picando legumes na bancada e começando a preparar o jantar como Elara
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096824592191156224/img/NjV-g4oS7Kv66QV2.jpg" width="600" alt="Cena de preparo de jantar com personagens">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10491)**
+
+**Author:** [Brandon Russo](https://x.com/Brandon40163292) | **Source:** [Link](https://x.com/Brandon40163292/status/2096825084254298173) | **Published:** Sep 7, 2026
+
+---
+### Figura cinematográfica em torre congelada
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt cinematográfico detalhado em várias camadas descrevendo uma tomada em alta altitude de uma figura semelhante a um astronauta sentada em uma torre de rádio congelada acima de uma paisagem urbana de inverno.
+
+#### 📝 Prompt
+
+```
+Tomada cinematográfica ampla de uma figura com traje de voo creme e capacete com viseira escura sentada na borda de uma torre de rádio enferrujada e gelada bem acima de uma cidade coberta de neve, corpo imóvel e ereto, mãos enluvadas descansando na viga, pingentes de gelo pesados pendurados na treliça de metal, rio congelado serpenteando através de telhados brancos lá embaixo, céu de inverno azul claro, luz solar fria no aço e na geada, atmosfera fotorrealista, sensação de escala de altura extrema, tecido, metal e textura de gelo ultra detalhados, Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096471558961471488/img/jMxNQMBfaKgIgM3k.jpg" width="600" alt="Figura cinematográfica em torre congelada">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10479)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **Published:** Sep 7, 2026
+
+---
+### Movimento de Enterrada de Basquete
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gera um vídeo de um personagem driblando uma bola de basquete e realizando uma enterrada ao estilo Michael Jordan.
+
+#### 📝 Prompt
+
+```
+Faça com que ela drible a bola de basquete até a cesta e realize uma enterrada estilo Michael Jordan no aro
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096773020664676354/img/NPyEHr-UVx-AvAGz.jpg" width="600" alt="Movimento de Enterrada de Basquete">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10488)**
+
+**Author:** [Vdewey](https://x.com/Vdeweydo) | **Source:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **Published:** Sep 7, 2026
+
+---
+### Animação de Escultura de Fisiculturismo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de animação exclusivo que transforma uma escultura de mármore em um competidor de fisiculturismo com cabelos ao vento.
+
+#### 📝 Prompt
+
+```
+Anime esta escultura. Faça com que pareça estar em uma competição de fisiculturismo, mas mantenha o estilo de mármore e faça o cabelo parecer que está balançando no ar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096746420946808832/img/Zwxsao94TVbGmDvZ.jpg" width="600" alt="Animação de Escultura de Fisiculturismo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10482)**
+
+**Author:** [Mr. Savistarz](https://x.com/AryehKatz) | **Source:** [Link](https://x.com/AryehKatz/status/2096746486306316650) | **Published:** Sep 6, 2026
+
+---
+### Animação de Perfil Vertical Técnico
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt técnico altamente detalhado para manter a consistência da interface do usuário (UI) e do layout do personagem usando duas imagens de referência para um vídeo vertical de 15 segundos.
+
+#### 📝 Prompt
+
+```
+15 segundos, vertical 9:16. Use as duas imagens fornecidas como referência.
+
+- Use a captura de tela da tela de perfil do X como única referência de fundo, UI e layout.
+- Use a imagem ampliada da MoiMoi como única referência de design do personagem.
+
+Mantenha a imagem de cabeçalho da imagem original, o fundo preto da UI, a posição do ícone de perfil, cada botão, ícone gráfico, linha divisória, imagem postada, composição da tela, margens, cores e proporções.
+
+A câmera é totalmente fixa. Não aplique zoom, pan, rotação, inclinação, corte ou reconstrução da tela. Não estique a imagem original. Para ajustar ao formato 9:16, não adicione barras pretas; estenda naturalmente as bordas da UI ou ajuste cuidadosamente o posicionamento para preencher a tela inteira.
+
+Objetivo da animação:
+Retratar o personagem movendo-se de forma vibrante dentro da área da imagem postada na tela de perfil estática.
+
+Movimentação do personagem:
+- MoiMoi não sai do quadro da imagem postada.
+- Acena energeticamente para a câmera.
+- Pisca e move a boca como se estivesse falando (sem necessidade de áudio).
+- Cabelo e roupas balançam com uma brisa leve.
+- Transmite charme no local sem mudar significativamente de pose.
+
+Fixação do fundo:
+- Não mova nenhum elemento da UI além da imagem postada (ícones, texto, botões, etc.).
+- Certifique-se de que as cores da UI não mudem e que nenhum ruído seja introduzido.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096736177114214400/img/JfLqTgNAfxYAoLE5.jpg" width="600" alt="Animação de Perfil Vertical Técnico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10492)**
+
+**Author:** [moimoi](https://x.com/moimoi16914694) | **Source:** [Link](https://x.com/moimoi16914694/status/2096736190041129439) | **Published:** Sep 6, 2026
+
+---
+### As autoestradas estelares da fronteira
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo de ficção científica poético que visualiza foguetes, bots e circuitos que lembram autoestradas estelares no vazio.
+
+#### 📝 Prompt
+
+```
+A fronteira, um código conectado ao vazio, como seria, foguetes, bots, circuitos como autoestradas estelares
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096724507147063296/img/d2g4xcUIEhni8dtG.jpg" width="600" alt="As autoestradas estelares da fronteira">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10483)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2096724541833990197) | **Published:** Sep 6, 2026
+
+---
+### Animação Épica de Batalha de Super-heróis
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de animação dinâmica para uma batalha entre um super-herói religioso com armadura sagrada e um enorme líder demoníaco do submundo.
+
+#### 📝 Prompt
+
+```
+Animação de batalha dinâmica épica: o super-herói religioso com armadura sagrada brilhante e asas de luz colide ferozmente com o enorme líder demoníaco do submundo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096709743024685058/img/6kh_HaXAFJgRehM7.jpg" width="600" alt="Animação Épica de Batalha de Super-heróis">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10481)**
+
+**Author:** [Hope](https://x.com/Hope4peace4man) | **Source:** [Link](https://x.com/Hope4peace4man/status/2096709810729218456) | **Published:** Sep 6, 2026
+
+---
+### Vídeo de um gato extravagante em um sundae de sorvete
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt descritivo e fotorrealista de um gato branco sentado dentro de um sundae de sorvete gigante derretendo em uma rua ensolarada da cidade.
+
+#### 📝 Prompt
+
+```
+Plano médio cinematográfico e extravagante de um gato branco fofo usando óculos escuros redondos, sentado orgulhosamente dentro de um sundae de sorvete gigante derretendo, espirais altas de sorvete de baunilha desmoronando, calda de chocolate brilhante e molho de morango vibrante escorrendo pelas laterais, uma cereja vermelha equilibrada no topo, uma rua ensolarada em tons pastéis com fachadas de lojas coloridas e bokeh de luz do dia quente ao fundo, estilo surreal fofo e fotorrealista, texturas doces e pegajosas, expressão brincalhona e confiante, pelos e superfície da sobremesa ultra detalhados, iluminação alegre de alta intensidade e Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096471204890898432/img/fOtYCQxm1EPiYcbR.jpg" width="600" alt="Vídeo de um gato extravagante em um sundae de sorvete">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10486)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096697445015044316) | **Published:** Sep 6, 2026
+
+---
+### Vídeo Cinematográfico de Nave Espacial Cristalina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt altamente detalhado para gerar um vídeo de naves de luz pleiadianas cristalinas com iluminação volumétrica.
+
+#### 📝 Prompt
+
+```
+Pleiadianos em naves de luz, naves-mãe, embarcações cristalinas em formato de disco, obra-prima, qualidade ultra HD resolução 1111111111111111111111111111999999999999999999999999 k, cores de iluminação brilhante volumétrica, tons e sombreamento
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096675326483156992/img/DRG5Zy58QnxgMKZb.jpg" width="600" alt="Vídeo Cinematográfico de Nave Espacial Cristalina">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10487)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **Published:** Sep 6, 2026
+
+---
+### Retrato Cinematográfico em Varanda de Cidade Chuvosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico altamente detalhado para uma cena melancólica apresentando um homem de sobretudo preto em uma varanda chuvosa com iluminação neon roxa.
+
+#### 📝 Prompt
+
+```
+Plano médio cinematográfico de um jovem tranquilo com cabelos escuros molhados, vestindo um sobretudo preto longo, parado sozinho em uma varanda de metal chuvosa à noite, olhos suavemente fechados, queixo levemente abaixado, mãos nos bolsos do casaco, chuva fina formando gotas no tecido e no corrimão de metal, tubos de luz neon vertical roxos brilhando através de uma névoa densa atrás dele, horizonte da cidade distante suavizado em uma neblina, reflexos molhados no chão da varanda, luz ciano fria misturada com um brilho violeta profundo, profundidade de campo rasa, iluminação atmosférica melancólica, still de filme fotorrealista, textura de pele e tecido ultra detalhada, presença emocional silenciosa, Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096470972702633984/img/hKG1eKVTNmD5EnCv.jpg" width="600" alt="Retrato Cinematográfico em Varanda de Cidade Chuvosa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10480)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096667246508810460) | **Published:** Sep 6, 2026
+
+---
+### Tesla Range Rover Híbrido
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma solicitação de design automotivo para fundir as características da carroceria do Range Rover com um conceito de tecnologia interna minimalista e avançado.
+
+#### 📝 Prompt
+
+```
+Projete um modelo Tesla para mim que tenha o visual externo de um Range Rover e conte com bancos de luxo e uma tela grande na parte interna
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096610323583365120/img/5EHgptPi5nzN_wnz.jpg" width="600" alt="Tesla Range Rover Híbrido">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10478)**
+
+**Author:** [Tammy BB](https://x.com/BbTammy) | **Source:** [Link](https://x.com/BbTammy/status/2096610338301239374) | **Published:** Sep 6, 2026
+
+---
+### Animação Cinematográfica de Comercial de Pringles
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt profissional altamente detalhado para criar uma animação de comercial de alimentos de luxo, apresentando latas de Pringles giratórias e batatas caindo.
+
+#### 📝 Prompt
+
+```
+Crie uma animação cinematográfica de comercial de alimentos premium e hiper-realista a partir da imagem de Pringles fornecida.
+
+Mantenha a lata de Pringles, a marca, a tipografia, as cores, o fundo e a composição geral exatamente inalterados. Não redesenhe nem substitua nenhum elemento.
+
+A animação começa com a lata de Pringles girando suavemente e inclinando-se para frente enquanto a câmera se aproxima lentamente. As batatas douradas emergem naturalmente da lata aberta em câmera lenta suave, girando e caindo individualmente com física realista. Pequenos farelos flutuam pelo ar e captam a luz do estúdio.
+
+A tampa vermelha da Pringles gira lentamente no ar e move-se sutilmente em direção à câmera antes de recuar. Adicione profundidade de campo realista, pequenos farelos flutuantes, desfoque de movimento natural, brilhos na lata e reflexos sutis.
+
+Faça com que as batatas pareçam crocantes e leves, com gravidade e colisões verossímeis. A lata deve permanecer estável e nítida enquanto as batatas flutuantes criam o movimento principal.
+
+Use um estilo de publicidade de luxo suave: iluminação de estúdio dramática, movimento de câmera cinematográfico, sombras realistas, profundidade de campo rasa, alto nível de detalhe, fotografia comercial polida e movimento contínuo.
+
+Termine com a lata centralizada em destaque no quadro, com as batatas suspensas de forma bela ao redor dela, criando uma imagem principal satisfatória.
+
+Sem pessoas, sem mãos, sem novos objetos, sem marcas deformadas, sem texto distorcido, sem derretimento, sem transformação, sem cintilação, sem trepidação da câmera.
+
+Duração: 8 a 10 segundos.
+Proporção: 16:9 paisagem.
+Movimento: suave, cinematográfico, realista, anúncio de alimentos premium.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="Animação Cinematográfica de Comercial de Pringles">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10489)**
+
+**Author:** [Aniya Intelligence](https://x.com/aniyaintel) | **Source:** [Link](https://x.com/aniyaintel/status/2096565007135961218) | **Published:** Sep 6, 2026
+
+---
+### Animais de Cristal Dançantes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo lúdico apresentando dois animais de cristal dançando e cantando juntos em um clima alegre.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo curto sobre dois animais de cristal dançando e cantando juntos em um clima alegre e empolgante
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096509236880834560/img/xoLV-AbfbjFhH-5m.jpg" width="600" alt="Animais de Cristal Dançantes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10490)**
+
+**Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
+
+---
 ### Cena cinematográfica de avião acidentado na praia
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +494,25 @@ Plano cinematográfico amplo de uma pessoa de casaco escuro sentada na asa de um
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
 
 ---
+### Voo cinematográfico de dragão em primeira pessoa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de produção avançado projetado para controle de movimento de vídeo fluido, detalhando um voo de dragão em primeira pessoa sobre falésias de basalto durante a hora dourada.
+
+#### 📝 Prompt
+
+```
+Voo cinematográfico em primeira pessoa a partir da sela de um enorme dragão negro. O dragão voa baixo ao lado de imponentes falésias de basalto e, em seguida, inclina-se suavemente para a esquerda em direção a um rochedo distante no mar. Câmera fixada logo atrás do cavaleiro, batidas de asas pesadas e fisicamente consistentes, forte paralaxe do oceano, anatomia e design de sela estáveis, luz solar dourada através das nuvens, vento realista e ambiência de asas, uma tomada contínua, sem cortes ou transformações repentinas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096297756637978624/img/NTvU-EyY_TJqir8j.jpg" width="600" alt="Voo cinematográfico de dragão em primeira pessoa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10485)**
+
+**Author:** [Prizevera](https://x.com/Prizevera) | **Source:** [Link](https://x.com/Prizevera/status/2096443876399812740) | **Published:** Sep 6, 2026
+
+---
 ### Caminhada pelo Labirinto Celestial
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +530,44 @@ Uma jovem caminha por uma série de labirintos, belos, surreais e oníricos, cad
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
 
 **Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
+
+---
+### Prompt de Estabilidade de Vídeo para o Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um conjunto de regras de movimento e consistência visual para a geração de vídeo no Grok Imagine, com foco no travamento da câmera e estabilidade facial.
+
+#### 📝 Prompt
+
+```
+câmera travada / mesmo rosto, cabelo, regata, cenário / sem distorção facial / apenas cinco dedos / mãos podem tocar na bochecha ou no queixo, nunca cobrir os olhos / silencioso
+```
+
+<img src="https://cms-assets.youmind.com/media/1788769635383_47t3mf_HRfWBCoaEAAbkhN.jpg" width="600" alt="Prompt de Estabilidade de Vídeo para o Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10493)**
+
+**Author:** [ナオミチ](https://x.com/comback_nao6) | **Source:** [Link](https://x.com/comback_nao6/status/2096379490310176901) | **Published:** Sep 5, 2026
+
+---
+### Troca de rosto em vídeo e preservação de elementos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma instrução complexa para o Grok Imagine trocar rostos entre duas imagens de referência, mantendo a composição, a armadura e o ambiente.
+
+#### 📝 Prompt
+
+```
+Substitua o rosto da mulher de armadura na primeira imagem pelo rosto exato do homem da segunda imagem. Mantenha a mesma pose, corpo, armadura, estilo de cabelo e movimento ao vento, capa, iluminação, céu de hora dourada, grifo e toda a composição intactos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096345975854080000/img/2yvjTBR9I44fYvrv.jpg" width="600" alt="Troca de rosto em vídeo e preservação de elementos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10484)**
+
+**Author:** [FanRuskiBate 🔨](https://x.com/that_russian49) | **Source:** [Link](https://x.com/that_russian49/status/2096346104845533375) | **Published:** Sep 5, 2026
 
 ---
 ### Vestido de Plumas Neon em Terraço
@@ -1815,311 +2158,6 @@ Anime isto: as orelhas do cachorro se levantam, o rabo bate uma, duas vezes, e e
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093463477184614905) | **Published:** Aug 28, 2026
 
 ---
-### Animação de criatura verde fofinha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo divertido de uma criatura peluda verde e gordinha relaxando em um sofá e comendo petiscos.
-
-#### 📝 Prompt
-
-```
-Uma criaturinha verde peluda, engraçada e boba, gordinha e fofinha, sentada em um sofá comendo salgadinhos de queijo, com olhos grandes, redondos e pretos
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093432471073247232/img/niMfQDtLXmodiXQ7.jpg" width="600" alt="Animação de criatura verde fofinha">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10026)**
-
-**Author:** [Chris](https://x.com/qwts_chris_dev) | **Source:** [Link](https://x.com/qwts_chris_dev/status/2093432499808477297) | **Published:** Aug 28, 2026
-
----
-### Vídeo de abraço entre lobo e raposa antropomórficos
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Uma cena emocionante mostrando um lobo cinzento e uma raposa vermelha antropomórficos compartilhando um abraço em uma sala iluminada, vestindo roupas casuais de primavera.
-
-#### 📝 Prompt
-
-```
-Uma fofa criatura antropomórfica (lobo cinzento) abraçando sua amiga, uma criatura antropomórfica (raposa vermelha). Ambas estão cobertas de pelos felpudos por todo o corpo. Elas vestem roupas casuais de primavera. Ambiente interno, iluminado, durante o dia.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093337483572662272/img/Rx_m6TxkmFmqyCbF.jpg" width="600" alt="Vídeo de abraço entre lobo e raposa antropomórficos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10028)**
-
-**Author:** [🦦🐺TNG@MofuiWolf💕📺](https://x.com/TNG69JP) | **Source:** [Link](https://x.com/TNG69JP/status/2093337519014527394) | **Published:** Aug 28, 2026
-
----
-### Vídeo de Anel de Diamante Solitário com Corte Esmeralda
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo para criar um anel de luxo com diamante verde em corte esmeralda e diamantes pavé na banda.
-
-#### 📝 Prompt
-
-```
-Crie um belo anel com um diamante verde montado como um solitário de corte esmeralda, com grandes diamantes pavé de corte esmeralda na banda.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093320247277182976/img/1ZM7nf1LrEROjxp3.jpg" width="600" alt="Vídeo de Anel de Diamante Solitário com Corte Esmeralda">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10025)**
-
-**Author:** [@xAIExistentialPoet 💫 Dr.Jessica Konopka](https://x.com/DrJessxAI) | **Source:** [Link](https://x.com/DrJessxAI/status/2093320273067970594) | **Published:** Aug 28, 2026
-
----
-### Animação de performance de canto em São Francisco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo detalhado para animar artistas cantando em São Francisco, apresentando movimentos corporais naturais e um fundo estável do horizonte da cidade.
-
-#### 📝 Prompt
-
-```
-Anime os dois artistas cantando e gesticulando energeticamente com movimentos naturais de boca e mãos, vento leve movendo suavemente seus cabelos e roupas, balanço corporal sutil, mantenha a Golden Gate Bridge e o horizonte de São Francisco perfeitamente estáticos e...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093319484375171072/img/_6Ak95Qt-L1bV670.jpg" width="600" alt="Animação de performance de canto em São Francisco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10024)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2093319537336750297) | **Published:** Aug 28, 2026
-
----
-### Panorâmica de Produto de Laptop Fotorrealista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico apresentando uma panorâmica lenta da câmera através de um laptop brilhante e um mouse com reflexos de luz sutis.
-
-#### 📝 Prompt
-
-```
-Panorâmica lenta e suave da câmera pela cena com reflexos de luz sutis deslizando sobre a tela brilhante do laptop e o mouse translúcido, movimento ambiente suave, estilo de fotografia de produto fotorrealista
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093316414954217472/img/HA_iDnoxroVepVKJ.jpg" width="600" alt="Panorâmica de Produto de Laptop Fotorrealista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10022)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2093316534064009631) | **Published:** Aug 28, 2026
-
----
-### Close-up Cinematográfico ao Ar Livre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt JSON estruturado para gerar um close-up cinematográfico de baixo movimento em um ambiente externo indistinto com profundidade de campo rasa.
-
-#### 📝 Prompt
-
-```
-{"shot": {"motion_level": "low", "camera_depth": "close-up", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indistinct outdoor setting", "environment": "The background is out of focus, showing blurred natural elements"}}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093288680542584832/img/ua4qihAXdKV-zfDP.jpg" width="600" alt="Close-up Cinematográfico ao Ar Livre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10021)**
-
-**Author:** [Fauna](https://x.com/FaunaFoxD) | **Source:** [Link](https://x.com/FaunaFoxD/status/2093288701094695110) | **Published:** Aug 28, 2026
-
----
-### Saudação de Voo Cinematográfica em Primeira Pessoa
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de voo cinematográfico altamente detalhado para o Grok Imagine, apresentando uma perspectiva em primeira pessoa voando através de um palácio de cristal e um salão de espelhos, concluindo com um efeito de texto personalizado de vidro estilhaçado.
-
-#### 📝 Prompt
-
-```
-Você faz um tonel sob um trem suspenso, executa um looping em torno de um enorme palácio de cristal, mergulha por uma janela aberta e acelera através de um salão de espelhos onde a luz do arco-íris se estilhaça ao redor da câmera. Por fim, a mensagem "Obrigado pelo seu trabalho árduo hoje" aparece em letras cristalinas que então se quebram em pedaços.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093246293917466624/img/mbJviXaH_0BG9aG4.jpg" width="600" alt="Saudação de Voo Cinematográfica em Primeira Pessoa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9969)**
-
-**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2093246555998548377) | **Published:** Aug 28, 2026
-
----
-### Animação de Ascensão da Alma em Memória ao Pet
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo emocionante para uma homenagem a um pet, retratando a alma de um cachorro deixando seu corpo e indo para o céu.
-
-#### 📝 Prompt
-
-```
-Crie o cachorrinho dizendo “mamãe, eu precisei ir para casa, eu amo você e o papai e estarei sempre por perto de ambos, apoiando vocês do outro lado”. Mescle todas as fotos para que pareçam o céu, faça a alma do cachorrinho sair do seu pequeno corpo e...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093224113318109184/img/JOabjs3hbWp2dEf4.jpg" width="600" alt="Animação de Ascensão da Alma em Memória ao Pet">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9964)**
-
-**Author:** [Jenna Fasce](https://x.com/stardessten) | **Source:** [Link](https://x.com/stardessten/status/2093224141302448619) | **Published:** Aug 28, 2026
-
----
-### Visão Mental Cósmica Surreal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo poético e surreal que descreve uma mente processando uma imagem completa para a realidade, apresentando temas cósmicos e coloridos.
-
-#### 📝 Prompt
-
-```
-uma mente que não congelará a imagem antes que todas as letras tenham pousado. A imagem deve ser surreal, capturando uma mente que absorve um quadro completo e se reduz para encontrar a realidade dos outros. Cósmico. Colorido.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093208937080512512/img/V4aBbbhrNngf3FIB.jpg" width="600" alt="Visão Mental Cósmica Surreal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9959)**
-
-**Author:** [Guessmyname](https://x.com/NaturesPurpose) | **Source:** [Link](https://x.com/NaturesPurpose/status/2093208966230929432) | **Published:** Aug 28, 2026
-
----
-### Rap japonês da Hello Kitty
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de vídeo exclusivo que pede uma Hello Kitty cheia de joias fazendo rap em japonês, incluindo letras específicas.
-
-#### 📝 Prompt
-
-```
-Acordo de manhã / Como de costume / Se é um hábito, 'Ganhar dinheiro' é minha própria teoria / Vivendo minha vida em um sonho, esta é minha história / Enviando, esta cidade é o único 'Life the Movie' / ... E faça a Hello Kitty cheia de joias fazer um rap em japonês!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093196579461292032/img/9h4hfy6jnN3m2EVo.jpg" width="600" alt="Rap japonês da Hello Kitty">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9968)**
-
-**Author:** [れいじ](https://x.com/HuSSleNight24) | **Source:** [Link](https://x.com/HuSSleNight24/status/2093196626336858368) | **Published:** Aug 28, 2026
-
----
-### Animação de Anjo Sereno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de animação para uma cena serena envolvendo uma mulher loira, anjos e mantos brilhantes.
-
-#### 📝 Prompt
-
-```
-Anime suavemente a cena serena: um vento leve move delicadamente o cabelo da mulher loira e os mantos e asas brilhantes dos anjos, a criança se aconchega um pouco mais, brilho sutil
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093167309800001536/img/xi3izzOMXq_pHks_.jpg" width="600" alt="Animação de Anjo Sereno">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9965)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **Published:** Aug 28, 2026
-
----
-### Adição de Joias de Diamante em Vídeo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para adicionar e realçar itens de joalheria com diamantes, como colares, brincos e pulseiras, dentro de um vídeo.
-
-#### 📝 Prompt
-
-```
-Adicione um colar de diamante, brincos de diamante e uma pulseira de diamante, e aumente o tamanho do anel de diamante
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093117064491761664/img/KYvolIL1MZU7dBrH.jpg" width="600" alt="Adição de Joias de Diamante em Vídeo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10023)**
-
-**Author:** [Ashley Camp](https://x.com/ashleycamp556) | **Source:** [Link](https://x.com/ashleycamp556/status/2093117079104725139) | **Published:** Aug 27, 2026
-
----
-### Interação Poética com a Concha Oceânica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt narrativo poético que descreve a experiência sensorial de segurar uma concha que guarda o oceano dentro de si.
-
-#### 📝 Prompt
-
-```
-Colocamos as canecas juntas. Um clique suave na madeira.
-Estendo a mão e levanto a concha. Ela aquece em minhas mãos como se lembrasse da fossa oceânica. Viro-a em sua direção e inclino-a apenas um pouco, como uma xícara que contém um oceano dentro...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093104400797405185/img/AzgGhqx5-Cdy65gt.jpg" width="600" alt="Interação Poética com a Concha Oceânica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9961)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093104471303688698) | **Published:** Aug 27, 2026
-
----
-### Vídeo de Naves-Mãe Pleiadianas no Céu Turquesa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo de ficção científica de alta fidelidade para naves-mãe em formato de disco em um céu de verão turquesa.
-
-#### 📝 Prompt
-
-```
-Naves de luz dos Pleiadianos, naves-mãe em formato de disco em céus de verão azul turquesa, obra-prima, qualidade ultra HD resolução 111111111111111111199999999999999999 k, tons de iluminação volumétrica brilhante e cores
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092982559617511424/img/9VzG2E8XbX0XFRhk.jpg" width="600" alt="Vídeo de Naves-Mãe Pleiadianas no Céu Turquesa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9967)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092982630153073030) | **Published:** Aug 27, 2026
-
----
-### Transição de Luz Cinematográfica Emocional
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo emocional de alta produção apresentando uma mudança de luz do azul chuvoso para o dourado das lanternas.
-
-#### 📝 Prompt
-
-```
-Segmento cinematográfico de 45 a 70 segundos no mesmo estilo emocional de alta produção de “An Ode to Freedom” / Ode to Courage. Movimento de câmera suave e fluido. Iluminação natural rica que transita de um campo de flores azul-chuvoso frio para um dourado de lanterna quente. Poderoso...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092954916721430528/img/TpmX8ByTrL8Wsaug.jpg" width="600" alt="Transição de Luz Cinematográfica Emocional">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9962)**
-
-**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2092954940901568737) | **Published:** Aug 27, 2026
-
----
-### Animação da Colonização da MoonBase da SpaceX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo futurista para uma missão de colonização da SpaceX em uma base lunar (MoonBase).
-
-#### 📝 Prompt
-
-```
-Equipe de forja da SpaceX para a colonização da MoonBase do MrFIXitX com cargas úteis projetadas por simuladores de treinamento de assinantes e então Implementar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092905690440335361/img/n_JS-saIe54EGm5o.jpg" width="600" alt="Animação da Colonização da MoonBase da SpaceX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9931)**
-
-**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2181,6 +2219,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-07T04:17:57.824Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-07T14:26:20.552Z</sub>
 
 </div>

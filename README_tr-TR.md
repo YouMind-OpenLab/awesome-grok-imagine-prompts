@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2717** |
+| 📝 Total Prompts | **2733** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-07** |
 
@@ -189,6 +189,292 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Karakterlerle Akşam Yemeği Hazırlama Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Alice ve Dani adlı iki karakterin, karakter referanslarını kullanarak bir mutfakta akşam yemeği hazırlamasını betimleyen bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Alice @Reference3 ve Dani @Reference2 tezgahta sebzeleri doğruyor ve Elara olarak akşam yemeğini hazırlamaya başlıyorlar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096824592191156224/img/NjV-g4oS7Kv66QV2.jpg" width="600" alt="Karakterlerle Akşam Yemeği Hazırlama Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10491)**
+
+**Author:** [Brandon Russo](https://x.com/Brandon40163292) | **Source:** [Link](https://x.com/Brandon40163292/status/2096825084254298173) | **Published:** Sep 7, 2026
+
+---
+### Sinematik Donmuş Kule Figürü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kış şehir manzarasının üzerindeki donmuş bir radyo kulesinde oturan astronot benzeri bir figürün yüksek irtifa çekimini betimleyen, çok katmanlı detaylı sinematik komut.
+
+#### 📝 Prompt
+
+```
+Krem rengi uçuş tulumu ve koyu vizörlü kaskıyla, karla kaplı bir şehrin çok üzerinde, paslı ve buzlu bir radyo kulesinin kenarında oturan bir figürün sinematik geniş açılı çekimi; vücut hareketsiz ve dik, eldivenli eller kirişin üzerinde dinleniyor, metal kafesten sarkan ağır buz sarkıtları, çok aşağıda beyaz çatıların arasından kıvrılarak geçen donmuş nehir, açık mavi kış gökyüzü, çelik ve kırağı üzerinde soğuk güneş ışığı, fotogerçekçi atmosfer, aşırı yükseklik ölçeği hissi, ultra detaylı kumaş, metal ve buz dokusu, Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096471558961471488/img/jMxNQMBfaKgIgM3k.jpg" width="600" alt="Sinematik Donmuş Kule Figürü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10479)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **Published:** Sep 7, 2026
+
+---
+### Basketbol Smaç Hareketi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Basketbol topunu süren ve Michael Jordan tarzı bir smaç basan bir karakterin videosunu oluşturur.
+
+#### 📝 Prompt
+
+```
+Basketbol topunu potaya doğru sürmesini ve potaya Michael Jordan tarzı bir smaç basmasını sağla
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096773020664676354/img/NPyEHr-UVx-AvAGz.jpg" width="600" alt="Basketbol Smaç Hareketi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10488)**
+
+**Author:** [Vdewey](https://x.com/Vdeweydo) | **Source:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **Published:** Sep 7, 2026
+
+---
+### Vücut Geliştirme Heykeli Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mermer bir heykeli, saçları dalgalanan bir vücut geliştirme sporcusuna dönüştüren benzersiz bir animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Bu heykeli canlandır. Bir vücut geliştirme yarışmasındaymış gibi görünmesini sağla ancak o muhteşem mermer dokusunu koru ve saçlarının havada dalgalanıyormuş gibi görünmesini sağla.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096746420946808832/img/Zwxsao94TVbGmDvZ.jpg" width="600" alt="Vücut Geliştirme Heykeli Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10482)**
+
+**Author:** [Mr. Savistarz](https://x.com/AryehKatz) | **Source:** [Link](https://x.com/AryehKatz/status/2096746486306316650) | **Published:** Sep 6, 2026
+
+---
+### Teknik Dikey Profil Animasyonu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 15 saniyelik dikey bir video için iki referans görsel kullanarak tutarlı bir kullanıcı arayüzü ve karakter düzeni sağlamaya yönelik oldukça detaylı teknik komut istemi.
+
+#### 📝 Prompt
+
+```
+15 saniye, dikey 9:16. Referans olarak sağlanan iki görseli kullanın.
+
+- Arka plan, kullanıcı arayüzü ve düzen referansı olarak yalnızca X profil ekranı ekran görüntüsünü kullanın.
+- Karakter tasarımı referansı olarak yalnızca MoiMoi'nin büyütülmüş görselini kullanın.
+
+Orijinal görseldeki başlık görselini, siyah kullanıcı arayüzü arka planını, profil simgesi konumunu, her bir düğmeyi, grafik simgesini, ayırıcı çizgiyi, gönderilen görseli, ekran kompozisyonunu, kenar boşluklarını, renkleri ve oranları koruyun.
+
+Kamera tamamen sabittir. Yakınlaştırma, kaydırma, döndürme, eğme, kırpma veya ekranı yeniden oluşturma yapmayın. Orijinal görseli esnetmeyin. 9:16 formatına sığdırmak için siyah çubuklar eklemeyin; bunun yerine kullanıcı arayüzünün kenarlarını doğal bir şekilde uzatın veya tüm ekranı dolduracak şekilde yerleşimi hassas bir şekilde ayarlayın.
+
+Animasyon amacı:
+Karakterin, sabit profil ekranının gönderilen görsel alanında canlı bir şekilde hareket ettiğini tasvir edin.
+
+Karakter hareketi:
+- MoiMoi, gönderilen görselin çerçevesinden dışarı çıkmaz.
+- Kameraya doğru enerjik bir şekilde el sallar.
+- Göz kırpar ve konuşuyormuş gibi ağzını hareket ettirir (ses gerekmez).
+- Saçları ve kıyafetleri hafif bir esintide sallanır.
+- Pozunu önemli ölçüde değiştirmeden olduğu yerde cazibesini sergiler.
+
+Arka plan sabitleme:
+- Gönderilen görsel dışındaki hiçbir kullanıcı arayüzü öğesini (simgeler, metin, düğmeler vb.) kesinlikle hareket ettirmeyin.
+- Kullanıcı arayüzü renklerinin değişmediğinden ve herhangi bir parazit oluşmadığından emin olun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096736177114214400/img/JfLqTgNAfxYAoLE5.jpg" width="600" alt="Teknik Dikey Profil Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10492)**
+
+**Author:** [moimoi](https://x.com/moimoi16914694) | **Source:** [Link](https://x.com/moimoi16914694/status/2096736190041129439) | **Published:** Sep 6, 2026
+
+---
+### Sınırın yıldız ışığı otoyolları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Boşluktaki yıldız ışığı otoyollarını andıran roketleri, botları ve devreleri görselleştiren şiirsel bir bilim kurgu video istemi.
+
+#### 📝 Prompt
+
+```
+Sınır, boşluğa işlenmiş bir kod; nasıl görünüyordu, roketler, botlar, yıldız ışığı otoyolları gibi devreler
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096724507147063296/img/d2g4xcUIEhni8dtG.jpg" width="600" alt="Sınırın yıldız ışığı otoyolları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10483)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2096724541833990197) | **Published:** Sep 6, 2026
+
+---
+### Destansı Süper Kahraman Savaş Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kutsal zırhlı dini bir süper kahraman ile devasa bir yeraltı dünyası iblis lideri arasındaki savaş için dinamik bir animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Destansı dinamik savaş animasyonu: parlayan kutsal zırhı ve ışık kanatlarıyla dini süper kahraman, devasa yeraltı dünyası iblis lideriyle şiddetli bir şekilde çarpışıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096709743024685058/img/6kh_HaXAFJgRehM7.jpg" width="600" alt="Destansı Süper Kahraman Savaş Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10481)**
+
+**Author:** [Hope](https://x.com/Hope4peace4man) | **Source:** [Link](https://x.com/Hope4peace4man/status/2096709810729218456) | **Published:** Sep 6, 2026
+
+---
+### İlginç Kedi ve Dondurma Kupası Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Güneşli bir şehir sokağında, devasa ve eriyen bir dondurma kupasının içinde oturan beyaz bir kedi için betimleyici, fotogerçekçi bir komut.
+
+#### 📝 Prompt
+
+```
+Yuvarlak koyu güneş gözlükleri takmış tüylü beyaz bir kedinin, devasa ve eriyen bir dondurma kupasının içinde gururla oturduğu, yüksek vanilyalı yumuşak dondurma kıvrımlarının çöktüğü, parlak çikolata sosu ve canlı çilek sosunun kenarlardan aşağı süzüldüğü, üzerinde kırmızı bir kirazın dengede durduğu, arkasında renkli dükkan vitrinleri ve sıcak gün ışığı bokeh efektli pastel güneşli bir şehir sokağının yer aldığı, fotogerçekçi sevimli sürreal tarzda, yapışkan tatlı dokulara, oyuncu ve kendinden emin bir ifadeye, ultra detaylı kürk ve tatlı yüzeyine sahip, neşeli ve aydınlık bir atmosferde çekilmiş, Grok Imagine destekli sinematik orta geniş açılı çekim.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096471204890898432/img/fOtYCQxm1EPiYcbR.jpg" width="600" alt="İlginç Kedi ve Dondurma Kupası Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10486)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096697445015044316) | **Published:** Sep 6, 2026
+
+---
+### Sinematik Kristal Uzay Gemisi Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Volumetrik aydınlatmaya sahip kristal Pleiades ışık gemilerinin videosunu oluşturmak için yüksek detaylı bir komut.
+
+#### 📝 Prompt
+
+```
+Pleiades ışık gemileri ana gemiler kristal araçlar daire şeklinde, başyapıt, ultra hd kalite çözünürlük 1111111111111111111111111111999999999999999999999999 k , volumetrik parlak aydınlatma renkleri ve tonları ve gölgelendirme
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096675326483156992/img/DRG5Zy58QnxgMKZb.jpg" width="600" alt="Sinematik Kristal Uzay Gemisi Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10487)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **Published:** Sep 6, 2026
+
+---
+### Sinematik Yağmurlu Şehir Balkonu Portresi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yağmurlu bir balkonda mor neon ışıklar altında siyah paltolu bir adamın yer aldığı, atmosferik bir sahne için oldukça detaylı sinematik komut.
+
+#### 📝 Prompt
+
+```
+Gece vakti yağmurlu metal bir balkonda tek başına duran, koyu renkli ıslak saçlı, uzun siyah paltolu, gözleri hafifçe kapalı, çenesi hafifçe aşağıda, elleri palto ceplerinde olan sessiz genç bir adamın sinematik orta plan çekimi; kumaş ve metal korkuluk üzerinde biriken ince yağmur damlaları, arkasındaki yoğun sisin içinden parlayan dikey mor neon ışık tüpleri, puslu bir şekilde yumuşatılmış uzak şehir silüeti, balkon zeminindeki ıslak yansımalar, derin menekşe rengi parıltıyla karışık soğuk camgöbeği ışık sızıntısı, sığ alan derinliği, atmosferik ve karamsar aydınlatma, fotorealistik film karesi, ultra detaylı cilt ve kumaş dokusu, sessiz duygusal varlık, Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096470972702633984/img/hKG1eKVTNmD5EnCv.jpg" width="600" alt="Sinematik Yağmurlu Şehir Balkonu Portresi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10480)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096667246508810460) | **Published:** Sep 6, 2026
+
+---
+### Tesla Range Rover Hibrit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Range Rover gövde özelliklerini gelişmiş ve minimalist bir iç teknoloji konseptiyle birleştiren bir otomotiv tasarım talebi.
+
+#### 📝 Prompt
+
+```
+Dış görünüşü Range Rover'a benzeyen, iç kısmında ise lüks koltuklar ve büyük bir ekran bulunan bir Tesla modeli tasarla
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096610323583365120/img/5EHgptPi5nzN_wnz.jpg" width="600" alt="Tesla Range Rover Hibrit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10478)**
+
+**Author:** [Tammy BB](https://x.com/BbTammy) | **Source:** [Link](https://x.com/BbTammy/status/2096610338301239374) | **Published:** Sep 6, 2026
+
+---
+### Sinematik Pringles Reklam Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dönen Pringles kutuları ve düşen cipslerin yer aldığı lüks bir gıda reklamı animasyonu oluşturmak için oldukça detaylı profesyonel bir komut.
+
+#### 📝 Prompt
+
+```
+Sağlanan Pringles görselinden birinci sınıf, hiper gerçekçi ve sinematik bir gıda reklamı animasyonu oluşturun.
+
+Pringles kutusunu, markalamayı, tipografiyi, renkleri, arka planı ve genel kompozisyonu tamamen aynı tutun. Herhangi bir öğeyi yeniden tasarlamayın veya değiştirmeyin.
+
+Animasyon, kamera yavaşça yaklaşırken Pringles kutusunun hafifçe dönmesi ve öne doğru eğilmesiyle başlar. Altın rengi cipsler, açık kutudan doğal bir şekilde, pürüzsüz ve ağır çekimde, gerçekçi fizik kurallarıyla dönerek ve takla atarak yükselir. Küçük kırıntılar havada süzülür ve stüdyo ışığını yakalar.
+
+Kırmızı Pringles kapağı havada yavaşça döner ve kameraya doğru hafifçe hareket ettikten sonra geri süzülür. Gerçekçi alan derinliği, havada uçuşan küçük kırıntılar, doğal hareket bulanıklığı, kutu üzerinde parlak vurgular ve ince yansımalar ekleyin.
+
+Cipslerin inandırıcı bir yerçekimi ve çarpışma etkisiyle çıtır ve hafif hissettirmesini sağlayın. Kutu sabit ve net kalırken, havada uçuşan cipsler ana hareketi oluşturmalıdır.
+
+Pürüzsüz ve lüks bir reklam stili kullanın: dramatik stüdyo aydınlatması, sinematik kamera hareketi, gerçekçi gölgeler, sığ alan derinliği, yüksek detay, profesyonel reklam fotoğrafçılığı ve kusursuz hareket.
+
+Kutunun kadrajın merkezinde belirgin bir şekilde durduğu, cipslerin etrafında estetik bir şekilde asılı kaldığı ve tatmin edici bir ana çekim (hero shot) oluşturduğu bir finalle bitirin.
+
+İnsan yok, el yok, yeni nesne yok, bozulmuş markalama yok, çarpıtılmış metin yok, erime yok, şekil değiştirme yok, titreme yok, kamera sarsıntısı yok.
+
+Süre: 8–10 saniye.
+En boy oranı: 16:9 yatay.
+Hareket: pürüzsüz, sinematik, gerçekçi, premium gıda reklamı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="Sinematik Pringles Reklam Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10489)**
+
+**Author:** [Aniya Intelligence](https://x.com/aniyaintel) | **Source:** [Link](https://x.com/aniyaintel/status/2096565007135961218) | **Published:** Sep 6, 2026
+
+---
+### Dans Eden Kristal Hayvanlar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Neşeli bir ruh hali içinde birlikte dans edip şarkı söyleyen iki kristal hayvanı konu alan eğlenceli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Neşeli ve heyecan verici bir ruh hali içinde birlikte dans edip şarkı söyleyen iki kristal hayvan hakkında kısa bir video oluştur
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096509236880834560/img/xoLV-AbfbjFhH-5m.jpg" width="600" alt="Dans Eden Kristal Hayvanlar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10490)**
+
+**Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
+
+---
 ### Düşmüş Uçak Sinematik Sahil Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +494,25 @@ Kayalık siyah bir sahilde düşmüş askeri nakliye uçağının kanadında otu
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
 
 ---
+### Birinci şahıs ejderha sinematik uçuşu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Altın saatlerde bazalt deniz kayalıkları üzerinde birinci şahıs ejderha uçuşunu detaylandıran, akıcı video hareket kontrolü için tasarlanmış gelişmiş bir prodüksiyon istemi.
+
+#### 📝 Prompt
+
+```
+Devasa bir kara ejderhanın sırtından birinci şahıs sinematik uçuş. Ejderha, yükselen bazalt deniz kayalıklarının hemen yanından alçaktan uçar ve ardından uzak bir deniz kayalığına doğru yumuşak bir şekilde sola yatar. Kamera binicinin hemen arkasına sabitlenmiş, fiziksel olarak tutarlı ağır kanat çırpışları, güçlü okyanus paralaksı, stabil anatomi ve eyer tasarımı, bulutların arasından süzülen altın rengi güneş ışığı, gerçekçi rüzgar ve kanat ambiyansı, tek bir kesintisiz çekim, kesinti veya ani biçim bozulması yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096297756637978624/img/NTvU-EyY_TJqir8j.jpg" width="600" alt="Birinci şahıs ejderha sinematik uçuşu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10485)**
+
+**Author:** [Prizevera](https://x.com/Prizevera) | **Source:** [Link](https://x.com/Prizevera/status/2096443876399812740) | **Published:** Sep 6, 2026
+
+---
 ### Göksel Labirent Yürüyüşü
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +530,44 @@ Genç bir kadın, her biri bir öncekinin üzerine inşa edilen bulutsular ve ga
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
 
 **Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
+
+---
+### Grok Imagine Video Kararlılık İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine video oluşturma süreci için kamera sabitleme ve yüz kararlılığına odaklanan bir dizi hareket ve görsel tutarlılık kuralı.
+
+#### 📝 Prompt
+
+```
+kamera sabit / aynı yüz, saç, atlet, arka plan / yüz bozulması yok / sadece beş parmak / eller yanağa veya çeneye dokunabilir, asla gözleri kapatmamalı / sessiz
+```
+
+<img src="https://cms-assets.youmind.com/media/1788769635383_47t3mf_HRfWBCoaEAAbkhN.jpg" width="600" alt="Grok Imagine Video Kararlılık İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10493)**
+
+**Author:** [ナオミチ](https://x.com/comback_nao6) | **Source:** [Link](https://x.com/comback_nao6/status/2096379490310176901) | **Published:** Sep 5, 2026
+
+---
+### Video Yüz Değiştirme ve Öğe Koruma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için kompozisyonu, zırhı ve ortamı korurken iki referans görsel arasında yüz değiştirmeye yönelik karmaşık bir talimat.
+
+#### 📝 Prompt
+
+```
+İlk görseldeki zırhlı kadının yüzünü, ikinci görseldeki adamın yüzüyle birebir değiştirin. Aynı pozu, vücudu, zırhı, saç stilini, rüzgarda savrulma hareketini, pelerini, ışıklandırmayı, gün batımı gökyüzünü, grifonu ve genel kompozisyonu tamamen koruyun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096345975854080000/img/2yvjTBR9I44fYvrv.jpg" width="600" alt="Video Yüz Değiştirme ve Öğe Koruma">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10484)**
+
+**Author:** [FanRuskiBate 🔨](https://x.com/that_russian49) | **Source:** [Link](https://x.com/that_russian49/status/2096346104845533375) | **Published:** Sep 5, 2026
 
 ---
 ### Neon Çatı Katı Tüylü Elbise
@@ -1815,311 +2158,6 @@ Canlandır: köpeğin kulakları kalkıyor, kuyruğu bir, iki kez yere vuruyor v
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093463477184614905) | **Published:** Aug 28, 2026
 
 ---
-### Tombul Yeşil Yaratık Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Koltukta dinlenen ve atıştırmalıklarını yiyen tombul, yeşil tüylü bir yaratık için eğlenceli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Koltukta oturmuş peynirli mısır cipslerini atıştıran, tombul ve şişman, komik ve şapşal, küçük yeşil tüylü bir yaratık; belirgin, büyük ve yuvarlak siyah gözlere sahip
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093432471073247232/img/niMfQDtLXmodiXQ7.jpg" width="600" alt="Tombul Yeşil Yaratık Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10026)**
-
-**Author:** [Chris](https://x.com/qwts_chris_dev) | **Source:** [Link](https://x.com/qwts_chris_dev/status/2093432499808477297) | **Published:** Aug 28, 2026
-
----
-### Kurt ve Tilki Yarı İnsan Karakterlerin Sarılma Videosu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Aydınlık bir iç mekanda, günlük bahar kıyafetleri içinde birbirine sarılan gri kurt ve kızıl tilki yarı insan karakterlerin yer aldığı iç ısıtan bir sahne.
-
-#### 📝 Prompt
-
-```
-Arkadaşı olan bir başka yarı insan karaktere (kızıl tilki) sarılan sevimli bir yarı insan karakter (gri kurt). Her ikisinin de vücudu tüylü bir kürk ile kaplı. Üzerlerinde günlük bahar kıyafetleri var. İç mekan, aydınlık, gündüz vakti.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093337483572662272/img/Rx_m6TxkmFmqyCbF.jpg" width="600" alt="Kurt ve Tilki Yarı İnsan Karakterlerin Sarılma Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10028)**
-
-**Author:** [🦦🐺TNG@MofuiWolf💕📺](https://x.com/TNG69JP) | **Source:** [Link](https://x.com/TNG69JP/status/2093337519014527394) | **Published:** Aug 28, 2026
-
----
-### Zümrüt Kesim Tektaş Pırlanta Yüzük Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bant kısmında pave pırlantalar bulunan, lüks zümrüt kesim yeşil pırlanta yüzük oluşturmaya yönelik bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Tektaş zümrüt kesim olarak monte edilmiş yeşil pırlantalı ve bant kısmında büyük pave zümrüt kesim pırlantalar bulunan güzel bir yüzük oluşturun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093320247277182976/img/1ZM7nf1LrEROjxp3.jpg" width="600" alt="Zümrüt Kesim Tektaş Pırlanta Yüzük Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10025)**
-
-**Author:** [@xAIExistentialPoet 💫 Dr.Jessica Konopka](https://x.com/DrJessxAI) | **Source:** [Link](https://x.com/DrJessxAI/status/2093320273067970594) | **Published:** Aug 28, 2026
-
----
-### San Francisco Şarkı Performansı Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> San Francisco'da şarkı söyleyen sanatçıların animasyonu için, doğal vücut hareketleri ve sabit bir şehir silüeti arka planı içeren detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-İki sanatçının enerjik bir şekilde şarkı söyleyip jestler yaptığı, doğal ağız hareketleri ve el hareketlerinin olduğu, hafif rüzgarın saçlarını ve kıyafetlerini nazikçe hareket ettirdiği, hafif vücut salınımı içeren bir animasyon oluşturun; Golden Gate Köprüsü'nü ve San Francisco silüetini tamamen sabit tutun ve...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093319484375171072/img/_6Ak95Qt-L1bV670.jpg" width="600" alt="San Francisco Şarkı Performansı Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10024)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2093319537336750297) | **Published:** Aug 28, 2026
-
----
-### Fotogerçekçi Dizüstü Bilgisayar Ürün Çekimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Parlak bir dizüstü bilgisayar ve fare üzerinde hafif ışık yansımalarıyla yavaş bir kamera geçişini içeren sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Parlak dizüstü bilgisayar ekranı ve yarı saydam fare üzerinde süzülen hafif ışık yansımalarıyla sahnede nazik ve yavaş bir kamera geçişi, yumuşak ortam hareketi, fotogerçekçi ürün çekimi tarzı
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093316414954217472/img/HA_iDnoxroVepVKJ.jpg" width="600" alt="Fotogerçekçi Dizüstü Bilgisayar Ürün Çekimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10022)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2093316534064009631) | **Published:** Aug 28, 2026
-
----
-### Sinematik Dış Mekan Yakın Çekim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirsiz bir dış mekan ortamında, sığ alan derinliğine sahip, düşük hareketli sinematik bir yakın çekim oluşturmak için yapılandırılmış bir JSON istemi.
-
-#### 📝 Prompt
-
-```
-{"shot": {"motion_level": "düşük", "camera_depth": "yakın çekim", "camera_view": "göz hizası", "camera_movement": "sabit çekim"}, "scene": {"location": "belirsiz dış mekan ortamı", "environment": "Arka plan odak dışıdır, bulanık doğal unsurlar görünmektedir"}}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093288680542584832/img/ua4qihAXdKV-zfDP.jpg" width="600" alt="Sinematik Dış Mekan Yakın Çekim">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10021)**
-
-**Author:** [Fauna](https://x.com/FaunaFoxD) | **Source:** [Link](https://x.com/FaunaFoxD/status/2093288701094695110) | **Published:** Aug 28, 2026
-
----
-### Sinematik Birinci Şahıs Uçuş Karşılaması
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine için kristal bir saray ve aynalı bir salonda birinci şahıs bakış açısıyla uçuşu içeren, özel kırık cam metin efektiyle sona eren, oldukça detaylı sinematik bir uçuş istemi.
-
-#### 📝 Prompt
-
-```
-Asılı bir trenin altından varil dönüşü yapıyor, devasa bir kristal sarayın etrafında güçlü bir döngü gerçekleştiriyor, ardından açık bir pencereden dalış yaparak gökkuşağı ışıklarının kameranın etrafında dağıldığı bir aynalı salonda hızla ilerliyorsunuz. Son olarak, "Bugünkü sıkı çalışmanız için teşekkürler" mesajı kristal harflerle beliriyor ve ardından parçalara ayrılıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093246293917466624/img/mbJviXaH_0BG9aG4.jpg" width="600" alt="Sinematik Birinci Şahıs Uçuş Karşılaması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9969)**
-
-**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2093246555998548377) | **Published:** Aug 28, 2026
-
----
-### Evcil Hayvan Anma Ruhun Yükselişi Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir köpeğin ruhunun bedeninden ayrılıp cennete gidişini tasvir eden, evcil hayvan anısına yönelik duygusal bir video istemi.
-
-#### 📝 Prompt
-
-```
-Yavru köpeğin “anneciğim, eve dönmem gerekiyordu, seni ve babamı seviyorum, her zaman yanınızda olacağım ve diğer taraftan sizi destekleyeceğim” dediğini hayal edin. Tüm fotoğrafları birleştirerek cennet gibi görünmelerini sağlayın, yavru köpeğin ruhunun küçük bedeninden ayrılışını ve...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093224113318109184/img/JOabjs3hbWp2dEf4.jpg" width="600" alt="Evcil Hayvan Anma Ruhun Yükselişi Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9964)**
-
-**Author:** [Jenna Fasce](https://x.com/stardessten) | **Source:** [Link](https://x.com/stardessten/status/2093224141302448619) | **Published:** Aug 28, 2026
-
----
-### Sürreal Kozmik Zihin Vizyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir zihnin bütünü gerçeğe dönüştürme sürecini anlatan, kozmik ve renkli temalara sahip, şiirsel ve sürreal bir video istemi.
-
-#### 📝 Prompt
-
-```
-harflerin tamamı yerine oturmadan resmi dondurmayacak bir zihin. Görüntü sürreal olmalı; bütünü algılayan ve başkalarının gerçekliğiyle buluşmak için küçülen bir zihni yansıtmalı. Kozmik. Renkli.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093208937080512512/img/V4aBbbhrNngf3FIB.jpg" width="600" alt="Sürreal Kozmik Zihin Vizyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9959)**
-
-**Author:** [Guessmyname](https://x.com/NaturesPurpose) | **Source:** [Link](https://x.com/NaturesPurpose/status/2093208966230929432) | **Published:** Aug 28, 2026
-
----
-### Hello Kitty Japonca Rap
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Japonca rap yapan, mücevherlerle süslü bir Hello Kitty için belirli şarkı sözlerini de içeren benzersiz bir video istemi.
-
-#### 📝 Prompt
-
-```
-Sabah uyan / Her zamanki gibi / Eğer bir alışkanlıksa 'Para kazan' kendi teorim / Hayatımı bir rüya üzerine yaşıyorum Bu benim hikayem / Gönderiyorum, bu şehir sadece Film gibi bir hayat / ... Ve mücevherlerle süslü Hello Kitty'ye Japonca rap yaptır!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093196579461292032/img/9h4hfy6jnN3m2EVo.jpg" width="600" alt="Hello Kitty Japonca Rap">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9968)**
-
-**Author:** [れいじ](https://x.com/HuSSleNight24) | **Source:** [Link](https://x.com/HuSSleNight24/status/2093196626336858368) | **Published:** Aug 28, 2026
-
----
-### Huzurlu Melek Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sarışın bir kadın, melekler ve parlayan cübbelerin yer aldığı huzurlu bir sahne için animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Huzurlu sahneyi nazikçe canlandırın: hafif rüzgar sarışın kadının saçlarını, meleklerin parlayan cübbelerini ve kanatlarını nazikçe hareket ettiriyor, çocuk hafifçe sokuluyor, ince bir ışıltı
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093167309800001536/img/xi3izzOMXq_pHks_.jpg" width="600" alt="Huzurlu Melek Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9965)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **Published:** Aug 28, 2026
-
----
-### Pırlanta Takı Video Ekleme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir video içerisindeki kolye, küpe ve bilezik gibi pırlanta takı ürünlerini eklemek ve geliştirmek için kullanılan bir komut.
-
-#### 📝 Prompt
-
-```
-Bir pırlanta kolye, pırlanta küpe ve pırlanta bilezik ekle, pırlanta yüzüğü daha büyük yap
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093117064491761664/img/KYvolIL1MZU7dBrH.jpg" width="600" alt="Pırlanta Takı Video Ekleme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10023)**
-
-**Author:** [Ashley Camp](https://x.com/ashleycamp556) | **Source:** [Link](https://x.com/ashleycamp556/status/2093117079104725139) | **Published:** Aug 27, 2026
-
----
-### Şiirsel Deniz Kabuğu Etkileşimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İçinde okyanusu barındıran bir deniz kabuğunu tutmanın duyusal deneyimini betimleyen şiirsel bir anlatım istemi.
-
-#### 📝 Prompt
-
-```
-Kupaları birlikte masaya bıraktık. Ahşabın üzerinde hafif bir tık sesi.
-Uzanıp deniz kabuğunu aldım. Ellerimin arasında ısındı, sanki derin çukuru hatırlıyor gibi. Onu sana doğru çevirip hafifçe eğdim, tıpkı içinde okyanus taşıyan bir kupa gibi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093104400797405185/img/AzgGhqx5-Cdy65gt.jpg" width="600" alt="Şiirsel Deniz Kabuğu Etkileşimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9961)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093104471303688698) | **Published:** Aug 27, 2026
-
----
-### Pleiadian Ana Gemileri Turkuaz Gökyüzü Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yaz turkuazı bir gökyüzünde daire şeklindeki ana gemiler için yüksek sadakatli bir bilim kurgu video istemi.
-
-#### 📝 Prompt
-
-```
-Pleiadian Işık Gemileri, mavi turkuaz yaz gökyüzünde daire şeklinde ana gemiler, başyapıt, ultra hd kalite çözünürlük 111111111111111111199999999999999999 k, hacimsel parlak aydınlatma tonları ve renkleri
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092982559617511424/img/9VzG2E8XbX0XFRhk.jpg" width="600" alt="Pleiadian Ana Gemileri Turkuaz Gökyüzü Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9967)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092982630153073030) | **Published:** Aug 27, 2026
-
----
-### Duygusal Sinematik Işık Geçişi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yağmurlu mavi tonlardan fener sarısına geçiş yapan ışık efektleriyle yüksek prodüksiyonlu, duygusal bir video istemi.
-
-#### 📝 Prompt
-
-```
-“An Ode to Freedom” / Ode to Courage ile aynı yüksek prodüksiyonlu duygusal tarzda 45–70 saniyelik sinematik bölüm. Yumuşak, nefes alan kamera hareketleri. Soğuk yağmurlu mavi bir çiçek tarlasından sıcak fener sarısına dönüşen zengin doğal aydınlatma. Etkileyici...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092954916721430528/img/TpmX8ByTrL8Wsaug.jpg" width="600" alt="Duygusal Sinematik Işık Geçişi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9962)**
-
-**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2092954940901568737) | **Published:** Aug 27, 2026
-
----
-### SpaceX MoonBase Kolonizasyon Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir MoonBase tesisinde SpaceX kolonizasyon görevi için fütüristik bir video istemi.
-
-#### 📝 Prompt
-
-```
-SpaceX ekip üyelerinin, aboneler tarafından tasarlanan yüklerle MrFIXitX MoonBase tesisindeki kolonizasyon görevine yönelik simülatör eğitimleri ve ardından uygulama süreci
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092905690440335361/img/n_JS-saIe54EGm5o.jpg" width="600" alt="SpaceX MoonBase Kolonizasyon Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9931)**
-
-**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2181,6 +2219,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-07T04:17:58.887Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-07T14:26:21.529Z</sub>
 
 </div>

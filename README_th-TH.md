@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2717** |
+| 📝 Total Prompts | **2733** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-07** |
 
@@ -189,6 +189,292 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ฉากทำอาหารเย็นที่มีตัวละคร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับการสร้างวิดีโอที่อธิบายถึงตัวละครสองตัวคือ Alice และ Dani กำลังเตรียมอาหารเย็นในห้องครัว โดยมีการใช้การอ้างอิงตัวละคร (character references) ประกอบ
+
+#### 📝 Prompt
+
+```
+Alice @Reference3 และ Dani @Reference2 กำลังหั่นผักบนเคาน์เตอร์และเริ่มทำอาหารเย็นในฐานะ Elara
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096824592191156224/img/NjV-g4oS7Kv66QV2.jpg" width="600" alt="ฉากทำอาหารเย็นที่มีตัวละคร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10491)**
+
+**Author:** [Brandon Russo](https://x.com/Brandon40163292) | **Source:** [Link](https://x.com/Brandon40163292/status/2096825084254298173) | **Published:** Sep 7, 2026
+
+---
+### ฟิกเกอร์หอคอยน้ำแข็งในสไตล์ภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แบบภาพยนตร์หลายเลเยอร์ที่อธิบายถึงภาพมุมสูงของร่างคล้ายนักบินอวกาศที่นั่งอยู่บนหอส่งสัญญาณวิทยุที่กลายเป็นน้ำแข็งเหนือทิวทัศน์เมืองในฤดูหนาว
+
+#### 📝 Prompt
+
+```
+ภาพมุมกว้างสไตล์ภาพยนตร์ของร่างในชุดนักบินสีครีมและหมวกนิรภัยแบบมีกระบังหน้าสีเข้ม นั่งอยู่บนขอบหอส่งสัญญาณวิทยุที่เป็นสนิมและปกคลุมด้วยน้ำแข็งสูงเหนือเมืองที่เต็มไปด้วยหิมะ ร่างกายอยู่นิ่งและตั้งตรง มือที่สวมถุงมือวางอยู่บนคานเหล็ก มีน้ำแข็งย้อยขนาดใหญ่ห้อยลงมาจากโครงเหล็ก แม่น้ำที่กลายเป็นน้ำแข็งคดเคี้ยวผ่านหลังคาสีขาวเบื้องล่าง ท้องฟ้าฤดูหนาวสีฟ้าใส แสงแดดเย็นกระทบเหล็กและน้ำค้างแข็ง บรรยากาศสมจริงเหมือนภาพถ่าย ให้ความรู้สึกถึงความสูงที่น่าทึ่ง รายละเอียดของเนื้อผ้า โลหะ และพื้นผิวน้ำแข็งที่คมชัดเป็นพิเศษ Grok Imagine
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096471558961471488/img/jMxNQMBfaKgIgM3k.jpg" width="600" alt="ฟิกเกอร์หอคอยน้ำแข็งในสไตล์ภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10479)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **Published:** Sep 7, 2026
+
+---
+### ท่าดังก์บาสเกตบอล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> สร้างวิดีโอตัวละครกำลังเลี้ยงลูกบาสเกตบอลและกระโดดดังก์ในสไตล์ Michael Jordan
+
+#### 📝 Prompt
+
+```
+ให้เธอเลี้ยงลูกบาสเกตบอลไปที่ห่วงแล้วกระโดดดังก์แบบ Michael Jordan ลงห่วง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096773020664676354/img/NPyEHr-UVx-AvAGz.jpg" width="600" alt="ท่าดังก์บาสเกตบอล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10488)**
+
+**Author:** [Vdewey](https://x.com/Vdeweydo) | **Source:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **Published:** Sep 7, 2026
+
+---
+### แอนิเมชันประติมากรรมนักเพาะกาย
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แอนิเมชันสุดพิเศษที่จะเปลี่ยนรูปปั้นหินอ่อนให้กลายเป็นนักเพาะกายพร้อมเส้นผมที่พริ้วไหว
+
+#### 📝 Prompt
+
+```
+ทำแอนิเมชันให้กับรูปปั้นนี้ โดยทำให้ดูเหมือนกำลังอยู่ในการแข่งขันเพาะกาย แต่ยังคงสไตล์หินอ่อนที่สวยงามเอาไว้ และทำให้เส้นผมดูเหมือนกำลังพริ้วไหวไปตามอากาศ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096746420946808832/img/Zwxsao94TVbGmDvZ.jpg" width="600" alt="แอนิเมชันประติมากรรมนักเพาะกาย">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10482)**
+
+**Author:** [Mr. Savistarz](https://x.com/AryehKatz) | **Source:** [Link](https://x.com/AryehKatz/status/2096746486306316650) | **Published:** Sep 6, 2026
+
+---
+### แอนิเมชันโปรไฟล์แนวตั้งเชิงเทคนิค
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์เชิงเทคนิคที่มีรายละเอียดสูงสำหรับการรักษาความสม่ำเสมอของ UI และเลย์เอาต์ตัวละคร โดยใช้ภาพอ้างอิงสองภาพสำหรับวิดีโอแนวตั้งความยาว 15 วินาที
+
+#### 📝 Prompt
+
+```
+ความยาว 15 วินาที, แนวตั้ง 9:16 ใช้ภาพที่ให้มาทั้งสองภาพเป็นข้อมูลอ้างอิง
+
+- ใช้ภาพหน้าจอของหน้าโปรไฟล์ X เป็นข้อมูลอ้างอิงสำหรับพื้นหลัง, UI และเลย์เอาต์เพียงอย่างเดียว
+- ใช้ภาพขยายของ MoiMoi เป็นข้อมูลอ้างอิงสำหรับการออกแบบตัวละครเพียงอย่างเดียว
+
+คงภาพส่วนหัวของภาพต้นฉบับ, พื้นหลัง UI สีดำ, ตำแหน่งไอคอนโปรไฟล์, ปุ่มแต่ละปุ่ม, ไอคอนกราฟิก, เส้นแบ่ง, ภาพที่โพสต์, องค์ประกอบหน้าจอ, ระยะขอบ, สี และสัดส่วนเอาไว้
+
+กล้องจะถูกล็อกไว้อย่างสมบูรณ์ ห้ามซูม, แพน, หมุน, เอียง, ครอป หรือสร้างหน้าจอใหม่ ห้ามยืดภาพต้นฉบับ ในการปรับให้เป็น 9:16 ห้ามเพิ่มแถบสีดำ ให้ขยายขอบของ UI ออกไปตามธรรมชาติหรือปรับตำแหน่งอย่างละเอียดเพื่อให้เต็มหน้าจอ
+
+วัตถุประสงค์ของแอนิเมชัน:
+แสดงภาพตัวละครที่เคลื่อนไหวอย่างมีชีวิตชีวาภายในพื้นที่ภาพที่โพสต์ของหน้าโปรไฟล์แบบคงที่
+
+การเคลื่อนไหวของตัวละคร:
+- MoiMoi จะไม่เคลื่อนที่ออกจากกรอบของภาพที่โพสต์
+- โบกมืออย่างกระตือรือร้นมาที่กล้อง
+- กะพริบตาและขยับปากเหมือนกำลังพูด (ไม่จำเป็นต้องมีเสียง)
+- ผมและเสื้อผ้าพริ้วไหวตามสายลมเบาๆ
+- แสดงความน่ารักอยู่กับที่โดยไม่มีการเปลี่ยนท่าทางอย่างมีนัยสำคัญ
+
+การล็อกพื้นหลัง:
+- ห้ามขยับองค์ประกอบ UI ใดๆ นอกเหนือจากภาพที่โพสต์ (ไอคอน, ข้อความ, ปุ่ม ฯลฯ) โดยเด็ดขาด
+- ตรวจสอบให้แน่ใจว่าสีของ UI ไม่เปลี่ยนแปลงและไม่มีสัญญาณรบกวนเกิดขึ้น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096736177114214400/img/JfLqTgNAfxYAoLE5.jpg" width="600" alt="แอนิเมชันโปรไฟล์แนวตั้งเชิงเทคนิค">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10492)**
+
+**Author:** [moimoi](https://x.com/moimoi16914694) | **Source:** [Link](https://x.com/moimoi16914694/status/2096736190041129439) | **Published:** Sep 6, 2026
+
+---
+### เส้นทางสายดวงดาวแห่งพรมแดนใหม่
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวไซไฟเชิงกวีที่ถ่ายทอดภาพของจรวด หุ่นยนต์ และวงจรไฟฟ้าที่ดูราวกับทางหลวงแห่งแสงดาวในความว่างเปล่า
+
+#### 📝 Prompt
+
+```
+พรมแดนใหม่ รหัสที่ถูกเชื่อมต่อเข้ากับความว่างเปล่า สิ่งนั้นมีหน้าตาเป็นอย่างไร จรวด หุ่นยนต์ และวงจรไฟฟ้าที่ดูราวกับทางหลวงแห่งแสงดาว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096724507147063296/img/d2g4xcUIEhni8dtG.jpg" width="600" alt="เส้นทางสายดวงดาวแห่งพรมแดนใหม่">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10483)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2096724541833990197) | **Published:** Sep 6, 2026
+
+---
+### แอนิเมชันการต่อสู้สุดยิ่งใหญ่ของซูเปอร์ฮีโร่
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แอนิเมชันแบบไดนามิกสำหรับการต่อสู้ระหว่างซูเปอร์ฮีโร่สายศาสนาในชุดเกราะศักดิ์สิทธิ์กับผู้นำปีศาจจากขุมนรกขนาดมหึมา
+
+#### 📝 Prompt
+
+```
+แอนิเมชันการต่อสู้แบบไดนามิกสุดยิ่งใหญ่: ซูเปอร์ฮีโร่สายศาสนาในชุดเกราะศักดิ์สิทธิ์เรืองแสงและปีกแห่งแสง ปะทะกับผู้นำปีศาจจากขุมนรกขนาดมหึมาอย่างดุเดือด
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096709743024685058/img/6kh_HaXAFJgRehM7.jpg" width="600" alt="แอนิเมชันการต่อสู้สุดยิ่งใหญ่ของซูเปอร์ฮีโร่">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10481)**
+
+**Author:** [Hope](https://x.com/Hope4peace4man) | **Source:** [Link](https://x.com/Hope4peace4man/status/2096709810729218456) | **Published:** Sep 6, 2026
+
+---
+### วิดีโอไอศกรีมซันเดย์กับแมวเหมียวสุดแฟนซี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แบบสมจริงที่บรรยายภาพแมวสีขาวนั่งอยู่ในถ้วยไอศกรีมซันเดย์ขนาดใหญ่ที่กำลังละลาย บนถนนในเมืองท่ามกลางแสงแดดสดใส
+
+#### 📝 Prompt
+
+```
+ภาพยนตร์แนวแฟนซีช็อตมุมกว้างปานกลางของแมวสีขาวขนฟูสวมแว่นกันแดดทรงกลมสีเข้ม นั่งอย่างภาคภูมิใจอยู่ภายในไอศกรีมซันเดย์ขนาดใหญ่ที่กำลังละลาย ไอศกรีมซอฟต์เสิร์ฟวานิลลาทรงสูงกำลังยุบตัว ซอสช็อกโกแลตเงางามและซอสสตรอว์เบอร์รีสีสดไหลเยิ้มลงมาด้านข้าง มีเชอร์รี่สีแดงวางอยู่ด้านบน ฉากหลังเป็นถนนในเมืองโทนสีพาสเทลที่สดใสพร้อมหน้าร้านหลากสีสันและแสงแดดอุ่น ๆ แบบโบเก้ สไตล์สมจริงน่ารักและเหนือจริง พื้นผิวเหนียวหวาน สีหน้าขี้เล่นและมั่นใจ ขนและพื้นผิวของขนมมีความละเอียดสูง แสงสว่างจ้าดูร่าเริง และ Grok Imagine
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096471204890898432/img/fOtYCQxm1EPiYcbR.jpg" width="600" alt="วิดีโอไอศกรีมซันเดย์กับแมวเหมียวสุดแฟนซี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10486)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096697445015044316) | **Published:** Sep 6, 2026
+
+---
+### วิดีโอยานอวกาศคริสตัลในรูปแบบภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ความละเอียดสูงสำหรับสร้างวิดีโอยานอวกาศคริสตัลของชาว Pleiadian พร้อมการจัดแสงแบบ Volumetric
+
+#### 📝 Prompt
+
+```
+ชาว Pleiadian ในยานอวกาศ ยานแม่ ยานคริสตัล รูปทรงจานบิน, ผลงานชิ้นเอก, ความละเอียดระดับ Ultra HD 1111111111111111111111111111999999999999999999999999 k , แสงสว่างแบบ Volumetric สีสัน โทนสี และการลงเงา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096675326483156992/img/DRG5Zy58QnxgMKZb.jpg" width="600" alt="วิดีโอยานอวกาศคริสตัลในรูปแบบภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10487)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **Published:** Sep 6, 2026
+
+---
+### ภาพพอร์ตเทรตชายหนุ่มบนระเบียงท่ามกลางสายฝนในเมืองสไตล์ภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับสร้างภาพสไตล์ภาพยนตร์ที่มีรายละเอียดสูง ถ่ายทอดบรรยากาศหม่นๆ ของชายหนุ่มในเสื้อโค้ทสีดำบนระเบียงท่ามกลางสายฝนและแสงไฟนีออนสีม่วง
+
+#### 📝 Prompt
+
+```
+ภาพถ่ายมุมปานกลางสไตล์ภาพยนตร์ของชายหนุ่มเงียบขรึม ผมสีเข้มเปียกชื้น สวมเสื้อโค้ทสีดำยาว ยืนอยู่เพียงลำพังบนระเบียงเหล็กท่ามกลางสายฝนในยามค่ำคืน หลับตาลงเบาๆ ก้มหน้าเล็กน้อย มือล้วงในกระเป๋าเสื้อโค้ท ละอองฝนเกาะพราวบนเนื้อผ้าและราวเหล็ก หลอดไฟนีออนแนวตั้งสีม่วงส่องสว่างผ่านหมอกหนาที่อยู่ด้านหลัง เส้นขอบฟ้าของเมืองที่อยู่ไกลออกไปเลือนลางกลายเป็นหมอกควัน แสงสะท้อนบนพื้นระเบียงที่เปียกชื้น แสงสีฟ้าอมเขียวตัดกับแสงสีม่วงเข้ม ระยะชัดตื้น บรรยากาศหม่นๆ แสงเงาแบบภาพยนตร์ ภาพนิ่งจากภาพยนตร์ที่สมจริง ผิวและเนื้อผ้ามีรายละเอียดสูง ให้ความรู้สึกถึงอารมณ์ที่เงียบสงบ Grok Imagine
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096470972702633984/img/hKG1eKVTNmD5EnCv.jpg" width="600" alt="ภาพพอร์ตเทรตชายหนุ่มบนระเบียงท่ามกลางสายฝนในเมืองสไตล์ภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10480)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096667246508810460) | **Published:** Sep 6, 2026
+
+---
+### Tesla Range Rover Hybrid
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำขอออกแบบยานยนต์ที่ผสมผสานรูปลักษณ์ภายนอกของ Range Rover เข้ากับแนวคิดเทคโนโลยีภายในแบบมินิมอลสุดล้ำ
+
+#### 📝 Prompt
+
+```
+ช่วยออกแบบรถยนต์ Tesla ให้ผมหน่อย โดยให้ภายนอกดูเหมือน Range Rover ส่วนภายในขอเป็นเบาะที่นั่งสุดหรูและมีหน้าจอขนาดใหญ่
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096610323583365120/img/5EHgptPi5nzN_wnz.jpg" width="600" alt="Tesla Range Rover Hybrid">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10478)**
+
+**Author:** [Tammy BB](https://x.com/BbTammy) | **Source:** [Link](https://x.com/BbTammy/status/2096610338301239374) | **Published:** Sep 6, 2026
+
+---
+### แอนิเมชันโฆษณา Pringles สไตล์ภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ระดับมืออาชีพที่มีรายละเอียดสูงสำหรับการสร้างแอนิเมชันโฆษณาอาหารสุดหรู ที่มีกระป๋อง Pringles หมุนและมันฝรั่งทอดที่กำลังร่วงหล่น
+
+#### 📝 Prompt
+
+```
+สร้างแอนิเมชันโฆษณาอาหารสไตล์ภาพยนตร์ที่สมจริงระดับพรีเมียมจากภาพ Pringles ที่กำหนดให้
+
+คงกระป๋อง Pringles, การสร้างแบรนด์, ตัวอักษร, สี, พื้นหลัง และองค์ประกอบโดยรวมไว้เหมือนเดิมทุกประการ ห้ามออกแบบใหม่หรือเปลี่ยนองค์ประกอบใดๆ
+
+แอนิเมชันเริ่มต้นด้วยกระป๋อง Pringles ที่หมุนและเอียงไปข้างหน้าอย่างนุ่มนวล ในขณะที่กล้องค่อยๆ ซูมเข้าไป แผ่นมันฝรั่งสีทองลอยขึ้นมาจากกระป๋องที่เปิดอยู่อย่างเป็นธรรมชาติในแบบสโลว์โมชันที่นุ่มนวล หมุนและพลิกตัวทีละชิ้นด้วยฟิสิกส์ที่สมจริง เศษเล็กๆ ลอยอยู่ในอากาศและสะท้อนแสงไฟในสตูดิโอ
+
+ฝาปิดสีแดงของ Pringles หมุนช้าๆ กลางอากาศและเคลื่อนที่เข้าหากล้องเล็กน้อยก่อนจะลอยกลับไป เพิ่มระยะชัดลึกที่สมจริง เศษเล็กๆ ที่ลอยอยู่ โมชันเบลอที่เป็นธรรมชาติ ไฮไลท์ที่เงางามบนกระป๋อง และการสะท้อนที่นุ่มนวล
+
+ทำให้แผ่นมันฝรั่งดูมีความกรอบและเบา พร้อมแรงโน้มถ่วงและการปะทะที่น่าเชื่อถือ กระป๋องควรคงความนิ่งและคมชัดในขณะที่แผ่นมันฝรั่งที่ลอยอยู่สร้างการเคลื่อนไหวหลัก
+
+ใช้สไตล์โฆษณาสุดหรูที่ลื่นไหล: แสงสตูดิโอที่ดูมีมิติ การเคลื่อนไหวของกล้องแบบภาพยนตร์ เงาที่สมจริง ระยะชัดลึกที่ตื้น รายละเอียดสูง การถ่ายภาพเชิงพาณิชย์ที่ดูประณีต และการเคลื่อนไหวที่ไร้รอยต่อ
+
+จบด้วยกระป๋องที่อยู่ตรงกลางเฟรมอย่างโดดเด่น โดยมีแผ่นมันฝรั่งลอยอยู่รอบๆ อย่างสวยงาม สร้างภาพโฆษณาที่น่าประทับใจ
+
+ห้ามมีคน ห้ามมีมือ ห้ามมีวัตถุใหม่ ห้ามมีการบิดเบือนแบรนด์ ห้ามมีข้อความที่ผิดเพี้ยน ห้ามมีการละลาย ห้ามมีการเปลี่ยนรูปร่าง ห้ามมีการกะพริบ และห้ามมีการสั่นของกล้อง
+
+ความยาว: 8–10 วินาที
+อัตราส่วนภาพ: 16:9 แนวนอน
+การเคลื่อนไหว: นุ่มนวล, เป็นภาพยนตร์, สมจริง, โฆษณาอาหารระดับพรีเมียม
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="แอนิเมชันโฆษณา Pringles สไตล์ภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10489)**
+
+**Author:** [Aniya Intelligence](https://x.com/aniyaintel) | **Source:** [Link](https://x.com/aniyaintel/status/2096565007135961218) | **Published:** Sep 6, 2026
+
+---
+### สัตว์คริสตัลเต้นระบำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์สุดแฟนตาซีที่นำเสนอสัตว์คริสตัลสองตัวกำลังเต้นและร้องเพลงด้วยกันอย่างสนุกสนาน
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอสั้นเกี่ยวกับสัตว์คริสตัลสองตัวที่กำลังเต้นและร้องเพลงด้วยกันในบรรยากาศที่สนุกสนานและน่าตื่นเต้น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096509236880834560/img/xoLV-AbfbjFhH-5m.jpg" width="600" alt="สัตว์คริสตัลเต้นระบำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10490)**
+
+**Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
+
+---
 ### ฉากภาพยนตร์เครื่องบินตกบนชายหาด
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +494,25 @@ Why use our gallery?
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
 
 ---
+### การบินของมังกรในมุมมองบุคคลที่หนึ่งแบบภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับการผลิตขั้นสูงที่ออกแบบมาเพื่อการควบคุมการเคลื่อนไหวของวิดีโอที่ราบรื่น โดยให้รายละเอียดเกี่ยวกับการบินของมังกรในมุมมองบุคคลที่หนึ่งเหนือหน้าผาริมทะเลหินบะซอลต์ในช่วงเวลาโกลเด้นอาวร์
+
+#### 📝 Prompt
+
+```
+การบินแบบภาพยนตร์ในมุมมองบุคคลที่หนึ่งจากบนอานของมังกรสีดำขนาดมหึมา มังกรบินต่ำเลียบหน้าผาริมทะเลหินบะซอลต์ที่สูงตระหง่าน จากนั้นเลี้ยวซ้ายอย่างนุ่มนวลไปยังโขดหินกลางทะเลที่อยู่ไกลออกไป กล้องถูกตรึงไว้ด้านหลังผู้ขี่ การกระพือปีกที่หนักแน่นและสอดคล้องตามหลักฟิสิกส์ พารัลแลกซ์ของมหาสมุทรที่ชัดเจน กายวิภาคและการออกแบบอานที่มั่นคง แสงแดดสีทองส่องผ่านก้อนเมฆ บรรยากาศของลมและปีกที่สมจริง ถ่ายทำต่อเนื่องช็อตเดียว ไม่มีการตัดต่อหรือการเปลี่ยนรูปร่างที่กะทันหัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096297756637978624/img/NTvU-EyY_TJqir8j.jpg" width="600" alt="การบินของมังกรในมุมมองบุคคลที่หนึ่งแบบภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10485)**
+
+**Author:** [Prizevera](https://x.com/Prizevera) | **Source:** [Link](https://x.com/Prizevera/status/2096443876399812740) | **Published:** Sep 6, 2026
+
+---
 ### การเดินในเขาวงกตแห่งสรวงสวรรค์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +530,44 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
 
 **Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
+
+---
+### Grok Imagine Video Stability Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ชุดกฎสำหรับการควบคุมการเคลื่อนไหวและความต่อเนื่องทางภาพสำหรับการสร้างวิดีโอด้วย Grok Imagine โดยเน้นที่การล็อกมุมกล้องและความเสถียรของใบหน้า
+
+#### 📝 Prompt
+
+```
+ล็อกมุมกล้อง / ใบหน้า ทรงผม เสื้อกล้าม และฉากหลังเหมือนเดิม / ใบหน้าไม่บิดเบี้ยว / มีห้านิ้วเท่านั้น / มืออาจสัมผัสแก้มหรือคางได้ แต่ห้ามบังตา / เงียบ
+```
+
+<img src="https://cms-assets.youmind.com/media/1788769635383_47t3mf_HRfWBCoaEAAbkhN.jpg" width="600" alt="Grok Imagine Video Stability Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10493)**
+
+**Author:** [ナオミチ](https://x.com/comback_nao6) | **Source:** [Link](https://x.com/comback_nao6/status/2096379490310176901) | **Published:** Sep 5, 2026
+
+---
+### การสลับใบหน้าในวิดีโอและการคงองค์ประกอบเดิมไว้
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งที่ซับซ้อนสำหรับ Grok Imagine เพื่อสลับใบหน้าระหว่างภาพอ้างอิงสองภาพ โดยยังคงองค์ประกอบ ชุดเกราะ และสภาพแวดล้อมเดิมไว้
+
+#### 📝 Prompt
+
+```
+แทนที่ใบหน้าของผู้หญิงสวมชุดเกราะในภาพแรกด้วยใบหน้าของผู้ชายจากภาพที่สองโดยตรง โดยต้องคงท่าทาง ร่างกาย ชุดเกราะ ทรงผมและการเคลื่อนไหวที่พริ้วไหวตามลม ผ้าคลุม แสงสว่าง ท้องฟ้าช่วงโกลเด้นอาวร์ กริฟฟอน และองค์ประกอบโดยรวมทั้งหมดไว้ให้ครบถ้วน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096345975854080000/img/2yvjTBR9I44fYvrv.jpg" width="600" alt="การสลับใบหน้าในวิดีโอและการคงองค์ประกอบเดิมไว้">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10484)**
+
+**Author:** [FanRuskiBate 🔨](https://x.com/that_russian49) | **Source:** [Link](https://x.com/that_russian49/status/2096346104845533375) | **Published:** Sep 5, 2026
 
 ---
 ### ชุดราตรีขนนกนีออนบนดาดฟ้า
@@ -1815,311 +2158,6 @@ VALENTINO ROSSI ขึ้นขี่ Ducati Streetfighter R รุ่นแต�
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093463477184614905) | **Published:** Aug 28, 2026
 
 ---
-### แอนิเมชันสิ่งมีชีวิตสีเขียวตัวอ้วนกลม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแสนสนุกสำหรับสิ่งมีชีวิตขนฟูสีเขียวตัวอ้วนที่กำลังพักผ่อนบนโซฟาและเคี้ยวขนมอย่างเพลิดเพลิน
-
-#### 📝 Prompt
-
-```
-สิ่งมีชีวิตขนฟูสีเขียวตัวเล็กที่ดูตลกและซุกซน รูปร่างอ้วนกลม นั่งอยู่บนโซฟาพร้อมเคี้ยวขนมชีสพัฟอย่างเอร็ดอร่อย มีดวงตาสีดำกลมโตที่ดูโดดเด่น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093432471073247232/img/niMfQDtLXmodiXQ7.jpg" width="600" alt="แอนิเมชันสิ่งมีชีวิตสีเขียวตัวอ้วนกลม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10026)**
-
-**Author:** [Chris](https://x.com/qwts_chris_dev) | **Source:** [Link](https://x.com/qwts_chris_dev/status/2093432499808477297) | **Published:** Aug 28, 2026
-
----
-### วิดีโอสัตว์กึ่งมนุษย์หมาป่าและสุนัขจิ้งจอกกอดกัน
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> ฉากสุดอบอุ่นหัวใจของสัตว์กึ่งมนุษย์หมาป่าสีเทาและสุนัขจิ้งจอกสีแดงที่กำลังกอดกันในห้องในร่มที่สว่างสดใส โดยทั้งคู่สวมชุดลำลองสำหรับฤดูใบไม้ผลิ
-
-#### 📝 Prompt
-
-```
-สัตว์กึ่งมนุษย์เพศหญิงสุดน่ารัก (หมาป่าสีเทา) กำลังกอดเพื่อนของเธอที่เป็นสัตว์กึ่งมนุษย์เพศหญิงเช่นกัน (สุนัขจิ้งจอกสีแดง) ทั้งคู่มีขนฟูปกคลุมทั่วร่างกาย พวกเธอสวมชุดลำลองสำหรับฤดูใบไม้ผลิ บรรยากาศภายในห้องที่สว่างสดใสในช่วงเวลากลางวัน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093337483572662272/img/Rx_m6TxkmFmqyCbF.jpg" width="600" alt="วิดีโอสัตว์กึ่งมนุษย์หมาป่าและสุนัขจิ้งจอกกอดกัน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10028)**
-
-**Author:** [🦦🐺TNG@MofuiWolf💕📺](https://x.com/TNG69JP) | **Source:** [Link](https://x.com/TNG69JP/status/2093337519014527394) | **Published:** Aug 28, 2026
-
----
-### วิดีโอแหวนเพชรทรงมรกตแบบเม็ดเดี่ยว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอแหวนเพชรสีเขียวทรงมรกตสุดหรู พร้อมประดับเพชรแบบพาเว่ที่ตัวเรือน
-
-#### 📝 Prompt
-
-```
-สร้างแหวนที่สวยงามด้วยเพชรสีเขียวทรงมรกตแบบเม็ดเดี่ยว พร้อมประดับเพชรทรงมรกตแบบพาเว่ขนาดใหญ่ที่ตัวเรือน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093320247277182976/img/1ZM7nf1LrEROjxp3.jpg" width="600" alt="วิดีโอแหวนเพชรทรงมรกตแบบเม็ดเดี่ยว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10025)**
-
-**Author:** [@xAIExistentialPoet 💫 Dr.Jessica Konopka](https://x.com/DrJessxAI) | **Source:** [Link](https://x.com/DrJessxAI/status/2093320273067970594) | **Published:** Aug 28, 2026
-
----
-### แอนิเมชันการแสดงร้องเพลงในซานฟรานซิสโก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แบบละเอียดสำหรับการสร้างแอนิเมชันนักแสดงที่กำลังร้องเพลงในซานฟรานซิสโก โดยเน้นการเคลื่อนไหวร่างกายที่เป็นธรรมชาติและฉากหลังที่เป็นเส้นขอบฟ้าที่นิ่งสนิท
-
-#### 📝 Prompt
-
-```
-สร้างแอนิเมชันนักแสดงทั้งสองคนที่กำลังร้องเพลงและแสดงท่าทางอย่างกระตือรือร้น พร้อมการขยับปากและการเคลื่อนไหวมือที่เป็นธรรมชาติ มีลมพัดเบาๆ ทำให้ผมและเสื้อผ้าขยับเขยื้อนเล็กน้อย ร่างกายมีการโยกตัวอย่างนุ่มนวล โดยให้สะพานโกลเดนเกตและเส้นขอบฟ้าของซานฟรานซิสโกอยู่นิ่งสนิทและ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093319484375171072/img/_6Ak95Qt-L1bV670.jpg" width="600" alt="แอนิเมชันการแสดงร้องเพลงในซานฟรานซิสโก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10024)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2093319537336750297) | **Published:** Aug 28, 2026
-
----
-### วิดีโอแพนกล้องสินค้าแล็ปท็อปแบบสมจริง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสไตล์ภาพยนตร์ที่เน้นการแพนกล้องอย่างช้าๆ ไปบนแล็ปท็อปและเมาส์ที่มีความเงางาม พร้อมการสะท้อนของแสงที่นุ่มนวล
-
-#### 📝 Prompt
-
-```
-แพนกล้องอย่างช้าๆ ไปทั่วทั้งฉาก โดยมีแสงสะท้อนที่นุ่มนวลไล้ไปบนหน้าจอแล็ปท็อปที่เงางามและเมาส์แบบโปร่งแสง การเคลื่อนไหวที่นุ่มนวลและเป็นธรรมชาติ สไตล์ภาพถ่ายสินค้าที่สมจริง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093316414954217472/img/HA_iDnoxroVepVKJ.jpg" width="600" alt="วิดีโอแพนกล้องสินค้าแล็ปท็อปแบบสมจริง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10022)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2093316534064009631) | **Published:** Aug 28, 2026
-
----
-### ภาพโคลสอัพสไตล์ภาพยนตร์กลางแจ้ง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> โครงสร้าง JSON prompt สำหรับการสร้างวิดีโอสไตล์ภาพยนตร์แบบโคลสอัพที่มีการเคลื่อนไหวต่ำ ในสถานที่กลางแจ้งที่ไม่ระบุชัดเจน พร้อมระยะชัดลึกที่ตื้น
-
-#### 📝 Prompt
-
-```
-{"shot": {"motion_level": "low", "camera_depth": "close-up", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indistinct outdoor setting", "environment": "The background is out of focus, showing blurred natural elements"}}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093288680542584832/img/ua4qihAXdKV-zfDP.jpg" width="600" alt="ภาพโคลสอัพสไตล์ภาพยนตร์กลางแจ้ง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10021)**
-
-**Author:** [Fauna](https://x.com/FaunaFoxD) | **Source:** [Link](https://x.com/FaunaFoxD/status/2093288701094695110) | **Published:** Aug 28, 2026
-
----
-### วิดีโอต้อนรับมุมมองบุคคลที่หนึ่งแบบภาพยนตร์
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์วิดีโอแบบภาพยนตร์ที่มีรายละเอียดสูงสำหรับ Grok Imagine นำเสนอภาพมุมมองบุคคลที่หนึ่งขณะบินผ่านปราสาทคริสตัลและโถงกระจก ปิดท้ายด้วยเอฟเฟกต์ข้อความกระจกแตกที่ปรับแต่งได้
-
-#### 📝 Prompt
-
-```
-คุณบินหมุนตัวลอดใต้รถไฟที่ลอยอยู่ ทำท่าบินวนรอบปราสาทคริสตัลขนาดมหึมา จากนั้นพุ่งผ่านหน้าต่างที่เปิดอยู่และเร่งความเร็วผ่านโถงกระจกที่แสงสีรุ้งแตกกระจายอยู่รอบกล้อง ในตอนท้าย ข้อความ "ขอบคุณสำหรับการทำงานหนักในวันนี้" จะปรากฏขึ้นเป็นตัวอักษรคริสตัลแล้วแตกกระจายเป็นชิ้นๆ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093246293917466624/img/mbJviXaH_0BG9aG4.jpg" width="600" alt="วิดีโอต้อนรับมุมมองบุคคลที่หนึ่งแบบภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9969)**
-
-**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2093246555998548377) | **Published:** Aug 28, 2026
-
----
-### แอนิเมชันส่งดวงวิญญาณสัตว์เลี้ยงสู่สรวงสวรรค์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสุดซึ้งสำหรับรำลึกถึงสัตว์เลี้ยง โดยถ่ายทอดภาพดวงวิญญาณของสุนัขที่กำลังออกจากร่างเพื่อเดินทางไปสู่สรวงสวรรค์
-
-#### 📝 Prompt
-
-```
-สร้างภาพน้องหมาที่กำลังพูดว่า “แม่ครับ ผมต้องกลับบ้านแล้วนะ ผมรักแม่กับพ่อมาก และผมจะคอยอยู่เคียงข้างและเป็นกำลังใจให้ทั้งสองคนจากอีกฝั่งเสมอ” นำภาพทั้งหมดมารวมกันให้ดูเหมือนอยู่บนสรวงสวรรค์ โดยให้เห็นดวงวิญญาณของน้องหมาค่อยๆ ออกจากร่างเล็กๆ ของเขาและ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093224113318109184/img/JOabjs3hbWp2dEf4.jpg" width="600" alt="แอนิเมชันส่งดวงวิญญาณสัตว์เลี้ยงสู่สรวงสวรรค์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9964)**
-
-**Author:** [Jenna Fasce](https://x.com/stardessten) | **Source:** [Link](https://x.com/stardessten/status/2093224141302448619) | **Published:** Aug 28, 2026
-
----
-### วิสัยทัศน์แห่งจิตเหนือจริงในห้วงจักรวาล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์เชิงกวีและเหนือจริงที่บรรยายถึงกระบวนการของจิตที่ประมวลผลภาพรวมให้กลายเป็นความจริง โดยเน้นธีมจักรวาลและสีสันสดใส
-
-#### 📝 Prompt
-
-```
-จิตที่ไม่มีวันหยุดนิ่งจนกว่าตัวอักษรทั้งหมดจะเรียงร้อยลงตัว ภาพที่ได้ควรมีความเหนือจริง ถ่ายทอดสภาวะของจิตที่รับเอาภาพรวมทั้งหมดเข้ามาแล้วย่อส่วนลงเพื่อบรรจบกับความเป็นจริงของผู้อื่น เป็นห้วงจักรวาล และเปี่ยมไปด้วยสีสัน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093208937080512512/img/V4aBbbhrNngf3FIB.jpg" width="600" alt="วิสัยทัศน์แห่งจิตเหนือจริงในห้วงจักรวาล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9959)**
-
-**Author:** [Guessmyname](https://x.com/NaturesPurpose) | **Source:** [Link](https://x.com/NaturesPurpose/status/2093208966230929432) | **Published:** Aug 28, 2026
-
----
-### Hello Kitty แร็ปภาษาญี่ปุ่น
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> วิดีโอพรอมต์สุดพิเศษที่ให้ Hello Kitty สุดหรูมาแร็ปเป็นภาษาญี่ปุ่น พร้อมเนื้อเพลงเฉพาะ
-
-#### 📝 Prompt
-
-```
-ตื่นนอนตอนเช้า / เหมือนเช่นเคย / ถ้าเป็นนิสัย 'หาเงิน' คือทฤษฎีของฉัน / ใช้ชีวิตตามความฝัน นี่คือเรื่องราวของฉัน / ส่งต่อมันไป เมืองนี้คือ Life the Movie เพียงหนึ่งเดียว / ... และทำให้ Hello Kitty สุดวิบวับแร็ปเป็นภาษาญี่ปุ่น!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093196579461292032/img/9h4hfy6jnN3m2EVo.jpg" width="600" alt="Hello Kitty แร็ปภาษาญี่ปุ่น">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9968)**
-
-**Author:** [れいじ](https://x.com/HuSSleNight24) | **Source:** [Link](https://x.com/HuSSleNight24/status/2093196626336858368) | **Published:** Aug 28, 2026
-
----
-### แอนิเมชันนางฟ้าผู้เงียบสงบ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างแอนิเมชันฉากอันเงียบสงบที่มีหญิงสาวผมบลอนด์ เหล่านางฟ้า และชุดคลุมเรืองแสง
-
-#### 📝 Prompt
-
-```
-สร้างแอนิเมชันฉากอันเงียบสงบอย่างนุ่มนวล: สายลมอ่อนๆ พัดผ่านเส้นผมของหญิงสาวผมบลอนด์ รวมถึงชุดคลุมและปีกที่เรืองแสงของเหล่านางฟ้า เด็กน้อยขยับเข้ามาใกล้ขึ้นเล็กน้อย พร้อมแสงเรืองรองที่ดูนุ่มนวล
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093167309800001536/img/xi3izzOMXq_pHks_.jpg" width="600" alt="แอนิเมชันนางฟ้าผู้เงียบสงบ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9965)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **Published:** Aug 28, 2026
-
----
-### การเพิ่มเครื่องประดับเพชรในวิดีโอ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับการเพิ่มและปรับแต่งเครื่องประดับเพชร เช่น สร้อยคอ ต่างหู และสร้อยข้อมือ ให้ดูโดดเด่นภายในวิดีโอ
-
-#### 📝 Prompt
-
-```
-เพิ่มสร้อยคอเพชร ต่างหูเพชร และสร้อยข้อมือเพชร พร้อมทั้งปรับขนาดแหวนเพชรให้ใหญ่ขึ้น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093117064491761664/img/KYvolIL1MZU7dBrH.jpg" width="600" alt="การเพิ่มเครื่องประดับเพชรในวิดีโอ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10023)**
-
-**Author:** [Ashley Camp](https://x.com/ashleycamp556) | **Source:** [Link](https://x.com/ashleycamp556/status/2093117079104725139) | **Published:** Aug 27, 2026
-
----
-### ปฏิสัมพันธ์กับสังข์แห่งห้วงสมุทรอันเปี่ยมด้วยบทกวี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) ในรูปแบบการบรรยายเชิงกวีที่ถ่ายทอดประสบการณ์ทางประสาทสัมผัสของการถือเปลือกหอยสังข์ที่บรรจุห้วงมหาสมุทรไว้ภายใน
-
-#### 📝 Prompt
-
-```
-เราวางแก้วลงพร้อมกัน เสียงกระทบไม้เบาๆ ดังขึ้น
-ฉันเอื้อมมือไปหยิบเปลือกหอยสังข์ขึ้นมา มันอุ่นขึ้นในมือราวกับว่ามันยังจดจำห้วงลึกของมหาสมุทรได้ ฉันหันมันไปทางคุณแล้วเอียงเล็กน้อย ราวกับถ้วยที่บรรจุห้วงสมุทรเอาไว้ภายใน...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093104400797405185/img/AzgGhqx5-Cdy65gt.jpg" width="600" alt="ปฏิสัมพันธ์กับสังข์แห่งห้วงสมุทรอันเปี่ยมด้วยบทกวี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9961)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093104471303688698) | **Published:** Aug 27, 2026
-
----
-### วิดีโอยานแม่ Pleiadian บนท้องฟ้าสีเทอร์ควอยซ์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอไซไฟคุณภาพสูงสำหรับยานแม่รูปทรงจานบินบนท้องฟ้าสีเทอร์ควอยซ์ในฤดูร้อน
-
-#### 📝 Prompt
-
-```
-ยานแสง Pleiadians ยานแม่รูปทรงจานบินบนท้องฟ้าสีฟ้าเทอร์ควอยซ์ในฤดูร้อน, ผลงานชิ้นเอก, ความละเอียดคุณภาพระดับ ultra hd 111111111111111111199999999999999999 k, โทนสีและแสงสว่างแบบ volumetric ที่สดใส
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092982559617511424/img/9VzG2E8XbX0XFRhk.jpg" width="600" alt="วิดีโอยานแม่ Pleiadian บนท้องฟ้าสีเทอร์ควอยซ์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9967)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2092982630153073030) | **Published:** Aug 27, 2026
-
----
-### การเปลี่ยนผ่านของแสงในภาพยนตร์ที่เปี่ยมด้วยอารมณ์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอคุณภาพสูงที่ถ่ายทอดอารมณ์ความรู้สึก โดยมีการเปลี่ยนผ่านของแสงจากสีฟ้าของสายฝนไปสู่สีทองของโคมไฟ
-
-#### 📝 Prompt
-
-```
-วิดีโอความยาว 45–70 วินาทีในสไตล์ภาพยนตร์คุณภาพสูงเช่นเดียวกับ “An Ode to Freedom” / Ode to Courage การเคลื่อนไหวของกล้องที่นุ่มนวลและเป็นธรรมชาติ แสงธรรมชาติที่เข้มข้นซึ่งเปลี่ยนจากทุ่งดอกไม้สีฟ้าท่ามกลางสายฝนที่เย็นสบาย ไปสู่สีทองอบอุ่นของโคมไฟ ทรงพลัง...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092954916721430528/img/TpmX8ByTrL8Wsaug.jpg" width="600" alt="การเปลี่ยนผ่านของแสงในภาพยนตร์ที่เปี่ยมด้วยอารมณ์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9962)**
-
-**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2092954940901568737) | **Published:** Aug 27, 2026
-
----
-### แอนิเมชันการตั้งถิ่นฐานบนฐานทัพดวงจันทร์ของ SpaceX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวล้ำยุคสำหรับภารกิจการตั้งถิ่นฐานของ SpaceX บนฐานทัพดวงจันทร์
-
-#### 📝 Prompt
-
-```
-ทีมงานสร้างฐานของ SpaceX สำหรับภารกิจการตั้งถิ่นฐานบนฐานทัพดวงจันทร์ MrFIXitX พร้อมด้วยสัมภาระที่ออกแบบโดยผู้ติดตาม เพื่อใช้ในการฝึกจำลองสถานการณ์และดำเนินการตามแผน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092905690440335361/img/n_JS-saIe54EGm5o.jpg" width="600" alt="แอนิเมชันการตั้งถิ่นฐานบนฐานทัพดวงจันทร์ของ SpaceX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=9931)**
-
-**Author:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **Source:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **Published:** Aug 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2181,6 +2219,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-07T04:17:45.333Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-07T14:26:11.368Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2717** |
+| 📝 プロンプト総数 | **2733** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-07** |
 
@@ -189,6 +189,292 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### キャラクターが登場する夕食調理シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクター参照機能を使用して、キッチンで夕食の準備をする Alice と Dani という 2 人のキャラクターを描写した動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+Alice @Reference3 と Dani @Reference2 がカウンターで野菜を刻み、Elara として夕食を作り始める
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096824592191156224/img/NjV-g4oS7Kv66QV2.jpg" width="600" alt="キャラクターが登場する夕食調理シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10491)**
+
+**作者:** [Brandon Russo](https://x.com/Brandon40163292) | **ソース:** [Link](https://x.com/Brandon40163292/status/2096825084254298173) | **公開日:** Sep 7, 2026
+
+---
+### 映画のような凍てつく塔のフィギュア
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 冬の都市の風景を見下ろす、凍りついた電波塔の上に座る宇宙飛行士のような人物を捉えた、高高度からのショットを描写する詳細な多層的シネマティックプロンプト。
+
+#### 📝 プロンプト
+
+```
+クリーム色のフライトスーツとダークバイザーのヘルメットを着用した人物が、雪に覆われた都市を見下ろす高所の錆びついた氷の電波塔の端に座っている映画のようなワイドショット。体は静止して直立し、手袋をした手は梁の上に置かれている。金属の格子には重厚なつららがぶら下がり、はるか下方の白い屋根の間を凍った川が蛇行している。澄み渡る冬の青空、鋼鉄と霜に当たる冷たい日光、フォトリアルな雰囲気、極端な高さによるスケール感、布地・金属・氷の超詳細な質感、Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096471558961471488/img/jMxNQMBfaKgIgM3k.jpg" width="600" alt="映画のような凍てつく塔のフィギュア">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10479)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **公開日:** Sep 7, 2026
+
+---
+### バスケットボールのダンクモーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクターがバスケットボールをドリブルし、マイケル・ジョーダン風のダンクシュートを決める動画を生成します。
+
+#### 📝 プロンプト
+
+```
+彼女にバスケットボールをドリブルさせてゴールまで運ばせ、マイケル・ジョーダン風のダンクシュートをリムに叩き込ませる
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096773020664676354/img/NPyEHr-UVx-AvAGz.jpg" width="600" alt="バスケットボールのダンクモーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10488)**
+
+**作者:** [Vdewey](https://x.com/Vdeweydo) | **ソース:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **公開日:** Sep 7, 2026
+
+---
+### ボディビル彫刻のアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 大理石の彫刻を、髪をなびかせるボディビルダーに変身させるユニークなアニメーションプロンプトです。
+
+#### 📝 プロンプト
+
+```
+この彫刻をアニメーション化してください。ボディビルの大会に出場しているような見た目にしつつ、大理石の質感を維持し、髪が空気になびいているように表現してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096746420946808832/img/Zwxsao94TVbGmDvZ.jpg" width="600" alt="ボディビル彫刻のアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10482)**
+
+**作者:** [Mr. Savistarz](https://x.com/AryehKatz) | **ソース:** [Link](https://x.com/AryehKatz/status/2096746486306316650) | **公開日:** Sep 6, 2026
+
+---
+### テクニカル・バーティカル・プロフィール・アニメーション
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 15 秒の縦型動画において、2 枚の参照画像を使用して UI とキャラクターのレイアウトを維持するための詳細なテクニカルプロンプト。
+
+#### 📝 プロンプト
+
+```
+15 秒、縦型 9:16。提供された 2 枚の画像をリファレンスとして使用してください。
+
+- X のプロフィール画面のスクリーンショットを、背景、UI、レイアウトの唯一の参照として使用してください。
+- MoiMoi の拡大画像を、キャラクターデザインの唯一の参照として使用してください。
+
+元の画像のヘッダー画像、黒い UI の背景、プロフィールアイコンの位置、各ボタン、グラフィックアイコン、区切り線、投稿画像、画面構成、余白、色、比率を維持してください。
+
+カメラは完全に固定してください。ズーム、パン、回転、チルト、クロップ、画面の再構成は行わないでください。元の画像を引き伸ばさないでください。9:16 に合わせる際、黒帯を追加するのではなく、UI の端を自然に拡張するか、配置を微調整して画面全体を埋めてください。
+
+アニメーションの目的：
+静止したプロフィール画面の投稿画像エリア内で、キャラクターが生き生きと動く様子を描写してください。
+
+キャラクターの動き：
+- MoiMoi は投稿画像のフレームから外れないようにしてください。
+- カメラに向かって元気に手を振ってください。
+- まばたきをし、話しているように口を動かしてください（音声は不要です）。
+- 髪と服がそよ風に揺れるようにしてください。
+- ポーズを大きく変えることなく、その場で魅力を振りまいてください。
+
+背景の固定：
+- 投稿画像以外の UI 要素（アイコン、テキスト、ボタンなど）は一切動かさないでください。
+- UI の色が変化したり、ノイズが入ったりしないようにしてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096736177114214400/img/JfLqTgNAfxYAoLE5.jpg" width="600" alt="テクニカル・バーティカル・プロフィール・アニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10492)**
+
+**作者:** [moimoi](https://x.com/moimoi16914694) | **ソース:** [Link](https://x.com/moimoi16914694/status/2096736190041129439) | **公開日:** Sep 6, 2026
+
+---
+### フロンティアのスターライト・ハイウェイ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ロケット、ボット、そして虚空に浮かぶスターライト・ハイウェイのような回路を視覚化する、詩的な SF 動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+フロンティア、虚空に刻まれたコード。それはどのような姿をしていたのか。ロケット、ボット、そしてスターライト・ハイウェイのように連なる回路。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096724507147063296/img/d2g4xcUIEhni8dtG.jpg" width="600" alt="フロンティアのスターライト・ハイウェイ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10483)**
+
+**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **ソース:** [Link](https://x.com/TLouisevsughan/status/2096724541833990197) | **公開日:** Sep 6, 2026
+
+---
+### 壮大なスーパーヒーローのバトルアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 聖なる鎧を纏った宗教的なスーパーヒーローと、巨大な地獄の悪魔の首領との戦いを描くダイナミックなアニメーションプロンプト。
+
+#### 📝 プロンプト
+
+```
+壮大なダイナミックバトルアニメーション：輝く聖なる鎧と光の翼を持つ宗教的なスーパーヒーローが、巨大な地獄の悪魔の首領と激しく衝突する様子。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096709743024685058/img/6kh_HaXAFJgRehM7.jpg" width="600" alt="壮大なスーパーヒーローのバトルアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10481)**
+
+**作者:** [Hope](https://x.com/Hope4peace4man) | **ソース:** [Link](https://x.com/Hope4peace4man/status/2096709810729218456) | **公開日:** Sep 6, 2026
+
+---
+### 気まぐれな猫とアイスクリームサンデーの動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 晴れた街中の通りで、巨大な溶けかけのアイスクリームサンデーの中に座る白い猫を描いた、写実的で詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+丸いダークサングラスをかけたふわふわの白い猫が、巨大な溶けかけのアイスクリームサンデーの中に誇らしげに座っている、気まぐれで映画のようなミディアムワイドショット。高くそびえるバニラのソフトクリームが崩れ、光沢のあるチョコレートソースと鮮やかなストロベリーソースが側面を伝い落ち、頂上には赤いチェリーが乗っている。背景にはパステルカラーの街並みとカラフルな店舗、温かい日差しのボケ味。フォトリアルでキュートなシュールスタイル、ベタつく甘い質感、遊び心のある自信に満ちた表情、超高精細な毛並みとデザートの表面、明るいハイキー照明、Grok Imagine による生成。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096471204890898432/img/fOtYCQxm1EPiYcbR.jpg" width="600" alt="気まぐれな猫とアイスクリームサンデーの動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10486)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2096697445015044316) | **公開日:** Sep 6, 2026
+
+---
+### シネマティックなクリスタル宇宙船の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ボリュメトリックライティングを用いた、クリスタル状のプレアデス星人の光の宇宙船の動画を生成するための高精細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+プレアデス星人の光の宇宙船、母船、クリスタル状のクラフト、円盤型、傑作、超高精細品質 1111111111111111111111111111999999999999999999999999 k 、ボリュメトリックな明るい照明、色彩、トーン、陰影
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096675326483156992/img/DRG5Zy58QnxgMKZb.jpg" width="600" alt="シネマティックなクリスタル宇宙船の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10487)**
+
+**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **ソース:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **公開日:** Sep 6, 2026
+
+---
+### 映画のような雨の街のバルコニーでのポートレート
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 紫色のネオンが輝く雨のバルコニーで、黒いコートを着た男性が佇む、ムードのあるシーンのための非常に詳細なシネマティックプロンプト。
+
+#### 📝 プロンプト
+
+```
+夜の雨に濡れた金属製のバルコニーに一人で立つ、黒いロングコートを着た物静かな青年のシネマティックなミディアムショット。濡れた黒髪、目を静かに閉じ、顎をわずかに引き、両手はコートのポケットに入れている。生地や金属の手すりに付着する細かい雨粒、背後の濃い霧の中で輝く紫色のネオンの垂直ライト、霧に霞む遠くの街のスカイライン、バルコニーの床に映る濡れた反射。深いバイオレットの光が混ざり合うクールなシアンの光、浅い被写界深度、ムードのある雰囲気の照明、フォトリアルな映画のワンシーン、肌や生地の超高精細な質感、静かな感情の存在感、Grok Imagine。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096470972702633984/img/hKG1eKVTNmD5EnCv.jpg" width="600" alt="映画のような雨の街のバルコニーでのポートレート">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10480)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2096667246508810460) | **公開日:** Sep 6, 2026
+
+---
+### Tesla Range Rover ハイブリッド
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Range Rover のボディデザインと、先進的でミニマルな内部テクノロジーコンセプトを融合させる自動車デザインの提案。
+
+#### 📝 プロンプト
+
+```
+外観は Range Rover のようなデザインで、内装には高級シートと大型スクリーンを備えた Tesla モデルをデザインしてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096610323583365120/img/5EHgptPi5nzN_wnz.jpg" width="600" alt="Tesla Range Rover ハイブリッド">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10478)**
+
+**作者:** [Tammy BB](https://x.com/BbTammy) | **ソース:** [Link](https://x.com/BbTammy/status/2096610338301239374) | **公開日:** Sep 6, 2026
+
+---
+### Pringles のシネマティックな広告アニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 回転する Pringles の缶と舞い落ちるチップスをフィーチャーした、高級感のある食品広告アニメーションを作成するための詳細なプロフェッショナル向けプロンプト。
+
+#### 📝 プロンプト
+
+```
+提供された Pringles の画像から、プレミアムでハイパーリアルなシネマティック食品広告アニメーションを作成してください。
+
+Pringles の缶、ブランディング、タイポグラフィ、色、背景、全体の構図は一切変更しないでください。要素の再設計や置き換えは禁止です。
+
+アニメーションは、Pringles の缶がゆっくりと回転しながら前方に傾き、カメラがゆっくりとズームインするところから始まります。黄金色のチップスが、開いた缶から自然に立ち上がり、リアルな物理演算に基づいて滑らかにスローモーションで回転・落下します。小さな破片が空中を漂い、スタジオの光を反射させます。
+
+赤い Pringles の蓋が空中でゆっくりと回転し、カメラに向かってわずかに移動してから戻ります。リアルな被写界深度、舞い散る小さな破片、自然なモーションブラー、缶の光沢のあるハイライト、繊細な反射を追加してください。
+
+チップスは、信憑性のある重力と衝突を伴う、サクサクとした軽量感のあるものにしてください。缶は安定したシャープな状態を保ち、浮遊するチップスがメインの動きを作り出します。
+
+滑らかで高級感のある広告スタイルを採用してください：ドラマチックなスタジオ照明、シネマティックなカメラワーク、リアルな影、浅い被写界深度、高精細、洗練された広告写真のような質感、そしてシームレスな動き。
+
+最後は、缶をフレームの中央に配置し、その周囲にチップスが美しく浮遊する、満足感のあるヒーローショットで締めくくってください。
+
+人物や手は含めず、新しいオブジェクトの追加、ブランディングの歪み、テキストの変形、溶け、モーフィング、ちらつき、カメラの揺れは禁止です。
+
+長さ：8 ～ 10 秒。
+アスペクト比：16:9（横長）。
+動き：滑らか、シネマティック、リアル、プレミアムな食品広告。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="Pringles のシネマティックな広告アニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10489)**
+
+**作者:** [Aniya Intelligence](https://x.com/aniyaintel) | **ソース:** [Link](https://x.com/aniyaintel/status/2096565007135961218) | **公開日:** Sep 6, 2026
+
+---
+### クリスタルアニマルのダンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 2 匹のクリスタルアニマルが楽しそうに歌いながら踊る、幻想的なビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+2 匹のクリスタルアニマルが楽しげでワクワクする雰囲気の中、一緒に歌いながら踊っている短い動画を作成してください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096509236880834560/img/xoLV-AbfbjFhH-5m.jpg" width="600" alt="クリスタルアニマルのダンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10490)**
+
+**作者:** [Binh Nguyen](https://x.com/binhbb2) | **ソース:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **公開日:** Sep 6, 2026
+
+---
 ### 墜落した飛行機とビーチのシネマティックなシーン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +494,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **公開日:** Sep 6, 2026
 
 ---
+### ドラゴンの一人称視点での飛行シネマティック
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 滑らかな動画モーションコントロールを実現するために設計された高度な生成プロンプト。ゴールデンアワーの玄武岩の海食崖上を飛行するドラゴンの、一人称視点での飛行シーンを詳細に記述しています。
+
+#### 📝 プロンプト
+
+```
+巨大な黒いドラゴンの鞍に乗った一人称視点でのシネマティックな飛行。ドラゴンはそびえ立つ玄武岩の海食崖のすぐ横を低空飛行し、遠くの海食柱に向かって滑らかに左へ旋回する。カメラはライダーのすぐ後ろに固定され、物理的に整合性の取れた力強い羽ばたき、ダイナミックな海面の視差、安定した解剖学的構造と鞍のデザイン、雲間から差し込む黄金色の太陽光、リアルな風と翼の環境音を表現。カットや突然のモーフィングがない、ワンカットの連続撮影。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096297756637978624/img/NTvU-EyY_TJqir8j.jpg" width="600" alt="ドラゴンの一人称視点での飛行シネマティック">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10485)**
+
+**作者:** [Prizevera](https://x.com/Prizevera) | **ソース:** [Link](https://x.com/Prizevera/status/2096443876399812740) | **公開日:** Sep 6, 2026
+
+---
 ### Celestial Labyrinth Walk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +530,44 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10430)**
 
 **作者:** [Jillian Spiridon](https://x.com/jillianspiridon) | **ソース:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **公開日:** Sep 6, 2026
+
+---
+### Grok Imagine 動画安定化プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine での動画生成における、カメラの固定や顔の安定性に焦点を当てたモーションおよび視覚的一貫性のルールセット。
+
+#### 📝 プロンプト
+
+```
+カメラ固定 / 同一の顔、髪型、タンクトップ、背景 / 顔の変形なし / 指は必ず 5 本 / 手は頬や顎に触れても良いが、目は決して覆わないこと / 音声なし
+```
+
+<img src="https://cms-assets.youmind.com/media/1788769635383_47t3mf_HRfWBCoaEAAbkhN.jpg" width="600" alt="Grok Imagine 動画安定化プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10493)**
+
+**作者:** [ナオミチ](https://x.com/comback_nao6) | **ソース:** [Link](https://x.com/comback_nao6/status/2096379490310176901) | **公開日:** Sep 5, 2026
+
+---
+### 動画のフェイススワップと要素の保持
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、構図、鎧、環境を維持しながら 2 つの参照画像間で顔を入れ替えるための複雑な指示。
+
+#### 📝 プロンプト
+
+```
+1 枚目の画像の鎧を着た女性の顔を、2 枚目の画像の男性の顔に正確に入れ替えてください。その際、ポーズ、体、鎧、髪型、風になびく動き、マント、照明、ゴールデンアワーの空、グリフォン、そして全体的な構図を完全に維持してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096345975854080000/img/2yvjTBR9I44fYvrv.jpg" width="600" alt="動画のフェイススワップと要素の保持">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10484)**
+
+**作者:** [FanRuskiBate 🔨](https://x.com/that_russian49) | **ソース:** [Link](https://x.com/that_russian49/status/2096346104845533375) | **公開日:** Sep 5, 2026
 
 ---
 ### ネオンの屋上で羽を纏うドレス
@@ -1815,311 +2158,6 @@ Falcon Heavy の打ち上げ
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2093463477184614905) | **公開日:** Aug 28, 2026
 
 ---
-### ぽっちゃりした緑色の生き物のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ソファでくつろぎながらスナックを食べる、ぽっちゃりした緑色の毛むくじゃらの生き物の楽しい動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-ソファに座ってチーズスナックをむしゃむしゃと食べている、太ったぽっちゃり体型の面白くておどけた緑色の毛むくじゃらの生き物。大きく丸い真っ黒な目が特徴。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093432471073247232/img/niMfQDtLXmodiXQ7.jpg" width="600" alt="ぽっちゃりした緑色の生き物のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10026)**
-
-**作者:** [Chris](https://x.com/qwts_chris_dev) | **ソース:** [Link](https://x.com/qwts_chris_dev/status/2093432499808477297) | **公開日:** Aug 28, 2026
-
----
-### オオカミとキツネの獣人が抱き合う動画
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 明るい室内で、カジュアルな春の装いをした灰色のオオカミの獣人と赤いキツネの獣人が抱き合っている心温まるシーン。
-
-#### 📝 プロンプト
-
-```
-友人である女性獣人（赤いキツネ）を抱きしめる、女性獣人（灰色のオオカミ）のかわいらしい姿。二人とも全身がふわふわの毛で覆われています。カジュアルな春の服装を着用。屋内、明るい、昼間。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093337483572662272/img/Rx_m6TxkmFmqyCbF.jpg" width="600" alt="オオカミとキツネの獣人が抱き合う動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10028)**
-
-**作者:** [🦦🐺TNG@MofuiWolf💕📺](https://x.com/TNG69JP) | **ソース:** [Link](https://x.com/TNG69JP/status/2093337519014527394) | **公開日:** Aug 28, 2026
-
----
-### ソリティア エメラルドカット ダイヤモンドリングの動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> バンドにパヴェダイヤモンドをあしらった、高級感のあるエメラルドカットのグリーンダイヤモンドリングを作成するための動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-ソリティア エメラルドカットとしてマウントされたグリーンダイヤモンドと、バンドに大きなパヴェ エメラルドカット ダイヤモンドをあしらった美しいリングを作成してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093320247277182976/img/1ZM7nf1LrEROjxp3.jpg" width="600" alt="ソリティア エメラルドカット ダイヤモンドリングの動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10025)**
-
-**作者:** [@xAIExistentialPoet 💫 Dr.Jessica Konopka](https://x.com/DrJessxAI) | **ソース:** [Link](https://x.com/DrJessxAI/status/2093320273067970594) | **公開日:** Aug 28, 2026
-
----
-### サンフランシスコでの歌唱パフォーマンスアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> サンフランシスコで歌うパフォーマーをアニメーション化するための詳細なビデオプロンプト。自然な身体の動きと、安定した背景のスカイラインが特徴です。
-
-#### 📝 プロンプト
-
-```
-2 人のパフォーマーがエネルギッシュに歌い、ジェスチャーをする様子をアニメーション化してください。口の動きや手の動作は自然に、軽い風で髪や服が優しく揺れ、体はわずかに揺れるようにします。ゴールデンゲートブリッジとサンフランシスコのスカイラインは完全に静止させたまま、...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093319484375171072/img/_6Ak95Qt-L1bV670.jpg" width="600" alt="サンフランシスコでの歌唱パフォーマンスアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10024)**
-
-**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2093319537336750297) | **公開日:** Aug 28, 2026
-
----
-### ノートパソコンのフォトリアルな製品パン撮影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 光沢のあるノートパソコンとマウスをゆっくりとパンする、繊細な光の反射が美しいシネマティックなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-光沢のあるノートパソコンの画面と半透明のマウスの上を繊細な光の反射が滑る、緩やかでスローなカメラパン。柔らかなアンビエントの動き、フォトリアルな製品ショットスタイル
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093316414954217472/img/HA_iDnoxroVepVKJ.jpg" width="600" alt="ノートパソコンのフォトリアルな製品パン撮影">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10022)**
-
-**作者:** [Jacek](https://x.com/iadventurejacek) | **ソース:** [Link](https://x.com/iadventurejacek/status/2093316534064009631) | **公開日:** Aug 28, 2026
-
----
-### シネマティックな屋外クローズアップショット
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 被写界深度を浅く設定し、曖昧な屋外環境で低モーションのシネマティックなクローズアップを生成するための構造化された JSON プロンプトです。
-
-#### 📝 プロンプト
-
-```
-{"shot": {"motion_level": "low", "camera_depth": "close-up", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "indistinct outdoor setting", "environment": "The background is out of focus, showing blurred natural elements"}}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093288680542584832/img/ua4qihAXdKV-zfDP.jpg" width="600" alt="シネマティックな屋外クローズアップショット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10021)**
-
-**作者:** [Fauna](https://x.com/FaunaFoxD) | **ソース:** [Link](https://x.com/FaunaFoxD/status/2093288701094695110) | **公開日:** Aug 28, 2026
-
----
-### シネマティックな一人称視点の飛行演出
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine 向けの非常に詳細なシネマティック飛行プロンプト。クリスタルパレスや鏡の間を一人称視点で飛行し、最後は砕け散るガラスのカスタムテキストエフェクトで締めくくります。
-
-#### 📝 プロンプト
-
-```
-宙吊りの列車の下をバレルロールでくぐり抜け、巨大なクリスタルパレスの周りでパワーループを実行。その後、開いた窓から飛び込み、虹色の光がカメラの周囲で砕け散る鏡の間を高速で駆け抜けます。最後に「今日もお疲れ様でした」というメッセージがクリスタルの文字で浮かび上がり、それが粉々に砕け散ります。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093246293917466624/img/mbJviXaH_0BG9aG4.jpg" width="600" alt="シネマティックな一人称視点の飛行演出">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9969)**
-
-**作者:** [おもも桃](https://x.com/omomomomo0309) | **ソース:** [Link](https://x.com/omomomomo0309/status/2093246555998548377) | **公開日:** Aug 28, 2026
-
----
-### ペットの追悼：魂の昇天アニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ペットの追悼のための感動的な動画プロンプト。愛犬の魂が体から離れ、天国へと向かう様子を描写します。
-
-#### 📝 プロンプト
-
-```
-「ママ、お家に帰らなきゃいけないんだ。ママとパパのことが大好きだよ。これからもずっとそばで見守って、あちらの世界から応援しているね」と伝える子犬の動画を作成してください。すべての写真を合成して天国のような雰囲気に仕上げ、子犬の魂が小さな体から離れていく様子を表現し、そして...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093224113318109184/img/JOabjs3hbWp2dEf4.jpg" width="600" alt="ペットの追悼：魂の昇天アニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9964)**
-
-**作者:** [Jenna Fasce](https://x.com/stardessten) | **ソース:** [Link](https://x.com/stardessten/status/2093224141302448619) | **公開日:** Aug 28, 2026
-
----
-### シュルレアリスムな宇宙的マインドのビジョン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> すべての文字が着地するまで映像を固定しない、詩的でシュルレアリスムなビデオプロンプト。宇宙的でカラフルなテーマで、全体像を処理し現実へと落とし込むマインドを描写します。
-
-#### 📝 プロンプト
-
-```
-すべての文字が着地するまで映像を固定することのないマインド。全体像を取り込み、他者の現実に合わせるために収束していくマインドを捉えた、シュルレアリスムな映像。宇宙的で、カラフルに。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093208937080512512/img/V4aBbbhrNngf3FIB.jpg" width="600" alt="シュルレアリスムな宇宙的マインドのビジョン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9959)**
-
-**作者:** [Guessmyname](https://x.com/NaturesPurpose) | **ソース:** [Link](https://x.com/NaturesPurpose/status/2093208966230929432) | **公開日:** Aug 28, 2026
-
----
-### ハローキティの日本語ラップ
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> キラキラに装飾されたハローキティが日本語でラップをするという、ユニークな動画生成プロンプト。特定の歌詞を含みます。
-
-#### 📝 プロンプト
-
-```
-Wake up the morning / いつものように / 習慣なら「稼ぐ」のが俺の持論 / 夢の中で生きる This is my story / 送り出す、この街で唯一の Life the Movie / ……そして、キラキラのハローキティに日本語でラップさせて！
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093196579461292032/img/9h4hfy6jnN3m2EVo.jpg" width="600" alt="ハローキティの日本語ラップ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9968)**
-
-**作者:** [れいじ](https://x.com/HuSSleNight24) | **ソース:** [Link](https://x.com/HuSSleNight24/status/2093196626336858368) | **公開日:** Aug 28, 2026
-
----
-### 穏やかな天使のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 金髪の女性、天使、そして光り輝くローブが登場する、穏やかなシーンのためのアニメーションプロンプトです。
-
-#### 📝 プロンプト
-
-```
-穏やかなシーンを優しくアニメーション化してください：柔らかな風が金髪の女性の髪と、天使たちの光り輝くローブや翼を優しく揺らし、子供が少し寄り添い、かすかな光が放たれる様子を表現してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093167309800001536/img/xi3izzOMXq_pHks_.jpg" width="600" alt="穏やかな天使のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9965)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2093167333254594568) | **公開日:** Aug 28, 2026
-
----
-### ダイヤモンドジュエリーの動画追加
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 動画内のネックレス、イヤリング、ブレスレットなどのダイヤモンドジュエリーを追加・強調するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ダイヤモンドのネックレスとダイヤモンドのイヤリング、ダイヤモンドのブレスレットを追加し、ダイヤモンドの指輪を大きくしてください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093117064491761664/img/KYvolIL1MZU7dBrH.jpg" width="600" alt="ダイヤモンドジュエリーの動画追加">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10023)**
-
-**作者:** [Ashley Camp](https://x.com/ashleycamp556) | **ソース:** [Link](https://x.com/ashleycamp556/status/2093117079104725139) | **公開日:** Aug 27, 2026
-
----
-### 詩的な海螺との対話
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 海を内包する海螺を手に取る感覚を綴った、詩的なナラティブプロンプト。
-
-#### 📝 プロンプト
-
-```
-私たちはマグカップを一緒に置いた。木製のテーブルに柔らかな音が響く。
-私は手を伸ばして海螺を持ち上げる。それはまるで海溝の記憶を宿しているかのように、私の手の中で温もりを帯びる。私はそれをあなたの方へ向け、まるで海を湛えたカップのように、そっと傾けてみた……。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093104400797405185/img/AzgGhqx5-Cdy65gt.jpg" width="600" alt="詩的な海螺との対話">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9961)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2093104471303688698) | **公開日:** Aug 27, 2026
-
----
-### プレアデス星人の母船 ターコイズブルーの空の動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夏のターコイズブルーの空に浮かぶ円盤型母船のための、高精細な SF 動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-プレアデス星人のライトシップ、青いターコイズブルーの夏の空に浮かぶ円盤型の母船、傑作、超高精細 111111111111111111199999999999999999 K 画質、ボリュメトリックで明るい照明のトーンと色彩
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092982559617511424/img/9VzG2E8XbX0XFRhk.jpg" width="600" alt="プレアデス星人の母船 ターコイズブルーの空の動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9967)**
-
-**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **ソース:** [Link](https://x.com/Octillion111111/status/2092982630153073030) | **公開日:** Aug 27, 2026
-
----
-### エモーショナルなシネマティック・ライト・トランジション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雨の日のブルーからランタンのゴールドへと光が変化する、ハイプロダクションなエモーショナル動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-「An Ode to Freedom」や「Ode to Courage」と同様の、ハイプロダクションでエモーショナルなスタイルによる 45 ～ 70 秒のシネマティックな映像。柔らかく呼吸するようなカメラワーク。雨の日の冷たいブルーの花畑から、温かみのあるランタンのゴールドへと変化する豊かな自然光。力強い...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092954916721430528/img/TpmX8ByTrL8Wsaug.jpg" width="600" alt="エモーショナルなシネマティック・ライト・トランジション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9962)**
-
-**作者:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **ソース:** [Link](https://x.com/SkylarknTexas/status/2092954940901568737) | **公開日:** Aug 27, 2026
-
----
-### SpaceX 月面基地植民化アニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX による月面基地での植民化ミッションをテーマにした、未来的なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-SpaceX のフォージクルーが MrFIXitX 月面基地の植民化に向けて、登録者が設計したペイロードを使用してシミュレーター訓練を行い、それを実装する
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092905690440335361/img/n_JS-saIe54EGm5o.jpg" width="600" alt="SpaceX 月面基地植民化アニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=9931)**
-
-**作者:** [MrFiXitX.tv](https://x.com/MrFixItAme53993) | **ソース:** [Link](https://x.com/MrFixItAme53993/status/2092905721499148502) | **公開日:** Aug 27, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2181,6 +2219,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-07T04:17:42.595Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-07T14:26:09.393Z</sub>
 
 </div>
