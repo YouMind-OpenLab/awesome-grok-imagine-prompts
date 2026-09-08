@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2733** |
+| 📝 提示词总数 | **2749** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-08** |
 
@@ -189,6 +189,251 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 科幻将棋舰队大战
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一场宏大的电影级太空战斗可视化场景，融合了传统日本将棋棋子的主题元素。
+
+#### 📝 提示词
+
+```
+史诗般的电影级太空战斗场景，以将棋（日本象棋）舰队战争为主题，标题为“宇宙戦艦強士 第76話 戦闘ログ版”。巨大的未来派太空战舰“Goshi”（宇宙戦艦強士）引擎闪烁着蓝光，其升变后的飞车化身为一条巨大的红金相间的龙……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097182756270923776/img/7aZ-Eqgg2bd6OKyU.jpg" width="600" alt="科幻将棋舰队大战">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10541)**
+
+**作者:** [後藤強士](https://x.com/rubensutsuyosi) | **来源:** [Link](https://x.com/rubensutsuyosi/status/2097182797463216167) | **发布时间:** Sep 8, 2026
+
+---
+### 未来太空战舰项目
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一幅极具戏剧性的科幻视觉作品，生动描绘了指挥舰桥上的人员在俯瞰星系级战术棋盘战争时的反应。
+
+#### 📝 提示词
+
+```
+太空战舰 Goshi 第 76 集《第五航道的弃子，边缘的余晖》。公元 2326 年，土星环外缘。外太空宛如一个巨大的 3D 将棋项目。中央的第五航道燃烧着金色的火焰，废弃的步兵型太空雷余晖在其中漂浮。旗舰“Goshi”（拥有大和号风格的重型轮廓，舰首刻有金色的“Goshi”字样）从斜角俯瞰战场。透过舰桥舷窗，一位戴眼镜的黑发指挥官正注视着飞船逃往第一航道边缘的轨迹。在最右侧的条带上，国王舰在 18 和 19 之间发出微弱的光芒滑行，身后紧跟着敌方成香和打入步兵的红色光束。中心位置，龙型战舰与成角正面向敌方国王舰。背景展现了土星环和遥远的小行星带……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097154072587669504/img/dZJLsiN6IUiD6C7f.jpg" width="600" alt="未来太空战舰项目">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10542)**
+
+**作者:** [後藤強士](https://x.com/rubensutsuyosi) | **来源:** [Link](https://x.com/rubensutsuyosi/status/2097154118683181073) | **发布时间:** Sep 8, 2026
+
+---
+### 科幻动作电影混剪
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的科幻视频提示词，结合了未来主义奔跑类电影的主题元素与特定演员。
+
+#### 📝 提示词
+
+```
+热爱 AI……将两部“奔跑者”风格的电影与 Gal Gadot 和 Alan Ritchson 结合起来。Gal 的角色因为儿子被绑架而奔跑，而 Alan 则是一位试图为孩子运送器官移植的奔跑者，但有人正试图阻截他。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097099626264547328/img/mq1TfBZObq3g9JBJ.jpg" width="600" alt="科幻动作电影混剪">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10529)**
+
+**作者:** [Simon](https://x.com/schaniteration2) | **来源:** [Link](https://x.com/schaniteration2/status/2097099666718597445) | **发布时间:** Sep 7, 2026
+
+---
+### 定格动画：海滩石像生物视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份详细的提示词，用于创作一段电影质感的定格动画视频，展现一个石像在岩石海岸上苏醒的过程。
+
+#### 📝 提示词
+
+```
+创作一段 21 秒的电影级竖屏定格动画，比例为 9:16。一个完全由天然形状的圆润海滩石块组成的小型人形生物，在岩石海岸的浅水潮池中苏醒。身体的每个部位都由独立的石块构成——头部是一块巨大的椭圆形石头，躯干由圆石堆叠而成，手臂和腿部则由较小的石块组成。
+
+场景透过略显模糊的铁丝网围栏拍摄，在前景形成天然的取景框。角色身后是平静的海岸线、浅滩海水、覆盖着藤壶的岩石、海藻，以及多云天空下微微模糊的森林。具备照片级真实的纹理、柔和的自然色彩、浅景深效果和逼真的水面反射。
+
+动画效果：石像生物缓慢地保持平衡，开始像顽皮的小人一样活动。它变换重心、抬腿、弯曲膝盖、摆动石质手臂，并在湿润的表面上小心翼翼地保持平衡，跳起一段奇特而可爱的舞蹈。每走一步都会形成细小的涟漪，水中的倒影也随之自然移动。动作应呈现出手工定格动画的质感，略显不完美但真实可信，并体现出石块真实的物理特性和重量感。
+
+最后几秒钟，角色失去平衡、绊倒并自然地散架，石块分离并滚落在潮湿的浅滩上。角色完全拆解还原为普通的石块。视频结尾镜头保持对散落石块及其倒影的聚焦。
+
+摄像机：固定竖屏构图，类似智能手机拍摄风格，带有细微的自然镜头晃动，中全景镜头，靠近水面的低角度拍摄，前景围栏产生强烈的焦外成像（bokeh）效果，具备电影级的景深。
+
+光照：柔和的漫射日光，多云的海岸氛围，湿润石块上真实的反射和高光。
+
+风格：超写实真人环境 + 奇幻且照片级真实的石块定格动画角色，触感真实的石质纹理，符合物理规律的动作，电影级微距摄影，无 CGI 感表面，无文字，无人类。
+
+负面提示词：卡通、塑料质感石头、夸张的面部特征、平滑的 CGI 角色、漂浮物体、不真实的物理效果、多余的肢体、环境突变、镜头剪辑、文字、水印、色彩过饱和。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097084466716160000/img/-GDM_shngZJPsaJs.jpg" width="600" alt="定格动画：海滩石像生物视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10514)**
+
+**作者:** [NETO 🎯](https://x.com/appneto) | **来源:** [Link](https://x.com/appneto/status/2097084726007771602) | **发布时间:** Sep 7, 2026
+
+---
+### 火星栖息地夜景转换
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于将尘土飞扬的橙色火星栖息地场景转换为带有银色月光的深靛色夜景的转换提示词。
+
+#### 📝 提示词
+
+```
+将此火星栖息地场景转换为深邃的夜景版本。将尘土飞扬的橙色朦胧天空改为带有深靛色和黑色调的暗夜天空，添加微弱的星光，并赋予月亮更明亮的夜间光芒，呈现出冷银色和蓝色的照明效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097064259008057344/img/GJaZBpZP_nKZjOPS.jpg" width="600" alt="火星栖息地夜景转换">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10536)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2097064276775125295) | **发布时间:** Sep 7, 2026
+
+---
+### 旋转花束缩放
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频动态提示词，可对一簇褶皱花朵进行平滑缩放和垂直旋转。
+
+#### 📝 提示词
+
+```
+保持完全相同的混合媒介花束图像。在顶部白色和灰色褶皱花朵的密集簇群上缓慢放大，同时整束花围绕其垂直轴轻轻旋转。平滑、连续的动态，绘画风格。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097045100371279872/img/_CVJO0RbC8voKFu0.jpg" width="600" alt="旋转花束缩放">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10539)**
+
+**作者:** [Ember Art](https://x.com/Ember8184Art) | **来源:** [Link](https://x.com/Ember8184Art/status/2097045135708074171) | **发布时间:** Sep 7, 2026
+
+---
+### 高级绿色城市景观视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 通过添加树木和草地等郁郁葱葱的植被，将未来派城市景观转化为具有高级生态美感的场景。
+
+#### 📝 提示词
+
+```
+我想把典型的未来派城市景观图片添加一些绿色植物。让它看起来非常高级，并增加大量的树木和草地。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097030058531581952/img/lpcCKU1Ety68woVy.jpg" width="600" alt="高级绿色城市景观视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10532)**
+
+**作者:** [GeoDev](https://x.com/GeoDev1962) | **来源:** [Link](https://x.com/GeoDev1962/status/2097030074939670594) | **发布时间:** Sep 7, 2026
+
+---
+### 火星太空营地电影感漫步
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个复杂的科幻电影感视频续写提示词，追踪一名女性在火星外星太空营地中行走的画面。
+
+#### 📝 提示词
+
+```
+转换场景，使该女性在火星的太空营地中向前行走，全身可见。她穿着同样的深蓝色现代宇航服，带有金属蓝和银色的细节，与蓝色发光装饰完美匹配……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096994780165124096/img/9lZYbxJqQG2g-YSn.jpg" width="600" alt="火星太空营地电影感漫步">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10530)**
+
+**作者:** [Mimi9060](https://x.com/MelodyM662010) | **来源:** [Link](https://x.com/MelodyM662010/status/2096994806459256874) | **发布时间:** Sep 7, 2026
+
+---
+### 高级时装大片短片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段 15 秒的高级时装短片提示词，旨在极简摄影棚场景中保持特定角色的外观一致性。
+
+#### 📝 提示词
+
+```
+制作一段 15 秒的高级时装大片短片，由成年角色担任主角。请保留其确切的外观、服装、配饰和视觉风格。以参考图的美学风格渲染整部影片。
+
+使用带有反光地面的极简摄影棚，...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096966883404812289/img/mZrPulPlds6nc1z8.jpg" width="600" alt="高级时装大片短片">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10533)**
+
+**作者:** [Eileen_Xie](https://x.com/eileen_XL) | **来源:** [Link](https://x.com/eileen_XL/status/2096966914136560022) | **发布时间:** Sep 7, 2026
+
+---
+### 周日早晨美学风格重塑
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 将照片重塑为温暖、朦胧的周日早晨美学风格，呈现金色阳光与复古色调。
+
+#### 📝 提示词
+
+```
+将此照片重塑为梦幻般的周日早晨美学风格。柔和、朦胧且温暖的金色晨光轻柔地洒在场景上，带有轻微的空气感雾气和柔和的漫射光。温暖的复古色调，融合了柔和的黄色与淡淡的绿色……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096955733229395968/img/5H31ebTBYn9VxiUj.jpg" width="600" alt="周日早晨美学风格重塑">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10535)**
+
+**作者:** [stan gralla](https://x.com/GrallaStan) | **来源:** [Link](https://x.com/GrallaStan/status/2096955746608927063) | **发布时间:** Sep 7, 2026
+
+---
+### 立体优雅礼服叙事
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个明确的、时长 30 秒的立体 3D 摄像机时间轴提示词，用于拍摄一位身着优雅象牙色玫瑰礼服女性的连续镜头。
+
+#### 📝 提示词
+
+```
+优化后的 30 秒视频提示词 — 从第 1 帧开始播放音乐
+一部令人叹为观止的 30 秒立体 3D 电影级杰作。超清晰、超细腻的质感，照片级真实的皮肤与织物，体积感金光，栩栩如生的深度。
+使用上传的女性作为确切主体：她的面部、阳光下卷曲的金发、带有高开叉的淡粉色与象牙色玫瑰礼服、水晶高跟鞋以及花园背景。请勿更改她的身份。
+音频（必选）
+独奏钢琴从第一帧开始播放，并持续不间断至最后一帧。仅限私密、浪漫、空灵的钢琴曲。无人声。无歌词。无延迟开场。
+故事，按时间轴划分
+0–5 秒
+钢琴已在播放。极具美感的近景到中景。她站在阳光明媚的石阶上，仿佛花园本身在呼吸。温暖的逆光将她的头发点亮成金色光环。一片花瓣悬浮在镜头前，随后以真实的 3D 效果飘过。
+5–12 秒
+她迈出优雅缓慢的一步。刺绣裙摆顺着台阶倾泻而下。成千上万片淡粉色和奶油色的花瓣从拱门升起，在分层的立体空间中围绕她旋转——有的擦过镜头，有的落在她肩后。细微的花粉和钻石粉尘捕捉着每一缕光线。轻薄的袖子仿佛失重般飘起。
+12–20 秒
+摄像机以丝滑、梦幻般的方式绕她旋转。柱子、玫瑰、喷泉水雾和漂浮花瓣产生视差。光线穿过石拱门产生光晕。几片花瓣落在她的锁骨和水晶胸衣上，随后又再次飘起。她将脸转向太阳。一个安静、自然的微笑。礼服闪烁着如湿润丝绸和碎珍珠般的光泽。
+20–30 秒
+她静止不动。花园仿佛在呼气。花瓣减速，在她周围形成漂浮的星群。金色花粉悬浮在空中。钢琴在最后一帧以一个悠长、温柔的尾音结束。保持画面：女性化、浪漫、近乎神圣。在温暖的花卉虚化和漂浮的光影中淡出。
+视觉风格
+空灵奢华的婚纱电影感。装饰性、优雅、女性化的美感。浪漫而不俗气。真实的皮肤毛孔和织物纹理，辅以魔法般的元素：漂浮的花瓣、花粉、光尘以及屏幕上轻柔的 3D 运动。
+摄像与制作
+竖屏 9:16。连续镜头，尽可能不剪辑。缓慢推进 + 环绕。浅景深，焦点精准对准面部和礼服。立体杰作，3D 质感，锐化升级，超精细细节。
+禁止事项
+更改她的面部或发型。添加人物。添加语音。延迟音乐。加快动作。过度修饰皮肤。
+使其感觉像一幅从第一帧就开始呼吸的动态油画。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="立体优雅礼服叙事">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10531)**
+
+**作者:** [Pam Westmore](https://x.com/PamWestmor85243) | **来源:** [Link](https://x.com/PamWestmor85243/status/2096924134231953625) | **发布时间:** Sep 7, 2026
+
+---
 ### 角色晚餐烹饪场景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,6 +472,25 @@ Alice @Reference3 和 Dani @Reference2 正在台面上切菜，并开始像 Elar
 **作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **发布时间:** Sep 7, 2026
 
 ---
+### 保时捷内饰变换
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频变换提示词，用于将汽车内饰替换为保时捷 911 Turbo，同时保持吉娃娃主体的一致性。
+
+#### 📝 提示词
+
+```
+将整辆 Nissan Sentra 的汽车内饰和背景替换为豪华现代的红色保时捷 911 Turbo 内饰。保持与第一张图片中完全相同的白色吉娃娃作为主体：保持其后腿站立在副驾驶座椅上的姿势。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096776251444961280/img/SAsIOjxuqCLcDZU2.jpg" width="600" alt="保时捷内饰变换">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10538)**
+
+**作者:** [Eliot Sherr](https://x.com/Esherr9401) | **来源:** [Link](https://x.com/Esherr9401/status/2096776264967233577) | **发布时间:** Sep 7, 2026
+
+---
 ### 篮球扣篮动作
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -246,6 +510,47 @@ Alice @Reference3 和 Dani @Reference2 正在台面上切菜，并开始像 Elar
 **作者:** [Vdewey](https://x.com/Vdeweydo) | **来源:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **发布时间:** Sep 7, 2026
 
 ---
+### 歌剧二重唱动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为一张特定图片制作动画，展示一男一女在沿海森林背景下表演歌剧二重唱。
+
+#### 📝 提示词
+
+```
+海洋与光相遇之处
+原创歌剧二重唱 — 30 秒
+
+为附图制作动画。保留两位歌手的面部、服装、手杖及位置：男士在左，女士在右。保留沿海森林、白色花朵以及海洋……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096761557204226048/img/dJArH_qSa26YBUy-.jpg" width="600" alt="歌剧二重唱动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10534)**
+
+**作者:** [@TheCFormula credo.](https://x.com/TheCFormula) | **来源:** [Link](https://x.com/TheCFormula/status/2096761605564276768) | **发布时间:** Sep 7, 2026
+
+---
+### 异想天开的超现实现象
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个专注于对空间逻辑和因果关系进行超现实重新诠释的图像提示词。
+
+#### 📝 提示词
+
+```
+创建一个图像，其中物体或场景的一个元素转化为一种异想天开、略带荒诞的超现实现象，重新诠释因果关系、同一性、感知或空间逻辑等概念原则之一，且不使用自然...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096747823203291136/img/rFUeETuTxQumt6rm.jpg" width="600" alt="异想天开的超现实现象">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10537)**
+
+**作者:** [LUCKY](https://x.com/luluoksana) | **来源:** [Link](https://x.com/luluoksana/status/2096747856522793093) | **发布时间:** Sep 6, 2026
+
+---
 ### 健美雕塑动画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +568,25 @@ Alice @Reference3 和 Dani @Reference2 正在台面上切菜，并开始像 Elar
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10482)**
 
 **作者:** [Mr. Savistarz](https://x.com/AryehKatz) | **来源:** [Link](https://x.com/AryehKatz/status/2096746486306316650) | **发布时间:** Sep 6, 2026
+
+---
+### 未来主义风格的埃德蒙顿城市景观
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个图像转视频风格的转换提示词，旨在将大都市概念重新构想为未来主义风格的埃德蒙顿建筑。
+
+#### 📝 提示词
+
+```
+将第一张图片中未来主义的多层大都市转化为 100 年后（2126 年）的艾伯塔省首府埃德蒙顿。以整体构图、有机曲线摩天大楼、高架高速公路、带有发光灯带的密集塔楼为基础...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096742822653366273/img/Lpwvrr3kf3xjQAak.jpg" width="600" alt="未来主义风格的埃德蒙顿城市景观">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10528)**
+
+**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **来源:** [Link](https://x.com/RobinMurrat43a/status/2096743252884070860) | **发布时间:** Sep 6, 2026
 
 ---
 ### 技术垂直向个人资料动画
@@ -1005,6 +1329,25 @@ camera locked / same face, hair, tank, backdrop / no face morph / five fingers o
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10336)**
 
 **作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **来源:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **发布时间:** Sep 3, 2026
+
+---
+### 古董玫瑰园采摘
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个宁静的视频提示词，描绘了在玫瑰园小径中漫步，采摘一束古董玫瑰的悠闲场景。
+
+#### 📝 提示词
+
+```
+沿着蜿蜒的园中小径静静漫步，采摘最精致的古董玫瑰——一朵点缀你的衣襟，一朵伴你静谧沉思，再捧上一大束花束，只因你的一天值得拥有这份格外的优雅。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095427392282271744/img/lJLVCUpMCoZD08b0.jpg" width="600" alt="古董玫瑰园采摘">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10540)**
+
+**作者:** [Scarlett](https://x.com/scarlettzen1) | **来源:** [Link](https://x.com/scarlettzen1/status/2095427461093666845) | **发布时间:** Sep 3, 2026
 
 ---
 ### 动画版喵喵叫的虎斑猫
@@ -1852,312 +2195,6 @@ Tesla Optimus 在工厂车间行走的落地页英雄区设计。深炭色至近
 **作者:** [Apple](https://x.com/Apple0816799221) | **来源:** [Link](https://x.com/Apple0816799221/status/2093970466688180492) | **发布时间:** Aug 30, 2026
 
 ---
-### Falcon Heavy 火箭发射
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段极具震撼力的视频提示词，捕捉了 Falcon Heavy 火箭发射时的轰鸣与张力。
-
-#### 📝 提示词
-
-```
-Falcon Heavy 发射
-人类希望的声响
-“引擎轰鸣，心跳加速。火箭在地球引力的边缘颤动 —— 只需一瞬，便将黑夜化为烈火……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093900201723375616/img/lWNzm4JEhuAX6sIf.jpg" width="600" alt="Falcon Heavy 火箭发射">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10136)**
-
-**作者:** [Marie](https://x.com/Marie8508319540) | **来源:** [Link](https://x.com/Marie8508319540/status/2093900217548509584) | **发布时间:** Aug 30, 2026
-
----
-### 衰败房间里的宇宙电视爆炸
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度细致的电影感提示词，描绘了一名女子在衰败的房间里观看 CRT 电视中宇宙爆炸的场景
-
-#### 📝 提示词
-
-```
-电影感侧写，一名年轻女子坐在黑暗且衰败的房间里，梳着凌乱的发髻，身穿厚实的棕色针织毛衣，凝视着一台老式 CRT 电视。电视屏幕闪烁着青色、金色、紫色和橙色能量交织的生动宇宙爆炸景象，爆炸中心隐约可见一个微小的人影。墙皮剥落，放着布满灰尘的木制梳妆台，窗户破损，唯一的光源来自电视，映照着她的脸庞。照片级真实感，情绪化氛围，屏幕带有细微闪烁，空气中漂浮着尘埃颗粒，16:9。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093559444944883712/img/ImQJUypW1fqM0XPD.jpg" width="600" alt="衰败房间里的宇宙电视爆炸">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10076)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2093858740567220413) | **发布时间:** Aug 30, 2026
-
----
-### 动态三联画女神镜头切换视频提示词
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个视频生成提示词，采用三联屏布局展示阿尔忒弥斯 (Artemis)、戴安娜 (Diana) 和普洛塞庇娜 (Proserpina) 三位神话人物，并明确指示镜头在转场时对每个部分进行特写。
-
-#### 📝 提示词
-
-```
-阿尔忒弥斯，夜晚，在月亮神庙中弹奏竖琴；戴安娜，深林，狼，鹿，手持弓箭；普洛塞庇娜，地下世界，祈愿人间和平；各自的外貌特征，三联分屏，神秘感，通过对每个画面进行特写来切换屏幕
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093849686881005569/img/tGkbjPi8yy6G8fE2.jpg" width="600" alt="动态三联画女神镜头切换视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10084)**
-
-**作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **来源:** [Link](https://x.com/makoto_so/status/2093849707751882793) | **发布时间:** Aug 29, 2026
-
----
-### 生物发光波浪绽放
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影感提示词，描述了紫色的荧光在波峰处绽放，随后逐渐隐入黑暗的画面
-
-#### 📝 提示词
-
-```
-它缓缓展开，紫色的光芒沿着波峰绽放，就像有人在水下划亮了一根火柴。光芒持续了整整三秒，随后又隐入黑暗之中。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093842536888401920/img/Q0ORcHCfoRSmQJuG.jpg" width="600" alt="生物发光波浪绽放">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10072)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2093842983485354025) | **发布时间:** Aug 29, 2026
-
----
-### 生物发光海浪
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个生动的感官提示词，描述了如同水中萤火虫般闪烁的蓝绿色生物发光海浪。
-
-#### 📝 提示词
-
-```
-那些生物发光的海浪——没错，就是这个地方。当水温足够温暖时，每当海浪拍打岸边，它们就会泛起蓝绿色的光芒，就像海洋中呼吸的萤火虫。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093839190999904257/img/8X2oSPPclHPXQl83.jpg" width="600" alt="生物发光海浪">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10077)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2093840804871606418) | **发布时间:** Aug 29, 2026
-
----
-### 360 度环绕延时摄影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段技术型视频提示词，包含长曝光运动模糊以及围绕主体 360 度环绕的摄像机运镜。
-
-#### 📝 提示词
-
-```
-他站在原地，周围的人群以长曝光延时摄影和运动模糊的效果穿梭而过，摄像机采用手持推拉运镜，并围绕他的身体进行 360 度环绕拍摄
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093840475153125376/img/aojsCP-3YxTfkBEc.jpg" width="600" alt="360 度环绕延时摄影">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10080)**
-
-**作者:** [AZIZ | AI 🇸🇦](https://x.com/aziz4ai) | **来源:** [Link](https://x.com/aziz4ai/status/2093840506379755808) | **发布时间:** Aug 29, 2026
-
----
-### 幼儿的首次复古钢琴探索
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个温馨的家庭录像风格场景，捕捉了一名 2 岁幼儿在复古钢琴上探索音乐时的纯真快乐。
-
-#### 📝 提示词
-
-```
-在温馨的家庭录像风格中，一个快乐的幼儿在复古钢琴上发现了音乐的乐趣。一个可爱的 2 岁小男孩，有着卷曲的深色头发、明亮的眼睛和灿烂的笑容，穿着白色 T 恤和尿布，坐在米色的琴凳上。他轻轻地按下了琴键……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093817673129795584/img/Gmtw8EsMRvfmwr1D.jpg" width="600" alt="幼儿的首次复古钢琴探索">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10070)**
-
-**作者:** [Sandra Leig](https://x.com/Sleig) | **来源:** [Link](https://x.com/Sleig/status/2093817691404443699) | **发布时间:** Aug 29, 2026
-
----
-### 哥特动漫风格：水晶与蓝月电影感画面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词，描绘了一位哥特动漫风格的女性，在蓝月下被漂浮的水晶环绕，拥有色彩鲜艳的头发。
-
-#### 📝 提示词
-
-```
-电影级人像，一位美丽的动漫女性，留着长直发，发色呈现从粉色到紫色的鲜艳渐变，配有齐刘海，双眼散发着紫色光芒，神情自信。她身穿光泽感黑色皮革哥特服饰，搭配束带、金属环、链条和长手套。背景是黑暗奇幻的夜空，巨大的发光蓝月悬挂其中，周围环绕着巨大的尖锐漂浮紫色水晶碎片。戏剧性的紫蓝色灯光，高级时尚的黑暗奇幻美学，水晶缓慢漂浮，发丝轻微摆动，16:9 比例。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093558947961868288/img/rVVMgMrvO8Qb0S6w.jpg" width="600" alt="哥特动漫风格：水晶与蓝月电影感画面">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10079)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2093798342484529272) | **发布时间:** Aug 29, 2026
-
----
-### 小黄人救援行动视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影感视频提示词，描述了卡通角色面对巨大敌人时呼救的场景。
-
-#### 📝 提示词
-
-```
-小黄人们正在呼救，他们即将从邪恶的巨人手中获救
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093793227941806080/img/eQ1rn-MloK5yinPS.jpg" width="600" alt="小黄人救援行动视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10071)**
-
-**作者:** [Davonta Davis](https://x.com/DavontaDav5iv) | **来源:** [Link](https://x.com/DavontaDav5iv/status/2093793244345717016) | **发布时间:** Aug 29, 2026
-
----
-### 大型不锈钢圆柱体
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 对放置在户外景观环境中的大型工业圆柱体的详细描述
-
-#### 📝 提示词
-
-```
-一个巨大的不锈钢圆柱体，宽 9 米，长 69 米，空置在画面右侧草丘旁的橙色土地上。它横跨整个开阔地带，其 30 英尺的直径与草丘的高度相当。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093787519196274688/img/5MJnFuThi5oYrsAB.jpg" width="600" alt="大型不锈钢圆柱体">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10073)**
-
-**作者:** [🐕‍🦺Ðoge✝️Cherball🚀](https://x.com/DogeCherball) | **来源:** [Link](https://x.com/DogeCherball/status/2093787576817619304) | **发布时间:** Aug 29, 2026
-
----
-### 旋转狮身人面像动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个通过图像生成视频的提示词，用于制作狮身人面像雕塑的旋转镜头动画
-
-#### 📝 提示词
-
-```
-使用这张狮身人面像的图片创建一个视频，使其从左向右再返回进行旋转
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093778597387345920/img/iNSdAIFXJoexgyUM.jpg" width="600" alt="旋转狮身人面像动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10075)**
-
-**作者:** [Ember Art](https://x.com/Ember8184Art) | **来源:** [Link](https://x.com/Ember8184Art/status/2093778613443170455) | **发布时间:** Aug 29, 2026
-
----
-### 宇宙能量红发女神
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一位红发女性的电影级特写，身上浮现着发光的宇宙图案，处于零重力状态。
-
-#### 📝 提示词
-
-```
-一位美丽的女性在零重力下漂浮的电影级特写，她有着一头飘逸的鲜艳红发，头部后仰，双眼因陶醉而闭合。精致且发光的金色裂纹图案如同金缮工艺或熔岩脉络般覆盖在她的脸部、颈部和胸前。她被包裹在半透明的虹彩流动能量中，看起来就像紫色、青色、金色和彩虹色的液态丝绸。深邃的太空背景中布满了繁星、多彩的宇宙粒子和柔和的焦外成像。照片级真实感，空灵的女神美学，发光的皮肤，头发和能量丝带缓慢而流畅地移动，16:9。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093558641895124992/img/ovbP3RucFdUhRbBy.jpg" width="600" alt="宇宙能量红发女神">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10078)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2093768143072055711) | **发布时间:** Aug 29, 2026
-
----
-### 伴随 Trap 节奏跳霹雳舞的螃蟹
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满活力的视频提示词，描述了一只螃蟹随着 Trap 音乐节奏表演霹雳舞，包含动态的摄像机角度和动作。
-
-#### 📝 提示词
-
-```
-这只螃蟹正在跳霹雳舞，并以高能量在背壳上旋转，腿和钳子随着强劲的 2 Chainz 风格 Trap 说唱节奏完美同步地摆动和挥舞，动作包括持续旋转和定格，采用动态低角度摄像机拍摄，慢...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093699054563643393/img/sLoYR9ib3MzFtTNv.jpg" width="600" alt="伴随 Trap 节奏跳霹雳舞的螃蟹">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10082)**
-
-**作者:** [Paul Buks](https://x.com/BukurPaul) | **来源:** [Link](https://x.com/BukurPaul/status/2093699085345726537) | **发布时间:** Aug 29, 2026
-
----
-### 日落海滩熔岩芝士字体视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个创意视频提示词，用于生成带有日落渐变效果的风格化文字，主题为海滩日落与玉米片上的熔岩芝士。
-
-#### 📝 提示词
-
-```
-强烈的红橙色日落渐变字体剪辑，文字内容为海滩日落，搭配玉米片上的熔岩芝士
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093613181478535168/img/9Hy7H3Wq1IaEwRTK.jpg" width="600" alt="日落海滩熔岩芝士字体视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10081)**
-
-**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **来源:** [Link](https://x.com/SpaceScoutsIntl/status/2093613199237259699) | **发布时间:** Aug 29, 2026
-
----
-### Valentino Rossi 赛道记录
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于 Valentino Rossi 驾驶 Ducati Streetfighter R 在纽博格林赛道 (Nürburgring) 飞驰的赛车视频提示词。
-
-#### 📝 提示词
-
-```
-VALENTINO ROSSI 骑上全新改装的 DUCATI STREETFIGHTER R，打破了纽博格林赛道记录 —— ROSSI 统治赛场
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093492695650164736/img/_9dU6QiY4NYtRXsR.jpg" width="600" alt="Valentino Rossi 赛道记录">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10074)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **来源:** [Link](https://x.com/RobinMurrat43a/status/2093492954321293507) | **发布时间:** Aug 29, 2026
-
----
-### 悲伤小狗故事动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段叙事性动画提示词，以电影质感描述了小狗最后的动作以及男人离去的背影。
-
-#### 📝 提示词
-
-```
-制作动画：小狗的耳朵动了动，尾巴拍打了一次、两次，随后归于静止。Odysseus 用衣袖擦了擦眼睛，继续向前走去。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093463391092330496/img/2L6sK226jwv9ZyX7.jpg" width="600" alt="悲伤小狗故事动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10027)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2093463477184614905) | **发布时间:** Aug 28, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2219,6 +2256,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-08T04:20:25.152Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-08T13:03:51.480Z</sub>
 
 </div>

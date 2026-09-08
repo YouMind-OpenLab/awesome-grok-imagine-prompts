@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2733** |
+| 📝 Total Prompts | **2749** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-08** |
 
@@ -189,6 +189,251 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Batalla de flota de Shogi de ciencia ficción
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una visualización cinematográfica expansiva de una batalla espacial con temática cruzada de piezas estándar del ajedrez japonés tradicional.
+
+#### 📝 Prompt
+
+```
+Escena de batalla espacial cinematográfica épica con temática de guerra de flotas de shogi (ajedrez japonés), titulada "宇宙戦艦強士 第76話 戦闘ログ版". El enorme acorazado espacial futurista "Goshi" (宇宙戦艦強士) con motores de brillo azul, su torre promocionada transformada en un gigantesco dragón rojo y dorado...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097182756270923776/img/7aZ-Eqgg2bd6OKyU.jpg" width="600" alt="Batalla de flota de Shogi de ciencia ficción">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10541)**
+
+**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2097182797463216167) | **Published:** Sep 8, 2026
+
+---
+### Tablero de acorazado espacial futurista
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Una completa y dramática visualización de ciencia ficción que representa las reacciones en el puente de mando mientras observan una guerra galáctica sobre una cuadrícula táctica de ajedrez.
+
+#### 📝 Prompt
+
+```
+Acorazado espacial Goshi, episodio 76: 'El abandono de la quinta línea, el resplandor en el borde'. Año 2326, borde exterior de los anillos de Saturno. El espacio exterior se asemeja a un tablero de shogi 3D gigante. La quinta línea central arde en oro, con el resplandor de minas espaciales tipo peón abandonadas a la deriva. El buque insignia 'Goshi' (una silueta pesada al estilo Yamato con un 'Goshi' dorado en la proa) observa desde un ángulo diagonal. A través de la ventana del puente, un comandante de cabello oscuro con gafas observa la trayectoria de su nave escapando hacia el borde de la primera línea. En la franja del extremo derecho, la nave Rey se desliza con un brillo tenue entre el 18 y el 19, perseguida por los rayos rojos de la lanza promocionada y el peón lanzado por el enemigo. En el centro, el acorazado tipo Dragón y el Alfil promocionado se dirigen hacia la nave Rey enemiga. El fondo presenta los anillos de Saturno y un cinturón de asteroides distante...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097154072587669504/img/dZJLsiN6IUiD6C7f.jpg" width="600" alt="Tablero de acorazado espacial futurista">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10542)**
+
+**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2097154118683181073) | **Published:** Sep 8, 2026
+
+---
+### Mashup de películas de acción de ciencia ficción
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video de ciencia ficción detallado que combina elementos temáticos de películas futuristas de corredores con actores específicos.
+
+#### 📝 Prompt
+
+```
+Me encanta la IA… combinando ambas películas de "Runner" con Gal Gadot y Alan Ritchson. El personaje de Gal está corriendo porque su hijo fue secuestrado, mientras que Alan es un corredor que intenta entregar un trasplante de órganos para un niño, pero hay personas tratando de detenerlo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097099626264547328/img/mq1TfBZObq3g9JBJ.jpg" width="600" alt="Mashup de películas de acción de ciencia ficción">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10529)**
+
+**Author:** [Simon](https://x.com/schaniteration2) | **Source:** [Link](https://x.com/schaniteration2/status/2097099666718597445) | **Published:** Sep 7, 2026
+
+---
+### Video de criatura de piedra en stop-motion en la playa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para crear un video cinematográfico en stop-motion de una figura de piedra cobrando vida en una costa rocosa.
+
+#### 📝 Prompt
+
+```
+Crea una animación cinematográfica vertical en stop-motion de 21 segundos en formato 9:16. Una pequeña figura humanoide hecha completamente de piedras de playa lisas con formas naturales cobra vida en una poza de marea poco profunda en una costa rocosa. Cada parte del cuerpo está construida con piedras individuales: una piedra ovalada grande como cabeza, piedras redondeadas apiladas para el torso, piedras más pequeñas formando brazos y piernas.
+
+La escena se filma a través de una cerca de malla metálica ligeramente borrosa, creando un marco natural en primer plano. Detrás del personaje, hay una costa tranquila, agua de mar poco profunda, rocas cubiertas de percebes, algas y un bosque suavemente desenfocado bajo un cielo nublado. Texturas fotorrealistas, colores naturales apagados, poca profundidad de campo, reflejos realistas en el agua.
+
+Animación: La figura de piedra se equilibra lentamente y comienza a moverse como un pequeño humano juguetón. Cambia el peso, levanta una pierna, dobla las rodillas, balancea sus brazos de piedra y realiza un baile peculiar y lindo mientras mantiene cuidadosamente el equilibrio sobre la superficie mojada. Se forman pequeñas ondas bajo cada paso y su reflejo se mueve naturalmente en el agua. Los movimientos deben sentirse como un stop-motion hecho a mano, ligeramente imperfectos pero creíbles, con una física y un peso de piedra realistas.
+
+En los segundos finales, la figura pierde el equilibrio, tropieza y se desploma naturalmente, con las piedras individuales separándose y rodando sobre el suelo húmedo poco profundo. El personaje se desarma por completo en piedras ordinarias. Termina con la cámara manteniendo el enfoque en las piedras dispersas y sus reflejos.
+
+Cámara: composición vertical fija al estilo smartphone, movimiento de cámara natural sutil, plano medio-largo, ángulo bajo cerca del nivel del agua, fuerte efecto bokeh en primer plano por la cerca, profundidad de campo cinematográfica.
+
+Iluminación: luz diurna suave y difusa, atmósfera costera nublada, reflejos y brillos realistas en las piedras mojadas.
+
+Estilo: entorno de acción real ultrarrealista + personaje de stop-motion de piedra fotorrealista y caprichoso, texturas de piedra táctiles, movimiento físicamente creíble, fotografía macro cinematográfica, sin superficies con aspecto de CGI, sin texto, sin humanos.
+
+Prompt negativo: dibujos animados, piedras con aspecto de plástico, rasgos faciales exagerados, personaje CGI liso, objetos flotantes, física poco realista, extremidades adicionales, entorno cambiante, cortes de cámara, texto, marca de agua, colores sobresaturados.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097084466716160000/img/-GDM_shngZJPsaJs.jpg" width="600" alt="Video de criatura de piedra en stop-motion en la playa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10514)**
+
+**Author:** [NETO 🎯](https://x.com/appneto) | **Source:** [Link](https://x.com/appneto/status/2097084726007771602) | **Published:** Sep 7, 2026
+
+---
+### Transformación nocturna de un hábitat marciano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de transformación para convertir una escena de hábitat marciano de tonos naranja polvorientos en una escena nocturna de color índigo profundo con iluminación lunar plateada.
+
+#### 📝 Prompt
+
+```
+Transforma esta escena de hábitat marciano en una versión nocturna profunda. Cambia el cielo brumoso de color naranja polvoriento por un cielo nocturno oscuro con tonos índigo profundo y negro, añade estrellas tenues y dales a las lunas un brillo nocturno más intenso con una iluminación fría en tonos plateados y azules.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097064259008057344/img/GJaZBpZP_nKZjOPS.jpg" width="600" alt="Transformación nocturna de un hábitat marciano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10536)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2097064276775125295) | **Published:** Sep 7, 2026
+
+---
+### Zoom en ramo de flores giratorio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de movimiento para video que crea un zoom suave y una rotación vertical sobre un conjunto de flores con volantes.
+
+#### 📝 Prompt
+
+```
+Mantén la misma imagen de ramo de flores de técnica mixta. Haz un zoom lento hacia el denso grupo de flores blancas y grises con volantes en la parte superior, mientras todo el ramo gira suavemente sobre su eje vertical. Movimiento suave y continuo, estilo pictórico
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097045100371279872/img/_CVJO0RbC8voKFu0.jpg" width="600" alt="Zoom en ramo de flores giratorio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10539)**
+
+**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2097045135708074171) | **Published:** Sep 7, 2026
+
+---
+### Video de paisaje urbano ecológico avanzado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Transforma un paisaje urbano futurista añadiendo vegetación exuberante, como árboles y césped, para lograr una estética ecológica avanzada.
+
+#### 📝 Prompt
+
+```
+Quiero tomar la típica imagen de paisaje urbano futurista y añadirle algo de vegetación. Haz que luzca súper avanzada con muchos árboles y césped.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097030058531581952/img/lpcCKU1Ety68woVy.jpg" width="600" alt="Video de paisaje urbano ecológico avanzado">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10532)**
+
+**Author:** [GeoDev](https://x.com/GeoDev1962) | **Source:** [Link](https://x.com/GeoDev1962/status/2097030074939670594) | **Published:** Sep 7, 2026
+
+---
+### Recorrido cinematográfico por el campamento espacial en Marte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un complejo prompt de continuación de video cinematográfico de ciencia ficción que sigue a una mujer caminando a través de un campamento espacial extraterrestre.
+
+#### 📝 Prompt
+
+```
+Transforma la escena para que la mujer camine hacia adelante a través de su campamento espacial en Marte, con el cuerpo completo visible. Viste el mismo traje de astronauta moderno, elegante y de color azul profundo, con detalles en azul metálico y plateado que combinan perfectamente con los acentos brillantes en azul...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096994780165124096/img/9lZYbxJqQG2g-YSn.jpg" width="600" alt="Recorrido cinematográfico por el campamento espacial en Marte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10530)**
+
+**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2096994806459256874) | **Published:** Sep 7, 2026
+
+---
+### Película editorial de alta costura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para una película de alta costura de 15 segundos que preserva la apariencia de un personaje específico en un entorno de estudio minimalista.
+
+#### 📝 Prompt
+
+```
+Crea una película editorial de alta costura de 15 segundos protagonizada por el personaje adulto en Preserve, manteniendo su apariencia, atuendo, accesorios y estilo visual exactos. Renderiza toda la película con la estética de la referencia.
+
+Utiliza un estudio minimalista con un suelo reflectante,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096966883404812289/img/mZrPulPlds6nc1z8.jpg" width="600" alt="Película editorial de alta costura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10533)**
+
+**Author:** [Eileen_Xie](https://x.com/eileen_XL) | **Source:** [Link](https://x.com/eileen_XL/status/2096966914136560022) | **Published:** Sep 7, 2026
+
+---
+### Rediseño estético de domingo por la mañana
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Transforma una foto con una estética cálida y brumosa de domingo por la mañana, con luz solar dorada y un toque vintage.
+
+#### 📝 Prompt
+
+```
+Transforma esta foto con una estética de ensueño de domingo por la mañana. Luz solar dorada, suave y brumosa, que baña la escena con delicadeza, acompañada de una ligera neblina atmosférica y un resplandor difuso. Graduación de color vintage cálida con tonos amarillos suaves y verdes tenues...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096955733229395968/img/5H31ebTBYn9VxiUj.jpg" width="600" alt="Rediseño estético de domingo por la mañana">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10535)**
+
+**Author:** [stan gralla](https://x.com/GrallaStan) | **Source:** [Link](https://x.com/GrallaStan/status/2096955746608927063) | **Published:** Sep 7, 2026
+
+---
+### Narrativa de vestido elegante estereoscópico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt explícito y cronometrado de 30 segundos para una línea de tiempo de cámara 3D estereoscópica, diseñado para una toma continua de una mujer con un elegante vestido de rosas color marfil.
+
+#### 📝 Prompt
+
+```
+Prompt de video optimizado de 30s — música desde el fotograma 1
+Una impresionante obra maestra cinematográfica en 3D estereoscópico de 30 segundos. Texturas ultra nítidas y refinadas, piel y tejidos fotorrealistas, luz dorada volumétrica, profundidad viva.
+Utiliza a la mujer subida como sujeto exacto: su rostro, su cabello rubio rizado iluminado por el sol, el vestido de rosas color rosa rubor y marfil con abertura alta, tacones de cristal y el entorno de jardín. No cambies su identidad.
+Audio (obligatorio)
+Solo de piano que comienza en el primer fotograma y continúa sin interrupción hasta el último. Piano íntimo, romántico y etéreo únicamente. Sin voces. Sin letras. Sin introducciones retrasadas.
+Historia, cronometrada
+0–5s
+El piano ya suena. Plano de belleza extremo, de cerca a medio. Ella está de pie sobre los escalones de piedra iluminados por el sol, como si el jardín mismo respirara. La luz de fondo cálida enciende su cabello en un halo dorado. Un pétalo flota en el aire frente al lente y luego pasa a la deriva en 3D real.
+5–12s
+Ella da un paso único, lento y majestuoso hacia adelante. La cola bordada se desliza por las escaleras. Miles de pétalos de color rosa pálido y crema se elevan desde los arcos y giran a su alrededor en un espacio estereoscópico en capas; algunos rozan la cámara, otros caen detrás de sus hombros. El polen fino y el polvo de diamante captan cada rayo de luz. Las mangas transparentes se elevan como si no tuvieran peso.
+12–20s
+La cámara orbita a su alrededor en un deslizamiento suave y onírico. Paralaje en columnas, rosas, bruma de fuente y pétalos flotantes. Destellos de luz atraviesan los arcos de piedra. Algunos pétalos aterrizan en su clavícula y el corpiño de cristal, luego se elevan de nuevo. Ella gira su rostro hacia el sol. Una sonrisa tranquila y natural. El vestido brilla como seda mojada y perlas trituradas.
+20–30s
+Ella se queda quieta. El jardín exhala. Los pétalos se ralentizan hasta convertirse en una constelación flotante a su alrededor. El polen dorado queda suspendido en el aire. El piano se resuelve en una nota final larga y tierna que coincide con el último fotograma. Mantén el cuadro: femenino, romántico, casi sagrado. Desvanecimiento a través de un bokeh floral cálido y luz a la deriva.
+Estética
+Cine nupcial de lujo etéreo. Belleza decorativa, elegante y femenina. Romance sin cursilería. Poros de la piel y tejido de la tela realistas, realzados por la magia: pétalos flotantes, polen, polvo de luz y un suave movimiento 3D a través de la pantalla.
+Cámara y técnica
+Vertical 9:16. Toma continua, sin cortes si es posible. Zoom lento + órbita. Profundidad de campo reducida, enfoque nítido en el rostro y el vestido. Obra maestra estereoscópica, texturas 3D, escalado nítido, detalle ultra fino.
+No
+Cambiar su rostro o cabello. Añadir personas. Añadir voz. Retrasar la música. Apresurar el movimiento. Retocar excesivamente la piel.
+Haz que se sienta como una pintura viva que respira desde el primer fotograma.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="Narrativa de vestido elegante estereoscópico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10531)**
+
+**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2096924134231953625) | **Published:** Sep 7, 2026
+
+---
 ### Escena de preparación de la cena con personajes
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,6 +472,25 @@ Toma cinematográfica amplia de una figura con traje de vuelo color crema y casc
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **Published:** Sep 7, 2026
 
 ---
+### Transformación del interior de un Porsche
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de transformación de video para reemplazar el interior de un automóvil por el de un Porsche 911 Turbo, manteniendo la consistencia del sujeto, un Chihuahua.
+
+#### 📝 Prompt
+
+```
+Reemplaza todo el interior y el fondo del automóvil Nissan Sentra por el lujoso y moderno interior de un Porsche 911 Turbo rojo. Mantén exactamente al mismo perro Chihuahua blanco como sujeto principal de la primera imagen: con la misma pose, de pie sobre sus patas traseras en el asiento del pasajero
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096776251444961280/img/SAsIOjxuqCLcDZU2.jpg" width="600" alt="Transformación del interior de un Porsche">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10538)**
+
+**Author:** [Eliot Sherr](https://x.com/Esherr9401) | **Source:** [Link](https://x.com/Esherr9401/status/2096776264967233577) | **Published:** Sep 7, 2026
+
+---
 ### Movimiento de mate de baloncesto
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -246,6 +510,47 @@ Haz que drible el balón de baloncesto hacia la canasta y realice un mate al est
 **Author:** [Vdewey](https://x.com/Vdeweydo) | **Source:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **Published:** Sep 7, 2026
 
 ---
+### Animación de dúo de ópera
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Anima una imagen específica de un hombre y una mujer interpretando un dúo de ópera en un entorno de bosque costero.
+
+#### 📝 Prompt
+
+```
+DONDE EL OCÉANO ENCUENTRA LA LUZ
+Dúo de ópera original — 30 segundos
+
+Anima la imagen adjunta. Conserva los rostros, la vestimenta, los bastones y las posiciones de ambos cantantes: el hombre a la izquierda, la mujer a la derecha. Mantén el bosque costero, las flores blancas y el océ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096761557204226048/img/dJArH_qSa26YBUy-.jpg" width="600" alt="Animación de dúo de ópera">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10534)**
+
+**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2096761605564276768) | **Published:** Sep 7, 2026
+
+---
+### Fenómeno surrealista caprichoso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de imagen centrado en reinterpretaciones surrealistas de la lógica espacial y la causalidad.
+
+#### 📝 Prompt
+
+```
+Crea una imagen en la que un elemento de un objeto o escena se transforme en un fenómeno surrealista caprichoso y ligeramente absurdo que reinterprete uno de los principios conceptuales (causalidad, identidad, percepción o lógica espacial) sin utilizar elementos naturales...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096747823203291136/img/rFUeETuTxQumt6rm.jpg" width="600" alt="Fenómeno surrealista caprichoso">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10537)**
+
+**Author:** [LUCKY](https://x.com/luluoksana) | **Source:** [Link](https://x.com/luluoksana/status/2096747856522793093) | **Published:** Sep 6, 2026
+
+---
 ### Animación de escultura de culturismo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +568,25 @@ Anima esta escultura. Haz que parezca que está en una competición de culturism
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10482)**
 
 **Author:** [Mr. Savistarz](https://x.com/AryehKatz) | **Source:** [Link](https://x.com/AryehKatz/status/2096746486306316650) | **Published:** Sep 6, 2026
+
+---
+### Paisaje urbano futurista de Edmonton
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de conversión de estilo imagen a video centrado en reimaginar el concepto de una megaciudad con la arquitectura futurista de Edmonton.
+
+#### 📝 Prompt
+
+```
+Transforma la megaciudad futurista de múltiples niveles de la primera imagen en Edmonton, la capital de Alberta, 100 años en el futuro (año 2126). Basándote en la composición general, los rascacielos orgánicos curvos, las autopistas elevadas, las torres densas con iluminación brillante...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096742822653366273/img/Lpwvrr3kf3xjQAak.jpg" width="600" alt="Paisaje urbano futurista de Edmonton">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10528)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2096743252884070860) | **Published:** Sep 6, 2026
 
 ---
 ### Animación de perfil vertical técnico
@@ -1005,6 +1329,25 @@ Pleyadianos en naves de luz y naves nodrizas con forma de platillo, obra maestra
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10336)**
 
 **Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **Published:** Sep 3, 2026
+
+---
+### Cosecha en el jardín de rosas antiguas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video prompt tranquilo que ilustra un paseo silencioso por los senderos de un jardín de rosas para recoger un ramo de rosas antiguas.
+
+#### 📝 Prompt
+
+```
+Deslícese en silencio por los sinuosos senderos del jardín para cosechar las mejores rosas antiguas: una para adornar su solapa, otra para su tranquila ensoñación y un generoso ramo simplemente porque su día requiere una dosis extra de elegancia.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095427392282271744/img/lJLVCUpMCoZD08b0.jpg" width="600" alt="Cosecha en el jardín de rosas antiguas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10540)**
+
+**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2095427461093666845) | **Published:** Sep 3, 2026
 
 ---
 ### Gato atigrado maullando animado
@@ -1852,312 +2195,6 @@ La diosa Diana retoza con animales en un bosque profundo. La escena cambia a Art
 **Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2093970466688180492) | **Published:** Aug 30, 2026
 
 ---
-### Lanzamiento del cohete Falcon Heavy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video prompt dramático que captura el rugido y la intensidad del lanzamiento de un cohete Falcon Heavy.
-
-#### 📝 Prompt
-
-```
-Lanzamiento del Falcon Heavy
-El sonido de la esperanza humana
-“Los motores rugen, los corazones laten con fuerza. El cohete tiembla al borde del agarre de la Tierra, a un suspiro de convertir la noche en fuego...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093900201723375616/img/lWNzm4JEhuAX6sIf.jpg" width="600" alt="Lanzamiento del cohete Falcon Heavy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10136)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2093900217548509584) | **Published:** Aug 30, 2026
-
----
-### Explosión cósmica en televisión dentro de una habitación en ruinas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico altamente detallado de una mujer en una habitación en ruinas mirando una explosión cósmica en un televisor CRT
-
-#### 📝 Prompt
-
-```
-Perfil lateral cinematográfico de una mujer joven sentada en una habitación oscura y en ruinas, con un moño desordenado, vistiendo un suéter grueso de punto marrón, mirando fijamente un viejo televisor CRT. La pantalla del televisor brilla con una vívida explosión cósmica de energía cian, dorada, púrpura y naranja, con una pequeña figura visible en el centro del estallido. Paredes de yeso descascarado, cómoda de madera polvorienta, ventana rota, la única luz proviene del televisor iluminando su rostro. Fotorrealista, atmósfera melancólica, parpadeo sutil de la pantalla, partículas de polvo en el aire, 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093559444944883712/img/ImQJUypW1fqM0XPD.jpg" width="600" alt="Explosión cósmica en televisión dentro de una habitación en ruinas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10076)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2093858740567220413) | **Published:** Aug 30, 2026
-
----
-### Prompt de video: Diosas en tríptico dinámico con cambios de cámara
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt de generación de video que presenta un diseño de pantalla dividida en tres partes con las figuras míticas de Artemisa, Diana y Proserpina, con instrucciones explícitas para que la cámara haga un primer plano en cada sección durante las transiciones.
-
-#### 📝 Prompt
-
-```
-Artemisa, de noche, tocando el arpa en el templo de la luna; Diana, bosque profundo, lobo, ciervo, sosteniendo su arco; Proserpina, el inframundo, deseando la paz de las personas, sus respectivas apariencias, pantalla dividida en tres partes, misterioso, la pantalla cambia haciendo un primer plano en cada elemento
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093849686881005569/img/tGkbjPi8yy6G8fE2.jpg" width="600" alt="Prompt de video: Diosas en tríptico dinámico con cambios de cámara">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10084)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2093849707751882793) | **Published:** Aug 29, 2026
-
----
-### Bioluminescent Wave Bloom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico que describe una luz púrpura brillante floreciendo a lo largo de la cresta de una ola antes de desvanecerse en la oscuridad
-
-#### 📝 Prompt
-
-```
-Simplemente se despliega y la luz púrpura florece a lo largo de la cresta como si alguien hubiera encendido una cerilla bajo el agua. Se mantiene durante tres largos segundos y luego se desvanece de nuevo en la oscuridad.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093842536888401920/img/Q0ORcHCfoRSmQJuG.jpg" width="600" alt="Bioluminescent Wave Bloom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10072)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093842983485354025) | **Published:** Aug 29, 2026
-
----
-### Olas bioluminiscentes en el océano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un vívido prompt sensorial que describe olas bioluminiscentes de color azul verdoso que parecen luciérnagas en el agua.
-
-#### 📝 Prompt
-
-```
-Las bioluminiscentes... sí, este es exactamente el lugar. Cuando el agua está lo suficientemente cálida, las olas se iluminan de color azul verdoso cada vez que rompen, como si el océano estuviera respirando luciérnagas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093839190999904257/img/8X2oSPPclHPXQl83.jpg" width="600" alt="Olas bioluminiscentes en el océano">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10077)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093840804871606418) | **Published:** Aug 29, 2026
-
----
-### Timelapse orbital de 360 grados
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video técnico que presenta desenfoque de movimiento por larga exposición y una órbita de cámara de 360 grados alrededor de un sujeto.
-
-#### 📝 Prompt
-
-```
-Él está de pie en su lugar, la gente pasa a su alrededor con larga exposición, time lapse y desenfoque de movimiento, con un movimiento de cámara en mano tipo dolly push-in, mientras la cámara orbita alrededor de su cuerpo en 360 grados
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093840475153125376/img/aojsCP-3YxTfkBEc.jpg" width="600" alt="Timelapse orbital de 360 grados">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10080)**
-
-**Author:** [AZIZ | AI 🇸🇦](https://x.com/aziz4ai) | **Source:** [Link](https://x.com/aziz4ai/status/2093840506379755808) | **Published:** Aug 29, 2026
-
----
-### El primer descubrimiento de un piano vintage por un niño pequeño
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una escena conmovedora, al estilo de un video casero, que captura a un niño de 2 años explorando un piano vintage con pura alegría y descubrimiento musical.
-
-#### 📝 Prompt
-
-```
-En un conmovedor estilo de video casero, un alegre niño pequeño descubre la música en un piano vintage. Un adorable niño de 2 años con cabello oscuro y rizado, ojos brillantes y una amplia sonrisa, vestido con una camiseta blanca y un pañal, se sienta en un banco beige. Presiona suavemente las teclas...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093817673129795584/img/Gmtw8EsMRvfmwr1D.jpg" width="600" alt="El primer descubrimiento de un piano vintage por un niño pequeño">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10070)**
-
-**Author:** [Sandra Leig](https://x.com/Sleig) | **Source:** [Link](https://x.com/Sleig/status/2093817691404443699) | **Published:** Aug 29, 2026
-
----
-### Anime gótico, luna de cristal, estilo cinematográfico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico de una mujer de anime gótico con cabello vibrante rodeada de cristales flotantes bajo una luna azul.
-
-#### 📝 Prompt
-
-```
-Retrato cinematográfico de una hermosa mujer de anime con cabello largo y liso en un degradado vívido de rosa a morado y flequillo recto, ojos morados brillantes, expresión de confianza. Viste un atuendo gótico de cuero negro brillante con correas de arnés, anillos de metal, cadenas y guantes largos. A su alrededor hay grandes fragmentos de cristal morado afilados y flotantes en un cielo nocturno de fantasía oscura con una enorme luna azul brillante. Iluminación dramática en tonos morados y azules, estética de fantasía oscura de alta costura, cristales a la deriva lentamente, cabello con movimiento sutil, 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093558947961868288/img/rVVMgMrvO8Qb0S6w.jpg" width="600" alt="Anime gótico, luna de cristal, estilo cinematográfico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10079)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2093798342484529272) | **Published:** Aug 29, 2026
-
----
-### Video de la operación de rescate de los Minions
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico que describe a personajes de dibujos animados pidiendo rescate ante un enemigo gigante.
-
-#### 📝 Prompt
-
-```
-Los minions están pidiendo ayuda y van a rescatarlos del gigante malvado
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093793227941806080/img/eQ1rn-MloK5yinPS.jpg" width="600" alt="Video de la operación de rescate de los Minions">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10071)**
-
-**Author:** [Davonta Davis](https://x.com/DavontaDav5iv) | **Source:** [Link](https://x.com/DavontaDav5iv/status/2093793244345717016) | **Published:** Aug 29, 2026
-
----
-### Cilindro masivo de acero inoxidable
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una descripción detallada de un gran cilindro industrial situado en un entorno paisajístico al aire libre
-
-#### 📝 Prompt
-
-```
-Un cilindro masivo de acero inoxidable, de 9 metros de ancho y 69 metros de largo, se encuentra vacío sobre la tierra anaranjada justo al lado de la loma cubierta de hierba en el lado derecho del encuadre, extendiéndose a través del terreno abierto con su diámetro de 30 pies igualando la altura de la loma.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093787519196274688/img/5MJnFuThi5oYrsAB.jpg" width="600" alt="Cilindro masivo de acero inoxidable">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10073)**
-
-**Author:** [🐕‍🦺Ðoge✝️Cherball🚀](https://x.com/DogeCherball) | **Source:** [Link](https://x.com/DogeCherball/status/2093787576817619304) | **Published:** Aug 29, 2026
-
----
-### Animación de la Esfinge en rotación
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de imagen a video para animar una estatua de la Esfinge con un movimiento de cámara giratorio
-
-#### 📝 Prompt
-
-```
-Crea un video usando esta imagen de la Esfinge, rotando de izquierda a derecha y viceversa
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093778597387345920/img/iNSdAIFXJoexgyUM.jpg" width="600" alt="Animación de la Esfinge en rotación">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10075)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2093778613443170455) | **Published:** Aug 29, 2026
-
----
-### Diosa de cabello rojo con energía cósmica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un primer plano cinematográfico de una mujer con cabello rojo y patrones cósmicos brillantes flotando en gravedad cero.
-
-#### 📝 Prompt
-
-```
-Primer plano cinematográfico de una hermosa mujer con una larga y vibrante melena roja flotando en gravedad cero, con la cabeza inclinada hacia atrás y los ojos cerrados en éxtasis. Intrincados patrones dorados brillantes, similares al kintsugi o a venas de metal fundido, cubren su rostro, cuello y pecho. Está envuelta en una energía iridiscente y translúcida que parece seda líquida en tonos violeta, turquesa, dorado y arcoíris. Fondo de espacio profundo lleno de estrellas, partículas cósmicas coloridas y un suave efecto bokeh. Fotorrealista, estética de diosa etérea, piel luminosa, cabello y cintas de energía moviéndose lenta y fluidamente, 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093558641895124992/img/ovbP3RucFdUhRbBy.jpg" width="600" alt="Diosa de cabello rojo con energía cósmica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10078)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2093768143072055711) | **Published:** Aug 29, 2026
-
----
-### Cangrejo haciendo breakdance con ritmo trap
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video lleno de energía que muestra a un cangrejo realizando movimientos de breakdance sincronizados con un ritmo de música trap, con ángulos de cámara y movimiento dinámicos.
-
-#### 📝 Prompt
-
-```
-El cangrejo hace breakdance y gira sobre su caparazón con mucha energía, moviendo sus patas y pinzas en perfecta sincronía con un ritmo de trap rap al estilo de 2 Chainz, con giros continuos y movimientos de congelación, cámara dinámica en ángulo bajo, cám...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093699054563643393/img/sLoYR9ib3MzFtTNv.jpg" width="600" alt="Cangrejo haciendo breakdance con ritmo trap">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10082)**
-
-**Author:** [Paul Buks](https://x.com/BukurPaul) | **Source:** [Link](https://x.com/BukurPaul/status/2093699085345726537) | **Published:** Aug 29, 2026
-
----
-### Video de tipografía de queso derretido en una playa al atardecer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video creativo que genera texto estilizado con un efecto de degradado de atardecer, inspirado en una puesta de sol en la playa y queso derretido sobre totopos.
-
-#### 📝 Prompt
-
-```
-Edición de letras con un intenso degradado de atardecer rojo anaranjado para este tipo de texto que dice atardecer en la playa, queso derretido sobre totopos
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093613181478535168/img/9Hy7H3Wq1IaEwRTK.jpg" width="600" alt="Video de tipografía de queso derretido en una playa al atardecer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10081)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2093613199237259699) | **Published:** Aug 29, 2026
-
----
-### Récord de pista de Valentino Rossi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video generado por IA de carreras que muestra a Valentino Rossi en una Ducati Streetfighter R en Nürburgring.
-
-#### 📝 Prompt
-
-```
-VALENTINO ROSSI SE SUBE A LA NUEVA Y POTENCIADA DUCATI STREETFIGHTER R Y ROMPE EL RÉCORD DE PISTA DE NÜRBURGRING: ROSSI ES EL REY
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093492695650164736/img/_9dU6QiY4NYtRXsR.jpg" width="600" alt="Récord de pista de Valentino Rossi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10074)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2093492954321293507) | **Published:** Aug 29, 2026
-
----
-### Animación de la historia del perro triste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de animación narrativa que describe los últimos movimientos de un perro y a un hombre alejándose con un estilo cinematográfico.
-
-#### 📝 Prompt
-
-```
-Anímalo: las orejas del perro se levantan, la cola golpea una vez, dos veces, y luego queda inmóvil. Odiseo se limpia los ojos con la manga y sigue caminando.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093463391092330496/img/2L6sK226jwv9ZyX7.jpg" width="600" alt="Animación de la historia del perro triste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10027)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2093463477184614905) | **Published:** Aug 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2219,6 +2256,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-08T04:20:32.434Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-08T13:03:59.683Z</sub>
 
 </div>
