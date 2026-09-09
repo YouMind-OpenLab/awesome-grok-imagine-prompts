@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2749** |
+| 📝 Total Prompts | **2773** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-09** |
 
@@ -189,6 +189,339 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt vidéo : Femme en imperméable photoréaliste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt textuel de génération directe utilisé pour créer une vidéo réaliste de séquence de pluie avec des caractéristiques de mouvement spécifiques dans Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Femme photoréaliste en imperméable noir debout sous une pluie battante dans une forêt. Elle ouvre les yeux, se tourne vers une faible lumière chaude entre les arbres. Caméra à l'épaule, brume, tissu mouillé, pas d'horreur, pas de déformation du visage.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097587231070523392/img/gC_waap6tc44L4Yc.jpg" width="600" alt="Prompt vidéo : Femme en imperméable photoréaliste">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10614)**
+
+**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
+
+---
+### Conduite futuriste en Tesla au crépuscule
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique détaillé pour une Tesla noire roulant en douceur dans une ville moderne à l'heure bleue.
+
+#### 📝 Prompt
+
+```
+Une élégante voiture électrique Tesla noire roule en douceur sur une route urbaine moderne au crépuscule, glissant devant des bâtiments en verre et des réverbères avec de subtils reflets sur sa carrosserie.
+Les visuels présentent un style cinématographique futuriste et épuré, avec des tons bleutés caractéristiques de l'heure bleue...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097579905408249856/img/pmhkH2vpw3CXMEIN.jpg" width="600" alt="Conduite futuriste en Tesla au crépuscule">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10593)**
+
+**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097580043748639150) | **Published:** Sep 9, 2026
+
+---
+### Scène de sieste d'une femme blonde élégante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une instruction cinématographique très détaillée où une femme en peignoir entre dans une pièce par la droite, se dirige vers le canapé, regarde par la fenêtre et se repose.
+
+#### 📝 Prompt
+
+```
+Une femme blonde élégante en peignoir entre dans la scène par la droite, s'allonge sur le canapé pour regarder par la fenêtre et faire une sieste...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097547047041900544/img/lRgtZ_wWvMOXWqHz.jpg" width="600" alt="Scène de sieste d'une femme blonde élégante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10603)**
+
+**Author:** [Mon Soleil LLC 🇺🇸](https://x.com/MonSoleilLLC) | **Source:** [Link](https://x.com/MonSoleilLLC/status/2097547084182560899) | **Published:** Sep 9, 2026
+
+---
+### Mère chantant une berceuse à son bébé
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo touchant décrivant une mère chantant une berceuse et embrassant sa petite fille.
+
+#### 📝 Prompt
+
+```
+Margaret tenant sa petite fille avec un joli nœud dans les cheveux. Elle chante une berceuse. Un baiser sur son front. You are my sunshine you make me happy when skies are grey. Je t'aime ma petite fille.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097525008130338816/img/dP8emwKiN0bPFPjb.jpg" width="600" alt="Mère chantant une berceuse à son bébé">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10607)**
+
+**Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **Published:** Sep 9, 2026
+
+---
+### Vidéo narrative : le déroulé des parchemins
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt descriptif pour un moment narratif riche en émotions où deux individus se regardent après avoir enroulé des parchemins.
+
+#### 📝 Prompt
+
+```
+Ils enroulent les parchemins, se regardent, et il lui dit : « Tu es en sécurité ». La femme répond : « Oui, nous le sommes... »
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097518901235957760/img/M2Oq5hmCVr5svuLA.jpg" width="600" alt="Vidéo narrative : le déroulé des parchemins">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10592)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2097518929241325890) | **Published:** Sep 9, 2026
+
+---
+### Vidéo d'implant de croissance bio-organique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo décrivant un implant de croissance bio-organique humain doté d'une IA auto-cicatrisante.
+
+#### 📝 Prompt
+
+```
+Implant de croissance humaine bio-organique complet piloté par IA, capable de croître et de s'auto-cicatriser tout au long de la vie
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097497321827385344/img/1dL2mQTTXCU5J5xA.jpg" width="600" alt="Vidéo d'implant de croissance bio-organique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10612)**
+
+**Author:** [.](https://x.com/JoshuaCalkslmo) | **Source:** [Link](https://x.com/JoshuaCalkslmo/status/2097497409186373943) | **Published:** Sep 9, 2026
+
+---
+### Scénario de conversation cinématographique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo conversationnelle illustrant un dialogue entre un homme et une jeune fille demandant l'heure.
+
+#### 📝 Prompt
+
+```
+L'homme dit : « Hé Julianne, sais-tu quelle heure il est ? » et la jeune fille répond : « Désolée, je ne sais pas. Je n'ai pas de montre. » « Oh que si. Tu ne l'as juste pas apportée. »
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097453576700256256/img/ZjCZ_2Pbxo6kJ3YO.jpg" width="600" alt="Scénario de conversation cinématographique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10609)**
+
+**Author:** [Jose Rodriguez](https://x.com/JoseRodrigg1yr) | **Source:** [Link](https://x.com/JoseRodrigg1yr/status/2097453593473192328) | **Published:** Sep 8, 2026
+
+---
+### Sauvetage du vaisseau spatial en mer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo de science-fiction cinématographique montrant les opérations d'un navire secourant un vaisseau spatial flottant sur l'océan.
+
+#### 📝 Prompt
+
+```
+Le vaisseau spatial flottait sur l'océan et ils sont partis en mer à bord d'un navire pour le secourir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097441838148026368/img/UiZkNAwtyjuhr87a.jpg" width="600" alt="Sauvetage du vaisseau spatial en mer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10611)**
+
+**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2097441871765115123) | **Published:** Sep 8, 2026
+
+---
+### Ulysse et le Cyclope dans la mythologie grecque
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un récit dramatique et vivant décrivant la légendaire confrontation de la Grèce antique entre Ulysse et le cyclope Polyphème.
+
+#### 📝 Prompt
+
+```
+Ulysse s'agrippait au ventre du bélier tandis que Polyphème rugissait et tâtonnait dans la grotte, le sang coulant de son œil crevé. Les mains du géant balayaient l'air, manquant sa cible de quelques centimètres. Dehors, le troupeau se déversait dans l'aube. Aveugle et furieux, le Cyclope...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097440899584122880/img/Yl6mEDKLOSKsOjdJ.jpg" width="600" alt="Ulysse et le Cyclope dans la mythologie grecque">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10610)**
+
+**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2097440928940109945) | **Published:** Sep 8, 2026
+
+---
+### Illustration de personnage biblique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une instruction vidéo dynamique cartographiant un texte biblique et des descriptions saintes pour une représentation visuelle.
+
+#### 📝 Prompt
+
+```
+Créez une illustration basée sur ces éléments :
+
+Son caractère
+Saint et sans péché. Il a vécu une vie d'obéissance parfaite. Il a été tenté de toutes les manières comme nous le sommes, mais n'a jamais péché (Hébreux 4:15). Sa sainteté n'est ni distante ni froide ; c'est la pureté qui peut réellement attir...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097433762917490688/img/7Xf9SNZy7W71Vjav.jpg" width="600" alt="Illustration de personnage biblique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10605)**
+
+**Author:** [Njea](https://x.com/ITSMYLifeNjea28) | **Source:** [Link](https://x.com/ITSMYLifeNjea28/status/2097433938897649805) | **Published:** Sep 8, 2026
+
+---
+### Uniforme de la Fédération Galactique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo pour un uniforme de la Fédération Galactique violet, blanc et or avec des insignes dorés.
+
+#### 📝 Prompt
+
+```
+Idée d'uniforme violet, blanc et or de la Fédération Galactique avec insignes dorés, chef-d'œuvre
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097422332826701824/img/cYdzNNhEC6FIqWw-.jpg" width="600" alt="Uniforme de la Fédération Galactique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10613)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2097422369715343456) | **Published:** Sep 8, 2026
+
+---
+### L'Antéchrist brûlant des écritures
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une séquence vidéo dramatique illustrant une scène narrative où des personnages brûlent des textes religieux et spirituels.
+
+#### 📝 Prompt
+
+```
+L'antéchrist, celui qui n'a finalement pas été choisi, brûle la Bible et tous les enseignements spirituels
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097407037986549761/img/Xdi2yIzmw_p6wKGp.jpg" width="600" alt="L'Antéchrist brûlant des écritures">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10606)**
+
+**Author:** [Richard garcia](https://x.com/Bartfire5150) | **Source:** [Link](https://x.com/Bartfire5150/status/2097407095951835170) | **Published:** Sep 8, 2026
+
+---
+### Survol du portail pupillaire sur Mars
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo surréaliste et immersif qui effectue une transition d'un zoom macro sur une pupille humaine vers un paysage urbain ultramoderne sur Mars, le tout accompagné de musique classique.
+
+#### 📝 Prompt
+
+```
+La caméra zoome sur la pupille qui se dilate progressivement. Elle pénètre ensuite directement à l'intérieur, tandis que l'obscurité se dissipe en douceur, se propageant vers les bords comme du brouillard pour révéler d'immenses dunes martiennes. La caméra effectue alors un panoramique vers la gauche, dévoilant une ville ultramoderne massive composée de gratte-ciel en verre et en acier, ainsi que des vaisseaux volants. En fond sonore, les Suites orchestrales de Bach (BWV 1066–1069) se transforment rapidement en un rythme de batterie.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097402331813855232/img/MirS5uoaMCCJktLY.jpg" width="600" alt="Survol du portail pupillaire sur Mars">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10597)**
+
+**Author:** [Felicia_k_o](https://x.com/Felicia_K_O) | **Source:** [Link](https://x.com/Felicia_K_O/status/2097404111398314102) | **Published:** Sep 8, 2026
+
+---
+### Promenade dans la forêt du portail bleu fantastique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une séquence d'instructions d'animation détaillée et riche en action décrivant le voyage d'un personnage blond vers un vortex magique avec des éléments orageux.
+
+#### 📝 Prompt
+
+```
+Animez la femme marchant vers le portail bleu lumineux, ses longs cheveux blonds flottant, le chemin à damier s'étendant, les champignons se balançant légèrement, le portail bleu vibrant d'énergie et des éclairs frappant de manière spectaculaire à travers le ciel orageux,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097385993267777536/img/g7Z6PeHHqF-vSO6_.jpg" width="600" alt="Promenade dans la forêt du portail bleu fantastique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10596)**
+
+**Author:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmaSquirrel) | **Source:** [Link](https://x.com/KarmaSquirrel/status/2097386064579010997) | **Published:** Sep 8, 2026
+
+---
+### Paysage IMAX de Mars Vista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une animation de caméra paysagère grand angle nette cadrant les détails du paysage de surface de la planète Mars.
+
+#### 📝 Prompt
+
+```
+Vue panoramique grand angle photoréaliste, cinématographique et en ultra-haute résolution de Mars en fin d'après-midi, comme filmée avec une caméra IMAX grand format, avec une mise au point ultra-précise des cailloux au premier plan jusqu'à l'horizon lointain. Le terrain est une vaste étendue ondulante de rouille...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097319984112582656/img/FriuY0gUl9R_Hslq.jpg" width="600" alt="Paysage IMAX de Mars Vista">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10598)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2097320020770463925) | **Published:** Sep 8, 2026
+
+---
+### Portrait vidéo cinématographique photoréaliste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un portrait vidéo en gros plan intimiste se concentrant sur une évolution émotionnelle subtile avec des contraintes structurelles hautement techniques.
+
+#### 📝 Prompt
+
+```
+{
+  "meta": {
+    "type": "cinematic_photorealistic_video",
+    "duration": "6.5s",
+    "aspect_ratio": "9:16",
+    "frame_rate_feel": "mouvement cinématographique 24fps",
+    "overall_intent": "Un portrait en gros plan intimiste axé sur une évolution émotionnelle subtile..."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097257827320610816/img/Vy_FjRE941W1GhTp.jpg" width="600" alt="Portrait vidéo cinématographique photoréaliste">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10602)**
+
+**Author:** [幣気](https://x.com/meixieshi) | **Source:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **Published:** Sep 8, 2026
+
+---
+### Prompt de code pour mouvement de caméra orbitale structuré
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une charge utile de code complexe pour un suivi de caméra structuré, conçue pour des mouvements orbitaux cinématographiques autour de véhicules.
+
+#### 📝 Prompt
+
+```
+{"shot":{"motion_level":"moyen","camera_depth":"plan moyen suivi d'un plan large","camera_view":"angle contre-plongée passant à hauteur d'yeux","camera_movement":"mouvement orbital lent et héroïque en contre-plongée, tournant autour des 3/4 avant de la voiture, suivi d'un mouvement fluide St..."}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097244337474015232/img/r0BlwPQ_7CWm2otx.jpg" width="600" alt="Prompt de code pour mouvement de caméra orbitale structuré">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10595)**
+
+**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097244382147620979) | **Published:** Sep 8, 2026
+
+---
 ### Bataille de flotte de Shogi de science-fiction
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +541,44 @@ Scène de bataille spatiale cinématographique épique sur le thème d'une guerr
 **Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2097182797463216167) | **Published:** Sep 8, 2026
 
 ---
+### Séquence vidéo cinématographique émotionnelle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Génère une séquence de personnage cinématographique dépeignant une femme qui regrette ses frères ayant immigré aux États-Unis.
+
+#### 📝 Prompt
+
+```
+Elle regrette ses trois frères : Michael, Alexander et Stanislaw, qui ont immigré aux États-Unis
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097182253441048576/img/0hKUEmqtawJgdBWE.jpg" width="600" alt="Séquence vidéo cinématographique émotionnelle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10601)**
+
+**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2097182324802863213) | **Published:** Sep 8, 2026
+
+---
+### Réflexions dans une chambre d'hôtel de luxe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo narratif et cinématographique montrant un homme afro-américain d'âge mûr plongé dans ses pensées dans une suite de luxe tout en regardant la télévision.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo d'un homme afro-américain d'âge mûr dans une grande chambre d'hôtel de luxe. Il est assis dans un fauteuil, regardant la télévision avec une télécommande à la main. Il marque une pause et réfléchit. « Des vacances loin du travail ? Absolument... »
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097177940056576000/img/OIuXUMcw-2Y4a28H.jpg" width="600" alt="Réflexions dans une chambre d'hôtel de luxe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10604)**
+
+**Author:** [TheDocBrown](https://x.com/ChrisBrownMDMPH) | **Source:** [Link](https://x.com/ChrisBrownMDMPH/status/2097177961115861124) | **Published:** Sep 8, 2026
+
+---
 ### Tableau de bord futuriste d'un vaisseau spatial
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -225,6 +596,63 @@ Vaisseau spatial Goshi, épisode 76 : « L'abandon de la cinquième colonne, le 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10542)**
 
 **Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2097154118683181073) | **Published:** Sep 8, 2026
+
+---
+### Prompt vidéo pour le bal masqué de Labyrinth
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Crée une scène cinématographique spectaculaire et photoréaliste inspirée du bal masqué du film Labyrinth, mettant en scène une femme dans une robe blanche élaborée.
+
+#### 📝 Prompt
+
+```
+Créez une scène cinématographique spectaculaire et photoréaliste inspirée du bal masqué du film Labyrinth. Au centre, une belle jeune femme aux longs cheveux blonds flottants, portant une robe de bal blanche, éthérée et étincelante, avec de grandes manches bouffantes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097152210047995904/img/hfIE8GhaVJDBRd8a.jpg" width="600" alt="Prompt vidéo pour le bal masqué de Labyrinth">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10599)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2097152232378573305) | **Published:** Sep 8, 2026
+
+---
+### Sortie du robot Tesla Optimus du showroom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une vidéo narrative spécifique montrant le robot Tesla Optimus faisant signe au revoir à Elon Musk et quittant un showroom à moto.
+
+#### 📝 Prompt
+
+```
+LE ROBOT DE TESLA, OPTIMUS, MONTE SUR CETTE MOTO ET SORT PAR LA PORTE PRINCIPALE DE CE SHOWROOM APRÈS AVOIR DIT AU REVOIR À ELON
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097121258639093760/img/rYMMJ-BO3xpLK4x8.jpg" width="600" alt="Sortie du robot Tesla Optimus du showroom">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10608)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097121332676927819) | **Published:** Sep 8, 2026
+
+---
+### Vidéo historique et dramatique de l'effondrement d'un bâtiment
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une représentation cinématographique et hautement émotionnelle d'une crise historique impliquant l'effondrement d'une architecture et la détresse des citoyens.
+
+#### 📝 Prompt
+
+```
+Le 11 septembre, les bâtiments qui s'effondrent, des familles à la recherche de leurs proches. Une promesse faite il y a 25 ans : nous n'oublierons jamais, les gens qui sautent des bâtiments...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097118531611418624/img/LrFIG2xJE9P3l8zb.jpg" width="600" alt="Vidéo historique et dramatique de l'effondrement d'un bâtiment">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10594)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2097118559407083783) | **Published:** Sep 8, 2026
 
 ---
 ### Mashup de film d'action de science-fiction
@@ -279,6 +707,25 @@ Prompt négatif : dessin animé, pierres à l'aspect plastique, traits du visage
 **Author:** [NETO 🎯](https://x.com/appneto) | **Source:** [Link](https://x.com/appneto/status/2097084726007771602) | **Published:** Sep 7, 2026
 
 ---
+### Prompt d'animation pour image à gauche
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo personnalisé conçu pour animer une image statique située sur le côté gauche de l'écran.
+
+#### 📝 Prompt
+
+```
+Salut super Bro, tu peux m'aider ? Je crois qu'on a perdu le fil. Il y en avait un que tu avais fait. J'avais juste une image à gauche qui bougeait, oui, juste une image à gauche animée, et je te demandais de refaire ça avec un texte disant...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097073586238566400/img/_R21Pzi_0yMssxxR.jpg" width="600" alt="Prompt d'animation pour image à gauche">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10600)**
+
+**Author:** [sexy goddess](https://x.com/sexygoddess676) | **Source:** [Link](https://x.com/sexygoddess676/status/2097073650403021296) | **Published:** Sep 7, 2026
+
+---
 ### Transformation nocturne d'un habitat martien
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -295,7 +742,7 @@ Transformez cette scène d'habitat martien en une version nocturne. Changez le c
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10536)**
 
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2097064276775125295) | **Published:** Sep 7, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **Published:** Sep 7, 2026
 
 ---
 ### Zoom sur bouquet de fleurs en rotation
@@ -741,6 +1188,42 @@ Concevez pour moi un modèle Tesla qui ressemble à un Range Rover à l'extérie
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10478)**
 
 **Author:** [Tammy BB](https://x.com/BbTammy) | **Source:** [Link](https://x.com/BbTammy/status/2096610338301239374) | **Published:** Sep 6, 2026
+
+---
+### Prompt vidéo humoristique : une souris développeur de logiciels
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé en plusieurs scènes pour créer une vidéo cinématographique humoristique de 10 secondes mettant en scène une souris anthropomorphe travaillant comme développeur, confrontée à une erreur de code frustrante et à sa femme qui lui parle.
+
+#### 📝 Prompt
+
+```
+Créez une scène cinématographique humoristique de 10 secondes mettant en vedette une souris anthropomorphe ORIGINALE travaillant comme développeur de logiciels.
+
+La souris est assise à un bureau encombré tard dans la nuit, le pelage légèrement ébouriffé, portant de minuscules lunettes et un sweat à capuche. Plusieurs écrans affichent des lignes de code abstraites et fictives. Elle tape rapidement sur le clavier, puis fait soudainement face à une erreur frustrante à l'écran.
+
+Elle soupire profondément, se frotte le visage et marmonne de frustration. En arrière-plan, sa femme, également une souris, continue de parler fort depuis une autre pièce. La souris s'arrête, regarde vers la porte avec une expression épuisée, puis se tourne lentement vers l'ordinateur pour reprendre sa saisie.
+
+Timing comique, animation faciale expressive, mouvements de souris réalistes, pelage détaillé, intérieur d'appartement chaleureux, lampe de bureau, lueur subtile des moniteurs, mouvement de caméra cinématographique, langage corporel naturel.
+
+La caméra commence par un plan moyen de la souris en train de coder, avance lentement vers son visage frustré, puis coupe sur un plan de réaction lorsqu'elle entend sa femme.
+
+Inclure un dialogue comique naturel :
+Souris : « Je peux corriger le code... mais je ne peux pas corriger mon mariage. »
+
+Femme (hors champ) : « J'AI ENTENDU ÇA ! »
+
+La souris se fige et regarde nerveusement vers la caméra.
+
+Format paysage 16:9, 10 secondes, qualité cinématographique, animation fluide, éclairage réaliste, personnages expressifs, dialogue clair, synchronisation labiale précise, sans logos, sans personnages protégés par le droit d'auteur, sans texte ni filigrane.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096609928710594560/img/DrQhhAaXfwieUn3P.jpg" width="600" alt="Prompt vidéo humoristique : une souris développeur de logiciels">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10615)**
+
+**Author:** [Snow](https://x.com/iamrealsnow) | **Source:** [Link](https://x.com/iamrealsnow/status/2096610006376558614) | **Published:** Sep 6, 2026
 
 ---
 ### Animation publicitaire cinématographique pour Pringles
@@ -1726,475 +2209,6 @@ Elle fredonne doucement une chanson pour elle-même dans sa cellule de prison af
 **Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2094595693126074484) | **Published:** Sep 1, 2026
 
 ---
-### Animation d'une ville figée par le froid
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique décrivant une ville qui gèle en temps réel, avec des voitures à l'arrêt et d'importantes chutes de neige.
-
-#### 📝 Prompt
-
-```
-6 secondes d'une ville qui gèle en temps réel — voitures immobilisées au milieu de la route, la neige engloutissant la rue.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094592646119628800/img/9iYW8jQRKffSyAU8.jpg" width="600" alt="Animation d'une ville figée par le froid">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10192)**
-
-**Author:** [CHiang](https://x.com/CHiang_AILab) | **Source:** [Link](https://x.com/CHiang_AILab/status/2094592697797587015) | **Published:** Sep 1, 2026
-
----
-### Femme mystique dans une serre bioluminescente
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique très détaillé représentant une femme en robe sombre agenouillée dans une serre envahie par la végétation bioluminescente.
-
-#### 📝 Prompt
-
-```
-Plan large cinématographique d'une jeune femme solitaire aux longs cheveux noirs, agenouillée au centre d'un vaste dôme de serre envahi par la végétation. Robe sombre. Yeux fermés. Fleurs violettes bioluminescentes et vignes lumineuses l'entourant. Lumière sarcelle brumeuse traversant le toit en verre. Sol moussu. Calme. Mystique. Ultra détaillé. 8k.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094252201011216384/img/zaL6CQwmyOrz4LDY.jpg" width="600" alt="Femme mystique dans une serre bioluminescente">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10196)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094583516071866736) | **Published:** Sep 1, 2026
-
----
-### Shot d'énergie cosmique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt technique hautement structuré pour une scène d'espace cosmique avec des motifs d'énergie tourbillonnants et un mouvement moyen
-
-#### 📝 Prompt
-
-```
-{"shot": {"motion_level": "moyen", "camera_depth": "plan moyen", "camera_view": "à hauteur des yeux", "camera_movement": "plan fixe"}, "scene": {"location": "espace cosmique abstrait", "environment": "Un arrière-plan cosmique sombre avec des motifs d'énergie tourbillonnants"}}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094565745820594176/img/9V4RhUo7rkQhBKSG.jpg" width="600" alt="Shot d'énergie cosmique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10186)**
-
-**Author:** [Helton RoÐriguez](https://x.com/HRDOGE17) | **Source:** [Link](https://x.com/HRDOGE17/status/2094565773565915249) | **Published:** Aug 31, 2026
-
----
-### Portrait vidéo élégant en dentelle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une vidéo portrait photoréaliste d'une femme portant un haut en dentelle noire, debout près d'une fenêtre avec une lumière latérale naturelle.
-
-#### 📝 Prompt
-
-```
-Portrait cinématographique photoréaliste d'une belle jeune femme aux cheveux châtain clair coiffés en un chignon lâche et élégant. Haut à col montant en dentelle florale noire. Debout près d'une grande fenêtre. Lumière latérale naturelle douce. Intérieur en bois sombre. Regard calme et direct. Faible profondeur de champ. Peau à l'aspect cinématographique. Élégant. Intime. Ultra détaillé. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094252040176439296/img/TyJ3I7QoKlAQivL6.jpg" width="600" alt="Portrait vidéo élégant en dentelle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10245)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094553320576704951) | **Published:** Aug 31, 2026
-
----
-### Vol de colibri dans le jardin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo sur le thème de la nature mettant en scène un colibri s'occupant de ses petits et volant à travers un jardin adjacent.
-
-#### 📝 Prompt
-
-```
-UN COLIBRI S'OCCUPE DE SES PETITS ET S'ENVOLE VERS LES FLEURS D'UN JARDIN ADJACENT
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094539044755759104/img/Ikna7Jd9L-eADEmB.jpg" width="600" alt="Vol de colibri dans le jardin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10200)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2094539187026628984) | **Published:** Aug 31, 2026
-
----
-### Léopard des neiges et femme en armure
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo fantastique complexe mettant en scène un léopard des neiges géant et une femme en armure blanche tenant un drapeau symbolique.
-
-#### 📝 Prompt
-
-```
-Un léopard des neiges géant courant à travers la forêt avec une femme aux cheveux blanc givré, portant des symboles sur ses épaules et vêtue d'une armure blanche ; elle tient un drapeau sur lequel est inscrit 144 000 en lettres d'or.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094511489340100608/img/X-0mfJzOFF-ZGFPE.jpg" width="600" alt="Léopard des neiges et femme en armure">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10194)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2094511511473361010) | **Published:** Aug 31, 2026
-
----
-### Nuage cumulus photoréaliste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour un nuage blanc serein et photoréaliste dans un ciel bleu.
-
-#### 📝 Prompt
-
-```
-Un magnifique nuage cumulus blanc et duveteux flottant dans un ciel bleu clair et lumineux, éclairage volumétrique doux, photoréaliste, très détaillé, atmosphère sereine
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094468607145099264/img/kscj1_03PVJp2Km-.jpg" width="600" alt="Nuage cumulus photoréaliste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10198)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2094468621414080967) | **Published:** Aug 31, 2026
-
----
-### Cascade de chute d'eau cinématographique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt photoréaliste détaillé pour une cascade avec brume et mouvement du feuillage.
-
-#### 📝 Prompt
-
-```
-La cascade se déverse avec puissance et en continu le long des falaises rocheuses dans le bassin turquoise en contrebas, avec une fine brume tourbillonnante qui s'élève sous la lumière du soleil, un mouvement subtil dans le feuillage environnant et des ondulations à la surface de l'eau, mouvement cinématographique fluide, photoréaliste, hautement détaillé
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094444318379352064/img/EQyW9-Gr4eBcEBL0.jpg" width="600" alt="Cascade de chute d'eau cinématographique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10197)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2094444345940201865) | **Published:** Aug 31, 2026
-
----
-### Découverte d'un mot dans une boutique de thé matcha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique détaillé pour animer une scène dans une boutique de thé japonaise où un mot est découvert.
-
-#### 📝 Prompt
-
-```
-Animez cette image pour en faire une vidéo cinématographique photoréaliste de 15 secondes. Préservez le visage, la coiffure, les vêtements, les bijoux, les proportions corporelles de la femme, l'intérieur du café, les détails de la boutique de thé japonaise, l'éclairage et la composition.
-
-0–4 sec : Elle termine calmement la préparation du matcha, faisant glisser doucement le bol en céramique sur le comptoir en bois. Ses mouvements sont précis et naturels. Respiration subtile, clignements d'yeux, mouvement des cheveux et mouvement réaliste du tissu.
-
-4–7 sec : En déplaçant le bol, elle remarque un petit mot manuscrit plié en dessous. Elle marque une pause, baisse les yeux avec curiosité et ramasse délicatement le mot.
-
-7–10 sec : Elle déplie le mot et le lit. Son expression passe lentement de la neutralité à la surprise. Elle le relit une fois, visiblement confuse par son contenu.
-
-10–13 sec : Elle regarde autour d'elle dans la boutique de thé silencieuse, scrutant la pièce comme pour essayer de comprendre qui a laissé le mot. Elle jette un bref coup d'œil vers l'entrée.
-
-13–15 sec : Elle regarde à nouveau le mot et murmure doucement : « Pour moi ? ». Puis, elle esquisse un petit sourire incertain alors que la vidéo se termine.
-
-Jeu d'acteur naturel et réaliste, expressions faciales subtiles, mouvements de mains délicats, interaction réaliste avec le papier, doigts précis, physique naturel des cheveux, atmosphère chaleureuse de café japonais, éclairage cinématographique doux, faible profondeur de champ, léger mouvement de caméra à l'épaule. Pas de mouvements exagérés, pas de mouvement de caméra brusque, pas de personnes supplémentaires, pas de changement de visage, pas de changement de tenue, pas de morphing d'objets, pas de mains déformées.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094383888613445632/img/u9pGKfdgULnvmdVD.jpg" width="600" alt="Découverte d'un mot dans une boutique de thé matcha">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10189)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2094392255599796489) | **Published:** Aug 31, 2026
-
----
-### Vidéo de panoramique sur un océan serein
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo paisible pour un panoramique cinématographique lent sur une scène océanique mettant en scène une poupée.
-
-#### 📝 Prompt
-
-```
-la poupée reste immobile et assise, panoramique cinématographique très lent, mouvement atmosphérique doux, ambiance sereine et paisible, mouvement élégant et raffiné, aucun mouvement agressif, animer l'océan naturel
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094382224653066240/img/mCnWdVTTbnN7WRbR.jpg" width="600" alt="Vidéo de panoramique sur un océan serein">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10188)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2094382339107250687) | **Published:** Aug 31, 2026
-
----
-### Scène de couloir de serveur style anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt anime néon à haut contraste mettant en scène une femme dans un sombre couloir de serveurs avec des éléments holographiques.
-
-#### 📝 Prompt
-
-```
-Plan d'anime cinématographique d'une jeune femme aux cheveux courts pastel irisés dans un sombre couloir de serveurs. Combinaison technologique noire avec des lignes de circuit rouges. Une main holographique en fil de fer cyan brillant tendue vers la caméra. Yeux fermés. Éclats de verre flottants. Racks de serveurs imposants remplis de minuscules lumières. Particules numériques. Néon à haut contraste. Ultra détaillé. 8k.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094251548927025152/img/Z3S24lRd8qDuxm-K.jpg" width="600" alt="Scène de couloir de serveur style anime">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10187)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094372125855437291) | **Published:** Aug 31, 2026
-
----
-### Scène de sauvetage miniature cinématographique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique pour une mission de sauvetage dans un monde miniature, avec un environnement détaillé et des mouvements réalistes.
-
-#### 📝 Prompt
-
-```
-Scène de sauvetage miniature cinématographique dans un monde minuscule et réaliste, plusieurs ouvriers miniatures secourant en urgence une petite personne/un animal dans une situation difficile, environnement artisanal détaillé, mouvements réalistes, atmosphère émotionnelle et bienveillante, drame...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094299291691126784/img/a7Xs3JN4w6I2maWd.jpg" width="600" alt="Scène de sauvetage miniature cinématographique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10140)**
-
-**Author:** [Nicholas](https://x.com/Mud01185127) | **Source:** [Link](https://x.com/Mud01185127/status/2094299423258067039) | **Published:** Aug 31, 2026
-
----
-### Animation cinématographique à suspense dans un café
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo avancé conçu pour animer une image statique en une séquence cinématographique à suspense de 15 secondes avec un timing et des actions de personnage précis.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo cinématographique photoréaliste de 15 secondes à partir de cette image exacte. Préservez le visage, l'identité, la coiffure, la tenue, les bijoux, les proportions corporelles, l'intérieur du café, les objets sur la table, l'éclairage et la composition de la femme. Faites en sorte que l'animation ressemble à un véritable moment pris sur le vif plutôt qu'à une vidéo de mode. 0–3 sec : Elle est assise tranquillement à la table du café, détendue et légèrement perdue dans ses pensées. Ses doigts reposent près de son visage. Elle cligne des yeux naturellement, respire subtilement et ses longs cheveux bougent légèrement. Les lumières chaudes du café et les flammes des bougies vacillent naturellement en arrière-plan. 3–6 sec : Son téléphone sur la table vibre soudainement avec une notification. Elle l'entend, baisse les yeux, tend la main vers le téléphone et le saisit. 6–9 sec : Elle déverrouille le téléphone et lit le message. Son expression passe progressivement de la détente à la surprise. Elle s'arrête de bouger un instant, relit le message et ses yeux s'écarquillent légèrement. 9–12 sec : Elle baisse un peu le téléphone et regarde vers l'entrée du café, confuse et légèrement nerveuse, comme si elle réalisait soudainement que quelqu'un est à proximité. 12–15 sec : Elle regarde à nouveau le téléphone une dernière fois. Le message sur l'écran indique : « Je suis dehors. Ne te retourne pas. » Son expression devient tendue. Elle regarde lentement vers la fenêtre au lieu de se retourner. Terminez sur ce moment de suspense. Jeu d'acteur naturel et réaliste, expressions faciales subtiles, clignements d'yeux réalistes, mouvements précis des mains et des doigts, interaction crédible avec le téléphone, physique naturelle des cheveux, mouvement réaliste des tissus, ambiance de café chaleureuse et sophistiquée, faible profondeur de champ, mouvement de caméra à l'épaule très subtil. Construisez le suspense progressivement. Pas de réactions exagérées, pas de mouvements de caméra brusques, pas d'expéditeur visible, pas de personnages supplémentaires, pas de coupes, pas de changements de visage, pas de changements de tenue, pas de mains ou de téléphone déformés.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094274016601313280/img/tDJlh3HquBBgCAQp.jpg" width="600" alt="Animation cinématographique à suspense dans un café">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10138)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2094275234719502716) | **Published:** Aug 31, 2026
-
----
-### Retour en vol vers Starbase, Texas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt axé sur le mouvement demandant aux sujets de sortir de l'eau et de voler vers un lieu spécifique au Texas.
-
-#### 📝 Prompt
-
-```
-Faites-les sortir tous les deux de l'eau et commencer à voler vers Starbase, au Texas
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094268532582219776/img/qp1kB85ccqNPZjsU.jpg" width="600" alt="Retour en vol vers Starbase, Texas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10137)**
-
-**Author:** [🐕‍🦺Ðoge✝️Cherball🚀](https://x.com/DogeCherball) | **Source:** [Link](https://x.com/DogeCherball/status/2094268636663853142) | **Published:** Aug 31, 2026
-
----
-### Illustration d'une relique colossale dans le désert
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique représentant un casque mécanique massif enfoui dans le désert avec un minuscule visiteur, dans un style roman graphique.
-
-#### 📝 Prompt
-
-```
-Illustration cinématographique large d'un casque mécanique blanc colossal et patiné à moitié enfoui dans un vaste désert, plaques de métal rivetées et traces de rouille, une minuscule silhouette solitaire debout à l'intérieur de la visière ouverte regardant vers l'intérieur, sable pâle accumulé autour de la base, montagnes lointaines sous un ciel bleu clair, style roman graphique, traits nets, échelle silencieuse, ultra détaillé, 8k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093880020808925184/img/5REPjuGQLeVh0-4m.jpg" width="600" alt="Illustration d'une relique colossale dans le désert">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10141)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094251326863736910) | **Published:** Aug 31, 2026
-
----
-### Gros plan cinématographique sur une pilote sous tension
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique intense montrant une femme pilote dans un cockpit endommagé, avec un éclairage orange et un style roman graphique.
-
-#### 📝 Prompt
-
-```
-Gros plan cinématographique intense d'une femme pilote dans un cockpit usé, casque de vol jaune fissuré avec visière brisée sur un œil, sueur et une fine trace de sang sur le visage, yeux grands ouverts et concentrés, lèvres légèrement entrouvertes, cadrans analogiques et horloges brillant d'un orange chaud en arrière-plan, style illustration de roman graphique, traits épais, éclairage dramatique, atmosphère tendue, ultra détaillé, 8k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093879898020720640/img/mJlp1gFAFlwfjTpe.jpg" width="600" alt="Gros plan cinématographique sur une pilote sous tension">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10139)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094221127719825542) | **Published:** Aug 31, 2026
-
----
-### Arrivée du Tesla Optimus en Cyber Taxi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un scénario futuriste mettant en scène le robot Tesla Optimus arrivant dans un Cyber Taxi et frappant à une porte d'entrée.
-
-#### 📝 Prompt
-
-```
-Votre tout nouveau robot Tesla Optimus arrive en Cyber Taxi 🚕 et frappe à votre porte d'entrée…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094218594431143936/img/t4L5eUa2nj5aPFhe.jpg" width="600" alt="Arrivée du Tesla Optimus en Cyber Taxi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10132)**
-
-**Author:** [Bones](https://x.com/MorePower2use) | **Source:** [Link](https://x.com/MorePower2use/status/2094218689952276679) | **Published:** Aug 31, 2026
-
----
-### Vidéo héroïque de l'usine Tesla Optimus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématique et futuriste pour une section hero de page d'atterrissage, montrant le robot Tesla Optimus marchant sur le sol d'une usine sombre avec une brume volumétrique.
-
-#### 📝 Prompt
-
-```
-Section hero de page d'atterrissage pour Tesla Optimus marchant dans une usine. Tons allant du gris anthracite profond au noir quasi total. Photographie immersive grand format. Cuivre chaud et ambre contrastant avec un cyan froid et un bleu acier. Brume volumétrique douce. Contraste cinématique. Interface utilisateur en verre subtile. Typographie raffinée. Asymétrique. Espace vide généreux. Ultra-premium. Futuriste.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093898597893017600/img/9KGpmyCMtZAv63Wi.jpg" width="600" alt="Vidéo héroïque de l'usine Tesla Optimus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10134)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094130530744959050) | **Published:** Aug 30, 2026
-
----
-### Animation d'un personnage retirant son chapeau
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo où un personnage retire son chapeau et prononce une réplique provocante et pleine de cran.
-
-#### 📝 Prompt
-
-```
-Anime cette image : le personnage retire son chapeau et dit « Vas-y, dis-le, minable, ou est-ce que t'en as seulement le courage ? Probablement pas. »
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094053656836403200/img/n5Qt2KA-KsY5IuVp.jpg" width="600" alt="Animation d'un personnage retirant son chapeau">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10131)**
-
-**Author:** [Marsha Bush](https://x.com/MarshaBush50) | **Source:** [Link](https://x.com/MarshaBush50/status/2094053671927484525) | **Published:** Aug 30, 2026
-
----
-### Changement de tenue à 360 degrés
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo technique pour créer une rotation fluide à 360 degrés où le sujet change de tenue à chaque boucle de caméra.
-
-#### 📝 Prompt
-
-```
-La caméra effectue une rotation fluide à 360 degrés en mouvement rapide, tandis que les vêtements de l'homme changent à chaque boucle de caméra ; avant chaque rotation, l'homme claque des doigts pour changer de tenue, la même personne et la même pose restent stables et fixes, la caméra tourne en continu à 360 degrés, seul le vêtement change, timelapse, mouvement fluide
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094052255523639296/img/bpo_riyioik03HRS.jpg" width="600" alt="Changement de tenue à 360 degrés">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10143)**
-
-**Author:** [AZIZ | AI 🇸🇦](https://x.com/aziz4ai) | **Source:** [Link](https://x.com/aziz4ai/status/2094052366005723514) | **Published:** Aug 30, 2026
-
----
-### Noble dame médiévale sur les remparts
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo dans le style d'une peinture à l'huile cinématographique représentant une noble dame vêtue d'une cape noire et dorée, contemplant une vallée montagneuse sous des nuages d'orage et des rayons de soleil.
-
-#### 📝 Prompt
-
-```
-Peinture à l'huile classique de fantasy médiévale représentant une noble dame aux longs cheveux sombres debout sur un haut rempart en pierre, vue de dos et légèrement de côté, portant une riche cape noire aux broderies dorées complexes flottant au vent, contemplant une vaste vallée montagneuse avec une rivière sinueuse, des forêts denses et une cité fortifiée au loin, nuages d'orage dramatiques percés par des rayons de soleil dorés, coups de pinceau picturaux, échelle cinématographique, atmosphère épique, ultra détaillé, 8k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093879783499464704/img/wM21diJcLNvTZ5P-.jpg" width="600" alt="Noble dame médiévale sur les remparts">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10135)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094039934650994982) | **Published:** Aug 30, 2026
-
----
-### Animation cohérente d'un singe dans la rue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt image-vers-vidéo axé sur le maintien d'une cohérence parfaite d'un personnage de singe et de son environnement.
-
-#### 📝 Prompt
-
-```
-Partez de cette image exacte et conservez le même singe, son visage, sa fourrure, son corps, ses vêtements, le banc, le mur, la vitrine, le trottoir, l'éclairage et l'angle de caméra tout au long de la séquence. Ne modifiez pas le physique, l'espèce, la tenue ou l'arrière-plan. Aucun morphing. Rue photoréaliste...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094028641747218432/img/3jqwa_JFV0Zfv8yh.jpg" width="600" alt="Animation cohérente d'un singe dans la rue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10133)**
-
-**Author:** [Romeo_Blog’s](https://x.com/Romeo_Blogs001) | **Source:** [Link](https://x.com/Romeo_Blogs001/status/2094028742553149650) | **Published:** Aug 30, 2026
-
----
-### Documentaire photoréaliste sur un singe dans une église
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo photoréaliste pour créer un clip de style documentaire lent mettant en scène un singe dans une église, tout en conservant des détails visuels cohérents à partir d'une image de référence.
-
-#### 📝 Prompt
-
-```
-Partez de cette image exacte et conservez le même singe, le même visage, la même fourrure, les mêmes vêtements, la même Bible, le même mur, la même église, le même éclairage et le même angle de caméra tout au long de la séquence. Ne modifiez pas le corps, la forme du visage, l'espèce, la tenue ou l'arrière-plan.
-Clip documentaire photoréaliste, calme et lent.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094001242640900096/img/mMprhCzIizL8ErtE.jpg" width="600" alt="Documentaire photoréaliste sur un singe dans une église">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10142)**
-
-**Author:** [SHIDOFF DC🇳🇬🇦🇷🇪🇸](https://x.com/shidoff_dc2043) | **Source:** [Link](https://x.com/shidoff_dc2043/status/2094001284588208315) | **Published:** Aug 30, 2026
-
----
-### Prompt vidéo : Danse circulaire des déesses mythologiques
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt vidéo détaillé décrivant une séquence de déesses mythologiques : Diane jouant avec des animaux dans une forêt profonde, Artémis chantant sous la lune avec une harpe, et Perséphone pleurant des émissaires tout en chantant le chant des cycles. Atmosphère cinématographique mystérieuse et solennelle.
-
-#### 📝 Prompt
-
-```
-La déesse Diane s'ébat avec des animaux dans une forêt profonde. La scène passe à Artémis, déesse de la lune nocturne, chantant une mélodie et apaisant le sommeil avec une harpe ; Perséphone, la déesse du sang, pleure les émissaires ; les déesses continuent de chanter le chant des cycles, une vidéo de 15 minutes chantée en italien avec musique, mystérieuse et solennelle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093970430604488704/img/dUneXzq8ksJk4Tyo.jpg" width="600" alt="Prompt vidéo : Danse circulaire des déesses mythologiques">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10083)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2093970466688180492) | **Published:** Aug 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2256,6 +2270,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-09T04:25:36.736Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-09T13:06:47.899Z</sub>
 
 </div>
