@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2773** |
+| 📝 Total Prompts | **2789** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-10** |
 
@@ -189,6 +189,278 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Anime Crossover Storyboard Scene
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed multi-segment video prompt featuring characters Luffy and Anya with specific timing for prop interactions and emotional highlights.
+
+#### 📝 Prompt
+
+```
+10–15 seconds | Prop outbreak: Rakhi flies up and wraps around the wrist. Golden ribbons automatically wrap around Luffy's wrist, the protection shield unfolds, and Anya's eyes become stars. 15–20 seconds | Emotional climax: Big brother head pat + hug. Luffy patting Anya's head seriously, Anya jumps into his arms, surrounded by golden heart light.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097918547813175296/img/9s_uDQjaXgjU2a1N.jpg" width="600" alt="Anime Crossover Storyboard Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10687)**
+
+**Author:** [思考小朋友的未來](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
+
+---
+### Anime HIIT Elliptical Workout Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Grok Imagine video prompt depicting a character transitioning from sitting to standing and performing push-ups, styled as an anime fitness sequence.
+
+#### 📝 Prompt
+
+```
+generate me sitting up facing away from the camera then I stand up and turn around to do a few push ups
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097888869270376448/img/h1241Vo5IBfUBOeG.jpg" width="600" alt="Anime HIIT Elliptical Workout Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10680)**
+
+**Author:** [𝑹𝒂𝒄𝒉𝒆𝒍 𝑹𝒂𝒎𝒔𝒆𝒚](https://x.com/RSOXART) | **Source:** [Link](https://x.com/RSOXART/status/2097888970994495736) | **Published:** Sep 10, 2026
+
+---
+### Surreal Cosmic Horizon Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly descriptive cinematic prompt featuring a girl on a rooftop watching a colossal planet rise, emphasizing surreal scale and emotional storytelling.
+
+#### 📝 Prompt
+
+```
+A lone girl sitting on the roof of a small countryside house at night, hugging her knees while watching a colossal glowing planet rise over the horizon. The house is tiny compared to the giant celestial body dominating the sky. Warm yellow light glows softly from the window below her, while the surrounding world is bathed in cool blue moonlight. Fireflies hover in the grass, and distant hills fade into darkness. Dreamy, intimate, surreal cosmic scale, strong blue-orange contrast, lonely but beautiful, cinematic composition, gentle emotional storytelling.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097797344687448064/img/SZngyC9XYY8D9vMn.jpg" width="600" alt="Surreal Cosmic Horizon Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10678)**
+
+**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **Published:** Sep 10, 2026
+
+---
+### Garlic Bread Cooking Tutorial Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a 45-second tutorial on how to make garlic bread with parsley and Parmesan.
+
+#### 📝 Prompt
+
+```
+Make me a 45 second video short of how to video to make garlic bread with fresh parsley and Parmesan.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097797873366671362/img/608CZ_oj_TJaD-FR.jpg" width="600" alt="Garlic Bread Cooking Tutorial Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10681)**
+
+**Author:** [Rduck](https://x.com/rduck526) | **Source:** [Link](https://x.com/rduck526/status/2097797892312322437) | **Published:** Sep 9, 2026
+
+---
+### Glowing Door in Desert Sky
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed surreal vertical night scene of a lonely man facing a gigantic glowing doorway in a dark desert.
+
+#### 📝 Prompt
+
+```
+A surreal vertical night scene of a lonely man standing in a vast dark desert under a star filled sky. In front of him is a gigantic freestanding glowing door, many times taller than a human, slightly open, revealing a bright orange light inside. Around the door, sand softly glows under blue moonlight. The sky is rich with stars and faint nebula clouds. Strong visual contrast between the cool midnight blue landscape and the warm fiery interior light spilling from the door. Quiet, symbolic, cinematic, mysterious, highly detailed, surreal scale, emotional solitude.
+
+Negative: no text, no logo, no watermark
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097796543462219776/img/DxvENK4kg04thsZh.jpg" width="600" alt="Glowing Door in Desert Sky">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10675)**
+
+**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097796795325882717) | **Published:** Sep 9, 2026
+
+---
+### Brutalist Geometric Interior Corridor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic high-contrast architecture prompt featuring stacked concrete volumes, thin glowing white portals, and dynamic shadow fading.
+
+#### 📝 Prompt
+
+```
+Vertical 9:16 cinematic shot of a vast dark brutalist interior. Massive stacked white concrete volumes form a deep geometric corridor with sharp rectangular openings. Thin glowing white light frames outline doorways and floating architectural slabs, creating layered portals of light receding into darkness. Silhouettes of a few people standing still or slowly walking through the space, one in the foreground, others distant. The scene rhythmically fades almost to black then the light architecture reappears. Minimal, monochromatic, high contrast, volumetric light, clean CGI architecture, slow camera, immersive installation atmosphere, no text, no color.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097595686695092224/img/ORVpFF3BYl2IrphX.jpg" width="600" alt="Brutalist Geometric Interior Corridor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10677)**
+
+**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097761965032481176) | **Published:** Sep 9, 2026
+
+---
+### Transforming Monster Cat Streamer
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed horror-themed anime prompt where a four-legged monster cat transforms into a bipedal creature and starts a livestream.
+
+#### 📝 Prompt
+
+```
+Create an anime-style video of a horror scene where a four-legged monster cat walks for a while, then starts walking on two legs, sits in a gaming chair at a desk with a desktop computer, starts the computer, puts on headphones, and begins streaming into a microphone.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097708848828276737/img/wlO1X5GuuWEVYe7P.jpg" width="600" alt="Transforming Monster Cat Streamer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10686)**
+
+**Author:** [猫目の人](https://x.com/nekomenohito_JP) | **Source:** [Link](https://x.com/nekomenohito_JP/status/2097708874254197197) | **Published:** Sep 9, 2026
+
+---
+### Athena and Zeus Cinematic Dialogue
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt featuring Athena walking toward Zeus's temple to demand help for mortals.
+
+#### 📝 Prompt
+
+```
+Athena walk toward her father temple a with out saying anything she looks as Zeus says hello she replies the mortals need our help
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097706795951439872/img/hbwALyol54WErHvT.jpg" width="600" alt="Athena and Zeus Cinematic Dialogue">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10673)**
+
+**Author:** [vlad moore](https://x.com/vladmoore3) | **Source:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **Published:** Sep 9, 2026
+
+---
+### Realistic Talking Photo Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An advanced prompt for animating two people in a photo with specific lip-sync dialogue and natural facial movements.
+
+#### 📝 Prompt
+
+```
+Animate this photo realistically. The man (Charlie) speaks first saying "Pam always go Max!" with natural lip sync and mouth movements. Then the woman (Pam) replies saying "you got it Charlie!" with natural lip sync....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097701925424947200/img/JIVCIIy9cUk8TnC9.jpg" width="600" alt="Realistic Talking Photo Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10684)**
+
+**Author:** [Pamela joye middle](https://x.com/JoyeMiddle28955) | **Source:** [Link](https://x.com/JoyeMiddle28955/status/2097701989278998571) | **Published:** Sep 9, 2026
+
+---
+### Shy Character Motion Sequence
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed motion prompt for a character waving, spinning, falling, and smiling, with specific requirements for tail coloration.
+
+#### 📝 Prompt
+
+```
+Look left and right in order and wave in each direction. Spin once on the spot but lose balance and fall on your butt. Finally, show a bashful smile. The tail should be light brown from the base halfway and dark brown for the front half.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097693112428875776/img/VMYuzkc2zkYCF-Q4.jpg" width="600" alt="Shy Character Motion Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10688)**
+
+**Author:** [Mofuyama works | Art plush & illustrations](https://x.com/no_mofu_no_life) | **Source:** [Link](https://x.com/no_mofu_no_life/status/2097693136382566808) | **Published:** Sep 9, 2026
+
+---
+### Cool Cat with Glasses Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for grok-imagine featuring a cat in glasses with slow camera movement.
+
+#### 📝 Prompt
+
+```
+Slow camera movement, cat remains relatively still. Animals know how cool they look even in glasses!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097676269249011712/img/fHbejykVvx-GHy6A.jpg" width="600" alt="Cool Cat with Glasses Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10682)**
+
+**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2097676312357773654) | **Published:** Sep 9, 2026
+
+---
+### Dynamic Parasyte Scene Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Animate a manga scene with shifting ages and sequence text overlay overlaying video elements.
+
+#### 📝 Prompt
+
+```
+Animate the Parasyte scene into a fun dynamic video: giant alien hand with Shinichi and Migi reaches for Earth. Overlay big glowing Chinese text appearing in sequence: "3秒原则", then "三分天下", then "333岁成大叔". The young Shinichi ages into a 333-year-old m...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097637549095497728/img/xi0uGrQLYYgOOGAV.jpg" width="600" alt="Dynamic Parasyte Scene Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10676)**
+
+**Author:** [Chenghuai Wang](https://x.com/ChenghuaiW716i) | **Source:** [Link](https://x.com/ChenghuaiW716i/status/2097637600664433145) | **Published:** Sep 9, 2026
+
+---
+### Sleek Black Tesla Highway Drive
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a smooth video tracking a futuristic black Tesla on a sunlit highway with sharp reflections.
+
+#### 📝 Prompt
+
+```
+A sleek black Tesla electric vehicle drives smoothly along a sunlit modern highway, its glossy surface reflecting the surrounding scenery as it glides forward with quiet power.
+The visuals present a clean, futuristic automotive style with sharp refle...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097621563709501440/img/mLJvZTc-hXrOj-__.jpg" width="600" alt="Sleek Black Tesla Highway Drive">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10674)**
+
+**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097621591815287266) | **Published:** Sep 9, 2026
+
+---
+### Martial Arts Dojo Sparring Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for Grok Imagine describing a sparring session between two blonde martial artists in a Japanese dojo.
+
+#### 📝 Prompt
+
+```
+Characters: A woman with long blonde hair and a man with curly blonde hair. Both wear white martial arts uniforms (gis) and black belts.
+ Action: They engage in intense, rapid hand-to-hand sparring, exchanging punches and blocks, before separating to strike defensive stances.
+ Setting: A traditional Japanese dojo featuring wooden pillars, tatami flooring, and large openings that reveal a lush green forest outside. A hanging scroll is visible in the background.
+ Cinematography: Fast-paced camera work, quick cuts, and motion blur during fast movements. Natural lighting highlights the scene.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097596579775651840/img/ZIvdND7fCCnwhZrG.jpg" width="600" alt="Martial Arts Dojo Sparring Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10685)**
+
+**Author:** [Melisa♡](https://x.com/xmliisu) | **Source:** [Link](https://x.com/xmliisu/status/2097596867500515494) | **Published:** Sep 9, 2026
+
+---
 ### Photoreal Raincoat Woman Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -226,6 +498,25 @@ The visuals present a clean, futuristic cinematic style with cool blue-hour t...
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10593)**
 
 **Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097580043748639150) | **Published:** Sep 9, 2026
+
+---
+### Marty McFly Michigan Football Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a video of the character Marty McFly entering a time machine while wearing a specific college football jersey.
+
+#### 📝 Prompt
+
+```
+A video Marty McFly, stepping into a Time Machine and he’s wearing a Michigan football jersey
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097573779136487424/img/sImhXvEGftCvcEKb.jpg" width="600" alt="Marty McFly Michigan Football Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10679)**
+
+**Author:** [David Kowalski](https://x.com/DavidKow1963) | **Source:** [Link](https://x.com/DavidKow1963/status/2097573794810376639) | **Published:** Sep 9, 2026
 
 ---
 ### Sleek blonde nap scene
@@ -323,11 +614,11 @@ The man says hey Julianne, do you know what the time is and the girl says sorry 
 **Author:** [Jose Rodriguez](https://x.com/JoseRodrigg1yr) | **Source:** [Link](https://x.com/JoseRodrigg1yr/status/2097453593473192328) | **Published:** Sep 8, 2026
 
 ---
-### Starship Ocean Rescue Rescue
+### Starship Ocean Rescue Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic science fiction video prompt showing ship operations rescuing an ocean-floating starship.
+> Generates a dramatic cinematic tracking shot of an ocean rescue mission for a floating starship.
 
 #### 📝 Prompt
 
@@ -335,7 +626,7 @@ The man says hey Julianne, do you know what the time is and the girl says sorry 
 The starship was floating in the ocean and they went out on a ship to rescue it.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097441838148026368/img/UiZkNAwtyjuhr87a.jpg" width="600" alt="Starship Ocean Rescue Rescue">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097441838148026368/img/UiZkNAwtyjuhr87a.jpg" width="600" alt="Starship Ocean Rescue Scene">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10611)**
 
@@ -359,6 +650,25 @@ Odysseus clung to the underside of the ram as Polyphemus roared and groped throu
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10610)**
 
 **Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2097440928940109945) | **Published:** Sep 8, 2026
+
+---
+### Robot Riding Ducati Showroom Exit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt featuring an iron robot mounting a Ducati and riding out of a showroom with a specific catchphrase.
+
+#### 📝 Prompt
+
+```
+Expeng IRON robot, mounts this DUcati and drives out the front door of the show room saying - SEE YOU ALL LATER
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097436820548284416/img/i10zK_1kVGx_3xE_.jpg" width="600" alt="Robot Riding Ducati Showroom Exit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10683)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **Published:** Sep 8, 2026
 
 ---
 ### Biblical character illustration
@@ -828,11 +1138,11 @@ Restyle this photo into a dreamy Sunday Morning aesthetic. Soft, hazy, warm gold
 **Author:** [stan gralla](https://x.com/GrallaStan) | **Source:** [Link](https://x.com/GrallaStan/status/2096955746608927063) | **Published:** Sep 7, 2026
 
 ---
-### Ethereal Bridal Cinema 3D Masterpiece
+### Stereoscopic 3D Cinematic Woman in Rose Gown
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An ultra-detailed cinematic video prompt that introduces structured camera work, timed choreography, and specific audio cues to transform an uploaded image into a high-end 3D fantasy film sequence.
+> An extremely detailed, 30-second stereoscopic 3D video prompt optimized for Grok Imagine, guiding a continuous, buttery cinematic shot of a blonde woman in an elegant ivory and blush-pink rose gown within a sunlit garden setup.
 
 #### 📝 Prompt
 
@@ -860,7 +1170,7 @@ Change her face or hair. Add people. Add speech. Delay the music. Rush the movem
 Make it feel like a living painting that breathes from the first frame.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="Ethereal Bridal Cinema 3D Masterpiece">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="Stereoscopic 3D Cinematic Woman in Rose Gown">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10531)**
 
@@ -1653,11 +1963,11 @@ Animate this photo of the floppy-eared dog with him lifting his paw as if he wan
 **Author:** [Løen](https://x.com/l03n27) | **Source:** [Link](https://x.com/l03n27/status/2095697750130123031) | **Published:** Sep 4, 2026
 
 ---
-### Cinematic Transforming Sci-Fi Robot
+### Cinematic Transforming Giant Robot
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic 8K sci-fi video prompt generating a massive transforming robot on a futuristic battlefield with glowing energy cores and dramatic lighting.
+> A detailed sci-fi prompt for generating a high-quality video of a massive robot transforming on a battlefield.
 
 #### 📝 Prompt
 
@@ -1665,7 +1975,7 @@ Animate this photo of the floppy-eared dog with him lifting his paw as if he wan
 THE NEXT EVOLUTION When machines become warriors, armor becomes more than protection. It becomes power. It becomes the future. Transform. Arm. Dominate.Visual style: cinematic + photorealistic, massive transforming robot, advanced , glowing energy cores, mechanical transformation, sparks and smoke, futuristic battlefield, dramatic lighting, slow-motion camera movement, ultra-detailed 8K sci-fi realism.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="Cinematic Transforming Sci-Fi Robot">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="Cinematic Transforming Giant Robot">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10344)**
 
@@ -1843,349 +2153,23 @@ A quiet moment in a sunlit rose garden, she pauses, breathes in the bloom, and s
 **Author:** [Ashutosh](https://x.com/Bhart0678) | **Source:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **Published:** Sep 3, 2026
 
 ---
-### Rainy Forest Glowing Light Prompt
+### Cinematic Rainy Forest Mystery
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An immersive image-to-video timeline prompt directing Grok Imagine to create a cinematic sequence of a woman in a rainy forest noticing a mysterious light between the trees.
+> A highly detailed photorealistic prompt for generating a 15-second cinematic video of a woman in a rainy forest who discovers a mysterious flickering light.
 
 #### 📝 Prompt
 
 ```
-“A Light Appears Between the Trees” | 15 sec
-Create a photorealistic cinematic 15-second video from this exact image. Preserve the woman's exact face, hairstyle, wet hair, black raincoat, gray scarf, body proportions, forest environment, rainfall, lighting, and composition.0–4 sec: She stands completely still in the heavy rain, eyes closed and face tilted slightly upward, peacefully enjoying the rainfall. Water runs naturally through her wet hair and down her glossy raincoat. Her scarf moves gently in the cold breeze.4–7 sec: A faint, warm light suddenly appears deep between the trees behind her. At first it is barely noticeable, like a distant lantern glowing through the rain and mist. She slowly opens her eyes.7–10 sec: She notices the unusual light. Her expression changes from peaceful to curious. She slowly turns her head toward it, staring between the trees as rain continues falling around her.10–13 sec: The warm light becomes slightly brighter and flickers gently through the fog. She takes one cautious step toward it, her eyes fixed on the mysterious glow. The camera subtly moves with her.13–15 sec: Just as she takes another step, the light suddenly disappears. She stops and stares into the darkness between the trees, visibly confused. A beat of silence except for the rain. Cut to black.Photorealistic cinematic realism, atmospheric rainy forest, realistic rain and mist, wet hair and clothing, natural wind movement, subtle facial acting, believable walking motion, deep forest perspective, cool blue-gray surroundings contrasted with a distant warm amber light, shallow depth of field, subtle handheld camera movement. The light must remain distant and partially obscured by trees; never reveal its source. No supernatural creature, no person, no horror monster, no jump scare, no exaggerated reaction, no scene transition, no face changes, no outfit changes, no distorted hands, no morphing.
+Create a photorealistic cinematic 15-second video from this exact image. Preserve the woman's exact face, hairstyle, wet hair, black raincoat, gray scarf, body proportions, forest environment, rainfall, lighting, and composition.0–4 sec: She stands completely still in the heavy rain, eyes closed and face tilted slightly upward, peacefully enjoying the rainfall. Water runs naturally through her wet hair and down her glossy raincoat. Her scarf moves gently in the cold breeze.4–7 sec: A faint, warm light suddenly appears deep between the trees behind her. At first it is barely noticeable, like a distant lantern glowing through the rain and mist. She slowly opens her eyes.7–10 sec: She notices the unusual light. Her expression changes from peaceful to curious. She slowly turns her head toward it, staring between the trees as rain continues falling around her.10–13 sec: The warm light becomes slightly brighter and flicker gently through the fog. She takes one cautious step toward it, her eyes fixed on the mysterious glow. The camera subtly moves with her.13–15 sec: Just as she takes another step, the light suddenly disappears. She stops and stares into the darkness between the trees, visibly confused. A beat of silence except for the rain. Cut to black.Photorealistic cinematic realism, atmospheric rainy forest, realistic rain and mist, wet hair and clothing, natural wind movement, subtle facial acting, believable walking motion, deep forest perspective, cool blue-gray surroundings contrasted with a distant warm amber light, shallow depth of field, subtle handheld camera movement. The light must remain distant and partially obscured by trees; never reveal its source. No supernatural creature, no person, no horror monster, no jump scare, no exaggerated reaction, no scene transition, no face changes, no outfit changes, no distorted hands, no morphing.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="Rainy Forest Glowing Light Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="Cinematic Rainy Forest Mystery">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10283)**
 
 **Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **Published:** Sep 3, 2026
-
----
-### 3D Cinematic Cartoon Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for a 10-second cinematic 3D cartoon in 9:16 vertical aspect ratio.
-
-#### 📝 Prompt
-
-```
-Episode 3
-Vertical 9:16 video, 10 seconds duration. Cinematic stylized 3D cartoon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095337640304459776/img/q90cC4ZcPhb16cmv.jpg" width="600" alt="3D Cinematic Cartoon Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10282)**
-
-**Author:** [จูบใครคิดว่าไม่สำคัญ](https://x.com/unclekidtung) | **Source:** [Link](https://x.com/unclekidtung/status/2095337708159906160) | **Published:** Sep 3, 2026
-
----
-### Airplane Wreck Stormy Sea Portrait
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A moody cinematic wide shot of a young woman sitting on the wing of a submerged airplane wreck in a stormy sea.
-
-#### 📝 Prompt
-
-```
-Cinematic wide shot of a young woman with long wet hair sitting barefoot on the wing of a rusted white airplane wreck half-submerged in a stormy sea. Red tail light still glowing. Heavy grey clouds. Waves against dark rocks and cliffs. Photorealistic. Moody. Ultra detailed. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095012974671089664/img/PzQuNhY-VIzwslsz.jpg" width="600" alt="Airplane Wreck Stormy Sea Portrait">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10284)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095308292243308887) | **Published:** Sep 3, 2026
-
----
-### Elon Musk's Mars City Construction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt visualizing Elon Musk's vision of a futuristic city on Mars being built by Tesla's Optimus humanoid robots.
-
-#### 📝 Prompt
-
-```
-A video of the planet Mars according to Elon Musk's vision, showing the construction of a futuristic city on Mars, with Tesla's Optimus humanoid robot actively building and working on the city structures
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095299106017034240/img/qFfksIef5wsl65Fu.jpg" width="600" alt="Elon Musk's Mars City Construction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10287)**
-
-**Author:** [Delestre](https://x.com/stephdel0204) | **Source:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **Published:** Sep 2, 2026
-
----
-### Young Cleopatra Egypt Landscape
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Visualizes a young Cleopatra looking out at the lands of Egypt with a sense of future destiny.
-
-#### 📝 Prompt
-
-```
-Cleopatra when she was younger looking out at Egypt knowing she would rule it one day
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095297599641427968/img/RLicB_jR0nFF0exF.jpg" width="600" alt="Young Cleopatra Egypt Landscape">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10341)**
-
-**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2095297619492851887) | **Published:** Sep 2, 2026
-
----
-### Cozy Bedroom Book Catch Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An elaborate image-to-video timeline prompt that guides Grok Imagine to animate a woman catching a falling book in a cozy bedroom context.
-
-#### 📝 Prompt
-
-```
-Create a photorealistic, cozy 15-second cinematic video from this exact image. Preserve the woman's exact face, hairstyle, cardigan, jewelry, body proportions, bedroom, bed, books, lamp, wall decorations, lighting, and overall composition.
-
-0–4 sec: She sits comfortably on the bed, looking toward the camera with a soft relaxed expression. She naturally blinks and breathes, then glances toward the stack of books beside her.
-
-4–7 sec: She reaches toward the stack and gently pulls out one book. As she does, another book suddenly slips from the stack and falls toward the floor.
-
-7–10 sec: She reacts quickly, leaning forward and reaching down to catch the falling book. She manages to grab it just before it hits the floor.
-
-10–12 sec: She sits back up holding the book, looking at it with a slightly surprised expression, then lets out a small amused laugh.
-
-12–15 sec: She looks directly toward the camera, smiles mischievously, and says softly, “That was close.” She places the book safely beside her.
-
-Natural human movement, realistic reaction timing, believable hand and finger movements, accurate interaction with the book, subtle hair movement, realistic cardigan fabric, natural facial expressions, cozy afternoon bedroom atmosphere, soft cinematic lighting, shallow depth of field, gentle handheld camera feel. The falling book must move naturally with gravity and be caught realistically. No exaggerated acting, no sudden camera movements, no extra people, no face changes, no outfit changes, no distorted hands, no object morphing.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095138179166949376/img/lSmg-daTNlRhHUN2.jpg" width="600" alt="Cozy Bedroom Book Catch Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10391)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095139680786493912) | **Published:** Sep 2, 2026
-
----
-### Serene Moonlit Good Night Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A peaceful and serene prompt featuring a bright full moon over rolling hills and a reflective lake.
-
-#### 📝 Prompt
-
-```
-Have a peaceful night.
-
-A serene and peaceful good night scene featuring a large, bright full moon shining brilliantly in a clear deep blue night sky, casting soft silvery moonlight over a tranquil landscape with gentle rolling hills, a calm reflective lake mirroring the moon
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095033444275302401/img/UFNKh_l3fXPCCLD6.jpg" width="600" alt="Serene Moonlit Good Night Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10243)**
-
-**Author:** [Mattie](https://x.com/Mattie129218) | **Source:** [Link](https://x.com/Mattie129218/status/2095033462776369428) | **Published:** Sep 2, 2026
-
----
-### Cinematic Duelist Scene with Camera Timestamps
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing a slow zoom and snap cut sequence featuring a duelist in a rainy, dark city scene.
-
-#### 📝 Prompt
-
-```
-[0-4] Slow zoom in on the back of her head,
-
-The duelist in the torn haori holds a curved blade low at her right side, centre frame, back to the storm-dark city, rain sheeting off the clay tiles at her boots, lightning cracks the sky
-
-[4-6] Snap cut, extreme close up to the tip of the blade,
-
- she flicks blood from it upwards in one sharp arc, the water breaking into spray off the steel
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="Cinematic Duelist Scene with Camera Timestamps">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10247)**
-
-**Author:** [🤍Hafuma🩵](https://x.com/hafuma) | **Source:** [Link](https://x.com/hafuma/status/2094956857605468426) | **Published:** Sep 2, 2026
-
----
-### Elderly Woman on Train Platform Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic and melancholic prompt for a painterly video of an elderly woman at an abandoned train station.
-
-#### 📝 Prompt
-
-```
-Cinematic painterly video of an elderly woman with long windblown white hair sitting on a deserted train platform at dusk. Holding a small glowing vintage radio in both hands. Rusted abandoned steam locomotive behind her. Wet empty tracks stretching into fog. Worn coat. Golden cloudy sky. Melancholic. Ultra detailed. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094600075960070144/img/kkpwtqGRgCRMoeX7.jpg" width="600" alt="Elderly Woman on Train Platform Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10248)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094885505456578626) | **Published:** Sep 1, 2026
-
----
-### Bioluminescent Greenhouse Night Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt of a man walking through an overgrown greenhouse filled with glowing plants at night.
-
-#### 📝 Prompt
-
-```
-Cinematic video of a young man with curly dark hair walking slowly through a vast overgrown greenhouse at night. Green shirt. Wet stone path. Bioluminescent plants glowing along both sides. Rain dripping from the glass roof. Full moon through the metal frame. He stops and looks upward with quiet wonder. Misty. Photorealistic. Ultra detailed. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094599866626535424/img/P6E6vtztB9o2dqMj.jpg" width="600" alt="Bioluminescent Greenhouse Night Walk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10244)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094825107705176343) | **Published:** Sep 1, 2026
-
----
-### Starship Rockets Launching Behind Mountain
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing a subject walking forward while starship rockets blast off in the distance behind a mountain range.
-
-#### 📝 Prompt
-
-```
-As he walks forward imagine two starship rockets blasting off in the distance behind the mountain
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094789718005219328/img/Hh6EvP8KRKNOkVgi.jpg" width="600" alt="Starship Rockets Launching Behind Mountain">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10246)**
-
-**Author:** [Ben Nash](https://x.com/bennash) | **Source:** [Link](https://x.com/bennash/status/2094789762045345824) | **Published:** Sep 1, 2026
-
----
-### Giant Desert Helmet Exploration
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt describing a colossal helmet half-buried in the desert with a person exploring the interior.
-
-#### 📝 Prompt
-
-```
-A helmet the size of a hill, half sunk in the desert, and one person standing in the open visor looking in at the machinery.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2094649705397415936/pu/img/8S8DFWA2Byd31neq.jpg" width="600" alt="Giant Desert Helmet Exploration">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10191)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2094649723860697356) | **Published:** Sep 1, 2026
-
----
-### Cleopatra Fighting Azael Epic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt of Cleopatra fighting Azael while declaring her presence.
-
-#### 📝 Prompt
-
-```
-Cleopatra, the queen of Egypt, alive and present, declaring 'it’s me Azael, I’m alive' while fighting Azael
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094649638238183424/img/V5M5aKB5QtYLnZ0a.jpg" width="600" alt="Cleopatra Fighting Azael Epic">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10195)**
-
-**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2094649662879772793) | **Published:** Sep 1, 2026
-
----
-### Talking Character Image Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Animate a still image to speak a specific line of dialogue with a designated vocal style.
-
-#### 📝 Prompt
-
-```
-Animate this image to say “I don’t know which station is Gilmore and which one is Holdom” in a cute voice
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094633812957511680/img/PRBQeuURbuPuz9Dw.jpg" width="600" alt="Talking Character Image Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10190)**
-
-**Author:** [Gino Flen](https://x.com/GinoFlen) | **Source:** [Link](https://x.com/GinoFlen/status/2094633824747721195) | **Published:** Sep 1, 2026
-
----
-### Snoop Dogg Dragon Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt showing Snoop Dogg transforming into a cartoon dragon.
-
-#### 📝 Prompt
-
-```
-Create a video of Snoop Dogg turning into a cartoon dragon with a cigarette hanging out the side its mouth
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094628833395691520/img/Qo3rVOgH2zbosWXp.jpg" width="600" alt="Snoop Dogg Dragon Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10193)**
-
-**Author:** [THUNDERCAZ🫣🫶⚡️](https://x.com/CazzThunder) | **Source:** [Link](https://x.com/CazzThunder/status/2094628853540868104) | **Published:** Sep 1, 2026
-
----
-### Smiling Woman at Outdoor Cafe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt for a realistic casual scene of a woman relaxing at an outdoor cafe with natural lighting
-
-#### 📝 Prompt
-
-```
-In a realistic casual style, a smiling woman relaxes at an outdoor cafe, her hands behind her head. She has short brown hair, dark sunglasses, a black sleeveless top, a small gold pendant necklace, and bracelets on her wrist, with a joyful expression
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094612892670726144/img/9Di611jujQcOMjtO.jpg" width="600" alt="Smiling Woman at Outdoor Cafe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10185)**
-
-**Author:** [nicole bruntet](https://x.com/nicolebruntet) | **Source:** [Link](https://x.com/nicolebruntet/status/2094612960568054130) | **Published:** Sep 1, 2026
-
----
-### Melancholic Prison Cell Humming
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A character-focused video prompt featuring emotional micro-expressions and atmospheric handheld camera work.
-
-#### 📝 Prompt
-
-```
-She quietly hums a song to herself in the prison cell to keep the sadness at bay. She hasn't given up hope even though she is devastated. Handheld camera work, micro-expressions on her face tell the story of depression overcome by determination to keep the faith. No dialogue. No music other than her humming sounds.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094595558363029504/img/Nvvb-lTqxgxTB3cc.jpg" width="600" alt="Melancholic Prison Cell Humming">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10199)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2094595693126074484) | **Published:** Sep 1, 2026
 
 ---
 ---
@@ -2249,6 +2233,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-10T04:20:46.461Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-10T13:07:12.787Z</sub>
 
 </div>

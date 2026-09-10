@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2773** |
+| 📝 Total Prompts | **2789** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-10** |
 
@@ -189,6 +189,278 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Anime-Crossover-Storyboard-Szene
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Video-Prompt mit mehreren Segmenten, der die Charaktere Luffy und Anya zeigt, inklusive präzisem Timing für Requisiteninteraktionen und emotionale Höhepunkte.
+
+#### 📝 Prompt
+
+```
+10–15 Sekunden | Requisiten-Effekt: Rakhi fliegt nach oben und wickelt sich um das Handgelenk. Goldene Bänder legen sich automatisch um Luffys Handgelenk, der Schutzschild entfaltet sich und Anyas Augen werden zu Sternen. 15–20 Sekunden | Emotionaler Höhepunkt: Kopfstreicheln durch den großen Bruder + Umarmung. Luffy tätschelt ernst Anyas Kopf, Anya springt in seine Arme, umgeben von goldenem Herzleuchten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097918547813175296/img/9s_uDQjaXgjU2a1N.jpg" width="600" alt="Anime-Crossover-Storyboard-Szene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10687)**
+
+**Author:** [思考小朋友的未來](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
+
+---
+### Anime HIIT Ellipsentrainer-Workout-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Grok Imagine-Videoprompt, der einen Charakter zeigt, der vom Sitzen zum Stehen übergeht und Liegestütze ausführt, im Stil einer Anime-Fitnesssequenz.
+
+#### 📝 Prompt
+
+```
+erstelle ein Video, in dem ich mich von der Kamera abgewandt aufsetze, dann aufstehe, mich umdrehe und ein paar Liegestütze mache
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097888869270376448/img/h1241Vo5IBfUBOeG.jpg" width="600" alt="Anime HIIT Ellipsentrainer-Workout-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10680)**
+
+**Author:** [𝑹𝒂𝒄𝒉𝒆𝒍 𝑹𝒂𝒎𝒔𝒆𝒚](https://x.com/RSOXART) | **Source:** [Link](https://x.com/RSOXART/status/2097888970994495736) | **Published:** Sep 10, 2026
+
+---
+### Surreale kosmische Horizont-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochgradig deskriptiver, filmischer Prompt, der ein Mädchen auf einem Dach zeigt, das den Aufgang eines kolossalen Planeten beobachtet, mit Fokus auf surrealer Größe und emotionalem Storytelling.
+
+#### 📝 Prompt
+
+```
+Ein einsames Mädchen sitzt nachts auf dem Dach eines kleinen Landhauses, umarmt ihre Knie und beobachtet, wie ein kolossaler, leuchtender Planet über dem Horizont aufgeht. Das Haus wirkt winzig im Vergleich zu dem riesigen Himmelskörper, der den Himmel dominiert. Ein warmes, gelbes Licht scheint sanft aus dem Fenster unter ihr, während die umliegende Welt in kühles, blaues Mondlicht getaucht ist. Glühwürmchen schweben im Gras und ferne Hügel verlieren sich in der Dunkelheit. Verträumt, intim, surreale kosmische Dimensionen, starker Blau-Orange-Kontrast, einsam aber wunderschön, filmische Komposition, sanftes emotionales Storytelling.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097797344687448064/img/SZngyC9XYY8D9vMn.jpg" width="600" alt="Surreale kosmische Horizont-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10678)**
+
+**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **Published:** Sep 10, 2026
+
+---
+### Video-Anleitung: Knoblauchbrot zubereiten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt für eine 45-sekündige Anleitung zur Zubereitung von Knoblauchbrot mit Petersilie und Parmesan.
+
+#### 📝 Prompt
+
+```
+Erstelle ein 45-sekündiges Video-Short als Anleitung, wie man Knoblauchbrot mit frischer Petersilie und Parmesan zubereitet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097797873366671362/img/608CZ_oj_TJaD-FR.jpg" width="600" alt="Video-Anleitung: Knoblauchbrot zubereiten">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10681)**
+
+**Author:** [Rduck](https://x.com/rduck526) | **Source:** [Link](https://x.com/rduck526/status/2097797892312322437) | **Published:** Sep 9, 2026
+
+---
+### Leuchtende Tür am Wüstenhimmel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine hochdetaillierte, surreale vertikale Nachtszene eines einsamen Mannes vor einem gigantischen, leuchtenden Tor in einer dunklen Wüste.
+
+#### 📝 Prompt
+
+```
+Eine surreale vertikale Nachtszene eines einsamen Mannes, der in einer weiten, dunklen Wüste unter einem sternenklaren Himmel steht. Vor ihm befindet sich ein gigantisches, freistehendes, leuchtendes Tor, das um ein Vielfaches höher ist als ein Mensch und leicht geöffnet ist, wodurch ein helles orangefarbenes Licht im Inneren sichtbar wird. Um das Tor herum leuchtet der Sand sanft im blauen Mondlicht. Der Himmel ist reich an Sternen und schwachen Nebelwolken. Starker visueller Kontrast zwischen der kühlen, mitternachtsblauen Landschaft und dem warmen, feurigen Licht, das aus dem Tor strömt. Ruhig, symbolisch, filmisch, mysteriös, hochdetailliert, surrealer Maßstab, emotionale Einsamkeit.
+
+Negativ: kein Text, kein Logo, kein Wasserzeichen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097796543462219776/img/DxvENK4kg04thsZh.jpg" width="600" alt="Leuchtende Tür am Wüstenhimmel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10675)**
+
+**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097796795325882717) | **Published:** Sep 9, 2026
+
+---
+### Brutalistischer geometrischer Innenraum-Korridor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kinoreifer, kontrastreicher Architektur-Prompt mit gestapelten Betonvolumen, dünnen, leuchtend weißen Portalen und dynamisch verblassenden Schatten.
+
+#### 📝 Prompt
+
+```
+Vertikale 9:16-Filmaufnahme eines weitläufigen, dunklen brutalistischen Innenraums. Massive, gestapelte weiße Betonvolumen bilden einen tiefen, geometrischen Korridor mit scharfen rechteckigen Öffnungen. Dünne, leuchtend weiße Lichtrahmen umreißen Türöffnungen und schwebende Architekturplatten und erzeugen geschichtete Lichtportale, die in der Dunkelheit verschwinden. Silhouetten einiger weniger Personen, die stillstehen oder langsam durch den Raum gehen, eine im Vordergrund, andere in der Ferne. Die Szene blendet rhythmisch fast bis zur Schwärze ab, bevor die Lichtarchitektur wieder erscheint. Minimalistisch, monochromatisch, hoher Kontrast, volumetrisches Licht, saubere CGI-Architektur, langsame Kameraführung, immersive Installationsatmosphäre, kein Text, keine Farbe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097595686695092224/img/ORVpFF3BYl2IrphX.jpg" width="600" alt="Brutalistischer geometrischer Innenraum-Korridor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10677)**
+
+**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097761965032481176) | **Published:** Sep 9, 2026
+
+---
+### Transformierender Monster-Katzen-Streamer
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter Horror-Anime-Prompt, bei dem sich eine vierbeinige Monsterkatze in ein zweibeiniges Wesen verwandelt und einen Livestream startet.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Video im Anime-Stil einer Horrorszene, in der eine vierbeinige Monsterkatze zunächst auf allen Vieren läuft, dann auf zwei Beinen zu gehen beginnt, sich in einen Gaming-Stuhl an einen Schreibtisch mit einem Desktop-Computer setzt, den Computer einschaltet, Kopfhörer aufsetzt und beginnt, in ein Mikrofon zu streamen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097708848828276737/img/wlO1X5GuuWEVYe7P.jpg" width="600" alt="Transformierender Monster-Katzen-Streamer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10686)**
+
+**Author:** [猫目の人](https://x.com/nekomenohito_JP) | **Source:** [Link](https://x.com/nekomenohito_JP/status/2097708874254197197) | **Published:** Sep 9, 2026
+
+---
+### Filmischer Dialog zwischen Athena und Zeus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein narrativer Video-Prompt, in dem Athena auf den Tempel des Zeus zugeht, um Hilfe für die Sterblichen zu fordern.
+
+#### 📝 Prompt
+
+```
+Athena geht schweigend auf den Tempel ihres Vaters zu. Sie sieht Zeus an, als er sie begrüßt, und antwortet: „Die Sterblichen brauchen unsere Hilfe.“
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097706795951439872/img/hbwALyol54WErHvT.jpg" width="600" alt="Filmischer Dialog zwischen Athena und Zeus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10673)**
+
+**Author:** [vlad moore](https://x.com/vladmoore3) | **Source:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **Published:** Sep 9, 2026
+
+---
+### Realistische Animation von sprechenden Fotos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein fortschrittlicher Prompt zur Animation von zwei Personen auf einem Foto mit spezifischem Lippen-Synchron-Dialog und natürlichen Gesichtsbewegungen.
+
+#### 📝 Prompt
+
+```
+Animieren Sie dieses Foto realistisch. Der Mann (Charlie) spricht zuerst und sagt: „Pam always go Max!“ mit natürlicher Lippensynchronisation und Mundbewegungen. Dann antwortet die Frau (Pam) mit: „you got it Charlie!“ mit natürlicher Lippensynchronisation....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097701925424947200/img/JIVCIIy9cUk8TnC9.jpg" width="600" alt="Realistische Animation von sprechenden Fotos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10684)**
+
+**Author:** [Pamela joye middle](https://x.com/JoyeMiddle28955) | **Source:** [Link](https://x.com/JoyeMiddle28955/status/2097701989278998571) | **Published:** Sep 9, 2026
+
+---
+### Bewegungssequenz für schüchternen Charakter
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter Bewegungs-Prompt für einen Charakter, der winkt, sich dreht, hinfällt und lächelt, mit spezifischen Anforderungen an die Farbgebung des Schwanzes.
+
+#### 📝 Prompt
+
+```
+Schau nacheinander nach links und rechts und winke in jede Richtung. Drehe dich einmal auf der Stelle, verliere dabei das Gleichgewicht und falle auf den Hintern. Zeige zum Schluss ein schüchternes Lächeln. Der Schwanz sollte von der Basis bis zur Hälfte hellbraun und in der vorderen Hälfte dunkelbraun sein.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097693112428875776/img/VMYuzkc2zkYCF-Q4.jpg" width="600" alt="Bewegungssequenz für schüchternen Charakter">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10688)**
+
+**Author:** [Mofuyama works | Art plush & illustrations](https://x.com/no_mofu_no_life) | **Source:** [Link](https://x.com/no_mofu_no_life/status/2097693136382566808) | **Published:** Sep 9, 2026
+
+---
+### Video-Prompt: Cooler Kater mit Brille
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt für grok-imagine, der eine Katze mit Brille bei langsamer Kamerabewegung zeigt.
+
+#### 📝 Prompt
+
+```
+Langsame Kamerabewegung, die Katze bleibt relativ ruhig. Tiere wissen einfach, wie cool sie selbst mit Brille aussehen!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097676269249011712/img/fHbejykVvx-GHy6A.jpg" width="600" alt="Video-Prompt: Cooler Kater mit Brille">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10682)**
+
+**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2097676312357773654) | **Published:** Sep 9, 2026
+
+---
+### Dynamische Parasyte-Szenenanimation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Animieren Sie eine Manga-Szene mit wechselnden Altersstufen und einer sequenziellen Texteinblendung über Videoelementen.
+
+#### 📝 Prompt
+
+```
+Animieren Sie die Parasyte-Szene in ein unterhaltsames, dynamisches Video: Eine riesige Alien-Hand mit Shinichi und Migi greift nach der Erde. Blenden Sie nacheinander großen, leuchtenden chinesischen Text ein: „3秒原则“, dann „三分天下“, dann „333岁成大叔“. Der junge Shinichi altert zu einem 333-jährigen M...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097637549095497728/img/xi0uGrQLYYgOOGAV.jpg" width="600" alt="Dynamische Parasyte-Szenenanimation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10676)**
+
+**Author:** [Chenghuai Wang](https://x.com/ChenghuaiW716i) | **Source:** [Link](https://x.com/ChenghuaiW716i/status/2097637600664433145) | **Published:** Sep 9, 2026
+
+---
+### Eleganter schwarzer Tesla auf der Autobahn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt ein flüssiges Video, das einen futuristischen schwarzen Tesla auf einer sonnendurchfluteten Autobahn mit scharfen Reflexionen verfolgt.
+
+#### 📝 Prompt
+
+```
+Ein eleganter schwarzer Tesla fährt sanft über eine sonnendurchflutete, moderne Autobahn. Die glänzende Oberfläche reflektiert die Umgebung, während das Fahrzeug mit leiser Kraft vorwärts gleitet.
+Die Optik besticht durch einen klaren, futuristischen Automobil-Stil mit scharfen Reflexionen...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097621563709501440/img/mLJvZTc-hXrOj-__.jpg" width="600" alt="Eleganter schwarzer Tesla auf der Autobahn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10674)**
+
+**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097621591815287266) | **Published:** Sep 9, 2026
+
+---
+### Video-Prompt für Martial-Arts-Dojo-Sparring
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Video-Prompt für Grok Imagine, der ein Sparring zwischen zwei blonden Kampfsportlern in einem japanischen Dojo beschreibt.
+
+#### 📝 Prompt
+
+```
+Charaktere: Eine Frau mit langem blondem Haar und ein Mann mit lockigem blondem Haar. Beide tragen weiße Kampfsportanzüge (Gis) und schwarze Gürtel.
+ Aktion: Sie liefern sich ein intensives, schnelles Sparring im Nahkampf, tauschen Schläge und Blocks aus, bevor sie sich voneinander lösen und defensive Kampfstellungen einnehmen.
+ Schauplatz: Ein traditionelles japanisches Dojo mit Holzsäulen, Tatami-Böden und großen Öffnungen, die den Blick auf einen üppig grünen Wald freigeben. Im Hintergrund ist eine hängende Schriftrolle zu sehen.
+ Kinematografie: Schnelle Kameraführung, rasche Schnitte und Bewegungsunschärfe bei schnellen Manövern. Natürliches Licht unterstreicht die Szene.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097596579775651840/img/ZIvdND7fCCnwhZrG.jpg" width="600" alt="Video-Prompt für Martial-Arts-Dojo-Sparring">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10685)**
+
+**Author:** [Melisa♡](https://x.com/xmliisu) | **Source:** [Link](https://x.com/xmliisu/status/2097596867500515494) | **Published:** Sep 9, 2026
+
+---
 ### Fotorealistischer Video-Prompt: Frau im Regenmantel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -226,6 +498,25 @@ Die Optik besticht durch einen klaren, futuristischen und cineastischen Stil in 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10593)**
 
 **Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097580043748639150) | **Published:** Sep 9, 2026
+
+---
+### Marty McFly Michigan Football Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt ein Video, in dem die Figur Marty McFly in eine Zeitmaschine steigt und dabei ein spezielles College-Football-Trikot trägt.
+
+#### 📝 Prompt
+
+```
+Ein Video von Marty McFly, wie er in eine Zeitmaschine steigt und ein Michigan-Football-Trikot trägt
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097573779136487424/img/sImhXvEGftCvcEKb.jpg" width="600" alt="Marty McFly Michigan Football Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10679)**
+
+**Author:** [David Kowalski](https://x.com/DavidKow1963) | **Source:** [Link](https://x.com/DavidKow1963/status/2097573794810376639) | **Published:** Sep 9, 2026
 
 ---
 ### Elegante blonde Frau beim Nickerchen
@@ -359,6 +650,25 @@ Odysseus klammerte sich an die Unterseite des Widders, während Polyphem brüllt
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10610)**
 
 **Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2097440928940109945) | **Published:** Sep 8, 2026
+
+---
+### Roboter fährt aus Ducati-Showroom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, in dem ein eiserner Roboter auf eine Ducati steigt und mit einem bestimmten Spruch aus einem Showroom fährt.
+
+#### 📝 Prompt
+
+```
+Expeng IRON Roboter, steigt auf diese DUcati und fährt durch die Vordertür aus dem Showroom mit dem Spruch: SEE YOU ALL LATER
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097436820548284416/img/i10zK_1kVGx_3xE_.jpg" width="600" alt="Roboter fährt aus Ducati-Showroom">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10683)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **Published:** Sep 8, 2026
 
 ---
 ### Illustration einer biblischen Figur
@@ -1890,325 +2200,6 @@ Erstelle ein fotorealistisches, kinoreifes 15-sekündiges Video auf Basis dieses
 **Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **Published:** Sep 3, 2026
 
 ---
-### 3D-Cinematic-Cartoon-Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für einen 10-sekündigen, cineastischen 3D-Cartoon im vertikalen 9:16-Format.
-
-#### 📝 Prompt
-
-```
-Episode 3
-Vertikales 9:16-Video, 10 Sekunden Dauer. Cineastischer, stilisierter 3D-Cartoon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095337640304459776/img/q90cC4ZcPhb16cmv.jpg" width="600" alt="3D-Cinematic-Cartoon-Video-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10282)**
-
-**Author:** [จูบใครคิดว่าไม่สำคัญ](https://x.com/unclekidtung) | **Source:** [Link](https://x.com/unclekidtung/status/2095337708159906160) | **Published:** Sep 3, 2026
-
----
-### Flugzeugwrack in stürmischer See
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine stimmungsvolle, filmische Aufnahme einer Frau auf einem versunkenen Flugzeugwrack in einer stürmischen Meeresumgebung.
-
-#### 📝 Prompt
-
-```
-Filmische Weitwinkelaufnahme einer jungen Frau mit langem, nassem Haar, die barfuß auf der Tragfläche eines verrosteten, halb versunkenen weißen Flugzeugwracks in einem stürmischen Meer sitzt. Das rote Rücklicht leuchtet noch. Schwere graue Wolken. Wellen schlagen gegen dunkle Felsen und Klippen. Fotorealistisch. Stimmungsvoll. Ultra-detailliert. 8k.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095012974671089664/img/PzQuNhY-VIzwslsz.jpg" width="600" alt="Flugzeugwrack in stürmischer See">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10284)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095308292243308887) | **Published:** Sep 3, 2026
-
----
-### Futuristische Mars-Stadt-Konstruktion durch Optimus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Generierungs-Prompt, der eine futuristische Stadt auf dem Mars visualisiert, die von Teslas Optimus-Robotern gemäß der Vision von Elon Musk erbaut wird.
-
-#### 📝 Prompt
-
-```
-Ein Video des Planeten Mars gemäß der Vision von Elon Musk, das den Bau einer futuristischen Stadt auf dem Mars zeigt, wobei der humanoide Roboter Optimus von Tesla aktiv an den Strukturen der Stadt baut und arbeitet
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095299106017034240/img/qFfksIef5wsl65Fu.jpg" width="600" alt="Futuristische Mars-Stadt-Konstruktion durch Optimus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10287)**
-
-**Author:** [Delestre](https://x.com/stephdel0204) | **Source:** [Link](https://x.com/stephdel0204/status/2095299170634518810) | **Published:** Sep 2, 2026
-
----
-### Junge Kleopatra in der ägyptischen Landschaft
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Visualisiert eine junge Kleopatra, die mit einem Gefühl für ihre zukünftige Bestimmung auf das Land Ägypten blickt.
-
-#### 📝 Prompt
-
-```
-Die junge Kleopatra blickt auf Ägypten und weiß, dass sie es eines Tages regieren wird
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095297599641427968/img/RLicB_jR0nFF0exF.jpg" width="600" alt="Junge Kleopatra in der ägyptischen Landschaft">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10341)**
-
-**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2095297619492851887) | **Published:** Sep 2, 2026
-
----
-### Animation: Gemütliches Lesen im Schlafzimmer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein anspruchsvoller Grok Imagine Video-Prompt, der das Modell anweist, ein Standbild einer Frau, die ein fallendes Buch fängt, zu animieren, mit Fokus auf realistische Bewegungen und reaktive Mimik.
-
-#### 📝 Prompt
-
-```
-Erstelle ein fotorealistisches, gemütliches 15-sekündiges cineastisches Video auf Basis dieses exakten Bildes. Behalte das Gesicht, die Frisur, die Strickjacke, den Schmuck, die Körperproportionen, das Schlafzimmer, das Bett, die Bücher, die Lampe, die Wanddekorationen, die Beleuchtung und die gesamte Komposition der Frau exakt bei.
-
-0–4 Sek.: Sie sitzt bequem auf dem Bett und schaut mit einem sanften, entspannten Ausdruck in die Kamera. Sie blinzelt und atmet natürlich, dann blickt sie zu dem Bücherstapel neben ihr.
-
-4–7 Sek.: Sie greift nach dem Stapel und zieht vorsichtig ein Buch heraus. Während sie das tut, rutscht plötzlich ein anderes Buch aus dem Stapel und fällt Richtung Boden.
-
-7–10 Sek.: Sie reagiert schnell, beugt sich vor und greift nach dem fallenden Buch. Es gelingt ihr, es kurz vor dem Aufprall auf dem Boden zu fangen.
-
-10–12 Sek.: Sie setzt sich wieder auf, hält das Buch fest, betrachtet es mit einem leicht überraschten Ausdruck und lässt dann ein kleines, amüsiertes Lachen hören.
-
-12–15 Sek.: Sie schaut direkt in die Kamera, lächelt verschmitzt und sagt leise: „Das war knapp.“ Sie legt das Buch sicher neben sich ab.
-
-Natürliche menschliche Bewegungen, realistische Reaktionszeiten, glaubwürdige Hand- und Fingerbewegungen, präzise Interaktion mit dem Buch, subtile Haarbewegungen, realistischer Stoff der Strickjacke, natürliche Mimik, gemütliche Schlafzimmeratmosphäre am Nachmittag, weiche cineastische Beleuchtung, geringe Schärfentiefe, sanfter Handkamera-Look. Das fallende Buch muss sich natürlich mit der Schwerkraft bewegen und realistisch aufgefangen werden. Keine übertriebene Schauspielerei, keine plötzlichen Kamerabewegungen, keine zusätzlichen Personen, keine Gesichtsveränderungen, keine Outfitwechsel, keine verzerrten Hände, kein Objekt-Morphing.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095138179166949376/img/lSmg-daTNlRhHUN2.jpg" width="600" alt="Animation: Gemütliches Lesen im Schlafzimmer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10391)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095139680786493912) | **Published:** Sep 2, 2026
-
----
-### Ruhige Mondschein-Gute-Nacht-Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein friedlicher und ruhiger Prompt mit einem hellen Vollmond über sanften Hügeln und einem spiegelnden See.
-
-#### 📝 Prompt
-
-```
-Ich wünsche eine friedliche Nacht.
-
-Eine ruhige und friedliche Gute-Nacht-Szene mit einem großen, hellen Vollmond, der brillant an einem klaren, tiefblauen Nachthimmel leuchtet und sanftes, silbernes Mondlicht über eine stille Landschaft mit sanften Hügeln und einem ruhigen, spiegelnden See wirft, in dem sich der Mond reflektiert.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095033444275302401/img/UFNKh_l3fXPCCLD6.jpg" width="600" alt="Ruhige Mondschein-Gute-Nacht-Szene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10243)**
-
-**Author:** [Mattie](https://x.com/Mattie129218) | **Source:** [Link](https://x.com/Mattie129218/status/2095033462776369428) | **Published:** Sep 2, 2026
-
----
-### Cinematic Samurai-Duell Storyboard-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Multi-Shot-Video-Prompt mit spezifischen Zeitstempeln für ein Samurai-Duell im Regen.
-
-#### 📝 Prompt
-
-```
-[0-4] Langsamer Zoom auf ihren Hinterkopf, die Duellantin im zerrissenen Haori hält eine gebogene Klinge tief an ihrer rechten Seite, mittig im Bild, den Rücken zur sturmgepeitschten Stadt, Regen prasselt von den Tonziegeln auf ihre Stiefel, Blitze zucken am Himmel [4-6] Harter Schnitt, extreme Nahaufnahme der Klingenspitze, sie schnippt das Blut in einem scharfen Bogen nach oben, das Wasser zerstäubt vom Stahl
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094956675954343937/img/GgcEi1HADBf_xY2F.jpg" width="600" alt="Cinematic Samurai-Duell Storyboard-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10247)**
-
-**Author:** [🤍Hafuma🩵](https://x.com/hafuma) | **Source:** [Link](https://x.com/hafuma/status/2094956857605468426) | **Published:** Sep 2, 2026
-
----
-### Prompt: Ältere Frau am Bahnsteig
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer und melancholischer Prompt für ein malerisches Video einer älteren Frau an einem verlassenen Bahnhof.
-
-#### 📝 Prompt
-
-```
-Cineastisches, malerisches Video einer älteren Frau mit langem, vom Wind zerzaustem weißem Haar, die in der Dämmerung auf einem verlassenen Bahnsteig sitzt. Sie hält ein kleines, leuchtendes Vintage-Radio in beiden Händen. Hinter ihr eine rostige, ausrangierte Dampflokomotive. Nasse, leere Gleise, die im Nebel verschwinden. Abgetragener Mantel. Goldener, bewölkter Himmel. Melancholisch. Ultra-detailliert. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094600075960070144/img/kkpwtqGRgCRMoeX7.jpg" width="600" alt="Prompt: Ältere Frau am Bahnsteig">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10248)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094885505456578626) | **Published:** Sep 1, 2026
-
----
-### Nachtspaziergang durch ein biolumineszentes Gewächshaus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt von einem Mann, der nachts durch ein verwildertes Gewächshaus voller leuchtender Pflanzen geht.
-
-#### 📝 Prompt
-
-```
-Filmische Videoaufnahme eines jungen Mannes mit lockigem, dunklem Haar, der nachts langsam durch ein riesiges, verwildertes Gewächshaus geht. Grünes Hemd. Nasser Steinpfad. Biolumineszente Pflanzen leuchten an beiden Seiten. Regen tropft vom Glasdach. Vollmond durch den Metallrahmen. Er hält inne und blickt mit stillem Staunen nach oben. Neblig. Fotorealistisch. Ultra-detailliert. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094599866626535424/img/P6E6vtztB9o2dqMj.jpg" width="600" alt="Nachtspaziergang durch ein biolumineszentes Gewächshaus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10244)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2094825107705176343) | **Published:** Sep 1, 2026
-
----
-### Starship-Raketen starten hinter einem Berg
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt, der eine Person beschreibt, die vorwärts geht, während im Hintergrund hinter einer Bergkette Starship-Raketen abheben.
-
-#### 📝 Prompt
-
-```
-Während er vorwärts geht, stelle dir zwei Starship-Raketen vor, die in der Ferne hinter dem Berg abheben
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094789718005219328/img/Hh6EvP8KRKNOkVgi.jpg" width="600" alt="Starship-Raketen starten hinter einem Berg">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10246)**
-
-**Author:** [Ben Nash](https://x.com/bennash) | **Source:** [Link](https://x.com/bennash/status/2094789762045345824) | **Published:** Sep 1, 2026
-
----
-### Erkundung des riesigen Wüstenhelms
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Prompt, der einen kolossalen, halb im Wüstensand vergrabenen Helm beschreibt, in dessen Innerem eine Person auf Erkundungstour ist.
-
-#### 📝 Prompt
-
-```
-Ein hügelgroßer Helm, der halb in der Wüste versunken ist, und eine Person, die im offenen Visier steht und in das Innere auf die Maschinerie blickt.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2094649705397415936/pu/img/8S8DFWA2Byd31neq.jpg" width="600" alt="Erkundung des riesigen Wüstenhelms">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10191)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2094649723860697356) | **Published:** Sep 1, 2026
-
----
-### Epischer Kampf zwischen Cleopatra und Azael
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt, in dem Cleopatra gegen Azael kämpft und ihre Präsenz verkündet.
-
-#### 📝 Prompt
-
-```
-Cleopatra, die Königin von Ägypten, lebendig und präsent, ruft „Ich bin es, Azael, ich lebe“, während sie gegen Azael kämpft.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094649638238183424/img/V5M5aKB5QtYLnZ0a.jpg" width="600" alt="Epischer Kampf zwischen Cleopatra und Azael">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10195)**
-
-**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2094649662879772793) | **Published:** Sep 1, 2026
-
----
-### Animation sprechender Charaktere
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der darauf ausgelegt ist, einen Charakter mit einem spezifischen Dialog und einer niedlichen Stimmlage zu animieren.
-
-#### 📝 Prompt
-
-```
-Animieren Sie dieses Bild so, dass es mit niedlicher Stimme sagt: „I don’t know which station is Gilmore and which one is Holdom“
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094633812957511680/img/PRBQeuURbuPuz9Dw.jpg" width="600" alt="Animation sprechender Charaktere">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10190)**
-
-**Author:** [Gino Flen](https://x.com/GinoFlen) | **Source:** [Link](https://x.com/GinoFlen/status/2094633824747721195) | **Published:** Sep 1, 2026
-
----
-### Snoop Dogg Drachen-Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Animations-Prompt, der Snoop Dogg in einen Cartoon-Drachen mit seiner charakteristischen Zigarette verwandelt.
-
-#### 📝 Prompt
-
-```
-Erstelle ein Video, in dem sich Snoop Dogg in einen Cartoon-Drachen verwandelt, der eine Zigarette im Mundwinkel hängen hat
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094628833395691520/img/Qo3rVOgH2zbosWXp.jpg" width="600" alt="Snoop Dogg Drachen-Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10193)**
-
-**Author:** [THUNDERCAZ🫣🫶⚡️](https://x.com/CazzThunder) | **Source:** [Link](https://x.com/CazzThunder/status/2094628853540868104) | **Published:** Sep 1, 2026
-
----
-### Lächelnde Frau im Straßencafé
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, filmischer Prompt für eine realistische Alltagsszene einer Frau, die bei natürlichem Licht in einem Straßencafé entspannt
-
-#### 📝 Prompt
-
-```
-In einem realistischen, ungezwungenen Stil entspannt eine lächelnde Frau in einem Straßencafé, die Hände hinter dem Kopf verschränkt. Sie hat kurzes braunes Haar, eine dunkle Sonnenbrille, ein schwarzes ärmelloses Oberteil, eine kleine goldene Anhängerkette und Armbänder am Handgelenk, mit einem freudigen Ausdruck
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094612892670726144/img/9Di611jujQcOMjtO.jpg" width="600" alt="Lächelnde Frau im Straßencafé">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10185)**
-
-**Author:** [nicole bruntet](https://x.com/nicolebruntet) | **Source:** [Link](https://x.com/nicolebruntet/status/2094612960568054130) | **Published:** Sep 1, 2026
-
----
-### Summen in der Gefängniszelle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine detaillierte filmische Szene einer Frau, die in einer Gefängniszelle summt, eingefangen mit Handkamera und Fokus auf Mikroexpressionen.
-
-#### 📝 Prompt
-
-```
-Sie summt leise ein Lied vor sich hin, um die Traurigkeit in der Gefängniszelle zu vertreiben. Sie hat die Hoffnung nicht aufgegeben, auch wenn sie am Boden zerstört ist. Die Handkameraführung und ihre Mikroexpressionen erzählen die Geschichte einer Depression, die durch den festen Glauben überwunden wird. Kein Dialog. Keine Musik, außer dem Klang ihres Summens.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094595558363029504/img/Nvvb-lTqxgxTB3cc.jpg" width="600" alt="Summen in der Gefängniszelle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10199)**
-
-**Author:** [Rob Allan](https://x.com/allan_robII) | **Source:** [Link](https://x.com/allan_robII/status/2094595693126074484) | **Published:** Sep 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2270,6 +2261,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-10T04:20:59.710Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-10T13:07:24.214Z</sub>
 
 </div>
