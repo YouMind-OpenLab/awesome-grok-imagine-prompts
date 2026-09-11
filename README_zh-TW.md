@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2789** |
+| 📝 提示詞總數 | **2795** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-11** |
 
@@ -189,6 +189,101 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 克林姆風格的科幻騎士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個高度細緻的影片提示詞，結合了古斯塔夫·克林姆（Gustav Klimt）的藝術風格與裝甲騎士、太空宮殿等未來科幻元素。
+
+#### 📝 提示詞
+
+```
+無需多言……夢幻般的油畫風格，以克林姆的筆觸描繪一位科幻裝甲騎士，他迷人、英俊、充滿未來感且氣質純淨，懷抱著一位可愛的女性，背景包含太空船、太空宮殿、瀑布、光影，且沒有多餘的手臂……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098280958990684160/img/Iunubct5b1JoM7nk.jpg" width="600" alt="克林姆風格的科幻騎士">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10743)**
+
+**作者:** [Carina](https://x.com/Freehere8) | **來源:** [Link](https://x.com/Freehere8/status/2098281502828290435) | **發布時間:** Sep 11, 2026
+
+---
+### 博爾蓋塞美術館裡的法國女子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個電影感十足的影片提示詞，描繪了一位身材高挑的法國女子在美術館中，整體風格呈現出柔和的秋季美學。
+
+#### 📝 提示詞
+
+```
+一位年輕且身材高挑的法國女性，身處博爾蓋塞美術館（Galleria Borghese）內，穿著柔和色調的秋季服裝。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097730338063867904/img/SmNwegNFPyTKV9X-.jpg" width="600" alt="博爾蓋塞美術館裡的法國女子">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10740)**
+
+**作者:** [Jourdan Fernandez](https://x.com/VisualTreats) | **來源:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **發布時間:** Sep 11, 2026
+
+---
+### 中式傳統舞蹈編舞
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一份詳細的影片提示詞，描述一名 20 歲東亞女性身穿飄逸的粉金色長裙表演傳統舞蹈，包含具體的編舞動作與細節。
+
+#### 📝 提示詞
+
+```
+20 歲東亞女性，保持外觀與舞蹈動作一致。身穿粉白金漸層的高級古風齊胸寬袖飄逸長裙，裙身覆蓋金線刺繡花紋，搭配輕薄透明的金邊紗帶。布料隨風自然動態飄動，裙擺垂墜感強，並裝飾有精緻珍珠飾品。穿著精緻的古風刺繡軟底鞋，整體華麗且溫婉。內搭襯褲以確保高抬腿動作時不走光。隨風優雅起舞；輕盈靈動；黑色長髮梳成古風髮髻，配有相襯的精緻髮飾。初始姿勢：左腿站立，右腿向前彎曲，身體向前傾靠在右腿上，雙眼低垂；右手舉至頭部右上方，左手向後上方伸展。1. 身體緩緩站直，微微後仰，右腿同時向上伸直抬起，雙手置於太陽穴，肩膀輕微抖動，頭部做完整旋轉；2. 左手從上至下繞頭，右手從下至上繞胸；3. 身體向左轉，低頭，手指交叉遮臉，雙手緩緩分開；4. 右手向上揮動，左手向下伸展，右腿畫圓弧掃動以旋轉身體；5. 右腿落地，左腿向內勾起，身體向後傾斜 90 度並流暢旋轉，閉眼微笑，手掌於下巴處輕微抖動；6. 定格畫面，雙手在上半身周圍畫出圓弧；7. 大拇指與食指相觸，從胸前舉至頭頂；8. 身體向右轉，左手畫弧至下巴，右手指尖掃過眉毛後伸向右上方，手腕向外按壓並輕搖兩下金飾。氛圍：重金屬鼓點音樂，節奏明快；體積感柔光，細膩皮膚紋理，自然的頭髮與布料運動，流暢的動態效果。負面提示詞：模糊、低解析度、肢體變形、動作延遲、浮水印。生成 15 秒連貫影片。9:16 比例。
+```
+
+<img src="https://cms-assets.youmind.com/media/1789112669710_10a9cd_HR5gsMZbwAAWt4k.png" width="600" alt="中式傳統舞蹈編舞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10745)**
+
+**作者:** [George Qiao](https://x.com/QiaoGeorge) | **來源:** [Link](https://x.com/QiaoGeorge/status/2098223994134794350) | **發布時間:** Sep 11, 2026
+
+---
+### 臥室動畫短循環
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個 6 秒影片循環的簡潔提示詞，內容為角色在燭光房間中的場景。
+
+#### 📝 提示詞
+
+```
+6 秒影片。以 Mía Gabriel 的臥室為基準，保持完全一致。9:16 比例，燭光效果。僅進行動畫處理。保持面部特徵一致。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098149376677810191/img/n3LdIimrezq2cBqz.jpg" width="600" alt="臥室動畫短循環">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10744)**
+
+**作者:** [Gabriel](https://x.com/riquitoboy47) | **來源:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **發布時間:** Sep 10, 2026
+
+---
+### 熔金垂柳動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個動畫提示詞，描述熔化的金滴匯聚並生長成一棵掛滿黑珍珠的垂柳，背景為炭灰色。
+
+#### 📝 提示詞
+
+```
+五滴熔金落在地上。它們緩慢地匯聚並向上生長，形成一棵垂柳的形狀，枝條上掛滿了閃閃發光的黑珍珠，背景為質感豐富的炭灰色。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="熔金垂柳動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10742)**
+
+**作者:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **來源:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **發布時間:** Sep 10, 2026
+
+---
 ### 動漫跨界分鏡場景
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -205,7 +300,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10687)**
 
-**作者:** [思考小朋友的未來](https://x.com/Gopphybjwo) | **來源:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **發布時間:** Sep 10, 2026
+**作者:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **來源:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **發布時間:** Sep 10, 2026
 
 ---
 ### 動漫風格 HIIT 橢圓機健身動畫
@@ -244,6 +339,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10678)**
 
 **作者:** [BMX](https://x.com/bmx_ai13) | **來源:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **發布時間:** Sep 10, 2026
+
+---
+### 高中教學任務指派
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片提示，描述了一位加州高中校長將教學任務指派給家長與大學四年級學生的場景。
+
+#### 📝 提示詞
+
+```
+加州高中校長將為期兩週的教學任務指派給家長，並與大學四年級學生共同協作
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="高中教學任務指派">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10741)**
+
+**作者:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **來源:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **發布時間:** Sep 10, 2026
 
 ---
 ### 蒜香麵包烹飪教學影片
@@ -378,7 +492,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10688)**
 
-**作者:** [Mofuyama works | Art plush & illustrations](https://x.com/no_mofu_no_life) | **來源:** [Link](https://x.com/no_mofu_no_life/status/2097693136382566808) | **發布時間:** Sep 9, 2026
+**作者:** [Sahil Verma](https://x.com/sahilvermaai) | **來源:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **發布時間:** Sep 9, 2026
 
 ---
 ### 戴眼鏡的酷貓影片提示詞
@@ -2086,120 +2200,6 @@ Alice @Reference3 和 Dani @Reference2 正在流理台上切菜，並開始準�
 **作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **發布時間:** Sep 3, 2026
 
 ---
-### 抽象光子轉換影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個概念性影片提示詞，描繪光子將恐懼與痛苦等負面情緒轉化為愛與幸福的過程。
-
-#### 📝 提示詞
-
-```
-製作一段影片，呈現美麗的彩色光子將恐懼轉化為愛，將邪惡轉化為良善，並將痛苦轉化為幸福
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="抽象光子轉換影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10338)**
-
-**作者:** [Joane](https://x.com/thejoaneunit) | **來源:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **發布時間:** Sep 3, 2026
-
----
-### Pleiadian Mothership Ultra HD
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於生成碟形母艦的高解析度科幻提示詞，具備體積光效果。
-
-#### 📝 提示詞
-
-```
-Pleiadians in lightships and motherships of saucer shape, masterpiece, ultra HD quality resolution 11111111111111111199999999999999 k resolution, volumetric bright lighting colors tones and shading
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="Pleiadian Mothership Ultra HD">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10336)**
-
-**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **來源:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **發布時間:** Sep 3, 2026
-
----
-### 古董玫瑰花園採集
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段寧靜的影片提示詞，描繪了在玫瑰花園小徑中漫步，並採集一束古董玫瑰的畫面。
-
-#### 📝 提示詞
-
-```
-沿著蜿蜒的花園小徑悄然漫步，採集最優雅的古董玫瑰——一朵點綴你的衣襟，一朵陪伴你的靜謐沉思，再捧上一束豐盈的花束，只因你的一天值得更多優雅的點綴。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095427392282271744/img/lJLVCUpMCoZD08b0.jpg" width="600" alt="古董玫瑰花園採集">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10540)**
-
-**作者:** [Scarlett](https://x.com/scarlettzen1) | **來源:** [Link](https://x.com/scarlettzen1/status/2095427461093666845) | **發布時間:** Sep 3, 2026
-
----
-### 動畫版喵喵叫虎斑貓
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個關於虎斑貓身處蛋殼中的詳細影片動畫提示詞，包含逼真的喵喵叫動作、頭部擺動以及在陽光下漂浮的塵埃微粒。
-
-#### 📝 提示詞
-
-```
-讓身處蛋殼中的虎斑貓動起來：貓咪的嘴巴做出喵喵叫或哈氣的動作，頭部輕微擺動，尾巴抽動，強烈的陽光下有塵埃微粒漂浮，呈現逼真生動的動作。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="動畫版喵喵叫虎斑貓">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10285)**
-
-**作者:** [Jordan Ardani](https://x.com/JordanArdady) | **來源:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **發布時間:** Sep 3, 2026
-
----
-### 陽光玫瑰花園的寧靜
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個富有詩意的影片提示詞，捕捉了一位女性在玫瑰花叢中深呼吸，周圍花瓣飄落、光影溫暖的寧靜時刻。
-
-#### 📝 提示詞
-
-```
-在陽光灑落的玫瑰花園中，時光靜止。她停下腳步，輕嗅花香，隨即展露笑顏。柔和的光線、飄落的花瓣，以及那如畫般的氛圍。在一次呼吸之間，感受內心的平靜。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="陽光玫瑰花園的寧靜">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10286)**
-
-**作者:** [Ashutosh](https://x.com/Bhart0678) | **來源:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **發布時間:** Sep 3, 2026
-
----
-### 雨林神秘之光
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高度細緻的電影級影片提示詞，用於製作一段 15 秒的短片，內容為一名女子在雨林中發現一抹閃爍的暖光。
-
-#### 📝 提示詞
-
-```
-請根據這張圖片製作一段 15 秒的寫實電影級影片。請保留女子原本的面容、髮型、濕髮狀態、黑色雨衣、灰色圍巾、身體比例、森林環境、降雨效果、光影以及構圖。0–4 秒：她靜靜地站在大雨中，閉著眼睛，臉部微微向上傾斜，平靜地享受著雨水。水珠自然地流過她濕透的頭髮，順著光亮的雨衣滑落。圍巾在冷風中輕輕擺動。4–7 秒：她身後深處的樹林間突然出現了一抹微弱的暖光。起初光線極不明顯，就像遠處的燈籠在雨霧中閃爍。她緩緩睜開雙眼。7–10 秒：她察覺到了這道異常的光芒。她的表情從平靜轉為好奇。她慢慢轉頭看向光芒處，凝視著樹林間，周圍雨勢持續。10–13 秒：暖光變得稍微明亮了一些，在霧氣中輕柔地閃爍。她謹慎地向前邁了一步，雙眼緊盯著那神秘的光芒。鏡頭隨她細微移動。13–15 秒：就在她邁出下一步時，光芒突然消失。她停下腳步，凝視著樹林間的黑暗，神情顯得困惑。除了雨聲外，現場陷入一片寂靜。畫面轉黑。寫實電影質感、氛圍感雨林、逼真的雨水與霧氣、濕髮與濕衣、自然的風動效果、細膩的表情演技、真實的行走動作、深邃的森林透視感、冷色調藍灰色環境與遠處暖琥珀色光芒形成對比、淺景深、細微的手持攝影機晃動感。光芒必須保持在遠處並被樹木部分遮擋；切勿揭露光源。禁止出現超自然生物、其他人、恐怖怪物、跳躍式驚嚇、誇張反應、場景切換、面部變形、服裝改變、手部扭曲或任何變形效果。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="雨林神秘之光">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10283)**
-
-**作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **來源:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **發布時間:** Sep 3, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2261,6 +2261,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-11T04:20:24.422Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-11T12:58:58.046Z</sub>
 
 </div>

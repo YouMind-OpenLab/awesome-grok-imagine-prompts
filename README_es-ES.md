@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2789** |
+| 📝 Total Prompts | **2795** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-11** |
 
@@ -189,6 +189,101 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Caballero de ciencia ficción al estilo de Klimt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video altamente detallado que combina el estilo artístico de Gustav Klimt con elementos futuristas de ciencia ficción, como caballeros con armadura y palacios espaciales.
+
+#### 📝 Prompt
+
+```
+Sin hablar... Pintura al óleo de ensueño al estilo de Klimt de un caballero de ciencia ficción con armadura, encantador, apuesto, futurista y bondadoso sosteniendo a una mujer adorable, naves espaciales, palacios espaciales, cascadas, luz, sin brazos adicionales...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098280958990684160/img/Iunubct5b1JoM7nk.jpg" width="600" alt="Caballero de ciencia ficción al estilo de Klimt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10743)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2098281502828290435) | **Published:** Sep 11, 2026
+
+---
+### Mujer francesa en la Galería Borghese
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico que muestra a una mujer francesa escultural en una galería de arte, con una estética otoñal tenue.
+
+#### 📝 Prompt
+
+```
+Una joven francesa de figura escultural en la Galería Borghese, vestida con un atuendo otoñal de tonos tenues.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097730338063867904/img/SmNwegNFPyTKV9X-.jpg" width="600" alt="Mujer francesa en la Galería Borghese">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10740)**
+
+**Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **Published:** Sep 11, 2026
+
+---
+### Coreografía de danza tradicional china
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt de video detallado para una mujer de Asia Oriental de 20 años realizando una danza tradicional con un vestido fluido rosa y dorado, incluyendo pasos de coreografía específicos y detalles de movimiento.
+
+#### 📝 Prompt
+
+```
+Mujer de Asia Oriental de 20 años, manteniendo la misma apariencia y movimientos de baile. Viste un vestido fluido de estilo antiguo de alta gama con degradado rosa-blanco-dorado, de talle alto y mangas anchas; la falda está cubierta con patrones florales bordados en hilo de oro, con cintas de gasa finas y transparentes con bordes dorados. La tela fluye de forma natural y dinámica con el viento, la falda tiene una gran caída y está decorada con finos adornos de perlas. Exquisitos zapatos de suela blanda bordados de estilo antiguo; el conjunto es espléndido y delicado. Incluye pantalones interiores para garantizar la modestia durante los movimientos de piernas altas. Bailando con gracia al compás del viento; ligera y ágil; cabello largo y negro en un moño de estilo antiguo con exquisitos adornos a juego. Postura inicial: de pie sobre la pierna izquierda, pierna derecha doblada hacia adelante, cuerpo inclinado hacia adelante apoyado en la pierna derecha, mirada baja; mano derecha elevada hacia la parte superior derecha de la cabeza, mano izquierda estirada hacia atrás y hacia arriba. 1. El cuerpo se endereza lentamente, se inclina ligeramente hacia atrás, la pierna derecha se eleva simultáneamente estirada, manos en las sienes, hombros sacudiéndose suavemente, cabeza realizando una rotación completa; 2. La mano izquierda rodea la cabeza de arriba a abajo, la mano derecha rodea el pecho de abajo a arriba; 3. El cuerpo gira a la izquierda, mirando hacia abajo, dedos cruzados sobre el rostro, manos separándose lentamente; 4. La mano derecha se balancea hacia arriba, la mano izquierda se estira hacia abajo, la pierna derecha realiza un barrido circular para rotar el cuerpo; 5. La pierna derecha aterriza, la pierna izquierda se engancha hacia adentro, el cuerpo se inclina hacia atrás 90 grados mientras rota suavemente, ojos cerrados con una sonrisa, palmas en la barbilla sacudiéndose ligeramente; 6. Fotograma congelado con las manos dibujando un arco circular alrededor de la parte superior del cuerpo; 7. Pulgares e índices tocándose, elevados desde el pecho hasta por encima de la cabeza; 8. El cuerpo gira a la derecha, la mano izquierda hace un arco hacia la barbilla, las yemas de los dedos derechos barren la ceja y luego se extienden hacia la parte superior derecha, muñeca presionada hacia afuera con dos sacudidas de los adornos dorados. Atmósfera: música de tambores de heavy metal, ritmo brillante; luz suave volumétrica, textura de piel delicada, movimiento natural del cabello y la tela, dinámica fluida. Negativo: borroso, baja resolución, extremidades deformadas, retraso en el movimiento, marca de agua. Generar un video coherente de 15 segundos. Relación de aspecto 9:16.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789112669710_10a9cd_HR5gsMZbwAAWt4k.png" width="600" alt="Coreografía de danza tradicional china">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10745)**
+
+**Author:** [George Qiao](https://x.com/QiaoGeorge) | **Source:** [Link](https://x.com/QiaoGeorge/status/2098223994134794350) | **Published:** Sep 11, 2026
+
+---
+### Bucle de animación corto de dormitorio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt conciso para un bucle de video de 6 segundos con personajes en una habitación iluminada por velas.
+
+#### 📝 Prompt
+
+```
+Video de 6 segundos. Exactamente el mismo dormitorio de Mía Gabriel como BASE. 9:16 luz de vela. SOLO animar. Mismos rostros.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098149376677810191/img/n3LdIimrezq2cBqz.jpg" width="600" alt="Bucle de animación corto de dormitorio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10744)**
+
+**Author:** [Gabriel](https://x.com/riquitoboy47) | **Source:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **Published:** Sep 10, 2026
+
+---
+### Animación de sauce llorón de oro fundido
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt animado donde gotas de oro fundido se fusionan y crecen hasta formar un sauce llorón con perlas negras sobre un fondo gris carbón.
+
+#### 📝 Prompt
+
+```
+Cinco gotas de oro fundido yacen en el suelo. Lentamente se fusionan y crecen hacia arriba formando un sauce llorón, con sus ramas cargadas de brillantes perlas negras, sobre un fondo de color gris carbón texturizado
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="Animación de sauce llorón de oro fundido">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10742)**
+
+**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **Published:** Sep 10, 2026
+
+---
 ### Escena de storyboard de crossover de anime
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -205,7 +300,7 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10687)**
 
-**Author:** [思考小朋友的未來](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
+**Author:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
 
 ---
 ### Animación de entrenamiento HIIT en elíptica estilo anime
@@ -244,6 +339,25 @@ Una chica solitaria sentada en el tejado de una pequeña casa de campo por la no
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10678)**
 
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **Published:** Sep 10, 2026
+
+---
+### Asignación de enseñanza en escuela secundaria
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video que representa a un director asignando tareas de enseñanza a padres y estudiantes universitarios de último año en el entorno de una escuela secundaria de California.
+
+#### 📝 Prompt
+
+```
+Director de una escuela secundaria de California asignando a los padres sus tareas de enseñanza de dos semanas junto a estudiantes universitarios de último año
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="Asignación de enseñanza en escuela secundaria">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10741)**
+
+**Author:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **Source:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **Published:** Sep 10, 2026
 
 ---
 ### Video tutorial para preparar pan de ajo
@@ -378,7 +492,7 @@ Mira a la izquierda y a la derecha en orden y saluda en cada dirección. Gira un
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10688)**
 
-**Author:** [Mofuyama works | Art plush & illustrations](https://x.com/no_mofu_no_life) | **Source:** [Link](https://x.com/no_mofu_no_life/status/2097693136382566808) | **Published:** Sep 9, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **Published:** Sep 9, 2026
 
 ---
 ### Prompt de video: Gato genial con gafas
@@ -2086,120 +2200,6 @@ Primer plano cinematográfico de una minera cubierta de carbón en un túnel min
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
 
 ---
-### Video de transformación abstracta de fotones
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video conceptual que representa fotones de luz transformando emociones negativas como el miedo y el sufrimiento en amor y felicidad.
-
-#### 📝 Prompt
-
-```
-Crea un video donde hermosos fotones de colores transformen el miedo en amor, la maldad en bondad y el sufrimiento en felicidad
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="Video de transformación abstracta de fotones">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10338)**
-
-**Author:** [Joane](https://x.com/thejoaneunit) | **Source:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **Published:** Sep 3, 2026
-
----
-### Nave nodriza pleyadiana Ultra HD
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de ciencia ficción de alta resolución para generar naves nodrizas con forma de platillo e iluminación volumétrica.
-
-#### 📝 Prompt
-
-```
-Pleyadianos en naves de luz y naves nodrizas con forma de platillo, obra maestra, resolución de calidad ultra HD 11111111111111111199999999999999 k, tonos de colores de iluminación brillante volumétrica y sombreado
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="Nave nodriza pleyadiana Ultra HD">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10336)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **Published:** Sep 3, 2026
-
----
-### Cosecha en el jardín de rosas antiguas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video prompt tranquilo que ilustra un paseo silencioso por los senderos de un jardín de rosas para recoger un ramo de rosas antiguas.
-
-#### 📝 Prompt
-
-```
-Deslícese en silencio por los sinuosos senderos del jardín para cosechar las mejores rosas antiguas: una para adornar su solapa, otra para su tranquila ensoñación y un generoso ramo simplemente porque su día requiere una dosis extra de elegancia.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095427392282271744/img/lJLVCUpMCoZD08b0.jpg" width="600" alt="Cosecha en el jardín de rosas antiguas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10540)**
-
-**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2095427461093666845) | **Published:** Sep 3, 2026
-
----
-### Gato atigrado maullando animado
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de animación de video detallado para un gato atigrado entre cáscaras de huevo, que presenta movimientos realistas de maullido, balanceo de cabeza y partículas de polvo flotando bajo la luz del sol.
-
-#### 📝 Prompt
-
-```
-Anima al gato atigrado maullando entre cáscaras de huevo: la boca del gato se mueve como si estuviera maullando o siseando, con la cabeza balanceándose ligeramente, la cola moviéndose, partículas de polvo flotando bajo una luz solar intensa, movimiento realista y vívido.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="Gato atigrado maullando animado">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10285)**
-
-**Author:** [Jordan Ardani](https://x.com/JordanArdady) | **Source:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **Published:** Sep 3, 2026
-
----
-### Paz en un jardín de rosas iluminado por el sol
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video poético que captura un momento de tranquilidad de una mujer inhalando el aroma de una rosa en flor entre pétalos que caen y una luz cálida.
-
-#### 📝 Prompt
-
-```
-Un momento de calma en un jardín de rosas bañado por el sol; ella hace una pausa, respira el aroma de la flor y sonríe. Luz suave, pétalos que caen y ese resplandor pictórico. La paz en una sola respiración.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="Paz en un jardín de rosas iluminado por el sol">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10286)**
-
-**Author:** [Ashutosh](https://x.com/Bhart0678) | **Source:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **Published:** Sep 3, 2026
-
----
-### Luz misteriosa en el bosque lluvioso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico altamente detallado para una secuencia de 15 segundos de una mujer en un bosque lluvioso descubriendo una luz cálida parpadeante.
-
-#### 📝 Prompt
-
-```
-Crea un video cinematográfico fotorrealista de 15 segundos a partir de esta imagen exacta. Conserva el rostro, el peinado, el cabello mojado, el impermeable negro, la bufanda gris, las proporciones corporales, el entorno del bosque, la lluvia, la iluminación y la composición de la mujer. 0–4 seg: Ella permanece completamente inmóvil bajo la lluvia intensa, con los ojos cerrados y el rostro ligeramente inclinado hacia arriba, disfrutando pacíficamente de la lluvia. El agua corre de forma natural por su cabello mojado y por su impermeable brillante. Su bufanda se mueve suavemente con la brisa fría. 4–7 seg: Una luz tenue y cálida aparece repentinamente en lo profundo de los árboles detrás de ella. Al principio apenas se nota, como una linterna distante brillando a través de la lluvia y la niebla. Ella abre los ojos lentamente. 7–10 seg: Ella nota la luz inusual. Su expresión cambia de pacífica a curiosa. Gira lentamente la cabeza hacia ella, mirando entre los árboles mientras la lluvia sigue cayendo a su alrededor. 10–13 seg: La luz cálida se vuelve un poco más brillante y parpadea suavemente a través de la niebla. Ella da un paso cauteloso hacia ella, con los ojos fijos en el resplandor misterioso. La cámara se mueve sutilmente con ella. 13–15 seg: Justo cuando da otro paso, la luz desaparece repentinamente. Ella se detiene y mira hacia la oscuridad entre los árboles, visiblemente confundida. Un momento de silencio, excepto por la lluvia. Corte a negro. Realismo cinematográfico fotorrealista, bosque lluvioso atmosférico, lluvia y niebla realistas, cabello y ropa mojados, movimiento natural del viento, actuación facial sutil, movimiento al caminar creíble, perspectiva de bosque profundo, entorno azul grisáceo frío contrastado con una luz ámbar cálida distante, profundidad de campo reducida, movimiento de cámara en mano sutil. La luz debe permanecer distante y parcialmente oculta por los árboles; nunca reveles su fuente. Sin criaturas sobrenaturales, sin personas, sin monstruos de terror, sin sustos repentinos, sin reacciones exageradas, sin transiciones de escena, sin cambios de rostro, sin cambios de vestuario, sin manos distorsionadas, sin transformaciones.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="Luz misteriosa en el bosque lluvioso">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10283)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **Published:** Sep 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2261,6 +2261,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-11T04:20:29.826Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-11T12:59:06.242Z</sub>
 
 </div>

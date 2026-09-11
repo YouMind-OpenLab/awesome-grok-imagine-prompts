@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2789** |
+| 📝 プロンプト総数 | **2795** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-11** |
 
@@ -189,6 +189,101 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### クリムト風の SF ナイト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> グスタフ・クリムトの芸術スタイルと、装甲騎士や宇宙宮殿といった未来的な SF 要素を融合させた、非常に詳細な動画用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+No talk… クリムト風の夢幻的な油絵。SF 装甲を纏った、魅力的でハンサムな未来の騎士が愛らしい女性を抱いている。宇宙船、宇宙宮殿、滝、光、余分な腕はなし…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098280958990684160/img/Iunubct5b1JoM7nk.jpg" width="600" alt="クリムト風の SF ナイト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10743)**
+
+**作者:** [Carina](https://x.com/Freehere8) | **ソース:** [Link](https://x.com/Freehere8/status/2098281502828290435) | **公開日:** Sep 11, 2026
+
+---
+### ボルゲーゼ美術館のフランス人女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ボルゲーゼ美術館を舞台に、彫像のように美しいフランス人女性を捉えたシネマティックなビデオプロンプト。落ち着いた秋の雰囲気を演出しています。
+
+#### 📝 プロンプト
+
+```
+ボルゲーゼ美術館のギャラリーに佇む、彫像のように美しい若きフランス人女性。落ち着いた色合いの秋の装いを身にまとっている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097730338063867904/img/SmNwegNFPyTKV9X-.jpg" width="600" alt="ボルゲーゼ美術館のフランス人女性">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10740)**
+
+**作者:** [Jourdan Fernandez](https://x.com/VisualTreats) | **ソース:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **公開日:** Sep 11, 2026
+
+---
+### 中国伝統舞踊の振付
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> ピンクとゴールドの流れるようなドレスを纏い、伝統舞踊を披露する 20 歳の東アジア人女性のための詳細なビデオプロンプト。具体的な振付のステップや動作の詳細を含みます。
+
+#### 📝 プロンプト
+
+```
+20 歳の東アジア人女性、外見とダンスの動きを一定に保つ。ピンク、白、ゴールドのグラデーションが美しい高級な古風の胸高・広袖の流れるようなドレスを着用。スカートには金糸で花の刺繍が施され、薄く透明な金縁のガーゼリボンがあしらわれている。生地は風になびいて自然かつダイナミックに動き、スカートは強いドレープ感があり、繊細なパールの装飾が施されている。精巧な古風の刺繍入りソフトソールシューズを履き、全体的に華やかで優雅な印象。足が高く上がる動作でも安心なようにインナーパンツを着用。風に乗って優雅に舞い、軽やかで俊敏。黒いロングヘアを古風な結い髪にし、お揃いの精巧な髪飾りをつけている。初期姿勢：左足で立ち、右足を前方に曲げ、右足に体重をかけて前傾し、伏し目がち。右手は頭の右上に上げ、左手は後ろ斜め上に伸ばす。1. 体をゆっくりと直立させ、わずかに後ろに反り、同時に右足を真っ直ぐに上げ、両手をこめかみに当て、肩を優しく揺らし、頭を一周回す。2. 左手で頭の上から下へ円を描き、右手で胸の下から上へ円を描く。3. 体を左に向け、伏し目で指を顔の前で交差させ、両手をゆっくりと離す。4. 右手を上に振り上げ、左手を下に伸ばし、右足で円弧を描くように掃いて体を回転させる。5. 右足が着地し、左足を内側にフックし、体を 90 度後ろに反らせながら滑らかに回転し、目を閉じて微笑み、手のひらを顎に当てて軽く揺らす。6. 上半身の周りで両手が円弧を描くフリーズフレーム。7. 親指と人差し指を合わせ、胸元から頭上まで持ち上げる。8. 体を右に向け、左手で顎に弧を描き、右手の指先で眉をなぞってから右上に伸ばし、手首を外側に押して金の装飾を 2 回揺らす。雰囲気：ヘヴィメタルのドラム音楽、明るいリズム。ボリューム感のある柔らかな光、繊細な肌の質感、自然な髪と生地の動き、滑らかなダイナミクス。ネガティブプロンプト：ぼやけ、低解像度、変形した四肢、動作の遅延、透かし。15 秒間の整合性のあるビデオを生成。アスペクト比 9:16。
+```
+
+<img src="https://cms-assets.youmind.com/media/1789112669710_10a9cd_HR5gsMZbwAAWt4k.png" width="600" alt="中国伝統舞踊の振付">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10745)**
+
+**作者:** [George Qiao](https://x.com/QiaoGeorge) | **ソース:** [Link](https://x.com/QiaoGeorge/status/2098223994134794350) | **公開日:** Sep 11, 2026
+
+---
+### 寝室のショートアニメーションループ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャンドルの灯る部屋でキャラクターが登場する、6 秒間のループ動画用簡潔プロンプト。
+
+#### 📝 プロンプト
+
+```
+6 秒の動画。ベースとして Mía Gabriel の寝室を完全に再現。9:16 のアスペクト比、キャンドルの灯り。アニメーションのみ適用。顔は同一のものを使用。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098149376677810191/img/n3LdIimrezq2cBqz.jpg" width="600" alt="寝室のショートアニメーションループ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10744)**
+
+**作者:** [Gabriel](https://x.com/riquitoboy47) | **ソース:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **公開日:** Sep 10, 2026
+
+---
+### 溶けた金のしだれ柳のアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 溶けた金の雫が融合し、チャコールグレーの背景の中で黒真珠をまとったしだれ柳へと成長していくアニメーションプロンプト。
+
+#### 📝 プロンプト
+
+```
+地面に置かれた 5 滴の溶けた金が、ゆっくりと融合しながら上へと伸び、しだれ柳の形へと成長していく。その枝には輝く黒真珠が重たげにぶら下がり、背景には質感のあるチャコールグレーが広がっている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="溶けた金のしだれ柳のアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10742)**
+
+**作者:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **ソース:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **公開日:** Sep 10, 2026
+
+---
 ### アニメクロスオーバーのストーリーボードシーン
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -205,7 +300,7 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10687)**
 
-**作者:** [思考小朋友的未來](https://x.com/Gopphybjwo) | **ソース:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **公開日:** Sep 10, 2026
+**作者:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **ソース:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **公開日:** Sep 10, 2026
 
 ---
 ### アニメ風 HIIT エリプティカル・ワークアウト・アニメーション
@@ -244,6 +339,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10678)**
 
 **作者:** [BMX](https://x.com/bmx_ai13) | **ソース:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **公開日:** Sep 10, 2026
+
+---
+### 高校の教員割り当て
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> カリフォルニア州の高校を舞台に、校長が保護者と大学生に対して教員の任務を割り当てる様子を描いたビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+カリフォルニア州の高校の校長が、保護者と大学生に対して 2 週間の教員任務を割り当てている様子
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="高校の教員割り当て">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10741)**
+
+**作者:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **ソース:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **公開日:** Sep 10, 2026
 
 ---
 ### ガーリックトーストの作り方チュートリアル動画
@@ -378,7 +492,7 @@ Negative: テキストなし、ロゴなし、透かしなし
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10688)**
 
-**作者:** [Mofuyama works | Art plush & illustrations](https://x.com/no_mofu_no_life) | **ソース:** [Link](https://x.com/no_mofu_no_life/status/2097693136382566808) | **公開日:** Sep 9, 2026
+**作者:** [Sahil Verma](https://x.com/sahilvermaai) | **ソース:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **公開日:** Sep 9, 2026
 
 ---
 ### メガネをかけたクールな猫の動画プロンプト
@@ -2086,120 +2200,6 @@ Pringles の缶、ブランディング、タイポグラフィ、色、背景�
 **作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **公開日:** Sep 3, 2026
 
 ---
-### 抽象的な光子の変容動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 光子が恐怖や苦しみといった負の感情を、愛や幸福へと変容させる様子を描いたコンセプト動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-美しい色彩の光子が、恐怖を愛に、悪を善に、そして苦しみを幸福へと変容させる動画を作成してください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="抽象的な光子の変容動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10338)**
-
-**作者:** [Joane](https://x.com/thejoaneunit) | **ソース:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **公開日:** Sep 3, 2026
-
----
-### プレアデス星人の母船 Ultra HD
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ボリュームライトを使用した円盤型母船を生成するための高解像度 SF プロンプト。
-
-#### 📝 プロンプト
-
-```
-光の船に乗ったプレアデス星人と円盤型の母船、傑作、Ultra HD 高品質、11111111111111111199999999999999 k 解像度、ボリューム感のある明るい照明の色調と陰影
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="プレアデス星人の母船 Ultra HD">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10336)**
-
-**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **ソース:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **公開日:** Sep 3, 2026
-
----
-### アンティーク・ローズ・ガーデンの収穫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> バラ園の小道を静かに歩き、アンティーク・ローズの花束を集める様子を描いた穏やかなビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-曲がりくねった庭の小道を静かに進み、最高のアンティーク・ローズを収穫しましょう。襟元を飾る一輪、静かな空想にふけるための一輪、そして、あなたの今日という日にさらなる優雅さが必要だからという理由で、贅沢な花束を。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095427392282271744/img/lJLVCUpMCoZD08b0.jpg" width="600" alt="アンティーク・ローズ・ガーデンの収穫">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10540)**
-
-**作者:** [Scarlett](https://x.com/scarlettzen1) | **ソース:** [Link](https://x.com/scarlettzen1/status/2095427461093666845) | **公開日:** Sep 3, 2026
-
----
-### 鳴いているキジトラ猫のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 卵の殻の中にいるキジトラ猫のリアルな鳴き声の動作、首を振る動き、日光の中で舞う塵の粒子を表現した詳細な動画アニメーションプロンプトです。
-
-#### 📝 プロンプト
-
-```
-卵の殻の中にいるキジトラ猫が鳴いている様子をアニメーション化：猫の口が鳴き声や威嚇をしているかのように動き、首を軽く振り、尻尾がピクピクと動く。強い日差しの中で塵の粒子が舞い、リアルで生き生きとした動きを表現。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="鳴いているキジトラ猫のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10285)**
-
-**作者:** [Jordan Ardani](https://x.com/JordanArdady) | **ソース:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **公開日:** Sep 3, 2026
-
----
-### 陽光あふれるバラ園の安らぎ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 舞い散る花びらと温かな光に包まれ、バラの香りを吸い込む女性の穏やかな瞬間を捉えた、詩的なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-陽光が降り注ぐバラ園での静かなひととき。彼女は立ち止まり、バラの香りを深く吸い込み、微笑む。柔らかな光、舞い散る花びら、そして絵画のような輝き。ひと呼吸の中に宿る安らぎ。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="陽光あふれるバラ園の安らぎ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10286)**
-
-**作者:** [Ashutosh](https://x.com/Bhart0678) | **ソース:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **公開日:** Sep 3, 2026
-
----
-### 雨の森のミステリアスな光
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雨の森で揺らめく温かい光を発見する女性を描いた、15 秒間のシネマティックな動画生成用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-この画像をもとに、フォトリアルな 15 秒間のシネマティック動画を作成してください。女性の顔立ち、髪型、濡れた髪、黒いレインコート、グレーのスカーフ、体型、森の環境、雨の降り方、照明、構図を正確に維持してください。0～4 秒：彼女は激しい雨の中で完全に静止し、目を閉じて顔をわずかに上に向けて、雨を穏やかに楽しんでいます。水が濡れた髪を伝い、光沢のあるレインコートを自然に流れ落ちます。冷たい風にスカーフが優しく揺れます。4～7 秒：彼女の背後の木々の奥深くに、かすかな温かい光が突然現れます。最初は雨と霧越しに光る遠くのランタンのように、ほとんど目立ちません。彼女はゆっくりと目を開けます。7～10 秒：彼女はその異質な光に気づきます。表情が穏やかなものから好奇心に満ちたものへと変化します。彼女はゆっくりと首をその方向へ向け、周囲に雨が降り注ぐ中、木々の間を見つめます。10～13 秒：温かい光が少しずつ明るくなり、霧の中で優しく揺らめきます。彼女はその神秘的な輝きから目を離さず、慎重に一歩踏み出します。カメラは彼女の動きに合わせてわずかに追従します。13～15 秒：彼女がもう一歩踏み出した瞬間、光は突然消えます。彼女は立ち止まり、困惑した様子で木々の間の暗闇を見つめます。雨音以外の静寂が流れます。暗転。フォトリアルなシネマティック・リアリズム、雰囲気のある雨の森、リアルな雨と霧、濡れた髪と衣服、自然な風の動き、繊細な表情の演技、自然な歩行動作、深い森の遠近感、冷たい青灰色の周囲と対照的な遠くの温かい琥珀色の光、浅い被写界深度、繊細な手持ちカメラの動き。光は常に遠くにあり、木々に部分的に遮られている状態を維持してください。光源を決して明らかにしないでください。超自然的な生物、他の人物、ホラーモンスター、ジャンプスケア、誇張された反応、シーンの切り替わり、顔の変化、服装の変化、歪んだ手、モーフィングは一切禁止です。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="雨の森のミステリアスな光">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10283)**
-
-**作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **ソース:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **公開日:** Sep 3, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2261,6 +2261,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-11T04:20:25.296Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-11T12:59:00.556Z</sub>
 
 </div>

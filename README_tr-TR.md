@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2789** |
+| 📝 Total Prompts | **2795** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-11** |
 
@@ -189,6 +189,101 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Klimt Tarzı Bilim Kurgu Şövalyesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gustav Klimt'in sanatsal tarzını zırhlı şövalyeler ve uzay sarayları gibi fütüristik bilim kurgu unsurlarıyla birleştiren, oldukça detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Konuşma yok… Klimt tarzında, bilim kurgu zırhlı, çekici, yakışıklı, fütüristik, temiz yüzlü bir şövalyenin güzel bir kadını tuttuğu, uzay gemileri, uzay sarayları, şelaleler, ışık, fazladan kol yok içeren rüya gibi bir yağlı boya tablo...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098280958990684160/img/Iunubct5b1JoM7nk.jpg" width="600" alt="Klimt Tarzı Bilim Kurgu Şövalyesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10743)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2098281502828290435) | **Published:** Sep 11, 2026
+
+---
+### Galleria Borghese'de Fransız Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sanat galerisinde heykelsi bir Fransız kadının yer aldığı, soluk sonbahar estetiğiyle tasarlanmış sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Galleria Borghese galerisinde, soluk sonbahar kıyafetleri içinde genç ve heykelsi bir Fransız kadın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097730338063867904/img/SmNwegNFPyTKV9X-.jpg" width="600" alt="Galleria Borghese'de Fransız Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10740)**
+
+**Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **Published:** Sep 11, 2026
+
+---
+### Geleneksel Çin Dansı Koreografisi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Akıcı pembe ve altın rengi bir elbise içinde geleneksel bir dans sergileyen 20 yaşındaki Doğu Asyalı bir kadın için özel koreografi adımları ve hareket detaylarını içeren ayrıntılı bir video istemi.
+
+#### 📝 Prompt
+
+```
+20 yaşında Doğu Asyalı kadın, aynı görünümü ve dans hareketlerini koruyor. Pembe-beyaz-altın geçişli, yüksek kaliteli, antik tarzda, göğüs hizasında, geniş kollu ve dökümlü bir elbise giyiyor; etek kısmı altın iplik işlemeli çiçek desenleriyle kaplı ve ince, şeffaf, altın kenarlı gazlı bez kurdelelere sahip. Kumaş rüzgarla doğal ve dinamik bir şekilde hareket ediyor, eteğin dökümlü bir yapısı var ve ince inci süslemelerle dekore edilmiş. Zarif antik tarzda işlemeli yumuşak tabanlı ayakkabılar, genel olarak gösterişli ve nazik bir görünüm. Yüksek bacak hareketleri sırasında mahremiyeti sağlamak için iç pantolon içerir. Rüzgarla zarif bir şekilde dans ediyor; hafif ve çevik; siyah uzun saçlar, uyumlu zarif saç aksesuarlarıyla antik tarzda bir topuz yapılmış. Başlangıç duruşu: sol bacak üzerinde duruyor, sağ bacak öne doğru bükülmüş, vücut sağ bacağa doğru öne eğilmiş, gözler aşağı bakıyor; sağ el başın sağ üst kısmına kaldırılmış, sol el geriye ve yukarıya doğru uzanmış. 1. Vücut yavaşça dikleşir, hafifçe geriye yaslanır, sağ bacak aynı anda düz bir şekilde yukarı kaldırılır, eller şakaklarda, omuzlar hafifçe titrer, baş tam bir tur atar; 2. Sol el başın etrafında yukarıdan aşağıya, sağ el göğsün etrafında aşağıdan yukarıya daire çizer; 3. Vücut sola döner, aşağı bakar, parmaklar yüzün üzerinde çaprazlanır, eller yavaşça ayrılır; 4. Sağ el yukarı savrulur, sol el aşağı uzanır, sağ bacak vücudu döndürmek için dairesel bir yay çizer; 5. Sağ bacak yere iner, sol bacak içeri doğru kanca yapar, vücut pürüzsüzce dönerken 90 derece geriye yaslanır, gözler gülümseyerek kapalı, avuç içleri çene hizasında hafifçe titrer; 6. Eller üst vücudun etrafında dairesel bir yay çizerken donmuş kare; 7. Başparmak ve işaret parmakları birbirine değecek şekilde göğüsten başın üzerine kaldırılır; 8. Vücut sağa döner, sol el çeneye doğru yay çizer, sağ parmak uçları kaşı süpürür ve sağ üste doğru uzanır, bilek dışa doğru bastırılarak altın süslemeler iki kez sallanır. Atmosfer: Ağır metal davul müziği, parlak ritim; hacimsel yumuşak ışık, hassas cilt dokusu, doğal saç ve kumaş hareketi, pürüzsüz dinamikler. Negatif: bulanık, düşük çözünürlük, deforme olmuş uzuvlar, hareket gecikmesi, filigran. 15 saniyelik tutarlı bir video oluşturun. 9:16 en boy oranı.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789112669710_10a9cd_HR5gsMZbwAAWt4k.png" width="600" alt="Geleneksel Çin Dansı Koreografisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10745)**
+
+**Author:** [George Qiao](https://x.com/QiaoGeorge) | **Source:** [Link](https://x.com/QiaoGeorge/status/2098223994134794350) | **Published:** Sep 11, 2026
+
+---
+### Kısa Yatak Odası Animasyon Döngüsü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mum ışığıyla aydınlatılmış bir odadaki karakterleri içeren 6 saniyelik bir video döngüsü için kısa ve öz bir komut.
+
+#### 📝 Prompt
+
+```
+6 saniyelik video. TEMEL olarak aynı Mía Gabriel yatak odası. 9:16 mum ışığı. SADECE animasyon ekle. Aynı yüzler.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098149376677810191/img/n3LdIimrezq2cBqz.jpg" width="600" alt="Kısa Yatak Odası Animasyon Döngüsü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10744)**
+
+**Author:** [Gabriel](https://x.com/riquitoboy47) | **Source:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **Published:** Sep 10, 2026
+
+---
+### Erimiş Altın Salkım Söğüt Ağacı Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erimiş altın damlalarının birleşerek kömür grisi bir arka plan üzerinde siyah incilerle dolu bir salkım söğüt ağacına dönüştüğü animasyonlu bir istem.
+
+#### 📝 Prompt
+
+```
+Yerde beş damla erimiş altın duruyor. Bu damlalar yavaşça birleşerek yukarı doğru büyüyor ve dalları parıldayan siyah incilerle ağırlaşmış bir salkım söğüt ağacı şeklini alıyor; tüm bunlar dokulu kömür grisi bir arka plan üzerinde gerçekleşiyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="Erimiş Altın Salkım Söğüt Ağacı Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10742)**
+
+**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **Published:** Sep 10, 2026
+
+---
 ### Anime Crossover Hikaye Panosu Sahnesi
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -205,7 +300,7 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10687)**
 
-**Author:** [思考小朋友的未來](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
+**Author:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
 
 ---
 ### Anime HIIT Eliptik Antrenman Animasyonu
@@ -244,6 +339,25 @@ Gece vakti küçük bir köy evinin çatısında oturan, dizlerini kendine çekm
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10678)**
 
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **Published:** Sep 10, 2026
+
+---
+### Lise Öğretmenlik Görevi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kaliforniya'daki bir lise ortamında, okul müdürünün velilere ve üniversite son sınıf öğrencilerine öğretmenlik görevleri verdiği bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kaliforniya'daki bir lise müdürünün, velilere ve üniversite son sınıf öğrencilerine iki haftalık öğretmenlik görevlerini vermesi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="Lise Öğretmenlik Görevi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10741)**
+
+**Author:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **Source:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **Published:** Sep 10, 2026
 
 ---
 ### Sarımsaklı Ekmek Yapımı Eğitim Videosu
@@ -378,7 +492,7 @@ Sırasıyla sola ve sağa bakın ve her iki yöne de el sallayın. Olduğunuz ye
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10688)**
 
-**Author:** [Mofuyama works | Art plush & illustrations](https://x.com/no_mofu_no_life) | **Source:** [Link](https://x.com/no_mofu_no_life/status/2097693136382566808) | **Published:** Sep 9, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **Published:** Sep 9, 2026
 
 ---
 ### Gözlüklü Havalı Kedi Video İstemi
@@ -2086,120 +2200,6 @@ Karanlık dairesel bir maden tünelinde kömür kaplı bir kadın madencinin sin
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
 
 ---
-### Soyut Foton Dönüşümü Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Işık fotonlarının korku ve acı gibi olumsuz duyguları sevgi ve mutluluğa dönüştürdüğünü tasvir eden kavramsal bir video istemi.
-
-#### 📝 Prompt
-
-```
-Güzel renkli fotonların korkuyu sevgiye, kötülüğü iyiliğe ve acıyı mutluluğa dönüştürdüğü bir video oluştur
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="Soyut Foton Dönüşümü Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10338)**
-
-**Author:** [Joane](https://x.com/thejoaneunit) | **Source:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **Published:** Sep 3, 2026
-
----
-### Pleiadian Mothership Ultra HD
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Volumetrik aydınlatmaya sahip, disk şeklinde ana gemiler oluşturmak için yüksek çözünürlüklü bir bilim kurgu istemi.
-
-#### 📝 Prompt
-
-```
-Işık gemileri ve disk şeklinde ana gemiler içindeki Pleiadianlar, başyapıt, ultra HD kalite çözünürlük 11111111111111111199999999999999 k çözünürlük, volumetrik parlak aydınlatma renk tonları ve gölgelendirme
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="Pleiadian Mothership Ultra HD">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10336)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **Published:** Sep 3, 2026
-
----
-### Antika Gül Bahçesi Hasadı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Antika güllerden oluşan bir buket toplamak için gül bahçesi yollarında yapılan sessiz bir yürüyüşü betimleyen huzurlu bir video istemi.
-
-#### 📝 Prompt
-
-```
-En güzel antika gülleri toplamak için kıvrımlı bahçe yollarında sessizce ilerleyin; biri yakanızı süslemek, biri sessiz hayalleriniz için ve koca bir buket de sadece gününüzün fazladan bir zarafeti hak etmesi nedeniyle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095427392282271744/img/lJLVCUpMCoZD08b0.jpg" width="600" alt="Antika Gül Bahçesi Hasadı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10540)**
-
-**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2095427461093666845) | **Published:** Sep 3, 2026
-
----
-### Animasyonlu Miyavlayan Tekir Kedi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yumurta kabukları arasında yer alan bir tekir kedi için gerçekçi miyavlama hareketleri, kafa sallama ve güneş ışığında uçuşan toz parçacıkları içeren detaylı bir video animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Yumurta kabukları arasındaki miyavlayan tekir kediyi canlandır: kedinin ağzı miyavlıyor veya tıslıyormuş gibi hareket etsin, başı hafifçe sallansın, kuyruğu seğirsin, sert güneş ışığında toz parçacıkları uçuşsun, gerçekçi ve canlı bir hareket olsun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="Animasyonlu Miyavlayan Tekir Kedi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10285)**
-
-**Author:** [Jordan Ardani](https://x.com/JordanArdady) | **Source:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **Published:** Sep 3, 2026
-
----
-### Güneşli Gül Bahçesinde Huzur
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Düşen yapraklar ve sıcak ışık eşliğinde bir gülün kokusunu içine çeken bir kadının huzurlu anını yakalayan şiirsel bir video istemi.
-
-#### 📝 Prompt
-
-```
-Güneşli bir gül bahçesinde sessiz bir an; duraksıyor, çiçeğin kokusunu içine çekiyor ve gülümsüyor. Yumuşak ışık, düşen yapraklar ve o tabloyu andıran ışıltı. Tek bir nefeste huzur.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="Güneşli Gül Bahçesinde Huzur">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10286)**
-
-**Author:** [Ashutosh](https://x.com/Bhart0678) | **Source:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **Published:** Sep 3, 2026
-
----
-### Yağmurlu Orman Gizemli Işık
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yağmurlu bir ormanda titreyen sıcak bir ışığı keşfeden bir kadının yer aldığı 15 saniyelik sekans için oldukça detaylı sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Bu görselden yola çıkarak 15 saniyelik fotogerçekçi ve sinematik bir video oluşturun. Kadının yüzünü, saç stilini, ıslak saçlarını, siyah yağmurluğunu, gri atkısını, vücut oranlarını, orman ortamını, yağışı, ışıklandırmayı ve kompozisyonu birebir koruyun. 0–4 sn: Şiddetli yağmurun altında tamamen hareketsiz duruyor, gözleri kapalı ve yüzü hafifçe yukarı dönük, yağmurun tadını huzurla çıkarıyor. Su, ıslak saçlarından ve parlak yağmurluğundan doğal bir şekilde süzülüyor. Atkısı soğuk esintide hafifçe hareket ediyor. 4–7 sn: Arkasındaki ağaçların derinliklerinde aniden belirsiz, sıcak bir ışık beliriyor. İlk başta, yağmur ve sisin arasından parlayan uzak bir fener gibi zar zor fark ediliyor. Kadın yavaşça gözlerini açıyor. 7–10 sn: Sıradışı ışığı fark ediyor. İfadesi huzurlu halinden meraklı bir ifadeye dönüşüyor. Etrafına yağmur yağmaya devam ederken, başını yavaşça ışığa doğru çeviriyor ve ağaçların arasına bakıyor. 10–13 sn: Sıcak ışık biraz daha parlaklaşıyor ve sisin içinde hafifçe titriyor. Gözlerini gizemli parıltıya dikerek ona doğru temkinli bir adım atıyor. Kamera onunla birlikte hafifçe hareket ediyor. 13–15 sn: Tam bir adım daha atacakken ışık aniden kayboluyor. Duruyor ve ağaçların arasındaki karanlığa şaşkınlıkla bakıyor. Yağmur sesi dışında kısa bir sessizlik. Karararak biter. Fotogerçekçi sinematik gerçekçilik, atmosferik yağmurlu orman, gerçekçi yağmur ve sis, ıslak saç ve kıyafetler, doğal rüzgar hareketi, incelikli yüz ifadeleri, inandırıcı yürüme hareketi, derin orman perspektifi, uzak sıcak kehribar rengi ışıkla kontrast oluşturan soğuk mavi-gri çevre, sığ alan derinliği, hafif el kamerası hareketi. Işık uzak kalmalı ve ağaçlar tarafından kısmen gizlenmelidir; kaynağını asla göstermeyin. Doğaüstü yaratık yok, başka insan yok, korku canavarı yok, ani korku öğesi (jump scare) yok, abartılı tepkiler yok, sahne geçişi yok, yüz değişimleri yok, kıyafet değişimleri yok, bozuk eller yok, biçim değiştirme yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="Yağmurlu Orman Gizemli Işık">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10283)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **Published:** Sep 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2261,6 +2261,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-11T04:20:39.774Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-11T12:59:15.627Z</sub>
 
 </div>

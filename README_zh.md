@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2789** |
+| 📝 提示词总数 | **2795** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-11** |
 
@@ -189,6 +189,101 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 克林姆特风格科幻骑士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高度详细的视频提示词，融合了古斯塔夫·克林姆特（Gustav Klimt）的艺术风格与装甲骑士、太空宫殿等未来科幻元素。
+
+#### 📝 提示词
+
+```
+无需多言……梦幻般的油画，克林姆特风格，描绘了一位科幻装甲骑士，迷人、英俊、充满未来感、纯真，怀抱着一位可爱的女性，背景有宇宙飞船、太空宫殿、瀑布、光影，没有多余的手臂……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098280958990684160/img/Iunubct5b1JoM7nk.jpg" width="600" alt="克林姆特风格科幻骑士">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10743)**
+
+**作者:** [Carina](https://x.com/Freehere8) | **来源:** [Link](https://x.com/Freehere8/status/2098281502828290435) | **发布时间:** Sep 11, 2026
+
+---
+### 博尔盖塞美术馆里的法国女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影质感的视频提示词，描绘了一位身处美术馆、身材高挑的法国女性，呈现出柔和的秋季美学风格。
+
+#### 📝 提示词
+
+```
+一位年轻、身材高挑的法国女性，身处博尔盖塞美术馆中，穿着柔和色调的秋季服装。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097730338063867904/img/SmNwegNFPyTKV9X-.jpg" width="600" alt="博尔盖塞美术馆里的法国女性">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10740)**
+
+**作者:** [Jourdan Fernandez](https://x.com/VisualTreats) | **来源:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **发布时间:** Sep 11, 2026
+
+---
+### 中国传统舞蹈编舞
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一份详细的视频提示词，描述了一位 20 岁的东亚女性身着粉金相间的飘逸长裙表演传统舞蹈，包含具体的编舞动作和运动细节。
+
+#### 📝 提示词
+
+```
+20 岁东亚女性，保持外貌和舞蹈动作一致。身着粉白金渐变的高级古风齐胸宽袖飘逸长裙，裙摆覆盖金线刺绣花纹，配有轻薄透明的金边纱带。面料随风自然动态飘动，裙摆垂坠感强，饰有精致珍珠装饰。穿着精致的古风刺绣软底鞋，整体华丽而温柔。内含衬裤，确保高抬腿动作时的得体。随风优雅起舞；轻盈灵动；黑色长发盘成古风发髻，搭配配套的精致发饰。初始姿势：左腿站立，右腿向前弯曲，身体前倾靠向右腿，双眼低垂；右手举至头部右上方，左手向后上方伸展。1. 身体缓慢站直，微微后仰，右腿同时向上直抬，双手置于太阳穴，肩膀轻微抖动，头部做完整旋转；2. 左手从上至下绕头，右手从下至上绕胸；3. 身体向左转，低头，手指交叉遮脸，双手缓慢分开；4. 右手上挥，左手下伸，右腿画圆弧扫动以带动身体旋转；5. 右腿落地，左腿内勾，身体向后倾斜 90 度并平稳旋转，闭眼微笑，手掌在下巴处轻微抖动；6. 定格画面，双手在上半身周围画圆弧；7. 大拇指与食指相触，从胸前向上举至头顶；8. 身体向右转，左手弧形移至下巴，右手指尖扫过眉毛后伸向右上方，手腕向外压，金饰随之抖动两次。氛围：重金属鼓点音乐，节奏明快；体积感柔光，细腻的皮肤纹理，自然的头发和面料运动，流畅的动态效果。负面提示词：模糊，低分辨率，肢体变形，动作滞后，水印。生成 15 秒连贯视频。9:16 纵横比。
+```
+
+<img src="https://cms-assets.youmind.com/media/1789112669710_10a9cd_HR5gsMZbwAAWt4k.png" width="600" alt="中国传统舞蹈编舞">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10745)**
+
+**作者:** [George Qiao](https://x.com/QiaoGeorge) | **来源:** [Link](https://x.com/QiaoGeorge/status/2098223994134794350) | **发布时间:** Sep 11, 2026
+
+---
+### 卧室短动画循环
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于制作 6 秒循环视频的简洁提示词，场景为角色在烛光房间中。
+
+#### 📝 提示词
+
+```
+6 秒视频。与 BASE 中的 Mía Gabriel 卧室完全一致。9:16 烛光。仅进行动画处理。保持面部特征不变。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098149376677810191/img/n3LdIimrezq2cBqz.jpg" width="600" alt="卧室短动画循环">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10744)**
+
+**作者:** [Gabriel](https://x.com/riquitoboy47) | **来源:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **发布时间:** Sep 10, 2026
+
+---
+### 熔金垂柳动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个动画提示词：熔化的金滴在炭灰色背景下汇聚并生长成一棵挂满黑珍珠的垂柳。
+
+#### 📝 提示词
+
+```
+五滴熔金落在地上。它们缓慢汇聚并向上生长，形成一棵垂柳的形状，枝头挂满了闪烁的黑珍珠，背景为质感十足的炭灰色。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="熔金垂柳动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10742)**
+
+**作者:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **来源:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **发布时间:** Sep 10, 2026
+
+---
 ### 动漫联动项目分镜场景
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -205,7 +300,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10687)**
 
-**作者:** [思考小朋友的未來](https://x.com/Gopphybjwo) | **来源:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **发布时间:** Sep 10, 2026
+**作者:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **来源:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **发布时间:** Sep 10, 2026
 
 ---
 ### 动漫风格 HIIT 椭圆机健身动画
@@ -244,6 +339,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10678)**
 
 **作者:** [BMX](https://x.com/bmx_ai13) | **来源:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **发布时间:** Sep 10, 2026
+
+---
+### 高中教学任务分配
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段视频提示词，描绘了一位校长在加利福尼亚州的高中场景中，为家长和大学高年级学生分配教学任务。
+
+#### 📝 提示词
+
+```
+加利福尼亚州高中校长正在为家长和大学高年级学生分配为期两周的教学任务
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="高中教学任务分配">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10741)**
+
+**作者:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **来源:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **发布时间:** Sep 10, 2026
 
 ---
 ### 蒜香面包烹饪教程视频
@@ -378,7 +492,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10688)**
 
-**作者:** [Mofuyama works | Art plush & illustrations](https://x.com/no_mofu_no_life) | **来源:** [Link](https://x.com/no_mofu_no_life/status/2097693136382566808) | **发布时间:** Sep 9, 2026
+**作者:** [Sahil Verma](https://x.com/sahilvermaai) | **来源:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **发布时间:** Sep 9, 2026
 
 ---
 ### 戴眼镜的酷猫视频提示词
@@ -2086,120 +2200,6 @@ camera locked / same face, hair, tank, backdrop / no face morph / five fingers o
 **作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **发布时间:** Sep 3, 2026
 
 ---
-### 抽象光子转化视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个概念性视频提示词，描绘了光子将恐惧和痛苦等负面情绪转化为爱与幸福的过程。
-
-#### 📝 提示词
-
-```
-创建一个视频，展示美丽的光子将恐惧转化为爱，将邪恶转化为善良，将痛苦转化为幸福
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="抽象光子转化视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10338)**
-
-**作者:** [Joane](https://x.com/thejoaneunit) | **来源:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **发布时间:** Sep 3, 2026
-
----
-### 昴宿星母舰超高清
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成碟形母舰的高分辨率科幻提示词，包含体积光效果。
-
-#### 📝 提示词
-
-```
-昴宿星人的光船和碟形母舰，杰作，超高清质量，11111111111111111199999999999999 k 分辨率，体积感明亮的光影色调和渲染
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="昴宿星母舰超高清">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10336)**
-
-**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **来源:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **发布时间:** Sep 3, 2026
-
----
-### 古董玫瑰园采摘
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个宁静的视频提示词，描绘了在玫瑰园小径中漫步，采摘一束古董玫瑰的悠闲场景。
-
-#### 📝 提示词
-
-```
-沿着蜿蜒的园中小径静静漫步，采摘最精致的古董玫瑰——一朵点缀你的衣襟，一朵伴你静谧沉思，再捧上一大束花束，只因你的一天值得拥有这份格外的优雅。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095427392282271744/img/lJLVCUpMCoZD08b0.jpg" width="600" alt="古董玫瑰园采摘">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10540)**
-
-**作者:** [Scarlett](https://x.com/scarlettzen1) | **来源:** [Link](https://x.com/scarlettzen1/status/2095427461093666845) | **发布时间:** Sep 3, 2026
-
----
-### 动画版喵喵叫的虎斑猫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于虎斑猫在蛋壳中活动的详细视频动画提示词，包含逼真的喵喵叫动作、头部摆动以及阳光下漂浮的尘埃颗粒。
-
-#### 📝 提示词
-
-```
-让蛋壳中的虎斑猫动起来：猫咪嘴部做出喵喵叫或哈气的动作，头部轻微摆动，尾巴抽动，阳光下尘埃颗粒漂浮，呈现出逼真生动的动态效果。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="动画版喵喵叫的虎斑猫">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10285)**
-
-**作者:** [Jordan Ardani](https://x.com/JordanArdady) | **来源:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **发布时间:** Sep 3, 2026
-
----
-### 阳光玫瑰园的宁静
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段充满诗意的视频提示词，捕捉了一位女性在落英缤纷与暖阳下，于玫瑰花丛中深呼吸的宁静瞬间。
-
-#### 📝 提示词
-
-```
-阳光玫瑰园中的静谧时刻，她驻足，轻嗅花香，嘴角泛起笑意。柔和的光影、飘落的花瓣，以及那如油画般的质感。一次呼吸，尽享宁静。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="阳光玫瑰园的宁静">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10286)**
-
-**作者:** [Ashutosh](https://x.com/Bhart0678) | **来源:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **发布时间:** Sep 3, 2026
-
----
-### 雨林神秘之光
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度精细的电影级视频提示词，用于制作一段 15 秒的视频序列：一位女性在雨林中发现了一束闪烁的暖光。
-
-#### 📝 提示词
-
-```
-请根据此图像制作一段 15 秒的写实电影级视频。请保留女性的面部特征、发型、湿发、黑色雨衣、灰色围巾、身体比例、森林环境、降雨效果、光影及构图。0–4 秒：她静静地站在大雨中，闭着双眼，脸微微向上仰，平静地享受着雨水。水珠自然地流过她的湿发，顺着光亮的雨衣滑落。她的围巾在冷风中轻轻飘动。4–7 秒：她身后的树林深处突然出现了一束微弱的暖光。起初它几乎难以察觉，就像透过雨雾闪烁的远方灯火。她缓缓睁开双眼。7–10 秒：她注意到了这束不同寻常的光。她的表情从平静转为好奇。她慢慢转过头看向光亮处，在周围持续的雨幕中凝视着树林间。10–13 秒：暖光变得稍微明亮了一些，在雾气中轻轻闪烁。她小心翼翼地向光亮处迈出一步，双眼紧盯着那神秘的光芒。镜头随她轻微移动。13–15 秒：就在她迈出下一步时，光芒突然消失了。她停下脚步，凝视着树林间的黑暗，神情困惑。除了雨声外，一切陷入寂静。画面转黑。写实电影质感，氛围感雨林，逼真的雨水和雾气，湿润的头发和衣物，自然的风吹效果，细腻的面部表演，真实的行走动作，深邃的森林透视，冷色调蓝灰色环境与远处暖色调琥珀光形成对比，浅景深，细腻的手持摄影感。光线必须保持在远处并被树木部分遮挡；切勿揭示光源。无超自然生物，无其他人，无恐怖怪物，无惊吓镜头，无夸张反应，无场景切换，无面部改变，无服装改变，无手部变形，无画面扭曲。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="雨林神秘之光">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10283)**
-
-**作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **来源:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **发布时间:** Sep 3, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2261,6 +2261,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-11T04:20:22.819Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-11T12:58:57.129Z</sub>
 
 </div>

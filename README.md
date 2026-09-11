@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2789** |
+| 📝 Total Prompts | **2795** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-11** |
 
@@ -189,23 +189,118 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Anime Crossover Storyboard Scene
+### Klimt Style Sci-Fi Knight
 
-![中文](https://img.shields.io/badge/lang-中文-red)
+![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-segment video prompt featuring characters Luffy and Anya with specific timing for prop interactions and emotional highlights.
+> A highly detailed video prompt combining the artistic style of Gustav Klimt with futuristic sci-fi elements like armored knights and space palaces.
 
 #### 📝 Prompt
 
 ```
-10–15 seconds | Prop outbreak: Rakhi flies up and wraps around the wrist. Golden ribbons automatically wrap around Luffy's wrist, the protection shield unfolds, and Anya's eyes become stars. 15–20 seconds | Emotional climax: Big brother head pat + hug. Luffy patting Anya's head seriously, Anya jumps into his arms, surrounded by golden heart light.
+No talk… Dreamy oil painting in the style of Klimt of a sci-fi armored, charming, handsome, futuristic, wholesome knight holding a lovely female, spaceships, space palaces, waterfalls, light, no extra arms…
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097918547813175296/img/9s_uDQjaXgjU2a1N.jpg" width="600" alt="Anime Crossover Storyboard Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098280958990684160/img/Iunubct5b1JoM7nk.jpg" width="600" alt="Klimt Style Sci-Fi Knight">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10743)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2098281502828290435) | **Published:** Sep 11, 2026
+
+---
+### French Woman in Galleria Borghese
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring a statuesque French woman in an art gallery, styled with a muted autumnal aesthetic.
+
+#### 📝 Prompt
+
+```
+A young, statuesque French female in a Galleria Borghese gallery, wearing a muted fall outfit.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097730338063867904/img/SmNwegNFPyTKV9X-.jpg" width="600" alt="French Woman in Galleria Borghese">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10740)**
+
+**Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **Published:** Sep 11, 2026
+
+---
+### Traditional Chinese Dance Choreography
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed video prompt for a 20-year-old East Asian woman performing a traditional dance in a flowing pink and gold gown, including specific choreography steps and motion details.
+
+#### 📝 Prompt
+
+```
+20-year-old East Asian female, maintaining the same appearance and dance movements. Wearing a pink-white-gold gradient high-end ancient-style chest-high wide-sleeved flowing gown, the skirt is covered with gold thread embroidered floral patterns, with thin, transparent gold-edged gauze ribbons. The fabric flows naturally and dynamically with the wind, the skirt has a strong sense of drape, and is decorated with fine pearl ornaments. Exquisite ancient-style embroidered soft-soled shoes, overall gorgeous and gentle. Includes lining pants to ensure modesty during high leg movements. Dancing gracefully with the wind; light and agile; black long hair in an ancient-style bun with matching exquisite hair ornaments. Initial posture: standing on the left leg, right leg bent forward, body leaning forward against the right leg, eyes lowered; right hand raised to the top right of the head, left hand stretching backwards and upwards. 1. Body slowly stands upright, slightly leans back, right leg simultaneously raised straight up, hands on temples, shoulders shaking gently, head making a full rotation; 2. Left hand circles head from top to bottom, right hand circles chest from bottom to top; 3. Body turns left, looking down, fingers crossed over face, hands slowly separating; 4. Right hand swings up, left hand stretches down, right leg makes a circular arc sweep to rotate the body; 5. Right leg lands, left leg hooks inward, body leans back 90 degrees while rotating smoothly, eyes closed with a smile, palms at chin shaking lightly; 6. Freeze frame with hands drawing a circular arc around the upper body; 7. Thumbs and index fingers touching, raised from chest to above head; 8. Body turns right, left hand arcs to chin, right fingertips sweep eyebrow then extend to top right, wrist pressed outward with two shakes of gold ornaments. Atmosphere: Heavy metal drum music, bright rhythm; volumetric soft light, delicate skin texture, natural hair and fabric movement, smooth dynamics. Negative: blurred, low resolution, deformed limbs, motion lag, watermark. Generate a 15-second coherent video. 9:16 aspect ratio.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789112669710_10a9cd_HR5gsMZbwAAWt4k.png" width="600" alt="Traditional Chinese Dance Choreography">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10745)**
+
+**Author:** [George Qiao](https://x.com/QiaoGeorge) | **Source:** [Link](https://x.com/QiaoGeorge/status/2098223994134794350) | **Published:** Sep 11, 2026
+
+---
+### Short Bedroom Animation Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A concise prompt for a 6-second video loop featuring characters in a candlelit room.
+
+#### 📝 Prompt
+
+```
+6 second video. Exact same Mía Gabriel bedroom as BASE. 9:16 candle light. ONLY animate. Same faces.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098149376677810191/img/n3LdIimrezq2cBqz.jpg" width="600" alt="Short Bedroom Animation Loop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10744)**
+
+**Author:** [Gabriel](https://x.com/riquitoboy47) | **Source:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **Published:** Sep 10, 2026
+
+---
+### Molten Gold Weeping Willow Tree Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An animated prompt where molten gold drops coalesce and grow into a weeping willow tree with black pearls against a charcoal grey background.
+
+#### 📝 Prompt
+
+```
+Five drops of molten gold lay on the ground. They slowly coalesce and grow upward into the shape of a weeping willow tree, its branches heavy with glistening black pearls, set against a backdrop of textured charcoal grey
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="Molten Gold Weeping Willow Tree Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10742)**
+
+**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **Published:** Sep 10, 2026
+
+---
+### Anime Character Interaction Storyboard
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed storyboard-style prompt for Grok Imagine featuring character interactions, magical ribbon effects, and emotional moments.
+
+#### 📝 Prompt
+
+```
+10–15 seconds | Prop Burst: Rakhi flies up by itself and wraps around the wrist. Golden ribbons automatically wrap around Luffy's wrist, a protective shield expands, and Anya's eyes turn into stars. 15–20 seconds | Emotional Climax: Big brother head pat + hug. Luffy earnestly pats Anya's head, Anya jumps into his arms, surrounded by golden heart light.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097918547813175296/img/9s_uDQjaXgjU2a1N.jpg" width="600" alt="Anime Character Interaction Storyboard">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10687)**
 
-**Author:** [思考小朋友的未來](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
+**Author:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
 
 ---
 ### Anime HIIT Elliptical Workout Animation
@@ -227,11 +322,11 @@ generate me sitting up facing away from the camera then I stand up and turn arou
 **Author:** [𝑹𝒂𝒄𝒉𝒆𝒍 𝑹𝒂𝒎𝒔𝒆𝒚](https://x.com/RSOXART) | **Source:** [Link](https://x.com/RSOXART/status/2097888970994495736) | **Published:** Sep 10, 2026
 
 ---
-### Surreal Cosmic Horizon Animation
+### Girl Watching Cosmic Planet Rise
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly descriptive cinematic prompt featuring a girl on a rooftop watching a colossal planet rise, emphasizing surreal scale and emotional storytelling.
+> A cinematic video prompt of a lone girl on a rural rooftop watching a colossal glowing planet rise, featuring blue-orange contrast and dreamy lighting.
 
 #### 📝 Prompt
 
@@ -239,11 +334,30 @@ generate me sitting up facing away from the camera then I stand up and turn arou
 A lone girl sitting on the roof of a small countryside house at night, hugging her knees while watching a colossal glowing planet rise over the horizon. The house is tiny compared to the giant celestial body dominating the sky. Warm yellow light glows softly from the window below her, while the surrounding world is bathed in cool blue moonlight. Fireflies hover in the grass, and distant hills fade into darkness. Dreamy, intimate, surreal cosmic scale, strong blue-orange contrast, lonely but beautiful, cinematic composition, gentle emotional storytelling.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797344687448064/img/SZngyC9XYY8D9vMn.jpg" width="600" alt="Surreal Cosmic Horizon Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097797344687448064/img/SZngyC9XYY8D9vMn.jpg" width="600" alt="Girl Watching Cosmic Planet Rise">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10678)**
 
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **Published:** Sep 10, 2026
+
+---
+### High School Teaching Assignment
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt depicting a principal assigning teaching tasks to parents and college seniors in a California high school setting.
+
+#### 📝 Prompt
+
+```
+California high school principal assigning parents their two week teaching assignments alongside college seniors
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="High School Teaching Assignment">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10741)**
+
+**Author:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **Source:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **Published:** Sep 10, 2026
 
 ---
 ### Garlic Bread Cooking Tutorial Video
@@ -265,21 +379,19 @@ Make me a 45 second video short of how to video to make garlic bread with fresh 
 **Author:** [Rduck](https://x.com/rduck526) | **Source:** [Link](https://x.com/rduck526/status/2097797892312322437) | **Published:** Sep 9, 2026
 
 ---
-### Glowing Door in Desert Sky
+### Surreal Desert Door at Night
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed surreal vertical night scene of a lonely man facing a gigantic glowing doorway in a dark desert.
+> A visually striking video prompt of a man standing before a massive glowing door in a desert under a starry nebula sky, creating a contrast of cool blues and warm oranges.
 
 #### 📝 Prompt
 
 ```
-A surreal vertical night scene of a lonely man standing in a vast dark desert under a star filled sky. In front of him is a gigantic freestanding glowing door, many times taller than a human, slightly open, revealing a bright orange light inside. Around the door, sand softly glows under blue moonlight. The sky is rich with stars and faint nebula clouds. Strong visual contrast between the cool midnight blue landscape and the warm fiery interior light spilling from the door. Quiet, symbolic, cinematic, mysterious, highly detailed, surreal scale, emotional solitude.
-
-Negative: no text, no logo, no watermark
+A surreal vertical night scene of a lonely man standing in a vast dark desert under a star filled sky. In front of him is a gigantic freestanding glowing door, many times taller than a human, slightly open, revealing a bright orange light inside. Around the door, sand softly glows under blue moonlight. The sky is rich with stars and faint nebula clouds. Strong visual contrast between the cool midnight blue landscape and the warm fiery interior light spilling from the door. Quiet, symbolic, cinematic, mysterious, highly detailed, surreal scale, emotional solitude. Negative: no text, no logo, no watermark
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097796543462219776/img/DxvENK4kg04thsZh.jpg" width="600" alt="Glowing Door in Desert Sky">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097796543462219776/img/DxvENK4kg04thsZh.jpg" width="600" alt="Surreal Desert Door at Night">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10675)**
 
@@ -362,23 +474,23 @@ Animate this photo realistically. The man (Charlie) speaks first saying "Pam alw
 **Author:** [Pamela joye middle](https://x.com/JoyeMiddle28955) | **Source:** [Link](https://x.com/JoyeMiddle28955/status/2097701989278998571) | **Published:** Sep 9, 2026
 
 ---
-### Shy Character Motion Sequence
+### Character Interaction and Animated Tail Action
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed motion prompt for a character waving, spinning, falling, and smiling, with specific requirements for tail coloration.
+> A motion-oriented video prompt for a character performing a continuous action sequence including waving, spinning, and falling, with specific tail coloration instructions.
 
 #### 📝 Prompt
 
 ```
-Look left and right in order and wave in each direction. Spin once on the spot but lose balance and fall on your butt. Finally, show a bashful smile. The tail should be light brown from the base halfway and dark brown for the front half.
+Look to the right and left in turn and wave in each direction. Spin once on the spot but lose your balance and fall on your bottom. Finally, show a bright, slightly embarrassed smile. The tail should be light brown for the first half from the base and dark brown for the tip half.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097693112428875776/img/VMYuzkc2zkYCF-Q4.jpg" width="600" alt="Shy Character Motion Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097693112428875776/img/VMYuzkc2zkYCF-Q4.jpg" width="600" alt="Character Interaction and Animated Tail Action">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10688)**
 
-**Author:** [Mofuyama works | Art plush & illustrations](https://x.com/no_mofu_no_life) | **Source:** [Link](https://x.com/no_mofu_no_life/status/2097693136382566808) | **Published:** Sep 9, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **Published:** Sep 9, 2026
 
 ---
 ### Cool Cat with Glasses Video Prompt
@@ -1508,37 +1620,19 @@ The mouse freezes and nervously looks at the camera.
 **Author:** [Snow](https://x.com/iamrealsnow) | **Source:** [Link](https://x.com/iamrealsnow/status/2096610006376558614) | **Published:** Sep 6, 2026
 
 ---
-### Premium Pringles Food Animation
+### Hyper-Realistic Pringles Commercial Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for creating a hyper-realistic food commercial for Pringles, featuring slow-motion golden chips and professional studio lighting.
+> A highly detailed prompt for creating a cinematic food advertisement video where chips rise from a Pringles can with realistic physics and studio lighting.
 
 #### 📝 Prompt
 
 ```
-Create a premium, hyper-realistic cinematic food-commercial animation from the provided Pringles image.
-
-Keep the Pringles can, branding, typography, colors, background, and overall composition exactly unchanged. Do not redesign or replace any elements.
-
-The animation begins with the Pringles can gently rotating and tilting forward while the camera slowly pushes in. The golden chips rise naturally from the open can in smooth slow motion, spinning and tumbling individually with realistic physics. Small crumbs float through the air and catch the studio light.
-
-The red Pringles lid slowly spins in mid-air and moves subtly toward the camera before drifting back. Add realistic depth-of-field, tiny floating crumbs, natural motion blur, glossy highlights on the can, and subtle reflections.
-
-Make the chips feel crispy and lightweight, with believable gravity and collisions. The can should remain stable and sharp while the floating chips create the main motion.
-
-Use a smooth luxury advertising style: dramatic studio lighting, cinematic camera movement, realistic shadows, shallow depth of field, high detail, polished commercial photography, and seamless motion.
-
-End with the can centered prominently in frame, chips suspended beautifully around it, creating a satisfying hero shot.
-
-No people, no hands, no new objects, no warped branding, no distorted text, no melting, no morphing, no flickering, no camera shake.
-
-Duration: 8–10 seconds.
-Aspect ratio: 16:9 landscape.
-Motion: smooth, cinematic, realistic, premium food advertisement.
+Create a premium, hyper-realistic cinematic food-commercial animation from the provided Pringles image. Keep the Pringles can, branding, typography, colors, background, and overall composition exactly unchanged. Do not redesign or replace any elements. The animation begins with the Pringles can gently rotating and tilting forward while the camera slowly pushes in. The golden chips rise naturally from the open can in smooth slow motion, spinning and tumbling individually with realistic physics. Small crumbs float through the air and catch the studio light. The red Pringles lid slowly spins in mid-air and moves subtly toward the camera before drifting back. Add realistic depth-of-field, tiny floating crumbs, natural motion blur, glossy highlights on the can, and subtle reflections. Make the chips feel crispy and lightweight, with believable gravity and collisions. The can should remain stable and sharp while the floating chips create the main motion. Use a smooth luxury advertising style: dramatic studio lighting, cinematic camera movement, realistic shadows, shallow depth of field, high detail, polished commercial photography, and seamless motion. End with the can centered prominently in frame, chips suspended beautifully around it, creating a satisfying hero shot. No people, no hands, no new objects, no warped branding, no distorted text, no melting, no morphing, no flickering, no camera shake. Duration: 8–10 seconds. Aspect ratio: 16:9 landscape. Motion: smooth, cinematic, realistic, premium food advertisement.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="Premium Pringles Food Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="Hyper-Realistic Pringles Commercial Animation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10489)**
 
@@ -2058,120 +2152,6 @@ Cinematic close-up of a coal-covered woman miner in a dark circular mine tunnel.
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
 
 ---
-### Abstract Photon Transformation Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A conceptual video prompt depicting light photons transforming negative emotions like fear and suffering into love and happiness.
-
-#### 📝 Prompt
-
-```
-Create a video where beautiful color photons transform fear into love and evil into goodness and suffering into happiness
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="Abstract Photon Transformation Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10338)**
-
-**Author:** [Joane](https://x.com/thejoaneunit) | **Source:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **Published:** Sep 3, 2026
-
----
-### Pleiadian Mothership Ultra HD
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-resolution sci-fi prompt for generating saucer-shaped motherships with volumetric lighting.
-
-#### 📝 Prompt
-
-```
-Pleiadians in lightships and motherships of saucer shape, masterpiece, ultra HD quality resolution 11111111111111111199999999999999 k resolution, volumetric bright lighting colors tones and shading
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="Pleiadian Mothership Ultra HD">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10336)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **Published:** Sep 3, 2026
-
----
-### Antique Rose Garden Harvest
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A peaceful video prompt illustrating a quiet walk through rose garden paths to gather a bouquet of antique roses.
-
-#### 📝 Prompt
-
-```
-Slipping quietly along the winding garden paths to harvest the finest antique roses—one to grace your lapel, one for your quiet reverie, and a generous bouquet simply because your day calls for an extra measure of grace.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095427392282271744/img/lJLVCUpMCoZD08b0.jpg" width="600" alt="Antique Rose Garden Harvest">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10540)**
-
-**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2095427461093666845) | **Published:** Sep 3, 2026
-
----
-### Animated Meowing Tabby Cat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed animation prompt for a lively tabby cat meowing among eggshells with realistic lighting and motion.
-
-#### 📝 Prompt
-
-```
-Animate the meowing tabby cat among eggshells: the cat's mouth moves as if meowing or hissing, head slightly bobbing, tail twitching, dust particles float in harsh sunlight, realistic lively motion.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="Animated Meowing Tabby Cat">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10285)**
-
-**Author:** [Jordan Ardani](https://x.com/JordanArdady) | **Source:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **Published:** Sep 3, 2026
-
----
-### Sunlit Rose Garden Peace
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic video prompt capturing a tranquil moment of a woman breathing in a rose bloom amidst falling petals and warm light.
-
-#### 📝 Prompt
-
-```
-A quiet moment in a sunlit rose garden, she pauses, breathes in the bloom, and smiles. Soft light, falling petals, and that painterly glow. Peace in a single breath.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="Sunlit Rose Garden Peace">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10286)**
-
-**Author:** [Ashutosh](https://x.com/Bhart0678) | **Source:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **Published:** Sep 3, 2026
-
----
-### Cinematic Rainy Forest Mystery
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed photorealistic prompt for generating a 15-second cinematic video of a woman in a rainy forest who discovers a mysterious flickering light.
-
-#### 📝 Prompt
-
-```
-Create a photorealistic cinematic 15-second video from this exact image. Preserve the woman's exact face, hairstyle, wet hair, black raincoat, gray scarf, body proportions, forest environment, rainfall, lighting, and composition.0–4 sec: She stands completely still in the heavy rain, eyes closed and face tilted slightly upward, peacefully enjoying the rainfall. Water runs naturally through her wet hair and down her glossy raincoat. Her scarf moves gently in the cold breeze.4–7 sec: A faint, warm light suddenly appears deep between the trees behind her. At first it is barely noticeable, like a distant lantern glowing through the rain and mist. She slowly opens her eyes.7–10 sec: She notices the unusual light. Her expression changes from peaceful to curious. She slowly turns her head toward it, staring between the trees as rain continues falling around her.10–13 sec: The warm light becomes slightly brighter and flicker gently through the fog. She takes one cautious step toward it, her eyes fixed on the mysterious glow. The camera subtly moves with her.13–15 sec: Just as she takes another step, the light suddenly disappears. She stops and stares into the darkness between the trees, visibly confused. A beat of silence except for the rain. Cut to black.Photorealistic cinematic realism, atmospheric rainy forest, realistic rain and mist, wet hair and clothing, natural wind movement, subtle facial acting, believable walking motion, deep forest perspective, cool blue-gray surroundings contrasted with a distant warm amber light, shallow depth of field, subtle handheld camera movement. The light must remain distant and partially obscured by trees; never reveal its source. No supernatural creature, no person, no horror monster, no jump scare, no exaggerated reaction, no scene transition, no face changes, no outfit changes, no distorted hands, no morphing.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="Cinematic Rainy Forest Mystery">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10283)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **Published:** Sep 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2233,6 +2213,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-11T04:20:21.793Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-11T12:58:55.843Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2789** |
+| 📝 총 프롬프트 수 | **2795** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-09-11** |
 
@@ -189,6 +189,101 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 클림트 스타일의 SF 기사
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 구스타프 클림트의 예술적 화풍과 미래지향적인 SF 요소(갑옷을 입은 기사, 우주 궁전 등)를 결합한 고해상도 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+말없이… 클림트 스타일의 몽환적인 유화, SF 갑옷을 입은 매력적이고 잘생긴 미래형 기사가 사랑스러운 여성을 안고 있는 모습, 우주선, 우주 궁전, 폭포, 빛, 여분의 팔 없음…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098280958990684160/img/Iunubct5b1JoM7nk.jpg" width="600" alt="클림트 스타일의 SF 기사">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10743)**
+
+**작성자:** [Carina](https://x.com/Freehere8) | **출처:** [Link](https://x.com/Freehere8/status/2098281502828290435) | **게시일:** Sep 11, 2026
+
+---
+### 보르게세 미술관의 프랑스 여성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 보르게세 미술관을 배경으로 조각상처럼 우아한 프랑스 여성을 담은 영화 같은 비디오 프롬프트로, 차분한 가을 분위기를 연출합니다.
+
+#### 📝 프롬프트
+
+```
+보르게세 미술관에 있는 조각상처럼 우아한 젊은 프랑스 여성, 차분한 가을 의상을 입고 있음.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097730338063867904/img/SmNwegNFPyTKV9X-.jpg" width="600" alt="보르게세 미술관의 프랑스 여성">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10740)**
+
+**작성자:** [Jourdan Fernandez](https://x.com/VisualTreats) | **출처:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **게시일:** Sep 11, 2026
+
+---
+### 중국 전통 무용 안무
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 흐르는 듯한 핑크와 골드 색상의 드레스를 입고 전통 무용을 추는 20세 동아시아 여성에 대한 상세한 비디오 프롬프트로, 구체적인 안무 동작과 움직임 세부 사항을 포함합니다.
+
+#### 📝 프롬프트
+
+```
+20세 동아시아 여성, 동일한 외모와 춤 동작 유지. 핑크-화이트-골드 그라데이션의 고급스러운 고전 스타일 가슴 높이 와이드 슬리브 드레스를 착용, 스커트는 금실로 수놓은 꽃무늬로 덮여 있으며 얇고 투명한 금색 테두리의 거즈 리본이 달려 있음. 원단은 바람에 따라 자연스럽고 역동적으로 흐르며, 스커트는 드레이프감이 뛰어나고 섬세한 진주 장식으로 꾸며짐. 정교한 고전 스타일의 자수 소프트 솔 슈즈를 착용하여 전체적으로 화려하고 우아함. 다리를 높이 올리는 동작 시 노출을 방지하기 위한 속바지 포함. 바람과 함께 우아하게 춤을 추며, 가볍고 민첩함. 검은색 긴 머리는 고전 스타일의 올림머리로 묶고 어울리는 정교한 머리 장식을 함. 초기 자세: 왼쪽 다리로 서서 오른쪽 다리를 앞으로 굽히고, 몸은 오른쪽 다리 쪽으로 숙이며 눈은 아래를 향함. 오른손은 머리 오른쪽 위로 올리고 왼손은 뒤쪽 위로 뻗음. 1. 몸을 천천히 똑바로 세우며 약간 뒤로 젖히고, 동시에 오른쪽 다리를 곧게 위로 들어 올림. 양손은 관자놀이에 대고 어깨를 가볍게 흔들며 머리를 한 바퀴 회전함. 2. 왼손은 머리 위에서 아래로 원을 그리고, 오른손은 가슴 아래에서 위로 원을 그림. 3. 몸을 왼쪽으로 돌려 아래를 내려다보며, 손가락을 교차해 얼굴을 가렸다가 천천히 양옆으로 벌림. 4. 오른손은 위로 휘두르고 왼손은 아래로 뻗으며, 오른쪽 다리로 원을 그리며 몸을 회전함. 5. 오른쪽 다리가 착지하고 왼쪽 다리를 안쪽으로 걸며, 몸을 90도 뒤로 젖히면서 부드럽게 회전함. 눈을 감고 미소를 지으며 손바닥을 턱에 대고 가볍게 흔듦. 6. 상체 주변으로 원을 그리며 멈추는 정지 화면. 7. 엄지와 검지를 맞대고 가슴에서 머리 위로 올림. 8. 몸을 오른쪽으로 돌리고 왼손은 턱으로 원을 그리며, 오른손 끝으로 눈썹을 쓸어 올린 뒤 오른쪽 위로 뻗음. 손목을 바깥쪽으로 꺾으며 금색 장식을 두 번 흔듦. 분위기: 헤비메탈 드럼 음악, 밝은 리듬. 볼륨감 있는 부드러운 조명, 섬세한 피부 질감, 자연스러운 머리카락과 원단 움직임, 부드러운 역동성. 부정적 프롬프트: 흐릿함, 저해상도, 변형된 사지, 동작 지연, 워터마크. 15초 길이의 일관된 비디오 생성. 9:16 화면 비율.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789112669710_10a9cd_HR5gsMZbwAAWt4k.png" width="600" alt="중국 전통 무용 안무">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10745)**
+
+**작성자:** [George Qiao](https://x.com/QiaoGeorge) | **출처:** [Link](https://x.com/QiaoGeorge/status/2098223994134794350) | **게시일:** Sep 11, 2026
+
+---
+### 짧은 침실 애니메이션 루프
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 촛불이 켜진 방에 있는 캐릭터들을 특징으로 하는 6초 길이의 영상 루프를 위한 간결한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+6초 영상. BASE와 동일한 Mía Gabriel 침실. 9:16 비율, 촛불 조명. 애니메이션만 적용. 얼굴은 동일하게 유지.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098149376677810191/img/n3LdIimrezq2cBqz.jpg" width="600" alt="짧은 침실 애니메이션 루프">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10744)**
+
+**작성자:** [Gabriel](https://x.com/riquitoboy47) | **출처:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **게시일:** Sep 10, 2026
+
+---
+### 녹아내리는 황금 수양버들 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 녹아내린 황금 방울들이 하나로 합쳐져 검은 진주가 달린 수양버들로 자라나는 애니메이션 프롬프트입니다. 배경은 짙은 차콜 그레이 색상입니다.
+
+#### 📝 프롬프트
+
+```
+바닥에 놓인 다섯 방울의 녹은 황금이 서서히 하나로 합쳐지며 수양버들 모양으로 위를 향해 자라납니다. 나뭇가지에는 반짝이는 검은 진주들이 무겁게 매달려 있으며, 배경은 질감이 느껴지는 차콜 그레이 색상으로 설정되어 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="녹아내리는 황금 수양버들 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10742)**
+
+**작성자:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **출처:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **게시일:** Sep 10, 2026
+
+---
 ### 애니메이션 크로스오버 스토리보드 장면
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -205,7 +300,7 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10687)**
 
-**작성자:** [思考小朋友的未來](https://x.com/Gopphybjwo) | **출처:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **게시일:** Sep 10, 2026
+**작성자:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **출처:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **게시일:** Sep 10, 2026
 
 ---
 ### 애니메이션 스타일 HIIT 일립티컬 운동 영상
@@ -244,6 +339,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10678)**
 
 **작성자:** [BMX](https://x.com/bmx_ai13) | **출처:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **게시일:** Sep 10, 2026
+
+---
+### 고등학교 수업 배정
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 캘리포니아의 한 고등학교를 배경으로 교장이 학부모와 대학생들에게 수업을 배정하는 모습을 담은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+캘리포니아 고등학교 교장이 학부모와 대학생들에게 2주간의 수업을 배정하는 모습
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="고등학교 수업 배정">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10741)**
+
+**작성자:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **출처:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **게시일:** Sep 10, 2026
 
 ---
 ### 마늘빵 만들기 튜토리얼 영상
@@ -378,7 +492,7 @@ Negative: 텍스트 없음, 로고 없음, 워터마크 없음
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10688)**
 
-**작성자:** [Mofuyama works | Art plush & illustrations](https://x.com/no_mofu_no_life) | **출처:** [Link](https://x.com/no_mofu_no_life/status/2097693136382566808) | **게시일:** Sep 9, 2026
+**작성자:** [Sahil Verma](https://x.com/sahilvermaai) | **출처:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **게시일:** Sep 9, 2026
 
 ---
 ### 안경 쓴 멋진 고양이 비디오 프롬프트
@@ -2086,120 +2200,6 @@ Alice @Reference3 와 Dani @Reference2 가 조리대에서 채소를 썰며 Elar
 **작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **게시일:** Sep 3, 2026
 
 ---
-### 추상적인 광자 변환 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빛의 광자가 두려움과 고통 같은 부정적인 감정을 사랑과 행복으로 변화시키는 모습을 묘사한 개념적 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-아름다운 색의 광자들이 두려움을 사랑으로, 악을 선함으로, 고통을 행복으로 변화시키는 영상을 만들어 주세요
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="추상적인 광자 변환 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10338)**
-
-**작성자:** [Joane](https://x.com/thejoaneunit) | **출처:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **게시일:** Sep 3, 2026
-
----
-### 플레야데스 모선 Ultra HD
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 볼류메트릭 조명을 갖춘 원반형 모선을 생성하기 위한 고해상도 SF 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-빛의 우주선과 원반형 모선에 탑승한 플레야데스인, 걸작, Ultra HD 고화질 11111111111111111199999999999999 k 해상도, 볼류메트릭 밝은 조명 색조 및 음영
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="플레야데스 모선 Ultra HD">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10336)**
-
-**작성자:** [Pleiadians Paradise](https://x.com/Octillion111111) | **출처:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **게시일:** Sep 3, 2026
-
----
-### 앤티크 로즈 가든 하베스트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 앤티크 장미 꽃다발을 수확하기 위해 장미 정원 오솔길을 조용히 걷는 모습을 담은 평화로운 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-구불구불한 정원 오솔길을 조용히 거닐며 가장 아름다운 앤티크 장미를 수확해 보세요. 옷깃에 꽂을 한 송이, 당신의 고요한 사색을 위한 한 송이, 그리고 당신의 하루에 우아함을 더해줄 풍성한 꽃다발까지 준비되어 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095427392282271744/img/lJLVCUpMCoZD08b0.jpg" width="600" alt="앤티크 로즈 가든 하베스트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10540)**
-
-**작성자:** [Scarlett](https://x.com/scarlettzen1) | **출처:** [Link](https://x.com/scarlettzen1/status/2095427461093666845) | **게시일:** Sep 3, 2026
-
----
-### 애니메이션으로 구현된 야옹거리는 태비 고양이
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 달걀 껍데기 사이에 있는 태비 고양이를 위한 상세한 비디오 애니메이션 프롬프트입니다. 사실적인 야옹거리는 동작, 고개를 까닥이는 모습, 햇살 속에서 떠다니는 먼지 입자를 특징으로 합니다.
-
-#### 📝 프롬프트
-
-```
-달걀 껍데기 사이에서 야옹거리는 태비 고양이를 애니메이션으로 구현하세요: 고양이가 야옹거리거나 하악질을 하는 듯 입을 움직이고, 고개를 살짝 까닥이며, 꼬리를 실룩거립니다. 강렬한 햇살 속에서 먼지 입자가 떠다니며, 생동감 넘치는 사실적인 움직임을 보여줍니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="애니메이션으로 구현된 야옹거리는 태비 고양이">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10285)**
-
-**작성자:** [Jordan Ardani](https://x.com/JordanArdady) | **출처:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **게시일:** Sep 3, 2026
-
----
-### 햇살 가득한 장미 정원의 평온함
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 꽃잎이 흩날리고 따스한 빛이 내리쬐는 가운데, 장미 향기를 맡는 여성의 평온한 순간을 담은 시적인 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-햇살이 내리쬐는 장미 정원에서의 고요한 순간, 그녀가 잠시 멈춰 서서 꽃향기를 들이마시며 미소 짓습니다. 부드러운 빛과 흩날리는 꽃잎, 그리고 회화적인 분위기. 한 번의 숨결 속에 담긴 평온함입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="햇살 가득한 장미 정원의 평온함">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10286)**
-
-**작성자:** [Ashutosh](https://x.com/Bhart0678) | **출처:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **게시일:** Sep 3, 2026
-
----
-### 비 내리는 숲속의 신비로운 빛
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 비 내리는 숲속에서 따스하게 깜빡이는 빛을 발견하는 여성의 15초 분량 시퀀스를 위한 고도로 상세한 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이 이미지를 바탕으로 15초 분량의 사실적인 시네마틱 영상을 제작하세요. 여성의 얼굴, 헤어스타일, 젖은 머리카락, 검은색 우비, 회색 스카프, 신체 비율, 숲 환경, 빗줄기, 조명 및 구도를 정확하게 유지하세요. 0~4초: 그녀는 쏟아지는 빗속에 가만히 서서 눈을 감고 고개를 살짝 들어 빗줄기를 평온하게 즐깁니다. 젖은 머리카락과 윤기 나는 우비를 타고 물이 자연스럽게 흘러내립니다. 차가운 바람에 스카프가 부드럽게 흔들립니다. 4~7초: 그녀 뒤편 숲속 깊은 곳에서 희미하고 따스한 빛이 갑자기 나타납니다. 처음에는 빗속과 안개 사이로 멀리서 비치는 등불처럼 거의 눈에 띄지 않습니다. 그녀가 천천히 눈을 뜹니다. 7~10초: 그녀가 이 낯선 빛을 알아차립니다. 평온했던 표정이 호기심 어린 표정으로 바뀝니다. 그녀는 천천히 고개를 돌려 주위로 비가 내리는 나무 사이를 응시합니다. 10~13초: 따스한 빛이 조금 더 밝아지며 안개 속에서 부드럽게 깜빡입니다. 그녀는 신비로운 빛에 시선을 고정한 채 조심스럽게 한 걸음을 내딛습니다. 카메라는 그녀의 움직임에 맞춰 미세하게 이동합니다. 13~15초: 그녀가 다시 한 걸음을 내딛는 순간, 빛이 갑자기 사라집니다. 그녀는 멈춰 서서 나무 사이의 어둠을 응시하며 당혹스러운 표정을 짓습니다. 빗소리 외에는 정적이 흐릅니다. 화면이 검게 전환됩니다. 사실적인 시네마틱 리얼리즘, 분위기 있는 비 내리는 숲, 사실적인 빗줄기와 안개, 젖은 머리카락과 의상, 자연스러운 바람의 움직임, 섬세한 표정 연기, 자연스러운 걷기 동작, 깊이감 있는 숲의 원근감, 차가운 청회색 배경과 대비되는 멀리서 비치는 따스한 호박색 빛, 얕은 피사계 심도, 미세한 핸드헬드 카메라 움직임. 빛은 나무에 가려진 채 멀리 유지되어야 하며, 그 근원을 절대 드러내지 마세요. 초자연적인 존재, 다른 사람, 공포 괴물, 깜짝 놀라게 하는 연출, 과장된 반응, 장면 전환, 얼굴 변화, 의상 변화, 일그러진 손, 형태 변형은 포함하지 마세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="비 내리는 숲속의 신비로운 빛">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10283)**
-
-**작성자:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **출처:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **게시일:** Sep 3, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2261,6 +2261,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-11T04:20:25.986Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-11T12:59:01.480Z</sub>
 
 </div>

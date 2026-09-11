@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2789** |
+| 📝 Total Prompts | **2795** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-11** |
 
@@ -189,6 +189,101 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Hiệp sĩ khoa học viễn tưởng phong cách Klimt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt cực kỳ chi tiết kết hợp phong cách nghệ thuật của Gustav Klimt với các yếu tố khoa học viễn tưởng tương lai như hiệp sĩ mặc giáp và cung điện không gian.
+
+#### 📝 Prompt
+
+```
+Không nói chuyện… Bức tranh sơn dầu đầy mơ mộng theo phong cách Klimt về một hiệp sĩ khoa học viễn tưởng mặc giáp, quyến rũ, đẹp trai, tương lai, thuần khiết đang ôm một người phụ nữ đáng yêu, tàu vũ trụ, cung điện không gian, thác nước, ánh sáng, không có thêm cánh tay thừa…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098280958990684160/img/Iunubct5b1JoM7nk.jpg" width="600" alt="Hiệp sĩ khoa học viễn tưởng phong cách Klimt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10743)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2098281502828290435) | **Published:** Sep 11, 2026
+
+---
+### Người phụ nữ Pháp tại Galleria Borghese
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video đậm chất điện ảnh với hình ảnh một người phụ nữ Pháp có vóc dáng như tượng tạc trong phòng trưng bày nghệ thuật, mang phong cách thẩm mỹ mùa thu trầm lắng.
+
+#### 📝 Prompt
+
+```
+Một cô gái Pháp trẻ trung, vóc dáng như tượng tạc trong phòng trưng bày Galleria Borghese, mặc trang phục mùa thu với tông màu trầm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097730338063867904/img/SmNwegNFPyTKV9X-.jpg" width="600" alt="Người phụ nữ Pháp tại Galleria Borghese">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10740)**
+
+**Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **Published:** Sep 11, 2026
+
+---
+### Biên đạo múa truyền thống Trung Hoa
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một video prompt chi tiết về một phụ nữ Đông Á 20 tuổi đang biểu diễn điệu múa truyền thống trong bộ váy màu hồng và vàng thướt tha, bao gồm các bước biên đạo và chi tiết chuyển động cụ thể.
+
+#### 📝 Prompt
+
+```
+Nữ giới Đông Á 20 tuổi, giữ nguyên ngoại hình và các động đạo múa. Mặc bộ váy cổ trang cao cấp dáng quây, tay rộng, thướt tha với dải màu chuyển từ hồng sang trắng và vàng; chân váy được thêu họa tiết hoa bằng chỉ vàng, kết hợp cùng dải lụa mỏng trong suốt viền vàng. Chất liệu vải chuyển động tự nhiên và sống động theo gió, chân váy có độ rủ tốt và được trang trí bằng các phụ kiện ngọc trai tinh xảo. Mang giày vải đế mềm thêu họa tiết cổ trang tinh tế, tổng thể toát lên vẻ lộng lẫy và dịu dàng. Có mặc quần lót bên trong để đảm bảo sự kín đáo khi thực hiện các động tác chân cao. Múa uyển chuyển theo gió; nhẹ nhàng và linh hoạt; tóc đen dài búi kiểu cổ trang với các phụ kiện cài tóc tinh xảo đồng bộ. Tư thế bắt đầu: đứng trên chân trái, chân phải gập về phía trước, thân người hơi nghiêng về phía chân phải, mắt nhìn xuống; tay phải đưa lên phía trên bên phải đầu, tay trái duỗi ra phía sau và hướng lên trên. 1. Cơ thể từ từ đứng thẳng, hơi ngả ra sau, chân phải đồng thời nâng thẳng lên, hai tay đặt lên thái dương, vai lắc nhẹ, đầu xoay một vòng tròn; 2. Tay trái xoay quanh đầu từ trên xuống dưới, tay phải xoay quanh ngực từ dưới lên trên; 3. Cơ thể xoay sang trái, mắt nhìn xuống, các ngón tay đan chéo trước mặt, hai tay từ từ tách ra; 4. Tay phải vung lên, tay trái duỗi xuống, chân phải vẽ một vòng cung để xoay cơ thể; 5. Chân phải đặt xuống, chân trái móc vào trong, cơ thể ngả ra sau 90 độ trong khi xoay mượt mà, mắt nhắm hờ mỉm cười, lòng bàn tay đặt dưới cằm lắc nhẹ; 6. Đứng hình với hai tay vẽ một vòng cung quanh phần thân trên; 7. Ngón cái và ngón trỏ chạm nhau, đưa từ ngực lên trên đầu; 8. Cơ thể xoay sang phải, tay trái vẽ vòng cung đến cằm, đầu ngón tay phải lướt qua lông mày rồi vươn ra phía trên bên phải, cổ tay ấn ra ngoài kèm theo hai cái lắc nhẹ của phụ kiện vàng. Bầu không khí: Nhạc trống heavy metal, nhịp điệu tươi sáng; ánh sáng mềm mại dạng khối, kết cấu da tinh tế, chuyển động của tóc và vải tự nhiên, động lực học mượt mà. Negative: mờ, độ phân giải thấp, chi tiết chân tay bị biến dạng, lag chuyển động, có hình mờ. Tạo video 15 giây nhất quán. Tỷ lệ khung hình 9:16.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789112669710_10a9cd_HR5gsMZbwAAWt4k.png" width="600" alt="Biên đạo múa truyền thống Trung Hoa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10745)**
+
+**Author:** [George Qiao](https://x.com/QiaoGeorge) | **Source:** [Link](https://x.com/QiaoGeorge/status/2098223994134794350) | **Published:** Sep 11, 2026
+
+---
+### Vòng lặp hoạt hình phòng ngủ ngắn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh ngắn gọn cho video vòng lặp dài 6 giây với các nhân vật trong căn phòng dưới ánh nến.
+
+#### 📝 Prompt
+
+```
+Video dài 6 giây. Giữ nguyên phòng ngủ của Mía Gabriel làm BASE. Tỷ lệ 9:16, ánh nến. CHỈ tạo chuyển động. Giữ nguyên khuôn mặt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098149376677810191/img/n3LdIimrezq2cBqz.jpg" width="600" alt="Vòng lặp hoạt hình phòng ngủ ngắn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10744)**
+
+**Author:** [Gabriel](https://x.com/riquitoboy47) | **Source:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **Published:** Sep 10, 2026
+
+---
+### Hoạt ảnh Cây Liễu Rủ Vàng Nóng Chảy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo hoạt ảnh trong đó các giọt vàng nóng chảy kết hợp lại và phát triển thành một cây liễu rủ với những viên ngọc trai đen trên nền xám than.
+
+#### 📝 Prompt
+
+```
+Năm giọt vàng nóng chảy nằm trên mặt đất. Chúng từ từ kết hợp lại và vươn lên thành hình dáng của một cây liễu rủ, với những cành cây trĩu nặng những viên ngọc trai đen lấp lánh, nổi bật trên nền xám than có kết cấu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="Hoạt ảnh Cây Liễu Rủ Vàng Nóng Chảy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10742)**
+
+**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **Published:** Sep 10, 2026
+
+---
 ### Cảnh phân cảnh giao thoa Anime
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -205,7 +300,7 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10687)**
 
-**Author:** [思考小朋友的未來](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
+**Author:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
 
 ---
 ### Hoạt ảnh tập luyện HIIT trên máy tập Elliptical phong cách Anime
@@ -244,6 +339,25 @@ Một cô gái đơn độc ngồi trên mái của một ngôi nhà nhỏ ở v
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10678)**
 
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **Published:** Sep 10, 2026
+
+---
+### Phân công giảng dạy tại trường trung học
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video gợi ý mô tả cảnh hiệu trưởng phân công nhiệm vụ giảng dạy cho phụ huynh và sinh viên năm cuối đại học trong bối cảnh một trường trung học tại California.
+
+#### 📝 Prompt
+
+```
+Hiệu trưởng trường trung học tại California phân công nhiệm vụ giảng dạy trong hai tuần cho các phụ huynh cùng với sinh viên năm cuối đại học
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="Phân công giảng dạy tại trường trung học">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10741)**
+
+**Author:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **Source:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **Published:** Sep 10, 2026
 
 ---
 ### Video hướng dẫn làm bánh mì bơ tỏi
@@ -378,7 +492,7 @@ Lần lượt nhìn sang trái và phải rồi vẫy tay theo từng hướng. 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10688)**
 
-**Author:** [Mofuyama works | Art plush & illustrations](https://x.com/no_mofu_no_life) | **Source:** [Link](https://x.com/no_mofu_no_life/status/2097693136382566808) | **Published:** Sep 9, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **Published:** Sep 9, 2026
 
 ---
 ### Gợi ý video chú mèo ngầu đeo kính
@@ -2086,120 +2200,6 @@ Cận cảnh điện ảnh một nữ thợ mỏ lấm lem than đá trong đư�
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
 
 ---
-### Video trừu tượng về sự chuyển hóa photon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video mang tính khái niệm, mô tả các hạt photon ánh sáng chuyển hóa những cảm xúc tiêu cực như nỗi sợ hãi và đau khổ thành tình yêu và hạnh phúc.
-
-#### 📝 Prompt
-
-```
-Tạo một video trong đó các hạt photon màu sắc tuyệt đẹp chuyển hóa nỗi sợ hãi thành tình yêu, cái ác thành điều thiện và sự đau khổ thành hạnh phúc
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="Video trừu tượng về sự chuyển hóa photon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10338)**
-
-**Author:** [Joane](https://x.com/thejoaneunit) | **Source:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **Published:** Sep 3, 2026
-
----
-### Pleiadian Mothership Ultra HD
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh khoa học viễn tưởng độ phân giải cao để tạo ra các tàu mẹ hình đĩa với hiệu ứng ánh sáng thể tích.
-
-#### 📝 Prompt
-
-```
-Người Pleiadian trên các tàu ánh sáng và tàu mẹ hình đĩa, kiệt tác, độ phân giải siêu nét ultra HD 11111111111111111199999999999999 k, tông màu và đổ bóng ánh sáng rực rỡ theo thể tích
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="Pleiadian Mothership Ultra HD">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10336)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **Published:** Sep 3, 2026
-
----
-### Thu hoạch tại Vườn Hồng Cổ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video đầy thư thái, mô tả chuyến dạo bộ yên bình dọc theo những lối đi trong vườn hồng để thu hoạch một bó hồng cổ.
-
-#### 📝 Prompt
-
-```
-Lặng lẽ bước đi dọc theo những lối mòn quanh co trong vườn để thu hoạch những đóa hồng cổ tuyệt đẹp nhất — một đóa cài lên ve áo, một đóa cho những phút giây trầm tư, và một bó hoa thật lớn đơn giản vì ngày hôm nay của bạn xứng đáng nhận thêm những điều dịu dàng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095427392282271744/img/lJLVCUpMCoZD08b0.jpg" width="600" alt="Thu hoạch tại Vườn Hồng Cổ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10540)**
-
-**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2095427461093666845) | **Published:** Sep 3, 2026
-
----
-### Video hoạt họa mèo mướp kêu meo meo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt video hoạt họa chi tiết về chú mèo mướp giữa các mảnh vỏ trứng, với các chuyển động kêu meo meo chân thực, cái đầu lắc lư và những hạt bụi bay lơ lửng trong ánh nắng.
-
-#### 📝 Prompt
-
-```
-Tạo hoạt họa chú mèo mướp đang kêu meo meo giữa các mảnh vỏ trứng: miệng mèo cử động như đang kêu meo meo hoặc khè, đầu lắc lư nhẹ, đuôi ngoe nguẩy, các hạt bụi bay lơ lửng trong ánh nắng gay gắt, chuyển động sống động chân thực.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="Video hoạt họa mèo mướp kêu meo meo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10285)**
-
-**Author:** [Jordan Ardani](https://x.com/JordanArdady) | **Source:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **Published:** Sep 3, 2026
-
----
-### Sự bình yên trong vườn hồng ngập nắng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video đầy chất thơ, ghi lại khoảnh khắc tĩnh lặng của một người phụ nữ đang hít hà hương thơm của đóa hồng giữa những cánh hoa rơi và ánh sáng ấm áp.
-
-#### 📝 Prompt
-
-```
-Một khoảnh khắc tĩnh lặng trong vườn hồng ngập nắng, cô ấy dừng lại, hít hà hương hoa và mỉm cười. Ánh sáng dịu nhẹ, những cánh hoa rơi và vẻ đẹp tựa như tranh vẽ. Sự bình yên gói gọn trong một nhịp thở.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="Sự bình yên trong vườn hồng ngập nắng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10286)**
-
-**Author:** [Ashutosh](https://x.com/Bhart0678) | **Source:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **Published:** Sep 3, 2026
-
----
-### Ánh sáng bí ẩn trong rừng mưa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video điện ảnh cực kỳ chi tiết cho phân cảnh dài 15 giây về một người phụ nữ trong rừng mưa đang phát hiện ra một luồng sáng ấm áp lập lòe.
-
-#### 📝 Prompt
-
-```
-Tạo một video điện ảnh chân thực (photorealistic) dài 15 giây từ hình ảnh chính xác này. Giữ nguyên khuôn mặt, kiểu tóc, mái tóc ướt, áo mưa đen, khăn quàng cổ xám, tỷ lệ cơ thể, môi trường rừng, lượng mưa, ánh sáng và bố cục của người phụ nữ. 0–4 giây: Cô ấy đứng hoàn toàn bất động dưới cơn mưa lớn, nhắm mắt và hơi nghiêng mặt lên trên, tận hưởng cơn mưa một cách bình yên. Nước chảy tự nhiên qua mái tóc ướt và xuống chiếc áo mưa bóng loáng của cô. Khăn quàng cổ khẽ lay động trong làn gió lạnh. 4–7 giây: Một luồng sáng ấm áp mờ nhạt đột nhiên xuất hiện sâu giữa những tán cây phía sau cô. Ban đầu, ánh sáng gần như không thể nhận ra, giống như một chiếc đèn lồng ở xa đang tỏa sáng xuyên qua màn mưa và sương mù. Cô từ từ mở mắt. 7–10 giây: Cô nhận thấy luồng sáng lạ thường. Biểu cảm của cô thay đổi từ bình yên sang tò mò. Cô chậm rãi quay đầu về phía đó, nhìn chằm chằm vào khoảng không giữa những cái cây trong khi mưa vẫn tiếp tục rơi xung quanh. 10–13 giây: Luồng sáng ấm áp trở nên sáng hơn một chút và lập lòe nhẹ nhàng xuyên qua màn sương. Cô thận trọng bước một bước về phía đó, mắt dán chặt vào ánh sáng bí ẩn. Máy quay di chuyển nhẹ nhàng theo cô. 13–15 giây: Ngay khi cô bước thêm một bước nữa, ánh sáng đột ngột biến mất. Cô dừng lại và nhìn chằm chằm vào bóng tối giữa những cái cây, vẻ mặt lộ rõ sự bối rối. Một khoảng lặng bao trùm, chỉ còn tiếng mưa rơi. Chuyển sang màn hình đen. Độ chân thực điện ảnh (photorealistic), rừng mưa đầy không khí, mưa và sương mù chân thực, tóc và quần áo ướt, chuyển động gió tự nhiên, diễn xuất khuôn mặt tinh tế, chuyển động đi bộ đáng tin cậy, phối cảnh rừng sâu, môi trường xanh xám lạnh tương phản với ánh sáng vàng ấm áp ở xa, độ sâu trường ảnh nông, chuyển động máy quay cầm tay tinh tế. Luồng sáng phải duy trì ở khoảng cách xa và bị che khuất một phần bởi cây cối; tuyệt đối không để lộ nguồn sáng. Không có sinh vật siêu nhiên, không có người khác, không có quái vật kinh dị, không có cảnh hù dọa (jump scare), không có phản ứng thái quá, không có chuyển cảnh, không thay đổi khuôn mặt, không thay đổi trang phục, không có bàn tay bị biến dạng, không có hiện tượng biến hình (morphing).
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="Ánh sáng bí ẩn trong rừng mưa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10283)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **Published:** Sep 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2261,6 +2261,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-11T04:20:27.619Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-11T12:59:03.873Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2789** |
+| 📝 Total Prompts | **2795** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-11** |
 
@@ -189,6 +189,101 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Sci-Fi-Ritter im Klimt-Stil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Video-Prompt, der den künstlerischen Stil von Gustav Klimt mit futuristischen Sci-Fi-Elementen wie gepanzerten Rittern und Weltraum-Palästen kombiniert.
+
+#### 📝 Prompt
+
+```
+Kein Gerede… Verträumtes Ölgemälde im Stil von Klimt von einem charmanten, gutaussehenden, futuristischen Sci-Fi-Ritter in Rüstung, der eine reizende Frau hält, Raumschiffe, Weltraum-Paläste, Wasserfälle, Licht, keine zusätzlichen Arme…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098280958990684160/img/Iunubct5b1JoM7nk.jpg" width="600" alt="Sci-Fi-Ritter im Klimt-Stil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10743)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2098281502828290435) | **Published:** Sep 11, 2026
+
+---
+### Französin in der Galleria Borghese
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt, der eine statuenhafte Französin in einer Kunstgalerie zeigt, gestaltet in einer gedeckten herbstlichen Ästhetik.
+
+#### 📝 Prompt
+
+```
+Eine junge, statuenhafte Französin in einer Galerie der Galleria Borghese, bekleidet mit einem gedeckten Herbst-Outfit.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097730338063867904/img/SmNwegNFPyTKV9X-.jpg" width="600" alt="Französin in der Galleria Borghese">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10740)**
+
+**Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **Published:** Sep 11, 2026
+
+---
+### Choreografie für traditionellen chinesischen Tanz
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Video-Prompt für eine 20-jährige ostasiatische Frau, die einen traditionellen Tanz in einem fließenden rosa-goldenen Gewand aufführt, inklusive spezifischer Choreografie-Schritte und Bewegungsdetails.
+
+#### 📝 Prompt
+
+```
+20-jährige ostasiatische Frau, gleichbleibendes Aussehen und gleiche Tanzbewegungen. Sie trägt ein hochwertiges, antik anmutendes, brusthohes Kleid mit weiten Ärmeln in einem Farbverlauf von Rosa, Weiß und Gold. Der Rock ist mit floralen Mustern aus Goldfaden bestickt und mit dünnen, transparenten, goldgeränderten Gaze-Bändern versehen. Der Stoff fließt natürlich und dynamisch im Wind, der Rock hat einen starken Fall und ist mit feinen Perlenornamenten verziert. Exquisite, antik bestickte Schuhe mit weicher Sohle; das Gesamtbild ist prachtvoll und sanft. Inklusive Unterhose, um bei hohen Beinbewegungen Diskretion zu wahren. Sie tanzt anmutig im Wind; leicht und agil; langes schwarzes Haar in einem antiken Dutt mit passendem, exquisitem Haarschmuck. Ausgangsposition: Stehend auf dem linken Bein, rechtes Bein nach vorne gebeugt, Körper nach vorne gegen das rechte Bein gelehnt, Blick gesenkt; rechte Hand oben rechts am Kopf erhoben, linke Hand nach hinten und oben gestreckt. 1. Der Körper richtet sich langsam auf, lehnt sich leicht zurück, das rechte Bein wird gleichzeitig gerade nach oben gehoben, Hände an den Schläfen, Schultern schütteln sich sanft, der Kopf führt eine volle Drehung aus; 2. Die linke Hand kreist von oben nach unten um den Kopf, die rechte Hand kreist von unten nach oben um die Brust; 3. Der Körper dreht sich nach links, Blick nach unten, Finger über dem Gesicht gekreuzt, Hände trennen sich langsam; 4. Die rechte Hand schwingt nach oben, die linke Hand streckt sich nach unten, das rechte Bein beschreibt einen kreisförmigen Bogen, um den Körper zu drehen; 5. Das rechte Bein landet, das linke Bein hakt nach innen, der Körper lehnt sich bei einer sanften Drehung um 90 Grad zurück, Augen geschlossen mit einem Lächeln, Handflächen am Kinn leicht schüttelnd; 6. Standbild, bei dem die Hände einen kreisförmigen Bogen um den Oberkörper ziehen; 7. Daumen und Zeigefinger berühren sich, von der Brust bis über den Kopf gehoben; 8. Der Körper dreht sich nach rechts, die linke Hand beschreibt einen Bogen zum Kinn, die rechten Fingerspitzen streifen die Augenbraue und strecken sich dann nach oben rechts, das Handgelenk wird mit zwei Schüttelbewegungen des Goldschmucks nach außen gedrückt. Atmosphäre: Heavy-Metal-Trommelmusik, heller Rhythmus; volumetrisches weiches Licht, zarte Hauttextur, natürliche Haar- und Stoffbewegung, flüssige Dynamik. Negativ: verschwommen, niedrige Auflösung, deformierte Gliedmaßen, Bewegungsverzögerung, Wasserzeichen. Erzeuge ein 15-sekündiges, kohärentes Video. Seitenverhältnis 9:16.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789112669710_10a9cd_HR5gsMZbwAAWt4k.png" width="600" alt="Choreografie für traditionellen chinesischen Tanz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10745)**
+
+**Author:** [George Qiao](https://x.com/QiaoGeorge) | **Source:** [Link](https://x.com/QiaoGeorge/status/2098223994134794350) | **Published:** Sep 11, 2026
+
+---
+### Kurzer Schlafzimmer-Animations-Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein prägnanter Prompt für einen 6-sekündigen Video-Loop mit Charakteren in einem bei Kerzenschein beleuchteten Raum.
+
+#### 📝 Prompt
+
+```
+6 Sekunden Video. Exakt dasselbe Schlafzimmer von Mía Gabriel als BASIS. 9:16 Kerzenlicht. NUR animieren. Gleiche Gesichter.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098149376677810191/img/n3LdIimrezq2cBqz.jpg" width="600" alt="Kurzer Schlafzimmer-Animations-Loop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10744)**
+
+**Author:** [Gabriel](https://x.com/riquitoboy47) | **Source:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **Published:** Sep 10, 2026
+
+---
+### Animation einer Trauerweide aus flüssigem Gold
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein animierter Prompt, bei dem Tropfen aus flüssigem Gold verschmelzen und zu einer Trauerweide mit schwarzen Perlen vor einem anthrazitfarbenen Hintergrund heranwachsen.
+
+#### 📝 Prompt
+
+```
+Fünf Tropfen aus flüssigem Gold liegen auf dem Boden. Sie verschmelzen langsam und wachsen in die Form einer Trauerweide empor, deren Zweige schwer mit glänzenden schwarzen Perlen behangen sind, vor einer Kulisse in texturiertem Anthrazit.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="Animation einer Trauerweide aus flüssigem Gold">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10742)**
+
+**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **Published:** Sep 10, 2026
+
+---
 ### Anime-Crossover-Storyboard-Szene
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -205,7 +300,7 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10687)**
 
-**Author:** [思考小朋友的未來](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
+**Author:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
 
 ---
 ### Anime HIIT Ellipsentrainer-Workout-Animation
@@ -244,6 +339,25 @@ Ein einsames Mädchen sitzt nachts auf dem Dach eines kleinen Landhauses, umarmt
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10678)**
 
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **Published:** Sep 10, 2026
+
+---
+### Lehrauftrag an einer High School
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, der einen Schulleiter zeigt, wie er Eltern und College-Absolventen an einer kalifornischen High School Lehraufgaben zuweist.
+
+#### 📝 Prompt
+
+```
+Ein Schulleiter einer kalifornischen High School weist Eltern und College-Absolventen ihre zweiwöchigen Lehraufträge zu
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="Lehrauftrag an einer High School">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10741)**
+
+**Author:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **Source:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **Published:** Sep 10, 2026
 
 ---
 ### Video-Anleitung: Knoblauchbrot zubereiten
@@ -378,7 +492,7 @@ Schau nacheinander nach links und rechts und winke in jede Richtung. Drehe dich 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10688)**
 
-**Author:** [Mofuyama works | Art plush & illustrations](https://x.com/no_mofu_no_life) | **Source:** [Link](https://x.com/no_mofu_no_life/status/2097693136382566808) | **Published:** Sep 9, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **Published:** Sep 9, 2026
 
 ---
 ### Video-Prompt: Cooler Kater mit Brille
@@ -2086,120 +2200,6 @@ Filmische Nahaufnahme einer kohlebedeckten Bergarbeiterin in einem dunklen, krei
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
 
 ---
-### Abstraktes Video zur Photonen-Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein konzeptioneller Video-Prompt, der zeigt, wie Lichtphotonen negative Emotionen wie Angst und Leid in Liebe und Glück verwandeln.
-
-#### 📝 Prompt
-
-```
-Erstelle ein Video, in dem wunderschöne farbige Photonen Angst in Liebe, das Böse in das Gute und Leid in Glück verwandeln
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095639688862175234/img/Uqm9DXixJWp70XOk.jpg" width="600" alt="Abstraktes Video zur Photonen-Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10338)**
-
-**Author:** [Joane](https://x.com/thejoaneunit) | **Source:** [Link](https://x.com/thejoaneunit/status/2095639716297114090) | **Published:** Sep 3, 2026
-
----
-### Pleiadian Mothership Ultra HD
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochauflösender Sci-Fi-Prompt zur Generierung von untertassenförmigen Mutterschiffen mit volumetrischer Beleuchtung.
-
-#### 📝 Prompt
-
-```
-Plejader in Lichtschiffen und untertassenförmigen Mutterschiffen, Meisterwerk, Ultra-HD-Qualität, 11111111111111111199999999999999 k Auflösung, volumetrische helle Beleuchtung, Farbtöne und Schattierungen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095538341324390401/img/JHfZmoUs8fxfMa0l.jpg" width="600" alt="Pleiadian Mothership Ultra HD">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10336)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2095538431971688609) | **Published:** Sep 3, 2026
-
----
-### Ernte im antiken Rosengarten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein friedlicher Video-Prompt, der einen ruhigen Spaziergang durch die Pfade eines Rosengartens illustriert, um einen Strauß antiker Rosen zu pflücken.
-
-#### 📝 Prompt
-
-```
-Gleiten Sie leise die gewundenen Gartenpfade entlang, um die schönsten antiken Rosen zu ernten – eine für Ihr Revers, eine für Ihre stillen Träumereien und ein üppiger Strauß, einfach weil Ihr Tag ein zusätzliches Maß an Anmut verdient.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095427392282271744/img/lJLVCUpMCoZD08b0.jpg" width="600" alt="Ernte im antiken Rosengarten">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10540)**
-
-**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2095427461093666845) | **Published:** Sep 3, 2026
-
----
-### Animierte miauende getigerte Katze
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Animations-Prompt für eine getigerte Katze inmitten von Eierschalen, mit realistischen Miaubewegungen, Kopfnicken und schwebenden Staubpartikeln im Sonnenlicht.
-
-#### 📝 Prompt
-
-```
-Animieren Sie die miauende getigerte Katze inmitten von Eierschalen: Das Maul der Katze bewegt sich, als würde sie miauen oder fauchen, der Kopf nickt leicht, der Schwanz zuckt, Staubpartikel schweben im grellen Sonnenlicht, realistische und lebendige Bewegungen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095412860285513728/img/9v1E_gjrzWlZXuhU.jpg" width="600" alt="Animierte miauende getigerte Katze">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10285)**
-
-**Author:** [Jordan Ardani](https://x.com/JordanArdady) | **Source:** [Link](https://x.com/JordanArdady/status/2095412949867200741) | **Published:** Sep 3, 2026
-
----
-### Frieden im sonnendurchfluteten Rosengarten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein poetischer Video-Prompt, der einen ruhigen Moment einfängt: Eine Frau atmet inmitten fallender Blütenblätter und warmem Licht den Duft einer Rose ein.
-
-#### 📝 Prompt
-
-```
-Ein stiller Moment in einem sonnendurchfluteten Rosengarten; sie hält inne, atmet den Duft der Blüte ein und lächelt. Weiches Licht, fallende Blütenblätter und dieser malerische Glanz. Frieden in einem einzigen Atemzug.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095399039038795776/img/DjnxP9Vuou2NRCyi.jpg" width="600" alt="Frieden im sonnendurchfluteten Rosengarten">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10286)**
-
-**Author:** [Ashutosh](https://x.com/Bhart0678) | **Source:** [Link](https://x.com/Bhart0678/status/2095399312587157725) | **Published:** Sep 3, 2026
-
----
-### Geheimnisvolles Licht im verregneten Wald
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, kinoreifer Video-Prompt für eine 15-sekündige Sequenz, in der eine Frau in einem verregneten Wald ein flackerndes, warmes Licht entdeckt.
-
-#### 📝 Prompt
-
-```
-Erstelle ein fotorealistisches, kinoreifes 15-sekündiges Video auf Basis dieses exakten Bildes. Behalte das Gesicht, die Frisur, das nasse Haar, den schwarzen Regenmantel, den grauen Schal, die Körperproportionen, die Waldumgebung, den Regen, die Beleuchtung und die Komposition der Frau exakt bei. 0–4 Sek.: Sie steht völlig still im starken Regen, die Augen geschlossen und das Gesicht leicht nach oben geneigt, während sie den Regen friedlich genießt. Wasser läuft natürlich durch ihr nasses Haar und ihren glänzenden Regenmantel hinunter. Ihr Schal bewegt sich sanft in der kalten Brise. 4–7 Sek.: Ein schwaches, warmes Licht erscheint plötzlich tief zwischen den Bäumen hinter ihr. Zuerst ist es kaum wahrnehmbar, wie eine ferne Laterne, die durch den Regen und Nebel leuchtet. Sie öffnet langsam ihre Augen. 7–10 Sek.: Sie bemerkt das ungewöhnliche Licht. Ihr Ausdruck wandelt sich von friedlich zu neugierig. Sie dreht langsam den Kopf in diese Richtung und starrt zwischen die Bäume, während der Regen um sie herum weiterfällt. 10–13 Sek.: Das warme Licht wird etwas heller und flackert sanft durch den Nebel. Sie macht einen vorsichtigen Schritt darauf zu, ihre Augen auf das geheimnisvolle Leuchten fixiert. Die Kamera bewegt sich subtil mit ihr. 13–15 Sek.: Gerade als sie einen weiteren Schritt macht, verschwindet das Licht plötzlich. Sie hält inne und starrt in die Dunkelheit zwischen den Bäumen, sichtlich verwirrt. Ein Moment der Stille, nur der Regen ist zu hören. Schnitt auf Schwarz. Fotorealistischer cineastischer Realismus, atmosphärischer Regenwald, realistischer Regen und Nebel, nasses Haar und Kleidung, natürliche Windbewegung, subtiles Schauspiel, glaubwürdige Gehbewegung, tiefe Waldperspektive, kühle blau-graue Umgebung im Kontrast zu einem fernen warmen bernsteinfarbenen Licht, geringe Schärfentiefe, subtile Handkamera-Bewegung. Das Licht muss in der Ferne bleiben und teilweise von Bäumen verdeckt sein; die Quelle darf niemals enthüllt werden. Keine übernatürlichen Wesen, keine weitere Person, kein Horrormonster, kein Jump-Scare, keine übertriebene Reaktion, keine Szenenübergänge, keine Gesichtsveränderungen, keine Outfit-Wechsel, keine verzerrten Hände, kein Morphing.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095362602394357760/img/5wNXh33bheXON9OH.jpg" width="600" alt="Geheimnisvolles Licht im verregneten Wald">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10283)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2095362901326598521) | **Published:** Sep 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2261,6 +2261,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-11T04:20:33.280Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-11T12:59:08.570Z</sub>
 
 </div>
