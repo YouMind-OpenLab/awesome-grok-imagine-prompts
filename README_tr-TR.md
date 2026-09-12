@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2795** |
+| 📝 Total Prompts | **2804** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-12** |
 
@@ -189,6 +189,171 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### I Am Legend Optimus Prime Fragmanı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Will Smith'in yerine bir Tesla Optimus robotunun geçtiği bir film fragmanı senaryosu oluşturmak için Grok Imagine'e yönelik sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+I Am Legend film fragmanı; ancak Will Smith yerine Tesla Optimus var, insanlar yok olduktan sonra ayakta kalan son robot o.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098674271413280775/img/ASmQlDMZovJCgISu.jpg" width="600" alt="I Am Legend Optimus Prime Fragmanı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10802)**
+
+**Author:** [PokeDon](https://x.com/Pokedoncards) | **Source:** [Link](https://x.com/Pokedoncards/status/2098674288786084172) | **Published:** Sep 12, 2026
+
+---
+### Lady StarWeaver ve Leopar Yavruları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Elf ormanında bir kadın ve leopar yavrularını içeren fantastik bir sahne için betimleyici bir istem.
+
+#### 📝 Prompt
+
+```
+Lady StarWeaver ve iki Siyah Leopar yavrusu, derin Elf Ormanı'nda yaşamaktadır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098670972870025224/img/Skv-29rGkaq6s5Xl.jpg" width="600" alt="Lady StarWeaver ve Leopar Yavruları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10803)**
+
+**Author:** [Judy Powell](https://x.com/Judy_2026) | **Source:** [Link](https://x.com/Judy_2026/status/2098671027093905837) | **Published:** Sep 12, 2026
+
+---
+### Şekil Değiştirici Metamorfoz Dizisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ardışık hayvan dönüşümlerini detaylandıran, çok aşamalı ve dinamik bir karmaşık video istemi.
+
+#### 📝 Prompt
+
+```
+Bir kadın beyaz dev bir baykuşa dönüşüyor, baykuş uçuyor ve bir nehri geçerken kar leoparına dönüşüyor, nehri geçerken tekrar kadına dönüşüyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098604983788736518/img/JavVvbe4J-KCAUJi.jpg" width="600" alt="Şekil Değiştirici Metamorfoz Dizisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10795)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2098605006433779873) | **Published:** Sep 12, 2026
+
+---
+### Yalnız Balıkçı Sakin Sahne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kalabalık dağıldıktan sonraki sessiz atmosferi vurgulayan, göl kenarında tek başına balık tutan yaşlı bir adamı betimleyen melankolik ama huzurlu bir video istemi.
+
+#### 📝 Prompt
+
+```
+Tek başına balık tutan yaşlı adam tam aranan görüntü; yaz kalabalığı gitmiş, göl hala ılık ve artık kimseye bir şey kanıtlamasına gerek yok. Hissiyat tam olarak bu: üzücü değil, sadece partiden sonraki o sessizlik.
+Onu suyun önünde küçük bir figür olarak çiz, elinde oltası olsun ve gölün kadrajın büyük bir kısmını kaplamasına izin ver. Önemli olan o boşluk hissi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098537834567135238/img/PjRyNL9hr8-vBhk-.jpg" width="600" alt="Yalnız Balıkçı Sakin Sahne">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10800)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2098537884756189577) | **Published:** Sep 11, 2026
+
+---
+### Yavaş Neon Renk Patlaması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Canlı neon renklerin ve geometrik şekillerin yumuşak, parlayan radyal bir patlaması için oldukça detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sadece yavaş renk patlaması. Yumuşak merkezi parlayan ışık. Canlı neon soyut renk yamaları ve geometrik şekiller, her yöne nazikçe yavaşça patlıyor ve dışa doğru genişliyor. Spiral yok, girdap hareketi yok, dönme yok. Saf yavaş radyal patlama
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098529372018036736/img/X6hmQQrvrHZNwk-A.jpg" width="600" alt="Yavaş Neon Renk Patlaması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10796)**
+
+**Author:** [Roy](https://x.com/RoyRoy67196892) | **Source:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **Published:** Sep 11, 2026
+
+---
+### Yağmurdan Korunan Anne Karınca
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karınca ailesinin yağmurdan korunmak için bir yaprağın altına sığınmasını konu alan anlatısal bir video istemi.
+
+#### 📝 Prompt
+
+```
+Bir anne karınca, yanında oğluyla birlikte yiyecek dolu arabasını çekiyor. Yağmur başladığında, yağmur dinene kadar sığınak sağlayan büyük bir yaprağın altına giriyor. Oğluna yakın durması için sesleniyor!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg" width="600" alt="Yağmurdan Korunan Anne Karınca">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10799)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
+
+---
+### Tarihi Polonya Kilisesi Anma Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Scranton, Pensilvanya'daki Sacred Hearts of Jesus and Mary Kilisesi'nin 1925 yılındaki görünümüne dair tarihi bir anma videosu için video istemi.
+
+#### 📝 Prompt
+
+```
+Scranton, Pensilvanya'daki Sacred Hearts of Jesus and Mary Kilisesi'ne, 1925 yılı civarındaki Polonyalı göçmenlerin cemaatine bir saygı duruşu
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098469271898861568/img/78r7y9inS0-AKtpz.jpg" width="600" alt="Tarihi Polonya Kilisesi Anma Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
+
+**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
+
+---
+### Gerçekçi Erişte Yeme Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Doğal hareketler ve duygularla erişte yiyen bir kişinin son derece gerçekçi 15 saniyelik videosunu oluşturmak için karmaşık bir zamansal istem.
+
+#### 📝 Prompt
+
+```
+Doğal insan hareketleri ve inandırıcı bir zamanlama ile son derece gerçekçi 15 saniyelik bir video oluşturun.
+
+0–4 sn: Erişteleri yavaşça ağzına çeker, çubukları doğal bir şekilde kullanır. Lokmayı bitirir ve çiğnemeye başlar.
+
+4–7 sn: Doğal bir şekilde çiğner ve tadını çıkardığı belirgindir; hafif, memnun bir gülümseme ve rahat bir ifade sergiler.
+
+7–9 sn: Çiğnerken kısa bir an sola, ardından sağa bakar; çevresinde onu izleyen veya ona gülen biri olup olmadığını kontrol eder. İfadesi hafifçe temkinli ve çekingen bir hal alır.
+
+9–12 sn: Kimsenin gülmediğini fark edince rahatlar, çay bardağını alır ve doğal bir yudum alır.
+
+12–15 sn: Bardağı bırakır, ardından ağzını ve yanağını gelişigüzel bir şekilde kazağının koluyla siler, kameraya doğru bakar ve hafif utangaç ama mutlu, küçük bir gülümseme atar.
+
+Tüm hareketleri kesintisiz ve fiziksel olarak gerçekçi tutun. Referans görsellerdeki kişiyi, yüzü, saç stilini, kıyafetleri, nesneleri ve ortamı tam olarak koruyun. Doğal yüz ifadeleri, gerçekçi göz hareketleri, gerçekçi çiğneme ve yutkunma, doğru el ve parmak hareketleri, erişte, çubuklar ve çay bardağı ile inandırıcı etkileşim. Hafif elde tutulan kamera hareketi, doğal nefes alışverişi, gerçekçi cilt ve kumaş hareketi, sıcak doğal aydınlatma. Ani hareketler, şekil bozulması (morphing), yüz deformasyonu, fazladan parmak, çoğaltılmış nesneler, doğal olmayan ağız hareketleri, abartılı ifadeler, konuşma, altyazı veya metin bindirmeleri olmasın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098327215234838528/img/UBN3YsyfsnZP1A25.jpg" width="600" alt="Gerçekçi Erişte Yeme Sekansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
+
+**Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
+
+---
 ### Klimt Tarzı Bilim Kurgu Şövalyesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +390,25 @@ Galleria Borghese galerisinde, soluk sonbahar kıyafetleri içinde genç ve heyk
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10740)**
 
 **Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **Published:** Sep 11, 2026
+
+---
+### Dövüş Sanatları Adayı Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir adamın egzersiz yaparken bir sonraki büyük dövüş sanatçısı olma hayalinden bahsettiği video istemi.
+
+#### 📝 Prompt
+
+```
+Mekik çeken ve Bruce Lee'den sonraki yeni efsane olma üzerine konuşan bir adamın videosu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098225139926048774/img/DB104i5PfQFso7pI.jpg" width="600" alt="Dövüş Sanatları Adayı Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10801)**
+
+**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2098225163804319793) | **Published:** Sep 11, 2026
 
 ---
 ### Geleneksel Çin Dansı Koreografisi
@@ -2029,177 +2213,6 @@ Herkes, imparatorluk uzay gemisinin gezegenlerine varışını izlemek için top
 **Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
 
 ---
-### Tuz Düzlüğünde Yalnız Figür
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sonsuz ve çatlamış bir tuz düzlüğünde devasa bir taş diske karşı duran yalnız bir figürü konu alan, sürreal ve atmosferik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Sonsuz ve çatlamış bir tuz düzlüğünde duran, koyu renkli paltolu yalnız bir figürün sinematik geniş açılı çekimi; eş merkezli taş halkalara ve merkezinde karanlık bir boşluğa sahip, çatlamış devasa dairesel bir diske karşı duruyor, kırık taş ve metal dokusu, beyaz toprak üzerinde uzun ve sert bir gölge, soluk bulutlu gökyüzü, sessiz ve sürreal bir atmosfer, resimsel detaylar, samimi ve dingin, ultra detaylı kumaşlar ve aşınmış yüzey
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="Tuz Düzlüğünde Yalnız Figür">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **Published:** Sep 4, 2026
-
----
-### Unutulmuş İnsanların Pegasus Uçuşu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Unutulmuş yoksulların kraliyet ailesine dönüşüp bir Pegasus üzerinde kaleye uçtuğu metaforik bir istem.
-
-#### 📝 Prompt
-
-```
-Tüm unutulmuş insanlar, tüm yoksul insanlar Pegasus atının üzerine binerler; kral ve kraliçeye dönüşürler ve kalelerine doğru uçarlar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="Unutulmuş İnsanların Pegasus Uçuşu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10343)**
-
-**Author:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **Source:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **Published:** Sep 4, 2026
-
----
-### Devasa Cep Saatindeki Kız
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Çöl manzarasındaki devasa, paslı bir cep saatinin içinde oturan genç bir kızı konu alan sinematik ve melankolik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Çatlamış bir çölde, devasa paslı bir cep saatinin içinde oturan, eski kıyafetler içindeki küçük kızın sinematik çekimi. Kırık cam kadran. Arkasında devasa tozlu dişliler. Kırık kristalden süzülen altın rengi güneş ışığı. Kuru toprak ve kurumuş çalılar. Ressamvari. Melankolik. Ultra detaylı. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="Devasa Cep Saatindeki Kız">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10342)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **Published:** Sep 4, 2026
-
----
-### Taksi Çağıran Köpek Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir köpeğin fotoğrafını canlandıran, patisini sanki taksi çağırıyormuş gibi kaldırdığı bir Grok-imagine animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Büyük kulaklı köpeğin bu fotoğrafını, sanki taksi çağırmak istiyormuş gibi patisini kaldıracağı şekilde canlandır
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="Taksi Çağıran Köpek Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10345)**
-
-**Author:** [Løen](https://x.com/l03n27) | **Source:** [Link](https://x.com/l03n27/status/2095697750130123031) | **Published:** Sep 4, 2026
-
----
-### Mecha Savaşçı Dönüşüm Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Detaylı mekanik parçalara, kıvılcımlara ve ağır çekim hareketlere sahip, devasa bir dönüşen robot için sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-BİR SONRAKİ EVRİM Makineler savaşçıya dönüştüğünde, zırh korumadan daha fazlası haline gelir. Güç olur. Gelecek olur. Dönüş. Kuşan. Hükmet. Görsel stil: sinematik + fotogerçekçi, devasa dönüşen robot, gelişmiş, parlayan enerji çekirdekleri, mekanik dönüşüm, kıvılcımlar ve duman, fütüristik savaş alanı, dramatik aydınlatma, ağır çekim kamera hareketi, ultra detaylı 8K bilim kurgu gerçekçiliği.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="Mecha Savaşçı Dönüşüm Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10344)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **Published:** Sep 4, 2026
-
----
-### Hilal ve Mars Gökyüzü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hilal ve Mars'ın şafak vaktinde gökyüzünde birbirine yakın göründüğü sinematik bir görselleştirme.
-
-#### 📝 Prompt
-
-```
-Hilal ve Mars, 6 Eylül 2026 tarihinde şafak öncesi gökyüzünde birbirine yakın bir konumda görünecek
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="Hilal ve Mars Gökyüzü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10335)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **Published:** Sep 4, 2026
-
----
-### Endüstriyel Boru Dağ Vadisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dağ vadisini boydan boya geçen devasa paslı bir endüstriyel borunun üzerinde yürüyen yalnız bir figürü betimleyen sinematik geniş açı çekim.
-
-#### 📝 Prompt
-
-```
-Kayalık bir dağ vadisini boydan boya geçen devasa paslı bir endüstriyel borunun sinematik geniş açı çekimi. Borunun açık ucundaki parçalanmış dairesel bir fana doğru üst kısımda yürüyen küçük, yalnız bir figür. Fırtınalı gri bulutlar. Ressamsı yağlı boya dokusu. Dramatik kapalı hava ışığı. Ultra detaylı. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="Endüstriyel Boru Dağ Vadisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10339)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **Published:** Sep 4, 2026
-
----
-### Muzaffer Siborg Gladyatör Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Parlayan sibernetik zırhlı ve dramatik kamera açılı, muzaffer bir gladyatör için detaylı sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Muzaffer son: yarı siborg gladyatör arenada zafer kazanmış bir şekilde duruyor, parlayan mavi zırh ve siber göz, arka planda düşmanları bitiren aslanlar, yavaş ve dramatik kamera dönüşü, çöken toz bulutu, kahramanca bir duruş.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="Muzaffer Siborg Gladyatör Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10337)**
-
-**Author:** [Cicada AQ](https://x.com/CicadaAQum) | **Source:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **Published:** Sep 3, 2026
-
----
-### Kömür Madencisi Kadın Sinematik Yakın Çekim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlık bir tünelde kömür kaplı bir kadın madenciyi konu alan, gözünün yanan bir kehribara dönüştüğü dramatik ışıklandırmaya odaklanan, Grok Imagine için detaylı bir sinematik komut.
-
-#### 📝 Prompt
-
-```
-Karanlık dairesel bir maden tünelinde kömür kaplı bir kadın madencinin sinematik yakın çekimi. Çatlak ve parlayan bir kafa lambasına sahip yıpranmış baret. Siyah tozla kaplı yüz. Yoğun bakışlar. Bir göz yavaşça yanan bir kehribara dönüşüyor. Ciltte kömür dokusu. Karamsar tek kaynaklı ışık. Fotogerçekçi resimsel tarz. Ultra detaylı. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="Kömür Madencisi Kadın Sinematik Yakın Çekim">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10340)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2261,6 +2274,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T04:21:17.776Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T12:18:25.328Z</sub>
 
 </div>

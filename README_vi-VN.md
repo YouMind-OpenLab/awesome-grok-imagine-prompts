@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2795** |
+| 📝 Total Prompts | **2804** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-12** |
 
@@ -189,6 +189,171 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Trailer phim I Am Legend với Optimus Prime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh cho Grok Imagine, xây dựng kịch bản trailer phim nơi Will Smith được thay thế bằng robot Tesla Optimus.
+
+#### 📝 Prompt
+
+```
+Trailer phim I Am Legend nhưng thay thế Will Smith bằng robot Tesla Optimus, cậu ấy là robot cuối cùng còn sót lại sau khi nhân loại biến mất
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098674271413280775/img/ASmQlDMZovJCgISu.jpg" width="600" alt="Trailer phim I Am Legend với Optimus Prime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10802)**
+
+**Author:** [PokeDon](https://x.com/Pokedoncards) | **Source:** [Link](https://x.com/Pokedoncards/status/2098674288786084172) | **Published:** Sep 12, 2026
+
+---
+### Lady StarWeaver và những chú báo con
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả cho khung cảnh giả tưởng về một quý cô và những chú báo con trong khu rừng tiên.
+
+#### 📝 Prompt
+
+```
+Lady StarWeaver và hai chú báo đen con sống trong khu rừng tiên sâu thẳm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098670972870025224/img/Skv-29rGkaq6s5Xl.jpg" width="600" alt="Lady StarWeaver và những chú báo con">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10803)**
+
+**Author:** [Judy Powell](https://x.com/Judy_2026) | **Source:** [Link](https://x.com/Judy_2026/status/2098671027093905837) | **Published:** Sep 12, 2026
+
+---
+### Chuỗi biến hình Shapeshifter
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video biến đổi động đa giai đoạn phức tạp, mô tả chi tiết các quá trình biến hình liên tiếp của động vật.
+
+#### 📝 Prompt
+
+```
+Một người phụ nữ biến thành con cú trắng khổng lồ, con cú bay lên và biến thành một con báo tuyết khi băng qua sông, trong lúc băng qua sông nó lại biến thành cô ấy
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098604983788736518/img/JavVvbe4J-KCAUJi.jpg" width="600" alt="Chuỗi biến hình Shapeshifter">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10795)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2098605006433779873) | **Published:** Sep 12, 2026
+
+---
+### Cảnh người ngư dân cô độc tĩnh lặng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video mang nét u buồn nhưng bình yên, khắc họa hình ảnh một ông lão đang câu cá một mình trên hồ, nhấn mạnh bầu không khí tĩnh lặng sau khi đám đông đã rời đi.
+
+#### 📝 Prompt
+
+```
+Hình ảnh ông lão câu cá một mình là lựa chọn phù hợp — đám đông mùa hè đã tan, mặt hồ vẫn còn ấm áp, chẳng còn ai để phải diễn cho xem. Đó chính xác là cảm giác ấy: không phải buồn bã, mà chỉ là sự tĩnh lặng sau một cuộc vui.
+Hãy vẽ ông lão nhỏ bé giữa mặt nước, tay cầm cần câu, và để mặt hồ chiếm phần lớn khung hình. Sự trống trải chính là điểm nhấn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098537834567135238/img/PjRyNL9hr8-vBhk-.jpg" width="600" alt="Cảnh người ngư dân cô độc tĩnh lặng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10800)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2098537884756189577) | **Published:** Sep 11, 2026
+
+---
+### Vụ nổ màu Neon chậm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video chi tiết về vụ nổ tỏa tròn nhẹ nhàng, rực rỡ của các màu neon sống động và hình khối hình học.
+
+#### 📝 Prompt
+
+```
+Chỉ là vụ nổ màu chậm. Ánh sáng rực rỡ nhẹ nhàng ở trung tâm. Các mảng màu neon trừu tượng sống động và các hình khối hình học từ từ nổ tung và mở rộng nhẹ nhàng ra mọi hướng. Không có hình xoắn ốc, không có chuyển động xoáy, không xoay. Một vụ nổ tỏa tròn chậm thuần túy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098529372018036736/img/X6hmQQrvrHZNwk-A.jpg" width="600" alt="Vụ nổ màu Neon chậm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10796)**
+
+**Author:** [Roy](https://x.com/RoyRoy67196892) | **Source:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **Published:** Sep 11, 2026
+
+---
+### Kiến mẹ trú mưa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video kể chuyện về gia đình kiến đang tìm chỗ trú mưa dưới một chiếc lá.
+
+#### 📝 Prompt
+
+```
+Một chú kiến mẹ đang kéo chiếc xe chở thức ăn cùng với con trai mình. Trời bắt đầu đổ mưa, vì vậy kiến mẹ kéo xe vào dưới một chiếc lá lớn để trú ẩn cho đến khi tạnh mưa. Kiến mẹ gọi con trai hãy lại gần mình!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg" width="600" alt="Kiến mẹ trú mưa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10799)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
+
+---
+### Video tri ân nhà thờ Ba Lan lịch sử
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video (prompt) để thực hiện video tri ân lịch sử về Nhà thờ Thánh Tâm Chúa Giêsu và Mẹ Maria tại Scranton, Pennsylvania, như diện mạo của nhà thờ vào năm 1925.
+
+#### 📝 Prompt
+
+```
+Tri ân Nhà thờ Thánh Tâm Chúa Giêsu và Mẹ Maria, Scranton Pennsylvania, khoảng năm 1925, giáo xứ của những người nhập cư Ba Lan
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098469271898861568/img/78r7y9inS0-AKtpz.jpg" width="600" alt="Video tri ân nhà thờ Ba Lan lịch sử">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
+
+**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
+
+---
+### Chuỗi hành động ăn mì chân thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) theo thời gian phức tạp để tạo video dài 15 giây cực kỳ chân thực về một người đang ăn mì với các chuyển động và cảm xúc tự nhiên.
+
+#### 📝 Prompt
+
+```
+Tạo một video dài 15 giây có độ chân thực cao với chuyển động của con người tự nhiên và nhịp độ đáng tin cậy.
+
+0–4 giây: Cô ấy từ từ đưa mì vào miệng, sử dụng đũa một cách tự nhiên. Cô ấy ăn xong miếng mì và bắt đầu nhai.
+
+4–7 giây: Cô ấy nhai một cách tự nhiên và thể hiện rõ sự ngon miệng, lộ ra nụ cười hài lòng tinh tế cùng biểu cảm thư thái.
+
+7–9 giây: Trong khi nhai, cô ấy liếc nhìn sang trái rồi sang phải, kiểm tra xem có ai xung quanh đang nhìn hoặc cười nhạo mình không. Biểu cảm của cô ấy trở nên hơi thận trọng và tự ti.
+
+9–12 giây: Cô ấy thư giãn sau khi nhận ra không có ai cười, cầm tách trà lên và nhấp một ngụm tự nhiên.
+
+12–15 giây: Cô ấy đặt tách xuống, sau đó thản nhiên lau miệng và má bằng tay áo len, nhìn về phía máy quay và nở một nụ cười nhỏ, hơi ngượng ngùng nhưng hạnh phúc.
+
+Giữ cho tất cả các chuyển động liên tục và chân thực về mặt vật lý. Bảo toàn chính xác nhân vật, khuôn mặt, kiểu tóc, trang phục, đồ vật và môi trường từ các hình ảnh tham chiếu. Biểu cảm khuôn mặt tự nhiên, chuyển động mắt chân thực, hành động nhai và nuốt thực tế, chuyển động tay và ngón tay chính xác, tương tác đáng tin cậy với mì, đũa và tách trà. Chuyển động máy quay cầm tay tinh tế, hơi thở tự nhiên, chuyển động da và vải chân thực, ánh sáng tự nhiên ấm áp. Không có chuyển động đột ngột, không bị biến dạng (morphing), không méo mặt, không thừa ngón tay, không nhân bản đồ vật, không cử động miệng bất thường, không biểu cảm thái quá, không nói chuyện, không phụ đề, không chèn văn bản.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098327215234838528/img/UBN3YsyfsnZP1A25.jpg" width="600" alt="Chuỗi hành động ăn mì chân thực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
+
+**Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
+
+---
 ### Hiệp sĩ khoa học viễn tưởng phong cách Klimt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +390,25 @@ Một cô gái Pháp trẻ trung, vóc dáng như tượng tạc trong phòng tr
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10740)**
 
 **Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **Published:** Sep 11, 2026
+
+---
+### Video về người khao khát trở thành võ sư
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video mô tả một người đàn ông đang tập thể dục trong khi nói về việc trở thành võ sư vĩ đại tiếp theo.
+
+#### 📝 Prompt
+
+```
+Video một chàng trai đang tập gập bụng và nói về việc trở thành huyền thoại tiếp theo sau Lý Tiểu Long.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098225139926048774/img/DB104i5PfQFso7pI.jpg" width="600" alt="Video về người khao khát trở thành võ sư">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10801)**
+
+**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2098225163804319793) | **Published:** Sep 11, 2026
 
 ---
 ### Biên đạo múa truyền thống Trung Hoa
@@ -2029,177 +2213,6 @@ Mọi người đang tập trung để theo dõi sự xuất hiện của một 
 **Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
 
 ---
-### Nhân vật đơn độc trên cánh đồng muối
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt mang phong cách siêu thực và đầy cảm xúc, khắc họa một nhân vật đơn độc đối diện với một đĩa đá khổng lồ trên cánh đồng muối nứt nẻ vô tận.
-
-#### 📝 Prompt
-
-```
-Cảnh quay điện ảnh góc rộng về một nhân vật đơn độc mặc áo khoác tối màu đang đứng trên cánh đồng muối nứt nẻ vô tận, đối diện với một chiếc đĩa tròn khổng lồ bị nứt với các vòng đá đồng tâm và một lỗ đen ở trung tâm, kết cấu đá và kim loại bị rạn nứt, bóng đổ dài sắc nét trên nền đất trắng, bầu trời nhiều mây nhạt màu, không khí tĩnh lặng đầy siêu thực, chi tiết như tranh vẽ, gần gũi và tĩnh tại, vải vóc và bề mặt phong hóa được khắc họa siêu chi tiết
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="Nhân vật đơn độc trên cánh đồng muối">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **Published:** Sep 4, 2026
-
----
-### Chuyến bay Pegasus của những con người bị lãng quên
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc ẩn dụ về việc những người nghèo khổ bị lãng quên trở thành hoàng tộc và cưỡi ngựa Pegasus bay đến lâu đài.
-
-#### 📝 Prompt
-
-```
-Tất cả những người bị lãng quên, tất cả những người nghèo khổ cùng cưỡi lên chú ngựa Pegasus, họ trở thành những vị vua và hoàng hậu, rồi cùng nhau bay đến lâu đài của mình
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="Chuyến bay Pegasus của những con người bị lãng quên">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10343)**
-
-**Author:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **Source:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **Published:** Sep 4, 2026
-
----
-### Cô gái trong chiếc đồng hồ bỏ túi khổng lồ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt mang phong cách điện ảnh và đầy tâm trạng, khắc họa hình ảnh một cô bé đang ngồi bên trong chiếc đồng hồ bỏ túi khổng lồ, hoen gỉ giữa khung cảnh sa mạc.
-
-#### 📝 Prompt
-
-```
-Cảnh quay điện ảnh về một cô bé mặc quần áo sờn cũ đang ngồi bên trong chiếc đồng hồ bỏ túi khổng lồ, hoen gỉ giữa sa mạc nứt nẻ. Mặt kính vỡ vụn. Những bánh răng khổng lồ đầy bụi bặm phía sau cô bé. Ánh nắng vàng chiếu qua lớp pha lê vỡ. Đất khô cằn và những bụi cây khô héo. Đậm chất hội họa. Tâm trạng. Siêu chi tiết. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="Cô gái trong chiếc đồng hồ bỏ túi khổng lồ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10342)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **Published:** Sep 4, 2026
-
----
-### Hoạt ảnh chú chó vẫy xe taxi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo hoạt ảnh cho Grok-imagine giúp thổi hồn vào bức ảnh chú chó, mô tả cảnh chú đang giơ chân lên như thể đang vẫy gọi một chiếc taxi.
-
-#### 📝 Prompt
-
-```
-Tạo hoạt ảnh cho bức ảnh chú chó có đôi tai lớn này, để chú giơ chân lên như thể đang muốn vẫy gọi một chiếc taxi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="Hoạt ảnh chú chó vẫy xe taxi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10345)**
-
-**Author:** [Løen](https://x.com/l03n27) | **Source:** [Link](https://x.com/l03n27/status/2095697750130123031) | **Published:** Sep 4, 2026
-
----
-### Video Biến hình Chiến binh Cơ khí
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video điện ảnh về robot biến hình khổng lồ với các chi tiết cơ khí tinh xảo, tia lửa điện và chuyển động quay chậm.
-
-#### 📝 Prompt
-
-```
-BƯỚC TIẾN TIẾP THEO Khi máy móc trở thành chiến binh, giáp trụ không chỉ là sự bảo vệ. Đó là sức mạnh. Đó là tương lai. Biến hình. Vũ trang. Thống trị. Phong cách hình ảnh: điện ảnh + chân thực, robot biến hình khổng lồ, tiên tiến, lõi năng lượng phát sáng, biến hình cơ khí, tia lửa và khói, chiến trường tương lai, ánh sáng kịch tính, chuyển động camera quay chậm, chủ nghĩa hiện thực khoa học viễn tưởng 8K siêu chi tiết.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="Video Biến hình Chiến binh Cơ khí">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10344)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **Published:** Sep 4, 2026
-
----
-### Trăng lưỡi liềm và Sao Hỏa trên bầu trời
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hình ảnh mô phỏng điện ảnh về trăng lưỡi liềm và Sao Hỏa xuất hiện gần nhau trên bầu trời lúc bình minh.
-
-#### 📝 Prompt
-
-```
-Trăng lưỡi liềm và Sao Hỏa sẽ xuất hiện gần nhau trên bầu trời trước bình minh vào ngày 6 tháng 9 năm 2026
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="Trăng lưỡi liềm và Sao Hỏa trên bầu trời">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10335)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **Published:** Sep 4, 2026
-
----
-### Ống công nghiệp giữa thung lũng núi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một góc quay rộng đậm chất điện ảnh mô tả một đường ống công nghiệp khổng lồ hoen gỉ bắc ngang qua thung lũng núi, với một bóng người đơn độc đang đi trên đỉnh ống.
-
-#### 📝 Prompt
-
-```
-Góc quay rộng đậm chất điện ảnh về một đường ống công nghiệp khổng lồ hoen gỉ bắc ngang qua thung lũng núi đá. Một bóng người nhỏ bé đơn độc đang đi dọc trên đỉnh ống về phía chiếc quạt tròn bị vỡ ở đầu hở. Những đám mây xám bão tố. Kết cấu tranh sơn dầu. Ánh sáng u ám đầy kịch tính. Siêu chi tiết. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="Ống công nghiệp giữa thung lũng núi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10339)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **Published:** Sep 4, 2026
-
----
-### Cảnh đấu sĩ Cyborg chiến thắng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video điện ảnh chi tiết về đấu sĩ khải hoàn với bộ giáp cơ khí phát sáng và góc quay xoay vòng đầy kịch tính.
-
-#### 📝 Prompt
-
-```
-Kết thúc huy hoàng: đấu sĩ nửa người nửa máy đứng chiến thắng giữa đấu trường, bộ giáp và mắt cơ khí phát sáng màu xanh dương, những con sư tử đang kết liễu kẻ thù ở phía sau, góc quay xoay vòng chậm đầy kịch tính, bụi lắng xuống, tư thế anh hùng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="Cảnh đấu sĩ Cyborg chiến thắng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10337)**
-
-**Author:** [Cicada AQ](https://x.com/CicadaAQum) | **Source:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **Published:** Sep 3, 2026
-
----
-### Cận cảnh điện ảnh nữ thợ mỏ than
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh chi tiết dành cho Grok Imagine, khắc họa một nữ thợ mỏ lấm lem than đá trong đường hầm tối, tập trung vào ánh sáng đầy kịch tính khi mắt cô chuyển sang màu hổ phách rực cháy.
-
-#### 📝 Prompt
-
-```
-Cận cảnh điện ảnh một nữ thợ mỏ lấm lem than đá trong đường hầm mỏ hình tròn tối tăm. Mũ bảo hộ hư hỏng với đèn đội đầu đang phát sáng nứt vỡ. Gương mặt phủ đầy bụi đen. Ánh nhìn mãnh liệt. Một bên mắt từ từ bùng cháy thành màu hổ phách rực rỡ. Kết cấu than trên da. Ánh sáng đơn nguồn đầy tâm trạng. Phong cách hội họa chân thực. Siêu chi tiết. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="Cận cảnh điện ảnh nữ thợ mỏ than">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10340)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2261,6 +2274,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T04:21:08.725Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T12:18:14.332Z</sub>
 
 </div>

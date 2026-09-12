@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2795** |
+| 📝 Total Prompts | **2804** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-12** |
 
@@ -189,6 +189,171 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ตัวอย่างภาพยนตร์ I Am Legend ในเวอร์ชัน Optimus Prime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมท์วิดีโอแบบภาพยนตร์สำหรับ Grok Imagine เพื่อสร้างสถานการณ์ตัวอย่างภาพยนตร์ที่เปลี่ยน Will Smith ให้เป็นหุ่นยนต์ Tesla Optimus
+
+#### 📝 Prompt
+
+```
+ตัวอย่างภาพยนตร์เรื่อง I Am Legend แต่เปลี่ยน Will Smith ให้เป็นหุ่นยนต์ Tesla Optimus โดยเขาเป็นหุ่นยนต์ตัวสุดท้ายที่เหลืออยู่หลังจากมนุษย์สูญสิ้นไป
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098674271413280775/img/ASmQlDMZovJCgISu.jpg" width="600" alt="ตัวอย่างภาพยนตร์ I Am Legend ในเวอร์ชัน Optimus Prime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10802)**
+
+**Author:** [PokeDon](https://x.com/Pokedoncards) | **Source:** [Link](https://x.com/Pokedoncards/status/2098674288786084172) | **Published:** Sep 12, 2026
+
+---
+### Lady StarWeaver และลูกเสือดาว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำบรรยายสำหรับฉากแฟนตาซีที่มีสุภาพสตรีและลูกเสือดาวในป่าเอลฟ์
+
+#### 📝 Prompt
+
+```
+Lady StarWeaver และลูกเสือดำ 2 ตัวอาศัยอยู่ในป่าเอลฟ์อันลึกลับ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098670972870025224/img/Skv-29rGkaq6s5Xl.jpg" width="600" alt="Lady StarWeaver และลูกเสือดาว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10803)**
+
+**Author:** [Judy Powell](https://x.com/Judy_2026) | **Source:** [Link](https://x.com/Judy_2026/status/2098671027093905837) | **Published:** Sep 12, 2026
+
+---
+### ลำดับการแปลงร่างของ Shapeshifter
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสำหรับการแปลงร่างแบบไดนามิกหลายขั้นตอนที่ซับซ้อน ซึ่งแสดงรายละเอียดการแปลงร่างเป็นสัตว์ตามลำดับ
+
+#### 📝 Prompt
+
+```
+ผู้หญิงคนหนึ่งเปลี่ยนร่างเป็นนกฮูกยักษ์สีขาว นกฮูกบินไปและเปลี่ยนร่างเป็นเสือดาวหิมะขณะที่มันกำลังข้ามแม่น้ำ และในขณะที่มันข้ามแม่น้ำนั้น มันก็เปลี่ยนกลับมาเป็นเธอ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098604983788736518/img/JavVvbe4J-KCAUJi.jpg" width="600" alt="ลำดับการแปลงร่างของ Shapeshifter">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10795)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2098605006433779873) | **Published:** Sep 12, 2026
+
+---
+### ฉากชาวประมงโดดเดี่ยวในบรรยากาศเงียบสงบ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่ถ่ายทอดความรู้สึกเหงาแต่สงบของชายชราที่กำลังตกปลาอยู่เพียงลำพังในทะเลสาบ โดยเน้นย้ำถึงบรรยากาศที่เงียบสงัดหลังจากฝูงชนจากไป
+
+#### 📝 Prompt
+
+```
+ภาพชายชราตกปลาเพียงลำพังคือภาพที่ใช่ที่สุด — เมื่อฝูงชนในฤดูร้อนจากไป ทะเลสาบยังคงอุ่น และไม่มีใครเหลือให้ต้องแสดงอีกต่อไป นั่นคือความรู้สึกที่แท้จริง ไม่ใช่ความเศร้า แต่เป็นความเงียบสงบหลังจากงานเลี้ยงเลิกรา
+วาดให้เขาดูตัวเล็กเมื่อเทียบกับผืนน้ำ มือถือคันเบ็ด และปล่อยให้ทะเลสาบครอบคลุมพื้นที่ส่วนใหญ่ของเฟรม ความว่างเปล่านี่แหละคือหัวใจสำคัญ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098537834567135238/img/PjRyNL9hr8-vBhk-.jpg" width="600" alt="ฉากชาวประมงโดดเดี่ยวในบรรยากาศเงียบสงบ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10800)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2098537884756189577) | **Published:** Sep 11, 2026
+
+---
+### การระเบิดของสีนีออนแบบสโลว์โมชั่น
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่มีรายละเอียดสูงสำหรับการระเบิดของแสงนีออนสีสันสดใสและรูปทรงเรขาคณิตที่แผ่ออกมาจากจุดศูนย์กลางอย่างนุ่มนวล
+
+#### 📝 Prompt
+
+```
+การระเบิดของสีแบบสโลว์โมชั่น แสงเรืองรองนุ่มนวลจากจุดศูนย์กลาง แผ่นสีนีออนนามธรรมที่สดใสและรูปทรงเรขาคณิตค่อยๆ ระเบิดและขยายตัวออกไปด้านนอกอย่างแผ่วเบาในทุกทิศทาง ไม่มีการหมุนวน ไม่มีการเคลื่อนไหวแบบเกลียว เป็นเพียงการระเบิดออกจากจุดศูนย์กลางอย่างช้าๆ เท่านั้น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098529372018036736/img/X6hmQQrvrHZNwk-A.jpg" width="600" alt="การระเบิดของสีนีออนแบบสโลว์โมชั่น">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10796)**
+
+**Author:** [Roy](https://x.com/RoyRoy67196892) | **Source:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **Published:** Sep 11, 2026
+
+---
+### แม่มดลูกมดหลบฝน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับวิดีโอเล่าเรื่องราวของครอบครัวมดที่กำลังหาที่หลบฝนใต้ใบไม้
+
+#### 📝 Prompt
+
+```
+แม่มดกำลังลากรถเข็นอาหารโดยมีลูกมดเดินตามมาด้วย ทันใดนั้นฝนก็เริ่มตก เธอจึงรีบลากรถเข้าไปใต้ใบไม้ขนาดใหญ่เพื่อใช้เป็นที่กำบังจนกว่าฝนจะหยุด พร้อมกับตะโกนเรียกให้ลูกมดอยู่ใกล้ๆ เธอไว้!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg" width="600" alt="แม่มดลูกมดหลบฝน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10799)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
+
+---
+### วิดีโอรำลึกประวัติศาสตร์โบสถ์โปแลนด์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสำหรับการรำลึกถึงประวัติศาสตร์ของโบสถ์ Sacred Hearts of Jesus and Mary ในเมืองสแครนตัน รัฐเพนซิลเวเนีย ในช่วงปี 1925
+
+#### 📝 Prompt
+
+```
+วิดีโอรำลึกถึงโบสถ์ Sacred Hearts of Jesus and Mary ในเมืองสแครนตัน รัฐเพนซิลเวเนีย ประมาณปี 1925 ซึ่งเป็นเขตแพริชของผู้อพยพชาวโปแลนด์
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098469271898861568/img/78r7y9inS0-AKtpz.jpg" width="600" alt="วิดีโอรำลึกประวัติศาสตร์โบสถ์โปแลนด์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
+
+**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
+
+---
+### ลำดับภาพการกินบะหมี่ที่สมจริง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ชุดคำสั่งเชิงเวลาที่ซับซ้อนสำหรับการสร้างวิดีโอความยาว 15 วินาทีที่สมจริงอย่างยิ่ง ของบุคคลที่กำลังกินบะหมี่ด้วยท่าทางและอารมณ์ที่เป็นธรรมชาติ
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอความยาว 15 วินาทีที่สมจริงอย่างยิ่ง พร้อมการเคลื่อนไหวของมนุษย์ที่เป็นธรรมชาติและจังหวะเวลาที่น่าเชื่อถือ
+
+0–4 วินาที: เธอค่อยๆ คีบบะหมี่เข้าปากโดยใช้ตะเกียบอย่างเป็นธรรมชาติ เธอเคี้ยวบะหมี่จนหมดคำและเริ่มเคี้ยว
+
+4–7 วินาที: เธอเคี้ยวอย่างเป็นธรรมชาติและแสดงออกว่าเพลิดเพลินกับรสชาติอย่างเห็นได้ชัด โดยมีรอยยิ้มที่พึงพอใจเล็กน้อยและสีหน้าที่ผ่อนคลาย
+
+7–9 วินาที: ในขณะที่เคี้ยว เธอหันไปมองทางซ้ายและขวาครู่หนึ่ง เพื่อดูว่ามีใครรอบข้างกำลังมองหรือหัวเราะเยาะเธอหรือไม่ สีหน้าของเธอเริ่มดูระมัดระวังและประหม่าเล็กน้อย
+
+9–12 วินาที: เธอผ่อนคลายลงหลังจากตระหนักว่าไม่มีใครหัวเราะ จากนั้นจึงหยิบถ้วยชาขึ้นมาจิบอย่างเป็นธรรมชาติ
+
+12–15 วินาที: เธอวางถ้วยชาลง จากนั้นเช็ดปากและแก้มด้วยแขนเสื้อสเวตเตอร์อย่างไม่ใส่ใจนัก ก่อนจะหันมามองกล้องแล้วยิ้มเล็กน้อยด้วยความเขินอายแต่ก็มีความสุข
+
+รักษาความต่อเนื่องของการเคลื่อนไหวให้สมจริงตามหลักฟิสิกส์ คงรายละเอียดของบุคคล ใบหน้า ทรงผม เสื้อผ้า วัตถุ และสภาพแวดล้อมจากภาพอ้างอิงไว้อย่างครบถ้วน แสดงสีหน้าที่เป็นธรรมชาติ การเคลื่อนไหวของดวงตาที่สมจริง การเคี้ยวและการกลืนที่ดูเป็นธรรมชาติ การเคลื่อนไหวของมือและนิ้วที่แม่นยำ การโต้ตอบกับบะหมี่ ตะเกียบ และถ้วยชาที่น่าเชื่อถือ มีการเคลื่อนไหวกล้องแบบถือถ่ายเล็กน้อย การหายใจที่เป็นธรรมชาติ การเคลื่อนไหวของผิวหนังและเนื้อผ้าที่สมจริง แสงธรรมชาติที่อบอุ่น ห้ามมีการเคลื่อนไหวที่ฉับพลัน ห้ามมีการเปลี่ยนรูปร่าง (morphing) ห้ามใบหน้าบิดเบี้ยว ห้ามนิ้วเกิน ห้ามวัตถุซ้ำซ้อน ห้ามการเคลื่อนไหวของปากที่ไม่เป็นธรรมชาติ ห้ามการแสดงออกที่เกินจริง ห้ามมีการพูด ห้ามมีคำบรรยาย และห้ามมีข้อความซ้อนทับ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098327215234838528/img/UBN3YsyfsnZP1A25.jpg" width="600" alt="ลำดับภาพการกินบะหมี่ที่สมจริง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
+
+**Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
+
+---
 ### อัศวินไซไฟในสไตล์ Klimt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +390,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10740)**
 
 **Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **Published:** Sep 11, 2026
+
+---
+### วิดีโอผู้มุ่งมั่นในศิลปะการต่อสู้
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่บรรยายถึงชายคนหนึ่งกำลังออกกำลังกายพร้อมกับพูดถึงการเป็นนักศิลปะการต่อสู้ผู้ยิ่งใหญ่คนต่อไป
+
+#### 📝 Prompt
+
+```
+วิดีโอของชายคนหนึ่งกำลังซิทอัพและพูดถึงการเป็นมังกรตัวต่อไปต่อจาก บรูซ ลี
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098225139926048774/img/DB104i5PfQFso7pI.jpg" width="600" alt="วิดีโอผู้มุ่งมั่นในศิลปะการต่อสู้">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10801)**
+
+**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2098225163804319793) | **Published:** Sep 11, 2026
 
 ---
 ### การออกแบบท่าเต้นรำจีนโบราณ
@@ -2029,177 +2213,6 @@ Alice @Reference3 และ Dani @Reference2 กำลังหั่นผั�
 **Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
 
 ---
-### ร่างเดียวดายบนทุ่งเกลือ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แนวเหนือจริงที่เปี่ยมไปด้วยบรรยากาศ เผยให้เห็นร่างเดียวดายที่กำลังเผชิญหน้ากับแผ่นหินยักษ์บนทุ่งเกลือแตกระแหงสุดลูกหูลูกตา
-
-#### 📝 Prompt
-
-```
-ภาพมุมกว้างแบบภาพยนตร์ของร่างเดียวดายในเสื้อโค้ทสีเข้มยืนอยู่บนทุ่งเกลือแตกระแหงสุดลูกหูลูกตา เผชิญหน้ากับแผ่นวงกลมขนาดมหึมาที่มีรอยแตกและวงแหวนหินซ้อนกัน พร้อมหลุมมืดที่ใจกลาง พื้นผิวหินและโลหะที่แตกหัก เงาทอดยาวบนพื้นดินสีขาว ท้องฟ้าสีซีดที่มีเมฆมาก บรรยากาศเงียบสงบแบบเหนือจริง รายละเอียดแบบภาพวาด ให้ความรู้สึกใกล้ชิดและนิ่งสงบ พื้นผิวผ้าและพื้นผิวที่ผ่านกาลเวลาที่มีรายละเอียดสูง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="ร่างเดียวดายบนทุ่งเกลือ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **Published:** Sep 4, 2026
-
----
-### เที่ยวบิน Pegasus ของผู้ถูกลืม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งเชิงเปรียบเทียบที่ผู้ยากไร้ซึ่งถูกลืมเลือนกลายเป็นราชวงศ์และขี่ม้า Pegasus บินไปยังปราสาท
-
-#### 📝 Prompt
-
-```
-ผู้คนที่ถูกลืมและผู้ยากไร้ทุกคนได้ขึ้นขี่ม้า Pegasus พวกเขากลายเป็นราชาและราชินี และบินไปยังปราสาทของพวกเขา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="เที่ยวบิน Pegasus ของผู้ถูกลืม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10343)**
-
-**Author:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **Source:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **Published:** Sep 4, 2026
-
----
-### เด็กหญิงในนาฬิกาพกขนาดยักษ์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่ให้ความรู้สึกหม่นหมอง นำเสนอภาพเด็กหญิงตัวน้อยนั่งอยู่ภายในนาฬิกาพกเก่าคร่ำคร่าขนาดมหึมาท่ามกลางภูมิทัศน์ทะเลทราย
-
-#### 📝 Prompt
-
-```
-ภาพถ่ายสไตล์ภาพยนตร์ของเด็กหญิงตัวน้อยในชุดมอมแมมที่กำลังนั่งอยู่ภายในนาฬิกาพกเก่าคร่ำคร่าขนาดมหึมาท่ามกลางทะเลทรายที่แตกระแหง หน้าปัดกระจกแตกละเอียด เฟืองขนาดใหญ่ที่เต็มไปด้วยฝุ่นอยู่ด้านหลัง แสงอาทิตย์สีทองส่องผ่านคริสตัลที่แตกหัก พื้นดินแห้งแล้งและพุ่มไม้ที่ตายแล้ว ให้ความรู้สึกเหมือนภาพวาด มีความหม่นหมอง รายละเอียดสูงมาก 8k Grok Imagine
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="เด็กหญิงในนาฬิกาพกขนาดยักษ์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10342)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **Published:** Sep 4, 2026
-
----
-### แอนิเมชันสุนัขกำลังเรียกแท็กซี่
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างแอนิเมชันด้วย Grok-imagine ที่จะทำให้ภาพถ่ายของสุนัขดูมีชีวิตขึ้นมา โดยแสดงภาพสุนัขกำลังยกอุ้งเท้าขึ้นเหมือนกับว่ามันกำลังเรียกแท็กซี่
-
-#### 📝 Prompt
-
-```
-สร้างแอนิเมชันจากภาพถ่ายสุนัขหูใหญ่ตัวนี้ โดยให้มันยกอุ้งเท้าขึ้นเหมือนกับว่ามันต้องการเรียกแท็กซี่
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="แอนิเมชันสุนัขกำลังเรียกแท็กซี่">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10345)**
-
-**Author:** [Løen](https://x.com/l03n27) | **Source:** [Link](https://x.com/l03n27/status/2095697750130123031) | **Published:** Sep 4, 2026
-
----
-### วิดีโอการแปลงร่างของหุ่นยนต์เมกะ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์สำหรับหุ่นยนต์แปลงร่างขนาดมหึมาที่เต็มไปด้วยรายละเอียดชิ้นส่วนกลไก ประกายไฟ และการเคลื่อนไหวแบบสโลว์โมชั่น
-
-#### 📝 Prompt
-
-```
-วิวัฒนาการขั้นถัดไป เมื่อเครื่องจักรกลกลายเป็นนักรบ เกราะจึงเป็นมากกว่าแค่การป้องกัน แต่มันคือพลัง มันคืออนาคต จงแปลงร่าง ติดอาวุธ และครองความเป็นใหญ่ รูปแบบภาพ: ภาพยนตร์ + สมจริงดั่งภาพถ่าย, หุ่นยนต์แปลงร่างขนาดมหึมา, ล้ำสมัย, แกนพลังงานเรืองแสง, การแปลงร่างด้วยกลไก, ประกายไฟและควัน, สมรภูมิแห่งอนาคต, แสงสีที่ดูดราม่า, การเคลื่อนไหวกล้องแบบสโลว์โมชั่น, ความสมจริงระดับไซไฟ 8K ที่เก็บรายละเอียดครบถ้วน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="วิดีโอการแปลงร่างของหุ่นยนต์เมกะ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10344)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **Published:** Sep 4, 2026
-
----
-### ดวงจันทร์เสี้ยวและดาวอังคารบนท้องฟ้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ภาพจำลองเชิงภาพยนตร์ของดวงจันทร์เสี้ยวและดาวอังคารที่ปรากฏใกล้กันบนท้องฟ้าช่วงรุ่งสาง
-
-#### 📝 Prompt
-
-```
-ดวงจันทร์เสี้ยวและดาวอังคารจะปรากฏใกล้กันบนท้องฟ้าช่วงก่อนรุ่งสางในวันที่ 6 กันยายน 2026
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="ดวงจันทร์เสี้ยวและดาวอังคารบนท้องฟ้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10335)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **Published:** Sep 4, 2026
-
----
-### ท่ออุตสาหกรรมในหุบเขา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ภาพมุมกว้างแบบภาพยนตร์ที่แสดงให้เห็นท่ออุตสาหกรรมขนาดมหึมาที่ขึ้นสนิมพาดผ่านหุบเขา โดยมีคนเพียงคนเดียวเดินอยู่ด้านบน
-
-#### 📝 Prompt
-
-```
-ภาพมุมกว้างแบบภาพยนตร์ของท่ออุตสาหกรรมขนาดมหึมาที่ขึ้นสนิมพาดผ่านหุบเขาหิน มีร่างเล็กๆ เพียงคนเดียวเดินอยู่บนท่อตรงไปยังพัดลมวงกลมที่แตกหักบริเวณปลายเปิด ท้องฟ้าเต็มไปด้วยเมฆสีเทาพายุ พื้นผิวแบบภาพวาดสีน้ำมัน แสงสลัวที่ดูดราม่า รายละเอียดสูงมาก ความละเอียด 8k ผลงานจาก Grok Imagine
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="ท่ออุตสาหกรรมในหุบเขา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10339)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **Published:** Sep 4, 2026
-
----
-### ฉากนักรบกลาดิเอเตอร์ไซบอร์กผู้มีชัย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอระดับภาพยนตร์ที่ละเอียดสำหรับนักรบกลาดิเอเตอร์ผู้มีชัย พร้อมชุดเกราะไซเบอร์เนติกส์เรืองแสงและการเคลื่อนกล้องแบบหมุนวนที่ดูน่าตื่นตา
-
-#### 📝 Prompt
-
-```
-ฉากจบแห่งชัยชนะ: นักรบกลาดิเอเตอร์กึ่งไซบอร์กยืนอย่างผู้ชนะในสนามประลอง ชุดเกราะสีฟ้าเรืองแสงและดวงตาไซเบอร์เนติกส์ โดยมีสิงโตกำลังจัดการกับศัตรูที่อยู่เบื้องหลัง การเคลื่อนกล้องแบบหมุนวนที่ช้าและดูน่าตื่นตา ฝุ่นที่ค่อย ๆ จางลง พร้อมท่าทางที่ดูวีรบุรุษ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="ฉากนักรบกลาดิเอเตอร์ไซบอร์กผู้มีชัย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10337)**
-
-**Author:** [Cicada AQ](https://x.com/CicadaAQum) | **Source:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **Published:** Sep 3, 2026
-
----
-### ภาพโคลสอัพเชิงภาพยนตร์ของหญิงสาวคนงานเหมืองถ่านหิน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงภาพยนตร์ที่มีรายละเอียดสำหรับ Grok Imagine โดยนำเสนอภาพหญิงสาวคนงานเหมืองที่เปรอะเปื้อนไปด้วยถ่านหินในอุโมงค์มืด เน้นการจัดแสงที่ดูดราม่าในขณะที่ดวงตาของเธอเปลี่ยนเป็นสีอำพันที่ลุกโชน
-
-#### 📝 Prompt
-
-```
-ภาพโคลสอัพเชิงภาพยนตร์ของหญิงสาวคนงานเหมืองที่เปรอะเปื้อนไปด้วยถ่านหินในอุโมงค์เหมืองทรงกลมที่มืดมิด สวมหมวกนิรภัยที่บุบสลายพร้อมไฟฉายติดหมวกที่แตกและมีแสงเรืองรอง ใบหน้าเคลือบด้วยฝุ่นสีดำ จ้องมองด้วยสายตาที่เข้มข้น ดวงตาข้างหนึ่งค่อย ๆ ลุกโชนกลายเป็นสีอำพัน พื้นผิวของผิวหนังมีลักษณะคล้ายถ่านหิน แสงจากแหล่งกำเนิดเดียวที่ให้บรรยากาศหม่น ๆ สไตล์ภาพวาดที่สมจริงเหมือนภาพถ่าย รายละเอียดสูงพิเศษ 8k Grok Imagine
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="ภาพโคลสอัพเชิงภาพยนตร์ของหญิงสาวคนงานเหมืองถ่านหิน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10340)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2261,6 +2274,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T04:21:07.908Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T12:18:12.995Z</sub>
 
 </div>

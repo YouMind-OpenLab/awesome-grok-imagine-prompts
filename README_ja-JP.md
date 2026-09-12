@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2795** |
+| 📝 プロンプト総数 | **2804** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-12** |
 
@@ -189,6 +189,171 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 映画『アイ・アム・レジェンド』オプティマス・プライム版予告編
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用のシネマティックなビデオプロンプト。ウィル・スミスが Tesla Optimus ロボットに置き換わった映画予告編のシナリオを作成します。
+
+#### 📝 プロンプト
+
+```
+映画『アイ・アム・レジェンド』の予告編。ウィル・スミスの代わりに Tesla Optimus を登場させ、人類滅亡後に唯一生き残ったロボットとして描く。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098674271413280775/img/ASmQlDMZovJCgISu.jpg" width="600" alt="映画『アイ・アム・レジェンド』オプティマス・プライム版予告編">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10802)**
+
+**作者:** [PokeDon](https://x.com/Pokedoncards) | **ソース:** [Link](https://x.com/Pokedoncards/status/2098674288786084172) | **公開日:** Sep 12, 2026
+
+---
+### レディ・スターウィーバーとヒョウの子猫たち
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> エルフの森でレディとヒョウの子猫たちが登場するファンタジーシーンのための描写プロンプト。
+
+#### 📝 プロンプト
+
+```
+レディ・スターウィーバーと 2 匹の黒ヒョウの子猫は、深いエルフの森で暮らしています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098670972870025224/img/Skv-29rGkaq6s5Xl.jpg" width="600" alt="レディ・スターウィーバーとヒョウの子猫たち">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10803)**
+
+**作者:** [Judy Powell](https://x.com/Judy_2026) | **ソース:** [Link](https://x.com/Judy_2026/status/2098671027093905837) | **公開日:** Sep 12, 2026
+
+---
+### シェイプシフターの変身シークエンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 動物が次々と変身していく様子を詳細に記述した、複雑な多段階ダイナミック変身動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+女性が白い巨大なフクロウに変身し、そのフクロウが飛びながらユキヒョウに姿を変えて川を渡る。川を渡り終える頃には、再び元の女性の姿に戻る
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098604983788736518/img/JavVvbe4J-KCAUJi.jpg" width="600" alt="シェイプシフターの変身シークエンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10795)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2098605006433779873) | **公開日:** Sep 12, 2026
+
+---
+### 静寂の中で釣りをする老人
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 賑わいが去った後の静かな湖畔で、一人で釣りをする老人を描いた、哀愁と安らぎを感じさせるビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+一人で釣りをする老人の姿こそが、まさにそのイメージです。夏の喧騒は去り、湖の水はまだ温かく、もう誰かに見せる必要もない。そんな「悲しみではなく、祭りの後の静けさ」という感覚を表現してください。
+画面の大部分を湖が占めるようにし、その中で小さく描かれた老人が竿を手にしている構図にしてください。この「何もない空間」こそが、この映像の核心です。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098537834567135238/img/PjRyNL9hr8-vBhk-.jpg" width="600" alt="静寂の中で釣りをする老人">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10800)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2098537884756189577) | **公開日:** Sep 11, 2026
+
+---
+### スロー・ネオン・カラー・エクスプロージョン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 鮮やかなネオンカラーと幾何学模様が放射状に柔らかく広がる、高精細なビデオ生成用プロンプト。
+
+#### 📝 プロンプト
+
+```
+ゆっくりとした色彩の爆発。中心部には柔らかな光。鮮やかなネオンカラーの抽象的なパッチと幾何学模様が、全方向に向かってゆっくりと優しく広がる様子。渦巻きや回転の動きはなし。純粋でゆっくりとした放射状の爆発。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098529372018036736/img/X6hmQQrvrHZNwk-A.jpg" width="600" alt="スロー・ネオン・カラー・エクスプロージョン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10796)**
+
+**作者:** [Roy](https://x.com/RoyRoy67196892) | **ソース:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **公開日:** Sep 11, 2026
+
+---
+### 雨宿りをする母アリ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> アリの家族が葉の下で雨宿りをする様子を描いたナラティブ動画用プロンプト。
+
+#### 📝 プロンプト
+
+```
+母アリが食料を積んだ荷車を引いており、そのあとを息子のアリがついて歩いています。雨が降り出したため、母アリは雨をしのげる大きな葉の下へと移動します。彼女は息子に「離れないで！」と声をかけます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg" width="600" alt="雨宿りをする母アリ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10799)**
+
+**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **ソース:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **公開日:** Sep 11, 2026
+
+---
+### 歴史あるポーランド教会へのトリビュート動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1925 年当時のペンシルベニア州スクラントンにある、イエスとマリアの聖心教会（Sacred Hearts of Jesus and Mary Church）を称える歴史的なトリビュート動画用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+1925 年頃のペンシルベニア州スクラントンにおける、ポーランド系移民の教区であるイエスとマリアの聖心教会へのトリビュート
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098469271898861568/img/78r7y9inS0-AKtpz.jpg" width="600" alt="歴史あるポーランド教会へのトリビュート動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10798)**
+
+**作者:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **ソース:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **公開日:** Sep 11, 2026
+
+---
+### 麺を食べるリアルな一連の動作
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 自然な動きと感情を伴い、麺を食べる人物の非常にリアルな 15 秒間の動画を作成するための複雑な時間軸プロンプト。
+
+#### 📝 プロンプト
+
+```
+自然な人間の動きと説得力のあるタイミングで、非常にリアルな 15 秒間の動画を作成してください。
+
+0～4 秒：彼女は箸を自然に使い、ゆっくりと麺を口に運びます。一口食べ終えて、咀嚼（そしゃく）を始めます。
+
+4～7 秒：自然に咀嚼し、味を噛みしめている様子が伝わります。かすかな満足げな笑みを浮かべ、表情はリラックスしています。
+
+7～9 秒：咀嚼しながら、周囲に誰かが見ていたり笑っていたりしないかを確認するように、左、そして右へと視線を向けます。表情は少し用心深く、自意識過剰なものに変わります。
+
+9～12 秒：誰も笑っていないことに気づいてリラックスし、ティーカップを手に取って自然に一口飲みます。
+
+12～15 秒：カップを置き、セーターの袖で何気なく口元と頬を拭います。カメラの方を見て、少し恥ずかしそうでありながらも幸せそうな小さな笑みを浮かべます。
+
+すべての動きを連続的かつ物理的にリアルに保ってください。参照画像から、人物、顔、髪型、服装、オブジェクト、環境を正確に維持してください。自然な表情、リアルな目の動き、現実的な咀嚼と嚥下（えんげ）、正確な手と指の動き、麺・箸・ティーカップとの説得力のあるインタラクションを表現してください。かすかな手持ちカメラの揺れ、自然な呼吸、リアルな肌と布の動き、温かみのある自然光を含めてください。急な動き、モーフィング、顔の歪み、指の過剰な描写、オブジェクトの複製、不自然な口の動き、誇張された表情、会話、字幕、テキストのオーバーレイは禁止です。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098327215234838528/img/UBN3YsyfsnZP1A25.jpg" width="600" alt="麺を食べるリアルな一連の動作">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10797)**
+
+**作者:** [AI_Courier](https://x.com/arc_courier) | **ソース:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **公開日:** Sep 11, 2026
+
+---
 ### クリムト風の SF ナイト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +390,25 @@ No talk… クリムト風の夢幻的な油絵。SF 装甲を纏った、魅力
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10740)**
 
 **作者:** [Jourdan Fernandez](https://x.com/VisualTreats) | **ソース:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **公開日:** Sep 11, 2026
+
+---
+### 武術家を目指す人の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 次の偉大な武術家になることについて語りながら運動をする男性を描写した動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+ブルース・リーに続く次世代のドラゴンになると語りながら、腹筋運動をする男性の動画。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098225139926048774/img/DB104i5PfQFso7pI.jpg" width="600" alt="武術家を目指す人の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10801)**
+
+**作者:** [Ligma Ballz](https://x.com/LBallz77283) | **ソース:** [Link](https://x.com/LBallz77283/status/2098225163804319793) | **公開日:** Sep 11, 2026
 
 ---
 ### 中国伝統舞踊の振付
@@ -2029,177 +2213,6 @@ Pringles の缶、ブランディング、タイポグラフィ、色、背景�
 **作者:** [ojiji](https://x.com/ojiji2025) | **ソース:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **公開日:** Sep 4, 2026
 
 ---
-### 塩原に佇む孤独な人物
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 果てしなく続くひび割れた塩原で、巨大な石の円盤と対峙する孤独な人物を描いた、シュールで雰囲気のあるビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-果てしなく続くひび割れた塩原に、黒いコートを着た一人の人物が佇むシネマティックなワイドショット。目の前には、同心円状の石のリングと中央に暗い穴が開いた、巨大でひび割れた円盤がそびえ立つ。砕けた石と金属の質感、白い大地に伸びる長く鋭い影、淡い曇り空。静寂でシュールな雰囲気、絵画のようなディテール、親密で静止した空間、超高精細な生地と風化した表面の質感。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="塩原に佇む孤独な人物">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10387)**
-
-**作者:** [Sahil Verma](https://x.com/sahilvermaai) | **ソース:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **公開日:** Sep 4, 2026
-
----
-### 忘れ去られた人々のペガサス飛行
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 忘れ去られた貧しい人々が王族となり、ペガサスに乗って城へと飛び立つ様子を描いた比喩的なプロンプト。
-
-#### 📝 プロンプト
-
-```
-忘れ去られたすべての人々、貧しい人々がペガサスに乗り、王や女王となって彼らの城へと飛び立っていく
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="忘れ去られた人々のペガサス飛行">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10343)**
-
-**作者:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **ソース:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **公開日:** Sep 4, 2026
-
----
-### 巨大な懐中時計の中の少女
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 砂漠の風景の中に置かれた巨大で錆びついた懐中時計の中に座る少女を描いた、映画のようで哀愁漂うビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-ひび割れた砂漠にある、巨大で錆びついた懐中時計の中に座る、古びた服を着た少女の映画のようなショット。割れたガラスの文字盤。背後には巨大で埃をかぶった歯車。壊れたクリスタル越しに差し込む黄金の太陽光。乾いた大地と枯れ木。絵画的。哀愁。超高精細。8k。Grok Imagine。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="巨大な懐中時計の中の少女">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10342)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **公開日:** Sep 4, 2026
-
----
-### タクシーを呼ぶ犬のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 犬の写真を生き生きと動かすための Grok-imagine 用アニメーションプロンプトです。犬がまるでタクシーを呼んでいるかのように前足を上げる様子を描写します。
-
-#### 📝 プロンプト
-
-```
-この大きな耳の犬の写真をアニメーション化してください。まるでタクシーを呼ぼうとしているかのように、前足を上げさせてください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="タクシーを呼ぶ犬のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10345)**
-
-**作者:** [Løen](https://x.com/l03n27) | **ソース:** [Link](https://x.com/l03n27/status/2095697750130123031) | **公開日:** Sep 4, 2026
-
----
-### メカウォーリアー変形動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 緻密なメカパーツ、火花、スローモーションの動きを特徴とする、巨大ロボット変形のシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-次なる進化。機械が戦士へと変わる時、装甲は単なる防御を超越する。それは力となり、未来となる。変形せよ。武装せよ。制圧せよ。ビジュアルスタイル：シネマティック ＋ フォトリアル、巨大ロボットの変形、高度な技術、輝くエネルギーコア、機械的な変形プロセス、火花と煙、近未来の戦場、ドラマチックなライティング、スローモーションのカメラワーク、超高精細な 8K SF リアリズム。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="メカウォーリアー変形動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10344)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **公開日:** Sep 4, 2026
-
----
-### 三日月と火星の空
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 明け方の空に三日月と火星が接近して見える様子をシネマティックに視覚化しました。
-
-#### 📝 プロンプト
-
-```
-2026 年 9 月 6 日の明け方の空で、三日月と火星が接近して見えます
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="三日月と火星の空">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10335)**
-
-**作者:** [Marie](https://x.com/Marie8508319540) | **ソース:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **公開日:** Sep 4, 2026
-
----
-### 山間の谷に架かる工業用パイプ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 山間の谷に架かる巨大で錆びついた工業用パイプの上を、一人の人物が歩いている様子を捉えたシネマティックなワイドショット。
-
-#### 📝 プロンプト
-
-```
-岩だらけの山間の谷に架かる、巨大で錆びついた工業用パイプのシネマティックなワイドショット。パイプの先端にある壊れた円形のファンに向かって、頂上を歩く小さな一人の人物。嵐のような灰色の雲。油絵のような質感。ドラマチックな曇天の光。超高精細。8k。Grok Imagine。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="山間の谷に架かる工業用パイプ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10339)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **公開日:** Sep 4, 2026
-
----
-### 勝利を収めたサイボーグ剣闘士のシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 光り輝くサイバネティックアーマーを身にまとい、ドラマチックなカメラワークで捉えられた、勝利に沸く剣闘士のための詳細なシネマティック動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-勝利の結末：サイボーグの剣闘士がアリーナで勝利を収め、青く光るアーマーとサイバーアイが輝いている。背景ではライオンが敵を仕留めており、ゆっくりとしたドラマチックなカメラの旋回、舞い上がる砂埃、英雄的なポーズ。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="勝利を収めたサイボーグ剣闘士のシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10337)**
-
-**作者:** [Cicada AQ](https://x.com/CicadaAQum) | **ソース:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **公開日:** Sep 3, 2026
-
----
-### 炭鉱で働く女性のシネマティックなクローズアップ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 向けのシネマティックな詳細プロンプト。暗いトンネル内で炭にまみれた女性鉱夫に焦点を当て、目が燃えるような琥珀色に変わるドラマチックなライティングを強調しています。
-
-#### 📝 プロンプト
-
-```
-暗い円形の炭鉱トンネル内にいる、炭にまみれた女性鉱夫のシネマティックなクローズアップ。ひび割れて光るヘッドランプが付いた使い古されたヘルメット。黒い粉塵で覆われた顔。強烈な眼差し。片目がゆっくりと燃えるような琥珀色に変化する。肌の炭のような質感。ムードのあるシングルソースライト。フォトリアルな絵画調。超高精細。8k。Grok Imagine。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="炭鉱で働く女性のシネマティックなクローズアップ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10340)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **公開日:** Sep 3, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2261,6 +2274,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-12T04:21:04.575Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-12T12:18:10.903Z</sub>
 
 </div>

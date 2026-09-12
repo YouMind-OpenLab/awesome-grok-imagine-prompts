@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2795** |
+| 📝 Total Prompts | **2804** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-12** |
 
@@ -189,6 +189,171 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### I Am Legend Optimus Prime ट्रेलर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें एक मूवी ट्रेलर का दृश्य बनाया गया है जहाँ विल स्मिथ की जगह एक Tesla Optimus रोबोट है।
+
+#### 📝 Prompt
+
+```
+I Am Legend का मूवी ट्रेलर, लेकिन इसमें विल स्मिथ की जगह Tesla Optimus है, जो इंसानों के बाद बचा हुआ आखिरी रोबोट है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098674271413280775/img/ASmQlDMZovJCgISu.jpg" width="600" alt="I Am Legend Optimus Prime ट्रेलर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10802)**
+
+**Author:** [PokeDon](https://x.com/Pokedoncards) | **Source:** [Link](https://x.com/Pokedoncards/status/2098674288786084172) | **Published:** Sep 12, 2026
+
+---
+### लेडी स्टारवीवर और तेंदुए के बच्चे
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एल्विन जंगल में एक महिला और तेंदुए के बच्चों से जुड़े एक काल्पनिक दृश्य के लिए वर्णनात्मक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+लेडी स्टारवीवर और दो काले तेंदुए के बच्चे गहरे एल्विन जंगल में रहते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098670972870025224/img/Skv-29rGkaq6s5Xl.jpg" width="600" alt="लेडी स्टारवीवर और तेंदुए के बच्चे">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10803)**
+
+**Author:** [Judy Powell](https://x.com/Judy_2026) | **Source:** [Link](https://x.com/Judy_2026/status/2098671027093905837) | **Published:** Sep 12, 2026
+
+---
+### शेपशिफ्टर मेटामॉर्फोसिस सीक्वेंस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जटिल मल्टी-स्टेज डायनामिक ट्रांसफॉर्मेशन वीडियो प्रॉम्प्ट, जिसमें जानवरों के क्रमिक रूपांतरण का विवरण दिया गया है।
+
+#### 📝 Prompt
+
+```
+एक महिला सफेद विशाल उल्लू में बदल जाती है, उल्लू उड़ता है और नदी पार करते समय हिम तेंदुए (snow leopard) में बदल जाता है, और जैसे ही वह नदी पार करता है, वह वापस उस महिला में बदल जाता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098604983788736518/img/JavVvbe4J-KCAUJi.jpg" width="600" alt="शेपशिफ्टर मेटामॉर्फोसिस सीक्वेंस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10795)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2098605006433779873) | **Published:** Sep 12, 2026
+
+---
+### अकेला मछुआरा और शांत दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक बूढ़े व्यक्ति को झील पर अकेले मछली पकड़ते हुए दर्शाने वाला एक उदास लेकिन शांतिपूर्ण वीडियो प्रॉम्प्ट, जो भीड़ के जाने के बाद के शांत वातावरण पर जोर देता है।
+
+#### 📝 Prompt
+
+```
+अकेले मछली पकड़ता वह बूढ़ा व्यक्ति बिल्कुल सही दृश्य है — गर्मियों की भीड़ जा चुकी है, झील अभी भी गर्म है, और अब प्रदर्शन करने के लिए कोई नहीं बचा है। यही वह सटीक अहसास है: उदास नहीं, बस पार्टी के बाद की शांति।
+उसे पानी के सामने छोटा सा दिखाएं, हाथ में मछली पकड़ने वाली छड़ी हो, और झील को फ्रेम के अधिकांश हिस्से में रहने दें। खालीपन ही इसका मुख्य उद्देश्य है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098537834567135238/img/PjRyNL9hr8-vBhk-.jpg" width="600" alt="अकेला मछुआरा और शांत दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10800)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2098537884756189577) | **Published:** Sep 11, 2026
+
+---
+### धीमा नियॉन रंग विस्फोट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> जीवंत नियॉन रंगों और ज्यामितीय आकृतियों के एक नरम, चमकते रेडियल विस्फोट के लिए एक अत्यधिक विस्तृत वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+बस धीमा रंग विस्फोट। नरम केंद्रीय चमकती रोशनी। जीवंत नियॉन अमूर्त रंग के पैच और ज्यामितीय आकृतियाँ धीरे-धीरे सभी दिशाओं में बाहर की ओर फैल रही हैं। कोई सर्पिल नहीं, कोई घूमती हुई गति नहीं, कोई रोटेशन नहीं। शुद्ध धीमा रेडियल विस्फोट
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098529372018036736/img/X6hmQQrvrHZNwk-A.jpg" width="600" alt="धीमा नियॉन रंग विस्फोट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10796)**
+
+**Author:** [Roy](https://x.com/RoyRoy67196892) | **Source:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **Published:** Sep 11, 2026
+
+---
+### बारिश से बचती हुई माँ चींटी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक नैरेटिव वीडियो प्रॉम्प्ट जिसमें चींटियों का एक परिवार बारिश से बचने के लिए एक पत्ते के नीचे आश्रय ले रहा है।
+
+#### 📝 Prompt
+
+```
+एक माँ चींटी अपने बेटे के साथ भोजन से भरी अपनी गाड़ी खींच रही है। तभी बारिश शुरू हो जाती है, इसलिए वह उसे एक बड़े पत्ते के नीचे ले जाती है जो बारिश रुकने तक आश्रय प्रदान करता है। वह अपने बेटे को पास रहने के लिए आवाज़ लगाती है!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg" width="600" alt="बारिश से बचती हुई माँ चींटी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10799)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
+
+---
+### ऐतिहासिक पोलिश चर्च ट्रिब्यूट वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> स्क्रैंटन, पेंसिल्वेनिया में स्थित सेक्रेड हार्ट्स ऑफ जीसस एंड मैरी चर्च के 1925 के स्वरूप को दर्शाने वाले एक ऐतिहासिक श्रद्धांजलि वीडियो के लिए प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+सेक्रेड हार्ट्स ऑफ जीसस एंड मैरी चर्च, स्क्रैंटन, पेंसिल्वेनिया को श्रद्धांजलि, लगभग 1925, पोलिश प्रवासियों का पैरिश
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098469271898861568/img/78r7y9inS0-AKtpz.jpg" width="600" alt="ऐतिहासिक पोलिश चर्च ट्रिब्यूट वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
+
+**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
+
+---
+### नूडल्स खाने का यथार्थवादी दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक व्यक्ति द्वारा नूडल्स खाने के स्वाभाविक हाव-भाव और गतिविधियों को दर्शाने वाला 15 सेकंड का अत्यधिक यथार्थवादी वीडियो बनाने के लिए एक जटिल टेम्पोरल प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+स्वाभाविक मानवीय गतिविधियों और सटीक टाइमिंग के साथ 15 सेकंड का अत्यधिक यथार्थवादी वीडियो बनाएं।
+
+0–4 सेकंड: वह धीरे-धीरे चॉपस्टिक्स का उपयोग करते हुए नूडल्स को अपने मुंह में डालती है। वह निवाला खत्म करती है और चबाना शुरू करती है।
+
+4–7 सेकंड: वह स्वाभाविक रूप से चबाती है और स्वाद का आनंद लेती है, उसके चेहरे पर हल्की संतुष्टि भरी मुस्कान और सुकून के भाव हैं।
+
+7–9 सेकंड: चबाते समय, वह संक्षेप में बाईं ओर और फिर दाईं ओर देखती है, यह जांचते हुए कि क्या उसके आसपास कोई उसे देख रहा है या उस पर हंस रहा है। उसके चेहरे के भाव थोड़े सतर्क और संकोची हो जाते हैं।
+
+9–12 सेकंड: यह महसूस करने के बाद कि कोई नहीं हंस रहा है, वह सहज हो जाती है, चाय का कप उठाती है और स्वाभाविक रूप से एक घूंट लेती है।
+
+12–15 सेकंड: वह कप नीचे रखती है, फिर लापरवाही से अपनी स्वेटर की आस्तीन से अपना मुंह और गाल पोंछती है, कैमरे की ओर देखती है और एक छोटी, थोड़ी शर्मिंदा लेकिन खुश मुस्कान देती है।
+
+सभी गतिविधियों को निरंतर और भौतिक रूप से यथार्थवादी रखें। संदर्भ छवियों से व्यक्ति, चेहरा, हेयरस्टाइल, कपड़े, वस्तुओं और वातावरण को बिल्कुल वैसा ही बनाए रखें। चेहरे के स्वाभाविक भाव, आंखों की यथार्थवादी हरकतें, चबाने और निगलने की यथार्थवादी प्रक्रिया, हाथों और उंगलियों की सटीक गतिविधियां, नूडल्स, चॉपस्टिक्स और चाय के कप के साथ विश्वसनीय इंटरैक्शन। सूक्ष्म हैंडहेल्ड कैमरा मूवमेंट, स्वाभाविक सांस लेना, त्वचा और कपड़ों की यथार्थवादी गति, गर्म प्राकृतिक प्रकाश। कोई अचानक हरकत नहीं, कोई मॉर्फिंग नहीं, चेहरे में कोई विकृति नहीं, कोई अतिरिक्त उंगलियां नहीं, कोई डुप्लिकेट वस्तुएं नहीं, मुंह की कोई अप्राकृतिक हरकत नहीं, कोई अतिरंजित भाव नहीं, कोई बातचीत नहीं, कोई सबटाइटल नहीं, कोई टेक्स्ट ओवरले नहीं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098327215234838528/img/UBN3YsyfsnZP1A25.jpg" width="600" alt="नूडल्स खाने का यथार्थवादी दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
+
+**Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
+
+---
 ### Klimt स्टाइल का Sci-Fi नाइट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +390,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10740)**
 
 **Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **Published:** Sep 11, 2026
+
+---
+### मार्शल आर्ट्स एस्पिरेंट वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जिसमें एक व्यक्ति व्यायाम करते हुए अगले महान मार्शल आर्टिस्ट बनने के बारे में बात कर रहा है।
+
+#### 📝 Prompt
+
+```
+एक वीडियो जिसमें एक व्यक्ति सिट-अप्स कर रहा है और ब्रूस ली के बाद अगला ड्रैगन बनने के बारे में बात कर रहा है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098225139926048774/img/DB104i5PfQFso7pI.jpg" width="600" alt="मार्शल आर्ट्स एस्पिरेंट वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10801)**
+
+**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2098225163804319793) | **Published:** Sep 11, 2026
 
 ---
 ### पारंपरिक चीनी नृत्य कोरियोग्राफी
@@ -2029,177 +2213,6 @@ Pringles का लाल ढक्कन हवा में धीरे-ध�
 **Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
 
 ---
-### साल्ट फ्लैट पर अकेला व्यक्ति
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक असली और वायुमंडलीय वीडियो प्रॉम्प्ट जिसमें एक अंतहीन दरार वाले साल्ट फ्लैट पर एक विशाल पत्थर की डिस्क के सामने खड़ा एक अकेला व्यक्ति दिखाई देता है।
-
-#### 📝 Prompt
-
-```
-एक अंतहीन दरार वाले साल्ट फ्लैट पर खड़े गहरे कोट पहने एक अकेले व्यक्ति का सिनेमाई वाइड शॉट, जो संकेंद्रित पत्थर के छल्लों और केंद्र में एक गहरे छेद वाली एक विशाल दरार वाली गोलाकार डिस्क का सामना कर रहा है, टूटे हुए पत्थर और धातु की बनावट, सफेद जमीन पर लंबी गहरी छाया, हल्का बादलों वाला आसमान, शांत असली वातावरण, चित्रमय विवरण, अंतरंग और स्थिर, अति-विस्तृत कपड़े और मौसम की मार झेल चुकी सतह
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="साल्ट फ्लैट पर अकेला व्यक्ति">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **Published:** Sep 4, 2026
-
----
-### भुला दिए गए लोगों की पेगासस उड़ान
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक रूपक प्रॉम्प्ट जहाँ भुला दिए गए गरीब लोग शाही बन जाते हैं और पेगासस पर सवार होकर एक महल की ओर उड़ जाते हैं।
-
-#### 📝 Prompt
-
-```
-वे सभी लोग जिन्हें भुला दिया गया था, वे सभी गरीब लोग पेगासस घोड़े पर सवार होकर राजा और रानी बन जाते हैं, और वे अपने महल की ओर उड़ जाते हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="भुला दिए गए लोगों की पेगासस उड़ान">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10343)**
-
-**Author:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **Source:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **Published:** Sep 4, 2026
-
----
-### विशाल पॉकेट वॉच में बैठी लड़की
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक और उदास वीडियो प्रॉम्प्ट, जिसमें एक युवा लड़की रेगिस्तानी परिदृश्य में एक विशाल, जंग लगी पॉकेट वॉच के अंदर बैठी है।
-
-#### 📝 Prompt
-
-```
-फटी-पुरानी कपड़ों में एक छोटी लड़की का सिनेमैटिक शॉट, जो एक दरार वाले रेगिस्तान में एक विशाल जंग लगी पॉकेट वॉच के अंदर बैठी है। टूटा हुआ कांच का चेहरा। उसके पीछे विशाल धूल भरे गियर्स। टूटे हुए क्रिस्टल से आती सुनहरी धूप। सूखी जमीन और मृत झाड़ियाँ। पेंटिंग जैसा। उदास। अल्ट्रा डिटेल्ड। 8k। Grok Imagine।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="विशाल पॉकेट वॉच में बैठी लड़की">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10342)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **Published:** Sep 4, 2026
-
----
-### टैक्सी को हाथ देने वाले कुत्ते का एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok-imagine के लिए एक एनीमेशन प्रॉम्प्ट जो कुत्ते की एक तस्वीर में जान डाल देता है, जिसमें उसे टैक्सी बुलाने के लिए अपना पंजा उठाते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-बड़े कानों वाले इस कुत्ते की तस्वीर को एनिमेट करें, जिसमें वह अपना पंजा ऐसे उठाए जैसे वह टैक्सी बुलाना चाहता हो
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="टैक्सी को हाथ देने वाले कुत्ते का एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10345)**
-
-**Author:** [Løen](https://x.com/l03n27) | **Source:** [Link](https://x.com/l03n27/status/2095697750130123031) | **Published:** Sep 4, 2026
-
----
-### मेचा वॉरियर ट्रांसफॉर्मेशन वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> विस्तृत यांत्रिक पुर्जों, चिंगारियों और स्लो-मोशन मूवमेंट वाले एक विशाल ट्रांसफॉर्मिंग रोबोट के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-अगला विकास: जब मशीनें योद्धा बन जाती हैं, तो कवच केवल सुरक्षा से कहीं अधिक हो जाता है। यह शक्ति बन जाता है। यह भविष्य बन जाता है। ट्रांसफॉर्म करें। तैयार हों। हावी हों। विजुअल स्टाइल: सिनेमैटिक + फोटो-रियलिस्टिक, विशाल ट्रांसफॉर्मिंग रोबोट, उन्नत, चमकते ऊर्जा कोर, यांत्रिक परिवर्तन, चिंगारियां और धुआं, भविष्यवादी युद्धक्षेत्र, नाटकीय प्रकाश व्यवस्था, स्लो-मोशन कैमरा मूवमेंट, अल्ट्रा-डिटेल्ड 8K साइंस-फिक्शन रियलिज्म।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="मेचा वॉरियर ट्रांसफॉर्मेशन वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10344)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **Published:** Sep 4, 2026
-
----
-### अर्धचंद्र और मंगल ग्रह का आकाश
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> भोर के आकाश में एक-दूसरे के करीब दिखाई देने वाले अर्धचंद्र और मंगल ग्रह का एक सिनेमाई दृश्य।
-
-#### 📝 Prompt
-
-```
-6 सितंबर, 2026 को भोर से पहले के आकाश में अर्धचंद्र और मंगल ग्रह एक-दूसरे के करीब दिखाई देंगे
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="अर्धचंद्र और मंगल ग्रह का आकाश">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10335)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **Published:** Sep 4, 2026
-
----
-### औद्योगिक पाइप माउंटेन वैली
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई वाइड शॉट जिसमें एक विशाल जंग लगा औद्योगिक पाइप पहाड़ी घाटी के ऊपर फैला हुआ है और एक अकेला व्यक्ति उसके ऊपर चल रहा है।
-
-#### 📝 Prompt
-
-```
-एक विशाल जंग लगे औद्योगिक पाइप का सिनेमाई वाइड शॉट जो एक चट्टानी पहाड़ी घाटी के ऊपर फैला हुआ है। एक छोटा सा अकेला व्यक्ति ऊपर से चलते हुए खुले सिरे पर लगे एक टूटे हुए गोलाकार पंखे की ओर जा रहा है। तूफानी भूरे बादल। पेंट जैसा ऑयल टेक्सचर। नाटकीय ओवरकास्ट लाइट। अत्यधिक विस्तृत। 8k। Grok Imagine।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="औद्योगिक पाइप माउंटेन वैली">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10339)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **Published:** Sep 4, 2026
-
----
-### विजयी साइबॉर्ग ग्लैडिएटर दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> चमकदार साइबरनेटिक कवच और नाटकीय कैमरा ऑर्बिट के साथ एक विजयी ग्लैडिएटर के लिए विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-विजयी अंत: आधा-साइबॉर्ग ग्लैडिएटर अखाड़े में विजयी खड़ा है, चमकता हुआ नीला कवच और साइबर आंख, पृष्ठभूमि में शेर दुश्मनों का खात्मा कर रहे हैं, धीमा नाटकीय कैमरा ऑर्बिट, धूल जम रही है, वीरतापूर्ण मुद्रा।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="विजयी साइबॉर्ग ग्लैडिएटर दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10337)**
-
-**Author:** [Cicada AQ](https://x.com/CicadaAQum) | **Source:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **Published:** Sep 3, 2026
-
----
-### कोयला खदान में काम करने वाली महिला का सिनेमैटिक क्लोज़-अप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत सिनेमैटिक प्रॉम्प्ट, जिसमें एक अंधेरी सुरंग में कोयले से सनी महिला खनिक को दिखाया गया है, जिसका ध्यान नाटकीय लाइटिंग पर है और उसकी आँखें जलते हुए एम्बर (amber) रंग में बदल रही हैं।
-
-#### 📝 Prompt
-
-```
-अंधेरी गोलाकार खदान सुरंग में कोयले से सनी महिला खनिक का सिनेमैटिक क्लोज़-अप। टूटी हुई चमकती हेडलाइट के साथ क्षतिग्रस्त हेलमेट। चेहरे पर काली धूल की परत। तीव्र दृष्टि। एक आँख धीरे-धीरे जलते हुए एम्बर रंग में बदल रही है। त्वचा पर चारकोल जैसी बनावट। मूडी सिंगल-सोर्स लाइटिंग। फोटो-रियलिस्टिक पेंटरली। अल्ट्रा डिटेल्ड। 8k। Grok Imagine।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="कोयला खदान में काम करने वाली महिला का सिनेमैटिक क्लोज़-अप">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10340)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2261,6 +2274,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T04:21:09.642Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T12:18:15.595Z</sub>
 
 </div>

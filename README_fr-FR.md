@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2795** |
+| 📝 Total Prompts | **2804** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-12** |
 
@@ -189,6 +189,171 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Bande-annonce de Je suis une légende avec Optimus Prime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique pour Grok Imagine, créant un scénario de bande-annonce de film où Will Smith est remplacé par un robot Tesla Optimus.
+
+#### 📝 Prompt
+
+```
+Bande-annonce du film Je suis une légende, mais en remplaçant Will Smith par un robot Tesla Optimus ; il est le dernier robot encore en activité après la disparition des humains.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098674271413280775/img/ASmQlDMZovJCgISu.jpg" width="600" alt="Bande-annonce de Je suis une légende avec Optimus Prime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10802)**
+
+**Author:** [PokeDon](https://x.com/Pokedoncards) | **Source:** [Link](https://x.com/Pokedoncards/status/2098674288786084172) | **Published:** Sep 12, 2026
+
+---
+### Lady StarWeaver et les chatons léopards
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt descriptif pour une scène fantastique mettant en scène une dame et des chatons léopards dans une forêt elfique.
+
+#### 📝 Prompt
+
+```
+Lady StarWeaver et les deux chatons léopards noirs vivent au cœur de la profonde forêt elfique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098670972870025224/img/Skv-29rGkaq6s5Xl.jpg" width="600" alt="Lady StarWeaver et les chatons léopards">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10803)**
+
+**Author:** [Judy Powell](https://x.com/Judy_2026) | **Source:** [Link](https://x.com/Judy_2026/status/2098671027093905837) | **Published:** Sep 12, 2026
+
+---
+### Séquence de métamorphose de changeforme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo complexe de transformation dynamique en plusieurs étapes détaillant des métamorphoses animales séquentielles.
+
+#### 📝 Prompt
+
+```
+Une femme se transforme en chouette harfang des neiges, la chouette s'envole et se transforme en léopard des neiges alors qu'elle traverse une rivière, et au moment où elle traverse la rivière, elle redevient la femme
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098604983788736518/img/JavVvbe4J-KCAUJi.jpg" width="600" alt="Séquence de métamorphose de changeforme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10795)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2098605006433779873) | **Published:** Sep 12, 2026
+
+---
+### Scène paisible d'un pêcheur solitaire
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo à la fois mélancolique et paisible représentant un vieil homme pêchant seul sur un lac, soulignant l'atmosphère calme après le départ de la foule.
+
+#### 📝 Prompt
+
+```
+Le vieil homme pêchant seul est l'image parfaite : la foule estivale est partie, le lac est encore chaud, il n'y a plus personne pour faire le spectacle. C'est exactement ce sentiment : pas de la tristesse, juste le calme après la fête.
+Dessinez-le petit face à l'étendue d'eau, canne à la main, et laissez le lac occuper la majeure partie du cadre. Le vide est l'essence même de la scène.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098537834567135238/img/PjRyNL9hr8-vBhk-.jpg" width="600" alt="Scène paisible d'un pêcheur solitaire">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10800)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2098537884756189577) | **Published:** Sep 11, 2026
+
+---
+### Explosion de couleurs néon au ralenti
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo très détaillé pour une explosion radiale douce et lumineuse de couleurs néon vibrantes et de formes géométriques.
+
+#### 📝 Prompt
+
+```
+Explosion de couleurs lente. Lumière centrale douce et éclatante. Taches de couleurs néon abstraites et vibrantes ainsi que des formes géométriques explosant lentement et s'étendant doucement vers l'extérieur dans toutes les directions. Pas de spirale, pas de mouvement tourbillonnant, pas de rotation. Pure explosion radiale lente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098529372018036736/img/X6hmQQrvrHZNwk-A.jpg" width="600" alt="Explosion de couleurs néon au ralenti">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10796)**
+
+**Author:** [Roy](https://x.com/RoyRoy67196892) | **Source:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **Published:** Sep 11, 2026
+
+---
+### Une maman fourmi s'abritant de la pluie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo narratif mettant en scène une famille de fourmis cherchant refuge sous une feuille pour se protéger de la pluie.
+
+#### 📝 Prompt
+
+```
+Une maman fourmi tire son chariot de nourriture avec son fils à ses côtés. La pluie commence à tomber, alors elle se met à l'abri sous une grande feuille qui les protège jusqu'à la fin de l'averse. Elle appelle son fils pour qu'il reste près d'elle !
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg" width="600" alt="Une maman fourmi s'abritant de la pluie">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10799)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
+
+---
+### Vidéo hommage à une église polonaise historique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo pour un hommage historique à l'église des Sacrés-Cœurs de Jésus et de Marie à Scranton, en Pennsylvanie, telle qu'elle apparaissait en 1925.
+
+#### 📝 Prompt
+
+```
+Hommage à l'église des Sacrés-Cœurs de Jésus et de Marie, Scranton, Pennsylvanie, vers 1925, paroisse d'immigrants polonais
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098469271898861568/img/78r7y9inS0-AKtpz.jpg" width="600" alt="Vidéo hommage à une église polonaise historique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
+
+**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
+
+---
+### Séquence réaliste de dégustation de nouilles
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt temporel complexe pour créer une vidéo ultra-réaliste de 15 secondes montrant une personne mangeant des nouilles avec des mouvements et des émotions naturels.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo ultra-réaliste de 15 secondes avec des mouvements humains naturels et un timing crédible.
+
+0–4 s : Elle porte lentement les nouilles à sa bouche en utilisant naturellement les baguettes. Elle termine sa bouchée et commence à mâcher.
+
+4–7 s : Elle mâche naturellement et semble apprécier le goût, affichant un léger sourire de satisfaction et une expression détendue.
+
+7–9 s : Tout en mâchant, elle regarde brièvement à gauche puis à droite, vérifiant si quelqu'un autour d'elle la regarde ou se moque d'elle. Son expression devient légèrement prudente et gênée.
+
+9–12 s : Elle se détend après avoir réalisé que personne ne rit, saisit sa tasse de thé et en prend une gorgée naturelle.
+
+12–15 s : Elle repose la tasse, s'essuie négligemment la bouche et la joue avec la manche de son pull, regarde vers la caméra et esquisse un petit sourire, légèrement embarrassé mais heureux.
+
+Assurez la continuité et le réalisme physique de tous les mouvements. Préservez l'identité, le visage, la coiffure, les vêtements, les objets et l'environnement des images de référence. Expressions faciales naturelles, mouvements oculaires réalistes, mastication et déglutition réalistes, mouvements précis des mains et des doigts, interaction crédible avec les nouilles, les baguettes et la tasse de thé. Léger mouvement de caméra à l'épaule, respiration naturelle, mouvement réaliste de la peau et des tissus, éclairage naturel chaleureux. Pas de mouvements brusques, pas de morphing, pas de distorsion du visage, pas de doigts en trop, pas d'objets dupliqués, pas de mouvements de bouche non naturels, pas d'expressions exagérées, pas de paroles, pas de sous-titres, pas de texte à l'écran.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098327215234838528/img/UBN3YsyfsnZP1A25.jpg" width="600" alt="Séquence réaliste de dégustation de nouilles">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
+
+**Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
+
+---
 ### Chevalier de science-fiction dans le style de Klimt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +390,25 @@ Une jeune femme française sculpturale dans la Galerie Borghèse, portant une te
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10740)**
 
 **Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **Published:** Sep 11, 2026
+
+---
+### Vidéo d'un aspirant aux arts martiaux
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo décrivant un homme faisant de l'exercice tout en parlant de devenir le prochain grand maître d'arts martiaux.
+
+#### 📝 Prompt
+
+```
+Une vidéo d'un gars faisant des abdominaux et parlant de devenir le prochain dragon après Bruce Lee.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098225139926048774/img/DB104i5PfQFso7pI.jpg" width="600" alt="Vidéo d'un aspirant aux arts martiaux">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10801)**
+
+**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2098225163804319793) | **Published:** Sep 11, 2026
 
 ---
 ### Chorégraphie de danse traditionnelle chinoise
@@ -2029,177 +2213,6 @@ Tout le monde se rassemble pour observer l'arrivée d'un vaisseau spatial impér
 **Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
 
 ---
-### Silhouette solitaire sur un désert de sel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo surréaliste et atmosphérique mettant en scène une silhouette solitaire face à un disque de pierre colossal sur un désert de sel craquelé à perte de vue.
-
-#### 📝 Prompt
-
-```
-Plan large cinématographique d'une silhouette solitaire en manteau sombre debout sur un désert de sel craquelé à perte de vue, face à un disque circulaire colossal fissuré, orné d'anneaux de pierre concentriques et d'un trou sombre en son centre, texture de pierre et de métal fracturés, longue ombre marquée sur la terre blanche, ciel pâle et nuageux, atmosphère surréaliste et silencieuse, détails picturaux, intimiste et immobile, tissus et surfaces patinées ultra-détaillés
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="Silhouette solitaire sur un désert de sel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **Published:** Sep 4, 2026
-
----
-### Le vol de Pégase des oubliés
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt métaphorique où les pauvres oubliés deviennent des membres de la royauté et s'envolent sur Pégase vers un château.
-
-#### 📝 Prompt
-
-```
-Tous les oubliés, tous les pauvres, montent sur le cheval Pégase ; ils deviennent rois et reines et s'envolent vers leur château.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="Le vol de Pégase des oubliés">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10343)**
-
-**Author:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **Source:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **Published:** Sep 4, 2026
-
----
-### Jeune fille dans une montre à gousset colossale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique et mélancolique mettant en scène une jeune fille assise à l'intérieur d'une montre à gousset massive et rouillée dans un paysage désertique.
-
-#### 📝 Prompt
-
-```
-Plan cinématographique d'une petite fille en vêtements usés assise à l'intérieur d'une montre à gousset colossale et rouillée dans un désert craquelé. Cadran en verre brisé. Engrenages massifs et poussiéreux derrière elle. Rayon de soleil doré traversant le cristal brisé. Terre sèche et arbustes morts. Style pictural. Mélancolique. Ultra détaillé. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="Jeune fille dans une montre à gousset colossale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10342)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **Published:** Sep 4, 2026
-
----
-### Animation d'un chien hélant un taxi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'animation pour Grok-imagine qui donne vie à une photo de chien, le représentant levant la patte comme s'il hélait un taxi.
-
-#### 📝 Prompt
-
-```
-Anime cette photo du chien aux grandes oreilles en lui faisant lever la patte comme s'il voulait héler un taxi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="Animation d'un chien hélant un taxi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10345)**
-
-**Author:** [Løen](https://x.com/l03n27) | **Source:** [Link](https://x.com/l03n27/status/2095697750130123031) | **Published:** Sep 4, 2026
-
----
-### Vidéo de transformation de Mecha Warrior
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématique pour un robot massif en pleine transformation, avec des pièces mécaniques détaillées, des étincelles et un mouvement au ralenti.
-
-#### 📝 Prompt
-
-```
-LA PROCHAINE ÉVOLUTION Quand les machines deviennent des guerriers, l'armure devient bien plus qu'une protection. Elle devient une puissance. Elle devient le futur. Transformez. Armez. Dominez. Style visuel : cinématique + photoréaliste, robot massif en transformation, avancé, cœurs d'énergie luminescents, transformation mécanique, étincelles et fumée, champ de bataille futuriste, éclairage dramatique, mouvement de caméra au ralenti, réalisme science-fiction ultra-détaillé en 8K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="Vidéo de transformation de Mecha Warrior">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10344)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **Published:** Sep 4, 2026
-
----
-### Croissant de lune et Mars dans le ciel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une visualisation cinématographique du croissant de lune et de Mars apparaissant côte à côte dans le ciel à l'aube.
-
-#### 📝 Prompt
-
-```
-Le croissant de lune et Mars apparaîtront côte à côte dans le ciel avant l'aube le 6 septembre 2026
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="Croissant de lune et Mars dans le ciel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10335)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **Published:** Sep 4, 2026
-
----
-### Tuyau industriel dans une vallée de montagne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un plan large cinématographique représentant un immense tuyau industriel rouillé traversant une vallée de montagne, avec une silhouette solitaire marchant au sommet.
-
-#### 📝 Prompt
-
-```
-Plan large cinématographique d'un colossal tuyau industriel rouillé traversant une vallée montagneuse rocheuse. Une minuscule silhouette solitaire marche le long du sommet vers un ventilateur circulaire brisé à l'extrémité ouverte. Nuages gris orageux. Texture de peinture à l'huile. Lumière dramatique et couverte. Ultra détaillé. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="Tuyau industriel dans une vallée de montagne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10339)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **Published:** Sep 4, 2026
-
----
-### Scène de gladiateur cyborg victorieux
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique détaillé pour un gladiateur triomphant avec une armure cybernétique lumineuse et une orbite de caméra dramatique.
-
-#### 📝 Prompt
-
-```
-Fin triomphale : le gladiateur mi-cyborg se tient victorieux dans l'arène, armure bleue lumineuse et œil cybernétique, des lions achèvent les ennemis en arrière-plan, mouvement de caméra lent et dramatique, poussière qui retombe, pose héroïque.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="Scène de gladiateur cyborg victorieux">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10337)**
-
-**Author:** [Cicada AQ](https://x.com/CicadaAQum) | **Source:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **Published:** Sep 3, 2026
-
----
-### Gros plan cinématographique d'une femme mineure
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique détaillé pour Grok Imagine mettant en scène une femme mineure couverte de charbon dans un tunnel sombre, avec un accent sur l'éclairage dramatique alors que son œil se transforme en ambre brûlant.
-
-#### 📝 Prompt
-
-```
-Gros plan cinématographique d'une femme mineure couverte de charbon dans un tunnel de mine circulaire sombre. Casque abîmé avec une lampe frontale fissurée et lumineuse. Visage recouvert de poussière noire. Regard intense. Un œil s'embrase lentement en ambre brûlant. Texture de charbon sur la peau. Éclairage mélancolique à source unique. Style pictural photoréaliste. Ultra détaillé. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="Gros plan cinématographique d'une femme mineure">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10340)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2261,6 +2274,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T04:21:13.552Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T12:18:21.035Z</sub>
 
 </div>

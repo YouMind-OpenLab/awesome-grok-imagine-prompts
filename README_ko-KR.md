@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2795** |
+| 📝 총 프롬프트 수 | **2804** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-09-12** |
 
@@ -189,6 +189,171 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### I Am Legend Optimus Prime 예고편
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 위한 영화 예고편 시나리오 생성 프롬프트로, Will Smith 대신 Tesla Optimus 로봇이 등장하는 영상입니다.
+
+#### 📝 프롬프트
+
+```
+I Am Legend 영화 예고편인데 Will Smith 대신 Tesla Optimus가 등장함. 인류가 사라진 후 홀로 남은 마지막 로봇이라는 설정
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098674271413280775/img/ASmQlDMZovJCgISu.jpg" width="600" alt="I Am Legend Optimus Prime 예고편">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10802)**
+
+**작성자:** [PokeDon](https://x.com/Pokedoncards) | **출처:** [Link](https://x.com/Pokedoncards/status/2098674288786084172) | **게시일:** Sep 12, 2026
+
+---
+### 스타위버(StarWeaver) 여사와 표범 새끼들
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 엘프의 숲에서 여사와 표범 새끼들이 함께하는 판타지 장면을 위한 묘사형 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+스타위버(StarWeaver) 여사와 두 마리의 검은 표범 새끼들은 깊은 엘프의 숲속에 살고 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098670972870025224/img/Skv-29rGkaq6s5Xl.jpg" width="600" alt="스타위버(StarWeaver) 여사와 표범 새끼들">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10803)**
+
+**작성자:** [Judy Powell](https://x.com/Judy_2026) | **출처:** [Link](https://x.com/Judy_2026/status/2098671027093905837) | **게시일:** Sep 12, 2026
+
+---
+### 셰이프시프터 변신 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 동물의 순차적 변신 과정을 상세히 묘사한 복합 다단계 동적 변환 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+한 여성이 흰색 대형 올빼미로 변하고, 올빼미가 날아가다 강을 건너며 눈표범으로 변합니다. 강을 건너는 도중 다시 여성의 모습으로 돌아옵니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098604983788736518/img/JavVvbe4J-KCAUJi.jpg" width="600" alt="셰이프시프터 변신 시퀀스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10795)**
+
+**작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2098605006433779873) | **게시일:** Sep 12, 2026
+
+---
+### 홀로 낚시하는 노인의 고요한 풍경
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 사람들이 떠난 후의 고요한 분위기를 강조하며, 호수에서 홀로 낚시하는 노인을 묘사한 우울하면서도 평화로운 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+홀로 낚시하는 노인의 모습이 딱 맞습니다. 여름의 북적임은 사라지고 호수는 여전히 따스하며, 더 이상 누구에게 보여줄 필요도 없는 상태죠. 슬픈 것이 아니라 파티가 끝난 뒤의 정적 같은, 바로 그 느낌입니다. 
+노인을 물가에 작게 배치하고 낚싯대를 든 모습을 담아주세요. 호수가 화면의 대부분을 차지하게 하여 그 공허함이 핵심이 되도록 표현해 주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098537834567135238/img/PjRyNL9hr8-vBhk-.jpg" width="600" alt="홀로 낚시하는 노인의 고요한 풍경">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10800)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2098537884756189577) | **게시일:** Sep 11, 2026
+
+---
+### 느린 네온 컬러 폭발
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 생동감 넘치는 네온 컬러와 기하학적 도형이 부드럽게 방사형으로 퍼져 나가는 모습을 담은 고해상도 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+느린 색상 폭발. 중심부의 부드러운 발광체. 생동감 넘치는 네온 추상 색상 조각들과 기하학적 도형들이 모든 방향으로 천천히 부드럽게 폭발하며 확장됨. 나선형이나 소용돌이, 회전 동작 없음. 순수한 느린 방사형 폭발.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098529372018036736/img/X6hmQQrvrHZNwk-A.jpg" width="600" alt="느린 네온 컬러 폭발">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10796)**
+
+**작성자:** [Roy](https://x.com/RoyRoy67196892) | **출처:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **게시일:** Sep 11, 2026
+
+---
+### 비를 피하는 엄마 개미
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 나뭇잎 아래에서 비를 피하는 개미 가족의 모습을 담은 내러티브 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+엄마 개미가 아들을 데리고 식량이 실린 수레를 끌고 있습니다. 비가 내리기 시작하자, 엄마 개미는 비를 피할 수 있는 커다란 나뭇잎 아래로 수레를 옮깁니다. 엄마 개미는 아들에게 곁을 떠나지 말라고 소리칩니다!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg" width="600" alt="비를 피하는 엄마 개미">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10799)**
+
+**작성자:** [Robin Murray](https://x.com/RobinMurrat43a) | **출처:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **게시일:** Sep 11, 2026
+
+---
+### 역사적인 폴란드 교회 헌정 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1925년 당시 펜실베이니아주 스크랜턴에 위치했던 예수 성심과 마리아 성심 교회를 기리는 역사적 헌정 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+1925년경 펜실베이니아주 스크랜턴의 폴란드 이민자 본당이었던 예수 성심과 마리아 성심 교회를 기리며
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098469271898861568/img/78r7y9inS0-AKtpz.jpg" width="600" alt="역사적인 폴란드 교회 헌정 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10798)**
+
+**작성자:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **출처:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **게시일:** Sep 11, 2026
+
+---
+### 사실적인 면 요리 먹방 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 자연스러운 움직임과 감정을 담아 면을 먹는 사람의 모습을 15초 분량의 고도로 사실적인 영상으로 제작하기 위한 복합적인 시간 흐름 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+자연스러운 사람의 움직임과 사실적인 타이밍을 갖춘 15초 분량의 고도로 사실적인 영상을 제작하세요.
+
+0~4초: 그녀가 젓가락을 자연스럽게 사용하여 천천히 면을 입으로 가져옵니다. 한 입을 다 먹고 씹기 시작합니다.
+
+4~7초: 자연스럽게 씹으며 맛을 음미하는 듯한 표정을 짓고, 은은한 만족감과 함께 편안한 표정을 보여줍니다.
+
+7~9초: 음식을 씹는 도중, 주변 사람들이 자신을 보고 웃는지 확인하려는 듯 왼쪽과 오른쪽을 짧게 훑어봅니다. 그녀의 표정은 약간 조심스럽고 의식하는 듯한 모습으로 변합니다.
+
+9~12초: 아무도 웃지 않는 것을 확인하고 긴장을 푼 뒤, 찻잔을 들어 자연스럽게 차를 한 모금 마십니다.
+
+12~15초: 찻잔을 내려놓고 스웨터 소매로 입가와 볼을 무심하게 닦은 뒤, 카메라를 바라보며 약간 쑥스럽지만 행복한 미소를 짓습니다.
+
+모든 움직임은 연속적이고 물리적으로 사실적이어야 합니다. 참조 이미지의 인물, 얼굴, 헤어스타일, 의상, 사물 및 환경을 그대로 유지하세요. 자연스러운 표정, 사실적인 눈동자 움직임, 실제와 같은 저작 및 삼킴 동작, 정확한 손과 손가락 움직임, 면과 젓가락, 찻잔과의 자연스러운 상호작용을 구현하세요. 미세한 핸드헬드 카메라 움직임, 자연스러운 호흡, 사실적인 피부와 옷감의 질감, 따뜻한 자연광을 표현하세요. 갑작스러운 움직임, 형태 왜곡, 얼굴 일그러짐, 손가락 개수 오류, 사물 복제, 부자연스러운 입 모양, 과장된 표정, 대화, 자막, 텍스트 오버레이는 없어야 합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098327215234838528/img/UBN3YsyfsnZP1A25.jpg" width="600" alt="사실적인 면 요리 먹방 시퀀스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10797)**
+
+**작성자:** [AI_Courier](https://x.com/arc_courier) | **출처:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **게시일:** Sep 11, 2026
+
+---
 ### 클림트 스타일의 SF 기사
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +390,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10740)**
 
 **작성자:** [Jourdan Fernandez](https://x.com/VisualTreats) | **출처:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **게시일:** Sep 11, 2026
+
+---
+### 무술 지망생 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 다음 세대의 위대한 무술가가 되겠다는 포부를 밝히며 운동하는 남성의 모습을 묘사한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이소룡의 뒤를 이을 다음 세대의 전설이 되겠다고 말하며 윗몸일으키기를 하는 남성의 영상입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098225139926048774/img/DB104i5PfQFso7pI.jpg" width="600" alt="무술 지망생 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10801)**
+
+**작성자:** [Ligma Ballz](https://x.com/LBallz77283) | **출처:** [Link](https://x.com/LBallz77283/status/2098225163804319793) | **게시일:** Sep 11, 2026
 
 ---
 ### 중국 전통 무용 안무
@@ -2029,177 +2213,6 @@ Alice @Reference3 와 Dani @Reference2 가 조리대에서 채소를 썰며 Elar
 **작성자:** [ojiji](https://x.com/ojiji2025) | **출처:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **게시일:** Sep 4, 2026
 
 ---
-### 소금 사막 위의 고독한 인물
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 끝없이 펼쳐진 갈라진 소금 사막 위, 거대한 돌 원반을 마주하고 있는 고독한 인물을 담은 초현실적이고 분위기 있는 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-끝없이 펼쳐진 갈라진 소금 사막 위에 어두운 코트를 입고 서 있는 고독한 인물의 영화 같은 와이드 샷, 동심원 모양의 돌 고리와 중앙의 어두운 구멍이 있는 거대한 균열된 원형 원반을 마주함, 파손된 돌과 금속 질감, 하얀 대지 위로 길게 드리워진 강렬한 그림자, 창백하고 흐린 하늘, 고요하고 초현실적인 분위기, 회화적인 디테일, 친밀하고 정적인 느낌, 초정밀하게 묘사된 직물과 풍화된 표면
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="소금 사막 위의 고독한 인물">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10387)**
-
-**작성자:** [Sahil Verma](https://x.com/sahilvermaai) | **출처:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **게시일:** Sep 4, 2026
-
----
-### 잊혀진 사람들의 페가수스 비행
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 잊혀진 빈곤층이 왕족이 되어 페가수스를 타고 성으로 날아간다는 은유적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-잊혀진 모든 사람들, 가난한 모든 사람들이 페가수스 말에 올라타 왕과 왕비가 되어 그들의 성으로 날아갑니다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="잊혀진 사람들의 페가수스 비행">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10343)**
-
-**작성자:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **출처:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **게시일:** Sep 4, 2026
-
----
-### 거대한 회중시계 속의 소녀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사막 풍경 속 거대하고 녹슨 회중시계 안에 앉아 있는 어린 소녀를 담은 영화적이고 우울한 분위기의 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-갈라진 사막 위, 거대하고 녹슨 회중시계 안에 앉아 있는 낡은 옷차림의 어린 소녀를 담은 영화적 장면. 깨진 유리 시계판. 소녀 뒤로 보이는 거대한 먼지 쌓인 톱니바퀴. 부서진 수정 사이로 비치는 황금빛 햇살. 메마른 땅과 죽은 관목들. 회화적인 느낌. 우울함. 초고해상도. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="거대한 회중시계 속의 소녀">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10342)**
-
-**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **게시일:** Sep 4, 2026
-
----
-### 택시를 잡는 강아지 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 강아지 사진에 생동감을 불어넣어 마치 택시를 잡으려는 듯 앞발을 들어 올리는 모습을 연출하는 Grok-imagine용 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-귀가 큰 이 강아지 사진을 애니메이션으로 만들어 주세요. 마치 택시를 잡으려는 것처럼 앞발을 들어 올리는 모습으로 연출해 주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="택시를 잡는 강아지 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10345)**
-
-**작성자:** [Løen](https://x.com/l03n27) | **출처:** [Link](https://x.com/l03n27/status/2095697750130123031) | **게시일:** Sep 4, 2026
-
----
-### 메카 워리어 변신 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 정교한 기계 부품, 불꽃, 슬로우 모션 움직임이 특징인 거대 변신 로봇을 위한 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-다음 단계의 진화. 기계가 전사가 될 때, 갑옷은 단순한 보호 그 이상이 됩니다. 그것은 힘이 되고, 미래가 됩니다. 변신하라. 무장하라. 지배하라. 시각 스타일: 시네마틱 + 사실적 묘사, 거대 변신 로봇, 고급형, 빛나는 에너지 코어, 기계적 변신, 불꽃과 연기, 미래형 전장, 드라마틱한 조명, 슬로우 모션 카메라 무빙, 초정밀 8K SF 리얼리즘.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="메카 워리어 변신 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10344)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **게시일:** Sep 4, 2026
-
----
-### 초승달과 화성이 함께하는 밤하늘
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 새벽 하늘에 초승달과 화성이 가까이 떠오르는 모습을 담은 영화 같은 시각화 영상입니다.
-
-#### 📝 프롬프트
-
-```
-2026 년 9 월 6 일 새벽 하늘에서 초승달과 화성이 가까이 위치한 모습을 볼 수 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="초승달과 화성이 함께하는 밤하늘">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10335)**
-
-**작성자:** [Marie](https://x.com/Marie8508319540) | **출처:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **게시일:** Sep 4, 2026
-
----
-### 산골짜기를 가로지르는 산업용 파이프
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 산골짜기를 가로지르는 거대한 녹슨 산업용 파이프 위를 홀로 걷는 인물의 모습을 담은 영화 같은 와이드 샷.
-
-#### 📝 프롬프트
-
-```
-바위투성이 산골짜기를 가로지르는 거대한 녹슨 산업용 파이프의 영화 같은 와이드 샷. 파이프 끝에 열린 부서진 원형 환풍기를 향해 파이프 위를 홀로 걷는 아주 작은 인물. 폭풍우가 몰아치는 회색 구름. 유화 같은 질감. 극적인 흐린 날의 빛. 초고해상도. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="산골짜기를 가로지르는 산업용 파이프">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10339)**
-
-**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **게시일:** Sep 4, 2026
-
----
-### 승리한 사이보그 검투사 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빛나는 사이버네틱 갑옷을 입은 승리한 검투사와 극적인 카메라 궤도 촬영을 위한 상세한 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-승리의 결말: 반은 사이보그인 검투사가 경기장에서 승리를 거두고 서 있다. 빛나는 푸른색 갑옷과 사이버 눈, 배경에는 적들을 마무리하는 사자들, 느리고 극적인 카메라 궤도 촬영, 가라앉는 먼지, 영웅적인 포즈.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="승리한 사이보그 검투사 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10337)**
-
-**작성자:** [Cicada AQ](https://x.com/CicadaAQum) | **출처:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **게시일:** Sep 3, 2026
-
----
-### 석탄 광부 여성의 영화적 클로즈업
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 어두운 터널 속 석탄을 뒤집어쓴 여성 광부를 주인공으로, 눈이 타오르는 호박색으로 변하는 극적인 조명에 초점을 맞춘 Grok Imagine용 상세 영화적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-어두운 원형 광산 터널 속 석탄을 뒤집어쓴 여성 광부의 영화적 클로즈업. 금이 가고 빛나는 헤드램프가 달린 낡은 헬멧. 검은 먼지로 뒤덮인 얼굴. 강렬한 시선. 한쪽 눈이 서서히 타오르는 호박색으로 변함. 피부의 숯 질감. 분위기 있는 단일 광원. 사실적인 회화 스타일. 초고해상도. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="석탄 광부 여성의 영화적 클로즈업">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10340)**
-
-**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **게시일:** Sep 3, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2261,6 +2274,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-12T04:21:05.438Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-12T12:18:12.054Z</sub>
 
 </div>

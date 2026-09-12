@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2795** |
+| 📝 Total Prompts | **2804** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-12** |
 
@@ -189,6 +189,171 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Trailer de I Am Legend com Optimus Prime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico para o Grok Imagine, criando um cenário de trailer de filme onde Will Smith é substituído por um robô Tesla Optimus.
+
+#### 📝 Prompt
+
+```
+Trailer do filme I Am Legend, mas substituindo Will Smith por um Tesla Optimus; ele é o último robô que restou após a extinção dos humanos
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098674271413280775/img/ASmQlDMZovJCgISu.jpg" width="600" alt="Trailer de I Am Legend com Optimus Prime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10802)**
+
+**Author:** [PokeDon](https://x.com/Pokedoncards) | **Source:** [Link](https://x.com/Pokedoncards/status/2098674288786084172) | **Published:** Sep 12, 2026
+
+---
+### Lady StarWeaver e os filhotes de leopardo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt descritivo para uma cena de fantasia envolvendo uma dama e filhotes de leopardo em uma floresta élfica.
+
+#### 📝 Prompt
+
+```
+Lady StarWeaver e os dois filhotes de leopardo-negro vivem nas profundezas da Floresta Élfica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098670972870025224/img/Skv-29rGkaq6s5Xl.jpg" width="600" alt="Lady StarWeaver e os filhotes de leopardo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10803)**
+
+**Author:** [Judy Powell](https://x.com/Judy_2026) | **Source:** [Link](https://x.com/Judy_2026/status/2098671027093905837) | **Published:** Sep 12, 2026
+
+---
+### Sequência de Metamorfose de Transmorfo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo de transformação dinâmica complexa em vários estágios, detalhando transformações sequenciais de animais.
+
+#### 📝 Prompt
+
+```
+Uma mulher se transforma em uma coruja-das-neves gigante, a coruja voa e se transforma em um leopardo-das-neves enquanto atravessa um rio, e ao atravessar o rio, ele se transforma nela novamente
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098604983788736518/img/JavVvbe4J-KCAUJi.jpg" width="600" alt="Sequência de Metamorfose de Transmorfo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10795)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2098605006433779873) | **Published:** Sep 12, 2026
+
+---
+### Cena tranquila de um pescador solitário
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo melancólico e pacífico que retrata um velho pescador sozinho em um lago, enfatizando a atmosfera silenciosa após a partida da multidão.
+
+#### 📝 Prompt
+
+```
+O velho pescador sozinho é a imagem certa — a multidão do verão se foi, o lago ainda está quente, não restou ninguém para quem atuar. Esse é o sentimento exato: não é tristeza, apenas a quietude após a festa.
+Desenhe-o pequeno contra a água, com a vara na mão, e deixe o lago ocupar a maior parte do quadro. O vazio é o ponto principal.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098537834567135238/img/PjRyNL9hr8-vBhk-.jpg" width="600" alt="Cena tranquila de um pescador solitário">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10800)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2098537884756189577) | **Published:** Sep 11, 2026
+
+---
+### Explosão Lenta de Cores Neon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo altamente detalhado para uma explosão radial suave e brilhante de cores neon vibrantes e formas geométricas.
+
+#### 📝 Prompt
+
+```
+Apenas uma explosão lenta de cores. Luz central suave e brilhante. Manchas de cores neon abstratas e vibrantes e formas geométricas explodindo lentamente e expandindo-se suavemente para todas as direções. Sem espiral, sem movimento de redemoinho, sem rotação. Explosão radial lenta pura.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098529372018036736/img/X6hmQQrvrHZNwk-A.jpg" width="600" alt="Explosão Lenta de Cores Neon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10796)**
+
+**Author:** [Roy](https://x.com/RoyRoy67196892) | **Source:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **Published:** Sep 11, 2026
+
+---
+### Formiga mãe abrigando-se da chuva
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo narrativo apresentando uma família de formigas procurando abrigo da chuva sob uma folha.
+
+#### 📝 Prompt
+
+```
+Uma formiga mãe está puxando seu carrinho de comida com seu filho a reboque. Começa a chover, então ela se abriga sob uma folha grande que oferece proteção até a chuva passar. Ela chama seu filho para ficar perto!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg" width="600" alt="Formiga mãe abrigando-se da chuva">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10799)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
+
+---
+### Vídeo de Homenagem à Histórica Igreja Polonesa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo para uma homenagem histórica à Igreja dos Sagrados Corações de Jesus e Maria em Scranton, Pensilvânia, como ela era em 1925.
+
+#### 📝 Prompt
+
+```
+Homenagem à Igreja dos Sagrados Corações de Jesus e Maria, Scranton, Pensilvânia, por volta de 1925, paróquia de imigrantes poloneses
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098469271898861568/img/78r7y9inS0-AKtpz.jpg" width="600" alt="Vídeo de Homenagem à Histórica Igreja Polonesa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
+
+**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
+
+---
+### Sequência realista de alguém comendo macarrão
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt temporal complexo para criar um vídeo altamente realista de 15 segundos de uma pessoa comendo macarrão com movimentos e emoções naturais.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo altamente realista de 15 segundos com movimentos humanos naturais e timing verossímil.
+
+0–4 seg: Ela puxa lentamente o macarrão para a boca, usando os hashis de forma natural. Ela termina a mordida e começa a mastigar.
+
+4–7 seg: Ela mastiga naturalmente e demonstra visivelmente que está gostando do sabor, exibindo um sorriso sutil de satisfação e uma expressão relaxada.
+
+7–9 seg: Enquanto mastiga, ela olha brevemente para a esquerda e depois para a direita, verificando se alguém ao seu redor está olhando ou rindo dela. Sua expressão torna-se levemente cautelosa e autoconsciente.
+
+9–12 seg: Ela relaxa ao perceber que ninguém está rindo, pega a xícara de chá e toma um gole natural.
+
+12–15 seg: Ela coloca a xícara na mesa, limpa casualmente a boca e a bochecha com a manga do suéter, olha para a câmera e dá um sorriso pequeno, levemente envergonhado, mas feliz.
+
+Mantenha todos os movimentos contínuos e fisicamente realistas. Preserve a mesma pessoa, rosto, penteado, roupas, objetos e ambiente das imagens de referência. Expressões faciais naturais, movimentos oculares realistas, mastigação e deglutição realistas, movimentos precisos das mãos e dedos, interação verossímil com o macarrão, hashis e a xícara de chá. Movimento sutil de câmera na mão, respiração natural, movimento realista da pele e do tecido, iluminação natural quente. Sem movimentos bruscos, sem deformações (morphing), sem distorção facial, sem dedos extras, sem objetos duplicados, sem movimentos bucais não naturais, sem expressões exageradas, sem fala, sem legendas, sem sobreposição de texto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098327215234838528/img/UBN3YsyfsnZP1A25.jpg" width="600" alt="Sequência realista de alguém comendo macarrão">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
+
+**Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
+
+---
 ### Cavaleiro Sci-Fi no Estilo de Klimt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +390,25 @@ Uma jovem francesa escultural em uma galeria da Galleria Borghese, vestindo um t
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10740)**
 
 **Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **Published:** Sep 11, 2026
+
+---
+### Vídeo de Aspirante a Artista Marcial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo que descreve um homem se exercitando enquanto fala sobre se tornar o próximo grande artista marcial.
+
+#### 📝 Prompt
+
+```
+Um vídeo de um rapaz fazendo abdominais e falando sobre ser o próximo dragão depois de Bruce Lee.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098225139926048774/img/DB104i5PfQFso7pI.jpg" width="600" alt="Vídeo de Aspirante a Artista Marcial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10801)**
+
+**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2098225163804319793) | **Published:** Sep 11, 2026
 
 ---
 ### Coreografia de Dança Tradicional Chinesa
@@ -2029,177 +2213,6 @@ Todos estão se reunindo para assistir à chegada de uma nave espacial imperial 
 **Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
 
 ---
-### Figura Solitária no Salar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo surreal e atmosférico apresentando uma figura solitária diante de um disco de pedra colossal em um salar infinito e rachado.
-
-#### 📝 Prompt
-
-```
-Plano cinematográfico aberto de uma figura solitária com um sobretudo escuro em pé sobre um salar infinito e rachado, de frente para um disco circular colossal e rachado com anéis de pedra concêntricos e um buraco escuro no centro, textura de pedra e metal fraturados, sombra longa e rígida sobre a terra branca, céu pálido e nublado, atmosfera surreal e silenciosa, detalhes pictóricos, íntimo e estático, tecidos ultra detalhados e superfície desgastada
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="Figura Solitária no Salar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **Published:** Sep 4, 2026
-
----
-### O Voo de Pégaso das Pessoas Esquecidas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt metafórico onde os pobres esquecidos se tornam realeza e voam em um Pégaso até um castelo.
-
-#### 📝 Prompt
-
-```
-Todas as pessoas esquecidas, todos os pobres montam no cavalo Pégaso, tornam-se reis e rainhas e voam para o seu castelo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="O Voo de Pégaso das Pessoas Esquecidas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10343)**
-
-**Author:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **Source:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **Published:** Sep 4, 2026
-
----
-### Garota em um Relógio de Bolso Colossal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico e melancólico apresentando uma jovem sentada dentro de um enorme relógio de bolso enferrujado em uma paisagem desértica.
-
-#### 📝 Prompt
-
-```
-Tomada cinematográfica de uma menina com roupas gastas sentada dentro de um relógio de bolso colossal e enferrujado em um deserto rachado. Mostrador de vidro estilhaçado. Engrenagens maciças e empoeiradas atrás dela. Raio de sol dourado através do cristal quebrado. Terra seca e arbustos mortos. Estilo pictórico. Melancólico. Ultra detalhado. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="Garota em um Relógio de Bolso Colossal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10342)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **Published:** Sep 4, 2026
-
----
-### Animação de cachorro chamando um táxi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de animação para o Grok-imagine que dá vida a uma foto de um cachorro, retratando-o levantando a pata como se estivesse chamando um táxi.
-
-#### 📝 Prompt
-
-```
-Anime esta foto do cachorro de orelhas grandes, fazendo com que ele levante a pata como se quisesse chamar um táxi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="Animação de cachorro chamando um táxi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10345)**
-
-**Author:** [Løen](https://x.com/l03n27) | **Source:** [Link](https://x.com/l03n27/status/2095697750130123031) | **Published:** Sep 4, 2026
-
----
-### Vídeo de Transformação de Robô Mecha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico para um robô gigante em transformação, com peças mecânicas detalhadas, faíscas e movimento em câmera lenta.
-
-#### 📝 Prompt
-
-```
-A PRÓXIMA EVOLUÇÃO Quando as máquinas se tornam guerreiras, a armadura torna-se mais do que proteção. Torna-se poder. Torna-se o futuro. Transforme. Arme-se. Domine. Estilo visual: cinematográfico + fotorrealista, robô gigante em transformação, avançado, núcleos de energia brilhantes, transformação mecânica, faíscas e fumaça, campo de batalha futurista, iluminação dramática, movimento de câmera em câmera lenta, realismo de ficção científica em 8K ultra detalhado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="Vídeo de Transformação de Robô Mecha">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10344)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **Published:** Sep 4, 2026
-
----
-### Lua Crescente e Marte no céu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma visualização cinematográfica da lua crescente e Marte aparecendo próximos um do outro no céu ao amanhecer.
-
-#### 📝 Prompt
-
-```
-A lua crescente e Marte aparecerão próximos um do outro no céu antes do amanhecer em 6 de setembro de 2026
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="Lua Crescente e Marte no céu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10335)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **Published:** Sep 4, 2026
-
----
-### Vale Montanhoso com Tubulação Industrial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um plano cinematográfico aberto retratando uma enorme tubulação industrial enferrujada atravessando um vale montanhoso com uma figura solitária caminhando no topo.
-
-#### 📝 Prompt
-
-```
-Plano cinematográfico aberto de uma colossal tubulação industrial enferrujada atravessando um vale montanhoso rochoso. Uma pequena figura solitária caminha pelo topo em direção a um ventilador circular despedaçado na extremidade aberta. Nuvens cinzentas e tempestuosas. Textura de pintura a óleo. Luz dramática de dia nublado. Ultra detalhado. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="Vale Montanhoso com Tubulação Industrial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10339)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **Published:** Sep 4, 2026
-
----
-### Cena de Gladiador Ciborgue Vitorioso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico detalhado para um gladiador triunfante com armadura cibernética brilhante e uma órbita de câmera dramática.
-
-#### 📝 Prompt
-
-```
-Final triunfante: o gladiador meio-ciborgue permanece vitorioso na arena, armadura azul brilhante e olho cibernético, leões finalizando os inimigos ao fundo, órbita de câmera lenta e dramática, poeira baixando, pose heroica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="Cena de Gladiador Ciborgue Vitorioso">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10337)**
-
-**Author:** [Cicada AQ](https://x.com/CicadaAQum) | **Source:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **Published:** Sep 3, 2026
-
----
-### Close-up cinematográfico de mineira de carvão
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico detalhado para o Grok Imagine, apresentando uma mineira coberta de carvão em um túnel escuro, com foco na iluminação dramática enquanto seu olho se transforma em âmbar ardente.
-
-#### 📝 Prompt
-
-```
-Close-up cinematográfico de uma mineira coberta de carvão em um túnel de mina circular e escuro. Capacete danificado com uma lanterna brilhante rachada. Rosto coberto de poeira preta. Olhar intenso. Um olho se incendeia lentamente em âmbar ardente. Textura de carvão na pele. Iluminação de fonte única e sombria. Estilo pictórico fotorrealista. Ultra detalhado. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="Close-up cinematográfico de mineira de carvão">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10340)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2261,6 +2274,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T04:21:17.100Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T12:18:24.033Z</sub>
 
 </div>

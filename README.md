@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2795** |
+| 📝 Total Prompts | **2804** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-12** |
 
@@ -189,6 +189,171 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### I Am Legend Optimus Prime Trailer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine creating a movie trailer scenario where Will Smith is replaced by a Tesla Optimus robot.
+
+#### 📝 Prompt
+
+```
+Movie trailer for I Am Legend but replace will smith with tesla Optimus he’s the last robot left standing post humans
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098674271413280775/img/ASmQlDMZovJCgISu.jpg" width="600" alt="I Am Legend Optimus Prime Trailer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10802)**
+
+**Author:** [PokeDon](https://x.com/Pokedoncards) | **Source:** [Link](https://x.com/Pokedoncards/status/2098674288786084172) | **Published:** Sep 12, 2026
+
+---
+### Lady StarWeaver and Leopard Kittens
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for a fantasy scene involving a lady and leopard kittens in an elven forest.
+
+#### 📝 Prompt
+
+```
+Lady StarWeaver and the two Black Leopard kittens live in the deep Elven Forest.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098670972870025224/img/Skv-29rGkaq6s5Xl.jpg" width="600" alt="Lady StarWeaver and Leopard Kittens">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10803)**
+
+**Author:** [Judy Powell](https://x.com/Judy_2026) | **Source:** [Link](https://x.com/Judy_2026/status/2098671027093905837) | **Published:** Sep 12, 2026
+
+---
+### Shapeshifter Metamorphosis Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex multi-stage dynamic transformation video prompt detailing sequential animal transformations.
+
+#### 📝 Prompt
+
+```
+A woman changes into white giant owl the owl flies and changes into a snow leopard while it crosses a river, as it crosses the river it turns into her
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098604983788736518/img/JavVvbe4J-KCAUJi.jpg" width="600" alt="Shapeshifter Metamorphosis Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10795)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2098605006433779873) | **Published:** Sep 12, 2026
+
+---
+### Solitary Fisherman Quiet Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A melancholic yet peaceful video prompt depicting an old man fishing alone on a lake, emphasizing the quiet atmosphere after a crowd has left.
+
+#### 📝 Prompt
+
+```
+The old man fishing alone is the right image — summer’s crowd gone, the lake still warm, nobody left to perform for. That’s the exact feeling: not sad, just the quiet after the party.
+Draw him small against the water, rod in hand, and let the lake take up most of the frame. The emptiness is the point.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098537834567135238/img/PjRyNL9hr8-vBhk-.jpg" width="600" alt="Solitary Fisherman Quiet Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10800)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2098537884756189577) | **Published:** Sep 11, 2026
+
+---
+### Slow Neon Color Explosion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for a soft, glowing radial explosion of vibrant neon colors and geometric shapes.
+
+#### 📝 Prompt
+
+```
+Just slow colour explosion. Soft central glowing light. Vibrant neon abstract colour patches and geometric shapes slowly exploding and expanding outward gently in all directions. No spiral, no swirling motion, no rotation. Pure slow radial explosion
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098529372018036736/img/X6hmQQrvrHZNwk-A.jpg" width="600" alt="Slow Neon Color Explosion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10796)**
+
+**Author:** [Roy](https://x.com/RoyRoy67196892) | **Source:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **Published:** Sep 11, 2026
+
+---
+### Mother Ant Sheltering from Rain
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt featuring an ant family seeking cover from the rain under a leaf.
+
+#### 📝 Prompt
+
+```
+A mother ant is towing her cart of food with her son in tow. It starts rain, so she pulls under a large leaf that provides cover until the rain. She calls out to her son to stay close!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg" width="600" alt="Mother Ant Sheltering from Rain">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10799)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
+
+---
+### Historic Polish Church Tribute Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a historic tribute to the Sacred Hearts of Jesus and Mary Church in Scranton, Pennsylvania, as it appeared in 1925.
+
+#### 📝 Prompt
+
+```
+Tribute to sacred Hearts of Jesus and Mary Church, Scranton Pennsylvania, circa 1925, parish of Polish Immigrants
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098469271898861568/img/78r7y9inS0-AKtpz.jpg" width="600" alt="Historic Polish Church Tribute Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
+
+**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
+
+---
+### Realistic Noodle Eating Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex temporal prompt for creating a highly realistic 15-second video of a person eating noodles with natural movements and emotions.
+
+#### 📝 Prompt
+
+```
+Create a highly realistic 15-second video with natural human movement and believable timing.
+
+0–4 sec: She slowly pulls the noodles into her mouth, naturally using the chopsticks. She finishes the bite and begins chewing.
+
+4–7 sec: She chews naturally and visibly enjoys the taste, showing a subtle satisfied smile and relaxed expression.
+
+7–9 sec: While chewing, she briefly looks to the left and then to the right, checking whether anyone around her is watching or laughing at her. Her expression becomes slightly cautious and self-conscious.
+
+9–12 sec: She relaxes after realizing nobody is laughing, picks up the cup of tea and takes a natural sip.
+
+12–15 sec: She puts the cup down, then casually wipes her mouth and cheek with the sleeve of her sweater, looks toward the camera and gives a small, slightly embarrassed but happy smile.
+
+Keep all movements continuous and physically realistic. Preserve the exact person, face, hairstyle, clothing, objects and environment from the reference images. Natural facial expressions, realistic eye movements, realistic chewing and swallowing, accurate hand and finger movements, believable interaction with noodles, chopsticks and tea cup. Subtle handheld camera movement, natural breathing, realistic skin and fabric motion, warm natural lighting. No sudden movements, no morphing, no face distortion, no extra fingers, no duplicated objects, no unnatural mouth movements, no exaggerated expressions, no talking, no subtitles, no text overlays.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098327215234838528/img/UBN3YsyfsnZP1A25.jpg" width="600" alt="Realistic Noodle Eating Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
+
+**Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
+
+---
 ### Klimt Style Sci-Fi Knight
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +390,25 @@ A young, statuesque French female in a Galleria Borghese gallery, wearing a mute
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10740)**
 
 **Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **Published:** Sep 11, 2026
+
+---
+### Martial Arts Aspirant Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt describing a man exercising while speaking about becoming the next great martial artist.
+
+#### 📝 Prompt
+
+```
+A video of guy doing sit ups and talking about being the next dragon after Bruce Lee .
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098225139926048774/img/DB104i5PfQFso7pI.jpg" width="600" alt="Martial Arts Aspirant Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10801)**
+
+**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2098225163804319793) | **Published:** Sep 11, 2026
 
 ---
 ### Traditional Chinese Dance Choreography
@@ -1250,16 +1434,15 @@ Restyle this photo into a dreamy Sunday Morning aesthetic. Soft, hazy, warm gold
 **Author:** [stan gralla](https://x.com/GrallaStan) | **Source:** [Link](https://x.com/GrallaStan/status/2096955746608927063) | **Published:** Sep 7, 2026
 
 ---
-### Stereoscopic 3D Cinematic Woman in Rose Gown
+### 30-Second Stereoscopic 3D Cinematic Bridal Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An extremely detailed, 30-second stereoscopic 3D video prompt optimized for Grok Imagine, guiding a continuous, buttery cinematic shot of a blonde woman in an elegant ivory and blush-pink rose gown within a sunlit garden setup.
+> A comprehensive video prompt for Grok Imagine to generate a photorealistic 3D cinematic scene of a woman in a garden, featuring specific camera orbits, timed petal movements, and a synchronized piano soundtrack.
 
 #### 📝 Prompt
 
 ```
-Optimized 30s video prompt — music from frame 1
 A breathtaking 30-second stereoscopic 3D cinematic masterpiece. Ultra-sharp, ultra-fine textures, photoreal skin and fabric, volumetric golden light, living depth.
 Use the uploaded woman as the exact subject: her face, her curly sunlit blonde hair, the blush-pink and ivory rose gown with the high slit, crystal heels, and garden setting. Do not change her identity.
 Audio (mandatory)
@@ -1282,7 +1465,7 @@ Change her face or hair. Add people. Add speech. Delay the music. Rush the movem
 Make it feel like a living painting that breathes from the first frame.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="Stereoscopic 3D Cinematic Woman in Rose Gown">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="30-Second Stereoscopic 3D Cinematic Bridal Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10531)**
 
@@ -1981,177 +2164,6 @@ Everybody is gathering to watch the arrival of an imperial spaceship to their pl
 **Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
 
 ---
-### Lone Figure on Cracked Salt Flat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic wide shot prompt for a video featuring a lone figure in a dark coat standing on a vast, cracked salt flat facing a massive circular disc.
-
-#### 📝 Prompt
-
-```
-Cinematic wide shot of a lone figure in a dark coat standing on an endless cracked salt flat, facing a colossal cracked circular disc
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="Lone Figure on Cracked Salt Flat">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10387)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **Published:** Sep 4, 2026
-
----
-### Forgotten People Pegasus Flight
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A metaphorical prompt where the forgotten poor become royalty and fly on Pegasus to a castle.
-
-#### 📝 Prompt
-
-```
-All of the people forgotten all the poor people onto the horse Pegasus they become kings and queens, and they fly to their castle
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="Forgotten People Pegasus Flight">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10343)**
-
-**Author:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **Source:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **Published:** Sep 4, 2026
-
----
-### Girl in Colossal Pocket Watch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic and melancholic video prompt featuring a young girl sitting inside a massive, rusted pocket watch in a desert landscape.
-
-#### 📝 Prompt
-
-```
-Cinematic shot of a small girl in worn clothes sitting inside a colossal rusted pocket watch in a cracked desert. Shattered glass face. Massive dusty gears behind her. Golden sunbeam through the broken crystal. Dry earth and dead shrubs. Painterly. Melancholic. Ultra detailed. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="Girl in Colossal Pocket Watch">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10342)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **Published:** Sep 4, 2026
-
----
-### Dog Hailing a Taxi Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative animation prompt that transforms a static dog photo into a video where the dog appears to be hailing a taxi by lifting its paw.
-
-#### 📝 Prompt
-
-```
-Animate this photo of the floppy-eared dog with him lifting his paw as if he wanted to call a taxi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="Dog Hailing a Taxi Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10345)**
-
-**Author:** [Løen](https://x.com/l03n27) | **Source:** [Link](https://x.com/l03n27/status/2095697750130123031) | **Published:** Sep 4, 2026
-
----
-### Cinematic Transforming Giant Robot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed sci-fi prompt for generating a high-quality video of a massive robot transforming on a battlefield.
-
-#### 📝 Prompt
-
-```
-THE NEXT EVOLUTION When machines become warriors, armor becomes more than protection. It becomes power. It becomes the future. Transform. Arm. Dominate.Visual style: cinematic + photorealistic, massive transforming robot, advanced , glowing energy cores, mechanical transformation, sparks and smoke, futuristic battlefield, dramatic lighting, slow-motion camera movement, ultra-detailed 8K sci-fi realism.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="Cinematic Transforming Giant Robot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10344)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **Published:** Sep 4, 2026
-
----
-### Crescent Moon and Mars Sky
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic visualization of the crescent moon and Mars appearing close together in the dawn sky.
-
-#### 📝 Prompt
-
-```
-The crescent moon and Mars will appear close together in the pre-dawn sky on September 6, 2026
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="Crescent Moon and Mars Sky">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10335)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **Published:** Sep 4, 2026
-
----
-### Industrial Pipe Mountain Valley
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic wide shot depicting a massive rusted industrial pipe spanning a mountain valley with a lone figure walking on top.
-
-#### 📝 Prompt
-
-```
-Cinematic wide shot of a colossal rusted industrial pipe spanning a rocky mountain valley. A tiny lone figure walking along the top toward a shattered circular fan at the open end. Stormy grey clouds. Painterly oil texture. Dramatic overcast light. Ultra detailed. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="Industrial Pipe Mountain Valley">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10339)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **Published:** Sep 4, 2026
-
----
-### Triumphant Cyborg Gladiator Victory
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt featuring a victorious half-cyborg gladiator in an arena with lions and a slow dramatic camera orbit.
-
-#### 📝 Prompt
-
-```
-Triumphant ending: the half-cyborg gladiator stands victorious in the arena, glowing blue armor and cyber eye, lions finishing the enemies in background, slow dramatic camera orbit, dust settling, heroic pose.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="Triumphant Cyborg Gladiator Victory">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10337)**
-
-**Author:** [Cicada AQ](https://x.com/CicadaAQum) | **Source:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **Published:** Sep 3, 2026
-
----
-### Coal Miner Woman Cinematic Close-up
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt for Grok Imagine featuring a coal-covered woman miner in a dark tunnel, with a focus on dramatic lighting as her eye turns to burning amber.
-
-#### 📝 Prompt
-
-```
-Cinematic close-up of a coal-covered woman miner in a dark circular mine tunnel. Battered helmet with a cracked glowing headlamp. Face coated in black dust. Intense stare. One eye slowly ignites into burning amber. Charcoal texture on skin. Moody single-source light. Photorealistic painterly. Ultra detailed. 8k. Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="Coal Miner Woman Cinematic Close-up">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10340)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **Published:** Sep 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2213,6 +2225,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T04:21:01.482Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T12:18:06.443Z</sub>
 
 </div>

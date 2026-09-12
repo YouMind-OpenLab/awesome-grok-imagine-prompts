@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2795** |
+| 📝 提示詞總數 | **2804** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-12** |
 
@@ -189,6 +189,171 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 《我是傳奇》Optimus Prime 電影預告片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個為 Grok Imagine 設計的電影級影片提示詞，場景設定為將《我是傳奇》中的 Will Smith 替換為 Tesla Optimus 機器人。
+
+#### 📝 提示詞
+
+```
+《我是傳奇》電影預告片，但將 Will Smith 替換為 Tesla Optimus，他是人類滅絕後最後存活的機器人。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098674271413280775/img/ASmQlDMZovJCgISu.jpg" width="600" alt="《我是傳奇》Optimus Prime 電影預告片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10802)**
+
+**作者:** [PokeDon](https://x.com/Pokedoncards) | **來源:** [Link](https://x.com/Pokedoncards/status/2098674288786084172) | **發布時間:** Sep 12, 2026
+
+---
+### 星織女士與豹紋小貓
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個關於星織女士與豹紋小貓在精靈森林中的奇幻場景描述提示詞。
+
+#### 📝 提示詞
+
+```
+星織女士與兩隻黑豹小貓住在深邃的精靈森林中。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098670972870025224/img/Skv-29rGkaq6s5Xl.jpg" width="600" alt="星織女士與豹紋小貓">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10803)**
+
+**作者:** [Judy Powell](https://x.com/Judy_2026) | **來源:** [Link](https://x.com/Judy_2026/status/2098671027093905837) | **發布時間:** Sep 12, 2026
+
+---
+### 變形者蛻變序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個複雜的多階段動態變形影片提示詞，詳細描述了連續的動物變形過程。
+
+#### 📝 提示詞
+
+```
+一位女性變身為白色大貓頭鷹，貓頭鷹飛行時變身為一隻雪豹並穿越河流，在穿越河流的過程中，牠又變回了那位女性。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098604983788736518/img/JavVvbe4J-KCAUJi.jpg" width="600" alt="變形者蛻變序列">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10795)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **來源:** [Link](https://x.com/SaSHeaven26/status/2098605006433779873) | **發布時間:** Sep 12, 2026
+
+---
+### 孤獨漁夫的靜謐場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個帶有憂鬱卻又平靜的影片提示詞，描繪了一位老人在湖邊獨自垂釣，強調人群散去後的寧靜氛圍。
+
+#### 📝 提示詞
+
+```
+老人獨自垂釣的畫面最為貼切——夏日的人潮已散，湖水依然溫暖，再也沒有人需要去表演了。這就是那種感覺：並不悲傷，只是派對結束後的寧靜。
+將他畫得渺小，映襯著廣闊的水面，手持釣竿，讓湖景佔據畫面的大部分。這種空曠感正是重點所在。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098537834567135238/img/PjRyNL9hr8-vBhk-.jpg" width="600" alt="孤獨漁夫的靜謐場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10800)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2098537884756189577) | **發布時間:** Sep 11, 2026
+
+---
+### 緩慢霓虹色彩爆發
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高細節的影片提示詞，用於呈現柔和、發光的放射狀霓虹色彩爆發與幾何圖形。
+
+#### 📝 提示詞
+
+```
+純粹緩慢的色彩爆發。柔和的中心發光。充滿活力的霓虹抽象色塊與幾何圖形緩慢地向外擴散，向四面八方輕柔爆發。無螺旋、無漩渦運動、無旋轉。純粹的緩慢放射狀爆發。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098529372018036736/img/X6hmQQrvrHZNwk-A.jpg" width="600" alt="緩慢霓虹色彩爆發">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10796)**
+
+**作者:** [Roy](https://x.com/RoyRoy67196892) | **來源:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **發布時間:** Sep 11, 2026
+
+---
+### 螞蟻媽媽避雨
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段敘事性影片提示詞，描繪螞蟻家庭在葉子下躲雨的情景。
+
+#### 📝 提示詞
+
+```
+一隻螞蟻媽媽正拖著載滿食物的推車，身後跟著她的兒子。這時開始下雨了，她趕緊拉著推車躲進一片大葉子底下避雨。她呼喚兒子要緊跟在身邊！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg" width="600" alt="螞蟻媽媽避雨">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10799)**
+
+**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **來源:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **發布時間:** Sep 11, 2026
+
+---
+### 歷史悠久的波蘭教堂致敬影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一份關於賓夕法尼亞州斯克蘭頓市（Scranton, Pennsylvania）耶穌聖心與聖母聖心教堂（Sacred Hearts of Jesus and Mary Church）的歷史致敬影片提示詞，重現其 1925 年的樣貌。
+
+#### 📝 提示詞
+
+```
+致敬位於賓夕法尼亞州斯克蘭頓市的耶穌聖心與聖母聖心教堂，約 1925 年，波蘭移民教區
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098469271898861568/img/78r7y9inS0-AKtpz.jpg" width="600" alt="歷史悠久的波蘭教堂致敬影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10798)**
+
+**作者:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **來源:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **發布時間:** Sep 11, 2026
+
+---
+### 逼真的吃麵動作序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個複雜的時間軸提示詞，用於製作一段 15 秒、高度逼真的影片，呈現人物吃麵時的自然動作與情緒。
+
+#### 📝 提示詞
+
+```
+製作一段 15 秒、高度逼真且具備自然人體動作與合理時間節奏的影片。
+
+0–4 秒：她緩慢地將麵條送入口中，自然地使用筷子。她吃完這一口並開始咀嚼。
+
+4–7 秒：她自然地咀嚼並顯露出享受美味的樣子，臉上帶著細微的滿足微笑與放鬆的表情。
+
+7–9 秒：咀嚼時，她短暫地向左看，隨後向右看，確認周圍是否有人在注視或嘲笑她。她的表情變得稍微謹慎且有些不自在。
+
+9–12 秒：意識到沒人在笑後她放鬆下來，拿起茶杯自然地喝了一口。
+
+12–15 秒：她放下杯子，隨意地用毛衣袖口擦拭嘴巴與臉頰，看向鏡頭並露出一個略顯尷尬但開心的淺笑。
+
+保持所有動作連貫且符合物理真實感。保留參考圖像中人物、臉部、髮型、服裝、物品與環境的一致性。呈現自然的臉部表情、真實的眼球轉動、逼真的咀嚼與吞嚥動作、精確的手部與手指動作，以及與麵條、筷子和茶杯之間合理的互動。包含細微的手持攝影機晃動、自然的呼吸感、真實的皮膚與布料紋理運動，以及溫暖的自然光影。避免動作突兀、變形、臉部扭曲、多餘的手指、物體複製、不自然的嘴部動作、誇張的表情，且不包含對話、字幕或文字疊加。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098327215234838528/img/UBN3YsyfsnZP1A25.jpg" width="600" alt="逼真的吃麵動作序列">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10797)**
+
+**作者:** [AI_Courier](https://x.com/arc_courier) | **來源:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **發布時間:** Sep 11, 2026
+
+---
 ### 克林姆風格的科幻騎士
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +390,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10740)**
 
 **作者:** [Jourdan Fernandez](https://x.com/VisualTreats) | **來源:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **發布時間:** Sep 11, 2026
+
+---
+### 武術愛好者影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片提示詞，描述一名男子在鍛鍊的同時，談論自己如何成為下一位偉大的武術家。
+
+#### 📝 提示詞
+
+```
+一段影片，內容為一名男子在做仰臥起坐，並談論自己將成為繼 Bruce Lee 之後的下一條龍。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098225139926048774/img/DB104i5PfQFso7pI.jpg" width="600" alt="武術愛好者影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10801)**
+
+**作者:** [Ligma Ballz](https://x.com/LBallz77283) | **來源:** [Link](https://x.com/LBallz77283/status/2098225163804319793) | **發布時間:** Sep 11, 2026
 
 ---
 ### 中式傳統舞蹈編舞
@@ -2029,177 +2213,6 @@ Alice @Reference3 和 Dani @Reference2 正在流理台上切菜，並開始準�
 **作者:** [ojiji](https://x.com/ojiji2025) | **來源:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **發布時間:** Sep 4, 2026
 
 ---
-### 鹽灘上的孤獨身影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個超現實且充滿氛圍感的影片提示詞，描繪了一個人影獨自面對無盡龜裂鹽灘上巨大石盤的場景。
-
-#### 📝 提示詞
-
-```
-電影級廣角鏡頭，一個身穿深色大衣的孤獨身影站在無盡龜裂的鹽灘上，面對著一個巨大的龜裂圓盤，圓盤上有同心石環，中心有一個深邃的黑洞，呈現出破碎的石材與金屬質感，長而銳利的陰影橫跨白色大地，蒼白多雲的天空，寧靜的超現實氛圍，繪畫般的細節，親密且靜謐，超細緻的布料紋理與風化表面
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095794597448585217/img/wLCJzfHCRN-lPYY5.jpg" width="600" alt="鹽灘上的孤獨身影">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10387)**
-
-**作者:** [Sahil Verma](https://x.com/sahilvermaai) | **來源:** [Link](https://x.com/sahilvermaai/status/2095821678131454101) | **發布時間:** Sep 4, 2026
-
----
-### 被遺忘者的飛馬之旅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個隱喻性的提示詞：讓被遺忘的貧困者化身為皇室成員，騎乘飛馬前往城堡。
-
-#### 📝 提示詞
-
-```
-所有被遺忘的人、所有貧困的人都騎上了飛馬，他們變成了國王與王后，並飛向屬於他們的城堡
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095741576978821124/img/X6YrlfKx2wPlNzmI.jpg" width="600" alt="被遺忘者的飛馬之旅">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10343)**
-
-**作者:** [Rising Phoenix](https://x.com/RisingPhoenix4E) | **來源:** [Link](https://x.com/RisingPhoenix4E/status/2095741665533157830) | **發布時間:** Sep 4, 2026
-
----
-### 巨型懷錶中的女孩
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿電影感與憂鬱氛圍的影片提示詞，描述一名小女孩坐在沙漠中巨大的鏽蝕懷錶內。
-
-#### 📝 提示詞
-
-```
-電影級鏡頭，一名穿著破舊衣物的小女孩坐在乾裂沙漠中巨大的鏽蝕懷錶內。破碎的玻璃錶面。身後是巨大的塵封齒輪。金色的陽光穿過破碎的水晶鏡面。乾燥的土地與枯萎的灌木。繪畫風格。憂鬱。超細節。8k。Grok Imagine。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376253172043777/img/5KanVhSOCpW6ywLG.jpg" width="600" alt="巨型懷錶中的女孩">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10342)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2095700878162645272) | **發布時間:** Sep 4, 2026
-
----
-### 狗狗招計程車動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個用於 Grok-imagine 的動畫提示詞，能讓狗狗的照片栩栩如生，呈現出牠舉起爪子彷彿在招計程車的模樣。
-
-#### 📝 提示詞
-
-```
-為這張大耳朵狗狗的照片製作動畫，讓牠舉起爪子，就像想要招計程車一樣
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095697732446961664/img/sktAXZ_0xPSXFfqz.jpg" width="600" alt="狗狗招計程車動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10345)**
-
-**作者:** [Løen](https://x.com/l03n27) | **來源:** [Link](https://x.com/l03n27/status/2095697750130123031) | **發布時間:** Sep 4, 2026
-
----
-### 機甲戰士變形影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個關於巨型變形機器人的電影級影片提示詞，包含精細的機械零件、火花以及慢動作鏡頭。
-
-#### 📝 提示詞
-
-```
-下一個進化階段 當機器成為戰士，裝甲就不僅僅是防護。它是力量，是未來。變形。武裝。主宰。視覺風格：電影級 + 照片級真實感，巨型變形機器人，先進的，發光的能源核心，機械變形，火花與煙霧，未來戰場，戲劇性光影，慢動作運鏡，超細緻 8K 科幻寫實風格。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095679086760955904/img/dY17UBnnbz300qJ7.jpg" width="600" alt="機甲戰士變形影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10344)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2095679713952072040) | **發布時間:** Sep 4, 2026
-
----
-### 眉月與火星同框的天空
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一場電影級的視覺呈現，展現眉月與火星在黎明時分於天空中近距離相遇的景象。
-
-#### 📝 提示詞
-
-```
-2026 年 9 月 6 日黎明前，眉月與火星將會在天空中近距離相遇
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095671163506896896/img/DSkAkGFJDZpvAwYg.jpg" width="600" alt="眉月與火星同框的天空">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10335)**
-
-**作者:** [Marie](https://x.com/Marie8508319540) | **來源:** [Link](https://x.com/Marie8508319540/status/2095671180476772551) | **發布時間:** Sep 4, 2026
-
----
-### 工業管道山谷
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一幅電影級廣角鏡頭，描繪了一條巨大的鏽蝕工業管道橫跨山谷，一名孤獨的身影走在管道上方。
-
-#### 📝 提示詞
-
-```
-電影級廣角鏡頭，呈現一條巨大的鏽蝕工業管道橫跨岩石山谷。一個微小的孤獨身影沿著管道頂部走向開口處破碎的圓形風扇。烏雲密佈。油畫質感。戲劇性的陰天光影。超細節。8k。Grok Imagine。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095376109861023744/img/H0_0T2VkUee8wo79.jpg" width="600" alt="工業管道山谷">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10339)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2095670680520179791) | **發布時間:** Sep 4, 2026
-
----
-### 勝利的賽博格鬥士場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個詳細的電影級影片提示詞，描繪了一位身穿發光賽博裝甲的勝利鬥士，並搭配戲劇性的環繞運鏡。
-
-#### 📝 提示詞
-
-```
-勝利的結局：半賽博格鬥士在競技場中取得勝利，身穿發光的藍色裝甲，擁有賽博義眼，背景中獅子正在解決剩餘的敵人，緩慢且戲劇性的環繞運鏡，塵埃落定，展現英雄姿態。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095654407300165632/img/-0qMFFKNhQRbE_VR.jpg" width="600" alt="勝利的賽博格鬥士場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10337)**
-
-**作者:** [Cicada AQ](https://x.com/CicadaAQum) | **來源:** [Link](https://x.com/CicadaAQum/status/2095654657997603155) | **發布時間:** Sep 3, 2026
-
----
-### 煤礦女工電影感特寫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的詳細電影感提示詞，描繪了一位身處黑暗隧道中、滿臉煤灰的女礦工，重點在於她轉頭時眼睛化作燃燒琥珀般的戲劇性光影效果。
-
-#### 📝 提示詞
-
-```
-電影感特寫，一位滿臉煤灰的女礦工身處黑暗的圓形礦坑隧道中。戴著破舊的安全帽，頭燈裂開並發出微光。臉上覆蓋著黑色粉塵。眼神銳利。其中一隻眼睛緩慢地燃燒成琥珀色。皮膚呈現木炭質感。情緒化的單光源。照片級寫實繪畫風格。超高細節。8k。Grok Imagine。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095375961009315840/img/BIORGg9MWQwAbEQV.jpg" width="600" alt="煤礦女工電影感特寫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10340)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2095640485142434239) | **發布時間:** Sep 3, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2261,6 +2274,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-12T04:21:03.655Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-12T12:18:09.768Z</sub>
 
 </div>
