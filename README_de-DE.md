@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2804** |
+| 📝 Total Prompts | **2815** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-14** |
 
@@ -189,6 +189,216 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Gothisches Kleid Junge Frau
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter visueller Prompt, der eine junge Frau in aufwendiger gotischer Kleidung mit roten Augen und einer Schleife beschreibt.
+
+#### 📝 Prompt
+
+```
+Eine junge Frau mit langem, fließendem schwarzem Haar, geschmückt mit einer großen roten Schleife, trägt ein aufwendiges schwarz-rotes gotisches Kleid mit Puffärmeln, einem Schnürkorsett und einem gerüschten Rock. Sie hat ein sanftes Lächeln, rote Augen und helle Haut, steht mit den Händen...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099327401968746498/img/3ElApaFVwRjLiQd2.jpg" width="600" alt="Gothisches Kleid Junge Frau">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10812)**
+
+**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099327424630513961) | **Published:** Sep 14, 2026
+
+---
+### Grok Imagine Prompt: Die urteilende Katzenpersönlichkeit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für die Grok Imagine Video-Generierung, der eine Katze darstellt, die zwar urteilend wirkt, aber tatsächlich liebevoll und aufmunternd ist.
+
+#### 📝 Prompt
+
+```
+Eine Katze, die auf den ersten Blick vielleicht urteilend wirkt, doch in sich eine tiefe Zuneigung zu dir trägt und deine Stimmung stets mit ihren skurrilen und humorvollen Ermutigungen hebt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099236716133683200/img/Z7aZPUKt4gFMf-HD.jpg" width="600" alt="Grok Imagine Prompt: Die urteilende Katzenpersönlichkeit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10813)**
+
+**Author:** [Jeffery Bruyere](https://x.com/Blueguyflies) | **Source:** [Link](https://x.com/Blueguyflies/status/2099236802871877981) | **Published:** Sep 13, 2026
+
+---
+### Meerjungfrau im Unterwasser-Korallenriff
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines cineastischen Fantasy-Videos einer Meerjungfrau, die inmitten lebendiger Korallenriffe während des goldenen Zeitalters der Piraterie ruht.
+
+#### 📝 Prompt
+
+```
+Eine atemberaubende cineastische Fantasy-Szene, angesiedelt im goldenen Zeitalter der Piraterie. Unter der kristallklaren Wasseroberfläche des Ozeans ruht eine schöne Meerjungfrau mit langem, wallendem Haar und einem elegant schimmernden Schwanz inmitten eines lebendigen Unterwasser-Korallenriffs, umgeben von...
+```
+
+<img src="https://cms-assets.youmind.com/media/1789390476490_zi9jh7_HSHyfnObEAAPniU.jpg" width="600" alt="Meerjungfrau im Unterwasser-Korallenriff">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10820)**
+
+**Author:** [Jorge](https://x.com/JorgeGeminiOR) | **Source:** [Link](https://x.com/JorgeGeminiOR/status/2099225530939711721) | **Published:** Sep 13, 2026
+
+---
+### Prompt zur Reaktion der Menge beim Falcon-9-Start
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt, der die emotionale Reaktion einer Menge während eines Falcon-9-Raketenstarts beschreibt und für die Videogenerierung geeignet ist.
+
+#### 📝 Prompt
+
+```
+Die kollektive Euphorie beim Start einer Falcon 9: Als das ohrenbetäubende Dröhnen schließlich über die Menge hinwegfegt, verwandelt sich die Anspannung sofort in reines Adrenalin. Die Menschen jubeln wild, schreien vor Freude und einige weinen Tränen der Rührung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099220646266114048/img/B3hU8bDkDoWOgZGa.jpg" width="600" alt="Prompt zur Reaktion der Menge beim Falcon-9-Start">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10814)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2099220675223232866) | **Published:** Sep 13, 2026
+
+---
+### Grok Imagine Prompt: Frau verwandelt sich in eine Kriegerprinzessin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für die Grok Imagine Video-Generierung, der eine junge Frau zeigt, die einen Weg entlanggeht, sich umdreht und in eine Kriegerprinzessin verwandelt.
+
+#### 📝 Prompt
+
+```
+Eine junge Frau geht einen Weg entlang, dreht sich um und verwandelt sich in eine Kriegerprinzessin....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099197834855653377/img/07VTigKKGdxzujtB.jpg" width="600" alt="Grok Imagine Prompt: Frau verwandelt sich in eine Kriegerprinzessin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10815)**
+
+**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
+
+---
+### Glasbrechungs-Test
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein technischer Prompt zum Testen komplexer Glasbrechung und Lichtkaustiken.
+
+#### 📝 Prompt
+
+```
+Eine transparente Kristallglas-Kugel, gefüllt mit wirbelndem, irisierendem Öl, die in einem Glas-Aquarium schwebt. Sonnenlicht durchdringt beide Schichten und wirft komplexe, bunte kaustische Lichtmuster auf eine dunkle Marmor-Arbeitsplatte. Makrofotografie, raytraced Beleuchtung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="Glasbrechungs-Test">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10818)**
+
+**Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
+
+---
+### Hochmodisches Porträt mit Bewegungsunschärfe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein abgeschnittener Prompt für ein hochmodisches Editorial-Porträt mit Bewegungsunschärfe-Effekten.
+
+#### 📝 Prompt
+
+```
+Ein hochmodisches Editorial-Porträt einer jungen Frau mit langen Haaren, die heftig im Wind wehen. Sie trägt ein fließendes, durchscheinendes, leuchtend feuerrot-oranges Gewand mit weiten Ärmeln. Das Bild wurde mit einer absichtlich starken Bewegungsunschärfe aufgenommen, part...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098923245168693249/img/cKyXwL4mhKF-cmvx.jpg" width="600" alt="Hochmodisches Porträt mit Bewegungsunschärfe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10817)**
+
+**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2098923257428595019) | **Published:** Sep 12, 2026
+
+---
+### Grok Imagine Video-Prompt: Futuristische Roboterfrau im Park
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines Videos einer futuristischen Roboterfrau, die Kinder zum Spielen in einen offenen Park bringt, beaufsichtigt von einem erwachsenen Mann. Der Tweet enthält zudem Kommentare zur Vermeidung von Zwischenwerbung.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Video einer futuristischen Roboterfrau, die Kinder zum Spielen in einen offenen Park bringt. Beaufsichtigt von einem erwachsenen Mann.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098900315579842571/img/MjFbW2hN62cWdrcJ.jpg" width="600" alt="Grok Imagine Video-Prompt: Futuristische Roboterfrau im Park">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10822)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2098900366523879801) | **Published:** Sep 12, 2026
+
+---
+### Frau geht zum Baum des Lebens
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines mystischen Videos, in dem eine Frau nach dem Verlassen von Stacheldraht durch einen sonnenbeschienenen Wald auf einen leuchtenden, uralten Baum des Lebens zugeht.
+
+#### 📝 Prompt
+
+```
+Die Frau erhebt sich vollständig aus dem Stacheldraht und geht dann anmutig durch den sonnenbeschienenen Wald auf einen majestätischen, uralten Baum des Lebens zu. Der Baum des Lebens ist ein riesiger, mystischer, leuchtender Baum mit komplexen, glühenden Wurzeln und Ästen, golden l...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098898023116087296/img/uYV8dK2Lbog8JyNN.jpg" width="600" alt="Frau geht zum Baum des Lebens">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10816)**
+
+**Author:** [Barbara 💕🕊️🌎](https://x.com/BarbaraCbroker1) | **Source:** [Link](https://x.com/BarbaraCbroker1/status/2098898374229680514) | **Published:** Sep 12, 2026
+
+---
+### Futuristisches Stadt-Raumschiff Sci-Fi Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung einer 10-sekündigen cineastischen Sci-Fi-Sequenz mit einem kolossalen fliegenden Stadt-Raumschiff, Triebwerken und Tiefenraumreisen.
+
+#### 📝 Prompt
+
+```
+10-sekündige vertikale cineastische Sci-Fi-Sequenz: Beginne mit einem kolossalen futuristischen fliegenden Stadt-Raumschiff über den Wolken bei Sonnenaufgang, wechsle zu Nahaufnahmen von leuchtenden Antriebsmotoren, autonomem Verkehr und aufragenden Wolkenkratzern, zeige dann eine menschliche Silhouette, die auf die Stadt blickt, bevor das massive Schiff von der Erde in den Tiefenraum beschleunigt. Endet mit dem Schiff, das zwischen Sternen und Planeten fliegt, unter Verwendung dramatischer Kamerabewegungen, fotorealistischer Details, volumetrischer Beleuchtung, realistischer Reflexionen, starkem Triebwerksglühen, tiefgründigem cineastischem Sounddesign und dem abschließenden Text:
+„DIE ZUKUNFT IST REAL — NEXT LEVEL SCI-FI.“
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="Futuristisches Stadt-Raumschiff Sci-Fi Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10819)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098745738398494723) | **Published:** Sep 12, 2026
+
+---
+### Zwei Optimus-Roboter beim Spaziergang im Park
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt für Grok Imagine, der zwei Optimus Prime Roboter zeigt, die gemeinsam durch eine wunderschöne Parklandschaft spazieren.
+
+#### 📝 Prompt
+
+```
+Zwei Optimus, ein wunderschöner Park und ein Gespräch jenseits der Zukunft. Gemeinsam gehen wir heute… und gestalten morgen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098709643119984641/img/34m6mk7nCDDO2AqR.jpg" width="600" alt="Zwei Optimus-Roboter beim Spaziergang im Park">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10821)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098710365307830738) | **Published:** Sep 12, 2026
+
+---
 ### I Am Legend Optimus Prime Trailer
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2004,215 +2214,6 @@ Filmische Ganzkörperaufnahme einer selbstbewussten Frau mit dunklem lockigem Ha
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
 
 ---
-### Verspieltes Kätzchen im Schnee
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt für ein Kätzchen, das im Schnee spielt, inklusive Springen, Rollen und kontinuierlicher Bewegung.
-
-#### 📝 Prompt
-
-```
-Das entzückende orangefarbene getigerte Kätzchen springt verspielt auf den Schneeball, rollt und purzelt dann freudig im weichen Pulverschnee, schlägt mit seinen Pfoten nach fallenden Schneeflocken, Schnee wirbelt um es herum auf, kontinuierliche verspielte Bewegungen, natürliches, niedliches Kätzchenverhalten
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="Verspieltes Kätzchen im Schnee">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10435)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **Published:** Sep 5, 2026
-
----
-### Weihnachtskätzchen im Schnee
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein festlicher Video-Prompt für ein Kätzchen, das im Schnee spielt, mit Weihnachtsbäumen und Dekorationen im Hintergrund.
-
-#### 📝 Prompt
-
-```
-Kätzchen spielt im Schnee mit Weihnachtsdekoration und einem Weihnachtsbaum im Hintergrund, starker Schneefall ringsherum
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="Weihnachtskätzchen im Schnee">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10433)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **Published:** Sep 5, 2026
-
----
-### Steampunk-Stadtburgmauer-Bewegung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Kamerabewegungs-Prompt, der sich entlang von Burgmauern bewegt und nachts auf eine Stadt im Steampunk-Stil hinunterblickt.
-
-#### 📝 Prompt
-
-```
-Bewegung entlang der Burgmauern mit Blick auf die Stadt im Steampunk-Stil bei Nacht.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="Steampunk-Stadtburgmauer-Bewegung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10384)**
-
-**Author:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **Source:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **Published:** Sep 5, 2026
-
----
-### Ritterschlag-Zeremonie im Actionfilm-Stil
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter filmischer Prompt für eine Ritterschlag-Zeremonie in einem königlichen Thronsaal mit einer weiblichen Heldin und majestätischer Atmosphäre.
-
-#### 📝 Prompt
-
-```
-Eine Szene im Actionfilm-Stil, in der eine schöne weibliche Heldin eine Audienz bei einer Königin im Thronsaal des königlichen Schlosses hat und eine Ritterschlag-Zeremonie abgehalten wird. Eine feierliche und dramatische Atmosphäre, luxuriöses königliches Interieur sowie lebendige, noble Farben.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="Ritterschlag-Zeremonie im Actionfilm-Stil">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10392)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **Published:** Sep 5, 2026
-
----
-### Infografik zum Blaulicht und zirkadianen Rhythmus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt zur Erstellung einer Infografik, die erklärt, wie Blaulicht die Melatoninproduktion beeinflusst und den Schlafzyklus stört.
-
-#### 📝 Prompt
-
-```
-Infografik darüber, wie Blaulicht die Melatoninproduktion hemmt und den zirkadianen Rhythmus stört
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="Infografik zum Blaulicht und zirkadianen Rhythmus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10385)**
-
-**Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
-
----
-### Elon Musk als Dr. Evil: Mandarin-Unterricht
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Video-Prompt, in dem Elon Musk im Stil von Dr. Evil seinem Sohn in einer humorvollen Sprachstunde Mandarin beibringt.
-
-#### 📝 Prompt
-
-```
-Setze die Szene fort: Elon Musk (mit chinesisch anmutendem Aussehen und schwarzem Haar als Dr. Evil) streichelt die weiße Katze und spricht auf Mandarin zu seinem Sohn Lil X (Mini-Me mit schwarzem Haar), um ihm eine unterhaltsame Lektion in der Sprache zu erteilen. Elon sagt: „Kleiner Mini, du vervollständigst mich.“
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="Elon Musk als Dr. Evil: Mandarin-Unterricht">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10436)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **Published:** Sep 4, 2026
-
----
-### Video eines romantischen Paares auf einer Schaukel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt für Grok Imagine, um ein Paar beim liebevollen Schaukeln zu animieren, wobei ihre exakten Merkmale beibehalten werden.
-
-#### 📝 Prompt
-
-```
-Die beiden Personen schaukeln liebevoll zusammen, zeigen Zuneigung und Liebe, lächeln sich während des Hin- und Herschaukelns romantisch an, behalten ihr exaktes Aussehen, ihre Gesichter, ihre Kleidung und ihre Merkmale unverändert bei
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="Video eines romantischen Paares auf einer Schaukel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10434)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **Published:** Sep 4, 2026
-
----
-### Sci-Fi-Szene einer unterirdischen Höhlenstadt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Sci-Fi-Video-Prompt für eine filmische Weitaufnahme einer riesigen unterirdischen Höhlenstadt mit modularen Wohnkapseln und dramatischer Beleuchtung.
-
-#### 📝 Prompt
-
-```
-Filmische Weitaufnahme einer riesigen unterirdischen Höhlenstadt mit weißen, modularen Wohnkapseln, die in die felsigen Schluchtwände gebaut sind, warm leuchtende Fenster, ein Fluss, der sich durch den Höhlenboden schlängelt, schmale Fußgängerbrücken mit winzigen Figuren, die diese überqueren, dramatische Sonnenstrahlen, die durch eine kreisförmige Öffnung in der Steindecke einfallen, sanfter Nebel in der Luft, hoffnungsvolle Sci-Fi-Architektur, fotorealistische Details, ruhig und leuchtend
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="Sci-Fi-Szene einer unterirdischen Höhlenstadt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10386)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **Published:** Sep 4, 2026
-
----
-### Schwereloser schwebender Astronaut
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, kinoreifer Video-Prompt für einen Astronauten, der im Weltraum schwebt, mit sanften Kamerabewegungen und realistischem Sternenhintergrund.
-
-#### 📝 Prompt
-
-```
-Der Astronaut schwebt sanft in der Schwerelosigkeit, rotiert langsam und blickt sich um, Sterne ziehen vorbei, subtile Kamerabewegung, flüssige filmische Bewegung
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="Schwereloser schwebender Astronaut">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10388)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **Published:** Sep 4, 2026
-
----
-### Japanischer Streamer Talking Head
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein High-Fidelity-Videoprompt für realistische Gesichtsausdrücke und Lippensynchronisation.
-
-#### 📝 Prompt
-
-```
-Nahaufnahme eines sprechenden Kopfes, junger japanischer Streamer, kontinuierliche natürliche Lippenbewegungen passend zur Sprache, spannungsgeladene und aufgeregte Ausdrucksweise, Mundformen verändern sich deutlich Silbe für Silbe, Blinzeln und Mikroexpressionen, fotorealistisch
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="Japanischer Streamer Talking Head">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **Published:** Sep 4, 2026
-
----
-### Ankunftsszene eines imperialen Raumschiffs
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Prompt für Grok Imagine, der eine Menschenmenge zeigt, die die Ankunft eines imperialen Raumschiffs auf ihrem Planeten beobachtet.
-
-#### 📝 Prompt
-
-```
-Alle versammeln sich, um die Ankunft eines imperialen Raumschiffs auf ihrem Planeten zu beobachten.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="Ankunftsszene eines imperialen Raumschiffs">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10390)**
-
-**Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2274,6 +2275,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-14T04:38:13.020Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-14T15:12:25.061Z</sub>
 
 </div>

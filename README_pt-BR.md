@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2804** |
+| 📝 Total Prompts | **2815** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-14** |
 
@@ -189,6 +189,216 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Vestido Gótico Jovem Mulher
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt visual detalhado descrevendo uma jovem mulher em trajes góticos elaborados, com olhos vermelhos e um laço.
+
+#### 📝 Prompt
+
+```
+Uma jovem mulher com cabelos longos e ondulados, adornados com um grande laço vermelho, vestindo um elaborado vestido gótico preto e vermelho com mangas bufantes, corpete com amarração e saia com babados. Ela tem um sorriso gentil, olhos vermelhos e pele clara, mantendo as mãos...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099327401968746498/img/3ElApaFVwRjLiQd2.jpg" width="600" alt="Vestido Gótico Jovem Mulher">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10812)**
+
+**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099327424630513961) | **Published:** Sep 14, 2026
+
+---
+### Prompt do Grok Imagine: Personalidade de Gato Julgador
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para geração de vídeo no Grok Imagine que retrata um gato com aparência julgadora, mas que na verdade é afetuoso e encorajador.
+
+#### 📝 Prompt
+
+```
+Um gato que pode parecer julgador à primeira vista, mas que nutre um profundo afeto por você, sempre elevando o seu espírito com incentivos caprichosos e humorísticos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099236716133683200/img/Z7aZPUKt4gFMf-HD.jpg" width="600" alt="Prompt do Grok Imagine: Personalidade de Gato Julgador">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10813)**
+
+**Author:** [Jeffery Bruyere](https://x.com/Blueguyflies) | **Source:** [Link](https://x.com/Blueguyflies/status/2099236802871877981) | **Published:** Sep 13, 2026
+
+---
+### Sereia em Recife de Coral Submarino
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para gerar um vídeo cinematográfico de fantasia com uma sereia descansando entre recifes de coral vibrantes durante a era de ouro da pirataria.
+
+#### 📝 Prompt
+
+```
+Uma cena cinematográfica de fantasia deslumbrante ambientada na era de ouro da pirataria. Sob a superfície cristalina do oceano, uma bela sereia com cabelos longos e ondulados e uma cauda elegante e cintilante descansa entre um vibrante recife de coral submarino, cercada por...
+```
+
+<img src="https://cms-assets.youmind.com/media/1789390476490_zi9jh7_HSHyfnObEAAPniU.jpg" width="600" alt="Sereia em Recife de Coral Submarino">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10820)**
+
+**Author:** [Jorge](https://x.com/JorgeGeminiOR) | **Source:** [Link](https://x.com/JorgeGeminiOR/status/2099225530939711721) | **Published:** Sep 13, 2026
+
+---
+### Prompt de Reação da Multidão no Lançamento do Falcon 9
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt que descreve a reação emocional de uma multidão durante o lançamento do foguete Falcon 9, adequado para geração de vídeo.
+
+#### 📝 Prompt
+
+```
+A euforia coletiva durante um lançamento do Falcon 9: quando o rugido ensurdecedor finalmente varre a multidão, a tensão se transforma instantaneamente em pura adrenalina. As pessoas comemoram freneticamente, gritam de alegria e algumas choram lágrimas de emoção.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099220646266114048/img/B3hU8bDkDoWOgZGa.jpg" width="600" alt="Prompt de Reação da Multidão no Lançamento do Falcon 9">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10814)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2099220675223232866) | **Published:** Sep 13, 2026
+
+---
+### Prompt do Grok Imagine: Mulher se Transforma em Princesa Guerreira
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para geração de vídeo no Grok Imagine mostrando uma jovem caminhando por um caminho, que se vira e se transforma em uma princesa guerreira.
+
+#### 📝 Prompt
+
+```
+Uma jovem, caminhando por um caminho, se vira e se transforma em uma princesa guerreira....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099197834855653377/img/07VTigKKGdxzujtB.jpg" width="600" alt="Prompt do Grok Imagine: Mulher se Transforma em Princesa Guerreira">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10815)**
+
+**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
+
+---
+### Teste de Refração do Vidro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt técnico para testar a refração complexa do vidro e as cáusticas de luz.
+
+#### 📝 Prompt
+
+```
+Uma esfera de cristal transparente cheia de óleo iridescente em espiral, flutuando dentro de um aquário de vidro. A luz do sol atravessa ambas as camadas, projetando padrões intrincados e coloridos de luz cáustica sobre uma bancada de mármore escuro, fotografia macro, iluminação com ray tracing.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="Teste de Refração do Vidro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10818)**
+
+**Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
+
+---
+### Retrato de Alta Moda com Desfoque de Movimento
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt truncado para um retrato editorial de alta moda com efeitos de desfoque de movimento.
+
+#### 📝 Prompt
+
+```
+Um retrato editorial de alta moda de uma jovem mulher com cabelos longos sendo intensamente soprados pelo vento. Ela veste uma peça fluida, translúcida e vibrante em tons de laranja-avermelhado fogo, com mangas largas. A imagem é capturada com um forte desfoque de movimento intencional, partic...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098923245168693249/img/cKyXwL4mhKF-cmvx.jpg" width="600" alt="Retrato de Alta Moda com Desfoque de Movimento">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10817)**
+
+**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2098923257428595019) | **Published:** Sep 12, 2026
+
+---
+### Prompt de Vídeo Grok Imagine: Mulher Robô Futurista no Parque
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo de uma mulher robô futurista levando crianças para brincar em um parque aberto, supervisionada por um homem adulto. O tweet também inclui comentários sobre evitar anúncios intermediários.
+
+#### 📝 Prompt
+
+```
+Recrie uma mulher robô futurista levando crianças para brincar em um parque aberto. Supervisionada por um homem adulto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098900315579842571/img/MjFbW2hN62cWdrcJ.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Mulher Robô Futurista no Parque">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10822)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2098900366523879801) | **Published:** Sep 12, 2026
+
+---
+### Mulher Caminhando em Direção à Árvore da Vida
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para gerar um vídeo místico de uma mulher caminhando por uma floresta ensolarada em direção a uma antiga e brilhante Árvore da Vida, após emergir de arame farpado.
+
+#### 📝 Prompt
+
+```
+A mulher se levanta completamente do meio do arame farpado e caminha graciosamente pela floresta ensolarada em direção a uma majestosa e antiga Árvore da Vida. A Árvore da Vida é uma árvore mística gigante e luminosa, com raízes e galhos intricados que brilham em dourado...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098898023116087296/img/uYV8dK2Lbog8JyNN.jpg" width="600" alt="Mulher Caminhando em Direção à Árvore da Vida">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10816)**
+
+**Author:** [Barbara 💕🕊️🌎](https://x.com/BarbaraCbroker1) | **Source:** [Link](https://x.com/BarbaraCbroker1/status/2098898374229680514) | **Published:** Sep 12, 2026
+
+---
+### Prompt de Nave-Cidade Futurista Sci-Fi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar uma sequência cinematográfica sci-fi de 10 segundos, apresentando uma colossal nave-cidade voadora, motores e viagens pelo espaço profundo.
+
+#### 📝 Prompt
+
+```
+Sequência cinematográfica vertical sci-fi de 10 segundos: comece com uma colossal nave-cidade futurista voadora acima das nuvens ao nascer do sol, transicione para close-ups de motores de propulsão brilhantes, tráfego autônomo e arranha-céus imponentes, em seguida, revele a silhueta humana observando a cidade antes que a enorme embarcação acelere da Terra rumo ao espaço profundo. Termine com a nave voando entre estrelas e planetas, usando movimentos de câmera dramáticos, detalhes fotorrealistas, iluminação volumétrica, reflexos realistas, brilho poderoso dos motores, design sonoro cinematográfico impactante e o texto final:
+“O FUTURO É REAL — SCI-FI DE PRÓXIMA GERAÇÃO.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="Prompt de Nave-Cidade Futurista Sci-Fi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10819)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098745738398494723) | **Published:** Sep 12, 2026
+
+---
+### Dois Robôs Optimus Caminhando no Parque
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo para o Grok Imagine, apresentando dois robôs Optimus Prime caminhando juntos em um cenário de parque deslumbrante.
+
+#### 📝 Prompt
+
+```
+Dois Optimus, um parque lindo e uma conversa além do futuro. Caminhando juntos hoje… moldando o amanhã.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098709643119984641/img/34m6mk7nCDDO2AqR.jpg" width="600" alt="Dois Robôs Optimus Caminhando no Parque">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10821)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098710365307830738) | **Published:** Sep 12, 2026
+
+---
 ### Trailer de Eu Sou a Lenda com Optimus Prime
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2004,215 +2214,6 @@ Plano cinematográfico de corpo inteiro de uma mulher confiante com cabelos cach
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
 
 ---
-### Gatinho brincalhão na neve
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo detalhado para um gatinho brincando na neve, apresentando saltos, rolagens e movimento contínuo.
-
-#### 📝 Prompt
-
-```
-O adorável gatinho malhado laranja pula de forma brincalhona na bola de neve, depois rola e cai alegremente na neve fofa e macia, batendo nos flocos de neve que caem com suas patas, neve voando ao seu redor, movimentos lúdicos contínuos, comportamento natural e fofo de gatinho
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="Gatinho brincalhão na neve">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10435)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **Published:** Sep 5, 2026
-
----
-### Gatinho de Natal na neve
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo festivo de um gatinho brincando na neve com árvores de Natal e decorações ao fundo.
-
-#### 📝 Prompt
-
-```
-Gatinho brincando na neve com decorações de Natal e uma árvore de Natal ao fundo, com neve caindo intensamente ao redor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="Gatinho de Natal na neve">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10433)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **Published:** Sep 5, 2026
-
----
-### Movimento de Câmera em Muralha de Castelo Steampunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de movimento cinematográfico de câmera percorrendo as muralhas de um castelo com vista para uma cidade em estilo steampunk à noite.
-
-#### 📝 Prompt
-
-```
-Movendo-se ao longo das muralhas do castelo enquanto observa a cidade em estilo steampunk à noite.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="Movimento de Câmera em Muralha de Castelo Steampunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10384)**
-
-**Author:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **Source:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **Published:** Sep 5, 2026
-
----
-### Cerimônia de Investidura de Cavaleiro Estilo Filme de Ação
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt cinematográfico detalhado de uma cerimônia de investidura de cavaleiro em uma sala do trono real, com uma heroína e uma atmosfera majestosa.
-
-#### 📝 Prompt
-
-```
-Uma cena estilo filme de ação onde uma bela heroína tem uma audiência com uma rainha na sala do trono do castelo real, e uma cerimônia de investidura de cavaleiro está sendo realizada. Uma atmosfera solene e dramática, interior real luxuoso e cores vivas e nobres.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="Cerimônia de Investidura de Cavaleiro Estilo Filme de Ação">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10392)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **Published:** Sep 5, 2026
-
----
-### Infográfico sobre Luz Azul e Ritmo Circadiano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo detalhado para criar um infográfico que explica como os raios de luz azul afetam a produção de melatonina e interrompem os ciclos de sono.
-
-#### 📝 Prompt
-
-```
-Infográfico sobre como os raios de luz azul impedem a produção de melatonina e interrompem o ritmo circadiano
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="Infográfico sobre Luz Azul e Ritmo Circadiano">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10385)**
-
-**Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
-
----
-### Elon Musk como Dr. Evil em uma aula de mandarim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo criativo apresentando Elon Musk no estilo do Dr. Evil, falando mandarim para seu filho em uma aula de idiomas bem-humorada.
-
-#### 📝 Prompt
-
-```
-Continue a cena: Elon Musk (com aparência chinesa e cabelo preto, como Dr. Evil) acaricia o gato branco e fala em mandarim para seu filho Lil X (Mini-Me com cabelo preto), ensinando-lhe uma lição de idioma divertida. Elon diz: "Little Mini, you complete me"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="Elon Musk como Dr. Evil em uma aula de mandarim">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10436)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **Published:** Sep 4, 2026
-
----
-### Vídeo de casal romântico no balanço
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo para o Grok Imagine para animar um casal balançando carinhosamente, mantendo suas características exatas.
-
-#### 📝 Prompt
-
-```
-As duas pessoas balançando juntas amorosamente em um balanço, demonstrando afeto e amor, sorrindo um para o outro de forma romântica enquanto vão e voltam, mantenha suas aparências, rostos, roupas e características exatas inalteradas
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="Vídeo de casal romântico no balanço">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10434)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **Published:** Sep 4, 2026
-
----
-### Cena de Ficção Científica de Cidade em Caverna Subterrânea
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo de ficção científica detalhado para uma tomada cinematográfica ampla de uma vasta cidade em caverna subterrânea, apresentando cápsulas habitacionais modulares e iluminação dramática.
-
-#### 📝 Prompt
-
-```
-Tomada cinematográfica ampla de uma vasta cidade em caverna subterrânea com cápsulas habitacionais modulares brancas construídas nas paredes rochosas do cânion, janelas com brilho quente, um rio percorrendo o chão da caverna, passarelas estreitas para pedestres com pequenas figuras atravessando, raios de sol dramáticos entrando por uma abertura circular no teto de pedra, névoa suave no ar, arquitetura de ficção científica esperançosa, detalhes fotorrealistas, silenciosa e luminosa
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="Cena de Ficção Científica de Cidade em Caverna Subterrânea">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10386)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **Published:** Sep 4, 2026
-
----
-### Astronauta flutuando em gravidade zero
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico detalhado para um astronauta flutuando no espaço com movimentos de câmera suaves e fundos de estrelas realistas.
-
-#### 📝 Prompt
-
-```
-O astronauta flutua suavemente em gravidade zero, girando lentamente e olhando ao redor, estrelas passando à deriva, movimento de câmera sutil, movimento cinematográfico fluido
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="Astronauta flutuando em gravidade zero">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10388)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **Published:** Sep 4, 2026
-
----
-### Streamer Japonesa Falando
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo de alta fidelidade para expressões faciais realistas e sincronia labial.
-
-#### 📝 Prompt
-
-```
-Close-up de rosto falando, jovem streamer japonesa, movimentos labiais naturais contínuos sincronizados com a fala, entrega entusiasmada de alta tensão, formatos de boca mudando claramente sílaba por sílaba, piscadas e microexpressões, fotorrealista
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="Streamer Japonesa Falando">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **Published:** Sep 4, 2026
-
----
-### Cena de Chegada de Nave Espacial Imperial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico para o Grok Imagine que retrata uma multidão observando a chegada de uma nave espacial imperial ao seu planeta.
-
-#### 📝 Prompt
-
-```
-Todos estão se reunindo para assistir à chegada de uma nave espacial imperial ao seu planeta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="Cena de Chegada de Nave Espacial Imperial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10390)**
-
-**Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2274,6 +2275,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-14T04:38:15.726Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-14T15:12:28.529Z</sub>
 
 </div>

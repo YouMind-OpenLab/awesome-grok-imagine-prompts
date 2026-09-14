@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2804** |
+| 📝 Total Prompts | **2815** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-14** |
 
@@ -189,6 +189,216 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Gotik Elbiseli Genç Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kırmızı gözlü ve kurdeleli, gösterişli gotik kıyafetler giyen genç bir kadını betimleyen detaylı görsel istem.
+
+#### 📝 Prompt
+
+```
+Uzun, dalgalı siyah saçları büyük kırmızı bir kurdele ile süslenmiş; kabarık kollu, bağcıklı korse ve fırfırlı etek içeren gösterişli siyah-kırmızı gotik bir elbise giyen genç bir kadın. Nazik bir gülümsemeye, kırmızı gözlere ve açık ten rengine sahip olup elleriyle...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099327401968746498/img/3ElApaFVwRjLiQd2.jpg" width="600" alt="Gotik Elbiseli Genç Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10812)**
+
+**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099327424630513961) | **Published:** Sep 14, 2026
+
+---
+### Grok Imagine İstemi: Yargılayıcı Kedi Kişiliği
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İlk bakışta yargılayıcı görünen ancak aslında şefkatli ve moral veren bir kediyi tasvir eden Grok Imagine video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+İlk bakışta yargılayıcı görünebilen, ancak size derin bir sevgi besleyen ve caprice dolu, esprili cesaretlendirmeleriyle ruh halinizi sürekli olarak yükselten bir kedi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099236716133683200/img/Z7aZPUKt4gFMf-HD.jpg" width="600" alt="Grok Imagine İstemi: Yargılayıcı Kedi Kişiliği">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10813)**
+
+**Author:** [Jeffery Bruyere](https://x.com/Blueguyflies) | **Source:** [Link](https://x.com/Blueguyflies/status/2099236802871877981) | **Published:** Sep 13, 2026
+
+---
+### Su Altı Mercan Resifinde Deniz Kızı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Korsanlığın altın çağında, canlı mercan resifleri arasında dinlenen bir deniz kızının sinematik fantastik videosunu oluşturmak için bir istem.
+
+#### 📝 Prompt
+
+```
+Korsanlığın altın çağında geçen nefes kesici bir sinematik fantastik sahne. Kristal berraklığındaki okyanus yüzeyinin altında, uzun ve dalgalı saçlara sahip zarif bir deniz kızı, parlak pullu kuyruğuyla canlı su altı mercan resifleri arasında dinleniyor, etrafını saran...
+```
+
+<img src="https://cms-assets.youmind.com/media/1789390476490_zi9jh7_HSHyfnObEAAPniU.jpg" width="600" alt="Su Altı Mercan Resifinde Deniz Kızı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10820)**
+
+**Author:** [Jorge](https://x.com/JorgeGeminiOR) | **Source:** [Link](https://x.com/JorgeGeminiOR/status/2099225530939711721) | **Published:** Sep 13, 2026
+
+---
+### Falcon 9 Kalkışı Kalabalık Tepkisi İstem Metni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video üretimi için uygun, Falcon 9 roket kalkışı sırasında bir kalabalığın duygusal tepkisini tanımlayan istem metni.
+
+#### 📝 Prompt
+
+```
+Falcon 9 kalkışı sırasında kolektif coşku: Kulakları sağır eden uğultu nihayet kalabalığı sardığında, gerginlik anında saf adreline dönüşür. İnsanlar çılgınca tezahürat yapar, sevinçten bağırır ve bazıları duygu dolu gözyaşları döker.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099220646266114048/img/B3hU8bDkDoWOgZGa.jpg" width="600" alt="Falcon 9 Kalkışı Kalabalık Tepkisi İstem Metni">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10814)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2099220675223232866) | **Published:** Sep 13, 2026
+
+---
+### Grok Imagine İstemleri: Kadın, Savaşçı Prenses'e Dönüşüyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genç bir kadının yolda yürürken arkasını dönüp savaşçı bir prenseste dönüşmesini gösteren Grok Imagine video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Yolda ilerleyen genç bir kadın, arkasını döner ve savaşçı bir prenseste dönüşür....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099197834855653377/img/07VTigKKGdxzujtB.jpg" width="600" alt="Grok Imagine İstemleri: Kadın, Savaşçı Prenses'e Dönüşüyor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10815)**
+
+**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
+
+---
+### Cam Kırılma Testi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karmaşık cam kırılmasını ve ışık kausatiklerini test eden teknik bir istem.
+
+#### 📝 Prompt
+
+```
+İçinde dönen, gökkuşağı renkli yağ bulunan şeffaf kristal cam küre, cam bir akvaryumun içinde yüzüyor. Güneş ışığı her iki katmandan geçerek, koyu mermer tezgah üzerinde karmaşık, renkli kausatik ışık desenleri oluşturuyor; makro fotoğrafçılık, ışın izleme (ray-tracing) ile aydınlatma.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="Cam Kırılma Testi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10818)**
+
+**Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
+
+---
+### Yüksek Moda Hareket Bulanıklığı Portresi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hareket bulanıklığı efektlerine sahip yüksek moda editoryal portre için kısaltılmış bir istem.
+
+#### 📝 Prompt
+
+```
+Rüzgârda şiddetle savrulan uzun saçlı genç bir kadının yüksek moda editoryal portresi. Üzerinde bol kollu, akıcı, tül dokulu parlak ateş kırmızısı-turuncu bir giysi var. Görüntü, kasıtlı olarak güçlü hareket bulanıklığı ile yakalanmış, özellikle...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098923245168693249/img/cKyXwL4mhKF-cmvx.jpg" width="600" alt="Yüksek Moda Hareket Bulanıklığı Portresi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10817)**
+
+**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2098923257428595019) | **Published:** Sep 12, 2026
+
+---
+### Grok Imagine Video İstemi: Parkta Fütüristik Robot Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Açık bir parkta çocukları oyun oynamaya götüren, yetişkin bir erkek tarafından gözetilen fütüristik robot kadının videosunu oluşturmak için kullanılan istem. Tweet ayrıca aracı reklamlardan kaçınmaya yönelik yorumlar içeriyor.
+
+#### 📝 Prompt
+
+```
+Açık bir parkta çocukları oyun oynamaya götüren ve yetişkin bir erkek tarafından gözetlenen fütüristik bir robot kadın videosu oluşturun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098900315579842571/img/MjFbW2hN62cWdrcJ.jpg" width="600" alt="Grok Imagine Video İstemi: Parkta Fütüristik Robot Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10822)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2098900366523879801) | **Published:** Sep 12, 2026
+
+---
+### Hayat Ağacına Yürüyen Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dikenli tellerin arasından çıkan bir kadının, güneş ışığıyla aydınlanmış mistik bir ormanda parlayan kadim Hayat Ağacı'na doğru yürüdüğü videoyu oluşturmak için bir istem.
+
+#### 📝 Prompt
+
+```
+Kadın, dikenli tellerin arasından tamamen ayağa kalkar ve ardından güneş ışığıyla aydınlanmış ormanda zarif adımlarla ilerleyerek görkemli kadim Hayat Ağacı'na doğru yürür. Hayat Ağacı, karmaşık parlayan köklere ve dallara sahip, altın rengi...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098898023116087296/img/uYV8dK2Lbog8JyNN.jpg" width="600" alt="Hayat Ağacına Yürüyen Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10816)**
+
+**Author:** [Barbara 💕🕊️🌎](https://x.com/BarbaraCbroker1) | **Source:** [Link](https://x.com/BarbaraCbroker1/status/2098898374229680514) | **Published:** Sep 12, 2026
+
+---
+### Fütüristik Şehir Gemisi Bilim Kurgu İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Devasa uçan bir şehir gemisini, motorları ve derin uzay yolculuğunu içeren 10 saniyelik sinematik bir bilim kurgu sekansı oluşturmak için kullanılan istem.
+
+#### 📝 Prompt
+
+```
+10 saniyelik dikey sinematik bilim kurgu sekansı: Gün doğumunda bulutların üzerinde devasa fütüristik uçan bir şehir gemisiyle başlayın; parlayan itki motorlarının, otonom trafiğin ve gökdelenlerin yakın çekimlerine geçiş yapın; ardından insan siluetinin şehri izlediğini gösterin ve devasa geminin Dünya'dan derin uzaya doğru hızlandığını ortaya koyun. Dramatik kamera hareketleri, fotogerçekçi detaylar, hacimsel ışıklandırma, gerçekçi yansımalar, güçlü motor parlaması, derin sinematik ses tasarımı ve şu son metinle bitirin:
+“GELECEK GERÇEK — BİR SONRAKİ SEVİYE BİLİM KURGU.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="Fütüristik Şehir Gemisi Bilim Kurgu İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10819)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098745738398494723) | **Published:** Sep 12, 2026
+
+---
+### Parkta Yürüyen İki Optimus Robotu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için iki Optimus Prime robotunun güzel bir park ortamında birlikte yürüdüğü bir video üretim istemi.
+
+#### 📝 Prompt
+
+```
+İki Optimus, güzel bir park ve geleceğin ötesinde bir sohbet. Bugün birlikte yürüyorlar… yarını şekillendiriyorlar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098709643119984641/img/34m6mk7nCDDO2AqR.jpg" width="600" alt="Parkta Yürüyen İki Optimus Robotu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10821)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098710365307830738) | **Published:** Sep 12, 2026
+
+---
 ### I Am Legend Optimus Prime Fragmanı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2004,215 +2214,6 @@ Gece vakti ıslak neon bir çatı balkonunda duran, koyu kıvırcık saçlı, ke
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
 
 ---
-### Karda Oyun Oynayan Yavru Kedi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karda oynayan, üzerine atlayan, yuvarlanan ve sürekli hareket halinde olan bir yavru kedi için detaylı video istemi.
-
-#### 📝 Prompt
-
-```
-Sevimli turuncu tekir yavru kedi, kartopunun üzerine neşeyle atlıyor, ardından yumuşak ve tozlu karda keyifle yuvarlanıp taklalar atıyor, patileriyle düşen kar tanelerine vuruyor, etrafında uçuşan kar taneleri, sürekli oyun dolu hareketler, doğal ve sevimli yavru kedi davranışları
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="Karda Oyun Oynayan Yavru Kedi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10435)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **Published:** Sep 5, 2026
-
----
-### Karda Noel Yavru Kedisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Arka planda Noel ağaçları ve süslemelerle karda oynayan bir yavru kedi için şenlikli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Arka planda Noel süsleri ve bir Noel ağacı ile karda oynayan yavru kedi, etrafta yoğun kar yağışı
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="Karda Noel Yavru Kedisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10433)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **Published:** Sep 5, 2026
-
----
-### Steampunk Şehir Kale Duvarı Hareketi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gece vakti steampunk tarzı bir şehre tepeden bakan kale duvarları boyunca ilerleyen sinematik bir kamera hareketi istemi.
-
-#### 📝 Prompt
-
-```
-Gece vakti steampunk tarzı şehre tepeden bakarken kale duvarları boyunca ilerleme.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="Steampunk Şehir Kale Duvarı Hareketi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10384)**
-
-**Author:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **Source:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **Published:** Sep 5, 2026
-
----
-### Aksiyon Filmi Tarzında Şövalyelik Töreni
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Kraliyet taht odasında, kadın bir kahramanın yer aldığı, görkemli bir atmosfere sahip şövalyelik töreni için detaylı sinematik komut.
-
-#### 📝 Prompt
-
-```
-Güzel bir kadın kahramanın kraliyet şatosunun taht odasında kraliçenin huzuruna çıktığı ve bir şövalyelik töreninin gerçekleştirildiği aksiyon filmi tarzında bir sahne. Ciddi ve dramatik bir atmosfer, lüks kraliyet iç mekanı, canlı ve asil renkler.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="Aksiyon Filmi Tarzında Şövalyelik Töreni">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10392)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **Published:** Sep 5, 2026
-
----
-### Mavi Işık ve Sirkadiyen Ritim Bilgi Grafiği
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mavi ışık ışınlarının melatonin üretimini nasıl etkilediğini ve uyku döngülerini nasıl bozduğunu açıklayan bir bilgi grafiği oluşturmaya yönelik detaylı video istemi.
-
-#### 📝 Prompt
-
-```
-Mavi ışık ışınlarının melatonin üretimini nasıl engellediğini ve sirkadiyen ritmi nasıl bozduğunu gösteren bilgi grafiği
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="Mavi Işık ve Sirkadiyen Ritim Bilgi Grafiği">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10385)**
-
-**Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
-
----
-### Dr. Evil Olarak Elon Musk ile Çince Dersi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Elon Musk'ın Dr. Evil tarzında, oğluyla eğlenceli bir dil dersi sırasında Mandarin Çincesi konuştuğu yaratıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Sahneye devam et: Elon Musk (Dr. Evil gibi siyah saçlı ve Çinli görünümünde), beyaz kedisini okşuyor ve oğlu Lil X'e (siyah saçlı Mini-Me) Mandarin Çincesi konuşarak ona eğlenceli bir dil dersi veriyor. Elon, "Küçük Mini, beni tamamlıyorsun" diyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="Dr. Evil Olarak Elon Musk ile Çince Dersi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10436)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **Published:** Sep 4, 2026
-
----
-### Romantik Salıncakta Sallanan Çift Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, bir çiftin tam özelliklerini koruyarak sevgiyle sallandığı bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Salıncakta birlikte sevgiyle sallanan, birbirlerine karşı şefkat ve aşk gösteren, sallanırken romantik bir şekilde gülümseyen iki kişi; yüzleri, kıyafetleri ve özellikleri dahil olmak üzere dış görünüşlerini tamamen aynı şekilde koruyun
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="Romantik Salıncakta Sallanan Çift Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10434)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **Published:** Sep 4, 2026
-
----
-### Yeraltı Mağara Şehri Bilim Kurgu Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Modüler yaşam kapsülleri ve dramatik aydınlatmaya sahip, geniş bir yeraltı mağara şehrinin sinematik geniş açılı çekimi için detaylı bir bilim kurgu video istemi.
-
-#### 📝 Prompt
-
-```
-Kayalık kanyon duvarlarına inşa edilmiş beyaz modüler yaşam kapsülleri, sıcak parlayan pencereler, mağara tabanından geçen bir nehir, üzerinden geçen küçük figürlerin olduğu ince yaya köprüleri, taş tavandaki dairesel bir açıklıktan içeri süzülen dramatik güneş ışınları, havada hafif bir sis, umut verici bilim kurgu mimarisi, fotorealistik detaylar, sessiz ve aydınlık, geniş açılı sinematik çekim
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="Yeraltı Mağara Şehri Bilim Kurgu Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10386)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **Published:** Sep 4, 2026
-
----
-### Yerçekimsiz Ortamda Süzülen Astronot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uzayda süzülen bir astronot için yumuşak kamera hareketleri ve gerçekçi yıldız arka planlarına sahip detaylı sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Astronot yerçekimsiz ortamda nazikçe süzülüyor, yavaşça dönerek etrafına bakıyor, yanından geçip giden yıldızlar, hafif kamera hareketi, akıcı sinematik hareket
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="Yerçekimsiz Ortamda Süzülen Astronot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10388)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **Published:** Sep 4, 2026
-
----
-### Japon Yayıncı Konuşan Kafa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gerçekçi yüz ifadeleri ve dudak senkronizasyonu için yüksek kaliteli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Yakın plan konuşan kafa, genç Japon yayıncı, konuşmayla uyumlu sürekli doğal dudak hareketleri, yüksek gerilimli heyecanlı anlatım, hece hece net bir şekilde değişen ağız şekilleri, göz kırpma ve mikro ifadeler, fotogerçekçi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="Japon Yayıncı Konuşan Kafa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **Published:** Sep 4, 2026
-
----
-### İmparatorluk Uzay Gemisi Varış Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, bir kalabalığın gezegenlerine gelen imparatorluk uzay gemisini izlemesini konu alan sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Herkes, imparatorluk uzay gemisinin gezegenlerine varışını izlemek için toplanıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="İmparatorluk Uzay Gemisi Varış Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10390)**
-
-**Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2274,6 +2275,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-14T04:38:17.264Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-14T15:12:30.522Z</sub>
 
 </div>

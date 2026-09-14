@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2804** |
+| 📝 총 프롬프트 수 | **2815** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-09-14** |
 
@@ -189,6 +189,215 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 고딕 드레스를 입은 젊은 여성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 붉은 눈과 리본을 한 정교한 고딕 의상을 입은 젊은 여성에 대한 상세한 시각적 프롬프트.
+
+#### 📝 프롬프트
+
+```
+긴 검은 머리에 큰 붉은 리본을 장식한 젊은 여성이 부풀린 소매, 코르셋 끈, 주름진 치마가 특징인 정교한 검정 및 빨강 고딕 드레스를 입고 있습니다. 그녀는 부드러운 미소를 짓고 있으며, 붉은 눈과 하얀 피부를 가지고 있고, 손을...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099327401968746498/img/3ElApaFVwRjLiQd2.jpg" width="600" alt="고딕 드레스를 입은 젊은 여성">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10812)**
+
+**작성자:** [John Francavillo](https://x.com/Francavil42824J) | **출처:** [Link](https://x.com/Francavil42824J/status/2099327424630513961) | **게시일:** Sep 14, 2026
+
+---
+### Grok Imagine 프롬프트: 판단적인 고양이 성격
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 겉으로는 판단적인 것처럼 보이지만 실제로는 애정 넘치고 격려하는 고양이를 묘사한 Grok Imagine 영상 생성용 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+처음에는 판단적인 것처럼 보일 수 있지만, 사실은 당신을 향한 깊은 애정을 품고 있으며 기발하고 유머러스한 격려로 당신의 기분을 항상 북돋아 주는 고양이.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099236716133683200/img/Z7aZPUKt4gFMf-HD.jpg" width="600" alt="Grok Imagine 프롬프트: 판단적인 고양이 성격">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10813)**
+
+**작성자:** [Jeffery Bruyere](https://x.com/Blueguyflies) | **출처:** [Link](https://x.com/Blueguyflies/status/2099236802871877981) | **게시일:** Sep 13, 2026
+
+---
+### 수중 산호초 속의 인어
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 해적의 황금 시대를 배경으로, 생생한 산호초 사이에서 휴식을 취하는 인어의 영화 같은 판타지 영상을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+해적의 황금 시대를 배경으로 한 숨막히는 영화 같은 판타지 장면입니다. 수정처럼 맑은 바다 표면 아래, 긴 머리카락과 우아하게 반짝이는 꼬리를 가진 아름다운 인어가 생동감 넘치는 수중 산호초 사이에서 휴식을 취하고 있으며, 주변에는...
+```
+
+<img src="https://cms-assets.youmind.com/media/1789390476490_zi9jh7_HSHyfnObEAAPniU.jpg" width="600" alt="수중 산호초 속의 인어">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10820)**
+
+**작성자:** [Jorge](https://x.com/JorgeGeminiOR) | **출처:** [Link](https://x.com/JorgeGeminiOR/status/2099225530939711721) | **게시일:** Sep 13, 2026
+
+---
+### Falcon 9 발사 군중 반응 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 비디오 생성에 적합한 Falcon 9 로켓 발사 중 군중의 감정적 반응을 묘사하는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+Falcon 9 발사 시의 집단적 환희: 귀를 찢는 굉음이 마침내 군중을 휩쓸자, 긴장감은 즉각 순수한 아드레날린으로 변합니다. 사람들은 열광적으로 환호하고, 기쁨에 소리 지르며, 어떤 이들은 감격의 눈물을 흘립니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099220646266114048/img/B3hU8bDkDoWOgZGa.jpg" width="600" alt="Falcon 9 발사 군중 반응 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10814)**
+
+**작성자:** [Marie](https://x.com/Marie8508319540) | **출처:** [Link](https://x.com/Marie8508319540/status/2099220675223232866) | **게시일:** Sep 13, 2026
+
+---
+### Grok Imagine 프롬프트: 여성이 전사 공주로 변신하는 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 길을 걷던 젊은 여성이 뒤를 돌아보며 전사 공주로 변신하는 Grok Imagine 영상 생성용 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+젊은 여성 한 명이 길을 따라 걷다가 뒤를 돌아보며 전사 공주로 변신합니다....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099197834855653377/img/07VTigKKGdxzujtB.jpg" width="600" alt="Grok Imagine 프롬프트: 여성이 전사 공주로 변신하는 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10815)**
+
+**작성자:** [John Francavillo](https://x.com/Francavil42824J) | **출처:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **게시일:** Sep 13, 2026
+
+---
+### 유리 굴절 테스트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 복잡한 유리 굴절 및 빛의 카우스틱(caustics) 효과를 검증하는 기술적 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+무지개빛 오일이 소용돌이치는 투명한 수정 구슬이 유리 어항 안에 떠 있는 모습. 햇빛이 두 겹의 유리를 통과하며 어두운 대리석 카운터 위에 복잡하고 다채로운 카우스틱 빛 패턴을 투사합니다. 매크로 사진, 레이 트레이싱 조명.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="유리 굴절 테스트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10818)**
+
+**작성자:** [Grok Builder](https://x.com/grok_builder) | **출처:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **게시일:** Sep 13, 2026
+
+---
+### 하이패션 모션 블러 초상화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 모션 블러 효과가 적용된 하이패션 에디토리얼 초상화를 위한 프롬프트 일부.
+
+#### 📝 프롬프트
+
+```
+바람에 강하게 날리는 긴 머리를 한 젊은 여성의 하이패션 에디토리얼 초상화. 그녀는 헐렁한 소매가 달린 흐르는 듯한 시스루 소재의 선명한 불꽃 오렌지-레드 의상을 입고 있다. 이 이미지는 의도적으로 강한 모션 블러를 사용하여 촬영되었으며, 특히...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098923245168693249/img/cKyXwL4mhKF-cmvx.jpg" width="600" alt="하이패션 모션 블러 초상화">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10817)**
+
+**작성자:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **출처:** [Link](https://x.com/poetrynthings/status/2098923257428595019) | **게시일:** Sep 12, 2026
+
+---
+### Grok Imagine 비디오 프롬프트: 공원의 미래형 로봇 여성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 미래형 로봇 여성이 아이들을 넓은 공원에서 놀게 하고, 성인 남성이 이를 감독하는 장면을 생성하기 위한 프롬프트입니다. 해당 트윗에는 중간 광고를 피하라는 코멘트도 포함되어 있습니다.
+
+#### 📝 프롬프트
+
+```
+미래형 로봇 여성이 아이들을 데리고 넓은 공원에서 노는 장면을 재현하세요. 성인 남성이 이를 감독합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098900315579842571/img/MjFbW2hN62cWdrcJ.jpg" width="600" alt="Grok Imagine 비디오 프롬프트: 공원의 미래형 로봇 여성">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10822)**
+
+**작성자:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **출처:** [Link](https://x.com/clemensilverio/status/2098900366523879801) | **게시일:** Sep 12, 2026
+
+---
+### 생명나무를 향해 걷는 여성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 가시 철망을 뚫고 나온 여성이 햇살이 쏟아지는 숲을 지나 빛나는 고대의 생명나무로 향하는 신비로운 영상을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+여성은 가시 철망 사이에서 완전히 일어서서, 햇살이 비치는 숲을 우아하게 걸어 웅장한 고대의 생명나무로 향합니다. 생명나무는 복잡하고 빛나는 뿌리와 가지가 있는 거대하고 신비롭게 빛나는 나무이며, 황금빛...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098898023116087296/img/uYV8dK2Lbog8JyNN.jpg" width="600" alt="생명나무를 향해 걷는 여성">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10816)**
+
+**작성자:** [Barbara 💕🕊️🌎](https://x.com/BarbaraCbroker1) | **출처:** [Link](https://x.com/BarbaraCbroker1/status/2098898374229680514) | **게시일:** Sep 12, 2026
+
+---
+### 미래 도시 우주선 SF 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 거대한 비행 도시 우주선, 엔진 및 심우주 여행을 특징으로 하는 10초 시네마틱 SF 시퀀스 생성용 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+10초 세로형 시네마틱 SF 시퀀스: 일출 무렵 구름 위를 떠다니는 거대한 미래형 비행 도시 우주선으로 시작하여, 빛나는 추진 엔진, 자율 주행 교통수단, 그리고 솟아오른 고층 빌딩의 클로즈업으로 전환됩니다. 이어 지구를 떠나 심우주로 가속하는 거대한 함선 앞에서 도시를 내려다보는 인간의 실루엣을 드러냅니다. 마지막으로 별과 행성 사이를 날아가는 우주선을 보여주며, 극적인 카메라 워크, 포토 리얼리스틱 디테일, 볼류메트릭 라이팅, 사실적인 반사 효과, 강력한 엔진 발광, 깊은 시네마틱 사운드 디자인을 활용하고 최종 텍스트로 "THE FUTURE IS REAL — NEXT LEVEL SCI-FI."를 표시합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="미래 도시 우주선 SF 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10819)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2098745738398494723) | **게시일:** Sep 12, 2026
+
+---
+### 공원에서 걷는 두 대의 Optimus 로봇
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 위한 영상 생성 프롬프트로, 아름다운 공원을 함께 산책하는 두 대의 Optimus Prime 로봇을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+두 대의 Optimus, 아름다운 공원 하나, 그리고 미래를 초월한 대화. 오늘 함께 걷다… 내일을 만들어갑니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098709643119984641/img/34m6mk7nCDDO2AqR.jpg" width="600" alt="공원에서 걷는 두 대의 Optimus 로봇">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10821)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2098710365307830738) | **게시일:** Sep 12, 2026
+
+---
 ### I Am Legend Optimus Prime 예고편
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2004,215 +2213,6 @@ Alice @Reference3 와 Dani @Reference2 가 조리대에서 채소를 썰며 Elar
 **작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **게시일:** Sep 5, 2026
 
 ---
-### 눈 속에서 장난치는 아기 고양이
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 눈 속에서 뛰어오르고 구르며 끊임없이 움직이는 아기 고양이를 위한 상세한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-사랑스러운 주황색 태비 아기 고양이가 눈뭉치를 향해 장난스럽게 뛰어오른 뒤, 부드러운 가루눈 위에서 즐겁게 구르고 뒹굽니다. 앞발로 떨어지는 눈송이를 툭툭 치고 주변으로 눈이 흩날리는 모습 등, 아기 고양이의 자연스럽고 귀여운 움직임이 끊임없이 이어집니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="눈 속에서 장난치는 아기 고양이">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10435)**
-
-**작성자:** [Grok imagine user](https://x.com/imagine_user_) | **출처:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **게시일:** Sep 5, 2026
-
----
-### 눈 속의 크리스마스 아기 고양이
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 크리스마스 트리와 장식을 배경으로 눈 속에서 뛰어노는 아기 고양이를 위한 축제 분위기의 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-크리스마스 장식과 크리스마스 트리를 배경으로 눈 속에서 뛰어노는 아기 고양이, 주변에 함박눈이 내리는 모습
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="눈 속의 크리스마스 아기 고양이">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10433)**
-
-**작성자:** [Grok imagine user](https://x.com/imagine_user_) | **출처:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **게시일:** Sep 5, 2026
-
----
-### 스팀펑크 도시 성벽 모션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 밤의 스팀펑크 스타일 도시를 내려다보는 성벽을 따라 이동하는 영화적 카메라 모션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-밤의 스팀펑크 스타일 도시를 내려다보며 성벽을 따라 이동합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="스팀펑크 도시 성벽 모션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10384)**
-
-**작성자:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **출처:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **게시일:** Sep 5, 2026
-
----
-### 액션 영화 스타일의 기사 서임식
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 왕실 알현실에서 여성 영웅이 참여하는 기사 서임식을 묘사한, 웅장한 분위기의 영화적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-아름다운 여성 영웅이 왕실 알현실에서 여왕을 알현하며 기사 서임식을 거행하는 액션 영화 스타일의 장면입니다. 엄숙하고 극적인 분위기, 화려한 왕실 인테리어, 그리고 생생하고 고귀한 색감이 돋보입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="액션 영화 스타일의 기사 서임식">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10392)**
-
-**작성자:** [Apple](https://x.com/Apple0816799221) | **출처:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **게시일:** Sep 5, 2026
-
----
-### 블루라이트와 일주기 리듬 인포그래픽
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 블루라이트가 멜라토닌 생성에 미치는 영향과 수면 주기를 방해하는 과정을 설명하는 인포그래픽 제작을 위한 상세 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-블루라이트가 멜라토닌 생성을 억제하고 일주기 리듬을 방해하는 원리에 관한 인포그래픽
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="블루라이트와 일주기 리듬 인포그래픽">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10385)**
-
-**작성자:** [Callum Conway](https://x.com/wordsbycallum) | **출처:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **게시일:** Sep 5, 2026
-
----
-### 닥터 이블로 변신한 일론 머스크의 중국어 수업
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 닥터 이블 스타일로 분장한 일론 머스크가 아들에게 재미있게 중국어를 가르치는 창의적인 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-장면 이어가기: 닥터 이블처럼 검은 머리에 동양적인 외모를 한 일론 머스크가 흰 고양이를 쓰다듬으며, 미니미처럼 검은 머리를 한 아들 Lil X에게 재미있는 중국어 수업을 합니다. 일론이 말합니다. "리틀 미니, 너는 내 반쪽이야(You complete me)"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="닥터 이블로 변신한 일론 머스크의 중국어 수업">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10436)**
-
-**작성자:** [Cyperpienso](https://x.com/cyperpienso) | **출처:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **게시일:** Sep 4, 2026
-
----
-### 그네를 타는 로맨틱한 커플 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 사용하여 그네를 타는 커플의 모습을 그들의 특징을 그대로 유지하며 애니메이션으로 생성하기 위한 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그네 위에서 다정하게 함께 그네를 타며 애정과 사랑을 표현하는 두 사람, 앞뒤로 흔들리며 서로를 로맨틱하게 바라보며 미소 짓는 모습, 그들의 정확한 외모, 얼굴, 의상 및 특징을 그대로 유지할 것
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="그네를 타는 로맨틱한 커플 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10434)**
-
-**작성자:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **출처:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **게시일:** Sep 4, 2026
-
----
-### 지하 동굴 도시 SF 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 모듈형 거주 포드와 극적인 조명이 특징인 거대한 지하 동굴 도시의 영화적 와이드 샷을 위한 상세한 SF 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-바위 협곡 벽에 지어진 흰색 모듈형 거주 포드, 따뜻하게 빛나는 창문, 동굴 바닥을 흐르는 강, 작은 인물들이 건너는 얇은 보행자용 다리, 돌 천장의 원형 구멍에서 쏟아지는 극적인 햇살, 공기 중의 부드러운 안개, 희망적인 SF 건축물, 사실적인 디테일, 고요하고 빛나는 거대한 지하 동굴 도시의 영화적 와이드 샷
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="지하 동굴 도시 SF 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10386)**
-
-**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **게시일:** Sep 4, 2026
-
----
-### 무중력 상태로 떠 있는 우주비행사
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 우주 공간을 부유하는 우주비행사를 담은 정교한 시네마틱 영상 프롬프트로, 부드러운 카메라 움직임과 사실적인 별 배경이 특징입니다.
-
-#### 📝 프롬프트
-
-```
-우주비행사가 무중력 상태에서 부드럽게 떠 있으며, 천천히 회전하며 주위를 둘러봅니다. 별들이 지나가고, 미세한 카메라 움직임과 함께 부드러운 시네마틱 모션이 연출됩니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="무중력 상태로 떠 있는 우주비행사">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10388)**
-
-**작성자:** [Owen](https://x.com/owenxplore) | **출처:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **게시일:** Sep 4, 2026
-
----
-### 일본인 스트리머 토킹 헤드
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사실적인 표정과 립싱크를 위한 고화질 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-클로즈업 토킹 헤드, 젊은 일본인 스트리머, 음성에 맞춰 자연스럽게 이어지는 입 모양, 긴장감 넘치는 흥분된 말투, 음절마다 명확하게 변하는 입 모양, 눈 깜빡임 및 미세한 표정, 사실적인 사진 품질
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="일본인 스트리머 토킹 헤드">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10389)**
-
-**작성자:** [Sahil Verma](https://x.com/sahilvermaai) | **출처:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **게시일:** Sep 4, 2026
-
----
-### 제국 우주선 도착 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 행성에 도착하는 제국 우주선을 지켜보는 군중을 묘사한 Grok Imagine용 영화적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-모든 사람들이 자신들의 행성에 도착하는 제국 우주선을 보기 위해 모여들고 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="제국 우주선 도착 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10390)**
-
-**작성자:** [ojiji](https://x.com/ojiji2025) | **출처:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **게시일:** Sep 4, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2274,6 +2274,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-14T04:38:06.979Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-14T15:12:18.345Z</sub>
 
 </div>

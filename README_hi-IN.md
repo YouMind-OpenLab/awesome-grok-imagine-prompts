@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2804** |
+| 📝 Total Prompts | **2815** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-14** |
 
@@ -189,6 +189,216 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### गॉथिक ड्रेस में युवा महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत दृश्य प्रॉम्प्ट जो लाल आंखों और धनुकाकार सजावट के साथ जटिल गॉथिक वेशभूषा में एक युवा महिला का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+लंबे, बहते हुए काले बालों वाली एक युवा महिला, जिसके सिर पर एक बड़ा लाल धनुकाकार सजावट है, वह फूलदार आस्तीन, लेस-अप कारसेट और रफल्ड स्कर्ट के साथ एक जटिल काली और लाल गॉथिक ड्रेस पहने हुए है। उसके चेहरे पर एक कोमल मुस्कान है, उसकी आंखें लाल हैं, त्वचा गोरी है, और वह अपने हाथों को...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099327401968746498/img/3ElApaFVwRjLiQd2.jpg" width="600" alt="गॉथिक ड्रेस में युवा महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10812)**
+
+**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099327424630513961) | **Published:** Sep 14, 2026
+
+---
+### Grok Imagine प्रॉम्प्ट: निर्णायक बिल्ली का व्यक्तित्व
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine वीडियो जनरेशन के लिए एक प्रॉम्प्ट जो एक ऐसी बिल्ली को दर्शाता है जो पहली नजर में निर्णायक लगती है, लेकिन वास्तव में स्नेहपूर्ण और उत्साहवर्धक होती है।
+
+#### 📝 Prompt
+
+```
+एक बिल्ली जो पहली नजर में थोड़ी निर्णायक लग सकती है, लेकिन आपके लिए गहरा स्नेह रखती है और अपनी मनोरंजक तथा हास्यपूर्ण प्रोत्साहन से हमेशा आपका मनोबल बढ़ाती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099236716133683200/img/Z7aZPUKt4gFMf-HD.jpg" width="600" alt="Grok Imagine प्रॉम्प्ट: निर्णायक बिल्ली का व्यक्तित्व">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10813)**
+
+**Author:** [Jeffery Bruyere](https://x.com/Blueguyflies) | **Source:** [Link](https://x.com/Blueguyflies/status/2099236802871877981) | **Published:** Sep 13, 2026
+
+---
+### अंडरवाटर कोरल रीफ में मर्मेड
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> सुनहरे युग के समुद्री डाकुओं के दौरान जीवंत कोरल रीफ्स में विश्राम कर रही एक मर्मेड की सिनेमाई फैंटेसी वीडियो बनाने के लिए एक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+सुनहरे युग के समुद्री डाकुओं के दौरान सेट एक श्वस्त सिनेमाई फैंटेसी दृश्य। क्रिस्टल स्पष्ट महासागर की सतह के नीचे, लंबे बहते हुए बालों और एक सुंदर चमकती पूंछ वाली एक खूबसूरत मर्मेड जीवंत अंडरवाटर कोरल रीफ में विश्राम कर रही है, जिसके चारों ओर...
+```
+
+<img src="https://cms-assets.youmind.com/media/1789390476490_zi9jh7_HSHyfnObEAAPniU.jpg" width="600" alt="अंडरवाटर कोरल रीफ में मर्मेड">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10820)**
+
+**Author:** [Jorge](https://x.com/JorgeGeminiOR) | **Source:** [Link](https://x.com/JorgeGeminiOR/status/2099225530939711721) | **Published:** Sep 13, 2026
+
+---
+### Falcon 9 लॉन्च भीड़ की प्रतिक्रिया प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक प्रॉम्प्ट जो Falcon 9 रॉकेट लॉन्च के दौरान भीड़ की भावनात्मक प्रतिक्रिया का वर्णन करता है, वीडियो जनरेशन के लिए उपयुक्त।
+
+#### 📝 Prompt
+
+```
+Falcon 9 लॉन्च के दौरान सामूहिक उत्साह: जैसे ही भयंकर गड़गड़ाहट अंततः भीड़ पर छा जाती है, तनाव तुरंत शुद्ध एड्रेनालाईन में बदल जाता है। लोग पागलों की तरह चिल्लाते हैं, खुशी से चीखते हैं, और कुछ लोग भावुक होकर आंसू बहाते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099220646266114048/img/B3hU8bDkDoWOgZGa.jpg" width="600" alt="Falcon 9 लॉन्च भीड़ की प्रतिक्रिया प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10814)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2099220675223232866) | **Published:** Sep 13, 2026
+
+---
+### Grok Imagine प्रॉम्प्ट: युवती का योद्धा राजकुमारी में रूपांतरण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine वीडियो जनरेशन के लिए एक प्रॉम्प्ट, जिसमें एक युवती रास्ते पर चलते हुए पीछे मुड़ती है और एक योद्धा राजकुमारी में बदल जाती है।
+
+#### 📝 Prompt
+
+```
+एक युवती, रास्ते पर आगे बढ़ते हुए, पीछे मुड़ती है और एक योद्धा राजकुमारी बन जाती है....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099197834855653377/img/07VTigKKGdxzujtB.jpg" width="600" alt="Grok Imagine प्रॉम्प्ट: युवती का योद्धा राजकुमारी में रूपांतरण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10815)**
+
+**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
+
+---
+### ग्लास रिफ्रैक्शन टेस्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक तकनीकी प्रॉम्प्ट जो जटिल ग्लास रिफ्रैक्शन और लाइट कॉस्टिक्स का परीक्षण करता है।
+
+#### 📝 Prompt
+
+```
+एक पारदर्शी क्रिस्टल ग्लास गोला, जिसमें घूमता हुआ इंद्रधनुषी तेल है, एक ग्लास एक्वेरियम के अंदर तैर रहा है। सूर्य की रोशनी दोनों परतों से होकर गुजरती है, और एक डार्क मैबल काउंटरटॉप पर जटिल, रंगीन कॉस्टिक लाइट पैटर्न बनाती है, मैक्रो फोटोग्राफी, रे-ट्रेस्ड लाइटिंग।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="ग्लास रिफ्रैक्शन टेस्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10818)**
+
+**Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
+
+---
+### हाई-फैशन मोशन ब्लर पोर्ट्रेट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> मोशन ब्लर प्रभावों के साथ एक हाई-फैशन एडिटोरियल पोर्ट्रेट के लिए एक संक्षिप्त प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक युवा महिला का हाई-फैशन एडिटोरियल पोर्ट्रेट, जिसके लंबे बाल तेज हवा में जोर से उड़ रहे हैं। उसने एक बहती हुई, पारदर्शी, चमकीली आग जैसी नारंगी-लाल रंग की ढीली बाजू वाली पोशाक पहनी हुई है। छवि को जानबूझकर मजबूत मोशन ब्लर के साथ कैप्चर किया गया है, विशेष रूप से...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098923245168693249/img/cKyXwL4mhKF-cmvx.jpg" width="600" alt="हाई-फैशन मोशन ब्लर पोर्ट्रेट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10817)**
+
+**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2098923257428595019) | **Published:** Sep 12, 2026
+
+---
+### Grok Imagine Video Prompt: पार्क में भविष्यवादी रोबोट महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक खुले पार्क में बच्चों को खेलने ले जाने वाली भविष्यवादी रोबोट महिला का वीडियो बनाने के लिए एक प्रॉम्प्ट। ट्वीट में मध्यस्थ विज्ञापनों से बचने पर भी टिप्पणी शामिल है।
+
+#### 📝 Prompt
+
+```
+एक भविष्यवादी रोबोट महिला को दोबारा बनाएं जो बच्चों को एक खुले पार्क में खेलने ले जा रही हो। एक वयस्क पुरुष द्वारा निगरानी की गई।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098900315579842571/img/MjFbW2hN62cWdrcJ.jpg" width="600" alt="Grok Imagine Video Prompt: पार्क में भविष्यवादी रोबोट महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10822)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2098900366523879801) | **Published:** Sep 12, 2026
+
+---
+### जीवन के वृक्ष की ओर चलती हुई महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक रहस्यमयी वीडियो उत्पन्न करने के लिए एक प्रॉम्प्ट, जिसमें एक महिला कांटेदार तारों से निकलकर सूरज की रोशनी वाले जंगल से होकर चमकते हुए प्राचीन 'जीवन के वृक्ष' की ओर बढ़ती है।
+
+#### 📝 Prompt
+
+```
+महिला कांटेदार तारों के बीच से पूरी तरह खड़ी होती है, फिर सूरज की रोशनी वाले जंगल से होकर गरिमामय प्राचीन 'जीवन के वृक्ष' की ओर सुंदरता से आगे बढ़ती है। जीवन का वृक्ष एक विशाल रहस्यमयी चमकता हुआ पेड़ है जिसकी जटिल चमकती जड़ें और शाखाएं हैं, सुनहरा ल...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098898023116087296/img/uYV8dK2Lbog8JyNN.jpg" width="600" alt="जीवन के वृक्ष की ओर चलती हुई महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10816)**
+
+**Author:** [Barbara 💕🕊️🌎](https://x.com/BarbaraCbroker1) | **Source:** [Link](https://x.com/BarbaraCbroker1/status/2098898374229680514) | **Published:** Sep 12, 2026
+
+---
+### भविष्यवादी शहरी अंतरिक्ष यान साइ-फाई प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विशाल उड़ने वाले शहरी अंतरिक्ष यान, इंजन और गहरे अंतरिक्ष की यात्रा को दर्शाने वाली 10 सेकंड की सिनेमाई साइ-फाई सीक्वेंस उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+10 सेकंड की वर्टिकल सिनेमाई साइ-फाई सीक्वेंस: सूर्योदय के समय बादलों के ऊपर एक विशाल भविष्यवादी उड़ने वाले शहरी अंतरिक्ष यान से शुरू करें, फिर चमकते हुए प्रणोदन इंजनों, स्वचालित यातायात और ऊंची इमारतों के क्लोज़-अप के माध्यम से संक्रमण करें, और पृथ्वी से गहरे अंतरिक्ष की ओर इस विशाल यान के तेजी से बढ़ने से पहले शहर को देख रहे एक मानव छायाचित्र (silhouette) का खुलासा करें। तारों और ग्रहों के बीच उड़ते हुए यान के साथ समाप्त करें, जिसमें नाटकीय कैमरा मूवमेंट, फोटोरियलिस्टिक विवरण, वॉल्यूमेरिक लाइटिंग, यथार्थवादी प्रतिबिंब, शक्तिशाली इंजन चमक, गहरे सिनेमाई साउंड डिज़ाइन और अंतिम पाठ का उपयोग किया जाए:
+“भविष्य वास्तविक है — अगले स्तर की साइ-फाई।”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="भविष्यवादी शहरी अंतरिक्ष यान साइ-फाई प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10819)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098745738398494723) | **Published:** Sep 12, 2026
+
+---
+### पार्क में चलते हुए दो Optimus रोबोट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जिसमें दो Optimus Prime रोबोट सुंदर पार्क सेटिंग में साथ-साथ चल रहे हैं।
+
+#### 📝 Prompt
+
+```
+दो Optimus, एक सुंदर पार्क, और भविष्य से परे की बातचीत। आज साथ चल रहे हैं… कल को आकार दे रहे हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098709643119984641/img/34m6mk7nCDDO2AqR.jpg" width="600" alt="पार्क में चलते हुए दो Optimus रोबोट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10821)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098710365307830738) | **Published:** Sep 12, 2026
+
+---
 ### I Am Legend Optimus Prime ट्रेलर
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2004,215 +2214,6 @@ Pringles का लाल ढक्कन हवा में धीरे-ध�
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
 
 ---
-### बर्फ में खेलता प्यारा बिल्ली का बच्चा
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बर्फ में खेलते एक बिल्ली के बच्चे के लिए एक विस्तृत वीडियो प्रॉम्प्ट, जिसमें झपट्टा मारना, लुढ़कना और निरंतर गति शामिल है।
-
-#### 📝 Prompt
-
-```
-प्यारा नारंगी टैबी बिल्ली का बच्चा चंचलता से स्नोबॉल पर झपट्टा मारता है, फिर मुलायम पाउडर जैसी बर्फ में खुशी से लुढ़कता और पलटता है, अपने पंजों से गिरती बर्फ की फुहारों को मारता है, चारों ओर बर्फ उड़ रही है, निरंतर चंचल गतिविधियाँ, बिल्ली के बच्चे का स्वाभाविक प्यारा व्यवहार
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="बर्फ में खेलता प्यारा बिल्ली का बच्चा">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10435)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **Published:** Sep 5, 2026
-
----
-### बर्फ में क्रिसमस का बिल्ली का बच्चा
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> क्रिसमस ट्री और सजावट के बीच बर्फ में खेल रहे एक बिल्ली के बच्चे के लिए एक उत्सवपूर्ण वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-बर्फ में खेलता हुआ बिल्ली का बच्चा, जिसके बैकग्राउंड में क्रिसमस की सजावट और क्रिसमस ट्री है, चारों ओर भारी बर्फबारी हो रही है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="बर्फ में क्रिसमस का बिल्ली का बच्चा">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10433)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **Published:** Sep 5, 2026
-
----
-### स्टीमपंक सिटी कैसल वॉल मोशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> रात में स्टीमपंक-शैली के शहर को देखते हुए महल की दीवारों के साथ चलने वाला एक सिनेमाई कैमरा मोशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-रात में स्टीमपंक-शैली के शहर को नीचे देखते हुए महल की दीवारों के साथ आगे बढ़ना।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="स्टीमपंक सिटी कैसल वॉल मोशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10384)**
-
-**Author:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **Source:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **Published:** Sep 5, 2026
-
----
-### एक्शन मूवी नाइटिंग सेरेमनी
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एक शाही सिंहासन कक्ष में महिला नायक के साथ नाइट इन्वेस्टिचर सेरेमनी (नाइट बनाने का समारोह) का विस्तृत सिनेमैटिक प्रॉम्प्ट, जिसमें भव्य वातावरण है।
-
-#### 📝 Prompt
-
-```
-एक्शन मूवी स्टाइल का एक दृश्य जहाँ एक सुंदर महिला नायक शाही महल के सिंहासन कक्ष में रानी से मिलती है, और नाइट इन्वेस्टिचर सेरेमनी आयोजित की जा रही है। एक गंभीर और नाटकीय वातावरण, शानदार शाही इंटीरियर, और जीवंत, कुलीन रंग।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="एक्शन मूवी नाइटिंग सेरेमनी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10392)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **Published:** Sep 5, 2026
-
----
-### ब्लू लाइट और सर्केडियन रिदम इन्फोग्राफिक
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत वीडियो प्रॉम्प्ट, जो एक ऐसा इन्फोग्राफिक बनाने के लिए है जो यह समझाता है कि कैसे ब्लू लाइट किरणें मेलाटोनिन उत्पादन को प्रभावित करती हैं और नींद के चक्र को बाधित करती हैं।
-
-#### 📝 Prompt
-
-```
-इस बात पर इन्फोग्राफिक कि कैसे ब्लू लाइट किरणें मेलाटोनिन के उत्पादन को रोकती हैं और सर्केडियन रिदम को बाधित करती हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="ब्लू लाइट और सर्केडियन रिदम इन्फोग्राफिक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10385)**
-
-**Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
-
----
-### एलन मस्क का डॉ. ईविल के रूप में मंदारिन पाठ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक रचनात्मक वीडियो प्रॉम्प्ट जिसमें एलन मस्क को डॉ. ईविल के रूप में दिखाया गया है, जो अपने बेटे को एक मजेदार भाषा पाठ में मंदारिन चीनी भाषा सिखा रहे हैं।
-
-#### 📝 Prompt
-
-```
-दृश्य को आगे बढ़ाएं: एलन मस्क (डॉ. ईविल के रूप में काले बालों वाले चीनी लुक में) सफेद बिल्ली को सहलाते हुए अपने बेटे लिल एक्स (काले बालों वाले मिनी-मी) से मंदारिन चीनी में बात कर रहे हैं और उसे एक मजेदार भाषा का पाठ सिखा रहे हैं। एलन कहते हैं, "लिटिल मिनी, यू कम्प्लीट मी"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="एलन मस्क का डॉ. ईविल के रूप में मंदारिन पाठ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10436)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **Published:** Sep 4, 2026
-
----
-### रोमांटिक कपल स्विंगिंग वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट, जो एक जोड़े को प्यार से झूला झूलते हुए एनिमेट करता है और उनकी सटीक विशेषताओं को बनाए रखता है।
-
-#### 📝 Prompt
-
-```
-दो लोग एक झूले पर प्यार से एक साथ झूल रहे हैं, स्नेह और प्रेम प्रदर्शित कर रहे हैं, आगे-पीछे झूलते हुए एक-दूसरे को रोमांटिक तरीके से देखकर मुस्कुरा रहे हैं, उनके सटीक रूप, चेहरे, कपड़ों और विशेषताओं को अपरिवर्तित रखें
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="रोमांटिक कपल स्विंगिंग वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10434)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **Published:** Sep 4, 2026
-
----
-### भूमिगत गुफा शहर का साइंस-फिक्शन दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विशाल भूमिगत गुफा शहर के सिनेमैटिक वाइड शॉट के लिए विस्तृत साइंस-फिक्शन वीडियो प्रॉम्प्ट, जिसमें मॉड्यूलर हैबिटेट पॉड्स और नाटकीय लाइटिंग शामिल है।
-
-#### 📝 Prompt
-
-```
-एक विशाल भूमिगत गुफा शहर का सिनेमैटिक वाइड शॉट, जिसमें चट्टानी घाटी की दीवारों में बने सफेद मॉड्यूलर हैबिटेट पॉड्स, गर्म चमकती खिड़कियाँ, गुफा के तल पर बहती एक नदी, छोटे-छोटे लोगों के साथ पतले पैदल यात्री पुल, पत्थर की छत में बने गोलाकार छेद से आती नाटकीय सूर्य की किरणें, हवा में हल्की धुंध, आशावादी साइंस-फिक्शन आर्किटेक्चर, फोटो-रियल विवरण, शांत और प्रकाशमान
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="भूमिगत गुफा शहर का साइंस-फिक्शन दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10386)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **Published:** Sep 4, 2026
-
----
-### जीरो-ग्रेविटी फ्लोटिंग एस्ट्रोनॉट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> अंतरिक्ष में तैरते एक अंतरिक्ष यात्री के लिए एक विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें स्मूथ कैमरा मूवमेंट और यथार्थवादी स्टार बैकग्राउंड शामिल हैं।
-
-#### 📝 Prompt
-
-```
-अंतरिक्ष यात्री जीरो-ग्रेविटी में धीरे-धीरे तैर रहा है, धीरे-धीरे घूम रहा है और चारों ओर देख रहा है, तारे पीछे छूट रहे हैं, सूक्ष्म कैमरा मूवमेंट, स्मूथ सिनेमैटिक मोशन
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="जीरो-ग्रेविटी फ्लोटिंग एस्ट्रोनॉट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10388)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **Published:** Sep 4, 2026
-
----
-### जापानी स्ट्रीमर टॉकिंग हेड
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> यथार्थवादी चेहरे के भावों और लिप-सिंकिंग के लिए एक हाई-फिडेलिटी वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-क्लोज़-अप टॉकिंग हेड, युवा जापानी स्ट्रीमर, भाषण से मेल खाते निरंतर प्राकृतिक होंठों की हलचल, उच्च तनाव वाली उत्साहित डिलीवरी, शब्दांश दर शब्दांश स्पष्ट रूप से बदलते मुंह के आकार, पलकें झपकाना और सूक्ष्म भाव, फोटो-यथार्थवादी
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="जापानी स्ट्रीमर टॉकिंग हेड">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **Published:** Sep 4, 2026
-
----
-### इंपीरियल स्पेसशिप के आगमन का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक सिनेमैटिक प्रॉम्प्ट, जिसमें एक भीड़ को अपने ग्रह पर एक इंपीरियल स्पेसशिप के आगमन को देखते हुए दर्शाया गया है।
-
-#### 📝 Prompt
-
-```
-हर कोई अपने ग्रह पर एक इंपीरियल स्पेसशिप के आगमन को देखने के लिए इकट्ठा हो रहा है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="इंपीरियल स्पेसशिप के आगमन का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10390)**
-
-**Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2274,6 +2275,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-14T04:38:10.248Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-14T15:12:21.947Z</sub>
 
 </div>

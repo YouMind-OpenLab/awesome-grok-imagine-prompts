@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2804** |
+| 📝 Total Prompts | **2815** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-14** |
 
@@ -189,6 +189,216 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Gothic Dress Young Woman
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed visual prompt describing a young woman in elaborate gothic attire with red eyes and a bow.
+
+#### 📝 Prompt
+
+```
+A young woman with long, flowing black hair adorned with a large red bow, wearing an elaborate black and red gothic dress with puffed sleeves, lace-up corset, and ruffled skirt. She has a gentle smile, red eyes, and fair skin, standing with her hands...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099327401968746498/img/3ElApaFVwRjLiQd2.jpg" width="600" alt="Gothic Dress Young Woman">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10812)**
+
+**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099327424630513961) | **Published:** Sep 14, 2026
+
+---
+### Grok Imagine Prompt: Judgmental Cat Personality
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for Grok Imagine video generation depicting a cat that appears judgmental but is actually affectionate and uplifting.
+
+#### 📝 Prompt
+
+```
+A cat that may seem judgmental at first glance, yet harbors a deep affection for you, consistently uplifting your spirits with its whimsical and humorous encouragement.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099236716133683200/img/Z7aZPUKt4gFMf-HD.jpg" width="600" alt="Grok Imagine Prompt: Judgmental Cat Personality">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10813)**
+
+**Author:** [Jeffery Bruyere](https://x.com/Blueguyflies) | **Source:** [Link](https://x.com/Blueguyflies/status/2099236802871877981) | **Published:** Sep 13, 2026
+
+---
+### Mermaid in Underwater Coral Reef
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cinematic fantasy video of a mermaid resting among vibrant coral reefs during the golden age of piracy.
+
+#### 📝 Prompt
+
+```
+A breathtaking cinematic fantasy scene set during the golden age of piracy. Beneath the crystal clear ocean surface, a beautiful mermaid with long flowing hair and an elegant shimmering tail rests among a vibrant underwater coral reef, surrounded by...
+```
+
+<img src="https://cms-assets.youmind.com/media/1789390476490_zi9jh7_HSHyfnObEAAPniU.jpg" width="600" alt="Mermaid in Underwater Coral Reef">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10820)**
+
+**Author:** [Jorge](https://x.com/JorgeGeminiOR) | **Source:** [Link](https://x.com/JorgeGeminiOR/status/2099225530939711721) | **Published:** Sep 13, 2026
+
+---
+### Falcon 9 Launch Crowd Reaction Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt describing the emotional reaction of a crowd during a Falcon 9 rocket launch, suitable for video generation.
+
+#### 📝 Prompt
+
+```
+The Collective Euphoria during a Falcon 9 launch: as the deafening roar finally sweeps over the crowd, tension instantly transforms into pure adrenaline. People cheer wildly, scream with joy, and some cry tears of emotion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099220646266114048/img/B3hU8bDkDoWOgZGa.jpg" width="600" alt="Falcon 9 Launch Crowd Reaction Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10814)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2099220675223232866) | **Published:** Sep 13, 2026
+
+---
+### Grok Imagine Prompt: Woman Transforms into Warrior Princess
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for Grok Imagine video generation showing a young woman walking down a path who turns around and transforms into a warrior princess.
+
+#### 📝 Prompt
+
+```
+A young woman,moving down a path, turns around and becomes a warrior princess....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099197834855653377/img/07VTigKKGdxzujtB.jpg" width="600" alt="Grok Imagine Prompt: Woman Transforms into Warrior Princess">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10815)**
+
+**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099197855227334759) | **Published:** Sep 13, 2026
+
+---
+### Glass Refraction Test
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical prompt testing complex glass refraction and light caustics.
+
+#### 📝 Prompt
+
+```
+A transparent crystal glass sphere filled with swirling iridescent oil, floating inside a glass aquarium. Sunlight passes through both layers, casting intricate, colorful caustic light patterns across a dark marble countertop, macro photography, ray-traced lighting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg" width="600" alt="Glass Refraction Test">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10818)**
+
+**Author:** [Grok Builder](https://x.com/grok_builder) | **Source:** [Link](https://x.com/grok_builder/status/2099107995028201539) | **Published:** Sep 13, 2026
+
+---
+### High-Fashion Motion Blur Portrait
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A truncated prompt for a high-fashion editorial portrait with motion blur effects.
+
+#### 📝 Prompt
+
+```
+A high-fashion editorial portrait of a young woman with long hair blowing intensely in the wind. She is wearing a flowing, sheer, bright fiery orange-red garment with loose sleeves. The image is captured with an intentional strong motion blur, partic...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098923245168693249/img/cKyXwL4mhKF-cmvx.jpg" width="600" alt="High-Fashion Motion Blur Portrait">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10817)**
+
+**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2098923257428595019) | **Published:** Sep 12, 2026
+
+---
+### Grok Imagine Video Prompt: Futuristic Robot Woman at Park
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video of a futuristic robotic woman taking children to play in an open park, supervised by an adult man. The tweet also includes commentary about avoiding intermediary ads.
+
+#### 📝 Prompt
+
+```
+Recreate a futuristic robotic woman taking children to play in an open park. Supervised by an adult man.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098900315579842571/img/MjFbW2hN62cWdrcJ.jpg" width="600" alt="Grok Imagine Video Prompt: Futuristic Robot Woman at Park">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10822)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2098900366523879801) | **Published:** Sep 12, 2026
+
+---
+### Woman Walking to Tree of Life
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a mystical video of a woman walking through a sunlit forest toward a glowing ancient Tree of Life after emerging from barbed wire.
+
+#### 📝 Prompt
+
+```
+The woman stands up fully from among the barbed wire, then gracefully walks forward through the sunlit forest toward a majestic ancient Tree of Life. The Tree of Life is a huge mystical glowing tree with intricate glowing roots and branches, golden l...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098898023116087296/img/uYV8dK2Lbog8JyNN.jpg" width="600" alt="Woman Walking to Tree of Life">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10816)**
+
+**Author:** [Barbara 💕🕊️🌎](https://x.com/BarbaraCbroker1) | **Source:** [Link](https://x.com/BarbaraCbroker1/status/2098898374229680514) | **Published:** Sep 12, 2026
+
+---
+### Futuristic City Ship Sci-Fi Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a 10-second cinematic sci-fi sequence featuring a colossal flying city-ship, engines, and deep space travel.
+
+#### 📝 Prompt
+
+```
+10-second vertical cinematic sci-fi sequence: begin with a colossal futuristic flying city-ship above the clouds at sunrise, transition through close-ups of glowing propulsion engines, autonomous traffic and towering skyscrapers, then reveal a human silhouette overlooking the city before the massive vessel accelerates from Earth toward deep space. Finish with the ship flying among stars and planets, using dramatic camera movement, photorealistic details, volumetric lighting, realistic reflections, powerful engine glow, deep cinematic sound design, and the final text:
+“THE FUTURE IS REAL — NEXT LEVEL SCI-FI.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="Futuristic City Ship Sci-Fi Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10819)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098745738398494723) | **Published:** Sep 12, 2026
+
+---
+### Two Optimus Robots Walking in Park
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine featuring two Optimus Prime robots walking together in a beautiful park setting.
+
+#### 📝 Prompt
+
+```
+Two Optimus, one beautiful park, and a conversation beyond the future. Walking together today… shaping tomorrow.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098709643119984641/img/34m6mk7nCDDO2AqR.jpg" width="600" alt="Two Optimus Robots Walking in Park">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10821)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2098710365307830738) | **Published:** Sep 12, 2026
+
+---
 ### I Am Legend Optimus Prime Trailer
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1955,215 +2165,6 @@ Cinematic full-body shot of a confident woman with dark curly hair in a dramatic
 **Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
 
 ---
-### Playful Kitten in Snow
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt for a kitten playing in the snow, featuring pouncing, rolling, and continuous motion.
-
-#### 📝 Prompt
-
-```
-The adorable orange tabby kitten playfully pounces on the snowball, then rolls and tumbles joyfully in the soft powdery snow, batting at falling snowflakes with its paws, snow flying up around it, continuous playful movements, natural cute kitten behavior
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096189423612502016/img/kmkqEhHq_tKoDfJM.jpg" width="600" alt="Playful Kitten in Snow">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10435)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096189455761915967) | **Published:** Sep 5, 2026
-
----
-### Christmas Kitten in Snow
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A festive video prompt for a kitten playing in the snow with Christmas trees and decorations in the background.
-
-#### 📝 Prompt
-
-```
-Kitten playing in snow with Christmas decorations and a Christmas tree in the background, heavy snowfall falling all around
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096179471527403520/img/zWZM-e8a_wnuWzSm.jpg" width="600" alt="Christmas Kitten in Snow">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10433)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2096179494814105781) | **Published:** Sep 5, 2026
-
----
-### Steampunk City Castle Flyover
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic movement prompt showing a castle wall perspective looking down onto a steampunk city at night.
-
-#### 📝 Prompt
-
-```
-Moving along the castle walls while looking down at the steampunk-style city at night.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096109430022791168/img/8my2JB6LqsIynvmf.jpg" width="600" alt="Steampunk City Castle Flyover">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10384)**
-
-**Author:** [norakuro@Dermatomyositis](https://x.com/norakurobike1) | **Source:** [Link](https://x.com/norakurobike1/status/2096109459420627203) | **Published:** Sep 5, 2026
-
----
-### Cinematic Knighting Ceremony Scene
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A cinematic action-movie style video prompt featuring a heroine's knighting ceremony in a grand royal palace with dramatic lighting and vibrant colors.
-
-#### 📝 Prompt
-
-```
-Action movie style scene, a beautiful female heroine meets the queen in the throne room of the royal castle, a knightly knighting ceremony is taking place, a solemn and dramatic atmosphere, luxurious royal interior, vivid and noble colors.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096091133923450880/img/qlKX5NplHnkbEK2G.jpg" width="600" alt="Cinematic Knighting Ceremony Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10392)**
-
-**Author:** [Apple](https://x.com/Apple0816799221) | **Source:** [Link](https://x.com/Apple0816799221/status/2096091158103675201) | **Published:** Sep 5, 2026
-
----
-### Blue Light Circadian Rhythm Infographic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt for creating an infographic that explains how blue light rays affect melatonin production and disrupt sleep cycles.
-
-#### 📝 Prompt
-
-```
-Infographic on how blue light rays prevent the production of melatonin and disrupt the circadian rhythm
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096064200057724929/img/fIEfBLYwO0rd6KX-.jpg" width="600" alt="Blue Light Circadian Rhythm Infographic">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10385)**
-
-**Author:** [Callum Conway](https://x.com/wordsbycallum) | **Source:** [Link](https://x.com/wordsbycallum/status/2096064218629857637) | **Published:** Sep 5, 2026
-
----
-### Elon Musk as Dr. Evil Mandarin Lesson
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt featuring Elon Musk styled as Dr. Evil, speaking Mandarin Chinese to his son in a humorous language lesson.
-
-#### 📝 Prompt
-
-```
-Continue the scene: Elon Musk (Chinese-looking with black hair as Dr. Evil) strokes the white cat and speaks in Mandarin Chinese to his son Lil X (Mini-Me with black hair), teaching him a fun language lesson. Elon says "Little Mini, you complete me"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095993256240922624/img/puGzL2VLwQk4d9OI.jpg" width="600" alt="Elon Musk as Dr. Evil Mandarin Lesson">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10436)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2095993407638557102) | **Published:** Sep 4, 2026
-
----
-### Romantic Couple Swinging Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine to animate a couple swinging affectionately while maintaining their exact features.
-
-#### 📝 Prompt
-
-```
-The two people swinging together lovingly on a swing, showing affection and love, smiling at each other romantically while swinging back and forth, keep their exact appearances, faces, clothing and features unchanged
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095990143715074048/img/kbB92ka_fLzZtOix.jpg" width="600" alt="Romantic Couple Swinging Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10434)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2095990200207904797) | **Published:** Sep 4, 2026
-
----
-### Underground Cave City Sci-Fi Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed sci-fi video prompt for a cinematic wide shot of a vast underground cave city featuring modular habitat pods and dramatic lighting.
-
-#### 📝 Prompt
-
-```
-Cinematic wide shot of a vast underground cave city with white modular habitat pods built into rocky canyon walls, warm glowing windows, a river walking the cave floor, thin pedestrian bridges with tiny figures crossing, dramatic sunbeams pouring from a circular opening in the stone ceiling, soft mist in the air, hopeful sci-fi architecture, photoreal detail, quiet and luminous
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095796120920510464/img/ITICRH_Sx2hZd9L-.jpg" width="600" alt="Underground Cave City Sci-Fi Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10386)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2095942470551085451) | **Published:** Sep 4, 2026
-
----
-### Zero-Gravity Floating Astronaut
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic video prompt for an astronaut floating in space with smooth camera movements and realistic star backgrounds.
-
-#### 📝 Prompt
-
-```
-The astronaut floats gently in zero gravity, slowly rotating and looking around, stars drifting past, subtle camera movement, smooth cinematic motion
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095909220503654401/img/hsDfmA96W5nO1B85.jpg" width="600" alt="Zero-Gravity Floating Astronaut">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10388)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2095909309150265363) | **Published:** Sep 4, 2026
-
----
-### Japanese Streamer Talking Head
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A photorealistic video prompt of a young Japanese streamer with continuous natural lip movements, high energy delivery, and expressive micro-expressions.
-
-#### 📝 Prompt
-
-```
-Close-up talking head, young Japanese streamer, continuous natural lip movements matching speech, high tension excited delivery, mouth shapes changing clearly syllable by syllable, blinking and micro expressions, photorealistic
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095868981404135424/img/vMCgSkV-VXeV0IRR.jpg" width="600" alt="Japanese Streamer Talking Head">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10389)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2095869011255009523) | **Published:** Sep 4, 2026
-
----
-### Imperial Spaceship Arrival Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A grand sci-fi video portraying a crowd gathered to watch an imperial ship arrive at a planet.
-
-#### 📝 Prompt
-
-```
-Everybody is gathering to watch the arrival of an imperial spaceship to their planet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095840557440618496/img/oSgfWL5GnuUmsJ3j.jpg" width="600" alt="Imperial Spaceship Arrival Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10390)**
-
-**Author:** [ojiji](https://x.com/ojiji2025) | **Source:** [Link](https://x.com/ojiji2025/status/2095840673530576995) | **Published:** Sep 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2225,6 +2226,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-14T04:38:02.868Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-14T15:12:13.423Z</sub>
 
 </div>
