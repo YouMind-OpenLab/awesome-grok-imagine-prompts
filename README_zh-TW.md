@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2815** |
+| 📝 提示詞總數 | **2821** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-15** |
 
@@ -189,6 +189,121 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 復古未來主義動漫剪影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的影片提示詞，呈現一個在懸崖與太空背景下擺出動態姿勢的剪影人物，風格為復古未來主義動漫。
+
+#### 📝 提示詞
+
+```
+在懸崖與星空背景下擺出動態姿勢的剪影人物，採用復古未來主義動漫風格。
+堅持不懈，永不放棄！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099754085402525696/img/urpa5-llForPE8BF.jpg" width="600" alt="復古未來主義動漫剪影">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10896)**
+
+**作者:** [Marie](https://x.com/Marie8508319540) | **來源:** [Link](https://x.com/Marie8508319540/status/2099754137541808172) | **發布時間:** Sep 15, 2026
+
+---
+### K-Pop 舞台表演場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個複雜的角色與場景生成提示，描繪兩位中年男子身穿俗氣 K-Pop 西裝，在舞台上與粉絲合影。
+
+#### 📝 提示詞
+
+```
+兩位中年男子（約 50 歲出頭，一位極瘦且禿頭，另一位是啤酒肚身材並留著一頭金髮）。身穿 K-Pop 風格服裝（俗氣的華麗西裝），上方有字母：OSNTA，營造出我們正在舞台上擺姿勢拍照的效果，台下觀眾席坐滿了粉絲……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099686040017522688/img/lxZuPtCSnurBrWyN.jpg" width="600" alt="K-Pop 舞台表演場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10897)**
+
+**作者:** [Paul Cannon](https://x.com/ExoticShrubs) | **來源:** [Link](https://x.com/ExoticShrubs/status/2099686059764301918) | **發布時間:** Sep 15, 2026
+
+---
+### REO S4C 模型模擬提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 利用輪廓圖建立 REO S4C 車輛模型的提示詞，並進行 360 度旋轉以推測車尾設計。
+
+#### 📝 提示詞
+
+```
+請使用這些輪廓圖製作 REO S4C 的模型，並旋轉 360 度以推測車輛後部的外觀
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099678227392282624/img/FCluYRXr2Lz3LO7S.jpg" width="600" alt="REO S4C 模型模擬提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10895)**
+
+**作者:** [Raymond Love](https://x.com/LoveRaym67) | **來源:** [Link](https://x.com/LoveRaym67/status/2099678254902747254) | **發布時間:** Sep 15, 2026
+
+---
+### 骨牌效應影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成展示連環骨牌效應影片的提示詞。
+
+#### 📝 提示詞
+
+```
+多米諾骨牌排成一列長長的單行，推倒其中一張後引發連環倒塌的骨牌效應，一張接一張倒下
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099638454631993345/img/Pb_7NipDBN46oPPX.jpg" width="600" alt="骨牌效應影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10898)**
+
+**作者:** [Han Vu](https://x.com/HanVu195089) | **來源:** [Link](https://x.com/HanVu195089/status/2099638467852439632) | **發布時間:** Sep 14, 2026
+
+---
+### 女子與巨龍的森林場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段描述性影片提示，呈現身穿綠色禮服的女子在森林中行走，並伴有巨龍的景象。
+
+#### 📝 提示詞
+
+```
+女子身穿綠色禮服背對鏡頭走遠，禮服背部呈 V 字形剪裁，展現她背部上方三分之二的美麗曲線。當她沿著森林小徑前行時，一隻與森林環境完美偽裝融合的巨龍，在她經過時灑下金色的塵埃。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099481378844995584/img/NgCsxC2iUWKO2JWq.jpg" width="600" alt="女子與巨龍的森林場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10899)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2099481444552950135) | **發布時間:** Sep 14, 2026
+
+---
+### 戰士音效影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 製作音效的工作流程說明，包含特定的範例提示詞。
+
+#### 📝 提示詞
+
+```
+一名戰士用他的闊劍敲擊板甲三次，無背景噪音，無環境音……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099437083886792704/img/B1O0nica71UJy-Lb.jpg" width="600" alt="戰士音效影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10900)**
+
+**作者:** [Graalito](https://x.com/Graalitoo) | **來源:** [Link](https://x.com/Graalitoo/status/2099437178527027523) | **發布時間:** Sep 14, 2026
+
+---
 ### 哥德風洋裝年輕女性
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2100,120 +2215,6 @@ Alice @Reference3 和 Dani @Reference2 正在流理台上切菜，並開始準�
 **作者:** [Binh Nguyen](https://x.com/binhbb2) | **來源:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **發布時間:** Sep 6, 2026
 
 ---
-### 飛機殘骸電影感海灘場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿情緒且細節豐富的電影感廣角鏡頭，描述一個人坐在暴風雨海灘上的軍用飛機殘骸旁。
-
-#### 📝 提示詞
-
-```
-電影感廣角鏡頭，一名身穿深色外套的人坐在岩石密布的黑色海灘上，飛機殘骸機翼處，背景為暴風雨般的灰色雲層，海浪拍打著殘骸，水流從機身流出，照片級真實感，情緒化氛圍，超細節，Grok Imagine。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="飛機殘骸電影感海灘場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10432)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **發布時間:** Sep 6, 2026
-
----
-### 第一人稱巨龍飛行電影感畫面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為流暢影片運動控制所設計的進階製作提示詞，詳細描述了在黃金時刻，第一人稱視角下飛越玄武岩海崖的巨龍飛行場景。
-
-#### 📝 提示詞
-
-```
-從巨大黑龍的鞍座上進行第一人稱電影感飛行。巨龍低空掠過高聳的玄武岩海崖，隨後平穩地向左轉向遠處的海蝕柱。攝影機固定在騎手後方，展現沉重且符合物理規律的振翅動作、強烈的海洋視差效果、穩定的解剖結構與鞍座設計，金色的陽光穿透雲層，營造出真實的風感與振翅氛圍，全程一鏡到底，無剪輯或突兀的變形。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096297756637978624/img/NTvU-EyY_TJqir8j.jpg" width="600" alt="第一人稱巨龍飛行電影感畫面">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10485)**
-
-**作者:** [Prizevera](https://x.com/Prizevera) | **來源:** [Link](https://x.com/Prizevera/status/2096443876399812740) | **發布時間:** Sep 6, 2026
-
----
-### 星際迷宮漫步
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個夢幻般的提示詞，描繪了一位年輕女子穿梭於超現實的星雲迷宮與銀河系之中。
-
-#### 📝 提示詞
-
-```
-一位年輕女子穿梭於一系列迷宮中，場景唯美、超現實且夢幻，每一處都是由星雲與銀河交織而成的星際景觀，層層堆疊，引人入勝。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="星際迷宮漫步">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10430)**
-
-**作者:** [Jillian Spiridon](https://x.com/jillianspiridon) | **來源:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **發布時間:** Sep 6, 2026
-
----
-### Grok Imagine 影片穩定性提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一套用於 Grok Imagine 影片生成的動態與視覺一致性規則，重點在於鏡頭鎖定與臉部穩定性。
-
-#### 📝 提示詞
-
-```
-鏡頭鎖定 / 保持相同的臉部、髮型、背心、背景 / 無臉部變形 / 僅限五根手指 / 手部可觸碰臉頰或下巴，但絕不可遮住眼睛 / 靜音
-```
-
-<img src="https://cms-assets.youmind.com/media/1788769635383_47t3mf_HRfWBCoaEAAbkhN.jpg" width="600" alt="Grok Imagine 影片穩定性提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10493)**
-
-**作者:** [ナオミチ](https://x.com/comback_nao6) | **來源:** [Link](https://x.com/comback_nao6/status/2096379490310176901) | **發布時間:** Sep 5, 2026
-
----
-### 影片換臉與元素保留
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一項針對 Grok Imagine 的複雜指令，旨在於兩張參考圖像之間進行換臉，同時保持構圖、盔甲與環境不變。
-
-#### 📝 提示詞
-
-```
-將第一張圖片中穿著盔甲的女性臉部，替換為第二張圖片中男性的臉部。請保留相同的姿勢、身體、盔甲、髮型與隨風飄動的動態、披風、光影、黃金時刻的天空、獅鷲，並確保整體構圖完整。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096345975854080000/img/2yvjTBR9I44fYvrv.jpg" width="600" alt="影片換臉與元素保留">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10484)**
-
-**作者:** [FanRuskiBate 🔨](https://x.com/that_russian49) | **來源:** [Link](https://x.com/that_russian49/status/2096346104845533375) | **發布時間:** Sep 5, 2026
-
----
-### 霓虹天台羽毛禮服
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段精緻的電影感影片提示詞，描述一位身穿粉色羽毛禮服的女性在雨中霓虹燈閃爍的陽台上。
-
-#### 📝 提示詞
-
-```
-電影感全身鏡頭，一位自信的深色捲髮女性，身穿戲劇性的深粉色羽毛晚禮服，站在夜晚濕潤的霓虹天台陽台上，回眸凝視，玻璃上映照著雨水，背景是閃耀的粉色與青色城市天際線，動漫插畫風格，超高細節
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="霓虹天台羽毛禮服">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10431)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **發布時間:** Sep 5, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2275,6 +2276,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-15T04:39:24.746Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-15T13:38:25.401Z</sub>
 
 </div>

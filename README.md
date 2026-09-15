@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2815** |
+| 📝 Total Prompts | **2821** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-15** |
 
@@ -189,6 +189,121 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Retro Futurism Anime Silhouette
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for Grok Imagine featuring a silhouetted figure in a dynamic pose against cliffs and space, styled like retro futurism anime.
+
+#### 📝 Prompt
+
+```
+A silhouetted figure in dynamic pose against cliffs and starry space in retro futurism anime style.
+Keep reaching never give up!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099754085402525696/img/urpa5-llForPE8BF.jpg" width="600" alt="Retro Futurism Anime Silhouette">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10896)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2099754137541808172) | **Published:** Sep 15, 2026
+
+---
+### K-Pop Stage Performance Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex character and scene generation prompt featuring two middle-aged men in tacky K-Pop suits posing on stage with fans.
+
+#### 📝 Prompt
+
+```
+Two middle aged men (early 50’s, one ultra skinny and bald the other dad bod with head of blonde hair). Dressed up in K-Pop clothing (tacky fancy suits) above them the letters: OSNTA make it look like we are posing on stage lots a fans in audience....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099686040017522688/img/lxZuPtCSnurBrWyN.jpg" width="600" alt="K-Pop Stage Performance Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10897)**
+
+**Author:** [Paul Cannon](https://x.com/ExoticShrubs) | **Source:** [Link](https://x.com/ExoticShrubs/status/2099686059764301918) | **Published:** Sep 15, 2026
+
+---
+### REO S4C Mockup Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to create a mockup of the REO S4C vehicle using silhouettes and rotating it 360 degrees.
+
+#### 📝 Prompt
+
+```
+Make a mock up of the REO S4C using these silhouettes and rotate 360 for a guess of the rear of the vehicle
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099678227392282624/img/FCluYRXr2Lz3LO7S.jpg" width="600" alt="REO S4C Mockup Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10895)**
+
+**Author:** [Raymond Love](https://x.com/LoveRaym67) | **Source:** [Link](https://x.com/LoveRaym67/status/2099678254902747254) | **Published:** Sep 15, 2026
+
+---
+### Domino Effect Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video showing a cascading domino effect.
+
+#### 📝 Prompt
+
+```
+Dominos lined up and in a long single file line , one pushed over leading to a cascading domino effect falling one after another
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099638454631993345/img/Pb_7NipDBN46oPPX.jpg" width="600" alt="Domino Effect Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10898)**
+
+**Author:** [Han Vu](https://x.com/HanVu195089) | **Source:** [Link](https://x.com/HanVu195089/status/2099638467852439632) | **Published:** Sep 14, 2026
+
+---
+### Woman Dragon Forest Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive video prompt featuring a woman in a green gown walking through a forest with a dragon.
+
+#### 📝 Prompt
+
+```
+Woman walks away green gown color of a forest back of gown is v shaped showing off the upper 2/3 of her back as she walks the forest path a dragon camouflaged to blend in with the forest sprinkles golden dust over woman as she passes the dragon
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099481378844995584/img/NgCsxC2iUWKO2JWq.jpg" width="600" alt="Woman Dragon Forest Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10899)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2099481444552950135) | **Published:** Sep 14, 2026
+
+---
+### Warrior Sound Effect Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A workflow description using Grok Imagine for sound effects, containing a specific example prompt.
+
+#### 📝 Prompt
+
+```
+A warrior striking 3 times with his Claymore on plate armor, no background noise, no ambiance…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099437083886792704/img/B1O0nica71UJy-Lb.jpg" width="600" alt="Warrior Sound Effect Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10900)**
+
+**Author:** [Graalito](https://x.com/Graalitoo) | **Source:** [Link](https://x.com/Graalitoo/status/2099437178527027523) | **Published:** Sep 14, 2026
+
+---
 ### Gothic Dress Young Woman
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -360,20 +475,20 @@ The woman stands up fully from among the barbed wire, then gracefully walks forw
 **Author:** [Barbara 💕🕊️🌎](https://x.com/BarbaraCbroker1) | **Source:** [Link](https://x.com/BarbaraCbroker1/status/2098898374229680514) | **Published:** Sep 12, 2026
 
 ---
-### Futuristic City Ship Sci-Fi Prompt
+### Sci-Fi City Ship Cinematic Sequence Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a 10-second cinematic sci-fi sequence featuring a colossal flying city-ship, engines, and deep space travel.
+> A detailed prompt for generating a 10-second vertical cinematic sci-fi sequence featuring a flying city-ship, engines, and space travel with specific lighting and sound design instructions.
 
 #### 📝 Prompt
 
 ```
-10-second vertical cinematic sci-fi sequence: begin with a colossal futuristic flying city-ship above the clouds at sunrise, transition through close-ups of glowing propulsion engines, autonomous traffic and towering skyscrapers, then reveal a human silhouette overlooking the city before the massive vessel accelerates from Earth toward deep space. Finish with the ship flying among stars and planets, using dramatic camera movement, photorealistic details, volumetric lighting, realistic reflections, powerful engine glow, deep cinematic sound design, and the final text:
+10-second vertical cinematic sci-fi sequence: begin with a colossal futuristic flying city-ship above the clouds at sunrise, transition through close-ups of glowing propulsion engines, autonomous traffic and towering skyscrapers, then reveal a human silhouette overlooking the city before the massive vessel accelerates from Earth toward deep space. Finish with the ship flying among stars and planets, using dramatic camera movement, photorealistic details, volumetric lighting, realistic reflections, powerful engine glow, deep cinematic sound design, and the final text: 
 “THE FUTURE IS REAL — NEXT LEVEL SCI-FI.”
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="Futuristic City Ship Sci-Fi Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="Sci-Fi City Ship Cinematic Sequence Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10819)**
 
@@ -716,11 +831,11 @@ generate me sitting up facing away from the camera then I stand up and turn arou
 **Author:** [𝑹𝒂𝒄𝒉𝒆𝒍 𝑹𝒂𝒎𝒔𝒆𝒚](https://x.com/RSOXART) | **Source:** [Link](https://x.com/RSOXART/status/2097888970994495736) | **Published:** Sep 10, 2026
 
 ---
-### Girl Watching Cosmic Planet Rise
+### Cosmic Scale Lonely Girl Roof
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a lone girl on a rural rooftop watching a colossal glowing planet rise, featuring blue-orange contrast and dreamy lighting.
+> An image generation prompt depicting a girl on a rooftop watching a colossal planet rise, contrasting warm house lights with cool cosmic blues.
 
 #### 📝 Prompt
 
@@ -728,7 +843,7 @@ generate me sitting up facing away from the camera then I stand up and turn arou
 A lone girl sitting on the roof of a small countryside house at night, hugging her knees while watching a colossal glowing planet rise over the horizon. The house is tiny compared to the giant celestial body dominating the sky. Warm yellow light glows softly from the window below her, while the surrounding world is bathed in cool blue moonlight. Fireflies hover in the grass, and distant hills fade into darkness. Dreamy, intimate, surreal cosmic scale, strong blue-orange contrast, lonely but beautiful, cinematic composition, gentle emotional storytelling.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797344687448064/img/SZngyC9XYY8D9vMn.jpg" width="600" alt="Girl Watching Cosmic Planet Rise">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097797344687448064/img/SZngyC9XYY8D9vMn.jpg" width="600" alt="Cosmic Scale Lonely Girl Roof">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10678)**
 
@@ -945,11 +1060,11 @@ The visuals present a clean, futuristic automotive style with sharp refle...
 **Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097621591815287266) | **Published:** Sep 9, 2026
 
 ---
-### Martial Arts Dojo Sparring Video Prompt
+### Martial Arts Sparring in Dojo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video prompt for Grok Imagine describing a sparring session between two blonde martial artists in a Japanese dojo.
+> A video generation prompt for a fast-paced martial arts scene featuring two characters sparring in a traditional Japanese dojo with natural lighting and dynamic camera work.
 
 #### 📝 Prompt
 
@@ -960,7 +1075,7 @@ Characters: A woman with long blonde hair and a man with curly blonde hair. Both
  Cinematography: Fast-paced camera work, quick cuts, and motion blur during fast movements. Natural lighting highlights the scene.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097596579775651840/img/ZIvdND7fCCnwhZrG.jpg" width="600" alt="Martial Arts Dojo Sparring Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097596579775651840/img/ZIvdND7fCCnwhZrG.jpg" width="600" alt="Martial Arts Sparring in Dojo">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10685)**
 
@@ -2051,120 +2166,6 @@ Make a short video about two crystals animas dancing and singing together in the
 **Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
 
 ---
-### Crashed Plane Cinematic Beach Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A moody and detailed cinematic wide shot of a person sitting on the wreckage of a military plane on a stormy beach.
-
-#### 📝 Prompt
-
-```
-Cinematic wide shot of a person in a dark coat sitting on the wing of a crashed military transport plane on a rocky black beach, stormy grey clouds, waves crashing against the wreckage, water pouring from the fuselage, photoreal, moody atmosphere, ultra detailed, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="Crashed Plane Cinematic Beach Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10432)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
-
----
-### First person dragon cinematic flight
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An advanced production prompt engineered for smooth video motion control, detailing a first-person dragon flight over basalt sea cliffs during golden hour.
-
-#### 📝 Prompt
-
-```
-First-person cinematic flight from a saddle on a massive black dragon. The dragon flies low beside towering basalt sea cliffs, then banks smoothly left toward a distant sea stack. Camera fixed just behind the rider, heavy physically consistent wingbeats, strong ocean parallax, stable anatomy and saddle design, golden sunlight through clouds, realistic wind and wing ambience, one continuous shot, no cuts or sudden morphing.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096297756637978624/img/NTvU-EyY_TJqir8j.jpg" width="600" alt="First person dragon cinematic flight">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10485)**
-
-**Author:** [Prizevera](https://x.com/Prizevera) | **Source:** [Link](https://x.com/Prizevera/status/2096443876399812740) | **Published:** Sep 6, 2026
-
----
-### Surreal Galaxy Labyrinth Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dreamy animation prompt describing a woman walking through celestial labyrinths made of nebulas and galaxies.
-
-#### 📝 Prompt
-
-```
-A young woman walks through a series of labyrinths, beautiful and surreal and dreamy, each one a starry landscape of nebulas and galaxies building on each other
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="Surreal Galaxy Labyrinth Walk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
-
-**Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
-
----
-### Grok Imagine Video Stability Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A set of motion and visual consistency rules for Grok Imagine video generation, focusing on camera locking and facial stability.
-
-#### 📝 Prompt
-
-```
-camera locked / same face, hair, tank, backdrop / no face morph / five fingers only / hands may touch cheek or chin, never cover eyes / silent
-```
-
-<img src="https://cms-assets.youmind.com/media/1788769635383_47t3mf_HRfWBCoaEAAbkhN.jpg" width="600" alt="Grok Imagine Video Stability Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10493)**
-
-**Author:** [ナオミチ](https://x.com/comback_nao6) | **Source:** [Link](https://x.com/comback_nao6/status/2096379490310176901) | **Published:** Sep 5, 2026
-
----
-### Video Face Swap and Element Preservation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex instruction for Grok Imagine to swap faces between two reference images while maintaining composition, armor, and environment.
-
-#### 📝 Prompt
-
-```
-Replace the face of the armored woman in the first image with the exact face of the man from the second image. Keep the same pose, body, armor, hair style and windblown motion, cape, lighting, golden-hour sky, griffon, and overall composition complete
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096345975854080000/img/2yvjTBR9I44fYvrv.jpg" width="600" alt="Video Face Swap and Element Preservation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10484)**
-
-**Author:** [FanRuskiBate 🔨](https://x.com/that_russian49) | **Source:** [Link](https://x.com/that_russian49/status/2096346104845533375) | **Published:** Sep 5, 2026
-
----
-### Neon Rooftop Feather Gown
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An elaborate cinematic video prompt of a woman in a pink feathered gown on a neon-lit balcony during rain.
-
-#### 📝 Prompt
-
-```
-Cinematic full-body shot of a confident woman with dark curly hair in a dramatic deep pink feathered evening gown standing on a wet neon rooftop balcony at night, looking back over her shoulder, rain reflections on glass, glowing pink and cyan city skyline, anime illustration style, ultra detailed
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="Neon Rooftop Feather Gown">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10431)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2226,6 +2227,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T04:39:23.091Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T13:38:23.641Z</sub>
 
 </div>

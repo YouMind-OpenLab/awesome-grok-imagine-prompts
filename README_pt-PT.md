@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2815** |
+| 📝 Total Prompts | **2821** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-15** |
 
@@ -189,6 +189,121 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Silhueta de Anime Retrofuturista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo para o Grok Imagine apresentando uma figura em silhueta em pose dinâmica contra penhascos e o espaço, no estilo anime retrofuturista.
+
+#### 📝 Prompt
+
+```
+Uma figura em silhueta em pose dinâmica contra penhascos e um espaço estrelado, no estilo anime retrofuturista.
+Continue buscando, nunca desista!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099754085402525696/img/urpa5-llForPE8BF.jpg" width="600" alt="Silhueta de Anime Retrofuturista">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10896)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2099754137541808172) | **Published:** Sep 15, 2026
+
+---
+### Cena de Performance no Palco K-Pop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt complexo de geração de personagens e cenas, apresentando dois homens de meia-idade em ternos berrantes de K-Pop posando no palco com fãs.
+
+#### 📝 Prompt
+
+```
+Dois homens de meia-idade (início dos 50 anos; um extremamente magro e calvo, o outro com corpo de pai e cabelo loiro). Vestidos com roupas de K-Pop (ternos chamativos e berrantes), acima deles as letras: OSNTA. Faça parecer que estamos posando no palco, com muitos fãs na plateia....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099686040017522688/img/lxZuPtCSnurBrWyN.jpg" width="600" alt="Cena de Performance no Palco K-Pop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10897)**
+
+**Author:** [Paul Cannon](https://x.com/ExoticShrubs) | **Source:** [Link](https://x.com/ExoticShrubs/status/2099686059764301918) | **Published:** Sep 15, 2026
+
+---
+### Prompt de Mockup do REO S4C
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para criar um mockup do veículo REO S4C usando silhuetas e girando-o em 360 graus.
+
+#### 📝 Prompt
+
+```
+Crie um mockup do REO S4C usando estas silhuetas e gire 360 graus para visualizar a traseira do veículo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099678227392282624/img/FCluYRXr2Lz3LO7S.jpg" width="600" alt="Prompt de Mockup do REO S4C">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10895)**
+
+**Author:** [Raymond Love](https://x.com/LoveRaym67) | **Source:** [Link](https://x.com/LoveRaym67/status/2099678254902747254) | **Published:** Sep 15, 2026
+
+---
+### Prompt de Vídeo: Efeito Dominó
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo mostrando um efeito dominó em cascata.
+
+#### 📝 Prompt
+
+```
+Dominós alinhados em uma longa fila única, um deles é derrubado, iniciando um efeito dominó em cascata onde cada peça cai sucessivamente na seguinte.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099638454631993345/img/Pb_7NipDBN46oPPX.jpg" width="600" alt="Prompt de Vídeo: Efeito Dominó">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10898)**
+
+**Author:** [Han Vu](https://x.com/HanVu195089) | **Source:** [Link](https://x.com/HanVu195089/status/2099638467852439632) | **Published:** Sep 14, 2026
+
+---
+### Cena da Mulher, Dragão e Floresta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo descritivo apresentando uma mulher em um vestido verde caminhando por uma floresta com um dragão.
+
+#### 📝 Prompt
+
+```
+A mulher se afasta usando um vestido verde na cor da floresta. As costas do vestido têm formato em V, expondo os dois terços superiores de suas costas enquanto ela caminha pelo caminho na floresta. Um dragão, camuflado para se misturar à floresta, espalha pó dourado sobre a mulher quando ela passa por ele.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099481378844995584/img/NgCsxC2iUWKO2JWq.jpg" width="600" alt="Cena da Mulher, Dragão e Floresta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10899)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2099481444552950135) | **Published:** Sep 14, 2026
+
+---
+### Vídeo de Efeito Sonoro de Guerreiro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma descrição de fluxo de trabalho usando o Grok Imagine para efeitos sonoros, contendo um prompt de exemplo específico.
+
+#### 📝 Prompt
+
+```
+Um guerreiro golpeando três vezes sua Claymore contra uma armadura de placas, sem ruído de fundo, sem ambiente…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099437083886792704/img/B1O0nica71UJy-Lb.jpg" width="600" alt="Vídeo de Efeito Sonoro de Guerreiro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10900)**
+
+**Author:** [Graalito](https://x.com/Graalitoo) | **Source:** [Link](https://x.com/Graalitoo/status/2099437178527027523) | **Published:** Sep 14, 2026
+
+---
 ### Jovem Vestida de Estilo Gótico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2100,120 +2215,6 @@ Crie um vídeo curto sobre dois animais de cristal dançando e cantando juntos e
 **Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
 
 ---
-### Cena cinematográfica de avião acidentado na praia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um plano cinematográfico amplo, detalhado e atmosférico de uma pessoa sentada nos destroços de um avião militar em uma praia durante uma tempestade.
-
-#### 📝 Prompt
-
-```
-Plano cinematográfico amplo de uma pessoa de casaco escuro sentada na asa de um avião de transporte militar acidentado em uma praia rochosa de areia preta, nuvens cinzentas de tempestade, ondas quebrando contra os destroços, água escorrendo da fuselagem, fotorrealista, atmosfera melancólica, ultra detalhado, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="Cena cinematográfica de avião acidentado na praia">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10432)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
-
----
-### Voo cinematográfico de dragão em primeira pessoa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de produção avançado projetado para controle de movimento de vídeo fluido, detalhando um voo de dragão em primeira pessoa sobre falésias de basalto durante a hora dourada.
-
-#### 📝 Prompt
-
-```
-Voo cinematográfico em primeira pessoa a partir da sela de um enorme dragão negro. O dragão voa baixo ao lado de imponentes falésias de basalto e, em seguida, inclina-se suavemente para a esquerda em direção a um rochedo distante no mar. Câmera fixada logo atrás do cavaleiro, batidas de asas pesadas e fisicamente consistentes, forte paralaxe do oceano, anatomia e design de sela estáveis, luz solar dourada através das nuvens, vento realista e ambiência de asas, uma tomada contínua, sem cortes ou transformações repentinas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096297756637978624/img/NTvU-EyY_TJqir8j.jpg" width="600" alt="Voo cinematográfico de dragão em primeira pessoa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10485)**
-
-**Author:** [Prizevera](https://x.com/Prizevera) | **Source:** [Link](https://x.com/Prizevera/status/2096443876399812740) | **Published:** Sep 6, 2026
-
----
-### Caminhada pelo Labirinto Celestial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt onírico de uma jovem caminhando por labirintos nebulares surreais e galáxias.
-
-#### 📝 Prompt
-
-```
-Uma jovem caminha por uma série de labirintos, belos, surreais e oníricos, cada um sendo uma paisagem estelar de nebulosas e galáxias que se sobrepõem.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="Caminhada pelo Labirinto Celestial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
-
-**Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
-
----
-### Prompt de Estabilidade de Vídeo para o Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um conjunto de regras de movimento e consistência visual para a geração de vídeo no Grok Imagine, com foco no travamento da câmera e estabilidade facial.
-
-#### 📝 Prompt
-
-```
-câmera travada / mesmo rosto, cabelo, regata, cenário / sem distorção facial / apenas cinco dedos / mãos podem tocar na bochecha ou no queixo, nunca cobrir os olhos / silencioso
-```
-
-<img src="https://cms-assets.youmind.com/media/1788769635383_47t3mf_HRfWBCoaEAAbkhN.jpg" width="600" alt="Prompt de Estabilidade de Vídeo para o Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10493)**
-
-**Author:** [ナオミチ](https://x.com/comback_nao6) | **Source:** [Link](https://x.com/comback_nao6/status/2096379490310176901) | **Published:** Sep 5, 2026
-
----
-### Troca de rosto em vídeo e preservação de elementos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma instrução complexa para o Grok Imagine trocar rostos entre duas imagens de referência, mantendo a composição, a armadura e o ambiente.
-
-#### 📝 Prompt
-
-```
-Substitua o rosto da mulher de armadura na primeira imagem pelo rosto exato do homem da segunda imagem. Mantenha a mesma pose, corpo, armadura, estilo de cabelo e movimento ao vento, capa, iluminação, céu de hora dourada, grifo e toda a composição intactos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096345975854080000/img/2yvjTBR9I44fYvrv.jpg" width="600" alt="Troca de rosto em vídeo e preservação de elementos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10484)**
-
-**Author:** [FanRuskiBate 🔨](https://x.com/that_russian49) | **Source:** [Link](https://x.com/that_russian49/status/2096346104845533375) | **Published:** Sep 5, 2026
-
----
-### Vestido de Plumas Neon em Terraço
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico elaborado de uma mulher em um vestido de plumas rosa em uma varanda iluminada por neon durante a chuva.
-
-#### 📝 Prompt
-
-```
-Plano cinematográfico de corpo inteiro de uma mulher confiante com cabelos cacheados escuros, usando um dramático vestido de noite de plumas rosa profundo, em pé em uma varanda de terraço molhada com luzes neon à noite, olhando por cima do ombro, reflexos da chuva no vidro, horizonte da cidade brilhando em rosa e ciano, estilo de ilustração de anime, ultra detalhado
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="Vestido de Plumas Neon em Terraço">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10431)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2275,6 +2276,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T04:39:35.718Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T13:38:34.230Z</sub>
 
 </div>

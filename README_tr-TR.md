@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2815** |
+| 📝 Total Prompts | **2821** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-15** |
 
@@ -189,6 +189,121 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Retro Fütürizm Anime Silüeti
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, kayalıklar ve uzay karşısında dinamik bir pozda siluet halinde bir figürü içeren, retro fütürizm anime tarzında video istemi.
+
+#### 📝 Prompt
+
+```
+Kayalıklar ve yıldızlarla dolu uzay karşısında retro fütürizm anime tarzında dinamik bir pozda siluet halinde bir figür.
+Ulaşmaya devam et, asla vazgeçme!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099754085402525696/img/urpa5-llForPE8BF.jpg" width="600" alt="Retro Fütürizm Anime Silüeti">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10896)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2099754137541808172) | **Published:** Sep 15, 2026
+
+---
+### K-Pop Sahne Performansı Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İki orta yaşlı adamın, hayranlarla birlikte sahnede poz verdiği, ucuz K-Pop kostümleri giydiği karmaşık bir karakter ve sahne oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+İki orta yaşlı adam (50'li yaşların başında, biri aşırı zayıf ve kel, diğeri baba göbeği olan sarı saçlı). Üzerlerinde ucuz ama gösterişli K-Pop takım elbiseleri var. Başlarının üzerinde OSNTA yazısı bulunuyor. Sahnede poz veriyormuşuz gibi görünsün, izleyicide çok sayıda hayran olsun....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099686040017522688/img/lxZuPtCSnurBrWyN.jpg" width="600" alt="K-Pop Sahne Performansı Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10897)**
+
+**Author:** [Paul Cannon](https://x.com/ExoticShrubs) | **Source:** [Link](https://x.com/ExoticShrubs/status/2099686059764301918) | **Published:** Sep 15, 2026
+
+---
+### REO S4C Maket Görsel İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> REO S4C aracının silüetler kullanılarak oluşturulması ve 360 derece döndürülmesi için bir istem.
+
+#### 📝 Prompt
+
+```
+Bu silüetleri kullanarak REO S4C'nin bir maketini oluşturun ve aracın arka kısmını tahmin etmek için 360 derece döndürün.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099678227392282624/img/FCluYRXr2Lz3LO7S.jpg" width="600" alt="REO S4C Maket Görsel İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10895)**
+
+**Author:** [Raymond Love](https://x.com/LoveRaym67) | **Source:** [Link](https://x.com/LoveRaym67/status/2099678254902747254) | **Published:** Sep 15, 2026
+
+---
+### Domino Etkisi Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ardışık domino etkisini gösteren bir video oluşturmak için kullanılan istem.
+
+#### 📝 Prompt
+
+```
+Tek sıra halinde dizilmiş domino taşları, biri devrilince diğerlerinin de art arda düşmesine neden olan bir domino zincirleme reaksiyonu başlatıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099638454631993345/img/Pb_7NipDBN46oPPX.jpg" width="600" alt="Domino Etkisi Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10898)**
+
+**Author:** [Han Vu](https://x.com/HanVu195089) | **Source:** [Link](https://x.com/HanVu195089/status/2099638467852439632) | **Published:** Sep 14, 2026
+
+---
+### Kadın Ejderha Orman Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yeşil elbiseli bir kadının ormanda ejderhayla birlikte yürüdüğü betimleyici bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kadın, sırtının üst üçte ikisini açıkta bırakan V şeklinde kesilmiş yeşil elbisesiyle orman yolunda uzaklaşarak yürürken, ormanın dokusuna kamufle olmuş bir ejderha yanından geçtikçe üzerine altın tozu serpeler.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099481378844995584/img/NgCsxC2iUWKO2JWq.jpg" width="600" alt="Kadın Ejderha Orman Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10899)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2099481444552950135) | **Published:** Sep 14, 2026
+
+---
+### Savaşçı Ses Efekti Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine kullanarak ses efektleri oluşturmak için bir iş akışı açıklaması ve özel bir örnek istem.
+
+#### 📝 Prompt
+
+```
+Bir savaşçının levha zırhına Claymore kılıcıyla 3 kez vurması, arka plan gürültüsü yok, ambiyans yok…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099437083886792704/img/B1O0nica71UJy-Lb.jpg" width="600" alt="Savaşçı Ses Efekti Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10900)**
+
+**Author:** [Graalito](https://x.com/Graalitoo) | **Source:** [Link](https://x.com/Graalitoo/status/2099437178527027523) | **Published:** Sep 14, 2026
+
+---
 ### Gotik Elbiseli Genç Kadın
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2100,120 +2215,6 @@ Neşeli ve heyecan verici bir ruh hali içinde birlikte dans edip şarkı söyle
 **Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
 
 ---
-### Düşmüş Uçak Sinematik Sahil Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fırtınalı bir sahilde askeri bir uçağın enkazında oturan bir kişinin yer aldığı, karamsar ve detaylı sinematik geniş açı çekimi.
-
-#### 📝 Prompt
-
-```
-Kayalık siyah bir sahilde düşmüş askeri nakliye uçağının kanadında oturan, koyu renkli palto giymiş bir kişinin sinematik geniş açı çekimi; fırtınalı gri bulutlar, enkaza çarpan dalgalar, gövdeden akan sular, fotogerçekçi, karamsar atmosfer, ultra detaylı, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="Düşmüş Uçak Sinematik Sahil Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10432)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
-
----
-### Birinci şahıs ejderha sinematik uçuşu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Altın saatlerde bazalt deniz kayalıkları üzerinde birinci şahıs ejderha uçuşunu detaylandıran, akıcı video hareket kontrolü için tasarlanmış gelişmiş bir prodüksiyon istemi.
-
-#### 📝 Prompt
-
-```
-Devasa bir kara ejderhanın sırtından birinci şahıs sinematik uçuş. Ejderha, yükselen bazalt deniz kayalıklarının hemen yanından alçaktan uçar ve ardından uzak bir deniz kayalığına doğru yumuşak bir şekilde sola yatar. Kamera binicinin hemen arkasına sabitlenmiş, fiziksel olarak tutarlı ağır kanat çırpışları, güçlü okyanus paralaksı, stabil anatomi ve eyer tasarımı, bulutların arasından süzülen altın rengi güneş ışığı, gerçekçi rüzgar ve kanat ambiyansı, tek bir kesintisiz çekim, kesinti veya ani biçim bozulması yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096297756637978624/img/NTvU-EyY_TJqir8j.jpg" width="600" alt="Birinci şahıs ejderha sinematik uçuşu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10485)**
-
-**Author:** [Prizevera](https://x.com/Prizevera) | **Source:** [Link](https://x.com/Prizevera/status/2096443876399812740) | **Published:** Sep 6, 2026
-
----
-### Göksel Labirent Yürüyüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genç bir kadının gerçeküstü bulutsu labirentleri ve galaksileri arasında yürüdüğü rüya gibi bir istem.
-
-#### 📝 Prompt
-
-```
-Genç bir kadın, her biri bir öncekinin üzerine inşa edilen bulutsular ve galaksilerden oluşan yıldızlı manzaralarla dolu, güzel, gerçeküstü ve rüya gibi bir dizi labirentin içinde yürüyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="Göksel Labirent Yürüyüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
-
-**Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
-
----
-### Grok Imagine Video Kararlılık İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine video oluşturma süreci için kamera sabitleme ve yüz kararlılığına odaklanan bir dizi hareket ve görsel tutarlılık kuralı.
-
-#### 📝 Prompt
-
-```
-kamera sabit / aynı yüz, saç, atlet, arka plan / yüz bozulması yok / sadece beş parmak / eller yanağa veya çeneye dokunabilir, asla gözleri kapatmamalı / sessiz
-```
-
-<img src="https://cms-assets.youmind.com/media/1788769635383_47t3mf_HRfWBCoaEAAbkhN.jpg" width="600" alt="Grok Imagine Video Kararlılık İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10493)**
-
-**Author:** [ナオミチ](https://x.com/comback_nao6) | **Source:** [Link](https://x.com/comback_nao6/status/2096379490310176901) | **Published:** Sep 5, 2026
-
----
-### Video Yüz Değiştirme ve Öğe Koruma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için kompozisyonu, zırhı ve ortamı korurken iki referans görsel arasında yüz değiştirmeye yönelik karmaşık bir talimat.
-
-#### 📝 Prompt
-
-```
-İlk görseldeki zırhlı kadının yüzünü, ikinci görseldeki adamın yüzüyle birebir değiştirin. Aynı pozu, vücudu, zırhı, saç stilini, rüzgarda savrulma hareketini, pelerini, ışıklandırmayı, gün batımı gökyüzünü, grifonu ve genel kompozisyonu tamamen koruyun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096345975854080000/img/2yvjTBR9I44fYvrv.jpg" width="600" alt="Video Yüz Değiştirme ve Öğe Koruma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10484)**
-
-**Author:** [FanRuskiBate 🔨](https://x.com/that_russian49) | **Source:** [Link](https://x.com/that_russian49/status/2096346104845533375) | **Published:** Sep 5, 2026
-
----
-### Neon Çatı Katı Tüylü Elbise
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yağmurlu bir gecede, neon ışıklı bir balkonda pembe tüylü bir elbise giyen kadını konu alan detaylı bir sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Gece vakti ıslak neon bir çatı balkonunda duran, koyu kıvırcık saçlı, kendinden emin bir kadının dramatik koyu pembe tüylü bir gece elbisesi içindeki sinematik tam boy çekimi, omzunun üzerinden geriye bakıyor, cam üzerindeki yağmur yansımaları, parlayan pembe ve camgöbeği şehir silüeti, anime illüstrasyon tarzı, ultra detaylı
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="Neon Çatı Katı Tüylü Elbise">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10431)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2275,6 +2276,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T04:39:36.682Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T13:38:34.821Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2815** |
+| 📝 Total Prompts | **2821** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-15** |
 
@@ -189,6 +189,121 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Bóng tối Anime Phong cách Tương lai Cổ điển
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc video cho Grok Imagine, mô tả một bóng người trong tư thế động lực trước vách đá và không gian vũ trụ, được thiết kế theo phong cách anime tương lai cổ điển.
+
+#### 📝 Prompt
+
+```
+Một bóng người trong tư thế động lực trước vách đá và bầu trời đầy sao theo phong cách anime tương lai cổ điển.
+Hãy cứ vươn tới, đừng bao giờ bỏ cuộc!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099754085402525696/img/urpa5-llForPE8BF.jpg" width="600" alt="Bóng tối Anime Phong cách Tương lai Cổ điển">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10896)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2099754137541808172) | **Published:** Sep 15, 2026
+
+---
+### Cảnh biểu diễn sân khấu K-Pop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo nhân vật và cảnh phức tạp, mô tả hai người đàn ông trung niên mặc bộ vest K-Pop sặc sỡ đang tạo dáng trên sân khấu cùng với khán giả.
+
+#### 📝 Prompt
+
+```
+Hai người đàn ông trung niên (đầu những năm 50 tuổi, một người cực kỳ gầy và hói đầu, người kia có thân hình bố bỉm sữa với mái tóc vàng). Họ diện trang phục phong cách K-Pop (những bộ vest sang trọng nhưng hơi kệch cỡm), phía trên họ là dòng chữ: OSNTA. Hãy làm cho bức ảnh trông như thể chúng tôi đang tạo dáng trên sân khấu với rất nhiều fan ở dưới khán đài....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099686040017522688/img/lxZuPtCSnurBrWyN.jpg" width="600" alt="Cảnh biểu diễn sân khấu K-Pop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10897)**
+
+**Author:** [Paul Cannon](https://x.com/ExoticShrubs) | **Source:** [Link](https://x.com/ExoticShrubs/status/2099686059764301918) | **Published:** Sep 15, 2026
+
+---
+### REO S4C Mockup Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to create a mockup of the REO S4C vehicle using silhouettes and rotating it 360 degrees.
+
+#### 📝 Prompt
+
+```
+Make a mock up of the REO S4C using these silhouettes and rotate 360 for a guess of the rear of the vehicle
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099678227392282624/img/FCluYRXr2Lz3LO7S.jpg" width="600" alt="REO S4C Mockup Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10895)**
+
+**Author:** [Raymond Love](https://x.com/LoveRaym67) | **Source:** [Link](https://x.com/LoveRaym67/status/2099678254902747254) | **Published:** Sep 15, 2026
+
+---
+### Nhắc video hiệu ứng domino
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh để tạo ra một đoạn video thể hiện hiệu ứng domino lan truyền.
+
+#### 📝 Prompt
+
+```
+Các quân domino được xếp thẳng hàng thành một hàng dài, một quân bị đẩy ngã dẫn đến hiệu ứng domino lan truyền khiến các quân khác lần lượt đổ xuống.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099638454631993345/img/Pb_7NipDBN46oPPX.jpg" width="600" alt="Nhắc video hiệu ứng domino">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10898)**
+
+**Author:** [Han Vu](https://x.com/HanVu195089) | **Source:** [Link](https://x.com/HanVu195089/status/2099638467852439632) | **Published:** Sep 14, 2026
+
+---
+### Cảnh Rừng Rồng và Người Phụ Nữ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết cho video về một người phụ nữ trong chiếc váy xanh lục đi qua khu rừng cùng với một con rồng.
+
+#### 📝 Prompt
+
+```
+Người phụ nữ bước đi trong chiếc váy màu xanh lục, hòa hợp với sắc xanh của khu rừng. Phần lưng váy được thiết kế hình chữ V, khoe trọn hai phần ba vùng lưng trên khi cô dạo bước trên lối mòn trong rừng. Một con rồng ngụy trang tinh tế để ẩn mình giữa thiên nhiên, rắc những hạt bụi vàng lấp lánh lên người phụ nữ khi cô đi ngang qua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099481378844995584/img/NgCsxC2iUWKO2JWq.jpg" width="600" alt="Cảnh Rừng Rồng và Người Phụ Nữ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10899)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2099481444552950135) | **Published:** Sep 14, 2026
+
+---
+### Video Hiệu ứng Âm thanh Chiến binh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả quy trình làm việc sử dụng Grok Imagine cho hiệu ứng âm thanh, bao gồm một câu lệnh ví dụ cụ thể.
+
+#### 📝 Prompt
+
+```
+Một chiến binh đánh ba lần bằng thanh kiếm Claymore vào áo giáp tấm, không có tiếng ồn nền, không có âm thanh môi trường…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099437083886792704/img/B1O0nica71UJy-Lb.jpg" width="600" alt="Video Hiệu ứng Âm thanh Chiến binh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10900)**
+
+**Author:** [Graalito](https://x.com/Graalitoo) | **Source:** [Link](https://x.com/Graalitoo/status/2099437178527027523) | **Published:** Sep 14, 2026
+
+---
 ### Cô gái trẻ mặc váy Gothic
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2100,120 +2215,6 @@ Hãy tạo một video ngắn về hai linh vật pha lê đang cùng nhau nhả
 **Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
 
 ---
-### Cảnh quay điện ảnh máy bay rơi trên bãi biển
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một góc quay rộng mang phong cách điện ảnh, đầy tâm trạng và chi tiết về một người đang ngồi trên xác máy bay quân sự tại một bãi biển đầy giông bão.
-
-#### 📝 Prompt
-
-```
-Góc quay rộng điện ảnh về một người mặc áo khoác tối màu đang ngồi trên cánh của một chiếc máy bay vận tải quân sự bị rơi trên bãi biển đá đen, những đám mây xám xịt đầy giông bão, sóng vỗ vào xác máy bay, nước chảy tràn từ thân máy bay, chân thực, bầu không khí đầy tâm trạng, siêu chi tiết, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="Cảnh quay điện ảnh máy bay rơi trên bãi biển">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10432)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
-
----
-### Cảnh quay điện ảnh góc nhìn thứ nhất khi cưỡi rồng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh sản xuất nâng cao được thiết kế để kiểm soát chuyển động video mượt mà, mô tả chi tiết chuyến bay của rồng ở góc nhìn thứ nhất phía trên các vách đá bazan ven biển vào giờ vàng.
-
-#### 📝 Prompt
-
-```
-Cảnh quay điện ảnh góc nhìn thứ nhất từ trên yên lưng một con rồng đen khổng lồ. Con rồng bay thấp dọc theo những vách đá bazan cao chót vót, sau đó nghiêng mình mượt mà sang trái về phía một cột đá giữa biển xa xa. Camera cố định ngay sau lưng người cưỡi, những nhịp vỗ cánh mạnh mẽ với tính vật lý nhất quán, hiệu ứng thị sai đại dương rõ nét, giải phẫu và thiết kế yên cưỡi ổn định, ánh nắng vàng xuyên qua những đám mây, hiệu ứng gió và tiếng vỗ cánh chân thực, một cảnh quay liên tục, không cắt ghép hoặc biến dạng đột ngột.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096297756637978624/img/NTvU-EyY_TJqir8j.jpg" width="600" alt="Cảnh quay điện ảnh góc nhìn thứ nhất khi cưỡi rồng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10485)**
-
-**Author:** [Prizevera](https://x.com/Prizevera) | **Source:** [Link](https://x.com/Prizevera/status/2096443876399812740) | **Published:** Sep 6, 2026
-
----
-### Dạo bước trong Mê cung Thiên hà
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh đầy mơ mộng về một cô gái trẻ đang bước đi giữa những mê cung tinh vân và thiên hà siêu thực.
-
-#### 📝 Prompt
-
-```
-Một cô gái trẻ bước đi qua hàng loạt mê cung, đẹp đẽ, siêu thực và đầy mộng ảo, mỗi mê cung là một khung cảnh đầy sao với các tinh vân và thiên hà nối tiếp nhau
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="Dạo bước trong Mê cung Thiên hà">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
-
-**Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
-
----
-### Grok Imagine Video Stability Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một bộ quy tắc về chuyển động và tính nhất quán hình ảnh cho việc tạo video bằng Grok Imagine, tập trung vào việc khóa camera và ổn định khuôn mặt.
-
-#### 📝 Prompt
-
-```
-camera cố định / giữ nguyên khuôn mặt, kiểu tóc, áo tank top, phông nền / không biến dạng khuôn mặt / chỉ có năm ngón tay / tay có thể chạm vào má hoặc cằm, không bao giờ che mắt / im lặng
-```
-
-<img src="https://cms-assets.youmind.com/media/1788769635383_47t3mf_HRfWBCoaEAAbkhN.jpg" width="600" alt="Grok Imagine Video Stability Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10493)**
-
-**Author:** [ナオミチ](https://x.com/comback_nao6) | **Source:** [Link](https://x.com/comback_nao6/status/2096379490310176901) | **Published:** Sep 5, 2026
-
----
-### Hoán đổi khuôn mặt trong video và bảo toàn các yếu tố
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một hướng dẫn phức tạp dành cho Grok Imagine để hoán đổi khuôn mặt giữa hai hình ảnh tham chiếu trong khi vẫn duy trì bố cục, bộ giáp và môi trường.
-
-#### 📝 Prompt
-
-```
-Hãy thay thế khuôn mặt của người phụ nữ mặc giáp trong hình ảnh đầu tiên bằng chính xác khuôn mặt của người đàn ông từ hình ảnh thứ hai. Giữ nguyên tư thế, cơ thể, bộ giáp, kiểu tóc và chuyển động trong gió, áo choàng, ánh sáng, bầu trời giờ vàng, con điểu sư và toàn bộ bố cục.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096345975854080000/img/2yvjTBR9I44fYvrv.jpg" width="600" alt="Hoán đổi khuôn mặt trong video và bảo toàn các yếu tố">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10484)**
-
-**Author:** [FanRuskiBate 🔨](https://x.com/that_russian49) | **Source:** [Link](https://x.com/that_russian49/status/2096346104845533375) | **Published:** Sep 5, 2026
-
----
-### Váy dạ hội lông vũ trên sân thượng neon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video điện ảnh công phu về một người phụ nữ mặc váy lông vũ màu hồng trên ban công rực rỡ ánh đèn neon dưới trời mưa.
-
-#### 📝 Prompt
-
-```
-Cảnh quay toàn thân đậm chất điện ảnh về một người phụ nữ tự tin với mái tóc xoăn sẫm màu, diện chiếc váy dạ hội lông vũ màu hồng đậm đầy ấn tượng, đang đứng trên ban công sân thượng đầy ánh đèn neon ẩm ướt vào ban đêm, ngoái nhìn lại qua vai, hình ảnh phản chiếu của mưa trên mặt kính, đường chân trời thành phố rực rỡ sắc hồng và xanh lơ, phong cách minh họa anime, chi tiết cực cao
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="Váy dạ hội lông vũ trên sân thượng neon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10431)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2275,6 +2276,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T04:39:28.404Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T13:38:28.003Z</sub>
 
 </div>

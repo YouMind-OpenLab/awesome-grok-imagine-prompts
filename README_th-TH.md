@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2815** |
+| 📝 Total Prompts | **2821** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-15** |
 
@@ -189,6 +189,121 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### เงาอนิเมะสไตล์เรโทรฟิวเจอริสม์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสำหรับ Grok Imagine ที่แสดงภาพเงาของบุคคลในท่าทางเคลื่อนไหวตัดกับหน้าผาและอวกาศ ในสไตล์อนิเมะเรโทรฟิวเจอริสม์
+
+#### 📝 Prompt
+
+```
+ภาพเงาของบุคคลในท่าทางเคลื่อนไหวตัดกับหน้าผาและอวกาศที่เต็มไปด้วยดวงดาว ในสไตล์อนิเมะเรโทรฟิวเจอริสม์
+จงก้าวต่อไป อย่าหยุดยั้ง!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099754085402525696/img/urpa5-llForPE8BF.jpg" width="600" alt="เงาอนิเมะสไตล์เรโทรฟิวเจอริสม์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10896)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2099754137541808172) | **Published:** Sep 15, 2026
+
+---
+### ฉากการแสดงบนเวที K-Pop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างตัวละครและฉากที่ซับซ้อน แสดงชายวัยกลางคนสองคนในชุดสูทสไตล์ K-Pop ที่ดูฉูดฉาด กำลังโพสท่าบนเวทีพร้อมแฟนคลับ
+
+#### 📝 Prompt
+
+```
+ชายวัยกลางคนสองคน (อายุต้นๆ 50 ปี คนหนึ่งผอมมากและศีรษะล้าน อีกคนมีหุ่นพ่อเลี้ยงผมสีบลอนด์) แต่งกายด้วยเสื้อผ้าสไตล์ K-Pop (ชุดสูทหรูหราแต่ดูฉูดฉาด) ด้านบนของพวกเขามีตัวอักษร: OSNTA ทำให้ดูเหมือนว่าเรากำลังโพสท่าอยู่บนเวที มีแฟนคลับจำนวนมากอยู่ในผู้ชม....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099686040017522688/img/lxZuPtCSnurBrWyN.jpg" width="600" alt="ฉากการแสดงบนเวที K-Pop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10897)**
+
+**Author:** [Paul Cannon](https://x.com/ExoticShrubs) | **Source:** [Link](https://x.com/ExoticShrubs/status/2099686059764301918) | **Published:** Sep 15, 2026
+
+---
+### REO S4C Mockup Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งสำหรับสร้างภาพจำลองของรถ REO S4C โดยใช้รูปทรงเงาและหมุนรอบตัว 360 องศา
+
+#### 📝 Prompt
+
+```
+สร้างภาพจำลองของ REO S4C โดยใช้รูปทรงเงาเหล่านี้ และหมุนรอบตัว 360 องศา เพื่อให้เห็นภาพด้านหลังของรถโดยประมาณ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099678227392282624/img/FCluYRXr2Lz3LO7S.jpg" width="600" alt="REO S4C Mockup Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10895)**
+
+**Author:** [Raymond Love](https://x.com/LoveRaym67) | **Source:** [Link](https://x.com/LoveRaym67/status/2099678254902747254) | **Published:** Sep 15, 2026
+
+---
+### คำสั่งสร้างวิดีโอเอฟเฟกต์โดมิโน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งสำหรับสร้างวิดีโอที่แสดงเอฟเฟกต์โดมิโนแบบต่อเนื่อง
+
+#### 📝 Prompt
+
+```
+โดมิโนเรียงต่อกันเป็นแถวเดียวแนวยาว เมื่อตัวหนึ่งล้มลงจะเกิดเอฟเฟกต์โดมิโนต่อเนื่องล้มตามกันเป็นลูกโซ่
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099638454631993345/img/Pb_7NipDBN46oPPX.jpg" width="600" alt="คำสั่งสร้างวิดีโอเอฟเฟกต์โดมิโน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10898)**
+
+**Author:** [Han Vu](https://x.com/HanVu195089) | **Source:** [Link](https://x.com/HanVu195089/status/2099638467852439632) | **Published:** Sep 14, 2026
+
+---
+### ฉากหญิงสาวกับมังกรในป่า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงพรรณนาที่แสดงภาพหญิงสาวในชุดเดรสสีเขียวเดินผ่านป่าพร้อมมังกร
+
+#### 📝 Prompt
+
+```
+หญิงสาวเดินจากไปโดยสวมชุดเดรสสีเขียวเข้ากับโทนสีของป่า ด้านหลังของชุดเป็นรูปตัว V เผยให้เห็นแผ่นหลังสองในสามของเธอขณะเดินไปตามทางในป่า มังกรที่พรางตัวกลมกลืนไปกับสภาพแวดล้อมของป่าโปรยฝุ่นทองคำลงบนตัวหญิงสาวเมื่อเธอเดินผ่าน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099481378844995584/img/NgCsxC2iUWKO2JWq.jpg" width="600" alt="ฉากหญิงสาวกับมังกรในป่า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10899)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2099481444552950135) | **Published:** Sep 14, 2026
+
+---
+### วิดีโอเอฟเฟกต์เสียงนักรบ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำอธิบายเวิร์กโฟลว์การใช้ Grok Imagine สำหรับสร้างเอฟเฟกต์เสียง พร้อมตัวอย่างพรอมต์เฉพาะ
+
+#### 📝 Prompt
+
+```
+นักรบใช้ดาบ Claymore ฟาดเกราะแผ่นเหล็ก 3 ครั้ง ไม่มีเสียงพื้นหลัง ไม่มีบรรยากาศรอบข้าง…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099437083886792704/img/B1O0nica71UJy-Lb.jpg" width="600" alt="วิดีโอเอฟเฟกต์เสียงนักรบ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10900)**
+
+**Author:** [Graalito](https://x.com/Graalitoo) | **Source:** [Link](https://x.com/Graalitoo/status/2099437178527027523) | **Published:** Sep 14, 2026
+
+---
 ### สาวน้อยชุดเดรสโกธิค
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2100,120 +2215,6 @@ Alice @Reference3 และ Dani @Reference2 กำลังหั่นผั�
 **Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
 
 ---
-### ฉากภาพยนตร์เครื่องบินตกบนชายหาด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ภาพมุมกว้างแบบภาพยนตร์ที่ให้บรรยากาศหม่นและรายละเอียดสูง ของบุคคลที่นั่งอยู่บนซากเครื่องบินทหารบนชายหาดท่ามกลางพายุ
-
-#### 📝 Prompt
-
-```
-ภาพมุมกว้างแบบภาพยนตร์ของบุคคลในเสื้อโค้ทสีเข้มที่นั่งอยู่บนปีกของเครื่องบินขนส่งทหารที่ตกอยู่บนชายหาดหินสีดำ ท้องฟ้าเต็มไปด้วยเมฆพายุสีเทา คลื่นซัดเข้าหาซากเครื่องบิน น้ำไหลออกจากลำตัวเครื่องบิน สมจริง บรรยากาศหม่น รายละเอียดสูง Grok Imagine
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="ฉากภาพยนตร์เครื่องบินตกบนชายหาด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10432)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
-
----
-### การบินของมังกรในมุมมองบุคคลที่หนึ่งแบบภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการผลิตขั้นสูงที่ออกแบบมาเพื่อการควบคุมการเคลื่อนไหวของวิดีโอที่ราบรื่น โดยให้รายละเอียดเกี่ยวกับการบินของมังกรในมุมมองบุคคลที่หนึ่งเหนือหน้าผาริมทะเลหินบะซอลต์ในช่วงเวลาโกลเด้นอาวร์
-
-#### 📝 Prompt
-
-```
-การบินแบบภาพยนตร์ในมุมมองบุคคลที่หนึ่งจากบนอานของมังกรสีดำขนาดมหึมา มังกรบินต่ำเลียบหน้าผาริมทะเลหินบะซอลต์ที่สูงตระหง่าน จากนั้นเลี้ยวซ้ายอย่างนุ่มนวลไปยังโขดหินกลางทะเลที่อยู่ไกลออกไป กล้องถูกตรึงไว้ด้านหลังผู้ขี่ การกระพือปีกที่หนักแน่นและสอดคล้องตามหลักฟิสิกส์ พารัลแลกซ์ของมหาสมุทรที่ชัดเจน กายวิภาคและการออกแบบอานที่มั่นคง แสงแดดสีทองส่องผ่านก้อนเมฆ บรรยากาศของลมและปีกที่สมจริง ถ่ายทำต่อเนื่องช็อตเดียว ไม่มีการตัดต่อหรือการเปลี่ยนรูปร่างที่กะทันหัน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096297756637978624/img/NTvU-EyY_TJqir8j.jpg" width="600" alt="การบินของมังกรในมุมมองบุคคลที่หนึ่งแบบภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10485)**
-
-**Author:** [Prizevera](https://x.com/Prizevera) | **Source:** [Link](https://x.com/Prizevera/status/2096443876399812740) | **Published:** Sep 6, 2026
-
----
-### การเดินในเขาวงกตแห่งสรวงสวรรค์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวฝันหวานของหญิงสาวที่กำลังเดินผ่านเขาวงกตเนบิวลาและกาแล็กซีที่ดูเหนือจริง
-
-#### 📝 Prompt
-
-```
-หญิงสาวคนหนึ่งกำลังเดินผ่านเขาวงกตหลายแห่งที่สวยงาม เหนือจริง และดูราวกับความฝัน โดยแต่ละแห่งเป็นภูมิทัศน์ที่เต็มไปด้วยดวงดาว เนบิวลา และกาแล็กซีที่เชื่อมต่อกันอย่างต่อเนื่อง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="การเดินในเขาวงกตแห่งสรวงสวรรค์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
-
-**Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
-
----
-### Grok Imagine Video Stability Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ชุดกฎสำหรับการควบคุมการเคลื่อนไหวและความต่อเนื่องทางภาพสำหรับการสร้างวิดีโอด้วย Grok Imagine โดยเน้นที่การล็อกมุมกล้องและความเสถียรของใบหน้า
-
-#### 📝 Prompt
-
-```
-ล็อกมุมกล้อง / ใบหน้า ทรงผม เสื้อกล้าม และฉากหลังเหมือนเดิม / ใบหน้าไม่บิดเบี้ยว / มีห้านิ้วเท่านั้น / มืออาจสัมผัสแก้มหรือคางได้ แต่ห้ามบังตา / เงียบ
-```
-
-<img src="https://cms-assets.youmind.com/media/1788769635383_47t3mf_HRfWBCoaEAAbkhN.jpg" width="600" alt="Grok Imagine Video Stability Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10493)**
-
-**Author:** [ナオミチ](https://x.com/comback_nao6) | **Source:** [Link](https://x.com/comback_nao6/status/2096379490310176901) | **Published:** Sep 5, 2026
-
----
-### การสลับใบหน้าในวิดีโอและการคงองค์ประกอบเดิมไว้
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งที่ซับซ้อนสำหรับ Grok Imagine เพื่อสลับใบหน้าระหว่างภาพอ้างอิงสองภาพ โดยยังคงองค์ประกอบ ชุดเกราะ และสภาพแวดล้อมเดิมไว้
-
-#### 📝 Prompt
-
-```
-แทนที่ใบหน้าของผู้หญิงสวมชุดเกราะในภาพแรกด้วยใบหน้าของผู้ชายจากภาพที่สองโดยตรง โดยต้องคงท่าทาง ร่างกาย ชุดเกราะ ทรงผมและการเคลื่อนไหวที่พริ้วไหวตามลม ผ้าคลุม แสงสว่าง ท้องฟ้าช่วงโกลเด้นอาวร์ กริฟฟอน และองค์ประกอบโดยรวมทั้งหมดไว้ให้ครบถ้วน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096345975854080000/img/2yvjTBR9I44fYvrv.jpg" width="600" alt="การสลับใบหน้าในวิดีโอและการคงองค์ประกอบเดิมไว้">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10484)**
-
-**Author:** [FanRuskiBate 🔨](https://x.com/that_russian49) | **Source:** [Link](https://x.com/that_russian49/status/2096346104845533375) | **Published:** Sep 5, 2026
-
----
-### ชุดราตรีขนนกนีออนบนดาดฟ้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์สุดอลังการของหญิงสาวในชุดราตรีขนนกสีชมพูบนระเบียงที่ประดับด้วยไฟนีออนท่ามกลางสายฝน
-
-#### 📝 Prompt
-
-```
-ภาพยนตร์ช็อตเต็มตัวของหญิงสาวผู้มั่นใจที่มีผมหยิกสีเข้ม สวมชุดราตรีขนนกสีชมพูเข้มสุดอลังการ ยืนอยู่บนระเบียงดาดฟ้าที่มีไฟนีออนท่ามกลางสายฝนในยามค่ำคืน หันกลับมามองข้ามไหล่ มีเงาสะท้อนของฝนบนกระจก ฉากหลังเป็นเส้นขอบฟ้าของเมืองที่ส่องแสงสีชมพูและสีฟ้า สไตล์ภาพประกอบอนิเมะ รายละเอียดคมชัดสูง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="ชุดราตรีขนนกนีออนบนดาดฟ้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10431)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2275,6 +2276,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T04:39:27.170Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T13:38:27.321Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2815** |
+| 📝 Total Prompts | **2821** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-15** |
 
@@ -189,6 +189,121 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Retro-Futurismus Anime Silhouette
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt für Grok Imagine mit einer silhouettenhaften Figur in dynamischer Pose vor Klippen und dem Weltraum, im Stil von Retro-Futurismus-Anime.
+
+#### 📝 Prompt
+
+```
+Eine Silhouette einer Figur in dynamischer Pose vor Klippen und einem sternenübersäten Weltraum im Retro-Futurismus-Anime-Stil.
+Weitermachen, niemals aufgeben!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099754085402525696/img/urpa5-llForPE8BF.jpg" width="600" alt="Retro-Futurismus Anime Silhouette">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10896)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2099754137541808172) | **Published:** Sep 15, 2026
+
+---
+### K-Pop Bühnenauftritt-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer Prompt zur Charakter- und Szenengenerierung, der zwei mittelalte Männer in kitschigen K-Pop-Anzügen zeigt, die auf einer Bühne mit Fans posieren.
+
+#### 📝 Prompt
+
+```
+Zwei mittelalte Männer (Anfang 50, einer extrem dünn und glatzköpfig, der andere mit Dad-Bod-Figur und blondem Haar). Gekleidet in K-Pop-Outfits (kitschige, schicke Anzüge), über ihnen die Buchstaben: OSNTA. Die Szene soll so wirken, als würden wir auf einer Bühne vor vielen Fans im Publikum posieren....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099686040017522688/img/lxZuPtCSnurBrWyN.jpg" width="600" alt="K-Pop Bühnenauftritt-Szene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10897)**
+
+**Author:** [Paul Cannon](https://x.com/ExoticShrubs) | **Source:** [Link](https://x.com/ExoticShrubs/status/2099686059764301918) | **Published:** Sep 15, 2026
+
+---
+### REO S4C Mockup-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines Mockups des REO S4C-Fahrzeugs unter Verwendung von Silhouetten und einer 360-Grad-Drehung.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Mockup des REO S4C anhand dieser Silhouetten und drehe es um 360 Grad, um einen Eindruck vom Heck des Fahrzeugs zu erhalten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099678227392282624/img/FCluYRXr2Lz3LO7S.jpg" width="600" alt="REO S4C Mockup-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10895)**
+
+**Author:** [Raymond Love](https://x.com/LoveRaym67) | **Source:** [Link](https://x.com/LoveRaym67/status/2099678254902747254) | **Published:** Sep 15, 2026
+
+---
+### Domino-Effekt-Video-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines Videos, das einen kaskadierenden Domino-Effekt zeigt.
+
+#### 📝 Prompt
+
+```
+Dominosteine sind aufgestellt und in einer langen Einzelreihe angeordnet. Einer wird angestoßen, was zu einem kaskadierenden Domino-Effekt führt, bei dem die Steine nacheinander umfallen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099638454631993345/img/Pb_7NipDBN46oPPX.jpg" width="600" alt="Domino-Effekt-Video-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10898)**
+
+**Author:** [Han Vu](https://x.com/HanVu195089) | **Source:** [Link](https://x.com/HanVu195089/status/2099638467852439632) | **Published:** Sep 14, 2026
+
+---
+### Frau, Drache und Waldszene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein beschreibender Video-Prompt mit einer Frau in einem grünen Kleid, die durch einen Wald geht, in dem sich ein Drache befindet.
+
+#### 📝 Prompt
+
+```
+Eine Frau geht im Rückenansicht weg. Sie trägt ein grünes Kleid, dessen Farbe an den Wald angepasst ist. Der Rücken des Kleides ist V-förmig geschnitten und zeigt die oberen zwei Drittel ihres Rückens, während sie den Waldpfad entlanggeht. Ein Drache, der so getarnt ist, dass er sich in den Wald einfügt, streut goldenen Staub über die Frau, als sie am Drachen vorbeigeht.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099481378844995584/img/NgCsxC2iUWKO2JWq.jpg" width="600" alt="Frau, Drache und Waldszene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10899)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2099481444552950135) | **Published:** Sep 14, 2026
+
+---
+### Krieger-Soundeffekt-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine Workflow-Beschreibung zur Erstellung von Soundeffekten mit Grok Imagine, einschließlich eines konkreten Beispiel-Prompts.
+
+#### 📝 Prompt
+
+```
+Ein Krieger schlägt dreimal mit seinem Claymore auf Plattenpanzer, ohne Hintergrundgeräusche, ohne Atmosphäre…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099437083886792704/img/B1O0nica71UJy-Lb.jpg" width="600" alt="Krieger-Soundeffekt-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10900)**
+
+**Author:** [Graalito](https://x.com/Graalitoo) | **Source:** [Link](https://x.com/Graalitoo/status/2099437178527027523) | **Published:** Sep 14, 2026
+
+---
 ### Gothisches Kleid Junge Frau
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2100,120 +2215,6 @@ Erstelle ein kurzes Video über zwei Kristalltiere, die in einer fröhlichen und
 **Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
 
 ---
-### Filmische Szene: Flugzeugwrack am Strand
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine stimmungsvolle und detailreiche filmische Weitaufnahme einer Person, die auf dem Wrack eines Militärflugzeugs an einem stürmischen Strand sitzt.
-
-#### 📝 Prompt
-
-```
-Filmische Weitaufnahme einer Person in einem dunklen Mantel, die auf der Tragfläche eines abgestürzten Militärtransportflugzeugs an einem felsigen schwarzen Strand sitzt, stürmische graue Wolken, Wellen, die gegen das Wrack schlagen, Wasser, das aus dem Rumpf läuft, fotorealistisch, stimmungsvolle Atmosphäre, ultra-detailliert, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="Filmische Szene: Flugzeugwrack am Strand">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10432)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
-
----
-### Filmischer Drachenflug aus der Egoperspektive
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein fortschrittlicher Produktions-Prompt, der für eine flüssige Videobewegungssteuerung entwickelt wurde und einen Drachenflug aus der Egoperspektive über Basaltklippen während der goldenen Stunde detailliert beschreibt.
-
-#### 📝 Prompt
-
-```
-Filmischer Flug aus der Egoperspektive vom Sattel eines massiven schwarzen Drachen aus. Der Drache fliegt tief an hoch aufragenden Basaltklippen entlang und schwenkt dann sanft nach links in Richtung eines entfernten Brandungspfeilers. Die Kamera ist direkt hinter dem Reiter fixiert, schwere und physikalisch konsistente Flügelschläge, starke Parallaxe des Ozeans, stabile Anatomie und Sattelkonstruktion, goldenes Sonnenlicht durch Wolken, realistisches Wind- und Flügelgeräusch, eine kontinuierliche Aufnahme, keine Schnitte oder plötzlichen Morphing-Effekte.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096297756637978624/img/NTvU-EyY_TJqir8j.jpg" width="600" alt="Filmischer Drachenflug aus der Egoperspektive">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10485)**
-
-**Author:** [Prizevera](https://x.com/Prizevera) | **Source:** [Link](https://x.com/Prizevera/status/2096443876399812740) | **Published:** Sep 6, 2026
-
----
-### Gang durch das himmlische Labyrinth
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein traumhafter Prompt einer jungen Frau, die durch surreale, nebelartige Labyrinthe und Galaxien wandelt.
-
-#### 📝 Prompt
-
-```
-Eine junge Frau wandert durch eine Reihe von Labyrinthen, wunderschön, surreal und traumhaft; jedes einzelne ist eine sternenklare Landschaft aus Nebeln und Galaxien, die aufeinander aufbauen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="Gang durch das himmlische Labyrinth">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
-
-**Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
-
----
-### Grok Imagine Video-Stabilitäts-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine Reihe von Regeln für Bewegungs- und visuelle Konsistenz bei der Videogenerierung mit Grok Imagine, mit Fokus auf Kamerafixierung und Gesichtsstabilität.
-
-#### 📝 Prompt
-
-```
-Kamera fixiert / gleiches Gesicht, gleiche Haare, gleiches Oberteil, gleicher Hintergrund / keine Gesichtsverformung / nur fünf Finger / Hände dürfen Wange oder Kinn berühren, niemals die Augen bedecken / lautlos
-```
-
-<img src="https://cms-assets.youmind.com/media/1788769635383_47t3mf_HRfWBCoaEAAbkhN.jpg" width="600" alt="Grok Imagine Video-Stabilitäts-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10493)**
-
-**Author:** [ナオミチ](https://x.com/comback_nao6) | **Source:** [Link](https://x.com/comback_nao6/status/2096379490310176901) | **Published:** Sep 5, 2026
-
----
-### Video-Gesichtstausch und Elementerhaltung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine komplexe Anweisung für Grok Imagine, um Gesichter zwischen zwei Referenzbildern zu tauschen und dabei Komposition, Rüstung und Umgebung beizubehalten.
-
-#### 📝 Prompt
-
-```
-Ersetze das Gesicht der Frau in der Rüstung im ersten Bild durch das exakte Gesicht des Mannes aus dem zweiten Bild. Behalte dabei die gleiche Pose, den Körper, die Rüstung, die Frisur, die windbewegten Elemente, den Umhang, die Beleuchtung, den Himmel zur goldenen Stunde, den Greifen und die gesamte Komposition bei.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096345975854080000/img/2yvjTBR9I44fYvrv.jpg" width="600" alt="Video-Gesichtstausch und Elementerhaltung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10484)**
-
-**Author:** [FanRuskiBate 🔨](https://x.com/that_russian49) | **Source:** [Link](https://x.com/that_russian49/status/2096346104845533375) | **Published:** Sep 5, 2026
-
----
-### Neon-Dachterrassen-Federkleid
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein aufwendiger filmischer Video-Prompt einer Frau in einem pinkfarbenen Federkleid auf einem neonbeleuchteten Balkon bei Regen.
-
-#### 📝 Prompt
-
-```
-Filmische Ganzkörperaufnahme einer selbstbewussten Frau mit dunklem lockigem Haar in einem dramatischen, tiefpinkfarbenen Feder-Abendkleid, die nachts auf einer nassen Neon-Dachterrasse steht, über die Schulter blickt, Regenspiegelungen auf Glas, leuchtende pinke und cyanfarbene Skyline der Stadt, Anime-Illustrationsstil, ultra-detailliert
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="Neon-Dachterrassen-Federkleid">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10431)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2275,6 +2276,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T04:39:32.333Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T13:38:30.500Z</sub>
 
 </div>

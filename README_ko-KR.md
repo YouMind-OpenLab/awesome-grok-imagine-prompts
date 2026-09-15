@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2815** |
+| 📝 총 프롬프트 수 | **2821** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-09-15** |
 
@@ -189,6 +189,121 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 레트로 퓨처리즘 애니메이션 실루엣
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine용 비디오 프롬프트로, 레트로 퓨처리즘 애니메이션 스타일로 절벽과 우주 배경 앞에서 역동적인 포즈를 취한 실루엣 인물을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+레트로 퓨처리즘 애니메이션 스타일로, 별이 빛나는 우주와 절벽을 배경으로 역동적인 포즈를 취한 실루엣 인물.
+계속 도전하고 절대 포기하지 마세요!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099754085402525696/img/urpa5-llForPE8BF.jpg" width="600" alt="레트로 퓨처리즘 애니메이션 실루엣">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10896)**
+
+**작성자:** [Marie](https://x.com/Marie8508319540) | **출처:** [Link](https://x.com/Marie8508319540/status/2099754137541808172) | **게시일:** Sep 15, 2026
+
+---
+### K-Pop 무대 공연 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 중년 남성 두 명이 촌스러운 K-Pop 정장을 입고 팬들과 함께 무대에서 포즈를 취하는 복잡한 캐릭터 및 장면 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+두 명의 중년 남성 (초기 50 대, 한 명은 매우 마르고 대머리이며 다른 한 명은 금발 머리에 뚱뚱한 체형). 촌스럽고 화려한 K-Pop 스타일 정장을 착용함. 그들 위에 'OSNTA'라는 글자가 표시되어 있으며, 마치 우리가 무대에서 포즈를 취하고 있는 것처럼 보이게 하고 관객석에는 많은 팬들이 있음....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099686040017522688/img/lxZuPtCSnurBrWyN.jpg" width="600" alt="K-Pop 무대 공연 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10897)**
+
+**작성자:** [Paul Cannon](https://x.com/ExoticShrubs) | **출처:** [Link](https://x.com/ExoticShrubs/status/2099686059764301918) | **게시일:** Sep 15, 2026
+
+---
+### REO S4C 목업 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 실루엣을 활용하여 REO S4C 차량의 목업을 생성하고 360도 회전시키는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 실루엣들을 사용하여 REO S4C의 목업을 만들고, 차량 후면 추정도를 위해 360도로 회전시켜 주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099678227392282624/img/FCluYRXr2Lz3LO7S.jpg" width="600" alt="REO S4C 목업 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10895)**
+
+**작성자:** [Raymond Love](https://x.com/LoveRaym67) | **출처:** [Link](https://x.com/LoveRaym67/status/2099678254902747254) | **게시일:** Sep 15, 2026
+
+---
+### 도미노 효과 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 연쇄적인 도미노 효과를 보여주는 영상을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+긴 일렬로 세워진 도미노 중 하나가 넘어지며, 하나씩 차례대로 쓰러지는 연쇄적인 도미노 효과가 펼쳐집니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099638454631993345/img/Pb_7NipDBN46oPPX.jpg" width="600" alt="도미노 효과 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10898)**
+
+**작성자:** [Han Vu](https://x.com/HanVu195089) | **출처:** [Link](https://x.com/HanVu195089/status/2099638467852439632) | **게시일:** Sep 14, 2026
+
+---
+### 여성, 용, 숲 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 숲속을 거니는 녹색 드레스의 여성과 용이 등장하는 영상 프롬프트 설명입니다.
+
+#### 📝 프롬프트
+
+```
+여성이 녹색 드레스를 입고 숲길을 걸어갑니다. 드레스 등 부분은 V 자 형태로 상단 3분의 2가 드러나 있습니다. 숲과 자연스럽게 어우러지도록 위장한 용이 그녀가 지나갈 때 황금빛 가루를 뿌립니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099481378844995584/img/NgCsxC2iUWKO2JWq.jpg" width="600" alt="여성, 용, 숲 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10899)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2099481444552950135) | **게시일:** Sep 14, 2026
+
+---
+### 전사 효과음 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 효과음을 생성하기 위해 Grok Imagine을 사용하는 워크플로우 설명으로, 구체적인 예시 프롬프트가 포함되어 있습니다.
+
+#### 📝 프롬프트
+
+```
+전사가 클레이모어로 판금 갑옷을 3번 내리치는 소리, 배경 소음 없음, 앰비언스 없음…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099437083886792704/img/B1O0nica71UJy-Lb.jpg" width="600" alt="전사 효과음 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10900)**
+
+**작성자:** [Graalito](https://x.com/Graalitoo) | **출처:** [Link](https://x.com/Graalitoo/status/2099437178527027523) | **게시일:** Sep 14, 2026
+
+---
 ### 고딕 드레스를 입은 젊은 여성
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2099,120 +2214,6 @@ Alice @Reference3 와 Dani @Reference2 가 조리대에서 채소를 썰며 Elar
 **작성자:** [Binh Nguyen](https://x.com/binhbb2) | **출처:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **게시일:** Sep 6, 2026
 
 ---
-### 추락한 비행기와 해변의 영화 같은 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 폭풍우가 치는 해변, 군용기 잔해 위에 앉아 있는 사람을 담은 분위기 있고 디테일한 영화적 와이드 샷.
-
-#### 📝 프롬프트
-
-```
-바위가 많은 검은 해변에 추락한 군용 수송기 날개 위에 어두운 코트를 입고 앉아 있는 사람의 영화적 와이드 샷, 폭풍우가 치는 회색 구름, 잔해에 부딪히는 파도, 동체에서 쏟아지는 물, 사실적인 사진, 분위기 있는 연출, 초고화질, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="추락한 비행기와 해변의 영화 같은 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10432)**
-
-**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **게시일:** Sep 6, 2026
-
----
-### 1인칭 드래곤 시네마틱 비행
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 부드러운 영상 모션 제어를 위해 설계된 고급 프로덕션 프롬프트로, 골든 아워 시간대 현무암 해안 절벽 위를 나는 1인칭 드래곤 비행을 상세히 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-거대한 검은 드래곤의 안장에 앉아 바라보는 1인칭 시네마틱 비행. 드래곤이 우뚝 솟은 현무암 해안 절벽 옆을 낮게 비행하다가 멀리 떨어진 해상 암석을 향해 부드럽게 왼쪽으로 선회한다. 카메라는 기수 바로 뒤에 고정되어 있으며, 물리적으로 일관된 묵직한 날갯짓, 강렬한 바다 시차, 안정적인 해부학적 구조와 안장 디자인, 구름 사이로 비치는 황금빛 햇살, 사실적인 바람과 날개 소리 효과가 포함된다. 끊김이나 갑작스러운 변형 없이 이어지는 하나의 연속적인 샷.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096297756637978624/img/NTvU-EyY_TJqir8j.jpg" width="600" alt="1인칭 드래곤 시네마틱 비행">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10485)**
-
-**작성자:** [Prizevera](https://x.com/Prizevera) | **출처:** [Link](https://x.com/Prizevera/status/2096443876399812740) | **게시일:** Sep 6, 2026
-
----
-### 천상의 미로 산책
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 초현실적인 성운 미로와 은하수 속을 걷는 젊은 여성의 꿈같은 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-한 젊은 여성이 아름답고 초현실적이며 꿈같은 미로 속을 걷고 있습니다. 각 미로는 성운과 은하수가 층층이 쌓여 만들어진 별빛 가득한 풍경입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="천상의 미로 산책">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10430)**
-
-**작성자:** [Jillian Spiridon](https://x.com/jillianspiridon) | **출처:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **게시일:** Sep 6, 2026
-
----
-### Grok Imagine 비디오 안정성 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 비디오 생성 시 카메라 고정 및 얼굴 안정성에 중점을 둔 동작 및 시각적 일관성 규칙 세트입니다.
-
-#### 📝 프롬프트
-
-```
-카메라 고정 / 동일한 얼굴, 머리카락, 탱크톱, 배경 유지 / 얼굴 변형 없음 / 손가락은 반드시 5개 / 손이 뺨이나 턱을 만질 수는 있으나 눈을 가리지 말 것 / 무음
-```
-
-<img src="https://cms-assets.youmind.com/media/1788769635383_47t3mf_HRfWBCoaEAAbkhN.jpg" width="600" alt="Grok Imagine 비디오 안정성 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10493)**
-
-**작성자:** [ナオミチ](https://x.com/comback_nao6) | **출처:** [Link](https://x.com/comback_nao6/status/2096379490310176901) | **게시일:** Sep 5, 2026
-
----
-### 비디오 얼굴 교체 및 요소 보존
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 구도, 갑옷, 환경을 유지하면서 두 참조 이미지 간의 얼굴을 교체하도록 Grok Imagine에 내리는 복잡한 지침입니다.
-
-#### 📝 프롬프트
-
-```
-첫 번째 이미지에 있는 갑옷을 입은 여성의 얼굴을 두 번째 이미지에 있는 남성의 얼굴로 정확하게 교체하세요. 동일한 포즈, 신체, 갑옷, 헤어스타일과 바람에 날리는 움직임, 망토, 조명, 골든 아워의 하늘, 그리핀, 그리고 전체적인 구도를 그대로 유지하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096345975854080000/img/2yvjTBR9I44fYvrv.jpg" width="600" alt="비디오 얼굴 교체 및 요소 보존">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10484)**
-
-**작성자:** [FanRuskiBate 🔨](https://x.com/that_russian49) | **출처:** [Link](https://x.com/that_russian49/status/2096346104845533375) | **게시일:** Sep 5, 2026
-
----
-### 네온 루프탑 페더 가운
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 비 내리는 네온사인 발코니에서 핑크색 깃털 드레스를 입은 여성을 담은 정교한 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-밤, 젖은 네온 루프탑 발코니에 서서 어깨 너머로 뒤를 돌아보는, 짙은 곱슬머리에 자신감 넘치는 여성을 담은 시네마틱 전신 샷. 강렬한 딥 핑크 컬러의 깃털 이브닝 드레스, 유리에 비친 빗방울, 빛나는 핑크와 사이언 색상의 도시 스카이라인, 애니메이션 일러스트 스타일, 초고화질
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="네온 루프탑 페더 가운">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10431)**
-
-**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **게시일:** Sep 5, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2274,6 +2275,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-15T04:39:26.534Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-15T13:38:26.647Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2815** |
+| 📝 プロンプト総数 | **2821** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-15** |
 
@@ -189,6 +189,121 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### レトロフューリズム風アニメシルエット
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用のビデオプロンプト。崖と宇宙を背景に、レトロフューリズム風のアニメスタイルで描かれたダイナミックなポーズのシルエット人物。
+
+#### 📝 プロンプト
+
+```
+レトロフューリズム風のアニメスタイルで、崖と星空を背景にしたダイナミックなポーズのシルエット人物。
+手を伸ばし続け、決して諦めないで！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099754085402525696/img/urpa5-llForPE8BF.jpg" width="600" alt="レトロフューリズム風アニメシルエット">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10896)**
+
+**作者:** [Marie](https://x.com/Marie8508319540) | **ソース:** [Link](https://x.com/Marie8508319540/status/2099754137541808172) | **公開日:** Sep 15, 2026
+
+---
+### K-Pop ステージパフォーマンスシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 2人の中年男性が安っぽい K-Pop スーツを着てステージ上でファンとポーズをとる、複雑なキャラクターおよびシーン生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+2人の中年男性（50代前半、1人は極端に痩せてハゲ頭、もう1人はぽっちゃり体型でブロンドヘア）。K-Pop スタイルの衣装（派手で安っぽいスーツ）を身につけ、頭上には「OSNTA」の文字。ステージ上でポーズをとっているように見せ、観客席には多くのファンがいる....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099686040017522688/img/lxZuPtCSnurBrWyN.jpg" width="600" alt="K-Pop ステージパフォーマンスシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10897)**
+
+**作者:** [Paul Cannon](https://x.com/ExoticShrubs) | **ソース:** [Link](https://x.com/ExoticShrubs/status/2099686059764301918) | **公開日:** Sep 15, 2026
+
+---
+### REO S4C モックアッププロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> シルエットを使用して REO S4C 車両のモックアップを作成し、360 度回転させるためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+これらのシルエットを使って REO S4C のモックアップを作成し、車両後部の推定のために 360 度回転させてください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099678227392282624/img/FCluYRXr2Lz3LO7S.jpg" width="600" alt="REO S4C モックアッププロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10895)**
+
+**作者:** [Raymond Love](https://x.com/LoveRaym67) | **ソース:** [Link](https://x.com/LoveRaym67/status/2099678254902747254) | **公開日:** Sep 15, 2026
+
+---
+### ドミノ倒し動画プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 連鎖的なドミノ倒しを生成するための動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+一列に並べられたドミノの最初の1枚が倒れ、次々と連鎖的に倒れていく様子を捉えた映像
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099638454631993345/img/Pb_7NipDBN46oPPX.jpg" width="600" alt="ドミノ倒し動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10898)**
+
+**作者:** [Han Vu](https://x.com/HanVu195089) | **ソース:** [Link](https://x.com/HanVu195089/status/2099638467852439632) | **公開日:** Sep 14, 2026
+
+---
+### 女性とドラゴンの森のシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 緑色のガウンを着た女性が森を歩き、ドラゴンが現れる様子を描写した動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+緑色のガウンを着た女性が森の道を背を向けて歩いている。ガウンの背面は V 字型に開いており、背中の上側 3 分の 2 が露出している。彼女は森の中を進み、周囲の風景に溶け込むようにカモフラージュされたドラゴンのそばを通り過ぎる。その際、ドラゴンから金色の粉が舞い上がり、女性の上に降り注ぐ。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099481378844995584/img/NgCsxC2iUWKO2JWq.jpg" width="600" alt="女性とドラゴンの森のシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10899)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2099481444552950135) | **公開日:** Sep 14, 2026
+
+---
+### 戦士の効果音動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用した効果音ワークフローの説明で、具体的なプロンプト例を含みます。
+
+#### 📝 プロンプト
+
+```
+戦士がクレイモアで板金を3回叩く音、背景ノイズなし、環境音なし…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099437083886792704/img/B1O0nica71UJy-Lb.jpg" width="600" alt="戦士の効果音動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10900)**
+
+**作者:** [Graalito](https://x.com/Graalitoo) | **ソース:** [Link](https://x.com/Graalitoo/status/2099437178527027523) | **公開日:** Sep 14, 2026
+
+---
 ### ゴシックドレスの若い女性
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2099,120 +2214,6 @@ Pringles の缶、ブランディング、タイポグラフィ、色、背景�
 **作者:** [Binh Nguyen](https://x.com/binhbb2) | **ソース:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **公開日:** Sep 6, 2026
 
 ---
-### 墜落した飛行機とビーチのシネマティックなシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 嵐のビーチで、軍用機の残骸に座る人物を捉えた、ムードのある詳細なシネマティック・ワイドショット。
-
-#### 📝 プロンプト
-
-```
-岩だらけの黒いビーチに墜落した軍用輸送機の翼の上に、ダークコートを着た人物が座っている様子を捉えたシネマティック・ワイドショット。嵐の灰色の雲、残骸に打ち寄せる波、機体から流れ出る水、フォトリアル、ムードのある雰囲気、超高精細、Grok Imagine。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="墜落した飛行機とビーチのシネマティックなシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10432)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **公開日:** Sep 6, 2026
-
----
-### ドラゴンの一人称視点での飛行シネマティック
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 滑らかな動画モーションコントロールを実現するために設計された高度な生成プロンプト。ゴールデンアワーの玄武岩の海食崖上を飛行するドラゴンの、一人称視点での飛行シーンを詳細に記述しています。
-
-#### 📝 プロンプト
-
-```
-巨大な黒いドラゴンの鞍に乗った一人称視点でのシネマティックな飛行。ドラゴンはそびえ立つ玄武岩の海食崖のすぐ横を低空飛行し、遠くの海食柱に向かって滑らかに左へ旋回する。カメラはライダーのすぐ後ろに固定され、物理的に整合性の取れた力強い羽ばたき、ダイナミックな海面の視差、安定した解剖学的構造と鞍のデザイン、雲間から差し込む黄金色の太陽光、リアルな風と翼の環境音を表現。カットや突然のモーフィングがない、ワンカットの連続撮影。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096297756637978624/img/NTvU-EyY_TJqir8j.jpg" width="600" alt="ドラゴンの一人称視点での飛行シネマティック">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10485)**
-
-**作者:** [Prizevera](https://x.com/Prizevera) | **ソース:** [Link](https://x.com/Prizevera/status/2096443876399812740) | **公開日:** Sep 6, 2026
-
----
-### Celestial Labyrinth Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 星雲や銀河が広がるシュールな迷宮を歩く、夢のような若い女性のプロンプト。
-
-#### 📝 プロンプト
-
-```
-星雲や銀河が織りなす星空の風景が次々と重なり合う、美しくシュールで夢のような迷宮の数々を歩く若い女性。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="Celestial Labyrinth Walk">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10430)**
-
-**作者:** [Jillian Spiridon](https://x.com/jillianspiridon) | **ソース:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **公開日:** Sep 6, 2026
-
----
-### Grok Imagine 動画安定化プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine での動画生成における、カメラの固定や顔の安定性に焦点を当てたモーションおよび視覚的一貫性のルールセット。
-
-#### 📝 プロンプト
-
-```
-カメラ固定 / 同一の顔、髪型、タンクトップ、背景 / 顔の変形なし / 指は必ず 5 本 / 手は頬や顎に触れても良いが、目は決して覆わないこと / 音声なし
-```
-
-<img src="https://cms-assets.youmind.com/media/1788769635383_47t3mf_HRfWBCoaEAAbkhN.jpg" width="600" alt="Grok Imagine 動画安定化プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10493)**
-
-**作者:** [ナオミチ](https://x.com/comback_nao6) | **ソース:** [Link](https://x.com/comback_nao6/status/2096379490310176901) | **公開日:** Sep 5, 2026
-
----
-### 動画のフェイススワップと要素の保持
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine を使用して、構図、鎧、環境を維持しながら 2 つの参照画像間で顔を入れ替えるための複雑な指示。
-
-#### 📝 プロンプト
-
-```
-1 枚目の画像の鎧を着た女性の顔を、2 枚目の画像の男性の顔に正確に入れ替えてください。その際、ポーズ、体、鎧、髪型、風になびく動き、マント、照明、ゴールデンアワーの空、グリフォン、そして全体的な構図を完全に維持してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096345975854080000/img/2yvjTBR9I44fYvrv.jpg" width="600" alt="動画のフェイススワップと要素の保持">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10484)**
-
-**作者:** [FanRuskiBate 🔨](https://x.com/that_russian49) | **ソース:** [Link](https://x.com/that_russian49/status/2096346104845533375) | **公開日:** Sep 5, 2026
-
----
-### ネオンの屋上で羽を纏うドレス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雨の降るネオンのバルコニーで、ピンクの羽のドレスを纏った女性の精巧なシネマティック動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-夜の濡れたネオンの屋上バルコニーに立つ、自信に満ちたダークカーリーヘアの女性の全身シネマティックショット。ドラマチックな濃いピンクの羽のイブニングドレスを纏い、肩越しに振り返る姿。ガラスに反射する雨、輝くピンクとシアンの街のスカイライン、アニメイラストスタイル、超高精細
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="ネオンの屋上で羽を纏うドレス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10431)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **公開日:** Sep 5, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2274,6 +2275,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-15T04:39:25.551Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-15T13:38:26.071Z</sub>
 
 </div>

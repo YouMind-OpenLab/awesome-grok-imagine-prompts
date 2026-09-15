@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2815** |
+| 📝 Total Prompts | **2821** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-15** |
 
@@ -189,6 +189,121 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### रेट्रो फ्यूचरिज्म एनीमे सिल्हूट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो प्रॉम्प्ट जिसमें चट्टानों और अंतरिक्ष की पृष्ठभूमि में गतिशील मुद्रा में एक छायांकित आकृति दिखाई देती है, जिसे रेट्रो फ्यूचरिज्म एनीमे शैली में स्टाइल किया गया है।
+
+#### 📝 Prompt
+
+```
+रेट्रो फ्यूचरिज्म एनीमे शैली में चट्टानों और तारों से भरे अंतरिक्ष की पृष्ठभूमि में गतिशील मुद्रा में एक छायांकित आकृति।
+लक्ष्य की ओर बढ़ते रहें, कभी हार न मानें!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099754085402525696/img/urpa5-llForPE8BF.jpg" width="600" alt="रेट्रो फ्यूचरिज्म एनीमे सिल्हूट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10896)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2099754137541808172) | **Published:** Sep 15, 2026
+
+---
+### K-Pop मंच प्रदर्शन दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> दो मध्यम आयु वर्ग के पुरुषों को बेहूदा K-Pop सूट पहने प्रशंसकों के साथ मंच पर पोज़ देते हुए दिखाता एक जटिल पात्र और दृश्य जनरेशन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+दो मध्यम आयु वर्ग के पुरुष (50 वर्ष की शुरुआत, एक अत्यंत दुबला-पतला और गंजा, दूसरा डैड बॉडी फिगर वाला जिसके सिर पर सुनहरे बाल हैं)। K-Pop कपड़ों (बेहूदा आकर्षक सूट) में तैयार, उनके ऊपर अक्षर: OSNTA लिखे हों, ऐसा दिखे कि हम मंच पर पोज़ दे रहे हैं... दर्शकों में बहुत सारे प्रशंसक हों....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099686040017522688/img/lxZuPtCSnurBrWyN.jpg" width="600" alt="K-Pop मंच प्रदर्शन दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10897)**
+
+**Author:** [Paul Cannon](https://x.com/ExoticShrubs) | **Source:** [Link](https://x.com/ExoticShrubs/status/2099686059764301918) | **Published:** Sep 15, 2026
+
+---
+### REO S4C मॉकअप प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> REO S4C वाहन का सिलुएट्स (silhouettes) का उपयोग करके मॉकअप बनाने और उसे 360 डिग्री घुमाने के लिए एक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+इन सिलुएट्स का उपयोग करके REO S4C का मॉकअप बनाएं और वाहन के पिछले हिस्से का अनुमान लगाने के लिए इसे 360 डिग्री घुमाएं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099678227392282624/img/FCluYRXr2Lz3LO7S.jpg" width="600" alt="REO S4C मॉकअप प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10895)**
+
+**Author:** [Raymond Love](https://x.com/LoveRaym67) | **Source:** [Link](https://x.com/LoveRaym67/status/2099678254902747254) | **Published:** Sep 15, 2026
+
+---
+### डोमिनो इफेक्ट वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक कस्केडिंग डोमिनो इफेक्ट दिखाने वाले वीडियो को जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+डोमिनोज़ की एक लंबी एकल फाइल लाइन में व्यवस्था, जहाँ एक को गिराया जाता है जिससे एक कस्केडिंग डोमिनो इफेक्ट शुरू होता है और वे एक के बाद एक गिरते हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099638454631993345/img/Pb_7NipDBN46oPPX.jpg" width="600" alt="डोमिनो इफेक्ट वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10898)**
+
+**Author:** [Han Vu](https://x.com/HanVu195089) | **Source:** [Link](https://x.com/HanVu195089/status/2099638467852439632) | **Published:** Sep 14, 2026
+
+---
+### महिला और ड्रैगन का जंगल दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वर्णनात्मक वीडियो प्रॉम्प्ट जिसमें एक महिला हरे रंग की गाउन पहने हुए जंगल में चल रही है और उसके साथ एक ड्रैगन है।
+
+#### 📝 Prompt
+
+```
+एक महिला हरे रंग की गाउन पहने हुए जंगल के रास्ते पर आगे बढ़ रही है। उसकी गाउन का पीछा V-आकार का है, जो उसकी पीठ के ऊपरी दो-तिहाई हिस्से को दिखाता है। जैसे ही वह गुजरती है, एक ड्रैगन, जो जंगल के रंगों में छिपा हुआ है, उसके ऊपर सुनहरी धूल बिखेरता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099481378844995584/img/NgCsxC2iUWKO2JWq.jpg" width="600" alt="महिला और ड्रैगन का जंगल दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10899)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2099481444552950135) | **Published:** Sep 14, 2026
+
+---
+### Warrior Sound Effect Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A workflow description using Grok Imagine for sound effects, containing a specific example prompt.
+
+#### 📝 Prompt
+
+```
+A warrior striking 3 times with his Claymore on plate armor, no background noise, no ambiance…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099437083886792704/img/B1O0nica71UJy-Lb.jpg" width="600" alt="Warrior Sound Effect Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10900)**
+
+**Author:** [Graalito](https://x.com/Graalitoo) | **Source:** [Link](https://x.com/Graalitoo/status/2099437178527027523) | **Published:** Sep 14, 2026
+
+---
 ### गॉथिक ड्रेस में युवा महिला
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2100,120 +2215,6 @@ Pringles का लाल ढक्कन हवा में धीरे-ध�
 **Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
 
 ---
-### दुर्घटनाग्रस्त विमान का सिनेमाई बीच दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> तूफानी समुद्र तट पर एक सैन्य विमान के मलबे पर बैठे व्यक्ति का एक मूडी और विस्तृत सिनेमाई वाइड शॉट।
-
-#### 📝 Prompt
-
-```
-एक पथरीले काले समुद्र तट पर दुर्घटनाग्रस्त सैन्य परिवहन विमान के पंख पर गहरे रंग का कोट पहने व्यक्ति का सिनेमाई वाइड शॉट, तूफानी ग्रे बादल, मलबे से टकराती लहरें, धड़ से गिरता पानी, फोटो-रियल, मूडी वातावरण, अल्ट्रा विस्तृत, Grok Imagine।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110792055934976/img/6eftuVCamPCVkQec.jpg" width="600" alt="दुर्घटनाग्रस्त विमान का सिनेमाई बीच दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10432)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096455852828070147) | **Published:** Sep 6, 2026
-
----
-### ड्रैगन की फर्स्ट-पर्सन सिनेमैटिक उड़ान
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> स्मूथ वीडियो मोशन कंट्रोल के लिए तैयार किया गया एक एडवांस्ड प्रोडक्शन प्रॉम्प्ट, जिसमें गोल्डन आवर के दौरान बेसाल्ट समुद्री चट्टानों के ऊपर ड्रैगन की फर्स्ट-पर्सन उड़ान का विवरण है।
-
-#### 📝 Prompt
-
-```
-एक विशाल काले ड्रैगन की काठी से फर्स्ट-पर्सन सिनेमैटिक उड़ान। ड्रैगन ऊंची बेसाल्ट समुद्री चट्टानों के बगल में नीचे की ओर उड़ता है, फिर धीरे से बाईं ओर एक दूर स्थित सी-स्टैक की ओर मुड़ता है। कैमरा राइडर के ठीक पीछे स्थिर है, पंखों की भारी और भौतिक रूप से सुसंगत फड़फड़ाहट, समुद्र का गहरा पैरालैक्स, स्थिर एनाटॉमी और काठी का डिज़ाइन, बादलों के बीच से आती सुनहरी धूप, यथार्थवादी हवा और पंखों का परिवेश, एक निरंतर शॉट, कोई कट या अचानक बदलाव नहीं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096297756637978624/img/NTvU-EyY_TJqir8j.jpg" width="600" alt="ड्रैगन की फर्स्ट-पर्सन सिनेमैटिक उड़ान">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10485)**
-
-**Author:** [Prizevera](https://x.com/Prizevera) | **Source:** [Link](https://x.com/Prizevera/status/2096443876399812740) | **Published:** Sep 6, 2026
-
----
-### सेलेस्टियल लेबिरिंथ वॉक
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक युवा महिला का अवास्तविक नेबुलर लेबिरिंथ और आकाशगंगाओं के बीच चलने का एक स्वप्निल प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक युवा महिला लेबिरिंथ की एक श्रृंखला के बीच चल रही है, जो सुंदर, अवास्तविक और स्वप्निल है, जिसमें से प्रत्येक नेबुला और आकाशगंगाओं का एक तारों भरा परिदृश्य है जो एक-दूसरे पर आधारित है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096407646819569666/img/MhQKM4b-WcoYN7FH.jpg" width="600" alt="सेलेस्टियल लेबिरिंथ वॉक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10430)**
-
-**Author:** [Jillian Spiridon](https://x.com/jillianspiridon) | **Source:** [Link](https://x.com/jillianspiridon/status/2096407669053489364) | **Published:** Sep 6, 2026
-
----
-### Grok Imagine वीडियो स्टेबिलिटी प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine वीडियो जनरेशन के लिए मोशन और विज़ुअल कंसिस्टेंसी नियमों का एक सेट, जो कैमरा लॉकिंग और फेशियल स्टेबिलिटी पर केंद्रित है।
-
-#### 📝 Prompt
-
-```
-कैमरा लॉक / एक जैसा चेहरा, बाल, टैंक, बैकड्रॉप / चेहरे में कोई बदलाव नहीं / केवल पांच उंगलियां / हाथ गाल या ठुड्डी को छू सकते हैं, आंखों को कभी न ढकें / साइलेंट
-```
-
-<img src="https://cms-assets.youmind.com/media/1788769635383_47t3mf_HRfWBCoaEAAbkhN.jpg" width="600" alt="Grok Imagine वीडियो स्टेबिलिटी प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10493)**
-
-**Author:** [ナオミチ](https://x.com/comback_nao6) | **Source:** [Link](https://x.com/comback_nao6/status/2096379490310176901) | **Published:** Sep 5, 2026
-
----
-### वीडियो फेस स्वैप और एलिमेंट प्रिजर्वेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक जटिल निर्देश, जिसका उद्देश्य दो संदर्भ छवियों के बीच चेहरों को बदलना है, साथ ही कंपोजिशन, कवच और वातावरण को बरकरार रखना है।
-
-#### 📝 Prompt
-
-```
-पहली छवि में मौजूद कवच पहनी महिला का चेहरा, दूसरी छवि के पुरुष के चेहरे से पूरी तरह बदल दें। पोज़, शरीर, कवच, हेयर स्टाइल, हवा में लहराती गति, केप, लाइटिंग, गोल्डन-आवर स्काई, ग्रिफिन और समग्र कंपोजिशन को वैसा ही बनाए रखें।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096345975854080000/img/2yvjTBR9I44fYvrv.jpg" width="600" alt="वीडियो फेस स्वैप और एलिमेंट प्रिजर्वेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10484)**
-
-**Author:** [FanRuskiBate 🔨](https://x.com/that_russian49) | **Source:** [Link](https://x.com/that_russian49/status/2096346104845533375) | **Published:** Sep 5, 2026
-
----
-### नियोन रूफटॉप फेदर गाउन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बारिश के दौरान नियोन-लाइट वाली बालकनी पर गुलाबी पंखों वाले गाउन में एक महिला का विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-रात में एक गीली नियोन रूफटॉप बालकनी पर खड़ी, गहरे गुलाबी रंग के पंखों वाले ड्रामेटिक इवनिंग गाउन में, काले घुंघराले बालों वाली एक आत्मविश्वासी महिला का सिनेमैटिक फुल-बॉडी शॉट, पीछे मुड़कर देखते हुए, कांच पर बारिश का प्रतिबिंब, चमकता हुआ गुलाबी और सियान सिटी स्काईलाइन, एनीमे इलस्ट्रेशन स्टाइल, अल्ट्रा डिटेल्ड
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096110139480907776/img/5NxLRnnUG6BheURa.jpg" width="600" alt="नियोन रूफटॉप फेदर गाउन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10431)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096244460300480744) | **Published:** Sep 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2275,6 +2276,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T04:39:29.153Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T13:38:28.584Z</sub>
 
 </div>
