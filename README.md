@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2821** |
+| 📝 Total Prompts | **2826** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-16** |
 
@@ -189,11 +189,111 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Retro Futurism Anime Silhouette
+### Grok Imagine Video Prompt: Dog Reunion
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt for Grok Imagine featuring a silhouetted figure in a dynamic pose against cliffs and space, styled like retro futurism anime.
+> A timed video prompt for Grok Imagine depicting an emotional reunion between a person and their dog running down a road.
+
+#### 📝 Prompt
+
+```
+0–2s: A person stands at the end of a quiet road, waiting.
+ 2–4s: Their dog suddenly runs toward them at full speed. 
+4–5s: They kneel down and embrace as the dog's tail rapidly wags.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099908888946757632/img/CFJ6luf7mVarsirS.jpg" width="600" alt="Grok Imagine Video Prompt: Dog Reunion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10942)**
+
+**Author:** [Anandh KS](https://x.com/anandh_ks_) | **Source:** [Link](https://x.com/anandh_ks_/status/2100120751739138238) | **Published:** Sep 16, 2026
+
+---
+### Airplane Flying Through Blue Sky
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A simple video generation prompt for Grok Imagine depicting an airplane flying smoothly through the sky with cinematic camera tracking.
+
+#### 📝 Prompt
+
+```
+The white and red airplane flies smoothly forward through the blue sky, banking slightly, with clouds drifting past and subtle engine trails. Camera tracks the aircraft from below, cinematic and fluid motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100010559953317888/img/S_jbW65n9EF36D_i.jpg" width="600" alt="Airplane Flying Through Blue Sky">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10944)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **Published:** Sep 15, 2026
+
+---
+### Grok Imagine Video Prompt: Glowing Spider Lily in Rain
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A cinematic video prompt creating a close-up of a red spider lily glowing blue in the rain at night, with detailed camera movements and atmospheric effects.
+
+#### 📝 Prompt
+
+```
+Depict a single red spider lily in the rain, glowing blue in the darkness of night, shown beautifully in close-up with a CG-style visual.
+The petals have many raindrops dripping down, quietly emitting a bluish-white light, softly illuminating the surrounding air.
+The camera starts with a close-up of the flower, slowly following the tips of the petals and reflections of water droplets, slightly circling around to highlight its beauty.
+Amidst the quietness of the night, leave the sound of swaying in the faint wind and the shimmering when light passes through water droplets.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993504810426368/img/nKyNvBwY48Xu3a_f.jpg" width="600" alt="Grok Imagine Video Prompt: Glowing Spider Lily in Rain">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10946)**
+
+**Author:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **Source:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **Published:** Sep 15, 2026
+
+---
+### Diogenes Classical Painting Style
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to generate a video or animation of Diogenes celebrating in a street, styled like a classical painting.
+
+#### 📝 Prompt
+
+```
+Diogenes celebrating from a seated position in the street, in the style of a classical painting
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099962866267037696/img/mFlgfiS6qltuOkaf.jpg" width="600" alt="Diogenes Classical Painting Style">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10945)**
+
+**Author:** [McKenzie](https://x.com/mckenzie_X_X) | **Source:** [Link](https://x.com/mckenzie_X_X/status/2099962962828226725) | **Published:** Sep 15, 2026
+
+---
+### Office Scene with Tesla Display
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a realistic office scene where a character sits at a desk with a TV showing Tesla models and receives coffee from a secretary.
+
+#### 📝 Prompt
+
+```
+I'm in the office. I sit down at my desk. A large TV hangs on the wall, displaying all the Tesla models. My secretary brings me a cup of coffee and takes some documents from the printer.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099914367961583616/img/YVLb2cEyvjNaX4o7.jpg" width="600" alt="Office Scene with Tesla Display">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10943)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2099914455878410600) | **Published:** Sep 15, 2026
+
+---
+### Grok Imagine Video Prompt: Silhouette Anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for Grok Imagine featuring a silhouetted figure in dynamic pose against cliffs and space in retro futurism anime style.
 
 #### 📝 Prompt
 
@@ -202,7 +302,7 @@ A silhouetted figure in dynamic pose against cliffs and starry space in retro fu
 Keep reaching never give up!
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099754085402525696/img/urpa5-llForPE8BF.jpg" width="600" alt="Retro Futurism Anime Silhouette">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099754085402525696/img/urpa5-llForPE8BF.jpg" width="600" alt="Grok Imagine Video Prompt: Silhouette Anime">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10896)**
 
@@ -475,11 +575,11 @@ The woman stands up fully from among the barbed wire, then gracefully walks forw
 **Author:** [Barbara 💕🕊️🌎](https://x.com/BarbaraCbroker1) | **Source:** [Link](https://x.com/BarbaraCbroker1/status/2098898374229680514) | **Published:** Sep 12, 2026
 
 ---
-### Sci-Fi City Ship Cinematic Sequence Prompt
+### Futuristic City Ship Sci-Fi Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a 10-second vertical cinematic sci-fi sequence featuring a flying city-ship, engines, and space travel with specific lighting and sound design instructions.
+> A comprehensive prompt for a 10-second vertical cinematic sci-fi sequence featuring a flying city-ship, engines, traffic, and deep space travel, ending with text overlay.
 
 #### 📝 Prompt
 
@@ -488,7 +588,7 @@ The woman stands up fully from among the barbed wire, then gracefully walks forw
 “THE FUTURE IS REAL — NEXT LEVEL SCI-FI.”
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="Sci-Fi City Ship Cinematic Sequence Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="Futuristic City Ship Sci-Fi Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10819)**
 
@@ -831,11 +931,11 @@ generate me sitting up facing away from the camera then I stand up and turn arou
 **Author:** [𝑹𝒂𝒄𝒉𝒆𝒍 𝑹𝒂𝒎𝒔𝒆𝒚](https://x.com/RSOXART) | **Source:** [Link](https://x.com/RSOXART/status/2097888970994495736) | **Published:** Sep 10, 2026
 
 ---
-### Cosmic Scale Lonely Girl Roof
+### Cosmic Girl on Roof Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An image generation prompt depicting a girl on a rooftop watching a colossal planet rise, contrasting warm house lights with cool cosmic blues.
+> A detailed prompt for generating a cinematic video of a girl watching a giant planet rise from a countryside house roof.
 
 #### 📝 Prompt
 
@@ -843,7 +943,7 @@ generate me sitting up facing away from the camera then I stand up and turn arou
 A lone girl sitting on the roof of a small countryside house at night, hugging her knees while watching a colossal glowing planet rise over the horizon. The house is tiny compared to the giant celestial body dominating the sky. Warm yellow light glows softly from the window below her, while the surrounding world is bathed in cool blue moonlight. Fireflies hover in the grass, and distant hills fade into darkness. Dreamy, intimate, surreal cosmic scale, strong blue-orange contrast, lonely but beautiful, cinematic composition, gentle emotional storytelling.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797344687448064/img/SZngyC9XYY8D9vMn.jpg" width="600" alt="Cosmic Scale Lonely Girl Roof">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097797344687448064/img/SZngyC9XYY8D9vMn.jpg" width="600" alt="Cosmic Girl on Roof Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10678)**
 
@@ -1060,22 +1160,22 @@ The visuals present a clean, futuristic automotive style with sharp refle...
 **Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097621591815287266) | **Published:** Sep 9, 2026
 
 ---
-### Martial Arts Sparring in Dojo
+### Martial Arts Dojo Sparring Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for a fast-paced martial arts scene featuring two characters sparring in a traditional Japanese dojo with natural lighting and dynamic camera work.
+> A detailed prompt for generating a cinematic video of two martial artists sparring in a traditional Japanese dojo, featuring fast-paced camera work and natural lighting.
 
 #### 📝 Prompt
 
 ```
 Characters: A woman with long blonde hair and a man with curly blonde hair. Both wear white martial arts uniforms (gis) and black belts.
- Action: They engage in intense, rapid hand-to-hand sparring, exchanging punches and blocks, before separating to strike defensive stances.
- Setting: A traditional Japanese dojo featuring wooden pillars, tatami flooring, and large openings that reveal a lush green forest outside. A hanging scroll is visible in the background.
- Cinematography: Fast-paced camera work, quick cuts, and motion blur during fast movements. Natural lighting highlights the scene.
+Action: They engage in intense, rapid hand-to-hand sparring, exchanging punches and blocks, before separating to strike defensive stances.
+Setting: A traditional Japanese dojo featuring wooden pillars, tatami flooring, and large openings that reveal a lush green forest outside. A hanging scroll is visible in the background.
+Cinematography: Fast-paced camera work, quick cuts, and motion blur during fast movements. Natural lighting highlights the scene.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097596579775651840/img/ZIvdND7fCCnwhZrG.jpg" width="600" alt="Martial Arts Sparring in Dojo">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097596579775651840/img/ZIvdND7fCCnwhZrG.jpg" width="600" alt="Martial Arts Dojo Sparring Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10685)**
 
@@ -2054,118 +2154,6 @@ Pleiadians in light ships mother ships crystalline craft saucer shaped, masterpi
 **Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **Published:** Sep 6, 2026
 
 ---
-### Cinematic Rainy City Balcony Portrait
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt for a moody scene featuring a man in a black coat on a rainy balcony with purple neon lighting.
-
-#### 📝 Prompt
-
-```
-Cinematic medium shot of a quiet young man with dark wet hair in a long black coat standing alone on a rainy metal balcony at night, eyes softly closed, chin slightly down, hands in coat pockets, fine rain beading on fabric and metal rail, purple neon vertical light tubes glowing through dense fog behind him, distant city skyline softened into haze, wet reflections on the balcony floor, cool cyan spill mixed with deep violet bloom, shallow depth of field, moody atmospheric lighting, photoreal film still, ultra detailed skin and fabric texture, quiet emotional presence, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096470972702633984/img/hKG1eKVTNmD5EnCv.jpg" width="600" alt="Cinematic Rainy City Balcony Portrait">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10480)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096667246508810460) | **Published:** Sep 6, 2026
-
----
-### Tesla Range Rover Hybrid
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An automotive design request to fuse Range Rover body features with an advanced minimalist internal tech concept.
-
-#### 📝 Prompt
-
-```
-Design a Tesla model for me that looks like a Range rover from outside and has luxury seats and big screen on the inside
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096610323583365120/img/5EHgptPi5nzN_wnz.jpg" width="600" alt="Tesla Range Rover Hybrid">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10478)**
-
-**Author:** [Tammy BB](https://x.com/BbTammy) | **Source:** [Link](https://x.com/BbTammy/status/2096610338301239374) | **Published:** Sep 6, 2026
-
----
-### Humorous Software Developer Mouse Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed multi-scene prompt creating a humorous, cinematic 10-second video of an anthropomorphic mouse working as a software developer dealing with a frustrating code error and a talking wife.
-
-#### 📝 Prompt
-
-```
-Create a 10-second humorous cinematic scene featuring an ORIGINAL anthropomorphic mouse working as a software developer.
-
-The mouse sits at a cluttered computer desk late at night, fur slightly messy, wearing tiny glasses and a hoodie. Multiple monitors display abstract, fictional lines of computer code. He types rapidly, then suddenly gets a frustrating error on the screen.
-
-He sighs heavily, rubs his face, and mutters in frustration. In the background, his mouse wife keeps talking loudly from another room. The mouse pauses, looks toward the doorway with an exhausted expression, then slowly turns back to the computer and starts typing again.
-
-Comedic timing, expressive facial animation, realistic mouse movements, detailed fur, cozy apartment interior, warm desk lamp, subtle monitor glow, cinematic camera movement, natural body language.
-
-Camera starts with a medium shot of the mouse coding, slowly pushes in toward his frustrated face, then cuts to a reaction shot as he hears his wife.
-
-Include natural comedic dialogue:
-Mouse: "I can fix the code... but I can't fix my marriage."
-
-Wife (off-screen): "I HEARD THAT!"
-
-The mouse freezes and nervously looks at the camera.
-
-16:9 landscape, 10 seconds, cinematic quality, smooth animation, realistic lighting, expressive characters, clear dialogue, accurate lip synchronization, no logos, no copyrighted characters, no text or watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096609928710594560/img/DrQhhAaXfwieUn3P.jpg" width="600" alt="Humorous Software Developer Mouse Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10615)**
-
-**Author:** [Snow](https://x.com/iamrealsnow) | **Source:** [Link](https://x.com/iamrealsnow/status/2096610006376558614) | **Published:** Sep 6, 2026
-
----
-### Hyper-Realistic Pringles Commercial Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed prompt for creating a cinematic food advertisement video where chips rise from a Pringles can with realistic physics and studio lighting.
-
-#### 📝 Prompt
-
-```
-Create a premium, hyper-realistic cinematic food-commercial animation from the provided Pringles image. Keep the Pringles can, branding, typography, colors, background, and overall composition exactly unchanged. Do not redesign or replace any elements. The animation begins with the Pringles can gently rotating and tilting forward while the camera slowly pushes in. The golden chips rise naturally from the open can in smooth slow motion, spinning and tumbling individually with realistic physics. Small crumbs float through the air and catch the studio light. The red Pringles lid slowly spins in mid-air and moves subtly toward the camera before drifting back. Add realistic depth-of-field, tiny floating crumbs, natural motion blur, glossy highlights on the can, and subtle reflections. Make the chips feel crispy and lightweight, with believable gravity and collisions. The can should remain stable and sharp while the floating chips create the main motion. Use a smooth luxury advertising style: dramatic studio lighting, cinematic camera movement, realistic shadows, shallow depth of field, high detail, polished commercial photography, and seamless motion. End with the can centered prominently in frame, chips suspended beautifully around it, creating a satisfying hero shot. No people, no hands, no new objects, no warped branding, no distorted text, no melting, no morphing, no flickering, no camera shake. Duration: 8–10 seconds. Aspect ratio: 16:9 landscape. Motion: smooth, cinematic, realistic, premium food advertisement.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="Hyper-Realistic Pringles Commercial Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10489)**
-
-**Author:** [Aniya Intelligence](https://x.com/aniyaintel) | **Source:** [Link](https://x.com/aniyaintel/status/2096565007135961218) | **Published:** Sep 6, 2026
-
----
-### Crystal Animals Dancing
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A whimsical video prompt featuring two crystal animals dancing and singing together in a joyful mood.
-
-#### 📝 Prompt
-
-```
-Make a short video about two crystals animas dancing and singing together in the joyful and exciting mood
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096509236880834560/img/xoLV-AbfbjFhH-5m.jpg" width="600" alt="Crystal Animals Dancing">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10490)**
-
-**Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2227,6 +2215,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-16T04:33:11.403Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-16T13:36:57.692Z</sub>
 
 </div>

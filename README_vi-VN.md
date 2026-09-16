@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2821** |
+| 📝 Total Prompts | **2826** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-16** |
 
@@ -189,6 +189,106 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video Prompt: Cuộc đoàn tụ của chú chó
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt có thời lượng cho Grok Imagine mô tả cuộc đoàn tụ đầy cảm xúc giữa một người và chú chó của họ chạy dọc theo con đường.
+
+#### 📝 Prompt
+
+```
+0–2s: Một người đứng ở cuối con đường vắng lặng, đang chờ đợi.
+2–4s: Chú chó của họ đột ngột chạy về phía họ với tốc độ tối đa.
+4–5s: Họ quỳ xuống và ôm chầm lấy nhau trong khi đuôi chú chó vẫy liên tục.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099908888946757632/img/CFJ6luf7mVarsirS.jpg" width="600" alt="Grok Imagine Video Prompt: Cuộc đoàn tụ của chú chó">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10942)**
+
+**Author:** [Anandh KS](https://x.com/anandh_ks_) | **Source:** [Link](https://x.com/anandh_ks_/status/2100120751739138238) | **Published:** Sep 16, 2026
+
+---
+### Máy bay bay qua bầu trời xanh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt tạo video đơn giản cho Grok Imagine, mô tả cảnh máy bay lướt nhẹ nhàng qua bầu trời với góc quay điện ảnh.
+
+#### 📝 Prompt
+
+```
+Chiếc máy bay màu trắng và đỏ lướt nhẹ nhàng về phía trước qua bầu trời xanh, hơi nghiêng cánh, với những đám mây trôi dạt và vệt khói động cơ tinh tế. Camera theo dõi chiếc máy bay từ bên dưới, chuyển động mượt mà mang phong cách điện ảnh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100010559953317888/img/S_jbW65n9EF36D_i.jpg" width="600" alt="Máy bay bay qua bầu trời xanh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10944)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **Published:** Sep 15, 2026
+
+---
+### Grok Imagine Video Prompt: Hoa Nhện Đỏ Phát Sáng Trong Mưa
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một video prompt điện ảnh tạo ra cảnh cận cảnh hoa nhện đỏ phát sáng màu xanh trong mưa đêm, với các chuyển động máy quay chi tiết và hiệu ứng khí quyển.
+
+#### 📝 Prompt
+
+```
+Mô tả một bông hoa nhện đỏ đơn lẻ trong mưa, phát sáng màu xanh lam trong bóng tối của đêm, được thể hiện đẹp mắt qua góc quay cận cảnh với phong cách hình ảnh CG.
+Cánh hoa có nhiều giọt mưa rơi xuống, lặng lẽ tỏa ra ánh sáng trắng xanh, nhẹ nhàng chiếu sáng không gian xung quanh.
+Máy quay bắt đầu bằng cảnh cận cảnh bông hoa, từ từ theo dõi những đầu cánh hoa và phản chiếu của các giọt nước, hơi xoay quanh để làm nổi bật vẻ đẹp của nó.
+Giữa sự tĩnh lặng của đêm, hãy để lại âm thanh lay động trong gió nhẹ và sự lấp lánh khi ánh sáng xuyên qua những giọt nước.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993504810426368/img/nKyNvBwY48Xu3a_f.jpg" width="600" alt="Grok Imagine Video Prompt: Hoa Nhện Đỏ Phát Sáng Trong Mưa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10946)**
+
+**Author:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **Source:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **Published:** Sep 15, 2026
+
+---
+### Phong cách hội họa cổ điển Diogenes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Câu lệnh tạo video hoặc hoạt hình cảnh Diogenes ăn mừng trên phố, theo phong cách tranh vẽ cổ điển.
+
+#### 📝 Prompt
+
+```
+Diogenes đang ngồi và ăn mừng trên đường phố, theo phong cách của một bức tranh cổ điển
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099962866267037696/img/mFlgfiS6qltuOkaf.jpg" width="600" alt="Phong cách hội họa cổ điển Diogenes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10945)**
+
+**Author:** [McKenzie](https://x.com/mckenzie_X_X) | **Source:** [Link](https://x.com/mckenzie_X_X/status/2099962962828226725) | **Published:** Sep 15, 2026
+
+---
+### Cảnh văn phòng với màn hình hiển thị Tesla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo cảnh văn phòng chân thực, trong đó một nhân vật ngồi tại bàn làm việc với TV hiển thị các mẫu xe Tesla và được thư ký mang cà phê tới.
+
+#### 📝 Prompt
+
+```
+Tôi đang ở trong văn phòng. Tôi ngồi xuống bàn làm việc của mình. Một chiếc TV lớn treo trên tường, hiển thị tất cả các mẫu xe Tesla. Thư ký của tôi mang đến cho tôi một tách cà phê và lấy một số tài liệu từ máy in.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099914367961583616/img/YVLb2cEyvjNaX4o7.jpg" width="600" alt="Cảnh văn phòng với màn hình hiển thị Tesla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10943)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2099914455878410600) | **Published:** Sep 15, 2026
+
+---
 ### Bóng tối Anime Phong cách Tương lai Cổ điển
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2085,136 +2185,6 @@ Người Pleiades trên tàu mẹ ánh sáng, phi thuyền pha lê hình đĩa, 
 **Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **Published:** Sep 6, 2026
 
 ---
-### Chân dung điện ảnh trên ban công thành phố ngày mưa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh cực kỳ chi tiết cho khung cảnh tâm trạng với một người đàn ông mặc áo khoác đen trên ban công đầy mưa dưới ánh đèn neon tím.
-
-#### 📝 Prompt
-
-```
-Cú máy trung cảnh điện ảnh quay một chàng trai trẻ trầm tư với mái tóc đen ướt át, mặc áo khoác dài màu đen, đứng một mình trên ban công kim loại dưới mưa vào ban đêm, đôi mắt khép hờ, cằm hơi cúi, hai tay đút túi áo, những hạt mưa li ti đọng trên vải và lan can kim loại, những ống đèn neon dọc màu tím tỏa sáng xuyên qua làn sương mù dày đặc phía sau, đường chân trời thành phố xa xăm mờ ảo trong làn sương, những vệt phản chiếu ướt át trên sàn ban công, ánh sáng xanh cyan dịu nhẹ hòa quyện cùng sắc tím đậm, độ sâu trường ảnh nông, ánh sáng mang đậm chất tâm trạng, ảnh tĩnh phim chân thực, kết cấu da và vải siêu chi tiết, cảm xúc tĩnh lặng, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096470972702633984/img/hKG1eKVTNmD5EnCv.jpg" width="600" alt="Chân dung điện ảnh trên ban công thành phố ngày mưa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10480)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096667246508810460) | **Published:** Sep 6, 2026
-
----
-### Tesla Range Rover Hybrid
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một yêu cầu thiết kế ô tô nhằm kết hợp các đặc điểm ngoại thất của Range Rover với khái niệm công nghệ nội thất tối giản tiên tiến.
-
-#### 📝 Prompt
-
-```
-Hãy thiết kế cho tôi một mẫu xe Tesla có ngoại thất giống Range Rover, với nội thất trang bị ghế ngồi sang trọng và màn hình lớn
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096610323583365120/img/5EHgptPi5nzN_wnz.jpg" width="600" alt="Tesla Range Rover Hybrid">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10478)**
-
-**Author:** [Tammy BB](https://x.com/BbTammy) | **Source:** [Link](https://x.com/BbTammy/status/2096610338301239374) | **Published:** Sep 6, 2026
-
----
-### Prompt video hài hước về chú chuột lập trình viên
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết gồm nhiều cảnh để tạo video điện ảnh hài hước dài 10 giây về một chú chuột nhân hóa làm nghề lập trình viên đang đối mặt với lỗi code gây ức chế và người vợ hay càm ràm.
-
-#### 📝 Prompt
-
-```
-Tạo một phân cảnh điện ảnh hài hước dài 10 giây với nhân vật chính là một chú chuột nhân hóa đang làm công việc lập trình viên.
-
-Chú chuột ngồi tại bàn làm việc bừa bộn vào đêm khuya, bộ lông hơi rối, đeo kính nhỏ và mặc áo hoodie. Nhiều màn hình hiển thị các dòng code trừu tượng, hư cấu. Chú gõ phím nhanh chóng, rồi đột nhiên gặp phải một lỗi gây ức chế trên màn hình.
-
-Chú thở dài thườn thượt, xoa mặt và lầm bầm đầy bực bội. Ở phía sau, cô vợ chuột vẫn đang nói chuyện oang oảng từ phòng khác. Chú chuột khựng lại, nhìn về phía cửa với vẻ mặt kiệt sức, rồi từ từ quay lại máy tính và tiếp tục gõ phím.
-
-Nhịp điệu hài hước, hoạt ảnh biểu cảm khuôn mặt, chuyển động chuột chân thực, bộ lông chi tiết, nội thất căn hộ ấm cúng, đèn bàn ấm áp, ánh sáng màn hình tinh tế, chuyển động máy quay điện ảnh, ngôn ngữ cơ thể tự nhiên.
-
-Máy quay bắt đầu bằng cảnh trung (medium shot) chú chuột đang lập trình, từ từ tiến lại gần khuôn mặt đầy vẻ thất vọng, sau đó chuyển cảnh sang phản ứng của chú khi nghe thấy tiếng vợ.
-
-Bao gồm lời thoại hài hước tự nhiên:
-Chuột: "Mình có thể sửa code... nhưng không thể sửa được cuộc hôn nhân này."
-
-Vợ (ngoài màn hình): "EM ĐÃ NGHE THẤY ĐẤY!"
-
-Chú chuột đứng hình và nhìn vào máy quay với vẻ lo lắng.
-
-Tỷ lệ 16:9, 10 giây, chất lượng điện ảnh, hoạt ảnh mượt mà, ánh sáng chân thực, nhân vật biểu cảm, lời thoại rõ ràng, khớp khẩu hình chính xác, không logo, không nhân vật có bản quyền, không văn bản hoặc hình mờ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096609928710594560/img/DrQhhAaXfwieUn3P.jpg" width="600" alt="Prompt video hài hước về chú chuột lập trình viên">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10615)**
-
-**Author:** [Snow](https://x.com/iamrealsnow) | **Source:** [Link](https://x.com/iamrealsnow/status/2096610006376558614) | **Published:** Sep 6, 2026
-
----
-### Hoạt ảnh quảng cáo Pringles phong cách điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chuyên nghiệp và chi tiết để tạo hoạt ảnh quảng cáo thực phẩm cao cấp với hình ảnh lon Pringles xoay và những lát khoai tây rơi.
-
-#### 📝 Prompt
-
-```
-Tạo một hoạt ảnh quảng cáo thực phẩm phong cách điện ảnh, siêu thực và cao cấp từ hình ảnh Pringles được cung cấp.
-
-Giữ nguyên lon Pringles, thương hiệu, kiểu chữ, màu sắc, nền và bố cục tổng thể. Không thiết kế lại hoặc thay thế bất kỳ yếu tố nào.
-
-Hoạt ảnh bắt đầu với lon Pringles xoay nhẹ và nghiêng về phía trước trong khi máy quay từ từ tiến lại gần. Những lát khoai tây vàng óng bay lên tự nhiên từ lon đang mở theo chuyển động chậm mượt mà, xoay và nhào lộn riêng lẻ với hiệu ứng vật lý chân thực. Những mảnh vụn nhỏ bay lơ lửng trong không trung và bắt sáng trong studio.
-
-Nắp lon Pringles màu đỏ xoay chậm giữa không trung và di chuyển nhẹ về phía máy quay trước khi trôi ngược trở lại. Thêm hiệu ứng độ sâu trường ảnh (depth-of-field) chân thực, những mảnh vụn nhỏ bay lơ lửng, hiệu ứng nhòe chuyển động tự nhiên, độ bóng trên lon và các hình ảnh phản chiếu tinh tế.
-
-Làm cho các lát khoai tây trông giòn và nhẹ, với trọng lực và va chạm đáng tin cậy. Lon phải giữ nguyên vị trí ổn định và sắc nét trong khi các lát khoai tây bay tạo nên chuyển động chính.
-
-Sử dụng phong cách quảng cáo sang trọng, mượt mà: ánh sáng studio ấn tượng, chuyển động máy quay điện ảnh, đổ bóng thực tế, độ sâu trường ảnh nông, chi tiết cao, phong cách nhiếp ảnh thương mại chuyên nghiệp và chuyển động liền mạch.
-
-Kết thúc bằng hình ảnh lon nằm chính giữa khung hình, các lát khoai tây được treo lơ lửng một cách đẹp mắt xung quanh, tạo nên một cảnh quay ấn tượng.
-
-Không có người, không có bàn tay, không thêm vật thể mới, không làm biến dạng thương hiệu, không làm méo văn bản, không tan chảy, không biến đổi hình dạng, không nhấp nháy, không rung lắc máy quay.
-
-Thời lượng: 8–10 giây.
-Tỷ lệ khung hình: 16:9 ngang.
-Chuyển động: mượt mà, đậm chất điện ảnh, chân thực, quảng cáo thực phẩm cao cấp.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="Hoạt ảnh quảng cáo Pringles phong cách điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10489)**
-
-**Author:** [Aniya Intelligence](https://x.com/aniyaintel) | **Source:** [Link](https://x.com/aniyaintel/status/2096565007135961218) | **Published:** Sep 6, 2026
-
----
-### Vũ điệu của những linh vật pha lê
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt đầy sáng tạo với hình ảnh hai linh vật pha lê đang cùng nhau nhảy múa và ca hát trong một bầu không khí vui tươi.
-
-#### 📝 Prompt
-
-```
-Hãy tạo một video ngắn về hai linh vật pha lê đang cùng nhau nhảy múa và ca hát trong bầu không khí vui vẻ và đầy phấn khích
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096509236880834560/img/xoLV-AbfbjFhH-5m.jpg" width="600" alt="Vũ điệu của những linh vật pha lê">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10490)**
-
-**Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2276,6 +2246,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-16T04:33:20.070Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-16T13:37:05.417Z</sub>
 
 </div>

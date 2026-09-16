@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2821** |
+| 📝 총 프롬프트 수 | **2826** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-09-16** |
 
@@ -189,6 +189,106 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Grok Imagine 영상 프롬프트: 강아지와의 재회
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 도로를 달려오는 주인과 강아지의 감동적인 재회를 묘사한 Grok Imagine용 타임라인 기반 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+0–2초: 한 사람이 조용한 도로 끝에서 서서 기다리고 있습니다.
+2–4초: 그의 강아지가 갑자기 전속력으로 그에게 달려옵니다.
+4–5초: 그가 무릎을 꿇고 안으며, 강아지는 꼬리를 빠르게 흔듭니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099908888946757632/img/CFJ6luf7mVarsirS.jpg" width="600" alt="Grok Imagine 영상 프롬프트: 강아지와의 재회">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10942)**
+
+**작성자:** [Anandh KS](https://x.com/anandh_ks_) | **출처:** [Link](https://x.com/anandh_ks_/status/2100120751739138238) | **게시일:** Sep 16, 2026
+
+---
+### 푸른 하늘을 나는 비행기
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine에서 비행기가 시네마틱 카메라 트래킹으로 하늘을 부드럽게 날아가는 장면을 묘사하는 간단한 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+흰색과 빨간색의 비행기가 푸른 하늘을 부드럽게 전진하며 약간 기울어지고, 구름이 지나가며 미묘한 엔진 잔상이 보입니다. 카메라는 아래쪽에서 항공기를 추적하며, 시네마틱하고 유동적인 움직임을 보여줍니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100010559953317888/img/S_jbW65n9EF36D_i.jpg" width="600" alt="푸른 하늘을 나는 비행기">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10944)**
+
+**작성자:** [Owen](https://x.com/owenxplore) | **출처:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **게시일:** Sep 15, 2026
+
+---
+### Grok Imagine Video Prompt: Glowing Spider Lily in Rain
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A cinematic video prompt creating a close-up of a red spider lily glowing blue in the rain at night, with detailed camera movements and atmospheric effects.
+
+#### 📝 프롬프트
+
+```
+Depict a single red spider lily in the rain, glowing blue in the darkness of night, shown beautifully in close-up with a CG-style visual.
+The petals have many raindrops dripping down, quietly emitting a bluish-white light, softly illuminating the surrounding air.
+The camera starts with a close-up of the flower, slowly following the tips of the petals and reflections of water droplets, slightly circling around to highlight its beauty.
+Amidst the quietness of the night, leave the sound of swaying in the faint wind and the shimmering when light passes through water droplets.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993504810426368/img/nKyNvBwY48Xu3a_f.jpg" width="600" alt="Grok Imagine Video Prompt: Glowing Spider Lily in Rain">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10946)**
+
+**작성자:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **출처:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **게시일:** Sep 15, 2026
+
+---
+### 디오게네스 고전 회화 스타일
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 고전 회화 스타일로 거리에서 기뻐하는 디오게네스의 영상 또는 애니메이션을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+거리에서 앉아 기뻐하는 디오게네스를 고전 회화 스타일로 표현
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099962866267037696/img/mFlgfiS6qltuOkaf.jpg" width="600" alt="디오게네스 고전 회화 스타일">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10945)**
+
+**작성자:** [McKenzie](https://x.com/mckenzie_X_X) | **출처:** [Link](https://x.com/mckenzie_X_X/status/2099962962828226725) | **게시일:** Sep 15, 2026
+
+---
+### 오피스 장면: Tesla 디스플레이
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 비서가 커피를 가져다주는 책상에 앉아 TV에 Tesla 모델이 표시되는 현실적인 오피스 장면을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+저는 사무실에 있습니다. 제 책상에 앉습니다. 벽에는 큰 TV가 걸려 있으며, 모든 Tesla 모델이 표시됩니다. 비서는 저에게 커피 한 잔을 가져다주고 프린터에서 서류 몇 장을 챙깁니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099914367961583616/img/YVLb2cEyvjNaX4o7.jpg" width="600" alt="오피스 장면: Tesla 디스플레이">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10943)**
+
+**작성자:** [Jarosław Justka](https://x.com/jaras70berlin) | **출처:** [Link](https://x.com/jaras70berlin/status/2099914455878410600) | **게시일:** Sep 15, 2026
+
+---
 ### 레트로 퓨처리즘 애니메이션 실루엣
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2084,136 +2184,6 @@ Alice @Reference3 와 Dani @Reference2 가 조리대에서 채소를 썰며 Elar
 **작성자:** [Pleiadians Paradise](https://x.com/Octillion111111) | **출처:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **게시일:** Sep 6, 2026
 
 ---
-### 영화 같은 빗속의 도시 발코니 인물 사진
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 보라색 네온 조명이 비치는 빗속 발코니에서 검은 코트를 입은 남자의 분위기 있는 장면을 위한 고품질 영화적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-밤, 비 내리는 금속 발코니에 홀로 서 있는 젖은 흑발의 차분한 청년을 담은 영화 같은 미디엄 샷. 긴 검은색 코트를 입고 눈을 부드럽게 감은 채 턱을 살짝 내리고 주머니에 손을 넣은 모습. 옷감과 금속 난간에 맺힌 미세한 빗방울, 등 뒤의 짙은 안개 속에서 빛나는 보라색 네온 수직 조명, 흐릿하게 처리된 먼 도시의 스카이라인, 발코니 바닥에 비친 젖은 반사광. 차가운 청록색 빛과 깊은 보랏빛 번짐이 섞인 조명, 얕은 피사계 심도, 분위기 있는 조명 연출, 사실적인 영화 스틸 컷, 매우 상세한 피부와 옷감 질감, 정적인 감정 표현, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096470972702633984/img/hKG1eKVTNmD5EnCv.jpg" width="600" alt="영화 같은 빗속의 도시 발코니 인물 사진">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10480)**
-
-**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2096667246508810460) | **게시일:** Sep 6, 2026
-
----
-### Tesla Range Rover 하이브리드
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Range Rover의 차체 디자인과 Tesla의 미니멀한 첨단 내부 기술 컨셉을 결합하기 위한 자동차 디자인 요청입니다.
-
-#### 📝 프롬프트
-
-```
-외관은 Range Rover를 닮았고, 내부는 고급스러운 시트와 대형 스크린을 갖춘 Tesla 모델을 디자인해 주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096610323583365120/img/5EHgptPi5nzN_wnz.jpg" width="600" alt="Tesla Range Rover 하이브리드">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10478)**
-
-**작성자:** [Tammy BB](https://x.com/BbTammy) | **출처:** [Link](https://x.com/BbTammy/status/2096610338301239374) | **게시일:** Sep 6, 2026
-
----
-### 유머러스한 소프트웨어 개발자 쥐 영상 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 소프트웨어 개발자로 일하는 의인화된 쥐가 골치 아픈 코드 오류와 잔소리하는 아내 사이에서 겪는 상황을 담은 10초 분량의 유머러스하고 영화 같은 영상 제작용 상세 다중 장면 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-소프트웨어 개발자로 일하는 독창적인 의인화된 쥐가 등장하는 10초 분량의 유머러스하고 영화 같은 장면을 만드세요.
-
-쥐는 늦은 밤 어질러진 책상 앞에 앉아 있으며, 털은 약간 헝클어져 있고 작은 안경과 후드티를 착용하고 있습니다. 여러 대의 모니터에는 추상적이고 가상의 컴퓨터 코드 줄이 표시됩니다. 쥐가 빠르게 타이핑하다가 갑자기 화면에 골치 아픈 오류가 나타납니다.
-
-쥐는 깊은 한숨을 내쉬며 얼굴을 문지르고 좌절 섞인 혼잣말을 합니다. 배경에서는 다른 방에 있는 쥐 아내가 계속해서 크게 잔소리를 합니다. 쥐는 잠시 멈추고 지친 표정으로 문 쪽을 바라본 뒤, 천천히 다시 컴퓨터로 고개를 돌려 타이핑을 시작합니다.
-
-코믹한 타이밍, 풍부한 표정 애니메이션, 사실적인 쥐의 움직임, 디테일한 털 묘사, 아늑한 아파트 내부, 따뜻한 책상 조명, 은은한 모니터 불빛, 영화 같은 카메라 무빙, 자연스러운 바디 랭귀지를 포함하세요.
-
-카메라는 코딩하는 쥐의 미디엄 샷으로 시작하여 좌절한 얼굴 쪽으로 천천히 줌인한 뒤, 아내의 목소리를 듣고 반응하는 샷으로 전환됩니다.
-
-자연스러운 코믹 대사를 포함하세요:
-쥐: "코드는 고칠 수 있어... 하지만 내 결혼 생활은 고칠 수 없지."
-
-아내 (화면 밖): "다 들었어!"
-
-쥐는 얼어붙은 채 긴장한 표정으로 카메라를 쳐다봅니다.
-
-16:9 가로 화면, 10초, 영화 같은 품질, 부드러운 애니메이션, 사실적인 조명, 생동감 넘치는 캐릭터, 명확한 대사, 정확한 립싱크, 로고 없음, 저작권이 있는 캐릭터 없음, 텍스트나 워터마크 없음.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096609928710594560/img/DrQhhAaXfwieUn3P.jpg" width="600" alt="유머러스한 소프트웨어 개발자 쥐 영상 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10615)**
-
-**작성자:** [Snow](https://x.com/iamrealsnow) | **출처:** [Link](https://x.com/iamrealsnow/status/2096610006376558614) | **게시일:** Sep 6, 2026
-
----
-### 프링글스 시네마틱 광고 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 회전하는 프링글스 캔과 떨어지는 칩을 특징으로 하는 고급 식품 광고 애니메이션 제작을 위한 고도로 상세한 전문 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-제공된 프링글스 이미지를 사용하여 프리미엄 하이퍼 리얼리스틱 시네마틱 식품 광고 애니메이션을 제작하세요.
-
-프링글스 캔, 브랜딩, 타이포그래피, 색상, 배경 및 전체적인 구성을 정확하게 유지하세요. 어떤 요소도 재설계하거나 교체하지 마세요.
-
-애니메이션은 프링글스 캔이 부드럽게 회전하며 앞으로 기울어지고 카메라가 천천히 다가가는 것으로 시작합니다. 황금빛 칩은 열린 캔에서 자연스럽게 떠오르며 부드러운 슬로우 모션으로 회전하고, 실제 물리 법칙에 따라 개별적으로 굴러떨어집니다. 작은 부스러기들이 공중에 떠다니며 스튜디오 조명을 받습니다.
-
-빨간색 프링글스 뚜껑은 공중에서 천천히 회전하며 카메라 쪽으로 미세하게 움직였다가 다시 뒤로 물러납니다. 사실적인 피사계 심도, 떠다니는 작은 부스러기, 자연스러운 모션 블러, 캔의 광택 하이라이트 및 미묘한 반사 효과를 추가하세요.
-
-칩이 바삭하고 가벼운 느낌이 들도록 하며, 믿을 수 있는 중력과 충돌 효과를 적용하세요. 캔은 안정적이고 선명하게 유지하면서 떠다니는 칩들이 주요 움직임을 만들어내도록 하세요.
-
-부드러운 럭셔리 광고 스타일을 사용하세요: 드라마틱한 스튜디오 조명, 시네마틱 카메라 무빙, 사실적인 그림자, 얕은 피사계 심도, 높은 디테일, 세련된 상업 사진 느낌, 매끄러운 움직임.
-
-마지막에는 캔이 프레임 중앙에 돋보이게 위치하고 칩들이 그 주변에 아름답게 떠 있는 만족스러운 히어로 샷으로 마무리하세요.
-
-사람, 손, 새로운 물체, 왜곡된 브랜딩, 일그러진 텍스트, 녹아내림, 변형, 깜빡임, 카메라 흔들림은 없어야 합니다.
-
-길이: 8~10초.
-화면 비율: 16:9 가로형.
-움직임: 부드러움, 시네마틱, 사실적, 프리미엄 식품 광고.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="프링글스 시네마틱 광고 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10489)**
-
-**작성자:** [Aniya Intelligence](https://x.com/aniyaintel) | **출처:** [Link](https://x.com/aniyaintel/status/2096565007135961218) | **게시일:** Sep 6, 2026
-
----
-### 춤추는 크리스탈 동물들
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 두 마리의 크리스탈 동물이 즐거운 분위기 속에서 함께 춤추고 노래하는 기발한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-즐겁고 신나는 분위기 속에서 두 마리의 크리스탈 동물이 함께 춤추고 노래하는 짧은 영상을 만들어 주세요
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096509236880834560/img/xoLV-AbfbjFhH-5m.jpg" width="600" alt="춤추는 크리스탈 동물들">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10490)**
-
-**작성자:** [Binh Nguyen](https://x.com/binhbb2) | **출처:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **게시일:** Sep 6, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2275,6 +2245,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-16T04:33:16.231Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-16T13:37:03.231Z</sub>
 
 </div>

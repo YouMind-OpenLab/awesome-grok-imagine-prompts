@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2821** |
+| 📝 プロンプト総数 | **2826** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-16** |
 
@@ -189,6 +189,106 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Grok Imagine ビデオプロンプト: 犬との再会
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 静かな道路を走って愛犬と感動的な再会を果たす場面を描いた、Grok Imagine 用のタイムライン付きビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+0〜2秒: 静かな道路の端で、一人の人が待っている。
+2〜4秒: その人の愛犬が全速力で駆け寄ってくる。
+4〜5秒: 膝をついて抱きしめると、犬は尻尾を激しく振る。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099908888946757632/img/CFJ6luf7mVarsirS.jpg" width="600" alt="Grok Imagine ビデオプロンプト: 犬との再会">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10942)**
+
+**作者:** [Anandh KS](https://x.com/anandh_ks_) | **ソース:** [Link](https://x.com/anandh_ks_/status/2100120751739138238) | **公開日:** Sep 16, 2026
+
+---
+### 青空を飛ぶ飛行機
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine で使用するための、映画のようなカメラワークで青空を滑らかに飛ぶ飛行機を描くシンプルな動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+白と赤の飛行機が青空を滑らかに前方へ進み、わずかに傾きながら雲間を抜け、エンジンからの薄い軌跡を残します。カメラは下方から航空機を追跡し、シネマティックで流れるような動きを捉えます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100010559953317888/img/S_jbW65n9EF36D_i.jpg" width="600" alt="青空を飛ぶ飛行機">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10944)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **公開日:** Sep 15, 2026
+
+---
+### Grok Imagine Video Prompt: Rainy Night Glowing Spider Lily
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A cinematic video prompt creating a close-up of a red spider lily glowing blue in the rain at night, with detailed camera movements and atmospheric effects.
+
+#### 📝 プロンプト
+
+```
+Depict a single red spider lily in the rain, glowing blue in the darkness of night, shown beautifully in close-up with a CG-style visual.
+The petals have many raindrops dripping down, quietly emitting a bluish-white light, softly illuminating the surrounding air.
+The camera starts with a close-up of the flower, slowly following the tips of the petals and reflections of water droplets, slightly circling around to highlight its beauty.
+Amidst the quietness of the night, leave the sound of swaying in the faint wind and the shimmering when light passes through water droplets.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993504810426368/img/nKyNvBwY48Xu3a_f.jpg" width="600" alt="Grok Imagine Video Prompt: Rainy Night Glowing Spider Lily">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10946)**
+
+**作者:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **ソース:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **公開日:** Sep 15, 2026
+
+---
+### ディオゲネスの古典絵画風スタイル
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ストリートで祝祭を繰り広げるディオゲネスを、古典絵画のようなスタイルで生成するための動画またはアニメーション用プロンプト。
+
+#### 📝 プロンプト
+
+```
+古典絵画のスタイルで、路上に座って祝祭を楽しむディオゲネス
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099962866267037696/img/mFlgfiS6qltuOkaf.jpg" width="600" alt="ディオゲネスの古典絵画風スタイル">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10945)**
+
+**作者:** [McKenzie](https://x.com/mckenzie_X_X) | **ソース:** [Link](https://x.com/mckenzie_X_X/status/2099962962828226725) | **公開日:** Sep 15, 2026
+
+---
+### テスラディスプレイを備えたオフィスシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクターがデスクに座り、壁掛けテレビでテスラのモデルを表示し、秘書からコーヒーを受け取るリアルなオフィスシーンを生成するためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+私はオフィスにいる。私のデスクに座る。壁には大きなテレビが掛かっており、すべてのテスラ モデルを表示している。秘書がコーヒーのカップを持ってきてくれ、プリンターから書類を受け取っている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099914367961583616/img/YVLb2cEyvjNaX4o7.jpg" width="600" alt="テスラディスプレイを備えたオフィスシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10943)**
+
+**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **ソース:** [Link](https://x.com/jaras70berlin/status/2099914455878410600) | **公開日:** Sep 15, 2026
+
+---
 ### レトロフューリズム風アニメシルエット
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2084,136 +2184,6 @@ Nissan Sentra の車内全体と背景を、高級感のあるモダンな赤の
 **作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **ソース:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **公開日:** Sep 6, 2026
 
 ---
-### 映画のような雨の街のバルコニーでのポートレート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 紫色のネオンが輝く雨のバルコニーで、黒いコートを着た男性が佇む、ムードのあるシーンのための非常に詳細なシネマティックプロンプト。
-
-#### 📝 プロンプト
-
-```
-夜の雨に濡れた金属製のバルコニーに一人で立つ、黒いロングコートを着た物静かな青年のシネマティックなミディアムショット。濡れた黒髪、目を静かに閉じ、顎をわずかに引き、両手はコートのポケットに入れている。生地や金属の手すりに付着する細かい雨粒、背後の濃い霧の中で輝く紫色のネオンの垂直ライト、霧に霞む遠くの街のスカイライン、バルコニーの床に映る濡れた反射。深いバイオレットの光が混ざり合うクールなシアンの光、浅い被写界深度、ムードのある雰囲気の照明、フォトリアルな映画のワンシーン、肌や生地の超高精細な質感、静かな感情の存在感、Grok Imagine。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096470972702633984/img/hKG1eKVTNmD5EnCv.jpg" width="600" alt="映画のような雨の街のバルコニーでのポートレート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10480)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2096667246508810460) | **公開日:** Sep 6, 2026
-
----
-### Tesla Range Rover ハイブリッド
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Range Rover のボディデザインと、先進的でミニマルな内部テクノロジーコンセプトを融合させる自動車デザインの提案。
-
-#### 📝 プロンプト
-
-```
-外観は Range Rover のようなデザインで、内装には高級シートと大型スクリーンを備えた Tesla モデルをデザインしてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096610323583365120/img/5EHgptPi5nzN_wnz.jpg" width="600" alt="Tesla Range Rover ハイブリッド">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10478)**
-
-**作者:** [Tammy BB](https://x.com/BbTammy) | **ソース:** [Link](https://x.com/BbTammy/status/2096610338301239374) | **公開日:** Sep 6, 2026
-
----
-### ユーモラスなソフトウェア開発者のネズミの動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ソフトウェア開発者として働く擬人化されたネズミが、厄介なコードエラーや話しかけてくる妻に翻弄される様子を描いた、10 秒間のユーモラスで映画のような動画を作成するための詳細なマルチシーンプロンプト。
-
-#### 📝 プロンプト
-
-```
-ソフトウェア開発者として働く、オリジナルの擬人化されたネズミが登場する 10 秒間のユーモラスで映画のようなシーンを作成してください。
-
-ネズミは深夜、散らかったデスクでパソコンに向かっており、毛並みは少し乱れ、小さなメガネをかけてパーカーを着ています。複数のモニターには架空の抽象的なプログラムコードが表示されています。ネズミは高速でタイピングをしていますが、突然画面に厄介なエラーが表示されます。
-
-ネズミは深いため息をつき、顔をこすりながら苛立ちをあらわにします。背景では、別の部屋からネズミの妻が大きな声で話し続けています。ネズミは動きを止め、疲れ切った表情で戸口の方を見つめた後、ゆっくりとパソコンに向き直り、再びタイピングを始めます。
-
-コメディのタイミング、表情豊かなアニメーション、リアルなネズミの動き、詳細な毛並み、居心地の良いアパートのインテリア、温かみのあるデスクライト、モニターのほのかな光、映画のようなカメラワーク、自然なボディランゲージを表現してください。
-
-カメラはコーディング中のネズミのミディアムショットから始まり、苛立つ表情に向かってゆっくりとズームインし、妻の声を聞いた時のリアクションショットへと切り替わります。
-
-自然なコメディ調のセリフを含めてください：
-ネズミ：「コードは直せるけど……結婚生活は直せないよ」
-
-妻（画面外）：「聞こえてるわよ！」
-
-ネズミは凍りつき、緊張した様子でカメラを見つめます。
-
-16:9 のランドスケープ、10 秒間、映画品質、滑らかなアニメーション、リアルなライティング、表情豊かなキャラクター、明瞭なセリフ、正確なリップシンク、ロゴなし、著作権のあるキャラクターなし、テキストやウォーターマークなし。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096609928710594560/img/DrQhhAaXfwieUn3P.jpg" width="600" alt="ユーモラスなソフトウェア開発者のネズミの動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10615)**
-
-**作者:** [Snow](https://x.com/iamrealsnow) | **ソース:** [Link](https://x.com/iamrealsnow/status/2096610006376558614) | **公開日:** Sep 6, 2026
-
----
-### Pringles のシネマティックな広告アニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 回転する Pringles の缶と舞い落ちるチップスをフィーチャーした、高級感のある食品広告アニメーションを作成するための詳細なプロフェッショナル向けプロンプト。
-
-#### 📝 プロンプト
-
-```
-提供された Pringles の画像から、プレミアムでハイパーリアルなシネマティック食品広告アニメーションを作成してください。
-
-Pringles の缶、ブランディング、タイポグラフィ、色、背景、全体の構図は一切変更しないでください。要素の再設計や置き換えは禁止です。
-
-アニメーションは、Pringles の缶がゆっくりと回転しながら前方に傾き、カメラがゆっくりとズームインするところから始まります。黄金色のチップスが、開いた缶から自然に立ち上がり、リアルな物理演算に基づいて滑らかにスローモーションで回転・落下します。小さな破片が空中を漂い、スタジオの光を反射させます。
-
-赤い Pringles の蓋が空中でゆっくりと回転し、カメラに向かってわずかに移動してから戻ります。リアルな被写界深度、舞い散る小さな破片、自然なモーションブラー、缶の光沢のあるハイライト、繊細な反射を追加してください。
-
-チップスは、信憑性のある重力と衝突を伴う、サクサクとした軽量感のあるものにしてください。缶は安定したシャープな状態を保ち、浮遊するチップスがメインの動きを作り出します。
-
-滑らかで高級感のある広告スタイルを採用してください：ドラマチックなスタジオ照明、シネマティックなカメラワーク、リアルな影、浅い被写界深度、高精細、洗練された広告写真のような質感、そしてシームレスな動き。
-
-最後は、缶をフレームの中央に配置し、その周囲にチップスが美しく浮遊する、満足感のあるヒーローショットで締めくくってください。
-
-人物や手は含めず、新しいオブジェクトの追加、ブランディングの歪み、テキストの変形、溶け、モーフィング、ちらつき、カメラの揺れは禁止です。
-
-長さ：8 ～ 10 秒。
-アスペクト比：16:9（横長）。
-動き：滑らか、シネマティック、リアル、プレミアムな食品広告。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="Pringles のシネマティックな広告アニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10489)**
-
-**作者:** [Aniya Intelligence](https://x.com/aniyaintel) | **ソース:** [Link](https://x.com/aniyaintel/status/2096565007135961218) | **公開日:** Sep 6, 2026
-
----
-### クリスタルアニマルのダンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 2 匹のクリスタルアニマルが楽しそうに歌いながら踊る、幻想的なビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-2 匹のクリスタルアニマルが楽しげでワクワクする雰囲気の中、一緒に歌いながら踊っている短い動画を作成してください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096509236880834560/img/xoLV-AbfbjFhH-5m.jpg" width="600" alt="クリスタルアニマルのダンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10490)**
-
-**作者:** [Binh Nguyen](https://x.com/binhbb2) | **ソース:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **公開日:** Sep 6, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2275,6 +2245,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-16T04:33:15.131Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-16T13:37:01.954Z</sub>
 
 </div>

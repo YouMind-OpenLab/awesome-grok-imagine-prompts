@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2821** |
+| 📝 提示词总数 | **2826** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-16** |
 
@@ -189,6 +189,106 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Grok Imagine 视频提示词：狗狗重逢
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的带时间轴的视频提示词，描绘了人与狗在道路上奔跑相拥的感人重逢场景。
+
+#### 📝 提示词
+
+```
+0–2s: 一个人站在安静道路的尽头，静静等待。
+2–4s: 他们的狗突然以全速向他们奔来。
+4–5s: 他们跪下拥抱，狗的尾巴快速摇摆。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099908888946757632/img/CFJ6luf7mVarsirS.jpg" width="600" alt="Grok Imagine 视频提示词：狗狗重逢">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10942)**
+
+**作者:** [Anandh KS](https://x.com/anandh_ks_) | **来源:** [Link](https://x.com/anandh_ks_/status/2100120751739138238) | **发布时间:** Sep 16, 2026
+
+---
+### 飞机在蓝天中飞行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 Grok Imagine 的简单视频生成提示词，描绘了飞机在天空中平稳飞行，并配有电影感的镜头追踪。
+
+#### 📝 提示词
+
+```
+一架红白相间的飞机在蓝天中平稳向前飞行，略微倾斜，云朵飘过，留下淡淡的引擎尾迹。镜头从下方追踪飞机，呈现出流畅的电影感运动画面。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100010559953317888/img/S_jbW65n9EF36D_i.jpg" width="600" alt="飞机在蓝天中飞行">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10944)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **发布时间:** Sep 15, 2026
+
+---
+### Grok Imagine 视频提示词：雨中发光的彼岸花
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个电影感的视频提示词，描绘了夜晚雨中一朵红色彼岸花在黑暗中发出蓝色光芒的特写镜头，包含详细的运镜指令和氛围特效。
+
+#### 📝 提示词
+
+```
+描绘雨中的一朵红色彼岸花，在漆黑的夜色中散发着幽蓝的光芒，以 CG 风格的视觉效果呈现精美的特写。
+花瓣上挂着许多滴落的水珠，静静散发出蓝白色的微光，柔和地照亮周围的空气。
+镜头从花朵特写开始，缓慢跟随花瓣尖端和水滴的反光，轻微环绕以凸显其美感。
+在静谧的夜晚中，保留微风拂过的摇曳声以及光线穿过水滴时的闪烁效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993504810426368/img/nKyNvBwY48Xu3a_f.jpg" width="600" alt="Grok Imagine 视频提示词：雨中发光的彼岸花">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10946)**
+
+**作者:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **来源:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **发布时间:** Sep 15, 2026
+
+---
+### 第欧根尼古典绘画风格
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段视频或动画的提示词，展示第欧根尼在街头庆祝的场景，采用古典绘画风格。
+
+#### 📝 提示词
+
+```
+以古典绘画风格呈现第欧根尼坐在街头庆祝的画面
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099962866267037696/img/mFlgfiS6qltuOkaf.jpg" width="600" alt="第欧根尼古典绘画风格">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10945)**
+
+**作者:** [McKenzie](https://x.com/mckenzie_X_X) | **来源:** [Link](https://x.com/mckenzie_X_X/status/2099962962828226725) | **发布时间:** Sep 15, 2026
+
+---
+### 展示特斯拉的办公室场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成逼真办公室场景的提示词：角色坐在办公桌前，墙上的电视显示着特斯拉车型，秘书送来咖啡。
+
+#### 📝 提示词
+
+```
+我在办公室里。我坐到我的办公桌前。墙上挂着一台大电视，屏幕上显示着所有特斯拉车型。我的秘书给我端来一杯咖啡，并从打印机上取走了一些文件。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099914367961583616/img/YVLb2cEyvjNaX4o7.jpg" width="600" alt="展示特斯拉的办公室场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10943)**
+
+**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **来源:** [Link](https://x.com/jaras70berlin/status/2099914455878410600) | **发布时间:** Sep 15, 2026
+
+---
 ### 复古未来主义动漫剪影
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2085,136 +2185,6 @@ Alice @Reference3 和 Dani @Reference2 正在台面上切菜，并开始像 Elar
 **作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **来源:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **发布时间:** Sep 6, 2026
 
 ---
-### 电影感雨夜城市阳台肖像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度细节化的电影感提示词，描绘了一个身穿黑色大衣的男子在紫色霓虹灯下的雨天阳台上的忧郁场景。
-
-#### 📝 提示词
-
-```
-电影感中景镜头，一位安静的年轻男子，深色湿发，身穿长款黑色大衣，独自站在夜晚雨中的金属阳台上，双眼轻闭，下巴微垂，双手插在衣兜里，细雨在衣物和金属栏杆上凝结成珠，身后浓雾中透出紫色霓虹灯管的微光，远处的城市天际线在雾气中变得柔和，阳台地面上有湿润的倒影，冷青色光晕与深紫色光斑交织，浅景深，忧郁的氛围照明，照片级电影剧照，超精细的皮肤与织物纹理，安静的情感表达，Grok Imagine。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096470972702633984/img/hKG1eKVTNmD5EnCv.jpg" width="600" alt="电影感雨夜城市阳台肖像">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10480)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2096667246508810460) | **发布时间:** Sep 6, 2026
-
----
-### Tesla Range Rover 混合动力车型
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一项汽车设计需求，旨在将 Range Rover 的车身特征与先进的极简主义内部科技理念相融合。
-
-#### 📝 提示词
-
-```
-请为我设计一款 Tesla 车型，外观采用 Range Rover 的设计风格，内饰配备豪华座椅和大尺寸屏幕。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096610323583365120/img/5EHgptPi5nzN_wnz.jpg" width="600" alt="Tesla Range Rover 混合动力车型">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10478)**
-
-**作者:** [Tammy BB](https://x.com/BbTammy) | **来源:** [Link](https://x.com/BbTammy/status/2096610338301239374) | **发布时间:** Sep 6, 2026
-
----
-### 幽默软件开发人员老鼠视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详细的多场景提示词，用于创作一段 10 秒钟幽默的电影级视频，内容为一只拟人化的老鼠作为软件开发人员，面对令人沮丧的代码错误以及正在说话的妻子。
-
-#### 📝 提示词
-
-```
-创作一段 10 秒钟幽默的电影级场景，主角是一只拟人化的老鼠，职业为软件开发人员。
-
-深夜，这只老鼠坐在杂乱的电脑桌前，毛发略显凌乱，戴着一副小眼镜，穿着连帽衫。多台显示器上显示着抽象的虚构代码。他快速敲击键盘，屏幕上突然出现了一个令人沮丧的错误。
-
-他长叹一声，揉了揉脸，沮丧地嘟囔着。背景中，他的老鼠妻子在另一个房间里大声说着话。老鼠停顿了一下，带着疲惫的表情看向门口，随后慢慢转回电脑前继续敲击键盘。
-
-喜剧节奏、生动的面部动画、逼真的老鼠动作、细腻的毛发、温馨的公寓内饰、温暖的台灯、柔和的显示器光影、电影级运镜、自然的肢体语言。
-
-镜头以中景开始，拍摄老鼠编写代码的过程，缓慢推近至他沮丧的脸部，随后切换至他听到妻子声音时的反应镜头。
-
-包含自然的喜剧对话：
-老鼠：“我可以修复代码……但我无法修复我的婚姻。”
-
-妻子（画外音）：“我听到了！”
-
-老鼠僵住了，紧张地看向镜头。
-
-16:9 横屏，10 秒，电影级画质，流畅动画，逼真光影，生动的角色，清晰的对话，精准的口型同步，无 Logo，无受版权保护的角色，无文字或水印。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096609928710594560/img/DrQhhAaXfwieUn3P.jpg" width="600" alt="幽默软件开发人员老鼠视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10615)**
-
-**作者:** [Snow](https://x.com/iamrealsnow) | **来源:** [Link](https://x.com/iamrealsnow/status/2096610006376558614) | **发布时间:** Sep 6, 2026
-
----
-### 电影级品客薯片商业动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高细节的专业提示词，用于创作包含旋转品客薯片罐和薯片掉落效果的奢华食品商业动画。
-
-#### 📝 提示词
-
-```
-根据提供的品客薯片图片，创作一段高端、超写实的电影级食品商业动画。
-
-请保持品客薯片的罐体、品牌标识、排版、配色、背景及整体构图完全不变。请勿重新设计或替换任何元素。
-
-动画开始时，品客薯片罐轻微旋转并向前倾斜，同时摄像机缓慢推近。金黄色的薯片从开口的罐中自然升起，以平滑的慢动作旋转并逐一翻滚，呈现真实的物理效果。细小的碎屑在空中漂浮，捕捉着摄影棚的灯光。
-
-红色的品客罐盖在半空中缓慢旋转，并轻微向摄像机移动，随后漂移回原位。请添加真实的景深效果、细小的漂浮碎屑、自然的动态模糊、罐体上的光泽高光以及细腻的反射效果。
-
-让薯片看起来酥脆且轻盈，具备可信的重力感和碰撞效果。罐体应保持稳定清晰，同时漂浮的薯片营造出主要的动态感。
-
-采用平滑的奢华广告风格：戏剧性的摄影棚灯光、电影级的摄像机运动、真实的阴影、浅景深、高细节、精致的商业摄影质感以及流畅的动作衔接。
-
-结尾时，罐体应居中并突出显示，薯片优美地悬浮在周围，营造出令人满意的视觉焦点画面。
-
-要求：无人物，无手部，无新增物体，品牌标识无变形，文字无扭曲，无融化，无变形，无闪烁，无摄像机抖动。
-
-时长：8–10 秒。
-比例：16:9 横屏。
-动态：平滑、电影感、写实、高端食品广告风格。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="电影级品客薯片商业动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10489)**
-
-**作者:** [Aniya Intelligence](https://x.com/aniyaintel) | **来源:** [Link](https://x.com/aniyaintel/status/2096565007135961218) | **发布时间:** Sep 6, 2026
-
----
-### 水晶动物共舞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段充满奇思妙想的视频提示词，描绘了两只水晶动物在欢乐的氛围中载歌载舞。
-
-#### 📝 提示词
-
-```
-制作一段短视频，展示两只水晶动物在欢乐兴奋的氛围中一起载歌载舞
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096509236880834560/img/xoLV-AbfbjFhH-5m.jpg" width="600" alt="水晶动物共舞">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10490)**
-
-**作者:** [Binh Nguyen](https://x.com/binhbb2) | **来源:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **发布时间:** Sep 6, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2276,6 +2246,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-16T04:33:12.612Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-16T13:36:58.870Z</sub>
 
 </div>

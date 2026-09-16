@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2821** |
+| 📝 Total Prompts | **2826** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-16** |
 
@@ -189,6 +189,106 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt vidéo Grok Imagine : Retrouvailles avec un chien
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo chronométré pour Grok Imagine illustrant des retrouvailles émouvantes entre une personne et son chien sur une route.
+
+#### 📝 Prompt
+
+```
+0–2 s : Une personne se tient au bout d'une route calme, attendant.
+2–4 s : Son chien se précipite soudainement vers elle à toute vitesse.
+4–5 s : Elle s'agenouille et l'étreint tandis que la queue du chien remue rapidement.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099908888946757632/img/CFJ6luf7mVarsirS.jpg" width="600" alt="Prompt vidéo Grok Imagine : Retrouvailles avec un chien">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10942)**
+
+**Author:** [Anandh KS](https://x.com/anandh_ks_) | **Source:** [Link](https://x.com/anandh_ks_/status/2100120751739138238) | **Published:** Sep 16, 2026
+
+---
+### Avion volant dans un ciel bleu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt simple de génération vidéo pour Grok Imagine, décrivant un avion survolant le ciel avec un suivi caméra cinématographique.
+
+#### 📝 Prompt
+
+```
+L'avion blanc et rouge vole doucement vers l'avant à travers le ciel bleu, légèrement incliné, avec des nuages qui défilent et de subtiles traînées de moteur. La caméra suit l'appareil par en dessous, avec un mouvement fluide et cinématographique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100010559953317888/img/S_jbW65n9EF36D_i.jpg" width="600" alt="Avion volant dans un ciel bleu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10944)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **Published:** Sep 15, 2026
+
+---
+### Prompt vidéo Grok Imagine : Lys araignée lumineux sous la pluie
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt vidéo cinématographique créant un gros plan d'un lys araignée rouge brillant en bleu sous la pluie, la nuit, avec des mouvements de caméra détaillés et des effets atmosphériques.
+
+#### 📝 Prompt
+
+```
+Représentez un seul lys araignée rouge sous la pluie, émettant une lueur bleue dans l'obscurité de la nuit, montré magnifiquement en gros plan avec un style visuel CG.
+Les pétales sont parsemés de nombreuses gouttes de pluie qui s'écoulent, émettant silencieusement une lumière blanc-bleuté, illuminant doucement l'air environnant.
+La caméra commence par un gros plan de la fleur, suivant lentement les pointes des pétales et les reflets des gouttelettes d'eau, effectuant une légère rotation pour mettre en valeur sa beauté.
+Au milieu du silence de la nuit, laissez entendre le bruit du balancement dans le vent léger et le scintillement lorsque la lumière traverse les gouttelettes d'eau.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993504810426368/img/nKyNvBwY48Xu3a_f.jpg" width="600" alt="Prompt vidéo Grok Imagine : Lys araignée lumineux sous la pluie">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10946)**
+
+**Author:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **Source:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **Published:** Sep 15, 2026
+
+---
+### Style de peinture classique de Diogène
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo ou une animation de Diogène célébrant dans la rue, dans le style d'une peinture classique.
+
+#### 📝 Prompt
+
+```
+Diogène célébrant depuis une position assise dans la rue, dans le style d'une peinture classique
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099962866267037696/img/mFlgfiS6qltuOkaf.jpg" width="600" alt="Style de peinture classique de Diogène">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10945)**
+
+**Author:** [McKenzie](https://x.com/mckenzie_X_X) | **Source:** [Link](https://x.com/mckenzie_X_X/status/2099962962828226725) | **Published:** Sep 15, 2026
+
+---
+### Scène de bureau avec écran Tesla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une scène de bureau réaliste où un personnage est assis à son bureau, devant une TV affichant les modèles Tesla, et reçoit un café d'une secrétaire.
+
+#### 📝 Prompt
+
+```
+Je suis au bureau. Je m'installe à mon bureau. Un grand téléviseur est accroché au mur, affichant tous les modèles Tesla. Ma secrétaire m'apporte une tasse de café et récupère des documents sur l'imprimante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099914367961583616/img/YVLb2cEyvjNaX4o7.jpg" width="600" alt="Scène de bureau avec écran Tesla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10943)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2099914455878410600) | **Published:** Sep 15, 2026
+
+---
 ### Silhouette d'Anime Rétro-Futuriste
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2085,136 +2185,6 @@ Pléiadiens dans des vaisseaux de lumière, vaisseaux-mères, engins cristallins
 **Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **Published:** Sep 6, 2026
 
 ---
-### Portrait cinématographique sur un balcon sous la pluie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique très détaillé pour une scène mélancolique mettant en scène un homme en manteau noir sur un balcon pluvieux sous des néons violets.
-
-#### 📝 Prompt
-
-```
-Plan moyen cinématographique d'un jeune homme calme aux cheveux sombres et mouillés, portant un long manteau noir, debout seul sur un balcon métallique sous la pluie la nuit, les yeux doucement fermés, le menton légèrement baissé, les mains dans les poches du manteau, fine pluie perlant sur le tissu et la rambarde métallique, tubes lumineux verticaux au néon violet brillant à travers un brouillard dense derrière lui, horizon urbain lointain estompé dans la brume, reflets humides sur le sol du balcon, lumière cyan froide mélangée à un éclat violet profond, faible profondeur de champ, éclairage atmosphérique mélancolique, image de film photoréaliste, texture de peau et de tissu ultra détaillée, présence émotionnelle calme, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096470972702633984/img/hKG1eKVTNmD5EnCv.jpg" width="600" alt="Portrait cinématographique sur un balcon sous la pluie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10480)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096667246508810460) | **Published:** Sep 6, 2026
-
----
-### Tesla Range Rover Hybride
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une demande de design automobile visant à fusionner les caractéristiques de carrosserie du Range Rover avec un concept technologique interne minimaliste et avancé.
-
-#### 📝 Prompt
-
-```
-Concevez pour moi un modèle Tesla qui ressemble à un Range Rover à l'extérieur, doté de sièges luxueux et d'un grand écran à l'intérieur
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096610323583365120/img/5EHgptPi5nzN_wnz.jpg" width="600" alt="Tesla Range Rover Hybride">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10478)**
-
-**Author:** [Tammy BB](https://x.com/BbTammy) | **Source:** [Link](https://x.com/BbTammy/status/2096610338301239374) | **Published:** Sep 6, 2026
-
----
-### Prompt vidéo humoristique : une souris développeur de logiciels
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé en plusieurs scènes pour créer une vidéo cinématographique humoristique de 10 secondes mettant en scène une souris anthropomorphe travaillant comme développeur, confrontée à une erreur de code frustrante et à sa femme qui lui parle.
-
-#### 📝 Prompt
-
-```
-Créez une scène cinématographique humoristique de 10 secondes mettant en vedette une souris anthropomorphe ORIGINALE travaillant comme développeur de logiciels.
-
-La souris est assise à un bureau encombré tard dans la nuit, le pelage légèrement ébouriffé, portant de minuscules lunettes et un sweat à capuche. Plusieurs écrans affichent des lignes de code abstraites et fictives. Elle tape rapidement sur le clavier, puis fait soudainement face à une erreur frustrante à l'écran.
-
-Elle soupire profondément, se frotte le visage et marmonne de frustration. En arrière-plan, sa femme, également une souris, continue de parler fort depuis une autre pièce. La souris s'arrête, regarde vers la porte avec une expression épuisée, puis se tourne lentement vers l'ordinateur pour reprendre sa saisie.
-
-Timing comique, animation faciale expressive, mouvements de souris réalistes, pelage détaillé, intérieur d'appartement chaleureux, lampe de bureau, lueur subtile des moniteurs, mouvement de caméra cinématographique, langage corporel naturel.
-
-La caméra commence par un plan moyen de la souris en train de coder, avance lentement vers son visage frustré, puis coupe sur un plan de réaction lorsqu'elle entend sa femme.
-
-Inclure un dialogue comique naturel :
-Souris : « Je peux corriger le code... mais je ne peux pas corriger mon mariage. »
-
-Femme (hors champ) : « J'AI ENTENDU ÇA ! »
-
-La souris se fige et regarde nerveusement vers la caméra.
-
-Format paysage 16:9, 10 secondes, qualité cinématographique, animation fluide, éclairage réaliste, personnages expressifs, dialogue clair, synchronisation labiale précise, sans logos, sans personnages protégés par le droit d'auteur, sans texte ni filigrane.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096609928710594560/img/DrQhhAaXfwieUn3P.jpg" width="600" alt="Prompt vidéo humoristique : une souris développeur de logiciels">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10615)**
-
-**Author:** [Snow](https://x.com/iamrealsnow) | **Source:** [Link](https://x.com/iamrealsnow/status/2096610006376558614) | **Published:** Sep 6, 2026
-
----
-### Animation publicitaire cinématographique pour Pringles
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt professionnel ultra-détaillé pour créer une animation publicitaire culinaire de luxe mettant en scène des boîtes de Pringles en rotation et des chips en chute.
-
-#### 📝 Prompt
-
-```
-Créez une animation publicitaire culinaire cinématographique, premium et hyper-réaliste à partir de l'image Pringles fournie.
-
-Conservez la boîte de Pringles, la marque, la typographie, les couleurs, l'arrière-plan et la composition globale strictement inchangés. Ne redessinez ni ne remplacez aucun élément.
-
-L'animation commence par la boîte de Pringles qui pivote doucement et s'incline vers l'avant tandis que la caméra effectue un lent travelling avant. Les chips dorées s'élèvent naturellement de la boîte ouverte dans un ralenti fluide, tournoyant et virevoltant individuellement avec une physique réaliste. De petites miettes flottent dans l'air et captent la lumière du studio.
-
-Le couvercle rouge Pringles tourne lentement en suspension dans l'air et se déplace subtilement vers la caméra avant de dériver vers l'arrière. Ajoutez une profondeur de champ réaliste, de minuscules miettes flottantes, un flou de mouvement naturel, des reflets brillants sur la boîte et des reflets subtils.
-
-Donnez aux chips un aspect croustillant et léger, avec une gravité et des collisions crédibles. La boîte doit rester stable et nette tandis que les chips flottantes créent le mouvement principal.
-
-Utilisez un style publicitaire de luxe fluide : éclairage de studio dramatique, mouvement de caméra cinématographique, ombres réalistes, faible profondeur de champ, détails élevés, photographie commerciale soignée et mouvement fluide.
-
-Terminez avec la boîte centrée de manière proéminente dans le cadre, les chips magnifiquement suspendues autour, créant un plan héroïque satisfaisant.
-
-Pas de personnes, pas de mains, pas de nouveaux objets, pas de marque déformée, pas de texte altéré, pas de fonte, pas de morphing, pas de scintillement, pas de tremblement de caméra.
-
-Durée : 8 à 10 secondes.
-Format : 16:9 paysage.
-Mouvement : fluide, cinématographique, réaliste, publicité alimentaire haut de gamme.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="Animation publicitaire cinématographique pour Pringles">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10489)**
-
-**Author:** [Aniya Intelligence](https://x.com/aniyaintel) | **Source:** [Link](https://x.com/aniyaintel/status/2096565007135961218) | **Published:** Sep 6, 2026
-
----
-### Animaux en cristal dansants
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo fantaisiste mettant en scène deux animaux en cristal qui dansent et chantent ensemble dans une ambiance joyeuse.
-
-#### 📝 Prompt
-
-```
-Réalisez une courte vidéo montrant deux animaux en cristal en train de danser et de chanter ensemble dans une ambiance joyeuse et entraînante
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096509236880834560/img/xoLV-AbfbjFhH-5m.jpg" width="600" alt="Animaux en cristal dansants">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10490)**
-
-**Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2276,6 +2246,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-16T04:33:26.132Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-16T13:37:11.158Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2821** |
+| 📝 Total Prompts | **2826** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-16** |
 
@@ -189,6 +189,106 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video-Prompt: Hundewiedersehen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein zeitgesteuerter Video-Prompt für Grok Imagine, der eine emotionale Wiedersehensszene zwischen einer Person und ihrem Hund auf einer Straße darstellt.
+
+#### 📝 Prompt
+
+```
+0–2s: Eine Person steht am Ende einer ruhigen Straße und wartet.
+2–4s: Ihr Hund rennt plötzlich mit voller Geschwindigkeit auf sie zu.
+4–5s: Sie knien sich hin und umarmen den Hund, während sein Schwanz heftig wedelt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099908888946757632/img/CFJ6luf7mVarsirS.jpg" width="600" alt="Grok Imagine Video-Prompt: Hundewiedersehen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10942)**
+
+**Author:** [Anandh KS](https://x.com/anandh_ks_) | **Source:** [Link](https://x.com/anandh_ks_/status/2100120751739138238) | **Published:** Sep 16, 2026
+
+---
+### Flugzeug fliegt durch blauen Himmel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein einfaches Video-Generierungs-Prompt für Grok Imagine, das ein Flugzeug zeigt, das reibungslos durch den Himmel fliegt, mit kinematischer Kamerabewegung.
+
+#### 📝 Prompt
+
+```
+Das rot-weiße Flugzeug fliegt sanft vorwärts durch den blauen Himmel, leicht geneigt, während Wolken vorbeiziehen und subtile Kondensstreifen sichtbar sind. Die Kamera verfolgt das Flugzeug von unten in einer kinematischen und flüssigen Bewegung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100010559953317888/img/S_jbW65n9EF36D_i.jpg" width="600" alt="Flugzeug fliegt durch blauen Himmel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10944)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **Published:** Sep 15, 2026
+
+---
+### Grok Imagine Video-Prompt: Leuchtende Spinnenlilie im Regen
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein cineastischer Video-Prompt, der eine Nahaufnahme einer roten Spinnenlilie zeigt, die im nächtlichen Regen blau leuchtet, mit detaillierten Kamerabewegungen und atmosphärischen Effekten.
+
+#### 📝 Prompt
+
+```
+Darstellung einer einzelnen roten Spinnenlilie im Regen, die in der Dunkelheit der Nacht blau leuchtet, wunderschön als Nahaufnahme in einem CG-Stil visualisiert.
+Die Blütenblätter sind von vielen herabtropfenden Regentropfen bedeckt, die ein bläulich-weißes Licht ausstrahlen und die umgebende Luft sanft erhellen.
+Die Kamera beginnt mit einer Nahaufnahme der Blume, folgt langsam den Spitzen der Blütenblätter und den Reflexionen der Wassertropfen und kreist leicht um sie herum, um ihre Schönheit hervorzuheben.
+In der Stille der Nacht bleiben nur das Geräusch des sanften Schaukelns im schwachen Wind und das Schimmern, wenn das Licht durch die Wassertropfen bricht.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993504810426368/img/nKyNvBwY48Xu3a_f.jpg" width="600" alt="Grok Imagine Video-Prompt: Leuchtende Spinnenlilie im Regen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10946)**
+
+**Author:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **Source:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **Published:** Sep 15, 2026
+
+---
+### Klassischer Malstil von Diogenes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines Videos oder einer Animation von Diogenes, der auf der Straße feiert, im Stil eines klassischen Gemäldes.
+
+#### 📝 Prompt
+
+```
+Diogenes feiert sitzend auf der Straße, im Stil eines klassischen Gemäldes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099962866267037696/img/mFlgfiS6qltuOkaf.jpg" width="600" alt="Klassischer Malstil von Diogenes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10945)**
+
+**Author:** [McKenzie](https://x.com/mckenzie_X_X) | **Source:** [Link](https://x.com/mckenzie_X_X/status/2099962962828226725) | **Published:** Sep 15, 2026
+
+---
+### Büroszene mit Tesla-Display
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung einer realistischen Büroszene, in der eine Figur an einem Schreibtisch sitzt, auf dem ein Fernseher Tesla-Modelle zeigt, und von einer Sekretärin Kaffee serviert bekommt.
+
+#### 📝 Prompt
+
+```
+Ich bin im Büro. Ich setze mich an meinen Schreibtisch. An der Wand hängt ein großer Fernseher, der alle Tesla-Modelle anzeigt. Meine Sekretärin bringt mir eine Tasse Kaffee und nimmt einige Dokumente vom Drucker.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099914367961583616/img/YVLb2cEyvjNaX4o7.jpg" width="600" alt="Büroszene mit Tesla-Display">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10943)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2099914455878410600) | **Published:** Sep 15, 2026
+
+---
 ### Retro-Futurismus Anime Silhouette
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2085,136 +2185,6 @@ Plejader in Lichtschiffen Mutterschiffe kristalline Flugobjekte untertassenförm
 **Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **Published:** Sep 6, 2026
 
 ---
-### Cinematische Porträtaufnahme auf einem Balkon in einer verregneten Stadt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, kinoreifer Prompt für eine stimmungsvolle Szene mit einem Mann im schwarzen Mantel auf einem verregneten Balkon mit violetter Neonbeleuchtung.
-
-#### 📝 Prompt
-
-```
-Cinematische Halbtotale eines ruhigen jungen Mannes mit dunklem, nassem Haar in einem langen schwarzen Mantel, der nachts allein auf einem verregneten Metallbalkon steht, Augen sanft geschlossen, Kinn leicht gesenkt, Hände in den Manteltaschen, feiner Regen perlt auf Stoff und Metallgeländer, violette vertikale Neonröhren leuchten durch dichten Nebel hinter ihm, entfernte Stadtsilhouette in Dunst aufgelöst, nasse Reflexionen auf dem Balkonboden, kühler Cyan-Schimmer vermischt mit tiefviolettem Glühen, geringe Schärfentiefe, stimmungsvolle atmosphärische Beleuchtung, fotorealistisches Filmstill, ultra-detaillierte Haut- und Stofftextur, ruhige emotionale Präsenz, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096470972702633984/img/hKG1eKVTNmD5EnCv.jpg" width="600" alt="Cinematische Porträtaufnahme auf einem Balkon in einer verregneten Stadt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10480)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096667246508810460) | **Published:** Sep 6, 2026
-
----
-### Tesla Range Rover Hybrid
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine Anfrage für ein Automobildesign, das die Karosseriemerkmale eines Range Rover mit einem fortschrittlichen, minimalistischen Technologiekonzept im Innenraum verbindet.
-
-#### 📝 Prompt
-
-```
-Entwirf ein Tesla-Modell für mich, das von außen wie ein Range Rover aussieht und im Innenraum über Luxussitze sowie einen großen Bildschirm verfügt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096610323583365120/img/5EHgptPi5nzN_wnz.jpg" width="600" alt="Tesla Range Rover Hybrid">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10478)**
-
-**Author:** [Tammy BB](https://x.com/BbTammy) | **Source:** [Link](https://x.com/BbTammy/status/2096610338301239374) | **Published:** Sep 6, 2026
-
----
-### Humorvoller Video-Prompt: Softwareentwickler-Maus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Multi-Szenen-Prompt zur Erstellung eines humorvollen, filmischen 10-Sekunden-Videos einer anthropomorphen Maus, die als Softwareentwickler arbeitet und mit einem frustrierenden Code-Fehler sowie einer sprechenden Ehefrau zu kämpfen hat.
-
-#### 📝 Prompt
-
-```
-Erstelle eine 10-sekündige, humorvolle filmische Szene mit einer originellen anthropomorphen Maus, die als Softwareentwickler arbeitet.
-
-Die Maus sitzt spätabends an einem unordentlichen Computerschreibtisch, das Fell leicht zerzaust, trägt eine winzige Brille und einen Hoodie. Auf mehreren Monitoren sind abstrakte, fiktive Zeilen von Computercode zu sehen. Er tippt schnell, bis plötzlich ein frustrierender Fehler auf dem Bildschirm erscheint.
-
-Er seufzt schwer, reibt sich das Gesicht und murmelt frustriert vor sich hin. Im Hintergrund redet seine Mäuse-Ehefrau lautstark aus einem anderen Raum auf ihn ein. Die Maus hält inne, blickt mit erschöpftem Ausdruck in Richtung Tür, dreht sich dann langsam wieder zum Computer und beginnt erneut zu tippen.
-
-Komödiantisches Timing, ausdrucksstarke Gesichtsanimation, realistische Mausbewegungen, detailliertes Fell, gemütliches Wohnungsinterieur, warme Schreibtischlampe, dezentes Monitorleuchten, filmische Kamerabewegung, natürliche Körpersprache.
-
-Die Kamera beginnt mit einer Halbtotalen der Maus beim Programmieren, fährt langsam auf sein frustriertes Gesicht zu und schneidet dann auf eine Reaktionseinstellung, als er seine Frau hört.
-
-Beinhaltet natürlichen, komödiantischen Dialog:
-Maus: „Ich kann den Code reparieren... aber meine Ehe kann ich nicht reparieren.“
-
-Ehefrau (außerhalb des Bildes): „ICH HABE DAS GEHÖRT!“
-
-Die Maus erstarrt und schaut nervös in die Kamera.
-
-16:9 Breitbild, 10 Sekunden, Filmqualität, flüssige Animation, realistische Beleuchtung, ausdrucksstarke Charaktere, klarer Dialog, präzise Lippensynchronisation, keine Logos, keine urheberrechtlich geschützten Charaktere, kein Text oder Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096609928710594560/img/DrQhhAaXfwieUn3P.jpg" width="600" alt="Humorvoller Video-Prompt: Softwareentwickler-Maus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10615)**
-
-**Author:** [Snow](https://x.com/iamrealsnow) | **Source:** [Link](https://x.com/iamrealsnow/status/2096610006376558614) | **Published:** Sep 6, 2026
-
----
-### Filmreife Pringles-Werbeanimation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, professioneller Prompt zur Erstellung einer luxuriösen Lebensmittel-Werbeanimation mit rotierenden Pringles-Dosen und fallenden Chips.
-
-#### 📝 Prompt
-
-```
-Erstellen Sie eine erstklassige, hyperrealistische, filmreife Lebensmittel-Werbeanimation auf Basis des bereitgestellten Pringles-Bildes.
-
-Behalten Sie die Pringles-Dose, das Branding, die Typografie, die Farben, den Hintergrund und die gesamte Komposition exakt bei. Gestalten Sie keine Elemente neu und ersetzen Sie keine Bestandteile.
-
-Die Animation beginnt damit, dass sich die Pringles-Dose sanft dreht und nach vorne neigt, während die Kamera langsam heranfährt. Die goldenen Chips steigen in einer flüssigen Zeitlupe auf natürliche Weise aus der offenen Dose auf, wobei sie sich einzeln drehen und mit realistischer Physik umherwirbeln. Kleine Krümel schweben durch die Luft und fangen das Studiolicht ein.
-
-Der rote Pringles-Deckel dreht sich langsam in der Luft und bewegt sich dezent auf die Kamera zu, bevor er wieder zurückdriftet. Fügen Sie eine realistische Tiefenschärfe, kleine schwebende Krümel, natürliche Bewegungsunschärfe, glänzende Highlights auf der Dose und subtile Reflexionen hinzu.
-
-Die Chips sollen knusprig und leicht wirken, mit glaubwürdiger Schwerkraft und Kollisionen. Die Dose sollte stabil und scharf abgebildet bleiben, während die schwebenden Chips für die Hauptbewegung sorgen.
-
-Verwenden Sie einen eleganten Luxus-Werbestil: dramatische Studiobeleuchtung, filmische Kamerabewegung, realistische Schatten, geringe Tiefenschärfe, hohe Detailgenauigkeit, polierte Werbefotografie und nahtlose Bewegungsabläufe.
-
-Enden Sie mit der Dose, die prominent in der Bildmitte platziert ist, während die Chips ästhetisch um sie herum schweben, um eine ansprechende Hero-Shot-Aufnahme zu erzeugen.
-
-Keine Menschen, keine Hände, keine neuen Objekte, kein verzerrtes Branding, kein verzerrter Text, kein Schmelzen, kein Morphing, kein Flackern, kein Kamera-Wackeln.
-
-Dauer: 8–10 Sekunden.
-Seitenverhältnis: 16:9 Breitbild.
-Bewegung: flüssig, filmreif, realistisch, erstklassige Lebensmittelwerbung.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="Filmreife Pringles-Werbeanimation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10489)**
-
-**Author:** [Aniya Intelligence](https://x.com/aniyaintel) | **Source:** [Link](https://x.com/aniyaintel/status/2096565007135961218) | **Published:** Sep 6, 2026
-
----
-### Tanzende Kristalltiere
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein fantasievoller Video-Prompt, der zwei Kristalltiere zeigt, die fröhlich zusammen tanzen und singen.
-
-#### 📝 Prompt
-
-```
-Erstelle ein kurzes Video über zwei Kristalltiere, die in einer fröhlichen und aufregenden Stimmung zusammen tanzen und singen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096509236880834560/img/xoLV-AbfbjFhH-5m.jpg" width="600" alt="Tanzende Kristalltiere">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10490)**
-
-**Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2276,6 +2246,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-16T04:33:25.133Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-16T13:37:09.881Z</sub>
 
 </div>

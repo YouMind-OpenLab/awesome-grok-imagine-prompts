@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2821** |
+| 📝 提示詞總數 | **2826** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-16** |
 
@@ -189,6 +189,106 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Grok Imagine 影片提示詞：狗狗重逢
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的定時影片提示詞，描繪一個人與沿著道路奔跑而來的愛犬之間感人重逢的場景。
+
+#### 📝 提示詞
+
+```
+0–2s: 一個人站在安靜道路的盡頭，靜靜等待。
+2–4s: 他們的狗突然以全速向他們奔來。
+4–5s: 他跪下擁抱狗狗，狗的尾巴快速搖擺。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099908888946757632/img/CFJ6luf7mVarsirS.jpg" width="600" alt="Grok Imagine 影片提示詞：狗狗重逢">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10942)**
+
+**作者:** [Anandh KS](https://x.com/anandh_ks_) | **來源:** [Link](https://x.com/anandh_ks_/status/2100120751739138238) | **發布時間:** Sep 16, 2026
+
+---
+### 飛機在藍天中飛行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的簡易影片生成提示，描繪一架飛機在天空中平穩飛行，並搭配電影感的鏡頭追蹤。
+
+#### 📝 提示詞
+
+```
+紅白相間的飛機在藍天中平穩向前飛行，略微傾斜，雲朵飄過，引擎尾跡若隱若現。鏡頭從下方追蹤飛機，呈現流暢且具電影感的動態畫面。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100010559953317888/img/S_jbW65n9EF36D_i.jpg" width="600" alt="飛機在藍天中飛行">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10944)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **發布時間:** Sep 15, 2026
+
+---
+### Grok Imagine 影片提示詞：雨中發光的彼岸花
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一段電影感的影片提示詞，描繪夜晚雨中一朵發出藍光的紅色彼岸花特寫，包含詳細的鏡頭運動與氛圍效果。
+
+#### 📝 提示詞
+
+```
+描繪雨中的一朵紅色彼岸花，在夜色中散發著藍色光芒，以 CG 風格視覺呈現美麗的特寫。
+花瓣上掛滿滴落的雨珠，靜靜地發出藍白色的光暈，柔和地照亮周圍的空氣。
+鏡頭從花朵特寫開始，緩慢跟隨花瓣尖端與水珠倒影，輕微環繞以突顯其美感。
+在寂靜的夜晚中，保留微風吹拂時的搖曳聲響，以及光線穿透水珠時閃爍的效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993504810426368/img/nKyNvBwY48Xu3a_f.jpg" width="600" alt="Grok Imagine 影片提示詞：雨中發光的彼岸花">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10946)**
+
+**作者:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **來源:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **發布時間:** Sep 15, 2026
+
+---
+### 第歐根尼古典繪畫風格
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成第歐根尼在街頭慶祝之影片或動畫的提示詞，採用古典繪畫風格。
+
+#### 📝 提示詞
+
+```
+以古典繪畫風格呈現第歐根尼坐在街頭慶祝的畫面
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099962866267037696/img/mFlgfiS6qltuOkaf.jpg" width="600" alt="第歐根尼古典繪畫風格">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10945)**
+
+**作者:** [McKenzie](https://x.com/mckenzie_X_X) | **來源:** [Link](https://x.com/mckenzie_X_X/status/2099962962828226725) | **發布時間:** Sep 15, 2026
+
+---
+### 展示 Tesla 的辦公室場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成逼真辦公室場景的提示詞，內容為角色坐在桌前，牆上的電視顯示 Tesla 車型，並由秘書遞上咖啡。
+
+#### 📝 提示詞
+
+```
+我在辦公室裡。我坐到我的辦公桌前。牆上掛著一台大電視，顯示著所有 Tesla 的車型。我的秘書給我端來一杯咖啡，並從印表機取走一些文件。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099914367961583616/img/YVLb2cEyvjNaX4o7.jpg" width="600" alt="展示 Tesla 的辦公室場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10943)**
+
+**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **來源:** [Link](https://x.com/jaras70berlin/status/2099914455878410600) | **發布時間:** Sep 15, 2026
+
+---
 ### 復古未來主義動漫剪影
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2085,136 +2185,6 @@ Alice @Reference3 和 Dani @Reference2 正在流理台上切菜，並開始準�
 **作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **來源:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **發布時間:** Sep 6, 2026
 
 ---
-### 電影感雨中城市陽台肖像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高度細緻的電影感提示詞，描繪了一個男人身穿黑色大衣，站在紫色霓虹燈照耀下的雨中陽台，氛圍感十足。
-
-#### 📝 提示詞
-
-```
-電影感中景鏡頭，一位安靜的年輕男子，留著濕潤的深色頭髮，身穿長款黑色大衣，獨自站在夜晚雨中的金屬陽台上。他雙眼輕閉，下巴微垂，雙手插在口袋裡。細雨在衣物和金屬欄杆上凝結成珠，身後濃霧中透出紫色的垂直霓虹燈管，遠處的城市天際線模糊成一片朦朧，陽台地面映照著濕潤的倒影。冷青色的光暈與深紫色的光暈交織，淺景深效果，充滿情緒的氛圍照明，寫實電影劇照，超細緻的皮膚與布料紋理，靜謐的情感表現，Grok Imagine。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096470972702633984/img/hKG1eKVTNmD5EnCv.jpg" width="600" alt="電影感雨中城市陽台肖像">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10480)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2096667246508810460) | **發布時間:** Sep 6, 2026
-
----
-### Tesla Range Rover Hybrid
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一項汽車設計需求，旨在將 Range Rover 的車身特徵與先進的極簡主義內部科技概念相結合。
-
-#### 📝 提示詞
-
-```
-請為我設計一款 Tesla 車型，外觀看起來像 Range Rover，內部則配備豪華座椅與大尺寸螢幕。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096610323583365120/img/5EHgptPi5nzN_wnz.jpg" width="600" alt="Tesla Range Rover Hybrid">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10478)**
-
-**作者:** [Tammy BB](https://x.com/BbTammy) | **來源:** [Link](https://x.com/BbTammy/status/2096610338301239374) | **發布時間:** Sep 6, 2026
-
----
-### 幽默軟體開發者老鼠影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一份詳細的多場景提示詞，用於創作一段 10 秒鐘幽默且具電影感的影片，內容描述一隻擬人化的老鼠身為軟體開發者，在面對令人崩潰的程式錯誤與妻子嘮叨時的反應。
-
-#### 📝 提示詞
-
-```
-創作一段 10 秒鐘的幽默電影感場景，主角為一隻原創的擬人化老鼠，身分為軟體開發者。
-
-深夜，這隻老鼠坐在雜亂的電腦桌前，毛髮略顯凌亂，戴著一副小眼鏡，穿著連帽衫。多台螢幕上顯示著抽象、虛構的程式碼。他快速地打字，隨後螢幕上突然出現了一個令人崩潰的錯誤。
-
-他長嘆一口氣，揉了揉臉，沮喪地嘟囔著。背景中，他的老鼠妻子在另一個房間大聲說話。老鼠停下動作，表情疲憊地看向門口，隨後緩緩轉回電腦前繼續打字。
-
-具備喜劇節奏、生動的臉部動畫、逼真的老鼠動作、細緻的毛髮、溫馨的公寓內部、溫暖的檯燈、細微的螢幕光暈、電影級運鏡以及自然的肢體語言。
-
-鏡頭以老鼠寫程式的中景開始，緩慢推近至他沮喪的臉部，隨後切換至他聽到妻子說話後的反應鏡頭。
-
-加入自然的喜劇對話：
-老鼠：「我可以修復程式碼……但我修復不了我的婚姻。」
-
-妻子（畫外音）：「我聽到了！」
-
-老鼠僵住，緊張地看向鏡頭。
-
-16:9 寬螢幕，10 秒，電影級畫質，流暢動畫，逼真光影，生動角色，清晰對話，精準口型同步，無 Logo，無版權角色，無文字或浮水印。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096609928710594560/img/DrQhhAaXfwieUn3P.jpg" width="600" alt="幽默軟體開發者老鼠影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10615)**
-
-**作者:** [Snow](https://x.com/iamrealsnow) | **來源:** [Link](https://x.com/iamrealsnow/status/2096610006376558614) | **發布時間:** Sep 6, 2026
-
----
-### 電影級 Pringles 廣告動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高度詳細的專業提示詞，用於創作奢華食品廣告動畫，展示旋轉的 Pringles 罐頭與掉落的薯片。
-
-#### 📝 提示詞
-
-```
-請根據提供的 Pringles 圖片，創作一段頂級、超寫實的電影級食品廣告動畫。
-
-請務必保持 Pringles 罐頭、品牌標誌、排版、顏色、背景及整體構圖完全不變。請勿重新設計或替換任何元素。
-
-動畫開場時，Pringles 罐頭輕柔地旋轉並向前傾斜，同時攝影機緩慢推進。金黃色的薯片以流暢的慢動作從開口的罐中自然升起，並伴隨真實的物理效果進行旋轉與翻滾。細小的碎屑在空氣中飄浮，並捕捉著攝影棚的燈光。
-
-紅色的 Pringles 蓋子在半空中緩慢旋轉，並微妙地向攝影機移動，隨後飄回原位。請加入真實的景深效果、細小的飄浮碎屑、自然的動態模糊、罐身上的光澤高光以及細膩的反射。
-
-讓薯片呈現出酥脆且輕盈的質感，並具備可信的重力與碰撞效果。罐頭應保持穩定且清晰，而飄浮的薯片則構成主要的動態畫面。
-
-採用流暢的奢華廣告風格：戲劇性的攝影棚燈光、電影級的攝影機運鏡、真實的陰影、淺景深、高細節、精緻的商業攝影質感以及流暢的動作。
-
-結尾時，罐頭應置於畫面中央顯眼位置，薯片優美地懸浮在周圍，營造出令人滿意的產品特寫鏡頭。
-
-畫面中不得出現人物、手部、新物件，不得有品牌變形、文字扭曲、融化、變形、閃爍或攝影機晃動。
-
-時長：8 至 10 秒。
-長寬比：16:9 橫向。
-動態：流暢、電影感、寫實、頂級食品廣告風格。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="電影級 Pringles 廣告動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10489)**
-
-**作者:** [Aniya Intelligence](https://x.com/aniyaintel) | **來源:** [Link](https://x.com/aniyaintel/status/2096565007135961218) | **發布時間:** Sep 6, 2026
-
----
-### 水晶動物共舞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿奇幻色彩的影片提示詞，描繪兩隻水晶動物在歡樂的氛圍中一起跳舞與歌唱。
-
-#### 📝 提示詞
-
-```
-製作一部關於兩隻水晶動物在歡樂且興奮的氛圍中一起跳舞與歌唱的短片
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096509236880834560/img/xoLV-AbfbjFhH-5m.jpg" width="600" alt="水晶動物共舞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10490)**
-
-**作者:** [Binh Nguyen](https://x.com/binhbb2) | **來源:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **發布時間:** Sep 6, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2276,6 +2246,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-16T04:33:14.062Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-16T13:37:00.634Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2821** |
+| 📝 Total Prompts | **2826** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-16** |
 
@@ -189,6 +189,106 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video İstemi: Köpek Kavuşması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, bir insanın ve köpeğinin yolda koşarak duygusal bir kavuşma yaşadığı anı betimleyen zamanlı video istemi.
+
+#### 📝 Prompt
+
+```
+0–2 sn: Bir kişi sakin bir yolun sonunda bekliyor.
+2–4 sn: Köpeği birdenbire tam hızla ona doğru koşuyor.
+4–5 sn: Diz çöküp sarılırken köpeğin kuyruğu hızlıca sallanıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099908888946757632/img/CFJ6luf7mVarsirS.jpg" width="600" alt="Grok Imagine Video İstemi: Köpek Kavuşması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10942)**
+
+**Author:** [Anandh KS](https://x.com/anandh_ks_) | **Source:** [Link](https://x.com/anandh_ks_/status/2100120751739138238) | **Published:** Sep 16, 2026
+
+---
+### Mavi Gökyüzünde Uçan Uçak
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için sinematik kamera takibiyle gökyüzünde sorunsuz uçan bir uçağı tasvir eden basit bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Beyaz ve kırmızı uçak, mavi gökyüzünde hafifçe yatarak ileriye doğru sorunsuzca süzülür; bulutlar yanından geçerken motor izleri belirgindir. Kamera, uçağı alttan takip eder ve hareket sinematik ile akıcıdır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100010559953317888/img/S_jbW65n9EF36D_i.jpg" width="600" alt="Mavi Gökyüzünde Uçan Uçak">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10944)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **Published:** Sep 15, 2026
+
+---
+### Grok Imagine Video İstemi: Yağmurda Parlayan Örümcek Zambağı
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Gece yağmurunda mavi parlayan kırmızı bir örümcek zambağının yakın çekimini oluşturan sinematik video istemi; detaylı kamera hareketleri ve atmosferik efektler içerir.
+
+#### 📝 Prompt
+
+```
+Yağmur altında, gecenin karanlığında mavi ışık saçan tek bir kırmızı örümcek zambağını tasvir edin. Görüntü, CG tarzı görsellerle güzel bir yakın çekim olarak sunulmalı.
+Petal üzerinde birçok damla süzülüyor, sessizce mavimsi-beyaz bir ışık yayıyor ve etrafındaki havayı yumuşakça aydınlatıyor.
+Kamera çiçeğin yakın çekimiyle başlıyor, yavaşça petal uçlarını ve su damlalarının yansımalarını takip ediyor, güzelliğini vurgulamak için hafifçe etrafında dönüyor.
+Gecenin sessizliği içinde, hafif rüzgarda salınma sesini ve ışığın su damlacıklarından geçerken yarattığı parıltıyı bırakın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993504810426368/img/nKyNvBwY48Xu3a_f.jpg" width="600" alt="Grok Imagine Video İstemi: Yağmurda Parlayan Örümcek Zambağı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10946)**
+
+**Author:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **Source:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **Published:** Sep 15, 2026
+
+---
+### Diogenes Klasik Resim Tarzı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Klasik bir tablo tarzında, sokakta kutlama yapan Diogenes'in videosunu veya animasyonunu oluşturmak için bir istem.
+
+#### 📝 Prompt
+
+```
+Klasik bir tablo tarzında, sokakta oturur pozisyonda kutlama yapan Diogenes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099962866267037696/img/mFlgfiS6qltuOkaf.jpg" width="600" alt="Diogenes Klasik Resim Tarzı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10945)**
+
+**Author:** [McKenzie](https://x.com/mckenzie_X_X) | **Source:** [Link](https://x.com/mckenzie_X_X/status/2099962962828226725) | **Published:** Sep 15, 2026
+
+---
+### Tesla Ekranlı Ofis Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karakterin, Tesla modellerini gösteren bir TV'nin önünde masasında oturduğu ve sekreterinden kahve aldığı gerçekçi bir ofis sahnesi oluşturmak için istem.
+
+#### 📝 Prompt
+
+```
+Ofisteyim. Masama oturuyorum. Duvarlarda büyük bir TV asılı, üzerinde tüm Tesla modelleri görünüyor. Sekreterim bana bir fincan kahve getiriyor ve yazıcıdan bazı belgeleri alıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099914367961583616/img/YVLb2cEyvjNaX4o7.jpg" width="600" alt="Tesla Ekranlı Ofis Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10943)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2099914455878410600) | **Published:** Sep 15, 2026
+
+---
 ### Retro Fütürizm Anime Silüeti
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2085,136 +2185,6 @@ Pleiades ışık gemileri ana gemiler kristal araçlar daire şeklinde, başyap�
 **Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **Published:** Sep 6, 2026
 
 ---
-### Sinematik Yağmurlu Şehir Balkonu Portresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yağmurlu bir balkonda mor neon ışıklar altında siyah paltolu bir adamın yer aldığı, atmosferik bir sahne için oldukça detaylı sinematik komut.
-
-#### 📝 Prompt
-
-```
-Gece vakti yağmurlu metal bir balkonda tek başına duran, koyu renkli ıslak saçlı, uzun siyah paltolu, gözleri hafifçe kapalı, çenesi hafifçe aşağıda, elleri palto ceplerinde olan sessiz genç bir adamın sinematik orta plan çekimi; kumaş ve metal korkuluk üzerinde biriken ince yağmur damlaları, arkasındaki yoğun sisin içinden parlayan dikey mor neon ışık tüpleri, puslu bir şekilde yumuşatılmış uzak şehir silüeti, balkon zeminindeki ıslak yansımalar, derin menekşe rengi parıltıyla karışık soğuk camgöbeği ışık sızıntısı, sığ alan derinliği, atmosferik ve karamsar aydınlatma, fotorealistik film karesi, ultra detaylı cilt ve kumaş dokusu, sessiz duygusal varlık, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096470972702633984/img/hKG1eKVTNmD5EnCv.jpg" width="600" alt="Sinematik Yağmurlu Şehir Balkonu Portresi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10480)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096667246508810460) | **Published:** Sep 6, 2026
-
----
-### Tesla Range Rover Hibrit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Range Rover gövde özelliklerini gelişmiş ve minimalist bir iç teknoloji konseptiyle birleştiren bir otomotiv tasarım talebi.
-
-#### 📝 Prompt
-
-```
-Dış görünüşü Range Rover'a benzeyen, iç kısmında ise lüks koltuklar ve büyük bir ekran bulunan bir Tesla modeli tasarla
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096610323583365120/img/5EHgptPi5nzN_wnz.jpg" width="600" alt="Tesla Range Rover Hibrit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10478)**
-
-**Author:** [Tammy BB](https://x.com/BbTammy) | **Source:** [Link](https://x.com/BbTammy/status/2096610338301239374) | **Published:** Sep 6, 2026
-
----
-### Eğlenceli Yazılım Geliştiricisi Fare Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sinir bozucu bir kod hatasıyla uğraşan ve konuşan bir eşi olan, yazılım geliştiricisi olarak çalışan antropomorfik bir farenin yer aldığı, 10 saniyelik eğlenceli ve sinematik bir video oluşturan detaylı çok sahneli bir istem.
-
-#### 📝 Prompt
-
-```
-Yazılım geliştiricisi olarak çalışan ÖZGÜN bir antropomorfik farenin yer aldığı 10 saniyelik eğlenceli ve sinematik bir sahne oluşturun.
-
-Fare, gece geç saatlerde dağınık bir bilgisayar masasında oturuyor; tüyleri hafifçe karışık, küçük gözlükler ve bir kapüşonlu sweatshirt giyiyor. Çok sayıda monitörde soyut, kurgusal bilgisayar kodu satırları görünüyor. Hızla yazıyor, ardından ekranda aniden sinir bozucu bir hata alıyor.
-
-Derin bir iç çekiyor, yüzünü ovuşturuyor ve sinirle bir şeyler mırıldanıyor. Arka planda, fare eşi başka bir odadan yüksek sesle konuşmaya devam ediyor. Fare duraksıyor, yorgun bir ifadeyle kapı eşiğine doğru bakıyor, ardından yavaşça bilgisayara geri dönüp tekrar yazmaya başlıyor.
-
-Komedi zamanlaması, etkileyici yüz animasyonu, gerçekçi fare hareketleri, detaylı tüyler, sıcak bir apartman dairesi iç mekanı, sıcak masa lambası, hafif monitör parıltısı, sinematik kamera hareketi, doğal vücut dili.
-
-Kamera, kod yazan farenin orta ölçekli çekimiyle başlıyor, yavaşça hayal kırıklığına uğramış yüzüne doğru yaklaşıyor ve ardından eşinin sesini duyduğunda tepki çekimine geçiyor.
-
-Doğal komedi diyaloglarını dahil edin:
-Fare: "Kodu düzeltebilirim... ama evliliğimi düzeltemem."
-
-Eşi (ekran dışı): "BUNU DUYDUM!"
-
-Fare donup kalıyor ve gergin bir şekilde kameraya bakıyor.
-
-16:9 yatay, 10 saniye, sinematik kalite, akıcı animasyon, gerçekçi aydınlatma, etkileyici karakterler, net diyalog, doğru dudak senkronizasyonu, logo yok, telif hakkı olan karakter yok, metin veya filigran yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096609928710594560/img/DrQhhAaXfwieUn3P.jpg" width="600" alt="Eğlenceli Yazılım Geliştiricisi Fare Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10615)**
-
-**Author:** [Snow](https://x.com/iamrealsnow) | **Source:** [Link](https://x.com/iamrealsnow/status/2096610006376558614) | **Published:** Sep 6, 2026
-
----
-### Sinematik Pringles Reklam Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dönen Pringles kutuları ve düşen cipslerin yer aldığı lüks bir gıda reklamı animasyonu oluşturmak için oldukça detaylı profesyonel bir komut.
-
-#### 📝 Prompt
-
-```
-Sağlanan Pringles görselinden birinci sınıf, hiper gerçekçi ve sinematik bir gıda reklamı animasyonu oluşturun.
-
-Pringles kutusunu, markalamayı, tipografiyi, renkleri, arka planı ve genel kompozisyonu tamamen aynı tutun. Herhangi bir öğeyi yeniden tasarlamayın veya değiştirmeyin.
-
-Animasyon, kamera yavaşça yaklaşırken Pringles kutusunun hafifçe dönmesi ve öne doğru eğilmesiyle başlar. Altın rengi cipsler, açık kutudan doğal bir şekilde, pürüzsüz ve ağır çekimde, gerçekçi fizik kurallarıyla dönerek ve takla atarak yükselir. Küçük kırıntılar havada süzülür ve stüdyo ışığını yakalar.
-
-Kırmızı Pringles kapağı havada yavaşça döner ve kameraya doğru hafifçe hareket ettikten sonra geri süzülür. Gerçekçi alan derinliği, havada uçuşan küçük kırıntılar, doğal hareket bulanıklığı, kutu üzerinde parlak vurgular ve ince yansımalar ekleyin.
-
-Cipslerin inandırıcı bir yerçekimi ve çarpışma etkisiyle çıtır ve hafif hissettirmesini sağlayın. Kutu sabit ve net kalırken, havada uçuşan cipsler ana hareketi oluşturmalıdır.
-
-Pürüzsüz ve lüks bir reklam stili kullanın: dramatik stüdyo aydınlatması, sinematik kamera hareketi, gerçekçi gölgeler, sığ alan derinliği, yüksek detay, profesyonel reklam fotoğrafçılığı ve kusursuz hareket.
-
-Kutunun kadrajın merkezinde belirgin bir şekilde durduğu, cipslerin etrafında estetik bir şekilde asılı kaldığı ve tatmin edici bir ana çekim (hero shot) oluşturduğu bir finalle bitirin.
-
-İnsan yok, el yok, yeni nesne yok, bozulmuş markalama yok, çarpıtılmış metin yok, erime yok, şekil değiştirme yok, titreme yok, kamera sarsıntısı yok.
-
-Süre: 8–10 saniye.
-En boy oranı: 16:9 yatay.
-Hareket: pürüzsüz, sinematik, gerçekçi, premium gıda reklamı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="Sinematik Pringles Reklam Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10489)**
-
-**Author:** [Aniya Intelligence](https://x.com/aniyaintel) | **Source:** [Link](https://x.com/aniyaintel/status/2096565007135961218) | **Published:** Sep 6, 2026
-
----
-### Dans Eden Kristal Hayvanlar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Neşeli bir ruh hali içinde birlikte dans edip şarkı söyleyen iki kristal hayvanı konu alan eğlenceli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Neşeli ve heyecan verici bir ruh hali içinde birlikte dans edip şarkı söyleyen iki kristal hayvan hakkında kısa bir video oluştur
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096509236880834560/img/xoLV-AbfbjFhH-5m.jpg" width="600" alt="Dans Eden Kristal Hayvanlar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10490)**
-
-**Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2276,6 +2246,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-16T04:33:31.925Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-16T13:37:16.417Z</sub>
 
 </div>

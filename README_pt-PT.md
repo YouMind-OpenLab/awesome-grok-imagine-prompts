@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2821** |
+| 📝 Total Prompts | **2826** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-16** |
 
@@ -189,6 +189,106 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de Vídeo Grok Imagine: Reencontro com o Cachorro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cronometrado para o Grok Imagine que retrata um reencontro emocionante entre uma pessoa e seu cachorro correndo por uma estrada.
+
+#### 📝 Prompt
+
+```
+0–2s: Uma pessoa está parada no final de uma estrada tranquila, esperando.
+2–4s: Seu cachorro corre subitamente em sua direção em alta velocidade.
+4–5s: Ela se ajoelha e o abraça enquanto a cauda do cachorro abana rapidamente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099908888946757632/img/CFJ6luf7mVarsirS.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Reencontro com o Cachorro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10942)**
+
+**Author:** [Anandh KS](https://x.com/anandh_ks_) | **Source:** [Link](https://x.com/anandh_ks_/status/2100120751739138238) | **Published:** Sep 16, 2026
+
+---
+### Avião voando através de um céu azul
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt simples de geração de vídeo para o Grok Imagine, descrevendo um avião voando suavemente pelo céu com rastreamento cinematográfico da câmera.
+
+#### 📝 Prompt
+
+```
+O avião branco e vermelho voa suavemente para frente através do céu azul, inclinando-se ligeiramente, com nuvens passando e sutis trilhas de motor. A câmera acompanha a aeronave por baixo, com movimento fluido e cinematográfico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100010559953317888/img/S_jbW65n9EF36D_i.jpg" width="600" alt="Avião voando através de um céu azul">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10944)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **Published:** Sep 15, 2026
+
+---
+### Prompt de Vídeo Grok Imagine: Lírio-Aranha Brilhante na Chuva
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt de vídeo cinematográfico que cria um close-up de um lírio-aranha vermelho brilhando em azul na chuva à noite, com movimentos de câmera detalhados e efeitos atmosféricos.
+
+#### 📝 Prompt
+
+```
+Retrate um único lírio-aranha vermelho na chuva, brilhando em azul na escuridão da noite, exibido belamente em close-up com visual estilo CG.
+As pétalas têm muitas gotas de chuva escorrendo, emitindo silenciosamente uma luz azulada-branca, iluminando suavemente o ar ao redor.
+A câmera começa com um close-up da flor, seguindo lentamente as pontas das pétalas e os reflexos das gotas d'água, circundando levemente para destacar sua beleza.
+Em meio à quietude da noite, deixe o som do balanço no vento fraco e o cintilar quando a luz passa pelas gotas d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993504810426368/img/nKyNvBwY48Xu3a_f.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Lírio-Aranha Brilhante na Chuva">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10946)**
+
+**Author:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **Source:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **Published:** Sep 15, 2026
+
+---
+### Estilo de Pintura Clássica de Diógenes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo ou animação de Diógenes celebrando na rua, com estilo de pintura clássica.
+
+#### 📝 Prompt
+
+```
+Diógenes celebrando sentado na rua, no estilo de uma pintura clássica
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099962866267037696/img/mFlgfiS6qltuOkaf.jpg" width="600" alt="Estilo de Pintura Clássica de Diógenes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10945)**
+
+**Author:** [McKenzie](https://x.com/mckenzie_X_X) | **Source:** [Link](https://x.com/mckenzie_X_X/status/2099962962828226725) | **Published:** Sep 15, 2026
+
+---
+### Cena de Escritório com Tela da Tesla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar uma cena realista de escritório onde um personagem está sentado em sua mesa, assistindo a modelos da Tesla em uma TV e recebendo café de uma secretária.
+
+#### 📝 Prompt
+
+```
+Estou no escritório. Sento-me na minha mesa. Uma grande TV está pendurada na parede, exibindo todos os modelos da Tesla. Minha secretária traz uma xícara de café e pega alguns documentos da impressora.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099914367961583616/img/YVLb2cEyvjNaX4o7.jpg" width="600" alt="Cena de Escritório com Tela da Tesla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10943)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2099914455878410600) | **Published:** Sep 15, 2026
+
+---
 ### Silhueta de Anime Retrofuturista
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2085,136 +2185,6 @@ Pleiadianos em naves de luz, naves-mãe, embarcações cristalinas em formato de
 **Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **Published:** Sep 6, 2026
 
 ---
-### Retrato Cinematográfico em Varanda de Cidade Chuvosa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico altamente detalhado para uma cena melancólica apresentando um homem de sobretudo preto em uma varanda chuvosa com iluminação neon roxa.
-
-#### 📝 Prompt
-
-```
-Plano médio cinematográfico de um jovem tranquilo com cabelos escuros molhados, vestindo um sobretudo preto longo, parado sozinho em uma varanda de metal chuvosa à noite, olhos suavemente fechados, queixo levemente abaixado, mãos nos bolsos do casaco, chuva fina formando gotas no tecido e no corrimão de metal, tubos de luz neon vertical roxos brilhando através de uma névoa densa atrás dele, horizonte da cidade distante suavizado em uma neblina, reflexos molhados no chão da varanda, luz ciano fria misturada com um brilho violeta profundo, profundidade de campo rasa, iluminação atmosférica melancólica, still de filme fotorrealista, textura de pele e tecido ultra detalhada, presença emocional silenciosa, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096470972702633984/img/hKG1eKVTNmD5EnCv.jpg" width="600" alt="Retrato Cinematográfico em Varanda de Cidade Chuvosa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10480)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096667246508810460) | **Published:** Sep 6, 2026
-
----
-### Tesla Range Rover Híbrido
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma solicitação de design automotivo para fundir as características da carroceria do Range Rover com um conceito de tecnologia interna minimalista e avançado.
-
-#### 📝 Prompt
-
-```
-Projete um modelo Tesla para mim que tenha o visual externo de um Range Rover e conte com bancos de luxo e uma tela grande na parte interna
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096610323583365120/img/5EHgptPi5nzN_wnz.jpg" width="600" alt="Tesla Range Rover Híbrido">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10478)**
-
-**Author:** [Tammy BB](https://x.com/BbTammy) | **Source:** [Link](https://x.com/BbTammy/status/2096610338301239374) | **Published:** Sep 6, 2026
-
----
-### Prompt de vídeo humorístico de um rato desenvolvedor de software
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado de várias cenas para criar um vídeo cinematográfico e humorístico de 10 segundos de um rato antropomórfico trabalhando como desenvolvedor de software, lidando com um erro de código frustrante e uma esposa falante.
-
-#### 📝 Prompt
-
-```
-Crie uma cena cinematográfica e humorística de 10 segundos apresentando um rato antropomórfico ORIGINAL trabalhando como desenvolvedor de software.
-
-O rato está sentado em uma mesa de computador bagunçada tarde da noite, com o pelo levemente despenteado, usando óculos minúsculos e um moletom. Vários monitores exibem linhas de código de computador abstratas e fictícias. Ele digita rapidamente, então, de repente, recebe um erro frustrante na tela.
-
-Ele suspira profundamente, esfrega o rosto e murmura em frustração. Ao fundo, sua esposa, também um rato, continua falando alto de outro cômodo. O rato faz uma pausa, olha em direção à porta com uma expressão exausta, depois se vira lentamente para o computador e começa a digitar novamente.
-
-Timing cômico, animação facial expressiva, movimentos realistas de rato, pelo detalhado, interior de apartamento aconchegante, luminária de mesa quente, brilho sutil do monitor, movimento de câmera cinematográfico, linguagem corporal natural.
-
-A câmera começa com um plano médio do rato programando, aproxima-se lentamente do seu rosto frustrado e, em seguida, corta para uma cena de reação quando ele ouve a esposa.
-
-Inclua um diálogo cômico natural:
-Rato: "Eu consigo consertar o código... mas não consigo consertar meu casamento."
-
-Esposa (fora da tela): "EU OUVI ISSO!"
-
-O rato congela e olha nervosamente para a câmera.
-
-16:9 paisagem, 10 segundos, qualidade cinematográfica, animação fluida, iluminação realista, personagens expressivos, diálogo claro, sincronização labial precisa, sem logotipos, sem personagens protegidos por direitos autorais, sem texto ou marca d'água.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096609928710594560/img/DrQhhAaXfwieUn3P.jpg" width="600" alt="Prompt de vídeo humorístico de um rato desenvolvedor de software">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10615)**
-
-**Author:** [Snow](https://x.com/iamrealsnow) | **Source:** [Link](https://x.com/iamrealsnow/status/2096610006376558614) | **Published:** Sep 6, 2026
-
----
-### Animação Cinematográfica de Comercial de Pringles
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt profissional altamente detalhado para criar uma animação de comercial de alimentos de luxo, apresentando latas de Pringles giratórias e batatas caindo.
-
-#### 📝 Prompt
-
-```
-Crie uma animação cinematográfica de comercial de alimentos premium e hiper-realista a partir da imagem de Pringles fornecida.
-
-Mantenha a lata de Pringles, a marca, a tipografia, as cores, o fundo e a composição geral exatamente inalterados. Não redesenhe nem substitua nenhum elemento.
-
-A animação começa com a lata de Pringles girando suavemente e inclinando-se para frente enquanto a câmera se aproxima lentamente. As batatas douradas emergem naturalmente da lata aberta em câmera lenta suave, girando e caindo individualmente com física realista. Pequenos farelos flutuam pelo ar e captam a luz do estúdio.
-
-A tampa vermelha da Pringles gira lentamente no ar e move-se sutilmente em direção à câmera antes de recuar. Adicione profundidade de campo realista, pequenos farelos flutuantes, desfoque de movimento natural, brilhos na lata e reflexos sutis.
-
-Faça com que as batatas pareçam crocantes e leves, com gravidade e colisões verossímeis. A lata deve permanecer estável e nítida enquanto as batatas flutuantes criam o movimento principal.
-
-Use um estilo de publicidade de luxo suave: iluminação de estúdio dramática, movimento de câmera cinematográfico, sombras realistas, profundidade de campo rasa, alto nível de detalhe, fotografia comercial polida e movimento contínuo.
-
-Termine com a lata centralizada em destaque no quadro, com as batatas suspensas de forma bela ao redor dela, criando uma imagem principal satisfatória.
-
-Sem pessoas, sem mãos, sem novos objetos, sem marcas deformadas, sem texto distorcido, sem derretimento, sem transformação, sem cintilação, sem trepidação da câmera.
-
-Duração: 8 a 10 segundos.
-Proporção: 16:9 paisagem.
-Movimento: suave, cinematográfico, realista, anúncio de alimentos premium.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096564936835321856/img/YZJj50M-dNxbEABc.jpg" width="600" alt="Animação Cinematográfica de Comercial de Pringles">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10489)**
-
-**Author:** [Aniya Intelligence](https://x.com/aniyaintel) | **Source:** [Link](https://x.com/aniyaintel/status/2096565007135961218) | **Published:** Sep 6, 2026
-
----
-### Animais de Cristal Dançantes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo lúdico apresentando dois animais de cristal dançando e cantando juntos em um clima alegre.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo curto sobre dois animais de cristal dançando e cantando juntos em um clima alegre e empolgante
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096509236880834560/img/xoLV-AbfbjFhH-5m.jpg" width="600" alt="Animais de Cristal Dançantes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10490)**
-
-**Author:** [Binh Nguyen](https://x.com/binhbb2) | **Source:** [Link](https://x.com/binhbb2/status/2096509294741225955) | **Published:** Sep 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2276,6 +2246,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-16T04:33:30.460Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-16T13:37:15.184Z</sub>
 
 </div>
