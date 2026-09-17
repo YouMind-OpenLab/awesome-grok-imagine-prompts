@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2826** |
+| 📝 Total Prompts | **2835** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-17** |
 
@@ -189,6 +189,120 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### หญิงสาวโยนโลกเข้าดวงอาทิตย์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอของหญิงสาวที่ถือโลกและโยนมันเข้าดวงอาทิตย์จนเกิดการระเบิด
+
+#### 📝 Prompt
+
+```
+ภาพหญิงสาวแบกโลกไว้บนบ่า เธอหยิบโลกแล้วโยนออกไปในอวกาศ โลกพุ่งชนดวงอาทิตย์และลุกไหม้เป็นเปลวไฟ เพิ่มข้อความจากภาพ ....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100321558443036672/img/Rl1Rp_degjVQkYGq.jpg" width="600" alt="หญิงสาวโยนโลกเข้าดวงอาทิตย์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10970)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2100321574658130008) | **Published:** Sep 16, 2026
+
+---
+### พรอมต์ JSON แบบมีโครงสร้างสำหรับฉากภายในอาคาร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ในรูปแบบ JSON ที่มีโครงสร้างชัดเจนสำหรับการสร้างวิดีโอด้วย Grok Imagine โดยเน้นฉากภายในอาคารพร้อมการเคลื่อนไหวของกล้องที่เฉพาะเจาะจง
+
+#### 📝 Prompt
+
+```
+{"shot":{"motion_level":"low","camera_depth":"close-up","camera_view":"eye level","camera_movement":"subtle continuous zoom in","count":"1"},"scene":{"location":"indoor setting on a wooden table","environment":"A calm indoor environment featuring a w... https://t.co/ebCCk0g8EF
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100279939647860736/img/m_preecVqRQw9p4w.jpg" width="600" alt="พรอมต์ JSON แบบมีโครงสร้างสำหรับฉากภายในอาคาร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10971)**
+
+**Author:** [Han Vu](https://x.com/HanVu195089) | **Source:** [Link](https://x.com/HanVu195089/status/2100279957507150291) | **Published:** Sep 16, 2026
+
+---
+### วิดีโอเปิดตัว Tesla Roadster แบบภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอแบบภาพยนตร์และสมจริงของงานเปิดตัว Tesla Roadster พร้อมการจุดจรวดขับดัน
+
+#### 📝 Prompt
+
+```
+ภาพแบบภาพยนตร์ที่สมจริงของ Tesla Roadster เจเนอเรชันที่สองใหม่ระหว่างช่วง "Go for launch" รถไฮเปอร์คาร์สีแดงสไตล์อนาคตลอยตัวขึ้นจากพื้นเล็กน้อยพร้อมกับการทำงานของจรวดขับดันก๊าซเย็น SpaceX ที่ปล่อยไอเสียสีขาวสว่างสี่สายจากด้านหลัง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100243744406810624/img/4qeedoO1jM2kj1xX.jpg" width="600" alt="วิดีโอเปิดตัว Tesla Roadster แบบภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10976)**
+
+**Author:** [harvey](https://x.com/HarveyJS) | **Source:** [Link](https://x.com/HarveyJS/status/2100243758898200846) | **Published:** Sep 16, 2026
+
+---
+### เหยี่ยวในชุดสูทแฟชั่นระดับไฮเอนด์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับจินตนาการถึงเหยี่ยวที่สวมชุดแทรคสูทสไตล์แฟชั่นระดับไฮเอนด์ กำลังสังเกตท้องฟ้าจากบนระเบียง
+
+#### 📝 Prompt
+
+```
+ลองจินตนาการถึงเหยี่ยวตัวหนึ่งที่กำลังนั่งอยู่บนระเบียงบ้าน สวมใส่ชุดแทรคสูท "แฟชั่น" แบบมีซิปหน้า-หลัง (up and down) และกำลังทอดสายตามองไปยังท้องฟ้า
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100214782498414593/img/VrAE7H9zK-IDYGTR.jpg" width="600" alt="เหยี่ยวในชุดสูทแฟชั่นระดับไฮเอนด์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10969)**
+
+**Author:** [🤴🏻](https://x.com/DDadalekan) | **Source:** [Link](https://x.com/DDadalekan/status/2100215467868668039) | **Published:** Sep 16, 2026
+
+---
+### Grok Imagine Prompt: การพบกันที่คาเฟ่ในไมอามี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ข้อความสั่งการเชิงบรรยายที่อธิบายการมีปฏิสัมพันธ์เฉพาะเจาะจงในคาเฟ่แห่งหนึ่งในไมอามี involving Kid Cudi.
+
+#### 📝 Prompt
+
+```
+ฉัน (ชายผิวขาว) กำลังนั่งจิบโคลาอยู่ในคาเฟ่แห่งหนึ่งในไมอามี บาริสต้าเดินมาเสิร์ฟคร็อกเก็ตแล้วถามว่าต้องการอะไรเพิ่มเติมไหม ฉันตอบไปว่าไม่แล้ว แค่นี้พอ ทันใดนั้น Kid Cudi เดินเข้ามาด้วยท่าทางหวาดกลัว เขาเห็นฉันแล้วตกใจจนต้องสูดลมหายใจเข้าลึกๆ ก่อนจะหันหลังกลับและเดินออกจากคาเฟ่ไปทันที
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100155268931657728/img/uXS5cJfruVXBNbcC.jpg" width="600" alt="Grok Imagine Prompt: การพบกันที่คาเฟ่ในไมอามี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10975)**
+
+**Author:** [Kyle Kelly](https://x.com/dairyfarts) | **Source:** [Link](https://x.com/dairyfarts/status/2100155289223721409) | **Published:** Sep 16, 2026
+
+---
+### นก pheasant และสุนัขจิ้งจอกไล่ตามรถ SUV บนถนนชนบท
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอด้วย Grok Imagine แสดงภาพนก pheasant และสุนัขจิ้งจอกแดงไล่ตามรถ SUV สีดำไปตามถนนคดเคี้ยวในเขต Cotswolds พร้อมการเคลื่อนไหวของสัตว์ที่ดูมีชีวิตชีวา
+
+#### 📝 Prompt
+
+```
+นก pheasant และสุนัขจิ้งจอกแดงไล่ตามรถ SUV สีดำไปตามถนนคดเคี้ยวในเขต Cotswolds นกกระพือปีกบินต่ำ สุนัขจิ้งจอกวิ่งเร็วและกระโดดจนฝุ่นตลบ รถยนต์เคลื่อนตัวไปข้างหน้าอย่างช้าๆ ผ่านเนินเขาเขียวขจีที่มีกำแพงหินภายใต้ท้องฟ้าครึ้ม...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100121184503287808/img/vPyC9qNkckcPIniD.jpg" width="600" alt="นก pheasant และสุนัขจิ้งจอกไล่ตามรถ SUV บนถนนชนบท">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10972)**
+
+**Author:** [Just4usewith_thisapp](https://x.com/just4usewith) | **Source:** [Link](https://x.com/just4usewith/status/2100121793084145742) | **Published:** Sep 16, 2026
+
+---
 ### พรอมต์วิดีโอ Grok Imagine: การกลับมาพบกันของสุนัข
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -229,6 +343,25 @@ Why use our gallery?
 **Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **Published:** Sep 15, 2026
 
 ---
+### Dog Saying Mama Why
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for Grok Imagine animating a dog named Little Man to say 'mama why do you take so long?'.
+
+#### 📝 Prompt
+
+```
+Make this dog named Little Man say mama why do you take so long? https://t.co/DxRYqI8CbP
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993603900571648/img/0AwX-Pp4qI26a_t3.jpg" width="600" alt="Dog Saying Mama Why">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10973)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2099993633256554562) | **Published:** Sep 15, 2026
+
+---
 ### Grok Imagine Video Prompt: Glowing Spider Lily in Rain
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -249,6 +382,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10946)**
 
 **Author:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **Source:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **Published:** Sep 15, 2026
+
+---
+### King Diamond ที่ Hollywood Hill
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสำหรับ Grok Imagine วาง King Diamond ไว้ที่ Wisdom Tree บน Hollywood Hill ตอนเที่ยงคืนพร้อมเพิ่มพระจันทร์เต็มดวง
+
+#### 📝 Prompt
+
+```
+King Diamond ที่ Wisdom Tree บน Hollywood Hill ตอนเที่ยงคืน ตอนนี้เพิ่มพระจันทร์เต็มดวง @King_Diamond 🤷‍♂️ https://t.co/wLLm9lzT3a
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099977081484652544/img/3r4BQ2bE9wd1L5UA.jpg" width="600" alt="King Diamond ที่ Hollywood Hill">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10974)**
+
+**Author:** [Mr.Lucky_130 🍀](https://x.com/Lucky13014) | **Source:** [Link](https://x.com/Lucky13014/status/2099977106914787437) | **Published:** Sep 15, 2026
 
 ---
 ### สไตล์ภาพวาดคลาสสิกของไดโอเจนีส
@@ -421,6 +573,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10812)**
 
 **Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099327424630513961) | **Published:** Sep 14, 2026
+
+---
+### พรอมต์วิดีโอขาวดำสไตล์ภาพยนตร์สำหรับผู้หญิง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอขาวดำสไตล์ภาพยนตร์ของหญิงสาวในเมืองพร้อมเอฟเฟกต์เบลอจากการเคลื่อนไหว
+
+#### 📝 Prompt
+
+```
+วิดีโอขาวดำสไตล์ภาพยนตร์ของหญิงสาวในเมืองยามค่ำคืน ถ่ายด้วยเทคนิคการเปิดหน้ากล้องนาน (long exposure) และจงใจให้เกิดเอฟเฟกต์เบลอจากการเคลื่อนไหว เธออยู่ในฉากหน้า ค่อนไปทางด้านข้างเล็กน้อย กำลังหันศีรษะขณะกำลังเคลื่อนไหว ทำให้เส้นผมยาวของเธอสะบัดผ่าน...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099280377559080960/img/W0AxOb_aVlOH9frT.jpg" width="600" alt="พรอมต์วิดีโอขาวดำสไตล์ภาพยนตร์สำหรับผู้หญิง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10977)**
+
+**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2099280396932308994) | **Published:** Sep 13, 2026
 
 ---
 ### พรอมต์ Grok Imagine: นิสัยแมวขี้ตัดสิน
@@ -1990,201 +2161,6 @@ Alice @Reference3 และ Dani @Reference2 กำลังหั่นผั�
 **Author:** [Vdewey](https://x.com/Vdeweydo) | **Source:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **Published:** Sep 7, 2026
 
 ---
-### แอนิเมชันการร้องเพลงโอเปร่าคู่
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สร้างแอนิเมชันจากภาพเฉพาะของชายและหญิงที่กำลังร้องเพลงโอเปร่าคู่กันในฉากป่าริมชายฝั่ง
-
-#### 📝 Prompt
-
-```
-ณ ที่ซึ่งมหาสมุทรบรรจบกับแสงสว่าง
-การร้องเพลงโอเปร่าคู่ต้นฉบับ — 30 วินาที
-
-สร้างแอนิเมชันจากภาพที่แนบมา โดยคงรายละเอียดใบหน้า เครื่องแต่งกาย ไม้เท้า และตำแหน่งของนักร้องทั้งสองคนไว้: ผู้ชายอยู่ทางซ้าย ผู้หญิงอยู่ทางขวา พร้อมทั้งคงฉากป่าริมชายฝั่ง ดอกไม้สีขาว และมหาสมุทร...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096761557204226048/img/dJArH_qSa26YBUy-.jpg" width="600" alt="แอนิเมชันการร้องเพลงโอเปร่าคู่">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10534)**
-
-**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2096761605564276768) | **Published:** Sep 7, 2026
-
----
-### ปรากฏการณ์เหนือจริงสุดเพ้อฝัน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสร้างภาพ (Prompt) ที่เน้นการตีความตรรกะเชิงพื้นที่และเหตุปัจจัยในรูปแบบเหนือจริง
-
-#### 📝 Prompt
-
-```
-สร้างภาพที่องค์ประกอบหนึ่งของวัตถุหรือฉากเปลี่ยนไปเป็นปรากฏการณ์เหนือจริงที่ดูเพ้อฝันและไร้เหตุผลเล็กน้อย ซึ่งเป็นการตีความหลักการเชิงแนวคิดใหม่ ไม่ว่าจะเป็นเรื่องเหตุปัจจัย อัตลักษณ์ การรับรู้ หรือตรรกะเชิงพื้นที่ โดยไม่ต้องใช้ความเป็นธรรมชาติ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096747823203291136/img/rFUeETuTxQumt6rm.jpg" width="600" alt="ปรากฏการณ์เหนือจริงสุดเพ้อฝัน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10537)**
-
-**Author:** [LUCKY](https://x.com/luluoksana) | **Source:** [Link](https://x.com/luluoksana/status/2096747856522793093) | **Published:** Sep 6, 2026
-
----
-### แอนิเมชันประติมากรรมนักเพาะกาย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แอนิเมชันสุดพิเศษที่จะเปลี่ยนรูปปั้นหินอ่อนให้กลายเป็นนักเพาะกายพร้อมเส้นผมที่พริ้วไหว
-
-#### 📝 Prompt
-
-```
-ทำแอนิเมชันให้กับรูปปั้นนี้ โดยทำให้ดูเหมือนกำลังอยู่ในการแข่งขันเพาะกาย แต่ยังคงสไตล์หินอ่อนที่สวยงามเอาไว้ และทำให้เส้นผมดูเหมือนกำลังพริ้วไหวไปตามอากาศ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096746420946808832/img/Zwxsao94TVbGmDvZ.jpg" width="600" alt="แอนิเมชันประติมากรรมนักเพาะกาย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10482)**
-
-**Author:** [Mr. Savistarz](https://x.com/AryehKatz) | **Source:** [Link](https://x.com/AryehKatz/status/2096746486306316650) | **Published:** Sep 6, 2026
-
----
-### ทัศนียภาพเมือง Edmonton แห่งอนาคต
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (prompt) สำหรับการแปลงภาพเป็นวิดีโอ โดยเน้นการจินตนาการแนวคิดเมืองขนาดใหญ่ (megacity) ให้กลายเป็นสถาปัตยกรรมของเมือง Edmonton ในอนาคต
-
-#### 📝 Prompt
-
-```
-เปลี่ยนภาพเมืองขนาดใหญ่ (megacity) แบบหลายชั้นแห่งอนาคตจากภาพแรกให้กลายเป็นเมือง Edmonton เมืองหลวงของรัฐ Alberta ในอีก 100 ปีข้างหน้า (ปี ค.ศ. 2126) โดยอ้างอิงองค์ประกอบโดยรวม ตึกระฟ้าที่มีความโค้งมนแบบออร์แกนิก ทางด่วนยกระดับ และอาคารหนาแน่นพร้อมแสงไฟ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096742822653366273/img/Lpwvrr3kf3xjQAak.jpg" width="600" alt="ทัศนียภาพเมือง Edmonton แห่งอนาคต">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10528)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2096743252884070860) | **Published:** Sep 6, 2026
-
----
-### แอนิเมชันโปรไฟล์แนวตั้งเชิงเทคนิค
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์เชิงเทคนิคที่มีรายละเอียดสูงสำหรับการรักษาความสม่ำเสมอของ UI และเลย์เอาต์ตัวละคร โดยใช้ภาพอ้างอิงสองภาพสำหรับวิดีโอแนวตั้งความยาว 15 วินาที
-
-#### 📝 Prompt
-
-```
-ความยาว 15 วินาที, แนวตั้ง 9:16 ใช้ภาพที่ให้มาทั้งสองภาพเป็นข้อมูลอ้างอิง
-
-- ใช้ภาพหน้าจอของหน้าโปรไฟล์ X เป็นข้อมูลอ้างอิงสำหรับพื้นหลัง, UI และเลย์เอาต์เพียงอย่างเดียว
-- ใช้ภาพขยายของ MoiMoi เป็นข้อมูลอ้างอิงสำหรับการออกแบบตัวละครเพียงอย่างเดียว
-
-คงภาพส่วนหัวของภาพต้นฉบับ, พื้นหลัง UI สีดำ, ตำแหน่งไอคอนโปรไฟล์, ปุ่มแต่ละปุ่ม, ไอคอนกราฟิก, เส้นแบ่ง, ภาพที่โพสต์, องค์ประกอบหน้าจอ, ระยะขอบ, สี และสัดส่วนเอาไว้
-
-กล้องจะถูกล็อกไว้อย่างสมบูรณ์ ห้ามซูม, แพน, หมุน, เอียง, ครอป หรือสร้างหน้าจอใหม่ ห้ามยืดภาพต้นฉบับ ในการปรับให้เป็น 9:16 ห้ามเพิ่มแถบสีดำ ให้ขยายขอบของ UI ออกไปตามธรรมชาติหรือปรับตำแหน่งอย่างละเอียดเพื่อให้เต็มหน้าจอ
-
-วัตถุประสงค์ของแอนิเมชัน:
-แสดงภาพตัวละครที่เคลื่อนไหวอย่างมีชีวิตชีวาภายในพื้นที่ภาพที่โพสต์ของหน้าโปรไฟล์แบบคงที่
-
-การเคลื่อนไหวของตัวละคร:
-- MoiMoi จะไม่เคลื่อนที่ออกจากกรอบของภาพที่โพสต์
-- โบกมืออย่างกระตือรือร้นมาที่กล้อง
-- กะพริบตาและขยับปากเหมือนกำลังพูด (ไม่จำเป็นต้องมีเสียง)
-- ผมและเสื้อผ้าพริ้วไหวตามสายลมเบาๆ
-- แสดงความน่ารักอยู่กับที่โดยไม่มีการเปลี่ยนท่าทางอย่างมีนัยสำคัญ
-
-การล็อกพื้นหลัง:
-- ห้ามขยับองค์ประกอบ UI ใดๆ นอกเหนือจากภาพที่โพสต์ (ไอคอน, ข้อความ, ปุ่ม ฯลฯ) โดยเด็ดขาด
-- ตรวจสอบให้แน่ใจว่าสีของ UI ไม่เปลี่ยนแปลงและไม่มีสัญญาณรบกวนเกิดขึ้น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096736177114214400/img/JfLqTgNAfxYAoLE5.jpg" width="600" alt="แอนิเมชันโปรไฟล์แนวตั้งเชิงเทคนิค">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10492)**
-
-**Author:** [moimoi](https://x.com/moimoi16914694) | **Source:** [Link](https://x.com/moimoi16914694/status/2096736190041129439) | **Published:** Sep 6, 2026
-
----
-### เส้นทางสายดวงดาวแห่งพรมแดนใหม่
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวไซไฟเชิงกวีที่ถ่ายทอดภาพของจรวด หุ่นยนต์ และวงจรไฟฟ้าที่ดูราวกับทางหลวงแห่งแสงดาวในความว่างเปล่า
-
-#### 📝 Prompt
-
-```
-พรมแดนใหม่ รหัสที่ถูกเชื่อมต่อเข้ากับความว่างเปล่า สิ่งนั้นมีหน้าตาเป็นอย่างไร จรวด หุ่นยนต์ และวงจรไฟฟ้าที่ดูราวกับทางหลวงแห่งแสงดาว
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096724507147063296/img/d2g4xcUIEhni8dtG.jpg" width="600" alt="เส้นทางสายดวงดาวแห่งพรมแดนใหม่">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10483)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2096724541833990197) | **Published:** Sep 6, 2026
-
----
-### แอนิเมชันการต่อสู้สุดยิ่งใหญ่ของซูเปอร์ฮีโร่
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แอนิเมชันแบบไดนามิกสำหรับการต่อสู้ระหว่างซูเปอร์ฮีโร่สายศาสนาในชุดเกราะศักดิ์สิทธิ์กับผู้นำปีศาจจากขุมนรกขนาดมหึมา
-
-#### 📝 Prompt
-
-```
-แอนิเมชันการต่อสู้แบบไดนามิกสุดยิ่งใหญ่: ซูเปอร์ฮีโร่สายศาสนาในชุดเกราะศักดิ์สิทธิ์เรืองแสงและปีกแห่งแสง ปะทะกับผู้นำปีศาจจากขุมนรกขนาดมหึมาอย่างดุเดือด
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096709743024685058/img/6kh_HaXAFJgRehM7.jpg" width="600" alt="แอนิเมชันการต่อสู้สุดยิ่งใหญ่ของซูเปอร์ฮีโร่">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10481)**
-
-**Author:** [Hope](https://x.com/Hope4peace4man) | **Source:** [Link](https://x.com/Hope4peace4man/status/2096709810729218456) | **Published:** Sep 6, 2026
-
----
-### วิดีโอไอศกรีมซันเดย์กับแมวเหมียวสุดแฟนซี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แบบสมจริงที่บรรยายภาพแมวสีขาวนั่งอยู่ในถ้วยไอศกรีมซันเดย์ขนาดใหญ่ที่กำลังละลาย บนถนนในเมืองท่ามกลางแสงแดดสดใส
-
-#### 📝 Prompt
-
-```
-ภาพยนตร์แนวแฟนซีช็อตมุมกว้างปานกลางของแมวสีขาวขนฟูสวมแว่นกันแดดทรงกลมสีเข้ม นั่งอย่างภาคภูมิใจอยู่ภายในไอศกรีมซันเดย์ขนาดใหญ่ที่กำลังละลาย ไอศกรีมซอฟต์เสิร์ฟวานิลลาทรงสูงกำลังยุบตัว ซอสช็อกโกแลตเงางามและซอสสตรอว์เบอร์รีสีสดไหลเยิ้มลงมาด้านข้าง มีเชอร์รี่สีแดงวางอยู่ด้านบน ฉากหลังเป็นถนนในเมืองโทนสีพาสเทลที่สดใสพร้อมหน้าร้านหลากสีสันและแสงแดดอุ่น ๆ แบบโบเก้ สไตล์สมจริงน่ารักและเหนือจริง พื้นผิวเหนียวหวาน สีหน้าขี้เล่นและมั่นใจ ขนและพื้นผิวของขนมมีความละเอียดสูง แสงสว่างจ้าดูร่าเริง และ Grok Imagine
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471204890898432/img/fOtYCQxm1EPiYcbR.jpg" width="600" alt="วิดีโอไอศกรีมซันเดย์กับแมวเหมียวสุดแฟนซี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10486)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096697445015044316) | **Published:** Sep 6, 2026
-
----
-### วิดีโอยานอวกาศคริสตัลในรูปแบบภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ความละเอียดสูงสำหรับสร้างวิดีโอยานอวกาศคริสตัลของชาว Pleiadian พร้อมการจัดแสงแบบ Volumetric
-
-#### 📝 Prompt
-
-```
-ชาว Pleiadian ในยานอวกาศ ยานแม่ ยานคริสตัล รูปทรงจานบิน, ผลงานชิ้นเอก, ความละเอียดระดับ Ultra HD 1111111111111111111111111111999999999999999999999999 k , แสงสว่างแบบ Volumetric สีสัน โทนสี และการลงเงา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096675326483156992/img/DRG5Zy58QnxgMKZb.jpg" width="600" alt="วิดีโอยานอวกาศคริสตัลในรูปแบบภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10487)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **Published:** Sep 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2246,6 +2222,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-17T04:42:01.989Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-17T13:33:20.133Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2826** |
+| 📝 Total Prompts | **2835** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-17** |
 
@@ -189,6 +189,120 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Woman Throwing World into Sun
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video of a woman holding the world and throwing it into the sun, causing an explosion.
+
+#### 📝 Prompt
+
+```
+Image woman with the world on her shoulders she takes the world and throws it into space it hits the sun and burns up in flames add words from the images ....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100321558443036672/img/Rl1Rp_degjVQkYGq.jpg" width="600" alt="Woman Throwing World into Sun">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10970)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2100321574658130008) | **Published:** Sep 16, 2026
+
+---
+### Structured JSON Prompt for Indoor Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A structured JSON-formatted prompt for Grok Imagine video generation featuring an indoor setting with specific camera movements.
+
+#### 📝 Prompt
+
+```
+{"shot":{"motion_level":"low","camera_depth":"close-up","camera_view":"eye level","camera_movement":"subtle continuous zoom in","count":"1"},"scene":{"location":"indoor setting on a wooden table","environment":"A calm indoor environment featuring a w... https://t.co/ebCCk0g8EF
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100279939647860736/img/m_preecVqRQw9p4w.jpg" width="600" alt="Structured JSON Prompt for Indoor Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10971)**
+
+**Author:** [Han Vu](https://x.com/HanVu195089) | **Source:** [Link](https://x.com/HanVu195089/status/2100279957507150291) | **Published:** Sep 16, 2026
+
+---
+### Tesla Roadster Launch Cinematic Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cinematic, photorealistic video of the Tesla Roadster's launch reveal with thrusters firing.
+
+#### 📝 Prompt
+
+```
+Cinematic photorealistic image of the new second-generation Tesla Roadster during its "Go for launch" reveal, red futuristic hypercar hovering slightly off the ground with SpaceX cold gas thrusters firing four bright white exhaust plumes from the rear
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100243744406810624/img/4qeedoO1jM2kj1xX.jpg" width="600" alt="Tesla Roadster Launch Cinematic Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10976)**
+
+**Author:** [harvey](https://x.com/HarveyJS) | **Source:** [Link](https://x.com/HarveyJS/status/2100243758898200846) | **Published:** Sep 16, 2026
+
+---
+### Falcon in High Fashion Suit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to imagine a falcon wearing a high fashion track suit observing the sky from a balcony.
+
+#### 📝 Prompt
+
+```
+Imagine a falcon in an up and down “high fashion” track suit sitting down and observing the sky’s from the balcony of his home
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100214782498414593/img/VrAE7H9zK-IDYGTR.jpg" width="600" alt="Falcon in High Fashion Suit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10969)**
+
+**Author:** [🤴🏻](https://x.com/DDadalekan) | **Source:** [Link](https://x.com/DDadalekan/status/2100215467868668039) | **Published:** Sep 16, 2026
+
+---
+### Grok Imagine Prompt: Miami Cafe Encounter
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative prompt describing a specific interaction in a Miami cafe involving Kid Cudi.
+
+#### 📝 Prompt
+
+```
+Me the white guy is having a collata in a Miami cafe. The barista brings over croquettes and ask anything else. I say no that is all. Kid cudi walks in looking scared. He sees me gasps and turns around and walks out.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100155268931657728/img/uXS5cJfruVXBNbcC.jpg" width="600" alt="Grok Imagine Prompt: Miami Cafe Encounter">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10975)**
+
+**Author:** [Kyle Kelly](https://x.com/dairyfarts) | **Source:** [Link](https://x.com/dairyfarts/status/2100155289223721409) | **Published:** Sep 16, 2026
+
+---
+### Pheasants and Foxes Chasing SUVs on Country Road
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine depicting pheasants and red foxes chasing black SUVs along a winding Cotswolds country road with dynamic animal movements.
+
+#### 📝 Prompt
+
+```
+Pheasants and red foxes chase the black SUVs along the winding Cotswolds country road. Birds flutter and fly low, foxes sprint and leap kicking up dust, vehicles drive slowly forward through the rolling green hills with stone walls under cloudy sky....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100121184503287808/img/vPyC9qNkckcPIniD.jpg" width="600" alt="Pheasants and Foxes Chasing SUVs on Country Road">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10972)**
+
+**Author:** [Just4usewith_thisapp](https://x.com/just4usewith) | **Source:** [Link](https://x.com/just4usewith/status/2100121793084145742) | **Published:** Sep 16, 2026
+
+---
 ### Grok Imagine Video Prompt: Dog Reunion
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -229,26 +343,64 @@ The white and red airplane flies smoothly forward through the blue sky, banking 
 **Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **Published:** Sep 15, 2026
 
 ---
-### Grok Imagine Video Prompt: Glowing Spider Lily in Rain
+### Dog Saying Mama Why
 
-![日本語](https://img.shields.io/badge/lang-日本語-green)
+![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt creating a close-up of a red spider lily glowing blue in the rain at night, with detailed camera movements and atmospheric effects.
+> A video prompt for Grok Imagine animating a dog named Little Man to say 'mama why do you take so long?'.
 
 #### 📝 Prompt
 
 ```
-Depict a single red spider lily in the rain, glowing blue in the darkness of night, shown beautifully in close-up with a CG-style visual.
-The petals have many raindrops dripping down, quietly emitting a bluish-white light, softly illuminating the surrounding air.
-The camera starts with a close-up of the flower, slowly following the tips of the petals and reflections of water droplets, slightly circling around to highlight its beauty.
-Amidst the quietness of the night, leave the sound of swaying in the faint wind and the shimmering when light passes through water droplets.
+Make this dog named Little Man say mama why do you take so long? https://t.co/DxRYqI8CbP
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099993504810426368/img/nKyNvBwY48Xu3a_f.jpg" width="600" alt="Grok Imagine Video Prompt: Glowing Spider Lily in Rain">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993603900571648/img/0AwX-Pp4qI26a_t3.jpg" width="600" alt="Dog Saying Mama Why">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10973)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2099993633256554562) | **Published:** Sep 15, 2026
+
+---
+### Grok Imagine Prompt: Blue Spider Lily Night
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A highly detailed video prompt for Grok Imagine depicting a blue spider lily glowing in the rain at night, with camera movements and lighting effects.
+
+#### 📝 Prompt
+
+```
+Depict a single spider lily in the rain, glowing blue in the dark night, shown beautifully in close-up with CG-style visuals.
+The petals have many raindrops dripping down, silently glowing bluish-white, and the light softly illuminates the surrounding air.
+The camera starts with a close-up of the flower, slowly following the tips of the petals and reflections of water droplets, slightly circling to highlight its beauty.
+In the quiet of the night, leave the sound of swaying in a faint wind and the sparkle when light passes through water droplets.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993504810426368/img/nKyNvBwY48Xu3a_f.jpg" width="600" alt="Grok Imagine Prompt: Blue Spider Lily Night">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10946)**
 
 **Author:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **Source:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **Published:** Sep 15, 2026
+
+---
+### King Diamond at Hollywood Hill
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for Grok Imagine placing King Diamond by the Wisdom Tree on Hollywood Hill at midnight with a full moon added.
+
+#### 📝 Prompt
+
+```
+King Diamond by the Wisdom Tree on the Hollywood Hill at midnight now add full moon @King_Diamond 🤷‍♂️ https://t.co/wLLm9lzT3a
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099977081484652544/img/3r4BQ2bE9wd1L5UA.jpg" width="600" alt="King Diamond at Hollywood Hill">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10974)**
+
+**Author:** [Mr.Lucky_130 🍀](https://x.com/Lucky13014) | **Source:** [Link](https://x.com/Lucky13014/status/2099977106914787437) | **Published:** Sep 15, 2026
 
 ---
 ### Diogenes Classical Painting Style
@@ -423,6 +575,25 @@ A young woman with long, flowing black hair adorned with a large red bow, wearin
 **Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099327424630513961) | **Published:** Sep 14, 2026
 
 ---
+### Cinematic black-and-white woman video prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt for a cinematic black-and-white video of a young woman in the city with motion blur effects.
+
+#### 📝 Prompt
+
+```
+A black-and-white cinematic video of a young woman at night in the city, shot with a long exposure and intentional motion blur. She is in the foreground, slightly off-center, turning her head mid-motion so that her long hair flicks across the...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099280377559080960/img/W0AxOb_aVlOH9frT.jpg" width="600" alt="Cinematic black-and-white woman video prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10977)**
+
+**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2099280396932308994) | **Published:** Sep 13, 2026
+
+---
 ### Grok Imagine Prompt: Judgmental Cat Personality
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -575,11 +746,11 @@ The woman stands up fully from among the barbed wire, then gracefully walks forw
 **Author:** [Barbara 💕🕊️🌎](https://x.com/BarbaraCbroker1) | **Source:** [Link](https://x.com/BarbaraCbroker1/status/2098898374229680514) | **Published:** Sep 12, 2026
 
 ---
-### Futuristic City Ship Sci-Fi Video Prompt
+### Sci-fi flying city sequence prompt for Grok Imagine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive prompt for a 10-second vertical cinematic sci-fi sequence featuring a flying city-ship, engines, traffic, and deep space travel, ending with text overlay.
+> A detailed cinematic prompt for generating a sci-fi sequence featuring a flying city-ship, engines, and space travel.
 
 #### 📝 Prompt
 
@@ -588,7 +759,7 @@ The woman stands up fully from among the barbed wire, then gracefully walks forw
 “THE FUTURE IS REAL — NEXT LEVEL SCI-FI.”
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="Futuristic City Ship Sci-Fi Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="Sci-fi flying city sequence prompt for Grok Imagine">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10819)**
 
@@ -1973,187 +2144,6 @@ Have her dribble the basketball the goal and do a Micheal Jordan dunk on the rim
 **Author:** [Vdewey](https://x.com/Vdeweydo) | **Source:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **Published:** Sep 7, 2026
 
 ---
-### Opera Duet Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Animates a specific image of a man and woman performing an opera duet in a coastal forest setting.
-
-#### 📝 Prompt
-
-```
-WHERE THE OCEAN FINDS THE LIGHT
-Original opera duet — 30 seconds
-
-Animate the attached image. Preserve both singers’ faces, clothing, staffs, and positions: the man on the left, the woman on the right. Keep the coastal forest, white blossoms, and oce...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096761557204226048/img/dJArH_qSa26YBUy-.jpg" width="600" alt="Opera Duet Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10534)**
-
-**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2096761605564276768) | **Published:** Sep 7, 2026
-
----
-### Whimsical Surreal Phenomenon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An image prompt focused on surreal reinterpretations of spatial logic and causality.
-
-#### 📝 Prompt
-
-```
-Create an image in which one element of an object or scene transforms into a whimsical, slightly absurd surreal phenomenon that reinterprets one of the conceptual principles — causality, identity, perception, or spatial logic — without using natural...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096747823203291136/img/rFUeETuTxQumt6rm.jpg" width="600" alt="Whimsical Surreal Phenomenon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10537)**
-
-**Author:** [LUCKY](https://x.com/luluoksana) | **Source:** [Link](https://x.com/luluoksana/status/2096747856522793093) | **Published:** Sep 6, 2026
-
----
-### Bodybuilding Sculpture Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A unique animation prompt that transforms a marble sculpture into a bodybuilding competitor with waving hair.
-
-#### 📝 Prompt
-
-```
-Animate this sculpture. Make it look like it’s on a bodybuilding competition but keep the ama e marble style and make the hair look like it’s waving through the air.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096746420946808832/img/Zwxsao94TVbGmDvZ.jpg" width="600" alt="Bodybuilding Sculpture Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10482)**
-
-**Author:** [Mr. Savistarz](https://x.com/AryehKatz) | **Source:** [Link](https://x.com/AryehKatz/status/2096746486306316650) | **Published:** Sep 6, 2026
-
----
-### Futuristic Edmonton Cityscape
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An image-to-video style conversion prompt focusing on reimagining a megacity concept into futuristic Edmonton architecture.
-
-#### 📝 Prompt
-
-```
-Transform the futuristic multi-layered megacity from the first image into Edmonton, the capital of Alberta, 100 years in the future (year 2126). Base the overall composition, organic curved skyscrapers, elevated highways, dense towers with glowing li...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096742822653366273/img/Lpwvrr3kf3xjQAak.jpg" width="600" alt="Futuristic Edmonton Cityscape">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10528)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2096743252884070860) | **Published:** Sep 6, 2026
-
----
-### UI Preservation Video Layout
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed layout structure prompt that enforces background composition, interface tracking, and camera lock constraints based on source image assets.
-
-#### 📝 Prompt
-
-```
-15 seconds, vertical 9:16 aspect ratio. Use the two provided images as reference.
-
-- Use the screenshot of the X profile screen as the sole background, UI, and layout reference.
-- Use the enlarged image of MoiMoi as the sole character design reference.
-
-Maintain the header image of the original photo, black UI background, position of the profile icon, each button, shape icons, divider lines, posted images, screen composition, margins, colors, and proportions.
-
-Camera is completely fixed. Do not zoom, pan, rotate, tilt, crop, or recompose the screen. Do not stretch the original image. Adjust to 9:16...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096736177114214400/img/JfLqTgNAfxYAoLE5.jpg" width="600" alt="UI Preservation Video Layout">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10492)**
-
-**Author:** [moimoi](https://x.com/moimoi16914694) | **Source:** [Link](https://x.com/moimoi16914694/status/2096736190041129439) | **Published:** Sep 6, 2026
-
----
-### Code Wired Frontier
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sci-fi video prompt exploring cosmic infrastructure, space rockets, and advanced circuitry.
-
-#### 📝 Prompt
-
-```
-The frontier, a code wired into the void,  what did it look like, rockets, bots, circuits like starlite highways
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096724507147063296/img/d2g4xcUIEhni8dtG.jpg" width="600" alt="Code Wired Frontier">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10483)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2096724541833990197) | **Published:** Sep 6, 2026
-
----
-### Epic Superhero Battle Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dynamic animation prompt for a battle between a religious superhero with holy armor and a massive demonic underworld leader.
-
-#### 📝 Prompt
-
-```
-Epic dynamic battle animation: the religious superhero with glowing holy armor and light wings clashes fiercely with the massive demonic underworld leader.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096709743024685058/img/6kh_HaXAFJgRehM7.jpg" width="600" alt="Epic Superhero Battle Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10481)**
-
-**Author:** [Hope](https://x.com/Hope4peace4man) | **Source:** [Link](https://x.com/Hope4peace4man/status/2096709810729218456) | **Published:** Sep 6, 2026
-
----
-### Whimsical Cat Ice Cream Sundae Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive, photorealistic prompt for a white cat sitting in a giant melting ice cream sundae on a sunny city street.
-
-#### 📝 Prompt
-
-```
-Whimsical cinematic medium wide shot of a fluffy white cat wearing round dark sunglasses sitting proudly inside a giant melting ice cream sundae, tall vanilla soft serve swirls collapsing, glossy chocolate drizzle and bright strawberry sauce running down the sides, a red cherry balanced on top, a pastel sunny city street with colorful shopfronts and warm daylight bokeh behind him, photoreal cute surreal style, sticky sweet textures, playful confident expression, ultra detailed fur and dessert surface, cheerful high-key lighting, and Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471204890898432/img/fOtYCQxm1EPiYcbR.jpg" width="600" alt="Whimsical Cat Ice Cream Sundae Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10486)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096697445015044316) | **Published:** Sep 6, 2026
-
----
-### Cinematic Crystalline Spacecraft Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-detail prompt for generating a video of crystalline Pleiadian light ships with volumetric lighting.
-
-#### 📝 Prompt
-
-```
-Pleiadians in light ships mother ships crystalline craft saucer shaped, masterpiece, ultra hd quality resolution 1111111111111111111111111111999999999999999999999999 k , volumetric bright lighting colors and tones and shading
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096675326483156992/img/DRG5Zy58QnxgMKZb.jpg" width="600" alt="Cinematic Crystalline Spacecraft Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10487)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **Published:** Sep 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2215,6 +2205,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-17T04:41:56.007Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-17T13:33:14.109Z</sub>
 
 </div>

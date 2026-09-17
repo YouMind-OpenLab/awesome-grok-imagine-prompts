@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2826** |
+| 📝 提示词总数 | **2835** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-17** |
 
@@ -189,6 +189,120 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 女子将地球抛入太阳
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段视频的提示词：一名女子手持地球并将其抛向太阳，引发爆炸。
+
+#### 📝 提示词
+
+```
+图像中一名女子肩扛地球，她将地球抛向太空，地球撞击太阳后在火焰中燃烧殆尽，并添加图片中的文字……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100321558443036672/img/Rl1Rp_degjVQkYGq.jpg" width="600" alt="女子将地球抛入太阳">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10970)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2100321574658130008) | **发布时间:** Sep 16, 2026
+
+---
+### 室内场景结构化 JSON 提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 视频生成的结构化 JSON 格式提示词，包含特定镜头运动的室内场景。
+
+#### 📝 提示词
+
+```
+{"shot":{"motion_level":"low","camera_depth":"close-up","camera_view":"eye level","camera_movement":"subtle continuous zoom in","count":"1"},"scene":{"location":"indoor setting on a wooden table","environment":"A calm indoor environment featuring a w... https://t.co/ebCCk0g8EF
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100279939647860736/img/m_preecVqRQw9p4w.jpg" width="600" alt="室内场景结构化 JSON 提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10971)**
+
+**作者:** [Han Vu](https://x.com/HanVu195089) | **来源:** [Link](https://x.com/HanVu195089/status/2100279957507150291) | **发布时间:** Sep 16, 2026
+
+---
+### Tesla Roadster 发布揭幕式电影级视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成特斯拉 Roadster 发布揭幕式电影级逼真视频的提示词，包含推进器点火场景。
+
+#### 📝 提示词
+
+```
+第二代 Tesla Roadster “准备发射”揭幕时刻的电影级逼真图像，红色未来主义超级跑车略微悬浮于地面之上，SpaceX 冷气体推进器从车尾喷射出四道明亮的白色排气羽流
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100243744406810624/img/4qeedoO1jM2kj1xX.jpg" width="600" alt="Tesla Roadster 发布揭幕式电影级视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10976)**
+
+**作者:** [harvey](https://x.com/HarveyJS) | **来源:** [Link](https://x.com/HarveyJS/status/2100243758898200846) | **发布时间:** Sep 16, 2026
+
+---
+### 身着高级时装的猎鹰
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个想象猎鹰身穿高级时尚运动服，在阳台上观察天空的提示词。
+
+#### 📝 提示词
+
+```
+想象一只猎鹰穿着上下配套的“高级时尚”运动服，坐在自家阳台上凝视着天空
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100214782498414593/img/VrAE7H9zK-IDYGTR.jpg" width="600" alt="身着高级时装的猎鹰">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10969)**
+
+**作者:** [🤴🏻](https://x.com/DDadalekan) | **来源:** [Link](https://x.com/DDadalekan/status/2100215467868668039) | **发布时间:** Sep 16, 2026
+
+---
+### Grok Imagine 提示词：迈阿密咖啡馆偶遇
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段叙事性提示词，描述了在迈阿密一家咖啡馆中与 Kid Cudi 发生的特定互动场景。
+
+#### 📝 提示词
+
+```
+我（白人男性）正在迈阿密的一家咖啡馆里闲聊。服务员端来炸丸子并询问是否还需要其他东西。我说不用了，就这样吧。这时 Kid Cudi 走了进来，神情看起来有些惊恐。他看到我后倒吸一口凉气，随即转身离开了。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100155268931657728/img/uXS5cJfruVXBNbcC.jpg" width="600" alt="Grok Imagine 提示词：迈阿密咖啡馆偶遇">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10975)**
+
+**作者:** [Kyle Kelly](https://x.com/dairyfarts) | **来源:** [Link](https://x.com/dairyfarts/status/2100155289223721409) | **发布时间:** Sep 16, 2026
+
+---
+### 乡间小路上追逐 SUV 的野鸡与狐狸
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 适用于 Grok Imagine 的视频生成提示词，描绘了野鸡和红狐在蜿蜒的科茨沃尔德乡间小路上追逐黑色 SUV 的场景，展现了动态的动物动作。
+
+#### 📝 提示词
+
+```
+野鸡和红狐沿着蜿蜒的科茨沃尔德乡间小路追逐黑色 SUV。鸟儿低空扑腾飞翔，狐狸疾驰跳跃扬起尘土，车辆在多云天空下的起伏绿丘和石墙间缓慢前行……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100121184503287808/img/vPyC9qNkckcPIniD.jpg" width="600" alt="乡间小路上追逐 SUV 的野鸡与狐狸">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10972)**
+
+**作者:** [Just4usewith_thisapp](https://x.com/just4usewith) | **来源:** [Link](https://x.com/just4usewith/status/2100121793084145742) | **发布时间:** Sep 16, 2026
+
+---
 ### Grok Imagine 视频提示词：狗狗重逢
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -229,6 +343,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **发布时间:** Sep 15, 2026
 
 ---
+### 狗狗说“妈妈为什么”
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的视频提示词，让名为 Little Man 的狗狗说出“妈妈，你为什么花这么长时间？”。
+
+#### 📝 提示词
+
+```
+让这只名叫 Little Man 的狗狗说：妈妈，你为什么花这么长时间？ https://t.co/DxRYqI8CbP
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993603900571648/img/0AwX-Pp4qI26a_t3.jpg" width="600" alt="狗狗说“妈妈为什么”">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10973)**
+
+**作者:** [Mark Tatum](https://x.com/Mark561256) | **来源:** [Link](https://x.com/Mark561256/status/2099993633256554562) | **发布时间:** Sep 15, 2026
+
+---
 ### Grok Imagine 视频提示词：雨中发光的彼岸花
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -249,6 +382,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10946)**
 
 **作者:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **来源:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **发布时间:** Sep 15, 2026
+
+---
+### King Diamond 现身好莱坞山
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的视频提示词：在午夜时分，将 King Diamond 置于好莱坞山智慧树旁，并添加满月效果。
+
+#### 📝 提示词
+
+```
+午夜时分，King Diamond 伫立在好莱坞山的智慧树旁，现在加上满月 @King_Diamond 🤷‍♂️ https://t.co/wLLm9lzT3a
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099977081484652544/img/3r4BQ2bE9wd1L5UA.jpg" width="600" alt="King Diamond 现身好莱坞山">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10974)**
+
+**作者:** [Mr.Lucky_130 🍀](https://x.com/Lucky13014) | **来源:** [Link](https://x.com/Lucky13014/status/2099977106914787437) | **发布时间:** Sep 15, 2026
 
 ---
 ### 第欧根尼古典绘画风格
@@ -421,6 +573,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10812)**
 
 **作者:** [John Francavillo](https://x.com/Francavil42824J) | **来源:** [Link](https://x.com/Francavil42824J/status/2099327424630513961) | **发布时间:** Sep 14, 2026
+
+---
+### 电影感黑白女性视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成城市夜景中年轻女性的电影感黑白视频提示词，包含动态模糊效果。
+
+#### 📝 提示词
+
+```
+一段电影感的黑白视频，展示了一位在夜晚城市中的年轻女性，采用长曝光拍摄并刻意营造动态模糊效果。她位于前景，略微偏离中心，在运动过程中转头，使长发掠过画面……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099280377559080960/img/W0AxOb_aVlOH9frT.jpg" width="600" alt="电影感黑白女性视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10977)**
+
+**作者:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **来源:** [Link](https://x.com/poetrynthings/status/2099280396932308994) | **发布时间:** Sep 13, 2026
 
 ---
 ### Grok Imagine 提示词：傲娇猫咪性格
@@ -1990,201 +2161,6 @@ Alice @Reference3 和 Dani @Reference2 正在台面上切菜，并开始像 Elar
 **作者:** [Vdewey](https://x.com/Vdeweydo) | **来源:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **发布时间:** Sep 7, 2026
 
 ---
-### 歌剧二重唱动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为一张特定图片制作动画，展示一男一女在沿海森林背景下表演歌剧二重唱。
-
-#### 📝 提示词
-
-```
-海洋与光相遇之处
-原创歌剧二重唱 — 30 秒
-
-为附图制作动画。保留两位歌手的面部、服装、手杖及位置：男士在左，女士在右。保留沿海森林、白色花朵以及海洋……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096761557204226048/img/dJArH_qSa26YBUy-.jpg" width="600" alt="歌剧二重唱动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10534)**
-
-**作者:** [@TheCFormula credo.](https://x.com/TheCFormula) | **来源:** [Link](https://x.com/TheCFormula/status/2096761605564276768) | **发布时间:** Sep 7, 2026
-
----
-### 异想天开的超现实现象
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个专注于对空间逻辑和因果关系进行超现实重新诠释的图像提示词。
-
-#### 📝 提示词
-
-```
-创建一个图像，其中物体或场景的一个元素转化为一种异想天开、略带荒诞的超现实现象，重新诠释因果关系、同一性、感知或空间逻辑等概念原则之一，且不使用自然...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096747823203291136/img/rFUeETuTxQumt6rm.jpg" width="600" alt="异想天开的超现实现象">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10537)**
-
-**作者:** [LUCKY](https://x.com/luluoksana) | **来源:** [Link](https://x.com/luluoksana/status/2096747856522793093) | **发布时间:** Sep 6, 2026
-
----
-### 健美雕塑动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个独特的动画提示词，可将大理石雕塑转化为拥有飘逸秀发的健美比赛选手。
-
-#### 📝 提示词
-
-```
-为这个雕塑制作动画。让它看起来像是在参加健美比赛，同时保留其惊艳的大理石质感，并使头发呈现出在空中飘动的效果。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096746420946808832/img/Zwxsao94TVbGmDvZ.jpg" width="600" alt="健美雕塑动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10482)**
-
-**作者:** [Mr. Savistarz](https://x.com/AryehKatz) | **来源:** [Link](https://x.com/AryehKatz/status/2096746486306316650) | **发布时间:** Sep 6, 2026
-
----
-### 未来主义风格的埃德蒙顿城市景观
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个图像转视频风格的转换提示词，旨在将大都市概念重新构想为未来主义风格的埃德蒙顿建筑。
-
-#### 📝 提示词
-
-```
-将第一张图片中未来主义的多层大都市转化为 100 年后（2126 年）的艾伯塔省首府埃德蒙顿。以整体构图、有机曲线摩天大楼、高架高速公路、带有发光灯带的密集塔楼为基础...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096742822653366273/img/Lpwvrr3kf3xjQAak.jpg" width="600" alt="未来主义风格的埃德蒙顿城市景观">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10528)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **来源:** [Link](https://x.com/RobinMurrat43a/status/2096743252884070860) | **发布时间:** Sep 6, 2026
-
----
-### 技术垂直向个人资料动画
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一份高度详细的技术提示词，用于在 15 秒的垂直视频中通过两张参考图保持 UI 和角色布局的一致性。
-
-#### 📝 提示词
-
-```
-15 秒，垂直 9:16 比例。请使用提供的两张图片作为参考。
-
-- 使用 X 个人资料页面的截图作为唯一的背景、UI 和布局参考。
-- 使用 MoiMoi 的放大图作为唯一的角色设计参考。
-
-保持原始图片的页眉、黑色 UI 背景、个人资料图标位置、每个按钮、图形图标、分割线、发布图片、屏幕构图、边距、颜色和比例。
-
-摄像机完全固定。请勿进行缩放、平移、旋转、倾斜、裁剪或重构屏幕。请勿拉伸原始图像。为适配 9:16 比例，请勿添加黑边；应自然延伸 UI 边缘或微调位置以填满整个屏幕。
-
-动画目的：
-描绘角色在静态个人资料页面的发布图片区域内生动地移动。
-
-角色动作：
-- MoiMoi 不会离开发布图片的框架。
-- 充满活力地向镜头挥手。
-- 眨眼并移动嘴巴，做出说话的样子（无需音频）。
-- 头发和衣服在微风中摆动。
-- 在原地展现魅力，无需大幅改变姿势。
-
-背景固定：
-- 除发布图片外，请勿移动任何 UI 元素（图标、文字、按钮等）。
-- 确保 UI 颜色不发生变化，且不引入任何噪点。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096736177114214400/img/JfLqTgNAfxYAoLE5.jpg" width="600" alt="技术垂直向个人资料动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10492)**
-
-**作者:** [moimoi](https://x.com/moimoi16914694) | **来源:** [Link](https://x.com/moimoi16914694/status/2096736190041129439) | **发布时间:** Sep 6, 2026
-
----
-### 前沿星光高速公路
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段充满诗意的科幻视频提示词，描绘了火箭、Agent 和电路在虚空中交织，宛如星光高速公路般的景象。
-
-#### 📝 提示词
-
-```
-前沿，一段植入虚空的代码，它看起来是什么样子的？火箭、Agent 和电路如同星光高速公路般延伸。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096724507147063296/img/d2g4xcUIEhni8dtG.jpg" width="600" alt="前沿星光高速公路">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10483)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **来源:** [Link](https://x.com/TLouisevsughan/status/2096724541833990197) | **发布时间:** Sep 6, 2026
-
----
-### 史诗级超级英雄战斗动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于身穿神圣盔甲的宗教超级英雄与巨大的地下世界恶魔领袖之间战斗的动态动画提示词。
-
-#### 📝 提示词
-
-```
-史诗级动态战斗动画：身穿闪耀神圣盔甲并长有光之翼的宗教超级英雄，与巨大的地下世界恶魔领袖展开激烈交锋。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096709743024685058/img/6kh_HaXAFJgRehM7.jpg" width="600" alt="史诗级超级英雄战斗动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10481)**
-
-**作者:** [Hope](https://x.com/Hope4peace4man) | **来源:** [Link](https://x.com/Hope4peace4man/status/2096709810729218456) | **发布时间:** Sep 6, 2026
-
----
-### 奇幻猫咪冰淇淋圣代视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个描述性、照片级真实的提示词，描绘了一只白猫坐在阳光明媚的城市街道上一份巨大的融化冰淇淋圣代中。
-
-#### 📝 提示词
-
-```
-奇幻电影感中景镜头，一只毛茸茸的白猫戴着圆形深色墨镜，神气地坐在巨大的融化冰淇淋圣代里，高耸的香草软冰淇淋正在坍塌，光亮的巧克力酱和鲜艳的草莓酱顺着侧面流下，顶部平衡着一颗红樱桃，背景是柔和阳光下的城市街道，有着色彩缤纷的店面和温暖的日光虚化效果，照片级真实可爱超现实风格，粘稠甜蜜的质感，俏皮自信的表情，超细腻的毛发和甜点表面，明亮的高调照明，由 Grok Imagine 生成。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471204890898432/img/fOtYCQxm1EPiYcbR.jpg" width="600" alt="奇幻猫咪冰淇淋圣代视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10486)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2096697445015044316) | **发布时间:** Sep 6, 2026
-
----
-### 电影级晶体宇宙飞船视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成带有体积光效果的昴宿星晶体光船视频的高细节提示词。
-
-#### 📝 提示词
-
-```
-昴宿星人光船，母舰，晶体飞船，碟形，杰作，超高清画质，1111111111111111111111111111999999999999999999999999 k，体积感明亮光效，色彩、色调与阴影
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096675326483156992/img/DRG5Zy58QnxgMKZb.jpg" width="600" alt="电影级晶体宇宙飞船视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10487)**
-
-**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **来源:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **发布时间:** Sep 6, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2246,6 +2222,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-17T04:41:56.926Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-17T13:33:14.963Z</sub>
 
 </div>

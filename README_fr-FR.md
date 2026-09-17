@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2826** |
+| 📝 Total Prompts | **2835** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-17** |
 
@@ -189,6 +189,120 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Femme jetant le monde dans le soleil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo d'une femme tenant le monde et le jetant dans le soleil, provoquant une explosion.
+
+#### 📝 Prompt
+
+```
+Image d'une femme portant le monde sur ses épaules. Elle prend le monde et le jette dans l'espace. Il heurte le soleil et brûle dans les flammes. Ajoutez des mots à partir des images ....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100321558443036672/img/Rl1Rp_degjVQkYGq.jpg" width="600" alt="Femme jetant le monde dans le soleil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10970)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2100321574658130008) | **Published:** Sep 16, 2026
+
+---
+### Prompt JSON structuré pour une scène intérieure
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt au format JSON structuré pour la génération vidéo Grok Imagine, mettant en scène un intérieur avec des mouvements de caméra spécifiques.
+
+#### 📝 Prompt
+
+```
+{"shot":{"motion_level":"low","camera_depth":"close-up","camera_view":"eye level","camera_movement":"subtle continuous zoom in","count":"1"},"scene":{"location":"indoor setting on a wooden table","environment":"A calm indoor environment featuring a w... https://t.co/ebCCk0g8EF
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100279939647860736/img/m_preecVqRQw9p4w.jpg" width="600" alt="Prompt JSON structuré pour une scène intérieure">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10971)**
+
+**Author:** [Han Vu](https://x.com/HanVu195089) | **Source:** [Link](https://x.com/HanVu195089/status/2100279957507150291) | **Published:** Sep 16, 2026
+
+---
+### Vidéo cinématique du lancement de la Tesla Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour générer une vidéo cinématique et photoréaliste de la révélation du lancement de la Tesla Roadster avec les propulseurs en action.
+
+#### 📝 Prompt
+
+```
+Image cinématique photoréaliste de la nouvelle Tesla Roadster de deuxième génération lors de sa révélation "Go for launch", hypercar rouge futuriste flottant légèrement au-dessus du sol, avec les propulseurs à gaz froid SpaceX émettant quatre panaches d'échappement blancs vifs depuis l'arrière
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100243744406810624/img/4qeedoO1jM2kj1xX.jpg" width="600" alt="Vidéo cinématique du lancement de la Tesla Roadster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10976)**
+
+**Author:** [harvey](https://x.com/HarveyJS) | **Source:** [Link](https://x.com/HarveyJS/status/2100243758898200846) | **Published:** Sep 16, 2026
+
+---
+### Faucon en costume de haute couture
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite pour imaginer un faucon portant un survêtement de mode haut de gamme, observant le ciel depuis un balcon.
+
+#### 📝 Prompt
+
+```
+Imaginez un faucon vêtu d'un survêtement « high fashion » chic et élégant, assis et observant le ciel depuis le balcon de sa maison.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100214782498414593/img/VrAE7H9zK-IDYGTR.jpg" width="600" alt="Faucon en costume de haute couture">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10969)**
+
+**Author:** [🤴🏻](https://x.com/DDadalekan) | **Source:** [Link](https://x.com/DDadalekan/status/2100215467868668039) | **Published:** Sep 16, 2026
+
+---
+### Prompt Grok Imagine : Rencontre au Café de Miami
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narratif décrivant une interaction spécifique dans un café à Miami impliquant Kid Cudi.
+
+#### 📝 Prompt
+
+```
+Moi, le mec blanc, je suis en train de traîner dans un café à Miami. Le barista apporte des croquettes et demande si je veux autre chose. Je dis non, c'est tout. Kid Cudi entre l'air effrayé. Il me voit, pousse un cri de surprise, se retourne et sort.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100155268931657728/img/uXS5cJfruVXBNbcC.jpg" width="600" alt="Prompt Grok Imagine : Rencontre au Café de Miami">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10975)**
+
+**Author:** [Kyle Kelly](https://x.com/dairyfarts) | **Source:** [Link](https://x.com/dairyfarts/status/2100155289223721409) | **Published:** Sep 16, 2026
+
+---
+### Faisans et renards poursuivant des SUV sur une route de campagne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de génération vidéo pour Grok Imagine représentant des faisans et des renards roux poursuivant des SUV noirs le long d'une route de campagne sinueuse dans les Cotswolds, avec des mouvements animaliers dynamiques.
+
+#### 📝 Prompt
+
+```
+Des faisans et des renards roux poursuivent des SUV noirs le long de la route de campagne sinueuse des Cotswolds. Les oiseaux battent des ailes et volent bas, les renards sprintent et sautent en soulevant de la poussière, tandis que les véhicules avancent lentement à travers les collines verdoyantes bordées de murs en pierre sous un ciel nuageux....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100121184503287808/img/vPyC9qNkckcPIniD.jpg" width="600" alt="Faisans et renards poursuivant des SUV sur une route de campagne">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10972)**
+
+**Author:** [Just4usewith_thisapp](https://x.com/just4usewith) | **Source:** [Link](https://x.com/just4usewith/status/2100121793084145742) | **Published:** Sep 16, 2026
+
+---
 ### Prompt vidéo Grok Imagine : Retrouvailles avec un chien
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -229,6 +343,25 @@ L'avion blanc et rouge vole doucement vers l'avant à travers le ciel bleu, lég
 **Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **Published:** Sep 15, 2026
 
 ---
+### Chien disant « Maman, pourquoi ? »
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite vidéo pour Grok Imagine animant un chien nommé Little Man qui dit : « Maman, pourquoi tu mets autant de temps ? ».
+
+#### 📝 Prompt
+
+```
+Fais dire à ce chien nommé Little Man : « Maman, pourquoi tu mets autant de temps ? » https://t.co/DxRYqI8CbP
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993603900571648/img/0AwX-Pp4qI26a_t3.jpg" width="600" alt="Chien disant « Maman, pourquoi ? »">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10973)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2099993633256554562) | **Published:** Sep 15, 2026
+
+---
 ### Prompt vidéo Grok Imagine : Lys araignée lumineux sous la pluie
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -249,6 +382,25 @@ Au milieu du silence de la nuit, laissez entendre le bruit du balancement dans l
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10946)**
 
 **Author:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **Source:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **Published:** Sep 15, 2026
+
+---
+### King Diamond à Hollywood Hill
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite vidéo pour Grok Imagine plaçant King Diamond près de l'Arbre de la Sagesse sur Hollywood Hill à minuit, avec une pleine lune ajoutée.
+
+#### 📝 Prompt
+
+```
+King Diamond près de l'Arbre de la Sagesse sur Hollywood Hill à minuit, ajoutez maintenant une pleine lune @King_Diamond 🤷‍♂️ https://t.co/wLLm9lzT3a
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099977081484652544/img/3r4BQ2bE9wd1L5UA.jpg" width="600" alt="King Diamond à Hollywood Hill">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10974)**
+
+**Author:** [Mr.Lucky_130 🍀](https://x.com/Lucky13014) | **Source:** [Link](https://x.com/Lucky13014/status/2099977106914787437) | **Published:** Sep 15, 2026
 
 ---
 ### Style de peinture classique de Diogène
@@ -421,6 +573,25 @@ Une jeune femme aux longs cheveux noirs ondulants, ornés d'un grand nœud rouge
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10812)**
 
 **Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099327424630513961) | **Published:** Sep 14, 2026
+
+---
+### Prompt vidéo noir et blanc cinématographique d'une femme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour une vidéo cinématographique en noir et blanc d'une jeune femme en ville avec des effets de flou de mouvement.
+
+#### 📝 Prompt
+
+```
+Une vidéo cinématographique en noir et blanc d'une jeune femme dans la ville la nuit, filmée avec une longue exposition et un flou de mouvement intentionnel. Elle est au premier plan, légèrement décentrée, tournant la tête en plein mouvement, ce qui fait que ses longs cheveux balayent le...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099280377559080960/img/W0AxOb_aVlOH9frT.jpg" width="600" alt="Prompt vidéo noir et blanc cinématographique d'une femme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10977)**
+
+**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2099280396932308994) | **Published:** Sep 13, 2026
 
 ---
 ### Prompt Grok Imagine : Personnalité de chat jugeant
@@ -1990,201 +2161,6 @@ Fais-la dribbler avec le ballon de basket vers le panier et effectuer un dunk à
 **Author:** [Vdewey](https://x.com/Vdeweydo) | **Source:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **Published:** Sep 7, 2026
 
 ---
-### Animation de duo d'opéra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Anime une image spécifique d'un homme et d'une femme interprétant un duo d'opéra dans une forêt côtière.
-
-#### 📝 Prompt
-
-```
-LÀ OÙ L'OCÉAN RENCONTRE LA LUMIÈRE
-Duo d'opéra original — 30 secondes
-
-Animez l'image ci-jointe. Préservez les visages, les vêtements, les bâtons et les positions des deux chanteurs : l'homme à gauche, la femme à droite. Conservez la forêt côtière, les fleurs blanches et l'océ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096761557204226048/img/dJArH_qSa26YBUy-.jpg" width="600" alt="Animation de duo d'opéra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10534)**
-
-**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2096761605564276768) | **Published:** Sep 7, 2026
-
----
-### Phénomène surréaliste fantaisiste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'image axé sur des réinterprétations surréalistes de la logique spatiale et de la causalité.
-
-#### 📝 Prompt
-
-```
-Créez une image dans laquelle un élément d'un objet ou d'une scène se transforme en un phénomène surréaliste fantaisiste et légèrement absurde qui réinterprète l'un des principes conceptuels — la causalité, l'identité, la perception ou la logique spatiale — sans utiliser d'éléments naturels...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096747823203291136/img/rFUeETuTxQumt6rm.jpg" width="600" alt="Phénomène surréaliste fantaisiste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10537)**
-
-**Author:** [LUCKY](https://x.com/luluoksana) | **Source:** [Link](https://x.com/luluoksana/status/2096747856522793093) | **Published:** Sep 6, 2026
-
----
-### Animation de sculpture de culturisme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'animation unique qui transforme une sculpture en marbre en un compétiteur de culturisme aux cheveux flottants.
-
-#### 📝 Prompt
-
-```
-Animez cette sculpture. Donnez-lui l'apparence d'un participant à une compétition de culturisme tout en conservant le style en marbre, et faites en sorte que ses cheveux semblent flotter dans l'air.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096746420946808832/img/Zwxsao94TVbGmDvZ.jpg" width="600" alt="Animation de sculpture de culturisme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10482)**
-
-**Author:** [Mr. Savistarz](https://x.com/AryehKatz) | **Source:** [Link](https://x.com/AryehKatz/status/2096746486306316650) | **Published:** Sep 6, 2026
-
----
-### Paysage urbain futuriste d'Edmonton
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de conversion de style image-vers-vidéo axé sur la réimagination d'un concept de mégalopole en une architecture futuriste d'Edmonton.
-
-#### 📝 Prompt
-
-```
-Transformez la mégalopole futuriste à plusieurs niveaux de la première image en Edmonton, la capitale de l'Alberta, 100 ans dans le futur (année 2126). Basez la composition globale, les gratte-ciel aux courbes organiques, les autoroutes surélevées, les tours denses avec des lumières éclatantes...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096742822653366273/img/Lpwvrr3kf3xjQAak.jpg" width="600" alt="Paysage urbain futuriste d'Edmonton">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10528)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2096743252884070860) | **Published:** Sep 6, 2026
-
----
-### Animation de profil vertical technique
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt technique très détaillé pour maintenir une cohérence de l'interface utilisateur et de la mise en page des personnages en utilisant deux images de référence pour une vidéo verticale de 15 secondes.
-
-#### 📝 Prompt
-
-```
-15 secondes, format vertical 9:16. Utilisez les deux images fournies comme références.
-
-- Utilisez la capture d'écran du profil X comme seule référence pour l'arrière-plan, l'interface utilisateur et la mise en page.
-- Utilisez l'image agrandie de MoiMoi comme seule référence pour le design du personnage.
-
-Conservez l'image d'en-tête de l'image originale, le fond noir de l'interface, la position de l'icône de profil, chaque bouton, icône graphique, ligne de séparation, image publiée, composition de l'écran, marges, couleurs et proportions.
-
-La caméra est totalement fixe. Ne zoomez pas, ne faites pas de panoramique, de rotation, d'inclinaison, de recadrage et ne reconstruisez pas l'écran. Ne déformez pas l'image originale. Pour s'adapter au format 9:16, n'ajoutez pas de bandes noires ; étendez naturellement les bords de l'interface ou ajustez finement le placement pour remplir tout l'écran.
-
-Objectif de l'animation :
-Représenter le personnage bougeant de manière dynamique dans la zone de l'image publiée de l'écran de profil statique.
-
-Mouvement du personnage :
-- MoiMoi ne quitte pas le cadre de l'image publiée.
-- Fait des signes énergiques vers la caméra.
-- Cligne des yeux et bouge la bouche comme s'il parlait (aucun audio nécessaire).
-- Les cheveux et les vêtements ondulent sous une légère brise.
-- Rayonne de charme sur place sans changer radicalement de pose.
-
-Fixation de l'arrière-plan :
-- Ne déplacez aucun élément de l'interface autre que l'image publiée (icônes, texte, boutons, etc.).
-- Assurez-vous que les couleurs de l'interface ne changent pas et qu'aucun bruit visuel n'est introduit.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096736177114214400/img/JfLqTgNAfxYAoLE5.jpg" width="600" alt="Animation de profil vertical technique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10492)**
-
-**Author:** [moimoi](https://x.com/moimoi16914694) | **Source:** [Link](https://x.com/moimoi16914694/status/2096736190041129439) | **Published:** Sep 6, 2026
-
----
-### Les autoroutes stellaires de la frontière
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo de science-fiction poétique visualisant des fusées, des robots et des circuits ressemblant à des autoroutes stellaires dans le vide.
-
-#### 📝 Prompt
-
-```
-La frontière, un code câblé dans le vide, à quoi cela ressemblait-il, des fusées, des robots, des circuits tels des autoroutes stellaires
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096724507147063296/img/d2g4xcUIEhni8dtG.jpg" width="600" alt="Les autoroutes stellaires de la frontière">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10483)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2096724541833990197) | **Published:** Sep 6, 2026
-
----
-### Animation épique de combat de super-héros
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'animation dynamique pour un combat entre un super-héros religieux en armure sacrée et un immense chef démoniaque des enfers.
-
-#### 📝 Prompt
-
-```
-Animation de combat dynamique et épique : le super-héros religieux, vêtu d'une armure sacrée lumineuse et doté d'ailes de lumière, s'affronte férocement au colossal chef démoniaque des enfers.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096709743024685058/img/6kh_HaXAFJgRehM7.jpg" width="600" alt="Animation épique de combat de super-héros">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10481)**
-
-**Author:** [Hope](https://x.com/Hope4peace4man) | **Source:** [Link](https://x.com/Hope4peace4man/status/2096709810729218456) | **Published:** Sep 6, 2026
-
----
-### Vidéo fantaisiste d'un chat dans une coupe glacée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descriptif et photoréaliste pour un chat blanc assis dans une coupe glacée géante en train de fondre, au milieu d'une rue ensoleillée.
-
-#### 📝 Prompt
-
-```
-Plan moyen cinématographique fantaisiste d'un chat blanc duveteux portant des lunettes de soleil rondes et foncées, assis fièrement à l'intérieur d'une coupe glacée géante en train de fondre, tourbillons de glace à la vanille qui s'effondrent, nappage au chocolat brillant et coulis de fraise éclatant coulant sur les côtés, une cerise rouge en équilibre sur le dessus, une rue citadine ensoleillée aux tons pastel avec des devantures colorées et un bokeh de lumière chaude en arrière-plan, style surréaliste mignon et photoréaliste, textures sucrées et collantes, expression enjouée et confiante, fourrure et surface du dessert ultra détaillées, éclairage joyeux et lumineux, et Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471204890898432/img/fOtYCQxm1EPiYcbR.jpg" width="600" alt="Vidéo fantaisiste d'un chat dans une coupe glacée">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10486)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096697445015044316) | **Published:** Sep 6, 2026
-
----
-### Vidéo cinématographique de vaisseau spatial cristallin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt très détaillé pour générer une vidéo de vaisseaux de lumière pléiadiens cristallins avec un éclairage volumétrique.
-
-#### 📝 Prompt
-
-```
-Pléiadiens dans des vaisseaux de lumière, vaisseaux-mères, engins cristallins en forme de soucoupe, chef-d'œuvre, qualité ultra HD résolution 1111111111111111111111111111999999999999999999999999 k, éclairage lumineux volumétrique, couleurs, tons et ombrages
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096675326483156992/img/DRG5Zy58QnxgMKZb.jpg" width="600" alt="Vidéo cinématographique de vaisseau spatial cristallin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10487)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **Published:** Sep 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2246,6 +2222,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-17T04:42:09.237Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-17T13:33:26.340Z</sub>
 
 </div>

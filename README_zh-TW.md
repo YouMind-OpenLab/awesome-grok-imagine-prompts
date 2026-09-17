@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2826** |
+| 📝 提示詞總數 | **2835** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-17** |
 
@@ -189,6 +189,120 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 女子將地球拋向太陽
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成一段影片的提示詞：一名女子手持地球並將其拋向太陽，引發爆炸。
+
+#### 📝 提示詞
+
+```
+圖像中一名女子肩扛地球，她拿起地球並將其拋向太空，地球撞擊太陽後在火焰中燃燒殆盡，請加入圖片中的文字....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100321558443036672/img/Rl1Rp_degjVQkYGq.jpg" width="600" alt="女子將地球拋向太陽">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10970)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **來源:** [Link](https://x.com/SaSHeaven26/status/2100321574658130008) | **發布時間:** Sep 16, 2026
+
+---
+### 室內場景結構化 JSON 提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 影片生成的結構化 JSON 格式提示詞，包含特定鏡頭運鏡的室內場景設定。
+
+#### 📝 提示詞
+
+```
+{"shot":{"motion_level":"low","camera_depth":"close-up","camera_view":"eye level","camera_movement":"subtle continuous zoom in","count":"1"},"scene":{"location":"indoor setting on a wooden table","environment":"A calm indoor environment featuring a w... https://t.co/ebCCk0g8EF
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100279939647860736/img/m_preecVqRQw9p4w.jpg" width="600" alt="室內場景結構化 JSON 提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10971)**
+
+**作者:** [Han Vu](https://x.com/HanVu195089) | **來源:** [Link](https://x.com/HanVu195089/status/2100279957507150291) | **發布時間:** Sep 16, 2026
+
+---
+### Tesla Roadster 發表會電影級影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成 Tesla Roadster 發表亮相之電影級、寫實影片的提示詞，包含推進器噴射場景。
+
+#### 📝 提示詞
+
+```
+第二代 Tesla Roadster「準備發射」亮相時的電影級寫實影像，紅色未來感超級跑車懸浮於地面之上，SpaceX 冷氣推進器從後方噴射出四道明亮的白色尾焰
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100243744406810624/img/4qeedoO1jM2kj1xX.jpg" width="600" alt="Tesla Roadster 發表會電影級影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10976)**
+
+**作者:** [harvey](https://x.com/HarveyJS) | **來源:** [Link](https://x.com/HarveyJS/status/2100243758898200846) | **發布時間:** Sep 16, 2026
+
+---
+### 身穿高級時裝套裝的獵鷹
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個想像獵鷹身穿高級時尚運動服，從陽台觀察天空的提示詞。
+
+#### 📝 提示詞
+
+```
+想像一隻獵鷹身穿一套「高級時尚」運動服，坐在自家陽台上靜靜地觀察著天空
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100214782498414593/img/VrAE7H9zK-IDYGTR.jpg" width="600" alt="身穿高級時裝套裝的獵鷹">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10969)**
+
+**作者:** [🤴🏻](https://x.com/DDadalekan) | **來源:** [Link](https://x.com/DDadalekan/status/2100215467868668039) | **發布時間:** Sep 16, 2026
+
+---
+### Grok Imagine 提示詞：邁阿密咖啡館邂逅
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段敘事性提示詞，描述在邁阿密咖啡館中與 Kid Cudi 發生的特定互動。
+
+#### 📝 提示詞
+
+```
+我這個白人男子正在邁阿密的一家咖啡館裡聊天。服務生端來炸丸子並詢問是否還需要其他東西。我說不用了，這樣就夠了。Kid Cudi 一臉驚恐地走了進來。他看到我後倒吸一口氣，隨即轉身離開。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100155268931657728/img/uXS5cJfruVXBNbcC.jpg" width="600" alt="Grok Imagine 提示詞：邁阿密咖啡館邂逅">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10975)**
+
+**作者:** [Kyle Kelly](https://x.com/dairyfarts) | **來源:** [Link](https://x.com/dairyfarts/status/2100155289223721409) | **發布時間:** Sep 16, 2026
+
+---
+### 雉雞與紅狐在鄉間道路追逐 SUV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的影片生成提示詞，描繪雉雞與紅狐在蜿蜒的科茨沃爾德（Cotswolds）鄉間道路上追逐黑色 SUV，展現充滿活力的動物動態。
+
+#### 📝 提示詞
+
+```
+雉雞與紅狐沿著蜿蜒的科茨沃爾德鄉間道路追逐黑色 SUV。鳥兒低空飛掠，狐狸奔跑跳躍揚起塵土，車輛緩慢駛過綠意起伏的山丘與石牆，天空雲層密佈……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100121184503287808/img/vPyC9qNkckcPIniD.jpg" width="600" alt="雉雞與紅狐在鄉間道路追逐 SUV">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10972)**
+
+**作者:** [Just4usewith_thisapp](https://x.com/just4usewith) | **來源:** [Link](https://x.com/just4usewith/status/2100121793084145742) | **發布時間:** Sep 16, 2026
+
+---
 ### Grok Imagine 影片提示詞：狗狗重逢
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -229,6 +343,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2100010572964081702) | **發布時間:** Sep 15, 2026
 
 ---
+### 狗狗說「媽媽為什麼」
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於 Grok Imagine 的影片提示，讓名為 Little Man 的狗狗說出「媽媽，你為什麼要這麼久？」。
+
+#### 📝 提示詞
+
+```
+讓這隻名叫 Little Man 的狗狗說出：「媽媽，你為什麼要這麼久？」 https://t.co/DxRYqI8CbP
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099993603900571648/img/0AwX-Pp4qI26a_t3.jpg" width="600" alt="狗狗說「媽媽為什麼」">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10973)**
+
+**作者:** [Mark Tatum](https://x.com/Mark561256) | **來源:** [Link](https://x.com/Mark561256/status/2099993633256554562) | **發布時間:** Sep 15, 2026
+
+---
 ### Grok Imagine 影片提示詞：雨中發光的彼岸花
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -249,6 +382,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10946)**
 
 **作者:** [あきおT☀️楽天ROOM・マネタイズ](https://x.com/AkioT315) | **來源:** [Link](https://x.com/AkioT315/status/2099993537886728477) | **發布時間:** Sep 15, 2026
+
+---
+### King Diamond 在好萊塢山
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的影片提示，將 King Diamond 放置在午夜時分好萊塢山的智慧樹旁，並加入滿月元素。
+
+#### 📝 提示詞
+
+```
+King Diamond 站在午夜時分好萊塢山的智慧樹旁，現在請加入滿月 @King_Diamond 🤷‍♂️ https://t.co/wLLm9lzT3a
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099977081484652544/img/3r4BQ2bE9wd1L5UA.jpg" width="600" alt="King Diamond 在好萊塢山">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10974)**
+
+**作者:** [Mr.Lucky_130 🍀](https://x.com/Lucky13014) | **來源:** [Link](https://x.com/Lucky13014/status/2099977106914787437) | **發布時間:** Sep 15, 2026
 
 ---
 ### 第歐根尼古典繪畫風格
@@ -421,6 +573,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10812)**
 
 **作者:** [John Francavillo](https://x.com/Francavil42824J) | **來源:** [Link](https://x.com/Francavil42824J/status/2099327424630513961) | **發布時間:** Sep 14, 2026
+
+---
+### 電影感黑白女性影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成城市夜景中年輕女性的電影感黑白影片提示詞，包含動態模糊效果。
+
+#### 📝 提示詞
+
+```
+一段黑白電影風格的影片，描繪夜晚城市中一位年輕女性的身影。採用長曝光拍攝手法並刻意營造動態模糊效果。她位於前景，略微偏離中心位置，在動作過程中轉動頭部，使得她的長髮飛揚掠過……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099280377559080960/img/W0AxOb_aVlOH9frT.jpg" width="600" alt="電影感黑白女性影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10977)**
+
+**作者:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **來源:** [Link](https://x.com/poetrynthings/status/2099280396932308994) | **發布時間:** Sep 13, 2026
 
 ---
 ### Grok Imagine 提示詞：看似挑剔的貓咪性格
@@ -1990,201 +2161,6 @@ Alice @Reference3 和 Dani @Reference2 正在流理台上切菜，並開始準�
 **作者:** [Vdewey](https://x.com/Vdeweydo) | **來源:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **發布時間:** Sep 7, 2026
 
 ---
-### 歌劇二重唱動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 將一張描繪男女在海岸森林背景下進行歌劇二重唱的特定圖像製作成動畫。
-
-#### 📝 提示詞
-
-```
-當海洋遇見光芒
-原創歌劇二重唱 — 30 秒
-
-為附加的圖像製作動畫。請保留兩位歌手的面部、服裝、手杖及位置：男性在左側，女性在右側。保留海岸森林、白色花朵以及海洋...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096761557204226048/img/dJArH_qSa26YBUy-.jpg" width="600" alt="歌劇二重唱動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10534)**
-
-**作者:** [@TheCFormula credo.](https://x.com/TheCFormula) | **來源:** [Link](https://x.com/TheCFormula/status/2096761605564276768) | **發布時間:** Sep 7, 2026
-
----
-### 奇幻超現實現象
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個專注於對空間邏輯與因果關係進行超現實重新詮釋的圖像提示詞。
-
-#### 📝 提示詞
-
-```
-創作一張圖像，其中物體或場景的某個元素轉化為一種奇幻且略帶荒謬的超現實現象，並重新詮釋以下概念原則之一：因果關係、本體、感知或空間邏輯，且不使用自然元素……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096747823203291136/img/rFUeETuTxQumt6rm.jpg" width="600" alt="奇幻超現實現象">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10537)**
-
-**作者:** [LUCKY](https://x.com/luluoksana) | **來源:** [Link](https://x.com/luluoksana/status/2096747856522793093) | **發布時間:** Sep 6, 2026
-
----
-### 健美雕塑動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個獨特的動畫提示詞，將大理石雕塑轉化為正在擺姿勢的健美選手，並呈現飄逸的髮絲效果。
-
-#### 📝 提示詞
-
-```
-為這座雕塑製作動畫。讓它看起來像是在參加健美比賽，但需保留其精美的大理石質感，並讓頭髮呈現出在空中飄動的效果。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096746420946808832/img/Zwxsao94TVbGmDvZ.jpg" width="600" alt="健美雕塑動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10482)**
-
-**作者:** [Mr. Savistarz](https://x.com/AryehKatz) | **來源:** [Link](https://x.com/AryehKatz/status/2096746486306316650) | **發布時間:** Sep 6, 2026
-
----
-### 未來感愛德蒙頓城市景觀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個圖像轉影片風格的轉換提示詞，旨在將大都市概念重新構想為未來主義風格的愛德蒙頓建築。
-
-#### 📝 提示詞
-
-```
-將第一張圖片中未來感的多層次大都市轉化為 100 年後（西元 2126 年）的亞伯達省首府愛德蒙頓。以整體構圖、有機曲線摩天大樓、高架公路、密集且帶有發光線條的塔樓為基礎...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096742822653366273/img/Lpwvrr3kf3xjQAak.jpg" width="600" alt="未來感愛德蒙頓城市景觀">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10528)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **來源:** [Link](https://x.com/RobinMurrat43a/status/2096743252884070860) | **發布時間:** Sep 6, 2026
-
----
-### 技術性直式個人檔案動畫
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一份高度詳細的技術提示詞，用於在 15 秒的直式影片中，利用兩張參考圖片維持一致的 UI 與角色佈局。
-
-#### 📝 提示詞
-
-```
-15 秒，直式 9:16。請使用提供的兩張圖片作為參考。
-
-- 使用 X 個人檔案頁面的截圖作為唯一的背景、UI 與佈局參考。
-- 使用 MoiMoi 的放大圖片作為唯一的角色設計參考。
-
-請保留原始圖片的頁首圖像、黑色 UI 背景、個人檔案圖示位置、每個按鈕、圖形圖示、分隔線、貼文圖片、畫面構圖、邊距、顏色與比例。
-
-攝影機完全固定。請勿進行縮放、平移、旋轉、傾斜、裁切或重構畫面。請勿拉伸原始圖片。為符合 9:16 比例，請勿添加黑邊；應自然延伸 UI 邊緣或微調位置以填滿整個螢幕。
-
-動畫目的：
-描繪角色在靜態個人檔案頁面的貼文圖片區域內生動地移動。
-
-角色動作：
-- MoiMoi 不會離開貼文圖片的框架。
-- 對著鏡頭充滿活力地揮手。
-- 眨眼並移動嘴巴，模擬說話的樣子（無需音訊）。
-- 頭髮與衣服在微風中輕輕擺動。
-- 在原地展現魅力，且不大幅改變姿勢。
-
-背景固定：
-- 除了貼文圖片外，請勿移動任何 UI 元素（圖示、文字、按鈕等）。
-- 確保 UI 顏色不變，且畫面中不出現雜訊。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096736177114214400/img/JfLqTgNAfxYAoLE5.jpg" width="600" alt="技術性直式個人檔案動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10492)**
-
-**作者:** [moimoi](https://x.com/moimoi16914694) | **來源:** [Link](https://x.com/moimoi16914694/status/2096736190041129439) | **發布時間:** Sep 6, 2026
-
----
-### 前沿星光高速公路
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段充滿詩意的科幻影片提示詞，將火箭、Agent 與電路視覺化為虛空中如星光般的公路。
-
-#### 📝 提示詞
-
-```
-前沿，一段編碼入虛空的程式碼，它看起來是什麼模樣？火箭、Agent 與電路，宛如星光高速公路。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096724507147063296/img/d2g4xcUIEhni8dtG.jpg" width="600" alt="前沿星光高速公路">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10483)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2096724541833990197) | **發布時間:** Sep 6, 2026
-
----
-### 史詩級超級英雄戰鬥動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個動態動畫提示詞，描述身穿神聖盔甲的宗教超級英雄與巨大的地獄惡魔首領之間的戰鬥。
-
-#### 📝 提示詞
-
-```
-史詩級動態戰鬥動畫：身穿發光神聖盔甲並展現光之翼的宗教超級英雄，與巨大的地獄惡魔首領展開激烈交鋒。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096709743024685058/img/6kh_HaXAFJgRehM7.jpg" width="600" alt="史詩級超級英雄戰鬥動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10481)**
-
-**作者:** [Hope](https://x.com/Hope4peace4man) | **來源:** [Link](https://x.com/Hope4peace4man/status/2096709810729218456) | **發布時間:** Sep 6, 2026
-
----
-### 異想天開的貓咪冰淇淋聖代影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個描述性且具備照片級真實感的提示詞，描繪一隻白貓坐在陽光明媚的城市街道上，置身於巨大的融化冰淇淋聖代中。
-
-#### 📝 提示詞
-
-```
-異想天開的電影感中景鏡頭，一隻毛茸茸的白貓戴著圓形深色太陽眼鏡，驕傲地坐在巨大的融化冰淇淋聖代中。高聳的香草霜淇淋漩渦正在崩塌，光亮的巧克力醬與鮮豔的草莓醬沿著邊緣流下，頂端平衡著一顆紅櫻桃。背景是色彩繽紛的店面與溫暖日光散景的粉彩城市街道，照片級真實的可愛超現實風格，黏稠甜美的質感，俏皮自信的表情，超細緻的毛髮與甜點表面，明亮的高調照明，以及 Grok Imagine。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471204890898432/img/fOtYCQxm1EPiYcbR.jpg" width="600" alt="異想天開的貓咪冰淇淋聖代影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10486)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2096697445015044316) | **發布時間:** Sep 6, 2026
-
----
-### 電影級水晶太空船影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成水晶昴宿星人光船（Pleiadian light ships）影片的高細節提示詞，包含體積光效果。
-
-#### 📝 提示詞
-
-```
-昴宿星人光船、母艦、水晶工藝品、飛碟形狀，傑作，超高清畫質 1111111111111111111111111111999999999999999999999999 k，明亮的體積光色彩、色調與陰影
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096675326483156992/img/DRG5Zy58QnxgMKZb.jpg" width="600" alt="電影級水晶太空船影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10487)**
-
-**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **來源:** [Link](https://x.com/Octillion111111/status/2096675407919477202) | **發布時間:** Sep 6, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2246,6 +2222,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-17T04:41:58.514Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-17T13:33:16.405Z</sub>
 
 </div>
