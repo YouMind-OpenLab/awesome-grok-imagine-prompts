@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2835** |
+| 📝 총 프롬프트 수 | **2845** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-09-18** |
 
@@ -189,6 +189,141 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 코크 멘토스 폭발 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 코카콜라 탱크로리, 멘토스 트럭, 그리고 수염을 기른 남자가 일으키는 폭발을 묘사한 유머러스한 물리 기반의 다단계 비디오 프롬프트.
+
+#### 📝 프롬프트
+
+```
+현실적인 대시보드 시점, 젖은 고속도로, 파란색 Mentos 트럭 옆에서 액체가 흘러나오는 빨간색 Coca-Cola 탱크로리. 주황색 민소매 상의와 반바지를 입은 체격이 큰 수염 난 남자가 흘린 액체로 항아리를 채우고 마신 뒤, 웅덩이에 Mentos 상자를 쏟아부어 거대한 분출을 일으키며 공중으로 튕겨 나간다. 유머러스하고 디테일한 물리 효과, 30 초 세로형.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842567470292992/img/FuRk8KIp-5GviHnn.jpg" width="600" alt="코크 멘토스 폭발 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11002)**
+
+**작성자:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **출처:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **게시일:** Sep 18, 2026
+
+---
+### 센트럴 파크의 신데렐라
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 신데렐라가 마차에서 내리는 모습을 현대적인 센트럴 파크 배경으로 연출하는 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+신데렐라는 핑크색 드레스를 입고 있습니다. 그녀는 흰 말들이 끄는 마차에서 내리고 있으며, 현재 미국 뉴욕의 센트럴 파크에 서 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100809364600672256/img/CPMTO-65Uono7is7.jpg" width="600" alt="센트럴 파크의 신데렐라">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11001)**
+
+**작성자:** [K. Massari](https://x.com/porcupine_touch) | **출처:** [Link](https://x.com/porcupine_touch/status/2100809392870359537) | **게시일:** Sep 18, 2026
+
+---
+### 가짜 낚시 캐스팅 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 낚시를 하는 것처럼 가짜로 캐스팅하고, 물린 척하여 바늘을 걸고 릴링하는 장면을 묘사한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+낚시를 하듯 가짜로 캐스팅하고, 물린 척하여 바늘을 걸고 가짜로 잡은 물고기를 릴링하세요....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100765658464083968/img/bopZrXUorKDqtzU0.jpg" width="600" alt="가짜 낚시 캐스팅 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11003)**
+
+**작성자:** [Yourenext1187🏴‍☠️](https://x.com/Spergburger) | **출처:** [Link](https://x.com/Spergburger/status/2100765685383098471) | **게시일:** Sep 18, 2026
+
+---
+### 레고 용이 성을 지키는 모습
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 달빛 아래 레고 성 앞에서 경비를 서는, 인터로킹 레고 브릭으로만 구성된 사나운 용을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+짙은 진홍색, 자정 흑색, 로열 퍼플, 전기 블루 등 어둡고 대담한 색상의 인터로킹 레고 브릭으로만 완전히 구성된 사나운 용. 이 용은 치미와 탑이 있는 거대한 레고 성 앞에 서서 보호하듯 날개를 펼치고 있습니다. 밝은 달빛 아래의 야간 장면, 극적인 조명, 빛을 반사하는 광택 있는 플라스틱 표면, 시네마틱 판타지 분위기, 매우 디테일한 묘사.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739489576407040/img/6WYwjdDKFch9BQgG.jpg" width="600" alt="레고 용이 성을 지키는 모습">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11005)**
+
+**작성자:** [Sherice](https://x.com/Sherice0799) | **출처:** [Link](https://x.com/Sherice0799/status/2100739588712956331) | **게시일:** Sep 18, 2026
+
+---
+### 버드 라이트 키드 록 패러디
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 키드 록이 등장한 버드 라이트 광고 장면을 재현하며, 틸라무크 치즈로 대체한 유머러스한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+키드 록이 캔을 쏘는 버드 라이트 장면에서 틸라무크 치즈를 사용하는 버전
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739335007993856/img/rNPqWIPCJDNmwYeT.jpg" width="600" alt="버드 라이트 키드 록 패러디">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10999)**
+
+**작성자:** [Anita Evans](https://x.com/AnitaEvans2911) | **출처:** [Link](https://x.com/AnitaEvans2911/status/2100739348874350832) | **게시일:** Sep 18, 2026
+
+---
+### 모스크 앞의 영화로운 기마 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 황금빛 모래와 반짝이는 별을 배경으로 말과 기수가 모스크를 향해 천천히 다가가는 느린 시네마틱 카메라 전진 샷을 설명하는 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+말과 기수가 모스크를 향해 천천히 걸어갑니다. 로브와 말갈기가 바람에 부드럽게 흔들립니다. 황금빛 모래가 은은하게 흩날리고, 구름이 서서히 움직이며, 별들이 반짝이고 빛줄기가 영롱합니다. 느린 시네마틱 카메라 전진 샷. 모스크와 구도를 유지하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100702402546372608/img/GqhyoZOndtvUtg05.jpg" width="600" alt="모스크 앞의 영화로운 기마 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11000)**
+
+**작성자:** [Dame](https://x.com/Damesall313) | **출처:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **게시일:** Sep 17, 2026
+
+---
+### Grok Imagine 프롬프트: 시베리아 호랑이 야생 사진
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 얕은 피사계 심도와 차가운 조명을 활용하여 연출되지 않은 다큐멘터리 미학을 구현한, 자연 환경 속 시베리아 호랑이의 사실적인 야생 사진을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+아트 스타일: 사실적인 야생 사진, 얕은 피사계 심도, 자연스러운 차가운 조명, 은은한 필름 그레인, 솔직하고 연출되지 않은 모습, 과장 없음.
+
+콘텐츠: 걸어가는 시베리아 호랑이
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100468661995921408/img/yrSMe_OEtDZDdjw0.jpg" width="600" alt="Grok Imagine 프롬프트: 시베리아 호랑이 야생 사진">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11004)**
+
+**작성자:** [David Liang](https://x.com/DavidLi36143625) | **출처:** [Link](https://x.com/DavidLi36143625/status/2100469282497032283) | **게시일:** Sep 17, 2026
+
+---
 ### 지구를 태양에 던지는 여성
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -899,6 +1034,26 @@ I Am Legend 영화 예고편인데 Will Smith 대신 Tesla Optimus가 등장함.
 **작성자:** [Robin Murray](https://x.com/RobinMurrat43a) | **출처:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **게시일:** Sep 11, 2026
 
 ---
+### 화성 오아시스 로봇 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 돔 내부의 조명과 생명을 구축하는 로봇이 있는 화성의 오아시스를 묘사한 영상입니다.
+
+#### 📝 프롬프트
+
+```
+모두 좋은 금요일 저녁 보내세요.
+오늘 밤은 짧은 순간을 공유합니다 - 화성의 오아시스, 돔 안의 빛, 그리고 생명을 만들어가는 로봇들.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098477462200147968/img/Njx6sAHlUy-55dbB.jpg" width="600" alt="화성 오아시스 로봇 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11008)**
+
+**작성자:** [Ninoki](https://x.com/Ninoki111) | **출처:** [Link](https://x.com/Ninoki111/status/2098477739753803836) | **게시일:** Sep 11, 2026
+
+---
 ### 역사적인 폴란드 교회 헌정 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -916,6 +1071,27 @@ I Am Legend 영화 예고편인데 Will Smith 대신 Tesla Optimus가 등장함.
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10798)**
 
 **작성자:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **출처:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **게시일:** Sep 11, 2026
+
+---
+### 비행의 꿈: 레오나르도 다 빈치
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine으로 생성된, 인류의 비행 꿈과 레오나르도 다 빈치를 묘사하는 영상 파트 1입니다.
+
+#### 📝 프롬프트
+
+```
+파트 1: 비행의 꿈 | 0–15초
+
+새가 날아가는 것을 관찰하고 비행 기계를 상상하는 것부터 시작해, 인류의 비행 꿈은 하나의 비전에서 출발했습니다. 레오나르도 다 빈치는 그 꿈을 아이디어로 구체화하는 데 기여했습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098370904942313473/img/rfo920ZzO_nbDXd9.jpg" width="600" alt="비행의 꿈: 레오나르도 다 빈치">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11006)**
+
+**작성자:** [Ethan Ray](https://x.com/ItsEthanRay) | **출처:** [Link](https://x.com/ItsEthanRay/status/2098396641602740528) | **게시일:** Sep 11, 2026
 
 ---
 ### 사실적인 면 요리 먹방 시퀀스
@@ -947,6 +1123,27 @@ I Am Legend 영화 예고편인데 Will Smith 대신 Tesla Optimus가 등장함.
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10797)**
 
 **작성자:** [AI_Courier](https://x.com/arc_courier) | **출처:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **게시일:** Sep 11, 2026
+
+---
+### 잠들지 않는 뉴욕 야경 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 어둠이 내린 후 빛나는 스카이라인과 함께 뉴욕시의 모습을 묘사한 영상 클립입니다.
+
+#### 📝 프롬프트
+
+```
+파트 4 (45–60초): 잠들지 않는 도시
+
+어둠이 내린 뉴욕—스카이라인이 별보다 더 밝게 빛나는 곳.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098360939825532928/img/kt9lSCEFM_180S6i.jpg" width="600" alt="잠들지 않는 뉴욕 야경 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11007)**
+
+**작성자:** [Ethan Ray](https://x.com/ItsEthanRay) | **출처:** [Link](https://x.com/ItsEthanRay/status/2098361333574181177) | **게시일:** Sep 11, 2026
 
 ---
 ### 클림트 스타일의 SF 기사
@@ -1948,218 +2145,6 @@ AI를 활용하여 Gal Gadot과 Alan Ritchson이 출연하는 두 편의 "러너
 **작성자:** [Sahil Verma](https://x.com/sahilvermaai) | **출처:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **게시일:** Sep 7, 2026
 
 ---
-### 회전하는 꽃다발 줌 효과
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 풍성한 꽃다발을 부드럽게 확대하고 수직으로 회전시키는 영상용 모션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-기존의 혼합 매체 꽃다발 이미지를 그대로 유지하세요. 상단에 있는 흰색과 회색의 풍성한 꽃송이 뭉치를 향해 천천히 줌인하면서, 꽃다발 전체가 수직 축을 중심으로 부드럽게 회전하도록 하세요. 부드럽고 연속적인 움직임, 회화적인 스타일을 유지해 주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097045100371279872/img/_CVJO0RbC8voKFu0.jpg" width="600" alt="회전하는 꽃다발 줌 효과">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10539)**
-
-**작성자:** [Ember Art](https://x.com/Ember8184Art) | **출처:** [Link](https://x.com/Ember8184Art/status/2097045135708074171) | **게시일:** Sep 7, 2026
-
----
-### 고급스러운 녹색 도시 경관 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 미래 지향적인 도시 경관에 나무와 잔디 같은 풍부한 녹지를 추가하여 고도화된 친환경 미학을 구현합니다.
-
-#### 📝 프롬프트
-
-```
-일반적인 미래 도시 경관 이미지에 녹지를 추가하고 싶습니다. 나무와 잔디를 풍성하게 배치하여 매우 발전된 느낌으로 만들어 주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097030058531581952/img/lpcCKU1Ety68woVy.jpg" width="600" alt="고급스러운 녹색 도시 경관 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10532)**
-
-**작성자:** [GeoDev](https://x.com/GeoDev1962) | **출처:** [Link](https://x.com/GeoDev1962/status/2097030074939670594) | **게시일:** Sep 7, 2026
-
----
-### 화성 우주 캠프 시네마틱 워크
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 외계 우주 캠프를 걷는 여성을 추적하는 복합적인 SF 시네마틱 영상 연속성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-여성이 화성의 우주 캠프를 가로질러 앞으로 걸어가는 장면으로 변환하세요. 전신이 보여야 합니다. 그녀는 금속성 블루와 실버 디테일이 가미된 세련된 딥 블루 색상의 현대적인 우주복을 착용하고 있으며, 이는 우주복의 푸른 빛 장식과 완벽하게 조화를 이룹니다...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096994780165124096/img/9lZYbxJqQG2g-YSn.jpg" width="600" alt="화성 우주 캠프 시네마틱 워크">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10530)**
-
-**작성자:** [Mimi9060](https://x.com/MelodyM662010) | **출처:** [Link](https://x.com/MelodyM662010/status/2096994806459256874) | **게시일:** Sep 7, 2026
-
----
-### 하이 패션 에디토리얼 필름
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 미니멀한 스튜디오 환경에서 특정 캐릭터의 외형을 유지하며 15초 분량의 하이 패션 필름을 제작하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-성인 캐릭터가 주인공으로 등장하는 15초 분량의 하이 패션 에디토리얼 필름을 제작하세요. 캐릭터의 정확한 외형, 의상, 액세서리 및 비주얼 스타일을 유지해야 합니다. 전체 영상을 참조 이미지의 미학에 맞춰 렌더링하세요.
-
-반사되는 바닥이 있는 미니멀한 스튜디오를 사용하고,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096966883404812289/img/mZrPulPlds6nc1z8.jpg" width="600" alt="하이 패션 에디토리얼 필름">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10533)**
-
-**작성자:** [Eileen_Xie](https://x.com/eileen_XL) | **출처:** [Link](https://x.com/eileen_XL/status/2096966914136560022) | **게시일:** Sep 7, 2026
-
----
-### 일요일 아침 감성 리스타일
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사진을 따뜻하고 몽환적인 일요일 아침 감성으로 리스타일합니다. 황금빛 햇살과 빈티지한 색감이 특징입니다.
-
-#### 📝 프롬프트
-
-```
-이 사진을 꿈결 같은 일요일 아침 감성으로 리스타일해 보세요. 부드럽고 몽환적인 따뜻한 황금빛 오전 햇살이 장면 위로 은은하게 쏟아지며, 약간의 대기감과 부드럽게 퍼지는 글로우 효과가 더해집니다. 부드러운 노란색과 연한 녹색 톤이 가미된 따뜻한 빈티지 색감으로 보정됩니다...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096955733229395968/img/5H31ebTBYn9VxiUj.jpg" width="600" alt="일요일 아침 감성 리스타일">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10535)**
-
-**작성자:** [stan gralla](https://x.com/GrallaStan) | **출처:** [Link](https://x.com/GrallaStan/status/2096955746608927063) | **게시일:** Sep 7, 2026
-
----
-### 입체적이고 우아한 드레스 서사
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 우아한 아이보리 장미 드레스를 입은 여성을 주인공으로 한, 30초 분량의 연속 촬영용 입체 3D 카메라 타임라인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-최적화된 30초 영상 프롬프트 — 1프레임부터 시작되는 음악
-숨 막힐 듯 아름다운 30초 분량의 입체 3D 영화적 걸작입니다. 초고화질의 정교한 질감, 사실적인 피부와 원단, 입체적인 황금빛 조명, 살아있는 듯한 깊이감을 구현합니다.
-업로드된 여성의 얼굴, 햇살을 받은 곱슬거리는 금발 머리, 하이 슬릿이 들어간 블러시 핑크와 아이보리 장미 드레스, 크리스털 힐, 정원 배경을 그대로 유지하세요. 인물의 정체성을 변경하지 마십시오.
-오디오 (필수)
-첫 프레임부터 마지막 프레임까지 중단 없이 솔로 피아노 연주가 이어집니다. 친밀하고 낭만적이며 신비로운 피아노 선율만 사용하세요. 목소리나 가사는 포함하지 않으며, 도입부 지연 없이 즉시 시작합니다.
-스토리 및 타임라인
-0–5초
-피아노 연주가 시작됩니다. 정원 자체가 숨 쉬는 듯한 느낌을 주는 햇살 가득한 돌계단 위에 그녀가 서 있습니다. 따뜻한 역광이 그녀의 머리카락을 황금빛 후광으로 비춥니다. 꽃잎 하나가 렌즈 앞에 머물다 입체적인 3D 효과와 함께 지나갑니다.
-5–12초
-그녀가 천천히 위엄 있게 한 걸음 내딛습니다. 자수가 놓인 드레스 자락이 계단을 따라 흐릅니다. 수천 개의 연분홍색과 크림색 꽃잎이 아치에서 솟아올라 겹겹이 쌓인 입체 공간 속에서 그녀 주변을 맴돕니다. 일부는 카메라를 스치고 일부는 그녀의 어깨 뒤로 떨어집니다. 미세한 꽃가루와 다이아몬드 가루가 모든 빛을 반사합니다. 시스루 소매가 마치 무게가 없는 듯 가볍게 들립니다.
-12–20초
-카메라가 부드럽고 꿈결 같은 움직임으로 그녀 주위를 궤도 비행합니다. 기둥, 장미, 분수대의 안개, 떠다니는 꽃잎 사이로 시차 효과가 나타납니다. 돌 아치를 통해 빛이 번집니다. 몇 개의 꽃잎이 그녀의 쇄골과 크리스털 장식 보디스에 내려앉았다가 다시 떠오릅니다. 그녀가 태양을 향해 얼굴을 돌립니다. 조용하고 자연스러운 미소. 드레스는 젖은 실크와 으깬 진주처럼 반짝입니다.
-20–30초
-그녀가 멈춰 섭니다. 정원이 숨을 고릅니다. 꽃잎들이 그녀 주변에서 떠다니는 별자리처럼 천천히 움직입니다. 황금빛 꽃가루가 공중에 머뭅니다. 피아노는 마지막 프레임에 맞춰 길고 부드러운 마지막 음으로 마무리됩니다. 여성스럽고 낭만적이며 성스러운 느낌의 장면을 유지하세요. 따뜻한 꽃 보케와 흩날리는 빛 속으로 페이드 아웃됩니다.
-영상미
-신비롭고 고급스러운 웨딩 시네마. 장식적이고 우아하며 여성스러운 아름다움. 유치하지 않은 낭만. 사실적인 피부 모공과 원단 직조감에 떠다니는 꽃잎, 꽃가루, 빛 가루, 부드러운 3D 모션이 더해진 마법 같은 영상.
-카메라 및 기술
-세로 9:16 비율. 가능한 한 컷 없이 연속 촬영. 천천히 다가가며 궤도 이동. 얕은 피사계 심도로 얼굴과 드레스에 날카로운 초점을 맞춤. 입체적인 걸작, 3D 질감, 선명한 업스케일링, 초정밀 디테일.
-금지 사항
-얼굴이나 머리 모양 변경. 다른 인물 추가. 대사 추가. 음악 시작 지연. 빠른 움직임. 과도한 피부 보정.
-첫 프레임부터 숨 쉬는 살아있는 그림처럼 느껴지도록 만드세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="입체적이고 우아한 드레스 서사">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10531)**
-
-**작성자:** [Pam Westmore](https://x.com/PamWestmor85243) | **출처:** [Link](https://x.com/PamWestmor85243/status/2096924134231953625) | **게시일:** Sep 7, 2026
-
----
-### 캐릭터와 함께하는 저녁 식사 준비 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 캐릭터 참조 기능을 활용하여 주방에서 저녁 식사를 준비하는 두 캐릭터, Alice와 Dani를 묘사한 비디오 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Alice @Reference3 와 Dani @Reference2 가 조리대에서 채소를 썰며 Elara로서 저녁 식사를 준비하기 시작하는 모습
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096824592191156224/img/NjV-g4oS7Kv66QV2.jpg" width="600" alt="캐릭터와 함께하는 저녁 식사 준비 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10491)**
-
-**작성자:** [Brandon Russo](https://x.com/Brandon40163292) | **출처:** [Link](https://x.com/Brandon40163292/status/2096825084254298173) | **게시일:** Sep 7, 2026
-
----
-### 영화 같은 얼어붙은 타워 위의 인물
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 겨울 도시 풍경 위, 얼어붙은 라디오 타워에 앉아 있는 우주비행사 같은 인물을 고고도에서 촬영한 상세한 다층적 영화풍 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-크림색 비행 슈트와 어두운 바이저 헬멧을 착용한 인물이 눈 덮인 도시 위 높은 곳, 녹슬고 얼어붙은 라디오 타워 끝에 앉아 있는 영화 같은 와이드 샷. 몸은 곧게 펴고 정지해 있으며, 장갑 낀 손은 빔 위에 놓여 있음. 금속 격자 구조물에 매달린 굵은 고드름, 저 멀리 하얀 지붕들 사이로 굽이치는 얼어붙은 강, 맑고 푸른 겨울 하늘, 강철과 서리 위로 비치는 차가운 햇살, 사실적인 분위기, 극도의 높이감이 느껴지는 스케일, 초정밀 직물 및 금속과 얼음 질감, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471558961471488/img/jMxNQMBfaKgIgM3k.jpg" width="600" alt="영화 같은 얼어붙은 타워 위의 인물">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10479)**
-
-**작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **게시일:** Sep 7, 2026
-
----
-### 포르쉐 인테리어 변환
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 치와와 피사체는 유지하면서 자동차 내부를 포르쉐 911 Turbo로 교체하는 비디오 변환 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-닛산 센트라(Nissan Sentra)의 전체 차량 내부와 배경을 고급스럽고 현대적인 레드 컬러의 포르쉐 911 Turbo 인테리어로 교체하세요. 첫 번째 이미지에 등장한 흰색 치와와를 메인 피사체로 그대로 유지하되, 조수석에 뒷다리로 서 있는 동일한 자세를 유지하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096776251444961280/img/SAsIOjxuqCLcDZU2.jpg" width="600" alt="포르쉐 인테리어 변환">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10538)**
-
-**작성자:** [Eliot Sherr](https://x.com/Esherr9401) | **출처:** [Link](https://x.com/Esherr9401/status/2096776264967233577) | **게시일:** Sep 7, 2026
-
----
-### 농구 덩크 모션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 캐릭터가 농구공을 드리블하며 마이클 조던 스타일의 덩크슛을 하는 영상을 생성합니다.
-
-#### 📝 프롬프트
-
-```
-그녀가 농구공을 드리블하여 골대로 이동한 뒤, 마이클 조던 스타일의 덩크슛을 하도록 만들어 주세요
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096773020664676354/img/NPyEHr-UVx-AvAGz.jpg" width="600" alt="농구 덩크 모션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10488)**
-
-**작성자:** [Vdewey](https://x.com/Vdeweydo) | **출처:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **게시일:** Sep 7, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2221,6 +2206,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-18T04:24:29.706Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-18T13:06:00.361Z</sub>
 
 </div>

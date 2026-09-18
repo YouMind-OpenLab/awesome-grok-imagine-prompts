@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2835** |
+| 📝 プロンプト総数 | **2845** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-18** |
 
@@ -189,6 +189,141 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### コーラとメントスの爆発シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> コカ・コーラのタンカー、メントスのトラック、そして髭面の男性が巻き起こす爆発を描いた、ユーモアあふれる物理現象ベースのマルチステップ動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+リアルなダッシュボード視点、濡れた高速道路。青いメントストラックの隣で液体が噴き出す赤いコカ・コーラタンカー。オレンジ色のタンクトップとショートパンツを着た大柄な髭面の男性が、こぼれた液体をジョウゴで汲み上げて豪快に飲み干し、メントスの箱を水たまりに投げ込むと巨大な噴火が発生し、彼が空中へ吹き飛ばされる。ユーモラスで詳細な物理シミュレーション、30秒縦型動画。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842567470292992/img/FuRk8KIp-5GviHnn.jpg" width="600" alt="コーラとメントスの爆発シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11002)**
+
+**作者:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **ソース:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **公開日:** Sep 18, 2026
+
+---
+### セントラルパークのシンデレラ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 現代のニューヨーク、セントラルパークを舞台に、馬車から降り立つシンデレラの姿を描く動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+シンデレラはピンク色のドレスを着ています。彼女は白い馬車から降り立ち、現在のアメリカ合衆国、ニューヨーク州セントラルパークに立っています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100809364600672256/img/CPMTO-65Uono7is7.jpg" width="600" alt="セントラルパークのシンデレラ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11001)**
+
+**作者:** [K. Massari](https://x.com/porcupine_touch) | **ソース:** [Link](https://x.com/porcupine_touch/status/2100809392870359537) | **公開日:** Sep 18, 2026
+
+---
+### 偽の釣りキャスト動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 偽のキャストで釣りを真似し、魚が食いついた瞬間に針を掛け、巻き上げる様子を描写した動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+偽のキャストで釣りを真似し、魚が食いついた瞬間に針を掛け、偽の獲物を巻き上げます....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100765658464083968/img/bopZrXUorKDqtzU0.jpg" width="600" alt="偽の釣りキャスト動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11003)**
+
+**作者:** [Yourenext1187🏴‍☠️](https://x.com/Spergburger) | **ソース:** [Link](https://x.com/Spergburger/status/2100765685383098471) | **公開日:** Sep 18, 2026
+
+---
+### レゴ製の竜が城門を守る
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 月光の下、レゴの城の前で守りをする、ブロックを組み合わせた迫力ある竜を作成するためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+ダークかつ大胆なカラーパレット—深紅、ミッドナイトブラック、ロイヤルパープル、エレクトリックブルー—で構成された、レゴブロックを巧みに組み上げた迫力ある竜。竜は、胸壁と塔を持つそびえ立つレゴ城の前に立ち、翼を広げて守護しています。明るい月光に照らされた夜のシーン、ドラマチックなライティング、光沢のあるプラスチック表面が月明かりを反射し、シネマティックなファンタジーの世界観を演出。非常に細部まで作り込まれています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739489576407040/img/6WYwjdDKFch9BQgG.jpg" width="600" alt="レゴ製の竜が城門を守る">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11005)**
+
+**作者:** [Sherice](https://x.com/Sherice0799) | **ソース:** [Link](https://x.com/Sherice0799/status/2100739588712956331) | **公開日:** Sep 18, 2026
+
+---
+### Bud Light キッド・ロック パロディ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kid Rock が出演した Bud Light の CM の名シーンを、Tillamook チーズに置き換えて再現するユーモラスな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+Bud Light の Kid Rock の CM で缶を撃つあの瞬間を Tillamook チーズで再現
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739335007993856/img/rNPqWIPCJDNmwYeT.jpg" width="600" alt="Bud Light キッド・ロック パロディ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10999)**
+
+**作者:** [Anita Evans](https://x.com/AnitaEvans2911) | **ソース:** [Link](https://x.com/AnitaEvans2911/status/2100739348874350832) | **公開日:** Sep 18, 2026
+
+---
+### モスクに近づく映画のような騎馬シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 金色の砂と輝く星々を背景に、馬と騎手がモスクへ向かう様子を捉えたスローなシネマティックカメラプッシュインのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+馬と騎手がゆっくりとモスクへと歩み寄ります。風になびく衣装と馬のたてがみが優雅に揺れます。金色の砂が柔らかく舞い、雲はゆっくりと流れ、星々が瞬きながら光線が輝きます。スローなシネマティックカメラプッシュインで撮影。モスクの構図と雰囲気を保ちます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100702402546372608/img/GqhyoZOndtvUtg05.jpg" width="600" alt="モスクに近づく映画のような騎馬シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11000)**
+
+**作者:** [Dame](https://x.com/Damesall313) | **ソース:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **公開日:** Sep 17, 2026
+
+---
+### Grok Imagine プロンプト：シベリアトラの野生動物写真
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 自然な環境でのシベリアトラを写実的な野生動物写真として生成するためのプロンプトです。浅い被写界深度と冷たいライティングを活用し、ポーズを取っていないドキュメンタリー風の美学を実現します。
+
+#### 📝 プロンプト
+
+```
+アートスタイル：写実的な野生動物写真、浅い被写界深度、自然な冷たいライティング、微かなフィルムグレイン、正直でポーズを取っていない、華美な演出なし。
+
+内容：歩いているシベリアトラ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100468661995921408/img/yrSMe_OEtDZDdjw0.jpg" width="600" alt="Grok Imagine プロンプト：シベリアトラの野生動物写真">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11004)**
+
+**作者:** [David Liang](https://x.com/DavidLi36143625) | **ソース:** [Link](https://x.com/DavidLi36143625/status/2100469282497032283) | **公開日:** Sep 17, 2026
+
+---
 ### 女性が世界を太陽に投げ捨てる
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -899,6 +1034,26 @@ Falcon 9 の打ち上げにおける集合的な高揚感：轟音が遂に群�
 **作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **ソース:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **公開日:** Sep 11, 2026
 
 ---
+### Oasis on Mars Robots Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video depicting an oasis on Mars with lights in domes and robots building life.
+
+#### 📝 プロンプト
+
+```
+Have a good Friday evening, everyone.
+Just a short glimpse tonight - an oasis on Mars, lights in the domes, robots building life.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098477462200147968/img/Njx6sAHlUy-55dbB.jpg" width="600" alt="Oasis on Mars Robots Video">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11008)**
+
+**作者:** [Ninoki](https://x.com/Ninoki111) | **ソース:** [Link](https://x.com/Ninoki111/status/2098477739753803836) | **公開日:** Sep 11, 2026
+
+---
 ### 歴史あるポーランド教会へのトリビュート動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -916,6 +1071,27 @@ Falcon 9 の打ち上げにおける集合的な高揚感：轟音が遂に群�
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10798)**
 
 **作者:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **ソース:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **公開日:** Sep 11, 2026
+
+---
+### 空を飛ぶ夢：レオナルド・ダ・ヴィンチ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine で生成した、人類の飛行への夢とレオナルド・ダ・ヴィンチを描く動画パート 1。
+
+#### 📝 プロンプト
+
+```
+パート 1: 空を飛ぶ夢 | 0～15 秒
+
+鳥が舞う姿を見つめることから、飛行機械を想像することへ。人類の飛行への夢は、あるビジョンから始まりました。レオナルド・ダ・ヴィンチは、その夢をアイデアへと昇華させたのです。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098370904942313473/img/rfo920ZzO_nbDXd9.jpg" width="600" alt="空を飛ぶ夢：レオナルド・ダ・ヴィンチ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11006)**
+
+**作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **ソース:** [Link](https://x.com/ItsEthanRay/status/2098396641602740528) | **公開日:** Sep 11, 2026
 
 ---
 ### 麺を食べるリアルな一連の動作
@@ -947,6 +1123,27 @@ Falcon 9 の打ち上げにおける集合的な高揚感：轟音が遂に群�
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10797)**
 
 **作者:** [AI_Courier](https://x.com/arc_courier) | **ソース:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **公開日:** Sep 11, 2026
+
+---
+### 眠らない街NYC動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 夜明け後のニューヨーク市を輝くスカイラインとともに描く動画セグメント。
+
+#### 📝 プロンプト
+
+```
+パート4（45〜60秒）：眠らない街
+
+暗闇に包まれたニューヨーク市—ここは、星空よりも輝くスカイラインが広がる場所です。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098360939825532928/img/kt9lSCEFM_180S6i.jpg" width="600" alt="眠らない街NYC動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11007)**
+
+**作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **ソース:** [Link](https://x.com/ItsEthanRay/status/2098361333574181177) | **公開日:** Sep 11, 2026
 
 ---
 ### クリムト風の SF ナイト
@@ -1948,218 +2145,6 @@ AI が大好きです…「ランナー」映画の要素を、ガル・ガド�
 **作者:** [Sahil Verma](https://x.com/sahilvermaai) | **ソース:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **公開日:** Sep 7, 2026
 
 ---
-### 回転する花束のズーム
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> フリル状の花の集まりに対して、滑らかなズームと垂直方向の回転を加える動画用モーションプロンプトです。
-
-#### 📝 プロンプト
-
-```
-同じミックスメディアの花束の画像を維持してください。上部にある白とグレーのフリル状の花の密集した部分にゆっくりとズームインしながら、花束全体を垂直軸上で優しく回転させます。滑らかで連続的な動き、絵画的なスタイルで。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097045100371279872/img/_CVJO0RbC8voKFu0.jpg" width="600" alt="回転する花束のズーム">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10539)**
-
-**作者:** [Ember Art](https://x.com/Ember8184Art) | **ソース:** [Link](https://x.com/Ember8184Art/status/2097045135708074171) | **公開日:** Sep 7, 2026
-
----
-### 高度な緑化都市景観ビデオ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 未来的な都市景観に木々や草などの豊かな緑を加え、先進的なエコ・エステティックへと変貌させます。
-
-#### 📝 プロンプト
-
-```
-典型的な未来都市の画像に緑を追加したいです。木々や草をふんだんに取り入れて、非常に先進的な見た目にしてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097030058531581952/img/lpcCKU1Ety68woVy.jpg" width="600" alt="高度な緑化都市景観ビデオ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10532)**
-
-**作者:** [GeoDev](https://x.com/GeoDev1962) | **ソース:** [Link](https://x.com/GeoDev1962/status/2097030074939670594) | **公開日:** Sep 7, 2026
-
----
-### 火星スペースキャンプのシネマティック・ウォーク
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 地球外のスペースキャンプを歩く女性を追う、複雑な SF シネマティック動画のコンティニュエーション・プロンプト。
-
-#### 📝 プロンプト
-
-```
-火星のスペースキャンプ内を女性が前方に歩いていくシーンに変換してください。全身が映るようにし、彼女は同じ洗練された濃紺の現代的な宇宙服を着用しています。メタリックブルーとシルバーのディテールが、青く光るアクセントと完璧に調和しています...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096994780165124096/img/9lZYbxJqQG2g-YSn.jpg" width="600" alt="火星スペースキャンプのシネマティック・ウォーク">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10530)**
-
-**作者:** [Mimi9060](https://x.com/MelodyM662010) | **ソース:** [Link](https://x.com/MelodyM662010/status/2096994806459256874) | **公開日:** Sep 7, 2026
-
----
-### ハイファッション・エディトリアル・フィルム
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ミニマルなスタジオ環境で、特定のキャラクターの外見を維持した 15 秒間のハイファッション・フィルムを制作するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-Preserve で指定した成人キャラクターを主役にした、15 秒間のハイファッション・エディトリアル・フィルムを制作してください。キャラクターの外見、衣装、アクセサリー、およびビジュアルスタイルを正確に維持し、リファレンスの美学に基づいて映像全体をレンダリングしてください。
-
-反射する床を備えたミニマルなスタジオを使用し、...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096966883404812289/img/mZrPulPlds6nc1z8.jpg" width="600" alt="ハイファッション・エディトリアル・フィルム">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10533)**
-
-**作者:** [Eileen_Xie](https://x.com/eileen_XL) | **ソース:** [Link](https://x.com/eileen_XL/status/2096966914136560022) | **公開日:** Sep 7, 2026
-
----
-### 日曜の朝のようなエステティックなスタイルへの再編集
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 写真を、黄金色の陽光とヴィンテージ風のグレーディングを施した、温かく霞がかった日曜の朝のようなエステティックなスタイルに再編集します。
-
-#### 📝 プロンプト
-
-```
-この写真を、夢のような日曜の朝のエステティックなスタイルに再編集します。柔らかく霞がかった温かい黄金色の朝の光がシーン全体に優しく降り注ぎ、大気中のわずかな霞と柔らかく拡散した輝きを演出します。優しい黄色と柔らかな緑を基調とした、温かみのあるヴィンテージ風のカラーグレーディングを施します...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096955733229395968/img/5H31ebTBYn9VxiUj.jpg" width="600" alt="日曜の朝のようなエステティックなスタイルへの再編集">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10535)**
-
-**作者:** [stan gralla](https://x.com/GrallaStan) | **ソース:** [Link](https://x.com/GrallaStan/status/2096955746608927063) | **公開日:** Sep 7, 2026
-
----
-### 立体感のあるエレガントなドレスの物語
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> エレガントなアイボリーのローズドレスを纏った女性を主役にした、30 秒間のステレオスコピック 3D カメラタイムラインプロンプト（連続ショット用）。
-
-#### 📝 プロンプト
-
-```
-最適化された 30 秒動画プロンプト — 1 フレーム目から音楽を開始
-息をのむような 30 秒間のステレオスコピック 3D シネマティック・マスターピース。超高精細で緻密な質感、フォトリアルな肌と生地の表現、ボリューム感のあるゴールデンライト、生き生きとした奥行きを演出。
-アップロードされた女性を被写体として正確に使用すること：彼女の顔立ち、太陽の光を浴びたカールしたブロンドヘア、ハイスリットの入ったブラッシュピンクとアイボリーのローズドレス、クリスタルヒール、そして庭園の背景。彼女のアイデンティティを一切変更しないこと。
-オーディオ（必須）
-最初のフレームからソロピアノが始まり、最後のフレームまで途切れることなく継続。親密でロマンチック、かつ幻想的なピアノのみ。音声なし。歌詞なし。イントロの遅延なし。
-ストーリー（タイムライン）
-0～5 秒
-ピアノが既に演奏されている。極上の美しさを捉えたクローズアップからミディアムショットへ。彼女は太陽の光が降り注ぐ石段に立ち、庭園そのものが呼吸しているかのような雰囲気。温かな逆光が彼女の髪を黄金の光輪のように照らす。花びらが 1 枚、レンズの前で静止し、その後 3D 空間を漂いながら通り過ぎる。
-5～12 秒
-彼女がゆっくりと、気品あふれる足取りで一歩前に踏み出す。刺繍が施されたトレーンが階段を流れ落ちる。何千枚もの淡いピンクとクリーム色の花びらがアーチから舞い上がり、重層的なステレオスコピック空間の中で彼女の周りを渦巻く。カメラをかすめるものもあれば、彼女の肩の後ろに落ちるものもある。微細な花粉とダイヤモンドダストが光の筋を捉える。シースルーの袖がまるで無重力のように持ち上がる。
-12～20 秒
-カメラが彼女の周りを滑らかで夢のような軌道で旋回する。柱、バラ、噴水の霧、舞い散る花びらが視差を生む。石のアーチから光が差し込む。数枚の花びらが彼女の鎖骨やクリスタルのボディスに舞い降り、再び浮かび上がる。彼女が太陽に向かって顔を向ける。静かで自然な微笑み。ドレスは濡れたシルクや砕いた真珠のように輝く。
-20～30 秒
-彼女が静止する。庭園が吐息をつく。花びらが彼女の周囲でゆっくりと浮遊する星座のように落ち着く。黄金の花粉が空中に漂う。ピアノは長く優しい最終音で締めくくられ、最後のフレームで終わる。この光景を維持すること：フェミニンでロマンチック、そして神聖な雰囲気。温かな花のボケ味と漂う光の中へフェードアウト。
-ルック
-幻想的でラグジュアリーなブライダルシネマ。装飾的でエレガント、フェミニンな美しさ。安っぽさを排除したロマンス。リアルな肌の毛穴と生地の織り目、そして魔法のような演出：舞い散る花びら、花粉、光の粒子、画面全体に広がる穏やかな 3D モーション。
-カメラ＆クラフト
-縦型 9:16。連続ショット、可能な限りカットなし。スロープッシュ ＋ オービット。浅い被写界深度、顔とドレスに鋭いピント。ステレオスコピック・マスターピース、3D テクスチャ、シャープなアップスケール、超微細なディテール。
-禁止事項
-顔や髪型の変更。人物の追加。音声の追加。音楽の遅延。動きを急ぐこと。肌の過度なレタッチ。
-最初のフレームから呼吸しているような、生きている絵画のように仕上げること。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="立体感のあるエレガントなドレスの物語">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10531)**
-
-**作者:** [Pam Westmore](https://x.com/PamWestmor85243) | **ソース:** [Link](https://x.com/PamWestmor85243/status/2096924134231953625) | **公開日:** Sep 7, 2026
-
----
-### キャラクターが登場する夕食調理シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャラクター参照機能を使用して、キッチンで夕食の準備をする Alice と Dani という 2 人のキャラクターを描写した動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-Alice @Reference3 と Dani @Reference2 がカウンターで野菜を刻み、Elara として夕食を作り始める
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096824592191156224/img/NjV-g4oS7Kv66QV2.jpg" width="600" alt="キャラクターが登場する夕食調理シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10491)**
-
-**作者:** [Brandon Russo](https://x.com/Brandon40163292) | **ソース:** [Link](https://x.com/Brandon40163292/status/2096825084254298173) | **公開日:** Sep 7, 2026
-
----
-### 映画のような凍てつく塔のフィギュア
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 冬の都市の風景を見下ろす、凍りついた電波塔の上に座る宇宙飛行士のような人物を捉えた、高高度からのショットを描写する詳細な多層的シネマティックプロンプト。
-
-#### 📝 プロンプト
-
-```
-クリーム色のフライトスーツとダークバイザーのヘルメットを着用した人物が、雪に覆われた都市を見下ろす高所の錆びついた氷の電波塔の端に座っている映画のようなワイドショット。体は静止して直立し、手袋をした手は梁の上に置かれている。金属の格子には重厚なつららがぶら下がり、はるか下方の白い屋根の間を凍った川が蛇行している。澄み渡る冬の青空、鋼鉄と霜に当たる冷たい日光、フォトリアルな雰囲気、極端な高さによるスケール感、布地・金属・氷の超詳細な質感、Grok Imagine。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471558961471488/img/jMxNQMBfaKgIgM3k.jpg" width="600" alt="映画のような凍てつく塔のフィギュア">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10479)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **公開日:** Sep 7, 2026
-
----
-### ポルシェのインテリアへの変換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 車のインテリアを Porsche 911 Turbo に置き換えつつ、被写体のチワワを維持するための動画変換プロンプト。
-
-#### 📝 プロンプト
-
-```
-Nissan Sentra の車内全体と背景を、高級感のあるモダンな赤の Porsche 911 Turbo のインテリアに置き換えてください。1 枚目の画像に登場する白いチワワをメインの被写体としてそのまま維持し、助手席で後ろ足で立っているポーズも完全に再現してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096776251444961280/img/SAsIOjxuqCLcDZU2.jpg" width="600" alt="ポルシェのインテリアへの変換">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10538)**
-
-**作者:** [Eliot Sherr](https://x.com/Esherr9401) | **ソース:** [Link](https://x.com/Esherr9401/status/2096776264967233577) | **公開日:** Sep 7, 2026
-
----
-### バスケットボールのダンクモーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャラクターがバスケットボールをドリブルし、マイケル・ジョーダン風のダンクシュートを決める動画を生成します。
-
-#### 📝 プロンプト
-
-```
-彼女にバスケットボールをドリブルさせてゴールまで運ばせ、マイケル・ジョーダン風のダンクシュートをリムに叩き込ませる
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096773020664676354/img/NPyEHr-UVx-AvAGz.jpg" width="600" alt="バスケットボールのダンクモーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10488)**
-
-**作者:** [Vdewey](https://x.com/Vdeweydo) | **ソース:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **公開日:** Sep 7, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2221,6 +2206,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-18T04:24:28.313Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-18T13:05:59.156Z</sub>
 
 </div>

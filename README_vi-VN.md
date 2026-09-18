@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2835** |
+| 📝 Total Prompts | **2845** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-18** |
 
@@ -189,6 +189,141 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Cảnh Nổ Coca-Cola và Mentos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt video chi tiết nhiều bước mô tả một cảnh hài hước dựa trên nguyên lý vật lý, liên quan đến xe bồn Coca-Cola, xe tải Mentos và một người đàn ông có râu gây ra vụ nổ.
+
+#### 📝 Prompt
+
+```
+Góc nhìn thực tế từ bảng điều khiển (POV), đường cao tốc ướt, xe bồn Coca-Cola màu đỏ đang phun trào chất lỏng bên cạnh xe tải Mentos màu xanh. Một người đàn ông to béo, để râu, mặc áo ba lỗ cam và quần short, múc đầy bình từ vũng nước tràn, uống ngấu nghiến, rồi đổ các hộp Mentos vào vũng nước, kích hoạt một vụ phun trào khổng lồ đẩy anh ta bay lên không trung. Hài hước, hiệu ứng vật lý chi tiết, dọc 30 giây.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842567470292992/img/FuRk8KIp-5GviHnn.jpg" width="600" alt="Cảnh Nổ Coca-Cola và Mentos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11002)**
+
+**Author:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **Source:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **Published:** Sep 18, 2026
+
+---
+### Cinderella tại Công viên Trung tâm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video đặt Cinderella trong bối cảnh hiện đại của Công viên Trung tâm khi cô bước ra khỏi xe ngựa.
+
+#### 📝 Prompt
+
+```
+Cinderella đang mặc một chiếc váy hồng. Cô bước ra khỏi chiếc xe ngựa trắng kéo và đang ở Công viên Trung tâm, New York, Hoa Kỳ, trong nước Mỹ ngày nay.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100809364600672256/img/CPMTO-65Uono7is7.jpg" width="600" alt="Cinderella tại Công viên Trung tâm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11001)**
+
+**Author:** [K. Massari](https://x.com/porcupine_touch) | **Source:** [Link](https://x.com/porcupine_touch/status/2100809392870359537) | **Published:** Sep 18, 2026
+
+---
+### Video Câu Cá Giả
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả video về động tác câu cá giả, giật cần khi cá cắn mồi ảo và thu dây để bắt được con cá giả.
+
+#### 📝 Prompt
+
+```
+Động tác câu cá giả, giật cần khi cá cắn mồi ảo, thu dây để bắt được con cá giả....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100765658464083968/img/bopZrXUorKDqtzU0.jpg" width="600" alt="Video Câu Cá Giả">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11003)**
+
+**Author:** [Yourenext1187🏴‍☠️](https://x.com/Spergburger) | **Source:** [Link](https://x.com/Spergburger/status/2100765685383098471) | **Published:** Sep 18, 2026
+
+---
+### Rồng Lego canh gác
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo hình một con rồng dữ tợn được ghép hoàn toàn từ các khối Lego liên kết, đứng canh trước lâu đài Lego dưới ánh trăng.
+
+#### 📝 Prompt
+
+```
+Một con rồng dữ tợn được ghép hoàn toàn từ các khối Lego liên kết với tông màu tối và đậm—đỏ thẫm, đen nửa đêm, tím hoàng gia và xanh điện. Con rồng đứng canh trước một lâu đài Lego cao chót vót với tường thành và tháp pháo, đôi cánh dang rộng như để bảo vệ. Cảnh đêm dưới ánh trăng sáng rực rỡ, ánh sáng kịch tính, bề mặt nhựa bóng loáng phản chiếu ánh hào quang, bầu không khí kỳ ảo điện ảnh, chi tiết cực kỳ sắc nét.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739489576407040/img/6WYwjdDKFch9BQgG.jpg" width="600" alt="Rồng Lego canh gác">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11005)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2100739588712956331) | **Published:** Sep 18, 2026
+
+---
+### Bud Light Kid Rock Parody
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một đoạn video hài hước tái hiện khoảnh khắc quảng cáo của Bud Light với Kid Rock, nhưng thay thế bằng phô mai Tillamook.
+
+#### 📝 Prompt
+
+```
+Quảng cáo Bud Light với Kid Rock trong cảnh anh ấy bắn tung các lon bia, nhưng thay thế bằng phô mai Tillamook
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739335007993856/img/rNPqWIPCJDNmwYeT.jpg" width="600" alt="Bud Light Kid Rock Parody">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10999)**
+
+**Author:** [Anita Evans](https://x.com/AnitaEvans2911) | **Source:** [Link](https://x.com/AnitaEvans2911/status/2100739348874350832) | **Published:** Sep 18, 2026
+
+---
+### Người Cưỡi Ngựa Điện Ảnh Trước Nhà Thờ Hồi Giáo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video mô tả chuyển động camera điện ảnh chậm tiến về phía trước khi một người cưỡi ngựa và con ngựa tiến gần đến nhà thờ Hồi giáo với cát vàng và những vì sao lấp lánh.
+
+#### 📝 Prompt
+
+```
+Ngựa và người cưỡi đi chậm về phía nhà thờ Hồi giáo. Áo choàng và bờm ngựa nhẹ nhàng lay động trong gió. Cát vàng trôi dạt dịu dàng, mây di chuyển chậm rãi, các vì sao lấp lánh và tia sáng tỏa rạng. Chuyển động camera điện ảnh chậm tiến về phía trước. Giữ nguyên cấu trúc và bố cục của nhà thờ Hồi giáo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100702402546372608/img/GqhyoZOndtvUtg05.jpg" width="600" alt="Người Cưỡi Ngựa Điện Ảnh Trước Nhà Thờ Hồi Giáo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11000)**
+
+**Author:** [Dame](https://x.com/Damesall313) | **Source:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **Published:** Sep 17, 2026
+
+---
+### Grok Imagine Prompt: Nhiếp ảnh Động vật Hoang dã Hổ Siberia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt để tạo ra bức ảnh nhiếp ảnh động vật hoang dã chân thực của một con hổ Siberia trong môi trường tự nhiên, sử dụng độ sâu trường ảnh nông và ánh sáng lạnh để đạt được thẩm mỹ tài liệu không dàn dựng.
+
+#### 📝 Prompt
+
+```
+Phong cách nghệ thuật: Nhiếp ảnh động vật hoang dã chân thực, độ sâu trường ảnh nông, ánh sáng lạnh tự nhiên, hạt phim tinh tế, trung thực và không dàn dựng, không tô vẽ.
+
+Nội dung: Một con hổ Siberia đang đi bộ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100468661995921408/img/yrSMe_OEtDZDdjw0.jpg" width="600" alt="Grok Imagine Prompt: Nhiếp ảnh Động vật Hoang dã Hổ Siberia">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11004)**
+
+**Author:** [David Liang](https://x.com/DavidLi36143625) | **Source:** [Link](https://x.com/DavidLi36143625/status/2100469282497032283) | **Published:** Sep 17, 2026
+
+---
 ### Người Phụ Nữ Ném Trái Đất Vào Mặt Trời
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -900,6 +1035,26 @@ Một chú kiến mẹ đang kéo chiếc xe chở thức ăn cùng với con tr
 **Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
 
 ---
+### Video Robot Oasis trên Sao Hỏa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video mô tả một ốc đảo trên Sao Hỏa với ánh sáng trong các mái vòm và robot xây dựng sự sống.
+
+#### 📝 Prompt
+
+```
+Chúc mọi người tối thứ Sáu vui vẻ.
+Chỉ là một cái nhìn thoáng qua tối nay - một ốc đảo trên Sao Hỏa, ánh sáng trong các mái vòm, robot xây dựng sự sống.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098477462200147968/img/Njx6sAHlUy-55dbB.jpg" width="600" alt="Video Robot Oasis trên Sao Hỏa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11008)**
+
+**Author:** [Ninoki](https://x.com/Ninoki111) | **Source:** [Link](https://x.com/Ninoki111/status/2098477739753803836) | **Published:** Sep 11, 2026
+
+---
 ### Video tri ân nhà thờ Ba Lan lịch sử
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -917,6 +1072,27 @@ Tri ân Nhà thờ Thánh Tâm Chúa Giêsu và Mẹ Maria, Scranton Pennsylvani
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
 
 **Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
+
+---
+### Giấc mơ bay của Leonardo da Vinci
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Phần 1 video mô tả giấc mơ bay của nhân loại và Leonardo da Vinci, được tạo bằng Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Phần 1: Giấc mơ bay | 0–15 giây
+
+Từ việc ngắm nhìn những cánh chim tự do đến trí tưởng tượng về các cỗ máy bay, giấc mơ bay của nhân loại bắt đầu từ một tầm nhìn. Leonardo da Vinci đã góp phần biến giấc mơ ấy thành ý tưởng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098370904942313473/img/rfo920ZzO_nbDXd9.jpg" width="600" alt="Giấc mơ bay của Leonardo da Vinci">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11006)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098396641602740528) | **Published:** Sep 11, 2026
 
 ---
 ### Chuỗi hành động ăn mì chân thực
@@ -948,6 +1124,27 @@ Giữ cho tất cả các chuyển động liên tục và chân thực về m�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
 
 **Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
+
+---
+### Video về Thành phố New York Không Bao Giờ Ngủ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Đoạn video mô tả thành phố New York sau khi trời tối với đường chân trời rực rỡ.
+
+#### 📝 Prompt
+
+```
+Phần 4 (45–60 giây): Thành phố không bao giờ ngủ
+
+New York City sau khi trời tối—nơi đường chân trời tỏa sáng rực rỡ hơn cả những vì sao.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098360939825532928/img/kt9lSCEFM_180S6i.jpg" width="600" alt="Video về Thành phố New York Không Bao Giờ Ngủ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11007)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098361333574181177) | **Published:** Sep 11, 2026
 
 ---
 ### Hiệp sĩ khoa học viễn tưởng phong cách Klimt
@@ -1949,218 +2146,6 @@ Hãy chuyển đổi khung cảnh khu định cư trên sao Hỏa này thành ph
 **Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **Published:** Sep 7, 2026
 
 ---
-### Hiệu ứng Zoom bó hoa xoay
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chuyển động (motion prompt) cho video giúp tạo hiệu ứng zoom mượt mà và xoay dọc trên một cụm hoa xếp nếp.
-
-#### 📝 Prompt
-
-```
-Giữ nguyên hình ảnh bó hoa hỗn hợp. Từ từ zoom cận cảnh vào cụm hoa xếp nếp màu trắng và xám dày đặc ở phía trên, đồng thời toàn bộ bó hoa xoay nhẹ trên trục dọc của nó. Chuyển động mượt mà, liên tục, phong cách hội họa
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097045100371279872/img/_CVJO0RbC8voKFu0.jpg" width="600" alt="Hiệu ứng Zoom bó hoa xoay">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10539)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2097045135708074171) | **Published:** Sep 7, 2026
-
----
-### Video cảnh quan thành phố xanh tiên tiến
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Chuyển đổi cảnh quan thành phố tương lai bằng cách thêm thảm thực vật tươi tốt như cây cối và cỏ để tạo ra tính thẩm mỹ sinh thái tiên tiến.
-
-#### 📝 Prompt
-
-```
-Tôi muốn lấy hình ảnh cảnh quan thành phố tương lai điển hình và thêm một chút cây xanh vào đó. Hãy làm cho nó trông thật tiên tiến với nhiều cây cối và thảm cỏ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097030058531581952/img/lpcCKU1Ety68woVy.jpg" width="600" alt="Video cảnh quan thành phố xanh tiên tiến">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10532)**
-
-**Author:** [GeoDev](https://x.com/GeoDev1962) | **Source:** [Link](https://x.com/GeoDev1962/status/2097030074939670594) | **Published:** Sep 7, 2026
-
----
-### Video điện ảnh về Trại không gian Sao Hỏa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tiếp nối video điện ảnh khoa học viễn tưởng phức tạp, theo dõi một người phụ nữ đang đi bộ qua một trại không gian ngoài hành tinh.
-
-#### 📝 Prompt
-
-```
-Chuyển đổi cảnh quay để người phụ nữ đi về phía trước xuyên qua trại không gian của cô ấy trên Sao Hỏa, hiển thị toàn thân. Cô ấy mặc cùng bộ đồ phi hành gia hiện đại màu xanh đậm bóng bẩy với các chi tiết màu xanh kim loại và bạc, hoàn toàn phù hợp với các điểm nhấn phát sáng màu xanh lam o...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096994780165124096/img/9lZYbxJqQG2g-YSn.jpg" width="600" alt="Video điện ảnh về Trại không gian Sao Hỏa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10530)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2096994806459256874) | **Published:** Sep 7, 2026
-
----
-### Phim thời trang cao cấp (High-Fashion Editorial)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) để tạo đoạn phim thời trang cao cấp dài 15 giây, giữ nguyên diện mạo nhân vật trong bối cảnh studio tối giản.
-
-#### 📝 Prompt
-
-```
-Tạo một đoạn phim thời trang cao cấp dài 15 giây với nhân vật người lớn làm tâm điểm. Hãy giữ nguyên diện mạo, trang phục, phụ kiện và phong cách hình ảnh của nhân vật. Kết xuất toàn bộ đoạn phim theo đúng thẩm mỹ của hình ảnh tham chiếu.
-
-Sử dụng một studio tối giản với sàn nhà phản chiếu,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096966883404812289/img/mZrPulPlds6nc1z8.jpg" width="600" alt="Phim thời trang cao cấp (High-Fashion Editorial)">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10533)**
-
-**Author:** [Eileen_Xie](https://x.com/eileen_XL) | **Source:** [Link](https://x.com/eileen_XL/status/2096966914136560022) | **Published:** Sep 7, 2026
-
----
-### Phong cách buổi sáng Chủ Nhật
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Chuyển đổi ảnh sang phong cách buổi sáng Chủ Nhật ấm áp, mờ ảo với ánh nắng vàng và tông màu cổ điển.
-
-#### 📝 Prompt
-
-```
-Chuyển đổi bức ảnh này sang phong cách buổi sáng Chủ Nhật đầy mơ mộng. Ánh nắng vàng dịu nhẹ của buổi sáng sớm bao phủ khung cảnh, tạo nên hiệu ứng mờ ảo cùng ánh sáng khuếch tán mềm mại. Tông màu cổ điển ấm áp với sắc vàng nhẹ nhàng và sắc xanh dịu...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096955733229395968/img/5H31ebTBYn9VxiUj.jpg" width="600" alt="Phong cách buổi sáng Chủ Nhật">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10535)**
-
-**Author:** [stan gralla](https://x.com/GrallaStan) | **Source:** [Link](https://x.com/GrallaStan/status/2096955746608927063) | **Published:** Sep 7, 2026
-
----
-### Câu chuyện về chiếc váy thanh lịch lập thể
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) chi tiết, được căn thời gian 30 giây cho camera 3D lập thể, quay cảnh liên tục một người phụ nữ trong chiếc váy hoa hồng màu ngà thanh lịch.
-
-#### 📝 Prompt
-
-```
-Câu lệnh video 30 giây được tối ưu hóa — âm nhạc bắt đầu từ khung hình đầu tiên
-Một kiệt tác điện ảnh 3D lập thể dài 30 giây đầy ngoạn mục. Kết cấu siêu sắc nét, siêu mịn, da và vải chân thực như ảnh chụp, ánh sáng vàng thể tích, chiều sâu sống động.
-Sử dụng người phụ nữ đã tải lên làm chủ thể chính xác: khuôn mặt, mái tóc vàng xoăn dưới ánh nắng, chiếc váy hoa hồng màu hồng phấn và màu ngà với đường xẻ cao, giày pha lê và bối cảnh khu vườn. Không được thay đổi danh tính của cô ấy.
-Âm thanh (bắt buộc)
-Tiếng đàn piano độc tấu bắt đầu ngay từ khung hình đầu tiên và tiếp tục không gián đoạn cho đến khung hình cuối cùng. Chỉ có tiếng đàn piano thân mật, lãng mạn, thanh tao. Không có giọng nói. Không có lời bài hát. Không có phần dạo đầu bị trì hoãn.
-Câu chuyện, theo thời gian
-0–5 giây
-Tiếng đàn piano đã bắt đầu. Cảnh quay từ cận đến trung cảnh đầy vẻ đẹp tuyệt mỹ. Cô đứng trên những bậc đá dưới ánh mặt trời như thể chính khu vườn đang thở. Ánh sáng ngược ấm áp thắp sáng mái tóc cô thành một vầng hào quang vàng rực. Một cánh hoa lơ lửng trước ống kính, sau đó trôi qua trong không gian 3D chân thực.
-5–12 giây
-Cô bước một bước chậm rãi, đầy vương giả về phía trước. Tà váy thêu đổ xuống các bậc thang. Hàng ngàn cánh hoa màu hồng nhạt và kem bay lên từ các mái vòm và xoáy quanh cô trong không gian lập thể nhiều lớp — một số cánh hoa lướt qua camera, một số rơi phía sau vai cô. Phấn hoa mịn và bụi kim cương bắt lấy từng tia sáng. Những ống tay áo mỏng manh nâng lên như thể không trọng lượng.
-12–20 giây
-Camera xoay quanh cô một cách mượt mà, mơ màng. Hiệu ứng thị sai trên các cột trụ, hoa hồng, sương mù từ đài phun nước và những cánh hoa bay bổng. Ánh sáng lóe lên qua các mái vòm bằng đá. Một vài cánh hoa đậu trên xương quai xanh và phần thân áo đính pha lê, rồi lại bay lên. Cô quay mặt về phía mặt trời. Một nụ cười tự nhiên, tĩnh lặng. Chiếc váy lấp lánh như lụa ướt và ngọc trai nghiền.
-20–30 giây
-Cô đứng yên. Khu vườn như đang thở ra. Những cánh hoa chậm lại thành một chòm sao lơ lửng xung quanh cô. Phấn hoa vàng lơ lửng trong không trung. Tiếng đàn piano kết thúc bằng một nốt nhạc cuối cùng dài, dịu dàng rơi đúng vào khung hình cuối cùng. Giữ nguyên khung cảnh: nữ tính, lãng mạn, gần như thiêng liêng. Mờ dần qua hiệu ứng bokeh hoa ấm áp và ánh sáng trôi dạt.
-Phong cách
-Điện ảnh cô dâu sang trọng, thanh tao. Vẻ đẹp trang trí, thanh lịch, nữ tính. Lãng mạn mà không sến súa. Lỗ chân lông trên da và sợi vải chân thực, được nâng tầm bởi phép thuật: cánh hoa bay, phấn hoa, bụi sáng và chuyển động 3D nhẹ nhàng trên màn hình.
-Camera & kỹ thuật
-Khung hình dọc 9:16. Cảnh quay liên tục, không cắt cảnh nếu có thể. Quay chậm + xoay quanh. Độ sâu trường ảnh nông, lấy nét sắc nét vào khuôn mặt và chiếc váy. Kiệt tác lập thể, kết cấu 3D, nâng cấp độ sắc nét, chi tiết siêu mịn.
-Không được
-Thay đổi khuôn mặt hoặc mái tóc của cô ấy. Thêm người. Thêm lời thoại. Trì hoãn âm nhạc. Làm chuyển động vội vàng. Chỉnh sửa da quá mức.
-Hãy làm cho nó giống như một bức tranh sống động, biết thở ngay từ khung hình đầu tiên.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="Câu chuyện về chiếc váy thanh lịch lập thể">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10531)**
-
-**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2096924134231953625) | **Published:** Sep 7, 2026
-
----
-### Cảnh nấu bữa tối với các nhân vật
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video mô tả hai nhân vật, Alice và Dani, đang chuẩn bị bữa tối trong không gian bếp và sử dụng các tham chiếu nhân vật.
-
-#### 📝 Prompt
-
-```
-Alice @Reference3 và Dani @Reference2 đang thái rau củ trên bàn bếp và bắt đầu chuẩn bị bữa tối với tư cách là Elara
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096824592191156224/img/NjV-g4oS7Kv66QV2.jpg" width="600" alt="Cảnh nấu bữa tối với các nhân vật">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10491)**
-
-**Author:** [Brandon Russo](https://x.com/Brandon40163292) | **Source:** [Link](https://x.com/Brandon40163292/status/2096825084254298173) | **Published:** Sep 7, 2026
-
----
-### Hình ảnh tháp băng giá đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lời nhắc (prompt) điện ảnh đa tầng chi tiết mô tả góc quay từ trên cao về một nhân vật giống phi hành gia đang ngồi trên tháp phát thanh đóng băng phía trên cảnh quan thành phố mùa đông.
-
-#### 📝 Prompt
-
-```
-Góc quay rộng đậm chất điện ảnh về một nhân vật mặc bộ đồ bay màu kem và đội mũ bảo hiểm có kính che tối màu, đang ngồi trên mép một tháp phát thanh gỉ sét phủ đầy băng giá ở vị trí cao phía trên thành phố phủ tuyết, cơ thể bất động và thẳng đứng, đôi tay đeo găng đặt trên thanh dầm, những tảng băng lớn treo lơ lửng từ khung kim loại, con sông đóng băng uốn lượn qua những mái nhà trắng xóa phía xa bên dưới, bầu trời mùa đông xanh trong, ánh nắng lạnh lẽo chiếu trên thép và sương giá, không khí chân thực như ảnh chụp, cảm giác về độ cao cực lớn, kết cấu vải, kim loại và băng siêu chi tiết, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471558961471488/img/jMxNQMBfaKgIgM3k.jpg" width="600" alt="Hình ảnh tháp băng giá đậm chất điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10479)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **Published:** Sep 7, 2026
-
----
-### Biến đổi nội thất xe Porsche
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) chuyển đổi video giúp thay thế nội thất xe bằng Porsche 911 Turbo trong khi vẫn giữ nguyên chủ thể là chú chó Chihuahua.
-
-#### 📝 Prompt
-
-```
-Thay thế toàn bộ nội thất và bối cảnh của chiếc xe Nissan Sentra bằng nội thất sang trọng, hiện đại của chiếc Porsche 911 Turbo màu đỏ. Giữ nguyên chủ thể chính là chú chó Chihuahua màu trắng từ hình ảnh đầu tiên: giữ đúng tư thế đứng bằng hai chân sau trên ghế phụ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096776251444961280/img/SAsIOjxuqCLcDZU2.jpg" width="600" alt="Biến đổi nội thất xe Porsche">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10538)**
-
-**Author:** [Eliot Sherr](https://x.com/Esherr9401) | **Source:** [Link](https://x.com/Esherr9401/status/2096776264967233577) | **Published:** Sep 7, 2026
-
----
-### Chuyển động úp rổ bóng rổ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo video một nhân vật đang dẫn bóng và thực hiện cú úp rổ theo phong cách Michael Jordan.
-
-#### 📝 Prompt
-
-```
-Hãy để cô ấy dẫn bóng về phía rổ và thực hiện cú úp rổ kiểu Michael Jordan vào vành rổ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096773020664676354/img/NPyEHr-UVx-AvAGz.jpg" width="600" alt="Chuyển động úp rổ bóng rổ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10488)**
-
-**Author:** [Vdewey](https://x.com/Vdeweydo) | **Source:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2222,6 +2207,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-18T04:24:32.094Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-18T13:06:05.358Z</sub>
 
 </div>

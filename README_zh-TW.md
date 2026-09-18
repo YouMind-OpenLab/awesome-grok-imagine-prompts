@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2835** |
+| 📝 提示詞總數 | **2845** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-18** |
 
@@ -189,6 +189,141 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 可樂曼陀珠爆炸場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段詳細的多步驟影片提示，描繪了一個基於物理原理的幽默場景，涉及可樂油罐車、曼陀珠貨車以及一名留鬍子男子引發的爆炸。
+
+#### 📝 提示詞
+
+```
+逼真的儀表板視角，潮濕的高速公路，紅色 Coca-Cola 油罐車在藍色 Mentos 貨車旁噴出液體。一名身材魁梧、留著鬍子的男子身穿橙色背心和短褲，從洩漏處裝滿水壺並狼吞虎嚥地喝下，隨後將整箱 Mentos 倒入積水中，觸發巨大噴發，將他拋向空中。風格幽默，物理細節豐富，30 秒豎屏影片。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842567470292992/img/FuRk8KIp-5GviHnn.jpg" width="600" alt="可樂曼陀珠爆炸場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11002)**
+
+**作者:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **來源:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **發布時間:** Sep 18, 2026
+
+---
+### 灰姑娘在中央公園
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片提示，將灰姑娘置於現代紐約中央公園場景中，描繪她步出馬車的瞬間。
+
+#### 📝 提示詞
+
+```
+灰姑娘身穿粉紅色禮服。她從白色馬車中走出，身處美國紐約的中央公園，背景為當代的現代美國都市環境。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100809364600672256/img/CPMTO-65Uono7is7.jpg" width="600" alt="灰姑娘在中央公園">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11001)**
+
+**作者:** [K. Massari](https://x.com/porcupine_touch) | **來源:** [Link](https://x.com/porcupine_touch/status/2100809392870359537) | **發布時間:** Sep 18, 2026
+
+---
+### 假釣魚拋竿影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片提示，描述模擬釣魚的假拋竿動作、在假咬鉤時揚竿刺魚，以及收線拉回。
+
+#### 📝 提示詞
+
+```
+模擬釣魚的假拋竿動作，在假咬鉤時揚竿刺魚，並收線拉回假釣到的魚....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100765658464083968/img/bopZrXUorKDqtzU0.jpg" width="600" alt="假釣魚拋竿影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11003)**
+
+**作者:** [Yourenext1187🏴‍☠️](https://x.com/Spergburger) | **來源:** [Link](https://x.com/Spergburger/status/2100765685383098471) | **發布時間:** Sep 18, 2026
+
+---
+### 樂高龍守衛
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於生成由互鎖樂高積木組成的兇猛巨龍的提示詞，該巨龍在月光下守護著一座樂高城堡。
+
+#### 📝 提示詞
+
+```
+一隻完全由互鎖樂高積木組成的兇猛巨龍，採用深色與大膽配色——深紅、午夜黑、皇家紫和電光藍。巨龍站立在一座擁有城垛與塔樓的高聳樂高城堡前進行守護，雙翼展開呈保護姿態。明亮的月光下的夜景，戲劇性的光影效果，光滑的塑膠表面反射著光芒，充滿電影感的奇幻氛圍，細節高度精緻。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739489576407040/img/6WYwjdDKFch9BQgG.jpg" width="600" alt="樂高龍守衛">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11005)**
+
+**作者:** [Sherice](https://x.com/Sherice0799) | **來源:** [Link](https://x.com/Sherice0799/status/2100739588712956331) | **發布時間:** Sep 18, 2026
+
+---
+### Bud Light Kid Rock 惡搞影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段幽默的影片提示，重現 Bud Light 廣告中 Kid Rock 的經典時刻，但將產品替換為 Tillamook 起司。
+
+#### 📝 提示詞
+
+```
+Kid Rock 喝 Bud Light 並射擊罐子的經典場景，但將啤酒替換為 Tillamook 起司
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739335007993856/img/rNPqWIPCJDNmwYeT.jpg" width="600" alt="Bud Light Kid Rock 惡搞影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10999)**
+
+**作者:** [Anita Evans](https://x.com/AnitaEvans2911) | **來源:** [Link](https://x.com/AnitaEvans2911/status/2100739348874350832) | **發布時間:** Sep 18, 2026
+
+---
+### 清真寺前的電影感騎馬場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片生成提示詞，描述鏡頭以電影感的慢速向前推進，呈現騎士與馬匹接近清真寺的畫面，背景為金色沙塵與閃爍星光。
+
+#### 📝 提示詞
+
+```
+騎士與馬匹緩步走向清真寺。長袍與馬鬃隨風輕柔擺動。金色沙塵緩緩飄散，雲朵緩慢移動，星星閃爍，光線柔和發亮。鏡頭以電影感的慢速向前推進。保持清真寺結構與構圖不變。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100702402546372608/img/GqhyoZOndtvUtg05.jpg" width="600" alt="清真寺前的電影感騎馬場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11000)**
+
+**作者:** [Dame](https://x.com/Damesall313) | **來源:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **發布時間:** Sep 17, 2026
+
+---
+### Grok Imagine 提示詞：西伯利亞虎野生動物攝影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成西伯利亞虎在自然環境中寫實野生動物攝影的提示詞，利用淺景深和冷色調光線，營造出未擺拍、紀錄片式的美學風格。
+
+#### 📝 提示詞
+
+```
+藝術風格：寫實野生動物攝影，淺景深，自然冷色調光線，細微的膠片顆粒感，真實且未擺拍，無過度美化。
+
+內容：一隻正在行走的西伯利亞虎
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100468661995921408/img/yrSMe_OEtDZDdjw0.jpg" width="600" alt="Grok Imagine 提示詞：西伯利亞虎野生動物攝影">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11004)**
+
+**作者:** [David Liang](https://x.com/DavidLi36143625) | **來源:** [Link](https://x.com/DavidLi36143625/status/2100469282497032283) | **發布時間:** Sep 17, 2026
+
+---
 ### 女子將地球拋向太陽
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -900,6 +1035,26 @@ Falcon 9 發射時的集體狂喜：當震耳欲聾的轟鳴聲終於席捲人�
 **作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **來源:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **發布時間:** Sep 11, 2026
 
 ---
+### Oasis on Mars Robots Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video depicting an oasis on Mars with lights in domes and robots building life.
+
+#### 📝 提示詞
+
+```
+Have a good Friday evening, everyone.
+Just a short glimpse tonight - an oasis on Mars, lights in the domes, robots building life.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098477462200147968/img/Njx6sAHlUy-55dbB.jpg" width="600" alt="Oasis on Mars Robots Video">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11008)**
+
+**作者:** [Ninoki](https://x.com/Ninoki111) | **來源:** [Link](https://x.com/Ninoki111/status/2098477739753803836) | **發布時間:** Sep 11, 2026
+
+---
 ### 歷史悠久的波蘭教堂致敬影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -917,6 +1072,27 @@ Falcon 9 發射時的集體狂喜：當震耳欲聾的轟鳴聲終於席捲人�
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10798)**
 
 **作者:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **來源:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **發布時間:** Sep 11, 2026
+
+---
+### 飛翔之夢：達文西
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 影片第一部分，描述人類對飛行的夢想以及達文西的故事，由 Grok Imagine 生成。
+
+#### 📝 提示詞
+
+```
+第一部分：飛翔之夢 | 0–15 秒
+
+從凝視鳥兒翱翔到構想飛行機器，人類的飛行夢想始於一個願景。達文西幫助將這個夢想轉化為具體的想法。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098370904942313473/img/rfo920ZzO_nbDXd9.jpg" width="600" alt="飛翔之夢：達文西">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11006)**
+
+**作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **來源:** [Link](https://x.com/ItsEthanRay/status/2098396641602740528) | **發布時間:** Sep 11, 2026
 
 ---
 ### 逼真的吃麵動作序列
@@ -948,6 +1124,27 @@ Falcon 9 發射時的集體狂喜：當震耳欲聾的轟鳴聲終於席捲人�
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10797)**
 
 **作者:** [AI_Courier](https://x.com/arc_courier) | **來源:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **發布時間:** Sep 11, 2026
+
+---
+### 紐約不夜城影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 描述夜幕降臨後的紐約市，閃耀的天際線。
+
+#### 📝 提示詞
+
+```
+第 4 部分（45–60 秒）：不夜城
+
+夜幕降臨後的紐約市——這裡的天際線比星星更加璀璨。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098360939825532928/img/kt9lSCEFM_180S6i.jpg" width="600" alt="紐約不夜城影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11007)**
+
+**作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **來源:** [Link](https://x.com/ItsEthanRay/status/2098361333574181177) | **發布時間:** Sep 11, 2026
 
 ---
 ### 克林姆風格的科幻騎士
@@ -1949,218 +2146,6 @@ TESLA 的機器人 OPTIMUS 在向 ELON 道別後，騎上這台摩托車並駛�
 **作者:** [Sahil Verma](https://x.com/sahilvermaai) | **來源:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **發布時間:** Sep 7, 2026
 
 ---
-### 旋轉花束縮放
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於影片的動態提示詞，可對一束荷葉邊花朵進行平滑的縮放與垂直旋轉。
-
-#### 📝 提示詞
-
-```
-保持完全相同的混合媒材花束影像。在頂部白色與灰色荷葉邊花朵的密集簇群上緩慢拉近，同時整束花沿著垂直軸輕柔旋轉。平滑、連續的動態，繪畫風格
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097045100371279872/img/_CVJO0RbC8voKFu0.jpg" width="600" alt="旋轉花束縮放">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10539)**
-
-**作者:** [Ember Art](https://x.com/Ember8184Art) | **來源:** [Link](https://x.com/Ember8184Art/status/2097045135708074171) | **發布時間:** Sep 7, 2026
-
----
-### 進階綠化城市景觀影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 透過添加樹木與草地等豐富植被，將未來感城市景觀轉化為進階的生態美學風格。
-
-#### 📝 提示詞
-
-```
-我想要將典型的未來城市景觀圖像加入一些綠色植被。請讓它看起來非常先進，並增添大量的樹木與草地。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097030058531581952/img/lpcCKU1Ety68woVy.jpg" width="600" alt="進階綠化城市景觀影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10532)**
-
-**作者:** [GeoDev](https://x.com/GeoDev1962) | **來源:** [Link](https://x.com/GeoDev1962/status/2097030074939670594) | **發布時間:** Sep 7, 2026
-
----
-### 火星太空營電影感漫步
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個複雜的科幻電影感影片續寫提示詞，追蹤一名女性在地球外太空營地中行走的畫面。
-
-#### 📝 提示詞
-
-```
-轉換場景，讓該名女性在火星上的太空營地中向前行走，全身清晰可見。她穿著與之前相同的深藍色現代太空服，服裝細節處帶有金屬藍與銀色點綴，與藍色發光裝飾完美呼應...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096994780165124096/img/9lZYbxJqQG2g-YSn.jpg" width="600" alt="火星太空營電影感漫步">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10530)**
-
-**作者:** [Mimi9060](https://x.com/MelodyM662010) | **來源:** [Link](https://x.com/MelodyM662010/status/2096994806459256874) | **發布時間:** Sep 7, 2026
-
----
-### 高級時裝編輯影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個 15 秒高級時裝影片的提示詞，旨在於極簡攝影棚場景中保留特定角色的外觀。
-
-#### 📝 提示詞
-
-```
-製作一部 15 秒的高級時裝編輯影片，由該成人角色擔任主角。請保留其確切的外觀、服裝、配飾及視覺風格。並以參考素材的審美風格呈現整部影片。
-
-使用一個配有反光地板的極簡攝影棚，...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096966883404812289/img/mZrPulPlds6nc1z8.jpg" width="600" alt="高級時裝編輯影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10533)**
-
-**作者:** [Eileen_Xie](https://x.com/eileen_XL) | **來源:** [Link](https://x.com/eileen_XL/status/2096966914136560022) | **發布時間:** Sep 7, 2026
-
----
-### 週日早晨氛圍感重塑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 將照片重塑為溫暖、朦朧的週日早晨氛圍，呈現金色陽光與復古色調。
-
-#### 📝 提示詞
-
-```
-將這張照片重塑為夢幻的週日早晨氛圍。柔和、朦朧且溫暖的金色晨光輕柔地灑落在場景中，伴隨著些許大氣霧感與柔和的漫射光暈。採用溫暖的復古色調，融合柔和的黃色與淡綠色調……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096955733229395968/img/5H31ebTBYn9VxiUj.jpg" width="600" alt="週日早晨氛圍感重塑">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10535)**
-
-**作者:** [stan gralla](https://x.com/GrallaStan) | **來源:** [Link](https://x.com/GrallaStan/status/2096955746608927063) | **發布時間:** Sep 7, 2026
-
----
-### 立體優雅禮服敘事
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份精確、為期 30 秒的立體 3D 攝影機時間軸提示詞，用於拍攝一位身穿優雅象牙白玫瑰禮服女性的連續鏡頭。
-
-#### 📝 提示詞
-
-```
-優化後的 30 秒影片提示詞 — 音樂從第 1 幀開始
-一部令人屏息的 30 秒立體 3D 電影級傑作。超清晰、超細膩的質感，照片級真實的皮膚與布料，立體感十足的金色光影，栩栩如生的深度。
-請使用上傳的女性作為唯一主體：她的臉龐、陽光下捲曲的金髮、帶有高開衩的淡粉色與象牙白玫瑰禮服、水晶高跟鞋以及花園背景。請勿更改其身份。
-音訊（強制要求）
-獨奏鋼琴從第一幀開始播放，並持續不間斷至最後一幀。僅限親密、浪漫、空靈的鋼琴聲。無人聲。無歌詞。無延遲開場。
-故事與時間軸
-0–5 秒
-鋼琴聲已在播放。極致美感的近景至中景鏡頭。她站在陽光照耀的石階上，彷彿花園本身正在呼吸。溫暖的背光將她的頭髮點亮成金色的光環。一片花瓣懸浮在鏡頭前，隨後以真實的 3D 效果飄過。
-5–12 秒
-她邁出緩慢而高貴的一步。刺繡裙擺沿著階梯傾瀉而下。成千上萬片淡粉色與奶油色的花瓣從拱門升起，在層次分明的立體空間中旋轉——有些輕觸鏡頭，有些落在她的肩後。細微的花粉與鑽石粉塵捕捉著每一道光線。薄紗袖子彷彿失去重量般輕盈揚起。
-12–20 秒
-攝影機以絲滑、夢幻般的方式環繞她運行。石柱、玫瑰、噴泉水霧與漂浮花瓣產生視差效果。光線穿過石拱門形成耀斑。幾片花瓣落在她的鎖骨與水晶胸衣上，隨後再次飄起。她將臉轉向太陽，露出安靜、自然的微笑。禮服閃爍著如濕潤絲綢與碎珍珠般的光澤。
-20–30 秒
-她靜止不動。花園彷彿吐露氣息。花瓣緩慢地在她周圍形成漂浮的星群。金色花粉懸浮在空中。鋼琴聲在最後一幀落下長而溫柔的終止音。定格畫面：充滿女性魅力、浪漫且近乎神聖。畫面在溫暖的花卉散景與飄動的光影中淡出。
-視覺風格
-空靈奢華的婚禮電影感。裝飾性、優雅、女性化的美感。浪漫而不落俗套。真實的皮膚毛孔與布料紋理，並以魔法點綴：漂浮的花瓣、花粉、光塵以及螢幕上輕柔的 3D 運動。
-攝影與工藝
-垂直 9:16 比例。連續鏡頭，盡可能不進行剪輯。緩慢推進 + 環繞。淺景深，焦點銳利地對準臉部與禮服。立體傑作，3D 質感，銳利升頻，超細膩細節。
-禁止事項
-更改她的臉部或髮型。增加人物。增加對話。延遲音樂。加快動作。過度修飾皮膚。
-讓它感覺像是一幅從第一幀開始就充滿生命力的動態畫作。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="立體優雅禮服敘事">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10531)**
-
-**作者:** [Pam Westmore](https://x.com/PamWestmor85243) | **來源:** [Link](https://x.com/PamWestmor85243/status/2096924134231953625) | **發布時間:** Sep 7, 2026
-
----
-### 角色晚餐烹飪場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個影片生成提示詞，描述了 Alice 和 Dani 在廚房準備晚餐的場景，並運用了角色參考。
-
-#### 📝 提示詞
-
-```
-Alice @Reference3 和 Dani @Reference2 正在流理台上切菜，並開始準備晚餐，如同 Elara 一般
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096824592191156224/img/NjV-g4oS7Kv66QV2.jpg" width="600" alt="角色晚餐烹飪場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10491)**
-
-**作者:** [Brandon Russo](https://x.com/Brandon40163292) | **來源:** [Link](https://x.com/Brandon40163292/status/2096825084254298173) | **發布時間:** Sep 7, 2026
-
----
-### 電影級冰封塔樓人物
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 詳細的多層次電影級提示詞，描述了一位太空人造型的人物坐在冰封廣播塔上，俯瞰冬季城市景觀的高空鏡頭。
-
-#### 📝 提示詞
-
-```
-電影級廣角鏡頭，一位身穿米色飛行服、戴著深色面罩頭盔的人物，坐在高聳於雪白城市之上的鏽跡斑斑冰封廣播塔邊緣，身體靜止且挺直，戴著手套的雙手擱在橫樑上，巨大的冰柱懸掛在金屬網格上，冰封的河流蜿蜒穿過下方遙遠的白色屋頂，清澈的藍色冬日天空，冷冽的陽光灑在鋼鐵與冰霜上，照片級真實氛圍，極高海拔的尺度感，超細緻的布料、金屬與冰層紋理，Grok Imagine。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471558961471488/img/jMxNQMBfaKgIgM3k.jpg" width="600" alt="電影級冰封塔樓人物">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10479)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **發布時間:** Sep 7, 2026
-
----
-### Porsche 內裝變換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個影片變換提示詞，將汽車內裝替換為 Porsche 911 Turbo，同時保持吉娃娃主角的一致性。
-
-#### 📝 提示詞
-
-```
-將整個 Nissan Sentra 汽車內裝與背景替換為奢華的現代紅色 Porsche 911 Turbo 內裝。保持與第一張圖片中完全相同的白色吉娃娃作為主角：維持相同的姿勢，站在副駕駛座的後腿上
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096776251444961280/img/SAsIOjxuqCLcDZU2.jpg" width="600" alt="Porsche 內裝變換">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10538)**
-
-**作者:** [Eliot Sherr](https://x.com/Esherr9401) | **來源:** [Link](https://x.com/Esherr9401/status/2096776264967233577) | **發布時間:** Sep 7, 2026
-
----
-### 籃球灌籃動作
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段角色運球並做出麥可·喬丹式灌籃的影片。
-
-#### 📝 提示詞
-
-```
-讓她運球至籃框前，並做出麥可·喬丹式的灌籃動作
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096773020664676354/img/NPyEHr-UVx-AvAGz.jpg" width="600" alt="籃球灌籃動作">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10488)**
-
-**作者:** [Vdewey](https://x.com/Vdeweydo) | **來源:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **發布時間:** Sep 7, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2222,6 +2207,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-18T04:24:26.951Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-18T13:05:56.373Z</sub>
 
 </div>

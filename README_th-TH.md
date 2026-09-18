@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2835** |
+| 📝 Total Prompts | **2845** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-18** |
 
@@ -189,6 +189,141 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ฉากระเบิดโค้กกับเมนทอส
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบหลายขั้นตอนที่ละเอียด อธิบายฉากตลกขบขันอิงหลักฟิสิกส์ involving รถถังโค้ก รถบรรทุกเมนทอส และชายมีหนวดที่ทำให้เกิดการระเบิด
+
+#### 📝 Prompt
+
+```
+มุมมองจากหน้าปัดรถแบบสมจริง ทางหลวงเปียกแฉะ รถถัง Coca-Cola สีแดงกำลังปล่อยของเหลวไหลออกมาข้างๆ รถบรรทุก Mentos สีน้ำเงิน ชายร่างใหญ่มีหนวดเครา สวมเสื้อกล้ามสีส้มและกางเกงขาสั้น ตักของเหลวที่หกใส่เหยือก ดื่มอย่างเลอะเทอะ แล้วเทกล่อง Mentos ลงในแอ่งน้ำจนทำให้เกิดการปะทุขนาดยักษ์ที่ส่งตัวเขาพุ่งขึ้นสู่ท้องฟ้า แนวตลกขบขัน รายละเอียดทางฟิสิกส์ชัดเจน ความยาว 30 วินาที แนวตั้ง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842567470292992/img/FuRk8KIp-5GviHnn.jpg" width="600" alt="ฉากระเบิดโค้กกับเมนทอส">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11002)**
+
+**Author:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **Source:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **Published:** Sep 18, 2026
+
+---
+### ซินเดอเรลลาในเซ็นทรัลพาร์ก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอโปรเจกต์ที่นำซินเดอเรลลามาอยู่ในฉากของ Central Park ในยุคปัจจุบัน ขณะเธอก้าวลงจากรถม้า
+
+#### 📝 Prompt
+
+```
+ซินเดอเรลลาสวมชุดราตรีสีชมพู เธอค่อยๆ ก้าวลงจากรถม้าสีขาวที่มีม้าลาก และเธออยู่ใน Central Park, New York USA ในบรรยากาศของอเมริกาในยุคปัจจุบัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100809364600672256/img/CPMTO-65Uono7is7.jpg" width="600" alt="ซินเดอเรลลาในเซ็นทรัลพาร์ก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11001)**
+
+**Author:** [K. Massari](https://x.com/porcupine_touch) | **Source:** [Link](https://x.com/porcupine_touch/status/2100809392870359537) | **Published:** Sep 18, 2026
+
+---
+### วิดีโอจำลองการตกปลา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอที่อธิบายฉากจำลองการเหวี่ยงเบ็ดตกปลา การเกี่ยวเหยื่อเมื่อปลากิน และการเก็บสาย
+
+#### 📝 Prompt
+
+```
+จำลองการเหวี่ยงเบ็ดตกปลา เกี่ยวเหยื่อเมื่อปลากิน และเก็บสายเพื่อจับปลาปลอม...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100765658464083968/img/bopZrXUorKDqtzU0.jpg" width="600" alt="วิดีโอจำลองการตกปลา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11003)**
+
+**Author:** [Yourenext1187🏴‍☠️](https://x.com/Spergburger) | **Source:** [Link](https://x.com/Spergburger/status/2100765685383098471) | **Published:** Sep 18, 2026
+
+---
+### มังกร Lego ยืนเฝ้า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างมังกรดุร้ายที่ประกอบขึ้นจากบล็อก Lego ที่เชื่อมต่อกันอย่างสมบูรณ์ ยืนเฝ้าหน้าปราสาท Lego ภายใต้แสงจันทร์
+
+#### 📝 Prompt
+
+```
+มังกรดุร้ายที่ประกอบขึ้นจากบล็อก Lego ที่เชื่อมต่อกันอย่างสมบูรณ์ในโทนสีเข้มและสดใส เช่น แดงก่ำ ดำมิดไนท์ ม่วงราชวงศ์ และน้ำเงินไฟฟ้า มังกรยืนเฝ้าหน้าปราสาท Lego สูงตระหง่านที่มีป้อมปราการและหอคอย ปีกกางออกเพื่อปกป้อง ฉากกลางคืนภายใต้แสงจันทร์สว่างไสว การจัดแสงแบบละคร พื้นผิวพลาสติกเงางามสะท้อนแสง บรรยากาศแฟนตาซีแบบภาพยนตร์ รายละเอียดสูง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739489576407040/img/6WYwjdDKFch9BQgG.jpg" width="600" alt="มังกร Lego ยืนเฝ้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11005)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2100739588712956331) | **Published:** Sep 18, 2026
+
+---
+### Parody Kid Rock กับ Bud Light
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรมต์แนวตลกที่จำลองฉากโฆษณา Bud Light ของ Kid Rock แต่เปลี่ยนมาใช้ชีส Tillamook แทน
+
+#### 📝 Prompt
+
+```
+Bud Light กับ Kid Rock ในฉากยิงกระป๋อง แต่เปลี่ยนเป็นใช้ชีส Tillamook
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739335007993856/img/rNPqWIPCJDNmwYeT.jpg" width="600" alt="Parody Kid Rock กับ Bud Light">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10999)**
+
+**Author:** [Anita Evans](https://x.com/AnitaEvans2911) | **Source:** [Link](https://x.com/AnitaEvans2911/status/2100739348874350832) | **Published:** Sep 18, 2026
+
+---
+### นักขี่ม้าในฉากภาพยนตร์หน้ามัสยิด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอที่อธิบายการเคลื่อนกล้องแบบช้าๆ ในสไตล์ภาพยนตร์ ขณะที่ม้าและผู้ขี่มุ่งหน้าไปยังมัสยิดท่ามกลางทรายสีทองและดวงดาวระยิบระยับ
+
+#### 📝 Prompt
+
+```
+ม้าและผู้ขี่เดินอย่างช้าๆ เข้าหามัสยิด ผ้าคลุมและแผงคอของม้าพลิ้วไหวเบาๆ ตามสายลม ทรายสีทองปลิวกระจายอย่างนุ่มนวล เมฆเคลื่อนตัวช้าๆ ดวงดาวระยิบระยับ และแสงรัศมีส่องสว่าง กล้องเคลื่อนเข้าหาแบบช้าๆ ในสไตล์ภาพยนตร์ รักษารูปทรงของมัสยิดและองค์ประกอบภาพให้คงเดิม
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100702402546372608/img/GqhyoZOndtvUtg05.jpg" width="600" alt="นักขี่ม้าในฉากภาพยนตร์หน้ามัสยิด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11000)**
+
+**Author:** [Dame](https://x.com/Damesall313) | **Source:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **Published:** Sep 17, 2026
+
+---
+### พรอมต์ Grok Imagine: ภาพถ่ายสัตว์ป่าเสือไซบีเรีย
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างภาพถ่ายสัตว์ป่าแบบสมจริงของเสือไซบีเรียในสภาพแวดล้อมทางธรรมชาติ โดยใช้ความลึกของสนามภาพตื้นและแสงเย็นเพื่อให้ได้สไตล์สารคดีที่ไม่จัดฉาก
+
+#### 📝 Prompt
+
+```
+สไตล์ศิลปะ: ภาพถ่ายสัตว์ป่าแบบสมจริง, ความลึกของสนามภาพตื้น, แสงเย็นตามธรรมชาติ, เม็ดฟิล์มละเอียด, ตรงไปตรงมาและไม่จัดฉาก, ไม่มีการทำให้ดูหรูหรา
+
+เนื้อหา: เสือไซบีเรียกำลังเดิน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100468661995921408/img/yrSMe_OEtDZDdjw0.jpg" width="600" alt="พรอมต์ Grok Imagine: ภาพถ่ายสัตว์ป่าเสือไซบีเรีย">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11004)**
+
+**Author:** [David Liang](https://x.com/DavidLi36143625) | **Source:** [Link](https://x.com/DavidLi36143625/status/2100469282497032283) | **Published:** Sep 17, 2026
+
+---
 ### หญิงสาวโยนโลกเข้าดวงอาทิตย์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -900,6 +1035,26 @@ Lady StarWeaver และลูกเสือดำ 2 ตัวอาศัย�
 **Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
 
 ---
+### วิดีโอโอเอซิสบนดาวอังคารและหุ่นยนต์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอที่แสดงภาพโอเอซิสบนดาวอังคาร พร้อมแสงไฟในโดมและหุ่นยนต์ที่กำลังสร้างสิ่งมีชีวิต
+
+#### 📝 Prompt
+
+```
+ขอให้ทุกคนมีค่ำคืนวันศุกร์ที่สุขสันต์
+คืนนี้ขอแบ่งปันเพียงช่วงเวลาสั้นๆ - ภาพโอเอซิสบนดาวอังคาร แสงไฟภายในโดม และหุ่นยนต์ที่กำลังสร้างสรรค์สิ่งมีชีวิต
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098477462200147968/img/Njx6sAHlUy-55dbB.jpg" width="600" alt="วิดีโอโอเอซิสบนดาวอังคารและหุ่นยนต์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11008)**
+
+**Author:** [Ninoki](https://x.com/Ninoki111) | **Source:** [Link](https://x.com/Ninoki111/status/2098477739753803836) | **Published:** Sep 11, 2026
+
+---
 ### วิดีโอรำลึกประวัติศาสตร์โบสถ์โปแลนด์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -917,6 +1072,27 @@ Lady StarWeaver และลูกเสือดำ 2 ตัวอาศัย�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
 
 **Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
+
+---
+### ความฝันที่จะบินของ เลโอนาร์โด ดา วินชี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอส่วนที่ 1 อธิบายถึงความฝันของมนุษยชาติในการบินและ เลโอนาร์โด ดา วินชี สร้างขึ้นด้วย Grok Imagine
+
+#### 📝 Prompt
+
+```
+ส่วนที่ 1: ความฝันที่จะบิน | 0–15 วินาที
+
+จากการเฝ้าดูนกโผบินไปจนถึงการจินตนาการถึงเครื่องจักรบินได้ ความฝันของมนุษยชาติที่จะบินเริ่มต้นจากวิสัยทัศน์ เลโอนาร์โด ดา วินชี ช่วยเปลี่ยนความฝันนั้นให้เป็นแนวคิด
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098370904942313473/img/rfo920ZzO_nbDXd9.jpg" width="600" alt="ความฝันที่จะบินของ เลโอนาร์โด ดา วินชี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11006)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098396641602740528) | **Published:** Sep 11, 2026
 
 ---
 ### ลำดับภาพการกินบะหมี่ที่สมจริง
@@ -948,6 +1124,27 @@ Lady StarWeaver และลูกเสือดำ 2 ตัวอาศัย�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
 
 **Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
+
+---
+### วิดีโอ นิวยอร์กซิตี้ เมืองที่ไม่เคยหลับใหล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอส่วนที่บรรยายภาพมหานครนิวยอร์กในยามราตรีพร้อมเส้นขอบฟ้าที่ส่องประกายระยิบระยับ
+
+#### 📝 Prompt
+
+```
+ตอนที่ 4 (45–60 วินาที): เมืองที่ไม่เคยหลับใหล
+
+มหานครนิวยอร์กในยามราตรี—ที่ซึ่งเส้นขอบฟ้าส่องสว่างเจิดจ้ายิ่งกว่าดวงดาว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098360939825532928/img/kt9lSCEFM_180S6i.jpg" width="600" alt="วิดีโอ นิวยอร์กซิตี้ เมืองที่ไม่เคยหลับใหล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11007)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098361333574181177) | **Published:** Sep 11, 2026
 
 ---
 ### อัศวินไซไฟในสไตล์ Klimt
@@ -1949,218 +2146,6 @@ Antichrist ผู้ที่ไม่ได้รับเลือกในต
 **Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **Published:** Sep 7, 2026
 
 ---
-### การซูมช่อดอกไม้หมุน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์การเคลื่อนไหวสำหรับวิดีโอที่สร้างการซูมที่นุ่มนวลและการหมุนในแนวตั้งบนกลุ่มดอกไม้ที่มีกลีบซ้อน
-
-#### 📝 Prompt
-
-```
-คงภาพช่อดอกไม้แบบสื่อผสมเดิมไว้ ซูมเข้าไปใกล้ๆ กลุ่มดอกไม้สีขาวและสีเทาที่มีกลีบซ้อนหนาแน่นที่ด้านบนอย่างช้าๆ ในขณะที่ช่อดอกไม้ทั้งหมดหมุนรอบแกนแนวตั้งอย่างนุ่มนวล การเคลื่อนไหวที่ต่อเนื่องและราบรื่น ในสไตล์ภาพวาด
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097045100371279872/img/_CVJO0RbC8voKFu0.jpg" width="600" alt="การซูมช่อดอกไม้หมุน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10539)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2097045135708074171) | **Published:** Sep 7, 2026
-
----
-### วิดีโอทัศนียภาพเมืองสีเขียวสุดล้ำ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> เปลี่ยนภาพทัศนียภาพเมืองแห่งอนาคตด้วยการเพิ่มพื้นที่สีเขียวที่อุดมสมบูรณ์ เช่น ต้นไม้และหญ้า เพื่อสร้างสุนทรียภาพเชิงนิเวศที่ล้ำสมัย
-
-#### 📝 Prompt
-
-```
-ฉันต้องการเปลี่ยนภาพทัศนียภาพเมืองแห่งอนาคตทั่วไปให้มีพื้นที่สีเขียวเพิ่มเข้ามา ทำให้ดูมีความล้ำสมัยด้วยต้นไม้และหญ้าจำนวนมาก
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097030058531581952/img/lpcCKU1Ety68woVy.jpg" width="600" alt="วิดีโอทัศนียภาพเมืองสีเขียวสุดล้ำ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10532)**
-
-**Author:** [GeoDev](https://x.com/GeoDev1962) | **Source:** [Link](https://x.com/GeoDev1962/status/2097030074939670594) | **Published:** Sep 7, 2026
-
----
-### วิดีโอจำลองการเดินในค่ายอวกาศบนดาวอังคาร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวไซไฟแบบต่อเนื่องที่ซับซ้อน ติดตามภาพหญิงสาวที่กำลังเดินผ่านค่ายอวกาศนอกโลก
-
-#### 📝 Prompt
-
-```
-ปรับเปลี่ยนฉากให้หญิงสาวเดินไปข้างหน้าภายในค่ายอวกาศของเธอบนดาวอังคาร โดยให้เห็นตัวเต็มทั้งร่าง เธอสวมชุดนักบินอวกาศสมัยใหม่สีน้ำเงินเข้มที่ดูโฉบเฉี่ยวแบบเดิม พร้อมรายละเอียดสีน้ำเงินเมทัลลิกและสีเงิน ซึ่งเข้ากันได้อย่างลงตัวกับแสงสีน้ำเงินที่เปล่งประกาย...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096994780165124096/img/9lZYbxJqQG2g-YSn.jpg" width="600" alt="วิดีโอจำลองการเดินในค่ายอวกาศบนดาวอังคาร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10530)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2096994806459256874) | **Published:** Sep 7, 2026
-
----
-### ภาพยนตร์แฟชั่นชั้นสูงแนว Editorial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างภาพยนตร์แฟชั่นชั้นสูงความยาว 15 วินาที โดยคงรูปลักษณ์ของตัวละครเฉพาะไว้ในฉากสตูดิโอแบบมินิมอล
-
-#### 📝 Prompt
-
-```
-สร้างภาพยนตร์แฟชั่นชั้นสูงแนว Editorial ความยาว 15 วินาที โดยมีตัวละครผู้ใหญ่เป็นนักแสดงหลัก รักษาลักษณะท่าทาง ชุด เครื่องประดับ และสไตล์ภาพให้เหมือนต้นฉบับทุกประการ เรนเดอร์ภาพยนตร์ทั้งเรื่องตามสุนทรียศาสตร์ของภาพอ้างอิง
-
-ใช้ฉากสตูดิโอแบบมินิมอลที่มีพื้นสะท้อนแสง,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096966883404812289/img/mZrPulPlds6nc1z8.jpg" width="600" alt="ภาพยนตร์แฟชั่นชั้นสูงแนว Editorial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10533)**
-
-**Author:** [Eileen_Xie](https://x.com/eileen_XL) | **Source:** [Link](https://x.com/eileen_XL/status/2096966914136560022) | **Published:** Sep 7, 2026
-
----
-### ปรับแต่งภาพสไตล์ Sunday Morning Aesthetic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ปรับแต่งภาพถ่ายให้เป็นสไตล์เช้าวันอาทิตย์ที่อบอุ่นและดูฟุ้งฝัน ด้วยแสงสีทองและโทนสีแบบวินเทจ
-
-#### 📝 Prompt
-
-```
-ปรับแต่งภาพถ่ายนี้ให้เป็นสไตล์ Sunday Morning ที่ดูชวนฝัน ด้วยแสงแดดสีทองอ่อนๆ ยามสายที่สาดส่องเข้ามาอย่างนุ่มนวล พร้อมบรรยากาศความฟุ้งละมุนและแสงเรืองรองที่กระจายตัวอย่างนุ่มนวล เสริมด้วยการปรับโทนสีแบบวินเทจที่เน้นสีเหลืองอ่อนและสีเขียวละมุน...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096955733229395968/img/5H31ebTBYn9VxiUj.jpg" width="600" alt="ปรับแต่งภาพสไตล์ Sunday Morning Aesthetic">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10535)**
-
-**Author:** [stan gralla](https://x.com/GrallaStan) | **Source:** [Link](https://x.com/GrallaStan/status/2096955746608927063) | **Published:** Sep 7, 2026
-
----
-### เรื่องราวชุดราตรีสุดหรูในรูปแบบสามมิติ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับกล้องสามมิติแบบต่อเนื่องความยาว 30 วินาที ที่ระบุเวลาชัดเจน สำหรับถ่ายทำหญิงสาวในชุดราตรีกุหลาบสีงาช้างอันสง่างาม
-
-#### 📝 Prompt
-
-```
-พรอมต์วิดีโอ 30 วินาทีที่ปรับแต่งมาเพื่อ SEO — ดนตรีเริ่มตั้งแต่เฟรมที่ 1
-ผลงานภาพยนตร์สามมิติความยาว 30 วินาทีที่น่าทึ่ง คมชัดระดับอัลตร้า พื้นผิวละเอียดสมจริง ผิวพรรณและเนื้อผ้าดูเป็นธรรมชาติ แสงสีทองแบบวอลลูเมตริก และมิติที่ดูมีชีวิตชีวา
-ใช้หญิงสาวที่อัปโหลดเป็นตัวละครหลัก: ใบหน้า ผมสีบลอนด์หยิกที่ต้องแสงแดด ชุดราตรีกุหลาบสีชมพูอ่อนและสีงาช้างที่มีรอยผ่าสูง รองเท้าคริสตัล และฉากสวน ห้ามเปลี่ยนตัวตนของเธอ
-เสียง (บังคับ)
-เปียโนเดี่ยวเริ่มบรรเลงตั้งแต่เฟรมแรกและต่อเนื่องไปจนถึงเฟรมสุดท้ายโดยไม่หยุดพัก เสียงเปียโนที่ให้ความรู้สึกใกล้ชิด โรแมนติก และล่องลอยเท่านั้น ไม่มีเสียงร้อง ไม่มีเนื้อเพลง และไม่มีการหน่วงเวลาเริ่มต้น
-เนื้อเรื่องตามเวลา
-0–5 วินาที
-เปียโนบรรเลงอยู่แล้ว ภาพโคลสอัพถึงภาพระยะกลางที่สวยงามสะกดตา เธอยืนอยู่บนบันไดหินที่อาบแสงแดดราวกับสวนกำลังหายใจ แสงย้อนสีอุ่นทำให้ผมของเธอเปล่งประกายดั่งรัศมีสีทอง กลีบดอกไม้กลีบหนึ่งลอยอยู่หน้าเลนส์ก่อนจะเคลื่อนผ่านไปในรูปแบบสามมิติที่สมจริง
-5–12 วินาที
-เธอก้าวเดินไปข้างหน้าอย่างช้าๆ และสง่างามเพียงก้าวเดียว ชายกระโปรงที่ปักลวดลายทิ้งตัวลงตามขั้นบันได กลีบดอกไม้สีชมพูอ่อนและสีครีมนับพันลอยขึ้นจากซุ้มประตูและหมุนวนรอบตัวเธอในพื้นที่สามมิติที่ซ้อนทับกัน บางกลีบเฉียดผ่านกล้อง บางกลีบตกลงด้านหลังไหล่ของเธอ ละอองเกสรและฝุ่นเพชรสะท้อนแสงทุกทิศทาง แขนเสื้อผ้าโปร่งบางพริ้วไหวราวกับไร้น้ำหนัก
-12–20 วินาที
-กล้องเคลื่อนที่รอบตัวเธออย่างนุ่มนวลราวกับความฝัน เกิดภาพพารัลแลกซ์บนเสา ดอกกุหลาบ ละอองน้ำจากน้ำพุ และกลีบดอกไม้ที่ลอยละล่อง แสงแฟลร์ส่องผ่านซุ้มประตูหิน กลีบดอกไม้สองสามกลีบตกลงบนกระดูกไหปลาร้าและตัวเสื้อคริสตัลก่อนจะลอยขึ้นอีกครั้ง เธอหันหน้าเข้าหาแสงแดด เผยรอยยิ้มที่เงียบสงบและเป็นธรรมชาติ ชุดราตรีเปล่งประกายราวกับผ้าไหมเปียกและไข่มุกบด
-20–30 วินาที
-เธอยืนนิ่ง สวนทั้งสวนดูเหมือนกำลังผ่อนลมหายใจ กลีบดอกไม้ชะลอตัวลงกลายเป็นกลุ่มดาวที่ลอยอยู่รอบตัวเธอ ละอองเกสรสีทองลอยค้างอยู่ในอากาศ เสียงเปียโนจบลงด้วยโน้ตตัวสุดท้ายที่อ่อนโยนและยาวนานจนถึงเฟรมสุดท้าย คงภาพนิ่งที่ดูเป็นผู้หญิง โรแมนติก และเกือบจะศักดิ์สิทธิ์ จางหายไปผ่านโบเก้ดอกไม้สีอุ่นและแสงที่ลอยละล่อง
-ภาพลักษณ์
-ความหรูหราแบบอีเธเรียลในสไตล์ภาพยนตร์แต่งงาน ความสวยงามที่ประณีต สง่างาม และเป็นผู้หญิง ความโรแมนติกที่ไม่ดูเชย รูขุมขนบนผิวและลายผ้าที่สมจริง เสริมด้วยเวทมนตร์: กลีบดอกไม้ที่ลอยละล่อง ละอองเกสร ฝุ่นแสง และการเคลื่อนไหวแบบสามมิติที่นุ่มนวลทั่วทั้งหน้าจอ
-กล้องและเทคนิค
-แนวตั้ง 9:16 ถ่ายต่อเนื่องโดยไม่ตัดต่อหากเป็นไปได้ กล้องเคลื่อนที่เข้าช้าๆ และหมุนรอบตัว ระยะชัดลึกตื้น โฟกัสคมชัดที่ใบหน้าและชุด ผลงานสามมิติที่สมบูรณ์แบบ พื้นผิวสามมิติ ความละเอียดสูง และรายละเอียดที่ละเอียดอ่อน
-ข้อห้าม
-ห้ามเปลี่ยนใบหน้าหรือทรงผมของเธอ ห้ามเพิ่มบุคคลอื่น ห้ามเพิ่มบทพูด ห้ามหน่วงเวลาดนตรี ห้ามเร่งการเคลื่อนไหว ห้ามรีทัชผิวมากเกินไป
-ทำให้รู้สึกเหมือนภาพวาดที่มีชีวิตที่หายใจได้ตั้งแต่เฟรมแรก
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="เรื่องราวชุดราตรีสุดหรูในรูปแบบสามมิติ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10531)**
-
-**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2096924134231953625) | **Published:** Sep 7, 2026
-
----
-### ฉากทำอาหารเย็นที่มีตัวละคร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างวิดีโอที่อธิบายถึงตัวละครสองตัวคือ Alice และ Dani กำลังเตรียมอาหารเย็นในห้องครัว โดยมีการใช้การอ้างอิงตัวละคร (character references) ประกอบ
-
-#### 📝 Prompt
-
-```
-Alice @Reference3 และ Dani @Reference2 กำลังหั่นผักบนเคาน์เตอร์และเริ่มทำอาหารเย็นในฐานะ Elara
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096824592191156224/img/NjV-g4oS7Kv66QV2.jpg" width="600" alt="ฉากทำอาหารเย็นที่มีตัวละคร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10491)**
-
-**Author:** [Brandon Russo](https://x.com/Brandon40163292) | **Source:** [Link](https://x.com/Brandon40163292/status/2096825084254298173) | **Published:** Sep 7, 2026
-
----
-### ฟิกเกอร์หอคอยน้ำแข็งในสไตล์ภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แบบภาพยนตร์หลายเลเยอร์ที่อธิบายถึงภาพมุมสูงของร่างคล้ายนักบินอวกาศที่นั่งอยู่บนหอส่งสัญญาณวิทยุที่กลายเป็นน้ำแข็งเหนือทิวทัศน์เมืองในฤดูหนาว
-
-#### 📝 Prompt
-
-```
-ภาพมุมกว้างสไตล์ภาพยนตร์ของร่างในชุดนักบินสีครีมและหมวกนิรภัยแบบมีกระบังหน้าสีเข้ม นั่งอยู่บนขอบหอส่งสัญญาณวิทยุที่เป็นสนิมและปกคลุมด้วยน้ำแข็งสูงเหนือเมืองที่เต็มไปด้วยหิมะ ร่างกายอยู่นิ่งและตั้งตรง มือที่สวมถุงมือวางอยู่บนคานเหล็ก มีน้ำแข็งย้อยขนาดใหญ่ห้อยลงมาจากโครงเหล็ก แม่น้ำที่กลายเป็นน้ำแข็งคดเคี้ยวผ่านหลังคาสีขาวเบื้องล่าง ท้องฟ้าฤดูหนาวสีฟ้าใส แสงแดดเย็นกระทบเหล็กและน้ำค้างแข็ง บรรยากาศสมจริงเหมือนภาพถ่าย ให้ความรู้สึกถึงความสูงที่น่าทึ่ง รายละเอียดของเนื้อผ้า โลหะ และพื้นผิวน้ำแข็งที่คมชัดเป็นพิเศษ Grok Imagine
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471558961471488/img/jMxNQMBfaKgIgM3k.jpg" width="600" alt="ฟิกเกอร์หอคอยน้ำแข็งในสไตล์ภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10479)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **Published:** Sep 7, 2026
-
----
-### การเปลี่ยนโฉมภายในรถ Porsche
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับการเปลี่ยนวิดีโอเพื่อเปลี่ยนภายในรถให้เป็น Porsche 911 Turbo โดยยังคงรักษาตัวละครสุนัขชิวาวาให้เหมือนเดิม
-
-#### 📝 Prompt
-
-```
-เปลี่ยนภายในรถและพื้นหลังทั้งหมดของ Nissan Sentra ให้เป็นภายในรถ Porsche 911 Turbo สีแดงสุดหรูที่ดูทันสมัย โดยยังคงรักษาตัวสุนัขชิวาวาสีขาวตัวเดิมจากภาพแรกไว้เป็นตัวละครหลัก: ในท่าทางเดิมที่ยืนด้วยขาหลังบนเบาะที่นั่งผู้โดยสาร
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096776251444961280/img/SAsIOjxuqCLcDZU2.jpg" width="600" alt="การเปลี่ยนโฉมภายในรถ Porsche">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10538)**
-
-**Author:** [Eliot Sherr](https://x.com/Esherr9401) | **Source:** [Link](https://x.com/Esherr9401/status/2096776264967233577) | **Published:** Sep 7, 2026
-
----
-### ท่าดังก์บาสเกตบอล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สร้างวิดีโอตัวละครกำลังเลี้ยงลูกบาสเกตบอลและกระโดดดังก์ในสไตล์ Michael Jordan
-
-#### 📝 Prompt
-
-```
-ให้เธอเลี้ยงลูกบาสเกตบอลไปที่ห่วงแล้วกระโดดดังก์แบบ Michael Jordan ลงห่วง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096773020664676354/img/NPyEHr-UVx-AvAGz.jpg" width="600" alt="ท่าดังก์บาสเกตบอล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10488)**
-
-**Author:** [Vdewey](https://x.com/Vdeweydo) | **Source:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2222,6 +2207,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-18T04:24:30.968Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-18T13:06:03.815Z</sub>
 
 </div>

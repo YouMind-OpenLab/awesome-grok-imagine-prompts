@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2835** |
+| 📝 Total Prompts | **2845** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-18** |
 
@@ -189,6 +189,141 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Kola Mentos Patlama Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir Cola tankeri, Mentos kamyonu ve patlamaya neden olan sakallı bir adamın yer aldığı, mizahi ve fizik kurallarına dayalı çok adımlı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Gerçekçi gösterge paneli bakış açısı, ıslak otoyol, yanındaki mavi Mentos kamyonunun yanında sıvı fışkıran kırmızı Coca-Cola tankeri. Turuncu atlet ve şort giyen iri yarı sakallı adam, dökülen sıvıdan şişesini doldurur, dağınık şekilde içer, ardından devasa bir patlamanın tetiklenmesi için su birikintisine Mentos kutularını döker; bu durum onu havaya fırlatır. Mizahi, detaylı fizik simülasyonu, 30 saniye dikey format.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842567470292992/img/FuRk8KIp-5GviHnn.jpg" width="600" alt="Kola Mentos Patlama Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11002)**
+
+**Author:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **Source:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **Published:** Sep 18, 2026
+
+---
+### Central Park'ta Külkedisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Külkedisi'nin modern bir Central Park sahnesinde, arabasından inerken gösterildiği bir video istemi.
+
+#### 📝 Prompt
+
+```
+Külkedisi pembe bir elbise giyiyor. Beyaz atlı arabasından iniyor ve kendisini Amerika Birleşik Devletleri'nin New York şehrindeki Central Park'ta, günümüzde buluyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100809364600672256/img/CPMTO-65Uono7is7.jpg" width="600" alt="Central Park'ta Külkedisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11001)**
+
+**Author:** [K. Massari](https://x.com/porcupine_touch) | **Source:** [Link](https://x.com/porcupine_touch/status/2100809392870359537) | **Published:** Sep 18, 2026
+
+---
+### Sahte Olta Atışı Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Olta atar gibi sahte bir hareket, sahte balık ısırığında kanca takma ve misinayı sarma anlarını betimleyen video istemi.
+
+#### 📝 Prompt
+
+```
+Olta atar gibi sahte hareket, sahte balık ısırığında kanca takma, sahte yakalanan balığı sarıp çekme...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100765658464083968/img/bopZrXUorKDqtzU0.jpg" width="600" alt="Sahte Olta Atışı Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11003)**
+
+**Author:** [Yourenext1187🏴‍☠️](https://x.com/Spergburger) | **Source:** [Link](https://x.com/Spergburger/status/2100765685383098471) | **Published:** Sep 18, 2026
+
+---
+### Nöbetçi Lego Ejderha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ay ışığında, tamamen iç içe geçen Lego tuğlalarından yapılmış ve bir Lego şatosunun önünde nöbet tutan azgın bir ejderha oluşturmak için bir istem.
+
+#### 📝 Prompt
+
+```
+Koyu ve cesur renklerden—derin kırmızı, gece yarısı siyahı, kraliyet moru ve elektrik mavisi—tamamen iç içe geçen Lego tuğlalarından yapılmış azgın bir ejderha. Ejderha, surları ve kuleleri olan heybetli bir Lego şatosunun önünde, kanatlarını koruyucu bir şekilde açarak nöbet tutuyor. Parlak ay ışığı altında gece sahnesi, dramatik aydınlatma, parlamayı yansıtan parlak plastik yüzeyler, sinematik fantastik atmosfer, son derece detaylı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739489576407040/img/6WYwjdDKFch9BQgG.jpg" width="600" alt="Nöbetçi Lego Ejderha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11005)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2100739588712956331) | **Published:** Sep 18, 2026
+
+---
+### Bud Light Kid Rock Parodisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kid Rock'ın yer aldığı bir Bud Light reklam anını, Tillamook peyniri ile değiştirerek yeniden canlandıran eğlenceli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kid Rock'ın kutuları fırlattığı o ünlü Bud Light sahnesi, ama Tillamook peyniriyle
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739335007993856/img/rNPqWIPCJDNmwYeT.jpg" width="600" alt="Bud Light Kid Rock Parodisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10999)**
+
+**Author:** [Anita Evans](https://x.com/AnitaEvans2911) | **Source:** [Link](https://x.com/AnitaEvans2911/status/2100739348874350832) | **Published:** Sep 18, 2026
+
+---
+### Cami Önünde Sinematik Atlı Sürücü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Altın kum ve parıldayan yıldızlar eşliğinde bir at ve sürücüsünün camiye doğru ilerlerken yavaşça öne iten sinematik kamera hareketini tanımlayan video üretim istemi.
+
+#### 📝 Prompt
+
+```
+At ve sürücü, camiyi doğru yavaşça yürüyor. Cübbe ve atın yelesi rüzgarda hafifçe dalgalanıyor. Altın renkli kum yumuşakça savruluyor, bulutlar ağır ağır hareket ediyor, yıldızlar parlıyor ve ışık huzmeleri aydınlatıyor. Yavaş sinematik kamera ileri itme hareketi. Caminin yapısını ve kompozisyonu koru.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100702402546372608/img/GqhyoZOndtvUtg05.jpg" width="600" alt="Cami Önünde Sinematik Atlı Sürücü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11000)**
+
+**Author:** [Dame](https://x.com/Damesall313) | **Source:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **Published:** Sep 17, 2026
+
+---
+### Grok Imagine İstemi: Sibirya Kaplanı Vahşi Yaşam Fotoğrafçılığı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Doğal bir ortamda Sibirya kaplanının fotogerçekçi vahşi yaşam fotoğrafını oluşturmak için kullanılan, sığ alan derinliği ve soğuk ışıklandırma ile poz verilmemiş, belgesel estetiği yakalamaya yönelik bir istem.
+
+#### 📝 Prompt
+
+```
+Sanat Tarzı: Fotogerçekçi vahşi yaşam fotoğrafçılığı, sığ alan derinliği, doğal soğuk ışıklandırma, ince film greni, dürüst ve poz verilmemiş, abartısız.
+
+İçerik: Yürüyen bir Sibirya kaplanı
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100468661995921408/img/yrSMe_OEtDZDdjw0.jpg" width="600" alt="Grok Imagine İstemi: Sibirya Kaplanı Vahşi Yaşam Fotoğrafçılığı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11004)**
+
+**Author:** [David Liang](https://x.com/DavidLi36143625) | **Source:** [Link](https://x.com/DavidLi36143625/status/2100469282497032283) | **Published:** Sep 17, 2026
+
+---
 ### Kadının Dünyayı Güneşe Fırlatması
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -900,6 +1035,26 @@ Bir anne karınca, yanında oğluyla birlikte yiyecek dolu arabasını çekiyor.
 **Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
 
 ---
+### Mars'ta Vaha Robotları Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kubbeli ışıklar ve yaşam inşa eden robotlarla Mars'taki bir vahanın tasvir edildiği video.
+
+#### 📝 Prompt
+
+```
+Herkese iyi Cuma akşamları.
+Bu gece kısa bir bakış - Mars'ta bir vaha, kubbeli ışıklar ve yaşam inşa eden robotlar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098477462200147968/img/Njx6sAHlUy-55dbB.jpg" width="600" alt="Mars'ta Vaha Robotları Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11008)**
+
+**Author:** [Ninoki](https://x.com/Ninoki111) | **Source:** [Link](https://x.com/Ninoki111/status/2098477739753803836) | **Published:** Sep 11, 2026
+
+---
 ### Tarihi Polonya Kilisesi Anma Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -917,6 +1072,27 @@ Scranton, Pensilvanya'daki Sacred Hearts of Jesus and Mary Kilisesi'ne, 1925 yı
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
 
 **Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
+
+---
+### Uçma Hayali: Leonardo da Vinci
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İnsanlığın uçuş hayalini ve Leonardo da Vinci'yi anlatan, Grok Imagine ile oluşturulan video bölümü 1.
+
+#### 📝 Prompt
+
+```
+Bölüm 1: Uçma Hayali | 0–15 sn
+
+Kuşların süzülüşünü izlemekten uçan makineler tasarlamaya kadar insanlığın uçuş hayali bir vizyonla başladı. Leonardo da Vinci bu hayali bir fikre dönüştürmeye yardımcı oldu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098370904942313473/img/rfo920ZzO_nbDXd9.jpg" width="600" alt="Uçma Hayali: Leonardo da Vinci">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11006)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098396641602740528) | **Published:** Sep 11, 2026
 
 ---
 ### Gerçekçi Erişte Yeme Sekansı
@@ -948,6 +1124,27 @@ Tüm hareketleri kesintisiz ve fiziksel olarak gerçekçi tutun. Referans görse
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
 
 **Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
+
+---
+### Asla Uyumayan Şehir New York Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karanlık çöktüğünde parlayan silüetiyle New York şehrini anlatan video kesiti.
+
+#### 📝 Prompt
+
+```
+Bölüm 4 (45–60 sn): Asla Uyumayan Şehir
+
+Karanlık çöktüğünde New York—gökyüzünden daha parlak bir silüet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098360939825532928/img/kt9lSCEFM_180S6i.jpg" width="600" alt="Asla Uyumayan Şehir New York Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11007)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098361333574181177) | **Published:** Sep 11, 2026
 
 ---
 ### Klimt Tarzı Bilim Kurgu Şövalyesi
@@ -1949,218 +2146,6 @@ Bu Mars habitatı sahnesini derin bir gece versiyonuna dönüştürün. Tozlu tu
 **Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **Published:** Sep 7, 2026
 
 ---
-### Dönen Çiçek Buketi Yakınlaştırması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karışık çiçek demeti üzerinde yumuşak bir yakınlaştırma ve dikey dönüş yaratan bir video hareket komutu.
-
-#### 📝 Prompt
-
-```
-Aynı karışık teknikli çiçek buketi görselini koruyun. Buketin tamamı dikey ekseni etrafında yavaşça dönerken, üst kısımdaki yoğun beyaz ve gri fırfırlı çiçek kümesine doğru yavaşça yakınlaşın. Pürüzsüz, sürekli hareket, resimsel tarz
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097045100371279872/img/_CVJO0RbC8voKFu0.jpg" width="600" alt="Dönen Çiçek Buketi Yakınlaştırması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10539)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2097045135708074171) | **Published:** Sep 7, 2026
-
----
-### Gelişmiş Yeşil Şehir Manzarası Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fütüristik bir şehir manzarasını, gelişmiş bir eko-estetik için ağaçlar ve çimenler gibi yemyeşil bitki örtüsü ekleyerek dönüştürür.
-
-#### 📝 Prompt
-
-```
-Tipik fütüristik şehir manzarası görselini alıp biraz yeşillik eklemek istiyorum. Bol miktarda ağaç ve çimenle süper gelişmiş görünmesini sağla.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097030058531581952/img/lpcCKU1Ety68woVy.jpg" width="600" alt="Gelişmiş Yeşil Şehir Manzarası Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10532)**
-
-**Author:** [GeoDev](https://x.com/GeoDev1962) | **Source:** [Link](https://x.com/GeoDev1962/status/2097030074939670594) | **Published:** Sep 7, 2026
-
----
-### Mars Uzay Kampı Sinematik Yürüyüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dünya dışı bir uzay kampında yürüyen bir kadını konu alan, karmaşık bir bilim kurgu sinematik video devam ettirme istemi.
-
-#### 📝 Prompt
-
-```
-Sahneyi, kadının Mars'taki uzay kampında ileriye doğru yürüdüğü ve tüm vücudunun göründüğü şekilde dönüştürün. Üzerinde, mavi parlayan vurgularla mükemmel bir uyum sağlayan metalik mavi ve gümüş detaylara sahip, aynı şık koyu mavi modern astronot kıyafeti var...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096994780165124096/img/9lZYbxJqQG2g-YSn.jpg" width="600" alt="Mars Uzay Kampı Sinematik Yürüyüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10530)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2096994806459256874) | **Published:** Sep 7, 2026
-
----
-### Yüksek Moda Editöryel Film
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Minimalist bir stüdyo ortamında belirli bir karakterin görünümünü koruyan 15 saniyelik bir yüksek moda filmi için istem.
-
-#### 📝 Prompt
-
-```
-Yetişkin karakterin başrolde olduğu 15 saniyelik bir yüksek moda editöryel filmi oluşturun. Karakterin görünümünü, kıyafetini, aksesuarlarını ve görsel tarzını tam olarak koruyun. Filmin tamamını referansın estetiğine uygun şekilde işleyin.
-
-Yansıtıcı bir zemine sahip minimalist bir stüdyo kullanın,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096966883404812289/img/mZrPulPlds6nc1z8.jpg" width="600" alt="Yüksek Moda Editöryel Film">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10533)**
-
-**Author:** [Eileen_Xie](https://x.com/eileen_XL) | **Source:** [Link](https://x.com/eileen_XL/status/2096966914136560022) | **Published:** Sep 7, 2026
-
----
-### Pazar Sabahı Estetiği ile Yeniden Düzenleme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir fotoğrafı, altın rengi gün ışığı ve vintage tonlamalarla sıcak, puslu bir Pazar sabahı estetiğine dönüştürür.
-
-#### 📝 Prompt
-
-```
-Bu fotoğrafı rüya gibi bir Pazar Sabahı estetiğine dönüştürün. Sahnenin üzerine nazikçe yayılan yumuşak, puslu, sıcak altın rengi sabah ışığı; hafif atmosferik bir pus ve yumuşak, dağılmış bir ışıltı ile. Hafif sarı tonlar ve yumuşak yeşiller içeren sıcak vintage renk derecelendirmesi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096955733229395968/img/5H31ebTBYn9VxiUj.jpg" width="600" alt="Pazar Sabahı Estetiği ile Yeniden Düzenleme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10535)**
-
-**Author:** [stan gralla](https://x.com/GrallaStan) | **Source:** [Link](https://x.com/GrallaStan/status/2096955746608927063) | **Published:** Sep 7, 2026
-
----
-### Stereoskopik Zarif Elbise Anlatımı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Zarif fildişi rengi gül desenli bir elbise giymiş bir kadının yer aldığı kesintisiz çekim için 30 saniyelik, zamanlamalı, stereoskopik 3D kamera zaman çizelgesi istemi.
-
-#### 📝 Prompt
-
-```
-Optimize edilmiş 30 saniyelik video istemi — 1. kareden itibaren müzik
-Nefes kesici, 30 saniyelik stereoskopik 3D sinematik başyapıt. Ultra keskin, ultra ince dokular, fotogerçekçi cilt ve kumaş, hacimsel altın ışık, yaşayan derinlik.
-Yüklenen kadını tam olarak özne olarak kullanın: yüzü, güneş ışığıyla parlayan kıvırcık sarı saçları, yüksek yırtmaçlı allık pembesi ve fildişi rengi gül desenli elbisesi, kristal topuklu ayakkabıları ve bahçe ortamı. Kimliğini değiştirmeyin.
-Ses (zorunlu)
-Solo piyano ilk karede başlar ve kesintisiz olarak son kareye kadar devam eder. Sadece samimi, romantik, ruhani piyano. Vokal yok. Söz yok. Gecikmeli giriş yok.
-Hikaye, zamanlamalı
-0–5 sn
-Piyano çalmaya başlamış durumda. Olağanüstü güzellikte yakın-orta çekim. Bahçenin kendisi nefes alıyormuş gibi güneşli taş basamaklarda duruyor. Sıcak arka ışık, saçlarını altın bir hale gibi aydınlatıyor. Bir taç yaprağı lensin önünde havada asılı kalıyor, ardından gerçek 3D derinliğiyle süzülerek geçiyor.
-5–12 sn
-Tek, yavaş ve asil bir adım atıyor. İşlemeli kuyruğu merdivenlerden aşağı dökülüyor. Binlerce soluk pembe ve krem rengi taç yaprağı kemerlerden yükseliyor ve katmanlı stereoskopik alanda etrafında dönüyor; bazıları kamerayı sıyırıyor, bazıları omuzlarının arkasına düşüyor. İnce polenler ve elmas tozu her ışık huzmesini yakalıyor. Şeffaf kollar ağırlıksızmış gibi yükseliyor.
-12–20 sn
-Kamera, yağ gibi kayan, rüya gibi bir hareketle etrafında dönüyor. Sütunlar, güller, çeşme sisi ve yüzen taç yaprakları üzerinde paralaks etkisi. Taş kemerlerin arasından ışık parlamaları geçiyor. Birkaç taç yaprağı köprücük kemiğine ve kristal korsajına konuyor, sonra tekrar havalanıyor. Yüzünü güneşe dönüyor. Sessiz, doğal bir gülümseme. Elbise ıslak ipek ve ezilmiş inciler gibi parlıyor.
-20–30 sn
-Duruluyor. Bahçe nefes veriyor. Taç yaprakları etrafında yüzen bir takımyıldızına dönüşerek yavaşlıyor. Altın polenler havada asılı kalıyor. Piyano, son karede biten uzun, şefkatli bir final notasıyla sona eriyor. Tabloyu koruyun: kadınsı, romantik, neredeyse kutsal. Sıcak çiçekli bokeh ve süzülen ışıkla karartarak bitirin.
-Görünüm
-Ruhani lüks gelin sineması. Dekoratif, zarif, kadınsı güzellik. Kitsch olmayan romantizm. Sihirle yükseltilmiş gerçekçi cilt gözenekleri ve kumaş dokusu: yüzen taç yaprakları, polenler, ışık tozları ve ekran boyunca nazik 3D hareket.
-Kamera ve teknik
-Dikey 9:16. Kesintisiz çekim, mümkünse kesme yok. Yavaş yaklaşma + yörünge hareketi. Sığ alan derinliği, yüz ve elbise üzerinde keskin odak. Stereoskopik başyapıt, 3D dokular, keskin yükseltme, ultra ince detay.
-Yapılmayacaklar
-Yüzünü veya saçını değiştirmeyin. Başka insanlar eklemeyin. Konuşma eklemeyin. Müziği geciktirmeyin. Hareketi aceleye getirmeyin. Cilde aşırı rötuş yapmayın.
-İlk kareden itibaren nefes alan, yaşayan bir tablo gibi hissettirin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="Stereoskopik Zarif Elbise Anlatımı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10531)**
-
-**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2096924134231953625) | **Published:** Sep 7, 2026
-
----
-### Karakterlerle Akşam Yemeği Hazırlama Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Alice ve Dani adlı iki karakterin, karakter referanslarını kullanarak bir mutfakta akşam yemeği hazırlamasını betimleyen bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Alice @Reference3 ve Dani @Reference2 tezgahta sebzeleri doğruyor ve Elara olarak akşam yemeğini hazırlamaya başlıyorlar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096824592191156224/img/NjV-g4oS7Kv66QV2.jpg" width="600" alt="Karakterlerle Akşam Yemeği Hazırlama Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10491)**
-
-**Author:** [Brandon Russo](https://x.com/Brandon40163292) | **Source:** [Link](https://x.com/Brandon40163292/status/2096825084254298173) | **Published:** Sep 7, 2026
-
----
-### Sinematik Donmuş Kule Figürü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kış şehir manzarasının üzerindeki donmuş bir radyo kulesinde oturan astronot benzeri bir figürün yüksek irtifa çekimini betimleyen, çok katmanlı detaylı sinematik komut.
-
-#### 📝 Prompt
-
-```
-Krem rengi uçuş tulumu ve koyu vizörlü kaskıyla, karla kaplı bir şehrin çok üzerinde, paslı ve buzlu bir radyo kulesinin kenarında oturan bir figürün sinematik geniş açılı çekimi; vücut hareketsiz ve dik, eldivenli eller kirişin üzerinde dinleniyor, metal kafesten sarkan ağır buz sarkıtları, çok aşağıda beyaz çatıların arasından kıvrılarak geçen donmuş nehir, açık mavi kış gökyüzü, çelik ve kırağı üzerinde soğuk güneş ışığı, fotogerçekçi atmosfer, aşırı yükseklik ölçeği hissi, ultra detaylı kumaş, metal ve buz dokusu, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471558961471488/img/jMxNQMBfaKgIgM3k.jpg" width="600" alt="Sinematik Donmuş Kule Figürü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10479)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **Published:** Sep 7, 2026
-
----
-### Porsche İç Mekan Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir Chihuahua köpeğinin tutarlılığını koruyarak araç iç mekanını Porsche 911 Turbo ile değiştirmeye yönelik bir video dönüşüm istemi.
-
-#### 📝 Prompt
-
-```
-Tüm Nissan Sentra araç iç mekanını ve arka planını lüks ve modern bir kırmızı Porsche 911 Turbo iç mekanıyla değiştirin. İlk görseldeki ana özne olan beyaz Chihuahua köpeğini tamamen aynı şekilde koruyun: yolcu koltuğunda arka ayakları üzerinde duran aynı poz.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096776251444961280/img/SAsIOjxuqCLcDZU2.jpg" width="600" alt="Porsche İç Mekan Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10538)**
-
-**Author:** [Eliot Sherr](https://x.com/Esherr9401) | **Source:** [Link](https://x.com/Esherr9401/status/2096776264967233577) | **Published:** Sep 7, 2026
-
----
-### Basketbol Smaç Hareketi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Basketbol topunu süren ve Michael Jordan tarzı bir smaç basan bir karakterin videosunu oluşturur.
-
-#### 📝 Prompt
-
-```
-Basketbol topunu potaya doğru sürmesini ve potaya Michael Jordan tarzı bir smaç basmasını sağla
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096773020664676354/img/NPyEHr-UVx-AvAGz.jpg" width="600" alt="Basketbol Smaç Hareketi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10488)**
-
-**Author:** [Vdewey](https://x.com/Vdeweydo) | **Source:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2222,6 +2207,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-18T04:24:42.283Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-18T13:06:17.532Z</sub>
 
 </div>

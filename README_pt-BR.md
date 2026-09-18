@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2835** |
+| 📝 Total Prompts | **2845** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-18** |
 
@@ -189,6 +189,141 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Cena de Explosão de Coca-Cola e Mentos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado em várias etapas, descrevendo uma cena humorística baseada em física, envolvendo um caminhão-tanque de Coca-Cola, um caminhão de Mentos e um homem barbudo que causa uma explosão.
+
+#### 📝 Prompt
+
+```
+POV realista do painel, rodovia molhada, caminhão-tanque vermelho da Coca-Cola vazando líquido ao lado de um caminhão azul de Mentos. Um homem corpulento e barbudo, vestindo regata laranja e shorts, enche um galão com o líquido derramado, bebe de forma bagunçada e joga caixas de Mentos na poça, desencadeando uma erupção gigante que o lança para o ar. Humorístico, física detalhada, formato vertical de 30s.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842567470292992/img/FuRk8KIp-5GviHnn.jpg" width="600" alt="Cena de Explosão de Coca-Cola e Mentos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11002)**
+
+**Author:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **Source:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **Published:** Sep 18, 2026
+
+---
+### Cinderela no Central Park
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo que coloca a Cinderela em um cenário moderno do Central Park enquanto ela sai da sua carruagem.
+
+#### 📝 Prompt
+
+```
+A Cinderela está vestindo um vestido rosa. Ela sai da sua carruagem branca puxada por cavalos e está no Central Park, Nova York, EUA, na América dos dias de hoje.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100809364600672256/img/CPMTO-65Uono7is7.jpg" width="600" alt="Cinderela no Central Park">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11001)**
+
+**Author:** [K. Massari](https://x.com/porcupine_touch) | **Source:** [Link](https://x.com/porcupine_touch/status/2100809392870359537) | **Published:** Sep 18, 2026
+
+---
+### Vídeo de Arremesso Falso de Pesca
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo descrevendo um arremesso falso como na pesca, fisgando uma mordida falsa de peixe e recolhendo a linha.
+
+#### 📝 Prompt
+
+```
+Arremesso falso como na pesca, fisgando uma mordida falsa de peixe, recolhendo o peixe falso capturado....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100765658464083968/img/bopZrXUorKDqtzU0.jpg" width="600" alt="Vídeo de Arremesso Falso de Pesca">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11003)**
+
+**Author:** [Yourenext1187🏴‍☠️](https://x.com/Spergburger) | **Source:** [Link](https://x.com/Spergburger/status/2100765685383098471) | **Published:** Sep 18, 2026
+
+---
+### Dragão Lego em Posição de Guarda
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para criar um dragão feroz construído inteiramente com blocos Lego entrelaçados, montando guarda na frente de um castelo Lego sob a luz da lua.
+
+#### 📝 Prompt
+
+```
+Um dragão feroz construído inteiramente com blocos Lego entrelaçados em cores escuras e vibrantes—vermelho carmesim profundo, preto meia-noite, roxo real e azul elétrico. O dragão monta guarda na frente de um imponente castelo Lego com ameias e torres, suas asas abertas protetoramente. Cena noturna sob a luz brilhante da lua, iluminação dramática, superfícies plásticas brilhantes refletindo o brilho, atmosfera cinematográfica de fantasia, altamente detalhado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739489576407040/img/6WYwjdDKFch9BQgG.jpg" width="600" alt="Dragão Lego em Posição de Guarda">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11005)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2100739588712956331) | **Published:** Sep 18, 2026
+
+---
+### Paródia de Kid Rock para Bud Light
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo humorístico que recria um momento do comercial da Bud Light com Kid Rock, substituindo-o pelo queijo Tillamook.
+
+#### 📝 Prompt
+
+```
+Uma paródia do comercial da Bud Light com Kid Rock, onde ele atira nas latas, mas usando queijo Tillamook
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739335007993856/img/rNPqWIPCJDNmwYeT.jpg" width="600" alt="Paródia de Kid Rock para Bud Light">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10999)**
+
+**Author:** [Anita Evans](https://x.com/AnitaEvans2911) | **Source:** [Link](https://x.com/AnitaEvans2911/status/2100739348874350832) | **Published:** Sep 18, 2026
+
+---
+### Cavaleiro Cinematográfico na Mesquita
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo que descreve um movimento cinematográfico lento da câmera avançando enquanto um cavalo e seu cavaleiro se aproximam de uma mesquita com areia dourada e estrelas cintilantes.
+
+#### 📝 Prompt
+
+```
+O cavalo e o cavaleiro caminham lentamente em direção à mesquita. A túnica e a crina do cavalo movem-se suavemente ao vento. Areia dourada flutua delicadamente, nuvens se deslocam lentamente, estrelas cintilam e raios de luz brilham. Movimento cinematográfico lento da câmera para frente. Preservar a mesquita e a composição.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100702402546372608/img/GqhyoZOndtvUtg05.jpg" width="600" alt="Cavaleiro Cinematográfico na Mesquita">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11000)**
+
+**Author:** [Dame](https://x.com/Damesall313) | **Source:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **Published:** Sep 17, 2026
+
+---
+### Prompt do Grok Imagine: Fotografia de Vida Selvagem de Tigre Siberiano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar fotografia de vida selvagem fotorrealista de um tigre siberiano em ambiente natural, utilizando profundidade de campo rasa e iluminação fria para alcançar uma estética documental, sem poses.
+
+#### 📝 Prompt
+
+```
+Estilo Artístico: Fotografia de vida selvagem fotorrealista, profundidade de campo rasa, iluminação natural fria, granulação sutil de filme, honesta e sem poses, sem glamorização.
+
+Conteúdo: Um tigre siberiano caminhando
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100468661995921408/img/yrSMe_OEtDZDdjw0.jpg" width="600" alt="Prompt do Grok Imagine: Fotografia de Vida Selvagem de Tigre Siberiano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11004)**
+
+**Author:** [David Liang](https://x.com/DavidLi36143625) | **Source:** [Link](https://x.com/DavidLi36143625/status/2100469282497032283) | **Published:** Sep 17, 2026
+
+---
 ### Mulher Jogando o Mundo no Sol
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -900,6 +1035,26 @@ Uma formiga mãe está puxando seu carrinho de comida com seu filho a reboque. C
 **Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
 
 ---
+### Vídeo de Robôs no Oásis em Marte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Vídeo que retrata um oásis em Marte, com luzes nas cúpulas e robôs construindo vida.
+
+#### 📝 Prompt
+
+```
+Tenham uma boa sexta-feira à noite, pessoal.
+Apenas um breve vislumbre esta noite - um oásis em Marte, luzes nas cúpulas, robôs construindo vida.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098477462200147968/img/Njx6sAHlUy-55dbB.jpg" width="600" alt="Vídeo de Robôs no Oásis em Marte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11008)**
+
+**Author:** [Ninoki](https://x.com/Ninoki111) | **Source:** [Link](https://x.com/Ninoki111/status/2098477739753803836) | **Published:** Sep 11, 2026
+
+---
 ### Vídeo de homenagem à histórica igreja polonesa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -917,6 +1072,27 @@ Homenagem à igreja Sacred Hearts of Jesus and Mary, Scranton, Pensilvânia, por
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
 
 **Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
+
+---
+### O Sonho de Voar: Leonardo da Vinci
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Parte 1 do vídeo sobre o sonho humano de voar e Leonardo da Vinci, gerado com Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Parte 1: O Sonho de Voar | 0–15s
+
+De observar pássaros planando a imaginar máquinas voadoras, o sonho humano de voar começou com uma visão. Leonardo da Vinci ajudou a transformar esse sonho em ideia.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098370904942313473/img/rfo920ZzO_nbDXd9.jpg" width="600" alt="O Sonho de Voar: Leonardo da Vinci">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11006)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098396641602740528) | **Published:** Sep 11, 2026
 
 ---
 ### Sequência realista de alguém comendo macarrão
@@ -948,6 +1124,27 @@ Mantenha todos os movimentos contínuos e fisicamente realistas. Preserve a mesm
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
 
 **Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
+
+---
+### Vídeo da Cidade que Nunca Dorme em NYC
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Segmento de vídeo descrevendo Nova York após o anoitecer, com um horizonte brilhante.
+
+#### 📝 Prompt
+
+```
+Parte 4 (45–60s): A Cidade que Nunca Dorme
+
+Nova York após o anoitecer—onde o horizonte brilha mais do que as estrelas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098360939825532928/img/kt9lSCEFM_180S6i.jpg" width="600" alt="Vídeo da Cidade que Nunca Dorme em NYC">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11007)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098361333574181177) | **Published:** Sep 11, 2026
 
 ---
 ### Cavaleiro Sci-Fi no Estilo de Klimt
@@ -1949,218 +2146,6 @@ Transforme esta cena de habitat marciano em uma versão noturna profunda. Mude o
 **Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **Published:** Sep 7, 2026
 
 ---
-### Zoom em Buquê de Flores Giratório
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de movimento para vídeo que cria um zoom suave e uma rotação vertical em um arranjo de flores com pétalas franzidas.
-
-#### 📝 Prompt
-
-```
-Mantenha a mesma imagem de buquê de flores de técnica mista. Aplique um zoom lento e gradual no denso aglomerado de flores brancas e cinzas com pétalas franzidas no topo, enquanto todo o buquê gira suavemente em seu eixo vertical. Movimento contínuo e fluido, estilo de pintura
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097045100371279872/img/_CVJO0RbC8voKFu0.jpg" width="600" alt="Zoom em Buquê de Flores Giratório">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10539)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2097045135708074171) | **Published:** Sep 7, 2026
-
----
-### Vídeo de Paisagem Urbana com Vegetação Avançada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Transforma uma paisagem urbana futurista adicionando vegetação exuberante, como árvores e grama, para uma estética ecológica avançada.
-
-#### 📝 Prompt
-
-```
-Eu quero pegar a imagem típica de uma paisagem urbana futurista e adicionar um pouco de vegetação. Faça com que pareça super avançada, com muitas árvores e grama.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097030058531581952/img/lpcCKU1Ety68woVy.jpg" width="600" alt="Vídeo de Paisagem Urbana com Vegetação Avançada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10532)**
-
-**Author:** [GeoDev](https://x.com/GeoDev1962) | **Source:** [Link](https://x.com/GeoDev1962/status/2097030074939670594) | **Published:** Sep 7, 2026
-
----
-### Caminhada Cinematográfica no Acampamento Espacial em Marte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt complexo de continuação de vídeo cinematográfico de ficção científica que acompanha uma mulher caminhando por um acampamento espacial extraterrestre.
-
-#### 📝 Prompt
-
-```
-Transforme a cena para que a mulher esteja caminhando para frente através de seu acampamento espacial em Marte, com o corpo inteiro visível. Ela veste o mesmo traje espacial de astronauta moderno, elegante e azul-profundo, com detalhes em azul metálico e prata que combinam perfeitamente com os detalhes em azul brilhante o...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096994780165124096/img/9lZYbxJqQG2g-YSn.jpg" width="600" alt="Caminhada Cinematográfica no Acampamento Espacial em Marte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10530)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2096994806459256874) | **Published:** Sep 7, 2026
-
----
-### Filme Editorial de Alta Moda
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para um filme de alta moda de 15 segundos, preservando a aparência específica de um personagem em um cenário de estúdio minimalista.
-
-#### 📝 Prompt
-
-```
-Crie um filme editorial de alta moda de 15 segundos estrelando o personagem adulto em Preserve sua aparência, traje, acessórios e estilo visual exatos. Renderize todo o filme com a estética da referência.
-
-Use um estúdio minimalista com piso reflexivo,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096966883404812289/img/mZrPulPlds6nc1z8.jpg" width="600" alt="Filme Editorial de Alta Moda">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10533)**
-
-**Author:** [Eileen_Xie](https://x.com/eileen_XL) | **Source:** [Link](https://x.com/eileen_XL/status/2096966914136560022) | **Published:** Sep 7, 2026
-
----
-### Reestilização com Estética de Manhã de Domingo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Reestiliza uma foto para uma estética de manhã de domingo quente e nebulosa, com luz solar dourada e tratamento vintage.
-
-#### 📝 Prompt
-
-```
-Reestilize esta foto para uma estética sonhadora de Manhã de Domingo. Luz solar suave, nebulosa e dourada do meio da manhã, banhando suavemente a cena com uma leve névoa atmosférica e um brilho difuso. Tratamento de cor vintage quente com amarelos suaves e verdes delicados...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096955733229395968/img/5H31ebTBYn9VxiUj.jpg" width="600" alt="Reestilização com Estética de Manhã de Domingo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10535)**
-
-**Author:** [stan gralla](https://x.com/GrallaStan) | **Source:** [Link](https://x.com/GrallaStan/status/2096955746608927063) | **Published:** Sep 7, 2026
-
----
-### Narrativa de Vestido Elegante Estereoscópico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt explícito e cronometrado de 30 segundos para linha do tempo de câmera 3D estereoscópica, para uma tomada contínua apresentando uma mulher em um elegante vestido de rosas marfim.
-
-#### 📝 Prompt
-
-```
-Prompt de vídeo otimizado de 30s — música desde o frame 1
-Uma obra-prima cinematográfica 3D estereoscópica de 30 segundos de tirar o fôlego. Texturas ultra-nítidas e ultra-finas, pele e tecido fotorrealistas, luz dourada volumétrica, profundidade viva.
-Use a mulher enviada como o sujeito exato: seu rosto, seu cabelo loiro cacheado iluminado pelo sol, o vestido de rosas marfim e rosa blush com fenda alta, saltos de cristal e cenário de jardim. Não altere sua identidade.
-Áudio (obrigatório)
-Piano solo começa no primeiro frame e continua sem interrupção até o último frame. Apenas piano íntimo, romântico e etéreo. Sem vozes. Sem letras. Sem introdução atrasada.
-História, cronometrada
-0–5s
-Piano já tocando. Beleza extrema em plano médio-aberto. Ela está nos degraus de pedra iluminados pelo sol como se o próprio jardim estivesse respirando. A luz de fundo quente incendeia seu cabelo em um halo dourado. Uma pétala paira no ar em frente à lente, depois passa flutuando em 3D real.
-5–12s
-Ela dá um passo único, lento e majestoso à frente. A cauda bordada escorre pelas escadas. Milhares de pétalas rosa pálido e creme se levantam dos arcos e giram ao redor dela em um espaço estereoscópico em camadas — algumas roçam a câmera, outras caem atrás de seus ombros. Pólen fino e poeira de diamante capturam cada raio de luz. Mangas transparentes se elevam como se não tivessem peso.
-12–20s
-A câmera orbita ao redor dela em um deslize suave e onírico. Paralaxe em colunas, rosas, névoa de fonte e pétalas flutuantes. Reflexos de luz através dos arcos de pedra. Algumas pétalas pousam em sua clavícula e no corpete de cristal, depois se levantam novamente. Ela vira o rosto para o sol. Um sorriso silencioso e natural. O vestido brilha como seda molhada e pérolas trituradas.
-20–30s
-Ela para. O jardim exala. As pétalas diminuem a velocidade em uma constelação flutuante ao redor dela. Pólen dourado paira no ar. O piano se resolve em uma nota final longa e terna que termina no último frame. Mantenha o tableau: feminino, romântico, quase sagrado. Desvaneça através de um bokeh floral quente e luz à deriva.
-Visual
-Cinema de luxo nupcial etéreo. Beleza decorativa, elegante e feminina. Romance sem ser cafona. Poros da pele e trama do tecido realistas, elevados por magia: pétalas flutuantes, pólen, poeira de luz e movimento 3D suave pela tela.
-Câmera e técnica
-Vertical 9:16. Tomada contínua, sem cortes, se possível. Aproximação lenta + órbita. Profundidade de campo rasa, foco nítido no rosto e no vestido. Obra-prima estereoscópica, texturas 3D, upscale nítido, detalhes ultra-finos.
-Não
-Altere o rosto ou cabelo dela. Adicione pessoas. Adicione fala. Arase a música. Acelere o movimento. Retoque excessivamente a pele.
-Faça parecer uma pintura viva que respira desde o primeiro frame.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="Narrativa de Vestido Elegante Estereoscópico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10531)**
-
-**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2096924134231953625) | **Published:** Sep 7, 2026
-
----
-### Cena de preparo de jantar com personagens
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo que descreve duas personagens, Alice e Dani, preparando o jantar em uma cozinha, utilizando referências de personagens.
-
-#### 📝 Prompt
-
-```
-Alice @Reference3 e Dani @Reference2 cortando legumes na bancada e começando a preparar o jantar como Elara
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096824592191156224/img/NjV-g4oS7Kv66QV2.jpg" width="600" alt="Cena de preparo de jantar com personagens">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10491)**
-
-**Author:** [Brandon Russo](https://x.com/Brandon40163292) | **Source:** [Link](https://x.com/Brandon40163292/status/2096825084254298173) | **Published:** Sep 7, 2026
-
----
-### Figura cinematográfica em torre congelada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt cinematográfico detalhado em várias camadas descrevendo uma tomada em alta altitude de uma figura semelhante a um astronauta sentada em uma torre de rádio congelada acima de uma paisagem urbana de inverno.
-
-#### 📝 Prompt
-
-```
-Tomada cinematográfica ampla de uma figura com traje de voo creme e capacete com viseira escura sentada na borda de uma torre de rádio enferrujada e gelada, bem acima de uma cidade coberta de neve, corpo imóvel e ereto, mãos enluvadas descansando na viga, pingentes de gelo pesados pendurados na treliça de metal, rio congelado serpenteando através de telhados brancos lá embaixo, céu de inverno azul claro, luz solar fria sobre o aço e a geada, atmosfera fotorrealista, senso de escala de altura extrema, textura ultra detalhada de tecido, metal e gelo, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471558961471488/img/jMxNQMBfaKgIgM3k.jpg" width="600" alt="Figura cinematográfica em torre congelada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10479)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **Published:** Sep 7, 2026
-
----
-### Transformação de Interior de Porsche
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de transformação de vídeo para substituir o interior de um carro pelo de um Porsche 911 Turbo, mantendo a consistência do Chihuahua como sujeito.
-
-#### 📝 Prompt
-
-```
-Substitua todo o interior e o fundo do carro Nissan Sentra pelo interior luxuoso e moderno de um Porsche 911 Turbo vermelho. Mantenha exatamente o mesmo cachorro Chihuahua branco como o sujeito principal da primeira imagem: a mesma pose, em pé sobre as patas traseiras no banco do passageiro
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096776251444961280/img/SAsIOjxuqCLcDZU2.jpg" width="600" alt="Transformação de Interior de Porsche">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10538)**
-
-**Author:** [Eliot Sherr](https://x.com/Esherr9401) | **Source:** [Link](https://x.com/Esherr9401/status/2096776264967233577) | **Published:** Sep 7, 2026
-
----
-### Movimento de Enterrada de Basquete
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gera um vídeo de um personagem driblando uma bola de basquete e realizando uma enterrada ao estilo Michael Jordan.
-
-#### 📝 Prompt
-
-```
-Faça com que ela drible a bola de basquete até a cesta e realize uma enterrada ao estilo Michael Jordan no aro
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096773020664676354/img/NPyEHr-UVx-AvAGz.jpg" width="600" alt="Movimento de Enterrada de Basquete">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10488)**
-
-**Author:** [Vdewey](https://x.com/Vdeweydo) | **Source:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2222,6 +2207,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-18T04:24:40.091Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-18T13:06:14.376Z</sub>
 
 </div>

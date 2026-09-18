@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2835** |
+| 📝 Total Prompts | **2845** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-18** |
 
@@ -189,6 +189,141 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### कोक और मेंटोस विस्फोट दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत मल्टी-स्टेप वीडियो प्रॉम्प्ट जो एक कोक टैंकर, मेंटोस ट्रक और एक दाढ़ी वाले व्यक्ति द्वारा किए गए विस्फोट से जुड़े हास्यपूर्ण भौतिकी आधारित दृश्य को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+यथार्थवादी डैशबोर्ड POV, भीगी हुई हाईवे, लाल Coca-Cola टैंकर से तरल पदार्थ बह रहा है जो नीले Mentos ट्रक के पास है। नारंगी टैंक टॉप और शॉर्ट्स पहने भारी-भरकम दाढ़ी वाला व्यक्ति स्पिल से जग भरता है, अराजक तरीके से पीता है, और मेंटोस के डिब्बे गड्ढे में फेंक देता है जिससे एक विशाल उद्गार होता है जो उसे हवा में उछाल देता है। हास्यपूर्ण, विस्तृत भौतिकी, 30s वर्टिकल।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842567470292992/img/FuRk8KIp-5GviHnn.jpg" width="600" alt="कोक और मेंटोस विस्फोट दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11002)**
+
+**Author:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **Source:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **Published:** Sep 18, 2026
+
+---
+### सेंट्रल पार्क में सिंड्रेला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जो सिंड्रेला को आधुनिक युग के सेंट्रल पार्क में अपनी रथ से उतरते हुए दिखाता है।
+
+#### 📝 Prompt
+
+```
+सिंड्रेला गुलाबी गाउन पहने हुए है। वह अपने सफेद घोड़े द्वारा खींचे जाने वाले रथ से बाहर निकलती है और आज के अमेरिका में, न्यूयॉर्क, यूएसए के सेंट्रल पार्क में होती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100809364600672256/img/CPMTO-65Uono7is7.jpg" width="600" alt="सेंट्रल पार्क में सिंड्रेला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11001)**
+
+**Author:** [K. Massari](https://x.com/porcupine_touch) | **Source:** [Link](https://x.com/porcupine_touch/status/2100809392870359537) | **Published:** Sep 18, 2026
+
+---
+### नकली मछली पकड़ने का वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जो नकली फिशिंग कैस्ट, नकली मछली के काटने पर हुक सेट करना और उसे वापस खींचने को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+नकली फिशिंग की तरह कैस्ट करें, नकली मछली के काटने पर हुक सेट करें, और नकली पकड़ी गई मछली को वापस खींचें....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100765658464083968/img/bopZrXUorKDqtzU0.jpg" width="600" alt="नकली मछली पकड़ने का वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11003)**
+
+**Author:** [Yourenext1187🏴‍☠️](https://x.com/Spergburger) | **Source:** [Link](https://x.com/Spergburger/status/2100765685383098471) | **Published:** Sep 18, 2026
+
+---
+### लेगो ड्रैगन पहरेदार
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक भयंकर ड्रैगन बनाने के लिए एक प्रॉम्प्ट जो पूरी तरह से आपस में जुड़े हुए लेगो ब्रिक्स से बना है और चाँदनी में एक लेगो किले के सामने पहरा दे रहा है।
+
+#### 📝 Prompt
+
+```
+गहरे लाल, आधी रात के काले, शाही बैंगनी और बिजली जैसे नीले रंगों में बने आपस में जुड़े हुए लेगो ब्रिक्स से पूरी तरह से निर्मित एक भयंकर ड्रैगन। ड्रैगन कल्लू और मीनारों वाले एक ऊंचे लेगो किले के सामने पहरा देता है, अपने पंख सुरक्षात्मक रूप से फैलाए हुए। चमकीली चाँदनी में रात्रि दृश्य, नाटकीय प्रकाश व्यवस्था, चमकदार प्लास्टिक की सतहें रोशनी को पकड़ती हैं, सिनेमाई फैंटेसी माहौल, अत्यधिक विस्तृत।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739489576407040/img/6WYwjdDKFch9BQgG.jpg" width="600" alt="लेगो ड्रैगन पहरेदार">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11005)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2100739588712956331) | **Published:** Sep 18, 2026
+
+---
+### बड लाइट किड रॉक पैरोडी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक हास्यपूर्ण वीडियो प्रॉम्प्ट जो बड लाइट विज्ञापन के एक क्षण को किड रॉक के साथ दोहराता है, लेकिन टिलामूक चीज़ का उपयोग करता है।
+
+#### 📝 Prompt
+
+```
+किड रॉक के साथ बड लाइट जहाँ वह कैन्स फेंकता है, लेकिन टिलामूक चीज़ के साथ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739335007993856/img/rNPqWIPCJDNmwYeT.jpg" width="600" alt="बड लाइट किड रॉक पैरोडी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10999)**
+
+**Author:** [Anita Evans](https://x.com/AnitaEvans2911) | **Source:** [Link](https://x.com/AnitaEvans2911/status/2100739348874350832) | **Published:** Sep 18, 2026
+
+---
+### मस्जिद के पास सिनेमाई घोड़े पर सवार व्यक्ति
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जो एक धीमी सिनेमाई कैमरा पुश फॉरवर्ड का वर्णन करता है, जैसे-जैसे घोड़ा और सवार सुनहरी रेत और चमकते तारों वाली मस्जिद की ओर बढ़ते हैं।
+
+#### 📝 Prompt
+
+```
+घोड़ा और सवार धीरे-धीरे मस्जिद की ओर चल रहे हैं। हवा में जलबा और घोड़े की मान (mane) कोमलता से लहरा रही हैं। सुनहरी रेत नरमी से उड़ती है, बादल धीरे-धीरे खिसकते हैं, तारे चमकते हैं और प्रकाश किरणें दमकती हैं। धीमा सिनेमाई कैमरा पुश फॉरवर्ड। मस्जिद और संरचना को बनाए रखें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100702402546372608/img/GqhyoZOndtvUtg05.jpg" width="600" alt="मस्जिद के पास सिनेमाई घोड़े पर सवार व्यक्ति">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11000)**
+
+**Author:** [Dame](https://x.com/Damesall313) | **Source:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **Published:** Sep 17, 2026
+
+---
+### Grok Imagine प्रॉम्प्ट: साइबेरियन बाघ वन्यजीव फोटोग्राफी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> साइबेरियन बाघ की प्राकृतिक सेटिंग में यथार्थवादी वन्यजीव फोटोग्राफी उत्पन्न करने के लिए एक प्रॉम्प्ट, जो शैलो डेप्थ ऑफ फील्ड और ठंडी रोशनी का उपयोग करके एक अनपोस्ड, डॉक्यूमेंट्री सौंदर्य को प्राप्त करता है।
+
+#### 📝 Prompt
+
+```
+आर्ट स्टाइल: यथार्थवादी वन्यजीव फोटोग्राफी, शैलो डेप्थ ऑफ फील्ड, प्राकृतिक ठंडी रोशनी, सूक्ष्म फिल्म ग्रेन, ईमानदार और अनपोस्ड, कोई ग्लैमराइजेशन नहीं।
+
+सामग्री: चलता हुआ साइबेरियन बाघ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100468661995921408/img/yrSMe_OEtDZDdjw0.jpg" width="600" alt="Grok Imagine प्रॉम्प्ट: साइबेरियन बाघ वन्यजीव फोटोग्राफी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11004)**
+
+**Author:** [David Liang](https://x.com/DavidLi36143625) | **Source:** [Link](https://x.com/DavidLi36143625/status/2100469282497032283) | **Published:** Sep 17, 2026
+
+---
 ### विश्व को सूर्य में फेंकती हुई महिला
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -900,6 +1035,26 @@ I Am Legend का मूवी ट्रेलर, लेकिन इसमे
 **Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
 
 ---
+### मंगल ग्रह पर रोबोट और वीडियो में ओएसिस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> मंगल ग्रह पर एक ओएसिस को दर्शाने वाला वीडियो, जिसमें गुंबदों में रोशनी है और रोबोट जीवन का निर्माण कर रहे हैं।
+
+#### 📝 Prompt
+
+```
+सभी को शुक्रवार की शाम मुबारक हो।
+आज रात बस एक छोटा सा झलक - मंगल ग्रह पर एक ओएसिस, गुंबदों में रोशनी, और रोबोट जीवन का निर्माण कर रहे हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098477462200147968/img/Njx6sAHlUy-55dbB.jpg" width="600" alt="मंगल ग्रह पर रोबोट और वीडियो में ओएसिस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11008)**
+
+**Author:** [Ninoki](https://x.com/Ninoki111) | **Source:** [Link](https://x.com/Ninoki111/status/2098477739753803836) | **Published:** Sep 11, 2026
+
+---
 ### ऐतिहासिक पोलिश चर्च ट्रिब्यूट वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -917,6 +1072,27 @@ I Am Legend का मूवी ट्रेलर, लेकिन इसमे
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
 
 **Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
+
+---
+### उड़ान का सपना: लेओनार्दो दा विंची
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine द्वारा बनाया गया वीडियो भाग 1, जो मानवता के उड़ान के सपने और लेओनार्दो दा विंची को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+भाग 1: उड़ान का सपना | 0–15 सेकंड
+
+पक्षियों को आकाश में तैरते देखने से लेकर उड़ान मशीनों की कल्पना करने तक, मानवता का उड़ान का सपना एक दृष्टि से शुरू हुआ था। लेओनार्दो दा विंची ने उस सपने को एक विचार में बदलने में मदद की।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098370904942313473/img/rfo920ZzO_nbDXd9.jpg" width="600" alt="उड़ान का सपना: लेओनार्दो दा विंची">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11006)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098396641602740528) | **Published:** Sep 11, 2026
 
 ---
 ### नूडल्स खाने का यथार्थवादी दृश्य
@@ -948,6 +1124,27 @@ I Am Legend का मूवी ट्रेलर, लेकिन इसमे
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
 
 **Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
+
+---
+### NYC City That Never Sleeps Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video segment describing New York City after dark with a shining skyline.
+
+#### 📝 Prompt
+
+```
+Part 4 (45–60s): The City That Never Sleeps
+
+New York City after dark—where the skyline shines brighter than the stars.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098360939825532928/img/kt9lSCEFM_180S6i.jpg" width="600" alt="NYC City That Never Sleeps Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11007)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098361333574181177) | **Published:** Sep 11, 2026
 
 ---
 ### Klimt स्टाइल का Sci-Fi नाइट
@@ -1949,218 +2146,6 @@ AI से प्यार है... गैल गैडोट और एलन �
 **Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **Published:** Sep 7, 2026
 
 ---
-### Rotating Flower Bouquet Zoom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> वीडियो के लिए एक मोशन प्रॉम्प्ट जो फूलों के गुच्छे पर स्मूथ ज़ूम और वर्टिकल रोटेशन बनाता है।
-
-#### 📝 Prompt
-
-```
-उसी मिक्स-मीडिया फ्लावर बुके इमेज को बनाए रखें। ऊपर मौजूद सफेद और ग्रे रंग के फूलों के घने गुच्छे पर धीरे-धीरे ज़ूम इन करें, जबकि पूरा बुके अपनी वर्टिकल एक्सिस पर धीरे-धीरे घूमता रहे। स्मूथ, निरंतर गति, पेंटरली स्टाइल
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097045100371279872/img/_CVJO0RbC8voKFu0.jpg" width="600" alt="Rotating Flower Bouquet Zoom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10539)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2097045135708074171) | **Published:** Sep 7, 2026
-
----
-### एडवांस्ड ग्रीनरी सिटीस्केप वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक भविष्यवादी सिटीस्केप में पेड़ और घास जैसी हरियाली जोड़कर उसे एक उन्नत इको-एस्थेटिक लुक देता है।
-
-#### 📝 Prompt
-
-```
-मैं सामान्य भविष्यवादी सिटीस्केप इमेज में थोड़ी हरियाली जोड़ना चाहता हूँ। इसे ढेर सारे पेड़ों और घास के साथ बेहद एडवांस्ड लुक दें।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097030058531581952/img/lpcCKU1Ety68woVy.jpg" width="600" alt="एडवांस्ड ग्रीनरी सिटीस्केप वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10532)**
-
-**Author:** [GeoDev](https://x.com/GeoDev1962) | **Source:** [Link](https://x.com/GeoDev1962/status/2097030074939670594) | **Published:** Sep 7, 2026
-
----
-### Mars Space Camp Cinematic Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जटिल साइंस-फिक्शन सिनेमैटिक वीडियो कंटिन्यूएशन प्रॉम्प्ट, जिसमें एक महिला को मंगल ग्रह पर स्थित स्पेस कैंप में चलते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-दृश्य को इस तरह बदलें कि महिला मंगल ग्रह पर अपने स्पेस कैंप में आगे की ओर चल रही हो और उसका पूरा शरीर दिखाई दे। उसने वही स्लीक गहरे नीले रंग का आधुनिक एस्ट्रोनॉट स्पेससूट पहना है, जिसमें मैटेलिक नीले और सिल्वर रंग की डिटेलिंग है, जो स्पेससूट पर मौजूद नीले चमकते एक्सेंट्स से पूरी तरह मेल खाती है...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096994780165124096/img/9lZYbxJqQG2g-YSn.jpg" width="600" alt="Mars Space Camp Cinematic Walk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10530)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2096994806459256874) | **Published:** Sep 7, 2026
-
----
-### हाई-फैशन एडिटोरियल फिल्म
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मिनिमल स्टूडियो सेटिंग में किसी विशिष्ट पात्र के स्वरूप को बनाए रखते हुए 15-सेकंड की हाई-फैशन फिल्म के लिए एक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक 15-सेकंड की हाई-फैशन एडिटोरियल फिल्म बनाएं जिसमें वयस्क पात्र मुख्य भूमिका में हो। उनके सटीक स्वरूप, पोशाक, एक्सेसरीज़ और विज़ुअल स्टाइल को बनाए रखें। पूरी फिल्म को संदर्भ (reference) के सौंदर्यशास्त्र (aesthetic) में रेंडर करें।
-
-एक रिफ्लेक्टिव फ्लोर वाले मिनिमल स्टूडियो का उपयोग करें,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096966883404812289/img/mZrPulPlds6nc1z8.jpg" width="600" alt="हाई-फैशन एडिटोरियल फिल्म">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10533)**
-
-**Author:** [Eileen_Xie](https://x.com/eileen_XL) | **Source:** [Link](https://x.com/eileen_XL/status/2096966914136560022) | **Published:** Sep 7, 2026
-
----
-### संडे मॉर्निंग एस्थेटिक रीस्टाइल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक फोटो को सुनहरी धूप और विंटेज ग्रेडिंग के साथ एक गर्म, धुंधले संडे मॉर्निंग एस्थेटिक में रीस्टाइल करें।
-
-#### 📝 Prompt
-
-```
-इस फोटो को एक स्वप्निल संडे मॉर्निंग एस्थेटिक में रीस्टाइल करें। हल्की, धुंधली और गर्म सुनहरी सुबह की धूप धीरे-धीरे पूरे दृश्य पर फैल रही है, जिसमें थोड़ा वायुमंडलीय धुंधलापन और एक नरम फैला हुआ ग्लो है। हल्के पीले और नरम हरे रंगों के साथ गर्म विंटेज कलर ग्रेडिंग...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096955733229395968/img/5H31ebTBYn9VxiUj.jpg" width="600" alt="संडे मॉर्निंग एस्थेटिक रीस्टाइल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10535)**
-
-**Author:** [stan gralla](https://x.com/GrallaStan) | **Source:** [Link](https://x.com/GrallaStan/status/2096955746608927063) | **Published:** Sep 7, 2026
-
----
-### स्टीरियोस्कोपिक एलिगेंट गाउन नैरेटिव
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सुरुचिपूर्ण आइवरी रोज़ गाउन पहने महिला को दर्शाते हुए निरंतर शॉट के लिए एक स्पष्ट, 30-सेकंड की टाइम-सेट स्टीरियोस्कोपिक 3D कैमरा टाइमलाइन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-ऑप्टिमाइज़्ड 30s वीडियो प्रॉम्प्ट — पहले फ्रेम से ही संगीत
-एक लुभावनी 30-सेकंड की स्टीरियोस्कोपिक 3D सिनेमैटिक मास्टरपीस। अल्ट्रा-शार्प, अल्ट्रा-फाइन टेक्सचर, फोटो-रियल स्किन और फैब्रिक, वॉल्यूमेट्रिक गोल्डन लाइट, जीवंत गहराई।
-अपलोड की गई महिला का सटीक विषय के रूप में उपयोग करें: उसका चेहरा, उसके घुंघराले सुनहरे बाल, हाई स्लिट वाला ब्लश-पिंक और आइवरी रोज़ गाउन, क्रिस्टल हील्स, और बगीचे का दृश्य। उसकी पहचान न बदलें।
-ऑडियो (अनिवार्य)
-सोलो पियानो पहले फ्रेम से ही शुरू होता है और अंतिम फ्रेम तक बिना किसी रुकावट के जारी रहता है। केवल अंतरंग, रोमांटिक, ईथरियल पियानो। कोई आवाज़ नहीं। कोई बोल नहीं। कोई देरी वाला इंट्रो नहीं।
-कहानी, समयबद्ध
-0–5s
-पियानो पहले से ही बज रहा है। अत्यधिक सुंदरता, क्लोज-टू-मीडियम शॉट। वह धूप से सराबोर पत्थर की सीढ़ियों पर ऐसे खड़ी है जैसे बगीचा खुद सांस ले रहा हो। गर्म बैकलाइट उसके बालों को एक सुनहरे प्रभामंडल में बदल देती है। एक पंखुड़ी लेंस के सामने हवा में लटकी है, फिर सच्चे 3D में तैरती हुई आगे बढ़ती है।
-5–12s
-वह एक धीमा, शाही कदम आगे बढ़ाती है। कढ़ाईदार ट्रेल सीढ़ियों पर नीचे गिरती है। हजारों हल्के गुलाबी और क्रीम रंग की पंखुड़ियाँ मेहराबों से उठती हैं और उसके चारों ओर स्तरित स्टीरियोस्कोपिक स्पेस में घूमती हैं — कुछ कैमरे को छूती हैं, कुछ उसके कंधों के पीछे गिरती हैं। महीन पराग और हीरे की धूल प्रकाश की हर किरण को पकड़ लेती है। पारदर्शी आस्तीनें ऐसे उठती हैं जैसे वजनहीन हों।
-12–20s
-कैमरा उसके चारों ओर एक स्वप्निल गति में घूमता है। कॉलम, गुलाब, फव्वारे की धुंध और तैरती पंखुड़ियों पर पैरालैक्स। पत्थर के मेहराबों से प्रकाश की किरणें निकलती हैं। कुछ पंखुड़ियाँ उसके कॉलरबोन और क्रिस्टल चोली पर गिरती हैं, फिर वापस ऊपर उठ जाती हैं। वह अपना चेहरा सूरज की ओर घुमाती है। एक शांत, स्वाभाविक मुस्कान। गाउन गीले रेशम और कुचले हुए मोतियों की तरह चमकता है।
-20–30s
-वह स्थिर हो जाती है। बगीचा सांस छोड़ता है। पंखुड़ियाँ उसके चारों ओर एक तैरते हुए नक्षत्र में धीमी हो जाती हैं। सुनहरा पराग हवा में लटका हुआ है। पियानो एक लंबे, कोमल अंतिम नोट पर समाप्त होता है जो अंतिम फ्रेम पर लैंड करता है। दृश्य को बनाए रखें: स्त्रीत्वपूर्ण, रोमांटिक, लगभग पवित्र। गर्म फ्लोरल बोकेह और तैरती रोशनी के साथ फेड आउट।
-लुक
-ईथरियल लग्जरी ब्राइडल सिनेमा। सजावटी, सुरुचिपूर्ण, स्त्रीत्वपूर्ण सुंदरता। बिना किसी बनावट के रोमांस। यथार्थवादी त्वचा के रोमछिद्र और कपड़े की बुनाई, जादू से प्रेरित: तैरती पंखुड़ियाँ, पराग, प्रकाश-धूल, और स्क्रीन पर कोमल 3D गति।
-कैमरा और क्राफ्ट
-वर्टिकल 9:16। निरंतर शॉट, यदि संभव हो तो कोई कट नहीं। धीमा पुश + ऑर्बिट। उथली गहराई, चेहरे और गाउन पर सटीक फोकस। स्टीरियोस्कोपिक मास्टरपीस, 3D टेक्सचर, शार्प अपस्केल, अल्ट्रा-फाइन डिटेल।
-क्या न करें
-उसका चेहरा या बाल न बदलें। लोग न जोड़ें। भाषण न जोड़ें। संगीत में देरी न करें। गति को जल्दबाजी में न करें। त्वचा को बहुत अधिक रीटच न करें।
-इसे एक जीवंत पेंटिंग जैसा महसूस कराएं जो पहले फ्रेम से ही सांस लेती है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="स्टीरियोस्कोपिक एलिगेंट गाउन नैरेटिव">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10531)**
-
-**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2096924134231953625) | **Published:** Sep 7, 2026
-
----
-### पात्रों के साथ रात का खाना बनाने का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जनरेशन प्रॉम्प्ट जो रसोई के माहौल में रात का खाना तैयार कर रहे दो पात्रों, ऐलिस और दानी, का वर्णन करता है, जिसमें पात्र संदर्भों (character references) का उपयोग किया गया है।
-
-#### 📝 Prompt
-
-```
-ऐलिस @Reference3 और दानी @Reference2 काउंटर पर सब्जियां काट रहे हैं और एला के रूप में रात का खाना बनाना शुरू कर रहे हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096824592191156224/img/NjV-g4oS7Kv66QV2.jpg" width="600" alt="पात्रों के साथ रात का खाना बनाने का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10491)**
-
-**Author:** [Brandon Russo](https://x.com/Brandon40163292) | **Source:** [Link](https://x.com/Brandon40163292/status/2096825084254298173) | **Published:** Sep 7, 2026
-
----
-### सिनेमैटिक फ्रोजन टॉवर फिगर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत मल्टी-लेयर्ड सिनेमैटिक प्रॉम्प्ट, जिसमें सर्दियों के शहर के ऊपर एक जमे हुए रेडियो टॉवर पर बैठे अंतरिक्ष यात्री जैसी आकृति का हाई-एल्टीट्यूड शॉट वर्णित है।
-
-#### 📝 Prompt
-
-```
-क्रीम रंग के फ्लाइट सूट और गहरे वाइज़र वाले हेलमेट में एक आकृति का सिनेमैटिक वाइड शॉट, जो बर्फ से ढके शहर के ऊपर एक जंग लगे बर्फीले रेडियो टॉवर के किनारे पर बैठी है, शरीर स्थिर और सीधा है, दस्ताने पहने हाथ बीम पर टिके हैं, धातु की जाली से भारी बर्फ की परतें लटकी हुई हैं, नीचे दूर सफेद छतों के बीच से बहती जमी हुई नदी, साफ नीला सर्दियों का आसमान, स्टील और पाले पर ठंडी धूप, फोटो-रियलिस्टिक वातावरण, अत्यधिक ऊंचाई का एहसास, कपड़े, धातु और बर्फ की अल्ट्रा-डिटेल्ड बनावट, Grok Imagine।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471558961471488/img/jMxNQMBfaKgIgM3k.jpg" width="600" alt="सिनेमैटिक फ्रोजन टॉवर फिगर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10479)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **Published:** Sep 7, 2026
-
----
-### Porsche इंटीरियर ट्रांसफॉर्मेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो ट्रांसफॉर्मेशन प्रॉम्प्ट, जो कार के इंटीरियर को Porsche 911 Turbo से बदल देता है, जबकि Chihuahua डॉग को मुख्य विषय के रूप में बरकरार रखता है।
-
-#### 📝 Prompt
-
-```
-पूरी Nissan Sentra कार के इंटीरियर और बैकग्राउंड को एक शानदार मॉडर्न रेड Porsche 911 Turbo इंटीरियर से बदलें। पहली इमेज में मौजूद उसी सफेद Chihuahua डॉग को मुख्य विषय के रूप में बरकरार रखें: पैसेंजर सीट पर पिछली टांगों पर खड़े होने वाली वही पोज़।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096776251444961280/img/SAsIOjxuqCLcDZU2.jpg" width="600" alt="Porsche इंटीरियर ट्रांसफॉर्मेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10538)**
-
-**Author:** [Eliot Sherr](https://x.com/Esherr9401) | **Source:** [Link](https://x.com/Esherr9401/status/2096776264967233577) | **Published:** Sep 7, 2026
-
----
-### बास्केटबॉल डंक मोशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक ऐसे वीडियो को जनरेट करता है जिसमें एक कैरेक्टर बास्केटबॉल ड्रिबल कर रहा है और माइकल जॉर्डन की तरह डंक मार रहा है।
-
-#### 📝 Prompt
-
-```
-उसे बास्केटबॉल ड्रिबल करते हुए गोल तक ले जाएं और रिम पर माइकल जॉर्डन जैसा डंक मारने के लिए कहें
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096773020664676354/img/NPyEHr-UVx-AvAGz.jpg" width="600" alt="बास्केटबॉल डंक मोशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10488)**
-
-**Author:** [Vdewey](https://x.com/Vdeweydo) | **Source:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2222,6 +2207,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-18T04:24:33.473Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-18T13:06:06.403Z</sub>
 
 </div>

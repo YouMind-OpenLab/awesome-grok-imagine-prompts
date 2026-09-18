@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2835** |
+| 📝 Total Prompts | **2845** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-18** |
 
@@ -189,6 +189,141 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Coca-Cola-Mentos-Explosionsszene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter, mehrstufiger Video-Prompt, der eine humorvolle physikbasierte Szene mit einem Coca-Cola-Tanker, einem Mentos-LKW und einem bärtigen Mann zeigt, der eine Explosion auslöst.
+
+#### 📝 Prompt
+
+```
+Realistische Dashboard-POV, nasse Autobahn, roter Coca-Cola-Tanker sprudelt neben blauem Mentos-LKW. Ein kräftiger, bärtiger Mann in orangefarbenem Tanktop und Shorts füllt einen Krug aus der Lache, trinkt hastig, wirft Mentos-Schachteln in die Pfütze und löst eine riesige Eruption aus, die ihn in die Luft katapultiert. Humorvoll, detaillierte Physik, 30s vertikal.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842567470292992/img/FuRk8KIp-5GviHnn.jpg" width="600" alt="Coca-Cola-Mentos-Explosionsszene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11002)**
+
+**Author:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **Source:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **Published:** Sep 18, 2026
+
+---
+### Aschenputtel im Central Park
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, der Aschenputtel in einer modernen Kulisse des Central Parks zeigt, während sie aus ihrer Kutsche steigt.
+
+#### 📝 Prompt
+
+```
+Aschenputtel trägt ein rosa Kleid. Sie steigt aus ihrer weißen von Pferden gezogenen Kutsche und befindet sich im Central Park, New York, USA, im heutigen Amerika.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100809364600672256/img/CPMTO-65Uono7is7.jpg" width="600" alt="Aschenputtel im Central Park">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11001)**
+
+**Author:** [K. Massari](https://x.com/porcupine_touch) | **Source:** [Link](https://x.com/porcupine_touch/status/2100809392870359537) | **Published:** Sep 18, 2026
+
+---
+### Gefälschtes Angelwurf-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, der einen gefälschten Wurf wie beim Angeln beschreibt, das Anhaken eines vorgetäuschten Fischbisses und das Einholen des Fangs.
+
+#### 📝 Prompt
+
+```
+Gefälschter Wurf wie beim Angeln, Anhaken eines vorgetäuschten Fischbisses, Einholen des gefälschten Fanges....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100765658464083968/img/bopZrXUorKDqtzU0.jpg" width="600" alt="Gefälschtes Angelwurf-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11003)**
+
+**Author:** [Yourenext1187🏴‍☠️](https://x.com/Spergburger) | **Source:** [Link](https://x.com/Spergburger/status/2100765685383098471) | **Published:** Sep 18, 2026
+
+---
+### Lego-Drache als Wächter
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines furchteinflößenden Drachen, der vollständig aus ineinandergreifenden Lego-Steinen besteht und im Mondlicht vor einer Lego-Burg Wache hält.
+
+#### 📝 Prompt
+
+```
+Ein furchteinflößender Drache, der vollständig aus ineinandergreifenden Lego-Steinen in dunklen und kräftigen Farben gebaut ist – tiefes Karmesinrot, Mitternachtsschwarz, königliches Purpur und elektrisches Blau. Der Drache hält Wache vor einer hoch aufragenden Lego-Burg mit Zinnen und Türmen, seine Flügel schützend ausgebreitet. Nachtszene im hellen Mondlicht, dramatische Beleuchtung, glänzende Plastikoberflächen, die den Schein einfangen, cineastische Fantasy-Atmosphäre, sehr detailliert.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739489576407040/img/6WYwjdDKFch9BQgG.jpg" width="600" alt="Lego-Drache als Wächter">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11005)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2100739588712956331) | **Published:** Sep 18, 2026
+
+---
+### Bud Light Kid Rock Parodie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein humorvoller Video-Prompt, der einen berühmten Moment aus einem Bud Light Werbespot mit Kid Rock nachstellt, jedoch Tillamook Käse als Ersatz verwendet.
+
+#### 📝 Prompt
+
+```
+Ein Bud Light Spot mit Kid Rock, in dem er die Dosen schießt, aber mit Tillamook Käse
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739335007993856/img/rNPqWIPCJDNmwYeT.jpg" width="600" alt="Bud Light Kid Rock Parodie">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10999)**
+
+**Author:** [Anita Evans](https://x.com/AnitaEvans2911) | **Source:** [Link](https://x.com/AnitaEvans2911/status/2100739348874350832) | **Published:** Sep 18, 2026
+
+---
+### Cinematic Horse Rider at Mosque
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt describing a slow cinematic camera push forward as a horse and rider approach a mosque with golden sand and shimmering stars.
+
+#### 📝 Prompt
+
+```
+The horse and rider walk slowly toward the mosque. The robe and horse’s mane move gently in the wind. Golden sand drifts softly, clouds move slowly, stars shimmer and light rays glow. Slow cinematic camera push forward. Preserve the mosque and composition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100702402546372608/img/GqhyoZOndtvUtg05.jpg" width="600" alt="Cinematic Horse Rider at Mosque">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11000)**
+
+**Author:** [Dame](https://x.com/Damesall313) | **Source:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **Published:** Sep 17, 2026
+
+---
+### Grok Imagine Prompt: Siberian Tiger Wildlife Photography
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating photorealistic wildlife photography of a Siberian tiger in a natural setting, utilizing shallow depth of field and cold lighting to achieve an unposed, documentary aesthetic.
+
+#### 📝 Prompt
+
+```
+Art Style: Photorealistic wildlife photography, shallow depth of field, natural cold lighting, subtle film grain, honest and unposed, no glamorization.
+
+Content: A Siberian tiger walking
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100468661995921408/img/yrSMe_OEtDZDdjw0.jpg" width="600" alt="Grok Imagine Prompt: Siberian Tiger Wildlife Photography">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11004)**
+
+**Author:** [David Liang](https://x.com/DavidLi36143625) | **Source:** [Link](https://x.com/DavidLi36143625/status/2100469282497032283) | **Published:** Sep 17, 2026
+
+---
 ### Frau wirft die Welt in die Sonne
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -900,6 +1035,26 @@ Eine Mutterameise zieht ihren Futterwagen mit ihrem Sohn im Schlepptau. Es begin
 **Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
 
 ---
+### Oase auf dem Mars: Roboter-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video, das eine Oase auf dem Mars mit beleuchteten Kuppeln und Robotern zeigt, die Leben erschaffen.
+
+#### 📝 Prompt
+
+```
+Einen schönen Freitagabend, alle zusammen.
+Nur ein kurzer Blick heute Abend – eine Oase auf dem Mars, Lichter in den Kuppeln, Roboter, die Leben erschaffen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098477462200147968/img/Njx6sAHlUy-55dbB.jpg" width="600" alt="Oase auf dem Mars: Roboter-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11008)**
+
+**Author:** [Ninoki](https://x.com/Ninoki111) | **Source:** [Link](https://x.com/Ninoki111/status/2098477739753803836) | **Published:** Sep 11, 2026
+
+---
 ### Historisches Tribut-Video der polnischen Kirche
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -917,6 +1072,27 @@ Hommage an die Sacred Hearts of Jesus and Mary Church, Scranton, Pennsylvania, c
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
 
 **Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
+
+---
+### Der Traum vom Fliegen: Leonardo da Vinci
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Videoteil 1 über den Traum der Menschheit vom Fliegen und Leonardo da Vinci, generiert mit Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Teil 1: Der Traum vom Fliegen | 0–15s
+
+Vom Beobachten segelnder Vögel bis hin zur Vorstellung fliegender Maschinen – der Traum der Menschheit vom Fliegen begann mit einer Vision. Leonardo da Vinci half dabei, diesen Traum in eine konkrete Idee zu verwandeln.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098370904942313473/img/rfo920ZzO_nbDXd9.jpg" width="600" alt="Der Traum vom Fliegen: Leonardo da Vinci">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11006)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098396641602740528) | **Published:** Sep 11, 2026
 
 ---
 ### Realistische Nudeless-Sequenz
@@ -948,6 +1124,27 @@ Halten Sie alle Bewegungen kontinuierlich und physikalisch realistisch. Behalten
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
 
 **Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
+
+---
+### NYC: Die Stadt, die niemals schläft – Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Videosegment, das New York City nach Einbruch der Dunkelheit mit einer leuchtenden Skyline zeigt.
+
+#### 📝 Prompt
+
+```
+Teil 4 (45–60s): Die Stadt, die niemals schläft
+
+New York City nach Einbruch der Dunkelheit – wo die Skyline heller als die Sterne strahlt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098360939825532928/img/kt9lSCEFM_180S6i.jpg" width="600" alt="NYC: Die Stadt, die niemals schläft – Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11007)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098361333574181177) | **Published:** Sep 11, 2026
 
 ---
 ### Sci-Fi-Ritter im Klimt-Stil
@@ -1949,218 +2146,6 @@ Verwandle diese Mars-Habitat-Szene in eine nächtliche Version. Ändere den stau
 **Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **Published:** Sep 7, 2026
 
 ---
-### Zoom auf rotierenden Blumenstrauß
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Motion-Prompt für Videos, der einen sanften Zoom und eine vertikale Rotation auf einem Bündel gerüschter Blumen erzeugt.
-
-#### 📝 Prompt
-
-```
-Behalte das exakt gleiche Bild des Blumenstraußes aus verschiedenen Medien bei. Zoome langsam näher an das dichte Bündel aus weißen und grauen gerüschten Blumen an der Spitze heran, während sich der gesamte Strauß sanft um seine vertikale Achse dreht. Sanfte, kontinuierliche Bewegung, malerischer Stil
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097045100371279872/img/_CVJO0RbC8voKFu0.jpg" width="600" alt="Zoom auf rotierenden Blumenstrauß">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10539)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2097045135708074171) | **Published:** Sep 7, 2026
-
----
-### Fortschrittliches Stadtbild mit Begrünung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Verwandelt ein futuristisches Stadtbild durch das Hinzufügen von üppigem Grün wie Bäumen und Gras in eine fortschrittliche Öko-Ästhetik.
-
-#### 📝 Prompt
-
-```
-Ich möchte das typische futuristische Stadtbild nehmen und etwas Begrünung hinzufügen. Es soll hochmodern aussehen, mit vielen Bäumen und Gras.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097030058531581952/img/lpcCKU1Ety68woVy.jpg" width="600" alt="Fortschrittliches Stadtbild mit Begrünung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10532)**
-
-**Author:** [GeoDev](https://x.com/GeoDev1962) | **Source:** [Link](https://x.com/GeoDev1962/status/2097030074939670594) | **Published:** Sep 7, 2026
-
----
-### Mars Space Camp Cinematic Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer Sci-Fi-Prompt für die filmische Videofortsetzung, der eine Frau zeigt, die durch ein außerirdisches Weltraumcamp läuft.
-
-#### 📝 Prompt
-
-```
-Verwandle die Szene so, dass die Frau in ihrem Weltraumcamp auf dem Mars vorwärts geht und ihr ganzer Körper sichtbar ist. Sie trägt denselben eleganten, tiefblauen, modernen Astronautenanzug mit metallisch blauen und silbernen Details, die perfekt zu den blau leuchtenden Akzenten o...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096994780165124096/img/9lZYbxJqQG2g-YSn.jpg" width="600" alt="Mars Space Camp Cinematic Walk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10530)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2096994806459256874) | **Published:** Sep 7, 2026
-
----
-### High-Fashion Editorial-Film
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für einen 15-sekündigen High-Fashion-Film, der das Erscheinungsbild eines bestimmten Charakters in einem minimalistischen Studio-Setting beibehält.
-
-#### 📝 Prompt
-
-```
-Erstelle einen 15-sekündigen High-Fashion-Editorial-Film mit dem erwachsenen Charakter. Bewahre dabei das exakte Erscheinungsbild, das Outfit, die Accessoires und den visuellen Stil. Rendere den gesamten Film in der Ästhetik der Referenz.
-
-Verwende ein minimalistisches Studio mit einem reflektierenden Boden,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096966883404812289/img/mZrPulPlds6nc1z8.jpg" width="600" alt="High-Fashion Editorial-Film">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10533)**
-
-**Author:** [Eileen_Xie](https://x.com/eileen_XL) | **Source:** [Link](https://x.com/eileen_XL/status/2096966914136560022) | **Published:** Sep 7, 2026
-
----
-### Ästhetisches Sonntagmorgen-Makeover
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Verwandelt ein Foto in eine warme, verträumte Sonntagmorgen-Ästhetik mit goldenem Sonnenlicht und Vintage-Farbkorrektur.
-
-#### 📝 Prompt
-
-```
-Verwandle dieses Foto in eine verträumte Sonntagmorgen-Ästhetik. Sanftes, dunstiges, warmes goldenes Vormittagslicht, das sich sanft über die Szene legt, mit einem leichten atmosphärischen Dunst und einem weichen, diffusen Glanz. Warme Vintage-Farbkorrektur mit sanften Gelbtönen und zartem Grün...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096955733229395968/img/5H31ebTBYn9VxiUj.jpg" width="600" alt="Ästhetisches Sonntagmorgen-Makeover">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10535)**
-
-**Author:** [stan gralla](https://x.com/GrallaStan) | **Source:** [Link](https://x.com/GrallaStan/status/2096955746608927063) | **Published:** Sep 7, 2026
-
----
-### Stereoskopische elegante Roben-Erzählung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein expliziter, zeitlich abgestimmter 30-sekündiger stereoskopischer 3D-Kamera-Timeline-Prompt für eine kontinuierliche Aufnahme mit einer Frau in einer eleganten elfenbeinfarbenen Rosenrobe.
-
-#### 📝 Prompt
-
-```
-Optimierter 30s Video-Prompt — Musik ab Frame 1
-Ein atemberaubendes 30-sekündiges stereoskopisches 3D-Meisterwerk. Ultra-scharfe, ultra-feine Texturen, fotorealistische Haut und Stoffe, volumetrisches goldenes Licht, lebendige Tiefe.
-Verwenden Sie die hochgeladene Frau als exaktes Subjekt: ihr Gesicht, ihr lockiges, sonnenbeschienenes blondes Haar, die blassrosa und elfenbeinfarbene Rosenrobe mit dem hohen Schlitz, Kristall-High-Heels und die Gartenkulisse. Verändern Sie ihre Identität nicht.
-Audio (obligatorisch)
-Solo-Klavier beginnt direkt im ersten Frame und spielt ohne Unterbrechung bis zum letzten Frame. Intimes, romantisches, ätherisches Klavier. Keine Stimmen. Keine Texte. Kein verzögertes Intro.
-Geschichte, zeitlich abgestimmt
-0–5s
-Klavier spielt bereits. Extreme Schönheit, Nah- bis Halbtotale. Sie steht auf den sonnenbeschienenen Steinstufen, als würde der Garten selbst atmen. Warmes Gegenlicht lässt ihr Haar wie einen goldenen Heiligenschein erstrahlen. Ein Blütenblatt schwebt vor der Linse und zieht in echtem 3D vorbei.
-5–12s
-Sie macht einen einzelnen, langsamen, königlichen Schritt nach vorne. Die bestickte Schleppe fließt die Treppe hinunter. Tausende blassrosa und cremefarbene Blütenblätter heben sich von den Bögen ab und wirbeln in geschichtetem stereoskopischem Raum um sie herum – einige streifen die Kamera, andere fallen hinter ihre Schultern. Feiner Blütenstaub und Diamantstaub fangen jeden Lichtstrahl ein. Transparente Ärmel heben sich wie schwerelos.
-12–20s
-Die Kamera umkreist sie in einer butterweichen, traumhaften Gleitbewegung. Parallaxe bei Säulen, Rosen, Springbrunnennebel und schwebenden Blütenblättern. Lichtreflexe durch die Steinbögen. Einige Blütenblätter landen auf ihrem Schlüsselbein und dem Kristall-Mieder und heben sich dann wieder. Sie dreht ihr Gesicht in die Sonne. Ein leises, natürliches Lächeln. Die Robe funkelt wie nasse Seide und zerstoßene Perlen.
-20–30s
-Sie hält inne. Der Garten atmet aus. Blütenblätter verlangsamen sich zu einer schwebenden Konstellation um sie herum. Goldener Blütenstaub hängt in der Luft. Das Klavier endet mit einer langen, zarten Note, die genau auf dem letzten Frame liegt. Halten Sie das Tableau: feminin, romantisch, fast sakral. Ausblenden durch warmes florales Bokeh und schwebendes Licht.
-Look
-Ätherisches Luxus-Brautkino. Dekorativ, elegant, feminine Schönheit. Romantik ohne Kitsch. Realistische Hautporen und Stoffwebart, durch Magie gehoben: schwebende Blütenblätter, Blütenstaub, Lichtstaub und sanfte 3D-Bewegung über den Bildschirm.
-Kamera & Handwerk
-Vertikal 9:16. Kontinuierliche Aufnahme, wenn möglich ohne Schnitte. Langsamer Zoom + Orbit. Geringe Schärfentiefe, messerscharfer Fokus auf Gesicht und Robe. Stereoskopisches Meisterwerk, 3D-Texturen, scharfes Upscaling, ultra-feine Details.
-Nicht tun
-Ihr Gesicht oder Haar verändern. Personen hinzufügen. Sprache hinzufügen. Die Musik verzögern. Die Bewegung überstürzen. Die Haut übermäßig retuschieren.
-Lassen Sie es wie ein lebendiges Gemälde wirken, das vom ersten Frame an atmet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="Stereoskopische elegante Roben-Erzählung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10531)**
-
-**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2096924134231953625) | **Published:** Sep 7, 2026
-
----
-### Szene beim Abendessen kochen mit Charakteren
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Videogenerierung, der zwei Charaktere, Alice und Dani, beim Zubereiten des Abendessens in einer Küche unter Verwendung von Charakterreferenzen beschreibt.
-
-#### 📝 Prompt
-
-```
-Alice @Reference3 und Dani @Reference2 schneiden Gemüse auf der Arbeitsplatte und beginnen damit, das Abendessen als Elara zuzubereiten
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096824592191156224/img/NjV-g4oS7Kv66QV2.jpg" width="600" alt="Szene beim Abendessen kochen mit Charakteren">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10491)**
-
-**Author:** [Brandon Russo](https://x.com/Brandon40163292) | **Source:** [Link](https://x.com/Brandon40163292/status/2096825084254298173) | **Published:** Sep 7, 2026
-
----
-### Filmreife Figur auf gefrorenem Funkturm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Detaillierter, mehrschichtiger filmischer Prompt, der eine Aufnahme aus großer Höhe von einer astronautenähnlichen Figur beschreibt, die auf einem gefrorenen Funkturm über einer winterlichen Stadtlandschaft sitzt.
-
-#### 📝 Prompt
-
-```
-Filmreife Weitwinkelaufnahme einer Figur in einem cremefarbenen Fluganzug und Helm mit dunklem Visier, die auf der Kante eines verrosteten, vereisten Funkturms hoch über einer schneebedeckten Stadt sitzt; der Körper ist ruhig und aufrecht, die behandschuhten Hände ruhen auf dem Träger, schwere Eiszapfen hängen am Metallgitter, ein zugefrorener Fluss schlängelt sich weit unter den weißen Dächern, klarer blauer Winterhimmel, kaltes Sonnenlicht auf Stahl und Frost, fotorealistische Atmosphäre, Gefühl extremer Höhe, ultra-detaillierte Texturen von Stoff, Metall und Eis, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471558961471488/img/jMxNQMBfaKgIgM3k.jpg" width="600" alt="Filmreife Figur auf gefrorenem Funkturm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10479)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **Published:** Sep 7, 2026
-
----
-### Porsche Interieur-Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Transformations-Prompt, um ein Autointerieur durch einen Porsche 911 Turbo zu ersetzen und dabei das Chihuahua-Motiv beizubehalten.
-
-#### 📝 Prompt
-
-```
-Ersetze das gesamte Interieur und den Hintergrund des Nissan Sentra durch das luxuriöse, moderne Interieur eines roten Porsche 911 Turbo. Behalte den exakt gleichen weißen Chihuahua aus dem ersten Bild als Hauptmotiv bei: gleiche Pose, auf den Hinterbeinen auf dem Beifahrersitz stehend.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096776251444961280/img/SAsIOjxuqCLcDZU2.jpg" width="600" alt="Porsche Interieur-Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10538)**
-
-**Author:** [Eliot Sherr](https://x.com/Esherr9401) | **Source:** [Link](https://x.com/Esherr9401/status/2096776264967233577) | **Published:** Sep 7, 2026
-
----
-### Basketball-Dunk-Bewegung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Erzeugt ein Video einer Figur, die einen Basketball dribbelt und einen Dunk im Stil von Michael Jordan ausführt.
-
-#### 📝 Prompt
-
-```
-Lass sie den Basketball zum Korb dribbeln und einen Dunk im Stil von Michael Jordan am Ring ausführen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096773020664676354/img/NPyEHr-UVx-AvAGz.jpg" width="600" alt="Basketball-Dunk-Bewegung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10488)**
-
-**Author:** [Vdewey](https://x.com/Vdeweydo) | **Source:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2222,6 +2207,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-18T04:24:36.749Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-18T13:06:10.564Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2835** |
+| 📝 提示词总数 | **2845** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-18** |
 
@@ -189,6 +189,141 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 可乐曼妥思爆炸场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的多步骤视频提示词，描绘了一个基于物理原理的幽默场景，涉及一辆可乐油罐车、一辆曼妥思卡车和一个引发爆炸的大胡子男人。
+
+#### 📝 提示词
+
+```
+逼真的仪表盘视角，潮湿的高速公路，红色的可口可乐油罐车在蓝色曼妥思卡车旁喷涌液体。一个身材魁梧、留着大胡子的男人穿着橙色背心和短裤，用壶从泄漏处接水，豪饮后弄得一团糟，然后将整盒曼妥思倒入水坑中，引发巨大喷发，将他抛向空中。风格幽默，物理细节丰富，30 秒竖屏视频。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842567470292992/img/FuRk8KIp-5GviHnn.jpg" width="600" alt="可乐曼妥思爆炸场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11002)**
+
+**作者:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **来源:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **发布时间:** Sep 18, 2026
+
+---
+### 灰姑娘在中央公园
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频提示词，将灰姑娘置于现代纽约中央公园的场景中，描绘她步下马车的瞬间。
+
+#### 📝 提示词
+
+```
+灰姑娘身穿粉色礼服。她从白色马车中走出，身处当今美国纽约的中央公园。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100809364600672256/img/CPMTO-65Uono7is7.jpg" width="600" alt="灰姑娘在中央公园">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11001)**
+
+**作者:** [K. Massari](https://x.com/porcupine_touch) | **来源:** [Link](https://x.com/porcupine_touch/status/2100809392870359537) | **发布时间:** Sep 18, 2026
+
+---
+### 假抛竿钓鱼视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段视频提示词，描述模仿钓鱼的假抛竿动作、在假鱼咬钩时刺鱼以及收线的过程。
+
+#### 📝 提示词
+
+```
+模仿钓鱼的假抛竿动作，在假鱼咬钩时刺鱼，并收起假钓到的鱼……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100765658464083968/img/bopZrXUorKDqtzU0.jpg" width="600" alt="假抛竿钓鱼视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11003)**
+
+**作者:** [Yourenext1187🏴‍☠️](https://x.com/Spergburger) | **来源:** [Link](https://x.com/Spergburger/status/2100765685383098471) | **发布时间:** Sep 18, 2026
+
+---
+### 乐高巨龙守卫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于创建由互锁乐高积木拼搭而成的凶猛巨龙的提示词，该巨龙在月光下守护着一座乐高城堡。
+
+#### 📝 提示词
+
+```
+一条完全由互锁乐高积木拼搭而成的凶猛巨龙，采用深色和大胆的色彩——深红、午夜黑、皇家紫和电光蓝。巨龙矗立在一座拥有城垛和塔楼的巍峨乐高城堡前，双翼展开呈保护姿态。明亮的月光下的夜景，戏剧性的光影效果，光滑的塑料表面反射着光芒，营造出电影般的奇幻氛围，细节高度丰富。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739489576407040/img/6WYwjdDKFch9BQgG.jpg" width="600" alt="乐高巨龙守卫">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11005)**
+
+**作者:** [Sherice](https://x.com/Sherice0799) | **来源:** [Link](https://x.com/Sherice0799/status/2100739588712956331) | **发布时间:** Sep 18, 2026
+
+---
+### Bud Light Kid Rock 恶搞视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个幽默的视频提示，重现了 Bud Light 与 Kid Rock 合作的广告经典瞬间，但将产品替换为 Tillamook 奶酪。
+
+#### 📝 提示词
+
+```
+Bud Light 与 Kid Rock 合作的那个扔罐子的经典镜头，但换成 Tillamook 奶酪
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739335007993856/img/rNPqWIPCJDNmwYeT.jpg" width="600" alt="Bud Light Kid Rock 恶搞视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10999)**
+
+**作者:** [Anita Evans](https://x.com/AnitaEvans2911) | **来源:** [Link](https://x.com/AnitaEvans2911/status/2100739348874350832) | **发布时间:** Sep 18, 2026
+
+---
+### 清真寺前的电影感骑马者
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，描述了当马匹和骑手接近清真寺时，镜头缓慢向前推进的电影感画面，背景为金色沙地和闪烁的星光。
+
+#### 📝 提示词
+
+```
+马匹和骑手缓缓走向清真寺。长袍和马鬃在微风中轻轻飘动。金色的沙尘柔和地飘散，云层缓慢移动，星光闪烁，光线熠熠生辉。镜头以电影般的节奏缓慢向前推进。保持清真寺及整体构图不变。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100702402546372608/img/GqhyoZOndtvUtg05.jpg" width="600" alt="清真寺前的电影感骑马者">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11000)**
+
+**作者:** [Dame](https://x.com/Damesall313) | **来源:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **发布时间:** Sep 17, 2026
+
+---
+### Grok Imagine 提示词：西伯利亚虎野生动物摄影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成西伯利亚虎在自然环境中逼真野生动物摄影的提示词，利用浅景深和冷色调光线营造未摆拍、纪实风格的美学效果。
+
+#### 📝 提示词
+
+```
+艺术风格：逼真的野生动物摄影，浅景深，自然的冷色调光线，微妙的胶片颗粒感，真实且未摆拍，无美化修饰。
+
+内容：一只正在行走的西伯利亚虎
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100468661995921408/img/yrSMe_OEtDZDdjw0.jpg" width="600" alt="Grok Imagine 提示词：西伯利亚虎野生动物摄影">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11004)**
+
+**作者:** [David Liang](https://x.com/DavidLi36143625) | **来源:** [Link](https://x.com/DavidLi36143625/status/2100469282497032283) | **发布时间:** Sep 17, 2026
+
+---
 ### 女子将地球抛入太阳
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -900,6 +1035,26 @@ Falcon 9 发射期间的集体狂喜：当震耳欲聋的轰鸣声最终席卷�
 **作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **来源:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **发布时间:** Sep 11, 2026
 
 ---
+### 火星绿洲机器人视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 视频展示了火星上的绿洲，穹顶内灯光闪烁，机器人正在构建生命。
+
+#### 📝 提示词
+
+```
+大家周五晚上好。
+今晚分享一个简短的片段——火星上的绿洲，穹顶内的灯光，以及正在构建生命的机器人。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098477462200147968/img/Njx6sAHlUy-55dbB.jpg" width="600" alt="火星绿洲机器人视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11008)**
+
+**作者:** [Ninoki](https://x.com/Ninoki111) | **来源:** [Link](https://x.com/Ninoki111/status/2098477739753803836) | **发布时间:** Sep 11, 2026
+
+---
 ### 历史悠久的波兰教堂致敬视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -917,6 +1072,27 @@ Falcon 9 发射期间的集体狂喜：当震耳欲聋的轰鸣声最终席卷�
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10798)**
 
 **作者:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **来源:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **发布时间:** Sep 11, 2026
+
+---
+### 达·芬奇的飞行梦
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 视频第一部分，讲述人类对飞行的梦想以及列奥纳多·达·芬奇的故事，由 Grok Imagine 生成。
+
+#### 📝 提示词
+
+```
+第一部分：飞翔之梦 | 0–15 秒
+
+从仰望鸟儿翱翔到构想飞行器，人类的飞行梦想始于一个愿景。列奥纳多·达·芬奇帮助将这个梦想转化为具体的理念。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098370904942313473/img/rfo920ZzO_nbDXd9.jpg" width="600" alt="达·芬奇的飞行梦">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11006)**
+
+**作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **来源:** [Link](https://x.com/ItsEthanRay/status/2098396641602740528) | **发布时间:** Sep 11, 2026
 
 ---
 ### 逼真的吃面动作序列
@@ -948,6 +1124,27 @@ Falcon 9 发射期间的集体狂喜：当震耳欲聋的轰鸣声最终席卷�
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10797)**
 
 **作者:** [AI_Courier](https://x.com/arc_courier) | **来源:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **发布时间:** Sep 11, 2026
+
+---
+### 纽约不夜城视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 展示夜幕降临后灯火辉煌的纽约天际线的视频片段。
+
+#### 📝 提示词
+
+```
+第 4 部分（45–60 秒）：不夜之城
+
+夜幕下的纽约——天际线比繁星更加璀璨。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098360939825532928/img/kt9lSCEFM_180S6i.jpg" width="600" alt="纽约不夜城视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11007)**
+
+**作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **来源:** [Link](https://x.com/ItsEthanRay/status/2098361333574181177) | **发布时间:** Sep 11, 2026
 
 ---
 ### 克林姆特风格科幻骑士
@@ -1949,218 +2146,6 @@ Tesla 的机器人 Optimus 在向 Elon 告别后，骑上这辆摩托车并从�
 **作者:** [Sahil Verma](https://x.com/sahilvermaai) | **来源:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **发布时间:** Sep 7, 2026
 
 ---
-### 旋转花束缩放
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频动态提示词，可对一簇褶皱花朵进行平滑缩放和垂直旋转。
-
-#### 📝 提示词
-
-```
-保持完全相同的混合媒介花束图像。在顶部白色和灰色褶皱花朵的密集簇群上缓慢放大，同时整束花围绕其垂直轴轻轻旋转。平滑、连续的动态，绘画风格。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097045100371279872/img/_CVJO0RbC8voKFu0.jpg" width="600" alt="旋转花束缩放">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10539)**
-
-**作者:** [Ember Art](https://x.com/Ember8184Art) | **来源:** [Link](https://x.com/Ember8184Art/status/2097045135708074171) | **发布时间:** Sep 7, 2026
-
----
-### 高级绿色城市景观视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 通过添加树木和草地等郁郁葱葱的植被，将未来派城市景观转化为具有高级生态美感的场景。
-
-#### 📝 提示词
-
-```
-我想把典型的未来派城市景观图片添加一些绿色植物。让它看起来非常高级，并增加大量的树木和草地。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097030058531581952/img/lpcCKU1Ety68woVy.jpg" width="600" alt="高级绿色城市景观视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10532)**
-
-**作者:** [GeoDev](https://x.com/GeoDev1962) | **来源:** [Link](https://x.com/GeoDev1962/status/2097030074939670594) | **发布时间:** Sep 7, 2026
-
----
-### 火星太空营地电影感漫步
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的科幻电影感视频续写提示词，追踪一名女性在火星外星太空营地中行走的画面。
-
-#### 📝 提示词
-
-```
-转换场景，使该女性在火星的太空营地中向前行走，全身可见。她穿着同样的深蓝色现代宇航服，带有金属蓝和银色的细节，与蓝色发光装饰完美匹配……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096994780165124096/img/9lZYbxJqQG2g-YSn.jpg" width="600" alt="火星太空营地电影感漫步">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10530)**
-
-**作者:** [Mimi9060](https://x.com/MelodyM662010) | **来源:** [Link](https://x.com/MelodyM662010/status/2096994806459256874) | **发布时间:** Sep 7, 2026
-
----
-### 高级时装大片短片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段 15 秒的高级时装短片提示词，旨在极简摄影棚场景中保持特定角色的外观一致性。
-
-#### 📝 提示词
-
-```
-制作一段 15 秒的高级时装大片短片，由成年角色担任主角。请保留其确切的外观、服装、配饰和视觉风格。以参考图的美学风格渲染整部影片。
-
-使用带有反光地面的极简摄影棚，...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096966883404812289/img/mZrPulPlds6nc1z8.jpg" width="600" alt="高级时装大片短片">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10533)**
-
-**作者:** [Eileen_Xie](https://x.com/eileen_XL) | **来源:** [Link](https://x.com/eileen_XL/status/2096966914136560022) | **发布时间:** Sep 7, 2026
-
----
-### 周日早晨美学风格重塑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 将照片重塑为温暖、朦胧的周日早晨美学风格，呈现金色阳光与复古色调。
-
-#### 📝 提示词
-
-```
-将此照片重塑为梦幻般的周日早晨美学风格。柔和、朦胧且温暖的金色晨光轻柔地洒在场景上，带有轻微的空气感雾气和柔和的漫射光。温暖的复古色调，融合了柔和的黄色与淡淡的绿色……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096955733229395968/img/5H31ebTBYn9VxiUj.jpg" width="600" alt="周日早晨美学风格重塑">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10535)**
-
-**作者:** [stan gralla](https://x.com/GrallaStan) | **来源:** [Link](https://x.com/GrallaStan/status/2096955746608927063) | **发布时间:** Sep 7, 2026
-
----
-### 立体优雅礼服叙事
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个明确的、时长 30 秒的立体 3D 摄像机时间轴提示词，用于拍摄一位身着优雅象牙色玫瑰礼服女性的连续镜头。
-
-#### 📝 提示词
-
-```
-优化后的 30 秒视频提示词 — 从第 1 帧开始播放音乐
-一部令人叹为观止的 30 秒立体 3D 电影级杰作。超清晰、超细腻的质感，照片级真实的皮肤与织物，体积感金光，栩栩如生的深度。
-使用上传的女性作为确切主体：她的面部、阳光下卷曲的金发、带有高开叉的淡粉色与象牙色玫瑰礼服、水晶高跟鞋以及花园背景。请勿更改她的身份。
-音频（必选）
-独奏钢琴从第一帧开始播放，并持续不间断至最后一帧。仅限私密、浪漫、空灵的钢琴曲。无人声。无歌词。无延迟开场。
-故事，按时间轴划分
-0–5 秒
-钢琴已在播放。极具美感的近景到中景。她站在阳光明媚的石阶上，仿佛花园本身在呼吸。温暖的逆光将她的头发点亮成金色光环。一片花瓣悬浮在镜头前，随后以真实的 3D 效果飘过。
-5–12 秒
-她迈出优雅缓慢的一步。刺绣裙摆顺着台阶倾泻而下。成千上万片淡粉色和奶油色的花瓣从拱门升起，在分层的立体空间中围绕她旋转——有的擦过镜头，有的落在她肩后。细微的花粉和钻石粉尘捕捉着每一缕光线。轻薄的袖子仿佛失重般飘起。
-12–20 秒
-摄像机以丝滑、梦幻般的方式绕她旋转。柱子、玫瑰、喷泉水雾和漂浮花瓣产生视差。光线穿过石拱门产生光晕。几片花瓣落在她的锁骨和水晶胸衣上，随后又再次飘起。她将脸转向太阳。一个安静、自然的微笑。礼服闪烁着如湿润丝绸和碎珍珠般的光泽。
-20–30 秒
-她静止不动。花园仿佛在呼气。花瓣减速，在她周围形成漂浮的星群。金色花粉悬浮在空中。钢琴在最后一帧以一个悠长、温柔的尾音结束。保持画面：女性化、浪漫、近乎神圣。在温暖的花卉虚化和漂浮的光影中淡出。
-视觉风格
-空灵奢华的婚纱电影感。装饰性、优雅、女性化的美感。浪漫而不俗气。真实的皮肤毛孔和织物纹理，辅以魔法般的元素：漂浮的花瓣、花粉、光尘以及屏幕上轻柔的 3D 运动。
-摄像与制作
-竖屏 9:16。连续镜头，尽可能不剪辑。缓慢推进 + 环绕。浅景深，焦点精准对准面部和礼服。立体杰作，3D 质感，锐化升级，超精细细节。
-禁止事项
-更改她的面部或发型。添加人物。添加语音。延迟音乐。加快动作。过度修饰皮肤。
-使其感觉像一幅从第一帧就开始呼吸的动态油画。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="立体优雅礼服叙事">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10531)**
-
-**作者:** [Pam Westmore](https://x.com/PamWestmor85243) | **来源:** [Link](https://x.com/PamWestmor85243/status/2096924134231953625) | **发布时间:** Sep 7, 2026
-
----
-### 角色晚餐烹饪场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频生成提示词，描述了 Alice 和 Dani 在厨房准备晚餐的场景，并利用了角色参考。
-
-#### 📝 提示词
-
-```
-Alice @Reference3 和 Dani @Reference2 正在台面上切菜，并开始像 Elara 一样准备晚餐
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096824592191156224/img/NjV-g4oS7Kv66QV2.jpg" width="600" alt="角色晚餐烹饪场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10491)**
-
-**作者:** [Brandon Russo](https://x.com/Brandon40163292) | **来源:** [Link](https://x.com/Brandon40163292/status/2096825084254298173) | **发布时间:** Sep 7, 2026
-
----
-### 电影感冰封塔楼人物
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 详细的多层级电影感提示词，描述了一个宇航员形象的人物坐在冰封无线电塔上，俯瞰下方冬季城市景观的高空镜头。
-
-#### 📝 提示词
-
-```
-电影感广角镜头，一位身穿米色飞行服、戴着深色面罩头盔的人物，坐在高耸于积雪城市之上的生锈冰封无线电塔边缘，身体静止挺拔，戴着手套的双手放在横梁上，金属格栅上悬挂着厚重的冰柱，冰封的河流在下方白色的屋顶间蜿蜒，清澈的蓝色冬日天空，冷冽的阳光照在钢铁与冰霜上，照片级真实氛围，极高空带来的尺度感，超细腻的织物、金属和冰层纹理，Grok Imagine。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471558961471488/img/jMxNQMBfaKgIgM3k.jpg" width="600" alt="电影感冰封塔楼人物">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10479)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **发布时间:** Sep 7, 2026
-
----
-### 保时捷内饰变换
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频变换提示词，用于将汽车内饰替换为保时捷 911 Turbo，同时保持吉娃娃主体的一致性。
-
-#### 📝 提示词
-
-```
-将整辆 Nissan Sentra 的汽车内饰和背景替换为豪华现代的红色保时捷 911 Turbo 内饰。保持与第一张图片中完全相同的白色吉娃娃作为主体：保持其后腿站立在副驾驶座椅上的姿势。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096776251444961280/img/SAsIOjxuqCLcDZU2.jpg" width="600" alt="保时捷内饰变换">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10538)**
-
-**作者:** [Eliot Sherr](https://x.com/Esherr9401) | **来源:** [Link](https://x.com/Esherr9401/status/2096776264967233577) | **发布时间:** Sep 7, 2026
-
----
-### 篮球扣篮动作
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段角色运球并完成迈克尔·乔丹式扣篮的视频。
-
-#### 📝 提示词
-
-```
-让她运球走向篮筐，并完成一个迈克尔·乔丹式的扣篮动作
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096773020664676354/img/NPyEHr-UVx-AvAGz.jpg" width="600" alt="篮球扣篮动作">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10488)**
-
-**作者:** [Vdewey](https://x.com/Vdeweydo) | **来源:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **发布时间:** Sep 7, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2222,6 +2207,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-18T04:24:25.633Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-18T13:05:55.491Z</sub>
 
 </div>

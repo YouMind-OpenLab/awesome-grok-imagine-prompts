@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2835** |
+| 📝 Total Prompts | **2845** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-18** |
 
@@ -189,6 +189,141 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Coke Mentos Explosion Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed multi-step video prompt depicting a humorous physics-based scene involving a Coke tanker, Mentos truck, and a bearded man causing an explosion.
+
+#### 📝 Prompt
+
+```
+Realistic dashboard POV, wet highway, red Coca-Cola tanker gushing liquid next to blue Mentos truck. Heavyset bearded man in orange tank top and shorts fills jug from spill, chugs messily, dumps Mentos boxes into puddle triggering giant eruption that launches him into air. Humorous, detailed physics, 30s vertical.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842567470292992/img/FuRk8KIp-5GviHnn.jpg" width="600" alt="Coke Mentos Explosion Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11002)**
+
+**Author:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **Source:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **Published:** Sep 18, 2026
+
+---
+### Cinderella in Central Park
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt placing Cinderella in a modern-day Central Park setting as she steps out of her carriage.
+
+#### 📝 Prompt
+
+```
+Cinderella is wearing a pink gown. She steps out of her white horse-drawn carriage and she's in Central Park, New York USA in an America of today.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100809364600672256/img/CPMTO-65Uono7is7.jpg" width="600" alt="Cinderella in Central Park">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11001)**
+
+**Author:** [K. Massari](https://x.com/porcupine_touch) | **Source:** [Link](https://x.com/porcupine_touch/status/2100809392870359537) | **Published:** Sep 18, 2026
+
+---
+### Fake Fishing Cast Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt describing a fake cast like fishing, setting the hook on a fake fish bite, and reeling it in.
+
+#### 📝 Prompt
+
+```
+Fake cast like fishing, setting the hook on fake fish bite, reel in fake caught fish....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100765658464083968/img/bopZrXUorKDqtzU0.jpg" width="600" alt="Fake Fishing Cast Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11003)**
+
+**Author:** [Yourenext1187🏴‍☠️](https://x.com/Spergburger) | **Source:** [Link](https://x.com/Spergburger/status/2100765685383098471) | **Published:** Sep 18, 2026
+
+---
+### Lego Dragon Standing Guard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating a fierce dragon built entirely from interlocking Lego bricks standing guard in front of a Lego castle under moonlight.
+
+#### 📝 Prompt
+
+```
+A fierce dragon built entirely from interlocking Lego bricks in dark and bold colors—deep crimson, midnight black, royal purple, and electric blue. The dragon stands guard in front of a towering Lego castle with battlements and turrets, its wings spread protectively. Night scene under bright moonlight, dramatic lighting, glossy plastic surfaces catching the glow, cinematic fantasy atmosphere, highly detailed.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739489576407040/img/6WYwjdDKFch9BQgG.jpg" width="600" alt="Lego Dragon Standing Guard">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11005)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2100739588712956331) | **Published:** Sep 18, 2026
+
+---
+### Bud Light Kid Rock Parody
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A humorous video prompt recreating a Bud Light commercial moment with Kid Rock but substituting Tillamook cheese.
+
+#### 📝 Prompt
+
+```
+A bud light with kid rock where he shoots the cans moment but with tillamook cheese
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100739335007993856/img/rNPqWIPCJDNmwYeT.jpg" width="600" alt="Bud Light Kid Rock Parody">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10999)**
+
+**Author:** [Anita Evans](https://x.com/AnitaEvans2911) | **Source:** [Link](https://x.com/AnitaEvans2911/status/2100739348874350832) | **Published:** Sep 18, 2026
+
+---
+### Cinematic Horse Rider at Mosque
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt describing a slow cinematic camera push forward as a horse and rider approach a mosque with golden sand and shimmering stars.
+
+#### 📝 Prompt
+
+```
+The horse and rider walk slowly toward the mosque. The robe and horse’s mane move gently in the wind. Golden sand drifts softly, clouds move slowly, stars shimmer and light rays glow. Slow cinematic camera push forward. Preserve the mosque and composition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100702402546372608/img/GqhyoZOndtvUtg05.jpg" width="600" alt="Cinematic Horse Rider at Mosque">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11000)**
+
+**Author:** [Dame](https://x.com/Damesall313) | **Source:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **Published:** Sep 17, 2026
+
+---
+### Grok Imagine Prompt: Siberian Tiger Wildlife Photography
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating photorealistic wildlife photography of a Siberian tiger in a natural setting, utilizing shallow depth of field and cold lighting to achieve an unposed, documentary aesthetic.
+
+#### 📝 Prompt
+
+```
+Art Style: Photorealistic wildlife photography, shallow depth of field, natural cold lighting, subtle film grain, honest and unposed, no glamorization.
+
+Content: A Siberian tiger walking
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100468661995921408/img/yrSMe_OEtDZDdjw0.jpg" width="600" alt="Grok Imagine Prompt: Siberian Tiger Wildlife Photography">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11004)**
+
+**Author:** [David Liang](https://x.com/DavidLi36143625) | **Source:** [Link](https://x.com/DavidLi36143625/status/2100469282497032283) | **Published:** Sep 17, 2026
+
+---
 ### Woman Throwing World into Sun
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -575,11 +710,11 @@ A young woman with long, flowing black hair adorned with a large red bow, wearin
 **Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2099327424630513961) | **Published:** Sep 14, 2026
 
 ---
-### Cinematic black-and-white woman video prompt
+### Cinematic Black-and-White Night City Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Prompt for a cinematic black-and-white video of a young woman in the city with motion blur effects.
+> A detailed prompt for generating a black-and-white cinematic video featuring a young woman in a city at night, utilizing long exposure and motion blur effects.
 
 #### 📝 Prompt
 
@@ -587,7 +722,7 @@ A young woman with long, flowing black hair adorned with a large red bow, wearin
 A black-and-white cinematic video of a young woman at night in the city, shot with a long exposure and intentional motion blur. She is in the foreground, slightly off-center, turning her head mid-motion so that her long hair flicks across the...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099280377559080960/img/W0AxOb_aVlOH9frT.jpg" width="600" alt="Cinematic black-and-white woman video prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099280377559080960/img/W0AxOb_aVlOH9frT.jpg" width="600" alt="Cinematic Black-and-White Night City Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10977)**
 
@@ -746,20 +881,19 @@ The woman stands up fully from among the barbed wire, then gracefully walks forw
 **Author:** [Barbara 💕🕊️🌎](https://x.com/BarbaraCbroker1) | **Source:** [Link](https://x.com/BarbaraCbroker1/status/2098898374229680514) | **Published:** Sep 12, 2026
 
 ---
-### Sci-fi flying city sequence prompt for Grok Imagine
+### Sci-Fi Flying City Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for generating a sci-fi sequence featuring a flying city-ship, engines, and space travel.
+> A detailed prompt for generating a 10-second vertical cinematic sci-fi sequence featuring a flying city-ship.
 
 #### 📝 Prompt
 
 ```
-10-second vertical cinematic sci-fi sequence: begin with a colossal futuristic flying city-ship above the clouds at sunrise, transition through close-ups of glowing propulsion engines, autonomous traffic and towering skyscrapers, then reveal a human silhouette overlooking the city before the massive vessel accelerates from Earth toward deep space. Finish with the ship flying among stars and planets, using dramatic camera movement, photorealistic details, volumetric lighting, realistic reflections, powerful engine glow, deep cinematic sound design, and the final text: 
-“THE FUTURE IS REAL — NEXT LEVEL SCI-FI.”
+10-second vertical cinematic sci-fi sequence: begin with a colossal futuristic flying city-ship above the clouds at sunrise, transition through close-ups of glowing propulsion engines, autonomous traffic and towering skyscrapers, then reveal a human silhouette overlooking the city before the massive vessel accelerates from Earth toward deep space. Finish with the ship flying among stars and planets, using dramatic camera movement, photorealistic details, volumetric lighting, realistic reflections, powerful engine glow, deep cinematic sound design, and the final text: “THE FUTURE IS REAL — NEXT LEVEL SCI-FI.”
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="Sci-fi flying city sequence prompt for Grok Imagine">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098743153834815488/img/4CFRkXpoLIHXBsAE.jpg" width="600" alt="Sci-Fi Flying City Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10819)**
 
@@ -900,6 +1034,26 @@ A mother ant is towing her cart of food with her son in tow. It starts rain, so 
 **Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
 
 ---
+### Oasis on Mars Robots Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video depicting an oasis on Mars with lights in domes and robots building life.
+
+#### 📝 Prompt
+
+```
+Have a good Friday evening, everyone.
+Just a short glimpse tonight - an oasis on Mars, lights in the domes, robots building life.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098477462200147968/img/Njx6sAHlUy-55dbB.jpg" width="600" alt="Oasis on Mars Robots Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11008)**
+
+**Author:** [Ninoki](https://x.com/Ninoki111) | **Source:** [Link](https://x.com/Ninoki111/status/2098477739753803836) | **Published:** Sep 11, 2026
+
+---
 ### Historic Polish Church Tribute Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -917,6 +1071,27 @@ Tribute to sacred Hearts of Jesus and Mary Church, Scranton Pennsylvania, circa 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
 
 **Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
+
+---
+### Dream of Flying Leonardo da Vinci
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video part 1 describing humanity's dream of flight and Leonardo da Vinci, generated with Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Part 1: The Dream of Flying | 0–15s
+
+From watching birds soar to imagining flying machines humanity’s dream of flight began with a vision. Leonardo da Vinci helped turn that dream into an idea.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098370904942313473/img/rfo920ZzO_nbDXd9.jpg" width="600" alt="Dream of Flying Leonardo da Vinci">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11006)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098396641602740528) | **Published:** Sep 11, 2026
 
 ---
 ### Realistic Noodle Eating Sequence
@@ -948,6 +1123,27 @@ Keep all movements continuous and physically realistic. Preserve the exact perso
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
 
 **Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
+
+---
+### NYC City That Never Sleeps Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video segment describing New York City after dark with a shining skyline.
+
+#### 📝 Prompt
+
+```
+Part 4 (45–60s): The City That Never Sleeps
+
+New York City after dark—where the skyline shines brighter than the stars.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098360939825532928/img/kt9lSCEFM_180S6i.jpg" width="600" alt="NYC City That Never Sleeps Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11007)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098361333574181177) | **Published:** Sep 11, 2026
 
 ---
 ### Klimt Style Sci-Fi Knight
@@ -1933,217 +2129,6 @@ Transform this Martian habitat scene into a deep night version. Change the dusty
 **Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **Published:** Sep 7, 2026
 
 ---
-### Rotating Flower Bouquet Zoom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A motion prompt for video that creates a smooth zoom and vertical rotation on a cluster of ruffled flowers.
-
-#### 📝 Prompt
-
-```
-Keep the exact same mixed-media flower bouquet image. Slowly zoom in closer on the dense cluster of white and gray ruffled flowers at the top while the whole bouquet gently rotates on its vertical axis. Smooth, continuous motion, painterly style pres
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097045100371279872/img/_CVJO0RbC8voKFu0.jpg" width="600" alt="Rotating Flower Bouquet Zoom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10539)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2097045135708074171) | **Published:** Sep 7, 2026
-
----
-### Advanced Greenery Cityscape Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Transforms a futuristic cityscape by adding lush greenery like trees and grass for an advanced eco-aesthetic.
-
-#### 📝 Prompt
-
-```
-I want to take the typical futuristic cityscape image and add some greenery. Make it look super advanced with lots of trees and grass.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097030058531581952/img/lpcCKU1Ety68woVy.jpg" width="600" alt="Advanced Greenery Cityscape Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10532)**
-
-**Author:** [GeoDev](https://x.com/GeoDev1962) | **Source:** [Link](https://x.com/GeoDev1962/status/2097030074939670594) | **Published:** Sep 7, 2026
-
----
-### Mars Space Camp Cinematic Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex sci-fi cinematic video continuation prompt tracking a woman walking through an extra-terrestrial space camp.
-
-#### 📝 Prompt
-
-```
-Transform the scene so the woman is walking forward through her space camp on Mars, full body visible. She wears the same sleek deep blue modern astronaut spacesuit with metallic blue and silver details that perfectly match the blue glowing accents o...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096994780165124096/img/9lZYbxJqQG2g-YSn.jpg" width="600" alt="Mars Space Camp Cinematic Walk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10530)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2096994806459256874) | **Published:** Sep 7, 2026
-
----
-### High-Fashion Editorial Film
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a 15-second high-fashion film preserving a specific character's appearance in a minimal studio setting.
-
-#### 📝 Prompt
-
-```
-Create a 15-second high-fashion editorial film starring the adult character in Preserve their exact appearance, outfit, accessories and visual style. Render the entire film in the reference’s aesthetic.
-
-Use a minimal studio with a reflective floor,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096966883404812289/img/mZrPulPlds6nc1z8.jpg" width="600" alt="High-Fashion Editorial Film">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10533)**
-
-**Author:** [Eileen_Xie](https://x.com/eileen_XL) | **Source:** [Link](https://x.com/eileen_XL/status/2096966914136560022) | **Published:** Sep 7, 2026
-
----
-### Sunday Morning Aesthetic Restyle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Restyles a photo into a warm, hazy Sunday morning aesthetic with golden sunlight and vintage grading.
-
-#### 📝 Prompt
-
-```
-Restyle this photo into a dreamy Sunday Morning aesthetic. Soft, hazy, warm golden mid-morning sunlight pouring gently over the scene with a slight atmospheric haze and soft diffused glow. Warm vintage color grading with gentle yellows and soft green...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096955733229395968/img/5H31ebTBYn9VxiUj.jpg" width="600" alt="Sunday Morning Aesthetic Restyle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10535)**
-
-**Author:** [stan gralla](https://x.com/GrallaStan) | **Source:** [Link](https://x.com/GrallaStan/status/2096955746608927063) | **Published:** Sep 7, 2026
-
----
-### 30-Second Stereoscopic 3D Cinematic Bridal Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive video prompt for Grok Imagine to generate a photorealistic 3D cinematic scene of a woman in a garden, featuring specific camera orbits, timed petal movements, and a synchronized piano soundtrack.
-
-#### 📝 Prompt
-
-```
-A breathtaking 30-second stereoscopic 3D cinematic masterpiece. Ultra-sharp, ultra-fine textures, photoreal skin and fabric, volumetric golden light, living depth.
-Use the uploaded woman as the exact subject: her face, her curly sunlit blonde hair, the blush-pink and ivory rose gown with the high slit, crystal heels, and garden setting. Do not change her identity.
-Audio (mandatory)
-Solo piano begins on the very first frame and continues without interruption to the last frame. Intimate, romantic, ethereal piano only. No voices. No lyrics. No delayed intro.
-Story, timed
-0–5s
-Piano already playing. Extreme beauty close-to-medium open. She stands on the sunlit stone steps as if the garden itself is breathing. Warm backlight ignites her hair into a golden halo. One petal hangs in the air in front of the lens, then drifts past in true 3D.
-5–12s
-She takes a single, slow, regal step forward. The embroidered train pours down the stairs. Thousands of pale pink and cream petals lift from the arches and swirl around her in layered stereoscopic space — some graze the camera, some fall behind her shoulders. Fine pollen and diamond dust catch every ray of light. Sheer sleeves lift as if weightless.
-12–20s
-Camera orbits her in a buttery, dreamlike glide. Parallax on columns, roses, fountain mist, and floating petals. Light flares through the stone arches. A few petals land on her collarbone and the crystal bodice, then lift again. She turns her face into the sun. A quiet, natural smile. The gown sparkles like wet silk and crushed pearls.
-20–30s
-She stills. The garden exhales. Petals slow into a floating constellation around her. Golden pollen hangs in the air. The piano resolves on a long, tender final note that lands on the last frame. Hold the tableau: feminine, romantic, almost sacred. Fade through warm floral bokeh and drifting light.
-Look
-Ethereal luxury bridal cinema. Decorative, elegant, feminine beauty. Romance without kitsch. Realistic skin pores and fabric weave, lifted by magic: floating petals, pollen, light-dust, and gentle 3D motion across the screen.
-Camera & craft
-Vertical 9:16. Continuous shot, no cuts if possible. Slow push + orbit. Shallow depth of field, razor focus on face and gown. Stereoscopic masterpiece, 3D textures, sharp upscale, ultra-fine detail.
-Do not
-Change her face or hair. Add people. Add speech. Delay the music. Rush the movement. Over-retouch the skin.
-Make it feel like a living painting that breathes from the first frame.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096924103727046656/img/6UtRs6aVrzqwwRgp.jpg" width="600" alt="30-Second Stereoscopic 3D Cinematic Bridal Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10531)**
-
-**Author:** [Pam Westmore](https://x.com/PamWestmor85243) | **Source:** [Link](https://x.com/PamWestmor85243/status/2096924134231953625) | **Published:** Sep 7, 2026
-
----
-### Cooking Dinner Scene with Characters
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt describing two characters, Alice and Dani, preparing dinner in a kitchen setting while utilizing character references.
-
-#### 📝 Prompt
-
-```
-Alice @Reference3 and Dani @Reference2 and chopping up vegetables on the counter and starting to make dinner as Elara
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096824592191156224/img/NjV-g4oS7Kv66QV2.jpg" width="600" alt="Cooking Dinner Scene with Characters">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10491)**
-
-**Author:** [Brandon Russo](https://x.com/Brandon40163292) | **Source:** [Link](https://x.com/Brandon40163292/status/2096825084254298173) | **Published:** Sep 7, 2026
-
----
-### Frozen Radio Tower Winter Cinematic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt describing an atmospheric wide shot of a winter skyline viewed from an icy transmission tower.
-
-#### 📝 Prompt
-
-```
-Cinematic wide shot of a figure in a cream flight suit and dark visor helmet sitting on the edge of a rusted icy radio tower high above a snow-covered city, body still and upright, gloved hands resting on the beam, heavy icicles hanging from metal lattice, frozen river winding through white rooftops far below, clear blue winter sky, cold sunlight on steel and frost, photorealistic atmosphere, extreme height sense of scale, ultra-detailed fabric, metal, and ice texture, Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096471558961471488/img/jMxNQMBfaKgIgM3k.jpg" width="600" alt="Frozen Radio Tower Winter Cinematic">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10479)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2096788041809703007) | **Published:** Sep 7, 2026
-
----
-### Porsche Interior Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video transformation prompt to replace a car interior with a Porsche 911 Turbo while keeping a Chihuahua subject consistent.
-
-#### 📝 Prompt
-
-```
-Replace the entire Nissan Sentra car interior and background with a luxurious modern red Porsche 911 Turbo interior. Keep the exact same white Chihuahua dog as the main subject from the first image: same pose standing on hind legs on the passenger se
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096776251444961280/img/SAsIOjxuqCLcDZU2.jpg" width="600" alt="Porsche Interior Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10538)**
-
-**Author:** [Eliot Sherr](https://x.com/Esherr9401) | **Source:** [Link](https://x.com/Esherr9401/status/2096776264967233577) | **Published:** Sep 7, 2026
-
----
-### Basketball Jordan Dunk Action
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt instructing a model to animate a female basketball player executing a Michael Jordan style dunk.
-
-#### 📝 Prompt
-
-```
-Have her dribble the basketball the goal and do a Micheal Jordan dunk on the rim
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096773020664676354/img/NPyEHr-UVx-AvAGz.jpg" width="600" alt="Basketball Jordan Dunk Action">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10488)**
-
-**Author:** [Vdewey](https://x.com/Vdeweydo) | **Source:** [Link](https://x.com/Vdeweydo/status/2096773062842589536) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2205,6 +2190,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-18T04:24:24.274Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-18T13:05:54.314Z</sub>
 
 </div>
