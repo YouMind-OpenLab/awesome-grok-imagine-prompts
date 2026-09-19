@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2845** |
+| 📝 Total Prompts | **2857** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-19** |
 
@@ -189,6 +189,198 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Thử thách Bay Lượn: Low Rider vs Tesla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo chuỗi video cạnh tranh, nơi chiếc Chevy low rider cổ điển bật nhảy cao ba feet nhờ hệ thống giảm xóc khí nén, tiếp theo là chiếc Tesla Roadster màu đỏ mới phóng lên cao mười feet với các tia khí và lơ lửng trong năm giây.
+
+#### 📝 Prompt
+
+```
+Tạo một video về chiếc xe Chevy low rider cũ bật nhảy cao 3 ft bằng giảm xóc khí nén, sau đó là chiếc Tesla Roadster màu đỏ mới với các tia khí phóng lên cao 10 ft và lơ lửng trong 5 giây trước khi hạ cánh chậm rãi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="Thử thách Bay Lượn: Low Rider vs Tesla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11042)**
+
+**Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
+
+---
+### Trận Chiến Giữa Người Cua và Samurai Bạch Tuộc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video hành động ngắn mô tả cuộc chiến phong cách samurai giữa người cua và người bạch tuộc trên bãi biển.
+
+#### 📝 Prompt
+
+```
+tạo một video ngắn về trận chiến giữa người cua và người bạch tuộc trên bãi biển theo phong cách samurai
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="Trận Chiến Giữa Người Cua và Samurai Bạch Tuộc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11040)**
+
+**Author:** [Wheez Keepee](https://x.com/Whizkeepee) | **Source:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **Published:** Sep 19, 2026
+
+---
+### Thiệp Sinh Nhật Trên Hộp Nhạc
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một prompt cho cảnh video nơi thiệp sinh nhật đặt trên hộp nhạc trong khi ai đó hát bài chúc mừng sinh nhật.
+
+#### 📝 Prompt
+
+```
+Một cảnh quay theo phong cách video kỷ niệm bằng cách cất tiếng hát 'chúc mừng sinh nhật', với tấm thiệp Happy Birthday chứa đựng những lời chúc về tình yêu, sự tin tưởng, ước mơ và hy vọng dành cho người bạn đời bản địa của anh ấy, được đặt trên một chiếc hộp nhạc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="Thiệp Sinh Nhật Trên Hộp Nhạc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11050)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **Published:** Sep 18, 2026
+
+---
+### Cảnh quay thiết lập điện ảnh siêu rộng của Moonbase Alpha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt chi tiết cho cảnh quay thiết lập điện ảnh IMAX siêu rộng của Moonbase Alpha từ loạt phim Space: 1999, mô tả vị trí và ý nghĩa kỹ thuật của nó.
+
+#### 📝 Prompt
+
+```
+Cảnh quay thiết lập điện ảnh IMAX siêu rộng của Moonbase Alpha từ loạt phim Space: 1999, thành tựu kỹ thuật thời bình vĩ đại nhất của nhân loại, một thành phố tự cung tự cấp khổng lồ được xây dựng trong miệng núi lửa Plato được bảo vệ tốt ngay phía trên Biển Showers...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="Cảnh quay thiết lập điện ảnh siêu rộng của Moonbase Alpha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11043)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **Published:** Sep 18, 2026
+
+---
+### Cảnh quay Burger điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video chi tiết cho Grok Imagine mô tả một cảnh quay điện ảnh về mọi người thưởng thức burger và sinh tố trong giờ vàng, kèm theo các chỉ dẫn cụ thể về âm thanh và hình ảnh.
+
+#### 📝 Prompt
+
+```
+Họ cười nói và reo hò, cắn những chiếc burger, ly sinh tố hơi nghiêng nhẹ, tiếng lá Aspen xào xạc, ánh sáng giờ vàng điện ảnh màu trắng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="Cảnh quay Burger điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11049)**
+
+**Author:** [Connie Willis](https://x.com/conniewillisx) | **Source:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **Published:** Sep 18, 2026
+
+---
+### Nhắc nhở phân đoạn điện ảnh giàu cảm xúc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc chi tiết cho một phân đoạn điện ảnh tập trung vào kể chuyện giàu cảm xúc, ánh sáng giờ vàng và các chi tiết nhân vật cụ thể như mái tóc bay bổng và trang phục màu tím.
+
+#### 📝 Prompt
+
+```
+Phân đoạn #8
+Phân đoạn điện ảnh dài 50–75 giây theo phong cách cảm xúc sản xuất cao tương tự như “An Ode to Freedom” / Ode to Courage. Các chuyển cảnh chậm rãi, có nhịp thở. Ánh sáng giờ vàng và ánh đèn lồng ấm áp.
+Kéo dài mái tóc của người lớn tuổi bay trong gió và chiếc váy dạ hội tím bay bổng...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="Nhắc nhở phân đoạn điện ảnh giàu cảm xúc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
+
+**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
+
+---
+### Cảnh Hài Kịch: Sự Cám Dỗ Của Điếu Thuốc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video chi tiết cho cảnh hài kịch, trong đó một người đàn ông bị trói buộc tuyệt vọng cầu xin điếu thuốc trong khi một đặc vụ vui vẻ cám dỗ anh ta.
+
+#### 📝 Prompt
+
+```
+Cảnh hài kịch: Người đàn ông tóc vàng lịch sự bị trói buộc đang tuyệt vọng cầu xin điếu thuốc, chân co giật, cơ bụng căng cứng. Đặc vụ vui vẻ cám dỗ anh ta bằng cách hút thuốc thật sâu ngay trước mặt....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="Cảnh Hài Kịch: Sự Cám Dỗ Của Điếu Thuốc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11041)**
+
+**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **Published:** Sep 18, 2026
+
+---
+### Grok Imagine Video Prompt: Phong cách Anime thập niên 1980
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt biến đổi video/hình ảnh cho Grok Imagine để tái tạo phong cách hoạt hình anime cel truyền thống của thập niên 1980.
+
+#### 📝 Prompt
+
+```
+Tái tạo toàn bộ hình ảnh này sang phong cách anime cổ điển thập niên 1980. Sử dụng giao diện hoạt hình cel truyền thống của những năm 80: đường viền đen đậm, tô màu phẳng với độ chuyển sắc nhẹ nhàng, bảng màu rực rỡ nhưng hơi trầm đặc trưng của anime fantasy dark thời kỳ đó, chi tiết cao...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="Grok Imagine Video Prompt: Phong cách Anime thập niên 1980">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11047)**
+
+**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **Published:** Sep 18, 2026
+
+---
+### Câu lệnh chuyển đổi phong cách Anime thập niên 80
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Câu lệnh tạo video cho Grok Imagine, biến đổi ảnh thành phong cách anime cổ điển thập niên 1980, chi tiết hóa các đặc điểm nhân vật như đôi mắt màu ngọc lục bảo và mái tóc ướt.
+
+#### 📝 Prompt
+
+```
+Thay đổi hoàn toàn phong cách của bức ảnh này sang phong cách anime cổ điển thập niên 1980. Biến người phụ nữ trong ảnh thành một nữ anh hùng anime thập niên 80 xinh đẹp với đôi mắt xanh ngọc lục bảo to tròn đầy biểu cảm, mái tóc đen ướt đẫm bay bổng được vẽ chi tiết từng sợi cùng các điểm sáng nổi bật, kỹ thuật tô màu cel-shading mềm mại trên da...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="Câu lệnh chuyển đổi phong cách Anime thập niên 80">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11046)**
+
+**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **Published:** Sep 18, 2026
+
+---
+### Nhắc nhở dựng phim bộ sưu tập Starship
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh được sử dụng để tạo video dựng nhanh dài 15 giây từ bộ sưu tập hình ảnh liên quan đến việc thu hồi tàu Starship của SpaceX, bao gồm hướng dẫn loại bỏ các khung màu xanh.
+
+#### 📝 Prompt
+
+```
+Hãy tạo một video hoàn chỉnh dài 15 giây từ các hình ảnh được cung cấp. Vui lòng loại bỏ khung màu xanh khỏi đoạn video của bạn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="Nhắc nhở dựng phim bộ sưu tập Starship">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11045)**
+
+**Author:** [LEB](https://x.com/LEBcando) | **Source:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **Published:** Sep 18, 2026
+
+---
 ### Cảnh Nổ Coca-Cola và Mentos
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +398,25 @@ Góc nhìn thực tế từ bảng điều khiển (POV), đường cao tốc ư
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11002)**
 
 **Author:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **Source:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **Published:** Sep 18, 2026
+
+---
+### Biến Đổi Ảnh Phong Cách Chibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt biến đổi ảnh thành nhân vật anime chibi đáng yêu, giữ nguyên nét mặt trong khi phóng đại các đặc điểm như kích thước đầu và mắt.
+
+#### 📝 Prompt
+
+```
+Biến đổi bức ảnh này sang phong cách chibi đáng yêu: người đàn ông có đầu cực kỳ to với đôi mắt biểu cảm lớn, cơ thể nhỏ nhắn, các đặc điểm được phóng đại một cách dễ thương, bóng đổ kiểu anime mềm mại, đầu tròn to, tay chân ngắn, giữ nguyên chính xác nét mặt của anh ấy, tóc xám ngắn,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842464386908160/img/VULVZCMwc0iliOcd.jpg" width="600" alt="Biến Đổi Ảnh Phong Cách Chibi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11039)**
+
+**Author:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **Source:** [Link](https://x.com/Joebutter1111/status/2100842480107175964) | **Published:** Sep 18, 2026
 
 ---
 ### Cinderella tại Công viên Trung tâm
@@ -301,6 +512,25 @@ Ngựa và người cưỡi đi chậm về phía nhà thờ Hồi giáo. Áo ch
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11000)**
 
 **Author:** [Dame](https://x.com/Damesall313) | **Source:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **Published:** Sep 17, 2026
+
+---
+### Prompt Biến Hình Nhân Hóa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt dùng để biến đổi nhân vật sang trạng thái giống động vật với móng guốc và đuôi.
+
+#### 📝 Prompt
+
+```
+Hãy để anh ấy gồng mình và kêu hí khi quỳ xuống bằng cả bốn chân, trong khi móng guốc và một chiếc đuôi thò ra từ quần short của anh ấy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100557315292147712/img/NL6bqOR_GoRlzjYG.jpg" width="600" alt="Prompt Biến Hình Nhân Hóa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11048)**
+
+**Author:** [pup mb](https://x.com/mikeb5222094828) | **Source:** [Link](https://x.com/mikeb5222094828/status/2100557439556849968) | **Published:** Sep 17, 2026
 
 ---
 ### Grok Imagine Prompt: Nhiếp ảnh Động vật Hoang dã Hổ Siberia
@@ -1904,248 +2134,6 @@ Khung cảnh góc rộng chân thực, đậm chất điện ảnh, độ phân 
 **Author:** [幣気](https://x.com/meixieshi) | **Source:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **Published:** Sep 8, 2026
 
 ---
-### Prompt mã lệnh quỹ đạo camera có cấu trúc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một payload mã lệnh quay phim theo dõi có cấu trúc phức tạp dành cho các cấp độ chuyển động quỹ đạo xe hơi đậm chất điện ảnh.
-
-#### 📝 Prompt
-
-```
-{"shot":{"motion_level":"trung bình","camera_depth":"cảnh trung theo sau là cảnh toàn","camera_view":"góc thấp chuyển dần sang ngang tầm mắt","camera_movement":"quỹ đạo góc thấp đầy tính anh hùng và di chuyển chậm quanh 3/4 phần đầu xe, theo sau là chuyển động mượt mà St...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097244337474015232/img/r0BlwPQ_7CWm2otx.jpg" width="600" alt="Prompt mã lệnh quỹ đạo camera có cấu trúc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10595)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097244382147620979) | **Published:** Sep 8, 2026
-
----
-### Trận chiến hạm đội Shogi phong cách khoa học viễn tưởng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một hình ảnh mô phỏng trận chiến không gian điện ảnh hoành tráng kết hợp với các quân cờ tiêu chuẩn từ cờ tướng Nhật Bản.
-
-#### 📝 Prompt
-
-```
-Cảnh tượng trận chiến không gian điện ảnh hoành tráng lấy chủ đề cuộc chiến hạm đội shogi (cờ tướng Nhật Bản), có tiêu đề "宇宙戦艦強士 第76話 戦闘ログ版". Chiến hạm không gian tương lai khổng lồ "Goshi" (宇宙戦艦強士) với động cơ phát sáng màu xanh lam, quân xe thăng cấp của nó đã biến hình thành một con rồng đỏ và vàng khổng lồ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182756270923776/img/7aZ-Eqgg2bd6OKyU.jpg" width="600" alt="Trận chiến hạm đội Shogi phong cách khoa học viễn tưởng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10541)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2097182797463216167) | **Published:** Sep 8, 2026
-
----
-### Chuỗi video điện ảnh đầy cảm xúc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo ra một chuỗi hình ảnh nhân vật đậm chất điện ảnh, khắc họa một người phụ nữ đang nhớ về ba người anh em của mình đã di cư sang Mỹ.
-
-#### 📝 Prompt
-
-```
-Cô ấy nhớ ba người anh em của mình: Michael, Alexander và Stanislaw, những người đã di cư sang Mỹ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182253441048576/img/0hKUEmqtawJgdBWE.jpg" width="600" alt="Chuỗi video điện ảnh đầy cảm xúc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10601)**
-
-**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2097182324802863213) | **Published:** Sep 8, 2026
-
----
-### Suy tư trong phòng khách sạn sang trọng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh kể chuyện, ghi lại cảnh một người đàn ông trung niên Mỹ gốc Phi đang suy tư sâu sắc trong một phòng suite sang trọng khi đang xem truyền hình.
-
-#### 📝 Prompt
-
-```
-Tạo một video về một người đàn ông trung niên Mỹ gốc Phi trong một phòng khách sạn sang trọng rộng lớn. Anh ấy đang ngồi trên ghế, nhìn vào TV với chiếc điều khiển từ xa trên tay. Anh ấy dừng lại và suy tư. "Nghỉ phép ư? Chắc chắn rồi...."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097177940056576000/img/OIuXUMcw-2Y4a28H.jpg" width="600" alt="Suy tư trong phòng khách sạn sang trọng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10604)**
-
-**Author:** [TheDocBrown](https://x.com/ChrisBrownMDMPH) | **Source:** [Link](https://x.com/ChrisBrownMDMPH/status/2097177961115861124) | **Published:** Sep 8, 2026
-
----
-### Bảng điều khiển chiến hạm không gian tương lai
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một hình ảnh trực quan khoa học viễn tưởng đầy kịch tính, mô tả phản ứng tại đài chỉ huy khi nhìn ra chiến trường thiên hà dạng lưới cờ chiến thuật.
-
-#### 📝 Prompt
-
-```
-Chiến hạm không gian Goshi tập 76 'Sự từ bỏ làn đường thứ năm, ánh hoàng hôn nơi rìa vũ trụ'. Năm 2326, rìa ngoài vành đai Sao Thổ. Không gian bên ngoài trông giống như một bàn cờ shogi 3D khổng lồ. Làn đường thứ năm ở trung tâm rực cháy sắc vàng, với ánh sáng còn sót lại của những quả mìn không gian loại tốt (pawn) đã bị bỏ rơi đang trôi dạt. Soái hạm 'Goshi' (có hình dáng hạng nặng kiểu Yamato với chữ 'Goshi' màu vàng trên mũi tàu) nhìn xuống từ một góc chéo. Qua cửa sổ đài chỉ huy, một chỉ huy tóc đen đeo kính đang quan sát quỹ đạo con tàu của mình thoát ra rìa làn đường thứ nhất. Ở dải xa bên phải, con tàu Vua lướt đi với ánh sáng mờ nhạt giữa vị trí 18 và 19, bị truy đuổi bởi những tia laser đỏ từ quân thương và quân tốt đã phong cấp của kẻ thù. Ở trung tâm, chiến hạm loại Rồng và quân Tượng phong cấp đang hướng về phía tàu Vua của kẻ thù. Nền phía sau là vành đai Sao Thổ và vành đai tiểu hành tinh xa xôi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097154072587669504/img/dZJLsiN6IUiD6C7f.jpg" width="600" alt="Bảng điều khiển chiến hạm không gian tương lai">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10542)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2097154118683181073) | **Published:** Sep 8, 2026
-
----
-### Lời nhắc video Vũ hội hóa trang Labyrinth
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo một cảnh quay điện ảnh đầy kịch tính và chân thực lấy cảm hứng từ vũ hội hóa trang trong bộ phim Labyrinth, với hình ảnh một người phụ nữ trong chiếc váy dạ hội màu trắng cầu kỳ.
-
-#### 📝 Prompt
-
-```
-Tạo một cảnh quay điện ảnh đầy kịch tính và chân thực lấy cảm hứng từ vũ hội hóa trang trong bộ phim Labyrinth. Ở trung tâm, một người phụ nữ trẻ xinh đẹp với mái tóc vàng dài bồng bềnh, mặc một chiếc váy dạ hội màu trắng lấp lánh, tinh tế và cầu kỳ với phần tay áo phồng lớn
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097152210047995904/img/hfIE8GhaVJDBRd8a.jpg" width="600" alt="Lời nhắc video Vũ hội hóa trang Labyrinth">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10599)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2097152232378573305) | **Published:** Sep 8, 2026
-
----
-### Robot Tesla Optimus rời khỏi phòng trưng bày
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video tường thuật cụ thể về hành động của robot, cho thấy robot Tesla Optimus vẫy tay chào tạm biệt Elon Musk và lái xe mô tô rời khỏi phòng trưng bày.
-
-#### 📝 Prompt
-
-```
-ROBOT CỦA TESLA, OPTIMUS, LÊN CHIẾC MÔ TÔ NÀY VÀ LÁI XE RA KHỎI CỬA CHÍNH CỦA PHÒNG TRƯNG BÀY SAU KHI NÓI LỜI TẠM BIỆT VỚI ELON
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097121258639093760/img/rYMMJ-BO3xpLK4x8.jpg" width="600" alt="Robot Tesla Optimus rời khỏi phòng trưng bày">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10608)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097121332676927819) | **Published:** Sep 8, 2026
-
----
-### Video về sự kiện sụp đổ tòa nhà lịch sử đầy kịch tính
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một thước phim điện ảnh đầy cảm xúc tái hiện sự kiện khủng hoảng lịch sử với cảnh các công trình đổ sụp và người dân trong cơn hoảng loạn.
-
-#### 📝 Prompt
-
-```
-Sự kiện 11/9, những tòa nhà đổ sụp, các gia đình đang tìm kiếm người thân của mình. Một lời hứa từ 25 năm trước rằng chúng ta sẽ không bao giờ quên, những người nhảy ra khỏi các tòa nhà...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097118531611418624/img/LrFIG2xJE9P3l8zb.jpg" width="600" alt="Video về sự kiện sụp đổ tòa nhà lịch sử đầy kịch tính">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10594)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2097118559407083783) | **Published:** Sep 8, 2026
-
----
-### Bản phối phim hành động khoa học viễn tưởng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt khoa học viễn tưởng chi tiết kết hợp các yếu tố chủ đề của những bộ phim về người chạy bộ tương lai với các diễn viên cụ thể.
-
-#### 📝 Prompt
-
-```
-Yêu AI… kết hợp cả hai bộ phim “Runner” với Gal Gadot và Alan Ritchson. Nhân vật của Gal đang chạy vì con trai cô bị bắt cóc, trong khi Alan là một người chạy bộ đang cố gắng vận chuyển nội tạng để cấy ghép cho một đứa trẻ nhưng lại bị những kẻ khác truy đuổi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097099626264547328/img/mq1TfBZObq3g9JBJ.jpg" width="600" alt="Bản phối phim hành động khoa học viễn tưởng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10529)**
-
-**Author:** [Simon](https://x.com/schaniteration2) | **Source:** [Link](https://x.com/schaniteration2/status/2097099666718597445) | **Published:** Sep 7, 2026
-
----
-### Video stop-motion sinh vật đá trên bãi biển
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết để tạo video stop-motion đậm chất điện ảnh về một hình nhân bằng đá đang sống dậy trên bờ biển đầy đá.
-
-#### 📝 Prompt
-
-```
-Tạo một đoạn hoạt hình stop-motion dọc dài 21 giây với định dạng 9:16. Một hình nhân nhỏ bé được tạo thành hoàn toàn từ những viên đá cuội tự nhiên trên bãi biển đang sống dậy trong một vũng nước triều nông trên bờ biển đầy đá. Mỗi bộ phận cơ thể được ghép từ những viên đá riêng biệt — một viên đá hình bầu dục lớn làm đầu, những viên đá tròn xếp chồng lên nhau làm thân, và những viên đá nhỏ hơn tạo thành tay và chân.
-
-Cảnh quay được thực hiện qua một hàng rào lưới thép hơi mờ, tạo ra một khung hình tự nhiên ở tiền cảnh. Phía sau nhân vật là bờ biển yên tĩnh, nước biển nông, những tảng đá phủ đầy hà, rong biển và khu rừng mờ ảo dưới bầu trời nhiều mây. Kết cấu chân thực như ảnh chụp, màu sắc tự nhiên trầm, độ sâu trường ảnh nông, phản chiếu trên mặt nước chân thực.
-
-Hoạt hình: Hình nhân bằng đá từ từ giữ thăng bằng và bắt đầu di chuyển như một con người nhỏ bé tinh nghịch. Nó chuyển trọng tâm, nhấc chân, gập đầu gối, vung đôi tay bằng đá và thực hiện một điệu nhảy kỳ lạ nhưng dễ thương trong khi vẫn cẩn thận giữ thăng bằng trên bề mặt ướt. Những gợn sóng nhỏ hình thành dưới mỗi bước chân và hình ảnh phản chiếu của nó di chuyển tự nhiên dưới nước. Các chuyển động mang cảm giác stop-motion thủ công, hơi không hoàn hảo nhưng đáng tin, với vật lý và trọng lượng của đá chân thực.
-
-Trong những giây cuối cùng, hình nhân mất thăng bằng, vấp ngã và đổ sụp một cách tự nhiên, các viên đá tách rời và lăn trên mặt đất ướt nông. Nhân vật hoàn toàn tan rã thành những viên đá bình thường. Kết thúc bằng việc máy quay giữ tiêu điểm vào những viên đá nằm rải rác và hình ảnh phản chiếu của chúng.
-
-Máy quay: bố cục dọc cố định theo phong cách điện thoại thông minh, chuyển động máy quay tự nhiên tinh tế, cảnh trung-toàn, góc thấp gần mặt nước, hiệu ứng bokeh mạnh ở tiền cảnh từ hàng rào, độ sâu trường ảnh đậm chất điện ảnh.
-
-Ánh sáng: ánh sáng ban ngày khuếch tán dịu nhẹ, bầu không khí ven biển nhiều mây, phản chiếu và điểm sáng chân thực trên những viên đá ướt.
-
-Phong cách: môi trường live-action siêu thực + nhân vật stop-motion bằng đá chân thực đầy kỳ ảo, kết cấu đá xúc giác, chuyển động vật lý đáng tin, nhiếp ảnh macro điện ảnh, không có bề mặt trông giống CGI, không văn bản, không có con người.
-
-Câu lệnh phủ định: hoạt hình, đá trông giống nhựa, đặc điểm khuôn mặt phóng đại, nhân vật CGI mượt mà, vật thể trôi nổi, vật lý không thực tế, thừa chi tiết cơ thể, môi trường thay đổi, cắt cảnh, văn bản, hình mờ, màu sắc quá bão hòa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097084466716160000/img/-GDM_shngZJPsaJs.jpg" width="600" alt="Video stop-motion sinh vật đá trên bãi biển">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10514)**
-
-**Author:** [NETO 🎯](https://x.com/appneto) | **Source:** [Link](https://x.com/appneto/status/2097084726007771602) | **Published:** Sep 7, 2026
-
----
-### Lời nhắc hoạt ảnh cho hình ảnh bên trái
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video tùy chỉnh được thiết kế để tạo hiệu ứng chuyển động cho hình ảnh tĩnh ở phía bên trái màn hình.
-
-#### 📝 Prompt
-
-```
-Này người anh em, bạn giúp tôi được không? Tôi nghĩ chúng ta bị lạc đề rồi. Có một cái bạn đã làm trước đó. Tôi chỉ có một bức ảnh ở bên trái và nó đang chuyển động, tôi muốn làm lại cái đó với nội dung văn bản là...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097073586238566400/img/_R21Pzi_0yMssxxR.jpg" width="600" alt="Lời nhắc hoạt ảnh cho hình ảnh bên trái">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10600)**
-
-**Author:** [sexy goddess](https://x.com/sexygoddess676) | **Source:** [Link](https://x.com/sexygoddess676/status/2097073650403021296) | **Published:** Sep 7, 2026
-
----
-### Chuyển đổi cảnh quan khu định cư trên sao Hỏa sang ban đêm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chuyển đổi để biến khung cảnh khu định cư trên sao Hỏa với sắc cam bụi bặm thành khung cảnh ban đêm màu chàm sâu thẳm với ánh trăng bạc.
-
-#### 📝 Prompt
-
-```
-Hãy chuyển đổi khung cảnh khu định cư trên sao Hỏa này thành phiên bản ban đêm. Thay đổi bầu trời màu cam bụi bặm thành bầu trời đêm tối với tông màu chàm và đen sâu thẳm, thêm những ngôi sao mờ ảo, đồng thời tạo cho các mặt trăng ánh sáng ban đêm rực rỡ hơn với tông màu bạc và xanh lam dịu mát.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097064259008057344/img/GJaZBpZP_nKZjOPS.jpg" width="600" alt="Chuyển đổi cảnh quan khu định cư trên sao Hỏa sang ban đêm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10536)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2207,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-19T04:20:59.078Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-19T12:42:09.940Z</sub>
 
 </div>

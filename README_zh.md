@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2845** |
+| 📝 提示词总数 | **2857** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-19** |
 
@@ -189,6 +189,198 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 低底盘车与特斯拉悬停挑战
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成竞技视频片段的提示词：一辆经典低底盘雪佛兰通过空气悬挂弹跳至三英尺高，随后一辆红色新款特斯拉 Roadster 借助气动喷射装置腾空十英尺并悬停五秒。
+
+#### 📝 提示词
+
+```
+创建一个视频片段：先展示一辆老式低底盘雪佛兰利用空气悬挂弹跳至 3 英尺高，接着展示一辆红色新款特斯拉 Roadster 通过气动喷射装置腾空至 10 英尺高，悬停 5 秒后缓缓落地
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="低底盘车与特斯拉悬停挑战">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11042)**
+
+**作者:** [MentorCapitalist](https://x.com/mentorcapital1) | **来源:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **发布时间:** Sep 19, 2026
+
+---
+### 蟹人 vs 章鱼武士对决
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段短视频提示词，展示蟹人与章鱼人在海滩上进行武士风格的对决。
+
+#### 📝 提示词
+
+```
+制作一段短视频，展示蟹人和章鱼人在海滩上以武士风格进行打斗
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="蟹人 vs 章鱼武士对决">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11040)**
+
+**作者:** [Wheez Keepee](https://x.com/Whizkeepee) | **来源:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **发布时间:** Sep 19, 2026
+
+---
+### 音乐盒场景中的生日贺卡
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个视频场景提示词，展示一张生日贺卡放在音乐盒上，同时有人唱生日快乐歌。
+
+#### 📝 提示词
+
+```
+一个视频风格的庆祝场景，通过大声唱出“生日快乐”来庆祝，一张写满爱、信任、梦想和希望祝福的 Happy Birthday 贺卡被放置在一个音乐盒上，送给他的原住民伴侣。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="音乐盒场景中的生日贺卡">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11050)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **来源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **发布时间:** Sep 18, 2026
+
+---
+### 《太空：1999》月球基地阿尔法电影级全景镜头
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为《太空：1999》中的月球基地阿尔法设计的超宽 IMAX 电影级全景镜头详细提示词，描述其地理位置及工程意义。
+
+#### 📝 提示词
+
+```
+《太空：1999》中月球基地阿尔法的超宽 IMAX 电影级全景镜头，这是人类和平时期最伟大的工程成就，一座庞大的自给自足城市，建造在位于雨海上方、防护严密的柏拉图环形山内……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="《太空：1999》月球基地阿尔法电影级全景镜头">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11043)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **发布时间:** Sep 18, 2026
+
+---
+### 电影感汉堡场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的详细视频生成提示词，描绘人们在黄金时刻享用汉堡和奶昔的电影感场景，包含特定的音频和视觉线索。
+
+#### 📝 提示词
+
+```
+他们欢笑欢呼，咬下汉堡，奶昔吸管微微晃动，白杨树叶沙沙作响，电影感黄金时刻白光。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="电影感汉堡场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11049)**
+
+**作者:** [Connie Willis](https://x.com/conniewillisx) | **来源:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **发布时间:** Sep 18, 2026
+
+---
+### 情感电影片段提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的电影片段提示词，专注于情感叙事、黄金时刻的光影效果以及飘逸长发和紫色服饰等特定角色细节。
+
+#### 📝 提示词
+
+```
+第 #8 段
+以与《自由颂》/《勇气颂》相同的高制作水准和情感风格呈现的 50–75 秒电影片段。采用缓慢、富有呼吸感的转场。使用黄金时刻和灯笼般的暖光。
+延长长者头发在微风中飘动的镜头，以及紫色飘逸舞裙...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="情感电影片段提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11044)**
+
+**作者:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **来源:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **发布时间:** Sep 18, 2026
+
+---
+### 喜剧场景：香烟诱惑
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的视频提示，描述了一个被束缚的男人绝望地乞求一支香烟，而 Agent 则戏谑地诱惑他的喜剧场景。
+
+#### 📝 提示词
+
+```
+喜剧场景：一位金发、被束缚且彬彬有礼的男子绝望地乞求一支香烟，他的双脚抽动，腹肌紧绷。Agent 在他面前深深吸了一口烟，戏谑地诱惑着他……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="喜剧场景：香烟诱惑">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11041)**
+
+**作者:** [dacoit](https://x.com/davidjohnkong) | **来源:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **发布时间:** Sep 18, 2026
+
+---
+### Grok Imagine 视频提示词：1980 年代动漫风格重制
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的视频/图像转换提示词，可将内容重新制作成经典的 1980 年代赛璐珞动画风格。
+
+#### 📝 提示词
+
+```
+将整张图片重新制作成经典的 1980 年代动漫风格。采用传统的 80 年代赛璐珞动画外观：粗黑的轮廓线、带有柔和渐变的平涂着色、典型的 80 年代黑暗奇幻动漫中鲜艳但略显柔和的调色板，以及高度细...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="Grok Imagine 视频提示词：1980 年代动漫风格重制">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11047)**
+
+**作者:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **来源:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **发布时间:** Sep 18, 2026
+
+---
+### 80 年代动漫风格转换提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 适用于 Grok Imagine 的视频生成提示词，可将照片转换为经典的 1980 年代动漫风格，详细描绘了翡翠色眼睛和湿发等角色特征。
+
+#### 📝 提示词
+
+```
+将这张照片完全重塑为经典的 1980 年代动漫风格。将这位女性转变为一名美丽的 80 年代动漫女主角，拥有大而富有表现力的翡翠绿眼睛，细节丰富的飘逸湿黑发，带有独立的发丝和高光，柔和的赛璐珞阴影皮肤...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="80 年代动漫风格转换提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11046)**
+
+**作者:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **来源:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **发布时间:** Sep 18, 2026
+
+---
+### 星舰回收集锦提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成一段 15 秒视频集锦的提示词，素材为 SpaceX 星舰回收相关图片集合，包含去除蓝色边框的指令。
+
+#### 📝 提示词
+
+```
+使用提供的图片制作一段完整的 15 秒视频。请从视频片段中移除蓝色边框。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="星舰回收集锦提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11045)**
+
+**作者:** [LEB](https://x.com/LEBcando) | **来源:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **发布时间:** Sep 18, 2026
+
+---
 ### 可乐曼妥思爆炸场景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +398,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11002)**
 
 **作者:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **来源:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **发布时间:** Sep 18, 2026
+
+---
+### Q版风格照片转换
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 将照片转换为可爱 Q 版动漫角色的提示词，在保留面部相似度的同时，夸张头部大小和眼睛等特征。
+
+#### 📝 提示词
+
+```
+将此照片转换为可爱的 Q 版风格：男性角色拥有巨大的头部、富有表现力的大眼睛、小巧的身体、夸张的可爱特征、柔和的动漫阴影、圆润的大头、短小的四肢，同时保留其精确的面部相似度，灰色短发……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842464386908160/img/VULVZCMwc0iliOcd.jpg" width="600" alt="Q版风格照片转换">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11039)**
+
+**作者:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **来源:** [Link](https://x.com/Joebutter1111/status/2100842480107175964) | **发布时间:** Sep 18, 2026
 
 ---
 ### 灰姑娘在中央公园
@@ -301,6 +512,25 @@ Bud Light 与 Kid Rock 合作的那个扔罐子的经典镜头，但换成 Tilla
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11000)**
 
 **作者:** [Dame](https://x.com/Damesall313) | **来源:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **发布时间:** Sep 17, 2026
+
+---
+### 拟人化变身提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于将角色转变为具有蹄子和尾巴的兽人形态的提示词。
+
+#### 📝 提示词
+
+```
+让他四肢着地，展示肌肉并发出嘶鸣声，同时他的短裤中长出蹄子并伸出一条尾巴
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100557315292147712/img/NL6bqOR_GoRlzjYG.jpg" width="600" alt="拟人化变身提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11048)**
+
+**作者:** [pup mb](https://x.com/mikeb5222094828) | **来源:** [Link](https://x.com/mikeb5222094828/status/2100557439556849968) | **发布时间:** Sep 17, 2026
 
 ---
 ### Grok Imagine 提示词：西伯利亚虎野生动物摄影
@@ -1904,248 +2134,6 @@ AI 生物有机全身人体生长植入物，可在人的一生中持续生长�
 **作者:** [幣気](https://x.com/meixieshi) | **来源:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **发布时间:** Sep 8, 2026
 
 ---
-### 结构化摄像机环绕代码提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于电影级汽车环绕运动场景的复杂结构化追踪镜头代码负载。
-
-#### 📝 提示词
-
-```
-{"shot":{"motion_level":"中等","camera_depth":"中景转远景","camera_view":"低角度转平视角度","camera_movement":"缓慢且具有英雄感的低角度环绕，并推向汽车前侧 3/4 处，随后平滑过渡至 St..."}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097244337474015232/img/r0BlwPQ_7CWm2otx.jpg" width="600" alt="结构化摄像机环绕代码提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10595)**
-
-**作者:** [Jacek](https://x.com/iadventurejacek) | **来源:** [Link](https://x.com/iadventurejacek/status/2097244382147620979) | **发布时间:** Sep 8, 2026
-
----
-### 科幻将棋舰队大战
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一场宏大的电影级太空战斗可视化场景，融合了传统日本将棋棋子的主题元素。
-
-#### 📝 提示词
-
-```
-史诗般的电影级太空战斗场景，以将棋（日本象棋）舰队战争为主题，标题为“宇宙戦艦強士 第76話 戦闘ログ版”。巨大的未来派太空战舰“Goshi”（宇宙戦艦強士）引擎闪烁着蓝光，其升变后的飞车化身为一条巨大的红金相间的龙……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182756270923776/img/7aZ-Eqgg2bd6OKyU.jpg" width="600" alt="科幻将棋舰队大战">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10541)**
-
-**作者:** [後藤強士](https://x.com/rubensutsuyosi) | **来源:** [Link](https://x.com/rubensutsuyosi/status/2097182797463216167) | **发布时间:** Sep 8, 2026
-
----
-### 情感电影感视频序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段电影感的角色序列，描绘了一位女性思念移民到美国的兄弟们。
-
-#### 📝 提示词
-
-```
-她思念着她的三位兄弟：Michael、Alexander 和 Stanislaw，他们已经移民到了美国
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182253441048576/img/0hKUEmqtawJgdBWE.jpg" width="600" alt="情感电影感视频序列">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10601)**
-
-**作者:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **来源:** [Link](https://x.com/Trad_Teodor/status/2097182324802863213) | **发布时间:** Sep 8, 2026
-
----
-### 豪华酒店客房内的沉思
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段叙事性电影感视频提示词，捕捉了一位非裔中年男性在豪华套房内观看电视时陷入深思的画面。
-
-#### 📝 提示词
-
-```
-创建一个视频，画面中一位非裔中年男性身处宽敞的豪华酒店客房内。他坐在椅子上，手持遥控器看着电视。他停顿了一下，陷入了沉思。“休假吗？当然……”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097177940056576000/img/OIuXUMcw-2Y4a28H.jpg" width="600" alt="豪华酒店客房内的沉思">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10604)**
-
-**作者:** [TheDocBrown](https://x.com/ChrisBrownMDMPH) | **来源:** [Link](https://x.com/ChrisBrownMDMPH/status/2097177961115861124) | **发布时间:** Sep 8, 2026
-
----
-### 未来太空战舰项目
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一幅极具戏剧性的科幻视觉作品，生动描绘了指挥舰桥上的人员在俯瞰星系级战术棋盘战争时的反应。
-
-#### 📝 提示词
-
-```
-太空战舰 Goshi 第 76 集《第五航道的弃子，边缘的余晖》。公元 2326 年，土星环外缘。外太空宛如一个巨大的 3D 将棋项目。中央的第五航道燃烧着金色的火焰，废弃的步兵型太空雷余晖在其中漂浮。旗舰“Goshi”（拥有大和号风格的重型轮廓，舰首刻有金色的“Goshi”字样）从斜角俯瞰战场。透过舰桥舷窗，一位戴眼镜的黑发指挥官正注视着飞船逃往第一航道边缘的轨迹。在最右侧的条带上，国王舰在 18 和 19 之间发出微弱的光芒滑行，身后紧跟着敌方成香和打入步兵的红色光束。中心位置，龙型战舰与成角正面向敌方国王舰。背景展现了土星环和遥远的小行星带……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097154072587669504/img/dZJLsiN6IUiD6C7f.jpg" width="600" alt="未来太空战舰项目">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10542)**
-
-**作者:** [後藤強士](https://x.com/rubensutsuyosi) | **来源:** [Link](https://x.com/rubensutsuyosi/status/2097154118683181073) | **发布时间:** Sep 8, 2026
-
----
-### 迷宫假面舞会视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 创作一个受《迷宫》电影假面舞会启发的戏剧性、照片级真实感的电影场景，主角是一位身着精致白色礼服的女性。
-
-#### 📝 提示词
-
-```
-创作一个受《迷宫》电影假面舞会启发的戏剧性、照片级真实感的电影场景。画面中心是一位留着飘逸金发的年轻美女，她身着一件精致、空灵且闪闪发光的白色舞会礼服，礼服带有夸张的泡泡袖。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097152210047995904/img/hfIE8GhaVJDBRd8a.jpg" width="600" alt="迷宫假面舞会视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10599)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2097152232378573305) | **发布时间:** Sep 8, 2026
-
----
-### Tesla Optimus 机器人展厅离场
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段叙事性机器人动作视频，展示了 Tesla Optimus 向 Elon Musk 挥手告别，并骑着摩托车驶出展厅的画面。
-
-#### 📝 提示词
-
-```
-Tesla 的机器人 Optimus 在向 Elon 告别后，骑上这辆摩托车并从展厅前门驶出
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097121258639093760/img/rYMMJ-BO3xpLK4x8.jpg" width="600" alt="Tesla Optimus 机器人展厅离场">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10608)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **来源:** [Link](https://x.com/RobinMurrat43a/status/2097121332676927819) | **发布时间:** Sep 8, 2026
-
----
-### 历史性建筑倒塌戏剧化视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段极具情感张力和电影感的视频，描绘了涉及建筑倒塌与民众陷入困境的历史性危机事件。
-
-#### 📝 提示词
-
-```
-9/11 事件中大楼崩塌，家人们在寻找挚爱。25 年前的承诺：我们永不遗忘。人们从大楼中跳下……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097118531611418624/img/LrFIG2xJE9P3l8zb.jpg" width="600" alt="历史性建筑倒塌戏剧化视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10594)**
-
-**作者:** [Marie](https://x.com/Marie8508319540) | **来源:** [Link](https://x.com/Marie8508319540/status/2097118559407083783) | **发布时间:** Sep 8, 2026
-
----
-### 科幻动作电影混剪
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的科幻视频提示词，结合了未来主义奔跑类电影的主题元素与特定演员。
-
-#### 📝 提示词
-
-```
-热爱 AI……将两部“奔跑者”风格的电影与 Gal Gadot 和 Alan Ritchson 结合起来。Gal 的角色因为儿子被绑架而奔跑，而 Alan 则是一位试图为孩子运送器官移植的奔跑者，但有人正试图阻截他。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097099626264547328/img/mq1TfBZObq3g9JBJ.jpg" width="600" alt="科幻动作电影混剪">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10529)**
-
-**作者:** [Simon](https://x.com/schaniteration2) | **来源:** [Link](https://x.com/schaniteration2/status/2097099666718597445) | **发布时间:** Sep 7, 2026
-
----
-### 定格动画：海滩石像生物视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详细的提示词，用于创作一段电影质感的定格动画视频，展现一个石像在岩石海岸上苏醒的过程。
-
-#### 📝 提示词
-
-```
-创作一段 21 秒的电影级竖屏定格动画，比例为 9:16。一个完全由天然形状的圆润海滩石块组成的小型人形生物，在岩石海岸的浅水潮池中苏醒。身体的每个部位都由独立的石块构成——头部是一块巨大的椭圆形石头，躯干由圆石堆叠而成，手臂和腿部则由较小的石块组成。
-
-场景透过略显模糊的铁丝网围栏拍摄，在前景形成天然的取景框。角色身后是平静的海岸线、浅滩海水、覆盖着藤壶的岩石、海藻，以及多云天空下微微模糊的森林。具备照片级真实的纹理、柔和的自然色彩、浅景深效果和逼真的水面反射。
-
-动画效果：石像生物缓慢地保持平衡，开始像顽皮的小人一样活动。它变换重心、抬腿、弯曲膝盖、摆动石质手臂，并在湿润的表面上小心翼翼地保持平衡，跳起一段奇特而可爱的舞蹈。每走一步都会形成细小的涟漪，水中的倒影也随之自然移动。动作应呈现出手工定格动画的质感，略显不完美但真实可信，并体现出石块真实的物理特性和重量感。
-
-最后几秒钟，角色失去平衡、绊倒并自然地散架，石块分离并滚落在潮湿的浅滩上。角色完全拆解还原为普通的石块。视频结尾镜头保持对散落石块及其倒影的聚焦。
-
-摄像机：固定竖屏构图，类似智能手机拍摄风格，带有细微的自然镜头晃动，中全景镜头，靠近水面的低角度拍摄，前景围栏产生强烈的焦外成像（bokeh）效果，具备电影级的景深。
-
-光照：柔和的漫射日光，多云的海岸氛围，湿润石块上真实的反射和高光。
-
-风格：超写实真人环境 + 奇幻且照片级真实的石块定格动画角色，触感真实的石质纹理，符合物理规律的动作，电影级微距摄影，无 CGI 感表面，无文字，无人类。
-
-负面提示词：卡通、塑料质感石头、夸张的面部特征、平滑的 CGI 角色、漂浮物体、不真实的物理效果、多余的肢体、环境突变、镜头剪辑、文字、水印、色彩过饱和。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097084466716160000/img/-GDM_shngZJPsaJs.jpg" width="600" alt="定格动画：海滩石像生物视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10514)**
-
-**作者:** [NETO 🎯](https://x.com/appneto) | **来源:** [Link](https://x.com/appneto/status/2097084726007771602) | **发布时间:** Sep 7, 2026
-
----
-### 左侧图片动画提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一种定制的视频提示词，旨在为屏幕左侧的静态图片添加动画效果。
-
-#### 📝 提示词
-
-```
-嘿，超级兄弟，能帮帮我吗？我觉得我们刚才跑题了。你之前做过一个案例，左侧有一张图片，它在点头表示“是”，就是让左侧的图片动起来。我想让你用一段文字重做那个效果，内容是……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097073586238566400/img/_R21Pzi_0yMssxxR.jpg" width="600" alt="左侧图片动画提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10600)**
-
-**作者:** [sexy goddess](https://x.com/sexygoddess676) | **来源:** [Link](https://x.com/sexygoddess676/status/2097073650403021296) | **发布时间:** Sep 7, 2026
-
----
-### 火星栖息地夜景转换
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于将尘土飞扬的橙色火星栖息地场景转换为带有银色月光的深靛色夜景的转换提示词。
-
-#### 📝 提示词
-
-```
-将此火星栖息地场景转换为深邃的夜景版本。将尘土飞扬的橙色朦胧天空改为带有深靛色和黑色调的暗夜天空，添加微弱的星光，并赋予月亮更明亮的夜间光芒，呈现出冷银色和蓝色的照明效果。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097064259008057344/img/GJaZBpZP_nKZjOPS.jpg" width="600" alt="火星栖息地夜景转换">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10536)**
-
-**作者:** [Sahil Verma](https://x.com/sahilvermaai) | **来源:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **发布时间:** Sep 7, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2207,6 +2195,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-19T04:20:52.295Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-19T12:42:03.230Z</sub>
 
 </div>

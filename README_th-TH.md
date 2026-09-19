@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2845** |
+| 📝 Total Prompts | **2857** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-19** |
 
@@ -189,6 +189,198 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### การประชันระหว่างโลว์ไรเดอร์กับเทสลา: ท้าความสูงแบบลอยตัว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับลำดับวิดีโอการแข่งขัน โดยรถเชฟวี่โลว์ไรเดอร์คลาสสิกกระโดดสูงสามฟุตโดยใช้โช้คอัพลม ตามด้วยเทสลาโรดสเตอร์สีแดงรุ่นใหม่ที่ใช้เจ็ตอากาศพุ่งขึ้นสูงสิบฟุตและลอยตัวค้างไว้ห้าวินาที
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอของรถเชฟวี่โลว์ไรเดอร์เก่าที่กระโดดสูง 3 ฟุตด้วยโช้คอัพลม จากนั้นเป็นเทสลาโรดสเตอร์สีแดงรุ่นใหม่ที่ใช้เจ็ตอากาศพุ่งขึ้นสูง 10 ฟุต และลอยตัวค้างไว้ 5 วินาทีก่อนที่จะลงจอดอย่างช้าๆ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="การประชันระหว่างโลว์ไรเดอร์กับเทสลา: ท้าความสูงแบบลอยตัว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11042)**
+
+**Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
+
+---
+### การต่อสู้ระหว่างปูซามูไรกับปลาหมึกซามูไร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอแอ็กชันสั้นๆ ที่นำเสนอฉากการต่อสู้สไตล์ซามูไรบนชายหาดระหว่างชายปูและชายปลาหมึก
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอสั้นๆ ของชายปูและชายปลาหมึกต่อสู้กันบนชายหาดในสไตล์ซามูไร
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="การต่อสู้ระหว่างปูซามูไรกับปลาหมึกซามูไร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11040)**
+
+**Author:** [Wheez Keepee](https://x.com/Whizkeepee) | **Source:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **Published:** Sep 19, 2026
+
+---
+### ฉากการ์ดวันเกิดบนกล่องดนตรี
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์สำหรับฉากวิดีโอที่มีการ์ดวันเกิดวางอยู่บนกล่องดนตรี ขณะที่ใครบางคนกำลังร้องเพลงสุขสันต์วันเกิด
+
+#### 📝 Prompt
+
+```
+ฉากสไตล์วิดีโอเฉลิมฉลองโดยกล่าวคำว่า 'สุขสันต์วันเกิด' ออกมาดังๆ พร้อมการ์ด Happy Birthday ที่เขียนคำอวยพรด้วยความรัก ความไว้วางใจ ความฝัน และความหวัง สำหรับคู่ชีวิตที่เป็นชนพื้นเมือง วางอยู่บนกล่องดนตรี
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="ฉากการ์ดวันเกิดบนกล่องดนตรี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11050)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **Published:** Sep 18, 2026
+
+---
+### ภาพมุมกว้างแบบ IMAX ของ Moonbase Alpha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำอธิบายรายละเอียดสำหรับฉากเปิดเรื่องแบบ Ultra-wide IMAX ของ Moonbase Alpha จาก Space: 1999 ซึ่งบรรยายถึงตำแหน่งที่ตั้งและความสำคัญทางวิศวกรรม
+
+#### 📝 Prompt
+
+```
+ฉากเปิดเรื่องแบบ Ultra-wide IMAX ของ Moonbase Alpha จาก Space: 1999 สิ่งประดิษฐ์ทางวิศวกรรมแห่งสันติภาพที่ยิ่งใหญ่ที่สุดของมนุษยชาติ เมืองขนาดใหญ่ที่พึ่งพาตนเองได้ซึ่งสร้างขึ้นในหลุมอุกกาบาต Plato ที่ได้รับการปกป้องอย่างดีเหนือทะเล Showers บน...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="ภาพมุมกว้างแบบ IMAX ของ Moonbase Alpha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11043)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **Published:** Sep 18, 2026
+
+---
+### ฉากเบอร์เกอร์สไตล์ภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างวิดีโอแบบละเอียดสำหรับ Grok Imagine ที่อธิบายฉากภาพยนตร์ของคนที่กำลังเพลิดเพลินกับเบอร์เกอร์และมิลค์เชคในช่วงเวลาทอง พร้อมรายละเอียดเสียงและภาพที่เฉพาะเจาะจง
+
+#### 📝 Prompt
+
+```
+พวกเขาหัวเราะและเชียร์กัน กัดเบอร์เกอร์ มิลค์เชคไหลเลอะเล็กน้อย เสียงใบแอสเพนเสียดสี แสงทองยามเย็นสไตล์ภาพยนตร์ สีขาว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="ฉากเบอร์เกอร์สไตล์ภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11049)**
+
+**Author:** [Connie Willis](https://x.com/conniewillisx) | **Source:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **Published:** Sep 18, 2026
+
+---
+### พรอมต์ฉากภาพยนตร์เชิงอารมณ์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์รายละเอียดสำหรับฉากภาพยนตร์ที่เน้นการเล่าเรื่องเชิงอารมณ์ แสงยามเย็นสีทอง และรายละเอียดตัวละครเฉพาะ เช่น ผมพลิ้วไหวและชุดราตรีสีม่วง
+
+#### 📝 Prompt
+
+```
+Segment #8
+ฉากภาพยนตร์ความยาว 50–75 วินาที ในสไตล์การผลิตระดับสูงแบบเดียวกันกับ “An Ode to Freedom” / Ode to Courage การเปลี่ยนภาพช้าๆ แบบมีจังหวะหายใจ แสงยามเย็นสีทอง (Golden-hour) และแสงอุ่นจากโคมไฟ
+ผมของผู้อาวุโสยาวสยายตามสายลม และชุดราตรี Ball g...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="พรอมต์ฉากภาพยนตร์เชิงอารมณ์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
+
+**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
+
+---
+### ฉากตลก: การยั่วยุด้วยบุหรี่
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสำหรับฉากตลกที่ชายคนหนึ่งถูกมัดไว้และอ้อนวอนขอบุหรี่อย่างสิ้นหวัง ขณะที่เจ้าหน้าที่แกล้งยั่วยุเขาด้วยการสูบบุหรี่ต่อหน้า
+
+#### 📝 Prompt
+
+```
+ฉากตลก : ชายผมบลอนด์ที่ถูกมัดไว้อย่างสุภาพ กำลังอ้อนวอนขอบุหรี่อย่างสิ้นหวัง เท้ากระตุก กล้ามท้องเกร็ง เจ้าหน้าที่แกล้งยั่วยุเขาโดยสูบบุหรี่ลึกๆ ต่อหน้า....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="ฉากตลก: การยั่วยุด้วยบุหรี่">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11041)**
+
+**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **Published:** Sep 18, 2026
+
+---
+### พรอมต์วิดีโอ Grok Imagine: ปรับสไตล์เป็นอนิเมะยุค 1980s
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับแปลงวิดีโอ/ภาพใน Grok Imagine เพื่อปรับสไตล์เนื้อหาให้ดูเป็นอนิเมะแบบเซลแอนิเมชันคลาสสิกในยุค 1980s
+
+#### 📝 Prompt
+
+```
+ปรับสไตล์ภาพทั้งหมดนี้ให้เป็นสไตล์อนิเมะคลาสสิกยุค 1980s โดยใช้ลุคของเซลแอนิเมชัน (Cel Animation) แบบดั้งเดิมของยุค 80s: เส้นขอบสีดำหนา, การลงสีแบบแบนพร้อมไล่เฉดสีอ่อนนุ่ม, จานสีที่สดใสแต่มีความหม่นเล็กน้อยตามแบบฉบับของอนิเมะแฟนตาซีมืดมนยุค 80s, รายละเอียดสูง...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine: ปรับสไตล์เป็นอนิเมะยุค 1980s">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11047)**
+
+**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **Published:** Sep 18, 2026
+
+---
+### พรอมต์แปลงสไตล์อนิเมะยุค 80s
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างวิดีโอสำหรับ Grok Imagine ที่เปลี่ยนภาพถ่ายให้เป็นสไตล์อนิเมะคลาสสิกยุค 1980 โดยระบุรายละเอียดลักษณะตัวละคร เช่น ดวงตาสีเขียวมรกตและผมเปียกน้ำ
+
+#### 📝 Prompt
+
+```
+ปรับสไตล์ภาพถ่ายนี้ใหม่ทั้งหมดให้อยู่ในรูปแบบอนิเมะคลาสสิกยุค 1980 แปลงหญิงสาวให้กลายเป็นนางเอกอนิเมะยุค 80 ที่งดงาม พร้อมดวงตาสีเขียวมรกตขนาดใหญ่ที่แสดงอารมณ์อย่างชัดเจน ผมสีดำเปียกน้ำที่ยาวสลวยมีรายละเอียดเส้นผมแต่ละเส้นและไฮไลท์ เงาแบบเซลเชด (cel-shaded) อย่างนุ่มนวล...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="พรอมต์แปลงสไตล์อนิเมะยุค 80s">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11046)**
+
+**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **Published:** Sep 18, 2026
+
+---
+### พรอมต์สำหรับสร้างวิดีโอรวมภาพ Starship Collection
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่ใช้ในการสร้างวิดีโอรวมภาพความยาว 15 วินาที จากชุดรูปภาพที่เกี่ยวข้องกับการกู้คืนยานอวกาศ SpaceX's Starship รวมถึงคำแนะนำให้ลบเฟรมสีน้ำเงินออก
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอเต็มความยาว 15 วินาทีจากรูปภาพที่แนบมา กรุณาลบเฟรมสีน้ำเงินออกจากส่วนวิดีโอของคุณ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="พรอมต์สำหรับสร้างวิดีโอรวมภาพ Starship Collection">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11045)**
+
+**Author:** [LEB](https://x.com/LEBcando) | **Source:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **Published:** Sep 18, 2026
+
+---
 ### ฉากระเบิดโค้กกับเมนทอส
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +398,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11002)**
 
 **Author:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **Source:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **Published:** Sep 18, 2026
+
+---
+### การเปลี่ยนรูปถ่ายเป็นสไตล์ Chibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับเปลี่ยนรูปถ่ายให้เป็นตัวละครอนิเมะสไตล์ Chibi ที่น่ารัก โดยคงความเหมือนของใบหน้าไว้พร้อมเน้นย้ำลักษณะเด่นเช่นขนาดศีรษะและดวงตาให้เกินจริง
+
+#### 📝 Prompt
+
+```
+เปลี่ยนรูปถ่ายนี้เป็นสไตล์ Chibi ที่น่ารัก: ชายคนนี้มีศีรษะที่ใหญ่โตผิดปกติพร้อมดวงตาใหญ่แสดงอารมณ์ ร่างกายเล็กจิ๋ว ลักษณะเด่นที่น่ารักและเกินจริง การแรเงาแบบอนิเมะที่นุ่มนวล ศีรษะกลมใหญ่ แขนขาสั้น คงความเหมือนใบหน้าของเขาไว้อย่างแม่นยำ ผมสีเทาตัดสั้น...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842464386908160/img/VULVZCMwc0iliOcd.jpg" width="600" alt="การเปลี่ยนรูปถ่ายเป็นสไตล์ Chibi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11039)**
+
+**Author:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **Source:** [Link](https://x.com/Joebutter1111/status/2100842480107175964) | **Published:** Sep 18, 2026
 
 ---
 ### ซินเดอเรลลาในเซ็นทรัลพาร์ก
@@ -301,6 +512,25 @@ Bud Light กับ Kid Rock ในฉากยิงกระป๋อง แ�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11000)**
 
 **Author:** [Dame](https://x.com/Damesall313) | **Source:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **Published:** Sep 17, 2026
+
+---
+### Anthropomorphic Transformation Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt for transforming a character into an animal-like state with hooves and tail.
+
+#### 📝 Prompt
+
+```
+Make him flex and bray as he get down on all fours as hooves for and a tail pops out of his shorts as he down on all fours
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100557315292147712/img/NL6bqOR_GoRlzjYG.jpg" width="600" alt="Anthropomorphic Transformation Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11048)**
+
+**Author:** [pup mb](https://x.com/mikeb5222094828) | **Source:** [Link](https://x.com/mikeb5222094828/status/2100557439556849968) | **Published:** Sep 17, 2026
 
 ---
 ### พรอมต์ Grok Imagine: ภาพถ่ายสัตว์ป่าเสือไซบีเรีย
@@ -1904,248 +2134,6 @@ Antichrist ผู้ที่ไม่ได้รับเลือกในต
 **Author:** [幣気](https://x.com/meixieshi) | **Source:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **Published:** Sep 8, 2026
 
 ---
-### โครงสร้างคำสั่ง Prompt สำหรับการเคลื่อนกล้องแบบ Orbit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ชุดคำสั่งโครงสร้างที่ซับซ้อนสำหรับการเคลื่อนกล้องแบบติดตาม เพื่อสร้างภาพเคลื่อนไหวระดับภาพยนตร์สำหรับการถ่ายรถยนต์แบบ Orbit
-
-#### 📝 Prompt
-
-```
-{"shot":{"motion_level":"medium","camera_depth":"ภาพระยะกลางตามด้วยภาพระยะไกล","camera_view":"มุมต่ำที่เปลี่ยนเป็นระดับสายตา","camera_movement":"การเคลื่อนกล้องแบบ Orbit มุมต่ำที่ดูสง่างามและค่อย ๆ เคลื่อนเข้าหาด้านหน้า 3/4 ของตัวรถ ตามด้วยการเคลื่อนที่ที่นุ่มนวลแบบ St...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097244337474015232/img/r0BlwPQ_7CWm2otx.jpg" width="600" alt="โครงสร้างคำสั่ง Prompt สำหรับการเคลื่อนกล้องแบบ Orbit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10595)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097244382147620979) | **Published:** Sep 8, 2026
-
----
-### ศึกกองทัพโชงิไซไฟ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> การจำลองภาพการต่อสู้ในอวกาศแบบภาพยนตร์สุดอลังการ ที่ผสมผสานธีมเข้ากับตัวหมากมาตรฐานจากหมากรุกญี่ปุ่นแบบดั้งเดิม
-
-#### 📝 Prompt
-
-```
-ฉากการต่อสู้ในอวกาศแบบภาพยนตร์สุดยิ่งใหญ่ในธีมสงครามกองทัพโชงิ (หมากรุกญี่ปุ่น) ภายใต้ชื่อ "宇宙戦艦強士 第76話 戦闘ログ版" ยานรบอวกาศแห่งอนาคตขนาดมหึมา "Goshi" (宇宙戦艦強士) พร้อมเครื่องยนต์เรืองแสงสีฟ้า โดยที่ตัวหมากเรือที่ได้รับการเลื่อนยศได้แปลงร่างเป็นมังกรสีแดงทองขนาดยักษ์...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182756270923776/img/7aZ-Eqgg2bd6OKyU.jpg" width="600" alt="ศึกกองทัพโชงิไซไฟ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10541)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2097182797463216167) | **Published:** Sep 8, 2026
-
----
-### ลำดับวิดีโอแนวภาพยนตร์ที่เปี่ยมไปด้วยอารมณ์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สร้างลำดับวิดีโอตัวละครแนวภาพยนตร์ที่ถ่ายทอดเรื่องราวของผู้หญิงที่คิดถึงพี่ชายทั้งสามคนที่อพยพไปอยู่ที่ สหรัฐอเมริกา
-
-#### 📝 Prompt
-
-```
-เธอคิดถึงพี่ชายทั้งสามคนของเธอ ได้แก่ Michael, Alexander และ Stanislaw ที่อพยพไปอยู่ที่ สหรัฐอเมริกา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182253441048576/img/0hKUEmqtawJgdBWE.jpg" width="600" alt="ลำดับวิดีโอแนวภาพยนตร์ที่เปี่ยมไปด้วยอารมณ์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10601)**
-
-**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2097182324802863213) | **Published:** Sep 8, 2026
-
----
-### ความคิดคำนึงในห้องพักโรงแรมสุดหรู
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่ถ่ายทอดเรื่องราวของชายชาวอเมริกันเชื้อสายแอฟริกันวัยกลางคน กำลังใช้ความคิดอย่างลึกซึ้งภายในห้องสวีทสุดหรูขณะรับชมโทรทัศน์
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอของชายชาวอเมริกันเชื้อสายแอฟริกันวัยกลางคนในห้องพักโรงแรมสุดหรูขนาดใหญ่ เขานั่งอยู่บนเก้าอี้ขณะดูทีวีโดยมีรีโมทอยู่ในมือ เขาหยุดชะงักและใช้ความคิด "พักร้อนจากงานเหรอ? แน่นอนที่สุด..."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097177940056576000/img/OIuXUMcw-2Y4a28H.jpg" width="600" alt="ความคิดคำนึงในห้องพักโรงแรมสุดหรู">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10604)**
-
-**Author:** [TheDocBrown](https://x.com/ChrisBrownMDMPH) | **Source:** [Link](https://x.com/ChrisBrownMDMPH/status/2097177961115861124) | **Published:** Sep 8, 2026
-
----
-### กระดานยานรบอวกาศแห่งอนาคต
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> ภาพจำลองแนวไซไฟสุดดราม่าที่ถ่ายทอดปฏิกิริยาบนสะพานเดินเรือท่ามกลางสงครามกาแล็กซีในรูปแบบตารางหมากรุกเชิงกลยุทธ์
-
-#### 📝 Prompt
-
-```
-ยานรบอวกาศ Goshi ตอนที่ 76 'การละทิ้งเลนที่ห้า แสงสุดท้ายที่ขอบจักรวาล' ปี ค.ศ. 2326 บริเวณขอบนอกของวงแหวนดาวเสาร์ อวกาศภายนอกที่ดูเหมือนกระดานโชงิ 3 มิติขนาดมหึมา เลนที่ห้าตรงกลางลุกโชนเป็นสีทอง พร้อมกับแสงสลัวของทุ่นระเบิดอวกาศประเภทเบี้ยที่ถูกทิ้งไว้ลอยเคว้ง ยานธง 'Goshi' (รูปทรงหนักคล้ายยานยามาโตะ พร้อมตัวอักษร 'Goshi' สีทองที่หัวเรือ) มองลงมาจากมุมเฉียง ผ่านหน้าต่างสะพานเดินเรือ ผู้บัญชาการผมเข้มสวมแว่นตากำลังเฝ้ามองวิถีของยานที่กำลังหลบหนีไปยังขอบของเลนที่หนึ่ง ที่แถบขวาสุด ยานคิงกำลังเคลื่อนตัวอย่างแผ่วเบาโดยมีแสงเรืองรองอยู่ระหว่างช่อง 18 และ 19 โดยถูกไล่ล่าด้วยลำแสงสีแดงจากหอกเลื่อนยศและเบี้ยที่ถูกวางของศัตรู ตรงกลาง ยานรบประเภทมังกรและบิชอปเลื่อนยศกำลังเผชิญหน้ากับยานคิงของศัตรู ฉากหลังประกอบด้วยวงแหวนดาวเสาร์และแถบดาวเคราะห์น้อยที่อยู่ไกลออกไป...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097154072587669504/img/dZJLsiN6IUiD6C7f.jpg" width="600" alt="กระดานยานรบอวกาศแห่งอนาคต">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10542)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2097154118683181073) | **Published:** Sep 8, 2026
-
----
-### พรอมต์วิดีโอธีมงานเต้นรำสวมหน้ากาก Labyrinth
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สร้างฉากภาพยนตร์ที่สมจริงและดูน่าทึ่ง โดยได้รับแรงบันดาลใจจากงานเต้นรำสวมหน้ากากในภาพยนตร์เรื่อง Labyrinth ซึ่งมีตัวละครหญิงในชุดราตรีสีขาวสุดอลังการ
-
-#### 📝 Prompt
-
-```
-สร้างฉากภาพยนตร์ที่สมจริงและดูน่าทึ่ง โดยได้รับแรงบันดาลใจจากงานเต้นรำสวมหน้ากากในภาพยนตร์เรื่อง Labyrinth ตรงกลางภาพเป็นหญิงสาวสวยที่มีผมบลอนด์ยาวสลวย สวมชุดราตรีสีขาวระยิบระยับที่ดูหรูหราและพลิ้วไหว พร้อมแขนเสื้อพองขนาดใหญ่
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097152210047995904/img/hfIE8GhaVJDBRd8a.jpg" width="600" alt="พรอมต์วิดีโอธีมงานเต้นรำสวมหน้ากาก Labyrinth">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10599)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2097152232378573305) | **Published:** Sep 8, 2026
-
----
-### หุ่นยนต์ Tesla Optimus ขี่มอเตอร์ไซค์ออกจากโชว์รูม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอเล่าเรื่องราวของหุ่นยนต์ที่แสดงให้เห็น Tesla Optimus โบกมือลา Elon Musk และขี่มอเตอร์ไซค์ออกจากโชว์รูม
-
-#### 📝 Prompt
-
-```
-หุ่นยนต์ OPTIMUS ของ TESLA ขี่มอเตอร์ไซค์คันนี้ออกจากประตูหน้าของโชว์รูม หลังจากโบกมือลา ELON
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097121258639093760/img/rYMMJ-BO3xpLK4x8.jpg" width="600" alt="หุ่นยนต์ Tesla Optimus ขี่มอเตอร์ไซค์ออกจากโชว์รูม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10608)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097121332676927819) | **Published:** Sep 8, 2026
-
----
-### วิดีโอเหตุการณ์ตึกถล่มครั้งประวัติศาสตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ภาพจำลองเหตุการณ์วิกฤตครั้งประวัติศาสตร์ที่เต็มไปด้วยอารมณ์และความรู้สึก ผ่านมุมมองภาพยนตร์ที่แสดงให้เห็นถึงอาคารที่พังทลายและความทุกข์ระทมของผู้คน
-
-#### 📝 Prompt
-
-```
-เหตุการณ์ 9/11 ตึกที่กำลังพังทลาย ครอบครัวที่กำลังตามหาคนที่พวกเขารัก คำสัญญาเมื่อ 25 ปีก่อนว่าเราจะไม่มีวันลืม ผู้คนที่กระโดดลงมาจากตึก...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097118531611418624/img/LrFIG2xJE9P3l8zb.jpg" width="600" alt="วิดีโอเหตุการณ์ตึกถล่มครั้งประวัติศาสตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10594)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2097118559407083783) | **Published:** Sep 8, 2026
-
----
-### รวมฉากแอ็กชันภาพยนตร์ไซไฟ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างวิดีโอแนวไซไฟโดยละเอียด ที่ผสมผสานองค์ประกอบของภาพยนตร์แนววิ่งไล่ล่าแห่งอนาคตเข้ากับนักแสดงชื่อดัง
-
-#### 📝 Prompt
-
-```
-ชื่นชอบ AI มาก... โดยนำภาพยนตร์แนว “Runner” ทั้งสองเรื่องมาผสมผสานกันโดยมี Gal Gadot และ Alan Ritchson แสดงนำ ตัวละครของ Gal กำลังวิ่งหนีเพราะลูกชายของเขาถูกลักพาตัวไป ในขณะที่ Alan รับบทเป็นนักวิ่งที่พยายามนำอวัยวะไปปลูกถ่ายให้กับเด็กคนหนึ่ง แต่กลับถูกคนกลุ่มหนึ่งไล่ล่าเพื่อแย่งชิงอวัยวะดังกล่าว
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097099626264547328/img/mq1TfBZObq3g9JBJ.jpg" width="600" alt="รวมฉากแอ็กชันภาพยนตร์ไซไฟ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10529)**
-
-**Author:** [Simon](https://x.com/schaniteration2) | **Source:** [Link](https://x.com/schaniteration2/status/2097099666718597445) | **Published:** Sep 7, 2026
-
----
-### วิดีโอสตอปโมชันสิ่งมีชีวิตจากหินบนชายหาด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์โดยละเอียดสำหรับการสร้างวิดีโอสตอปโมชันแนวภาพยนตร์ของหุ่นหินที่กลับมามีชีวิตบนชายฝั่งหิน
-
-#### 📝 Prompt
-
-```
-สร้างแอนิเมชันสตอปโมชันแนวภาพยนตร์ในรูปแบบแนวตั้ง 9:16 ความยาว 21 วินาที หุ่นมนุษย์ตัวเล็กที่ทำจากหินชายหาดรูปทรงธรรมชาติทั้งหมดกลับมามีชีวิตในแอ่งน้ำตื้นบนชายฝั่งหิน ร่างกายแต่ละส่วนประกอบขึ้นจากหินแต่ละก้อน ได้แก่ หินรูปไข่ขนาดใหญ่เป็นส่วนหัว หินทรงกลมวางซ้อนกันเป็นลำตัว และหินขนาดเล็กกว่าเป็นแขนและขา
-
-ฉากนี้ถ่ายทำผ่านรั้วลวดตาข่ายที่เบลอเล็กน้อย สร้างกรอบธรรมชาติที่ฉากหน้า ด้านหลังตัวละครเป็นแนวชายฝั่งที่เงียบสงบ น้ำทะเลตื้น โขดหินที่มีเพรียงเกาะ สาหร่ายทะเล และป่าที่เบลอเล็กน้อยภายใต้ท้องฟ้าที่มีเมฆมาก พื้นผิวสมจริง สีสันธรรมชาติแบบหม่น ระยะชัดลึกตื้น และการสะท้อนของน้ำที่สมจริง
-
-แอนิเมชัน: หุ่นหินค่อย ๆ ทรงตัวและเริ่มเคลื่อนไหวเหมือนมนุษย์ตัวน้อยที่ขี้เล่น มันถ่ายเทน้ำหนัก ยกขา งอเข่า แกว่งแขนหิน และเต้นท่าทางแปลก ๆ น่ารักในขณะที่พยายามทรงตัวบนพื้นผิวที่เปียกชื้นอย่างระมัดระวัง เกิดระลอกคลื่นเล็ก ๆ ใต้ฝีเท้าแต่ละก้าว และเงาสะท้อนของมันเคลื่อนไหวอย่างเป็นธรรมชาติในน้ำ การเคลื่อนไหวควรให้ความรู้สึกเหมือนสตอปโมชันที่ทำด้วยมือ มีความไม่สมบูรณ์แบบเล็กน้อยแต่ดูน่าเชื่อถือ พร้อมด้วยฟิสิกส์ของหินและน้ำหนักที่สมจริง
-
-ในช่วงวินาทีสุดท้าย หุ่นเสียการทรงตัว สะดุด และล้มลงอย่างเป็นธรรมชาติ โดยหินแต่ละก้อนแยกออกจากกันและกลิ้งไปบนพื้นเปียกตื้น ๆ ตัวละครแยกชิ้นส่วนกลายเป็นหินธรรมดา จบด้วยกล้องที่ยังคงโฟกัสไปที่หินที่กระจัดกระจายและเงาสะท้อนของพวกมัน
-
-กล้อง: จัดองค์ประกอบแนวตั้งแบบคงที่ในสไตล์สมาร์ทโฟน มีการเคลื่อนไหวของกล้องที่เป็นธรรมชาติเล็กน้อย ภาพระยะปานกลางถึงเต็มตัว มุมต่ำใกล้ระดับน้ำ โบเก้ที่ชัดเจนที่ฉากหน้าจากรั้ว ระยะชัดลึกแบบภาพยนตร์
-
-แสง: แสงกลางวันแบบนุ่มนวล บรรยากาศชายฝั่งที่มีเมฆมาก การสะท้อนและไฮไลต์ที่สมจริงบนหินที่เปียกชื้น
-
-สไตล์: สภาพแวดล้อมแบบไลฟ์แอ็กชันที่สมจริงเป็นพิเศษ + ตัวละครสตอปโมชันหินที่สมจริงและมีเสน่ห์ พื้นผิวหินที่สัมผัสได้ การเคลื่อนไหวที่สมจริงตามหลักฟิสิกส์ การถ่ายภาพมาโครแบบภาพยนตร์ ไม่มีพื้นผิวที่ดูเหมือน CGI ไม่มีข้อความ ไม่มีมนุษย์
-
-พรอมต์เชิงลบ: การ์ตูน, หินที่ดูเหมือนพลาสติก, ลักษณะใบหน้าที่เกินจริง, ตัวละคร CGI ที่เรียบเนียน, วัตถุลอยได้, ฟิสิกส์ที่ไม่สมจริง, แขนขาเกิน, สภาพแวดล้อมที่เปลี่ยนแปลง, การตัดต่อกล้อง, ข้อความ, ลายน้ำ, สีที่อิ่มตัวเกินไป
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097084466716160000/img/-GDM_shngZJPsaJs.jpg" width="600" alt="วิดีโอสตอปโมชันสิ่งมีชีวิตจากหินบนชายหาด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10514)**
-
-**Author:** [NETO 🎯](https://x.com/appneto) | **Source:** [Link](https://x.com/appneto/status/2097084726007771602) | **Published:** Sep 7, 2026
-
----
-### พร้อมท์สำหรับภาพเคลื่อนไหวทางด้านซ้าย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมท์วิดีโอที่ปรับแต่งมาเพื่อสร้างภาพเคลื่อนไหวจากภาพนิ่งที่อยู่ทางด้านซ้ายของหน้าจอ
-
-#### 📝 Prompt
-
-```
-เฮ้ บรอนายช่วยฉันหน่อยได้ไหม? ฉันว่าเราหลงประเด็นไปหน่อย อันที่คุณเคยทำน่ะ ที่มีรูปภาพอยู่ทางซ้ายแล้วมันขยับได้ใช่ไหมล่ะ แค่รูปภาพทางซ้ายที่เคลื่อนไหวได้ แล้วฉันก็บอกให้ทำอันนั้นใหม่โดยมีข้อความว่า...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097073586238566400/img/_R21Pzi_0yMssxxR.jpg" width="600" alt="พร้อมท์สำหรับภาพเคลื่อนไหวทางด้านซ้าย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10600)**
-
-**Author:** [sexy goddess](https://x.com/sexygoddess676) | **Source:** [Link](https://x.com/sexygoddess676/status/2097073650403021296) | **Published:** Sep 7, 2026
-
----
-### การเปลี่ยนฉากที่อยู่อาศัยบนดาวอังคารให้เป็นบรรยากาศยามค่ำคืน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการเปลี่ยนฉากที่อยู่อาศัยบนดาวอังคารที่มีฝุ่นสีส้มให้กลายเป็นฉากยามค่ำคืนสีน้ำเงินเข้มพร้อมแสงจันทร์สีเงิน
-
-#### 📝 Prompt
-
-```
-เปลี่ยนฉากที่อยู่อาศัยบนดาวอังคารนี้ให้เป็นเวอร์ชันยามค่ำคืน เปลี่ยนท้องฟ้าที่มีฝุ่นสีส้มมัวๆ ให้เป็นท้องฟ้ายามค่ำคืนที่มืดมิดด้วยโทนสีน้ำเงินเข้มและสีดำ เพิ่มดวงดาวจางๆ และปรับดวงจันทร์ให้มีแสงสว่างแบบกลางคืนด้วยแสงสีเงินและสีฟ้าที่ดูเย็นตา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097064259008057344/img/GJaZBpZP_nKZjOPS.jpg" width="600" alt="การเปลี่ยนฉากที่อยู่อาศัยบนดาวอังคารให้เป็นบรรยากาศยามค่ำคืน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10536)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2207,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-19T04:20:58.030Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-19T12:42:08.635Z</sub>
 
 </div>

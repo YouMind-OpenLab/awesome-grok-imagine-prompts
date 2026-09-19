@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2845** |
+| 📝 プロンプト総数 | **2857** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-19** |
 
@@ -189,6 +189,198 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### ローライダー vs テスラ ホバー チャレンジ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> エアショックで3フィート（約90cm）高くジャンプするクラシックなローライダー シェビーと、エアジェットで10フィート（約3m）の高さまで発射され5秒間ホバリングする新型赤いテスラ ロードスターが登場する対決動画シーケンスのプロンプト。
+
+#### 📝 プロンプト
+
+```
+エアショックを使って3フィート（約90cm）の高さでホッピングする古いローライダー シェビーの動画を制作し、続いてエアジェットで10フィート（約3m）の高さまで発射され、ゆっくり着地する前に5秒間ホバリングする新型赤いテスラ ロードスターを描いてください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="ローライダー vs テスラ ホバー チャレンジ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11042)**
+
+**作者:** [MentorCapitalist](https://x.com/mentorcapital1) | **ソース:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **公開日:** Sep 19, 2026
+
+---
+### カニ男対タコ侍の決闘
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 砂浜でカニ男とタコ男が侍スタイルで戦うショートアクション動画のプロンプト。
+
+#### 📝 プロンプト
+
+```
+砂浜でカニ男とタコ男が侍スタイルで戦うショート動画を作成
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="カニ男対タコ侍の決闘">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11040)**
+
+**作者:** [Wheez Keepee](https://x.com/Whizkeepee) | **ソース:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **公開日:** Sep 19, 2026
+
+---
+### オルゴールの上のバースデーカード
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 誕生日の歌を歌いながら、オルゴールの上にバースデーカードが置かれている動画シーンのプロンプト。
+
+#### 📝 プロンプト
+
+```
+愛、信頼、夢、希望を込めた Happy Birthday カードをオルゴールの上に置き、パートナーに「ハッピーバースデー」と声に出して祝う動画スタイルのシーン。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="オルゴールの上のバースデーカード">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11050)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **ソース:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **公開日:** Sep 18, 2026
+
+---
+### ムーンベース・アルファのシネマティックな確立ショット
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 『スペース:1999』におけるムーンベース・アルファの超広角IMAXシネマティック確立ショットの詳細プロンプト。その立地と工学的意義を描写します。
+
+#### 📝 プロンプト
+
+```
+『スペース:1999』に登場するムーンベース・アルファの超広角IMAXシネマティック確立ショット。人類史上最大の平和時における工学的達成であり、シャワーの海の直上にある保護されたプラトンクレーター内に建設された巨大な自給自足の都市...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="ムーンベース・アルファのシネマティックな確立ショット">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11043)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **公開日:** Sep 18, 2026
+
+---
+### シネマティック ハンバーガーシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine向けのシネマティックなハンバーガーシーンの詳細な動画生成プロンプト。ゴールデンアワーにハンバーガーとシェイクを楽しむ人々を描き、具体的な音声・映像の指示を含みます。
+
+#### 📝 プロンプト
+
+```
+彼らは笑い合い、歓声を上げ、ハンバーガーにかぶりつきます。シェイクがわずかにこぼれ落ち、アスペンの葉擦れの音が響く中、シネマティックなゴールデンアワーの白い光が差し込みます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="シネマティック ハンバーガーシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11049)**
+
+**作者:** [Connie Willis](https://x.com/conniewillisx) | **ソース:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **公開日:** Sep 18, 2026
+
+---
+### 感情的なシネマティック・セグメントのプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 感情的なストーリーテリング、ゴールデンアワーの照明、流れる髪や紫色の衣装など、キャラクターの詳細に焦点を当てたシネマティック・セグメントのための詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+セグメント #8
+「自由へのオード」/「勇気へのオード」と同じ、高品質な感情表現スタイルのシネマティック 50〜75 秒間のセグメント。ゆっくりと呼吸するようなトランジション。ゴールデンアワーとランタンの暖かい光。
+老人の髪が風になびく様子を長く描き、紫色のフローリングボールガ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="感情的なシネマティック・セグメントのプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11044)**
+
+**作者:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **ソース:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **公開日:** Sep 18, 2026
+
+---
+### コメディシーン：タバコの誘惑
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 拘束された男性が必死にタバコを懇願し、エージェントが挑発的に誘惑するコメディシーンの詳細なビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+コメディシーン : 金髪で礼儀正しい男性が拘束され、必死にタバコを懇願している。足はピクつき、腹筋は収縮している。エージェントは彼の目の前で深く吸い込みながら、挑発的に誘惑している....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="コメディシーン：タバコの誘惑">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11041)**
+
+**作者:** [dacoit](https://x.com/davidjohnkong) | **ソース:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **公開日:** Sep 18, 2026
+
+---
+### Grok Imagine ビデオプロンプト: 1980年代アニメ風リスタイル
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> コンテンツをクラシックな1980年代のアニメセル画風にリスタイルするための、Grok Imagine 向けビデオ/画像変換プロンプト。
+
+#### 📝 プロンプト
+
+```
+この画像全体をクラシックな1980年代のアニメスタイルにリスタイルしてください。伝統的な80年代アニメのセル画ルックを使用し、太い黒輪郭線、ソフトなグラデーションを施したフラットなセルシェーディング、そして80年代ダークファンタジーアニメ特有の鮮やかでありながらやや抑えられたカラーパレットを採用します。細部まで...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="Grok Imagine ビデオプロンプト: 1980年代アニメ風リスタイル">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11047)**
+
+**作者:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **ソース:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **公開日:** Sep 18, 2026
+
+---
+### 80年代アニメ風変換プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine用の動画生成プロンプトで、写真をクラシックな1980年代のアニメスタイルに変換します。エメラルド色の目や濡れた髪などキャラクターの特徴を詳細に指定しています。
+
+#### 📝 プロンプト
+
+```
+この写真を完全にクラシックな1980年代のアニメスタイルに変換してください。女性を、大きく表現力豊かなエメラルドグリーンの目、一本一本の毛先とハイライトが描き込まれた流れるような濡れた黒髪、ソフトなセルシェーディングの肌...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="80年代アニメ風変換プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11046)**
+
+**作者:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **ソース:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **公開日:** Sep 18, 2026
+
+---
+### スターシップ回収コレクションモンタージュプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> SpaceX の Starship 回収に関連する画像コレクションから、15 秒のビデオモンタージュを生成するためのプロンプトです。青いフレームを削除する指示が含まれています。
+
+#### 📝 プロンプト
+
+```
+含まれている画像から、完全な 15 秒の動画を作成してください。動画セグメントから青いフレームを削除してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="スターシップ回収コレクションモンタージュプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11045)**
+
+**作者:** [LEB](https://x.com/LEBcando) | **ソース:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **公開日:** Sep 18, 2026
+
+---
 ### コーラとメントスの爆発シーン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +398,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11002)**
 
 **作者:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **ソース:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **公開日:** Sep 18, 2026
+
+---
+### ちびキャラ風写真変換
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 顔の特徴を保持しつつ、頭部や目のサイズなどの要素を誇張し、愛らしいちびキャラ風のアニメキャラクターに変換するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+この写真を愛らしいちびキャラ風に加工してください: 男性は非常に大きな頭と大きく表情豊かな目を持ち、体は小さく、かわいらしく誇張された特徴、ソフトなアニメーションの影付け、丸い大きな頭、短い手足、彼の正確な顔の特徴を保持、短い灰色の髪、...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842464386908160/img/VULVZCMwc0iliOcd.jpg" width="600" alt="ちびキャラ風写真変換">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11039)**
+
+**作者:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **ソース:** [Link](https://x.com/Joebutter1111/status/2100842480107175964) | **公開日:** Sep 18, 2026
 
 ---
 ### セントラルパークのシンデレラ
@@ -301,6 +512,25 @@ Bud Light の Kid Rock の CM で缶を撃つあの瞬間を Tillamook チーズ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11000)**
 
 **作者:** [Dame](https://x.com/Damesall313) | **ソース:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **公開日:** Sep 17, 2026
+
+---
+### Anthropomorphic Transformation Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt for transforming a character into an animal-like state with hooves and tail.
+
+#### 📝 プロンプト
+
+```
+Make him flex and bray as he get down on all fours as hooves for and a tail pops out of his shorts as he down on all fours
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100557315292147712/img/NL6bqOR_GoRlzjYG.jpg" width="600" alt="Anthropomorphic Transformation Prompt">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11048)**
+
+**作者:** [pup mb](https://x.com/mikeb5222094828) | **ソース:** [Link](https://x.com/mikeb5222094828/status/2100557439556849968) | **公開日:** Sep 17, 2026
 
 ---
 ### Grok Imagine プロンプト：シベリアトラの野生動物写真
@@ -1903,248 +2133,6 @@ Expeng IRON ロボットがこの DUcati にまたがり、ショールームの
 **作者:** [幣気](https://x.com/meixieshi) | **ソース:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **公開日:** Sep 8, 2026
 
 ---
-### 構造化カメラオービットコードプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 映画のような車のオービットモーションを実現するための、複雑な構造化トラッキングショットコードペイロードです。
-
-#### 📝 プロンプト
-
-```
-{"shot":{"motion_level":"medium","camera_depth":"ミディアムショットからロングショットへ移行","camera_view":"ローアングルからアイレベルへ移行","camera_movement":"車のフロント 3/4 周囲をゆっくりと回る英雄的なローアングルオービットとプッシュイン、続いてスムーズな St..."}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097244337474015232/img/r0BlwPQ_7CWm2otx.jpg" width="600" alt="構造化カメラオービットコードプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10595)**
-
-**作者:** [Jacek](https://x.com/iadventurejacek) | **ソース:** [Link](https://x.com/iadventurejacek/status/2097244382147620979) | **公開日:** Sep 8, 2026
-
----
-### SF 将棋艦隊戦
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 伝統的な将棋の駒をモチーフにした、壮大なシネマティック宇宙戦のビジュアライゼーション。
-
-#### 📝 プロンプト
-
-```
-将棋の艦隊戦をテーマにした壮大なシネマティック宇宙戦シーン。タイトルは「宇宙戦艦強士 第76話 戦闘ログ版」。青く光るエンジンを搭載した巨大な未来型宇宙戦艦「強士（Goshi）」、そして巨大な赤と金の龍へと変貌を遂げた成飛車が……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182756270923776/img/7aZ-Eqgg2bd6OKyU.jpg" width="600" alt="SF 将棋艦隊戦">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10541)**
-
-**作者:** [後藤強士](https://x.com/rubensutsuyosi) | **ソース:** [Link](https://x.com/rubensutsuyosi/status/2097182797463216167) | **公開日:** Sep 8, 2026
-
----
-### 感情豊かなシネマティック・ビデオ・シーケンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> アメリカへ移住した兄弟を恋しく思う女性を描いた、シネマティックなキャラクター・シーケンスを生成します。
-
-#### 📝 プロンプト
-
-```
-彼女はアメリカへ移住した 3 人の兄弟、Michael、Alexander、そして Stanislaw を恋しく思っている
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182253441048576/img/0hKUEmqtawJgdBWE.jpg" width="600" alt="感情豊かなシネマティック・ビデオ・シーケンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10601)**
-
-**作者:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **ソース:** [Link](https://x.com/Trad_Teodor/status/2097182324802863213) | **公開日:** Sep 8, 2026
-
----
-### 高級ホテルの客室で物思いにふける男性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 高級ホテルのスイートルームで、テレビを見ながら深く考え込んでいるアフリカ系アメリカ人の中年男性を捉えた、物語調のシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-広々とした高級ホテルの客室にいる、アフリカ系アメリカ人の中年男性の動画を作成してください。彼は椅子に座り、リモコンを手にテレビを見ています。彼はふと動きを止め、物思いにふけります。「仕事の休暇？ もちろん……」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097177940056576000/img/OIuXUMcw-2Y4a28H.jpg" width="600" alt="高級ホテルの客室で物思いにふける男性">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10604)**
-
-**作者:** [TheDocBrown](https://x.com/ChrisBrownMDMPH) | **ソース:** [Link](https://x.com/ChrisBrownMDMPH/status/2097177961115861124) | **公開日:** Sep 8, 2026
-
----
-### 未来的な宇宙戦艦の盤面
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 戦術的なチェス盤のような銀河の戦争を見下ろす、司令ブリッジの反応を描いた包括的でドラマチックな SF ビジュアライゼーション。
-
-#### 📝 プロンプト
-
-```
-宇宙戦艦ゴシ 第 76 話「第 5 レーンの放棄、辺境の残光」。西暦 2326 年、土星の環の外縁。巨大な 3D 将棋盤のような宇宙空間。中央の第 5 レーンは黄金色に燃え、放棄された歩兵型の宇宙機雷の残光が漂っている。旗艦「ゴシ」（艦首に黄金の「ゴシ」の文字が輝く、大和型の重厚なシルエット）が斜めのアングルから見下ろしている。ブリッジの窓越しに、眼鏡をかけた黒髪の指揮官が、第 1 レーンの端へと脱出する自艦の軌道を眺めている。右端の帯では、キングシップが 18 と 19 の間を薄く光りながら滑走し、敵の成香と歩打ちの赤いビームに追われている。中央では、竜型の戦艦と成角が敵のキングシップに向き合っている。背景には土星の環と遠くのアステロイドベルトが広がっている...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097154072587669504/img/dZJLsiN6IUiD6C7f.jpg" width="600" alt="未来的な宇宙戦艦の盤面">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10542)**
-
-**作者:** [後藤強士](https://x.com/rubensutsuyosi) | **ソース:** [Link](https://x.com/rubensutsuyosi/status/2097154118683181073) | **公開日:** Sep 8, 2026
-
----
-### 映画「ラビリンス」の仮面舞踏会風ビデオプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 映画「ラビリンス」の仮面舞踏会シーンにインスパイアされた、ドラマチックでフォトリアルな映画風の映像を作成します。精巧な白いドレスをまとった女性が主役です。
-
-#### 📝 プロンプト
-
-```
-映画「ラビリンス」の仮面舞踏会にインスパイアされた、ドラマチックでフォトリアルな映画風のシーンを作成してください。中央には、長く流れるようなブロンドヘアの美しい若い女性がおり、大きなパフスリーブがついた、精巧で幻想的な白い輝きを放つ舞踏会用ドレスを着用しています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097152210047995904/img/hfIE8GhaVJDBRd8a.jpg" width="600" alt="映画「ラビリンス」の仮面舞踏会風ビデオプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10599)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2097152232378573305) | **公開日:** Sep 8, 2026
-
----
-### Tesla Optimus ロボットのショールーム退場シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tesla Optimus が Elon Musk に手を振って別れを告げ、バイクに乗ってショールームから走り去る様子を収めた、特定のナラティブなロボット動画。
-
-#### 📝 プロンプト
-
-```
-Tesla のロボット Optimus が、Elon Musk に別れを告げた後、このバイクに乗り込み、ショールームの正面玄関から走り去る様子
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097121258639093760/img/rYMMJ-BO3xpLK4x8.jpg" width="600" alt="Tesla Optimus ロボットのショールーム退場シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10608)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **ソース:** [Link](https://x.com/RobinMurrat43a/status/2097121332676927819) | **公開日:** Sep 8, 2026
-
----
-### 歴史的建造物崩壊のドラマチックな映像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 歴史的な危機的状況において、建造物が崩壊し、人々が苦悩する様子を描いた、非常に感情的で映画のような映像です。
-
-#### 📝 プロンプト
-
-```
-9.11 、崩れ落ちるビル、愛する人を探し求める家族たち。25 年前の誓い、私たちは決して忘れない。ビルから飛び降りる人々の姿……。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097118531611418624/img/LrFIG2xJE9P3l8zb.jpg" width="600" alt="歴史的建造物崩壊のドラマチックな映像">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10594)**
-
-**作者:** [Marie](https://x.com/Marie8508319540) | **ソース:** [Link](https://x.com/Marie8508319540/status/2097118559407083783) | **公開日:** Sep 8, 2026
-
----
-### SF アクション映画のマッシュアップ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 未来的なランナー映画のテーマ要素と特定の俳優を組み合わせた、詳細な SF 動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-AI が大好きです…「ランナー」映画の要素を、ガル・ガドットとアラン・リッチソンで組み合わせてみました。ガル演じるキャラクターは息子が誘拐されたために走っており、一方のアランは子供への臓器移植を届けるために走っていますが、何者かに追われているというストーリーです。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097099626264547328/img/mq1TfBZObq3g9JBJ.jpg" width="600" alt="SF アクション映画のマッシュアップ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10529)**
-
-**作者:** [Simon](https://x.com/schaniteration2) | **ソース:** [Link](https://x.com/schaniteration2/status/2097099666718597445) | **公開日:** Sep 7, 2026
-
----
-### ストップモーション：海岸の石の生き物動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 岩場の海岸で石のフィギュアが動き出す、シネマティックなストップモーション動画を作成するための詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-9:16 形式のシネマティックな 21 秒間の縦型ストップモーションアニメーションを作成してください。自然な形の滑らかなビーチの石だけで作られた小さな人型のフィギュアが、岩場の海岸にある浅い潮だまりで命を吹き込まれます。体の各パーツは個々の石で構成されており、頭部は大きな楕円形の石、胴体は丸い石を積み重ねたもの、腕と脚は小さな石で形成されています。
-
-シーンはわずかにぼやけた金網フェンス越しに撮影されており、前景に自然なフレームを作り出しています。キャラクターの背後には、穏やかな海岸線、浅い海水、フジツボに覆われた岩、海藻、そして曇り空の下にわずかにぼやけた森が広がっています。フォトリアルな質感、落ち着いた自然な色合い、浅い被写界深度、リアルな水面の反射を表現してください。
-
-アニメーション：石のフィギュアがゆっくりとバランスを取り、遊び心のある小さな人間のように動き始めます。重心を移動させ、片足を上げ、膝を曲げ、石の腕を振り、濡れた表面でバランスを慎重に保ちながら、奇妙で可愛らしいダンスを披露します。一歩ごとに小さな波紋が広がり、水面にはその反射が自然に揺らめきます。動きは手作りのストップモーションのような、わずかに不完全ながらも説得力のあるもので、石のリアルな物理挙動と重量感を感じさせるようにしてください。
-
-最後の数秒で、フィギュアはバランスを崩してつまずき、自然に崩れ落ちます。個々の石はバラバラになり、濡れた浅瀬の地面に転がります。キャラクターは完全に元のただの石に戻ります。最後は、散らばった石と水面に映るその反射にカメラが焦点を合わせたまま終了します。
-
-カメラ：スマートフォン風の固定された縦型構図、繊細で自然なカメラワーク、ミディアムフルショット、水面近くのローアングル、フェンスによる前景の強いボケ味、シネマティックな被写界深度。
-
-ライティング：柔らかな拡散光の昼光、曇りの海岸の雰囲気、濡れた石に映るリアルな反射とハイライト。
-
-スタイル：超リアルな実写環境 ＋ 遊び心のあるフォトリアルな石のストップモーションキャラクター、触感のある石の質感、物理的に説得力のある動き、シネマティックなマクロ撮影。CGI のような質感は避け、テキストや人間は含めないでください。
-
-ネガティブプロンプト：漫画、プラスチックのような石、誇張された顔のパーツ、滑らかな CGI キャラクター、浮遊する物体、非現実的な物理挙動、余分な手足、変化する環境、カメラのカット、テキスト、透かし、彩度が高すぎる色。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097084466716160000/img/-GDM_shngZJPsaJs.jpg" width="600" alt="ストップモーション：海岸の石の生き物動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10514)**
-
-**作者:** [NETO 🎯](https://x.com/appneto) | **ソース:** [Link](https://x.com/appneto/status/2097084726007771602) | **公開日:** Sep 7, 2026
-
----
-### 左側画像のアニメーション化プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 画面左側の静止画をアニメーション化するために設計された、カスタマイズ可能な動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-ねえ、ちょっと助けてくれる？話が少し噛み合っていないみたいなんだけど。以前作ってくれたやつで、左側に画像があって、それが動いているものがあったよね。左側の画像をアニメーション化するやつをもう一度やり直してほしいんだけど、テキストは...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097073586238566400/img/_R21Pzi_0yMssxxR.jpg" width="600" alt="左側画像のアニメーション化プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10600)**
-
-**作者:** [sexy goddess](https://x.com/sexygoddess676) | **ソース:** [Link](https://x.com/sexygoddess676/status/2097073650403021296) | **公開日:** Sep 7, 2026
-
----
-### 火星の居住施設の夜間変換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 埃っぽいオレンジ色の火星の居住施設のシーンを、銀色の月明かりが照らす深い藍色の夜のシーンに変換するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-この火星の居住施設のシーンを夜のバージョンに変換してください。埃っぽいオレンジ色のかすんだ空を、深い藍色と黒の色調で構成された夜空に変更し、かすかな星を追加してください。また、月には冷たい銀色と青色の光を当て、夜らしい明るい輝きを与えてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097064259008057344/img/GJaZBpZP_nKZjOPS.jpg" width="600" alt="火星の居住施設の夜間変換">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10536)**
-
-**作者:** [Sahil Verma](https://x.com/sahilvermaai) | **ソース:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **公開日:** Sep 7, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2206,6 +2194,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-19T04:20:55.249Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-19T12:42:05.780Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2845** |
+| 📝 Total Prompts | **2857** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-19** |
 
@@ -189,6 +189,198 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### लो राइडर बनाम टेस्ला होवर चैलेंज
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक प्रतिस्पर्धी वीडियो सीक्वेंस के लिए एक प्रॉम्प्ट जिसमें एक क्लासिक लो राइडर शेवी एयर शॉक्स का उपयोग करके तीन फीट ऊपर उछलता है, इसके बाद एक नई लाल Tesla Roadster एयर जेट्स के साथ दस फीट ऊपर लॉन्च होती है और पांच सेकंड तक हवा में तैरती है।
+
+#### 📝 Prompt
+
+```
+एक वीडियो बनाएं जिसमें एक पुरानी लो राइडर शेवी कार एयर शॉक्स के साथ 3 फीट ऊपर उछलती है, फिर एक नई लाल Tesla Roadster एयर जेट्स के साथ 10 फीट ऊपर लॉन्च होती है और धीरे-धीरे लैंड करने से पहले 5 सेकंड तक हवा में तैरती है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="लो राइडर बनाम टेस्ला होवर चैलेंज">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11042)**
+
+**Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
+
+---
+### Crab Man vs Octopus Samurai Fight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a short action video featuring a crab-man and an octopus-man engaging in a samurai-style fight on a beach.
+
+#### 📝 Prompt
+
+```
+make a short video a crab-man and an octopus man fighting on the beach samurai style
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="Crab Man vs Octopus Samurai Fight">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11040)**
+
+**Author:** [Wheez Keepee](https://x.com/Whizkeepee) | **Source:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **Published:** Sep 19, 2026
+
+---
+### म्यूजिक बॉक्स सीन पर जन्मदिन का कार्ड
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> एक वीडियो सीन के लिए प्रॉम्प्ट जिसमें एक जन्मदिन का कार्ड म्यूजिक बॉक्स पर रखा है और कोई हैप्पी बर्थडे गा रहा है।
+
+#### 📝 Prompt
+
+```
+एक वीडियो-शैली का सीन जो 'हैप्पी बर्थडे' कहकर उत्सव मनाता है, जिसमें प्यार, विश्वास, सपनों और उम्मीदों की शुभकामनाओं वाला एक हैप्पी बर्थडे कार्ड उसके स्वदेशी साथी के लिए बनाया गया है और इसे म्यूजिक बॉक्स के ऊपर रखा गया है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="म्यूजिक बॉक्स सीन पर जन्मदिन का कार्ड">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11050)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **Published:** Sep 18, 2026
+
+---
+### मूनबेस अल्फा का सिनेमाई एस्टैब्लिशिंग शॉट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> स्पेस: 1999 से मूनबेस अल्फा के अल्ट्रा-वाइड IMAX सिनेमाई एस्टैब्लिशिंग शॉट के लिए एक विस्तृत प्रॉम्प्ट, जिसमें इसकी स्थिति और इंजीनियरिंग महत्व का वर्णन किया गया है।
+
+#### 📝 Prompt
+
+```
+स्पेस: 1999 से मूनबेस अल्फा का अल्ट्रा-वाइड IMAX सिनेमाई एस्टैब्लिशिंग शॉट, मानवता की शांतिकालीन इंजीनियरिंग उपलब्धियों में सबसे बड़ा, प्लेटो के गहरे क्रेटर में बनाया गया एक विशाल स्वयं-निर्भर शहर जो सी ऑफ़ शॉवर्स के ठीक ऊपर स्थित है...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="मूनबेस अल्फा का सिनेमाई एस्टैब्लिशिंग शॉट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11043)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **Published:** Sep 18, 2026
+
+---
+### सिनेमैटिक बर्गर दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> गोल्डन आवर में बर्गर और शेक का आनंद ले रहे लोगों के सिनेमैटिक दृश्य का वर्णन करने वाला Grok Imagine के लिए एक विस्तृत वीडियो जनरेशन प्रॉम्प्ट, जिसमें विशिष्ट ऑडियो और विज़ुअल क्यू शामिल हैं।
+
+#### 📝 Prompt
+
+```
+वे हंसते और खुश होते हैं, बर्गर के बाइट लेते हैं, शेक थोड़ा सा फिसलता है, एस्पेन की सरसराहट, सिनेमैटिक गोल्डन आवर सफेद।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="सिनेमैटिक बर्गर दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11049)**
+
+**Author:** [Connie Willis](https://x.com/conniewillisx) | **Source:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **Published:** Sep 18, 2026
+
+---
+### भावनात्मक सिनेमाई सेगमेंट प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत प्रॉम्प्ट जो भावनात्मक कहानी सुनाने, गोल्डन-आवर लाइटिंग और विशेष किरदारों के विवरण जैसे बहते हुए बाल और बैंगनी वस्त्रों पर केंद्रित एक सिनेमाई सेगमेंट के लिए है।
+
+#### 📝 Prompt
+
+```
+सेगमेंट #8
+"An Ode to Freedom" / "Ode to Courage" की तरह उच्च-प्रोडक्शन मानक वाली भावनात्मक शैली में 50–75 सेकंड का सिनेमाई सेगमेंट। धीमे, सांस लेने जैसे ट्रांजिशन। गोल्डन-आवर और लालटेन जैसी गर्म रोशनी।
+बुजुर्ग के बाल हवा में बहते हुए दिखाएं और बैंगनी रंग का बॉल गाउन...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="भावनात्मक सिनेमाई सेगमेंट प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
+
+**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
+
+---
+### कॉमेडी सीन: सिगरेट का लालच
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक कॉमेडी सीन के लिए विस्तृत वीडियो प्रॉम्प्ट जिसमें एक बांधा हुआ व्यक्ति बेसब्री से सिगरेट मांग रहा है, जबकि एक एजेंट उसे मज़ाक में लुभा रहा है।
+
+#### 📝 Prompt
+
+```
+कॉमेडी सीन: गोरा, बांधा हुआ, विनम्र व्यक्ति जो बेसब्री से सिगरेट मांग रहा है, उसके पैर हिल रहे हैं, पेट की मांसपेशियां सिकुड़ रही हैं। एजेंट उसके सामने गहरी कश लगाकर उसे मज़ाक में लुभा रहा है....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="कॉमेडी सीन: सिगरेट का लालच">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11041)**
+
+**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **Published:** Sep 18, 2026
+
+---
+### Grok Imagine वीडियो प्रॉम्प्ट: 1980s एनीमे रीस्टाइल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ग्राफिक/वीडियो ट्रांसफॉर्मेशन के लिए Grok Imagine का एक प्रॉम्प्ट जो कंटेंट को क्लासिक 1980s एनीसे सेल एनिमेशन लुक में रीस्टाइल करता है।
+
+#### 📝 Prompt
+
+```
+इस पूरी इमेज को क्लासिक 1980s एनीमे स्टाइल में रीस्टाइल करें। पारंपरिक 80s एनीमे सेल एनिमेशन लुक का उपयोग करें: मोटी ब्लैक आउटलाइन, सॉफ्ट ग्रेडिएंट्स के साथ फ्लैट सेल-शेडिंग, 80s डार्क फैंटेसी एनीमे की विशिष्ट जीवंत लेकिन थोड़ी म्यूटेड कलर पैलेट, अत्यधिक विस्तृत...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: 1980s एनीमे रीस्टाइल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11047)**
+
+**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **Published:** Sep 18, 2026
+
+---
+### 80s एनीमे स्टाइल ट्रांसफॉर्मेशन प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जो फोटो को क्लासिक 1980s एनीमे स्टाइल में बदलता है, जिसमें पन्ना हरे रंग की आँखें और गीले बाल जैसे कैरेक्टर फीचर्स का विवरण दिया गया है।
+
+#### 📝 Prompt
+
+```
+इस फोटो को पूरी तरह से क्लासिक 1980s एनीमे स्टाइल में रिस्टाइल करें। महिला को एक सुंदर 80s एनीमे हीरोइन में बदलें, जिसमें बड़ी अभिव्यक्तिपूर्ण पन्ना हरी आँखें, अलग-अलग लटों और हाइलाइट्स के साथ विस्तृत बहते हुए गीले काले बाल, सॉफ्ट सेल-शेडेड त्वचा...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="80s एनीमे स्टाइल ट्रांसफॉर्मेशन प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11046)**
+
+**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **Published:** Sep 18, 2026
+
+---
+### स्टारशिप कलेक्शन मोंटाज प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> SpaceX के स्टारशिप रिकवरी से संबंधित छवियों के संग्रह से 15-सेकंड का वीडियो मोंटाज उत्पन्न करने के लिए उपयोग किया जाने वाला एक प्रॉम्प्ट, जिसमें ब्लू फ्रेम हटाने के निर्देश भी शामिल हैं।
+
+#### 📝 Prompt
+
+```
+शामिल की गई छवियों से एक पूर्ण 15-सेकंड का वीडियो बनाएं। कृपया अपने वीडियो खंड से ब्लू फ्रेम हटा दें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="स्टारशिप कलेक्शन मोंटाज प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11045)**
+
+**Author:** [LEB](https://x.com/LEBcando) | **Source:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **Published:** Sep 18, 2026
+
+---
 ### कोक और मेंटोस विस्फोट दृश्य
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +398,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11002)**
 
 **Author:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **Source:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **Published:** Sep 18, 2026
+
+---
+### छिबी स्टाइल फोटो ट्रांसफॉर्मेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक प्रॉम्प्ट जो फोटो को प्यारे छिबी स्टाइल एनीमे कैरेक्टर में बदलता है, चेहरे की समानता बनाए रखते हुए सिर के आकार और आंखों जैसी विशेषताओं को अतिशयोक्तिपूर्ण तरीके से दिखाता है।
+
+#### 📝 Prompt
+
+```
+इस फोटो को प्यारे छिबी स्टाइल में बदलें: व्यक्ति का सिर बहुत बड़ा और असामान्य रूप से बड़ा हो, बड़ी अभिव्यंजक आंखें हों, छोटा शरीर हो, प्यारी अतिशयोक्तिपूर्ण विशेषताएं हों, नरम एनीमे शेडिंग हो, बड़ा गोल सिर हो, छोटे अंग हों, उसके चेहरे की सटीक समानता बनाए रखी जाए, छोटे भूरे बाल हों,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842464386908160/img/VULVZCMwc0iliOcd.jpg" width="600" alt="छिबी स्टाइल फोटो ट्रांसफॉर्मेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11039)**
+
+**Author:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **Source:** [Link](https://x.com/Joebutter1111/status/2100842480107175964) | **Published:** Sep 18, 2026
 
 ---
 ### सेंट्रल पार्क में सिंड्रेला
@@ -301,6 +512,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11000)**
 
 **Author:** [Dame](https://x.com/Damesall313) | **Source:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **Published:** Sep 17, 2026
+
+---
+### एन्थ्रोपोमॉर्फिक ट्रांसफॉर्मेशन प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> किसी पात्र को खुरों और पूंछ वाले जानवर जैसे रूप में बदलने के लिए प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+उसे चारों पैरों पर झुकते हुए मस्कुल फ्लेक्स करते और गधे जैसी आवाज़ निकालते दिखाएं, जबकि उसके शॉर्ट्स से खुर और एक पूंछ बाहर आती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100557315292147712/img/NL6bqOR_GoRlzjYG.jpg" width="600" alt="एन्थ्रोपोमॉर्फिक ट्रांसफॉर्मेशन प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11048)**
+
+**Author:** [pup mb](https://x.com/mikeb5222094828) | **Source:** [Link](https://x.com/mikeb5222094828/status/2100557439556849968) | **Published:** Sep 17, 2026
 
 ---
 ### Grok Imagine प्रॉम्प्ट: साइबेरियन बाघ वन्यजीव फोटोग्राफी
@@ -1904,248 +2134,6 @@ Galactic Federation की बैंगनी, सफेद और सुनह�
 **Author:** [幣気](https://x.com/meixieshi) | **Source:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **Published:** Sep 8, 2026
 
 ---
-### स्ट्रक्चर्ड कैमरा ऑर्बिट कोड प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सिनेमैटिक कार ऑर्बिट मोशन लेवल के लिए एक जटिल स्ट्रक्चर्ड ट्रैकिंग शॉट कोड पेलोड।
-
-#### 📝 Prompt
-
-```
-{"shot":{"motion_level":"medium","camera_depth":"मीडियम शॉट जिसके बाद लॉन्ग शॉट","camera_view":"लो एंगल जो आई लेवल में बदल जाता है","camera_movement":"कार के सामने के 3/4 हिस्से के चारों ओर धीमा और शानदार लो-एंगल ऑर्बिट और पुश, जिसके बाद स्मूथ St...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097244337474015232/img/r0BlwPQ_7CWm2otx.jpg" width="600" alt="स्ट्रक्चर्ड कैमरा ऑर्बिट कोड प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10595)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097244382147620979) | **Published:** Sep 8, 2026
-
----
-### Sci Fi Shogi Fleet Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> पारंपरिक जापानी शतरंज (शोगी) के मोहरों के साथ एक विस्तृत सिनेमाई अंतरिक्ष युद्ध का दृश्य।
-
-#### 📝 Prompt
-
-```
-शोगी (जापानी शतरंज) फ्लीट युद्ध की थीम पर आधारित एक महाकाव्य सिनेमाई अंतरिक्ष युद्ध का दृश्य, जिसका शीर्षक "宇宙戦艦強士 第76話 戦闘ログ版" है। चमकदार नीले इंजन वाला विशाल भविष्यवादी अंतरिक्ष युद्धपोत "Goshi" (宇宙戦艦強士), जिसका प्रमोटेड रूक एक विशाल लाल और सुनहरे ड्रैगन में बदल गया है...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182756270923776/img/7aZ-Eqgg2bd6OKyU.jpg" width="600" alt="Sci Fi Shogi Fleet Battle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10541)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2097182797463216167) | **Published:** Sep 8, 2026
-
----
-### भावनात्मक सिनेमाई वीडियो अनुक्रम
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक ऐसी महिला का सिनेमाई चरित्र अनुक्रम तैयार करता है जो अमेरिका प्रवास कर चुके अपने भाइयों को याद कर रही है।
-
-#### 📝 Prompt
-
-```
-वह अपने तीन भाइयों को याद कर रही है: Michael, Alexander, और Stanislaw, जो USA प्रवास कर गए हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182253441048576/img/0hKUEmqtawJgdBWE.jpg" width="600" alt="भावनात्मक सिनेमाई वीडियो अनुक्रम">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10601)**
-
-**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2097182324802863213) | **Published:** Sep 8, 2026
-
----
-### लक्जरी होटल के कमरे में विचारमग्न
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक नैरेटिव सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें एक अधेड़ उम्र का अफ्रीकी-अमेरिकी व्यक्ति लक्जरी सुइट में टेलीविजन देखते हुए गहराई से सोच रहा है।
-
-#### 📝 Prompt
-
-```
-एक बड़े लक्जरी होटल के कमरे में एक अधेड़ उम्र के अफ्रीकी-अमेरिकी व्यक्ति का वीडियो बनाएं। वह कुर्सी पर बैठा है और हाथ में रिमोट लिए टीवी देख रहा है। वह रुकता है और विचारमग्न हो जाता है। "काम से छुट्टी? बिल्कुल...."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097177940056576000/img/OIuXUMcw-2Y4a28H.jpg" width="600" alt="लक्जरी होटल के कमरे में विचारमग्न">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10604)**
-
-**Author:** [TheDocBrown](https://x.com/ChrisBrownMDMPH) | **Source:** [Link](https://x.com/ChrisBrownMDMPH/status/2097177961115861124) | **Published:** Sep 8, 2026
-
----
-### भविष्यवादी स्पेस बैटलशिप बोर्ड
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एक व्यापक नाटकीय विज्ञान-फाई विज़ुअलाइज़ेशन, जो एक सामरिक शतरंज-ग्रिड गैलेक्सी युद्ध को देखते हुए कमांड ब्रिज की प्रतिक्रियाओं को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-स्पेस बैटलशिप Goshi एपिसोड 76 'पांचवीं लेन का परित्याग, किनारे पर सूर्यास्त की चमक'। वर्ष 2326, शनि के छल्लों का बाहरी किनारा। एक विशाल 3D शोगी बोर्ड जैसा बाहरी अंतरिक्ष। केंद्रीय पांचवीं लेन सुनहरे रंग में जल रही है, जिसमें छोड़ी गई प्यादा-प्रकार की स्पेस माइन्स की चमक तैर रही है। फ्लैगशिप 'Goshi' (धनुष पर सुनहरे 'Goshi' के साथ एक भारी Yamato-शैली का सिल्हूट) तिरछे कोण से नीचे देख रहा है। ब्रिज की खिड़की से, चश्मा पहने एक काले बालों वाला कमांडर अपने जहाज को पहली लेन के किनारे की ओर भागते हुए उसके प्रक्षेपवक्र को देख रहा है। सुदूर दाईं ओर की पट्टी पर, किंग जहाज 18 और 19 के बीच पतली चमक के साथ आगे बढ़ रहा है, जिसका पीछा दुश्मन के प्रमोटेड लांस और प्यादा ड्रॉप की लाल किरणें कर रही हैं। केंद्र में, ड्रैगन-प्रकार का बैटलशिप और प्रमोटेड बिशप दुश्मन के किंग जहाज की ओर मुंह किए हुए हैं। पृष्ठभूमि में शनि के छल्ले और एक दूर का क्षुद्रग्रह बेल्ट है...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097154072587669504/img/dZJLsiN6IUiD6C7f.jpg" width="600" alt="भविष्यवादी स्पेस बैटलशिप बोर्ड">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10542)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2097154118683181073) | **Published:** Sep 8, 2026
-
----
-### Labyrinth Masquerade Ball वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Labyrinth फिल्म के masquerade ball से प्रेरित एक नाटकीय, फोटो-रियलिस्टिक सिनेमैटिक दृश्य बनाता है, जिसमें एक महिला को विस्तृत सफेद गाउन में दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-Labyrinth फिल्म के masquerade ball से प्रेरित एक नाटकीय फोटो-रियलिस्टिक सिनेमैटिक दृश्य बनाएं। केंद्र में, लंबे सुनहरे बालों वाली एक सुंदर युवती है, जिसने बड़ी फूली हुई आस्तीनों वाला एक विस्तृत, ईथर जैसा सफेद चमकदार बॉल गाउन पहना हुआ है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097152210047995904/img/hfIE8GhaVJDBRd8a.jpg" width="600" alt="Labyrinth Masquerade Ball वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10599)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2097152232378573305) | **Published:** Sep 8, 2026
-
----
-### Tesla Optimus रोबोट का शोरूम से बाहर निकलना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विशिष्ट नैरेटिव रोबोट एक्शन वीडियो जिसमें Tesla Optimus को Elon Musk को अलविदा कहते हुए और एक शोरूम से मोटरसाइकिल पर बाहर निकलते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-TESLA का रोबोट, OPTIMUS, इस मोटरसाइकिल पर सवार होता है और ELON को अलविदा कहने के बाद इस शोरूम के मुख्य दरवाजे से बाहर निकल जाता है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097121258639093760/img/rYMMJ-BO3xpLK4x8.jpg" width="600" alt="Tesla Optimus रोबोट का शोरूम से बाहर निकलना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10608)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097121332676927819) | **Published:** Sep 8, 2026
-
----
-### ऐतिहासिक नाटकीय इमारत ढहने का वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक ऐतिहासिक संकट की घटना का अत्यधिक भावनात्मक और सिनेमाई चित्रण, जिसमें गिरती हुई वास्तुकला और परेशान नागरिक शामिल हैं।
-
-#### 📝 Prompt
-
-```
-9/11 इमारतें ढह रही हैं, परिवार अपने प्रियजनों की तलाश कर रहे हैं। 25 साल पहले किया गया एक वादा कि हम कभी नहीं भूलेंगे, लोग इमारतों से कूद रहे हैं....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097118531611418624/img/LrFIG2xJE9P3l8zb.jpg" width="600" alt="ऐतिहासिक नाटकीय इमारत ढहने का वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10594)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2097118559407083783) | **Published:** Sep 8, 2026
-
----
-### साइ-फाई एक्शन मूवी मैशअप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> भविष्यवादी रनिंग फिल्मों के विषयगत तत्वों को विशिष्ट अभिनेताओं के साथ जोड़कर बनाया गया एक विस्तृत साइ-फाई वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-AI से प्यार है... गैल गैडोट और एलन रिचसन के साथ दोनों "रनर" फिल्मों को जोड़ रहा हूँ। गैल का किरदार इसलिए भाग रहा है क्योंकि उसके बेटे का अपहरण कर लिया गया है, जबकि एलन एक ऐसा रनर है जो एक बच्चे के लिए अंग प्रत्यारोपण (ऑर्गन ट्रांसप्लांट) पहुँचाने की कोशिश कर रहा है, लेकिन लोग उसे रोकने की कोशिश कर रहे हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097099626264547328/img/mq1TfBZObq3g9JBJ.jpg" width="600" alt="साइ-फाई एक्शन मूवी मैशअप">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10529)**
-
-**Author:** [Simon](https://x.com/schaniteration2) | **Source:** [Link](https://x.com/schaniteration2/status/2097099666718597445) | **Published:** Sep 7, 2026
-
----
-### स्टॉप-मोशन स्टोन क्रिएचर बीच वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> पथरीले तट पर जीवित होते एक पत्थर के पुतले का सिनेमाई स्टॉप-मोशन वीडियो बनाने के लिए एक विस्तृत प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-9:16 फॉर्मेट में 21 सेकंड का एक सिनेमाई वर्टिकल स्टॉप-मोशन एनिमेशन बनाएं। प्राकृतिक आकृतियों वाले चिकने समुद्री पत्थरों से बना एक छोटा मानव जैसा पुतला, पथरीले तट पर एक उथले टाइड पूल में जीवित हो उठता है। शरीर का प्रत्येक अंग अलग-अलग पत्थरों से बना है — सिर के लिए एक बड़ा अंडाकार पत्थर, धड़ के लिए गोल पत्थर, और हाथ-पैर बनाने के लिए छोटे पत्थर।
-
-दृश्य को एक हल्के धुंधले तार वाले बाड़ (wire mesh fence) के माध्यम से फिल्माया गया है, जो अग्रभूमि (foreground) में एक प्राकृतिक फ्रेम बनाता है। पात्र के पीछे, एक शांत तटरेखा, उथला समुद्री जल, बार्नेकल से ढकी चट्टानें, समुद्री शैवाल और बादलों भरे आकाश के नीचे एक हल्का धुंधला जंगल है। फोटो-रियलिस्टिक टेक्सचर, हल्के प्राकृतिक रंग, उथली डेप्थ ऑफ फील्ड, यथार्थवादी जल प्रतिबिंब।
-
-एनिमेशन: पत्थर का पुतला धीरे-धीरे संतुलन बनाता है और एक चंचल छोटे इंसान की तरह हिलना शुरू करता है। यह अपना वजन स्थानांतरित करता है, एक पैर उठाता है, घुटने मोड़ता है, पत्थर के हाथों को घुमाता है और गीली सतह पर संतुलन बनाए रखते हुए एक अजीब और प्यारा नृत्य करता है। हर कदम के नीचे छोटी लहरें बनती हैं, और पानी में इसका प्रतिबिंब स्वाभाविक रूप से हिलता है। हरकतें हाथ से बने स्टॉप-मोशन जैसी महसूस होनी चाहिए, थोड़ी अपूर्ण लेकिन विश्वसनीय, यथार्थवादी पत्थर के भौतिकी और वजन के साथ।
-
-अंतिम सेकंड में, पुतला संतुलन खो देता है, लड़खड़ाता है और स्वाभाविक रूप से गिर जाता है, जिससे अलग-अलग पत्थर बिखर जाते हैं और उथली गीली जमीन पर लुढ़क जाते हैं। पात्र पूरी तरह से साधारण पत्थरों में अलग हो जाता है। अंत में कैमरा बिखरे हुए पत्थरों और उनके प्रतिबिंबों पर फोकस बनाए रखता है।
-
-कैमरा: स्मार्टफोन स्टाइल में फिक्स्ड वर्टिकल कंपोजिशन, सूक्ष्म प्राकृतिक कैमरा मूवमेंट, मीडियम-फुल शॉट, पानी के स्तर के पास लो एंगल, बाड़ के कारण अग्रभूमि में मजबूत बोकेह, सिनेमाई डेप्थ ऑफ फील्ड।
-
-लाइटिंग: सॉफ्ट डिफ्यूज्ड डेलाइट, बादलों भरा तटीय वातावरण, गीले पत्थरों पर यथार्थवादी प्रतिबिंब और हाइलाइट्स।
-
-स्टाइल: अल्ट्रा-रियलिस्टिक लाइव-एक्शन वातावरण + सनकी फोटो-रियलिस्टिक स्टोन स्टॉप-मोशन कैरेक्टर, स्पर्शनीय पत्थर के टेक्सचर, भौतिक रूप से विश्वसनीय मूवमेंट, सिनेमाई मैक्रो फोटोग्राफी, कोई CGI दिखने वाली सतह नहीं, कोई टेक्स्ट नहीं, कोई इंसान नहीं।
-
-नेगेटिव प्रॉम्प्ट: कार्टून, प्लास्टिक जैसे दिखने वाले पत्थर, अतिरंजित चेहरे की विशेषताएं, चिकना CGI पात्र, तैरती हुई वस्तुएं, अवास्तविक भौतिकी, अतिरिक्त अंग, बदलता वातावरण, कैमरा कट्स, टेक्स्ट, वॉटरमार्क, ओवरसैचुरेटेड रंग।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097084466716160000/img/-GDM_shngZJPsaJs.jpg" width="600" alt="स्टॉप-मोशन स्टोन क्रिएचर बीच वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10514)**
-
-**Author:** [NETO 🎯](https://x.com/appneto) | **Source:** [Link](https://x.com/appneto/status/2097084726007771602) | **Published:** Sep 7, 2026
-
----
-### एनिमेटेड लेफ्ट पिक्चर प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> स्क्रीन के बाईं ओर मौजूद एक स्थिर छवि (static image) को एनिमेट करने के लिए डिज़ाइन किया गया एक कस्टमाइज़्ड वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-हे सुपर ब्रो, क्या आप मेरी मदद कर सकते हैं? मुझे लगता है कि हम मुख्य विषय से भटक गए हैं। आपने एक काम किया था जिसमें बाईं ओर एक तस्वीर थी और वह हिल रही थी, बस बाईं ओर एक एनिमेटेड तस्वीर थी और मैं कह रहा था कि उसे टेक्स्ट के साथ फिर से करें...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097073586238566400/img/_R21Pzi_0yMssxxR.jpg" width="600" alt="एनिमेटेड लेफ्ट पिक्चर प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10600)**
-
-**Author:** [sexy goddess](https://x.com/sexygoddess676) | **Source:** [Link](https://x.com/sexygoddess676/status/2097073650403021296) | **Published:** Sep 7, 2026
-
----
-### मंगल ग्रह के आवास का रात्रि रूपांतरण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> धूल भरे नारंगी मंगल ग्रह के आवास के दृश्य को चांदी जैसी चांदनी वाली गहरी इंडिगो रात्रि के दृश्य में बदलने के लिए एक रूपांतरण प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-इस मंगल ग्रह के आवास के दृश्य को एक गहरी रात्रि के संस्करण में बदलें। धूल भरे नारंगी धुंधले आकाश को गहरे इंडिगो और काले रंगों वाले अंधेरी रात के आकाश में बदलें, धुंधले तारे जोड़ें, और चंद्रमाओं को ठंडी चांदी और नीली रोशनी के साथ एक उज्ज्वल रात्रि चमक दें।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097064259008057344/img/GJaZBpZP_nKZjOPS.jpg" width="600" alt="मंगल ग्रह के आवास का रात्रि रूपांतरण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10536)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2207,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-19T04:21:00.071Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-19T12:42:11.306Z</sub>
 
 </div>

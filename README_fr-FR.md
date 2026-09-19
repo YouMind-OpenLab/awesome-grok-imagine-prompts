@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2845** |
+| 📝 Total Prompts | **2857** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-19** |
 
@@ -189,6 +189,198 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Défi de saut : Low Rider vs Tesla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour une séquence vidéo compétitive où un Chevy low rider classique saute à trois pieds de haut grâce à ses amortisseurs pneumatiques, suivi d'une nouvelle Tesla Roadster rouge qui décolle à dix pieds avec des jets d'air et reste en suspension pendant cinq secondes.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo montrant une vieille voiture Chevy low rider sautant à 3 pieds de haut grâce à ses amortisseurs pneumatiques, suivie d'une nouvelle Tesla Roadster rouge décollant à 10 pieds avec des jets d'air et restant en suspension pendant 5 secondes avant de se poser lentement.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="Défi de saut : Low Rider vs Tesla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11042)**
+
+**Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
+
+---
+### Combat entre l'Homme Crabe et le Samouraï Pieuvre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour une courte vidéo d'action mettant en scène un homme-crabe et un homme-pieuvre s'affrontant dans un combat de style samouraï sur une plage.
+
+#### 📝 Prompt
+
+```
+Créez une courte vidéo montrant un homme-crabe et un homme-pieuvre se battant sur la plage, dans un style samouraï.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="Combat entre l'Homme Crabe et le Samouraï Pieuvre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11040)**
+
+**Author:** [Wheez Keepee](https://x.com/Whizkeepee) | **Source:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **Published:** Sep 19, 2026
+
+---
+### Carte d'anniversaire sur une boîte à musique
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt pour une scène vidéo où une carte d'anniversaire repose sur une boîte à musique pendant que quelqu'un chante joyeux anniversaire.
+
+#### 📝 Prompt
+
+```
+Une scène de style vidéo célébrant l'anniversaire en chantant « Joyeux anniversaire » à voix haute, avec une carte d'anniversaire contenant des vœux d'amour, de confiance, de rêves et d'espoir pour son partenaire autochtone, posée sur le dessus d'une boîte à musique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="Carte d'anniversaire sur une boîte à musique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11050)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **Published:** Sep 18, 2026
+
+---
+### Plan d'établissement cinématographique ultra-large de Moonbase Alpha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour un plan d'établissement cinématographique IMAX ultra-large de Moonbase Alpha, tiré de la série Space: 1999, décrivant son emplacement et son importance technique.
+
+#### 📝 Prompt
+
+```
+Plan d'établissement cinématographique IMAX ultra-large de Moonbase Alpha, tiré de la série Space: 1999. Il s'agit du plus grand exploit d'ingénierie en temps de paix de l'humanité : une vaste ville autonome construite dans le cratère bien protégé de Platon, juste au-dessus de la Mer des Pluies sur...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="Plan d'établissement cinématographique ultra-large de Moonbase Alpha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11043)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **Published:** Sep 18, 2026
+
+---
+### Scène de Burger Cinématographique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour la génération vidéo avec Grok Imagine, décrivant une scène cinématographique de personnes dégustant des burgers et des milkshakes pendant l'heure dorée, avec des indices audio et visuels spécifiques.
+
+#### 📝 Prompt
+
+```
+Ils rient et acclament, prennent des bouchées des burgers, le milkshake coule légèrement, bruissement d'Aspen, heure dorée cinématographique blanche.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="Scène de Burger Cinématographique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11049)**
+
+**Author:** [Connie Willis](https://x.com/conniewillisx) | **Source:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **Published:** Sep 18, 2026
+
+---
+### Prompt pour segment cinématographique émotionnel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour un segment cinématographique axé sur la narration émotionnelle, l'éclairage doré de l'heure magique et des détails spécifiques des personnages tels que les cheveux flottants et les vêtements violets.
+
+#### 📝 Prompt
+
+```
+Segment #8
+Segment cinématographique de 50 à 75 secondes dans le même style émotionnel à haute production que « An Ode to Freedom » / Ode to Courage. Transitions lentes et respirées. Éclairage doré de l'heure magique et lumière chaude des lanternes.
+Allonger les cheveux de l'aîné qui flottent dans la brise et la robe de bal violette fluide...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="Prompt pour segment cinématographique émotionnel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
+
+**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
+
+---
+### Scène comique : Tentation de cigarette
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo détaillé pour une scène comique où un homme retenu supplie désespérément d'avoir une cigarette tandis qu'un agent le taquine avec malice.
+
+#### 📝 Prompt
+
+```
+Scène comique : Un homme blond, poli et retenu, supplie désespérément pour une cigarette, ses pieds tremblent, ses abdominaux se contractent. L'agent le taquine avec malice en fumant profondément devant lui....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="Scène comique : Tentation de cigarette">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11041)**
+
+**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **Published:** Sep 18, 2026
+
+---
+### Prompt vidéo Grok Imagine : Restylisation anime des années 1980
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de transformation d'image/vidéo pour Grok Imagine visant à restyler le contenu avec l'esthétique classique de l'animation cel des années 1980.
+
+#### 📝 Prompt
+
+```
+Restylez cette image entière dans un style anime classique des années 1980. Utilisez l'apparence traditionnelle de l'animation cel des années 80 : contours noirs épais, ombrage cel plat avec dégradés doux, palette de couleurs vibrante mais légèrement atténuée typique du dark fantasy anime des années 80, très déta...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="Prompt vidéo Grok Imagine : Restylisation anime des années 1980">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11047)**
+
+**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **Published:** Sep 18, 2026
+
+---
+### Prompt de Transformation en Style Anime des Années 80
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo pour Grok Imagine qui transforme une photo en style anime classique des années 1980, détaillant les traits du personnage comme des yeux émeraude et des cheveux mouillés.
+
+#### 📝 Prompt
+
+```
+Restylez complètement cette photo dans le style anime classique des années 1980. Transformez la femme en une belle héroïne d'anime des années 80 avec de grands yeux expressifs vert émeraude, des cheveux noirs mouillés longs et détaillés avec des mèches et des reflets individuels, un ombrage cel...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="Prompt de Transformation en Style Anime des Années 80">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11046)**
+
+**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **Published:** Sep 18, 2026
+
+---
+### Prompt de montage pour la collection Starship
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt utilisé pour générer un montage vidéo de 15 secondes à partir d'une collection d'images liées à la récupération du vaisseau Starship de SpaceX, incluant des instructions pour supprimer les cadres bleus.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo complète de 15 secondes à partir des images incluses. Veuillez supprimer le cadre bleu de votre segment vidéo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="Prompt de montage pour la collection Starship">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11045)**
+
+**Author:** [LEB](https://x.com/LEBcando) | **Source:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **Published:** Sep 18, 2026
+
+---
 ### Scène d'explosion Coke Mentos
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +398,25 @@ Vue réaliste depuis le tableau de bord, autoroute mouillée, camion-citerne rou
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11002)**
 
 **Author:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **Source:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **Published:** Sep 18, 2026
+
+---
+### Transformation photo en style Chibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour transformer une photo en adorable personnage d'anime chibi, tout en préservant la ressemblance faciale et en exagérant des traits comme la taille de la tête et les yeux.
+
+#### 📝 Prompt
+
+```
+Transformez cette photo en un adorable style chibi : l'homme a une tête énormément disproportionnée avec de grands yeux expressifs, un petit corps, des traits mignons exagérés, un ombrage doux façon anime, une grande tête ronde, des membres courts, en préservant exactement sa ressemblance faciale, cheveux gris courts,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842464386908160/img/VULVZCMwc0iliOcd.jpg" width="600" alt="Transformation photo en style Chibi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11039)**
+
+**Author:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **Source:** [Link](https://x.com/Joebutter1111/status/2100842480107175964) | **Published:** Sep 18, 2026
 
 ---
 ### Cendrillon à Central Park
@@ -301,6 +512,25 @@ Le cheval et le cavalier avancent lentement vers la mosquée. La robe et la crin
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11000)**
 
 **Author:** [Dame](https://x.com/Damesall313) | **Source:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **Published:** Sep 17, 2026
+
+---
+### Prompt de Transformation Anthropomorphe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour transformer un personnage en état animal avec des sabots et une queue.
+
+#### 📝 Prompt
+
+```
+Fais-le se tendre et braire alors qu'il se met à quatre pattes, ses pieds se transformant en sabots et une queue surgissant de son short.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100557315292147712/img/NL6bqOR_GoRlzjYG.jpg" width="600" alt="Prompt de Transformation Anthropomorphe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11048)**
+
+**Author:** [pup mb](https://x.com/mikeb5222094828) | **Source:** [Link](https://x.com/mikeb5222094828/status/2100557439556849968) | **Published:** Sep 17, 2026
 
 ---
 ### Prompt Grok Imagine : Photographie animalière du tigre de Sibérie
@@ -1904,248 +2134,6 @@ Vue panoramique grand angle photoréaliste, cinématographique et en ultra-haute
 **Author:** [幣気](https://x.com/meixieshi) | **Source:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **Published:** Sep 8, 2026
 
 ---
-### Prompt de code pour mouvement de caméra orbitale structuré
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une charge utile de code complexe pour un suivi de caméra structuré, conçue pour des mouvements orbitaux cinématographiques autour de véhicules.
-
-#### 📝 Prompt
-
-```
-{"shot":{"motion_level":"moyen","camera_depth":"plan moyen suivi d'un plan large","camera_view":"angle contre-plongée passant à hauteur d'yeux","camera_movement":"mouvement orbital lent et héroïque en contre-plongée, tournant autour des 3/4 avant de la voiture, suivi d'un mouvement fluide St..."}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097244337474015232/img/r0BlwPQ_7CWm2otx.jpg" width="600" alt="Prompt de code pour mouvement de caméra orbitale structuré">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10595)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097244382147620979) | **Published:** Sep 8, 2026
-
----
-### Bataille de flotte de Shogi de science-fiction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une vaste visualisation cinématographique de bataille spatiale croisant le thème des pièces standard du jeu d'échecs japonais traditionnel.
-
-#### 📝 Prompt
-
-```
-Scène de bataille spatiale cinématographique épique sur le thème d'une guerre de flotte de shogi (échecs japonais), intitulée « 宇宙戦艦強士 第76話 戦闘ログ版 ». Le gigantesque vaisseau spatial futuriste « Goshi » (宇宙戦艦強士) aux moteurs bleu brillant, sa tour promue transformée en un gigantesque dragon rouge et or...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182756270923776/img/7aZ-Eqgg2bd6OKyU.jpg" width="600" alt="Bataille de flotte de Shogi de science-fiction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10541)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2097182797463216167) | **Published:** Sep 8, 2026
-
----
-### Séquence vidéo cinématographique émotionnelle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Génère une séquence de personnage cinématographique dépeignant une femme qui regrette ses frères ayant immigré aux États-Unis.
-
-#### 📝 Prompt
-
-```
-Elle regrette ses trois frères : Michael, Alexander et Stanislaw, qui ont immigré aux États-Unis
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182253441048576/img/0hKUEmqtawJgdBWE.jpg" width="600" alt="Séquence vidéo cinématographique émotionnelle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10601)**
-
-**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2097182324802863213) | **Published:** Sep 8, 2026
-
----
-### Réflexions dans une chambre d'hôtel de luxe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo narratif et cinématographique montrant un homme afro-américain d'âge mûr plongé dans ses pensées dans une suite de luxe tout en regardant la télévision.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo d'un homme afro-américain d'âge mûr dans une grande chambre d'hôtel de luxe. Il est assis dans un fauteuil, regardant la télévision avec une télécommande à la main. Il marque une pause et réfléchit. « Des vacances loin du travail ? Absolument... »
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097177940056576000/img/OIuXUMcw-2Y4a28H.jpg" width="600" alt="Réflexions dans une chambre d'hôtel de luxe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10604)**
-
-**Author:** [TheDocBrown](https://x.com/ChrisBrownMDMPH) | **Source:** [Link](https://x.com/ChrisBrownMDMPH/status/2097177961115861124) | **Published:** Sep 8, 2026
-
----
-### Tableau de bord futuriste d'un vaisseau spatial
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Une visualisation de science-fiction dramatique et complète illustrant les réactions sur la passerelle de commandement surplombant une guerre galactique sur une grille tactique d'échecs.
-
-#### 📝 Prompt
-
-```
-Vaisseau spatial Goshi, épisode 76 : « L'abandon de la cinquième colonne, le crépuscule aux confins ». Année 2326, bord extérieur des anneaux de Saturne. L'espace ressemble à un jeu de shogi géant en 3D. La cinquième colonne centrale brûle d'un éclat doré, tandis que les rémanences de mines spatiales de type pion, abandonnées, dérivent. Le vaisseau amiral « Goshi » (une silhouette lourde de style Yamato avec un « Goshi » doré sur la proue) observe la scène depuis un angle diagonal. À travers la vitre de la passerelle, un commandant aux cheveux sombres et portant des lunettes suit la trajectoire de son vaisseau s'échappant vers le bord de la première colonne. Sur la bande tout à droite, le vaisseau Roi glisse avec une fine lueur entre les cases 18 et 19, poursuivi par les rayons rouges de la lance promue et du pion parachuté de l'ennemi. Au centre, le cuirassé de type Dragon et le Fou promu font face au vaisseau Roi ennemi. L'arrière-plan met en scène les anneaux de Saturne et une ceinture d'astéroïdes lointaine...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097154072587669504/img/dZJLsiN6IUiD6C7f.jpg" width="600" alt="Tableau de bord futuriste d'un vaisseau spatial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10542)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2097154118683181073) | **Published:** Sep 8, 2026
-
----
-### Prompt vidéo pour le bal masqué de Labyrinth
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Crée une scène cinématographique spectaculaire et photoréaliste inspirée du bal masqué du film Labyrinth, mettant en scène une femme dans une robe blanche élaborée.
-
-#### 📝 Prompt
-
-```
-Créez une scène cinématographique spectaculaire et photoréaliste inspirée du bal masqué du film Labyrinth. Au centre, une belle jeune femme aux longs cheveux blonds flottants, portant une robe de bal blanche, éthérée et étincelante, avec de grandes manches bouffantes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097152210047995904/img/hfIE8GhaVJDBRd8a.jpg" width="600" alt="Prompt vidéo pour le bal masqué de Labyrinth">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10599)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2097152232378573305) | **Published:** Sep 8, 2026
-
----
-### Sortie du robot Tesla Optimus du showroom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une vidéo narrative spécifique montrant le robot Tesla Optimus faisant signe au revoir à Elon Musk et quittant un showroom à moto.
-
-#### 📝 Prompt
-
-```
-LE ROBOT DE TESLA, OPTIMUS, MONTE SUR CETTE MOTO ET SORT PAR LA PORTE PRINCIPALE DE CE SHOWROOM APRÈS AVOIR DIT AU REVOIR À ELON
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097121258639093760/img/rYMMJ-BO3xpLK4x8.jpg" width="600" alt="Sortie du robot Tesla Optimus du showroom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10608)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097121332676927819) | **Published:** Sep 8, 2026
-
----
-### Vidéo historique et dramatique de l'effondrement d'un bâtiment
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une représentation cinématographique et hautement émotionnelle d'une crise historique impliquant l'effondrement d'une architecture et la détresse des citoyens.
-
-#### 📝 Prompt
-
-```
-Le 11 septembre, les bâtiments qui s'effondrent, des familles à la recherche de leurs proches. Une promesse faite il y a 25 ans : nous n'oublierons jamais, les gens qui sautent des bâtiments...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097118531611418624/img/LrFIG2xJE9P3l8zb.jpg" width="600" alt="Vidéo historique et dramatique de l'effondrement d'un bâtiment">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10594)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2097118559407083783) | **Published:** Sep 8, 2026
-
----
-### Mashup de film d'action de science-fiction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo de science-fiction détaillé combinant des éléments thématiques de films de course futuristes avec des acteurs spécifiques.
-
-#### 📝 Prompt
-
-```
-J'adore l'IA… combinant les deux films « Runner » avec Gal Gadot et Alan Ritchson. Le personnage de Gal court parce que son fils a été kidnappé, tandis qu'Alan est un coureur qui tente de livrer un organe pour une greffe destinée à un enfant, mais des individus cherchent à l'en empêcher.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097099626264547328/img/mq1TfBZObq3g9JBJ.jpg" width="600" alt="Mashup de film d'action de science-fiction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10529)**
-
-**Author:** [Simon](https://x.com/schaniteration2) | **Source:** [Link](https://x.com/schaniteration2/status/2097099666718597445) | **Published:** Sep 7, 2026
-
----
-### Vidéo en stop-motion d'une créature en pierre sur la plage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour créer une vidéo cinématographique en stop-motion d'une figurine en pierre prenant vie sur une côte rocheuse.
-
-#### 📝 Prompt
-
-```
-Créez une animation en stop-motion cinématographique verticale de 21 secondes au format 9:16. Une petite figurine humanoïde entièrement composée de galets de plage aux formes naturelles prend vie dans une mare résiduelle sur une côte rocheuse. Chaque partie du corps est construite à partir de pierres individuelles : une grosse pierre ovale pour la tête, des pierres arrondies empilées pour le torse, et des pierres plus petites formant les bras et les jambes.
-
-La scène est filmée à travers un grillage légèrement flou, créant un cadre naturel au premier plan. Derrière le personnage, on aperçoit un rivage calme, de l'eau de mer peu profonde, des rochers couverts de bernacles, des algues et une forêt légèrement floue sous un ciel nuageux. Textures photoréalistes, couleurs naturelles atténuées, faible profondeur de champ, reflets réalistes dans l'eau.
-
-Animation : La figurine en pierre trouve lentement son équilibre et commence à bouger comme un petit être humain espiègle. Elle déplace son poids, lève une jambe, plie les genoux, balance ses bras en pierre et exécute une danse étrange et mignonne tout en maintenant soigneusement son équilibre sur la surface humide. De petites ondulations se forment sous chaque pas, et son reflet bouge naturellement dans l'eau. Les mouvements doivent évoquer un stop-motion fait main, légèrement imparfait mais crédible, avec une physique et un poids de pierre réalistes.
-
-Dans les dernières secondes, la figurine perd l'équilibre, trébuche et s'effondre naturellement, les pierres se séparant et roulant sur le sol humide. Le personnage se désassemble complètement en simples pierres. Terminez avec la caméra restant focalisée sur les pierres éparpillées et leurs reflets.
-
-Caméra : composition verticale fixe style smartphone, léger mouvement naturel de caméra, plan moyen-large, angle bas près du niveau de l'eau, fort bokeh au premier plan dû au grillage, profondeur de champ cinématographique.
-
-Éclairage : lumière du jour douce et diffuse, atmosphère côtière nuageuse, reflets et éclats réalistes sur les pierres humides.
-
-Style : environnement en prises de vues réelles ultra-réaliste + personnage en stop-motion de pierre photoréaliste et fantaisiste, textures de pierre tactiles, mouvement physiquement crédible, macrophotographie cinématographique, pas de surfaces à l'aspect CGI, pas de texte, pas d'humains.
-
-Prompt négatif : dessin animé, pierres à l'aspect plastique, traits du visage exagérés, personnage CGI lisse, objets flottants, physique irréaliste, membres supplémentaires, environnement changeant, coupes de caméra, texte, filigrane, couleurs sursaturées.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097084466716160000/img/-GDM_shngZJPsaJs.jpg" width="600" alt="Vidéo en stop-motion d'une créature en pierre sur la plage">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10514)**
-
-**Author:** [NETO 🎯](https://x.com/appneto) | **Source:** [Link](https://x.com/appneto/status/2097084726007771602) | **Published:** Sep 7, 2026
-
----
-### Prompt d'animation pour image à gauche
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo personnalisé conçu pour animer une image statique située sur le côté gauche de l'écran.
-
-#### 📝 Prompt
-
-```
-Salut super Bro, tu peux m'aider ? Je crois qu'on a perdu le fil. Il y en avait un que tu avais fait. J'avais juste une image à gauche qui bougeait, oui, juste une image à gauche animée, et je te demandais de refaire ça avec un texte disant...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097073586238566400/img/_R21Pzi_0yMssxxR.jpg" width="600" alt="Prompt d'animation pour image à gauche">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10600)**
-
-**Author:** [sexy goddess](https://x.com/sexygoddess676) | **Source:** [Link](https://x.com/sexygoddess676/status/2097073650403021296) | **Published:** Sep 7, 2026
-
----
-### Transformation nocturne d'un habitat martien
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de transformation pour convertir une scène d'habitat martien orange poussiéreux en une scène nocturne indigo profond avec un éclairage lunaire argenté.
-
-#### 📝 Prompt
-
-```
-Transformez cette scène d'habitat martien en une version nocturne. Changez le ciel brumeux orange poussiéreux en un ciel nocturne sombre aux tons indigo profond et noir, ajoutez des étoiles discrètes et donnez aux lunes un éclat nocturne plus vif avec un éclairage argenté et bleu froid.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097064259008057344/img/GJaZBpZP_nKZjOPS.jpg" width="600" alt="Transformation nocturne d'un habitat martien">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10536)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2207,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-19T04:21:05.460Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-19T12:42:16.673Z</sub>
 
 </div>

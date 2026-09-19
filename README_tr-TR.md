@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2845** |
+| 📝 Total Prompts | **2857** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-19** |
 
@@ -189,6 +189,198 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Low Rider vs Tesla Hover Challenge
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Klasik bir low rider Chevy'nin hava amortisörleriyle üç feet yüksekliğinde zıpladığı, ardından yeni kırmızı bir Tesla Roadster'in hava jetleriyle on feet yüksekliğine fırlayıp beş saniye boyunca havada süzüldüğü rekabetçi bir video dizisi için prompt.
+
+#### 📝 Prompt
+
+```
+Hava amortisörleriyle 3 feet yüksekliğinde zıplayan eski bir low rider Chevy arabasının videosunu oluşturun; ardından hava jetleriyle 10 feet yükselen ve yavaşça inmeden önce 5 saniye boyunca havada süzülen yeni kırmızı bir Tesla Roadster gösterin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101107409108541440/img/0jX7A6Jq22tgLJJ5.jpg" width="600" alt="Low Rider vs Tesla Hover Challenge">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11042)**
+
+**Author:** [MentorCapitalist](https://x.com/mentorcapital1) | **Source:** [Link](https://x.com/mentorcapital1/status/2101107519833932137) | **Published:** Sep 19, 2026
+
+---
+### Yengeç Adam vs Ahtapot Samuray Dövüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir yengeç adam ve bir ahtapot adamın sahilde samuray tarzında dövüştüğü kısa aksiyon videosu için istem.
+
+#### 📝 Prompt
+
+```
+sahilde samuray tarzında dövüşen bir yengeç adam ve bir ahtapot adam içeren kısa bir video oluştur
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101102985556488192/img/A7noR9mgexqrFpVc.jpg" width="600" alt="Yengeç Adam vs Ahtapot Samuray Dövüşü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11040)**
+
+**Author:** [Wheez Keepee](https://x.com/Whizkeepee) | **Source:** [Link](https://x.com/Whizkeepee/status/2101103134366113855) | **Published:** Sep 19, 2026
+
+---
+### Müzik Kutusu Sahnesinde Doğum Günü Kartı
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Birinin mutlu yıllar şarkısını söylediği, doğum günü kartının bir müzik kutusunun üzerinde durduğu video sahnesi için prompt.
+
+#### 📝 Prompt
+
+```
+Yerli partnerine aşk, güven, hayaller ve umut dilekleriyle hazırlanmış bir Mutlu Yıllar kartının müzik kutusunun üzerinde durduğu ve yüksek sesle 'mutlu yıllar' denerek kutlama yapılan video tarzı bir sahne.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101048344114323456/img/TCmlGCRl2aRlhgNE.jpg" width="600" alt="Müzik Kutusu Sahnesinde Doğum Günü Kartı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11050)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2101048359973007552) | **Published:** Sep 18, 2026
+
+---
+### Moonbase Alpha Sinematik Kurulum Çekimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Space: 1999 dizisindeki Moonbase Alpha'nın ultra geniş IMAX sinematik kurulum çekimi için detaylı bir prompt; konumunu ve mühendislik önemini betimler.
+
+#### 📝 Prompt
+
+```
+Space: 1999'daki Moonbase Alpha'nın ultra geniş IMAX sinematik kurulum çekimi, insanlığın barış zamanındaki en büyük mühendislik başarısı, Showers Denizi'nin hemen üzerindeki iyi korunmuş Plato kraterine inşa edilmiş devasa, kendi kendine yeten bir şehir...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101024426389037056/img/YbfyxYawHBDQVx8D.jpg" width="600" alt="Moonbase Alpha Sinematik Kurulum Çekimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11043)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2101024443686379619) | **Published:** Sep 18, 2026
+
+---
+### Sinematik Hamburger Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, altın saatte hamburger ve milkshake keyfi yapan insanları betimleyen, spesifik sesli ve görsel ipuçlarına sahip detaylı bir video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Gülüşüyorlar ve tezahürat yapıyorlar, hamburgerlerden ısırık alıyorlar, shake hafifçe akıyor, Aspen'in Hışırtısı, sinematik altın saat Beyaz.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100991882725900288/img/0ZPDqDp6o_M86GDj.jpg" width="600" alt="Sinematik Hamburger Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11049)**
+
+**Author:** [Connie Willis](https://x.com/conniewillisx) | **Source:** [Link](https://x.com/conniewillisx/status/2100991919103058329) | **Published:** Sep 18, 2026
+
+---
+### Duygusal Sinematik Segment İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Duygusal hikaye anlatımına, altın saat ışığına ve uçuşan saçlar ile mor kıyafetler gibi belirli karakter detaylarına odaklanan sinematik bir segment için ayrıntılı istem.
+
+#### 📝 Prompt
+
+```
+Segment #8
+“An Ode to Freedom” / Cesaretin Övgüsü ile aynı yüksek prodüksiyonlu duygusal tarzda, 50–75 saniyelik sinematik segment. Yavaş, nefes alan geçişler. Altın saat ve fener sıcaklığında ışık.
+Yaşlı kişinin saçlarını rüzgarda uçuşan şekilde uzatın ve mor renkli uçuşan balo elbisesi...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100982964398051328/img/enDxCEoOnmh_GyMe.jpg" width="600" alt="Duygusal Sinematik Segment İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
+
+**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
+
+---
+### Komedi Sahnesi: Sigara Cazibesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kısıtlanmış bir adamın çaresizce sigara isterken, bir ajanın onu şakacı bir şekilde baştan çıkardığı komedi sahnesi için detaylı video istemi.
+
+#### 📝 Prompt
+
+```
+Komedi sahnesi: Sarışın, kısıtlanmış ve kibar bir adamın çaresizce sigara dilenmesi; ayakları titriyor, karın kasları geriliyor. Ajan, onun önünde derin nefesler alarak sigara içerek onu şakacı bir şekilde baştan çıkarıyor....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100947928776867840/img/yqrUPTHEPvfampso.jpg" width="600" alt="Komedi Sahnesi: Sigara Cazibesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11041)**
+
+**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2100948024750989629) | **Published:** Sep 18, 2026
+
+---
+### Grok Imagine Video İstemi: 1980'ler Anime Yeniden Stilleştirme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İçeriği klasik 1980'ler anime sel animasyonu görünümüne dönüştürmek için Grok Imagine'a yönelik bir video/görsel dönüşüm istemi.
+
+#### 📝 Prompt
+
+```
+Bu görselin tamamını klasik 1980'ler anime stiline yeniden stilleştir. Geleneksel 80'ler anime sel animasyonu görünümünü kullan: kalın siyah konturlar, yumuşak gradyanlarla düz sel gölgeleme, 80'lerin karanlık fantezi animesine özgü canlı ancak hafif soluk renk paleti, yüksek detay...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100920538298187776/img/nOzRAeoCjwKJmOPB.jpg" width="600" alt="Grok Imagine Video İstemi: 1980'ler Anime Yeniden Stilleştirme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11047)**
+
+**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100920586180391176) | **Published:** Sep 18, 2026
+
+---
+### 80'ler Anime Tarzı Dönüşüm İstemcisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, bir fotoğrafı klasik 1980'ler anime tarzına dönüştüren; zümrüt yeşili gözler ve ıslak saçlar gibi karakter özelliklerini detaylandıran video üretim istemcisi.
+
+#### 📝 Prompt
+
+```
+Bu fotoğrafı tamamen klasik 1980'ler anime tarzına yeniden şekillendir. Kadını, büyük ve ifade dolu zümrüt yeşili gözlere, tek tek telleri ve parlaklıkları olan akıcı ıslak siyah saça, yumuşak cel-shading (çizgi film gölgeleme) uygulamasıyla...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100918784198356992/img/3N3ALioQAzbTQIgH.jpg" width="600" alt="80'ler Anime Tarzı Dönüşüm İstemcisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11046)**
+
+**Author:** [Lise Jæpelt Dahl](https://x.com/LiseDahl) | **Source:** [Link](https://x.com/LiseDahl/status/2100918855652565332) | **Published:** Sep 18, 2026
+
+---
+### Starship Koleksiyonu Montaj İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> SpaceX'in Starship geri dönüşüyle ilgili bir koleksiyondan 15 saniyelik bir video montajı oluşturmak için kullanılan, mavi çerçevelerin kaldırılması talimatını içeren istem.
+
+#### 📝 Prompt
+
+```
+Dahil edilen görsellerden tam 15 saniyelik bir video oluşturun. Lütfen video segmentinizdeki mavi çerçeveyi kaldırın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100893900042903552/img/q5__T8PE5UZMc6eW.jpg" width="600" alt="Starship Koleksiyonu Montaj İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11045)**
+
+**Author:** [LEB](https://x.com/LEBcando) | **Source:** [Link](https://x.com/LEBcando/status/2100897085247619525) | **Published:** Sep 18, 2026
+
+---
 ### Kola Mentos Patlama Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +398,25 @@ Gerçekçi gösterge paneli bakış açısı, ıslak otoyol, yanındaki mavi Men
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11002)**
 
 **Author:** [Queen Punter 🎀](https://x.com/Sarafinadon) | **Source:** [Link](https://x.com/Sarafinadon/status/2100842703193804901) | **Published:** Sep 18, 2026
+
+---
+### Chibi Tarzı Fotoğraf Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir fotoğrafı, yüz benzerliğini korurken baş boyutu ve gözler gibi özellikleri abartarak sevimli bir chibi tarzı anime karakterine dönüştürmek için bir istem.
+
+#### 📝 Prompt
+
+```
+Bu fotoğrafı sevimli chibi tarzına dönüştür: Adamın devasa orantısız büyük bir başı, büyük ve ifade dolu gözleri, minik gövdesi, tatlı abartılı özellikleri, yumuşak anime gölgelemesi, büyük yuvarlak kafası, kısa uzuvları var, tam yüz benzerliği korunuyor, kısa gri saçlar,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100842464386908160/img/VULVZCMwc0iliOcd.jpg" width="600" alt="Chibi Tarzı Fotoğraf Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11039)**
+
+**Author:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **Source:** [Link](https://x.com/Joebutter1111/status/2100842480107175964) | **Published:** Sep 18, 2026
 
 ---
 ### Central Park'ta Külkedisi
@@ -301,6 +512,25 @@ At ve sürücü, camiyi doğru yavaşça yürüyor. Cübbe ve atın yelesi rüzg
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11000)**
 
 **Author:** [Dame](https://x.com/Damesall313) | **Source:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **Published:** Sep 17, 2026
+
+---
+### Antropomorfik Dönüşüm İstemcisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karakteri toynaklı ve kuyruklu hayvansı bir duruma dönüştürmek için kullanılan istemci.
+
+#### 📝 Prompt
+
+```
+Dört ayak üstüne çökerken kaslarını gerip anırsın, şortundan bir kuyruk çıkıp toynakları belirsin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100557315292147712/img/NL6bqOR_GoRlzjYG.jpg" width="600" alt="Antropomorfik Dönüşüm İstemcisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11048)**
+
+**Author:** [pup mb](https://x.com/mikeb5222094828) | **Source:** [Link](https://x.com/mikeb5222094828/status/2100557439556849968) | **Published:** Sep 17, 2026
 
 ---
 ### Grok Imagine İstemi: Sibirya Kaplanı Vahşi Yaşam Fotoğrafçılığı
@@ -1904,248 +2134,6 @@ Kadının parlayan mavi portala doğru ilerlediğini, uzun sarı saçlarının d
 **Author:** [幣気](https://x.com/meixieshi) | **Source:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **Published:** Sep 8, 2026
 
 ---
-### Yapılandırılmış Kamera Yörüngesi Kod İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sinematik araç yörünge hareket seviyeleri için karmaşık yapılandırılmış takip çekimi kod yükü.
-
-#### 📝 Prompt
-
-```
-{"shot":{"motion_level":"orta","camera_depth":"orta çekimi takiben uzun çekim","camera_view":"göz hizasına geçiş yapan düşük açı","camera_movement":"aracın ön 3/4'lük kısmında yavaş ve kahramanca bir düşük açılı yörünge ve yakınlaştırma, ardından pürüzsüz St...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097244337474015232/img/r0BlwPQ_7CWm2otx.jpg" width="600" alt="Yapılandırılmış Kamera Yörüngesi Kod İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10595)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097244382147620979) | **Published:** Sep 8, 2026
-
----
-### Bilim Kurgu Shogi Filo Savaşı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Geleneksel Japon satrancı olan shogi'nin standart taşlarıyla harmanlanmış, geniş kapsamlı ve sinematik bir uzay savaşı görselleştirmesi.
-
-#### 📝 Prompt
-
-```
-Shogi (Japon satrancı) filo savaşı temalı, "宇宙戦艦強士 第76話 戦闘ログ版" başlıklı epik sinematik uzay savaşı sahnesi. Mavi parlayan motorlarıyla devasa fütüristik uzay savaş gemisi "Goshi" (宇宙戦艦強士) ve onun terfi etmiş kale taşının dönüşerek oluşturduğu devasa kırmızı-altın renkli ejderha...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182756270923776/img/7aZ-Eqgg2bd6OKyU.jpg" width="600" alt="Bilim Kurgu Shogi Filo Savaşı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10541)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2097182797463216167) | **Published:** Sep 8, 2026
-
----
-### Duygusal Sinematik Video Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ABD'ye göç eden erkek kardeşlerini özleyen bir kadını konu alan sinematik bir karakter sekansı oluşturur.
-
-#### 📝 Prompt
-
-```
-ABD'ye göç eden üç erkek kardeşi Michael, Alexander ve Stanislaw'ı özlüyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182253441048576/img/0hKUEmqtawJgdBWE.jpg" width="600" alt="Duygusal Sinematik Video Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10601)**
-
-**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2097182324802863213) | **Published:** Sep 8, 2026
-
----
-### Lüks otel odasında derin düşünceler
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lüks bir süitte televizyon izlerken derin düşüncelere dalmış orta yaşlı bir Afro-Amerikan erkeği konu alan, sinematik anlatıma sahip bir video istemi.
-
-#### 📝 Prompt
-
-```
-Geniş ve lüks bir otel odasında bulunan orta yaşlı bir Afro-Amerikan erkeğin videosunu oluşturun. Elinde kumandasıyla bir koltukta oturmuş televizyona bakıyor. Bir an duraksayıp derin düşüncelere dalıyor. "İşten tatil mi? Kesinlikle..."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097177940056576000/img/OIuXUMcw-2Y4a28H.jpg" width="600" alt="Lüks otel odasında derin düşünceler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10604)**
-
-**Author:** [TheDocBrown](https://x.com/ChrisBrownMDMPH) | **Source:** [Link](https://x.com/ChrisBrownMDMPH/status/2097177961115861124) | **Published:** Sep 8, 2026
-
----
-### Fütüristik Uzay Savaş Gemisi Panosu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Taktiksel bir satranç ızgarası galaksi savaşına tepeden bakan komuta köprüsü reaksiyonlarını betimleyen kapsamlı ve dramatik bir bilim kurgu görselleştirmesi.
-
-#### 📝 Prompt
-
-```
-Uzay Savaş Gemisi Goshi 76. Bölüm 'Beşinci Hattın Terki, Kenardaki Akşam Sefası'. Yıl 2326, Satürn halkalarının dış sınırı. Dev bir 3D shogi tahtasını andıran uzay boşluğu. Merkezi beşinci hat altın renginde yanıyor, terk edilmiş piyon tipi uzay mayınlarının parıltısı sürükleniyor. Amiral gemisi 'Goshi' (pruvasında altın rengi 'Goshi' yazılı, ağır Yamato tarzı bir silüet) çapraz bir açıdan aşağıya bakıyor. Köprü penceresinden, gözlüklü, koyu saçlı bir komutan, gemisinin birinci hattın kenarına kaçış rotasını izliyor. En sağ şeritte, Kral gemisi 18 ve 19 arasında ince bir şekilde parlayarak süzülüyor, düşmanın terfi etmiş mızrak ve piyon atışlarının kırmızı ışınları tarafından kovalanıyor. Merkezde, Ejderha tipi savaş gemisi ve Terfi Etmiş Fil, düşman Kral gemisine doğru yönelmiş durumda. Arka planda Satürn'ün halkaları ve uzak bir asteroit kuşağı yer alıyor...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097154072587669504/img/dZJLsiN6IUiD6C7f.jpg" width="600" alt="Fütüristik Uzay Savaş Gemisi Panosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10542)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2097154118683181073) | **Published:** Sep 8, 2026
-
----
-### Labyrinth Maskeli Balo Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Labyrinth filminin maskeli balo sahnesinden esinlenen, gösterişli beyaz bir elbise içindeki kadının yer aldığı dramatik ve fotogerçekçi sinematik bir sahne oluşturur.
-
-#### 📝 Prompt
-
-```
-Labyrinth filminin maskeli balo sahnesinden esinlenen dramatik, fotogerçekçi ve sinematik bir sahne oluştur. Merkezde, uzun sarı saçlı, büyük kabarık kollu, gösterişli ve ruhani beyaz ışıltılı bir balo elbisesi giyen güzel genç bir kadın olsun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097152210047995904/img/hfIE8GhaVJDBRd8a.jpg" width="600" alt="Labyrinth Maskeli Balo Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10599)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2097152232378573305) | **Published:** Sep 8, 2026
-
----
-### Tesla Optimus robotunun showroom'dan çıkışı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tesla Optimus'un Elon Musk'a veda edip bir motosiklete binerek showroom'dan ayrıldığını gösteren özel bir anlatısal robot aksiyon videosu.
-
-#### 📝 Prompt
-
-```
-TESLA'NIN ROBOTU OPTIMUS, ELON'A VEDA ETTİKTEN SONRA BU MOTOSİKLETE BİNİYOR VE SHOWROOM'UN ÖN KAPISINDAN DIŞARI SÜRÜYOR
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097121258639093760/img/rYMMJ-BO3xpLK4x8.jpg" width="600" alt="Tesla Optimus robotunun showroom'dan çıkışı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10608)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097121332676927819) | **Published:** Sep 8, 2026
-
----
-### Tarihi Dramatik Bina Çöküşü Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tarihi bir kriz olayının, yıkılan mimari yapılar ve çaresiz vatandaşlarla birlikte son derece duygusal ve sinematik bir tasviri.
-
-#### 📝 Prompt
-
-```
-11 Eylül, binaların yıkılışı, sevdiklerini arayan aileler. 25 yıl önce verilen bir söz: asla unutmayacağız, binalardan atlayan insanlar...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097118531611418624/img/LrFIG2xJE9P3l8zb.jpg" width="600" alt="Tarihi Dramatik Bina Çöküşü Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10594)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2097118559407083783) | **Published:** Sep 8, 2026
-
----
-### Bilim Kurgu Aksiyon Filmi Kolajı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fütüristik koşu temalı filmlerin unsurlarını belirli oyuncularla birleştiren detaylı bir bilim kurgu video istemi.
-
-#### 📝 Prompt
-
-```
-Yapay zekayı seviyorum… hem “Runner” filmlerini Gal Gadot ve Alan Ritchson ile birleştiriyor. Gal’in karakteri, oğlu kaçırıldığı için koşuyor; Alan ise bir çocuk için organ nakli yetiştirmeye çalışan bir koşucu, ancak insanlar onu durdurmaya çalışıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097099626264547328/img/mq1TfBZObq3g9JBJ.jpg" width="600" alt="Bilim Kurgu Aksiyon Filmi Kolajı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10529)**
-
-**Author:** [Simon](https://x.com/schaniteration2) | **Source:** [Link](https://x.com/schaniteration2/status/2097099666718597445) | **Published:** Sep 7, 2026
-
----
-### Stop-motion Taş Yaratık Sahil Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kayalık bir sahilde canlanan taştan bir figürün sinematik stop-motion videosunu oluşturmak için detaylı bir komut.
-
-#### 📝 Prompt
-
-```
-9:16 formatında 21 saniyelik sinematik dikey bir stop-motion animasyon oluşturun. Tamamı doğal şekilli pürüzsüz sahil taşlarından yapılmış küçük insansı bir figür, kayalık bir sahildeki sığ bir gelgit havuzunda canlanıyor. Her bir vücut parçası ayrı taşlardan inşa edilmiş; kafa için büyük oval bir taş, gövde için üst üste dizilmiş yuvarlak taşlar, kollar ve bacaklar için daha küçük taşlar.
-
-Sahne, ön planda doğal bir çerçeve oluşturan hafif bulanık bir tel örgü çitin arkasından çekiliyor. Karakterin arkasında sakin bir kıyı şeridi, sığ deniz suyu, midye kaplı kayalar, deniz yosunları ve bulutlu bir gökyüzü altında hafifçe bulanıklaşmış bir orman var. Fotogerçekçi dokular, soluk doğal renkler, sığ alan derinliği, gerçekçi su yansımaları.
-
-Animasyon: Taş figür yavaşça dengesini buluyor ve oyuncu küçük bir insan gibi hareket etmeye başlıyor. Ağırlığını kaydırıyor, bacağını kaldırıyor, dizlerini büküyor, taş kollarını sallıyor ve ıslak yüzeyde dengesini dikkatlice korurken tuhaf ve sevimli bir dans sergiliyor. Her adımda küçük dalgalanmalar oluşuyor ve yansıması suda doğal bir şekilde hareket ediyor. Hareketler, el yapımı stop-motion hissi vermeli; hafif kusurlu ama inandırıcı, gerçekçi taş fiziği ve ağırlığı ile.
-
-Son saniyelerde figür dengesini kaybediyor, tökezliyor ve doğal bir şekilde yere yığılıyor; taşlar birbirinden ayrılarak sığ ıslak zemine dağılıyor. Karakter tamamen sıradan taşlara dönüşüyor. Kamera, dağılmış taşlara ve yansımalarına odaklanarak bitiyor.
-
-Kamera: Akıllı telefon tarzında sabit dikey kompozisyon, hafif doğal kamera hareketi, orta-tam çekim, su seviyesine yakın düşük açı, çitten kaynaklanan ön planda güçlü bokeh etkisi, sinematik alan derinliği.
-
-Işıklandırma: Yumuşak yayılmış gün ışığı, bulutlu sahil atmosferi, ıslak taşlar üzerinde gerçekçi yansımalar ve parlamalar.
-
-Stil: Ultra gerçekçi canlı çekim ortamı + ilginç fotogerçekçi taş stop-motion karakter, dokunsal taş dokuları, fiziksel olarak inandırıcı hareket, sinematik makro fotoğrafçılık, CGI görünümlü yüzeyler yok, metin yok, insan yok.
-
-Negatif komut: çizgi film, plastik görünümlü taşlar, abartılı yüz hatları, pürüzsüz CGI karakter, havada uçan nesneler, gerçekçi olmayan fizik, fazladan uzuvlar, değişen ortam, kamera kesmeleri, metin, filigran, aşırı doygun renkler.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097084466716160000/img/-GDM_shngZJPsaJs.jpg" width="600" alt="Stop-motion Taş Yaratık Sahil Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10514)**
-
-**Author:** [NETO 🎯](https://x.com/appneto) | **Source:** [Link](https://x.com/appneto/status/2097084726007771602) | **Published:** Sep 7, 2026
-
----
-### Animasyonlu Sol Görsel İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ekranın sol tarafındaki sabit bir görseli hareketlendirmek için tasarlanmış özelleştirilmiş bir video istemi.
-
-#### 📝 Prompt
-
-```
-Hey süper dostum, bana yardımcı olabilir misin? Sanırım orada konuyu kaçırdık. Daha önce yaptığın bir tane vardı. Sadece solda bir resim vardı ve 'evet' diyordu; soldaki o resmi hareketlendirmiştin. Şimdi bunu bir metinle yeniden yapmanı istiyorum...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097073586238566400/img/_R21Pzi_0yMssxxR.jpg" width="600" alt="Animasyonlu Sol Görsel İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10600)**
-
-**Author:** [sexy goddess](https://x.com/sexygoddess676) | **Source:** [Link](https://x.com/sexygoddess676/status/2097073650403021296) | **Published:** Sep 7, 2026
-
----
-### Mars Habitatı Gece Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tozlu turuncu bir Mars habitatı sahnesini, gümüş ay ışığıyla aydınlatılan derin çivit mavisi bir gece sahnesine dönüştürmek için kullanılan bir dönüşüm istemi.
-
-#### 📝 Prompt
-
-```
-Bu Mars habitatı sahnesini derin bir gece versiyonuna dönüştürün. Tozlu turuncu puslu gökyüzünü derin çivit mavisi ve siyah tonlarına sahip karanlık bir gece gökyüzü ile değiştirin, hafif yıldızlar ekleyin ve aylara soğuk gümüş ve mavi ışıklandırmayla daha parlak bir gece parıltısı verin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097064259008057344/img/GJaZBpZP_nKZjOPS.jpg" width="600" alt="Mars Habitatı Gece Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10536)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097064276775125295) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2207,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-19T04:21:11.329Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-19T12:42:19.833Z</sub>
 
 </div>
