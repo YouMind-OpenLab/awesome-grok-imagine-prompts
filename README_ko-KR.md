@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2857** |
+| 📝 총 프롬프트 수 | **2864** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-09-21** |
 
@@ -189,6 +189,139 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Grok Imagine Video Prompt: POV 축소 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 한 캐릭터가 장치를 사용하여 다른 캐릭터를 축소하는 1인칭 시점 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+1인칭 POV. 나는 키가 6피트(약 183cm)인 남자다. 그녀가 뒤를 돌아보며 “당신은 내 규칙을 따르지 않고 있어”라고 말하고, 장치를 사용해 나를 축소시킨다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101886328451297280/img/rlc6ExVZ6tEZOSin.jpg" width="600" alt="Grok Imagine Video Prompt: POV 축소 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11100)**
+
+**작성자:** [Brian](https://x.com/luvsheight) | **출처:** [Link](https://x.com/luvsheight/status/2101886349984825854) | **게시일:** Sep 21, 2026
+
+---
+### 시네마틱 POV 워킹 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 야외 파티의 조명된 야자수 이미지를 시작점으로 하는 15초 시네마틱 1인칭 시점(POV) 영상을 제작하기 위한 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+업로드한 이미지를 정확한 시각적 시작점으로 사용하는 15초 시네마틱 POV 영상. 마치 제가 이 조명된 야자수 아래를 걸어서 바로 앞의 고급스러운 야외 파티로 향하는 것처럼 천천하고 자연스럽게 앞으로 이동합니다. 실제 건축 구조와 조명 스타일은 그대로 유지하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101859080272850944/img/EMGloxDM84B2JQOm.jpg" width="600" alt="시네마틱 POV 워킹 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11101)**
+
+**작성자:** [LisaVale](https://x.com/DriftNShadow) | **출처:** [Link](https://x.com/DriftNShadow/status/2101859118231302346) | **게시일:** Sep 21, 2026
+
+---
+### Grok Imagine 호러 장면 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 소녀가 오두막에 숨어 호수에서 나타나는 제이슨 보어스를 지켜보는 장면을 묘사하는 Grok Imagine용 내러티브 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+소녀가 오두막에 들어가 창문 너머로 호수에서 나오는 제이슨 보어스를 본다. 제이슨은 소녀를 보지 못한 채 지나간다 #Jasonvoorhees #FinalGirl
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101831541538074624/img/VDt0By-Bf28vL9Xk.jpg" width="600" alt="Grok Imagine 호러 장면 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11105)**
+
+**작성자:** [Alex Stirling](https://x.com/AlexStirlism7) | **출처:** [Link](https://x.com/AlexStirlism7/status/2101831570361348212) | **게시일:** Sep 21, 2026
+
+---
+### 은하 회전 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 배경 별을 고정시킨 채 은하가 천천히 반시계 방향으로 회전하는 영상을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+배경 별은 제자리에 고정된 상태로 은하를 매우 천천히 반시계 방향으로 회전시키세요
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="은하 회전 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11103)**
+
+**작성자:** [Jack Light](https://x.com/Zagrag) | **출처:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **게시일:** Sep 20, 2026
+
+---
+### 다크 타워 고층 건물 변형
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 여러 참조 이미지를 활용하여 스콧 피츠제럴드의 시리즈 속 다크 타워로 고층 건물을 변환하는 상세 프롬프트.
+
+#### 📝 프롬프트
+
+```
+첫 번째 이미지의 밝게 빛나는 고층 건물을 스티븐 킹의 대작 시리즈에 등장하는 '다크 타워'로 변환하세요. 두 번째, 세 번째...
+```
+
+<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="다크 타워 고층 건물 변형">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11099)**
+
+**작성자:** [FutureMinted](https://x.com/futureminted) | **출처:** [Link](https://x.com/futureminted/status/2101586737931903064) | **게시일:** Sep 20, 2026
+
+---
+### Grok Imagine: 남성과 비둘기 애니메이션 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 주방 환경에서 웃고 있는 남성과 부드럽게 움직이는 비둘기를 묘사한 상세한 애니메이션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+남성이 자연스럽게 미소 짓고 웃으며, 밝은 표정으로 대화할 때 머리를 살짝 움직입니다. 어깨 위의 비둘기는 날개를 부드럽게 퍼덕이고 고개를 돌리며, YUP 텍스트가 계속 보입니다. 주방 배경의 미세한 움직임과 부드러운 조명이 특징입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Grok Imagine: 남성과 비둘기 애니메이션 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11104)**
+
+**작성자:** [quietrumble](https://x.com/BillHector2) | **출처:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **게시일:** Sep 20, 2026
+
+---
+### Grok Imagine 마피아 염소 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 뉴욕 마피아처럼 말하는 세 마리 염소를 애니메이션화하는 유머러스한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+세 마리 염소가 곡물과 취침 전 땅콩 버터를 요구하며 뉴욕 마피아처럼 말하도록 하세요....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Grok Imagine 마피아 염소 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11102)**
+
+**작성자:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **출처:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **게시일:** Sep 20, 2026
+
+---
 ### 로우 라이더 vs 테슬라 호버 챌린지
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1991,148 +2124,6 @@ Expeng IRON 로봇이 이 DUcati에 올라타 쇼룸 정문을 빠져나가며 '
 **작성자:** [Robin Murray](https://x.com/RobinMurrat43a) | **출처:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **게시일:** Sep 8, 2026
 
 ---
-### 성경 인물 일러스트레이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 성경 텍스트와 거룩한 묘사를 시각적으로 표현하기 위한 역동적인 비디오 지침입니다.
-
-#### 📝 프롬프트
-
-```
-다음 내용에 대한 일러스트레이션을 제작하세요:
-
-그분의 성품
-거룩하고 죄가 없으심. 그분은 완벽한 순종의 삶을 사셨습니다. 우리와 똑같이 모든 면에서 시험을 받으셨으나 죄는 짓지 않으셨습니다 (히브리서 4:15). 그분의 거룩함은 멀거나 차가운 것이 아닙니다. 그것은 실제로 사람을 이끄는 순결함입니다...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097433762917490688/img/7Xf9SNZy7W71Vjav.jpg" width="600" alt="성경 인물 일러스트레이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10605)**
-
-**작성자:** [Njea](https://x.com/ITSMYLifeNjea28) | **출처:** [Link](https://x.com/ITSMYLifeNjea28/status/2097433938897649805) | **게시일:** Sep 8, 2026
-
----
-### 은하 연방 유니폼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 금색 휘장이 달린 보라색, 흰색, 금색의 은하 연방 유니폼을 위한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-금색 휘장이 달린 보라색, 흰색, 금색의 은하 연방 유니폼 아이디어, 걸작
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097422332826701824/img/cYdzNNhEC6FIqWw-.jpg" width="600" alt="은하 연방 유니폼">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10613)**
-
-**작성자:** [Pleiadians Paradise](https://x.com/Octillion111111) | **출처:** [Link](https://x.com/Octillion111111/status/2097422369715343456) | **게시일:** Sep 8, 2026
-
----
-### 적그리스도가 경전을 불태우는 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 인물들이 종교 및 영적 서적을 불태우는 서사적 장면을 담은 드라마틱한 영상 시퀀스입니다.
-
-#### 📝 프롬프트
-
-```
-결국 선택받지 못한 자인 적그리스도가 성경과 모든 가르침, 영성을 불태웁니다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097407037986549761/img/Xdi2yIzmw_p6wKGp.jpg" width="600" alt="적그리스도가 경전을 불태우는 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10606)**
-
-**작성자:** [Richard garcia](https://x.com/Bartfire5150) | **출처:** [Link](https://x.com/Bartfire5150/status/2097407095951835170) | **게시일:** Sep 8, 2026
-
----
-### Mars Pupil Portal 영상 둘러보기
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사람의 눈동자 속으로 깊숙이 줌인한 뒤 화성의 초현대적 도시 풍경으로 전환되는, 클래식 음악이 어우러진 몰입형 초현실 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-카메라가 눈동자를 향해 줌인하고, 그와 동시에 눈동자가 더 넓게 열립니다. 이어서 카메라가 눈동자 속으로 직접 들어가면 검은색이 안개처럼 부드럽게 걷히며 거대한 화성의 모래 언덕이 나타납니다. 카메라가 왼쪽으로 팬(pan)하면 유리와 강철로 된 초현대적 마천루와 비행선이 가득한 거대한 도시가 펼쳐집니다. 배경에는 바흐의 관현악 모음곡(BWV 1066–1069)이 흐르다가 빠르게 드럼 비트로 전환됩니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097402331813855232/img/MirS5uoaMCCJktLY.jpg" width="600" alt="Mars Pupil Portal 영상 둘러보기">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10597)**
-
-**작성자:** [Felicia_k_o](https://x.com/Felicia_K_O) | **출처:** [Link](https://x.com/Felicia_K_O/status/2097404111398314102) | **게시일:** Sep 8, 2026
-
----
-### 판타지 블루 포털 숲길
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 폭풍우가 몰아치는 마법의 소용돌이를 향해 나아가는 금발 캐릭터의 여정을 담은 상세하고 역동적인 애니메이션 지침 시퀀스입니다.
-
-#### 📝 프롬프트
-
-```
-빛나는 블루 포털을 향해 앞으로 걸어가는 여성, 길게 휘날리는 금발 머리, 끝없이 이어지는 체크무늬 길, 살랑거리는 버섯들, 에너지로 맥동하는 블루 포털, 그리고 폭풍우 치는 하늘을 가로질러 극적으로 번쩍이는 번개 등을 애니메이션으로 구현하세요...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097385993267777536/img/g7Z6PeHHqF-vSO6_.jpg" width="600" alt="판타지 블루 포털 숲길">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10596)**
-
-**작성자:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmaSquirrel) | **출처:** [Link](https://x.com/KarmaSquirrel/status/2097386064579010997) | **게시일:** Sep 8, 2026
-
----
-### IMAX 화성 뷰 풍경
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 화성 표면의 지형적 디테일을 담아낸 선명한 광각 풍경 카메라 애니메이션입니다.
-
-#### 📝 프롬프트
-
-```
-늦은 오후의 화성을 담은 사실적이고 영화 같은 초고해상도 광각 풍경으로, 마치 대형 IMAX 카메라로 촬영한 듯 전경의 자갈부터 먼 지평선까지 날카로운 초점을 자랑합니다. 지형은 광활하고 완만한 붉은색 대지로 이어집니다...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097319984112582656/img/FriuY0gUl9R_Hslq.jpg" width="600" alt="IMAX 화성 뷰 풍경">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10598)**
-
-**작성자:** [Owen](https://x.com/owenxplore) | **출처:** [Link](https://x.com/owenxplore/status/2097320020770463925) | **게시일:** Sep 8, 2026
-
----
-### 영화 같은 실사 인물 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 고도의 기술적 구조 제약을 바탕으로 미묘한 감정 변화에 집중한 밀착 인물 영상입니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "meta": {
-    "type": "cinematic_photorealistic_video",
-    "duration": "6.5초",
-    "aspect_ratio": "9:16",
-    "frame_rate_feel": "24fps 영화적 움직임",
-    "overall_intent": "미묘한 감정 변화에 집중한 밀착 인물 영상..."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097257827320610816/img/Vy_FjRE941W1GhTp.jpg" width="600" alt="영화 같은 실사 인물 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10602)**
-
-**작성자:** [幣気](https://x.com/meixieshi) | **출처:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **게시일:** Sep 8, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2194,6 +2185,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-21T04:40:20.049Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-21T15:15:26.143Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2857** |
+| 📝 Total Prompts | **2864** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-21** |
 
@@ -189,6 +189,139 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video Prompt: Cảnh Thu Nhỏ Theo Góc Nhìn Thứ Nhất
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt theo góc nhìn thứ nhất, trong đó một nhân vật dùng thiết bị để thu nhỏ người khác.
+
+#### 📝 Prompt
+
+```
+Góc nhìn thứ nhất. Tôi là một chàng trai cao 6 foot. Cô ấy quay lại, nói rằng “bạn không tuân thủ quy tắc của tôi” và sau đó dùng thiết bị để thu nhỏ tôi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101886328451297280/img/rlc6ExVZ6tEZOSin.jpg" width="600" alt="Grok Imagine Video Prompt: Cảnh Thu Nhỏ Theo Góc Nhìn Thứ Nhất">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11100)**
+
+**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2101886349984825854) | **Published:** Sep 21, 2026
+
+---
+### Video POV Đi Bộ Điện Ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết để tạo video góc nhìn thứ nhất (POV) điện ảnh dài 15 giây, bắt đầu từ hình ảnh cây cọ được chiếu sáng tại một bữa tiệc ngoài trời đã tải lên.
+
+#### 📝 Prompt
+
+```
+Video POV điện ảnh 15 giây sử dụng hình ảnh đã tải lên làm điểm khởi đầu trực quan chính xác. Di chuyển về phía trước chậm rãi và tự nhiên như thể tôi đang đi bộ dưới những tán cây cọ được chiếu sáng hướng tới một bữa tiệc ngoài trời sang trọng ngay phía trước. Giữ nguyên kiến trúc thực tế và phong cách ánh sáng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101859080272850944/img/EMGloxDM84B2JQOm.jpg" width="600" alt="Video POV Đi Bộ Điện Ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11101)**
+
+**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2101859118231302346) | **Published:** Sep 21, 2026
+
+---
+### Gợi ý cảnh kinh dị cho Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý tường thuật cho Grok Imagine mô tả một cô gái trốn trong cabin khi Jason Voorhees nổi lên từ hồ.
+
+#### 📝 Prompt
+
+```
+Cô gái bước vào cabin và nhìn qua cửa sổ thấy Jason Voorhees đang trồi lên từ mặt hồ, nhưng Jason đi ngang qua mà không phát hiện ra cô #Jasonvoorhees #FinalGirl
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101831541538074624/img/VDt0By-Bf28vL9Xk.jpg" width="600" alt="Gợi ý cảnh kinh dị cho Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11105)**
+
+**Author:** [Alex Stirling](https://x.com/AlexStirlism7) | **Source:** [Link](https://x.com/AlexStirlism7/status/2101831570361348212) | **Published:** Sep 21, 2026
+
+---
+### Video Xoay Thiên Hà
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Câu lệnh tạo video thiên hà xoay chậm ngược chiều kim đồng hồ trong khi giữ nguyên các ngôi sao nền.
+
+#### 📝 Prompt
+
+```
+Xoay thiên hà rất chậm theo hướng ngược chiều kim đồng hồ, đồng thời giữ cố định vị trí của các ngôi sao nền
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="Video Xoay Thiên Hà">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11103)**
+
+**Author:** [Jack Light](https://x.com/Zagrag) | **Source:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **Published:** Sep 20, 2026
+
+---
+### Biến đổi Tòa nhà chọc trời thành Tháp Tối
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết biến đổi hình ảnh tòa nhà chọc trời thành The Dark Tower trong loạt truyện của Stephen King, sử dụng nhiều hình ảnh tham khảo.
+
+#### 📝 Prompt
+
+```
+Biến đổi tòa nhà chọc trời sáng đèn cao lớn từ hình ảnh đầu tiên thành The Dark Tower trong loạt truyện sử thi của Stephen King. Hãy biến tòa nhà này thành một ngọn tháp đá cổ kính, đen tối, uy nghi và đầy đe dọa với kiến trúc Gothic hoặc hình trụ, lấy cảm hứng từ hình ảnh thứ hai, thứ ba...
+```
+
+<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="Biến đổi Tòa nhà chọc trời thành Tháp Tối">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11099)**
+
+**Author:** [FutureMinted](https://x.com/futureminted) | **Source:** [Link](https://x.com/futureminted/status/2101586737931903064) | **Published:** Sep 20, 2026
+
+---
+### Grok Imagine Prompt hoạt ảnh Người đàn ông và Chim bồ câu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt hoạt ảnh chi tiết mô tả một người đàn ông đang cười và một con chim bồ câu chuyển động nhẹ nhàng trong bối cảnh nhà bếp.
+
+#### 📝 Prompt
+
+```
+Người đàn ông mỉm cười và cười tự nhiên, đầu hơi cử động khi anh ấy nói chuyện vui vẻ, trong khi con chim bồ câu trên vai vỗ cánh nhẹ nhàng và quay đầu lại, với văn bản YUP vẫn hiển thị rõ. Chuyển động nền tinh tế của nhà bếp và ánh sáng dịu nhẹ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Grok Imagine Prompt hoạt ảnh Người đàn ông và Chim bồ câu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11104)**
+
+**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **Published:** Sep 20, 2026
+
+---
+### Grok Imagine Mobster Goats Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A humorous prompt for animating three goats speaking like New York mobsters.
+
+#### 📝 Prompt
+
+```
+Make the three goats talk like New York mobsters , asking for the grain and bed time peanut butter ....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Grok Imagine Mobster Goats Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11102)**
+
+**Author:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **Source:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **Published:** Sep 20, 2026
+
+---
 ### Thử thách Bay Lượn: Low Rider vs Tesla
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1992,148 +2125,6 @@ Robot IRON của Xpeng leo lên chiếc Ducati này và lái xe ra khỏi cửa 
 **Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **Published:** Sep 8, 2026
 
 ---
-### Minh họa nhân vật trong Kinh Thánh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một hướng dẫn video năng động giúp phác thảo văn bản Kinh Thánh và các mô tả thiêng liêng để thể hiện dưới dạng hình ảnh.
-
-#### 📝 Prompt
-
-```
-Hãy tạo một hình minh họa dựa trên những nội dung sau:
-
-Nhân cách của Ngài
-Thánh khiết và không vướng tội lỗi. Ngài đã sống một cuộc đời vâng phục trọn vẹn. Ngài đã chịu cám dỗ trong mọi phương diện như chúng ta, nhưng không hề phạm tội (Hê-bơ-rơ 4:15). Sự thánh khiết của Ngài không hề xa cách hay lạnh lùng; đó là sự thuần khiết thực sự có thể thu hút...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097433762917490688/img/7Xf9SNZy7W71Vjav.jpg" width="600" alt="Minh họa nhân vật trong Kinh Thánh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10605)**
-
-**Author:** [Njea](https://x.com/ITSMYLifeNjea28) | **Source:** [Link](https://x.com/ITSMYLifeNjea28/status/2097433938897649805) | **Published:** Sep 8, 2026
-
----
-### Đồng phục Liên đoàn Thiên hà
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video cho bộ đồng phục Liên đoàn Thiên hà màu tím, trắng và vàng với phù hiệu vàng.
-
-#### 📝 Prompt
-
-```
-Ý tưởng đồng phục màu tím, trắng và vàng của Liên đoàn Thiên hà với phù hiệu vàng, kiệt tác
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097422332826701824/img/cYdzNNhEC6FIqWw-.jpg" width="600" alt="Đồng phục Liên đoàn Thiên hà">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10613)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2097422369715343456) | **Published:** Sep 8, 2026
-
----
-### Kẻ phản Chúa đốt kinh thánh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một phân đoạn video đầy kịch tính mô tả cảnh các nhân vật đốt những văn bản tôn giáo và tâm linh.
-
-#### 📝 Prompt
-
-```
-Kẻ phản Chúa, người cuối cùng không được chọn, đã đốt Kinh Thánh cùng tất cả các giáo lý tâm linh
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097407037986549761/img/Xdi2yIzmw_p6wKGp.jpg" width="600" alt="Kẻ phản Chúa đốt kinh thánh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10606)**
-
-**Author:** [Richard garcia](https://x.com/Bartfire5150) | **Source:** [Link](https://x.com/Bartfire5150/status/2097407095951835170) | **Published:** Sep 8, 2026
-
----
-### Video giới thiệu Cổng thông tin Mars Pupil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video gợi ý (prompt) siêu thực đầy ấn tượng, chuyển cảnh từ góc quay cận cảnh sâu vào đồng tử mắt người sang khung cảnh thành phố siêu hiện đại trên sao Hỏa, kết hợp cùng nhạc cổ điển.
-
-#### 📝 Prompt
-
-```
-Máy quay phóng to vào đồng tử, và trong khi đó, đồng tử dần mở rộng. Sau đó, máy quay bay thẳng vào trong đồng tử, sắc đen mờ dần và lan tỏa ra các cạnh như sương mù, để lộ ra những cồn cát khổng lồ trên sao Hỏa. Tiếp đến, máy quay lia sang trái, hiển thị một thành phố siêu hiện đại đồ sộ với các tòa nhà chọc trời bằng kính và thép cùng những con tàu bay. Nhạc của Bach vang lên trong nền — Tổ khúc Dàn nhạc, BWV 1066–1069 — và nhanh chóng chuyển sang nhịp trống.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097402331813855232/img/MirS5uoaMCCJktLY.jpg" width="600" alt="Video giới thiệu Cổng thông tin Mars Pupil">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10597)**
-
-**Author:** [Felicia_k_o](https://x.com/Felicia_K_O) | **Source:** [Link](https://x.com/Felicia_K_O/status/2097404111398314102) | **Published:** Sep 8, 2026
-
----
-### Dạo bước trong khu rừng cổng xanh huyền ảo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một chuỗi hướng dẫn hoạt ảnh chi tiết, đầy hành động mô tả hành trình của một nhân vật tóc vàng hướng về phía vòng xoáy ma thuật với các yếu tố bão tố.
-
-#### 📝 Prompt
-
-```
-Tạo hoạt ảnh người phụ nữ bước về phía cổng xanh đang phát sáng, mái tóc vàng dài của cô ấy bay trong gió, con đường kẻ ô trải dài, những cây nấm đung đưa nhẹ nhàng, cổng xanh rung động với năng lượng và những tia sét lóe lên đầy kịch tính trên bầu trời đầy bão tố,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097385993267777536/img/g7Z6PeHHqF-vSO6_.jpg" width="600" alt="Dạo bước trong khu rừng cổng xanh huyền ảo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10596)**
-
-**Author:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmaSquirrel) | **Source:** [Link](https://x.com/KarmaSquirrel/status/2097386064579010997) | **Published:** Sep 8, 2026
-
----
-### Phong cảnh Sao Hỏa chuẩn IMAX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một hoạt ảnh camera phong cảnh góc rộng sắc nét ghi lại các chi tiết bề mặt của hành tinh Sao Hỏa.
-
-#### 📝 Prompt
-
-```
-Khung cảnh góc rộng chân thực, đậm chất điện ảnh, độ phân giải siêu cao của Sao Hỏa vào cuối buổi chiều, như được quay bằng máy ảnh IMAX khổ lớn với độ nét cực cao từ những viên sỏi ở tiền cảnh đến đường chân trời xa xăm. Địa hình là một vùng trải dài nhấp nhô rộng lớn với màu gỉ s...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097319984112582656/img/FriuY0gUl9R_Hslq.jpg" width="600" alt="Phong cảnh Sao Hỏa chuẩn IMAX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10598)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2097320020770463925) | **Published:** Sep 8, 2026
-
----
-### Video chân dung điện ảnh chân thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video chân dung cận cảnh đầy cảm xúc, tập trung vào sự chuyển biến tinh tế trong biểu cảm với các yêu cầu kỹ thuật khắt khe về cấu trúc.
-
-#### 📝 Prompt
-
-```
-{
-  "meta": {
-    "type": "cinematic_photorealistic_video",
-    "duration": "6.5s",
-    "aspect_ratio": "9:16",
-    "frame_rate_feel": "chuyển động điện ảnh 24fps",
-    "overall_intent": "Một video chân dung cận cảnh đầy cảm xúc, tập trung vào sự chuyển biến tinh tế trong biểu cảm...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097257827320610816/img/Vy_FjRE941W1GhTp.jpg" width="600" alt="Video chân dung điện ảnh chân thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10602)**
-
-**Author:** [幣気](https://x.com/meixieshi) | **Source:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **Published:** Sep 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2186,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-21T04:40:22.059Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-21T15:15:28.430Z</sub>
 
 </div>

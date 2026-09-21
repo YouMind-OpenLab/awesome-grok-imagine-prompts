@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2857** |
+| 📝 Total Prompts | **2864** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-21** |
 
@@ -189,6 +189,139 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video Prompt: POV Shrinking Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक फर्स्ट-पर्सन व्यूपॉइंट प्रॉम्प्ट जिसमें एक कैरेक्टर डिवाइस से दूसरे को छोटा करता है।
+
+#### 📝 Prompt
+
+```
+फर्स्ट पर्सन POV. मैं 6’ लंबा आदमी हूँ। वह मुड़ती है और कहती है “you are not compliant with my rule” और फिर डिवाइस से मुझे छोटा कर देती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101886328451297280/img/rlc6ExVZ6tEZOSin.jpg" width="600" alt="Grok Imagine Video Prompt: POV Shrinking Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11100)**
+
+**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2101886349984825854) | **Published:** Sep 21, 2026
+
+---
+### सिनेमैटिक POV वॉकिंग वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत प्रॉम्प्ट जो एक अपलोड की गई छवि से शुरू होने वाले 15-सेकंड के सिनेमैटिक पॉइंट-ऑफ़-व्यू वीडियो को बनाने के लिए है, जिसमें बाहरी पार्टी में रोशनी से जगमगाते नारियल के पेड़ दिखाई दे रहे हैं।
+
+#### 📝 Prompt
+
+```
+अपलोड की गई छवि का उपयोग करते हुए 15-सेकंड का सिनेमैटिक POV वीडियो बनाएं, जिसे दृश्य शुरुआती बिंदु के रूप में इस्तेमाल किया जाए। धीरे-धीरे और स्वाभाविक रूप से आगे बढ़ें, जैसे मैं इन रोशन नारियल के पेड़ों के नीचे से गुजरते हुए ठीक सामने आयोजित एक हाई-एंड आउटडोर पार्टी की ओर चल रहा हूँ। वास्तविक वास्तुकला और लाइटिंग स्टाइल को बरकरार रखें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101859080272850944/img/EMGloxDM84B2JQOm.jpg" width="600" alt="सिनेमैटिक POV वॉकिंग वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11101)**
+
+**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2101859118231302346) | **Published:** Sep 21, 2026
+
+---
+### Grok Imagine भयानक दृश्य प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वर्णनात्मक प्रॉम्प्ट जिसमें एक लड़की झोपड़ी में छिपी हुई जेसन वोरहीज़ को झील से बाहर आते हुए देखती है।
+
+#### 📝 Prompt
+
+```
+लड़की झोपड़ी में प्रवेश करती है और खिड़की से देखती है कि जेसन वोरहीज़ झील से बाहर आ रहा है, और जेसन बिना लड़की को देखे गुजर जाता है #Jasonvoorhees #FinalGirl
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101831541538074624/img/VDt0By-Bf28vL9Xk.jpg" width="600" alt="Grok Imagine भयानक दृश्य प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11105)**
+
+**Author:** [Alex Stirling](https://x.com/AlexStirlism7) | **Source:** [Link](https://x.com/AlexStirlism7/status/2101831570361348212) | **Published:** Sep 21, 2026
+
+---
+### Galaxy Rotation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक गैलेक्सी के धीरे-धीरे वामावर्त घूमने और पृष्ठभूमि में तारों को स्थिर रखते हुए वीडियो बनाने के लिए एक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+गैलेक्सी को बहुत धीरे-धीरे वामावर्त घुमाएं, जबकि पृष्ठभूमि में तारों को अपनी जगह पर स्थिर रखें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="Galaxy Rotation Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11103)**
+
+**Author:** [Jack Light](https://x.com/Zagrag) | **Source:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **Published:** Sep 20, 2026
+
+---
+### Dark Tower Skyscraper Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Stephen King की श्रृंखला से 'The Dark Tower' में एक स्काईस्क्रैपर छवि को बदलने के लिए विस्तृत प्रॉम्प्ट, जिसमें कई संदर्भ छवियों का उपयोग किया गया है।
+
+#### 📝 Prompt
+
+```
+पहली छवि में दिखाए गए ऊंचे रोशन स्काईस्क्रैपर को Stephen King की महाकाव्य श्रृंखला 'The Dark Tower' में बदलें। इमारत को एक विशाल, काले, भयानक प्राचीन पत्थर के मीनार में बदलें, जिसकी गॉथिक या बेलनाकार वास्तुकला दूसरी, तीसरी...
+```
+
+<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="Dark Tower Skyscraper Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11099)**
+
+**Author:** [FutureMinted](https://x.com/futureminted) | **Source:** [Link](https://x.com/futureminted/status/2101586737931903064) | **Published:** Sep 20, 2026
+
+---
+### Grok Imagine: आदमी और कबूतर एनिमेशन प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत एनिमेशन प्रॉम्प्ट जिसमें एक रसोई के दृश्य में हंसते हुए आदमी और धीरे-धीरे हिलते हुए कबूतर को दर्शाया गया है।
+
+#### 📝 Prompt
+
+```
+आदमी स्वाभाविक रूप से मुस्कुराता और हंसता है, खुशी से बात करते समय उसका सिर थोड़ा हिलता है, जबकि उसके कंधे पर बैठा कबूतर अपने पंख धीरे-धीरे फड़फड़ाता है और अपना सिर घुमाता है, साथ ही YUP टेक्स्ट स्पष्ट रूप से दिखाई देता रहता है। रसोई की पृष्ठभूमि में सूक्ष्म गति और नरम रोशनी का प्रभाव।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Grok Imagine: आदमी और कबूतर एनिमेशन प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11104)**
+
+**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **Published:** Sep 20, 2026
+
+---
+### Grok Imagine Mobster Goats वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> तीन बकरियों को न्यू यॉर्क माफिया की तरह बात करते हुए एनिमेट करने के लिए एक हास्यपूर्ण प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+तीन बकरियों को न्यू यॉर्क माफिया की तरह बात करते हुए दिखाएं, जो अनाज और सोने से पहले मूंगफली का मक्खन मांग रहे हों ....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Grok Imagine Mobster Goats वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11102)**
+
+**Author:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **Source:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **Published:** Sep 20, 2026
+
+---
 ### लो राइडर बनाम टेस्ला होवर चैलेंज
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1992,148 +2125,6 @@ Expeng IRON रोबोट, इस DUcati पर सवार होता ह�
 **Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **Published:** Sep 8, 2026
 
 ---
-### बाइबल के पात्रों का चित्रण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बाइबल के पाठ और पवित्र विवरणों को दृश्य रूप में प्रस्तुत करने के लिए एक गतिशील वीडियो निर्देश।
-
-#### 📝 Prompt
-
-```
-इन पर एक चित्रण (Illustration) तैयार करें:
-
-उनका चरित्र
-पवित्र और पाप रहित। उन्होंने पूर्ण आज्ञाकारिता का जीवन व्यतीत किया। उनकी हर तरह से परीक्षा ली गई, जैसे हमारी ली जाती है, फिर भी उन्होंने कभी पाप नहीं किया (इब्रानियों 4:15)। उनकी पवित्रता दूर की या ठंडी नहीं है; यह वह शुद्धता है जो वास्तव में आकर्षित कर सकती है...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097433762917490688/img/7Xf9SNZy7W71Vjav.jpg" width="600" alt="बाइबल के पात्रों का चित्रण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10605)**
-
-**Author:** [Njea](https://x.com/ITSMYLifeNjea28) | **Source:** [Link](https://x.com/ITSMYLifeNjea28/status/2097433938897649805) | **Published:** Sep 8, 2026
-
----
-### Galactic Federation यूनिफॉर्म
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बैंगनी, सफेद और सुनहरे रंग की Galactic Federation यूनिफॉर्म के लिए एक वीडियो प्रॉम्प्ट, जिसमें सुनहरे रंग का प्रतीक चिन्ह (insignia) है।
-
-#### 📝 Prompt
-
-```
-Galactic Federation की बैंगनी, सफेद और सुनहरी यूनिफॉर्म का विचार, जिसमें सुनहरे रंग का प्रतीक चिन्ह है, मास्टरपीस
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097422332826701824/img/cYdzNNhEC6FIqWw-.jpg" width="600" alt="Galactic Federation यूनिफॉर्म">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10613)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2097422369715343456) | **Published:** Sep 8, 2026
-
----
-### एंटीक्राइस्ट द्वारा धर्मग्रंथों को जलाना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक नाटकीय वीडियो अनुक्रम जो एक ऐसी कथात्मक दृश्य को दर्शाता है जहाँ पात्र धार्मिक और आध्यात्मिक ग्रंथों को जला रहे हैं।
-
-#### 📝 Prompt
-
-```
-एंटीक्राइस्ट, जिसे अंत में नहीं चुना गया था, बाइबल और सभी आध्यात्मिक शिक्षाओं को जला देता है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097407037986549761/img/Xdi2yIzmw_p6wKGp.jpg" width="600" alt="एंटीक्राइस्ट द्वारा धर्मग्रंथों को जलाना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10606)**
-
-**Author:** [Richard garcia](https://x.com/Bartfire5150) | **Source:** [Link](https://x.com/Bartfire5150/status/2097407095951835170) | **Published:** Sep 8, 2026
-
----
-### Mars Pupil Portal Flythrough
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक इमर्सिव और असली (surreal) वीडियो प्रॉम्प्ट, जो मानव आँख की पुतली के गहरे क्लोज-अप ज़ूम से सीधे मंगल ग्रह के एक अल्ट्रा-मॉडर्न शहर के नज़ारे में बदल जाता है, जिसके साथ क्लासिकल संगीत बजता है।
-
-#### 📝 Prompt
-
-```
-कैमरा पुतली पर ज़ूम करता है, और जैसे-जैसे यह होता है, पुतली और चौड़ी हो जाती है। फिर कैमरा सीधे पुतली के अंदर जाता है, कालापन धीरे-धीरे धुंध की तरह किनारों तक फैलते हुए गायब हो जाता है, और मंगल ग्रह के विशाल टीले दिखाई देने लगते हैं। फिर कैमरा बाईं ओर घूमता है और कांच और स्टील की गगनचुंबी इमारतों और उड़ने वाले जहाजों वाला यह विशाल अल्ट्रा-मॉडर्न शहर दिखाता है। बैकग्राउंड में बाख (Bach) का संगीत बज रहा है — Orchestral Suites, BWV 1066–1069 — और यह जल्दी ही ड्रम की आवाज़ में बदल जाता है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097402331813855232/img/MirS5uoaMCCJktLY.jpg" width="600" alt="Mars Pupil Portal Flythrough">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10597)**
-
-**Author:** [Felicia_k_o](https://x.com/Felicia_K_O) | **Source:** [Link](https://x.com/Felicia_K_O/status/2097404111398314102) | **Published:** Sep 8, 2026
-
----
-### फैंटेसी ब्लू पोर्टल फॉरेस्ट वॉक
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> तूफानी तत्वों के साथ एक जादुई भंवर की ओर बढ़ते हुए सुनहरे बालों वाले पात्र की यात्रा को दर्शाने वाला एक विस्तृत एक्शन-फिल्ड एनीमेशन निर्देश अनुक्रम।
-
-#### 📝 Prompt
-
-```
-महिला को चमकते हुए नीले पोर्टल की ओर आगे बढ़ते हुए एनिमेट करें, उसके लंबे सुनहरे बाल लहरा रहे हैं, चेकर वाला रास्ता आगे बढ़ रहा है, मशरूम हल्के से हिल रहे हैं, नीला पोर्टल ऊर्जा के साथ धड़क रहा है और तूफानी आकाश में बिजली की चमक नाटकीय रूप से दिखाई दे रही है,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097385993267777536/img/g7Z6PeHHqF-vSO6_.jpg" width="600" alt="फैंटेसी ब्लू पोर्टल फॉरेस्ट वॉक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10596)**
-
-**Author:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmaSquirrel) | **Source:** [Link](https://x.com/KarmaSquirrel/status/2097386064579010997) | **Published:** Sep 8, 2026
-
----
-### IMAX मार्स विस्टा लैंडस्केप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> मंगल ग्रह की सतह के परिदृश्य विवरणों को फ्रेम करने वाला एक शार्प वाइड-एंगल लैंडस्केप कैमरा एनिमेशन।
-
-#### 📝 Prompt
-
-```
-देर दोपहर के समय मंगल ग्रह का फोटो-रियलिस्टिक, सिनेमैटिक, अल्ट्रा-हाई-रिज़ॉल्यूशन वाइड-एंगल नज़ारा, जैसे कि इसे बड़े-फॉर्मेट वाले IMAX कैमरे से शूट किया गया हो, जिसमें अग्रभूमि के कंकड़ से लेकर दूर क्षितिज तक एकदम शार्प फोकस हो। यह इलाका जंग के रंग के विशाल लहरदार विस्तार जैसा है...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097319984112582656/img/FriuY0gUl9R_Hslq.jpg" width="600" alt="IMAX मार्स विस्टा लैंडस्केप">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10598)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2097320020770463925) | **Published:** Sep 8, 2026
-
----
-### सिनेमैटिक फोटो-रियलिस्टिक पोर्ट्रेट वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> अत्यधिक तकनीकी संरचनात्मक बाधाओं के साथ सूक्ष्म भावनात्मक प्रगति पर केंद्रित एक अंतरंग क्लोज-अप वीडियो पोर्ट्रेट।
-
-#### 📝 Prompt
-
-```
-{
-  "meta": {
-    "type": "cinematic_photorealistic_video",
-    "duration": "6.5s",
-    "aspect_ratio": "9:16",
-    "frame_rate_feel": "24fps सिनेमैटिक मोशन",
-    "overall_intent": "सूक्ष्म भावनात्मक प्रगति पर केंद्रित एक अंतरंग क्लोज-अप पोर्ट्रेट..."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097257827320610816/img/Vy_FjRE941W1GhTp.jpg" width="600" alt="सिनेमैटिक फोटो-रियलिस्टिक पोर्ट्रेट वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10602)**
-
-**Author:** [幣気](https://x.com/meixieshi) | **Source:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **Published:** Sep 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2186,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-21T04:40:22.844Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-21T15:15:29.468Z</sub>
 
 </div>

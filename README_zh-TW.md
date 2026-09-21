@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2857** |
+| 📝 提示詞總數 | **2864** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-21** |
 
@@ -189,6 +189,139 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Grok Imagine 影片提示詞：POV 縮小場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 第一人稱視角提示詞，角色使用裝置將另一人縮小。
+
+#### 📝 提示詞
+
+```
+第一人稱 POV。我是一個身高 6 英尺的男人。她轉過身來說「你不符合我的規則」，然後用裝置把我縮小。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101886328451297280/img/rlc6ExVZ6tEZOSin.jpg" width="600" alt="Grok Imagine 影片提示詞：POV 縮小場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11100)**
+
+**作者:** [Brian](https://x.com/luvsheight) | **來源:** [Link](https://x.com/luvsheight/status/2101886349984825854) | **發布時間:** Sep 21, 2026
+
+---
+### 電影感第一人稱視角行走影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 詳細提示詞，用於從上傳的戶外派對亮燈棕櫚樹圖片開始，創建一段 15 秒的電影感第一人稱視角影片。
+
+#### 📝 提示詞
+
+```
+使用上傳的圖片作為精確視覺起點，製作 15 秒電影感 POV 影片。緩慢且自然地向前移動，彷彿我正走在這些亮燈的棕櫚樹下，朝向不遠處的高級戶外派對。保留真實的建築結構與燈光風格。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101859080272850944/img/EMGloxDM84B2JQOm.jpg" width="600" alt="電影感第一人稱視角行走影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11101)**
+
+**作者:** [LisaVale](https://x.com/DriftNShadow) | **來源:** [Link](https://x.com/DriftNShadow/status/2101859118231302346) | **發布時間:** Sep 21, 2026
+
+---
+### Grok Imagine 恐怖場景提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於 Grok Imagine 的敘事提示詞，描繪一名女孩躲在木屋中，看著傑森·沃赫斯從湖中走出。
+
+#### 📝 提示詞
+
+```
+女孩進入木屋，透過窗戶看見傑森·沃赫斯正從湖中走出，而傑森經過時並未發現女孩 #Jasonvoorhees #FinalGirl
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101831541538074624/img/VDt0By-Bf28vL9Xk.jpg" width="600" alt="Grok Imagine 恐怖場景提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11105)**
+
+**作者:** [Alex Stirling](https://x.com/AlexStirlism7) | **來源:** [Link](https://x.com/AlexStirlism7/status/2101831570361348212) | **發布時間:** Sep 21, 2026
+
+---
+### 銀河旋轉影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成銀河緩慢逆時針旋轉且背景恆星保持靜止之影片的提示詞。
+
+#### 📝 提示詞
+
+```
+讓銀河非常緩慢地逆時針旋轉，同時保持背景恆星位置固定不變
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="銀河旋轉影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11103)**
+
+**作者:** [Jack Light](https://x.com/Zagrag) | **來源:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **發布時間:** Sep 20, 2026
+
+---
+### 黑塔摩天大樓視覺轉換
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 透過多張參考圖片，將摩天大樓圖像轉換為史蒂芬·金（Stephen King）系列小說中的《黑塔》（The Dark Tower）的詳細提示詞。
+
+#### 📝 提示詞
+
+```
+將第一張圖中亮燈的高聳摩天大樓轉換為史蒂芬·金史詩系列作品中的《黑塔》。請將該建築轉化為一座高聳、漆黑、充滿不祥氣息且古老的石造塔樓，採用哥德式或圓柱形建築風格，並參考第二張、第三張……
+```
+
+<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="黑塔摩天大樓視覺轉換">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11099)**
+
+**作者:** [FutureMinted](https://x.com/futureminted) | **來源:** [Link](https://x.com/futureminted/status/2101586737931903064) | **發布時間:** Sep 20, 2026
+
+---
+### Grok Imagine 男子與鴿子動畫提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 詳細的動畫提示詞，描述一名男子在廚房場景中大笑，以及一隻鴿子輕柔移動的情景。
+
+#### 📝 提示詞
+
+```
+男子自然微笑並開懷大笑，說話時頭部輕微擺動，神情愉悅；停在他肩上的鴿子則輕輕扇動翅膀並轉動頭部，YUP 文字保持可見。背景廚房有細微動態，搭配柔和光線效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Grok Imagine 男子與鴿子動畫提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11104)**
+
+**作者:** [quietrumble](https://x.com/BillHector2) | **來源:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **發布時間:** Sep 20, 2026
+
+---
+### Grok Imagine 黑幫山羊影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個幽默的提示詞，用於讓三隻山羊像紐約黑幫一樣說話。
+
+#### 📝 提示詞
+
+```
+讓這三隻山羊像紐約黑幫一樣說話，索要穀物和睡前花生醬……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Grok Imagine 黑幫山羊影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11102)**
+
+**作者:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **來源:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **發布時間:** Sep 20, 2026
+
+---
 ### Low Rider vs Tesla Hover Challenge
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1992,148 +2125,6 @@ AI 生物有機全身人體生長植入物，能在人的一生中持續生長�
 **作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **來源:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **發布時間:** Sep 8, 2026
 
 ---
-### 聖經人物插畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份動態影片說明，將聖經文本與神聖描述映射為視覺化呈現。
-
-#### 📝 提示詞
-
-```
-請針對以下內容製作插畫：
-
-祂的品格
-聖潔且無罪。祂過著完全順服的生活。祂在各方面都受過試探，與我們一樣，卻沒有犯罪（希伯來書 4:15）。祂的聖潔並非遙不可及或冷漠無情；這是一種能夠真正吸引人的純潔……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097433762917490688/img/7Xf9SNZy7W71Vjav.jpg" width="600" alt="聖經人物插畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10605)**
-
-**作者:** [Njea](https://x.com/ITSMYLifeNjea28) | **來源:** [Link](https://x.com/ITSMYLifeNjea28/status/2097433938897649805) | **發布時間:** Sep 8, 2026
-
----
-### 銀河聯邦制服
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段關於紫色、白色與金色銀河聯邦制服（配有金色徽章）的影片提示詞。
-
-#### 📝 提示詞
-
-```
-銀河聯邦的紫色、白色與金色制服構想，配有金色徽章，傑作
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097422332826701824/img/cYdzNNhEC6FIqWw-.jpg" width="600" alt="銀河聯邦制服">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10613)**
-
-**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **來源:** [Link](https://x.com/Octillion111111/status/2097422369715343456) | **發布時間:** Sep 8, 2026
-
----
-### 敵基督焚燒經文
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段戲劇性的影片序列，描繪了人物焚燒宗教與靈性文本的敘事場景。
-
-#### 📝 提示詞
-
-```
-敵基督，那個最終未被選中的人，焚燒了聖經以及所有的靈性教義
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097407037986549761/img/Xdi2yIzmw_p6wKGp.jpg" width="600" alt="敵基督焚燒經文">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10606)**
-
-**作者:** [Richard garcia](https://x.com/Bartfire5150) | **來源:** [Link](https://x.com/Bartfire5150/status/2097407095951835170) | **發布時間:** Sep 8, 2026
-
----
-### Mars Pupil Portal 影片導覽
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段沉浸式的超現實影片提示詞，從人類瞳孔的極致特寫鏡頭開始，無縫過渡至火星上的超現代城市景觀，並伴隨古典音樂。
-
-#### 📝 提示詞
-
-```
-攝影機聚焦於瞳孔，隨著鏡頭推進，瞳孔逐漸放大。接著，攝影機直接飛入瞳孔，黑色背景如霧氣般平滑消散，顯露出巨大的火星沙丘。隨後，鏡頭向左平移，展現出一座由玻璃與鋼鐵摩天大樓及飛行船組成的宏偉超現代城市。背景音樂播放著巴哈的《管弦樂組曲》（Orchestral Suites, BWV 1066–1069），並迅速轉變為鼓聲。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097402331813855232/img/MirS5uoaMCCJktLY.jpg" width="600" alt="Mars Pupil Portal 影片導覽">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10597)**
-
-**作者:** [Felicia_k_o](https://x.com/Felicia_K_O) | **來源:** [Link](https://x.com/Felicia_K_O/status/2097404111398314102) | **發布時間:** Sep 8, 2026
-
----
-### 夢幻藍色傳送門森林漫步
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段充滿動作細節的動畫指令序列，描繪了一名金髮角色走向魔法漩渦的旅程，並融入了暴風雨元素。
-
-#### 📝 提示詞
-
-```
-製作動畫，讓該名女子向前走向發光的藍色傳送門，她長長的金髮隨風飄動，方格路徑向外延伸，蘑菇輕微搖曳，藍色傳送門閃爍著能量，閃電在暴風雨的天空中戲劇性地劃過，...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097385993267777536/img/g7Z6PeHHqF-vSO6_.jpg" width="600" alt="夢幻藍色傳送門森林漫步">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10596)**
-
-**作者:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmaSquirrel) | **來源:** [Link](https://x.com/KarmaSquirrel/status/2097386064579010997) | **發布時間:** Sep 8, 2026
-
----
-### IMAX 火星 Vista 景觀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段銳利的廣角景觀攝影機動畫，呈現火星地表的景觀細節。
-
-#### 📝 提示詞
-
-```
-照片級真實感、電影質感、超高解析度的火星傍晚廣角景觀，宛如以大畫幅 IMAX 攝影機拍攝，從前景的礫石到遙遠的地平線皆呈現銳利對焦。地形是一片廣闊且起伏的鐵鏽色...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097319984112582656/img/FriuY0gUl9R_Hslq.jpg" width="600" alt="IMAX 火星 Vista 景觀">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10598)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2097320020770463925) | **發布時間:** Sep 8, 2026
-
----
-### 電影級寫實人像影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段親密的特寫人像影片，聚焦於細膩的情感變化，並具備高度技術性的結構限制。
-
-#### 📝 提示詞
-
-```
-{
-  "meta": {
-    "type": "cinematic_photorealistic_video",
-    "duration": "6.5s",
-    "aspect_ratio": "9:16",
-    "frame_rate_feel": "24fps 電影感動態",
-    "overall_intent": "一段親密的特寫人像，聚焦於細膩的情感變化...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097257827320610816/img/Vy_FjRE941W1GhTp.jpg" width="600" alt="電影級寫實人像影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10602)**
-
-**作者:** [幣気](https://x.com/meixieshi) | **來源:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **發布時間:** Sep 8, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2195,6 +2186,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-21T04:40:17.417Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-21T15:15:22.324Z</sub>
 
 </div>

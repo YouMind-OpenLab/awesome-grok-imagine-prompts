@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2857** |
+| 📝 プロンプト総数 | **2864** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-21** |
 
@@ -189,6 +189,139 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Grok Imagine Video プロンプト：POV シュリンクシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクターがデバイスを使って他者を縮小させる、一人称視点のプロンプト。
+
+#### 📝 プロンプト
+
+```
+一人称 POV。私は身長 6 フィートの男性です。彼女が振り向いて「私のルールに従っていない」と言い、デバイスを使って私を縮小します。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101886328451297280/img/rlc6ExVZ6tEZOSin.jpg" width="600" alt="Grok Imagine Video プロンプト：POV シュリンクシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11100)**
+
+**作者:** [Brian](https://x.com/luvsheight) | **ソース:** [Link](https://x.com/luvsheight/status/2101886349984825854) | **公開日:** Sep 21, 2026
+
+---
+### シネマティックな一人称視点（POV）歩行動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 屋外パーティーでライトアップされたヤシの木が写った画像を起点に、15秒間のシネマティックな一人称視点動画を生成するための詳細プロンプト。
+
+#### 📝 プロンプト
+
+```
+アップロードした画像を正確な視覚的スタート地点として使用し、15秒間のシネマティックな一人称視点（POV）動画を制作します。まるで私がこれらのライトアップされたヤシの木の下を歩き、すぐ先にある高級屋外パーティーへ向かっているかのように、ゆっくりと自然に前方へ移動してください。実際の建築構造やライティングスタイルはそのまま維持します。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101859080272850944/img/EMGloxDM84B2JQOm.jpg" width="600" alt="シネマティックな一人称視点（POV）歩行動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11101)**
+
+**作者:** [LisaVale](https://x.com/DriftNShadow) | **ソース:** [Link](https://x.com/DriftNShadow/status/2101859118231302346) | **公開日:** Sep 21, 2026
+
+---
+### Grok Imagine ホラーシーン用プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ガールが小屋に隠れて、ジェイソン・ボーヒーズが湖から現れる様子を見守る場面を描いた Grok Imagine 用のナラティブプロンプト。
+
+#### 📝 プロンプト
+
+```
+少女が小屋に入り、窓の外を見ると、ジェイソン・ボーヒーズが湖から這い上がってくるのが見える。しかしジェイソンは少女に気づくことなく通り過ぎていく #Jasonvoorhees #FinalGirl
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101831541538074624/img/VDt0By-Bf28vL9Xk.jpg" width="600" alt="Grok Imagine ホラーシーン用プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11105)**
+
+**作者:** [Alex Stirling](https://x.com/AlexStirlism7) | **ソース:** [Link](https://x.com/AlexStirlism7/status/2101831570361348212) | **公開日:** Sep 21, 2026
+
+---
+### 銀河回転動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 背景の星を固定したまま、銀河がゆっくりと反時計回りに回転する動画を生成するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+背景の星を固定したまま、銀河を非常にゆっくりと反時計回りに回転させる
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="銀河回転動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11103)**
+
+**作者:** [Jack Light](https://x.com/Zagrag) | **ソース:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **公開日:** Sep 20, 2026
+
+---
+### ダークタワーの超高層ビル変身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 複数の参照画像を活用し、超高層ビルの画像をスティーブン・キングのシリーズ『ダークタワー』に変換するための詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+最初の画像にある明るく照らされた高層ビルを、スティーブン・キングの壮大なシリーズ『ダークタワー』へと変身させてください。2番目、3番目の画像からインスピレーションを得たゴシック様式または円筒形の建築構造を持つ、威圧的な古代の石造りの黒い塔へと建物を仕上げてください...
+```
+
+<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="ダークタワーの超高層ビル変身">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11099)**
+
+**作者:** [FutureMinted](https://x.com/futureminted) | **ソース:** [Link](https://x.com/futureminted/status/2101586737931903064) | **公開日:** Sep 20, 2026
+
+---
+### Grok Imagine 男性とハトのアニメーションプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キッチン環境で笑う男性と、穏やかに動くハトを描写した詳細なアニメーションプロンプト。
+
+#### 📝 プロンプト
+
+```
+男性は自然に笑顔を見せ、楽しそうに話す際に頭をわずかに動かします。肩に乗ったハトは翼を優しく羽ばたかせ、首を回しますが、「YUP」のテキストは表示されたままです。背景のキッチンには微妙な動きがあり、柔らかい照明が特徴です。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Grok Imagine 男性とハトのアニメーションプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11104)**
+
+**作者:** [quietrumble](https://x.com/BillHector2) | **ソース:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **公開日:** Sep 20, 2026
+
+---
+### Grok Imagine Mobster Goats Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A humorous prompt for animating three goats speaking like New York mobsters.
+
+#### 📝 プロンプト
+
+```
+Make the three goats talk like New York mobsters , asking for the grain and bed time peanut butter ....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Grok Imagine Mobster Goats Video Prompt">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11102)**
+
+**作者:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **ソース:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **公開日:** Sep 20, 2026
+
+---
 ### ローライダー vs テスラ ホバー チャレンジ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1991,148 +2124,6 @@ Expeng IRON ロボットがこの DUcati にまたがり、ショールームの
 **作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **ソース:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **公開日:** Sep 8, 2026
 
 ---
-### 聖書の登場人物のイラスト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 聖書のテキストや神聖な記述を視覚的に表現するための、ダイナミックな動画指示書です。
-
-#### 📝 プロンプト
-
-```
-以下の内容でイラストを作成してください：
-
-彼の人格
-聖く、罪がない。彼は完全な従順の生涯を送った。彼は私たちと同じようにあらゆる点で試みを受けたが、罪を犯すことはなかった（ヘブル人への手紙 4 章 15 節）。彼の聖さは、遠く離れた冷たいものではなく、実際に人を引き寄せる純粋さである...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097433762917490688/img/7Xf9SNZy7W71Vjav.jpg" width="600" alt="聖書の登場人物のイラスト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10605)**
-
-**作者:** [Njea](https://x.com/ITSMYLifeNjea28) | **ソース:** [Link](https://x.com/ITSMYLifeNjea28/status/2097433938897649805) | **公開日:** Sep 8, 2026
-
----
-### 銀河連邦の制服
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 紫、白、金を基調とし、金の記章があしらわれた銀河連邦の制服のビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-紫、白、金を基調とした銀河連邦の制服のアイデア、金の記章付き、傑作
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097422332826701824/img/cYdzNNhEC6FIqWw-.jpg" width="600" alt="銀河連邦の制服">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10613)**
-
-**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **ソース:** [Link](https://x.com/Octillion111111/status/2097422369715343456) | **公開日:** Sep 8, 2026
-
----
-### 反キリストが聖典を焼き払う様子
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 宗教的・精神的な書物を焼き払う人物を描いた、ドラマチックな物語風のビデオシーケンス。
-
-#### 📝 プロンプト
-
-```
-最終的に選ばれなかった反キリストが、聖書やあらゆる精神的な教えを焼き払う。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097407037986549761/img/Xdi2yIzmw_p6wKGp.jpg" width="600" alt="反キリストが聖典を焼き払う様子">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10606)**
-
-**作者:** [Richard garcia](https://x.com/Bartfire5150) | **ソース:** [Link](https://x.com/Bartfire5150/status/2097407095951835170) | **公開日:** Sep 8, 2026
-
----
-### Mars Pupil Portal Flythrough
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 人間の瞳の瞳孔を深くズームアップし、火星の超近代的な都市風景へとシームレスに切り替わる、クラシック音楽を伴った没入型のシュールなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-カメラが瞳孔にズームインし、それと同時に瞳孔が大きく開いていきます。その後、カメラは瞳孔の中へと飛び込み、暗闇が霧のように端へと滑らかに消えていくと、火星の巨大な砂丘が現れます。続いてカメラが左にパンすると、ガラスと鉄でできた超近代的な高層ビル群と飛行船が立ち並ぶ壮大な都市が姿を現します。背景にはバッハの「管弦楽組曲（BWV 1066–1069）」が流れていますが、それが急速にドラムの音へと変化していきます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097402331813855232/img/MirS5uoaMCCJktLY.jpg" width="600" alt="Mars Pupil Portal Flythrough">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10597)**
-
-**作者:** [Felicia_k_o](https://x.com/Felicia_K_O) | **ソース:** [Link](https://x.com/Felicia_K_O/status/2097404111398314102) | **公開日:** Sep 8, 2026
-
----
-### 幻想的な青いポータルの森の散歩
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 魔法の渦へと向かう金髪のキャラクターの旅を、嵐の要素を交えて描いた、詳細でアクション満載のアニメーション指示シーケンス。
-
-#### 📝 プロンプト
-
-```
-輝く青いポータルに向かって前進する女性をアニメーション化する。彼女の長い金髪がなびき、市松模様の道が伸び、キノコがわずかに揺れ、青いポータルがエネルギーを放って脈動し、嵐の空には稲妻が劇的に走る様子を描写する...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097385993267777536/img/g7Z6PeHHqF-vSO6_.jpg" width="600" alt="幻想的な青いポータルの森の散歩">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10596)**
-
-**作者:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmaSquirrel) | **ソース:** [Link](https://x.com/KarmaSquirrel/status/2097386064579010997) | **公開日:** Sep 8, 2026
-
----
-### IMAX 火星のパノラマ風景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 火星の地表の細部を捉えた、シャープな広角風景カメラアニメーション。
-
-#### 📝 プロンプト
-
-```
-午後の遅い時間帯の火星を捉えた、フォトリアルで映画のような超高解像度広角パノラマ映像。大型フォーマットの IMAX カメラで撮影したかのように、手前の小石から遠くの地平線まで非常にシャープなピントで描写されています。地形はどこまでも続く広大な赤錆色の...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097319984112582656/img/FriuY0gUl9R_Hslq.jpg" width="600" alt="IMAX 火星のパノラマ風景">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10598)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2097320020770463925) | **公開日:** Sep 8, 2026
-
----
-### シネマティックでフォトリアルなポートレート動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 高度な構造的制約のもと、繊細な感情の移ろいに焦点を当てた親密なクローズアップ・ポートレート動画。
-
-#### 📝 プロンプト
-
-```
-{
-  "meta": {
-    "type": "cinematic_photorealistic_video",
-    "duration": "6.5 秒",
-    "aspect_ratio": "9:16",
-    "frame_rate_feel": "24fps シネマティック・モーション",
-    "overall_intent": "繊細な感情の移ろいに焦点を当てた、親密なクローズアップ・ポートレート...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097257827320610816/img/Vy_FjRE941W1GhTp.jpg" width="600" alt="シネマティックでフォトリアルなポートレート動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10602)**
-
-**作者:** [幣気](https://x.com/meixieshi) | **ソース:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **公開日:** Sep 8, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2194,6 +2185,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-21T04:40:19.020Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-21T15:15:24.246Z</sub>
 
 </div>

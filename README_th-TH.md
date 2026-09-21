@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2857** |
+| 📝 Total Prompts | **2864** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-21** |
 
@@ -189,6 +189,139 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### พรอมต์วิดีโอ Grok Imagine: ฉากมุมมองบุคคลที่หนึ่ง (POV) การหดตัว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์มุมมองบุคคลที่หนึ่งที่ตัวละครใช้เครื่องมือทำให้ผู้อื่นมีขนาดเล็กลง
+
+#### 📝 Prompt
+
+```
+มุมมองบุคคลที่หนึ่ง (First person POV). ผมเป็นผู้ชายสูง 6 ฟุต เธอหันกลับมาแล้วพูดว่า “คุณไม่ปฏิบัติตามกฎของฉัน” จากนั้นก็เริ่มใช้เครื่องมือทำให้ผมมีขนาดเล็กลง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101886328451297280/img/rlc6ExVZ6tEZOSin.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine: ฉากมุมมองบุคคลที่หนึ่ง (POV) การหดตัว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11100)**
+
+**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2101886349984825854) | **Published:** Sep 21, 2026
+
+---
+### วิดีโอเดินมุมมองบุคคลที่หนึ่งแบบภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์รายละเอียดสำหรับสร้างวิดีโอจุดมุมมอง (POV) แบบภาพยนตร์ความยาว 15 วินาที โดยเริ่มจากภาพปาล์มประดับไฟในงานเลี้ยงกลางแจ้งที่อัปโหลดเข้ามา
+
+#### 📝 Prompt
+
+```
+วิดีโอ POV แบบภาพยนตร์ความยาว 15 วินาที โดยใช้ภาพที่อัปโหลดเป็นจุดเริ่มต้นทางสายตาที่แม่นยำ เคลื่อนที่ไปข้างหน้าอย่างช้าๆ และเป็นธรรมชาติราวกับว่าผมกำลังเดินใต้ต้นปาล์มประดับไฟเหล่านี้มุ่งหน้าไปยังงานเลี้ยงกลางแจ้งระดับไฮเอนด์ที่อยู่เบื้องหน้า รักษาสถาปัตยกรรมจริงและสไตล์การจัดแสงไว้
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101859080272850944/img/EMGloxDM84B2JQOm.jpg" width="600" alt="วิดีโอเดินมุมมองบุคคลที่หนึ่งแบบภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11101)**
+
+**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2101859118231302346) | **Published:** Sep 21, 2026
+
+---
+### พรอมต์ฉากสยองขวัญสำหรับ Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เชิงเล่าเรื่องสำหรับ Grok Imagine ที่บรรยายถึงเด็กหญิงซ่อนตัวในกระท่อมและเฝ้าดู Jason Voorhees โผล่ออกมาจากทะเลสาบ
+
+#### 📝 Prompt
+
+```
+เด็กหญิงเข้าไปในกระท่อมและมองผ่านหน้าต่างเห็น Jason Voorhees กำลังโผล่ออกมาจากทะเลสาบ จากนั้น Jason เดินผ่านไปโดยไม่สังเกตเห็นเธอ #Jasonvoorhees #FinalGirl
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101831541538074624/img/VDt0By-Bf28vL9Xk.jpg" width="600" alt="พรอมต์ฉากสยองขวัญสำหรับ Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11105)**
+
+**Author:** [Alex Stirling](https://x.com/AlexStirlism7) | **Source:** [Link](https://x.com/AlexStirlism7/status/2101831570361348212) | **Published:** Sep 21, 2026
+
+---
+### วิดีโอการหมุนของกาแล็กซี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งสำหรับสร้างวิดีโอแสดงกาแล็กซีที่หมุนทวนเข็มนาฬิกาอย่างช้าๆ โดยคงตำแหน่งดาวพื้นหลังให้หยุดนิ่ง
+
+#### 📝 Prompt
+
+```
+หมุนกาแล็กซีอย่างช้าๆ ในทิศทางทวนเข็มนาฬิกา โดยคงตำแหน่งดาวพื้นหลังให้อยู่นิ่ง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="วิดีโอการหมุนของกาแล็กซี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11103)**
+
+**Author:** [Jack Light](https://x.com/Zagrag) | **Source:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **Published:** Sep 20, 2026
+
+---
+### การเปลี่ยนตึกระฟ้าให้เป็นหอคอยมืด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ละเอียดสำหรับเปลี่ยนภาพตึกระฟ้าให้กลายเป็น The Dark Tower จากซีรีส์ของ Stephen King โดยใช้ภาพอ้างอิงหลายภาพ
+
+#### 📝 Prompt
+
+```
+เปลี่ยนตึกระฟ้าสูงที่มีแสงสว่างจากภาพแรกให้กลายเป็น The Dark Tower จากซีรีส์มหากาพย์ของ Stephen King เปลี่ยนอาคารให้กลายเป็นหอคอยหินโบราณสีดำทะมึนที่สูงตระหง่านและน่าสะพรึงกลัว โดยมีสถาปัตยกรรมแบบโกธิกหรือทรงกระบอกที่ได้รับแรงบันดาลใจจากภาพที่สอง ภาพที่สาม...
+```
+
+<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="การเปลี่ยนตึกระฟ้าให้เป็นหอคอยมืด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11099)**
+
+**Author:** [FutureMinted](https://x.com/futureminted) | **Source:** [Link](https://x.com/futureminted/status/2101586737931903064) | **Published:** Sep 20, 2026
+
+---
+### พรอมต์สร้างภาพเคลื่อนไหว Grok Imagine: ชายและนกพิราบ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างภาพเคลื่อนไหวแบบละเอียดที่อธิบายฉากชายคนหนึ่งกำลังหัวเราะอย่างมีความสุข และนกพิราบขยับตัวเบาๆ ในบรรยากาศห้องครัว
+
+#### 📝 Prompt
+
+```
+ชายคนนั้นยิ้มและหัวเราะอย่างเป็นธรรมชาติ ศีรษะของเขาขยับเล็กน้อยขณะพูดคุยอย่างร่าเริง ในขณะที่นกพิราบบนไหล่กระพือปีกเบาๆ และหันศีรษะ โดยข้อความ YUP ยังคงมองเห็นได้ชัดเจน พื้นหลังห้องครัวมีการเคลื่อนไหวเพียงเล็กน้อยพร้อมแสงนุ่มนวล
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="พรอมต์สร้างภาพเคลื่อนไหว Grok Imagine: ชายและนกพิราบ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11104)**
+
+**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **Published:** Sep 20, 2026
+
+---
+### พรอมต์วิดีโอ Grok Imagine: แพะมาเฟีย
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ตลกขบขันสำหรับสร้างแอนิเมชันแพะสามตัวที่พูดจาเหมือนมาเฟียในนิวยอร์ก
+
+#### 📝 Prompt
+
+```
+ทำให้แพะสามตัวพูดจาเหมือนมาเฟียในนิวยอร์ก โดยเรียกร้องขออาหารสัตว์และเนยถั่วก่อนนอน...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine: แพะมาเฟีย">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11102)**
+
+**Author:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **Source:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **Published:** Sep 20, 2026
+
+---
 ### การประชันระหว่างโลว์ไรเดอร์กับเทสลา: ท้าความสูงแบบลอยตัว
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1992,148 +2125,6 @@ Margaret กำลังอุ้มลูกสาวตัวน้อยท�
 **Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **Published:** Sep 8, 2026
 
 ---
-### ภาพประกอบตัวละครในพระคัมภีร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำแนะนำวิดีโอแบบไดนามิกที่ถ่ายทอดข้อความจากพระคัมภีร์และคำบรรยายอันศักดิ์สิทธิ์เพื่อการนำเสนอในรูปแบบภาพ
-
-#### 📝 Prompt
-
-```
-สร้างภาพประกอบจากเนื้อหาต่อไปนี้:
-
-พระลักษณะของพระองค์
-บริสุทธิ์และปราศจากบาป พระองค์ทรงดำเนินชีวิตด้วยการเชื่อฟังอย่างสมบูรณ์ พระองค์ทรงถูกทดลองในทุกด้านเช่นเดียวกับเรา แต่ไม่เคยทำบาปเลย (ฮีบรู 4:15) ความบริสุทธิ์ของพระองค์ไม่ใช่สิ่งที่ห่างเหินหรือเย็นชา แต่เป็นความบริสุทธิ์ที่สามารถดึงดูด...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097433762917490688/img/7Xf9SNZy7W71Vjav.jpg" width="600" alt="ภาพประกอบตัวละครในพระคัมภีร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10605)**
-
-**Author:** [Njea](https://x.com/ITSMYLifeNjea28) | **Source:** [Link](https://x.com/ITSMYLifeNjea28/status/2097433938897649805) | **Published:** Sep 8, 2026
-
----
-### เครื่องแบบ Galactic Federation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สำหรับเครื่องแบบ Galactic Federation สีม่วง ขาว และทอง พร้อมตราสัญลักษณ์สีทอง
-
-#### 📝 Prompt
-
-```
-ไอเดียเครื่องแบบ Galactic Federation สีม่วง ขาว และทอง พร้อมตราสัญลักษณ์สีทอง ผลงานระดับมาสเตอร์พีซ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097422332826701824/img/cYdzNNhEC6FIqWw-.jpg" width="600" alt="เครื่องแบบ Galactic Federation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10613)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2097422369715343456) | **Published:** Sep 8, 2026
-
----
-### Antichrist เผาคัมภีร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอฉากดราม่าที่ถ่ายทอดเรื่องราวของตัวละครที่กำลังเผาทำลายคัมภีร์ทางศาสนาและตำราทางจิตวิญญาณ
-
-#### 📝 Prompt
-
-```
-Antichrist ผู้ที่ไม่ได้รับเลือกในตอนท้าย กำลังเผาพระคัมภีร์ไบเบิลและคำสอนทางจิตวิญญาณทั้งหมด
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097407037986549761/img/Xdi2yIzmw_p6wKGp.jpg" width="600" alt="Antichrist เผาคัมภีร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10606)**
-
-**Author:** [Richard garcia](https://x.com/Bartfire5150) | **Source:** [Link](https://x.com/Bartfire5150/status/2097407095951835170) | **Published:** Sep 8, 2026
-
----
-### วิดีโอแนะนำ Mars Pupil Portal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอแนวเหนือจริงสุดดื่มด่ำที่เริ่มจากการซูมเข้าไปในรูม่านตาของมนุษย์ แล้วเปลี่ยนผ่านไปสู่ทิวทัศน์เมืองสุดล้ำบนดาวอังคาร พร้อมดนตรีคลาสสิกประกอบ
-
-#### 📝 Prompt
-
-```
-กล้องซูมเข้าไปที่รูม่านตาและในขณะเดียวกันรูม่านตาก็ขยายกว้างขึ้น จากนั้นกล้องก็พุ่งเข้าไปในรูม่านตา ความมืดค่อยๆ จางหายไปเหมือนหมอกที่กระจายออกไปจนเผยให้เห็นเนินทรายขนาดใหญ่บนดาวอังคาร จากนั้นกล้องแพนไปทางซ้ายเพื่อเผยให้เห็นเมืองสุดล้ำขนาดมหึมาที่มีตึกระฟ้าทำจากแก้วและเหล็กกล้า รวมถึงยานบินต่างๆ โดยมีเพลงของ Bach บรรเลงคลอเป็นพื้นหลัง — Orchestral Suites, BWV 1066–1069 — ก่อนที่จะเปลี่ยนจังหวะเป็นเสียงกลองอย่างรวดเร็ว
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097402331813855232/img/MirS5uoaMCCJktLY.jpg" width="600" alt="วิดีโอแนะนำ Mars Pupil Portal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10597)**
-
-**Author:** [Felicia_k_o](https://x.com/Felicia_K_O) | **Source:** [Link](https://x.com/Felicia_K_O/status/2097404111398314102) | **Published:** Sep 8, 2026
-
----
-### การเดินในป่าแห่งพอร์ทัลสีน้ำเงินสุดแฟนตาซี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ลำดับคำสั่งแอนิเมชันที่เต็มไปด้วยรายละเอียดและการเคลื่อนไหว ซึ่งแสดงภาพการเดินทางของตัวละครผมบลอนด์มุ่งหน้าสู่กระแสน้ำวนเวทมนตร์ท่ามกลางองค์ประกอบของพายุ
-
-#### 📝 Prompt
-
-```
-ทำแอนิเมชันให้ผู้หญิงเดินตรงไปข้างหน้ามุ่งสู่พอร์ทัลสีน้ำเงินที่กำลังเรืองแสง ผมสีบลอนด์ยาวของเธอพลิ้วไหว ทางเดินลายตารางทอดยาวออกไป เห็ดเอนไหวเล็กน้อย พอร์ทัลสีน้ำเงินสั่นไหวด้วยพลังงาน และสายฟ้าฟาดเปรี้ยงอย่างน่าตื่นตาตื่นใจทั่วท้องฟ้าที่เต็มไปด้วยพายุ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097385993267777536/img/g7Z6PeHHqF-vSO6_.jpg" width="600" alt="การเดินในป่าแห่งพอร์ทัลสีน้ำเงินสุดแฟนตาซี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10596)**
-
-**Author:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmaSquirrel) | **Source:** [Link](https://x.com/KarmaSquirrel/status/2097386064579010997) | **Published:** Sep 8, 2026
-
----
-### ทิวทัศน์ดาวอังคารในมุมมองแบบ IMAX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> แอนิเมชันกล้องมุมกว้างที่คมชัด เผยให้เห็นรายละเอียดพื้นผิวของดาวอังคาร
-
-#### 📝 Prompt
-
-```
-ภาพทิวทัศน์มุมกว้างของดาวอังคารในช่วงเย็นที่สมจริงระดับภาพถ่ายและมีความละเอียดสูงพิเศษ ราวกับถ่ายทำด้วยกล้อง IMAX ขนาดใหญ่ที่ให้ความคมชัดตั้งแต่ก้อนกรวดในระยะใกล้ไปจนถึงเส้นขอบฟ้าที่ห่างไกล พื้นที่เป็นที่ราบกว้างใหญ่ที่สลับซับซ้อนด้วยสีสนิม...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097319984112582656/img/FriuY0gUl9R_Hslq.jpg" width="600" alt="ทิวทัศน์ดาวอังคารในมุมมองแบบ IMAX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10598)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2097320020770463925) | **Published:** Sep 8, 2026
-
----
-### วิดีโอพอร์ตเทรตแนวภาพยนตร์ที่สมจริงดั่งภาพถ่าย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพอร์ตเทรตระยะใกล้ที่เน้นการถ่ายทอดอารมณ์ความรู้สึกอย่างละเอียดอ่อน ภายใต้ข้อกำหนดทางเทคนิคขั้นสูง
-
-#### 📝 Prompt
-
-```
-{
-  "meta": {
-    "type": "cinematic_photorealistic_video",
-    "duration": "6.5 วินาที",
-    "aspect_ratio": "9:16",
-    "frame_rate_feel": "การเคลื่อนไหวแบบภาพยนตร์ 24fps",
-    "overall_intent": "วิดีโอพอร์ตเทรตระยะใกล้ที่เน้นการถ่ายทอดอารมณ์ความรู้สึกอย่างละเอียดอ่อน..."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097257827320610816/img/Vy_FjRE941W1GhTp.jpg" width="600" alt="วิดีโอพอร์ตเทรตแนวภาพยนตร์ที่สมจริงดั่งภาพถ่าย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10602)**
-
-**Author:** [幣気](https://x.com/meixieshi) | **Source:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **Published:** Sep 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2186,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-21T04:40:21.298Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-21T15:15:27.282Z</sub>
 
 </div>

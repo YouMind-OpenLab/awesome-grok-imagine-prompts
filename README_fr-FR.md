@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2857** |
+| 📝 Total Prompts | **2864** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-21** |
 
@@ -189,6 +189,139 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt vidéo Grok Imagine : Scène de rétrécissement en POV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt à la première personne où un personnage rétrécit un autre avec un appareil.
+
+#### 📝 Prompt
+
+```
+Point de vue à la première personne. Je suis un homme d'1m83. Elle se retourne, dit « tu ne respectes pas mes règles » et procède à mon rétrécissement avec l'appareil.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101886328451297280/img/rlc6ExVZ6tEZOSin.jpg" width="600" alt="Prompt vidéo Grok Imagine : Scène de rétrécissement en POV">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11100)**
+
+**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2101886349984825854) | **Published:** Sep 21, 2026
+
+---
+### Vidéo POV Cinématographique en Marche
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour créer une vidéo cinématographique de 15 secondes en point de vue, à partir d'une image téléchargée montrant des palmiers illuminés lors d'une fête en plein air.
+
+#### 📝 Prompt
+
+```
+Vidéo POV cinématographique de 15 secondes utilisant l'image téléchargée comme point de départ visuel exact. Avancez lentement et naturellement, comme si je marchais sous ces palmiers illuminés vers une fête haut de gamme en plein air juste devant. Préservez l'architecture réelle et le style d'éclairage.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101859080272850944/img/EMGloxDM84B2JQOm.jpg" width="600" alt="Vidéo POV Cinématographique en Marche">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11101)**
+
+**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2101859118231302346) | **Published:** Sep 21, 2026
+
+---
+### Prompt de scène d'horreur pour Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narratif pour Grok Imagine décrivant une fille se cachant dans une cabane et observant Jason Voorhees émerger d'un lac.
+
+#### 📝 Prompt
+
+```
+La fille entre dans la cabane et aperçoit par la fenêtre Jason Voorhees sortir du lac, puis Jason passe sans voir la fille #JasonVoorhees #FinalGirl
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101831541538074624/img/VDt0By-Bf28vL9Xk.jpg" width="600" alt="Prompt de scène d'horreur pour Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11105)**
+
+**Author:** [Alex Stirling](https://x.com/AlexStirlism7) | **Source:** [Link](https://x.com/AlexStirlism7/status/2101831570361348212) | **Published:** Sep 21, 2026
+
+---
+### Vidéo de rotation galactique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite pour générer une vidéo d'une galaxie tournant lentement dans le sens antihoraire, tout en maintenant les étoiles d'arrière-plan fixes.
+
+#### 📝 Prompt
+
+```
+Faites tourner la galaxie très lentement dans le sens antihoraire tout en maintenant les étoiles d'arrière-plan fixes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="Vidéo de rotation galactique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11103)**
+
+**Author:** [Jack Light](https://x.com/Zagrag) | **Source:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **Published:** Sep 20, 2026
+
+---
+### Transformation de gratte-ciel en Tour Sombre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé transformant une image de gratte-ciel en la Tour Sombre de la série de Stephen King, utilisant plusieurs images de référence.
+
+#### 📝 Prompt
+
+```
+Transformez le gratte-ciel haut et illuminé de la première image en la Tour Sombre de l'épopée de Stephen King. Convertissez le bâtiment en une tour sombre, noire, menaçante et ancienne en pierre, avec une architecture gothique ou cylindrique inspirée par la deuxième, la troisième...
+```
+
+<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="Transformation de gratte-ciel en Tour Sombre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11099)**
+
+**Author:** [FutureMinted](https://x.com/futureminted) | **Source:** [Link](https://x.com/futureminted/status/2101586737931903064) | **Published:** Sep 20, 2026
+
+---
+### Prompt d'animation Grok Imagine : Homme et Pigeon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'animation détaillé décrivant un homme riant et un pigeon se déplaçant doucement dans une cuisine.
+
+#### 📝 Prompt
+
+```
+L'homme sourit et rit naturellement, sa tête bougeant légèrement tandis qu'il parle joyeusement, pendant que le pigeon sur son épaule bat doucement des ailes et tourne la tête, avec le texte YUP restant visible. Mouvement subtil de l'arrière-plan de la cuisine et éclairage doux.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Prompt d'animation Grok Imagine : Homme et Pigeon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11104)**
+
+**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **Published:** Sep 20, 2026
+
+---
+### Prompt vidéo Grok Imagine : Chèvres de la mafia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt humoristique pour animer trois chèvres parlant comme des mafieux new-yorkais.
+
+#### 📝 Prompt
+
+```
+Faites parler les trois chèvres comme des mafieux new-yorkais, en leur faisant réclamer le grain et le beurre de cacahuète du coucher...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Prompt vidéo Grok Imagine : Chèvres de la mafia">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11102)**
+
+**Author:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **Source:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **Published:** Sep 20, 2026
+
+---
 ### Défi de saut : Low Rider vs Tesla
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1992,148 +2125,6 @@ Robot IRON de chez Expeng, monte sur cette DUcati et sort par la porte principal
 **Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **Published:** Sep 8, 2026
 
 ---
-### Illustration de personnage biblique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une instruction vidéo dynamique cartographiant un texte biblique et des descriptions saintes pour une représentation visuelle.
-
-#### 📝 Prompt
-
-```
-Créez une illustration basée sur ces éléments :
-
-Son caractère
-Saint et sans péché. Il a vécu une vie d'obéissance parfaite. Il a été tenté de toutes les manières comme nous le sommes, mais n'a jamais péché (Hébreux 4:15). Sa sainteté n'est ni distante ni froide ; c'est la pureté qui peut réellement attir...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097433762917490688/img/7Xf9SNZy7W71Vjav.jpg" width="600" alt="Illustration de personnage biblique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10605)**
-
-**Author:** [Njea](https://x.com/ITSMYLifeNjea28) | **Source:** [Link](https://x.com/ITSMYLifeNjea28/status/2097433938897649805) | **Published:** Sep 8, 2026
-
----
-### Uniforme de la Fédération Galactique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo pour un uniforme de la Fédération Galactique violet, blanc et or avec des insignes dorés.
-
-#### 📝 Prompt
-
-```
-Idée d'uniforme violet, blanc et or de la Fédération Galactique avec insignes dorés, chef-d'œuvre
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097422332826701824/img/cYdzNNhEC6FIqWw-.jpg" width="600" alt="Uniforme de la Fédération Galactique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10613)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2097422369715343456) | **Published:** Sep 8, 2026
-
----
-### L'Antéchrist brûlant des écritures
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une séquence vidéo dramatique illustrant une scène narrative où des personnages brûlent des textes religieux et spirituels.
-
-#### 📝 Prompt
-
-```
-L'antéchrist, celui qui n'a finalement pas été choisi, brûle la Bible et tous les enseignements spirituels
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097407037986549761/img/Xdi2yIzmw_p6wKGp.jpg" width="600" alt="L'Antéchrist brûlant des écritures">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10606)**
-
-**Author:** [Richard garcia](https://x.com/Bartfire5150) | **Source:** [Link](https://x.com/Bartfire5150/status/2097407095951835170) | **Published:** Sep 8, 2026
-
----
-### Survol du portail pupillaire sur Mars
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo surréaliste et immersif qui effectue une transition d'un zoom macro sur une pupille humaine vers un paysage urbain ultramoderne sur Mars, le tout accompagné de musique classique.
-
-#### 📝 Prompt
-
-```
-La caméra zoome sur la pupille qui se dilate progressivement. Elle pénètre ensuite directement à l'intérieur, tandis que l'obscurité se dissipe en douceur, se propageant vers les bords comme du brouillard pour révéler d'immenses dunes martiennes. La caméra effectue alors un panoramique vers la gauche, dévoilant une ville ultramoderne massive composée de gratte-ciel en verre et en acier, ainsi que des vaisseaux volants. En fond sonore, les Suites orchestrales de Bach (BWV 1066–1069) se transforment rapidement en un rythme de batterie.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097402331813855232/img/MirS5uoaMCCJktLY.jpg" width="600" alt="Survol du portail pupillaire sur Mars">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10597)**
-
-**Author:** [Felicia_k_o](https://x.com/Felicia_K_O) | **Source:** [Link](https://x.com/Felicia_K_O/status/2097404111398314102) | **Published:** Sep 8, 2026
-
----
-### Promenade dans la forêt du portail bleu fantastique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une séquence d'instructions d'animation détaillée et riche en action décrivant le voyage d'un personnage blond vers un vortex magique avec des éléments orageux.
-
-#### 📝 Prompt
-
-```
-Animez la femme marchant vers le portail bleu lumineux, ses longs cheveux blonds flottant, le chemin à damier s'étendant, les champignons se balançant légèrement, le portail bleu vibrant d'énergie et des éclairs frappant de manière spectaculaire à travers le ciel orageux,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097385993267777536/img/g7Z6PeHHqF-vSO6_.jpg" width="600" alt="Promenade dans la forêt du portail bleu fantastique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10596)**
-
-**Author:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmaSquirrel) | **Source:** [Link](https://x.com/KarmaSquirrel/status/2097386064579010997) | **Published:** Sep 8, 2026
-
----
-### Paysage IMAX de Mars Vista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une animation de caméra paysagère grand angle nette cadrant les détails du paysage de surface de la planète Mars.
-
-#### 📝 Prompt
-
-```
-Vue panoramique grand angle photoréaliste, cinématographique et en ultra-haute résolution de Mars en fin d'après-midi, comme filmée avec une caméra IMAX grand format, avec une mise au point ultra-précise des cailloux au premier plan jusqu'à l'horizon lointain. Le terrain est une vaste étendue ondulante de rouille...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097319984112582656/img/FriuY0gUl9R_Hslq.jpg" width="600" alt="Paysage IMAX de Mars Vista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10598)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2097320020770463925) | **Published:** Sep 8, 2026
-
----
-### Portrait vidéo cinématographique photoréaliste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un portrait vidéo en gros plan intimiste se concentrant sur une évolution émotionnelle subtile avec des contraintes structurelles hautement techniques.
-
-#### 📝 Prompt
-
-```
-{
-  "meta": {
-    "type": "cinematic_photorealistic_video",
-    "duration": "6.5s",
-    "aspect_ratio": "9:16",
-    "frame_rate_feel": "mouvement cinématographique 24fps",
-    "overall_intent": "Un portrait en gros plan intimiste axé sur une évolution émotionnelle subtile..."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097257827320610816/img/Vy_FjRE941W1GhTp.jpg" width="600" alt="Portrait vidéo cinématographique photoréaliste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10602)**
-
-**Author:** [幣気](https://x.com/meixieshi) | **Source:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **Published:** Sep 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2186,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-21T04:40:29.746Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-21T15:15:33.907Z</sub>
 
 </div>

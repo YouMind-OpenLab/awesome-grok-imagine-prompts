@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2857** |
+| 📝 Total Prompts | **2864** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-21** |
 
@@ -189,6 +189,139 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video İstemi: POV Küçülme Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karakterin cihazla diğerini küçülttüğü birinci şahıs bakış açısına sahip istem.
+
+#### 📝 Prompt
+
+```
+Birinci şahıs POV. Ben 1,80 metre boyunda bir erkeğim. Arkasını dönüyor ve “kurallarıma uymuyorsun” diyor, ardından cihazla beni küçültmeye başlıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101886328451297280/img/rlc6ExVZ6tEZOSin.jpg" width="600" alt="Grok Imagine Video İstemi: POV Küçülme Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11100)**
+
+**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2101886349984825854) | **Published:** Sep 21, 2026
+
+---
+### Sinematik POV Yürüyüş Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dışarıda düzenlenen bir partide aydınlatılmış palmiye ağaçlarının yüklendiği görselden başlayan, 15 saniyelik sinematik birinci şahıs bakış açısı (POV) videosu oluşturmak için detaylı istem.
+
+#### 📝 Prompt
+
+```
+Yüklenen görseli tam olarak başlangıç noktası olarak kullanan 15 saniyelik sinematik POV videosu. Önümde lüks bir açık hava partisi varmış gibi, bu aydınlatılmış palmiye ağaçlarının altından yavaşça ve doğal bir şekilde yürüyormuşum gibi ilerle. Gerçek mimariyi ve ışıklandırma stilini koru.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101859080272850944/img/EMGloxDM84B2JQOm.jpg" width="600" alt="Sinematik POV Yürüyüş Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11101)**
+
+**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2101859118231302346) | **Published:** Sep 21, 2026
+
+---
+### Grok Imagine Korku Sahnesi İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kızın kulübede saklanıp Jason Voorhees'in gölden çıkışını izlediği Grok Imagine için anlatısal bir istem.
+
+#### 📝 Prompt
+
+```
+Kız kulübeye girer ve pencereden Jason Voorhees'in gölden çıktığını görür, Jason kızı fark etmeden yanından geçer #Jasonvoorhees #FinalGirl
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101831541538074624/img/VDt0By-Bf28vL9Xk.jpg" width="600" alt="Grok Imagine Korku Sahnesi İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11105)**
+
+**Author:** [Alex Stirling](https://x.com/AlexStirlism7) | **Source:** [Link](https://x.com/AlexStirlism7/status/2101831570361348212) | **Published:** Sep 21, 2026
+
+---
+### Galaksi Dönüşü Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Arka plan yıldızlarını sabit tutarak galaksinin saat yönünün tersine yavaşça döndüğünü gösteren bir video oluşturmak için istem.
+
+#### 📝 Prompt
+
+```
+Arka plan yıldızlarını sabit tutarken galaksiyi çok yavaş bir şekilde saat yönünün tersine döndürün
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101690898513846273/img/QILOnSWZILYXSCLn.jpg" width="600" alt="Galaksi Dönüşü Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11103)**
+
+**Author:** [Jack Light](https://x.com/Zagrag) | **Source:** [Link](https://x.com/Zagrag/status/2101690995314151607) | **Published:** Sep 20, 2026
+
+---
+### Kara Kule Gökdelen Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Stephen King'in serisindeki Kara Kule'ye dönüştürmek için birden fazla referans görsel kullanan, bir gökdelen görselini detaylı bir şekilde değiştiren prompt.
+
+#### 📝 Prompt
+
+```
+İlk görseldeki aydınlatılmış yüksek gökdelene Stephen King'in epik serisindeki Kara Kule görünümünü kazandırın. İkinci ve üçüncü görsellerden ilham alarak binayı gotik veya silindirik mimariye sahip, ürkütücü, kadim taştan yapılmış devasa siyah bir kuleye dönüştürün...
+```
+
+<img src="https://pbs.twimg.com/tweet_video_thumb/HSpV_2lagAESG4w.jpg" width="600" alt="Kara Kule Gökdelen Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11099)**
+
+**Author:** [FutureMinted](https://x.com/futureminted) | **Source:** [Link](https://x.com/futureminted/status/2101586737931903064) | **Published:** Sep 20, 2026
+
+---
+### Grok Imagine Adam ve Güvercin Animasyon İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mutfak ortamında gülen bir adamı ve yumuşakça hareket eden bir güvercini betimleyen detaylı animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Adam doğal bir şekilde gülümser ve güler, neşeli konuşurken başı hafifçe hareket eder; omzundaki güvercin kanatlarını yavaşça çırpıp başını çevirirken YUP yazısı görünür kalır. Arka planda mutfakta ince hareketler ve yumuşak aydınlatma.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101572335836815360/img/kK-IVHNaPKD8_6iq.jpg" width="600" alt="Grok Imagine Adam ve Güvercin Animasyon İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11104)**
+
+**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2101572350319669727) | **Published:** Sep 20, 2026
+
+---
+### Grok Imagine Mobster Keçiler Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Üç keçinin New York mafyası gibi konuşarak animasyon haline getirilmesi için eğlenceli bir istem.
+
+#### 📝 Prompt
+
+```
+Üç keçi, taneleri ve yatmadan önceki fıstık ezmesini isteyen New York mafyası gibi konuşsun....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101503448478818304/img/R_RwnB3UVVUUDmYH.jpg" width="600" alt="Grok Imagine Mobster Keçiler Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11102)**
+
+**Author:** [Mr.Tibbs](https://x.com/BlizzardAd56304) | **Source:** [Link](https://x.com/BlizzardAd56304/status/2101503477981585539) | **Published:** Sep 20, 2026
+
+---
 ### Low Rider vs Tesla Hover Challenge
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1992,148 +2125,6 @@ Expeng IRON robotu, bu DUcati'ye biniyor ve showroom'un ön kapısından dışar
 **Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **Published:** Sep 8, 2026
 
 ---
-### İncil karakteri illüstrasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İncil metinlerini ve kutsal betimlemeleri görselleştirmek için hazırlanan dinamik bir video yönergesi.
-
-#### 📝 Prompt
-
-```
-Şunlar üzerine bir illüstrasyon oluştur:
-
-Karakteri
-Kutsal ve günahsız. Mükemmel bir itaatle yaşadı. Bizim gibi her yönden sınandı, ancak hiç günah işlemedi (İbraniler 4:15). O'nun kutsallığı uzak veya soğuk değildir; bu, insanı gerçekten kendine çeken saflıktır...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097433762917490688/img/7Xf9SNZy7W71Vjav.jpg" width="600" alt="İncil karakteri illüstrasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10605)**
-
-**Author:** [Njea](https://x.com/ITSMYLifeNjea28) | **Source:** [Link](https://x.com/ITSMYLifeNjea28/status/2097433938897649805) | **Published:** Sep 8, 2026
-
----
-### Galaktik Federasyon üniforması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Altın nişanlı, mor, beyaz ve altın rengi bir Galaktik Federasyon üniforması için video istemi.
-
-#### 📝 Prompt
-
-```
-Altın nişanlı, mor, beyaz ve altın rengi Galaktik Federasyon üniforması fikri, başyapıt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097422332826701824/img/cYdzNNhEC6FIqWw-.jpg" width="600" alt="Galaktik Federasyon üniforması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10613)**
-
-**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2097422369715343456) | **Published:** Sep 8, 2026
-
----
-### Deccal'in kutsal metinleri yakması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Figürlerin dini ve ruhani metinleri yaktığı anlatısal bir sahneyi betimleyen dramatik bir video sekansı.
-
-#### 📝 Prompt
-
-```
-Sonunda seçilmeyen kişi olan Deccal, İncil'i ve tüm manevi öğretileri yakıyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097407037986549761/img/Xdi2yIzmw_p6wKGp.jpg" width="600" alt="Deccal'in kutsal metinleri yakması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10606)**
-
-**Author:** [Richard garcia](https://x.com/Bartfire5150) | **Source:** [Link](https://x.com/Bartfire5150/status/2097407095951835170) | **Published:** Sep 8, 2026
-
----
-### Mars Pupil Portal Geçişi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İnsan göz bebeğinin derinliklerine yapılan yakın çekimden, Mars üzerindeki ultra modern bir şehir manzarasına geçiş yapan, klasik müzik eşliğinde sürükleyici ve sürreal bir video istemi.
-
-#### 📝 Prompt
-
-```
-Kamera göz bebeğine odaklanıyor ve bu sırada göz bebeği giderek genişliyor. Ardından kamera doğrudan göz bebeğinin içine giriyor, siyahlık sis gibi kenarlara yayılarak yumuşak bir şekilde kayboluyor ve devasa Mars kumulları ortaya çıkıyor. Kamera sola kaydığında cam ve çelik gökdelenler ile uçan gemilerle dolu devasa, ultra modern bir şehir görünüyor. Arka planda Bach'ın Orchestral Suites (BWV 1066–1069) eserleri çalıyor ve müzik hızla bir davul ritmine dönüşüyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097402331813855232/img/MirS5uoaMCCJktLY.jpg" width="600" alt="Mars Pupil Portal Geçişi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10597)**
-
-**Author:** [Felicia_k_o](https://x.com/Felicia_K_O) | **Source:** [Link](https://x.com/Felicia_K_O/status/2097404111398314102) | **Published:** Sep 8, 2026
-
----
-### Fantastik Mavi Portal Orman Yürüyüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sarışın bir karakterin fırtınalı unsurlarla dolu büyülü bir girdaba doğru yolculuğunu haritalandıran, aksiyon dolu detaylı bir animasyon talimat dizisi.
-
-#### 📝 Prompt
-
-```
-Kadının parlayan mavi portala doğru ilerlediğini, uzun sarı saçlarının dalgalandığını, damalı yolun uzandığını, mantarların hafifçe sallandığını, mavi portalın enerjiyle nabız gibi attığını ve fırtınalı gökyüzünde şimşeklerin dramatik bir şekilde çaktığını canlandırın...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097385993267777536/img/g7Z6PeHHqF-vSO6_.jpg" width="600" alt="Fantastik Mavi Portal Orman Yürüyüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10596)**
-
-**Author:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmaSquirrel) | **Source:** [Link](https://x.com/KarmaSquirrel/status/2097386064579010997) | **Published:** Sep 8, 2026
-
----
-### IMAX Mars Vista Manzarası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mars gezegeninin yüzey detaylarını kadraja alan, keskin ve geniş açılı bir manzara kamerası animasyonu.
-
-#### 📝 Prompt
-
-```
-Ön plandaki çakıl taşlarından uzak ufka kadar keskin bir odaklamaya sahip, büyük formatlı bir IMAX kamerasıyla çekilmiş gibi görünen, gün batımına yakın saatlerdeki Mars'ın fotogerçekçi, sinematik ve ultra yüksek çözünürlüklü geniş açılı manzarası. Arazi, uçsuz bucaksız, dalgalı bir pas rengi genişliğindedir...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097319984112582656/img/FriuY0gUl9R_Hslq.jpg" width="600" alt="IMAX Mars Vista Manzarası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10598)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2097320020770463925) | **Published:** Sep 8, 2026
-
----
-### Sinematik Fotogerçekçi Portre Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Son derece teknik yapısal kısıtlamalarla ince duygusal gelişime odaklanan samimi bir yakın plan video portresi.
-
-#### 📝 Prompt
-
-```
-{
-  "meta": {
-    "type": "cinematik_fotogerçekçi_video",
-    "duration": "6.5sn",
-    "aspect_ratio": "9:16",
-    "frame_rate_feel": "24fps sinematik hareket",
-    "overall_intent": "İnce duygusal gelişime odaklanan samimi bir yakın plan portre..."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097257827320610816/img/Vy_FjRE941W1GhTp.jpg" width="600" alt="Sinematik Fotogerçekçi Portre Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10602)**
-
-**Author:** [幣気](https://x.com/meixieshi) | **Source:** [Link](https://x.com/meixieshi/status/2097257924506910746) | **Published:** Sep 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2186,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-21T04:40:33.824Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-21T15:15:43.240Z</sub>
 
 </div>
