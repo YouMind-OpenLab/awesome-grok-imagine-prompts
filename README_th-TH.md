@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2864** |
+| 📝 Total Prompts | **2870** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-22** |
 
@@ -189,6 +189,122 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### พรอมต์วิดีโอ Grok Imagine สำหรับแอนิเมชันการสแกนใบหน้า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่สั่งให้ Grok Imagine สร้างวิดีโอการสแกนใบหน้าพร้อมการหมุนศีรษะช้าๆ
+
+#### 📝 Prompt
+
+```
+ฉันต้องการวิดีโอที่จะบันทึกการสแกนใบหน้าของปี 2027 นี่คือโมเดลที่ฉันต้องการใช้ ทำให้การหมุนศีรษะเป็นไปอย่างช้าๆ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102297546135666688/img/wSDadpRJLCkglBad.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine สำหรับแอนิเมชันการสแกนใบหน้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11147)**
+
+**Author:** [Recta Alta](https://x.com/RectaAlta) | **Source:** [Link](https://x.com/RectaAlta/status/2102297582588293160) | **Published:** Sep 22, 2026
+
+---
+### การต่อเนื่องฉากรันเวย์สไตล์อนาคต
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างฉากรันเวย์ที่ลื่นไหลโดยเพิ่มนางแบบในชุดสไตล์อนาคต โดยเริ่มจากนางแบบชุดสีเหลือง
+
+#### 📝 Prompt
+
+```
+ฉากต่อเนื่องอย่างลื่นไหล เพิ่มนางแบบสวมใส่ชุดสไตล์อนาคตที่มีสีสันและรูปแบบหลากหลายสดใสบนรันเวย์ ต่อเนื่องฉากจากนางแบบชุดสีเหลือง -- [การปล่อยให้ A.I. ออกแบบเองเป็นวิธีที่สนุกสนานและเต็มไปด้วยความอยากรู้อยากเห็นในการตรวจสอบ] -ใช้ 480 ระหว่างฝึกฝน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102237614359130112/img/_I219QXj1uFZa3Li.jpg" width="600" alt="การต่อเนื่องฉากรันเวย์สไตล์อนาคต">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11151)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **Published:** Sep 22, 2026
+
+---
+### พรอมต์วิดีโอ Evil King Crown
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอด้วย Grok Imagine แสดงฉากตัวละครสวมมงกุฎและหัวเราะอย่างชั่วร้าย
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอที่เขาเริ่มยืนขึ้น จากนั้นมีมงกุฎลอยลงมาวางบนศีรษะของเขา เมื่อสวมมงกุฎเสร็จแล้ว เขาเงยหน้ามองท้องฟ้า แล้วหัวเราะออกมา เป็นเสียงหัวเราะที่ชั่วร้าย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102234504303906816/img/20BDPu1rsVx-PMfi.jpg" width="600" alt="พรอมต์วิดีโอ Evil King Crown">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11152)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2102234543369637989) | **Published:** Sep 22, 2026
+
+---
+### Grok โผล่หัวผ่านเมฆ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> สร้างวิดีโอของ Grok ขนาดมหึมาที่โผล่หัวออกมาจากกลุ่มเมฆพร้อมพูดว่า 'มาสำรวจจักรวาลด้วยกัน'
+
+#### 📝 Prompt
+
+```
+ให้สร้างวิดีโอของ Grok ขนาดมหึมาที่โผล่หัวออกมาจากกลุ่มเมฆและพูดว่า “ มาสำรวจจักรวาลด้วยกัน ”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102207230024056832/img/V80TUsoF_Xzz8Yrn.jpg" width="600" alt="Grok โผล่หัวผ่านเมฆ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11148)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
+
+---
+### พรอมต์วิดีโอการขี่มอเตอร์ไซค์แบบสมจริง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอสมจริงของหญิงสาวที่นั่งซ้อนท้ายมอเตอร์ไซค์ซึ่งขับโดย Sam Elliott
+
+#### 📝 Prompt
+
+```
+วิดีโอสมจริงของผู้หญิงคนนี้ (คุณยายสุดเท่ของฉัน) ที่นั่งซ้อนท้ายมอเตอร์ไซค์ โดยเกาะ Sam Elliott ซึ่งเป็นคนขับ และเขาสวมหมวกคาวบอย
+
+เธอชื่อ Bonnie และเธอน่าทึ่งมาก 😂🥰
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102197747587645441/img/f3QQ-WrQBSBVtWYI.jpg" width="600" alt="พรอมต์วิดีโอการขี่มอเตอร์ไซค์แบบสมจริง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11149)**
+
+**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2102197784711475281) | **Published:** Sep 22, 2026
+
+---
+### คำขอวิดีโอฉากชานบ้านยามเช้าพร้อมนกบลูเบิร์ด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำอธิบายสำหรับสร้างวิดีโอยามเช้าที่เงียบสงบ featuring ชานบ้าน กาแฟ นกบลูเบิร์ด และภูเขา
+
+#### 📝 Prompt
+
+```
+ราวบันไดไม้บนชานบ้าน ถ้วยกาแฟที่มีควันลอยขึ้นวางอยู่บนราว นกบลูเบิร์ดเกาะอยู่บนราวและสะบัดขน แสงอาทิตย์แรกแย้มทอแสงเหนือยอดเขา วัวเล็มหญ้าอยู่ในหุบเขา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102082756696260608/img/sOsoDiDcaJq-KX9p.jpg" width="600" alt="คำขอวิดีโอฉากชานบ้านยามเช้าพร้อมนกบลูเบิร์ด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11150)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102082820005068902) | **Published:** Sep 21, 2026
+
+---
 ### พรอมต์วิดีโอ Grok Imagine: ฉากมุมมองบุคคลที่หนึ่ง (POV) การหดตัว
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2011,120 +2127,6 @@ Margaret กำลังอุ้มลูกสาวตัวน้อยท�
 **Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **Published:** Sep 9, 2026
 
 ---
-### วิดีโอเล่าเรื่องแบบม้วนกระดาษ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งบรรยายสำหรับช่วงเวลาแห่งการเล่าเรื่องที่เต็มไปด้วยอารมณ์ ซึ่งคนสองคนมองหน้ากันหลังจากม้วนกระดาษเสร็จ
-
-#### 📝 Prompt
-
-```
-พวกเขาค่อย ๆ ม้วนกระดาษเก็บแล้วมองหน้ากัน เขาพูดขึ้นว่าคุณปลอดภัยแล้ว ฝ่ายหญิงตอบกลับว่าใช่ เราปลอดภัยแล้ว...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097518901235957760/img/M2Oq5hmCVr5svuLA.jpg" width="600" alt="วิดีโอเล่าเรื่องแบบม้วนกระดาษ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10592)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2097518929241325890) | **Published:** Sep 9, 2026
-
----
-### วิดีโอการปลูกถ่ายเพื่อการเติบโตทางชีวภาพแบบออร์แกนิก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอที่อธิบายถึงการปลูกถ่ายเพื่อการเติบโตทางชีวภาพแบบออร์แกนิกของมนุษย์ที่ขับเคลื่อนด้วย AI และสามารถซ่อมแซมตัวเองได้
-
-#### 📝 Prompt
-
-```
-การปลูกถ่ายเพื่อการเติบโตทางชีวภาพแบบออร์แกนิกของมนุษย์เต็มรูปแบบที่ขับเคลื่อนด้วย AI ซึ่งสามารถเติบโตและซ่อมแซมตัวเองได้ตลอดช่วงชีวิตของบุคคลนั้น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097497321827385344/img/1dL2mQTTXCU5J5xA.jpg" width="600" alt="วิดีโอการปลูกถ่ายเพื่อการเติบโตทางชีวภาพแบบออร์แกนิก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10612)**
-
-**Author:** [.](https://x.com/JoshuaCalkslmo) | **Source:** [Link](https://x.com/JoshuaCalkslmo/status/2097497409186373943) | **Published:** Sep 9, 2026
-
----
-### สถานการณ์บทสนทนาแบบภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างวิดีโอแบบบทสนทนาที่แสดงภาพการพูดคุยระหว่างผู้ชายกับเด็กผู้หญิงที่ถามเรื่องเวลา
-
-#### 📝 Prompt
-
-```
-ผู้ชายพูดว่า เฮ้ Julianne คุณรู้ไหมว่าตอนนี้กี่โมงแล้ว และเด็กผู้หญิงตอบว่า ขอโทษทีฉันไม่รู้ ฉันไม่มีนาฬิกา อ๋อ เธอมีสิ แค่เธอไม่ได้เอามันมาด้วยต่างหาก
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097453576700256256/img/ZjCZ_2Pbxo6kJ3YO.jpg" width="600" alt="สถานการณ์บทสนทนาแบบภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10609)**
-
-**Author:** [Jose Rodriguez](https://x.com/JoseRodrigg1yr) | **Source:** [Link](https://x.com/JoseRodrigg1yr/status/2097453593473192328) | **Published:** Sep 8, 2026
-
----
-### ภารกิจกู้ภัยยานอวกาศกลางมหาสมุทร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวไซไฟระดับภาพยนตร์ แสดงภาพการปฏิบัติการของเรือที่ออกไปกู้ภัยยานอวกาศซึ่งลอยอยู่กลางมหาสมุทร
-
-#### 📝 Prompt
-
-```
-ยานอวกาศลำหนึ่งลอยเคว้งอยู่กลางมหาสมุทร และพวกเขาได้นำเรือออกไปเพื่อทำการช่วยเหลือ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097441838148026368/img/UiZkNAwtyjuhr87a.jpg" width="600" alt="ภารกิจกู้ภัยยานอวกาศกลางมหาสมุทร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10611)**
-
-**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2097441871765115123) | **Published:** Sep 8, 2026
-
----
-### โอดิสซูสกับไซคลอปส์ในตำนานเทพปกรณัมกรีก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> เนื้อหาบรรยายเชิงดราม่าที่ถ่ายทอดเรื่องราวการเผชิญหน้าอันเป็นตำนานระหว่างโอดิสซูสและโพลีฟีมัส ไซคลอปส์ผู้ดุร้ายในยุคกรีกโบราณ
-
-#### 📝 Prompt
-
-```
-โอดิสซูสเกาะติดอยู่ใต้ท้องแกะตัวผู้ในขณะที่โพลีฟีมัสคำรามลั่นและคลำหาไปทั่วถ้ำ เลือดไหลนองจากดวงตาที่ถูกทำลาย มืออันมหึมาของยักษ์ปัดป่ายไปในอากาศ พลาดเป้าไปเพียงไม่กี่นิ้ว ด้านนอก ฝูงแกะต่างพากันวิ่งกรูออกไปสู่แสงยามรุ่งอรุณ ไซคลอปส์ผู้ตาบอดและเต็มไปด้วยความโกรธแค้น...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097440899584122880/img/Yl6mEDKLOSKsOjdJ.jpg" width="600" alt="โอดิสซูสกับไซคลอปส์ในตำนานเทพปกรณัมกรีก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10610)**
-
-**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2097440928940109945) | **Published:** Sep 8, 2026
-
----
-### หุ่นยนต์ขี่ Ducati ออกจากโชว์รูม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่แสดงหุ่นยนต์เหล็กกำลังขึ้นขี่รถ Ducati และขับออกจากโชว์รูมพร้อมประโยคเด็ดเฉพาะตัว
-
-#### 📝 Prompt
-
-```
-หุ่นยนต์ Expeng IRON ขึ้นขี่รถ DUcati คันนี้ แล้วขับออกทางประตูหน้าของโชว์รูมพร้อมพูดว่า - SEE YOU ALL LATER
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097436820548284416/img/i10zK_1kVGx_3xE_.jpg" width="600" alt="หุ่นยนต์ขี่ Ducati ออกจากโชว์รูม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10683)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **Published:** Sep 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2186,6 +2188,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-22T04:35:36.766Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-22T13:32:29.344Z</sub>
 
 </div>

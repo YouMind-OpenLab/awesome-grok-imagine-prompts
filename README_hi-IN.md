@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2864** |
+| 📝 Total Prompts | **2870** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-22** |
 
@@ -189,6 +189,122 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine वीडियो प्रॉम्प्ट फेस स्कैन एनिमेशन के लिए
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक प्रॉम्प्ट जो Grok Imagine को धीमी सिर घुमाव के साथ फेस स्कैन का वीडियो बनाने का निर्देश देता है।
+
+#### 📝 Prompt
+
+```
+मुझे एक ऐसा वीडियो चाहिए जो मेरे 2k27 फेस स्कैन को रजिस्टर करे। यहाँ वह मॉडल है जिसके साथ मैं जाना चाहता हूँ, कृपया सिर के घुमाव को धीमा रखें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102297546135666688/img/wSDadpRJLCkglBad.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट फेस स्कैन एनिमेशन के लिए">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11147)**
+
+**Author:** [Recta Alta](https://x.com/RectaAlta) | **Source:** [Link](https://x.com/RectaAlta/status/2102297582588293160) | **Published:** Sep 22, 2026
+
+---
+### भविष्यवादी रनवे दृश्य का अगला भाग
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विशेष पीले रंग के मॉडल से शुरू करते हुए, भविष्यवादी वस्त्रों में मॉडल जोड़कर एक निर्बाध रनवे दृश्य को जारी रखने के लिए प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+निर्बाद दृश्य जारी रहता है, रनवे पर चमकीले रंगों और शैलियों में भविष्यवादी वस्त्र पहने मॉडल जोड़ें, पीले रंग के मॉडल से दृश्य जारी रखें -- [मेरे A.I. को अपने आप डिज़ाइन करने देना एक खेलपूर्ण और जिज्ञासु तरीका है जाँचने का] - अभ्यास करते समय 480 का उपयोग करें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102237614359130112/img/_I219QXj1uFZa3Li.jpg" width="600" alt="भविष्यवादी रनवे दृश्य का अगला भाग">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11151)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **Published:** Sep 22, 2026
+
+---
+### Evil King Crown Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine depicting a character receiving a crown and laughing evilly.
+
+#### 📝 Prompt
+
+```
+Make a video of him standing. The crown descends and it’s placed on his head. Once the crown is placed on his head. He looks at the sky, and laughs. An evil laugh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102234504303906816/img/20BDPu1rsVx-PMfi.jpg" width="600" alt="Evil King Crown Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11152)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2102234543369637989) | **Published:** Sep 22, 2026
+
+---
+### बादलों से बाहर निकलता हुआ Grok
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विशाल Grok का वीडियो बनाता है जो बादलों के बीच से अपना सिर बाहर निकाल रहा है और कह रहा है 'आइए ब्रह्मांड को साथ में खोजें'।
+
+#### 📝 Prompt
+
+```
+आइए एक विशाल Grok को बादलों के बीच से अपना सिर बाहर निकालते हुए दिखाएं और वह कहे, 'आइए ब्रह्मांड को साथ में खोजें'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102207230024056832/img/V80TUsoF_Xzz8Yrn.jpg" width="600" alt="बादलों से बाहर निकलता हुआ Grok">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11148)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
+
+---
+### फोटोरियलिस्टिक मोटरसाइकिल राइड वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> सैम एलियट द्वारा चलाई जा रही मोटरसाइकिल की पीछे बैठकर यात्रा कर रही एक महिला का फोटोरियलिस्टिक वीडियो बनाने के लिए प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+इस महिला (मेरी शानदार स्टेप ग्रैंडमा) का फोटोरियलिस्टिक वीडियो, जो सैम एलियट द्वारा चलाई जा रही मोटरसाइकिल की पीछे बैठी है और उसने कौबॉय टोपी पहनी हुई है।
+
+उनका नाम बोनी है और वे अद्भुत हैं 😂🥰
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102197747587645441/img/f3QQ-WrQBSBVtWYI.jpg" width="600" alt="फोटोरियलिस्टिक मोटरसाइकिल राइड वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11149)**
+
+**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2102197784711475281) | **Published:** Sep 22, 2026
+
+---
+### नीली चिड़िया के साथ सुबह की बरामदे का दृश्य वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक शांत सुबह के वीडियो को जनरेट करने के लिए एक विस्तृत प्रॉम्प्ट जिसमें बरामदा, कॉफी, नीली चिड़िया और पहाड़ शामिल हैं।
+
+#### 📝 Prompt
+
+```
+बरामदे पर लकड़ी की रेलिंग, रेलिंग पर धुआं उती हुई कॉफी कप, रेलिंग पर बैठी नीली चिड़िया अपने पंखों को फुला रही है, सूर्योदय पहाड़ों से होकर निकल रहा है, घाटी में पशु चर रहे हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102082756696260608/img/sOsoDiDcaJq-KX9p.jpg" width="600" alt="नीली चिड़िया के साथ सुबह की बरामदे का दृश्य वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11150)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102082820005068902) | **Published:** Sep 21, 2026
+
+---
 ### Grok Imagine Video Prompt: POV Shrinking Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2011,120 +2127,6 @@ Marty McFly का एक वीडियो, जिसमें वह टा�
 **Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **Published:** Sep 9, 2026
 
 ---
-### स्क्रॉल रोल अप नैरेटिव वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक भावनात्मक नैरेटिव पल के लिए वर्णनात्मक प्रॉम्प्ट, जहाँ दो व्यक्ति स्क्रॉल लपेटने के बाद एक-दूसरे की ओर देखते हैं।
-
-#### 📝 Prompt
-
-```
-वे स्क्रॉल लपेटते हैं और एक-दूसरे की ओर देखते हैं, वह कहता है तुम सुरक्षित हो, महिला कहती है हाँ हम सुरक्षित हैं....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097518901235957760/img/M2Oq5hmCVr5svuLA.jpg" width="600" alt="स्क्रॉल रोल अप नैरेटिव वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10592)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2097518929241325890) | **Published:** Sep 9, 2026
-
----
-### बायो-ऑर्गेनिक ग्रोथ इम्प्लांट वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जनरेशन प्रॉम्प्ट जो सेल्फ-हीलिंग AI बायो-ऑर्गेनिक ह्यूमन ग्रोथ इम्प्लांट का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-AI बायो-ऑर्गेनिक फुल बॉडी ह्यूमन ग्रोथ इम्प्लांट जो जीवन भर विकसित होता है और खुद को ठीक करता है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097497321827385344/img/1dL2mQTTXCU5J5xA.jpg" width="600" alt="बायो-ऑर्गेनिक ग्रोथ इम्प्लांट वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10612)**
-
-**Author:** [.](https://x.com/JoshuaCalkslmo) | **Source:** [Link](https://x.com/JoshuaCalkslmo/status/2097497409186373943) | **Published:** Sep 9, 2026
-
----
-### सिनेमैटिक कन्वर्सेशन सिनेरियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक संवादात्मक वीडियो जनरेशन प्रॉम्प्ट, जिसमें एक पुरुष और एक लड़की के बीच समय पूछने को लेकर हुई बातचीत को दर्शाया गया है।
-
-#### 📝 Prompt
-
-```
-पुरुष कहता है, 'हे Julianne, क्या तुम्हें पता है कि समय क्या हुआ है?' और लड़की कहती है, 'माफ़ करना, मुझे नहीं पता। मेरे पास घड़ी नहीं है।' 'अरे हाँ, तुम्हारे पास है। तुम बस उसे साथ नहीं लाई हो।'
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097453576700256256/img/ZjCZ_2Pbxo6kJ3YO.jpg" width="600" alt="सिनेमैटिक कन्वर्सेशन सिनेरियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10609)**
-
-**Author:** [Jose Rodriguez](https://x.com/JoseRodrigg1yr) | **Source:** [Link](https://x.com/JoseRodrigg1yr/status/2097453593473192328) | **Published:** Sep 8, 2026
-
----
-### Starship Ocean Rescue Rescue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई साइंस फिक्शन वीडियो प्रॉम्प्ट, जिसमें समुद्र में तैरते हुए एक स्टारशिप को बचाने के लिए जहाज के संचालन को दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-स्टारशिप समुद्र में तैर रहा था और उन्होंने उसे बचाने के लिए एक जहाज भेजा।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097441838148026368/img/UiZkNAwtyjuhr87a.jpg" width="600" alt="Starship Ocean Rescue Rescue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10611)**
-
-**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2097441871765115123) | **Published:** Sep 8, 2026
-
----
-### ओडिसियस और साइक्लोप्स की यूनानी पौराणिक कथा
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ओडिसियस और साइक्लोप्स पॉलीफेमस के बीच हुई प्रसिद्ध प्राचीन यूनानी मुठभेड़ का एक जीवंत और नाटकीय विवरण।
-
-#### 📝 Prompt
-
-```
-ओडिसियस मेढ़े के नीचे चिपका हुआ था, जबकि पॉलीफेमस गुफा में दहाड़ते हुए और टटोलते हुए आगे बढ़ रहा था, उसकी नष्ट हो चुकी आँख से खून बह रहा था। दानव के हाथ हवा में इधर-उधर घूम रहे थे, और वे बस कुछ इंच से ओडिसियस को छूने से चूक गए। बाहर, भेड़ों का झुंड सुबह की रोशनी में निकल पड़ा। अंधा और गुस्से से भरा, साइक्लोप्स...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097440899584122880/img/Yl6mEDKLOSKsOjdJ.jpg" width="600" alt="ओडिसियस और साइक्लोप्स की यूनानी पौराणिक कथा">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10610)**
-
-**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2097440928940109945) | **Published:** Sep 8, 2026
-
----
-### Ducati शोरूम से बाहर निकलता रोबोट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जिसमें एक लोहे का रोबोट Ducati पर सवार होकर एक खास कैचफ्रेज़ के साथ शोरूम से बाहर निकलता है।
-
-#### 📝 Prompt
-
-```
-Expeng IRON रोबोट, इस DUcati पर सवार होता है और शोरूम के मुख्य दरवाजे से बाहर निकलते हुए कहता है - SEE YOU ALL LATER
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097436820548284416/img/i10zK_1kVGx_3xE_.jpg" width="600" alt="Ducati शोरूम से बाहर निकलता रोबोट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10683)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **Published:** Sep 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2186,6 +2188,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-22T04:35:39.168Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-22T13:32:30.963Z</sub>
 
 </div>

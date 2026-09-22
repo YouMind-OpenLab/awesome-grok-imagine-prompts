@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2864** |
+| 📝 총 프롬프트 수 | **2870** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-09-22** |
 
@@ -189,6 +189,122 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Grok Imagine 얼굴 스캔 애니메이션용 비디오 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 느린 머리 회전 동작이 포함된 얼굴 스캔 영상을 생성하도록 Grok Imagine에 지시하는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+2027년형 얼굴 스캔을 등록할 수 있는 영상이 필요합니다. 사용할 모델은 다음과 같으며, 머리 회전 속도는 느리게 해주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102297546135666688/img/wSDadpRJLCkglBad.jpg" width="600" alt="Grok Imagine 얼굴 스캔 애니메이션용 비디오 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11147)**
+
+**작성자:** [Recta Alta](https://x.com/RectaAlta) | **출처:** [Link](https://x.com/RectaAlta/status/2102297582588293160) | **게시일:** Sep 22, 2026
+
+---
+### 미래적인 런웨이 장면 이어가기
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 특정 옐로우 모델부터 시작하여 미래적인 의상을 입은 모델을 추가해 매끄러운 런웨이 장면을 이어가는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+매끄러운 장면이 이어지도록, 다양한 색상과 스타일의 미래적인 의상을 입은 모델을 런웨이에 추가하세요. 옐로우 모델부터 장면을 이어서 생성합니다 -- [A.I.가 스스로 디자인하도록 맡기는 것은 호기심 가득한 재미있는 테스트 방법입니다] - 연습할 때는 480을 사용하세요
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102237614359130112/img/_I219QXj1uFZa3Li.jpg" width="600" alt="미래적인 런웨이 장면 이어가기">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11151)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **게시일:** Sep 22, 2026
+
+---
+### Evil King Crown Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine depicting a character receiving a crown and laughing evilly.
+
+#### 📝 프롬프트
+
+```
+Make a video of him standing. The crown descends and it’s placed on his head. Once the crown is placed on his head. He looks at the sky, and laughs. An evil laugh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102234504303906816/img/20BDPu1rsVx-PMfi.jpg" width="600" alt="Evil King Crown Video Prompt">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11152)**
+
+**작성자:** [GayBar](https://x.com/GayBar_Ai) | **출처:** [Link](https://x.com/GayBar_Ai/status/2102234543369637989) | **게시일:** Sep 22, 2026
+
+---
+### 구름 사이로 고개를 내민 Grok
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 거대한 Grok가 구름 사이로 고개를 내밀며 '함께 우주를 탐험하자'고 말하는 영상을 제작합니다.
+
+#### 📝 프롬프트
+
+```
+거대한 Grok가 구름 사이로 고개를 내밀어 “함께 우주를 탐험하자”라고 말하도록 해보자
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102207230024056832/img/V80TUsoF_Xzz8Yrn.jpg" width="600" alt="구름 사이로 고개를 내민 Grok">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11148)**
+
+**작성자:** [Mark Tatum](https://x.com/Mark561256) | **출처:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **게시일:** Sep 22, 2026
+
+---
+### 사실적인 오토바이 주행 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 샘 엘리엇이 운전하는 오토바이 뒷좌석에 탄 여성의 사실적인 영상을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+샘 엘리엇(Sam Elliott)이 모는 오토바이 뒷좌석에 앉아 그를 꼭 붙잡고 있는 이 여성(제 멋진 할머니)의 사실적인 영상. 그는 카우보이 모자를 쓰고 있습니다.
+
+할머니 이름은 보니(Bonnie)이고, 정말 대단하세요 😂🥰
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102197747587645441/img/f3QQ-WrQBSBVtWYI.jpg" width="600" alt="사실적인 오토바이 주행 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11149)**
+
+**작성자:** [Carry Robey](https://x.com/carry_robey) | **출처:** [Link](https://x.com/carry_robey/status/2102197784711475281) | **게시일:** Sep 22, 2026
+
+---
+### 푸른 새가 있는 아침 베란다 장면 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 베란다, 커피, 푸른 새, 산이 어우러진 고요한 아침 영상을 생성하기 위한 설명형 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+나무 난간이 있는 베란다, 난간에 놓인 김이 모락모락 나는 커피 잔, 난간에 앉아 깃털을 다듬는 푸른 새, 산 너머로 떠오르는 일출, 계곡에서 풀을 뜯는 소들
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102082756696260608/img/sOsoDiDcaJq-KX9p.jpg" width="600" alt="푸른 새가 있는 아침 베란다 장면 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11150)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2102082820005068902) | **게시일:** Sep 21, 2026
+
+---
 ### Grok Imagine Video Prompt: POV 축소 장면
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2010,120 +2126,6 @@ Negative: 텍스트 없음, 로고 없음, 워터마크 없음
 **작성자:** [Margaret Ford](https://x.com/Margaretfit08) | **출처:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **게시일:** Sep 9, 2026
 
 ---
-### 스크롤을 말아 올리는 서사적 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 두 사람이 스크롤을 말아 올린 뒤 서로를 바라보는 감정적인 서사 순간을 위한 묘사형 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그들은 스크롤을 말아 올리고 서로를 바라봅니다. 남자가 당신은 안전하다고 말하자, 여자는 네, 우리는 안전해요라고 대답합니다....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097518901235957760/img/M2Oq5hmCVr5svuLA.jpg" width="600" alt="스크롤을 말아 올리는 서사적 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10592)**
-
-**작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2097518929241325890) | **게시일:** Sep 9, 2026
-
----
-### 바이오 유기체 성장 임플란트 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 자가 치유형 AI 바이오 유기체 인체 성장 임플란트를 묘사하는 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-평생 동안 스스로 성장하고 치유되는 AI 바이오 유기체 전신 인체 성장 임플란트
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097497321827385344/img/1dL2mQTTXCU5J5xA.jpg" width="600" alt="바이오 유기체 성장 임플란트 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10612)**
-
-**작성자:** [.](https://x.com/JoshuaCalkslmo) | **출처:** [Link](https://x.com/JoshuaCalkslmo/status/2097497409186373943) | **게시일:** Sep 9, 2026
-
----
-### 영화 같은 대화 시나리오
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 남자와 소녀가 시간을 묻는 대화를 나누는 모습을 담은 대화형 비디오 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-남자가 "안녕 Julianne, 지금 몇 시인지 알아?"라고 묻자, 소녀가 "미안, 잘 모르겠어. 난 시계를 안 가지고 있거든."이라고 답합니다. 그러자 남자가 "아니, 가지고 있잖아. 그냥 안 가져온 거지."라고 말합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097453576700256256/img/ZjCZ_2Pbxo6kJ3YO.jpg" width="600" alt="영화 같은 대화 시나리오">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10609)**
-
-**작성자:** [Jose Rodriguez](https://x.com/JoseRodrigg1yr) | **출처:** [Link](https://x.com/JoseRodrigg1yr/status/2097453593473192328) | **게시일:** Sep 8, 2026
-
----
-### 스타쉽 오션 레스큐 (Starship Ocean Rescue)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 바다에 떠 있는 우주선을 구조하는 함선 운영 모습을 담은 영화 같은 SF 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-우주선이 바다에 떠 있었고, 그들은 그것을 구조하기 위해 함선을 타고 출동했습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097441838148026368/img/UiZkNAwtyjuhr87a.jpg" width="600" alt="스타쉽 오션 레스큐 (Starship Ocean Rescue)">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10611)**
-
-**작성자:** [loving X@ Cheryl](https://x.com/Corr1444) | **출처:** [Link](https://x.com/Corr1444/status/2097441871765115123) | **게시일:** Sep 8, 2026
-
----
-### 오디세우스와 키클롭스 그리스 신화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 오디세우스와 키클롭스 폴리페모스 사이의 전설적인 고대 그리스 대결을 묘사한 생생하고 극적인 서사 텍스트입니다.
-
-#### 📝 프롬프트
-
-```
-폴리페모스가 망가진 눈에서 피를 흘리며 동굴 안을 더듬고 포효하는 동안, 오디세우스는 숫양의 배 밑에 매달려 있었다. 거인의 손이 허공을 휩쓸었지만 아슬아슬하게 빗나갔다. 밖에서는 양 떼가 새벽녘으로 쏟아져 나왔다. 눈이 멀어 분노에 찬 키클롭스는...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097440899584122880/img/Yl6mEDKLOSKsOjdJ.jpg" width="600" alt="오디세우스와 키클롭스 그리스 신화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10610)**
-
-**작성자:** [loving X@ Cheryl](https://x.com/Corr1444) | **출처:** [Link](https://x.com/Corr1444/status/2097440928940109945) | **게시일:** Sep 8, 2026
-
----
-### 두카티 쇼룸을 빠져나가는 로봇
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 철제 로봇이 두카티에 올라타 특정 대사를 하며 쇼룸을 빠져나가는 모습을 담은 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Expeng IRON 로봇이 이 DUcati에 올라타 쇼룸 정문을 빠져나가며 'SEE YOU ALL LATER'라고 말한다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097436820548284416/img/i10zK_1kVGx_3xE_.jpg" width="600" alt="두카티 쇼룸을 빠져나가는 로봇">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10683)**
-
-**작성자:** [Robin Murray](https://x.com/RobinMurrat43a) | **출처:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **게시일:** Sep 8, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2185,6 +2187,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-22T04:35:35.760Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-22T13:32:28.463Z</sub>
 
 </div>

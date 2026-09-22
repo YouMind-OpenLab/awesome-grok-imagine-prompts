@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2864** |
+| 📝 Total Prompts | **2870** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-22** |
 
@@ -189,6 +189,122 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt vidéo Grok Imagine pour animation de scan facial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt demandant à Grok Imagine de générer une vidéo d'un scan facial avec des rotations lentes de la tête.
+
+#### 📝 Prompt
+
+```
+J'ai besoin d'une vidéo qui enregistrerait mon scan facial 2k27. Voici le modèle que je souhaite utiliser : faites tourner la tête lentement.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102297546135666688/img/wSDadpRJLCkglBad.jpg" width="600" alt="Prompt vidéo Grok Imagine pour animation de scan facial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11147)**
+
+**Author:** [Recta Alta](https://x.com/RectaAlta) | **Source:** [Link](https://x.com/RectaAlta/status/2102297582588293160) | **Published:** Sep 22, 2026
+
+---
+### Continuation de scène futuriste sur le podium
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite pour prolonger une scène de défilé fluide en ajoutant des mannequins vêtus d'attires futuristes, à partir d'un modèle jaune spécifique.
+
+#### 📝 Prompt
+
+```
+la scène fluide se poursuit, ajoutez des mannequins portant des tenues futuristes dans des couleurs et styles variés et éclatants sur le podium, continuez la scène à partir du modèle jaune -- [laisser mon IA concevoir par elle-même est une approche ludique et curieuse pour tester] - utilisez 480 pendant l'entraînement
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102237614359130112/img/_I219QXj1uFZa3Li.jpg" width="600" alt="Continuation de scène futuriste sur le podium">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11151)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **Published:** Sep 22, 2026
+
+---
+### Prompt vidéo : Couronne du Roi Maléfique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo pour Grok Imagine décrivant un personnage recevant une couronne et riant de manière maléfique.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo où il se tient debout. La couronne descend et est posée sur sa tête. Une fois la couronne en place, il lève les yeux vers le ciel et éclate d'un rire maléfique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102234504303906816/img/20BDPu1rsVx-PMfi.jpg" width="600" alt="Prompt vidéo : Couronne du Roi Maléfique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11152)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2102234543369637989) | **Published:** Sep 22, 2026
+
+---
+### Grok émergeant des nuages
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Crée une vidéo d'un immense Grok faisant émerger sa tête des nuages en disant « Découvrons l'univers ensemble ».
+
+#### 📝 Prompt
+
+```
+Faisons émerger la tête d'un immense Grok des nuages et qu'il dise « Découvrons l'univers ensemble »
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102207230024056832/img/V80TUsoF_Xzz8Yrn.jpg" width="600" alt="Grok émergeant des nuages">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11148)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
+
+---
+### Prompt vidéo moto photoréaliste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo photoréaliste d'une femme assise à l'arrière d'une moto conduite par Sam Elliott.
+
+#### 📝 Prompt
+
+```
+Vidéo photoréaliste de cette femme (ma grand-mère badass) assise à l'arrière d'une moto, accrochée à Sam Elliott qui conduit et porte un chapeau de cowboy. 
+
+Elle s'appelle Bonnie et elle est incroyable 😂🥰
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102197747587645441/img/f3QQ-WrQBSBVtWYI.jpg" width="600" alt="Prompt vidéo moto photoréaliste">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11149)**
+
+**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2102197784711475281) | **Published:** Sep 22, 2026
+
+---
+### Prompt vidéo : Scène matinale sur le porche avec un merle bleu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt descriptif pour générer une vidéo matinale sereine mettant en scène un porche, du café, un merle bleu et des montagnes.
+
+#### 📝 Prompt
+
+```
+Rambarde en bois sur un porche, tasse de café fumante posée sur la rambarde, merle bleu perché sur la rambarde qui lisse ses plumes, lever de soleil sur les montagnes, bétail paissant dans la vallée
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102082756696260608/img/sOsoDiDcaJq-KX9p.jpg" width="600" alt="Prompt vidéo : Scène matinale sur le porche avec un merle bleu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11150)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102082820005068902) | **Published:** Sep 21, 2026
+
+---
 ### Prompt vidéo Grok Imagine : Scène de rétrécissement en POV
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2011,120 +2127,6 @@ Margaret tenant sa petite fille avec un joli nœud dans les cheveux. Elle chante
 **Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **Published:** Sep 9, 2026
 
 ---
-### Vidéo narrative : le déroulé des parchemins
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descriptif pour un moment narratif riche en émotions où deux individus se regardent après avoir enroulé des parchemins.
-
-#### 📝 Prompt
-
-```
-Ils enroulent les parchemins, se regardent, et il lui dit : « Tu es en sécurité ». La femme répond : « Oui, nous le sommes... »
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097518901235957760/img/M2Oq5hmCVr5svuLA.jpg" width="600" alt="Vidéo narrative : le déroulé des parchemins">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10592)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2097518929241325890) | **Published:** Sep 9, 2026
-
----
-### Vidéo d'implant de croissance bio-organique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo décrivant un implant de croissance bio-organique humain doté d'une IA auto-cicatrisante.
-
-#### 📝 Prompt
-
-```
-Implant de croissance humaine bio-organique complet piloté par IA, capable de croître et de s'auto-cicatriser tout au long de la vie
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097497321827385344/img/1dL2mQTTXCU5J5xA.jpg" width="600" alt="Vidéo d'implant de croissance bio-organique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10612)**
-
-**Author:** [.](https://x.com/JoshuaCalkslmo) | **Source:** [Link](https://x.com/JoshuaCalkslmo/status/2097497409186373943) | **Published:** Sep 9, 2026
-
----
-### Scénario de conversation cinématographique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo conversationnelle illustrant un dialogue entre un homme et une jeune fille demandant l'heure.
-
-#### 📝 Prompt
-
-```
-L'homme dit : « Hé Julianne, sais-tu quelle heure il est ? » et la jeune fille répond : « Désolée, je ne sais pas. Je n'ai pas de montre. » « Oh que si. Tu ne l'as juste pas apportée. »
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097453576700256256/img/ZjCZ_2Pbxo6kJ3YO.jpg" width="600" alt="Scénario de conversation cinématographique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10609)**
-
-**Author:** [Jose Rodriguez](https://x.com/JoseRodrigg1yr) | **Source:** [Link](https://x.com/JoseRodrigg1yr/status/2097453593473192328) | **Published:** Sep 8, 2026
-
----
-### Sauvetage du vaisseau spatial en mer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo de science-fiction cinématographique montrant les opérations d'un navire secourant un vaisseau spatial flottant sur l'océan.
-
-#### 📝 Prompt
-
-```
-Le vaisseau spatial flottait sur l'océan et ils sont partis en mer à bord d'un navire pour le secourir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097441838148026368/img/UiZkNAwtyjuhr87a.jpg" width="600" alt="Sauvetage du vaisseau spatial en mer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10611)**
-
-**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2097441871765115123) | **Published:** Sep 8, 2026
-
----
-### Ulysse et le Cyclope dans la mythologie grecque
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un récit dramatique et vivant décrivant la légendaire confrontation de la Grèce antique entre Ulysse et le cyclope Polyphème.
-
-#### 📝 Prompt
-
-```
-Ulysse s'agrippait au ventre du bélier tandis que Polyphème rugissait et tâtonnait dans la grotte, le sang coulant de son œil crevé. Les mains du géant balayaient l'air, manquant sa cible de quelques centimètres. Dehors, le troupeau se déversait dans l'aube. Aveugle et furieux, le Cyclope...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097440899584122880/img/Yl6mEDKLOSKsOjdJ.jpg" width="600" alt="Ulysse et le Cyclope dans la mythologie grecque">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10610)**
-
-**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2097440928940109945) | **Published:** Sep 8, 2026
-
----
-### Robot chevauchant une Ducati à la sortie d'un showroom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo mettant en scène un robot de fer montant sur une Ducati et sortant d'un showroom avec une phrase d'accroche spécifique.
-
-#### 📝 Prompt
-
-```
-Robot IRON de chez Expeng, monte sur cette DUcati et sort par la porte principale du showroom en disant - À PLUS TARD TOUT LE MONDE
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097436820548284416/img/i10zK_1kVGx_3xE_.jpg" width="600" alt="Robot chevauchant une Ducati à la sortie d'un showroom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10683)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **Published:** Sep 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2186,6 +2188,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-22T04:35:43.737Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-22T13:32:34.984Z</sub>
 
 </div>

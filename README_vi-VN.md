@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2864** |
+| 📝 Total Prompts | **2870** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-22** |
 
@@ -189,6 +189,122 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Gợi ý hình ảnh Grok cho hoạt ảnh quét khuôn mặt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý hướng dẫn Grok Imagine tạo video với hiệu ứng quét khuôn mặt và chuyển động đầu chậm rãi.
+
+#### 📝 Prompt
+
+```
+Tôi cần một video để ghi lại quá trình quét khuôn mặt của mình. Đây là mô hình mà tôi muốn sử dụng, hãy làm cho các chuyển động quay đầu diễn ra thật chậm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102297546135666688/img/wSDadpRJLCkglBad.jpg" width="600" alt="Gợi ý hình ảnh Grok cho hoạt ảnh quét khuôn mặt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11147)**
+
+**Author:** [Recta Alta](https://x.com/RectaAlta) | **Source:** [Link](https://x.com/RectaAlta/status/2102297582588293160) | **Published:** Sep 22, 2026
+
+---
+### Tiếp nối cảnh runway tương lai
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt để tiếp tục một cảnh runway liền mạch bằng cách thêm các người mẫu trong trang phục tương lai, bắt đầu từ một người mẫu màu vàng cụ thể.
+
+#### 📝 Prompt
+
+```
+cảnh liền mạch tiếp tục, thêm các người mẫu mặc trang phục tương lai với nhiều màu sắc và phong cách rực rỡ vào runway, tiếp tục cảnh từ người mẫu màu vàng -- [để A.I. của tôi tự thiết kế là một cách vui vẻ & tò mò để kiểm tra] - sử dụng 480 khi thực hành
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102237614359130112/img/_I219QXj1uFZa3Li.jpg" width="600" alt="Tiếp nối cảnh runway tương lai">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11151)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **Published:** Sep 22, 2026
+
+---
+### Prompt Video Evil King Crown
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video cho Grok Imagine mô tả một nhân vật nhận vương miện và cười ác độc.
+
+#### 📝 Prompt
+
+```
+Tạo video cảnh anh ấy đứng dậy. Vương miện hạ xuống và được đặt lên đầu anh ấy. Sau khi vương miện đã nằm trên đầu, anh ấy ngước nhìn bầu trời và bật cười. Một tiếng cười đầy tà ác.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102234504303906816/img/20BDPu1rsVx-PMfi.jpg" width="600" alt="Prompt Video Evil King Crown">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11152)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2102234543369637989) | **Published:** Sep 22, 2026
+
+---
+### Grok Thò Đầu Qua Đám Mây
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo video Grok khổng lồ thò đầu qua những đám mây và nói 'cùng nhau khám phá vũ trụ'.
+
+#### 📝 Prompt
+
+```
+Hãy tạo một Grok khổng lồ thò đầu qua những đám mây và nói “cùng nhau khám phá vũ trụ”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102207230024056832/img/V80TUsoF_Xzz8Yrn.jpg" width="600" alt="Grok Thò Đầu Qua Đám Mây">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11148)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
+
+---
+### Prompt Video Chạy Xe Máy Chân Thực Như Ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt để tạo video chân thực như ảnh về một phụ nữ ngồi sau xe máy do Sam Elliott lái.
+
+#### 📝 Prompt
+
+```
+Video chân thực như ảnh của người phụ nữ này (bà nội ghê gớm của tôi) ngồi sau xe máy, bám chặt vào Sam Elliott - người đang cầm lái và đội mũ cao bồi.
+
+Tên bà ấy là Bonnie và bà ấy thật tuyệt vời 😂🥰
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102197747587645441/img/f3QQ-WrQBSBVtWYI.jpg" width="600" alt="Prompt Video Chạy Xe Máy Chân Thực Như Ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11149)**
+
+**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2102197784711475281) | **Published:** Sep 22, 2026
+
+---
+### Mô tả video cảnh hiên nhà buổi sáng với chim xanh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt mô tả để tạo ra một video buổi sáng yên bình với hiên nhà, cà phê, chim xanh và núi non.
+
+#### 📝 Prompt
+
+```
+lan can gỗ trên hiên nhà tách cà phê bốc khói đặt trên lan can chim xanh đậu trên lan can xù lông bình minh ló dạng sau dãy núi đàn gia súc gặm cỏ trong thung lũng
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102082756696260608/img/sOsoDiDcaJq-KX9p.jpg" width="600" alt="Mô tả video cảnh hiên nhà buổi sáng với chim xanh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11150)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102082820005068902) | **Published:** Sep 21, 2026
+
+---
 ### Grok Imagine Video Prompt: Cảnh Thu Nhỏ Theo Góc Nhìn Thứ Nhất
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2011,120 +2127,6 @@ Margaret đang bế con gái nhỏ với chiếc nơ xinh xắn trên tóc. Cô 
 **Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **Published:** Sep 9, 2026
 
 ---
-### Video tường thuật cảnh cuộn giấy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý mô tả cho khoảnh khắc tự sự đầy cảm xúc khi hai nhân vật nhìn nhau sau khi cuộn các cuộn giấy lại.
-
-#### 📝 Prompt
-
-```
-Họ cuộn các cuộn giấy lại rồi nhìn nhau, anh ấy nói rằng em đã an toàn, người phụ nữ đáp lại rằng vâng, chúng ta an toàn rồi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097518901235957760/img/M2Oq5hmCVr5svuLA.jpg" width="600" alt="Video tường thuật cảnh cuộn giấy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10592)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2097518929241325890) | **Published:** Sep 9, 2026
-
----
-### Video về cấy ghép tăng trưởng sinh học hữu cơ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video mô tả thiết bị cấy ghép tăng trưởng sinh học hữu cơ cho con người, được tích hợp AI có khả năng tự chữa lành.
-
-#### 📝 Prompt
-
-```
-Thiết bị cấy ghép tăng trưởng sinh học hữu cơ toàn thân cho con người tích hợp AI, có khả năng phát triển và tự chữa lành trong suốt cuộc đời của một người
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097497321827385344/img/1dL2mQTTXCU5J5xA.jpg" width="600" alt="Video về cấy ghép tăng trưởng sinh học hữu cơ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10612)**
-
-**Author:** [.](https://x.com/JoshuaCalkslmo) | **Source:** [Link](https://x.com/JoshuaCalkslmo/status/2097497409186373943) | **Published:** Sep 9, 2026
-
----
-### Kịch bản hội thoại điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) tạo video hội thoại mô tả cuộc đối thoại giữa một người đàn ông và một cô gái đang hỏi giờ.
-
-#### 📝 Prompt
-
-```
-Người đàn ông nói này Julianne, em có biết bây giờ là mấy giờ không và cô gái trả lời xin lỗi em không biết. Em không có đồng hồ. Ồ có chứ. Chỉ là em không mang theo thôi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097453576700256256/img/ZjCZ_2Pbxo6kJ3YO.jpg" width="600" alt="Kịch bản hội thoại điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10609)**
-
-**Author:** [Jose Rodriguez](https://x.com/JoseRodrigg1yr) | **Source:** [Link](https://x.com/JoseRodrigg1yr/status/2097453593473192328) | **Published:** Sep 8, 2026
-
----
-### Giải cứu tàu vũ trụ trên đại dương
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video khoa học viễn tưởng đậm chất điện ảnh mô tả hoạt động của tàu cứu hộ đang giải cứu một con tàu vũ trụ trôi dạt trên đại dương.
-
-#### 📝 Prompt
-
-```
-Con tàu vũ trụ đang trôi dạt trên đại dương và họ đã điều một con tàu ra để giải cứu nó.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097441838148026368/img/UiZkNAwtyjuhr87a.jpg" width="600" alt="Giải cứu tàu vũ trụ trên đại dương">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10611)**
-
-**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2097441871765115123) | **Published:** Sep 8, 2026
-
----
-### Odysseus và Cyclops trong thần thoại Hy Lạp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một bài tường thuật đầy kịch tính mô tả cuộc đối đầu huyền thoại giữa Odysseus và gã khổng lồ một mắt Polyphemus trong thần thoại Hy Lạp cổ đại.
-
-#### 📝 Prompt
-
-```
-Odysseus bám chặt vào phần bụng dưới của con cừu đực trong khi Polyphemus gầm thét và mò mẫm khắp hang động, máu tuôn ra từ con mắt bị hủy hoại. Đôi bàn tay của gã khổng lồ quờ quạng trong không trung, chỉ cách mục tiêu trong gang tấc. Bên ngoài, đàn cừu tràn ra đón ánh bình minh. Trong cơn mù lòa và giận dữ, Cyclops...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097440899584122880/img/Yl6mEDKLOSKsOjdJ.jpg" width="600" alt="Odysseus và Cyclops trong thần thoại Hy Lạp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10610)**
-
-**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2097440928940109945) | **Published:** Sep 8, 2026
-
----
-### Robot lái xe rời khỏi showroom Ducati
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt mô tả một robot bằng sắt leo lên chiếc Ducati và lái xe rời khỏi showroom kèm theo một câu thoại đặc trưng.
-
-#### 📝 Prompt
-
-```
-Robot IRON của Xpeng leo lên chiếc Ducati này và lái xe ra khỏi cửa trước của showroom, nói rằng - HẸN GẶP LẠI MỌI NGƯỜI
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097436820548284416/img/i10zK_1kVGx_3xE_.jpg" width="600" alt="Robot lái xe rời khỏi showroom Ducati">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10683)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **Published:** Sep 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2186,6 +2188,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-22T04:35:37.814Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-22T13:32:30.020Z</sub>
 
 </div>

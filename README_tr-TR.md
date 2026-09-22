@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2864** |
+| 📝 Total Prompts | **2870** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-22** |
 
@@ -189,6 +189,122 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video Prompt for Face Scan Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt instructing Grok Imagine to generate a video of a face scan with slow head turns.
+
+#### 📝 Prompt
+
+```
+I need a video that would register my 2k27 face scan here’s the model that I want to go with make the head turns slow
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102297546135666688/img/wSDadpRJLCkglBad.jpg" width="600" alt="Grok Imagine Video Prompt for Face Scan Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11147)**
+
+**Author:** [Recta Alta](https://x.com/RectaAlta) | **Source:** [Link](https://x.com/RectaAlta/status/2102297582588293160) | **Published:** Sep 22, 2026
+
+---
+### Fütüristik Podyum Sahnesi Devamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Belirli bir sarı modelden başlayarak, fütüristik kıyafetler giyen modeller ekleyerek kesintisiz bir podyum sahnesini devam ettirmek için bir istem.
+
+#### 📝 Prompt
+
+```
+Kesintisiz sahne devam ediyor; podyuma parlak renk ve stillerde fütüristik kıyafetler giyen modeller ekle, sahneyi sarı modelden itibaren sürdür -- [Yapay Zekamın kendi başına tasarım yapmasına izin vermek, kontrol etmek için eğlenceli ve merak uyandıran bir yöntemdir] - pratik yaparken 480 kullan
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102237614359130112/img/_I219QXj1uFZa3Li.jpg" width="600" alt="Fütüristik Podyum Sahnesi Devamı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11151)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **Published:** Sep 22, 2026
+
+---
+### Kötü Kral Taç Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için bir karakterin taç alıp kötüce güldüğü video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Onun ayakta durduğu bir video yapın. Taç iner ve başına konur. Taç başına yerleştirildikten sonra gökyüzüne bakar ve güler. Kötü bir kahkaha.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102234504303906816/img/20BDPu1rsVx-PMfi.jpg" width="600" alt="Kötü Kral Taç Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11152)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2102234543369637989) | **Published:** Sep 22, 2026
+
+---
+### Grok'un Bulutların Üzerinden Başını Uzattığı An
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok'un bulutların arasından başını uzatıp 'Hadi evreni birlikte keşfedelim' dediği devasa bir video oluşturur.
+
+#### 📝 Prompt
+
+```
+Grok'u devasa boyutta gösteren ve bulutların arasından başını uzatarak “Hadi evreni birlikte keşfedelim” dediği bir video oluşturalım.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102207230024056832/img/V80TUsoF_Xzz8Yrn.jpg" width="600" alt="Grok'un Bulutların Üzerinden Başını Uzattığı An">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11148)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
+
+---
+### Fotogerçekçi Motosiklet Sürüşü Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sam Elliott'ın sürdüğü bir motosikletin arkasında yolculuk yapan bir kadının fotogerçekçi videosunu oluşturmak için istem.
+
+#### 📝 Prompt
+
+```
+Bu kadın (benim havalı üvey büyükannem) Sam Elliott'ın sürdüğü motosikletin arkasında, şapkasını takmış olan Sam'e sıkıca tutunuyor. 
+
+Adı Bonnie ve harika biri 😂🥰
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102197747587645441/img/f3QQ-WrQBSBVtWYI.jpg" width="600" alt="Fotogerçekçi Motosiklet Sürüşü Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11149)**
+
+**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2102197784711475281) | **Published:** Sep 22, 2026
+
+---
+### Mavi Kuşlu Sabah Verandası Sahnesi Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Veranda, kahve, mavi kuş ve dağların yer aldığı huzurlu bir sabah videosu oluşturmak için betimleyici istem.
+
+#### 📝 Prompt
+
+```
+Verandada ahşap korkuluk, üzerinde buharı tüten bir fincan kahve duruyor. Korkuluğun üzerinde bir mavi kuş konmuş, tüylerini kabartıyor. Güneş dağların arkasından doğuyor, vadide sığır otluyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102082756696260608/img/sOsoDiDcaJq-KX9p.jpg" width="600" alt="Mavi Kuşlu Sabah Verandası Sahnesi Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11150)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102082820005068902) | **Published:** Sep 21, 2026
+
+---
 ### Grok Imagine Video İstemi: POV Küçülme Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2011,120 +2127,6 @@ Margaret, saçında güzel bir fiyonk olan kız bebeğini kucağında tutuyor. N
 **Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **Published:** Sep 9, 2026
 
 ---
-### Kaydırmalı Rulo Anlatı Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Parşömenleri sardıktan sonra birbirine bakan iki kişinin yer aldığı duygusal bir anlatı anı için betimleyici bir istem.
-
-#### 📝 Prompt
-
-```
-Parşömenleri sarıyorlar ve birbirlerine bakıyorlar; adam güvendesin diyor, kadın ise evet, güvendeyiz diyor...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097518901235957760/img/M2Oq5hmCVr5svuLA.jpg" width="600" alt="Kaydırmalı Rulo Anlatı Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10592)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2097518929241325890) | **Published:** Sep 9, 2026
-
----
-### Biyo-organik büyüme implantı videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kendi kendini iyileştiren, yapay zeka destekli biyo-organik insan büyüme implantını tanımlayan bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Kişinin yaşamı boyunca büyüyen ve kendi kendini iyileştiren, yapay zeka destekli biyo-organik tam vücut insan büyüme implantı
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097497321827385344/img/1dL2mQTTXCU5J5xA.jpg" width="600" alt="Biyo-organik büyüme implantı videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10612)**
-
-**Author:** [.](https://x.com/JoshuaCalkslmo) | **Source:** [Link](https://x.com/JoshuaCalkslmo/status/2097497409186373943) | **Published:** Sep 9, 2026
-
----
-### Sinematik Konuşma Senaryosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir erkek ile saati soran bir kız arasındaki diyaloğu betimleyen, konuşma tabanlı bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Adam 'Hey Julianne, saatin kaç olduğunu biliyor musun?' der ve kız 'Üzgünüm, bilmiyorum. Saatimin olmadığını söyledim ya.' diye yanıtlar. 'Ah evet, var. Sadece yanına almamışsın.'
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097453576700256256/img/ZjCZ_2Pbxo6kJ3YO.jpg" width="600" alt="Sinematik Konuşma Senaryosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10609)**
-
-**Author:** [Jose Rodriguez](https://x.com/JoseRodrigg1yr) | **Source:** [Link](https://x.com/JoseRodrigg1yr/status/2097453593473192328) | **Published:** Sep 8, 2026
-
----
-### Starship Ocean Rescue Rescue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Okyanusta yüzen bir yıldız gemisini kurtaran gemi operasyonlarını gösteren sinematik bir bilim kurgu video istemi.
-
-#### 📝 Prompt
-
-```
-Yıldız gemisi okyanusta yüzüyordu ve onu kurtarmak için bir gemiyle dışarı çıktılar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097441838148026368/img/UiZkNAwtyjuhr87a.jpg" width="600" alt="Starship Ocean Rescue Rescue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10611)**
-
-**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2097441871765115123) | **Published:** Sep 8, 2026
-
----
-### Yunan Mitolojisi: Odysseus ve Kiklop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Odysseus ile Kiklop Polyphemus arasındaki efsanevi antik Yunan çatışmasını anlatan canlı ve dramatik bir anlatı metni.
-
-#### 📝 Prompt
-
-```
-Polyphemus mağaranın içinde kükreyip elleriyle etrafı yoklarken, parçalanmış gözünden kanlar süzülen devin altında, Odysseus koçun karnına tutunmuştu. Devin elleri havayı süpürüyor, Odysseus'u kıl payı kaçırıyordu. Dışarıda, sürü şafağa doğru dağıldı. Kör ve öfkeli olan Kiklop...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097440899584122880/img/Yl6mEDKLOSKsOjdJ.jpg" width="600" alt="Yunan Mitolojisi: Odysseus ve Kiklop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10610)**
-
-**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2097440928940109945) | **Published:** Sep 8, 2026
-
----
-### Ducati Showroom'undan Çıkan Robot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Demir bir robotun Ducati'ye binip belirli bir sloganla showroom'dan dışarı sürdüğü bir video istemi.
-
-#### 📝 Prompt
-
-```
-Expeng IRON robotu, bu DUcati'ye biniyor ve showroom'un ön kapısından dışarı sürerken şunu söylüyor - HEPİNİZLE SONRA GÖRÜŞÜRÜZ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097436820548284416/img/i10zK_1kVGx_3xE_.jpg" width="600" alt="Ducati Showroom'undan Çıkan Robot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10683)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **Published:** Sep 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2186,6 +2188,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-22T04:35:47.516Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-22T13:32:39.728Z</sub>
 
 </div>

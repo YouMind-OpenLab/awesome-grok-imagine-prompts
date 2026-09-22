@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2864** |
+| 📝 プロンプト総数 | **2870** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-22** |
 
@@ -189,6 +189,122 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Grok Imagine 顔スキャンアニメーション用ビデオプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ゆっくりとした首の動きを伴う顔スキャン動画を生成するための Grok Imagine 向けプロンプトです。
+
+#### 📝 プロンプト
+
+```
+私の 2027 年モデルの顔スキャンを登録する動画が必要です。採用したいモデルはこちらです。首の回転はゆっくりめにしてください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102297546135666688/img/wSDadpRJLCkglBad.jpg" width="600" alt="Grok Imagine 顔スキャンアニメーション用ビデオプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11147)**
+
+**作者:** [Recta Alta](https://x.com/RectaAlta) | **ソース:** [Link](https://x.com/RectaAlta/status/2102297582588293160) | **公開日:** Sep 22, 2026
+
+---
+### 未来感ランウェイシーンの続き
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 特定の黄色いモデルから始まり、未来的な衣装を着たモデルを追加してシームレスなランウェイシーンを続けるためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+シームレスなシーンが続きます。鮮やかな色とスタイルの未来的な衣装を着たモデルをランウェイに追加し、黄色いモデルからシーンを続けてください -- [A.I. に独自にデザインさせるのは、遊び心と好奇心を持って確認するための楽しい方法です] - 練習中は 480 を使用
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102237614359130112/img/_I219QXj1uFZa3Li.jpg" width="600" alt="未来感ランウェイシーンの続き">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11151)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **公開日:** Sep 22, 2026
+
+---
+### 邪悪な王の戴冠ビデオプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine でキャラクターが王冠を受け取り、邪悪に笑うシーンを描くための動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+彼が立っている動画を作成してください。王冠が降りてきて、彼の頭に乗せられます。王冠が頭に置かれた後、彼は空を見上げ、笑い始めます。それは邪悪な笑い声です。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102234504303906816/img/20BDPu1rsVx-PMfi.jpg" width="600" alt="邪悪な王の戴冠ビデオプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11152)**
+
+**作者:** [GayBar](https://x.com/GayBar_Ai) | **ソース:** [Link](https://x.com/GayBar_Ai/status/2102234543369637989) | **公開日:** Sep 22, 2026
+
+---
+### 雲を突き破る巨大なGrok
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 巨大なGrokが雲から顔を出し、「一緒に宇宙を探検しよう」と言う動画を作成します。
+
+#### 📝 プロンプト
+
+```
+巨大なGrokが雲から顔を出して「一緒に宇宙を探検しよう」と言う動画を作成してください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102207230024056832/img/V80TUsoF_Xzz8Yrn.jpg" width="600" alt="雲を突き破る巨大なGrok">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11148)**
+
+**作者:** [Mark Tatum](https://x.com/Mark561256) | **ソース:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **公開日:** Sep 22, 2026
+
+---
+### 写実的なバイク走行動画のプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> サム・エリオットが運転するバイクの後部座席に乗る女性の、写実的な動画を生成するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+この女性（私のクールな継ぎ祖母）が、カウボーイハットをかぶったドライバーのサム・エリオットの背後にしがみつきながら、彼の運転するバイクの後部座席に乗っている写実的な動画。
+
+彼女の名前はボニーで、本当に素晴らしい人です 😂🥰
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102197747587645441/img/f3QQ-WrQBSBVtWYI.jpg" width="600" alt="写実的なバイク走行動画のプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11149)**
+
+**作者:** [Carry Robey](https://x.com/carry_robey) | **ソース:** [Link](https://x.com/carry_robey/status/2102197784711475281) | **公開日:** Sep 22, 2026
+
+---
+### 青い鳥と朝のポーチの風景：動画生成プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ポーチ、コーヒー、青い鳥、山々を特徴とする穏やかな朝の動画を生成するための詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+木製の手すりがあるポーチ。手すりには湯気を立てるコーヒーカップが置かれ、その上に青い鳥が止まって羽繕いをしている。太陽が山々の向こうから昇り始め、谷間では牛が放牧されている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102082756696260608/img/sOsoDiDcaJq-KX9p.jpg" width="600" alt="青い鳥と朝のポーチの風景：動画生成プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11150)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2102082820005068902) | **公開日:** Sep 21, 2026
+
+---
 ### Grok Imagine Video プロンプト：POV シュリンクシーン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2010,120 +2126,6 @@ Negative: テキストなし、ロゴなし、透かしなし
 **作者:** [Margaret Ford](https://x.com/Margaretfit08) | **ソース:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **公開日:** Sep 9, 2026
 
 ---
-### スクロールを巻き上げるナラティブ動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> スクロールを巻き上げた後、2 人が互いを見つめ合う感動的な物語のシーンを描写するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-彼らはスクロールを巻き上げ、互いを見つめ合う。彼が「もう安全だ」と言うと、女性は「ええ、そうね……」と答える。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097518901235957760/img/M2Oq5hmCVr5svuLA.jpg" width="600" alt="スクロールを巻き上げるナラティブ動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10592)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2097518929241325890) | **公開日:** Sep 9, 2026
-
----
-### バイオオーガニック成長インプラントの動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 自己修復機能を持つ AI バイオオーガニック人体成長インプラントを記述した動画生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-生涯にわたって成長と自己修復を繰り返す、AI バイオオーガニック全身人体成長インプラント
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097497321827385344/img/1dL2mQTTXCU5J5xA.jpg" width="600" alt="バイオオーガニック成長インプラントの動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10612)**
-
-**作者:** [.](https://x.com/JoshuaCalkslmo) | **ソース:** [Link](https://x.com/JoshuaCalkslmo/status/2097497409186373943) | **公開日:** Sep 9, 2026
-
----
-### 映画のような会話シナリオ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 男性と少女が時刻を尋ね合う対話を描いた、会話型動画生成用のプロンプトです。
-
-#### 📝 プロンプト
-
-```
-男性が「ねえ Julianne 、今何時か知ってる？」と尋ねると、少女が「ごめんなさい、わからないわ。時計を持っていないの」と答えます。男性は「いや、持っているはずだよ。ただ持ってきていないだけだ」と返します。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097453576700256256/img/ZjCZ_2Pbxo6kJ3YO.jpg" width="600" alt="映画のような会話シナリオ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10609)**
-
-**作者:** [Jose Rodriguez](https://x.com/JoseRodrigg1yr) | **ソース:** [Link](https://x.com/JoseRodrigg1yr/status/2097453593473192328) | **公開日:** Sep 8, 2026
-
----
-### スターシップ・オーシャン・レスキュー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 海上に漂流する宇宙船を救助する船のオペレーションを描いた、映画のような SF 動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-宇宙船が海上に漂流しており、彼らは救助のために船で現場へ向かった。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097441838148026368/img/UiZkNAwtyjuhr87a.jpg" width="600" alt="スターシップ・オーシャン・レスキュー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10611)**
-
-**作者:** [loving X@ Cheryl](https://x.com/Corr1444) | **ソース:** [Link](https://x.com/Corr1444/status/2097441871765115123) | **公開日:** Sep 8, 2026
-
----
-### オデュッセウスとキュクロプス：ギリシャ神話
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> オデュッセウスとキュクロプスのポリュペモスによる、伝説的な古代ギリシャの対決を描いた鮮やかで劇的な物語。
-
-#### 📝 プロンプト
-
-```
-ポリュペモスが洞窟の中で咆哮し、傷ついた目から血を流しながら手探りで歩き回る中、オデュッセウスは羊の腹にしがみついていた。巨人の手は空を切り、わずかな差で彼を逃した。外では、羊の群れが夜明けの光の中へと流れ出していく。盲目となり激怒するキュクロプスは……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097440899584122880/img/Yl6mEDKLOSKsOjdJ.jpg" width="600" alt="オデュッセウスとキュクロプス：ギリシャ神話">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10610)**
-
-**作者:** [loving X@ Cheryl](https://x.com/Corr1444) | **ソース:** [Link](https://x.com/Corr1444/status/2097440928940109945) | **公開日:** Sep 8, 2026
-
----
-### Ducati ショールームから走り出すロボット
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> アイアンロボットが Ducati にまたがり、決め台詞と共にショールームから走り出す様子を描いた動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-Expeng IRON ロボットがこの DUcati にまたがり、ショールームの正面玄関から走り出しながら「SEE YOU ALL LATER」と言う
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097436820548284416/img/i10zK_1kVGx_3xE_.jpg" width="600" alt="Ducati ショールームから走り出すロボット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10683)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **ソース:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **公開日:** Sep 8, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2185,6 +2187,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-22T04:35:34.419Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-22T13:32:24.804Z</sub>
 
 </div>

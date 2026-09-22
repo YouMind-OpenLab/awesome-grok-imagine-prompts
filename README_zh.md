@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2864** |
+| 📝 提示词总数 | **2870** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-22** |
 
@@ -189,6 +189,122 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Grok Imagine 视频提示词：面部扫描动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 该提示词指导 Grok Imagine 生成一段包含缓慢头部转动动作的面部扫描视频。
+
+#### 📝 提示词
+
+```
+我需要一段能够注册我的 2027 年面部扫描的视频，这是我想要使用的模型，请让头部转动的速度变慢
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102297546135666688/img/wSDadpRJLCkglBad.jpg" width="600" alt="Grok Imagine 视频提示词：面部扫描动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11147)**
+
+**作者:** [Recta Alta](https://x.com/RectaAlta) | **来源:** [Link](https://x.com/RectaAlta/status/2102297582588293160) | **发布时间:** Sep 22, 2026
+
+---
+### 未来感 T 台场景续写
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 该提示词用于从特定的黄色模特开始，通过添加身着未来主义服饰的模特来延续无缝衔接的 T 台场景。
+
+#### 📝 提示词
+
+```
+无缝场景继续，在 T 台上添加身着色彩鲜艳、风格各异的未来主义服饰的模特，从黄色模特处延续场景 -- [让 A.I. 自主设计是一种充满趣味与好奇心的探索方式] - 练习时使用 480
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102237614359130112/img/_I219QXj1uFZa3Li.jpg" width="600" alt="未来感 T 台场景续写">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11151)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **发布时间:** Sep 22, 2026
+
+---
+### 邪恶国王加冕视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的视频生成提示词，描绘角色接受王冠并发出邪恶笑声的场景。
+
+#### 📝 提示词
+
+```
+制作一段他站立的视频。王冠缓缓降下并戴在他的头上。当王冠戴稳后，他仰望天空，发出一阵邪恶的笑声。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102234504303906816/img/20BDPu1rsVx-PMfi.jpg" width="600" alt="邪恶国王加冕视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11152)**
+
+**作者:** [GayBar](https://x.com/GayBar_Ai) | **来源:** [Link](https://x.com/GayBar_Ai/status/2102234543369637989) | **发布时间:** Sep 22, 2026
+
+---
+### Grok 破云而出
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段视频，展示巨大的 Grok 将头探出云层，并说道“让我们一起探索宇宙”。
+
+#### 📝 提示词
+
+```
+让我们制作一段视频，展示巨大的 Grok 将头探出云层，并说道“让我们一起探索宇宙”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102207230024056832/img/V80TUsoF_Xzz8Yrn.jpg" width="600" alt="Grok 破云而出">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11148)**
+
+**作者:** [Mark Tatum](https://x.com/Mark561256) | **来源:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **发布时间:** Sep 22, 2026
+
+---
+### 写实摩托车骑行视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成一位女性乘坐由 Sam Elliott 驾驶的摩托车后座的写实视频的提示词。
+
+#### 📝 提示词
+
+```
+这位女士（我超酷的继祖母）坐在摩托车后座上，紧紧抓着正在驾驶摩托车的 Sam Elliott，他戴着一顶牛仔帽。
+
+她的名字叫 Bonnie，她太棒了 😂🥰
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102197747587645441/img/f3QQ-WrQBSBVtWYI.jpg" width="600" alt="写实摩托车骑行视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11149)**
+
+**作者:** [Carry Robey](https://x.com/carry_robey) | **来源:** [Link](https://x.com/carry_robey/status/2102197784711475281) | **发布时间:** Sep 22, 2026
+
+---
+### 清晨门廊蓝鸟视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成宁静清晨视频的提示词，包含门廊、咖啡、蓝鸟和山脉等元素。
+
+#### 📝 提示词
+
+```
+木质门廊栏杆上放着一杯冒着热气的咖啡，一只蓝鸟停在栏杆上梳理羽毛，日出在群山间破晓，山谷中牛群正在吃草
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102082756696260608/img/sOsoDiDcaJq-KX9p.jpg" width="600" alt="清晨门廊蓝鸟视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11150)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2102082820005068902) | **发布时间:** Sep 21, 2026
+
+---
 ### Grok Imagine 视频提示词：POV 缩小场景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2011,120 +2127,6 @@ Margaret 抱着她的小女儿，女儿头上戴着漂亮的蝴蝶结。正在�
 **作者:** [Margaret Ford](https://x.com/Margaretfit08) | **来源:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **发布时间:** Sep 9, 2026
 
 ---
-### 卷轴卷起叙事视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段描述性提示词，用于表现两人在卷起卷轴后对视的情感叙事瞬间。
-
-#### 📝 提示词
-
-```
-他们卷起卷轴，随后相视而望。他说：“你安全了。” 女子回答：“是的，我们都安全了……”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097518901235957760/img/M2Oq5hmCVr5svuLA.jpg" width="600" alt="卷轴卷起叙事视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10592)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2097518929241325890) | **发布时间:** Sep 9, 2026
-
----
-### 生物有机生长植入物视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于自愈式 AI 生物有机人体生长植入物的视频生成提示词。
-
-#### 📝 提示词
-
-```
-AI 生物有机全身人体生长植入物，可在人的一生中持续生长并实现自我修复
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097497321827385344/img/1dL2mQTTXCU5J5xA.jpg" width="600" alt="生物有机生长植入物视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10612)**
-
-**作者:** [.](https://x.com/JoshuaCalkslmo) | **来源:** [Link](https://x.com/JoshuaCalkslmo/status/2097497409186373943) | **发布时间:** Sep 9, 2026
-
----
-### 电影感对话场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个对话式视频生成提示词，描绘了一名男子与一名女孩询问时间的对话场景。
-
-#### 📝 提示词
-
-```
-男子说：“嘿 Julianne，你知道现在几点吗？”女孩回答：“抱歉，我不知道。我没带手表。”男子说：“哦，你有的。你只是没带在身上。”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097453576700256256/img/ZjCZ_2Pbxo6kJ3YO.jpg" width="600" alt="电影感对话场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10609)**
-
-**作者:** [Jose Rodriguez](https://x.com/JoseRodrigg1yr) | **来源:** [Link](https://x.com/JoseRodrigg1yr/status/2097453593473192328) | **发布时间:** Sep 8, 2026
-
----
-### 星际飞船海上救援
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的科幻视频提示词，展示了船只执行任务，营救漂浮在海面上的星际飞船。
-
-#### 📝 提示词
-
-```
-星际飞船漂浮在海面上，他们驾驶船只前去进行营救。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097441838148026368/img/UiZkNAwtyjuhr87a.jpg" width="600" alt="星际飞船海上救援">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10611)**
-
-**作者:** [loving X@ Cheryl](https://x.com/Corr1444) | **来源:** [Link](https://x.com/Corr1444/status/2097441871765115123) | **发布时间:** Sep 8, 2026
-
----
-### 奥德修斯与独眼巨人的希腊神话
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段生动且富有戏剧性的叙事文本，描述了古希腊传说中奥德修斯与独眼巨人波吕斐摩斯之间的对决。
-
-#### 📝 提示词
-
-```
-奥德修斯紧紧抓在公羊的腹部下方，此时波吕斐摩斯在洞穴中咆哮着摸索，鲜血从他被毁的眼中不断涌出。巨人的双手在空中挥舞，却与奥德修斯擦肩而过。洞外，羊群涌向黎明。独眼巨人双目失明，陷入狂怒……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097440899584122880/img/Yl6mEDKLOSKsOjdJ.jpg" width="600" alt="奥德修斯与独眼巨人的希腊神话">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10610)**
-
-**作者:** [loving X@ Cheryl](https://x.com/Corr1444) | **来源:** [Link](https://x.com/Corr1444/status/2097440928940109945) | **发布时间:** Sep 8, 2026
-
----
-### 机器人骑乘 Ducati 驶出展厅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频提示词，描述了一个铁质机器人骑上 Ducati 并驶出展厅，同时说出一句特定台词的场景。
-
-#### 📝 提示词
-
-```
-小鹏 IRON 机器人，骑上这辆 DUcati 并从展厅前门驶出，同时说道 —— SEE YOU ALL LATER
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097436820548284416/img/i10zK_1kVGx_3xE_.jpg" width="600" alt="机器人骑乘 Ducati 驶出展厅">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10683)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **来源:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **发布时间:** Sep 8, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2186,6 +2188,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-22T04:35:32.303Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-22T13:32:19.567Z</sub>
 
 </div>

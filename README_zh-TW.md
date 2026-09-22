@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2864** |
+| 📝 提示詞總數 | **2870** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-22** |
 
@@ -189,6 +189,122 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Grok Imagine 人臉掃描動畫影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 指導 Grok Imagine 生成包含緩慢轉頭動作的人臉掃描影片的提示詞。
+
+#### 📝 提示詞
+
+```
+我需要一段能在此處註冊我的 2027 年人臉掃描的影片，請使用我指定的模型，並讓轉頭動作保持緩慢
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102297546135666688/img/wSDadpRJLCkglBad.jpg" width="600" alt="Grok Imagine 人臉掃描動畫影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11147)**
+
+**作者:** [Recta Alta](https://x.com/RectaAlta) | **來源:** [Link](https://x.com/RectaAlta/status/2102297582588293160) | **發布時間:** Sep 22, 2026
+
+---
+### 未來感伸展台場景延續
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 透過從特定黃色模特兒開始，添加身穿未來風格服裝的模特兒，以延續無縫接軌的伸展台場景提示詞。
+
+#### 📝 提示詞
+
+```
+無縫場景持續延伸，在伸展台上加入身穿鮮豔多樣色彩與風格之未來感服裝的模特兒，從黃色模特兒處繼續場景 -- [讓我的 A.I. 自行設計是一種充滿趣味與好奇心的測試方式] - 練習時使用 480
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102237614359130112/img/_I219QXj1uFZa3Li.jpg" width="600" alt="未來感伸展台場景延續">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11151)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **發布時間:** Sep 22, 2026
+
+---
+### 邪惡國王加冕影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的影片生成提示詞，描繪角色接受加冕並發出邪惡笑聲的場景。
+
+#### 📝 提示詞
+
+```
+製作一段他站立的影片。王冠緩緩降下並戴在他的頭上。當王冠完全戴正後，他仰望天空，發出一陣大笑。那是一種邪惡的笑聲。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102234504303906816/img/20BDPu1rsVx-PMfi.jpg" width="600" alt="邪惡國王加冕影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11152)**
+
+**作者:** [GayBar](https://x.com/GayBar_Ai) | **來源:** [Link](https://x.com/GayBar_Ai/status/2102234543369637989) | **發布時間:** Sep 22, 2026
+
+---
+### Grok 穿雲而出
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段影片，展示巨大的 Grok 從雲層中探出頭來，並說道：「讓我們一起探索宇宙吧。」
+
+#### 📝 提示詞
+
+```
+製作一段影片，讓巨大的 Grok 從雲層中探出頭來，並說：「讓我們一起探索宇宙吧」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102207230024056832/img/V80TUsoF_Xzz8Yrn.jpg" width="600" alt="Grok 穿雲而出">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11148)**
+
+**作者:** [Mark Tatum](https://x.com/Mark561256) | **來源:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **發布時間:** Sep 22, 2026
+
+---
+### 超寫實摩托車騎乘影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成由 Sam Elliott 駕駛、女性乘客坐在後座的超寫實摩托車騎乘影片的提示詞。
+
+#### 📝 提示詞
+
+```
+這段超寫實影片呈現一位女性（我的硬核奶奶）坐在摩托車後座，緊抓著駕駛者 Sam Elliott，他頭戴牛仔帽。
+
+她的名字叫 Bonnie，真的太棒了 😂🥰
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102197747587645441/img/f3QQ-WrQBSBVtWYI.jpg" width="600" alt="超寫實摩托車騎乘影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11149)**
+
+**作者:** [Carry Robey](https://x.com/carry_robey) | **來源:** [Link](https://x.com/carry_robey/status/2102197784711475281) | **發布時間:** Sep 22, 2026
+
+---
+### 清晨門廊藍鳥影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成寧靜清晨影片的詳細提示詞，內容包含門廊、咖啡、藍鳥與山脈。
+
+#### 📝 提示詞
+
+```
+木製門廊欄杆上放著一杯冒熱氣的咖啡，一隻藍鳥停在欄杆上梳理羽毛，陽光從山脈後升起，山谷中牛群正在吃草
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102082756696260608/img/sOsoDiDcaJq-KX9p.jpg" width="600" alt="清晨門廊藍鳥影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11150)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2102082820005068902) | **發布時間:** Sep 21, 2026
+
+---
 ### Grok Imagine 影片提示詞：POV 縮小場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2011,120 +2127,6 @@ Margaret 抱著她的小女嬰，女嬰頭上戴著漂亮的蝴蝶結。母親�
 **作者:** [Margaret Ford](https://x.com/Margaretfit08) | **來源:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **發布時間:** Sep 9, 2026
 
 ---
-### 捲軸捲起敘事影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段關於情感敘事時刻的描述性提示詞，內容為兩個人在捲起捲軸後互相對視。
-
-#### 📝 提示詞
-
-```
-他們捲起捲軸，互相對視，他說：「妳安全了。」女子回答：「是的，我們安全了……」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097518901235957760/img/M2Oq5hmCVr5svuLA.jpg" width="600" alt="捲軸捲起敘事影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10592)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **來源:** [Link](https://x.com/SaSHeaven26/status/2097518929241325890) | **發布時間:** Sep 9, 2026
-
----
-### 生物有機生長植入物影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個關於自我修復 AI 生物有機人體生長植入物的影片生成提示詞。
-
-#### 📝 提示詞
-
-```
-AI 生物有機全身人體生長植入物，能在人的一生中持續生長並自我修復
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097497321827385344/img/1dL2mQTTXCU5J5xA.jpg" width="600" alt="生物有機生長植入物影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10612)**
-
-**作者:** [.](https://x.com/JoshuaCalkslmo) | **來源:** [Link](https://x.com/JoshuaCalkslmo/status/2097497409186373943) | **發布時間:** Sep 9, 2026
-
----
-### 電影感對話場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個對話式影片生成提示詞，描繪了一名男子與一名女孩詢問時間的對話。
-
-#### 📝 提示詞
-
-```
-男子說：「嘿 Julianne，你知道現在幾點嗎？」女孩回答：「抱歉，我不知道。我沒有手錶。」「喔，妳有的。只是妳沒帶在身上。」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097453576700256256/img/ZjCZ_2Pbxo6kJ3YO.jpg" width="600" alt="電影感對話場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10609)**
-
-**作者:** [Jose Rodriguez](https://x.com/JoseRodrigg1yr) | **來源:** [Link](https://x.com/JoseRodrigg1yr/status/2097453593473192328) | **發布時間:** Sep 8, 2026
-
----
-### 星艦海洋救援行動
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級科幻影片提示詞，展示了船隻執行任務，救援漂浮在海洋上的星艦。
-
-#### 📝 提示詞
-
-```
-星艦漂浮在海洋上，他們出動船隻前往進行救援。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097441838148026368/img/UiZkNAwtyjuhr87a.jpg" width="600" alt="星艦海洋救援行動">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10611)**
-
-**作者:** [loving X@ Cheryl](https://x.com/Corr1444) | **來源:** [Link](https://x.com/Corr1444/status/2097441871765115123) | **發布時間:** Sep 8, 2026
-
----
-### 奧德修斯與獨眼巨人的希臘神話
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段生動的戲劇性敘事文本，描述了古希臘傳說中奧德修斯與獨眼巨人波呂斐摩斯之間的對決。
-
-#### 📝 提示詞
-
-```
-奧德修斯緊緊抓著公羊的腹部，此時波呂斐摩斯正咆哮著在洞穴中摸索，鮮血從他毀壞的眼睛中流出。巨人的雙手掃過空氣，僅僅差了幾英寸。洞外，羊群湧入了黎明。失明且憤怒的獨眼巨人……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097440899584122880/img/Yl6mEDKLOSKsOjdJ.jpg" width="600" alt="奧德修斯與獨眼巨人的希臘神話">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10610)**
-
-**作者:** [loving X@ Cheryl](https://x.com/Corr1444) | **來源:** [Link](https://x.com/Corr1444/status/2097440928940109945) | **發布時間:** Sep 8, 2026
-
----
-### 機器人騎乘 Ducati 離開展示間
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片提示詞，描述一個鋼鐵機器人騎上 Ducati 並說出一句特定台詞，從展示間騎乘離開。
-
-#### 📝 提示詞
-
-```
-小鵬 IRON 機器人騎上這台 Ducati，並說著「SEE YOU ALL LATER」，從展示間大門騎乘離開
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097436820548284416/img/i10zK_1kVGx_3xE_.jpg" width="600" alt="機器人騎乘 Ducati 離開展示間">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10683)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **來源:** [Link](https://x.com/RobinMurrat43a/status/2097436897236893735) | **發布時間:** Sep 8, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2186,6 +2188,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-22T04:35:33.190Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-22T13:32:22.451Z</sub>
 
 </div>
