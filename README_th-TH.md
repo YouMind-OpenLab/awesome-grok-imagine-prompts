@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2870** |
+| 📝 Total Prompts | **2874** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-23** |
 
@@ -189,6 +189,50 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### วงร็อกแมวแอนโทรโพมอร์ฟิก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างวิดีโอแบบครบถ้วนสำหรับ Grok Imagine นำเสนอแมวแอนโทรโพมอร์ฟิกสามตัวที่เล่นดนตรีร็อกในคลับเรืองแสง ประกอบด้วยคำแนะนำเฉพาะเกี่ยวกับแสง การเคลื่อนไหว และการซิงค์ภาพและเสียง
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอต่อเนื่องของวงร็อกแมวแอนโทรโพมอร์ฟิกที่กำลังแสดงเพลงสดเป็นภาษาอังกฤษ บรรยากาศมีความลึกลับทางจิตวิทยาและเรืองแสง
+
+แมวแอนโทรโพมอร์ฟิกสามตัวยืนเป็นวงร็อกบนเวทีเล็กที่ยกสูง พวกมันยังคงมีหัว หู ขน และหางแบบแมว แต่สวมเสื้อผ้าสไตล์ร็อกและถือเครื่องดนตรี พวกมันแสดงร่วมกันในฐานะกลุ่มเดียว
+
+ในช่วงเริ่มต้น แมวหันหน้าเข้าหาผู้ชมในคลับมืดที่มีแสงเรืองแสง: แสงสีเขียว-ฟ้าอ่อนๆ พัลส์ผ่านขน เครื่องดนตรี และอากาศรอบตัวพวกมัน แมวนำก้าวไปยังไมโครโฟนกลางและเริ่มร้องเพลงเป็นภาษาอังกฤษอย่างชัดเจน ในขณะที่อีกสองตัวเล่นกีตาร์และกลองให้สอดคล้องกัน ปากของพวกมันขยับตามเนื้อเพลงภาษาอังกฤษ ดวงตาเข้มข้นและดุดันเล็กน้อย ร่างกายโยกย้ายตามจังหวะ รอยแสงและแสงเรืองแสงintensify รอบตัวพวกมันเมื่อการแสดงทวีความรุนแรงขึ้น ในตอนท้าย พวกมันค้างโน้ตสุดท้ายและโพสต์ท่าด้วยกันภายใต้แสงสว่าง
+
+รักษาให้แมวเป็นร็อกเกอร์แอนโทรโพมอร์ฟิกเต็มรูปแบบ การร้องเพลงเป็นภาษาอังกฤษ บรรยากาศเชิงจิตวิทยา-เรืองแสง และการแสดงของวงที่ต่อเนื่องให้เสถียรตลอดทั้งคลิป ไม่ปรากฏคำบรรยายบนหน้าจอ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="วงร็อกแมวแอนโทรโพมอร์ฟิก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### พรอมต์ Grok Imagine สำหรับฉากที่ให้อาหารนก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์รายละเอียดสำหรับ Grok Imagine ที่อธิบายภาพนกกำลังกินอาหารจากที่ให้อาหารนกพร้อมกระดิ่งลมสีโอปอล
+
+#### 📝 Prompt
+
+```
+นกเพลงเกาะอยู่ที่ที่ให้อาหารนกอย่างน่ารัก กระดิ่งลมที่แขวนอยู่ใต้ที่ให้อาหารนกเป็นชุดเฟืองสีโอปอล
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="พรอมต์ Grok Imagine สำหรับฉากที่ให้อาหารนก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11178)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **Published:** Sep 22, 2026
+
+---
 ### พรอมต์วิดีโอ Grok Imagine สำหรับแอนิเมชันการสแกนใบหน้า
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,6 +271,25 @@ Why use our gallery?
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **Published:** Sep 22, 2026
 
 ---
+### วิดีโอ POV เดินเท้า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอที่ซับซ้อนซึ่งอธิบายลำดับมุมมองบุคคลที่หนึ่ง (POV) ของการเดินเท้า โดยสลับมุมมองทุกสองวินาที
+
+#### 📝 Prompt
+
+```
+โมเดล POV เท้า รองเท้าเดินไปในทิศทางเดียวกันอย่างแม่นยำ ชุดเท้าหนึ่งชุดต่อ 2 วินาที POV สลับระหว่างมุมมอง กล้องมองเห็นรองเท้าของตัวเองเสมอ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102236673941680130/img/G387hSVEXsXhPeGf.jpg" width="600" alt="วิดีโอ POV เดินเท้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11179)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **Published:** Sep 22, 2026
+
+---
 ### พรอมต์วิดีโอ Evil King Crown
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +326,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11148)**
 
 **Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
+
+---
+### ลูกแมวและปลาทองบนท้องฟ้า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเหนือจริงที่แสดงลูกแมวสยามเล่นในทุ่งหญ้า โดยมีปลาทองว่ายน้ำผ่านท้องฟ้า
+
+#### 📝 Prompt
+
+```
+แสงอาทิตย์ยามเย็นสีทองทุ่งข้าวโพดเป็นฉากหลัง สนามหญ้า ลูกแมวสยามเล่นในทุ่งหญ้า ท้องฟ้าสีคราม ปลาทองครีบยาวว่ายน้ำอย่างอ่อนโยนผ่านท้องฟ้า โดยครีบลู่ลงเหมือนริบบิ้นที่พลิ้วไหว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102199376206761984/img/Fh5RbZzh--nCL2YN.jpg" width="600" alt="ลูกแมวและปลาทองบนท้องฟ้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11180)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102199438509068455) | **Published:** Sep 22, 2026
 
 ---
 ### พรอมต์วิดีโอการขี่มอเตอร์ไซค์แบบสมจริง
@@ -2050,83 +2132,6 @@ Athena เดินตรงไปยังวิหารของบิดา�
 **Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
 
 ---
-### การขับขี่รถยนต์ Tesla ในเมืองแห่งอนาคตช่วงพลบค่ำ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แบบภาพยนตร์ที่มีรายละเอียดสำหรับรถยนต์ Tesla สีดำที่กำลังขับเคลื่อนอย่างนุ่มนวลผ่านเมืองสมัยใหม่ในช่วงเวลาโพล้เพล้
-
-#### 📝 Prompt
-
-```
-รถยนต์ไฟฟ้า Tesla สีดำโฉบเฉี่ยวขับเคลื่อนอย่างนุ่มนวลไปตามถนนในเมืองสมัยใหม่ในช่วงพลบค่ำ เคลื่อนผ่านอาคารกระจกและแสงไฟริมทางพร้อมเงาสะท้อนที่ดูนุ่มนวลบนตัวถังรถ
-ภาพที่ได้นำเสนอสไตล์ภาพยนตร์แห่งอนาคตที่สะอาดตาด้วยโทนสีน้ำเงินในช่วงเวลาโพล้เพล้...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097579905408249856/img/pmhkH2vpw3CXMEIN.jpg" width="600" alt="การขับขี่รถยนต์ Tesla ในเมืองแห่งอนาคตช่วงพลบค่ำ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10593)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097580043748639150) | **Published:** Sep 9, 2026
-
----
-### วิดีโอ Marty McFly กับทีมฟุตบอล Michigan
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สร้างวิดีโอตัวละคร Marty McFly ขณะกำลังก้าวเข้าสู่เครื่องย้อนเวลา โดยสวมเสื้อแข่งของทีมฟุตบอลมหาวิทยาลัย Michigan
-
-#### 📝 Prompt
-
-```
-วิดีโอ Marty McFly กำลังก้าวเข้าสู่เครื่องย้อนเวลา โดยเขาสวมเสื้อแข่งทีมฟุตบอล Michigan
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097573779136487424/img/sImhXvEGftCvcEKb.jpg" width="600" alt="วิดีโอ Marty McFly กับทีมฟุตบอล Michigan">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10679)**
-
-**Author:** [David Kowalski](https://x.com/DavidKow1963) | **Source:** [Link](https://x.com/DavidKow1963/status/2097573794810376639) | **Published:** Sep 9, 2026
-
----
-### ฉากพักผ่อนของหญิงสาวผมบลอนด์สุดโฉบเฉี่ยว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสร้างวิดีโอระดับภาพยนตร์ที่มีรายละเอียดสูง โดยมีหญิงสาวในชุดคลุมเดินเข้ามาในห้องจากทางด้านขวา เดินไปที่โซฟา มองออกไปนอกหน้าต่าง แล้วพักผ่อน
-
-#### 📝 Prompt
-
-```
-หญิงสาวผมบลอนด์สุดโฉบเฉี่ยวในชุดคลุมเดินเข้ามาในฉากจากทางด้านขวา แล้วเอนตัวลงนอนบนโซฟาเพื่อมองออกไปนอกหน้าต่างและงีบหลับ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097547047041900544/img/lRgtZ_wWvMOXWqHz.jpg" width="600" alt="ฉากพักผ่อนของหญิงสาวผมบลอนด์สุดโฉบเฉี่ยว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10603)**
-
-**Author:** [Mon Soleil LLC 🇺🇸](https://x.com/MonSoleilLLC) | **Source:** [Link](https://x.com/MonSoleilLLC/status/2097547084182560899) | **Published:** Sep 9, 2026
-
----
-### แม่ร้องเพลงกล่อมลูกน้อย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอสุดอบอุ่นหัวใจที่บรรยายภาพแม่กำลังร้องเพลงกล่อมและจูบลูกสาวตัวน้อย
-
-#### 📝 Prompt
-
-```
-Margaret กำลังอุ้มลูกสาวตัวน้อยที่ติดโบว์สวยงามบนผม เธอกำลังร้องเพลงกล่อมและจูบที่หน้าผากของลูก "You are my sunshine you make me happy when skies are grey" แม่รักลูกนะจ๊ะสาวน้อย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097525008130338816/img/dP8emwKiN0bPFPjb.jpg" width="600" alt="แม่ร้องเพลงกล่อมลูกน้อย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10607)**
-
-**Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2193,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T04:33:15.897Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T13:46:09.390Z</sub>
 
 </div>

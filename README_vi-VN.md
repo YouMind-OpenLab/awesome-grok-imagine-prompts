@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2870** |
+| 📝 Total Prompts | **2874** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-23** |
 
@@ -189,6 +189,50 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Ban nhạc Mèo Rock Nhân hóa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hướng dẫn tạo video toàn diện cho Grok Imagine, mô tả ba chú mèo nhân hóa biểu diễn nhạc rock trong một câu lạc bộ phát quang. Bao gồm các chỉ dẫn cụ thể về ánh sáng, chuyển động và đồng bộ âm thanh-hình ảnh.
+
+#### 📝 Prompt
+
+```
+Tạo một video liên tục về ban nhạc mèo rock nhân hóa đang biểu diễn trực tiếp một bài hát bằng tiếng Anh. Tâm trạng mang tính tâm lý và phát quang.
+
+Ba chú mèo nhân hóa đứng như một ban nhạc rock trên một sân khấu nhỏ được nâng cao. Chúng giữ nguyên đầu mèo, tai, lông và đuôi trong khi mặc trang phục rock và cầm nhạc cụ. Chúng biểu diễn cùng nhau như một nhóm thống nhất.
+
+Ở phần đầu, những chú mèo hướng về phía khán giả trong một câu lạc bộ tối, phát quang: những ánh sáng xanh lục-xanh cyan dịu nhẹ nhấp nháy trên bộ lông, nhạc cụ và không khí xung quanh chúng. Chú mèo chính bước đến micro trung tâm và bắt đầu hát rõ ràng bằng tiếng Anh trong khi hai chú còn lại chơi guitar và trống đồng bộ. Miệng của chúng cử động theo lời bài hát tiếng Anh, đôi mắt dữ dội và hơi hoang dã, cơ thể lắc lư theo nhịp điệu. Những vệt sáng và ánh hào quang phát quang mạnh mẽ hơn xung quanh chúng khi màn trình diễn dâng cao. Ở cuối, chúng giữ nốt nhạc cuối cùng và tạo dáng cùng nhau dưới ánh đèn rực rỡ.
+
+Giữ nguyên hình tượng những chú mèo rocker nhân hóa hoàn toàn, việc hát bằng tiếng Anh, bầu không khí tâm lý-phát quang và màn trình diễn liên tục của ban nhạc ổn định xuyên suốt. Không có phụ đề xuất hiện trên màn hình.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="Ban nhạc Mèo Rock Nhân hóa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### Gợi ý hình ảnh Grok Imagine cho cảnh máng chim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý chi tiết cho Grok Imagine mô tả những chú chim tại máng ăn với chuông gió màu opal.
+
+#### 📝 Prompt
+
+```
+Những chú chim hót líu lo bên máng thức ăn, một chiếc chuông gió được treo duyên dáng từ máng, gồm nhiều bánh răng có màu sắc của đá opal.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="Gợi ý hình ảnh Grok Imagine cho cảnh máng chim">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11178)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **Published:** Sep 22, 2026
+
+---
 ### Gợi ý hình ảnh Grok cho hoạt ảnh quét khuôn mặt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,6 +271,25 @@ cảnh liền mạch tiếp tục, thêm các người mẫu mặc trang phục 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **Published:** Sep 22, 2026
 
 ---
+### POV Walking Feet Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex video prompt describing a POV sequence of feet walking, switching perspectives every two seconds.
+
+#### 📝 Prompt
+
+```
+POV models feet, shoes walking in exact same direction, one set of feet per 2 seconds, pov trades between perspectives, camera is always seeing own shoes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102236673941680130/img/G387hSVEXsXhPeGf.jpg" width="600" alt="POV Walking Feet Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11179)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **Published:** Sep 22, 2026
+
+---
 ### Prompt Video Evil King Crown
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +326,25 @@ Hãy tạo một Grok khổng lồ thò đầu qua những đám mây và nói �
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11148)**
 
 **Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
+
+---
+### Mèo con và Cá vàng trên bầu trời
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video siêu thực với hình ảnh những chú mèo Xiêm chơi đùa trên cỏ cùng cá vàng bơi lội giữa bầu trời.
+
+#### 📝 Prompt
+
+```
+Ánh nắng hoàng hôn vàng óng, cánh đồng ngô làm nền, sân cỏ xanh mướt. Những chú mèo Xiêm vui chơi trên bãi cỏ dưới bầu trời trong xanh. Cá vàng vây dài nhẹ nhàng bơi ngang qua bầu trời, vây vươn dài như những dải lụa bay phất phới.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102199376206761984/img/Fh5RbZzh--nCL2YN.jpg" width="600" alt="Mèo con và Cá vàng trên bầu trời">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11180)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102199438509068455) | **Published:** Sep 22, 2026
 
 ---
 ### Prompt Video Chạy Xe Máy Chân Thực Như Ảnh
@@ -2050,83 +2132,6 @@ Người phụ nữ chân thực mặc áo mưa đen đứng dưới mưa lớn 
 **Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
 
 ---
-### Lái xe Tesla tương lai trong thành phố lúc hoàng hôn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh chi tiết cho chiếc Tesla màu đen đang lái mượt mà qua một thành phố hiện đại vào thời điểm hoàng hôn.
-
-#### 📝 Prompt
-
-```
-Một chiếc xe điện Tesla màu đen bóng bẩy lái mượt mà dọc theo con đường thành phố hiện đại vào lúc hoàng hôn, lướt qua các tòa nhà bằng kính và đèn đường với những phản chiếu tinh tế trên thân xe.
-Hình ảnh mang phong cách điện ảnh tương lai, sạch sẽ với tông màu xanh lam dịu nhẹ của buổi hoàng hôn...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097579905408249856/img/pmhkH2vpw3CXMEIN.jpg" width="600" alt="Lái xe Tesla tương lai trong thành phố lúc hoàng hôn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10593)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097580043748639150) | **Published:** Sep 9, 2026
-
----
-### Video Marty McFly mặc áo đấu bóng bầu dục Michigan
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo một video về nhân vật Marty McFly bước vào cỗ máy thời gian khi đang mặc một chiếc áo đấu bóng bầu dục đại học cụ thể.
-
-#### 📝 Prompt
-
-```
-Một video về Marty McFly đang bước vào cỗ máy thời gian và mặc một chiếc áo đấu bóng bầu dục Michigan
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097573779136487424/img/sImhXvEGftCvcEKb.jpg" width="600" alt="Video Marty McFly mặc áo đấu bóng bầu dục Michigan">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10679)**
-
-**Author:** [David Kowalski](https://x.com/DavidKow1963) | **Source:** [Link](https://x.com/DavidKow1963/status/2097573794810376639) | **Published:** Sep 9, 2026
-
----
-### Cảnh quay cô gái tóc vàng thanh lịch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một chỉ dẫn điện ảnh chi tiết, trong đó một phụ nữ mặc áo choàng bước vào phòng từ phía bên phải, đi đến ghế sofa, nhìn ra ngoài cửa sổ và nghỉ ngơi.
-
-#### 📝 Prompt
-
-```
-Cô gái tóc vàng thanh lịch mặc áo choàng bước vào cảnh quay từ phía bên phải, nằm xuống ghế sofa để nhìn ra ngoài cửa sổ và chợp mắt....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097547047041900544/img/lRgtZ_wWvMOXWqHz.jpg" width="600" alt="Cảnh quay cô gái tóc vàng thanh lịch">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10603)**
-
-**Author:** [Mon Soleil LLC 🇺🇸](https://x.com/MonSoleilLLC) | **Source:** [Link](https://x.com/MonSoleilLLC/status/2097547084182560899) | **Published:** Sep 9, 2026
-
----
-### Mẹ hát ru con
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đầy cảm xúc mô tả cảnh người mẹ đang hát ru và hôn lên trán con gái nhỏ của mình.
-
-#### 📝 Prompt
-
-```
-Margaret đang bế con gái nhỏ với chiếc nơ xinh xắn trên tóc. Cô ấy đang hát ru. Hôn lên trán bé. You are my sunshine you make me happy when skies are grey. Mẹ yêu con, cô gái nhỏ của mẹ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097525008130338816/img/dP8emwKiN0bPFPjb.jpg" width="600" alt="Mẹ hát ru con">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10607)**
-
-**Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2193,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T04:33:17.279Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T13:46:10.382Z</sub>
 
 </div>

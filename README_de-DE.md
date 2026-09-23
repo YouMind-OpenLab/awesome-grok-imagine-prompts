@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2870** |
+| 📝 Total Prompts | **2874** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-23** |
 
@@ -189,6 +189,50 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Anthropomorphe Rocker-Katzen-Band
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender Video-Generierungs-Prompt für Grok Imagine, der drei anthropomorphe Katzen zeigt, die in einem phosphoreszierenden Club Rockmusik spielen. Enthält spezifische Anweisungen zu Beleuchtung, Bewegung und Audio-Video-Synchronisation.
+
+#### 📝 Prompt
+
+```
+Erstelle ein durchgehendes Video von anthropomorphen Rocker-Katzen, die einen Live-Song auf Englisch performen. Die Stimmung ist psychologisch und phosphoreszierend.
+
+Drei anthropomorphe Katzen stehen als Rockband auf einer kleinen erhöhten Bühne. Sie behalten ihre Katzenköpfe, Ohren, Felle und Schwänze bei, tragen jedoch Rockkleidung und halten Instrumente. Sie treten gemeinsam als eine Gruppe auf.
+
+Zu Beginn blicken die Katzen in einen gedimmten, phosphoreszierenden Club: Weiche grün-türkise Glanzlichter pulsieren über ihr Fell, ihre Instrumente und die Luft um sie herum. Die Lead-Katze tritt zum zentralen Mikrofon und beginnt, klar auf Englisch zu singen, während die anderen beiden synchron Gitarre und Schlagzeug spielen. Ihre Münder bewegen sich mit den englischen Texten, ihre Augen sind intensiv und leicht wild, ihre Körper wiegen sich im Takt. Phosphoreszierende Lichtspuren und Glanzlichter verstärken sich um sie herum, wenn die Performance an Intensität gewinnt. Am Ende halten sie den letzten Ton und posieren gemeinsam unter den leuchtenden Lichtern.
+
+Halte die Katzen vollständig als anthropomorphe Rocker, den Gesang auf Englisch, die psychologisch-phosphoreszierende Atmosphäre und die kontinuierliche Bandperformance stabil throughout. Es erscheinen keine Untertitel auf dem Bildschirm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="Anthropomorphe Rocker-Katzen-Band">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### Grok Imagine Prompt für Vogelhäuschen-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für Grok Imagine, der Vögel an einem Futterhäuschen mit opalfarbenen Windspiel-Glocken beschreibt.
+
+#### 📝 Prompt
+
+```
+Singvögel an einem Futterhäuschen. Ein bezauberndes Windspiel hängt am Häuschen und besteht aus einer Reihe von Zahnrädern in Opalfarbe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="Grok Imagine Prompt für Vogelhäuschen-Szene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11178)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **Published:** Sep 22, 2026
+
+---
 ### Grok Imagine Video-Prompt für Gesichts-Scan-Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,6 +271,25 @@ Nahtlose Szene wird fortgesetzt, füge Models hinzu, die futuristische Kleidung 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **Published:** Sep 22, 2026
 
 ---
+### POV-Gehfußvideo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer Video-Prompt, der eine POV-Sequenz von gehenden Füßen beschreibt, bei der die Perspektive alle zwei Sekunden wechselt.
+
+#### 📝 Prompt
+
+```
+POV-Modelle mit Füßen und Schuhen, die in exakt dieselbe Richtung gehen, ein Paar Füße pro 2 Sekunden, POV wechselt zwischen den Perspektiven, die Kamera sieht immer nur die eigenen Schuhe
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102236673941680130/img/G387hSVEXsXhPeGf.jpg" width="600" alt="POV-Gehfußvideo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11179)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **Published:** Sep 22, 2026
+
+---
 ### Video-Prompt: Böser König mit Krone
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +326,25 @@ Lass einen riesigen Grok seinen Kopf durch die Wolken stecken und sagen: „Lass
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11148)**
 
 **Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
+
+---
+### Kätzchen und Goldfische am Himmel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein surrealer Video-Prompt, der siamesische Kätzchen zeigt, die im Gras spielen, während Goldfische durch den Himmel schwimmen.
+
+#### 📝 Prompt
+
+```
+Sonnenuntergang goldenes Sonnenlicht Maisfeld im Hintergrund Grashof siamesische Kätzchen spielen im Gras blauer Himmel langflossige Goldfische schwimmen sanft durch den Himmel mit Flossen wie fließende Bänder
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102199376206761984/img/Fh5RbZzh--nCL2YN.jpg" width="600" alt="Kätzchen und Goldfische am Himmel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11180)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102199438509068455) | **Published:** Sep 22, 2026
 
 ---
 ### Prompt für fotorealistisches Motorrad-Fahrvideo
@@ -2050,83 +2132,6 @@ Fotorealistische Frau in einem schwarzen Regenmantel, die bei starkem Regen in e
 **Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
 
 ---
-### Futuristische Tesla-Fahrt durch die Stadt in der Dämmerung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter cineastischer Prompt für einen schwarzen Tesla, der sanft durch eine moderne Stadt zur blauen Stunde fährt.
-
-#### 📝 Prompt
-
-```
-Ein eleganter, schwarzer Tesla fährt sanft eine moderne Stadtstraße entlang, während die Dämmerung einsetzt. Das Fahrzeug gleitet an gläsernen Gebäuden und Straßenlaternen vorbei, wobei sich die Lichter dezent auf der Karosserie spiegeln.
-Die Optik besticht durch einen klaren, futuristischen und cineastischen Stil in den kühlen Tönen der blauen Stunde...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097579905408249856/img/pmhkH2vpw3CXMEIN.jpg" width="600" alt="Futuristische Tesla-Fahrt durch die Stadt in der Dämmerung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10593)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097580043748639150) | **Published:** Sep 9, 2026
-
----
-### Marty McFly Michigan Football Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Erzeugt ein Video, in dem die Figur Marty McFly in eine Zeitmaschine steigt und dabei ein spezielles College-Football-Trikot trägt.
-
-#### 📝 Prompt
-
-```
-Ein Video von Marty McFly, wie er in eine Zeitmaschine steigt und ein Michigan-Football-Trikot trägt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097573779136487424/img/sImhXvEGftCvcEKb.jpg" width="600" alt="Marty McFly Michigan Football Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10679)**
-
-**Author:** [David Kowalski](https://x.com/DavidKow1963) | **Source:** [Link](https://x.com/DavidKow1963/status/2097573794810376639) | **Published:** Sep 9, 2026
-
----
-### Elegante blonde Frau beim Nickerchen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine hochdetaillierte filmische Anweisung, bei der eine Frau in einem Morgenmantel von rechts den Raum betritt, zum Sofa geht, aus dem Fenster schaut und sich ausruht.
-
-#### 📝 Prompt
-
-```
-Eine elegante blonde Frau im Morgenmantel betritt die Szene von der rechten Seite, legt sich auf das Sofa, schaut aus dem Fenster und macht ein Nickerchen...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097547047041900544/img/lRgtZ_wWvMOXWqHz.jpg" width="600" alt="Elegante blonde Frau beim Nickerchen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10603)**
-
-**Author:** [Mon Soleil LLC 🇺🇸](https://x.com/MonSoleilLLC) | **Source:** [Link](https://x.com/MonSoleilLLC/status/2097547084182560899) | **Published:** Sep 9, 2026
-
----
-### Mutter singt ihrem Baby ein Schlaflied vor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein herzerwärmender Prompt zur Videogenerierung, der eine Mutter beschreibt, die ihrem kleinen Mädchen ein Schlaflied vorsingt und es küsst.
-
-#### 📝 Prompt
-
-```
-Margaret hält ihr kleines Mädchen mit einer hübschen Schleife im Haar im Arm. Sie singt ein Schlaflied. Ein Kuss auf die Stirn. Du bist mein Sonnenschein, du machst mich glücklich, wenn der Himmel grau ist. Ich liebe dich, mein kleines Mädchen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097525008130338816/img/dP8emwKiN0bPFPjb.jpg" width="600" alt="Mutter singt ihrem Baby ein Schlaflied vor">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10607)**
-
-**Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2193,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T04:33:21.974Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T13:46:14.986Z</sub>
 
 </div>

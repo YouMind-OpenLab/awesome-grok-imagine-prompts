@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2870** |
+| 📝 Total Prompts | **2874** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-23** |
 
@@ -189,6 +189,50 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Anthropomorphic Rocker Cats Band
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive video generation prompt for Grok Imagine featuring three anthropomorphic cats performing rock music in a phosphorescent club. Includes specific instructions on lighting, movement, and audio-visual sync.
+
+#### 📝 Prompt
+
+```
+Generate a continuous video of anthropomorphic rocker cats performing a live song in English. The mood is psychological and phosphorescent.
+
+Three anthropomorphic cats stand as a rock band on a small elevated stage. They retain cat heads, ears, fur, and tails while wearing rock clothing and holding instruments. They perform together as a single group.
+
+At the start, the cats face the audience in a dim, phosphorescent club: soft green-cyan glows pulse across their fur, instruments, and the air around them. The lead cat steps to the center microphone and begins singing clearly in English while the other two play guitar and drums in sync. Their mouths move with the English lyrics, eyes intense and slightly wild, bodies rocking with the beat. Phosphorescent light trails and glows intensify around them as the performance builds. At the end, they hold the final note and pose together under the glowing lights.
+
+Keep the cats fully anthropomorphic rockers, the English singing, the psychological-phosphorescent atmosphere, and the continuous band performance stable throughout. No subtitles appear on screen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="Anthropomorphic Rocker Cats Band">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### Grok Imagine Prompt for Bird Feeder Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for Grok Imagine describing birds at a feeder with opal-colored wind chimes.
+
+#### 📝 Prompt
+
+```
+Song birds at a bird feeder winsome hangs from bird feeder wind chime is a series of opal colored gears
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="Grok Imagine Prompt for Bird Feeder Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11178)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **Published:** Sep 22, 2026
+
+---
 ### Grok Imagine Video Prompt for Face Scan Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,6 +271,25 @@ seamless scene continues, add models wearing futuristic attire in bright varieti
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **Published:** Sep 22, 2026
 
 ---
+### POV Walking Feet Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex video prompt describing a POV sequence of feet walking, switching perspectives every two seconds.
+
+#### 📝 Prompt
+
+```
+POV models feet, shoes walking in exact same direction, one set of feet per 2 seconds, pov trades between perspectives, camera is always seeing own shoes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102236673941680130/img/G387hSVEXsXhPeGf.jpg" width="600" alt="POV Walking Feet Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11179)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **Published:** Sep 22, 2026
+
+---
 ### Evil King Crown Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +326,25 @@ Let’s make a huge Grok stick it’s head through clouds and say “ let’s di
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11148)**
 
 **Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
+
+---
+### Kittens and Goldfish Sky
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal video prompt featuring Siamese kittens playing in grass with goldfish swimming through the sky.
+
+#### 📝 Prompt
+
+```
+Sunset golden sunshine corn field in background grass yard Siamese kittens playing in grass blue sky long finned goldfish gently swimming across sky with fins extended longer like flowing ribbons
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102199376206761984/img/Fh5RbZzh--nCL2YN.jpg" width="600" alt="Kittens and Goldfish Sky">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11180)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102199438509068455) | **Published:** Sep 22, 2026
 
 ---
 ### Photorealistic Motorcycle Ride Video Prompt
@@ -763,19 +845,19 @@ The horse and rider walk slowly toward the mosque. The robe and horse’s mane m
 **Author:** [Dame](https://x.com/Damesall313) | **Source:** [Link](https://x.com/Damesall313/status/2100702458171293763) | **Published:** Sep 17, 2026
 
 ---
-### Centaur Transformation Prompt
+### Grok Imagine Prompt: Character Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A specific video generation prompt for Grok Imagine describing a character transforming into a centaur-like creature with hooves and a tail.
+> A video prompt describing a character transforming into a horse-like creature with hooves and a tail while flexing.
 
 #### 📝 Prompt
 
 ```
-Make him flex and bray as he gets down on all fours, with hooves appearing and a tail popping out of his shorts as he goes down on all fours.
+Make him flex and bray as he get down on all fours as hooves for and a tail pops out of his shorts as he down on all fours
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100557315292147712/img/NL6bqOR_GoRlzjYG.jpg" width="600" alt="Centaur Transformation Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100557315292147712/img/NL6bqOR_GoRlzjYG.jpg" width="600" alt="Grok Imagine Prompt: Character Transformation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11048)**
 
@@ -2047,83 +2129,6 @@ Photoreal woman in a black raincoat standing in heavy rain in a forest. She open
 **Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
 
 ---
-### Futuristic Tesla City Dusk Drive
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt for a black Tesla driving smoothly through a modern city at blue hour dusk.
-
-#### 📝 Prompt
-
-```
-A sleek black Tesla electric car drives smoothly along a modern city road at dusk, gliding past glass buildings and streetlights with subtle reflections on its body panels.
-The visuals present a clean, futuristic cinematic style with cool blue-hour t...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097579905408249856/img/pmhkH2vpw3CXMEIN.jpg" width="600" alt="Futuristic Tesla City Dusk Drive">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10593)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097580043748639150) | **Published:** Sep 9, 2026
-
----
-### Marty McFly Michigan Football Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of the character Marty McFly entering a time machine while wearing a specific college football jersey.
-
-#### 📝 Prompt
-
-```
-A video Marty McFly, stepping into a Time Machine and he’s wearing a Michigan football jersey
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097573779136487424/img/sImhXvEGftCvcEKb.jpg" width="600" alt="Marty McFly Michigan Football Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10679)**
-
-**Author:** [David Kowalski](https://x.com/DavidKow1963) | **Source:** [Link](https://x.com/DavidKow1963/status/2097573794810376639) | **Published:** Sep 9, 2026
-
----
-### Sleek blonde nap scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic instruction where a female in a robe enters a room from the right, walks to the couch, looks outside the window, and rests.
-
-#### 📝 Prompt
-
-```
-Sleek blonde female in robe enters scene from the right side and lays on couch to look out the window and take a nap....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097547047041900544/img/lRgtZ_wWvMOXWqHz.jpg" width="600" alt="Sleek blonde nap scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10603)**
-
-**Author:** [Mon Soleil LLC 🇺🇸](https://x.com/MonSoleilLLC) | **Source:** [Link](https://x.com/MonSoleilLLC/status/2097547084182560899) | **Published:** Sep 9, 2026
-
----
-### Mother Singing Lullaby to Baby
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A heartwarming video generation prompt describing a mother singing a lullaby and kissing her baby girl.
-
-#### 📝 Prompt
-
-```
-Margaret holding her baby girl with a beautiful bow in her hair. Singing a lullaby. Kiss on her forehead. You are my sunshine you make me happy when skies are grey. I love you baby girl.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097525008130338816/img/dP8emwKiN0bPFPjb.jpg" width="600" alt="Mother Singing Lullaby to Baby">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10607)**
-
-**Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2185,6 +2190,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T04:33:09.245Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T13:46:03.778Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2870** |
+| 📝 Total Prompts | **2874** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-23** |
 
@@ -189,6 +189,50 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### एन्थ्रोपोमॉर्फिक रॉकर कैट्स बैंड
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ग्रोक इमेजिन के लिए एक व्यापक वीडियो जनरेशन प्रॉम्प्ट जिसमें तीन एन्थ्रोपोमॉर्फिक बिल्लियाँ फॉस्फोरसेंट क्लब में रॉक संगीत प्रस्तुत कर रही हैं। इसमें लाइटिंग, मूवमेंट और ऑडियो-विज़ुअल सिंक पर विशिष्ट निर्देश शामिल हैं।
+
+#### 📝 Prompt
+
+```
+अंग्रेजी में एक लाइव गाना प्रस्तुत करते हुए एन्थ्रोपोमॉर्फिक रॉकर बिल्लियों का एक निरंतर वीडियो जनरेट करें। माहौल मनोवैज्ञानिक और फॉस्फोरसेंट होना चाहिए।
+
+तीन एन्थ्रोपोमॉर्फिक बिल्लियाँ एक छोटे ऊंचे मंच पर रॉक बैंड के रूप में खड़ी हैं। वे अपने बिल्ली वाले सिर, कान, फर और पूंछ को बनाए रखते हुए रॉक कपड़े पहने हैं और वाद्य यंत्र पकड़े हुए हैं। वे एक समूह के रूप में साथ मिलकर प्रस्तुति दे रहे हैं।
+
+शुरुआत में, बिल्लियाँ एक धुंधले, फॉस्फोरसेंट क्लब में दर्शकों की ओर मुंह करके खड़ी हैं: हल्की हरी-सियान चमक उनके फर, वाद्य यंत्रों और उनके आसपास की हवा में फैलती है। लीड बिल्ली केंद्र में माइक्रोफोन के पास जाती है और अंग्रेजी में स्पष्ट रूप से गाती शुरू करती है, जबकि अन्य दो बिल्लियाँ तालमेल बिठाकर गिटार और ड्रम बजाती हैं। उनके मुंह अंग्रेजी गीतों के साथ चलते हैं, उनकी आँखें तीव्र और थोड़ी जंगली होती हैं, और उनके शरीर बीट के साथ झूलते हैं। जैसे-जैसे प्रस्तुति बढ़ती है, उनके आसपास फॉस्फोरसेंट लाइट ट्रेल्स और चमक तेज होती जाती है। अंत में, वे अंतिम स्वर को बनाए रखते हैं और चमकती रोशनी में एक साथ पोज़ देते हैं।
+
+बिल्लियों को पूरी तरह से एन्थ्रोपोमॉर्फिक रॉकर, अंग्रेजी में गायन, मनोवैज्ञानिक-फॉस्फोरसेंट माहौल और निरंतर बैंड प्रस्तुति को स्थिर रखें। स्क्रीन पर कोई सबटाइटल नहीं दिखना चाहिए।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="एन्थ्रोपोमॉर्फिक रॉकर कैट्स बैंड">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### बर्ड फीडर दृश्य के लिए Grok Imagine प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक विस्तृत प्रॉम्प्ट जो बर्ड फीडर पर बैठे पक्षियों और ओपल रंग की विंड चाइम्स का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+बर्ड फीडर पर गाने वाले पक्षी, आकर्षक ढंग से लटकी हुई विंड चाइम जो ओपल रंग के गियर जैसी दिखती हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="बर्ड फीडर दृश्य के लिए Grok Imagine प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11178)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **Published:** Sep 22, 2026
+
+---
 ### Grok Imagine वीडियो प्रॉम्प्ट फेस स्कैन एनिमेशन के लिए
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,6 +271,25 @@ Why use our gallery?
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **Published:** Sep 22, 2026
 
 ---
+### POV चलते हुए पैरों का वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जटिल वीडियो प्रॉम्प्ट जो POV अनुक्रम का वर्णन करता है जिसमें पैर चल रहे हैं, और हर दो सेकंड में दृष्टिकोण बदल रहा है।
+
+#### 📝 Prompt
+
+```
+POV मॉडल्स के पैर, जूते बिल्कुल उसी दिशा में चल रहे हैं, हर 2 सेकंड में एक सेट पैर, POV दृष्टिकोणों के बीच बदलता है, कैमरा हमेशा अपने ही जूतों को देख रहा है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102236673941680130/img/G387hSVEXsXhPeGf.jpg" width="600" alt="POV चलते हुए पैरों का वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11179)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **Published:** Sep 22, 2026
+
+---
 ### Evil King Crown Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +326,25 @@ Make a video of him standing. The crown descends and it’s placed on his head. 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11148)**
 
 **Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
+
+---
+### बिल्लियाँ और आकाश में सोने की मछलियाँ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अवास्तविक वीडियो प्रॉम्प्ट जिसमें श्याम बिल्लियाँ घास में खेल रही हैं और आकाश में सोने की मछलियाँ तैर रही हैं।
+
+#### 📝 Prompt
+
+```
+सूर्यास्त की सुनहरी धूप, पृष्ठभूमि में मक्का का खेत, घास का मैदान, श्याम बिल्लियाँ घास में खेल रही हैं, नीला आकाश, लंबे पंखों वाली सोने की मछलियाँ आकाश में धीरे-धीरे तैर रही हैं, उनके पंख बहती हुई रिबन की तरह लंबे फैले हुए हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102199376206761984/img/Fh5RbZzh--nCL2YN.jpg" width="600" alt="बिल्लियाँ और आकाश में सोने की मछलियाँ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11180)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102199438509068455) | **Published:** Sep 22, 2026
 
 ---
 ### फोटोरियलिस्टिक मोटरसाइकिल राइड वीडियो प्रॉम्प्ट
@@ -2050,83 +2132,6 @@ Photoreal woman in a black raincoat standing in heavy rain in a forest. She open
 **Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
 
 ---
-### भविष्यवादी टेस्ला सिटी डस्क ड्राइव
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ब्लू ऑवर के समय एक आधुनिक शहर में सुचारू रूप से चलती काली टेस्ला कार के लिए एक विस्तृत सिनेमैटिक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक आकर्षक काली टेस्ला इलेक्ट्रिक कार शाम के समय आधुनिक शहर की सड़क पर सुचारू रूप से चल रही है, जो कांच की इमारतों और स्ट्रीटलाइट्स के पास से गुजरते हुए अपनी बॉडी पैनल पर हल्की चमक बिखेर रही है।
-विजुअल्स एक साफ, भविष्यवादी सिनेमैटिक शैली प्रस्तुत करते हैं जिसमें कूल ब्लू-ऑवर का अहसास है...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097579905408249856/img/pmhkH2vpw3CXMEIN.jpg" width="600" alt="भविष्यवादी टेस्ला सिटी डस्क ड्राइव">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10593)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097580043748639150) | **Published:** Sep 9, 2026
-
----
-### Marty McFly Michigan Football वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Marty McFly नामक पात्र का एक वीडियो बनाता है जिसमें वह एक विशेष कॉलेज फुटबॉल जर्सी पहनकर टाइम मशीन में प्रवेश करता है।
-
-#### 📝 Prompt
-
-```
-Marty McFly का एक वीडियो, जिसमें वह टाइम मशीन में कदम रख रहा है और उसने Michigan फुटबॉल जर्सी पहनी हुई है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097573779136487424/img/sImhXvEGftCvcEKb.jpg" width="600" alt="Marty McFly Michigan Football वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10679)**
-
-**Author:** [David Kowalski](https://x.com/DavidKow1963) | **Source:** [Link](https://x.com/DavidKow1963/status/2097573794810376639) | **Published:** Sep 9, 2026
-
----
-### सुंदर सुनहरे बालों वाली महिला का विश्राम दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अत्यधिक विस्तृत सिनेमाई निर्देश जिसमें एक महिला रोब पहने हुए दाईं ओर से कमरे में प्रवेश करती है, सोफे की ओर चलती है, खिड़की के बाहर देखती है और आराम करती है।
-
-#### 📝 Prompt
-
-```
-रोब पहने हुए सुंदर सुनहरे बालों वाली महिला दाईं ओर से दृश्य में प्रवेश करती है और खिड़की के बाहर देखने और झपकी लेने के लिए सोफे पर लेट जाती है....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097547047041900544/img/lRgtZ_wWvMOXWqHz.jpg" width="600" alt="सुंदर सुनहरे बालों वाली महिला का विश्राम दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10603)**
-
-**Author:** [Mon Soleil LLC 🇺🇸](https://x.com/MonSoleilLLC) | **Source:** [Link](https://x.com/MonSoleilLLC/status/2097547084182560899) | **Published:** Sep 9, 2026
-
----
-### माँ का बच्चे को लोरी सुनाना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक दिल को छू लेने वाला वीडियो जनरेशन प्रॉम्प्ट, जिसमें एक माँ अपने बच्चे को लोरी सुना रही है और उसे चूम रही है।
-
-#### 📝 Prompt
-
-```
-मार्गरेट ने अपनी बच्ची को गोद में लिया है, जिसके बालों में एक सुंदर बो लगा है। वह लोरी गा रही है। उसके माथे पर चूमती है। 'यू आर माई सनशाइन, यू मेक मी हैप्पी व्हेन स्काइज आर ग्रे।' मैं तुमसे बहुत प्यार करती हूँ मेरी प्यारी बच्ची।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097525008130338816/img/dP8emwKiN0bPFPjb.jpg" width="600" alt="माँ का बच्चे को लोरी सुनाना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10607)**
-
-**Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2193,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T04:33:18.467Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T13:46:11.375Z</sub>
 
 </div>

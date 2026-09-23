@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2870** |
+| 📝 プロンプト総数 | **2874** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-23** |
 
@@ -189,6 +189,50 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 擬人化ロッカー猫バンド
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用の包括的な動画生成プロンプト。リン光するクラブでロック音楽を演奏する3匹の擬人化された猫が登場します。照明、動き、音声と映像の同期に関する具体的な指示が含まれています。
+
+#### 📝 プロンプト
+
+```
+英語でライブ曲を演奏する擬人化ロッカー猫の連続動画を生成してください。雰囲気は心理的でリン光しています。
+
+3匹の擬人化された猫が、小さな高台ステージ上でロックバンドとして立っています。頭、耳、毛皮、尻尾は猫のままですが、ロックファッションを着用し、楽器を持っています。彼らは一つのグループとして一緒に演奏します。
+
+開始時、猫たちは薄暗くリン光するクラブ内で観客に向き合っています。緑青色の柔らかな光が、彼らの毛皮、楽器、周囲の空気全体に脈打つように広がります。リードボーカルを務める猫がセンターマイクに進み、他の2匹がギターとドラムを同期して演奏しながら、英語で明確に歌い始めます。口は英語の歌詞に合わせて動き、目は鋭く少し野生味があり、体はビートに合わせて揺れます。パフォーマンスが高まるにつれ、周囲のリン光の軌跡や輝きが増していきます。最後には、最後の音を保持し、輝くライトの下でポーズを決めます。
+
+猫たちが完全に擬人化されたロッカーであること、英語での歌唱、心理的かつリン光的な雰囲気、そしてバンドとしての連続的なパフォーマンスを一貫して維持してください。画面に字幕は表示しません。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="擬人化ロッカー猫バンド">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11181)**
+
+**作者:** [MYS AI](https://x.com/mys1111) | **ソース:** [Link](https://x.com/mys1111/status/2102511636175073310) | **公開日:** Sep 22, 2026
+
+---
+### Grok Imagine プロンプト：鳥の餌やり場のシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> オパール色の風鈴が飾られた鳥の餌台にいる鳥たちを描写する、Grok Imagine 用の詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+鳥の餌台で歌う小鳥たち。餌台から吊るされた風鈴は、オパール色に輝く一連の歯車のようなデザインです。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="Grok Imagine プロンプト：鳥の餌やり場のシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11178)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **公開日:** Sep 22, 2026
+
+---
 ### Grok Imagine 顔スキャンアニメーション用ビデオプロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,6 +271,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **公開日:** Sep 22, 2026
 
 ---
+### POV 足元歩き動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 2 秒ごとに視点を切り替える、足元の POV シーケンスを描写した複雑な動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+POV モデルの足元、靴が完全に同じ方向へ歩行、2 秒ごとに 1 セットの足元、視点間での POv の切り替え、カメラは常に自分の靴を見ている
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102236673941680130/img/G387hSVEXsXhPeGf.jpg" width="600" alt="POV 足元歩き動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11179)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **公開日:** Sep 22, 2026
+
+---
 ### 邪悪な王の戴冠ビデオプロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +326,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11148)**
 
 **作者:** [Mark Tatum](https://x.com/Mark561256) | **ソース:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **公開日:** Sep 22, 2026
+
+---
+### 子猫と金魚の空
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> シャムネコが芝生で遊び、金魚が空を泳ぐというシュールなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+夕暮れの黄金色の陽光、背景にはトウモロコシ畑と芝生の庭。青い空の下、シャムネコが芝生で遊んでいる。長いヒレを持つ金魚が、ヒレを流れるリボンのように長く伸ばしながら、空を優雅に泳いでいる。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102199376206761984/img/Fh5RbZzh--nCL2YN.jpg" width="600" alt="子猫と金魚の空">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11180)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2102199438509068455) | **公開日:** Sep 22, 2026
 
 ---
 ### 写実的なバイク走行動画のプロンプト
@@ -2049,83 +2131,6 @@ Negative: テキストなし、ロゴなし、透かしなし
 **作者:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **ソース:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **公開日:** Sep 9, 2026
 
 ---
-### 近未来的な都市を走る Tesla の夕暮れドライブ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ブルーアワーの夕暮れ時、現代的な都市をスムーズに走行する黒い Tesla を描くための詳細なシネマティックプロンプト。
-
-#### 📝 プロンプト
-
-```
-洗練された黒い Tesla の電気自動車が、夕暮れ時の現代的な都市の道路をスムーズに走行する様子。ガラス張りのビルや街灯のそばを滑るように走り抜け、車体にはかすかな反射が映り込んでいる。
-ビジュアルは、クールなブルーアワーのトーンを取り入れた、クリーンで近未来的なシネマティック・スタイルを表現している...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097579905408249856/img/pmhkH2vpw3CXMEIN.jpg" width="600" alt="近未来的な都市を走る Tesla の夕暮れドライブ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10593)**
-
-**作者:** [Jacek](https://x.com/iadventurejacek) | **ソース:** [Link](https://x.com/iadventurejacek/status/2097580043748639150) | **公開日:** Sep 9, 2026
-
----
-### Marty McFly の Michigan Football 動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 特定のカレッジフットボールのジャージを着てタイムマシンに乗り込む Marty McFly の動画を生成します。
-
-#### 📝 プロンプト
-
-```
-タイムマシンに乗り込む Marty McFly が Michigan のフットボールジャージを着ている動画
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097573779136487424/img/sImhXvEGftCvcEKb.jpg" width="600" alt="Marty McFly の Michigan Football 動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10679)**
-
-**作者:** [David Kowalski](https://x.com/DavidKow1963) | **ソース:** [Link](https://x.com/DavidKow1963/status/2097573794810376639) | **公開日:** Sep 9, 2026
-
----
-### ブロンド女性の優雅な休息シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ローブをまとった女性が右側から部屋に入り、ソファまで歩いて窓の外を眺め、休息をとるという、非常に詳細なシネマティックな指示。
-
-#### 📝 プロンプト
-
-```
-ローブをまとった優雅なブロンドの女性が右側から登場し、ソファに横たわって窓の外を眺めながらうたた寝をする……。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097547047041900544/img/lRgtZ_wWvMOXWqHz.jpg" width="600" alt="ブロンド女性の優雅な休息シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10603)**
-
-**作者:** [Mon Soleil LLC 🇺🇸](https://x.com/MonSoleilLLC) | **ソース:** [Link](https://x.com/MonSoleilLLC/status/2097547084182560899) | **公開日:** Sep 9, 2026
-
----
-### 子守唄を歌う母親
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 母親が子守唄を歌い、女の子の赤ちゃんにキスをする様子を描いた、心温まる動画生成用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-髪に美しいリボンをつけた女の子を抱くマーガレット。子守唄を歌っている。赤ちゃんの額にキスをする。「You are my sunshine, you make me happy when skies are grey（あなたは私の太陽、曇り空でも私を幸せにしてくれる）」。愛しているよ、私の小さな女の子。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097525008130338816/img/dP8emwKiN0bPFPjb.jpg" width="600" alt="子守唄を歌う母親">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10607)**
-
-**作者:** [Margaret Ford](https://x.com/Margaretfit08) | **ソース:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **公開日:** Sep 9, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2187,6 +2192,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-23T04:33:13.256Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-23T13:46:07.004Z</sub>
 
 </div>

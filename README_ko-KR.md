@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2870** |
+| 📝 총 프롬프트 수 | **2874** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-09-23** |
 
@@ -189,6 +189,50 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 인간화된 록 밴드 고양이
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 위한 포괄적인 영상 생성 프롬프트로, 형광빛 클럽에서 록 음악을 연주하는 세 마리의 인간화된 고양이를 묘사합니다. 조명, 움직임 및 오디오-비주얼 동기화에 대한 구체적인 지침이 포함되어 있습니다.
+
+#### 📝 프롬프트
+
+```
+영어 라이브 노래를 부르는 인간화된 록 밴드 고양이의 연속 영상을 생성하세요. 분위기는 심리적이며 형광빛으로 가득합니다.
+
+세 마리의 인간화된 고양이가 작은 무대 위에 서서 록 밴드를 구성합니다. 이들은 고양이 머리, 귀, 털, 꼬리를 유지하면서 록 의상을 입고 악기를 들고 있습니다. 하나의 그룹으로서 함께 공연합니다.
+
+시작 부분에서 고양이들은 어둡고 형광빛이 도는 클럽에서 관객을 마주하고 있습니다: 부드러운 청록색 빛이 털, 악기, 그리고 주변 공기를 통해 맥동합니다. 리드 보컬 고양이는 중앙 마이크 앞으로 나가 영어로 명확하게 노래하기 시작하며, 나머지 두 마리는 기타와 드럼을 연주하며 박자를 맞춥니다. 입술은 영어 가사에 맞춰 움직이고, 눈빛은 강렬하고 약간 야성적이며, 몸은 비트에 따라 흔들립니다. 공연이 고조됨에 따라 형광빛의 잔상과 발광 효과가 그들 주위에서 점점 더 강해집니다. 마지막에는 글로우 라이트 아래에서 최종 음을 유지하며 함께 포즈를 취합니다.
+
+고양이들이 완전히 인간화된 록 스타로 남아 있도록 하고, 영어 노래, 심리적이고 형광적인 분위기, 그리고 연속적인 밴드 공연이 전체적으로 안정적으로 유지되도록 하세요. 화면에는 자막이 표시되지 않습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="인간화된 록 밴드 고양이">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11181)**
+
+**작성자:** [MYS AI](https://x.com/mys1111) | **출처:** [Link](https://x.com/mys1111/status/2102511636175073310) | **게시일:** Sep 22, 2026
+
+---
+### 새 모이통 장면용 Grok Imagine 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 새 모이통에 있는 새들과 오팔 색상의 풍경을 묘사하는 상세한 Grok Imagine 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+새 모이통에서 지저귀는 새들, 모이통에 매달린 풍경은 오팔 색상의 기어(톱니바퀴)로 구성되어 있습니다
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="새 모이통 장면용 Grok Imagine 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11178)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **게시일:** Sep 22, 2026
+
+---
 ### Grok Imagine 얼굴 스캔 애니메이션용 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,6 +271,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **게시일:** Sep 22, 2026
 
 ---
+### POV 걷는 발 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 2초마다 시점을 전환하며 발이 걷는 모습을 묘사하는 복잡한 POV 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+POV 모델의 발, 신발이 정확히 같은 방향으로 걷고, 2초마다 한 쌍의 발을 보여주며, 시점이 전환되고 카메라는 항상 자신의 신발을 비춥니다
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102236673941680130/img/G387hSVEXsXhPeGf.jpg" width="600" alt="POV 걷는 발 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11179)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **게시일:** Sep 22, 2026
+
+---
 ### Evil King Crown Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +326,25 @@ Make a video of him standing. The crown descends and it’s placed on his head. 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11148)**
 
 **작성자:** [Mark Tatum](https://x.com/Mark561256) | **출처:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **게시일:** Sep 22, 2026
+
+---
+### 새끼 고양이와 하늘의 금붕어
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 잔디밭에서 노는 샴 새끼 고양이와 하늘을 헤엄치는 금붕어가 등장하는 초현실적인 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+노을 지는 황금빛 햇살이 비추는 배경의 옥수수밭과 잔디 마당, 푸른 하늘 아래서 잔디를 밟으며 노는 샴 새끼 고양이들. 긴 지느러미를 나부끼며 마치 흐르는 리본처럼 우아하게 하늘을 헤엄치는 금붕어
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102199376206761984/img/Fh5RbZzh--nCL2YN.jpg" width="600" alt="새끼 고양이와 하늘의 금붕어">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11180)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2102199438509068455) | **게시일:** Sep 22, 2026
 
 ---
 ### 사실적인 오토바이 주행 영상 프롬프트
@@ -2049,83 +2131,6 @@ Negative: 텍스트 없음, 로고 없음, 워터마크 없음
 **작성자:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **출처:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **게시일:** Sep 9, 2026
 
 ---
-### 미래지향적 Tesla 도시 야간 주행
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 블루 아워(blue hour)의 황혼 무렵, 현대적인 도시를 부드럽게 주행하는 검은색 Tesla를 위한 상세한 시네마틱 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-매끄러운 검은색 Tesla 전기차가 황혼 무렵 현대적인 도시 도로를 따라 부드럽게 주행하며, 차체 패널에 은은한 반사가 비치는 유리 건물과 가로등 사이를 미끄러지듯 지나갑니다.
-시각적 요소는 차분한 블루 아워의 느낌을 담아 깔끔하고 미래지향적인 시네마틱 스타일을 보여줍니다...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097579905408249856/img/pmhkH2vpw3CXMEIN.jpg" width="600" alt="미래지향적 Tesla 도시 야간 주행">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10593)**
-
-**작성자:** [Jacek](https://x.com/iadventurejacek) | **출처:** [Link](https://x.com/iadventurejacek/status/2097580043748639150) | **게시일:** Sep 9, 2026
-
----
-### Marty McFly 미시간 풋볼 비디오
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 특정 대학 풋볼 저지를 입고 타임머신에 탑승하는 Marty McFly 캐릭터의 비디오를 생성합니다.
-
-#### 📝 프롬프트
-
-```
-타임머신에 탑승하며 미시간 풋볼 저지를 입고 있는 Marty McFly의 비디오
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097573779136487424/img/sImhXvEGftCvcEKb.jpg" width="600" alt="Marty McFly 미시간 풋볼 비디오">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10679)**
-
-**작성자:** [David Kowalski](https://x.com/DavidKow1963) | **출처:** [Link](https://x.com/DavidKow1963/status/2097573794810376639) | **게시일:** Sep 9, 2026
-
----
-### 세련된 금발 여성의 낮잠 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 가운을 입은 여성이 오른쪽에서 방으로 들어와 소파로 걸어가 창밖을 바라본 뒤 휴식을 취하는 매우 상세한 영화적 연출입니다.
-
-#### 📝 프롬프트
-
-```
-세련된 금발의 여성이 가운을 입고 오른쪽에서 화면으로 들어와 소파에 누워 창밖을 바라보며 낮잠을 잡니다....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097547047041900544/img/lRgtZ_wWvMOXWqHz.jpg" width="600" alt="세련된 금발 여성의 낮잠 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10603)**
-
-**작성자:** [Mon Soleil LLC 🇺🇸](https://x.com/MonSoleilLLC) | **출처:** [Link](https://x.com/MonSoleilLLC/status/2097547084182560899) | **게시일:** Sep 9, 2026
-
----
-### 아기에게 자장가를 불러주는 엄마
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 엄마가 아기에게 자장가를 불러주고 이마에 입을 맞추는 모습을 묘사한 가슴 따뜻한 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-머리에 예쁜 리본을 단 아기를 안고 있는 마가렛. 자장가를 불러준다. 아기의 이마에 입을 맞춘다. 당신은 나의 햇살, 하늘이 흐릴 때 나를 행복하게 해 주네요. 사랑한다, 우리 아기.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097525008130338816/img/dP8emwKiN0bPFPjb.jpg" width="600" alt="아기에게 자장가를 불러주는 엄마">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=10607)**
-
-**작성자:** [Margaret Ford](https://x.com/Margaretfit08) | **출처:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **게시일:** Sep 9, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2187,6 +2192,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-23T04:33:14.593Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-23T13:46:08.364Z</sub>
 
 </div>

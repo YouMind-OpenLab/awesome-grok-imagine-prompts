@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2870** |
+| 📝 提示詞總數 | **2874** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-23** |
 
@@ -189,6 +189,50 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 擬人化搖滾貓咪樂團
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的完整影片生成提示，內容為三隻擬人化貓咪在磷光俱樂部中演奏搖滾音樂。包含關於燈光、動作及音畫同步的具體指示。
+
+#### 📝 提示詞
+
+```
+生成一段連續影片，內容為擬人化搖滾貓咪樂團以英文現場演唱歌曲。氛圍需呈現心理驚悚感與磷光效果。
+
+三隻擬人化貓咪作為搖滾樂團站在小型高台上。牠們保留貓頭、貓耳、皮毛和尾巴，同時身穿搖滾服飾並手持樂器。牠們作為一個整體共同表演。
+
+影片開始時，貓咪們面對觀眾，處於昏暗且充滿磷光的俱樂部中：柔和的青綠色光芒在牠們的皮毛、樂器及周圍空氣中脈動。主唱貓咪走到中央麥克風前，開始清晰地用英文演唱，另外兩隻貓咪則同步彈奏吉他和打鼓。牠們的嘴巴隨著英文歌詞開合，眼神強烈且略顯狂野，身體隨節奏搖擺。隨著表演推進，磷光軌跡與光芒在牠們周圍增強。影片結束時，牠們保持最後一個音符，並在發光燈下共同擺出姿勢。
+
+全程保持貓咪完全擬人化的搖滾風格、英文演唱、心理驚悚與磷光氛圍，以及連續穩定的樂團表演。螢幕上不出現字幕。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="擬人化搖滾貓咪樂團">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11181)**
+
+**作者:** [MYS AI](https://x.com/mys1111) | **來源:** [Link](https://x.com/mys1111/status/2102511636175073310) | **發布時間:** Sep 22, 2026
+
+---
+### Grok Imagine 鳥食槽場景提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的詳細提示詞，描繪鳥食槽旁的鳥兒與蛋白色風鈴。
+
+#### 📝 提示詞
+
+```
+鳥食槽旁鳴叫的鳥兒，懸掛在鳥食槽上的風鈴是一串蛋白色的齒輪
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="Grok Imagine 鳥食槽場景提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11178)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **發布時間:** Sep 22, 2026
+
+---
 ### Grok Imagine 人臉掃描動畫影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,6 +271,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **發布時間:** Sep 22, 2026
 
 ---
+### POV 行走雙腳影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個複雜的影片提示詞，描述 POV 視角下雙腳行走的連續畫面，每兩秒切換一次視角。
+
+#### 📝 提示詞
+
+```
+POV 模型雙腳與鞋子朝完全相同的方向行走，每 2 秒一組雙腳，POV 在不同視角間切換，鏡頭始終看見自己的鞋子
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102236673941680130/img/G387hSVEXsXhPeGf.jpg" width="600" alt="POV 行走雙腳影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11179)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **發布時間:** Sep 22, 2026
+
+---
 ### 邪惡國王加冕影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +326,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11148)**
 
 **作者:** [Mark Tatum](https://x.com/Mark561256) | **來源:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **發布時間:** Sep 22, 2026
+
+---
+### 小貓與天空中的金魚
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 超現實影片提示：暹羅小貓在草地上玩耍，金魚在天空中游動。
+
+#### 📝 提示詞
+
+```
+夕陽金色陽光玉米田背景草地庭院暹羅小貓在草地上玩耍藍天長鰭金魚輕輕地橫越天空游動鰭像飄動的絲帶般伸展得更長
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102199376206761984/img/Fh5RbZzh--nCL2YN.jpg" width="600" alt="小貓與天空中的金魚">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11180)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2102199438509068455) | **發布時間:** Sep 22, 2026
 
 ---
 ### 超寫實摩托車騎乘影片提示詞
@@ -2050,83 +2132,6 @@ Just a short glimpse tonight - an oasis on Mars, lights in the domes, robots bui
 **作者:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **來源:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **發布時間:** Sep 9, 2026
 
 ---
-### 未來感 Tesla 城市黃昏駕駛
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個精細的電影級提示詞，描述一輛黑色 Tesla 在藍色調的黃昏時分平穩穿梭於現代城市。
-
-#### 📝 提示詞
-
-```
-一輛流線型黑色 Tesla 電動車在黃昏時分平穩地行駛在現代城市道路上，滑過玻璃帷幕大樓與路燈，車身鈑件映照出細膩的光影。
-視覺呈現出簡潔、具未來感的電影風格，伴隨著冷色調的藍色時刻...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097579905408249856/img/pmhkH2vpw3CXMEIN.jpg" width="600" alt="未來感 Tesla 城市黃昏駕駛">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10593)**
-
-**作者:** [Jacek](https://x.com/iadventurejacek) | **來源:** [Link](https://x.com/iadventurejacek/status/2097580043748639150) | **發布時間:** Sep 9, 2026
-
----
-### Marty McFly 密西根大學美式足球影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段 Marty McFly 穿著特定大學美式足球球衣進入時光機的影片。
-
-#### 📝 提示詞
-
-```
-一段 Marty McFly 走進時光機且穿著密西根大學美式足球球衣的影片
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097573779136487424/img/sImhXvEGftCvcEKb.jpg" width="600" alt="Marty McFly 密西根大學美式足球影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10679)**
-
-**作者:** [David Kowalski](https://x.com/DavidKow1963) | **來源:** [Link](https://x.com/DavidKow1963/status/2097573794810376639) | **發布時間:** Sep 9, 2026
-
----
-### 時髦金髮女子小憩場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高度細緻的電影感指令：一位身穿長袍的女性從右側進入房間，走到沙發旁，望向窗外，隨後休息。
-
-#### 📝 提示詞
-
-```
-時髦的金髮女性身穿長袍從右側進入場景，躺在沙發上望向窗外並小憩……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097547047041900544/img/lRgtZ_wWvMOXWqHz.jpg" width="600" alt="時髦金髮女子小憩場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10603)**
-
-**作者:** [Mon Soleil LLC 🇺🇸](https://x.com/MonSoleilLLC) | **來源:** [Link](https://x.com/MonSoleilLLC/status/2097547084182560899) | **發布時間:** Sep 9, 2026
-
----
-### 母親為嬰兒唱搖籃曲
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段溫馨的影片生成提示詞，描述了一位母親唱著搖籃曲並親吻她女嬰的畫面。
-
-#### 📝 提示詞
-
-```
-Margaret 抱著她的小女嬰，女嬰頭上戴著漂亮的蝴蝶結。母親正在唱著搖籃曲，並親吻了她的額頭。歌詞內容：「You are my sunshine you make me happy when skies are grey. I love you baby girl.」（你是我的陽光，當天空灰暗時你讓我快樂。我愛你，寶貝女兒。）
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097525008130338816/img/dP8emwKiN0bPFPjb.jpg" width="600" alt="母親為嬰兒唱搖籃曲">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10607)**
-
-**作者:** [Margaret Ford](https://x.com/Margaretfit08) | **來源:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **發布時間:** Sep 9, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2188,6 +2193,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-23T04:33:12.031Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-23T13:46:06.067Z</sub>
 
 </div>

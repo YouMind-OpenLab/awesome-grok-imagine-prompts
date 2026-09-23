@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2870** |
+| 📝 提示词总数 | **2874** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-23** |
 
@@ -189,6 +189,50 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 拟人化摇滚猫乐队
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的全面视频生成提示词，展示三只拟人化猫咪在磷光俱乐部中演奏摇滚乐。包含关于灯光、动作和音画同步的具体指令。
+
+#### 📝 提示词
+
+```
+生成一段连续的视频，内容为拟人化的摇滚猫乐队用英语现场演唱一首歌曲。整体氛围具有心理暗示感且充满磷光效果。
+
+三只拟人化的猫咪作为一支摇滚乐队站在一个小型的高架舞台上。它们保留着猫的头、耳朵、毛发和尾巴，同时穿着摇滚风格的服装并手持乐器。它们作为一个整体共同表演。
+
+视频开始时，猫咪们面向观众，身处昏暗的磷光俱乐部中：柔和的青绿色光芒在它们的毛发、乐器以及周围的空气中脉动闪烁。主唱猫走到中央麦克风前，开始清晰地用英语演唱，另外两只猫则同步弹奏吉他和敲击鼓点。它们的嘴巴随着英文歌词开合，眼神专注而略带狂野，身体随节奏摇摆。随着表演的推进，磷光的光轨和辉光在它们周围逐渐增强。最后，它们在发光灯光下保持最后的音符并摆出合影姿势。
+
+在整个过程中，请保持猫咪完全拟人化的摇滚形象、英语演唱内容、心理暗示与磷光交织的氛围，以及乐队连续表演的稳定性。屏幕上不出现任何字幕。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="拟人化摇滚猫乐队">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11181)**
+
+**作者:** [MYS AI](https://x.com/mys1111) | **来源:** [Link](https://x.com/mys1111/status/2102511636175073310) | **发布时间:** Sep 22, 2026
+
+---
+### Grok Imagine 提示词：喂鸟器场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的详细提示词，描述喂鸟器上的鸟类和蛋白石色风铃。
+
+#### 📝 提示词
+
+```
+鸣禽在喂鸟器上觅食，从喂鸟器垂下的风铃是一系列蛋白石色的齿轮
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="Grok Imagine 提示词：喂鸟器场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11178)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **发布时间:** Sep 22, 2026
+
+---
 ### Grok Imagine 视频提示词：面部扫描动画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,6 +271,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **发布时间:** Sep 22, 2026
 
 ---
+### 第一人称视角行走脚步视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个复杂的视频提示词，描述第一人称视角下双脚行走的画面，每两秒切换一次视角。
+
+#### 📝 提示词
+
+```
+第一人称视角下的脚部模型，鞋子朝完全相同的方向行走，每 2 秒一组脚，视角之间交替切换，镜头始终看到自己的鞋子
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102236673941680130/img/G387hSVEXsXhPeGf.jpg" width="600" alt="第一人称视角行走脚步视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11179)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **发布时间:** Sep 22, 2026
+
+---
 ### 邪恶国王加冕视频提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +326,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11148)**
 
 **作者:** [Mark Tatum](https://x.com/Mark561256) | **来源:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **发布时间:** Sep 22, 2026
+
+---
+### 小猫与金鱼天空
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个超现实的视频提示词，描绘了暹罗猫在草地上玩耍，同时金鱼在天空中游动的场景。
+
+#### 📝 提示词
+
+```
+背景是夕阳下的金色阳光和玉米地，草地庭院中暹罗猫在草丛里嬉戏，蓝天上长鳍金鱼舒展着如飘带般修长的鱼鳍，轻柔地在空中游动
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102199376206761984/img/Fh5RbZzh--nCL2YN.jpg" width="600" alt="小猫与金鱼天空">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11180)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2102199438509068455) | **发布时间:** Sep 22, 2026
 
 ---
 ### 写实摩托车骑行视频提示词
@@ -2050,83 +2132,6 @@ Falcon 9 发射期间的集体狂喜：当震耳欲聋的轰鸣声最终席卷�
 **作者:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **来源:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **发布时间:** Sep 9, 2026
 
 ---
-### 未来感 Tesla 城市黄昏驾驶
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的电影级提示词，描述一辆黑色 Tesla 在蓝色黄昏时分平稳穿过现代城市。
-
-#### 📝 提示词
-
-```
-一辆时尚的黑色 Tesla 电动汽车在黄昏时分平稳地行驶在现代城市道路上，滑过玻璃建筑和街灯，车身面板上映射出微妙的倒影。
-视觉效果呈现出干净、充满未来感的电影风格，带有冷色调的蓝色时刻氛围……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097579905408249856/img/pmhkH2vpw3CXMEIN.jpg" width="600" alt="未来感 Tesla 城市黄昏驾驶">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10593)**
-
-**作者:** [Jacek](https://x.com/iadventurejacek) | **来源:** [Link](https://x.com/iadventurejacek/status/2097580043748639150) | **发布时间:** Sep 9, 2026
-
----
-### Marty McFly 密歇根大学橄榄球队视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段 Marty McFly 穿着特定大学橄榄球球衣进入时间机器的视频。
-
-#### 📝 提示词
-
-```
-一段 Marty McFly 穿着密歇根大学橄榄球球衣走进时间机器的视频
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097573779136487424/img/sImhXvEGftCvcEKb.jpg" width="600" alt="Marty McFly 密歇根大学橄榄球队视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10679)**
-
-**作者:** [David Kowalski](https://x.com/DavidKow1963) | **来源:** [Link](https://x.com/DavidKow1963/status/2097573794810376639) | **发布时间:** Sep 9, 2026
-
----
-### 金发女性小憩场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段高度细节化的电影级指令：一位身穿长袍的女性从右侧进入房间，走到沙发旁，望向窗外并休息。
-
-#### 📝 提示词
-
-```
-一位金发女性身穿长袍从右侧进入场景，躺在沙发上望向窗外并小憩……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097547047041900544/img/lRgtZ_wWvMOXWqHz.jpg" width="600" alt="金发女性小憩场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10603)**
-
-**作者:** [Mon Soleil LLC 🇺🇸](https://x.com/MonSoleilLLC) | **来源:** [Link](https://x.com/MonSoleilLLC/status/2097547084182560899) | **发布时间:** Sep 9, 2026
-
----
-### 母亲为婴儿唱摇篮曲
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段温馨的视频生成提示词，描述了一位母亲为女婴唱摇篮曲并亲吻她的场景。
-
-#### 📝 提示词
-
-```
-Margaret 抱着她的小女儿，女儿头上戴着漂亮的蝴蝶结。正在唱着摇篮曲。亲吻她的额头。你是我的阳光，当天空阴霾时，你让我快乐。我爱你，宝贝女儿。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097525008130338816/img/dP8emwKiN0bPFPjb.jpg" width="600" alt="母亲为婴儿唱摇篮曲">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10607)**
-
-**作者:** [Margaret Ford](https://x.com/Margaretfit08) | **来源:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **发布时间:** Sep 9, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2188,6 +2193,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-23T04:33:10.687Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-23T13:46:04.886Z</sub>
 
 </div>

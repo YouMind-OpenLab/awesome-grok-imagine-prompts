@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2870** |
+| 📝 Total Prompts | **2874** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-23** |
 
@@ -189,6 +189,50 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Banda de Gatos Rockeros Antropomórficos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt integral para la generación de video en Grok Imagine que presenta a tres gatos antropomórficos interpretando rock en un club fosforescente. Incluye instrucciones específicas sobre iluminación, movimiento y sincronización audiovisual.
+
+#### 📝 Prompt
+
+```
+Genera un video continuo de gatos rockeros antropomórficos interpretando una canción en vivo en inglés. El ambiente es psicológico y fosforescente.
+
+Tres gatos antropomórficos se presentan como una banda de rock sobre un pequeño escenario elevado. Conservan cabezas, orejas, pelaje y colas de gato, pero visten ropa estilo rock y sostienen instrumentos. Actúan juntos como un solo grupo.
+
+Al inicio, los gatos miran al público en un club tenue y fosforescente: destellos suaves de color verde cian pulsan sobre su pelaje, sus instrumentos y el aire circundante. El gato líder avanza hacia el micrófono central y comienza a cantar claramente en inglés, mientras los otros dos tocan la guitarra y la batería en sincronía. Sus bocas se mueven con las letras en inglés, sus ojos son intensos y ligeramente salvajes, y sus cuerpos se balancean al ritmo. Las estelas de luz fosforescente y los brillos se intensifican alrededor de ellos a medida que la interpretación alcanza su clímax. Al final, mantienen la última nota y posan juntos bajo las luces brillantes.
+
+Mantén a los gatos completamente antropomórficos como rockeros, el canto en inglés, la atmósfera psicológica-fosforescente y la actuación continua de la banda estables durante todo el video. No deben aparecer subtítulos en pantalla.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="Banda de Gatos Rockeros Antropomórficos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### Prompt de Grok Imagine para escena de comedero de aves
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para Grok Imagine que describe aves en un comedero con campanas de viento de color ópalo.
+
+#### 📝 Prompt
+
+```
+Aves cantoras en un comedero; el colgante del comedero es una serie de engranajes de color ópalo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="Prompt de Grok Imagine para escena de comedero de aves">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11178)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **Published:** Sep 22, 2026
+
+---
 ### Prompt de video para Grok Imagine: Animación de escaneo facial
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,6 +271,25 @@ La escena fluida continúa, añade modelos vistiendo atuendos futuristas en una 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **Published:** Sep 22, 2026
 
 ---
+### Video de pies caminando en primera persona (POV)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video complejo que describe una secuencia POV de pies caminando, cambiando la perspectiva cada dos segundos.
+
+#### 📝 Prompt
+
+```
+Modelos POV de pies y zapatos caminando exactamente en la misma dirección, un par de pies cada 2 segundos, el POV alterna entre perspectivas, la cámara siempre ve sus propios zapatos
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102236673941680130/img/G387hSVEXsXhPeGf.jpg" width="600" alt="Video de pies caminando en primera persona (POV)">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11179)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **Published:** Sep 22, 2026
+
+---
 ### Prompt de Video: Corona del Rey Malvado
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +326,25 @@ Hagamos que un enorme Grok asome la cabeza entre las nubes y diga: “descubramo
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11148)**
 
 **Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
+
+---
+### Gatitos y Pececillos Dorados en el Cielo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video surrealista que presenta gatitos siameses jugando en la hierba mientras pececillos dorados nadan por el cielo.
+
+#### 📝 Prompt
+
+```
+Luz dorada del atardecer campo de maíz al fondo patio con hierba gatitos siameses jugando en la hierba cielo azul pececillos dorados de aletas largas nadando suavemente por el cielo con las aletas extendidas como cintas fluidas
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102199376206761984/img/Fh5RbZzh--nCL2YN.jpg" width="600" alt="Gatitos y Pececillos Dorados en el Cielo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11180)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102199438509068455) | **Published:** Sep 22, 2026
 
 ---
 ### Prompt de video fotorrealista de paseo en motocicleta
@@ -2050,83 +2132,6 @@ Mujer fotorrealista con impermeable negro de pie bajo una lluvia intensa en un b
 **Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
 
 ---
-### Conducción futurista en Tesla al atardecer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico detallado para un Tesla negro conduciendo suavemente por una ciudad moderna durante la hora azul del atardecer.
-
-#### 📝 Prompt
-
-```
-Un elegante coche eléctrico Tesla negro circula suavemente por una carretera urbana moderna al atardecer, deslizándose junto a edificios de cristal y farolas con sutiles reflejos en la carrocería.
-Las imágenes presentan un estilo cinematográfico limpio y futurista con tonos fríos de la hora azul...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097579905408249856/img/pmhkH2vpw3CXMEIN.jpg" width="600" alt="Conducción futurista en Tesla al atardecer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10593)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097580043748639150) | **Published:** Sep 9, 2026
-
----
-### Video de Marty McFly con la camiseta de Michigan Football
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera un video del personaje Marty McFly entrando en una máquina del tiempo mientras viste una camiseta específica de fútbol americano universitario.
-
-#### 📝 Prompt
-
-```
-Un video de Marty McFly entrando en una máquina del tiempo mientras viste una camiseta de fútbol americano de Michigan
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097573779136487424/img/sImhXvEGftCvcEKb.jpg" width="600" alt="Video de Marty McFly con la camiseta de Michigan Football">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10679)**
-
-**Author:** [David Kowalski](https://x.com/DavidKow1963) | **Source:** [Link](https://x.com/DavidKow1963/status/2097573794810376639) | **Published:** Sep 9, 2026
-
----
-### Escena de siesta de una elegante rubia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una instrucción cinematográfica altamente detallada donde una mujer con bata entra a una habitación desde la derecha, camina hacia el sofá, mira por la ventana y descansa.
-
-#### 📝 Prompt
-
-```
-Una elegante mujer rubia con bata entra en escena desde el lado derecho, se recuesta en el sofá para mirar por la ventana y tomar una siesta...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097547047041900544/img/lRgtZ_wWvMOXWqHz.jpg" width="600" alt="Escena de siesta de una elegante rubia">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10603)**
-
-**Author:** [Mon Soleil LLC 🇺🇸](https://x.com/MonSoleilLLC) | **Source:** [Link](https://x.com/MonSoleilLLC/status/2097547084182560899) | **Published:** Sep 9, 2026
-
----
-### Madre cantando una canción de cuna a su bebé
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un conmovedor prompt de generación de video que describe a una madre cantando una canción de cuna y besando a su bebé.
-
-#### 📝 Prompt
-
-```
-Margaret sosteniendo a su bebé con un hermoso lazo en el cabello. Cantando una canción de cuna. Un beso en su frente. Eres mi sol, me haces feliz cuando los cielos están grises. Te amo, mi niña.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097525008130338816/img/dP8emwKiN0bPFPjb.jpg" width="600" alt="Madre cantando una canción de cuna a su bebé">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10607)**
-
-**Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2193,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T04:33:19.591Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T13:46:12.641Z</sub>
 
 </div>

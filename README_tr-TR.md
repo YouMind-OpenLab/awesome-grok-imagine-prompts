@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2870** |
+| 📝 Total Prompts | **2874** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-23** |
 
@@ -189,6 +189,50 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Antropomorfik Rocker Kedi Grubu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için fosforlu bir kulüpte rock müzik icra eden üç antropomorfik kediyi içeren kapsamlı bir video üretim istemi. Işıklandırma, hareket ve ses-görüntü senkronizasyonu hakkında spesifik talimatlar içerir.
+
+#### 📝 Prompt
+
+```
+İngilizce canlı bir şarkı icra eden antropomorfik rocker kedilerin kesintisiz bir videosunu oluşturun. Atmosfer psikolojik ve fosforlu.
+
+Üç antropomorfik kedi, küçük yükseltilmiş bir sahnede rock grubu olarak duruyor. Kafa, kulak, kürk ve kuyruk gibi kedi özelliklerini korurken rock kıyafetleri giyiyor ve enstrümanlarını tutuyorlar. Tek bir grup olarak birlikte performans sergiliyorlar.
+
+Başlangıçta, kediler loş, fosforlu bir kulüpte seyirciye dönük duruyor: Yumuşak yeşil-camgöbeği ışıklar kürklerinde, enstrümanlarında ve etrafındaki havada nabız gibi atıyor. Baş vokalist kedi merkezdeki mikrofona ilerliyor ve diğer ikisi gitar ve davulda senkronize çalarken İngilizce olarak net bir şekilde şarkı söylemeye başlıyor. Ağızları İngilizce sözlerle uyumlu hareket ediyor, gözleri yoğun ve biraz vahşi, vücutları ritimle sallanıyor. Performans yükseldikçe etraflarında fosforlu ışık izleri ve parıltılar yoğunlaşıyor. Sonda, son notayı uzatıp parlayan ışıklar altında birlikte poz veriyorlar.
+
+Kedileri tamamen antropomorfik rocker olarak, İngilizce şarkı söylemeyi, psikolojik-fosforlu atmosferi ve kesintisiz grup performansını süreç boyunca sabit tutun. Ekranda altyazı görünmesin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="Antropomorfik Rocker Kedi Grubu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### Kuş Yemliği Sahnesi İçin Grok Imagine İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Opal renkli rüzgar çanlarıyla beslenen kuşları betimleyen, Grok Imagine için detaylı bir istem.
+
+#### 📝 Prompt
+
+```
+Kuş yemliğindeki öten kuşlar, yemlikten sarkan zarif bir rüzgar çanı; bu çan, opal renkli dişlilerden oluşan bir seridir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="Kuş Yemliği Sahnesi İçin Grok Imagine İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11178)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **Published:** Sep 22, 2026
+
+---
 ### Grok Imagine Video Prompt for Face Scan Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,6 +271,25 @@ Kesintisiz sahne devam ediyor; podyuma parlak renk ve stillerde fütüristik kı
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **Published:** Sep 22, 2026
 
 ---
+### POV Yürüyen Ayaklar Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ayakların yürüyüşünü gösteren ve her iki saniyede bir bakış açısını değiştiren karmaşık bir POV video istemi.
+
+#### 📝 Prompt
+
+```
+POV modeller ayakları, ayakkabıları tam olarak aynı yönde yürüyor, her 2 saniyede bir ayak seti, pov perspektifler arasında geçiş yapıyor, kamera her zaman kendi ayakkabılarını görüyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102236673941680130/img/G387hSVEXsXhPeGf.jpg" width="600" alt="POV Yürüyen Ayaklar Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11179)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **Published:** Sep 22, 2026
+
+---
 ### Kötü Kral Taç Video İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +326,25 @@ Grok'u devasa boyutta gösteren ve bulutların arasından başını uzatarak “
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11148)**
 
 **Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
+
+---
+### Yavrular ve Gökyüzündeki Altın Balıkları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Siyam kedisi yavrularının çimenlerde oynadığı ve altın balıkların gökyüzünde yüzdüğü sürreal bir video promptu.
+
+#### 📝 Prompt
+
+```
+Gün batımı altın güneş ışığı arka planda mısır tarlası çim avlu Siyam kedisi yavruları çimenlerde oynuyor mavi gökyüzü uzun yüzgeçli altın balıklar yüzgeçleri akıp giden kurdeleler gibi uzatılmış halde gökyüzünde nazikçe süzülüyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102199376206761984/img/Fh5RbZzh--nCL2YN.jpg" width="600" alt="Yavrular ve Gökyüzündeki Altın Balıkları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11180)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102199438509068455) | **Published:** Sep 22, 2026
 
 ---
 ### Fotogerçekçi Motosiklet Sürüşü Video İstemi
@@ -2050,83 +2132,6 @@ Ormanda şiddetli yağmur altında duran, siyah yağmurluklu fotogerçekçi kad�
 **Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
 
 ---
-### Fütüristik Tesla Şehirde Alacakaranlık Sürüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Modern bir şehirde, mavi alacakaranlık saatinde yumuşak bir şekilde ilerleyen siyah bir Tesla için detaylı sinematik komut.
-
-#### 📝 Prompt
-
-```
-Şık, siyah bir Tesla elektrikli otomobil, alacakaranlıkta modern bir şehir yolunda süzülerek ilerliyor; cam binaların ve sokak lambalarının yanından geçerken gövde panellerinde hafif yansımalar oluşuyor.
-Görseller, temiz ve fütüristik bir sinematik tarz ile serin mavi saat tonlarını yansıtıyor...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097579905408249856/img/pmhkH2vpw3CXMEIN.jpg" width="600" alt="Fütüristik Tesla Şehirde Alacakaranlık Sürüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10593)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097580043748639150) | **Published:** Sep 9, 2026
-
----
-### Marty McFly Michigan Futbolu Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Marty McFly karakterinin belirli bir kolej futbolu forması giyerek zaman makinesine bindiği bir video oluşturur.
-
-#### 📝 Prompt
-
-```
-Marty McFly'ın zaman makinesine bindiği ve üzerinde Michigan futbol forması olduğu bir video
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097573779136487424/img/sImhXvEGftCvcEKb.jpg" width="600" alt="Marty McFly Michigan Futbolu Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10679)**
-
-**Author:** [David Kowalski](https://x.com/DavidKow1963) | **Source:** [Link](https://x.com/DavidKow1963/status/2097573794810376639) | **Published:** Sep 9, 2026
-
----
-### Şık sarışın şekerleme sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bornozlu bir kadının sağ taraftan odaya girdiği, kanepeye doğru yürüdüğü, pencereden dışarı baktığı ve dinlendiği, son derece detaylı sinematik bir talimat.
-
-#### 📝 Prompt
-
-```
-Bornozlu şık sarışın kadın sağ taraftan sahneye girer ve pencereden dışarı bakıp şekerleme yapmak için kanepeye uzanır....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097547047041900544/img/lRgtZ_wWvMOXWqHz.jpg" width="600" alt="Şık sarışın şekerleme sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10603)**
-
-**Author:** [Mon Soleil LLC 🇺🇸](https://x.com/MonSoleilLLC) | **Source:** [Link](https://x.com/MonSoleilLLC/status/2097547084182560899) | **Published:** Sep 9, 2026
-
----
-### Bebeğine Ninni Söyleyen Anne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir annenin bebeğine ninni söyleyip onu öpmesini betimleyen iç ısıtıcı bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Margaret, saçında güzel bir fiyonk olan kız bebeğini kucağında tutuyor. Ninni söylüyor. Alnından öpüyor. Sen benim güneş ışığımsın, gökyüzü griyken beni mutlu edersin. Seni seviyorum kızım.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097525008130338816/img/dP8emwKiN0bPFPjb.jpg" width="600" alt="Bebeğine Ninni Söyleyen Anne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10607)**
-
-**Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2193,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T04:33:28.197Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T13:46:20.650Z</sub>
 
 </div>

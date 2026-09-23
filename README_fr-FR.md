@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2870** |
+| 📝 Total Prompts | **2874** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-23** |
 
@@ -189,6 +189,50 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Groupe de Rock des Chats Anthropomorphes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complet pour la génération vidéo avec Grok Imagine, mettant en scène trois chats anthropomorphes jouant du rock dans un club phosphorescent. Inclut des instructions spécifiques sur l'éclairage, les mouvements et la synchronisation audio-visuelle.
+
+#### 📝 Prompt
+
+```
+Générez une vidéo continue de chats rockeurs anthropomorphes interprétant une chanson live en anglais. L'ambiance est psychologique et phosphorescente.
+
+Trois chats anthropomorphes se tiennent comme un groupe de rock sur une petite scène surélevée. Ils conservent leurs têtes, oreilles, fourrure et queues de chat tout en portant des vêtements rock et en tenant des instruments. Ils jouent ensemble en tant que groupe unique.
+
+Au début, les chats font face au public dans un club sombre et phosphorescent : des lueurs vert-cyan douces pulsent sur leur fourrure, leurs instruments et l'air autour d'eux. Le chat leader s'avance vers le micro central et commence à chanter clairement en anglais, tandis que les deux autres jouent de la guitare et de la batterie en synchronisation. Leurs bouches bougent avec les paroles anglaises, leurs yeux sont intenses et légèrement sauvages, leurs corps se balancent au rythme. Des traînées lumineuses phosphorescentes et des lueurs s'intensifient autour d'eux à mesure que la performance monte en puissance. À la fin, ils maintiennent la dernière note et posent ensemble sous les lumières brillantes.
+
+Maintenez les chats entièrement anthropomorphes et rockeurs, le chant en anglais, l'atmosphère psychologique-phosphorescente et la performance stable du groupe tout au long. Aucun sous-titre n'apparaît à l'écran.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="Groupe de Rock des Chats Anthropomorphes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### Prompt Grok Imagine pour une scène de mangeoire à oiseaux
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour Grok Imagine décrivant des oiseaux près d'une mangeoire avec des carillons éoliens aux couleurs opales.
+
+#### 📝 Prompt
+
+```
+Des oiseaux chanteurs près d'une mangeoire, un carillon éolien suspendu avec grâce est composé d'une série d'engrenages aux teintes opales.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="Prompt Grok Imagine pour une scène de mangeoire à oiseaux">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11178)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **Published:** Sep 22, 2026
+
+---
 ### Prompt vidéo Grok Imagine pour animation de scan facial
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,6 +271,25 @@ la scène fluide se poursuit, ajoutez des mannequins portant des tenues futurist
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102237672504783176) | **Published:** Sep 22, 2026
 
 ---
+### Vidéo de marche en vue subjective (POV)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite vidéo complexe décrivant une séquence POV de pieds marchant, avec changement de perspective toutes les deux secondes.
+
+#### 📝 Prompt
+
+```
+Modèles de pieds en vue subjective (POV), chaussures marchant dans la même direction exacte, une paire de pieds toutes les 2 secondes, alternance des points de vue, la caméra voit toujours ses propres chaussures
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102236673941680130/img/G387hSVEXsXhPeGf.jpg" width="600" alt="Vidéo de marche en vue subjective (POV)">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11179)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2102236777167679780) | **Published:** Sep 22, 2026
+
+---
 ### Prompt vidéo : Couronne du Roi Maléfique
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +326,25 @@ Faisons émerger la tête d'un immense Grok des nuages et qu'il dise « Découvr
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11148)**
 
 **Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2102207269186224577) | **Published:** Sep 22, 2026
+
+---
+### Chatons et Poissons Rouges dans le Ciel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo surréaliste mettant en scène des chatons siamois jouant dans l'herbe tandis que des poissons rouges nagent à travers le ciel.
+
+#### 📝 Prompt
+
+```
+Champ de maïs baigné par la lumière dorée du coucher de soleil, pelouse en arrière-plan. Chatons siamois jouant dans l'herbe sous un ciel bleu. Des poissons rouges à longues nageoires nagent doucement à travers le ciel, leurs nageoires étirées ressemblant à des rubans flottants.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102199376206761984/img/Fh5RbZzh--nCL2YN.jpg" width="600" alt="Chatons et Poissons Rouges dans le Ciel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11180)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102199438509068455) | **Published:** Sep 22, 2026
 
 ---
 ### Prompt vidéo moto photoréaliste
@@ -2050,83 +2132,6 @@ Femme photoréaliste en imperméable noir debout sous une pluie battante dans un
 **Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
 
 ---
-### Conduite futuriste en Tesla au crépuscule
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique détaillé pour une Tesla noire roulant en douceur dans une ville moderne à l'heure bleue.
-
-#### 📝 Prompt
-
-```
-Une élégante voiture électrique Tesla noire roule en douceur sur une route urbaine moderne au crépuscule, glissant devant des bâtiments en verre et des réverbères avec de subtils reflets sur sa carrosserie.
-Les visuels présentent un style cinématographique futuriste et épuré, avec des tons bleutés caractéristiques de l'heure bleue...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097579905408249856/img/pmhkH2vpw3CXMEIN.jpg" width="600" alt="Conduite futuriste en Tesla au crépuscule">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10593)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097580043748639150) | **Published:** Sep 9, 2026
-
----
-### Vidéo de Marty McFly avec le maillot de Michigan Football
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Génère une vidéo du personnage Marty McFly entrant dans une machine à remonter le temps tout en portant un maillot spécifique de football universitaire.
-
-#### 📝 Prompt
-
-```
-Une vidéo de Marty McFly entrant dans une machine à remonter le temps et portant un maillot de Michigan Football
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097573779136487424/img/sImhXvEGftCvcEKb.jpg" width="600" alt="Vidéo de Marty McFly avec le maillot de Michigan Football">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10679)**
-
-**Author:** [David Kowalski](https://x.com/DavidKow1963) | **Source:** [Link](https://x.com/DavidKow1963/status/2097573794810376639) | **Published:** Sep 9, 2026
-
----
-### Scène de sieste d'une femme blonde élégante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une instruction cinématographique très détaillée où une femme en peignoir entre dans une pièce par la droite, se dirige vers le canapé, regarde par la fenêtre et se repose.
-
-#### 📝 Prompt
-
-```
-Une femme blonde élégante en peignoir entre dans la scène par la droite, s'allonge sur le canapé pour regarder par la fenêtre et faire une sieste...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097547047041900544/img/lRgtZ_wWvMOXWqHz.jpg" width="600" alt="Scène de sieste d'une femme blonde élégante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10603)**
-
-**Author:** [Mon Soleil LLC 🇺🇸](https://x.com/MonSoleilLLC) | **Source:** [Link](https://x.com/MonSoleilLLC/status/2097547084182560899) | **Published:** Sep 9, 2026
-
----
-### Mère chantant une berceuse à son bébé
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo touchant décrivant une mère chantant une berceuse et embrassant sa petite fille.
-
-#### 📝 Prompt
-
-```
-Margaret tenant sa petite fille avec un joli nœud dans les cheveux. Elle chante une berceuse. Un baiser sur son front. You are my sunshine you make me happy when skies are grey. Je t'aime ma petite fille.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097525008130338816/img/dP8emwKiN0bPFPjb.jpg" width="600" alt="Mère chantant une berceuse à son bébé">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10607)**
-
-**Author:** [Margaret Ford](https://x.com/Margaretfit08) | **Source:** [Link](https://x.com/Margaretfit08/status/2097525022873272650) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2193,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T04:33:23.269Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T13:46:16.048Z</sub>
 
 </div>
