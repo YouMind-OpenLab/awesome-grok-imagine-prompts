@@ -70,7 +70,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 |--------|-------|
 | 📝 총 프롬프트 수 | **2874** |
 | ⭐ 추천 프롬프트 | **3** |
-| 🔄 마지막 업데이트 | **2026-09-23** |
+| 🔄 마지막 업데이트 | **2026-09-24** |
 
 ---
 
@@ -2192,6 +2192,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-23T23:10:21.521Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-24T04:28:11.343Z</sub>
 
 </div>
