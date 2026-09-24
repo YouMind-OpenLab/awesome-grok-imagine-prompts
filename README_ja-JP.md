@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2874** |
+| 📝 プロンプト総数 | **2881** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-24** |
 
@@ -189,6 +189,131 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 電話のナラティブ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 女性が電話に出た後、ドアをノックされる場面を描いたナラティブプロンプト。
+
+#### 📝 プロンプト
+
+```
+電話が鳴る。彼女が受話器を取る。「もしもし、愛しい人！」その後、ドアをノックする音がする。彼女はドアを開ける....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="電話のナラティブ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11226)**
+
+**作者:** [Mimi9060](https://x.com/MelodyM662010) | **ソース:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **公開日:** Sep 24, 2026
+
+---
+### アーチャーキャラクター アクション動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> アーチャーキャラクターの参考画像を使用し、特定のアクションシーンを生成するための詳細な動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+[生成目標]
+参考画像の筋肉質なキャラクターが、キャラクター性を保ちながら自然な「排便」アクションを行う動画を生成する。
+
+[参考アセットの役割]
+@image1 はキャラクターの外見全体（アーチャー）に使用されます
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="アーチャーキャラクター アクション動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11222)**
+
+**作者:** [Dylan Briggs](https://x.com/DylanBriggjk) | **ソース:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **公開日:** Sep 24, 2026
+
+---
+### Grok Imagine ビデオプロンプト: モノリスの崩壊
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> モノリスが崩壊し、光のビームが空へ向かって突き抜ける様子を描写した Grok Imagine のビデオ生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+モノリスが崩壊し、光のビームが出現して真っ直ぐに空へ向かって突き抜けます
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="Grok Imagine ビデオプロンプト: モノリスの崩壊">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11224)**
+
+**作者:** [Astropub Starbase](https://x.com/AstropubSBTX) | **ソース:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **公開日:** Sep 23, 2026
+
+---
+### 画像からの動画生成
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> クロアチア語のプロンプト（「画像が積み重なり鏡になり、雷鳴とともに消える」）を使用して、提供された画像に基づき縦型の短尺動画を生成します。
+
+#### 📝 プロンプト
+
+```
+以下のプロンプトと設定を使用し、提供された画像に基づいて新しい動画を生成してください：
+
+プロンプト: "The images stack up, become a mirror, and disappear with a strike of lightning"
+
+設定:
+- 解像度: 480p
+- 長さ: 6 秒
+- アスペクト比: 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="画像からの動画生成">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11225)**
+
+**作者:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **ソース:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **公開日:** Sep 23, 2026
+
+---
+### 1600年代のピューリタン開拓地
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ロバート・エガーズ監督作『ウィッチ』のような、暖炉のある1600年代ピューリタン開拓地の映像シーンを生成するためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+まずは、ロバート・エガーズ監督作『ウィッチ』を彷彿とさせる、1600年代のピューリタン開拓地の小さな家と暖炉から始めましょう
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="1600年代のピューリタン開拓地">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11227)**
+
+**作者:** [JB](https://x.com/JoshuaBalianSR) | **ソース:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **公開日:** Sep 23, 2026
+
+---
+### Elon Musk ダンシング動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 「If You Want My Love」の音声をバックに、Jennifer Lopez のように踊る Elon Musk の動画を生成します。
+
+#### 📝 プロンプト
+
+```
+「If You Want My Love」の音声付きで、Jennifer Lopez のように踊る Elon Musk の動画を作成
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="Elon Musk ダンシング動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11221)**
+
+**作者:** [Jared Foster](https://x.com/JaredFosterX) | **ソース:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **公開日:** Sep 23, 2026
+
+---
 ### 擬人化ロッカー猫バンド
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -212,6 +337,27 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11181)**
 
 **作者:** [MYS AI](https://x.com/mys1111) | **ソース:** [Link](https://x.com/mys1111/status/2102511636175073310) | **公開日:** Sep 22, 2026
+
+---
+### バロック様式の天使長ミカエル像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 美術館の展示空間を背景に、ミケランジェロとベルニーニのスタイルを融合させたバロック・ルネサンス様式の天使長ミカエル像を描くための、Grok Imagine用の詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+クリーム色の大理石で彫られた戦士天使、天使長ミカエルの像を、ミケランジェロとベルニーニの作風を融合させた見事なバロック・ルネサンス様式の油絵として描きます。ミケランジェロ風の理想化された顔立ち、気高く厳かな眼差し、そして彫刻された波打つ髪。ベルニーニ風の劇的な動きを表現し、大きく彫られた翼を広げ、重厚な襞のある流れるような衣文（ドレープ）を施します。クリーム色で古びた大理石には、襞の部分に暖かみのある茶色の影が筆致として描かれています。胸部には輝く銀青色の金属製胸当てがあり、冷たい青白い光を放っています。像の右腕は完全に彫刻され、高貴な開いた手の戦士のジェスチャーで外側へ伸びています。左腕は体の脇に垂れ下がっています。装飾的に彫られた石製の台座の上に置かれた美術館規模の像であり、部屋の明確な焦点となっています。
+台座の周囲には、4本の低く精巧に彫られたクリーム色の大理石の柱があり、シンプルで優雅な金属チェーンで繋がれており、室内の美術館用バリヤーを形成しています。壮大なイタリアのパラッツォのギャラリー、またはヴァチカンのような珍奇なコレクション室（キャビネット・オブ・キュリオシティーズ）です。壁面は、16〜17世紀の重厚な金箔フレームに入った油絵で密に覆われています。前景には、紙、羽ペンのペン先、インク壺、灯りのついたろうそくが置かれたアンティークの木製書き物机があります。周囲のコレクション：地球儀、革表紙の本、小さな大理石の胸像、遺物を収めた木製キャビネットなど、すべては副次的な要素としてやや暗めに描かれ、像が注目を集めるようにしています。
+温かい金色のシャンデリアとろうそくの光、リッチなカラヴァッジョ風のキアロスプローロ（明暗法）、隅々まで紫がかった影。反射する磨き上げられた大理石の床、格天井（コファード・シーリング）の金装飾。シネマティックなアンティーク油絵の質感。大理石、金属の鎧、チェーン、金箔フレーム、古びたキャンバスなどの非常に細部まで描き込まれたテクスチャ。現代的な物体はありません。鉄柵はありません。欠損した肢体はありません。
+```
+
+<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="バロック様式の天使長ミカエル像">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11223)**
+
+**作者:** [Arco](https://x.com/arco0369) | **ソース:** [Link](https://x.com/arco0369/status/2102491951287181545) | **公開日:** Sep 22, 2026
 
 ---
 ### Grok Imagine プロンプト：鳥の餌やり場のシーン
@@ -1994,143 +2140,6 @@ Negative: テキストなし、ロゴなし、透かしなし
 **作者:** [vlad moore](https://x.com/vladmoore3) | **ソース:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **公開日:** Sep 9, 2026
 
 ---
-### リアルな人物写真のアニメーション化
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 写真内の 2 人の人物に、特定のセリフと自然な表情を伴うリップシンク（口パク）アニメーションを適用するための高度なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-この写真をリアルにアニメーション化してください。まず男性（Charlie）が「Pam always go Max!」と話し、自然なリップシンクと口の動きを見せます。次に女性（Pam）が「you got it Charlie!」と返し、同様に自然なリップシンクを行います...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097701925424947200/img/JIVCIIy9cUk8TnC9.jpg" width="600" alt="リアルな人物写真のアニメーション化">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10684)**
-
-**作者:** [Pamela joye middle](https://x.com/JoyeMiddle28955) | **ソース:** [Link](https://x.com/JoyeMiddle28955/status/2097701989278998571) | **公開日:** Sep 9, 2026
-
----
-### 恥ずかしがり屋なキャラクターのモーションシーケンス
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> キャラクターが手を振り、回転し、転倒して微笑むまでの詳細なモーションプロンプト。尻尾の配色に関する具体的な指定を含みます。
-
-#### 📝 プロンプト
-
-```
-左右を順番に見て、それぞれの方向に手を振ってください。その場で一度回転しますが、バランスを崩してお尻から転倒します。最後に、恥ずかしそうな笑顔を見せてください。尻尾は、付け根から半分までをライトブラウン、先端側半分をダークブラウンにしてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097693112428875776/img/VMYuzkc2zkYCF-Q4.jpg" width="600" alt="恥ずかしがり屋なキャラクターのモーションシーケンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10688)**
-
-**作者:** [Sahil Verma](https://x.com/sahilvermaai) | **ソース:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **公開日:** Sep 9, 2026
-
----
-### メガネをかけたクールな猫の動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> grok-imagine 向けの、メガネをかけた猫がゆっくりとしたカメラワークで映し出される動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-ゆっくりとしたカメラの動き、猫は比較的静止した状態。動物たちはメガネをかけていても自分がどれほどクールに見えるかを知っているようです！
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097676269249011712/img/fHbejykVvx-GHy6A.jpg" width="600" alt="メガネをかけたクールな猫の動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10682)**
-
-**作者:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **ソース:** [Link](https://x.com/foxypatience/status/2097676312357773654) | **公開日:** Sep 9, 2026
-
----
-### 寄生獣のダイナミックなシーンアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> マンガのシーンをアニメーション化し、年齢の変化やテキストのオーバーレイを動画要素に重ねます。
-
-#### 📝 プロンプト
-
-```
-寄生獣のシーンを楽しいダイナミックな動画にアニメーション化：新一とミギーを乗せた巨大なエイリアンの手が地球に手を伸ばす様子。大きな光る中国語のテキストを順番にオーバーレイ表示：「3秒原则」、次に「三分天下」、最後に「333岁成大叔」。若き日の新一が 333 歳の大人へと歳を重ねていき...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097637549095497728/img/xi0uGrQLYYgOOGAV.jpg" width="600" alt="寄生獣のダイナミックなシーンアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10676)**
-
-**作者:** [Chenghuai Wang](https://x.com/ChenghuaiW716i) | **ソース:** [Link](https://x.com/ChenghuaiW716i/status/2097637600664433145) | **公開日:** Sep 9, 2026
-
----
-### 洗練された黒い Tesla のハイウェイドライブ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 日差しが降り注ぐハイウェイを走る、未来的な黒い Tesla を追跡する滑らかな動画を生成します。シャープな反射が特徴です。
-
-#### 📝 プロンプト
-
-```
-洗練された黒い Tesla の電気自動車が、日差しが降り注ぐ現代的なハイウェイを滑らかに走行します。光沢のある車体には周囲の景色が映り込み、静かなパワーを湛えながら前進していきます。
-映像は、シャープな反射を伴う、クリーンで未来的な自動車スタイルを表現しています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097621563709501440/img/mLJvZTc-hXrOj-__.jpg" width="600" alt="洗練された黒い Tesla のハイウェイドライブ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10674)**
-
-**作者:** [Jacek](https://x.com/iadventurejacek) | **ソース:** [Link](https://x.com/iadventurejacek/status/2097621591815287266) | **公開日:** Sep 9, 2026
-
----
-### 武道場でのスパーリング動画用プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 日本の道場で金髪の武道家 2 名がスパーリングを行う様子を描写した、Grok Imagine 用の詳細な動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-キャラクター：長い金髪の女性と、カールした金髪の男性。2 名とも白い道着と黒帯を着用。
- アクション：激しく素早い打撃戦を繰り広げ、パンチやブロックを応酬した後、距離を取って防御の構えに入る。
- 設定：木製の柱、畳の床、そして外に広がる緑豊かな森が見える大きな開口部を備えた伝統的な日本の道場。背景には掛け軸が見える。
- 撮影技法：テンポの速いカメラワーク、クイックカット、素早い動きの中でのモーションブラー。自然光がシーンを際立たせる。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097596579775651840/img/ZIvdND7fCCnwhZrG.jpg" width="600" alt="武道場でのスパーリング動画用プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10685)**
-
-**作者:** [Melisa♡](https://x.com/xmliisu) | **ソース:** [Link](https://x.com/xmliisu/status/2097596867500515494) | **公開日:** Sep 9, 2026
-
----
-### フォトリアルなレインコートの女性の動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 内で、特定の動きの特徴を持つリアルな雨のシーンの動画を作成するために使用されるダイレクト生成テキストプロンプトです。
-
-#### 📝 プロンプト
-
-```
-森の中の激しい雨の中に立つ、黒いレインコートを着たフォトリアルな女性。彼女は目を開き、木々の間から差し込むかすかな暖かい光の方を向く。ハンドヘルド、霧、濡れた質感の服、ホラー要素なし、顔のモーフィングなし。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097587231070523392/img/gC_waap6tc44L4Yc.jpg" width="600" alt="フォトリアルなレインコートの女性の動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10614)**
-
-**作者:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **ソース:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **公開日:** Sep 9, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2192,6 +2201,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-24T04:28:09.935Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-24T13:42:10.480Z</sub>
 
 </div>

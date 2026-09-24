@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2874** |
+| 📝 Total Prompts | **2881** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-24** |
 
@@ -189,6 +189,124 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Récit d'un appel téléphonique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite narrative décrivant une femme qui répond à un appel téléphonique, suivi d'un coup frappé à la porte.
+
+#### 📝 Prompt
+
+```
+Le téléphone sonne. Elle décroche. Allô mon chéri ! Puis, on frappe à la porte. Elle ouvre...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="Récit d'un appel téléphonique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11226)**
+
+**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
+
+---
+### Vidéo d'action du personnage Archer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé de génération vidéo utilisant une image de référence d'un personnage archer pour générer une séquence d'action spécifique.
+
+#### 📝 Prompt
+
+```
+[Objectif de génération]
+Générer une vidéo du personnage musclé issu de l'image de référence effectuant une action naturelle de "caca" tout en restant dans son rôle.
+
+[Rôles des ressources de référence]
+@image1 est utilisé pour l'apparence complète du personnage : archer
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="Vidéo d'action du personnage Archer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11222)**
+
+**Author:** [Dylan Briggs](https://x.com/DylanBriggjk) | **Source:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **Published:** Sep 24, 2026
+
+---
+### Grok Imagine Video Prompt : Le Monolithe se Brise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de génération vidéo pour Grok Imagine décrivant un monolithe qui se brise avec un faisceau de lumière s'élevant vers le ciel.
+
+#### 📝 Prompt
+
+```
+Le monolithe se brise et un faisceau de lumière émerge, filant tout droit vers le ciel
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="Grok Imagine Video Prompt : Le Monolithe se Brise">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11224)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **Published:** Sep 23, 2026
+
+---
+### Génération de vidéo à partir d'images
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt utilisant du texte croate ("Les images s'empilent, deviennent un miroir et disparaissent avec un coup de tonnerre") pour générer une courte vidéo verticale basée sur les images fournies.
+
+#### 📝 Prompt
+
+```
+Génère-moi une nouvelle vidéo basée sur les images fournies en utilisant ce prompt : "Les images s'empilent, deviennent un miroir et disparaissent avec un éclair" avec les paramètres suivants : 480p, 6s, 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="Génération de vidéo à partir d'images">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11225)**
+
+**Author:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **Source:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **Published:** Sep 23, 2026
+
+---
+### Ferme puritaine des années 1600
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une scène vidéo d'une ferme puritaine des années 1600 dans le style de Robert Eggers, avec une cheminée.
+
+#### 📝 Prompt
+
+```
+Commençons par une petite maison de ferme puritaine des années 1600, dans le style de Robert Eggers (The Witch), avec une cheminée
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="Ferme puritaine des années 1600">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11227)**
+
+**Author:** [JB](https://x.com/JoshuaBalianSR) | **Source:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **Published:** Sep 23, 2026
+
+---
+### Vidéo d'Elon Musk en train de danser
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Génère une vidéo d'Elon Musk dansant comme Jennifer Lopez, avec l'audio de la chanson 'If You Want My Love'.
+
+#### 📝 Prompt
+
+```
+Créer une vidéo d'Elon Musk dansant comme Jennifer Lopez - If You Want My Love avec audio
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="Vidéo d'Elon Musk en train de danser">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11221)**
+
+**Author:** [Jared Foster](https://x.com/JaredFosterX) | **Source:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **Published:** Sep 23, 2026
+
+---
 ### Groupe de Rock des Chats Anthropomorphes
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -212,6 +330,27 @@ Maintenez les chats entièrement anthropomorphes et rockeurs, le chant en anglai
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
 
 **Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### Statue Baroque de l'Archange Michel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt Grok Imagine détaillé pour générer une peinture à l'huile de style baroque et Renaissance d'une statue de l'Archange Michel dans un musée, combinant les styles de Michel-Ange et du Bernin.
+
+#### 📝 Prompt
+
+```
+Une maîtrise exceptionnelle de la peinture à l'huile de style baroque et Renaissance représentant une statue en marbre crème de l'Archange Michel en ange guerrier, fusion des styles de Michel-Ange et du Bernin. Visage idéalisé à la manière de Michel-Ange, regard noble et sévère, cheveux ondulés sculptés. Mouvement dramatique à la manière du Bernin avec de grandes ailes sculptées entièrement déployées et des drapés sculptés aux plis lourds et fluides. Marbre crème vieilli avec des touches d'ombre peintes en brun chaud dans les plis. Une cuirasse métallique argentée et bleutée sur le torse qui brille sous une lumière froide et bleutée. Le bras droit de la statue est entièrement sculpté et tendu vers l'extérieur dans un geste noble de guerrier, main ouverte ; le bras gauche pend le long du corps. Statue de taille muséale posée sur un socle en pierre sculptée orné, point focal clair de la pièce.
+Autour du socle se dressent quatre colonnes basses en marbre crème richement sculptées, reliées par une chaîne métallique simple et élégante, formant une barrière intérieure de musée. Galerie grandiose d'un palais italien ou cabinet de curiosités similaire au Vatican. Murs densément couverts de peintures à l'huile du XVIe au XVIIe siècle dans de lourdes cadres dorés. Un bureau antique en bois sculpté au premier plan avec des papiers, une plume, un encrier et une bougie allumée. Collections environnantes : globes terrestres, livres reliés en cuir, petits bustes en marbre, cabinets en bois contenant des artefacts, tous secondaires et légèrement plus sombres afin que la statue attire toute l'attention.
+Lumière chaude de lustre doré et de chandelles, riche clair-obscur à la Caravage, ombres teintées de violet dans les coins. Sol en marbre poli avec reflets, plafond à caissons doré. Aspect cinématographique de peinture à l'huile antique. Textures très détaillées du marbre, de l'armure métallique, de la chaîne, des cadres à la feuille d'or et de la toile vieillie. Aucun objet moderne. Aucune grille en fer. Aucun membre manquant.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="Statue Baroque de l'Archange Michel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11223)**
+
+**Author:** [Arco](https://x.com/arco0369) | **Source:** [Link](https://x.com/arco0369/status/2102491951287181545) | **Published:** Sep 22, 2026
 
 ---
 ### Prompt Grok Imagine pour une scène de mangeoire à oiseaux
@@ -1995,143 +2134,6 @@ Athéna marche vers le temple de son père sans dire un mot. Elle regarde Zeus q
 **Author:** [vlad moore](https://x.com/vladmoore3) | **Source:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **Published:** Sep 9, 2026
 
 ---
-### Animation photo réaliste avec parole
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt avancé pour animer deux personnes sur une photo avec une synchronisation labiale spécifique et des mouvements faciaux naturels.
-
-#### 📝 Prompt
-
-```
-Animez cette photo de manière réaliste. L'homme (Charlie) parle en premier en disant « Pam always go Max! » avec une synchronisation labiale et des mouvements de bouche naturels. Ensuite, la femme (Pam) répond en disant « you got it Charlie! » avec une synchronisation labiale naturelle...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097701925424947200/img/JIVCIIy9cUk8TnC9.jpg" width="600" alt="Animation photo réaliste avec parole">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10684)**
-
-**Author:** [Pamela joye middle](https://x.com/JoyeMiddle28955) | **Source:** [Link](https://x.com/JoyeMiddle28955/status/2097701989278998571) | **Published:** Sep 9, 2026
-
----
-### Séquence de mouvement d'un personnage timide
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt de mouvement détaillé pour un personnage qui fait signe, tourne sur lui-même, tombe et sourit, avec des exigences spécifiques pour la coloration de la queue.
-
-#### 📝 Prompt
-
-```
-Regardez à gauche puis à droite successivement et faites signe dans chaque direction. Tournez une fois sur place, perdez l'équilibre et tombez sur les fesses. Enfin, affichez un sourire timide. La queue doit être brun clair de la base jusqu'à la moitié, et brun foncé pour la moitié avant.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097693112428875776/img/VMYuzkc2zkYCF-Q4.jpg" width="600" alt="Séquence de mouvement d'un personnage timide">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10688)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **Published:** Sep 9, 2026
-
----
-### Prompt vidéo : Chat cool avec des lunettes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo pour grok-imagine mettant en scène un chat avec des lunettes et un mouvement de caméra lent.
-
-#### 📝 Prompt
-
-```
-Mouvement de caméra lent, le chat reste relativement immobile. Les animaux savent à quel point ils ont la classe, même avec des lunettes !
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097676269249011712/img/fHbejykVvx-GHy6A.jpg" width="600" alt="Prompt vidéo : Chat cool avec des lunettes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10682)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2097676312357773654) | **Published:** Sep 9, 2026
-
----
-### Animation dynamique d'une scène de Parasyte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Animez une scène de manga avec des changements d'âge et une superposition de texte séquentiel sur des éléments vidéo.
-
-#### 📝 Prompt
-
-```
-Animez la scène de Parasyte pour en faire une vidéo dynamique et amusante : une main extraterrestre géante avec Shinichi et Migi tendue vers la Terre. Superposez un grand texte chinois lumineux apparaissant en séquence : "3秒原则", puis "三分天下", puis "333岁成大叔". Le jeune Shinichi vieillit pour devenir un homme de 333 ans...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097637549095497728/img/xi0uGrQLYYgOOGAV.jpg" width="600" alt="Animation dynamique d'une scène de Parasyte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10676)**
-
-**Author:** [Chenghuai Wang](https://x.com/ChenghuaiW716i) | **Source:** [Link](https://x.com/ChenghuaiW716i/status/2097637600664433145) | **Published:** Sep 9, 2026
-
----
-### Conduite fluide d'une élégante Tesla noire sur autoroute
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Génère une vidéo fluide suivant une Tesla noire futuriste sur une autoroute ensoleillée avec des reflets nets.
-
-#### 📝 Prompt
-
-```
-Une élégante voiture électrique Tesla noire roule en douceur le long d'une autoroute moderne baignée de soleil, sa surface brillante reflétant le paysage environnant tandis qu'elle glisse vers l'avant avec une puissance silencieuse.
-Les visuels présentent un style automobile épuré et futuriste avec des reflets nets...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097621563709501440/img/mLJvZTc-hXrOj-__.jpg" width="600" alt="Conduite fluide d'une élégante Tesla noire sur autoroute">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10674)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097621591815287266) | **Published:** Sep 9, 2026
-
----
-### Prompt vidéo pour un combat d'arts martiaux dans un dojo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo très détaillé pour Grok Imagine décrivant une séance de combat entre deux artistes martiaux blonds dans un dojo japonais.
-
-#### 📝 Prompt
-
-```
-Personnages : Une femme aux longs cheveux blonds et un homme aux cheveux blonds bouclés. Tous deux portent des uniformes d'arts martiaux blancs (gis) et des ceintures noires.
- Action : Ils s'engagent dans un combat au corps à corps intense et rapide, échangeant des coups de poing et des blocages, avant de se séparer pour adopter des positions défensives.
- Cadre : Un dojo japonais traditionnel doté de piliers en bois, d'un sol en tatami et de grandes ouvertures révélant une forêt luxuriante à l'extérieur. Un parchemin suspendu est visible en arrière-plan.
- Cinématographie : Travail de caméra dynamique, coupes rapides et flou de mouvement lors des actions rapides. Un éclairage naturel met en valeur la scène.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097596579775651840/img/ZIvdND7fCCnwhZrG.jpg" width="600" alt="Prompt vidéo pour un combat d'arts martiaux dans un dojo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10685)**
-
-**Author:** [Melisa♡](https://x.com/xmliisu) | **Source:** [Link](https://x.com/xmliisu/status/2097596867500515494) | **Published:** Sep 9, 2026
-
----
-### Prompt vidéo : Femme en imperméable photoréaliste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt textuel de génération directe utilisé pour créer une vidéo réaliste de séquence de pluie avec des caractéristiques de mouvement spécifiques dans Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Femme photoréaliste en imperméable noir debout sous une pluie battante dans une forêt. Elle ouvre les yeux, se tourne vers une faible lumière chaude entre les arbres. Caméra à l'épaule, brume, tissu mouillé, pas d'horreur, pas de déformation du visage.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097587231070523392/img/gC_waap6tc44L4Yc.jpg" width="600" alt="Prompt vidéo : Femme en imperméable photoréaliste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10614)**
-
-**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2193,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T04:28:18.338Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T13:42:20.962Z</sub>
 
 </div>

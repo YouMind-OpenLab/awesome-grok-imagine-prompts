@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2874** |
+| 📝 Total Prompts | **2881** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-24** |
 
@@ -189,6 +189,124 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### फोन कॉल की कहानी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक महिला के फोन उठाने और फिर दरवाजे पर दस्तक होने का वर्णन करने वाला नैरेटिव प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+फोन बजता है। वह फोन उठाती है। हेलो डार्लिंग! फिर दरवाजे पर दस्तक होती है। वह दरवाजा खोलती है....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="फोन कॉल की कहानी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11226)**
+
+**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
+
+---
+### Archer Character Action Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt using a reference image of an archer character to generate a specific action sequence.
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+Generate a video of the muscular character from the reference image performing a natural "poop" action while remaining in character.
+
+[Reference Asset Roles]
+@image1 is used for the character's full appearance: archer
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="Archer Character Action Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11222)**
+
+**Author:** [Dylan Briggs](https://x.com/DylanBriggjk) | **Source:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **Published:** Sep 24, 2026
+
+---
+### Grok Imagine वीडियो प्रॉम्प्ट: मोनोलिथ का टूटना
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जो आकाश में प्रकाश की किरण छोड़ते हुए मोनोलिथ के टूटने का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+मोनोलिथ टूट जाता है और आकाश में सीधे ऊपर की ओर एक प्रकाश की किरण निकलती है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: मोनोलिथ का टूटना">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11224)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **Published:** Sep 23, 2026
+
+---
+### छवियों से वीडियो जनरेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> प्रदान की गई छवियों के आधार पर एक छोटा वर्टिकल वीडियो बनाने के लिए क्रोएशियाई भाषा में एक प्रॉम्प्ट का उपयोग ('छवियाँ एक-दूसरे पर चिपककर दर्पण बन जाती हैं और बिजली गिरने के साथ ही गायब हो जाती हैं')।
+
+#### 📝 Prompt
+
+```
+निम्नलिखित सेटिंग्स के साथ इस प्रॉम्प्ट का उपयोग करके प्रदान की गई छवियों के आधार पर मेरे लिए एक नया वीडियो बनाएं: "छवियाँ एक-दूसरे पर चिपककर दर्पण बन जाती हैं और बिजली गिरने के साथ ही गायब हो जाती हैं" - 480p, 6s, 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="छवियों से वीडियो जनरेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11225)**
+
+**Author:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **Source:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **Published:** Sep 23, 2026
+
+---
+### 1600s Puritan Homestead
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video scene of a 1600s Robert Eggers-style puritan homestead with a fireplace.
+
+#### 📝 Prompt
+
+```
+Let’s start with a 1600s Robert Eggers the witch puritan homestead small house fire place
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="1600s Puritan Homestead">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11227)**
+
+**Author:** [JB](https://x.com/JoshuaBalianSR) | **Source:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **Published:** Sep 23, 2026
+
+---
+### एलन मस्क का डांस वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 'If You Want My Love' के ऑडियो के साथ जेनिफर लोपेज की तरह एलन मस्क के नाचते हुए वीडियो को जनरेट करता है।
+
+#### 📝 Prompt
+
+```
+जेनिफर लोपेज की तरह एलन मस्क के नाचते हुए वीडियो को बनाएं - 'If You Want My Love' के ऑडियो के साथ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="एलन मस्क का डांस वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11221)**
+
+**Author:** [Jared Foster](https://x.com/JaredFosterX) | **Source:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **Published:** Sep 23, 2026
+
+---
 ### एन्थ्रोपोमॉर्फिक रॉकर कैट्स बैंड
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -212,6 +330,29 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
 
 **Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### बारोक शैली की आर्कएंजल माइकल मूर्ति
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> म्यूजियम सेटिंग में बारोक-पुनर्जागरण शैली की तेल पेंटिंग उत्पन्न करने के लिए एक विस्तृत Grok Imagine प्रॉम्प्ट, जो माइकलएंजलो और बर्निनी की शैलियों को संयोजित करता है।
+
+#### 📝 Prompt
+
+```
+आर्कएंजल माइकल की क्रीम मार्बल मूर्ति का एक महारत भरा बारोक-पुनर्जागरण तेल चित्र, जिसे योद्धा देवदूत के रूप में दर्शाया गया है, जो माइकलएंजलो और बर्निनी की शैलियों का मिश्रण है। माइकलएंजलो शैली का आदर्शीकृत चेहरा, गौरवशाली कठोर दृष्टि, और तरंगदार बालों की नक्काशी। बर्निनी शैली का नाटकीय गतिविधि जिसमें बड़ी नक्काशीदार पंख पूरी तरह फैले हुए हैं और भारी मोड़ों में बहती हुई नक्काशीदार वस्त्र। क्रीम रंग की प्राचीन मार्बल जिसमें मोड़ों में गर्म भूरे रंग की छाया की स्ट्रोक्स हैं। छाती पर चमकता हुआ सिल्वर-नीला धातु का सीने का कवच जो ठंडी नीली रोशनी में चमकता है। मूर्ति का दाहिना हाथ पूरी तरह नक्काशीदार है और बाहर की ओर एक गौरवशाली खुले हाथ वाले योद्धा के इशारे में बढ़ा हुआ है; बायां हाथ किनारे पर लटका हुआ है। एक अलंकृत नक्काशीदार पत्थर के आधार पर म्यूजियम-स्केल की मूर्ति, कमरे का स्पष्ट केंद्र बिंदु।
+
+आधार के चारों ओर चार निचले, जटिल रूप से नक्काशीदार क्रीम मार्बल स्तंभ खड़े हैं, जो एक सरल सुंदर धातु की चेन से जुड़े हुए हैं, यह एक आंतरिक म्यूजियम बाधा है। भव्य इतालवी पैलेज़ो गैलरी या वैटिकन जैसी दुर्लभ वस्तुओं की कैबिनेट। दीवारें भारी सुनहरे फ्रेम वाली 16वीं–17वीं सदी की तेल पेंटिंग्स से घनी ढंग से ढकी हुई हैं। अग्रभूमि में एक प्राचीन नक्काशीदार लकड़ी की लेखन मेज जिसमें कागजात, कलम, स्याही की शीशी, और एक जलती हुई मोमबत्ती है। आसपास के संग्रह: ग्लोब, चमड़े से बंधी किताबें, छोटी मार्बल बस्ट, कलाकृतियों वाले लकड़ी के अलमारियाँ, सभी द्वितीयक और थोड़े गहरे ताकि मूर्ति ध्यान आकर्षित करे।
+
+गर्म सुनहरी झूमर और मोमबत्ती की रोशनी, समृद्ध कारावाजियो कीआरोस्कुरो (chiaroscuro), कोनों में बैंगनी-छाया वाली अंधेरी। प्रतिबिंबों के साथ पॉलिश किया गया मार्बल फर्श, छत पर सुनहरे खंड। सिनेमाई प्राचीन तेल-चित्र का लुक। मार्बल, धातु के कवच, चेन, सोने के पन्नी के फ्रेम, और पुराने कैनवास की अत्यधिक विस्तृत बनावट। कोई आधुनिक वस्तु नहीं। कोई लोहे की जाली नहीं। कोई लापता अंग नहीं।
+```
+
+<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="बारोक शैली की आर्कएंजल माइकल मूर्ति">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11223)**
+
+**Author:** [Arco](https://x.com/arco0369) | **Source:** [Link](https://x.com/arco0369/status/2102491951287181545) | **Published:** Sep 22, 2026
 
 ---
 ### बर्ड फीडर दृश्य के लिए Grok Imagine प्रॉम्प्ट
@@ -1995,143 +2136,6 @@ New York City after dark—where the skyline shines brighter than the stars.
 **Author:** [vlad moore](https://x.com/vladmoore3) | **Source:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **Published:** Sep 9, 2026
 
 ---
-### यथार्थवादी टॉकिंग फोटो एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक फोटो में दो लोगों को विशिष्ट लिप-सिंक संवाद और स्वाभाविक चेहरे के हाव-भाव के साथ एनिमेट करने के लिए एक उन्नत प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-इस फोटो को यथार्थवादी तरीके से एनिमेट करें। पुरुष (Charlie) पहले बोलता है और कहता है "Pam always go Max!" जिसके साथ स्वाभाविक लिप-सिंक और मुंह की हरकतें होनी चाहिए। फिर महिला (Pam) जवाब देती है और कहती है "you got it Charlie!" जिसके साथ स्वाभाविक लिप-सिंक होनी चाहिए....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097701925424947200/img/JIVCIIy9cUk8TnC9.jpg" width="600" alt="यथार्थवादी टॉकिंग फोटो एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10684)**
-
-**Author:** [Pamela joye middle](https://x.com/JoyeMiddle28955) | **Source:** [Link](https://x.com/JoyeMiddle28955/status/2097701989278998571) | **Published:** Sep 9, 2026
-
----
-### शर्मीले पात्र का मोशन सीक्वेंस
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एक पात्र के हाथ हिलाने, घूमने, गिरने और मुस्कुराने के लिए एक विस्तृत मोशन प्रॉम्प्ट, जिसमें पूंछ के रंग के लिए विशिष्ट आवश्यकताएं दी गई हैं।
-
-#### 📝 Prompt
-
-```
-क्रमशः बाएं और दाएं देखें और प्रत्येक दिशा में हाथ हिलाएं। एक बार अपनी जगह पर घूमें लेकिन संतुलन खो दें और अपने कूल्हों के बल गिर जाएं। अंत में, एक शर्मीली मुस्कान दिखाएं। पूंछ का आधार से आधा हिस्सा हल्का भूरा और अगला आधा हिस्सा गहरा भूरा होना चाहिए।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097693112428875776/img/VMYuzkc2zkYCF-Q4.jpg" width="600" alt="शर्मीले पात्र का मोशन सीक्वेंस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10688)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **Published:** Sep 9, 2026
-
----
-### चश्मा पहने कूल बिल्ली का वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> grok-imagine के लिए एक वीडियो प्रॉम्प्ट, जिसमें चश्मा पहने एक बिल्ली है और कैमरे की गति धीमी है।
-
-#### 📝 Prompt
-
-```
-कैमरे की धीमी गति, बिल्ली अपेक्षाकृत स्थिर है। जानवरों को पता है कि वे चश्मे में भी कितने कूल दिखते हैं!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097676269249011712/img/fHbejykVvx-GHy6A.jpg" width="600" alt="चश्मा पहने कूल बिल्ली का वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10682)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2097676312357773654) | **Published:** Sep 9, 2026
-
----
-### डायनामिक पैरासाइट सीन एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बदलती उम्र और वीडियो तत्वों पर ओवरले किए गए सीक्वेंस टेक्स्ट के साथ एक मंगा सीन को एनिमेट करें।
-
-#### 📝 Prompt
-
-```
-पैरासाइट सीन को एक मजेदार डायनामिक वीडियो में एनिमेट करें: शिनिची और मिगी के साथ विशाल एलियन हाथ पृथ्वी की ओर बढ़ रहा है। बड़े चमकते चीनी टेक्स्ट को सीक्वेंस में ओवरले करें: पहले "3秒原则", फिर "三分天下", और उसके बाद "333岁成大叔"। युवा शिनिची 333 साल के बुजुर्ग में बदल जाता है...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097637549095497728/img/xi0uGrQLYYgOOGAV.jpg" width="600" alt="डायनामिक पैरासाइट सीन एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10676)**
-
-**Author:** [Chenghuai Wang](https://x.com/ChenghuaiW716i) | **Source:** [Link](https://x.com/ChenghuaiW716i/status/2097637600664433145) | **Published:** Sep 9, 2026
-
----
-### शानदार ब्लैक टेस्ला हाईवे ड्राइव
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> धूप से सराबोर हाईवे पर एक भविष्यवादी ब्लैक टेस्ला का पीछा करते हुए एक स्मूथ वीडियो बनाता है, जिसमें स्पष्ट रिफ्लेक्शन्स दिखाई देते हैं।
-
-#### 📝 Prompt
-
-```
-एक शानदार ब्लैक टेस्ला इलेक्ट्रिक वाहन धूप से सराबोर आधुनिक हाईवे पर सुचारू रूप से चल रही है, जिसकी चमकदार सतह पर आसपास के दृश्य दिखाई दे रहे हैं और यह शांत शक्ति के साथ आगे बढ़ रही है।
-विजुअल्स एक साफ-सुथरी, भविष्यवादी ऑटोमोटिव शैली प्रस्तुत करते हैं जिसमें स्पष्ट रिफ्लेक्शन्स हैं...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097621563709501440/img/mLJvZTc-hXrOj-__.jpg" width="600" alt="शानदार ब्लैक टेस्ला हाईवे ड्राइव">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10674)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097621591815287266) | **Published:** Sep 9, 2026
-
----
-### मार्शल आर्ट्स डोजो स्पैरिंग वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक अत्यधिक विस्तृत वीडियो प्रॉम्प्ट, जो एक जापानी डोजो में दो सुनहरे बालों वाले मार्शल आर्टिस्ट्स के बीच स्पैरिंग सत्र का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-पात्र: लंबे सुनहरे बालों वाली एक महिला और घुंघराले सुनहरे बालों वाला एक पुरुष। दोनों ने सफेद मार्शल आर्ट्स यूनिफॉर्म (gis) और ब्लैक बेल्ट पहनी हुई है।
- एक्शन: वे तीव्र, तेज गति से हैंड-टू-हैंड स्पैरिंग करते हैं, घूंसे मारते हैं और बचाव करते हैं, जिसके बाद वे रक्षात्मक मुद्रा में आ जाते हैं।
- सेटिंग: एक पारंपरिक जापानी डोजो जिसमें लकड़ी के खंभे, तातामी फर्श और बड़े द्वार हैं जिनसे बाहर का हरा-भरा जंगल दिखाई देता है। पृष्ठभूमि में एक लटकता हुआ स्क्रॉल दिखाई दे रहा है।
- सिनेमैटोग्राफी: तेज गति वाला कैमरा वर्क, क्विक कट्स, और तेज गतिविधियों के दौरान मोशन ब्लर। प्राकृतिक रोशनी दृश्य को उभारती है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097596579775651840/img/ZIvdND7fCCnwhZrG.jpg" width="600" alt="मार्शल आर्ट्स डोजो स्पैरिंग वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10685)**
-
-**Author:** [Melisa♡](https://x.com/xmliisu) | **Source:** [Link](https://x.com/xmliisu/status/2097596867500515494) | **Published:** Sep 9, 2026
-
----
-### Photoreal Raincoat Woman वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के अंदर विशिष्ट गति विशेषताओं के साथ एक यथार्थवादी बारिश अनुक्रम वीडियो बनाने के लिए उपयोग किया जाने वाला एक सीधा जनरेशन टेक्स्ट प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-Photoreal woman in a black raincoat standing in heavy rain in a forest. She opens her eyes, turns toward a faint warm light between the trees. Handheld, mist, wet fabric, no horror, no face morph.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097587231070523392/img/gC_waap6tc44L4Yc.jpg" width="600" alt="Photoreal Raincoat Woman वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10614)**
-
-**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2193,6 +2197,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T04:28:14.541Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T13:42:16.260Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2874** |
+| 📝 Total Prompts | **2881** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-24** |
 
@@ -189,6 +189,124 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Telefonanruf-Erzählung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein erzählerischer Prompt, der eine Frau beschreibt, die einen Anruf entgegennimmt, gefolgt von einem Klopfen an der Tür.
+
+#### 📝 Prompt
+
+```
+Das Telefon klingelt. Sie geht ran. Hallo Schatz! Dann ein Klopfen an der Tür. Sie öffnet...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="Telefonanruf-Erzählung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11226)**
+
+**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
+
+---
+### Archer Character Action Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Videogenerierung, der ein Referenzbild eines Bogenschützen-Charakters nutzt, um eine spezifische Aktionssequenz zu erstellen.
+
+#### 📝 Prompt
+
+```
+[Generierungsziel]
+Erstelle ein Video des muskulösen Charakters aus dem Referenzbild, der eine natürliche "Poop"-Aktion durchführt, während er im Charakter bleibt.
+
+[Rollen der Referenzassets]
+@image1 wird für das vollständige Aussehen des Charakters verwendet: Bogenschütze
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="Archer Character Action Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11222)**
+
+**Author:** [Dylan Briggs](https://x.com/DylanBriggjk) | **Source:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **Published:** Sep 24, 2026
+
+---
+### Grok Imagine Video-Prompt: Der Monolith zerbricht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Videogenerierung für Grok Imagine, der beschreibt, wie ein Monolith zerbricht und ein Lichtstrahl in den Himmel schießt.
+
+#### 📝 Prompt
+
+```
+Der Monolith zerbricht und ein Lichtstrahl schießt senkrecht in den Himmel
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="Grok Imagine Video-Prompt: Der Monolith zerbricht">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11224)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **Published:** Sep 23, 2026
+
+---
+### Videogenerierung aus Bildern
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt mit kroatischem Text ('The images stack up become a mirror and disappear with a thunder strike'), um ein kurzes vertikales Video basierend auf den bereitgestellten Bildern zu generieren.
+
+#### 📝 Prompt
+
+```
+Erstelle mir ein neues Video basierend auf den bereitgestellten Bildern mit diesem Prompt: "Die Bilder stapeln sich, werden zu einem Spiegel und verschwinden mit einem Blitzschlag" unter folgenden Einstellungen: 480p, 6s, 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="Videogenerierung aus Bildern">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11225)**
+
+**Author:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **Source:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **Published:** Sep 23, 2026
+
+---
+### Puritanische Siedlung aus dem 17. Jahrhundert
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung einer Videoszene einer puritanischen Siedlung im Stil von Robert Eggers aus dem 17. Jahrhundert mit einem Kamin.
+
+#### 📝 Prompt
+
+```
+Beginnen wir mit einer kleinen puritanischen Siedlung aus dem 17. Jahrhundert im Stil von Robert Eggers' 'The Witch', inklusive Kaminfeuer
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="Puritanische Siedlung aus dem 17. Jahrhundert">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11227)**
+
+**Author:** [JB](https://x.com/JoshuaBalianSR) | **Source:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **Published:** Sep 23, 2026
+
+---
+### Elon Musk Tanzvideo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt ein Video von Elon Musk, der wie Jennifer Lopez tanzt, mit dem Audio von 'If You Want My Love'.
+
+#### 📝 Prompt
+
+```
+Video erstellen: Elon tanzt wie Jennifer Lopez – 'If You Want My Love' mit Audio
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="Elon Musk Tanzvideo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11221)**
+
+**Author:** [Jared Foster](https://x.com/JaredFosterX) | **Source:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **Published:** Sep 23, 2026
+
+---
 ### Anthropomorphe Rocker-Katzen-Band
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -212,6 +330,27 @@ Halte die Katzen vollständig als anthropomorphe Rocker, den Gesang auf Englisch
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
 
 **Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### Barocke Statue des Erzengels Michael
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Grok Imagine Prompt zur Generierung eines Ölgemäldes im Barock-Renaissance-Stil, das eine Statue des Erzengels Michael in einem Museum zeigt und die Stile von Michelangelo und Bernini vereint.
+
+#### 📝 Prompt
+
+```
+Ein meisterhaftes Barock-Renaissance-Ölgemälde einer cremefarbenen Marmorstatue des Erzengels Michael als Kriegerengel, eine Hybrid aus den Stilen von Michelangelo und Bernini. Idealisiertes Gesicht im Stil Michelangelos, ein edler, strenger Blick und gemeißeltes welliges Haar. Dramatische Bewegung im Stil Berninis mit großen, vollständig ausgebreiteten gemeißelten Flügeln und fließenden, schweren Falten werfenden Draperien. Cremefarbener gealterter Marmor mit warmen braunen Schattenstrichen in den Falten. Eine glänzende silber-blaue metallische Brustpanzerung auf der Brust, die in kühlem bläulichem Licht schimmert. Der rechte Arm der Statue ist vollständig gemeißelt und nach außen gestreckt in einer edlen, offenen Handgeste eines Kriegers; der linke Arm hängt seitlich herab. Eine Statue in Museumsgröße steht auf einem kunstvoll geschnitzten Steinsockel und bildet den klaren Fokus des Raumes.
+Um den Sockel herum stehen vier niedrige, aufwendig geschnitzte cremefarbene Marmorsäulen, die durch eine einfache elegante Metallkette verbunden sind – eine innere Museumsbarriere. Eine große italienische Palastgalerie oder ein vatikanisches Kuriositätenkabinett. Die Wände sind dicht bedeckt mit Ölgemälden aus dem 16.–17. Jahrhundert in schweren vergoldeten Rahmen. Ein antiker geschnitzter Holzschreibtisch im Vordergrund mit Papieren, Federkiel, Tintenfass und einer brennenden Kerze. Umgebende Sammlungen: Globen, ledergebundene Bücher, kleinere Marmorbüsten, Holzschränke mit Artefakten, alle sekundär und etwas dunkler gehalten, damit die Statue die Aufmerksamkeit dominiert.
+Warmes goldenes Kronleuchter- und Kerzenlicht, reichhaltiges Caravaggio-Chiaroscuro, violett getönte Schatten in den Ecken. Polierter Marmorboden mit Reflexionen, Kassettendecke mit Vergoldung. Cinematischer Look eines antiken Ölgemäldes. Hochdetaillierte Texturen von Marmor, Metallrüstung, Kette, Blattgoldrahmen und gealterter Leinwand. Keine modernen Objekte. Kein Eisenzaun. Keine fehlenden Gliedmaßen.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="Barocke Statue des Erzengels Michael">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11223)**
+
+**Author:** [Arco](https://x.com/arco0369) | **Source:** [Link](https://x.com/arco0369/status/2102491951287181545) | **Published:** Sep 22, 2026
 
 ---
 ### Grok Imagine Prompt für Vogelhäuschen-Szene
@@ -1995,143 +2134,6 @@ Athena geht schweigend auf den Tempel ihres Vaters zu. Sie sieht Zeus an, als er
 **Author:** [vlad moore](https://x.com/vladmoore3) | **Source:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **Published:** Sep 9, 2026
 
 ---
-### Realistische Animation von sprechenden Fotos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein fortschrittlicher Prompt zur Animation von zwei Personen auf einem Foto mit spezifischem Lippen-Synchron-Dialog und natürlichen Gesichtsbewegungen.
-
-#### 📝 Prompt
-
-```
-Animieren Sie dieses Foto realistisch. Der Mann (Charlie) spricht zuerst und sagt: „Pam always go Max!“ mit natürlicher Lippensynchronisation und Mundbewegungen. Dann antwortet die Frau (Pam) mit: „you got it Charlie!“ mit natürlicher Lippensynchronisation....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097701925424947200/img/JIVCIIy9cUk8TnC9.jpg" width="600" alt="Realistische Animation von sprechenden Fotos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10684)**
-
-**Author:** [Pamela joye middle](https://x.com/JoyeMiddle28955) | **Source:** [Link](https://x.com/JoyeMiddle28955/status/2097701989278998571) | **Published:** Sep 9, 2026
-
----
-### Bewegungssequenz für schüchternen Charakter
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter Bewegungs-Prompt für einen Charakter, der winkt, sich dreht, hinfällt und lächelt, mit spezifischen Anforderungen an die Farbgebung des Schwanzes.
-
-#### 📝 Prompt
-
-```
-Schau nacheinander nach links und rechts und winke in jede Richtung. Drehe dich einmal auf der Stelle, verliere dabei das Gleichgewicht und falle auf den Hintern. Zeige zum Schluss ein schüchternes Lächeln. Der Schwanz sollte von der Basis bis zur Hälfte hellbraun und in der vorderen Hälfte dunkelbraun sein.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097693112428875776/img/VMYuzkc2zkYCF-Q4.jpg" width="600" alt="Bewegungssequenz für schüchternen Charakter">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10688)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **Published:** Sep 9, 2026
-
----
-### Video-Prompt: Cooler Kater mit Brille
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für grok-imagine, der eine Katze mit Brille bei langsamer Kamerabewegung zeigt.
-
-#### 📝 Prompt
-
-```
-Langsame Kamerabewegung, die Katze bleibt relativ ruhig. Tiere wissen einfach, wie cool sie selbst mit Brille aussehen!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097676269249011712/img/fHbejykVvx-GHy6A.jpg" width="600" alt="Video-Prompt: Cooler Kater mit Brille">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10682)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2097676312357773654) | **Published:** Sep 9, 2026
-
----
-### Dynamische Parasyte-Szenenanimation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Animieren Sie eine Manga-Szene mit wechselnden Altersstufen und einer sequenziellen Texteinblendung über Videoelementen.
-
-#### 📝 Prompt
-
-```
-Animieren Sie die Parasyte-Szene in ein unterhaltsames, dynamisches Video: Eine riesige Alien-Hand mit Shinichi und Migi greift nach der Erde. Blenden Sie nacheinander großen, leuchtenden chinesischen Text ein: „3秒原则“, dann „三分天下“, dann „333岁成大叔“. Der junge Shinichi altert zu einem 333-jährigen M...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097637549095497728/img/xi0uGrQLYYgOOGAV.jpg" width="600" alt="Dynamische Parasyte-Szenenanimation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10676)**
-
-**Author:** [Chenghuai Wang](https://x.com/ChenghuaiW716i) | **Source:** [Link](https://x.com/ChenghuaiW716i/status/2097637600664433145) | **Published:** Sep 9, 2026
-
----
-### Eleganter schwarzer Tesla auf der Autobahn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Erzeugt ein flüssiges Video, das einen futuristischen schwarzen Tesla auf einer sonnendurchfluteten Autobahn mit scharfen Reflexionen verfolgt.
-
-#### 📝 Prompt
-
-```
-Ein eleganter schwarzer Tesla fährt sanft über eine sonnendurchflutete, moderne Autobahn. Die glänzende Oberfläche reflektiert die Umgebung, während das Fahrzeug mit leiser Kraft vorwärts gleitet.
-Die Optik besticht durch einen klaren, futuristischen Automobil-Stil mit scharfen Reflexionen...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097621563709501440/img/mLJvZTc-hXrOj-__.jpg" width="600" alt="Eleganter schwarzer Tesla auf der Autobahn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10674)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097621591815287266) | **Published:** Sep 9, 2026
-
----
-### Video-Prompt für Martial-Arts-Dojo-Sparring
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Video-Prompt für Grok Imagine, der ein Sparring zwischen zwei blonden Kampfsportlern in einem japanischen Dojo beschreibt.
-
-#### 📝 Prompt
-
-```
-Charaktere: Eine Frau mit langem blondem Haar und ein Mann mit lockigem blondem Haar. Beide tragen weiße Kampfsportanzüge (Gis) und schwarze Gürtel.
- Aktion: Sie liefern sich ein intensives, schnelles Sparring im Nahkampf, tauschen Schläge und Blocks aus, bevor sie sich voneinander lösen und defensive Kampfstellungen einnehmen.
- Schauplatz: Ein traditionelles japanisches Dojo mit Holzsäulen, Tatami-Böden und großen Öffnungen, die den Blick auf einen üppig grünen Wald freigeben. Im Hintergrund ist eine hängende Schriftrolle zu sehen.
- Kinematografie: Schnelle Kameraführung, rasche Schnitte und Bewegungsunschärfe bei schnellen Manövern. Natürliches Licht unterstreicht die Szene.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097596579775651840/img/ZIvdND7fCCnwhZrG.jpg" width="600" alt="Video-Prompt für Martial-Arts-Dojo-Sparring">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10685)**
-
-**Author:** [Melisa♡](https://x.com/xmliisu) | **Source:** [Link](https://x.com/xmliisu/status/2097596867500515494) | **Published:** Sep 9, 2026
-
----
-### Fotorealistischer Video-Prompt: Frau im Regenmantel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein direkter Text-Prompt zur Erstellung eines realistischen Regen-Videos mit spezifischen Bewegungseigenschaften in Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Fotorealistische Frau in einem schwarzen Regenmantel, die bei starkem Regen in einem Wald steht. Sie öffnet die Augen und dreht sich zu einem schwachen, warmen Licht zwischen den Bäumen. Handkamera, Nebel, nasser Stoff, kein Horror, kein Face-Morph.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097587231070523392/img/gC_waap6tc44L4Yc.jpg" width="600" alt="Fotorealistischer Video-Prompt: Frau im Regenmantel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10614)**
-
-**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2193,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T04:28:17.231Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T13:42:19.834Z</sub>
 
 </div>

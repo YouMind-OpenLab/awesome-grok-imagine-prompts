@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2874** |
+| 📝 Total Prompts | **2881** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-24** |
 
@@ -189,6 +189,124 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Telefon Görüşmesi Anlatısı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadının telefon görüşmesini yanıtlamasını ve ardından kapıya vurulmasını anlatan bir senaryo istemi.
+
+#### 📝 Prompt
+
+```
+Telefon çalar. Açılır. Merhaba Tatlım! Ardından kapıya vurulur. Kapıyı açar....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="Telefon Görüşmesi Anlatısı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11226)**
+
+**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
+
+---
+### Okçu Karakter Aksiyon Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir okçu karakterin referans görselini kullanarak belirli bir aksiyon sekansı oluşturmak için detaylı video üretim istemi.
+
+#### 📝 Prompt
+
+```
+[Üretim Hedefi]
+Referans görseldeki kaslı karakterin, karakter özelliğini koruyarak doğal bir "kaka yapma" eylemini gerçekleştirdiği bir video üret.
+
+[Referans Varlık Rolleri]
+@image1, karakterin tam görünümü için kullanılır: okçu
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="Okçu Karakter Aksiyon Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11222)**
+
+**Author:** [Dylan Briggs](https://x.com/DylanBriggjk) | **Source:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **Published:** Sep 24, 2026
+
+---
+### Grok Imagine Video İstemi: Monolit Parçalanıyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Monolitin parçalanıp gökyüzüne doğru bir ışık huzmesinin yükseldiğini betimleyen Grok Imagine video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Monolit parçalanır ve gökyüzüne doğru düz bir şekilde yükselen bir ışık huzmesi ortaya çıkar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="Grok Imagine Video İstemi: Monolit Parçalanıyor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11224)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **Published:** Sep 23, 2026
+
+---
+### Görüntülerden Video Oluşturma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sağlanan görüntülere dayalı olarak kısa bir dikey video oluşturmak için Hırvatça metin içeren ('Görüntüler üst üste yığılır, ayna olur ve bir şimşek çarpmasıyla kaybolur') bir istem.
+
+#### 📝 Prompt
+
+```
+Bu istemi kullanarak sağlanan görüntülere dayalı yeni bir video oluşturun: "Görüntüler üst üste yığılır, ayna olur ve bir şimşek çarpmasıyla kaybolur". Ayarlar: 480p, 6s, 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="Görüntülerden Video Oluşturma">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11225)**
+
+**Author:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **Source:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **Published:** Sep 23, 2026
+
+---
+### 17. Yüzyıl Püriten Çiftliği
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Şömineli, Robert Eggers tarzı 17. yüzyıl Püriten çiftlik evi video sahnesi oluşturmak için bir istem.
+
+#### 📝 Prompt
+
+```
+Robert Eggers'ın Cadı filminden esinlenen, şömineli küçük bir 17. yüzyıl Püriten çiftlik evi ile başlayalım
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="17. Yüzyıl Püriten Çiftliği">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11227)**
+
+**Author:** [JB](https://x.com/JoshuaBalianSR) | **Source:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **Published:** Sep 23, 2026
+
+---
+### Elon Musk Dans Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Jennifer Lopez gibi dans eden Elon Musk'ın, 'If You Want My Love' şarkısının sesini içeren videosunu oluşturur.
+
+#### 📝 Prompt
+
+```
+Elon'un Jennifer Lopez gibi dans ettiği ve 'If You Want My Love' şarkısının sesini içeren videoyu oluşturun
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="Elon Musk Dans Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11221)**
+
+**Author:** [Jared Foster](https://x.com/JaredFosterX) | **Source:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **Published:** Sep 23, 2026
+
+---
 ### Antropomorfik Rocker Kedi Grubu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -212,6 +330,27 @@ Kedileri tamamen antropomorfik rocker olarak, İngilizce şarkı söylemeyi, psi
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
 
 **Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### Barok Başmelek Mikail Heykeli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Müze ortamında, Michelangelo ve Bernini tarzlarını birleştiren Barok-Rönesans tarzı bir Başmelek Mikail heykelinin yağlı boya tablosunu oluşturmak için detaylı bir Grok Imagine istemi.
+
+#### 📝 Prompt
+
+```
+Savaşçı melek olarak tasvir edilen krem rengi mermerden yapılmış Başmelek Mikail heykelinin, Michelangelo ve Bernini üsluplarının harmanlandığı, usta işi Barok-Rönesans tarzı bir yağlı boya tablosu. Michelangelo tarzı idealize edilmiş yüz hatları, asil ve sert bakışlar ile oyulmuş dalgalı saçlar. Tamamen açılmış büyük heykelsi kanatlarla dramatik hareket ve ağır kıvrımlara sahip akan oyulmuş kumaş drapeleriyle Bernini tarzı. Katlanma yerlerinde sıcak kahverengi boyalı gölge vuruşlarına sahip krem renkli yaşlandırılmış mermer. Göğüste soğuk mavimsi ışıkla parlayan parlak gümüş-mavi metalik göğüs zırhı. Heykelin sağ kolu tamamen şekillendirilmiş ve dışa doğru asil, açık avuçlu bir savaşçı jestiyle uzatılmış; sol kol ise yan tarafta sarkıyor. Oymalı taş kaide üzerinde müze ölçeğinde bir heykel, odanın net odak noktası.
+Kaidenin etrafında, basit ve zarif metal zincirlerle birbirine bağlanmış dört alçak, özenle oyulmuş krem rengi mermer sütun duruyor; bu iç mekan müze bariyeridir. Büyük İtalyan sarayı galerisi veya Vatikan benzeri bir merak dolabı. Duvarlar, ağır yaldızlı çerçeveler içindeki 16.–17. yüzyıl yağlı boya tablolarıyla yoğun şekilde kaplıdır. Ön planda, kağıtlar, tüy kalem, mürekkep hokkası ve yanan bir mum bulunan antika oymalı ahşap yazı masası. Çevredeki koleksiyonlar: küreler, deri ciltli kitaplar, daha küçük mermer büstler, eserlerin bulunduğu ahşap dolaplar; bunların hepsi ikincil plandadır ve biraz daha koyudur, böylece heykel dikkat çeker.
+Sıcak altın rengi avize ve mum ışığı, zengin Caravaggio chiaroscuro (açık-koyu) tekniği, köşelerde mor tonlarında gölgeler. Yansımaları olan cilalı mermer zemin, kasetonlu yaldızlı tavan. Sinematik antika yağlı boya tablo görünümü. Mermer, metal zırh, zincir, varak çerçeveler ve yaşlandırılmış tuval dokularının yüksek detaylı sunumu. Modern nesne yok. Demir çit yok. Eksik uzuv yok.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="Barok Başmelek Mikail Heykeli">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11223)**
+
+**Author:** [Arco](https://x.com/arco0369) | **Source:** [Link](https://x.com/arco0369/status/2102491951287181545) | **Published:** Sep 22, 2026
 
 ---
 ### Kuş Yemliği Sahnesi İçin Grok Imagine İstemi
@@ -1995,143 +2134,6 @@ Athena babasının tapınağına doğru yürür, hiçbir şey söylemeden Zeus'a
 **Author:** [vlad moore](https://x.com/vladmoore3) | **Source:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **Published:** Sep 9, 2026
 
 ---
-### Gerçekçi Konuşan Fotoğraf Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir fotoğraftaki iki kişiyi, belirli bir diyalogla dudak senkronizasyonu ve doğal yüz hareketleri eşliğinde canlandırmak için gelişmiş bir komut.
-
-#### 📝 Prompt
-
-```
-Bu fotoğrafı gerçekçi bir şekilde canlandır. Önce erkek (Charlie) doğal bir dudak senkronizasyonu ve ağız hareketleriyle "Pam always go Max!" diyor. Ardından kadın (Pam) doğal bir dudak senkronizasyonuyla "you got it Charlie!" şeklinde yanıt veriyor....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097701925424947200/img/JIVCIIy9cUk8TnC9.jpg" width="600" alt="Gerçekçi Konuşan Fotoğraf Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10684)**
-
-**Author:** [Pamela joye middle](https://x.com/JoyeMiddle28955) | **Source:** [Link](https://x.com/JoyeMiddle28955/status/2097701989278998571) | **Published:** Sep 9, 2026
-
----
-### Utangaç Karakter Hareket Dizisi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Bir karakterin el sallama, dönme, düşme ve gülümseme hareketleri için kuyruk rengi gereksinimlerini de içeren detaylı bir hareket komutu.
-
-#### 📝 Prompt
-
-```
-Sırasıyla sola ve sağa bakın ve her iki yöne de el sallayın. Olduğunuz yerde bir kez dönün ancak dengenizi kaybedip poponuzun üzerine düşün. Son olarak, utangaç bir gülümseme sergileyin. Kuyruk, tabanından yarısına kadar açık kahverengi, ön yarısı ise koyu kahverengi olmalıdır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097693112428875776/img/VMYuzkc2zkYCF-Q4.jpg" width="600" alt="Utangaç Karakter Hareket Dizisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10688)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **Published:** Sep 9, 2026
-
----
-### Gözlüklü Havalı Kedi Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gözlüklü bir kedinin yer aldığı ve yavaş kamera hareketine sahip grok-imagine video istemi.
-
-#### 📝 Prompt
-
-```
-Yavaş kamera hareketi, kedi nispeten hareketsiz kalıyor. Hayvanlar gözlükle bile ne kadar havalı göründüklerini biliyorlar!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097676269249011712/img/fHbejykVvx-GHy6A.jpg" width="600" alt="Gözlüklü Havalı Kedi Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10682)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2097676312357773654) | **Published:** Sep 9, 2026
-
----
-### Dinamik Parasyte Sahne Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir manga sahnesini, değişen yaşlar ve video öğelerinin üzerine binen sıralı metin katmanlarıyla canlandırın.
-
-#### 📝 Prompt
-
-```
-Parasyte sahnesini eğlenceli ve dinamik bir videoya dönüştürün: Shinichi ve Migi'nin bulunduğu dev uzaylı eli Dünya'ya doğru uzanıyor. Videonun üzerine sırayla beliren büyük ve parlak Çince metinleri yerleştirin: "3秒原则", ardından "三分天下", son olarak "333岁成大叔". Genç Shinichi 333 yaşında bir adama dönüşüyor...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097637549095497728/img/xi0uGrQLYYgOOGAV.jpg" width="600" alt="Dinamik Parasyte Sahne Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10676)**
-
-**Author:** [Chenghuai Wang](https://x.com/ChenghuaiW716i) | **Source:** [Link](https://x.com/ChenghuaiW716i/status/2097637600664433145) | **Published:** Sep 9, 2026
-
----
-### Şık Siyah Tesla Otoyol Sürüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Güneşli bir otoyolda keskin yansımalarla ilerleyen fütüristik siyah bir Tesla'yı takip eden pürüzsüz bir video oluşturur.
-
-#### 📝 Prompt
-
-```
-Şık, siyah bir Tesla elektrikli araç, güneşli modern bir otoyolda pürüzsüzce ilerliyor; parlak yüzeyi çevredeki manzarayı yansıtırken sessiz bir güçle süzülüyor.
-Görseller, keskin yansımalarla temiz ve fütüristik bir otomotiv tarzı sunuyor...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097621563709501440/img/mLJvZTc-hXrOj-__.jpg" width="600" alt="Şık Siyah Tesla Otoyol Sürüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10674)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097621591815287266) | **Published:** Sep 9, 2026
-
----
-### Dövüş Sanatları Dojo Sparring Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Japon dojosunda iki sarışın dövüş sanatçısı arasındaki bir antrenman maçını betimleyen, Grok Imagine için oldukça detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Karakterler: Uzun sarı saçlı bir kadın ve kıvırcık sarı saçlı bir erkek. Her ikisi de beyaz dövüş sanatları üniforması (gi) ve siyah kuşak giyiyor.
- Eylem: Yoğun ve hızlı bir şekilde göğüs göğüse dövüşüyorlar, yumruklar ve bloklar atıyorlar, ardından savunma pozisyonuna geçmek için birbirinden ayrılıyorlar.
- Ortam: Ahşap sütunlar, tatami zemin ve dışarıdaki yemyeşil ormanı gösteren büyük açıklıklara sahip geleneksel bir Japon dojosu. Arka planda asılı bir parşömen görülüyor.
- Sinematografi: Hızlı hareketler sırasında hızlı kamera açıları, seri kesmeler ve hareket bulanıklığı. Doğal ışık sahneyi vurguluyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097596579775651840/img/ZIvdND7fCCnwhZrG.jpg" width="600" alt="Dövüş Sanatları Dojo Sparring Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10685)**
-
-**Author:** [Melisa♡](https://x.com/xmliisu) | **Source:** [Link](https://x.com/xmliisu/status/2097596867500515494) | **Published:** Sep 9, 2026
-
----
-### Fotogerçekçi Yağmurluklu Kadın Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine içerisinde belirli hareket özelliklerine sahip gerçekçi bir yağmur sekansı videosu oluşturmak için kullanılan doğrudan metin istemi.
-
-#### 📝 Prompt
-
-```
-Ormanda şiddetli yağmur altında duran, siyah yağmurluklu fotogerçekçi kadın. Gözlerini açıyor, ağaçların arasındaki hafif sıcak bir ışığa doğru dönüyor. Elde çekim, sis, ıslak kumaş, korku öğesi yok, yüz bozulması yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097587231070523392/img/gC_waap6tc44L4Yc.jpg" width="600" alt="Fotogerçekçi Yağmurluklu Kadın Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10614)**
-
-**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2193,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T04:28:22.174Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T13:42:26.164Z</sub>
 
 </div>

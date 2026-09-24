@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2874** |
+| 📝 Total Prompts | **2881** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-24** |
 
@@ -189,6 +189,124 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### เรื่องเล่าจากการรับโทรศัพท์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เรื่องเล่าที่อธิบายฉากหญิงสาวรับสายโทรศัพท์ ตามด้วยการเคาะประตู
+
+#### 📝 Prompt
+
+```
+เสียงโทรศัพท์ดังขึ้น เธอรับสาย "สวัสดีจ๊ะที่รัก!" จากนั้นมีเสียงเคาะประตู เธอเปิดประตู...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="เรื่องเล่าจากการรับโทรศัพท์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11226)**
+
+**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
+
+---
+### วิดีโอแอ็กชันตัวละครนักธนู
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างวิดีโออย่างละเอียดโดยใช้ภาพอ้างอิงของตัวละครนักธนูเพื่อสร้างลำดับการกระทำเฉพาะ
+
+#### 📝 Prompt
+
+```
+[เป้าหมายการสร้าง]
+สร้างวิดีโอของตัวละครที่มีกล้ามเนื้อจากภาพอ้างอิงกำลังทำการกระทำ "อึ" อย่างธรรมชาติโดยยังคงอยู่ในบทบาท
+
+[บทบาทของสินทรัพย์อ้างอิง]
+@image1 ใช้สำหรับรูปลักษณ์เต็มของตัวละคร: นักธนู
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="วิดีโอแอ็กชันตัวละครนักธนู">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11222)**
+
+**Author:** [Dylan Briggs](https://x.com/DylanBriggjk) | **Source:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **Published:** Sep 24, 2026
+
+---
+### พรอมต์วิดีโอ Grok Imagine: โมโนลิธแตกสลาย
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับการสร้างวิดีโอใน Grok Imagine ที่อธิบายภาพโมโนลิธกำลังแตกออกเป็นเสี่ยงๆ พร้อมลำแสงพุ่งทะยานขึ้นสู่ท้องฟ้า
+
+#### 📝 Prompt
+
+```
+โมโนลิธแตกสลายออก และลำแสงปรากฏขึ้นพุ่งตรงขึ้นไปบนท้องฟ้า
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine: โมโนลิธแตกสลาย">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11224)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **Published:** Sep 23, 2026
+
+---
+### การสร้างวิดีโอจากภาพ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ตัวอย่างพรอมป์ที่ใช้ข้อความภาษาโครเอเชีย ('The images stack up become a mirror and disappear with a thunder strike') เพื่อสร้างวิดีโอสั้นแนวตั้งจากภาพที่กำหนดให้
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอใหม่จากภาพที่กำหนดให้โดยใช้พรอมป์นี้: "The images stack up, become a mirror, and disappear with a strike of lightning" พร้อมกับการตั้งค่าดังนี้: 480p, 6s, 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="การสร้างวิดีโอจากภาพ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11225)**
+
+**Author:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **Source:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **Published:** Sep 23, 2026
+
+---
+### บ้านไร่เพียวริตันยุค ค.ศ. 1600
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างฉากวิดีโอของบ้านไร่เพียวริตันสไตล์ Robert Eggers ในยุค ค.ศ. 1600 พร้อมเตาผิง
+
+#### 📝 Prompt
+
+```
+มาเริ่มกันด้วยบ้านไร่เพียวริตันสไตล์ Robert Eggers จากภาพยนตร์ The Witch ในยุค ค.ศ. 1600 ซึ่งเป็นบ้านหลังเล็กที่มีเตาผิง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="บ้านไร่เพียวริตันยุค ค.ศ. 1600">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11227)**
+
+**Author:** [JB](https://x.com/JoshuaBalianSR) | **Source:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **Published:** Sep 23, 2026
+
+---
+### วิดีโอ Elon Musk เต้น
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> สร้างวิดีโอของ Elon Musk เต้นในสไตล์ Jennifer Lopez พร้อมเสียงเพลงจาก 'If You Want My Love'
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอของ Elon Musk เต้นในสไตล์ Jennifer Lopez - If You Want My Love พร้อมเสียง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="วิดีโอ Elon Musk เต้น">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11221)**
+
+**Author:** [Jared Foster](https://x.com/JaredFosterX) | **Source:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **Published:** Sep 23, 2026
+
+---
 ### วงร็อกแมวแอนโทรโพมอร์ฟิก
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -212,6 +330,27 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
 
 **Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### รูปปั้นอัครเทวดามีคาเอลสไตล์บาโรก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ Grok Imagine ที่ละเอียดสำหรับการสร้างภาพวาดสีน้ำมันสไตล์บาโรก-เรเนซองส์ของรูปปั้นอัครเทวดามีคาเอลในพิพิธภัณฑ์ โดยผสมผสานสไตล์ของมีเกลันเจโลและเบอร์นินี
+
+#### 📝 Prompt
+
+```
+ภาพวาดสีน้ำมันสไตล์บาโรก-เรเนซองส์อันประณีต แสดงรูปปั้นหินอ่อนสีครีมของอัครเทวดามีคาเอลในฐานะทูตสวรรค์นักรบ ซึ่งเป็นการผสมผสานระหว่างสไตล์ของมีเกลันเจโลและเบอร์นินี ใบหน้าอุดมคติแบบมีเกลันเจโล สายตาที่เคร่งขรึมและสูงส่ง และเส้นผมหยักสลักอย่างประณีต การเคลื่อนไหวอันน่าทึ่งแบบเบอร์นินี ปีกแกะสลักขนาดใหญ่กางออกเต็มที่ และผ้าคลุมไหล่แกะสลักที่พลิ้วไหวด้วยรอยพับหนา หินอ่อนสีครีมที่มีร่องรอยแห่งกาลเวลา พร้อมเงาที่วาดเป็นลายเส้นสีน้ำตาลอุ่นตามรอยพับ เกราะอกโลหะสีเงิน-น้ำเงินวาววับบนหน้าอก สะท้อนแสงเย็นโทนฟ้า แขนขวาของรูปปั้นถูกแกะสลักอย่างสมบูรณ์และยื่นออกไปด้านนอกในท่าทางนักรบที่เปิดมืออย่างสง่างาม ส่วนแขนซ้ายห้อยลงข้างลำตัว รูปปั้นขนาดเท่าจริงในพิพิธภัณฑ์ตั้งอยู่บนฐานหินแกะสลักวิจิตร เป็นจุดศูนย์กลางความสนใจของห้อง
+รอบๆ ฐานมีเสาหินอ่อนสีครีมแกะสลักอย่างประณีตสี่ต้นเชื่อมต่อกันด้วยโซ่โลหะเรียบง่ายแต่หรูหรา ซึ่งเป็นรั้วกั้นภายในพิพิธภัณฑ์ ห้องแสดงภาพในพระราชวังอิตาลีขนาดใหญ่หรือตู้เก็บของหายากแบบวาติกัน ผนังปกคลุมไปด้วยภาพวาดสีน้ำมันจากศตวรรษที่ 16–17 ในกรอบทองหนักแน่น ด้านหน้ามีโต๊ะเขียนหนังสือไม้แกะสลักโบราณพร้อมกระดาษ ปากกาขนนก หมึก และเทียนที่จุดอยู่ ของสะสมโดยรอบ: ลูกโลก หนังสือปกหนัง รูปปั้นครึ่งตัวหินอ่อนขนาดเล็ก ตู้ไม้ใส่โบราณวัตถุ ทั้งหมดอยู่ในตำแหน่งรองและมืดกว่าเล็กน้อยเพื่อให้รูปปั้นดึงดูดสายตา
+แสงโคมระย้าสีทองอบอุ่นและแสงเทียน คอนทราสต์แบบคาราวัจโจที่เข้มข้น เงาโทนม่วงในมุมมืด พื้นหินอ่อนขัดเงาสะท้อนแสง เพดานหลุมปิดทอง ภาพรวมดูคล้ายภาพวาดสีน้ำมันโบราณแบบภาพยนตร์ รายละเอียดพื้นผิวสูงมากทั้งหินอ่อน เกราะโลหะ โซ่ กรอบทอง และผืนผ้าใบเก่า ไม่มีวัตถุสมัยใหม่ ไม่มีรั้วเหล็ก ไม่มีแขนขาขาดหาย
+```
+
+<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="รูปปั้นอัครเทวดามีคาเอลสไตล์บาโรก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11223)**
+
+**Author:** [Arco](https://x.com/arco0369) | **Source:** [Link](https://x.com/arco0369/status/2102491951287181545) | **Published:** Sep 22, 2026
 
 ---
 ### พรอมต์ Grok Imagine สำหรับฉากที่ให้อาหารนก
@@ -1995,143 +2134,6 @@ Athena เดินตรงไปยังวิหารของบิดา�
 **Author:** [vlad moore](https://x.com/vladmoore3) | **Source:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **Published:** Sep 9, 2026
 
 ---
-### สร้างแอนิเมชันภาพถ่ายบุคคลให้สมจริง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ขั้นสูงสำหรับการทำแอนิเมชันบุคคลสองคนในภาพถ่าย พร้อมการลิปซิงค์บทสนทนาที่เฉพาะเจาะจงและการเคลื่อนไหวของใบหน้าที่เป็นธรรมชาติ
-
-#### 📝 Prompt
-
-```
-สร้างแอนิเมชันจากภาพถ่ายนี้ให้สมจริง โดยให้ผู้ชาย (Charlie) พูดก่อนว่า "Pam always go Max!" พร้อมการลิปซิงค์และการขยับปากที่เป็นธรรมชาติ จากนั้นผู้หญิง (Pam) ตอบกลับว่า "you got it Charlie!" พร้อมการลิปซิงค์ที่เป็นธรรมชาติ....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097701925424947200/img/JIVCIIy9cUk8TnC9.jpg" width="600" alt="สร้างแอนิเมชันภาพถ่ายบุคคลให้สมจริง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10684)**
-
-**Author:** [Pamela joye middle](https://x.com/JoyeMiddle28955) | **Source:** [Link](https://x.com/JoyeMiddle28955/status/2097701989278998571) | **Published:** Sep 9, 2026
-
----
-### ลำดับท่าทางตัวละครขี้อาย
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> คำสั่ง (Prompt) สำหรับสร้างท่าทางตัวละครอย่างละเอียด ทั้งการโบกมือ การหมุนตัว การล้ม และการยิ้ม พร้อมข้อกำหนดเฉพาะสำหรับสีของหาง
-
-#### 📝 Prompt
-
-```
-หันซ้ายและขวาตามลำดับแล้วโบกมือไปในแต่ละทิศทาง หมุนตัวอยู่กับที่หนึ่งรอบแต่เสียหลักล้มก้นจ้ำเบ้า สุดท้ายให้แสดงรอยยิ้มแบบเขินอาย หางควรเป็นสีน้ำตาลอ่อนจากโคนถึงครึ่งทาง และเป็นสีน้ำตาลเข้มสำหรับครึ่งหน้า
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097693112428875776/img/VMYuzkc2zkYCF-Q4.jpg" width="600" alt="ลำดับท่าทางตัวละครขี้อาย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10688)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **Published:** Sep 9, 2026
-
----
-### วิดีโอพรอมต์แมวสุดเท่สวมแว่นตา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สำหรับ grok-imagine ที่มีภาพแมวสวมแว่นตาพร้อมการเคลื่อนไหวกล้องแบบช้าๆ
-
-#### 📝 Prompt
-
-```
-การเคลื่อนไหวกล้องแบบช้าๆ โดยที่แมวยังคงอยู่นิ่งๆ สัตว์ต่างๆ รู้ดีว่าพวกมันดูเท่แค่ไหนแม้จะสวมแว่นตา!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097676269249011712/img/fHbejykVvx-GHy6A.jpg" width="600" alt="วิดีโอพรอมต์แมวสุดเท่สวมแว่นตา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10682)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2097676312357773654) | **Published:** Sep 9, 2026
-
----
-### แอนิเมชันฉาก Parasyte แบบไดนามิก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สร้างแอนิเมชันจากฉากมังงะด้วยการเปลี่ยนอายุตัวละครและใส่ข้อความซ้อนทับบนองค์ประกอบวิดีโอ
-
-#### 📝 Prompt
-
-```
-สร้างแอนิเมชันฉากจาก Parasyte ให้เป็นวิดีโอไดนามิกสุดสนุก: มือเอเลี่ยนยักษ์ที่มี ชินอิจิ และ มิกิ กำลังเอื้อมมือลงมายังโลก ใส่ข้อความภาษาจีนเรืองแสงขนาดใหญ่ที่ปรากฏขึ้นตามลำดับ: "3秒原则" ตามด้วย "三分天下" และ "333岁成大叔" โดยที่ ชินอิจิ ในวัยหนุ่มค่อยๆ แก่ตัวลงจนกลายเป็นชายวัย 333 ปี...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097637549095497728/img/xi0uGrQLYYgOOGAV.jpg" width="600" alt="แอนิเมชันฉาก Parasyte แบบไดนามิก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10676)**
-
-**Author:** [Chenghuai Wang](https://x.com/ChenghuaiW716i) | **Source:** [Link](https://x.com/ChenghuaiW716i/status/2097637600664433145) | **Published:** Sep 9, 2026
-
----
-### วิดีโอรถ Tesla สีดำสุดโฉบเฉี่ยวขับบนทางหลวง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สร้างวิดีโอที่ลื่นไหลติดตามรถ Tesla สีดำสุดล้ำบนทางหลวงท่ามกลางแสงแดด พร้อมรายละเอียดการสะท้อนที่คมชัด
-
-#### 📝 Prompt
-
-```
-รถยนต์ไฟฟ้า Tesla สีดำสุดโฉบเฉี่ยวขับเคลื่อนอย่างนุ่มนวลไปตามทางหลวงสมัยใหม่ท่ามกลางแสงแดด พื้นผิวที่มันวาวสะท้อนทิวทัศน์โดยรอบขณะที่รถแล่นไปข้างหน้าด้วยพลังอันเงียบเชียบ
-ภาพที่ได้นำเสนอสไตล์ยานยนต์แห่งอนาคตที่ดูสะอาดตา พร้อมการสะท้อนที่คมชัด...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097621563709501440/img/mLJvZTc-hXrOj-__.jpg" width="600" alt="วิดีโอรถ Tesla สีดำสุดโฉบเฉี่ยวขับบนทางหลวง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10674)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097621591815287266) | **Published:** Sep 9, 2026
-
----
-### พรอมต์วิดีโอการซ้อมต่อสู้ในโรงฝึกศิลปะการต่อสู้
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอที่มีรายละเอียดสูงสำหรับ Grok Imagine เพื่ออธิบายฉากการซ้อมต่อสู้ระหว่างนักศิลปะการต่อสู้ผมบลอนด์สองคนในโรงฝึกแบบญี่ปุ่น
-
-#### 📝 Prompt
-
-```
-ตัวละคร: ผู้หญิงผมบลอนด์ยาวและผู้ชายผมบลอนด์หยิก ทั้งคู่สวมชุดศิลปะการต่อสู้สีขาว (กิ) และสายดำ
- การกระทำ: พวกเขาซ้อมต่อสู้ด้วยมือเปล่าอย่างดุเดือดและรวดเร็ว มีการแลกหมัดและป้องกัน ก่อนจะแยกตัวออกมาตั้งท่าป้องกัน
- ฉาก: โรงฝึกแบบญี่ปุ่นดั้งเดิมที่มีเสาไม้ พื้นเสื่อทาทามิ และช่องเปิดขนาดใหญ่ที่เผยให้เห็นป่าเขียวขจีด้านนอก มีภาพวาดพู่กันแขวนอยู่เป็นฉากหลัง
- การถ่ายทำ: งานกล้องที่รวดเร็ว การตัดสลับฉากที่ฉับไว และการใช้โมชั่นเบลอระหว่างการเคลื่อนไหวที่รวดเร็ว แสงธรรมชาติช่วยขับเน้นบรรยากาศของฉาก
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097596579775651840/img/ZIvdND7fCCnwhZrG.jpg" width="600" alt="พรอมต์วิดีโอการซ้อมต่อสู้ในโรงฝึกศิลปะการต่อสู้">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10685)**
-
-**Author:** [Melisa♡](https://x.com/xmliisu) | **Source:** [Link](https://x.com/xmliisu/status/2097596867500515494) | **Published:** Sep 9, 2026
-
----
-### พรอมต์วิดีโอผู้หญิงสวมเสื้อกันฝนแบบสมจริง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ข้อความพรอมต์สำหรับสร้างวิดีโอฉากฝนตกที่สมจริงพร้อมลักษณะการเคลื่อนไหวที่เฉพาะเจาะจงภายใน Grok Imagine
-
-#### 📝 Prompt
-
-```
-ผู้หญิงสมจริงสวมเสื้อกันฝนสีดำยืนอยู่ท่ามกลางฝนตกหนักในป่า เธอค่อย ๆ ลืมตาขึ้นแล้วหันไปทางแสงอุ่น ๆ จาง ๆ ระหว่างต้นไม้ ถ่ายทำแบบถือกล้องด้วยมือ มีหมอก เนื้อผ้าเปียกชื้น ไม่มีความสยองขวัญ ใบหน้าไม่บิดเบี้ยว
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097587231070523392/img/gC_waap6tc44L4Yc.jpg" width="600" alt="พรอมต์วิดีโอผู้หญิงสวมเสื้อกันฝนแบบสมจริง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10614)**
-
-**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2193,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T04:28:12.174Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T13:42:13.221Z</sub>
 
 </div>

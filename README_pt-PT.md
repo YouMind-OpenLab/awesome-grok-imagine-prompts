@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2874** |
+| 📝 Total Prompts | **2881** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-24** |
 
@@ -189,6 +189,124 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Narrativa de Ligação Telefônica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt narrativo que descreve uma mulher atendendo a uma ligação telefônica, seguida por uma batida na porta.
+
+#### 📝 Prompt
+
+```
+O telefone toca. Ela atende. Olá, querido! Então, uma batida na porta. Ela abre...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="Narrativa de Ligação Telefônica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11226)**
+
+**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
+
+---
+### Vídeo de Ação do Personagem Arqueiro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt detalhado para geração de vídeo, utilizando uma imagem de referência de um personagem arqueiro para criar uma sequência específica de ações.
+
+#### 📝 Prompt
+
+```
+[Objetivo da Geração]
+Gere um vídeo do personagem musculoso da imagem de referência realizando a ação natural de "defecar", mantendo-se fiel à sua caracterização.
+
+[Função dos Ativos de Referência]
+@image1 é usada para a aparência completa do personagem: arqueiro
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="Vídeo de Ação do Personagem Arqueiro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11222)**
+
+**Author:** [Dylan Briggs](https://x.com/DylanBriggjk) | **Source:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **Published:** Sep 24, 2026
+
+---
+### Prompt de Vídeo Grok Imagine: O Monolito se Desfaz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo para o Grok Imagine descrevendo um monolito se desfazendo com um feixe de luz disparando em direção ao céu.
+
+#### 📝 Prompt
+
+```
+O monolito se desfaz e um feixe de luz emerge, disparando diretamente em direção ao céu
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: O Monolito se Desfaz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11224)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **Published:** Sep 23, 2026
+
+---
+### Geração de Vídeo a partir de Imagens
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt usando texto em croata ('As imagens se empilham, tornam-se um espelho e desaparecem com um trovão') para gerar um vídeo vertical curto baseado nas imagens fornecidas.
+
+#### 📝 Prompt
+
+```
+Gere-me um novo vídeo baseado nas imagens fornecidas usando este prompt: "As imagens se empilham, tornam-se um espelho e desaparecem com um raio" com as seguintes configurações: 480p, 6s, 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="Geração de Vídeo a partir de Imagens">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11225)**
+
+**Author:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **Source:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **Published:** Sep 23, 2026
+
+---
+### Lar Puritano do Século XVII
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar uma cena de vídeo de um lar puritano no estilo Robert Eggers do século XVII, com lareira.
+
+#### 📝 Prompt
+
+```
+Vamos começar com um lar puritano do século XVII, no estilo do filme A Bruxa de Robert Eggers, uma casa pequena com lareira
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="Lar Puritano do Século XVII">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11227)**
+
+**Author:** [JB](https://x.com/JoshuaBalianSR) | **Source:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **Published:** Sep 23, 2026
+
+---
+### Vídeo de Elon Musk Dançando
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gera um vídeo de Elon Musk dançando como Jennifer Lopez com o áudio de 'If You Want My Love'.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo do Elon dançando como a Jennifer Lopez - If You Want My Love com áudio
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="Vídeo de Elon Musk Dançando">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11221)**
+
+**Author:** [Jared Foster](https://x.com/JaredFosterX) | **Source:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **Published:** Sep 23, 2026
+
+---
 ### Banda de Gatos Rockeiros Antropomórficos
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -212,6 +330,27 @@ Mantenha os gatos totalmente antropomórficos como rockeiros, o canto em inglês
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
 
 **Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### Estátua Barroca do Arcanjo Miguel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para o Grok Imagine para gerar uma pintura a óleo em estilo Renascentista-Barroco de uma estátua do Arcanjo Miguel em um cenário de museu, combinando os estilos de Michelangelo e Bernini.
+
+#### 📝 Prompt
+
+```
+Uma magistral pintura a óleo em estilo Renascentista-Barroco de uma estátua de mármore creme do Arcanjo Miguel como um anjo guerreiro, híbrido de Michelangelo e Bernini. Rosto idealizado no estilo Michelangelo, olhar nobre e severo, e cabelo ondulado esculpido. Movimento dramático no estilo Bernini com grandes asas esculpidas totalmente abertas e drapeado fluido esculpido em pregas pesadas. Mármore creme envelhecido com pinceladas de sombra marrom quente nas pregas. Uma armadura peitoral metálica prateada-azulada brilhante no peito que reluz com luz fria azulada. O braço direito da estátua é totalmente esculpido e estendido para fora em um gesto nobre de guerreiro com a mão aberta; o braço esquerdo pende ao lado. Estátua em escala de museu sobre um pedestal de pedra ornamentalmente esculpido, ponto focal claro da sala.
+Ao redor do pedestal estão quatro colunas baixas de mármore creme elaboradamente esculpidas, conectadas por uma corrente de metal simples e elegante, uma barreira interna de museu. Galeria grandiosa de palácio italiano ou gabinete de curiosidades similar ao Vaticano. Paredes densamente cobertas com pinturas a óleo dos séculos XVI–XVII em molduras douradas pesadas. Uma escrivaninha antiga de madeira esculpida em primeiro plano com papéis, pena, tinteiro e uma vela acesa. Coleções circundantes: globos, livros encadernados em couro, bustos menores de mármore, armários de madeira com artefatos, todos secundários e ligeiramente mais escuros para que a estátua comande a atenção.
+Luz quente de lustres e velas, rico chiaroscuro à la Caravaggio, sombras tingidas de violeta nos cantos. Piso de mármore polido com reflexões, teto coffered dourado. Visual cinematográfico de pintura a óleo antiga. Texturas altamente detalhadas de mármore, armadura de metal, corrente, molduras de folha de ouro e tela envelhecida. Sem objetos modernos. Sem cerca de ferro. Sem membros faltando.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="Estátua Barroca do Arcanjo Miguel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11223)**
+
+**Author:** [Arco](https://x.com/arco0369) | **Source:** [Link](https://x.com/arco0369/status/2102491951287181545) | **Published:** Sep 22, 2026
 
 ---
 ### Prompt do Grok Imagine para Cena de Comedouro de Pássaros
@@ -1995,143 +2134,6 @@ Atena caminha em direção ao templo de seu pai sem dizer nada, ela olha enquant
 **Author:** [vlad moore](https://x.com/vladmoore3) | **Source:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **Published:** Sep 9, 2026
 
 ---
-### Animação Realista de Foto Falante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt avançado para animar duas pessoas em uma foto com sincronia labial específica para diálogos e movimentos faciais naturais.
-
-#### 📝 Prompt
-
-```
-Anime esta foto de forma realista. O homem (Charlie) fala primeiro dizendo "Pam always go Max!" com sincronia labial e movimentos de boca naturais. Em seguida, a mulher (Pam) responde dizendo "you got it Charlie!" com sincronia labial natural....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097701925424947200/img/JIVCIIy9cUk8TnC9.jpg" width="600" alt="Animação Realista de Foto Falante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10684)**
-
-**Author:** [Pamela joye middle](https://x.com/JoyeMiddle28955) | **Source:** [Link](https://x.com/JoyeMiddle28955/status/2097701989278998571) | **Published:** Sep 9, 2026
-
----
-### Sequência de movimento de personagem tímido
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de movimento detalhado para um personagem acenando, girando, caindo e sorrindo, com requisitos específicos para a coloração da cauda.
-
-#### 📝 Prompt
-
-```
-Olhe para a esquerda e para a direita em ordem e acene em cada direção. Gire uma vez no lugar, mas perca o equilíbrio e caia sentado. Por fim, exiba um sorriso tímido. A cauda deve ser marrom-clara da base até a metade e marrom-escura na metade frontal.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097693112428875776/img/VMYuzkc2zkYCF-Q4.jpg" width="600" alt="Sequência de movimento de personagem tímido">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10688)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **Published:** Sep 9, 2026
-
----
-### Prompt de vídeo de gato estiloso de óculos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo para o grok-imagine apresentando um gato de óculos com movimento lento de câmera.
-
-#### 📝 Prompt
-
-```
-Movimento lento de câmera, o gato permanece relativamente imóvel. Os animais sabem o quão estilosos eles ficam mesmo de óculos!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097676269249011712/img/fHbejykVvx-GHy6A.jpg" width="600" alt="Prompt de vídeo de gato estiloso de óculos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10682)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2097676312357773654) | **Published:** Sep 9, 2026
-
----
-### Animação Dinâmica de Cena de Parasyte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Anime uma cena de mangá com envelhecimento progressivo e sobreposição de texto sequencial em elementos de vídeo.
-
-#### 📝 Prompt
-
-```
-Anime a cena de Parasyte em um vídeo dinâmico e divertido: a mão alienígena gigante com Shinichi e Migi alcançando a Terra. Sobreponha um texto grande e brilhante em chinês que aparece em sequência: "3秒原则", depois "三分天下", e então "333岁成大叔". O jovem Shinichi envelhece até se tornar um homem de 333 anos...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097637549095497728/img/xi0uGrQLYYgOOGAV.jpg" width="600" alt="Animação Dinâmica de Cena de Parasyte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10676)**
-
-**Author:** [Chenghuai Wang](https://x.com/ChenghuaiW716i) | **Source:** [Link](https://x.com/ChenghuaiW716i/status/2097637600664433145) | **Published:** Sep 9, 2026
-
----
-### Tesla preto elegante dirigindo em rodovia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gera um vídeo fluido acompanhando um Tesla preto futurista em uma rodovia ensolarada com reflexos nítidos.
-
-#### 📝 Prompt
-
-```
-Um elegante veículo elétrico Tesla preto dirige suavemente ao longo de uma rodovia moderna e ensolarada, sua superfície brilhante refletindo a paisagem ao redor enquanto ele desliza para frente com potência silenciosa.
-Os visuais apresentam um estilo automotivo limpo e futurista com reflexos nítidos...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097621563709501440/img/mLJvZTc-hXrOj-__.jpg" width="600" alt="Tesla preto elegante dirigindo em rodovia">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10674)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097621591815287266) | **Published:** Sep 9, 2026
-
----
-### Prompt de vídeo para treino de artes marciais em um dojo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo altamente detalhado para o Grok Imagine, descrevendo uma sessão de treino entre dois artistas marciais loiros em um dojo japonês.
-
-#### 📝 Prompt
-
-```
-Personagens: Uma mulher com cabelos loiros longos e um homem com cabelos loiros cacheados. Ambos vestem uniformes de artes marciais brancos (gis) e faixas pretas.
- Ação: Eles se envolvem em um treino intenso e rápido de combate corpo a corpo, trocando socos e bloqueios, antes de se separarem para assumir posturas defensivas.
- Cenário: Um dojo japonês tradicional com pilares de madeira, piso de tatame e grandes aberturas que revelam uma floresta verdejante ao fundo. Um pergaminho suspenso é visível ao fundo.
- Cinematografia: Trabalho de câmera dinâmico, cortes rápidos e desfoque de movimento durante ações velozes. A iluminação natural destaca a cena.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097596579775651840/img/ZIvdND7fCCnwhZrG.jpg" width="600" alt="Prompt de vídeo para treino de artes marciais em um dojo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10685)**
-
-**Author:** [Melisa♡](https://x.com/xmliisu) | **Source:** [Link](https://x.com/xmliisu/status/2097596867500515494) | **Published:** Sep 9, 2026
-
----
-### Prompt de vídeo fotorrealista de mulher com capa de chuva
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de texto de geração direta utilizado para criar um vídeo de sequência de chuva realista com características de movimento específicas dentro do Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Mulher fotorrealista com capa de chuva preta em pé sob chuva forte em uma floresta. Ela abre os olhos, vira-se em direção a uma luz quente e fraca entre as árvores. Estilo câmera na mão, névoa, tecido molhado, sem terror, sem deformação facial.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097587231070523392/img/gC_waap6tc44L4Yc.jpg" width="600" alt="Prompt de vídeo fotorrealista de mulher com capa de chuva">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10614)**
-
-**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2193,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T04:28:21.227Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T13:42:25.227Z</sub>
 
 </div>

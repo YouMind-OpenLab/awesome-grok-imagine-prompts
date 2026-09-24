@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2874** |
+| 📝 Total Prompts | **2881** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-24** |
 
@@ -189,6 +189,124 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Câu chuyện qua điện thoại
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc kể chuyện mô tả một phụ nữ nghe điện thoại, sau đó là tiếng gõ cửa.
+
+#### 📝 Prompt
+
+```
+Chuông điện thoại reo. Cô ấy nhấc máy. "Chào em yêu!" Sau đó là tiếng gõ cửa. Cô ấy mở cửa...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="Câu chuyện qua điện thoại">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11226)**
+
+**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
+
+---
+### Video Hành Động Nhân Vật Cung Thủ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc tạo video chi tiết sử dụng hình ảnh tham chiếu của nhân vật cung thủ để tạo ra một chuỗi hành động cụ thể.
+
+#### 📝 Prompt
+
+```
+[Mục tiêu Tạo Video]
+Tạo một video về nhân vật cơ bắp từ hình ảnh tham chiếu đang thực hiện hành động "đi vệ sinh" một cách tự nhiên trong khi vẫn giữ đúng tính cách nhân vật.
+
+[Vai trò Tài nguyên Tham chiếu]
+@image1 được sử dụng cho ngoại hình đầy đủ của nhân vật: cung thủ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="Video Hành Động Nhân Vật Cung Thủ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11222)**
+
+**Author:** [Dylan Briggs](https://x.com/DylanBriggjk) | **Source:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **Published:** Sep 24, 2026
+
+---
+### Grok Imagine Video Prompt: Monolith Breaks Apart
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine describing a monolith breaking apart with a beam of light shooting into the sky.
+
+#### 📝 Prompt
+
+```
+The monolith breaks apart and a beam of light emerges shooting straight up into the sky
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="Grok Imagine Video Prompt: Monolith Breaks Apart">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11224)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **Published:** Sep 23, 2026
+
+---
+### Tạo video từ hình ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh sử dụng văn bản tiếng Croatia ('Các hình ảnh chồng lên nhau, trở thành một tấm gương và biến mất với một tiếng sét') để tạo ra một video ngắn dạng dọc dựa trên các hình ảnh được cung cấp.
+
+#### 📝 Prompt
+
+```
+Hãy tạo cho tôi một video mới dựa trên các hình ảnh được cung cấp bằng cách sử dụng câu lệnh này: "Các hình ảnh chồng lên nhau, trở thành một tấm gương và biến mất với một tiếng sét" với các thiết lập sau: 480p, 6 giây, tỷ lệ khung hình 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="Tạo video từ hình ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11225)**
+
+**Author:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **Source:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **Published:** Sep 23, 2026
+
+---
+### Nhà ở của Thanh giáo thế kỷ 17
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Câu lệnh tạo cảnh quay video về một ngôi nhà thanh giáo kiểu Robert Eggers từ những năm 1600 với lò sưởi.
+
+#### 📝 Prompt
+
+```
+Hãy bắt đầu với một ngôi nhà nhỏ của Thanh giáo từ những năm 1600 theo phong cách Robert Eggers trong The Witch, có lò sưởi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="Nhà ở của Thanh giáo thế kỷ 17">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11227)**
+
+**Author:** [JB](https://x.com/JoshuaBalianSR) | **Source:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **Published:** Sep 23, 2026
+
+---
+### Video Elon Musk Khiêu Vũ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo video Elon Musk khiêu vũ theo phong cách Jennifer Lopez với âm nhạc từ bài hát 'If You Want My Love'.
+
+#### 📝 Prompt
+
+```
+Tạo video Elon Musk khiêu vũ theo phong cách Jennifer Lopez - If You Want My Love kèm âm thanh
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="Video Elon Musk Khiêu Vũ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11221)**
+
+**Author:** [Jared Foster](https://x.com/JaredFosterX) | **Source:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **Published:** Sep 23, 2026
+
+---
 ### Ban nhạc Mèo Rock Nhân hóa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -212,6 +330,27 @@ Giữ nguyên hình tượng những chú mèo rocker nhân hóa hoàn toàn, vi
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
 
 **Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### Tượng Thiên Thần Michael Phong Cách Baroque
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt Grok Imagine chi tiết để tạo ra một bức tranh sơn dầu phong cách Baroque-Renaissance về tượng Thiên Thần Michael trong bối cảnh bảo tàng, kết hợp phong cách của Michelangelo và Bernini.
+
+#### 📝 Prompt
+
+```
+Một bức tranh sơn dầu phong cách Baroque-Renaissance tinh xảo mô tả tượng đá cẩm thạch màu kem của Thiên Thần Michael với hình ảnh thiên thần chiến binh, sự kết hợp giữa phong cách của Michelangelo và Bernini. Khuôn mặt lý tưởng hóa theo phong cách Michelangelo, ánh mắt nghiêm nghị cao quý và mái tóc xoăn được chạm khắc. Chuyển động kịch tính theo phong cách Bernini với đôi cánh lớn được điêu khắc dang rộng hoàn toàn và lớp vải phủ mềm mại với những nếp gấp nặng nề. Đá cẩm thạch màu kem đã qua thời gian với những nét vẽ bóng tối màu nâu ấm áp trong các nếp gấp. Giáp ngực bằng kim loại màu xanh bạc sáng bóng trên ngực phản chiếu ánh sáng xanh lạnh. Cánh tay phải của bức tượng được điêu khắc đầy đủ và vươn ra ngoài trong tư thế chiến binh mở lòng bàn tay cao quý; cánh tay trái buông thõng bên cạnh. Bức tượng kích thước bảo tàng đặt trên bệ đá chạm khắc trang trí công phu, là điểm nhấn rõ ràng của căn phòng.
+Xung quanh bệ đứng là bốn cột đá cẩm thạch màu kem thấp, được chạm khắc tinh xảo, nối với nhau bằng một sợi dây chuyền kim loại đơn giản nhưng thanh lịch, đóng vai trò như rào chắn nội bộ của bảo tàng. Phòng trưng bày kiểu cung điện Ý tráng lệ hoặc tủ sưu tập cổ vật kiểu Vatican. Các bức tường dày đặc những bức tranh sơn dầu từ thế kỷ 16–17 trong những khung vàng lá nặng nề. Một chiếc bàn viết bằng gỗ chạm khắc cổ kính ở tiền cảnh với giấy tờ, bút lông, bình mực và một ngọn nến đang cháy. Các bộ sưu tập xung quanh: quả địa cầu, sách đóng bìa da, tượng bán thân bằng đá cẩm thạch nhỏ hơn, tủ gỗ chứa hiện vật, tất cả đều phụ thuộc và hơi tối hơn để bức tượng thu hút sự chú ý.
+Ánh sáng lung linh từ đèn chùm vàng ấm và nến, kỹ thuật chiaroscuro (sáng tối) đậm chất Caravaggio, những bóng tối nhuốm tím ở các góc. Sàn đá cẩm thạch đánh bóng có phản chiếu, trần nhà dạng ô vuông mạ vàng. Vẻ đẹp điện ảnh của tranh sơn dầu cổ điển. Kết cấu cực kỳ chi tiết của đá cẩm thạch, giáp kim loại, dây chuyền, khung vàng lá và vải canvas cũ. Không có đồ vật hiện đại. Không có hàng rào sắt. Không thiếu chi tiết cơ thể.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="Tượng Thiên Thần Michael Phong Cách Baroque">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11223)**
+
+**Author:** [Arco](https://x.com/arco0369) | **Source:** [Link](https://x.com/arco0369/status/2102491951287181545) | **Published:** Sep 22, 2026
 
 ---
 ### Gợi ý hình ảnh Grok Imagine cho cảnh máng chim
@@ -1995,143 +2134,6 @@ Athena bước về phía đền thờ của cha mình mà không nói lời nà
 **Author:** [vlad moore](https://x.com/vladmoore3) | **Source:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **Published:** Sep 9, 2026
 
 ---
-### Hoạt ảnh ảnh chụp chân thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh nâng cao để tạo hoạt ảnh cho hai người trong ảnh với lời thoại khớp khẩu hình cụ thể và các chuyển động khuôn mặt tự nhiên.
-
-#### 📝 Prompt
-
-```
-Tạo hoạt ảnh cho bức ảnh này một cách chân thực. Người đàn ông (Charlie) nói trước với câu "Pam always go Max!" cùng khẩu hình và cử động miệng tự nhiên. Sau đó, người phụ nữ (Pam) đáp lại "you got it Charlie!" với khẩu hình tự nhiên....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097701925424947200/img/JIVCIIy9cUk8TnC9.jpg" width="600" alt="Hoạt ảnh ảnh chụp chân thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10684)**
-
-**Author:** [Pamela joye middle](https://x.com/JoyeMiddle28955) | **Source:** [Link](https://x.com/JoyeMiddle28955/status/2097701989278998571) | **Published:** Sep 9, 2026
-
----
-### Chuỗi chuyển động nhân vật ngại ngùng
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một gợi ý chuyển động chi tiết cho nhân vật đang vẫy tay, xoay người, ngã và mỉm cười, kèm theo các yêu cầu cụ thể về màu sắc của đuôi.
-
-#### 📝 Prompt
-
-```
-Lần lượt nhìn sang trái và phải rồi vẫy tay theo từng hướng. Xoay một vòng tại chỗ nhưng mất thăng bằng và ngã ngồi xuống đất. Cuối cùng, hãy nở một nụ cười bẽn lẽn. Phần đuôi nên có màu nâu nhạt từ gốc đến giữa và màu nâu đậm cho nửa còn lại.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097693112428875776/img/VMYuzkc2zkYCF-Q4.jpg" width="600" alt="Chuỗi chuyển động nhân vật ngại ngùng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10688)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **Published:** Sep 9, 2026
-
----
-### Gợi ý video chú mèo ngầu đeo kính
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video cho grok-imagine với hình ảnh chú mèo đeo kính cùng chuyển động camera chậm.
-
-#### 📝 Prompt
-
-```
-Chuyển động camera chậm, chú mèo vẫn giữ nguyên tư thế. Động vật cũng biết chúng trông ngầu thế nào ngay cả khi đeo kính!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097676269249011712/img/fHbejykVvx-GHy6A.jpg" width="600" alt="Gợi ý video chú mèo ngầu đeo kính">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10682)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2097676312357773654) | **Published:** Sep 9, 2026
-
----
-### Hoạt ảnh phân cảnh Parasyte sống động
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo hoạt ảnh cho một phân cảnh manga với hiệu ứng thay đổi độ tuổi và lớp phủ văn bản theo trình tự trên các yếu tố video.
-
-#### 📝 Prompt
-
-```
-Tạo hoạt ảnh cho phân cảnh Parasyte thành một video sống động đầy thú vị: bàn tay người ngoài hành tinh khổng lồ cùng Shinichi và Migi vươn tới Trái Đất. Chèn lớp phủ văn bản tiếng Trung phát sáng lớn xuất hiện theo trình tự: "3秒原则", sau đó là "三分天下", rồi đến "333岁成大叔". Shinichi trẻ tuổi già đi thành một ông chú 333 tuổi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097637549095497728/img/xi0uGrQLYYgOOGAV.jpg" width="600" alt="Hoạt ảnh phân cảnh Parasyte sống động">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10676)**
-
-**Author:** [Chenghuai Wang](https://x.com/ChenghuaiW716i) | **Source:** [Link](https://x.com/ChenghuaiW716i/status/2097637600664433145) | **Published:** Sep 9, 2026
-
----
-### Video xe Tesla màu đen bóng lướt trên đường cao tốc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo một video mượt mà ghi lại cảnh chiếc Tesla màu đen mang phong cách tương lai đang chạy trên đường cao tốc đầy nắng với những hình ảnh phản chiếu sắc nét.
-
-#### 📝 Prompt
-
-```
-Một chiếc xe điện Tesla màu đen bóng bẩy di chuyển mượt mà dọc theo con đường cao tốc hiện đại đầy nắng, bề mặt sáng bóng phản chiếu khung cảnh xung quanh khi xe lướt đi với sức mạnh tĩnh lặng.
-Hình ảnh mang phong cách ô tô tương lai, sạch sẽ với những hình ảnh phản chiếu sắc nét...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097621563709501440/img/mLJvZTc-hXrOj-__.jpg" width="600" alt="Video xe Tesla màu đen bóng lướt trên đường cao tốc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10674)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097621591815287266) | **Published:** Sep 9, 2026
-
----
-### Lời nhắc video đấu tập tại võ đường
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lời nhắc video chi tiết dành cho Grok Imagine mô tả một buổi đấu tập giữa hai võ sĩ tóc vàng trong một võ đường Nhật Bản.
-
-#### 📝 Prompt
-
-```
-Nhân vật: Một phụ nữ có mái tóc vàng dài và một người đàn ông có mái tóc vàng xoăn. Cả hai đều mặc võ phục trắng (gi) và đeo đai đen.
- Hành động: Họ tham gia vào các pha đấu tập tay không nhanh và quyết liệt, trao đổi các cú đấm và kỹ thuật đỡ đòn, trước khi tách ra để vào tư thế phòng thủ.
- Bối cảnh: Một võ đường truyền thống Nhật Bản với các cột gỗ, sàn tatami và những ô cửa lớn nhìn ra khu rừng xanh tươi bên ngoài. Một bức tranh treo tường có thể nhìn thấy ở phía sau.
- Kỹ thuật quay phim: Góc quay nhịp độ nhanh, cắt cảnh dứt khoát và hiệu ứng nhòe chuyển động trong các pha di chuyển tốc độ cao. Ánh sáng tự nhiên làm nổi bật khung cảnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097596579775651840/img/ZIvdND7fCCnwhZrG.jpg" width="600" alt="Lời nhắc video đấu tập tại võ đường">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10685)**
-
-**Author:** [Melisa♡](https://x.com/xmliisu) | **Source:** [Link](https://x.com/xmliisu/status/2097596867500515494) | **Published:** Sep 9, 2026
-
----
-### Prompt video người phụ nữ mặc áo mưa chân thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh văn bản trực tiếp được sử dụng để tạo video cảnh mưa chân thực với các đặc điểm chuyển động cụ thể trong Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ chân thực mặc áo mưa đen đứng dưới mưa lớn trong rừng. Cô ấy mở mắt, quay về phía ánh sáng ấm áp mờ ảo giữa các tán cây. Quay cầm tay, sương mù, vải ướt, không kinh dị, không biến dạng khuôn mặt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097587231070523392/img/gC_waap6tc44L4Yc.jpg" width="600" alt="Prompt video người phụ nữ mặc áo mưa chân thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10614)**
-
-**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2193,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T04:28:13.182Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T13:42:15.083Z</sub>
 
 </div>

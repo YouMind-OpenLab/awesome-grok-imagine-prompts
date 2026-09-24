@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2874** |
+| 📝 Total Prompts | **2881** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-24** |
 
@@ -189,6 +189,124 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Phone Call Narrative
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative prompt describing a woman answering a phone call followed by a knock at the door.
+
+#### 📝 Prompt
+
+```
+The phone rings.  She picks up. Hello Darling!  Then a knock on the door.  She opens....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="Phone Call Narrative">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11226)**
+
+**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
+
+---
+### Archer Character Action Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt using a reference image of an archer character to generate a specific action sequence.
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+Generate a video of the muscular character from the reference image performing a natural "poop" action while remaining in character.
+
+[Reference Asset Roles]
+@image1 is used for the character's full appearance: archer
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="Archer Character Action Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11222)**
+
+**Author:** [Dylan Briggs](https://x.com/DylanBriggjk) | **Source:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **Published:** Sep 24, 2026
+
+---
+### Grok Imagine Video Prompt: Monolith Breaks Apart
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine describing a monolith breaking apart with a beam of light shooting into the sky.
+
+#### 📝 Prompt
+
+```
+The monolith breaks apart and a beam of light emerges shooting straight up into the sky
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="Grok Imagine Video Prompt: Monolith Breaks Apart">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11224)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **Published:** Sep 23, 2026
+
+---
+### Video Generation from Images
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt using Croatian text ('The images stack up become a mirror and disappear with a thunder strike') to generate a short vertical video based on provided images.
+
+#### 📝 Prompt
+
+```
+Generate me a new video based on the provided images using this prompt: "The images stack up, become a mirror, and disappear with a strike of lightning" with the following settings: 480p, 6s, 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="Video Generation from Images">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11225)**
+
+**Author:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **Source:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **Published:** Sep 23, 2026
+
+---
+### 1600s Puritan Homestead
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video scene of a 1600s Robert Eggers-style puritan homestead with a fireplace.
+
+#### 📝 Prompt
+
+```
+Let’s start with a 1600s Robert Eggers the witch puritan homestead small house fire place
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="1600s Puritan Homestead">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11227)**
+
+**Author:** [JB](https://x.com/JoshuaBalianSR) | **Source:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **Published:** Sep 23, 2026
+
+---
+### Elon Musk Dancing Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a video of Elon Musk dancing like Jennifer Lopez with audio from 'If You Want My Love'.
+
+#### 📝 Prompt
+
+```
+Create video of elon dancing like jennifer lopez- if you want my love with audio
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="Elon Musk Dancing Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11221)**
+
+**Author:** [Jared Foster](https://x.com/JaredFosterX) | **Source:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **Published:** Sep 23, 2026
+
+---
 ### Anthropomorphic Rocker Cats Band
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -212,6 +330,27 @@ Keep the cats fully anthropomorphic rockers, the English singing, the psychologi
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
 
 **Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
+
+---
+### Baroque Archangel Michael Statue
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed Grok Imagine prompt for generating a Baroque-Renaissance style oil painting of an Archangel Michael statue in a museum setting, combining Michelangelo and Bernini styles.
+
+#### 📝 Prompt
+
+```
+A masterful Baroque-Renaissance oil painting of a cream marble statue of Archangel Michael as a warrior angel, hybrid of Michelangelo and Bernini. Michelangelo-style idealized face, noble stern gaze, and carved wavy hair. Bernini-style dramatic movement with large sculpted wings fully spread and flowing carved drapery in heavy folds. Cream-colored aged marble with warm brown painted shadow strokes in the folds. A shining silver-blue metallic breastplate armor on the chest that gleams with cool bluish light. The statue’s right arm is fully sculpted and extended outward in a noble open-handed warrior gesture; the left arm hangs at the side. Museum-scale statue on an ornate carved stone pedestal, clear focal point of the room.
+Around the pedestal stand four low, elaborately carved cream marble columns connected by a simple elegant metal chain, an interior museum barrier. Grand Italian palazzo gallery or Vatican-like cabinet of curiosities. Walls densely covered with 16th–17th century oil paintings in heavy gilded frames. An antique carved wooden writing desk in the foreground with papers, quill, inkwell, and a lit candle. Surrounding collections: globes, leather-bound books, smaller marble busts, wooden cabinets with artifacts, all secondary and slightly darker so the statue commands attention.
+Warm golden chandelier and candlelight, rich Caravaggio chiaroscuro, violet-tinged shadows in the corners. Polished marble floor with reflections, coffered gilded ceiling. Cinematic antique oil-painting look. Highly detailed textures of marble, metal armor, chain, gold leaf frames, and aged canvas. No modern objects. No iron fence. No missing limbs.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="Baroque Archangel Michael Statue">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11223)**
+
+**Author:** [Arco](https://x.com/arco0369) | **Source:** [Link](https://x.com/arco0369/status/2102491951287181545) | **Published:** Sep 22, 2026
 
 ---
 ### Grok Imagine Prompt for Bird Feeder Scene
@@ -1992,143 +2131,6 @@ Athena walk toward her father temple a with out saying anything she looks as Zeu
 **Author:** [vlad moore](https://x.com/vladmoore3) | **Source:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **Published:** Sep 9, 2026
 
 ---
-### Realistic Talking Photo Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An advanced prompt for animating two people in a photo with specific lip-sync dialogue and natural facial movements.
-
-#### 📝 Prompt
-
-```
-Animate this photo realistically. The man (Charlie) speaks first saying "Pam always go Max!" with natural lip sync and mouth movements. Then the woman (Pam) replies saying "you got it Charlie!" with natural lip sync....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097701925424947200/img/JIVCIIy9cUk8TnC9.jpg" width="600" alt="Realistic Talking Photo Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10684)**
-
-**Author:** [Pamela joye middle](https://x.com/JoyeMiddle28955) | **Source:** [Link](https://x.com/JoyeMiddle28955/status/2097701989278998571) | **Published:** Sep 9, 2026
-
----
-### Character Interaction and Animated Tail Action
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A motion-oriented video prompt for a character performing a continuous action sequence including waving, spinning, and falling, with specific tail coloration instructions.
-
-#### 📝 Prompt
-
-```
-Look to the right and left in turn and wave in each direction. Spin once on the spot but lose your balance and fall on your bottom. Finally, show a bright, slightly embarrassed smile. The tail should be light brown for the first half from the base and dark brown for the tip half.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097693112428875776/img/VMYuzkc2zkYCF-Q4.jpg" width="600" alt="Character Interaction and Animated Tail Action">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10688)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2097693136382566808) | **Published:** Sep 9, 2026
-
----
-### Cool Cat with Glasses Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for grok-imagine featuring a cat in glasses with slow camera movement.
-
-#### 📝 Prompt
-
-```
-Slow camera movement, cat remains relatively still. Animals know how cool they look even in glasses!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097676269249011712/img/fHbejykVvx-GHy6A.jpg" width="600" alt="Cool Cat with Glasses Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10682)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2097676312357773654) | **Published:** Sep 9, 2026
-
----
-### Dynamic Parasyte Scene Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Animate a manga scene with shifting ages and sequence text overlay overlaying video elements.
-
-#### 📝 Prompt
-
-```
-Animate the Parasyte scene into a fun dynamic video: giant alien hand with Shinichi and Migi reaches for Earth. Overlay big glowing Chinese text appearing in sequence: "3秒原则", then "三分天下", then "333岁成大叔". The young Shinichi ages into a 333-year-old m...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097637549095497728/img/xi0uGrQLYYgOOGAV.jpg" width="600" alt="Dynamic Parasyte Scene Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10676)**
-
-**Author:** [Chenghuai Wang](https://x.com/ChenghuaiW716i) | **Source:** [Link](https://x.com/ChenghuaiW716i/status/2097637600664433145) | **Published:** Sep 9, 2026
-
----
-### Sleek Black Tesla Highway Drive
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a smooth video tracking a futuristic black Tesla on a sunlit highway with sharp reflections.
-
-#### 📝 Prompt
-
-```
-A sleek black Tesla electric vehicle drives smoothly along a sunlit modern highway, its glossy surface reflecting the surrounding scenery as it glides forward with quiet power.
-The visuals present a clean, futuristic automotive style with sharp refle...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097621563709501440/img/mLJvZTc-hXrOj-__.jpg" width="600" alt="Sleek Black Tesla Highway Drive">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10674)**
-
-**Author:** [Jacek](https://x.com/iadventurejacek) | **Source:** [Link](https://x.com/iadventurejacek/status/2097621591815287266) | **Published:** Sep 9, 2026
-
----
-### Martial Arts Dojo Sparring Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a cinematic video of two martial artists sparring in a traditional Japanese dojo, featuring fast-paced camera work and natural lighting.
-
-#### 📝 Prompt
-
-```
-Characters: A woman with long blonde hair and a man with curly blonde hair. Both wear white martial arts uniforms (gis) and black belts.
-Action: They engage in intense, rapid hand-to-hand sparring, exchanging punches and blocks, before separating to strike defensive stances.
-Setting: A traditional Japanese dojo featuring wooden pillars, tatami flooring, and large openings that reveal a lush green forest outside. A hanging scroll is visible in the background.
-Cinematography: Fast-paced camera work, quick cuts, and motion blur during fast movements. Natural lighting highlights the scene.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097596579775651840/img/ZIvdND7fCCnwhZrG.jpg" width="600" alt="Martial Arts Dojo Sparring Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10685)**
-
-**Author:** [Melisa♡](https://x.com/xmliisu) | **Source:** [Link](https://x.com/xmliisu/status/2097596867500515494) | **Published:** Sep 9, 2026
-
----
-### Photoreal Raincoat Woman Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A direct generation text prompt utilized to create a realistic rain sequence video with specific motion characteristics inside Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Photoreal woman in a black raincoat standing in heavy rain in a forest. She opens her eyes, turns toward a faint warm light between the trees. Handheld, mist, wet fabric, no horror, no face morph.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097587231070523392/img/gC_waap6tc44L4Yc.jpg" width="600" alt="Photoreal Raincoat Woman Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10614)**
-
-**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097588255445090354) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2190,6 +2192,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T04:28:06.299Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T13:42:06.804Z</sub>
 
 </div>
