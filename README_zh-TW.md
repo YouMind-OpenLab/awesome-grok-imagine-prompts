@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2881** |
+| 📝 提示詞總數 | **2891** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-09-25** |
 
@@ -189,6 +189,181 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 木紋質感 Tesla Cybertruck 越野駕駛
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段詳細的影片提示，展示一輛具有榛果木紋光澤塗裝的 Tesla Cybertruck 駛過崎嶇的河床。
+
+#### 📝 提示詞
+
+```
+一輛 Tesla Cybertruck 正駛過極度崎嶇的河床，車身採用榛果色乙烯基貼膜並呈現逼真的木紋光澤效果，輪胎周圍、車底邊緣以及前保險桿框架處均配有精緻的黃銅細節裝飾
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103381999214026752/img/LpSKI9EiI3YZGBN5.jpg" width="600" alt="木紋質感 Tesla Cybertruck 越野駕駛">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11265)**
+
+**作者:** [Internet James](https://x.com/iminternetjames) | **來源:** [Link](https://x.com/iminternetjames/status/2103382101416624505) | **發布時間:** Sep 25, 2026
+
+---
+### 鼠女變身大牙負鼠
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片提示詞，描述一名鼠臉女子在看向鏡頭後，變成了一隻長著大牙齒的負鼠。
+
+#### 📝 提示詞
+
+```
+一名長著大眼睛、鼠臉的女子斜眼看著鏡頭，身體垂直於鏡頭面向右側，露出猙獰的笑容……
+
+她轉向鏡頭，變成了一隻長著大牙齒的負鼠
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="鼠女變身大牙負鼠">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11267)**
+
+**作者:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **來源:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **發布時間:** Sep 24, 2026
+
+---
+### Grok Imagine 反人口販運訊息
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的社群媒體提示詞，內容涉及反抗人口販運及祝福美國。
+
+#### 📝 提示詞
+
+```
+@Image1 我們必須共同起身反抗人口販運 願上帝保佑美國 注意安全
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="Grok Imagine 反人口販運訊息">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11268)**
+
+**作者:** [Greg Womack](https://x.com/Womack3954Greg) | **來源:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **發布時間:** Sep 24, 2026
+
+---
+### 經典皮條客形象轉換
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 此提示詞指示模型將人物的表情與手勢轉換為經典皮條客索要金錢時的姿態。
+
+#### 📝 提示詞
+
+```
+將照片中男子的形象轉換為經典皮條客索要金錢時的樣子。賦予他嚴肅、認真且不容置疑的表情，雙眼微瞇並帶著自信的微笑。將他的手勢改為索求的姿勢：一隻手伸出...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="經典皮條客形象轉換">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11266)**
+
+**作者:** [Ty](https://x.com/datsTy27) | **來源:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **發布時間:** Sep 24, 2026
+
+---
+### 酒吧場景人物轉頭
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片提示，描繪一名時尚男子在燈光昏暗、氛圍感十足的酒吧中轉頭的畫面。
+
+#### 📝 提示詞
+
+```
+電影級場景：一位留著長髮、戴著太陽眼鏡且有紋身的時尚男子，隨意地倚靠在昏暗且充滿情緒張力的酒吧木質吧檯上，帶著冷酷而強烈的神情緩緩轉過頭，鏡頭輕微推進，氛圍感照明，高畫質...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="酒吧場景人物轉頭">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11260)**
+
+**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **來源:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **發布時間:** Sep 24, 2026
+
+---
+### 型男金色裝飾
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 結合參考圖像角色一致性與奢華場景的複雜影片提示詞。
+
+#### 📝 提示詞
+
+```
+電影級鏡頭呈現 @Image1 和 @Image2 中那位留著長髮、戴著墨鏡、有紋身且身穿深色服裝的型男。他隨意地坐在燈光昏暗的吧檯前，神情神秘，隨後起身自信地穿過一條華麗的金屬雕花走廊……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="型男金色裝飾">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11262)**
+
+**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **來源:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **發布時間:** Sep 24, 2026
+
+---
+### 細微的吧台動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段關於男子倚靠吧台之細微動畫的影片提示，重點在於呼吸與頭部動作。
+
+#### 📝 提示詞
+
+```
+長波浪深色頭髮並戴著矩形太陽眼鏡的男子倚靠在木製吧台上，呈現細膩的电影感動畫。他帶著冷靜而強烈的表情，緩慢地將頭部微微轉向鏡頭，伴隨細微的呼吸與肩部動作，以及柔和的焦點轉換……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="細微的吧台動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11261)**
+
+**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **來源:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **發布時間:** Sep 24, 2026
+
+---
+### 雨夜電影感漫步
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成電影場景的影片提示詞，描繪一名男子在夜晚雨中的街道上行走。
+
+#### 📝 提示詞
+
+```
+電影場景：身穿深色西裝、戴著墨鏡的冷峻長髮男子，在發光的路燈下，沿著雨夜鵝卵石街道緩步自信前行，大氣氛圍中細雨輕落，頭部動作微妙自然，流暢的跟蹤鏡頭...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="雨夜電影感漫步">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11264)**
+
+**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **來源:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **發布時間:** Sep 24, 2026
+
+---
+### 布萊斯峽谷奇幻旅人
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段以布萊斯峽谷為背景的奇幻旅人電影感豎向影片提示詞。
+
+#### 📝 提示詞
+
+```
+AI 影片 — 9:16 電影感
+
+一位英俊健壯、銀髮飄逸的奇幻旅人，緩緩深入猶他州布萊斯峽谷令人屏息的紅岩峽谷之中。高聳的橘色與深紅色砂岩壁以及奇特的石柱（Hoodoo）地貌巍然聳立……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="布萊斯峽谷奇幻旅人">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11263)**
+
+**作者:** [GayBar](https://x.com/GayBar_Ai) | **來源:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **發布時間:** Sep 24, 2026
+
+---
 ### 電話敘事
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -773,6 +948,27 @@ Create a video of an old low rider Chevy car Hoping with air shocks 3 fr high th
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11044)**
 
 **作者:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **來源:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **發布時間:** Sep 18, 2026
+
+---
+### Tesla EV Production Line
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt showing the assembly of a Tesla EV with precision robotics.
+
+#### 📝 提示詞
+
+```
+Part 3: 30-45sec|modern production 
+
+From an unfinished body to a finished EV  precision robotics, and technology come together on Tesla’s production line. ⚡🚗🏭
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="Tesla EV Production Line">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11269)**
+
+**作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **來源:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **發布時間:** Sep 18, 2026
 
 ---
 ### 喜劇場景：香菸誘惑
@@ -1942,198 +2138,6 @@ Just a short glimpse tonight - an oasis on Mars, lights in the domes, robots bui
 **作者:** [Gabriel](https://x.com/riquitoboy47) | **來源:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **發布時間:** Sep 10, 2026
 
 ---
-### 熔金垂柳動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個動畫提示詞，描述熔化的金滴匯聚並生長成一棵掛滿黑珍珠的垂柳，背景為炭灰色。
-
-#### 📝 提示詞
-
-```
-五滴熔金落在地上。它們緩慢地匯聚並向上生長，形成一棵垂柳的形狀，枝條上掛滿了閃閃發光的黑珍珠，背景為質感豐富的炭灰色。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="熔金垂柳動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10742)**
-
-**作者:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **來源:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **發布時間:** Sep 10, 2026
-
----
-### 動漫跨界分鏡場景
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一個詳細的多片段影片提示詞，包含 Luffy 和 Anya 的角色，並針對道具互動與情感亮點設定了具體時間點。
-
-#### 📝 提示詞
-
-```
-10–15 秒 | 道具爆發：Rakhi 飛起並纏繞在手腕上。金色絲帶自動纏繞在 Luffy 的手腕，防護盾展開，Anya 的眼睛變成星星狀。15–20 秒 | 情感高潮：哥哥摸頭 + 擁抱。Luffy 認真地摸著 Anya 的頭，Anya 跳進他的懷裡，周圍環繞著金色的愛心光芒。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097918547813175296/img/9s_uDQjaXgjU2a1N.jpg" width="600" alt="動漫跨界分鏡場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10687)**
-
-**作者:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **來源:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **發布時間:** Sep 10, 2026
-
----
-### 動漫風格 HIIT 橢圓機健身動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個 Grok Imagine 影片提示詞，描繪了一個角色從坐姿轉為站姿並進行伏地挺身的過程，呈現動漫健身序列風格。
-
-#### 📝 提示詞
-
-```
-請為我生成一個角色背對鏡頭坐著，隨後站起來轉身並進行幾次伏地挺身的畫面
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097888869270376448/img/h1241Vo5IBfUBOeG.jpg" width="600" alt="動漫風格 HIIT 橢圓機健身動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10680)**
-
-**作者:** [𝑹𝒂𝒄𝒉𝒆𝒍 𝑹𝒂𝒎𝒔𝒆𝒚](https://x.com/RSOXART) | **來源:** [Link](https://x.com/RSOXART/status/2097888970994495736) | **發布時間:** Sep 10, 2026
-
----
-### 超現實宇宙地平線動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個極具描述性的電影級提示詞，描繪了一位女孩在屋頂觀看巨大行星升起的場景，強調了超現實的尺度感與情感敘事。
-
-#### 📝 提示詞
-
-```
-夜晚，一個孤獨的女孩坐在鄉間小屋的屋頂上，雙膝蜷縮，凝視著地平線上緩緩升起的巨大發光行星。與佔據天空的巨大天體相比，小屋顯得格外渺小。她下方的窗戶透出柔和的暖黃色燈光，而周圍的世界則沐浴在冷藍色的月光中。螢火蟲在草叢間飛舞，遠處的山丘隱沒在黑暗中。夢幻、親密、超現實的宇宙尺度、強烈的藍橙對比、孤獨而美麗、電影級構圖、細膩的情感敘事。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797344687448064/img/SZngyC9XYY8D9vMn.jpg" width="600" alt="超現實宇宙地平線動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10678)**
-
-**作者:** [BMX](https://x.com/bmx_ai13) | **來源:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **發布時間:** Sep 10, 2026
-
----
-### 高中教學任務指派
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片提示，描述了一位加州高中校長將教學任務指派給家長與大學四年級學生的場景。
-
-#### 📝 提示詞
-
-```
-加州高中校長將為期兩週的教學任務指派給家長，並與大學四年級學生共同協作
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="高中教學任務指派">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10741)**
-
-**作者:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **來源:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **發布時間:** Sep 10, 2026
-
----
-### 蒜香麵包烹飪教學影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份 45 秒的教學影片提示詞，教你如何製作加入巴西里與帕瑪森起司的蒜香麵包。
-
-#### 📝 提示詞
-
-```
-請為我製作一支 45 秒的短影音教學，示範如何使用新鮮巴西里與帕瑪森起司製作蒜香麵包。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797873366671362/img/608CZ_oj_TJaD-FR.jpg" width="600" alt="蒜香麵包烹飪教學影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10681)**
-
-**作者:** [Rduck](https://x.com/rduck526) | **來源:** [Link](https://x.com/rduck526/status/2097797892312322437) | **發布時間:** Sep 9, 2026
-
----
-### 沙漠夜空中的發光之門
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一幅細節豐富、超現實的垂直夜景，描繪了一名孤獨的男子面對黑暗沙漠中一扇巨大的發光門扉。
-
-#### 📝 提示詞
-
-```
-一幅超現實的垂直夜景，描繪了一名孤獨的男子站在星空下廣闊黑暗的沙漠中。在他面前是一扇巨大的獨立發光門扉，比人類高出許多，門微微敞開，透出內部明亮的橙色光芒。門周圍的沙子在藍色月光下柔和地閃爍。天空佈滿繁星與淡淡的星雲。冷色調的午夜藍地景與門內溢出的溫暖火光形成強烈的視覺對比。寧靜、象徵性、電影感、神秘、細節豐富、超現實比例、情感孤獨。
-
-負面提示詞：無文字、無標誌、無浮水印
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097796543462219776/img/DxvENK4kg04thsZh.jpg" width="600" alt="沙漠夜空中的發光之門">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10675)**
-
-**作者:** [BMX](https://x.com/bmx_ai13) | **來源:** [Link](https://x.com/bmx_ai13/status/2097796795325882717) | **發布時間:** Sep 9, 2026
-
----
-### 粗獷主義幾何室內走廊
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個具有電影感、高對比度的建築提示詞，包含堆疊的混凝土體塊、細長的發光白色門戶以及動態的陰影漸變效果。
-
-#### 📝 提示詞
-
-```
-9:16 垂直電影感鏡頭，呈現廣闊且深邃的粗獷主義室內空間。巨大的堆疊白色混凝土體塊構成了一條深邃的幾何走廊，並帶有銳利的矩形開口。細長的發光白色光框勾勒出門框與懸浮的建築板塊，創造出層層遞進並隱沒於黑暗中的光之門戶。幾個人影靜止站立或在空間中緩慢行走，一人位於前景，其餘則在遠處。場景有節奏地漸變至近乎全黑，隨後發光的建築結構再次浮現。極簡、單色、高對比度、體積光、乾淨的 CGI 建築、慢速鏡頭、沉浸式裝置氛圍、無文字、無色彩。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097595686695092224/img/ORVpFF3BYl2IrphX.jpg" width="600" alt="粗獷主義幾何室內走廊">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10677)**
-
-**作者:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **來源:** [Link](https://x.com/NotPhilSledge/status/2097761965032481176) | **發布時間:** Sep 9, 2026
-
----
-### 變身怪獸貓實況主
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一個詳細的恐怖風格動漫提示詞，描述一隻四足怪獸貓變身為雙足生物並開始直播的過程。
-
-#### 📝 提示詞
-
-```
-創作一段動漫風格的恐怖場景影片，畫面中一隻四足怪獸貓先是走了一段路，接著開始用雙腳行走，隨後坐在桌前的電競椅上，開啟桌上型電腦，戴上耳機，並對著麥克風開始直播。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097708848828276737/img/wlO1X5GuuWEVYe7P.jpg" width="600" alt="變身怪獸貓實況主">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10686)**
-
-**作者:** [猫目の人](https://x.com/nekomenohito_JP) | **來源:** [Link](https://x.com/nekomenohito_JP/status/2097708874254197197) | **發布時間:** Sep 9, 2026
-
----
-### 雅典娜與宙斯的電影感對話
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段敘事性影片提示詞，描述雅典娜走向宙斯神殿，請求祂協助凡人。
-
-#### 📝 提示詞
-
-```
-雅典娜走向她父親的神殿，一言不發。當宙斯向她打招呼時，她看著祂並回答道：「凡人們需要我們的幫助。」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097706795951439872/img/hbwALyol54WErHvT.jpg" width="600" alt="雅典娜與宙斯的電影感對話">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=10673)**
-
-**作者:** [vlad moore](https://x.com/vladmoore3) | **來源:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **發布時間:** Sep 9, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2195,6 +2199,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-25T04:41:13.863Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-25T13:47:00.677Z</sub>
 
 </div>

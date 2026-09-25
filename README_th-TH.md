@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2881** |
+| 📝 Total Prompts | **2891** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-25** |
 
@@ -189,6 +189,181 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Tesla Cybertruck ขับขึ้นแม่น้ำหิน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ตัวอย่างพรอมต์วิดีโอที่ละเอียดของ Tesla Cybertruck ซึ่งเคลือบด้วยไม้เฮเซลนัท กำลังขับขึ้นแม่น้ำที่มีหินขรุขระ
+
+#### 📝 Prompt
+
+```
+Tesla Cybertruck กำลังขับขึ้นแม่น้ำที่มีหินขรุขระมาก โดดเด่นด้วยสติกเกอร์ไวนิลสีน้ำตาลอ่อนเลียนแบบผิวไม้จริง พร้อมรายละเอียดขอบทองเหลืองรอบล้อ ด้านล่างตัวรถ และกรอบกันชนหน้า
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103381999214026752/img/LpSKI9EiI3YZGBN5.jpg" width="600" alt="Tesla Cybertruck ขับขึ้นแม่น้ำหิน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11265)**
+
+**Author:** [Internet James](https://x.com/iminternetjames) | **Source:** [Link](https://x.com/iminternetjames/status/2103382101416624505) | **Published:** Sep 25, 2026
+
+---
+### หญิงสาวหนูแปลงร่างเป็นโอพอสซัม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่อธิบายการเปลี่ยนแปลงของหญิงสาวหน้าตาคล้ายหนูให้กลายเป็นโอพอสซัมที่มีฟันใหญ่หลังจากมองกล้อง
+
+#### 📝 Prompt
+
+```
+หญิงสาวหน้าตาคล้ายหนูที่มีดวงตาโต มองเฉียงๆ ไปทางกล้องโดยหันข้างไปทางขวา ยิ้มกว้าง....
+
+เธอหันหน้าเข้าหากล้องและเปลี่ยนร่างเป็นโอพอสซัมที่มีฟันใหญ่
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="หญิงสาวหนูแปลงร่างเป็นโอพอสซัม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11267)**
+
+**Author:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **Source:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **Published:** Sep 24, 2026
+
+---
+### ข้อความต่อต้านการค้ามนุษย์จาก Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ข้อความสำหรับโซเชียลมีเดียที่สร้างโดย Grok Imagine เกี่ยวกับการลุกขึ้นต่อต้านการค้ามนุษย์และอวยพรให้สหรัฐอเมริกาปลอดภัย
+
+#### 📝 Prompt
+
+```
+@Image1 เราทุกคนต้องลุกขึ้นต่อต้านการค้ามนุษย์ ขอให้พระเจ้าอวยพรอเมริกา จงปลอดภัย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="ข้อความต่อต้านการค้ามนุษย์จาก Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11268)**
+
+**Author:** [Greg Womack](https://x.com/Womack3954Greg) | **Source:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **Published:** Sep 24, 2026
+
+---
+### การแปลงโฉมเป็นมาเฟียคลาสสิก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งที่บอกให้โมเดลเปลี่ยนสีหน้าและท่าทางของบุคคลให้แสดงออกเหมือนมาเฟียคลาสสิกที่กำลังทวงเงิน
+
+#### 📝 Prompt
+
+```
+เปลี่ยนชายในรูปถ่ายให้แสดงท่าทางเหมือนมาเฟียคลาสสิกที่กำลังทวงเงิน ให้เขามีสีหน้าที่ดุดัน จริงจัง ไม่ยอมอ่อนข้อ พร้อมหรี่ตาและยิ้มอย่างมั่นใจ เปลี่ยนท่าทางมือของเขาให้เป็นท่าทวงเงิน: ยื่นมือออกไปหนึ่งข้าง...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="การแปลงโฉมเป็นมาเฟียคลาสสิก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11266)**
+
+**Author:** [Ty](https://x.com/datsTy27) | **Source:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **Published:** Sep 24, 2026
+
+---
+### ฉากบาร์: การหันหน้า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่แสดงภาพชายมีสไตล์กำลังหันศีรษะในบาร์ที่มีแสงสลัวและบรรยากาศลึกลับ
+
+#### 📝 Prompt
+
+```
+ฉากภาพยนตร์แนวซีเนมาติก: ชายผมยาวดูดีสวมแว่นกันแดดและมีรอยสัก ยืนพิงเคาน์เตอร์บาร์ไม้แบบสบายๆ ในบาร์มืดสลัวที่มีบรรยากาศลึกลับ ค่อยๆ หันศีรษะด้วยสีหน้าเย็นชาและดุดัน กล้องซูมเข้าอย่างนุ่มนวล แสงบรรยากาศคุณภาพสูง...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="ฉากบาร์: การหันหน้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11260)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **Published:** Sep 24, 2026
+
+---
+### เครื่องประดับทองรูปชายหนุ่มสุดเท่
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งวิดีโอที่ซับซ้อนซึ่งเกี่ยวข้องกับความสอดคล้องของตัวละครจากภาพอ้างอิงและฉากหรูหรา
+
+#### 📝 Prompt
+
+```
+ฉากภาพยนตร์สไตล์ซีเนมาติกของชายหนุ่มผมยาวสุดเท่ สวมแว่นกันแดด มีรอยสัก และแต่งกายด้วยชุดสีเข้ม ตามลักษณะใน @Image1 และ @Image2 เขานั่งอย่างสบายๆ ที่เคาน์เตอร์บาร์แสงสลัวดูมีเสน่ห์ลึกลับ จากนั้นลุกขึ้นยืนและเดินอย่างมั่นใจผ่านโถงทางเดินหรูหราริมขอบทอง...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="เครื่องประดับทองรูปชายหนุ่มสุดเท่">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11262)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **Published:** Sep 24, 2026
+
+---
+### Subtle Bar Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งวิดีโอสำหรับการเคลื่อนไหวแบบละเอียดอ่อนของชายคนหนึ่งที่ยืนพิงบาร์ โดยเน้นที่การหายใจและการเคลื่อนไหวของศีรษะ
+
+#### 📝 Prompt
+
+```
+ภาพเคลื่อนไหวแบบภาพยนตร์ที่ละเอียดอ่อนของชายผมยาวหยิกสีเข้มสวมแว่นกันแดดทรงสี่เหลี่ยมผืนผ้า ยืนพิงบาร์ไม้ เขาค่อยๆ หันศีรษะเข้าหากล้องเล็กน้อยด้วยท่าทีเย็นชาและดุดัน มีการหายใจและการเคลื่อนไหวของไหล่อย่างนุ่มนวล พร้อมกับการปรับโฟกัสอย่างละเมียดละไม...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="Subtle Bar Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11261)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **Published:** Sep 24, 2026
+
+---
+### เดินเล่นกลางสายฝนยามค่ำ สไตล์ภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอฉากสไตล์ภาพยนตร์ ชายคนหนึ่งกำลังเดินบนถนนที่เปียกฝนในยามค่ำคืน
+
+#### 📝 Prompt
+
+```
+ฉากภาพยนตร์สไตล์ซีเนมาติก: ชายผมยาวดูเท่ในชุดสูทสีเข้มและแว่นกันแดด เดินไปข้างหน้าอย่างช้าๆ และมั่นใจ บนถนนหินกรวดที่เปียกฝนในยามค่ำคืน ภายใต้แสงไฟถนนที่ส่องสว่าง บรรยากาศฝนตกโปรยปรายเบาๆ มีการขยับศีรษะเล็กน้อย กล้องติดตามการเคลื่อนไหวอย่างนุ่มนวล...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="เดินเล่นกลางสายฝนยามค่ำ สไตล์ภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11264)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **Published:** Sep 24, 2026
+
+---
+### นักเดินทางแฟนตาซีใน Bryce Canyon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวตั้งสไตล์ภาพยนตร์ นำเสนอนักเดินทางแฟนตาซีใน Bryce Canyon
+
+#### 📝 Prompt
+
+```
+AI video — ภาพยนตร์แนวตั้ง 9:16
+
+ชายหนุ่มรูปงาม กล้ามแน่น ผมสีเงินในฐานะนักเดินทางแฟนตาซี เดินลึกเข้าไปอย่างช้าๆ ผ่านหุบเขาหินสีแดงอันน่าตื่นตะลึงของ Bryce Canyon รัฐยูทาห์ กำแพงหินทรายสีส้มและแดงเข้มที่สูงตระหง่าน รวมถึง formations ของ hoodoo ที่แปลกประหลาด ตั้งตระหง่าน...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="นักเดินทางแฟนตาซีใน Bryce Canyon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11263)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **Published:** Sep 24, 2026
+
+---
 ### เรื่องเล่าจากการรับโทรศัพท์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -773,6 +948,27 @@ Segment #8
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
 
 **Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
+
+---
+### สายการผลิตรถยนต์ไฟฟ้า Tesla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งสร้างวิดีโอที่แสดงกระบวนการประกอบรถยนต์ไฟฟ้า Tesla ด้วยหุ่นยนต์ที่มีความแม่นยำสูง
+
+#### 📝 Prompt
+
+```
+ส่วนที่ 3: 30-45 วินาที | การผลิตสมัยใหม่
+
+จากตัวถังที่ยังไม่เสร็จสมบูรณ์สู่รถยนต์ไฟฟ้าที่พร้อมใช้งาน หุ่นยนต์ที่มีความแม่นยำสูงและเทคโนโลยีขั้นสูงทำงานร่วมกันในสายการผลิตของ Tesla ⚡🚗🏭
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="สายการผลิตรถยนต์ไฟฟ้า Tesla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11269)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
 
 ---
 ### ฉากตลก: การยั่วยุด้วยบุหรี่
@@ -1942,198 +2138,6 @@ Lady StarWeaver และลูกเสือดำ 2 ตัวอาศัย�
 **Author:** [Gabriel](https://x.com/riquitoboy47) | **Source:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **Published:** Sep 10, 2026
 
 ---
-### แอนิเมชันต้นหลิวทองคำหลอมละลาย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แอนิเมชันที่หยดทองคำหลอมละลายค่อย ๆ รวมตัวกันและเติบโตเป็นต้นหลิวที่มีไข่มุกสีดำประดับอยู่บนพื้นหลังสีเทาถ่าน
-
-#### 📝 Prompt
-
-```
-หยดทองคำหลอมละลาย 5 หยดวางอยู่บนพื้น ค่อย ๆ รวมตัวกันและเติบโตขึ้นเป็นรูปทรงของต้นหลิว กิ่งก้านของมันเต็มไปด้วยไข่มุกสีดำที่เป็นประกาย ตัดกับพื้นหลังสีเทาถ่านที่มีพื้นผิวสัมผัส
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="แอนิเมชันต้นหลิวทองคำหลอมละลาย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10742)**
-
-**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **Published:** Sep 10, 2026
-
----
-### ฉากสตอรีบอร์ดอนิเมะครอสโอเวอร์
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์วิดีโอแบบหลายส่วนที่ละเอียด โดยมีตัวละคร Luffy และ Anya พร้อมการกำหนดเวลาที่เฉพาะเจาะจงสำหรับการโต้ตอบกับอุปกรณ์ประกอบฉากและจุดเด่นทางอารมณ์
-
-#### 📝 Prompt
-
-```
-10–15 วินาที | อุปกรณ์ประกอบฉากปรากฏขึ้น: Rakhi ลอยขึ้นและพันรอบข้อมือ ริบบิ้นสีทองพันรอบข้อมือของ Luffy โดยอัตโนมัติ โล่ป้องกันกางออก และดวงตาของ Anya กลายเป็นรูปดาว 15–20 วินาที | จุดสูงสุดทางอารมณ์: พี่ชายลูบหัว + กอด Luffy ลูบหัว Anya อย่างจริงจัง Anya กระโดดเข้าสู่อ้อมกอดของเขา ท่ามกลางแสงรูปหัวใจสีทอง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097918547813175296/img/9s_uDQjaXgjU2a1N.jpg" width="600" alt="ฉากสตอรีบอร์ดอนิเมะครอสโอเวอร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10687)**
-
-**Author:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
-
----
-### แอนิเมชันการออกกำลังกายแบบ HIIT บนเครื่อง Elliptical สไตล์อนิเมะ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สำหรับ Grok Imagine ที่แสดงภาพตัวละครเปลี่ยนท่าจากนั่งเป็นยืนและวิดพื้น โดยทำออกมาในรูปแบบฉากออกกำลังกายสไตล์อนิเมะ
-
-#### 📝 Prompt
-
-```
-สร้างภาพฉันกำลังลุกขึ้นนั่งโดยหันหลังให้กล้อง จากนั้นฉันก็ยืนขึ้นและหันกลับมาเพื่อวิดพื้นสองสามครั้ง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097888869270376448/img/h1241Vo5IBfUBOeG.jpg" width="600" alt="แอนิเมชันการออกกำลังกายแบบ HIIT บนเครื่อง Elliptical สไตล์อนิเมะ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10680)**
-
-**Author:** [𝑹𝒂𝒄𝒉𝒆𝒍 𝑹𝒂𝒎𝒔𝒆𝒚](https://x.com/RSOXART) | **Source:** [Link](https://x.com/RSOXART/status/2097888970994495736) | **Published:** Sep 10, 2026
-
----
-### แอนิเมชันเส้นขอบฟ้าจักรวาลเหนือจริง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ภาพยนตร์เชิงบรรยายที่เน้นรายละเอียดของเด็กหญิงบนดาดฟ้าขณะเฝ้ามองดาวเคราะห์ขนาดมหึมาที่กำลังขึ้น โดยเน้นไปที่สเกลที่เหนือจริงและการเล่าเรื่องที่เปี่ยมด้วยอารมณ์
-
-#### 📝 Prompt
-
-```
-เด็กหญิงคนหนึ่งนั่งอยู่บนหลังคาบ้านหลังเล็กในชนบทตอนกลางคืน กอดเข่าตัวเองขณะเฝ้ามองดาวเคราะห์เรืองแสงขนาดมหึมาที่กำลังขึ้นเหนือเส้นขอบฟ้า ตัวบ้านดูเล็กจิ๋วเมื่อเทียบกับวัตถุท้องฟ้าขนาดยักษ์ที่ปกคลุมท้องฟ้า แสงสีเหลืองอบอุ่นส่องสว่างออกมาจากหน้าต่างด้านล่าง ในขณะที่โลกโดยรอบอาบไปด้วยแสงจันทร์สีน้ำเงินเย็นตา หิ่งห้อยบินวนอยู่เหนือพื้นหญ้า และเนินเขาไกลๆ จางหายไปในความมืด ให้ความรู้สึกชวนฝัน ใกล้ชิด สเกลจักรวาลที่เหนือจริง ความเปรียบต่างที่ชัดเจนระหว่างสีน้ำเงินและสีส้ม โดดเดี่ยวแต่งดงาม องค์ประกอบภาพแบบภาพยนตร์ และการเล่าเรื่องที่ถ่ายทอดอารมณ์อย่างอ่อนโยน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797344687448064/img/SZngyC9XYY8D9vMn.jpg" width="600" alt="แอนิเมชันเส้นขอบฟ้าจักรวาลเหนือจริง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10678)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **Published:** Sep 10, 2026
-
----
-### การมอบหมายงานสอนในระดับมัธยมปลาย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่แสดงภาพอาจารย์ใหญ่กำลังมอบหมายงานสอนให้กับผู้ปกครองและนักศึกษาชั้นปีสุดท้ายในโรงเรียนมัธยมปลายแห่งหนึ่งในรัฐแคลิฟอร์เนีย
-
-#### 📝 Prompt
-
-```
-อาจารย์ใหญ่โรงเรียนมัธยมปลายในรัฐแคลิฟอร์เนียกำลังมอบหมายงานสอนระยะเวลาสองสัปดาห์ให้กับผู้ปกครองควบคู่ไปกับนักศึกษาชั้นปีสุดท้าย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="การมอบหมายงานสอนในระดับมัธยมปลาย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10741)**
-
-**Author:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **Source:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **Published:** Sep 10, 2026
-
----
-### วิดีโอสอนทำขนมปังกระเทียม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สำหรับคลิปสอนทำขนมปังกระเทียมใส่พาร์สลีย์และพาร์เมซานชีส ความยาว 45 วินาที
-
-#### 📝 Prompt
-
-```
-ช่วยทำวิดีโอสั้นความยาว 45 วินาที สอนวิธีทำขนมปังกระเทียมโดยใช้พาร์สลีย์สดและพาร์เมซานชีส
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797873366671362/img/608CZ_oj_TJaD-FR.jpg" width="600" alt="วิดีโอสอนทำขนมปังกระเทียม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10681)**
-
-**Author:** [Rduck](https://x.com/rduck526) | **Source:** [Link](https://x.com/rduck526/status/2097797892312322437) | **Published:** Sep 9, 2026
-
----
-### ประตูเรืองแสงท่ามกลางท้องฟ้าในทะเลทราย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ภาพฉากกลางคืนแนวเซอร์เรียลในแนวตั้งที่มีรายละเอียดสูง ของชายผู้โดดเดี่ยวที่กำลังเผชิญหน้ากับประตูบานยักษ์ที่เรืองแสงอยู่ในทะเลทรายอันมืดมิด
-
-#### 📝 Prompt
-
-```
-ฉากกลางคืนแนวเซอร์เรียลในแนวตั้งของชายผู้โดดเดี่ยวยืนอยู่ในทะเลทรายอันมืดมิดกว้างใหญ่ภายใต้ท้องฟ้าที่เต็มไปด้วยดวงดาว เบื้องหน้าของเขาคือประตูบานยักษ์ที่ตั้งตระหง่านอยู่เพียงลำพัง ซึ่งมีความสูงมากกว่ามนุษย์หลายเท่า ประตูเปิดแง้มออกเล็กน้อยเผยให้เห็นแสงสีส้มสว่างไสวจากภายใน รอบๆ ประตู ผืนทรายเรืองแสงอย่างนุ่มนวลภายใต้แสงจันทร์สีน้ำเงิน ท้องฟ้าเต็มไปด้วยดวงดาวและกลุ่มเมฆเนบิวลาจางๆ มีความเปรียบต่างทางภาพที่ชัดเจนระหว่างภูมิทัศน์สีน้ำเงินเข้มยามเที่ยงคืนกับแสงไฟอันอบอุ่นที่สาดส่องออกมาจากประตู ให้ความรู้สึกเงียบสงบ เป็นสัญลักษณ์ ดูเหมือนภาพยนตร์ ลึกลับ รายละเอียดสูง สเกลแบบเซอร์เรียล และสื่อถึงความโดดเดี่ยวทางอารมณ์
-
-Negative: ไม่มีข้อความ, ไม่มีโลโก้, ไม่มีลายน้ำ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097796543462219776/img/DxvENK4kg04thsZh.jpg" width="600" alt="ประตูเรืองแสงท่ามกลางท้องฟ้าในทะเลทราย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10675)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097796795325882717) | **Published:** Sep 9, 2026
-
----
-### ทางเดินภายในอาคารสไตล์ Brutalist รูปทรงเรขาคณิต
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมท์สถาปัตยกรรมแนว Cinematic ที่มีความเปรียบต่างสูง โดดเด่นด้วยรูปทรงคอนกรีตซ้อนทับกัน ช่องประตูเรืองแสงสีขาวบางเฉียบ และการไล่ระดับเงาที่ดูมีมิติ
-
-#### 📝 Prompt
-
-```
-ภาพมุมแนวตั้ง 9:16 สไตล์ Cinematic ของพื้นที่ภายในอาคารสไตล์ Brutalist อันมืดมิดและกว้างใหญ่ รูปทรงคอนกรีตสีขาวขนาดมหึมาซ้อนทับกันจนเกิดเป็นทางเดินเรขาคณิตที่ลึกพร้อมช่องเปิดสี่เหลี่ยมที่คมชัด กรอบแสงสีขาวบางเฉียบตัดขอบประตูและแผ่นสถาปัตยกรรมที่ดูเหมือนลอยตัว สร้างเป็นชั้นของแสงที่ทอดยาวลึกลงไปในความมืด มีเงาร่างของคนจำนวนหนึ่งยืนนิ่งหรือค่อยๆ เดินผ่านพื้นที่ โดยมีคนหนึ่งอยู่ด้านหน้าและคนอื่นๆ อยู่ไกลออกไป ฉากมีการจางหายไปจนเกือบมืดสนิทเป็นจังหวะก่อนที่โครงสร้างแสงจะปรากฏขึ้นอีกครั้ง สไตล์มินิมอล ขาวดำ ความเปรียบต่างสูง แสงแบบ Volumetric สถาปัตยกรรม CGI ที่สะอาดตา กล้องเคลื่อนที่ช้า บรรยากาศแบบงานศิลปะจัดวางที่สมจริง ไร้ข้อความ ไร้สีสัน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097595686695092224/img/ORVpFF3BYl2IrphX.jpg" width="600" alt="ทางเดินภายในอาคารสไตล์ Brutalist รูปทรงเรขาคณิต">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10677)**
-
-**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097761965032481176) | **Published:** Sep 9, 2026
-
----
-### การเปลี่ยนร่างของแมวปีศาจสตรีมเมอร์
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์อนิเมะแนวสยองขวัญแบบละเอียด ที่เล่าเรื่องราวของแมวปีศาจสี่ขาที่เปลี่ยนร่างเป็นสิ่งมีชีวิตสองขาและเริ่มทำการไลฟ์สตรีม
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอสไตล์อนิเมะในฉากสยองขวัญ โดยเริ่มจากแมวปีศาจสี่ขาเดินไปสักพัก จากนั้นเริ่มเดินด้วยสองขา แล้วเข้าไปนั่งบนเก้าอี้เกมมิ่งที่โต๊ะคอมพิวเตอร์ เปิดเครื่องคอมพิวเตอร์ สวมหูฟัง และเริ่มทำการสตรีมผ่านไมโครโฟน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097708848828276737/img/wlO1X5GuuWEVYe7P.jpg" width="600" alt="การเปลี่ยนร่างของแมวปีศาจสตรีมเมอร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10686)**
-
-**Author:** [猫目の人](https://x.com/nekomenohito_JP) | **Source:** [Link](https://x.com/nekomenohito_JP/status/2097708874254197197) | **Published:** Sep 9, 2026
-
----
-### บทสนทนาเชิงภาพยนตร์ระหว่าง Athena และ Zeus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมท์เชิงเล่าเรื่องที่แสดงภาพ Athena เดินไปยังวิหารของ Zeus เพื่อขอความช่วยเหลือให้กับเหล่ามนุษย์
-
-#### 📝 Prompt
-
-```
-Athena เดินตรงไปยังวิหารของบิดาโดยไม่พูดอะไรเลย เธอจ้องมองในขณะที่ Zeus กล่าวทักทาย เธอจึงตอบกลับไปว่าเหล่ามนุษย์ต้องการความช่วยเหลือจากเรา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097706795951439872/img/hbwALyol54WErHvT.jpg" width="600" alt="บทสนทนาเชิงภาพยนตร์ระหว่าง Athena และ Zeus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10673)**
-
-**Author:** [vlad moore](https://x.com/vladmoore3) | **Source:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2199,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-25T04:41:16.989Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-25T13:47:04.379Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2881** |
+| 📝 Total Prompts | **2891** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-25** |
 
@@ -189,6 +189,181 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Tesla Cybertruck de Madeira em Ação
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado apresentando uma Tesla Cybertruck com acabamento em verniz de madeira avelã subindo um rio rochoso.
+
+#### 📝 Prompt
+
+```
+Uma Tesla Cybertruck subindo um rio extremamente rochoso, destacando-se por um envelopamento vinílico na cor avelã com um realista acabamento em verniz de madeira, detalhes em latão ao redor dos pneus, na parte inferior do veículo e emoldurando o para-choque dianteiro
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103381999214026752/img/LpSKI9EiI3YZGBN5.jpg" width="600" alt="Tesla Cybertruck de Madeira em Ação">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11265)**
+
+**Author:** [Internet James](https://x.com/iminternetjames) | **Source:** [Link](https://x.com/iminternetjames/status/2103382101416624505) | **Published:** Sep 25, 2026
+
+---
+### Senhora Rato se Transformando em Gambá
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo descrevendo uma senhora com características de rato que se transforma em um gambá com dentes grandes após olhar para a câmera.
+
+#### 📝 Prompt
+
+```
+uma senhora com características de rato, olhos grandes, olhando de lado para a câmera e virada perpendicularmente para a direita, sorrindo...
+
+ela vira para a câmera e se transforma em um gambá com dentes grandes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="Senhora Rato se Transformando em Gambá">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11267)**
+
+**Author:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **Source:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **Published:** Sep 24, 2026
+
+---
+### Mensagem Anti-Tráfico Humano do Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de mensagem social para o Grok Imagine envolvendo a luta contra o tráfico humano e bênçãos para os Estados Unidos.
+
+#### 📝 Prompt
+
+```
+@Image1 Todos devemos nos levantar contra o tráfico humano. Deus abençoe os Estados Unidos. Fique seguro.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="Mensagem Anti-Tráfico Humano do Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11268)**
+
+**Author:** [Greg Womack](https://x.com/Womack3954Greg) | **Source:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **Published:** Sep 24, 2026
+
+---
+### Transformação de Pimp Clássico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt que instrui o modelo a transformar a expressão e os gestos de uma pessoa para agir como um pimp clássico exigindo dinheiro.
+
+#### 📝 Prompt
+
+```
+Transforme o homem na foto para que ele aja como um pimp clássico exigindo seu dinheiro. Dê a ele uma expressão severa, séria e sem rodeios, com olhos estreitos e um sorriso confiante. Mude seus gestos de mão para uma pose exigente: uma mão estendida pa...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="Transformação de Pimp Clássico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11266)**
+
+**Author:** [Ty](https://x.com/datsTy27) | **Source:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **Published:** Sep 24, 2026
+
+---
+### Virada de Cabeça em Cena de Bar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo que retrata um homem estiloso virando a cabeça em um bar com iluminação atmosférica e pouca luz.
+
+#### 📝 Prompt
+
+```
+Cena cinematográfica: o homem estiloso de cabelos longos, óculos escuros e tatuagens está encostado casualmente no balcão de madeira de um bar mal iluminado e com atmosfera sombria. Ele vira lentamente a cabeça com uma expressão fria e intensa, com um sutil movimento de câmera para frente (push-in), iluminação atmosférica e alta qualidade...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="Virada de Cabeça em Cena de Bar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11260)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **Published:** Sep 24, 2026
+
+---
+### Ornamento Dourado de Homem Estiloso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo complexo envolvendo consistência de personagem a partir de imagens de referência e um cenário luxuoso.
+
+#### 📝 Prompt
+
+```
+Cena cinematográfica do homem estiloso de cabelos longos, com óculos de sol, tatuagens e roupas escuras, conforme @Image1 e @Image2. Ele está sentado casualmente em um balcão de bar mal iluminado, parecendo misterioso, depois se levanta e caminha confiante por um corredor dourado ornamentado e luxuoso...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="Ornamento Dourado de Homem Estiloso">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11262)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **Published:** Sep 24, 2026
+
+---
+### Animação Sutil de Bar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de vídeo para animação sutil de um homem encostado em um bar, focando na respiração e no movimento da cabeça.
+
+#### 📝 Prompt
+
+```
+Animação cinematográfica sutil do homem com cabelos longos, ondulados e escuros, usando óculos de sol retangulares, encostado no balcão de madeira. Ele vira a cabeça lentamente e levemente em direção à câmera com uma expressão fria e intensa, respiração sutil e movimento dos ombros, foco suave...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="Animação Sutil de Bar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11261)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **Published:** Sep 24, 2026
+
+---
+### Caminhada Cinematográfica em Noite Chuvosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo para uma cena cinematográfica que apresenta um homem caminhando por uma rua chuvosa à noite.
+
+#### 📝 Prompt
+
+```
+Cena de filme cinematográfico: o homem de cabelos longos e estilo cool, vestindo terno escuro e óculos de sol, caminha lenta e confiantemente pela rua de paralelepípedos molhada pela chuva noturna, iluminada por postes brilhantes. A chuva cai suavemente, criando uma atmosfera imersiva, com movimentos sutis da cabeça e uma tomada de acompanhamento fluida...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="Caminhada Cinematográfica em Noite Chuvosa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11264)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **Published:** Sep 24, 2026
+
+---
+### Viajante Fantástico em Bryce Canyon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de vídeo vertical cinematográfico apresentando um viajante fantástico em Bryce Canyon.
+
+#### 📝 Prompt
+
+```
+Vídeo com IA — 9:16 cinematográfico
+
+Um belo e musculoso viajante fantástico de cabelos prateados caminha lentamente para o interior dos deslumbrantes cânions de rocha vermelha do Bryce Canyon, Utah. Paredes imponentes de arenito laranja e carmesim e estranhas formações hoodoo erguem-se majestosamente...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="Viajante Fantástico em Bryce Canyon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11263)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **Published:** Sep 24, 2026
+
+---
 ### Narrativa de Ligação Telefônica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -773,6 +948,27 @@ Alongar os cabelos do idoso voando ao vento e o vestido longo roxo fluindo...
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
 
 **Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
+
+---
+### Linha de Produção de Veículos Elétricos Tesla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo mostrando a montagem de um veículo elétrico Tesla com robótica de precisão.
+
+#### 📝 Prompt
+
+```
+Parte 3: 30-45seg | produção moderna
+
+De uma carroceria inacabada a um veículo elétrico pronto, a robótica de precisão e a tecnologia se unem na linha de produção da Tesla. ⚡🚗🏭
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="Linha de Produção de Veículos Elétricos Tesla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11269)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
 
 ---
 ### Cena de Comédia: Tentação do Cigarro
@@ -1942,198 +2138,6 @@ Vídeo de 6 segundos. Exatamente o mesmo quarto da Mía Gabriel como BASE. 9:16 
 **Author:** [Gabriel](https://x.com/riquitoboy47) | **Source:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **Published:** Sep 10, 2026
 
 ---
-### Animação de Salgueiro-chorão de Ouro Derretido
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt animado onde gotas de ouro derretido se fundem e crescem até formar um salgueiro-chorão com pérolas negras contra um fundo cinza-carvão.
-
-#### 📝 Prompt
-
-```
-Cinco gotas de ouro derretido repousam no chão. Elas se fundem lentamente e crescem para cima, assumindo a forma de um salgueiro-chorão, com seus galhos carregados de pérolas negras brilhantes, sobre um fundo cinza-carvão texturizado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="Animação de Salgueiro-chorão de Ouro Derretido">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10742)**
-
-**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **Published:** Sep 10, 2026
-
----
-### Cena de Storyboard de Crossover de Anime
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt de vídeo detalhado de vários segmentos apresentando os personagens Luffy e Anya com tempo específico para interações com objetos e destaques emocionais.
-
-#### 📝 Prompt
-
-```
-10–15 segundos | Surgimento do objeto: Rakhi voa e se enrola no pulso. Fitas douradas envolvem automaticamente o pulso de Luffy, o escudo de proteção se abre e os olhos de Anya se transformam em estrelas. 15–20 segundos | Clímax emocional: Carinho na cabeça do irmão mais velho + abraço. Luffy acaricia a cabeça de Anya seriamente, Anya pula em seus braços, cercada por uma luz dourada em formato de coração.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097918547813175296/img/9s_uDQjaXgjU2a1N.jpg" width="600" alt="Cena de Storyboard de Crossover de Anime">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10687)**
-
-**Author:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
-
----
-### Animação de treino HIIT elíptico em estilo anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo do Grok Imagine que retrata um personagem passando da posição sentada para a em pé e realizando flexões, estilizado como uma sequência de fitness em anime.
-
-#### 📝 Prompt
-
-```
-gere-me sentando de costas para a câmera, então eu me levanto e viro para fazer algumas flexões
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097888869270376448/img/h1241Vo5IBfUBOeG.jpg" width="600" alt="Animação de treino HIIT elíptico em estilo anime">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10680)**
-
-**Author:** [𝑹𝒂𝒄𝒉𝒆𝒍 𝑹𝒂𝒎𝒔𝒆𝒚](https://x.com/RSOXART) | **Source:** [Link](https://x.com/RSOXART/status/2097888970994495736) | **Published:** Sep 10, 2026
-
----
-### Animação de Horizonte Cósmico Surreal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico altamente descritivo apresentando uma garota em um telhado observando um planeta colossal surgir, enfatizando a escala surreal e a narrativa emocional.
-
-#### 📝 Prompt
-
-```
-Uma garota solitária sentada no telhado de uma pequena casa no campo à noite, abraçando os joelhos enquanto observa um planeta colossal e brilhante surgir no horizonte. A casa é minúscula em comparação com o gigantesco corpo celeste que domina o céu. Uma luz amarela quente brilha suavemente da janela abaixo dela, enquanto o mundo ao redor é banhado pela luz azul fria do luar. Vagalumes pairam sobre a grama e colinas distantes desaparecem na escuridão. Sonhador, íntimo, escala cósmica surreal, forte contraste azul-laranja, solitário, porém belo, composição cinematográfica, narrativa emocional suave.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797344687448064/img/SZngyC9XYY8D9vMn.jpg" width="600" alt="Animação de Horizonte Cósmico Surreal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10678)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **Published:** Sep 10, 2026
-
----
-### Atribuição de aulas no ensino médio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo que retrata um diretor atribuindo tarefas de ensino a pais e estudantes universitários em uma escola de ensino médio na Califórnia.
-
-#### 📝 Prompt
-
-```
-Diretor de escola de ensino médio na Califórnia atribuindo aos pais suas tarefas de ensino de duas semanas, juntamente com estudantes universitários
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="Atribuição de aulas no ensino médio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10741)**
-
-**Author:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **Source:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **Published:** Sep 10, 2026
-
----
-### Vídeo tutorial de como fazer pão de alho
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo para um tutorial de 45 segundos sobre como fazer pão de alho com salsinha e parmesão.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo curto de 45 segundos ensinando como fazer pão de alho com salsinha fresca e parmesão.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797873366671362/img/608CZ_oj_TJaD-FR.jpg" width="600" alt="Vídeo tutorial de como fazer pão de alho">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10681)**
-
-**Author:** [Rduck](https://x.com/rduck526) | **Source:** [Link](https://x.com/rduck526/status/2097797892312322437) | **Published:** Sep 9, 2026
-
----
-### Porta Brilhante no Céu do Deserto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma cena noturna surreal e vertical altamente detalhada de um homem solitário diante de uma porta gigantesca e brilhante em um deserto escuro.
-
-#### 📝 Prompt
-
-```
-Uma cena noturna surreal e vertical de um homem solitário em pé em um vasto deserto escuro sob um céu estrelado. À sua frente, uma porta gigantesca e brilhante, muitas vezes mais alta que um ser humano, está ligeiramente aberta, revelando uma luz laranja intensa em seu interior. Ao redor da porta, a areia brilha suavemente sob o luar azul. O céu é rico em estrelas e nebulosas tênues. Forte contraste visual entre a paisagem azul-meia-noite fria e a luz quente e ígnea que emana da porta. Silencioso, simbólico, cinematográfico, misterioso, altamente detalhado, escala surreal, solidão emocional.
-
-Negativo: sem texto, sem logotipo, sem marca d'água
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097796543462219776/img/DxvENK4kg04thsZh.jpg" width="600" alt="Porta Brilhante no Céu do Deserto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10675)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097796795325882717) | **Published:** Sep 9, 2026
-
----
-### Corredor de Interior Geométrico Brutalista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de arquitetura cinematográfica de alto contraste apresentando volumes de concreto empilhados, portais brancos finos e brilhantes e sombras dinâmicas que desaparecem.
-
-#### 📝 Prompt
-
-```
-Tomada cinematográfica vertical 9:16 de um vasto interior brutalista escuro. Volumes maciços de concreto branco empilhados formam um corredor geométrico profundo com aberturas retangulares nítidas. Molduras de luz branca fina e brilhante contornam portas e lajes arquitetônicas flutuantes, criando portais de luz em camadas que desaparecem na escuridão. Silhuetas de algumas pessoas paradas ou caminhando lentamente pelo espaço, uma em primeiro plano, outras distantes. A cena desaparece ritmicamente quase até o preto e então a arquitetura de luz reaparece. Minimalista, monocromático, alto contraste, luz volumétrica, arquitetura CGI limpa, câmera lenta, atmosfera de instalação imersiva, sem texto, sem cor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097595686695092224/img/ORVpFF3BYl2IrphX.jpg" width="600" alt="Corredor de Interior Geométrico Brutalista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10677)**
-
-**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097761965032481176) | **Published:** Sep 9, 2026
-
----
-### Transformação de Gato Monstro Streamer
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt detalhado de anime com tema de terror onde um gato monstro de quatro patas se transforma em uma criatura bípede e inicia uma transmissão ao vivo.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo em estilo anime de uma cena de terror onde um gato monstro de quatro patas caminha por um tempo, depois começa a andar sobre duas pernas, senta-se em uma cadeira gamer em uma mesa com um computador desktop, liga o computador, coloca fones de ouvido e começa a fazer streaming em um microfone.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097708848828276737/img/wlO1X5GuuWEVYe7P.jpg" width="600" alt="Transformação de Gato Monstro Streamer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10686)**
-
-**Author:** [猫目の人](https://x.com/nekomenohito_JP) | **Source:** [Link](https://x.com/nekomenohito_JP/status/2097708874254197197) | **Published:** Sep 9, 2026
-
----
-### Diálogo Cinematográfico entre Atena e Zeus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo narrativo mostrando Atena caminhando em direção ao templo de Zeus para pedir ajuda para os mortais.
-
-#### 📝 Prompt
-
-```
-Atena caminha em direção ao templo de seu pai sem dizer nada, ela olha enquanto Zeus diz olá, ela responde que os mortais precisam da nossa ajuda
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097706795951439872/img/hbwALyol54WErHvT.jpg" width="600" alt="Diálogo Cinematográfico entre Atena e Zeus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10673)**
-
-**Author:** [vlad moore](https://x.com/vladmoore3) | **Source:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2199,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-25T04:41:25.958Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-25T13:47:13.160Z</sub>
 
 </div>

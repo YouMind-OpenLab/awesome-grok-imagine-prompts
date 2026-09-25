@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2881** |
+| 📝 Total Prompts | **2891** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-25** |
 
@@ -189,6 +189,181 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Wooden Tesla Cybertruck Drive
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt featuring a Tesla Cybertruck with a hazelnut wood glaze finish driving up a rocky river.
+
+#### 📝 Prompt
+
+```
+A Tesla Cybertruck driving up an extremely rocky river, featuring a hazelnut-colored vinyl wrap with a realistic wood glaze finish, detailed brass accents around the tires, along the bottom of the vehicle, and framing the front bumper
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103381999214026752/img/LpSKI9EiI3YZGBN5.jpg" width="600" alt="Wooden Tesla Cybertruck Drive">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11265)**
+
+**Author:** [Internet James](https://x.com/iminternetjames) | **Source:** [Link](https://x.com/iminternetjames/status/2103382101416624505) | **Published:** Sep 25, 2026
+
+---
+### Rat Lady Transforming into Possum
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt describing a rat-like lady transforming into a possum with big teeth after looking at the camera.
+
+#### 📝 Prompt
+
+```
+a rat-like lady with big eyes looking side eye at the camera and facing perpendicular to it to the right, grinning....
+
+it turns to the camera and transforms into a possum with big teeth
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="Rat Lady Transforming into Possum">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11267)**
+
+**Author:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **Source:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **Published:** Sep 24, 2026
+
+---
+### Grok Imagine Anti-Trafficking Message
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A social message prompt for Grok Imagine involving rising up against human trafficking and blessing America.
+
+#### 📝 Prompt
+
+```
+@Image1 We Must all Risa up Against  Human Trafficking  God Bless America Be safe
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="Grok Imagine Anti-Trafficking Message">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11268)**
+
+**Author:** [Greg Womack](https://x.com/Womack3954Greg) | **Source:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **Published:** Sep 24, 2026
+
+---
+### Classic Pimp Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt instructing the model to transform a person's expression and gestures to act like a classic pimp demanding money.
+
+#### 📝 Prompt
+
+```
+Transform the man in the photo so he is acting like a classic pimp demanding his money. Give him a stern, serious, no-nonsense expression with narrowed eyes and a confident smirk. Change his hand gestures to a demanding pose: one hand outstretched pa...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="Classic Pimp Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11266)**
+
+**Author:** [Ty](https://x.com/datsTy27) | **Source:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **Published:** Sep 24, 2026
+
+---
+### Bar Scene Head Turn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt depicting a stylish man turning his head in a dimly lit bar with atmospheric lighting.
+
+#### 📝 Prompt
+
+```
+Cinematic movie scene: the stylish long-haired man with sunglasses and tattoos leans casually at the wooden bar counter in a dimly lit moody bar, slowly turns his head with a cool intense expression, subtle camera push-in, atmospheric lighting, high quality...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="Bar Scene Head Turn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11260)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **Published:** Sep 24, 2026
+
+---
+### Stylish Man Golden Ornament
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex video prompt involving character consistency from reference images and a luxurious setting.
+
+#### 📝 Prompt
+
+```
+Cinematic movie scene of the stylish long-haired man with sunglasses, tattoos and dark clothing from @Image1 and @Image2. He sits casually at a dimly lit bar counter looking mysterious, then stands and walks confidently through a luxurious golden ornate hallway...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="Stylish Man Golden Ornament">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11262)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **Published:** Sep 24, 2026
+
+---
+### Subtle Bar Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for subtle animation of a man leaning on a bar, focusing on breathing and head movement.
+
+#### 📝 Prompt
+
+```
+Subtle cinematic animation of the man with long wavy dark hair and rectangular sunglasses leaning on the wooden bar. He slowly turns his head slightly toward the camera with a cool, intense expression, subtle breathing and shoulder movement, gentle focus pull...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="Subtle Bar Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11261)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **Published:** Sep 24, 2026
+
+---
+### Rainy Night Cinematic Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for a cinematic scene featuring a man walking down a rainy street at night.
+
+#### 📝 Prompt
+
+```
+Cinematic movie scene: the cool long-haired man in dark suit and sunglasses walks slowly and confidently forward down the rainy night cobblestone street under glowing street lamps, atmospheric rain falling gently, subtle head movement, smooth tracking shot...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="Rainy Night Cinematic Walk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11264)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **Published:** Sep 24, 2026
+
+---
+### Bryce Canyon Fantasy Traveler
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic vertical video prompt featuring a fantasy traveler in Bryce Canyon.
+
+#### 📝 Prompt
+
+```
+AI video — 9:16 cinematic
+
+A handsome, muscular silver-haired fantasy traveler slowly wanders deeper through the breathtaking red-rock canyons of Bryce Canyon, Utah. Towering orange and crimson sandstone walls and strange hoodoo formations rise imposingly...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="Bryce Canyon Fantasy Traveler">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11263)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **Published:** Sep 24, 2026
+
+---
 ### Phone Call Narrative
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -773,6 +948,27 @@ Lengthen elder’s hair flowing in the breeze and purple flowing Ball g...
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
 
 **Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
+
+---
+### Tesla EV Production Line
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt showing the assembly of a Tesla EV with precision robotics.
+
+#### 📝 Prompt
+
+```
+Part 3: 30-45sec|modern production 
+
+From an unfinished body to a finished EV  precision robotics, and technology come together on Tesla’s production line. ⚡🚗🏭
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="Tesla EV Production Line">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11269)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
 
 ---
 ### Comedy Scene Cigarette Temptation
@@ -1941,196 +2137,6 @@ A video of guy doing sit ups and talking about being the next dragon after Bruce
 **Author:** [Gabriel](https://x.com/riquitoboy47) | **Source:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **Published:** Sep 10, 2026
 
 ---
-### Molten Gold Weeping Willow Tree Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An animated prompt where molten gold drops coalesce and grow into a weeping willow tree with black pearls against a charcoal grey background.
-
-#### 📝 Prompt
-
-```
-Five drops of molten gold lay on the ground. They slowly coalesce and grow upward into the shape of a weeping willow tree, its branches heavy with glistening black pearls, set against a backdrop of textured charcoal grey
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="Molten Gold Weeping Willow Tree Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10742)**
-
-**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **Published:** Sep 10, 2026
-
----
-### Anime Character Interaction Storyboard
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed storyboard-style prompt for Grok Imagine featuring character interactions, magical ribbon effects, and emotional moments.
-
-#### 📝 Prompt
-
-```
-10–15 seconds | Prop Burst: Rakhi flies up by itself and wraps around the wrist. Golden ribbons automatically wrap around Luffy's wrist, a protective shield expands, and Anya's eyes turn into stars. 15–20 seconds | Emotional Climax: Big brother head pat + hug. Luffy earnestly pats Anya's head, Anya jumps into his arms, surrounded by golden heart light.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097918547813175296/img/9s_uDQjaXgjU2a1N.jpg" width="600" alt="Anime Character Interaction Storyboard">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10687)**
-
-**Author:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
-
----
-### Anime HIIT Elliptical Workout Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A Grok Imagine video prompt depicting a character transitioning from sitting to standing and performing push-ups, styled as an anime fitness sequence.
-
-#### 📝 Prompt
-
-```
-generate me sitting up facing away from the camera then I stand up and turn around to do a few push ups
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097888869270376448/img/h1241Vo5IBfUBOeG.jpg" width="600" alt="Anime HIIT Elliptical Workout Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10680)**
-
-**Author:** [𝑹𝒂𝒄𝒉𝒆𝒍 𝑹𝒂𝒎𝒔𝒆𝒚](https://x.com/RSOXART) | **Source:** [Link](https://x.com/RSOXART/status/2097888970994495736) | **Published:** Sep 10, 2026
-
----
-### Cosmic Girl on Roof Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a cinematic video of a girl watching a giant planet rise from a countryside house roof.
-
-#### 📝 Prompt
-
-```
-A lone girl sitting on the roof of a small countryside house at night, hugging her knees while watching a colossal glowing planet rise over the horizon. The house is tiny compared to the giant celestial body dominating the sky. Warm yellow light glows softly from the window below her, while the surrounding world is bathed in cool blue moonlight. Fireflies hover in the grass, and distant hills fade into darkness. Dreamy, intimate, surreal cosmic scale, strong blue-orange contrast, lonely but beautiful, cinematic composition, gentle emotional storytelling.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797344687448064/img/SZngyC9XYY8D9vMn.jpg" width="600" alt="Cosmic Girl on Roof Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10678)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **Published:** Sep 10, 2026
-
----
-### High School Teaching Assignment
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt depicting a principal assigning teaching tasks to parents and college seniors in a California high school setting.
-
-#### 📝 Prompt
-
-```
-California high school principal assigning parents their two week teaching assignments alongside college seniors
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="High School Teaching Assignment">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10741)**
-
-**Author:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **Source:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **Published:** Sep 10, 2026
-
----
-### Garlic Bread Cooking Tutorial Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for a 45-second tutorial on how to make garlic bread with parsley and Parmesan.
-
-#### 📝 Prompt
-
-```
-Make me a 45 second video short of how to video to make garlic bread with fresh parsley and Parmesan.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797873366671362/img/608CZ_oj_TJaD-FR.jpg" width="600" alt="Garlic Bread Cooking Tutorial Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10681)**
-
-**Author:** [Rduck](https://x.com/rduck526) | **Source:** [Link](https://x.com/rduck526/status/2097797892312322437) | **Published:** Sep 9, 2026
-
----
-### Surreal Desert Door at Night
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A visually striking video prompt of a man standing before a massive glowing door in a desert under a starry nebula sky, creating a contrast of cool blues and warm oranges.
-
-#### 📝 Prompt
-
-```
-A surreal vertical night scene of a lonely man standing in a vast dark desert under a star filled sky. In front of him is a gigantic freestanding glowing door, many times taller than a human, slightly open, revealing a bright orange light inside. Around the door, sand softly glows under blue moonlight. The sky is rich with stars and faint nebula clouds. Strong visual contrast between the cool midnight blue landscape and the warm fiery interior light spilling from the door. Quiet, symbolic, cinematic, mysterious, highly detailed, surreal scale, emotional solitude. Negative: no text, no logo, no watermark
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097796543462219776/img/DxvENK4kg04thsZh.jpg" width="600" alt="Surreal Desert Door at Night">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10675)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097796795325882717) | **Published:** Sep 9, 2026
-
----
-### Brutalist Geometric Interior Corridor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic high-contrast architecture prompt featuring stacked concrete volumes, thin glowing white portals, and dynamic shadow fading.
-
-#### 📝 Prompt
-
-```
-Vertical 9:16 cinematic shot of a vast dark brutalist interior. Massive stacked white concrete volumes form a deep geometric corridor with sharp rectangular openings. Thin glowing white light frames outline doorways and floating architectural slabs, creating layered portals of light receding into darkness. Silhouettes of a few people standing still or slowly walking through the space, one in the foreground, others distant. The scene rhythmically fades almost to black then the light architecture reappears. Minimal, monochromatic, high contrast, volumetric light, clean CGI architecture, slow camera, immersive installation atmosphere, no text, no color.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097595686695092224/img/ORVpFF3BYl2IrphX.jpg" width="600" alt="Brutalist Geometric Interior Corridor">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10677)**
-
-**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097761965032481176) | **Published:** Sep 9, 2026
-
----
-### Transforming Monster Cat Streamer
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed horror-themed anime prompt where a four-legged monster cat transforms into a bipedal creature and starts a livestream.
-
-#### 📝 Prompt
-
-```
-Create an anime-style video of a horror scene where a four-legged monster cat walks for a while, then starts walking on two legs, sits in a gaming chair at a desk with a desktop computer, starts the computer, puts on headphones, and begins streaming into a microphone.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097708848828276737/img/wlO1X5GuuWEVYe7P.jpg" width="600" alt="Transforming Monster Cat Streamer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10686)**
-
-**Author:** [猫目の人](https://x.com/nekomenohito_JP) | **Source:** [Link](https://x.com/nekomenohito_JP/status/2097708874254197197) | **Published:** Sep 9, 2026
-
----
-### Athena and Zeus Cinematic Dialogue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt featuring Athena walking toward Zeus's temple to demand help for mortals.
-
-#### 📝 Prompt
-
-```
-Athena walk toward her father temple a with out saying anything she looks as Zeus says hello she replies the mortals need our help
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097706795951439872/img/hbwALyol54WErHvT.jpg" width="600" alt="Athena and Zeus Cinematic Dialogue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10673)**
-
-**Author:** [vlad moore](https://x.com/vladmoore3) | **Source:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2192,6 +2198,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-25T04:41:11.571Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-25T13:46:56.685Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2881** |
+| 📝 提示词总数 | **2891** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-25** |
 
@@ -189,6 +189,181 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 木质特斯拉 Cybertruck 越野行驶
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的视频提示词，展示了一辆带有榛木釉面涂装的特斯拉 Cybertruck 在布满岩石的河流中向上行驶。
+
+#### 📝 提示词
+
+```
+一辆特斯拉 Cybertruck 正在极其崎岖的河床上向上行驶，车身采用榛果色乙烯基贴膜，呈现出逼真的木质釉面效果，轮胎周围、车辆底部以及前保险杠框架处均配有精致的黄铜装饰细节
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103381999214026752/img/LpSKI9EiI3YZGBN5.jpg" width="600" alt="木质特斯拉 Cybertruck 越野行驶">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11265)**
+
+**作者:** [Internet James](https://x.com/iminternetjames) | **来源:** [Link](https://x.com/iminternetjames/status/2103382101416624505) | **发布时间:** Sep 25, 2026
+
+---
+### 鼠女变身负鼠
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 视频提示词：描述一位鼠眼女子在看向镜头后，变身为长着大牙齿的负鼠。
+
+#### 📝 提示词
+
+```
+一位长着大眼睛、像老鼠一样的女子侧目看着镜头，身体垂直于镜头面向右侧，咧嘴笑着……
+
+她转向镜头，变身为一只长着大牙齿的负鼠
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="鼠女变身负鼠">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11267)**
+
+**作者:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **来源:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **发布时间:** Sep 24, 2026
+
+---
+### Grok Imagine 反人口贩运公益信息
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的社交信息提示词，主题涉及反抗人口贩运及祝福美国。
+
+#### 📝 提示词
+
+```
+@Image1 我们必须共同反抗人口贩运 愿上帝保佑美国 注意安全
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="Grok Imagine 反人口贩运公益信息">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11268)**
+
+**作者:** [Greg Womack](https://x.com/Womack3954Greg) | **来源:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **发布时间:** Sep 24, 2026
+
+---
+### 经典皮条客形象转变
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 该提示词指导模型将人物的表情和手势转变为经典皮条客讨债时的神态。
+
+#### 📝 提示词
+
+```
+将照片中的人物转变为经典皮条客讨债时的形象。赋予他严厉、严肃且不容置疑的表情，眼神锐利并带着自信的微笑。改变他的手势为讨债姿态：一只手伸出……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="经典皮条客形象转变">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11266)**
+
+**作者:** [Ty](https://x.com/datsTy27) | **来源:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **发布时间:** Sep 24, 2026
+
+---
+### 酒吧场景头部转动
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频提示词，描绘了一位时尚男士在灯光昏暗、氛围感十足的酒吧中转头。
+
+#### 📝 提示词
+
+```
+电影级场景：一位留着长发、戴着墨镜且有纹身的时尚男士，随意地倚靠在灯光昏暗、氛围感强烈的木质吧台上，缓缓转过头，神情冷峻而专注，镜头轻微推进，光影氛围浓厚，高品质……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="酒吧场景头部转动">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11260)**
+
+**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **来源:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **发布时间:** Sep 24, 2026
+
+---
+### 时尚男士金色装饰
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个复杂的视频提示词，涉及从参考图像中保持角色一致性以及奢华的场景设置。
+
+#### 📝 提示词
+
+```
+电影般的场景：@Image1 和 @Image2 中的长发时尚男子，戴着墨镜，有纹身，穿着深色服装。他随意地坐在灯光昏暗的吧台旁，显得神秘莫测，随后起身自信地穿过一条奢华华丽的金色走廊……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="时尚男士金色装饰">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11262)**
+
+**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **来源:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **发布时间:** Sep 24, 2026
+
+---
+### 微妙的吧台动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频提示词，用于制作男子倚靠在酒吧的吧台时的微妙动画效果，重点表现呼吸和头部动作。
+
+#### 📝 提示词
+
+```
+长卷发、戴矩形墨镜的男子倚靠在木质吧台上的微妙电影感动画。他缓缓将头微微转向镜头，表情冷酷而专注，伴有细微的呼吸和肩部动作，以及柔和的焦点转换……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="微妙的吧台动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11261)**
+
+**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **来源:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **发布时间:** Sep 24, 2026
+
+---
+### 雨夜电影感漫步
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成电影场景的视频提示词，描绘一名男子在雨夜街道上行走的画面。
+
+#### 📝 提示词
+
+```
+电影级画面：身穿深色西装、戴着墨镜的冷峻长发男子，在路灯映照下的雨夜鹅卵石街道上缓慢而自信地向前走去，氛围感十足的细雨轻柔飘落，头部动作细微自然，平滑的跟拍镜头……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="雨夜电影感漫步">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11264)**
+
+**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **来源:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **发布时间:** Sep 24, 2026
+
+---
+### 布莱斯峡谷奇幻旅人
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段以布莱斯峡谷为背景的奇幻旅人电影感竖屏视频提示词。
+
+#### 📝 提示词
+
+```
+AI 视频 — 9:16 电影感
+
+一位英俊健硕、银发的奇幻旅人缓缓深入犹他州布莱斯峡谷令人叹为观止的红岩峡谷之中。高耸的橙色与深红色砂岩墙壁以及奇特的石柱构造巍然耸立……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="布莱斯峡谷奇幻旅人">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11263)**
+
+**作者:** [GayBar](https://x.com/GayBar_Ai) | **来源:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **发布时间:** Sep 24, 2026
+
+---
 ### 电话叙事
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -773,6 +948,27 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11044)**
 
 **作者:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **来源:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **发布时间:** Sep 18, 2026
+
+---
+### 特斯拉电动车生产线
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 展示特斯拉电动车精密机器人组装过程的视频生成提示词。
+
+#### 📝 提示词
+
+```
+第 3 部分：30-45 秒 | 现代化生产
+
+从未完工的车身到成品电动车，精密机器人与技术在特斯拉的生产线上完美融合。⚡🚗🏭
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="特斯拉电动车生产线">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11269)**
+
+**作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **来源:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **发布时间:** Sep 18, 2026
 
 ---
 ### 喜剧场景：香烟诱惑
@@ -1942,198 +2138,6 @@ Falcon 9 发射期间的集体狂喜：当震耳欲聋的轰鸣声最终席卷�
 **作者:** [Gabriel](https://x.com/riquitoboy47) | **来源:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **发布时间:** Sep 10, 2026
 
 ---
-### 熔金垂柳动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个动画提示词：熔化的金滴在炭灰色背景下汇聚并生长成一棵挂满黑珍珠的垂柳。
-
-#### 📝 提示词
-
-```
-五滴熔金落在地上。它们缓慢汇聚并向上生长，形成一棵垂柳的形状，枝头挂满了闪烁的黑珍珠，背景为质感十足的炭灰色。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="熔金垂柳动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10742)**
-
-**作者:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **来源:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **发布时间:** Sep 10, 2026
-
----
-### 动漫联动项目分镜场景
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个详细的多片段视频提示词，包含 Luffy 和 Anya 的角色，并对道具互动和情感高光时刻进行了精确的时间设定。
-
-#### 📝 提示词
-
-```
-10–15 秒 | 道具爆发：Rakhi 飞起并缠绕在手腕上。金色丝带自动缠绕在 Luffy 的手腕上，防护盾展开，Anya 的眼睛变成了星星。15–20 秒 | 情感高潮：大哥哥摸头 + 拥抱。Luffy 认真地摸着 Anya 的头，Anya 跳进他的怀里，周围环绕着金色的爱心光芒。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097918547813175296/img/9s_uDQjaXgjU2a1N.jpg" width="600" alt="动漫联动项目分镜场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10687)**
-
-**作者:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **来源:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **发布时间:** Sep 10, 2026
-
----
-### 动漫风格 HIIT 椭圆机健身动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个 Grok Imagine 视频提示词，描绘了一个角色从坐姿转为站姿并进行俯卧撑的场景，呈现出动漫健身序列的风格。
-
-#### 📝 提示词
-
-```
-生成一个角色背对镜头坐着，然后起身转身做几个俯卧撑的画面
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097888869270376448/img/h1241Vo5IBfUBOeG.jpg" width="600" alt="动漫风格 HIIT 椭圆机健身动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10680)**
-
-**作者:** [𝑹𝒂𝒄𝒉𝒆𝒍 𝑹𝒂𝒎𝒔𝒆𝒚](https://x.com/RSOXART) | **来源:** [Link](https://x.com/RSOXART/status/2097888970994495736) | **发布时间:** Sep 10, 2026
-
----
-### 超现实宇宙地平线动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个极具描述性的电影级提示词，描绘了一位女孩在屋顶注视着巨大行星升起的画面，强调了超现实的尺度感与情感叙事。
-
-#### 📝 提示词
-
-```
-夜晚，一个孤独的女孩坐在乡村小屋的屋顶上，抱着双膝，注视着一颗巨大的发光行星在地平线上升起。与天空中占据主导地位的巨大天体相比，房子显得格外渺小。她下方的窗户透出温暖的黄色柔光，而周围的世界则沐浴在冷蓝色的月光下。萤火虫在草丛中盘旋，远处的山丘隐没在黑暗中。梦幻、私密、超现实的宇宙尺度，强烈的蓝橙对比，孤独而美丽，电影级构图，细腻的情感叙事。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797344687448064/img/SZngyC9XYY8D9vMn.jpg" width="600" alt="超现实宇宙地平线动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10678)**
-
-**作者:** [BMX](https://x.com/bmx_ai13) | **来源:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **发布时间:** Sep 10, 2026
-
----
-### 高中教学任务分配
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段视频提示词，描绘了一位校长在加利福尼亚州的高中场景中，为家长和大学高年级学生分配教学任务。
-
-#### 📝 提示词
-
-```
-加利福尼亚州高中校长正在为家长和大学高年级学生分配为期两周的教学任务
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="高中教学任务分配">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10741)**
-
-**作者:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **来源:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **发布时间:** Sep 10, 2026
-
----
-### 蒜香面包烹饪教程视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个 45 秒的教程视频提示词，介绍如何制作加入欧芹和帕玛森芝士的蒜香面包。
-
-#### 📝 提示词
-
-```
-请为我制作一个 45 秒的短视频，演示如何制作加入新鲜欧芹和帕玛森芝士的蒜香面包。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797873366671362/img/608CZ_oj_TJaD-FR.jpg" width="600" alt="蒜香面包烹饪教程视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10681)**
-
-**作者:** [Rduck](https://x.com/rduck526) | **来源:** [Link](https://x.com/rduck526/status/2097797892312322437) | **发布时间:** Sep 9, 2026
-
----
-### 沙漠夜空中的发光之门
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一幅高度精细的超现实主义竖构图夜景，描绘了一个孤独的人面对沙漠中一扇巨大的发光之门。
-
-#### 📝 提示词
-
-```
-一幅超现实主义的竖构图夜景，描绘了一个孤独的人站在星空下广袤黑暗的沙漠中。在他面前是一扇巨大的独立发光之门，比人高出许多，门微微敞开，透出内部明亮的橙色光芒。门周围的沙子在蓝色月光下泛着柔和的光。天空繁星点点，伴有淡淡的星云。冷色调的午夜蓝景观与门内溢出的温暖火光形成强烈的视觉对比。宁静、象征性、电影感、神秘、高度精细、超现实比例、情感孤独。
-
-负面提示词：无文字，无 Logo，无水印
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097796543462219776/img/DxvENK4kg04thsZh.jpg" width="600" alt="沙漠夜空中的发光之门">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10675)**
-
-**作者:** [BMX](https://x.com/bmx_ai13) | **来源:** [Link](https://x.com/bmx_ai13/status/2097796795325882717) | **发布时间:** Sep 9, 2026
-
----
-### 粗野主义几何室内走廊
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影级高对比度建筑提示词，包含堆叠的混凝土体块、纤细的发光白色门廊以及动态的阴影渐隐效果。
-
-#### 📝 提示词
-
-```
-9:16 竖屏电影级镜头，展现广阔深邃的粗野主义室内空间。巨大的堆叠式白色混凝土体块构成了一条具有锐利矩形开口的几何走廊。纤细的白色发光线条勾勒出门口和悬浮的建筑板材，营造出层层叠叠、向黑暗深处延伸的光之入口。几个人影静止站立或在空间中缓慢穿行，一人位于前景，其余人在远处。场景呈现出有节奏的渐隐效果，几乎完全变黑后，发光的建筑结构再次显现。极简、单色、高对比度、体积光、干净的 CGI 建筑、慢速镜头、沉浸式装置氛围，无文字，无色彩。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097595686695092224/img/ORVpFF3BYl2IrphX.jpg" width="600" alt="粗野主义几何室内走廊">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10677)**
-
-**作者:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **来源:** [Link](https://x.com/NotPhilSledge/status/2097761965032481176) | **发布时间:** Sep 9, 2026
-
----
-### 变身怪物猫主播
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个详细的恐怖主题动漫提示词，描述了一只四足怪物猫变身为双足生物并开启直播的过程。
-
-#### 📝 提示词
-
-```
-创作一段动漫风格的恐怖场景视频：一只四足怪物猫先是行走了一段距离，随后开始用双腿直立行走，接着坐到书桌前的电竞椅上，打开台式电脑，戴上耳机，并对着麦克风开始直播。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097708848828276737/img/wlO1X5GuuWEVYe7P.jpg" width="600" alt="变身怪物猫主播">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10686)**
-
-**作者:** [猫目の人](https://x.com/nekomenohito_JP) | **来源:** [Link](https://x.com/nekomenohito_JP/status/2097708874254197197) | **发布时间:** Sep 9, 2026
-
----
-### 雅典娜与宙斯的电影感对话
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段叙事视频提示词，讲述雅典娜走向宙斯神殿，请求他帮助凡人的故事。
-
-#### 📝 提示词
-
-```
-雅典娜一言不发地走向她父亲的神殿，她看向宙斯，宙斯向她问好，她回答道：“凡人们需要我们的帮助。”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097706795951439872/img/hbwALyol54WErHvT.jpg" width="600" alt="雅典娜与宙斯的电影感对话">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10673)**
-
-**作者:** [vlad moore](https://x.com/vladmoore3) | **来源:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **发布时间:** Sep 9, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2195,6 +2199,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-25T04:41:12.859Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-25T13:46:59.191Z</sub>
 
 </div>

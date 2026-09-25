@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2881** |
+| 📝 Total Prompts | **2891** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-25** |
 
@@ -189,6 +189,181 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### लकड़ी का टेस्ला साइबरट्रक ड्राइव
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत वीडियो प्रॉम्प्ट जिसमें हेज़लनट लकड़ी की चमकदार फिनिश वाला टेस्ला साइबरट्रक एक पथरीली नदी में ऊपर की ओर जा रहा है।
+
+#### 📝 Prompt
+
+```
+टेस्ला साइबरट्रक अत्यधिक पथरीली नदी में ऊपर की ओर जा रहा है, जिसमें हेज़लनट रंग का विनाइल रैप और यथार्थवादी लकड़ी की चमकदार फिनिश है, टायरों के आसपास, वाहन के निचले हिस्से के साथ-साथ, और फ्रंट बंपर को घेरने वाले विस्तृत पीतल के एक्सेंट्स के साथ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103381999214026752/img/LpSKI9EiI3YZGBN5.jpg" width="600" alt="लकड़ी का टेस्ला साइबरट्रक ड्राइव">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11265)**
+
+**Author:** [Internet James](https://x.com/iminternetjames) | **Source:** [Link](https://x.com/iminternetjames/status/2103382101416624505) | **Published:** Sep 25, 2026
+
+---
+### चूहे जैसी महिला का पॉसम में बदलना
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जो कैमरे की ओर देखने के बाद बड़े दांतों वाले पॉसम में बदलती हुई चूहे जैसी महिला का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+बड़ी आँखों वाली एक चूहे जैसी महिला, कैमरे की ओर तिरछी नज़र डालते हुए और उसकी ओर लंबवत रूप से दाईं ओर मुंह बनाकर हंस रही है....
+
+वह कैमरे की ओर मुड़ती है और बड़े दांतों वाले पॉसम में बदल जाती है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="चूहे जैसी महिला का पॉसम में बदलना">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11267)**
+
+**Author:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **Source:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **Published:** Sep 24, 2026
+
+---
+### Grok Imagine मानव तस्करी के खिलाफ संदेश
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> मानव तस्करी के विरुद्ध आवाज़ उठाने और अमेरिका की मंगलकामना करने से संबंधित Grok Imagine के लिए एक सामाजिक संदेश प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+@Image1 हम सभी को मानव तस्करी के विरुद्ध खड़े होना चाहिए, भगवान अमेरिका को सुरक्षित रखें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="Grok Imagine मानव तस्करी के खिलाफ संदेश">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11268)**
+
+**Author:** [Greg Womack](https://x.com/Womack3954Greg) | **Source:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **Published:** Sep 24, 2026
+
+---
+### क्लासिक पिम्प ट्रांसफॉर्मेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक प्रॉम्प्ट जो मॉडल को किसी व्यक्ति के भाव और इशारों को बदलने का निर्देश देता है ताकि वह पैसे की मांग करने वाले एक क्लासिक पिम्प जैसा व्यवहार करे।
+
+#### 📝 Prompt
+
+```
+फोटो में मौजूद व्यक्ति को इस तरह बदलें कि वह पैसे की मांग करने वाले एक क्लासिक पिम्प जैसा व्यवहार कर रहा हो। उसे एक सख्त, गंभीर और बिना किसी झिझक वाला चेहरा दें, जिसमें आँखें तनी हुई हों और एक आत्मविश्वास भरी मुस्कान हो। उसके हाथों के इशारों को एक मांगने वाली मुद्रा में बदलें: एक हाथ आगे बढ़ा हुआ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="क्लासिक पिम्प ट्रांसफॉर्मेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11266)**
+
+**Author:** [Ty](https://x.com/datsTy27) | **Source:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **Published:** Sep 24, 2026
+
+---
+### बार सीन में सिर घुमाना
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जिसमें एक स्टाइलिश आदमी को कम रोशनी वाले बार में वातावरणीय प्रकाश व्यवस्था के साथ अपना सिर घुमाते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+सिनेमैटिक मूवी सीन: धूप का चश्मा और टैटू वाले स्टाइलिश लंबे बालों वाला आदमी कम रोशनी वाले मूडी बार में लकड़ी की बार काउंटर पर आराम से टिका हुआ है, ठंडी और तीव्र अभिव्यक्ति के साथ धीरे-धीरे अपना सिर घुमाता है, सूक्ष्म कैमरा पुश-इन, वातावरणीय प्रकाश व्यवस्था, उच्च गुणवत्ता...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="बार सीन में सिर घुमाना">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11260)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **Published:** Sep 24, 2026
+
+---
+### स्टाइलिश पुरुष सुनहरा आभूषण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जटिल वीडियो प्रॉम्प्ट जिसमें संदर्भ छवियों से पात्र की निरंतरता और एक शानदार वातावरण शामिल है।
+
+#### 📝 Prompt
+
+```
+@Image1 और @Image2 से लंबे बालों वाले, धूप का चश्मा पहने, टैटू वाले और काले कपड़ों में स्टाइलिश पुरुष का सिनेमैटिक मूवी सीन। वह एक कम रोशनी वाले बार काउंटर पर रहस्यमयी ढंग से बैठता है, फिर उठकर एक शानदार सुनहरे नक्काशीदार गलियारे में आत्मविश्वास के साथ चलता है...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="स्टाइलिश पुरुष सुनहरा आभूषण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11262)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **Published:** Sep 24, 2026
+
+---
+### सूक्ष्म बार एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जो बार पर टिके एक व्यक्ति के सूक्ष्म एनिमेशन को दर्शाता है, जिसमें श्वसन और सिर की गति पर ध्यान केंद्रित किया गया है।
+
+#### 📝 Prompt
+
+```
+लंबे लहरदार काले बालों और आयताकार धूप का चश्मा पहने हुए व्यक्ति का सूक्ष्म सिनेमाई एनिमेशन, जो लकड़ी के बार पर टिका हुआ है। वह कैमरे की ओर अपना सिर धीरे-धीरे थोड़ा मोड़ता है, ठंडा और तीव्र भाव रखते हुए, सूक्ष्म श्वसन और कंधों की हलचल, कोमल फोकस पल...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="सूक्ष्म बार एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11261)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **Published:** Sep 24, 2026
+
+---
+### वर्षा की रात: सिनेमाई वॉक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई दृश्य के लिए वीडियो जनरेशन प्रॉम्प्ट जिसमें एक आदमी रात में वर्षा वाली सड़क पर चलता हुआ दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+सिनेमाई फिल्म दृश्य: काले सूट और धूप का चश्मा पहने ठंडे स्वभाव वाला लंबे बालों वाला व्यक्ति, जलती हुई स्ट्रीट लाइट्स के नीचे वर्षा वाली रात में कोबलस्टोन सड़क पर धीरे-धीरे और आत्मविश्वास से आगे बढ़ रहा है, वातावरणीय वर्षा मंद गति से हो रही है, सिर की हल्की हरकतें, स्मूथ ट्रैकिंग शॉट...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="वर्षा की रात: सिनेमाई वॉक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11264)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **Published:** Sep 24, 2026
+
+---
+### Bryce Canyon का काल्पनिक यात्री
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bryce Canyon में एक फैंटेसी यात्री को दर्शाने वाला सिनेमैटिक वर्टिकल वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+AI वीडियो — 9:16 सिनेमैटिक
+
+एक आकर्षक, मांसपेशियों से भरे चांदी के बालों वाले फैंटेसी यात्री यूटाह के Bryce Canyon की लाल चट्टानों वाली घाटियों में धीरे-धीरे और गहराई तक चलता है। ऊंची नारंगी और लाल रंग की सैंडस्टोन दीवारें और अजीबोगरीब हुडू संरचनाएं शानदार ढंग से खड़ी हैं...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="Bryce Canyon का काल्पनिक यात्री">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11263)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **Published:** Sep 24, 2026
+
+---
 ### फोन कॉल की कहानी
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -775,6 +950,27 @@ make a short video a crab-man and an octopus man fighting on the beach samurai s
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
 
 **Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
+
+---
+### Tesla EV उत्पादन लाइन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जो Tesla EV के असेंबली को सटीक रोबोटिक्स के साथ दिखाता है।
+
+#### 📝 Prompt
+
+```
+भाग 3: 30-45 सेकंड | आधुनिक उत्पादन
+
+अधूरे बॉडी से लेकर फिनिश्ड EV तक, सटीक रोबोटिक्स और तकनीक Tesla की उत्पादन लाइन पर एक साथ आती हैं। ⚡🚗🏭
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="Tesla EV उत्पादन लाइन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11269)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
 
 ---
 ### कॉमेडी सीन: सिगरेट का लालच
@@ -1944,198 +2140,6 @@ New York City after dark—where the skyline shines brighter than the stars.
 **Author:** [Gabriel](https://x.com/riquitoboy47) | **Source:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **Published:** Sep 10, 2026
 
 ---
-### पिघले हुए सोने के विलो (Weeping Willow) पेड़ का एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक एनिमेटेड प्रॉम्प्ट जहाँ पिघले हुए सोने की बूंदें आपस में मिलकर एक विलो पेड़ का रूप ले लेती हैं, जिसकी शाखाओं पर चारकोल ग्रे बैकग्राउंड के सामने काले मोती लटके हुए हैं।
-
-#### 📝 Prompt
-
-```
-पिघले हुए सोने की पाँच बूंदें ज़मीन पर पड़ी हैं। वे धीरे-धीरे आपस में जुड़ती हैं और ऊपर की ओर बढ़कर एक विलो (weeping willow) पेड़ का आकार ले लेती हैं, जिसकी शाखाएँ चमकते हुए काले मोतियों से लदी हुई हैं, और यह सब एक टेक्सचर्ड चारकोल ग्रे बैकग्राउंड के सामने है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="पिघले हुए सोने के विलो (Weeping Willow) पेड़ का एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10742)**
-
-**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **Published:** Sep 10, 2026
-
----
-### एनीमे क्रॉसओवर स्टोरीबोर्ड सीन
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> लफी और आन्या जैसे किरदारों को शामिल करने वाला एक विस्तृत मल्टी-सेगमेंट वीडियो प्रॉम्प्ट, जिसमें प्रॉप इंटरैक्शन और भावनात्मक हाइलाइट्स के लिए विशिष्ट टाइमिंग दी गई है।
-
-#### 📝 Prompt
-
-```
-10–15 सेकंड | प्रॉप आउटब्रेक: राखी ऊपर उड़ती है और कलाई के चारों ओर लिपट जाती है। सुनहरे रिबन अपने आप लफी की कलाई के चारों ओर लिपट जाते हैं, सुरक्षा कवच खुल जाता है, और आन्या की आँखें सितारों जैसी चमकने लगती हैं। 15–20 सेकंड | भावनात्मक चरमोत्कर्ष: बड़े भाई का सिर थपथपाना + गले लगाना। लफी गंभीरता से आन्या के सिर को थपथपाता है, आन्या उसकी बाहों में कूद पड़ती है, और वे सुनहरी दिल के आकार की रोशनी से घिरे होते हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097918547813175296/img/9s_uDQjaXgjU2a1N.jpg" width="600" alt="एनीमे क्रॉसओवर स्टोरीबोर्ड सीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10687)**
-
-**Author:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
-
----
-### एनिमे HIIT एलिप्टिकल वर्कआउट एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक Grok Imagine वीडियो प्रॉम्प्ट, जिसमें एक कैरेक्टर को बैठकर उठते हुए और पुश-अप्स करते हुए दिखाया गया है, जिसे एनिमे फिटनेस सीक्वेंस की शैली में तैयार किया गया है।
-
-#### 📝 Prompt
-
-```
-मेरे लिए एक ऐसा वीडियो जनरेट करें जिसमें मैं कैमरे से दूर मुंह करके बैठा हूं, फिर मैं खड़ा होता हूं और मुड़कर कुछ पुश-अप्स करता हूं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097888869270376448/img/h1241Vo5IBfUBOeG.jpg" width="600" alt="एनिमे HIIT एलिप्टिकल वर्कआउट एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10680)**
-
-**Author:** [𝑹𝒂𝒄𝒉𝒆𝒍 𝑹𝒂𝒎𝒔𝒆𝒚](https://x.com/RSOXART) | **Source:** [Link](https://x.com/RSOXART/status/2097888970994495736) | **Published:** Sep 10, 2026
-
----
-### अतिवास्तविक ब्रह्मांडीय क्षितिज एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अत्यधिक वर्णनात्मक सिनेमाई प्रॉम्प्ट जिसमें एक लड़की छत पर एक विशाल ग्रह को उदय होते हुए देख रही है, जो अतिवास्तविक पैमाने और भावनात्मक कहानी कहने पर जोर देता है।
-
-#### 📝 Prompt
-
-```
-रात के समय एक छोटे से ग्रामीण घर की छत पर बैठी एक अकेली लड़की, जो अपने घुटनों को गले लगाकर क्षितिज पर एक विशाल चमकते ग्रह को उदय होते हुए देख रही है। आकाश पर हावी इस विशाल खगोलीय पिंड की तुलना में घर बहुत छोटा है। उसके नीचे खिड़की से गर्म पीली रोशनी धीरे से चमक रही है, जबकि आसपास की दुनिया ठंडी नीली चांदनी में डूबी हुई है। घास में जुगनू मंडरा रहे हैं, और दूर की पहाड़ियाँ अंधेरे में ओझल हो रही हैं। स्वप्निल, अंतरंग, अतिवास्तविक ब्रह्मांडीय पैमाना, मजबूत नीला-नारंगी कंट्रास्ट, अकेलापन लेकिन सुंदर, सिनेमाई रचना, कोमल भावनात्मक कहानी।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797344687448064/img/SZngyC9XYY8D9vMn.jpg" width="600" alt="अतिवास्तविक ब्रह्मांडीय क्षितिज एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10678)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **Published:** Sep 10, 2026
-
----
-### हाई स्कूल टीचिंग असाइनमेंट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो कैलिफोर्निया के एक हाई स्कूल के माहौल में प्रिंसिपल द्वारा अभिभावकों और कॉलेज के सीनियर्स को पढ़ाने का काम सौंपने के दृश्य को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-कैलिफोर्निया के हाई स्कूल के प्रिंसिपल अभिभावकों को कॉलेज के सीनियर्स के साथ दो सप्ताह का टीचिंग असाइनमेंट सौंप रहे हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="हाई स्कूल टीचिंग असाइनमेंट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10741)**
-
-**Author:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **Source:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **Published:** Sep 10, 2026
-
----
-### गार्लिक ब्रेड बनाने का ट्यूटोरियल वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> पार्सले और परमेसन चीज़ के साथ गार्लिक ब्रेड बनाने के 45-सेकंड के ट्यूटोरियल के लिए एक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-ताज़ा पार्सले और परमेसन चीज़ के साथ गार्लिक ब्रेड बनाने की विधि पर मुझे 45 सेकंड का एक शॉर्ट वीडियो बनाकर दें।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797873366671362/img/608CZ_oj_TJaD-FR.jpg" width="600" alt="गार्लिक ब्रेड बनाने का ट्यूटोरियल वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10681)**
-
-**Author:** [Rduck](https://x.com/rduck526) | **Source:** [Link](https://x.com/rduck526/status/2097797892312322437) | **Published:** Sep 9, 2026
-
----
-### रेगिस्तानी आसमान में चमकता दरवाज़ा
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अंधेरे रेगिस्तान में विशाल चमकते दरवाज़े के सामने खड़े अकेले व्यक्ति का अत्यधिक विस्तृत और असली (surreal) वर्टिकल नाइट सीन।
-
-#### 📝 Prompt
-
-```
-तारों से भरे आसमान के नीचे एक विशाल अंधेरे रेगिस्तान में खड़े अकेले व्यक्ति का एक असली (surreal) वर्टिकल नाइट सीन। उसके सामने एक विशाल फ्रीस्टैंडिंग चमकता हुआ दरवाज़ा है, जो इंसान से कई गुना लंबा है और थोड़ा खुला हुआ है, जिससे अंदर से नारंगी रोशनी निकल रही है। दरवाज़े के चारों ओर, नीली चांदनी में रेत हल्की चमक रही है। आसमान तारों और धुंधले नेबुला बादलों से भरा है। ठंडे आधी रात के नीले परिदृश्य और दरवाज़े से निकलती गर्म अग्नि जैसी रोशनी के बीच गहरा दृश्य कंट्रास्ट है। शांत, प्रतीकात्मक, सिनेमाई, रहस्यमय, अत्यधिक विस्तृत, असली पैमाना, भावनात्मक अकेलापन।
-
-नेगेटिव: कोई टेक्स्ट नहीं, कोई लोगो नहीं, कोई वॉटरमार्क नहीं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097796543462219776/img/DxvENK4kg04thsZh.jpg" width="600" alt="रेगिस्तानी आसमान में चमकता दरवाज़ा">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10675)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097796795325882717) | **Published:** Sep 9, 2026
-
----
-### ब्रूटलिस्ट जियोमेट्रिक इंटीरियर कॉरिडोर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक हाई-कॉन्ट्रास्ट आर्किटेक्चर प्रॉम्प्ट, जिसमें स्टैक्ड कंक्रीट वॉल्यूम, पतले चमकते सफेद पोर्टल और डायनामिक शैडो फेडिंग शामिल हैं।
-
-#### 📝 Prompt
-
-```
-एक विशाल अंधेरे ब्रूटलिस्ट इंटीरियर का वर्टिकल 9:16 सिनेमैटिक शॉट। बड़े पैमाने पर स्टैक्ड सफेद कंक्रीट वॉल्यूम तीखे आयताकार ओपनिंग के साथ एक गहरा जियोमेट्रिक कॉरिडोर बनाते हैं। पतली चमकती सफेद रोशनी के फ्रेम दरवाजों और तैरते हुए आर्किटेक्चरल स्लैब को रेखांकित करते हैं, जो अंधेरे में विलीन होते हुए रोशनी के लेयर्ड पोर्टल बनाते हैं। कुछ लोगों की सिलुएट्स जो स्थिर खड़े हैं या धीरे-धीरे स्पेस में चल रहे हैं, एक अग्रभूमि (foreground) में है और अन्य दूर हैं। दृश्य लयबद्ध रूप से लगभग काले रंग में फीका पड़ जाता है और फिर प्रकाश वास्तुकला फिर से दिखाई देती है। मिनिमल, मोनोक्रोमैटिक, हाई कॉन्ट्रास्ट, वॉल्यूमेट्रिक लाइट, क्लीन CGI आर्किटेक्चर, स्लो कैमरा, इमर्सिव इंस्टॉलेशन एटमॉस्फियर, कोई टेक्स्ट नहीं, कोई रंग नहीं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097595686695092224/img/ORVpFF3BYl2IrphX.jpg" width="600" alt="ब्रूटलिस्ट जियोमेट्रिक इंटीरियर कॉरिडोर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10677)**
-
-**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097761965032481176) | **Published:** Sep 9, 2026
-
----
-### मॉन्स्टर कैट स्ट्रीमर का रूपांतरण
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> हॉरर-थीम वाले एनीमे प्रॉम्प्ट का विस्तृत विवरण, जहाँ चार पैरों वाली एक मॉन्स्टर कैट दो पैरों वाले जीव में बदल जाती है और लाइवस्ट्रीम शुरू करती है।
-
-#### 📝 Prompt
-
-```
-एक हॉरर दृश्य का एनीमे-शैली का वीडियो बनाएं, जिसमें चार पैरों वाली एक मॉन्स्टर कैट कुछ देर चलती है, फिर दो पैरों पर चलना शुरू करती है, डेस्कटॉप कंप्यूटर वाली मेज पर गेमिंग चेयर पर बैठती है, कंप्यूटर चालू करती है, हेडफ़ोन लगाती है और माइक्रोफ़ोन पर स्ट्रीमिंग शुरू करती है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097708848828276737/img/wlO1X5GuuWEVYe7P.jpg" width="600" alt="मॉन्स्टर कैट स्ट्रीमर का रूपांतरण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10686)**
-
-**Author:** [猫目の人](https://x.com/nekomenohito_JP) | **Source:** [Link](https://x.com/nekomenohito_JP/status/2097708874254197197) | **Published:** Sep 9, 2026
-
----
-### एथेना और ज़ीउस का सिनेमाई संवाद
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक नैरेटिव वीडियो प्रॉम्प्ट जिसमें एथेना इंसानों की मदद मांगने के लिए ज़ीउस के मंदिर की ओर जा रही है।
-
-#### 📝 Prompt
-
-```
-एथेना अपने पिता के मंदिर की ओर बढ़ती है, बिना कुछ कहे वह ज़ीउस की ओर देखती है। ज़ीउस के हैलो कहने पर वह जवाब देती है कि इंसानों को हमारी मदद की ज़रूरत है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097706795951439872/img/hbwALyol54WErHvT.jpg" width="600" alt="एथेना और ज़ीउस का सिनेमाई संवाद">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10673)**
-
-**Author:** [vlad moore](https://x.com/vladmoore3) | **Source:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2197,6 +2201,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-25T04:41:19.356Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-25T13:47:06.654Z</sub>
 
 </div>

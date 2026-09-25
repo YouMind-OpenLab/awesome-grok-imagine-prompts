@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2881** |
+| 📝 Total Prompts | **2891** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-25** |
 
@@ -189,6 +189,181 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Holz-Optik Tesla Cybertruck Fahrt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt, der einen Tesla Cybertruck mit Haselnuss-Holz-Lackierung zeigt, wie er einen felsigen Fluss hinauffährt.
+
+#### 📝 Prompt
+
+```
+Ein Tesla Cybertruck, der einen extrem felsigen Fluss hinauffährt, ausgestattet mit einer haselnussfarbenen Vinyl-Folie in realistischer Holz-Lackoptik, detaillierten Messing-Akzenten an den Reifen, entlang der Fahrzeugunterseite und zur Umrahmung des vorderen Stoßfängers
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103381999214026752/img/LpSKI9EiI3YZGBN5.jpg" width="600" alt="Holz-Optik Tesla Cybertruck Fahrt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11265)**
+
+**Author:** [Internet James](https://x.com/iminternetjames) | **Source:** [Link](https://x.com/iminternetjames/status/2103382101416624505) | **Published:** Sep 25, 2026
+
+---
+### Rattenfrau verwandelt sich in ein Opossum
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, der die Verwandlung einer rattenähnlichen Frau in ein Opossum mit großen Zähnen beschreibt, nachdem sie in die Kamera geschaut hat.
+
+#### 📝 Prompt
+
+```
+Eine rattenähnliche Frau mit großen Augen schaut schräg zur Seite auf die Kamera und ist seitlich zu ihr ausgerichtet, nach rechts blickend, grinst...
+
+Sie dreht sich zur Kamera und verwandelt sich in ein Opossum mit großen Zähnen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="Rattenfrau verwandelt sich in ein Opossum">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11267)**
+
+**Author:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **Source:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **Published:** Sep 24, 2026
+
+---
+### Grok Imagine Anti-Menschenhandel-Nachricht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein sozialer Nachrichten-Prompt für Grok Imagine, der sich gegen Menschenhandel richtet und Amerika segnet.
+
+#### 📝 Prompt
+
+```
+@Image1 Wir müssen alle gegen Menschenhandel aufstehen. Gott segne Amerika. Bleibt sicher.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="Grok Imagine Anti-Menschenhandel-Nachricht">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11268)**
+
+**Author:** [Greg Womack](https://x.com/Womack3954Greg) | **Source:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **Published:** Sep 24, 2026
+
+---
+### Klassische Zuhälter-Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt, der das Modell anweist, den Gesichtsausdruck und die Gesten einer Person so zu verändern, dass sie sich wie ein klassischer Zuhälter verhält, der Geld fordert.
+
+#### 📝 Prompt
+
+```
+Verwandle den Mann auf dem Foto so, dass er sich wie ein klassischer Zuhälter verhält, der sein Geld einfordert. Gib ihm einen strengen, ernsten, unnachgiebigen Gesichtsausdruck mit zusammengekniffenen Augen und einem selbstbewussten Grinsen. Ändere seine Handgesten in eine fordernde Pose: Eine ausgestreckte Hand pa...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="Klassische Zuhälter-Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11266)**
+
+**Author:** [Ty](https://x.com/datsTy27) | **Source:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **Published:** Sep 24, 2026
+
+---
+### Bar-Szene: Kopfdrehung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, der einen stilvollen Mann zeigt, wie er in einer düster beleuchteten Bar mit atmosphärischem Licht den Kopf dreht.
+
+#### 📝 Prompt
+
+```
+Cinematische Filmszene: Der stilvolle langhaarige Mann mit Sonnenbrille und Tattoos lehnt lässig an der hölzernen Bartresen in einer düsteren, stimmungsvollen Bar. Er dreht langsam den Kopf mit einem kühlen, intensiven Ausdruck. Subtiler Kamera-Zoom, atmosphärische Beleuchtung, hohe Qualität...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="Bar-Szene: Kopfdrehung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11260)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **Published:** Sep 24, 2026
+
+---
+### Stilvoller Mann mit goldenem Ornament
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer Video-Prompt, der die Konsistenz von Charakteren aus Referenzbildern und eine luxuriöse Umgebung umfasst.
+
+#### 📝 Prompt
+
+```
+Cinematische Filmszene des stilvollen Mannes mit langen Haaren, Sonnenbrille, Tattoos und dunkler Kleidung aus @Image1 und @Image2. Er sitzt lässig an einer schlecht beleuchteten Bartheke und wirkt mysteriös, steht dann auf und geht selbstbewusst durch einen luxuriösen, golden verzierten Flur...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="Stilvoller Mann mit goldenem Ornament">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11262)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **Published:** Sep 24, 2026
+
+---
+### Subtile Bar-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt für eine subtile Animation eines Mannes, der an einer Bar lehnt, mit Fokus auf Atmung und Kopfbewegung.
+
+#### 📝 Prompt
+
+```
+Subtile cineastische Animation des Mannes mit langen, welligen dunklen Haaren und rechteckiger Sonnenbrille, der an der hölzernen Bar lehnt. Er dreht seinen Kopf langsam leicht in Richtung Kamera mit einem kühlen, intensiven Ausdruck, subtiler Atmung und Schulterbewegung, sanfter Fokuswechsel...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="Subtile Bar-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11261)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **Published:** Sep 24, 2026
+
+---
+### Cinematografischer Spaziergang in der Regennacht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Videogenerierung für eine cineastische Szene, die einen Mann zeigt, der nachts durch eine regnerische Straße geht.
+
+#### 📝 Prompt
+
+```
+Cineastische Filmszene: Der coole Langhaarige im dunklen Anzug und mit Sonnenbrille geht langsam und selbstbewusst vorwärts auf der nächtlichen Kopfsteinpflasterstraße unter leuchtenden Straßenlaternen im Regen, atmosphärischer sanfter Regen, subtile Kopfbewegungen, glatte Tracking-Shot...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="Cinematografischer Spaziergang in der Regennacht">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11264)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **Published:** Sep 24, 2026
+
+---
+### Fantasy-Reisender im Bryce Canyon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmisches vertikales Video-Prompt mit einem Fantasy-Reisenden im Bryce Canyon.
+
+#### 📝 Prompt
+
+```
+KI-Video — 9:16 Cinematic
+
+Ein gut aussehender, muskulöser Fantasy-Reisender mit silbergrauen Haaren wandert langsam tiefer in die atemberaubenden roten Felsenschluchten des Bryce Canyon in Utah. Hohe orange und karminrote Sandsteinwände sowie bizarre Hoodoo-Felsformationen ragen imposant empor...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="Fantasy-Reisender im Bryce Canyon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11263)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **Published:** Sep 24, 2026
+
+---
 ### Telefonanruf-Erzählung
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -773,6 +948,27 @@ Das Haar des Älteren länger darstellen, das im Wind weht, sowie ein fließende
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11044)**
 
 **Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2100982986418057358) | **Published:** Sep 18, 2026
+
+---
+### Tesla EV-Produktionslinie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt, der die Montage eines Tesla-Elektrofahrzeugs mit hochpräziser Robotertechnik zeigt.
+
+#### 📝 Prompt
+
+```
+Teil 3: 30–45 Sek. | Moderne Produktion
+
+Vom unfertigen Karosserie-Rohling zum fertigen Elektrofahrzeug – Präzisionsrobotik und Technologie vereinen sich auf Teslas Produktionslinie. ⚡🚗🏭
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100882331192147969/img/h5Qwl7hll7yEOEOG.jpg" width="600" alt="Tesla EV-Produktionslinie">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11269)**
+
+**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2100963304487166086) | **Published:** Sep 18, 2026
 
 ---
 ### Komödien-Szene: Die Versuchung der Zigarette
@@ -1942,198 +2138,6 @@ Ein Video von einem Typen, der Sit-ups macht und darüber spricht, der nächste 
 **Author:** [Gabriel](https://x.com/riquitoboy47) | **Source:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **Published:** Sep 10, 2026
 
 ---
-### Animation einer Trauerweide aus flüssigem Gold
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein animierter Prompt, bei dem Tropfen aus flüssigem Gold verschmelzen und zu einer Trauerweide mit schwarzen Perlen vor einem anthrazitfarbenen Hintergrund heranwachsen.
-
-#### 📝 Prompt
-
-```
-Fünf Tropfen aus flüssigem Gold liegen auf dem Boden. Sie verschmelzen langsam und wachsen in die Form einer Trauerweide empor, deren Zweige schwer mit glänzenden schwarzen Perlen behangen sind, vor einer Kulisse in texturiertem Anthrazit.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098143472620642304/img/Kz7-rDQwYWr3or05.jpg" width="600" alt="Animation einer Trauerweide aus flüssigem Gold">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10742)**
-
-**Author:** [Cosmic Cowboy](https://x.com/CosmicCowboyCDN) | **Source:** [Link](https://x.com/CosmicCowboyCDN/status/2098144066928345336) | **Published:** Sep 10, 2026
-
----
-### Anime-Crossover-Storyboard-Szene
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Video-Prompt mit mehreren Segmenten, der die Charaktere Luffy und Anya zeigt, inklusive präzisem Timing für Requisiteninteraktionen und emotionale Höhepunkte.
-
-#### 📝 Prompt
-
-```
-10–15 Sekunden | Requisiten-Effekt: Rakhi fliegt nach oben und wickelt sich um das Handgelenk. Goldene Bänder legen sich automatisch um Luffys Handgelenk, der Schutzschild entfaltet sich und Anyas Augen werden zu Sternen. 15–20 Sekunden | Emotionaler Höhepunkt: Kopfstreicheln durch den großen Bruder + Umarmung. Luffy tätschelt ernst Anyas Kopf, Anya springt in seine Arme, umgeben von goldenem Herzleuchten.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097918547813175296/img/9s_uDQjaXgjU2a1N.jpg" width="600" alt="Anime-Crossover-Storyboard-Szene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10687)**
-
-**Author:** [麥克斯緯 Max Well](https://x.com/Gopphybjwo) | **Source:** [Link](https://x.com/Gopphybjwo/status/2097918597603733849) | **Published:** Sep 10, 2026
-
----
-### Anime HIIT Ellipsentrainer-Workout-Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Grok Imagine-Videoprompt, der einen Charakter zeigt, der vom Sitzen zum Stehen übergeht und Liegestütze ausführt, im Stil einer Anime-Fitnesssequenz.
-
-#### 📝 Prompt
-
-```
-erstelle ein Video, in dem ich mich von der Kamera abgewandt aufsetze, dann aufstehe, mich umdrehe und ein paar Liegestütze mache
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097888869270376448/img/h1241Vo5IBfUBOeG.jpg" width="600" alt="Anime HIIT Ellipsentrainer-Workout-Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10680)**
-
-**Author:** [𝑹𝒂𝒄𝒉𝒆𝒍 𝑹𝒂𝒎𝒔𝒆𝒚](https://x.com/RSOXART) | **Source:** [Link](https://x.com/RSOXART/status/2097888970994495736) | **Published:** Sep 10, 2026
-
----
-### Surreale kosmische Horizont-Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochgradig deskriptiver, filmischer Prompt, der ein Mädchen auf einem Dach zeigt, das den Aufgang eines kolossalen Planeten beobachtet, mit Fokus auf surrealer Größe und emotionalem Storytelling.
-
-#### 📝 Prompt
-
-```
-Ein einsames Mädchen sitzt nachts auf dem Dach eines kleinen Landhauses, umarmt ihre Knie und beobachtet, wie ein kolossaler, leuchtender Planet über dem Horizont aufgeht. Das Haus wirkt winzig im Vergleich zu dem riesigen Himmelskörper, der den Himmel dominiert. Ein warmes, gelbes Licht scheint sanft aus dem Fenster unter ihr, während die umliegende Welt in kühles, blaues Mondlicht getaucht ist. Glühwürmchen schweben im Gras und ferne Hügel verlieren sich in der Dunkelheit. Verträumt, intim, surreale kosmische Dimensionen, starker Blau-Orange-Kontrast, einsam aber wunderschön, filmische Komposition, sanftes emotionales Storytelling.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797344687448064/img/SZngyC9XYY8D9vMn.jpg" width="600" alt="Surreale kosmische Horizont-Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10678)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097857841419976745) | **Published:** Sep 10, 2026
-
----
-### Lehrauftrag an einer High School
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, der einen Schulleiter zeigt, wie er Eltern und College-Absolventen an einer kalifornischen High School Lehraufgaben zuweist.
-
-#### 📝 Prompt
-
-```
-Ein Schulleiter einer kalifornischen High School weist Eltern und College-Absolventen ihre zweiwöchigen Lehraufträge zu
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097849383140409344/img/Whd4v6rwps-FMo5K.jpg" width="600" alt="Lehrauftrag an einer High School">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10741)**
-
-**Author:** [Mr. jeffrey, M.Ed.Ldrshp.](https://x.com/JeffreyMaffly) | **Source:** [Link](https://x.com/JeffreyMaffly/status/2097849395488412014) | **Published:** Sep 10, 2026
-
----
-### Video-Anleitung: Knoblauchbrot zubereiten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für eine 45-sekündige Anleitung zur Zubereitung von Knoblauchbrot mit Petersilie und Parmesan.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 45-sekündiges Video-Short als Anleitung, wie man Knoblauchbrot mit frischer Petersilie und Parmesan zubereitet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097797873366671362/img/608CZ_oj_TJaD-FR.jpg" width="600" alt="Video-Anleitung: Knoblauchbrot zubereiten">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10681)**
-
-**Author:** [Rduck](https://x.com/rduck526) | **Source:** [Link](https://x.com/rduck526/status/2097797892312322437) | **Published:** Sep 9, 2026
-
----
-### Leuchtende Tür am Wüstenhimmel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine hochdetaillierte, surreale vertikale Nachtszene eines einsamen Mannes vor einem gigantischen, leuchtenden Tor in einer dunklen Wüste.
-
-#### 📝 Prompt
-
-```
-Eine surreale vertikale Nachtszene eines einsamen Mannes, der in einer weiten, dunklen Wüste unter einem sternenklaren Himmel steht. Vor ihm befindet sich ein gigantisches, freistehendes, leuchtendes Tor, das um ein Vielfaches höher ist als ein Mensch und leicht geöffnet ist, wodurch ein helles orangefarbenes Licht im Inneren sichtbar wird. Um das Tor herum leuchtet der Sand sanft im blauen Mondlicht. Der Himmel ist reich an Sternen und schwachen Nebelwolken. Starker visueller Kontrast zwischen der kühlen, mitternachtsblauen Landschaft und dem warmen, feurigen Licht, das aus dem Tor strömt. Ruhig, symbolisch, filmisch, mysteriös, hochdetailliert, surrealer Maßstab, emotionale Einsamkeit.
-
-Negativ: kein Text, kein Logo, kein Wasserzeichen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097796543462219776/img/DxvENK4kg04thsZh.jpg" width="600" alt="Leuchtende Tür am Wüstenhimmel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10675)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2097796795325882717) | **Published:** Sep 9, 2026
-
----
-### Brutalistischer geometrischer Innenraum-Korridor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kinoreifer, kontrastreicher Architektur-Prompt mit gestapelten Betonvolumen, dünnen, leuchtend weißen Portalen und dynamisch verblassenden Schatten.
-
-#### 📝 Prompt
-
-```
-Vertikale 9:16-Filmaufnahme eines weitläufigen, dunklen brutalistischen Innenraums. Massive, gestapelte weiße Betonvolumen bilden einen tiefen, geometrischen Korridor mit scharfen rechteckigen Öffnungen. Dünne, leuchtend weiße Lichtrahmen umreißen Türöffnungen und schwebende Architekturplatten und erzeugen geschichtete Lichtportale, die in der Dunkelheit verschwinden. Silhouetten einiger weniger Personen, die stillstehen oder langsam durch den Raum gehen, eine im Vordergrund, andere in der Ferne. Die Szene blendet rhythmisch fast bis zur Schwärze ab, bevor die Lichtarchitektur wieder erscheint. Minimalistisch, monochromatisch, hoher Kontrast, volumetrisches Licht, saubere CGI-Architektur, langsame Kameraführung, immersive Installationsatmosphäre, kein Text, keine Farbe.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097595686695092224/img/ORVpFF3BYl2IrphX.jpg" width="600" alt="Brutalistischer geometrischer Innenraum-Korridor">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10677)**
-
-**Author:** [Phil | Firefly + Imagine](https://x.com/NotPhilSledge) | **Source:** [Link](https://x.com/NotPhilSledge/status/2097761965032481176) | **Published:** Sep 9, 2026
-
----
-### Transformierender Monster-Katzen-Streamer
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter Horror-Anime-Prompt, bei dem sich eine vierbeinige Monsterkatze in ein zweibeiniges Wesen verwandelt und einen Livestream startet.
-
-#### 📝 Prompt
-
-```
-Erstelle ein Video im Anime-Stil einer Horrorszene, in der eine vierbeinige Monsterkatze zunächst auf allen Vieren läuft, dann auf zwei Beinen zu gehen beginnt, sich in einen Gaming-Stuhl an einen Schreibtisch mit einem Desktop-Computer setzt, den Computer einschaltet, Kopfhörer aufsetzt und beginnt, in ein Mikrofon zu streamen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097708848828276737/img/wlO1X5GuuWEVYe7P.jpg" width="600" alt="Transformierender Monster-Katzen-Streamer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10686)**
-
-**Author:** [猫目の人](https://x.com/nekomenohito_JP) | **Source:** [Link](https://x.com/nekomenohito_JP/status/2097708874254197197) | **Published:** Sep 9, 2026
-
----
-### Filmischer Dialog zwischen Athena und Zeus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein narrativer Video-Prompt, in dem Athena auf den Tempel des Zeus zugeht, um Hilfe für die Sterblichen zu fordern.
-
-#### 📝 Prompt
-
-```
-Athena geht schweigend auf den Tempel ihres Vaters zu. Sie sieht Zeus an, als er sie begrüßt, und antwortet: „Die Sterblichen brauchen unsere Hilfe.“
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097706795951439872/img/hbwALyol54WErHvT.jpg" width="600" alt="Filmischer Dialog zwischen Athena und Zeus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10673)**
-
-**Author:** [vlad moore](https://x.com/vladmoore3) | **Source:** [Link](https://x.com/vladmoore3/status/2097706815123517691) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2199,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-25T04:41:22.249Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-25T13:47:10.170Z</sub>
 
 </div>
