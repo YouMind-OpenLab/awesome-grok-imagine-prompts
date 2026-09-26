@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2891** |
+| 📝 プロンプト総数 | **2902** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-09-26** |
 
@@ -189,6 +189,187 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Grok Imagine Video Prompt: Square Aspect Ratio Conversion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed instruction to convert an image/video to a 1:1 square aspect ratio while maintaining style and subject.
+
+#### 📝 プロンプト
+
+```
+Convert this image to a 1:1 square aspect ratio. Keep the core subject (the glowing skull candle) prominent and well-framed with smart recomposition or cropping. Maintain the original artistic style, lighting, colors, details, quality, and composition
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103680504524386304/img/wmISBSwrROyqUQkC.jpg" width="600" alt="Grok Imagine Video Prompt: Square Aspect Ratio Conversion">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11345)**
+
+**作者:** [Katrina](https://x.com/sLuTmEoUt1988) | **ソース:** [Link](https://x.com/sLuTmEoUt1988/status/2103680519401799927) | **公開日:** Sep 26, 2026
+
+---
+### SF西部劇ホロデッキのトランジション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagineで生成された、デジタルグリッドルームから旧西部の街路への移行を詳細に説明するプロンプト。
+
+#### 📝 プロンプト
+
+```
+宇宙船のクルーがシミュレーション・ホロデッキでの冒険を続け、黒と金のグリッドルームを歩くと、足元の床が一歩ずつ埃っぽい旧西部の街路へと変形していく — クールなデジタルライトが、温かい日差しに照らされた木材や砂岩へと溶け込んでいく。
+
+グリッドルームから旧西部へ、歩行による変身、光る回路文字、サルーンの出現、デジタルからアナログへのシフト、シネマティックなSF西部劇
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103637291306463232/img/UT8jSgJxBPT6YHDL.jpg" width="600" alt="SF西部劇ホロデッキのトランジション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11355)**
+
+**作者:** [Sherice](https://x.com/Sherice0799) | **ソース:** [Link](https://x.com/Sherice0799/status/2103637378779009309) | **公開日:** Sep 26, 2026
+
+---
+### トム・クルーズの独白ビデオ生成プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 過剰に複雑な演劇の中で、特定のキャラクターとしてユーモアのあるモノローグを披露するトム・クルーズの動画を生成するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+再発見されたものの過度に複雑なユージン・オニールの戯曲『Schmutz on the Psyche』において、落ちぶれたアル中食品テイスター「プルプーティ・ツァヴァヴァストヴォ」役で退屈な独白を行うトム・クルーズ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103630585751105536/img/3cSKAhTp7w5bs5_s.jpg" width="600" alt="トム・クルーズの独白ビデオ生成プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11347)**
+
+**作者:** [(((Simon Hardy Butler)))🇺🇸🇮🇱🇺🇦](https://x.com/SimonHButler) | **ソース:** [Link](https://x.com/SimonHButler/status/2103630614973096137) | **公開日:** Sep 25, 2026
+
+---
+### ヨーロッパの大学ブイログ動画プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 特定のセリフやカメラワークを指定した、リアルな10秒間の大学ブイログ動画を作成するための詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+20代半ばの茶髪のヨーロッパ人女性が、雨の朝に目覚め、コーヒーを入れ、身支度を整え、傘を持って濡れた街を歩き、授業開始直前に大学へ到着する様子を捉えた、10秒間の超写実的な実写大学ブイログを作成してください。
+
+現代のスマートフォンによるブイログスタイル：自然な手持ち撮影の動き、微かな揺れ、オートフォーカスの変化、リアルな雨、水たまり、反射、交通量、傘、濡れた衣服、自然な表情、そして説得力のある人間の動き。
+
+セリフ：「おはよう… どうやら、雨が降っているみたい。」 → 「まずはコーヒー。それから講義だ。」 → 「2分前倒し。我ながら感心するわ。」 → 「よし、間に合った。」
+
+自然なダイエジェティック音声のみ。音楽、ナレーション、CGI風の見た目、人工的な雨、顔の変化、歪んだ解剖学的構造、不可能な物理現象、字幕、ロゴ、ウォーターマークは使用しないでください。
+
+16:9 • 24fps • 4K • 超写実的な実写映像
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103629375711387648/img/pC3oG5XUNPsnTjIs.jpg" width="600" alt="ヨーロッパの大学ブイログ動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11348)**
+
+**作者:** [Yogi](https://x.com/cyberyogiii) | **ソース:** [Link](https://x.com/cyberyogiii/status/2103629403284742531) | **公開日:** Sep 25, 2026
+
+---
+### 赤い馬に乗る翼の騎士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 黒い翼を持つ騎士が、黄色い筋のある赤い馬に乗り、トンボが頭上を舞う動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+大きな黒い羽の翼を持つ騎士が、黄色い筋が入った赤い馬に乗っている。小さな黄色いトンボが騎士の兜の上を飛んでいる
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103513454007189504/img/tm8hSbReTHDnz-yu.jpg" width="600" alt="赤い馬に乗る翼の騎士">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11352)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2103513537067061561) | **公開日:** Sep 25, 2026
+
+---
+### 安らかな眠りのシネマティックショット
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> カップルが穏やかな呼吸とともに安らかに眠る姿を描いた動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+男性と女性がベッドで深く眠り続けています。胸のわずかな上下動を伴う柔らかく穏やかな呼吸、自然な頭の微細な動き、閉じた穏やかな目元、リラックスした表情、静かで薄暗い寝室の照明。フォトリアルなシネマティックスタイルで、ゆっくりと安らかな睡眠を表現...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103501155728863232/img/xegDEZqgqAvZJjwf.jpg" width="600" alt="安らかな眠りのシネマティックショット">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11351)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2103501201031454753) | **公開日:** Sep 25, 2026
+
+---
+### Grok Imagine フロントガラス破損防止修正
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> シーン全体を維持しつつ、フロントガラスが割れないようにするようモデルに指示する動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+すべてそのままキープで、フロントガラスは絶対に割れないようにして… うん、こっちの方が良さそう 😅✌️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103472843597955073/img/pyYzeVZPnu-L73Xo.jpg" width="600" alt="Grok Imagine フロントガラス破損防止修正">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11349)**
+
+**作者:** [Johnny🛸](https://x.com/JohnnySchwifty) | **ソース:** [Link](https://x.com/JohnnySchwifty/status/2103472876490011060) | **公開日:** Sep 25, 2026
+
+---
+### 酒場にいる『Dark Souls』の騎士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 『Dark Souls』風の鎧を着た騎士がシーンに入り、困惑した様子で周囲を見回し、その後立ち去る様子を描写した動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+兜に巨大な羽飾りをつけた騎士が、美しい『Dark Souls』風の鎧を身にまといシーンに入ってくる。彼は困惑した様子で周囲を見回し、やがてその場を後にする。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103453452563353600/img/5rPljdkUrSjsiYjv.jpg" width="600" alt="酒場にいる『Dark Souls』の騎士">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11350)**
+
+**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **ソース:** [Link](https://x.com/KaungMyat635/status/2103453550328332629) | **公開日:** Sep 25, 2026
+
+---
+### Grok Imagine Video Prompt: Emotional Cat Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex narrative prompt involving a cat disappearing, a girl crying over a photo, and a zoom-in effect, demonstrating advanced video storytelling capabilities.
+
+#### 📝 プロンプト
+
+```
+Please keep the image sequence except for the last frame, as close to the exact original illustrations as possible. These are images of a specific band. The cat should be walking towards the camera, a hand reaches out to pet it but does not touch, the cat disappears before the hand can pet the cat. The green haired girl in the photo is revealed to be the person who reaches for a picture at the edge of the table. She picks up the picture and a tear falls on it from her starting to cry. As the tear falls, the camera zooms into the picture frame as if it's live at the original party - the cat stands up on her hind legs and looks at the camera. Please use the photorealistic Tanner picture as how she looks when she's standing up but please keep her in the same cartoon format as the rest of the sequence, thank you.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103410441728749568/img/We6onAMRk-2k7MXG.jpg" width="600" alt="Grok Imagine Video Prompt: Emotional Cat Sequence">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11346)**
+
+**作者:** [Hoppy Cat](https://x.com/hoppycat) | **ソース:** [Link](https://x.com/hoppycat/status/2103412194285117499) | **公開日:** Sep 25, 2026
+
+---
 ### 木製テスラサイバートラックの走行
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +387,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11265)**
 
 **作者:** [Internet James](https://x.com/iminternetjames) | **ソース:** [Link](https://x.com/iminternetjames/status/2103382101416624505) | **公開日:** Sep 25, 2026
+
+---
+### ダンスキャラクター動画プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクターが楽しく歌いながら踊り、最後は笑顔のクローズアップで終わる動画を生成するためのプロンプトです。解像度や再生時間などの技術的な設定も含まれています。
+
+#### 📝 プロンプト
+
+```
+提供された画像に基づき、以下のプロンプトを使用して新しい動画を生成してください：「人物が楽しそうに歌いながら踊り、その後、笑顔の顔にズームインする。」設定は次の通りです：480p、6秒、自動。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103273221508444160/img/WGXaTXANOIw5MXrw.jpg" width="600" alt="ダンスキャラクター動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11354)**
+
+**作者:** [ハル．](https://x.com/HAL000111000) | **ソース:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **公開日:** Sep 24, 2026
 
 ---
 ### ラットレディがポッサムに変身
@@ -763,6 +963,29 @@ POV モデルの足元、靴が完全に同じ方向へ歩行、2 秒ごとに 1
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11105)**
 
 **作者:** [Alex Stirling](https://x.com/AlexStirlism7) | **ソース:** [Link](https://x.com/AlexStirlism7/status/2101831570361348212) | **公開日:** Sep 21, 2026
+
+---
+### ヴェールダンサー ミストブルー ビデオプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 大理石の柱の間でミストブルーのシルクをまとうダンサーを描く、Grok Imagine で作成されたビデオ生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+💃 ヴェールダンサーシリーズ – #70 ミストブルー
+
+冷たい大理石の柱の間で踊る彼女。静かなホールにミストブルーのシルクが流れる。
+
+Grok Imagine で作成。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101755776226168832/img/YBgurnXIwRjoLn9n.jpg" width="600" alt="ヴェールダンサー ミストブルー ビデオプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11353)**
+
+**作者:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **ソース:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **公開日:** Sep 20, 2026
 
 ---
 ### 銀河回転動画
@@ -1918,232 +2141,6 @@ Falcon 9 の打ち上げにおける集合的な高揚感：轟音が遂に群�
 **作者:** [Roy](https://x.com/RoyRoy67196892) | **ソース:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **公開日:** Sep 11, 2026
 
 ---
-### 雨宿りをする母アリ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> アリの家族が葉の下で雨宿りをする様子を描いたナラティブ動画用プロンプト。
-
-#### 📝 プロンプト
-
-```
-母アリが食料を積んだ荷車を引いており、そのあとを息子のアリがついて歩いています。雨が降り出したため、母アリは雨をしのげる大きな葉の下へと移動します。彼女は息子に「離れないで！」と声をかけます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg" width="600" alt="雨宿りをする母アリ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10799)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **ソース:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **公開日:** Sep 11, 2026
-
----
-### Oasis on Mars Robots Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Video depicting an oasis on Mars with lights in domes and robots building life.
-
-#### 📝 プロンプト
-
-```
-Have a good Friday evening, everyone.
-Just a short glimpse tonight - an oasis on Mars, lights in the domes, robots building life.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098477462200147968/img/Njx6sAHlUy-55dbB.jpg" width="600" alt="Oasis on Mars Robots Video">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11008)**
-
-**作者:** [Ninoki](https://x.com/Ninoki111) | **ソース:** [Link](https://x.com/Ninoki111/status/2098477739753803836) | **公開日:** Sep 11, 2026
-
----
-### 歴史あるポーランド教会へのトリビュート動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1925 年当時のペンシルベニア州スクラントンにある、イエスとマリアの聖心教会（Sacred Hearts of Jesus and Mary Church）を称える歴史的なトリビュート動画用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-1925 年頃のペンシルベニア州スクラントンにおける、ポーランド系移民の教区であるイエスとマリアの聖心教会へのトリビュート
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098469271898861568/img/78r7y9inS0-AKtpz.jpg" width="600" alt="歴史あるポーランド教会へのトリビュート動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10798)**
-
-**作者:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **ソース:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **公開日:** Sep 11, 2026
-
----
-### 空を飛ぶ夢：レオナルド・ダ・ヴィンチ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine で生成した、人類の飛行への夢とレオナルド・ダ・ヴィンチを描く動画パート 1。
-
-#### 📝 プロンプト
-
-```
-パート 1: 空を飛ぶ夢 | 0～15 秒
-
-鳥が舞う姿を見つめることから、飛行機械を想像することへ。人類の飛行への夢は、あるビジョンから始まりました。レオナルド・ダ・ヴィンチは、その夢をアイデアへと昇華させたのです。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098370904942313473/img/rfo920ZzO_nbDXd9.jpg" width="600" alt="空を飛ぶ夢：レオナルド・ダ・ヴィンチ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11006)**
-
-**作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **ソース:** [Link](https://x.com/ItsEthanRay/status/2098396641602740528) | **公開日:** Sep 11, 2026
-
----
-### 麺を食べるリアルな一連の動作
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 自然な動きと感情を伴い、麺を食べる人物の非常にリアルな 15 秒間の動画を作成するための複雑な時間軸プロンプト。
-
-#### 📝 プロンプト
-
-```
-自然な人間の動きと説得力のあるタイミングで、非常にリアルな 15 秒間の動画を作成してください。
-
-0～4 秒：彼女は箸を自然に使い、ゆっくりと麺を口に運びます。一口食べ終えて、咀嚼（そしゃく）を始めます。
-
-4～7 秒：自然に咀嚼し、味を噛みしめている様子が伝わります。かすかな満足げな笑みを浮かべ、表情はリラックスしています。
-
-7～9 秒：咀嚼しながら、周囲に誰かが見ていたり笑っていたりしないかを確認するように、左、そして右へと視線を向けます。表情は少し用心深く、自意識過剰なものに変わります。
-
-9～12 秒：誰も笑っていないことに気づいてリラックスし、ティーカップを手に取って自然に一口飲みます。
-
-12～15 秒：カップを置き、セーターの袖で何気なく口元と頬を拭います。カメラの方を見て、少し恥ずかしそうでありながらも幸せそうな小さな笑みを浮かべます。
-
-すべての動きを連続的かつ物理的にリアルに保ってください。参照画像から、人物、顔、髪型、服装、オブジェクト、環境を正確に維持してください。自然な表情、リアルな目の動き、現実的な咀嚼と嚥下（えんげ）、正確な手と指の動き、麺・箸・ティーカップとの説得力のあるインタラクションを表現してください。かすかな手持ちカメラの揺れ、自然な呼吸、リアルな肌と布の動き、温かみのある自然光を含めてください。急な動き、モーフィング、顔の歪み、指の過剰な描写、オブジェクトの複製、不自然な口の動き、誇張された表情、会話、字幕、テキストのオーバーレイは禁止です。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098327215234838528/img/UBN3YsyfsnZP1A25.jpg" width="600" alt="麺を食べるリアルな一連の動作">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10797)**
-
-**作者:** [AI_Courier](https://x.com/arc_courier) | **ソース:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **公開日:** Sep 11, 2026
-
----
-### 眠らない街NYC動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夜明け後のニューヨーク市を輝くスカイラインとともに描く動画セグメント。
-
-#### 📝 プロンプト
-
-```
-パート4（45〜60秒）：眠らない街
-
-暗闇に包まれたニューヨーク市—ここは、星空よりも輝くスカイラインが広がる場所です。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098360939825532928/img/kt9lSCEFM_180S6i.jpg" width="600" alt="眠らない街NYC動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11007)**
-
-**作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **ソース:** [Link](https://x.com/ItsEthanRay/status/2098361333574181177) | **公開日:** Sep 11, 2026
-
----
-### クリムト風の SF ナイト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> グスタフ・クリムトの芸術スタイルと、装甲騎士や宇宙宮殿といった未来的な SF 要素を融合させた、非常に詳細な動画用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-No talk… クリムト風の夢幻的な油絵。SF 装甲を纏った、魅力的でハンサムな未来の騎士が愛らしい女性を抱いている。宇宙船、宇宙宮殿、滝、光、余分な腕はなし…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098280958990684160/img/Iunubct5b1JoM7nk.jpg" width="600" alt="クリムト風の SF ナイト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10743)**
-
-**作者:** [Carina](https://x.com/Freehere8) | **ソース:** [Link](https://x.com/Freehere8/status/2098281502828290435) | **公開日:** Sep 11, 2026
-
----
-### ボルゲーゼ美術館のフランス人女性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ボルゲーゼ美術館を舞台に、彫像のように美しいフランス人女性を捉えたシネマティックなビデオプロンプト。落ち着いた秋の雰囲気を演出しています。
-
-#### 📝 プロンプト
-
-```
-ボルゲーゼ美術館のギャラリーに佇む、彫像のように美しい若きフランス人女性。落ち着いた色合いの秋の装いを身にまとっている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097730338063867904/img/SmNwegNFPyTKV9X-.jpg" width="600" alt="ボルゲーゼ美術館のフランス人女性">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10740)**
-
-**作者:** [Jourdan Fernandez](https://x.com/VisualTreats) | **ソース:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **公開日:** Sep 11, 2026
-
----
-### 武術家を目指す人の動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 次の偉大な武術家になることについて語りながら運動をする男性を描写した動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-ブルース・リーに続く次世代のドラゴンになると語りながら、腹筋運動をする男性の動画。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098225139926048774/img/DB104i5PfQFso7pI.jpg" width="600" alt="武術家を目指す人の動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10801)**
-
-**作者:** [Ligma Ballz](https://x.com/LBallz77283) | **ソース:** [Link](https://x.com/LBallz77283/status/2098225163804319793) | **公開日:** Sep 11, 2026
-
----
-### 中国伝統舞踊の振付
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> ピンクとゴールドの流れるようなドレスを纏い、伝統舞踊を披露する 20 歳の東アジア人女性のための詳細なビデオプロンプト。具体的な振付のステップや動作の詳細を含みます。
-
-#### 📝 プロンプト
-
-```
-20 歳の東アジア人女性、外見とダンスの動きを一定に保つ。ピンク、白、ゴールドのグラデーションが美しい高級な古風の胸高・広袖の流れるようなドレスを着用。スカートには金糸で花の刺繍が施され、薄く透明な金縁のガーゼリボンがあしらわれている。生地は風になびいて自然かつダイナミックに動き、スカートは強いドレープ感があり、繊細なパールの装飾が施されている。精巧な古風の刺繍入りソフトソールシューズを履き、全体的に華やかで優雅な印象。足が高く上がる動作でも安心なようにインナーパンツを着用。風に乗って優雅に舞い、軽やかで俊敏。黒いロングヘアを古風な結い髪にし、お揃いの精巧な髪飾りをつけている。初期姿勢：左足で立ち、右足を前方に曲げ、右足に体重をかけて前傾し、伏し目がち。右手は頭の右上に上げ、左手は後ろ斜め上に伸ばす。1. 体をゆっくりと直立させ、わずかに後ろに反り、同時に右足を真っ直ぐに上げ、両手をこめかみに当て、肩を優しく揺らし、頭を一周回す。2. 左手で頭の上から下へ円を描き、右手で胸の下から上へ円を描く。3. 体を左に向け、伏し目で指を顔の前で交差させ、両手をゆっくりと離す。4. 右手を上に振り上げ、左手を下に伸ばし、右足で円弧を描くように掃いて体を回転させる。5. 右足が着地し、左足を内側にフックし、体を 90 度後ろに反らせながら滑らかに回転し、目を閉じて微笑み、手のひらを顎に当てて軽く揺らす。6. 上半身の周りで両手が円弧を描くフリーズフレーム。7. 親指と人差し指を合わせ、胸元から頭上まで持ち上げる。8. 体を右に向け、左手で顎に弧を描き、右手の指先で眉をなぞってから右上に伸ばし、手首を外側に押して金の装飾を 2 回揺らす。雰囲気：ヘヴィメタルのドラム音楽、明るいリズム。ボリューム感のある柔らかな光、繊細な肌の質感、自然な髪と生地の動き、滑らかなダイナミクス。ネガティブプロンプト：ぼやけ、低解像度、変形した四肢、動作の遅延、透かし。15 秒間の整合性のあるビデオを生成。アスペクト比 9:16。
-```
-
-<img src="https://cms-assets.youmind.com/media/1789112669710_10a9cd_HR5gsMZbwAAWt4k.png" width="600" alt="中国伝統舞踊の振付">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10745)**
-
-**作者:** [George Qiao](https://x.com/QiaoGeorge) | **ソース:** [Link](https://x.com/QiaoGeorge/status/2098223994134794350) | **公開日:** Sep 11, 2026
-
----
-### 寝室のショートアニメーションループ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャンドルの灯る部屋でキャラクターが登場する、6 秒間のループ動画用簡潔プロンプト。
-
-#### 📝 プロンプト
-
-```
-6 秒の動画。ベースとして Mía Gabriel の寝室を完全に再現。9:16 のアスペクト比、キャンドルの灯り。アニメーションのみ適用。顔は同一のものを使用。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098149376677810191/img/n3LdIimrezq2cBqz.jpg" width="600" alt="寝室のショートアニメーションループ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=10744)**
-
-**作者:** [Gabriel](https://x.com/riquitoboy47) | **ソース:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **公開日:** Sep 10, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2205,6 +2202,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-26T04:45:24.980Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-26T13:08:37.208Z</sub>
 
 </div>

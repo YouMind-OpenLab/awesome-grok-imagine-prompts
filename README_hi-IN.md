@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2891** |
+| 📝 Total Prompts | **2902** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-26** |
 
@@ -189,6 +189,187 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine वीडियो प्रॉम्प्ट: वर्ग आस्पेक्ट रेश्यो में रूपांतरण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> शैली और विषय को बनाए रखते हुए छवि/वीडियो को 1:1 वर्ग आस्पेक्ट रेश्यो में बदलने के लिए एक विस्तृत निर्देश।
+
+#### 📝 Prompt
+
+```
+इस छवि को 1:1 वर्ग आस्पेक्ट रेश्यो में बदलें। मुख्य विषय (चमकता हुआ खोपड़ी का मोमबत्ती) को स्मार्ट पुनर्निर्माण या क्रॉपिंग के साथ प्रमुख और अच्छी तरह फ्रेम किया हुआ रखें। मूल कलात्मक शैली, प्रकाश व्यवस्था, रंग, विवरण, गुणवत्ता और संरचना को बनाए रखें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103680504524386304/img/wmISBSwrROyqUQkC.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: वर्ग आस्पेक्ट रेश्यो में रूपांतरण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11345)**
+
+**Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2103680519401799927) | **Published:** Sep 26, 2026
+
+---
+### साइ-फाई वेस्टर्न होलोडेक संक्रमण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत प्रॉम्प्ट जो डिजिटल ग्रिड कमरे से ओल्ड वेस्ट सड़क तक के संक्रमण का वर्णन करता है, जिसे Grok Imagine द्वारा तैयार किया गया है।
+
+#### 📝 Prompt
+
+```
+अंतरिक्ष दल सिमुलेशन होलोडेक में अपने साहसिक कार्य जारी रखता है; वे एक काले और सुनहरे ग्रिड वाले कमरे से गुजरते हैं और उनके नीचे का फर्श चरण दर चरण धूल भरी ओल्ड वेस्ट सड़क में बदल जाता है — ठंडी डिजिटल रोशनी गर्म धूप में सूखी लकड़ी और सैंडस्टोन में पिघलती हुई।
+
+ग्रिड रूम से ओल्ड वेस्ट, चलते हुए परिवर्तन, चमकदार सर्किट्री अक्षर, सैलून का रहस्योद्घाटन, डिजिटल से एनालॉग शिफ्ट, सिनेमाई साइ-फाई वेस्टर्न
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103637291306463232/img/UT8jSgJxBPT6YHDL.jpg" width="600" alt="साइ-फाई वेस्टर्न होलोडेक संक्रमण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11355)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2103637378779009309) | **Published:** Sep 26, 2026
+
+---
+### टॉम क्रूज़ मोनोलॉग वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विशेष पात्र के रूप में एक अत्यंत जटिल नाटक में टॉम क्रूज़ द्वारा हास्यपूर्ण मोनोलॉग प्रस्तुत करते हुए वीडियो बनाने का प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+पुनः खोजी गई लेकिन अत्यंत जटिल यूजीन ओ'नील की नाटक 'Schmutz on the Psyche' में, पूर्व-प्रसिद्ध शराबी फूड टेस्टर प्लरपूटी त्ज़ावावस्तोवो की भूमिका में टॉम क्रूज़ द्वारा एक उबाऊ मोनोलॉग प्रस्तुत करना।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103630585751105536/img/3cSKAhTp7w5bs5_s.jpg" width="600" alt="टॉम क्रूज़ मोनोलॉग वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11347)**
+
+**Author:** [(((Simon Hardy Butler)))🇺🇸🇮🇱🇺🇦](https://x.com/SimonHButler) | **Source:** [Link](https://x.com/SimonHButler/status/2103630614973096137) | **Published:** Sep 25, 2026
+
+---
+### यूरोपीय विश्वविद्यालय व्लॉग वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक यथार्थवादी 10-सेकंड के विश्वविद्यालय व्लॉग वीडियो बनाने के लिए एक विस्तृत प्रॉम्प्ट, जिसमें विशेष संवाद और कैमरा शैलियाँ शामिल हैं।
+
+#### 📝 Prompt
+
+```
+अपने मध्य-20 के दशक की एक यूरोपीय भूरी बालों वाली महिला का एक 10-सेकंड का अल्ट्रा-फोटोरियलिस्टिक लाइव-एक्शन विश्वविद्यालय व्लॉग बनाएं, जो बारिश वाले सुबह उठती है, कॉफी बनाती है, तैयार होती है, छाता उठाती है, भीगी हुई सड़कों से होकर चलती है, और कक्षा शुरू होने से ठीक पहले विश्वविद्यालय पहुँचती है।
+
+आधुनिक स्मार्टफोन व्लॉग शैली: प्राकृतिक हैंडहेल्ड मूवमेंट, हल्का झटका, ऑटोफोकस बदलाव, यथार्थवादी बारिश, पानी के गड्ढे, प्रतिबिंब, यातायात, छत्रियाँ, गीले कपड़े, प्राकृतिक भावभंगिमाएँ और विश्वसनीय मानव गतिविधि।
+
+संवाद: “गुड मॉर्निंग… लगता है, आज बारिश हो रही है।” → “पहले कॉफी। फिर लेक्चर।” → “दो मिनट जल्दी। मैं प्रभावित हूँ।” → “ठीक है, समय पर पहुँच गई।”
+
+केवल प्राकृतिक डायगेटिक ऑडियो। कोई संगीत, नैरेशन, सीजीआई लुक, कृत्रिम बारिश, चेहरा बदलाव, विकृत एनाटॉमी, असंभव भौतिकी, सबटाइटल, लोगो या वॉटरमार्क नहीं।
+
+16:9 • 24fps • 4K • अल्ट्रा-फोटोरियलिस्टिक लाइव एक्शन
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103629375711387648/img/pC3oG5XUNPsnTjIs.jpg" width="600" alt="यूरोपीय विश्वविद्यालय व्लॉग वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11348)**
+
+**Author:** [Yogi](https://x.com/cyberyogiii) | **Source:** [Link](https://x.com/cyberyogiii/status/2103629403284742531) | **Published:** Sep 25, 2026
+
+---
+### लाल घोड़े पर पंखों वाला नाइट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जेनरेशन प्रॉम्प्ट जिसमें काले पंखों वाला एक नाइट पीली धारियों वाले लाल घोड़े पर सवार है और उसके पास एक ड्रैगनफ्लाई है।
+
+#### 📝 Prompt
+
+```
+बड़े काले पंखों वाला नाइट पीली धारियों वाले लाल घोड़े पर सवार है, नाइट के हेलमेट के ऊपर एक छोटी पीली ड्रैगनफ्लाई मंडरा रही है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103513454007189504/img/tm8hSbReTHDnz-yu.jpg" width="600" alt="लाल घोड़े पर पंखों वाला नाइट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11352)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2103513537067061561) | **Published:** Sep 25, 2026
+
+---
+### शांतिपूर्ण नींद सिनेमैटिक शॉट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जो एक जोड़े को शांति से सोते हुए दिखाता है, जिसमें सूक्ष्म श्वसन गतिविधियाँ शामिल हैं।
+
+#### 📝 Prompt
+
+```
+पुरुष और महिला बिस्तर पर गहरी नींद में रहते हैं। नरम और हल्की सांसों के साथ छाती का सूक्ष्म उत्थान और पतन, थोड़ी प्राकृतिक सिर की हरकतें, शांति से बंद आँखें, विश्राम में चेहरे, शांत और धुंधला बेडरूम प्रकाश व्यवस्था। फोटोरियलिस्टिक सिनेमैटिक धीमी और शांतिपूर्ण नींद,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103501155728863232/img/xegDEZqgqAvZJjwf.jpg" width="600" alt="शांतिपूर्ण नींद सिनेमैटिक शॉट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11351)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2103501201031454753) | **Published:** Sep 25, 2026
+
+---
+### Grok Imagine विंडशील्ड फिक्स
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जो मॉडल को दृश्य को वैसा ही रखने का निर्देश देता है, लेकिन विंडशील्ड के टूटने से रोकता है।
+
+#### 📝 Prompt
+
+```
+सब कुछ वैसा ही रखें, लेकिन विंडशील्ड नहीं टूटना चाहिए… ठीक है, यह बेहतर लग रहा है 😅✌️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103472843597955073/img/pyYzeVZPnu-L73Xo.jpg" width="600" alt="Grok Imagine विंडशील्ड फिक्स">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11349)**
+
+**Author:** [Johnny🛸](https://x.com/JohnnySchwifty) | **Source:** [Link](https://x.com/JohnnySchwifty/status/2103472876490011060) | **Published:** Sep 25, 2026
+
+---
+### तavern में डार्क सोल्स नाइट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जो एक नाइट को डार्क सोल्स शैली के कवच में दृश्य में प्रवेश करते हुए, भ्रमित दिखते हुए और फिर चले जाने का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+एक नाइट जिसके हेलमेट पर एक विशाल पंख लगा है, सुंदर डार्क सोल्स शैली के कवच में दृश्य में चलकर आता है, इधर-उधर भ्रमित होकर देखता है, और फिर चला जाता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103453452563353600/img/5rPljdkUrSjsiYjv.jpg" width="600" alt="तavern में डार्क सोल्स नाइट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11350)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103453550328332629) | **Published:** Sep 25, 2026
+
+---
+### Grok Imagine वीडियो प्रॉम्प्ट: भावनात्मक बिल्ली अनुक्रम
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जटिल कहानी-आधारित प्रॉम्प्ट जिसमें एक बिल्ली का गायब होना, एक लड़की द्वारा फोटो पर रोना और ज़ूम-इन इफेक्ट शामिल है, जो उन्नत वीडियो स्टोरीटेलिंग क्षमताओं को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+कृपया अंतिम फ्रेम को छोड़कर छवि अनुक्रम को यथासंभव मूल चित्रों के समान रखें। ये एक विशिष्ट बैंड की तस्वीरें हैं। बिल्ली कैमरे की ओर बढ़ती हुई दिखनी चाहिए, एक हाथ उसे सहलाने के लिए आगे बढ़ता है लेकिन स्पर्श नहीं करता, और हाथ के स्पर्श करने से पहले ही बिल्ली गायब हो जाती है। फोटो में दिखने वाली हरे बालों वाली लड़की असल में वह व्यक्ति है जो मेज़ के किनारे से तस्वीर उठाती है। वह तस्वीर उठाती है और रोते हुए उस पर एक आँसू गिरता है। जैसे ही आँसू गिरता है, कैमरा तस्वीर के फ्रेम में ज़ूम इन करता है, मानो यह मूल पार्टी का लाइव दृश्य हो - बिल्ली अपने पिछले पैरों पर खड़ी होती है और कैमरे की ओर देखती है। कृपया टैनर (Tanner) की यथार्थवादी तस्वीर का उपयोग करें ताकि जब वह खड़ी हो तो उसका रूप वैसा ही दिखे, लेकिन कृपया उसे बाकी अनुक्रम के समान कार्टून शैली में ही रखें, धन्यवाद।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103410441728749568/img/We6onAMRk-2k7MXG.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: भावनात्मक बिल्ली अनुक्रम">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11346)**
+
+**Author:** [Hoppy Cat](https://x.com/hoppycat) | **Source:** [Link](https://x.com/hoppycat/status/2103412194285117499) | **Published:** Sep 25, 2026
+
+---
 ### लकड़ी का टेस्ला साइबरट्रक ड्राइव
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +387,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11265)**
 
 **Author:** [Internet James](https://x.com/iminternetjames) | **Source:** [Link](https://x.com/iminternetjames/status/2103382101416624505) | **Published:** Sep 25, 2026
+
+---
+### नाचते हुए किरदार का वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक ऐसा प्रॉम्प्ट जो एक खुशहाल नृत्य और गाने वाले किरदार के वीडियो को जनरेट करता है, जिसके अंत में चेहरे का क्लोज-अप स्माइल दिखाई देता है। इसमें रिज़ोल्यूशन और अवधि के लिए तकनीकी सेटिंग्स शामिल हैं।
+
+#### 📝 Prompt
+
+```
+दिए गए चित्रों के आधार पर मुझे एक नया वीडियो जनरेट करें, इस प्रॉम्प्ट का उपयोग करते हुए: "व्यक्ति को खुशी से नाचते और गाते हुए दिखाएं, फिर उनके मुस्कुराते चेहरे पर ज़ूम इन करें।" निम्नलिखित सेटिंग्स के साथ: 480p, 6s, auto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103273221508444160/img/WGXaTXANOIw5MXrw.jpg" width="600" alt="नाचते हुए किरदार का वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11354)**
+
+**Author:** [ハル．](https://x.com/HAL000111000) | **Source:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **Published:** Sep 24, 2026
 
 ---
 ### चूहे जैसी महिला का पॉसम में बदलना
@@ -758,6 +958,29 @@ Make a video of him standing. The crown descends and it’s placed on his head. 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11105)**
 
 **Author:** [Alex Stirling](https://x.com/AlexStirlism7) | **Source:** [Link](https://x.com/AlexStirlism7/status/2101831570361348212) | **Published:** Sep 21, 2026
+
+---
+### Veil Dancer Mist Blue Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> मार्बल स्तंभों के बीच धुंध-नीले रेशम में नृत्य करती एक नर्तकी का वीडियो जनरेशन प्रॉम्प्ट, Grok Imagine द्वारा निर्मित।
+
+#### 📝 Prompt
+
+```
+💃 Veil Dancer Series – #70 Mist Blue
+
+वह ठंडे मार्बल स्तंभों के बीच नृत्य करती है, शांत हॉल में धुंध-नीला रेशम बहता हुआ।
+
+Grok Imagine से बनाया गया।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101755776226168832/img/YBgurnXIwRjoLn9n.jpg" width="600" alt="Veil Dancer Mist Blue Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11353)**
+
+**Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **Published:** Sep 20, 2026
 
 ---
 ### Galaxy Rotation Video
@@ -1914,232 +2137,6 @@ I Am Legend का मूवी ट्रेलर, लेकिन इसमे
 **Author:** [Roy](https://x.com/RoyRoy67196892) | **Source:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **Published:** Sep 11, 2026
 
 ---
-### बारिश से बचती हुई माँ चींटी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक नैरेटिव वीडियो प्रॉम्प्ट जिसमें चींटियों का एक परिवार बारिश से बचने के लिए एक पत्ते के नीचे आश्रय ले रहा है।
-
-#### 📝 Prompt
-
-```
-एक माँ चींटी अपने बेटे के साथ भोजन से भरी अपनी गाड़ी खींच रही है। तभी बारिश शुरू हो जाती है, इसलिए वह उसे एक बड़े पत्ते के नीचे ले जाती है जो बारिश रुकने तक आश्रय प्रदान करता है। वह अपने बेटे को पास रहने के लिए आवाज़ लगाती है!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg" width="600" alt="बारिश से बचती हुई माँ चींटी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10799)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
-
----
-### मंगल ग्रह पर रोबोट और वीडियो में ओएसिस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> मंगल ग्रह पर एक ओएसिस को दर्शाने वाला वीडियो, जिसमें गुंबदों में रोशनी है और रोबोट जीवन का निर्माण कर रहे हैं।
-
-#### 📝 Prompt
-
-```
-सभी को शुक्रवार की शाम मुबारक हो।
-आज रात बस एक छोटा सा झलक - मंगल ग्रह पर एक ओएसिस, गुंबदों में रोशनी, और रोबोट जीवन का निर्माण कर रहे हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098477462200147968/img/Njx6sAHlUy-55dbB.jpg" width="600" alt="मंगल ग्रह पर रोबोट और वीडियो में ओएसिस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11008)**
-
-**Author:** [Ninoki](https://x.com/Ninoki111) | **Source:** [Link](https://x.com/Ninoki111/status/2098477739753803836) | **Published:** Sep 11, 2026
-
----
-### ऐतिहासिक पोलिश चर्च ट्रिब्यूट वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> स्क्रैंटन, पेंसिल्वेनिया में स्थित सेक्रेड हार्ट्स ऑफ जीसस एंड मैरी चर्च के 1925 के स्वरूप को दर्शाने वाले एक ऐतिहासिक श्रद्धांजलि वीडियो के लिए प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-सेक्रेड हार्ट्स ऑफ जीसस एंड मैरी चर्च, स्क्रैंटन, पेंसिल्वेनिया को श्रद्धांजलि, लगभग 1925, पोलिश प्रवासियों का पैरिश
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098469271898861568/img/78r7y9inS0-AKtpz.jpg" width="600" alt="ऐतिहासिक पोलिश चर्च ट्रिब्यूट वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
-
-**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
-
----
-### उड़ान का सपना: लेओनार्दो दा विंची
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine द्वारा बनाया गया वीडियो भाग 1, जो मानवता के उड़ान के सपने और लेओनार्दो दा विंची को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-भाग 1: उड़ान का सपना | 0–15 सेकंड
-
-पक्षियों को आकाश में तैरते देखने से लेकर उड़ान मशीनों की कल्पना करने तक, मानवता का उड़ान का सपना एक दृष्टि से शुरू हुआ था। लेओनार्दो दा विंची ने उस सपने को एक विचार में बदलने में मदद की।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098370904942313473/img/rfo920ZzO_nbDXd9.jpg" width="600" alt="उड़ान का सपना: लेओनार्दो दा विंची">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11006)**
-
-**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098396641602740528) | **Published:** Sep 11, 2026
-
----
-### नूडल्स खाने का यथार्थवादी दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक व्यक्ति द्वारा नूडल्स खाने के स्वाभाविक हाव-भाव और गतिविधियों को दर्शाने वाला 15 सेकंड का अत्यधिक यथार्थवादी वीडियो बनाने के लिए एक जटिल टेम्पोरल प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-स्वाभाविक मानवीय गतिविधियों और सटीक टाइमिंग के साथ 15 सेकंड का अत्यधिक यथार्थवादी वीडियो बनाएं।
-
-0–4 सेकंड: वह धीरे-धीरे चॉपस्टिक्स का उपयोग करते हुए नूडल्स को अपने मुंह में डालती है। वह निवाला खत्म करती है और चबाना शुरू करती है।
-
-4–7 सेकंड: वह स्वाभाविक रूप से चबाती है और स्वाद का आनंद लेती है, उसके चेहरे पर हल्की संतुष्टि भरी मुस्कान और सुकून के भाव हैं।
-
-7–9 सेकंड: चबाते समय, वह संक्षेप में बाईं ओर और फिर दाईं ओर देखती है, यह जांचते हुए कि क्या उसके आसपास कोई उसे देख रहा है या उस पर हंस रहा है। उसके चेहरे के भाव थोड़े सतर्क और संकोची हो जाते हैं।
-
-9–12 सेकंड: यह महसूस करने के बाद कि कोई नहीं हंस रहा है, वह सहज हो जाती है, चाय का कप उठाती है और स्वाभाविक रूप से एक घूंट लेती है।
-
-12–15 सेकंड: वह कप नीचे रखती है, फिर लापरवाही से अपनी स्वेटर की आस्तीन से अपना मुंह और गाल पोंछती है, कैमरे की ओर देखती है और एक छोटी, थोड़ी शर्मिंदा लेकिन खुश मुस्कान देती है।
-
-सभी गतिविधियों को निरंतर और भौतिक रूप से यथार्थवादी रखें। संदर्भ छवियों से व्यक्ति, चेहरा, हेयरस्टाइल, कपड़े, वस्तुओं और वातावरण को बिल्कुल वैसा ही बनाए रखें। चेहरे के स्वाभाविक भाव, आंखों की यथार्थवादी हरकतें, चबाने और निगलने की यथार्थवादी प्रक्रिया, हाथों और उंगलियों की सटीक गतिविधियां, नूडल्स, चॉपस्टिक्स और चाय के कप के साथ विश्वसनीय इंटरैक्शन। सूक्ष्म हैंडहेल्ड कैमरा मूवमेंट, स्वाभाविक सांस लेना, त्वचा और कपड़ों की यथार्थवादी गति, गर्म प्राकृतिक प्रकाश। कोई अचानक हरकत नहीं, कोई मॉर्फिंग नहीं, चेहरे में कोई विकृति नहीं, कोई अतिरिक्त उंगलियां नहीं, कोई डुप्लिकेट वस्तुएं नहीं, मुंह की कोई अप्राकृतिक हरकत नहीं, कोई अतिरंजित भाव नहीं, कोई बातचीत नहीं, कोई सबटाइटल नहीं, कोई टेक्स्ट ओवरले नहीं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098327215234838528/img/UBN3YsyfsnZP1A25.jpg" width="600" alt="नूडल्स खाने का यथार्थवादी दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
-
-**Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
-
----
-### NYC City That Never Sleeps Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Video segment describing New York City after dark with a shining skyline.
-
-#### 📝 Prompt
-
-```
-Part 4 (45–60s): The City That Never Sleeps
-
-New York City after dark—where the skyline shines brighter than the stars.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098360939825532928/img/kt9lSCEFM_180S6i.jpg" width="600" alt="NYC City That Never Sleeps Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11007)**
-
-**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098361333574181177) | **Published:** Sep 11, 2026
-
----
-### Klimt स्टाइल का Sci-Fi नाइट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गुस्ताव क्लिम्ट (Gustav Klimt) की कलात्मक शैली को भविष्यवादी Sci-Fi तत्वों जैसे कि बख्तरबंद शूरवीरों और अंतरिक्ष महलों के साथ जोड़ने वाला एक अत्यधिक विस्तृत वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-कोई बात नहीं… क्लिम्ट की शैली में एक स्वप्निल ऑयल पेंटिंग, जिसमें एक Sci-Fi बख्तरबंद, आकर्षक, सुंदर, भविष्यवादी, नेक शूरवीर एक प्यारी महिला को पकड़े हुए है, साथ ही अंतरिक्ष यान, अंतरिक्ष महल, झरने, रोशनी, कोई अतिरिक्त हाथ नहीं…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098280958990684160/img/Iunubct5b1JoM7nk.jpg" width="600" alt="Klimt स्टाइल का Sci-Fi नाइट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10743)**
-
-**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2098281502828290435) | **Published:** Sep 11, 2026
-
----
-### गैलरी बोर्गेस में फ्रांसीसी महिला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें आर्ट गैलरी में एक सुडौल फ्रांसीसी महिला है, जिसे म्यूट ऑटमनल (पतझड़) एस्थेटिक के साथ स्टाइल किया गया है।
-
-#### 📝 Prompt
-
-```
-गैलरी बोर्गेस में एक युवा, सुडौल फ्रांसीसी महिला, जिसने म्यूट फॉल आउटफिट पहना हुआ है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097730338063867904/img/SmNwegNFPyTKV9X-.jpg" width="600" alt="गैलरी बोर्गेस में फ्रांसीसी महिला">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10740)**
-
-**Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **Published:** Sep 11, 2026
-
----
-### मार्शल आर्ट्स एस्पिरेंट वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जिसमें एक व्यक्ति व्यायाम करते हुए अगले महान मार्शल आर्टिस्ट बनने के बारे में बात कर रहा है।
-
-#### 📝 Prompt
-
-```
-एक वीडियो जिसमें एक व्यक्ति सिट-अप्स कर रहा है और ब्रूस ली के बाद अगला ड्रैगन बनने के बारे में बात कर रहा है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098225139926048774/img/DB104i5PfQFso7pI.jpg" width="600" alt="मार्शल आर्ट्स एस्पिरेंट वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10801)**
-
-**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2098225163804319793) | **Published:** Sep 11, 2026
-
----
-### पारंपरिक चीनी नृत्य कोरियोग्राफी
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> एक 20 वर्षीय पूर्वी एशियाई महिला के लिए एक विस्तृत वीडियो प्रॉम्प्ट, जो गुलाबी और सुनहरे रंग के लहराते गाउन में पारंपरिक नृत्य कर रही है, जिसमें विशिष्ट कोरियोग्राफी चरण और गति का विवरण शामिल है।
-
-#### 📝 Prompt
-
-```
-20 वर्षीय पूर्वी एशियाई महिला, एक समान रूप और नृत्य गतिविधियों को बनाए रखते हुए। गुलाबी-सफेद-सुनहरे ग्रेडिएंट वाले उच्च-स्तरीय प्राचीन शैली के चेस्ट-हाई चौड़ी आस्तीन वाले लहराते गाउन पहने हुए, स्कर्ट सुनहरे धागे से कढ़ाई किए गए फूलों के पैटर्न से ढकी हुई है, जिसमें पतले, पारदर्शी सुनहरे किनारे वाले गॉज़ रिबन हैं। कपड़ा हवा के साथ स्वाभाविक रूप से और गतिशील रूप से लहराता है, स्कर्ट में ड्रेप की मजबूत भावना है, और इसे महीन मोती के आभूषणों से सजाया गया है। उत्तम प्राचीन शैली के कढ़ाई वाले सॉफ्ट-सोल्ड जूते, कुल मिलाकर भव्य और सौम्य। उच्च पैर की गतिविधियों के दौरान शालीनता सुनिश्चित करने के लिए लाइनिंग पैंट शामिल हैं। हवा के साथ शालीनता से नृत्य करना; हल्का और फुर्तीला; प्राचीन शैली के जूड़े में काले लंबे बाल, जिसके साथ मेल खाते उत्तम हेयर एक्सेसरीज़ हैं। प्रारंभिक मुद्रा: बाएं पैर पर खड़े होना, दाहिना पैर आगे की ओर मुड़ा हुआ, शरीर दाहिने पैर के सहारे आगे की ओर झुका हुआ, आंखें नीचे की ओर; दाहिना हाथ सिर के ऊपर दाईं ओर उठा हुआ, बायां हाथ पीछे और ऊपर की ओर फैला हुआ। 1. शरीर धीरे-धीरे सीधा खड़ा होता है, थोड़ा पीछे झुकता है, दाहिना पैर एक साथ सीधा ऊपर उठता है, हाथ कनपटी पर, कंधे धीरे-धीरे हिलते हुए, सिर का पूरा चक्कर; 2. बायां हाथ ऊपर से नीचे की ओर सिर का चक्कर लगाता है, दाहिना हाथ नीचे से ऊपर की ओर छाती का चक्कर लगाता है; 3. शरीर बाईं ओर मुड़ता है, नीचे देखते हुए, उंगलियां चेहरे के ऊपर क्रॉस करती हैं, हाथ धीरे-धीरे अलग होते हैं; 4. दाहिना हाथ ऊपर की ओर झूलता है, बायां हाथ नीचे की ओर फैलता है, दाहिना पैर शरीर को घुमाने के लिए एक गोलाकार चाप बनाता है; 5. दाहिना पैर जमीन पर आता है, बायां पैर अंदर की ओर मुड़ता है, शरीर सुचारू रूप से घूमते हुए 90 डिग्री पीछे झुकता है, मुस्कान के साथ आंखें बंद, हथेलियां ठुड्डी पर हल्की हिलती हुई; 6. हाथों के साथ फ्रीज फ्रेम जो ऊपरी शरीर के चारों ओर एक गोलाकार चाप बनाते हैं; 7. अंगूठे और तर्जनी उंगलियां आपस में जुड़ी हुई, छाती से सिर के ऊपर तक उठाई गई; 8. शरीर दाईं ओर मुड़ता है, बायां हाथ ठुड्डी तक चाप बनाता है, दाहिनी उंगलियां भौंह को छूकर दाईं ओर ऊपर की ओर फैलती हैं, कलाई बाहर की ओर दबी हुई, सुनहरे आभूषणों के दो झटकों के साथ। वातावरण: हैवी मेटल ड्रम संगीत, उज्ज्वल लय; वॉल्यूमेट्रिक सॉफ्ट लाइट, नाजुक त्वचा बनावट, प्राकृतिक बाल और कपड़े की गति, सुचारू गतिशीलता। नेगेटिव: धुंधला, कम रिज़ॉल्यूशन, विकृत अंग, गति में अंतराल, वॉटरमार्क। 15 सेकंड का सुसंगत वीडियो जेनरेट करें। 9:16 आस्पेक्ट रेशियो।
-```
-
-<img src="https://cms-assets.youmind.com/media/1789112669710_10a9cd_HR5gsMZbwAAWt4k.png" width="600" alt="पारंपरिक चीनी नृत्य कोरियोग्राफी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10745)**
-
-**Author:** [George Qiao](https://x.com/QiaoGeorge) | **Source:** [Link](https://x.com/QiaoGeorge/status/2098223994134794350) | **Published:** Sep 11, 2026
-
----
-### छोटा बेडरूम एनिमेशन लूप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> कैंडललाइट वाले कमरे में पात्रों को दर्शाने वाले 6-सेकंड के वीडियो लूप के लिए एक संक्षिप्त प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-6 सेकंड का वीडियो। बेस के रूप में बिल्कुल वैसा ही Mía Gabriel बेडरूम। 9:16 कैंडल लाइट। केवल एनिमेट करें। चेहरे वही रहने चाहिए।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098149376677810191/img/n3LdIimrezq2cBqz.jpg" width="600" alt="छोटा बेडरूम एनिमेशन लूप">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10744)**
-
-**Author:** [Gabriel](https://x.com/riquitoboy47) | **Source:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **Published:** Sep 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2201,6 +2198,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-26T04:45:30.626Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-26T13:08:40.411Z</sub>
 
 </div>

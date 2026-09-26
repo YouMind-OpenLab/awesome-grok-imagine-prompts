@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2891** |
+| 📝 Total Prompts | **2902** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-09-26** |
 
@@ -189,6 +189,187 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video Prompt: การแปลงอัตราส่วนภาพเป็นจัตุรัส
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำอธิบายอย่างละเอียดสำหรับการแปลงรูปภาพหรือวิดีโอให้อยู่ในอัตราส่วนจัตุรัส 1:1 โดยยังคงสไตล์และวัตถุหลักไว้
+
+#### 📝 Prompt
+
+```
+แปลงรูปภาพนี้เป็นอัตราส่วนจัตุรัส 1:1 โดยคงวัตถุหลัก (เทียนรูปหัวกะโหลกเรืองแสง) ให้เด่นชัดและจัดองค์ประกอบใหม่อย่างชาญฉลาดหรือตัดขอบภาพให้เหมาะสม รักษาสไตล์ศิลปะ แสง สี รายละเอียด คุณภาพ และองค์ประกอบเดิมไว้
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103680504524386304/img/wmISBSwrROyqUQkC.jpg" width="600" alt="Grok Imagine Video Prompt: การแปลงอัตราส่วนภาพเป็นจัตุรัส">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11345)**
+
+**Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2103680519401799927) | **Published:** Sep 26, 2026
+
+---
+### ฉากเปลี่ยนผ่านฮอโลเดกแนว Sci-Fi Western
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำอธิบายแบบละเอียดสำหรับฉากเปลี่ยนผ่านจากห้องกริดดิจิทัลไปยังถนนสไตล์ตะวันตกยุคเก่า ซึ่งสร้างด้วย Grok Imagine
+
+#### 📝 Prompt
+
+```
+ลูกเรืออวกาศยังคงผจญภัยต่อไปในฮอโลเดกจำลอง พวกเขาเดินผ่านห้องกริดสีดำและทอง และพื้นใต้เท้าก็ค่อยๆ เปลี่ยนรูปทีละขั้นกลายเป็นถนนฝุ่นตลบของเมืองตะวันตกยุคเก่า — แสงดิจิทัลเย็นๆ หลอมละลายกลายเป็นแสงแดดอบอุ่นบนไม้และหินทราย
+
+จากห้องกริดสู่ตะวันตกยุคเก่า, การเปลี่ยนแปลงขณะเดิน, ตัวอักษรวงจรเรืองแสง, เผยโฉมร้านเหล้า (Saloon), การเปลี่ยนจากดิจิทัลเป็นแอนะล็อก, ภาพยนตร์แนว Sci-Fi Western
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103637291306463232/img/UT8jSgJxBPT6YHDL.jpg" width="600" alt="ฉากเปลี่ยนผ่านฮอโลเดกแนว Sci-Fi Western">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11355)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2103637378779009309) | **Published:** Sep 26, 2026
+
+---
+### พรอมต์วิดีโอการพูดคนเดียวของ Tom Cruise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอที่ Tom Cruise แสดงบทพูดคนเดียวตลกขบขันในฐานะตัวละครเฉพาะในละครที่ซับซ้อนเกินไป
+
+#### 📝 Prompt
+
+```
+Tom Cruise แสดงบทพูดคนเดียวที่น่าเบื่อในบทบาทของ Plurpooty Tzavavastovo นักชิมอาหารติดสุราที่หมดสมัย ในละครเรื่อง Schmutz on the Psyche ของ Eugene O'Neill ที่ถูกค้นพบใหม่แต่มีความซับซ้อนมากเกินไป
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103630585751105536/img/3cSKAhTp7w5bs5_s.jpg" width="600" alt="พรอมต์วิดีโอการพูดคนเดียวของ Tom Cruise">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11347)**
+
+**Author:** [(((Simon Hardy Butler)))🇺🇸🇮🇱🇺🇦](https://x.com/SimonHButler) | **Source:** [Link](https://x.com/SimonHButler/status/2103630614973096137) | **Published:** Sep 25, 2026
+
+---
+### พรอมต์วิดีโอ Vlog มหาวิทยาลัยในยุโรป
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แบบละเอียดสำหรับสร้างวิดีโอ vlog มหาวิทยาลัยสมจริงความยาว 10 วินาที พร้อมบทสนทนาและสไตล์การถ่ายทำที่เฉพาะเจาะจง
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอ vlog มหาวิทยาลัยแบบไลฟ์แอ็กชันสมจริงระดับอัลตราโฟโตเรียลิสติก ความยาว 10 วินาที ของหญิงสาวผมสีน้ำตาลชาวยุโรปวัยกลางๆ ช่วงอายุ 20 ต้นๆ ที่ตื่นนอนในเช้าวันฝนตก ชงกาแฟ เตรียมตัว หยิบร่ม เดินผ่านเมืองที่เปียกชื้น และมาถึงมหาวิทยาลัยก่อนเข้าเรียนเพียงเล็กน้อย
+
+สไตล์ vlog ด้วยสมาร์ทโฟนสมัยใหม่: การเคลื่อนไหวแบบแฮนด์เฮลด์ตามธรรมชาติ สั่นไหวเล็กน้อย เปลี่ยนจุดโฟกัสอัตโนมัติ ฝนตกจริง แอ่งน้ำ สะท้อนแสง การจราจร ร่ม เสื้อผ้าเปียก สีหน้าเป็นธรรมชาติ และการเคลื่อนไหวของมนุษย์ที่น่าเชื่อถือ
+
+บทสนทนา: "สวัสดีตอนเช้า... ดูเหมือนว่าฝนจะตก" → "กาแฟแก้วแรก แล้วค่อยไปฟังบรรยาย" → "มาก่อนเวลาสองนาที ประทับใจตัวเองจัง" → "โอเค มาทันพอดี"
+
+ใช้เสียงประกอบจากฉากจริง (diegetic audio) เท่านั้น ห้ามมีดนตรี เสียงบรรยาย ภาพ CGI ฝนสังเคราะห์ ใบหน้าเปลี่ยน โครงสร้างร่างกายบิดเบี้ยว ฟิสิกส์ที่เป็นไปไม่ได้ ซับไตเติ้ล โลโก้ หรือลายน้ำ
+
+16:9 • 24fps • 4K • Ultra-photorealistic live action
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103629375711387648/img/pC3oG5XUNPsnTjIs.jpg" width="600" alt="พรอมต์วิดีโอ Vlog มหาวิทยาลัยในยุโรป">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11348)**
+
+**Author:** [Yogi](https://x.com/cyberyogiii) | **Source:** [Link](https://x.com/cyberyogiii/status/2103629403284742531) | **Published:** Sep 25, 2026
+
+---
+### อัศวินมีปีกบนหลังม้าสีแดง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอ แสดงภาพอัศวินมีปีกสีดำ ขี่ม้าสีแดงที่มีลายเส้นสีเหลือง และแมลงปอ
+
+#### 📝 Prompt
+
+```
+อัศวินมีปีกขนนกสีดำขนาดใหญ่ ขี่ม้าสีแดงที่มีลายเส้นสีเหลือง มีแมลงปอตัวเล็กสีเหลืองบินอยู่เหนือหมวกเกราะของอัศวิน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103513454007189504/img/tm8hSbReTHDnz-yu.jpg" width="600" alt="อัศวินมีปีกบนหลังม้าสีแดง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11352)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2103513537067061561) | **Published:** Sep 25, 2026
+
+---
+### ภาพเคลื่อนไหวการนอนหลับอย่างสงบ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอที่แสดงคู่รักกำลังนอนหลับอย่างสงบพร้อมจังหวะการหายใจที่แผ่วเบา
+
+#### 📝 Prompt
+
+```
+ชายและหญิงยังคงหลับสนิทอยู่บนเตียง หายใจเข้าออกอย่างอ่อนโยนและสม่ำเสมอ เห็นหน้าอกขึ้นลงเล็กน้อย ศีรษะขยับนิดๆ อย่างธรรมชาติ ตาปิดสนิท ใบหน้าผ่อนคลาย แสงในห้องนอนสลัวและเงียบสงบ ภาพยนตร์สมจริงแบบสโลว์โมชั่น แสดงการนอนหลับอย่างสงบ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103501155728863232/img/xegDEZqgqAvZJjwf.jpg" width="600" alt="ภาพเคลื่อนไหวการนอนหลับอย่างสงบ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11351)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2103501201031454753) | **Published:** Sep 25, 2026
+
+---
+### วิธีแก้กระจกหน้ารถแตกใน Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งสร้างวิดีโอที่บอกให้โมเดลคงฉากเดิมไว้ แต่ป้องกันไม่ให้กระจกหน้ารถแตก
+
+#### 📝 Prompt
+
+```
+คงทุกอย่างไว้เหมือนเดิม แต่ห้ามให้กระจกหน้ารถแตก… โอเค แบบนี้ดูดีกว่า 😅✌️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103472843597955073/img/pyYzeVZPnu-L73Xo.jpg" width="600" alt="วิธีแก้กระจกหน้ารถแตกใน Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11349)**
+
+**Author:** [Johnny🛸](https://x.com/JohnnySchwifty) | **Source:** [Link](https://x.com/JohnnySchwifty/status/2103472876490011060) | **Published:** Sep 25, 2026
+
+---
+### อัศวิน Dark Souls ในโรงเตี๊ยม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอที่อธิบายถึงอัศวินในชุดเกราะสไตล์ Dark Souls ที่เดินเข้ามาในฉาก ดูงุนงง แล้วจากไป
+
+#### 📝 Prompt
+
+```
+อัศวินผู้สวมหมวกเกราะประดับขนนกขนาดใหญ่ เดินเข้ามาในฉากพร้อมชุดเกราะสไตล์ Dark Souls อันงดงาม มองไปรอบๆ อย่างงุนงง จากนั้นก็เดินจากไป
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103453452563353600/img/5rPljdkUrSjsiYjv.jpg" width="600" alt="อัศวิน Dark Souls ในโรงเตี๊ยม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11350)**
+
+**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103453550328332629) | **Published:** Sep 25, 2026
+
+---
+### พรอมต์วิดีโอ Grok Imagine: ลำดับภาพอารมณ์ของแมว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เล่าเรื่องเชิงซ้อนที่ประกอบด้วยฉากแมวหายตัวไป เด็กหญิงร้องไห้กับภาพถ่าย และเอฟเฟกต์ซูมเข้า เพื่อแสดงความสามารถขั้นสูงในการเล่าเรื่องผ่านวิดีโอ
+
+#### 📝 Prompt
+
+```
+โปรดคงลำดับภาพทั้งหมดไว้ ยกเว้นเฟรมสุดท้าย โดยให้ใกล้เคียงกับภาพต้นฉบับมากที่สุด นี่คือภาพของวงดนตรีเฉพาะกลุ่ม แมวควรเดินเข้ามาหากล้อง มีมือยื่นออกมาเพื่อจะลูบแต่ไม่ได้สัมผัส และแมวหายไปก่อนที่มือจะทันได้ลูบมัน ภาพเด็กหญิงผมสีเขียวในรูปถ่ายถูกเปิดเผยว่าเป็นคนเดียวกันกับที่ยื่นมือไปหยิบรูปตรงขอบโต๊ะ เธอหยิบรูปขึ้นมาและมีน้ำตาหยดลงบนรูปเมื่อเธอเริ่มร้องไห้ ขณะที่น้ำตาร่วงลง กล้องจะซูมเข้าไปในกรอบรูปเหมือนเป็นเหตุการณ์สดในงานปาร์ตี้เดิม - แมวตั้งตัวขึ้นยืนด้วยขาหลังและมองมาที่กล้อง โปรดใช้ภาพ Tanner แบบสมจริง (photorealistic) เป็นแบบสำหรับท่าทางตอนที่เธอลุกขึ้นยืน แต่ยังคงรูปแบบการ์ตูนของเธอไว้ให้สอดคล้องกับลำดับภาพอื่นๆ ขอบคุณ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103410441728749568/img/We6onAMRk-2k7MXG.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine: ลำดับภาพอารมณ์ของแมว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11346)**
+
+**Author:** [Hoppy Cat](https://x.com/hoppycat) | **Source:** [Link](https://x.com/hoppycat/status/2103412194285117499) | **Published:** Sep 25, 2026
+
+---
 ### Tesla Cybertruck ขับขึ้นแม่น้ำหิน
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +387,25 @@ Tesla Cybertruck กำลังขับขึ้นแม่น้ำที่
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11265)**
 
 **Author:** [Internet James](https://x.com/iminternetjames) | **Source:** [Link](https://x.com/iminternetjames/status/2103382101416624505) | **Published:** Sep 25, 2026
+
+---
+### พรอมต์วิดีโอตัวละครเต้นรำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอที่ตัวละครเต้นและร้องเพลงอย่างมีความสุข โดยจบด้วยภาพโคลสอัพรอยยิ้ม พร้อมการตั้งค่าทางเทคนิคสำหรับความละเอียดและระยะเวลา
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอใหม่จากภาพที่กำหนดให้โดยใช้พรอมต์นี้: "ให้คนในวิดีโอเต้นและร้องเพลงอย่างมีความสุข จากนั้นซูมเข้าที่ใบหน้าที่ยิ้มแย้ม" พร้อมกับการตั้งค่าดังนี้: ความละเอียด 480p, ระยะเวลา 6 วินาที, อัตโนมัติ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103273221508444160/img/WGXaTXANOIw5MXrw.jpg" width="600" alt="พรอมต์วิดีโอตัวละครเต้นรำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11354)**
+
+**Author:** [ハル．](https://x.com/HAL000111000) | **Source:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **Published:** Sep 24, 2026
 
 ---
 ### หญิงสาวหนูแปลงร่างเป็นโอพอสซัม
@@ -756,6 +956,29 @@ AI video — ภาพยนตร์แนวตั้ง 9:16
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11105)**
 
 **Author:** [Alex Stirling](https://x.com/AlexStirlism7) | **Source:** [Link](https://x.com/AlexStirlism7/status/2101831570361348212) | **Published:** Sep 21, 2026
+
+---
+### พรอมต์วิดีโอ นักเต้นผ้าคลุม สีฟ้าหมอก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอของนักเต้นในชุดผ้าไหมสีฟ้าหมอกท่ามกลางเสาหินอ่อน สร้างด้วย Grok Imagine
+
+#### 📝 Prompt
+
+```
+💃 ซีรีส์นักเต้นผ้าคลุม – #70 สีฟ้าหมอก
+
+เธอเต้นรำท่ามกลางเสาหินอ่อนเย็นฉ่ำ ผ้าไหมสีฟ้าหมอกพลิ้วไหวในโถงเงียบสงบ
+
+สร้างด้วย Grok Imagine
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101755776226168832/img/YBgurnXIwRjoLn9n.jpg" width="600" alt="พรอมต์วิดีโอ นักเต้นผ้าคลุม สีฟ้าหมอก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11353)**
+
+**Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **Published:** Sep 20, 2026
 
 ---
 ### วิดีโอการหมุนของกาแล็กซี
@@ -1912,232 +2135,6 @@ Lady StarWeaver และลูกเสือดำ 2 ตัวอาศัย�
 **Author:** [Roy](https://x.com/RoyRoy67196892) | **Source:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **Published:** Sep 11, 2026
 
 ---
-### แม่มดลูกมดหลบฝน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับวิดีโอเล่าเรื่องราวของครอบครัวมดที่กำลังหาที่หลบฝนใต้ใบไม้
-
-#### 📝 Prompt
-
-```
-แม่มดกำลังลากรถเข็นอาหารโดยมีลูกมดเดินตามมาด้วย ทันใดนั้นฝนก็เริ่มตก เธอจึงรีบลากรถเข้าไปใต้ใบไม้ขนาดใหญ่เพื่อใช้เป็นที่กำบังจนกว่าฝนจะหยุด พร้อมกับตะโกนเรียกให้ลูกมดอยู่ใกล้ๆ เธอไว้!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg" width="600" alt="แม่มดลูกมดหลบฝน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10799)**
-
-**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **Published:** Sep 11, 2026
-
----
-### วิดีโอโอเอซิสบนดาวอังคารและหุ่นยนต์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอที่แสดงภาพโอเอซิสบนดาวอังคาร พร้อมแสงไฟในโดมและหุ่นยนต์ที่กำลังสร้างสิ่งมีชีวิต
-
-#### 📝 Prompt
-
-```
-ขอให้ทุกคนมีค่ำคืนวันศุกร์ที่สุขสันต์
-คืนนี้ขอแบ่งปันเพียงช่วงเวลาสั้นๆ - ภาพโอเอซิสบนดาวอังคาร แสงไฟภายในโดม และหุ่นยนต์ที่กำลังสร้างสรรค์สิ่งมีชีวิต
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098477462200147968/img/Njx6sAHlUy-55dbB.jpg" width="600" alt="วิดีโอโอเอซิสบนดาวอังคารและหุ่นยนต์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11008)**
-
-**Author:** [Ninoki](https://x.com/Ninoki111) | **Source:** [Link](https://x.com/Ninoki111/status/2098477739753803836) | **Published:** Sep 11, 2026
-
----
-### วิดีโอรำลึกประวัติศาสตร์โบสถ์โปแลนด์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสำหรับการรำลึกถึงประวัติศาสตร์ของโบสถ์ Sacred Hearts of Jesus and Mary ในเมืองสแครนตัน รัฐเพนซิลเวเนีย ในช่วงปี 1925
-
-#### 📝 Prompt
-
-```
-วิดีโอรำลึกถึงโบสถ์ Sacred Hearts of Jesus and Mary ในเมืองสแครนตัน รัฐเพนซิลเวเนีย ประมาณปี 1925 ซึ่งเป็นเขตแพริชของผู้อพยพชาวโปแลนด์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098469271898861568/img/78r7y9inS0-AKtpz.jpg" width="600" alt="วิดีโอรำลึกประวัติศาสตร์โบสถ์โปแลนด์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10798)**
-
-**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **Published:** Sep 11, 2026
-
----
-### ความฝันที่จะบินของ เลโอนาร์โด ดา วินชี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอส่วนที่ 1 อธิบายถึงความฝันของมนุษยชาติในการบินและ เลโอนาร์โด ดา วินชี สร้างขึ้นด้วย Grok Imagine
-
-#### 📝 Prompt
-
-```
-ส่วนที่ 1: ความฝันที่จะบิน | 0–15 วินาที
-
-จากการเฝ้าดูนกโผบินไปจนถึงการจินตนาการถึงเครื่องจักรบินได้ ความฝันของมนุษยชาติที่จะบินเริ่มต้นจากวิสัยทัศน์ เลโอนาร์โด ดา วินชี ช่วยเปลี่ยนความฝันนั้นให้เป็นแนวคิด
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098370904942313473/img/rfo920ZzO_nbDXd9.jpg" width="600" alt="ความฝันที่จะบินของ เลโอนาร์โด ดา วินชี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11006)**
-
-**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098396641602740528) | **Published:** Sep 11, 2026
-
----
-### ลำดับภาพการกินบะหมี่ที่สมจริง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ชุดคำสั่งเชิงเวลาที่ซับซ้อนสำหรับการสร้างวิดีโอความยาว 15 วินาทีที่สมจริงอย่างยิ่ง ของบุคคลที่กำลังกินบะหมี่ด้วยท่าทางและอารมณ์ที่เป็นธรรมชาติ
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอความยาว 15 วินาทีที่สมจริงอย่างยิ่ง พร้อมการเคลื่อนไหวของมนุษย์ที่เป็นธรรมชาติและจังหวะเวลาที่น่าเชื่อถือ
-
-0–4 วินาที: เธอค่อยๆ คีบบะหมี่เข้าปากโดยใช้ตะเกียบอย่างเป็นธรรมชาติ เธอเคี้ยวบะหมี่จนหมดคำและเริ่มเคี้ยว
-
-4–7 วินาที: เธอเคี้ยวอย่างเป็นธรรมชาติและแสดงออกว่าเพลิดเพลินกับรสชาติอย่างเห็นได้ชัด โดยมีรอยยิ้มที่พึงพอใจเล็กน้อยและสีหน้าที่ผ่อนคลาย
-
-7–9 วินาที: ในขณะที่เคี้ยว เธอหันไปมองทางซ้ายและขวาครู่หนึ่ง เพื่อดูว่ามีใครรอบข้างกำลังมองหรือหัวเราะเยาะเธอหรือไม่ สีหน้าของเธอเริ่มดูระมัดระวังและประหม่าเล็กน้อย
-
-9–12 วินาที: เธอผ่อนคลายลงหลังจากตระหนักว่าไม่มีใครหัวเราะ จากนั้นจึงหยิบถ้วยชาขึ้นมาจิบอย่างเป็นธรรมชาติ
-
-12–15 วินาที: เธอวางถ้วยชาลง จากนั้นเช็ดปากและแก้มด้วยแขนเสื้อสเวตเตอร์อย่างไม่ใส่ใจนัก ก่อนจะหันมามองกล้องแล้วยิ้มเล็กน้อยด้วยความเขินอายแต่ก็มีความสุข
-
-รักษาความต่อเนื่องของการเคลื่อนไหวให้สมจริงตามหลักฟิสิกส์ คงรายละเอียดของบุคคล ใบหน้า ทรงผม เสื้อผ้า วัตถุ และสภาพแวดล้อมจากภาพอ้างอิงไว้อย่างครบถ้วน แสดงสีหน้าที่เป็นธรรมชาติ การเคลื่อนไหวของดวงตาที่สมจริง การเคี้ยวและการกลืนที่ดูเป็นธรรมชาติ การเคลื่อนไหวของมือและนิ้วที่แม่นยำ การโต้ตอบกับบะหมี่ ตะเกียบ และถ้วยชาที่น่าเชื่อถือ มีการเคลื่อนไหวกล้องแบบถือถ่ายเล็กน้อย การหายใจที่เป็นธรรมชาติ การเคลื่อนไหวของผิวหนังและเนื้อผ้าที่สมจริง แสงธรรมชาติที่อบอุ่น ห้ามมีการเคลื่อนไหวที่ฉับพลัน ห้ามมีการเปลี่ยนรูปร่าง (morphing) ห้ามใบหน้าบิดเบี้ยว ห้ามนิ้วเกิน ห้ามวัตถุซ้ำซ้อน ห้ามการเคลื่อนไหวของปากที่ไม่เป็นธรรมชาติ ห้ามการแสดงออกที่เกินจริง ห้ามมีการพูด ห้ามมีคำบรรยาย และห้ามมีข้อความซ้อนทับ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098327215234838528/img/UBN3YsyfsnZP1A25.jpg" width="600" alt="ลำดับภาพการกินบะหมี่ที่สมจริง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10797)**
-
-**Author:** [AI_Courier](https://x.com/arc_courier) | **Source:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **Published:** Sep 11, 2026
-
----
-### วิดีโอ นิวยอร์กซิตี้ เมืองที่ไม่เคยหลับใหล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอส่วนที่บรรยายภาพมหานครนิวยอร์กในยามราตรีพร้อมเส้นขอบฟ้าที่ส่องประกายระยิบระยับ
-
-#### 📝 Prompt
-
-```
-ตอนที่ 4 (45–60 วินาที): เมืองที่ไม่เคยหลับใหล
-
-มหานครนิวยอร์กในยามราตรี—ที่ซึ่งเส้นขอบฟ้าส่องสว่างเจิดจ้ายิ่งกว่าดวงดาว
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098360939825532928/img/kt9lSCEFM_180S6i.jpg" width="600" alt="วิดีโอ นิวยอร์กซิตี้ เมืองที่ไม่เคยหลับใหล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11007)**
-
-**Author:** [Ethan Ray](https://x.com/ItsEthanRay) | **Source:** [Link](https://x.com/ItsEthanRay/status/2098361333574181177) | **Published:** Sep 11, 2026
-
----
-### อัศวินไซไฟในสไตล์ Klimt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่มีรายละเอียดสูง ซึ่งผสมผสานสไตล์ศิลปะของ Gustav Klimt เข้ากับองค์ประกอบไซไฟแห่งอนาคต เช่น อัศวินสวมเกราะและพระราชวังในอวกาศ
-
-#### 📝 Prompt
-
-```
-ไม่ต้องพูดอะไรมาก... ภาพวาดสีน้ำมันชวนฝันในสไตล์ของ Klimt ของอัศวินไซไฟสวมเกราะที่ดูมีเสน่ห์ หล่อเหลา ล้ำสมัย และดูดี กำลังโอบกอดหญิงสาวผู้งดงาม มีทั้งยานอวกาศ พระราชวังในอวกาศ น้ำตก แสงสว่าง และไม่มีแขนงอกเกินมา...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098280958990684160/img/Iunubct5b1JoM7nk.jpg" width="600" alt="อัศวินไซไฟในสไตล์ Klimt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10743)**
-
-**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2098281502828290435) | **Published:** Sep 11, 2026
-
----
-### หญิงสาวชาวฝรั่งเศสใน Galleria Borghese
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่นำเสนอหญิงสาวชาวฝรั่งเศสรูปร่างสง่างามในหอศิลป์ โดยเน้นสไตล์โทนสีฤดูใบไม้ร่วงที่ดูนุ่มนวล
-
-#### 📝 Prompt
-
-```
-หญิงสาวชาวฝรั่งเศสรูปร่างสง่างามในหอศิลป์ Galleria Borghese สวมชุดในโทนสีฤดูใบไม้ร่วงที่ดูนุ่มนวล
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097730338063867904/img/SmNwegNFPyTKV9X-.jpg" width="600" alt="หญิงสาวชาวฝรั่งเศสใน Galleria Borghese">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10740)**
-
-**Author:** [Jourdan Fernandez](https://x.com/VisualTreats) | **Source:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **Published:** Sep 11, 2026
-
----
-### วิดีโอผู้มุ่งมั่นในศิลปะการต่อสู้
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่บรรยายถึงชายคนหนึ่งกำลังออกกำลังกายพร้อมกับพูดถึงการเป็นนักศิลปะการต่อสู้ผู้ยิ่งใหญ่คนต่อไป
-
-#### 📝 Prompt
-
-```
-วิดีโอของชายคนหนึ่งกำลังซิทอัพและพูดถึงการเป็นมังกรตัวต่อไปต่อจาก บรูซ ลี
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098225139926048774/img/DB104i5PfQFso7pI.jpg" width="600" alt="วิดีโอผู้มุ่งมั่นในศิลปะการต่อสู้">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10801)**
-
-**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2098225163804319793) | **Published:** Sep 11, 2026
-
----
-### การออกแบบท่าเต้นรำจีนโบราณ
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์วิดีโอแบบละเอียดสำหรับหญิงสาวชาวเอเชียตะวันออกอายุ 20 ปี ที่กำลังร่ายรำแบบดั้งเดิมในชุดกระโปรงสีชมพูทองพริ้วไหว พร้อมรายละเอียดขั้นตอนการเต้นและการเคลื่อนไหวที่เฉพาะเจาะจง
-
-#### 📝 Prompt
-
-```
-หญิงสาวชาวเอเชียตะวันออกอายุ 20 ปี รักษาลักษณะหน้าตาและการเคลื่อนไหวในการเต้นให้คงเดิม สวมชุดกระโปรงโบราณระดับไฮเอนด์ไล่เฉดสีชมพู-ขาว-ทอง แบบเกาะอกแขนกว้างที่พริ้วไหว ตัวกระโปรงปักลวดลายดอกไม้ด้วยด้ายทอง ประดับด้วยริบบิ้นผ้าโปร่งขอบทองบางเบา เนื้อผ้าพริ้วไหวอย่างเป็นธรรมชาติและมีชีวิตชีวาตามแรงลม กระโปรงมีทิ้งตัวสวยงามและประดับด้วยเครื่องประดับมุกละเอียด สวมรองเท้าพื้นนิ่มปักลายโบราณที่ประณีต โดยรวมดูงดงามและอ่อนหวาน มีกางเกงซับในเพื่อความมิดชิดขณะเคลื่อนไหวขาในระดับสูง ร่ายรำอย่างสง่างามไปกับสายลม ดูเบาสบายและคล่องแคล่ว ผมยาวสีดำเกล้าเป็นมวยแบบโบราณพร้อมเครื่องประดับผมที่เข้าชุดกันอย่างประณีต ท่าเริ่มต้น: ยืนด้วยขาซ้าย ขาขวางอไปข้างหน้า ร่างกายโน้มไปข้างหน้าตามขาขวา สายตามองต่ำ มือขวายกขึ้นเหนือศีรษะด้านขวา มือซ้ายยืดไปด้านหลังและด้านบน 1. ร่างกายค่อยๆ ยืนตัวตรง โน้มไปด้านหลังเล็กน้อย ขาขวายกตรงขึ้นพร้อมกัน มือแตะที่ขมับ ไหล่สั่นเบาๆ ศีรษะหมุนเป็นวงกลม 2. มือซ้ายวาดเป็นวงกลมรอบศีรษะจากบนลงล่าง มือขวาวาดเป็นวงกลมรอบหน้าอกจาล่างขึ้นบน 3. ร่างกายหันไปทางซ้าย มองลงด้านล่าง นิ้วมือไขว้กันเหนือใบหน้า มือค่อยๆ แยกออกจากกัน 4. มือขวาสวิงขึ้น มือซ้ายยืดลง ขาขวาวาดเป็นวงโค้งเพื่อหมุนตัว 5. ขาขวาลงพื้น ขาซ้ายเกี่ยวเข้าด้านใน ร่างกายเอนไปด้านหลัง 90 องศาขณะหมุนอย่างนุ่มนวล หลับตาพร้อมรอยยิ้ม ฝ่ามืออยู่ที่คางสั่นเบาๆ 6. หยุดภาพนิ่งโดยให้มือวาดเป็นวงโค้งรอบร่างกายส่วนบน 7. นิ้วโป้งและนิ้วชี้แตะกัน ยกจากหน้าอกขึ้นไปเหนือศีรษะ 8. ร่างกายหันไปทางขวา มือซ้ายวาดเป็นวงโค้งมาที่คาง ปลายนิ้วขวากวาดผ่านคิ้วแล้วยืดไปทางขวาบน ข้อมือกดออกด้านนอกพร้อมเขย่าเครื่องประดับทองสองครั้ง บรรยากาศ: ดนตรีกลองเฮฟวี่เมทัล จังหวะสดใส แสงนุ่มนวลแบบวอลลูเมตริก ผิวสัมผัสละเอียดอ่อน การเคลื่อนไหวของเส้นผมและเนื้อผ้าที่เป็นธรรมชาติ พลวัตที่ราบรื่น คำสั่งเชิงลบ: เบลอ, ความละเอียดต่ำ, แขนขาผิดรูป, การเคลื่อนไหวหน่วง, ลายน้ำ สร้างวิดีโอที่ต่อเนื่องยาว 15 วินาที อัตราส่วนภาพ 9:16
-```
-
-<img src="https://cms-assets.youmind.com/media/1789112669710_10a9cd_HR5gsMZbwAAWt4k.png" width="600" alt="การออกแบบท่าเต้นรำจีนโบราณ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10745)**
-
-**Author:** [George Qiao](https://x.com/QiaoGeorge) | **Source:** [Link](https://x.com/QiaoGeorge/status/2098223994134794350) | **Published:** Sep 11, 2026
-
----
-### แอนิเมชันลูปห้องนอนแบบสั้น
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) แบบกระชับสำหรับวิดีโอลูปความยาว 6 วินาที ที่มีตัวละครอยู่ในห้องที่ส่องสว่างด้วยแสงเทียน
-
-#### 📝 Prompt
-
-```
-วิดีโอความยาว 6 วินาที ใช้ห้องนอนของ Mía Gabriel แบบเดียวกับ BASE เป๊ะๆ อัตราส่วน 9:16 แสงเทียน ให้ทำเฉพาะส่วนแอนิเมชันเท่านั้น และใช้ใบหน้าเดิม
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098149376677810191/img/n3LdIimrezq2cBqz.jpg" width="600" alt="แอนิเมชันลูปห้องนอนแบบสั้น">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=10744)**
-
-**Author:** [Gabriel](https://x.com/riquitoboy47) | **Source:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **Published:** Sep 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2199,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-26T04:45:27.757Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-26T13:08:39.001Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2891** |
+| 📝 提示词总数 | **2902** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-09-26** |
 
@@ -189,6 +189,187 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Grok Imagine Video Prompt：正方形宽高比转换
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 将图像或视频转换为 1:1 正方形宽高比的详细指令，同时保持风格与主体不变。
+
+#### 📝 提示词
+
+```
+将此图像转换为 1:1 正方形宽高比。确保核心主体（发光的骷髅蜡烛）突出且构图得当，通过智能重新构图或裁剪实现。保持原有的艺术风格、光影、色彩、细节、画质及构图
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103680504524386304/img/wmISBSwrROyqUQkC.jpg" width="600" alt="Grok Imagine Video Prompt：正方形宽高比转换">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11345)**
+
+**作者:** [Katrina](https://x.com/sLuTmEoUt1988) | **来源:** [Link](https://x.com/sLuTmEoUt1988/status/2103680519401799927) | **发布时间:** Sep 26, 2026
+
+---
+### 科幻西部 Holodeck 场景转换
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的提示词，描述了使用 Grok Imagine 生成的从数字网格房间到旧西部街道的过渡效果。
+
+#### 📝 提示词
+
+```
+太空船员继续他们在模拟全息甲板上的冒险，他们穿过一个黑金相间的网格房间，脚下的地板逐步扭曲变形，最终变成一条尘土飞扬的旧西部街道——冷峻的数字光线逐渐融入温暖的阳光、木质和砂岩色调中。
+
+网格房间到旧西部，行走中的形态转变，发光的电路文字，酒馆揭示，数字到模拟的转换，电影感科幻西部风格
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103637291306463232/img/UT8jSgJxBPT6YHDL.jpg" width="600" alt="科幻西部 Holodeck 场景转换">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11355)**
+
+**作者:** [Sherice](https://x.com/Sherice0799) | **来源:** [Link](https://x.com/Sherice0799/status/2103637378779009309) | **发布时间:** Sep 26, 2026
+
+---
+### Tom Cruise 独白视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段视频的提示词，内容为 Tom Cruise 扮演一个特定角色，在一部极其复杂的戏剧中表演幽默独白。
+
+#### 📝 提示词
+
+```
+Tom Cruise 在 Eugene O'Neill 重新发现但过于复杂的戏剧《Schmutz on the Psyche》中，扮演落魄酗酒的食物品尝师 Plurpooty Tzavavastovo，表演一段乏味的独白。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103630585751105536/img/3cSKAhTp7w5bs5_s.jpg" width="600" alt="Tom Cruise 独白视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11347)**
+
+**作者:** [(((Simon Hardy Butler)))🇺🇸🇮🇱🇺🇦](https://x.com/SimonHButler) | **来源:** [Link](https://x.com/SimonHButler/status/2103630614973096137) | **发布时间:** Sep 25, 2026
+
+---
+### 欧洲大学 Vlog 视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于创建具有特定对话和镜头风格的逼真 10 秒大学 Vlog 视频的详尽提示词。
+
+#### 📝 提示词
+
+```
+创建一个 10 秒的超写实真人实拍欧洲大学 Vlog：一位 25 岁左右的棕色头发女性，在雨晨中醒来，煮咖啡，梳妆打扮，拿起雨伞，穿过潮湿的城市街道，并在上课前刚好抵达大学。
+
+现代智能手机 Vlog 风格：自然的手持运镜，轻微的抖动，自动对焦变化，逼真的雨水、水坑、倒影、交通、雨伞、湿透的衣物、自然的表情以及可信的人物动作。
+
+对话：“早上好……看来下雨了。” → “先喝杯咖啡。然后去上课。” → “早到两分钟。我自己都佩服。” → “好吧，赶上了。”
+
+仅使用自然的现场音效。无背景音乐，无旁白，无 CGI 痕迹，无人工降雨，无面部变形，无解剖结构扭曲，无违反物理规律的现象，无字幕，无 Logo 或水印。
+
+16:9 • 24fps • 4K • 超写实真人实拍
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103629375711387648/img/pC3oG5XUNPsnTjIs.jpg" width="600" alt="欧洲大学 Vlog 视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11348)**
+
+**作者:** [Yogi](https://x.com/cyberyogiii) | **来源:** [Link](https://x.com/cyberyogiii/status/2103629403284742531) | **发布时间:** Sep 25, 2026
+
+---
+### 红马上的翼骑士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，展示了一位长着黑色翅膀的骑士骑着一匹带有黄色条纹的红马，旁边还有一只蜻蜓。
+
+#### 📝 提示词
+
+```
+长着巨大黑色羽毛翅膀的骑士骑着一匹带有黄色条纹的红马，一只微小的黄色蜻蜓在骑士头盔上方盘旋
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103513454007189504/img/tm8hSbReTHDnz-yu.jpg" width="600" alt="红马上的翼骑士">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11352)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2103513537067061561) | **发布时间:** Sep 25, 2026
+
+---
+### 宁静睡眠电影感镜头
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段视频生成提示词，描绘了一对夫妇在柔和呼吸中安详入睡的场景。
+
+#### 📝 提示词
+
+```
+男人和女人在床上深度安睡。轻柔的呼吸伴随着胸廓细微的起伏，头部有自然的轻微移动，双眼紧闭神态安详，面部放松，卧室光线昏暗静谧。写实电影风格的缓慢宁静睡眠画面，...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103501155728863232/img/xegDEZqgqAvZJjwf.jpg" width="600" alt="宁静睡眠电影感镜头">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11351)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **来源:** [Link](https://x.com/maggiejuang1/status/2103501201031454753) | **发布时间:** Sep 25, 2026
+
+---
+### Grok Imagine 挡风玻璃修复
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，指示模型保持场景不变，但防止挡风玻璃破碎。
+
+#### 📝 提示词
+
+```
+保持一切原样，但挡风玻璃不能碎……好吧，这样看起来好多了 😅✌️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103472843597955073/img/pyYzeVZPnu-L73Xo.jpg" width="600" alt="Grok Imagine 挡风玻璃修复">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11349)**
+
+**作者:** [Johnny🛸](https://x.com/JohnnySchwifty) | **来源:** [Link](https://x.com/JohnnySchwifty/status/2103472876490011060) | **发布时间:** Sep 25, 2026
+
+---
+### 黑暗之魂骑士在酒馆
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，描述了一位身穿黑暗之魂风格盔甲的骑士进入场景，显得困惑，然后离开。
+
+#### 📝 提示词
+
+```
+一位头盔上插着巨大羽毛的骑士，身着精美的黑暗之魂风格盔甲走进场景，困惑地环顾四周，随后离开。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103453452563353600/img/5rPljdkUrSjsiYjv.jpg" width="600" alt="黑暗之魂骑士在酒馆">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11350)**
+
+**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **来源:** [Link](https://x.com/KaungMyat635/status/2103453550328332629) | **发布时间:** Sep 25, 2026
+
+---
+### Grok Imagine 视频提示词：情感猫咪序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个复杂的叙事提示，涉及猫咪消失、女孩对着照片哭泣以及缩放效果，展示了先进的视频故事讲述能力。
+
+#### 📝 提示词
+
+```
+请保留图像序列（除最后一帧外），并尽可能贴近原始插画的精确细节。这些是特定乐队的图片。猫咪应朝镜头走来，一只手伸出来抚摸它但未触碰到，在手指接触前猫咪便消失了。照片中绿发女孩被揭示为伸手去拿桌边那张照片的人。她拿起照片，泪水从眼中滑落滴在照片上。随着泪珠落下，镜头推近至照片画面，仿佛回到原派对现场——猫咪用后腿站立并看向镜头。请使用写实风格的 Tanner 图片作为她站立时的外貌参考，但请保持她与序列中其他部分相同的卡通风格，谢谢。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103410441728749568/img/We6onAMRk-2k7MXG.jpg" width="600" alt="Grok Imagine 视频提示词：情感猫咪序列">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11346)**
+
+**作者:** [Hoppy Cat](https://x.com/hoppycat) | **来源:** [Link](https://x.com/hoppycat/status/2103412194285117499) | **发布时间:** Sep 25, 2026
+
+---
 ### 木质特斯拉 Cybertruck 越野行驶
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +387,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11265)**
 
 **作者:** [Internet James](https://x.com/iminternetjames) | **来源:** [Link](https://x.com/iminternetjames/status/2103382101416624505) | **发布时间:** Sep 25, 2026
+
+---
+### 跳舞角色视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成角色快乐跳舞唱歌视频的提示词，结尾以特写微笑镜头收尾。包含分辨率和时长等技术设置。
+
+#### 📝 提示词
+
+```
+请基于提供的图片并使用以下提示词为我生成一个新视频：“让这个人快乐地跳舞唱歌，然后拉近镜头聚焦在他们微笑的脸上。”具体设置如下：480p、6s、自动。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103273221508444160/img/WGXaTXANOIw5MXrw.jpg" width="600" alt="跳舞角色视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11354)**
+
+**作者:** [ハル．](https://x.com/HAL000111000) | **来源:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **发布时间:** Sep 24, 2026
 
 ---
 ### 鼠女变身负鼠
@@ -756,6 +956,29 @@ AI 视频 — 9:16 电影感
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11105)**
 
 **作者:** [Alex Stirling](https://x.com/AlexStirlism7) | **来源:** [Link](https://x.com/AlexStirlism7/status/2101831570361348212) | **发布时间:** Sep 21, 2026
+
+---
+### 面纱舞者雾蓝色视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 生成的视频提示词，描绘一位在大理石柱间身着雾蓝色丝绸起舞的舞者。
+
+#### 📝 提示词
+
+```
+💃 面纱舞者系列 – #70 雾蓝色
+
+她在清冷的大理石柱间翩翩起舞，雾蓝色的丝绸在静谧的大厅中飘逸流动。
+
+由 Grok Imagine 创作。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101755776226168832/img/YBgurnXIwRjoLn9n.jpg" width="600" alt="面纱舞者雾蓝色视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11353)**
+
+**作者:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **来源:** [Link](https://x.com/artwithahat0/status/2101755863601922405) | **发布时间:** Sep 20, 2026
 
 ---
 ### 星系旋转视频
@@ -1912,232 +2135,6 @@ Falcon 9 发射期间的集体狂喜：当震耳欲聋的轰鸣声最终席卷�
 **作者:** [Roy](https://x.com/RoyRoy67196892) | **来源:** [Link](https://x.com/RoyRoy67196892/status/2098529438338371682) | **发布时间:** Sep 11, 2026
 
 ---
-### 雨中避雨的蚁妈妈
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段叙事性视频提示词，讲述了一家蚂蚁在叶子下躲避雨水的故事。
-
-#### 📝 提示词
-
-```
-一位蚁妈妈正拉着装满食物的推车，带着她的儿子前行。天开始下雨了，她赶紧拉着车躲到一片大叶子下避雨。她呼唤着儿子，让他紧紧跟在身边！
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg" width="600" alt="雨中避雨的蚁妈妈">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10799)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **来源:** [Link](https://x.com/RobinMurrat43a/status/2098498537466249640) | **发布时间:** Sep 11, 2026
-
----
-### 火星绿洲机器人视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 视频展示了火星上的绿洲，穹顶内灯光闪烁，机器人正在构建生命。
-
-#### 📝 提示词
-
-```
-大家周五晚上好。
-今晚分享一个简短的片段——火星上的绿洲，穹顶内的灯光，以及正在构建生命的机器人。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098477462200147968/img/Njx6sAHlUy-55dbB.jpg" width="600" alt="火星绿洲机器人视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11008)**
-
-**作者:** [Ninoki](https://x.com/Ninoki111) | **来源:** [Link](https://x.com/Ninoki111/status/2098477739753803836) | **发布时间:** Sep 11, 2026
-
----
-### 历史悠久的波兰教堂致敬视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于宾夕法尼亚州斯克兰顿市耶稣圣心与玛利亚教堂（Sacred Hearts of Jesus and Mary Church）的致敬视频提示词，展示其 1925 年时的风貌。
-
-#### 📝 提示词
-
-```
-致敬位于宾夕法尼亚州斯克兰顿市的耶稣圣心与玛利亚教堂，约 1925 年，波兰移民教区
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098469271898861568/img/78r7y9inS0-AKtpz.jpg" width="600" alt="历史悠久的波兰教堂致敬视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10798)**
-
-**作者:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **来源:** [Link](https://x.com/Trad_Teodor/status/2098469293239513527) | **发布时间:** Sep 11, 2026
-
----
-### 达·芬奇的飞行梦
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 视频第一部分，讲述人类对飞行的梦想以及列奥纳多·达·芬奇的故事，由 Grok Imagine 生成。
-
-#### 📝 提示词
-
-```
-第一部分：飞翔之梦 | 0–15 秒
-
-从仰望鸟儿翱翔到构想飞行器，人类的飞行梦想始于一个愿景。列奥纳多·达·芬奇帮助将这个梦想转化为具体的理念。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098370904942313473/img/rfo920ZzO_nbDXd9.jpg" width="600" alt="达·芬奇的飞行梦">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11006)**
-
-**作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **来源:** [Link](https://x.com/ItsEthanRay/status/2098396641602740528) | **发布时间:** Sep 11, 2026
-
----
-### 逼真的吃面动作序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的时序提示词，用于创作一段 15 秒的高逼真度视频，展示人物吃面时自然的动作与情绪。
-
-#### 📝 提示词
-
-```
-创作一段 15 秒的高逼真度视频，展现自然的人体动作和可信的时间节奏。
-
-0–4 秒：她缓慢地用筷子将面条送入口中，动作自然。吃完一口后开始咀嚼。
-
-4–7 秒：她自然地咀嚼并表现出对味道的享受，流露出细微的满足感和放松的表情。
-
-7–9 秒：咀嚼时，她短暂地向左看，然后向右看，观察周围是否有人在注视或嘲笑她。她的表情变得略显谨慎和局促。
-
-9–12 秒：发现没人嘲笑后她放松下来，拿起茶杯自然地喝了一口。
-
-12–15 秒：她放下杯子，随手用毛衣袖口擦了擦嘴和脸颊，看向镜头并露出了一个略带尴尬但开心的浅笑。
-
-保持所有动作连贯且符合物理规律。保留参考图像中人物、面部、发型、服装、物体和环境的一致性。要求自然的表情、逼真的眼部运动、真实的咀嚼和吞咽动作、准确的手指动作，以及与面条、筷子和茶杯的自然交互。包含细微的手持摄像机晃动、自然的呼吸感、逼真的皮肤和织物动态，以及温暖的自然光效。严禁出现突兀的动作、变形、面部扭曲、多余的手指、物体复制、不自然的嘴部动作、夸张的表情、说话、字幕或文字遮罩。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098327215234838528/img/UBN3YsyfsnZP1A25.jpg" width="600" alt="逼真的吃面动作序列">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10797)**
-
-**作者:** [AI_Courier](https://x.com/arc_courier) | **来源:** [Link](https://x.com/arc_courier/status/2098386827371597885) | **发布时间:** Sep 11, 2026
-
----
-### 纽约不夜城视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 展示夜幕降临后灯火辉煌的纽约天际线的视频片段。
-
-#### 📝 提示词
-
-```
-第 4 部分（45–60 秒）：不夜之城
-
-夜幕下的纽约——天际线比繁星更加璀璨。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098360939825532928/img/kt9lSCEFM_180S6i.jpg" width="600" alt="纽约不夜城视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11007)**
-
-**作者:** [Ethan Ray](https://x.com/ItsEthanRay) | **来源:** [Link](https://x.com/ItsEthanRay/status/2098361333574181177) | **发布时间:** Sep 11, 2026
-
----
-### 克林姆特风格科幻骑士
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度详细的视频提示词，融合了古斯塔夫·克林姆特（Gustav Klimt）的艺术风格与装甲骑士、太空宫殿等未来科幻元素。
-
-#### 📝 提示词
-
-```
-无需多言……梦幻般的油画，克林姆特风格，描绘了一位科幻装甲骑士，迷人、英俊、充满未来感、纯真，怀抱着一位可爱的女性，背景有宇宙飞船、太空宫殿、瀑布、光影，没有多余的手臂……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098280958990684160/img/Iunubct5b1JoM7nk.jpg" width="600" alt="克林姆特风格科幻骑士">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10743)**
-
-**作者:** [Carina](https://x.com/Freehere8) | **来源:** [Link](https://x.com/Freehere8/status/2098281502828290435) | **发布时间:** Sep 11, 2026
-
----
-### 博尔盖塞美术馆里的法国女性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影质感的视频提示词，描绘了一位身处美术馆、身材高挑的法国女性，呈现出柔和的秋季美学风格。
-
-#### 📝 提示词
-
-```
-一位年轻、身材高挑的法国女性，身处博尔盖塞美术馆中，穿着柔和色调的秋季服装。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097730338063867904/img/SmNwegNFPyTKV9X-.jpg" width="600" alt="博尔盖塞美术馆里的法国女性">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10740)**
-
-**作者:** [Jourdan Fernandez](https://x.com/VisualTreats) | **来源:** [Link](https://x.com/VisualTreats/status/2098260243062898995) | **发布时间:** Sep 11, 2026
-
----
-### 武术梦想家视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段视频提示词，描述了一名男子在锻炼的同时讲述自己如何成为下一位伟大的武术家。
-
-#### 📝 提示词
-
-```
-一段视频，展示了一名男子在做仰卧起坐，并谈论自己将成为继李小龙之后的下一条“龙”。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098225139926048774/img/DB104i5PfQFso7pI.jpg" width="600" alt="武术梦想家视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10801)**
-
-**作者:** [Ligma Ballz](https://x.com/LBallz77283) | **来源:** [Link](https://x.com/LBallz77283/status/2098225163804319793) | **发布时间:** Sep 11, 2026
-
----
-### 中国传统舞蹈编舞
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一份详细的视频提示词，描述了一位 20 岁的东亚女性身着粉金相间的飘逸长裙表演传统舞蹈，包含具体的编舞动作和运动细节。
-
-#### 📝 提示词
-
-```
-20 岁东亚女性，保持外貌和舞蹈动作一致。身着粉白金渐变的高级古风齐胸宽袖飘逸长裙，裙摆覆盖金线刺绣花纹，配有轻薄透明的金边纱带。面料随风自然动态飘动，裙摆垂坠感强，饰有精致珍珠装饰。穿着精致的古风刺绣软底鞋，整体华丽而温柔。内含衬裤，确保高抬腿动作时的得体。随风优雅起舞；轻盈灵动；黑色长发盘成古风发髻，搭配配套的精致发饰。初始姿势：左腿站立，右腿向前弯曲，身体前倾靠向右腿，双眼低垂；右手举至头部右上方，左手向后上方伸展。1. 身体缓慢站直，微微后仰，右腿同时向上直抬，双手置于太阳穴，肩膀轻微抖动，头部做完整旋转；2. 左手从上至下绕头，右手从下至上绕胸；3. 身体向左转，低头，手指交叉遮脸，双手缓慢分开；4. 右手上挥，左手下伸，右腿画圆弧扫动以带动身体旋转；5. 右腿落地，左腿内勾，身体向后倾斜 90 度并平稳旋转，闭眼微笑，手掌在下巴处轻微抖动；6. 定格画面，双手在上半身周围画圆弧；7. 大拇指与食指相触，从胸前向上举至头顶；8. 身体向右转，左手弧形移至下巴，右手指尖扫过眉毛后伸向右上方，手腕向外压，金饰随之抖动两次。氛围：重金属鼓点音乐，节奏明快；体积感柔光，细腻的皮肤纹理，自然的头发和面料运动，流畅的动态效果。负面提示词：模糊，低分辨率，肢体变形，动作滞后，水印。生成 15 秒连贯视频。9:16 纵横比。
-```
-
-<img src="https://cms-assets.youmind.com/media/1789112669710_10a9cd_HR5gsMZbwAAWt4k.png" width="600" alt="中国传统舞蹈编舞">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10745)**
-
-**作者:** [George Qiao](https://x.com/QiaoGeorge) | **来源:** [Link](https://x.com/QiaoGeorge/status/2098223994134794350) | **发布时间:** Sep 11, 2026
-
----
-### 卧室短动画循环
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于制作 6 秒循环视频的简洁提示词，场景为角色在烛光房间中。
-
-#### 📝 提示词
-
-```
-6 秒视频。与 BASE 中的 Mía Gabriel 卧室完全一致。9:16 烛光。仅进行动画处理。保持面部特征不变。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098149376677810191/img/n3LdIimrezq2cBqz.jpg" width="600" alt="卧室短动画循环">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=10744)**
-
-**作者:** [Gabriel](https://x.com/riquitoboy47) | **来源:** [Link](https://x.com/riquitoboy47/status/2098149405119369539) | **发布时间:** Sep 10, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2199,6 +2196,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-26T04:45:22.123Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-26T13:08:35.614Z</sub>
 
 </div>
