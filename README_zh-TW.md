@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2975** |
+| 📝 提示詞總數 | **2983** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-10-05** |
 
@@ -189,6 +189,183 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 哥德式大教堂騎士之王場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於建立黑暗哥德式大教堂中身著鎧甲的騎士之王的寫實電影級場景詳細提示，並帶有體積光效果。
+
+#### 📝 提示詞
+
+```
+在同一座黑暗的哥德式大教堂中建立一個寫實電影級的全身場景，具有戲劇性的體積光束和石柱。神秘的騎士之王身穿黑色華麗鎧甲、金色王冠，以及帶有金線刺繡的紅色天鵝絨連帽斗篷……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106962340663185408/img/TuIgHGXpfdd9HVuA.jpg" width="600" alt="哥德式大教堂騎士之王場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11965)**
+
+**作者:** [Cyperpienso](https://x.com/cyperpienso) | **來源:** [Link](https://x.com/cyperpienso/status/2106962402625642616) | **發布時間:** Oct 5, 2026
+
+---
+### Grok Imagine：Madonna 意識主題
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段將 Madonna 圖像動畫化的提示詞，使其以冥想般的氛圍說出特定台詞。
+
+#### 📝 提示詞
+
+```
+讓 Madonna 的圖像保持「原樣」，她以輕柔清晰的低語聲說出：「一切始於意識。」接著讓兩張圖像共同說道：「我們將合而為一，我們將神聖合一。」賦予整體一種冥想、空靈的氛圍。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106935375856054272/img/w3SU1z4EH2Hnye_J.jpg" width="600" alt="Grok Imagine：Madonna 意識主題">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11963)**
+
+**作者:** [Julio McCauley](https://x.com/CosmicJulioBro) | **來源:** [Link](https://x.com/CosmicJulioBro/status/2106935406176702934) | **發布時間:** Oct 5, 2026
+
+---
+### 溫馨廚房中的幽靈迴旋
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段極致細膩且充滿詩意的提示詞，專為慢動作影片設計：描繪一個發光的幽靈裝飾在佈滿玫瑰花瓣與串燈的溫馨廚房中優雅旋轉。
+
+#### 📝 提示詞
+
+```
+深夜裡，一個發光的幽靈裝飾在溫馨廚房中緩慢、如夢似幻地旋轉……
+白色床單在半空中飄動，柔軟而流暢，但動作輕柔且不急不徐，彷彿幽靈正在回憶它曾經熟悉的舞姿……
+內部光源透過布料散發溫暖光芒，穩定而柔和……
+兩顆黑色橢圓眼睛面向前方，平靜而安詳……
+粉紅玫瑰花瓣在它周圍緩緩飄落，懸浮於此刻……
+背景櫃子與層架上點綴著紫色和橙色串燈，發出微光……
+後方檯面上擺放著一瓶粉紅與白色的玫瑰花……
+萬聖節裝飾品——南瓜、小矮人、貓頭鷹、向日葵——填滿了層架，一切靜止不動……
+廚房寂靜無聲，幽靈安然休息，時間彷彿凍結……
+幽靈的眼睛微微閉合……
+彷彿沉浸在記憶之中……
+燈光閃爍不定，如同燭火回憶起火焰……幽靈始終保持柔軟……
+從未變得尖銳……
+這就是全部的訣竅……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106931393112551424/img/rP1MlDXheSGASwoj.jpg" width="600" alt="溫馨廚房中的幽靈迴旋">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11962)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2106931506694193403) | **發布時間:** Oct 5, 2026
+
+---
+### Grok Imagine 提示詞：夢幻幽靈裝飾動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的影片生成提示詞，讓溫馨廚房中的發光幽靈裝飾以緩慢、夢幻般的動作活起來。
+
+#### 📝 提示詞
+
+```
+animate this exact image , A light-up ghost decoration in a cozy kitchen at night, captured in a slow, dreamlike twirl…
+…
+The white sheet is mid-motion, soft and flowing, but the movement is gentle and unhurried, like the ghost is remembering a dance...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106929051705192448/img/egOhllHpFI9kqDWs.jpg" width="600" alt="Grok Imagine 提示詞：夢幻幽靈裝飾動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11968)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2106929145942831576) | **發布時間:** Oct 5, 2026
+
+---
+### 演唱會舞蹈表演影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段高度詳細的提示詞，用於生成女性在舞台上跳舞的動畫，包含鏡頭運動、燈光效果、音樂同步及負面約束條件。
+
+#### 📝 提示詞
+
+```
+保持參考圖片中完全相同的女性、臉部特徵、髮型、服裝、身體比例、靴子、舞台、燈光、攝影機角度和演唱會環境。讓她在舞台上自然地表演充滿活力且優雅的舞蹈。她從相同的姿勢開始，然後隨著節奏流暢地擺動雙臂，扭動臀部，邁出幾步自信的舞步，稍微轉身，最後以一個歡樂的姿勢結束。她的長紅髮隨著舞蹈自然飄動。添加逼真的面部表情和燦爛的笑容。紫色和白色的演唱會聚光燈隨著音樂輕輕脈動，伴有細微的舞台霧氣和背景散景效果。攝影機進行流暢的电影式緩慢推進，並帶有輕微的手持演唱會晃動感。逼真的人體動作，自然的解剖結構，準確的手部和腳部，無變形，無多餘肢體，無服裝變化。節奏明快的流行舞曲，具有朗朗上口的節拍、充滿活力的鼓點、貝斯和明亮的合成器音效，與她的動作完美同步。從頭到尾保持場景視覺一致性，电影質感，高品質，逼真的演唱會表演。
+
+負面提示：
+
+無臉部變化，無身份變化，無服裝變化，無多餘手指，無多餘手臂或腿，無身體變形，無扭曲的手部，無不自然動作，無攝影機故障，無背景變化
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106913169654579200/img/fGfZHh9uego_T3hm.jpg" width="600" alt="演唱會舞蹈表演影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11966)**
+
+**作者:** [CanineTrace](https://x.com/CanineTrace) | **來源:** [Link](https://x.com/CanineTrace/status/2106913197534097519) | **發布時間:** Oct 5, 2026
+
+---
+### Grok Imagine 提示詞：晨光茶飲與蜂鳥場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於 Grok Imagine 的影片生成提示詞，描繪陽光、茶飲與蜂鳥構成的寧靜早晨景象。
+
+#### 📝 提示詞
+
+```
+清晨陽光透過窗戶灑入，木製桌面上放著一杯微微冒熱氣的清茶，窗外餵食器上有一隻蜂鳥停留
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106800046796861440/img/IhQAx6n9BRdmBWTB.jpg" width="600" alt="Grok Imagine 提示詞：晨光茶飲與蜂鳥場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11969)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2106800094381224248) | **發布時間:** Oct 4, 2026
+
+---
+### 吉娃娃人像編輯提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的圖片編輯提示詞，將兩隻吉娃娃的照片增強為直式人像，同時保留特定細節。
+
+#### 📝 提示詞
+
+```
+將這張照片編輯成兩隻名為 Tatiana 和 Scout 的吉娃娃的美麗直式人像。保持牠們的外觀、斑紋以及長毛狗狗身上藍色背帶的精確樣貌。強調牠們的長毛與短鼻。提升清晰度、光...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106770205540012032/img/q0jfCf8EPL9yqan2.jpg" width="600" alt="吉娃娃人像編輯提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11967)**
+
+**作者:** [soundmoney Delilah](https://x.com/Rhonda08936681) | **來源:** [Link](https://x.com/Rhonda08936681/status/2106770233109430427) | **發布時間:** Oct 4, 2026
+
+---
+### 初始奇點與 E=mc² 視覺化
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個複雜的提示，要求以視覺方式呈現初始奇點，並對比冷卻中的宇宙以及愛因斯坦的理論 E=mc²，且圖片中不包含文字。
+
+#### 📝 提示詞
+
+```
+請為我創作「初始奇點」可能的外觀，並將其與能量凝結成物質時宇宙冷卻的過程進行對比。
+
+請為我呈現愛因斯坦理論的圖像：
+
+E = mc²
+
+圖片中不要包含任何文字 Grok
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106744445634846720/img/Cq8Pri7VKLuyv2dH.jpg" width="600" alt="初始奇點與 E=mc² 視覺化">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11964)**
+
+**作者:** [Kim Maria](https://x.com/KimMaria8ry) | **來源:** [Link](https://x.com/KimMaria8ry/status/2106744503788880314) | **發布時間:** Oct 4, 2026
+
+---
 ### Grok Imagine Video：香港冰室場景
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -267,7 +444,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 將此靜態圖像製作成動畫，時長 8 秒，流暢的電影級循環。亞洲男子穩穩地握著打開的黑色 Zippo 打火機，拇指輕放在蓋子上。戴著紫色 BAD RUDY 毛帽的小紅熊貓坐在翻蓋上，張開嘴巴，噴出一小股受控的橙色火焰，火焰閃爍後縮回打火機燈芯上的小火苗。他發光的橙色眼睛眨了一下。餘燼飄散。男子的微笑微微變化，一邊眉毛挑動一下，然後恢復原狀。前臂紋身保持靜止。他身後的紫色電路板緩慢脈動一次。鏡頭不動。無其他角色。音效：打火機火石點擊聲、柔和的火焰呼嘯聲、一聲輕微的呼气。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1791106041379_psqya1_HTv9L15WsAAK1vK.jpg" width="600" alt="紅熊貓電影級打火機動畫">
+<img src="https://cms-assets.youmind.com/media/1791187394588_vcalam_HTv9L14WoAAGXEj.jpg" width="600" alt="紅熊貓電影級打火機動畫">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11884)**
 
@@ -2042,170 +2219,6 @@ AI 影片 — 9:16 電影感
 **作者:** [Mimi9060](https://x.com/MelodyM662010) | **來源:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **發布時間:** Sep 24, 2026
 
 ---
-### 弓箭手角色動作影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用弓箭手角色的參考圖片，生成特定動作序列的詳細影片生成提示詞。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-生成一段影片，展示參考圖片中的肌肉型角色在保持角色設定的情況下，自然地執行「排便」動作。
-
-[參考資產用途]
-@image1 用於角色的完整外觀：弓箭手
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="弓箭手角色動作影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11222)**
-
-**作者:** [Dylan Briggs](https://x.com/DylanBriggjk) | **來源:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **發布時間:** Sep 24, 2026
-
----
-### Grok Imagine 影片提示詞：巨石崩裂
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 影片生成提示詞：描述巨石崩裂並有一道光束直射天空的場景。
-
-#### 📝 提示詞
-
-```
-巨石崩裂，一道光束從中射出，直衝雲霄
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="Grok Imagine 影片提示詞：巨石崩裂">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11224)**
-
-**作者:** [Astropub Starbase](https://x.com/AstropubSBTX) | **來源:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **發布時間:** Sep 23, 2026
-
----
-### 從圖片生成影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用克羅埃西亞語提示詞（「圖片堆疊成鏡子，並隨著雷聲消失」）來根據提供的圖片生成短豎向影片。
-
-#### 📝 提示詞
-
-```
-請根據提供的圖片，使用以下提示詞為我生成一個新影片：「圖片堆疊起來，變成一面鏡子，並隨著一道閃電消失」。設定如下：解析度 480p、時長 6 秒、比例 9:16。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="從圖片生成影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11225)**
-
-**作者:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **來源:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **發布時間:** Sep 23, 2026
-
----
-### 1600s Puritan Homestead
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a video scene of a 1600s Robert Eggers-style puritan homestead with a fireplace.
-
-#### 📝 提示詞
-
-```
-Let’s start with a 1600s Robert Eggers the witch puritan homestead small house fire place
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="1600s Puritan Homestead">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11227)**
-
-**作者:** [JB](https://x.com/JoshuaBalianSR) | **來源:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **發布時間:** Sep 23, 2026
-
----
-### Elon Musk 跳舞影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段 Elon Musk 模仿 Jennifer Lopez 跳舞的影片，並搭配《If You Want My Love》的音訊。
-
-#### 📝 提示詞
-
-```
-製作 Elon Musk 模仿 Jennifer Lopez 跳舞的影片，搭配《If You Want My Love》音訊
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="Elon Musk 跳舞影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11221)**
-
-**作者:** [Jared Foster](https://x.com/JaredFosterX) | **來源:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **發布時間:** Sep 23, 2026
-
----
-### 擬人化搖滾貓咪樂團
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的完整影片生成提示，內容為三隻擬人化貓咪在磷光俱樂部中演奏搖滾音樂。包含關於燈光、動作及音畫同步的具體指示。
-
-#### 📝 提示詞
-
-```
-生成一段連續影片，內容為擬人化搖滾貓咪樂團以英文現場演唱歌曲。氛圍需呈現心理驚悚感與磷光效果。
-
-三隻擬人化貓咪作為搖滾樂團站在小型高台上。牠們保留貓頭、貓耳、皮毛和尾巴，同時身穿搖滾服飾並手持樂器。牠們作為一個整體共同表演。
-
-影片開始時，貓咪們面對觀眾，處於昏暗且充滿磷光的俱樂部中：柔和的青綠色光芒在牠們的皮毛、樂器及周圍空氣中脈動。主唱貓咪走到中央麥克風前，開始清晰地用英文演唱，另外兩隻貓咪則同步彈奏吉他和打鼓。牠們的嘴巴隨著英文歌詞開合，眼神強烈且略顯狂野，身體隨節奏搖擺。隨著表演推進，磷光軌跡與光芒在牠們周圍增強。影片結束時，牠們保持最後一個音符，並在發光燈下共同擺出姿勢。
-
-全程保持貓咪完全擬人化的搖滾風格、英文演唱、心理驚悚與磷光氛圍，以及連續穩定的樂團表演。螢幕上不出現字幕。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="擬人化搖滾貓咪樂團">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11181)**
-
-**作者:** [MYS AI](https://x.com/mys1111) | **來源:** [Link](https://x.com/mys1111/status/2102511636175073310) | **發布時間:** Sep 22, 2026
-
----
-### 巴洛克風格大天使米迦勒雕像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的 Grok Imagine 提示詞，用於生成一幅結合米開朗基羅與貝尼尼風格、描繪博物館場景中大天使米迦勒雕像的巴洛克文藝復興風格油畫。
-
-#### 📝 提示詞
-
-```
-一幅精湛的巴洛克文藝復興風格油畫，描繪了一尊奶油色大理石製的大天使米迦勒戰士天使雕像，融合了米開朗基羅與貝尼尼的藝術特色。雕像面部呈現米開朗基羅式的理想化特徵，眼神莊嚴高貴，頭髮雕刻成波浪狀。貝尼尼式的戲劇性動態展現於完全張開的大型雕刻雙翼，以及厚重褶皺中流動的雕刻衣紋。奶油色的陳年大理石上，在衣紋折疊處繪有溫暖的棕色陰影筆觸。胸前佩戴著閃耀的銀藍色金屬胸甲，散發著冷冽的藍光。雕像右臂完整雕刻並向外伸展，呈開放手掌的高貴戰士姿態；左臂則自然垂於身側。這尊博物館規格的雕像矗立在一座精緻雕刻的石質基座上，成為整個房間的視覺焦點。
-基座周圍環繞著四根低矮且雕刻繁複的奶油色大理石柱，由一條簡潔優雅的金屬鏈相連，構成內部博物館的隔離欄杆。背景為宏偉的義大利宮殿畫廊或類似梵蒂岡奇蹟室（Cabinet of Curiosities）的陳列空間。牆面上密密麻麻地掛滿了 16 至 17 世紀的油畫，皆裝裱在厚重的鍍金畫框中。前景放置一張古董雕刻木製書桌，桌上散落著紙張、羽毛筆、墨水瓶以及一支點燃的蠟燭。周圍的收藏包括地球儀、皮革精裝書籍、較小的大理石半身像，以及存放文物的小型木櫃，這些物品均作為次要元素且色調略暗，以確保雕像能主導視線。
-溫暖的金色吊燈與燭光交織，營造出卡拉瓦喬式濃郁的明暗對比（Chiaroscuro），角落處則帶有紫羅蘭色調的陰影。拋光的大理石地板映出倒影，天花板為鍍金的藻井結構。整體呈現電影般的古董油畫質感。大理石、金屬盔甲、鐵鏈、金箔畫框及陳舊畫布的材質細節極度逼真。畫面中無任何現代物品，無鐵柵欄，且雕像四肢完整無缺。
-```
-
-<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="巴洛克風格大天使米迦勒雕像">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11223)**
-
-**作者:** [Arco](https://x.com/arco0369) | **來源:** [Link](https://x.com/arco0369/status/2102491951287181545) | **發布時間:** Sep 22, 2026
-
----
-### Grok Imagine 鳥食槽場景提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 Grok Imagine 設計的詳細提示詞，描繪鳥食槽旁的鳥兒與蛋白色風鈴。
-
-#### 📝 提示詞
-
-```
-鳥食槽旁鳴叫的鳥兒，懸掛在鳥食槽上的風鈴是一串蛋白色的齒輪
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="Grok Imagine 鳥食槽場景提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11178)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **發布時間:** Sep 22, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2267,6 +2280,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-05T05:18:45.265Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-05T17:17:19.677Z</sub>
 
 </div>

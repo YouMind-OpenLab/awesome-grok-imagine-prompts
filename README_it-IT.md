@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2975** |
+| 📝 Total Prompts | **2983** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-05** |
 
@@ -189,6 +189,183 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Scena del Re Cavaliere nella Cattedrale Gotica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per creare una scena cinematografica fotorealistica con un re cavaliere in armatura in una cattedrale gotica buia con illuminazione volumetrica.
+
+#### 📝 Prompt
+
+```
+Crea una scena cinematografica fotorealistica a figura intera nella stessa cattedrale gotica buia, con drammatici raggi di luce volumetrica e colonne di pietra. Il misterioso re cavaliere in armatura nera ornata, corona dorata, mantello con cappuccio in velluto rosso con ricami d'oro...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106962340663185408/img/TuIgHGXpfdd9HVuA.jpg" width="600" alt="Scena del Re Cavaliere nella Cattedrale Gotica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11965)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2106962402625642616) | **Published:** Oct 5, 2026
+
+---
+### Grok Imagine: Madonna e la Coscienza
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt che anima un'immagine di Madonna per farle pronunciare frasi specifiche con un'atmosfera meditativa.
+
+#### 📝 Prompt
+
+```
+Mantieni l'immagine di Madonna 'così com'è', mentre muove le labbra sussurrando con voce chiara le parole: "Tutto inizia dalla coscienza." Poi fai dire a entrambe le immagini insieme: "Saremo uno, saremo divini." Conferisci al tutto un'atmosfera meditativa ed eterea.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106935375856054272/img/w3SU1z4EH2Hnye_J.jpg" width="600" alt="Grok Imagine: Madonna e la Coscienza">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11963)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2106935406176702934) | **Published:** Oct 5, 2026
+
+---
+### Vortice Spettrale in una Cucina Accogliente
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt altamente dettagliato e poetico per un video in slow motion di una decorazione fantasma luminosa che vortica in una cucina accogliente, tra petali di rosa e luci a stringa.
+
+#### 📝 Prompt
+
+```
+Una decorazione fantasma luminosa in una cucina accogliente di notte, catturata in un vortice lento e onirico…
+Il lenzuolo bianco è colto nel movimento, morbido e fluente, ma il gesto è gentile e senza fretta, come se il fantasma stesse ricordando una danza che un tempo conosceva…
+La luce interna brilla calda attraverso il tessuto, costante e soffusa…
+Due occhi neri ovali guardano avanti, calmi e silenziosi…
+Petali di rosa rosa fluttuano lentamente nell'aria intorno ad esso, sospesi nell'istante…
+Luci a stringa viola e arancioni brillano lungo gli armadietti e gli scaffali sullo sfondo…
+Un vaso con rose rosa e bianche si trova sul bancone dietro di esso…
+Decorazioni di Halloween — zucche, gnomi, gufi, un girasole — riempiono gli scaffali, tutti immobili…
+La cucina è silenziosa, il fantasma è a riposo, l'attimo è congelato…”
+gli occhi del fantasma leggermente chiusi…
+Come se fosse perso nel ricordo…
+la luce tremolante, come una candela che ricorda una fiamma…il fantasma rimane morbido…
+Non diventa mai nitido…
+Questo è tutto il trucco…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106931393112551424/img/rP1MlDXheSGASwoj.jpg" width="600" alt="Vortice Spettrale in una Cucina Accogliente">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11962)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106931506694193403) | **Published:** Oct 5, 2026
+
+---
+### Prompt Grok Imagine: Animazione onirica di decorazione fantasma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per la generazione video con Grok Imagine che anima una decorazione fantasma luminosa in una cucina accogliente, con movimenti lenti e onirici.
+
+#### 📝 Prompt
+
+```
+anima questa immagine esatta, Una decorazione fantasma luminosa in una cucina accogliente di notte, ripresa in una lenta rotazione onirica…
+…
+Il lenzuolo bianco è a metà del movimento, morbido e fluido, ma il gesto è delicato e senza fretta, come se il fantasma stesse ricordando una danza...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106929051705192448/img/egOhllHpFI9kqDWs.jpg" width="600" alt="Prompt Grok Imagine: Animazione onirica di decorazione fantasma">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11968)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106929145942831576) | **Published:** Oct 5, 2026
+
+---
+### Video di Performance di Danza Concertistica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt altamente dettagliato per animare una donna che danza sul palco, inclusi movimenti della camera, illuminazione, sincronizzazione musicale e vincoli negativi.
+
+#### 📝 Prompt
+
+```
+Mantieni esattamente la stessa donna, viso, acconciatura, outfit, proporzioni del corpo, stivali, palco, illuminazione, angolo di ripresa e ambiente da concerto dell'immagine di riferimento. Animate la sua performance naturale di una danza energica ed elegante sul palco. Inizia con la stessa posa, poi muove fluidamente le braccia a ritmo, ondeggia i fianchi, compie alcuni passi di danza sicuri, si gira leggermente e conclude con una posa gioiosa. I suoi lunghi capelli rossi si muovono naturalmente con la danza. Aggiungi espressioni facciali realistiche e un sorriso felice. I fari da concerto viola e bianchi pulsano delicatamente in sincronia con la musica, con una leggera foschia scenica e bokeh sullo sfondo. La telecamera esegue uno slow push-in cinematografico fluido con un leggero movimento handheld tipico dei concerti. Movimento umano realistico, anatomia naturale, mani e piedi accurati, nessuna distorsione, nessun arto extra, nessun cambio di outfit. Musica pop-dance incalzante con un beat orecchiabile, batteria energica, bassi e synth brillanti, perfettamente sincronizzati con i suoi movimenti. Mantieni la scena visivamente coerente dall'inizio alla fine, cinematografica, di alta qualità, performance concertistica realistica.
+
+Prompt negativo:
+
+Nessun cambiamento del viso, nessun cambiamento di identità, nessun cambiamento dei vestiti, nessuna dita extra, nessun braccio o gamba extra, nessuna distorsione del corpo, nessuna mano deformata, nessun movimento innaturale, nessun glitch della telecamera, nessun cambiamento dello sfondo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106913169654579200/img/fGfZHh9uego_T3hm.jpg" width="600" alt="Video di Performance di Danza Concertistica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11966)**
+
+**Author:** [CanineTrace](https://x.com/CanineTrace) | **Source:** [Link](https://x.com/CanineTrace/status/2106913197534097519) | **Published:** Oct 5, 2026
+
+---
+### Prompt Grok Imagine: Scena Mattutina con Tè e Colibrì
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt di generazione video per Grok Imagine che raffigura una tranquilla scena mattutina con luce del sole, tè e un colibrì.
+
+#### 📝 Prompt
+
+```
+Il sole del mattino illumina la finestra, i raggi di sole colpiscono il tavolo in legno, una tazza di tè fuma leggermente, un colibrì è al mangiatoia fuori dalla finestra
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106800046796861440/img/IhQAx6n9BRdmBWTB.jpg" width="600" alt="Prompt Grok Imagine: Scena Mattutina con Tè e Colibrì">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11969)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106800094381224248) | **Published:** Oct 4, 2026
+
+---
+### Prompt di editing per ritratto di Chihuahua
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di editing immagini per Grok Imagine che trasforma una foto di due Chihuahua in un ritratto verticale, preservando dettagli specifici.
+
+#### 📝 Prompt
+
+```
+Modifica questa foto trasformandola in un bellissimo ritratto verticale dei due Chihuahua di nome Tatiana e Scout. Mantieni il loro aspetto esatto, le marcature del pelo e l'imbracatura blu sul cane con il pelo più lungo. Enfatizza il loro pelo lungo e i musi corti. Migliora la nitidezza, la luce...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106770205540012032/img/q0jfCf8EPL9yqan2.jpg" width="600" alt="Prompt di editing per ritratto di Chihuahua">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11967)**
+
+**Author:** [soundmoney Delilah](https://x.com/Rhonda08936681) | **Source:** [Link](https://x.com/Rhonda08936681/status/2106770233109430427) | **Published:** Oct 4, 2026
+
+---
+### Visualizzazione della Singolarità Iniziale e di E=mc²
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complesso che richiede una rappresentazione visiva della singolarità iniziale in contrasto con l'universo in raffreddamento e la teoria di Einstein E=mc², senza testo nell'immagine.
+
+#### 📝 Prompt
+
+```
+Crea per me come potrebbe essersi presentata la "Singolarità iniziale" e mettila a confronto con il raffreddamento dell'Universo mentre l'energia si condensava in materia.
+
+Presentami un'illustrazione della teoria di Einstein:
+
+E = mc²
+
+Nessun testo sull'immagine Grok
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106744445634846720/img/Cq8Pri7VKLuyv2dH.jpg" width="600" alt="Visualizzazione della Singolarità Iniziale e di E=mc²">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11964)**
+
+**Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2106744503788880314) | **Published:** Oct 4, 2026
+
+---
 ### Grok Imagine Video: Scena della Stanza di Ghiaccio a Hong Kong
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -267,7 +444,7 @@ Trasforma queste foto in un video tour del giardino, per favore, con una piacevo
 Anima questa immagine fissa, 8 secondi, loop cinematografico fluido. L'uomo asiatico tiene fermo l'accendino Zippo nero aperto, con il pollice appoggiato sul coperchio. Il piccolo panda rosso, che indossa un berretto viola BAD RUDY, è seduto sul tappo a scatto, con la bocca aperta mentre emette un breve getto controllato di fuoco arancione che tremola e si riduce a una piccola fiamma sullo stoppino dell'accendino. I suoi occhi arancioni luminosi sbattono una volta sola. Le braci fluttuano nell'aria. Il sorriso beffardo dell'uomo cambia leggermente, un sopracciglio si solleva per poi tornare nella posizione iniziale. I tatuaggi sull'avambraccio restano immobili. Il circuito stampato viola dietro di lui pulsa una volta sola, lentamente. Nessun movimento della telecamera. Nessun personaggio aggiuntivo. Audio: clic della pietra focaia dell'accendino, soffio morbido della fiamma, un'espirazione silenziosa.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1791106041379_psqya1_HTv9L15WsAAK1vK.jpg" width="600" alt="Animazione cinematografica di un accendino con panda rosso">
+<img src="https://cms-assets.youmind.com/media/1791187394588_vcalam_HTv9L14WoAAGXEj.jpg" width="600" alt="Animazione cinematografica di un accendino con panda rosso">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11884)**
 
@@ -2037,170 +2214,6 @@ Il telefono squilla. Lei risponde. Ciao tesoro! Poi un colpo alla porta. Apre...
 **Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
 
 ---
-### Video d'azione del personaggio arciere
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per la generazione di video che utilizza un'immagine di riferimento di un personaggio arciere per creare una specifica sequenza d'azione.
-
-#### 📝 Prompt
-
-```
-[Obiettivo della generazione]
-Genera un video del personaggio muscoloso dell'immagine di riferimento mentre esegue un'azione naturale "poop" restando in character.
-
-[Ruoli degli asset di riferimento]
-@image1 viene utilizzato per l'aspetto completo del personaggio: arciere
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="Video d'azione del personaggio arciere">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11222)**
-
-**Author:** [Dylan Briggs](https://x.com/DylanBriggjk) | **Source:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **Published:** Sep 24, 2026
-
----
-### Prompt video Grok Imagine: Il monolite si frantuma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per la generazione di video su Grok Imagine che descrive un monolite che si frantuma con un raggio di luce che si proietta verso il cielo.
-
-#### 📝 Prompt
-
-```
-Il monolite si frantuma e un raggio di luce emerge, proiettandosi dritto verso il cielo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="Prompt video Grok Imagine: Il monolite si frantuma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11224)**
-
-**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **Published:** Sep 23, 2026
-
----
-### Generazione di video da immagini
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt in lingua croata ("Le immagini si sovrappongono, diventano uno specchio e scompaiono con un tuono") per generare un breve video verticale basato sulle immagini fornite.
-
-#### 📝 Prompt
-
-```
-Generami un nuovo video basato sulle immagini fornite utilizzando questo prompt: "Le immagini si sovrappongono, diventano uno specchio e scompaiono con un fulmine", con le seguenti impostazioni: 480p, 6s, 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="Generazione di video da immagini">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11225)**
-
-**Author:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **Source:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **Published:** Sep 23, 2026
-
----
-### Ranch Puritano del Seicento
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per generare una scena video di un ranch puritano in stile Robert Eggers del Seicento, con camino.
-
-#### 📝 Prompt
-
-```
-Iniziamo con un piccolo ranch puritano del Seicento, in stile Robert Eggers (The Witch), con camino acceso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="Ranch Puritano del Seicento">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11227)**
-
-**Author:** [JB](https://x.com/JoshuaBalianSR) | **Source:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **Published:** Sep 23, 2026
-
----
-### Video di Elon Musk che balla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera un video di Elon Musk che balla come Jennifer Lopez con l'audio di 'If You Want My Love'.
-
-#### 📝 Prompt
-
-```
-Crea un video di Elon che balla come Jennifer Lopez - If You Want My Love con audio
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="Video di Elon Musk che balla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11221)**
-
-**Author:** [Jared Foster](https://x.com/JaredFosterX) | **Source:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **Published:** Sep 23, 2026
-
----
-### Band di Gatti Rocker Antropomorfi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt completo per la generazione video su Grok Imagine, che mostra tre gatti antropomorfi mentre eseguono musica rock in un club fosforescente. Include istruzioni specifiche su illuminazione, movimento e sincronizzazione audio-visiva.
-
-#### 📝 Prompt
-
-```
-Genera un video continuo di gatti rocker antropomorfi che eseguono una canzone dal vivo in inglese. L'atmosfera è psicologica e fosforescente.
-
-Tre gatti antropomorfi stanno sul palco rialzato come una band rock. Mantengono teste, orecchie, pelliccia e code feline, indossando abiti da rocker e tenendo strumenti musicali. Si esibiscono insieme come un unico gruppo.
-
-All'inizio, i gatti sono rivolti verso il pubblico in un club buio e fosforescente: tenui bagliori verde-ciano pulsano sulla loro pelliccia, sugli strumenti e nell'aria circostante. Il gatto solista si avvicina al microfono centrale e inizia a cantare chiaramente in inglese, mentre gli altri due suonano chitarra e batteria in sincronia. Le loro bocche si muovono con le parole inglesi, gli occhi sono intensi e leggermente selvaggi, i corpi oscillano a tempo. Scie luminose e bagliori fosforescenti si intensificano attorno a loro man mano che l'esibizione cresce. Alla fine, mantengono l'ultima nota e posano insieme sotto le luci brillanti.
-
-Mantieni i gatti completamente antropomorfi nel ruolo di rocker, il canto in inglese, l'atmosfera psicologico-fosforescente e la performance continua della band stabile per tutta la durata. Nessun sottotitolo appare sullo schermo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="Band di Gatti Rocker Antropomorfi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
-
-**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
-
----
-### Statua Barocca dell'Arcangelo Michele
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per Grok Imagine per generare un dipinto a olio in stile Rinascimentale-Barocco di una statua dell'Arcangelo Michele in un contesto museale, combinando gli stili di Michelangelo e Bernini.
-
-#### 📝 Prompt
-
-```
-Un magistrale dipinto a olio in stile Rinascimentale-Barocco che raffigura una statua in marmo color crema dell'Arcangelo Michele come angelo guerriero, ibrido tra Michelangelo e Bernini. Volto idealizzato nello stile di Michelangelo, sguardo nobile e severo, capelli ondulati scolpiti. Movimento drammatico nello stile di Bernini con grandi ali scolpite completamente spiegate e drappeggio fluente scolpito in pieghe pesanti. Marmo color crema invecchiato con pennellate d'ombra marrone caldo nelle pieghe. Un'armatura pettorale metallica blu-argento brillante sul petto che risplende di una luce fredda bluastra. Il braccio destro della statua è completamente scolpito ed esteso verso l'esterno in un gesto nobile del guerriero con la mano aperta; il braccio sinistro pende lungo il fianco. Statua di dimensioni museali su un piedistallo ornato in pietra scolpita, punto focale chiaro della stanza.
-Attorno al piedistallo si ergono quattro colonne basse in marmo color crema, elaborate e scolpite, collegate da una semplice catena elegante in metallo, una barriera interna del museo. Una galleria grandiosa di palazzo italiano o un gabinetto delle curiosità simile al Vaticano. Le pareti sono densamente coperte di dipinti a olio del XVI–XVII secolo in cornici pesanti dorate. Una scrivania antica in legno scolpito in primo piano con carte, piuma d'oca, calamaio e una candela accesa. Collezioni circostanti: globi, libri rilegati in pelle, busti più piccoli in marmo, armadietti in legno con artefatti, tutti secondari e leggermente più scuri affinché la statua comandi l'attenzione.
-Luce calda di lampadari dorati e candele, ricco chiaroscuro caravaggesco, ombre sfumate di viola negli angoli. Pavimento in marmo lucido con riflessi, soffitto a cassettoni dorato. Aspetto cinematografico di un antico dipinto a olio. Texture altamente dettagliate di marmo, armatura metallica, catena, cornici in foglia d'oro e tela invecchiata. Nessun oggetto moderno. Nessuna recinzione in ferro. Nessun arto mancante.
-```
-
-<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="Statua Barocca dell'Arcangelo Michele">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11223)**
-
-**Author:** [Arco](https://x.com/arco0369) | **Source:** [Link](https://x.com/arco0369/status/2102491951287181545) | **Published:** Sep 22, 2026
-
----
-### Prompt Grok Imagine per scena con mangiatoia per uccelli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per Grok Imagine che descrive uccelli presso una mangiatoia accompagnati da carillon di vento color opale.
-
-#### 📝 Prompt
-
-```
-Uccelli canori presso una mangiatoia; un grazioso carillon di vento appeso alla mangiatoia è composto da una serie di ingranaggi colorati in tonalità opale
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="Prompt Grok Imagine per scena con mangiatoia per uccelli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11178)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **Published:** Sep 22, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2262,6 +2275,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-05T05:18:59.044Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-05T17:17:30.943Z</sub>
 
 </div>

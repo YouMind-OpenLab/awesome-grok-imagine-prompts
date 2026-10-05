@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2975** |
+| 📝 Total Prompts | **2983** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-05** |
 
@@ -189,6 +189,183 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ฉากอัศวินราชาในมหาวิหารโกธิค
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์รายละเอียดสำหรับสร้างฉากภาพยนตร์สมจริงที่แสดงภาพกษัตริย์อัศวินสวมเกราะในมหาวิหารโกธิคมืดครึ้มพร้อมแสงวอลลูเมตริก
+
+#### 📝 Prompt
+
+```
+Create a photorealistic cinematic full-body scene in the same dark gothic cathedral with dramatic volumetric light rays and stone columns. The mysterious armored knight king in black ornate armor, golden crown, red velvet hooded cloak with gold embro...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106962340663185408/img/TuIgHGXpfdd9HVuA.jpg" width="600" alt="ฉากอัศวินราชาในมหาวิหารโกธิค">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11965)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2106962402625642616) | **Published:** Oct 5, 2026
+
+---
+### Grok Imagine: จิตสำนึกของ Madonna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างภาพเคลื่อนไหวของ Madonna ให้พูดประโยคเฉพาะด้วยบรรยากาศแบบสมาธิ
+
+#### 📝 Prompt
+
+```
+ให้ภาพของ Madonna คงสภาพเดิมไว้ โดยเธอขยับปากพูดด้วยเสียงกระซิบที่ชัดเจนว่า “Everything begins with consciousness.” จากนั้นให้ทั้งสองภาพพูดพร้อมกันว่า “we will be one, we will be divine.” สร้างบรรยากาศแบบสมาธิและดูเหนือจริง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106935375856054272/img/w3SU1z4EH2Hnye_J.jpg" width="600" alt="Grok Imagine: จิตสำนึกของ Madonna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11963)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2106935406176702934) | **Published:** Oct 5, 2026
+
+---
+### ผีในครัวอบอุ่นหมุนตัว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบสโลว์โมชั่นที่ละเอียดและเต็มไปด้วยความหมาย แสดงผีประดับไฟหมุนตัวในครัวอบอุ่นท่ามกลางกลีบกุหลาบและไฟสาย
+
+#### 📝 Prompt
+
+```
+ผีประดับไฟเรืองแสงในครัวอบอุ่นยามค่ำ จับภาพการหมุนตัวอย่างช้าๆ ดุจฝัน…
+ผ้าปูสีขาวกำลังเคลื่อนไหว นุ่มลื่น แต่การเคลื่อนไหวนั้นอ่อนโยนและไม่รีบร้อน เหมือนผีกำลังรำลึกถึงท่วงทำนองที่เคยเต้น…
+แสงภายในส่องผ่านเนื้อผ้าอย่างอบอุ่น สม่ำเสมอและนุ่มนวล…
+ดวงตาสีดำรูปวงรีสองข้างหันไปข้างหน้า สงบและเงียบงัน…
+กลีบกุหลาบสีชมพูปลิวลอยช้าๆ ในอากาศรอบตัว แข็งค้างอยู่ในชั่วขณะนั้น…
+ไฟสายสีม่วงและส้มเรืองแสงตามตู้และชั้นวางของด้านหลัง…
+แจกันดอกกุหลาบสีชมพูและขาววางอยู่บนเคาน์เตอร์ด้านหลัง…
+ของตกแต่งวันฮาโลวีน — ฟักทอง, กโนม, นกฮูก, ดอกทานตะวัน — เต็มชั้นวาง ทั้งหมดนิ่งสนิท…
+ครัวเงียบสงบ ผีพักผ่อน และช่วงเวลาถูกแช่แข็ง…”
+ดวงตาของผีปิดลงเล็กน้อย…
+เหมือนมันจมดิ่งในความทรงจำ…
+แสงกะพริบไหว เหมือนเทียนที่จดจำเปลวไฟ…ผีคงความนุ่มนวลไว้…
+มันไม่เคยคมชัดเลย…
+นั่นคือเคล็ดลับทั้งหมด…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106931393112551424/img/rP1MlDXheSGASwoj.jpg" width="600" alt="ผีในครัวอบอุ่นหมุนตัว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11962)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106931506694193403) | **Published:** Oct 5, 2026
+
+---
+### พรอมต์ Grok Imagine: แอนิเมชันผีตกแต่งเรืองแสงแบบฝัน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับการสร้างวิดีโอด้วย Grok Imagine เพื่อทำแอนิเมชันให้ผีตกแต่งเรืองแสงในครัวอบอุ่นด้วยการเคลื่อนไหวช้าๆ แบบฝัน
+
+#### 📝 Prompt
+
+```
+animate this exact image , A light-up ghost decoration in a cozy kitchen at night, captured in a slow, dreamlike twirl…
+…
+The white sheet is mid-motion, soft and flowing, but the movement is gentle and unhurried, like the ghost is remembering a dance...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106929051705192448/img/egOhllHpFI9kqDWs.jpg" width="600" alt="พรอมต์ Grok Imagine: แอนิเมชันผีตกแต่งเรืองแสงแบบฝัน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11968)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106929145942831576) | **Published:** Oct 5, 2026
+
+---
+### วิดีโอการแสดงเต้นคอนเสิร์ต
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt แบบละเอียดสูงสำหรับการสร้างภาพเคลื่อนไหวของหญิงสาวที่กำลังเต้นบนเวที โดยครอบคลุมการเคลื่อนกล้อง แสง การซิงค์ดนตรี และข้อจำกัดเชิงลบ
+
+#### 📝 Prompt
+
+```
+คงลักษณะของหญิงสาว ใบหน้า ทรงผม ชุด สัดส่วนร่างกาย รองเท้าบูท เวที แสง มุมกล้อง และบรรยากาศคอนเสิร์ตให้ตรงกับภาพอ้างอิงอย่างสมบูรณ์ สร้างภาพเคลื่อนไหวให้เธอดำเนินการเต้นอย่างมีชีวิตชีวาและสง่างามตามธรรมชาติ เธอเริ่มด้วยท่าทางเดิม จากนั้นขยับแขนเข้าจังหวะอย่างลื่นไหล โยกสะโพก ก้าวเดินอย่างมั่นใจในการเต้น หมุนตัวเล็กน้อย และจบด้วยท่าทางที่เต็มไปด้วยความสุข ผมยาวสีแดงของเธอเคลื่อนไหวอย่างเป็นธรรมชาติตามจังหวะการเต้น เพิ่มสีหน้าที่สมจริงและรอยยิ้มที่มีความสุข ไฟสปอตไลท์คอนเสิร์ตสีม่วงและขาวกะพริบเบาๆ ตามจังหวะเพลง พร้อมหมอกบางๆ บนเวทีและเอฟเฟกต์โบเก้ในฉากหลัง กล้องเคลื่อนเข้าแบบช้าๆ อย่างมีสไตล์ภาพยนตร์พร้อมการสั่นไหวเล็กน้อยแบบมือถือเพื่อจำลองบรรยากาศคอนเสิร์ต การเคลื่อนไหวของมนุษย์สมจริง กายวิภาคเป็นธรรมชาติ มือและเท้าถูกต้อง ไม่มีการบิดเบี้ยว ไม่มีอวัยวะเกิน ไม่มีการเปลี่ยนชุด เพลงป๊อปแดนซ์จังหวะเร็วที่มีเมโลดี้ติดหู กลองทรงพลัง เบสหนักแน่น และเสียงสังเคราะห์สดใส ซิงค์กับการเคลื่อนไหวของเธออย่างสมบูรณ์แบบ รักษาความสอดคล้องของภาพตั้งแต่ต้นจนจบ ให้มีคุณภาพระดับภาพยนตร์ สมจริงเหมือนการแสดงคอนเสิร์ต
+
+Negative prompt:
+
+ห้ามเปลี่ยนใบหน้า ห้ามเปลี่ยนตัวตน ห้ามเปลี่ยนเสื้อผ้า ห้ามมีนิ้วเกิน ห้ามมีแขนหรือขาเกิน ห้ามบิดเบี้ยวร่างกาย ห้ามมือผิดรูป ห้ามเคลื่อนไหวไม่เป็นธรรมชาติ ห้ามกล้องกระตุก ห้ามเปลี่ยนฉากหลัง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106913169654579200/img/fGfZHh9uego_T3hm.jpg" width="600" alt="วิดีโอการแสดงเต้นคอนเสิร์ต">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11966)**
+
+**Author:** [CanineTrace](https://x.com/CanineTrace) | **Source:** [Link](https://x.com/CanineTrace/status/2106913197534097519) | **Published:** Oct 5, 2026
+
+---
+### พรอมต์ Grok Imagine: ฉากชาอุ่นยามเช้าและนกฮัมมิงเบิร์ด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอใน Grok Imagine ที่บรรยายฉากยามเช้าอันเงียบสงบพร้อมแสงแดด ชา และนกฮัมมิงเบิร์ด
+
+#### 📝 Prompt
+
+```
+แสงแดดยามเช้าส่องผ่านหน้าต่าง แสงแดดกระทบโต๊ะไม้ ถ้วยชามีไออุ่นลอยขึ้น นกฮัมมิงเบิร์ดเกาะอยู่ที่ป้อนอาหารนอกหน้าต่าง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106800046796861440/img/IhQAx6n9BRdmBWTB.jpg" width="600" alt="พรอมต์ Grok Imagine: ฉากชาอุ่นยามเช้าและนกฮัมมิงเบิร์ด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11969)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106800094381224248) | **Published:** Oct 4, 2026
+
+---
+### พรอมต์แก้ไขภาพ Portrait ของสุนัขชิวาวา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับแก้ไขภาพใน Grok Imagine เพื่อปรับปรุงภาพถ่ายของสุนัขชิวาวาสองตัวให้เป็นภาพแนวตั้งโดยยังคงรายละเอียดเฉพาะไว้
+
+#### 📝 Prompt
+
+```
+แก้ไขภาพนี้เป็นภาพ Portrait แนวตั้งที่สวยงามของสุนัขชิวาวาสองตัวชื่อ Tatiana และ Scout โดยคงลักษณะภายนอก รอยแต้มบนขน และสายรัดสีน้ำเงินของสุนัขที่มีขนยาวกว่าไว้ตามเดิม เน้นให้เห็นขนที่ยาวและจมูกสั้นของพวกเขา ปรับปรุงความคมชัด แสง...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106770205540012032/img/q0jfCf8EPL9yqan2.jpg" width="600" alt="พรอมต์แก้ไขภาพ Portrait ของสุนัขชิวาวา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11967)**
+
+**Author:** [soundmoney Delilah](https://x.com/Rhonda08936681) | **Source:** [Link](https://x.com/Rhonda08936681/status/2106770233109430427) | **Published:** Oct 4, 2026
+
+---
+### ภาพจำลองภาวะเอกฐานเริ่มต้นและทฤษฎี E=mc²
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำขอที่ซับซ้อนสำหรับการสร้างภาพตัวแทนของภาวะเอกฐานเริ่มต้น ซึ่งตัดกับจักรวาลที่กำลังเย็นลง และทฤษฎี E=mc² ของไอน์สไตน์ โดยไม่มีการใช้ข้อความในภาพ
+
+#### 📝 Prompt
+
+```
+ช่วยสร้างภาพว่า "ภาวะเอกฐานเริ่มต้น" (Initial Singularity) อาจมีลักษณะเป็นอย่างไร และทำให้เห็นความแตกต่างกับช่วงที่จักรวาลเย็นลงเมื่อพลังงานควบแน่นกลายเป็นสสาร
+
+นำเสนอภาพประกอบสำหรับทฤษฎีของไอน์สไตน์:
+
+E = mc²
+
+ห้ามมีข้อความปรากฏในภาพ Grok
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106744445634846720/img/Cq8Pri7VKLuyv2dH.jpg" width="600" alt="ภาพจำลองภาวะเอกฐานเริ่มต้นและทฤษฎี E=mc²">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11964)**
+
+**Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2106744503788880314) | **Published:** Oct 4, 2026
+
+---
 ### Grok Imagine Video: ฉากห้องน้ำแข็งในฮ่องกง
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -267,7 +444,7 @@ Why use our gallery?
 ทำให้อินโฟกราฟิกนี้เคลื่อนไหว เป็นลูปวนซ้ำแบบภาพยนตร์ที่ราบรื่น ความยาว 8 วินาที ชายชาวเอเชียถือไฟแช็ก Zippo สีดำที่เปิดฝาอย่างมั่นคง โดยนิ้วโป้งวางอยู่บนฝาปิด แพนด้าแดงตัวเล็กที่สวมหมวกไหมพรมสีม่วง BAD RUDY นั่งอยู่บนฝาพับ ปากอ้า พ่นเปลวไฟสีส้มสั้นๆ ที่ควบคุมได้ ซึ่งกระพริบและดับลงเหลือเพียงเปลวไฟเล็กๆ บนไส้ไฟแช็ก ดวงตาสีส้มเรืองแสงของมันกะพริบหนึ่งครั้ง เถ้าถ่านลอยฟุ้ง รอยยิ้มมุมปากของชายคนนั้นขยับเล็กน้อย คิ้วข้างหนึ่งยกขึ้น แล้วกลับสู่ท่าเดิม ลายสักบนแขนนิ่งสนิท แผงวงจรสีม่วงด้านหลังเขาสว่างวาบหนึ่งครั้ง ช้าๆ ไม่มีการเคลื่อนกล้อง ไม่มีตัวละครเพิ่มเติม เสียง: เสียงคลิกของหินไฟแช็ก, เสียงลมพัดผ่านเปลวไฟเบาๆ, และเสียงเป่าลมออกเงียบๆ หนึ่งครั้ง
 ```
 
-<img src="https://cms-assets.youmind.com/media/1791106041379_psqya1_HTv9L15WsAAK1vK.jpg" width="600" alt="แอนิเมชันไฟแช็กสไตล์ภาพยนตร์พร้อมแพนด้าแดง">
+<img src="https://cms-assets.youmind.com/media/1791187394588_vcalam_HTv9L14WoAAGXEj.jpg" width="600" alt="แอนิเมชันไฟแช็กสไตล์ภาพยนตร์พร้อมแพนด้าแดง">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11884)**
 
@@ -2041,170 +2218,6 @@ AI video — ภาพยนตร์แนวตั้ง 9:16
 **Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
 
 ---
-### วิดีโอแอ็กชันตัวละครนักธนู
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างวิดีโออย่างละเอียดโดยใช้ภาพอ้างอิงของตัวละครนักธนูเพื่อสร้างลำดับการกระทำเฉพาะ
-
-#### 📝 Prompt
-
-```
-[เป้าหมายการสร้าง]
-สร้างวิดีโอของตัวละครที่มีกล้ามเนื้อจากภาพอ้างอิงกำลังทำการกระทำ "อึ" อย่างธรรมชาติโดยยังคงอยู่ในบทบาท
-
-[บทบาทของสินทรัพย์อ้างอิง]
-@image1 ใช้สำหรับรูปลักษณ์เต็มของตัวละคร: นักธนู
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="วิดีโอแอ็กชันตัวละครนักธนู">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11222)**
-
-**Author:** [Dylan Briggs](https://x.com/DylanBriggjk) | **Source:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **Published:** Sep 24, 2026
-
----
-### พรอมต์วิดีโอ Grok Imagine: โมโนลิธแตกสลาย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างวิดีโอใน Grok Imagine ที่อธิบายภาพโมโนลิธกำลังแตกออกเป็นเสี่ยงๆ พร้อมลำแสงพุ่งทะยานขึ้นสู่ท้องฟ้า
-
-#### 📝 Prompt
-
-```
-โมโนลิธแตกสลายออก และลำแสงปรากฏขึ้นพุ่งตรงขึ้นไปบนท้องฟ้า
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine: โมโนลิธแตกสลาย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11224)**
-
-**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **Published:** Sep 23, 2026
-
----
-### การสร้างวิดีโอจากภาพ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ตัวอย่างพรอมป์ที่ใช้ข้อความภาษาโครเอเชีย ('The images stack up become a mirror and disappear with a thunder strike') เพื่อสร้างวิดีโอสั้นแนวตั้งจากภาพที่กำหนดให้
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอใหม่จากภาพที่กำหนดให้โดยใช้พรอมป์นี้: "The images stack up, become a mirror, and disappear with a strike of lightning" พร้อมกับการตั้งค่าดังนี้: 480p, 6s, 9:16
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="การสร้างวิดีโอจากภาพ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11225)**
-
-**Author:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **Source:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **Published:** Sep 23, 2026
-
----
-### บ้านไร่เพียวริตันยุค ค.ศ. 1600
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างฉากวิดีโอของบ้านไร่เพียวริตันสไตล์ Robert Eggers ในยุค ค.ศ. 1600 พร้อมเตาผิง
-
-#### 📝 Prompt
-
-```
-มาเริ่มกันด้วยบ้านไร่เพียวริตันสไตล์ Robert Eggers จากภาพยนตร์ The Witch ในยุค ค.ศ. 1600 ซึ่งเป็นบ้านหลังเล็กที่มีเตาผิง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="บ้านไร่เพียวริตันยุค ค.ศ. 1600">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11227)**
-
-**Author:** [JB](https://x.com/JoshuaBalianSR) | **Source:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **Published:** Sep 23, 2026
-
----
-### วิดีโอ Elon Musk เต้น
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สร้างวิดีโอของ Elon Musk เต้นในสไตล์ Jennifer Lopez พร้อมเสียงเพลงจาก 'If You Want My Love'
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอของ Elon Musk เต้นในสไตล์ Jennifer Lopez - If You Want My Love พร้อมเสียง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="วิดีโอ Elon Musk เต้น">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11221)**
-
-**Author:** [Jared Foster](https://x.com/JaredFosterX) | **Source:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **Published:** Sep 23, 2026
-
----
-### วงร็อกแมวแอนโทรโพมอร์ฟิก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างวิดีโอแบบครบถ้วนสำหรับ Grok Imagine นำเสนอแมวแอนโทรโพมอร์ฟิกสามตัวที่เล่นดนตรีร็อกในคลับเรืองแสง ประกอบด้วยคำแนะนำเฉพาะเกี่ยวกับแสง การเคลื่อนไหว และการซิงค์ภาพและเสียง
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอต่อเนื่องของวงร็อกแมวแอนโทรโพมอร์ฟิกที่กำลังแสดงเพลงสดเป็นภาษาอังกฤษ บรรยากาศมีความลึกลับทางจิตวิทยาและเรืองแสง
-
-แมวแอนโทรโพมอร์ฟิกสามตัวยืนเป็นวงร็อกบนเวทีเล็กที่ยกสูง พวกมันยังคงมีหัว หู ขน และหางแบบแมว แต่สวมเสื้อผ้าสไตล์ร็อกและถือเครื่องดนตรี พวกมันแสดงร่วมกันในฐานะกลุ่มเดียว
-
-ในช่วงเริ่มต้น แมวหันหน้าเข้าหาผู้ชมในคลับมืดที่มีแสงเรืองแสง: แสงสีเขียว-ฟ้าอ่อนๆ พัลส์ผ่านขน เครื่องดนตรี และอากาศรอบตัวพวกมัน แมวนำก้าวไปยังไมโครโฟนกลางและเริ่มร้องเพลงเป็นภาษาอังกฤษอย่างชัดเจน ในขณะที่อีกสองตัวเล่นกีตาร์และกลองให้สอดคล้องกัน ปากของพวกมันขยับตามเนื้อเพลงภาษาอังกฤษ ดวงตาเข้มข้นและดุดันเล็กน้อย ร่างกายโยกย้ายตามจังหวะ รอยแสงและแสงเรืองแสงintensify รอบตัวพวกมันเมื่อการแสดงทวีความรุนแรงขึ้น ในตอนท้าย พวกมันค้างโน้ตสุดท้ายและโพสต์ท่าด้วยกันภายใต้แสงสว่าง
-
-รักษาให้แมวเป็นร็อกเกอร์แอนโทรโพมอร์ฟิกเต็มรูปแบบ การร้องเพลงเป็นภาษาอังกฤษ บรรยากาศเชิงจิตวิทยา-เรืองแสง และการแสดงของวงที่ต่อเนื่องให้เสถียรตลอดทั้งคลิป ไม่ปรากฏคำบรรยายบนหน้าจอ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="วงร็อกแมวแอนโทรโพมอร์ฟิก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
-
-**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
-
----
-### รูปปั้นอัครเทวดามีคาเอลสไตล์บาโรก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ Grok Imagine ที่ละเอียดสำหรับการสร้างภาพวาดสีน้ำมันสไตล์บาโรก-เรเนซองส์ของรูปปั้นอัครเทวดามีคาเอลในพิพิธภัณฑ์ โดยผสมผสานสไตล์ของมีเกลันเจโลและเบอร์นินี
-
-#### 📝 Prompt
-
-```
-ภาพวาดสีน้ำมันสไตล์บาโรก-เรเนซองส์อันประณีต แสดงรูปปั้นหินอ่อนสีครีมของอัครเทวดามีคาเอลในฐานะทูตสวรรค์นักรบ ซึ่งเป็นการผสมผสานระหว่างสไตล์ของมีเกลันเจโลและเบอร์นินี ใบหน้าอุดมคติแบบมีเกลันเจโล สายตาที่เคร่งขรึมและสูงส่ง และเส้นผมหยักสลักอย่างประณีต การเคลื่อนไหวอันน่าทึ่งแบบเบอร์นินี ปีกแกะสลักขนาดใหญ่กางออกเต็มที่ และผ้าคลุมไหล่แกะสลักที่พลิ้วไหวด้วยรอยพับหนา หินอ่อนสีครีมที่มีร่องรอยแห่งกาลเวลา พร้อมเงาที่วาดเป็นลายเส้นสีน้ำตาลอุ่นตามรอยพับ เกราะอกโลหะสีเงิน-น้ำเงินวาววับบนหน้าอก สะท้อนแสงเย็นโทนฟ้า แขนขวาของรูปปั้นถูกแกะสลักอย่างสมบูรณ์และยื่นออกไปด้านนอกในท่าทางนักรบที่เปิดมืออย่างสง่างาม ส่วนแขนซ้ายห้อยลงข้างลำตัว รูปปั้นขนาดเท่าจริงในพิพิธภัณฑ์ตั้งอยู่บนฐานหินแกะสลักวิจิตร เป็นจุดศูนย์กลางความสนใจของห้อง
-รอบๆ ฐานมีเสาหินอ่อนสีครีมแกะสลักอย่างประณีตสี่ต้นเชื่อมต่อกันด้วยโซ่โลหะเรียบง่ายแต่หรูหรา ซึ่งเป็นรั้วกั้นภายในพิพิธภัณฑ์ ห้องแสดงภาพในพระราชวังอิตาลีขนาดใหญ่หรือตู้เก็บของหายากแบบวาติกัน ผนังปกคลุมไปด้วยภาพวาดสีน้ำมันจากศตวรรษที่ 16–17 ในกรอบทองหนักแน่น ด้านหน้ามีโต๊ะเขียนหนังสือไม้แกะสลักโบราณพร้อมกระดาษ ปากกาขนนก หมึก และเทียนที่จุดอยู่ ของสะสมโดยรอบ: ลูกโลก หนังสือปกหนัง รูปปั้นครึ่งตัวหินอ่อนขนาดเล็ก ตู้ไม้ใส่โบราณวัตถุ ทั้งหมดอยู่ในตำแหน่งรองและมืดกว่าเล็กน้อยเพื่อให้รูปปั้นดึงดูดสายตา
-แสงโคมระย้าสีทองอบอุ่นและแสงเทียน คอนทราสต์แบบคาราวัจโจที่เข้มข้น เงาโทนม่วงในมุมมืด พื้นหินอ่อนขัดเงาสะท้อนแสง เพดานหลุมปิดทอง ภาพรวมดูคล้ายภาพวาดสีน้ำมันโบราณแบบภาพยนตร์ รายละเอียดพื้นผิวสูงมากทั้งหินอ่อน เกราะโลหะ โซ่ กรอบทอง และผืนผ้าใบเก่า ไม่มีวัตถุสมัยใหม่ ไม่มีรั้วเหล็ก ไม่มีแขนขาขาดหาย
-```
-
-<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="รูปปั้นอัครเทวดามีคาเอลสไตล์บาโรก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11223)**
-
-**Author:** [Arco](https://x.com/arco0369) | **Source:** [Link](https://x.com/arco0369/status/2102491951287181545) | **Published:** Sep 22, 2026
-
----
-### พรอมต์ Grok Imagine สำหรับฉากที่ให้อาหารนก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์รายละเอียดสำหรับ Grok Imagine ที่อธิบายภาพนกกำลังกินอาหารจากที่ให้อาหารนกพร้อมกระดิ่งลมสีโอปอล
-
-#### 📝 Prompt
-
-```
-นกเพลงเกาะอยู่ที่ที่ให้อาหารนกอย่างน่ารัก กระดิ่งลมที่แขวนอยู่ใต้ที่ให้อาหารนกเป็นชุดเฟืองสีโอปอล
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="พรอมต์ Grok Imagine สำหรับฉากที่ให้อาหารนก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11178)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **Published:** Sep 22, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2266,6 +2279,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-05T05:18:48.686Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-05T17:17:23.312Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2975** |
+| 📝 Total Prompts | **2983** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-05** |
 
@@ -189,6 +189,182 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### गोथिक कैथेड्रल नाइट किंग दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अंधेरे गोथिक कैथेड्रल में वॉल्यूमेट्रिक लाइटिंग के साथ कवचधारी नाइट किंग की फोटो-रियलिस्टिक सिनेमाई दृश्य बनाने के लिए एक विस्तृत प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+नाटकीय वॉल्यूमेट्रिक प्रकाश किरणों और पत्थर के स्तंभों वाले उसी अंधेरे गोथिक कैथेड्रल में एक फोटो-रियलिस्टिक सिनेमाई पूर्ण-शरीर दृश्य बनाएं। काले जड़ौकत कवच, सुनहरे मुकुट, और सुनहरे नक्काशीदार लाल मखमली हुडेड चोगा पहने रहस्यमयी कवचधारी नाइट किंग...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106962340663185408/img/TuIgHGXpfdd9HVuA.jpg" width="600" alt="गोथिक कैथेड्रल नाइट किंग दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11965)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2106962402625642616) | **Published:** Oct 5, 2026
+
+---
+### Grok Imagine: Madonna चेतना
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक प्रॉम्प्ट जो Madonna की छवि को विशिष्ट पंक्तियों के साथ बोलते हुए और ध्यानपूर्ण वातावरण में एनिमेट करता है।
+
+#### 📝 Prompt
+
+```
+Madonna की छवि को ‘जैसी है वैसी’ रखें, जब वह फुसफुसाती हुई स्पष्ट आवाज़ में शब्दों का उच्चारण करती हैं: “Everything begins with consciousness.”, फिर दोनों छवियों को एक साथ कहते हुए दिखाएं, “we will be one, we will be divine.” इसे एक ध्यानपूर्ण, अलौकिक वातावरण दें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106935375856054272/img/w3SU1z4EH2Hnye_J.jpg" width="600" alt="Grok Imagine: Madonna चेतना">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11963)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2106935406176702934) | **Published:** Oct 5, 2026
+
+---
+### आरामदायक रसोई में भूत की मंद घूर्णन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक आरामदायक रसोई में गुलाब के पंखुड़ियों और स्ट्रिंग लाइट्स के साथ चमकते हुए भूत सजावट की धीमी गति से घूमने वाली वीडियो के लिए अत्यधिक विस्तृत और काव्यात्मक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+रात में एक आरामदायक रसोई में एक चमकता हुआ भूत सजावट, एक धीमे, स्वप्निल घूर्णन में कैप्चर किया गया…
+सफेद चादर हलचल में है, नरम और बहती हुई, लेकिन गति कोमल और बिना जल्दबाजी की है, जैसे भूत उस नृत्य को याद कर रहा हो जो उसने कभी जाना था…
+अंदर की रोशनी कपड़े से गर्मजोशी से चमकती है, स्थिर और कोमल…
+दो काले अंडाकार आँखें सामने की ओर हैं, शांत और मौन…
+गुलाबी गुलाब की पंखुड़ियाँ उसके चारों ओर हवा में धीरे-धीरे तैरती हैं, उस क्षण में स्थगित…
+पीली और नारंगी स्ट्रिंग लाइट्स पृष्ठभूमि में अलमारियों और शेल्फ़ पर चमकती हैं…
+गुलाबी और सफेद गुलाबों का एक फूलदान उसके पीछे काउंटर पर रखा है…
+हैलोवीन सजावट — कद्दू, नाना, उल्लू, एक सूरजमुखी — शेल्फ़ को भर देती हैं, सब कुछ स्थिर…
+रसोई शांत है, भूत विश्राम में है, क्षण जमा हुआ है…”
+भूत की आँखें थोड़ी बंद हैं…
+जैसे यह स्मृति में खोया हुआ है…
+रोशनी झिलमिलाती है, जैसे एक मोमबत्ती लौ को याद कर रही हो…भूत नरम रहता है…
+यह कभी तीखा नहीं होता…
+यही पूरा रहस्य है…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106931393112551424/img/rP1MlDXheSGASwoj.jpg" width="600" alt="आरामदायक रसोई में भूत की मंद घूर्णन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11962)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106931506694193403) | **Published:** Oct 5, 2026
+
+---
+### Grok Imagine प्रॉम्प्ट: सपने जैसा भूत की सजावट का एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जो Grok Imagine को एक आरामदायक रसोई में रोशनी वाले भूत की सजावट को धीमी, सपने जैसी गति के साथ एनिमेट करने के लिए उपयोग करता है।
+
+#### 📝 Prompt
+
+```
+इस छवि को एनिमेट करें, रात में एक आरामदायक रसोई में एक रोशनी वाला भूत की सजावट, जिसे धीमी, सपने जैसी घूर्णन गति में कैप्चर किया गया है...
+...सफेद चादर हवा में लहरा रही है, नरम और बहती हुई, लेकिन गति मृदु और बिना जल्दबाजी वाली है, जैसे भूत किसी नृत्य को याद कर रहा हो...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106929051705192448/img/egOhllHpFI9kqDWs.jpg" width="600" alt="Grok Imagine प्रॉम्प्ट: सपने जैसा भूत की सजावट का एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11968)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106929145942831576) | **Published:** Oct 5, 2026
+
+---
+### कॉन्सर्ट डांस परफॉर्मेंस वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> मंच पर नाच रही एक महिला को एनिमेट करने के लिए एक अत्यंत विस्तृत प्रॉम्प्ट, जिसमें कैमरा मूवमेंट, लाइटिंग, म्यूजिक सिंक और नेगेटिव कंस्ट्रेंट्स शामिल हैं।
+
+#### 📝 Prompt
+
+```
+रेफरेंस इमेज से उसी महिला, चेहरे, हेयरस्टाइल, आउटफिट, बॉडी प्रोपोर्शन, बूट्स, मंच, लाइटिंग, कैमरा एंगल और कॉन्सर्ट वातावरण को बनाए रखें। उसे मंच पर ऊर्जावान और सुंदर नृत्य करते हुए स्वाभाविक रूप से एनिमेट करें। वह उसी पोज़ से शुरू करती है, फिर लय के अनुसार अपने हाथों को सहजता से हिलाती है, कमर को झुमाती है, कुछ आत्मविश्वास भरे डांस स्टेप्स लेती है, थोड़ा मुड़ती है, और एक खुशनुमा पोज़ के साथ समाप्त करती है। उसके लंबे लाल बाल नृत्य के साथ स्वाभाविक रूप से हिलते हैं। यथार्थवादी चेहरे के भाव और एक खुशहाल मुस्कान जोड़ें। बैंगनी और सफेद कॉन्सर्ट स्पॉटलाइट संगीत के साथ धीरे-धीरे पल्स करते हैं, साथ ही सूक्ष्म मंच धुंध और बैकग्राउंड बोकेह का असर दिखाएं। कैमरा एक सहज सिनेमाई स्लो पुश-इन करता है, साथ में हल्का हैंडहेल्ड कॉन्सर्ट मूवमेंट होता है। यथार्थवादी मानव गति, प्राकृतिक शारीरिक रचना, सटीक हाथ और पैर, कोई विकृति नहीं, अतिरिक्त अंग नहीं, आउटफिट में कोई बदलाव नहीं। एक आकर्षक बीट, ऊर्जावान ड्रम्स, बेस और चमकीले सिंथ्स वाला अपबीट पॉप-डांस संगीत, जो उसके हर मूवमेंट के साथ पूरी तरह सिंक्रनाइज़ हो। दृश्य को शुरुआत से अंत तक दृष्टिगत रूप से सुसंगत, सिनेमाई, उच्च गुणवत्ता और यथार्थवादी कॉन्सर्ट परफॉर्मेंस बनाए रखें।
+
+नेगेटिव प्रॉम्प्ट:
+
+चेहरे में कोई बदलाव नहीं, पहचान में कोई बदलाव नहीं, कपड़ों में कोई बदलाव नहीं, अतिरिक्त उंगलियाँ नहीं, अतिरिक्त बाहें या टाँगें नहीं, शरीर की विकृति नहीं, बिगड़े हुए हाथ नहीं, असामान्य गति नहीं, कैमरा ग्लिच नहीं, पृष्ठभूमि में कोई बदलाव नहीं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106913169654579200/img/fGfZHh9uego_T3hm.jpg" width="600" alt="कॉन्सर्ट डांस परफॉर्मेंस वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11966)**
+
+**Author:** [CanineTrace](https://x.com/CanineTrace) | **Source:** [Link](https://x.com/CanineTrace/status/2106913197534097519) | **Published:** Oct 5, 2026
+
+---
+### Grok Imagine प्रॉम्प्ट: सुबह की चाय और ह्यूमिंगबर्ड का दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जो धूप, चाय और ह्यूमिंगबर्ड के साथ एक शांत सुबह का दृश्य चित्रित करता है।
+
+#### 📝 Prompt
+
+```
+सुबह की धूप खिड़की से आ रही है लकड़ी की मेज पर धूप चाय का कप हल्की भाप उठ रहा है खिड़की के बाहर फीडर पर ह्यूमिंगबर्ड
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106800046796861440/img/IhQAx6n9BRdmBWTB.jpg" width="600" alt="Grok Imagine प्रॉम्प्ट: सुबह की चाय और ह्यूमिंगबर्ड का दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11969)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106800094381224248) | **Published:** Oct 4, 2026
+
+---
+### चिहुआहुआ पोर्ट्रेट संपादन प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक इमेज एडिटिंग प्रॉम्प्ट जो दो चिहुआहुआ कुत्तों की फोटो को विशिष्ट विवरण बनाए रखते हुए एक वर्टिकल पोर्ट्रेट में बदलता है।
+
+#### 📝 Prompt
+
+```
+इस फोटो को टैटियाना और स्काउट नामक दो चिहुआहुआ कुत्तों के सुंदर वर्टिकल पोर्ट्रेट में संपादित करें। उनके सटीक रूप-रंग, निशान और लंबे बाल वाले कुत्ते पर पहने नीले हार्नेस को यथावत रखें। उनके लंबे बालों और छोटी नाकों पर विशेष ध्यान दें। स्पष्टता, रोशनी...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106770205540012032/img/q0jfCf8EPL9yqan2.jpg" width="600" alt="चिहुआहुआ पोर्ट्रेट संपादन प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11967)**
+
+**Author:** [soundmoney Delilah](https://x.com/Rhonda08936681) | **Source:** [Link](https://x.com/Rhonda08936681/status/2106770233109430427) | **Published:** Oct 4, 2026
+
+---
+### आरंभिक विलक्षणता और E=mc2 का दृश्य निरूपण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जटिल प्रॉम्प्ट जो आरंभिक विलक्षणता (initial singularity) का दृश्य निरूपण मांगता है, जो ठंडे होते ब्रह्मांड और आइंस्टीन के सिद्धांत E=mc2 के साथ तुलना करता है, जिसमें छवि पर कोई पाठ नहीं हो।
+
+#### 📝 Prompt
+
+```
+मेरे लिए बनाएं कि "आरंभिक विलक्षणता" कैसी दिखती होगी और उसकी तुलना ब्रह्मांड के ठंडा होने से करें जब ऊर्जा पदार्थ में संघनित हुई।
+
+मेरे लिए आइंस्टीन के सिद्धांत की एक चित्रमय प्रस्तुति दें:
+
+E = mc2
+
+छवि पर कोई पाठ नहीं Grok
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106744445634846720/img/Cq8Pri7VKLuyv2dH.jpg" width="600" alt="आरंभिक विलक्षणता और E=mc2 का दृश्य निरूपण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11964)**
+
+**Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2106744503788880314) | **Published:** Oct 4, 2026
+
+---
 ### Grok Imagine Video: हांगकांग आइस रूम दृश्य
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -267,7 +443,7 @@ Why use our gallery?
 इस स्थिर छवि को एनिमेट करें, 8 सेकंड, स्मूथ सिनेमैटिक लूप। एशियाई व्यक्ति खुले काले Zippo लाइटर को स्थिर रखता है, अंगूठा ढक्कन पर टिका हुआ है। बैंगनी BAD RUDY बीनी पहने छोटा रेड पांडा फ्लिप कैप पर बैठता है, मुँह खुला है, नारंगी आग की एक छोटी नियंत्रित बर्स्ट उगलता है जो झिलमिलाती है और फिर लाइटर की बाती पर एक छोटी लौ में बदल जाती है। उसकी चमकती नारंगी आँखें एक बार झपकती हैं। अंगारे तैरते हैं। व्यक्ति की हल्की मुस्कान थोड़ी बदलती है, एक भौंह उठती है, फिर वापस नीचे आ जाती है। अग्रभाग की टैटू स्थिर रहती हैं। उसके पीछे बैंगनी सर्किट बोर्ड धीरे से एक बार पल्स करता है। कोई कैमरा मूव नहीं। कोई अतिरिक्त पात्र नहीं। ध्वनि: लाइटर की फ्लिंट क्लिक, हल्की लौ की सरसराहट, एक शांत सांस।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1791106041379_psqya1_HTv9L15WsAAK1vK.jpg" width="600" alt="रेड पांडा के साथ सिनेमैटिक लाइटर एनिमेशन">
+<img src="https://cms-assets.youmind.com/media/1791187394588_vcalam_HTv9L14WoAAGXEj.jpg" width="600" alt="रेड पांडा के साथ सिनेमैटिक लाइटर एनिमेशन">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11884)**
 
@@ -2041,172 +2217,6 @@ AI वीडियो — 9:16 सिनेमैटिक
 **Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
 
 ---
-### Archer Character Action Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video generation prompt using a reference image of an archer character to generate a specific action sequence.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Generate a video of the muscular character from the reference image performing a natural "poop" action while remaining in character.
-
-[Reference Asset Roles]
-@image1 is used for the character's full appearance: archer
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="Archer Character Action Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11222)**
-
-**Author:** [Dylan Briggs](https://x.com/DylanBriggjk) | **Source:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **Published:** Sep 24, 2026
-
----
-### Grok Imagine वीडियो प्रॉम्प्ट: मोनोलिथ का टूटना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जो आकाश में प्रकाश की किरण छोड़ते हुए मोनोलिथ के टूटने का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-मोनोलिथ टूट जाता है और आकाश में सीधे ऊपर की ओर एक प्रकाश की किरण निकलती है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: मोनोलिथ का टूटना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11224)**
-
-**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **Published:** Sep 23, 2026
-
----
-### छवियों से वीडियो जनरेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> प्रदान की गई छवियों के आधार पर एक छोटा वर्टिकल वीडियो बनाने के लिए क्रोएशियाई भाषा में एक प्रॉम्प्ट का उपयोग ('छवियाँ एक-दूसरे पर चिपककर दर्पण बन जाती हैं और बिजली गिरने के साथ ही गायब हो जाती हैं')।
-
-#### 📝 Prompt
-
-```
-निम्नलिखित सेटिंग्स के साथ इस प्रॉम्प्ट का उपयोग करके प्रदान की गई छवियों के आधार पर मेरे लिए एक नया वीडियो बनाएं: "छवियाँ एक-दूसरे पर चिपककर दर्पण बन जाती हैं और बिजली गिरने के साथ ही गायब हो जाती हैं" - 480p, 6s, 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="छवियों से वीडियो जनरेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11225)**
-
-**Author:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **Source:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **Published:** Sep 23, 2026
-
----
-### 1600s Puritan Homestead
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a video scene of a 1600s Robert Eggers-style puritan homestead with a fireplace.
-
-#### 📝 Prompt
-
-```
-Let’s start with a 1600s Robert Eggers the witch puritan homestead small house fire place
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="1600s Puritan Homestead">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11227)**
-
-**Author:** [JB](https://x.com/JoshuaBalianSR) | **Source:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **Published:** Sep 23, 2026
-
----
-### एलन मस्क का डांस वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 'If You Want My Love' के ऑडियो के साथ जेनिफर लोपेज की तरह एलन मस्क के नाचते हुए वीडियो को जनरेट करता है।
-
-#### 📝 Prompt
-
-```
-जेनिफर लोपेज की तरह एलन मस्क के नाचते हुए वीडियो को बनाएं - 'If You Want My Love' के ऑडियो के साथ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="एलन मस्क का डांस वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11221)**
-
-**Author:** [Jared Foster](https://x.com/JaredFosterX) | **Source:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **Published:** Sep 23, 2026
-
----
-### एन्थ्रोपोमॉर्फिक रॉकर कैट्स बैंड
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ग्रोक इमेजिन के लिए एक व्यापक वीडियो जनरेशन प्रॉम्प्ट जिसमें तीन एन्थ्रोपोमॉर्फिक बिल्लियाँ फॉस्फोरसेंट क्लब में रॉक संगीत प्रस्तुत कर रही हैं। इसमें लाइटिंग, मूवमेंट और ऑडियो-विज़ुअल सिंक पर विशिष्ट निर्देश शामिल हैं।
-
-#### 📝 Prompt
-
-```
-अंग्रेजी में एक लाइव गाना प्रस्तुत करते हुए एन्थ्रोपोमॉर्फिक रॉकर बिल्लियों का एक निरंतर वीडियो जनरेट करें। माहौल मनोवैज्ञानिक और फॉस्फोरसेंट होना चाहिए।
-
-तीन एन्थ्रोपोमॉर्फिक बिल्लियाँ एक छोटे ऊंचे मंच पर रॉक बैंड के रूप में खड़ी हैं। वे अपने बिल्ली वाले सिर, कान, फर और पूंछ को बनाए रखते हुए रॉक कपड़े पहने हैं और वाद्य यंत्र पकड़े हुए हैं। वे एक समूह के रूप में साथ मिलकर प्रस्तुति दे रहे हैं।
-
-शुरुआत में, बिल्लियाँ एक धुंधले, फॉस्फोरसेंट क्लब में दर्शकों की ओर मुंह करके खड़ी हैं: हल्की हरी-सियान चमक उनके फर, वाद्य यंत्रों और उनके आसपास की हवा में फैलती है। लीड बिल्ली केंद्र में माइक्रोफोन के पास जाती है और अंग्रेजी में स्पष्ट रूप से गाती शुरू करती है, जबकि अन्य दो बिल्लियाँ तालमेल बिठाकर गिटार और ड्रम बजाती हैं। उनके मुंह अंग्रेजी गीतों के साथ चलते हैं, उनकी आँखें तीव्र और थोड़ी जंगली होती हैं, और उनके शरीर बीट के साथ झूलते हैं। जैसे-जैसे प्रस्तुति बढ़ती है, उनके आसपास फॉस्फोरसेंट लाइट ट्रेल्स और चमक तेज होती जाती है। अंत में, वे अंतिम स्वर को बनाए रखते हैं और चमकती रोशनी में एक साथ पोज़ देते हैं।
-
-बिल्लियों को पूरी तरह से एन्थ्रोपोमॉर्फिक रॉकर, अंग्रेजी में गायन, मनोवैज्ञानिक-फॉस्फोरसेंट माहौल और निरंतर बैंड प्रस्तुति को स्थिर रखें। स्क्रीन पर कोई सबटाइटल नहीं दिखना चाहिए।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="एन्थ्रोपोमॉर्फिक रॉकर कैट्स बैंड">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
-
-**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
-
----
-### बारोक शैली की आर्कएंजल माइकल मूर्ति
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> म्यूजियम सेटिंग में बारोक-पुनर्जागरण शैली की तेल पेंटिंग उत्पन्न करने के लिए एक विस्तृत Grok Imagine प्रॉम्प्ट, जो माइकलएंजलो और बर्निनी की शैलियों को संयोजित करता है।
-
-#### 📝 Prompt
-
-```
-आर्कएंजल माइकल की क्रीम मार्बल मूर्ति का एक महारत भरा बारोक-पुनर्जागरण तेल चित्र, जिसे योद्धा देवदूत के रूप में दर्शाया गया है, जो माइकलएंजलो और बर्निनी की शैलियों का मिश्रण है। माइकलएंजलो शैली का आदर्शीकृत चेहरा, गौरवशाली कठोर दृष्टि, और तरंगदार बालों की नक्काशी। बर्निनी शैली का नाटकीय गतिविधि जिसमें बड़ी नक्काशीदार पंख पूरी तरह फैले हुए हैं और भारी मोड़ों में बहती हुई नक्काशीदार वस्त्र। क्रीम रंग की प्राचीन मार्बल जिसमें मोड़ों में गर्म भूरे रंग की छाया की स्ट्रोक्स हैं। छाती पर चमकता हुआ सिल्वर-नीला धातु का सीने का कवच जो ठंडी नीली रोशनी में चमकता है। मूर्ति का दाहिना हाथ पूरी तरह नक्काशीदार है और बाहर की ओर एक गौरवशाली खुले हाथ वाले योद्धा के इशारे में बढ़ा हुआ है; बायां हाथ किनारे पर लटका हुआ है। एक अलंकृत नक्काशीदार पत्थर के आधार पर म्यूजियम-स्केल की मूर्ति, कमरे का स्पष्ट केंद्र बिंदु।
-
-आधार के चारों ओर चार निचले, जटिल रूप से नक्काशीदार क्रीम मार्बल स्तंभ खड़े हैं, जो एक सरल सुंदर धातु की चेन से जुड़े हुए हैं, यह एक आंतरिक म्यूजियम बाधा है। भव्य इतालवी पैलेज़ो गैलरी या वैटिकन जैसी दुर्लभ वस्तुओं की कैबिनेट। दीवारें भारी सुनहरे फ्रेम वाली 16वीं–17वीं सदी की तेल पेंटिंग्स से घनी ढंग से ढकी हुई हैं। अग्रभूमि में एक प्राचीन नक्काशीदार लकड़ी की लेखन मेज जिसमें कागजात, कलम, स्याही की शीशी, और एक जलती हुई मोमबत्ती है। आसपास के संग्रह: ग्लोब, चमड़े से बंधी किताबें, छोटी मार्बल बस्ट, कलाकृतियों वाले लकड़ी के अलमारियाँ, सभी द्वितीयक और थोड़े गहरे ताकि मूर्ति ध्यान आकर्षित करे।
-
-गर्म सुनहरी झूमर और मोमबत्ती की रोशनी, समृद्ध कारावाजियो कीआरोस्कुरो (chiaroscuro), कोनों में बैंगनी-छाया वाली अंधेरी। प्रतिबिंबों के साथ पॉलिश किया गया मार्बल फर्श, छत पर सुनहरे खंड। सिनेमाई प्राचीन तेल-चित्र का लुक। मार्बल, धातु के कवच, चेन, सोने के पन्नी के फ्रेम, और पुराने कैनवास की अत्यधिक विस्तृत बनावट। कोई आधुनिक वस्तु नहीं। कोई लोहे की जाली नहीं। कोई लापता अंग नहीं।
-```
-
-<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="बारोक शैली की आर्कएंजल माइकल मूर्ति">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11223)**
-
-**Author:** [Arco](https://x.com/arco0369) | **Source:** [Link](https://x.com/arco0369/status/2102491951287181545) | **Published:** Sep 22, 2026
-
----
-### बर्ड फीडर दृश्य के लिए Grok Imagine प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत प्रॉम्प्ट जो बर्ड फीडर पर बैठे पक्षियों और ओपल रंग की विंड चाइम्स का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-बर्ड फीडर पर गाने वाले पक्षी, आकर्षक ढंग से लटकी हुई विंड चाइम जो ओपल रंग के गियर जैसी दिखती हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="बर्ड फीडर दृश्य के लिए Grok Imagine प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11178)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **Published:** Sep 22, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2268,6 +2278,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-05T05:18:50.976Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-05T17:17:25.176Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2975** |
+| 📝 Total Prompts | **2983** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-05** |
 
@@ -189,6 +189,183 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Cảnh Hiệp sĩ Vua trong Nhà thờ Gothic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt chi tiết để tạo ra cảnh quay điện ảnh chân thực, nổi bật với hình ảnh một vị vua hiệp sĩ mặc giáp trong nhà thờ Gothic tối tăm với ánh sáng thể tích.
+
+#### 📝 Prompt
+
+```
+Tạo một cảnh quay toàn thân điện ảnh chân thực trong cùng một nhà thờ Gothic tối tăm với các tia sáng thể tích kịch tính và các cột đá. Vị vua hiệp sĩ bí ẩn mặc áo giáp đen trang trí công phu, đội vương miện vàng, khoác áo choàng nhung đỏ có mũ trùm đầu với họa tiết vàng...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106962340663185408/img/TuIgHGXpfdd9HVuA.jpg" width="600" alt="Cảnh Hiệp sĩ Vua trong Nhà thờ Gothic">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11965)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2106962402625642616) | **Published:** Oct 5, 2026
+
+---
+### Grok Imagine Madonna Ý thức
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt hoạt hình hóa hình ảnh Madonna để cô ấy nói những câu cụ thể với không khí thiền định.
+
+#### 📝 Prompt
+
+```
+Giữ nguyên hình ảnh Madonna ‘như hiện tại’, trong khi cô ấy thì thầm rõ ràng từng lời: “Mọi thứ bắt đầu từ ý thức.”, sau đó yêu cầu cả hai hình ảnh cùng nói: “chúng ta sẽ là một, chúng ta sẽ trở nên thần thánh.” Tạo cho nó một không khí thiền định, siêu thoát.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106935375856054272/img/w3SU1z4EH2Hnye_J.jpg" width="600" alt="Grok Imagine Madonna Ý thức">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11963)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2106935406176702934) | **Published:** Oct 5, 2026
+
+---
+### Bóng ma xoay tròn trong gian bếp ấm cúng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết và giàu chất thơ cho video slow-motion về một món trang trí bóng ma phát sáng đang xoay tròn trong gian bếp ấm cúng với cánh hoa hồng và đèn dây.
+
+#### 📝 Prompt
+
+```
+Một món trang trí bóng ma phát sáng trong gian bếp ấm cúng vào ban đêm, được ghi lại trong một vòng xoay chậm rãi, như mơ…
+Tấm vải trắng đang ở giữa chuyển động, mềm mại và bay bổng, nhưng sự di chuyển thật nhẹ nhàng và ung dung, như thể bóng ma đang nhớ lại một vũ điệu mà nó từng biết…
+Ánh sáng bên trong tỏa ra ấm áp qua lớp vải, ổn định và dịu dàng…
+Hai đôi mắt đen hình bầu dục hướng về phía trước, bình tĩnh và yên lặng…
+Cánh hoa hồng màu hồng trôi chậm trong không khí xung quanh nó, lơ lửng trong khoảnh khắc…
+Đèn dây màu tím và cam phát sáng dọc theo tủ và kệ ở phía sau…
+Một lọ hoa hồng màu hồng và trắng đặt trên mặt bàn phía sau nó…
+Các đồ trang trí Halloween — bí ngô, yêu tinh, cú mèo, hoa hướng dương — lấp đầy các kệ, tất cả đều bất động…
+Gian bếp yên tĩnh, bóng ma nghỉ ngơi, khoảnh khắc đóng băng…”
+Đôi mắt của bóng ma hơi khép lại…
+Như thể nó đang chìm đắm trong ký ức…
+Ánh sáng nhấp nháy, như ngọn nến đang nhớ lại ngọn lửa…bóng ma vẫn giữ vẻ mềm mại…
+Nó không bao giờ trở nên sắc nét…
+Đó là toàn bộ bí quyết…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106931393112551424/img/rP1MlDXheSGASwoj.jpg" width="600" alt="Bóng ma xoay tròn trong gian bếp ấm cúng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11962)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106931506694193403) | **Published:** Oct 5, 2026
+
+---
+### Grok Imagine Prompt: Hoạt Hình Trang Trí Ma Cà Rồng Phát Sáng Như Giấc Mơ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video cho Grok Imagine để làm hoạt hình trang trí ma cà rồng phát sáng trong một căn bếp ấm cúng với chuyển động chậm, mơ màng.
+
+#### 📝 Prompt
+
+```
+Hãy làm hoạt hình chính xác hình ảnh này, Một vật trang trí ma cà rồng phát sáng trong một căn bếp ấm cúng vào ban đêm, được ghi lại trong một vòng xoay chậm rãi, như giấc mơ…
+…
+Tấm vải trắng đang ở giữa chuyển động, mềm mại và uyển chuyển, nhưng sự di chuyển thật nhẹ nhàng và không vội vã, như thể con ma đang nhớ lại một điệu nhảy...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106929051705192448/img/egOhllHpFI9kqDWs.jpg" width="600" alt="Grok Imagine Prompt: Hoạt Hình Trang Trí Ma Cà Rồng Phát Sáng Như Giấc Mơ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11968)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106929145942831576) | **Published:** Oct 5, 2026
+
+---
+### Video Biểu Diễn Múa Trong Concert
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết cao để tạo hoạt ảnh một phụ nữ nhảy trên sân khấu, bao gồm chuyển động máy quay, ánh sáng, đồng bộ nhạc và các ràng buộc tiêu cực.
+
+#### 📝 Prompt
+
+```
+Giữ nguyên chính xác người phụ nữ, khuôn mặt, kiểu tóc, trang phục, tỷ lệ cơ thể, đôi bốt, sân khấu, ánh sáng, góc máy quay và môi trường concert từ hình ảnh tham chiếu. Tạo hoạt ảnh cô ấy tự nhiên thực hiện một điệu nhảy năng động, uyển chuyển trên sân khấu. Cô ấy bắt đầu với cùng tư thế, sau đó nhẹ nhàng di chuyển cánh tay theo nhịp, lắc hông, bước vài bước nhảy tự tin, xoay người nhẹ và kết thúc bằng một tư thế vui vẻ. Mái tóc dài màu đỏ của cô ấy bay tự nhiên theo điệu nhảy. Thêm biểu cảm khuôn mặt chân thực và nụ cười hạnh phúc. Đèn spotlight concert màu tím và trắng nhấp nháy nhẹ nhàng đồng bộ với âm nhạc, kèm sương mù sân khấu tinh tế và hiệu ứng bokeh nền. Máy quay thực hiện cú push-in điện ảnh mượt mà với chuyển động cầm tay nhẹ nhàng kiểu concert. Chuyển động con người chân thực, giải phẫu tự nhiên, bàn tay và bàn chân chính xác, không biến dạng, không thừa chi, không thay đổi trang phục. Nhạc pop-dance sôi động với giai điệu bắt tai, trống mạnh mẽ, bass và synth tươi sáng, hoàn toàn đồng bộ với chuyển động của cô ấy. Giữ cảnh quan nhất quán về mặt hình ảnh từ đầu đến cuối, phong cách điện ảnh, chất lượng cao, màn trình diễn concert chân thực.
+
+Negative prompt:
+
+Không thay đổi khuôn mặt, không thay đổi danh tính, không thay đổi quần áo, không thừa ngón tay, không thừa tay hoặc chân, không biến dạng cơ thể, không làm méo bàn tay, không có chuyển động phi tự nhiên, không lỗi máy quay, không thay đổi nền
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106913169654579200/img/fGfZHh9uego_T3hm.jpg" width="600" alt="Video Biểu Diễn Múa Trong Concert">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11966)**
+
+**Author:** [CanineTrace](https://x.com/CanineTrace) | **Source:** [Link](https://x.com/CanineTrace/status/2106913197534097519) | **Published:** Oct 5, 2026
+
+---
+### Grok Imagine Prompt: Cảnh trà buổi sáng và chim ruồi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video cho Grok Imagine mô tả cảnh buổi sáng yên bình với ánh nắng, trà và một chú chim ruồi.
+
+#### 📝 Prompt
+
+```
+Ánh nắng buổi sáng chiếu qua cửa sổ, nắng trên bàn gỗ, tách trà bốc khói nhẹ, chim ruồi tại máng ăn ngoài cửa sổ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106800046796861440/img/IhQAx6n9BRdmBWTB.jpg" width="600" alt="Grok Imagine Prompt: Cảnh trà buổi sáng và chim ruồi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11969)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106800094381224248) | **Published:** Oct 4, 2026
+
+---
+### Prompt chỉnh sửa ảnh chân dung Chihuahua
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chỉnh sửa hình ảnh cho Grok Imagine nhằm nâng cấp bức ảnh hai chú chó Chihuahua thành ảnh chân dung dọc, đồng thời giữ nguyên các chi tiết cụ thể.
+
+#### 📝 Prompt
+
+```
+Chỉnh sửa bức ảnh này thành một bức ảnh chân dung dọc tuyệt đẹp của hai chú chó Chihuahua tên là Tatiana và Scout. Giữ nguyên ngoại hình, hoa văn lông và chiếc dây đeo màu xanh dương trên chú chó có bộ lông dài hơn. Nhấn mạnh bộ lông dài và chiếc mũi ngắn của chúng. Cải thiện độ sắc nét, ánh sáng...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106770205540012032/img/q0jfCf8EPL9yqan2.jpg" width="600" alt="Prompt chỉnh sửa ảnh chân dung Chihuahua">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11967)**
+
+**Author:** [soundmoney Delilah](https://x.com/Rhonda08936681) | **Source:** [Link](https://x.com/Rhonda08936681/status/2106770233109430427) | **Published:** Oct 4, 2026
+
+---
+### Hình ảnh hóa Kỳ dị ban đầu và E=mc2
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt phức tạp yêu cầu tạo hình ảnh trực quan về kỳ dị ban đầu, tương phản với vũ trụ đang nguội dần và thuyết E=mc2 của Einstein, không có văn bản trong hình.
+
+#### 📝 Prompt
+
+```
+Hãy tạo cho tôi hình ảnh "Kỳ dị ban đầu" có thể trông như thế nào và tương phản điều đó với sự nguội đi của Vũ trụ khi năng lượng ngưng tụ thành vật chất.
+
+Trình bày cho tôi một bức tranh về lý thuyết của Einstein:
+
+E = mc2
+
+Không có văn bản trên hình Grok
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106744445634846720/img/Cq8Pri7VKLuyv2dH.jpg" width="600" alt="Hình ảnh hóa Kỳ dị ban đầu và E=mc2">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11964)**
+
+**Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2106744503788880314) | **Published:** Oct 4, 2026
+
+---
 ### Grok Imagine Video: Cảnh Phòng Băng Ở Hồng Kông
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -267,7 +444,7 @@ Hãy biến những bức ảnh này thành video tour vườn với nhạc nề
 Làm cho hình ảnh tĩnh này trở nên sống động, thời lượng 8 giây, vòng lặp điện ảnh mượt mà. Người đàn ông châu Á giữ chiếc bật lửa Zippo màu đen mở nắp thật vững chãi, ngón cái đặt trên nắp. Chú gấu trúc đỏ nhỏ nhắn đội chiếc mũ len tím BAD RUDY ngồi trên nắp lật, miệng há ra, phun một luồng lửa cam ngắn gọn và được kiểm soát, nhấp nháy rồi tắt dần thành ngọn lửa nhỏ trên bấc bật lửa. Đôi mắt cam phát sáng của nó chớp một lần. Tàn lửa bay lơ lửng. Nụ cười nửa miệng của người đàn ông thay đổi nhẹ, một bên lông mày nhướng lên rồi hạ xuống. Hình xăm trên cẳng tay không di chuyển. Bảng mạch màu tím phía sau anh ta nhấp nháy một lần, chậm rãi. Không có chuyển động máy quay. Không có thêm nhân vật nào khác. Âm thanh: tiếng đá lửa bật lửa tách tách, tiếng lửa cháy xèo xèo nhẹ nhàng, một tiếng thở ra yên tĩnh.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1791106041379_psqya1_HTv9L15WsAAK1vK.jpg" width="600" alt="Hoạt ảnh Bật lửa Điện ảnh với Gấu trúc Đỏ">
+<img src="https://cms-assets.youmind.com/media/1791187394588_vcalam_HTv9L14WoAAGXEj.jpg" width="600" alt="Hoạt ảnh Bật lửa Điện ảnh với Gấu trúc Đỏ">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11884)**
 
@@ -2043,170 +2220,6 @@ Chuông điện thoại reo. Cô ấy nhấc máy. "Chào em yêu!" Sau đó là
 **Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
 
 ---
-### Video Hành Động Nhân Vật Cung Thủ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc tạo video chi tiết sử dụng hình ảnh tham chiếu của nhân vật cung thủ để tạo ra một chuỗi hành động cụ thể.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu Tạo Video]
-Tạo một video về nhân vật cơ bắp từ hình ảnh tham chiếu đang thực hiện hành động "đi vệ sinh" một cách tự nhiên trong khi vẫn giữ đúng tính cách nhân vật.
-
-[Vai trò Tài nguyên Tham chiếu]
-@image1 được sử dụng cho ngoại hình đầy đủ của nhân vật: cung thủ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="Video Hành Động Nhân Vật Cung Thủ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11222)**
-
-**Author:** [Dylan Briggs](https://x.com/DylanBriggjk) | **Source:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **Published:** Sep 24, 2026
-
----
-### Grok Imagine Video Prompt: Monolith Breaks Apart
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine describing a monolith breaking apart with a beam of light shooting into the sky.
-
-#### 📝 Prompt
-
-```
-The monolith breaks apart and a beam of light emerges shooting straight up into the sky
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="Grok Imagine Video Prompt: Monolith Breaks Apart">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11224)**
-
-**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **Published:** Sep 23, 2026
-
----
-### Tạo video từ hình ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh sử dụng văn bản tiếng Croatia ('Các hình ảnh chồng lên nhau, trở thành một tấm gương và biến mất với một tiếng sét') để tạo ra một video ngắn dạng dọc dựa trên các hình ảnh được cung cấp.
-
-#### 📝 Prompt
-
-```
-Hãy tạo cho tôi một video mới dựa trên các hình ảnh được cung cấp bằng cách sử dụng câu lệnh này: "Các hình ảnh chồng lên nhau, trở thành một tấm gương và biến mất với một tiếng sét" với các thiết lập sau: 480p, 6 giây, tỷ lệ khung hình 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="Tạo video từ hình ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11225)**
-
-**Author:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **Source:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **Published:** Sep 23, 2026
-
----
-### Nhà ở của Thanh giáo thế kỷ 17
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Câu lệnh tạo cảnh quay video về một ngôi nhà thanh giáo kiểu Robert Eggers từ những năm 1600 với lò sưởi.
-
-#### 📝 Prompt
-
-```
-Hãy bắt đầu với một ngôi nhà nhỏ của Thanh giáo từ những năm 1600 theo phong cách Robert Eggers trong The Witch, có lò sưởi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="Nhà ở của Thanh giáo thế kỷ 17">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11227)**
-
-**Author:** [JB](https://x.com/JoshuaBalianSR) | **Source:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **Published:** Sep 23, 2026
-
----
-### Video Elon Musk Khiêu Vũ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo video Elon Musk khiêu vũ theo phong cách Jennifer Lopez với âm nhạc từ bài hát 'If You Want My Love'.
-
-#### 📝 Prompt
-
-```
-Tạo video Elon Musk khiêu vũ theo phong cách Jennifer Lopez - If You Want My Love kèm âm thanh
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="Video Elon Musk Khiêu Vũ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11221)**
-
-**Author:** [Jared Foster](https://x.com/JaredFosterX) | **Source:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **Published:** Sep 23, 2026
-
----
-### Ban nhạc Mèo Rock Nhân hóa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hướng dẫn tạo video toàn diện cho Grok Imagine, mô tả ba chú mèo nhân hóa biểu diễn nhạc rock trong một câu lạc bộ phát quang. Bao gồm các chỉ dẫn cụ thể về ánh sáng, chuyển động và đồng bộ âm thanh-hình ảnh.
-
-#### 📝 Prompt
-
-```
-Tạo một video liên tục về ban nhạc mèo rock nhân hóa đang biểu diễn trực tiếp một bài hát bằng tiếng Anh. Tâm trạng mang tính tâm lý và phát quang.
-
-Ba chú mèo nhân hóa đứng như một ban nhạc rock trên một sân khấu nhỏ được nâng cao. Chúng giữ nguyên đầu mèo, tai, lông và đuôi trong khi mặc trang phục rock và cầm nhạc cụ. Chúng biểu diễn cùng nhau như một nhóm thống nhất.
-
-Ở phần đầu, những chú mèo hướng về phía khán giả trong một câu lạc bộ tối, phát quang: những ánh sáng xanh lục-xanh cyan dịu nhẹ nhấp nháy trên bộ lông, nhạc cụ và không khí xung quanh chúng. Chú mèo chính bước đến micro trung tâm và bắt đầu hát rõ ràng bằng tiếng Anh trong khi hai chú còn lại chơi guitar và trống đồng bộ. Miệng của chúng cử động theo lời bài hát tiếng Anh, đôi mắt dữ dội và hơi hoang dã, cơ thể lắc lư theo nhịp điệu. Những vệt sáng và ánh hào quang phát quang mạnh mẽ hơn xung quanh chúng khi màn trình diễn dâng cao. Ở cuối, chúng giữ nốt nhạc cuối cùng và tạo dáng cùng nhau dưới ánh đèn rực rỡ.
-
-Giữ nguyên hình tượng những chú mèo rocker nhân hóa hoàn toàn, việc hát bằng tiếng Anh, bầu không khí tâm lý-phát quang và màn trình diễn liên tục của ban nhạc ổn định xuyên suốt. Không có phụ đề xuất hiện trên màn hình.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="Ban nhạc Mèo Rock Nhân hóa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
-
-**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
-
----
-### Tượng Thiên Thần Michael Phong Cách Baroque
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt Grok Imagine chi tiết để tạo ra một bức tranh sơn dầu phong cách Baroque-Renaissance về tượng Thiên Thần Michael trong bối cảnh bảo tàng, kết hợp phong cách của Michelangelo và Bernini.
-
-#### 📝 Prompt
-
-```
-Một bức tranh sơn dầu phong cách Baroque-Renaissance tinh xảo mô tả tượng đá cẩm thạch màu kem của Thiên Thần Michael với hình ảnh thiên thần chiến binh, sự kết hợp giữa phong cách của Michelangelo và Bernini. Khuôn mặt lý tưởng hóa theo phong cách Michelangelo, ánh mắt nghiêm nghị cao quý và mái tóc xoăn được chạm khắc. Chuyển động kịch tính theo phong cách Bernini với đôi cánh lớn được điêu khắc dang rộng hoàn toàn và lớp vải phủ mềm mại với những nếp gấp nặng nề. Đá cẩm thạch màu kem đã qua thời gian với những nét vẽ bóng tối màu nâu ấm áp trong các nếp gấp. Giáp ngực bằng kim loại màu xanh bạc sáng bóng trên ngực phản chiếu ánh sáng xanh lạnh. Cánh tay phải của bức tượng được điêu khắc đầy đủ và vươn ra ngoài trong tư thế chiến binh mở lòng bàn tay cao quý; cánh tay trái buông thõng bên cạnh. Bức tượng kích thước bảo tàng đặt trên bệ đá chạm khắc trang trí công phu, là điểm nhấn rõ ràng của căn phòng.
-Xung quanh bệ đứng là bốn cột đá cẩm thạch màu kem thấp, được chạm khắc tinh xảo, nối với nhau bằng một sợi dây chuyền kim loại đơn giản nhưng thanh lịch, đóng vai trò như rào chắn nội bộ của bảo tàng. Phòng trưng bày kiểu cung điện Ý tráng lệ hoặc tủ sưu tập cổ vật kiểu Vatican. Các bức tường dày đặc những bức tranh sơn dầu từ thế kỷ 16–17 trong những khung vàng lá nặng nề. Một chiếc bàn viết bằng gỗ chạm khắc cổ kính ở tiền cảnh với giấy tờ, bút lông, bình mực và một ngọn nến đang cháy. Các bộ sưu tập xung quanh: quả địa cầu, sách đóng bìa da, tượng bán thân bằng đá cẩm thạch nhỏ hơn, tủ gỗ chứa hiện vật, tất cả đều phụ thuộc và hơi tối hơn để bức tượng thu hút sự chú ý.
-Ánh sáng lung linh từ đèn chùm vàng ấm và nến, kỹ thuật chiaroscuro (sáng tối) đậm chất Caravaggio, những bóng tối nhuốm tím ở các góc. Sàn đá cẩm thạch đánh bóng có phản chiếu, trần nhà dạng ô vuông mạ vàng. Vẻ đẹp điện ảnh của tranh sơn dầu cổ điển. Kết cấu cực kỳ chi tiết của đá cẩm thạch, giáp kim loại, dây chuyền, khung vàng lá và vải canvas cũ. Không có đồ vật hiện đại. Không có hàng rào sắt. Không thiếu chi tiết cơ thể.
-```
-
-<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="Tượng Thiên Thần Michael Phong Cách Baroque">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11223)**
-
-**Author:** [Arco](https://x.com/arco0369) | **Source:** [Link](https://x.com/arco0369/status/2102491951287181545) | **Published:** Sep 22, 2026
-
----
-### Gợi ý hình ảnh Grok Imagine cho cảnh máng chim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý chi tiết cho Grok Imagine mô tả những chú chim tại máng ăn với chuông gió màu opal.
-
-#### 📝 Prompt
-
-```
-Những chú chim hót líu lo bên máng thức ăn, một chiếc chuông gió được treo duyên dáng từ máng, gồm nhiều bánh răng có màu sắc của đá opal.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="Gợi ý hình ảnh Grok Imagine cho cảnh máng chim">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11178)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **Published:** Sep 22, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2268,6 +2281,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-05T05:18:49.688Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-05T17:17:24.250Z</sub>
 
 </div>

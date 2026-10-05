@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2975** |
+| 📝 총 프롬프트 수 | **2983** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-10-05** |
 
@@ -189,6 +189,183 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 고딕 대성당의 기사 왕 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 볼륨 조명과 함께 어두운 고딕 대성당에서 갑옷을 입은 기사 왕이 등장하는 사실적인 시네마틱 장면을 생성하기 위한 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+극적인 볼륨 광선과 돌기둥이 있는 동일한 어두운 고딕 대성당 배경으로 사실적인 시네마틱 전신 장면을 만드세요. 검은색 장식 갑옷, 황금 왕관, 금박 수놓인 붉은 벨벳 후드 망토를 두른 신비로운 기사 왕...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106962340663185408/img/TuIgHGXpfdd9HVuA.jpg" width="600" alt="고딕 대성당의 기사 왕 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11965)**
+
+**작성자:** [Cyperpienso](https://x.com/cyperpienso) | **출처:** [Link](https://x.com/cyperpienso/status/2106962402625642616) | **게시일:** Oct 5, 2026
+
+---
+### Grok Imagine: 마돈나 의식
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 마돈나 이미지를 명상적인 분위기로 특정 대사를 말하게 하는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+마돈나 이미지는 그대로 두고, 속삭이듯 맑은 목소리로 “Everything begins with consciousness.”라고 입모양을 취하게 하세요. 그 다음 두 이미지가 함께 “we will be one, we will be divine.”라고 말하도록 합니다. 전체적으로 명상적이고 신비로운 분위기를 연출하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106935375856054272/img/w3SU1z4EH2Hnye_J.jpg" width="600" alt="Grok Imagine: 마돈나 의식">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11963)**
+
+**작성자:** [Julio McCauley](https://x.com/CosmicJulioBro) | **출처:** [Link](https://x.com/CosmicJulioBro/status/2106935406176702934) | **게시일:** Oct 5, 2026
+
+---
+### 아늑한 주방에서 춤추는 귀여운 유령
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 장미 꽃잎과 전구로 장식된 아늑한 주방에서 빛나는 유령 장식이 슬로우 모션으로 회전하는 모습을 담은, 섬세하고 시적인 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+밤의 아늑한 주방에서 빛나는 유령 장식이 느리고 몽환적인 회전을 하는 모습…
+흰색 천은 부드럽게 흐르는 중간의 움직임을 보이지만, 그 동작은 온화하고 서두르지 않으며, 마치 유령이 한때 알았던 춤을 기억하는 듯합니다…
+내부 조명은 직물 너머로 따뜻하고 안정적이며 부드러운 빛을 발합니다…
+두 개의 검은 타원형 눈은 차분하고 조용히 정면을 응시합니다…
+분홍색 장미 꽃잎들이 공기 중에 천천히 떠다니며 순간 속에 멈춰 있는 듯합니다…
+보라색과 주황색 전구가 배경의 캐비닛과 선반을 따라 빛납니다…
+뒤쪽 카운터에는 분홍색과 흰색 장미가 담긴 화병이 놓여 있습니다…
+할로윈 장식들 — 호박, 노움, 부엉이, 해바라기 — 이 선반을 가득 채우고 있으며 모두 고요합니다…
+주방은 조용하고, 유령은 휴식 중이며, 이 순간은 얼어붙었습니다…”
+유령의 눈이 살짝 감겨 있습니다…
+마치 추억에 잠긴 것처럼…
+빛은 촛불이 불꽃을 기억하듯 깜빡거리고, 유령은 계속 부드럽습니다…
+결코 날카롭지 않습니다…
+그것이 바로 전체적인 비결입니다…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106931393112551424/img/rP1MlDXheSGASwoj.jpg" width="600" alt="아늑한 주방에서 춤추는 귀여운 유령">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11962)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2106931506694193403) | **게시일:** Oct 5, 2026
+
+---
+### Grok Imagine 프롬프트: 몽환적인 유령 장식 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 아늑한 주방에서 천천히, 몽환적으로 움직이는 발광 유령 장식을 애니메이션화하기 위한 Grok Imagine 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 이미지를 그대로 애니메이션화하세요. 밤의 아늑한 주방에 있는 발광 유령 장식이 느리고 몽환적인 회전으로 포착됩니다…
+…
+흰색 시트는 움직임 중에 있으며 부드럽고 흐르듯 하지만, 그 동작은 유령이 춤을 기억하는 것처럼 온화하고 서두르지 않습니다...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106929051705192448/img/egOhllHpFI9kqDWs.jpg" width="600" alt="Grok Imagine 프롬프트: 몽환적인 유령 장식 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11968)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2106929145942831576) | **게시일:** Oct 5, 2026
+
+---
+### 콘서트 댄스 퍼포먼스 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 무대 위 여성 댄서 애니메이션을 위한 상세 프롬프트로, 카메라 무브먼트, 조명, 음악 동기화 및 네거티브 제약 조건을 포함합니다.
+
+#### 📝 프롬프트
+
+```
+참조 이미지에서 여성의 외모, 얼굴, 헤어스타일, 의상, 신체 비율, 부츠, 무대, 조명, 카메라 각도 및 콘서트 환경을 그대로 유지하세요. 그녀가 무대에서 에너지 넘치고 우아한 춤을 자연스럽게 추도록 애니메이션화하세요. 그녀는 동일한 포즈로 시작하여 리듬에 맞춰 팔을 부드럽게 움직이고, 엉덩이를 흔들며, 자신감 있는 몇 걸음의 춤 동작을 취하고, 살짝 회전한 후 기쁜 표정의 포즈로 마무리합니다. 그녀의 긴 붉은 머리카락은 춤사위에 따라 자연스럽게 움직입니다. 현실적인 표정과 행복한 미소를 추가하세요. 보라색과 흰색 콘서트 스포트라이트가 음악과 함께 부드럽게 펄스하며, 미세한 무대 헤이즈와 배경 보케 효과를 더합니다. 카메라는 약간의 핸드헬드 콘서트 무브먼트를 포함한 부드러운 시네마틱 슬로우 푸시 인을 수행합니다. 현실적인 인간 움직임, 자연스러운 해부학 구조, 정확한 손과 발 묘사를 유지하고, 왜곡, 추가 사지, 의상 변경은 없어야 합니다. 중독성 있는 비트, 에너지 넘치는 드럼, 베이스, 밝신디사이저가 포함된 경쾌한 팝 댄스 음악이 그녀의 움직임과 완벽하게 동기화됩니다. 처음부터 끝까지 시각적으로 일관된 장면을 유지하며, 시네마틱하고 고품질이며 현실적인 콘서트 퍼포먼스를 구현하세요.
+
+네거티브 프롬프트:
+
+얼굴 변화 없음, 정체성 변화 없음, 옷 변화 없음, 추가 손가락 없음, 추가 팔 또는 다리 없음, 신체 왜곡 없음, 변형된 손 없음, 부자연스러운 움직임 없음, 카메라 글리치 없음, 배경 변화 없음
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106913169654579200/img/fGfZHh9uego_T3hm.jpg" width="600" alt="콘서트 댄스 퍼포먼스 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11966)**
+
+**작성자:** [CanineTrace](https://x.com/CanineTrace) | **출처:** [Link](https://x.com/CanineTrace/status/2106913197534097519) | **게시일:** Oct 5, 2026
+
+---
+### Grok Imagine 프롬프트: 아침 차와 벌새의 풍경
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine용 영상 생성 프롬프트로, 햇살, 차, 벌새가 어우러진 평화로운 아침 풍경을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+아침 햇살이 창문으로 비추고, 나무 테이블 위 찻잔에서는 은은한 김이 오르고, 창밖 급식대에는 벌새가 날아듭니다
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106800046796861440/img/IhQAx6n9BRdmBWTB.jpg" width="600" alt="Grok Imagine 프롬프트: 아침 차와 벌새의 풍경">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11969)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2106800094381224248) | **게시일:** Oct 4, 2026
+
+---
+### 치와하 초상화 편집 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine에서 두 마리의 치와하 사진을 특정 디테일을 유지하며 세로형 초상화로 향상시키는 이미지 편집 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 사진을 타티아나(Tatiana)와 스카우트(Scout)라는 이름의 두 마리 치와하의 아름다운 세로형 초상화로 편집하세요. 정확한 외모, 무늬, 그리고 긴 털을 가진 개가 착용한 파란색 하네스는 그대로 유지하십시오. 긴 털과 짧은 코를 강조하고, 선명도와 밝기를 개선하세요...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106770205540012032/img/q0jfCf8EPL9yqan2.jpg" width="600" alt="치와하 초상화 편집 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11967)**
+
+**작성자:** [soundmoney Delilah](https://x.com/Rhonda08936681) | **출처:** [Link](https://x.com/Rhonda08936681/status/2106770233109430427) | **게시일:** Oct 4, 2026
+
+---
+### 초기 특이점 및 E=mc² 시각화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 이미지 내 텍스트 없이, 냉각되는 우주와 아인슈타인의 이론 E=mc²과 대비되는 초기 특이점의 시각적 표현을 요청하는 복잡한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+"초기 특이점"이 어떤 모습이었을지 상상하여, 에너지가 물질로 응축되면서 우주가 냉각되는 과정과 대조적으로 묘사해 주세요.
+
+아인슈타인의 이론:
+
+E = mc²
+
+에 대한 그림을 제시해 주세요. 이미지에는 텍스트를 포함하지 마세요. Grok
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106744445634846720/img/Cq8Pri7VKLuyv2dH.jpg" width="600" alt="초기 특이점 및 E=mc² 시각화">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11964)**
+
+**작성자:** [Kim Maria](https://x.com/KimMaria8ry) | **출처:** [Link](https://x.com/KimMaria8ry/status/2106744503788880314) | **게시일:** Oct 4, 2026
+
+---
 ### Grok Imagine Video: 홍콩 아이스 룸 장면
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -267,7 +444,7 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 정지된 이미지를 8초 동안 부드럽게 반복되는 시네마틱 루프로 애니메이션화하세요. 아시아 남성은 열린 검은색 Zippo 라이터를 안정적으로 들고 있으며, 엄지는 뚜껑에 얹혀 있습니다. 보라색 BAD RUDY 비니를 쓴 작은 레서판다는 플립 캡 위에 앉아 입을 벌리고 짧은 제어된 오렌지색 불꽃을 내뿜으며, 불꽃이 깜빡이다가 라이터 심지의 작은 불씨로 사그라듭니다. 그의 빛나는 오렌지색 눈은 한 번 깜빡입니다. 잔불 입자들이 흩날립니다. 남성의 미소가 미세하게 변하고, 한쪽 눈썹이 살짝 올라간 후 제자리로 돌아옵니다. 팔뚝의 문신은 움직이지 않습니다. 뒤쪽의 보라색 회로판은 천천히 한 번 펄스합니다. 카메라 움직임 없음. 추가 캐릭터 없음. 사운드: 라이터 부싯돌 소리, 부드러운 불꽃 소용돌이, 조용한 숨소리 한 번.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1791106041379_psqya1_HTv9L15WsAAK1vK.jpg" width="600" alt="레서판다와 함께하는 시네마틱 라이터 애니메이션">
+<img src="https://cms-assets.youmind.com/media/1791187394588_vcalam_HTv9L14WoAAGXEj.jpg" width="600" alt="레서판다와 함께하는 시네마틱 라이터 애니메이션">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11884)**
 
@@ -2035,170 +2212,6 @@ AI 영상 — 9:16 시네마틱
 **작성자:** [Mimi9060](https://x.com/MelodyM662010) | **출처:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **게시일:** Sep 24, 2026
 
 ---
-### 궁수 캐릭터 액션 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 참고 이미지를 활용한 궁수 캐릭터의 특정 동작 시퀀스를 생성하기 위한 상세한 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-[생성 목표]
-참고 이미지의 근육질 캐릭터가 캐릭터성을 유지하면서 자연스러운 "배변" 동작을 수행하는 영상을 생성합니다.
-
-[참고 자산 역할]
-@image1 은 캐릭터의 전체 외형(궁수)에 사용됩니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="궁수 캐릭터 액션 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11222)**
-
-**작성자:** [Dylan Briggs](https://x.com/DylanBriggjk) | **출처:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **게시일:** Sep 24, 2026
-
----
-### Grok Imagine 비디오 프롬프트: 모놀리스가 부서지는 순간
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 하늘로 빛줄기가 솟구치며 거대한 모놀리스가 부서지는 장면을 묘사하는 Grok Imagine용 비디오 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-거대한 모놀리스가 산산조각 나고, 그 틈에서 하늘을 향해 곧게 뻗은 강렬한 빛줄기가 솟아오른다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="Grok Imagine 비디오 프롬프트: 모놀리스가 부서지는 순간">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11224)**
-
-**작성자:** [Astropub Starbase](https://x.com/AstropubSBTX) | **출처:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **게시일:** Sep 23, 2026
-
----
-### 이미지 기반 영상 생성
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 제공된 이미지를 바탕으로 크로아티아어 프롬프트('이미지가 쌓여 거울이 되고 번개와 함께 사라진다')를 사용하여 짧은 세로형 영상을 생성합니다.
-
-#### 📝 프롬프트
-
-```
-제공된 이미지를 바탕으로 다음 프롬프트를 사용하여 새로운 영상을 생성해 주세요: "이미지가 쌓여 거울이 되고 번개와 함께 사라진다". 설정은 다음과 같습니다: 480p, 6초, 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="이미지 기반 영상 생성">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11225)**
-
-**작성자:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **출처:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **게시일:** Sep 23, 2026
-
----
-### 17세기 청교도 농가
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 17세기 로버트 에거스 스타일의 청교도 농가와 벽난로가 있는 영상 장면을 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-17세기 로버트 에거스의 <마녀> 스타일 청교도 농가, 작은 집, 벽난로
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="17세기 청교도 농가">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11227)**
-
-**작성자:** [JB](https://x.com/JoshuaBalianSR) | **출처:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **게시일:** Sep 23, 2026
-
----
-### Elon Musk Dancing Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of Elon Musk dancing like Jennifer Lopez with audio from 'If You Want My Love'.
-
-#### 📝 프롬프트
-
-```
-Create video of elon dancing like jennifer lopez- if you want my love with audio
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="Elon Musk Dancing Video">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11221)**
-
-**작성자:** [Jared Foster](https://x.com/JaredFosterX) | **출처:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **게시일:** Sep 23, 2026
-
----
-### 인간화된 록 밴드 고양이
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 포괄적인 영상 생성 프롬프트로, 형광빛 클럽에서 록 음악을 연주하는 세 마리의 인간화된 고양이를 묘사합니다. 조명, 움직임 및 오디오-비주얼 동기화에 대한 구체적인 지침이 포함되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-영어 라이브 노래를 부르는 인간화된 록 밴드 고양이의 연속 영상을 생성하세요. 분위기는 심리적이며 형광빛으로 가득합니다.
-
-세 마리의 인간화된 고양이가 작은 무대 위에 서서 록 밴드를 구성합니다. 이들은 고양이 머리, 귀, 털, 꼬리를 유지하면서 록 의상을 입고 악기를 들고 있습니다. 하나의 그룹으로서 함께 공연합니다.
-
-시작 부분에서 고양이들은 어둡고 형광빛이 도는 클럽에서 관객을 마주하고 있습니다: 부드러운 청록색 빛이 털, 악기, 그리고 주변 공기를 통해 맥동합니다. 리드 보컬 고양이는 중앙 마이크 앞으로 나가 영어로 명확하게 노래하기 시작하며, 나머지 두 마리는 기타와 드럼을 연주하며 박자를 맞춥니다. 입술은 영어 가사에 맞춰 움직이고, 눈빛은 강렬하고 약간 야성적이며, 몸은 비트에 따라 흔들립니다. 공연이 고조됨에 따라 형광빛의 잔상과 발광 효과가 그들 주위에서 점점 더 강해집니다. 마지막에는 글로우 라이트 아래에서 최종 음을 유지하며 함께 포즈를 취합니다.
-
-고양이들이 완전히 인간화된 록 스타로 남아 있도록 하고, 영어 노래, 심리적이고 형광적인 분위기, 그리고 연속적인 밴드 공연이 전체적으로 안정적으로 유지되도록 하세요. 화면에는 자막이 표시되지 않습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="인간화된 록 밴드 고양이">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11181)**
-
-**작성자:** [MYS AI](https://x.com/mys1111) | **출처:** [Link](https://x.com/mys1111/status/2102511636175073310) | **게시일:** Sep 22, 2026
-
----
-### 바로크 대천장 미카엘 조각상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 미켈란젤로와 베르니니의 스타일을 결합하여 박물관 환경에서 바로크-르네상스 양식의 대천장 미카엘 조각상 유화를 생성하기 위한 상세한 Grok Imagine 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-전사 천사로 묘사된 크림색 대리석 대천장 미카엘 조각상의 숙련된 바로크-르네상스 양식 유화이며, 미켈란젤로와 베르니니 스타일의 하이브리드입니다. 미켈란젤로 스타일의 이상화된 얼굴, 고귀하고 엄격한 시선, 그리고 조각된 물결치는 머리카락이 특징입니다. 베르니니 스타일의 극적인 움직임으로 큰 조각 날개가 완전히 펼쳐져 있고, 무거운 주름이 진 흐르는 조각 드레이프가 표현되어 있습니다. 따뜻한 갈색 그림자 스트로크가 주름에 그려진 크림색의 오래된 대리석 질감입니다. 가슴에는 차갑고 푸른빛이 감도는 빛을 발하는 반짝이는 은청색 금속 흉갑 갑옷이 착용되어 있습니다. 조각상의 오른쪽 팔은 완전히 조각되어 있으며 전사의 고귀한 손바닥을 편 제스처로 바깥쪽으로 뻗어 있고, 왼쪽 팔은 옆으로 늘어져 있습니다. 장식적으로 조각된 돌 받침대 위에 놓인 박물관 규모의 조각상으로, 방의 명확한 초점입니다.
-받침대 주변에는 내부 박물관 장벽 역할을 하는 단순하고 우아한 금속 체인으로 연결된 네 개의 낮고 정교하게 조각된 크림색 대리석 기둥이 서 있습니다. 웅장한 이탈리아 팔라초 갤러리 또는 바티칸과 유사한 진귀품 컬렉션 캐비닛입니다. 벽면은 두꺼운 금박 프레임에 담긴 16~17세기 유화로 빽빽하게 덮여 있습니다. 전경에는 종이, 깃펜, 잉크병, 그리고 켜진 촛불이 있는 앤티크 목재 조각 책상이 배치되어 있습니다. 주변 컬렉션으로는 지구본, 가죽 표지 책, 더 작은 대리석 흉상, 유물이 담긴 나무 캐비닛 등이 있으며, 모두 보조적이고 약간 어둡게 처리되어 조각상에 주목도가 집중되도록 합니다.
-따뜻한 황금색 샹들리에와 촛불 조명, 풍부한 카라바조 키아로스쿠로(명암법), 구석구석 보랏빛이 도는 그림자가 특징입니다. 반사가 있는 폴리싱된 대리석 바닥과 코퍼드(coffered) 금박 천장이 보입니다. 시네마틱한 앤티크 유화 느낌의 룩입니다. 대리석, 금속 갑옷, 체인, 금박 프레임, 그리고 오래된 캔버스의 매우 디테일한 텍스처가 표현됩니다. 현대적인 물건은 없습니다. 철제 울타리는 없습니다. 결손 부위는 없습니다.
-```
-
-<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="바로크 대천장 미카엘 조각상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11223)**
-
-**작성자:** [Arco](https://x.com/arco0369) | **출처:** [Link](https://x.com/arco0369/status/2102491951287181545) | **게시일:** Sep 22, 2026
-
----
-### 새 모이통 장면용 Grok Imagine 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 새 모이통에 있는 새들과 오팔 색상의 풍경을 묘사하는 상세한 Grok Imagine 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-새 모이통에서 지저귀는 새들, 모이통에 매달린 풍경은 오팔 색상의 기어(톱니바퀴)로 구성되어 있습니다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="새 모이통 장면용 Grok Imagine 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11178)**
-
-**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **게시일:** Sep 22, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2260,6 +2273,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-05T05:18:47.687Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-05T17:17:22.379Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2975** |
+| 📝 プロンプト総数 | **2983** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-10-05** |
 
@@ -189,6 +189,185 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### ゴシック大聖堂の騎士王シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 暗いゴシック様式の大聖堂で、体積光に照らされた鎧をまとった騎士王を描く、写実的なシネマティックシーンの詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+同じ暗いゴシック様式の大聖堂内で、劇的な体積光と石柱を背景にした、写実的なシネマティック全身ショットを作成してください。黒く装飾的な鎧を身につけた謎めいた騎士王は、黄金の冠をかぶり、金刺繍が施された赤いベルベットフード付きのマント...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106962340663185408/img/TuIgHGXpfdd9HVuA.jpg" width="600" alt="ゴシック大聖堂の騎士王シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11965)**
+
+**作者:** [Cyperpienso](https://x.com/cyperpienso) | **ソース:** [Link](https://x.com/cyperpienso/status/2106962402625642616) | **公開日:** Oct 5, 2026
+
+---
+### Grok Imagine マドンナ 意識
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> マドンナの画像をアニメーション化し、瞑想的な雰囲気の中で特定のセリフを語らせるプロンプト。
+
+#### 📝 プロンプト
+
+```
+マドンナの画像はそのままの状態で、ささやくような澄んだ声で「Everything begins with consciousness.（すべては意識から始まる）」と口ずさみます。その後、両方の画像が同時に「we will be one, we will be divine.（私たちは一つになり、神聖になる）」と言います。全体に瞑想的で幻想的な雰囲気を持たせてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106935375856054272/img/w3SU1z4EH2Hnye_J.jpg" width="600" alt="Grok Imagine マドンナ 意識">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11963)**
+
+**作者:** [Julio McCauley](https://x.com/CosmicJulioBro) | **ソース:** [Link](https://x.com/CosmicJulioBro/status/2106935406176702934) | **公開日:** Oct 5, 2026
+
+---
+### 居心地の良いキッチンで幽霊が舞う
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> バラの花びらとストリングライトが飾られた居心地の良いキッチンで、発光する幽霊のデコレーションがスローモーションで舞い踊る様子を描写した、詩的で詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+夜間の居心地の良いキッチンに置かれた発光する幽霊のデコレーションを、スローで夢見心地な回転として捉えた映像…
+白い布は動きの途中にあり、柔らかく流れるように揺れますが、その動きは穏やかで急ぐことなく、まるで幽霊がかつて知っていたダンスを思い出しているかのようです…
+内部の光は布地を通して温かく、安定して柔らかに輝きます…
+二つの黒い楕円形の目は前方を向いており、静かで落ち着いています…
+ピンクのバラの花びらが周囲の空中にゆっくりと漂い、時が止まったかのように宙に浮いています…
+背景のキャビネットや棚には、紫色とオレンジ色のストリングライトが灯っています…
+背後のカウンターには、ピンクと白のバラが生けられた花瓶があります…
+ハロウィンの装飾品 — カボチャ、ノーム（小人）、フクロウ、ヒマワリ — が棚を埋め尽くし、すべて静止しています…
+キッチンは静まり返り、幽霊は休息しており、この瞬間は凍りついています…”
+幽霊の目はわずかに閉じています…
+まるで記憶の中に迷い込んでいるかのように…
+光はろうそくが炎を思い出しているかのようにちらつき、幽霊は柔らかさを保ちます…
+決して鋭くならず…
+それが全体のコツなのです…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106931393112551424/img/rP1MlDXheSGASwoj.jpg" width="600" alt="居心地の良いキッチンで幽霊が舞う">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11962)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2106931506694193403) | **公開日:** Oct 5, 2026
+
+---
+### Grok Imagine プロンプト: 夢見心地な幽霊デコレーションのアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine で、居心地の良いキッチンにある光る幽霊のデコレーションを、ゆっくりとした夢見心地な動きでアニメーションさせるための動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+この画像をそのままアニメーション化してください。夜間の居心地の良いキッチンに置かれた、発光する幽霊のデコレーションが、ゆっくりと夢見心地な回転を見せます…
+…
+白い布は動きの途中で、柔らかく流れるように揺れていますが、その動きは穏やかで急ぐ様子はありません。まるで幽霊がダンスを思い出しているかのように…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106929051705192448/img/egOhllHpFI9kqDWs.jpg" width="600" alt="Grok Imagine プロンプト: 夢見心地な幽霊デコレーションのアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11968)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2106929145942831576) | **公開日:** Oct 5, 2026
+
+---
+### コンサートダンスパフォーマンス動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ステージ上で踊る女性をアニメーション化するための詳細なプロンプト。カメラワーク、ライティング、音楽との同期、ネガティブ制約を含みます。
+
+#### 📝 プロンプト
+
+```
+参照画像から、同じ女性、顔立ち、髪型、衣装、体のプロポーション、ブーツ、ステージ、照明、カメラアングル、コンサート環境を厳密に維持してください。彼女がステージ上でエネルギッシュかつ優雅なダンスを自然に披露する様子をアニメーション化します。彼女は最初のポーズから始まり、リズムに合わせて腕を滑らかに動かし、腰を揺らし、自信のあるステップを踏み、少し回転してから、喜びあふれるポーズで締めくくります。長い赤い髪は彼女の動きに合わせて自然に揺れます。リアルな表情と幸せそうな笑顔を加えてください。紫と白のコンサートスポットライトが音楽に合わせて優しく脈打ち、微かなステージヘイズと背景のボケ効果を演出します。カメラは滑らかなシネマティックなゆっくりとしたプッシュインを行い、わずかな手持ちカメラ風のコンサートの揺れを取り入れます。現実的な人間の動き、自然な解剖学的構造、正確な手と足、歪みなし、余分な四肢なし、衣装の変更なし。キャッチーなビート、エネルギッシュなドラム、ベース、明るいシンセサイザーを含むアップビートなポップダンスミュージックを、彼女の動きと完璧に同期させます。シーンを最初から最後まで視覚的に一貫性を持たせ、シネマティックで高品質、リアルなコンサートパフォーマンスとして仕上げてください。
+
+ネガティブプロンプト:
+
+顔の変化なし、アイデンティティの変化なし、服の変化なし、指の追加なし、腕や脚の追加なし、体の歪みなし、手の変形なし、不自然な動きなし、カメラのグリッチなし、背景の変化なし
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106913169654579200/img/fGfZHh9uego_T3hm.jpg" width="600" alt="コンサートダンスパフォーマンス動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11966)**
+
+**作者:** [CanineTrace](https://x.com/CanineTrace) | **ソース:** [Link](https://x.com/CanineTrace/status/2106913197534097519) | **公開日:** Oct 5, 2026
+
+---
+### Grok Imagine プロンプト：朝のティータイムとハチドリ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine で穏やかな朝の風景を描くための動画生成プロンプトです。木漏れ日、お茶、そしてハチドリが登場します。
+
+#### 📝 プロンプト
+
+```
+Morning sun shines in window sunshine on wooden table cup of tea lightly steaming humming bird at feeder outside window
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106800046796861440/img/IhQAx6n9BRdmBWTB.jpg" width="600" alt="Grok Imagine プロンプト：朝のティータイムとハチドリ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11969)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2106800094381224248) | **公開日:** Oct 4, 2026
+
+---
+### チワワのポートレート編集プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine用の画像編集プロンプト。2匹のチワワの写真に特定のディテールを保ちながら、縦向きの美しいポートレートへと変換します。
+
+#### 📝 プロンプト
+
+```
+この写真を、タチアナとスカウトという名前の2匹のチワワの美しい縦向きポートレートに編集してください。彼らの正確な外見、模様、そして長毛の犬が着けている青いハーネスを保持してください。長い毛並みと短い鼻を強調し、シャープさと光...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106770205540012032/img/q0jfCf8EPL9yqan2.jpg" width="600" alt="チワワのポートレート編集プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11967)**
+
+**作者:** [soundmoney Delilah](https://x.com/Rhonda08936681) | **ソース:** [Link](https://x.com/Rhonda08936681/status/2106770233109430427) | **公開日:** Oct 4, 2026
+
+---
+### 初期特異点と E=mc² の可視化
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 画像内にテキストを含めず、冷却する宇宙との対比を通じて初期特異点とアインシュタインの理論 E=mc² を視覚的に表現するための複雑なプロンプト。
+
+#### 📝 プロンプト
+
+```
+「初期特異点」がどのような姿をしていたかを描き、エネルギーが物質に凝縮するにつれて宇宙が冷却していく様子との対比を表現してください。
+
+アインシュタインの理論：
+
+E = mc²
+
+を視覚的に提示してください。
+
+画像内にはテキストを含めないでください。Grok
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106744445634846720/img/Cq8Pri7VKLuyv2dH.jpg" width="600" alt="初期特異点と E=mc² の可視化">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11964)**
+
+**作者:** [Kim Maria](https://x.com/KimMaria8ry) | **ソース:** [Link](https://x.com/KimMaria8ry/status/2106744503788880314) | **公開日:** Oct 4, 2026
+
+---
 ### Grok Imagine Video: 香港アイスルームのシーン
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -267,7 +446,7 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 この静止画をアニメーション化します。8秒間、滑らかなシネマティックループ。アジア人の男性は開いた黒いジッポーライターを安定して持ち、親指を蓋に置いています。紫色の「BAD RUDY」ビーニーをかぶった小さな赤いパンダがヒンジキャップの上に座り、口を開けてオレンジ色の炎を短く制御されたバーストで吹き出し、揺らめいてライターの芯の上の小さな炎に戻ります。彼の光るオレンジ色の目が一度瞬きします。火花が漂います。男性のニヤリとした表情がわずかに変化し、片方の眉が上がってまた下がります。前腕のタトゥーは動きません。背後にある紫色の回路基板がゆっくりと一度脈動します。カメラワークはありません。追加のキャラクターもいません。サウンド: ライターのフリントクリック音、ソフトな炎のヒューという音、静かな吐息一つ。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1791106041379_psqya1_HTv9L15WsAAK1vK.jpg" width="600" alt="パンダが火を吹くシネマティックなライターアニメーション">
+<img src="https://cms-assets.youmind.com/media/1791187394588_vcalam_HTv9L14WoAAGXEj.jpg" width="600" alt="パンダが火を吹くシネマティックなライターアニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11884)**
 
@@ -2038,177 +2217,6 @@ AI video — 9:16 cinematic
 **作者:** [Mimi9060](https://x.com/MelodyM662010) | **ソース:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **公開日:** Sep 24, 2026
 
 ---
-### アーチャーキャラクター アクション動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> アーチャーキャラクターの参考画像を使用し、特定のアクションシーンを生成するための詳細な動画生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-[生成目標]
-参考画像の筋肉質なキャラクターが、キャラクター性を保ちながら自然な「排便」アクションを行う動画を生成する。
-
-[参考アセットの役割]
-@image1 はキャラクターの外見全体（アーチャー）に使用されます
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="アーチャーキャラクター アクション動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11222)**
-
-**作者:** [Dylan Briggs](https://x.com/DylanBriggjk) | **ソース:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **公開日:** Sep 24, 2026
-
----
-### Grok Imagine ビデオプロンプト: モノリスの崩壊
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> モノリスが崩壊し、光のビームが空へ向かって突き抜ける様子を描写した Grok Imagine のビデオ生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-モノリスが崩壊し、光のビームが出現して真っ直ぐに空へ向かって突き抜けます
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="Grok Imagine ビデオプロンプト: モノリスの崩壊">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11224)**
-
-**作者:** [Astropub Starbase](https://x.com/AstropubSBTX) | **ソース:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **公開日:** Sep 23, 2026
-
----
-### 画像からの動画生成
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> クロアチア語のプロンプト（「画像が積み重なり鏡になり、雷鳴とともに消える」）を使用して、提供された画像に基づき縦型の短尺動画を生成します。
-
-#### 📝 プロンプト
-
-```
-以下のプロンプトと設定を使用し、提供された画像に基づいて新しい動画を生成してください：
-
-プロンプト: "The images stack up, become a mirror, and disappear with a strike of lightning"
-
-設定:
-- 解像度: 480p
-- 長さ: 6 秒
-- アスペクト比: 9:16
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="画像からの動画生成">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11225)**
-
-**作者:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **ソース:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **公開日:** Sep 23, 2026
-
----
-### 1600年代のピューリタン開拓地
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ロバート・エガーズ監督作『ウィッチ』のような、暖炉のある1600年代ピューリタン開拓地の映像シーンを生成するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-まずは、ロバート・エガーズ監督作『ウィッチ』を彷彿とさせる、1600年代のピューリタン開拓地の小さな家と暖炉から始めましょう
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="1600年代のピューリタン開拓地">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11227)**
-
-**作者:** [JB](https://x.com/JoshuaBalianSR) | **ソース:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **公開日:** Sep 23, 2026
-
----
-### Elon Musk ダンシング動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 「If You Want My Love」の音声をバックに、Jennifer Lopez のように踊る Elon Musk の動画を生成します。
-
-#### 📝 プロンプト
-
-```
-「If You Want My Love」の音声付きで、Jennifer Lopez のように踊る Elon Musk の動画を作成
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="Elon Musk ダンシング動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11221)**
-
-**作者:** [Jared Foster](https://x.com/JaredFosterX) | **ソース:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **公開日:** Sep 23, 2026
-
----
-### 擬人化ロッカー猫バンド
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用の包括的な動画生成プロンプト。リン光するクラブでロック音楽を演奏する3匹の擬人化された猫が登場します。照明、動き、音声と映像の同期に関する具体的な指示が含まれています。
-
-#### 📝 プロンプト
-
-```
-英語でライブ曲を演奏する擬人化ロッカー猫の連続動画を生成してください。雰囲気は心理的でリン光しています。
-
-3匹の擬人化された猫が、小さな高台ステージ上でロックバンドとして立っています。頭、耳、毛皮、尻尾は猫のままですが、ロックファッションを着用し、楽器を持っています。彼らは一つのグループとして一緒に演奏します。
-
-開始時、猫たちは薄暗くリン光するクラブ内で観客に向き合っています。緑青色の柔らかな光が、彼らの毛皮、楽器、周囲の空気全体に脈打つように広がります。リードボーカルを務める猫がセンターマイクに進み、他の2匹がギターとドラムを同期して演奏しながら、英語で明確に歌い始めます。口は英語の歌詞に合わせて動き、目は鋭く少し野生味があり、体はビートに合わせて揺れます。パフォーマンスが高まるにつれ、周囲のリン光の軌跡や輝きが増していきます。最後には、最後の音を保持し、輝くライトの下でポーズを決めます。
-
-猫たちが完全に擬人化されたロッカーであること、英語での歌唱、心理的かつリン光的な雰囲気、そしてバンドとしての連続的なパフォーマンスを一貫して維持してください。画面に字幕は表示しません。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="擬人化ロッカー猫バンド">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11181)**
-
-**作者:** [MYS AI](https://x.com/mys1111) | **ソース:** [Link](https://x.com/mys1111/status/2102511636175073310) | **公開日:** Sep 22, 2026
-
----
-### バロック様式の天使長ミカエル像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 美術館の展示空間を背景に、ミケランジェロとベルニーニのスタイルを融合させたバロック・ルネサンス様式の天使長ミカエル像を描くための、Grok Imagine用の詳細なプロンプト。
-
-#### 📝 プロンプト
-
-```
-クリーム色の大理石で彫られた戦士天使、天使長ミカエルの像を、ミケランジェロとベルニーニの作風を融合させた見事なバロック・ルネサンス様式の油絵として描きます。ミケランジェロ風の理想化された顔立ち、気高く厳かな眼差し、そして彫刻された波打つ髪。ベルニーニ風の劇的な動きを表現し、大きく彫られた翼を広げ、重厚な襞のある流れるような衣文（ドレープ）を施します。クリーム色で古びた大理石には、襞の部分に暖かみのある茶色の影が筆致として描かれています。胸部には輝く銀青色の金属製胸当てがあり、冷たい青白い光を放っています。像の右腕は完全に彫刻され、高貴な開いた手の戦士のジェスチャーで外側へ伸びています。左腕は体の脇に垂れ下がっています。装飾的に彫られた石製の台座の上に置かれた美術館規模の像であり、部屋の明確な焦点となっています。
-台座の周囲には、4本の低く精巧に彫られたクリーム色の大理石の柱があり、シンプルで優雅な金属チェーンで繋がれており、室内の美術館用バリヤーを形成しています。壮大なイタリアのパラッツォのギャラリー、またはヴァチカンのような珍奇なコレクション室（キャビネット・オブ・キュリオシティーズ）です。壁面は、16〜17世紀の重厚な金箔フレームに入った油絵で密に覆われています。前景には、紙、羽ペンのペン先、インク壺、灯りのついたろうそくが置かれたアンティークの木製書き物机があります。周囲のコレクション：地球儀、革表紙の本、小さな大理石の胸像、遺物を収めた木製キャビネットなど、すべては副次的な要素としてやや暗めに描かれ、像が注目を集めるようにしています。
-温かい金色のシャンデリアとろうそくの光、リッチなカラヴァッジョ風のキアロスプローロ（明暗法）、隅々まで紫がかった影。反射する磨き上げられた大理石の床、格天井（コファード・シーリング）の金装飾。シネマティックなアンティーク油絵の質感。大理石、金属の鎧、チェーン、金箔フレーム、古びたキャンバスなどの非常に細部まで描き込まれたテクスチャ。現代的な物体はありません。鉄柵はありません。欠損した肢体はありません。
-```
-
-<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="バロック様式の天使長ミカエル像">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11223)**
-
-**作者:** [Arco](https://x.com/arco0369) | **ソース:** [Link](https://x.com/arco0369/status/2102491951287181545) | **公開日:** Sep 22, 2026
-
----
-### Grok Imagine プロンプト：鳥の餌やり場のシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> オパール色の風鈴が飾られた鳥の餌台にいる鳥たちを描写する、Grok Imagine 用の詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-鳥の餌台で歌う小鳥たち。餌台から吊るされた風鈴は、オパール色に輝く一連の歯車のようなデザインです。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="Grok Imagine プロンプト：鳥の餌やり場のシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11178)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **公開日:** Sep 22, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2270,6 +2278,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-05T05:18:46.373Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-05T17:17:21.446Z</sub>
 
 </div>

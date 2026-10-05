@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2975** |
+| 📝 Total Prompts | **2983** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-05** |
 
@@ -189,6 +189,183 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Gothic Cathedral Knight King Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for creating a photorealistic cinematic scene featuring an armored knight king in a dark gothic cathedral with volumetric lighting.
+
+#### 📝 Prompt
+
+```
+Create a photorealistic cinematic full-body scene in the same dark gothic cathedral with dramatic volumetric light rays and stone columns. The mysterious armored knight king in black ornate armor, golden crown, red velvet hooded cloak with gold embro...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106962340663185408/img/TuIgHGXpfdd9HVuA.jpg" width="600" alt="Gothic Cathedral Knight King Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11965)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2106962402625642616) | **Published:** Oct 5, 2026
+
+---
+### Grok Imagine Madonna Consciousness
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt animating a Madonna image to speak specific lines with a meditative vibe.
+
+#### 📝 Prompt
+
+```
+Have Madonna image remain ‘as is’, as she mouths in a whispering clear voice the words: “Everything begins with consciousness.”, then have both images say together, “we will be one, we will be divine.” Give it a meditative, ethereal vibe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106935375856054272/img/w3SU1z4EH2Hnye_J.jpg" width="600" alt="Grok Imagine Madonna Consciousness">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11963)**
+
+**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2106935406176702934) | **Published:** Oct 5, 2026
+
+---
+### Cozy Kitchen Ghost Twirl
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed and poetic prompt for a slow-motion video of a light-up ghost decoration twirling in a cozy kitchen with rose petals and string lights.
+
+#### 📝 Prompt
+
+```
+A light-up ghost decoration in a cozy kitchen at night, captured in a slow, dreamlike twirl…
+The white sheet is mid-motion, soft and flowing, but the movement is gentle and unhurried, like the ghost is remembering a dance it once knew…
+The internal light glows warmly through the fabric, steady and soft…
+Two black oval eyes face forward, calm and quiet…
+Pink rose petals drift slowly through the air around it, suspended in the moment…
+Purple and orange string lights glow along the cabinets and shelves in the background…
+A vase of pink and white roses sits on the counter behind it…
+Halloween decorations — pumpkins, gnomes, owls, a sunflower — fill the shelves, all still…
+The kitchen is quiet, the ghost is at rest, the moment is frozen…”
+the ghost’s eyes slightly closed…
+Like it’s lost in the memory…
+the light as flickering, like a candle remembering a flame…the ghost stays soft…
+It never goes sharp…
+That’s the whole trick…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106931393112551424/img/rP1MlDXheSGASwoj.jpg" width="600" alt="Cozy Kitchen Ghost Twirl">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11962)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106931506694193403) | **Published:** Oct 5, 2026
+
+---
+### Grok Imagine Prompt: Dreamlike Ghost Decoration Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine to animate a light-up ghost decoration in a cozy kitchen with slow, dreamlike motion.
+
+#### 📝 Prompt
+
+```
+animate this exact image , A light-up ghost decoration in a cozy kitchen at night, captured in a slow, dreamlike twirl…
+…
+The white sheet is mid-motion, soft and flowing, but the movement is gentle and unhurried, like the ghost is remembering a dance...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106929051705192448/img/egOhllHpFI9kqDWs.jpg" width="600" alt="Grok Imagine Prompt: Dreamlike Ghost Decoration Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11968)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106929145942831576) | **Published:** Oct 5, 2026
+
+---
+### Concert Dance Performance Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt for animating a woman dancing on stage, including camera movements, lighting, music sync, and negative constraints.
+
+#### 📝 Prompt
+
+```
+Keep the exact same woman, face, hairstyle, outfit, body proportions, boots, stage, lighting, camera angle and concert environment from the reference image. Animate her naturally performing an energetic, graceful dance on stage. She starts with the same pose, then smoothly moves her arms to the rhythm, sways her hips, takes a few confident dance steps, turns slightly, and finishes with a joyful pose. Her long red hair moves naturally with her dancing. Add realistic facial expressions and a happy smile. Purple and white concert spotlights pulse gently in sync with the music, with subtle stage haze and background bokeh. Camera makes a smooth cinematic slow push-in with slight handheld concert movement. Realistic human motion, natural anatomy, accurate hands and feet, no distortion, no extra limbs, no outfit changes. Upbeat pop-dance music with a catchy beat, energetic drums, bass and bright synths, perfectly synchronized with her movements. Keep the scene visually consistent from beginning to end, cinematic, high quality, realistic concert performance.
+
+Negative prompt:
+
+No face change, no identity change, no clothes change, no extra fingers, no extra arms or legs, no body distortion, no warped hands, no unnatural movement, no camera glitches, no background changes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106913169654579200/img/fGfZHh9uego_T3hm.jpg" width="600" alt="Concert Dance Performance Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11966)**
+
+**Author:** [CanineTrace](https://x.com/CanineTrace) | **Source:** [Link](https://x.com/CanineTrace/status/2106913197534097519) | **Published:** Oct 5, 2026
+
+---
+### Grok Imagine Prompt: Morning Tea and Hummingbird Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine depicting a peaceful morning scene with sunlight, tea, and a hummingbird.
+
+#### 📝 Prompt
+
+```
+Morning sun shines in window sunshine on wooden table cup of tea lightly steaming humming bird at feeder outside window
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106800046796861440/img/IhQAx6n9BRdmBWTB.jpg" width="600" alt="Grok Imagine Prompt: Morning Tea and Hummingbird Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11969)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106800094381224248) | **Published:** Oct 4, 2026
+
+---
+### Chihuahua Portrait Editing Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An image editing prompt for Grok Imagine to enhance a photo of two Chihuahuas into a vertical portrait while keeping specific details.
+
+#### 📝 Prompt
+
+```
+Edit this photo into a beautiful vertical portrait of the two Chihuahuas named Tatiana and Scout. Keep their exact appearance, markings, and the blue harness on the longer-haired dog. Emphasize their long hair and short noses. Improve sharpness, ligh...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106770205540012032/img/q0jfCf8EPL9yqan2.jpg" width="600" alt="Chihuahua Portrait Editing Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11967)**
+
+**Author:** [soundmoney Delilah](https://x.com/Rhonda08936681) | **Source:** [Link](https://x.com/Rhonda08936681/status/2106770233109430427) | **Published:** Oct 4, 2026
+
+---
+### Initial Singularity and E=mc2 Visualization
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex prompt requesting a visual representation of the initial singularity contrasting with the cooling universe and Einstein's theory E=mc2, without text in the image.
+
+#### 📝 Prompt
+
+```
+Create for me what the "Initial singularity" might have looked like and contrast that with the cooling of the Universe as the energy condensed  into matter. 
+
+Present  for me a pictorial  of Einstein's theory:
+
+E = mc2
+
+No text on the picture Grok
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106744445634846720/img/Cq8Pri7VKLuyv2dH.jpg" width="600" alt="Initial Singularity and E=mc2 Visualization">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11964)**
+
+**Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2106744503788880314) | **Published:** Oct 4, 2026
+
+---
 ### Grok Imagine Video: Hong Kong Ice Room Scene
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -255,11 +432,11 @@ Make these into garden tour video please with pleasant background music ( So pre
 **Author:** [Kathleen Higney](https://x.com/krhigney) | **Source:** [Link](https://x.com/krhigney/status/2106561283978149888) | **Published:** Oct 4, 2026
 
 ---
-### Cinematic Lighter Animation with Red Panda
+### Grok Imagine Cinematic Loop Animation Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An 8-second cinematic loop animation featuring an Asian man holding a Zippo lighter with a red panda breathing fire on top.
+> A detailed prompt for animating a still image into a smooth 8-second cinematic loop featuring a man with a lighter and a red panda.
 
 #### 📝 Prompt
 
@@ -267,18 +444,18 @@ Make these into garden tour video please with pleasant background music ( So pre
 Animate this still, 8 seconds, smooth cinematic loop. The Asian man holds the open black Zippo steady, thumb resting on the lid. The small red panda in the purple BAD RUDY beanie sits on the flip cap, mouth open, breathing a short controlled burst of orange fire that flickers and dies back to a small flame on the lighter wick. His glowing orange eyes blink once. Embers drift. The man’s smirk shifts a fraction, one brow lifts, then settles. Forearm tattoos stay still. Purple circuit board behind him pulses once, slow. No camera move. No extra characters. Sound: lighter flint click, soft flame whoosh, one quiet exhale.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1791106041379_psqya1_HTv9L15WsAAK1vK.jpg" width="600" alt="Cinematic Lighter Animation with Red Panda">
+<img src="https://cms-assets.youmind.com/media/1791187394588_vcalam_HTv9L14WoAAGXEj.jpg" width="600" alt="Grok Imagine Cinematic Loop Animation Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11884)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106555887510798663) | **Published:** Oct 4, 2026
 
 ---
-### Silver Oak Forest with Dancing Petals
+### Silver Oak Forest Fantasy Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed nature video prompt featuring a forest of oak trees with silver-edged leaves, tulips, irises, and butterflies causing petals to dance like flames.
+> A detailed prompt for generating a fantasy nature scene with silver-edged oak leaves, dancing petals, and filigree butterflies.
 
 #### 📝 Prompt
 
@@ -286,7 +463,7 @@ Animate this still, 8 seconds, smooth cinematic loop. The Asian man holds the op
 Forrest of oak trees leaves of silver edged in black meadow of green grass flowers tulip and iris colored petals dancing like tiny flames butterflies with silver filigree wings make the petals dance like a flame
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106531421787668480/img/GoD_yQIs0Xn_A389.jpg" width="600" alt="Silver Oak Forest with Dancing Petals">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106531421787668480/img/GoD_yQIs0Xn_A389.jpg" width="600" alt="Silver Oak Forest Fantasy Scene">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11886)**
 
@@ -2043,170 +2220,6 @@ The phone rings.  She picks up. Hello Darling!  Then a knock on the door.  She o
 **Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
 
 ---
-### Archer Character Action Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video generation prompt using a reference image of an archer character to generate a specific action sequence.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Generate a video of the muscular character from the reference image performing a natural "poop" action while remaining in character.
-
-[Reference Asset Roles]
-@image1 is used for the character's full appearance: archer
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102953657792651264/img/BMoO5WYKRYNWiZae.jpg" width="600" alt="Archer Character Action Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11222)**
-
-**Author:** [Dylan Briggs](https://x.com/DylanBriggjk) | **Source:** [Link](https://x.com/DylanBriggjk/status/2102953673299038580) | **Published:** Sep 24, 2026
-
----
-### Grok Imagine Video Prompt: Monolith Breaks Apart
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine describing a monolith breaking apart with a beam of light shooting into the sky.
-
-#### 📝 Prompt
-
-```
-The monolith breaks apart and a beam of light emerges shooting straight up into the sky
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102841423816957952/img/pwjOXSsSzLMHVYEl.jpg" width="600" alt="Grok Imagine Video Prompt: Monolith Breaks Apart">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11224)**
-
-**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2102841456754848127) | **Published:** Sep 23, 2026
-
----
-### Video Generation from Images
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt using Croatian text ('The images stack up become a mirror and disappear with a thunder strike') to generate a short vertical video based on provided images.
-
-#### 📝 Prompt
-
-```
-Generate me a new video based on the provided images using this prompt: "The images stack up, become a mirror, and disappear with a strike of lightning" with the following settings: 480p, 6s, 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102826672378548224/img/HZx-gDF8ye77e55P.jpg" width="600" alt="Video Generation from Images">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11225)**
-
-**Author:** [Fuad Berbic](https://x.com/FuadBerbic45918) | **Source:** [Link](https://x.com/FuadBerbic45918/status/2102826924745576588) | **Published:** Sep 23, 2026
-
----
-### 1600s Puritan Homestead
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a video scene of a 1600s Robert Eggers-style puritan homestead with a fireplace.
-
-#### 📝 Prompt
-
-```
-Let’s start with a 1600s Robert Eggers the witch puritan homestead small house fire place
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102807839550976000/img/pD-9w9SYYEmG9YFV.jpg" width="600" alt="1600s Puritan Homestead">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11227)**
-
-**Author:** [JB](https://x.com/JoshuaBalianSR) | **Source:** [Link](https://x.com/JoshuaBalianSR/status/2102807865119645808) | **Published:** Sep 23, 2026
-
----
-### Elon Musk Dancing Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of Elon Musk dancing like Jennifer Lopez with audio from 'If You Want My Love'.
-
-#### 📝 Prompt
-
-```
-Create video of elon dancing like jennifer lopez- if you want my love with audio
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102746501612998657/img/ML5Yct12nBONILag.jpg" width="600" alt="Elon Musk Dancing Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11221)**
-
-**Author:** [Jared Foster](https://x.com/JaredFosterX) | **Source:** [Link](https://x.com/JaredFosterX/status/2102746522127409357) | **Published:** Sep 23, 2026
-
----
-### Anthropomorphic Rocker Cats Band
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive video generation prompt for Grok Imagine featuring three anthropomorphic cats performing rock music in a phosphorescent club. Includes specific instructions on lighting, movement, and audio-visual sync.
-
-#### 📝 Prompt
-
-```
-Generate a continuous video of anthropomorphic rocker cats performing a live song in English. The mood is psychological and phosphorescent.
-
-Three anthropomorphic cats stand as a rock band on a small elevated stage. They retain cat heads, ears, fur, and tails while wearing rock clothing and holding instruments. They perform together as a single group.
-
-At the start, the cats face the audience in a dim, phosphorescent club: soft green-cyan glows pulse across their fur, instruments, and the air around them. The lead cat steps to the center microphone and begins singing clearly in English while the other two play guitar and drums in sync. Their mouths move with the English lyrics, eyes intense and slightly wild, bodies rocking with the beat. Phosphorescent light trails and glows intensify around them as the performance builds. At the end, they hold the final note and pose together under the glowing lights.
-
-Keep the cats fully anthropomorphic rockers, the English singing, the psychological-phosphorescent atmosphere, and the continuous band performance stable throughout. No subtitles appear on screen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102511527647485952/img/WwbosZGERr5RI9Gv.jpg" width="600" alt="Anthropomorphic Rocker Cats Band">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11181)**
-
-**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2102511636175073310) | **Published:** Sep 22, 2026
-
----
-### Baroque Archangel Michael Statue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed Grok Imagine prompt for generating a Baroque-Renaissance style oil painting of an Archangel Michael statue in a museum setting, combining Michelangelo and Bernini styles.
-
-#### 📝 Prompt
-
-```
-A masterful Baroque-Renaissance oil painting of a cream marble statue of Archangel Michael as a warrior angel, hybrid of Michelangelo and Bernini. Michelangelo-style idealized face, noble stern gaze, and carved wavy hair. Bernini-style dramatic movement with large sculpted wings fully spread and flowing carved drapery in heavy folds. Cream-colored aged marble with warm brown painted shadow strokes in the folds. A shining silver-blue metallic breastplate armor on the chest that gleams with cool bluish light. The statue’s right arm is fully sculpted and extended outward in a noble open-handed warrior gesture; the left arm hangs at the side. Museum-scale statue on an ornate carved stone pedestal, clear focal point of the room.
-Around the pedestal stand four low, elaborately carved cream marble columns connected by a simple elegant metal chain, an interior museum barrier. Grand Italian palazzo gallery or Vatican-like cabinet of curiosities. Walls densely covered with 16th–17th century oil paintings in heavy gilded frames. An antique carved wooden writing desk in the foreground with papers, quill, inkwell, and a lit candle. Surrounding collections: globes, leather-bound books, smaller marble busts, wooden cabinets with artifacts, all secondary and slightly darker so the statue commands attention.
-Warm golden chandelier and candlelight, rich Caravaggio chiaroscuro, violet-tinged shadows in the corners. Polished marble floor with reflections, coffered gilded ceiling. Cinematic antique oil-painting look. Highly detailed textures of marble, metal armor, chain, gold leaf frames, and aged canvas. No modern objects. No iron fence. No missing limbs.
-```
-
-<img src="https://cms-assets.youmind.com/media/1790235830093_oxxrtk_HS2NNuiX0AEIhm4.jpg" width="600" alt="Baroque Archangel Michael Statue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11223)**
-
-**Author:** [Arco](https://x.com/arco0369) | **Source:** [Link](https://x.com/arco0369/status/2102491951287181545) | **Published:** Sep 22, 2026
-
----
-### Grok Imagine Prompt for Bird Feeder Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for Grok Imagine describing birds at a feeder with opal-colored wind chimes.
-
-#### 📝 Prompt
-
-```
-Song birds at a bird feeder winsome hangs from bird feeder wind chime is a series of opal colored gears
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102435151389274113/img/jJxKmOvjs3evuCzB.jpg" width="600" alt="Grok Imagine Prompt for Bird Feeder Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11178)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2102435199816749153) | **Published:** Sep 22, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2268,6 +2281,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-05T05:18:42.260Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-05T17:17:17.674Z</sub>
 
 </div>
