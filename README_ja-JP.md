@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2983** |
+| 📝 プロンプト総数 | **2992** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-10-06** |
 
@@ -189,6 +189,166 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 写真をちびキャラアニメ風にリスタイル
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 写真を、大きな頭と大きな目、パステルカラーが特徴のかわいいちびキャラ風アニメキャラクターに変換するための動画/画像変換プロンプト。
+
+#### 📝 プロンプト
+
+```
+この写真をちびキャラ風にリスタイルしてください: 女性を、大きな頭、大きくて輝く表情豊かな目、小さな体のプロポーション、柔らかなパステルカラー、シンプルでクリーンな線画、そして愛らしく誇張された特徴を持つかわいいちびキャラ風アニメキャラクターに変換します。元の...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107369838544846848/img/mfmRz8t_Kf8U25nm.jpg" width="600" alt="写真をちびキャラアニメ風にリスタイル">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12027)**
+
+**作者:** [Melissa Blacknall](https://x.com/melblacknall) | **ソース:** [Link](https://x.com/melblacknall/status/2107369854076678292) | **公開日:** Oct 6, 2026
+
+---
+### 星の下、静かな森の小道を歩く動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine向けの詩的な動画生成プロンプト。星空の下で光る森や隠された湖を通り抜ける静かな情景を描写しています。
+
+#### 📝 プロンプト
+
+```
+星明かりの下で輝く森の中を、静かに通り抜ける
+
+隠された湖、満天の星空、そして岸辺をかすめるわずかな光。最も魔法のような場所は、しばしば最も静かな場所です。✨🌌
+```
+
+<img src="https://cms-assets.youmind.com/media/1791272706844_8qdz7r_HT58gjXaMAAvA3C.jpg" width="600" alt="星の下、静かな森の小道を歩く動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12025)**
+
+**作者:** [Nagarjuna Creates](https://x.com/nagarjuncreates) | **ソース:** [Link](https://x.com/nagarjuncreates/status/2107258577970970902) | **公開日:** Oct 5, 2026
+
+---
+### リアルな女性彫刻家
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine で女性の彫刻制作シーンのリアリズムを強化するための動画プロンプト。石の質感や表情の詳細を指定します。
+
+#### 📝 プロンプト
+
+```
+女性が彫刻に取り組んでいる姿を描き、より現実的で自然な美しさを表現してください。会話はなしで、思索的な表情に焦点を当てます。その他の要素はそのままにしつつ、彫刻をより石らしい質感に仕上げてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107257327548010496/img/X-NN3TwTeiaVPdhW.jpg" width="600" alt="リアルな女性彫刻家">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12030)**
+
+**作者:** [Hea](https://x.com/SolLumen) | **ソース:** [Link](https://x.com/SolLumen/status/2107257352093385097) | **公開日:** Oct 5, 2026
+
+---
+### Grok Imagine 秋の風景プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 落ち葉とセリフを語る男性を描いた、Grok Imagine 用の動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+乾いた落ち葉が木から散り、微風が吹く。男性は顔を上げ、こう言う：「あなたを想っている。」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107248098003079168/img/7W61q9E9l-vEodb3.jpg" width="600" alt="Grok Imagine 秋の風景プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12032)**
+
+**作者:** [M.vega](https://x.com/Mvega7351578545) | **ソース:** [Link](https://x.com/Mvega7351578545/status/2107248118731317508) | **公開日:** Oct 5, 2026
+
+---
+### サイバーパンク都市のドローン撮影
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine用の詳細な縦型動画プロンプト。ホログラムアイドル広告から始まり、カメラが後退して都市全体を俯瞰する連続ショットで、サイバーパンクな未来都市を描きます。
+
+#### 📝 プロンプト
+
+```
+*必ず縦方向にしてください*
+動画を生成してください！
+サイバーパンクな未来都市。
+1 シーン、長回し、カットなし。
+カメラワークは、ホログラムアイドル広告のクローズアップショットから始まり、後退（ドリーアウト）して都市全体を見渡します。
+ドローン撮影のような視点（ドローン本体は見せないこと）。
+どこかの隅に、目立たない小さな赤い鳥居を配置してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107227035190063104/img/g0cOSP-l2pACfGuj.jpg" width="600" alt="サイバーパンク都市のドローン撮影">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12033)**
+
+**作者:** [じろじろin下関](https://x.com/ziro1005) | **ソース:** [Link](https://x.com/ziro1005/status/2107227204157608164) | **公開日:** Oct 5, 2026
+
+---
+### 草原で歌う女性のミュージックビデオ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> YouMind の Grok Imagine で、アップロードした参考画像を使用し、自然の中で歌い踊る女性のシネマティックなミュージックビデオを作成するための詳細な動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+アップロードした女性を視覚的な参考として使用し、顔立ち、髪型、全体の雰囲気を維持してください。彼女を美しい自然環境に配置します—木々に囲まれた緑豊かな草原、野花、遠くに見える山々、暖かいゴールデンアワーの陽光と優しい風。彼女は草原の中を幸せそうに歌い、自然にダンスします。リズムに合わせて楽しげに動きながら、時々カメラの方を見ます。シネマティックなリアルな映像、滑らかなカメラトラッキング、自然な体の動き、流れるような髪と服、リアルなライティング、鮮やかだが自然な色調、浅い被写界深度、楽しいミュージックビデオの雰囲気、高ディテール、4K、テキストなし、歪みなし、余分な人物なし。”
+```
+
+<img src="https://pbs.twimg.com/media/HT5Jc-0aoAAVeUD.jpg" width="600" alt="草原で歌う女性のミュージックビデオ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12029)**
+
+**作者:** [Rizi](https://x.com/Rizi_ru) | **ソース:** [Link](https://x.com/Rizi_ru/status/2107202496812994893) | **公開日:** Oct 5, 2026
+
+---
+### オーシャンビーチの灯台シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 波打ち際、灯台、黄色いタグボート、城、カモメが登場する風景動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+オーシャンビーチの入り江で波が静かに砂浜を洗い、遠くに灯台が見える。黄色いタグボートが入り江をゆっくりと航行し、対岸には城がある。2羽のカモメが砂浜に立ち、タグボートの動きを見守っている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107151329756073984/img/ilDG3QbCVmTEJ0_k.jpg" width="600" alt="オーシャンビーチの灯台シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12026)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2107151439877623997) | **公開日:** Oct 5, 2026
+
+---
+### 蛇に囲まれて歩く男
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ジャングルの中で、彼を愛しているかのように見える蛇たちに囲まれて歩く男性を描いた動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+この男性がジャングルの中を歩いているシーンを想像してください。あらゆる種類の蛇が登場し、動画の中で蛇たちがこの男性を愛しているように見えるように演出してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107078228666142720/img/HpPq4up9MF6Tx3le.jpg" width="600" alt="蛇に囲まれて歩く男">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12028)**
+
+**作者:** [Ansh](https://x.com/Anshuman230) | **ソース:** [Link](https://x.com/Anshuman230/status/2107078573345685556) | **公開日:** Oct 5, 2026
+
+---
 ### ゴシック大聖堂の騎士王シーン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -651,6 +811,25 @@ E = mc²
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11835)**
 
 **作者:** [Legend](https://x.com/AtlasGalatic) | **ソース:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **公開日:** Oct 3, 2026
+
+---
+### Grok を称賛する Elon のプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けの直接プロンプト：「Elon が Grok を称賛している素敵な動画」。これは有効ですが、シンプルなテキストから動画へのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+{argument name="subject" default="Elon"} が {argument name="object" default="Grok"} を称賛している素敵な動画
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106184485418958848/img/TG2nHzYwhgww9Rjf.jpg" width="600" alt="Grok を称賛する Elon のプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12031)**
+
+**作者:** [loving X@ Cheryl](https://x.com/Corr1444) | **ソース:** [Link](https://x.com/Corr1444/status/2106184521339302015) | **公開日:** Oct 3, 2026
 
 ---
 ### Dusty Bunny Whisper Prompt
@@ -2042,181 +2221,6 @@ Please keep the image sequence except for the last frame, as close to the exact 
 **作者:** [ハル．](https://x.com/HAL000111000) | **ソース:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **公開日:** Sep 24, 2026
 
 ---
-### ラットレディがポッサムに変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> カメラを見た後、大きな歯を持つポッサムに変身するネズミのような女性のビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-大きな目をしたネズミのような女性が、カメラを横目で見ており、右方向に垂直を向いてニヤリと笑っている....
-
-彼女はカメラの方を向き、大きな歯を持つポッサムに変身する
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="ラットレディがポッサムに変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11267)**
-
-**作者:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **ソース:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **公開日:** Sep 24, 2026
-
----
-### Grok Imagine 人身売買反対メッセージ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 人身売買への抵抗とアメリカへの祝福を込めた、Grok Imagine 向けソーシャルメッセージプロンプト。
-
-#### 📝 プロンプト
-
-```
-@Image1 私たちは皆、人身売買に立ち向かわなければなりません。神よ、アメリカを守り給え。安全にお過ごしください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="Grok Imagine 人身売買反対メッセージ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11268)**
-
-**作者:** [Greg Womack](https://x.com/Womack3954Greg) | **ソース:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **公開日:** Sep 24, 2026
-
----
-### クラシックな pimp の変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> モデルに人物の表情や仕草を変え、金を要求するクラシックな pimp のように振る舞わせるためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-写真の男性を、金を要求するクラシックな pimp のように変身させてください。目を細め、自信満々の不敵な笑みを浮かべた、厳しく真面目で妥協のない表情を与えてください。手の仕草も要求しているポーズに変更し、片手を差し出し...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="クラシックな pimp の変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11266)**
-
-**作者:** [Ty](https://x.com/datsTy27) | **ソース:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **公開日:** Sep 24, 2026
-
----
-### バーシーンでの振り向き
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 薄暗い照明のバーで、スタイリッシュな男性が振り返る様子を描写した動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-シネマティックな映画シーン：サングラスとタトゥーを施したスタイリッシュな長髪の男性が、雰囲気のある薄暗いバーの木製カウンターにリラックスして寄りかかり、クールで鋭い表情でゆっくりと頭を振る。カメラは微妙にプッシュインし、大気的なライティング、高品質...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="バーシーンでの振り向き">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11260)**
-
-**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **ソース:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **公開日:** Sep 24, 2026
-
----
-### スタイリッシュな男性の黄金装飾
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 参考画像からのキャラクターの一貫性と豪華な設定を伴う複雑な動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-@Image1 と @Image2 にある、サングラス、タトゥー、ダークカラーの衣装を着たスタイリッシュな長髪の男性が登場するシネマティックな映画シーン。彼は薄暗いバーカウンターでミステリアスに座っているが、その後立ち上がり、豪華で装飾的な金色の廊下を自信満々に歩いていく...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="スタイリッシュな男性の黄金装飾">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11262)**
-
-**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **ソース:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **公開日:** Sep 24, 2026
-
----
-### 控えめなバーアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 男性がバーに寄りかかる姿の繊細なアニメーションを生成するためのビデオプロンプト。呼吸や頭の動きに焦点を当てています。
-
-#### 📝 プロンプト
-
-```
-長いウェーブヘアと長方形のサングラスを着用した男性が木製のバーに寄りかかる、映画のような控えめなアニメーション。彼はクールで力強い表情を浮かべながら、ゆっくりとカメラの方へ頭をわずかに向けます。自然な呼吸と肩の動き、そして緩やかなフォーカスの変化...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="控えめなバーアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11261)**
-
-**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **ソース:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **公開日:** Sep 24, 2026
-
----
-### 雨夜のシネマティックな散歩
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夜間の雨の街を歩く男性を描いたシネマティックなシーンの動画生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-シネマ映画シーン：ダークスーツとサングラスを着用したクールな長髪の男性が、光る街灯の下、雨夜の石畳の道をゆっくりと自信を持って前方へ歩みを進める。大気的な雨が静かに降り注ぎ、微妙な頭部の動き、滑らかなトラッキングショット...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="雨夜のシネマティックな散歩">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11264)**
-
-**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **ソース:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **公開日:** Sep 24, 2026
-
----
-### ブライスキャニオンのファンタジー旅人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ブライスキャニオンを舞台にした、ファンタジー旅人が登場するシネマティックな縦型動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-AI video — 9:16 cinematic
-
-ハンサムで筋肉質な銀髪のファンタジー旅人が、ユタ州ブライスキャニオンの息をのむほど美しい赤い岩の峡谷をゆっくりと奥深くへと進んでいく。そびえ立つオレンジ色と深紅の砂岩の壁や、奇妙なフッドゥー（奇岩）の形成が威厳を持って立ち現れる...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="ブライスキャニオンのファンタジー旅人">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11263)**
-
-**作者:** [GayBar](https://x.com/GayBar_Ai) | **ソース:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **公開日:** Sep 24, 2026
-
----
-### 電話のナラティブ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 女性が電話に出た後、ドアをノックされる場面を描いたナラティブプロンプト。
-
-#### 📝 プロンプト
-
-```
-電話が鳴る。彼女が受話器を取る。「もしもし、愛しい人！」その後、ドアをノックする音がする。彼女はドアを開ける....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="電話のナラティブ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11226)**
-
-**作者:** [Mimi9060](https://x.com/MelodyM662010) | **ソース:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **公開日:** Sep 24, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2278,6 +2282,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-06T01:31:19.361Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-06T11:21:23.010Z</sub>
 
 </div>

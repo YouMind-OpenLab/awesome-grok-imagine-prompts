@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2983** |
+| 📝 Total Prompts | **2992** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-06** |
 
@@ -189,6 +189,166 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Chỉnh sửa ảnh thành phong cách Anime Chibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Câu lệnh chuyển đổi video/ảnh để biến một bức ảnh thành nhân vật anime chibi dễ thương với đầu to, mắt lớn và tông màu pastel.
+
+#### 📝 Prompt
+
+```
+Biến đổi bức ảnh này sang phong cách Chibi: chuyển người phụ nữ trong ảnh thành một nhân vật anime chibi dễ thương với kích thước đầu lớn, đôi mắt to tròn lấp lánh đầy biểu cảm, tỷ lệ cơ thể nhỏ nhắn, tông màu pastel nhẹ nhàng, đường nét đơn giản sạch sẽ và các đặc điểm phóng đại đáng yêu. Giữ nguyên...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107369838544846848/img/mfmRz8t_Kf8U25nm.jpg" width="600" alt="Chỉnh sửa ảnh thành phong cách Anime Chibi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12027)**
+
+**Author:** [Melissa Blacknall](https://x.com/melblacknall) | **Source:** [Link](https://x.com/melblacknall/status/2107369854076678292) | **Published:** Oct 6, 2026
+
+---
+### Video lối đi rừng tĩnh lặng dưới bầu trời sao
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc tạo video đầy chất thơ cho Grok Imagine, mô tả một lối đi tĩnh lặng xuyên qua khu rừng phát sáng với những hồ nước ẩn mình và bầu trời đầy sao.
+
+#### 📝 Prompt
+
+```
+Một lối đi tĩnh lặng xuyên qua khu rừng rực sáng dưới ánh sao
+
+Một hồ nước ẩn mình, một bầu trời đầy sao, và chỉ còn lại chút ánh sáng le lói dọc theo bờ. Đôi khi, những nơi kỳ diệu nhất chính là những nơi yên tĩnh nhất. ✨🌌
+```
+
+<img src="https://cms-assets.youmind.com/media/1791272706844_8qdz7r_HT58gjXaMAAvA3C.jpg" width="600" alt="Video lối đi rừng tĩnh lặng dưới bầu trời sao">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12025)**
+
+**Author:** [Nagarjuna Creates](https://x.com/nagarjuncreates) | **Source:** [Link](https://x.com/nagarjuncreates/status/2107258577970970902) | **Published:** Oct 5, 2026
+
+---
+### Nữ Điêu Khắc Gia Chân Thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc video cho Grok Imagine nhằm tăng cường độ chân thực trong cảnh một người phụ nữ đang điêu khắc, tập trung vào kết cấu đá và biểu cảm khuôn mặt.
+
+#### 📝 Prompt
+
+```
+Hãy để cô ấy đang làm việc với một tác phẩm điêu khắc, vẻ đẹp tự nhiên chân thực hơn, không nói chuyện chỉ có biểu cảm trầm tư, giữ nguyên nhưng làm cho bức tượng trông giống đá hơn, giữ mọi thứ khác
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107257327548010496/img/X-NN3TwTeiaVPdhW.jpg" width="600" alt="Nữ Điêu Khắc Gia Chân Thực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12030)**
+
+**Author:** [Hea](https://x.com/SolLumen) | **Source:** [Link](https://x.com/SolLumen/status/2107257352093385097) | **Published:** Oct 5, 2026
+
+---
+### Prompt Cảnh Mùa Thu Cho Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video cho Grok Imagine mô tả cảnh mùa thu với lá rơi và một người đàn ông đang nói một câu thoại.
+
+#### 📝 Prompt
+
+```
+Lá khô rơi từ trên cây, gió nhẹ thổi. Người đàn ông ngẩng đầu lên và nói: Tôi nhớ bạn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107248098003079168/img/7W61q9E9l-vEodb3.jpg" width="600" alt="Prompt Cảnh Mùa Thu Cho Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12032)**
+
+**Author:** [M.vega](https://x.com/Mvega7351578545) | **Source:** [Link](https://x.com/Mvega7351578545/status/2107248118731317508) | **Published:** Oct 5, 2026
+
+---
+### Cảnh quay drone thành phố Cyberpunk
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt video dọc chi tiết cho Grok Imagine, mô tả một thành phố tương lai cyberpunk với cú máy liên tục bắt đầu từ quảng cáo idol hologram và kéo lùi ra để bao quát toàn cảnh.
+
+#### 📝 Prompt
+
+```
+*Bắt buộc định dạng dọc*
+Vui lòng tạo một video!
+Một thành phố tương lai theo phong cách cyberpunk.
+Một cảnh quay dài, không cắt ghép.
+Camera bắt đầu bằng cận cảnh quảng cáo idol hologram và kéo lùi (dolly out) để bao quát toàn bộ thành phố.
+Giống như cảnh quay từ drone (không hiển thị thân drone).
+Đặt một cổng torii màu đỏ nhỏ ở một góc khuất nào đó.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107227035190063104/img/g0cOSP-l2pACfGuj.jpg" width="600" alt="Cảnh quay drone thành phố Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12033)**
+
+**Author:** [じろじろin下関](https://x.com/ziro1005) | **Source:** [Link](https://x.com/ziro1005/status/2107227204157608164) | **Published:** Oct 5, 2026
+
+---
+### MV Người Phụ Nữ Hát Trong Đồng Cỏ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video chi tiết cho Grok Imagine để tạo một MV điện ảnh về một người phụ nữ hát và nhảy trong khung cảnh thiên nhiên, sử dụng hình ảnh tham chiếu đã tải lên.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh người phụ nữ đã tải lên làm tham chiếu trực quan và giữ nguyên đặc điểm khuôn mặt, kiểu tóc cũng như tổng thể ngoại hình của cô ấy. Đặt cô ấy vào một khung cảnh thiên nhiên tuyệt đẹp—đồng cỏ xanh mướt bao quanh bởi cây cối, hoa dại, dãy núi xa xăm, ánh nắng vàng ấm áp của giờ vàng (golden hour) và gió nhẹ nhàng. Cô ấy vui vẻ hát và nhảy tự nhiên giữa đồng cỏ, di chuyển nhịp nhàng và tinh nghịch, thỉnh thoảng hướng mắt về phía máy quay. Hình ảnh chân thực mang phong cách điện ảnh, camera theo dõi mượt mà, chuyển động cơ thể tự nhiên, tóc và trang phục bay bổng, ánh sáng chân thực, màu sắc rực rỡ nhưng tự nhiên, độ sâu trường ảnh nông, bầu không khí MV tràn đầy niềm vui, độ chi tiết cao, 4K, không có văn bản, không biến dạng, không có thêm người khác.
+```
+
+<img src="https://pbs.twimg.com/media/HT5Jc-0aoAAVeUD.jpg" width="600" alt="MV Người Phụ Nữ Hát Trong Đồng Cỏ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12029)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2107202496812994893) | **Published:** Oct 5, 2026
+
+---
+### Cảnh Hải Đăng Trên Bãi Biển Đại Dương
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video phong cảnh với sóng biển, ngọn hải đăng, tàu kéo màu vàng, lâu đài và chim mòng biển.
+
+#### 📝 Prompt
+
+```
+vịnh bãi biển đại dương sóng vỗ nhẹ nhàng trên bờ biển ngọn hải đăng ở phía xa tàu kéo màu vàng chạy ngang qua vịnh lâu đài ở đầu đối diện của ngọn hải đăng hai con chim mòng biển đứng trên bãi biển nhìn theo tàu kéo màu vàng đang chạy
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107151329756073984/img/ilDG3QbCVmTEJ0_k.jpg" width="600" alt="Cảnh Hải Đăng Trên Bãi Biển Đại Dương">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12026)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2107151439877623997) | **Published:** Oct 5, 2026
+
+---
+### Người đàn ông đi bộ cùng những con rắn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video mô tả cảnh một người đàn ông đi bộ trong rừng rậm, xung quanh là những con rắn dường như yêu mến anh ta.
+
+#### 📝 Prompt
+
+```
+Hãy tưởng tượng người đàn ông này đang đi bộ trong rừng rậm với đủ loại rắn, làm cho video trông giống như những con rắn đang yêu mến người đàn ông này.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107078228666142720/img/HpPq4up9MF6Tx3le.jpg" width="600" alt="Người đàn ông đi bộ cùng những con rắn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12028)**
+
+**Author:** [Ansh](https://x.com/Anshuman230) | **Source:** [Link](https://x.com/Anshuman230/status/2107078573345685556) | **Published:** Oct 5, 2026
+
+---
 ### Cảnh Hiệp sĩ Vua trong Nhà thờ Gothic
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -649,6 +809,25 @@ Một bức tượng hình học tuyệt đẹp làm từ đồng đang nuôi d�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
 
 **Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
+
+---
+### Elon đánh giá cao Grok Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt trực tiếp cho Grok Imagine: 'Một video đẹp về Elon đánh giá cao Grok'. Đây là một prompt text-to-video hợp lệ, mặc dù đơn giản.
+
+#### 📝 Prompt
+
+```
+Một video đẹp về {argument name="subject" default="Elon"} đánh giá cao {argument name="object" default="Grok"}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106184485418958848/img/TG2nHzYwhgww9Rjf.jpg" width="600" alt="Elon đánh giá cao Grok Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12031)**
+
+**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2106184521339302015) | **Published:** Oct 3, 2026
 
 ---
 ### Prompt Thỏ Bụi Thì Thầm
@@ -2045,181 +2224,6 @@ Hãy tạo cho tôi một video mới dựa trên các hình ảnh được cung
 **Author:** [ハル．](https://x.com/HAL000111000) | **Source:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **Published:** Sep 24, 2026
 
 ---
-### Nữ Chuột Biến Hình Thành Opossum
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả video về một nữ nhân vật giống chuột biến hình thành opossum với hàm răng lớn sau khi nhìn vào camera.
-
-#### 📝 Prompt
-
-```
-Một nữ nhân vật giống chuột với đôi mắt to, liếc xéo camera và quay mặt vuông góc sang bên phải, đang cười toe toét....
-
-Cô ấy quay lại nhìn thẳng vào camera và biến hình thành một con opossum với hàm răng lớn
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="Nữ Chuột Biến Hình Thành Opossum">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11267)**
-
-**Author:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **Source:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **Published:** Sep 24, 2026
-
----
-### Thông điệp chống buôn người của Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lời nhắc tin nhắn xã hội cho Grok Imagine liên quan đến việc đứng lên chống lại nạn buôn người và cầu chúc phước lành cho nước Mỹ.
-
-#### 📝 Prompt
-
-```
-@Image1 Tất cả chúng ta phải đứng lên chống lại nạn buôn người. Cầu Chúa phù hộ cho nước Mỹ. Hãy an toàn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="Thông điệp chống buôn người của Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11268)**
-
-**Author:** [Greg Womack](https://x.com/Womack3954Greg) | **Source:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **Published:** Sep 24, 2026
-
----
-### Biến Hình Thành Ông Trùm Cổ Điển
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh hướng dẫn mô hình biến đổi biểu cảm và cử chỉ của một người để trông giống như một ông trùm cổ điển đang đòi tiền.
-
-#### 📝 Prompt
-
-```
-Hãy biến đổi người đàn ông trong bức ảnh sao cho anh ta trông giống như một ông trùm cổ điển đang đòi tiền. Tạo cho anh ta một biểu cảm nghiêm khắc, lạnh lùng, không khoan nhượng với đôi mắt nheo lại và nụ cười tự tin đầy vẻ thách thức. Thay đổi cử chỉ tay của anh ta sang tư thế đòi hỏi: một bàn tay chìa ra...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="Biến Hình Thành Ông Trùm Cổ Điển">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11266)**
-
-**Author:** [Ty](https://x.com/datsTy27) | **Source:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **Published:** Sep 24, 2026
-
----
-### Cảnh Quay Đầu Trong Quán Bar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video mô tả một người đàn ông phong cách quay đầu trong quán bar ánh sáng mờ ảo.
-
-#### 📝 Prompt
-
-```
-Cảnh phim điện ảnh: Người đàn ông tóc dài phong cách, đeo kính râm và có hình xăm, tựa lưng thoải mái vào quầy bar bằng gỗ trong một quán bar tối tăm đầy tâm trạng, từ từ quay đầu với biểu cảm lạnh lùng và mãnh liệt, camera đẩy nhẹ vào cận cảnh, ánh sáng khí quyển, chất lượng cao...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="Cảnh Quay Đầu Trong Quán Bar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11260)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **Published:** Sep 24, 2026
-
----
-### Trang sức vàng sang trọng cho người đàn ông phong cách
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video phức tạp liên quan đến tính nhất quán của nhân vật từ hình ảnh tham khảo và bối cảnh xa hoa.
-
-#### 📝 Prompt
-
-```
-Cảnh quay điện ảnh về người đàn ông tóc dài phong cách, đeo kính râm, có hình xăm và mặc trang phục tối màu từ @Image1 và @Image2. Anh ấy ngồi một cách thoải mái tại quầy bar ánh sáng mờ ảo với vẻ bí ẩn, sau đó đứng dậy và bước đi đầy tự tin qua hành lang dát vàng lộng lẫy...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="Trang sức vàng sang trọng cho người đàn ông phong cách">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11262)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **Published:** Sep 24, 2026
-
----
-### Hiệu ứng thanh bar tinh tế
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lời nhắc video cho hiệu ứng animation tinh tế của một người đàn ông tựa vào quầy bar, tập trung vào hơi thở và chuyển động đầu.
-
-#### 📝 Prompt
-
-```
-Hiệu ứng animation điện ảnh tinh tế của người đàn ông với mái tóc dài gợn sóng màu sẫm và kính râm hình chữ nhật đang tựa vào quầy bar bằng gỗ. Anh ấy từ từ quay đầu nhẹ về phía máy quay với biểu cảm lạnh lùng, mãnh liệt, kết hợp cùng những chuyển động tinh tế của hơi thở và vai, cùng hiệu ứng thay đổi tiêu điểm nhẹ nhàng...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="Hiệu ứng thanh bar tinh tế">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11261)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **Published:** Sep 24, 2026
-
----
-### Cảnh quay điện ảnh đi bộ trong đêm mưa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Câu lệnh tạo video cho một cảnh quay điện ảnh mô tả người đàn ông đi bộ trên con phố mưa vào ban đêm.
-
-#### 📝 Prompt
-
-```
-Cảnh phim điện ảnh: Người đàn ông tóc dài, phong cách lạnh lùng, mặc vest tối màu và đeo kính râm, bước đi chậm rãi và đầy tự tin trên con phố lát đá cuội ướt đẫm dưới ánh đèn đường lung linh trong đêm mưa. Mưa rơi nhẹ nhàng, tạo không khí trầm mặc, với những chuyển động đầu tinh tế và cú máy tracking mượt mà...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="Cảnh quay điện ảnh đi bộ trong đêm mưa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11264)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **Published:** Sep 24, 2026
-
----
-### Nhà Du Hành Kỳ Ảo Tại Bryce Canyon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video dọc điện ảnh về một nhà du hành kỳ ảo tại Bryce Canyon.
-
-#### 📝 Prompt
-
-```
-AI video — Điện ảnh 9:16
-
-Một nhà du hành kỳ ảo điển trai, cơ bắp với mái tóc bạc chậm rãi đi sâu hơn vào những hẻm núi đá đỏ ngoạn mục của Bryce Canyon, Utah. Những bức tường sa thạch cam và đỏ thẫm cao chót vót cùng các cấu trúc hoodoo kỳ lạ vươn lên đầy uy nghi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="Nhà Du Hành Kỳ Ảo Tại Bryce Canyon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11263)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **Published:** Sep 24, 2026
-
----
-### Câu chuyện qua điện thoại
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc kể chuyện mô tả một phụ nữ nghe điện thoại, sau đó là tiếng gõ cửa.
-
-#### 📝 Prompt
-
-```
-Chuông điện thoại reo. Cô ấy nhấc máy. "Chào em yêu!" Sau đó là tiếng gõ cửa. Cô ấy mở cửa...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="Câu chuyện qua điện thoại">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11226)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2281,6 +2285,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-06T01:31:22.320Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-06T11:21:26.882Z</sub>
 
 </div>

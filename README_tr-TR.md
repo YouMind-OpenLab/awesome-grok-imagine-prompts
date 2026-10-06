@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2983** |
+| 📝 Total Prompts | **2992** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-06** |
 
@@ -189,6 +189,166 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Fotoğrafı Chibi Anime Tarzına Dönüştür
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir fotoğrafı, büyük başlı, iri gözlü ve pastel renkli sevimli bir chibi anime karakterine dönüştüren video/görsel dönüşüm istemi.
+
+#### 📝 Prompt
+
+```
+Bu fotoğrafı Chibi tarzına dönüştür: Kadını, büyük bir baş, iri ve ifade dolu parlayan gözler, minik vücut oranları, yumuşak pastel renkler, temiz ve sade çizgiler ile sevimli abartılı özelliklere sahip şirin bir chibi anime karakterine dönüştür. Koru...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107369838544846848/img/mfmRz8t_Kf8U25nm.jpg" width="600" alt="Fotoğrafı Chibi Anime Tarzına Dönüştür">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12027)**
+
+**Author:** [Melissa Blacknall](https://x.com/melblacknall) | **Source:** [Link](https://x.com/melblacknall/status/2107369854076678292) | **Published:** Oct 6, 2026
+
+---
+### Yıldızlar Altında Sessiz Orman Geçidi Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, gizli göller ve yıldızlı gökyüzüyle parlayan sessiz bir orman geçidini betimleyen şiirsel bir video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Yıldızların altında parlayan bir ormanda sessiz bir geçiş
+
+Gizli bir göl, yıldızlarla dolu bir gökyüzü ve kıyıda sadece hafif bir ışık izi. Bazen en büyüleyici yerler en sessiz olanlardır. ✨🌌
+```
+
+<img src="https://cms-assets.youmind.com/media/1791272706844_8qdz7r_HT58gjXaMAAvA3C.jpg" width="600" alt="Yıldızlar Altında Sessiz Orman Geçidi Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12025)**
+
+**Author:** [Nagarjuna Creates](https://x.com/nagarjuncreates) | **Source:** [Link](https://x.com/nagarjuncreates/status/2107258577970970902) | **Published:** Oct 5, 2026
+
+---
+### Gerçekçi Heykeltıraş Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, bir kadının heykel üzerinde çalıştığı sahnede gerçekçiliği artıran, taş dokusunu ve ifadeyi belirten video istemi.
+
+#### 📝 Prompt
+
+```
+kadın heykel üzerinde çalışsın, daha gerçekçi doğal güzellik olsun, konuşmasın sadece düşünceli bir ifade sergilesin, aynı kalsın ama heykel daha çok taşa benzesin, diğer her şey aynı kalsın
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107257327548010496/img/X-NN3TwTeiaVPdhW.jpg" width="600" alt="Gerçekçi Heykeltıraş Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12030)**
+
+**Author:** [Hea](https://x.com/SolLumen) | **Source:** [Link](https://x.com/SolLumen/status/2107257352093385097) | **Published:** Oct 5, 2026
+
+---
+### Grok Imagine Sonbahar Sahnesi İstemcisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Düşen yapraklar ve bir replik söyleyen adam içeren sonbahar sahnesini tasvir eden Grok Imagine için video oluşturma istemcisi.
+
+#### 📝 Prompt
+
+```
+Kuru yapraklar ağaçtan düşüyor, hafif rüzgar esiyor. Adam başını kaldırıyor ve diyor ki: Seni düşünüyorum.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107248098003079168/img/7W61q9E9l-vEodb3.jpg" width="600" alt="Grok Imagine Sonbahar Sahnesi İstemcisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12032)**
+
+**Author:** [M.vega](https://x.com/Mvega7351578545) | **Source:** [Link](https://x.com/Mvega7351578545/status/2107248118731317508) | **Published:** Oct 5, 2026
+
+---
+### Siberpunk Şehir Drone Çekimi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine için, hologram idol reklamından başlayarak drone benzeri bir genel bakışa doğru geri çekilen sürekli kamera hareketiyle siberpunk gelecekteki bir şehri tasvir eden detaylı dikey video istemi.
+
+#### 📝 Prompt
+
+```
+*Dikey yönlendirme zorunludur*
+Lütfen bir video oluşturun!
+Siberpunk tarzında fütüristik bir şehir.
+Tek sahne, uzun plan, kesme yok.
+Kamera çalışması, yakın çekim bir hologram idol reklamıyla başlar ve tüm şehri kuşbakışı görecek şekilde geriye doğru (dolly out) kayar.
+Drone çekimi gibi (drone gövdesi asla görünmemeli).
+Bir köşede, dikkat çekmeyecek şekilde küçük kırmızı bir torii kapısı yerleştirin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107227035190063104/img/g0cOSP-l2pACfGuj.jpg" width="600" alt="Siberpunk Şehir Drone Çekimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12033)**
+
+**Author:** [じろじろin下関](https://x.com/ziro1005) | **Source:** [Link](https://x.com/ziro1005/status/2107227204157608164) | **Published:** Oct 5, 2026
+
+---
+### Çayırda Şarkı Söyleyen Kadın Müzik Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, yüklenen referans görseli kullanarak doğal bir ortamda şarkı söyleyip dans eden bir kadının sinematik müzik videosunu oluşturmaya yönelik detaylı video istemi.
+
+#### 📝 Prompt
+
+```
+Yüklenen kadın görselini referans olarak kullanın ve yüz hatlarını, saç stilini ve genel görünümünü koruyun. Onu güzel bir doğal ortama yerleştirin: ağaçlarla çevrili yemyeşil bir çayır, yabani çiçekler, uzakta dağlar, sıcak altın saat güneşi ışığı ve hafif rüzgar. Çayır boyunca mutlu bir şekilde doğal olarak şarkı söylüyor ve dans ediyor; ritmik ve oyunbaz hareketler sergilerken zaman zaman kameraya bakıyor. Sinematik gerçekçi görüntüler, akıcı kamera takibi, doğal vücut hareketleri, uçuşan saçlar ve kıyafetler, gerçekçi aydınlatma, canlı ama doğal renkler, sığ alan derinliği, neşeli bir müzik videosu atmosferi, yüksek detay, 4K, metin yok, bozulma yok, ekstra kişi yok.
+```
+
+<img src="https://pbs.twimg.com/media/HT5Jc-0aoAAVeUD.jpg" width="600" alt="Çayırda Şarkı Söyleyen Kadın Müzik Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12029)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2107202496812994893) | **Published:** Oct 5, 2026
+
+---
+### Okyanus Kıyısı Fener Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Okyanus dalgaları, bir deniz feneri, sarı bir römorkör, bir kale ve martıları içeren etkileyici bir video sahne tanımı.
+
+#### 📝 Prompt
+
+```
+okyanus kıyısı koyu dalgalar kumsala hafifçe vuruyor uzakta deniz feneri sarı bir römorkör körfezde ilerliyor karşı burunda kale iki martı kumsalda durmuş sarı römorkörü izliyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107151329756073984/img/ilDG3QbCVmTEJ0_k.jpg" width="600" alt="Okyanus Kıyısı Fener Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12026)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2107151439877623997) | **Published:** Oct 5, 2026
+
+---
+### Man Walking with Snakes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Snakes that appear to love him surrounded by a man walking in a jungle depicted in a video generation prompt.
+
+#### 📝 Prompt
+
+```
+Bu adamın, her türden yılanla dolu bir ormanda yürüdüğünü hayal edin ve videoda yılanların bu adamı sevdiği gibi görünmesini sağlayın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107078228666142720/img/HpPq4up9MF6Tx3le.jpg" width="600" alt="Man Walking with Snakes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12028)**
+
+**Author:** [Ansh](https://x.com/Anshuman230) | **Source:** [Link](https://x.com/Anshuman230/status/2107078573345685556) | **Published:** Oct 5, 2026
+
+---
 ### Gotik Katedral Şövalye Kral Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -649,6 +809,25 @@ Bakırdan yapılmış güzel bir geometrik heykel, ormanı besliyor. Animasyon s
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
 
 **Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
+
+---
+### Elon'un Grok'u Takdir Ettiği Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için doğrudan bir prompt: 'Elon'un Grok'u takdir ettiği güzel bir video'. Bu, basit olsa da geçerli bir metinden-videoya üretim promptudur.
+
+#### 📝 Prompt
+
+```
+{argument name="subject" default="Elon"} tarafından {argument name="object" default="Grok"}'un takdir edildiği güzel bir video
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106184485418958848/img/TG2nHzYwhgww9Rjf.jpg" width="600" alt="Elon'un Grok'u Takdir Ettiği Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12031)**
+
+**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2106184521339302015) | **Published:** Oct 3, 2026
 
 ---
 ### Toz Tavşanı Fısıltı İstemcisi
@@ -2038,181 +2217,6 @@ Sağlanan görsellere dayanarak şu istemi kullanarak benim için yeni bir video
 **Author:** [ハル．](https://x.com/HAL000111000) | **Source:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **Published:** Sep 24, 2026
 
 ---
-### Kırlangıçtan Opossuma Dönüşen Fare Kadın
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kameraya baktıktan sonra büyük dişli bir opossuma dönüşen fare benzeri bir kadını anlatan video istemi.
-
-#### 📝 Prompt
-
-```
-büyük gözlü, kameraya yan bakış atan ve ona dik açıyla sağa dönük duran, sırıtan fare benzeri bir kadın....
-
-kameraya döner ve büyük dişli bir opossuma dönüşür
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="Kırlangıçtan Opossuma Dönüşen Fare Kadın">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11267)**
-
-**Author:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **Source:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **Published:** Sep 24, 2026
-
----
-### Grok Imagine İnsan Ticaretine Karşı Mesaj
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İnsan ticaretine karşı duruşu ve Amerika'ya duaları içeren Grok Imagine için bir sosyal mesaj istemi.
-
-#### 📝 Prompt
-
-```
-@Image1 Hepimiz İnsan Ticaretine Karşı Durmalıyız Tanrı Amerika'yı Korusun Güvende Kalın
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="Grok Imagine İnsan Ticaretine Karşı Mesaj">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11268)**
-
-**Author:** [Greg Womack](https://x.com/Womack3954Greg) | **Source:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **Published:** Sep 24, 2026
-
----
-### Klasik Pimp Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Modelin, bir kişinin ifade ve jestlerini para isteyen klasik bir pimp gibi davranacak şekilde dönüştürmesini sağlayan istem.
-
-#### 📝 Prompt
-
-```
-Fotoğraftaki adamı, parasını isteyen klasik bir pimp gibi davranacak şekilde dönüştür. Ona daralmış gözler ve kendinden emin bir sırıtışla sert, ciddi, işini bilen bir ifade ver. El hareketlerini talepkar bir pozisyona değiştir: Bir el öne uzatılmış pa...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="Klasik Pimp Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11266)**
-
-**Author:** [Ty](https://x.com/datsTy27) | **Source:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **Published:** Sep 24, 2026
-
----
-### Bar Sahnesinde Baş Dönüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Atmosferik ışıklandırmalı loş bir barda başını döndüren şık bir adamı tasvir eden video istemi.
-
-#### 📝 Prompt
-
-```
-Sinematik film sahnesi: Güneş gözlüğü ve dövmeleri olan, uzun saçlı şık erkek, loş ve kasvetli bir ahşap bar tezgahına rahatça yaslanmış, soğuk ve yoğun bir ifadeyle yavaşça başını çeviriyor, hafif kamera zoomu, atmosferik aydınlatma, yüksek kalite...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="Bar Sahnesinde Baş Dönüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11260)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **Published:** Sep 24, 2026
-
----
-### Şık Erkek Altın Süsleme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Referans görsellerden karakter tutarlılığı ve lüks bir ortam içeren karmaşık bir video istemi.
-
-#### 📝 Prompt
-
-```
-@Image1 ve @Image2'deki güneş gözlüklü, dövmeli ve koyu renk kıyafetli şık uzun saçlı adamın sinematik film sahnesi. Loş ışıklı bir bar tezgahında gizemli görünerek rahatça oturuyor, ardından kalkıyor ve lüks, altın işlemeli bir koridorda kendinden emin bir şekilde yürüyor...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="Şık Erkek Altın Süsleme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11262)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **Published:** Sep 24, 2026
-
----
-### Hafif Bar Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir adamın bara yaslanırken nefes alma ve baş hareketlerine odaklanan, ince detaylı animasyon için video istemi.
-
-#### 📝 Prompt
-
-```
-Uzun dalgalı koyu saçları ve dikdörtgen güneş gözlükleriyle ahşap bara yaslanan adamın hafif sinematik animasyonu. Başını yavaşça kameraya doğru çevirerek soğuk ve yoğun bir ifade takınıyor; ince nefes ve omuz hareketleri, yumuşak odak geçişi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="Hafif Bar Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11261)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **Published:** Sep 24, 2026
-
----
-### Yağmurlu Gece Sinematik Yürüyüş
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gece yağmurlu bir sokakta yürüyen bir adamı içeren sinematik bir sahne için video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Sinematik film sahnesi: koyu renk takım elbise ve güneş gözlüğü takan, uzun saçlı soğuk görünümlü adam, parlayan sokak lambalarının altında, atmosferik yağmurun hafifçe yağdığı gece ıslak kaldırımlarda yavaşça ve kendinden emin bir şekilde ileri doğru yürüyor; ince baş hareketleri, akıcı takip çekimi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="Yağmurlu Gece Sinematik Yürüyüş">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11264)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **Published:** Sep 24, 2026
-
----
-### Bryce Kanyonu Fantastik Gezgin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bryce Kanyonu'nda fantastik bir gezgini konu alan sinematik dikey video istemi.
-
-#### 📝 Prompt
-
-```
-AI video — 9:16 sinematik
-
-Güzel, kaslı ve gümüş saçlı fantastik bir gezgin, Utah eyaletindeki Bryce Kanyonu'nun nefes kesici kırmızı kaya kanyonlarında derinlere doğru yavaşça ilerliyor. Göz alıcı turuncu ve koyu kırmızı kumtaşı duvarları ile gizemli hoodoo oluşumları heybetli bir şekilde yükseliyor...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="Bryce Kanyonu Fantastik Gezgin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11263)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **Published:** Sep 24, 2026
-
----
-### Telefon Görüşmesi Anlatısı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kadının telefon görüşmesini yanıtlamasını ve ardından kapıya vurulmasını anlatan bir senaryo istemi.
-
-#### 📝 Prompt
-
-```
-Telefon çalar. Açılır. Merhaba Tatlım! Ardından kapıya vurulur. Kapıyı açar....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="Telefon Görüşmesi Anlatısı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11226)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2274,6 +2278,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-06T01:31:30.700Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-06T11:21:37.594Z</sub>
 
 </div>

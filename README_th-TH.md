@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2983** |
+| 📝 Total Prompts | **2992** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-06** |
 
@@ -189,6 +189,166 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ปรับสไตล์ภาพถ่ายเป็นอนิเมะจิ๋ว (Chibi Anime)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับแปลงวิดีโอ/รูปภาพ เพื่อเปลี่ยนภาพถ่ายให้กลายเป็นตัวละครอนิเมะสไตล์ Chibi น่ารัก ที่มีหัวโต ตาใหญ่ และโทนสีพาสเทล
+
+#### 📝 Prompt
+
+```
+ปรับสไตล์ภาพถ่ายนี้เป็นแบบ Chibi: แปลงหญิงสาวให้กลายเป็นตัวละครอนิเมะ Chibi น่ารัก ที่มีสัดส่วนหัวโต ดวงตากลมโตเป็นประกายแสดงอารมณ์ ร่างกายเล็กกะทัดรัด โทนสีพาสเทลอ่อนนุ่ม เส้นสายเรียบง่ายสะอาดตา และจุดเด่นที่น่ารักเกินจริง รักษาลักษณะ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107369838544846848/img/mfmRz8t_Kf8U25nm.jpg" width="600" alt="ปรับสไตล์ภาพถ่ายเป็นอนิเมะจิ๋ว (Chibi Anime)">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12027)**
+
+**Author:** [Melissa Blacknall](https://x.com/melblacknall) | **Source:** [Link](https://x.com/melblacknall/status/2107369854076678292) | **Published:** Oct 6, 2026
+
+---
+### วิดีโอทางเดินป่าเงียบสงบใต้แสงดาว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างวิดีโอเชิงกวีสำหรับ Grok Imagine ที่บรรยายถึงการเดินทางอย่างเงียบสงบผ่านป่าเรืองแสง ทะเลสาบที่ซ่อนเร้น และท้องฟ้าประดับด้วยดวงดาว
+
+#### 📝 Prompt
+
+```
+ทางเดินเงียบสงบผ่านป่าที่เรืองแสงภายใต้ดวงดาว
+
+ทะเลสาบที่ซ่อนเร้น ท้องฟ้าเต็มไปด้วยดวงดาว และเพียงแสงริบหรี่ริมฝั่ง บางครั้งสถานที่ที่มหัศจรรย์ที่สุดคือสถานที่ที่เงียบสงบที่สุด ✨🌌
+```
+
+<img src="https://cms-assets.youmind.com/media/1791272706844_8qdz7r_HT58gjXaMAAvA3C.jpg" width="600" alt="วิดีโอทางเดินป่าเงียบสงบใต้แสงดาว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12025)**
+
+**Author:** [Nagarjuna Creates](https://x.com/nagarjuncreates) | **Source:** [Link](https://x.com/nagarjuncreates/status/2107258577970970902) | **Published:** Oct 5, 2026
+
+---
+### ประติมากรหญิงสมจริง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสำหรับ Grok Imagine เพื่อเพิ่มความสมจริงในฉากที่ผู้หญิงกำลังทำงานประติมากรรม โดยระบุรายละเอียดของพื้นผิวหินและสีหน้า
+
+#### 📝 Prompt
+
+```
+ให้เธอทำงานกับประติมากรรม และมีความงามตามธรรมชาติที่สมจริงมากขึ้น ไม่ต้องพูด เพียงแค่แสดงสีหน้าที่ใช้ความคิด เหมือนเดิมแต่ทำให้ประติมากรรมดูเป็นหินมากขึ้น คงส่วนอื่นๆ ไว้เหมือนเดิม
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107257327548010496/img/X-NN3TwTeiaVPdhW.jpg" width="600" alt="ประติมากรหญิงสมจริง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12030)**
+
+**Author:** [Hea](https://x.com/SolLumen) | **Source:** [Link](https://x.com/SolLumen/status/2107257352093385097) | **Published:** Oct 5, 2026
+
+---
+### พรอมต์ฉากฤดูใบไม้ร่วงสำหรับ Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างวิดีโอสำหรับ Grok Imagine ที่แสดงภาพฉากฤดูใบไม้ร่วงที่มีใบไม้ร่วงหล่นและชายคนหนึ่งกำลังพูดบทสนทนา
+
+#### 📝 Prompt
+
+```
+ใบไม้แห้งร่วงหล่นจากต้นไม้ ลมพัดเบาๆ ชายคนนั้นเงยหน้าขึ้นแล้วพูดว่า: ฉันคิดถึงคุณ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107248098003079168/img/7W61q9E9l-vEodb3.jpg" width="600" alt="พรอมต์ฉากฤดูใบไม้ร่วงสำหรับ Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12032)**
+
+**Author:** [M.vega](https://x.com/Mvega7351578545) | **Source:** [Link](https://x.com/Mvega7351578545/status/2107248118731317508) | **Published:** Oct 5, 2026
+
+---
+### Cyberpunk City Drone Shot
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed vertical video prompt for Grok Imagine depicting a cyberpunk future city with a continuous camera shot starting from a hologram idol ad and pulling back to a drone-like overview.
+
+#### 📝 Prompt
+
+```
+*ต้องเป็นแนวตั้ง*
+โปรดสร้างวิดีโอ!
+เมืองแห่งอนาคตสไตล์ Cyberpunk
+ฉากเดียว ลองเทก ไม่มีการตัดต่อ
+การเคลื่อนไหวของกล้องเริ่มจากภาพระยะใกล้ของโฆษณาไอดอลโฮโลแกรม แล้วดึงออก (dolly out) เพื่อให้เห็นภาพรวมของทั้งเมือง
+เหมือนกับการถ่ายโดรน (ห้ามเห็นตัวโดรน)
+วางเสาโทริอิสีแดงขนาดเล็กไว้ในมุมใดมุมหนึ่งอย่างแนบเนียน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107227035190063104/img/g0cOSP-l2pACfGuj.jpg" width="600" alt="Cyberpunk City Drone Shot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12033)**
+
+**Author:** [じろじろin下関](https://x.com/ziro1005) | **Source:** [Link](https://x.com/ziro1005/status/2107227204157608164) | **Published:** Oct 5, 2026
+
+---
+### มิวสิกวิดีโอหญิงสาวร้องเพลงในทุ่งหญ้า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบละเอียดสำหรับ Grok Imagine เพื่อสร้างมิวสิกวิดีโอแนวภาพยนตร์ของหญิงสาวที่ร้องเพลงและเต้นรำในธรรมชาติ โดยใช้ภาพอ้างอิงที่อัปโหลด
+
+#### 📝 Prompt
+
+```
+ใช้ภาพหญิงสาวที่อัปโหลดเป็นแหล่งอ้างอิงทางสายตา และคงลักษณะใบหน้า ทรงผม และรูปลักษณ์โดยรวมของเธอไว้ วางเธอในฉากธรรมชาติที่สวยงาม—ทุ่งหญ้าเขียวขจีล้อมรอบด้วยต้นไม้ ดอกไม้ป่า เทือกเขาอยู่ไกลๆ แสงอาทิตย์ยามเย็นสีทองอบอุ่น และสายลมพัดเบาๆ เธอร้องเพลงและเต้นรำอย่างมีความสุขอย่างเป็นธรรมชาติผ่านทุ่งหญ้า เคลื่อนไหวตามจังหวะอย่างร่าเริงและซุกซน ในขณะที่บางครั้งก็มองมาที่กล้อง ภาพยนตร์สมจริง การติดตามกล้องอย่างลื่นไหล การเคลื่อนไหวร่างกายที่เป็นธรรมชาติ ผมและเสื้อผ้าพลิ้วไหว แสงสมจริง สีสันสดใสแต่ดูเป็นธรรมชาติ ระยะชัดลึกตื้น บรรยากาศมิวสิกวิดีโอที่เต็มไปด้วยความสุข รายละเอียดสูง 4K ไม่มีข้อความ ไม่มีการบิดเบือน ไม่มีบุคคลอื่นเพิ่มเติม
+```
+
+<img src="https://pbs.twimg.com/media/HT5Jc-0aoAAVeUD.jpg" width="600" alt="มิวสิกวิดีโอหญิงสาวร้องเพลงในทุ่งหญ้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12029)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2107202496812994893) | **Published:** Oct 5, 2026
+
+---
+### ฉากประภาคารริมชายฝั่งมหาสมุทร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอทิวทัศน์ที่ประกอบด้วยคลื่นมหาสมุทร ประภาคาร เรือลากจูงสีเหลือง ปราสาท และนกนางนวล
+
+#### 📝 Prompt
+
+```
+อ่าวชายฝั่งมหาสมุทร คลื่นซัดเข้าหาชายหาดอย่างแผ่วเบา ประภาคารตั้งอยู่ไกลๆ เรือลากจูงสีเหลืองแล่นข้ามอ่าว ปราสาทตั้งอยู่บนแหลมตรงข้ามกับประภาคาร นกนางนวลสองตัวยืนอยู่บนชายหาด มองดูเรือลากจูงสีเหลืองที่กำลังแล่นผ่าน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107151329756073984/img/ilDG3QbCVmTEJ0_k.jpg" width="600" alt="ฉากประภาคารริมชายฝั่งมหาสมุทร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12026)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2107151439877623997) | **Published:** Oct 5, 2026
+
+---
+### ชายเดินเคียงข้างงู
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอที่แสดงภาพชายคนหนึ่งกำลังเดินในป่าท่ามกลางงูหลายชนิด ซึ่งดูเหมือนว่าพวกมันจะชอบเขา
+
+#### 📝 Prompt
+
+```
+ลองจินตนาการถึงชายคนนี้ที่กำลังเดินอยู่ในป่าท่ามกลางงูหลากหลายชนิด โดยทำให้ดูราวกับว่าบรรดางูเหล่านั้นชอบเขาในวิดีโอ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107078228666142720/img/HpPq4up9MF6Tx3le.jpg" width="600" alt="ชายเดินเคียงข้างงู">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12028)**
+
+**Author:** [Ansh](https://x.com/Anshuman230) | **Source:** [Link](https://x.com/Anshuman230/status/2107078573345685556) | **Published:** Oct 5, 2026
+
+---
 ### ฉากอัศวินราชาในมหาวิหารโกธิค
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -649,6 +809,25 @@ E = mc²
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
 
 **Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
+
+---
+### Elon Appreciating Grok Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A direct prompt for Grok Imagine: 'A nice video of Elon appreciating Grok'. This is a valid, albeit simple, text-to-video prompt.
+
+#### 📝 Prompt
+
+```
+A nice video of {argument name="subject" default="Elon"} appreciating {argument name="object" default="Grok"}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106184485418958848/img/TG2nHzYwhgww9Rjf.jpg" width="600" alt="Elon Appreciating Grok Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12031)**
+
+**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2106184521339302015) | **Published:** Oct 3, 2026
 
 ---
 ### พรอมต์เสียงกระซิบ Dusty Bunny
@@ -2043,181 +2222,6 @@ Tesla Cybertruck กำลังขับขึ้นแม่น้ำที่
 **Author:** [ハル．](https://x.com/HAL000111000) | **Source:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **Published:** Sep 24, 2026
 
 ---
-### หญิงสาวหนูแปลงร่างเป็นโอพอสซัม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่อธิบายการเปลี่ยนแปลงของหญิงสาวหน้าตาคล้ายหนูให้กลายเป็นโอพอสซัมที่มีฟันใหญ่หลังจากมองกล้อง
-
-#### 📝 Prompt
-
-```
-หญิงสาวหน้าตาคล้ายหนูที่มีดวงตาโต มองเฉียงๆ ไปทางกล้องโดยหันข้างไปทางขวา ยิ้มกว้าง....
-
-เธอหันหน้าเข้าหากล้องและเปลี่ยนร่างเป็นโอพอสซัมที่มีฟันใหญ่
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="หญิงสาวหนูแปลงร่างเป็นโอพอสซัม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11267)**
-
-**Author:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **Source:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **Published:** Sep 24, 2026
-
----
-### ข้อความต่อต้านการค้ามนุษย์จาก Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ข้อความสำหรับโซเชียลมีเดียที่สร้างโดย Grok Imagine เกี่ยวกับการลุกขึ้นต่อต้านการค้ามนุษย์และอวยพรให้สหรัฐอเมริกาปลอดภัย
-
-#### 📝 Prompt
-
-```
-@Image1 เราทุกคนต้องลุกขึ้นต่อต้านการค้ามนุษย์ ขอให้พระเจ้าอวยพรอเมริกา จงปลอดภัย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="ข้อความต่อต้านการค้ามนุษย์จาก Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11268)**
-
-**Author:** [Greg Womack](https://x.com/Womack3954Greg) | **Source:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **Published:** Sep 24, 2026
-
----
-### การแปลงโฉมเป็นมาเฟียคลาสสิก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งที่บอกให้โมเดลเปลี่ยนสีหน้าและท่าทางของบุคคลให้แสดงออกเหมือนมาเฟียคลาสสิกที่กำลังทวงเงิน
-
-#### 📝 Prompt
-
-```
-เปลี่ยนชายในรูปถ่ายให้แสดงท่าทางเหมือนมาเฟียคลาสสิกที่กำลังทวงเงิน ให้เขามีสีหน้าที่ดุดัน จริงจัง ไม่ยอมอ่อนข้อ พร้อมหรี่ตาและยิ้มอย่างมั่นใจ เปลี่ยนท่าทางมือของเขาให้เป็นท่าทวงเงิน: ยื่นมือออกไปหนึ่งข้าง...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="การแปลงโฉมเป็นมาเฟียคลาสสิก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11266)**
-
-**Author:** [Ty](https://x.com/datsTy27) | **Source:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **Published:** Sep 24, 2026
-
----
-### ฉากบาร์: การหันหน้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่แสดงภาพชายมีสไตล์กำลังหันศีรษะในบาร์ที่มีแสงสลัวและบรรยากาศลึกลับ
-
-#### 📝 Prompt
-
-```
-ฉากภาพยนตร์แนวซีเนมาติก: ชายผมยาวดูดีสวมแว่นกันแดดและมีรอยสัก ยืนพิงเคาน์เตอร์บาร์ไม้แบบสบายๆ ในบาร์มืดสลัวที่มีบรรยากาศลึกลับ ค่อยๆ หันศีรษะด้วยสีหน้าเย็นชาและดุดัน กล้องซูมเข้าอย่างนุ่มนวล แสงบรรยากาศคุณภาพสูง...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="ฉากบาร์: การหันหน้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11260)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **Published:** Sep 24, 2026
-
----
-### เครื่องประดับทองรูปชายหนุ่มสุดเท่
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งวิดีโอที่ซับซ้อนซึ่งเกี่ยวข้องกับความสอดคล้องของตัวละครจากภาพอ้างอิงและฉากหรูหรา
-
-#### 📝 Prompt
-
-```
-ฉากภาพยนตร์สไตล์ซีเนมาติกของชายหนุ่มผมยาวสุดเท่ สวมแว่นกันแดด มีรอยสัก และแต่งกายด้วยชุดสีเข้ม ตามลักษณะใน @Image1 และ @Image2 เขานั่งอย่างสบายๆ ที่เคาน์เตอร์บาร์แสงสลัวดูมีเสน่ห์ลึกลับ จากนั้นลุกขึ้นยืนและเดินอย่างมั่นใจผ่านโถงทางเดินหรูหราริมขอบทอง...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="เครื่องประดับทองรูปชายหนุ่มสุดเท่">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11262)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **Published:** Sep 24, 2026
-
----
-### Subtle Bar Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งวิดีโอสำหรับการเคลื่อนไหวแบบละเอียดอ่อนของชายคนหนึ่งที่ยืนพิงบาร์ โดยเน้นที่การหายใจและการเคลื่อนไหวของศีรษะ
-
-#### 📝 Prompt
-
-```
-ภาพเคลื่อนไหวแบบภาพยนตร์ที่ละเอียดอ่อนของชายผมยาวหยิกสีเข้มสวมแว่นกันแดดทรงสี่เหลี่ยมผืนผ้า ยืนพิงบาร์ไม้ เขาค่อยๆ หันศีรษะเข้าหากล้องเล็กน้อยด้วยท่าทีเย็นชาและดุดัน มีการหายใจและการเคลื่อนไหวของไหล่อย่างนุ่มนวล พร้อมกับการปรับโฟกัสอย่างละเมียดละไม...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="Subtle Bar Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11261)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **Published:** Sep 24, 2026
-
----
-### เดินเล่นกลางสายฝนยามค่ำ สไตล์ภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอฉากสไตล์ภาพยนตร์ ชายคนหนึ่งกำลังเดินบนถนนที่เปียกฝนในยามค่ำคืน
-
-#### 📝 Prompt
-
-```
-ฉากภาพยนตร์สไตล์ซีเนมาติก: ชายผมยาวดูเท่ในชุดสูทสีเข้มและแว่นกันแดด เดินไปข้างหน้าอย่างช้าๆ และมั่นใจ บนถนนหินกรวดที่เปียกฝนในยามค่ำคืน ภายใต้แสงไฟถนนที่ส่องสว่าง บรรยากาศฝนตกโปรยปรายเบาๆ มีการขยับศีรษะเล็กน้อย กล้องติดตามการเคลื่อนไหวอย่างนุ่มนวล...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="เดินเล่นกลางสายฝนยามค่ำ สไตล์ภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11264)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **Published:** Sep 24, 2026
-
----
-### นักเดินทางแฟนตาซีใน Bryce Canyon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวตั้งสไตล์ภาพยนตร์ นำเสนอนักเดินทางแฟนตาซีใน Bryce Canyon
-
-#### 📝 Prompt
-
-```
-AI video — ภาพยนตร์แนวตั้ง 9:16
-
-ชายหนุ่มรูปงาม กล้ามแน่น ผมสีเงินในฐานะนักเดินทางแฟนตาซี เดินลึกเข้าไปอย่างช้าๆ ผ่านหุบเขาหินสีแดงอันน่าตื่นตะลึงของ Bryce Canyon รัฐยูทาห์ กำแพงหินทรายสีส้มและแดงเข้มที่สูงตระหง่าน รวมถึง formations ของ hoodoo ที่แปลกประหลาด ตั้งตระหง่าน...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="นักเดินทางแฟนตาซีใน Bryce Canyon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11263)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **Published:** Sep 24, 2026
-
----
-### เรื่องเล่าจากการรับโทรศัพท์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เรื่องเล่าที่อธิบายฉากหญิงสาวรับสายโทรศัพท์ ตามด้วยการเคาะประตู
-
-#### 📝 Prompt
-
-```
-เสียงโทรศัพท์ดังขึ้น เธอรับสาย "สวัสดีจ๊ะที่รัก!" จากนั้นมีเสียงเคาะประตู เธอเปิดประตู...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="เรื่องเล่าจากการรับโทรศัพท์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11226)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2279,6 +2283,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-06T01:31:21.580Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-06T11:21:25.591Z</sub>
 
 </div>

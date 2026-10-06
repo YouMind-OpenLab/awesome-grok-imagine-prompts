@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2983** |
+| 📝 Total Prompts | **2992** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-06** |
 
@@ -189,6 +189,166 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Restyle Photo to Chibi Anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video/image transformation prompt to restyle a photo into a cute chibi anime character with oversized head, big eyes, and pastel colors.
+
+#### 📝 Prompt
+
+```
+Restyle this photo into Chibi style: transform the woman into a cute chibi anime character with an oversized head, big expressive sparkling eyes, tiny body proportions, soft pastel colors, clean simple lines, and adorable exaggerated features. Preserve...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107369838544846848/img/mfmRz8t_Kf8U25nm.jpg" width="600" alt="Restyle Photo to Chibi Anime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12027)**
+
+**Author:** [Melissa Blacknall](https://x.com/melblacknall) | **Source:** [Link](https://x.com/melblacknall/status/2107369854076678292) | **Published:** Oct 6, 2026
+
+---
+### Vídeo de passagem tranquila pela floresta sob as estrelas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt poético para geração de vídeo no Grok Imagine, descrevendo uma passagem serena por uma floresta luminosa com lagos ocultos e céus estrelados.
+
+#### 📝 Prompt
+
+```
+Uma passagem tranquila por uma floresta que brilha sob as estrelas
+
+Um lago escondido, um céu repleto de estrelas e apenas um rastro de luz ao longo da margem. Às vezes, os lugares mais mágicos são os mais silenciosos. ✨🌌
+```
+
+<img src="https://cms-assets.youmind.com/media/1791272706844_8qdz7r_HT58gjXaMAAvA3C.jpg" width="600" alt="Vídeo de passagem tranquila pela floresta sob as estrelas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12025)**
+
+**Author:** [Nagarjuna Creates](https://x.com/nagarjuncreates) | **Source:** [Link](https://x.com/nagarjuncreates/status/2107258577970970902) | **Published:** Oct 5, 2026
+
+---
+### Escultora Realista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de vídeo para Grok Imagine que aprimora o realismo em uma cena de mulher esculpindo, especificando textura da pedra e expressão facial.
+
+#### 📝 Prompt
+
+```
+faça-a trabalhando em uma escultura com beleza natural mais realista, sem falar apenas com expressão pensativa, mantenha tudo igual mas faça a escultura parecer mais de pedra
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107257327548010496/img/X-NN3TwTeiaVPdhW.jpg" width="600" alt="Escultora Realista">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12030)**
+
+**Author:** [Hea](https://x.com/SolLumen) | **Source:** [Link](https://x.com/SolLumen/status/2107257352093385097) | **Published:** Oct 5, 2026
+
+---
+### Prompt de Cena Outonal para Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo para o Grok Imagine que retrata uma cena outonal com folhas caindo e um homem dizendo uma fala.
+
+#### 📝 Prompt
+
+```
+Folhas secas caem da árvore, brisa leve. O homem levanta a cabeça e diz: Penso em você.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107248098003079168/img/7W61q9E9l-vEodb3.jpg" width="600" alt="Prompt de Cena Outonal para Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12032)**
+
+**Author:** [M.vega](https://x.com/Mvega7351578545) | **Source:** [Link](https://x.com/Mvega7351578545/status/2107248118731317508) | **Published:** Oct 5, 2026
+
+---
+### Cyberpunk City Drone Shot
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt de vídeo vertical detalhado para o Grok Imagine, retratando uma cidade futurista cyberpunk com um plano contínuo que começa em um anúncio holográfico de ídolo e recua até uma visão geral estilo drone.
+
+#### 📝 Prompt
+
+```
+*Deve ser orientação vertical*
+Por favor, gere um vídeo!
+Uma cidade futurista cyberpunk.
+Uma cena, plano-sequência, sem cortes.
+O trabalho de câmera começa com um close-up de um anúncio holográfico de ídolo e recua (dolly out) para sobrevoar toda a cidade.
+Como uma tomada de drone (nunca mostre o corpo do drone).
+Coloque um pequeno portão torii vermelho discretamente em algum canto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107227035190063104/img/g0cOSP-l2pACfGuj.jpg" width="600" alt="Cyberpunk City Drone Shot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12033)**
+
+**Author:** [じろじろin下関](https://x.com/ziro1005) | **Source:** [Link](https://x.com/ziro1005/status/2107227204157608164) | **Published:** Oct 5, 2026
+
+---
+### Vídeo Musical de Mulher Cantando em Campo Florido
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt detalhado para o Grok Imagine criar um vídeo musical cinematográfico de uma mulher cantando e dançando em um cenário natural, utilizando uma imagem de referência enviada.
+
+#### 📝 Prompt
+
+```
+Use a mulher da imagem enviada como referência visual e preserve sua aparência facial, penteado e estilo geral. Coloque-a em um belo cenário natural—um campo verde exuberante cercado por árvores, flores silvestres, montanhas ao fundo, luz quente do golden hour e brisa suave. Ela canta e dança feliz e naturalmente pelo campo, movendo-se ritmicamente e com leveza, olhando ocasionalmente para a câmera. Filmagem realista cinematográfica, movimento suave da câmera, movimentos corporais naturais, cabelo e roupas esvoaçantes, iluminação realista, cores vibrantes mas naturais, profundidade de campo rasa, atmosfera alegre de videoclipe, alta definição, 4K, sem texto, sem distorções, sem pessoas extras.
+```
+
+<img src="https://pbs.twimg.com/media/HT5Jc-0aoAAVeUD.jpg" width="600" alt="Vídeo Musical de Mulher Cantando em Campo Florido">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12029)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2107202496812994893) | **Published:** Oct 5, 2026
+
+---
+### Cena do Farol na Praia Oceânica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cênico apresentando ondas do oceano, um farol, um rebocador amarelo, um castelo e gaivotas.
+
+#### 📝 Prompt
+
+```
+praia oceânica enseada ondas batendo suavemente na areia farol ao longe rebocador amarelo navegando pela baía castelo no ponto oposto ao farol duas gaivotas observam o rebocador amarelo navegando
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107151329756073984/img/ilDG3QbCVmTEJ0_k.jpg" width="600" alt="Cena do Farol na Praia Oceânica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12026)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2107151439877623997) | **Published:** Oct 5, 2026
+
+---
+### Homem Caminhando com Cobras
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo que retrata um homem caminhando em uma selva cercado por cobras que parecem adorá-lo.
+
+#### 📝 Prompt
+
+```
+Imagine este homem caminhando em uma selva com todos os tipos de cobras, fazendo-as parecer que amam este homem no vídeo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107078228666142720/img/HpPq4up9MF6Tx3le.jpg" width="600" alt="Homem Caminhando com Cobras">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12028)**
+
+**Author:** [Ansh](https://x.com/Anshuman230) | **Source:** [Link](https://x.com/Anshuman230/status/2107078573345685556) | **Published:** Oct 5, 2026
+
+---
 ### Cena do Rei Cavaleiro em Catedral Gótica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -649,6 +809,25 @@ Uma bela estátua geométrica feita de cobre alimentando uma floresta, com estil
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
 
 **Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
+
+---
+### Prompt de Elon Apreciando Grok
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt direto para o Grok Imagine: 'A nice video of Elon appreciating Grok'. Este é um prompt válido, embora simples, de texto para vídeo.
+
+#### 📝 Prompt
+
+```
+A nice video of {argument name="subject" default="Elon"} appreciating {argument name="object" default="Grok"}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106184485418958848/img/TG2nHzYwhgww9Rjf.jpg" width="600" alt="Prompt de Elon Apreciando Grok">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12031)**
+
+**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2106184521339302015) | **Published:** Oct 3, 2026
 
 ---
 ### Prompt de Sussurro do Coelhinho de Poeira
@@ -2039,181 +2218,6 @@ Gere-me um novo vídeo baseado nas imagens fornecidas usando este prompt: "Faça
 **Author:** [ハル．](https://x.com/HAL000111000) | **Source:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **Published:** Sep 24, 2026
 
 ---
-### Mulher Rato se Transformando em Opossum
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo descrevendo uma mulher com aparência de rato que se transforma em um opossum com dentes grandes após olhar para a câmera.
-
-#### 📝 Prompt
-
-```
-uma mulher com aparência de rato, olhos grandes, olhando de lado para a câmera e posicionada perpendicularmente a ela, voltada para a direita, sorrindo...
-
-ela vira para a câmera e se transforma em um opossum com dentes grandes
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="Mulher Rato se Transformando em Opossum">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11267)**
-
-**Author:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **Source:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **Published:** Sep 24, 2026
-
----
-### Mensagem Anti-Tráfico da Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de mensagem social para a Grok Imagine envolvendo o combate ao tráfico humano e bênçãos para os Estados Unidos.
-
-#### 📝 Prompt
-
-```
-@Image1 Devemos todos nos levantar contra o Tráfico Humano. Deus abençoe os Estados Unidos. Fique seguro.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="Mensagem Anti-Tráfico da Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11268)**
-
-**Author:** [Greg Womack](https://x.com/Womack3954Greg) | **Source:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **Published:** Sep 24, 2026
-
----
-### Transformação de Cafetão Clássico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt que instrui o modelo a transformar a expressão e os gestos de uma pessoa para agir como um cafetão clássico exigindo dinheiro.
-
-#### 📝 Prompt
-
-```
-Transforme o homem na foto para que ele aja como um cafetão clássico exigindo seu dinheiro. Dê a ele uma expressão severa, séria e sem rodeios, com olhos semicerrados e um sorriso confiante. Mude seus gestos de mão para uma pose exigente: uma mão estendida pa...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="Transformação de Cafetão Clássico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11266)**
-
-**Author:** [Ty](https://x.com/datsTy27) | **Source:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **Published:** Sep 24, 2026
-
----
-### Virada de Cabeça em Cena de Bar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de vídeo que retrata um homem estiloso virando a cabeça em um bar com iluminação baixa e atmosférica.
-
-#### 📝 Prompt
-
-```
-Cena cinematográfica: o homem estiloso de cabelos longos, óculos de sol e tatuagens está encostado casualmente no balcão de madeira de um bar escuro e com atmosfera sombria, vira lentamente a cabeça com uma expressão fria e intensa, leve aproximação da câmera, iluminação atmosférica, alta qualidade...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="Virada de Cabeça em Cena de Bar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11260)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **Published:** Sep 24, 2026
-
----
-### Adorno Dourado de Homem Estiloso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo complexo envolvendo consistência de personagem a partir de imagens de referência e um cenário luxuoso.
-
-#### 📝 Prompt
-
-```
-Cena cinematográfica do homem estiloso de cabelos longos, com óculos de sol, tatuagens e roupas escuras de @Image1 e @Image2. Ele está sentado casualmente em um balcão de bar mal iluminado, parecendo misterioso, depois se levanta e caminha confiante por um corredor dourado luxuoso e ornamentado...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="Adorno Dourado de Homem Estiloso">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11262)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **Published:** Sep 24, 2026
-
----
-### Animação Sutil de Bar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de vídeo para animação sutil de um homem encostado em um balcão, focando na respiração e no movimento da cabeça.
-
-#### 📝 Prompt
-
-```
-Animação cinematográfica sutil do homem com cabelo longo, ondulado e escuro, usando óculos de sol retangulares, encostado no balcão de madeira. Ele vira a cabeça lentamente e ligeiramente em direção à câmera com uma expressão fria e intensa, respiração e movimento dos ombros sutis, ajuste suave de foco...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="Animação Sutil de Bar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11261)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **Published:** Sep 24, 2026
-
----
-### Caminhada Cinematográfica em Noite Chuvosa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de geração de vídeo para uma cena cinematográfica com um homem caminhando por uma rua chuvosa à noite.
-
-#### 📝 Prompt
-
-```
-Cena de filme cinematográfico: o homem de cabelos longos e estilo frio, vestindo terno escuro e óculos de sol, caminha lenta e confiantemente pela rua de paralelepípedos molhada sob a luz dos postes brilhantes. A chuva cai suavemente, criando uma atmosfera envolvente, com movimentos sutis da cabeça e uma tomada de acompanhamento fluida...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="Caminhada Cinematográfica em Noite Chuvosa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11264)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **Published:** Sep 24, 2026
-
----
-### Viajante Fantástico do Bryce Canyon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de vídeo vertical cinematográfico apresentando um viajante fantástico no Bryce Canyon.
-
-#### 📝 Prompt
-
-```
-Vídeo com IA — Cinematográfico 9:16
-
-Um belo e musculoso viajante fantástico de cabelos prateados caminha lentamente para o interior dos deslumbrantes cânions de rocha vermelha do Bryce Canyon, em Utah. Paredes imponentes de arenito laranja e carmesim e estranhas formações hoodoo erguem-se majestosamente...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="Viajante Fantástico do Bryce Canyon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11263)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **Published:** Sep 24, 2026
-
----
-### Narrativa de Ligação Telefônica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt narrativo que descreve uma mulher atendendo a uma ligação telefônica, seguida por uma batida na porta.
-
-#### 📝 Prompt
-
-```
-O telefone toca. Ela atende. Olá, querido! Então, uma batida na porta. Ela abre...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="Narrativa de Ligação Telefônica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11226)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2275,6 +2279,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-06T01:31:29.596Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-06T11:21:35.823Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2983** |
+| 📝 Total Prompts | **2992** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-06** |
 
@@ -189,6 +189,166 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### फोटो को चिबी एनीमे स्टाइल में बदलें
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो/इमेज ट्रांसफॉर्मेशन प्रॉम्प्ट जो फोटो को एक क्यूट चिबी एनीमे कैरेक्टर में बदल देता है, जिसमें बड़ा सिर, बड़ी आँखें और पेस्टल रंग होते हैं।
+
+#### 📝 Prompt
+
+```
+इस फोटो को चिबी स्टाइल में बदलें: महिला को एक क्यूट चिबी एनीमे कैरेक्टर में बदलें, जिसमें असामान्य रूप से बड़ा सिर, बड़ी अभिव्यंजक चमकदार आँखें, छोटे शरीर के अनुपात, नरम पेस्टल रंग, साफ-सुथरी सरल रेखाएं और प्यारी अतिशयोक्तिपूर्ण विशेषताएं हों। संरक्षित करें...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107369838544846848/img/mfmRz8t_Kf8U25nm.jpg" width="600" alt="फोटो को चिबी एनीमे स्टाइल में बदलें">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12027)**
+
+**Author:** [Melissa Blacknall](https://x.com/melblacknall) | **Source:** [Link](https://x.com/melblacknall/status/2107369854076678292) | **Published:** Oct 6, 2026
+
+---
+### तारों के नीचे शांत जंगल मार्ग वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक काव्यात्मक वीडियो जनरेशन प्रॉम्प्ट जो तारों से भरे आकाश और छिपी झीलों वाले चमकते जंगल से होकर गुजरने की शांतिपूर्ण यात्रा का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+तारों के नीचे चमकते जंगल से होकर एक शांत मार्ग
+
+एक छिपी हुई झील, तारों से भरा आकाश, और किनारे पर रोशनी की बस एक हल्की सी झलक। कभी-कभी सबसे जादुई स्थान वे होते हैं जो सबसे शांत होते हैं। ✨🌌
+```
+
+<img src="https://cms-assets.youmind.com/media/1791272706844_8qdz7r_HT58gjXaMAAvA3C.jpg" width="600" alt="तारों के नीचे शांत जंगल मार्ग वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12025)**
+
+**Author:** [Nagarjuna Creates](https://x.com/nagarjuncreates) | **Source:** [Link](https://x.com/nagarjuncreates/status/2107258577970970902) | **Published:** Oct 5, 2026
+
+---
+### यथार्थवादी मूर्तिकार महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो प्रॉम्प्ट जो एक महिला द्वारा मूर्ति पर काम करते दृश्य में यथार्थवाद बढ़ाता है, पत्थर की बनावट और भावों को स्पष्ट करता है।
+
+#### 📝 Prompt
+
+```
+उसे मूर्ति पर काम करते हुए दिखाएं और अधिक यथार्थवादी प्राकृतिक सुंदरता दें, कोई संवाद नहीं, केवल विचारशील भावनाएं, वही रखें लेकिन मूर्ति को अधिक पत्थर जैसा बनाएं, बाकी सब कुछ वैसा ही रहने दें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107257327548010496/img/X-NN3TwTeiaVPdhW.jpg" width="600" alt="यथार्थवादी मूर्तिकार महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12030)**
+
+**Author:** [Hea](https://x.com/SolLumen) | **Source:** [Link](https://x.com/SolLumen/status/2107257352093385097) | **Published:** Oct 5, 2026
+
+---
+### Grok Imagine शरद ऋतु दृश्य प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> गिरते हुए पत्तों और एक आदमी के संवाद बोलने वाले शरद ऋतु के दृश्य को दर्शाने वाला Grok Imagine वीडियो जनरेशन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+सूखी पत्तियाँ पेड़ से गिरती हैं, हल्की हवा चल रही है। आदमी अपना सिर उठाता है और कहता है: मुझे तुम्हारी याद आती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107248098003079168/img/7W61q9E9l-vEodb3.jpg" width="600" alt="Grok Imagine शरद ऋतु दृश्य प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12032)**
+
+**Author:** [M.vega](https://x.com/Mvega7351578545) | **Source:** [Link](https://x.com/Mvega7351578545/status/2107248118731317508) | **Published:** Oct 5, 2026
+
+---
+### साइबरपंक सिटी ड्रोन शॉट
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine के लिए एक विस्तृत वर्टिकल वीडियो प्रॉम्प्ट, जो एक साइबरपंक भविष्यवादी शहर को दर्शाता है। इसमें होलोग्राम आइडल विज्ञापन से शुरू होकर पूरे शहर का ड्रोन-जैसा ओवरव्यू दिखाने तक एक लगातार कैमरा शॉट शामिल है।
+
+#### 📝 Prompt
+
+```
+*अनिवार्य रूप से वर्टिकल ओरिएंटेशन*
+कृपया एक वीडियो जनरेट करें!
+एक साइबरपंक भविष्यवादी शहर।
+एक ही सीन, लंबा टेक, कोई कट नहीं।
+कैमरा वर्क एक होलोग्राम आइडल विज्ञापन के क्लोज़-अप शॉट से शुरू होता है और पीछे की ओर खिंचता है (डॉली आउट) ताकि पूरे शहर का दृश्य दिखाई दे।
+यह एक ड्रोन शॉट जैसा होना चाहिए (ड्रोन का शरीर कभी न दिखाएं)।
+किसी एक कोने में एक छोटा लाल टोरिय गेट सूक्ष्म रूप से रखें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107227035190063104/img/g0cOSP-l2pACfGuj.jpg" width="600" alt="साइबरपंक सिटी ड्रोन शॉट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12033)**
+
+**Author:** [じろじろin下関](https://x.com/ziro1005) | **Source:** [Link](https://x.com/ziro1005/status/2107227204157608164) | **Published:** Oct 5, 2026
+
+---
+### मैदान में गाने वाली महिला का म्यूजिक वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक विस्तृत वीडियो प्रॉम्प्ट जो अपलोड किए गए रेफरेंस इमेज का उपयोग करते हुए, प्राकृतिक सेटिंग में गाती और नाचती हुई एक महिला का सिनेमाई म्यूजिक वीडियो बनाता है।
+
+#### 📝 Prompt
+
+```
+अपलोड की गई महिला को दृश्य रेफरेंस के रूप में उपयोग करें और उसके चेहरे की बनावट, हेयरस्टाइल और समग्र लुक को बनाए रखें। उसे एक सुंदर प्राकृतिक सेटिंग में रखें—हरा-भरा मैदान जिसके चारों ओर पेड़ हों, जंगली फूल हों, दूर पहाड़ हों, गर्म गोल्डन-आवर सूर्य रोशनी हो और हल्की हवा चल रही हो। वह खुशी से मैदान में स्वाभाविक रूप से गाती और नाचती है, तालबद्ध और शरारती ढंग से चलती है, कभी-कभी कैमरे की ओर देखती है। सिनेमाई यथार्थवादी फुटेज, स्मूथ कैमरा ट्रैकिंग, प्राकृतिक शारीरिक गतिविधि, बहते हुए बाल और कपड़े, यथार्थवादी लाइटिंग, जीवंत लेकिन प्राकृतिक रंग, कम डेप्थ ऑफ फील्ड, आनंददायक म्यूजिक-वीडियो माहौल, उच्च विवरण, 4K, कोई टेक्स्ट नहीं, कोई विकृति नहीं, कोई अतिरिक्त लोग नहीं।
+```
+
+<img src="https://pbs.twimg.com/media/HT5Jc-0aoAAVeUD.jpg" width="600" alt="मैदान में गाने वाली महिला का म्यूजिक वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12029)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2107202496812994893) | **Published:** Oct 5, 2026
+
+---
+### समुद्र तट पर लighthouse दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मनोरम वीडियो प्रॉम्प्ट जिसमें समुद्र की लहरें, एक लाइटहाउस, एक पीला टग बोट, एक किला और सीगल शामिल हैं।
+
+#### 📝 Prompt
+
+```
+समुद्र तट की खाड़ी में लहरें धीरे-धीरे किनारे से टकरा रही हैं दूर एक लाइटहाउस दिखाई दे रहा है पीला टग बोट खाड़ी के पार चल रहा है लाइटहाउस के विपरीत छोर पर एक किला स्थित है दो सीगल समुद्र तट पर खड़े होकर पीले टग बोट को देख रहे हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107151329756073984/img/ilDG3QbCVmTEJ0_k.jpg" width="600" alt="समुद्र तट पर लighthouse दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12026)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2107151439877623997) | **Published:** Oct 5, 2026
+
+---
+### साँपों के साथ चलता हुआ आदमी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जिसमें एक जंगल में चलते हुए आदमी को दिखाया गया है, जो साँपों से घिरा हुआ है और वे उसे प्यार करते हुए लगते हैं।
+
+#### 📝 Prompt
+
+```
+इस आदमी की कल्पना करें जो जंगल में विभिन्न प्रकार के साँपों के बीच चल रहा है। वीडियो में ऐसा लगे कि साँप इस आदमी से प्यार करते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107078228666142720/img/HpPq4up9MF6Tx3le.jpg" width="600" alt="साँपों के साथ चलता हुआ आदमी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12028)**
+
+**Author:** [Ansh](https://x.com/Anshuman230) | **Source:** [Link](https://x.com/Anshuman230/status/2107078573345685556) | **Published:** Oct 5, 2026
+
+---
 ### गोथिक कैथेड्रल नाइट किंग दृश्य
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -648,6 +808,25 @@ E = mc2
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
 
 **Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
+
+---
+### Elon Appreciating Grok Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक सीधा प्रॉम्प्ट: 'A nice video of Elon appreciating Grok'। यह एक वैध, हालांकि सरल, टेक्स्ट-टू-वीडियो प्रॉम्प्ट है।
+
+#### 📝 Prompt
+
+```
+A nice video of {argument name="subject" default="Elon"} appreciating {argument name="object" default="Grok"}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106184485418958848/img/TG2nHzYwhgww9Rjf.jpg" width="600" alt="Elon Appreciating Grok Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12031)**
+
+**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2106184521339302015) | **Published:** Oct 3, 2026
 
 ---
 ### Dusty Bunny Whisper Prompt
@@ -2042,181 +2221,6 @@ Use one frame from a 6x6 grid image as the starting frame, referencing sequentia
 **Author:** [ハル．](https://x.com/HAL000111000) | **Source:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **Published:** Sep 24, 2026
 
 ---
-### चूहे जैसी महिला का पॉसम में बदलना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो कैमरे की ओर देखने के बाद बड़े दांतों वाले पॉसम में बदलती हुई चूहे जैसी महिला का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-बड़ी आँखों वाली एक चूहे जैसी महिला, कैमरे की ओर तिरछी नज़र डालते हुए और उसकी ओर लंबवत रूप से दाईं ओर मुंह बनाकर हंस रही है....
-
-वह कैमरे की ओर मुड़ती है और बड़े दांतों वाले पॉसम में बदल जाती है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="चूहे जैसी महिला का पॉसम में बदलना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11267)**
-
-**Author:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **Source:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **Published:** Sep 24, 2026
-
----
-### Grok Imagine मानव तस्करी के खिलाफ संदेश
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> मानव तस्करी के विरुद्ध आवाज़ उठाने और अमेरिका की मंगलकामना करने से संबंधित Grok Imagine के लिए एक सामाजिक संदेश प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-@Image1 हम सभी को मानव तस्करी के विरुद्ध खड़े होना चाहिए, भगवान अमेरिका को सुरक्षित रखें
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="Grok Imagine मानव तस्करी के खिलाफ संदेश">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11268)**
-
-**Author:** [Greg Womack](https://x.com/Womack3954Greg) | **Source:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **Published:** Sep 24, 2026
-
----
-### क्लासिक पिम्प ट्रांसफॉर्मेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्रॉम्प्ट जो मॉडल को किसी व्यक्ति के भाव और इशारों को बदलने का निर्देश देता है ताकि वह पैसे की मांग करने वाले एक क्लासिक पिम्प जैसा व्यवहार करे।
-
-#### 📝 Prompt
-
-```
-फोटो में मौजूद व्यक्ति को इस तरह बदलें कि वह पैसे की मांग करने वाले एक क्लासिक पिम्प जैसा व्यवहार कर रहा हो। उसे एक सख्त, गंभीर और बिना किसी झिझक वाला चेहरा दें, जिसमें आँखें तनी हुई हों और एक आत्मविश्वास भरी मुस्कान हो। उसके हाथों के इशारों को एक मांगने वाली मुद्रा में बदलें: एक हाथ आगे बढ़ा हुआ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="क्लासिक पिम्प ट्रांसफॉर्मेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11266)**
-
-**Author:** [Ty](https://x.com/datsTy27) | **Source:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **Published:** Sep 24, 2026
-
----
-### बार सीन में सिर घुमाना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जिसमें एक स्टाइलिश आदमी को कम रोशनी वाले बार में वातावरणीय प्रकाश व्यवस्था के साथ अपना सिर घुमाते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-सिनेमैटिक मूवी सीन: धूप का चश्मा और टैटू वाले स्टाइलिश लंबे बालों वाला आदमी कम रोशनी वाले मूडी बार में लकड़ी की बार काउंटर पर आराम से टिका हुआ है, ठंडी और तीव्र अभिव्यक्ति के साथ धीरे-धीरे अपना सिर घुमाता है, सूक्ष्म कैमरा पुश-इन, वातावरणीय प्रकाश व्यवस्था, उच्च गुणवत्ता...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="बार सीन में सिर घुमाना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11260)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **Published:** Sep 24, 2026
-
----
-### स्टाइलिश पुरुष सुनहरा आभूषण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जटिल वीडियो प्रॉम्प्ट जिसमें संदर्भ छवियों से पात्र की निरंतरता और एक शानदार वातावरण शामिल है।
-
-#### 📝 Prompt
-
-```
-@Image1 और @Image2 से लंबे बालों वाले, धूप का चश्मा पहने, टैटू वाले और काले कपड़ों में स्टाइलिश पुरुष का सिनेमैटिक मूवी सीन। वह एक कम रोशनी वाले बार काउंटर पर रहस्यमयी ढंग से बैठता है, फिर उठकर एक शानदार सुनहरे नक्काशीदार गलियारे में आत्मविश्वास के साथ चलता है...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="स्टाइलिश पुरुष सुनहरा आभूषण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11262)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **Published:** Sep 24, 2026
-
----
-### सूक्ष्म बार एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो बार पर टिके एक व्यक्ति के सूक्ष्म एनिमेशन को दर्शाता है, जिसमें श्वसन और सिर की गति पर ध्यान केंद्रित किया गया है।
-
-#### 📝 Prompt
-
-```
-लंबे लहरदार काले बालों और आयताकार धूप का चश्मा पहने हुए व्यक्ति का सूक्ष्म सिनेमाई एनिमेशन, जो लकड़ी के बार पर टिका हुआ है। वह कैमरे की ओर अपना सिर धीरे-धीरे थोड़ा मोड़ता है, ठंडा और तीव्र भाव रखते हुए, सूक्ष्म श्वसन और कंधों की हलचल, कोमल फोकस पल...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="सूक्ष्म बार एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11261)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **Published:** Sep 24, 2026
-
----
-### वर्षा की रात: सिनेमाई वॉक
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई दृश्य के लिए वीडियो जनरेशन प्रॉम्प्ट जिसमें एक आदमी रात में वर्षा वाली सड़क पर चलता हुआ दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-सिनेमाई फिल्म दृश्य: काले सूट और धूप का चश्मा पहने ठंडे स्वभाव वाला लंबे बालों वाला व्यक्ति, जलती हुई स्ट्रीट लाइट्स के नीचे वर्षा वाली रात में कोबलस्टोन सड़क पर धीरे-धीरे और आत्मविश्वास से आगे बढ़ रहा है, वातावरणीय वर्षा मंद गति से हो रही है, सिर की हल्की हरकतें, स्मूथ ट्रैकिंग शॉट...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="वर्षा की रात: सिनेमाई वॉक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11264)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **Published:** Sep 24, 2026
-
----
-### Bryce Canyon का काल्पनिक यात्री
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bryce Canyon में एक फैंटेसी यात्री को दर्शाने वाला सिनेमैटिक वर्टिकल वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-AI वीडियो — 9:16 सिनेमैटिक
-
-एक आकर्षक, मांसपेशियों से भरे चांदी के बालों वाले फैंटेसी यात्री यूटाह के Bryce Canyon की लाल चट्टानों वाली घाटियों में धीरे-धीरे और गहराई तक चलता है। ऊंची नारंगी और लाल रंग की सैंडस्टोन दीवारें और अजीबोगरीब हुडू संरचनाएं शानदार ढंग से खड़ी हैं...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="Bryce Canyon का काल्पनिक यात्री">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11263)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **Published:** Sep 24, 2026
-
----
-### फोन कॉल की कहानी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक महिला के फोन उठाने और फिर दरवाजे पर दस्तक होने का वर्णन करने वाला नैरेटिव प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-फोन बजता है। वह फोन उठाती है। हेलो डार्लिंग! फिर दरवाजे पर दस्तक होती है। वह दरवाजा खोलती है....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="फोन कॉल की कहानी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11226)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2278,6 +2282,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-06T01:31:23.106Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-06T11:21:28.192Z</sub>
 
 </div>

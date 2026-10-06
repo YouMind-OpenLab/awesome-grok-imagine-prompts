@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2983** |
+| 📝 提示词总数 | **2992** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-10-06** |
 
@@ -189,6 +189,166 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 将照片重绘为 Q 版动漫风格
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频/图像转换提示词，可将照片重塑为可爱的 Q 版动漫角色，具有大头、大眼睛和柔和的粉彩色调。
+
+#### 📝 提示词
+
+```
+将此照片重绘为 Q 版风格：将女性转变为可爱的 Q 版动漫角色，特征包括夸张的大头比例、富有表现力的闪亮大眼睛、小巧的身体比例、柔和的粉彩色调、简洁干净的线条以及可爱且略带夸张的面部特征。保留...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107369838544846848/img/mfmRz8t_Kf8U25nm.jpg" width="600" alt="将照片重绘为 Q 版动漫风格">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12027)**
+
+**作者:** [Melissa Blacknall](https://x.com/melblacknall) | **来源:** [Link](https://x.com/melblacknall/status/2107369854076678292) | **发布时间:** Oct 6, 2026
+
+---
+### 星空下静谧森林小径视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 打造的诗意视频生成提示词，描绘了穿越星光下发光森林的静谧旅程，途中有隐秘湖泊与璀璨星空。
+
+#### 📝 提示词
+
+```
+穿越星光下熠熠生辉的森林小径
+
+一汪隐秘湖水，漫天繁星闪烁，岸边仅余一抹微光。有时，最神奇的地方往往最为宁静。✨🌌
+```
+
+<img src="https://cms-assets.youmind.com/media/1791272706844_8qdz7r_HT58gjXaMAAvA3C.jpg" width="600" alt="星空下静谧森林小径视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12025)**
+
+**作者:** [Nagarjuna Creates](https://x.com/nagarjuncreates) | **来源:** [Link](https://x.com/nagarjuncreates/status/2107258577970970902) | **发布时间:** Oct 5, 2026
+
+---
+### 写实风格的女性雕塑家
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的视频提示词，旨在增强女性雕塑创作场景的真实感，重点描述石材纹理与人物表情。
+
+#### 📝 提示词
+
+```
+让她正在创作雕塑，展现更真实自然的美感，不说话，仅呈现沉思的表情，其他保持不变，但让雕塑看起来更像石头材质
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107257327548010496/img/X-NN3TwTeiaVPdhW.jpg" width="600" alt="写实风格的女性雕塑家">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12030)**
+
+**作者:** [Hea](https://x.com/SolLumen) | **来源:** [Link](https://x.com/SolLumen/status/2107257352093385097) | **发布时间:** Oct 5, 2026
+
+---
+### Grok Imagine 秋季场景提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的视频生成提示词，描绘落叶纷飞、男子说出一句台词的秋日景象。
+
+#### 📝 提示词
+
+```
+枯叶从树上飘落，微风轻拂。男子抬起头说道：我想你了。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107248098003079168/img/7W61q9E9l-vEodb3.jpg" width="600" alt="Grok Imagine 秋季场景提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12032)**
+
+**作者:** [M.vega](https://x.com/Mvega7351578545) | **来源:** [Link](https://x.com/Mvega7351578545/status/2107248118731317508) | **发布时间:** Oct 5, 2026
+
+---
+### 赛博朋克城市无人机镜头
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 为 Grok Imagine 设计的详细竖屏视频提示词，描绘赛博朋克未来城市，镜头从全息偶像广告特写开始，拉远至无人机视角俯瞰全城。
+
+#### 📝 提示词
+
+```
+*必须为竖屏方向*
+请生成一段视频！
+一座赛博朋克风格的未来城市。
+单场景，长镜头，无剪辑。
+运镜始于全息偶像广告的近距离特写，随后向后拉（dolly out），俯瞰整座城市。
+类似无人机拍摄效果（切勿出现无人机机身）。
+在画面角落不起眼的位置放置一个小型红色鸟居。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107227035190063104/img/g0cOSP-l2pACfGuj.jpg" width="600" alt="赛博朋克城市无人机镜头">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12033)**
+
+**作者:** [じろじろin下関](https://x.com/ziro1005) | **来源:** [Link](https://x.com/ziro1005/status/2107227204157608164) | **发布时间:** Oct 5, 2026
+
+---
+### 女子在草地中歌唱的音乐视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 提供的详细视频提示词，用于制作一位女性在自然环境中唱歌跳舞的电影感音乐视频，使用上传的参考图像。
+
+#### 📝 提示词
+
+```
+以上传的女性作为视觉参考，保留其面部特征、发型和整体形象。将她置于美丽的自然场景中——郁郁葱葱的绿色草地，周围环绕着树木、野花，远处有山脉，沐浴在温暖的黄金时刻阳光下，微风轻拂。她在草地上快乐地歌唱和舞蹈，动作富有节奏感和俏皮感，偶尔看向镜头。电影级写实画面，流畅的摄像机跟踪，自然的身体运动，飘逸的头发和衣物，逼真的光照，鲜艳但自然的色彩，浅景深，欢快的音乐视频氛围，高细节，4K，无文字，无失真，无多余人物。”
+```
+
+<img src="https://pbs.twimg.com/media/HT5Jc-0aoAAVeUD.jpg" width="600" alt="女子在草地中歌唱的音乐视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12029)**
+
+**作者:** [Rizi](https://x.com/Rizi_ru) | **来源:** [Link](https://x.com/Rizi_ru/status/2107202496812994893) | **发布时间:** Oct 5, 2026
+
+---
+### 海滨灯塔场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段风景视频提示词，包含海浪、灯塔、黄色拖船、城堡和海鸥。
+
+#### 📝 提示词
+
+```
+海湾海浪轻柔拍打沙滩远处矗立着灯塔一艘黄色拖船轰鸣驶过海湾对岸的岬角上有一座城堡两只海鸥伫立在沙滩上注视着那艘轰鸣驶过的黄色拖船
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107151329756073984/img/ilDG3QbCVmTEJ0_k.jpg" width="600" alt="海滨灯塔场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12026)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2107151439877623997) | **发布时间:** Oct 5, 2026
+
+---
+### 与蛇共行的男子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，描绘了一名男子在丛林中行走，周围环绕着看似喜爱他的蛇。
+
+#### 📝 提示词
+
+```
+想象这名男子在丛林中行走，周围有各种各样的蛇，让视频呈现出蛇群喜爱这名男子的效果
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107078228666142720/img/HpPq4up9MF6Tx3le.jpg" width="600" alt="与蛇共行的男子">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12028)**
+
+**作者:** [Ansh](https://x.com/Anshuman230) | **来源:** [Link](https://x.com/Anshuman230/status/2107078573345685556) | **发布时间:** Oct 5, 2026
+
+---
 ### 哥特大教堂骑士之王场景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -649,6 +809,25 @@ Cinematic VS confrontation poster of two rival VTubers: left side Tsukumo Roa fr
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11835)**
 
 **作者:** [Legend](https://x.com/AtlasGalatic) | **来源:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **发布时间:** Oct 3, 2026
+
+---
+### Elon Appreciating Grok Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A direct prompt for Grok Imagine: 'A nice video of Elon appreciating Grok'. This is a valid, albeit simple, text-to-video prompt.
+
+#### 📝 提示词
+
+```
+A nice video of {argument name="subject" default="Elon"} appreciating {argument name="object" default="Grok"}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106184485418958848/img/TG2nHzYwhgww9Rjf.jpg" width="600" alt="Elon Appreciating Grok Prompt">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12031)**
+
+**作者:** [loving X@ Cheryl](https://x.com/Corr1444) | **来源:** [Link](https://x.com/Corr1444/status/2106184521339302015) | **发布时间:** Oct 3, 2026
 
 ---
 ### Dusty Bunny Whisper Prompt
@@ -2044,181 +2223,6 @@ Tom Cruise 在 Eugene O'Neill 重新发现但过于复杂的戏剧《Schmutz on 
 **作者:** [ハル．](https://x.com/HAL000111000) | **来源:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **发布时间:** Sep 24, 2026
 
 ---
-### 鼠女变身负鼠
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 视频提示词：描述一位鼠眼女子在看向镜头后，变身为长着大牙齿的负鼠。
-
-#### 📝 提示词
-
-```
-一位长着大眼睛、像老鼠一样的女子侧目看着镜头，身体垂直于镜头面向右侧，咧嘴笑着……
-
-她转向镜头，变身为一只长着大牙齿的负鼠
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="鼠女变身负鼠">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11267)**
-
-**作者:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **来源:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **发布时间:** Sep 24, 2026
-
----
-### Grok Imagine 反人口贩运公益信息
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于 Grok Imagine 的社交信息提示词，主题涉及反抗人口贩运及祝福美国。
-
-#### 📝 提示词
-
-```
-@Image1 我们必须共同反抗人口贩运 愿上帝保佑美国 注意安全
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="Grok Imagine 反人口贩运公益信息">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11268)**
-
-**作者:** [Greg Womack](https://x.com/Womack3954Greg) | **来源:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **发布时间:** Sep 24, 2026
-
----
-### 经典皮条客形象转变
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 该提示词指导模型将人物的表情和手势转变为经典皮条客讨债时的神态。
-
-#### 📝 提示词
-
-```
-将照片中的人物转变为经典皮条客讨债时的形象。赋予他严厉、严肃且不容置疑的表情，眼神锐利并带着自信的微笑。改变他的手势为讨债姿态：一只手伸出……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="经典皮条客形象转变">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11266)**
-
-**作者:** [Ty](https://x.com/datsTy27) | **来源:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **发布时间:** Sep 24, 2026
-
----
-### 酒吧场景头部转动
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频提示词，描绘了一位时尚男士在灯光昏暗、氛围感十足的酒吧中转头。
-
-#### 📝 提示词
-
-```
-电影级场景：一位留着长发、戴着墨镜且有纹身的时尚男士，随意地倚靠在灯光昏暗、氛围感强烈的木质吧台上，缓缓转过头，神情冷峻而专注，镜头轻微推进，光影氛围浓厚，高品质……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="酒吧场景头部转动">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11260)**
-
-**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **来源:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **发布时间:** Sep 24, 2026
-
----
-### 时尚男士金色装饰
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的视频提示词，涉及从参考图像中保持角色一致性以及奢华的场景设置。
-
-#### 📝 提示词
-
-```
-电影般的场景：@Image1 和 @Image2 中的长发时尚男子，戴着墨镜，有纹身，穿着深色服装。他随意地坐在灯光昏暗的吧台旁，显得神秘莫测，随后起身自信地穿过一条奢华华丽的金色走廊……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="时尚男士金色装饰">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11262)**
-
-**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **来源:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **发布时间:** Sep 24, 2026
-
----
-### 微妙的吧台动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频提示词，用于制作男子倚靠在酒吧的吧台时的微妙动画效果，重点表现呼吸和头部动作。
-
-#### 📝 提示词
-
-```
-长卷发、戴矩形墨镜的男子倚靠在木质吧台上的微妙电影感动画。他缓缓将头微微转向镜头，表情冷酷而专注，伴有细微的呼吸和肩部动作，以及柔和的焦点转换……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="微妙的吧台动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11261)**
-
-**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **来源:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **发布时间:** Sep 24, 2026
-
----
-### 雨夜电影感漫步
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成电影场景的视频提示词，描绘一名男子在雨夜街道上行走的画面。
-
-#### 📝 提示词
-
-```
-电影级画面：身穿深色西装、戴着墨镜的冷峻长发男子，在路灯映照下的雨夜鹅卵石街道上缓慢而自信地向前走去，氛围感十足的细雨轻柔飘落，头部动作细微自然，平滑的跟拍镜头……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="雨夜电影感漫步">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11264)**
-
-**作者:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **来源:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **发布时间:** Sep 24, 2026
-
----
-### 布莱斯峡谷奇幻旅人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段以布莱斯峡谷为背景的奇幻旅人电影感竖屏视频提示词。
-
-#### 📝 提示词
-
-```
-AI 视频 — 9:16 电影感
-
-一位英俊健硕、银发的奇幻旅人缓缓深入犹他州布莱斯峡谷令人叹为观止的红岩峡谷之中。高耸的橙色与深红色砂岩墙壁以及奇特的石柱构造巍然耸立……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="布莱斯峡谷奇幻旅人">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11263)**
-
-**作者:** [GayBar](https://x.com/GayBar_Ai) | **来源:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **发布时间:** Sep 24, 2026
-
----
-### 电话叙事
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段描述女性接听电话后有人敲门的情景叙事提示词。
-
-#### 📝 提示词
-
-```
-电话响了。她接起电话。“亲爱的，你好！”随后传来一阵敲门声。她打开了门……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="电话叙事">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11226)**
-
-**作者:** [Mimi9060](https://x.com/MelodyM662010) | **来源:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **发布时间:** Sep 24, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2280,6 +2284,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-06T01:31:17.532Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-06T11:21:20.147Z</sub>
 
 </div>

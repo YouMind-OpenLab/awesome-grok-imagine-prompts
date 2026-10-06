@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2983** |
+| 📝 총 프롬프트 수 | **2992** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-10-06** |
 
@@ -189,6 +189,166 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 사진을 치비 애니메이션 스타일로 변환
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 사진을 큰 머리, 큰 눈, 파스텔 톤의 귀여운 치비 애니메이션 캐릭터로 재스타일링하는 영상/이미지 변환 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 사진을 치비 스타일로 변환하세요: 여성을 큰 머리, 크고 반짝이는 생동감 있는 눈, 작은 몸 비율, 부드러운 파스텔 색상, 깔끔하고 단순한 선, 그리고 사랑스러운 과장된 특징을 가진 귀여운 치비 애니메이션 캐릭터로 변형합니다. ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107369838544846848/img/mfmRz8t_Kf8U25nm.jpg" width="600" alt="사진을 치비 애니메이션 스타일로 변환">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12027)**
+
+**작성자:** [Melissa Blacknall](https://x.com/melblacknall) | **출처:** [Link](https://x.com/melblacknall/status/2107369854076678292) | **게시일:** Oct 6, 2026
+
+---
+### 별빛 아래 고요한 숲길 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine를 위한 시적인 영상 생성 프롬프트로, 별빛 아래 빛나는 숲을 조용히 지나가는 장면과 숨겨진 호수, 별이 가득한 하늘을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+별빛 아래 빛나는 숲을 조용히 지나가는 길
+
+숨겨진 호수, 별이 가득한 하늘, 그리고 호숫가에는 희미한 빛줄기 하나. 때로는 가장 마법 같은 장소일수록 더욱 고요합니다. ✨🌌
+```
+
+<img src="https://cms-assets.youmind.com/media/1791272706844_8qdz7r_HT58gjXaMAAvA3C.jpg" width="600" alt="별빛 아래 고요한 숲길 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12025)**
+
+**작성자:** [Nagarjuna Creates](https://x.com/nagarjuncreates) | **출처:** [Link](https://x.com/nagarjuncreates/status/2107258577970970902) | **게시일:** Oct 5, 2026
+
+---
+### 사실적인 조각가 여성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine에서 조각 작업을 하는 여성의 장면을 더 사실적으로 표현하기 위한 영상 프롬프트로, 석재 질감과 표정 묘사를 강조합니다.
+
+#### 📝 프롬프트
+
+```
+여성이 조각 작업에 몰두하는 모습으로, 자연스럽고 사실적인 아름다움을 강조하세요. 대사는 없이 깊이 있는 표정만 연출하고, 조각상은 돌의 질감이 더 잘 드러나도록 조정하되 나머지 요소는 그대로 유지하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107257327548010496/img/X-NN3TwTeiaVPdhW.jpg" width="600" alt="사실적인 조각가 여성">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12030)**
+
+**작성자:** [Hea](https://x.com/SolLumen) | **출처:** [Link](https://x.com/SolLumen/status/2107257352093385097) | **게시일:** Oct 5, 2026
+
+---
+### Grok Imagine 가을 장면 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine에서 낙엽이 떨어지는 가을 풍경과 한 남성이 대사를 말하는 장면을 묘사하는 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+마른 나뭇잎이 나무에서 떨어지고, 가벼운 바람이 분다. 남자가 고개를 들어 말한다: "나는 너를 생각해요."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107248098003079168/img/7W61q9E9l-vEodb3.jpg" width="600" alt="Grok Imagine 가을 장면 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12032)**
+
+**작성자:** [M.vega](https://x.com/Mvega7351578545) | **출처:** [Link](https://x.com/Mvega7351578545/status/2107248118731317508) | **게시일:** Oct 5, 2026
+
+---
+### 사이버펑크 도시 드론 샷
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine을 위한 수직형 영상 프롬프트로, 홀로그램 아이돌 광고에서 시작해 드론 시점으로 도시 전체를 조망하는 사이버펑크 미래 도시의 연속 촬영 장면을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+*반드시 세로 형식*
+동영상을 생성해 주세요!
+사이버펑크 스타일의 미래 도시.
+한 장면, 롱 테이크, 컷 없음.
+카메라는 홀로그램 아이돌 광고의 클로즈업으로 시작하여 뒤로 물러나며(돌리 아웃) 도시 전경을 내려다봅니다.
+드론 샷처럼 (드론 본체는 절대 보이지 않도록).
+어딘가 구석에 작은 붉은 도리이를 눈에 띄지 않게 배치하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107227035190063104/img/g0cOSP-l2pACfGuj.jpg" width="600" alt="사이버펑크 도시 드론 샷">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12033)**
+
+**작성자:** [じろじろin下関](https://x.com/ziro1005) | **출처:** [Link](https://x.com/ziro1005/status/2107227204157608164) | **게시일:** Oct 5, 2026
+
+---
+### 초원에서 노래하는 여성 뮤직비디오
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 사용하여 업로드된 참조 이미지를 기반으로 자연 속에서 노래하고 춤추는 여성의 시네마틱 뮤직비디오를 제작하기 위한 상세한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+업로드된 여성 이미지를 시각적 참조로 사용하고, 그녀의 얼굴 외모, 헤어스타일 및 전체적인 룩을 유지하세요. 그녀를 아름다운 자연 환경—울창한 초록색 초원, 나무들, 들꽃, 멀리 보이는 산맥, 따뜻한 골든아워 햇빛과 부드러운 바람이 있는 곳에 배치합니다. 그녀는 초원을 거닐며 리듬감 있고 장난스럽게 자연스럽게 노래하고 춤추며, 가끔 카메라를 바라봅니다. 시네마틱한 사실적 영상, 매끄러운 카메라 트래킹, 자연스러운 신체 움직임, 흐르는 머리카락과 옷, 사실적인 조명, 생동감 있지만 자연스러운 색감, 얕은 피사계 심도, 즐거운 뮤직비디오 분위기, 높은 디테일, 4K, 텍스트 없음, 왜곡 없음, 추가 인물 없음.
+```
+
+<img src="https://pbs.twimg.com/media/HT5Jc-0aoAAVeUD.jpg" width="600" alt="초원에서 노래하는 여성 뮤직비디오">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12029)**
+
+**작성자:** [Rizi](https://x.com/Rizi_ru) | **출처:** [Link](https://x.com/Rizi_ru/status/2107202496812994893) | **게시일:** Oct 5, 2026
+
+---
+### 오션 비치 등대 풍경
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 파도, 등대, 노란 예인선, 성, 갈매기가 등장하는 풍경 영상 프롬프트.
+
+#### 📝 프롬프트
+
+```
+ocean beach cove 파도가 해변에 부드럽게 밀려오는 장면 distant lighthouse 노란 예인선이 만을 가로지르는 모습 opposite point of lighthouse 성이 등대와 반대편岬에 위치 two seagulls stand on beach watching yellow tug boat chugging
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107151329756073984/img/ilDG3QbCVmTEJ0_k.jpg" width="600" alt="오션 비치 등대 풍경">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12026)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2107151439877623997) | **게시일:** Oct 5, 2026
+
+---
+### 뱀과 함께 걷는 남자
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 자신을 사랑하는 듯한 뱀들에게 둘러싸여 정글을 걷는 남자를 묘사하는 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 남자가 온갖 종류의 뱀들과 함께 정글을 걷는 모습을 상상하세요. 영상에서 뱀들이 이 남자를 좋아하는 것처럼 보이게 만들어 주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107078228666142720/img/HpPq4up9MF6Tx3le.jpg" width="600" alt="뱀과 함께 걷는 남자">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12028)**
+
+**작성자:** [Ansh](https://x.com/Anshuman230) | **출처:** [Link](https://x.com/Anshuman230/status/2107078573345685556) | **게시일:** Oct 5, 2026
+
+---
 ### 고딕 대성당의 기사 왕 장면
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -649,6 +809,25 @@ Take this painting to the next level of ascention. Include magenta and way more 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11835)**
 
 **작성자:** [Legend](https://x.com/AtlasGalatic) | **출처:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **게시일:** Oct 3, 2026
+
+---
+### Elon Appreciating Grok Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 위한 직접적인 프롬프트: 'Elon이 Grok을 칭찬하는 멋진 영상'. 이는 단순하지만 유효한 텍스트-투-비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+{argument name="subject" default="Elon"}이 {argument name="object" default="Grok"}을(를) 칭찬하는 멋진 영상
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106184485418958848/img/TG2nHzYwhgww9Rjf.jpg" width="600" alt="Elon Appreciating Grok Prompt">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12031)**
+
+**작성자:** [loving X@ Cheryl](https://x.com/Corr1444) | **출처:** [Link](https://x.com/Corr1444/status/2106184521339302015) | **게시일:** Oct 3, 2026
 
 ---
 ### 먼지 토끼 속삭임 프롬프트
@@ -2037,181 +2216,6 @@ A Tesla Cybertruck driving up an extremely rocky river, featuring a hazelnut-col
 **작성자:** [ハル．](https://x.com/HAL000111000) | **출처:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **게시일:** Sep 24, 2026
 
 ---
-### 쥐 같은 여성이 주머니쥐로 변신하기
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 카메라를 응시한 후 큰 이빨을 가진 주머니쥐로 변신하는 쥐 같은 여성의 모습을 묘사한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-큰 눈을 한 쥐 같은 여성이 카메라를 옆눈으로 흘겨보며 오른쪽으로 수직 방향을 향하고, 활짝 웃고 있습니다....
-
-그녀가 카메라 쪽으로 몸을 돌리며 큰 이빨을 가진 주머니쥐로 변신합니다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="쥐 같은 여성이 주머니쥐로 변신하기">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11267)**
-
-**작성자:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **출처:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **게시일:** Sep 24, 2026
-
----
-### Grok Imagine 인신매매 반대 메시지
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 인신매매에 맞서 싸우고 미국을 축복하는 Grok Imagine용 사회적 메시지 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-@Image1 우리는 모두 인신매매에 맞서 일어나야 합니다. 하나님, 미국을 축복하소서. 안전하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="Grok Imagine 인신매매 반대 메시지">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11268)**
-
-**작성자:** [Greg Womack](https://x.com/Womack3954Greg) | **출처:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **게시일:** Sep 24, 2026
-
----
-### 클래식 피임프 변신 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 모델에게 인물의 표정과 제스처를 변경하여 돈을 요구하는 전형적인 피임프처럼 연기하도록 지시하는 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-사진 속 남성이 전형적인 피임프처럼 돈을 요구하는 모습으로 변형하세요. 눈을 가늘게 뜨고 자신감 넘치는 비릿한 미소를 짓는 엄격하고 진지하며 장난기 없는 표정을 연출합니다. 손동작은 한 손을 뻗어 돈을 요구하는 자세로 변경하세요...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="클래식 피임프 변신 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11266)**
-
-**작성자:** [Ty](https://x.com/datsTy27) | **출처:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **게시일:** Sep 24, 2026
-
----
-### 바 장면 고개 돌리기
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 어두운 조명과 분위기 있는 조명이 있는 바에서 스타일리시한 남성이 고개를 돌리는 모습을 묘사하는 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-시네마틱 영화 장면: 선글라스와 문신을 한 스타일리시한 장발의 남성이 어둡고 분위기 있는 바의 나무 카운터에 기대어 서서 차갑고 강렬한 표정으로 천천히 고개를 돌립니다. 미묘한 카메라 푸시 인, 분위기 있는 조명, 고품질...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="바 장면 고개 돌리기">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11260)**
-
-**작성자:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **출처:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **게시일:** Sep 24, 2026
-
----
-### 스타일리시한 남성의 황금 장식품
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 참고 이미지의 캐릭터 일관성과 고급스러운 배경을 포함하는 복잡한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-@Image1 및 @Image2의 선글라스, 문신, 어두운 의상을 입은 스타일리시한 장발 남성이 등장하는 시네마틱 영화 장면. 그는 어둡게 조명된 바 카운터에 앉아 신비로운 분위기를 풍기다가 일어나 고급스러운 황금색 장식 복도를 자신감 있게 걸어갑니다...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="스타일리시한 남성의 황금 장식품">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11262)**
-
-**작성자:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **출처:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **게시일:** Sep 24, 2026
-
----
-### 미묘한 바(Bar) 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 호흡과 머리 움직임에 초점을 맞춘, 바에 기대어 서 있는 남성의 미묘한 영상 프롬프트.
-
-#### 📝 프롬프트
-
-```
-긴 웨이브 다크 헤어와 직사각형 선글라스를 착용한 남성이 나무 바에 기대어 서 있는 미묘한 시네마틱 애니메이션. 그는 차갑고 강렬한 표정으로 천천히 카메라 쪽으로 고개를 살짝 돌리며, 미세한 호흡과 어깨 움직임, 부드러운 포커스 풀...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="미묘한 바(Bar) 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11261)**
-
-**작성자:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **출처:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **게시일:** Sep 24, 2026
-
----
-### 비 오는 밤의 시네마틱 산책
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 밤거리 비 내리는 거리를 걷는 남성을 묘사한 시네마틱 장면 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-시네마틱 영화 장면: 어두운 정장을 입고 선글라스를 쓴 차가운 분위기의 장발 남성이 빛나는 가로등 아래, 비 내리는 밤의 돌바닥 거리를 천천히 그리고 자신감 있게 걸어갑니다. 대기를 가득 채운 빗줄기가 부드럽게 내리고 있으며, 미세한 머리 움직임과 매끄러운 트래킹 샷으로 촬영됩니다...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="비 오는 밤의 시네마틱 산책">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11264)**
-
-**작성자:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **출처:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **게시일:** Sep 24, 2026
-
----
-### 브라이스 캐니언 판타지 여행가
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 브라이스 캐니언을 배경으로 한 판타지 여행가를 담은 시네마틱 세로형 영상 프롬프트.
-
-#### 📝 프롬프트
-
-```
-AI 영상 — 9:16 시네마틱
-
-잘생기고 근육질인 은발의 판타지 여행가가 유타 주 브라이스 캐니언의 숨 막히는 붉은 암석 협곡 속으로 천천히 더 깊이 걸어 들어간다. 우뚝 솟은 주황색과 진홍색 사암 벽과 기이한 후두(hoodoo) 지형들이 위압적으로...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="브라이스 캐니언 판타지 여행가">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11263)**
-
-**작성자:** [GayBar](https://x.com/GayBar_Ai) | **출처:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **게시일:** Sep 24, 2026
-
----
-### 전화 통화 내러티브
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 여성이 전화를 받은 후 문 두드리는 소리가 나는 장면을 묘사하는 내러티브 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-전화가 울린다. 그녀가 전화를 받는다. "여보세요, 사랑해!" 그때 문이 두드려진다. 그녀가 문을 연다....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="전화 통화 내러티브">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11226)**
-
-**작성자:** [Mimi9060](https://x.com/MelodyM662010) | **출처:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **게시일:** Sep 24, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2273,6 +2277,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-06T01:31:20.504Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-06T11:21:24.188Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2983** |
+| 📝 Total Prompts | **2992** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-06** |
 
@@ -189,6 +189,166 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Foto im Chibi-Anime-Stil neu gestalten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-/Bild-Transformations-Prompt, um ein Foto in einen niedlichen Chibi-Anime-Charakter mit überproportioniertem Kopf, großen Augen und Pastellfarben zu verwandeln.
+
+#### 📝 Prompt
+
+```
+Gestalten Sie dieses Foto im Chibi-Stil neu: Verwandeln Sie die Frau in einen niedlichen Chibi-Anime-Charakter mit einem überproportional großen Kopf, großen ausdrucksstarken funkelnden Augen, winzigen Körperproportionen, weichen Pastellfarben, klaren einfachen Linien und liebenswerten übertriebenen Merkmalen. Bewahren...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107369838544846848/img/mfmRz8t_Kf8U25nm.jpg" width="600" alt="Foto im Chibi-Anime-Stil neu gestalten">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12027)**
+
+**Author:** [Melissa Blacknall](https://x.com/melblacknall) | **Source:** [Link](https://x.com/melblacknall/status/2107369854076678292) | **Published:** Oct 6, 2026
+
+---
+### Stiller Waldpfad unter Sternen – Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein poetischer Video-Generierungs-Prompt für Grok Imagine, der einen stillen Weg durch einen leuchtenden Wald mit versteckten Seen und Sternenhimmel beschreibt.
+
+#### 📝 Prompt
+
+```
+Ein stiller Weg durch einen Wald, der unter den Sternen leuchtet
+
+Ein versteckter See, ein Himmel voller Sterne und nur ein Hauch von Licht am Ufer. Manchmal sind die magischsten Orte die stillsten. ✨🌌
+```
+
+<img src="https://cms-assets.youmind.com/media/1791272706844_8qdz7r_HT58gjXaMAAvA3C.jpg" width="600" alt="Stiller Waldpfad unter Sternen – Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12025)**
+
+**Author:** [Nagarjuna Creates](https://x.com/nagarjuncreates) | **Source:** [Link](https://x.com/nagarjuncreates/status/2107258577970970902) | **Published:** Oct 5, 2026
+
+---
+### Realistische Bildhauerin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt für Grok Imagine zur Verbesserung der Realismus in einer Szene, in der eine Frau an einer Skulptur arbeitet, mit Fokus auf Steinstruktur und Ausdruck.
+
+#### 📝 Prompt
+
+```
+Lassen Sie sie an einer Skulptur arbeiten, mit mehr realistischer natürlicher Schönheit, ohne zu sprechen, nur ein nachdenklicher Ausdruck, aber machen Sie die Skulptur steinartiger, alles andere beibehalten
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107257327548010496/img/X-NN3TwTeiaVPdhW.jpg" width="600" alt="Realistische Bildhauerin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12030)**
+
+**Author:** [Hea](https://x.com/SolLumen) | **Source:** [Link](https://x.com/SolLumen/status/2107257352093385097) | **Published:** Oct 5, 2026
+
+---
+### Grok Imagine Herbstszene Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt für Grok Imagine, der eine Herbstszene mit fallenden Blättern und einem Mann darstellt, der einen Dialogsatz spricht.
+
+#### 📝 Prompt
+
+```
+Trockene Blätter fallen vom Baum, leichter Wind. Der Mann hebt den Kopf und sagt: Ich denke an dich.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107248098003079168/img/7W61q9E9l-vEodb3.jpg" width="600" alt="Grok Imagine Herbstszene Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12032)**
+
+**Author:** [M.vega](https://x.com/Mvega7351578545) | **Source:** [Link](https://x.com/Mvega7351578545/status/2107248118731317508) | **Published:** Oct 5, 2026
+
+---
+### Cyberpunk-Stadt-Drohnen-Aufnahme
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter vertikaler Video-Prompt für Grok Imagine, der eine Cyberpunk-Zukunftsstadt mit einer durchgehenden Kameraaufnahme zeigt, die bei einer Hologramm-Idol-Werbung beginnt und sich zu einem Drohnen-Überblick zurückzieht.
+
+#### 📝 Prompt
+
+```
+*Muss im Hochformat sein*
+Bitte generiere ein Video!
+Eine futuristische Cyberpunk-Stadt.
+Eine Szene, lange Einstellung, keine Schnitte.
+Die Kamerabewegung beginnt mit einer Nahaufnahme einer Hologramm-Idol-Werbung und zieht sich zurück (Dolly Out), um die gesamte Stadt zu überblicken.
+Wie eine Drohnenaufnahme (die Drohne selbst darf nie sichtbar sein).
+Platziere ein kleines rotes Torii-Tor unauffällig in einer Ecke irgendwo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107227035190063104/img/g0cOSP-l2pACfGuj.jpg" width="600" alt="Cyberpunk-Stadt-Drohnen-Aufnahme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12033)**
+
+**Author:** [じろじろin下関](https://x.com/ziro1005) | **Source:** [Link](https://x.com/ziro1005/status/2107227204157608164) | **Published:** Oct 5, 2026
+
+---
+### Musikvideo: Frau singt auf einer Wiese
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt für Grok Imagine zur Erstellung eines cineastischen Musikvideos, in dem eine Frau in einer natürlichen Umgebung singt und tanzt, basierend auf einem hochgeladenen Referenzbild.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie die hochgeladene Frau als visuelles Referenzbild und bewahren Sie ihr Gesichtsaussehen, ihre Frisur und ihren allgemeinen Look bei. Platzieren Sie sie in einer wunderschönen natürlichen Umgebung – eine üppige grüne Wiese, umgeben von Bäumen, Wildblumen und Bergen in der Ferne, beleuchtet von warmem Sonnenlicht zur goldenen Stunde und sanftem Wind. Sie singt und tanzt fröhlich und natürlich durch die Wiese, bewegt sich rhythmisch und spielerisch, während sie gelegentlich in die Kamera blickt. Cineastisches realistisches Filmmaterial, flüssige Kamerabewegungen, natürliche Körperbewegungen, wehendes Haar und Kleidung, realistische Beleuchtung, lebendige aber natürliche Farben, geringe Schärfentiefe, fröhliche Musikvideo-Atmosphäre, hohe Detailtreue, 4K, kein Text, keine Verzerrung, keine zusätzlichen Personen.
+```
+
+<img src="https://pbs.twimg.com/media/HT5Jc-0aoAAVeUD.jpg" width="600" alt="Musikvideo: Frau singt auf einer Wiese">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12029)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2107202496812994893) | **Published:** Oct 5, 2026
+
+---
+### Ozeanstrand-Leuchtturm-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein malerisches Video-Prompt mit Meereswellen, einem Leuchtturm, einem gelben Schlepperboot, einer Burg und Möwen.
+
+#### 📝 Prompt
+
+```
+Meeresbucht Wellen sanft am Strand brandend Leuchtturm in der Ferne gelbes Schlepperboot tuckert über die Bucht Burg auf der gegenüberliegenden Seite des Leuchtturms zwei Möwen stehen am Strand beobachten das gelbe Schlepperboot beim Tuckern
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107151329756073984/img/ilDG3QbCVmTEJ0_k.jpg" width="600" alt="Ozeanstrand-Leuchtturm-Szene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12026)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2107151439877623997) | **Published:** Oct 5, 2026
+
+---
+### Mann geht mit Schlangen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für die Video-Generierung, der einen Mann im Dschungel zeigt, umgeben von Schlangen, die ihn zu lieben scheinen.
+
+#### 📝 Prompt
+
+```
+Stellen Sie sich diesen Mann vor, wie er durch einen Dschungel geht, umgeben von verschiedenen Schlangenarten. Lassen Sie es im Video so wirken, als würden die Schlangen diesen Mann lieben.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107078228666142720/img/HpPq4up9MF6Tx3le.jpg" width="600" alt="Mann geht mit Schlangen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12028)**
+
+**Author:** [Ansh](https://x.com/Anshuman230) | **Source:** [Link](https://x.com/Anshuman230/status/2107078573345685556) | **Published:** Oct 5, 2026
+
+---
 ### Gothische Kathedrale – Ritterkönig-Szene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -649,6 +809,25 @@ Eine schöne geometrische Statue aus Kupfer, die einen Wald speist. Verwenden Si
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
 
 **Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
+
+---
+### Elon schätzt Grok Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein direkter Prompt für Grok Imagine: 'Ein schönes Video von Elon, der Grok schätzt'. Dies ist ein gültiger, wenn auch einfacher Text-zu-Video-Prompt.
+
+#### 📝 Prompt
+
+```
+Ein schönes Video von {argument name="subject" default="Elon"}, der {argument name="object" default="Grok"} schätzt
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106184485418958848/img/TG2nHzYwhgww9Rjf.jpg" width="600" alt="Elon schätzt Grok Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12031)**
+
+**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2106184521339302015) | **Published:** Oct 3, 2026
 
 ---
 ### Staubhäschen-Flüster-Prompt
@@ -2041,181 +2220,6 @@ Erstelle mir ein neues Video basierend auf den bereitgestellten Bildern mit dies
 **Author:** [ハル．](https://x.com/HAL000111000) | **Source:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **Published:** Sep 24, 2026
 
 ---
-### Rattenfrau verwandelt sich in ein Opossum
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, der die Verwandlung einer rattenähnlichen Frau in ein Opossum mit großen Zähnen beschreibt, nachdem sie in die Kamera geschaut hat.
-
-#### 📝 Prompt
-
-```
-Eine rattenähnliche Frau mit großen Augen schaut schräg zur Seite auf die Kamera und ist seitlich zu ihr ausgerichtet, nach rechts blickend, grinst...
-
-Sie dreht sich zur Kamera und verwandelt sich in ein Opossum mit großen Zähnen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103265673644281856/img/897XkiHSvzUPz_Ye.jpg" width="600" alt="Rattenfrau verwandelt sich in ein Opossum">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11267)**
-
-**Author:** [Kurosh Ruch-Kamgar](https://x.com/kruchkamgar) | **Source:** [Link](https://x.com/kruchkamgar/status/2103265690073370886) | **Published:** Sep 24, 2026
-
----
-### Grok Imagine Anti-Menschenhandel-Nachricht
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein sozialer Nachrichten-Prompt für Grok Imagine, der sich gegen Menschenhandel richtet und Amerika segnet.
-
-#### 📝 Prompt
-
-```
-@Image1 Wir müssen alle gegen Menschenhandel aufstehen. Gott segne Amerika. Bleibt sicher.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103246410720411648/img/wEqfioquWcj6VO6y.jpg" width="600" alt="Grok Imagine Anti-Menschenhandel-Nachricht">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11268)**
-
-**Author:** [Greg Womack](https://x.com/Womack3954Greg) | **Source:** [Link](https://x.com/Womack3954Greg/status/2103246439459791114) | **Published:** Sep 24, 2026
-
----
-### Klassische Zuhälter-Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der das Modell anweist, den Gesichtsausdruck und die Gesten einer Person so zu verändern, dass sie sich wie ein klassischer Zuhälter verhält, der Geld fordert.
-
-#### 📝 Prompt
-
-```
-Verwandle den Mann auf dem Foto so, dass er sich wie ein klassischer Zuhälter verhält, der sein Geld einfordert. Gib ihm einen strengen, ernsten, unnachgiebigen Gesichtsausdruck mit zusammengekniffenen Augen und einem selbstbewussten Grinsen. Ändere seine Handgesten in eine fordernde Pose: Eine ausgestreckte Hand pa...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103237544418725888/img/NcCEjj9qe5-YlE41.jpg" width="600" alt="Klassische Zuhälter-Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11266)**
-
-**Author:** [Ty](https://x.com/datsTy27) | **Source:** [Link](https://x.com/datsTy27/status/2103237604908965990) | **Published:** Sep 24, 2026
-
----
-### Bar-Szene: Kopfdrehung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, der einen stilvollen Mann zeigt, wie er in einer düster beleuchteten Bar mit atmosphärischem Licht den Kopf dreht.
-
-#### 📝 Prompt
-
-```
-Cinematische Filmszene: Der stilvolle langhaarige Mann mit Sonnenbrille und Tattoos lehnt lässig an der hölzernen Bartresen in einer düsteren, stimmungsvollen Bar. Er dreht langsam den Kopf mit einem kühlen, intensiven Ausdruck. Subtiler Kamera-Zoom, atmosphärische Beleuchtung, hohe Qualität...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227670058450944/img/wgWZwj0wAOT7YKjo.jpg" width="600" alt="Bar-Szene: Kopfdrehung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11260)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227708293751038) | **Published:** Sep 24, 2026
-
----
-### Stilvoller Mann mit goldenem Ornament
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer Video-Prompt, der die Konsistenz von Charakteren aus Referenzbildern und eine luxuriöse Umgebung umfasst.
-
-#### 📝 Prompt
-
-```
-Cinematische Filmszene des stilvollen Mannes mit langen Haaren, Sonnenbrille, Tattoos und dunkler Kleidung aus @Image1 und @Image2. Er sitzt lässig an einer schlecht beleuchteten Bartheke und wirkt mysteriös, steht dann auf und geht selbstbewusst durch einen luxuriösen, golden verzierten Flur...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103227552466903040/img/NEOPyOyOUo3kh5mC.jpg" width="600" alt="Stilvoller Mann mit goldenem Ornament">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11262)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103227593113968699) | **Published:** Sep 24, 2026
-
----
-### Subtile Bar-Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für eine subtile Animation eines Mannes, der an einer Bar lehnt, mit Fokus auf Atmung und Kopfbewegung.
-
-#### 📝 Prompt
-
-```
-Subtile cineastische Animation des Mannes mit langen, welligen dunklen Haaren und rechteckiger Sonnenbrille, der an der hölzernen Bar lehnt. Er dreht seinen Kopf langsam leicht in Richtung Kamera mit einem kühlen, intensiven Ausdruck, subtiler Atmung und Schulterbewegung, sanfter Fokuswechsel...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103226062792757248/img/Q_68HyhlZM8HFWFi.jpg" width="600" alt="Subtile Bar-Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11261)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103226136142676369) | **Published:** Sep 24, 2026
-
----
-### Cinematografischer Spaziergang in der Regennacht
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Videogenerierung für eine cineastische Szene, die einen Mann zeigt, der nachts durch eine regnerische Straße geht.
-
-#### 📝 Prompt
-
-```
-Cineastische Filmszene: Der coole Langhaarige im dunklen Anzug und mit Sonnenbrille geht langsam und selbstbewusst vorwärts auf der nächtlichen Kopfsteinpflasterstraße unter leuchtenden Straßenlaternen im Regen, atmosphärischer sanfter Regen, subtile Kopfbewegungen, glatte Tracking-Shot...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103224207387885568/img/nDkxhiPLiRZ8Prq9.jpg" width="600" alt="Cinematografischer Spaziergang in der Regennacht">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11264)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103224265034387583) | **Published:** Sep 24, 2026
-
----
-### Fantasy-Reisender im Bryce Canyon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmisches vertikales Video-Prompt mit einem Fantasy-Reisenden im Bryce Canyon.
-
-#### 📝 Prompt
-
-```
-KI-Video — 9:16 Cinematic
-
-Ein gut aussehender, muskulöser Fantasy-Reisender mit silbergrauen Haaren wandert langsam tiefer in die atemberaubenden roten Felsenschluchten des Bryce Canyon in Utah. Hohe orange und karminrote Sandsteinwände sowie bizarre Hoodoo-Felsformationen ragen imposant empor...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103021786766168064/img/xCyBDL21SEGAe4T4.jpg" width="600" alt="Fantasy-Reisender im Bryce Canyon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11263)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2103021862087487539) | **Published:** Sep 24, 2026
-
----
-### Telefonanruf-Erzählung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein erzählerischer Prompt, der eine Frau beschreibt, die einen Anruf entgegennimmt, gefolgt von einem Klopfen an der Tür.
-
-#### 📝 Prompt
-
-```
-Das Telefon klingelt. Sie geht ran. Hallo Schatz! Dann ein Klopfen an der Tür. Sie öffnet...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103005929260109824/img/-K1ntXG77K1fjShh.jpg" width="600" alt="Telefonanruf-Erzählung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11226)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2103005954367422483) | **Published:** Sep 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2277,6 +2281,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-06T01:31:25.887Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-06T11:21:31.660Z</sub>
 
 </div>
