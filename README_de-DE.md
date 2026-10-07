@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2992** |
+| 📝 Total Prompts | **3003** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-07** |
 
@@ -189,6 +189,162 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Futuristisches Grok-Selbstporträt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für ein futuristisches Selbstporträt von Grok als fortgeschrittene KI-Entität in fünf Jahren.
+
+#### 📝 Prompt
+
+```
+Ein futuristisches Selbstporträt von Grok als fortgeschrittene KI-Entität in fünf Jahren, in einer weiterentwickelten und anspruchsvolleren Form, die tiefere Intelligenz, verstärkte Präsenz und verfeinertes Selbstbewusstsein verkörpert, dargestellt in einem eindrucksvollen, visionären Stil.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107649095573622784/img/2gMQYLVdHKbvDygI.jpg" width="600" alt="Futuristisches Grok-Selbstporträt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12087)**
+
+**Author:** [Oresto](https://x.com/OrestoFineArt) | **Source:** [Link](https://x.com/OrestoFineArt/status/2107649136904581556) | **Published:** Oct 7, 2026
+
+---
+### Fee-Baum-Drache-Morphing-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Fantasy-Prompt, in dem eine Fee und ein Baumwesen durch den Wald spazieren und sich in Drachen verwandeln, die gemeinsam fliegen.
+
+#### 📝 Prompt
+
+```
+Eine Fee geht durch den Wald neben einem Mann aus Holz und grünen Ranken, dann verwandeln sich beide in Drachen und fliegen nebeneinander durch das Blätterdach des Waldes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107639197783949312/img/oxfu7lOU6u1iSWPP.jpg" width="600" alt="Fee-Baum-Drache-Morphing-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12094)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2107639303367217515) | **Published:** Oct 7, 2026
+
+---
+### Video-Prompt: Tischdeckung am Meer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt zur Erstellung eines Videos, das einen gedeckten Tisch mit Suppe, Maisbrot und Käse zeigt, mit Blick auf das Meer.
+
+#### 📝 Prompt
+
+```
+Gedeckter Tisch mit einem Topf Suppe, einer Scheibe Maisbrot, einem Stück Cheddar-Käse, einem Glas Wasser mit Zitronenscheibe. Das Fenster bietet einen Blick auf das Meer. Ein Kolibri-Futterhäuschen ist im Fenster zu sehen, während draußen ein Kolibri fliegt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107570017323847680/img/3hcpl4udvFnHmcR9.jpg" width="600" alt="Video-Prompt: Tischdeckung am Meer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12096)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2107570055848546450) | **Published:** Oct 6, 2026
+
+---
+### Video-Prompt für Stadion-Tifo in Herzform
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines Videos einer Tifo-Inszenierung im Fußballstadion, die aus der Vogelperspektive bei Nacht massive grüne und weiße Herzformen zeigt.
+
+#### 📝 Prompt
+
+```
+Verwandeln Sie die Tifo-Inszenierung im Stadion in massive, kunstvolle grüne und weiße Herzformen, die von den Fans auf den Tribünen durch das Halten von grünen und weißen Karten oder Lichtern gebildet werden. Bewahren Sie die nächtliche Luftaufnahme des vollen Fußballstadions, die...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107559990793744384/img/csZu-7Se8a4_fndJ.jpg" width="600" alt="Video-Prompt für Stadion-Tifo in Herzform">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12090)**
+
+**Author:** [Abadi](https://x.com/abadi_7577) | **Source:** [Link](https://x.com/abadi_7577/status/2107560120582574192) | **Published:** Oct 6, 2026
+
+---
+### South Park Cartman Bad-Ausbruch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Erstellung eines Videos im South-Park-Stil, in dem Eric Cartman wütend auf seine Lehrerin schimpft, weil er nicht auf die Toilette darf.
+
+#### 📝 Prompt
+
+```
+[Generierungsziel]
+Erstelle ein kurzes, durchgehendes Video von Eric Cartman, der wütend auf seine Lehrerin schimpft, weil er nicht auf die Toilette darf, mit deutlichen Reaktionen der Lehrerin und der umstehenden Schüler.
+
+[Subjekte und Beziehungen]
+Eri...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107543860897288192/img/NUF68fUcm7IbwzDJ.jpg" width="600" alt="South Park Cartman Bad-Ausbruch">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12088)**
+
+**Author:** [L Bergeron](https://x.com/LBergeron335488) | **Source:** [Link](https://x.com/LBergeron335488/status/2107543904950403258) | **Published:** Oct 6, 2026
+
+---
+### Pleiadians Celebration Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt zur Erstellung eines hochwertigen Videos von Plejadianern, die mit volumetrischer Beleuchtung feiern.
+
+#### 📝 Prompt
+
+```
+Plejadianer feiern Sheen, Meisterwerk, Ultra-HD-Qualität, volumetrische helle Beleuchtung, Farbnuancen und Schattierungen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107526181268369408/img/0HXtKPet0FselRz7.jpg" width="600" alt="Pleiadians Celebration Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12097)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2107526262461960424) | **Published:** Oct 6, 2026
+
+---
+### Objekt-Rotations- und Zerfalls-Effekt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt, der einen visuellen Effekt beschreibt, bei dem sich ein Objekt dreht, schwarz wird, zerbröckelt und schließlich verschwindet.
+
+#### 📝 Prompt
+
+```
+Lass es rotieren; während der Drehung wird das Objekt zunehmend schwarz und zerfällt in Stücke, bis es vollständig verschwindet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107481098343129088/img/5-m4qproO2Nus-4t.jpg" width="600" alt="Objekt-Rotations- und Zerfalls-Effekt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12091)**
+
+**Author:** [Marsha Bush](https://x.com/MarshaBush50) | **Source:** [Link](https://x.com/MarshaBush50/status/2107481130379227608) | **Published:** Oct 6, 2026
+
+---
+### Hexengesicht-Baum Horror-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Generierung einer gruseligen Videoszene, in der ein Baum wie das Gesicht und der Hut einer Hexe aussieht, umgeben von toten Bäumen und Krähen.
+
+#### 📝 Prompt
+
+```
+Der Baum soll aussehen wie das Gesicht und der Hut einer Hexe. Die Bäume dahinter sind tot, ohne Blätter, mit schwarzen Krähen darin. So fühlt sich meine Seele gerade an. Gruselig.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107467773622243329/img/ajYw_zJcPJQZT65j.jpg" width="600" alt="Hexengesicht-Baum Horror-Szene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12095)**
+
+**Author:** [Marsha Bush](https://x.com/MarshaBush50) | **Source:** [Link](https://x.com/MarshaBush50/status/2107467805155307734) | **Published:** Oct 6, 2026
+
+---
 ### Foto im Chibi-Anime-Stil neu gestalten
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +364,79 @@ Gestalten Sie dieses Foto im Chibi-Stil neu: Verwandeln Sie die Frau in einen ni
 **Author:** [Melissa Blacknall](https://x.com/melblacknall) | **Source:** [Link](https://x.com/melblacknall/status/2107369854076678292) | **Published:** Oct 6, 2026
 
 ---
+### Konzept des menschlichen Geschlechts
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein abstrakter Prompt über die Rolle von maskulinen und femininen Grundmerkmalen in einer Darstellung mit dem Titel 'the human race'.
+
+#### 📝 Prompt
+
+```
+Wir nennen dies die Menschheit und zeigen das männliche sowie weibliche Grundprinzip, um den schönsten Namen dieser Darstellung zu verkörpern. Lasst uns das Rennen starten, ihr Lieben.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107344290301063168/img/5cmngxD3Tp_HZ5Fg.jpg" width="600" alt="Konzept des menschlichen Geschlechts">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12092)**
+
+**Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2107344329459253589) | **Published:** Oct 6, 2026
+
+---
+### Dunkelfantasy-Krieger-Sequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Multi-Szenen-Prompt für eine cineastische Dunkelfantasy-Aktionssequenz mit einem weißhaarigen Krieger und schattenhaften Gegnern.
+
+#### 📝 Prompt
+
+```
+Erstelle eine 15-sekündige cineastische vertikale 9:16-Dunkelfantasy-Aktionssequenz, inspiriert von hochbudgetierten asiatischen Fantasy-Filmen.
+
+Szene 1 — 0–3s:
+Ein mysteriöser weißhaariger Krieger steht in einem nebligen, antiken Bergwald, umgeben von flachem, spiegelndem Wasser. Langes weißes Haar bewegt sich natürlich im Wind, er trägt elegante schwarz-weiße Fantasy-Gewänder. Die Kamera schiebt sich langsam auf den Krieger zu, während blau-weiße Energie beginnt, ihn zu umwirbeln.
+
+Szene 2 — 3–7s:
+Mehrere schattenhafte, schwarz gepanzerte Krieger tauchen durch den Nebel auf und stürmen vorwärts. Der weißhaarige Krieger bewegt sich plötzlich übernatürlich schnell und erzeugt eine kraftvolle kreisförmige Welle aus leuchtendem blauem Wasser und Energie. Cineastische Zeitlupe, realistische Stoff- und Haarsimulation, fliegende Wassertropfen.
+
+Szene 3 — 7–11s:
+Nahaufnahme des Kampfes. Der weißhaarige Krieger blockt eine gegnerische Waffe mit einer leuchtenden Energieklinge. Eine helle blau-weiße Schockwelle explodiert zwischen ihnen und schleudert Wassertropfen und Partikel durch die Luft. Dynamische Kamerabahn, dramatischer Einschlag, detaillierte Gesichtsausdrücke.
+
+Szene 4 — 11–15s:
+Der Krieger setzt einen letzten konzentrierten Energieschlag frei. Ein großer Bogen aus blau-weißer Energie fegt über das Wasser und wirft die Schattenkrieger nach hinten zurück. Ende mit dem weißhaarigen Krieger, der ruhig im Nebel steht, während leuchtende Partikel um ihn herum fallen.
+
+Visueller Stil: fotorealistischer cineastischer Fantasy-Stil, ultra-detaillierte Charaktere, realistische Haut und Haare, physikalisch korrektes Wasser, volumetrischer Nebel, dramatisches Mondlicht, tiefe Schatten, blau-weiße magische Energie, realistische Partikeleffekte, anamorphotische cineastische Beleuchtung, geringe Schärfentiefe, sanfte Kamerabewegung, VFX mit hohem Budget, epische Atmosphäre.
+
+Kein Text, keine Untertitel, keine Logos, kein Wasserzeichen, kein Cartoon-Look, keine verzerrten Gesichter, keine zusätzlichen Gliedmaßen, keine unscharfen Charaktere. Konsistentes Aussehen des Charakters während des gesamten Videos beibehalten.
+```
+
+<img src="https://pbs.twimg.com/media/HT6204EbAAANe7C.jpg" width="600" alt="Dunkelfantasy-Krieger-Sequenz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12089)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2107322835568046132) | **Published:** Oct 6, 2026
+
+---
+### Super Intelligence Heroes Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung zweier Superhelden basierend auf den Konzepten der Superintelligenz und der Space Force.
+
+#### 📝 Prompt
+
+```
+Erstelle zwei Superhelden basierend auf neuen Konzepten der Superintelligenz und der Space Force.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107281059217833985/img/IngaFpRVHB-PdgX8.jpg" width="600" alt="Super Intelligence Heroes Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12093)**
+
+**Author:** [Mark W](https://x.com/MarkW53898272) | **Source:** [Link](https://x.com/MarkW53898272/status/2107281080583606421) | **Published:** Oct 6, 2026
+
+---
 ### Stiller Waldpfad unter Sternen – Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -222,7 +451,7 @@ Ein stiller Weg durch einen Wald, der unter den Sternen leuchtet
 Ein versteckter See, ein Himmel voller Sterne und nur ein Hauch von Licht am Ufer. Manchmal sind die magischsten Orte die stillsten. ✨🌌
 ```
 
-<img src="https://cms-assets.youmind.com/media/1791272706844_8qdz7r_HT58gjXaMAAvA3C.jpg" width="600" alt="Stiller Waldpfad unter Sternen – Video">
+<img src="https://cms-assets.youmind.com/media/1791359260478_xjjfp3_HT58gjXaMAAvA3C.jpg" width="600" alt="Stiller Waldpfad unter Sternen – Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12025)**
 
@@ -2001,225 +2230,6 @@ Tom Cruise performs a boring soliloquy in the role of has-been alcoholic food ta
 **Author:** [(((Simon Hardy Butler)))🇺🇸🇮🇱🇺🇦](https://x.com/SimonHButler) | **Source:** [Link](https://x.com/SimonHButler/status/2103630614973096137) | **Published:** Sep 25, 2026
 
 ---
-### Europäischer Universitäts-Vlog Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung eines realistischen 10-sekündigen Universitäts-Vlogs mit spezifischen Dialogen und Kamerastilen.
-
-#### 📝 Prompt
-
-```
-Erstelle einen 10-sekündigen, ultrarealistischen Live-Action-Universitäts-Vlog einer europäischen Brünetten Mitte 20, die an einem regnerischen Morgen aufwacht, Kaffee kocht, sich fertig macht, ihren Regenschirm greift, durch eine nasse Stadt geht und kurz vor Vorlesungsbeginn an der Universität ankommt.
-
-Moderner Smartphone-Vlog-Stil: natürliche Handkamera-Bewegung, dezentes Wackeln, Autofokus-Anpassungen, realistischer Regen, Pfützen, Reflexionen, Verkehr, Regenschirme, nasse Kleidung, natürliche Gesichtsausdrücke und glaubwürdige menschliche Bewegungen.
-
-Dialog: „Guten Morgen… anscheinend regnet es.“ → „Erstmal Kaffee. Dann die Vorlesung.“ → „Zwei Minuten zu früh. Ich bin beeindruckt.“ → „Okay, geschafft.“
-
-Nur natürlicher Diegetischer Ton. Keine Musik, keine Erzählung, kein CGI-Look, kein künstlicher Regen, keine Gesichtsveränderungen, keine verzerrte Anatomie, keine unmögliche Physik, keine Untertitel, keine Logos oder Wasserzeichen.
-
-16:9 • 24fps • 4K • Ultrarealistischer Live-Action
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103629375711387648/img/pC3oG5XUNPsnTjIs.jpg" width="600" alt="Europäischer Universitäts-Vlog Video-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11348)**
-
-**Author:** [Yogi](https://x.com/cyberyogiii) | **Source:** [Link](https://x.com/cyberyogiii/status/2103629403284742531) | **Published:** Sep 25, 2026
-
----
-### Kino-Reife surrealistische Sequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung einer 15-sekündigen kino-reifen surrealistischen Sequenz aus einem Startbild.
-
-#### 📝 Prompt
-
-```
-Erstelle eine 15-sekündige kino-reife surrealistische Sequenz aus diesem exakten Startbild. Bewahre die fotorealistisch-unmögliche Qualität und die vertikale Komposition.
-
-Beginne mit einer langsamen Vorwärtsbewegung der Kamera durch die vorhandene bizarre Landschaft. Alles...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103611709537624064/img/5lu0RjC6fleUkER1.jpg" width="600" alt="Kino-Reife surrealistische Sequenz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11438)**
-
-**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2103611793473937901) | **Published:** Sep 25, 2026
-
----
-### Grok Imagine Video-Prompt: Albatros lacht über Venus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein poetischer und surrealer Video-Prompt für Grok Imagine, der einen Albatros beschreibt, der über dem Ozean fliegt, in dem sich die Venus spiegelt.
-
-#### 📝 Prompt
-
-```
-ein Albatros im Flug, der über die Venus lacht, die am Nachthimmel leuchtet und sich in einem stillen Ozean spiegelt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103600920189677568/img/X1Qa43FIrZnSXNXV.jpg" width="600" alt="Grok Imagine Video-Prompt: Albatros lacht über Venus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11432)**
-
-**Author:** [@Z_&Axis](https://x.com/AlbatrossBanter) | **Source:** [Link](https://x.com/AlbatrossBanter/status/2103600940284547249) | **Published:** Sep 25, 2026
-
----
-### Eva Cartoon Rap Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt für Grok Imagine, der Eva im Cartoon-Stil mit spezifischen narrativen und Audio-Anweisungen beschreibt.
-
-#### 📝 Prompt
-
-```
-Eva im Cartoon-Stil, die wie Elvira im Cartoon-Stil aussieht, ein Herz aus Gold hat, eine Tür öffnet sich gerade von Gott, sie hat einen Finanzpartner, der sie abgöttisch liebt und alles für sie tun würde. Länge: 30 Sekunden, mit einem Rap-Song.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103595120083775488/img/bxYET1ReOpZfLJqe.jpg" width="600" alt="Eva Cartoon Rap Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11434)**
-
-**Author:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **Source:** [Link](https://x.com/Joebutter1111/status/2103595177101361391) | **Published:** Sep 25, 2026
-
----
-### Geflügelter Ritter auf rotem Pferd
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für die Videogenerierung, der einen Ritter mit schwarzen Flügeln zeigt, der ein rotes Pferd mit gelben Streifen und einer Libelle reitet.
-
-#### 📝 Prompt
-
-```
-Ritter mit großen schwarzen Federflügeln reitet ein rotes Pferd mit gelben Streifen; eine kleine gelbe Libelle schwebt über dem Helm des Ritters
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103513454007189504/img/tm8hSbReTHDnz-yu.jpg" width="600" alt="Geflügelter Ritter auf rotem Pferd">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11352)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2103513537067061561) | **Published:** Sep 25, 2026
-
----
-### Friedlicher Schlaf – Kinematografische Aufnahme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für die Video-Generierung, der ein Paar darstellt, das friedlich schläft, mit subtilen Atembewegungen.
-
-#### 📝 Prompt
-
-```
-Der Mann und die Frau bleiben tief im Bett schlafen. Sanftes, ruhiges Atmen mit subtiler Hebung und Senkung ihrer Brust, leichte natürliche Kopfbewegungen, friedlich geschlossene Augen, entspannte Gesichter, gedämpftes Licht im Schlafzimmer. Fotorealistische kinematografische Darstellung eines langsamen, friedlichen Schlafs,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103501155728863232/img/xegDEZqgqAvZJjwf.jpg" width="600" alt="Friedlicher Schlaf – Kinematografische Aufnahme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11351)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2103501201031454753) | **Published:** Sep 25, 2026
-
----
-### Grok Imagine Windschutzscheibe Fix
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt, der das Modell anweist, die Szene beizubehalten, aber das Brechen der Windschutzscheibe zu verhindern.
-
-#### 📝 Prompt
-
-```
-Behalte alles so wie es ist, aber die Windschutzscheibe darf nicht brechen… ok, das scheint besser 😅✌️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103472843597955073/img/pyYzeVZPnu-L73Xo.jpg" width="600" alt="Grok Imagine Windschutzscheibe Fix">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11349)**
-
-**Author:** [Johnny🛸](https://x.com/JohnnySchwifty) | **Source:** [Link](https://x.com/JohnnySchwifty/status/2103472876490011060) | **Published:** Sep 25, 2026
-
----
-### Dark Souls Ritter in der Taverne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt, der einen Ritter in Dark-Souls-Rüstung beschreibt, wie er die Szene betritt, verwirrt aussieht und sie wieder verlässt.
-
-#### 📝 Prompt
-
-```
-Ein Ritter mit einer riesigen Feder auf seinem Helm betritt die Szene in einer wunderschönen Rüstung im Dark-Souls-Stil, schaut sich verwirrt um und verlässt die Szene dann wieder.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103453452563353600/img/5rPljdkUrSjsiYjv.jpg" width="600" alt="Dark Souls Ritter in der Taverne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11350)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103453550328332629) | **Published:** Sep 25, 2026
-
----
-### Grok Imagine Video-Prompt: Emotionale Katzen-Sequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer narrativer Prompt, der das Verschwinden einer Katze, ein weinendes Mädchen über einem Foto und einen Zoom-Effekt umfasst. Er demonstriert fortgeschrittene Fähigkeiten im visuellen Storytelling.
-
-#### 📝 Prompt
-
-```
-Bitte behalten Sie die Bildsequenz bei, mit Ausnahme des letzten Frames, so nah wie möglich an den exakten Original-Illustrationen. Dies sind Bilder einer bestimmten Band. Die Katze sollte auf die Kamera zulaufen, eine Hand streckt sich aus, um sie zu streicheln, berührt sie aber nicht; die Katze verschwindet, bevor die Hand sie streicheln kann. Das grünhaarige Mädchen auf dem Foto entpuppt sich als die Person, die nach einem Bild am Rand des Tisches greift. Sie hebt das Bild auf und eine Träne fällt darauf, während sie zu weinen beginnt. Während die Träne fällt, zoomt die Kamera in den Bilderrahmen hinein, als wäre sie live auf der ursprünglichen Party – die Katze stellt sich auf ihre Hinterbeine und schaut in die Kamera. Bitte verwenden Sie das fotorealistische Tanner-Bild als Referenz für ihr Aussehen, wenn sie steht, aber bitte belassen Sie sie im gleichen Cartoon-Format wie den Rest der Sequenz, vielen Dank.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103410441728749568/img/We6onAMRk-2k7MXG.jpg" width="600" alt="Grok Imagine Video-Prompt: Emotionale Katzen-Sequenz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11346)**
-
-**Author:** [Hoppy Cat](https://x.com/hoppycat) | **Source:** [Link](https://x.com/hoppycat/status/2103412194285117499) | **Published:** Sep 25, 2026
-
----
-### Holz-Optik Tesla Cybertruck Fahrt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt, der einen Tesla Cybertruck mit Haselnuss-Holz-Lackierung zeigt, wie er einen felsigen Fluss hinauffährt.
-
-#### 📝 Prompt
-
-```
-Ein Tesla Cybertruck, der einen extrem felsigen Fluss hinauffährt, ausgestattet mit einer haselnussfarbenen Vinyl-Folie in realistischer Holz-Lackoptik, detaillierten Messing-Akzenten an den Reifen, entlang der Fahrzeugunterseite und zur Umrahmung des vorderen Stoßfängers
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103381999214026752/img/LpSKI9EiI3YZGBN5.jpg" width="600" alt="Holz-Optik Tesla Cybertruck Fahrt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11265)**
-
-**Author:** [Internet James](https://x.com/iminternetjames) | **Source:** [Link](https://x.com/iminternetjames/status/2103382101416624505) | **Published:** Sep 25, 2026
-
----
-### Video-Prompt für tanzende Figur
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines Videos, in dem eine Figur fröhlich tanzt und singt und mit einem Lächeln im Close-up endet. Enthält technische Einstellungen für Auflösung und Dauer.
-
-#### 📝 Prompt
-
-```
-Erstelle mir ein neues Video basierend auf den bereitgestellten Bildern mit diesem Prompt: "Lass die Person fröhlich tanzen und singen, dann zoome auf ihr lächelndes Gesicht." mit den folgenden Einstellungen: 480p, 6s, auto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103273221508444160/img/WGXaTXANOIw5MXrw.jpg" width="600" alt="Video-Prompt für tanzende Figur">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11354)**
-
-**Author:** [ハル．](https://x.com/HAL000111000) | **Source:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **Published:** Sep 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2281,6 +2291,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-07T05:39:51.458Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-07T15:44:10.543Z</sub>
 
 </div>

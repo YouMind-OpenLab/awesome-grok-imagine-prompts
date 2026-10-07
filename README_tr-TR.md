@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2992** |
+| 📝 Total Prompts | **3003** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-07** |
 
@@ -189,6 +189,162 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Fütüristik Grok Otoportresi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 5 yıl sonra gelişmiş bir yapay zeka varlığı olarak Grok'un fütüristik otoportresi için bir istem.
+
+#### 📝 Prompt
+
+```
+5 yıl sonra gelişmiş bir yapay zeka varlığı olarak Grok'un fütüristik otoportresi; daha derin zeka, güçlendirilmiş varlık ve rafine edilmiş öz farkındalığı yansıtan, evrilmiş ve daha sofistike bir formda, çarpıcı ve vizyoner bir tarzda işlenmiş.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107649095573622784/img/2gMQYLVdHKbvDygI.jpg" width="600" alt="Fütüristik Grok Otoportresi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12087)**
+
+**Author:** [Oresto](https://x.com/OrestoFineArt) | **Source:** [Link](https://x.com/OrestoFineArt/status/2107649136904581556) | **Published:** Oct 7, 2026
+
+---
+### Peri Ağacı Ejderha Dönüşümü İstem
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir peri ve ağaç adamın ormanda yürüyüp birlikte uçan ejderhalara dönüştüğü fantastik bir istem.
+
+#### 📝 Prompt
+
+```
+Bir peri, ağaçtan ve yeşil sarmaşıklardan yapılmış bir adamla birlikte ormanda yürür, ardından ikisi de ejderhaya dönüşerek orman örtüsünün arasından yan yana yükselir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107639197783949312/img/oxfu7lOU6u1iSWPP.jpg" width="600" alt="Peri Ağacı Ejderha Dönüşümü İstem">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12094)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2107639303367217515) | **Published:** Oct 7, 2026
+
+---
+### Deniz Kenarı Sofra Düzeni Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Deniz manzaralı bir sofrada çorba, mısır ekmeği ve peynir bulunan bir video oluşturmak için istem.
+
+#### 📝 Prompt
+
+```
+Bir tencere çorba, mısır ekmeği dilimi, cheddar peyniri dilimi, limon dilimli su bardağı ile düzenlenmiş sofra; pencereden deniz manzarası görünüyor; dışarıda pencerede bir sinek kuşu besleyicisi ve sinek kuşu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107570017323847680/img/3hcpl4udvFnHmcR9.jpg" width="600" alt="Deniz Kenarı Sofra Düzeni Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12096)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2107570055848546450) | **Published:** Oct 6, 2026
+
+---
+### Stadyum Tifo Kalp Şekilleri Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yeşil ve beyaz devasa kalp şekilleri oluşturan bir futbol stadyumu tifo gösterisinin havadan gece çekim videosunu üretmek için bir istem.
+
+#### 📝 Prompt
+
+```
+Stadyum tifo gösterisini, tribünlerdeki taraftarların yeşil ve beyaz kartlar veya ışıklar tutarak oluşturduğu karmaşık, devasa yeşil ve beyaz kalp şekillerine dönüştürün. Dolu futbol stadyumunun genel gece havadan görünümünü, saha...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107559990793744384/img/csZu-7Se8a4_fndJ.jpg" width="600" alt="Stadyum Tifo Kalp Şekilleri Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12090)**
+
+**Author:** [Abadi](https://x.com/abadi_7577) | **Source:** [Link](https://x.com/abadi_7577/status/2107560120582574192) | **Published:** Oct 6, 2026
+
+---
+### South Park Cartman Tuvalet Tartışması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eric Cartman'ın tuvalete gitmesine izin verilmediği için öğretmenine öfkeyle küfür ettiği South Park tarzı bir video oluşturmak için detaylı istem.
+
+#### 📝 Prompt
+
+```
+[Oluşturma Hedefi]
+Eric Cartman'ın tuvalete gitmesine izin verilmediği için öğretmenine öfkeyle küfür ettiği, öğretmenin ve çevredeki öğrencilerin net tepkilerini içeren kısa, kesintisiz bir video oluşturun.
+
+[Konular ve İlişkiler]
+Eri...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107543860897288192/img/NUF68fUcm7IbwzDJ.jpg" width="600" alt="South Park Cartman Tuvalet Tartışması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12088)**
+
+**Author:** [L Bergeron](https://x.com/LBergeron335488) | **Source:** [Link](https://x.com/LBergeron335488/status/2107543904950403258) | **Published:** Oct 6, 2026
+
+---
+### Pleiadians Kutlama Videosu İstem Yönergesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hacimsel ışıklandırma ile Pleiadians kutlamalarını gösteren yüksek kaliteli bir video oluşturmak için istem yönergesi.
+
+#### 📝 Prompt
+
+```
+Pleiadians kutluyor, parlaklık, başyapıt, ultra HD kalite çözünürlük, hacimsel parlak ışıklandırma, renk tonları ve gölgelendirme
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107526181268369408/img/0HXtKPet0FselRz7.jpg" width="600" alt="Pleiadians Kutlama Videosu İstem Yönergesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12097)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2107526262461960424) | **Published:** Oct 6, 2026
+
+---
+### Nesne Dönme ve Dağılma Efekti
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir nesnenin döndüğü, karardığı, parçalandığı ve kaybolduğu bir görsel efekti tanımlayan istem.
+
+#### 📝 Prompt
+
+```
+Dönsün ve dönerken karararak parçalansın, ta ki tamamen kaybolana kadar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107481098343129088/img/5-m4qproO2Nus-4t.jpg" width="600" alt="Nesne Dönme ve Dağılma Efekti">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12091)**
+
+**Author:** [Marsha Bush](https://x.com/MarshaBush50) | **Source:** [Link](https://x.com/MarshaBush50/status/2107481130379227608) | **Published:** Oct 6, 2026
+
+---
+### Cadı Yüzlü Ağaç Korku Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir ağacın cadı yüzü ve şapkasına benzediği, ölü ağaçlar ve kargalarla çevrili korkutucu bir video sahnesi oluşturmak için detaylı istem.
+
+#### 📝 Prompt
+
+```
+Ağacı bir cadının yüzü ve şapkası gibi göster. Arkasındaki ağaçlar yapraksız ve ölü, üzerlerinde siyah kargalar var. Ruhum şu anda böyle hissediyor. Ürkütücü.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107467773622243329/img/ajYw_zJcPJQZT65j.jpg" width="600" alt="Cadı Yüzlü Ağaç Korku Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12095)**
+
+**Author:** [Marsha Bush](https://x.com/MarshaBush50) | **Source:** [Link](https://x.com/MarshaBush50/status/2107467805155307734) | **Published:** Oct 6, 2026
+
+---
 ### Fotoğrafı Chibi Anime Tarzına Dönüştür
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +364,79 @@ Bu fotoğrafı Chibi tarzına dönüştür: Kadını, büyük bir baş, iri ve i
 **Author:** [Melissa Blacknall](https://x.com/melblacknall) | **Source:** [Link](https://x.com/melblacknall/status/2107369854076678292) | **Published:** Oct 6, 2026
 
 ---
+### İnsan Irkı Cinsiyet Oyunu Konsepti
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erkek ve kadın temel özelliklerinin 'insan ırkı' başlıklı bir görselleştirmede rol oynadığı soyut bir istem.
+
+#### 📝 Prompt
+
+```
+Buna insan ırkı diyeceğiz ve erkek ile kadın temel özelliklerini göstereceğiz, bu görselleştirmenin en harika ismiyle oynamalarını sağlayacağız. Hadi yarışmayı başlatalım bebekler.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107344290301063168/img/5cmngxD3Tp_HZ5Fg.jpg" width="600" alt="İnsan Irkı Cinsiyet Oyunu Konsepti">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12092)**
+
+**Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2107344329459253589) | **Published:** Oct 6, 2026
+
+---
+### Karanlık Fantezi Savaşçı Dizisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Beyaz saçlı bir savaşçı ve gölgeli düşmanları içeren sinematik karanlık fantezi aksiyon sahnesi için son derece detaylı, çok sahneli bir istem.
+
+#### 📝 Prompt
+
+```
+Yüksek bütçeli Asya fantezi sinemasından ilham alan, 15 saniyelik sinematik dikey 9:16 formatında bir karanlık fantezi aksiyon dizisi oluşturun.
+
+Sahne 1 — 0–3s:
+Gizemli beyaz saçlı bir savaşçı, sığ ve yansıtıcı suyla çevrili sisli antik bir dağ ormanında durmaktadır. Uzun beyaz saçları rüzgarda doğal bir şekilde hareket ederken, zarif siyah-beyaz fantezi cübbeleri giymektedir. Kamera savaşçıya doğru yavaşça ilerlerken, etrafında mavi-beyaz enerji girdapları oluşmaya başlar.
+
+Sahne 2 — 3–7s:
+Birkaç gölge zırhlı savaşçı sisin içinden belirir ve öne doğru atılır. Beyaz saçlı savaşçı aniden doğaüstü bir hızla hareket ederek, parlayan mavi su ve enerjiden oluşan güçlü dairesel bir dalga yaratır. Sinematik ağır çekim, gerçekçi kumaş ve saç fiziği, havada uçuşan su damlacıkları.
+
+Sahne 3 — 7–11s:
+Yakın plan dövüş. Beyaz saçlı savaşçı, parlayan bir enerji kılıcıyla düşmanın silahını engeller. İkisinin arasında parlak mavi-beyaz bir şok dalgası patlar ve su damlacıkları ile partiküller havaya savrulur. Dinamik kamera dönüşü, dramatik çarpışma, detaylı yüz ifadeleri.
+
+Sahne 4 — 11–15s:
+Savaşçı, son ve yoğunlaştırılmış bir enerji darbesi serbest bırakır. Mavi-beyaz enerjinin devasa bir yayı suyun üzerinde süzülerek gölge savaşçıları geriye fırlatır. Parlayan partiküller etraflarına yağarken, beyaz saçlı savaşçının sis içinde sakin bir şekilde durmasıyla son bulur.
+
+Görsel stil: Fotogerçekçi sinematik fantezi, ultra detaylı karakterler, gerçekçi cilt ve saç, fiziksel olarak doğru su, hacimsel sis, dramatik ay ışığı, derin gölgeler, mavi-beyaz büyü enerjisi, gerçekçi partikül efektleri, anamorfik sinematik aydınlatma, sığ alan derinliği, akıcı kamera hareketi, yüksek bütçeli VFX, epik atmosfer.
+
+Metin yok, altyazı yok, logo yok, filigran yok, çizgi film görünümü yok, bozuk yüzler yok, fazla uzuv yok, bulanık karakterler yok. Tüm video boyunca tutarlı karakter görünümünü koruyun.
+```
+
+<img src="https://pbs.twimg.com/media/HT6204EbAAANe7C.jpg" width="600" alt="Karanlık Fantezi Savaşçı Dizisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12089)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2107322835568046132) | **Published:** Oct 6, 2026
+
+---
+### Super Intelligence Heroes Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Süper Zeka ve Uzay Kuvveti kavramlarına dayalı iki süper kahraman oluşturmak için bir istem.
+
+#### 📝 Prompt
+
+```
+Yeni Süper Zeka ve Uzay Kuvveti kavramlarına dayalı iki süper kahraman oluşturun
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107281059217833985/img/IngaFpRVHB-PdgX8.jpg" width="600" alt="Super Intelligence Heroes Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12093)**
+
+**Author:** [Mark W](https://x.com/MarkW53898272) | **Source:** [Link](https://x.com/MarkW53898272/status/2107281080583606421) | **Published:** Oct 6, 2026
+
+---
 ### Yıldızlar Altında Sessiz Orman Geçidi Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -222,7 +451,7 @@ Yıldızların altında parlayan bir ormanda sessiz bir geçiş
 Gizli bir göl, yıldızlarla dolu bir gökyüzü ve kıyıda sadece hafif bir ışık izi. Bazen en büyüleyici yerler en sessiz olanlardır. ✨🌌
 ```
 
-<img src="https://cms-assets.youmind.com/media/1791272706844_8qdz7r_HT58gjXaMAAvA3C.jpg" width="600" alt="Yıldızlar Altında Sessiz Orman Geçidi Videosu">
+<img src="https://cms-assets.youmind.com/media/1791359260478_xjjfp3_HT58gjXaMAAvA3C.jpg" width="600" alt="Yıldızlar Altında Sessiz Orman Geçidi Videosu">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12025)**
 
@@ -1998,225 +2227,6 @@ Tom Cruise performing a boring soliloquy in the role of has-been alcoholic food 
 **Author:** [(((Simon Hardy Butler)))🇺🇸🇮🇱🇺🇦](https://x.com/SimonHButler) | **Source:** [Link](https://x.com/SimonHButler/status/2103630614973096137) | **Published:** Sep 25, 2026
 
 ---
-### Avrupa Üniversitesi Vlog Video Promptu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli diyaloglar ve kamera açılarıyla gerçekçi bir 10 saniyelik üniversite vlog videosu oluşturmak için detaylı prompt.
-
-#### 📝 Prompt
-
-```
-Yağmurlu bir sabaha uyanan, kahve yapan, hazırlanan, şemsiyesini alan, ıslak şehirde yürüyen ve dersten hemen önce üniversiteye varan, yirmili yaşlarının ortasında esmer bir Avrupa kadınının 10 saniyelik ultra-gerçekçi live-action üniversite vlogunu oluşturun.
-
-Modern akıllı telefon vlog stili: doğal el hareketleri, hafif titreme, otomatik odaklama değişimleri, gerçekçi yağmur, su birikintileri, yansımalar, trafik, şemsiyeler, ıslak kıyafetler, doğal ifadeler ve inandırıcı insan hareketleri.
-
-Diyalog: "Günaydın... görünen o ki, yağmur yağıyor." → "Önce kahve. Sonra ders." → "İki dakika erken. Etkilendim." → "Tamam, yetiştim."
-
-Yalnızca doğal diegetic ses. Müzik, anlatım, CGI görünümü, yapay yağmur, yüz değişiklikleri, bozuk anatomi, imkansız fizik kuralları, altyazılar, logolar veya filigran yok.
-
-16:9 • 24fps • 4K • Ultra-gerçekçi live action
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103629375711387648/img/pC3oG5XUNPsnTjIs.jpg" width="600" alt="Avrupa Üniversitesi Vlog Video Promptu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11348)**
-
-**Author:** [Yogi](https://x.com/cyberyogiii) | **Source:** [Link](https://x.com/cyberyogiii/status/2103629403284742531) | **Published:** Sep 25, 2026
-
----
-### Sinematik Sürrealist Sekans
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Başlangıç görselinden 15 saniyelik sinematik bir sürrealist sekans oluşturmak için detaylı istem.
-
-#### 📝 Prompt
-
-```
-Bu tam başlangıç görselinden 15 saniyelik sinematik bir sürrealist sekans oluşturun. Fotoğrafsal ama imkansız niteliğini ve dikey kompozisyonunu koruyun.
-
-Mevcut garip manzara boyunca yavaş bir ileri kamera hareketiyle başlayın. Her şey...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103611709537624064/img/5lu0RjC6fleUkER1.jpg" width="600" alt="Sinematik Sürrealist Sekans">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11438)**
-
-**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2103611793473937901) | **Published:** Sep 25, 2026
-
----
-### Grok Imagine Video İstemi: Venüs'e Gülen Albatros
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Venüs'ü yansıtan okyanusun üzerinde uçan bir albatrosu betimleyen, Grok Imagine için şiirsel ve sürreal bir video istemi.
-
-#### 📝 Prompt
-
-```
-gece gökyüzünde parlayan Venüs'ün durgun okyanusa yansımasına gülen uçan bir albatros
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103600920189677568/img/X1Qa43FIrZnSXNXV.jpg" width="600" alt="Grok Imagine Video İstemi: Venüs'e Gülen Albatros">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11432)**
-
-**Author:** [@Z_&Axis](https://x.com/AlbatrossBanter) | **Source:** [Link](https://x.com/AlbatrossBanter/status/2103600940284547249) | **Published:** Sep 25, 2026
-
----
-### Eva Karikatür Tarzı Rap Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için Eva'yı karikatür tarzında betimleyen, özel anlatım ve ses talimatları içeren detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Kalbi altın gibi olan, Tanrı'dan gelen bir kapının açılmak üzere olduğu, onu ölesiye seven ve onun için her şeyi yapacak bir finansal güce sahip Elvira'ya benzeyen karikatür tarzında Eva. 30 saniyelik rap tarzı bir şarkı ile hazırla.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103595120083775488/img/bxYET1ReOpZfLJqe.jpg" width="600" alt="Eva Karikatür Tarzı Rap Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11434)**
-
-**Author:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **Source:** [Link](https://x.com/Joebutter1111/status/2103595177101361391) | **Published:** Sep 25, 2026
-
----
-### Kırmızı At Üzerinde Kanatlı Şövalye
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sarı çizgili kırmızı bir ata binen siyah kanatlı bir şövalyeyi ve etrafta uçan bir yusufçuk böceğini gösteren video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Büyük siyah tüylü kanatlara sahip şövalye, sarı çizgili kırmızı bir atın üzerinde ilerliyor; küçük sarı bir yusufçuk böceği şövalyenin miğferinin üzerinde süzülüyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103513454007189504/img/tm8hSbReTHDnz-yu.jpg" width="600" alt="Kırmızı At Üzerinde Kanatlı Şövalye">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11352)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2103513537067061561) | **Published:** Sep 25, 2026
-
----
-### Huzurlu Uyku Sinematik Çekim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir çiftin, hafif nefes alma hareketleriyle huzur içinde uyuduğunu tasvir eden bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Erkek ve kadın yatakta derin uykuda kalmaya devam ediyor. Yumuşak, nazik nefes alıp verme ile göğüslerinde hafif yükselme ve alçalma, doğal baş hareketleri, huzurla kapalı gözler, gevşemiş yüzler, loş ve sakin yatak odası aydınlatması. Fotogerçekçi sinematik yavaş ve huzurlu uyku,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103501155728863232/img/xegDEZqgqAvZJjwf.jpg" width="600" alt="Huzurlu Uyku Sinematik Çekim">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11351)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2103501201031454753) | **Published:** Sep 25, 2026
-
----
-### Grok Imagine Ön Cam Sorunu Çözümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Modelin sahneyi olduğu gibi korumasını ancak ön camın kırılmasını engellemesini isteyen bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Her şeyi olduğu gibi bırak ama ön cam kesinlikle kırılmamalı… tamam, bu daha iyi görünüyor 😅✌️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103472843597955073/img/pyYzeVZPnu-L73Xo.jpg" width="600" alt="Grok Imagine Ön Cam Sorunu Çözümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11349)**
-
-**Author:** [Johnny🛸](https://x.com/JohnnySchwifty) | **Source:** [Link](https://x.com/JohnnySchwifty/status/2103472876490011060) | **Published:** Sep 25, 2026
-
----
-### Hanadaki Dark Souls Şövalyesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlık Ruhlar tarzı zırh giyen bir şövalyenin sahneye girdiği, şaşkın göründüğü ve ayrıldığı video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Miğferinde devasa bir tüy bulunan bir şövalye, güzel Dark Souls tarzı zırhıyla sahneye girer, etrafına şaşkınca bakar ve ardından ayrılır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103453452563353600/img/5rPljdkUrSjsiYjv.jpg" width="600" alt="Hanadaki Dark Souls Şövalyesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11350)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103453550328332629) | **Published:** Sep 25, 2026
-
----
-### Grok Imagine Video İstemi: Duygusal Kedi Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kedinin kaybolması, bir kızın fotoğraf üzerinde ağlaması ve yakınlaştırma efekti içeren karmaşık anlatımlı istem; gelişmiş video hikaye anlatımı yeteneklerini gösterir.
-
-#### 📝 Prompt
-
-```
-Son kare hariç tüm görsel diziyi, mümkün olduğunca orijinal illüstrasyonlara sadık kalacak şekilde koruyun. Bunlar belirli bir gruba ait görsellerdir. Kedi kameraya doğru yürümeli; bir el onu sevmek için uzanır ama dokunmaz; el kediyi sevmeden önce kedi kaybolur. Fotoğraftaki yeşil saçlı kızın, masanın kenarındaki fotoğrafa uzanan kişi olduğu ortaya çıkar. Fotoğrafı alır ve ağlamaya başladığında üzerine bir damla gözyaşı düşer. Gözyaşı düşerken kamera, fotoğraf çerçevesine doğru zoom yapar; sanki orijinal partide canlı çekim yapıyormuş gibi hissedilir - kedi arka ayakları üzerinde dikilir ve kameraya bakar. Lütfen Tanner'ın fotogerçekçi resmini, kız ayağa kalktığında nasıl göründüğünü belirlemek için kullanın ancak lütfen onu dizinin geri kalanıyla aynı çizgi film formatında tutun, teşekkürler.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103410441728749568/img/We6onAMRk-2k7MXG.jpg" width="600" alt="Grok Imagine Video İstemi: Duygusal Kedi Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11346)**
-
-**Author:** [Hoppy Cat](https://x.com/hoppycat) | **Source:** [Link](https://x.com/hoppycat/status/2103412194285117499) | **Published:** Sep 25, 2026
-
----
-### Ahşap Tesla Cybertruck Sürüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fındık ağacı verniği kaplamalı bir Tesla Cybertruck'ın kayalık bir nehirde ilerlediği detaylı video promptu.
-
-#### 📝 Prompt
-
-```
-Kayalık bir nehirde ilerleyen bir Tesla Cybertruck; fındık renginde, gerçekçi ahşap vernik efektli vinil sargı, lastikler etrafında, aracın alt kısmında ve ön tampon çerçevesinde yer alan detaylı pirinç aksesuarlarla.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103381999214026752/img/LpSKI9EiI3YZGBN5.jpg" width="600" alt="Ahşap Tesla Cybertruck Sürüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11265)**
-
-**Author:** [Internet James](https://x.com/iminternetjames) | **Source:** [Link](https://x.com/iminternetjames/status/2103382101416624505) | **Published:** Sep 25, 2026
-
----
-### Dans Eden Karakter Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin mutlu bir şekilde dans edip şarkı söylediği ve yakın çekim gülümseme ile sonlanan bir video oluşturmak için istem. Çözünürlük ve süre için teknik ayarları içerir.
-
-#### 📝 Prompt
-
-```
-Sağlanan görsellere dayanarak şu istemi kullanarak benim için yeni bir video oluşturun: "Kişinin mutlu bir şekilde dans edip şarkı söylemesini sağlayın, ardından gülümseyen yüzüne yakınlaşın." Ayarlar: 480p, 6s, otomatik.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103273221508444160/img/WGXaTXANOIw5MXrw.jpg" width="600" alt="Dans Eden Karakter Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11354)**
-
-**Author:** [ハル．](https://x.com/HAL000111000) | **Source:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **Published:** Sep 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2278,6 +2288,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-07T05:39:57.778Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-07T15:44:14.347Z</sub>
 
 </div>

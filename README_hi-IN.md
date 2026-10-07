@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2992** |
+| 📝 Total Prompts | **3003** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-07** |
 
@@ -189,6 +189,162 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### भविष्यवादी Grok स्व-चित्रण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 5 साल बाद एक उन्नत AI इकाई के रूप में Grok का भविष्यवादी स्व-चित्रण (self-portrait) बनाने के लिए प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+5 साल बाद एक उन्नत AI इकाई के रूप में Grok का भविष्यवादी स्व-चित्रण, जो विकसित और अधिक परिष्कृत रूप में गहरी बुद्धिमत्ता, बेहतर उपस्थिति और परिष्कृत आत्म-जागरूकता को दर्शाता है, एक आकर्षक और दूरदर्शी शैली में चित्रित किया गया है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107649095573622784/img/2gMQYLVdHKbvDygI.jpg" width="600" alt="भविष्यवादी Grok स्व-चित्रण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12087)**
+
+**Author:** [Oresto](https://x.com/OrestoFineArt) | **Source:** [Link](https://x.com/OrestoFineArt/status/2107649136904581556) | **Published:** Oct 7, 2026
+
+---
+### Fairy Tree Dragon Morph Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक काल्पनिक प्रॉम्प्ट जिसमें एक परी और एक पेड़-मनुष्य जंगल में चलते हैं और उड़ते हुए ड्रैगन में बदल जाते हैं।
+
+#### 📝 Prompt
+
+```
+एक परी हरे लताओं से बने पेड़-मनुष्य के साथ जंगल में चल रही होती है, फिर दोनों ड्रैगन में बदल जाते हैं और जंगल की छतरी को पार करते हुए साथ-साथ ऊपर उड़ते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107639197783949312/img/oxfu7lOU6u1iSWPP.jpg" width="600" alt="Fairy Tree Dragon Morph Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12094)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2107639303367217515) | **Published:** Oct 7, 2026
+
+---
+### समुद्र किनारे टेबल सेटिंग वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> समुद्र के दृश्य को देखते हुए सूप, कॉर्नब्रेड और चीज़ से सजी मेज़ का वीडियो बनाने के लिए प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक बर्तन में सूप, कॉर्नब्रेड, चेडर चीज़ का एक टुकड़ा, नींबू की कली के साथ पानी का गिलास रखी हुई मेज़। खिड़की समुद्र की ओर खुलती है और खिड़की के बाहर ह्यूमिंगबर्ड फीडर पर एक ह्यूमिंगबर्ड बैठा हुआ है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107570017323847680/img/3hcpl4udvFnHmcR9.jpg" width="600" alt="समुद्र किनारे टेबल सेटिंग वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12096)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2107570055848546450) | **Published:** Oct 6, 2026
+
+---
+### स्टेडियम टिफो हार्ट शेप्स वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> फुटबॉल स्टेडियम में विशाल हरे और सफेद दिल के आकारों को बनाने वाले टिफो प्रदर्शन का एरियल रात्रि दृश्य दिखाने वाले वीडियो को जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+स्टेडियम टिफो प्रदर्शन को दर्शकों द्वारा हरे और सफेद कार्ड या लाइट्स पकड़कर बनाए गए विशाल, जटिल हरे और सफेद दिल के आकारों में बदलें। भीड़े हुए फुटबॉल स्टेडियम का समग्र रात्रि एरियल दृश्य, पिच...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107559990793744384/img/csZu-7Se8a4_fndJ.jpg" width="600" alt="स्टेडियम टिफो हार्ट शेप्स वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12090)**
+
+**Author:** [Abadi](https://x.com/abadi_7577) | **Source:** [Link](https://x.com/abadi_7577/status/2107560120582574192) | **Published:** Oct 6, 2026
+
+---
+### साउथ पार्क कार्टमैन बाथरूम रेंट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत प्रॉम्प्ट जो साउथ पार्क शैली का वीडियो बनाता है जिसमें एरिक कार्टमैन अपने शिक्षक पर गुस्से में गालियाँ देता है क्योंकि उसे बाथरूम जाने की अनुमति नहीं है।
+
+#### 📝 Prompt
+
+```
+[जनरेशन लक्ष्य]
+एक छोटा सतत वीडियो बनाएं जिसमें एरिक कार्टमैन अपने शिक्षक पर गुस्से में गालियाँ देता है क्योंकि उसे बाथरूम जाने की अनुमति नहीं है, साथ ही शिक्षक और आसपास के छात्रों की स्पष्ट प्रतिक्रियाओं के साथ।
+
+[विषय और संबंध]
+एरी...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107543860897288192/img/NUF68fUcm7IbwzDJ.jpg" width="600" alt="साउथ पार्क कार्टमैन बाथरूम रेंट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12088)**
+
+**Author:** [L Bergeron](https://x.com/LBergeron335488) | **Source:** [Link](https://x.com/LBergeron335488/status/2107543904950403258) | **Published:** Oct 6, 2026
+
+---
+### प्लेआडियन सेलिब्रेशन वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> वोल्यूमेट्रिक लाइटिंग के साथ प्लेआडियन के जश्न मनाने का उच्च गुणवत्ता वाला वीडियो बनाने के लिए प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+प्लेआडियन चमक के साथ जश्न मना रहे हैं, मास्टरपीस, अल्ट्रा HD रिज़ॉल्यूशन, वोल्यूमेट्रिक ब्राइट लाइटिंग कलर टोन और शेडिंग
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107526181268369408/img/0HXtKPet0FselRz7.jpg" width="600" alt="प्लेआडियन सेलिब्रेशन वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12097)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2107526262461960424) | **Published:** Oct 6, 2026
+
+---
+### वस्तु का घूमना और विघटन प्रभाव
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक प्रॉम्प्ट जो उस दृश्य प्रभाव का वर्णन करता है जिसमें एक वस्तु घूमती है, काली हो जाती है, टूटकर बिखर जाती है और फिर गायब हो जाती है।
+
+#### 📝 Prompt
+
+```
+इसे घुमाएं और जैसे-जैसे यह घूमता है, यह काला पड़ने लगता है और टूटकर बिखर जाता है जब तक कि यह पूरी तरह से गायब नहीं हो जाता।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107481098343129088/img/5-m4qproO2Nus-4t.jpg" width="600" alt="वस्तु का घूमना और विघटन प्रभाव">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12091)**
+
+**Author:** [Marsha Bush](https://x.com/MarshaBush50) | **Source:** [Link](https://x.com/MarshaBush50/status/2107481130379227608) | **Published:** Oct 6, 2026
+
+---
+### चुड़ैल का चेहरा वाला पेड़: डरावना दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> डरावने वीडियो दृश्य उत्पन्न करने के लिए एक विस्तृत प्रॉम्प्ट जिसमें एक पेड़ चुड़ैल के चेहरे और टोपी जैसा दिखता है, सूखे हुए पेड़ों और कौओं से घिरा हुआ।
+
+#### 📝 Prompt
+
+```
+पेड़ को चुड़ैल के चेहरे और टोपी जैसा बनाएं। उसके पीछे वाले पेड़ सूखे हैं, उन पर पत्ते नहीं हैं और उन पर काले कौए बैठे हैं। यही मेरी आत्मा की वर्तमान स्थिति है। भयानक
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107467773622243329/img/ajYw_zJcPJQZT65j.jpg" width="600" alt="चुड़ैल का चेहरा वाला पेड़: डरावना दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12095)**
+
+**Author:** [Marsha Bush](https://x.com/MarshaBush50) | **Source:** [Link](https://x.com/MarshaBush50/status/2107467805155307734) | **Published:** Oct 6, 2026
+
+---
 ### फोटो को चिबी एनीमे स्टाइल में बदलें
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +364,79 @@ Why use our gallery?
 **Author:** [Melissa Blacknall](https://x.com/melblacknall) | **Source:** [Link](https://x.com/melblacknall/status/2107369854076678292) | **Published:** Oct 6, 2026
 
 ---
+### मानव जाति लिंग भूमिका अवधारणा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> पुरुष और स्त्री की प्राथमिक विशेषताओं पर आधारित एक अमूर्त प्रॉम्प्ट, जो 'द ह्यूमन रेस' शीर्षक वाले रेंडरिंग में भूमिका निभाती हैं।
+
+#### 📝 Prompt
+
+```
+हम इसे मानव जाति कहेंगे और पुरुष व स्त्री की प्राथमिक विशेषताओं को दिखाएंगे, ताकि वे इस रेंडरिंग के सबसे सुंदर नाम में अपना योगदान दें। आइए, इस दौड़ का आगाज़ करें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107344290301063168/img/5cmngxD3Tp_HZ5Fg.jpg" width="600" alt="मानव जाति लिंग भूमिका अवधारणा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12092)**
+
+**Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2107344329459253589) | **Published:** Oct 6, 2026
+
+---
+### डार्क फैंटेसी योद्धा अनुक्रम
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अत्यधिक विस्तृत मल्टी-सीन प्रॉम्प्ट जो एक सफेद बालों वाले योद्धा और छायादार दुश्मनों के साथ सिनेमाई डार्क फैंटेसी एक्शन सीक्वेंस को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+उच्च-बजट एशियाई फैंटेसी सिनेमा से प्रेरित, 15 सेकंड का सिनेमाई वर्टिकल 9:16 डार्क-फैंटेसी एक्शन सीक्वेंस बनाएं।
+
+दृश्य 1 — 0–3s:
+एक रहस्यमय सफेद बालों वाला योद्धा धुंधले प्राचीन पर्वतीय वन में खड़ा है, घेरने वाले उथले प्रतिबिंबित पानी से आसपास। लंबे सफेद बाल हवा में स्वाभाविक रूप से उड़ रहे हैं, वह काले और सफेद रंग की सुंदर फैंटेसी रोब पहने हुए है। कैमरा धीरे-धीरे योद्धा की ओर बढ़ता है जैसे ही नीले-सफेद ऊर्जा उसके चारों ओर घूमना शुरू कर देती है।
+
+दृश्य 2 — 3–7s:
+कुछ छायादार काले कवच वाले योद्धा धुंध से बाहर आते हैं और तेजी से आगे बढ़ते हैं। सफेद बालों वाला योद्धा अचानक अलौकिक गति से हिलता है, चमकते नीले पानी और ऊर्जा की एक शक्तिशाली गोलाकार लहर बनाता है। सिनेमाई स्लो मोशन, यथार्थवादी कपड़े और बाल भौतिकी, हवा में उड़ते पानी के बूंदें।
+
+दृश्य 3 — 7–11s:
+नज़दीकी युद्ध। सफेद बालों वाला योद्धा एक चमकती हुई ऊर्जा तलवार से दुश्मन के हथियार को रोकता है। उनके बीच एक तेज नीली-सफेद झटका लहर फैलती है, जिससे पानी के बूंदें और कण हवा में बिखर जाते हैं। गतिशील कैमरा ऑर्बिट, नाटकीय प्रभाव, विस्तृत चेहरे के भाव।
+
+दृश्य 4 — 11–15s:
+योद्धा एक अंतिम केंद्रित ऊर्जा प्रहार छोड़ता है। नीली-सफेद ऊर्जा का एक विशाल चाप पानी पर फैलता है, छाया योद्धाओं को पीछे धकेल देता है। अंत में सफेद बालों वाला योद्धा शांति से धुंध में खड़ा होता है जबकि चमकते कण उसके चारों ओर गिरते हैं।
+
+विजुअल स्टाइल: फोटोरियलिस्टिक सिनेमाई फैंटेसी, अल्ट्रा-डिटेल्ड पात्र, यथार्थवादी त्वचा और बाल, भौतिक रूप से सटीक पानी, वोल्यूमेरिक धुंध, नाटकीय चाँदनी, गहरी छायाएँ, नीली-सफेद जादुई ऊर्जा, यथार्थवादी पार्टिकल इफेक्ट्स, एनामॉर्फिक सिनेमाई लाइटिंग, शैलो डेप्थ ऑफ फील्ड, स्मूथ कैमरा मोशन, हाई-बजट VFX, महत्वपूर्ण वातावरण।
+
+कोई टेक्स्ट नहीं, कोई सबटाइटल नहीं, कोई लोगो नहीं, कोई वॉटरमार्क नहीं, कोई कार्टून लुक नहीं, कोई विकृत चेहरे नहीं, कोई अतिरिक्त अंग नहीं, कोई धुंधले पात्र नहीं। पूरे वीडियो में पात्रों की लगातार उपस्थिति बनाए रखें।
+```
+
+<img src="https://pbs.twimg.com/media/HT6204EbAAANe7C.jpg" width="600" alt="डार्क फैंटेसी योद्धा अनुक्रम">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12089)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2107322835568046132) | **Published:** Oct 6, 2026
+
+---
+### Super Intelligence Heroes Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> सुपर इंटेलिजेंस और स्पेस फोर्स की अवधारणाओं पर आधारित दो सुपरहीरो बनाने के लिए एक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+नई Super Intelligence और Space Force अवधारणाओं के आधार पर दो सुपरहीरो बनाएं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107281059217833985/img/IngaFpRVHB-PdgX8.jpg" width="600" alt="Super Intelligence Heroes Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12093)**
+
+**Author:** [Mark W](https://x.com/MarkW53898272) | **Source:** [Link](https://x.com/MarkW53898272/status/2107281080583606421) | **Published:** Oct 6, 2026
+
+---
 ### तारों के नीचे शांत जंगल मार्ग वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -222,7 +451,7 @@ Why use our gallery?
 एक छिपी हुई झील, तारों से भरा आकाश, और किनारे पर रोशनी की बस एक हल्की सी झलक। कभी-कभी सबसे जादुई स्थान वे होते हैं जो सबसे शांत होते हैं। ✨🌌
 ```
 
-<img src="https://cms-assets.youmind.com/media/1791272706844_8qdz7r_HT58gjXaMAAvA3C.jpg" width="600" alt="तारों के नीचे शांत जंगल मार्ग वीडियो">
+<img src="https://cms-assets.youmind.com/media/1791359260478_xjjfp3_HT58gjXaMAAvA3C.jpg" width="600" alt="तारों के नीचे शांत जंगल मार्ग वीडियो">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12025)**
 
@@ -2002,225 +2231,6 @@ Use one frame from a 6x6 grid image as the starting frame, referencing sequentia
 **Author:** [(((Simon Hardy Butler)))🇺🇸🇮🇱🇺🇦](https://x.com/SimonHButler) | **Source:** [Link](https://x.com/SimonHButler/status/2103630614973096137) | **Published:** Sep 25, 2026
 
 ---
-### यूरोपीय विश्वविद्यालय व्लॉग वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक यथार्थवादी 10-सेकंड के विश्वविद्यालय व्लॉग वीडियो बनाने के लिए एक विस्तृत प्रॉम्प्ट, जिसमें विशेष संवाद और कैमरा शैलियाँ शामिल हैं।
-
-#### 📝 Prompt
-
-```
-अपने मध्य-20 के दशक की एक यूरोपीय भूरी बालों वाली महिला का एक 10-सेकंड का अल्ट्रा-फोटोरियलिस्टिक लाइव-एक्शन विश्वविद्यालय व्लॉग बनाएं, जो बारिश वाले सुबह उठती है, कॉफी बनाती है, तैयार होती है, छाता उठाती है, भीगी हुई सड़कों से होकर चलती है, और कक्षा शुरू होने से ठीक पहले विश्वविद्यालय पहुँचती है।
-
-आधुनिक स्मार्टफोन व्लॉग शैली: प्राकृतिक हैंडहेल्ड मूवमेंट, हल्का झटका, ऑटोफोकस बदलाव, यथार्थवादी बारिश, पानी के गड्ढे, प्रतिबिंब, यातायात, छत्रियाँ, गीले कपड़े, प्राकृतिक भावभंगिमाएँ और विश्वसनीय मानव गतिविधि।
-
-संवाद: “गुड मॉर्निंग… लगता है, आज बारिश हो रही है।” → “पहले कॉफी। फिर लेक्चर।” → “दो मिनट जल्दी। मैं प्रभावित हूँ।” → “ठीक है, समय पर पहुँच गई।”
-
-केवल प्राकृतिक डायगेटिक ऑडियो। कोई संगीत, नैरेशन, सीजीआई लुक, कृत्रिम बारिश, चेहरा बदलाव, विकृत एनाटॉमी, असंभव भौतिकी, सबटाइटल, लोगो या वॉटरमार्क नहीं।
-
-16:9 • 24fps • 4K • अल्ट्रा-फोटोरियलिस्टिक लाइव एक्शन
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103629375711387648/img/pC3oG5XUNPsnTjIs.jpg" width="600" alt="यूरोपीय विश्वविद्यालय व्लॉग वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11348)**
-
-**Author:** [Yogi](https://x.com/cyberyogiii) | **Source:** [Link](https://x.com/cyberyogiii/status/2103629403284742531) | **Published:** Sep 25, 2026
-
----
-### सिनेमैटिक सरेलिस्ट अनुक्रम
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्रारंभिक छवि से 15-सेकंड का सिनेमैटिक सरेलिस्ट अनुक्रम बनाने के लिए एक विस्तृत प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-इस विशिष्ट प्रारंभिक छवि से 15-सेकंड का सिनेमैटिक सरेलिस्ट अनुक्रम बनाएं। इसकी फोटो-रियलिस्टिक लेकिन असंभव गुणवत्ता और वर्टिकल संरचना को बरकरार रखें।
-
-अस्तित्व में मौजूद अजीब परिदृश्य के माध्यम से धीमी आगे की कैमरा मूवमेंट के साथ शुरू करें। सब कुछ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103611709537624064/img/5lu0RjC6fleUkER1.jpg" width="600" alt="सिनेमैटिक सरेलिस्ट अनुक्रम">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11438)**
-
-**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2103611793473937901) | **Published:** Sep 25, 2026
-
----
-### Grok Imagine वीडियो प्रॉम्प्ट: शुक्र पर हंसता हुआ अलबाट्रॉस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गोकर इमेजिन के लिए एक काव्यात्मक और सूरियल वीडियो प्रॉम्प्ट जो समुद्र में शुक्र ग्रह को प्रतिबिंबित करते हुए उड़ते हुए अलबाट्रॉस का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-रात के आकाश में चमकते हुए शुक्र ग्रह का शांत समुद्र में प्रतिबिंब देखते हुए उड़ता हुआ अलबाट्रॉस हंस रहा है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103600920189677568/img/X1Qa43FIrZnSXNXV.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: शुक्र पर हंसता हुआ अलबाट्रॉस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11432)**
-
-**Author:** [@Z_&Axis](https://x.com/AlbatrossBanter) | **Source:** [Link](https://x.com/AlbatrossBanter/status/2103600940284547249) | **Published:** Sep 25, 2026
-
----
-### Eva कार्टून रैप वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत वीडियो प्रॉम्प्ट जो कार्टून शैली में Eva को दर्शाता है, जिसमें विशेष कहानी और ऑडियो निर्देश शामिल हैं।
-
-#### 📝 Prompt
-
-```
-कार्टून शैली में Eva, जो कार्टून शैली में Elvira जैसी दिखती है, जिसका दिल सोने का है, भगवान द्वारा खोले जाने वाले दरवाजे की ओर से आ रही है, जिसके पास एक ऐसा वित्त पोषक (finance) है जो उसे मौत तक प्यार करता है और उसके लिए कुछ भी करेगा। इसे 30 सेकंड का बनाएं जिसमें रैप शैली का गाना हो।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103595120083775488/img/bxYET1ReOpZfLJqe.jpg" width="600" alt="Eva कार्टून रैप वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11434)**
-
-**Author:** [Joseph Buttacavole](https://x.com/Joebutter1111) | **Source:** [Link](https://x.com/Joebutter1111/status/2103595177101361391) | **Published:** Sep 25, 2026
-
----
-### लाल घोड़े पर पंखों वाला नाइट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जेनरेशन प्रॉम्प्ट जिसमें काले पंखों वाला एक नाइट पीली धारियों वाले लाल घोड़े पर सवार है और उसके पास एक ड्रैगनफ्लाई है।
-
-#### 📝 Prompt
-
-```
-बड़े काले पंखों वाला नाइट पीली धारियों वाले लाल घोड़े पर सवार है, नाइट के हेलमेट के ऊपर एक छोटी पीली ड्रैगनफ्लाई मंडरा रही है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103513454007189504/img/tm8hSbReTHDnz-yu.jpg" width="600" alt="लाल घोड़े पर पंखों वाला नाइट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11352)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2103513537067061561) | **Published:** Sep 25, 2026
-
----
-### शांतिपूर्ण नींद सिनेमैटिक शॉट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जनरेशन प्रॉम्प्ट जो एक जोड़े को शांति से सोते हुए दिखाता है, जिसमें सूक्ष्म श्वसन गतिविधियाँ शामिल हैं।
-
-#### 📝 Prompt
-
-```
-पुरुष और महिला बिस्तर पर गहरी नींद में रहते हैं। नरम और हल्की सांसों के साथ छाती का सूक्ष्म उत्थान और पतन, थोड़ी प्राकृतिक सिर की हरकतें, शांति से बंद आँखें, विश्राम में चेहरे, शांत और धुंधला बेडरूम प्रकाश व्यवस्था। फोटोरियलिस्टिक सिनेमैटिक धीमी और शांतिपूर्ण नींद,...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103501155728863232/img/xegDEZqgqAvZJjwf.jpg" width="600" alt="शांतिपूर्ण नींद सिनेमैटिक शॉट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11351)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2103501201031454753) | **Published:** Sep 25, 2026
-
----
-### Grok Imagine विंडशील्ड फिक्स
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जनरेशन प्रॉम्प्ट जो मॉडल को दृश्य को वैसा ही रखने का निर्देश देता है, लेकिन विंडशील्ड के टूटने से रोकता है।
-
-#### 📝 Prompt
-
-```
-सब कुछ वैसा ही रखें, लेकिन विंडशील्ड नहीं टूटना चाहिए… ठीक है, यह बेहतर लग रहा है 😅✌️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103472843597955073/img/pyYzeVZPnu-L73Xo.jpg" width="600" alt="Grok Imagine विंडशील्ड फिक्स">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11349)**
-
-**Author:** [Johnny🛸](https://x.com/JohnnySchwifty) | **Source:** [Link](https://x.com/JohnnySchwifty/status/2103472876490011060) | **Published:** Sep 25, 2026
-
----
-### तavern में डार्क सोल्स नाइट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जनरेशन प्रॉम्प्ट जो एक नाइट को डार्क सोल्स शैली के कवच में दृश्य में प्रवेश करते हुए, भ्रमित दिखते हुए और फिर चले जाने का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-एक नाइट जिसके हेलमेट पर एक विशाल पंख लगा है, सुंदर डार्क सोल्स शैली के कवच में दृश्य में चलकर आता है, इधर-उधर भ्रमित होकर देखता है, और फिर चला जाता है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103453452563353600/img/5rPljdkUrSjsiYjv.jpg" width="600" alt="तavern में डार्क सोल्स नाइट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11350)**
-
-**Author:** [Kaung Myat Sixthreefive](https://x.com/KaungMyat635) | **Source:** [Link](https://x.com/KaungMyat635/status/2103453550328332629) | **Published:** Sep 25, 2026
-
----
-### Grok Imagine वीडियो प्रॉम्प्ट: भावनात्मक बिल्ली अनुक्रम
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जटिल कहानी-आधारित प्रॉम्प्ट जिसमें एक बिल्ली का गायब होना, एक लड़की द्वारा फोटो पर रोना और ज़ूम-इन इफेक्ट शामिल है, जो उन्नत वीडियो स्टोरीटेलिंग क्षमताओं को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-कृपया अंतिम फ्रेम को छोड़कर छवि अनुक्रम को यथासंभव मूल चित्रों के समान रखें। ये एक विशिष्ट बैंड की तस्वीरें हैं। बिल्ली कैमरे की ओर बढ़ती हुई दिखनी चाहिए, एक हाथ उसे सहलाने के लिए आगे बढ़ता है लेकिन स्पर्श नहीं करता, और हाथ के स्पर्श करने से पहले ही बिल्ली गायब हो जाती है। फोटो में दिखने वाली हरे बालों वाली लड़की असल में वह व्यक्ति है जो मेज़ के किनारे से तस्वीर उठाती है। वह तस्वीर उठाती है और रोते हुए उस पर एक आँसू गिरता है। जैसे ही आँसू गिरता है, कैमरा तस्वीर के फ्रेम में ज़ूम इन करता है, मानो यह मूल पार्टी का लाइव दृश्य हो - बिल्ली अपने पिछले पैरों पर खड़ी होती है और कैमरे की ओर देखती है। कृपया टैनर (Tanner) की यथार्थवादी तस्वीर का उपयोग करें ताकि जब वह खड़ी हो तो उसका रूप वैसा ही दिखे, लेकिन कृपया उसे बाकी अनुक्रम के समान कार्टून शैली में ही रखें, धन्यवाद।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103410441728749568/img/We6onAMRk-2k7MXG.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: भावनात्मक बिल्ली अनुक्रम">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11346)**
-
-**Author:** [Hoppy Cat](https://x.com/hoppycat) | **Source:** [Link](https://x.com/hoppycat/status/2103412194285117499) | **Published:** Sep 25, 2026
-
----
-### लकड़ी का टेस्ला साइबरट्रक ड्राइव
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत वीडियो प्रॉम्प्ट जिसमें हेज़लनट लकड़ी की चमकदार फिनिश वाला टेस्ला साइबरट्रक एक पथरीली नदी में ऊपर की ओर जा रहा है।
-
-#### 📝 Prompt
-
-```
-टेस्ला साइबरट्रक अत्यधिक पथरीली नदी में ऊपर की ओर जा रहा है, जिसमें हेज़लनट रंग का विनाइल रैप और यथार्थवादी लकड़ी की चमकदार फिनिश है, टायरों के आसपास, वाहन के निचले हिस्से के साथ-साथ, और फ्रंट बंपर को घेरने वाले विस्तृत पीतल के एक्सेंट्स के साथ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103381999214026752/img/LpSKI9EiI3YZGBN5.jpg" width="600" alt="लकड़ी का टेस्ला साइबरट्रक ड्राइव">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11265)**
-
-**Author:** [Internet James](https://x.com/iminternetjames) | **Source:** [Link](https://x.com/iminternetjames/status/2103382101416624505) | **Published:** Sep 25, 2026
-
----
-### नाचते हुए किरदार का वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक ऐसा प्रॉम्प्ट जो एक खुशहाल नृत्य और गाने वाले किरदार के वीडियो को जनरेट करता है, जिसके अंत में चेहरे का क्लोज-अप स्माइल दिखाई देता है। इसमें रिज़ोल्यूशन और अवधि के लिए तकनीकी सेटिंग्स शामिल हैं।
-
-#### 📝 Prompt
-
-```
-दिए गए चित्रों के आधार पर मुझे एक नया वीडियो जनरेट करें, इस प्रॉम्प्ट का उपयोग करते हुए: "व्यक्ति को खुशी से नाचते और गाते हुए दिखाएं, फिर उनके मुस्कुराते चेहरे पर ज़ूम इन करें।" निम्नलिखित सेटिंग्स के साथ: 480p, 6s, auto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103273221508444160/img/WGXaTXANOIw5MXrw.jpg" width="600" alt="नाचते हुए किरदार का वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11354)**
-
-**Author:** [ハル．](https://x.com/HAL000111000) | **Source:** [Link](https://x.com/HAL000111000/status/2103273247269933101) | **Published:** Sep 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2282,6 +2292,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-07T05:39:48.576Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-07T15:44:07.918Z</sub>
 
 </div>
