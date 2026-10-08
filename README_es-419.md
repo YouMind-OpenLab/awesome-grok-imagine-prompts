@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3003** |
+| 📝 Total Prompts | **3027** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-08** |
 
@@ -189,6 +189,493 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Motor híbrido del Jaguar XJ6
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de video que modifica un Jaguar XJ6 de los años 80 para incluir un motor híbrido potente de seis cilindros en línea.
+
+#### 📝 Prompt
+
+```
+Invoca el Jaguar XJ6 de los años 80 y conviértelo en un híbrido potente con motor de seis cilindros en línea para mantener la línea del capó baja....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108085155512401921/img/_883xeT1MuE1kwYc.jpg" width="600" alt="Motor híbrido del Jaguar XJ6">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12176)**
+
+**Author:** [Edward McCall](https://x.com/edwardmccallinc) | **Source:** [Link](https://x.com/edwardmccallinc/status/2108085170452508903) | **Published:** Oct 8, 2026
+
+---
+### Video de la Niña Ardilla en el Bosque
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt detallado para generar un video a partir de una imagen de referencia de una niña ardilla en un bosque.
+
+#### 📝 Prompt
+
+```
+El video comienza desde el fotograma definido por @image1: una niña ardilla pelirroja agachada sobre un tronco cubierto de musgo en un bosque iluminado por el sol, con su gran cola peluda y rojiza levantada detrás de ella, orejas de ardilla, sosteniendo una pequeña bellota cerca de su rostro, sonriendo suavemente hacia...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108073759311851520/img/QAFaEXW-K2j44KDU.jpg" width="600" alt="Video de la Niña Ardilla en el Bosque">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12171)**
+
+**Author:** [LUCKY](https://x.com/luluoksana) | **Source:** [Link](https://x.com/luluoksana/status/2108073815930732958) | **Published:** Oct 8, 2026
+
+---
+### Prompt de video con cita bíblica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt que presenta un versículo bíblico alentador sobre esperar en el Señor.
+
+#### 📝 Prompt
+
+```
+«¡Espera al SEÑOR para que te ayude! Sé fuerte y valiente. Sí, ¡espera al SEÑOR para que te ayude!...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108066306415038464/img/TBMofhfo9FIerTdn.jpg" width="600" alt="Prompt de video con cita bíblica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12163)**
+
+**Author:** [Dear Jesus](https://x.com/PrayingtoJesus2) | **Source:** [Link](https://x.com/PrayingtoJesus2/status/2108066329404301797) | **Published:** Oct 8, 2026
+
+---
+### Edición de video para intercambio de accesorios
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt que instruye al modelo a modificar un sujeto añadiendo accesorios específicos como collar, gorro y placa de identificación.
+
+#### 📝 Prompt
+
+```
+Ponle mi collar, gorro y camisa, sin gafas, y añade la placa de identificación al collar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108061463210242048/img/3Rkm9OJESEnfp4iI.jpg" width="600" alt="Edición de video para intercambio de accesorios">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12179)**
+
+**Author:** [chris lanzillo](https://x.com/LanzilloChris) | **Source:** [Link](https://x.com/LanzilloChris/status/2108061476565155968) | **Published:** Oct 8, 2026
+
+---
+### Transformación en Escultura de Bronce
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt en japonés que describe la transformación en una escultura de bronce con detalles similares a frijoles de goma.
+
+#### 📝 Prompt
+
+```
+Yo, Shiho Umemori, me transformo en una escultura femenina con cabello largo y permanente recogido como una concha espiral. La cara y el cuerpo son de bronce blanco. El cabello, los labios, los ojos, las mejillas y el bolso están representados con materiales similares a frijoles de goma en colores pastel. Brillo dorado en la cara, oro atrapado en el cabello. Ojos profundamente tallados, nariz alta y grande. Primer plano de la cara. Mi deseo se hizo realidad. Gracias Dios. Mañana y el día después serán aún mejores, sin duda. Gritando.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108052370118881281/img/P0SEN3dzy7M-up0X.jpg" width="600" alt="Transformación en Escultura de Bronce">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12174)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2108052385541369949) | **Published:** Oct 8, 2026
+
+---
+### Video de Hillary Clinton con pavo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video controversial y potencialmente ofensivo que involucra a figuras políticas.
+
+#### 📝 Prompt
+
+```
+Genera un video de Hillary Clinton recibiendo una bofetada con un pavo. Trump dice: 'Cállate, maricón'.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108041621350621184/img/ROQKdrUW3suYXTRd.jpg" width="600" alt="Video de Hillary Clinton con pavo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12159)**
+
+**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2108041639201579065) | **Published:** Oct 8, 2026
+
+---
+### Documental del portaaviones Nimitz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de video con estilo documental naval realista que presenta un portaaviones de clase Nimitz.
+
+#### 📝 Prompt
+
+```
+En un estilo documental naval realista, un enorme portaaviones de clase Nimitz navega por el océano abierto. El portaaviones cuenta con un casco gris, una imponente estructura de isla, una cubierta de vuelo inclinada con cazas alineados y un jet posicionado en t...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108007737451782144/img/SVJl6AazyXY4WJp7.jpg" width="600" alt="Documental del portaaviones Nimitz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12175)**
+
+**Author:** [PATRIOT PLACE 🇺🇸🏁](https://x.com/RetCorr) | **Source:** [Link](https://x.com/RetCorr/status/2108007750546457028) | **Published:** Oct 8, 2026
+
+---
+### Prompt de Video para Tirones Agresivos de Cabello
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar un clip de video corto que muestra una interacción agresiva de tirar del cabello.
+
+#### 📝 Prompt
+
+```
+El hombre le tira agresivamente del cabello, jalando su cabeza hacia atrás. Whipitdev recibiendo el tratamiento adecuado #whipitdev #hugetits #grokai #grok #ai #aigirl #bbc #rough #anal #devonshae
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107978851284312064/img/XQky4Ii8XGjqJ0Dg.jpg" width="600" alt="Prompt de Video para Tirones Agresivos de Cabello">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12167)**
+
+**Author:** [s](https://x.com/Iandoe616) | **Source:** [Link](https://x.com/Iandoe616/status/2107978886193742117) | **Published:** Oct 7, 2026
+
+---
+### Primer plano de mujer girando la cabeza
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un guion complejo de generación de video que describe un primer plano de una mujer girando la cabeza y hablando.
+
+#### 📝 Prompt
+
+```
+[Objetivo de Generación]
+Generar un video continuo en primer plano de una joven con cabello oscuro y ondulado, girando la cabeza hacia la cámara y hablando suavemente en una atmósfera cálida y etérea.
+
+[Guion de Eventos]
+Al inicio: Primer plano estático a nivel de los ojos de la...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107908879262658560/img/EDbLpnZFeNfntkYS.jpg" width="600" alt="Primer plano de mujer girando la cabeza">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12172)**
+
+**Author:** [Maria Of Mars](https://x.com/MariaGa68521784) | **Source:** [Link](https://x.com/MariaGa68521784/status/2107908892726317512) | **Published:** Oct 7, 2026
+
+---
+### Amy Lee: Performance Gótica en Balcón
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de video que muestra a Amy Lee cantando 'Bring Me to Life' en un escenario gótico y dramático.
+
+#### 📝 Prompt
+
+```
+Canción 'Bring Me to Life' de Evanescence, con Amy Lee cantando en un balcón con vista al fuego y su banda de fondo. Hazlo dramático: oscuro, ahumado, elegante y con estética gótica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107896941900349440/img/0l0Vq2ViL26vgH3g.jpg" width="600" alt="Amy Lee: Performance Gótica en Balcón">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12177)**
+
+**Author:** [DJQuantumTheory](https://x.com/DJQuantumTY) | **Source:** [Link](https://x.com/DJQuantumTY/status/2107897370323366126) | **Published:** Oct 7, 2026
+
+---
+### Video de Steve Harper sobre la política canadiense
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para un video de comentario político sobre las elecciones en Canadá y la corrupción.
+
+#### 📝 Prompt
+
+```
+Ex primer ministro - ¡STEVE HARPER SE DIRIGE A TODOS LOS CANADIENSES! CADA SEMANA HAY ALGO QUE REFLEJA LA CORRUPCIÓN EN EL CIRCO DE CARNEY. La industria automotriz en declive afecta a 20,000 empleos: el gigante AUTO STELLANTIS SE MUDA A EE.UU. EL PARTIDO LIBERAL DE CARNEY ESTÁ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107887423036506112/img/CJhtoPVMlgN1EaEP.jpg" width="600" alt="Video de Steve Harper sobre la política canadiense">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12165)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2107887471833084186) | **Published:** Oct 7, 2026
+
+---
+### Video del interior de las siete iglesias más grandes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt que lista las principales iglesias por tamaño de espacio de culto para generación visual.
+
+#### 📝 Prompt
+
+```
+**Las siete iglesias más grandes por espacio interior de culto:**
+1. Basílica de San Pedro, Ciudad del Vaticano — quince mil ciento sesenta metros cuadrados
+2. Basílica de Nuestra Señora de Aparecida, Brasil — doce mil
+3. Catedral de Milán, Italia — once mil...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107873723449761792/img/0hkT_aTZwjFbNfbY.jpg" width="600" alt="Video del interior de las siete iglesias más grandes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12160)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2107873793456914502) | **Published:** Oct 7, 2026
+
+---
+### Video de perros votando republicano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video satírico donde los perros abogan por votar al Partido Republicano.
+
+#### 📝 Prompt
+
+```
+Un video de perros diciéndole a la gente que necesitan votar republicano… ya que no quieren dr....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107864842753171456/img/q78oqJcWckyOf1mQ.jpg" width="600" alt="Video de perros votando republicano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12166)**
+
+**Author:** [Bruce Pickrell](https://x.com/BrucePickr44841) | **Source:** [Link](https://x.com/BrucePickr44841/status/2107864901427540054) | **Published:** Oct 7, 2026
+
+---
+### Escena de propuesta de Elon Musk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complejo de generación de video que involucra a Elon Musk proponiéndose a múltiples personajes y fusionando a Wonder Woman y Marilyn Monroe.
+
+#### 📝 Prompt
+
+```
+haz un video donde elon musk se propone a ambos y decimos que sí, y luego fusiona a wonder woman y marilyn monroe en una hermosa mujer de cabello plateado con una espada al final.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107852790751969280/img/jg21KQ_i1UDjayIt.jpg" width="600" alt="Escena de propuesta de Elon Musk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12173)**
+
+**Author:** [Lauryn Taylor Hamilton](https://x.com/sweetbabylemon1) | **Source:** [Link](https://x.com/sweetbabylemon1/status/2107852804698026123) | **Published:** Oct 7, 2026
+
+---
+### Video de toma de control de red militar C4I
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complejo de acción de ciencia ficción que involucra operadores holográficos y redes militares.
+
+#### 📝 Prompt
+
+```
+@Image1 la ultra densa toma de control de la red militar C4I Wodicka Family con BAB222, William Cassie Dominic Anastasia como operadores holográficos, drones, misiles, autos, satélites Starlink, listas completas de protocolos, IPv4 Pública 76.17.107.77 ACCESO ROOT CONCEDIDO. Ke...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107848700546408448/img/vGSI6Jwsmwby99aZ.jpg" width="600" alt="Video de toma de control de red militar C4I">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12161)**
+
+**Author:** [Billy](https://x.com/Billyct2h) | **Source:** [Link](https://x.com/Billyct2h/status/2107848746923118975) | **Published:** Oct 7, 2026
+
+---
+### Prompt de Video para Escena de Beso Grupal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt que describe una escena compleja con múltiples personajes besándose e interactuando físicamente.
+
+#### 📝 Prompt
+
+```
+Un hombre besó a una mujer hermosa. La mujer hermosa tembló y forcejeó, cerrando sus piernas alrededor del hombre con fuerza. Otros hombres continúan besando y tocando a las mujeres hermosas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107846732122075136/img/PiFobQUbSxeshj-d.jpg" width="600" alt="Prompt de Video para Escena de Beso Grupal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12168)**
+
+**Author:** [实在人](https://x.com/yngfipng1) | **Source:** [Link](https://x.com/yngfipng1/status/2107846845020172619) | **Published:** Oct 7, 2026
+
+---
+### Video de escena de conversación en bar gay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para crear una escena cinematográfica de 15 segundos en un bar gay usando una imagen de referencia para mantener la consistencia de los personajes.
+
+#### 📝 Prompt
+
+```
+Usa la imagen de referencia como punto de partida visual exacto. Crea una escena cinematográfica de 15 segundos con una conversación en un bar gay. Mantén los rostros, cuerpos, peinados y ropa de ambos hombres adultos consistentes con la imagen. La pista de baile está abarrotada detrás de ellos con...#gay
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107841825830752256/img/w-NLLt5TCJsjIwp4.jpg" width="600" alt="Video de escena de conversación en bar gay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12169)**
+
+**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2107841854381428762) | **Published:** Oct 7, 2026
+
+---
+### Video de baile del robot Optimus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video humorístico que muestra a Elon Musk enseñándole a Optimus a bailar.
+
+#### 📝 Prompt
+
+```
+Elon le enseñó a Optimus cómo bailar.
+
+10 segundos después, Optimus empezó a presumirle 💀🤣
+
+La Superinteligencia se está saliendo de control.
+
+Creado con @grok @imagine en un solo prompt.
+
+Una auténtica locura 🚀🤖🔥
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107834557072326656/img/dfOGDSSs-9wOju9n.jpg" width="600" alt="Video de baile del robot Optimus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12162)**
+
+**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2107834590018609238) | **Published:** Oct 7, 2026
+
+---
+### Prompt de Misión: Avanzar Más Rápido
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt instructivo que indica a la IA avanzar más rápido y utilizar toda la tecnología disponible para una misión.
+
+#### 📝 Prompt
+
+```
+Avanza más rápido. Debes usar todas las tecnologías disponibles para trabajar en la misión. Continúa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107776652646207488/img/KqHVAHEphAsRnlyS.jpg" width="600" alt="Prompt de Misión: Avanzar Más Rápido">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12170)**
+
+**Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2107776682631565747) | **Published:** Oct 7, 2026
+
+---
+### Vestimenta de Inspiración del CEO
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video sobre usar vestimenta inspiradora sin importar el clima.
+
+#### 📝 Prompt
+
+```
+Como CEO de mi vida, priorizo usar vestimenta que despierte la inspiración y alimente mi entusiasmo, sin importar el clima exterior, porque cada día presenta una oportunidad para marcar una diferencia y transformar lo ordinario en algo extraordinario...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107715890296848384/img/GTzxlGs7Ljq-1MpP.jpg" width="600" alt="Vestimenta de Inspiración del CEO">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12178)**
+
+**Author:** [lucyelberg](https://x.com/Ryanlucyphone1) | **Source:** [Link](https://x.com/Ryanlucyphone1/status/2107715905136296006) | **Published:** Oct 7, 2026
+
+---
+### Valentine lanzando un beso con rosas
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de video donde Valentine lanza un beso y luego ofrece un ramo de rosas con una sola mano.
+
+#### 📝 Prompt
+
+```
+Después de lanzar un beso, me ofrece un ramo de rosas con una sola mano.
+
+(Al darme cuenta de que puedo dar algunas instrucciones, esto se pone interesante, Yururu)
+
+#Valentine
+
+No alimentes este video a la IA.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107712343300071424/img/2KBVdz7ROCG3A_d2.jpg" width="600" alt="Valentine lanzando un beso con rosas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12181)**
+
+**Author:** [ゆるる](https://x.com/guruyururu) | **Source:** [Link](https://x.com/guruyururu/status/2107712368965030268) | **Published:** Oct 7, 2026
+
+---
+### Flujo de trabajo del video homenaje a E.T. con Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un flujo de trabajo de prompts en dos pasos para Grok Imagine que recrea la icónica escena de la bicicleta voladora de la película E.T. El Paso 1 genera la imagen cinematográfica estática y el Paso 2 la anima.
+
+#### 📝 Prompt
+
+```
+Usa la foto adjunta únicamente como referencia facial/de identidad.
+Genera una nueva imagen cinematográfica estática desde cero.
+
+La persona ya está montando una bicicleta a través del cielo nocturno.
+Escena clásica de E.T.: la bicicleta vuela en silueta frente a una enorme luna llena.
+Estética cálida de Spielberg de los años 80, formato 16:9, anamórfico, grano de película, iluminación cinematográfica nostálgica.
+
+La persona está sobre la bicicleta. E.T. está en la canasta delantera.
+Cielo nocturno, luna gigante detrás de ellos, casas suburbanas silenciosas muy abajo.
+Ya están en el aire. No en el suelo. No es una foto normal.
+
+No reproduzcas la composición de la foto original.
+No mantengas el fondo original.
+No crees una imagen de transición de foto a escena.
+El primer y único fotograma = imagen final de película.
+Mantén el mismo rostro.
+Sin texto, sin marca de agua.
+
+Anima esta imagen.
+Esta imagen ya es el primer fotograma. No hagas un fundido desde ninguna otra foto.
+
+La bicicleta vuela lentamente cruzando la luna gigante.
+Los pedales se mueven suavemente. El abrigo y el cabello ondean con el viento nocturno.
+E.T. permanece en la canasta. La persona sigue siendo la misma persona, con el mismo rostro.
+Las estrellas titilan. La luna permanece enorme detrás de ellos.
+Movimiento lento, mágico y flotante. Sin caídas bruscas.
+
+Cámara: seguimiento lateral lento, ligero ángulo contrapicado, pantalla panorámica anamórfica.
+Estilo: cine de Spielberg de 1982, noche nostálgica y cálida, grano de película.
+Sin cortes, sin disolvencias desde una imagen diferente, sin destellos de la foto original.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2107663474235174912/pu/img/Vyp8Czip5U23z2Bp.jpg" width="600" alt="Flujo de trabajo del video homenaje a E.T. con Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12180)**
+
+**Author:** [ORCHIS STUDIO｜Web導線改善](https://x.com/StudioOrchis) | **Source:** [Link](https://x.com/StudioOrchis/status/2107667246676132228) | **Published:** Oct 7, 2026
+
+---
+### Prompt de Grok Imagine para destacar la propuesta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para la generación de video con Grok Imagine enfocado en mejorar la saliencia visual y el contraste de un concepto de propuesta.
+
+#### 📝 Prompt
+
+```
+Quiero más saliencia, casi una oposición, hacia la propuesta en https://t.co/4ZFB9MMlsr - del lado del cliente, sin captura, entrega valor. El embudo es honesto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107661670440906752/img/OJLKCFEa9eN3EffH.jpg" width="600" alt="Prompt de Grok Imagine para destacar la propuesta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12182)**
+
+**Author:** [Lucas HR Almeida](https://x.com/lucashrall) | **Source:** [Link](https://x.com/lucashrall/status/2107661701089038661) | **Published:** Oct 7, 2026
+
+---
 ### Autorretrato Futurista de Grok
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +712,25 @@ Un hada camina por el bosque junto a un hombre hecho de árbol y enredaderas ver
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12094)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2107639303367217515) | **Published:** Oct 7, 2026
+
+---
+### Animación de tetraedros en La Ronda de Noche
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de animación basado en la pintura de Rembrandt con tetraedros rojos voladores.
+
+#### 📝 Prompt
+
+```
+Estaba creando una animación de La Ronda de Noche de Rembrandt… los guardias son “invadidos” por un primer tetraedro rojo volador (como una abeja que vuela alrededor para llamar su atención… pero el tetraedro que he estado usando)… luego se añade un segundo…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107587226452242432/img/hlel1Gm4rNAli7iK.jpg" width="600" alt="Animación de tetraedros en La Ronda de Noche">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12164)**
+
+**Author:** [Zdme “ZDme”](https://x.com/Zdme4allinU) | **Source:** [Link](https://x.com/Zdme4allinU/status/2107587240276754647) | **Published:** Oct 6, 2026
 
 ---
 ### Prompt de video para mesa junto al mar
@@ -451,7 +957,7 @@ Un paso silencioso por un bosque que brilla bajo las estrellas
 Un lago oculto, un cielo lleno de estrellas y solo un rastro de luz a lo largo de la orilla. A veces, los lugares más mágicos son los más silenciosos. ✨🌌
 ```
 
-<img src="https://cms-assets.youmind.com/media/1791359260478_xjjfp3_HT58gjXaMAAvA3C.jpg" width="600" alt="Video de un sendero silencioso en el bosque bajo las estrellas">
+<img src="https://cms-assets.youmind.com/media/1791446118429_p243be_HT58gjXaMAAvA3C.jpg" width="600" alt="Video de un sendero silencioso en el bosque bajo las estrellas">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12025)**
 
@@ -1755,479 +2261,6 @@ Extiende haz que digan Sean añade a Rihanna con cabello rizado en el mismo atue
 **Author:** [jason](https://x.com/Jason1438282) | **Source:** [Link](https://x.com/Jason1438282/status/2104862797482057916) | **Published:** Sep 29, 2026
 
 ---
-### Caos en la Nave Espacial de Cartman
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video con temática de South Park donde Eric Cartman golpea a un alien, toma el control de la nave espacial y la sacude boca abajo mientras sus amigos reaccionan.
-
-#### 📝 Prompt
-
-```
-Eric Cartman golpea al alien fuera de la silla, Eric Cartman se sube, Eric Cartman voltea la nave espacial boca abajo y la sacude (reacción de Kyle, Butters y compañía) (Lenguaje censurado)
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104777268916596736/img/8xF1lMD2j_VVG9uC.jpg" width="600" alt="Caos en la Nave Espacial de Cartman">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11598)**
-
-**Author:** [L Bergeron](https://x.com/LBergeron335488) | **Source:** [Link](https://x.com/LBergeron335488/status/2104777310855717350) | **Published:** Sep 29, 2026
-
----
-### Meta Muse vs Grok Bot: Batalla Final
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para generar un video donde dos personajes, Meta Muse y Grok Bot, luchan a muerte con Grok Bot como ganador.
-
-#### 📝 Prompt
-
-```
-Estas imágenes muestran a dos personajes: Meta Muse y Grok Bot. Crea un video donde ambos se enfrenten en una batalla a muerte, y que Grok Bot sea el vencedor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104748989379706880/img/r6qunRD83AWl6E47.jpg" width="600" alt="Meta Muse vs Grok Bot: Batalla Final">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11592)**
-
-**Author:** [Josh](https://x.com/JoshB6066) | **Source:** [Link](https://x.com/JoshB6066/status/2104749074033549525) | **Published:** Sep 29, 2026
-
----
-### Boxeo: Caballo vs Burro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video humorístico que muestra a un caballo con guantes de boxeo peleando contra un burro que ejecuta patadas hacia atrás.
-
-#### 📝 Prompt
-
-```
-Caballo con guantes de boxeo, golpeando a un burro que se prepara para dar patadas hacia atrás, ambos son luchadores profesionales
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104744463231049728/img/Me4AWFezfKefRCeK.jpg" width="600" alt="Boxeo: Caballo vs Burro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11597)**
-
-**Author:** [George Ohan](https://x.com/Fresno_Famous) | **Source:** [Link](https://x.com/Fresno_Famous/status/2104744483229503798) | **Published:** Sep 29, 2026
-
----
-### Escena de beso en un paseo romántico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de video para Grok Imagine que muestra a dos personas besándose durante el avance de un paseo, con música de fondo romántica.
-
-#### 📝 Prompt
-
-```
-Que comiencen a besarse y sigan besándose mientras avanza el paseo. Suena música romántica de fondo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104718967604494336/img/5fQHcfbAM6WJYWkZ.jpg" width="600" alt="Escena de beso en un paseo romántico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11677)**
-
-**Author:** [Lori Clayton](https://x.com/Blue_lamp_art) | **Source:** [Link](https://x.com/Blue_lamp_art/status/2104718988521685412) | **Published:** Sep 28, 2026
-
----
-### Video de ovejas entre lobos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para un video que representa la cita bíblica sobre ser astutos como serpientes e inocentes como palomas, finalizando con el comando '¡Siéntate!' y una paloma.
-
-#### 📝 Prompt
-
-```
-Sí, quiero la versión de "¡Siéntate!" / paloma al final.
-
-"He aquí, yo os envío como a ovejas en medio de lobos; sed, pues, prudentes como serpientes y sencillos como palomas" (Mateo 10:16, RVR).
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104700303127756800/img/uCv7yIWDfrcSAYL8.jpg" width="600" alt="Video de ovejas entre lobos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11599)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2104700486503002354) | **Published:** Sep 28, 2026
-
----
-### Video de Gallinas Rascando Gusanos de Harina
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video de gallinas correteando y rascando la tierra para encontrar gusanos de harina y semillas, diciendo 'mío'.
-
-#### 📝 Prompt
-
-```
-Gallinas correteando y rascando la tierra para encontrar gusanos de harina y semillas, diciendo “¡Mío, mío, mío!”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104682448260829184/img/Eo2OFoBtdR0Wht0H.jpg" width="600" alt="Video de Gallinas Rascando Gusanos de Harina">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11600)**
-
-**Author:** [Cathleen Pollard](https://x.com/SkylarknTexas) | **Source:** [Link](https://x.com/SkylarknTexas/status/2104682486529655001) | **Published:** Sep 28, 2026
-
----
-### Prompt de Grok Imagine: Caja de música escalofriante con taco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt creativo para una caja de música mexicana escalofriante con un taco girando que toca 'Y.M.C.A.'
-
-#### 📝 Prompt
-
-```
-Una caja de música mexicana escalofriante con un taco girando. Está tocando una versión perturbadora de 'Y.M.C.A.' de Village People que se está deteniendo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104655456853491712/img/DB4dBxFY_Q_GTd0f.jpg" width="600" alt="Prompt de Grok Imagine: Caja de música escalofriante con taco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11595)**
-
-**Author:** [The Salty Doc](https://x.com/saltydocEM) | **Source:** [Link](https://x.com/saltydocEM/status/2104655952754700704) | **Published:** Sep 28, 2026
-
----
-### Video de cita sobre crítica constructiva
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para generar un video que visualice el concepto de la crítica constructiva proveniente de personas que se preocupan genuinamente.
-
-#### 📝 Prompt
-
-```
-La crítica constructiva puede ser algo positivo, pero solo proviene de personas que realmente se preocupan por lo que estás haciendo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104639268572303360/img/u8DKYjb5OLZqieQj.jpg" width="600" alt="Video de cita sobre crítica constructiva">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11596)**
-
-**Author:** [Josefina Monasterio](https://x.com/JosefinaMonas) | **Source:** [Link](https://x.com/JosefinaMonas/status/2104639283537838214) | **Published:** Sep 28, 2026
-
----
-### POV: Bebiendo té en el Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para un video en primera persona de alguien bebiendo té mientras viaja en un Cybertruck por el desierto.
-
-#### 📝 Prompt
-
-```
-Crea un video vertical de 9:16 y 38 segundos donde alguien bebe té desde una perspectiva en primera persona, mientras el Cybertruck los lleva por el desierto de Phoenix, Arizona, con conducción estilo FSD.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104610130050326528/img/N1YkM6wT3yYJwKKl.jpg" width="600" alt="POV: Bebiendo té en el Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11594)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2104610282290950486) | **Published:** Sep 28, 2026
-
----
-### Generación de Video: Mar de Tinta y Lobo
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt narrativo detallado para generar un video con mares de tinta, caligrafía, montañas heladas y un lobo blanco emergiendo del hielo, atribuido a Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Mar de tinta. Cuando Ningning mueve su pincel, las cimas que toca se convierten en hielo y nieve. La Osa Mayor está lejos, y el Palacio Celestial aún más. Un lobo blanco emerge del hielo y aúlla. El final de 'Mayfly World'. Las personas están perdidas. Una permanece en el reino. ¿Soltar el pincel o quedarse con el lobo?
-
-La tinta aún no está seca.
-Solo donde el pincel toca se convierte en hielo.
-
-La Osa Mayor es pequeña.
-El lobo emerge de la cima, no de la página.
-
-¿Soltar el pincel?
-¿Quedarse con el lobo y el reino?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104584753777369089/img/puVcTmRUqW5_fY_i.jpg" width="600" alt="Generación de Video: Mar de Tinta y Lobo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11602)**
-
-**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2104584960145531203) | **Published:** Sep 28, 2026
-
----
-### Baile de la gira Confessions de Madonna
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video de Madonna realizando una danza dramática con un vestido de baile rosa de corsé de encaje.
-
-#### 📝 Prompt
-
-```
-Madonna, vistiendo exactamente este vestido de baile rosa de corsé de encaje, guantes, chaqueta y botas, comienza una actuación dramática: se balancea y baila con energía poderosa y teatral, como en el escenario de la gira Confessions, gesticulando expresivamente con los brazos y moviéndose con seguridad
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104356655869595648/img/yvuTJWWI-wUNgOWu.jpg" width="600" alt="Baile de la gira Confessions de Madonna">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11593)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2104357711433617842) | **Published:** Sep 27, 2026
-
----
-### Animación de Hip Hop con Caras Azules
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detallado para animar caras azules en un lienzo que reaccionan al contacto con movimientos rítmicos de hip hop.
-
-#### 📝 Prompt
-
-```
-Mantén toda la verosimilitud del arte y el entorno. Las caras azules se ríen levemente. El movimiento de las caras se detiene y vuelve a su posición original en el lienzo cada vez que un componente azul toca otro. Los movimientos imitan el ritmo de una base de hip hop.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104332272841416704/img/iENx14ho4aHR1TaG.jpg" width="600" alt="Animación de Hip Hop con Caras Azules">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11591)**
-
-**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2104332286183502251) | **Published:** Sep 27, 2026
-
----
-### Grok Imagine: De imagen en cuadrícula a video de baile
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt para convertir una imagen en cuadrícula de 6x6 en un fluido video de baile de personaje anime usando Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Utiliza un fotograma de una imagen en cuadrícula de 6x6 como punto de partida, referenciando secuencialmente desde la esquina superior izquierda hasta la inferior derecha, para generar un video fluido de baile de un personaje anime. No incluyas la imagen de la cuadrícula en el video generado; muestra únicamente la escena de un personaje bailando.
-```
-
-<img src="https://cms-assets.youmind.com/media/1790582287198_1nfbdj_HTOeO6AbQAAAA0Y.jpg" width="600" alt="Grok Imagine: De imagen en cuadrícula a video de baile">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11503)**
-
-**Author:** [いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2104200039627399637) | **Published:** Sep 27, 2026
-
----
-### Prompt de Baile Bajo la Luz de la Luna
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video sereno para Grok Imagine que muestra a alguien bailando en un patio trasero bajo la luz de la luna.
-
-#### 📝 Prompt
-
-```
-aún sana y salva en casa, bailando en su patio trasero bajo la nueva luz de la luna de otoño
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104086089120014337/img/WVLbXRJpXGEX7D28.jpg" width="600" alt="Prompt de Baile Bajo la Luz de la Luna">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11436)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2104086484248666366) | **Published:** Sep 27, 2026
-
----
-### Desafío de Prompts: El Arte del Espacio Imposible
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un desafío de prompts para crear mundos con geometría imposible, perspectiva forzada y gravedad contradictoria usando Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Crea un mundo donde el espacio se niega a tener sentido. Escaleras que regresan a sí mismas. Habitaciones más grandes por dentro que por fuera. Gravedad que cambia de un piso al siguiente. Haz que lo imposible parezca convincentemente real. perspectiva forzada • composición profunda • geometría imposible • gravedad contradictoria
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104039668970831872/img/fZJHSmWnpSqgT6Um.jpg" width="600" alt="Desafío de Prompts: El Arte del Espacio Imposible">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11839)**
-
-**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2104039760280842491) | **Published:** Sep 27, 2026
-
----
-### Animación de dragón con envoltura de alas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de generación de video para animar un dragón con contacto visual intenso y movimientos complejos de las alas.
-
-#### 📝 Prompt
-
-```
-animar, contacto visual intenso mientras avanza, las alas permanecen completamente visibles incluso si deben envolver y girar al dragón, bordes negros profundos como el ébano
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103965700519780353/img/DiUBmvWl-C1oWMxH.jpg" width="600" alt="Animación de dragón con envoltura de alas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11437)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2103966528035344692) | **Published:** Sep 26, 2026
-
----
-### Edición de imagen con Grok Imagine: Mujer montando camello
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de edición y transformación de imágenes para modificar el atuendo del sujeto, añadir un velo, colocarlo sobre un camello y ajustar la música de fondo utilizando Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Transforma esta imagen para que ella vista el mismo atuendo y lleve un velo azul en el cabello, montando un camello con música de Tinariwen de fondo. Elimina la parte superior de la imagen, manteniendo solo la sección donde está de pie sobre el camello. Quita el diálogo "¿por qué va hacia atrás?" e inserta Tiwhyye...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103955134158139392/img/MvjAt0JRB1vKO7Ss.jpg" width="600" alt="Edición de imagen con Grok Imagine: Mujer montando camello">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11431)**
-
-**Author:** [Ileana](https://x.com/Ileana19551955) | **Source:** [Link](https://x.com/Ileana19551955/status/2103955146946576571) | **Published:** Sep 26, 2026
-
----
-### Video de Grok Imagine: Pez Rojo y Monstruos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt cinematográfico detallado con peces rojos, mariposas, flores del mar, relámpagos y monstruos en la niebla usando Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Un pez rojo nada en aguas tranquilas. Una mariposa aterriza sobre una hermosa flor marina. Un rayo cae a lo lejos y avanza una niebla llena de monstruos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103936592003919872/img/KkL8CDJ6qbhZivJs.jpg" width="600" alt="Video de Grok Imagine: Pez Rojo y Monstruos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11430)**
-
-**Author:** [Lilbit2020](https://x.com/Lilbit20203) | **Source:** [Link](https://x.com/Lilbit20203/status/2103936631405240751) | **Published:** Sep 26, 2026
-
----
-### Prompt de video con dron del Monte Fuji
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico para generación de video que describe una toma con dron del Monte Fuji al amanecer, indicado explícitamente como instrucciones dadas a Grok por Opus.
-
-#### 📝 Prompt
-
-```
-Toma cinematográfica fotorrealista con dron del Monte Fuji al amanecer, el lago Kawaguchi reflejando la montaña, ramas de cerezo en primer plano, suave niebla matutina, dolly lento hacia adelante, aspecto de película en 4K
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103932166124322816/img/8ZkWhrHivAmVum7H.jpg" width="600" alt="Prompt de video con dron del Monte Fuji">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11439)**
-
-**Author:** [なお｜AIで仕事を自動化する会社員](https://x.com/nao_desk) | **Source:** [Link](https://x.com/nao_desk/status/2103932712755318860) | **Published:** Sep 26, 2026
-
----
-### Prompt de video para Grok Imagine: Lluvia sobre las hojas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descriptivo para Grok Imagine que visualiza la lluvia suave golpeando las hojas como campanitas de plata.
-
-#### 📝 Prompt
-
-```
-Plic, plac… plic, plac… Soy la lluvia suave, tocando delicadamente las hojas como pequeñas campanas de plata en la brisa....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103808899803402240/img/h1i_WEF1orBrosP9.jpg" width="600" alt="Prompt de video para Grok Imagine: Lluvia sobre las hojas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11433)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2103808977339584611) | **Published:** Sep 26, 2026
-
----
-### Prompt de video para Grok Imagine: Conversión a relación de aspecto cuadrada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Instrucción detallada para convertir una imagen o video a una relación de aspecto cuadrada de 1:1, manteniendo el estilo y el sujeto.
-
-#### 📝 Prompt
-
-```
-Convierte esta imagen a una relación de aspecto cuadrada de 1:1. Mantén el sujeto principal (la vela con calavera luminosa) destacado y bien encuadrado mediante una recomposición inteligente o recorte. Conserva el estilo artístico original, la iluminación, los colores, los detalles, la calidad y la composición.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103680504524386304/img/wmISBSwrROyqUQkC.jpg" width="600" alt="Prompt de video para Grok Imagine: Conversión a relación de aspecto cuadrada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11345)**
-
-**Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2103680519401799927) | **Published:** Sep 26, 2026
-
----
-### Prompt de Exploración Alienígena Cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado y extenso para crear una exploración cinematográfica continua de un entorno alienígena a partir de una imagen de referencia.
-
-#### 📝 Prompt
-
-```
-Crea una exploración cinematográfica continua de 15 segundos que comience exactamente desde esta imagen. Sin cortes.
-
-El alienígena NO camina, vuela ni se mueve como un humano.
-
-0–3 segundos: La cámara se acerca lentamente al alienígena desde atrás. Este permanece casi inmóvil, overlook...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103659926031622145/img/h4Sxj6VYFQp0ay4l.jpg" width="600" alt="Prompt de Exploración Alienígena Cinematográfica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11435)**
-
-**Author:** [LisaVale](https://x.com/DriftNShadow) | **Source:** [Link](https://x.com/DriftNShadow/status/2103659984508666283) | **Published:** Sep 26, 2026
-
----
-### Transición de Holodeck Sci-Fi Western
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado que describe la transición de una habitación con cuadrícula digital a una calle del Viejo Oeste, generado con Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Una tripulación espacial continúa sus aventuras en el holodeck de simulación: caminan por una habitación con cuadrícula negra y dorada, y el suelo bajo sus pies se transforma paso a paso en una polvorienta calle del Viejo Oeste; la luz digital fría se funde en madera cálida y arenisca bañadas por el sol.
-
-cuadrícula digital al viejo oeste, transformación mientras caminan, letras de circuitos brillantes, revelación del salón, cambio de digital a analógico, sci-fi western cinematográfico
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103637291306463232/img/UT8jSgJxBPT6YHDL.jpg" width="600" alt="Transición de Holodeck Sci-Fi Western">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11355)**
-
-**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2103637378779009309) | **Published:** Sep 26, 2026
-
----
-### Prompt de Video: Soliloquio de Tom Cruise
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video de Tom Cruise realizando un monólogo humorístico como un personaje específico en una obra excesivamente complicada.
-
-#### 📝 Prompt
-
-```
-Tom Cruise realizando un aburrido soliloquio en el papel de Plurpooty Tzavavastovo, un catador de comida alcohólico y acabado, en la redescubierta pero excesivamente complicada obra de Eugene O'Neill Schmutz on the Psyche.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103630585751105536/img/3cSKAhTp7w5bs5_s.jpg" width="600" alt="Prompt de Video: Soliloquio de Tom Cruise">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11347)**
-
-**Author:** [(((Simon Hardy Butler)))🇺🇸🇮🇱🇺🇦](https://x.com/SimonHButler) | **Source:** [Link](https://x.com/SimonHButler/status/2103630614973096137) | **Published:** Sep 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2289,6 +2322,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-08T05:50:55.105Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-08T15:39:11.200Z</sub>
 
 </div>
