@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3027** |
+| 📝 총 프롬프트 수 | **3031** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-10-09** |
 
@@ -189,6 +189,85 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Grok Imagine 프롬프트: 우주비행사 변신
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 사용자의 사진이 로켓을 타고 발사되는 우주비행사로 변하는 Grok Imagine의 이미지-투-비디오 변환 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+저를 우주비행사로 변신시켜 로켓을 타고 이륙하는 영상으로 만들어 주세요
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg" width="600" alt="Grok Imagine 프롬프트: 우주비행사 변신">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12216)**
+
+**작성자:** [Mario](https://x.com/marioklok14) | **출처:** [Link](https://x.com/marioklok14/status/2108338102020518342) | **게시일:** Oct 8, 2026
+
+---
+### 토성-해왕성 합 무도회
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 토성과 해왕성의 합(Conjunction)이 지구에서 동시 다발적인 춤 전염병을 일으키는 우주 테마 프롬프트
+
+#### 📝 프롬프트
+
+```
+토성과 해왕성의 합을 시각화하세요:
+1. 태양계 포함
+2. 두 행성의 합이 플라즈마 에너지를 생성함
+3. 지구의 사람들이 동기화된 상태로 춤을 추는 모습 (1500년대 '춤 전염병' 참고)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg" width="600" alt="토성-해왕성 합 무도회">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12213)**
+
+**작성자:** [Zaleska Rockabay](https://x.com/zaleskha) | **출처:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **게시일:** Oct 8, 2026
+
+---
+### 시네마틱 CIA 장면 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 가죽 정장을 입은 패러디 캐릭터가 등장하는 시네마틱 와이드 장면으로 입력 내용을 변환하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 장면을 시네마틱 와이드 컷으로 변환하세요. CIA 소속 콜롬비아인 KIRA(정확히 묘사된 여성, 긴 금발 컬 헤어에 검은색 CIA 가죽 정장과 배지를 착용한 샤쿠라 패러디 룩)가 가상의 감독과의 모의 비즈니스 관계를 시연하는 모습입니다...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108319345226989568/img/gcSe0OfKXuXvPo-k.jpg" width="600" alt="시네마틱 CIA 장면 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12214)**
+
+**작성자:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **출처:** [Link](https://x.com/TheWhySpirit/status/2108319388197597268) | **게시일:** Oct 8, 2026
+
+---
+### 텍사스 초원 말 타기 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 텍사스 초원을 걸으며 아라비안 말의 고삐를 쥐고 있는 1인칭 시점 영상 프롬프트.
+
+#### 📝 프롬프트
+
+```
+저는 텍사스의 초원을 걷고 있습니다. 아름다운 아라비안 말의 고삐를 잡고 있죠. 날씨가 매우 좋습니다. 배경으로는 숲과 산이 보입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108288065676496897/img/M9175k0R4jkxj48E.jpg" width="600" alt="텍사스 초원 말 타기 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12215)**
+
+**작성자:** [Jarosław Justka](https://x.com/jaras70berlin) | **출처:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **게시일:** Oct 8, 2026
+
+---
 ### 재규어 XJ6 하이브리드 엔진
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2183,82 +2262,6 @@ TV에서 악당들이 세상을 파괴하는 동안 바에서 술을 마시는 �
 **작성자:** [TheAric](https://x.com/TheAricIs) | **출처:** [Link](https://x.com/TheAricIs/status/2104932354149994559) | **게시일:** Sep 29, 2026
 
 ---
-### Grok Imagine 비디오 프롬프트: 일론 머스크 무성 영화 패러디
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 일론 머스크가 인간들의 혼란스러운 행동을 시연하는 무성 영화 패러디를 Grok Imagine으로 생성하기 위한 비디오 프롬프트로, 옛날 스타일의 음악이 함께합니다.
-
-#### 📝 프롬프트
-
-```
-{argument name="character" default="Elon Musk"}에 대한 또 다른 무성 영화 패러디를 만들어 주세요. 인공지능 모델들을 혼란스럽게 하는 인간의 행동 중 아무 주제나 사용하세요. 오디오는 과거에 사용하던 옛날 스타일의 음악만 포함해야 합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104932088654819328/img/GpnpEa6awomlK0Hn.jpg" width="600" alt="Grok Imagine 비디오 프롬프트: 일론 머스크 무성 영화 패러디">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11663)**
-
-**작성자:** [TheAric](https://x.com/TheAricIs) | **출처:** [Link](https://x.com/TheAricIs/status/2104932108883960021) | **게시일:** Sep 29, 2026
-
----
-### 무성 영화 패러디 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> AI 를 혼란스럽게 하는 인간의 행동을 다루는 무성 영화 패러디를 제작하기 위한 복잡한 프롬프트로, 레트로 음악과 텍스트 오버레이가 포함됩니다.
-
-#### 📝 프롬프트
-
-```
-AI 를 혼란스럽게 만드는 인간의 행동 양식을 보여주는 논쟁적인 주제를 다룬 무성 영화 패러디를 만들어 주세요. 오디오는 과거에 사용되던 레트로 스타일의 음악만 포함해야 합니다. 마지막에는 해당 특성을 나타내는 단어를 0.5 초 동안 화면에 표시하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104929767463993344/img/PIg1i4-xPx1uCU9m.jpg" width="600" alt="무성 영화 패러디 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11669)**
-
-**작성자:** [TheAric](https://x.com/TheAricIs) | **출처:** [Link](https://x.com/TheAricIs/status/2104929789199237434) | **게시일:** Sep 29, 2026
-
----
-### 스타십 바지선 포착 컨셉
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 사용하여 SpaceX 스타십이 바지선에 착륙하는 컨셉 아트/비디오 프롬프트.
-
-#### 📝 프롬프트
-
-```
-바지선에서의 스타십 포착. 이 디자인을 직접 제작하고 Grok을 통해 더 정교한 버전으로 다듬었습니다. 이는 SpaceX 스타십의 바지선 포착에 대한 컨셉입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104906051812524032/img/tNi3GaLcKx1dUvdc.jpg" width="600" alt="스타십 바지선 포착 컨셉">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11662)**
-
-**작성자:** [Don Auten](https://x.com/Don_Auten) | **출처:** [Link](https://x.com/Don_Auten/status/2104915017674137715) | **게시일:** Sep 29, 2026
-
----
-### 대사 및 의상 변경 확장
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine용 후속 영상 프롬프트로, 이전 장면에 새로운 대사('Sean')와 의상 변경(라텍스)을 추가하여 확장합니다.
-
-#### 📝 프롬프트
-
-```
-확장: 'Sean'이라고 말하게 하고, 같은 의상이지만 라텍스 소재를 입은 곱슬머리의 Rihanna를 추가하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104862493436747776/img/1IfqibmsfWl1xCmZ.jpg" width="600" alt="대사 및 의상 변경 확장">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11679)**
-
-**작성자:** [jason](https://x.com/Jason1438282) | **출처:** [Link](https://x.com/Jason1438282/status/2104862797482057916) | **게시일:** Sep 29, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2320,6 +2323,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-09T05:56:19.208Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-09T15:25:48.171Z</sub>
 
 </div>

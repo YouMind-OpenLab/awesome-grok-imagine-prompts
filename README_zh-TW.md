@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3027** |
+| 📝 提示詞總數 | **3031** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-10-09** |
 
@@ -189,6 +189,85 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Grok Imagine 提示詞：變身太空人
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的圖生影片轉換提示詞，將用戶照片轉化為搭乘火箭發射升空的太空人。
+
+#### 📝 提示詞
+
+```
+將其製作成一段影片，內容為我變身成太空人並搭乘火箭起飛
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg" width="600" alt="Grok Imagine 提示詞：變身太空人">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12216)**
+
+**作者:** [Mario](https://x.com/marioklok14) | **來源:** [Link](https://x.com/marioklok14/status/2108338102020518342) | **發布時間:** Oct 8, 2026
+
+---
+### 土星海王星合相之舞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個宇宙主題的提示詞，視覺化呈現土星與海王星的合相如何在地球上引發同步的舞蹈瘟疫。
+
+#### 📝 提示詞
+
+```
+視覺化土星與海王星的合相：
+1. 包含太陽系
+2. 它們的合相產生等離子能量
+3. 地球上的人們同步跳舞（源自 1500 年代的舞蹈瘟疫）
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg" width="600" alt="土星海王星合相之舞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12213)**
+
+**作者:** [Zaleska Rockabay](https://x.com/zaleskha) | **來源:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **發布時間:** Oct 8, 2026
+
+---
+### 電影感 CIA 場景影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 將輸入內容轉換為電影感寬景鏡頭的提示詞，呈現身穿皮衣的戲仿角色。
+
+#### 📝 提示詞
+
+```
+將此轉換為電影感的寬景鏡頭，畫面中是 CIA 哥倫比亞特工 KIRA（如圖所示的女性，長著金色捲髮、身穿黑色 CIA 皮夾克並佩戴徽章的 Shakira 戲仿造型），展示她與虛構上司之間模擬的商業關係……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108319345226989568/img/gcSe0OfKXuXvPo-k.jpg" width="600" alt="電影感 CIA 場景影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12214)**
+
+**作者:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **來源:** [Link](https://x.com/TheWhySpirit/status/2108319388197597268) | **發布時間:** Oct 8, 2026
+
+---
+### 德州草原騎馬影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 影片提示：以第一人稱視角描繪在德州草原上牽著阿拉伯馬行走的場景。
+
+#### 📝 提示詞
+
+```
+我走在德州的草原上，手中牽著一匹美麗的阿拉伯馬的韁繩。天氣晴朗宜人，背景可見森林與山脈。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108288065676496897/img/M9175k0R4jkxj48E.jpg" width="600" alt="德州草原騎馬影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12215)**
+
+**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **來源:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **發布時間:** Oct 8, 2026
+
+---
 ### Jaguar XJ6 Hybrid Engine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2189,83 +2268,6 @@ Captain Apathy 以黏土動畫風格在酒吧喝酒，同時電視上播放反�
 **作者:** [TheAric](https://x.com/TheAricIs) | **來源:** [Link](https://x.com/TheAricIs/status/2104932354149994559) | **發布時間:** Sep 29, 2026
 
 ---
-### Grok Imagine 影片提示詞：Elon Musk 默片惡搞短劇
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 影片生成提示詞：打造 Elon Musk 默片惡搞短劇，展現令人困惑的人類行為，並搭配復古配樂。
-
-#### 📝 提示詞
-
-```
-請創作另一部關於 {argument name="character" default="Elon Musk"} 的默片惡搞短劇，主題可選擇任何能展現令人工智慧模型感到困惑的人類行為。
-音訊部分僅使用早期默片中常見的復古配樂。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104932088654819328/img/GpnpEa6awomlK0Hn.jpg" width="600" alt="Grok Imagine 影片提示詞：Elon Musk 默片惡搞短劇">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11663)**
-
-**作者:** [TheAric](https://x.com/TheAricIs) | **來源:** [Link](https://x.com/TheAricIs/status/2104932108883960021) | **發布時間:** Sep 29, 2026
-
----
-### 無聲電影惡搞提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個複雜的提示詞，用於創作一部關於人類行為讓 AI 感到困惑的無聲電影惡搞作品，搭配復古音樂與文字疊加效果。
-
-#### 📝 提示詞
-
-```
-請創作一部關於爭議性主題的無聲電影惡搞作品，展現那些會讓 AI 感到困惑的人類行為。音訊部分僅使用早期電影中常見的復古音樂。在影片結尾時，顯示一個持續半秒的文字，標明該特徵。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104929767463993344/img/PIg1i4-xPx1uCU9m.jpg" width="600" alt="無聲電影惡搞提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11669)**
-
-**作者:** [TheAric](https://x.com/TheAricIs) | **來源:** [Link](https://x.com/TheAricIs/status/2104929789199237434) | **發布時間:** Sep 29, 2026
-
----
-### 星艦海上回收平台概念
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用 Grok Imagine 生成的 SpaceX 星艦（Starship）海上回收平台著陸概念藝術/影片提示。
-
-#### 📝 提示詞
-
-```
-星艦在海上回收平台的捕捉畫面。我設計了這個場景並透過 Grok 進行優化，生成更精細的版本。這是關於 SpaceX 星艦（Starship）海上回收平台捕捉的概念設計。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104906051812524032/img/tNi3GaLcKx1dUvdc.jpg" width="600" alt="星艦海上回收平台概念">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11662)**
-
-**作者:** [Don Auten](https://x.com/Don_Auten) | **來源:** [Link](https://x.com/Don_Auten/status/2104915017674137715) | **發布時間:** Sep 29, 2026
-
----
-### 擴展對話與服裝變換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的後續影片提示，透過新增對白（'Sean'）與服裝變化（乳膠材質），延伸先前場景。
-
-#### 📝 提示詞
-
-```
-擴展內容：讓角色說出 Sean，並加入留著捲髮的 Rihanna，身穿相同款式的乳膠服裝
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104862493436747776/img/1IfqibmsfWl1xCmZ.jpg" width="600" alt="擴展對話與服裝變換">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11679)**
-
-**作者:** [jason](https://x.com/Jason1438282) | **來源:** [Link](https://x.com/Jason1438282/status/2104862797482057916) | **發布時間:** Sep 29, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2327,6 +2329,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-09T05:56:17.411Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-09T15:25:46.005Z</sub>
 
 </div>

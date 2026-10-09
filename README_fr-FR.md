@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3027** |
+| 📝 Total Prompts | **3031** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-09** |
 
@@ -189,6 +189,85 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Prompt : Transformation en Astronaute
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de transformation image-vidéo pour Grok Imagine où la photo d'un utilisateur se métamorphose en astronaute décollant sur une fusée.
+
+#### 📝 Prompt
+
+```
+Transforme ça en une vidéo de moi me changeant en astronaute et décollant sur ma fusée
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg" width="600" alt="Grok Imagine Prompt : Transformation en Astronaute">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12216)**
+
+**Author:** [Mario](https://x.com/marioklok14) | **Source:** [Link](https://x.com/marioklok14/status/2108338102020518342) | **Published:** Oct 8, 2026
+
+---
+### Danse de la Conjonction Saturne-Neptune
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt à thème cosmique visualisant la conjonction Saturne-Neptune provoquant une épidémie de danse synchronisée sur Terre.
+
+#### 📝 Prompt
+
+```
+Visualisez la conjonction entre Saturne et Neptune : 
+1. Inclure le système solaire
+2. Leur conjonction crée une énergie plasmatique
+3. Des personnes dansant sur Terre, synchronisées (épidémie de danse des années 1500)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg" width="600" alt="Danse de la Conjonction Saturne-Neptune">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12213)**
+
+**Author:** [Zaleska Rockabay](https://x.com/zaleskha) | **Source:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **Published:** Oct 8, 2026
+
+---
+### Vidéo de Scène Cinématographique CIA
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour transformer une entrée en une scène cinématographique grand angle mettant en vedette un personnage parodique dans un costume en cuir.
+
+#### 📝 Prompt
+
+```
+Transformez ceci en une scène cinématographique grand angle de KIRA, agent de la CIA colombienne (la femme exacte montrée, look parodique de Shakira avec de longs cheveux blonds bouclés dans un costume en cuir noir de la CIA avec badge), démontrant sa relation commerciale simulée avec le dirigeant fictif...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108319345226989568/img/gcSe0OfKXuXvPo-k.jpg" width="600" alt="Vidéo de Scène Cinématographique CIA">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12214)**
+
+**Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2108319388197597268) | **Published:** Oct 8, 2026
+
+---
+### Vidéo d'équitation dans une prairie du Texas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt vidéo illustrant une perspective à la première personne marchant dans une prairie du Texas en tenant les rênes d'un cheval arabe.
+
+#### 📝 Prompt
+
+```
+Je marche dans une prairie au Texas. Je tiens les rênes d'un magnifique cheval arabe. Le temps est magnifique. Des forêts et des montagnes sont visibles en arrière-plan.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108288065676496897/img/M9175k0R4jkxj48E.jpg" width="600" alt="Vidéo d'équitation dans une prairie du Texas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12215)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **Published:** Oct 8, 2026
+
+---
 ### Moteur hybride de la Jaguar XJ6
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2184,83 +2263,6 @@ La bande-son doit uniquement consister en une musique d'époque, comme celle uti
 **Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104932354149994559) | **Published:** Sep 29, 2026
 
 ---
-### Prompt vidéo Grok Imagine : Parodie de film muet avec Elon Musk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo pour Grok Imagine afin de créer une parodie de film muet mettant en scène Elon Musk illustrant des comportements humains déroutants, accompagné d'une musique d'époque.
-
-#### 📝 Prompt
-
-```
-Veuillez créer une autre parodie de film muet sur {argument name="character" default="Elon Musk"}, utilisant n'importe quel sujet illustrant des comportements humains qui perturbent les modèles d'intelligence artificielle. 
-La piste audio doit uniquement contenir de la musique d'époque, comme celle utilisée dans les anciens films.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104932088654819328/img/GpnpEa6awomlK0Hn.jpg" width="600" alt="Prompt vidéo Grok Imagine : Parodie de film muet avec Elon Musk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11663)**
-
-**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104932108883960021) | **Published:** Sep 29, 2026
-
----
-### Prompt de Parodie de Film Muet
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt complexe pour créer une parodie de film muet sur les comportements humains qui perturbent l'IA, avec musique d'époque et superpositions textuelles.
-
-#### 📝 Prompt
-
-```
-Veuillez créer une parodie de film muet sur un sujet controversé illustrant des comportements humains qui confondent l'IA. L'audio doit se limiter à une musique d'époque, comme celle utilisée autrefois. À la fin, affichez pendant une demi-seconde un mot identifiant le trait.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104929767463993344/img/PIg1i4-xPx1uCU9m.jpg" width="600" alt="Prompt de Parodie de Film Muet">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11669)**
-
-**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104929789199237434) | **Published:** Sep 29, 2026
-
----
-### Concept de récupération du Starship sur une barge
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt d'art conceptuel et de vidéo pour l'atterrissage du SpaceX Starship sur une barge, réalisé avec Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Récupération du Starship sur une barge. J'ai conçu ce concept et l'ai passé dans Grok pour obtenir une version plus aboutie. Il s'agit d'un concept de récupération du SpaceX Starship sur une barge.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104906051812524032/img/tNi3GaLcKx1dUvdc.jpg" width="600" alt="Concept de récupération du Starship sur une barge">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11662)**
-
-**Author:** [Don Auten](https://x.com/Don_Auten) | **Source:** [Link](https://x.com/Don_Auten/status/2104915017674137715) | **Published:** Sep 29, 2026
-
----
-### Extension du dialogue et changement de tenue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo de suivi pour Grok Imagine, prolongeant les scènes précédentes avec de nouveaux dialogues (« Sean ») et des changements de tenue (latex).
-
-#### 📝 Prompt
-
-```
-Prolongez la scène en leur faisant dire « Sean », ajoutez Rihanna avec des cheveux bouclés dans la même tenue mais en latex
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104862493436747776/img/1IfqibmsfWl1xCmZ.jpg" width="600" alt="Extension du dialogue et changement de tenue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11679)**
-
-**Author:** [jason](https://x.com/Jason1438282) | **Source:** [Link](https://x.com/Jason1438282/status/2104862797482057916) | **Published:** Sep 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2322,6 +2324,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-09T05:56:27.656Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-09T15:25:55.864Z</sub>
 
 </div>

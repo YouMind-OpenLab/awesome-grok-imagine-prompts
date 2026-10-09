@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3027** |
+| 📝 プロンプト総数 | **3031** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-10-09** |
 
@@ -189,6 +189,85 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Grok Imagine プロンプト：宇宙飛行士への変身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ユーザーの写真をロケットで発射する宇宙飛行士に変換する、Grok Imagine の画像から動画への生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+私が宇宙飛行士に変身し、ロケットで離陸する動画を作成してください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg" width="600" alt="Grok Imagine プロンプト：宇宙飛行士への変身">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12216)**
+
+**作者:** [Mario](https://x.com/marioklok14) | **ソース:** [Link](https://x.com/marioklok14/status/2108338102020518342) | **公開日:** Oct 8, 2026
+
+---
+### 土星と海王星の合相によるダンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 土星と海王星の合相が地球で同期したダンス plague を引き起こす様子を可視化する、宇宙をテーマにしたプロンプト。
+
+#### 📝 プロンプト
+
+```
+土星と海王星の合相を可視化してください:
+1. 太陽系を含める
+2. その合相がプラズマエネルギーを生み出す
+3. 地球上の人々が同期して踊る (1500年代のダンス plague)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg" width="600" alt="土星と海王星の合相によるダンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12213)**
+
+**作者:** [Zaleska Rockabay](https://x.com/zaleskha) | **ソース:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **公開日:** Oct 8, 2026
+
+---
+### シネマティック CIA シーン動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 入力内容を、革スーツを着たパロディキャラクターが登場するシネマティックなワイドシーンに変換するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+この画像を、CIA のコロンビア人 KIRA（表示されている女性そのもの、黒い CIA レザースーツにバッジを付け、長いブロンドのカーリーヘアでシャキーラ風のパロディ外見）が、架空の上司との模擬的なビジネス関係を披露しているシネマティックなワイドシーンに変換してください...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108319345226989568/img/gcSe0OfKXuXvPo-k.jpg" width="600" alt="シネマティック CIA シーン動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12214)**
+
+**作者:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **ソース:** [Link](https://x.com/TheWhySpirit/status/2108319388197597268) | **公開日:** Oct 8, 2026
+
+---
+### テキサスの牧草地で馬に乗る動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> アラブ種の馬の手綱を持ち、テキサスの牧草地を歩く一人称視点の動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+私はテキサスの牧草地を歩いています。美しいアラブ種のアラビアンホースの手綱を持っています。天気は晴れやかです。背景には森と山が見えます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108288065676496897/img/M9175k0R4jkxj48E.jpg" width="600" alt="テキサスの牧草地で馬に乗る動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12215)**
+
+**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **ソース:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **公開日:** Oct 8, 2026
+
+---
 ### ジャガー XJ6 ハイブリッドエンジン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2188,82 +2267,6 @@ Remove the hands out of the scene. Make the water into a busy highway with diffe
 **作者:** [TheAric](https://x.com/TheAricIs) | **ソース:** [Link](https://x.com/TheAricIs/status/2104932354149994559) | **公開日:** Sep 29, 2026
 
 ---
-### Grok Imagine ビデオプロンプト: Elon Musk サイレント映画パロディ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Elon Musk が人間の不可解な行動を披露するサイレント映画風パロディ動画を作成するための Grok Imagine プロンプト。レトロな音楽付き。
-
-#### 📝 プロンプト
-
-```
-{argument name="character" default="Elon Musk"} を主役にした、別のサイレント映画風パロディ動画を作成してください。テーマは、AI モデルを混乱させるような人間の行動を示すものなら何でも構いません。音声は、昔のサイレント映画で使われていたようなレトロな音楽のみとしてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104932088654819328/img/GpnpEa6awomlK0Hn.jpg" width="600" alt="Grok Imagine ビデオプロンプト: Elon Musk サイレント映画パロディ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11663)**
-
-**作者:** [TheAric](https://x.com/TheAricIs) | **ソース:** [Link](https://x.com/TheAricIs/status/2104932108883960021) | **公開日:** Sep 29, 2026
-
----
-### サイレント映画パロディのプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> AI を混乱させる人間の行動をテーマにした、古い音楽とテロップ付きのサイレント映画パロディを作成するための複雑なプロンプト。
-
-#### 📝 プロンプト
-
-```
-AI を混乱させる人間の行動を示す、物議を醸すテーマに関するサイレント映画のパロディを作成してください。音声は昔の映画で使われていたようなレトロな音楽のみとし、最後にその特徴を示す単語を半秒間表示してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104929767463993344/img/PIg1i4-xPx1uCU9m.jpg" width="600" alt="サイレント映画パロディのプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11669)**
-
-**作者:** [TheAric](https://x.com/TheAricIs) | **ソース:** [Link](https://x.com/TheAricIs/status/2104929789199237434) | **公開日:** Sep 29, 2026
-
----
-### スターシップ バージ着陸キャッチコンセプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine を使用した SpaceX スターシップのバージ着陸に関するコンセプトアート/動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-バージ上でのスターシップキャッチ。このデザインを作成し、より洗練されたバージョンにするため Grok で処理しました。これは SpaceX スターシップのバージキャッチのコンセプトです。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104906051812524032/img/tNi3GaLcKx1dUvdc.jpg" width="600" alt="スターシップ バージ着陸キャッチコンセプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11662)**
-
-**作者:** [Don Auten](https://x.com/Don_Auten) | **ソース:** [Link](https://x.com/Don_Auten/status/2104915017674137715) | **公開日:** Sep 29, 2026
-
----
-### セリフの追加と衣装変更
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine のフォローアップ動画プロンプトで、前回のシーンに新しいセリフ（'Sean'）と衣装変更（ラテックス素材）を追加します。
-
-#### 📝 プロンプト
-
-```
-彼らに 'Sean' と言わせ、同じ衣装のままラテックス素材に変更した、カーリーヘアの Rihanna を追加してください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104862493436747776/img/1IfqibmsfWl1xCmZ.jpg" width="600" alt="セリフの追加と衣装変更">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11679)**
-
-**作者:** [jason](https://x.com/Jason1438282) | **ソース:** [Link](https://x.com/Jason1438282/status/2104862797482057916) | **公開日:** Sep 29, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2325,6 +2328,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-09T05:56:18.185Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-09T15:25:47.180Z</sub>
 
 </div>

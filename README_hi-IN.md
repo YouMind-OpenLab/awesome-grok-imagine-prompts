@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3027** |
+| 📝 Total Prompts | **3031** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-09** |
 
@@ -189,6 +189,85 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine प्रॉम्प्ट: अंतरिक्ष यात्री में बदलना
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक इमेज-टू-वीडियो ट्रांसफॉर्मेशन प्रॉम्प्ट जिसमें उपयोगकर्ता की फोटो एक रॉकेट पर लॉन्च होने वाले अंतरिक्ष यात्री में बदल जाती है।
+
+#### 📝 Prompt
+
+```
+इसे मेरे अंतरिक्ष यात्री में बदलने और अपने रॉकेट से उड़ान भरने का वीडियो बनाओ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg" width="600" alt="Grok Imagine प्रॉम्प्ट: अंतरिक्ष यात्री में बदलना">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12216)**
+
+**Author:** [Mario](https://x.com/marioklok14) | **Source:** [Link](https://x.com/marioklok14/status/2108338102020518342) | **Published:** Oct 8, 2026
+
+---
+### शनि और नेपच्यून संयोग का नृत्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक ब्रह्मांडीय थीम वाला प्रॉम्प्ट जो पृथ्वी पर समन्वित नृत्य महामारी को ट्रिगर करने वाले शनि-नेपच्यून संयोग की कल्पना करता है।
+
+#### 📝 Prompt
+
+```
+शनि और नेपच्यून के संयोग की कल्पना करें: 
+1. सौर मंडल शामिल करें
+2. उनका संयोग एक प्लाज्मा ऊर्जा (plasmatic energy) उत्पन्न करता है
+3. पृथ्वी पर लोग सिंक होकर नाच रहे हैं (1500 के दशक की नृत्य महामारी)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg" width="600" alt="शनि और नेपच्यून संयोग का नृत्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12213)**
+
+**Author:** [Zaleska Rockabay](https://x.com/zaleskha) | **Source:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **Published:** Oct 8, 2026
+
+---
+### सिनेमाई CIA सीन वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक इनपुट को चमड़े के सूट में एक पैरोडी किरदार वाले सिनेमाई वाइड सीन में बदलने का प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+इसे एक सिनेमाई वाइड सीन में बदलें जिसमें CIA की कोलंबियाई KIRA (दिखाई गई सटीक महिला, लंबे सुनहरे घुंघराले बालों वाली शकीरा जैसी पैरोडी, काले CIA चमड़े के सूट और बैज के साथ) अपनी काल्पनिक ओवरलो... के साथ अपने अनुकरण किए गए व्यावसायिक संबंधों को प्रदर्शित कर रही हो।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108319345226989568/img/gcSe0OfKXuXvPo-k.jpg" width="600" alt="सिनेमाई CIA सीन वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12214)**
+
+**Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2108319388197597268) | **Published:** Oct 8, 2026
+
+---
+### टेक्सास मेडो में घोड़े की सवारी का वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक फर्स्ट-पर्सन दृष्टिकोण से टेक्सास के मेडो में अरबियन घोड़े की लगाम पकड़कर चलते हुए दिखाया गया वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+मैं टेक्सास के एक मेडो में चल रहा हूँ। मैं एक सुंदर अरबियन घोड़े की लगाम पकड़े हुए हूँ। मौसम बहुत सुहावना है। पृष्ठभूमि में जंगल और पहाड़ दिखाई दे रहे हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108288065676496897/img/M9175k0R4jkxj48E.jpg" width="600" alt="टेक्सास मेडो में घोड़े की सवारी का वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12215)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **Published:** Oct 8, 2026
+
+---
 ### जैगुआर XJ6 हाइब्रिड इंजन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2187,83 +2266,6 @@ Grok super ai: नीली और सफेद धारीदार पोल�
 **Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104932354149994559) | **Published:** Sep 29, 2026
 
 ---
-### Grok Imagine वीडियो प्रॉम्प्ट: एलन मस्क की साइलेंट मूवी पैरोडी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जनरेशन प्रॉम्प्ट जो Grok Imagine के लिए एक साइलेंट मूवी पैरोडी बनाता है, जिसमें एलन मस्क ऐसे मानव व्यवहार दिखा रहे हैं जो कृत्रिम बुद्धिमत्ता को भ्रमित करते हैं, और पुराने ज़माने का संगीत बज रहा है।
-
-#### 📝 Prompt
-
-```
-कृपया {argument name="character" default="Elon Musk"} पर आधारित एक और साइलेंट मूवी पैरोडी बनाएं, जिसमें कोई भी ऐसा विषय हो जो उन मानव व्यवहारों को दर्शाता है जो कृत्रिम बुद्धिमत्ता (AI) मॉडल्स को भ्रमित करते हैं।
-ऑडियो में केवल पुराने ज़माने का संगीत होना चाहिए, जैसे पुरानी फ़िल्मों में इस्तेमाल होता था।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104932088654819328/img/GpnpEa6awomlK0Hn.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: एलन मस्क की साइलेंट मूवी पैरोडी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11663)**
-
-**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104932108883960021) | **Published:** Sep 29, 2026
-
----
-### मूक फिल्म पैरोडी प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> पुराने ज़माने के संगीत और टेक्स्ट ओवरले के साथ, AI को भ्रमित करने वाले मानव व्यवहारों पर एक मूक फिल्म पैरोडी बनाने के लिए एक जटिल प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-कृपया एक विवादित विषय पर एक मूक फिल्म पैरोडी बनाएं जो उन मानव व्यवहारों को दर्शाती है जो AI को भ्रमित करते हैं। ऑडियो में केवल पुराने ज़माने का संगीत होना चाहिए, जैसे कि उस समय की मूक फिल्मों में होता था। अंत में, उस विशेषता को पहचानने वाला एक शब्द आधे सेकंड के लिए प्रदर्शित करें।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104929767463993344/img/PIg1i4-xPx1uCU9m.jpg" width="600" alt="मूक फिल्म पैरोडी प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11669)**
-
-**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104929789199237434) | **Published:** Sep 29, 2026
-
----
-### स्टारशिप बार्ज कैच कॉन्सेप्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine का उपयोग करके स्पेसएक्स स्टारशिप के बार्ज पर लैंडिंग की अवधारणा कला/वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-बार्ज पर स्टारशिप कैच। मैंने इसे डिज़ाइन किया और Grok के माध्यम से अधिक परिष्कृत संस्करण प्राप्त करने के लिए चलाया। यह SpaceX Starship के बार्ज कैच की एक अवधारणा है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104906051812524032/img/tNi3GaLcKx1dUvdc.jpg" width="600" alt="स्टारशिप बार्ज कैच कॉन्सेप्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11662)**
-
-**Author:** [Don Auten](https://x.com/Don_Auten) | **Source:** [Link](https://x.com/Don_Auten/status/2104915017674137715) | **Published:** Sep 29, 2026
-
----
-### संवाद और पोशाक परिवर्तन का विस्तार करें
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक फॉलो-अप वीडियो प्रॉम्प्ट जो पिछले दृश्यों को नए संवाद ('Sean') और पोशाक परिवर्तनों (लेटेक्स) के साथ विस्तारित करता है।
-
-#### 📝 Prompt
-
-```
-विस्तार करें, उन्हें Sean कहें, उसी पोशाक में लेकिन लेटेक्स में घुंघराले बालों वाली Rihanna को जोड़ें
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104862493436747776/img/1IfqibmsfWl1xCmZ.jpg" width="600" alt="संवाद और पोशाक परिवर्तन का विस्तार करें">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11679)**
-
-**Author:** [jason](https://x.com/Jason1438282) | **Source:** [Link](https://x.com/Jason1438282/status/2104862797482057916) | **Published:** Sep 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2325,6 +2327,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-09T05:56:23.042Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-09T15:25:51.811Z</sub>
 
 </div>

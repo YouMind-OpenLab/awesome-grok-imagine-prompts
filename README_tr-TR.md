@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3027** |
+| 📝 Total Prompts | **3031** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-09** |
 
@@ -189,6 +189,85 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine İstemi: Astronota Dönüşme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için bir fotoğraftan videoya dönüşüm istemi: Kullanıcının fotoğrafı, roketle fırlayan bir astronota dönüşür.
+
+#### 📝 Prompt
+
+```
+Beni astronota dönüşen ve roketimle havalanan bir videoya çevir
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg" width="600" alt="Grok Imagine İstemi: Astronota Dönüşme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12216)**
+
+**Author:** [Mario](https://x.com/marioklok14) | **Source:** [Link](https://x.com/marioklok14/status/2108338102020518342) | **Published:** Oct 8, 2026
+
+---
+### Satürn Neptün Kavuşumu Dansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Satürn-Neptün kavuşumunun Dünya'da senkronize bir dans vebasına neden olmasını görselleştiren kozmik temalı istem.
+
+#### 📝 Prompt
+
+```
+Satürn ve Neptün kavuşumunu görselleştirin: 
+1. Güneş Sistemi'ni dahil edin
+2. Kavuşumları plazmatik bir enerji yaratır
+3. Dünya'daki insanlar senkronize şekilde dans ediyor (1500'lerden kalma Dans Vebası)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg" width="600" alt="Satürn Neptün Kavuşumu Dansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12213)**
+
+**Author:** [Zaleska Rockabay](https://x.com/zaleskha) | **Source:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **Published:** Oct 8, 2026
+
+---
+### Sinematik CIA Sahne Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Giriş verisini, deri takım elbiseli bir parodi karakterin yer aldığı sinematik geniş bir sahneye dönüştürmek için kullanılan istem.
+
+#### 📝 Prompt
+
+```
+Bunu, uzun sarı kıvırcık saçlı ve siyah CIA deri takım elbisesiyle rozet takan (görseldeki kadının aynısı, Shakira parodisi) Kolombiyalı KIRA'nın, kurgusal üst makamlarla simüle edilmiş iş ilişkisini sergilediği sinematik geniş bir sahneye dönüştürün...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108319345226989568/img/gcSe0OfKXuXvPo-k.jpg" width="600" alt="Sinematik CIA Sahne Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12214)**
+
+**Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2108319388197597268) | **Published:** Oct 8, 2026
+
+---
+### Teksas Çayırında At Binme Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir Arap atının dizginlerini tutarak Teksas çayırında yürüyen birinci şahıs perspektifini tasvir eden video istemi.
+
+#### 📝 Prompt
+
+```
+Teksas'ta bir çayırda yürüyorum. Güzel bir Arap atının dizginlerini tutuyorum. Hava harika. Arka planda ormanlar ve dağlar görünüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108288065676496897/img/M9175k0R4jkxj48E.jpg" width="600" alt="Teksas Çayırında At Binme Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12215)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **Published:** Oct 8, 2026
+
+---
 ### Jaguar XJ6 Hibrit Motor
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2184,82 +2263,6 @@ Lütfen Elon Musk'ın başrolünde olduğu, yapay zeka modellerini şaşırtan i
 **Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104932354149994559) | **Published:** Sep 29, 2026
 
 ---
-### Grok Imagine Video İstemi: Elon Musk Sessiz Film Parodisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Elon Musk'ın yapay zeka modellerini şaşırtan insan davranışlarını sergilediği ve eski tarz müziklerle eşlik edilen bir sessiz film parodisi oluşturmak için Grok Imagine video üretim istemi.
-
-#### 📝 Prompt
-
-```
-{argument name="character" default="Elon Musk"} hakkında, Yapay Zeka modellerini şaşırtan insan davranışlarını gösteren herhangi bir konuyu ele alan başka bir parodi sessiz film oluşturun. Seslendirme sadece eskiden kullanılan eski tarz müziklerden oluşmalıdır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104932088654819328/img/GpnpEa6awomlK0Hn.jpg" width="600" alt="Grok Imagine Video İstemi: Elon Musk Sessiz Film Parodisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11663)**
-
-**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104932108883960021) | **Published:** Sep 29, 2026
-
----
-### Sessiz Film Parodisi İstem Promptu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eski tarz müzik ve metin katmanları eşliğinde, yapay zekayı şaşırtan insan davranışlarını konu alan bir sessiz film parodisi oluşturmak için kullanılan karmaşık bir istem.
-
-#### 📝 Prompt
-
-```
-Yapay zekayı şaşırtan insan davranışlarını sergileyen, tartışmalı bir konuya odaklanan bir sessiz film parodisi oluşturun. Ses sadece eski günlerdeki gibi nostaljik bir müzik olsun. Filmin sonunda, ilgili özelliği tanımlayan yarım saniyelik bir kelime gösterin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104929767463993344/img/PIg1i4-xPx1uCU9m.jpg" width="600" alt="Sessiz Film Parodisi İstem Promptu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11669)**
-
-**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104929789199237434) | **Published:** Sep 29, 2026
-
----
-### Starship Barge Yakalama Konsepti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine kullanılarak SpaceX Starship'in bargede iniş yapmasına yönelik konsept sanatı/video istemi.
-
-#### 📝 Prompt
-
-```
-Bargede Starship yakalama. Bu tasarımı oluşturdum ve daha rafine bir versiyon için Grok'tan geçirdim. SpaceX Starship'in barge üzerinde yakalanmasına dair bir konsept.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104906051812524032/img/tNi3GaLcKx1dUvdc.jpg" width="600" alt="Starship Barge Yakalama Konsepti">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11662)**
-
-**Author:** [Don Auten](https://x.com/Don_Auten) | **Source:** [Link](https://x.com/Don_Auten/status/2104915017674137715) | **Published:** Sep 29, 2026
-
----
-### Diyaloğu ve Kıyafet Değişikliğini Genişlet
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için önceki sahneleri yeni diyaloglar ('Sean') ve kıyafet değişiklikleri (lateks) ile genişleten bir takip video istemi.
-
-#### 📝 Prompt
-
-```
-Genişlet, Sean desinler, aynı kıyafette ama lateks olan Rihanna'yı kıvırcık saçlı olarak ekle
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104862493436747776/img/1IfqibmsfWl1xCmZ.jpg" width="600" alt="Diyaloğu ve Kıyafet Değişikliğini Genişlet">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11679)**
-
-**Author:** [jason](https://x.com/Jason1438282) | **Source:** [Link](https://x.com/Jason1438282/status/2104862797482057916) | **Published:** Sep 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2321,6 +2324,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-09T05:56:34.071Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-09T15:25:59.733Z</sub>
 
 </div>

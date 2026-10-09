@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3027** |
+| 📝 提示词总数 | **3031** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-10-09** |
 
@@ -189,6 +189,85 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Grok Imagine 提示词：变身宇航员
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 适用于 Grok Imagine 的图生视频转换提示词，可将用户照片变形为乘坐火箭发射升空的宇航员。
+
+#### 📝 提示词
+
+```
+将其转换为一段视频，展示我变成宇航员并乘坐火箭起飞的过程
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg" width="600" alt="Grok Imagine 提示词：变身宇航员">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12216)**
+
+**作者:** [Mario](https://x.com/marioklok14) | **来源:** [Link](https://x.com/marioklok14/status/2108338102020518342) | **发布时间:** Oct 8, 2026
+
+---
+### 土星与海王星合相之舞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个以宇宙为主题的提示词，可视化土星与海王星的合相在地球上引发同步舞蹈瘟疫的场景。
+
+#### 📝 提示词
+
+```
+可视化土星与海王星的合相：
+1. 包含太阳系
+2. 它们的合相产生等离子能量
+3. 地球上的人们同步跳舞（源自 16 世纪的舞蹈瘟疫）
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg" width="600" alt="土星与海王星合相之舞">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12213)**
+
+**作者:** [Zaleska Rockabay](https://x.com/zaleskha) | **来源:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **发布时间:** Oct 8, 2026
+
+---
+### 电影感 CIA 场景视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 将输入内容转化为电影感宽景镜头的提示词，展示一位身穿皮衣的恶搞角色。
+
+#### 📝 提示词
+
+```
+将此转化为一个电影感的宽景镜头，展示 CIA 哥伦比亚特工 KIRA（即图中所示的女性，模仿 Shakira 的造型，留着金色长卷发，身穿带有徽章的黑色 CIA 皮衣），演示她与虚构统治者之间的模拟商业关系……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108319345226989568/img/gcSe0OfKXuXvPo-k.jpg" width="600" alt="电影感 CIA 场景视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12214)**
+
+**作者:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **来源:** [Link](https://x.com/TheWhySpirit/status/2108319388197597268) | **发布时间:** Oct 8, 2026
+
+---
+### 德克萨斯州草原骑马视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 第一人称视角视频提示：在德克萨斯州草原上漫步，手持阿拉伯马缰绳。
+
+#### 📝 提示词
+
+```
+我正漫步在德克萨斯州的草原上。手中牵着一匹美丽的阿拉伯马的缰绳。天气晴朗宜人，背景中可见森林与山脉。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108288065676496897/img/M9175k0R4jkxj48E.jpg" width="600" alt="德克萨斯州草原骑马视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12215)**
+
+**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **来源:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **发布时间:** Oct 8, 2026
+
+---
 ### 捷豹 XJ6 混合动力引擎
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2189,83 +2268,6 @@ Grok Super AI：Lacoste 鳄鱼刺绣于蓝白条纹 Polo 衫上，鳄鱼眨着�
 **作者:** [TheAric](https://x.com/TheAricIs) | **来源:** [Link](https://x.com/TheAricIs/status/2104932354149994559) | **发布时间:** Sep 29, 2026
 
 ---
-### Grok Imagine 视频提示词：埃隆·马斯克默片恶搞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 视频生成提示词：埃隆·马斯克默片恶搞，展示令人困惑的人类行为并配以复古音乐。
-
-#### 📝 提示词
-
-```
-请创作另一部关于 {argument name="character" default="Elon Musk"} 的恶搞默片，主题可以是任何让人工智能模型感到困惑的人类行为。
-音频仅使用过去那种老式配乐。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104932088654819328/img/GpnpEa6awomlK0Hn.jpg" width="600" alt="Grok Imagine 视频提示词：埃隆·马斯克默片恶搞">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11663)**
-
-**作者:** [TheAric](https://x.com/TheAricIs) | **来源:** [Link](https://x.com/TheAricIs/status/2104932108883960021) | **发布时间:** Sep 29, 2026
-
----
-### 默片恶搞提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于创作关于人类行为让 AI 感到困惑的默片恶搞视频的复杂提示词，包含复古音乐和文字叠加效果。
-
-#### 📝 提示词
-
-```
-请创作一部关于争议话题的默片恶搞视频，展示那些让人工智能（AI）感到困惑的人类行为。音频仅使用过去那种复古风格的音乐。在视频结尾，显示一个持续半秒的词语来标识该特征。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104929767463993344/img/PIg1i4-xPx1uCU9m.jpg" width="600" alt="默片恶搞提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11669)**
-
-**作者:** [TheAric](https://x.com/TheAricIs) | **来源:** [Link](https://x.com/TheAricIs/status/2104929789199237434) | **发布时间:** Sep 29, 2026
-
----
-### 星舰驳船捕获概念
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用 Grok Imagine 生成的 SpaceX 星舰在驳船上着陆的概念艺术/视频提示词。
-
-#### 📝 提示词
-
-```
-星舰在驳船上的捕获画面。我设计了这一概念，并通过 Grok 进行了优化处理。这是关于 SpaceX 星舰在驳船上进行捕获的概念设计。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104906051812524032/img/tNi3GaLcKx1dUvdc.jpg" width="600" alt="星舰驳船捕获概念">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11662)**
-
-**作者:** [Don Auten](https://x.com/Don_Auten) | **来源:** [Link](https://x.com/Don_Auten/status/2104915017674137715) | **发布时间:** Sep 29, 2026
-
----
-### 扩展对话与服装更换
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于 Grok Imagine 的后续视频提示词，在原有场景基础上添加新对话（'Sean'）及服装变化（乳胶材质）。
-
-#### 📝 提示词
-
-```
-扩展内容：让他们说出 Sean，并加入留着卷发的 Rihanna，穿着相同款式的服装但改为乳胶材质
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104862493436747776/img/1IfqibmsfWl1xCmZ.jpg" width="600" alt="扩展对话与服装更换">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11679)**
-
-**作者:** [jason](https://x.com/Jason1438282) | **来源:** [Link](https://x.com/Jason1438282/status/2104862797482057916) | **发布时间:** Sep 29, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2327,6 +2329,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-09T05:56:16.191Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-09T15:25:44.837Z</sub>
 
 </div>

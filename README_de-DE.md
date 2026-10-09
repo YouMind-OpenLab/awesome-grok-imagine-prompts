@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3027** |
+| 📝 Total Prompts | **3031** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-09** |
 
@@ -189,6 +189,85 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Prompt: Verwandlung in einen Astronauten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Bild-zu-Video-Prompt für Grok Imagine, bei dem das Foto eines Nutzers in einen Astronauten verwandelt wird, der mit einer Rakete abhebt.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Video davon, wie ich mich in einen Astronauten verwandle und mit meiner Rakete abhebe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg" width="600" alt="Grok Imagine Prompt: Verwandlung in einen Astronauten">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12216)**
+
+**Author:** [Mario](https://x.com/marioklok14) | **Source:** [Link](https://x.com/marioklok14/status/2108338102020518342) | **Published:** Oct 8, 2026
+
+---
+### Saturn-Neptun-Konjunktion Tanz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kosmisches Prompt, das die Saturn-Neptun-Konjunktion visualisiert und eine synchronisierte Tanzplage auf der Erde auslöst.
+
+#### 📝 Prompt
+
+```
+Visualisieren Sie die Konjunktion von Saturn und Neptun:
+1. Integrieren Sie das Sonnensystem
+2. Ihre Konjunktion erzeugt eine plasmatische Energie
+3. Menschen tanzen auf der Erde synchronisiert (Tanzplage aus dem 16. Jahrhundert)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg" width="600" alt="Saturn-Neptun-Konjunktion Tanz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12213)**
+
+**Author:** [Zaleska Rockabay](https://x.com/zaleskha) | **Source:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **Published:** Oct 8, 2026
+
+---
+### Cinematic CIA Scene Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Umwandlung einer Eingabe in eine kinoreife Weitwinkel-Szene mit einer Parodie-Figur im Lederanzug.
+
+#### 📝 Prompt
+
+```
+Wandeln Sie dies in eine kinoreife Weitwinkel-Szene um, die die kolumbianische CIA-Agentin KIRA zeigt (die exakt abgebildete Frau, eine Shakira-Parodie mit langen blonden Locken und schwarzem CIA-Lederanzug samt Abzeichen), die ihre simulierte Geschäftsbeziehung mit dem fiktiven Über...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108319345226989568/img/gcSe0OfKXuXvPo-k.jpg" width="600" alt="Cinematic CIA Scene Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12214)**
+
+**Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2108319388197597268) | **Published:** Oct 8, 2026
+
+---
+### Texas Meadow Horse Riding Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video prompt depicting a first-person perspective walking through a Texas meadow holding reins of an Arabian horse.
+
+#### 📝 Prompt
+
+```
+I'm walking through a meadow in Texas. I'm holding the reins of a beautiful Arabian horse. The weather is beautiful. Forests and mountains are visible in the background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108288065676496897/img/M9175k0R4jkxj48E.jpg" width="600" alt="Texas Meadow Horse Riding Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12215)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **Published:** Oct 8, 2026
+
+---
 ### Jaguar XJ6 Hybrid-Motor
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2186,83 +2265,6 @@ Der Ton besteht ausschließlich aus altertümlicher Musik, wie sie früher übli
 **Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104932354149994559) | **Published:** Sep 29, 2026
 
 ---
-### Grok Imagine Video-Prompt: Elon Musk Stummfilm-Parodie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungsprompt für Grok Imagine zur Erstellung einer Stummfilm-Parodie mit Elon Musk, die verwirrendes menschliches Verhalten demonstriert, begleitet von altertümlicher Musik.
-
-#### 📝 Prompt
-
-```
-Bitte erstellen Sie eine weitere Parodie eines Stummfilms über {argument name="character" default="Elon Musk"}, die ein beliebtes Thema zeigt, bei dem menschliche Verhaltensweisen künstliche Intelligenzmodelle verwirren.
-Der Ton besteht nur aus altertümlicher Musik, wie sie früher üblich war.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104932088654819328/img/GpnpEa6awomlK0Hn.jpg" width="600" alt="Grok Imagine Video-Prompt: Elon Musk Stummfilm-Parodie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11663)**
-
-**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104932108883960021) | **Published:** Sep 29, 2026
-
----
-### Stummfilm-Parodie-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer Prompt zur Erstellung einer Stummfilm-Parodie über menschliches Verhalten, das KI verwirrt, mit nostalgischer Musik und Texteinblendungen.
-
-#### 📝 Prompt
-
-```
-Bitte erstellen Sie eine Parodie-Stummfilm über ein kontroverses Thema, der menschliche Verhaltensweisen zeigt, die KI verwirren. Der Ton besteht nur aus altertümlicher Musik, wie sie früher üblich war. Am Ende wird für eine halbe Sekunde ein Wort eingeblendet, das den jeweiligen Charakterzug benennt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104929767463993344/img/PIg1i4-xPx1uCU9m.jpg" width="600" alt="Stummfilm-Parodie-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11669)**
-
-**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104929789199237434) | **Published:** Sep 29, 2026
-
----
-### Konzept für Starship-Barge-Fang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Konzept-Art-/Video-Prompt für die Landung der SpaceX Starship auf einer Barge mit Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Starship-Fang auf einer Barge. Ich habe dieses Design erstellt und es durch Grok laufen lassen, um eine verfeinerte Version zu erhalten. Es handelt sich um ein Konzept für einen Barge-Fang der SpaceX Starship.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104906051812524032/img/tNi3GaLcKx1dUvdc.jpg" width="600" alt="Konzept für Starship-Barge-Fang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11662)**
-
-**Author:** [Don Auten](https://x.com/Don_Auten) | **Source:** [Link](https://x.com/Don_Auten/status/2104915017674137715) | **Published:** Sep 29, 2026
-
----
-### Dialog erweitern und Outfit wechseln
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein nachfolgender Video-Prompt für Grok Imagine, der vorherige Szenen mit neuem Dialog ('Sean') und Outfit-Änderungen (Latex) erweitert.
-
-#### 📝 Prompt
-
-```
-Erweitern: Lassen Sie sie 'Sean' sagen. Fügen Sie Rihanna mit lockigen Haaren hinzu, im gleichen Outfit, aber aus Latex.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104862493436747776/img/1IfqibmsfWl1xCmZ.jpg" width="600" alt="Dialog erweitern und Outfit wechseln">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11679)**
-
-**Author:** [jason](https://x.com/Jason1438282) | **Source:** [Link](https://x.com/Jason1438282/status/2104862797482057916) | **Published:** Sep 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2324,6 +2326,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-09T05:56:26.236Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-09T15:25:54.971Z</sub>
 
 </div>

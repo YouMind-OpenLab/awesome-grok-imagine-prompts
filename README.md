@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3027** |
+| 📝 Total Prompts | **3031** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-09** |
 
@@ -189,6 +189,85 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Prompt: Transforming into Astronaut
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An image-to-video transformation prompt for Grok Imagine where a user's photo morphs into an astronaut launching on a rocket.
+
+#### 📝 Prompt
+
+```
+Turn it into a video of me turning into a astronaut and taking offf on my rocket
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg" width="600" alt="Grok Imagine Prompt: Transforming into Astronaut">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12216)**
+
+**Author:** [Mario](https://x.com/marioklok14) | **Source:** [Link](https://x.com/marioklok14/status/2108338102020518342) | **Published:** Oct 8, 2026
+
+---
+### Saturn Neptune Conjunction Dance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cosmic-themed prompt visualizing the Saturn-Neptune conjunction causing a synchronized dancing plague on Earth.
+
+#### 📝 Prompt
+
+```
+Visualize Saturn and Neptune conjuction: 
+1. Include Solar System
+2. Their conjuction creates a plasmatic energy 
+3. People dancing on earth synced up (Dancing Plague from 1500s)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg" width="600" alt="Saturn Neptune Conjunction Dance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12213)**
+
+**Author:** [Zaleska Rockabay](https://x.com/zaleskha) | **Source:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **Published:** Oct 8, 2026
+
+---
+### Cinematic CIA Scene Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for transforming an input into a cinematic wide scene featuring a parody character in a leather suit.
+
+#### 📝 Prompt
+
+```
+Transform this into a cinematic wide scene of CIA Colombian KIRA (the exact woman shown, parody Shakira look with long blonde curly hair in black CIA leather suit with badge) demonstrating her simulated business relationship with the fictional overlo...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108319345226989568/img/gcSe0OfKXuXvPo-k.jpg" width="600" alt="Cinematic CIA Scene Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12214)**
+
+**Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2108319388197597268) | **Published:** Oct 8, 2026
+
+---
+### Texas Meadow Horse Riding Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video prompt depicting a first-person perspective walking through a Texas meadow holding reins of an Arabian horse.
+
+#### 📝 Prompt
+
+```
+I'm walking through a meadow in Texas. I'm holding the reins of a beautiful Arabian horse. The weather is beautiful. Forests and mountains are visible in the background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108288065676496897/img/M9175k0R4jkxj48E.jpg" width="600" alt="Texas Meadow Horse Riding Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12215)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **Published:** Oct 8, 2026
+
+---
 ### Jaguar XJ6 Hybrid Engine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2190,83 +2269,6 @@ The audio is only old-timey music like they used to have in the old days.
 **Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104932354149994559) | **Published:** Sep 29, 2026
 
 ---
-### Grok Imagine Video Prompt: Elon Musk Silent Movie Parody
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine to create a silent movie parody featuring Elon Musk demonstrating confusing human behaviors, accompanied by old-timey music.
-
-#### 📝 Prompt
-
-```
-Please create another parody silent movie about {argument name="character" default="Elon Musk"}, using any topic demonstrating behaviors in humans that confuse Artificial Intelligence models. 
-The audio is only old-timey music like they used to have in the old days.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104932088654819328/img/GpnpEa6awomlK0Hn.jpg" width="600" alt="Grok Imagine Video Prompt: Elon Musk Silent Movie Parody">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11663)**
-
-**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104932108883960021) | **Published:** Sep 29, 2026
-
----
-### Silent Movie Parody Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex prompt for creating a silent movie parody about human behaviors confusing AI, with old-timey music and text overlays.
-
-#### 📝 Prompt
-
-```
-Please create a parody silent movie about a controversial topic demonstrating behaviors in humans that confuse AI. The audio is only old-timey music like they used to have in the old days. At the conclusion, display a half-second word identifying the trait.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104929767463993344/img/PIg1i4-xPx1uCU9m.jpg" width="600" alt="Silent Movie Parody Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11669)**
-
-**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104929789199237434) | **Published:** Sep 29, 2026
-
----
-### Starship Barge Catch Concept
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A concept art/video prompt for SpaceX Starship landing on a barge using Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Starship catch on a barge. I designed this and ran it through Grok for more refined version. It's a concept for a barge catch of the SpaceX Starship.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104906051812524032/img/tNi3GaLcKx1dUvdc.jpg" width="600" alt="Starship Barge Catch Concept">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11662)**
-
-**Author:** [Don Auten](https://x.com/Don_Auten) | **Source:** [Link](https://x.com/Don_Auten/status/2104915017674137715) | **Published:** Sep 29, 2026
-
----
-### Extend Dialogue and Outfit Change
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A follow-up video prompt for Grok Imagine extending previous scenes with new dialogue ('Sean') and outfit changes (latex).
-
-#### 📝 Prompt
-
-```
-Extend make them say Sean add Rihanna with curly hair in the same outfit but latex
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104862493436747776/img/1IfqibmsfWl1xCmZ.jpg" width="600" alt="Extend Dialogue and Outfit Change">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11679)**
-
-**Author:** [jason](https://x.com/Jason1438282) | **Source:** [Link](https://x.com/Jason1438282/status/2104862797482057916) | **Published:** Sep 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2328,6 +2330,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-09T05:56:15.070Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-09T15:25:43.776Z</sub>
 
 </div>

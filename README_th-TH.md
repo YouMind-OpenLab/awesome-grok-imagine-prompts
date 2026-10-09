@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3027** |
+| 📝 Total Prompts | **3031** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-09** |
 
@@ -189,6 +189,85 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### พรอมต์ Grok Imagine: เปลี่ยนตัวเองเป็นนักบินอวกาศ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับแปลงภาพเป็นวิดีโอใน Grok Imagine โดยเปลี่ยนรูปถ่ายของผู้ใช้ให้กลายเป็นนักบินอวกาศที่กำลังขึ้นจรวด
+
+#### 📝 Prompt
+
+```
+เปลี่ยนให้เป็นวิดีโอที่ฉันกลายร่างเป็นนักบินอวกาศแล้วขึ้นจรวด
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg" width="600" alt="พรอมต์ Grok Imagine: เปลี่ยนตัวเองเป็นนักบินอวกาศ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12216)**
+
+**Author:** [Mario](https://x.com/marioklok14) | **Source:** [Link](https://x.com/marioklok14/status/2108338102020518342) | **Published:** Oct 8, 2026
+
+---
+### Saturn Neptune Conjunction Dance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ธีมจักรวาลที่แสดงภาพการโคจรมาบรรจบกันของดาวเสาร์และดาวเนปจูน ซึ่งก่อให้เกิดโรคระบาดเต้นรำแบบซิงโครไนซ์บนโลก
+
+#### 📝 Prompt
+
+```
+จินตนาการถึงจุดที่ดาวเสาร์และดาวเนปจูนโคจรมาบรรจบกัน:
+1. รวมระบบสุริยะเข้าด้วย
+2. การบรรจบกันสร้างพลังงานพลาสม่า
+3. ผู้คนบนโลกเต้นรำพร้อมกันอย่างซิงโครไนซ์ (อ้างอิงจากโรคระบาดเต้นรำในศตวรรษที่ 16)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg" width="600" alt="Saturn Neptune Conjunction Dance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12213)**
+
+**Author:** [Zaleska Rockabay](https://x.com/zaleskha) | **Source:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **Published:** Oct 8, 2026
+
+---
+### วิดีโอฉาก CIA สไตล์ภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับเปลี่ยนอินพุตให้กลายเป็นฉากกว้างสไตล์ภาพยนตร์ที่มีตัวละครล้อเลียนสวมชุดหนัง
+
+#### 📝 Prompt
+
+```
+เปลี่ยนสิ่งนี้ให้เป็นฉากกว้างสไตล์ภาพยนตร์ของ KIRA สายลับ CIA ชาวโคลอมเบีย (ผู้หญิงตามภาพที่แสดงพอดี ล้อเลียนลุค Shakira ด้วยผมสีบลอนด์หยิกยาวในชุดหนังสีดำของ CIA พร้อมป้ายตรา) ที่แสดงให้เห็นถึงความสัมพันธ์ทางธุรกิจจำลองกับผู้นำสมมติ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108319345226989568/img/gcSe0OfKXuXvPo-k.jpg" width="600" alt="วิดีโอฉาก CIA สไตล์ภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12214)**
+
+**Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2108319388197597268) | **Published:** Oct 8, 2026
+
+---
+### วิดีโอขี่ม้าในทุ่งหญ้าเท็กซัส
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่แสดงมุมมองบุคคลที่หนึ่งขณะเดินผ่านทุ่งหญ้าในรัฐเท็กซัส โดยถือบังเหียนของม้าอาหรับ
+
+#### 📝 Prompt
+
+```
+ฉันกำลังเดินผ่านทุ่งหญ้าในรัฐเท็กซัส ฉันถือบังเหียนของม้าอาหรับที่สวยงาม อากาศสดใสสวยงาม มองเห็นป่าและภูเขาเป็นฉากหลัง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108288065676496897/img/M9175k0R4jkxj48E.jpg" width="600" alt="วิดีโอขี่ม้าในทุ่งหญ้าเท็กซัส">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12215)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **Published:** Oct 8, 2026
+
+---
 ### Jaguar XJ6 เครื่องยนต์ไฮบริด
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2188,83 +2267,6 @@ They immediately developed self-cleaning optics for all of their systems and the
 **Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104932354149994559) | **Published:** Sep 29, 2026
 
 ---
-### Grok Imagine Video Prompt: ภาพยนตร์เงียบล้อเลียน Elon Musk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างวิดีโอสำหรับ Grok Imagine เพื่อสร้างภาพยนตร์เงียบล้อเลียนที่แสดง Elon Musk ในพฤติกรรมของมนุษย์ที่ทำให้สับสน พร้อมดนตรีสไตล์ย้อนยุค
-
-#### 📝 Prompt
-
-```
-กรุณาสร้างภาพยนตร์เงียบล้อเลียนอีกเรื่องเกี่ยวกับ {argument name="character" default="Elon Musk"} โดยใช้หัวข้อใดก็ได้ที่แสดงให้เห็นถึงพฤติกรรมของมนุษย์ที่ทำให้โมเดลปัญญาประดิษฐ์ (AI) สับสน
-เสียงประกอบเป็นเพียงดนตรีสไตล์ย้อนยุคแบบที่ใช้ในสมัยก่อนเท่านั้น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104932088654819328/img/GpnpEa6awomlK0Hn.jpg" width="600" alt="Grok Imagine Video Prompt: ภาพยนตร์เงียบล้อเลียน Elon Musk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11663)**
-
-**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104932108883960021) | **Published:** Sep 29, 2026
-
----
-### พรอมต์พาร์โอดีภาพยนตร์เงียบ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่ซับซ้อนสำหรับการสร้างพาร์โอดีภาพยนตร์เงียบเกี่ยวกับพฤติกรรมของมนุษย์ที่ทำให้ AI สับสน พร้อมดนตรีสไตล์ย้อนยุคและข้อความซ้อนทับ
-
-#### 📝 Prompt
-
-```
-กรุณาสร้างพาร์โอดีภาพยนตร์เงียบเกี่ยวกับหัวข้อที่มีข้อถกเถียง ซึ่งแสดงให้เห็นถึงพฤติกรรมของมนุษย์ที่ทำให้ AI สับสน เสียงประกอบเป็นเพียงดนตรีสไตล์ย้อนยุคแบบที่ใช้กันในอดีตเท่านั้น ในตอนจบ ให้แสดงคำระบุลักษณะนิสัยนั้นค้างไว้ครึ่งวินาที
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104929767463993344/img/PIg1i4-xPx1uCU9m.jpg" width="600" alt="พรอมต์พาร์โอดีภาพยนตร์เงียบ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11669)**
-
-**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104929789199237434) | **Published:** Sep 29, 2026
-
----
-### แนวคิดการจับ Starship ด้วยเรือ驳
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างคอนเซปต์อาร์ต/วิดีโอของ SpaceX Starship ที่ลงจอดบนเรือ驳 โดยใช้ Grok Imagine
-
-#### 📝 Prompt
-
-```
-แนวคิดการจับ Starship ด้วยเรือ驳 ผมออกแบบและนำไปผ่าน Grok เพื่อปรับปรุงให้มีความละเอียดมากขึ้น นี่คือคอนเซปต์สำหรับการใช้เรือ驳 จับจรวด SpaceX Starship
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104906051812524032/img/tNi3GaLcKx1dUvdc.jpg" width="600" alt="แนวคิดการจับ Starship ด้วยเรือ驳">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11662)**
-
-**Author:** [Don Auten](https://x.com/Don_Auten) | **Source:** [Link](https://x.com/Don_Auten/status/2104915017674137715) | **Published:** Sep 29, 2026
-
----
-### ขยายบทสนทนาและการเปลี่ยนชุด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอต่อเนื่องสำหรับ Grok Imagine ที่ขยายฉากก่อนหน้าด้วยบทสนทนาใหม่ ('Sean') และการเปลี่ยนชุด (ลาเท็กซ์)
-
-#### 📝 Prompt
-
-```
-ขยายให้ตัวละครพูดว่า Sean เพิ่ม Rihanna ผมหยิกในชุดเดิมแต่เป็นวัสดุลาเท็กซ์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104862493436747776/img/1IfqibmsfWl1xCmZ.jpg" width="600" alt="ขยายบทสนทนาและการเปลี่ยนชุด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11679)**
-
-**Author:** [jason](https://x.com/Jason1438282) | **Source:** [Link](https://x.com/Jason1438282/status/2104862797482057916) | **Published:** Sep 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2326,6 +2328,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-09T05:56:20.556Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-09T15:25:49.555Z</sub>
 
 </div>
