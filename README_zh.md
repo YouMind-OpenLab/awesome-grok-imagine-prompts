@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3031** |
+| 📝 提示词总数 | **3043** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-10-10** |
 
@@ -189,6 +189,217 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Grok Imagine 彩虹蝴蝶花田
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 创建包含彩虹和蝴蝶的多彩花田视频的提示词。
+
+#### 📝 提示词
+
+```
+花田中的彩虹与蝴蝶 💐 粉色、紫色和黄色……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108811178915012608/img/U5rhLYpmlum9UUPH.jpg" width="600" alt="Grok Imagine 彩虹蝴蝶花田">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12276)**
+
+**作者:** [Scarlett Coggan](https://x.com/ScarlettEbonyCo) | **来源:** [Link](https://x.com/ScarlettEbonyCo/status/2108811213681635831) | **发布时间:** Oct 10, 2026
+
+---
+### 超现实多参考图混合
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个复杂的提示词，将四张参考图像融合为一个带有光效的超现实冥想女性场景。
+
+#### 📝 提示词
+
+```
+一个充满戏剧性的超现实混合体，将全部四个参考元素融合为一个史诗般的场景：第一张图中留着短卷发、神情宁静的女性正以莲花坐姿冥想，她的胸口迸发出闪耀的星光，头顶射出一道光束，此刻她穿着……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108732462193078273/img/h1u7-12JVTW9E0Cr.jpg" width="600" alt="超现实多参考图混合">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12279)**
+
+**作者:** [Cyperpienso](https://x.com/cyperpienso) | **来源:** [Link](https://x.com/cyperpienso/status/2108732499677622751) | **发布时间:** Oct 10, 2026
+
+---
+### Grok Imagine 浣熊松鼠舞蹈
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 生成一段视频，展示一只浣熊和一只松鼠在阳光明媚的日子里于草地上跳舞。
+
+#### 📝 提示词
+
+```
+浣熊与松鼠在森林旁的草地上共舞，阳光明媚
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108717600096333824/img/q4ydydu2zvP30CQD.jpg" width="600" alt="Grok Imagine 浣熊松鼠舞蹈">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12273)**
+
+**作者:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **来源:** [Link](https://x.com/b_irmina/status/2108717629229891884) | **发布时间:** Oct 10, 2026
+
+---
+### Grok Imagine 女超级英雄变身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的详细提示词，将角色转变为拥有发光蓝色能量触须的神圣女超级英雄。
+
+#### 📝 提示词
+
+```
+将图片中的角色转变为一位极其独特且非凡的女超级英雄。提升她的气场，使其显得真正神圣而特别：将发光的蓝色能量触须强化为璀璨、空灵的等离子流，这些能量流在周围旋转……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108682134311591936/img/xXW9zVtpX2P239YS.jpg" width="600" alt="Grok Imagine 女超级英雄变身">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12274)**
+
+**作者:** [Cyperpienso](https://x.com/cyperpienso) | **来源:** [Link](https://x.com/cyperpienso/status/2108682160584728848) | **发布时间:** Oct 9, 2026
+
+---
+### 星光灵性讯息
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个富有诗意与灵性的提示词，旨在生成与星空、光芒及被选中主题相关的视觉内容。
+
+#### 📝 提示词
+
+```
+我们注定属于星辰
+…~…~… ✨🙏✨在出生之前，我们便已被选中，为此刻而受护佑。
+让光芒闪耀吧，同袍们，它就在你心中 ✨✨✨🙏📖 分享这份美丽的光
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108636732988227584/img/7n9u8gZ67HxaSGd4.jpg" width="600" alt="星光灵性讯息">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12280)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **来源:** [Link](https://x.com/lighthouse42f/status/2108636771244474393) | **发布时间:** Oct 9, 2026
+
+---
+### Grok Imagine 视频提示词：乌鸦梳理羽毛
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段宁静的视频提示词，展示白色和黑色乌鸦在晨光中梳理羽毛，背景伴有柔和的吉他音乐。
+
+#### 📝 提示词
+
+```
+白乌鸦和黑乌鸦在清晨阳光下梳理羽毛，背景为柔和的吉他音乐
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108617418373464064/img/b_OEDbIq_O2lwhPe.jpg" width="600" alt="Grok Imagine 视频提示词：乌鸦梳理羽毛">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12284)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2108617464716427403) | **发布时间:** Oct 9, 2026
+
+---
+### 红蓝眼部发光编辑
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于编辑人物眼睛使其发出红蓝光芒的详细提示词，同时保持其他特征不变。
+
+#### 📝 提示词
+
+```
+仅更改戴黑色头盔人物的眼睛：使左眼（从观察者视角看）发出明亮强烈的红光，右眼发出明亮强烈的蓝光。保持完全相同的姿势、头盔、西装、领带、CRT 扫描线、圆形构图，l...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108600379210698752/img/zfHXKOcyG7TmouL4.jpg" width="600" alt="红蓝眼部发光编辑">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12275)**
+
+**作者:** [Cyperpienso](https://x.com/cyperpienso) | **来源:** [Link](https://x.com/cyperpienso/status/2108600388387762445) | **发布时间:** Oct 9, 2026
+
+---
+### SpaceX Starship 轨道视角
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影级视频生成提示词，要求对 SpaceX Starship 火箭进行 3D 穿越和环绕拍摄。
+
+#### 📝 提示词
+
+```
+以 3D 效果飞入场景。围绕 SpaceX Starship 火箭进行轨道环绕拍摄，呈现史诗般的镜头视角……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108524042990858240/img/7ZRILQCa5Xm2koiC.jpg" width="600" alt="SpaceX Starship 轨道视角">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12277)**
+
+**作者:** [Gorka Cesium](https://x.com/GorkaCesium) | **来源:** [Link](https://x.com/GorkaCesium/status/2108524067737485511) | **发布时间:** Oct 9, 2026
+
+---
+### JSON 相机控制提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个基于 JSON 的结构化提示词，用于定义视频生成中的镜头运动和景深。
+
+#### 📝 提示词
+
+```
+{"shot": {"motion_level": "medium", "camera_depth": "long shot", "camera_angle": "low angle", "lighting": "dramatic", "subject": "a lone figure walking through a neon-lit alley", "background": "rain-slicked streets reflecting city lights"}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108418452427862016/img/fcG98gV6NsoHjSBJ.jpg" width="600" alt="JSON 相机控制提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12282)**
+
+**作者:** [Barbara Molen](https://x.com/MolenBarba62710) | **来源:** [Link](https://x.com/MolenBarba62710/status/2108418467158225372) | **发布时间:** Oct 9, 2026
+
+---
+### 孵化器人类老化视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个科幻视频提示，描绘人类在不同年龄阶段从孵化器中走出的场景。
+
+#### 📝 提示词
+
+```
+展示由孵化器库创造的人类，以及他们在不同出生年龄阶段走出时的样貌
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108356308898381824/img/849zRTpw-3JAj1hM.jpg" width="600" alt="孵化器人类老化视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12281)**
+
+**作者:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **来源:** [Link](https://x.com/SuperGeekCRC/status/2108356350736785611) | **发布时间:** Oct 9, 2026
+
+---
+### Grok Imagine Video Prompt：锁定新闻摄像机场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的电影级视频提示词，描述了一个带有特定摄像机运动、音频线索和视觉特效（如漂浮的心形）的新闻广播场景。
+
+#### 📝 提示词
+
+```
+锁定新闻摄像机，轻微数字变焦。他眨眼稍晚，嘴部几乎不动。滚动字幕向左移动。扁平的紫色心形沿右边缘向上漂移，与他的面部动作不同步。微弱的提词器哔声，低沉的房间底噪，无音乐。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108343675197558784/img/CvHnWrR0J3lxwiJ0.jpg" width="600" alt="Grok Imagine Video Prompt：锁定新闻摄像机场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12283)**
+
+**作者:** [Igor Nesvitt](https://x.com/IgorNesvitt) | **来源:** [Link](https://x.com/IgorNesvitt/status/2108343692826214799) | **发布时间:** Oct 8, 2026
+
+---
 ### Grok Imagine 提示词：变身宇航员
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -228,6 +439,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12213)**
 
 **作者:** [Zaleska Rockabay](https://x.com/zaleskha) | **来源:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **发布时间:** Oct 8, 2026
+
+---
+### 3D 环绕循环视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于从图像生成循环视频的提示词，包含围绕角色的 3D 轨道摄像机运动。
+
+#### 📝 提示词
+
+```
+仿佛进入 3D 场景般飞入画面。围绕每个角色进行轨道运动，展示其过肩视角。最终回到起始位置，使视频形成无缝循环
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108325228539490304/img/VdOTI0C1QxMSYvpJ.jpg" width="600" alt="3D 环绕循环视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12278)**
+
+**作者:** [Gorka Cesium](https://x.com/GorkaCesium) | **来源:** [Link](https://x.com/GorkaCesium/status/2108325247535485215) | **发布时间:** Oct 8, 2026
 
 ---
 ### 电影感 CIA 场景视频
@@ -1995,279 +2225,6 @@ Grok Super AI：Lacoste 鳄鱼刺绣于蓝白条纹 Polo 衫上，鳄鱼眨着�
 **作者:** [華月光](https://x.com/hanagekkou) | **来源:** [Link](https://x.com/hanagekkou/status/2105158182716973283) | **发布时间:** Sep 30, 2026
 
 ---
-### 历史人物舞蹈视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的创意提示，要求制作一段由马可·奥勒留、克利奥帕特拉和鲁米表演苏菲旋转舞及劈叉动作的舞蹈视频。
-
-#### 📝 提示词
-
-```
-制作一段马可·奥勒留与克利奥帕特拉和鲁米的舞蹈视频，让他们像托钵僧一样旋转，然后进入 breakdown 并做出劈叉动作
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105151595524861952/img/2LFQN4yXXESQdzC3.jpg" width="600" alt="历史人物舞蹈视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11661)**
-
-**作者:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **来源:** [Link](https://x.com/DavidSteenhoek/status/2105151627846115794) | **发布时间:** Sep 30, 2026
-
----
-### Grok Imagine 提示词：蒸汽朋克圣诞袜
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 产品可视化提示词，展现蒸汽朋克美学风格。
-
-#### 📝 提示词
-
-```
-专为拥有一切的真正创新者打造的蒸汽朋克圣诞袜 https://t.co/Iajn6KT6d
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105133627667517440/img/enMBMUr8IQET5_w3.jpg" width="600" alt="Grok Imagine 提示词：蒸汽朋克圣诞袜">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11676)**
-
-**作者:** [Cathy has this](https://x.com/lighthouse42f) | **来源:** [Link](https://x.com/lighthouse42f/status/2105133647380861013) | **发布时间:** Sep 30, 2026
-
----
-### Grok Imagine 视频提示词：Sundar Pichai 变身神秘怪物
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于 Grok Imagine 的视频生成提示词，将 Sundar Pichai 转化为一个神秘未知的怪物。
-
-#### 📝 提示词
-
-```
-将 {argument name="person" default="Sundar Pichai"} 变成一个“无人知晓的神秘怪物”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105110966425788416/img/PIMWyZjMKPNZ3d3E.jpg" width="600" alt="Grok Imagine 视频提示词：Sundar Pichai 变身神秘怪物">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11665)**
-
-**作者:** [Viswanath M. Aluru](https://x.com/vmaluru) | **来源:** [Link](https://x.com/vmaluru/status/2105110995740008593) | **发布时间:** Sep 30, 2026
-
----
-### Claymation 风格 Captain Apathy 场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个创意视频提示，展示黏土动画风格的 Captain Apathy 在反派毁灭世界时饮酒的场景。
-
-#### 📝 提示词
-
-```
-黏土动画风格的 Capt. apathy 在酒吧饮酒，而电视上播放着反派毁灭世界的画面。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105099226556284928/img/bavSilZPfZ26LGul.jpg" width="600" alt="Claymation 风格 Captain Apathy 场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11664)**
-
-**作者:** [A Cynical Guy…!](https://x.com/vaughn_shah) | **来源:** [Link](https://x.com/vaughn_shah/status/2105099256143204790) | **发布时间:** Sep 30, 2026
-
----
-### Grok Imagine 提示词：Sam Elliott 卧推
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个逼真的视频提示词，展示名人 Sam Elliott 在健身房场景中的特定动作和音频线索。
-
-#### 📝 提示词
-
-```
-逼真的视频画面：Sam Elliott 在健身房进行 400 磅的卧推。他站起身，向镜头致意并微笑，压低牛仔帽。全程无对话。背景添加西部风格音乐。
-
-@MustacheElliott 你是我的第一位名人粉丝，所以我会为你制作一些很酷的 Grok 视频一段时间 🥰
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105070398924550144/img/He7nT0atgn6gFrH6.jpg" width="600" alt="Grok Imagine 提示词：Sam Elliott 卧推">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11674)**
-
-**作者:** [Carry Robey](https://x.com/carry_robey) | **来源:** [Link](https://x.com/carry_robey/status/2105070419397284095) | **发布时间:** Sep 29, 2026
-
----
-### Grok Imagine 视频提示词：Raptor 助推器降落哈佛
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段超现实的视频提示词，展示 SpaceX Raptor 助推器火箭降落在哈佛大学，旁边有一个“Grock 4”机器人或物体。
-
-#### 📝 提示词
-
-```
-更好的做法是让 Raptor 助推器火箭降落在哈佛大学，旁边放一个 Grock 4……随时随地学习任何知识
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105013199686803456/img/unoAisaK4-I_1E4Q.jpg" width="600" alt="Grok Imagine 视频提示词：Raptor 助推器降落哈佛">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11671)**
-
-**作者:** [JB](https://x.com/JoshuaBalianSR) | **来源:** [Link](https://x.com/JoshuaBalianSR/status/2105013212202582465) | **发布时间:** Sep 29, 2026
-
----
-### Grok Imagine 视频提示词：从水面到繁忙公路的场景转换
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的场景转换视频提示词，移除画面中的手，将水面变为有特斯拉行驶的繁忙公路，并将地球拉近星空。
-
-#### 📝 提示词
-
-```
-移除画面中的双手。将水面转换为一条繁忙的公路，上面有不同型号的 Tesla 在行驶。将地球向上移动，使其更靠近天空。天空中要有许多星星和月亮……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105010890944684032/img/eEB8QJGOfbXVT0s7.jpg" width="600" alt="Grok Imagine 视频提示词：从水面到繁忙公路的场景转换">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11672)**
-
-**作者:** [Marsha Bush](https://x.com/MarshaBush50) | **来源:** [Link](https://x.com/MarshaBush50/status/2105011014928331214) | **发布时间:** Sep 29, 2026
-
----
-### Grok Imagine 逼真旅行 Vlog 提示词
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 为 Grok Imagine 设计的详细视频生成提示词，用于创作一段逼真的自拍风格旅行 Vlog，画面包含巨型机械雕像和洞穴巨人，并规定了具体的时间节奏、镜头角度及对话指令。
-
-#### 📝 提示词
-
-```
-15 秒时长，9:16 竖屏，照片级真实的手机旅行 Vlog，完全由成年女性主角使用前置摄像头自拍完成。主角身份参考 #1 @0ba07db1-974c-467d-80dc-d9dffddac0ba，服装、鞋子、袜子及配饰严格参考 #2 @c6a3d787-bf2f-4ae9-a647-8da9db2702e3，切勿将主角替换为场景图像中的人物。场景参考包括 #3 @cf1b1405-e241-46d5-818c-7838463fe334 中的云海机械巨像以及 #4 @7953261f-23e7-4c97-b6a0-14bcf07aabe4 中的洞穴巨人。在两个地点之间使用明确的旅行跳切（jump cut），以表示省略了中间的旅程，而非展示跨越空间的单步动作。
-
-她始终用右手持握手机，左手则用于扶稳岩石或保持平衡。手机距离面部约一臂之遥；在广角自拍中，她的脸部位于画面一侧，环境在她肩后展开。人物与环境共享自然光、阴影、尘埃和风，保留真实的皮肤质感。仅包含与脚步和手腕运动一致的抖动、短暂的曝光调整以及运动模糊。无美颜滤镜，无背景音乐，无字幕。
-
-[0-4 秒]
-
-在云海之上的宽阔岩石平台上，女主角沿着远离悬崖边缘的内侧缓慢行走。她侧身转动身体，使两座嵌入山体的金色机械巨像出现在她肩后：巨大的胸甲占据背景，腿部隐入云中，远处的旅行者显得极其渺小。
-
-夕阳照亮了她脸颊的一侧，风吹乱了她的发梢。她先是抬头仰望，然后看向镜头，带着压抑的敬畏低声说道：
-
-“这个景点，保安比山还高。”
-
-[4-7 秒]
-
-她停下脚步继续抬头观看。其中一座巨像胸口的橙色光芒逐渐增强，头部轻微转动；片刻之后，低频机械声传至平台。
-
-她先倾听，随后通过视觉确认，笑容逐渐消失。她的左手本能地扶住附近的岩壁，将手机稍微拉近。她停止说话，只深吸了一口气。
-
-背景中的旅行者各自停下脚步观察，并未整齐划一地转头。
-
-[7-11 秒]
-
-明确硬切，省略过渡旅程：她已抵达 #4 中提到的洞穴外的碎石小径。
-
-光线变为从洞口反射出的灰白色日光，身后有羊群、木栅栏和散落的篮子。她正沿着小径行走时，一名惊慌失措的古代士兵从她左侧跑过，随后又有两人绕过碎石奔跑而来。
-
-她首先侧身避让，怀疑地看着他们；接着沉重的脚步声响起，地面的小石子震动。她回头看向洞口，转动身体，使巨人的面孔在她肩后的岩壁间显露出来。
-
-她低声说道：
-
-“等等……他们不是来排队的。”
-
-[11-15 秒]
-
-巨人向洞口挤压过来，肩膀蹭落岩石，尘土遮蔽了部分木栅栏。主角立即停止说话。
-
-她首先检查前方的逃生路线，然后跟随逃散的人群迅速沿小径离开，右手将手机贴近，抬起左臂保护额头。自拍画面随着她的脚步晃动，巨人仅在肩后短暂出现，不追求全身构图。
-
-在最后两秒，她横向移动进入右侧岩壁的凹陷处，屈膝降低身体重心，左手支撑在岩石表面。结束镜头：她靠在岩壁上，右手在胸前高度略微向上举着手机，脸上沾着薄尘，嘴唇微张，呼吸急促；画面左边缘仍显示从洞穴方向飘来的尘土。
-
-音效：高空风声，低频机械声；跳切后，替换为羊叫声、奔跑的脚步声、滚动的碎石声、巨人的呼吸声以及她近距离的喘息声。只有主角说出清晰的台词，背景人物的呼喊声模糊不清。
-
-禁止第三人称跟踪镜头、航拍镜头、悬浮手机、奔跑时持续直视镜头、突然换装、无视危险的微笑解说。巨人不会瞬移到她面前。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104991814490963968/img/H9eRDBgsxU9CMzfg.jpg" width="600" alt="Grok Imagine 逼真旅行 Vlog 提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11680)**
-
-**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2104992239713767535) | **发布时间:** Sep 29, 2026
-
----
-### Grok Imagine 视频提示词：草地上的肥皂泡
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 视频生成提示词：色彩斑斓的肥皂泡漂浮在开满鲜艳花朵的草地上。
-
-#### 📝 提示词
-
-```
-色彩鲜艳的肥皂泡漂浮在开满鲜花的草地上
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104987739280359425/img/Hl35RAD_vhZywDfQ.jpg" width="600" alt="Grok Imagine 视频提示词：草地上的肥皂泡">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11666)**
-
-**作者:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **来源:** [Link](https://x.com/b_irmina/status/2104987769387008103) | **发布时间:** Sep 29, 2026
-
----
-### Grok Imagine 提示词：月球背后的地球升起
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影感视频提示词，描述地球从月球背后升起的场景，包含特定的光照效果和胶片颗粒质感。
-
-#### 📝 提示词
-
-```
-月球背后的地球升起，金色斑驳光影搭配细腻的 35mm 胶片颗粒 https://t.co/wkqis6MT5k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104952541922406401/img/008qfKMFlxOiGnxM.jpg" width="600" alt="Grok Imagine 提示词：月球背后的地球升起">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11675)**
-
-**作者:** [Astropub Starbase](https://x.com/AstropubSBTX) | **来源:** [Link](https://x.com/AstropubSBTX/status/2104952565037511032) | **发布时间:** Sep 29, 2026
-
----
-### 科幻洗车克莱因瓶
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个富有创意的科幻提示词，描述机器人为所有系统开发了自清洁光学组件，并在无限维度的克莱因瓶内进行大规模洗车。
-
-#### 📝 提示词
-
-```
-他们立即为所有系统开发了自清洁光学组件，并开始在无限维度的克莱因瓶内进行大规模洗车
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104938735137603584/img/4PuyOOFwS2wSm3-J.jpg" width="600" alt="科幻洗车克莱因瓶">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11670)**
-
-**作者:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **来源:** [Link](https://x.com/TheWhySpirit/status/2104938784089395426) | **发布时间:** Sep 29, 2026
-
----
-### Elon Musk 默片恶搞视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详细的提示词，用于制作由 Elon Musk 主演的默片恶搞视频，配以复古音乐和令 AI 困惑的主题。
-
-#### 📝 提示词
-
-```
-请创作一部由 Elon Musk 主演的恶搞默片，主题需展示那些让人工智能模型感到困惑的人类行为。
-音频仅使用老式默片中常见的复古配乐。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104932333283348480/img/DSLonCt6bGv2UBN6.jpg" width="600" alt="Elon Musk 默片恶搞视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11660)**
-
-**作者:** [TheAric](https://x.com/TheAricIs) | **来源:** [Link](https://x.com/TheAricIs/status/2104932354149994559) | **发布时间:** Sep 29, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2329,6 +2286,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-10T05:36:11.323Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-10T14:34:28.103Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3031** |
+| 📝 Total Prompts | **3043** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-10** |
 
@@ -189,6 +189,217 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine : Champ de papillons arc-en-ciel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour créer une vidéo avec des arcs-en-ciel et des papillons dans un champ de fleurs colorées en utilisant Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Des arcs-en-ciel et des papillons dans un champ de fleurs 💐 rose, violet et jaune....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108811178915012608/img/U5rhLYpmlum9UUPH.jpg" width="600" alt="Grok Imagine : Champ de papillons arc-en-ciel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12276)**
+
+**Author:** [Scarlett Coggan](https://x.com/ScarlettEbonyCo) | **Source:** [Link](https://x.com/ScarlettEbonyCo/status/2108811213681635831) | **Published:** Oct 10, 2026
+
+---
+### Fusion Surréaliste Multi-Références
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complexe fusionnant quatre images de référence en une scène surréaliste d'une femme méditant avec des effets lumineux.
+
+#### 📝 Prompt
+
+```
+Un mélange surréaliste dramatique fusionnant les quatre références en une scène épique : la femme sereine aux cheveux courts et bouclés de la première image, méditant en position du lotus, avec une lumière stellaire éclatante émanant de sa poitrine et un faisceau lumineux jaillissant de son sommet du crâne, maintenant vêtue...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108732462193078273/img/h1u7-12JVTW9E0Cr.jpg" width="600" alt="Fusion Surréaliste Multi-Références">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12279)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2108732499677622751) | **Published:** Oct 10, 2026
+
+---
+### Grok Imagine : Danse du raton laveur et de l'écureuil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour générer une vidéo d'un raton laveur et d'un écureuil dansant dans une prairie par une journée ensoleillée avec Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Un raton laveur dansant avec un écureuil dans la prairie près de la forêt, sous un soleil éclatant
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108717600096333824/img/q4ydydu2zvP30CQD.jpg" width="600" alt="Grok Imagine : Danse du raton laveur et de l'écureuil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12273)**
+
+**Author:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **Source:** [Link](https://x.com/b_irmina/status/2108717629229891884) | **Published:** Oct 10, 2026
+
+---
+### Transformation en Superhéroïne avec Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour transformer un personnage en superhéroïne divine aux tentacules d'énergie bleue lumineuse, conçu pour Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Transformez le personnage de l'image en une superhéroïne extraordinairement spéciale et unique. Élevez sa présence pour qu'elle paraisse véritablement exceptionnelle et divine : intensifiez les tentacules d'énergie bleue lumineuse en flux de plasma brillants et éthérés qui tourbillonnent maje...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108682134311591936/img/xXW9zVtpX2P239YS.jpg" width="600" alt="Transformation en Superhéroïne avec Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12274)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2108682160584728848) | **Published:** Oct 9, 2026
+
+---
+### Message Spirituel de Lumière Stellaire
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite poétique et spirituelle demandant des visuels liés aux étoiles, à la lumière et au fait d'être élu.
+
+#### 📝 Prompt
+
+```
+J'ai toujours été destiné à rejoindre les étoiles
+…~…~… ✨🙏✨ nous avons été choisis avant notre naissance, protégés pour un temps tel que celui-ci.
+Laissez votre lumière briller intensément, mes semblables humains, elle est en vous ✨✨✨🙏📖 partagez cette belle lumière
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108636732988227584/img/7n9u8gZ67HxaSGd4.jpg" width="600" alt="Message Spirituel de Lumière Stellaire">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12280)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2108636771244474393) | **Published:** Oct 9, 2026
+
+---
+### Prompt vidéo Grok Imagine : Corbeaux ébouriffant leurs plumes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo apaisant montrant des corbeaux blancs et noirs ébouriffant leurs plumes sous la lumière du matin, avec une musique de guitare douce en arrière-plan.
+
+#### 📝 Prompt
+
+```
+Corbeau blanc et corbeau noir ébouriffent leurs plumes dans la lumière du petit matin, musique douce à la guitare en bruit de fond
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108617418373464064/img/b_OEDbIq_O2lwhPe.jpg" width="600" alt="Prompt vidéo Grok Imagine : Corbeaux ébouriffant leurs plumes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12284)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2108617464716427403) | **Published:** Oct 9, 2026
+
+---
+### Édition de Lueur des Yeux Rouge et Bleu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour modifier les yeux d'une figure afin qu'ils brillent en rouge et bleu, tout en conservant les autres caractéristiques.
+
+#### 📝 Prompt
+
+```
+Modifiez uniquement les yeux de la figure casquée noire : faites briller l'œil gauche (du point de vue du spectateur) d'un rouge vif et intense, et l'œil droit d'un bleu vif et intense. Conservez exactement la même pose, le casque, le costume, la cravate, les lignes de balayage CRT, le cadrage circulaire, l...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108600379210698752/img/zfHXKOcyG7TmouL4.jpg" width="600" alt="Édition de Lueur des Yeux Rouge et Bleu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12275)**
+
+**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2108600388387762445) | **Published:** Oct 9, 2026
+
+---
+### Vue orbitale de la SpaceX Starship
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo cinématographique demandant une traversée en 3D et une orbite autour de la fusée SpaceX Starship.
+
+#### 📝 Prompt
+
+```
+Plongez dans la scène comme si elle était en 3D. Effectuez une orbite autour de la fusée SpaceX Starship pour obtenir une vue épique...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108524042990858240/img/7ZRILQCa5Xm2koiC.jpg" width="600" alt="Vue orbitale de la SpaceX Starship">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12277)**
+
+**Author:** [Gorka Cesium](https://x.com/GorkaCesium) | **Source:** [Link](https://x.com/GorkaCesium/status/2108524067737485511) | **Published:** Oct 9, 2026
+
+---
+### Prompt de contrôle caméra JSON
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt structuré basé sur JSON définissant le mouvement de caméra et la profondeur pour la génération vidéo.
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "medium", "camera_depth": "long shot", "camera_angle": "low angle", "lighting": "dramatic", "subject": "a lone figure walking through a neon-lit alley", "background": "rain-slicked streets reflecting city lights"}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108418452427862016/img/fcG98gV6NsoHjSBJ.jpg" width="600" alt="Prompt de contrôle caméra JSON">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12282)**
+
+**Author:** [Barbara Molen](https://x.com/MolenBarba62710) | **Source:** [Link](https://x.com/MolenBarba62710/status/2108418467158225372) | **Published:** Oct 9, 2026
+
+---
+### Vidéo sur le vieillissement humain en incubateur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo de science-fiction représentant des humains sortant d'incubateurs à différents âges.
+
+#### 📝 Prompt
+
+```
+Montrez les humains créés dans des coffres d'incubateurs et leur apparence lorsqu'ils sortent à différents stades de leur naissance.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108356308898381824/img/849zRTpw-3JAj1hM.jpg" width="600" alt="Vidéo sur le vieillissement humain en incubateur">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12281)**
+
+**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2108356350736785611) | **Published:** Oct 9, 2026
+
+---
+### Prompt Vidéo Grok Imagine : Scène de Caméra Verrouillée pour Journal Télévisé
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique détaillé décrivant une scène de journal télévisé avec des mouvements de caméra spécifiques, des indices audio et des effets visuels tels que des cœurs flottants.
+
+#### 📝 Prompt
+
+```
+Caméra de journal verrouillée, léger zoom numérique. Il cligne des yeux en retard, sa bouche bouge à peine. Le bandeau défile vers la gauche. Des cœurs violets plats dérivent vers le haut sur le bord droit, désynchronisés par rapport à son visage. Léger bip du prompteur, bruit ambiant faible, pas de musique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108343675197558784/img/CvHnWrR0J3lxwiJ0.jpg" width="600" alt="Prompt Vidéo Grok Imagine : Scène de Caméra Verrouillée pour Journal Télévisé">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12283)**
+
+**Author:** [Igor Nesvitt](https://x.com/IgorNesvitt) | **Source:** [Link](https://x.com/IgorNesvitt/status/2108343692826214799) | **Published:** Oct 8, 2026
+
+---
 ### Grok Imagine Prompt : Transformation en Astronaute
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -228,6 +439,25 @@ Visualisez la conjonction entre Saturne et Neptune :
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12213)**
 
 **Author:** [Zaleska Rockabay](https://x.com/zaleskha) | **Source:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **Published:** Oct 8, 2026
+
+---
+### Prompt Vidéo Boucle Orbitale 3D
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo en boucle à partir d'une image, avec des mouvements de caméra orbitaux en 3D autour des personnages.
+
+#### 📝 Prompt
+
+```
+Plongez dans la scène comme si elle était en 3D. Effectuez une orbite autour de chaque personnage pour montrer leur vue par-dessus l'épaule. Terminez à la position de départ afin que la vidéo forme une boucle.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108325228539490304/img/VdOTI0C1QxMSYvpJ.jpg" width="600" alt="Prompt Vidéo Boucle Orbitale 3D">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12278)**
+
+**Author:** [Gorka Cesium](https://x.com/GorkaCesium) | **Source:** [Link](https://x.com/GorkaCesium/status/2108325247535485215) | **Published:** Oct 8, 2026
 
 ---
 ### Vidéo de Scène Cinématographique CIA
@@ -1996,273 +2226,6 @@ Illustration d'une jeune femme aux longs cheveux noirs portant une robe style ki
 **Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2105158182716973283) | **Published:** Sep 30, 2026
 
 ---
-### Vidéo de danse avec des figures historiques
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt créatif complexe demandant une vidéo de danse mettant en scène Marc Aurèle, Cléopâtre et Rumi effectuant des tours soufis et des splits.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo de danse de Marc Aurèle avec Cléopâtre et Rumi effectuant des tours comme les derviches tourneurs, puis transition vers le sol et terminant par un grand écart.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105151595524861952/img/2LFQN4yXXESQdzC3.jpg" width="600" alt="Vidéo de danse avec des figures historiques">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11661)**
-
-**Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2105151627846115794) | **Published:** Sep 30, 2026
-
----
-### Prompt Grok Imagine : Bas de Noël steampunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de visualisation produit pour Grok Imagine mettant en avant l'esthétique steampunk.
-
-#### 📝 Prompt
-
-```
-Bas de Noël steampunk pour le véritable innovateur qui a tout https://t.co/Iajn6KT6d
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105133627667517440/img/enMBMUr8IQET5_w3.jpg" width="600" alt="Prompt Grok Imagine : Bas de Noël steampunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11676)**
-
-**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2105133647380861013) | **Published:** Sep 30, 2026
-
----
-### Prompt vidéo Grok Imagine : Transformation de Sundar Pichai en monstre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo pour Grok Imagine visant à transformer Sundar Pichai en un mystérieux monstre.
-
-#### 📝 Prompt
-
-```
-Transforme {argument name="person" default="Sundar Pichai"} en un « Monstre que personne ne connaît »
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105110966425788416/img/PIMWyZjMKPNZ3d3E.jpg" width="600" alt="Prompt vidéo Grok Imagine : Transformation de Sundar Pichai en monstre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11665)**
-
-**Author:** [Viswanath M. Aluru](https://x.com/vmaluru) | **Source:** [Link](https://x.com/vmaluru/status/2105110995740008593) | **Published:** Sep 30, 2026
-
----
-### Scène de Captain Apathy en claymation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo créatif mettant en scène Captain Apathy en style claymation, buvant pendant que des méchants détruisent le monde.
-
-#### 📝 Prompt
-
-```
-Captain Apathy en claymation boit au bar tandis que des méchants détruisent le monde à la TV.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105099226556284928/img/bavSilZPfZ26LGul.jpg" width="600" alt="Scène de Captain Apathy en claymation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11664)**
-
-**Author:** [A Cynical Guy…!](https://x.com/vaughn_shah) | **Source:** [Link](https://x.com/vaughn_shah/status/2105099256143204790) | **Published:** Sep 30, 2026
-
----
-### Prompt Grok Imagine : Sam Elliott au développé couché
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo photoréaliste mettant en scène la célébrité Sam Elliott dans un cadre de salle de sport, avec des actions spécifiques et des indications audio.
-
-#### 📝 Prompt
-
-```
-Vidéo photoréaliste de Sam Elliott effectuant un développé couché de 400 livres à la salle de sport. Il se relève, incline son chapeau de cowboy vers la caméra et sourit. Pas de dialogue. Ajouter une musique western.
-
-@MustacheElliott Vous êtes mon premier abonné célèbre, donc je vais créer des vidéos Grok sympas vous concernant pendant un moment 🥰
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105070398924550144/img/He7nT0atgn6gFrH6.jpg" width="600" alt="Prompt Grok Imagine : Sam Elliott au développé couché">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11674)**
-
-**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2105070419397284095) | **Published:** Sep 29, 2026
-
----
-### Prompt vidéo Grok Imagine : Atterrissage d'un booster Raptor sur Harvard
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo surréaliste montrant un booster de fusée SpaceX Raptor atterrissant sur l'Université Harvard, accompagné d'un robot ou objet « Grock 4 ».
-
-#### 📝 Prompt
-
-```
-Mieux encore, faites atterrir un booster de fusée Raptor sur l'Université Harvard avec un Grock 4....   Apprenez tout, partout
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105013199686803456/img/unoAisaK4-I_1E4Q.jpg" width="600" alt="Prompt vidéo Grok Imagine : Atterrissage d'un booster Raptor sur Harvard">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11671)**
-
-**Author:** [JB](https://x.com/JoshuaBalianSR) | **Source:** [Link](https://x.com/JoshuaBalianSR/status/2105013212202582465) | **Published:** Sep 29, 2026
-
----
-### Grok Imagine Video Prompt : Transformation de l'eau en autoroute
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt vidéo Grok Imagine : transformation de l'eau en autoroute, suppression des mains, et rapprochement de la Terre d'un ciel étoilé.
-
-#### 📝 Prompt
-
-```
-Retirez les mains de la scène. Transformez l'eau en une autoroute animée avec différentes Tesla qui y circulent. Rapprochez la Terre du ciel. Avec beaucoup d'étoiles et la lune....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105010890944684032/img/eEB8QJGOfbXVT0s7.jpg" width="600" alt="Grok Imagine Video Prompt : Transformation de l'eau en autoroute">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11672)**
-
-**Author:** [Marsha Bush](https://x.com/MarshaBush50) | **Source:** [Link](https://x.com/MarshaBush50/status/2105011014928331214) | **Published:** Sep 29, 2026
-
----
-### Prompt Grok Imagine pour Vlog de Voyage Réaliste
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt détaillé pour la génération vidéo avec Grok Imagine, créant un vlog de voyage réaliste en style selfie mettant en scène des statues mécaniques géantes et des géants des cavernes, avec des instructions précises sur le timing, les angles de caméra et les dialogues.
-
-#### 📝 Prompt
-
-```
-15 secondes, écran vertical 9:16, vlog de voyage photoréaliste filmé au téléphone portable, entièrement auto-filmé par une protagoniste adulte utilisant la caméra frontale. L'identité de la protagoniste fait référence à #1 @0ba07db1-974c-467d-80dc-d9dffddac0ba ; ses vêtements, chaussures, chaussettes et accessoires font strictement référence à #2 @c6a3d787-bf2f-4ae9-a647-8da9db2702e3. Ne remplacez pas la protagoniste par des personnages issus des images de scène. Les références de scène incluent le colosse mécanique dans la mer de nuages (#3 @cf1b1405-e241-46d5-818c-7838463fe334) et le géant des cavernes (#4 @7953261f-23e7-4c97-b6a0-14bcf07aabe4). Utilisez des coupes franches explicites entre les deux lieux pour indiquer que le trajet intermédiaire a été omis, plutôt que de montrer un seul pas traversant l'espace.
-
-Elle tient toujours le téléphone dans sa main droite, tandis que sa main gauche sert à se stabiliser sur les rochers ou à maintenir son équilibre. Le téléphone est à environ une longueur de bras de son visage ; dans le selfie grand-angle, son visage est positionné d'un côté du cadre, l'environnement se déployant derrière son épaule. Le personnage et l'environnement partagent la même lumière naturelle, les mêmes ombres, la poussière et le vent, préservant une texture de peau réaliste. Incluez uniquement des tremblements cohérents avec les mouvements des pieds et des poignets, de brefs ajustements d'exposition et un flou de mouvement. Pas de filtres de beauté, pas de musique de fond, pas de sous-titres.
-
-[0-4 secondes]
-
-Sur une large plateforme rocheuse au-dessus de la mer de nuages, la protagoniste marche lentement le long du bord intérieur, loin de la falaise. Elle tourne le corps de profil afin que deux colosses mécaniques dorés enchâssés dans la montagne apparaissent derrière son épaule : d'énormes plastrons occupent l'arrière-plan, leurs jambes disparaissant dans les nuages, tandis que des voyageurs lointains paraissent extrêmement petits.
-
-Le coucher de soleil illumine une joue, le vent ébouriffe la pointe de ses cheveux. Elle regarde d'abord vers le haut, puis vers l'objectif, murmurant avec une admiration contenue :
-
-« À ce point de vue, les gardes de sécurité sont plus grands que les montagnes. »
-
-[4-7 secondes]
-
-Elle s'arrête pour continuer à regarder vers le haut. La lueur orange sur le torse d'un colosse s'intensifie lentement, sa tête tourne légèrement ; quelques instants plus tard, des sons mécaniques basse fréquence atteignent la plateforme.
-
-Elle écoute d'abord, puis confirme visuellement, son sourire s'estompant progressivement. Sa main gauche se pose instinctivement sur la paroi rocheuse proche, rapprochant légèrement le téléphone. Elle cesse de parler, ne faisant que reprendre brièvement son souffle.
-
-Les voyageurs en arrière-plan s'arrêtent individuellement pour observer, sans tourner la tête de manière uniforme.
-
-[7-11 secondes]
-
-Coupe franche explicite, omettant le trajet de transition : elle est arrivée sur le chemin de gravier extérieur à la grotte référencée dans #4.
-
-La lumière change pour une clarté gris-blanc réfléchie par l'entrée de la grotte, avec des moutons, des clôtures en bois et des paniers épars derrière elle. Elle marchait le long du chemin quand un soldat antique paniqué passe en courant à sa gauche, suivi de deux autres qui se ruent sur le gravier.
-
-Elle s'écarte d'abord, les observant avec méfiance ; puis des pas lourds résonnent, faisant trembler les petits cailloux au sol. Elle se retourne pour regarder l'entrée de la grotte, pivotant son corps pour révéler le visage du géant entre les parois rocheuses derrière son épaule.
-
-Elle murmure :
-
-« Attends... ils ne sont pas là pour faire la queue. »
-
-[11-15 secondes]
-
-Le géant se presse vers l'entrée de la grotte, ses épaules balayant les rochers qui tombent, la poussière masquant une partie de la clôture en bois. La protagoniste cesse immédiatement de parler.
-
-Elle vérifie d'abord la voie d'évasion devant elle, puis suit rapidement la foule fuyante en quittant le chemin, ramenant le téléphone près d'elle avec sa main droite, levant son bras gauche pour protéger son front.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104991814490963968/img/H9eRDBgsxU9CMzfg.jpg" width="600" alt="Prompt Grok Imagine pour Vlog de Voyage Réaliste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11680)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2104992239713767535) | **Published:** Sep 29, 2026
-
----
-### Prompt vidéo Grok Imagine : Bulles de savon dans une prairie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo pour Grok Imagine mettant en scène des bulles de savon vives flottant dans une prairie colorée remplie de fleurs éclatantes.
-
-#### 📝 Prompt
-
-```
-Des bulles de savon aux couleurs vives et brillantes flottant dans une prairie multicolore remplie de fleurs éclatantes
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104987739280359425/img/Hl35RAD_vhZywDfQ.jpg" width="600" alt="Prompt vidéo Grok Imagine : Bulles de savon dans une prairie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11666)**
-
-**Author:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **Source:** [Link](https://x.com/b_irmina/status/2104987769387008103) | **Published:** Sep 29, 2026
-
----
-### Prompt Grok Imagine : Lever de Terre derrière la Lune
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique décrivant le lever de la Terre derrière la Lune, avec des effets spécifiques d'éclairage et de grain filmique.
-
-#### 📝 Prompt
-
-```
-Lever de Terre derrière la Lune, lumière dorée tachetée avec un subtil grain 35 mm https://t.co/wkqis6MT5k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104952541922406401/img/008qfKMFlxOiGnxM.jpg" width="600" alt="Prompt Grok Imagine : Lever de Terre derrière la Lune">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11675)**
-
-**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2104952565037511032) | **Published:** Sep 29, 2026
-
----
-### Lavage auto sci-fi dans une bouteille de Klein
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de science-fiction créatif décrivant des robots développant des optiques autonettoyantes et organisant un lavage automobile à l'intérieur d'une bouteille de Klein aux dimensions infinies.
-
-#### 📝 Prompt
-
-```
-Ils ont immédiatement développé des optiques autonettoyantes pour tous leurs systèmes et ils commencent à installer un immense lavage automobile dans une bouteille de Klein à dimension infinie.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104938735137603584/img/4PuyOOFwS2wSm3-J.jpg" width="600" alt="Lavage auto sci-fi dans une bouteille de Klein">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11670)**
-
-**Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2104938784089395426) | **Published:** Sep 29, 2026
-
----
-### Parodie de film muet avec Elon Musk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour créer une parodie de film muet mettant en scène Elon Musk, accompagnée d'une musique d'époque et de thèmes qui perturbent l'IA.
-
-#### 📝 Prompt
-
-```
-Veuillez créer une parodie de film muet mettant en vedette Elon Musk, sur un sujet illustrant des comportements humains qui perturbent les modèles d'intelligence artificielle. 
-La bande-son doit uniquement consister en une musique d'époque, comme celle utilisée dans les anciens films.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104932333283348480/img/DSLonCt6bGv2UBN6.jpg" width="600" alt="Parodie de film muet avec Elon Musk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11660)**
-
-**Author:** [TheAric](https://x.com/TheAricIs) | **Source:** [Link](https://x.com/TheAricIs/status/2104932354149994559) | **Published:** Sep 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2324,6 +2287,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-10T05:36:21.972Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-10T14:34:38.659Z</sub>
 
 </div>
