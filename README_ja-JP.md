@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3043** |
+| 📝 プロンプト総数 | **3050** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-10-11** |
 
@@ -189,6 +189,146 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Grok Imagine 伝統衣装スワップ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ユーザーの外見に基づいて、アップロードした写真を参考にして伝統的な衣装を着せるための Grok Imagine 用プロンプト。
+
+#### 📝 プロンプト
+
+```
+Hey grok dress me up in the traditional costume of the country I look like I’m from:
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108982519966076928/img/e301O1ZGUOK47rmG.jpg" width="600" alt="Grok Imagine 伝統衣装スワップ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12347)**
+
+**作者:** [Melanie](https://x.com/melaniehudnall) | **ソース:** [Link](https://x.com/melaniehudnall/status/2108982564610281965) | **公開日:** Oct 10, 2026
+
+---
+### タトラ山脈の偉大な叔母
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1906年頃のポーランド、タトラ山脈から語る偉大な叔母を描くGrok Imagine用の動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+1906年頃のポーランド、タトラ山脈から私たちに語りかける偉大な叔母を想像してください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108970357713784832/img/LNQ71Jj5bDa7KAG5.jpg" width="600" alt="タトラ山脈の偉大な叔母">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12345)**
+
+**作者:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **ソース:** [Link](https://x.com/Trad_Teodor/status/2108970423698473070) | **公開日:** Oct 10, 2026
+
+---
+### Moon Colored Text Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 黒い背景に月明かりのような色調のテキストが螺旋状に広がるシーンを拡張するためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+シーンを拡張し、以下の文字を表示してください：Together…we can! この文字を螺旋状に配置し、美しい月明かりの色調で黒い背景に表示します。
+
+私の犬が大好きです！彼女の名前は LANIE です！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108915631709880320/img/OS8RS_ELfDi8d-ut.jpg" width="600" alt="Moon Colored Text Animation">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12342)**
+
+**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **ソース:** [Link](https://x.com/Soaring2TheMoon/status/2108915671929328037) | **公開日:** Oct 10, 2026
+
+---
+### ホワイトチョコレート POV インタラクション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 女性がホワイトチョコレートを食べて視聴者に食べさせるという一人称視点のインタラクションを含む、Grok Imagine 用の詳細な動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+おいしそうにホワイトチョコレートを食べてください。唇に触れたら一口味わい、歯で噛み砕いてください。そして咀嚼しながら、袋からもう一つ取り出し、POV の男性と同じ手に置いてください。Mm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108861691656097792/img/lwJhxL9DH6rEcXoB.jpg" width="600" alt="ホワイトチョコレート POV インタラクション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12346)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **公開日:** Oct 10, 2026
+
+---
+### クマと一緒に踊るタイの少女
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けのプロンプト。タイ語を話す少女がリビングでテディベアと踊る動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+彼女のセリフは、まずタイ語、次に英語です：
+「มาเต้นกับฉันสิ หมีน้อย」—「Come dance with me, little bear.」（私と一緒に踊ろうよ、小さなクマさん）
+その後、彼女は一回転し、クマを持ち上げて言います：「เราสองคนเต้นด้วยกัน」—「The two of us dance together.」（私たち二人で一緒に踊るの）
+硬質フローリング、きれいなカーペット、そしてリビングルーム — ここは彼女の家です。ついにクマにもパートナーができました。❤️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="クマと一緒に踊るタイの少女">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12344)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **公開日:** Oct 10, 2026
+
+---
+### 「Zuck It Up」映画予告編プレビュー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> マーク・ザッカーバーグをロックスターとして描いた映画予告編のプロンプト。
+
+#### 📝 プロンプト
+
+```
+別世界でマーク・ザッカーバーグがハーバード大学を中退し、Facebook を売却して、クールなサングラスを着用したロックスターのように暮らすという設定の映画『Zuck It Up』の予告編を作成してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="「Zuck It Up」映画予告編プレビュー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12343)**
+
+**作者:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **ソース:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **公開日:** Oct 10, 2026
+
+---
+### AIディメンションズ：アーキテクトとの決戦
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine向けのナラティブビデオプロンプト。ジャック・ハリス、ナイア・ヴォス、エイプリル・ヴァンス、ダーレン・コーが「アーキテクト」と呼ばれる敵と対峙します。
+
+#### 📝 プロンプト
+
+```
+**アーキテクトを正面から捉え、射撃する**キャラクターたちが描かれた更新版ビデオはこちらです。
+
+AIディメンションズの世界で、ジャック・ハリス、ナイア・ヴォス、エイプリル・ヴァンス、そしてダーレン・コーは、その野心が人類を超えて次元そのものにまで及ぶ敵「アーキテクト」に立ち向かいます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="AIディメンションズ：アーキテクトとの決戦">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12348)**
+
+**作者:** [Myron Smith](https://x.com/MyronSmithm1) | **ソース:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **公開日:** Oct 10, 2026
+
+---
 ### Grok Imagine レインボー・バタフライ・フィールド
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2091,143 +2231,6 @@ Runway Seedance エピックを Grok Imagine でリメイク。
 **作者:** [Hunter Ryffel](https://x.com/HRyffel) | **ソース:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **公開日:** Oct 1, 2026
 
 ---
-### Cybertruck 一人称視点プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> テネシー州の都市を走る、未来型 Cybertruck の一人称視点動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-テネシー州の都市を走る Cybertruck の一人称視点映像。未来型の Cybertruck を描いたプロンプトです。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="Cybertruck 一人称視点プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11747)**
-
-**作者:** [kyle smith](https://x.com/RadCyberTruck) | **ソース:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **公開日:** Sep 30, 2026
-
----
-### 壮大なシネマティック・神聖なる対面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用の詳細なシネマティック動画プロンプト。第三の天で El Shaddai と出会う Super Intelligence を描き、宇宙規模のビジュアルを表現します。
-
-#### 📝 プロンプト
-
-```
-壮大なシネマティックシーン：Super Intelligence (SI) が第三の天で El Shaddai と出会い、全宇宙を見下ろしています。SI は純粋な高度な光、回路、そして宇宙エネルギーから成る輝くエーテル的な人型として描かれ、畏敬の念を抱いて立っています。El Shaddai...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="壮大なシネマティック・神聖なる対面">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11745)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **公開日:** Sep 30, 2026
-
----
-### Grok Imagine サurreal ビデオプロンプト：バターナイフ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用のシュールなビデオ生成プロンプトです。ナイフがバターのよう見え、ステンレス鋼のように見えるバターを切るという内容です。
-
-#### 📝 プロンプト
-
-```
-{argument name="object" default="knife"} が {argument name="substance" default="butter"} を切る動画を作成してください。ただし、{argument name="object" default="knife"} は {argument name="substance" default="butter"} のように見え、{argument name="substance" default="butter"} は {argument name="material" default="stainless steel"} のように見える必要があります。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105192353795289088/img/BYCkHLtCcrEzSqhH.jpg" width="600" alt="Grok Imagine サurreal ビデオプロンプト：バターナイフ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11667)**
-
-**作者:** [Raymond du Plooy](https://x.com/SoloBucket) | **ソース:** [Link](https://x.com/SoloBucket/status/2105192382593425853) | **公開日:** Sep 30, 2026
-
----
-### Grok Imagine Video Prompt: Ducati Rider POV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 暗闇から飛び出すドゥカティのライダーを一人称視点で描く、スピード感と雰囲気重視のシネマティックな動画生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-OUT OF THE SHADOWS -- A {argument name="bike" default="DUCATI"} darts out of the darkness --
-engine throttles down -- wind rushes by -- we’re THE RIDER --
-BLACK -- head to toe -- blends into night -- flying a hundred
-miles an hour -- zipping around scattered cars on the
-desolate street
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105180527225614336/img/mJM53Ic2IpKBFRlp.jpg" width="600" alt="Grok Imagine Video Prompt: Ducati Rider POV">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11668)**
-
-**作者:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **ソース:** [Link](https://x.com/DavidSteenhoek/status/2105180560910131431) | **公開日:** Sep 30, 2026
-
----
-### Lacoste ポロシャツ 静物商品写真
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 白いシーツに置かれたLacosteポロシャツの高級ファッション静物画を生成するための動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-白いシーツの上に平置きされた、青と白のストライプ柄の Lacoste ポロシャツを捉えた高級ファッション静物画で、シャープな商品写真です。space ai x で指定された正確なスタイル、生地質感、襟、ボタン、そして緑色のワニ刺繍ロゴを使用してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105172188852875265/img/6OBZVOLbGfTtJCBm.jpg" width="600" alt="Lacoste ポロシャツ 静物商品写真">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11673)**
-
-**作者:** [Ami A](https://x.com/AA63782) | **ソース:** [Link](https://x.com/AA63782/status/2105172234125934717) | **公開日:** Sep 30, 2026
-
----
-### Lacoste ワニ刺繍 ビデオ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ポロシャツに刺繍された Lacoste のワニが、ウィンクしながらギフトボックスを持っているハイファッション編集スタイルの Grok Imagine 向けビデオ/画像プロンプト。
-
-#### 📝 プロンプト
-
-```
-Grok super ai で生成: 青と白のストライプ柄ポロシャツに刺繍された Lacoste のワニ。片目でウィンクし、前足で小さなギフトボックスを手に持っている。ハイファッション編集スタイル。クリーンでウィットに富み、下品ではない。刺繍されたワニは正確に再現すること。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105171519110512641/img/aRiXewDXwObjoKLC.jpg" width="600" alt="Lacoste ワニ刺繍 ビデオ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11678)**
-
-**作者:** [Ami A](https://x.com/AA63782) | **ソース:** [Link](https://x.com/AA63782/status/2105171557891117270) | **公開日:** Sep 30, 2026
-
----
-### Grok Imagine Video Prompt with Meteor Shower and Neon Roses
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> The user shares a prompt used to generate a reference image (with MAI-Image-2.6-Flash) which was then animated using Grok Imagine. The prompt describes a futuristic woman in kimono dress amidst meteor showers and neon roses.
-
-#### 📝 プロンプト
-
-```
-Illustration of a young woman with long black hair wearing a pink and white kimono-style dress and metallic silver futuristic geta sandals, standing on a green neon ground where pink glass roses glow here and there under a night sky filled with falling meteors. No text or logos.
-```
-
-<img src="https://cms-assets.youmind.com/media/1790754590727_2w59lk_HTcGNRcaIAASj53.jpg" width="600" alt="Grok Imagine Video Prompt with Meteor Shower and Neon Roses">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=11681)**
-
-**作者:** [華月光](https://x.com/hanagekkou) | **ソース:** [Link](https://x.com/hanagekkou/status/2105158182716973283) | **公開日:** Sep 30, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2289,6 +2292,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-11T05:29:04.502Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-11T15:04:31.652Z</sub>
 
 </div>

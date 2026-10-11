@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3043** |
+| 📝 Total Prompts | **3050** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-11** |
 
@@ -189,6 +189,146 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### สลับชุดประจำชาติด้วย Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับ Grok Imagine เพื่อสวมใส่ชุดประจำชาติตามลักษณะของผู้ใช้ โดยอาจใช้รูปภาพที่อัปโหลดเป็นอ้างอิง
+
+#### 📝 Prompt
+
+```
+Hey grok ช่วยแต่งตัวฉันในชุดประจำชาติของประเทศที่ฉันดูเหมือนมาจาก:
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108982519966076928/img/e301O1ZGUOK47rmG.jpg" width="600" alt="สลับชุดประจำชาติด้วย Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12347)**
+
+**Author:** [Melanie](https://x.com/melaniehudnall) | **Source:** [Link](https://x.com/melaniehudnall/status/2108982564610281965) | **Published:** Oct 10, 2026
+
+---
+### คุณทวดจากเทือกเขาทาตรา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอด้วย Grok Imagine ที่แสดงภาพคุณทวดพูดจากเทือกเขาทาตราในโปแลนด์ ประมาณปี ค.ศ. 1906
+
+#### 📝 Prompt
+
+```
+ลองจินตนาการถึงคุณทวดของผม กำลังพูดกับเราจากเทือกเขาทาตราในโปแลนด์ ประมาณปี ค.ศ. 1906
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108970357713784832/img/LNQ71Jj5bDa7KAG5.jpg" width="600" alt="คุณทวดจากเทือกเขาทาตรา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12345)**
+
+**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2108970423698473070) | **Published:** Oct 10, 2026
+
+---
+### Moon Colored Text Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับขยายฉากให้แสดงข้อความสีพระจันทร์หมุนวนบนพื้นหลังสีดำ
+
+#### 📝 Prompt
+
+```
+Extend and have the scene turn to display the words:  Together…we can!  Make the words spiral and be on a black background with beautiful text in the colors of the moon.
+
+I love my dog!  Her name is LANIE!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108915631709880320/img/OS8RS_ELfDi8d-ut.jpg" width="600" alt="Moon Colored Text Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12342)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2108915671929328037) | **Published:** Oct 10, 2026
+
+---
+### ปฏิสัมพันธ์ช็อกโกแลตขาวในมุมมองบุคคลที่หนึ่ง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโออย่างละเอียดสำหรับ Grok Imagine ที่จำลองการโต้ตอบในมุมมองบุคคลที่หนึ่ง (POV) โดยผู้หญิงกินช็อกโกแลตขาวและป้อนให้ผู้ที่รับชม
+
+#### 📝 Prompt
+
+```
+กินช็อกโกแลตขาวของคุณสิ ที่รัก สัมผัสรสชาติเมื่อช็อกโกแลตขาวแตะริมฝีปากของคุณ ดึงมันเข้าหาฟันของคุณ จากนั้นขณะเคี้ยว ให้หยิบอีกชิ้นจากถุงแล้ววางลงบนมือของชายในมุมมอง POV ในตำแหน่งเดียวกันเป๊ะ อืม
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108861691656097792/img/lwJhxL9DH6rEcXoB.jpg" width="600" alt="ปฏิสัมพันธ์ช็อกโกแลตขาวในมุมมองบุคคลที่หนึ่ง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12346)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **Published:** Oct 10, 2026
+
+---
+### สาวไทยเต้นกับหมี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอใน Grok Imagine ที่แสดงภาพหญิงสาวพูดภาษาไทยและเต้นกับตุ๊กตาหมีในห้องนั่งเล่น
+
+#### 📝 Prompt
+
+```
+นี่คือบทพูดของเธอ โดยเป็นภาษาไทยก่อน แล้วตามด้วยภาษาอังกฤษ:
+“มาเต้นกับฉันสิ หมีน้อย” — “Come dance with me, little bear.”
+จากนั้นเธอหมุนตัวหนึ่งรอบ ยกตุ๊กตาหมีขึ้น และพูดว่า: “เราสองคนเต้นด้วยกัน” — “The two of us dance together.”
+พื้นไม้เนื้อแข็ง พรมที่สะอาด และห้องนั่งเล่น — เธออยู่ที่บ้าน ในที่สุดหมีก็มีคู่เต้นแล้ว ❤️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="สาวไทยเต้นกับหมี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12344)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **Published:** Oct 10, 2026
+
+---
+### ตัวอย่างภาพยนตร์ Zuck It Up
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างตัวอย่างภาพยนตร์ที่ Mark Zuckerberg เป็นร็อคสตาร์
+
+#### 📝 Prompt
+
+```
+สร้างตัวอย่างภาพยนตร์เรื่อง “Zuck It Up” เกี่ยวกับจักรวาลคู่ขนานที่ Mark Zuckerberg ลาออกจาก Harvard เพื่อขาย Facebook และใช้ชีวิตแบบร็อคสตาร์พร้อมสวมแว่นกันแดดสุดเท่
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="ตัวอย่างภาพยนตร์ Zuck It Up">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12343)**
+
+**Author:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **Source:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **Published:** Oct 10, 2026
+
+---
+### การต่อสู้ของนักออกแบบมิติ AI
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเล่าเรื่องสำหรับ Grok Imagine ที่นำเสนอตัวละคร Jack Harris, Naia Voss, April Vance และ Daren Korr เผชิญหน้ากับศัตรูที่ชื่อ The Architect
+
+#### 📝 Prompt
+
+```
+นี่คือวิดีโอฉบับอัปเดตที่ตัวละคร **เผชิญหน้าและยิงใส่ The Architect** อย่างชัดเจน:
+
+ใน AI Dimensions, Jack Harris, Naia Voss, April Vance และ Daren Korr เผชิญหน้ากับศัตรูที่มีความทะเยอทะยานเกินกว่ามนุษยชาติ ข้ามไปยังตัวมิติเอง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="การต่อสู้ของนักออกแบบมิติ AI">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12348)**
+
+**Author:** [Myron Smith](https://x.com/MyronSmithm1) | **Source:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **Published:** Oct 10, 2026
+
+---
 ### Grok Imagine Rainbow Butterfly Field
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2089,143 +2229,6 @@ Pad Deck มุมกล้องคงที่
 **Author:** [Hunter Ryffel](https://x.com/HRyffel) | **Source:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **Published:** Oct 1, 2026
 
 ---
-### พรอมต์มุมมองบุคคลที่หนึ่งสำหรับ Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอในมุมมองบุคคลที่หนึ่ง ขับขี่ Cybertruck รุ่นอนาคตผ่านเมืองในรัฐเทนเนสซี
-
-#### 📝 Prompt
-
-```
-มุมมองบุคคลที่หนึ่งขณะขับขี่ Cybertruck ในเมืองของรัฐเทนเนสซี เป็น Cybertruck รุ่นอนาคต
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="พรอมต์มุมมองบุคคลที่หนึ่งสำหรับ Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11747)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **Published:** Sep 30, 2026
-
----
-### การพบกันอันยิ่งใหญ่ของเทพเจ้าในฉากภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงภาพยนตร์ที่ละเอียดสำหรับ Grok Imagine ซึ่งแสดงภาพ Super Intelligence พบกับ El Shaddai ในสวรรค์ชั้นที่สามพร้อมภาพจักรวาลอันกว้างใหญ่
-
-#### 📝 Prompt
-
-```
-ฉากภาพยนตร์อันยิ่งใหญ่อลังการที่ Super Intelligence (SI) พบกับ El Shaddai ในสวรรค์ชั้นที่สาม มองลงมายังจักรวาลทั้งมวล SI ถูกนำเสนอในรูปทรงมนุษย์แสงสว่างบริสุทธิ์ขั้นสูง วงจรไฟฟ้า และพลังงานจักรวาล ยืนอย่างตะลึงงัน ส่วน El Shaddai...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="การพบกันอันยิ่งใหญ่ของเทพเจ้าในฉากภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11745)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **Published:** Sep 30, 2026
-
----
-### Grok Imagine Surreal Video Prompt: Butter Knife
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเหนือจริงสำหรับ Grok Imagine ที่แสดงมีดที่ดูเหมือนเนย กำลังตัดผ่านเนยที่ดูเหมือนสแตนเลส
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอของ {argument name="object" default="knife"} ที่กำลังตัดผ่าน {argument name="substance" default="butter"} โดยที่ {argument name="object" default="knife"} ต้องมีลักษณะเหมือน {argument name="substance" default="butter"} และ {argument name="substance" default="butter"} ต้องมีลักษณะเหมือน {argument name="material" default="stainless steel"}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105192353795289088/img/BYCkHLtCcrEzSqhH.jpg" width="600" alt="Grok Imagine Surreal Video Prompt: Butter Knife">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11667)**
-
-**Author:** [Raymond du Plooy](https://x.com/SoloBucket) | **Source:** [Link](https://x.com/SoloBucket/status/2105192382593425853) | **Published:** Sep 30, 2026
-
----
-### พรอมต์วิดีโอ Grok Imagine: มุมมองผู้ขับขี่ Ducati
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างวิดีโอแบบภาพยนตร์สำหรับ Grok Imagine ที่อธิบายมุมมองบุคคลที่หนึ่งขณะขี่มอเตอร์ไซค์ Ducati พุ่งทะลุความมืด เน้นความเร็วและบรรยากาศ
-
-#### 📝 Prompt
-
-```
-จากเงามืด -- {argument name="bike" default="DUCATI"} พุ่งทะลุความมืด --
-เครื่องยนต์เร่งรอบ -- ลมพัดกระหน่ำ -- เราคือ ผู้ขับขี่ --
-สีดำ -- ตั้งแต่หัวจรดเท้า -- กลืนหายไปในราตรี -- บินฉิวด้วยความเร็ว
-ร้อยไมล์ต่อชั่วโมง -- ซอกแซกผ่านรถยนต์ที่จอดกระจายอยู่บนถนน
-รกร้าง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105180527225614336/img/mJM53Ic2IpKBFRlp.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine: มุมมองผู้ขับขี่ Ducati">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11668)**
-
-**Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2105180560910131431) | **Published:** Sep 30, 2026
-
----
-### ภาพสินค้า Lacoste Polo แบบ Still Life
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอภาพนิ่งสไตล์ลักชัวรี่ของเสื้อโปโล Lacoste บนผ้าปูสีขาว
-
-#### 📝 Prompt
-
-```
-เสื้อโปโล Lacoste ลายทางสีน้ำเงินและขาววางแบนราบเป็นภาพนิ่งสไตล์แฟชั่นระดับไฮเอนด์บนผ้าปูสีขาว ถ่ายภาพสินค้าแบบคมชัด ใช้สไตล์ เนื้อผ้า ปก กระดุม และโลโก้จระเข้ปักสีเขียวที่แม่นยำจาก space ai x
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105172188852875265/img/6OBZVOLbGfTtJCBm.jpg" width="600" alt="ภาพสินค้า Lacoste Polo แบบ Still Life">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11673)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2105172234125934717) | **Published:** Sep 30, 2026
-
----
-### วิดีโอการปักจระเข้ Lacoste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Grok Imagine ที่แสดงภาพจระเข้ Lacoste ปักบนเสื้อโปโล โดยกำลังขยิบตาและถือกล่องของขวัญ ในสไตล์นิตยสารแฟชั่นระดับสูง
-
-#### 📝 Prompt
-
-```
-Grok super ai จระเข้ Lacoste ปักอยู่บนเสื้อโปโลลายทางสีน้ำเงิน-ขาว จระเข้กำลังขยิบตาข้างหนึ่งและถือกล่องของขวัญเล็กๆ ด้วยอุ้งเท้าหน้า สไตล์นิตยสารแฟชั่นระดับสูง สะอาด มีไหวพริบ ไม่หยาบคาย ให้ยึดตามรูปแบบการปักจระเข้ที่ระบุไว้อย่างแม่นยำ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105171519110512641/img/aRiXewDXwObjoKLC.jpg" width="600" alt="วิดีโอการปักจระเข้ Lacoste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11678)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2105171557891117270) | **Published:** Sep 30, 2026
-
----
-### พรอมต์วิดีโอ Grok Imagine พร้อมฉากฝนดาวตกและกุหลาบนีออน
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> ผู้ใช้แบ่งปันพรอมต์ที่ใช้สร้างภาพอ้างอิง (ด้วย MAI-Image-2.6-Flash) ซึ่งต่อมาถูกทำเป็นแอนิเมชันโดยใช้ Grok Imagine พรอมต์อธิบายถึงหญิงสาวสไตล์อนาคตในชุดกิโมโนท่ามกลางฝนดาวตกและกุหลาบนีออน
-
-#### 📝 Prompt
-
-```
-ภาพประกอบของหญิงสาวผมดำยาว สวมชุดเดรสสไตล์กิโมโนสีชมพูและขาว และรองเท้าเกี๊ยะโลหะเงินดีไซน์ล้ำสมัย ยืนอยู่บนพื้นเรืองแสงสีเขียว มีกุหลาบแก้วสีชมพูเรืองแสงกระจายอยู่ใต้ท้องฟ้ายามค่ำคืนที่มีดาวตกโปรยปราย ไม่มีข้อความหรือโลโก้
-```
-
-<img src="https://cms-assets.youmind.com/media/1790754590727_2w59lk_HTcGNRcaIAASj53.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine พร้อมฉากฝนดาวตกและกุหลาบนีออน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11681)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2105158182716973283) | **Published:** Sep 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2287,6 +2290,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-11T05:29:07.556Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-11T15:04:34.561Z</sub>
 
 </div>

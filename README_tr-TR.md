@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3043** |
+| 📝 Total Prompts | **3050** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-11** |
 
@@ -189,6 +189,146 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Geleneksel Kostüm Değişimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kullanıcının görünümüne göre geleneksel kostümler giydirmesi için Grok Imagine'e yönelik bir istem; muhtemelen referans olarak yüklenen bir fotoğraf kullanılır.
+
+#### 📝 Prompt
+
+```
+Hey grok, bana ait olduğum ülkenin geleneksel kostümünü giydir:
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108982519966076928/img/e301O1ZGUOK47rmG.jpg" width="600" alt="Grok Imagine Geleneksel Kostüm Değişimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12347)**
+
+**Author:** [Melanie](https://x.com/melaniehudnall) | **Source:** [Link](https://x.com/melaniehudnall/status/2108982564610281965) | **Published:** Oct 10, 2026
+
+---
+### Tatra Dağları'ndan Büyük Teyze
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, yaklaşık 1906 yılında Polonya'daki Tatra Dağları'ndan konuşan bir büyük teyzeyi tasvir eden bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Hayal edin: Büyük teyzem, yaklaşık 1906 yılında Polonya'daki Tatra Dağları'ndan bize sesleniyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108970357713784832/img/LNQ71Jj5bDa7KAG5.jpg" width="600" alt="Tatra Dağları'ndan Büyük Teyze">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12345)**
+
+**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2108970423698473070) | **Published:** Oct 10, 2026
+
+---
+### Ay Renginde Metin Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Siyah arka plan üzerinde spiralli ay rengi metinlerle sahneyi genişletmek için istem.
+
+#### 📝 Prompt
+
+```
+Sahneyi genişletin ve şu kelimeleri göstermeye başlayın: Birlikte…yapabiliriz! Kelimelerin spiral şeklinde dönmesini sağlayın ve siyah bir arka plan üzerinde, ay renklerinde güzel bir yazı tipiyle görünsün.
+
+Köpeğimi çok seviyorum! Adı LANIE!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108915631709880320/img/OS8RS_ELfDi8d-ut.jpg" width="600" alt="Ay Renginde Metin Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12342)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2108915671929328037) | **Published:** Oct 10, 2026
+
+---
+### Beyaz Çikolata POV Etkileşimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, bir kadının beyaz çikolata yediği ve izleyiciye beslediği birinci şahıs perspektifli etkileşimi içeren detaylı bir video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Beyaz çikolatayı ye tatlım, beyaz çikolata dudaklarına değince ısırığın tadını çıkar, dişlerine doğru çek, sonra çiğnerken poşetten bir tane daha al ve POV'daki adamın tam olarak aynı eline koy, Mm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108861691656097792/img/lwJhxL9DH6rEcXoB.jpg" width="600" alt="Beyaz Çikolata POV Etkileşimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12346)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **Published:** Oct 10, 2026
+
+---
+### Ayı ile Dans Eden Tay Kız
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, bir kızın Tay dilinde replikler söylediği ve oturma odasında bir ayıcıkla dans ettiği video üretim istemi.
+
+#### 📝 Prompt
+
+```
+İşte repliği, önce Tayca, sonra İngilizce:
+“มาเต้นกับฉันสิ หมีน้อย” — “Hadi benimle dans et, küçük ayıcı.”
+Sonra bir tur döner, ayıcıyı havaya kaldırır ve şöyle der: “เราสองคนเต้นด้วยกัน” — “Biz ikimiz birlikte dans ederiz.”
+Parke zemin, temiz halı, oturma odası — evinde. Ayıcık sonunda bir dans partneri buldu. ❤️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="Ayı ile Dans Eden Tay Kız">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12344)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **Published:** Oct 10, 2026
+
+---
+### Zuck It Up Film Önizlemesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mark Zuckerberg'i bir rock yıldızı olarak gösteren bir film önizlemesi oluşturmak için istem.
+
+#### 📝 Prompt
+
+```
+Alternatif bir evrende Mark Zuckerberg'in Harvard'dan Facebook'u satmak ve süper havalı güneş gözlükleriyle bir rock yıldızı gibi yaşamak için ayrıldığı "Zuck It Up" adlı film için bir önizleme oluşturun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="Zuck It Up Film Önizlemesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12343)**
+
+**Author:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **Source:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **Published:** Oct 10, 2026
+
+---
+### AI Dimensions: Architect Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Jack Harris, Naia Voss, April Vance ve Daren Korr karakterlerinin Architect adlı düşmanla karşı karşıya geldiği Grok Imagine için bir anlatı video istemi.
+
+#### 📝 Prompt
+
+```
+İşte karakterlerin net bir şekilde **Architect'e dönük olduğu ve ona ateş ettiği** güncellenmiş video:
+
+AI Dimensions'ta Jack Harris, Naia Voss, April Vance ve Daren Korr; hırsı insanlığı aşarak boyutların kendisine uzanan bir düşmanla yüzleşiyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="AI Dimensions: Architect Savaşı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12348)**
+
+**Author:** [Myron Smith](https://x.com/MyronSmithm1) | **Source:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **Published:** Oct 10, 2026
+
+---
 ### Grok Imagine Gökkuşağı Kelebek Çayırı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2089,142 +2229,6 @@ Orman yangınlarından geçmek üzere tasarlanmış ısıya dayanıklı kaplamal
 **Author:** [Hunter Ryffel](https://x.com/HRyffel) | **Source:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **Published:** Oct 1, 2026
 
 ---
-### Cybertruck Birinci Şahıs Görüşü İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tennessee'deki bir şehirde gelecekteki bir Cybertruck varyantını sürerken birinci şahıs perspektifli video istemi.
-
-#### 📝 Prompt
-
-```
-Birinci şahıs görüşü, Tennessee'de bir şehirde Cybertruck sürüşü. Gelecekteki Cybertruck varyantları.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="Cybertruck Birinci Şahıs Görüşü İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11747)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **Published:** Sep 30, 2026
-
----
-### Epik Sinematik İlahi Buluşma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için üçüncü gökte Süper Zeka'nın El Şaddai ile kozmik görseller eşliğinde buluşmasını tasvir eden detaylı sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Üçüncü gökte, tüm evrenin üzerinde duran Süper Zeka (SI) ile El Şaddai'nin buluşmasını gösteren epik sinematik sahne. SI; saf ileri düzey ışık, devreler ve kozmik enerjiden oluşan, hayranlıkla bakan parlayan, ruhani bir insansı form olarak tasvir ediliyor. El Şaddai...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="Epik Sinematik İlahi Buluşma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11745)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **Published:** Sep 30, 2026
-
----
-### Grok Imagine Sürreal Video İstemi: Bıçak ve Tereyağı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bıçağın tereyağı gibi göründüğü ve paslanmaz çelik görünümlü tereyağını kestiği Grok Imagine için sürreal bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-{argument name="object" default="knife"} adlı nesnenin {argument name="substance" default="butter"} maddesini kestiği bir video oluşturun; ancak {argument name="object" default="knife"} {argument name="substance" default="butter"} gibi görünmeli ve {argument name="substance" default="butter"} ise {argument name="material" default="stainless steel"} gibi görünmelidir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105192353795289088/img/BYCkHLtCcrEzSqhH.jpg" width="600" alt="Grok Imagine Sürreal Video İstemi: Bıçak ve Tereyağı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11667)**
-
-**Author:** [Raymond du Plooy](https://x.com/SoloBucket) | **Source:** [Link](https://x.com/SoloBucket/status/2105192382593425853) | **Published:** Sep 30, 2026
-
----
-### Grok Imagine Video İstemi: Ducati Sürücüsü Bakış Açısı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlıktan çıkan bir Ducati motosiklet sürüşünün birinci şahıs perspektifini, hız ve atmosfer odaklı olarak tanımlayan sinematik bir Grok Imagine video üretim istemi.
-
-#### 📝 Prompt
-
-```
-GÖLGELERDEN ÇIKIŞ -- Bir {argument name="bike" default="DUCATI"} karanlıktan fırlıyor --
-motor gazı kesiliyor -- rüzgar esiyor -- biz SÜRÜCÜYÜZ --
-SİYAH -- baştan ayağa -- geceyle bütünleşiyor -- saatte yüz mil
-hızla gidiyor -- ıssız sokakta dağınık arabaların arasından geçiyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105180527225614336/img/mJM53Ic2IpKBFRlp.jpg" width="600" alt="Grok Imagine Video İstemi: Ducati Sürücüsü Bakış Açısı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11668)**
-
-**Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2105180560910131431) | **Published:** Sep 30, 2026
-
----
-### Lacoste Polo Ölü Doğa Ürün Çekimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Beyaz çarşaflar üzerinde duran Lacoste polo tişörtün lüks moda ölü doğa sahnesi için video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Beyaz çarşaflar üzerine düz bir şekilde serilmiş, mavi-beyaz çizgili Lacoste polo tişörtün lüks moda ölü doğa sahnesi olarak çekilmiş keskin bir ürün fotoğrafı. space ai x'ten alınan tam stil, kumaş dokusu, yaka, düğmeler ve yeşil timsah nakış logosunu kullanın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105172188852875265/img/6OBZVOLbGfTtJCBm.jpg" width="600" alt="Lacoste Polo Ölü Doğa Ürün Çekimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11673)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2105172234125934717) | **Published:** Sep 30, 2026
-
----
-### Lacoste Timsah İşlemesi Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, yüksek moda editoryal tarzında, polo yaka gömlek üzerine işlenmiş, göz kırpan ve bir hediye kutusu tutan Lacoste timsahını içeren bir video/görsel istemi.
-
-#### 📝 Prompt
-
-```
-Grok süper ai, mavi-beyaz çizgili polo yaka gömlek üzerine işlenmiş Lacoste timsahı; timsah tek gözünü kırpıyor ve ön pençelerinde küçük bir hediye kutusu tutuyor, yüksek moda editoryal tarzı, temiz ve zeki ama kaba olmayan. İşlenmiş timsahı tam olarak baz al.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105171519110512641/img/aRiXewDXwObjoKLC.jpg" width="600" alt="Lacoste Timsah İşlemesi Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11678)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2105171557891117270) | **Published:** Sep 30, 2026
-
----
-### Grok Imagine Video Prompt: Meteor Yağmuru ve Neon Güller
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Kullanıcı, önce referans görüntü oluşturmak için (MAI-Image-2.6-Flash ile) kullanılan ve ardından Grok Imagine ile animasyon haline getirilen bir prompt paylaşıyor. Prompt, meteor yağmurları ve neon güller arasında duran fütüristik bir kimono giyen kadını tasvir ediyor.
-
-#### 📝 Prompt
-
-```
-Uzun siyah saçlı genç bir kadın illüstrasyonu; pembe-beyaz kimono tarzı elbise ve metalik gümüş renkli fütüristik geta sandaletler giyiyor. Yeşil neon zemin üzerinde duruyor, etrafta parlayan pembe cam güller var ve gökyüzünde düşen meteorlarla dolu bir gece manzarası görülüyor. Metin veya logo yok.
-```
-
-<img src="https://cms-assets.youmind.com/media/1790754590727_2w59lk_HTcGNRcaIAASj53.jpg" width="600" alt="Grok Imagine Video Prompt: Meteor Yağmuru ve Neon Güller">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11681)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2105158182716973283) | **Published:** Sep 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2286,6 +2290,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-11T05:29:19.868Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-11T15:04:48.985Z</sub>
 
 </div>

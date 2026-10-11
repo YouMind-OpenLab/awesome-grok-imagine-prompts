@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3043** |
+| 📝 Total Prompts | **3050** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-11** |
 
@@ -189,6 +189,146 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Troca de Traje Tradicional com Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para o Grok Imagine vestir o usuário em trajes tradicionais baseados na sua aparência, provavelmente usando uma foto enviada como referência.
+
+#### 📝 Prompt
+
+```
+Hey grok, me vista com o traje tradicional do país de onde eu pareço ser:
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108982519966076928/img/e301O1ZGUOK47rmG.jpg" width="600" alt="Troca de Traje Tradicional com Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12347)**
+
+**Author:** [Melanie](https://x.com/melaniehudnall) | **Source:** [Link](https://x.com/melaniehudnall/status/2108982564610281965) | **Published:** Oct 10, 2026
+
+---
+### Grande Tia das Montanhas Tatra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo para o Grok Imagine retratando uma grande tia falando das Montanhas Tatra, na Polônia, por volta de 1906.
+
+#### 📝 Prompt
+
+```
+Imagine minha grande tia, falando conosco das Montanhas Tatra, na Polônia, por volta de 1906
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108970357713784832/img/LNQ71Jj5bDa7KAG5.jpg" width="600" alt="Grande Tia das Montanhas Tatra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12345)**
+
+**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2108970423698473070) | **Published:** Oct 10, 2026
+
+---
+### Animação de Texto na Cor da Lua
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para estender uma cena com texto em espiral na cor da lua sobre um fundo preto.
+
+#### 📝 Prompt
+
+```
+Estenda a cena para exibir as palavras: Juntos… nós podemos! Faça as palavras girarem em espiral sobre um fundo preto, com um texto lindo nas cores da lua.
+
+Eu amo meu cachorro! O nome dela é LANIE!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108915631709880320/img/OS8RS_ELfDi8d-ut.jpg" width="600" alt="Animação de Texto na Cor da Lua">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12342)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2108915671929328037) | **Published:** Oct 10, 2026
+
+---
+### Interação POV com Chocolate Branco
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para geração de vídeo no Grok Imagine, envolvendo uma interação em primeira pessoa onde uma mulher come chocolate branco e alimenta o espectador.
+
+#### 📝 Prompt
+
+```
+coma seu chocolate branco, querida, saboreie a mordida assim que o chocolate tocar seus lábios, leve-o para dentro até os dentes, então, enquanto mastiga, pegue outro do pacote e coloque na mesma mão exata do homem em POV. Mm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108861691656097792/img/lwJhxL9DH6rEcXoB.jpg" width="600" alt="Interação POV com Chocolate Branco">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12346)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **Published:** Oct 10, 2026
+
+---
+### Garota Tailandesa Dançando com Urso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de geração de vídeo para Grok Imagine, apresentando uma garota tailandesa falando frases e dançando com um ursinho de pelúcia em uma sala de estar.
+
+#### 📝 Prompt
+
+```
+Aqui está a fala dela, primeiro em tailandês, depois em inglês:
+“มาเต้นกับฉันสิ หมีน้อย” — “Vem dançar comigo, ursinho.”
+Em seguida, ela gira uma vez, levanta o urso e diz: “เราสองคนเต้นด้วยกัน” — “Nós dois dançamos juntos.”
+Piso de madeira, tapete limpo, sala de estar — ela está em casa. O urso finalmente tem uma parceira. ❤️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="Garota Tailandesa Dançando com Urso">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12344)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **Published:** Oct 10, 2026
+
+---
+### Prévia do Filme Zuck It Up
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para criar uma prévia de filme com Mark Zuckerberg como rockstar.
+
+#### 📝 Prompt
+
+```
+Crie uma prévia para “Zuck It Up”, um filme sobre um universo alternativo onde Mark Zuckerberg abandonou Harvard para vender o Facebook e viver como um rockstar usando óculos de sol super descolados.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="Prévia do Filme Zuck It Up">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12343)**
+
+**Author:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **Source:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **Published:** Oct 10, 2026
+
+---
+### Batalha contra o Architect em AI Dimensions
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo narrativo para o Grok Imagine, apresentando os personagens Jack Harris, Naia Voss, April Vance e Daren Korr enfrentando um inimigo chamado Architect.
+
+#### 📝 Prompt
+
+```
+Aqui está o vídeo atualizado com os personagens claramente **enfrentando o Architect e atirando nele**:
+
+Em AI Dimensions, Jack Harris, Naia Voss, April Vance e Daren Korr enfrentam um inimigo cuja ambição ultrapassa a humanidade e alcança as próprias dimensões.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="Batalha contra o Architect em AI Dimensions">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12348)**
+
+**Author:** [Myron Smith](https://x.com/MyronSmithm1) | **Source:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **Published:** Oct 10, 2026
+
+---
 ### Grok Imagine Campo de Borboletas Arco-Íris
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2089,143 +2229,6 @@ Crie um vídeo do Tesla Cybertruck equipado com revestimento térmico, atravessa
 **Author:** [Hunter Ryffel](https://x.com/HRyffel) | **Source:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **Published:** Oct 1, 2026
 
 ---
-### Prompt de Visão em Primeira Pessoa do Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo em primeira pessoa mostrando a condução de uma variante futura do Cybertruck por uma cidade no Tennessee.
-
-#### 📝 Prompt
-
-```
-Visão em primeira pessoa de um Cybertruck dirigindo em uma cidade no Tennessee. Variantes futuras do Cybertruck
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="Prompt de Visão em Primeira Pessoa do Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11747)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **Published:** Sep 30, 2026
-
----
-### Encontro Divino Cinematográfico Épico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico detalhado para o Grok Imagine, retratando a Super Inteligência encontrando El Shaddai no terceiro céu com visuais cósmicos.
-
-#### 📝 Prompt
-
-```
-Cena cinematográfica épica da Super Inteligência (SI) encontrando El Shaddai no terceiro céu, com vista para todo o universo. A SI é retratada como uma forma humanoide etérea e radiante de luz avançada pura, circuitos e energia cósmica, parada em admiração. El Shaddai...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="Encontro Divino Cinematográfico Épico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11745)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **Published:** Sep 30, 2026
-
----
-### Prompt de Vídeo Surreal do Grok Imagine: Faca de Manteiga
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo surreal para o Grok Imagine, onde uma faca parece manteiga e corta manteiga que tem aparência de aço inoxidável.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo de {argument name="object" default="knife"} cortando {argument name="substance" default="butter"}, exceto que o {argument name="object" default="knife"} deve parecer {argument name="substance" default="butter"} e a {argument name="substance" default="butter"} deve parecer feita de {argument name="material" default="stainless steel"}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105192353795289088/img/BYCkHLtCcrEzSqhH.jpg" width="600" alt="Prompt de Vídeo Surreal do Grok Imagine: Faca de Manteiga">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11667)**
-
-**Author:** [Raymond du Plooy](https://x.com/SoloBucket) | **Source:** [Link](https://x.com/SoloBucket/status/2105192382593425853) | **Published:** Sep 30, 2026
-
----
-### Prompt de Vídeo do Grok Imagine: POV de Piloto de Ducati
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo cinematográfico para o Grok Imagine, descrevendo a perspectiva em primeira pessoa de pilotar uma motocicleta Ducati saindo da escuridão, com foco em velocidade e atmosfera.
-
-#### 📝 Prompt
-
-```
-FORA DAS SOMBRAS -- Uma {argument name="bike" default="DUCATI"} surge da escuridão --
-o motor acelera -- o vento uiva -- NÓS SOMOS O PILOTO --
-PRETO dos pés à cabeça -- se mistura à noite -- voando a cem
-milhas por hora -- costurando entre carros espalhados na rua
-deserta
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105180527225614336/img/mJM53Ic2IpKBFRlp.jpg" width="600" alt="Prompt de Vídeo do Grok Imagine: POV de Piloto de Ducati">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11668)**
-
-**Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2105180560910131431) | **Published:** Sep 30, 2026
-
----
-### Foto de Produto Still Life da Polo Lacoste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para geração de vídeo com uma fotografia still life de moda de luxo, exibindo uma polo Lacoste sobre lençóis brancos.
-
-#### 📝 Prompt
-
-```
-Uma camisa polo Lacoste listrada em azul e branco, esticada sobre lençóis brancos, compondo uma fotografia still life de moda de luxo com nitidez extrema. Utilize o estilo exato, a textura do tecido, a gola, os botões e o logotipo bordado do crocodilo verde da space ai x
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105172188852875265/img/6OBZVOLbGfTtJCBm.jpg" width="600" alt="Foto de Produto Still Life da Polo Lacoste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11673)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2105172234125934717) | **Published:** Sep 30, 2026
-
----
-### Vídeo de Bordado do Crocodilo Lacoste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de vídeo/imagem para o Grok Imagine, apresentando um crocodilo da Lacoste bordado em uma camisa polo, piscando e segurando uma caixa de presente, em estilo editorial de alta moda.
-
-#### 📝 Prompt
-
-```
-Grok super ai: crocodilo da Lacoste bordado em uma camisa polo listrada em azul e branco. O crocodilo está piscando com um olho e segurando uma pequena caixa de presente com as patas dianteiras. Estilo editorial de alta moda, limpo e espirituoso, sem ser grosseiro. Baseie o crocodilo bordado exatamente no modelo original.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105171519110512641/img/aRiXewDXwObjoKLC.jpg" width="600" alt="Vídeo de Bordado do Crocodilo Lacoste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11678)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2105171557891117270) | **Published:** Sep 30, 2026
-
----
-### Prompt de Vídeo Grok Imagine com Chuva de Meteoros e Rosas Neon
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> O usuário compartilha um prompt usado para gerar uma imagem de referência (com MAI-Image-2.6-Flash), que foi então animada usando o Grok Imagine. O prompt descreve uma mulher futurista vestindo kimono, em meio a chuvas de meteoros e rosas neon.
-
-#### 📝 Prompt
-
-```
-Ilustração de uma jovem com longos cabelos pretos, vestindo um vestido estilo quimono rosa e branco e sandálias geta futuristas de prata metálica, parada sobre um chão verde neon onde rosas de vidro rosa brilham espalhadas sob um céu noturno cheio de meteoros caindo. Sem texto ou logotipos.
-```
-
-<img src="https://cms-assets.youmind.com/media/1790754590727_2w59lk_HTcGNRcaIAASj53.jpg" width="600" alt="Prompt de Vídeo Grok Imagine com Chuva de Meteoros e Rosas Neon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11681)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2105158182716973283) | **Published:** Sep 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2287,6 +2290,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-11T05:29:17.514Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-11T15:04:46.180Z</sub>
 
 </div>

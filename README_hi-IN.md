@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3043** |
+| 📝 Total Prompts | **3050** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-11** |
 
@@ -189,6 +189,146 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine पारंपरिक वेशभूषा स्वैप
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक प्रॉम्प्ट जो उपयोगकर्ता की उपस्थिति के आधार पर उन्हें पारंपरिक वेशभूषा में पहनाए, संभवतः अपलोड किए गए फोटो को संदर्भ के रूप में उपयोग करते हुए।
+
+#### 📝 Prompt
+
+```
+Hey Grok मुझे उस देश की पारंपरिक वेशभूषा में पहनाओ जिसका मैं निवासी लगता हूं:
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108982519966076928/img/e301O1ZGUOK47rmG.jpg" width="600" alt="Grok Imagine पारंपरिक वेशभूषा स्वैप">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12347)**
+
+**Author:** [Melanie](https://x.com/melaniehudnall) | **Source:** [Link](https://x.com/melaniehudnall/status/2108982564610281965) | **Published:** Oct 10, 2026
+
+---
+### तात्रा पर्वतों की महान बुआ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जो लगभग 1906 में पोलैंड के तात्रा पर्वतों से बोलती हुई एक महान बुआ को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+कल्पना करें मेरी महान बुआ, लगभग 1906 में पोलैंड के तात्रा पर्वतों से हमसे बात कर रही हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108970357713784832/img/LNQ71Jj5bDa7KAG5.jpg" width="600" alt="तात्रा पर्वतों की महान बुआ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12345)**
+
+**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2108970423698473070) | **Published:** Oct 10, 2026
+
+---
+### चाँद के रंगों वाला टेक्स्ट एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> काली पृष्ठभूमि पर चाँद के रंगों में घूमते हुए टेक्स्ट एनिमेशन के लिए एक दृश्य को बढ़ाने का प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+दृश्य को इस तरह बढ़ाएं कि शब्द दिखें: Together…we can! शब्दों को सर्पिल (spiral) आकार दें और उन्हें काली पृष्ठभूमि पर चाँद के सुंदर रंगों में दिखाएं।
+
+मुझे अपने कुत्ते से बहुत प्यार है! उसका नाम LANIE है!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108915631709880320/img/OS8RS_ELfDi8d-ut.jpg" width="600" alt="चाँद के रंगों वाला टेक्स्ट एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12342)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2108915671929328037) | **Published:** Oct 10, 2026
+
+---
+### व्हाइट चॉकलेट POV इंटरैक्शन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक विस्तृत वीडियो जेनरेशन प्रॉम्प्ट, जिसमें पहली व्यक्ति दृष्टिकोण (first-person perspective) से एक महिला व्हाइट चॉकलेट खाती है और दर्शकों को खिलाती है।
+
+#### 📝 Prompt
+
+```
+अपनी व्हाइट चॉकलेट खाओ, प्यारे, जब व्हाइट चॉकलेट तुम्हारे होंठों को छूती है तो उसका स्वाद लो, उसे दांतों तक खींचो, फिर चबाते समय बैग से एक और निकालो और उसे POV मैन के ठीक उसी हाथ में रखो, Mm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108861691656097792/img/lwJhxL9DH6rEcXoB.jpg" width="600" alt="व्हाइट चॉकलेट POV इंटरैक्शन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12346)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **Published:** Oct 10, 2026
+
+---
+### थाई लड़की भालू के साथ नृत्य करती हुई
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जिसमें एक थाई लड़की अपने संवाद बोलती है और एक टेडी भालू के साथ बैठक कमरे में नृत्य करती है।
+
+#### 📝 Prompt
+
+```
+यहाँ उसके संवाद हैं, पहले थाई भाषा में, फिर अंग्रेजी में:
+“มาเต้นกับฉันสิ หมีน้อย” — “मेरे साथ नाचो, छोटे भालू।”
+फिर वह एक बार घूमती है, भालू को ऊपर उठाती है और कहती है: “เราสองคนเต้นด้วยกัน” — “हम दोनों मिलकर नाचते हैं।”
+लकड़ी का फर्श, साफ़ कारपेट, बैठक कमरा — वह घर पर है। आखिरकार भालू को एक साथी मिल गया है। ❤️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="थाई लड़की भालू के साथ नृत्य करती हुई">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12344)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **Published:** Oct 10, 2026
+
+---
+### Zuck It Up मूवी प्रीव्यू
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> मार्क ज़ुकरबर्ग को एक रॉकस्टार के रूप में दिखाते हुए मूवी प्रीव्यू बनाने के लिए प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+“Zuck It Up” के लिए एक मूवी प्रीव्यू बनाएं, जो एक वैकल्पिक ब्रह्मांड (alternative universe) की कहानी है जहाँ मार्क ज़ुकरबर्ग ने Harvard छोड़ दिया था ताकि वे Facebook बेच सकें और सुपर कूल सनग्लासेस पहनकर एक रॉकस्टार की तरह जीवन जी सकें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="Zuck It Up मूवी प्रीव्यू">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12343)**
+
+**Author:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **Source:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **Published:** Oct 10, 2026
+
+---
+### AI Dimensions Architect Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for Grok Imagine featuring characters Jack Harris, Naia Voss, April Vance, and Daren Korr facing an enemy called the Architect.
+
+#### 📝 Prompt
+
+```
+Here’s the updated video with the characters clearly **facing the Architect and shooting him**:
+
+In AI Dimensions, Jack Harris, Naia Voss, April Vance, and Daren Korr face an enemy whose ambition reaches beyond humanity into the dimensions themselves.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="AI Dimensions Architect Battle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12348)**
+
+**Author:** [Myron Smith](https://x.com/MyronSmithm1) | **Source:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **Published:** Oct 10, 2026
+
+---
 ### Grok Imagine इंद्रधनुषी तितलियों वाला फूलों का खेत
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2088,141 +2228,6 @@ Seedance एपिक को Grok Imagine में पुनर्निर्�
 **Author:** [Hunter Ryffel](https://x.com/HRyffel) | **Source:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **Published:** Oct 1, 2026
 
 ---
-### साइबरट्रक फर्स्ट पर्सन व्यू प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> टेनेसी शहर में साइबरट्रक के भविष्य वर्जन को चलाने का एक फर्स्ट-पर्सन व्यू वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-टेनेसी शहर में साइबरट्रक की पहली व्यक्ति दृष्टि से ड्राइविंग। साइबरट्रक के भविष्य वर्जन
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="साइबरट्रक फर्स्ट पर्सन व्यू प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11747)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **Published:** Sep 30, 2026
-
----
-### महाकाव्य सिनेमाई दिव्य भेंट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत सिनेमाई वीडियो प्रॉम्प्ट जो तीसरे स्वर्ग में सुपर इंटेलिजेंस और एल शदाई की मुलाकात को ब्रह्मांडीय दृश्यों के साथ दर्शाता है।
-
-#### 📝 Prompt
-
-```
-तीसरे स्वर्ग में पूरे ब्रह्मांड को देखते हुए सुपर इंटेलिजेंस (SI) और एल शदाई की मुलाकात का महाकाव्य सिनेमाई दृश्य। SI को शुद्ध उन्नत प्रकाश, सर्किट्री और ब्रह्मांडीय ऊर्जा से बनी एक चमकदार अदृश्य मानवरूप आकृति के रूप में चित्रित किया गया है, जो विस्मय में खड़ा है। एल शदाई...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="महाकाव्य सिनेमाई दिव्य भेंट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11745)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **Published:** Sep 30, 2026
-
----
-### Grok Imagine Surreal Video Prompt: Butter Knife
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक सुपरियल वीडियो जनरेशन प्रॉम्प्ट जिसमें चाकू मक्खन जैसा दिखता है और स्टेनलेस स्टील जैसे दिखने वाले मक्खन को काटता है।
-
-#### 📝 Prompt
-
-```
-एक वीडियो बनाएं जिसमें {argument name="object" default="knife"} {argument name="substance" default="butter"} को काट रहा हो, लेकिन शर्त यह है कि {argument name="object" default="knife"} को {argument name="substance" default="butter"} जैसा दिखना चाहिए और {argument name="substance" default="butter"} को {argument name="material" default="stainless steel"} जैसा दिखना चाहिए।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105192353795289088/img/BYCkHLtCcrEzSqhH.jpg" width="600" alt="Grok Imagine Surreal Video Prompt: Butter Knife">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11667)**
-
-**Author:** [Raymond du Plooy](https://x.com/SoloBucket) | **Source:** [Link](https://x.com/SoloBucket/status/2105192382593425853) | **Published:** Sep 30, 2026
-
----
-### Grok Imagine वीडियो प्रॉम्प्ट: Ducati राइडर POV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई वीडियो जनरेशन प्रॉम्प्ट जो Grok Imagine के लिए बनाया गया है, जिसमें अंधेरे से बाहर निकलते हुए Ducati मोटरसाइकिल चलाते हुए पहली-व्यक्ति दृष्टिकोण (first-person perspective) का वर्णन किया गया है, जिसमें गति और वातावरण पर ध्यान केंद्रित है।
-
-#### 📝 Prompt
-
-```
-अंधेरे से बाहर -- एक {argument name="bike" default="DUCATI"} अंधेरे से तेजी से बाहर आता है --
-इंजन की थ्रोटल कम होती है -- हवा तेजी से बहती है -- हम राइडर हैं --
-काला -- सिर से पैर तक -- रात में घुल जाता है -- सौ मील प्रति घंटे की रफ्तार से उड़ान भर रहा है -- सुनसान सड़क पर बिखरी हुई कारों के बीच से तेजी से गुजर रहा है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105180527225614336/img/mJM53Ic2IpKBFRlp.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: Ducati राइडर POV">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11668)**
-
-**Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2105180560910131431) | **Published:** Sep 30, 2026
-
----
-### लाकोस्ट पोलो स्टिल लाइफ प्रोडक्ट शॉट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सफेद चादरों पर लाकोस्ट पोलो शर्ट के विलासी फैशन स्टिल लाइफ के लिए वीडियो जनरेशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-सफेद चादरों पर एक तंग नीले और सफेद धारीदार लाकोस्ट पोलो शर्ट को एक विलासी फैशन स्टिल लाइफ के रूप में चिपटाकर रखा गया है, यह एक तेज प्रोडक्ट फोटो है। space ai x से सटीक स्टाइल, कपड़े की बनावट, कॉलर, बटन और हरे मगरमच्छ एम्ब्रॉयडरी लोगो का उपयोग करें।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105172188852875265/img/6OBZVOLbGfTtJCBm.jpg" width="600" alt="लाकोस्ट पोलो स्टिल लाइफ प्रोडक्ट शॉट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11673)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2105172234125934717) | **Published:** Sep 30, 2026
-
----
-### Lacoste Crocodile Embroidery Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो/इमेज प्रॉम्प्ट जिसमें पोलो शर्ट पर लैकोस्ट का मगरमच्छ एम्ब्रॉयडरी किया गया है, जो आँख मार रहा है और एक उपहार बॉक्स पकड़े हुए है, हाई-फैशन एडिटोरियल स्टाइल में।
-
-#### 📝 Prompt
-
-```
-Grok super ai: नीली और सफेद धारीदार पोलो शर्ट पर Lacoste का मगरमच्छ एम्ब्रॉयडरी किया गया है, मगरमच्छ एक आँख से इशारा कर रहा है और अपने अगले पंजों में एक छोटा सा उपहार बॉक्स पकड़े हुए है, हाई-फैशन एडिटोरियल स्टाइल, साफ़ और व्यंग्यात्मक लेकिन अभद्र नहीं। एम्ब्रॉयडरी किए गए मगरमच्छ को ठीक वैसा ही बनाएं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105171519110512641/img/aRiXewDXwObjoKLC.jpg" width="600" alt="Lacoste Crocodile Embroidery Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11678)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2105171557891117270) | **Published:** Sep 30, 2026
-
----
-### उल्का वर्षा और नियॉन गुलाब के साथ Grok Imagine वीडियो प्रॉम्प्ट
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> यूज़र एक प्रॉम्प्ट साझा करता है जिसका उपयोग एक रेफरेंस इमेज (MAI-Image-2.6-Flash के साथ) जनरेट करने के लिए किया गया था, जिसे बाद में Grok Imagine का उपयोग करके एनिमेट किया गया। यह प्रॉम्प्ट उल्का वर्षा और नियॉन गुलाबों के बीच किमोनो पहने एक भविष्यवादी महिला का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-लंबे काले बालों वाली एक युवती का चित्रण जो पिंक और सफेद किमोनो स्टाइल ड्रेस और मेटैलिक सिल्वर फ्यूचरिस्टिक गेटा सैंडल पहने हुए है, वह एक हरे रंग की नियॉन जमीन पर खड़ी है जहाँ रात के आकाश में गिरते हुए उल्काओं के नीचे यहाँ-वहाँ पिंक ग्लास गुलाब चमक रहे हैं। कोई टेक्स्ट या लोगो नहीं।
-```
-
-<img src="https://cms-assets.youmind.com/media/1790754590727_2w59lk_HTcGNRcaIAASj53.jpg" width="600" alt="उल्का वर्षा और नियॉन गुलाब के साथ Grok Imagine वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11681)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2105158182716973283) | **Published:** Sep 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2284,6 +2289,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-11T05:29:09.961Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-11T15:04:37.844Z</sub>
 
 </div>

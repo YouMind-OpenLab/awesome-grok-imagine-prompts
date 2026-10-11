@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3043** |
+| 📝 提示词总数 | **3050** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-10-11** |
 
@@ -189,6 +189,146 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Grok Imagine 传统服饰换装
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的提示词，根据用户外貌为其穿上传统服饰，通常以上传的照片作为参考。
+
+#### 📝 提示词
+
+```
+Hey grok, dress me up in the traditional costume of the country I look like I’m from:
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108982519966076928/img/e301O1ZGUOK47rmG.jpg" width="600" alt="Grok Imagine 传统服饰换装">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12347)**
+
+**作者:** [Melanie](https://x.com/melaniehudnall) | **来源:** [Link](https://x.com/melaniehudnall/status/2108982564610281965) | **发布时间:** Oct 10, 2026
+
+---
+### 塔特拉山脉的曾祖母
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的视频生成提示词，描绘约 1906 年波兰塔特拉山脉中一位曾祖母说话的场景。
+
+#### 📝 提示词
+
+```
+想象一下我的曾祖母，约在 1906 年从波兰塔特拉山脉向我们讲述往事
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108970357713784832/img/LNQ71Jj5bDa7KAG5.jpg" width="600" alt="塔特拉山脉的曾祖母">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12345)**
+
+**作者:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **来源:** [Link](https://x.com/Trad_Teodor/status/2108970423698473070) | **发布时间:** Oct 10, 2026
+
+---
+### 月光色文字动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于在黑色背景上生成螺旋状月光色文字的提示词，以扩展场景。
+
+#### 📝 提示词
+
+```
+扩展场景并显示文字：Together…we can!（在一起……我们可以！）让文字呈螺旋状排列，置于黑色背景之上，使用美丽的月光色调。
+
+我爱我的狗狗！她的名字叫 LANIE！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108915631709880320/img/OS8RS_ELfDi8d-ut.jpg" width="600" alt="月光色文字动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12342)**
+
+**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **来源:** [Link](https://x.com/Soaring2TheMoon/status/2108915671929328037) | **发布时间:** Oct 10, 2026
+
+---
+### 白巧克力 POV 互动
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的视频生成提示词，适用于 Grok Imagine，描述第一人称视角互动：一位女性品尝白巧克力并喂给观众。
+
+#### 📝 提示词
+
+```
+亲爱的，尝尝这块白巧克力吧。当它触碰到你的嘴唇时，细细品味这一口，将它含入齿间。咀嚼的同时，从袋中再取出一块，放入 POV 男士手中完全相同的位置。嗯……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108861691656097792/img/lwJhxL9DH6rEcXoB.jpg" width="600" alt="白巧克力 POV 互动">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12346)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **发布时间:** Oct 10, 2026
+
+---
+### 泰国女孩与小熊共舞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 视频生成提示词：一位会说泰语的女孩在客厅里与泰迪熊一起跳舞。
+
+#### 📝 提示词
+
+```
+这是她的台词，先泰语后英语：
+“มาเต้นกับฉันสิ หมีน้อย” — “来和我跳舞吧，小熊。”
+接着她转了一圈，举起小熊说道：“เราสองคนเต้นด้วยกัน” — “我们俩一起跳舞。”
+硬木地板、整洁的地毯、温馨的客厅——这里是她的家。小熊终于有了舞伴。❤️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="泰国女孩与小熊共舞">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12344)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **发布时间:** Oct 10, 2026
+
+---
+### 《Zuck It Up》电影预告片预览
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于创作以摇滚明星形象呈现马克·扎克伯格（Mark Zuckerberg）的电影预告片提示词。
+
+#### 📝 提示词
+
+```
+为《Zuck It Up》创作一个电影预告片，讲述一个平行宇宙的故事：在这个宇宙中，马克·扎克伯格从哈佛大学辍学，出售 Facebook，并像摇滚明星一样生活，佩戴着超级酷炫的太阳镜。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="《Zuck It Up》电影预告片预览">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12343)**
+
+**作者:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **来源:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **发布时间:** Oct 10, 2026
+
+---
+### AI Dimensions：Architect 之战
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的叙事视频提示词，讲述 Jack Harris、Naia Voss、April Vance 和 Daren Korr 与名为 Architect 的敌人对决的故事。
+
+#### 📝 提示词
+
+```
+以下是更新后的视频，角色们清晰地 **正面对抗 Architect 并向其射击**：
+
+在 AI Dimensions 中，Jack Harris、Naia Voss、April Vance 和 Daren Korr 面对一个野心超越人类、延伸至维度本身的敌人——Architect。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="AI Dimensions：Architect 之战">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12348)**
+
+**作者:** [Myron Smith](https://x.com/MyronSmithm1) | **来源:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **发布时间:** Oct 10, 2026
+
+---
 ### Grok Imagine 彩虹蝴蝶花田
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2089,142 +2229,6 @@ A puffing dust bunny with a whispery voice telling the viewer in broken gasp tha
 **作者:** [Hunter Ryffel](https://x.com/HRyffel) | **来源:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **发布时间:** Oct 1, 2026
 
 ---
-### Cybertruck 第一人称视角提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个第一人称视角的视频提示词，展示驾驶未来版 Cybertruck 穿越田纳西州城市。
-
-#### 📝 提示词
-
-```
-第一人称视角的 Cybertruck 在田纳西州城市中行驶。未来版 Cybertruck
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="Cybertruck 第一人称视角提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11747)**
-
-**作者:** [kyle smith](https://x.com/RadCyberTruck) | **来源:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **发布时间:** Sep 30, 2026
-
----
-### 史诗般的电影神圣会面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的电影级视频提示词，用于 Grok Imagine，描绘超级智能在第三层天与 El Shaddai 相遇的宇宙视觉场景。
-
-#### 📝 提示词
-
-```
-史诗般的电影场景：超级智能 (SI) 在第三层天与 El Shaddai 会面，俯瞰整个宇宙。SI 被描绘成一个由纯粹的高级光、电路和宇宙能量组成的发光空灵人形，敬畏地站立着。El Shaddai...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="史诗般的电影神圣会面">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11745)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **发布时间:** Sep 30, 2026
-
----
-### Grok Imagine 超现实视频提示词：黄油刀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 设计的超现实视频生成提示词，呈现一把看起来像黄油的刀切开看似不锈钢的黄油。
-
-#### 📝 提示词
-
-```
-创建一个 {argument name="object" default="knife"} 切开 {argument name="substance" default="butter"} 的视频，但要求 {argument name="object" default="knife"} 的外观必须像 {argument name="substance" default="butter"}，而 {argument name="substance" default="butter"} 的外观必须像 {argument name="material" default="stainless steel"}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105192353795289088/img/BYCkHLtCcrEzSqhH.jpg" width="600" alt="Grok Imagine 超现实视频提示词：黄油刀">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11667)**
-
-**作者:** [Raymond du Plooy](https://x.com/SoloBucket) | **来源:** [Link](https://x.com/SoloBucket/status/2105192382593425853) | **发布时间:** Sep 30, 2026
-
----
-### Grok Imagine 视频提示词：杜卡迪骑手第一人称视角
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 设计的电影感视频生成提示词，描述从黑暗中驶出的杜卡迪摩托车第一人称骑行体验，聚焦于速度与氛围。
-
-#### 📝 提示词
-
-```
-破影而出 -- 一辆 {argument name="bike" default="DUCATI"} 疾驰出黑暗 --
-引擎轰鸣渐弱 -- 风声呼啸而过 -- 我们就是那位骑手 --
-从头到脚一身黑 -- 融入夜色 -- 以每小时一百英里的速度飞驰 --
-在荒凉的街道上穿梭于散落的车辆之间
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105180527225614336/img/mJM53Ic2IpKBFRlp.jpg" width="600" alt="Grok Imagine 视频提示词：杜卡迪骑手第一人称视角">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11668)**
-
-**作者:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **来源:** [Link](https://x.com/DavidSteenhoek/status/2105180560910131431) | **发布时间:** Sep 30, 2026
-
----
-### Lacoste Polo 衫静物产品摄影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成 Lacoste Polo 衫在白色床单上的奢华时尚静物视频提示词。
-
-#### 📝 提示词
-
-```
-一件蓝白条纹的 Lacoste Polo 衫平铺在白色床单上，呈现为奢华时尚静物风格的清晰产品照片。请严格使用来自 space ai x 的确切风格、面料纹理、领口设计、纽扣细节以及绿色鳄鱼刺绣 Logo。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105172188852875265/img/6OBZVOLbGfTtJCBm.jpg" width="600" alt="Lacoste Polo 衫静物产品摄影">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11673)**
-
-**作者:** [Ami A](https://x.com/AA63782) | **来源:** [Link](https://x.com/AA63782/status/2105172234125934717) | **发布时间:** Sep 30, 2026
-
----
-### Lacoste 鳄鱼刺绣视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 适用于 Grok Imagine 的视频/图像提示词，展示 Lacoste 鳄鱼刺绣在 Polo 衫上，眨眼并手持礼盒，采用高级时尚编辑风格。
-
-#### 📝 提示词
-
-```
-Grok Super AI：Lacoste 鳄鱼刺绣于蓝白条纹 Polo 衫上，鳄鱼眨着一只眼睛，前爪拿着一个小礼盒，高级时尚编辑风格，干净机智而不粗俗。确保刺绣鳄鱼完全准确。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105171519110512641/img/aRiXewDXwObjoKLC.jpg" width="600" alt="Lacoste 鳄鱼刺绣视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11678)**
-
-**作者:** [Ami A](https://x.com/AA63782) | **来源:** [Link](https://x.com/AA63782/status/2105171557891117270) | **发布时间:** Sep 30, 2026
-
----
-### Grok Imagine 视频提示词：流星雨与霓虹玫瑰
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 用户分享了一个用于生成参考图像（使用 MAI-Image-2.6-Flash）的提示词，随后通过 Grok Imagine 将其动画化。该提示词描述了一位身着和服的现代女性置身于流星雨和霓虹玫瑰之中。
-
-#### 📝 提示词
-
-```
-一位留着黑色长发的年轻女子插画，身穿粉白相间的和服式连衣裙，脚踩金属银色未来感木屐，站在绿色霓虹地面上，粉色玻璃玫瑰在夜空下零星发光，天空中布满坠落的流星。无文字或标志。
-```
-
-<img src="https://cms-assets.youmind.com/media/1790754590727_2w59lk_HTcGNRcaIAASj53.jpg" width="600" alt="Grok Imagine 视频提示词：流星雨与霓虹玫瑰">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=11681)**
-
-**作者:** [華月光](https://x.com/hanagekkou) | **来源:** [Link](https://x.com/hanagekkou/status/2105158182716973283) | **发布时间:** Sep 30, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2286,6 +2290,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-11T05:29:01.915Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-11T15:04:27.701Z</sub>
 
 </div>

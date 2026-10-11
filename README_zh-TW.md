@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3043** |
+| 📝 提示詞總數 | **3050** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-10-11** |
 
@@ -189,6 +189,146 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Grok Imagine 傳統服飾變裝
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的提示詞，可根據使用者的外貌特徵（通常參考上傳的照片）為其換上對應國家的傳統服飾。
+
+#### 📝 提示詞
+
+```
+Hey grok,請幫我換上我看起來像是來自哪個國家的傳統服飾：
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108982519966076928/img/e301O1ZGUOK47rmG.jpg" width="600" alt="Grok Imagine 傳統服飾變裝">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12347)**
+
+**作者:** [Melanie](https://x.com/melaniehudnall) | **來源:** [Link](https://x.com/melaniehudnall/status/2108982564610281965) | **發布時間:** Oct 10, 2026
+
+---
+### 來自塔特拉山脈的姑婆
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於 Grok Imagine 的影片生成提示，描繪約 1906 年波蘭塔特拉山脈中一位姑婆說話的情景。
+
+#### 📝 提示詞
+
+```
+想像我的姑婆，約在 1906 年從波蘭塔特拉山脈向我們訴說
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108970357713784832/img/LNQ71Jj5bDa7KAG5.jpg" width="600" alt="來自塔特拉山脈的姑婆">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12345)**
+
+**作者:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **來源:** [Link](https://x.com/Trad_Teodor/status/2108970423698473070) | **發布時間:** Oct 10, 2026
+
+---
+### 月光色文字動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 提示詞用於在黑色背景上擴展場景，呈現螺旋狀的月光色文字。
+
+#### 📝 提示詞
+
+```
+擴展場景並顯示以下文字：Together…we can!（在一起……我們能做到！）讓文字呈螺旋狀排列，置於黑色背景之上，並使用美麗的月光色系。
+
+我愛我的狗狗！她的名字叫 LANIE！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108915631709880320/img/OS8RS_ELfDi8d-ut.jpg" width="600" alt="月光色文字動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12342)**
+
+**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **來源:** [Link](https://x.com/Soaring2TheMoon/status/2108915671929328037) | **發布時間:** Oct 10, 2026
+
+---
+### 白巧克力 POV 互動
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的詳細影片生成提示詞，描述第一人稱視角互動場景：一名女性食用白巧克力並餵食給觀眾。
+
+#### 📝 提示詞
+
+```
+親愛的，請享用你的白巧克力。當白巧克力觸碰到你的嘴唇時，細細品味那一口，將其送至齒間。咀嚼的同時，從袋中取出另一塊，放入 POV 男士手中完全相同的位置。嗯。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108861691656097792/img/lwJhxL9DH6rEcXoB.jpg" width="600" alt="白巧克力 POV 互動">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12346)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **發布時間:** Oct 10, 2026
+
+---
+### 泰國女孩與小熊共舞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 影片生成提示詞，內容為一名泰國女孩在客廳場景中說出台詞並與泰迪熊共舞。
+
+#### 📝 提示詞
+
+```
+以下是她的台詞，先泰文後英文：
+“มาเต้นกับฉันสิ หมีน้อย” — “來跟我跳舞吧，小熊。”
+接著她旋轉一圈，舉起小熊說道：“เราสองคนเต้นด้วยกัน” — “我們兩個一起跳舞。”
+硬木地板、乾淨的地毯、客廳——這是她的家。小熊終於有了舞伴。❤️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="泰國女孩與小熊共舞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12344)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **發布時間:** Oct 10, 2026
+
+---
+### Zuck It Up 電影預告片預覽
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於製作以 Mark Zuckerberg 為搖滾明星主角的電影預告片提示詞。
+
+#### 📝 提示詞
+
+```
+為「Zuck It Up」製作一部電影預告片，劇情設定在一個平行宇宙中，Mark Zuckerberg 從 Harvard 輟學，賣掉 Facebook，並像搖滾明星一樣生活，佩戴著超酷的太陽眼鏡。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="Zuck It Up 電影預告片預覽">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12343)**
+
+**作者:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **來源:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **發布時間:** Oct 10, 2026
+
+---
+### AI Dimensions 架構師之戰
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的敘事影片提示，內容包含角色 Jack Harris、Naia Voss、April Vance 與 Daren Korr 對抗名為「架構師」的敵人。
+
+#### 📝 提示詞
+
+```
+以下是更新後的影片，角色們正**面對架構師並向他射擊**：
+
+在 AI Dimensions 中，Jack Harris、Naia Voss、April Vance 和 Daren Korr 必須面對一個野心超越人類、甚至延伸至維度本身的敵人。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="AI Dimensions 架構師之戰">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12348)**
+
+**作者:** [Myron Smith](https://x.com/MyronSmithm1) | **來源:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **發布時間:** Oct 10, 2026
+
+---
 ### Grok Imagine 彩虹蝴蝶花田
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2091,142 +2231,6 @@ A nice video of {argument name="subject" default="Elon"} appreciating {argument 
 **作者:** [Hunter Ryffel](https://x.com/HRyffel) | **來源:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **發布時間:** Oct 1, 2026
 
 ---
-### Cybertruck 第一人稱視角提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段以第一人稱視角駕駛未來款 Cybertruck 穿越田納西州城市的影片提示詞。
-
-#### 📝 提示詞
-
-```
-在田納西州城市中的 Cybertruck 第一人稱視角駕駛畫面。展示 Cybertruck 的未來變體款式
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="Cybertruck 第一人稱視角提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11747)**
-
-**作者:** [kyle smith](https://x.com/RadCyberTruck) | **來源:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **發布時間:** Sep 30, 2026
-
----
-### 史詩級電影場景：神聖會面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 Grok Imagine 設計的詳細電影級影片提示，描繪超級智慧在第三層天與 El Shaddai 會面，呈現壯麗的宇宙視覺效果。
-
-#### 📝 提示詞
-
-```
-史詩級的電影場景，描繪超級智慧（SI）在第三層天與 El Shaddai 會面，俯瞰整個宇宙。SI 被描繪成一個由純淨的高階光線、電路紋理和宇宙能量構成的閃耀空靈人形，帶著敬畏之心站立著。El Shaddai...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="史詩級電影場景：神聖會面">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11745)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **來源:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **發布時間:** Sep 30, 2026
-
----
-### Grok Imagine 超現實影片提示詞：奶油刀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 Grok Imagine 設計的超現實影片生成提示詞，呈現一把看似奶油的刀子切開看似不鏽鋼的奶油。
-
-#### 📝 提示詞
-
-```
-生成一段影片，內容為 {argument name="object" default="knife"} 切過 {argument name="substance" default="butter"}，但 {argument name="object" default="knife"} 的外觀必須像 {argument name="substance" default="butter"}，而 {argument name="substance" default="butter"} 的外觀必須像 {argument name="material" default="stainless steel"}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105192353795289088/img/BYCkHLtCcrEzSqhH.jpg" width="600" alt="Grok Imagine 超現實影片提示詞：奶油刀">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11667)**
-
-**作者:** [Raymond du Plooy](https://x.com/SoloBucket) | **來源:** [Link](https://x.com/SoloBucket/status/2105192382593425853) | **發布時間:** Sep 30, 2026
-
----
-### Grok Imagine 影片提示詞：Ducati 騎士第一人稱視角
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 Grok Imagine 設計的電影級影片生成提示詞，描述駕駛 Ducati 摩托車衝出黑暗的視角，聚焦於速度感與氛圍營造。
-
-#### 📝 提示詞
-
-```
-衝出陰影 -- 一輛 {argument name="bike" default="DUCATI"} 從黑暗中疾馳而出 --
-引擎聲浪漸弱 -- 風呼嘯而過 -- 我們就是那位騎士 --
-全身黑衣 -- 融入夜色 -- 時速一百英里飛奔 --
-在荒涼街道上穿梭於零散車輛之間
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105180527225614336/img/mJM53Ic2IpKBFRlp.jpg" width="600" alt="Grok Imagine 影片提示詞：Ducati 騎士第一人稱視角">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11668)**
-
-**作者:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **來源:** [Link](https://x.com/DavidSteenhoek/status/2105180560910131431) | **發布時間:** Sep 30, 2026
-
----
-### Lacoste Polo Still Life Product Shot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Video generation prompt for a luxury fashion still life of a Lacoste polo shirt on white sheets.
-
-#### 📝 提示詞
-
-```
-A tight blue-and-white striped Lacoste polo shirt laid flat as a luxury fashion still life on white sheets, sharp product photo. Use the exact style, fabric texture, collar, buttons, and green crocodile embroidery logo from space ai x
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105172188852875265/img/6OBZVOLbGfTtJCBm.jpg" width="600" alt="Lacoste Polo Still Life Product Shot">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11673)**
-
-**作者:** [Ami A](https://x.com/AA63782) | **來源:** [Link](https://x.com/AA63782/status/2105172234125934717) | **發布時間:** Sep 30, 2026
-
----
-### Lacoste 鱷魚刺繡影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的影片/圖像提示詞，呈現 Lacoste 鱷魚刺繡於 Polo 衫上，鱷魚眨眼並手持禮盒，採用高級時尚編輯風格。
-
-#### 📝 提示詞
-
-```
-Grok super ai：在藍白條紋 Polo 衫上刺繡 Lacoste 鱷魚，鱷魚單眼眨眼，前爪握著一個小禮盒，高級時尚編輯風格，簡潔風趣而不低俗。請嚴格參照刺繡鱷魚的設計。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105171519110512641/img/aRiXewDXwObjoKLC.jpg" width="600" alt="Lacoste 鱷魚刺繡影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11678)**
-
-**作者:** [Ami A](https://x.com/AA63782) | **來源:** [Link](https://x.com/AA63782/status/2105171557891117270) | **發布時間:** Sep 30, 2026
-
----
-### Grok Imagine 影片提示詞：流星雨與霓虹玫瑰
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 使用者分享用於生成參考圖像（使用 MAI-Image-2.6-Flash）的提示詞，隨後透過 Grok Imagine 進行動畫化。該提示詞描述了一位身穿和服的未來感女性，置身於流星雨與霓虹玫瑰之中。
-
-#### 📝 提示詞
-
-```
-描繪一位留著黑色長髮的年輕女性，身穿粉白相間的和服風格洋裝，腳踩金屬銀色未來感木屐，站在綠色霓虹地面上。四周散落著發光的粉色玻璃玫瑰，背景是佈滿墜落流星的夜空。無文字或標誌。
-```
-
-<img src="https://cms-assets.youmind.com/media/1790754590727_2w59lk_HTcGNRcaIAASj53.jpg" width="600" alt="Grok Imagine 影片提示詞：流星雨與霓虹玫瑰">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11681)**
-
-**作者:** [華月光](https://x.com/hanagekkou) | **來源:** [Link](https://x.com/hanagekkou/status/2105158182716973283) | **發布時間:** Sep 30, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2288,6 +2292,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-11T05:29:03.027Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-11T15:04:30.210Z</sub>
 
 </div>

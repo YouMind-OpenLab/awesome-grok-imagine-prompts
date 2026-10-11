@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3043** |
+| 📝 Total Prompts | **3050** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-11** |
 
@@ -189,6 +189,146 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Hoán đổi trang phục truyền thống với Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh cho Grok Imagine để mặc trang phục truyền thống cho người dùng dựa trên ngoại hình của họ, có thể sử dụng ảnh tải lên làm tham chiếu.
+
+#### 📝 Prompt
+
+```
+Này Grok, hãy mặc cho tôi bộ trang phục truyền thống của đất nước mà tôi trông giống như đang đến từ đó:
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108982519966076928/img/e301O1ZGUOK47rmG.jpg" width="600" alt="Hoán đổi trang phục truyền thống với Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12347)**
+
+**Author:** [Melanie](https://x.com/melaniehudnall) | **Source:** [Link](https://x.com/melaniehudnall/status/2108982564610281965) | **Published:** Oct 10, 2026
+
+---
+### Bà cô từ Dãy núi Tatra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Câu lệnh tạo video cho Grok Imagine mô tả bà cố đang nói chuyện từ dãy núi Tatra ở Ba Lan vào khoảng năm 1906.
+
+#### 📝 Prompt
+
+```
+Hãy tưởng tượng bà cố của tôi, đang nói chuyện với chúng ta từ dãy núi Tatra ở Ba Lan vào khoảng năm 1906
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108970357713784832/img/LNQ71Jj5bDa7KAG5.jpg" width="600" alt="Bà cô từ Dãy núi Tatra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12345)**
+
+**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2108970423698473070) | **Published:** Oct 10, 2026
+
+---
+### Hiệu ứng chữ động màu trăng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt để mở rộng cảnh với dòng chữ xoáy màu ánh trăng trên nền đen.
+
+#### 📝 Prompt
+
+```
+Mở rộng và chuyển cảnh để hiển thị các từ: Together…we can! Hãy làm cho các từ xoáy tròn trên nền đen với kiểu chữ đẹp mắt mang màu sắc của ánh trăng.
+
+Tôi yêu chú chó của mình! Tên cô ấy là LANIE!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108915631709880320/img/OS8RS_ELfDi8d-ut.jpg" width="600" alt="Hiệu ứng chữ động màu trăng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12342)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2108915671929328037) | **Published:** Oct 10, 2026
+
+---
+### Tương tác POV Sô-cô-la trắng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video chi tiết cho Grok Imagine, mô tả tương tác góc nhìn thứ nhất (POV) khi một phụ nữ ăn sô-cô-la trắng và đút cho người xem.
+
+#### 📝 Prompt
+
+```
+Hãy thưởng thức thanh sô-cô-la trắng của bạn, thật tuyệt vời. Khi sô-cô-la chạm vào môi, hãy cảm nhận vị ngọt ngào, đưa nó vào răng rồi nhai từ từ. Trong lúc nhai, hãy lấy thêm một miếng từ túi và đặt vào chính bàn tay của chàng trai trong góc nhìn thứ nhất (POV). Mmm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108861691656097792/img/lwJhxL9DH6rEcXoB.jpg" width="600" alt="Tương tác POV Sô-cô-la trắng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12346)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **Published:** Oct 10, 2026
+
+---
+### Cô Gái Thái Nhảy Múa Cùng Gấu Bông
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video cho Grok Imagine, mô tả một cô gái nói tiếng Thái và nhảy múa cùng gấu bông trong phòng khách.
+
+#### 📝 Prompt
+
+```
+Dưới đây là lời thoại của cô ấy, bằng tiếng Thái trước, sau đó là bản dịch tiếng Anh:
+“มาเต้นกับฉันสิ หมีน้อย” — “Hãy nhảy cùng tôi nhé, chú gấu nhỏ.”
+Sau đó, cô ấy xoay một vòng, giơ cao con gấu lên và nói: “เราสองคนเต้นด้วยกัน” — “Hai chúng ta cùng nhảy nhé.”
+Sàn gỗ cứng, tấm thảm sạch sẽ, phòng khách — cô ấy đang ở nhà. Chú gấu cuối cùng cũng có bạn nhảy. ❤️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="Cô Gái Thái Nhảy Múa Cùng Gấu Bông">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12344)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **Published:** Oct 10, 2026
+
+---
+### Xem trước phim "Zuck It Up"
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo đoạn giới thiệu phim với hình ảnh Mark Zuckerberg như một ngôi sao nhạc rock.
+
+#### 📝 Prompt
+
+```
+Tạo đoạn giới thiệu cho bộ phim “Zuck It Up”, kể về một vũ trụ song song nơi Mark Zuckerberg bỏ học Harvard để bán Facebook và sống cuộc đời của một ngôi sao nhạc rock với cặp kính râm cực kỳ phong cách.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="Xem trước phim "Zuck It Up"">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12343)**
+
+**Author:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **Source:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **Published:** Oct 10, 2026
+
+---
+### Trận Chiến Kiến Trúc Sư AI Dimensions
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video kể chuyện cho Grok Imagine, với các nhân vật Jack Harris, Naia Voss, April Vance và Daren Korr đối đầu với kẻ thù mang tên Architect.
+
+#### 📝 Prompt
+
+```
+Dưới đây là phiên bản video cập nhật với các nhân vật rõ ràng **đối mặt với Architect và bắn hắn**:
+
+Trong AI Dimensions, Jack Harris, Naia Voss, April Vance và Daren Korr phải đối mặt với một kẻ thù có tham vọng vượt ra ngoài phạm vi của con người, vươn tới tận chính các chiều không gian.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="Trận Chiến Kiến Trúc Sư AI Dimensions">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12348)**
+
+**Author:** [Myron Smith](https://x.com/MyronSmithm1) | **Source:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **Published:** Oct 10, 2026
+
+---
 ### Grok Imagine Cánh Đồng Bướm Cầu Vồng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2089,143 +2229,6 @@ Hãy tạo cho tôi một chiếc xe tải Tesla Cybertruck có các tấm phủ
 **Author:** [Hunter Ryffel](https://x.com/HRyffel) | **Source:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **Published:** Oct 1, 2026
 
 ---
-### Prompt Góc Nhìn Thứ Nhất Của Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt video góc nhìn thứ nhất mô tả việc lái một biến thể tương lai của Cybertruck qua một thành phố ở Tennessee.
-
-#### 📝 Prompt
-
-```
-Góc nhìn thứ nhất từ bên trong Cybertruck đang di chuyển trong một thành phố ở Tennessee. Các biến thể tương lai của Cybertruck
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="Prompt Góc Nhìn Thứ Nhất Của Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11747)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **Published:** Sep 30, 2026
-
----
-### Cuộc Gặp Gỡ Thần Thánh Điện Ảnh Sử Thi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video điện ảnh chi tiết cho Grok Imagine, mô tả cuộc gặp gỡ giữa Super Intelligence và El Shaddai tại tầng trời thứ ba với hình ảnh vũ trụ kỳ vĩ.
-
-#### 📝 Prompt
-
-```
-Cảnh quay điện ảnh sử thi về cuộc gặp gỡ giữa Super Intelligence (SI) và El Shaddai tại tầng trời thứ ba, nhìn bao quát toàn bộ vũ trụ. SI được khắc họa dưới dạng một hình nhân siêu việt tỏa sáng rực rỡ, kết hợp từ ánh sáng tinh khiết, mạch điện tử tiên tiến và năng lượng vũ trụ, đứng trong sự kinh ngạc. El Shaddai...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="Cuộc Gặp Gỡ Thần Thánh Điện Ảnh Sử Thi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11745)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **Published:** Sep 30, 2026
-
----
-### Grok Imagine Surreal Video Prompt: Butter Knife
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal video generation prompt for Grok Imagine where a knife looks like butter and cuts through stainless steel-looking butter.
-
-#### 📝 Prompt
-
-```
-Create a video of a {argument name="object" default="knife"} cutting through {argument name="substance" default="butter"} except the {argument name="object" default="knife"} must look like {argument name="substance" default="butter"} and the {argument name="substance" default="butter"} must look like {argument name="material" default="stainless steel"}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105192353795289088/img/BYCkHLtCcrEzSqhH.jpg" width="600" alt="Grok Imagine Surreal Video Prompt: Butter Knife">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11667)**
-
-**Author:** [Raymond du Plooy](https://x.com/SoloBucket) | **Source:** [Link](https://x.com/SoloBucket/status/2105192382593425853) | **Published:** Sep 30, 2026
-
----
-### Grok Imagine Video Prompt: Góc nhìn người lái Ducati
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả video điện ảnh cho Grok Imagine, tái hiện góc nhìn thứ nhất khi lái xe mô tô Ducati lao ra từ bóng tối, tập trung vào tốc độ và không khí kịch tính.
-
-#### 📝 Prompt
-
-```
-TỪ TRONG BÓNG TỐI -- Một chiếc {argument name="bike" default="DUCATI"} lao vút ra khỏi màn đêm --
-động cơ rú ga -- gió gào thét -- chúng ta CHÍNH LÀ NGƯỜI LÁI --
-TOÀN THÂN ĐEN KÍN -- hòa lẫn vào đêm -- phóng với tốc độ một trăm
-dặm mỗi giờ -- lách qua những chiếc xe rải rác trên con
-phố vắng
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105180527225614336/img/mJM53Ic2IpKBFRlp.jpg" width="600" alt="Grok Imagine Video Prompt: Góc nhìn người lái Ducati">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11668)**
-
-**Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2105180560910131431) | **Published:** Sep 30, 2026
-
----
-### Ảnh Tĩnh Vật Sản Phẩm Áo Polo Lacoste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lời nhắc tạo video cho bức ảnh tĩnh vật thời trang cao cấp của áo polo Lacoste trên nền ga trắng.
-
-#### 📝 Prompt
-
-```
-Áo polo Lacoste sọc xanh và trắng được trải phẳng như một bức ảnh tĩnh vật thời trang cao cấp trên nền ga trắng, kiểu ảnh chụp sản phẩm sắc nét. Hãy sử dụng chính xác phong cách, kết cấu vải, cổ áo, cúc áo và logo thêu cá sấu màu xanh lá từ space ai x
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105172188852875265/img/6OBZVOLbGfTtJCBm.jpg" width="600" alt="Ảnh Tĩnh Vật Sản Phẩm Áo Polo Lacoste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11673)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2105172234125934717) | **Published:** Sep 30, 2026
-
----
-### Video Thêu Cá Sấu Lacoste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả video/hình ảnh cho Grok Imagine, thể hiện hình ảnh cá sấu Lacoste được thêu trên áo polo, đang nháy mắt và cầm một hộp quà, theo phong cách thời trang cao cấp.
-
-#### 📝 Prompt
-
-```
-Grok super ai: Hình ảnh cá sấu Lacoste được thêu trên chiếc áo polo kẻ sọc xanh trắng. Con cá sấu đang nháy một mắt và dùng hai chân trước giữ một hộp quà nhỏ. Phong cách biên tập thời trang cao cấp (high-fashion editorial), tinh tế, thông minh nhưng không thô tục. Hãy tái hiện chính xác con cá sấu thêu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105171519110512641/img/aRiXewDXwObjoKLC.jpg" width="600" alt="Video Thêu Cá Sấu Lacoste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11678)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2105171557891117270) | **Published:** Sep 30, 2026
-
----
-### Grok Imagine Video Prompt với Mưa Sao Băng và Hoa Hồng Neon
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Người dùng chia sẻ một prompt được sử dụng để tạo hình ảnh tham chiếu (bằng MAI-Image-2.6-Flash), sau đó được hoạt hóa bằng Grok Imagine. Prompt mô tả một phụ nữ tương lai mặc kimono giữa mưa sao băng và hoa hồng neon.
-
-#### 📝 Prompt
-
-```
-Hình minh họa một cô gái trẻ tóc đen dài, mặc váy kiểu kimono màu hồng và trắng cùng đôi sandals geta bạc kim loại mang phong cách tương lai, đứng trên nền đất phát sáng màu xanh neon, nơi những bông hồng thủy tinh màu hồng tỏa sáng rải rác dưới bầu trời đêm đầy sao băng rơi. Không có văn bản hay logo.
-```
-
-<img src="https://cms-assets.youmind.com/media/1790754590727_2w59lk_HTcGNRcaIAASj53.jpg" width="600" alt="Grok Imagine Video Prompt với Mưa Sao Băng và Hoa Hồng Neon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11681)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2105158182716973283) | **Published:** Sep 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2287,6 +2290,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-11T05:29:08.692Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-11T15:04:36.116Z</sub>
 
 </div>

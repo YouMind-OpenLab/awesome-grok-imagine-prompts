@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3043** |
+| 📝 총 프롬프트 수 | **3050** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-10-11** |
 
@@ -189,6 +189,146 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Grok Imagine 전통 의상 스왑
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 사용자의 외모를 바탕으로 전통 의상을 입히는 Grok Imagine 프롬프트로, 업로드한 사진을 참고 이미지로 사용할 가능성이 높습니다.
+
+#### 📝 프롬프트
+
+```
+Hey grok, 내가 어디서 왔을 것 같은지 보고 그 나라의 전통 의상을 입혀줘:
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108982519966076928/img/e301O1ZGUOK47rmG.jpg" width="600" alt="Grok Imagine 전통 의상 스왑">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12347)**
+
+**작성자:** [Melanie](https://x.com/melaniehudnall) | **출처:** [Link](https://x.com/melaniehudnall/status/2108982564610281965) | **게시일:** Oct 10, 2026
+
+---
+### 타트라 산맥의 고모할머니
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine용 영상 생성 프롬프트로, 약 1906년 폴란드 타트라 산맥에서 말하는 고모할머니를 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+약 1906년, 폴란드 타트라 산맥에서 우리에게 말을 건네는 고모할머니를 상상해 보세요
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108970357713784832/img/LNQ71Jj5bDa7KAG5.jpg" width="600" alt="타트라 산맥의 고모할머니">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12345)**
+
+**작성자:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **출처:** [Link](https://x.com/Trad_Teodor/status/2108970423698473070) | **게시일:** Oct 10, 2026
+
+---
+### 달빛 색상의 텍스트 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 검은 배경에서 달빛 색상의 나선형 텍스트가 나타나는 장면으로 확장하는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+장면을 확장하여 다음 문구를 표시합니다: Together…we can! 이 단어들이 나선형으로 회전하며, 검은 배경 위에 달빛의 아름다운 색상으로 텍스트가 표현되도록 합니다.
+
+저는 제 강아지를 정말 사랑합니다! 그녀의 이름은 LANIE 입니다!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108915631709880320/img/OS8RS_ELfDi8d-ut.jpg" width="600" alt="달빛 색상의 텍스트 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12342)**
+
+**작성자:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **출처:** [Link](https://x.com/Soaring2TheMoon/status/2108915671929328037) | **게시일:** Oct 10, 2026
+
+---
+### 화이트 초콜릿 POV 상호작용
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 여성이 화이트 초콜릿을 먹고 시청자에게 먹여주는 1인칭 시점 상호작용을 묘사한 Grok Imagine용 상세 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+사랑스러운 당신, 화이트 초콜릿을 드세요. 입술에 닿는 순간 그 맛을 음미하고, 치아 사이로 부드럽게 당겨보세요. 씹는 동안 가방에서 또 다른 조각을 꺼내 POV 남성의 정확히 같은 손에 올려놓으세요. 음.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108861691656097792/img/lwJhxL9DH6rEcXoB.jpg" width="600" alt="화이트 초콜릿 POV 상호작용">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12346)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **게시일:** Oct 10, 2026
+
+---
+### 곰과 춤추는 태국 소녀
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 거실 환경에서 태국어로 대사를 말하며 테디 베어와 춤추는 소녀를 묘사하는 Grok Imagine용 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+태국어 원문과 영어 번역을 함께 제공합니다:
+“มาเต้นกับฉันสิ หมีน้อย” — “작은 곰아, 나랑 같이 춤춰.”
+그녀가 한 바퀴 돌고 곰 인형을 들어 올리며 말합니다: “เราสองคนเต้นด้วยกัน” — “우리 둘이서 함께 춤을 추자.”
+원목 바닥, 깨끗한 카펫, 거실 — 그녀는 집에 있습니다. 마침내 곰 인형도 파트너를 찾았네요. ❤️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="곰과 춤추는 태국 소녀">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12344)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **게시일:** Oct 10, 2026
+
+---
+### Zuck It Up 영화 예고편
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 마크 저커버그를 로큰롤 스타로 묘사하는 영화 예고편 생성 프롬프트.
+
+#### 📝 프롬프트
+
+```
+대체 우주에서 마크 저커버그가 하버드를 중퇴하고 Facebook을 매각한 뒤, 초쿨한 선글라스를 쓰고 로큰롤 스타처럼 살아가는 내용을 담은 “Zuck It Up”의 영화 예고편을 만들어 주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="Zuck It Up 영화 예고편">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12343)**
+
+**작성자:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **출처:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **게시일:** Oct 10, 2026
+
+---
+### AI Dimensions Architect Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for Grok Imagine featuring characters Jack Harris, Naia Voss, April Vance, and Daren Korr facing an enemy called the Architect.
+
+#### 📝 프롬프트
+
+```
+Here’s the updated video with the characters clearly **facing the Architect and shooting him**:
+
+In AI Dimensions, Jack Harris, Naia Voss, April Vance, and Daren Korr face an enemy whose ambition reaches beyond humanity into the dimensions themselves.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="AI Dimensions Architect Battle">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12348)**
+
+**작성자:** [Myron Smith](https://x.com/MyronSmithm1) | **출처:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **게시일:** Oct 10, 2026
+
+---
 ### Grok Imagine 무지개 나비 꽃밭
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2089,142 +2229,6 @@ Grok Imagine으로 리메이크한 Runway Seedance 에픽.
 **작성자:** [Hunter Ryffel](https://x.com/HRyffel) | **출처:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **게시일:** Oct 1, 2026
 
 ---
-### 사이버트럭 1인칭 시점 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 테네시 주 도시를 주행하는 미래형 사이버트럭의 1인칭 관점 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-테네시 주 도시에서 주행 중인 미래형 사이버트럭의 1인칭 시점
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105336788055113728/img/L9IV2yM8GkfBIrJ1.jpg" width="600" alt="사이버트럭 1인칭 시점 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11747)**
-
-**작성자:** [kyle smith](https://x.com/RadCyberTruck) | **출처:** [Link](https://x.com/RadCyberTruck/status/2105336961472909499) | **게시일:** Sep 30, 2026
-
----
-### 장엄한 시네마틱 신성한 만남
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 상세한 시네마틱 비디오 프롬프트로, 초지능(Super Intelligence)이 제3천국에서 El Shaddai를 만나며 우주적 비주얼을 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-초지능(SI)이 제3천국에서 El Shaddai를 만나 온 우주를 내려다보는 장엄한 시네마틱 장면. SI는 순수한 첨단 빛, 회로, 그리고 우주 에너지로 이루어진 찬란하고 신비로운 휴머노이드 형태로 경외심에 가득 찬 모습으로 서 있습니다. El Shaddai...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105320896084824064/img/ywfMauGTjUtncU8V.jpg" width="600" alt="장엄한 시네마틱 신성한 만남">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11745)**
-
-**작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2105320913881244006) | **게시일:** Sep 30, 2026
-
----
-### Grok Imagine 초현실적 영상 프롬프트: 버터 나이프
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 칼이 버터처럼 보이고, 스테인리스 스틸처럼 보이는 버터를 자르는 Grok Imagine의 초현실적 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-{argument name="object" default="knife"}가 {argument name="substance" default="butter"}를 자르는 영상을 만드세요. 단, {argument name="object" default="knife"}는 {argument name="substance" default="butter"}처럼 보여야 하며, {argument name="substance" default="butter"}는 {argument name="material" default="stainless steel"}처럼 보여야 합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105192353795289088/img/BYCkHLtCcrEzSqhH.jpg" width="600" alt="Grok Imagine 초현실적 영상 프롬프트: 버터 나이프">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11667)**
-
-**작성자:** [Raymond du Plooy](https://x.com/SoloBucket) | **출처:** [Link](https://x.com/SoloBucket/status/2105192382593425853) | **게시일:** Sep 30, 2026
-
----
-### Grok Imagine 비디오 프롬프트: Ducati 라이더 POV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 어둠 속에서 Ducati 오토바이를 타는 1인칭 시점을 묘사하는 Grok Imagine용 시네마틱 비디오 생성 프롬프트로, 속도와 분위기를 강조합니다.
-
-#### 📝 프롬프트
-
-```
-OUT OF THE SHADOWS -- {argument name="bike" default="DUCATI"}가 어둠 속에서 돌진한다 --
-엔진 스로틀을 낮추며 -- 바람이 거세게 불어온다 -- 우리는 THE RIDER --
-BLACK -- 머리부터 발끝까지 -- 밤과 하나가 된다 -- 시속 백 마일로 질주하며 --
-황량한 거리에서 흩어진 차량 사이를 누비며
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105180527225614336/img/mJM53Ic2IpKBFRlp.jpg" width="600" alt="Grok Imagine 비디오 프롬프트: Ducati 라이더 POV">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11668)**
-
-**작성자:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **출처:** [Link](https://x.com/DavidSteenhoek/status/2105180560910131431) | **게시일:** Sep 30, 2026
-
----
-### Lacoste Polo Still Life Product Shot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 흰 시트 위에 놓인 Lacoste 폴로 셔츠의 럭셔리 패션 정물 영상 생성 프롬프트
-
-#### 📝 프롬프트
-
-```
-흰 시트 위에 평평하게 놓인 파란색과 흰색 줄무늬 Lacoste 폴로 셔츠를 담은 럭셔리 패션 정물 사진으로, 날카로운 제품 촬영 스타일입니다. space ai x에서 사용한 정확한 스타일, 원단 질감, 카라, 단추 및 녹색 악어 자수 로고를 그대로 적용하세요
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105172188852875265/img/6OBZVOLbGfTtJCBm.jpg" width="600" alt="Lacoste Polo Still Life Product Shot">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11673)**
-
-**작성자:** [Ami A](https://x.com/AA63782) | **출처:** [Link](https://x.com/AA63782/status/2105172234125934717) | **게시일:** Sep 30, 2026
-
----
-### Lacoste 악어 자수 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine용 영상/이미지 프롬프트로, Lacoste 악어가 폴로 셔츠에 자수로 표현되어 윙크를 하며 선물 상자를 들고 있는 하이 패션 에디토리얼 스타일의 장면을 담고 있습니다.
-
-#### 📝 프롬프트
-
-```
-Grok Super AI: 파란색과 흰색 줄무늬가 있는 폴로 셔츠에 Lacoste 악어가 자수로 표현되어 있으며, 악어는 한쪽 눈을 윙크하고 앞발로 작은 선물 상자를 들고 있습니다. 하이 패션 에디토리얼 스타일로, 깔끔하고 위트 있으며 조잡하지 않은 느낌으로 연출합니다. 자수된 악어의 디자인은 원본과 정확히 일치해야 합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105171519110512641/img/aRiXewDXwObjoKLC.jpg" width="600" alt="Lacoste 악어 자수 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11678)**
-
-**작성자:** [Ami A](https://x.com/AA63782) | **출처:** [Link](https://x.com/AA63782/status/2105171557891117270) | **게시일:** Sep 30, 2026
-
----
-### 유성우와 네온 장미를 활용한 Grok Imagine 영상 프롬프트
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 사용자가 MAI-Image-2.6-Flash로 생성한 참조 이미지를 Grok Imagine으로 애니메이션화하는 데 사용한 프롬프트를 공유합니다. 이 프롬프트는 유성우와 네온 장미 사이에서 기모노 차림의 미래지향적인 여성을 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-긴 검은 머리의 젊은 여성이 분홍색과 흰색 기모노 스타일 드레스와 금속 은색의 미래지향적 게타 샌들을 착용하고, 밤하늘에 쏟아지는 유성과 여기저기 빛나는 분홍색 유리 장미가 있는 녹색 네온 바닥 위에 서 있는 일러스트레이션. 텍스트 또는 로고 없음.
-```
-
-<img src="https://cms-assets.youmind.com/media/1790754590727_2w59lk_HTcGNRcaIAASj53.jpg" width="600" alt="유성우와 네온 장미를 활용한 Grok Imagine 영상 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=11681)**
-
-**작성자:** [華月光](https://x.com/hanagekkou) | **출처:** [Link](https://x.com/hanagekkou/status/2105158182716973283) | **게시일:** Sep 30, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2286,6 +2290,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-11T05:29:05.855Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-11T15:04:33.112Z</sub>
 
 </div>
