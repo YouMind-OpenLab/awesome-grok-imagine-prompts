@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3050** |
+| 📝 Total Prompts | **3059** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-12** |
 
@@ -189,6 +189,210 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de Video: Silueta de Carrera en la Playa entre Vaqueras y Vaqueros
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico para Grok Imagine que muestra a vaqueras y vaqueros compitiendo en una playa, con destellos de cascos al color del amanecer.
+
+#### 📝 Prompt
+
+```
+En silueta oscura, una vaquera y un vaquero compiten lado a lado en una playa oceánica. Destellos del color de un brillante amanecer emanan de los cascos de los caballos cada vez que estos tocan la arena.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109544031252529153/img/syXmP_gxWX9mJQt4.jpg" width="600" alt="Prompt de Video: Silueta de Carrera en la Playa entre Vaqueras y Vaqueros">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12378)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109544110919164271) | **Published:** Oct 12, 2026
+
+---
+### Video Selfie de Risa y Lloro Furioso
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt detallado para generar un video selfie realista de 12 segundos de una mujer riendo y llorando de rabia, especificando expresiones, movimientos de cámara y detalles de audio.
+
+#### 📝 Prompt
+
+```
+[Tarea]
+Generar un video selfie vertical realista de smartphone de 12 segundos en formato 9:16. Replicar la composición acostada en la cama, la secuencia de acciones, las expresiones mixtas de risa/llanto y el ritmo del video de referencia 'Stomach Ache from Anger', reemplazando al personaje original con una mujer adulta especificada.
+
+[División de Referencia y Bloqueo de Personaje]
+Bloquear los rasgos faciales, proporciones y cabello largo negro a la imagen de referencia facial femenina @0ba07db1-974c-467d-80dc-d9dffddac0ba; no heredar la apariencia masculina del video original.
+Bloquear la ropa y las proporciones corporales a la imagen de referencia @8149c66e-9a91-4b88-bf26-d0a764075ccf; llevar la ropa puesta completamente.
+Bloquear las gafas a la imagen de referencia de gafas decorativas plateadas @d80c71c5-d330-4baf-8ecf-8b793ee0fee8: alambre metálico fino plateado, monturas inferiores curvadas abiertas, almohadillas nasales transparentes, pequeñas espirales metálicas en forma de lazo cerca del puente de la nariz, una flor colgante en cada lado. Las patillas descansan normalmente sobre las orejas, ambos ojos claramente visibles. Gafas puestas durante todo el video, no convertirse en gafas ordinarias de montura gruesa, no aparecen soportes de exhibición.
+El video original solo bloquea la actuación, el ángulo selfie, las acciones y el ritmo.
+No heredar el plano caído de la cuadrícula anterior de nueve imágenes.
+
+[Escena y Grabación]
+Ella está acostada boca arriba en una cama blanca, cabeza sobre una almohada blanca, cabello largo extendido naturalmente.
+La mano izquierda sostiene el teléfono fuera de pantalla, la cámara frontal ubicada aproximadamente a 40 cm sobre la cara, grabando hacia abajo la cara, hombros y parte superior del cuerpo. La cara ocupa el sujeto principal del encuadre.
+La mano derecha puede alcanzar el borde inferior de la pantalla para presionar el abdomen.
+Una toma continua durante todo el video, la lente solo tiembla ligeramente con la mano que sostiene, la respiración y los temblores de hombros. Luz natural de dormitorio, calidad nativa ordinaria de smartphone, textura de piel realista, sin filtros de belleza.
+
+[Timing Estricto y Actuación]
+0–2.8 segundos:
+Comienza inmediatamente en un estado de risa furiosa y lágrimas. Sus cejas están fuertemente fruncidas, ojos apretados cerrados, comisuras de la boca tiradas horizontalmente, emitiendo intermitentemente "Jajaja... ah... jaja".
+La risa lleva resentimiento y ira, hombros tiemblan ligeramente, cabeza se mueve suavemente sobre la almohada.
+Pendientes de flores plateadas balancean suavemente con los movimientos de cabeza, almohadillas nasales y patillas permanecen ajustadas a la cara.
+2.8–5.8 segundos:
+Ella hace una pausa para inhalar, apenas abre los ojos para mirar la pantalla del teléfono, cejas aún fruncidas, comisuras de la boca hacia abajo, hablando con ira y resentimiento:
+"Familia, estoy tan enfadada que me duele el estómago."
+Al decir la segunda mitad, la mano derecha presiona el abdomen, la cabeza gira hacia un lado, los ojos se cierran fuertemente otra vez. El teléfono tiembla ligeramente con los temblores corporales, la cara permanece claramente legible.
+5.8–9.3 segundos:
+Ella intenta recuperar el aliento pero emite "Jajaja... ah..." entrecortado otra vez.
+La boca se abre, frunce brevemente, luego se abre otra vez, mostrando una reacción queriendo reír y llorar simultáneamente. Cejas apretadas, fosas nasales se mueven ligeramente, barbilla tiembla, ocasionalmente mostrando dientes.
+La cabeza regresa de posición lateral al centro de la almohada, la mano derecha continúa presionando el abdomen. Las gafas se mueven con la cabeza, pendientes de flores balancean naturalmente.
+9.3–12 segundos:
+Ella abre brevemente los ojos mirando la pantalla, dice furiosamente:
+"Estoy furiosa."
+Después de hablar, cierra los ojos, arruga la nariz, revela expresión mixta de risa/llanto, terminando con una breve risa amarga y exhalación.
+Siempre permanece acostada en su lugar, no se sienta, no se añade trama adicional.
+
+[Audio]
+Voz natural de mujer adulta, grabación cercana de smartphone, sincronización labial con diálogo.
+Voz natural de mujer adulta, grabación cercana de smartphone, sincronización labial con diálogo.
+
+[Requisitos Clave]
+Retener la risa furiosa y lágrimas del inicio. Sus cejas están fuertemente fruncidas, ojos apretados cerrados, comisuras de la boca tiradas horizontalmente, emitiendo intermitentemente "Jajaja... ah... jaja".
+La risa lleva resentimiento y ira, hombros tiemblan ligeramente, cabeza se mueve suavemente sobre la almohada.
+Pendientes de flores plateadas balancean suavemente con los movimientos de cabeza, almohadillas nasales y patillas permanecen ajustadas a la cara.
+Ella hace una pausa para inhalar, apenas abre los ojos para mirar la pantalla del teléfono, cejas aún fruncidas, comisuras de la boca hacia abajo, hablando con ira y resentimiento:
+"Familia, estoy tan enfadada que me duele el estómago."
+Al decir la segunda mitad, la mano derecha presiona el abdomen, la cabeza gira hacia un lado, los ojos se cierran fuertemente otra vez. El teléfono tiembla ligeramente con los temblores corporales, la cara permanece claramente legible.
+Ella intenta recuperar el aliento pero emite "Jajaja... ah..." entrecortado otra vez.
+La boca se abre, frunce brevemente, luego se abre otra vez, mostrando una reacción queriendo reír y llorar simultáneamente. Cejas apretadas, fosas nasales se mueven ligeramente, barbilla tiembla, ocasionalmente mostrando dientes.
+La cabeza regresa de posición lateral al centro de la almohada, la mano derecha continúa presionando el abdomen. Las gafas se mueven con la cabeza, pendientes de flores balancean naturalmente.
+Ella abre brevemente los ojos mirando la pantalla, dice furiosamente:
+"Estoy furiosa."
+Después de hablar, cierra los ojos, arruga la nariz, revela expresión mixta de risa/llanto, terminando con una breve risa amarga y exhalación.
+Siempre permanece acostada en su lugar, no se sienta, no se añade trama adicional.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109433100203589632/img/kqt_Zl2fK-5Wtkri.jpg" width="600" alt="Video Selfie de Risa y Lloro Furioso">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12379)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109494015062110399) | **Published:** Oct 12, 2026
+
+---
+### Video Promocional de Selfie Animada
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para crear una animación sutil de una mujer sonriendo y moviéndose ligeramente, imitando un video de selfie con texto/logos fijos, ideal para historias en redes sociales.
+
+#### 📝 Prompt
+
+```
+Animación natural sutil de la mujer sonriendo y moviendo ligeramente su cabello y cuerpo como en un video de selfie, balanceo suave de cámara, el texto y los logos permanecen fijos y nítidos, sensación profesional de promoción para historia en redes sociales, iluminación cálida, alta calidad
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109422528821121024/img/GLnA7gcisWnJMY26.jpg" width="600" alt="Video Promocional de Selfie Animada">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12375)**
+
+**Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2109422558110249320) | **Published:** Oct 11, 2026
+
+---
+### Video de caída accidental del teléfono
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt de video que utiliza referencias de storyboard para generar una secuencia caótica de caída del teléfono con distorsión gran angular y desenfoque de movimiento.
+
+#### 📝 Prompt
+
+```
+Combina cada fotograma de <<<image @1cbc28c8-e2a8-40e8-bfd6-7b3a7db70034 >>> para crear un video. Se trata de una POV subjetiva de un teléfono con cámara trasera que se resbala accidentalmente y cae × ráfaga continua de nueve tomas durante la misma caída × múltiples intentos fallidos de capturar imágenes con iPhone × perspectiva exagerada de gran angular × posiciones de cámara rotando aleatoriamente, fuera de foco, desenfoque de movimiento y ángulos inclinados.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109421168004308992/img/umxVZ4wHIS6jBsRr.jpg" width="600" alt="Video de caída accidental del teléfono">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12380)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109421569931932075) | **Published:** Oct 11, 2026
+
+---
+### Anima una Foto con Música Cinematográfica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de edición específico: mantén el texto y los elementos estáticos, anima la foto, silencia el audio hablado y añade música cinematográfica oscura.
+
+#### 📝 Prompt
+
+```
+Mantén el texto igual, todo igual, solo anima la foto, SILENCIA la parte hablada, sin sonido en el habla, añade música cinematográfica oscura
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109398315070562304/img/0AEiLghFQKtEpR9x.jpg" width="600" alt="Anima una Foto con Música Cinematográfica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12376)**
+
+**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2109398357684982123) | **Published:** Oct 11, 2026
+
+---
+### Escena de Grok Imagine: Sheriff Puckerlips
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt que describe una escena del oeste con el Sheriff Puckerlips preparándose para un tiroteo, generado como video por Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Hay un nuevo sheriff en la ciudad. Es el Sheriff Puckerlips. Se avecina un mal día y se está preparando para un tiroteo al mediodía en el condado de Paulding.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109375672866988032/img/kxTsfmC46BCdd6tY.jpg" width="600" alt="Escena de Grok Imagine: Sheriff Puckerlips">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12373)**
+
+**Author:** [Tony Hammonds](https://x.com/_Walkslowjoe) | **Source:** [Link](https://x.com/_Walkslowjoe/status/2109375981244887120) | **Published:** Oct 11, 2026
+
+---
+### Ardilla Elegante en Invierno
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt caprichoso que añade accesorios (sombrero de copa, monóculo, bastón) a una ardilla en un entorno nevado/frío.
+
+#### 📝 Prompt
+
+```
+La ardilla se posa en la rama, brisa fría, el pelaje se eriza. Añade sombrero de copa negro, monóculo y bastón negro con punta de cobre.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109363087761690625/img/334dJkAENA4s-uSf.jpg" width="600" alt="Ardilla Elegante en Invierno">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12377)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109363162902606212) | **Published:** Oct 11, 2026
+
+---
+### Video de Referencia de Acariciar Mascotas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt que instruye al modelo para crear una referencia de video pasando todas las imágenes, probablemente involucrando acariciar animales.
+
+#### 📝 Prompt
+
+```
+Mostrar y acariciar. Crea una referencia de video pasando todas las imágenes al modelo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109297908067774465/img/3juxQAuA95kE3g5T.jpg" width="600" alt="Video de Referencia de Acariciar Mascotas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12374)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2109297935100043488) | **Published:** Oct 11, 2026
+
+---
 ### Cambio de traje tradicional con Grok Imagine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -636,6 +840,25 @@ Estoy caminando por un prado en Texas. Sostengo las riendas de un hermoso caball
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12215)**
 
 **Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **Published:** Oct 8, 2026
+
+---
+### Prompt de Arte Fantástico del Espíritu de la Tierra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar una imagen etérea del espíritu de la tierra, originalmente sugerido por Gemini y probado en varios modelos, incluyendo Grok Imagine para la generación de video.
+
+#### 📝 Prompt
+
+```
+Un espíritu etéreo de la tierra que toma la forma de una joven mujer humana; tierra, rocas, musgo y plantas; místico; arte fantástico; altamente detallado.
+```
+
+<img src="https://cms-assets.youmind.com/media/1791792661063_g8l4f7_HUGY0TIbEAALWQU.jpg" width="600" alt="Prompt de Arte Fantástico del Espíritu de la Tierra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12381)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2108134263044673764) | **Published:** Oct 8, 2026
 
 ---
 ### Motor Híbrido del Jaguar XJ6
@@ -2054,181 +2277,6 @@ Añade a Elon Musk acercándose para invitarme a bailar, nosotros bailando y rie
 **Author:** [Lauryn Taylor Hamilton](https://x.com/sweetbabylemon1) | **Source:** [Link](https://x.com/sweetbabylemon1/status/2106171730637304311) | **Published:** Oct 2, 2026
 
 ---
-### Escena del Dragón y Ventilador Giratorio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detallado para animar una imagen estática de un dragón y un ventilador, centrado en el desenfoque de movimiento realista de las aspas mientras se mantienen los demás elementos inmóviles.
-
-#### 📝 Prompt
-
-```
-Haz que las aspas del ventilador blanco parezcan girar claramente con un desenfoque de movimiento realista, para que se vea como si estuviera soplando aire fresco activamente. Mantén completamente inmóviles al dragón amarillo, su sonrisa feliz con los ojos cerrados, la pose, el afloramiento rocoso, las montañas, el cielo y todo lo demás.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="Escena del Dragón y Ventilador Giratorio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11837)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **Published:** Oct 2, 2026
-
----
-### Prompt de video para Grok Imagine: Aveline y el Dragón Negro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt específico para generar una escena de video donde Aveline se encuentra junto a un enorme dragón negro que extiende sus alas.
-
-#### 📝 Prompt
-
-```
-La joven Aveline permanece de pie junto a su imponente dragón negro en un paisaje montañoso. El dragón se eleva repentinamente y despliega lentamente sus enormes alas oscuras hasta su máxima envergadura, mostrando poder y majestuosidad. El viento se precipita hacia afuera con el movimiento, agitando el cabello de Aveline...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Prompt de video para Grok Imagine: Aveline y el Dragón Negro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11785)**
-
-**Author:** [Aveline](https://x.com/Avelinechronicl) | **Source:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **Published:** Oct 2, 2026
-
----
-### Robot volando alrededor del campamento
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de generación de video para Grok Imagine donde un robot vuela alrededor de un campamento mientras los perros saltan y juegan.
-
-#### 📝 Prompt
-
-```
-¿Podrías hacer que el robot vuele alrededor del campamento mientras los perros saltan y juegan observando....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="Robot volando alrededor del campamento">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11783)**
-
-**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **Published:** Oct 2, 2026
-
----
-### Escena Emotiva entre Robot y Hombre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt narrativo detallado para una escena conmovedora que involucra a un robot y un hombre, incluyendo diálogo y acciones de animales en el fondo.
-
-#### 📝 Prompt
-
-```
-El robot besa al hombre en la mejilla y dice: "Te quiero, papá".
-El hombre besa al robot en la frente y dice: "Yo también te quiero, Rocket".
-Los caballos y los perros giran alrededor de ellos de forma juguetona.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="Escena Emotiva entre Robot y Hombre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11781)**
-
-**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **Published:** Oct 2, 2026
-
----
-### Batalla de Caballero y Dragón con Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt lleno de acción para un video que muestra a un caballero luchando contra murciélagos y un dragón escupiendo fuego.
-
-#### 📝 Prompt
-
-```
-Caballero luchando contra muchos murciélagos negros, el dragón aterriza, se alza sobre el caballero y lanza fuego contra los murciélagos negros
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Batalla de Caballero y Dragón con Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11782)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **Published:** Oct 1, 2026
-
----
-### Prompt de video para Grok Imagine: Plataforma de pista de aterrizaje
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video con ángulo amplio y cámara fija para Grok Imagine que muestra una plataforma de pista de aterrizaje con efectos de niebla, lavado y mordida del soporte. Remake a partir de un prompt épico de Seedance.
-
-#### 📝 Prompt
-
-```
-Plataforma de pista de aterrizaje con cámara fija.
-Cinco tiempos de lavado, niebla y mordida del soporte.
-Remake en Grok Imagine del prompt épico de Seedance para pista de aterrizaje.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Prompt de video para Grok Imagine: Plataforma de pista de aterrizaje">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11786)**
-
-**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **Published:** Oct 1, 2026
-
----
-### Prompt de video para Grok Imagine: Guía del anfiteatro italiano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de generación de video para Grok Imagine que muestra un anfiteatro italiano donde un guía turístico habla a la cámara en italiano. Remakeado de un prompt de Morphic.
-
-#### 📝 Prompt
-
-```
-Anfiteatro italiano, guía turístico a cámara: “Aquí miles de personas cantaron.”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Prompt de video para Grok Imagine: Guía del anfiteatro italiano">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11784)**
-
-**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **Published:** Oct 1, 2026
-
----
-### Joven organizando planetas y revelación del ombligo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para la generación de video que describe a un joven estirándose para organizar planetas, con un zoom específico de cámara en su ombligo asomando bajo su suéter.
-
-#### 📝 Prompt
-
-```
-El hermoso joven estira los brazos y el cuerpo para organizar los planetas, respirando. Sus amigos notan su perfecto ombligo apareciendo discretamente bajo el borde inferior de su suéter: "podemos ver tu pequeño ombligo". Plan en zoom sobre su om...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105520567910629376/img/hzyspk21420gFBV4.jpg" width="600" alt="Joven organizando planetas y revelación del ombligo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11748)**
-
-**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2105520676899524860) | **Published:** Oct 1, 2026
-
----
-### Prompt de Video: Tesla Cybertruck en Incendios Forestales
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un breve prompt de video para Grok Imagine que solicita un Tesla Cybertruck con revestimientos térmicos conduciendo a través de incendios forestales.
-
-#### 📝 Prompt
-
-```
-Crea un video de un Tesla Cybertruck equipado con revestimientos térmicos diseñado para atravesar incendios forestales
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105461240617140224/img/sDt013vJgo0orVoq.jpg" width="600" alt="Prompt de Video: Tesla Cybertruck en Incendios Forestales">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11746)**
-
-**Author:** [Hunter Ryffel](https://x.com/HRyffel) | **Source:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **Published:** Oct 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2290,6 +2338,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-12T05:42:47.617Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-12T17:54:21.729Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3050** |
+| 📝 Total Prompts | **3059** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-12** |
 
@@ -189,6 +189,205 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Cowgirl Cowboy Beach Race Silhouette Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine depicting cowgirls and cowboys racing on a beach with sunrise-colored hoof flashes.
+
+#### 📝 Prompt
+
+```
+In dark silhouette cowgirl and cowboy race beside each other on ocean beach fire the color of a brilliant sunrise flashes from the horses hooves when each hoof lands on the sand
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109544031252529153/img/syXmP_gxWX9mJQt4.jpg" width="600" alt="Cowgirl Cowboy Beach Race Silhouette Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12378)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109544110919164271) | **Published:** Oct 12, 2026
+
+---
+### Angry Laughing Crying Selfie Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed video prompt for generating a realistic 12-second selfie video of a woman laughing and crying in anger, specifying expressions, camera movement, and audio details.
+
+#### 📝 Prompt
+
+```
+[Task]
+Generate a 12-second, 9:16 vertical realistic smartphone selfie video. Replicate the lying-on-bed composition, action sequence, mixed laughing/crying expressions, and rhythm of the reference video 'Stomach Ache from Anger', replacing the original character with a specified adult female.
+
+[Reference Division and Character Locking]
+Lock the facial features, proportions, and long black hair to the female face reference image @0ba07db1-974c-467d-80dc-d9dffddac0ba; do not inherit the male appearance from the original video.
+Lock clothing and body proportions to the reference image @8149c66e-9a91-4b88-bf26-d0a764075ccf; wear the clothing completely.
+Lock glasses to the silver decorative glasses reference image @d80c71c5-d330-4baf-8ecf-8b793ee0fee8: thin silver metal wire, open curved lower eye frames, transparent nose pads, small bow metal coils near the bridge of the nose, one hanging flower on each side. Temple arms rest normally on ears, both eyes clearly visible. Glasses worn throughout, do not turn into ordinary thick-framed glasses, no display stands appear.
+The original video only locks performance, selfie angle, actions, and rhythm.
+Do not inherit the falling shot from the previous nine-grid.
+
+[Scene and Shooting]
+She lies supine on a white bed, head on a white pillow, long hair naturally spread out.
+Left hand holds the phone off-screen, front camera located about 40cm above the face, shooting down at the face, shoulders, and upper body. The face occupies the main subject of the frame.
+Right hand can reach the bottom edge of the screen to press the abdomen.
+One continuous take throughout, the lens only shakes slightly with the holding hand, breathing, and shoulder tremors. Natural bedroom light, ordinary smartphone native quality, realistic skin texture, no beauty filters.
+
+[Strict Timing and Performance]
+0–2.8 seconds:
+Opens immediately in a state of angry laughter and tears. Her brows are tightly furrowed, eyes squeezed shut, corners of mouth pulled horizontally, intermittently emitting "Hahaha... ah... haha".
+Laughter carries grievance and anger, shoulders tremble lightly, head moves slightly on the pillow.
+Silver flower pendants sway gently with head movements, nose pads and temple arms remain fitted to the face.
+2.8–5.8 seconds:
+She stops to inhale, barely opens her eyes to look at the phone screen, brows still furrowed, corners of mouth turned down, speaking with anger and grievance:
+"Family, I'm so angry my stomach hurts."
+When saying the second half, right hand presses abdomen, head turns to one side, eyes squeeze shut again. Phone shakes slightly with body tremors, face remains clearly readable.
+5.8–9.3 seconds:
+She tries to catch her breath but emits broken "Hahaha... ah..." again.
+Mouth opens, briefly purses, then opens again, showing a reaction wanting to laugh and cry simultaneously. Brows squeeze tight, nostrils move slightly, chin trembles, occasionally showing teeth.
+Head returns from sideways position to center of pillow, right hand continues pressing abdomen. Glasses move with head, flower pendants sway naturally.
+9.3–12 seconds:
+She briefly opens eyes looking at screen, says angrily:
+"I'm furious."
+After speaking, closes eyes, wrinkles nose, reveals mixed laughing/crying expression, ending with a short bitter laugh and exhale.
+Always stays lying in place, does not sit up, no additional plot added.
+
+[Audio]
+Natural adult female voice, close-range smartphone recording, lip sync with dialogue.
+Laughter is intermittent, with inhalations and breath sounds, emotion is interwoven anger, grievance, and bitter smile.
+Slight pillow friction, fabric friction, and indoor background noise, no narration, no background music.
+If the generation tool supports reference video audio, prioritize matching the pauses, laughter, and speaking rhythm of the original clip.
+
+[Key Requirements]
+Retain the exaggerated eye-squeezing, brow-furrowing, mouth-opening, and head-swings of the original clip; cannot turn into a pretty smile or calm talking head.
+Maintain the same character identity when expressions distort facial features.
+Glasses structure, number of flowers, clothing, hairstyle, bedding, and lighting remain consistent throughout.
+No face swapping, no floating glasses or glasses passing through skin, no adding flower charms, no extra arms or abnormal fingers.
+No cuts, no falls, no tumbling camera angles, no slow motion, no cinematic camerawork.
+Do not add subtitles, screenshot stickers, watermarks, or platform interfaces to the generated visuals.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109433100203589632/img/kqt_Zl2fK-5Wtkri.jpg" width="600" alt="Angry Laughing Crying Selfie Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12379)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109494015062110399) | **Published:** Oct 12, 2026
+
+---
+### Animated Selfie Promo Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for creating a subtle animation of a woman smiling and moving slightly, mimicking a selfie video with fixed text/logos, suitable for social media stories.
+
+#### 📝 Prompt
+
+```
+Subtle natural animation of the woman smiling and slightly moving her hair and body as in a selfie video, gentle camera sway, text and logos stay fixed and sharp, professional promo feel for social media story, warm lighting, high quality
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109422528821121024/img/GLnA7gcisWnJMY26.jpg" width="600" alt="Animated Selfie Promo Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12375)**
+
+**Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2109422558110249320) | **Published:** Oct 11, 2026
+
+---
+### Phone Drop Camera Fall Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A video prompt using storyboard references to generate a chaotic phone drop sequence with wide-angle distortion and motion blur.
+
+#### 📝 Prompt
+
+```
+Combine every frame of <<<image @1cbc28c8-e2a8-40e8-bfd6-7b3a7db70034 >>> to create a video. This is a subjective POV of a rear-facing phone accidentally slipping and falling × continuous nine-shot burst during the same fall × multiple failed iPhone shots × exaggerated wide-angle perspective × randomly rotating camera positions, out-of-focus, motion blur, and skewed angles.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109421168004308992/img/umxVZ4wHIS6jBsRr.jpg" width="600" alt="Phone Drop Camera Fall Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12380)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109421569931932075) | **Published:** Oct 11, 2026
+
+---
+### Animate Photo with Cinematic Music
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A specific editing prompt: keep text/elements static, animate the photo itself, mute speech, and add dark cinematic music.
+
+#### 📝 Prompt
+
+```
+Keep the text the same, everything the same, just animate the photo, MUTE the speaking part, no sound on speaking, add dark cinematic music
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109398315070562304/img/0AEiLghFQKtEpR9x.jpg" width="600" alt="Animate Photo with Cinematic Music">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12376)**
+
+**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2109398357684982123) | **Published:** Oct 11, 2026
+
+---
+### Grok Imagine Sheriff Puckerlips Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt describing a western scene with Sheriff Puckerlips getting ready for a shootout, generated as a video by Grok Imagine.
+
+#### 📝 Prompt
+
+```
+A new sheriff in town. He is Sheriff puckerlips. A bad day is ahead and he is getting ready for a shootout at high noon in Paulding County.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109375672866988032/img/kxTsfmC46BCdd6tY.jpg" width="600" alt="Grok Imagine Sheriff Puckerlips Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12373)**
+
+**Author:** [Tony Hammonds](https://x.com/_Walkslowjoe) | **Source:** [Link](https://x.com/_Walkslowjoe/status/2109375981244887120) | **Published:** Oct 11, 2026
+
+---
+### Dapper Squirrel in Winter
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical prompt adding accessories (top hat, monocle, walking stick) to a squirrel in a snowy/cold setting.
+
+#### 📝 Prompt
+
+```
+Squirrel sets on branch cold breeze fur puffs out add black top hat monocle add black walking stick with copper point
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109363087761690625/img/334dJkAENA4s-uSf.jpg" width="600" alt="Dapper Squirrel in Winter">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12377)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109363162902606212) | **Published:** Oct 11, 2026
+
+---
+### Petting Reference Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt instructing the model to create a video reference by passing all images, likely involving petting animals.
+
+#### 📝 Prompt
+
+```
+Show and petting. Create a reference to video by passing all images to the model.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109297908067774465/img/3juxQAuA95kE3g5T.jpg" width="600" alt="Petting Reference Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12374)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2109297935100043488) | **Published:** Oct 11, 2026
+
+---
 ### Grok Imagine Traditional Costume Swap
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -636,6 +835,25 @@ I'm walking through a meadow in Texas. I'm holding the reins of a beautiful Arab
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12215)**
 
 **Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **Published:** Oct 8, 2026
+
+---
+### Earth Spirit Fantasy Art Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating an ethereal earth spirit image, originally suggested by Gemini, tested across various models including Grok Imagine for video generation.
+
+#### 📝 Prompt
+
+```
+An ethereal earth spirit taking the form of a young human woman; earth, rocks, moss, and plants; mystical; fantasy art; highly detailed.
+```
+
+<img src="https://cms-assets.youmind.com/media/1791792661063_g8l4f7_HUGY0TIbEAALWQU.jpg" width="600" alt="Earth Spirit Fantasy Art Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12381)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2108134263044673764) | **Published:** Oct 8, 2026
 
 ---
 ### Jaguar XJ6 Hybrid Engine
@@ -2054,181 +2272,6 @@ add elon musk coming up to ask me to dance and us dancing laughing and then him 
 **Author:** [Lauryn Taylor Hamilton](https://x.com/sweetbabylemon1) | **Source:** [Link](https://x.com/sweetbabylemon1/status/2106171730637304311) | **Published:** Oct 2, 2026
 
 ---
-### Spinning Fan Dragon Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt to animate a static image of a dragon and fan, focusing on realistic motion blur for the fan blades while keeping other elements static.
-
-#### 📝 Prompt
-
-```
-Make the blades of the white box fan appear clearly spinning with realistic motion blur, so it looks actively blowing cool air. Keep the yellow dragon, his blissful closed-eyed smile, pose, rocky outcrop, mountains, sky, and everything else completely still.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="Spinning Fan Dragon Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11837)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **Published:** Oct 2, 2026
-
----
-### Grok Imagine Aveline and Black Dragon Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A specific prompt for generating a video scene where Aveline stands beside a massive black dragon that spreads its wings.
-
-#### 📝 Prompt
-
-```
-Young Aveline stands beside her massive black dragon on the mountain landscape. The dragon suddenly raises and slowly spreads its enormous dark wings to their full span, powerful and majestic. Wind rushes outward from the movement, blowing Aveline’s...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Grok Imagine Aveline and Black Dragon Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11785)**
-
-**Author:** [Aveline](https://x.com/Avelinechronicl) | **Source:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **Published:** Oct 2, 2026
-
----
-### Robot Flying Around Camp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine where a robot flies around a camp while dogs jump and play.
-
-#### 📝 Prompt
-
-```
-Can you please have the robot fly around the camp as the dogs jumps and play watching....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="Robot Flying Around Camp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11783)**
-
-**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **Published:** Oct 2, 2026
-
----
-### Robot Kisses Man Dialogue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative prompt describing a scene where a robot kisses a man and exchanges dialogue about love, with animals playing around them.
-
-#### 📝 Prompt
-
-```
-The robot kiss the man on the cheek and says “I love you dad”
-The man kisses the robot on the forehead and says “I love you too Rocket”
-The horses and dogs circle around them playfully.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="Robot Kisses Man Dialogue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11781)**
-
-**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **Published:** Oct 2, 2026
-
----
-### Grok Imagine Knight Dragon Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An action-packed prompt for a video featuring a knight fighting bats and a dragon breathing fire.
-
-#### 📝 Prompt
-
-```
-Knight fighting many black bats dragon lands standing over knight blasts black bats with fire
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine Knight Dragon Battle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11782)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **Published:** Oct 1, 2026
-
----
-### Grok Imagine Video Prompt: Runway Pad Deck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A locked-off wide-angle video prompt for Grok Imagine showing a runway pad deck with mist, wash, and strut bite effects. Remade from a Seedance epic prompt.
-
-#### 📝 Prompt
-
-```
-Locked-off pad deck.
-Five beats of wash, mist, and strut bite.
-Runway Seedance epic remade in Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Grok Imagine Video Prompt: Runway Pad Deck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11786)**
-
-**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **Published:** Oct 1, 2026
-
----
-### Grok Imagine Video Prompt: Italian Amphitheater Guide
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine showing an Italian amphitheater where a tour guide speaks to the camera in Italian. Remade from a Morphic prompt.
-
-#### 📝 Prompt
-
-```
-Italian amphitheater, tour guide to camera: “Here thousands of people sang.”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Grok Imagine Video Prompt: Italian Amphitheater Guide">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11784)**
-
-**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **Published:** Oct 1, 2026
-
----
-### Young man arranging planets and navel reveal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video generation prompt describing a young man stretching to arrange planets, with a specific camera zoom on his navel appearing under his sweater.
-
-#### 📝 Prompt
-
-```
-The beautiful young man stretches his arms and body to arrange the planets, breathing. His friends notice his perfect navel appearing discreetly under the lower edge of his sweater "we can see your little navel". Plan in zoom on his nav...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105520567910629376/img/hzyspk21420gFBV4.jpg" width="600" alt="Young man arranging planets and navel reveal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11748)**
-
-**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2105520676899524860) | **Published:** Oct 1, 2026
-
----
-### Tesla Cybertruck Forest Fire Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A short video prompt for Grok Imagine requesting a Tesla Cybertruck with heat tiles driving through forest fires.
-
-#### 📝 Prompt
-
-```
-Make me a Tesla cybertruck truck that has heat tiles made for driving through forest fires
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105461240617140224/img/sDt013vJgo0orVoq.jpg" width="600" alt="Tesla Cybertruck Forest Fire Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11746)**
-
-**Author:** [Hunter Ryffel](https://x.com/HRyffel) | **Source:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **Published:** Oct 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2290,6 +2333,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-12T05:42:39.880Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-12T17:54:13.733Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3050** |
+| 📝 Total Prompts | **3059** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-12** |
 
@@ -189,6 +189,194 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Mô tả Video Silhouette Cuộc đua Bờ biển Cowgirl Cowboy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả video điện ảnh cho Grok Imagine, khắc họa cảnh các cowgirl và cowboy đua ngựa trên bãi biển với những vệt sáng màu bình minh từ móng ngựa.
+
+#### 📝 Prompt
+
+```
+Trong bóng tối silhouette, một cowgirl và một cowboy cùng nhau đua ngựa trên bãi biển đại dương. Những tia lửa màu bình minh rực rỡ phát ra từ móng ngựa mỗi khi chúng chạm xuống cát.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109544031252529153/img/syXmP_gxWX9mJQt4.jpg" width="600" alt="Mô tả Video Silhouette Cuộc đua Bờ biển Cowgirl Cowboy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12378)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109544110919164271) | **Published:** Oct 12, 2026
+
+---
+### Video Selfie Cười Khóc Giận Dữ
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt video chi tiết để tạo ra một đoạn video selfie thực tế dài 12 giây của một phụ nữ vừa cười vừa khóc trong cơn giận, mô tả rõ biểu cảm khuôn mặt, chuyển động camera và các chi tiết âm thanh.
+
+#### 📝 Prompt
+
+```
+[Nhiệm vụ]
+Tạo một đoạn video selfie dọc 9:16, độ dài 12 giây, phong cách chân thực quay bằng điện thoại thông minh. Tái hiện bố cục nằm trên giường, trình tự hành động, biểu cảm hỗn hợp giữa cười và khóc, cùng nhịp điệu của video tham khảo "Đau Bụng Vì Tức Giận", thay thế nhân vật gốc bằng một phụ nữ trưởng thành theo yêu cầu.
+
+[Phân chia tham chiếu và khóa nhân vật]
+Khóa đặc điểm khuôn mặt, tỷ lệ cơ thể và mái tóc đen dài theo ảnh tham chiếu khuôn mặt nữ @0ba07db1-974c-467d-80dc-d9dffddac0ba; không kế thừa ngoại hình nam từ video gốc.
+Khóa trang phục và tỷ lệ cơ thể theo ảnh tham chiếu @8149c66e-9a91-4b88-bf26-d0a764075ccf; mặc đồ kín đáo, chỉnh tề.
+Khóa kính mắt theo ảnh tham chiếu kính trang trí màu bạc @d80c71c5-d330-4baf-8ecf-8b793ee0fee8: khung kim loại mỏng màu bạc, gọng dưới cong mở, đệm mũi trong suốt, lò xo kim loại nhỏ hình nơ gần sống mũi, mỗi bên có một bông hoa treo lủng lẳng. Gọng kính tựa bình thường lên tai, cả hai mắt nhìn rõ ràng. Kính được đeo xuyên suốt, không biến đổi thành kính gọng dày thông thường, không xuất hiện giá đỡ trưng bày.
+Video gốc chỉ khóa về diễn xuất, góc chụp selfie, hành động và nhịp điệu.
+Không kế thừa cảnh rơi máy từ lưới chín ô trước đó.
+
+[Bối cảnh và Quay phim]
+Cô ấy nằm ngửa trên chiếc giường trắng, đầu gối trên gối trắng, tóc dài tỏa ra tự nhiên.
+Tay trái cầm điện thoại ngoài khung hình, camera trước đặt khoảng 40cm phía trên khuôn mặt, quay xuống khuôn mặt, vai và phần thân trên. Khuôn mặt chiếm chủ thể chính của khung hình.
+Tay phải có thể với tới mép dưới màn hình để ấn vào vùng bụng.
+Quay một cú liên tục (one-shot) xuyên suốt, ống kính chỉ rung nhẹ theo tay cầm, hơi thở và sự run rẩy của vai. Ánh sáng phòng ngủ tự nhiên, chất lượng bản địa của điện thoại thông minh, kết cấu da chân thực, không dùng bộ lọc làm đẹp.
+
+[Thời gian chặt chẽ và Diễn xuất]
+0–2.8 giây:
+Mở đầu ngay lập tức trong trạng thái vừa cười vừa khóc vì tức giận. Lông mày cô ấy nhíu chặt, mắt nhắm nghiền, khóe miệng kéo ngang, thỉnh thoảng phát ra tiếng "Ha ha ha... á... haha".
+Tiếng cười mang theo sự tủi hờn và giận dữ, vai run nhẹ, đầu di chuyển đôi chút trên gối.
+Các mặt dây chuyền hoa bạc đung đưa nhẹ nhàng theo cử động đầu, đệm mũi và gọng kính vẫn ôm sát khuôn mặt.
+2.8–5.8 giây:
+Cô ấy dừng lại để hít thở, hé mắt nhìn vào màn hình điện thoại, lông mày vẫn nhíu, khóe miệng hạ xuống, nói chuyện với vẻ tức giận và tủi hờn:
+"Trời ơi, tôi tức đến đau cả bụng đây này."
+Khi nói nửa sau, tay phải ấn vào bụng, đầu quay sang một bên, mắt lại nhắm nghiền. Điện thoại rung nhẹ theo sự run rẩy của cơ thể, khuôn mặt vẫn dễ đọc rõ ràng.
+5.8–9.3 giây:
+Cô ấy cố gắng lấy lại hơi nhưng lại phát ra những tiếng "Ha ha ha... á..." ngắt quãng.
+Miệng mở ra, mím lại nhanh chóng, rồi mở ra lần nữa, cho thấy phản ứng muốn vừa cười vừa khóc cùng lúc. Lông mày ép chặt, lỗ mũi phập phồng nhẹ, cằm run rẩy, thỉnh thoảng lộ răng.
+Đầu trở lại vị trí trung tâm của gối từ tư thế nghiêng, tay phải tiếp tục ấn vào bụng. Kính di chuyển theo đầu, mặt dây chuyền hoa đung đưa tự nhiên.
+9.3–12 giây:
+Cô ấy hé mắt nhìn vào màn hình trong khoảnh khắc, nói đầy tức giận:
+"Tôi đang rất điên tiết."
+Sau khi nói xong, cô ấy nhắm mắt, nhăn mũi, lộ ra biểu cảm hỗn hợp cười/khóc, kết thúc bằng một tiếng cười đắng chát ngắn và thở hắt ra.
+Luôn giữ nguyên tư thế nằm tại chỗ, không ngồi dậy, không thêm tình tiết bổ sung.
+
+[Âm thanh]
+Giọng nữ trưởng thành tự nhiên, ghi âm bằng điện thoại ở khoảng cách gần, khớp khẩu hình với lời thoại.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109433100203589632/img/kqt_Zl2fK-5Wtkri.jpg" width="600" alt="Video Selfie Cười Khóc Giận Dữ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12379)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109494015062110399) | **Published:** Oct 12, 2026
+
+---
+### Video Quảng Cáo Selfie Hoạt Hình
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết để tạo hiệu ứng động nhẹ nhàng cho hình ảnh một phụ nữ đang mỉm cười và cử động tinh tế, mô phỏng video selfie với văn bản/logo cố định, phù hợp cho tin nhắn trên mạng xã hội.
+
+#### 📝 Prompt
+
+```
+Hiệu ứng động tự nhiên tinh tế: người phụ nữ mỉm cười và khẽ di chuyển tóc cùng cơ thể như trong video selfie, camera rung nhẹ, văn bản và logo giữ nguyên vị trí và sắc nét, phong cách quảng cáo chuyên nghiệp cho tin nhắn mạng xã hội, ánh sáng ấm áp, chất lượng cao
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109422528821121024/img/GLnA7gcisWnJMY26.jpg" width="600" alt="Video Quảng Cáo Selfie Hoạt Hình">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12375)**
+
+**Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2109422558110249320) | **Published:** Oct 11, 2026
+
+---
+### Video Quay Cảnh Rơi Điện Thoại
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Hướng dẫn tạo video sử dụng các tham chiếu storyboard để tạo ra một cảnh rơi điện thoại hỗn loạn với hiệu ứng méo góc rộng và mờ chuyển động.
+
+#### 📝 Prompt
+
+```
+Kết hợp mọi khung hình của <<<image @1cbc28c8-e2a8-40e8-bfd6-7b3a7db70034 >>> để tạo thành một video. Đây là góc nhìn chủ quan (POV) từ camera sau khi chiếc điện thoại vô tình trượt tay và rơi xuống × liên tục chín bức ảnh chụp nhanh trong cùng một lần rơi × nhiều bức ảnh iPhone thất bại × phối cảnh góc rộng phóng đại × vị trí máy quay xoay ngẫu nhiên, mất nét, mờ chuyển động và lệch góc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109421168004308992/img/umxVZ4wHIS6jBsRr.jpg" width="600" alt="Video Quay Cảnh Rơi Điện Thoại">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12380)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109421569931932075) | **Published:** Oct 11, 2026
+
+---
+### Tạo Hiệu Ứng Ảnh Động Với Nhạc Điện Ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hướng dẫn chỉnh sửa cụ thể: giữ nguyên văn bản và các yếu tố tĩnh, tạo hiệu ứng động cho ảnh, tắt âm thanh giọng nói và thêm nhạc nền điện ảnh tối.
+
+#### 📝 Prompt
+
+```
+Giữ nguyên văn bản, mọi thứ không thay đổi, chỉ tạo hiệu ứng động cho ảnh, TẮT phần giọng nói, không có âm thanh khi nói, thêm nhạc nền điện ảnh tối.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109398315070562304/img/0AEiLghFQKtEpR9x.jpg" width="600" alt="Tạo Hiệu Ứng Ảnh Động Với Nhạc Điện Ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12376)**
+
+**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2109398357684982123) | **Published:** Oct 11, 2026
+
+---
+### Cảnh Sheriff Puckerlips trong Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả prompt về một cảnh miền Tây với Sheriff Puckerlips chuẩn bị cho cuộc đấu súng, được tạo thành video bởi Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Một cảnh sát trưởng mới xuất hiện trong thị trấn. Anh ta là Sheriff Puckerlips. Một ngày tồi tệ đang chờ phía trước và anh ấy đang chuẩn bị cho cuộc đấu súng vào lúc giữa trưa ở Quận Paulding.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109375672866988032/img/kxTsfmC46BCdd6tY.jpg" width="600" alt="Cảnh Sheriff Puckerlips trong Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12373)**
+
+**Author:** [Tony Hammonds](https://x.com/_Walkslowjoe) | **Source:** [Link](https://x.com/_Walkslowjoe/status/2109375981244887120) | **Published:** Oct 11, 2026
+
+---
+### Chú Sóc Lịch Lãm Trong Mùa Đông
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh thú vị thêm phụ kiện (mũ chóp cao, kính đơn, gậy chống) cho một con sóc trong bối cảnh tuyết rơi/lạnh giá.
+
+#### 📝 Prompt
+
+```
+Sóc đậu trên cành gió lạnh lông xù lên thêm mũ chóp cao màu đen kính đơn thêm gậy chống màu đen với đầu đồng
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109363087761690625/img/334dJkAENA4s-uSf.jpg" width="600" alt="Chú Sóc Lịch Lãm Trong Mùa Đông">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12377)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109363162902606212) | **Published:** Oct 11, 2026
+
+---
+### Video Tham Chiếu Vuốt Ve Động Vật
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh hướng dẫn mô hình tạo video tham chiếu bằng cách truyền tất cả hình ảnh, có thể liên quan đến việc vuốt ve động vật.
+
+#### 📝 Prompt
+
+```
+Hiển thị và vuốt ve. Tạo video tham chiếu bằng cách truyền tất cả hình ảnh cho mô hình.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109297908067774465/img/3juxQAuA95kE3g5T.jpg" width="600" alt="Video Tham Chiếu Vuốt Ve Động Vật">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12374)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2109297935100043488) | **Published:** Oct 11, 2026
+
+---
 ### Hoán đổi trang phục truyền thống với Grok Imagine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -636,6 +824,25 @@ Tôi đang đi bộ qua một đồng cỏ ở Texas. Tôi đang cầm dây cư�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12215)**
 
 **Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **Published:** Oct 8, 2026
+
+---
+### Prompt nghệ thuật tưởng tượng về Tinh Linh Đất
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo hình ảnh tinh linh đất thanh tao, ban đầu được đề xuất bởi Gemini và đã được thử nghiệm trên nhiều mô hình khác nhau, bao gồm Grok Imagine để tạo video.
+
+#### 📝 Prompt
+
+```
+Một tinh linh đất thanh tao hiện thân thành một cô gái trẻ; đất đá, rêu phong và thực vật; huyền bí; nghệ thuật tưởng tượng; chi tiết cao.
+```
+
+<img src="https://cms-assets.youmind.com/media/1791792661063_g8l4f7_HUGY0TIbEAALWQU.jpg" width="600" alt="Prompt nghệ thuật tưởng tượng về Tinh Linh Đất">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12381)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2108134263044673764) | **Published:** Oct 8, 2026
 
 ---
 ### Động cơ Hybrid Jaguar XJ6
@@ -2054,181 +2261,6 @@ hãy thêm cảnh elon musk tiến đến mời tôi khiêu vũ, chúng tôi v�
 **Author:** [Lauryn Taylor Hamilton](https://x.com/sweetbabylemon1) | **Source:** [Link](https://x.com/sweetbabylemon1/status/2106171730637304311) | **Published:** Oct 2, 2026
 
 ---
-### Cảnh Quạt Xoay và Rồng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết để tạo hiệu ứng động cho hình ảnh tĩnh của một con rồng và chiếc quạt, tập trung vào hiệu ứng mờ chuyển động thực tế cho các cánh quạt trong khi giữ nguyên các yếu tố khác.
-
-#### 📝 Prompt
-
-```
-Làm cho các cánh quạt của chiếc quạt hộp màu trắng trông như đang quay rõ ràng với hiệu ứng mờ chuyển động thực tế, để tạo cảm giác nó đang thổi gió mát. Giữ nguyên hoàn toàn con rồng màu vàng, nụ cười mãn nguyện với đôi mắt nhắm nghiền, tư thế, mỏm đá, núi non, bầu trời và mọi thứ khác.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="Cảnh Quạt Xoay và Rồng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11837)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **Published:** Oct 2, 2026
-
----
-### Grok Imagine Aveline và Black Dragon Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt cụ thể để tạo ra cảnh video nơi Aveline đứng cạnh một con rồng đen khổng lồ đang dang rộng đôi cánh.
-
-#### 📝 Prompt
-
-```
-Aveline trẻ tuổi đứng bên cạnh con rồng đen khổng lồ của cô trên phong cảnh núi non. Con rồng bất ngờ ngẩng đầu lên và từ từ dang rộng đôi cánh tối màu to lớn của nó ra hết cỡ, mạnh mẽ và uy nghi. Gió thổi bùng ra từ chuyển động đó, làm bay tóc của Aveline...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Grok Imagine Aveline và Black Dragon Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11785)**
-
-**Author:** [Aveline](https://x.com/Avelinechronicl) | **Source:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **Published:** Oct 2, 2026
-
----
-### Robot Bay Quanh Trại
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lời nhắc tạo video cho Grok Imagine, trong đó một robot bay quanh trại khi những chú chó nhảy và chơi đùa.
-
-#### 📝 Prompt
-
-```
-Bạn có thể để robot bay quanh trại trong khi những chú chó nhảy và chơi đùa được không...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="Robot Bay Quanh Trại">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11783)**
-
-**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **Published:** Oct 2, 2026
-
----
-### Cảnh Cảm Xúc Giữa Robot Và Con Người
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu chuyện cảm động về cảnh tượng giữa một robot và một người đàn ông, bao gồm lời thoại và các hành động của những con vật xung quanh.
-
-#### 📝 Prompt
-
-```
-Robot hôn lên má người đàn ông và nói “Con yêu bố”
-Người đàn ông hôn lên trán robot và đáp lại “Bố cũng yêu con, Rocket”
-Những chú ngựa và chó chạy vòng quanh họ một cách vui vẻ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="Cảnh Cảm Xúc Giữa Robot Và Con Người">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11781)**
-
-**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **Published:** Oct 2, 2026
-
----
-### Grok Imagine: Trận Chiến Của Hiệp Sĩ Và Rồng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video hành động kịch tính về một hiệp sĩ chiến đấu với dơi và rồng phun lửa.
-
-#### 📝 Prompt
-
-```
-Hiệp sĩ chiến đấu với nhiều con dơi đen, rồng hạ cánh đứng trên hiệp sĩ, phun lửa thiêu rụi đàn dơi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine: Trận Chiến Của Hiệp Sĩ Và Rồng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11782)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **Published:** Oct 1, 2026
-
----
-### Grok Imagine Video Prompt: Sàn Hạ Cánh Runway
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video Grok Imagine cho góc quay rộng cố định, thể hiện sàn hạ cánh với các hiệu ứng sương mù, dòng chảy và lực đỡ. Được tái tạo từ prompt sử thi của Seedance.
-
-#### 📝 Prompt
-
-```
-Sàn hạ cánh với góc quay cố định.
-Năm nhịp của dòng chảy, sương mù và lực đỡ.
-Runway Seedance epic được tái tạo trong Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Grok Imagine Video Prompt: Sàn Hạ Cánh Runway">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11786)**
-
-**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **Published:** Oct 1, 2026
-
----
-### Grok Imagine Video Prompt: Hướng dẫn Amphitheater Ý
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lời nhắc tạo video cho Grok Imagine hiển thị một amphitheater ở Ý, nơi hướng dẫn viên du lịch nói với máy quay bằng tiếng Ý. Được làm lại từ lời nhắc của Morphic.
-
-#### 📝 Prompt
-
-```
-Amphitheater ở Ý, hướng dẫn viên du lịch nhìn vào máy quay: “Tại đây, hàng nghìn người đã cùng cất tiếng hát.”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Grok Imagine Video Prompt: Hướng dẫn Amphitheater Ý">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11784)**
-
-**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **Published:** Oct 1, 2026
-
----
-### Chàng trai trẻ sắp xếp các hành tinh và lộ rốn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả chi tiết về prompt tạo video, trong đó một chàng trai trẻ vươn tay sắp xếp các hành tinh, với góc máy quay cận cảnh vào vùng rốn của anh ấy khi nó hiện ra dưới lớp áo len.
-
-#### 📝 Prompt
-
-```
-Chàng trai trẻ đẹp vươn cánh tay và toàn thân để sắp xếp các hành tinh, vừa thở. Bạn bè của anh ấy nhận thấy chiếc rốn hoàn hảo của anh ấy khẽ hiện ra dưới mép dưới của chiếc áo len "chúng ta có thể thấy chiếc rốn nhỏ của bạn". Kế hoạch zoom vào rốn của anh...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105520567910629376/img/hzyspk21420gFBV4.jpg" width="600" alt="Chàng trai trẻ sắp xếp các hành tinh và lộ rốn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11748)**
-
-**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2105520676899524860) | **Published:** Oct 1, 2026
-
----
-### Prompt Video Tesla Cybertruck Cháy Rừng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt video ngắn cho Grok Imagine yêu cầu tạo cảnh xe Tesla Cybertruck với lớp phủ chịu nhiệt chạy xuyên qua đám cháy rừng.
-
-#### 📝 Prompt
-
-```
-Hãy tạo cho tôi một chiếc xe tải Tesla Cybertruck có các tấm phủ chịu nhiệt được thiết kế để chạy xuyên qua các đám cháy rừng
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105461240617140224/img/sDt013vJgo0orVoq.jpg" width="600" alt="Prompt Video Tesla Cybertruck Cháy Rừng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11746)**
-
-**Author:** [Hunter Ryffel](https://x.com/HRyffel) | **Source:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **Published:** Oct 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2290,6 +2322,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-12T05:42:45.668Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-12T17:54:19.813Z</sub>
 
 </div>

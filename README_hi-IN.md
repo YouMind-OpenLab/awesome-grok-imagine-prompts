@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3050** |
+| 📝 Total Prompts | **3059** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-12** |
 
@@ -189,6 +189,205 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### काउगर्ल और काउबॉय बीच रेस सिल्हूट वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट जो काउगर्ल्स और काउबॉय को समुद्र तट पर दौड़ते हुए दिखाता है, जहाँ सूर्योदय के रंगों की चमक घोड़ों के खुरों से निकलती है।
+
+#### 📝 Prompt
+
+```
+अंधेरे सिल्हूट में काउगर्ल और काउबॉय एक-दूसरे के बगल में समुद्र तट पर दौड़ रहे हैं। जब हर खुर रेत पर गिरता है, तो घोड़ों के खुरों से चमकदार सूर्योदय के रंगों की आग सी चमक निकलती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109544031252529153/img/syXmP_gxWX9mJQt4.jpg" width="600" alt="काउगर्ल और काउबॉय बीच रेस सिल्हूट वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12378)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109544110919164271) | **Published:** Oct 12, 2026
+
+---
+### गुस्से में हंसते-रोते हुए सेल्फी वीडियो
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> एक वास्तविक 12 सेकंड की सेल्फी वीडियो जनरेट करने के लिए विस्तृत वीडियो प्रॉम्प्ट, जिसमें एक महिला गुस्से में हंस और रो रही है। इसमें अभिव्यक्तियों, कैमरा मूवमेंट और ऑडियो विवरण निर्दिष्ट हैं।
+
+#### 📝 Prompt
+
+```
+[कार्य]
+एक 12 सेकंड का, 9:16 वर्टिकल यथार्थवादी स्मार्टफोन सेल्फी वीडियो जनरेट करें। संदर्भ वीडियो 'Stomach Ache from Anger' की बेड पर लेटी हुई रचना, क्रिया अनुक्रम, मिली-जुली हंसी/रोने की अभिव्यक्तियों और लय को दोहराएं, लेकिन मूल पात्र को एक निर्दिष्ट वयस्क महिला से बदल दें।
+
+[संदर्भ विभाजन और पात्र लॉकिंग]
+महिला चेहरे के संदर्भ चित्र @0ba07db1-974c-467d-80dc-d9dffddac0ba के अनुसार चेहरे की विशेषताओं, अनुपातों और लंबे काले बालों को लॉक करें; मूल वीडियो से पुरुष रूप को नहीं अपनाएं।
+कपड़े और शारीरिक अनुपातों को संदर्भ चित्र @8149c66e-9a91-4b88-bf26-d0a764075ccf के अनुसार लॉक करें; कपड़ों को पूरी तरह पहनें।
+चश्मे को सिल्वर सजावटी चश्मे के संदर्भ चित्र @d80c71c5-d330-4baf-8ecf-8b793ee0fee8 के अनुसार लॉक करें: पतला सिल्वर मेटल तार, खुले घुमावदार निचले आंख फ्रेम, पारदर्शी नाक पैड, नाक के पुल के पास छोटे धनुष मेटल कॉइल, दोनों ओर एक-एक लटकता हुआ फूल। टेम्पल आर्म्स कानों पर सामान्य रूप से टिके रहें, दोनों आंखें स्पष्ट रूप से दिखाई दें। चश्मा पूरे समय पहना रहे, इसे साधारण मोटे फ्रेम वाले चश्मे में न बदलें, कोई डिस्प्ले स्टैंड न दिखाई दे।
+मूल वीडियो केवल प्रदर्शन, सेल्फी एंगल, क्रियाओं और लय को लॉक करता है।
+पिछली नाइन-ग्रिड से गिरने वाला शॉट नहीं अपनाएं।
+
+[दृश्य और शूटिंग]
+वह सफेद बिस्तर पर पीठ के बल लेटी है, सिर सफेद तकिए पर रखा है, लंबे बाल स्वाभाविक रूप से फैले हुए हैं।
+बायां हाथ स्क्रीन के बाहर फोन पकड़े हुए है, फ्रंट कैमरा चेहरे से लगभग 40 सेमी ऊपर स्थित है, चेहरे, कंधों और ऊपरी शरीर की ओर नीचे की तरफ शूट कर रहा है। चेहरा फ्रेम का मुख्य विषय है।
+दाहिना हाथ स्क्रीन के निचले किनारे तक पहुंच सकता है ताकि पेट पर दबाव डाला जा सके।
+पूरे समय एक लगातार शॉट, लेंस केवल पकड़ने वाले हाथ, श्वास और कंधों के कंपन से थोड़ा हिलता है। प्राकृतिक बेडरूम लाइट, साधारण स्मार्टफोन नेटिव गुणवत्ता, यथार्थवादी त्वचा बनावट, कोई ब्यूटी फिल्टर नहीं।
+
+[सख्त समय सीमा और प्रदर्शन]
+0–2.8 सेकंड:
+तुरंत ही गुस्से वाली हंसी और आंसुओं की स्थिति में शुरू होता है। उसकी भौंहें कसकर सिकुड़ी हुई हैं, आंखें बंद हैं, मुंह के कोने क्षैतिज रूप से खिंचे हुए हैं, बीच-बीच में "हाहाहा... आ... हाहा" की आवाज़ निकालती है।
+हंसी में शिकायत और गुस्सा शामिल है, कंधे हल्का कंपन करते हैं, सिर तकिए पर थोड़ा हिलता है।
+सिल्वर फूल पेंडेंट सिर के हिलने पर हल्के से झूलते हैं, नाक पैड और टेम्पल आर्म्स चेहरे पर फिट रहते हैं।
+2.8–5.8 सेकंड:
+वह सांस लेने के लिए रुकती है, फोन स्क्रीन को देखने के लिए मुश्किल से आंखें खोलती है, भौंहें अभी भी सिकुड़ी हुई हैं, मुंह के कोने नीचे की ओर मुड़े हुए हैं, गुस्से और शिकायत के साथ बोलती है:
+"परिवार, मैं इतना गुस्से में हूं कि मेरा पेट दर्द कर रहा है।"
+दूसरे भाग को कहते समय, दाहिना हाथ पेट पर दबाव डालता है, सिर एक तरफ घूम जाता है, आंखें फिर से कसकर बंद हो जाती हैं। शरीर के कंपन के साथ फोन थोड़ा हिलता है, चेहरा स्पष्ट रूप से पढ़ा जा सकता है।
+5.8–9.3 सेकंड:
+वह सांस लेने की कोशिश करती है लेकिन फिर से टूटी हुई "हाहाहा... आ..." की आवाज़ निकालती है।
+मुंह खुलता है, थोड़े समय के लिए सिकुड़ता है, फिर फिर से खुलता है, हंसने और रोने की एक साथ इच्छा दिखाते हुए। भौंहें कसकर सिकुड़ती हैं, नाक के छिद्र थोड़े हिलते हैं, ठोड़ी कांपती है, कभी-कभी दांत दिखते हैं।
+सिर साइड की स्थिति से वापस तकिए के केंद्र में आता है, दाहिना हाथ पेट पर दबाव डालना जारी रखता है। चश्मा सिर के साथ हिलता है, फूल पेंडेंट स्वाभाविक रूप से झूलते हैं।
+9.3–12 सेकंड:
+वह स्क्रीन को देखने के लिए आंखें थोड़ी खोलती है, गुस्से में कहती है:
+"मैं बहुत नाराज हूं।"
+बोलने के बाद, आंखें बंद करती है, नाक सिकोड़ती है, मिली-जुली हंसी/रोने की अभिव्यक्ति दिखाती है, एक छोटी कड़वी हंसी और सांस छोड़ने के साथ समाप्त होती है।
+हमेशा जगह पर लेटी रहती है, बैठती नहीं है, कोई अतिरिक्त प्लॉट नहीं जोड़ा जाता है।
+
+[ऑडियो]
+प्राकृतिक वयस्क महिला आवाज़, क्लोज़-रेंज स्मार्टफोन रिकॉर्डिंग, संवाद के साथ लिप सिंक।
+हंसी असंतत है, श्वास और सांस की आवाज़ के साथ, भावनाएं गुस्सा, शिकायत और कड़वा मुस्कान के बुने हुए हैं।
+हल्की तकिए की रगड़, कपड़ों की रगड़ और इनडोर बैकग्राउंड शोर, कोई नैरेशन नहीं, कोई बैकग्राउंड म्यूजिक नहीं।
+यदि जनरेशन टूल संदर्भ वीडियो ऑडियो का समर्थन करता है, तो मूल क्लिप के ठहराव, हंसी और बोलने की लय से मेल खाने को प्राथमिकता दें।
+
+[मुख्य आवश्यकताएं]
+मूल क्लिप की अतिशयोक्तिपूर्ण आंखें सिकोड़ना, भौंहें सिकोड़ना, मुंह खोलना और सिर हिलाना बनाए रखें; इसे सुंदर मुस्कान या शांत बात करने वाले चेहरे में नहीं बदल सकते।
+अभिव्यक्तियों के कारण चेहरे की विशेषताएं विकृत होने पर भी समान पात्र पहचान बनाए रखें।
+चश्मे की संरचना, फूलों की संख्या, कपड़े, हेयरस्टाइल, बेडिंग और लाइटिंग पूरे समय सुसंगत रहें।
+कोई फेस स्वैपिंग नहीं, कोई तैरता हुआ चश्मा या त्वचा के माध्यम से गुजरता हुआ चश्मा नहीं, कोई अतिरिक्त फूल चार्म नहीं, कोई अतिरिक्त हाथ या असामान्य उंगलियां नहीं।
+कोई कट नहीं, कोई गिरना नहीं, कोई टंबलिंग कैमरा एंगल नहीं, कोई स्लो मोशन नहीं, कोई सिनेमैटिक कैमरवर्क नहीं।
+जनरेट किए गए दृश्यों में सबटाइटल, स्क्रीनशॉट स्टिकर, वॉटरमार्क या प्लेटफॉर्म इंटरफेस न जोड़ें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109433100203589632/img/kqt_Zl2fK-5Wtkri.jpg" width="600" alt="गुस्से में हंसते-रोते हुए सेल्फी वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12379)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109494015062110399) | **Published:** Oct 12, 2026
+
+---
+### एनिमेटेड सेल्फी प्रोमो वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक महिला के मुस्कुराते हुए और हल्के से हिलते हुए सूक्ष्म एनिमेशन बनाने के लिए विस्तृत प्रॉम्प्ट, जो फिक्स्ड टेक्स्ट/लोगो के साथ सेल्फी वीडियो की नकल करता है, सोशल मीडिया स्टोरीज़ के लिए उपयुक्त।
+
+#### 📝 Prompt
+
+```
+एक महिला के मुस्कुराते हुए और बालों तथा शरीर को हल्के से हिलाते हुए सूक्ष्म और प्राकृतिक एनिमेशन, जैसे कि एक सेल्फी वीडियो में होता है; कैमरा का हल्का झूलना, जबकि टेक्स्ट और लोगो स्थिर और स्पष्ट रहें; सोशल मीडिया स्टोरी के लिए पेशेवर प्रोमो भावना; गर्म लाइटिंग; उच्च गुणवत्ता
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109422528821121024/img/GLnA7gcisWnJMY26.jpg" width="600" alt="एनिमेटेड सेल्फी प्रोमो वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12375)**
+
+**Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2109422558110249320) | **Published:** Oct 11, 2026
+
+---
+### फोन गिरने का कैमरा फॉल वीडियो
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> एक वीडियो प्रॉम्प्ट जो स्टोरीबोर्ड रेफरेंस का उपयोग करके वाइड-एंगल डिसटॉर्शन और मोशन ब्लर के साथ एक अव्यवस्थित फोन गिरने की सीक्वेंस जनरेट करता है।
+
+#### 📝 Prompt
+
+```
+<<<image @1cbc28c8-e2a8-40e8-bfd6-7b3a7db70034 >>> के हर फ्रेम को मिलाकर एक वीडियो बनाएं। यह एक सब्जेक्टिव POV (प्रथम दृष्टि) है जिसमें रियर-फेसिंग फोन अनजाने में फिसलकर गिरता है × उसी गिरावट के दौरान लगातार नौ शॉट बर्स्ट × कई असफल iPhone शॉट्स × अतिशयोक्तिपूर्ण वाइड-एंगल परस्पेक्टिव × यादृच्छिक रूप से घूमती हुई कैमरा पोजीशन, आउट-ऑफ-फोकस, मोशन ब्लर और टेढ़े-मेढ़े एंगल्स।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109421168004308992/img/umxVZ4wHIS6jBsRr.jpg" width="600" alt="फोन गिरने का कैमरा फॉल वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12380)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109421569931932075) | **Published:** Oct 11, 2026
+
+---
+### सिनेमाई संगीत के साथ फोटो को एनिमेट करें
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> विशिष्ट एडिटिंग प्रॉम्प्ट: टेक्स्ट/तत्वों को स्थिर रखें, फोटो को एनिमेट करें, भाषण को म्यूट करें और डार्क सिनेमाई संगीत जोड़ें।
+
+#### 📝 Prompt
+
+```
+टेक्स्ट वही रखें, सब कुछ वही रखें, बस फोटो को एनिमेट करें, बोलने वाले हिस्से को MUTE करें, बोलने पर कोई आवाज़ नहीं, डार्क सिनेमाई संगीत जोड़ें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109398315070562304/img/0AEiLghFQKtEpR9x.jpg" width="600" alt="सिनेमाई संगीत के साथ फोटो को एनिमेट करें">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12376)**
+
+**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2109398357684982123) | **Published:** Oct 11, 2026
+
+---
+### Grok Imagine Sheriff Puckerlips Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वेस्टर्न दृश्य का प्रॉम्प्ट जिसमें शेरिफ पकरलिप्स गोलियों की बौछार के लिए तैयार हो रहे हैं, जिसे Grok Imagine द्वारा वीडियो के रूप में जनरेट किया गया है।
+
+#### 📝 Prompt
+
+```
+शहर में एक नया शेरिफ आया है। वह हैं शेरिफ पकरलिप्स। सामने एक मुश्किल दिन है और वे पॉलडिंग काउंटी में दोपहर ठीक पर होने वाली गोलियों की बौछार के लिए तैयारी कर रहे हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109375672866988032/img/kxTsfmC46BCdd6tY.jpg" width="600" alt="Grok Imagine Sheriff Puckerlips Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12373)**
+
+**Author:** [Tony Hammonds](https://x.com/_Walkslowjoe) | **Source:** [Link](https://x.com/_Walkslowjoe/status/2109375981244887120) | **Published:** Oct 11, 2026
+
+---
+### सर्दी में डैपर गिलहरी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मनोरंजक प्रॉम्प्ट जो बर्फ/ठंडे माहौल में एक गिलहरी को एक्सेसरीज़ (टॉप हैट, मोनोक्ल, वॉकिंग स्टिक) के साथ दिखाता है।
+
+#### 📝 Prompt
+
+```
+गिलहरी शाखा पर बैठी है, ठंडी हवा चल रही है, फर फूल गया है, काला टॉप हैट और मोनोक्ल लगाएं, तांबे की नोक वाली काली वॉकिंग स्टिक जोड़ें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109363087761690625/img/334dJkAENA4s-uSf.jpg" width="600" alt="सर्दी में डैपर गिलहरी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12377)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109363162902606212) | **Published:** Oct 11, 2026
+
+---
+### प्यार से सहलाने वाला संदर्भ वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> यह एक प्रॉम्प्ट है जो मॉडल को सभी छवियाँ पास करके एक वीडियो संदर्भ बनाने का निर्देश देता है, जिसमें आमतौर पर जानवरों को प्यार से सहलाना शामिल होता है।
+
+#### 📝 Prompt
+
+```
+दिखाएँ और प्यार से सहलाएँ। सभी छवियों को मॉडल में पास करके वीडियो के लिए एक संदर्भ बनाएँ।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109297908067774465/img/3juxQAuA95kE3g5T.jpg" width="600" alt="प्यार से सहलाने वाला संदर्भ वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12374)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2109297935100043488) | **Published:** Oct 11, 2026
+
+---
 ### Grok Imagine पारंपरिक वेशभूषा स्वैप
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -636,6 +835,25 @@ In AI Dimensions, Jack Harris, Naia Voss, April Vance, and Daren Korr face an en
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12215)**
 
 **Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **Published:** Oct 8, 2026
+
+---
+### पृथ्वी आत्मा फैंटेसी आर्ट प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अलौकिक पृथ्वी आत्मा की छवि उत्पन्न करने के लिए एक प्रॉम्प्ट, जिसे मूल रूप से Gemini द्वारा सुझाया गया था और Grok Imagine सहित विभिन्न मॉडलों पर वीडियो जनरेशन के लिए परखा गया।
+
+#### 📝 Prompt
+
+```
+एक अलौकिक पृथ्वी आत्मा जो एक युवा मानव महिला का रूप धारण करती है; मिट्टी, चट्टानें, काई और पौधे; रहस्यमयी; फैंटेसी आर्ट; अत्यधिक विस्तृत।
+```
+
+<img src="https://cms-assets.youmind.com/media/1791792661063_g8l4f7_HUGY0TIbEAALWQU.jpg" width="600" alt="पृथ्वी आत्मा फैंटेसी आर्ट प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12381)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2108134263044673764) | **Published:** Oct 8, 2026
 
 ---
 ### जैगुआर XJ6 हाइब्रिड इंजन
@@ -2053,181 +2271,6 @@ add elon musk coming up to ask me to dance and us dancing laughing and then him 
 **Author:** [Lauryn Taylor Hamilton](https://x.com/sweetbabylemon1) | **Source:** [Link](https://x.com/sweetbabylemon1/status/2106171730637304311) | **Published:** Oct 2, 2026
 
 ---
-### घूमता हुआ पंखा और ड्रैगन दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ड्रैगन और पंखे की स्थिर छवि को एनिमेट करने के लिए एक विस्तृत प्रॉम्प्ट, जिसमें पंखे के ब्लेड्स के लिए यथार्थवादी मोशन ब्लर पर ध्यान केंद्रित किया गया है जबकि अन्य तत्वों को स्थिर रखा गया है।
-
-#### 📝 Prompt
-
-```
-सफेद बॉक्स फैन के ब्लेड्स को स्पष्ट रूप से घूमते हुए दिखाएं ताकि वे ठंडी हवा को सक्रिय रूप से फेंक रहे हों, इसके लिए यथार्थवादी मोशन ब्लर का उपयोग करें। पीले रंग के ड्रैगन, उसकी आँखें बंद करके मुस्कान, मुद्रा, चट्टानी उभार, पहाड़, आकाश और बाकी सभी चीजों को पूरी तरह से स्थिर रखें।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="घूमता हुआ पंखा और ड्रैगन दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11837)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **Published:** Oct 2, 2026
-
----
-### Grok Imagine Aveline और Black Dragon वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विशिष्ट प्रॉम्प्ट जो एक वीडियो दृश्य उत्पन्न करता है जिसमें Aveline एक विशाल काले ड्रैगन के बगल में खड़ी होती है जो अपने पंख फैलाता है।
-
-#### 📝 Prompt
-
-```
-युवा Aveline पहाड़ी परिदृश्य पर अपने विशाल काले ड्रैगन के बगल में खड़ी है। ड्रैगन अचानक उठता है और अपनी शक्तिशाली और भव्यता से अपने विशाल गहरे रंग के पंखों को पूरी तरह से फैलाता है। इस हलचल से तेज हवा बाहर की ओर बहती है, Aveline के...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Grok Imagine Aveline और Black Dragon वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11785)**
-
-**Author:** [Aveline](https://x.com/Avelinechronicl) | **Source:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **Published:** Oct 2, 2026
-
----
-### कैंप के चारों ओर उड़ता हुआ रोबोट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जिसमें एक रोबोट कैंप के चारों ओर उड़ता है जबकि कुत्ते कूदते और खेलते हैं।
-
-#### 📝 Prompt
-
-```
-क्या आप कृपया रोबोट को कैंप के चारों ओर उड़ा सकते हैं जबकि कुत्ते देख रहे हों, कूद रहे हों और खेल रहे हों....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="कैंप के चारों ओर उड़ता हुआ रोबोट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11783)**
-
-**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **Published:** Oct 2, 2026
-
----
-### रोबोट और आदमी का भावनात्मक दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक रोबोट और एक आदमी के बीच हृदयस्पर्शी दृश्य के लिए विस्तृत नैरेटिव प्रॉम्प्ट, जिसमें संवाद और पृष्ठभूमि में जानवरों की गतिविधियाँ शामिल हैं।
-
-#### 📝 Prompt
-
-```
-रोबोट ने आदमी के गाल पर चूमा और कहा “आई लव यू डैड”
-आदमी ने रोबोट के माथे पर चूमा और कहा “आई लव यू टू रॉकेट”
-घोड़े और कुत्ते उनके चारों ओर खेलते हुए घूम रहे थे।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="रोबोट और आदमी का भावनात्मक दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11781)**
-
-**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **Published:** Oct 2, 2026
-
----
-### Grok Imagine Knight Dragon Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक नाटकीय वीडियो के लिए प्रॉम्प्ट जिसमें एक नाइट चमगादड़ों से लड़ रहा है और एक ड्रैगन आग उगल रहा है।
-
-#### 📝 Prompt
-
-```
-नाइट कई काले चमगादड़ों से लड़ रहा है, ड्रैगन जमीन पर उतरता है, नाइट के ऊपर खड़ा होता है और चमगादड़ों को आग से भस्म करता है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine Knight Dragon Battle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11782)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **Published:** Oct 1, 2026
-
----
-### Grok Imagine वीडियो प्रॉम्प्ट: रनवे पैड डेक
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक लॉक्ड-ऑफ वाइड-एंगल वीडियो प्रॉम्प्ट जो मिस्ट, वॉश और स्ट्रट बाइट इफेक्ट्स के साथ रनवे पैड डेक दिखाता है। Seedance एपिक प्रॉम्प्ट से पुनर्निर्मित।
-
-#### 📝 Prompt
-
-```
-लॉक्ड-ऑफ पैड डेक।
-वॉश, मिस्ट और स्ट्रट बाइट के पाँच बीट्स।
-Seedance एपिक को Grok Imagine में पुनर्निर्मित किया गया।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: रनवे पैड डेक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11786)**
-
-**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **Published:** Oct 1, 2026
-
----
-### Grok Imagine वीडियो प्रॉम्प्ट: इटली के एम्फीथिएटर का गाइड
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जो इटली के एक एम्फीथिएटर को दिखाता है, जहाँ एक टूर गाइड कैमरे की ओर इतालवी में बोल रहा है। यह मूल रूप से Morphic प्रॉम्प्ट से पुनर्निर्मित किया गया है।
-
-#### 📝 Prompt
-
-```
-इटली का एम्फीथिएटर, टूर गाइड कैमरे की ओर: “यहाँ हज़ारों लोगों ने गाना गाया था।”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: इटली के एम्फीथिएटर का गाइड">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11784)**
-
-**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **Published:** Oct 1, 2026
-
----
-### ग्रहों को व्यवस्थित करते हुए युवक और नाभि का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत वीडियो जनरेशन प्रॉम्प्ट जिसमें एक युवक ग्रहों को व्यवस्थित करने के लिए खिंचाव कर रहा है, और उसके स्वेटर के नीचे दिखने वाली उसकी नाभि पर विशेष कैमरा ज़ूम किया गया है।
-
-#### 📝 Prompt
-
-```
-सुंदर युवक ग्रहों को व्यवस्थित करने के लिए अपने हाथों और शरीर को खींचता है, सांस लेते हुए। उसके दोस्त ध्यान देते हैं कि उसके स्वेटर की निचली किनारे से उसकी आदर्श नाभि हल्के से दिखाई दे रही है "हम तुम्हारी छोटी सी नाभि देख सकते हैं"। नाभि पर ज़ूम प्लान करें...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105520567910629376/img/hzyspk21420gFBV4.jpg" width="600" alt="ग्रहों को व्यवस्थित करते हुए युवक और नाभि का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11748)**
-
-**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2105520676899524860) | **Published:** Oct 1, 2026
-
----
-### Tesla Cybertruck वन आग वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक छोटा वीडियो प्रॉम्प्ट जिसमें हीट टाइल्स वाले Tesla Cybertruck को जंगल की आग से गुजरते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-मेरे लिए एक Tesla Cybertruck बनाएं जिसमें जंगल की आग से गुजरने के लिए विशेष रूप से डिज़ाइन की गई हीट टाइल्स हों
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105461240617140224/img/sDt013vJgo0orVoq.jpg" width="600" alt="Tesla Cybertruck वन आग वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11746)**
-
-**Author:** [Hunter Ryffel](https://x.com/HRyffel) | **Source:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **Published:** Oct 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2289,6 +2332,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-12T05:42:46.624Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-12T17:54:20.855Z</sub>
 
 </div>

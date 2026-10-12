@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3050** |
+| 📝 Total Prompts | **3059** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-12** |
 
@@ -189,6 +189,197 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt vidéo : Silhouette de course cowgirl/cowboy sur la plage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique pour Grok Imagine, représentant des cowgirls et des cowboys en course sur une plage, avec des éclats de sabots aux couleurs du lever de soleil.
+
+#### 📝 Prompt
+
+```
+En silhouette sombre, une cowgirl et un cowboy courent côte à côte sur une plage océanique. Des éclats lumineux de la couleur d'un lever de soleil éclatant jaillissent des sabots des chevaux à chaque impact sur le sable.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109544031252529153/img/syXmP_gxWX9mJQt4.jpg" width="600" alt="Prompt vidéo : Silhouette de course cowgirl/cowboy sur la plage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12378)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109544110919164271) | **Published:** Oct 12, 2026
+
+---
+### Vidéo Selfie : Rire Colérique et Larmes
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt vidéo détaillé pour générer une vidéo selfie réaliste de 12 secondes d'une femme riant et pleurant de colère, spécifiant les expressions, le mouvement de caméra et les détails audio.
+
+#### 📝 Prompt
+
+```
+[Tâche]
+Générer une vidéo selfie réaliste verticale (9:16) de 12 secondes, filmée avec un smartphone. Reproduire la composition allongée sur le lit, la séquence d'actions, l'expression mêlant rire et pleurs, ainsi que le rythme de la vidéo de référence « Mal au ventre de colère », en remplaçant le personnage original par une femme adulte spécifiée.
+
+[Référence et verrouillage du personnage]
+Verrouiller les traits du visage, les proportions et les longs cheveux noirs sur l'image de référence du visage féminin @0ba07db1-974c-467d-80dc-d9dffddac0ba ; ne pas hériter de l'apparence masculine de la vidéo originale.
+Verrouiller les vêtements et les proportions corporelles sur l'image de référence @8149c66e-9a91-4b88-bf26-d0a764075ccf ; porter les vêtements complètement.
+Verrouiller les lunettes sur l'image de référence des lunettes décoratives argentées @d80c71c5-d330-4baf-8ecf-8b793ee0fee8 : monture fine en fil métallique argenté, bas des cerclages oculaires courbes ouverts, plaquettes nasales transparentes, petites bobines métalliques en forme de nœud près de l'arête du nez, une fleur suspendue de chaque côté. Les branches reposent normalement sur les oreilles, les deux yeux sont clairement visibles. Les lunettes sont portées tout au long, ne se transforment pas en lunettes ordinaires à monture épaisse, aucun présentoir n'apparaît.
+La vidéo originale ne verrouille que la performance, l'angle selfie, les actions et le rythme.
+Ne pas hériter de la chute de plan de la grille précédente.
+
+[Scène et prise de vue]
+Elle est allongée sur le dos sur un lit blanc, la tête posée sur un oreiller blanc, ses longs cheveux naturellement étalés.
+La main gauche tient le téléphone hors champ, la caméra frontale située à environ 40 cm au-dessus du visage, cadrant vers le bas sur le visage, les épaules et le haut du corps. Le visage occupe le sujet principal du cadre.
+La main droite peut atteindre le bord inférieur de l'écran pour presser l'abdomen.
+Plan-séquence continu tout au long, l'objectif tremble légèrement avec la main qui tient le téléphone, la respiration et les tremblements des épaules. Lumière naturelle de chambre, qualité native ordinaire du smartphone, texture de peau réaliste, sans filtres de beauté.
+
+[Chronométrage strict et performance]
+0–2,8 secondes :
+Commence immédiatement dans un état de rire colérique et de larmes. Ses sourcils sont fortement froncés, les yeux serrés, les coins de la bouche tirés horizontalement, émettant par intermittence « Hahaha... ah... haha ».
+Le rire porte du ressentiment et de la colère, les épaules tremblent légèrement, la tête bouge légèrement sur l'oreiller.
+Les pendentifs floraux argentés oscillent doucement avec les mouvements de la tête, les plaquettes nasales et les branches restent ajustées au visage.
+2,8–5,8 secondes :
+Elle s'arrête pour inspirer, ouvre à peine les yeux pour regarder l'écran du téléphone, les sourcils toujours froncés, les coins de la bouche tombants, parlant avec colère et ressentiment :
+« Famille, je suis tellement en colère que j'ai mal au ventre. »
+En disant la seconde moitié, la main droite presse l'abdomen, la tête tourne d'un côté, les yeux se serrent à nouveau. Le téléphone tremble légèrement avec les secousses du corps, le visage reste clairement lisible.
+5,8–9,3 secondes :
+Elle essaie de reprendre son souffle mais émet à nouveau des « Hahaha... ah... » hachés.
+La bouche s'ouvre, se serre brièvement, puis s'ouvre à nouveau, montrant une réaction voulant rire et pleurer simultanément. Les sourcils se contractent fort, les narines bougent légèrement, le menton tremble, laissant parfois voir les dents.
+La tête revient de sa position latérale au centre de l'oreiller, la main droite continue de presser l'abdomen. Les lunettes bougent avec la tête, les pendentifs floraux oscillent naturellement.
+9,3–12 secondes :
+Elle ouvre brièvement les yeux en regardant l'écran, dit avec colère :
+« Je suis furieuse. »
+Après avoir parlé, elle ferme les yeux, fronce le nez, révèle une expression mêlant rire et pleurs, finissant avec un court rire amer et une expiration.
+Reste toujours allongée sur place, ne se redresse pas, aucune intrigue supplémentaire ajoutée.
+
+[Audio]
+Voix féminine adulte naturelle, enregistrement proche via smartphone, synchronisation labiale avec le dialogue.
+Rires naturels, voix proche, enregistrement smartphone, lip sync avec le dialogue.
+La voix est celle d'une femme adulte naturelle, enregistrée de près avec un smartphone, avec une synchronisation labiale précise sur le dialogue.
+Le rire porte du ressentiment et de la colère.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109433100203589632/img/kqt_Zl2fK-5Wtkri.jpg" width="600" alt="Vidéo Selfie : Rire Colérique et Larmes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12379)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109494015062110399) | **Published:** Oct 12, 2026
+
+---
+### Vidéo promo selfie animée
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour créer une animation subtile d'une femme souriante et légèrement en mouvement, imitant une vidéo selfie avec des textes/logos fixes, adaptée aux stories sur les réseaux sociaux.
+
+#### 📝 Prompt
+
+```
+Animation naturelle subtile de la femme souriant et bougeant légèrement ses cheveux et son corps comme dans une vidéo selfie, léger balancement de caméra, les textes et logos restent fixes et nets, ambiance promo professionnelle pour story sur les réseaux sociaux, éclairage chaud, haute qualité
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109422528821121024/img/GLnA7gcisWnJMY26.jpg" width="600" alt="Vidéo promo selfie animée">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12375)**
+
+**Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2109422558110249320) | **Published:** Oct 11, 2026
+
+---
+### Vidéo de chute de téléphone avec caméra
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt vidéo utilisant des références de storyboard pour générer une séquence chaotique de chute de téléphone avec distorsion grand-angle et flou de mouvement.
+
+#### 📝 Prompt
+
+```
+Combinez chaque image de <<<image @1cbc28c8-e2a8-40e8-bfd6-7b3a7db70034 >>> pour créer une vidéo. Il s'agit d'une vue subjective (POV) d'un téléphone à caméra arrière qui glisse accidentellement et tombe × rafale continue de neuf prises pendant la même chute × plusieurs photos iPhone ratées × perspective grand-angle exagérée × positions de caméra en rotation aléatoire, mise au point floue, flou de mouvement et angles déformés.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109421168004308992/img/umxVZ4wHIS6jBsRr.jpg" width="600" alt="Vidéo de chute de téléphone avec caméra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12380)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109421569931932075) | **Published:** Oct 11, 2026
+
+---
+### Animer une photo avec une musique cinématographique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de montage spécifique : garder le texte et les éléments statiques, animer la photo elle-même, couper la voix et ajouter une musique sombre et cinématographique.
+
+#### 📝 Prompt
+
+```
+Gardez le texte identique, tout reste pareil, animez uniquement la photo, COUPEZ la partie parlée, aucun son sur la voix, ajoutez une musique sombre et cinématographique
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109398315070562304/img/0AEiLghFQKtEpR9x.jpg" width="600" alt="Animer une photo avec une musique cinématographique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12376)**
+
+**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2109398357684982123) | **Published:** Oct 11, 2026
+
+---
+### Scène de western avec le shérif Puckerlips générée par Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt décrivant une scène de western où le shérif Puckerlips se prépare pour un duel, généré sous forme de vidéo par Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Un nouveau shérif est arrivé en ville. C'est le shérif Puckerlips. Une journée difficile l'attend et il se prépare pour un duel à midi pile dans le comté de Paulding.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109375672866988032/img/kxTsfmC46BCdd6tY.jpg" width="600" alt="Scène de western avec le shérif Puckerlips générée par Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12373)**
+
+**Author:** [Tony Hammonds](https://x.com/_Walkslowjoe) | **Source:** [Link](https://x.com/_Walkslowjoe/status/2109375981244887120) | **Published:** Oct 11, 2026
+
+---
+### Écureuil élégant en hiver
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt fantaisiste ajoutant des accessoires (chapeau haut de forme, monocle, canne) à un écureuil dans un décor enneigé/froid.
+
+#### 📝 Prompt
+
+```
+Écureuil sur une branche, vent froid, fourrure gonflée, ajouter chapeau haut de forme noir, monocle, ajouter canne noire avec pointe en cuivre
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109363087761690625/img/334dJkAENA4s-uSf.jpg" width="600" alt="Écureuil élégant en hiver">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12377)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109363162902606212) | **Published:** Oct 11, 2026
+
+---
+### Vidéo de référence pour le caressage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une instruction demandant au modèle de créer une référence vidéo en passant toutes les images, impliquant probablement le caressage d'animaux.
+
+#### 📝 Prompt
+
+```
+Montrer et caresser. Créez une référence vidéo en transmettant toutes les images au modèle.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109297908067774465/img/3juxQAuA95kE3g5T.jpg" width="600" alt="Vidéo de référence pour le caressage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12374)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2109297935100043488) | **Published:** Oct 11, 2026
+
+---
 ### Échange de costumes traditionnels avec Grok Imagine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -636,6 +827,25 @@ Je marche dans une prairie au Texas. Je tiens les rênes d'un magnifique cheval 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12215)**
 
 **Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **Published:** Oct 8, 2026
+
+---
+### Prompt d'Art Fantastique pour l'Esprit de la Terre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une image éthérée d'un esprit de la terre, initialement suggéré par Gemini et testé sur divers modèles, notamment Grok Imagine pour la génération vidéo.
+
+#### 📝 Prompt
+
+```
+Un esprit de la terre éthéré prenant la forme d'une jeune femme humaine ; terre, rochers, mousse et plantes ; mystique ; art fantastique ; très détaillé.
+```
+
+<img src="https://cms-assets.youmind.com/media/1791792661063_g8l4f7_HUGY0TIbEAALWQU.jpg" width="600" alt="Prompt d'Art Fantastique pour l'Esprit de la Terre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12381)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2108134263044673764) | **Published:** Oct 8, 2026
 
 ---
 ### Moteur hybride de la Jaguar XJ6
@@ -2054,181 +2264,6 @@ ajoute Elon Musk qui vient me demander de danser, nous dansons en riant, puis il
 **Author:** [Lauryn Taylor Hamilton](https://x.com/sweetbabylemon1) | **Source:** [Link](https://x.com/sweetbabylemon1/status/2106171730637304311) | **Published:** Oct 2, 2026
 
 ---
-### Scène du Dragon avec Ventilateur en Rotation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour animer une image statique d'un dragon et d'un ventilateur, en mettant l'accent sur un flou de mouvement réaliste pour les pales du ventilateur tout en gardant les autres éléments immobiles.
-
-#### 📝 Prompt
-
-```
-Faites apparaître clairement les pales du ventilateur blanc en rotation avec un flou de mouvement réaliste, afin qu'il semble souffler activement de l'air frais. Gardez le dragon jaune, son sourire béat aux yeux fermés, sa pose, l'éperon rocheux, les montagnes, le ciel et tous les autres éléments complètement immobiles.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="Scène du Dragon avec Ventilateur en Rotation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11837)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **Published:** Oct 2, 2026
-
----
-### Prompt vidéo Grok Imagine : Aveline et le Dragon Noir
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt spécifique pour générer une scène vidéo où Aveline se tient aux côtés d'un immense dragon noir qui déploie ses ailes.
-
-#### 📝 Prompt
-
-```
-La jeune Aveline se tient aux côtés de son immense dragon noir dans un paysage montagneux. Le dragon soulève soudainement et déploie lentement ses énormes ailes sombres jusqu'à leur envergure maximale, puissant et majestueux. Le vent s'engouffre avec force depuis ce mouvement, faisant voler les cheveux d'Aveline...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Prompt vidéo Grok Imagine : Aveline et le Dragon Noir">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11785)**
-
-**Author:** [Aveline](https://x.com/Avelinechronicl) | **Source:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **Published:** Oct 2, 2026
-
----
-### Robot volant autour du campement
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de génération vidéo pour Grok Imagine où un robot vole autour d'un campement pendant que des chiens sautent et jouent.
-
-#### 📝 Prompt
-
-```
-Pouvez-vous faire voler le robot autour du campement pendant que les chiens sautent et jouent en observant....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="Robot volant autour du campement">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11783)**
-
-**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **Published:** Oct 2, 2026
-
----
-### Scène émotionnelle entre un robot et un homme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt narratif détaillé pour une scène attendrissante impliquant un robot et un homme, incluant des dialogues et les actions d'animaux en arrière-plan.
-
-#### 📝 Prompt
-
-```
-Le robot embrasse l'homme sur la joue et dit « Je t'aime papa »
-L'homme embrasse le robot sur le front et dit « Je t'aime aussi Rocket »
-Les chevaux et les chiens tournent autour d'eux de manière ludique.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="Scène émotionnelle entre un robot et un homme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11781)**
-
-**Author:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **Source:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **Published:** Oct 2, 2026
-
----
-### Grok Imagine : Bataille de Chevalier contre Dragon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'action pour une vidéo mettant en scène un chevalier combattant des chauves-souris et un dragon crachant du feu.
-
-#### 📝 Prompt
-
-```
-Chevalier combattant de nombreuses chauves-souris noires, le dragon se pose, se tient au-dessus du chevalier et brûle les chauves-souris avec son souffle de feu
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine : Bataille de Chevalier contre Dragon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11782)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **Published:** Oct 1, 2026
-
----
-### Grok Imagine Video Prompt : Deck de Piste d'Atterrissage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt vidéo Grok Imagine : Deck de piste d'atterrissage. Un prompt vidéo à angle large fixe pour Grok Imagine, montrant un deck de piste avec des effets de brume, de lavage et de morsure de train. Recréé à partir d'un prompt épique Seedance.
-
-#### 📝 Prompt
-
-```
-Deck de piste fixe.
-Cinq temps de lavage, de brume et de morsure du train.
-Le prompt épique Seedance Runway recréé dans Grok Imagine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Grok Imagine Video Prompt : Deck de Piste d'Atterrissage">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11786)**
-
-**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **Published:** Oct 1, 2026
-
----
-### Prompt vidéo Grok Imagine : Guide de l'amphithéâtre italien
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de génération vidéo pour Grok Imagine montrant un amphithéâtre italien où un guide touristique s'adresse à la caméra en italien. Recréé à partir d'un prompt Morphic.
-
-#### 📝 Prompt
-
-```
-Amphithéâtre italien, le guide s'adresse à la caméra : « Ici, des milliers de personnes chantaient. »
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Prompt vidéo Grok Imagine : Guide de l'amphithéâtre italien">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11784)**
-
-**Author:** [Jack](https://x.com/JacksAISites) | **Source:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **Published:** Oct 1, 2026
-
----
-### Jeune homme arrangeant des planètes et révélant son nombril
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé de génération vidéo décrivant un jeune homme s'étirant pour disposer des planètes, avec un zoom caméra spécifique sur son nombril apparaissant sous son pull.
-
-#### 📝 Prompt
-
-```
-Le beau jeune homme étire ses bras et son corps pour disposer les planètes, en respirant. Ses amis remarquent son nombril parfait qui apparaît discrètement sous le bord inférieur de son pull « on voit ton petit nombril ». Plan en zoom sur son nom...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105520567910629376/img/hzyspk21420gFBV4.jpg" width="600" alt="Jeune homme arrangeant des planètes et révélant son nombril">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11748)**
-
-**Author:** [dacoit](https://x.com/davidjohnkong) | **Source:** [Link](https://x.com/davidjohnkong/status/2105520676899524860) | **Published:** Oct 1, 2026
-
----
-### Prompt vidéo Tesla Cybertruck dans les feux de forêt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un court prompt vidéo pour Grok Imagine demandant un Tesla Cybertruck avec des tuiles thermiques traversant des feux de forêt.
-
-#### 📝 Prompt
-
-```
-Génère une vidéo d'un Tesla Cybertruck équipé de tuiles thermiques, conçu pour traverser des feux de forêt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105461240617140224/img/sDt013vJgo0orVoq.jpg" width="600" alt="Prompt vidéo Tesla Cybertruck dans les feux de forêt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11746)**
-
-**Author:** [Hunter Ryffel](https://x.com/HRyffel) | **Source:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **Published:** Oct 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2290,6 +2325,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-12T05:42:50.645Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-12T17:54:25.019Z</sub>
 
 </div>

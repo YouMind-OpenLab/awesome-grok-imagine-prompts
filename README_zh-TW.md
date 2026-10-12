@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3050** |
+| 📝 提示詞總數 | **3059** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-10-12** |
 
@@ -189,6 +189,205 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Cowgirl Cowboy Beach Race Silhouette Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine depicting cowgirls and cowboys racing on a beach with sunrise-colored hoof flashes.
+
+#### 📝 提示詞
+
+```
+In dark silhouette cowgirl and cowboy race beside each other on ocean beach fire the color of a brilliant sunrise flashes from the horses hooves when each hoof lands on the sand
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109544031252529153/img/syXmP_gxWX9mJQt4.jpg" width="600" alt="Cowgirl Cowboy Beach Race Silhouette Video Prompt">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12378)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2109544110919164271) | **發布時間:** Oct 12, 2026
+
+---
+### 憤怒大笑哭泣自拍影片
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 用於生成一名女性因憤怒而邊笑邊哭的逼真 12 秒自拍影片的詳細提示詞，包含表情、鏡頭移動及音訊細節。
+
+#### 📝 提示詞
+
+```
+[任務]
+生成一段時長 12 秒、9:16 垂直比例的逼真智慧型手機自拍影片。重現參考影片《氣到肚子痛》中躺臥在床上的構圖、動作序列、哭笑不得的表情混合以及節奏，將原始角色替換為指定的成年女性。
+
+[參考劃分與角色鎖定]
+將面部特徵、身體比例及黑色長髮鎖定至女性臉部參考圖片 @0ba07db1-974c-467d-80dc-d9dffddac0ba；不要繼承原始影片中的男性外貌。
+將服裝和身體比例鎖定至參考圖片 @8149c66e-9a91-4b88-bf26-d0a764075ccf；完整穿著該服裝。
+將眼鏡鎖定至銀色裝飾眼鏡參考圖片 @d80c71c5-d330-4baf-8ecf-8b793ee0fee8：細銀色金屬線框、開放式彎曲下眼框、透明鼻墊、鼻樑附近的小型蝴蝶結金屬捲線、兩側各懸掛一朵小花。鏡腿正常架在耳朵上，雙眼清晰可見。全程佩戴眼鏡，不得變成普通粗框眼鏡，不得出現展示架。
+原始影片僅鎖定表演、自拍角度、動作和節奏。
+不要繼承前九宮格中的跌落鏡頭。
+
+[場景與拍攝]
+她仰躺在白色床上，頭枕在白色枕頭上，長髮自然散開。
+左手在畫面外持握手機，前置攝像頭位於臉部上方約 40cm 處，向下俯拍臉部、肩膀和上半身。臉部佔據畫面主體。
+右手可觸及螢幕底部邊緣以按壓腹部。
+全程單鏡頭連續拍攝，鏡頭僅隨持握的手、呼吸和肩膀顫抖而輕微晃動。自然臥室光線，普通智慧型手機原生畫質，真實皮膚質感，無美顏濾鏡。
+
+[嚴格時間軸與表演]
+0–2.8 秒：
+立即以憤怒大笑並流淚的狀態開始。眉頭緊鎖，雙眼用力閉合，嘴角水平拉扯，間歇性發出「哈哈哈...啊...哈哈」的聲音。
+笑聲帶有委屈和憤怒，肩膀輕微顫抖，頭部在枕頭上輕微移動。
+銀色花朵吊墜隨頭部動作輕輕搖擺，鼻墊和鏡腿保持貼合臉部。
+2.8–5.8 秒：
+她停頓吸氣，勉強睜開眼睛看向手機螢幕，眉頭仍緊鎖，嘴角下垂，帶著憤怒和委屈說道：
+「家人們，我氣得肚子都疼了。」
+說後半句時，右手按壓腹部，頭轉向一側，再次用力閉眼。手機隨身體顫抖輕微晃動，臉部表情清晰可辨。
+5.8–9.3 秒：
+她試圖平復呼吸，但再次發出斷續的「哈哈哈...啊...」。
+張嘴，短暫抿嘴，然後再次張開，展現出又想笑又想哭的反應。眉頭緊皺，鼻孔微微擴張，下巴顫抖，偶爾露出牙齒。
+頭部從側面位置回到枕頭中央，右手繼續按壓腹部。眼鏡隨頭部移動，花朵吊墜自然搖擺。
+9.3–12 秒：
+她短暫睜眼看向螢幕，憤怒地說道：
+「我真的氣死了。」
+說完後閉眼，皺起鼻子，展現哭笑不得的表情，以短促的苦笑和呼氣結束。
+始終保持躺臥姿勢，不起身，不添加額外情節。
+
+[音訊]
+自然的成年女性聲音，近距離手機錄音，口型與對話同步。
+笑聲間歇性出現，伴有吸氣聲和呼吸聲，情緒交織著憤怒、委屈和苦笑。
+輕微的枕頭摩擦聲、布料摩擦聲和室內背景噪音，無旁白，無背景音樂。
+如果生成工具支援參考影片音訊，請優先匹配原始片段的停頓、笑聲和說話節奏。
+
+[關鍵要求]
+保留原始片段中誇張的擠眼、皺眉、張嘴和搖頭動作；不能變成甜美的微笑或平靜的談話鏡頭。
+當表情扭曲面部特徵時，保持相同的角色身份。
+眼鏡結構、花朵數量、服裝、髮型、寢具和燈光在全程保持一致。
+無換臉，無懸浮眼鏡或眼鏡穿透皮膚，無添加額外的花朵飾品，無多餘的手臂或異常手指。
+無剪輯，無跌倒，無翻轉鏡頭角度，無慢動作，無電影級運鏡。
+不要在生成的視覺內容中添加字幕、截圖貼紙、浮水印或平台介面。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109433100203589632/img/kqt_Zl2fK-5Wtkri.jpg" width="600" alt="憤怒大笑哭泣自拍影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12379)**
+
+**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2109494015062110399) | **發布時間:** Oct 12, 2026
+
+---
+### 動態自拍宣傳影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於製作女性微笑並輕微移動的微妙動畫提示，模擬帶有固定文字/標誌的自拍影片，適合社群媒體限時動態。
+
+#### 📝 提示詞
+
+```
+女性微笑並像自拍影片般輕微擺動頭髮和身體的自然細微動畫，鏡頭輕柔搖晃，文字與標誌保持靜止且清晰，具備專業宣傳質感，適合社群媒體限時動態，溫暖燈光，高畫質
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109422528821121024/img/GLnA7gcisWnJMY26.jpg" width="600" alt="動態自拍宣傳影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12375)**
+
+**作者:** [Katrina](https://x.com/sLuTmEoUt1988) | **來源:** [Link](https://x.com/sLuTmEoUt1988/status/2109422558110249320) | **發布時間:** Oct 11, 2026
+
+---
+### 手機掉落視角影片
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 使用分鏡參考生成具有廣角畸變和動態模糊效果的手機混亂掉落序列的影片提示。
+
+#### 📝 提示詞
+
+```
+將 <<<image @1cbc28c8-e2a8-40e8-bfd6-7b3a7db70034 >>> 的每一幀結合以創建一段影片。這是一段主觀視角（POV）畫面，展示後置鏡頭的手機意外滑落並墜落的過程 × 在墜落期間連續拍攝九張照片 × 多次失敗的 iPhone 拍攝嘗試 × 誇張的廣角透視效果 × 隨機旋轉的相機位置、失焦、動態模糊以及傾斜的角度。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109421168004308992/img/umxVZ4wHIS6jBsRr.jpg" width="600" alt="手機掉落視角影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12380)**
+
+**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2109421569931932075) | **發布時間:** Oct 11, 2026
+
+---
+### 以電影感配樂讓照片動起來
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 特定編輯提示：保持文字與元素靜止，僅對照片進行動畫處理，將語音靜音，並加入黑暗風格的電影感音樂。
+
+#### 📝 提示詞
+
+```
+保持文字不變，其他元素也維持原樣，僅對照片進行動畫處理，將說話部分靜音（無語音聲音），並加入黑暗風格的電影感音樂
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109398315070562304/img/0AEiLghFQKtEpR9x.jpg" width="600" alt="以電影感配樂讓照片動起來">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12376)**
+
+**作者:** [quietrumble](https://x.com/BillHector2) | **來源:** [Link](https://x.com/BillHector2/status/2109398357684982123) | **發布時間:** Oct 11, 2026
+
+---
+### Grok Imagine 警長 Puckerlips 場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段描述西部場景的提示詞，展現警長 Puckerlips 準備槍戰的情景，由 Grok Imagine 生成影片。
+
+#### 📝 提示詞
+
+```
+鎮上來了新警長。他就是警長 Puckerlips。今天將是糟糕的一天，他正準備在保丁縣（Paulding County）的正午時分進行一場槍戰。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109375672866988032/img/kxTsfmC46BCdd6tY.jpg" width="600" alt="Grok Imagine 警長 Puckerlips 場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12373)**
+
+**作者:** [Tony Hammonds](https://x.com/_Walkslowjoe) | **來源:** [Link](https://x.com/_Walkslowjoe/status/2109375981244887120) | **發布時間:** Oct 11, 2026
+
+---
+### 冬日裡的紳士松鼠
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿奇思妙想的提示詞，為雪地或寒冷環境中的松鼠添加配件（高禮帽、單片眼鏡、手杖）。
+
+#### 📝 提示詞
+
+```
+松鼠站在樹枝上，寒風吹過，毛髮蓬鬆。加上黑色高禮帽和單片眼鏡，再配上一根帶銅尖頭的黑色手杖。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109363087761690625/img/334dJkAENA4s-uSf.jpg" width="600" alt="冬日裡的紳士松鼠">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12377)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2109363162902606212) | **發布時間:** Oct 11, 2026
+
+---
+### 撫摸動作參考影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 此提示詞指導模型透過輸入所有圖片來建立影片參考，內容可能涉及撫摸動物的場景。
+
+#### 📝 提示詞
+
+```
+展示與撫摸動作。將所有圖片傳給模型以建立影片參考。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109297908067774465/img/3juxQAuA95kE3g5T.jpg" width="600" alt="撫摸動作參考影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12374)**
+
+**作者:** [Grok imagine user](https://x.com/imagine_user_) | **來源:** [Link](https://x.com/imagine_user_/status/2109297935100043488) | **發布時間:** Oct 11, 2026
+
+---
 ### Grok Imagine 傳統服飾變裝
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -638,6 +837,25 @@ Hey grok,請幫我換上我看起來像是來自哪個國家的傳統服飾：
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12215)**
 
 **作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **來源:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **發布時間:** Oct 8, 2026
+
+---
+### 大地精靈奇幻藝術提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成空靈大地精靈影像的提示詞，最初由 Gemini 建議，並在包括 Grok Imagine 在內的各種模型中進行影片生成測試。
+
+#### 📝 提示詞
+
+```
+一位化為年輕人類女性形態的空靈大地精靈；泥土、岩石、苔蘚與植物；神秘氛圍；奇幻藝術風格；高度細節化。
+```
+
+<img src="https://cms-assets.youmind.com/media/1791792661063_g8l4f7_HUGY0TIbEAALWQU.jpg" width="600" alt="大地精靈奇幻藝術提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12381)**
+
+**作者:** [華月光](https://x.com/hanagekkou) | **來源:** [Link](https://x.com/hanagekkou/status/2108134263044673764) | **發布時間:** Oct 8, 2026
 
 ---
 ### Jaguar XJ6 Hybrid Engine
@@ -2056,181 +2274,6 @@ A nice video of {argument name="subject" default="Elon"} appreciating {argument 
 **作者:** [Lauryn Taylor Hamilton](https://x.com/sweetbabylemon1) | **來源:** [Link](https://x.com/sweetbabylemon1/status/2106171730637304311) | **發布時間:** Oct 2, 2026
 
 ---
-### 旋轉風扇與龍場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段詳細的提示詞，用於將靜態的龍與風扇圖像進行動畫化，重點在於為風扇葉片呈現逼真的動態模糊效果，同時保持其他元素靜止。
-
-#### 📝 提示詞
-
-```
-讓白色箱型風扇的葉片呈現清晰旋轉的效果，並具備逼真的動態模糊感，使其看起來正在主動吹送涼風。請保持黃色龍、其閉眼享受的微笑、姿勢、岩石突出部、山脈、天空以及其他所有元素完全靜止不動。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106057016313856000/img/MVCQJIjQkaWqPcRN.jpg" width="600" alt="旋轉風扇與龍場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11837)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2106057071141798014) | **發布時間:** Oct 2, 2026
-
----
-### Grok Imagine Aveline 與黑龍影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成 Aveline 站在展開雙翼的巨大黑龍旁邊之影片場景的特定提示詞。
-
-#### 📝 提示詞
-
-```
-年輕的 Aveline 站在山景中她巨大的黑龍旁。黑龍突然抬起並緩緩展開其龐大的深色雙翼，直至完全伸展，氣勢磅礴且莊嚴雄偉。隨著動作產生的狂風向外席捲，吹動著 Aveline 的……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105923128681549824/img/euC1usnvoptjCuG_.jpg" width="600" alt="Grok Imagine Aveline 與黑龍影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11785)**
-
-**作者:** [Aveline](https://x.com/Avelinechronicl) | **來源:** [Link](https://x.com/Avelinechronicl/status/2105923166065353210) | **發布時間:** Oct 2, 2026
-
----
-### 機器人環繞營地飛行
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的影片生成提示詞，描述機器人在營地上空飛行，同時狗狗跳躍玩耍的場景。
-
-#### 📝 提示詞
-
-```
-請讓機器人環繞營地飛行，同時狗狗們跳躍玩耍並觀看......
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105880308386283520/img/SJrgR8kVbB3AAn6z.jpg" width="600" alt="機器人環繞營地飛行">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11783)**
-
-**作者:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **來源:** [Link](https://x.com/yuinanotherlife/status/2105880384777212078) | **發布時間:** Oct 2, 2026
-
----
-### 機器人與人類的情感場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段關於機器人與人類溫馨互動的詳細敘事提示，包含對話及背景中動物的動作描寫。
-
-#### 📝 提示詞
-
-```
-機器人親吻男子的臉頰並說：「我愛你，爸爸。」
-男子親吻機器人的額頭並說：「我也愛你，Rocket。」
-馬匹和狗在他們周圍嬉戲繞行。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105877976160309248/img/EFzO6Am_qk7cmN6L.jpg" width="600" alt="機器人與人類的情感場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11781)**
-
-**作者:** [Keith Michael Roads](https://x.com/yuinanotherlife) | **來源:** [Link](https://x.com/yuinanotherlife/status/2105878077951926647) | **發布時間:** Oct 2, 2026
-
----
-### Grok Imagine 騎士與龍之戰鬥
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段動作片風格的影片提示，內容為騎士對抗蝙蝠以及噴火巨龍。
-
-#### 📝 提示詞
-
-```
-騎士與大量黑蝙蝠激戰，巨龍降落在騎士上方並用火焰攻擊黑蝙蝠
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105688545579200512/img/zphFXUpu5B8StV8-.jpg" width="600" alt="Grok Imagine 騎士與龍之戰鬥">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11782)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2105688631835001069) | **發布時間:** Oct 1, 2026
-
----
-### Grok Imagine 影片提示詞：Runway Pad Deck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 影片提示詞：展示帶有霧氣、水花與支柱咬合特效的跑道停機坪。此為從 Seedance 史詩級提示詞重新製作而成。
-
-#### 📝 提示詞
-
-```
-固定鏡頭拍攝停機坪。
-五個節奏展現水花、霧氣與支柱咬合特效。
-將 Runway Seedance 史詩級作品在 Grok Imagine 中重新演繹。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105508222266142720/img/gYL1Vt8TdKWfItns.jpg" width="600" alt="Grok Imagine 影片提示詞：Runway Pad Deck">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11786)**
-
-**作者:** [Jack](https://x.com/JacksAISites) | **來源:** [Link](https://x.com/JacksAISites/status/2105643905509421166) | **發布時間:** Oct 1, 2026
-
----
-### Grok Imagine 影片提示詞：義大利圓形劇場導覽指南
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 影片生成提示詞：展示一座義大利圓形劇場，導覽員以義大利語對著鏡頭說話。由 Morphic 提示詞改編而成。
-
-#### 📝 提示詞
-
-```
-義大利圓形劇場，導覽員對著鏡頭說：「這裡曾有數千人齊聲歌唱。」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105505175829897216/img/MV9cbfZU5Q9YDhzQ.jpg" width="600" alt="Grok Imagine 影片提示詞：義大利圓形劇場導覽指南">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11784)**
-
-**作者:** [Jack](https://x.com/JacksAISites) | **來源:** [Link](https://x.com/JacksAISites/status/2105535178667929782) | **發布時間:** Oct 1, 2026
-
----
-### 年輕男子排列行星與肚臍特寫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段詳細的影片生成提示，描述一名年輕男子伸展身體排列行星，並特別聚焦於他毛衣下若隱若現的肚臍。
-
-#### 📝 提示詞
-
-```
-那位美麗的年輕男子伸展雙臂和身體來排列行星，呼吸著。他的朋友們注意到他完美的肚臍從毛衣下擺處若隱若現：「我們可以看到你的小肚臍了」。計畫以特寫鏡頭聚焦在他的肚臍上……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105520567910629376/img/hzyspk21420gFBV4.jpg" width="600" alt="年輕男子排列行星與肚臍特寫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11748)**
-
-**作者:** [dacoit](https://x.com/davidjohnkong) | **來源:** [Link](https://x.com/davidjohnkong/status/2105520676899524860) | **發布時間:** Oct 1, 2026
-
----
-### Tesla Cybertruck 森林火災影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 Grok Imagine 設計的短影片提示詞，要求生成一輛配備耐熱塗層、穿越森林火場的 Tesla Cybertruck。
-
-#### 📝 提示詞
-
-```
-請製作一輛 Tesla Cybertruck，該車配备專為穿越森林火場而設計的耐熱塗層
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105461240617140224/img/sDt013vJgo0orVoq.jpg" width="600" alt="Tesla Cybertruck 森林火災影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=11746)**
-
-**作者:** [Hunter Ryffel](https://x.com/HRyffel) | **來源:** [Link](https://x.com/HRyffel/status/2105461287119429906) | **發布時間:** Oct 1, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2292,6 +2335,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-12T05:42:41.930Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-12T17:54:16.032Z</sub>
 
 </div>
