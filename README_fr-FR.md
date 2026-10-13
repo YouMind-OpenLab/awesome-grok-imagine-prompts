@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3059** |
+| 📝 Total Prompts | **3068** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-13** |
 
@@ -189,6 +189,388 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt Vidéo Grok Imagine : Aventure Néon Sous-Marine avec Sydney Sweeney
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique détaillé mettant en scène Sydney Sweeney dans une aventure nocturne néon sous-marine, avec des indications précises de timing, d'éclairage et de son.
+
+#### 📝 Prompt
+
+```
+Prompt Vidéo IA — Aventure Néon Sous-Marine avec Sydney Sweeney
+
+Vidéo cinématographique verticale au format 9:16, d'une durée de 10 secondes, mettant en vedette Sydney Sweeney comme personnage principal, avec ses traits faciaux reconnaissables, ses cheveux blonds ondulés et son sourire expressif. Rythme ultra-rapide, transitions par whip-pan (mouvements rapides de caméra) et coupes synchronisées sur le rythme environ chaque seconde.
+
+0–2 secondes : Sydney Sweeney, vêtue d'une combinaison de plongée en apnée noire élégante avec une petite caméra d'action fixée à la sangle de sa poitrine, nage rapidement dans une eau turquoise cristalline au-dessus du sable blanc. Les rayons du soleil ondulent sur son visage tandis que la caméra la suit avec un mouvement sous-marin dynamique.
+
+2–4 secondes : Elle passe rapidement devant des récifs coralliens vibrants en direction d'un rideau scintillant de perles irisées. Un changement de vitesse dramatique suit alors qu'elle traverse le rideau étincelant. La caméra effectue un whip-pan vers une mystérieuse grotte de corail sombre, où une lumière violette illumine l'eau environnante.
+
+4–6 secondes : Révélation explosive d'une discothèque sous-marine futuriste remplie de lasers néon, de stroboscopes colorés, de lunettes de soleil lumineuses flottantes en forme d'étoile et de poissons tropicaux se déplaçant rythmiquement avec la musique. Sydney émerge à travers un portail violet lumineux alors que des lumières cyan, magenta et violettes illuminent son visage.
+
+6–10 secondes : Sydney met des lunettes de soleil géantes en forme d'étoile néon, tourne joyeusement en apesanteur sous l'eau et rit tandis que des bulles et des particules lumineuses tourbillonnent autour d'elle. La caméra tourne rapidement autour d'elle avec des zooms énergiques, des whip-pans nets et des transitions fluides par changement de vitesse, terminant sur un gros plan dramatique de son visage souriant contre le fond de la discothèque vibrante.
+
+Style visuel : Métrage cinématographique hyper-réaliste, détails faciaux réalistes, apparence cohérente du personnage, physique sous-marine réaliste, éclairage volumétrique, eau turquoise vive, reflets néon magenta et cyan, lueur violette, particules flottantes, flou de mouvement doux, contraste élevé, esthétique premium de clip musical, 24 fps.
+
+Audio : Musique électronique de danse énergique, bruits de souffle profonds sous-marins, effets sonores scintillants et une chute de basse lors de la révélation de la discothèque.
+
+Continuité : Garder Sydney Sweeney reconnaissable et visuellement cohérente tout au long de tous les plans. Pas de distorsion du visage, de personnages dupliqués, de tremblement des traits faciaux, de texte indésirable, de logos ou de filigranes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109874235179139072/img/tU9teihuV2asbHgy.jpg" width="600" alt="Prompt Vidéo Grok Imagine : Aventure Néon Sous-Marine avec Sydney Sweeney">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12439)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2109874273607462953) | **Published:** Oct 13, 2026
+
+---
+### Vidéo d'entraînement de gym Body Horror
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt complexe pour générer une vidéo réaliste de salle de sport mettant en scène un homme avec une croissance musculaire anormale et des plaques métalliques intégrées, détaillant des angles de caméra spécifiques, le timing et des éléments d'horreur sans gore.
+
+#### 📝 Prompt
+
+```
+[Verrouillage de référence]
+
+Utilisez la première image générée @1 comme référence de forme et d'environnement.
+
+L'homme est un adulte d'environ 38 ans, coupe courte, barbe naissante, torse nu, portant un short de sport gris foncé avec liseré orange et des baskets gris-noir.
+
+Les épaules et le dos présentent déjà des masses musculaires anormales, présentes dès le début, qui ne repoussent pas pendant la vidéo.
+
+De la scapula gauche aux côtes se trouve une protubérance verticale massive et asymétrique ; l'épaule droite présente des renflements musculaires stratifiés plus petits.
+
+La surface de la masse gauche comporte deux fissures sombres violettes ressemblant à des blessures, aux bords ridés et irréguliers.
+
+Les masses ont un poids réel, se compressent légèrement lors de la contraction musculaire, et ne peuvent pas gonfler comme des ballons.
+
+Pas de jets de sang, d'éclatement de tissus ou de membres supplémentaires.
+
+[Style & Caméra]
+
+Format vertical 9:16, enregistrement continu par smartphone de 12 secondes.
+
+Le filmeur se tient à environ deux mètres derrière et à gauche de l'homme, filmant à hauteur de poitrine.
+
+Commence avec un angle arrière aux deux tiers, montrant simultanément les masses des épaules/dos, les bras et la barre EZ curl.
+
+Léger tremblement de main, ajustements mineurs du cadrage, pas d'orbite, pas de coupes, pas de ralenti.
+
+Enregistrement typique d'une vieille salle de sport : éclairage fluorescent plat, léger bruit, artefacts de compression, reflets de sueur, flou de mouvement naturel.
+
+Pas d'éclairage de film d'horreur, pas de musique de fond.
+
+[Environnement & Accessoires]
+
+Ancienne salle de sport au sous-sol d'un immeuble, piliers blancs, lambris vert clair, sol gris usé, banc de musculation rouge, rack d'haltères, ventilateur mural.
+
+Un passionné de fitness adulte en arrière-plan, vêtu de gris, continue son entraînement, sans fixer ni crier.
+
+Le protagoniste saisit la même barre EZ curl à deux mains, le nombre de disques noirs étant fixe de chaque côté.
+
+[0–4s | Exécution du Curl]
+
+L'homme se tient ferme, coudes près du corps, soulève la barre des hanches jusqu'à la poitrine.
+
+Les avant-bras plient d'abord, puis les biceps se contractent.
+
+La massive protubérance du dos se comprime légèrement sous la contrainte des épaules, les positions des blessures restent inchangées.
+
+Il regarde vers le bas sur la barre, expression tendue, expiration courte.
+
+Le téléphone ajuste légèrement, gardant les épaules/dos anormaux et l'action de curl dans le cadre.
+
+[4–7s | Descente lente]
+
+L'homme contrôle la descente de la barre jusqu'à ce que les bras soient presque droits.
+
+Les tissus mous des épaules/dos s'affaissent et vacillent légèrement lors de la relâche de la tension, puis se stabilisent.
+
+La sueur coule sur la peau.
+
+Ne peut pas rétrécir soudainement vers une morphologie normale, ne peut pas ajouter de nouvelles masses.
+
+[7–10s | Fin de l'entraînement]
+
+Il fléchit les genoux, se penche en avant, place la barre au sol devant ses pieds.
+
+Les disques touchent le sol en premier, puis il lâche la prise.
+
+Un clang métallique sourd est entendu une fois.
+
+Le téléphone suit naturellement vers le bas légèrement, puis revient vers le haut du corps.
+
+L'homme se redresse, respirant lourdement.
+
+[10–12s | Remarque qu'il est filmé]
+
+L'homme tourne la tête pour regarder la caméra, puis fait pivoter ses épaules et son torse vers une position quasi frontale.
+
+Les bras pendent naturellement, le volume anormal des épaules/dos reste discernable via la silhouette.
+
+Il regarde le filmeur en haletant, bouche légèrement ouverte, ne se jette pas sur la caméra.
+
+L'écran se termine directement.
+
+[Son ambiant]
+
+Respiration, frottement des chaussures, légers tintements des disques, collisions d'équipements, bourdonnement du ventilateur mural.
+
+Pas de bande-son, narration, sous-titres ou rugissements de monstre.
+
+[Contraintes de continuité]
+
+Un seul protagoniste, deux bras, une barre.
+
+Les muscles anormaux et les blessures maintiennent des positions fixes, pas de morphing par image.
+
+La séquence de saisie, curl, descente, pose, relâche est complète.
+
+La caméra reste à la même position d'observation, la vue frontale est obtenue par la rotation de l'homme.
+
+Ne pas ajouter d'attaques, tentacules, transformations soudaines ou explosions sanglantes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109781478963871745/img/F62454rkvV2-o5cl.jpg" width="600" alt="Vidéo d'entraînement de gym Body Horror">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12444)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109803808867922199) | **Published:** Oct 13, 2026
+
+---
+### Vidéo Reynolds Gillis : Planes, Trains and Automobiles
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo Grok Imagine recréant la scène de l'hôtel du film 'Planes, Trains and Automobiles' avec Ryan Reynolds et Shane Gillis.
+
+#### 📝 Prompt
+
+```
+Ryan Reynolds et Shane Gillis dans les rôles de Steve Martin et John Candy pour la scène de l'hôtel de 'Planes, Trains and Automobiles'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109781204354445312/img/Xtq9zLNv2YAiNH2F.jpg" width="600" alt="Vidéo Reynolds Gillis : Planes, Trains and Automobiles">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12441)**
+
+**Author:** [Redacticus](https://x.com/BillDeWaal) | **Source:** [Link](https://x.com/BillDeWaal/status/2109781218048835891) | **Published:** Oct 12, 2026
+
+---
+### Vidéo Mème de Restaurant : Tofu Séché en Forme de Semelle
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt pour créer une vidéo verticale humoristique de 10 secondes dans un restaurant, où un client ramasse du tofu séché ressemblant à une semelle de chaussure et interagit avec un serveur.
+
+#### 📝 Prompt
+
+```
+[Cadre Général]
+
+10 secondes, format vertical 9:16, film réaliste casual au smartphone dans un restaurant, plan-séquence unique.
+
+L'image redessinée téléchargée sert de référence pour la dernière image, verrouillant la forme du tofu séché en forme de semelle, la position de préhension, la disposition de la table, l'apparence du serveur et la composition finale.
+
+[Scène & Relation de Filming]
+
+Petit restaurant chinois ordinaire, lumières suspendues chaudes, tables beiges, clients mangeant et discutant naturellement en arrière-plan.
+
+Au premier plan, un grand bol blanc contenant de l'huile pimentée, du tofu séché, des nouilles et des légumes, avec un bol de soupe, une théière et une boîte de mouchoirs à proximité.
+
+Un homme adulte assis tient son téléphone de la main gauche et utilise deux baguettes en bois de la main droite pour attraper la nourriture. Seule la main qui attrape entre dans le cadre ; le visage et le corps de l'homme restent hors champ.
+
+Le serveur porte un haut noir et un tablier rouge vin, positionné sur le côté droit en face de la table.
+
+Léger tremblement à main levée, exposition intérieure naturelle, qualité de compression standard de téléphone, aucun filtre de beauté, aucun étalonnage colorimétrique cinématographique.
+
+[Accessoire Clé]
+
+Une seule pièce de tofu séché en forme de semelle : jaune brunâtre, tranche fine, surface enrobée d'huile pimentée et de ciboule, motif quadrillé clair, contour cohérent avec la dernière image.
+
+C'est un aliment flexible, pas une vraie semelle de chaussure, aucune tige de chaussure, caoutchouc ou chaussures n'apparaissent.
+
+Les baguettes saisissent l'extrémité supérieure du tofu, les points de contact sont précis, l'extrémité inférieure pend naturellement lorsqu'il est soulevé.
+
+[Storyboard Temporel Strict]
+
+0–2 s :
+
+La caméra pointe légèrement vers le bas en direction du bol de plat. La main droite de l'homme entre depuis la gauche, utilisant deux baguettes en bois pour saisir l'extrémité supérieure du morceau de tofu dans le bol.
+
+Le tofu est partiellement immergé dans l'huile pimentée, son contour n'est pas encore entièrement révélé.
+
+2–4,5 s :
+
+L'homme soulève lentement les baguettes vers le haut.
+
+Tout le morceau de tofu est extrait continuellement du bol, révélant d'abord l'extrémité supérieure, puis le motif quadrillé, la section médiane étroite et le bout arrondi, présentant progressivement la forme complète de la semelle.
+
+Le tofu oscille doucement, deux ou trois gouttes de sauce retombent dans le bol.
+
+La caméra se relève légèrement avec la main tenant l'objet, gardant tout le morceau de tofu dans le cadre.
+
+4,5–6 s :
+
+L'homme arrête les baguettes, semblant examiner la nourriture de près, murmure avec suspicion :
+
+« Ce tofu séché... »
+
+Le serveur entend le bruit, s'approche légèrement depuis l'autre côté de la table, son regard passe des baguettes au tofu.
+
+6–9 s :
+
+L'homme maintient sa prise, présente doucement le tofu au serveur, demande :
+
+« Serveur, pourquoi cela ressemble-t-il à une semelle de chaussure ? »
+
+Ton naturel, confus, légèrement incrédule, sans cris accusateurs.
+
+Le serveur regarde vers le bas, ses sourcils se froncent progressivement, ses lèvres se pincent légèrement, il marque une pause, ne répond pas immédiatement.
+
+Le tofu reste suspendu au-dessus du bol, ne touche pas le serveur.
+
+9–10 s :
+
+La caméra se pose sur le morceau de tofu complet et la réaction perplexe du serveur.
+
+Les positions des baguettes, du tofu, des ustensiles et du serveur s'alignent avec la référence de la dernière image, maintenues pendant au moins une seconde, laissant un silence comique tranquille.
+
+[Son]
+
+Voix parlée naturelle d'un homme adulte, provenant près de la caméra.
+
+Conserver les sons des baguettes frappant légèrement le bord du bol, la sauce dégoulinante, les conversations à faible volume des tables voisines et le tintement des ustensiles.
+
+Aucune narration, aucune musique de fond, aucun effet sonore comique exagéré.
+
+[Continuité & Contraintes]
+
+Doit saisir avant de soulever, le tofu émerge selon une trajectoire continue depuis le bol, pas de téléportation, pas de duplication.
+
+Maintenir la même forme, taille, motif quadrillé et couleur avant et après le soulèvement.
+
+Garder deux baguettes, ne pas percer la nourriture, ne pas la déformer ; doigts normaux.
+
+Le serveur s'approche et observe uniquement de manière naturelle, ne prend pas la nourriture, ne crie pas prématurément.
+
+Pas de coupures, pas de zoom soudain, pas de ralenti, pas d'ajout de chaussures.
+
+Aucun texte superposé non plus.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109674296809279488/img/EoN20k23H_nqxK7o.jpg" width="600" alt="Vidéo Mème de Restaurant : Tofu Séché en Forme de Semelle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12443)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109720765776162888) | **Published:** Oct 12, 2026
+
+---
+### Critique de la Corvette par le bouledogue Yeti
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo amusant pour Grok Imagine mettant en scène un bouledogue français nommé Yeti qui passe en revue une Corvette cabriolet de 1966.
+
+#### 📝 Prompt
+
+```
+Yeti, le bouledogue français, critique une Corvette cabriolet de 1966 en vert Mossport. #bouledoguefrancais #corvette #chien #critiquedevoiture
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109706028686200833/img/-oDD9GlXGFSTVJ2g.jpg" width="600" alt="Critique de la Corvette par le bouledogue Yeti">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12440)**
+
+**Author:** [Howard Gilson](https://x.com/Howard4S) | **Source:** [Link](https://x.com/Howard4S/status/2109713321830371593) | **Published:** Oct 12, 2026
+
+---
+### Prompt Vidéo Cowboy Sam Elliott
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour Grok Imagine afin de générer une vidéo photoréaliste de Sam Elliott en cowboy, chevauchant un cheval et guidant du bétail.
+
+#### 📝 Prompt
+
+```
+Vidéo photoréaliste de Sam Elliott chevauchant un cheval et guidant un troupeau de bovins à travers les plaines et le désert. Dans la dernière scène, la caméra se déplace vers Sam qui sourit et incline son chapeau de cowboy. Pas de dialogue, ajoutez de la musique country.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109648300836093952/img/OtQcWmsSCkdf5cGR.jpg" width="600" alt="Prompt Vidéo Cowboy Sam Elliott">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12438)**
+
+**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2109648322424164530) | **Published:** Oct 12, 2026
+
+---
+### OVNI Alien au-dessus d'une Mégalopole Néon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique détaillé décrivant un immense OVNI alien planant au-dessus d'une mégalopole néon au crépuscule, utilisé pour comparer Grok Imagine aux autres générateurs d'images IA.
+
+#### 📝 Prompt
+
+```
+Un immense OVNI alien ultra-technologique planant menaçamment au-dessus d'une vaste mégalopole néon au crépuscule, sa coque sombre en obsidienne hérissée de tableaux d'armes lumineux et de propulseurs angulaires, des faisceaux de balayage rouges sinistres tranchant vers le bas tandis que des anneaux d'énergie pulsants ondulent depuis son cœur. Rendu CGI futuriste 3D, palette cyan électrique et magenta avec des noirs profonds du vide et des accents blancs lumineux, rayons de Dieu volumétriques perçant le brouillard toxique, profondeur complexe en couches avec des surfaces métalliques réfléchissantes et des crépitements d'énergie. Plan cinéma en travelling bas montant dramatiquement pour souligner l'échelle colossale, mouvement de caméra orbital lent et fluide avec un léger flare.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109580352566030336/img/XVmzd3tzI-sDpCry.jpg" width="600" alt="OVNI Alien au-dessus d'une Mégalopole Néon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12445)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2109615817902129155) | **Published:** Oct 12, 2026
+
+---
+### Prompt Vidéo Danse Duo Zombie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour générer une vidéo de danse verticale de 15 secondes mettant en scène un duo de zombies pour Halloween à l'aide de Grok Imagine. Il inclut des contraintes strictes sur les positions des danseurs, des verrouillages d'apparence pour éviter le maquillage horrifique, et des instructions spécifiques de zoom caméra synchronisées avec le rythme.
+
+#### 📝 Prompt
+
+```
+Danse Duo Zombie Halloween 15s | Vertical 9:16 | Deux Danseurs | Fond Fixe | Caméra Fixe | Zoom & Gros Plan Synchronisés au Rythme | Hip-Hop Trap Horreur
+
+MUSIQUE / ÉNERGIE :
+Un beat intense qui démarre soudainement dès le début, hip-hop trap horreur à 155 BPM. Batteries lourdes, basses puissantes, haute vitesse, accents tranchants, énergique et dynamique.
+
+VERROUILLAGE ABSOLU :
+Exactement deux danseurs uniquement. Le Danseur A reste toujours à GAUCHE, le Danseur B reste toujours à DROITE. Mêmes visages, corps, coiffures, tenues, positions, fond, éclairage, couleurs et ombres tout au long de la vidéo. Pas d'échange de place, pas de croisement, pas de morphing, pas de danseurs supplémentaires, pas de coupures. Le fond ne change jamais.
+
+Danse Zombie (Priorité Absolue) :
+Les deux danseurs tendent leurs bras droit devant eux à hauteur d'épaule, plient leurs poignets précisément à 90 degrés vers le bas, et écartent leurs doigts naturellement et droit, libérant une "danse zombie" incroyablement rapide, agressive et à haute énergie. La performance comprend une séquence de mouvements incluant des "pas zombies" rapides avec des jambes raides, des actions explosives des épaules, des pops intenses du torse, des mouvements secs de la tête, des levées de genoux puissantes, des squats larges aux genoux, des fentes soudaines et des secousses corporelles vigoureuses et rythmiques.
+
+Utilisez des jeux de pieds DOUBLE-TIME à 155 BPM, une accélération rapide, des arrêts brusques, des redémarrages explosifs et des accents forts sur le beat.
+Incluez certaines sections où les deux danseurs effectuent des mouvements de danse différents en même temps tout en gardant la pose permanente des bras de zombie.
+
+RÈGLE DE DANSE DUO :
+C'est une danse en duo, mais ils ne doivent pas être parfaitement synchronisés tout le temps.
+Ils bougent dans le même rythme global, mais avec de légers décalages temporels, des accents alternés et des actions corporelles différentes.
+
+FIN :
+Les deux adoptent une pose de zombie, et le plan zoome en gros plan sur leurs yeux brillant en rouge alors qu'ils fixent la caméra.
+
+VERROUILLAGE APPARENCE — PRIORITÉ ABSOLUE :
+Préservez exactement les visages originaux des deux danseurs, leurs tons naturels de peau, leurs coiffures et leur maquillage tels que montrés dans la première image. Pas de maquillage zombie, pas de maquillage horrifique, pas de maquillage cadavérique, pas de peau pâle ou grise, pas d'orbites oculaires assombries, pas de décoloration faciale, pas d'effets faciaux grotesques. Pas de sang, faux sang, saignement, blessures, cicatrices, ecchymoses ou blessures visibles. Exprimez le personnage de zombie exclusivement par des mouvements corporels raides, des inclinaisons de tête unnatural, des pas traînants, des coups d'épaules secs et des expressions faciales étranges. Ne modifiez pas l'apparence de chaque danseur tout au long de la vidéo.
+
+CAMÉRA :
+Caméra frontale fixe uniquement. Pas de mouvement de caméra, pas de panoramique, pas d'inclinaison, pas de travelling.
+Utilisez uniquement des zooms optiques rapides synchronisés au beat, des dézooms brusques et des cadrages en gros plan brefs (punch-in) pour créer de la vitesse et de l'impact tout en gardant la position de la caméra fixe. Gardez le même fond en permanence.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109605227141980160/img/fuYzaUPkPABjaSOE.jpg" width="600" alt="Prompt Vidéo Danse Duo Zombie">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12446)**
+
+**Author:** [SPLASH GIRLS@AI Image](https://x.com/splash_GL) | **Source:** [Link](https://x.com/splash_GL/status/2109615069470556358) | **Published:** Oct 12, 2026
+
+---
 ### Prompt vidéo : Silhouette de course cowgirl/cowboy sur la plage
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -264,6 +646,25 @@ Le rire porte du ressentiment et de la colère.
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12379)**
 
 **Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109494015062110399) | **Published:** Oct 12, 2026
+
+---
+### Prompt Grok Imagine Vidéo : Nail Art Anniversaire
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo d'une petite fille se faisant peindre les ongles sur le thème de son anniversaire, incluant un crocodile animé.
+
+#### 📝 Prompt
+
+```
+Une petite fille de trois ans souhaite que ses ongles soient peints sur le thème de l'anniversaire. Faites prendre vie au petit crocodile en conservant l'original.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109467396356333568/img/mxduTNzHpiJORZTu.jpg" width="600" alt="Prompt Grok Imagine Vidéo : Nail Art Anniversaire">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12442)**
+
+**Author:** [Cole Adams](https://x.com/ColeAdams777) | **Source:** [Link](https://x.com/ColeAdams777/status/2109467582981976366) | **Published:** Oct 12, 2026
 
 ---
 ### Vidéo promo selfie animée
@@ -2083,187 +2484,6 @@ Animez les deux hommes adultes exactement comme ils apparaissent dans l'image de
 **Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2106479952854175852) | **Published:** Oct 3, 2026
 
 ---
-### Grok Imagine Video : Pavillon en fer blanc et tournesols
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt narratif détaillé décrivant une scène dans un jardin de Hong Kong avec un pavillon en fer blanc et des tournesols.
-
-#### 📝 Prompt
-
-```
-Le midi filtre à travers les interstices des feuilles.
-Le pavillon est blanc, fait de fer.
-
-Les tournesols sont dans ses bras.
-Ils n'appartiennent à personne.
-Les poser ?
-Laisser le pavillon tel quel ?
-
-Jardin de Hong Kong, pavillon en fer blanc. Ningning se tient là, tenant des tournesols dans ses bras. Gingham orange, longueur genou. Taches de lumière du midi à travers les feuilles. Ambiance rétro des anciens jours 7/8. Les fleurs n'appartiennent toujours à personne. Les poser ou continuer à les porter ?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106400590154891265/img/Df55A-c3GHwIJs-t.jpg" width="600" alt="Grok Imagine Video : Pavillon en fer blanc et tournesols">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11888)**
-
-**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2106400882380378147) | **Published:** Oct 3, 2026
-
----
-### Scène de petit-déjeuner Grok Imagine avec un coq
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo détaillé demandant à un coq de se réveiller et de manger des plats traditionnels du petit-déjeuner mexicain comme les chilaquiles, le pain et le jus.
-
-#### 📝 Prompt
-
-```
-Mon coq 🐓 lève-toi pour prendre le petit-déjeuner, je t'ai préparé des chilaquiles avec beaucoup de crème et de fromage, des bolillos chauds, du jus d'orange, je t'aime 🐓🫀❤️💋
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106377661534867456/img/8b0Obu6ithmV6JEU.jpg" width="600" alt="Scène de petit-déjeuner Grok Imagine avec un coq">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11890)**
-
-**Author:** [Maria Ramirez 🐓🫀❤️💋🇺🇸🇲🇽](https://x.com/ra41387062) | **Source:** [Link](https://x.com/ra41387062/status/2106377674273042495) | **Published:** Oct 3, 2026
-
----
-### Inspiration Nébuleuse IC 1590
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt inspiré par les couleurs et la structure de la nébuleuse IC 1590, mettant l'accent sur les teintes d'hydrogène et d'oxygène ionisés.
-
-#### 📝 Prompt
-
-```
-Les rouges intenses et les oranges proviennent de vastes nuages d'hydrogène ionisé, illuminés par le rayonnement ultraviolet d'un jeune amas d'étoiles massives brûlantes (IC 1590) situé au cœur de la nébuleuse. Les teintes bleu-cyan plus froides tracent l'oxygène ionisé, peignant l'intérieur comme une lanterne fantomatique. Des globules de Bok sombres — des amas denses de poussière et de gaz.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106324378883395584/img/_sie83VCeCzHFxbs.jpg" width="600" alt="Inspiration Nébuleuse IC 1590">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11882)**
-
-**Author:** [Time Traveler](https://x.com/singularitymuse) | **Source:** [Link](https://x.com/singularitymuse/status/2106324981919433210) | **Published:** Oct 3, 2026
-
----
-### Poster de Confrontation Grok Imagine VTuber
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt de poster cinématographique de confrontation VS mettant en scène les VTubers rivaux Roa Tsukumo et Sakuna Yuuki, avec des descriptions détaillées de leur apparence.
-
-#### 📝 Prompt
-
-```
-Poster cinématographique de confrontation VS entre deux VTubers rivaux : à gauche, Tsukumo Roa issu de la première référence (cheveux bleus, oreilles de chat, tenue à volants bleu-blanc, yeux violets, thème méduse) et à droite, Yuuki Sakuna issue de la deuxième référence (tresses roses, serviette de chat...)
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106252891065581568/img/fSfnyfUoaaeT8LvL.jpg" width="600" alt="Poster de Confrontation Grok Imagine VTuber">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11838)**
-
-**Author:** [ほてぷ🌙🪼☁️](https://x.com/hotepu_shio) | **Source:** [Link](https://x.com/hotepu_shio/status/2106252917145764123) | **Published:** Oct 3, 2026
-
----
-### Édition de couleur pour peinture d'ascension
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour améliorer une peinture en ajoutant des couleurs magenta et vert aqua afin de la porter au niveau supérieur.
-
-#### 📝 Prompt
-
-```
-Portez cette peinture au niveau supérieur d'ascension. Incluez du magenta et beaucoup plus de vert aqua....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106246984671633408/img/8k0Uuq6GwcFN9tiw.jpg" width="600" alt="Édition de couleur pour peinture d'ascension">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11836)**
-
-**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106247004292845784) | **Published:** Oct 3, 2026
-
----
-### Animation de statue géométrique en cuivre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour créer une animation au style acrylique d'une statue géométrique en cuivre nourrissant une forêt à l'aide de Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Une magnifique statue géométrique en cuivre nourrissant une forêt, avec un style d'animation acrylique
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106221437937659904/img/hqbXAewzsvAvamXq.jpg" width="600" alt="Animation de statue géométrique en cuivre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
-
-**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
-
----
-### Prompt d'Elon appréciant Grok
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt direct pour Grok Imagine : 'Une belle vidéo d'Elon appréciant Grok'. Il s'agit d'un prompt texte-vers-vidéo valide, bien que simple.
-
-#### 📝 Prompt
-
-```
-Une belle vidéo de {argument name="subject" default="Elon"} appréciant {argument name="object" default="Grok"}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106184485418958848/img/TG2nHzYwhgww9Rjf.jpg" width="600" alt="Prompt d'Elon appréciant Grok">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12031)**
-
-**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2106184521339302015) | **Published:** Oct 3, 2026
-
----
-### Prompt de chuchotement du lapin de poussière
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour un personnage animé de lapin de poussière s'adressant au spectateur.
-
-#### 📝 Prompt
-
-```
-Un petit lapin de poussière qui souffle, à la voix chuchotée, dit au spectateur dans des halètements entrecoupés qu'il fait sec, sombre et charmant ici, venez, venez, venez
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106178645421129728/img/t1Fc8STqNzLkz6Eg.jpg" width="600" alt="Prompt de chuchotement du lapin de poussière">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11881)**
-
-**Author:** [No No 😎](https://x.com/LynHunter1221) | **Source:** [Link](https://x.com/LynHunter1221/status/2106178661162569794) | **Published:** Oct 3, 2026
-
----
-### Scène de proposition de danse avec Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une invite vidéo créative demandant à Grok Imagine d'animer une scène où Elon Musk invite l'utilisateur à danser, ils rient en dansant, puis il lui fait sa demande en mariage.
-
-#### 📝 Prompt
-
-```
-@elonmusk 🦋🍒🧜🏽‍♀️
-
-ajoute Elon Musk qui vient me demander de danser, nous dansons en riant, puis il me fait sa demande en mariage.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106171708944027648/img/v6Q-iWDCuENYUvRO.jpg" width="600" alt="Scène de proposition de danse avec Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11879)**
-
-**Author:** [Lauryn Taylor Hamilton](https://x.com/sweetbabylemon1) | **Source:** [Link](https://x.com/sweetbabylemon1/status/2106171730637304311) | **Published:** Oct 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2325,6 +2545,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-13T02:23:29.681Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-13T11:51:43.269Z</sub>
 
 </div>

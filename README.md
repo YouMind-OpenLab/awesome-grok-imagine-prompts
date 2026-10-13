@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3059** |
+| 📝 Total Prompts | **3068** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-13** |
 
@@ -189,6 +189,388 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Sydney Sweeney Underwater Neon Adventure Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic video prompt featuring Sydney Sweeney in an underwater neon nightclub adventure with specific timing, lighting, and audio cues.
+
+#### 📝 Prompt
+
+```
+AI Video Prompt — Sydney Sweeney Underwater Neon Adventure
+
+Vertical 9:16 cinematic video, 10 seconds, starring Sydney Sweeney as the main character, with her recognizable facial features, wavy blonde hair, and expressive smile. Ultra-fast pacing, whip-pan transitions, and beat-synced cuts approximately every second.
+
+0–2 seconds: Sydney Sweeney, wearing a sleek black freediving wetsuit with a small action camera attached to her chest strap, swims rapidly through crystal-clear turquoise water above white sand. Sunbeams ripple across her face as the camera tracks her with dynamic underwater movement.
+
+2–4 seconds: She speeds past vibrant coral reefs toward a shimmering curtain of iridescent beads. A dramatic speed ramp follows as she bursts through the sparkling curtain. The camera whip-pans into a mysterious dark coral cave, where violet light illuminates the surrounding water.
+
+4–6 seconds: Explosive reveal of a futuristic underwater nightclub filled with neon lasers, colorful strobes, floating luminous star-shaped sunglasses, and tropical fish moving rhythmically to the music. Sydney emerges through a glowing violet portal as cyan, magenta, and purple lights illuminate her face.
+
+6–10 seconds: Sydney puts on oversized neon star-shaped sunglasses, spins playfully in zero gravity underwater, and laughs as glowing bubbles and particles swirl around her. The camera circles her rapidly with energetic zooms, sharp whip-pans, and smooth speed-ramp transitions, ending on a dramatic close-up of her smiling face against the vibrant nightclub.
+
+Visual style: Hyper-realistic cinematic footage, lifelike facial details, consistent character appearance, realistic underwater physics, volumetric lighting, vivid turquoise water, neon magenta and cyan highlights, violet glow, floating particles, smooth motion blur, high contrast, premium music-video aesthetics, 24 fps.
+
+Audio: Energetic electronic dance music, deep underwater whooshes, sparkling sound effects, and a bass drop during the nightclub reveal.
+
+Continuity: Keep Sydney Sweeney recognizable and visually consistent throughout all shots. No face distortion, duplicate characters, flickering facial features, unwanted text, logos, or watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109874235179139072/img/tU9teihuV2asbHgy.jpg" width="600" alt="Grok Imagine Sydney Sweeney Underwater Neon Adventure Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12439)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2109874273607462953) | **Published:** Oct 13, 2026
+
+---
+### Body Horror Gym Workout Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A complex prompt for generating a realistic gym video featuring a man with abnormal muscle growth and embedded metal plates, detailing specific camera angles, timing, and horror elements without gore.
+
+#### 📝 Prompt
+
+```
+[Reference Locking]
+
+Use newly generated first frame @1 as shape and environment reference.
+
+Male is approximately 38-year-old adult, buzz cut, short stubble, shirtless, wearing dark grey sports shorts with orange trim, grey-black sneakers.
+
+Shoulder and back already have abnormal muscle masses, present from start, do not regrow during video.
+
+From left scapula to ribs is a vertical, asymmetric massive protrusion; right shoulder has smaller layered muscle bulges.
+
+Left mass surface has two dark purple fissure-like wounds, edges wrinkled and irregular.
+
+Masses have real weight, compress slightly with muscle contraction, cannot inflate like balloons.
+
+No blood spurting, tissue bursting, or extra limbs.
+
+[Style & Camera]
+
+9:16 vertical, 12-second continuous smartphone recording.
+
+Filmer stands about two meters behind and to left of man, shooting at chest height.
+
+Opens with two-thirds rear angle, showing shoulder/back masses, arms, and EZ curl bar simultaneously.
+
+Slight hand shake, minor framing adjustments, no orbiting, no cuts, no slow motion.
+
+Ordinary old gym recording: flat fluorescent lights, slight noise, compression artifacts, sweat reflections, natural motion blur.
+
+No horror movie lighting, no background music.
+
+[Environment & Props]
+
+Old community basement gym, white pillars, light green wainscoting, worn grey floor, red training bench, dumbbell rack, wall fan.
+
+Background adult fitness enthusiast in grey clothes continues training, no staring, no screaming.
+
+Protagonist grips same EZ curl bar with both hands, number of black weight plates fixed on both sides.
+
+[0–4s | Completing Curl]
+
+Man stands firm, elbows close to body, lifts bar from hips to chest.
+
+Forearms bend first, biceps contract subsequently.
+
+Back's massive protrusion compresses slightly under shoulder strain, wound positions remain unchanged.
+
+He looks down at bar, expression strained, short exhalation.
+
+Phone adjusts slightly, keeping abnormal shoulder/back and curling action in frame.
+
+[4–7s | Slow Lowering]
+
+Man controls bar descent until arms nearly straight.
+
+Shoulder/back soft tissues sink and wobble slightly upon releasing tension, then stabilize.
+
+Sweat flows down skin.
+
+Cannot suddenly shrink to normal physique, cannot add new masses.
+
+[7–10s | Ending Training]
+
+He bends knees, leans forward, places bar on ground before feet.
+
+Weight plates touch ground first, then he releases grip.
+
+Dull metallic clang heard once.
+
+Phone follows down slightly naturally, then returns to upper body.
+
+Man straightens up, heavy breathing.
+
+[10–12s | Notices Being Filmed]
+
+Man turns head to look at camera, then rotates shoulders and torso into near-frontal stance.
+
+Arms hang naturally, abnormal shoulder/back volume still discernible from silhouette.
+
+He looks at filmer panting, mouth slightly open, does not lunge at camera.
+
+Screen ends directly.
+
+[Ambient Sound]
+
+Breathing, shoe friction, light clinks of weight plates, equipment collisions, wall fan hum.
+
+No soundtrack, narration, subtitles, or monster roars.
+
+[Continuity Constraints]
+
+Only one protagonist, two arms, one barbell.
+
+Abnormal muscles and wounds maintain fixed positions, no morphing per frame.
+
+Sequence of gripping, curling, lowering, placing, releasing is complete.
+
+Camera stays at same observation position, frontal view achieved by man turning around.
+
+Do not add attacks, tentacles, sudden transformation, or bloody explosions.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109781478963871745/img/F62454rkvV2-o5cl.jpg" width="600" alt="Body Horror Gym Workout Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12444)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109803808867922199) | **Published:** Oct 13, 2026
+
+---
+### Reynolds Gillis Planes Trains Autos video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Grok Imagine video prompt recreating the hotel scene from 'Planes, Trains and Automobiles' starring Ryan Reynolds and Shane Gillis.
+
+#### 📝 Prompt
+
+```
+Ryan Reynolds and Shane Gillis as Steve Martin and John Candy in Planes Trains and Automobiles hotel scene
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109781204354445312/img/Xtq9zLNv2YAiNH2F.jpg" width="600" alt="Reynolds Gillis Planes Trains Autos video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12441)**
+
+**Author:** [Redacticus](https://x.com/BillDeWaal) | **Source:** [Link](https://x.com/BillDeWaal/status/2109781218048835891) | **Published:** Oct 12, 2026
+
+---
+### Restaurant Meme Video: Shoe-Sole Dried Tofu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A prompt for creating a humorous 10-second vertical video in a restaurant where a customer picks up dried tofu that looks like a shoe sole, interacting with a waiter.
+
+#### 📝 Prompt
+
+```
+[Overall Setting]
+
+10 seconds, 9:16 vertical, realistic casual smartphone footage in a restaurant, single take.
+
+Uploaded redrawn image serves as end-frame reference, locking the shape of the shoe-sole-shaped dried tofu, gripping position, table layout, waiter's appearance, and final composition.
+
+[Scene & Filming Relationship]
+
+Ordinary small Chinese restaurant, warm pendant lights, beige tables, customers eating and chatting naturally in background.
+
+Foreground features large white bowl containing chili oil, dried tofu, noodles, and vegetables, with soup bowl, teapot, and tissue box nearby.
+
+Seated adult man holds phone with left hand, uses two wooden chopsticks in right hand to pick food. Only picking hand enters frame; man's face and body remain off-screen.
+
+Waiter wears black top and wine-red apron, positioned on right side across the table.
+
+Slight handheld shake, natural indoor exposure, ordinary phone compression quality, no beauty filter, no cinematic color grading.
+
+[Key Prop]
+
+Only one piece of shoe-sole-shaped dried tofu: brownish-yellow, thin slice, surface coated with chili oil and scallions, clear grid pattern, outline consistent with end frame.
+
+It is flexible food, not a real shoe sole, no shoe upper, rubber, or shoes appear.
+
+Chopsticks grip top end of tofu, contact points accurate, bottom end hangs naturally when lifted.
+
+[Strict Time Storyboard]
+
+0–2s:
+
+Camera slightly downward toward dish bowl. Man's right hand enters from left, using two wooden chopsticks to grip top end of tofu piece in bowl.
+
+Tofu partially submerged in chili oil, outline not fully revealed yet.
+
+2–4.5s:
+
+Man slowly lifts chopsticks upward.
+
+Entire tofu piece continuously extracted from bowl, first revealing top end, then grid pattern, narrowed middle section, and rounded bottom, gradually presenting complete shoe-sole shape.
+
+Tofu sways gently, two or three drops of sauce fall back into bowl.
+
+Camera lifts slightly with holding hand, keeping entire tofu piece within frame.
+
+4.5–6s:
+
+Man stops chopsticks, appearing to examine food closely, mutters suspiciously:
+
+"This dried tofu..."
+
+Waiter hears sound, approaches slightly from across table, gaze shifts from chopsticks to tofu.
+
+6–9s:
+
+Man maintains grip, gently displays tofu toward waiter, asks:
+
+"Waiter, why does it look like a shoe sole?"
+
+Tone natural, confused, slightly incredulous, not shouting accusations.
+
+Waiter looks down at it, eyebrows gradually furrow, lips purse lightly, pauses, does not answer immediately.
+
+Tofu still suspended above bowl, does not touch waiter.
+
+9–10s:
+
+Camera rests on complete tofu piece and waiter's puzzled reaction.
+
+Chopsticks, tofu, utensils, and waiter positions align with end-frame reference, hold for at least one second, leaving quiet comedic pause.
+
+[Sound]
+
+Adult man's natural speaking voice, originating near camera.
+
+Retain sounds of chopsticks lightly hitting bowl rim, sauce dripping, low-volume chat from neighboring tables, and clinking utensils.
+
+No narration, no background music, no exaggerated comedy sound effects.
+
+[Continuity & Constraints]
+
+Must grip before lifting, tofu emerges along continuous trajectory from bowl, no teleportation, no duplication.
+
+Maintain same shape, size, grid pattern, and color before and after lifting.
+
+Keep two chopsticks, do not pierce food, do not deform; fingers normal.
+
+Waiter only naturally approaches and observes, does not snatch food, does not scream prematurely.
+
+No cuts, no sudden zoom, no slow motion, no adding shoes or other explanatory props.
+
+Generated output must not include text, watermarks, or platform interfaces.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109674296809279488/img/EoN20k23H_nqxK7o.jpg" width="600" alt="Restaurant Meme Video: Shoe-Sole Dried Tofu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12443)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109720765776162888) | **Published:** Oct 12, 2026
+
+---
+### Yeti Bulldog Corvette Review
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fun video prompt for Grok Imagine featuring a French bulldog named Yeti reviewing a 1966 Corvette convertible.
+
+#### 📝 Prompt
+
+```
+Yeti the French bulldog car review of a 1966 Corvette convertible in mosssport green ￼#frenchbulldog #corvette #dog #carreview
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109706028686200833/img/-oDD9GlXGFSTVJ2g.jpg" width="600" alt="Yeti Bulldog Corvette Review">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12440)**
+
+**Author:** [Howard Gilson](https://x.com/Howard4S) | **Source:** [Link](https://x.com/Howard4S/status/2109713321830371593) | **Published:** Oct 12, 2026
+
+---
+### Sam Elliott Cowboy Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for Grok Imagine to generate a photorealistic video of Sam Elliott as a cowboy riding a horse and guiding cattle.
+
+#### 📝 Prompt
+
+```
+Photorealistic video of Sam Elliott riding a horse and guiding a group of cattle across the plains and the desert. In the last scene the camera pans to Sam and he smiles and tips his cowboy hat. No talking add country music.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109648300836093952/img/OtQcWmsSCkdf5cGR.jpg" width="600" alt="Sam Elliott Cowboy Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12438)**
+
+**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2109648322424164530) | **Published:** Oct 12, 2026
+
+---
+### Alien UFO Over Neon Megacity
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt describing a massive alien UFO hovering over a neon megacity at dusk, used to compare Grok Imagine against other AI image generators.
+
+#### 📝 Prompt
+
+```
+A massive ultra high-tech alien UFO hovering menacingly above a sprawling neon megacity at dusk, its dark obsidian saucer hull bristling with glowing weapon arrays and angular thrusters, ominous red scanning beams slicing downward while pulsating energy rings ripple from its core. 3D futuristic CGI render, electric cyan and magenta palette with deep void blacks and glowing white accents, volumetric God rays piercing toxic fog, intricate layered depth with reflective metallic surfaces and energy crackling. Cinematic low-angle dolly shot rising dramatically to emphasize colossal scale, slow smooth orbiting camera motion with subtle lens flare.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109580352566030336/img/XVmzd3tzI-sDpCry.jpg" width="600" alt="Alien UFO Over Neon Megacity">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12445)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2109615817902129155) | **Published:** Oct 12, 2026
+
+---
+### Zombie Duo Dance Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a 15-second vertical Halloween zombie duo dance video using Grok Imagine. Includes strict constraints on dancer positions, appearance locks to prevent horror makeup, and specific camera zoom instructions synced to the beat.
+
+#### 📝 Prompt
+
+```
+15s Halloween Zombie Duo Dance | 9:16 Vertical | Two Dancers | Fixed Background | Fixed Camera | Beat-Synced Zoom & Close-Up | Horror Trap Hip-Hop
+
+MUSIC / ENERGY:
+An intense beat that kicks in suddenly right from the start, 155 BPM horror trap hip-hop. Hard drums, heavy bass, High speed, sharp accents, energetic and dynamic.
+
+ABSOLUTE LOCK:
+Exactly two dancers only. Dancer A always stays on the LEFT, Dancer B always stays on the RIGHT. Same faces, bodies, hairstyles, outfits, positions, background, lighting, colors, and shadows throughout. No swapping, no crossing places, no morphing, no extra dancers, no cuts. Background never changes.
+
+Zombie Dance (Top Priority):
+Both dancers extend their arms straight out in front at shoulder height, bend their wrists precisely 90 degrees downward, and spread their fingers naturally and straight, unleashing an incredibly fast, aggressive, and high-energy "zombie dance." The performance features a sequence of movements including rapid "zombie steps" with stiff legs, explosive shoulder actions, intense chest pops, sharp head movements, powerful knee lifts, wide-kneed squats, sudden lunges, and vigorous, rhythmic body shaking.
+
+Use DOUBLE-TIME footwork at 155 BPM, rapid acceleration, abrupt freezes, explosive restarts, and hard beat accents.
+Include some sections where both dancers perform different dance moves at the same time while keeping the permanent zombie arm pose.
+
+DUO DANCE RULE:
+This is a duo dance, but they must not be perfectly synchronized all the time.
+They move in the same overall rhythm, but with slight timing offsets, alternating accents, and different body actions.
+
+FINISH:
+The two of them strike a zombie pose, and the shot zooms in to a close-up of their eyes glowing red as they stare into the camera.
+
+APPEARANCE LOCK — ABSOLUTE PRIORITY:
+Preserve both dancers' original faces, natural skin tones, hairstyles, and makeup exactly as shown in the initial frame. No zombie makeup, horror makeup, corpse makeup, pale or gray skin, darkened eye sockets, facial discoloration, or grotesque facial effects. No blood, fake blood, bleeding, wounds, scars, bruises, or visible injuries. Express the zombie character exclusively through stiff body movements, unnatural head tilts, dragging steps, sharp shoulder hits, and eerie facial expressions. Do not alter either dancer's appearance throughout the video.
+
+CAMERA:
+Fixed frontal camera only. No camera movement, no pan, no tilt, no dolly.
+Use only fast beat-synced optical zoom-ins, snap zoom-outs, and brief punch-in close-up framing to create speed and impact while keeping the camera position fixed. Keep the same background at all times.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109605227141980160/img/fuYzaUPkPABjaSOE.jpg" width="600" alt="Zombie Duo Dance Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12446)**
+
+**Author:** [SPLASH GIRLS@AI Image](https://x.com/splash_GL) | **Source:** [Link](https://x.com/splash_GL/status/2109615069470556358) | **Published:** Oct 12, 2026
+
+---
 ### Cowgirl Cowboy Beach Race Silhouette Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,70 +590,126 @@ In dark silhouette cowgirl and cowboy race beside each other on ocean beach fire
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109544110919164271) | **Published:** Oct 12, 2026
 
 ---
-### Angry Laughing Crying Selfie Video
+### Realistic Selfie Video Generation
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed video prompt for generating a realistic 12-second selfie video of a woman laughing and crying in anger, specifying expressions, camera movement, and audio details.
+> A detailed prompt for generating a 12-second vertical realistic selfie video featuring emotional expressions, specific clothing, and accessories based on reference images.
 
 #### 📝 Prompt
 
 ```
 [Task]
-Generate a 12-second, 9:16 vertical realistic smartphone selfie video. Replicate the lying-on-bed composition, action sequence, mixed laughing/crying expressions, and rhythm of the reference video 'Stomach Ache from Anger', replacing the original character with a specified adult female.
+
+Generate a 12-second, 9:16 vertical realistic smartphone selfie video. Replicate the lying-on-bed composition, action sequence, mixed crying-and-laughing expressions, and rhythm from the reference video 'Angry Until Stomach Hurts', replacing the original character with a specified adult female.
 
 [Reference Division and Character Locking]
-Lock the facial features, proportions, and long black hair to the female face reference image @0ba07db1-974c-467d-80dc-d9dffddac0ba; do not inherit the male appearance from the original video.
-Lock clothing and body proportions to the reference image @8149c66e-9a91-4b88-bf26-d0a764075ccf; wear the clothing completely.
-Lock glasses to the silver decorative glasses reference image @d80c71c5-d330-4baf-8ecf-8b793ee0fee8: thin silver metal wire, open curved lower eye frames, transparent nose pads, small bow metal coils near the bridge of the nose, one hanging flower on each side. Temple arms rest normally on ears, both eyes clearly visible. Glasses worn throughout, do not turn into ordinary thick-framed glasses, no display stands appear.
+
+Lock the face to the female portrait in reference image @0ba07db1-974c-467d-80dc-d9dffddac0ba, including facial proportions and long black hair; do not inherit the male appearance from the original video.
+
+Lock clothing and body proportions to reference image @8149c66e-9a91-4b88-bf26-d0a764075ccf, ensuring clothes are fully worn.
+
+Lock glasses to silver decorative glasses in reference image @d80c71c5-d330-4baf-8ecf-8b793ee0fee8: thin silver metal wireframes, open curved lower rims, transparent nose pads, small bow-tie metal coils near the bridge, and one hanging flower charm on each side. Temples rest normally on ears, eyes clearly visible. Glasses must be worn throughout, not changing into thick-rimmed glasses or display stands.
+
 The original video only locks performance, selfie angle, actions, and rhythm.
+
 Do not inherit the falling shot from the previous nine-grid.
 
-[Scene and Shooting]
-She lies supine on a white bed, head on a white pillow, long hair naturally spread out.
-Left hand holds the phone off-screen, front camera located about 40cm above the face, shooting down at the face, shoulders, and upper body. The face occupies the main subject of the frame.
-Right hand can reach the bottom edge of the screen to press the abdomen.
-One continuous take throughout, the lens only shakes slightly with the holding hand, breathing, and shoulder tremors. Natural bedroom light, ordinary smartphone native quality, realistic skin texture, no beauty filters.
+[Scene and Filming]
+
+She lies supine on white bedding, head on a white pillow, long hair naturally spread out.
+
+Left hand holds the phone off-screen; front camera is approx. 40cm above the face, shooting downwards capturing face, shoulders, and upper body. Face occupies the main subject area.
+
+Right hand may reach the bottom edge of the frame to press the abdomen.
+
+One continuous take throughout; camera shakes slightly only due to holding hand, breathing, and shoulder tremors. Natural bedroom lighting, standard smartphone native quality, realistic skin texture, no beauty filters.
 
 [Strict Timing and Performance]
-0–2.8 seconds:
-Opens immediately in a state of angry laughter and tears. Her brows are tightly furrowed, eyes squeezed shut, corners of mouth pulled horizontally, intermittently emitting "Hahaha... ah... haha".
-Laughter carries grievance and anger, shoulders tremble lightly, head moves slightly on the pillow.
-Silver flower pendants sway gently with head movements, nose pads and temple arms remain fitted to the face.
-2.8–5.8 seconds:
-She stops to inhale, barely opens her eyes to look at the phone screen, brows still furrowed, corners of mouth turned down, speaking with anger and grievance:
+
+0–2.8s:
+
+Opens immediately in a state of angry crying/laughing. Brows furrowed tightly, eyes squeezed shut, mouth corners pulled horizontally, intermittently emitting "Hahaha... Ah... Haha".
+
+Laughter carries grievance and anger; shoulders tremble lightly, head moves slightly on the pillow.
+
+Silver flower charms sway gently with head movement; nose pads and temples remain fitted to the face.
+
+2.8–5.8s:
+
+She stops to inhale, barely opens eyes to look at the screen, brows still furrowed, mouth corners turned down, speaking with anger and grievance:
+
 "Family, I'm so angry my stomach hurts."
-When saying the second half, right hand presses abdomen, head turns to one side, eyes squeeze shut again. Phone shakes slightly with body tremors, face remains clearly readable.
-5.8–9.3 seconds:
-She tries to catch her breath but emits broken "Hahaha... ah..." again.
-Mouth opens, briefly purses, then opens again, showing a reaction wanting to laugh and cry simultaneously. Brows squeeze tight, nostrils move slightly, chin trembles, occasionally showing teeth.
-Head returns from sideways position to center of pillow, right hand continues pressing abdomen. Glasses move with head, flower pendants sway naturally.
-9.3–12 seconds:
-She briefly opens eyes looking at screen, says angrily:
-"I'm furious."
-After speaking, closes eyes, wrinkles nose, reveals mixed laughing/crying expression, ending with a short bitter laugh and exhale.
-Always stays lying in place, does not sit up, no additional plot added.
+
+As she says the second half, right hand presses abdomen, head turns to the side, eyes squeeze shut again. Phone shakes slightly with body tremors, face remains clearly readable.
+
+5.8–9.3s:
+
+She tries to catch her breath but emits broken "Hahaha... Ah..."
+
+Mouth opens, briefly purses, then opens again, showing a reaction wanting to laugh yet cry. Brows tighten, nostrils flare slightly, chin trembles, occasionally showing teeth.
+
+Head returns from side position to center of pillow, right hand continues pressing abdomen. Glasses move with head, flower charms sway naturally.
+
+9.3–12s:
+
+Briefly opens eyes looking at screen, angrily saying:
+
+"I'm so angry I could die."
+
+Then closes eyes, scrunches nose, reveals mixed crying/laughing expression, ending with a short bitter laugh and exhale.
+
+Remains lying in place, does not get up, adds no other plot.
 
 [Audio]
-Natural adult female voice, close-range smartphone recording, lip sync with dialogue.
-Laughter is intermittent, with inhalations and breath sounds, emotion is interwoven anger, grievance, and bitter smile.
-Slight pillow friction, fabric friction, and indoor background noise, no narration, no background music.
-If the generation tool supports reference video audio, prioritize matching the pauses, laughter, and speaking rhythm of the original clip.
+
+Natural adult female voice, close-range phone recording, lip-sync with dialogue.
+
+Intermittent laughter, with inhales and breathy sounds; emotion is a mix of anger, grievance, and bitter laughter.
+
+Slight pillow rustling, fabric friction, and indoor ambient noise; no narration, no background music.
+
+If generation tool supports reference video audio, prioritize matching pauses, laughter, and speech rhythm of the original clip.
 
 [Key Requirements]
-Retain the exaggerated eye-squeezing, brow-furrowing, mouth-opening, and head-swings of the original clip; cannot turn into a pretty smile or calm talking head.
-Maintain the same character identity when expressions distort facial features.
-Glasses structure, number of flowers, clothing, hairstyle, bedding, and lighting remain consistent throughout.
-No face swapping, no floating glasses or glasses passing through skin, no adding flower charms, no extra arms or abnormal fingers.
-No cuts, no falls, no tumbling camera angles, no slow motion, no cinematic camerawork.
-Do not add subtitles, screenshot stickers, watermarks, or platform interfaces to the generated visuals.
+
+Retain exaggerated eye-squeezing, brow-furrowing, mouth-opening, and head-shaking from original; must not become pretty smile or calm talking-head.
+
+Maintain same character identity even when expressions distort features.
+
+Glasses structure, number of flowers, clothing, hairstyle, bed, and lighting consistent throughout.
+
+No face swapping, no floating glasses or clipping through skin, no extra flower charms, no extra arms or abnormal fingers.
+
+No cuts, no falling, no rolling camera angles, no slow motion, no cinematic camera moves.
+
+Do not add subtitles, screenshot stickers, watermarks, or platform UI to generated frames.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109433100203589632/img/kqt_Zl2fK-5Wtkri.jpg" width="600" alt="Angry Laughing Crying Selfie Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109433100203589632/img/kqt_Zl2fK-5Wtkri.jpg" width="600" alt="Realistic Selfie Video Generation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12379)**
 
 **Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109494015062110399) | **Published:** Oct 12, 2026
+
+---
+### Grok Imagine Video Prompt: Birthday Nail Art
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video of a little girl getting her fingernails painted with a birthday theme, including an animated alligator.
+
+#### 📝 Prompt
+
+```
+Three year-old little girl wants her fingernails painted birthday theme. Make the little alligator come to life keep it the original.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109467396356333568/img/mxduTNzHpiJORZTu.jpg" width="600" alt="Grok Imagine Video Prompt: Birthday Nail Art">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12442)**
+
+**Author:** [Cole Adams](https://x.com/ColeAdams777) | **Source:** [Link](https://x.com/ColeAdams777/status/2109467582981976366) | **Published:** Oct 12, 2026
 
 ---
 ### Animated Selfie Promo Video
@@ -2091,187 +2529,6 @@ Animate the two adult men exactly as they appear in the reference image. Keep th
 **Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2106479952854175852) | **Published:** Oct 3, 2026
 
 ---
-### Grok Imagine Video: White Iron Gazebo Sunflowers
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed narrative prompt describing a scene in a Hong Kong garden with a white iron gazebo and sunflowers.
-
-#### 📝 Prompt
-
-```
-Noon comes through gaps in the leaves.
-The pavilion is white and made of iron.
-
-Sunflowers are in the arms.
-They belong to no one.
-Put them down?
-Leave the pavilion as is?
-
-Hong Kong garden, white iron gazebo. Ningning stands holding sunflowers in her arms. Orange gingham, knee-length. Noon leaf dapples. Old days scenery 7/8. The flowers still belong to no one. Put them down or leave carrying them?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106400590154891265/img/Df55A-c3GHwIJs-t.jpg" width="600" alt="Grok Imagine Video: White Iron Gazebo Sunflowers">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11888)**
-
-**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2106400882380378147) | **Published:** Oct 3, 2026
-
----
-### Grok Imagine Breakfast Scene with Rooster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt asking a rooster to wake up and eat traditional Mexican breakfast items like chilaquiles, bread, and juice.
-
-#### 📝 Prompt
-
-```
-My rooster 🐓 get out of bed to have breakfast, I made you chilaquiles with lots of cream and cheese, hot bolillo bread, orange juice, I love you 🐓🫀❤️💋
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106377661534867456/img/8b0Obu6ithmV6JEU.jpg" width="600" alt="Grok Imagine Breakfast Scene with Rooster">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11890)**
-
-**Author:** [Maria Ramirez 🐓🫀❤️💋🇺🇸🇲🇽](https://x.com/ra41387062) | **Source:** [Link](https://x.com/ra41387062/status/2106377674273042495) | **Published:** Oct 3, 2026
-
----
-### Nebula IC 1590 Inspiration
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt inspired by the colors and structure of nebula IC 1590, focusing on ionized hydrogen and oxygen hues.
-
-#### 📝 Prompt
-
-```
-fierce reds and oranges come from vast clouds of ionized hydrogen, set alight by the ultraviolet blast from a young, scorching cluster of massive stars (IC 1590) sitting at the heart of the nebula. Cooler blue-cyan hues trace ionized oxygen, painting the interior like a ghostly lantern. Dark Bok globules — dense knots of dust and gas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106324378883395584/img/_sie83VCeCzHFxbs.jpg" width="600" alt="Nebula IC 1590 Inspiration">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11882)**
-
-**Author:** [Time Traveler](https://x.com/singularitymuse) | **Source:** [Link](https://x.com/singularitymuse/status/2106324981919433210) | **Published:** Oct 3, 2026
-
----
-### Grok Imagine VTuber Confrontation Poster
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A cinematic VS confrontation poster prompt featuring rival VTubers Roa Tsukumo and Sakuna Yuuki with detailed appearance descriptions.
-
-#### 📝 Prompt
-
-```
-Cinematic VS confrontation poster of two rival VTubers: left side Tsukumo Roa from the first reference (blue hair, cat ears, blue-white frilly outfit, purple eyes, jellyfish theme) and right side Yuuki Sakuna from the second reference (pink hair braids, cat maid...)
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106252891065581568/img/fSfnyfUoaaeT8LvL.jpg" width="600" alt="Grok Imagine VTuber Confrontation Poster">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11838)**
-
-**Author:** [ほてぷ🌙🪼☁️](https://x.com/hotepu_shio) | **Source:** [Link](https://x.com/hotepu_shio/status/2106252917145764123) | **Published:** Oct 3, 2026
-
----
-### Painting Ascention Color Shift
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt to enhance a painting by adding magenta and aqua green colors, creating a sense of ascension.
-
-#### 📝 Prompt
-
-```
-Take this painting to the next level of ascention. Include magenta and way more aqua green....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106246984671633408/img/8k0Uuq6GwcFN9tiw.jpg" width="600" alt="Painting Ascention Color Shift">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11836)**
-
-**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106247004292845784) | **Published:** Oct 3, 2026
-
----
-### Copper Statue Acrylic Animation Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for an acrylic-style animation featuring a geometric copper statue feeding a forest.
-
-#### 📝 Prompt
-
-```
-A beautiful geometric statue made out of copper feeding a forest make it acrylic for the animation style
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106221437937659904/img/hqbXAewzsvAvamXq.jpg" width="600" alt="Copper Statue Acrylic Animation Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
-
-**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
-
----
-### Elon Appreciating Grok Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A direct prompt for Grok Imagine: 'A nice video of Elon appreciating Grok'. This is a valid, albeit simple, text-to-video prompt.
-
-#### 📝 Prompt
-
-```
-A nice video of {argument name="subject" default="Elon"} appreciating {argument name="object" default="Grok"}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106184485418958848/img/TG2nHzYwhgww9Rjf.jpg" width="600" alt="Elon Appreciating Grok Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12031)**
-
-**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2106184521339302015) | **Published:** Oct 3, 2026
-
----
-### Dusty Bunny Whisper Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for an animated dust bunny character speaking to the viewer.
-
-#### 📝 Prompt
-
-```
-A puffing dust bunny with a whispery voice telling the viewer in broken gasp that it is dry and dark and lovely here, come come come
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106178645421129728/img/t1Fc8STqNzLkz6Eg.jpg" width="600" alt="Dusty Bunny Whisper Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11881)**
-
-**Author:** [No No 😎](https://x.com/LynHunter1221) | **Source:** [Link](https://x.com/LynHunter1221/status/2106178661162569794) | **Published:** Oct 3, 2026
-
----
-### Grok Imagine Dance Proposal Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt asking Grok Imagine to animate a scene where Elon Musk asks the user to dance, they laugh while dancing, and he proposes.
-
-#### 📝 Prompt
-
-```
-@elonmusk 🦋🍒🧜🏽‍♀️
-
-add elon musk coming up to ask me to dance and us dancing laughing and then him proposing to me.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106171708944027648/img/v6Q-iWDCuENYUvRO.jpg" width="600" alt="Grok Imagine Dance Proposal Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11879)**
-
-**Author:** [Lauryn Taylor Hamilton](https://x.com/sweetbabylemon1) | **Source:** [Link](https://x.com/sweetbabylemon1/status/2106171730637304311) | **Published:** Oct 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2333,6 +2590,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-13T02:23:20.897Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-13T11:51:32.055Z</sub>
 
 </div>

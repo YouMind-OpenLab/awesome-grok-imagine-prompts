@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3059** |
+| 📝 Total Prompts | **3068** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-13** |
 
@@ -189,6 +189,356 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Sydney Sweeney Underwater Neon Adventure Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sydney Sweeney के साथ एक विस्तृत सिनेमाई वीडियो प्रॉम्प्ट, जिसमें अंडरवाटर नियॉन नाइटक्लब एडवेंचर, विशिष्ट टाइमिंग, लाइटिंग और ऑडियो क्यू शामिल हैं।
+
+#### 📝 Prompt
+
+```
+AI वीडियो प्रॉम्प्ट — Sydney Sweeney Underwater Neon Adventure
+
+9:16 वर्टिकल सिनेमाई वीडियो, 10 सेकंड, मुख्य पात्र के रूप में Sydney Sweeney, उनकी पहचान योग्य चेहरे की विशेषताओं, लहरदार सुनहरे बालों और अभिव्यंजित मुस्कान के साथ। अत्यंत तेज़ गति, व्हिप-पैन ट्रांजिशन और लगभग हर सेकंड बीट-सिंक कट्स।
+
+0–2 सेकंड: Sydney Sweeney, एक स्लीक ब्लैक फ्रीडाइविंग वेस्ट सूट पहने हुए, जिसके सीने पर एक छोटा एक्शन कैमरा लगा है, सफेद रेत के ऊपर क्रिस्टल-क्लियर टर्कोइज़ पानी में तेज़ी से तैरती हैं। जैसे ही कैमरा गतिशील अंडरवाटर मूवमेंट के साथ उन्हें ट्रैक करता है, सूरज की किरणें उनके चेहरे पर झिलमिलाती हैं।
+
+2–4 सेकंड: वे जीवंत कोरल रीफ के पास से गुज़रते हुए चमकदार इरिडिसेंट मोतियों के पर्दे की ओर बढ़ती हैं। जब वे चमकते हुए पर्दे से बाहर निकलती हैं तो एक ड्रामेटिक स्पीड रैंप होता है। कैमरा व्हिप-पैन होकर एक रहस्यमय अंधेरी कोरल गुफा में जाता है, जहाँ बैंगनी रोशनी आसपास के पानी को प्रकाशित करती है।
+
+4–6 सेकंड: एक भविष्यवादी अंडरवाटर नाइटक्लब का विस्फोटक खुलासा, जो नियॉन लेज़र्स, रंगीन स्ट्रोब्स, तैरते हुए चमकदार स्टार-आकार के धूप के चश्मे और संगीत की धुन पर नाचते हुए उष्णकटिबंधीय मछलियों से भरा है। Sydney एक चमकते हुए बैंगनी पोर्टल से बाहर आती हैं क्योंकि सियान, मैजेंटा और बैंगनी रोशनी उनके चेहरे को प्रकाशित करती हैं।
+
+6–10 सेकंड: Sydney ओवरसाइज़्ड नियॉन स्टार-आकार के धूप के चश्मे लगाती हैं, अंडरवाटर शून्य गुरुत्वाकर्षण में खेल-खेल में घूमती हैं और हंसती हैं जबकि चमकदार बुलबुले और कण उनके चारों ओर घूमते हैं। कैमरा ऊर्जावान ज़ूम, तेज़ व्हिप-पैन और स्मूथ स्पीड-रैंप ट्रांजिशन के साथ तेज़ी से उनके चारों ओर घूमता है, और एक जीवंत नाइटक्लब के पृष्ठभूमि में उनकी मुस्कुराती हुई चेहरे के ड्रामेटिक क्लोज-अप पर समाप्त होता है।
+
+विज़ुअल स्टाइल: हाइपर-रियलिस्टिक सिनेमाई फुटेज, जीवन-जैसे चेहरे की विवरण, सुसंगत पात्र उपस्थिति, यथार्थवादी अंडरवाटर भौतिकी, वॉल्यूमेट्रिक लाइटिंग, जीवंत टर्कोइज़ पानी, नियॉन मैजेंटा और सियान हाइलाइट्स, बैंगनी चमक, तैरते हुए कण, स्मूथ मोशन ब्लर, उच्च कंट्रास्ट, प्रीमियम म्यूज़िक-वीडियो एस्थेटिक्स, 24 fps।
+
+ऑडियो: ऊर्जावान इलेक्ट्रॉनिक डांस म्यूज़िक, गहरे अंडरवाटर वूश, चमकदार साउंड इफेक्ट्स, और नाइटक्लब रिवील के दौरान बेस ड्रॉप।
+
+निरंतरता: सभी शॉट्स में Sydney Sweeney को पहचान योग्य और दृश्य रूप से सुसंगत रखें। कोई चेहरा विकृति, दोहरे पात्र, टिमटिमाती चेहरे की विशेषताएं, अप्रिय टेक्स्ट, लोगो या वॉटरमार्क नहीं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109874235179139072/img/tU9teihuV2asbHgy.jpg" width="600" alt="Grok Imagine Sydney Sweeney Underwater Neon Adventure Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12439)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2109874273607462953) | **Published:** Oct 13, 2026
+
+---
+### बॉडी हॉरर जिम वर्कआउट वीडियो
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> एक जटिल प्रॉम्प्ट जो एक यथार्थवादी जिम वीडियो उत्पन्न करने के लिए है, जिसमें असामान्य मांसपेशी विकास और धातु की प्लेटें लगे एक व्यक्ति दिखाई देता है। इसमें विशेष कैमरा कोण, समय-सीमा और बिना खून बहने वाले हॉरर तत्वों का विवरण दिया गया है।
+
+#### 📝 Prompt
+
+```
+[रेफरेंस लॉकिंग]
+
+आकार और वातावरण के संदर्भ के लिए नव-उत्पन्न पहला फ्रेम @1 का उपयोग करें।
+
+पुरुष लगभग 38 वर्ष का वयस्क है, बज़ कट हेयरस्टाइल, छोटी दाढ़ी, बिना शर्ट के, नारंगी ट्रिम वाली गहरी ग्रे रंग की स्पोर्ट्स शॉर्ट्स और ग्रे-ब्लैक स्नीकर्स पहने हुए।
+
+कंधे और पीठ पर पहले से ही असामान्य मांसपेशियों के द्रव्यमान मौजूद हैं, जो शुरू से ही दिखते हैं, वीडियो के दौरान ये दोबारा नहीं उगेंगे।
+
+बाएं स्कैपुला से पसलियों तक एक ऊर्ध्वाधर, असममित विशाल उभार है; दाएं कंधे पर छोटी परतदार मांसपेशियों की सूजन है।
+
+बाएं द्रव्यमान की सतह पर दो गहरे बैंगनी दरार जैसे घाव हैं, जिनके किनारे झुर्रीदार और अनियमित हैं।
+
+द्रव्यमानों में वास्तविक वजन होता है, मांसपेशियों के संकुचन के साथ वे थोड़े दबते हैं, गुब्बारों की तरह फूलते नहीं हैं।
+
+कोई खून का छींटा, ऊतकों का फटना या अतिरिक्त अंग नहीं हैं।
+
+[शैली और कैमरा]
+
+9:16 वर्टिकल, 12 सेकंड का लगातार स्मार्टफोन रिकॉर्डिंग।
+
+फिल्मकर्ता व्यक्ति के पीछे और बाईं ओर लगभग दो मीटर की दूरी पर खड़ा है, छाती की ऊंचाई से शूट कर रहा है।
+
+शुरुआत दो-तिहाई पिछले कोण (rear angle) से होती है, जिसमें कंधे/पीठ के द्रव्यमान, हाथ और EZ curl बार एक साथ दिखाई देते हैं।
+
+हल्का हाथ का कंपन, मामूली फ्रेमिंग समायोजन, कोई ऑर्बिटिंग नहीं, कोई कट नहीं, कोई स्लो मोशन नहीं।
+
+साधारण पुराने जिम की रिकॉर्डिंग: चपटी फ्लोरोसेंट लाइटें, हल्का शोर, कमप्रेशन आर्टिफैक्ट्स, पसीने की प्रतिबिंब, प्राकृतिक मोशन ब्लर।
+
+कोई हॉरर फिल्म की लाइटिंग नहीं, कोई बैकग्राउंड म्यूजिक नहीं।
+
+[वातावरण और प्रॉप्स]
+
+पुराना कम्युनिटी बेसमेंट जिम, सफेद स्तंभ, हल्के हरे रंग की वैनस्कोटिंग, घिसा हुआ ग्रे फर्श, लाल ट्रेनिंग बेंच, डंबेल रैक, दीवार का पंखा।
+
+पृष्ठभूमि में ग्रे कपड़ों वाला एक वयस्क फिटनेस उत्साही निरंतर व्यायाम करता रहता है, कोई घूरना नहीं, कोई चीखना नहीं।
+
+मुख्य पात्र दोनों हाथों से उसी EZ curl बार को पकड़े हुए है, दोनों तरफ काली वेट प्लेट्स की संख्या स्थिर है।
+
+[0–4s | Curl पूरा करना]
+
+व्यक्ति मजबूती से खड़ा है, कोहनी शरीर के पास, बार को कूल्हों से छाती तक उठाता है।
+
+अग्रभाग पहले मुड़ते हैं, फिर बाइसेप्स संकुचित होते हैं।
+
+पीठ का विशाल उभार कंधे के तनाव के कारण थोड़ा दब जाता है, घावों की स्थिति अपरिवर्तित रहती है।
+
+वह बार की ओर नीचे देखता है, चेहरे पर तनाव है, छोटी सांस छोड़ता है।
+
+फोन थोड़ा समायोजित होता है, असामान्य कंधे/पीठ और curling क्रिया को फ्रेम में बनाए रखते हुए।
+
+[4–7s | धीमी नीचे लाया जाना]
+
+व्यक्ति बार को नियंत्रित करते हुए नीचे लाता है जब तक कि हाथ लगभग सीधे न हो जाएं।
+
+तनाव छोड़ने पर कंधे/पीठ के नरम ऊतक नीचे धंसते हैं और थोड़ा हिलते हैं, फिर स्थिर हो जाते हैं।
+
+पसीना त्वचा पर बहता है।
+
+अचानक सामान्य शारीरिक आकार में नहीं सिकुड़ सकता, न ही नए द्रव्यमान जोड़े जा सकते हैं।
+
+[7–10s | व्यायाम समाप्त करना]
+
+वह घुटने मोड़ता है, आगे झुकता है, और पैरों के सामने बार को जमीन पर रखता है।
+
+वेट प्लेट्स पहले जमीन को छूती हैं, फिर वह ग्रिप छोड़ देता है।
+
+एक बार धीमा धातु का ठन-ठन सुनाई देता है।
+
+फोन स्वाभाविक रूप से थोड़ा नीचे जाता है, फिर रुक जाता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109781478963871745/img/F62454rkvV2-o5cl.jpg" width="600" alt="बॉडी हॉरर जिम वर्कआउट वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12444)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109803808867922199) | **Published:** Oct 13, 2026
+
+---
+### Reynolds Gillis Planes Trains Autos वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक Grok Imagine वीडियो प्रॉम्प्ट जो 'Planes, Trains and Automobiles' के होटल सीन को Ryan Reynolds और Shane Gillis के साथ फिर से बनाता है।
+
+#### 📝 Prompt
+
+```
+Ryan Reynolds और Shane Gillis ने Steve Martin और John Candy की भूमिका निभाई, Planes Trains and Automobiles के होटल सीन में
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109781204354445312/img/Xtq9zLNv2YAiNH2F.jpg" width="600" alt="Reynolds Gillis Planes Trains Autos वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12441)**
+
+**Author:** [Redacticus](https://x.com/BillDeWaal) | **Source:** [Link](https://x.com/BillDeWaal/status/2109781218048835891) | **Published:** Oct 12, 2026
+
+---
+### रेस्तरां मेम वीडियो: जूते के तलवे जैसी सूखी टोफू
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> एक रेस्तरां में मज़ेदार 10-सेकंड का वर्टिकल वीडियो बनाने के लिए प्रॉम्प्ट, जहाँ एक ग्राहक सूखी टोफू (जो जूते के तलवे जैसी दिखती है) को उठाता है और वेटर से बातचीत करता है।
+
+#### 📝 Prompt
+
+```
+[समग्र सेटिंग]
+
+10 सेकंड, 9:16 वर्टिकल, रेस्तरां में यथार्थवादी कैज़ुअल स्मार्टफोन फुटेज, सिंगल टेक।
+
+अपलोड की गई पुनः चित्रित छवि अंतिम फ्रेम संदर्भ के रूप में कार्य करती है, जो जूते के तलवे आकार की सूखी टोफू, पकड़ने की स्थिति, टेबल लेआउट, वेटर की उपस्थिति और अंतिम रचना को लॉक करती है।
+
+[दृश्य और फिल्मांकन संबंध]
+
+साधारण छोटा चीनी रेस्तरां, गर्म लटकते हुए लाइट्स, बेज रंग की टेबलें, पृष्ठभूमि में ग्राहक स्वाभाविक रूप से खा रहे हैं और बात कर रहे हैं।
+
+अग्रभूमि में एक बड़ा सफेद कटोरा है जिसमें चिली ऑयल, सूखी टोफू, नूडल्स और सब्जियाँ हैं, साथ ही पास में सूप का कटोरा, चायदान और टिश्यू बॉक्स हैं।
+
+बैठा हुआ वयस्क पुरुष बाएं हाथ से फोन पकड़े हुए है, दाएं हाथ में दो लकड़ी की चॉपस्टिक्स का उपयोग करके खाना चुन रहा है। केवल चुनने वाला हाथ फ्रेम में प्रवेश करता है; पुरुष का चेहरा और शरीर स्क्रीन से बाहर रहते हैं।
+
+वेटर ने काला टॉप और वाइन-लाल एप्रन पहना है, टेबल के दूसरी ओर दाईं ओर स्थित है।
+
+हल्का हैंडहेल्ड शेक, प्राकृतिक इनडोर एक्सपोज़र, साधारण फोन कम्प्रेशन गुणवत्ता, कोई ब्यूटी फिल्टर नहीं, कोई सिनेमाई कलर ग्रेडिंग नहीं।
+
+[मुख्य प्रॉप]
+
+केवल एक टुकड़ा जूते के तलवे आकार की सूखी टोफू: भूरा-पीला, पतली स्लाइस, सतह पर चिली ऑयल और हरा धनिया लगा हुआ, स्पष्ट ग्रिड पैटर्न, आउटलाइन अंतिम फ्रेम के अनुरूप।
+
+यह लचीला भोजन है, असली जूते का तलवा नहीं, कोई जूते का ऊपरी हिस्सा, रबर या जूते दिखाई नहीं देते।
+
+चॉपस्टिक्स टोफू के ऊपरी सिरे को पकड़ती हैं, संपर्क बिंदु सटीक हैं, ऊपर उठाने पर निचला सिरा स्वाभाविक रूप से लटकता है।
+
+[सख्त समय स्टोरीबोर्ड]
+
+0–2s:
+
+कैमरा थोड़ा नीचे की ओर डिश कटोरे की तरफ। पुरुष का दायां हाथ बाईं ओर से प्रवेश करता है, दो लकड़ी की चॉपस्टिक्स का उपयोग करके कटोरे में टोफू के टुकड़े के ऊपरी सिरे को पकड़ता है।
+
+टोफू चिली ऑयल में आधा डूबा हुआ है, आउटलाइन अभी पूरी तरह प्रकट नहीं हुई है।
+
+2–4.5s:
+
+पुरुष धीरे-धीरे चॉपस्टिक्स को ऊपर उठाता है।
+
+पूरा टोफू का टुकड़ा लगातार कटोरे से निकाला जाता है, पहले ऊपरी सिरा, फिर ग्रिड पैटर्न, संकीर्ण मध्य खंड, और गोल निचला हिस्सा, क्रमशः पूर्ण जूते के तलवे का आकार प्रस्तुत करते हुए।
+
+टोफू हल्के से झूलता है, सॉस की दो या तीन बूंदें कटोरे में वापस गिरती हैं।
+
+कैमरा पकड़ने वाले हाथ के साथ थोड़ा ऊपर उठता है, पूरे टोफू के टुकड़े को फ्रेम के भीतर रखते हुए।
+
+4.5–6s:
+
+पुरुष चॉपस्टिक्स रोकता है, लगता है कि वह खाने को करीब से देख रहा है, संदेहपूर्वक बुदबुदाता है:
+
+"यह सूखी टोफू..."
+
+वेटर आवाज़ सुनता है, टेबल के दूसरी ओर से थोड़ा पास आता है, दृष्टि चॉपस्टिक्स से टोफू की ओर बदलती है।
+
+6–9s:
+
+पुरुष पकड़ बनाए रखता है, टोफू को वेटर की ओर हल्के से प्रदर्शित करता है, पूछता है:
+
+"वेटर, यह जूते के तलवे जैसी क्यों दिखती है?"
+
+स्वर स्वाभाविक, भ्रमित, थोड़ा अविश्वासपूर्ण, आरोप लगाते हुए चिल्लाता नहीं है।
+
+वेटर नीचे देखता है, भौंहें धीरे-धीरे सिकुड़ती हैं, होठ हल्के से मुड़ते हैं, रुकता है, तुरंत उत्तर नहीं देता।
+
+टोफू अभी भी कटोरे के ऊपर लटका हुआ है, वेटर को छूता नहीं है।
+
+9–10s:
+
+कैमरा पूर्ण टोफू के टुकड़े और वेटर की भ्रमित प्रतिक्रिया पर टिका रहता है।
+
+चॉपस्टिक्स, टोफू, बर्तन, और वेटर की स्थिति अंतिम फ्रेम संदर्भ के साथ संरेखित होती हैं, कम से कम एक सेकंड तक रोके रखें, मौन कॉमेडी पॉज़ छोड़ते हुए।
+
+[ध्वनि]
+
+वयस्क पुरुष की स्वाभाविक बोलने की आवाज़, कैमरे के पास से उत्पन्न।
+
+चॉपस्टिक्स द्वारा कटोरे के किनारे को हल्के से टकराने, सॉस टपकने, पड़ोसी टेबलों से कम मात्रा में चैट, और बर्तनों के टकराने की आवाज़ों को बनाए रखें।
+
+कोई नैरेशन नहीं, कोई बैकग्राउंड म्यूजिक नहीं, कोई अतिशयोक्तिपूर्ण कॉमेडी साउंड इफेक्ट्स नहीं।
+
+[निरंतरता और प्रतिबंध]
+
+ऊपर उठाने से पहले पकड़ना आवश्यक है, टोफू कटोरे से लगातार ट्रैजेक्टरी के साथ निकलता है, कोई टेलीपोर्टेशन नहीं, कोई डुप्लिकेशन नहीं।
+
+ऊपर उठाने से पहले और बाद में समान आकार, आकार, ग्रिड पैटर्न और रंग बनाए रखें।
+
+दो चॉपस्टिक्स रखें, भोजन को भेदें नहीं, विकृत करें नहीं; उंगलियाँ सामान्य।
+
+वेटर केवल स्वाभाविक रूप से पास आता है और अवलोकन करता है, भोजन छीनता नहीं, समय से पहले चिल्लाता नहीं।
+
+कोई कट नहीं, कोई अचानक ज़ूम नहीं, कोई स्लो मोशन नहीं, कोई जोड़ नहीं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109674296809279488/img/EoN20k23H_nqxK7o.jpg" width="600" alt="रेस्तरां मेम वीडियो: जूते के तलवे जैसी सूखी टोफू">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12443)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109720765776162888) | **Published:** Oct 12, 2026
+
+---
+### यती बुलडॉग कॉर्वेट रिव्यू
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक मज़ेदार वीडियो प्रॉम्प्ट जिसमें यती नामक फ्रेंच बुलडॉग 1966 की कॉर्वेट कन्वर्टिबल का रिव्यू कर रहा है।
+
+#### 📝 Prompt
+
+```
+फ्रेंच बुलडॉग यती द्वारा 1966 की कॉर्वेट कन्वर्टिबल (मॉसपोर्ट ग्रीन रंग में) का कार रिव्यू ￼#frenchbulldog #corvette #dog #carreview
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109706028686200833/img/-oDD9GlXGFSTVJ2g.jpg" width="600" alt="यती बुलडॉग कॉर्वेट रिव्यू">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12440)**
+
+**Author:** [Howard Gilson](https://x.com/Howard4S) | **Source:** [Link](https://x.com/Howard4S/status/2109713321830371593) | **Published:** Oct 12, 2026
+
+---
+### Sam Elliott Cowboy Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sam Elliott को काउबॉय के रूप में घोड़े पर सवार और पशुओं का मार्गदर्शन करते हुए यथार्थवादी वीडियो उत्पन्न करने के लिए Grok Imagine के लिए एक विस्तृत प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+Sam Elliott का घोड़े पर सवार होकर मैदानों और रेगिस्तान में पशुओं के समूह का मार्गदर्शन करते हुए यथार्थवादी वीडियो। अंतिम दृश्य में कैमरा Sam की ओर घूमता है, वह मुस्कुराते हैं और अपने काउबॉय टोपी को झुकाते हैं। कोई संवाद नहीं, बस कंट्री म्यूजिक जोड़ें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109648300836093952/img/OtQcWmsSCkdf5cGR.jpg" width="600" alt="Sam Elliott Cowboy Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12438)**
+
+**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2109648322424164530) | **Published:** Oct 12, 2026
+
+---
+### नीयन महानगर के ऊपर एलियन UFO
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत सिनेमाई प्रॉम्प्ट जो गोधूलि के समय एक नीयन महानगर के ऊपर तैरते विशाल एलियन UFO का वर्णन करता है, जिसका उपयोग Grok Imagine की तुलना अन्य AI इमेज जनरेटर से करने के लिए किया जाता है।
+
+#### 📝 Prompt
+
+```
+गोधूलि के समय एक फैली हुई नीयन महानगर के ऊपर खतरनाक ढंग से तैरता हुआ विशाल अल्ट्रा हाई-टेक एलियन UFO, जिसका गहरा ऑब्सीडियन सॉसर हल चमकती हुई हथियार व्यवस्थाओं और कोणीय थ्रस्टर्स से भरा हुआ है, जबकि उसके कोर से धड़कती हुई ऊर्जा रिंगें फैल रही हैं और चेतावनी भरी लाल स्कैनिंग बीम नीचे की ओर कट रही हैं। 3D फ्यूचरिस्टिक CGI रेंडर, इलेक्ट्रिक सियान और मैजेंटा पैलेट के साथ गहरे वॉइड ब्लैक और चमकते हुए सफेद एक्सेंट्स, विषैली धुंध को चीरती हुई वॉल्यूमेट्रिक गॉड रेज़, प्रतिबिंबित धातुई सतहों और क्रैकलिंग ऊर्जा के साथ जटिल लेयर्ड डेप्थ। कॉलोसल स्केल पर जोर देने के लिए नाटकीय रूप से ऊपर उठता हुआ सिनेमाई लो-एंगल डॉली शॉट, सूक्ष्म लेंस फ्लेयर के साथ धीमी और सुगम घूमती हुई कैमरा मोशन।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109580352566030336/img/XVmzd3tzI-sDpCry.jpg" width="600" alt="नीयन महानगर के ऊपर एलियन UFO">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12445)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2109615817902129155) | **Published:** Oct 12, 2026
+
+---
+### ज़ॉम्बी डुओ डांस वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine का उपयोग करके 15 सेकंड के वर्टिकल हैलोवीन ज़ॉम्बी डुओ डांस वीडियो जनरेट करने के लिए एक विस्तृत प्रॉम्प्ट। इसमें डांसर की स्थिति पर सख्त प्रतिबंध, हॉरर मेकअप को रोकने के लिए एप्पीयरेंस लॉक और बीट के साथ सिंक किए गए विशिष्ट कैमरा ज़ूम निर्देश शामिल हैं।
+
+#### 📝 Prompt
+
+```
+15s Halloween Zombie Duo Dance | 9:16 Vertical | Two Dancers | Fixed Background | Fixed Camera | Beat-Synced Zoom & Close-Up | Horror Trap Hip-Hop
+
+MUSIC / ENERGY:
+An intense beat that kicks in suddenly right from the start, 155 BPM horror trap hip-hop. Hard drums, heavy bass, High speed, sharp accents, energetic and dynamic.
+
+ABSOLUTE LOCK:
+Exactly two dancers only. Dancer A always stays on the LEFT, Dancer B always stays on the RIGHT. Same faces, bodies, hairstyles, outfits, positions, background, lighting, colors, and shadows throughout. No swapping, no crossing places, no morphing, no extra dancers, no cuts. Background never changes.
+
+Zombie Dance (Top Priority):
+Both dancers extend their arms straight out in front at shoulder height, bend their wrists precisely 90 degrees downward, and spread their fingers naturally and straight, unleashing an incredibly fast, aggressive, and high-energy "zombie dance." The performance features a sequence of movements including rapid "zombie steps" with stiff legs, explosive shoulder actions, intense chest pops, sharp head movements, powerful knee lifts, wide-kneed squats, sudden lunges, and vigorous, rhythmic body shaking.
+
+Use DOUBLE-TIME footwork at 155 BPM, rapid acceleration, abrupt freezes, explosive restarts, and hard beat accents.
+Include some sections where both dancers perform different dance moves at the same time while keeping the permanent zombie arm pose.
+
+DUO DANCE RULE:
+This is a duo dance, but they must not be perfectly synchronized all the time.
+They move in the same overall rhythm, but with slight timing offsets, alternating accents, and different body actions.
+
+FINISH:
+The two of them strike a zombie pose, and the shot zooms in to a close-up of their eyes glowing red as they stare into the camera.
+
+APPEARANCE LOCK — ABSOLUTE PRIORITY:
+Preserve both dancers' original faces, natural skin tones, hairstyles, and makeup exactly as shown in the initial frame. No zombie makeup, horror makeup, corpse makeup, pale or gray skin, darkened eye sockets, facial discoloration, or grotesque facial effects. No blood, fake blood, bleeding, wounds, scars, bruises, or visible injuries. Express the zombie character exclusively through stiff body movements, unnatural head tilts, dragging steps, sharp shoulder hits, and eerie facial expressions. Do not alter either dancer's appearance throughout the video.
+
+CAMERA:
+Fixed frontal camera only. No camera movement, no pan, no tilt, no dolly.
+Use only fast beat-synced optical zoom-ins, snap zoom-outs, and brief punch-in close-up framing to create speed and impact while keeping the camera position fixed. Keep the same background at all times.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109605227141980160/img/fuYzaUPkPABjaSOE.jpg" width="600" alt="ज़ॉम्बी डुओ डांस वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12446)**
+
+**Author:** [SPLASH GIRLS@AI Image](https://x.com/splash_GL) | **Source:** [Link](https://x.com/splash_GL/status/2109615069470556358) | **Published:** Oct 12, 2026
+
+---
 ### काउगर्ल और काउबॉय बीच रेस सिल्हूट वीडियो प्रॉम्प्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -272,6 +622,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12379)**
 
 **Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109494015062110399) | **Published:** Oct 12, 2026
+
+---
+### Grok Imagine Video Prompt: जन्मदिन की नेल आर्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक छोटी बच्ची के नाखूनों पर जन्मदिन थीम के साथ पेंटिंग और एक एनिमेटेड मगरमच्छ को दर्शाने वाला वीडियो बनाने का प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+तीन साल की छोटी बच्ची अपने नाखूनों पर जन्मदिन थीम वाली पेंटिंग चाहती है। छोटे मगरमच्छ को जीवित बनाएं और इसे मूल रूप में ही रखें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109467396356333568/img/mxduTNzHpiJORZTu.jpg" width="600" alt="Grok Imagine Video Prompt: जन्मदिन की नेल आर्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12442)**
+
+**Author:** [Cole Adams](https://x.com/ColeAdams777) | **Source:** [Link](https://x.com/ColeAdams777/status/2109467582981976366) | **Published:** Oct 12, 2026
 
 ---
 ### एनिमेटेड सेल्फी प्रोमो वीडियो
@@ -2090,187 +2459,6 @@ E = mc2
 **Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2106479952854175852) | **Published:** Oct 3, 2026
 
 ---
-### Grok Imagine Video: सफेद लोहे की गज़ेबो और सूरजमुखी
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> हॉन्ग कॉन्ग के एक बगीचे में सफेद लोहे की गज़ेबो और सूरजमुखियों वाले दृश्य का विस्तृत वर्णनात्मक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-दोपहर की रोशनी पत्तियों के बीच से आती है।
-मंडप सफेद है और लोहे का बना है।
-
-सूरजमुखी बांहों में हैं।
-वे किसी के नहीं हैं।
-उन्हें नीचे रख दें?
-मंडप को वैसा ही छोड़ दें?
-
-हॉन्ग कॉन्ग का बगीचा, सफेद लोहे की गज़ेबो। निनिंग अपने बांहों में सूरजमुखी लिए खड़ी है। नारंगी घिंगम कपड़ा, घुटनों तक लंबा। दोपहर की छाया-धूप। पुराने ज़माने का दृश्य 7/8। फूल अब भी किसी के नहीं हैं। उन्हें नीचे रखें या ऐसे ही लिए चलते रहें?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106400590154891265/img/Df55A-c3GHwIJs-t.jpg" width="600" alt="Grok Imagine Video: सफेद लोहे की गज़ेबो और सूरजमुखी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11888)**
-
-**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2106400882380378147) | **Published:** Oct 3, 2026
-
----
-### Grok Imagine में मुर्गे के साथ नाश्ते का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत वीडियो प्रॉम्प्ट जिसमें एक मुर्गे को उठने और चिलाक्विलेस, रोटी और जूस जैसे पारंपरिक मेक्सिकन नाश्ते की चीज़ें खाने के लिए कहा जाता है।
-
-#### 📝 Prompt
-
-```
-मेरा मुर्गा 🐓 नाश्ता करने के लिए बिस्तर से उठो, मैंने तुम्हारे लिए बहुत सारी क्रीम और चीज़ के साथ चिलाक्विलेस बनाई हैं, गरम बोलिलो रोटी, संतरे का जूस, मैं तुमसे प्यार करता/करती हूँ 🐓🫀❤️💋
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106377661534867456/img/8b0Obu6ithmV6JEU.jpg" width="600" alt="Grok Imagine में मुर्गे के साथ नाश्ते का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11890)**
-
-**Author:** [Maria Ramirez 🐓🫀❤️💋🇺🇸🇲🇽](https://x.com/ra41387062) | **Source:** [Link](https://x.com/ra41387062/status/2106377674273042495) | **Published:** Oct 3, 2026
-
----
-### नेबुला IC 1590 से प्रेरित
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> नेबुला IC 1590 के रंगों और संरचना से प्रेरित एक प्रॉम्प्ट, जो आयनित हाइड्रोजन और ऑक्सीजन के रंगों पर केंद्रित है।
-
-#### 📝 Prompt
-
-```
-तीव्र लाल और नारंगी रंग विशाल आयनित हाइड्रोजन के बादलों से आते हैं, जो नेबुला के केंद्र में स्थित एक युवा, अत्यंत गर्म विशाल तारों के समूह (IC 1590) की अल्ट्रावायलेट विकिरण द्वारा प्रज्वलित होते हैं। ठंडे नीले-सियान रंग आयनित ऑक्सीजन को दर्शाते हैं, जो अंदरूनी हिस्से को एक भूतिया लालटेन की तरह चित्रित करते हैं। गहरे बोक ग्लोब्यूल्स — धूल और गैस के घने गुच्छे।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106324378883395584/img/_sie83VCeCzHFxbs.jpg" width="600" alt="नेबुला IC 1590 से प्रेरित">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11882)**
-
-**Author:** [Time Traveler](https://x.com/singularitymuse) | **Source:** [Link](https://x.com/singularitymuse/status/2106324981919433210) | **Published:** Oct 3, 2026
-
----
-### Grok Imagine VTuber टक्कर पोस्टर
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एक सिनेमाई VS टक्कर पोस्टर प्रॉम्प्ट जिसमें प्रतिद्वंद्वी VTubers Roa Tsukumo और Sakuna Yuuki के विस्तृत रूप वर्णन शामिल हैं।
-
-#### 📝 Prompt
-
-```
-दो प्रतिद्वंद्वी VTubers का एक सिनेमाई VS टक्कर पोस्टर: बाईं ओर पहले संदर्भ से Tsukumo Roa (नीले बाल, बिल्ली के कान, नीला-सफेद फ्रिल वाला परिधान, बैंगनी आँखें, जेलीफिश थीम) और दाईं ओर दूसरे संदर्भ से Yuuki Sakuna (गुलाबी बालों की चोटियाँ, कैट मेड...)
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106252891065581568/img/fSfnyfUoaaeT8LvL.jpg" width="600" alt="Grok Imagine VTuber टक्कर पोस्टर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11838)**
-
-**Author:** [ほてぷ🌙🪼☁️](https://x.com/hotepu_shio) | **Source:** [Link](https://x.com/hotepu_shio/status/2106252917145764123) | **Published:** Oct 3, 2026
-
----
-### चित्र में जादुई रंगों का संयोजन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्रॉम्प्ट जो चित्र को अगले स्तर पर ले जाने के लिए मैजेंटा और एक्वा ग्रीन रंगों को जोड़कर उसे बेहतर बनाता है।
-
-#### 📝 Prompt
-
-```
-इस चित्र को एक नए स्तर की उन्नति तक ले जाएं। इसमें मैजेंटा और बहुत अधिक एक्वा ग्रीन रंग शामिल करें....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106246984671633408/img/8k0Uuq6GwcFN9tiw.jpg" width="600" alt="चित्र में जादुई रंगों का संयोजन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11836)**
-
-**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106247004292845784) | **Published:** Oct 3, 2026
-
----
-### कॉपर ज्योमेट्रिक स्टैच्यू एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine का उपयोग करके एक कॉपर ज्योमेट्रिक स्टैच्यू के द्वारा जंगल को पोषण देते हुए एक एक्रेलिक-शैली एनिमेशन बनाने के लिए प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक सुंदर ज्योमेट्रिक स्टैच्यू जो कॉपर से बना है और जंगल को पोषण दे रहा है, इसे एनिमेशन स्टाइल के लिए एक्रेलिक बनाएं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106221437937659904/img/hqbXAewzsvAvamXq.jpg" width="600" alt="कॉपर ज्योमेट्रिक स्टैच्यू एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11835)**
-
-**Author:** [Legend](https://x.com/AtlasGalatic) | **Source:** [Link](https://x.com/AtlasGalatic/status/2106221457986797729) | **Published:** Oct 3, 2026
-
----
-### Elon Appreciating Grok Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक सीधा प्रॉम्प्ट: 'A nice video of Elon appreciating Grok'। यह एक वैध, हालांकि सरल, टेक्स्ट-टू-वीडियो प्रॉम्प्ट है।
-
-#### 📝 Prompt
-
-```
-A nice video of {argument name="subject" default="Elon"} appreciating {argument name="object" default="Grok"}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106184485418958848/img/TG2nHzYwhgww9Rjf.jpg" width="600" alt="Elon Appreciating Grok Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12031)**
-
-**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2106184521339302015) | **Published:** Oct 3, 2026
-
----
-### Dusty Bunny Whisper Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक एनिमेटेड डस्ट बनी कैरेक्टर के लिए विस्तृत प्रॉम्प्ट जो दर्शकों से बात कर रहा है।
-
-#### 📝 Prompt
-
-```
-एक धूल भरा खरगोश, जिसकी आवाज़ फुसफुसाहट जैसी है, टूटी हुई साँसों में दर्शकों को बताता है कि यहाँ सूखा, अंधेरा और सुंदर है, आओ आओ आओ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106178645421129728/img/t1Fc8STqNzLkz6Eg.jpg" width="600" alt="Dusty Bunny Whisper Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11881)**
-
-**Author:** [No No 😎](https://x.com/LynHunter1221) | **Source:** [Link](https://x.com/LynHunter1221/status/2106178661162569794) | **Published:** Oct 3, 2026
-
----
-### Grok Imagine डांस प्रपोजल सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक क्रिएटिव वीडियो प्रॉम्प्ट जिसमें Grok Imagine से एक सीन एनिमेट करने के लिए कहा गया है, जहाँ Elon Musk यूज़र को डांस करने के लिए कहते हैं, वे हँसते हुए डांस करते हैं, और फिर वह प्रपोज करता है।
-
-#### 📝 Prompt
-
-```
-@elonmusk 🦋🍒🧜🏽‍♀️
-
-add elon musk coming up to ask me to dance and us dancing laughing and then him proposing to me.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106171708944027648/img/v6Q-iWDCuENYUvRO.jpg" width="600" alt="Grok Imagine डांस प्रपोजल सीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11879)**
-
-**Author:** [Lauryn Taylor Hamilton](https://x.com/sweetbabylemon1) | **Source:** [Link](https://x.com/sweetbabylemon1/status/2106171730637304311) | **Published:** Oct 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2332,6 +2520,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-13T02:23:26.543Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-13T11:51:39.448Z</sub>
 
 </div>
