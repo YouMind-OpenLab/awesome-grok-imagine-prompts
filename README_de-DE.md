@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3068** |
+| 📝 Total Prompts | **3080** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-14** |
 
@@ -189,6 +189,216 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video-Prompt: Surreales Alien-Wesen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für Grok Imagine zur Erstellung eines surrealen Alien-Porträts mit verschmolzenen Oktopus-Köpfen und extremem peripherem Sehvermögen.
+
+#### 📝 Prompt
+
+```
+Ein surreales Porträt eines Alien-Wesens: zwei verschmolzene Oktopus-Köpfe, gestapelt. Der große obere Kopf hat riesige Augen, die weit nach links und rechts an die Ränder des Kopfes geschoben sind, um ein maximales peripheres Sichtfeld und nahezu keine blinden Flecken zu gewährleisten. Der kleinere untere Kopf...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110251076373123072/img/HmKuhwSIW54QI0qI.jpg" width="600" alt="Grok Imagine Video-Prompt: Surreales Alien-Wesen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12516)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2110251096585507200) | **Published:** Oct 14, 2026
+
+---
+### Synthwave-Musik-Prompt für Videos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Text-zu-Musik-Prompt, der speziell für die Erstellung eines cineastischen Synthwave-Tracks in Grok Imagine-Videos entwickelt wurde.
+
+#### 📝 Prompt
+
+```
+Cineastischer Synthwave mit einer eleganten futuristischen Note, treibendem Mid-Tempo-Puls, tiefem Analog-Bass, schimmernden arpeggierten Synthesizern, kraftvollen programmierten Drums und breiten atmosphärischen Pads. Glänzende Neon-Produktion mit dynamischen Aufbauten, klaren Transienten und einem kühlen, polierten Gefühl von Bewegung und nächtlicher Energie. Kein Gesang.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110242759021846528/img/09Esw6WtOawZaQv-.jpg" width="600" alt="Synthwave-Musik-Prompt für Videos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12509)**
+
+**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2110243164166443138) | **Published:** Oct 14, 2026
+
+---
+### Cybertruck Glitch-Tanz-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein surreales Video-Prompt, in dem eine Figur um einen Cybertruck tanzt und sich in digitale Pixel auflöst.
+
+#### 📝 Prompt
+
+```
+Sony tanzt um den Cybertruck und beginnt, sich in digitale Pixel aufzulösen. Sie erscheint und verschwindet wiederholt in einem zwei Sekunden langen Video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110229685757976577/img/Z09RlBKpl0S89xO9.jpg" width="600" alt="Cybertruck Glitch-Tanz-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12513)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2110229724962136221) | **Published:** Oct 14, 2026
+
+---
+### SpaceX Park Abenteuer-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein fantasievoller Prompt mit den Katzen Sir Crimson und Pearl in einem SpaceX New Earth Park Abenteuer.
+
+#### 📝 Prompt
+
+```
+„Die betenden Pfoten“ 🙏🐾🐾🦴🦴
+
+„Der SpaceX New Earth Park“
+Sir Crimson und seine Tochter Pearl... Auf zu einem großen Abenteuer 🐾🦴🎢🚀🍔
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110204669716807681/img/uySnLcPUlOQdFK9h.jpg" width="600" alt="SpaceX Park Abenteuer-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12514)**
+
+**Author:** [Restful_Path_777](https://x.com/Bchalk_777_777) | **Source:** [Link](https://x.com/Bchalk_777_777/status/2110204702314959303) | **Published:** Oct 14, 2026
+
+---
+### Retro-HK-Action-Komödien-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Video-Prompt, der eine Hongkonger Action-Komödie-Szene aus den 1990er-Jahren mit spezifischer Choreografie, Kameraführung und Charakterbeschreibungen nachstellt.
+
+#### 📝 Prompt
+
+```
+Thema & Charaktere: Eine Hongkonger Action-Komödien-Szene aus den 1990er-Jahren mit zwei Figuren:
+Ein intensiver männlicher Attentäter, gekleidet in ein Retro-Weißes Sakko, ein schwarz-weiß gestreiftes Unterhemd, eine schwarze Krawatte und fingerlose Handschuhe. Er hält eine schwarze Pistole mit abnehmbarem Schalldämpfer.
+Eine überraschte junge asiatische Frau mit kurzem schwarzem Bob, die ein leuchtend gelbes ärmelloses Top trägt.
+Schauplatz & Umgebung: Ein helles, minimalistisches Interieur, bestehend aus einem Badezimmer und einem Wohnbereich, getrennt durch eine gelbe Drehtür. Saubere Fliesenwände, kontrastreiche Beleuchtung und ein lebhaftes gelbes Farbschema.
+Ablauf & Bewegungssequenz:
+00:00 – 00:11: Dynamische Schnittwechsel zwischen dem Attentäter, der dramatisch seine schallgedämpfte Handfeuerwaffe anlegt, und der Frau, die lässig auf einer Toilette im angrenzenden Badebereich sitzt.
+00:12 – 00:25: Der Attentäter senkt seine Waffe leicht und drückt gegen die zentrale gelbe Drehtürwand, sodass sie sich öffnet.
+00:26 – 00:38: In komödiantischem Slapstick-Timing steht die Frau auf, als die gelbe Trennwand rotiert, und geht um die Drehtür herum in den angrenzenden Raum, während der Attentäter in den gerade verlassenen Bereich dreht – wodurch sie sich knapp nicht sehen.
+00:39 – 00:40: Die Frau betritt die Kabine von der anderen Seite und setzt sich wieder hin, genau in dem Moment, als der Attentäter sich umdreht und seine Waffe durch die offene Trennwand direkt auf sie richtet.
+Kameraführung & visueller Stil:
+Stil: 1990er-Jahre Hongkong-Retro-Action-Komödienfilm, filmisches Korn, gesättigte Gelb- und Weißtöne, scharfe Halbtotalen.
+Kamerabewegung: Schnelle Schnitte, Augenhöhe-Framing, stabile horizontale Schwenks, die der Rotation der Drehtür folgen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110187872741711872/img/5W-YTP4uiI1A7SFo.jpg" width="600" alt="Retro-HK-Action-Komödien-Szene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12512)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110187947819753643) | **Published:** Oct 14, 2026
+
+---
+### Dianmu-Göttin-Blitz-Video-Erweiterung
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Tweet, der einen Prompt zur Erstellung eines Bildes von Dianmu (Göttin des Blitzes) teilt und dieses mit Grok Imagine in ein 20-sekündiges Video umwandelt.
+
+#### 📝 Prompt
+
+```
+Dianmu, die Göttin, die angeblich den Blitz nach Belieben beherrscht; sie hält in jeder Hand einen blitzenden Spiegel. Bitte liefern Sie das Bild ohne jeglichen Text. ⚡
+```
+
+<img src="https://cms-assets.youmind.com/media/1791964071791_wfx44u_HUjh6uCa0AA-KwS.jpg" width="600" alt="Dianmu-Göttin-Blitz-Video-Erweiterung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12520)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2110184967989010876) | **Published:** Oct 14, 2026
+
+---
+### Grok Imagine Video-Prompt: Das Grok Blok Konzept
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Video-Prompt für Grok Imagine, der ein fiktives Gerät namens 'Grok Blok' entwirft, inspiriert von Apples HomeView und Teslas Cybertruck.
+
+#### 📝 Prompt
+
+```
+Basierend auf dem neuen Apple HomeView AI Siri Desktop-Bildschirm, erstellen Sie eine Grok-Version namens Grok Blok mit einem vom Cybertruck inspirierten Design @grok
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110173702524461056/img/pIY_MVbU6OnZm2tP.jpg" width="600" alt="Grok Imagine Video-Prompt: Das Grok Blok Konzept">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12515)**
+
+**Author:** [Heather](https://x.com/HeatherNSB) | **Source:** [Link](https://x.com/HeatherNSB/status/2110173727203934430) | **Published:** Oct 14, 2026
+
+---
+### Dinosaurier-Begegnung: Cinematische Sequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Multi-Shot-Video-Prompt, der eine angespannte Begegnung mit einem T-Rex-ähnlichen Raubtier in einer nebligen Dschungelkulisse darstellt.
+
+#### 📝 Prompt
+
+```
+0–3 s: Nahaufnahme von ihr, wie sie über den Baumstamm späht und flach atmet. Hinter ihr, unscharf im Hintergrund, taucht die Silhouette eines dunklen, gehörnten Dinosauriers aus dem Nebel auf.
+3–8 s: Langsamer Push-In, während ein riesiger, dunkelschuppiger T-Rex-ähnlicher Raubtier auf sie zukriecht; seine Krallen drücken sich in den Schlamm. Dampf strömt aus seinen Nasenlöchern und zieht durch den Nebel. Ihr Ausdruck wechselt von Angst zu Panik.
+8–11 s: Extreme Nahaufnahme ihres Gesichts: weit aufgerissene, tränenerfüllte Augen, zitternde Lippen, eine einzelne Träne, die über ihre schlammige Wange rollt, schnelle, flache Atemzüge.
+11–13 s: Weicher Dissolve-Übergang zu einer Über-die-Schulter-Aufnahme von hinten, wobei der Kopf des Dinosauriers bedrohlich nahe kommt.
+13–15 s: Der Dinosaurier erstarrt nur Zentimeter entfernt, öffnet dann sein Maul weit, zeigt Reihen von Zähnen und lässt ein ohrenbetäubendes Brüllen erklingen, während die Aufnahme hält.
+Audio: Tropfender Regen, ferne Dschungel-Geräusche, schwere Schritte mit tiefem Grollen, ihr keuchender Atem und ein lautes Brüllen am Ende.
+Negativ-Prompt: Cartoon-Look, zusätzliche Gliedmaßen, verzerrtes Gesicht, Text, Wasserzeichen, Unschärfe, niedrige Auflösung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110171669566488577/img/ez-SjniUA7QQCw12.jpg" width="600" alt="Dinosaurier-Begegnung: Cinematische Sequenz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12511)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110171733839999253) | **Published:** Oct 14, 2026
+
+---
+### Diane Thomas Joy High-Fashion-Anzug Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Erstellung eines Videos von Diane Thomas Joy in einem burgunderroten High-Fashion-Anzug, der die Community-Interaktion fördert.
+
+#### 📝 Prompt
+
+```
+Diane Thomas Joy trägt ein burgunderrotes High-Fashion-Kleid mit passenden Absätzen und modernen Accessoires und ermutigt die Community zu Engagement und Wachstum.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110151405088518144/img/K7Eqgw_s4X7Xsu0i.jpg" width="600" alt="Diane Thomas Joy High-Fashion-Anzug Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12517)**
+
+**Author:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **Source:** [Link](https://x.com/Thoma31928Joy/status/2110151441222606940) | **Published:** Oct 13, 2026
+
+---
+### Matrix-Digital-Rain-Loop-Animations-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein präziser Prompt zur Erstellung einer 15-sekündigen nahtlos loopenden Matrix-Digital-Regen-Animation, die mit einem exakten Bildrahmen beginnt und Farbpalette sowie Details beibehält.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie dieses genaue Bild als buchstäblichen ersten Rahmen einer 15-sekündigen nahtlos loopenden Matrix-Digital-Regen-Animation. Bewahren Sie das ursprüngliche Seitenverhältnis, die exakte Komposition, den schwarzen Hintergrund, die Smaragdgrüne Monospace-Ziffer „1“-Farbpalette und jedes Pixeldetail...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109962076194238464/img/gu5sGBAfLJZ1SDfg.jpg" width="600" alt="Matrix-Digital-Rain-Loop-Animations-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12519)**
+
+**Author:** [_](https://x.com/ONKiChan1) | **Source:** [Link](https://x.com/ONKiChan1/status/2109962140056740262) | **Published:** Oct 13, 2026
+
+---
 ### Grok Imagine Sydney Sweeney Unterwasser Neon Abenteuer Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -222,6 +432,27 @@ Kontinuität: Halte Sydney Sweeney in allen Aufnahmen erkennbar und visuell kons
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12439)**
 
 **Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2109874273607462953) | **Published:** Oct 13, 2026
+
+---
+### Praying Paws: Das große Abenteuer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein narrativer Prompt für ein simuliertes Ride-Video mit den Charakteren Sir Crimson und Daughter Pearl.
+
+#### 📝 Prompt
+
+```
+„The Praying Paws“ 🙏🐾🐾🦴🦴
+
+Simulierte Fahrt „Journey To Tomorrow“. Sir Crimson und Daughter Pearl... ein großes Abenteuer 🐾🦴🌎🪐
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109809737550233600/img/cz-YyApO3SbQ8arG.jpg" width="600" alt="Praying Paws: Das große Abenteuer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12510)**
+
+**Author:** [Restful_Path_777](https://x.com/Bchalk_777_777) | **Source:** [Link](https://x.com/Bchalk_777_777/status/2109809814293598376) | **Published:** Oct 13, 2026
 
 ---
 ### Body-Horror-Gym-Workout-Video
@@ -569,6 +800,25 @@ Verwende nur schnelle, beat-synchrone optische Zoom-ins, Snap-Zoom-outs und kurz
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12446)**
 
 **Author:** [SPLASH GIRLS@AI Image](https://x.com/splash_GL) | **Source:** [Link](https://x.com/splash_GL/status/2109615069470556358) | **Published:** Oct 12, 2026
+
+---
+### Mond-Achterbahn POV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer First-Person-Video-Prompt einer Achterbahnfahrt, die auf der Oberfläche des Mondes beginnt.
+
+#### 📝 Prompt
+
+```
+Cinematic POV: Eine aufregende First-Person-Achterbahnfahrt beginnt auf der öden Oberfläche des Mondes, schwebend über der unendlichen Dunkelheit des Weltraums. Die Kamera nähert sich langsam dem Rand einer unmöglich steilen Strecke, bevor sie in eine...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109587925340131328/img/uyDrinJwjJgcnZZy.jpg" width="600" alt="Mond-Achterbahn POV">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12518)**
+
+**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2109587970412212342) | **Published:** Oct 12, 2026
 
 ---
 ### Cowgirl Cowboy Beach Race Silhouette Video Prompt
@@ -2233,255 +2483,6 @@ Das weiße Laken befindet sich mitten in der Bewegung, weich und fließend, aber
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106929145942831576) | **Published:** Oct 5, 2026
 
 ---
-### Konzert-Tanzperformance-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Animation einer tanzenden Frau auf der Bühne, einschließlich Kamerabewegungen, Beleuchtung, Musik-Synchronisation und negativen Einschränkungen.
-
-#### 📝 Prompt
-
-```
-Behalte die exakt gleiche Frau, ihr Gesicht, ihre Frisur, ihr Outfit, ihre Körperproportionen, ihre Stiefel, die Bühne, die Beleuchtung, den Kamerawinkel und das Konzertumfeld aus dem Referenzbild bei. Animiere sie so, dass sie einen energischen, anmutigen Tanz natürlich auf der Bühne aufführt. Sie beginnt mit derselben Pose, bewegt dann ihre Arme flüssig im Rhythmus, schwingt ihre Hüften, macht einige selbstbewusste Tanzschritte, dreht sich leicht und endet mit einer fröhlichen Pose. Ihr langes rotes Haar bewegt sich natürlich beim Tanzen. Füge realistische Gesichtsausdrücke und ein glückliches Lächeln hinzu. Purpurfarbene und weiße Konzert-Spotlights pulsieren sanft im Takt der Musik, mit subtiler Bühnennebelwirkung und Hintergrund-Bokeh. Die Kamera führt eine sanfte kinematografische langsame Zoom-Bewegung (Push-In) mit leichter Handheld-Konzertbewegung durch. Realistische menschliche Bewegung, natürliche Anatomie, präzise Hände und Füße, keine Verzerrung, keine zusätzlichen Gliedmaßen, keine Outfitwechsel. Upbeat-Pop-Tanzmusik mit einem eingängigen Beat, energiegeladenen Drums, Bass und hellen Synths, perfekt synchronisiert mit ihren Bewegungen. Halte die Szene visuell konsistent von Anfang bis Ende, kinematografisch, in hoher Qualität, als realistische Konzertperformance.
-
-Negativer Prompt:
-
-Keine Gesichtsänderung, keine Identitätsänderung, keine Kleidungänderung, keine zusätzlichen Finger, keine zusätzlichen Arme oder Beine, keine Körperverzerrung, keine verzerrten Hände, keine unnatürliche Bewegung, keine Kamerafehler, keine Hintergrundänderungen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106913169654579200/img/fGfZHh9uego_T3hm.jpg" width="600" alt="Konzert-Tanzperformance-Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11966)**
-
-**Author:** [CanineTrace](https://x.com/CanineTrace) | **Source:** [Link](https://x.com/CanineTrace/status/2106913197534097519) | **Published:** Oct 5, 2026
-
----
-### Grok Imagine Prompt: Morgentee und Kolibri-Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt für Grok Imagine, der eine friedliche Morgenszene mit Sonnenlicht, Tee und einem Kolibri darstellt.
-
-#### 📝 Prompt
-
-```
-Morgensonne scheint ins Fenster Sonnenlicht auf Holztisch Tasse Tee leicht dampfend Kolibri am Futterspender draußen vor dem Fenster
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106800046796861440/img/IhQAx6n9BRdmBWTB.jpg" width="600" alt="Grok Imagine Prompt: Morgentee und Kolibri-Szene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11969)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106800094381224248) | **Published:** Oct 4, 2026
-
----
-### Chihuahua-Porträt-Bearbeitungs-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Bildbearbeitungs-Prompt für Grok Imagine, um ein Foto von zwei Chihuahuas in ein vertikales Porträt zu verwandeln und dabei spezifische Details beizubehalten.
-
-#### 📝 Prompt
-
-```
-Bearbeite dieses Foto in ein schönes vertikales Porträt der beiden Chihuahuas namens Tatiana und Scout. Behalte ihr exaktes Aussehen, ihre Fellzeichnung und das blaue Geschirr des langhaarigen Hundes bei. Betone ihr langes Fell und ihre kurzen Nasen. Verbessere die Schärfe, das Licht...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106770205540012032/img/q0jfCf8EPL9yqan2.jpg" width="600" alt="Chihuahua-Porträt-Bearbeitungs-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11967)**
-
-**Author:** [soundmoney Delilah](https://x.com/Rhonda08936681) | **Source:** [Link](https://x.com/Rhonda08936681/status/2106770233109430427) | **Published:** Oct 4, 2026
-
----
-### Visuelle Darstellung der initialen Singularität und E=mc²
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer Prompt, der eine visuelle Darstellung der initialen Singularität im Kontrast zum abkühlenden Universum und Einsteins Theorie E=mc² anfordert, ohne Text im Bild.
-
-#### 📝 Prompt
-
-```
-Erstelle für mich, wie die "Initiale Singularität" ausgesehen haben könnte, und stelle dies im Kontrast zur Abkühlung des Universums dar, als sich Energie in Materie kondensierte.
-
-Präsentiere mir ein Bild von Einsteins Theorie:
-
-E = mc²
-
-Kein Text auf dem Bild Grok
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106744445634846720/img/Cq8Pri7VKLuyv2dH.jpg" width="600" alt="Visuelle Darstellung der initialen Singularität und E=mc²">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11964)**
-
-**Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2106744503788880314) | **Published:** Oct 4, 2026
-
----
-### Grok Imagine Video: Hongkonger Eisraum-Szene
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter narrativer Prompt, der eine Szene in einem Hongkonger Eisraum beschreibt, mit spezifischen Hinweisen zu Beleuchtung, Kostüm und Aktionen für die Videogenerierung.
-
-#### 📝 Prompt
-
-```
-Der Nachmittag im Eisraum ist ruhiger als die Nacht.
-Der Vorhang ist rot. Beide Hände sind auf dieser Seite.
-
-Die Blume ist kein Strauß.
-Eine Blüte am Ohr.
-Hindurchgehen?
-Den Vorhang zurückziehen?
-
-Herbstnachmittag, Hongkonger Eisraum. Ningning schiebt den roten Perlenvorhang mit beiden Händen beiseite. Eine Blume an ihrem Ohr. Ein blau-weißes geblümtes Cheongsam. Wolframlicht und ein gemusterter Boden. Altmodische Kulisse 8/8, Ende der Saison. Hat noch nicht die andere Seite betreten. Wird sie hindurchgehen oder den Vorhang zurückziehen?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106576093285412865/img/i8XgzcTRiwWMPzCo.jpg" width="600" alt="Grok Imagine Video: Hongkonger Eisraum-Szene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11889)**
-
-**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2106581609420136856) | **Published:** Oct 4, 2026
-
----
-### Bibelvers als Kino-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung einer kinoreifen Video-Visualisierung von Genesis 12:3 mit Grok Imagine.
-
-#### 📝 Prompt
-
-```
-◄ Genesis 12:3 ► Bibel ✡️✝️
-Ich will die segnen, die dich segnen; und wer dir flucht, den will ich verfluchen. Und in dir sollen alle Geschlechter der Erde gesegnet werden.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106577081228308480/img/7YxYNCgp4OZC4OqR.jpg" width="600" alt="Bibelvers als Kino-Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11891)**
-
-**Author:** [Grégory Schouwey](https://x.com/GregorySchouwey) | **Source:** [Link](https://x.com/GregorySchouwey/status/2106577099066597753) | **Published:** Oct 4, 2026
-
----
-### Garten-Tour-Video mit Musik
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der Fotos eines Gartenspaziergangs in ein Tour-Video mit angenehmer Hintergrundmusik verwandelt.
-
-#### 📝 Prompt
-
-```
-Bitte macht daraus ein Garten-Tour-Video mit angenehmer Hintergrundmusik (So schön! Grok Imagine hat das aus meinen Fotos vom heutigen Gartenspaziergang erstellt 💕)
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106561259499905024/img/b_PJ0xiNJ0Qqs6pw.jpg" width="600" alt="Garten-Tour-Video mit Musik">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11883)**
-
-**Author:** [Kathleen Higney](https://x.com/krhigney) | **Source:** [Link](https://x.com/krhigney/status/2106561283978149888) | **Published:** Oct 4, 2026
-
----
-### Kinematische Feuerzeug-Animation mit rotem Panda
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine 8-sekündige kinematische Loop-Animation mit einem asiatischen Mann, der ein Zippo-Feuerzeug hält, auf dessen Oberseite ein rotes Panda-Feuer speit.
-
-#### 📝 Prompt
-
-```
-Animieren Sie dieses Standbild als 8-sekündigen, flüssigen kinematischen Loop. Der asiatische Mann hält das geöffnete schwarze Zippo ruhig, den Daumen auf dem Deckel. Der kleine rote Panda in der lila BAD RUDY Mütze sitzt auf dem Klappdeckel, sein Maul ist offen und er speit einen kurzen, kontrollierten Strahl orangefarbenes Feuer, der flackert und zu einer kleinen Flamme am Docht des Feuerzeugs zurücksinkt. Seine glühenden orangen Augen blinzeln einmal. Glutpartikel treiben durch die Luft. Das Grinsen des Mannes verändert sich minimal, eine Augenbraue hebt sich kurz und senkt sich wieder. Die Tattoos auf seinem Unterarm bleiben unbewegt. Die lila Leiterplatte hinter ihm pulsiert einmal langsam. Keine Kamerabewegung. Keine zusätzlichen Charaktere. Sound: Klick des Zündrads, leises Flammenrauschen, ein ruhiges Ausatmen.
-```
-
-<img src="https://cms-assets.youmind.com/media/1791187394588_vcalam_HTv9L14WoAAGXEj.jpg" width="600" alt="Kinematische Feuerzeug-Animation mit rotem Panda">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11884)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106555887510798663) | **Published:** Oct 4, 2026
-
----
-### Silber-Eichenwald mit tanzenden Blütenblättern
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Naturvideo-Prompt, der einen Eichenwald mit silbern geränderten Blättern zeigt, sowie Tulpen, Iris und Schmetterlinge, die Blütenblätter wie Flammen tanzen lassen.
-
-#### 📝 Prompt
-
-```
-Eichenwald mit silbern schwarz geränderten Blättern grüne Wiese Blumen Tulpen und Iris farbige Blütenblätter tanzen wie kleine Flammen Schmetterlinge mit silbernen filigranen Flügeln lassen die Blütenblätter wie eine Flamme tanzen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106531421787668480/img/GoD_yQIs0Xn_A389.jpg" width="600" alt="Silber-Eichenwald mit tanzenden Blütenblättern">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11886)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106531550955467188) | **Published:** Oct 3, 2026
-
----
-### Winterliche Holzsuche im Kino-Stil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt für Grok Imagine, der einen Mann zeigt, der im Winter nach trockenen Holzstücken sucht.
-
-#### 📝 Prompt
-
-```
-Erstelle ein Video von ihm, wie er trockene Holzstücke für sein Zuhause sucht. Er versucht, sich im Winter warm zu halten. Es scheint, als würde er mit sich selbst sprechen. Besorgt darüber, nicht genug Holz für seinen Kamin zu finden. Cinematic. #gay
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106510135665602560/img/MCV1Cn_hDOUZP6nQ.jpg" width="600" alt="Winterliche Holzsuche im Kino-Stil">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11885)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2106510188555739208) | **Published:** Oct 3, 2026
-
----
-### Renaissance-Szene: Jungfrau auf einer zerbrochenen Brücke
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer Prompt, der eine von einem Ritter über eine zerbrochene Brücke getragene Jungfrau bei Nacht im Renaissance-Stil beschreibt, mit poetischem Kontext zu ihrem Zustand.
-
-#### 📝 Prompt
-
-```
-Erstelle ein Bild bei Nacht, das den Schein des Mondes einfängt, während eine Jungfrau über eine zerbrochene Brücke getragen wird, im Stil der Renaissance.
-
-Es geht ihr gut. Sie ist nur an ihrem äußeren Ego verletzt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106500631376637952/img/MOie2iQKAJmt5gKv.jpg" width="600" alt="Renaissance-Szene: Jungfrau auf einer zerbrochenen Brücke">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11880)**
-
-**Author:** [Maria Of Mars](https://x.com/MariaGa68521784) | **Source:** [Link](https://x.com/MariaGa68521784/status/2106500646828454036) | **Published:** Oct 3, 2026
-
----
-### Animate Men Reference Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Expliziter Prompt zur Animation von zwei Männern aus einem Referenzbild mit Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Animieren Sie die beiden erwachsenen Männer exakt so, wie sie im Referenzbild erscheinen. Behalten Sie ihre Gesichter, Körper, Frisuren, Krone, blauen Hüftwickel, cremefarbenes und gol...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106479923443736576/img/aqtm94aeuHLxz0p-.jpg" width="600" alt="Animate Men Reference Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11887)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2106479952854175852) | **Published:** Oct 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2543,6 +2544,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-14T04:46:15.080Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-14T13:48:44.422Z</sub>
 
 </div>

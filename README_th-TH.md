@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3068** |
+| 📝 Total Prompts | **3080** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-14** |
 
@@ -189,6 +189,216 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video Prompt: สิ่งมีชีวิตต่างดาวเหนือจริง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แบบละเอียดสำหรับ Grok Imagine ในการสร้างภาพพอร์ตเทรตสิ่งมีชีวิตต่างดาวเหนือจริงที่มีหัวปลาหมึกยักษ์เชื่อมติดกันและคุณสมบัติการมองเห็นรอบข้างขั้นสุด
+
+#### 📝 Prompt
+
+```
+ภาพพอร์ตเทรตสิ่งมีชีวิตต่างดาวเหนือจริง: หัวปลาหมึกยักษ์สองหัวที่เชื่อมติดกันซ้อนทับ โดยหัวบนขนาดใหญ่มีดวงตาขนาดมหึมาที่ถูกดันไปจนชิดขอบซ้ายและขวาของศีรษะมากที่สุดเพื่อเพิ่มการมองเห็นรอบข้างให้สูงสุดและแทบไม่มีจุดบอด ส่วนหัวล่างขนาดเล็ก...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110251076373123072/img/HmKuhwSIW54QI0qI.jpg" width="600" alt="Grok Imagine Video Prompt: สิ่งมีชีวิตต่างดาวเหนือจริง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12516)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2110251096585507200) | **Published:** Oct 14, 2026
+
+---
+### พรอมต์เพลง Synthwave สำหรับวิดีโอ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ข้อความ-to-เสียงที่ออกแบบอย่างละเอียดสำหรับใช้งานใน Grok Imagine videos เพื่อสร้างเพลง synthwave แนวภาพยนตร์
+
+#### 📝 Prompt
+
+```
+Synthwave แนวภาพยนตร์ที่มีสไตล์ล้ำสมัยและโฉบเฉี่ยว จังหวะกลางที่ขับเคลื่อนด้วยเบสแบบอะนาล็อกลึก เสียงซินธ์อาร์เปจโจระยิบระยับ กลองโปรแกรมที่หนักแน่น และแพดบรรยากาศกว้าง การผลิตแบบนีออนเงางามพร้อมการค่อยๆ เพิ่มความเข้มข้นที่ไดนามิก ทรานเซียนต์ที่คมชัด และความรู้สึกของการเคลื่อนไหวและพลังงานยามราตรีที่เย็นและขัดเงา ไม่มีเสียงร้อง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110242759021846528/img/09Esw6WtOawZaQv-.jpg" width="600" alt="พรอมต์เพลง Synthwave สำหรับวิดีโอ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12509)**
+
+**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2110243164166443138) | **Published:** Oct 14, 2026
+
+---
+### วิดีโอเต้นแบบกลิตช์ของ Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์เหนือจริงที่ตัวละครเต้นรอบ Cybertruck และเกิดอาการกลิตช์กลายเป็นพิกเซลดิจิทัล
+
+#### 📝 Prompt
+
+```
+Sony เต้นรอบ Cybertruck แล้วเริ่มเกิดอาการกลิตช์กลายเป็นพิกเซลดิจิทัล โดยปรากฏและหายไปภายในวิดีโอความยาว 2 วินาที
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110229685757976577/img/Z09RlBKpl0S89xO9.jpg" width="600" alt="วิดีโอเต้นแบบกลิตช์ของ Cybertruck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12513)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2110229724962136221) | **Published:** Oct 14, 2026
+
+---
+### Prompt การผจญภัยใน SpaceX Park
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt สนุกสนานเกี่ยวกับแมวชื่อ Sir Crimson และ Pearl ในการผจญภัยที่ SpaceX New Earth Park
+
+#### 📝 Prompt
+
+```
+"อุ้งเท้าสวดมนต์" 🙏🐾🐾🦴🦴
+
+"SpaceX New Earth Park"
+Sir Crimson และลูกสาว Pearl... ออกไปผจญภัยครั้งใหญ่กันเถอะ 🐾🦴🎢🚀🍔
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110204669716807681/img/uySnLcPUlOQdFK9h.jpg" width="600" alt="Prompt การผจญภัยใน SpaceX Park">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12514)**
+
+**Author:** [Restful_Path_777](https://x.com/Bchalk_777_777) | **Source:** [Link](https://x.com/Bchalk_777_777/status/2110204702314959303) | **Published:** Oct 14, 2026
+
+---
+### ฉากแอ็กชันคอมเมดี้สไตล์ย้อนยุคของฮ่องกง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอที่ละเอียดสูงเพื่อสร้างฉากแอ็กชันคอมเมดี้สไตล์ฮ่องกงยุค 90 ขึ้นใหม่ โดยมีการออกแบบท่าเต้น การถ่ายทำ และคำอธิบายตัวละครอย่างเฉพาะเจาะจง
+
+#### 📝 Prompt
+
+```
+ตัวละครและฉาก: ฉากแอ็กชันคอมเมดี้สไตล์ฮ่องกงยุค 90 ที่มีตัวละครสองตัว:
+นักฆ่าชายผู้ดุดัน สวมเสื้อสูทสีขาวสไตล์ย้อนยุค เสื้อกล้ามลายทางขาวดำ เนคไทสีดำ และถุงมือแบบไม่มีนิ้ว ถือปืนพกสีดำพร้อมติดอุปกรณ์ลดเสียง
+หญิงสาวเอเชียวัยเยาว์ที่ดูประหลาดใจ ผมสั้นบ๊อบสีดำ สวมเสื้อแขนกุดสีเหลืองสดใส
+สถานที่และสภาพแวดล้อม: พื้นที่ภายในที่สว่างและเรียบง่าย ประกอบด้วยห้องน้ำและห้องนั่งเล่นที่กั้นด้วยประตูหมุนสีเหลือง กำแพงปูกระเบื้องสะอาด แสงคอนทราสต์สูง และโทนสีเหลืองสดใส
+ลำดับการเคลื่อนไหว:
+00:00 – 00:11: ตัดสลับภาพอย่างรวดเร็วระหว่างนักฆ่าที่ยกปืนขึ้นเล็งอย่างดราม่า กับหญิงสาวที่นั่งสบายๆ บนโถสุขภัณฑ์ในห้องน้ำข้างเคียง
+00:12 – 00:25: นักฆ่าลดอาวุธลงเล็กน้อยแล้วดันกำแพงกั้นหมุนสีเหลืองตรงกลาง ทำให้มันเปิดออก
+00:26 – 00:38: ด้วยจังหวะตลกแบบ slapstick ขณะที่กำแพงกั้นสีเหลืองหมุน หญิงสาวลุกขึ้นเดินอ้อมประตูหมุนไปยังห้องถัดไป ในขณะที่นักฆ่าหมุนเข้าไปในพื้นที่ที่เธอเพิ่งจากมา—ทำให้ทั้งสองเกือบไม่ได้เห็นหน้ากัน
+00:39 – 00:40: หญิงสาวเข้าห้องน้ำจากอีกด้านหนึ่งและนั่งลงอีกครั้ง ทันทีที่นักฆ่าหันกลับมายิงปืนผ่านช่องว่างที่เปิดอยู่ตรงไปที่เธอ
+เทคนิคการถ่ายทำและสไตล์ภาพ:
+สไตล์: ภาพยนตร์แอ็กชันคอมเมดี้สไตล์ย้อนยุคของฮ่องกงยุค 90 มีเกรนฟิล์มแบบภาพยนตร์ โทนสีเหลืองและขาวอิ่มตัว ช็อตขนาดกลางที่คมชัด
+การเคลื่อนกล้อง: ตัดเร็ว กรอบระดับสายตา แพนแนวนอนอย่างมั่นคงตามการหมุนของกำแพง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110187872741711872/img/5W-YTP4uiI1A7SFo.jpg" width="600" alt="ฉากแอ็กชันคอมเมดี้สไตล์ย้อนยุคของฮ่องกง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12512)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110187947819753643) | **Published:** Oct 14, 2026
+
+---
+### ส่วนขยายวิดีโอสายฟ้าเทพีเตี้ยนหมู่ Dianmu Goddess Lightning Video Extension
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> โพสต์แชร์พรอมต์สำหรับสร้างภาพเทพีเตี้ยนหมู่ (เทพแห่งสายฟ้า) และขยายเป็นวิดีโอความยาว 20 วินาทีโดยใช้ Grok Imagine
+
+#### 📝 Prompt
+
+```
+เตี้ยนหมู่ เทพีผู้ควบคุมสายฟ้าได้ตามใจปรารถนา เธอถือกระจกเรืองแสงในมือทั้งสองข้าง กรุณาสร้างภาพโดยไม่มีข้อความใดๆ ⚡
+```
+
+<img src="https://cms-assets.youmind.com/media/1791964071791_wfx44u_HUjh6uCa0AA-KwS.jpg" width="600" alt="ส่วนขยายวิดีโอสายฟ้าเทพีเตี้ยนหมู่ Dianmu Goddess Lightning Video Extension">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12520)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2110184967989010876) | **Published:** Oct 14, 2026
+
+---
+### Grok Imagine Video Prompt: แนวคิด Grok Blok
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงสร้างสรรค์สำหรับ Grok Imagine ในการออกแบบอุปกรณ์สมมติชื่อ 'Grok Blok' โดยได้รับแรงบันดาลใจจาก Apple HomeView และ Tesla Cybertruck
+
+#### 📝 Prompt
+
+```
+อ้างอิงจากหน้าจอตั้งโต๊ะ AI Siri ของ Apple HomeView รุ่นใหม่ ให้สร้างเวอร์ชันของ Grok ในชื่อ Grok Blok พร้อมดีไซน์ที่ได้รับแรงบันดาลใจจาก Cybertruck @grok
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110173702524461056/img/pIY_MVbU6OnZm2tP.jpg" width="600" alt="Grok Imagine Video Prompt: แนวคิด Grok Blok">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12515)**
+
+**Author:** [Heather](https://x.com/HeatherNSB) | **Source:** [Link](https://x.com/HeatherNSB/status/2110173727203934430) | **Published:** Oct 14, 2026
+
+---
+### ลำดับฉากภาพยนตร์การเผชิญหน้ากับไดโนเสาร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอหลายช็อตแบบละเอียดที่บรรยายการเผชิญหน้าสุดตึงเครียดกับนักล่าคล้ายทีเร็กซ์ในป่าหมอก
+
+#### 📝 Prompt
+
+```
+0-3 วินาที: ภาพโคลสอัพของเธอชะโงกมองข้ามท่อนไม้ หายใจแผ่วเบา ด้านหลังเธอ ในระยะโฟกัสที่ไม่ชัดเจน เงาของไดโนเสาร์มีเขาตัวหนึ่งปรากฏขึ้นจากหมอก
+3-8 วินาที: กล้องค่อยๆ เลื่อนเข้าใกล้ (Slow push-in) ขณะนักล่าขนาดใหญ่คล้ายทีเร็กซ์ที่มีเกล็ดสีเข้มย่องเข้าหาเธอ กรงเล็บกดลงบนโคลน ไอน้ำพุ่งออกจากรูจมูกและลอยผ่านหมอก สีหน้าของเธอเปลี่ยนจากความกลัวเป็นความตื่นตระหนก
+8-11 วินาที: ภาพโคลสอัพสุดขีดที่ใบหน้าของเธอ: ดวงตากว้างเต็มไปด้วยน้ำตา ริมฝีปากสั่นระริก น้ำตาไหลลงมาตามแก้มเปื้อนโคลน หายใจถี่และสั้น
+11-13 วินาที: การตัดภาพแบบละลาย (Soft dissolve) ไปยังมุมมองจากด้านหลังไหล่ของเธอ (Over-the-shoulder shot) โดยหัวไดโนเสาร์อยู่ใกล้เข้ามา
+13-15 วินาที: ไดโนเสาร์หยุดนิ่งในระยะไม่กี่นิ้ว จากนั้นอ้าปากกว้างเผยให้เห็นแถวฟัน และคำรามเสียงดังสนั่นขณะที่กล้องค้างภาพไว้
+เสียงประกอบ: เสียงหยดฝน บรรยากาศป่าจากระยะไกล เสียงเท้าหนักพร้อมเสียงครืนต่ำ เสียงหายใจหอบของเธอ และเสียงคำรามดังสนั่นตอนท้าย
+Negative prompt: ลุคการ์ตูน, แขนขาเกิน, ใบหน้าบิดเบี้ยว, ข้อความ, ลายน้ำ, ภาพเบลอ, ความละเอียดต่ำ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110171669566488577/img/ez-SjniUA7QQCw12.jpg" width="600" alt="ลำดับฉากภาพยนตร์การเผชิญหน้ากับไดโนเสาร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12511)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110171733839999253) | **Published:** Oct 14, 2026
+
+---
+### พรอมต์ชุดสูทแฟชั่นของ Diane Thomas Joy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แบบละเอียดสำหรับการสร้างวิดีโอของ Diane Thomas Joy ในชุดสูทแฟชั่นระดับไฮเอนด์สีเบอร์กันดี พร้อมส่งเสริมการมีส่วนร่วมของชุมชน
+
+#### 📝 Prompt
+
+```
+Diane Thomas Joy สวมชุดเดรสสูทแฟชั่นระดับไฮเอนด์สีเบอร์กันดี จับคู่กับรองเท้าส้นสูงและเครื่องประดับสมัยใหม่ เพื่อส่งเสริมให้ชุมชนมีปฏิสัมพันธ์และเติบโตอย่างแข็งแกร่ง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110151405088518144/img/K7Eqgw_s4X7Xsu0i.jpg" width="600" alt="พรอมต์ชุดสูทแฟชั่นของ Diane Thomas Joy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12517)**
+
+**Author:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **Source:** [Link](https://x.com/Thoma31928Joy/status/2110151441222606940) | **Published:** Oct 13, 2026
+
+---
+### พรอมต์สำหรับสร้างภาพเคลื่อนไหวแบบวนซ้ำของสายฝนดิจิทัลสไตล์ Matrix
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่แม่นยำสำหรับการสร้างภาพเคลื่อนไหวแบบวนซ้ำต่อเนื่อง 15 วินาที ของสายฝนดิจิทัลสไตล์ Matrix โดยเริ่มจากเฟรมภาพที่กำหนดอย่างชัดเจน พร้อมคงโทนสีและรายละเอียดไว้ครบถ้วน
+
+#### 📝 Prompt
+
+```
+ใช้ภาพนี้โดยตรงเป็นเฟรมแรกของภาพเคลื่อนไหวแบบวนซ้ำต่อเนื่อง 15 วินาที ของสายฝนดิจิทัลสไตล์ Matrix คงอัตราส่วนภาพเดิม องค์ประกอบที่ถูกต้อง พื้นหลังสีดำ โทนสีเลข “1” แบบ monospaced สีเขียวมรกต และรายละเอียดทุกพิกเซลไว้...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109962076194238464/img/gu5sGBAfLJZ1SDfg.jpg" width="600" alt="พรอมต์สำหรับสร้างภาพเคลื่อนไหวแบบวนซ้ำของสายฝนดิจิทัลสไตล์ Matrix">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12519)**
+
+**Author:** [_](https://x.com/ONKiChan1) | **Source:** [Link](https://x.com/ONKiChan1/status/2109962140056740262) | **Published:** Oct 13, 2026
+
+---
 ### พรอมต์วิดีโอ Grok Imagine: การผจญภัยนีออนใต้ทะเลของ Sydney Sweeney
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -222,6 +432,27 @@ AI Video Prompt — การผจญภัยนีออนใต้ทะเ
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12439)**
 
 **Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2109874273607462953) | **Published:** Oct 13, 2026
+
+---
+### การผจญภัยบนหลังของ Praying Paws
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สไตล์เล่าเรื่องสำหรับวิดีโอจำลองการเดินทางที่มีตัวละครชื่อ Sir Crimson และ Daughter Pearl
+
+#### 📝 Prompt
+
+```
+“Praying Paws” 🙏🐾🐾🦴🦴
+
+“ Journey To Tomorrow” วิดีโอจำลองการเดินทาง Sir Crimson และ Daughter Pearl... การผจญภัยครั้งใหญ่ 🐾🦴🌎🪐
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109809737550233600/img/cz-YyApO3SbQ8arG.jpg" width="600" alt="การผจญภัยบนหลังของ Praying Paws">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12510)**
+
+**Author:** [Restful_Path_777](https://x.com/Bchalk_777_777) | **Source:** [Link](https://x.com/Bchalk_777_777/status/2109809814293598376) | **Published:** Oct 13, 2026
 
 ---
 ### วิดีโอออกกำลังกายยิมสไตล์ Body Horror
@@ -569,6 +800,25 @@ APPEARANCE LOCK — ลำดับความสำคัญสัมบูร
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12446)**
 
 **Author:** [SPLASH GIRLS@AI Image](https://x.com/splash_GL) | **Source:** [Link](https://x.com/splash_GL/status/2109615069470556358) | **Published:** Oct 12, 2026
+
+---
+### มุมมองรถไฟเหาะพระจันทร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอแบบมุมมองบุคคลที่หนึ่ง (POV) สไตล์ภาพยนตร์ สำหรับเครื่องเล่นรถไฟเหาะที่เริ่มต้นจากพื้นผิวของดวงจันทร์
+
+#### 📝 Prompt
+
+```
+Cinematic POV: การนั่งรถไฟเหาะแบบบุคคลที่หนึ่งที่น่าตื่นเต้นเร้าใจ เริ่มต้นบนพื้นผิวอันรกร้างของดวงจันทร์ ลอยอยู่เหนือความมืดมิดไร้ขอบเขตของอวกาศ กล้องค่อยๆ เคลื่อนเข้าใกล้ขอบรางที่ลาดชันอย่างเหลือเชื่อ ก่อนที่จะดิ่งลง...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109587925340131328/img/uyDrinJwjJgcnZZy.jpg" width="600" alt="มุมมองรถไฟเหาะพระจันทร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12518)**
+
+**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2109587970412212342) | **Published:** Oct 12, 2026
 
 ---
 ### พรอมต์วิดีโอภาพเงาการแข่งขันคาวเกิร์ลและคาวบอยบนชายหาด
@@ -2250,255 +2500,6 @@ The white sheet is mid-motion, soft and flowing, but the movement is gentle and 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106929145942831576) | **Published:** Oct 5, 2026
 
 ---
-### วิดีโอการแสดงเต้นคอนเสิร์ต
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt แบบละเอียดสูงสำหรับการสร้างภาพเคลื่อนไหวของหญิงสาวที่กำลังเต้นบนเวที โดยครอบคลุมการเคลื่อนกล้อง แสง การซิงค์ดนตรี และข้อจำกัดเชิงลบ
-
-#### 📝 Prompt
-
-```
-คงลักษณะของหญิงสาว ใบหน้า ทรงผม ชุด สัดส่วนร่างกาย รองเท้าบูท เวที แสง มุมกล้อง และบรรยากาศคอนเสิร์ตให้ตรงกับภาพอ้างอิงอย่างสมบูรณ์ สร้างภาพเคลื่อนไหวให้เธอดำเนินการเต้นอย่างมีชีวิตชีวาและสง่างามตามธรรมชาติ เธอเริ่มด้วยท่าทางเดิม จากนั้นขยับแขนเข้าจังหวะอย่างลื่นไหล โยกสะโพก ก้าวเดินอย่างมั่นใจในการเต้น หมุนตัวเล็กน้อย และจบด้วยท่าทางที่เต็มไปด้วยความสุข ผมยาวสีแดงของเธอเคลื่อนไหวอย่างเป็นธรรมชาติตามจังหวะการเต้น เพิ่มสีหน้าที่สมจริงและรอยยิ้มที่มีความสุข ไฟสปอตไลท์คอนเสิร์ตสีม่วงและขาวกะพริบเบาๆ ตามจังหวะเพลง พร้อมหมอกบางๆ บนเวทีและเอฟเฟกต์โบเก้ในฉากหลัง กล้องเคลื่อนเข้าแบบช้าๆ อย่างมีสไตล์ภาพยนตร์พร้อมการสั่นไหวเล็กน้อยแบบมือถือเพื่อจำลองบรรยากาศคอนเสิร์ต การเคลื่อนไหวของมนุษย์สมจริง กายวิภาคเป็นธรรมชาติ มือและเท้าถูกต้อง ไม่มีการบิดเบี้ยว ไม่มีอวัยวะเกิน ไม่มีการเปลี่ยนชุด เพลงป๊อปแดนซ์จังหวะเร็วที่มีเมโลดี้ติดหู กลองทรงพลัง เบสหนักแน่น และเสียงสังเคราะห์สดใส ซิงค์กับการเคลื่อนไหวของเธออย่างสมบูรณ์แบบ รักษาความสอดคล้องของภาพตั้งแต่ต้นจนจบ ให้มีคุณภาพระดับภาพยนตร์ สมจริงเหมือนการแสดงคอนเสิร์ต
-
-Negative prompt:
-
-ห้ามเปลี่ยนใบหน้า ห้ามเปลี่ยนตัวตน ห้ามเปลี่ยนเสื้อผ้า ห้ามมีนิ้วเกิน ห้ามมีแขนหรือขาเกิน ห้ามบิดเบี้ยวร่างกาย ห้ามมือผิดรูป ห้ามเคลื่อนไหวไม่เป็นธรรมชาติ ห้ามกล้องกระตุก ห้ามเปลี่ยนฉากหลัง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106913169654579200/img/fGfZHh9uego_T3hm.jpg" width="600" alt="วิดีโอการแสดงเต้นคอนเสิร์ต">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11966)**
-
-**Author:** [CanineTrace](https://x.com/CanineTrace) | **Source:** [Link](https://x.com/CanineTrace/status/2106913197534097519) | **Published:** Oct 5, 2026
-
----
-### พรอมต์ Grok Imagine: ฉากชาอุ่นยามเช้าและนกฮัมมิงเบิร์ด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอใน Grok Imagine ที่บรรยายฉากยามเช้าอันเงียบสงบพร้อมแสงแดด ชา และนกฮัมมิงเบิร์ด
-
-#### 📝 Prompt
-
-```
-แสงแดดยามเช้าส่องผ่านหน้าต่าง แสงแดดกระทบโต๊ะไม้ ถ้วยชามีไออุ่นลอยขึ้น นกฮัมมิงเบิร์ดเกาะอยู่ที่ป้อนอาหารนอกหน้าต่าง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106800046796861440/img/IhQAx6n9BRdmBWTB.jpg" width="600" alt="พรอมต์ Grok Imagine: ฉากชาอุ่นยามเช้าและนกฮัมมิงเบิร์ด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11969)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106800094381224248) | **Published:** Oct 4, 2026
-
----
-### พรอมต์แก้ไขภาพ Portrait ของสุนัขชิวาวา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับแก้ไขภาพใน Grok Imagine เพื่อปรับปรุงภาพถ่ายของสุนัขชิวาวาสองตัวให้เป็นภาพแนวตั้งโดยยังคงรายละเอียดเฉพาะไว้
-
-#### 📝 Prompt
-
-```
-แก้ไขภาพนี้เป็นภาพ Portrait แนวตั้งที่สวยงามของสุนัขชิวาวาสองตัวชื่อ Tatiana และ Scout โดยคงลักษณะภายนอก รอยแต้มบนขน และสายรัดสีน้ำเงินของสุนัขที่มีขนยาวกว่าไว้ตามเดิม เน้นให้เห็นขนที่ยาวและจมูกสั้นของพวกเขา ปรับปรุงความคมชัด แสง...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106770205540012032/img/q0jfCf8EPL9yqan2.jpg" width="600" alt="พรอมต์แก้ไขภาพ Portrait ของสุนัขชิวาวา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11967)**
-
-**Author:** [soundmoney Delilah](https://x.com/Rhonda08936681) | **Source:** [Link](https://x.com/Rhonda08936681/status/2106770233109430427) | **Published:** Oct 4, 2026
-
----
-### ภาพจำลองภาวะเอกฐานเริ่มต้นและทฤษฎี E=mc²
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำขอที่ซับซ้อนสำหรับการสร้างภาพตัวแทนของภาวะเอกฐานเริ่มต้น ซึ่งตัดกับจักรวาลที่กำลังเย็นลง และทฤษฎี E=mc² ของไอน์สไตน์ โดยไม่มีการใช้ข้อความในภาพ
-
-#### 📝 Prompt
-
-```
-ช่วยสร้างภาพว่า "ภาวะเอกฐานเริ่มต้น" (Initial Singularity) อาจมีลักษณะเป็นอย่างไร และทำให้เห็นความแตกต่างกับช่วงที่จักรวาลเย็นลงเมื่อพลังงานควบแน่นกลายเป็นสสาร
-
-นำเสนอภาพประกอบสำหรับทฤษฎีของไอน์สไตน์:
-
-E = mc²
-
-ห้ามมีข้อความปรากฏในภาพ Grok
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106744445634846720/img/Cq8Pri7VKLuyv2dH.jpg" width="600" alt="ภาพจำลองภาวะเอกฐานเริ่มต้นและทฤษฎี E=mc²">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11964)**
-
-**Author:** [Kim Maria](https://x.com/KimMaria8ry) | **Source:** [Link](https://x.com/KimMaria8ry/status/2106744503788880314) | **Published:** Oct 4, 2026
-
----
-### Grok Imagine Video: ฉากห้องน้ำแข็งในฮ่องกง
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> คำอธิบายฉากอย่างละเอียดสำหรับสร้างวิดีโอในห้องน้ำแข็งที่ฮ่องกง พร้อมรายละเอียดเฉพาะเกี่ยวกับแสง เครื่องแต่งกาย และการเคลื่อนไหว
-
-#### 📝 Prompt
-
-```
-ห้องน้ำแข็งยามบ่ายเงียบกว่าตอนกลางคืน
-ม่านเป็นสีแดง มือทั้งสองข้างอยู่ฝั่งนี้
-
-ดอกไม้ไม่ใช่ช่อใหญ่
-เพียงดอกเดียวทัดหู
-จะเดินผ่าน?
-หรือจะปล่อยม่านกลับ?
-
-บ่ายวันฤดูใบไม้ร่วง ห้องน้ำแข็งในฮ่องกง หนิงหนิงเปิดม่านลูกปัดสีแดงด้วยมือทั้งสองข้าง ทัดดอกไม้หนึ่งดอกไว้ที่หู สวมชุดกี่เพ้าลายดอกไม้สีน้ำเงินและขาว แสงจากหลอดทังสเตนและพื้นกระเบื้องลวดลาย บรรยากาศย้อนยุคแบบเก่า ภาพสุดท้ายของซีซั่น (8/8) ยังไม่ได้ก้าวข้ามไป เธอจะเดินผ่านหรือปล่อยม่านกลับ?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106576093285412865/img/i8XgzcTRiwWMPzCo.jpg" width="600" alt="Grok Imagine Video: ฉากห้องน้ำแข็งในฮ่องกง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11889)**
-
-**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2106581609420136856) | **Published:** Oct 4, 2026
-
----
-### วิดีโอภาพเคลื่อนไหวแบบภาพยนตร์ของพระคัมภีร์ไบเบิล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอภาพเคลื่อนไหวแบบภาพยนตร์ของปฐมกาล 12:3 โดยใช้ Grok Imagine
-
-#### 📝 Prompt
-
-```
-◄ ปฐมกาล 12:3 ► พระคัมภีร์ ✡️✝️
-เราจะอวยพรแก่ผู้ที่อวยพรเจ้า และสาปแช่งผู้ที่สาปแช่งเจ้า และบรรดาประชาชาติทั่วโลกจะได้รับพรผ่านเจ้า
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106577081228308480/img/7YxYNCgp4OZC4OqR.jpg" width="600" alt="วิดีโอภาพเคลื่อนไหวแบบภาพยนตร์ของพระคัมภีร์ไบเบิล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11891)**
-
-**Author:** [Grégory Schouwey](https://x.com/GregorySchouwey) | **Source:** [Link](https://x.com/GregorySchouwey/status/2106577099066597753) | **Published:** Oct 4, 2026
-
----
-### วิดีโอทัวร์สวนพร้อมเพลงประกอบ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับเปลี่ยนภาพถ่ายเดินชมสวนให้เป็นวิดีโอทัวร์พร้อมเพลงประกอบไพเราะ
-
-#### 📝 Prompt
-
-```
-ช่วยสร้างวิดีโอทัวร์สวนจากภาพเหล่านี้ พร้อมเพลงประกอบที่ไพเราะให้หน่อยนะคะ (สวยมากเลย! Grok Imagine สร้างวิดีโอนี้จากภาพถ่ายเดินชมสวนของฉันวันนี้ 💕)
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106561259499905024/img/b_PJ0xiNJ0Qqs6pw.jpg" width="600" alt="วิดีโอทัวร์สวนพร้อมเพลงประกอบ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11883)**
-
-**Author:** [Kathleen Higney](https://x.com/krhigney) | **Source:** [Link](https://x.com/krhigney/status/2106561283978149888) | **Published:** Oct 4, 2026
-
----
-### แอนิเมชันไฟแช็กสไตล์ภาพยนตร์พร้อมแพนด้าแดง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> แอนิเมชันวนซ้ำสไตล์ภาพยนตร์ความยาว 8 วินาที แสดงภาพชายชาวเอเชียถือไฟแช็ก Zippo ที่มีแพนด้าแดงพ่นไฟอยู่ด้านบน
-
-#### 📝 Prompt
-
-```
-ทำให้อินโฟกราฟิกนี้เคลื่อนไหว เป็นลูปวนซ้ำแบบภาพยนตร์ที่ราบรื่น ความยาว 8 วินาที ชายชาวเอเชียถือไฟแช็ก Zippo สีดำที่เปิดฝาอย่างมั่นคง โดยนิ้วโป้งวางอยู่บนฝาปิด แพนด้าแดงตัวเล็กที่สวมหมวกไหมพรมสีม่วง BAD RUDY นั่งอยู่บนฝาพับ ปากอ้า พ่นเปลวไฟสีส้มสั้นๆ ที่ควบคุมได้ ซึ่งกระพริบและดับลงเหลือเพียงเปลวไฟเล็กๆ บนไส้ไฟแช็ก ดวงตาสีส้มเรืองแสงของมันกะพริบหนึ่งครั้ง เถ้าถ่านลอยฟุ้ง รอยยิ้มมุมปากของชายคนนั้นขยับเล็กน้อย คิ้วข้างหนึ่งยกขึ้น แล้วกลับสู่ท่าเดิม ลายสักบนแขนนิ่งสนิท แผงวงจรสีม่วงด้านหลังเขาสว่างวาบหนึ่งครั้ง ช้าๆ ไม่มีการเคลื่อนกล้อง ไม่มีตัวละครเพิ่มเติม เสียง: เสียงคลิกของหินไฟแช็ก, เสียงลมพัดผ่านเปลวไฟเบาๆ, และเสียงเป่าลมออกเงียบๆ หนึ่งครั้ง
-```
-
-<img src="https://cms-assets.youmind.com/media/1791187394588_vcalam_HTv9L14WoAAGXEj.jpg" width="600" alt="แอนิเมชันไฟแช็กสไตล์ภาพยนตร์พร้อมแพนด้าแดง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11884)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106555887510798663) | **Published:** Oct 4, 2026
-
----
-### ป่าโอ๊กเงินพร้อมกลีบดอกไม้ที่ร่ายรำ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอธรรมชาติแบบละเอียด แสดงภาพป่าต้นโอ๊กที่มีใบขอบสีเงิน ดอกทิวลิป ดอกรักเร่ และผีเสื้อที่ทำให้กลีบดอกไม้ร่ายรำราวกับเปลวไฟ
-
-#### 📝 Prompt
-
-```
-ป่าต้นโอ๊ก ใบไม้มีขอบสีเงินตัดกับสีดำ ทุ่งหญ้าสีเขียว ดอกทิวลิปและดอกรักเร่ กลีบดอกสีสันสดใสร่ายรำราวกับเปลวไฟขนาดเล็ก ผีเสื้อที่มีปีกฉลุลายสีเงินทำให้กลีบดอกไม้เต้นระบำเหมือนเปลวไฟ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106531421787668480/img/GoD_yQIs0Xn_A389.jpg" width="600" alt="ป่าโอ๊กเงินพร้อมกลีบดอกไม้ที่ร่ายรำ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11886)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2106531550955467188) | **Published:** Oct 3, 2026
-
----
-### ฉากเก็บฟืนในฤดูหนาวแบบภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแบบภาพยนตร์สำหรับ Grok Imagine ที่แสดงภาพชายคนหนึ่งกำลังหาท่อนไม้แห้งในฤดูหนาว
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอของชายคนหนึ่งที่กำลังหาท่อนไม้แห้งสำหรับบ้านของเขา พยายามรักษาความอบอุ่นในฤดูหนาว เขาดูเหมือนกำลังพูดกับตัวเอง กังวลว่าจะหาฟืนไม่พอสำหรับเตาผิง สไตล์แบบภาพยนตร์ #gay
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106510135665602560/img/MCV1Cn_hDOUZP6nQ.jpg" width="600" alt="ฉากเก็บฟืนในฤดูหนาวแบบภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11885)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2106510188555739208) | **Published:** Oct 3, 2026
-
----
-### ฉากสะพานขาดสไตล์เรเนซองส์กับหญิงสาว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่ซับซ้อนอธิบายถึงหญิงสาวที่ถูกพาข้ามสะพานขาดในยามค่ำคืน สไตล์เรเนซองส์ พร้อมบริบทเชิงกวีเกี่ยวกับสภาพของเธอ
-
-#### 📝 Prompt
-
-```
-สร้างภาพในเวลากลางคืน แสงสว่างไสวขณะกำลังพาหญิงสาวข้ามสะพานที่พังทลาย ในสไตล์เรเนซองส์
-
-เธอจะไม่เป็นไร เธอแค่มีรอยช้ำที่อัตตาภายนอกเท่านั้น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106500631376637952/img/MOie2iQKAJmt5gKv.jpg" width="600" alt="ฉากสะพานขาดสไตล์เรเนซองส์กับหญิงสาว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11880)**
-
-**Author:** [Maria Of Mars](https://x.com/MariaGa68521784) | **Source:** [Link](https://x.com/MariaGa68521784/status/2106500646828454036) | **Published:** Oct 3, 2026
-
----
-### พรอมต์อ้างอิงสำหรับการสร้างภาพเคลื่อนไหวชาย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แบบชัดเจนสำหรับสร้างภาพเคลื่อนไหวของชายสองคนจากภาพอ้างอิงโดยใช้ Grok Imagine
-
-#### 📝 Prompt
-
-```
-สร้างภาพเคลื่อนไหวของชายผู้ใหญ่สองคนให้ตรงกับลักษณะในภาพอ้างอิงอย่างแม่นยำ คงใบหน้า ร่างกาย ทรงผม มงกุฎ ผ้าคาดเอวสีน้ำเงิน และส่วนประกอบสีครีมและทอง...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106479923443736576/img/aqtm94aeuHLxz0p-.jpg" width="600" alt="พรอมต์อ้างอิงสำหรับการสร้างภาพเคลื่อนไหวชาย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11887)**
-
-**Author:** [GayBar](https://x.com/GayBar_Ai) | **Source:** [Link](https://x.com/GayBar_Ai/status/2106479952854175852) | **Published:** Oct 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2560,6 +2561,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-14T04:46:11.450Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-14T13:48:39.187Z</sub>
 
 </div>
