@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3080** |
+| 📝 Total Prompts | **3093** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-15** |
 
@@ -189,6 +189,216 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video Prompt: Hummingbird Motion and Ambient Sound
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine that animates a hummingbird in a reference photo to move naturally, accompanied by ambient garden sounds.
+
+#### 📝 Prompt
+
+```
+Make the hummingbird move as they do in nature with ambient garden sound
+```
+
+<img src="https://cms-assets.youmind.com/media/1792050451698_wfyvie_HUp0JxMbYAABJIn.jpg" width="600" alt="Grok Imagine Video Prompt: Hummingbird Motion and Ambient Sound">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12562)**
+
+**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110627103733698834) | **Published:** Oct 15, 2026
+
+---
+### Grok Imagine Video Prompt: Slow Zoom Out with Rain Sound
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine that creates a slow zoom-out effect on a reference image of poinsettia leaves, adding falling water drops and ambient rain sounds.
+
+#### 📝 Prompt
+
+```
+Do a slow zoom out on this image (the leaves are from a poinsettia, make it match), have the water drops fall and hear calm rain background sound
+```
+
+<img src="https://cms-assets.youmind.com/media/1792050449361_j8pw8n_HUpw89CaYAAvjht.jpg" width="600" alt="Grok Imagine Video Prompt: Slow Zoom Out with Rain Sound">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12560)**
+
+**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110623585337532456) | **Published:** Oct 15, 2026
+
+---
+### Blue Tiger Gemstone Portrait Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> An image prompt for generating a blue tiger portrait made of gemstones (sapphire fur, black pearl stripes) intended for ChatGPT/Chappy, then animated with Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Portrait style of a blue tiger made of shining gems. The blue fur looks like sapphire, and the black stripes have the texture of black pearls. The eyes have a dull glow like gray moonstone. Aspect ratio 9:16. No text please 🐯
+```
+
+<img src="https://cms-assets.youmind.com/media/1792050450248_m9uuo2_HUpdk7ga0AA3w0g.jpg" width="600" alt="Blue Tiger Gemstone Portrait Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12561)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2110602413124288819) | **Published:** Oct 15, 2026
+
+---
+### Roadster Jump Action
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt featuring a new roadster with a Speed Racer Mach 5 steering wheel jumping over speed bumps.
+
+#### 📝 Prompt
+
+```
+Build a video of the new roadster with a Speed a racer Mach 5 steering wheel and pushing a button makes it jump over speed bumps
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110582274685079552/img/ouOp906jxZ9K2t0B.jpg" width="600" alt="Roadster Jump Action">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12556)**
+
+**Author:** [Clingdaddy](https://x.com/Clingdaddy1) | **Source:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **Published:** Oct 15, 2026
+
+---
+### Pose and Shirt Change Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed motion prompt for Grok Imagine where a woman makes different poses, changing shirts each time she turns around twice.
+
+#### 📝 Prompt
+
+```
+She is making different poses, shirt changes each time she turns around. She turns around twice.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110465968237346817/img/ygAh3MNCrbyGsvAt.jpg" width="600" alt="Pose and Shirt Change Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12550)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2110465992073568470) | **Published:** Oct 14, 2026
+
+---
+### Beach Drive Dance Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt instructing a character to dance as if listening to a specific song during a beach drive scene.
+
+#### 📝 Prompt
+
+```
+dance as if listening to this song "“SHE” by Alice Phoebe Lou live — good choice for the beach drive. Beth’s playlist is solid....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110446367503945728/img/ZpRC_zpv1GyZ8ZH8.jpg" width="600" alt="Beach Drive Dance Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12552)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2110446522483511318) | **Published:** Oct 14, 2026
+
+---
+### Tulips Swaying in Breeze
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt showing tulips swaying gently in a breeze within a garden setting.
+
+#### 📝 Prompt
+
+```
+A gentle breeze softly blows the petals of the vibrant tulips, causing them to flutter and sway delicately with graceful motion while the stems and leaves move gently in the peaceful garden setting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110443956261605376/img/_jfhyvOI1md7eR11.jpg" width="600" alt="Tulips Swaying in Breeze">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12555)**
+
+**Author:** [Melinda Maleski (Runaway Outlier)](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2110443974037295533) | **Published:** Oct 14, 2026
+
+---
+### Blooper Laughing Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex prompt describing a sequence of takes including serious moments and blooper laughs.
+
+#### 📝 Prompt
+
+```
+Like her laughing with a blooper. Having fun between each take. Ok that some are serious like the beginning just then call cut again.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110439226177130497/img/GaAMesxXynlGRFJE.jpg" width="600" alt="Blooper Laughing Video Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12553)**
+
+**Author:** [Laurie Vallance](https://x.com/RemmyChan) | **Source:** [Link](https://x.com/RemmyChan/status/2110439263246696547) | **Published:** Oct 14, 2026
+
+---
+### Director Cuts Avatar Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A humorous video prompt where the director yells cut, and the avatar laughs and tries again with a relaxed vibe.
+
+#### 📝 Prompt
+
+```
+Director yells cuts. She laughs gets in character more relaxed and chill vibe and tries again.
+@grok  @imagine https://t.co/DtyjqfPEPv
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110437928832729088/img/uGF2nDwQYlb69_XD.jpg" width="600" alt="Director Cuts Avatar Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12557)**
+
+**Author:** [Laurie Vallance](https://x.com/RemmyChan) | **Source:** [Link](https://x.com/RemmyChan/status/2110437953923088739) | **Published:** Oct 14, 2026
+
+---
+### Soft Tone Avatar Creation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to create an avatar with a softened tone speaking specific lines.
+
+#### 📝 Prompt
+
+```
+Can you soften her tone. Have say ready for action feel the power of coffee let’s go
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110431839726772225/img/WHUrz4h8V8FNMgj2.jpg" width="600" alt="Soft Tone Avatar Creation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12554)**
+
+**Author:** [Laurie Vallance](https://x.com/RemmyChan) | **Source:** [Link](https://x.com/RemmyChan/status/2110432213942866381) | **Published:** Oct 14, 2026
+
+---
+### Elderly Glaeken Dialogue Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A specific narrative prompt for Grok Imagine featuring an elderly character named Glaeken speaking to Repairman Jack in Central Park.
+
+#### 📝 Prompt
+
+```
+Elderly Glaeken in front of Central Park telling Repairman Jack “A spear has no branches”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110368390686588928/img/kwutMzl4kvsed9UP.jpg" width="600" alt="Elderly Glaeken Dialogue Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12551)**
+
+**Author:** [Redacticus](https://x.com/BillDeWaal) | **Source:** [Link](https://x.com/BillDeWaal/status/2110368404431347729) | **Published:** Oct 14, 2026
+
+---
 ### Grok Imagine Video Prompt: Surreal Alien Creature
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,11 +437,11 @@ Cinematic synthwave with a sleek futuristic edge, driving mid-tempo pulse, deep 
 **Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2110243164166443138) | **Published:** Oct 14, 2026
 
 ---
-### Cybertruck Glitch Dance Video
+### Sony Cybertruck Glitch
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal video prompt where a character dances around a Cybertruck and glitches into digital pixels.
+> A video prompt where Sony dances around a cyber truck and glitches into pixels.
 
 #### 📝 Prompt
 
@@ -239,7 +449,7 @@ Cinematic synthwave with a sleek futuristic edge, driving mid-tempo pulse, deep 
 Sony dances around the cyber truck and starts glitching into digital pixels and she reappears and disappears in a 2 second video
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110229685757976577/img/Z09RlBKpl0S89xO9.jpg" width="600" alt="Cybertruck Glitch Dance Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110229685757976577/img/Z09RlBKpl0S89xO9.jpg" width="600" alt="Sony Cybertruck Glitch">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12513)**
 
@@ -340,7 +550,7 @@ Based on the new apple HomeView AI Siri table top screen, make a Grok version ca
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot video prompt depicting a tense encounter with a T-rex-like predator in a misty jungle setting.
+> A detailed multi-shot video prompt featuring a woman encountering a T-rex-like predator, including specific timing, camera moves, audio cues, and negative prompts.
 
 #### 📝 Prompt
 
@@ -378,6 +588,25 @@ Diane Thomas Joy wears a burgundy high-fashion suit dress with matching heels an
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12517)**
 
 **Author:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **Source:** [Link](https://x.com/Thoma31928Joy/status/2110151441222606940) | **Published:** Oct 13, 2026
+
+---
+### Anthropomorphic Kittens Park Bench Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt for generating a cute video of three anthropomorphic kittens on a park bench, one combing fur, one holding a tip jar, waving at the camera.
+
+#### 📝 Prompt
+
+```
+Three tiny anthropomorphic kittens sit on a park bench. One combs another’s fur with a tiny brush while the third stands and holds the tip jar out toward the camera, gesturing with its free paw. They suddenly all start waving and meowing excitedly as a leaf floats by. A colorful sign in front reads “Tips for cuteness overload ” Soft afternoon sunlight through trees, realistic fur and expressive faces, gentle camera push.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109990553387401216/img/pxDuws-dgbG7gjnb.jpg" width="600" alt="Anthropomorphic Kittens Park Bench Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12559)**
+
+**Author:** [Jay Kay](https://x.com/JayKay65220066) | **Source:** [Link](https://x.com/JayKay65220066/status/2110007645910274279) | **Published:** Oct 13, 2026
 
 ---
 ### Matrix Digital Rain Loop Animation Prompt
@@ -1349,6 +1578,25 @@ Change only the eyes of the black helmeted figure: make the left eye (from the v
 **Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2108600388387762445) | **Published:** Oct 9, 2026
 
 ---
+### Elon Musk Mars Landing Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative scene involving Elon Musk landing on Mars and meeting a king, made with Grok and Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Mars rolled out the red carpet. Elon lands, the king offers terms, and the rocket does not wait.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108581990316351488/img/81LlWBsdkG9b98g3.jpg" width="600" alt="Elon Musk Mars Landing Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12558)**
+
+**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2108582054388732296) | **Published:** Oct 9, 2026
+
+---
 ### SpaceX Starship Orbit View
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2242,292 +2490,6 @@ We are going to call this the human race and we’re gonna show the masculine fe
 **Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2107344329459253589) | **Published:** Oct 6, 2026
 
 ---
-### Dark Fantasy Warrior Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed multi-scene prompt for a cinematic dark fantasy action sequence involving a white-haired warrior and shadowy enemies.
-
-#### 📝 Prompt
-
-```
-Create a 15-second cinematic vertical 9:16 dark-fantasy action sequence, inspired by high-budget Asian fantasy cinema.
-
-Scene 1 — 0–3s:
-A mysterious white-haired warrior stands in a misty ancient mountain forest, surrounded by shallow reflective water. Long white hair moves naturally in the wind, wearing elegant black-and-white fantasy robes. The camera slowly pushes toward the warrior as blue-white energy begins swirling around them.
-
-Scene 2 — 3–7s:
-Several shadowy black-armored warriors emerge through the mist and rush forward. The white-haired warrior suddenly moves with supernatural speed, creating a powerful circular wave of glowing blue water and energy. Cinematic slow motion, realistic cloth and hair physics, flying water droplets.
-
-Scene 3 — 7–11s:
-Close-up combat. The white-haired warrior blocks an enemy weapon with a glowing energy blade. A bright blue-white shockwave explodes between them, sending water droplets and particles through the air. Dynamic camera orbit, dramatic impact, detailed facial expressions.
-
-Scene 4 — 11–15s:
-The warrior releases one final concentrated energy strike. A huge arc of blue-white energy sweeps across the water, knocking the shadow warriors backward. End with the white-haired warrior standing calmly in the mist as glowing particles fall around them.
-
-Visual style: photorealistic cinematic fantasy, ultra-detailed characters, realistic skin and hair, physically accurate water, volumetric fog, dramatic moonlight, deep shadows, blue-white magical energy, realistic particle effects, anamorphic cinematic lighting, shallow depth of field, smooth camera motion, high-budget VFX, epic atmosphere.
-
-No text, no subtitles, no logos, no watermark, no cartoon look, no distorted faces, no extra limbs, no blurry characters. Maintain consistent character appearance throughout the entire video.
-```
-
-<img src="https://pbs.twimg.com/media/HT6204EbAAANe7C.jpg" width="600" alt="Dark Fantasy Warrior Sequence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12089)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2107322835568046132) | **Published:** Oct 6, 2026
-
----
-### Super Intelligence Heroes Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt to create two superheroes based on concepts of Super Intelligence and Space Force.
-
-#### 📝 Prompt
-
-```
-Create two super heroes based on new Super intelligence and Space force concepts
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107281059217833985/img/IngaFpRVHB-PdgX8.jpg" width="600" alt="Super Intelligence Heroes Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12093)**
-
-**Author:** [Mark W](https://x.com/MarkW53898272) | **Source:** [Link](https://x.com/MarkW53898272/status/2107281080583606421) | **Published:** Oct 6, 2026
-
----
-### Quiet Forest Passage Under Stars
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt describing a quiet passage through a glowing forest with a hidden lake and starry sky, created with Grok Imagine.
-
-#### 📝 Prompt
-
-```
-A quiet passage through a forest glowing beneath the stars
-
-A hidden lake, a sky full of stars, and just a trace of light along the shore. Sometimes the most magical places are the quietest. ✨🌌
-```
-
-<img src="https://cms-assets.youmind.com/media/1791446118429_p243be_HT58gjXaMAAvA3C.jpg" width="600" alt="Quiet Forest Passage Under Stars">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12025)**
-
-**Author:** [Nagarjuna Creates](https://x.com/nagarjuncreates) | **Source:** [Link](https://x.com/nagarjuncreates/status/2107258577970970902) | **Published:** Oct 5, 2026
-
----
-### Sculpture Realism Edit Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt to edit a previous result, making a sculpture look more stone-like and enhancing natural beauty without speech.
-
-#### 📝 Prompt
-
-```
-have her working on a sculpture and more realistic natural beauty, no speaking just thoughtful expression, same but make the sculpture look more stone keep everything else
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107257327548010496/img/X-NN3TwTeiaVPdhW.jpg" width="600" alt="Sculpture Realism Edit Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12030)**
-
-**Author:** [Hea](https://x.com/SolLumen) | **Source:** [Link](https://x.com/SolLumen/status/2107257352093385097) | **Published:** Oct 5, 2026
-
----
-### Falling leaves and romantic declaration video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A Grok Imagine video prompt featuring dry leaves falling from a tree in a light wind, with a man lifting his head to say 'I'm thinking of you'.
-
-#### 📝 Prompt
-
-```
-Dry leaves fall from the tree, light wind. The man lifts his head and says: I am thinking of you.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107248098003079168/img/7W61q9E9l-vEodb3.jpg" width="600" alt="Falling leaves and romantic declaration video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12032)**
-
-**Author:** [M.vega](https://x.com/Mvega7351578545) | **Source:** [Link](https://x.com/Mvega7351578545/status/2107248118731317508) | **Published:** Oct 5, 2026
-
----
-### Cyberpunk Drone Cityscape
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Creates a vertical cyberpunk city video with a drone-like camera movement starting from a hologram idol ad, featuring a subtle red torii gate.
-
-#### 📝 Prompt
-
-```
-*Must be vertical*
-Please generate a video!
-Cyberpunk future city.
-One continuous shot without cuts, long take camera.
-Camera work starting from a close-up of a hologram idol advertisement, pulling back to overlook the entire city. Dolly out.
-Like drone footage (never show the drone itself).
-Build a small red torii gate unobtrusively in a corner somewhere.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107227035190063104/img/g0cOSP-l2pACfGuj.jpg" width="600" alt="Cyberpunk Drone Cityscape">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12033)**
-
-**Author:** [じろじろin下関](https://x.com/ziro1005) | **Source:** [Link](https://x.com/ziro1005/status/2107227204157608164) | **Published:** Oct 5, 2026
-
----
-### Woman Singing in Meadow Music Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt for Grok Imagine creating a cinematic music video of a woman singing and dancing in a natural setting, using an uploaded reference image.
-
-#### 📝 Prompt
-
-```
-Use the uploaded woman as the visual reference and preserve her facial appearance, hairstyle, and overall look. Place her in a beautiful natural setting—lush green meadow surrounded by trees, wildflowers, mountains in the distance, warm golden-hour sunlight and gentle wind. She happily sings and dances naturally through the meadow, moving rhythmically and playfully while occasionally looking toward the camera. Cinematic realistic footage, smooth camera tracking, natural body movement, flowing hair and clothing, realistic lighting, vibrant but natural colors, shallow depth of field, joyful music-video atmosphere, high detail, 4K, no text, no distortion, no extra people.”
-```
-
-<img src="https://pbs.twimg.com/media/HT5Jc-0aoAAVeUD.jpg" width="600" alt="Woman Singing in Meadow Music Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12029)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2107202496812994893) | **Published:** Oct 5, 2026
-
----
-### Ocean Beach Lighthouse Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A scenic video prompt featuring ocean waves, a lighthouse, a yellow tug boat, a castle, and seagulls.
-
-#### 📝 Prompt
-
-```
-ocean beach cove waves gently lapping on beach lighthouse in distance yellow tug boat chugging across bay castle on opposite point of lighthouse two seagulls stand on beach watching yellow tug boat chugging
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107151329756073984/img/ilDG3QbCVmTEJ0_k.jpg" width="600" alt="Ocean Beach Lighthouse Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12026)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2107151439877623997) | **Published:** Oct 5, 2026
-
----
-### Man Walking with Snakes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt depicting a man walking in a jungle surrounded by snakes that appear to love him.
-
-#### 📝 Prompt
-
-```
-Imagine this man walking in a jungle with all kinds of snake make it look like snakes love this man in the video
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107078228666142720/img/HpPq4up9MF6Tx3le.jpg" width="600" alt="Man Walking with Snakes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12028)**
-
-**Author:** [Ansh](https://x.com/Anshuman230) | **Source:** [Link](https://x.com/Anshuman230/status/2107078573345685556) | **Published:** Oct 5, 2026
-
----
-### Gothic Cathedral Knight King Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for creating a photorealistic cinematic scene featuring an armored knight king in a dark gothic cathedral with volumetric lighting.
-
-#### 📝 Prompt
-
-```
-Create a photorealistic cinematic full-body scene in the same dark gothic cathedral with dramatic volumetric light rays and stone columns. The mysterious armored knight king in black ornate armor, golden crown, red velvet hooded cloak with gold embro...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106962340663185408/img/TuIgHGXpfdd9HVuA.jpg" width="600" alt="Gothic Cathedral Knight King Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11965)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2106962402625642616) | **Published:** Oct 5, 2026
-
----
-### Madonna Whispering Ethereal Vibe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for Grok Imagine animating an image of Madonna whispering specific lines with an ethereal, meditative atmosphere.
-
-#### 📝 Prompt
-
-```
-Have Madonna image remain ‘as is’ and she mouths in a whispering clear voice the words: “Everything begins with consciousness”, then have both images say together, “we will be one, we will be divine.” Give it a meditative, ethereal vibe.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106935375856054272/img/w3SU1z4EH2Hnye_J.jpg" width="600" alt="Madonna Whispering Ethereal Vibe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11963)**
-
-**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2106935406176702934) | **Published:** Oct 5, 2026
-
----
-### Cozy Kitchen Ghost Twirl
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed and poetic prompt for a slow-motion video of a light-up ghost decoration twirling in a cozy kitchen with rose petals and string lights.
-
-#### 📝 Prompt
-
-```
-A light-up ghost decoration in a cozy kitchen at night, captured in a slow, dreamlike twirl…
-The white sheet is mid-motion, soft and flowing, but the movement is gentle and unhurried, like the ghost is remembering a dance it once knew…
-The internal light glows warmly through the fabric, steady and soft…
-Two black oval eyes face forward, calm and quiet…
-Pink rose petals drift slowly through the air around it, suspended in the moment…
-Purple and orange string lights glow along the cabinets and shelves in the background…
-A vase of pink and white roses sits on the counter behind it…
-Halloween decorations — pumpkins, gnomes, owls, a sunflower — fill the shelves, all still…
-The kitchen is quiet, the ghost is at rest, the moment is frozen…”
-the ghost’s eyes slightly closed…
-Like it’s lost in the memory…
-the light as flickering, like a candle remembering a flame…the ghost stays soft…
-It never goes sharp…
-That’s the whole trick…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106931393112551424/img/rP1MlDXheSGASwoj.jpg" width="600" alt="Cozy Kitchen Ghost Twirl">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11962)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106931506694193403) | **Published:** Oct 5, 2026
-
----
-### Animate Ghost Decoration in Kitchen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for animating a static image of a light-up ghost decoration in a cozy kitchen with a slow, dreamlike twirling motion.
-
-#### 📝 Prompt
-
-```
-animate this exact image , A light-up ghost decoration in a cozy kitchen at night, captured in a slow, dreamlike twirl…
-…
-The white sheet is mid-motion, soft and flowing, but the movement is gentle and unhurried, like the ghost is remembering a dance...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106929051705192448/img/egOhllHpFI9kqDWs.jpg" width="600" alt="Animate Ghost Decoration in Kitchen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11968)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106929145942831576) | **Published:** Oct 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2589,6 +2551,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-15T04:23:27.554Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-15T13:29:56.280Z</sub>
 
 </div>

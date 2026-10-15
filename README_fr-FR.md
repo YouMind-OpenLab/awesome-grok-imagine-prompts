@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3080** |
+| 📝 Total Prompts | **3093** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-15** |
 
@@ -189,6 +189,216 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt vidéo Grok Imagine : Mouvement du colibri et son d'ambiance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo pour Grok Imagine qui anime un colibri dans une photo de référence pour qu'il se déplace naturellement, accompagné de sons ambiants de jardin.
+
+#### 📝 Prompt
+
+```
+Faites bouger le colibri comme il le fait dans la nature avec des sons ambiants de jardin
+```
+
+<img src="https://cms-assets.youmind.com/media/1792050451698_wfyvie_HUp0JxMbYAABJIn.jpg" width="600" alt="Prompt vidéo Grok Imagine : Mouvement du colibri et son d'ambiance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12562)**
+
+**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110627103733698834) | **Published:** Oct 15, 2026
+
+---
+### Prompt vidéo Grok Imagine : Zoom arrière lent avec bruit de pluie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo pour Grok Imagine qui crée un effet de zoom arrière lent sur une image de référence montrant des feuilles de poinsettia, en ajoutant des gouttes d'eau tombantes et un son ambiant de pluie.
+
+#### 📝 Prompt
+
+```
+Effectuez un zoom arrière lent sur cette image (les feuilles sont celles d'un poinsettia, assurez-vous que cela corresponde), faites tomber les gouttes d'eau et ajoutez un bruit de fond calme de pluie.
+```
+
+<img src="https://cms-assets.youmind.com/media/1792050449361_j8pw8n_HUpw89CaYAAvjht.jpg" width="600" alt="Prompt vidéo Grok Imagine : Zoom arrière lent avec bruit de pluie">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12560)**
+
+**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110623585337532456) | **Published:** Oct 15, 2026
+
+---
+### Prompt de portrait de tigre bleu en pierres précieuses
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt d'image pour générer un portrait de tigre bleu composé de pierres précieuses (fourrure en saphir, rayures en perles noires) destiné à ChatGPT/Chappy, puis animé avec Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Portrait d'un tigre bleu composé de gemmes brillantes. La fourrure bleue ressemble à du saphir et les rayures noires ont la texture de perles noires. Les yeux dégagent une lueur mate comme de la pierre de lune grise. Ratio d'aspect 9:16. Pas de texte svp 🐯
+```
+
+<img src="https://cms-assets.youmind.com/media/1792050450248_m9uuo2_HUpdk7ga0AA3w0g.jpg" width="600" alt="Prompt de portrait de tigre bleu en pierres précieuses">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12561)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2110602413124288819) | **Published:** Oct 15, 2026
+
+---
+### Action de saut pour Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo mettant en scène une nouvelle roadster avec un volant Mach 5 de Speed Racer sautant par-dessus des dos d'âne.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo de la nouvelle roadster équipée d'un volant Mach 5 de Speed Racer, où l'appui sur un bouton déclenche un saut par-dessus des dos d'âne.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110582274685079552/img/ouOp906jxZ9K2t0B.jpg" width="600" alt="Action de saut pour Roadster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12556)**
+
+**Author:** [Clingdaddy](https://x.com/Clingdaddy1) | **Source:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **Published:** Oct 15, 2026
+
+---
+### Prompt de changement de pose et de chemise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de mouvement détaillé pour Grok Imagine où une femme adopte différentes poses, changeant de chemise à chaque fois qu'elle se retourne deux fois.
+
+#### 📝 Prompt
+
+```
+Elle adopte différentes poses, sa chemise change à chaque fois qu'elle se retourne. Elle se retourne deux fois.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110465968237346817/img/ygAh3MNCrbyGsvAt.jpg" width="600" alt="Prompt de changement de pose et de chemise">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12550)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2110465992073568470) | **Published:** Oct 14, 2026
+
+---
+### Scène de danse sur la route de la plage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite de génération vidéo demandant à un personnage de danser comme s'il écoutait une chanson spécifique lors d'une scène de trajet en bord de mer.
+
+#### 📝 Prompt
+
+```
+danse comme si tu écoutais cette chanson "« SHE » par Alice Phoebe Lou live — un bon choix pour le trajet sur la plage. La playlist de Beth est solide....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110446367503945728/img/ZpRC_zpv1GyZ8ZH8.jpg" width="600" alt="Scène de danse sur la route de la plage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12552)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2110446522483511318) | **Published:** Oct 14, 2026
+
+---
+### Tulipes ondulant sous la brise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo détaillé montrant des tulipes se balançant doucement dans une brise légère au sein d'un jardin.
+
+#### 📝 Prompt
+
+```
+Une douce brise fait délicatement vibrer les pétales des tulipes éclatantes, qui ondulent avec grâce tandis que les tiges et les feuilles bougent légèrement dans le calme paisible du jardin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110443956261605376/img/_jfhyvOI1md7eR11.jpg" width="600" alt="Tulipes ondulant sous la brise">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12555)**
+
+**Author:** [Melinda Maleski (Runaway Outlier)](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2110443974037295533) | **Published:** Oct 14, 2026
+
+---
+### Séquence vidéo de fous rires sur les bêtisiers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complexe décrivant une séquence de prises incluant des moments sérieux et des fous rires liés aux bêtisiers.
+
+#### 📝 Prompt
+
+```
+Comme quand elle rit lors d'un bêtisier. S'amuser entre chaque prise. D'accord, certaines sont sérieuses, comme au début, puis on crie encore « Coupez ».
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110439226177130497/img/GaAMesxXynlGRFJE.jpg" width="600" alt="Séquence vidéo de fous rires sur les bêtisiers">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12553)**
+
+**Author:** [Laurie Vallance](https://x.com/RemmyChan) | **Source:** [Link](https://x.com/RemmyChan/status/2110439263246696547) | **Published:** Oct 14, 2026
+
+---
+### Le Réalisateur Coupe la Scène de l'Avatar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo humoristique où le réalisateur crie « Coupez ! », et l'avatar rit puis retente sa prise avec une ambiance plus détendue.
+
+#### 📝 Prompt
+
+```
+Le réalisateur crie « Coupez ». Elle rit, se remet dans son rôle, adopte une attitude plus décontractée et chill, puis retente sa prise.
+@grok @imagine https://t.co/DtyjqfPEPv
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110437928832729088/img/uGF2nDwQYlb69_XD.jpg" width="600" alt="Le Réalisateur Coupe la Scène de l'Avatar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12557)**
+
+**Author:** [Laurie Vallance](https://x.com/RemmyChan) | **Source:** [Link](https://x.com/RemmyChan/status/2110437953923088739) | **Published:** Oct 14, 2026
+
+---
+### Création d'avatar au ton doux
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite pour créer un avatar avec un ton adouci prononçant des répliques spécifiques.
+
+#### 📝 Prompt
+
+```
+Peux-tu adoucir son ton. Qu'elle dise : Prête à l'action, ressens la puissance du café, c'est parti !
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110431839726772225/img/WHUrz4h8V8FNMgj2.jpg" width="600" alt="Création d'avatar au ton doux">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12554)**
+
+**Author:** [Laurie Vallance](https://x.com/RemmyChan) | **Source:** [Link](https://x.com/RemmyChan/status/2110432213942866381) | **Published:** Oct 14, 2026
+
+---
+### Invite de dialogue : Glaeken, le vieil homme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite narrative spécifique pour Grok Imagine mettant en scène un personnage âgé nommé Glaeken s'adressant à Repairman Jack dans Central Park.
+
+#### 📝 Prompt
+
+```
+Glaeken, un vieil homme, se tient devant Central Park et dit à Repairman Jack : « Une lance n'a pas de branches. »
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110368390686588928/img/kwutMzl4kvsed9UP.jpg" width="600" alt="Invite de dialogue : Glaeken, le vieil homme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12551)**
+
+**Author:** [Redacticus](https://x.com/BillDeWaal) | **Source:** [Link](https://x.com/BillDeWaal/status/2110368404431347729) | **Published:** Oct 14, 2026
+
+---
 ### Prompt vidéo Grok Imagine : Créature alien surréaliste
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -378,6 +588,25 @@ Diane Thomas Joy porte une robe-tailleur burgundy haute couture avec des talons 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12517)**
 
 **Author:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **Source:** [Link](https://x.com/Thoma31928Joy/status/2110151441222606940) | **Published:** Oct 13, 2026
+
+---
+### Scène de chatons anthropomorphes sur un banc de parc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour générer une vidéo mignonne de trois chatons anthropomorphes sur un banc de parc, l'un brossant la fourrure, l'autre tenant une tirelire à pourboires et saluant la caméra.
+
+#### 📝 Prompt
+
+```
+Trois petits chatons anthropomorphes sont assis sur un banc de parc. L'un brosse la fourrure d'un autre avec une petite brosse tandis que le troisième se tient debout et tend la tirelire à pourboires vers la caméra, faisant des gestes avec sa patte libre. Ils commencent soudainement tous à saluer et à miauler avec enthousiasme alors qu'une feuille flotte dans les airs. Une pancarte colorée devant eux indique « Pourboires pour excès de mignonnerie ». Lumière douce de l'après-midi filtrant à travers les arbres, fourrure réaliste et visages expressifs, léger mouvement de caméra en avant.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109990553387401216/img/pxDuws-dgbG7gjnb.jpg" width="600" alt="Scène de chatons anthropomorphes sur un banc de parc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12559)**
+
+**Author:** [Jay Kay](https://x.com/JayKay65220066) | **Source:** [Link](https://x.com/JayKay65220066/status/2110007645910274279) | **Published:** Oct 13, 2026
 
 ---
 ### Prompt d'animation en boucle de pluie numérique Matrix
@@ -1306,6 +1535,25 @@ Modifiez uniquement les yeux de la figure casquée noire : faites briller l'œil
 **Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2108600388387762445) | **Published:** Oct 9, 2026
 
 ---
+### Scène d'atterrissage d'Elon Musk sur Mars
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une scène narrative mettant en scène Elon Musk atterrissant sur Mars et rencontrant un roi, créée avec Grok et Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Mars déroula le tapis rouge. Elon atterrit, le roi propose des conditions, et la fusée n'attend pas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108581990316351488/img/81LlWBsdkG9b98g3.jpg" width="600" alt="Scène d'atterrissage d'Elon Musk sur Mars">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12558)**
+
+**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2108582054388732296) | **Published:** Oct 9, 2026
+
+---
 ### Vue orbitale de la SpaceX Starship
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2199,292 +2447,6 @@ Nous allons appeler cela la course humaine et nous allons montrer le primaire ma
 **Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2107344329459253589) | **Published:** Oct 6, 2026
 
 ---
-### Séquence de Guerrier Dark Fantasy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt multi-scène hautement détaillé pour une séquence d'action cinématographique de dark fantasy impliquant un guerrier aux cheveux blancs et des ennemis ombreux.
-
-#### 📝 Prompt
-
-```
-Créez une séquence d'action cinématographique verticale (9:16) de dark fantasy de 15 secondes, inspirée par le cinéma fantastique asiatique à grand budget.
-
-Scène 1 — 0–3s :
-Un mystérieux guerrier aux cheveux blancs se tient dans une forêt montagneuse ancienne et brumeuse, entouré d'une eau peu profonde et réfléchissante. Ses longs cheveux blancs bougent naturellement au vent, portant des robes élégantes de fantaisie en noir et blanc. La caméra avance lentement vers le guerrier alors que l'énergie bleu-blanc commence à tourbillonner autour de lui.
-
-Scène 2 — 3–7s :
-Plusieurs guerriers ombreux en armure noire émergent à travers la brume et se précipitent en avant. Le guerrier aux cheveux blancs se déplace soudainement avec une vitesse surnaturelle, créant une puissante onde circulaire d'eau et d'énergie bleue lumineuse. Ralenti cinématographique, physique réaliste des tissus et des cheveux, gouttelettes d'eau en vol.
-
-Scène 3 — 7–11s :
-Combat en gros plan. Le guerrier aux cheveux blancs bloque une arme ennemie avec une lame d'énergie lumineuse. Une onde de choc bleu-blanc brillante explose entre eux, envoyant des gouttelettes d'eau et des particules dans les airs. Orbite dynamique de la caméra, impact dramatique, expressions faciales détaillées.
-
-Scène 4 — 11–15s :
-Le guerrier libère une dernière frappe d'énergie concentrée. Un immense arc d'énergie bleu-blanc balaye l'eau, repoussant les guerriers ombreux en arrière. Terminez sur le guerrier aux cheveux blancs se tenant calmement dans la brume alors que des particules lumineuses tombent autour de lui.
-
-Style visuel : fantaisie cinématographique photoréaliste, personnages ultra-détaillés, peau et cheveux réalistes, eau physiquement précise, brouillard volumétrique, clair de lune dramatique, ombres profondes, énergie magique bleu-blanc, effets de particules réalistes, éclairage cinématographique anamorphique, faible profondeur de champ, mouvement fluide de la caméra, VFX à grand budget, atmosphère épique.
-
-Pas de texte, pas de sous-titres, pas de logos, pas de filigrane, pas d'aspect cartoon, pas de visages déformés, pas de membres supplémentaires, pas de personnages flous. Maintenez une apparence de personnage cohérente tout au long de la vidéo.
-```
-
-<img src="https://pbs.twimg.com/media/HT6204EbAAANe7C.jpg" width="600" alt="Séquence de Guerrier Dark Fantasy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12089)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2107322835568046132) | **Published:** Oct 6, 2026
-
----
-### Prompt pour les Héros de la Super Intelligence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour créer deux super-héros basés sur les concepts de la Super Intelligence et de la Space Force.
-
-#### 📝 Prompt
-
-```
-Créez deux super-héros basés sur les nouveaux concepts de la Super Intelligence et de la Space Force
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107281059217833985/img/IngaFpRVHB-PdgX8.jpg" width="600" alt="Prompt pour les Héros de la Super Intelligence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12093)**
-
-**Author:** [Mark W](https://x.com/MarkW53898272) | **Source:** [Link](https://x.com/MarkW53898272/status/2107281080583606421) | **Published:** Oct 6, 2026
-
----
-### Vidéo d'un passage silencieux dans une forêt sous les étoiles
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo poétique pour Grok Imagine décrivant un passage silencieux à travers une forêt lumineuse avec des lacs cachés et des ciels étoilés.
-
-#### 📝 Prompt
-
-```
-Un passage silencieux à travers une forêt scintillante sous les étoiles
-
-Un lac caché, un ciel rempli d'étoiles, et juste une trace de lumière le long de la rive. Parfois, les endroits les plus magiques sont aussi les plus calmes. ✨🌌
-```
-
-<img src="https://cms-assets.youmind.com/media/1791446118429_p243be_HT58gjXaMAAvA3C.jpg" width="600" alt="Vidéo d'un passage silencieux dans une forêt sous les étoiles">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12025)**
-
-**Author:** [Nagarjuna Creates](https://x.com/nagarjuncreates) | **Source:** [Link](https://x.com/nagarjuncreates/status/2107258577970970902) | **Published:** Oct 5, 2026
-
----
-### Sculptrice Réaliste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Invite une femme à travailler sur une sculpture avec une beauté naturelle réaliste, sans dialogue, seulement une expression réfléchie. Gardez tout le reste identique, mais rendez la sculpture plus pierreuse.
-
-#### 📝 Prompt
-
-```
-faites-la travailler sur une sculpture avec une beauté naturelle plus réaliste, pas de parole juste une expression réfléchie, même chose mais faites que la sculpture ressemble plus à de la pierre, gardez tout le reste
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107257327548010496/img/X-NN3TwTeiaVPdhW.jpg" width="600" alt="Sculptrice Réaliste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12030)**
-
-**Author:** [Hea](https://x.com/SolLumen) | **Source:** [Link](https://x.com/SolLumen/status/2107257352093385097) | **Published:** Oct 5, 2026
-
----
-### Prompt de scène automnale pour Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo pour Grok Imagine dépeignant une scène automnale avec des feuilles qui tombent et un homme prononçant une réplique.
-
-#### 📝 Prompt
-
-```
-Des feuilles sèches tombent de l'arbre, léger vent. L'homme relève la tête et dit : Je pense à toi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107248098003079168/img/7W61q9E9l-vEodb3.jpg" width="600" alt="Prompt de scène automnale pour Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12032)**
-
-**Author:** [M.vega](https://x.com/Mvega7351578545) | **Source:** [Link](https://x.com/Mvega7351578545/status/2107248118731317508) | **Published:** Oct 5, 2026
-
----
-### Prise de vue drone sur une ville cyberpunk
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt vidéo vertical détaillé pour Grok Imagine, représentant une ville futuriste cyberpunk avec un plan-séquence continu commençant par une publicité holographique d'une idole et s'éloignant vers une vue aérienne type drone.
-
-#### 📝 Prompt
-
-```
-*Orientation verticale obligatoire*
-Veuillez générer une vidéo !
-Une ville futuriste cyberpunk.
-Un seul plan-séquence, sans coupure.
-Le mouvement de caméra commence par un gros plan sur une publicité holographique d'une idole puis recule (mouvement de recul) pour offrir une vue panoramique sur l'ensemble de la ville.
-Comme une prise de vue par drone (sans jamais montrer le corps du drone).
-Placez discrètement un petit torii rouge dans un coin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107227035190063104/img/g0cOSP-l2pACfGuj.jpg" width="600" alt="Prise de vue drone sur une ville cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12033)**
-
-**Author:** [じろじろin下関](https://x.com/ziro1005) | **Source:** [Link](https://x.com/ziro1005/status/2107227204157608164) | **Published:** Oct 5, 2026
-
----
-### Clip Musical : Femme Chantant dans une Prairie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt vidéo détaillé pour Grok Imagine, créant un clip musical cinématographique d'une femme chantant et dansant dans un cadre naturel, à partir d'une image de référence téléchargée.
-
-#### 📝 Prompt
-
-```
-Utilisez la femme téléchargée comme référence visuelle et conservez ses traits du visage, sa coiffure et son apparence générale. Placez-la dans un magnifique décor naturel — une prairie verdoyante entourée d'arbres, de fleurs sauvages et de montagnes au loin, baignée par la lumière dorée de l'heure dorée et un vent léger. Elle chante et danse joyeusement et naturellement à travers la prairie, se déplaçant avec rythme et espièglerie tout en regardant parfois vers la caméra. Rendu réaliste cinématographique, suivi fluide de la caméra, mouvements corporels naturels, cheveux et vêtements flottants, éclairage réaliste, couleurs vives mais naturelles, faible profondeur de champ, ambiance joyeuse de clip musical, haute définition, 4K, sans texte, sans distorsion, sans personnes supplémentaires.
-```
-
-<img src="https://pbs.twimg.com/media/HT5Jc-0aoAAVeUD.jpg" width="600" alt="Clip Musical : Femme Chantant dans une Prairie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12029)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2107202496812994893) | **Published:** Oct 5, 2026
-
----
-### Scène de phare sur la plage océanique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une invite vidéo pittoresque mettant en scène des vagues océaniques, un phare, un remorqueur jaune, un château et des mouettes.
-
-#### 📝 Prompt
-
-```
-plage océanique crique vagues léchant doucement le rivage phare au loin remorqueur jaune avançant dans la baie château à l'opposé du phare deux mouettes debout sur la plage observant le remorqueur jaune
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107151329756073984/img/ilDG3QbCVmTEJ0_k.jpg" width="600" alt="Scène de phare sur la plage océanique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12026)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2107151439877623997) | **Published:** Oct 5, 2026
-
----
-### Homme marchant avec des serpents
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo décrivant un homme marchant dans une jungle entouré de serpents qui semblent l'adorer.
-
-#### 📝 Prompt
-
-```
-Imaginez cet homme marchant dans une jungle entouré de toutes sortes de serpents, et faites en sorte que les serpents semblent l'adorer dans la vidéo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107078228666142720/img/HpPq4up9MF6Tx3le.jpg" width="600" alt="Homme marchant avec des serpents">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12028)**
-
-**Author:** [Ansh](https://x.com/Anshuman230) | **Source:** [Link](https://x.com/Anshuman230/status/2107078573345685556) | **Published:** Oct 5, 2026
-
----
-### Scène du Roi Chevalier de la Cathédrale Gothique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour créer une scène cinématographique photoréaliste mettant en vedette un roi chevalier en armure dans une cathédrale gothique sombre avec éclairage volumétrique.
-
-#### 📝 Prompt
-
-```
-Créez une scène cinématographique photoréaliste en pied dans la même cathédrale gothique sombre, avec des rayons lumineux volumétriques dramatiques et des colonnes de pierre. Le mystérieux roi chevalier en armure noire ornée, couronne dorée, cape à capuche en velours rouge avec broderies d'or...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106962340663185408/img/TuIgHGXpfdd9HVuA.jpg" width="600" alt="Scène du Roi Chevalier de la Cathédrale Gothique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11965)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2106962402625642616) | **Published:** Oct 5, 2026
-
----
-### Grok Imagine : Conscience de Madonna
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt animant une image de Madonna pour qu'elle prononce des répliques spécifiques avec une ambiance méditative.
-
-#### 📝 Prompt
-
-```
-Laissez l'image de Madonna telle quelle, alors qu'elle murmure d'une voix claire les mots : « Tout commence par la conscience. », puis faites dire aux deux images ensemble : « Nous serons un, nous serons divins. » Donnez-lui une ambiance méditative et éthérée.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106935375856054272/img/w3SU1z4EH2Hnye_J.jpg" width="600" alt="Grok Imagine : Conscience de Madonna">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11963)**
-
-**Author:** [Julio McCauley](https://x.com/CosmicJulioBro) | **Source:** [Link](https://x.com/CosmicJulioBro/status/2106935406176702934) | **Published:** Oct 5, 2026
-
----
-### Tourbillon Fantomatique dans une Cuisine Cosy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt poétique et détaillé pour une vidéo en slow-motion d'une décoration fantôme lumineuse tournoyant dans une cuisine cosy, entourée de pétales de roses et de guirlandes lumineuses.
-
-#### 📝 Prompt
-
-```
-Une décoration fantôme lumineuse dans une cuisine cosy la nuit, capturée dans un tourbillon lent et onirique…
-Le drap blanc est en plein mouvement, doux et fluide, mais le geste est délicat et sans hâte, comme si le fantôme se rappelait une danse qu'il connaissait autrefois…
-La lumière interne brille chaleureusement à travers le tissu, stable et douce…
-Deux yeux ovales noirs regardent vers l'avant, calmes et silencieux…
-Des pétales de roses roses dérivent lentement dans l'air autour de lui, suspendus dans l'instant…
-Des guirlandes lumineuses violettes et oranges brillent le long des placards et des étagères en arrière-plan…
-Un vase de roses roses et blanches trône sur le comptoir derrière lui…
-Des décorations d'Halloween — citrouilles, nains, hiboux, tournesol — remplissent les étagères, toutes immobiles…
-La cuisine est silencieuse, le fantôme est au repos, l'instant est figé…
-Les yeux du fantôme légèrement clos…
-Comme s'il était perdu dans ses souvenirs…
-La lumière vacille, telle une flamme qui se souvient… Le fantôme reste doux…
-Il ne devient jamais net…
-C'est tout le secret…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106931393112551424/img/rP1MlDXheSGASwoj.jpg" width="600" alt="Tourbillon Fantomatique dans une Cuisine Cosy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11962)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106931506694193403) | **Published:** Oct 5, 2026
-
----
-### Prompt Grok Imagine : Animation onirique d'une décoration fantôme lumineuse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo pour Grok Imagine afin d'animer une décoration fantôme lumineuse dans une cuisine cosy avec un mouvement lent et onirique.
-
-#### 📝 Prompt
-
-```
-Animez cette image exacte, Une décoration fantôme lumineuse dans une cuisine cosy la nuit, capturée dans une rotation lente et onirique…
-…
-Le drap blanc est en plein mouvement, doux et fluide, mais le déplacement est léger et sans hâte, comme si le fantôme se rappelait une danse...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106929051705192448/img/egOhllHpFI9kqDWs.jpg" width="600" alt="Prompt Grok Imagine : Animation onirique d'une décoration fantôme lumineuse">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=11968)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2106929145942831576) | **Published:** Oct 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2546,6 +2508,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-15T04:23:39.762Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-15T13:30:08.802Z</sub>
 
 </div>
