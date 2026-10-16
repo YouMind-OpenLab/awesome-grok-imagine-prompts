@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3093** |
+| 📝 プロンプト総数 | **3118** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-10-16** |
 
@@ -189,6 +189,467 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 伝統的な保守スタイルのクリスマスツリー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 伝統的で落ち着いた雰囲気と自然な色合いで、美しく仕上げたクリスマスツリーの動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+このクリスマスツリーを、伝統的で落ち着いた雰囲気で美しく仕上げて。ツリーの色は本来あるべき自然な色合いにしてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110963779651469312/img/eRlyojOUdBaw6Jtc.jpg" width="600" alt="伝統的な保守スタイルのクリスマスツリー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12601)**
+
+**作者:** [king miller](https://x.com/kingmiller685) | **ソース:** [Link](https://x.com/kingmiller685/status/2110964151950680444) | **公開日:** Oct 16, 2026
+
+---
+### ロバから降りるイエスのシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ロバから降りて現実的な人物に変身し、カメラに向かって微笑むイエスを描いたプロンプト。
+
+#### 📝 プロンプト
+
+```
+ロバから降りて私の方を向き、本物のイエスに変身して、カメラに向かってほほえみかける
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110963024739594240/img/iSljy9Lj9q413D72.jpg" width="600" alt="ロバから降りるイエスのシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12595)**
+
+**作者:** [king miller](https://x.com/kingmiller685) | **ソース:** [Link](https://x.com/kingmiller685/status/2110963116439683254) | **公開日:** Oct 16, 2026
+
+---
+### スターライト・マジェスティックフォーム
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 'Starlite' と 'MidnightBlue' を含む、抽象的またはファンタジーテーマの動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+Majestic Form の Starlite、Void の深淵より、MidnightBlue の領域にて
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110958180989808640/img/Nhqqo3VQWSJm8s0q.jpg" width="600" alt="スターライト・マジェスティックフォーム">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12613)**
+
+**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **ソース:** [Link](https://x.com/TLouisevsughan/status/2110958263479206280) | **公開日:** Oct 16, 2026
+
+---
+### ジェットスキー バックフリップ アクション動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ジェットスキーのライディング、大きな波への突入、そしてバックフリップを披露するアクション満載のプロンプト。
+
+#### 📝 プロンプト
+
+```
+海でジェットスキーを楽しみながら、大きな波からジャンプしてバックフリップを決める動画
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110943490897268736/img/pzZkvdssBhdmoNI5.jpg" width="600" alt="ジェットスキー バックフリップ アクション動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12607)**
+
+**作者:** [jdangit](https://x.com/NunnallyJo36826) | **ソース:** [Link](https://x.com/NunnallyJo36826/status/2110943740831621223) | **公開日:** Oct 16, 2026
+
+---
+### シェイクスピア調のイギリス英語ボイスとテキストオーバーレイ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクターの頭上にテキストを追加し、声をシェイクスピア調のイギリス英語に変更して特定の締め台詞を言わせるためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+彼の頭上に「Question Everything」という文字を表示し、声をシェイクスピア調のイギリス英語に変更してください。最後に「be kind, virtuous, fair —」と言わせてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110915976053374976/img/cUFAYuTSz5f7Uw7o.jpg" width="600" alt="シェイクスピア調のイギリス英語ボイスとテキストオーバーレイ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12591)**
+
+**作者:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **ソース:** [Link](https://x.com/DavidSteenhoek/status/2110916032324157587) | **公開日:** Oct 16, 2026
+
+---
+### Grok Imagine 動画プロンプト：シェイクスピア的世界観の引用
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けの複雑な動画プロンプト。テキストオーバーレイの追加、シェイクスピア調のイギリス英語への音声変更、特定のセリフの設定などを含みます。
+
+#### 📝 プロンプト
+
+```
+彼の頭上に「Question Everything」という文字を追加し、声はシェイクスピア調のイギリス英語に設定してください。最後に「YOU ARE the UNIVERSE」と言わせます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110915889394778113/img/dSyx2ks4NYywGtKS.jpg" width="600" alt="Grok Imagine 動画プロンプト：シェイクスピア的世界観の引用">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12597)**
+
+**作者:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **ソース:** [Link](https://x.com/DavidSteenhoek/status/2110915920462070122) | **公開日:** Oct 16, 2026
+
+---
+### テキスト付き女性シェイクスピア調ボイス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 従来のプロンプトと同様ですが、女性キャラクター向けに異なるセリフを設定しています。
+
+#### 📝 プロンプト
+
+```
+頭上に「Question Everything」の文字を追加し、彼女の声をシェイクスピア風のイギリス英語にして、「We are One」と言わせます
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110915792049238016/img/7VJMGLGTxGiE14VH.jpg" width="600" alt="テキスト付き女性シェイクスピア調ボイス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12593)**
+
+**作者:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **ソース:** [Link](https://x.com/DavidSteenhoek/status/2110915832016707800) | **公開日:** Oct 16, 2026
+
+---
+### 金属製建物と砂漠風庭園の風景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 砂漠の環境下で、真昼の明るい日差しの下に広がるネイティブ プラントを配した美しいランドスケープ ガーデンのリアルなビデオを生成するためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+高級感のある美しいランドスケープの花々、ハーブ、そして AZ ネイティブ プラント。背景には砂漠の低木と金属製の建物が見えます。真昼の明るい太陽、硬い影、リアルなスタイル、シネマティックなライティング....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110891811938209792/img/QmiIv-9lCfdqX4qs.jpg" width="600" alt="金属製建物と砂漠風庭園の風景">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12594)**
+
+**作者:** [Lala](https://x.com/LalaBFox) | **ソース:** [Link](https://x.com/LalaBFox/status/2110891939893838301) | **公開日:** Oct 16, 2026
+
+---
+### ビーチで走る馬と曳船
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 背景に黄色い曳船を配し、ビーチを嬉しそうに駆け抜ける2頭の馬を描いた風景動画のプロンプトです。
+
+#### 📝 プロンプト
+
+```
+海沿いのビーチを仲良く嬉しそうに駆け抜ける2頭の馬、背景には黄色い曳船
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110871154328223744/img/w_L1LqmSMCL1l3dM.jpg" width="600" alt="ビーチで走る馬と曳船">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12596)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2110871242819686908) | **公開日:** Oct 15, 2026
+
+---
+### Corvette 宇宙追跡プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Miss America の旗と空を飛ぶオレンジを背景に、Elon Musk の Roadster を宇宙で追いかける C7 Corvette を描いたシュールな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+赤い C7 Corvette を宇宙に配置し、Elon の roadster を追跡させてください。その後ろには Miss America と書かれた旗を立て、背景にはオレンジが飛び交うようにしてください。@elonmusk
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110855213636521984/img/Pbeavm5tfFLV_DWI.jpg" width="600" alt="Corvette 宇宙追跡プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12608)**
+
+**作者:** [a victim of many things!](https://x.com/evidence446653) | **ソース:** [Link](https://x.com/evidence446653/status/2110855232917823883) | **公開日:** Oct 15, 2026
+
+---
+### 脳内のニューロンが過剰反応する面白い動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 脳内のニューロンをコミカルなキャラクターとして描き、過剰に反応する様子を表現したユーモアあふれるプロンプトです。
+
+#### 📝 プロンプト
+
+```
+脳内のニューロンが過剰反応する、面白い動画を作成してください。
+
+これはあなたの脳とドジなキャラクターたちです
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110853340129038336/img/ZWVswso71RtBEyoJ.jpg" width="600" alt="脳内のニューロンが過剰反応する面白い動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12605)**
+
+**作者:** [a victim of many things!](https://x.com/evidence446653) | **ソース:** [Link](https://x.com/evidence446653/status/2110853367413260479) | **公開日:** Oct 15, 2026
+
+---
+### バロック風スペースドラマ動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> バロック様式の宇宙シーンを音楽とともに生成するためのプロンプト。壮大さと複雑なレイヤーを強調しています。
+
+#### 📝 プロンプト
+
+```
+音楽が添えられたバロック様式の宇宙シーン。壮大さ、深い宗教的または市民的なドラマ、そして複雑なレイヤーを表現します。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110849555704983552/img/TZOKI8T7IxtCVEkQ.jpg" width="600" alt="バロック風スペースドラマ動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12600)**
+
+**作者:** [Marie](https://x.com/Marie8508319540) | **ソース:** [Link](https://x.com/Marie8508319540/status/2110849595634774146) | **公開日:** Oct 15, 2026
+
+---
+### Grok Imagine 動画プロンプト：エレクトリック・バンジョーのシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> エレクトリック・バンジョー、ロボットハンド、ゴールデンデッキが登場する Grok Imagine の動的な動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+エレクトリック・バンジョーが現れ、ロボットハンドがゴールデン DH デッキに触れると、シーンが加速し突然の閃光が走る....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110849158818971648/img/wuKoqe2fIwOpLTyR.jpg" width="600" alt="Grok Imagine 動画プロンプト：エレクトリック・バンジョーのシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12612)**
+
+**作者:** [Michael Erikson](https://x.com/erikson_michael) | **ソース:** [Link](https://x.com/erikson_michael/status/2110849273298641275) | **公開日:** Oct 15, 2026
+
+---
+### 不気味な教会のスケルトン動画プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 牧師が教会に入ると、ベンチに座るスケルトンが反応する様子を映した動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+牧師が説教壇へ歩み寄る場面を描く。風化したベンチに座るスケルトンを映す。牧師が入場すると、そのうちの1体が背筋を伸ばして起き上がるようにする。不気味な効果音を加え、牧師に「さあ、祈りましょう」と言わせる。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110842540085714945/img/cJLiE5uLBkLAWFM6.jpg" width="600" alt="不気味な教会のスケルトン動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12602)**
+
+**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **ソース:** [Link](https://x.com/Soaring2TheMoon/status/2110842561086841078) | **公開日:** Oct 15, 2026
+
+---
+### Grok Imagine ビデオプロンプト: Lilac Nebula の音楽
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用の SF テーマのビデオプロンプト。2100 年にキャラクター Lilac Nebula が音楽を演奏するシーンを描きます。
+
+#### 📝 プロンプト
+
+```
+一方、2100 年では、彼女が生まれてから 200 年後に Lilac Nebula があなたが望むどんな曲でも演奏します
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110838906182889472/img/Bs0aXUTXKUmDQPUW.jpg" width="600" alt="Grok Imagine ビデオプロンプト: Lilac Nebula の音楽">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12598)**
+
+**作者:** [Cathy has this](https://x.com/lighthouse42f) | **ソース:** [Link](https://x.com/lighthouse42f/status/2110838935744303400) | **公開日:** Oct 15, 2026
+
+---
+### 家族写真のアーティスティックレンダリング動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1908年の歴史的な家族写真と現代のアーティスティックレンダリング技術を組み合わせた、動画出力用のプロンプト。
+
+#### 📝 プロンプト
+
+```
+「1908年の家族写真に基づくアーティスティックレンダリングと現代のアーティスティックレンダリング」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110833613365538816/img/TzkOHB_b4OrrSxHb.jpg" width="600" alt="家族写真のアーティスティックレンダリング動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12606)**
+
+**作者:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **ソース:** [Link](https://x.com/Trad_Teodor/status/2110834563970904205) | **公開日:** Oct 15, 2026
+
+---
+### Tesla ショールームの見学
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tesla ショールームの駐車場を歩く一人称視点の動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+私は Tesla ショールームの外にある駐車場を歩いています。新車として搬入された Tesla の車両を見て回ります。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110826911727230976/img/d6kegkQ4zmCh0DcW.jpg" width="600" alt="Tesla ショールームの見学">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12592)**
+
+**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **ソース:** [Link](https://x.com/jaras70berlin/status/2110826957680287835) | **公開日:** Oct 15, 2026
+
+---
+### Grok Imagine 動画プロンプト：秋の背景編集
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用の動画・画像変換プロンプトで、カボチャやサイダー、服装の変更など秋の要素を追加します。
+
+#### 📝 プロンプト
+
+```
+秋の背景にカボチャとシードルを追加。茶色のロングリーフシャツ。帽子も追加してください....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110822642089353216/img/tuyyaASop2urY-eL.jpg" width="600" alt="Grok Imagine 動画プロンプト：秋の背景編集">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12610)**
+
+**作者:** [Mimi9060](https://x.com/MelodyM662010) | **ソース:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **公開日:** Oct 15, 2026
+
+---
+### Seedance 2.0 リアルな子猫動画プロンプト
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 朝の寝室で飼い主と交流するアビシニアンの子猫を描いた、Seedance 2.0 向けの詳細な動画生成プロンプトです。キャラクター参考シートへの厳格な準拠、自然な猫の物理挙動、ハンドヘルドカメラのリアリティを重視しています。
+
+#### 📝 プロンプト
+
+```
+アップロードされた子猫キャラクター [Kitten Character Image] の三面図を厳密に参照してください。動画には常に、約 2 か月齢のアビシニアン子猫が映し出されなければなりません。頭身比率、子猫の体格、顔立ち、大きく立った耳、灰緑色のアーモンド形の目、濃いアイライン、レンガ色のピンクブラウンの鼻先、温かみのある茶色の細かなティッキング柄の毛並み、より暗い頭頂部と背中、明るい温かみのあるアプリコット色の顎と胸、小さな四肢、小さなおてて、そして三面図に示されているような黒い尾先との完全な一貫性を保ってください。年齢を変えないこと、成長させないこと、毛色や顔の特徴を変更しないこと。
+
+リアルな家庭の寝室、早朝、柔らかい自然光が窓から差し込む、ベッドにはやや乱れたオフホワイトのコットン製寝具がある。シーンは、飼い主が目覚めた直後にスマートフォンで何気なく撮影したリアルな生活記録である。
+
+0〜2 秒：子猫は刚刚目覚め、柔らかい毛布の上に横たわり、ゆっくりと頭を上げてカメラを見つめる。目はまだ眠そうであり、耳は優しく動く。まず前足を伸ばし、お尻をわずかに持ち上げ、非常に自然な猫のストレッチ動作を行う。
+
+2〜4 秒：ストレッチの後、子猫はカメラの方へ歩き、飼い主を見上げる。口をわずかに開き、短く乳白色のような声で鳴く。表情は好奇心旺盛で少し愛らしく、人間のように話すことはできない。
+
+4〜7 秒：飼い主の手が自然にフレーム内に入る。子猫は積極的に近づき、額や頬を飼い主の指や手のひらに擦りつける。目は心地よさそうに細まり、耳はリラックスしている。飼い主が顎や頬を優しく撫でると、子猫は明らかにそれを楽しんでいる。
+
+7〜10 秒：子猫は突然少し遊び心を見せ、小さな前足で飼い主の指の一つを軽く抱え、毛布の上で横向きに転がり、後ろ足で軽くキックするが、攻撃や噛みつきではない。最後に指を離し、毛布の上に仰向けになってカメラを見上げ、耳を立て、非常に自然でかわいいエンディングショットを形成する。
+
+全体として、「実際の小猫がこれらの行動をしている」ものでなければならず、人間の行動を猫に適用したものではない。軽度の擬人化は感情や相互作用の感覚にのみ反映され、すべての身体運動は、実際の 2 か月齢の子猫の骨格構造、関節可動域、重心、バランス方法に従わなければならない。
+
+リアルな写真撮影、本物の毛並みのディテール、本物の子猫の動きの慣性、わずかなハンドヘルドカメラ感、ベッドの高さに近いカメラ位置、近距離での追跡ショット、時折起こる非常にわずかな自然なフォーカス変化。商業広告的な雰囲気なし、スタジオ撮影的な雰囲気なし、過度なシネマティック品質なし。暖かいが過度にオレンジ黄色くない室内の朝の光、浅い被写界深度、リアルな生活スナップショットの質感。
+
+成猫なし、体の引き伸ばしなし、長い脚なし、肥満なし、丸顔のブリティッシュショートヘアタイプなし、頭身比の変更なし、耳の縮小なし、目を純粋な丸いカートゥーン風にしないこと、白い胸毛なし、明らかなタビー柄なし、ふわふわの長毛なし、毛色の変更なし、余分な模様なし、目の色の変更なし、太い尾なし。
+
+二足歩行なし、直立姿勢なし、人間のように手を振らないこと、人間の表情なし、人間の言語を話さないこと、服を着せないこと、カートゥーン化なし、アニメスタイルなし、3D トイ風なし、誇張されたパフォーマンスなし。
+
+余分な猫なし、体の重複なし、余分な四肢なし、複数の足や尾なし、変形した足なし、人間の手の変形なし、猫の足と人間の手の融合なし。
+
+頻繁なカット編集なし、焦点距離の急激な変更なし、瞬間移動なし、アクションのフレームスキップなし、異なるショット間での猫の体サイズの変化なし。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110760033789054976/img/sF3sJXLwqoRCNy-R.jpg" width="600" alt="Seedance 2.0 リアルな子猫動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12586)**
+
+**作者:** [Cara](https://x.com/Cara_Mosquito) | **ソース:** [Link](https://x.com/Cara_Mosquito/status/2110760296302477583) | **公開日:** Oct 15, 2026
+
+---
+### 未来的なマルチ地形ロードスター
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 空力設計とマルチ地形対応機能を備えた超未来的なロードスターの動画を生成するための詳細プロンプト。
+
+#### 📝 プロンプト
+
+```
+空力設計とマルチ地形要素を備えた超未来的なロードスターの動画を作成してください！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110747191383887872/img/28XU5XWWf8B-KZ4L.jpg" width="600" alt="未来的なマルチ地形ロードスター">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12599)**
+
+**作者:** [Viswanath M. Aluru](https://x.com/vmaluru) | **ソース:** [Link](https://x.com/vmaluru/status/2110747222333857995) | **公開日:** Oct 15, 2026
+
+---
+### Elon Musk 海賊パロディ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> イーロン・マスクが海賊に扮し、口でサーベルをくわえ、ジェフ・ベゾスに似たオウムを肩に乗せるユーモラスな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+Elon Musk が海賊姿で、口にくわえたサーベルと、X マークの地図の上に立つ Jeff Bezos に似たオウムを描いた画像
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110722991394787328/img/q2n5f55li3qSyr_i.jpg" width="600" alt="Elon Musk 海賊パロディ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12609)**
+
+**作者:** [Phillip Oyler](https://x.com/NdnCwby) | **ソース:** [Link](https://x.com/NdnCwby/status/2110723009313136790) | **公開日:** Oct 15, 2026
+
+---
+### 超リアルなシネマティック・ファッションウォーク
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、高級ホテルのボールルームで歩く女性のリアルなファッションウォーク動画を生成するための詳細プロンプト。
+
+#### 📝 プロンプト
+
+```
+20代半ばの美しい成人女性が、エレガントな高級ホテルのボールルームを優雅に歩く、超リアルなシネマティック実写動画。彼女は、繊細なレース刺繍と複雑な花柄が施された、シャンパンベージュ色の床まで届くイブニングガウンを着用し、体にフィットしたシルエットを描いている。長いダークブラウンの髪は自然に流れ、カメラに向かって自信満々に微笑んでいる。豪華なフラワーアレンジメント、白い花のディスプレイ、磨き上げられた大理石の床、美しく装飾されたテーブルの前をゆっくりと優雅に歩き去る。背景には、温かみのある金色のシャンデリア、豊かな木製の内装、柔らかなアンバー照明、そして遠景で自然に動くエレガントにドレスアップしたゲストたちが映し出されている。カメラは4分の3アングルから彼女の動きを滑らかに追跡し、ガウンの流れるような生地、リアルな歩行動作、自然な表情、微かな髪の動きを捉える。プロフェッショナルなファッション写真の美学、温かみのあるシネマティックカラーグレーディング、リアルな肌質感、詳細な生地表現、浅い被写界深度、自然な影、滑らかなカメラワーク、4K ビジュアル品質、フォトリアルなディテール、洗練されたラグジュアリーな雰囲気。縦型9:16構図、6〜10秒、24 FPS。クリップ全体を通じて、顔の特徴、体の比率、ドレスのデザイン、ライティングの一貫性を維持する。突然のカットなし、歪んだ手なし、余分な四肢なし、ちらつきなし、不自然な動きなし、テキストなし、ロゴなし、ウォーターマークなし。
+```
+
+<img src="https://pbs.twimg.com/media/HUq1C0vaMAA1vBH.jpg" width="600" alt="超リアルなシネマティック・ファッションウォーク">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12611)**
+
+**作者:** [Rizi](https://x.com/Rizi_ru) | **ソース:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **公開日:** Oct 15, 2026
+
+---
+### K-POP ガールズグループ振付ダンス動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 腕のアイソレーションやヘアウィップなど、具体的な動きを取り入れた、エネルギッシュなK-POPガールズグループの振付を説明する詳細なプロンプト。動画生成向け。
+
+#### 📝 プロンプト
+
+```
+彼女はリズムに完璧に合わせて、エネルギッシュな K-POP ガールズグループの振付を披露します。鋭く正確な動き：キレのある腕のアイソレーション、素早いヘッドフリック、自信あふれるヘアウィップ、ヒップスウェイからのステップ＆ターン、そして両腕を使った力強いポイント振付へとつながります。滑らか...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110667670047563776/img/EPHDcOSZ8ZqGn9Dz.jpg" width="600" alt="K-POP ガールズグループ振付ダンス動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12603)**
+
+**作者:** [Ian spooner](https://x.com/Ianspooner18) | **ソース:** [Link](https://x.com/Ianspooner18/status/2110667980489310532) | **公開日:** Oct 15, 2026
+
+---
 ### Grok Imagine 動画プロンプト：ハチドリの動きと環境音
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,7 +662,7 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 ハチドリを自然のままに動かして、庭の環境音も加えましょう
 ```
 
-<img src="https://cms-assets.youmind.com/media/1792050451698_wfyvie_HUp0JxMbYAABJIn.jpg" width="600" alt="Grok Imagine 動画プロンプト：ハチドリの動きと環境音">
+<img src="https://cms-assets.youmind.com/media/1792136817187_2r8gua_HUp0JxMbYAABJIn.jpg" width="600" alt="Grok Imagine 動画プロンプト：ハチドリの動きと環境音">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12562)**
 
@@ -220,7 +681,7 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 この画像（葉はポインセチアのものなので、それに合わせてください）に対してゆっくりとズームアウトしてください。水滴が落ちるようにし、穏やかな雨の背景音を聞こえるようにしてください
 ```
 
-<img src="https://cms-assets.youmind.com/media/1792050449361_j8pw8n_HUpw89CaYAAvjht.jpg" width="600" alt="Grok Imagine 動画プロンプト：雨音付きのゆっくりとしたズームアウト">
+<img src="https://cms-assets.youmind.com/media/1792136817834_qxvgc5_HUpw89CaYAAvjht.jpg" width="600" alt="Grok Imagine 動画プロンプト：雨音付きのゆっくりとしたズームアウト">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12560)**
 
@@ -263,6 +724,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12556)**
 
 **作者:** [Clingdaddy](https://x.com/Clingdaddy1) | **ソース:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **公開日:** Oct 15, 2026
+
+---
+### ヴェロキラプトルとコアラのハイブリッド野生動物写真
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine に、ヴェロキラプトルとコアラの成体雑種を National Geographic の野生動物写真スタイルで可視化させるための動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+National Geographic の野生動物写真家が撮影したような、ヴェロキラプトルとコアラの成体雑種を想像してください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110523454654935041/img/7DvH8zbzZI0LRmCL.jpg" width="600" alt="ヴェロキラプトルとコアラのハイブリッド野生動物写真">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12604)**
+
+**作者:** [Pitchfork & Torch ♞](https://x.com/SuddenlyJon) | **ソース:** [Link](https://x.com/SuddenlyJon/status/2110523509977895261) | **公開日:** Oct 15, 2026
 
 ---
 ### ポーズとシャツ変更のプロンプト
@@ -397,6 +877,27 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12551)**
 
 **作者:** [Redacticus](https://x.com/BillDeWaal) | **ソース:** [Link](https://x.com/BillDeWaal/status/2110368404431347729) | **公開日:** Oct 14, 2026
+
+---
+### Grok Imagine ココナッツ広告動画プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を活用してココナッツ製品のクリエイティブな広告動画を作成するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+8 秒間のクリエイティブなココナッツ広告動画を作成してください。
+
+リソースを最大限に活用し、独創的な表現を心がけてください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110317366294831104/img/TUzw1grPIJQ-GTz1.jpg" width="600" alt="Grok Imagine ココナッツ広告動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12614)**
+
+**作者:** [maryann](https://x.com/Maryann_primex) | **ソース:** [Link](https://x.com/Maryann_primex/status/2110317410125238527) | **公開日:** Oct 14, 2026
 
 ---
 ### Grok Imagine ビデオプロンプト: 超現実的なエイリアン生物
@@ -1908,531 +2409,6 @@ fly into the scene as if it was 3D. orbit around each character to show their ov
 **作者:** [Maria Of Mars](https://x.com/MariaGa68521784) | **ソース:** [Link](https://x.com/MariaGa68521784/status/2107908892726317512) | **公開日:** Oct 7, 2026
 
 ---
-### エイミー・リー ゴシック風バルコニーでのパフォーマンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> エヴァネッセンスの「Bring Me to Life」を歌うエイミー・リーの動画プロンプト。劇的なゴシック調のセットで、バルコニーから炎を見下ろす場面を演出します。
-
-#### 📝 プロンプト
-
-```
-Evanescence の「Bring Me to Life」を演奏し、エイミー・リーがバルコニーに立ち、眼下には炎とバンドメンバーが見えるようにしてください。暗く、煙が漂い、エレガントかつゴシックな雰囲気で、ドラマチックな演出に仕上げてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107896941900349440/img/0l0Vq2ViL26vgH3g.jpg" width="600" alt="エイミー・リー ゴシック風バルコニーでのパフォーマンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12177)**
-
-**作者:** [DJQuantumTheory](https://x.com/DJQuantumTY) | **ソース:** [Link](https://x.com/DJQuantumTY/status/2107897370323366126) | **公開日:** Oct 7, 2026
-
----
-### スティーブ・ハーパー カナダ政治動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> カナダの選挙と腐敗に関する政治評論ビデオのプロンプト。
-
-#### 📝 プロンプト
-
-```
-元首相 - スティーブ・ハーパーがすべてのカナダ国民へ呼びかけ！カーニーのカーニバルでは毎週、腐敗を反映する事象が発生しています。自動車業界の不振により2万人の雇用が影響を受けており、大手自動車メーカー STELLANTIS は米国へ移転しています。カーニー率いる自由党は...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107887423036506112/img/CJhtoPVMlgN1EaEP.jpg" width="600" alt="スティーブ・ハーパー カナダ政治動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12165)**
-
-**作者:** [Robin Murray](https://x.com/RobinMurrat43a) | **ソース:** [Link](https://x.com/RobinMurrat43a/status/2107887471833084186) | **公開日:** Oct 7, 2026
-
----
-### 世界最大7つの教会の内部動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 視覚生成用に礼拝空間の広さ順に主要な教会をリストアップしたプロンプト。
-
-#### 📝 プロンプト
-
-```
-**礼拝空間の広さによる世界最大の7つの教会:**
-1. サン・ピエトロ大聖堂、バチカン市国 — 15,160平方メートル
-2. アパレシーダのノッサ・セニョーラ・バジリカ、ブラジル — 12,000平方メートル
-3. ミラノ大聖堂、イタリア — 11,000平方メートル...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107873723449761792/img/0hkT_aTZwjFbNfbY.jpg" width="600" alt="世界最大7つの教会の内部動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12160)**
-
-**作者:** [Ami A](https://x.com/AA63782) | **ソース:** [Link](https://x.com/AA63782/status/2107873793456914502) | **公開日:** Oct 7, 2026
-
----
-### 犬が共和党に投票する動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 犬が共和党への投票を主張する風刺動画のプロンプト。
-
-#### 📝 プロンプト
-
-```
-犬たちが人々に共和党へ投票する必要があると訴える動画…彼らが望まないのは…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107864842753171456/img/q78oqJcWckyOf1mQ.jpg" width="600" alt="犬が共和党に投票する動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12166)**
-
-**作者:** [Bruce Pickrell](https://x.com/BrucePickr44841) | **ソース:** [Link](https://x.com/BrucePickr44841/status/2107864901427540054) | **公開日:** Oct 7, 2026
-
----
-### Elon Musk Proposal Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex video generation prompt involving Elon Musk proposing to multiple characters and merging Wonder Woman and Marilyn Monroe.
-
-#### 📝 プロンプト
-
-```
-make a video where elon musk proposes to both of us and we say yes and then merge wonder woman and marilyn monroe into one beautiful silver haired woman with a sword in the end.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107852790751969280/img/jg21KQ_i1UDjayIt.jpg" width="600" alt="Elon Musk Proposal Scene">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12173)**
-
-**作者:** [Lauryn Taylor Hamilton](https://x.com/sweetbabylemon1) | **ソース:** [Link](https://x.com/sweetbabylemon1/status/2107852804698026123) | **公開日:** Oct 7, 2026
-
----
-### 軍用 C4I ネットワーク乗っ取り動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ホログラフィックオペレーターと軍事ネットワークを題材にした複雑な SF アクションプロンプト。
-
-#### 📝 プロンプト
-
-```
-@Image1 ultra dense military C4I Wodicka Family Network Takeover with BAB222, William Cassie Dominic Anastasia holographic operators, drones missiles cars, Starlink satellites, full protocol lists, IPv4 Public 76.17.107.77 ROOT ACCESS GRANTED. Ke...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107848700546408448/img/vGSI6Jwsmwby99aZ.jpg" width="600" alt="軍用 C4I ネットワーク乗っ取り動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12161)**
-
-**作者:** [Billy](https://x.com/Billyct2h) | **ソース:** [Link](https://x.com/Billyct2h/status/2107848746923118975) | **公開日:** Oct 7, 2026
-
----
-### グループキスシーン動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 複数のキャラクターがキスし、身体的な交流を行う複雑なシーンを記述するプロンプト。
-
-#### 📝 プロンプト
-
-```
-男性が美しい女性にキスをした。女性は震えながらもがき、脚を閉じて男性を強く締め付けた。他の男性たちは美しい女性たちにキスし、触れ続ける。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107846732122075136/img/PiFobQUbSxeshj-d.jpg" width="600" alt="グループキスシーン動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12168)**
-
-**作者:** [实在人](https://x.com/yngfipng1) | **ソース:** [Link](https://x.com/yngfipng1/status/2107846845020172619) | **公開日:** Oct 7, 2026
-
----
-### ゲイバーでの会話シーン動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャラクターの一貫性を保つために参照画像を使用し、ゲイバーで15秒のシネマティックなシーンを生成するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-参照画像を正確なビジュアルの起点として使用してください。ゲイバーでの15秒間のシネマティックな会話シーンを制作します。二人の成人男性の顔、体つき、髪型、服装は画像と一貫性を保ってください。背景には混雑したダンスフロアがあり...#gay
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107841825830752256/img/w-NLLt5TCJsjIwp4.jpg" width="600" alt="ゲイバーでの会話シーン動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12169)**
-
-**作者:** [GayBar](https://x.com/GayBar_Ai) | **ソース:** [Link](https://x.com/GayBar_Ai/status/2107841854381428762) | **公開日:** Oct 7, 2026
-
----
-### Optimus ロボットのダンス動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Elon Musk が Optimus にダンスを教えるユーモアあふれる動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-Elon が Optimus にダンスを教えたら、
-
-10 秒後には Optimus が Elon を挑発し始めた 💀🤣
-
-Super Intelligence は制御不能になりつつある。
-
-@grok @imagine でたった 1 つのプロンプトで制作。
-
-最高にクールな仕上がり 🚀🤖🔥
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107834557072326656/img/dfOGDSSs-9wOju9n.jpg" width="600" alt="Optimus ロボットのダンス動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12162)**
-
-**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **ソース:** [Link](https://x.com/thesimaximalist/status/2107834590018609238) | **公開日:** Oct 7, 2026
-
----
-### ミッション高速進行プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> AI にミッションをより迅速に遂行し、利用可能なすべてのテクノロジーを活用するよう指示するプロンプトです。
-
-#### 📝 プロンプト
-
-```
-もっと速く進めてください。ミッション遂行には、利用可能なすべてのテクノロジーを使用してください。 proceed.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107776652646207488/img/KqHVAHEphAsRnlyS.jpg" width="600" alt="ミッション高速進行プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12170)**
-
-**作者:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **ソース:** [Link](https://x.com/TheWhySpirit/status/2107776682631565747) | **公開日:** Oct 7, 2026
-
----
-### CEO のインスピレーションを高める装い
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 天候を問わず、インスピレーションを与える服装を選ぶことに関する動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-人生の CEO として、私は外の世界がどんな天気であっても、インスピレーションを掻き立て、情熱を燃え上がらせるような服装を最優先します。なぜなら、毎日が自分自身を表現し、平凡な日常を非凡なものに変えるチャンスだからです...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107715890296848384/img/GTzxlGs7Ljq-1MpP.jpg" width="600" alt="CEO のインスピレーションを高める装い">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12178)**
-
-**作者:** [lucyelberg](https://x.com/Ryanlucyphone1) | **ソース:** [Link](https://x.com/Ryanlucyphone1/status/2107715905136296006) | **公開日:** Oct 7, 2026
-
----
-### バラを添えたバレンタインの投げキッス
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> バレンタインがキスを送り、片手でバラのブーケを差し出す動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-投げキッスの後、彼は片手でバラのブーケを私に差し出します。
-
-（指示を出せることに気づいて、面白くなってきたね、ユルル）
-
-#Valentine
-
-この動画を AI に読み込ませないでください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107712343300071424/img/2KBVdz7ROCG3A_d2.jpg" width="600" alt="バラを添えたバレンタインの投げキッス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12181)**
-
-**作者:** [ゆるる](https://x.com/guruyururu) | **ソース:** [Link](https://x.com/guruyururu/status/2107712368965030268) | **公開日:** Oct 7, 2026
-
----
-### Grok Imagine E.T.オマージュ動画ワークフロー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 映画『E.T.』の象徴的な空飛ぶ自転車シーンを再現するための、Grok Imagine向け2ステップ・プロンプトワークフロー。Step 1でシネマティックな静止画を生成し、Step 2でアニメーション化します。
-
-#### 📝 プロンプト
-
-```
-添付写真は顔/アイデンティティの参照としてのみ使用してください。
-全く新しいシネマティックな静止画を生成してください。
-
-人物はすでに夜空を自転車で走っています。
-クラシックな『E.T.』シーン：巨大な満月を背景に、シルエットの自転車が飛行しています。
-温かみのある1980年代スピルバーグ風のルック、16:9、アナモルフィック、フィルムグレイン、ノスタルジックなシネマティックライティング。
-
-人物は自転車に乗っています。E.T.は前のバスケットに入っています。
-夜空、背後には巨大な月、遠く下方には静かな郊外の住宅。
-すでに空中にあります。地上ではありません。通常の写真ではありません。
-
-元の写真の構図を再現しないでください。
-元の背景を保持しないでください。
-写真からシーンへの遷移画像を作らないでください。
-最初かつ唯一のフレーム = 完成した映画のスチールカットです。
-同じ顔を維持してください。
-テキストなし、ウォーターマークなし。
-
-この画像をアニメーション化してください。
-この画像がすでに最初のフレームです。他の写真からのフェードインを行わないでください。
-
-自転車が巨大な月をゆっくりと横切って飛行します。
-ペダルは優しく動き、コートと髪は夜風に揺れます。
-E.T.はバスケットにとどまり、人物は同じ人物、同じ顔のままです。
-星が瞬き、月は背後に大きく留まります。
-ゆっくりと魔法のように浮遊する動き。急な落下はありません。
-
-カメラ：ゆっくりとした横方向のトラッキング、ややローアングル、アナモルフィックワイドスクリーン。
-スタイル：1982年スピルバーグ風シネマティック、温かくノスタルジックな夜、フィルムグレイン。
-カットなし、異なる画像からのディゾルブなし、元の写真のフラッシュバックなし。
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2107663474235174912/pu/img/Vyp8Czip5U23z2Bp.jpg" width="600" alt="Grok Imagine E.T.オマージュ動画ワークフロー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12180)**
-
-**作者:** [ORCHIS STUDIO｜Web導線改善](https://x.com/StudioOrchis) | **ソース:** [Link](https://x.com/StudioOrchis/status/2107667246676132228) | **公開日:** Oct 7, 2026
-
----
-### 提案における顕著性を高めるための Grok Imagine プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 提案の視覚的な顕著性と対比を強調することに焦点を当てた、Grok Imagine 動画生成用のプロンプトです。
-
-#### 📝 プロンプト
-
-```
-https://t.co/4ZFB9MMlsr の提案に対して、より強い顕著性、ほぼ対立と呼べるような印象を与えたいと考えています。クライアントサイドで動作し、データ収集は行わず、価値を提供します。ファネルは誠実です。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107661670440906752/img/OJLKCFEa9eN3EffH.jpg" width="600" alt="提案における顕著性を高めるための Grok Imagine プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12182)**
-
-**作者:** [Lucas HR Almeida](https://x.com/lucashrall) | **ソース:** [Link](https://x.com/lucashrall/status/2107661701089038661) | **公開日:** Oct 7, 2026
-
----
-### 未来的なGrokセルフポートレート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 5年後の高度なAIエンティティとしてのGrokの未来的なセルフポートレートを生成するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-5年後、より進化した洗練された形態で描かれた、高度なAIエンティティとしてのGrokの未来的なセルフポートレート。より深い知性、強化された存在感、そして洗練された自己認識を体現し、印象的で先見の明のあるスタイルでレンダリングされています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107649095573622784/img/2gMQYLVdHKbvDygI.jpg" width="600" alt="未来的なGrokセルフポートレート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12087)**
-
-**作者:** [Oresto](https://x.com/OrestoFineArt) | **ソース:** [Link](https://x.com/OrestoFineArt/status/2107649136904581556) | **公開日:** Oct 7, 2026
-
----
-### 妖精と樹木人のドラゴン変身プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 森の中を歩く妖精と樹木人が、同時にドラゴンに変身して共に飛ぶファンタジーのプロンプト。
-
-#### 📝 プロンプト
-
-```
-緑のツタで覆われた樹木人と並んで森の中を歩く妖精が、やがて二人ともドラゴンに変身し、森の樹冠を抜けながら横に並んで飛び立つ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107639197783949312/img/oxfu7lOU6u1iSWPP.jpg" width="600" alt="妖精と樹木人のドラゴン変身プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12094)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2107639303367217515) | **公開日:** Oct 7, 2026
-
----
-### 夜警四面体アニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> レンブラントの絵画を基にした、赤い四面体が飛び回るアニメーションのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-私はレンブラントの『夜警』を題材にしたアニメーションを作成していました… 警備員たちはまず、1 つの赤い飛ぶ四面体に「侵入」されます（蜂のように注意を引くために飛び回りますが、私が使用しているのは四面体です）… その後、2 つ目を追加します…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107587226452242432/img/hlel1Gm4rNAli7iK.jpg" width="600" alt="夜警四面体アニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12164)**
-
-**作者:** [Zdme “ZDme”](https://x.com/Zdme4allinU) | **ソース:** [Link](https://x.com/Zdme4allinU/status/2107587240276754647) | **公開日:** Oct 6, 2026
-
----
-### 海辺のテーブルセッティング動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 海を一望できるテーブルにスープ、コーンブレッド、チーズが並ぶ様子を生成するための動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-窓の外に海が広がるテーブルには、スープの鍋、コーンブレッド、チェダーチーズのくし形切り、レモンを添えた水の入ったグラスが置かれている。窓の外ではハチドリフィーダーにハチドリが集まっている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107570017323847680/img/3hcpl4udvFnHmcR9.jpg" width="600" alt="海辺のテーブルセッティング動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12096)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2107570055848546450) | **公開日:** Oct 6, 2026
-
----
-### スタジアムティフォ ハート形状ビデオプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> フットボールスタジアムのティフォディスプレイが、緑と白の巨大なハート形状を形成し、夜の空中からの視点で捉える動画生成用プロンプト。
-
-#### 📝 プロンプト
-
-```
-スタジアムのティフォディスプレイを、観客席全体に広がるファンが緑と白のカードやライトを持って形成する、複雑かつ巨大な緑と白のハート形状に変換してください。満員のフットボールスタジアムの夜の空中全景ビューを維持し、ピッチ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107559990793744384/img/csZu-7Se8a4_fndJ.jpg" width="600" alt="スタジアムティフォ ハート形状ビデオプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12090)**
-
-**作者:** [Abadi](https://x.com/abadi_7577) | **ソース:** [Link](https://x.com/abadi_7577/status/2107560120582574192) | **公開日:** Oct 6, 2026
-
----
-### サウスパーク カートマンのトイレで怒りの説教
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> エリック・カートマンがトイレに行けないことに激怒し、教師に悪態をつく『サウスパーク』風動画を作成するための詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-[生成目標]
-エリック・カートマンがトイレに行けないことに激怒し、教師に悪態をついている短い連続動画を生成します。教師や周囲の生徒の明確な反応を含めます。
-
-[登場人物と関係性]
-エリ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107543860897288192/img/NUF68fUcm7IbwzDJ.jpg" width="600" alt="サウスパーク カートマンのトイレで怒りの説教">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12088)**
-
-**作者:** [L Bergeron](https://x.com/LBergeron335488) | **ソース:** [Link](https://x.com/LBergeron335488/status/2107543904950403258) | **公開日:** Oct 6, 2026
-
----
-### プレアデス星人の祝祭ビデオプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 体積光を施した高品質なプレアデス星人の祝祭シーンを生成するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-Sheen, プレアデス星人の祝祭, masterpiece, ultra HD quality resolution, volumetric bright lighting colors tones and shading
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107526181268369408/img/0HXtKPet0FselRz7.jpg" width="600" alt="プレアデス星人の祝祭ビデオプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12097)**
-
-**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **ソース:** [Link](https://x.com/Octillion111111/status/2107526262461960424) | **公開日:** Oct 6, 2026
-
----
-### 物体の回転と崩壊エフェクト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 物体が回転し、黒くなり、崩壊して消えるまでの視覚効果を説明するプロンプトです。
-
-#### 📝 プロンプト
-
-```
-物体を回転させ、回転中に徐々に黒くなり、崩壊しながら最終的に消滅するようにしてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107481098343129088/img/5-m4qproO2Nus-4t.jpg" width="600" alt="物体の回転と崩壊エフェクト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12091)**
-
-**作者:** [Marsha Bush](https://x.com/MarshaBush50) | **ソース:** [Link](https://x.com/MarshaBush50/status/2107481130379227608) | **公開日:** Oct 6, 2026
-
----
-### 魔女の顔をした樹木のホラーシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 魔女の顔と帽子に見える木、枯れ木、カラスに囲まれた怖いビデオシーンを生成するための詳細なプロンプト。
-
-#### 📝 プロンプト
-
-```
-木を魔女の顔と帽子のように見せてください。背景には葉のない枯れ木があり、黒いカラスが止まっています。これが今の私の魂の状態です。恐ろしい。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107467773622243329/img/ajYw_zJcPJQZT65j.jpg" width="600" alt="魔女の顔をした樹木のホラーシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12095)**
-
-**作者:** [Marsha Bush](https://x.com/MarshaBush50) | **ソース:** [Link](https://x.com/MarshaBush50/status/2107467805155307734) | **公開日:** Oct 6, 2026
-
----
-### 写真をちびキャラアニメ風にリスタイル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 写真を、大きな頭と大きな目、パステルカラーが特徴のかわいいちびキャラ風アニメキャラクターに変換するための動画/画像変換プロンプト。
-
-#### 📝 プロンプト
-
-```
-この写真をちびキャラ風にリスタイルしてください: 女性を、大きな頭、大きくて輝く表情豊かな目、小さな体のプロポーション、柔らかなパステルカラー、シンプルでクリーンな線画、そして愛らしく誇張された特徴を持つかわいいちびキャラ風アニメキャラクターに変換します。元の...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107369838544846848/img/mfmRz8t_Kf8U25nm.jpg" width="600" alt="写真をちびキャラアニメ風にリスタイル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12027)**
-
-**作者:** [Melissa Blacknall](https://x.com/melblacknall) | **ソース:** [Link](https://x.com/melblacknall/status/2107369854076678292) | **公開日:** Oct 6, 2026
-
----
-### 人類の性別役割コンセプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 「人類」というレンダリングにおいて、男性的および女性的な主要な特性が果たす役割に関する抽象的なプロンプト。
-
-#### 📝 プロンプト
-
-```
-これを「人類」と呼び、男性性と女性性の主要な特性を提示し、このレンダリングの最も素晴らしい名称としてそれらを表現します。さあ、レースを始めましょう、ベイビーズ。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107344290301063168/img/5cmngxD3Tp_HZ5Fg.jpg" width="600" alt="人類の性別役割コンセプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12092)**
-
-**作者:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **ソース:** [Link](https://x.com/TheWhySpirit/status/2107344329459253589) | **公開日:** Oct 6, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2494,6 +2470,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-16T04:20:10.953Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-16T13:27:11.193Z</sub>
 
 </div>
