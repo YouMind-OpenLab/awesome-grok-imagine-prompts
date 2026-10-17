@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3118** |
+| 📝 Total Prompts | **3131** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-17** |
 
@@ -189,6 +189,230 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Video di Luci a Spirale Verso le Stelle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt poetico che descrive due luci che spiraleggiano nell'oscurità, proiettando scintille che si trasformano in stelle nel cielo notturno.
+
+#### 📝 Prompt
+
+```
+Nell'oscurità due luci spiraleggiano l'una attorno all'altra, proiettando scintille mentre si muovono; le scintille diventano stelle nel cielo notturno
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111340253776953345/img/b9pe-XzIM6bri4ts.jpg" width="600" alt="Video di Luci a Spirale Verso le Stelle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12652)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111340335054135657) | **Published:** Oct 17, 2026
+
+---
+### Volo con propulsori a razzo della Tesla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per un video che mostra una Tesla Roadster decollare da un'autostrada utilizzando propulsori a razzo.
+
+#### 📝 Prompt
+
+```
+Tesla Roadster che decolla dall'autostrada nel cielo grazie ai suoi propulsori a razzo, volo della Tesla
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111271405366988800/img/1AZ7UruZa7ynbxvO.jpg" width="600" alt="Volo con propulsori a razzo della Tesla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12654)**
+
+**Author:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **Source:** [Link](https://x.com/TIME2064/status/2111271416792224030) | **Published:** Oct 17, 2026
+
+---
+### Video del lancio di Starship dalla Luna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video che mostra Starship decollare dalla luna utilizzando propulsori a gas freddo, facendo riferimento a un'immagine di input.
+
+#### 📝 Prompt
+
+```
+Starship @Image1 decolla dalla superficie della luna utilizzando propulsori a gas freddo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111195673714417664/img/FyLTcyzJGts4Rm6n.jpg" width="600" alt="Video del lancio di Starship dalla Luna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12649)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111195978967744532) | **Published:** Oct 16, 2026
+
+---
+### Video della Tesla Roadster in Levitazione
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt dettagliato per un video di 10 secondi a 720p che mostra una Tesla Roadster levitare grazie ai propulsori a gas freddo, ruotare su sé stessa e atterrare con effetti di fumo.
+
+#### 📝 Prompt
+
+```
+Video di 10s a 720p di questa Tesla Roadster che attiva i propulsori a gas freddo per aiutarsi nella levitazione, ruota in cerchio prima di atterrare dolcemente al suolo, mentre il pennacchio di fumo viene spazzato via dai fari abbaglianti.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111182229841813504/img/lM8nyhf1lg776rlj.jpg" width="600" alt="Video della Tesla Roadster in Levitazione">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12651)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111182254646886773) | **Published:** Oct 16, 2026
+
+---
+### Mercati Techno Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt di movimento camera dinamico che esplora i mercati techno cyberpunk con auto volanti.
+
+#### 📝 Prompt
+
+```
+Zoom in, le auto volanti sfrecciano, la camera si tuffa nei mercati techno come un drone, stile cyberpunk
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111177341326008321/img/VmPHs-Y5R4AHQSW0.jpg" width="600" alt="Mercati Techno Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12650)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111177371919569183) | **Published:** Oct 16, 2026
+
+---
+### Trasformazione Diurna di una Città Sci-Fi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per trasformare un paesaggio urbano futuristico sci-fi dalla notte al giorno, cambiando il cielo in un azzurro luminoso con nuvole e regolando l'illuminazione sulla luce naturale del giorno.
+
+#### 📝 Prompt
+
+```
+Trasforma questo paesaggio urbano futuristico sci-fi in una vivace scena diurna. Cambia il cielo notturno scuro e nuvoloso in un cielo azzurro limpido con morbide nuvole bianche e forte luce solare. Regola tutta l'illuminazione sulla luce naturale del giorno con raggi solari dorati caldi che illumina...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111177072907280385/img/CP0nL1ndM4MpY2SK.jpg" width="600" alt="Trasformazione Diurna di una Città Sci-Fi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12653)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111177086643671238) | **Published:** Oct 16, 2026
+
+---
+### Prompt Video Danza Grok Imagine con Sincronizzazione Audio
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt dettagliato per generare un video di danza realistico con Grok Imagine. Specifica la coerenza del personaggio, l'abbigliamento, gli accessori e una coreografia precisa sincronizzata con un file audio caricato. Il prompt include parametri tecnici come durata (11,2s), rapporto di aspetto (9:16) e comportamento della telecamera (inquadratura fissa).
+
+#### 📝 Prompt
+
+```
+Video breve di danza live-action realistico. Il personaggio utilizza il volto, l'acconciatura, la corporatura e i tratti identitari del Personaggio #1 preimpostato per tutta la durata. Il Personaggio #1 è un adulto. Indossa esclusivamente l'outfit preimpostato, mantenendo lineamenti delicati, occhiali decorativi e décolleté viola scuro. Identità, acconciatura, corpo, outfit e tutti gli accessori rimangono coerenti.
+
+Durata totale 11,20 secondi, schermo verticale 9:16, 30fps, inquadratura continua singola. Il personaggio è centrato, rivolto direttamente verso la telecamera, movimenti leggeri, giocosi, sorriso naturale. Eseguire rigorosamente la seguente sequenza di danza senza aggiungere nuovi passi o estendere tempi di preparazione/tenuta.
+
+[Blocco Audio]
+Utilizzare il file caricato "lumiraexo_on_Reels_audio only.mp4" come unica voce fuori campo e traccia di sottofondo, iniziando in sincronia alle 00:00. Mantenere vocals originali, musica, ritmo, tono, velocità e pause; nessun re-voicing, pitch shifting o aggiunta di musica/dialoghi. La traccia termina a ~11,17s, lasciando ~0,03s di silenzio naturale.
+Le rotazioni del corpo, le spinte dei palmi, le alzate delle ginocchia e i gesti delle mani seguono il beat effettivo di questo audio; non impostare un BPM conflittuale. Mantenere sorriso naturale e respirazione; non aggiungere evidenti labiale parlato.
+
+[Azione, Espressione, Sguardo Segmento per Segmento]
+00:00–00:01,10 | Spinta Alternata dei Palmi:
+Gambe naturalmente divaricate, ginocchia rilassate, fianchi che spostano il peso sinistra/destra sul beat. Mano sinistra dietro l'orecchio sinistro, gomito sinistro aperto verso l'esterno; braccio destro si estende verso la telecamera, dita aperte, palmo in avanti, formando un chiaro gesto di "stop". Poi la mano destra torna al lato dell'orecchio destro, il palmo sinistro spinge in avanti, poi si ritrae. Scambio fluido delle mani, i palmi non toccano l'obiettivo.
+Espressione: Sorriso luminoso naturale dall'inizio.
+Sguardo: Contatto visivo diretto con la telecamera sempre.
+Atterraggio: Ogni spinta del palmo raggiunge il massimo avanzamento sul beat, i fianchi si spostano simultaneamente.
+
+00:01,10–00:02,20 | Ritmo con Mani Dietro le Orecchie:
+Seguendo la spinta dei palmi, entrambe le mani si muovono dietro le orecchie e i lati posteriori della testa, gomiti aperti naturalmente. Torso rilassato, spalle leggermente rimbalzanti, fianchi oscillano continuamente sinistra/destra. La testa si inclina dolcemente poi si raddrizza, i capelli ondeggiano naturalmente con il movimento delle spalle.
+Espressione: Il sorriso si addolcisce in un sorriso giocoso, focalizzato e leggero.
+Sguardo: Guarda la telecamera prima, brevemente verso il basso vicino alla fine del segmento.
+
+00:02,20–00:03,40 | Alzata Singola del Ginocchio:
+La mano destra rimane dietro l'orecchio destro, la mano sinistra scende lungo il lato esterno del corpo, fermandosi davanti alla coscia sinistra. Peso stabile sulla gamba destra, il ginocchio sinistro si alza in avanti/su, aprendosi leggermente a sinistra, la mano sinistra aleggia sopra la coscia sollevata; poi la gamba sinistra torna a terra lungo lo stesso percorso. Completare solo un'alzata continua del ginocchio, niente calci, niente tirare vestiti. Il torso si inclina leggermente per l'equilibrio.
+Espressione: Leggera pressione delle labbra, serietà giocosa.
+Sguardo: Guarda la gamba sinistra durante l'alzata, torna alla telecamera all'atterraggio.
+Atterraggio: Il punto più alto del ginocchio colpisce il beat, l'atterraggio transita immediatamente al gesto successivo.
+
+00:03,40–00:04,40 | Cornice delle Punte delle Dita sul Petto:
+Piede sinistro piantato, entrambe le mani tornano al petto, palmi angolati verso la telecamera; pollice e indice si avvicinano, formando brevemente una piccola cornice triangolare. Poi le mani si espandono dal centro ai lati, scendono in arco fino alla vita. Il corpo mantiene un leggero ritmo sinistra/destra.
+Espressione: Dal sorriso trattenuto al sorriso luminoso.
+Sguardo: Guarda le punte centrali delle dita, alza gli occhi alla vista diretta della telecamera mentre le mani si aprono.
+Atterraggio: Chiusura delle punte e apertura delle mani corrispondono a beat consecutivi.
+
+00:04,40–00:07,20 | Mani Basse, Oscillazione Continua dei Fianchi:
+Gomiti leggermente piegati, mani rilassate in piccoli pugni, posizionate ai lati del corpo, leggermente sotto la vita, nocche rivolte fronte-interno. Mantenere le mani basse, affidarsi a leggera flessione/estensione delle ginocchia per continui spostamenti di peso sinistra/destra, i fianchi spingono brevemente attraverso il centro poi cambiano; le spalle bilanciano leggermente, gli avambracci rimbalzano naturalmente con il ritmo. I piedi restano principalmente fermi.
+Espressione: Rilassato, sorriso luminoso, guance naturalmente sollevate.
+Sguardo: Principalmente diretto alla telecamera, occasionalmente offset con inclinazione della testa, ritorno immediato.
+Atterraggio: Ogni spinta del fianco colpisce chiaramente il beat, no slow motion, no trascinarsi.
+
+00:07,20–00:09,20 | Mantenere il Ritmo, Breve Riduzione del Sorriso:
+Continuare mani basse e oscillazione sinistra/destra dei fianchi, ampiezza coerente con il segmento precedente. La testa si inclina dolcemente da un lato poi si raddrizza; le spalle producono fini rimbalzi con il beat, il corpo non si muove significativamente avanti/indietro.
+Espressione: Il sorriso si ritira naturalmente, le labbra si chiudono leggermente, formando uno stato calmo breve; poi gli angoli della bocca si rialzano.
+Sguardo: Brevemente guarda di lato, torna alla telecamera, mantenendo l'interazione.
+
+00:09,20–00:11,20 | Ritorno del Sorriso, Fine Naturale:
+Continuare gli originali spostamenti di peso sinistra/destra, le mani rimangono ai lati del corpo, polsi rilassati. La testa si inclina leggermente con il beat, infine tornando frontale, i movimenti dei fianchi si riducono naturalmente.
+Espressione: Rivela di nuovo un sorriso luminoso, terminando in uno stato rilassato e felice.
+Sguardo: Diretto alla telecamera.
+Atterraggio: Segue il ritmo finale della traccia per stabilizzarsi naturalmente, no congelamento rigido improvviso.
+
+[Telecamera & Scena]
+Posizione fissa del telefono frontale, obiettivo approssimativamente all'altezza del petto, leggermente verso l'alto. Inquadratura media-completa verticale, catturando dalla sommità della testa a metà-coscia inferiore, preservando spazio per la spinta del palmo e l'alzata del ginocchio. Ingrandimento prospettico naturale quando si raggiunge in avanti; la telecamera resta statica, no zoom, pan, ruota, o taglio.
+La scena è un interno moderno semplice: Due porte in legno scuro dietro il personaggio con maniglie d'argento e chiusure automatiche; pareti chiare circostanti e soffitto bianco, piccoli apparecchi circolari visibili sopra. Mantenere la sensazione quotidiana di una vera residenza o camera d'hotel.
+Luce ambientale interna morbida illumina il viso e il corpo, esposizione dello sfondo stabile. L'immagine ha un'autentica texture di ripresa smartphone, mantenendo texture della pelle, ciocche di capelli e inerzia del tessuto, nessun effetto luce extra.
+Escludere: Face swap, drift dell'identità, cambio di acconciatura, variazione dell'outfit, scomparsa di calze/occhiali, cambi dei tacchi; mani/dita multiple, dita fuse, palmo attraverso il viso, iperestensione articolare, squilibrio nell'alzata del ginocchio, scivolamento dei piedi, calci caotici delle gambe; teletrasporto dell'azione, oscillazioni meccaniche dei fianchi, disallineamento del ritmo, sorrisi fissi immutabili, drift dello sguardo, labiale anormale; cambi di velocità audio, disallineamento della traccia, voci fuori campo/musica extra; movimenti di telecamera push/pull, zoom digitale, tagli, deformazione dello sfondo, sfocatura severa, sottotitoli, filigrane, loghi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111172429682769920/img/5Lz1iR3n_pGv40TU.jpg" width="600" alt="Prompt Video Danza Grok Imagine con Sincronizzazione Audio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12658)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2111172841945129256) | **Published:** Oct 16, 2026
+
+---
+### Flusso di lavoro video per stanza in miniatura con presa elettrica
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un flusso di lavoro che utilizza ChatGPT per generare tre fotogrammi statici coerenti di una stanza con presa elettrica e Grok Imagine per creare un video di 10 secondi da essi.
+
+#### 📝 Prompt
+
+```
+Foto verticale fotorealistica in formato 9:16, primo piano di una placca bianca standard a doppia presa elettrica su un muro con delicati motivi floreali vintage color crema
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111050135954444288/img/5lT7UXx_6wOloNBm.jpg" width="600" alt="Flusso di lavoro video per stanza in miniatura con presa elettrica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12659)**
+
+**Author:** [xer rexx](https://x.com/rexx_xer82545) | **Source:** [Link](https://x.com/rexx_xer82545/status/2111050341525627391) | **Published:** Oct 16, 2026
+
+---
+### Ghiranda di Lampadine Diamantate con Neve
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video che crea una splendida ghirlanda in cui le lampadine brillano come diamanti con fiocchi di neve sulla parte superiore.
+
+#### 📝 Prompt
+
+```
+Fai sì che le lampadine brillino delicatamente come diamanti e crea l'intera ghirlanda. Un'opera d'arte semplicemente incantevole, sontuosa e bella; realizzala con eleganza. NFEN aggiungi la nevicata sulla parte superiore.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110964155981148160/img/Nl_pHIh_KB8vPnXp.jpg" width="600" alt="Ghiranda di Lampadine Diamantate con Neve">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12657)**
+
+**Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110964185496711242) | **Published:** Oct 16, 2026
+
+---
 ### Albero di Natale Tradizionale e Sobrio
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +432,25 @@ Rendi questo albero di Natale bellissimo con un'ambientazione tradizionale sobri
 **Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110964151950680444) | **Published:** Oct 16, 2026
 
 ---
+### Prompt di animazione per scena invernale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video per aggiungere luci scintillanti, nevicata e musica al pianoforte a una scena.
+
+#### 📝 Prompt
+
+```
+Fai scintillare delicatamente le luci, fai iniziare lentamente a nevicare e aggiungi una bella musica al pianoforte
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110963706334982144/img/qRsLoC8qPWKuB1HJ.jpg" width="600" alt="Prompt di animazione per scena invernale">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12655)**
+
+**Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110963774920298591) | **Published:** Oct 16, 2026
+
+---
 ### Gesù scende dall'asinello
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +468,25 @@ Gesù scende dall'asino, si volta verso di me, assume le sembianze di un Gesù r
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12595)**
 
 **Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110963116439683254) | **Published:** Oct 16, 2026
+
+---
+### Prompt per Frame Statica ChatGPT per Livestream
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt destinato a ChatGPT per generare un frame statico fotorealistico in stile smartphone di una giovane donna, probabilmente utilizzato come input per la generazione video di Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Foto fotorealistica in stile smartphone, verticale 9:16. Un'originale giovane donna dell'Asia orientale fittizia (non una persona reale) sui vent'anni, pelle chiara e naturale con texture realistica, capelli castani raccolti liberamente con alcune ciocche che incorniciano il viso, fis
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110961041282891776/img/Sp7gR4RlJqOFcv83.jpg" width="600" alt="Prompt per Frame Statica ChatGPT per Livestream">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12660)**
+
+**Author:** [xer rexx](https://x.com/rexx_xer82545) | **Source:** [Link](https://x.com/rexx_xer82545/status/2110961280336953352) | **Published:** Oct 16, 2026
 
 ---
 ### Starlite nella sua Forma Maestosa
@@ -320,6 +582,27 @@ Aggiungi le parole "Question Everything" sopra la sua testa, rendi la sua voce i
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12593)**
 
 **Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2110915832016707800) | **Published:** Oct 16, 2026
+
+---
+### Montaggio Tecnologico delle Piastre Stradali Piezoelettriche
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per un video montaggio dettagliato che mostra futuristiche piastre stradali piezoelettriche in grado di generare elettricità dai veicoli elettrici.
+
+#### 📝 Prompt
+
+```
+Prompt per Montaggio Video Grok Imagine
+Crea un montaggio tecnologico futuristico, pulito e di alta qualità, della durata di 30–40 secondi, che mostri piastre stradali piezoelettriche capaci di generare elettricità dal passaggio dei veicoli elettrici e di immagazzinarla per le auto successive.
+Note sullo stile (da applicare a tutte le inquadrature...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110902576661024768/img/nMzWW2308vYyxq9d.jpg" width="600" alt="Montaggio Tecnologico delle Piastre Stradali Piezoelettriche">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12656)**
+
+**Author:** [Meme Island](https://x.com/MemeIslandKing) | **Source:** [Link](https://x.com/MemeIslandKing/status/2110902647649636833) | **Published:** Oct 16, 2026
 
 ---
 ### Giardino paesaggistico nel deserto con edificio in metallo
@@ -625,6 +908,60 @@ Video live-action cinematografico ultra-realistico di una bella donna adulta sui
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12611)**
 
 **Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **Published:** Oct 15, 2026
+
+---
+### Prompt Video: Mondo in Miniatura Dentro una Presa Elettrica
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt dettagliato per Google Flow e Grok Imagine per generare un video fluido di 10 secondi che rivela la stanza di un personaggio in miniatura all'interno di una presa elettrica.
+
+#### 📝 Prompt
+
+```
+[Impostazioni Base]
+Analizza a fondo l'immagine di riferimento allegata e il profilo SNS, progetta completamente da zero una 'piccola stanza dove il personaggio vivrebbe realmente' e genera un video.
+- Formato: 9:16 (Verticale)
+- Durata: Circa 10 secondi (Video continuo senza tagli o teletrasporti)
+- Stile: Cinematografia macro fotorealistica combinata con estetica di diorami in miniatura fatti a mano.
+
+[Analisi del Profilo e Regole di Conversione degli Interni] (*Istruzioni di design per l'AI*)
+Estrai i seguenti elementi dai materiali di riferimento e riflettili direttamente nel design degli interni della stanza.
+1. Design dei Colori (Palette):
+Estrai il colore dei capelli del personaggio, il colore degli occhi, i colori principali e secondari del costume e il tono dell'immagine del profilo, e riflettili nelle tonalità di carta da parati, tappeti, tende, biancheria da letto e illuminazione.
+2. Stile Architettonico/Interni:
+Traduci l'atmosfera del personaggio e il gusto del suo costume (Moderno, Retrò, Fantasy, Giapponese, Cyber, Naturale, Gotico, ecc.) in forme di mobili e materiali di pareti/pavimenti.
+3. Oggetti Simbolici (Scegli 3-5):
+Dal contenuto testuale del profilo (occupazione, hobby, interessi, abilità, visione del mondo) e dagli oggetti personali, seleziona solo 3-5 articoli che simboleggiano la personalità e posizionali in punti visivamente prominenti nella stanza. (*Evita di stipare troppi piccoli oggetti; mantieni un equilibrio dove gli hobby si insinuano naturalmente nello spazio abitativo.*)
+
+[Composizione Video di 10 Secondi (Taglio Continuo)]
+■ 0-2 Secondi (Introduzione):
+Ambientazione interna reale. Una mano umana rimuove con cura la copertura della presa a muro. Fotografia macro live-action realistica che cattura le texture di plastica, carta da parati e punte delle dita. Da dietro la copertura, filtra una piccola luce calda tinta con il colore tematico della stanza.
+■ 2-4 Secondi (Intrusione):
+La camera si avvicina lentamente all'apertura e guarda dentro. Uno spazio residenziale piccolo e profondo appare gradualmente, mentre la camera riduce la scala intrudendo naturalmente nel mondo in miniatura.
+■ 4-8 Secondi (Vita Quotidiana):
+La camera entra completamente nella stanza. Il personaggio di riferimento residente sta vivendo facendo 'la singola azione quotidiana più adatta dedotta dal profilo (creazione, lettura, cucina, suonare strumenti, cura delle piante, riordino, ecc.)'. Evita pose eccessive; enfatizza la vita quotidiana naturale come se fosse stata osservata accidentalmente.
+■ 8-10 Secondi (Dopoeffetto):
+Il personaggio nota la camera, la guarda brevemente e dà una piccola reazione affascinante. Termina con una sensazione persistente che ti fa venire voglia di sbirciare di nuovo, lasciando l'atmosfera calda della stanza e piccoli movimenti.
+
+[Sensazione di Materiale del Personaggio e Artigianato]
+- Mantieni rigorosamente l'identità originale (lineamenti del viso, acconciatura, colore dei capelli, occhi, costume, accessori) e unificala con la scala della stanza. I personaggi sono residenti in miniatura; animali/mascotte non vengono antropomorfizzati forzatamente ma si muovono naturalmente nella loro forma originale.
+- Il mondo in miniatura ha la consistenza di squisiti manufatti artigianali. Combina materiali adatti per ogni articolo, come mobili in legno/argilla, tessuti/filati, bottiglie in resina trasparente, fiori secchi, ecc., evocando fibre, maglieria e il calore del lavoro manuale.
+- Esprimi con profondità di campo ridotta, bokeh naturale dalle lenti macro e illuminazione interna morbida e calda.
+
+[Audio/BGM]
+- Voce: Voce piccola, acuta e infantile. Parla modestamente con brevi parole fittizie che trasmettono emozione piuttosto che lingue esistenti.
+- BGM: Musica strumentale delicata e calda in stile carillon che corrisponde all'atmosfera della stanza. Mixa naturalmente suoni quotidiani deboli come piccoli passi e fruscii di tessuto.
+
+[Elementi Proibiti]
+Miscelazione di mobili a grandezza naturale, rappresentazione di cablaggio normale, sovraccarico di piccoli oggetti, alterazione/deumanizzazione del personaggio, aggiunta di persone/animali non necessari, visualizzazione di sottotitoli/testi/loghi/watermark, effetti magici eccessivi, cambi di taglio innaturali, BGM appariscente.
+```
+
+<img src="https://cms-assets.youmind.com/media/1792223062429_al5hqn_HUqoV74a0AAAx3j.jpg" width="600" alt="Prompt Video: Mondo in Miniatura Dentro una Presa Elettrica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12661)**
+
+**Author:** [りる🍄AI共創Enjoy🪄✨](https://x.com/wow_runa) | **Source:** [Link](https://x.com/wow_runa/status/2110690041051992192) | **Published:** Oct 15, 2026
 
 ---
 ### Video di danza con coreografia K-pop
@@ -2154,257 +2491,6 @@ Visualizza la congiunzione tra Saturno e Nettuno:
 **Author:** [Zaleska Rockabay](https://x.com/zaleskha) | **Source:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **Published:** Oct 8, 2026
 
 ---
-### Prompt Video Loop Orbita 3D
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare un video in loop da un'immagine, con movimenti di camera orbitanti in 3D attorno ai personaggi.
-
-#### 📝 Prompt
-
-```
-vola nella scena come se fosse in 3D. orbita attorno a ogni personaggio per mostrare la vista dalla spalla. termina nella posizione iniziale in modo che il video sia un loop
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108325228539490304/img/VdOTI0C1QxMSYvpJ.jpg" width="600" alt="Prompt Video Loop Orbita 3D">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12278)**
-
-**Author:** [Gorka Cesium](https://x.com/GorkaCesium) | **Source:** [Link](https://x.com/GorkaCesium/status/2108325247535485215) | **Published:** Oct 8, 2026
-
----
-### Video di Scena Cinematografica CIA
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per trasformare un input in una scena cinematografica grandangolare con un personaggio parodia in tuta di pelle.
-
-#### 📝 Prompt
-
-```
-Trasforma questo in una scena cinematografica grandangolare della KIRA colombiana della CIA (la donna esatta mostrata, look parodia Shakira con lunghi capelli biondi ricci e tuta di pelle nera della CIA con distintivo) che dimostra la sua relazione commerciale simulata con il fittizio overlo...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108319345226989568/img/gcSe0OfKXuXvPo-k.jpg" width="600" alt="Video di Scena Cinematografica CIA">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12214)**
-
-**Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2108319388197597268) | **Published:** Oct 8, 2026
-
----
-### Video di Equitazione in un Prato del Texas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video che raffigura una prospettiva in prima persona mentre si cammina attraverso un prato del Texas tenendo le redini di un cavallo arabo.
-
-#### 📝 Prompt
-
-```
-Sto camminando attraverso un prato in Texas. Tengo le redini di un bellissimo cavallo arabo. Il tempo è splendido. Sullo sfondo sono visibili foreste e montagne.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108288065676496897/img/M9175k0R4jkxj48E.jpg" width="600" alt="Video di Equitazione in un Prato del Texas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12215)**
-
-**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **Published:** Oct 8, 2026
-
----
-### Prompt di Arte Fantasy per lo Spirito della Terra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare un'immagine eterea dello spirito della terra, originariamente suggerito da Gemini e testato su vari modelli, tra cui Grok Imagine per la generazione video.
-
-#### 📝 Prompt
-
-```
-Uno spirito della terra etereo che assume le sembianze di una giovane donna umana; terra, rocce, muschio e piante; mistico; arte fantasy; altamente dettagliato.
-```
-
-<img src="https://cms-assets.youmind.com/media/1791792661063_g8l4f7_HUGY0TIbEAALWQU.jpg" width="600" alt="Prompt di Arte Fantasy per lo Spirito della Terra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12381)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2108134263044673764) | **Published:** Oct 8, 2026
-
----
-### Motore ibrido Jaguar XJ6
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video che modifica una Jaguar XJ6 degli anni '80 per includere un potente motore ibrido a sei cilindri in linea.
-
-#### 📝 Prompt
-
-```
-Richiama la Jaguar XJ6 degli anni '80 e rendila full hybrid con un motore a sei cilindri in linea per mantenere la linea del cofano bassa....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108085155512401921/img/_883xeT1MuE1kwYc.jpg" width="600" alt="Motore ibrido Jaguar XJ6">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12176)**
-
-**Author:** [Edward McCall](https://x.com/edwardmccallinc) | **Source:** [Link](https://x.com/edwardmccallinc/status/2108085170452508903) | **Published:** Oct 8, 2026
-
----
-### Video della Squirrel Girl nella Foresta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per la generazione di un video, basato su un'immagine di riferimento di una squirrel girl in una foresta.
-
-#### 📝 Prompt
-
-```
-Il video inizia dal frame definito da @image1: una squirrel girl dai capelli rossi accovacciata su un tronco coperto di muschio in una foresta illuminata dal sole, con la grande coda rossa e folta sollevata dietro di lei, orecchie da scoiattolo, mentre tiene una piccola ghianda vicino al viso, sorridendo dolcemente verso...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108073759311851520/img/QAFaEXW-K2j44KDU.jpg" width="600" alt="Video della Squirrel Girl nella Foresta">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12171)**
-
-**Author:** [LUCKY](https://x.com/luluoksana) | **Source:** [Link](https://x.com/luluoksana/status/2108073815930732958) | **Published:** Oct 8, 2026
-
----
-### Prompt per video con citazione biblica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt che presenta un incoraggiante versetto biblico sull'attesa del Signore.
-
-#### 📝 Prompt
-
-```
-“Attendi il Signore! Sii forte e coraggioso. Sì, attendi il Signore!...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108066306415038464/img/TBMofhfo9FIerTdn.jpg" width="600" alt="Prompt per video con citazione biblica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12163)**
-
-**Author:** [Dear Jesus](https://x.com/PrayingtoJesus2) | **Source:** [Link](https://x.com/PrayingtoJesus2/status/2108066329404301797) | **Published:** Oct 8, 2026
-
----
-### Modifica video con sostituzione di accessori
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt che istruisce il modello a modificare un soggetto aggiungendo specifici accessori come una collana, un cappello e un medaglione per cani.
-
-#### 📝 Prompt
-
-```
-Mescolali con la mia collana addosso, il cappello e la maglietta, niente occhiali, metti il mio medaglione per cani sulla collana
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108061463210242048/img/3Rkm9OJESEnfp4iI.jpg" width="600" alt="Modifica video con sostituzione di accessori">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12179)**
-
-**Author:** [chris lanzillo](https://x.com/LanzilloChris) | **Source:** [Link](https://x.com/LanzilloChris/status/2108061476565155968) | **Published:** Oct 8, 2026
-
----
-### Trasformazione in Scultura di Bronzo
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt giapponese che descrive la trasformazione in una scultura di bronzo con dettagli simili a caramelle jelly bean.
-
-#### 📝 Prompt
-
-```
-Io, Shiho Umemori, mi trasformo in una scultura femminile con lunghi capelli permanentati raccolti come una conchiglia a spirale. Il viso e il corpo sono in bronzo bianco. Capelli, labbra, occhi, guance e borsa sono rappresentati con materiali simili a caramelle jelly bean in colori pastello. Gloss dorato sul viso, oro intrappolato nei capelli. Occhi profondamente incisi, naso alto e grande. Primo piano del viso. Il mio desiderio si è avverato. Grazie Dio. Domani e dopodomani saranno ancora meglio, sicuramente. Gridando.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108052370118881281/img/P0SEN3dzy7M-up0X.jpg" width="600" alt="Trasformazione in Scultura di Bronzo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12174)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2108052385541369949) | **Published:** Oct 8, 2026
-
----
-### Video di Hilary Clinton con Turchia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per la generazione video controverso e potenzialmente offensivo che coinvolge figure politiche.
-
-#### 📝 Prompt
-
-```
-Crea un video di Hilary Clinton mentre viene colpita da una Turchia. Trump dice "shut faggot".
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108041621350621184/img/ROQKdrUW3suYXTRd.jpg" width="600" alt="Video di Hilary Clinton con Turchia">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12159)**
-
-**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2108041639201579065) | **Published:** Oct 8, 2026
-
----
-### Documentario sulla portaerei Nimitz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video in stile documentaristico navale realistico, che presenta una portaerei di classe Nimitz.
-
-#### 📝 Prompt
-
-```
-In uno stile documentaristico navale realistico, un'enorme portaerei di classe Nimitz solca l'oceano aperto. La nave presenta uno scafo grigio, una torre di comando imponente, un ponte di volo angolato con caccia allineati e un singolo jet posizionato su...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108007737451782144/img/SVJl6AazyXY4WJp7.jpg" width="600" alt="Documentario sulla portaerei Nimitz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12175)**
-
-**Author:** [PATRIOT PLACE 🇺🇸🏁](https://x.com/RetCorr) | **Source:** [Link](https://x.com/RetCorr/status/2108007750546457028) | **Published:** Oct 8, 2026
-
----
-### Prompt Video per Tirare Aggressivamente i Capelli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per la generazione di un breve video clip che mostra un'interazione aggressiva di tirare i capelli.
-
-#### 📝 Prompt
-
-```
-L'uomo le tira aggressivamente i capelli, portandole indietro la testa. Whipitdev riceve il trattamento adeguato #whipitdev #hugetits #grokai #grok #ai #aigirl #bbc #rough #anal #devonshae
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107978851284312064/img/XQky4Ii8XGjqJ0Dg.jpg" width="600" alt="Prompt Video per Tirare Aggressivamente i Capelli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12167)**
-
-**Author:** [s](https://x.com/Iandoe616) | **Source:** [Link](https://x.com/Iandoe616/status/2107978886193742117) | **Published:** Oct 7, 2026
-
----
-### Primo piano di donna che gira la testa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uno script complesso per la generazione video che descrive un primo piano di una donna che gira la testa e parla.
-
-#### 📝 Prompt
-
-```
-[Obiettivo di Generazione]
-Generare un video in primo piano continuo di una giovane donna con capelli scuri e mossi che gira la testa verso la telecamera e parla dolcemente in un'atmosfera calda ed eterea.
-
-[Script dell'Evento]
-All'inizio: Primo piano statico all'altezza degli occhi della you...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107908879262658560/img/EDbLpnZFeNfntkYS.jpg" width="600" alt="Primo piano di donna che gira la testa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12172)**
-
-**Author:** [Maria Of Mars](https://x.com/MariaGa68521784) | **Source:** [Link](https://x.com/MariaGa68521784/status/2107908892726317512) | **Published:** Oct 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2466,6 +2552,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-17T04:09:57.430Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-17T08:42:37.176Z</sub>
 
 </div>

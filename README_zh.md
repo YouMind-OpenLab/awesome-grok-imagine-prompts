@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3118** |
+| 📝 提示词总数 | **3131** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-10-17** |
 
@@ -189,6 +189,230 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 螺旋光芒至星辰视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段富有诗意的提示词，描述两束光在黑暗中螺旋舞动，洒落的光芒化作夜空中的繁星。
+
+#### 📝 提示词
+
+```
+在黑暗中，两束光相互环绕螺旋舞动，随着它们的移动，洒落的光芒逐渐化作夜空中的繁星
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111340253776953345/img/b9pe-XzIM6bri4ts.jpg" width="600" alt="螺旋光芒至星辰视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12652)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2111340335054135657) | **发布时间:** Oct 17, 2026
+
+---
+### 特斯拉火箭推进器飞行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段展示特斯拉 Roadster 利用火箭推进器从高速公路起飞的视频提示词。
+
+#### 📝 提示词
+
+```
+特斯拉 Roadster 借助火箭推进器从高速公路腾空而起，在空中飞行的特斯拉
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111271405366988800/img/1AZ7UruZa7ynbxvO.jpg" width="600" alt="特斯拉火箭推进器飞行">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12654)**
+
+**作者:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **来源:** [Link](https://x.com/TIME2064/status/2111271416792224030) | **发布时间:** Oct 17, 2026
+
+---
+### 星舰月球发射视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 展示星舰使用冷气推进器从月球表面起飞的视频提示，参考输入图像。
+
+#### 📝 提示词
+
+```
+Starship @Image1 使用冷气推进器从月球表面起飞
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111195673714417664/img/FyLTcyzJGts4Rm6n.jpg" width="600" alt="星舰月球发射视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12649)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2111195978967744532) | **发布时间:** Oct 16, 2026
+
+---
+### Tesla Roadster 悬浮视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份详细的提示词，用于生成一段 10 秒、720p 分辨率的视频，展示 Tesla Roadster 通过冷气推进器悬浮、旋转并伴随烟雾效果着陆的场景。
+
+#### 📝 提示词
+
+```
+这段 10 秒、720p 分辨率的视频展示了这辆 Tesla Roadster 启动冷气推进器以实现悬浮，在空中旋转一圈后轻柔地降回地面，浓密的烟雾在远光灯的照射下迅速消散。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111182229841813504/img/lM8nyhf1lg776rlj.jpg" width="600" alt="Tesla Roadster 悬浮视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12651)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2111182254646886773) | **发布时间:** Oct 16, 2026
+
+---
+### 赛博朋克科技市场
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个动态镜头运动提示词，深入赛博朋克科技市场，伴有飞行汽车。
+
+#### 📝 提示词
+
+```
+镜头推进，飞行汽车疾驰而过，摄像机如无人机般潜入科技市场，赛博朋克风格
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111177341326008321/img/VmPHs-Y5R4AHQSW0.jpg" width="600" alt="赛博朋克科技市场">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12650)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2111177371919569183) | **发布时间:** Oct 16, 2026
+
+---
+### 科幻城市白天场景转换
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个将未来主义科幻城市景观从夜晚转换为白天的提示词，将天空改为带有云朵的明亮蓝色，并调整光照为自然日光。
+
+#### 📝 提示词
+
+```
+将这个未来主义科幻城市景观转换为明亮的白天场景。将黑暗多云的夜空改为带有柔和白云和强烈阳光的清澈明亮蓝天。将所有光照调整为自然日光，温暖的金色阳光照亮...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111177072907280385/img/CP0nL1ndM4MpY2SK.jpg" width="600" alt="科幻城市白天场景转换">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12653)**
+
+**作者:** [Owen](https://x.com/owenxplore) | **来源:** [Link](https://x.com/owenxplore/status/2111177086643671238) | **发布时间:** Oct 16, 2026
+
+---
+### Grok Imagine 带音频同步的舞蹈视频提示词
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 这是一个用于使用 Grok Imagine 生成逼真舞蹈短视频的详细提示词。它规定了角色一致性、服装、配饰以及与上传音频文件精确同步的编舞。该提示词包含技术参数，如时长（11.2 秒）、宽高比（9:16）和摄像机行为（固定镜头）。
+
+#### 📝 提示词
+
+```
+逼真的真人实拍舞蹈短视频。整个视频中，角色始终使用预设角色 #1 的面部、发型、体型和身份特征。角色 #1 为成年人。全程仅穿着预设服装，保持精致的面部特征，佩戴装饰性眼镜和深紫色高跟鞋。身份、发型、身体、服装及所有配饰保持一致。
+
+总时长 11.20 秒，9:16 竖屏，30fps，单一连续镜头。角色居中，正对镜头，动作轻盈、俏皮，面带自然微笑。严格执行以下舞蹈序列，不添加新动作或延长准备/保持时间。
+
+[音频锁定]
+使用上传的文件 "lumiraexo_on_Reels_audio only.mp4" 作为唯一的配音和背景音乐，从 00:00 开始同步播放。保留原始人声、音乐、节奏、音调、速度和停顿；不进行重新配音、变调或添加音乐/对话。音轨在约 11.17 秒结束，留下约 0.03 秒的自然静音。
+身体转动、手掌推击、抬膝和手势跟随此音频的实际节拍；不要设置冲突的 BPM。保持自然微笑和呼吸；不要添加明显的口型同步说话。
+
+[分段动作、表情、视线]
+00:00–00:01.10 | 交替手掌推击：
+双腿自然分开，膝盖放松，臀部随节拍左右转移重心。左手置于左耳后，左肘向外张开；右臂伸向镜头，手指张开，掌心向前，形成清晰的“停止”手势。然后右手回到右耳侧，左掌向前推，随后收回。手部交换流畅，手掌不触碰镜头。
+表情：从一开始就展现明亮自然的微笑。
+视线：始终与镜头直接眼神接触。
+落点：每次手掌推击在节拍上达到最大前伸幅度，臀部同时移动。
+
+00:01.10–00:02.20 | 双手置耳后节奏：
+继手掌推击之后，双手移至耳后和头部后方两侧，肘部自然张开。躯干放松，肩膀轻微反弹，臀部持续左右摆动。头部轻轻倾斜然后回正，头发随肩部运动自然摆动。
+表情：微笑柔和化为俏皮、专注的浅笑。
+视线：先看镜头，在该片段末尾短暂向下看。
+
+00:02.20–00:03.40 | 单膝抬起：
+右手保持在右耳后，左手沿身体外侧下降，停在左大腿前方。重心稳定在右腿，左膝向前/向上抬起，略微向左打开，左手悬停在抬起的大腿上方；然后左腿沿相同路径回到地面。仅完成一次连续的抬膝动作，不踢腿，不拉扯衣物。躯干轻微倾斜以保持平衡。
+表情：轻抿嘴唇，俏皮的认真感。
+视线：抬腿时看向左腿，落地时回到镜头。
+落点：膝盖最高点击中节拍，落地立即过渡到下一个手势。
+
+00:03.40–00:04.40 | 指尖胸前框架：
+左脚站稳，双手回到胸前，掌心朝向镜头；拇指和食指靠近，短暂形成小三角形框架。然后双手从中心向两侧展开，呈弧形下降至腰部。身体保持轻微的左右节奏。
+表情：从含蓄的微笑变为灿烂的微笑。
+视线：看着指尖中心，当手张开时抬起眼睛直视镜头。
+落点：指尖闭合和手部张开对应连续的节拍。
+
+00:04.40–00:07.20 | 低位手部，连续臀部摆动：
+肘部微弯，双手放松成小拳头，位于身体两侧，略低于腰部，指关节朝向前内侧。保持手部低位，依靠轻微的膝盖屈伸进行连续的左右重心转移，臀部通过中心短暂 thrust 然后切换；肩膀轻微反向平衡，前臂随节奏自然弹跳。脚基本保持原位。
+表情：放松，灿烂微笑，脸颊自然上扬。
+视线：主要直视镜头，偶尔随头部倾斜偏移，随即返回。
+落点：每次臀部 thrust 清晰击中节拍，无慢动作，无拖沓。
+
+00:07.20–00:09.20 | 保持节奏，短暂微笑减弱：
+继续低位手部和左右臀部摆动，幅度与前一段一致。头部轻轻向一侧倾斜然后回正；肩膀随节拍产生细微反弹，身体没有明显的前后移动。
+表情：微笑自然消退，嘴唇轻闭，形成短暂的平静状态；然后嘴角再次上扬。
+视线：短暂看向侧面，回到镜头，保持互动。
+
+00:09.20–00:11.20 | 微笑回归，自然结束：
+继续原始的左右重心转移，手保持在身体两侧，手腕放松。头部随节拍轻微倾斜，最终回到正面，臀部动作自然减少。
+表情：再次展现灿烂微笑，以放松、快乐的状态结束。
+视线：直视镜头。
+落点：跟随音轨的最终节奏自然静止，无突然僵硬定格。
+
+[摄像机与场景]
+固定手机前置位置，镜头大约在与胸部齐平的高度，略微向上。垂直中全景镜头，捕捉从头顶到大腿中下部，为手掌推击和抬膝保留空间。向前伸展时自然透视放大；摄像机保持静止，无缩放、平移、旋转或剪辑。
+场景为简约现代室内：角色身后有两扇深色木门，配有银色把手和闭门器；周围是浅色墙壁和白色天花板，头顶可见小型圆形灯具。保留真实住宅或酒店房间的日常感。
+柔和的室内环境光照亮面部和身体，背景曝光稳定。图像具有真实的智能手机拍摄质感，保留皮肤纹理、发丝和织物惯性，无额外光效。
+排除项：换脸、身份漂移、发型变化、服装变异、长筒袜/眼镜消失、高跟鞋变化；多只手/手指、融合的手指、手掌穿透面部、关节过度伸展、抬膝不平衡、脚滑动、混乱的腿部踢动；动作瞬移、机械式臀部摆动、节奏错位、固定不变的微笑、视线漂移、异常口型同步；音频速度变化、音轨错位、额外配音/音乐；推拉镜头移动、数字缩放、剪辑、背景变形、严重模糊、字幕、水印、Logo。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111172429682769920/img/5Lz1iR3n_pGv40TU.jpg" width="600" alt="Grok Imagine 带音频同步的舞蹈视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12658)**
+
+**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2111172841945129256) | **发布时间:** Oct 16, 2026
+
+---
+### 电气插座微缩房间视频工作流
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 利用 ChatGPT 生成三张风格一致的插座房间静态帧，并使用 Grok Imagine 将其转化为 10 秒视频的工作流。
+
+#### 📝 提示词
+
+```
+写实风格的竖屏 9:16 照片，特写镜头展示墙面上的白色标准双孔电气插座面板，背景为柔和的奶油色复古花卉图案
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111050135954444288/img/5lT7UXx_6wOloNBm.jpg" width="600" alt="电气插座微缩房间视频工作流">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12659)**
+
+**作者:** [xer rexx](https://x.com/rexx_xer82545) | **来源:** [Link](https://x.com/rexx_xer82545/status/2111050341525627391) | **发布时间:** Oct 16, 2026
+
+---
+### 钻石灯泡雪花花环
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频提示词，用于创建一个美丽的花环，其中的灯泡如钻石般闪耀，顶部伴有飘落的雪花。
+
+#### 📝 提示词
+
+```
+让灯泡柔和地闪烁，如同钻石般璀璨，并制作整个花环。只需创作一件精美、华丽且动人的艺术品，务必使其呈现得完美无瑕。NFEN 请在花环顶部添加飘落的雪花效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110964155981148160/img/Nl_pHIh_KB8vPnXp.jpg" width="600" alt="钻石灯泡雪花花环">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12657)**
+
+**作者:** [king miller](https://x.com/kingmiller685) | **来源:** [Link](https://x.com/kingmiller685/status/2110964185496711242) | **发布时间:** Oct 16, 2026
+
+---
 ### 传统保守风格圣诞树
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +432,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **作者:** [king miller](https://x.com/kingmiller685) | **来源:** [Link](https://x.com/kingmiller685/status/2110964151950680444) | **发布时间:** Oct 16, 2026
 
 ---
+### 冬日场景动画提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 视频提示词，为场景添加闪烁灯光、飘雪效果和钢琴音乐。
+
+#### 📝 提示词
+
+```
+让灯光柔和地闪烁，缓缓开始下雪，并配上优美的钢琴音乐
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110963706334982144/img/qRsLoC8qPWKuB1HJ.jpg" width="600" alt="冬日场景动画提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12655)**
+
+**作者:** [king miller](https://x.com/kingmiller685) | **来源:** [Link](https://x.com/kingmiller685/status/2110963774920298591) | **发布时间:** Oct 16, 2026
+
+---
 ### 耶稣下驴转身场景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +468,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12595)**
 
 **作者:** [king miller](https://x.com/kingmiller685) | **来源:** [Link](https://x.com/kingmiller685/status/2110963116439683254) | **发布时间:** Oct 16, 2026
+
+---
+### ChatGPT 直播静态帧提示词
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一个用于 ChatGPT 的提示词，旨在生成一张逼真的智能手机风格静态画面，展示一位年轻女性，可能作为 Grok Imagine 视频生成的输入素材。
+
+#### 📝 提示词
+
+```
+逼真的智能手机风格照片，9:16 竖屏比例。一位原创虚构的年轻东亚女性，二十岁出头（非真实人物），肤色白皙自然且具有真实质感，棕色头发随意扎起，几缕发丝垂在脸侧，身材匀称
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110961041282891776/img/Sp7gR4RlJqOFcv83.jpg" width="600" alt="ChatGPT 直播静态帧提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12660)**
+
+**作者:** [xer rexx](https://x.com/rexx_xer82545) | **来源:** [Link](https://x.com/rexx_xer82545/status/2110961280336953352) | **发布时间:** Oct 16, 2026
 
 ---
 ### Starlite 尊贵造型
@@ -320,6 +582,27 @@ Starlite 以其庄严形态，从虚空深处、MidnightBlue 领域中浮现
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12593)**
 
 **作者:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **来源:** [Link](https://x.com/DavidSteenhoek/status/2110915832016707800) | **发布时间:** Oct 16, 2026
+
+---
+### 压电道路地砖技术蒙太奇
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 展示未来主义压电道路地砖从电动汽车中发电的详细视频蒙太奇提示。
+
+#### 📝 提示词
+
+```
+Grok Imagine 视频蒙太奇提示
+创建一个干净、高质量的 30–40 秒未来科技蒙太奇，展示压电道路地砖如何从驶过的电动汽车中发电并为后续车辆储存电能。
+风格说明（适用于所有镜头...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110902576661024768/img/nMzWW2308vYyxq9d.jpg" width="600" alt="压电道路地砖技术蒙太奇">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12656)**
+
+**作者:** [Meme Island](https://x.com/MemeIslandKing) | **来源:** [Link](https://x.com/MemeIslandKing/status/2110902647649636833) | **发布时间:** Oct 16, 2026
 
 ---
 ### 带金属建筑的沙漠景观花园
@@ -629,6 +912,60 @@ Starlite 以其庄严形态，从虚空深处、MidnightBlue 领域中浮现
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12611)**
 
 **作者:** [Rizi](https://x.com/Rizi_ru) | **来源:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **发布时间:** Oct 15, 2026
+
+---
+### 插座内的微缩世界视频提示词
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 为 Google Flow 和 Grok Imagine 设计的详细提示词，用于生成一段无缝衔接的 10 秒视频，展现电气插座内微型角色的房间。
+
+#### 📝 提示词
+
+```
+[基础设置]
+深入分析附带的参考图像和 SNS 个人资料，完全原创地设计一个“角色真正居住的小房间”，并生成视频。
+- 宽高比：9:16（竖屏）
+- 时长：约 10 秒（连续无缝的一镜到底视频，无剪辑或瞬移）
+- 风格：写实微距摄影结合手工制作的微缩模型美学。
+
+[资料分析与室内设计转换规则]（*AI 设计指令*）
+从参考资料中提取以下元素，并将其直接反映在房间的室内设计中。
+1. 色彩设计（Color Palette）：
+提取角色的发色、瞳色、服装的主色调和辅助色调以及头像图片的色调，并将其反映在壁纸、地毯、窗帘、床上用品和灯光的色调上。
+2. 建筑/室内风格：
+将角色的氛围和服装品味（现代、复古、奇幻、日式、赛博朋克、自然、哥特等）转化为家具形状和墙面/地面材质。
+3. 象征性物品（选择 3-5 件）：
+从个人资料文本内容（职业、爱好、喜好、技能、世界观）和随身物品中，仅选择 3-5 件能象征个性的物品，并将它们放置在房间内视觉显著的位置。（*避免堆砌过多小物件；保持爱好自然渗透进生活空间的平衡感。*）
+
+[10 秒视频构图（连续一镜到底）]
+■ 0-2 秒（引入）：
+真实的室内场景。一只手小心地取下墙壁插座盖板。通过写实的实拍微距摄影捕捉塑料、壁纸和指尖的纹理。从盖板后方，透出带有房间主题色的微弱暖光。
+■ 2-4 秒（侵入）：
+摄像机缓慢靠近开口并向内窥视。深邃的小型居住空间逐渐显现，摄像机缩小比例并自然地潜入微缩世界。
+■ 4-8 秒（日常生活）：
+摄像机完全进入房间。居民参考角色正在进行“根据资料推断出的最符合其身份的单一日常活动（创作、阅读、烹饪、演奏乐器、照料植物、整理等）”。避免过度摆拍；强调仿佛偶然窥见般的自然日常生活。
+■ 8-10 秒（余韵）：
+角色注意到摄像机，短暂地看向它，并给出一个小巧迷人的反应。以令人想要再次窥视的余韵结束，留下温暖的房间氛围和细微的动作。
+
+[角色与工艺材质质感]
+- 严格保持原始身份特征（面部特征、发型、发色、眼睛、服装、配饰），并与房间比例统一。角色是微缩居民；动物/吉祥物不强制拟人化，而是以原本形态自然行动。
+- 微缩世界具有精致手工艺品的质感。结合适合每件物品的工艺材料，如木质/粘土家具、织物/毛线纺织品、透明树脂瓶、干花等，唤起纤维、针织物和手工制作的温暖感。
+- 使用浅景深、微距镜头产生的自然散景以及柔和的室内暖光进行表现。
+
+[音频/BGM]
+- 人声：高音调、可爱的孩童般细小声音。用简短的虚构词汇含蓄地说话，传达情感而非现有语言。
+- BGM：与房间氛围相匹配的轻柔、温暖的八音盒风格器乐。自然混合轻微的日常声音，如细小的脚步声和布料摩擦声。
+
+[禁止事项]
+混入真实尺寸的家具、描绘正常电线、堆砌过多小物件、改变角色形象/去人性化、添加不必要的人物/动物、显示字幕/文字/Logo/水印、过度的魔法特效、不自然的剪辑切换、炫目的 BGM。
+```
+
+<img src="https://cms-assets.youmind.com/media/1792223062429_al5hqn_HUqoV74a0AAAx3j.jpg" width="600" alt="插座内的微缩世界视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12661)**
+
+**作者:** [りる🍄AI共創Enjoy🪄✨](https://x.com/wow_runa) | **来源:** [Link](https://x.com/wow_runa/status/2110690041051992192) | **发布时间:** Oct 15, 2026
 
 ---
 ### K-pop 女团编舞舞蹈视频
@@ -2185,257 +2522,6 @@ Hey grok, dress me up in the traditional costume of the country I look like I’
 **作者:** [Zaleska Rockabay](https://x.com/zaleskha) | **来源:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **发布时间:** Oct 8, 2026
 
 ---
-### 3D 环绕循环视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于从图像生成循环视频的提示词，包含围绕角色的 3D 轨道摄像机运动。
-
-#### 📝 提示词
-
-```
-仿佛进入 3D 场景般飞入画面。围绕每个角色进行轨道运动，展示其过肩视角。最终回到起始位置，使视频形成无缝循环
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108325228539490304/img/VdOTI0C1QxMSYvpJ.jpg" width="600" alt="3D 环绕循环视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12278)**
-
-**作者:** [Gorka Cesium](https://x.com/GorkaCesium) | **来源:** [Link](https://x.com/GorkaCesium/status/2108325247535485215) | **发布时间:** Oct 8, 2026
-
----
-### 电影感 CIA 场景视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 将输入内容转化为电影感宽景镜头的提示词，展示一位身穿皮衣的恶搞角色。
-
-#### 📝 提示词
-
-```
-将此转化为一个电影感的宽景镜头，展示 CIA 哥伦比亚特工 KIRA（即图中所示的女性，模仿 Shakira 的造型，留着金色长卷发，身穿带有徽章的黑色 CIA 皮衣），演示她与虚构统治者之间的模拟商业关系……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108319345226989568/img/gcSe0OfKXuXvPo-k.jpg" width="600" alt="电影感 CIA 场景视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12214)**
-
-**作者:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **来源:** [Link](https://x.com/TheWhySpirit/status/2108319388197597268) | **发布时间:** Oct 8, 2026
-
----
-### 德克萨斯州草原骑马视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 第一人称视角视频提示：在德克萨斯州草原上漫步，手持阿拉伯马缰绳。
-
-#### 📝 提示词
-
-```
-我正漫步在德克萨斯州的草原上。手中牵着一匹美丽的阿拉伯马的缰绳。天气晴朗宜人，背景中可见森林与山脉。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108288065676496897/img/M9175k0R4jkxj48E.jpg" width="600" alt="德克萨斯州草原骑马视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12215)**
-
-**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **来源:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **发布时间:** Oct 8, 2026
-
----
-### 大地精灵奇幻艺术提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成空灵大地精灵图像的提示词，最初由 Gemini 提出，并在包括 Grok Imagine 在内的多种模型中进行了视频生成测试。
-
-#### 📝 提示词
-
-```
-一位化身为年轻人类女性的空灵大地精灵；泥土、岩石、苔藓和植物；神秘氛围；奇幻艺术风格；高度细节化。
-```
-
-<img src="https://cms-assets.youmind.com/media/1791792661063_g8l4f7_HUGY0TIbEAALWQU.jpg" width="600" alt="大地精灵奇幻艺术提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12381)**
-
-**作者:** [華月光](https://x.com/hanagekkou) | **来源:** [Link](https://x.com/hanagekkou/status/2108134263044673764) | **发布时间:** Oct 8, 2026
-
----
-### 捷豹 XJ6 混合动力引擎
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段视频提示词，将 80 年代的捷豹 XJ6 改装为搭载强劲直列六缸混合动力系统。
-
-#### 📝 提示词
-
-```
-调出 80 年代的捷豹 XJ6，将其改装为搭载强劲直列六缸混合动力系统，以保持低矮的引擎盖线条……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108085155512401921/img/_883xeT1MuE1kwYc.jpg" width="600" alt="捷豹 XJ6 混合动力引擎">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12176)**
-
-**作者:** [Edward McCall](https://x.com/edwardmccallinc) | **来源:** [Link](https://x.com/edwardmccallinc/status/2108085170452508903) | **发布时间:** Oct 8, 2026
-
----
-### 松鼠女孩森林视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的视频生成提示词，从森林中松鼠女孩的参考图像开始。
-
-#### 📝 提示词
-
-```
-视频从 @image1 定义的画面开始：一位红发松鼠女孩蹲在阳光普照的森林中长满苔藓的原木上，身后高高竖起蓬松的大红尾巴，长着松鼠耳朵，手里拿着一颗小橡果靠近脸庞，温柔地微笑着望向……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108073759311851520/img/QAFaEXW-K2j44KDU.jpg" width="600" alt="松鼠女孩森林视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12171)**
-
-**作者:** [LUCKY](https://x.com/luluoksana) | **来源:** [Link](https://x.com/luluoksana/status/2108073815930732958) | **发布时间:** Oct 8, 2026
-
----
-### 圣经金句视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段包含鼓励人心的圣经经文的提示词，主题关于等候耶和华。
-
-#### 📝 提示词
-
-```
-“要等候耶和华！当壮胆，坚固你的心。我再说，要等候耶和华！……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108066306415038464/img/TBMofhfo9FIerTdn.jpg" width="600" alt="圣经金句视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12163)**
-
-**作者:** [Dear Jesus](https://x.com/PrayingtoJesus2) | **来源:** [Link](https://x.com/PrayingtoJesus2/status/2108066329404301797) | **发布时间:** Oct 8, 2026
-
----
-### 配饰替换视频编辑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 该提示词指导模型通过添加项链、帽子和狗牌等特定配饰来修改主体。
-
-#### 📝 提示词
-
-```
-混合搭配：戴上我的项链、帽子和衬衫，不戴眼镜，把狗牌挂在项链上
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108061463210242048/img/3Rkm9OJESEnfp4iI.jpg" width="600" alt="配饰替换视频编辑">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12179)**
-
-**作者:** [chris lanzillo](https://x.com/LanzilloChris) | **来源:** [Link](https://x.com/LanzilloChris/status/2108061476565155968) | **发布时间:** Oct 8, 2026
-
----
-### 青铜雕塑变身
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一段日语提示词，描述变身成带有果冻豆般细节的青铜雕塑。
-
-#### 📝 提示词
-
-```
-我，梅森志保，变身为一个留着长卷发、头发盘成海螺形状的女性雕塑。面部和身体为白色青铜材质。头发、嘴唇、眼睛、脸颊以及包包则采用柔和色调的果冻豆状材料呈现。面部泛着金色光泽，发丝间也闪烁着金光。深邃的眼窝，高挺硕大的鼻子。面部特写。我的愿望实现了。感谢上帝。明天和后天一定会更好。呐喊着。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108052370118881281/img/P0SEN3dzy7M-up0X.jpg" width="600" alt="青铜雕塑变身">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12174)**
-
-**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **来源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2108052385541369949) | **发布时间:** Oct 8, 2026
-
----
-### 希拉里·克林顿火鸡视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 涉及政治人物的争议性且可能具有冒犯性的视频生成提示词。
-
-#### 📝 提示词
-
-```
-制作一段希拉里·克林顿被火鸡扇耳光的视频。特朗普称其为“闭嘴，该死的同性恋”。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108041621350621184/img/ROQKdrUW3suYXTRd.jpg" width="600" alt="希拉里·克林顿火鸡视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12159)**
-
-**作者:** [Ligma Ballz](https://x.com/LBallz77283) | **来源:** [Link](https://x.com/LBallz77283/status/2108041639201579065) | **发布时间:** Oct 8, 2026
-
----
-### 尼米兹级航母纪录片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段逼真的海军纪录片风格视频提示词，展示一艘尼米兹级航空母舰。
-
-#### 📝 提示词
-
-```
-以逼真的海军纪录片风格呈现，一艘巨大的尼米兹级航空母舰在开阔海域航行。该航母拥有灰色船体、高耸的岛式上层建筑、带有排列整齐的战斗机的斜角飞行甲板，以及一架停在 t...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108007737451782144/img/SVJl6AazyXY4WJp7.jpg" width="600" alt="尼米兹级航母纪录片">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12175)**
-
-**作者:** [PATRIOT PLACE 🇺🇸🏁](https://x.com/RetCorr) | **来源:** [Link](https://x.com/RetCorr/status/2108007750546457028) | **发布时间:** Oct 8, 2026
-
----
-### 激烈扯发视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成包含激烈扯发互动场景的短视频片段的提示词。
-
-#### 📝 提示词
-
-```
-男子粗暴地拉扯她的头发，将她的头向后拽。Whipitdev 正在接受应有的待遇 #whipitdev #hugetits #grokai #grok #ai #aigirl #bbc #rough #anal #devonshae
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107978851284312064/img/XQky4Ii8XGjqJ0Dg.jpg" width="600" alt="激烈扯发视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12167)**
-
-**作者:** [s](https://x.com/Iandoe616) | **来源:** [Link](https://x.com/Iandoe616/status/2107978886193742117) | **发布时间:** Oct 7, 2026
-
----
-### 女性转头特写
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的视频生成脚本，描述了一位女性转头并说话的特写镜头。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段连续的特写视频，展示一位留着深色波浪卷发的年轻女性将头转向镜头，并在温暖空灵的氛围中轻声说话。
-
-[事件脚本]
-开始时：与视线齐平的静态特写镜头，拍摄对象为...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107908879262658560/img/EDbLpnZFeNfntkYS.jpg" width="600" alt="女性转头特写">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12172)**
-
-**作者:** [Maria Of Mars](https://x.com/MariaGa68521784) | **来源:** [Link](https://x.com/MariaGa68521784/status/2107908892726317512) | **发布时间:** Oct 7, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2497,6 +2583,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-17T04:09:45.396Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-17T08:42:09.737Z</sub>
 
 </div>

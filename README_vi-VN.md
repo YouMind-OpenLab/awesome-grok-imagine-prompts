@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3118** |
+| 📝 Total Prompts | **3131** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-17** |
 
@@ -189,6 +189,230 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Video Ánh Sáng Xoáy Thành Sao
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt đầy chất thơ mô tả hai luồng ánh sáng xoáy trong bóng tối, tỏa ra những tia lấp lánh biến thành các vì sao trên bầu trời đêm.
+
+#### 📝 Prompt
+
+```
+Trong bóng tối, hai luồng ánh sáng xoáy quanh nhau, mỗi lần di chuyển đều tỏa ra những tia lấp lánh, và những tia ấy hóa thành các vì sao trên bầu trời đêm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111340253776953345/img/b9pe-XzIM6bri4ts.jpg" width="600" alt="Video Ánh Sáng Xoáy Thành Sao">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12652)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111340335054135657) | **Published:** Oct 17, 2026
+
+---
+### Tesla Rocket Thruster Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video mô tả chiếc Tesla Roadster bay lên khỏi đường cao tốc nhờ hệ thống tên lửa đẩy.
+
+#### 📝 Prompt
+
+```
+Tesla Roadster bay lên không trung khỏi đường cao tốc nhờ hệ thống tên lửa đẩy, cảnh tượng xe Tesla bay lượn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111271405366988800/img/1AZ7UruZa7ynbxvO.jpg" width="600" alt="Tesla Rocket Thruster Flight">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12654)**
+
+**Author:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **Source:** [Link](https://x.com/TIME2064/status/2111271416792224030) | **Published:** Oct 17, 2026
+
+---
+### Video Starship Cất Cánh Từ Mặt Trăng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả video về Starship cất cánh từ mặt trăng bằng động cơ đẩy khí lạnh, có tham chiếu đến hình ảnh đầu vào.
+
+#### 📝 Prompt
+
+```
+Starship @Image1 cất cánh từ bề mặt mặt trăng bằng động cơ đẩy khí lạnh
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111195673714417664/img/FyLTcyzJGts4Rm6n.jpg" width="600" alt="Video Starship Cất Cánh Từ Mặt Trăng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12649)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111195978967744532) | **Published:** Oct 16, 2026
+
+---
+### Video Tesla Roadster Bay Trên Không
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết cho video 10 giây độ phân giải 720p về chiếc Tesla Roadster bay lơ lửng nhờ động cơ đẩy khí lạnh, xoay vòng và hạ cánh kèm hiệu ứng khói.
+
+#### 📝 Prompt
+
+```
+Video 10s độ phân giải 720p ghi lại cảnh chiếc Tesla Roadster kích hoạt các động cơ đẩy khí lạnh để bay lơ lửng, xoay tròn trên không trước khi nhẹ nhàng hạ cánh xuống mặt đất. Khói từ động cơ bị cuốn trôi qua cụm đèn pha chiếu xa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111182229841813504/img/lM8nyhf1lg776rlj.jpg" width="600" alt="Video Tesla Roadster Bay Trên Không">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12651)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111182254646886773) | **Published:** Oct 16, 2026
+
+---
+### Chợ Techno Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chuyển động camera năng động, đưa người xem vào các khu chợ techno phong cách cyberpunk với những chiếc xe bay.
+
+#### 📝 Prompt
+
+```
+Phóng to, xe bay lướt qua nhanh chóng, camera lao vào các khu chợ techno như một drone, phong cách cyberpunk
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111177341326008321/img/VmPHs-Y5R4AHQSW0.jpg" width="600" alt="Chợ Techno Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12650)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111177371919569183) | **Published:** Oct 16, 2026
+
+---
+### Biến Đổi Cảnh Quan Thành Phố Khoa Học Viễn Tưởng Sang Ban Ngày
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết về cách biến đổi cảnh quan thành phố khoa học viễn tưởng từ ban đêm sang ban ngày, với bầu trời xanh sáng có mây và ánh sáng tự nhiên.
+
+#### 📝 Prompt
+
+```
+Hãy biến đổi cảnh quan thành phố khoa học viễn tưởng tương lai này thành một khung cảnh ban ngày rực rỡ. Thay đổi bầu trời đêm tối u ám nhiều mây thành bầu trời xanh trong sáng với những đám mây trắng mềm mại và ánh nắng chói chang. Điều chỉnh toàn bộ hệ thống chiếu sáng theo ánh sáng ban ngày tự nhiên, với những tia nắng vàng ấm áp chiếu rọi...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111177072907280385/img/CP0nL1ndM4MpY2SK.jpg" width="600" alt="Biến Đổi Cảnh Quan Thành Phố Khoa Học Viễn Tưởng Sang Ban Ngày">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12653)**
+
+**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111177086643671238) | **Published:** Oct 16, 2026
+
+---
+### Grok Imagine: Prompt Video Nhảy Đồng Bộ Âm Thanh
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt chi tiết để tạo video ngắn khiêu vũ chân thực bằng Grok Imagine. Prompt quy định tính nhất quán của nhân vật, trang phục, phụ kiện và biên đạo múa chính xác đồng bộ với tệp âm thanh đã tải lên. Bao gồm các thông số kỹ thuật như thời lượng (11.2s), tỷ lệ khung hình (9:16) và hành vi camera (cảnh quay tĩnh).
+
+#### 📝 Prompt
+
+```
+Video ngắn khiêu vũ người thật đóng, phong cách chân thực. Nhân vật sử dụng khuôn mặt, kiểu tóc, dáng người và đặc điểm nhận dạng của Character #1 được thiết lập sẵn trong suốt video. Character #1 là một người trưởng thành. Mặc duy nhất bộ trang phục được thiết lập sẵn, giữ nguyên nét mặt tinh tế, đeo kính trang trí và đi giày cao gót màu tím đậm. Danh tính, kiểu tóc, cơ thể, trang phục và tất cả phụ kiện đều phải nhất quán.
+
+Tổng thời lượng 11.20 giây, màn dọc tỷ lệ 9:16, tốc độ khung hình 30fps, một cảnh quay liên tục duy nhất. Nhân vật ở trung tâm, đối diện trực tiếp với camera, chuyển động nhẹ nhàng, vui tươi, nụ cười tự nhiên. Thực hiện nghiêm ngặt trình tự khiêu vũ sau đây mà không thêm động tác mới hoặc kéo dài thời gian chuẩn bị/giữ tư thế.
+
+[Khóa Âm Thanh]
+Sử dụng tệp đã tải lên "lumiraexo_on_Reels_audio only.mp4" làm giọng nói và bản nhạc nền duy nhất, bắt đầu đồng bộ từ 00:00. Giữ nguyên giọng hát gốc, âm nhạc, nhịp điệu, tông màu, tốc độ và khoảng nghỉ; không lồng tiếng lại, thay đổi cao độ hoặc thêm nhạc/thoại. Bản nhạc kết thúc vào khoảng ~11.17s, để lại ~0.03s im lặng tự nhiên.
+Cơ thể xoay, lòng bàn tay đẩy, nâng đầu gối và cử chỉ tay tuân theo nhịp thực tế của âm thanh này; không đặt BPM xung đột. Duy trì nụ cười và hơi thở tự nhiên; không thêm lời thoại khớp môi rõ ràng.
+
+[Hành Động, Biểu Cảm, Ánh Mắt Theo Từng Phân Khúc]
+00:00–00:01.10 | Đẩy Tay Xen Kẽ:
+Chân mở rộng tự nhiên, đầu gối thả lỏng, hông chuyển trọng lượng trái/phải theo nhịp. Tay trái đặt sau tai trái, khuỷu tay trái mở ra ngoài; cánh tay phải duỗi về phía camera, ngón tay xòe, lòng bàn tay hướng trước, tạo thành cử chỉ "dừng" rõ ràng. Sau đó tay phải trở về bên tai phải, lòng bàn tay trái đẩy về phía trước rồi thu lại. Trao đổi tay mượt mà, lòng bàn tay không chạm ống kính.
+Biểu cảm: Nụ cười sáng và tự nhiên ngay từ đầu.
+Ánh mắt: Luôn giao tiếp trực tiếp với camera.
+Điểm rơi: Mỗi lần đẩy tay đạt mức tối đa về phía trước đúng nhịp, hông chuyển cùng lúc.
+
+00:01.10–00:02.20 | Nhịp Điệu Với Tay Đặt Sau Tai:
+Theo sau động tác đẩy tay, cả hai tay di chuyển ra sau tai và hai bên phía sau đầu, khuỷu tay mở tự nhiên. Thân trên thả lỏng, vai nảy nhẹ, hông liên tục lắc trái/phải. Đầu nghiêng nhẹ rồi thẳng lại, tóc đung đưa tự nhiên theo chuyển động của vai.
+Biểu cảm: Nụ cười dịu lại thành vẻ tinh nghịch, tập trung với nụ cười mỉm.
+Ánh mắt: Nhìn vào camera trước, nhìn xuống thoáng qua gần cuối phân khúc.
+
+00:02.20–00:03.40 | Nâng Một Đầu Gối:
+Tay phải giữ sau tai phải, tay trái hạ dọc theo cạnh ngoài cơ thể, dừng trước đùi trái. Trọng lượng ổn định trên chân phải, đầu gối trái nâng lên phía trước/lên trên, mở nhẹ sang trái, tay trái lơ lửng trên đùi đang nâng; sau đó chân trái hạ xuống đất theo cùng đường đi. Hoàn thành chỉ một lần nâng đầu gối liên tục, không đá, không kéo quần áo. Thân trên nghiêng nhẹ để cân bằng.
+Biểu cảm: Môi mím nhẹ, vẻ nghiêm túc tinh nghịch.
+Ánh mắt: Nhìn vào chân trái khi nâng, quay lại camera khi hạ xuống.
+Điểm rơi: Điểm cao nhất của đầu gối chạm nhịp, việc hạ xuống ngay lập tức chuyển tiếp sang cử chỉ tiếp theo.
+
+00:03.40–00:04.40 | Khung Ngón Tay Trước Ngực:
+Chân trái đứng vững, cả hai tay trở về ngực, lòng bàn tay nghiêng về phía camera; ngón cái và ngón trỏ tiến lại gần nhau, tạm thời tạo thành khung tam giác nhỏ. Sau đó tay mở rộng từ giữa sang hai bên, hạ xuống theo vòng cung đến eo. Cơ thể duy trì nhịp điệu trái/phải nhẹ.
+Biểu cảm: Từ nụ cười kiềm chế sang nụ cười rạng rỡ.
+Ánh mắt: Nhìn vào các đầu ngón tay ở trung tâm, nâng mắt lên nhìn trực tiếp camera khi tay mở ra.
+Điểm rơi: Việc khép ngón tay và mở tay tương ứng với các nhịp liên tiếp.
+
+00:04.40–00:07.20 | Tay Thấp, Lắc Hông Liên Tục:
+Khuỷu tay hơi cong, tay thả lỏng thành nắm đấm nhỏ, đặt ở hai bên cơ thể, hơi thấp hơn eo, các đốt ngón tay hướng về phía trước-trong. Giữ tay thấp, dựa vào việc co duỗi đầu gối nhẹ để chuyển trọng lượng trái/phải liên tục, hông đẩy ngắn qua trung tâm rồi đổi bên; vai cân bằng ngược lại nhẹ, cẳng tay nảy tự nhiên theo nhịp. Chân hầu như đứng tại chỗ.
+Biểu cảm: Thả lỏng, nụ cười sáng, má nâng tự nhiên.
+Ánh mắt: Chủ yếu nhìn trực tiếp camera, thỉnh thoảng lệch đi với đầu nghiêng, ngay lập tức quay lại.
+Điểm rơi: Mỗi lần đẩy hông chạm rõ ràng vào nhịp, không có chuyển động chậm, không kéo dài.
+
+00:07.20–00:09.20 | Duy Trì Nhịp Điệu, Giảm Nụ Cười Thoáng Qua:
+Tiếp tục tay thấp và lắc hông trái/phải, biên độ nhất quán với phân khúc trước. Đầu nghiêng nhẹ sang một bên rồi thẳng lại; vai tạo ra những cú nảy tinh tế theo nhịp, cơ thể không di chuyển đáng kể về phía trước/sau.
+Biểu cảm: Nụ cười tự nhiên lùi lại, môi khép nhẹ, tạo thành trạng thái bình tĩnh thoáng qua; sau đó khóe miệng lại nhếch lên.
+Ánh mắt: Nhìn sang bên thoáng qua, quay lại camera, duy trì sự tương tác.
+
+00:09.20–00:11.20 | Nụ Cười Trở Lại, Kết Thúc Tự Nhiên:
+Tiếp tục chuyển trọng lượng trái/phải ban đầu, tay vẫn ở hai bên cơ thể, cổ tay thả lỏng. Đầu nghiêng nhẹ theo nhịp, cuối cùng quay lại phía trước, chuyển động hông giảm tự nhiên.
+Biểu cảm: Để lộ nụ cười rạng rỡ một lần nữa, kết thúc trong trạng thái thư giãn, hạnh phúc.
+Ánh mắt: Nhìn trực tiếp camera.
+Điểm rơi: Tuân theo nhịp điệu cuối cùng của bản nhạc để ổn định tự nhiên, không đóng băng cứng nhắc đột ngột.
+
+[Camera & Cảnh Quan]
+Vị trí cố định điện thoại phía trước, ống kính ở độ cao ngang ngực, hơi hướng lên trên. Cảnh quay trung toàn thân dọc, chụp từ trên đầu đến giữa đùi dưới, giữ không gian cho động tác đẩy tay và nâng đầu gối. Phóng to phối cảnh tự nhiên khi vươn tay về phía trước; camera giữ tĩnh, không zoom, lia, xoay hoặc cắt.
+Cảnh quan là nội thất hiện đại đơn giản: Hai cửa gỗ sẫm màu phía sau nhân vật với tay cầm và bộ đóng cửa màu bạc; tường sáng màu xung quanh và trần nhà trắng, các thiết bị chiếu sáng tròn nhỏ có thể nhìn thấy trên cao. Giữ cảm giác đời thường của nơi ở thực tế hoặc phòng khách sạn.
+Ánh sáng môi trường trong nhà mềm mại chiếu sáng khuôn mặt và cơ thể, độ phơi sáng nền ổn định. Hình ảnh có kết cấu quay bằng smartphone chân thực, giữ lại kết cấu da, sợi tóc và quán tính vải, không có hiệu ứng ánh sáng bổ sung.
+Loại trừ: Hoán đổi khuôn mặt, trôi dạt danh tính, thay đổi kiểu tóc, biến đổi trang phục, mất vớ/kính, thay đổi giày cao gót; nhiều bàn tay/ngón tay, ngón tay dính liền, lòng bàn tay xuyên qua mặt, khớp duỗi quá mức, mất cân bằng khi nâng đầu gối, trượt chân, đá chân hỗn loạn; dịch chuyển hành động tức thì, lắc hông máy móc, lệch nhịp điệu, nụ cười cố định không đổi, ánh mắt trôi dạt, khớp môi bất thường; thay đổi tốc độ âm thanh, lệch bản nhạc, thêm giọng nói/nhạc thừa; chuyển động camera đẩy/kéo, zoom kỹ thuật số, cắt ghép, biến dạng nền, mờ nặng, phụ đề, watermark, logo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111172429682769920/img/5Lz1iR3n_pGv40TU.jpg" width="600" alt="Grok Imagine: Prompt Video Nhảy Đồng Bộ Âm Thanh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12658)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2111172841945129256) | **Published:** Oct 16, 2026
+
+---
+### Quy trình video phòng thu nhỏ ổ cắm điện
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Quy trình sử dụng ChatGPT để tạo ba khung hình tĩnh nhất quán về phòng có ổ cắm điện và Grok Imagine để tạo video 10 giây từ các khung hình đó.
+
+#### 📝 Prompt
+
+```
+Ảnh dọc 9:16 siêu thực, cận cảnh tấm ốp ổ cắm điện đôi tiêu chuẩn màu trắng trên tường với họa tiết hoa cổ điển kem nhạt
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111050135954444288/img/5lT7UXx_6wOloNBm.jpg" width="600" alt="Quy trình video phòng thu nhỏ ổ cắm điện">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12659)**
+
+**Author:** [xer rexx](https://x.com/rexx_xer82545) | **Source:** [Link](https://x.com/rexx_xer82545/status/2111050341525627391) | **Published:** Oct 16, 2026
+
+---
+### Vòng hoa tuyết rơi với bóng đèn kim cương
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt video tạo ra vòng hoa tuyệt đẹp, nơi các bóng đèn lấp lánh như kim cương với tuyết rơi phủ trên đỉnh.
+
+#### 📝 Prompt
+
+```
+Hãy làm cho các bóng đèn tỏa sáng nhẹ nhàng, lấp lánh như kim cương và hoàn thiện toàn bộ vòng hoa. Chỉ cần một tác phẩm nghệ thuật xinh đẹp, lộng lẫy và tinh tế, hãy thực hiện thật đẹp mắt. NFEN hãy thêm hiệu ứng tuyết rơi phủ lên trên cùng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110964155981148160/img/Nl_pHIh_KB8vPnXp.jpg" width="600" alt="Vòng hoa tuyết rơi với bóng đèn kim cương">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12657)**
+
+**Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110964185496711242) | **Published:** Oct 16, 2026
+
+---
 ### Cây thông Noel truyền thống cổ điển
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +432,25 @@ Hãy làm cho cây thông Noel này trở nên đẹp mắt với bối cảnh t
 **Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110964151950680444) | **Published:** Oct 16, 2026
 
 ---
+### Prompt hoạt cảnh mùa đông
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video để thêm ánh sáng lấp lánh, tuyết rơi và nhạc piano vào một cảnh.
+
+#### 📝 Prompt
+
+```
+Hãy làm cho ánh sáng lấp lánh nhẹ nhàng, bắt đầu có tuyết rơi chậm rãi và thêm một bản nhạc piano du dương tuyệt đẹp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110963706334982144/img/qRsLoC8qPWKuB1HJ.jpg" width="600" alt="Prompt hoạt cảnh mùa đông">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12655)**
+
+**Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110963774920298591) | **Published:** Oct 16, 2026
+
+---
 ### Cảnh Chúa Jesus bước xuống từ con lừa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +468,25 @@ Hãy để Chúa Jesus bước xuống khỏi con lừa, quay mặt về phía t
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12595)**
 
 **Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110963116439683254) | **Published:** Oct 16, 2026
+
+---
+### Prompt Khung Hình Tĩnh ChatGPT Cho Livestream
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một prompt dành cho ChatGPT để tạo ra khung hình tĩnh phong cách điện thoại thông minh siêu thực của một phụ nữ trẻ, có thể được sử dụng làm đầu vào cho Grok Imagine để tạo video.
+
+#### 📝 Prompt
+
+```
+Ảnh phong cách điện thoại thông minh siêu thực, dọc 9:16. Một phụ nữ Đông Á trẻ tuổi hư cấu (không phải người thật), khoảng ngoài đôi mươi, da trắng tự nhiên với kết cấu chân thực, tóc nâu buộc lỏng phía sau với vài lọn tóc rủ xuống hai bên mặt, dáng người cân đối
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110961041282891776/img/Sp7gR4RlJqOFcv83.jpg" width="600" alt="Prompt Khung Hình Tĩnh ChatGPT Cho Livestream">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12660)**
+
+**Author:** [xer rexx](https://x.com/rexx_xer82545) | **Source:** [Link](https://x.com/rexx_xer82545/status/2110961280336953352) | **Published:** Oct 16, 2026
 
 ---
 ### Hình Dáng Hùng Vĩ của Starlite
@@ -320,6 +582,27 @@ Thêm dòng chữ "Question Everything" phía trên đầu cô ấy, biến đ�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12593)**
 
 **Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2110915832016707800) | **Published:** Oct 16, 2026
+
+---
+### Montage Công Nghệ Gạch Đường Áp Điện
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt video montage chi tiết giới thiệu công nghệ gạch đường áp điện tương lai, tạo ra điện từ xe điện.
+
+#### 📝 Prompt
+
+```
+Grok Imagine Video Montage Prompt
+Tạo một đoạn video montage công nghệ tương lai sạch sẽ, chất lượng cao dài 30–40 giây, cho thấy các viên gạch đường áp điện tạo ra điện từ xe điện đi qua và lưu trữ để sử dụng cho các xe sau.
+Ghi chú phong cách (áp dụng cho tất cả các cảnh...)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110902576661024768/img/nMzWW2308vYyxq9d.jpg" width="600" alt="Montage Công Nghệ Gạch Đường Áp Điện">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12656)**
+
+**Author:** [Meme Island](https://x.com/MemeIslandKing) | **Source:** [Link](https://x.com/MemeIslandKing/status/2110902647649636833) | **Published:** Oct 16, 2026
 
 ---
 ### Vườn cảnh sa mạc với tòa nhà kim loại
@@ -627,6 +910,60 @@ Video hành động trực tiếp điện ảnh siêu thực về một người
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12611)**
 
 **Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **Published:** Oct 15, 2026
+
+---
+### Prompt Video Thế Giới Thu Nhỏ Bên Trong Ổ Cắm
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt chi tiết cho Google Flow và Grok Imagine để tạo video liền mạch 10 giây, hé lộ căn phòng của một nhân vật thu nhỏ bên trong ổ cắm điện.
+
+#### 📝 Prompt
+
+```
+[Cài đặt cơ bản]
+Phân tích kỹ hình ảnh tham chiếu và hồ sơ mạng xã hội đính kèm, thiết kế hoàn toàn mới một 'căn phòng nhỏ mà nhân vật thực sự sống', sau đó tạo video.
+- Tỷ lệ khung hình: 9:16 (Dọc)
+- Thời lượng: Khoảng 10 giây (Video một cảnh quay liền mạch, không cắt ghép hay dịch chuyển tức thời)
+- Phong cách: Quay macro siêu thực kết hợp với thẩm mỹ mô hình thu nhỏ thủ công.
+
+[Quy tắc phân tích hồ sơ và chuyển đổi nội thất] (*Hướng dẫn thiết kế cho AI*)
+Trích xuất các yếu tố sau từ tài liệu tham chiếu và phản ánh trực tiếp vào thiết kế nội thất của căn phòng.
+1. Thiết kế màu sắc (Bảng màu):
+Trích xuất màu tóc, màu mắt, màu chính và phụ của trang phục nhân vật, cùng tông màu của ảnh đại diện, và áp dụng chúng vào tông màu của giấy dán tường, thảm, rèm cửa, đồ trải giường và ánh sáng.
+2. Phong cách kiến trúc/nội thất:
+Chuyển hóa bầu không khí và gu thẩm mỹ trang phục của nhân vật (Hiện đại, Retro, Fantasy, Nhật Bản, Cyber, Tự nhiên, Gothic, v.v.) thành hình dáng đồ nội thất và vật liệu tường/sàn.
+3. Vật phẩm biểu tượng (Chọn 3-5 món):
+Từ nội dung văn bản hồ sơ (nghề nghiệp, sở thích, yêu thích, kỹ năng, thế giới quan) và đồ dùng cá nhân, chỉ chọn 3-5 món mang tính biểu tượng cho tính cách và đặt chúng ở những vị trí nổi bật về mặt thị giác trong phòng. (*Tránh nhồi nhét quá nhiều đồ vật nhỏ; giữ cân bằng để sở thích thấm đẫm tự nhiên vào không gian sống.*)
+
+[Bố cục video 10 giây (Một cảnh quay liên tục)]
+■ 0-2 Giây (Giới thiệu):
+Bối cảnh trong nhà thực tế. Một bàn tay người cẩn thận tháo nắp ổ cắm điện trên tường. Nhiếp ảnh macro chân thực ghi lại kết cấu của nhựa, giấy dán tường và đầu ngón tay. Từ phía sau nắp, một ánh sáng ấm áp nhỏ nhuốm màu chủ đề của căn phòng lọt ra ngoài.
+■ 2-4 Giây (Xâm nhập):
+Camera từ từ tiến gần đến lỗ hổng và nhìn vào bên trong. Một không gian cư trú sâu thẳm và nhỏ bé dần hiện ra, camera thu nhỏ tỷ lệ trong khi xâm nhập tự nhiên vào thế giới thu nhỏ.
+■ 4-8 Giây (Cuộc sống hàng ngày):
+Camera hoàn toàn đi vào phòng. Nhân vật tham chiếu đang sinh hoạt bằng 'hành động hàng ngày phù hợp nhất được suy ra từ hồ sơ (sáng tạo, đọc sách, nấu ăn, chơi nhạc cụ, chăm sóc cây, dọn dẹp, v.v.)'. Tránh tạo dáng quá mức; nhấn mạnh cuộc sống hàng ngày tự nhiên như thể vô tình bắt gặp.
+■ 8-10 Giây (Dư âm):
+Nhân vật nhận ra camera, nhìn nó trong chốc lát và đưa ra một phản ứng nhỏ nhắn, đáng yêu. Kết thúc bằng cảm giác lưu luyến khiến bạn muốn nhìn lại lần nữa, để lại bầu không khí ấm áp của căn phòng và những chuyển động nhỏ.
+
+[Cảm giác chất liệu nhân vật và thủ công]
+- Duy trì nghiêm ngặt danh tính gốc (đặc điểm khuôn mặt, kiểu tóc, màu tóc, mắt, trang phục, phụ kiện) và thống nhất với quy mô căn phòng. Các nhân vật là cư dân thu nhỏ; động vật/mascot không bị ép nhân cách hóa mà di chuyển tự nhiên dưới hình dạng gốc.
+- Thế giới thu nhỏ có kết cấu của đồ thủ công tinh xảo. Kết hợp các vật liệu thủ công phù hợp với từng món đồ, chẳng hạn như đồ nội thất gỗ/đất sét, dệt may vải/sợi len, chai nhựa resin trong suốt, hoa khô, v.v., gợi lên sợi, đan móc và hơi ấm của sự khéo léo.
+- Thể hiện với độ sâu trường ảnh nông, bokeh tự nhiên từ ống kính macro và ánh sáng trong nhà ấm áp, dịu nhẹ.
+
+[Âm thanh/BGM]
+- Giọng nói: Giọng trẻ con cao, dễ thương. Nói khiêm tốn bằng những từ hư cấu ngắn gọn truyền tải cảm xúc thay vì ngôn ngữ tồn tại.
+- BGM: Nhạc cụ phong cách hộp nhạc nhẹ nhàng, ấm áp phù hợp với bầu không khí của căn phòng. Trộn lẫn tự nhiên những âm thanh hàng ngày mờ nhạt như bước chân nhỏ và tiếng sột soạt của vải.
+
+[Vật phẩm bị cấm]
+Trộn lẫn đồ nội thất kích thước thật, mô tả dây điện thông thường, nhồi nhét quá nhiều đồ vật nhỏ, biến đổi/khử nhân hóa nhân vật, thêm người/động vật không cần thiết, hiển thị phụ đề/văn bản/logo/hình mờ, hiệu ứng phép thuật quá mức, thay đổi cảnh quay không tự nhiên, BGM hào nhoáng.
+```
+
+<img src="https://cms-assets.youmind.com/media/1792223062429_al5hqn_HUqoV74a0AAAx3j.jpg" width="600" alt="Prompt Video Thế Giới Thu Nhỏ Bên Trong Ổ Cắm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12661)**
+
+**Author:** [りる🍄AI共創Enjoy🪄✨](https://x.com/wow_runa) | **Source:** [Link](https://x.com/wow_runa/status/2110690041051992192) | **Published:** Oct 15, 2026
 
 ---
 ### Video nhảy vũ đạo K-pop
@@ -2151,257 +2488,6 @@ Hình dung sự hội tụ của Sao Thổ và Sao Hải Vương:
 **Author:** [Zaleska Rockabay](https://x.com/zaleskha) | **Source:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **Published:** Oct 8, 2026
 
 ---
-### Prompt Video Orbit 3D Lặp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt để tạo video lặp từ hình ảnh với chuyển động camera orbit 3D quanh các nhân vật.
-
-#### 📝 Prompt
-
-```
-bay vào cảnh như thể nó là 3D. orbit quanh từng nhân vật để hiển thị góc nhìn qua vai của họ. kết thúc tại vị trí bắt đầu để video tạo thành một vòng lặp
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108325228539490304/img/VdOTI0C1QxMSYvpJ.jpg" width="600" alt="Prompt Video Orbit 3D Lặp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12278)**
-
-**Author:** [Gorka Cesium](https://x.com/GorkaCesium) | **Source:** [Link](https://x.com/GorkaCesium/status/2108325247535485215) | **Published:** Oct 8, 2026
-
----
-### Video cảnh quay điện ảnh của CIA
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Câu lệnh chuyển đổi đầu vào thành một cảnh quay rộng mang phong cách điện ảnh, với nhân vật nhại lại mặc bộ đồ da.
-
-#### 📝 Prompt
-
-```
-Chuyển đổi nội dung này thành một cảnh quay rộng mang phong cách điện ảnh về KIRA thuộc CIA Colombia (chính xác là người phụ nữ được hiển thị, ngoại hình nhại lại Shakira với mái tóc vàng xoăn dài trong bộ đồ da đen của CIA có huy hiệu), thể hiện mối quan hệ kinh doanh giả định của cô với vị chỉ huy hư cấu...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108319345226989568/img/gcSe0OfKXuXvPo-k.jpg" width="600" alt="Video cảnh quay điện ảnh của CIA">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12214)**
-
-**Author:** [The 555 RGB Dimension](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2108319388197597268) | **Published:** Oct 8, 2026
-
----
-### Video Cưỡi Ngựa Trên Đồng Cỏ Texas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video mô tả góc nhìn thứ nhất đi bộ qua đồng cỏ ở Texas, tay cầm dây cương của một con ngựa Ả Rập.
-
-#### 📝 Prompt
-
-```
-Tôi đang đi bộ qua một đồng cỏ ở Texas. Tôi đang cầm dây cương của một con ngựa Ả Rập tuyệt đẹp. Thời tiết thật tươi đẹp. Phía sau là những khu rừng và dãy núi hiện ra.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108288065676496897/img/M9175k0R4jkxj48E.jpg" width="600" alt="Video Cưỡi Ngựa Trên Đồng Cỏ Texas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12215)**
-
-**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2108288148807528690) | **Published:** Oct 8, 2026
-
----
-### Prompt nghệ thuật tưởng tượng về Tinh Linh Đất
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo hình ảnh tinh linh đất thanh tao, ban đầu được đề xuất bởi Gemini và đã được thử nghiệm trên nhiều mô hình khác nhau, bao gồm Grok Imagine để tạo video.
-
-#### 📝 Prompt
-
-```
-Một tinh linh đất thanh tao hiện thân thành một cô gái trẻ; đất đá, rêu phong và thực vật; huyền bí; nghệ thuật tưởng tượng; chi tiết cao.
-```
-
-<img src="https://cms-assets.youmind.com/media/1791792661063_g8l4f7_HUGY0TIbEAALWQU.jpg" width="600" alt="Prompt nghệ thuật tưởng tượng về Tinh Linh Đất">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12381)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2108134263044673764) | **Published:** Oct 8, 2026
-
----
-### Động cơ Hybrid Jaguar XJ6
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video biến đổi chiếc Jaguar XJ6 thập niên 80 để tích hợp động cơ hybrid mạnh mẽ với thiết kế slant-6.
-
-#### 📝 Prompt
-
-```
-Gọi lên chiếc Jaguar XJ6 thập niên 80 và biến nó thành phiên bản hybrid mạnh mẽ với động cơ slant-6 để giữ cho đường nắp capo thấp....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108085155512401921/img/_883xeT1MuE1kwYc.jpg" width="600" alt="Động cơ Hybrid Jaguar XJ6">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12176)**
-
-**Author:** [Edward McCall](https://x.com/edwardmccallinc) | **Source:** [Link](https://x.com/edwardmccallinc/status/2108085170452508903) | **Published:** Oct 8, 2026
-
----
-### Video Cô Gái Sóc Trong Rừng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc tạo video chi tiết bắt đầu từ hình ảnh tham chiếu của một cô gái sóc trong rừng.
-
-#### 📝 Prompt
-
-```
-Video bắt đầu từ khung hình được xác định bởi @image1: một cô gái sóc tóc đỏ đang ngồi xổm trên khúc gỗ phủ đầy rêu trong khu rừng ngập nắng, chiếc đuôi sóc to và xù xì màu đỏ giơ cao phía sau lưng, đôi tai sóc, tay cầm một quả sồi nhỏ gần mặt, mỉm cười nhẹ nhàng hướng về...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108073759311851520/img/QAFaEXW-K2j44KDU.jpg" width="600" alt="Video Cô Gái Sóc Trong Rừng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12171)**
-
-**Author:** [LUCKY](https://x.com/luluoksana) | **Source:** [Link](https://x.com/luluoksana/status/2108073815930732958) | **Published:** Oct 8, 2026
-
----
-### Prompt video trích dẫn Kinh Thánh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chứa câu Kinh Thánh khích lệ về việc chờ đợi Chúa.
-
-#### 📝 Prompt
-
-```
-“Hãy trông cậy nơi Đức Giê-hô-va! Hãy mạnh mẽ và can đảm. Vâng, hãy trông cậy nơi Đức Giê-hô-va!...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108066306415038464/img/TBMofhfo9FIerTdn.jpg" width="600" alt="Prompt video trích dẫn Kinh Thánh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12163)**
-
-**Author:** [Dear Jesus](https://x.com/PrayingtoJesus2) | **Source:** [Link](https://x.com/PrayingtoJesus2/status/2108066329404301797) | **Published:** Oct 8, 2026
-
----
-### Chỉnh sửa video đổi phụ kiện
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh hướng dẫn mô hình chỉnh sửa đối tượng bằng cách thêm các phụ kiện cụ thể như dây chuyền, mũ và thẻ tên chó.
-
-#### 📝 Prompt
-
-```
-Kết hợp với việc tôi đeo dây chuyền, đội mũ, mặc áo, không đeo kính và đeo thẻ tên chó vào dây chuyền
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108061463210242048/img/3Rkm9OJESEnfp4iI.jpg" width="600" alt="Chỉnh sửa video đổi phụ kiện">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12179)**
-
-**Author:** [chris lanzillo](https://x.com/LanzilloChris) | **Source:** [Link](https://x.com/LanzilloChris/status/2108061476565155968) | **Published:** Oct 8, 2026
-
----
-### Biến Hình Thành Tượng Đồng
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một prompt tiếng Nhật mô tả quá trình biến đổi thành tượng đồng với các chi tiết như kẹo jelly bean.
-
-#### 📝 Prompt
-
-```
-Tôi, Shiho Umemori, biến đổi thành một bức tượng nữ với mái tóc xoăn dài được búi lên hình xoắn ốc. Khuôn mặt và cơ thể làm bằng đồng trắng. Tóc, môi, mắt, má và túi xách được thể hiện bằng chất liệu giống kẹo jelly bean với màu pastel. Ánh sáng vàng óng trên khuôn mặt, ánh vàng kẹt trong tóc. Đôi mắt cắt sâu, mũi cao và lớn. Cận cảnh khuôn mặt. Ước mơ của tôi đã thành hiện thực. Cảm ơn Chúa. Ngày mai và ngày kia chắc chắn sẽ còn tốt đẹp hơn nữa. Tôi hét lên.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108052370118881281/img/P0SEN3dzy7M-up0X.jpg" width="600" alt="Biến Hình Thành Tượng Đồng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12174)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2108052385541369949) | **Published:** Oct 8, 2026
-
----
-### Video Hilary Clinton với con gà tây
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video gây tranh cãi và có thể xúc phạm liên quan đến các nhân vật chính trị.
-
-#### 📝 Prompt
-
-```
-Tạo một video về Hilary Clinton bị đánh bằng một con gà tây. Trump nói: "Shut faggot".
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108041621350621184/img/ROQKdrUW3suYXTRd.jpg" width="600" alt="Video Hilary Clinton với con gà tây">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12159)**
-
-**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2108041639201579065) | **Published:** Oct 8, 2026
-
----
-### Phim tài liệu về tàu sân bay Nimitz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả video phong cách phim tài liệu hải quân chân thực, tập trung vào tàu sân bay lớp Nimitz.
-
-#### 📝 Prompt
-
-```
-Trong phong cách phim tài liệu hải quân chân thực, một tàu sân bay lớp Nimitz khổng lồ đang lướt qua đại dương mênh mông. Tàu có thân màu xám, cấu trúc đảo cao vút, sàn đáp nghiêng với các tiêm kích xếp hàng ngay ngắn và một chiếc phản lực cơ đặt ở...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108007737451782144/img/SVJl6AazyXY4WJp7.jpg" width="600" alt="Phim tài liệu về tàu sân bay Nimitz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12175)**
-
-**Author:** [PATRIOT PLACE 🇺🇸🏁](https://x.com/RetCorr) | **Source:** [Link](https://x.com/RetCorr/status/2108007750546457028) | **Published:** Oct 8, 2026
-
----
-### Câu lệnh Video Giật Tóc Mạnh Bạo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Câu lệnh tạo video ngắn mô tả cảnh giật tóc mạnh bạo.
-
-#### 📝 Prompt
-
-```
-Người đàn ông giật mạnh tóc cô, kéo đầu cô ngửa ra sau. Whipitdev được đối xử đúng cách #whipitdev #hugetits #grokai #grok #ai #aigirl #bbc #rough #anal #devonshae
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107978851284312064/img/XQky4Ii8XGjqJ0Dg.jpg" width="600" alt="Câu lệnh Video Giật Tóc Mạnh Bạo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12167)**
-
-**Author:** [s](https://x.com/Iandoe616) | **Source:** [Link](https://x.com/Iandoe616/status/2107978886193742117) | **Published:** Oct 7, 2026
-
----
-### Cận cảnh phụ nữ quay đầu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kịch bản tạo video phức tạp mô tả cận cảnh một người phụ nữ quay đầu và nói chuyện.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo video]
-Tạo một video cận cảnh liên tục của một cô gái trẻ với mái tóc sẫm màu, gợn sóng đang quay đầu về phía máy quay và nói nhẹ nhàng trong bầu không khí ấm áp, huyền ảo.
-
-[Kịch bản sự kiện]
-Ở phần bắt đầu: Quay tĩnh ở tầm mắt, cận cảnh khuôn mặt của bạn...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107908879262658560/img/EDbLpnZFeNfntkYS.jpg" width="600" alt="Cận cảnh phụ nữ quay đầu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12172)**
-
-**Author:** [Maria Of Mars](https://x.com/MariaGa68521784) | **Source:** [Link](https://x.com/MariaGa68521784/status/2107908892726317512) | **Published:** Oct 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2463,6 +2549,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-17T04:09:50.991Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-17T08:42:23.221Z</sub>
 
 </div>
