@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3131** |
+| 📝 プロンプト総数 | **3142** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-10-18** |
 
@@ -189,6 +189,120 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 鷲の漁 POV ビデオシーケンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 透き通った水面から魚を捕まえるために急降下する鷲の映像プロンプト。POV から俯瞰への引きショットへと移行するシーンを詳細に説明しています。
+
+#### 📝 プロンプト
+
+```
+透き通った水に急降下し、魚を捕まえる鷲の POV を維持しつつ、その後、雲へと消えていく俯瞰からの引きショットへ移行
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111635732368355328/img/3sQclpWkqyUIYhBC.jpg" width="600" alt="鷲の漁 POV ビデオシーケンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12699)**
+
+**作者:** [Louie Dog](https://x.com/sumwearoutthere) | **ソース:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **公開日:** Oct 18, 2026
+
+---
+### カップル写真入りTシャツのモックアップ動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 入力画像を、特定のカップルの写真をあしらった黒いコットンTシャツのリアルな商品モックアップに変換するための動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+これを、スタイリッシュな黒いコットンTシャツの高品質でリアルな商品モックアップに変換してください。フロント部分に大きく中央へ配置し、正確なカップルの写真（腕にタトゥーのある笑顔の女性と、黒髪でパールネックレスを着けた男性が彼女を抱きしめている姿）をプリントします...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111597123510611968/img/FCqcqicB-TWCjLs_.jpg" width="600" alt="カップル写真入りTシャツのモックアップ動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12706)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **公開日:** Oct 17, 2026
+
+---
+### イタリアンレストランのシーンプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ワイン、シーフード、キャンドルライトが特徴的なイタリアンレストランを舞台にした動画シーンの詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+私はイタリアンレストランにいます。テーブルには赤ワインのボトルと2つのワイングラスがあります。シーフード料理が2皿並んでいます。ウェイトレスがテーブル上のキャンドルに火をつけていました。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111562011309981697/img/MD5Nn1DadWn6j6Pw.jpg" width="600" alt="イタリアンレストランのシーンプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12708)**
+
+**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **ソース:** [Link](https://x.com/jaras70berlin/status/2111562048945410556) | **公開日:** Oct 17, 2026
+
+---
+### カボチャ畑のハロウィンナイト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 青い月が浮かぶ不気味なカボチャ畑を舞台に、キャラクターが登場する45秒の動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+青い月が浮かぶ不気味なカボチャ畑でのハロウィンナイトを背景に、これら3人のキャラクターが登場する45秒の動画
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111548059507466242/img/WB_3fyDCR7kKHXnj.jpg" width="600" alt="カボチャ畑のハロウィンナイト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12703)**
+
+**作者:** [BlueMoon Operations](https://x.com/CRinkleib) | **ソース:** [Link](https://x.com/CRinkleib/status/2111548067057209497) | **公開日:** Oct 17, 2026
+
+---
+### 小川で水を飲む鹿の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 森の小川で水を飲む鹿を描いた動画生成プロンプト。2頭目の雌鹿を削除するよう指示しています。
+
+#### 📝 プロンプト
+
+```
+森の中を流れる幅広の小川から立ち上る水蒸気、そして小川で水を飲んでいる雌鹿と雄鹿。2頭目の雌鹿を削除してください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111523846931337216/img/3GhXX_Hz2Y1ixHzw.jpg" width="600" alt="小川で水を飲む鹿の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12705)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2111523923150205138) | **公開日:** Oct 17, 2026
+
+---
+### 写真ブース風ストリップコラージュ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、添付した4枚の写真からクラシックな写真ブース風ストリップコラージュを作成するためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+縦長のポートレートキャンバスに、クラシックな写真ブース風ストリップコラージュを作成します。添付した4枚の写真をすべて、1本の縦方向の写真ブースストリップとして配置してください。高さが均等な長方形のセルを4つ、上から下へ直接積み重ね、全体の縦幅と横幅を完全に埋め尽くすように...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111388481515622400/img/D_n1NPDXvPAPTDE8.jpg" width="600" alt="写真ブース風ストリップコラージュ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12707)**
+
+**作者:** [Christian Thormann Andersen](https://x.com/cleancane) | **ソース:** [Link](https://x.com/cleancane/status/2111388492794065184) | **公開日:** Oct 17, 2026
+
+---
 ### 螺旋する光から星へ変化する動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +322,64 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2111340335054135657) | **公開日:** Oct 17, 2026
 
 ---
+### ハイパーステーション的リミナル音楽ビデオ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 自己陶酔的なリミナル・タイムロードをタイムラインの建築家として可視化する、複雑なハイパーステーション的リミナル音楽ビデオ連続生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+[生成目標]
+存在すべきでない過去と未来のタイムラインの拡張されたハイパーステーション建築家として、狂信的な自己陶酔的リミナル・タイムロードを可視化する、連続的なハイパーステーション的リミナル音楽ビデオシーケンスを生成します。主要な...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111293085527240704/img/CrZQe-DDm8Rp8e0i.jpg" width="600" alt="ハイパーステーション的リミナル音楽ビデオ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12701)**
+
+**作者:** [AscensionToNull](https://x.com/adeptusnull) | **ソース:** [Link](https://x.com/adeptusnull/status/2111293107408957641) | **公開日:** Oct 17, 2026
+
+---
+### Tesla Roadster vs F1 モナコ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 画像参照プロンプトで、モナコでの Formula 1 レース中に Tesla Roadster を駆る被写体を描く。
+
+#### 📝 プロンプト
+
+```
+@Image1 が新型 Tesla Roadster ロケットを駆り、モナコでの Formula 1 レースで他のマシンを周回遅れにして優勝する様子を想像してください 🇲🇨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111282735461396480/img/r6ogtt-TzB9HCPeJ.jpg" width="600" alt="Tesla Roadster vs F1 モナコ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12704)**
+
+**作者:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **ソース:** [Link](https://x.com/SuperGeekCRC/status/2111282777387843851) | **公開日:** Oct 17, 2026
+
+---
+### ガイ・ガードナー スーパーヒーロー動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 『バットマン: ブレイブ & ボールド』と『ヤングジャスティス』のデザイン要素を融合させた、ガイ・ガードナーが登場する実写風動画を作成するための詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+6秒間の実写風動画を生成してください。主役はフォトリアルなガイ・ガードナーで、『バットマン: ブレイブ & ボールド』に見られる大胆でがっしりとしたスーパーヒーローのルックスと、『ヤングジャスティス』のシャープでアスリート的なスタイルを組み合わせています。彼は短い赤毛...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111278956355690496/img/7ReSLGlzNQ8WAa47.jpg" width="600" alt="ガイ・ガードナー スーパーヒーロー動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12702)**
+
+**作者:** [Ligma Ballz](https://x.com/LBallz77283) | **ソース:** [Link](https://x.com/LBallz77283/status/2111278984818544775) | **公開日:** Oct 17, 2026
+
+---
 ### Tesla ロケットスラスター飛行
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +397,44 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12654)**
 
 **作者:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **ソース:** [Link](https://x.com/TIME2064/status/2111271416792224030) | **公開日:** Oct 17, 2026
+
+---
+### Grok Imagine 動画プロンプト - ブロンド女性のクローズアップ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine の動画生成プロンプトです。くせ毛のブロンドヘアとそばかすのある女性の最初のフレーム画像から始まります。
+
+#### 📝 プロンプト
+
+```
+動画は添付された最初のフレーム画像で定義されるシーンから始まります。長いウェーブのかかったブロンドヘア、青い瞳、そばかす、黒いタンクトップのストラップ、そして銀色のサークルペンダントネックレスを着用した女性のクローズアップが、柔らかい緑と白のぼやけた背景...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111227053664026624/img/EUJDKPrS2S-58QJR.jpg" width="600" alt="Grok Imagine 動画プロンプト - ブロンド女性のクローズアップ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12698)**
+
+**作者:** [SkyCipher (Sky)](https://x.com/skycipher) | **ソース:** [Link](https://x.com/skycipher/status/2111227074375561452) | **公開日:** Oct 16, 2026
+
+---
+### カワイイトwichエモート動画プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 写真の男性を、非難の表情で表現したカワイイスタイルのTwitchエモートアニメーションを作成するための詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+写真の男性を、カワイイアニメ風顔として描いた Twitch チャットエモート。表情: pepe-no - 強い非難の「ノー」顔、眉間にしわを寄せた太い眉毛、拒絶を示す半眼と濃い茶色の瞳、頭はわずかに...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111209006060736512/img/MTCKcroTEsG0LVto.jpg" width="600" alt="カワイイトwichエモート動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12700)**
+
+**作者:** [もっしぃ（野原 生好）](https://x.com/Mosshy) | **ソース:** [Link](https://x.com/Mosshy/status/2111209020271026684) | **公開日:** Oct 16, 2026
 
 ---
 ### Starship 月面発射動画
@@ -816,47 +1026,6 @@ Grok Imagine 動画モンタージュプロンプト
 **作者:** [Mimi9060](https://x.com/MelodyM662010) | **ソース:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **公開日:** Oct 15, 2026
 
 ---
-### Seedance 2.0 リアルな子猫動画プロンプト
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 朝の寝室で飼い主と交流するアビシニアンの子猫を描いた、Seedance 2.0 向けの詳細な動画生成プロンプトです。キャラクター参考シートへの厳格な準拠、自然な猫の物理挙動、ハンドヘルドカメラのリアリティを重視しています。
-
-#### 📝 プロンプト
-
-```
-アップロードされた子猫キャラクター [Kitten Character Image] の三面図を厳密に参照してください。動画には常に、約 2 か月齢のアビシニアン子猫が映し出されなければなりません。頭身比率、子猫の体格、顔立ち、大きく立った耳、灰緑色のアーモンド形の目、濃いアイライン、レンガ色のピンクブラウンの鼻先、温かみのある茶色の細かなティッキング柄の毛並み、より暗い頭頂部と背中、明るい温かみのあるアプリコット色の顎と胸、小さな四肢、小さなおてて、そして三面図に示されているような黒い尾先との完全な一貫性を保ってください。年齢を変えないこと、成長させないこと、毛色や顔の特徴を変更しないこと。
-
-リアルな家庭の寝室、早朝、柔らかい自然光が窓から差し込む、ベッドにはやや乱れたオフホワイトのコットン製寝具がある。シーンは、飼い主が目覚めた直後にスマートフォンで何気なく撮影したリアルな生活記録である。
-
-0〜2 秒：子猫は刚刚目覚め、柔らかい毛布の上に横たわり、ゆっくりと頭を上げてカメラを見つめる。目はまだ眠そうであり、耳は優しく動く。まず前足を伸ばし、お尻をわずかに持ち上げ、非常に自然な猫のストレッチ動作を行う。
-
-2〜4 秒：ストレッチの後、子猫はカメラの方へ歩き、飼い主を見上げる。口をわずかに開き、短く乳白色のような声で鳴く。表情は好奇心旺盛で少し愛らしく、人間のように話すことはできない。
-
-4〜7 秒：飼い主の手が自然にフレーム内に入る。子猫は積極的に近づき、額や頬を飼い主の指や手のひらに擦りつける。目は心地よさそうに細まり、耳はリラックスしている。飼い主が顎や頬を優しく撫でると、子猫は明らかにそれを楽しんでいる。
-
-7〜10 秒：子猫は突然少し遊び心を見せ、小さな前足で飼い主の指の一つを軽く抱え、毛布の上で横向きに転がり、後ろ足で軽くキックするが、攻撃や噛みつきではない。最後に指を離し、毛布の上に仰向けになってカメラを見上げ、耳を立て、非常に自然でかわいいエンディングショットを形成する。
-
-全体として、「実際の小猫がこれらの行動をしている」ものでなければならず、人間の行動を猫に適用したものではない。軽度の擬人化は感情や相互作用の感覚にのみ反映され、すべての身体運動は、実際の 2 か月齢の子猫の骨格構造、関節可動域、重心、バランス方法に従わなければならない。
-
-リアルな写真撮影、本物の毛並みのディテール、本物の子猫の動きの慣性、わずかなハンドヘルドカメラ感、ベッドの高さに近いカメラ位置、近距離での追跡ショット、時折起こる非常にわずかな自然なフォーカス変化。商業広告的な雰囲気なし、スタジオ撮影的な雰囲気なし、過度なシネマティック品質なし。暖かいが過度にオレンジ黄色くない室内の朝の光、浅い被写界深度、リアルな生活スナップショットの質感。
-
-成猫なし、体の引き伸ばしなし、長い脚なし、肥満なし、丸顔のブリティッシュショートヘアタイプなし、頭身比の変更なし、耳の縮小なし、目を純粋な丸いカートゥーン風にしないこと、白い胸毛なし、明らかなタビー柄なし、ふわふわの長毛なし、毛色の変更なし、余分な模様なし、目の色の変更なし、太い尾なし。
-
-二足歩行なし、直立姿勢なし、人間のように手を振らないこと、人間の表情なし、人間の言語を話さないこと、服を着せないこと、カートゥーン化なし、アニメスタイルなし、3D トイ風なし、誇張されたパフォーマンスなし。
-
-余分な猫なし、体の重複なし、余分な四肢なし、複数の足や尾なし、変形した足なし、人間の手の変形なし、猫の足と人間の手の融合なし。
-
-頻繁なカット編集なし、焦点距離の急激な変更なし、瞬間移動なし、アクションのフレームスキップなし、異なるショット間での猫の体サイズの変化なし。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110760033789054976/img/sF3sJXLwqoRCNy-R.jpg" width="600" alt="Seedance 2.0 リアルな子猫動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12586)**
-
-**作者:** [Cara](https://x.com/Cara_Mosquito) | **ソース:** [Link](https://x.com/Cara_Mosquito/status/2110760296302477583) | **公開日:** Oct 15, 2026
-
----
 ### 未来的なマルチ地形ロードスター
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1426,6 +1595,29 @@ Diane Thomas Joy は、バーガンディのハイファッションスーツド
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12517)**
 
 **作者:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **ソース:** [Link](https://x.com/Thoma31928Joy/status/2110151441222606940) | **公開日:** Oct 13, 2026
+
+---
+### レトロ 1985 AI ロボット ビジュアル
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine で生成された、1985 年のフィルムストックスタイルで撮影されたビジュアルのクリエイティブコンセプト説明。
+
+#### 📝 プロンプト
+
+```
+ロボット。サーバー。夢を見る機械。
+すべては 1985 年を記憶するフィルムストックで撮影。
+明日を、昨日のように映す。
+
+もし AI が 1985 年に撮影されていたとしたら？
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110022641792753664/img/NQcxCgKv3iv8kiuD.jpg" width="600" alt="レトロ 1985 AI ロボット ビジュアル">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12709)**
+
+**作者:** [Déborah](https://x.com/dvorahfr) | **ソース:** [Link](https://x.com/dvorahfr/status/2110062762218926204) | **公開日:** Oct 13, 2026
 
 ---
 ### 擬人化された子猫と公園のベンチのシーン
@@ -2281,220 +2473,6 @@ AIディメンションズの世界で、ジャック・ハリス、ナイア・
 **作者:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **ソース:** [Link](https://x.com/b_irmina/status/2108717629229891884) | **公開日:** Oct 10, 2026
 
 ---
-### Grok Imagine スーパーヒロイン変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャラクターを青く光るエネルギー触手を持つ神々しいスーパーヒロインに変換するための、Grok Imagine 向けの詳細プロンプト。
-
-#### 📝 プロンプト
-
-```
-画像内のキャラクターを、極めて特別でユニークなスーパーヒロインへと変身させてください。彼女の存在感を真に特別かつ神聖なものへと高めます: 青く輝くエネルギーの触手を、壮大に渦巻く明るく幻想的なプラズマストリームへと強化し...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108682134311591936/img/xXW9zVtpX2P239YS.jpg" width="600" alt="Grok Imagine スーパーヒロイン変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12274)**
-
-**作者:** [Cyperpienso](https://x.com/cyperpienso) | **ソース:** [Link](https://x.com/cyperpienso/status/2108682160584728848) | **公開日:** Oct 9, 2026
-
----
-### 星の光とスピリチュアルなメッセージ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 星、光、そして選ばれた存在に関するビジュアルを呼びかける詩的・スピリチュアルなプロンプト。
-
-#### 📝 プロンプト
-
-```
-私たちはもともと星々の間に生まれる運命でした
-…~…~… ✨🙏✨生まれる前から選ばれ、このような時代のために守られてきました。
-仲間たちよ、あなたの光を輝かせましょう。その光はあなた自身の内側にあります ✨✨✨🙏📖 その美しい光を分かち合いましょう
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108636732988227584/img/7n9u8gZ67HxaSGd4.jpg" width="600" alt="星の光とスピリチュアルなメッセージ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12280)**
-
-**作者:** [Cathy has this](https://x.com/lighthouse42f) | **ソース:** [Link](https://x.com/lighthouse42f/status/2108636771244474393) | **公開日:** Oct 9, 2026
-
----
-### Grok Imagine Video プロンプト: 朝日に羽を膨らませるカラス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 白いカラスと黒いカラスが朝の陽光の中で羽を膨らませ、穏やかなギターのBGMが流れる静謐な動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-白いカラスと黒いカラスが早朝の陽光の中で羽を膨らませ、ソフトなギター音楽が背景音として流れる
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108617418373464064/img/b_OEDbIq_O2lwhPe.jpg" width="600" alt="Grok Imagine Video プロンプト: 朝日に羽を膨らませるカラス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12284)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2108617464716427403) | **公開日:** Oct 9, 2026
-
----
-### 赤と青の発光エフェクト編集
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 他の特徴を維持しながら、人物の目を赤と青に発光させるための詳細なプロンプト。
-
-#### 📝 プロンプト
-
-```
-黒いヘルメットを着用した人物の目のみを変更してください: 視聴者から見て左目は鮮烈な赤色に、右目は鮮烈な青色に発光させます。ポーズ、ヘルメット、スーツ、ネクタイ、CRT スキャンライン、円形のフレーム、l...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108600379210698752/img/zfHXKOcyG7TmouL4.jpg" width="600" alt="赤と青の発光エフェクト編集">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12275)**
-
-**作者:** [Cyperpienso](https://x.com/cyperpienso) | **ソース:** [Link](https://x.com/cyperpienso/status/2108600388387762445) | **公開日:** Oct 9, 2026
-
----
-### Elon Musk の火星着陸シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok と Grok Imagine で制作された、Elon Musk が火星に降り立ち王と対面する物語的なシーン。
-
-#### 📝 プロンプト
-
-```
-火星はレッドカーペットを敷いた。Elon が着陸し、王が条件を提示する中、ロケットは待ってくれない。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108581990316351488/img/81LlWBsdkG9b98g3.jpg" width="600" alt="Elon Musk の火星着陸シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12558)**
-
-**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **ソース:** [Link](https://x.com/thesimaximalist/status/2108582054388732296) | **公開日:** Oct 9, 2026
-
----
-### SpaceX Starship の軌道ビュー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX Starship ロケットの3Dフライスルーと軌道撮影をリクエストするシネマティックな動画生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-まるで3Dであるかのようにシーンへ飛び込み、SpaceX Starship ロケットの周囲を軌道して、壮大なショットビューを撮影してください....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108524042990858240/img/7ZRILQCa5Xm2koiC.jpg" width="600" alt="SpaceX Starship の軌道ビュー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12277)**
-
-**作者:** [Gorka Cesium](https://x.com/GorkaCesium) | **ソース:** [Link](https://x.com/GorkaCesium/status/2108524067737485511) | **公開日:** Oct 9, 2026
-
----
-### JSON カメラ制御プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 動画生成用のカメラ動きと奥行きを定義する構造化された JSON ベースのプロンプト。
-
-#### 📝 プロンプト
-
-```
-{"shot": {"motion_level": "medium", "camera_depth": "long shot", "camera_angle": "low angle", "lighting": "dramatic", "subject": "a lone figure walking through a neon-lit alley", "background": "rain-slicked streets reflecting city lights"}}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108418452427862016/img/fcG98gV6NsoHjSBJ.jpg" width="600" alt="JSON カメラ制御プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12282)**
-
-**作者:** [Barbara Molen](https://x.com/MolenBarba62710) | **ソース:** [Link](https://x.com/MolenBarba62710/status/2108418467158225372) | **公開日:** Oct 9, 2026
-
----
-### インキュベーター人間老化ビデオ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> さまざまな年齢でインキュベーターから出てくる人間を描いたSFビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-インキュベーター保管庫から作られた人間が、出生時の異なる年齢で外に出た際にどのような姿をしているかを示す
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108356308898381824/img/849zRTpw-3JAj1hM.jpg" width="600" alt="インキュベーター人間老化ビデオ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12281)**
-
-**作者:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **ソース:** [Link](https://x.com/SuperGeekCRC/status/2108356350736785611) | **公開日:** Oct 9, 2026
-
----
-### Grok Imagine Video プロンプト: ロックされたニュースカメラシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 特定のカメラワーク、音声キュー、そして漂うハートなどの視覚効果を備えたニュース放送シーンを詳細に描写したシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-固定されたニュースカメラ、わずかなデジタルズーム。彼は遅れて瞬きし、口はほとんど動かない。ティッカーは左へ流れる。フラットな紫色のハートが右端から彼の顔と同期せず上へ漂う。かすかなプロンプター音、低いルームトーン、音楽なし。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108343675197558784/img/CvHnWrR0J3lxwiJ0.jpg" width="600" alt="Grok Imagine Video プロンプト: ロックされたニュースカメラシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12283)**
-
-**作者:** [Igor Nesvitt](https://x.com/IgorNesvitt) | **ソース:** [Link](https://x.com/IgorNesvitt/status/2108343692826214799) | **公開日:** Oct 8, 2026
-
----
-### Grok Imagine プロンプト：宇宙飛行士への変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ユーザーの写真をロケットで発射する宇宙飛行士に変換する、Grok Imagine の画像から動画への生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-私が宇宙飛行士に変身し、ロケットで離陸する動画を作成してください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg" width="600" alt="Grok Imagine プロンプト：宇宙飛行士への変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12216)**
-
-**作者:** [Mario](https://x.com/marioklok14) | **ソース:** [Link](https://x.com/marioklok14/status/2108338102020518342) | **公開日:** Oct 8, 2026
-
----
-### 土星と海王星の合相によるダンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 土星と海王星の合相が地球で同期したダンス plague を引き起こす様子を可視化する、宇宙をテーマにしたプロンプト。
-
-#### 📝 プロンプト
-
-```
-土星と海王星の合相を可視化してください:
-1. 太陽系を含める
-2. その合相がプラズマエネルギーを生み出す
-3. 地球上の人々が同期して踊る (1500年代のダンス plague)
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg" width="600" alt="土星と海王星の合相によるダンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12213)**
-
-**作者:** [Zaleska Rockabay](https://x.com/zaleskha) | **ソース:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **公開日:** Oct 8, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2556,6 +2534,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-18T04:16:39.517Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-18T12:45:06.534Z</sub>
 
 </div>

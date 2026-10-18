@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3131** |
+| 📝 Total Prompts | **3142** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-18** |
 
@@ -189,11 +189,125 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Spiraling Lights to Stars Video
+### Eagle Fishing POV Video Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A poetic prompt describing two lights spiraling in darkness, casting sparkles that transform into stars in the night sky.
+> A detailed video prompt describing an eagle swooping down to grab a fish from crystal clear water, transitioning from POV to overhead pull-away shots.
+
+#### 📝 Prompt
+
+```
+Eagle swoops down into crystal clear water grabbing a fish keeping the pov then going to an over head pull away shot fading into the clouds
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111635732368355328/img/3sQclpWkqyUIYhBC.jpg" width="600" alt="Eagle Fishing POV Video Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12699)**
+
+**Author:** [Louie Dog](https://x.com/sumwearoutthere) | **Source:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **Published:** Oct 18, 2026
+
+---
+### Couple photo t-shirt mockup video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt transforming an input into a realistic product mockup of a black cotton T-shirt featuring a specific couple's photo.
+
+#### 📝 Prompt
+
+```
+Transform this into a high-quality realistic product mockup of a stylish black cotton T-shirt. Print the exact couple photo (the smiling woman with arm tattoos and the man with black hair and pearl necklaces hugging her) large and centered on the fro...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111597123510611968/img/FCqcqicB-TWCjLs_.jpg" width="600" alt="Couple photo t-shirt mockup video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12706)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **Published:** Oct 17, 2026
+
+---
+### Italian Restaurant Scene Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for a video scene set in an Italian restaurant with wine, seafood, and candle lighting.
+
+#### 📝 Prompt
+
+```
+I'm in an Italian restaurant. There's a bottle of red wine and two wine glasses on the table. There are two seafood plates. The waitress was lighting candles on the table.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111562011309981697/img/MD5Nn1DadWn6j6Pw.jpg" width="600" alt="Italian Restaurant Scene Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12708)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2111562048945410556) | **Published:** Oct 17, 2026
+
+---
+### Pumpkin Patch Halloween Night
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a 45-second video featuring characters in a scary pumpkin patch setting with a blue moon.
+
+#### 📝 Prompt
+
+```
+45 second video with these three characters the pumpkin patch Halloween scary night, blue moon
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111548059507466242/img/WB_3fyDCR7kKHXnj.jpg" width="600" alt="Pumpkin Patch Halloween Night">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12703)**
+
+**Author:** [BlueMoon Operations](https://x.com/CRinkleib) | **Source:** [Link](https://x.com/CRinkleib/status/2111548067057209497) | **Published:** Oct 17, 2026
+
+---
+### Deer Drinking Stream Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt showing deer drinking from a forest stream, instructing to remove a second doe.
+
+#### 📝 Prompt
+
+```
+Water vapor rising from a wider stream running through a forest, with a doe and a buck deer drinking from the stream remove second doe
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111523846931337216/img/3GhXX_Hz2Y1ixHzw.jpg" width="600" alt="Deer Drinking Stream Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12705)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111523923150205138) | **Published:** Oct 17, 2026
+
+---
+### Photo Booth Strip Collage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt to create a classic photo booth strip collage from four attached photos using Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Create a classic photo-booth-strip collage on a tall portrait canvas. Arrange all four attached photos in a single vertical photo-booth strip: four equal-height rectangular cells stacked one directly above the next, filling the full height and width...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111388481515622400/img/D_n1NPDXvPAPTDE8.jpg" width="600" alt="Photo Booth Strip Collage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12707)**
+
+**Author:** [Christian Thormann Andersen](https://x.com/cleancane) | **Source:** [Link](https://x.com/cleancane/status/2111388492794065184) | **Published:** Oct 17, 2026
+
+---
+### Lights spiraling into stars video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic video generation prompt describing two lights spiraling around each other in darkness, casting sparkles that transform into stars in the night sky.
 
 #### 📝 Prompt
 
@@ -201,18 +315,76 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 In darkness two lights spiral around each casting sparkles as they move the sparkles become stars in the night sky
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111340253776953345/img/b9pe-XzIM6bri4ts.jpg" width="600" alt="Spiraling Lights to Stars Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111340253776953345/img/b9pe-XzIM6bri4ts.jpg" width="600" alt="Lights spiraling into stars video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12652)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111340335054135657) | **Published:** Oct 17, 2026
 
 ---
-### Tesla Rocket Thruster Flight
+### Hyperstitional Liminal Music Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for a video showing a Tesla Roadster flying off a highway using rocket thrusters.
+> A complex prompt for generating a continuous hyperstitional liminal music-video sequence visualizing an egomaniac liminal time-lord as an architect of timelines.
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+Generate a continuous hyperstitional liminal music-video sequence that visualizes an unhinged egomaniac liminal time-lord as augmented hyperstition architect of timelines long past and futures that should not exist. The principal ev...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111293085527240704/img/CrZQe-DDm8Rp8e0i.jpg" width="600" alt="Hyperstitional Liminal Music Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12701)**
+
+**Author:** [AscensionToNull](https://x.com/adeptusnull) | **Source:** [Link](https://x.com/adeptusnull/status/2111293107408957641) | **Published:** Oct 17, 2026
+
+---
+### Tesla Roadster vs F1 Monaco
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt using an image reference to place a subject in a Tesla Roadster racing against Formula 1 cars at Monaco.
+
+#### 📝 Prompt
+
+```
+Imagine @Image1 racing in the new Tesla Roadster rocket against Formula 1 cars at Monaco 🇲🇨 and winning the race by lapping all other cars
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111282735461396480/img/r6ogtt-TzB9HCPeJ.jpg" width="600" alt="Tesla Roadster vs F1 Monaco">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12704)**
+
+**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2111282777387843851) | **Published:** Oct 17, 2026
+
+---
+### Guy Gardner Superhero Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for creating a live-action style video featuring Guy Gardner, blending looks from Batman: The Brave and the Bold and Young Justice.
+
+#### 📝 Prompt
+
+```
+Create a 6-second, live-action-style video featuring a photorealistic Guy Gardner, combining the bold, stocky superhero look of *Batman: The Brave and the Bold* with the sharper, athletic styling of *Young Justice*. He has short red hair...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111278956355690496/img/7ReSLGlzNQ8WAa47.jpg" width="600" alt="Guy Gardner Superhero Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12702)**
+
+**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2111278984818544775) | **Published:** Oct 17, 2026
+
+---
+### Tesla roadster rocket thrusters flight video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt depicting a Tesla Roadster flying off a highway using rocket thrusters.
 
 #### 📝 Prompt
 
@@ -220,11 +392,49 @@ In darkness two lights spiral around each casting sparkles as they move the spar
 Tesla roadster flying off the hwy into the air by its rocket thrusters flying tesla
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111271405366988800/img/1AZ7UruZa7ynbxvO.jpg" width="600" alt="Tesla Rocket Thruster Flight">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111271405366988800/img/1AZ7UruZa7ynbxvO.jpg" width="600" alt="Tesla roadster rocket thrusters flight video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12654)**
 
 **Author:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **Source:** [Link](https://x.com/TIME2064/status/2111271416792224030) | **Published:** Oct 17, 2026
+
+---
+### Grok Imagine Video Prompt - Blonde Woman Close-up
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine starting from a specific first-frame image of a blonde woman with wavy hair and freckles.
+
+#### 📝 Prompt
+
+```
+The video begins from the frame defined by the attached first-frame image: a close-up of the blonde woman with long wavy blonde hair, blue eyes, freckles, black tank top straps, and silver circle pendant necklace, against a soft green-and-white blurr...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111227053664026624/img/EUJDKPrS2S-58QJR.jpg" width="600" alt="Grok Imagine Video Prompt - Blonde Woman Close-up">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12698)**
+
+**Author:** [SkyCipher (Sky)](https://x.com/skycipher) | **Source:** [Link](https://x.com/skycipher/status/2111227074375561452) | **Published:** Oct 16, 2026
+
+---
+### Kawaii Twitch Emote Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt to create a kawaii-style Twitch emote animation of a man from a photo, expressing disapproval.
+
+#### 📝 Prompt
+
+```
+Kawaii style Twitch chat emote of the man from the photo as a cute anime-style face. Expression: pepe-no - strong disapproving no face, frowning downturned mouth, furrowed thick brows, eyes half-closed in rejection with dark brown irises, head slight...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111209006060736512/img/MTCKcroTEsG0LVto.jpg" width="600" alt="Kawaii Twitch Emote Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12700)**
+
+**Author:** [もっしぃ（野原 生好）](https://x.com/Mosshy) | **Source:** [Link](https://x.com/Mosshy/status/2111209020271026684) | **Published:** Oct 16, 2026
 
 ---
 ### Starship Moon Launch Video
@@ -816,47 +1026,6 @@ Add a fall background with pumpkins and cider. A brown long leaf shirt. Add hat.
 **Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **Published:** Oct 15, 2026
 
 ---
-### Kitten Video Model Comparison Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed video generation prompt comparing multiple AI models including Grok Imagine, focusing on realistic kitten behavior and appearance in a bedroom setting.
-
-#### 📝 Prompt
-
-```
-Strictly reference the uploaded character three-view drawing of the kitten [Kitten Character Image]. Throughout the video, it must always be the same Abyssinian kitten about 2 months old. Maintain complete consistency with the head-to-body ratio, kitten physique, face shape, large upright ears, gray-green almond eyes, dark eyeliner, brick-pink-brown nose tip, warm brown fine ticked fur, darker top of head and back, light warm apricot chin and chest, small limbs, tiny kitten paws, and dark tail tip as shown in the three-view. Do not change age, do not grow up, do not change fur color or facial features.
-
-Real home bedroom, early morning, natural soft window light, bed with slightly messy off-white pure cotton quilt. The scene is a real-life record casually filmed by the owner with a phone after just waking up.
-
-0-2 seconds: The kitten has just woken up, lying on the soft quilt, slowly raising its head to look at the camera, eyes still a bit sleepy, ears turning gently. It first stretches out its two front paws, lifts its bottom slightly, making a very natural cat stretching motion.
-
-2-4 seconds: After stretching, the kitten walks closer to the camera, looking up at the owner, mouth opening slightly to make a short, milky kitten meow. Expression is curious and a bit affectionate, cannot speak like a human.
-
-4-7 seconds: The owner's hand naturally enters the frame. The kitten actively walks over, rubbing its forehead and cheeks against the owner's fingers and palm, eyes comfortably squinting slightly, ears relaxed. The owner gently scratches its chin and cheeks, and the kitten clearly enjoys it.
-
-7-10 seconds: The kitten suddenly becomes a bit playful, using its two small front paws to gently hug one of the owner's fingers, rolling sideways onto the quilt, lightly kicking with hind legs, but not attacking or biting. Finally, it releases the finger, lies on the quilt looking up at the camera, ears perked up, forming a very natural and cute ending scene.
-
-Overall, it must be "a real kitten doing these actions," not human actions imposed on a cat. Mild anthropomorphism is reflected only in emotions and interaction; all body movements must follow the skeletal structure, joint range of motion, center of gravity, and balance of a real 2-month-old kitten.
-
-Realistic photography, real fur details, real kitten movement inertia, slight handheld camera feel, camera position close to bed height, close-range tracking shot, occasional very slight natural focus changes. No commercial ad feel, no studio shoot feel, no excessive cinematic quality. Warm but not overly orange-yellow early morning indoor lighting, shallow depth of field, real-life candid capture texture.
-
-No adult cats, do not elongate body, no long legs, no obesity, no round-faced British Shorthair body type, do not change head-to-body ratio, do not shrink ears, do not turn eyes into pure round cartoon eyes, no white chest fur, no obvious tabby stripes, no fluffy long hair, do not change fur color, no extra patterns, do not change eye color, no thick tail.
-
-No standing walking, no upright bipedal stance, no waving hands like humans, no human expressions, no speaking human language, no clothes, no cartoon style, no anime style, no 3D toy feel, no exaggerated performance.
-
-No extra cats, no body duplication, no extra limbs, no multi-claws, multi-tails, deformed paws, no human hand deformation, no fusion of cat paws and human hands.
-
-No frequent cuts, no sudden focal length changes, no teleportation, no frame skipping in actions, no changes in the cat's body size between shots.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110760033789054976/img/sF3sJXLwqoRCNy-R.jpg" width="600" alt="Kitten Video Model Comparison Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12586)**
-
-**Author:** [Cara](https://x.com/Cara_Mosquito) | **Source:** [Link](https://x.com/Cara_Mosquito/status/2110760296302477583) | **Published:** Oct 15, 2026
-
----
 ### Futuristic Multi-Terrain Roadster
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1426,6 +1595,29 @@ Diane Thomas Joy wears a burgundy high-fashion suit dress with matching heels an
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12517)**
 
 **Author:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **Source:** [Link](https://x.com/Thoma31928Joy/status/2110151441222606940) | **Published:** Oct 13, 2026
+
+---
+### Retro 1985 AI Robots Visuals
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative concept description for visuals shot in 1985 film stock style, generated by Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Robots. Servers. Machines that dream.
+All shot on a film stock that remembers 1985.
+Tomorrow, filmed like yesterday.
+
+What if AI had been filmed in 1985?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110022641792753664/img/NQcxCgKv3iv8kiuD.jpg" width="600" alt="Retro 1985 AI Robots Visuals">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12709)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2110062762218926204) | **Published:** Oct 13, 2026
 
 ---
 ### Anthropomorphic Kittens Park Bench Scene
@@ -2338,220 +2530,6 @@ A racoon dancing with the squirrel in the meadow by the forest, bright sunny day
 **Author:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **Source:** [Link](https://x.com/b_irmina/status/2108717629229891884) | **Published:** Oct 10, 2026
 
 ---
-### Grok Imagine Superheroine Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt transforming a character into a divine superheroine with glowing blue energy tentacles for Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Transform the character from the image into an extraordinarily special and unique superheroine. Elevate her presence to feel truly special and divine: intensify the glowing blue energy tentacles into brilliant, ethereal plasma streams that swirl maje...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108682134311591936/img/xXW9zVtpX2P239YS.jpg" width="600" alt="Grok Imagine Superheroine Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12274)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2108682160584728848) | **Published:** Oct 9, 2026
-
----
-### Starry Light Spiritual Message
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic/spiritual prompt asking for visuals related to stars, light, and being chosen.
-
-#### 📝 Prompt
-
-```
-Always was to be among the stars 
-…~…~… ✨🙏✨we were chosen before birth protected for a time such as this.
-Let your light shine brightly my fellow humans it is within ✨✨✨🙏📖 share that beautiful light
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108636732988227584/img/7n9u8gZ67HxaSGd4.jpg" width="600" alt="Starry Light Spiritual Message">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12280)**
-
-**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2108636771244474393) | **Published:** Oct 9, 2026
-
----
-### Grok Imagine Video Prompt: Crows Fluffing Feathers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A serene video prompt showing white and black crows fluffing feathers in morning sunlight with soft guitar background music.
-
-#### 📝 Prompt
-
-```
-White crow and black crow fluff their feathers in the early morning sunlight soft guitar music background sound
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108617418373464064/img/b_OEDbIq_O2lwhPe.jpg" width="600" alt="Grok Imagine Video Prompt: Crows Fluffing Feathers">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12284)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2108617464716427403) | **Published:** Oct 9, 2026
-
----
-### Red Blue Eye Glow Edit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for editing a figure's eyes to glow red and blue while maintaining other features.
-
-#### 📝 Prompt
-
-```
-Change only the eyes of the black helmeted figure: make the left eye (from the viewer's perspective) glow bright intense red, and the right eye glow bright intense blue. Keep the exact same pose, helmet, suit, tie, CRT scan lines, circular framing, l...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108600379210698752/img/zfHXKOcyG7TmouL4.jpg" width="600" alt="Red Blue Eye Glow Edit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12275)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2108600388387762445) | **Published:** Oct 9, 2026
-
----
-### Elon Musk Mars Landing Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative scene involving Elon Musk landing on Mars and meeting a king, made with Grok and Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Mars rolled out the red carpet. Elon lands, the king offers terms, and the rocket does not wait.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108581990316351488/img/81LlWBsdkG9b98g3.jpg" width="600" alt="Elon Musk Mars Landing Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12558)**
-
-**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2108582054388732296) | **Published:** Oct 9, 2026
-
----
-### SpaceX Starship Orbit View
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video generation prompt requesting a 3D fly-through and orbit around the SpaceX Starship rocket.
-
-#### 📝 Prompt
-
-```
-fly into the scene as if it was 3D. orbit around the SpaceX Starship rocket to have an epic shot view....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108524042990858240/img/7ZRILQCa5Xm2koiC.jpg" width="600" alt="SpaceX Starship Orbit View">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12277)**
-
-**Author:** [Gorka Cesium](https://x.com/GorkaCesium) | **Source:** [Link](https://x.com/GorkaCesium/status/2108524067737485511) | **Published:** Oct 9, 2026
-
----
-### JSON Camera Control Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A structured JSON-based prompt defining camera motion and depth for video generation.
-
-#### 📝 Prompt
-
-```
-{"shot": {"motion_level": "medium", "camera_depth": "long shot", "camera_angle": "low angle", "lighting": "dramatic", "subject": "a lone figure walking through a neon-lit alley", "background": "rain-slicked streets reflecting city lights"}}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108418452427862016/img/fcG98gV6NsoHjSBJ.jpg" width="600" alt="JSON Camera Control Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12282)**
-
-**Author:** [Barbara Molen](https://x.com/MolenBarba62710) | **Source:** [Link](https://x.com/MolenBarba62710/status/2108418467158225372) | **Published:** Oct 9, 2026
-
----
-### Incubator Humans Aging Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sci-fi video prompt depicting humans exiting incubators at various ages.
-
-#### 📝 Prompt
-
-```
-Show the humans created from incubator vaults and what they appear like as they exit as different ages of birth
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108356308898381824/img/849zRTpw-3JAj1hM.jpg" width="600" alt="Incubator Humans Aging Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12281)**
-
-**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2108356350736785611) | **Published:** Oct 9, 2026
-
----
-### Grok Imagine Video Prompt: Locked News Camera Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic video prompt describing a news broadcast scene with specific camera movements, audio cues, and visual effects like drifting hearts.
-
-#### 📝 Prompt
-
-```
-Locked news camera, tiny digital zoom. He blinks late, mouth barely moves. Ticker crawls left. Flat purple hearts drift up the right edge out of sync with his face. Faint prompter beep, low room tone, no music.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108343675197558784/img/CvHnWrR0J3lxwiJ0.jpg" width="600" alt="Grok Imagine Video Prompt: Locked News Camera Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12283)**
-
-**Author:** [Igor Nesvitt](https://x.com/IgorNesvitt) | **Source:** [Link](https://x.com/IgorNesvitt/status/2108343692826214799) | **Published:** Oct 8, 2026
-
----
-### Grok Imagine Prompt: Transforming into Astronaut
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An image-to-video transformation prompt for Grok Imagine where a user's photo morphs into an astronaut launching on a rocket.
-
-#### 📝 Prompt
-
-```
-Turn it into a video of me turning into a astronaut and taking offf on my rocket
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg" width="600" alt="Grok Imagine Prompt: Transforming into Astronaut">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12216)**
-
-**Author:** [Mario](https://x.com/marioklok14) | **Source:** [Link](https://x.com/marioklok14/status/2108338102020518342) | **Published:** Oct 8, 2026
-
----
-### Saturn Neptune Conjunction Dance
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A conceptual prompt visualizing planetary conjunction energy causing dancing people on Earth.
-
-#### 📝 Prompt
-
-```
-Visualize Saturn and Neptune conjuction: 
-1. Include Solar System
-2. Their conjuction creates a plasmatic energy 
-3. People dancing on earth synced up (Dancing Plague from 1500s)
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg" width="600" alt="Saturn Neptune Conjunction Dance">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12213)**
-
-**Author:** [Zaleska Rockabay](https://x.com/zaleskha) | **Source:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **Published:** Oct 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2613,6 +2591,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-18T04:16:35.054Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-18T12:45:03.499Z</sub>
 
 </div>

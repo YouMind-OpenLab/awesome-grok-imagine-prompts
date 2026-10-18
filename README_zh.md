@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3131** |
+| 📝 提示词总数 | **3142** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-10-18** |
 
@@ -189,6 +189,120 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 鹰捕鱼第一人称视角视频序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的视频提示词，描述了一只鹰俯冲入清澈见底的水中抓取一条鱼，镜头从第一人称视角（POV）过渡到俯视拉远镜头。
+
+#### 📝 提示词
+
+```
+鹰俯冲入清澈见底的水中抓取一条鱼，保持第一人称视角（POV），随后切换至俯视拉远镜头，最终淡出融入云层
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111635732368355328/img/3sQclpWkqyUIYhBC.jpg" width="600" alt="鹰捕鱼第一人称视角视频序列">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12699)**
+
+**作者:** [Louie Dog](https://x.com/sumwearoutthere) | **来源:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **发布时间:** Oct 18, 2026
+
+---
+### 情侣照片 T 恤样机视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，将输入内容转化为印有特定情侣照片的黑色棉质 T 恤逼真产品样机。
+
+#### 📝 提示词
+
+```
+将其转化为一款时尚黑色棉质 T 恤的高品质逼真产品样机。将那张确切的情侣照片（手臂有纹身、面带微笑的女士与留着黑发、佩戴珍珠项链并拥抱她的男士）大幅居中印在 fro...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111597123510611968/img/FCqcqicB-TWCjLs_.jpg" width="600" alt="情侣照片 T 恤样机视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12706)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **来源:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **发布时间:** Oct 17, 2026
+
+---
+### 意大利餐厅场景提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的视频场景提示词，描绘了意大利餐厅中配有红酒、海鲜和烛光的环境。
+
+#### 📝 提示词
+
+```
+我身处一家意大利餐厅。桌上放着一瓶红酒和两个酒杯。还有两盘海鲜。女服务员正在为桌上的蜡烛点火。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111562011309981697/img/MD5Nn1DadWn6j6Pw.jpg" width="600" alt="意大利餐厅场景提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12708)**
+
+**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **来源:** [Link](https://x.com/jaras70berlin/status/2111562048945410556) | **发布时间:** Oct 17, 2026
+
+---
+### 南瓜田万圣节之夜
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成 45 秒视频的提示词，描绘角色在蓝色月光下的恐怖南瓜田场景。
+
+#### 📝 提示词
+
+```
+45 秒视频，包含这三个角色，背景为恐怖的南瓜田万圣节之夜，伴有蓝色月亮
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111548059507466242/img/WB_3fyDCR7kKHXnj.jpg" width="600" alt="南瓜田万圣节之夜">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12703)**
+
+**作者:** [BlueMoon Operations](https://x.com/CRinkleib) | **来源:** [Link](https://x.com/CRinkleib/status/2111548067057209497) | **发布时间:** Oct 17, 2026
+
+---
+### 鹿饮溪水视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，展示鹿在森林溪流中饮水的场景，并指示移除第二只母鹿。
+
+#### 📝 提示词
+
+```
+穿过森林的较宽溪流上方水汽升腾，一只母鹿和一只公鹿正在溪边饮水，请移除第二只母鹿
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111523846931337216/img/3GhXX_Hz2Y1ixHzw.jpg" width="600" alt="鹿饮溪水视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12705)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2111523923150205138) | **发布时间:** Oct 17, 2026
+
+---
+### 照片亭条带拼贴
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 根据四张附加照片创建经典照片亭条带拼贴的提示词。
+
+#### 📝 提示词
+
+```
+在竖版画布上创建经典的照片亭条带拼贴。将四张附加照片排列成一条垂直的照片亭条带：四个高度相等的矩形单元格上下堆叠，填满整个高度和宽度……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111388481515622400/img/D_n1NPDXvPAPTDE8.jpg" width="600" alt="照片亭条带拼贴">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12707)**
+
+**作者:** [Christian Thormann Andersen](https://x.com/cleancane) | **来源:** [Link](https://x.com/cleancane/status/2111388492794065184) | **发布时间:** Oct 17, 2026
+
+---
 ### 螺旋光芒至星辰视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +322,64 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2111340335054135657) | **发布时间:** Oct 17, 2026
 
 ---
+### 超验阈限音乐视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成连续超验阈限音乐视频序列的复杂提示词，可视化一个自恋的阈限时主作为时间线的架构师。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一个连续的超验阈限音乐视频序列，将一个失控的自恋型阈限时主可视化为过去与不应存在的未来的增强型超验时间线架构师。主要视觉...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111293085527240704/img/CrZQe-DDm8Rp8e0i.jpg" width="600" alt="超验阈限音乐视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12701)**
+
+**作者:** [AscensionToNull](https://x.com/adeptusnull) | **来源:** [Link](https://x.com/adeptusnull/status/2111293107408957641) | **发布时间:** Oct 17, 2026
+
+---
+### 特斯拉 Roadster 对决 F1 摩纳哥
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用图像引用提示，将主体置于特斯拉 Roadster 中，在摩纳哥与一级方程式赛车竞速。
+
+#### 📝 提示词
+
+```
+想象 @Image1 驾驶全新的 Tesla Roadster 火箭车，在摩纳哥 🇲🇨 与一级方程式赛车竞速，并套圈所有其他车辆赢得比赛
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111282735461396480/img/r6ogtt-TzB9HCPeJ.jpg" width="600" alt="特斯拉 Roadster 对决 F1 摩纳哥">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12704)**
+
+**作者:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **来源:** [Link](https://x.com/SuperGeekCRC/status/2111282777387843851) | **发布时间:** Oct 17, 2026
+
+---
+### 盖·加德纳超级英雄视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份详细的提示词，用于制作以盖·加德纳为主角的真人风格视频，融合《蝙蝠侠：英勇无畏》和《少年正义联盟》中的形象。
+
+#### 📝 提示词
+
+```
+创建一个 6 秒的真人风格视频，主角为写实风格的盖·加德纳（Guy Gardner），结合《蝙蝠侠：英勇无畏》中大胆、壮硕的超级英雄形象与《少年正义联盟》中更锐利、更具运动感的造型。他留着红色短发……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111278956355690496/img/7ReSLGlzNQ8WAa47.jpg" width="600" alt="盖·加德纳超级英雄视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12702)**
+
+**作者:** [Ligma Ballz](https://x.com/LBallz77283) | **来源:** [Link](https://x.com/LBallz77283/status/2111278984818544775) | **发布时间:** Oct 17, 2026
+
+---
 ### 特斯拉火箭推进器飞行
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +397,44 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12654)**
 
 **作者:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **来源:** [Link](https://x.com/TIME2064/status/2111271416792224030) | **发布时间:** Oct 17, 2026
+
+---
+### Grok Imagine 视频提示词 - 金发女子特写
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 适用于 Grok Imagine 的视频生成提示词，起始画面为一张带有波浪卷发和雀斑的金发女子特定首帧图像。
+
+#### 📝 提示词
+
+```
+视频从附件中的首帧图像开始：一位留着金色长卷发、蓝眼睛、有雀斑的女子特写，她穿着黑色吊带背心，佩戴银色圆形吊坠项链，背景为柔和模糊的绿色与白色……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111227053664026624/img/EUJDKPrS2S-58QJR.jpg" width="600" alt="Grok Imagine 视频提示词 - 金发女子特写">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12698)**
+
+**作者:** [SkyCipher (Sky)](https://x.com/skycipher) | **来源:** [Link](https://x.com/skycipher/status/2111227074375561452) | **发布时间:** Oct 16, 2026
+
+---
+### Kawaii Twitch 表情视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的提示词，用于根据照片创建表达不满情绪的可爱风格 Twitch 表情动画。
+
+#### 📝 提示词
+
+```
+基于照片中人物的 Kawaii 风格 Twitch 聊天表情，呈现为可爱的动漫风格面孔。表情：pepe-no - 强烈的否定与不满，皱眉、嘴角下撇，浓眉紧锁，双眼半闭流露拒绝之意，深棕色瞳孔，头部轻微...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111209006060736512/img/MTCKcroTEsG0LVto.jpg" width="600" alt="Kawaii Twitch 表情视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12700)**
+
+**作者:** [もっしぃ（野原 生好）](https://x.com/Mosshy) | **来源:** [Link](https://x.com/Mosshy/status/2111209020271026684) | **发布时间:** Oct 16, 2026
 
 ---
 ### 星舰月球发射视频
@@ -816,47 +1026,6 @@ Grok Imagine 视频蒙太奇提示
 **作者:** [Mimi9060](https://x.com/MelodyM662010) | **来源:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **发布时间:** Oct 15, 2026
 
 ---
-### Seedance 2.0 逼真小猫视频提示词
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 视频生成提示词，展示一只逼真的阿比西尼亚小猫在清晨卧室中醒来并与主人互动的场景。该提示词强调严格遵循角色参考图、自然的猫科动物物理特性以及手持摄像机的真实感。
-
-#### 📝 提示词
-
-```
-严格参照上传的小猫角色三视图 [Kitten Character Image]。视频中必须始终出现同一只约 2 个月大的阿比西尼亚小猫。保持头身比例、体型、脸型、大而直立的耳朵、灰绿色杏仁眼、深色眼线、砖粉棕色鼻头、暖棕色细纹毛发、较深的头顶和背部颜色、浅暖杏色的下巴和胸部、小四肢、微小的猫爪以及深色尾尖等特征与三视图完全一致。不要改变年龄，不要让猫长大，不要改变毛色或面部特征。
-
-真实的家庭卧室，清晨，柔和的自然窗光，床上铺着略显凌乱的米白色棉质床品。场景是主人刚起床后用手机随手拍摄的真实生活记录。
-
-0-2 秒：小猫刚刚醒来，躺在柔软的毯子上，慢慢抬起头看向镜头，眼神依然困倦，耳朵轻轻转动。它先伸展两只前爪，微微抬起臀部，做出非常自然的猫咪伸懒腰动作。
-
-2-4 秒：伸展之后，小猫走向镜头，抬头看着主人，嘴巴微张，发出短促、奶声奶气的喵喵叫。表情好奇且略带亲昵，不能像人类一样说话。
-
-4-7 秒：主人的手自然地进入画面。小猫主动走过去，用额头和脸颊蹭主人的手指和手掌，眼睛舒适地眯起，耳朵放松。主人轻轻挠它的下巴和脸颊，小猫明显很享受。
-
-7-10 秒：小猫突然变得有点顽皮，用两只小小的前爪轻轻抱住主人的一根手指，在毯子上侧身翻滚，后腿轻轻踢动，但不是攻击或咬人。最后，它松开手指，躺在毯子上抬头看镜头，耳朵竖起，形成一个非常自然可爱的结尾镜头。
-
-总体而言，必须是“一只真实的小猫在做这些动作”，而不是将人类动作强加于猫。轻微的拟人化仅体现在情感和互动感上；所有身体动作必须遵循真实 2 个月大小猫的骨骼结构、关节活动范围、重心和平衡方式。
-
-写实摄影风格，真实的毛发细节，真实的小猫运动惯性，轻微的手持摄像机感，机位接近床的高度，近距离跟拍，偶尔有非常轻微的自然焦点变化。没有商业广告感，没有影棚拍摄感，没有过度的电影质感。温暖但不过分橙黄的室内晨光，浅景深，真实的生活快照质感。
-
-没有成年猫，不要拉长身体，没有长腿，没有肥胖，没有圆脸的英国短毛猫类型，不要改变头身比例，不要缩小耳朵，不要把眼睛做成纯圆的卡通样式，没有白色胸毛，没有明显的虎斑条纹，没有蓬松的长毛，不要改变毛色，没有额外的图案，不要改变眼睛颜色，没有粗尾巴。
-
-没有站立行走，没有双足站立，没有像人类一样挥手，没有人类表情，不说人类语言，不穿衣服，不卡通化，无动漫风格，无 3D 玩具感，无夸张表演。
-
-没有多余的猫，没有身体重复，没有多余的肢体，没有多爪或多尾，没有变形的脚，没有人手变形，没有猫爪与人手的融合。
-
-没有频繁的剪辑切换，没有突然的焦距变化，没有动作断裂，没有不同镜头间的大小突变。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110760033789054976/img/sF3sJXLwqoRCNy-R.jpg" width="600" alt="Seedance 2.0 逼真小猫视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12586)**
-
-**作者:** [Cara](https://x.com/Cara_Mosquito) | **来源:** [Link](https://x.com/Cara_Mosquito/status/2110760296302477583) | **发布时间:** Oct 15, 2026
-
----
 ### 未来感多地形敞篷跑车
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1431,6 +1600,29 @@ Diane Thomas Joy 身着酒红色高级时装连衣裙，搭配同色系高跟鞋
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12517)**
 
 **作者:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **来源:** [Link](https://x.com/Thoma31928Joy/status/2110151441222606940) | **发布时间:** Oct 13, 2026
+
+---
+### 复古 1985 AI 机器人视觉
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 由 Grok Imagine 生成的创意视觉概念描述，采用 1985 年胶片风格拍摄。
+
+#### 📝 提示词
+
+```
+机器人。服务器。会做梦的机器。
+全部使用铭记着 1985 年的胶片拍摄。
+像昨天一样拍摄的明天。
+
+如果 AI 早在 1985 年就被拍摄下来会怎样？
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110022641792753664/img/NQcxCgKv3iv8kiuD.jpg" width="600" alt="复古 1985 AI 机器人视觉">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12709)**
+
+**作者:** [Déborah](https://x.com/dvorahfr) | **来源:** [Link](https://x.com/dvorahfr/status/2110062762218926204) | **发布时间:** Oct 13, 2026
 
 ---
 ### 拟人化小猫公园长椅场景
@@ -2308,220 +2500,6 @@ Hey grok, dress me up in the traditional costume of the country I look like I’
 **作者:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **来源:** [Link](https://x.com/b_irmina/status/2108717629229891884) | **发布时间:** Oct 10, 2026
 
 ---
-### Grok Imagine 女超级英雄变身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 设计的详细提示词，将角色转变为拥有发光蓝色能量触须的神圣女超级英雄。
-
-#### 📝 提示词
-
-```
-将图片中的角色转变为一位极其独特且非凡的女超级英雄。提升她的气场，使其显得真正神圣而特别：将发光的蓝色能量触须强化为璀璨、空灵的等离子流，这些能量流在周围旋转……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108682134311591936/img/xXW9zVtpX2P239YS.jpg" width="600" alt="Grok Imagine 女超级英雄变身">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12274)**
-
-**作者:** [Cyperpienso](https://x.com/cyperpienso) | **来源:** [Link](https://x.com/cyperpienso/status/2108682160584728848) | **发布时间:** Oct 9, 2026
-
----
-### 星光灵性讯息
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个富有诗意与灵性的提示词，旨在生成与星空、光芒及被选中主题相关的视觉内容。
-
-#### 📝 提示词
-
-```
-我们注定属于星辰
-…~…~… ✨🙏✨在出生之前，我们便已被选中，为此刻而受护佑。
-让光芒闪耀吧，同袍们，它就在你心中 ✨✨✨🙏📖 分享这份美丽的光
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108636732988227584/img/7n9u8gZ67HxaSGd4.jpg" width="600" alt="星光灵性讯息">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12280)**
-
-**作者:** [Cathy has this](https://x.com/lighthouse42f) | **来源:** [Link](https://x.com/lighthouse42f/status/2108636771244474393) | **发布时间:** Oct 9, 2026
-
----
-### Grok Imagine 视频提示词：乌鸦梳理羽毛
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段宁静的视频提示词，展示白色和黑色乌鸦在晨光中梳理羽毛，背景伴有柔和的吉他音乐。
-
-#### 📝 提示词
-
-```
-白乌鸦和黑乌鸦在清晨阳光下梳理羽毛，背景为柔和的吉他音乐
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108617418373464064/img/b_OEDbIq_O2lwhPe.jpg" width="600" alt="Grok Imagine 视频提示词：乌鸦梳理羽毛">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12284)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2108617464716427403) | **发布时间:** Oct 9, 2026
-
----
-### 红蓝眼部发光编辑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于编辑人物眼睛使其发出红蓝光芒的详细提示词，同时保持其他特征不变。
-
-#### 📝 提示词
-
-```
-仅更改戴黑色头盔人物的眼睛：使左眼（从观察者视角看）发出明亮强烈的红光，右眼发出明亮强烈的蓝光。保持完全相同的姿势、头盔、西装、领带、CRT 扫描线、圆形构图，l...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108600379210698752/img/zfHXKOcyG7TmouL4.jpg" width="600" alt="红蓝眼部发光编辑">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12275)**
-
-**作者:** [Cyperpienso](https://x.com/cyperpienso) | **来源:** [Link](https://x.com/cyperpienso/status/2108600388387762445) | **发布时间:** Oct 9, 2026
-
----
-### Elon Musk 火星登陆场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个由 Grok 和 Grok Imagine 制作的叙事场景，讲述 Elon Musk 登陆火星并会见一位国王的故事。
-
-#### 📝 提示词
-
-```
-火星铺开了红地毯。Elon 着陆，国王提出条件，而火箭不会等待。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108581990316351488/img/81LlWBsdkG9b98g3.jpg" width="600" alt="Elon Musk 火星登陆场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12558)**
-
-**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **来源:** [Link](https://x.com/thesimaximalist/status/2108582054388732296) | **发布时间:** Oct 9, 2026
-
----
-### SpaceX Starship 轨道视角
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影级视频生成提示词，要求对 SpaceX Starship 火箭进行 3D 穿越和环绕拍摄。
-
-#### 📝 提示词
-
-```
-以 3D 效果飞入场景。围绕 SpaceX Starship 火箭进行轨道环绕拍摄，呈现史诗般的镜头视角……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108524042990858240/img/7ZRILQCa5Xm2koiC.jpg" width="600" alt="SpaceX Starship 轨道视角">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12277)**
-
-**作者:** [Gorka Cesium](https://x.com/GorkaCesium) | **来源:** [Link](https://x.com/GorkaCesium/status/2108524067737485511) | **发布时间:** Oct 9, 2026
-
----
-### JSON 相机控制提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个基于 JSON 的结构化提示词，用于定义视频生成中的镜头运动和景深。
-
-#### 📝 提示词
-
-```
-{"shot": {"motion_level": "medium", "camera_depth": "long shot", "camera_angle": "low angle", "lighting": "dramatic", "subject": "a lone figure walking through a neon-lit alley", "background": "rain-slicked streets reflecting city lights"}}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108418452427862016/img/fcG98gV6NsoHjSBJ.jpg" width="600" alt="JSON 相机控制提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12282)**
-
-**作者:** [Barbara Molen](https://x.com/MolenBarba62710) | **来源:** [Link](https://x.com/MolenBarba62710/status/2108418467158225372) | **发布时间:** Oct 9, 2026
-
----
-### 孵化器人类老化视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个科幻视频提示，描绘人类在不同年龄阶段从孵化器中走出的场景。
-
-#### 📝 提示词
-
-```
-展示由孵化器库创造的人类，以及他们在不同出生年龄阶段走出时的样貌
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108356308898381824/img/849zRTpw-3JAj1hM.jpg" width="600" alt="孵化器人类老化视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12281)**
-
-**作者:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **来源:** [Link](https://x.com/SuperGeekCRC/status/2108356350736785611) | **发布时间:** Oct 9, 2026
-
----
-### Grok Imagine Video Prompt：锁定新闻摄像机场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的电影级视频提示词，描述了一个带有特定摄像机运动、音频线索和视觉特效（如漂浮的心形）的新闻广播场景。
-
-#### 📝 提示词
-
-```
-锁定新闻摄像机，轻微数字变焦。他眨眼稍晚，嘴部几乎不动。滚动字幕向左移动。扁平的紫色心形沿右边缘向上漂移，与他的面部动作不同步。微弱的提词器哔声，低沉的房间底噪，无音乐。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108343675197558784/img/CvHnWrR0J3lxwiJ0.jpg" width="600" alt="Grok Imagine Video Prompt：锁定新闻摄像机场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12283)**
-
-**作者:** [Igor Nesvitt](https://x.com/IgorNesvitt) | **来源:** [Link](https://x.com/IgorNesvitt/status/2108343692826214799) | **发布时间:** Oct 8, 2026
-
----
-### Grok Imagine 提示词：变身宇航员
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 适用于 Grok Imagine 的图生视频转换提示词，可将用户照片变形为乘坐火箭发射升空的宇航员。
-
-#### 📝 提示词
-
-```
-将其转换为一段视频，展示我变成宇航员并乘坐火箭起飞的过程
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg" width="600" alt="Grok Imagine 提示词：变身宇航员">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12216)**
-
-**作者:** [Mario](https://x.com/marioklok14) | **来源:** [Link](https://x.com/marioklok14/status/2108338102020518342) | **发布时间:** Oct 8, 2026
-
----
-### 土星与海王星合相之舞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个以宇宙为主题的提示词，可视化土星与海王星的合相在地球上引发同步舞蹈瘟疫的场景。
-
-#### 📝 提示词
-
-```
-可视化土星与海王星的合相：
-1. 包含太阳系
-2. 它们的合相产生等离子能量
-3. 地球上的人们同步跳舞（源自 16 世纪的舞蹈瘟疫）
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg" width="600" alt="土星与海王星合相之舞">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12213)**
-
-**作者:** [Zaleska Rockabay](https://x.com/zaleskha) | **来源:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **发布时间:** Oct 8, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2583,6 +2561,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-18T04:16:35.985Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-18T12:45:04.444Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3131** |
+| 📝 Total Prompts | **3142** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-18** |
 
@@ -189,6 +189,120 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ईगल फिशिंग POV वीडियो सीक्वेंस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत वीडियो प्रॉम्प्ट जो एक ईगल को क्रिस्टल क्लियर पानी से मछली पकड़ने के लिए नीचे झपटते हुए दिखाता है, जिसमें POV शॉट से ओवरहेड पुल-अवे शॉट तक का ट्रांजिशन शामिल है।
+
+#### 📝 Prompt
+
+```
+ईगल क्रिस्टल क्लियर पानी में नीचे झपटता है और मछली पकड़ लेता है, पहले POV शॉट बनाए रखते हुए, फिर ओवरहेड पुल-अवे शॉट में बदलकर बादलों में विलीन हो जाता है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111635732368355328/img/3sQclpWkqyUIYhBC.jpg" width="600" alt="ईगल फिशिंग POV वीडियो सीक्वेंस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12699)**
+
+**Author:** [Louie Dog](https://x.com/sumwearoutthere) | **Source:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **Published:** Oct 18, 2026
+
+---
+### कपल फोटो टी-शर्ट मॉकअप वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जो इनपुट को एक विशिष्ट कपल की फोटो वाले ब्लैक कॉटन टी-शर्ट के रियलिस्टिक प्रोडक्ट मॉकअप में बदलता है।
+
+#### 📝 Prompt
+
+```
+इसे एक स्टाइलिश ब्लैक कॉटन टी-शर्ट के हाई-क्वालिटी रियलिस्टिक प्रोडक्ट मॉकअप में बदलें। कपल की सटीक फोटो (हाथ पर टैटू वाली मुस्कुराती हुई महिला और मोती के हार पहने काले बालों वाला आदमी उसे गले लगा रहा है) को फ्रॉ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111597123510611968/img/FCqcqicB-TWCjLs_.jpg" width="600" alt="कपल फोटो टी-शर्ट मॉकअप वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12706)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **Published:** Oct 17, 2026
+
+---
+### इटालियन रेस्तरां सीन प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत प्रॉम्प्ट जो एक इतालवी रेस्तरां में सेट वीडियो सीन के लिए है, जिसमें वाइन, समुद्री भोजन और मोमबत्तियों की रोशनी शामिल है।
+
+#### 📝 Prompt
+
+```
+मैं एक इतालवी रेस्तरां में हूँ। मेज़ पर लाल वाइन की एक बोतल और दो वाइन ग्लास रखे हैं। दो समुद्री भोजन (seafood) की प्लेटें भी हैं। वेटरस मेज़ पर मोमबत्तियाँ जला रही थी।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111562011309981697/img/MD5Nn1DadWn6j6Pw.jpg" width="600" alt="इटालियन रेस्तरां सीन प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12708)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2111562048945410556) | **Published:** Oct 17, 2026
+
+---
+### Pumpkin Patch हेलोवीन नाइट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 45 सेकंड के वीडियो के लिए एक प्रॉम्प्ट, जिसमें डरावने पंपकिन पैच और नीले चाँद की थीम वाले पात्र दिखाई दें।
+
+#### 📝 Prompt
+
+```
+इन तीन पात्रों के साथ 45 सेकंड का वीडियो: पंपकिन पैच, हैलोवीन डरावनी रात, और ब्लू मून
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111548059507466242/img/WB_3fyDCR7kKHXnj.jpg" width="600" alt="Pumpkin Patch हेलोवीन नाइट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12703)**
+
+**Author:** [BlueMoon Operations](https://x.com/CRinkleib) | **Source:** [Link](https://x.com/CRinkleib/status/2111548067057209497) | **Published:** Oct 17, 2026
+
+---
+### हिरण नदी में पानी पीते हुए वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जो जंगल की धारा से पानी पीती हुई हिरणों को दिखाता है, जिसमें दूसरी मादा हिरण को हटाने का निर्देश दिया गया है।
+
+#### 📝 Prompt
+
+```
+जंगल से होकर बहती एक चौड़ी धारा से उठता हुआ जलवाष्प, जिसमें एक मादा और एक नर हिरण धारा से पानी पी रहे हैं; दूसरी मादा हिरण को हटाएं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111523846931337216/img/3GhXX_Hz2Y1ixHzw.jpg" width="600" alt="हिरण नदी में पानी पीते हुए वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12705)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111523923150205138) | **Published:** Oct 17, 2026
+
+---
+### फोटो बूथ स्ट्रिप कोलाज
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine का उपयोग करके चार संलग्न फोटो से एक क्लासिक फोटो बूथ स्ट्रिप कोलाज बनाने के लिए प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक ऊंचा पोर्ट्रेट कैनवस पर एक क्लासिक फोटो-बूथ-स्ट्रिप कोलाज बनाएं। सभी चार संलग्न फोटो को एक लंबवत फोटो-बूथ स्ट्रिप में व्यवस्थित करें: चार समान ऊंचाई वाले आयताकार सेल, जिनमें से एक सीधे दूसरे के ऊपर हो, पूरी ऊंचाई और चौड़ाई को भरते हुए...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111388481515622400/img/D_n1NPDXvPAPTDE8.jpg" width="600" alt="फोटो बूथ स्ट्रिप कोलाज">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12707)**
+
+**Author:** [Christian Thormann Andersen](https://x.com/cleancane) | **Source:** [Link](https://x.com/cleancane/status/2111388492794065184) | **Published:** Oct 17, 2026
+
+---
 ### सर्पिल रोशनी से तारों तक का वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +322,64 @@ Why use our gallery?
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111340335054135657) | **Published:** Oct 17, 2026
 
 ---
+### हाइपरस्टिशनल लिमिनल म्यूजिक वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जटिल प्रॉम्प्ट जो एक निरंतर हाइपरस्टिशनल लिमिनल म्यूजिक-वीडियो सीक्वेंस जनरेट करने के लिए है, जिसमें एक अहंकारी लिमिनल टाइम-लॉर्ड को समयरेखाओं के आर्किटेक्ट के रूप में दर्शाया गया है।
+
+#### 📝 Prompt
+
+```
+[जनरेशन लक्ष्य]
+एक निरंतर हाइपरस्टिशनल लिमिनल म्यूजिक-वीडियो सीक्वेंस जनरेट करें जो एक असंतुलित अहंकारी लिमिनल टाइम-लॉर्ड को दृश्यमान करता है, जिसे अतीत की और भविष्य की उन समयरेखाओं का एगमेंटेड हाइपरस्टिशन आर्किटेक्ट के रूप में दिखाया जाता है जो मौजूद नहीं होनी चाहिए थीं। मुख्य भाव...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111293085527240704/img/CrZQe-DDm8Rp8e0i.jpg" width="600" alt="हाइपरस्टिशनल लिमिनल म्यूजिक वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12701)**
+
+**Author:** [AscensionToNull](https://x.com/adeptusnull) | **Source:** [Link](https://x.com/adeptusnull/status/2111293107408957641) | **Published:** Oct 17, 2026
+
+---
+### Tesla Roadster बनाम F1 मोनाको
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक प्रॉम्प्ट जिसमें इमेज रेफरेंस का उपयोग करके विषय को मोनाको में फॉर्मूला 1 कारों के खिलाफ Tesla Roadster में दौड़ते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+कल्पना करें कि @Image1 नई Tesla Roadster रॉकेट में मोनाको 🇲🇨 में फॉर्मूला 1 कारों के खिलाफ दौड़ रहा है और सभी अन्य कारों को लैप देकर रेस जीत रहा है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111282735461396480/img/r6ogtt-TzB9HCPeJ.jpg" width="600" alt="Tesla Roadster बनाम F1 मोनाको">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12704)**
+
+**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2111282777387843851) | **Published:** Oct 17, 2026
+
+---
+### गाय गार्डनर सुपरहीरो वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> बैटमैन: द ब्रेव एंड द बोल्ड और यंग जस्टिस की शैली को मिलाकर गाय गार्डनर के लाइव-एक्शन स्टाइल वीडियो बनाने के लिए एक विस्तृत प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+6 सेकंड का, लाइव-एक्शन स्टाइल वीडियो बनाएं जिसमें फोटो-रियलिस्टिक गाय गार्डनर हों, जो *Batman: The Brave and the Bold* के साहसी, भारी-भरकम सुपरहीरो लुक और *Young Justice* के तेज, एथलेटिक स्टाइलिंग को जोड़ते हैं। उनके पास छोटे लाल बाल हैं...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111278956355690496/img/7ReSLGlzNQ8WAa47.jpg" width="600" alt="गाय गार्डनर सुपरहीरो वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12702)**
+
+**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2111278984818544775) | **Published:** Oct 17, 2026
+
+---
 ### टेस्ला रॉकेट थ्रस्टर फ्लाइट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +397,44 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12654)**
 
 **Author:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **Source:** [Link](https://x.com/TIME2064/status/2111271416792224030) | **Published:** Oct 17, 2026
+
+---
+### Grok Imagine वीडियो प्रॉम्प्ट - ब्लोंड महिला का क्लोज-अप
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जो लहरदार बालों और झुर्रियों वाली एक ब्लोंड महिला की विशिष्ट पहली फ्रेम इमेज से शुरू होता है।
+
+#### 📝 Prompt
+
+```
+वीडियो संलग्न पहली फ्रेम इमेज द्वारा परिभाषित फ्रेम से शुरू होता है: लंबे लहरदार सुनहरे बाल, नीली आँखें, झुर्रियाँ, ब्लैक टैंक टॉप स्ट्रैप्स, और सिल्वर सर्कल पेंडेंट हार वाली एक ब्लोंड महिला का क्लोज-अप, नरम हरे और सफेद धुंधले...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111227053664026624/img/EUJDKPrS2S-58QJR.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट - ब्लोंड महिला का क्लोज-अप">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12698)**
+
+**Author:** [SkyCipher (Sky)](https://x.com/skycipher) | **Source:** [Link](https://x.com/skycipher/status/2111227074375561452) | **Published:** Oct 16, 2026
+
+---
+### Kawaii Twitch Emote वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> फोटो में दिख रहे व्यक्ति का kawaii-शैली वाला Twitch emote एनिमेशन बनाने के लिए विस्तृत प्रॉम्प्ट, जो असहमति व्यक्त करता है।
+
+#### 📝 Prompt
+
+```
+फोटो में दिख रहे व्यक्ति का Kawaii शैली वाला Twitch चैट emote, एक क्यूट anime-शैली चेहरे के रूप में। भाव: pepe-no - मजबूत असहमति भरा 'ना' चेहरा, मुड़ा हुआ नीचे की ओर देखता हुआ मुँह, सिकुड़ी हुई मोटी भौंहें, आंखें आधी बंद और नकारात्मक भाव के साथ गहरे भूरे रंग की पुतलियां, सिर थोड़ा...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111209006060736512/img/MTCKcroTEsG0LVto.jpg" width="600" alt="Kawaii Twitch Emote वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12700)**
+
+**Author:** [もっしぃ（野原 生好）](https://x.com/Mosshy) | **Source:** [Link](https://x.com/Mosshy/status/2111209020271026684) | **Published:** Oct 16, 2026
 
 ---
 ### स्टारशिप मून लॉन्च वीडियो
@@ -817,47 +1027,6 @@ Grok Imagine वीडियो मोंटाज प्रॉम्प्ट
 **Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **Published:** Oct 15, 2026
 
 ---
-### Seedance 2.0 यथार्थवादी बिल्ली का बच्चा वीडियो प्रॉम्प्ट
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 के लिए एक विस्तृत वीडियो जनरेशन प्रॉम्प्ट जिसमें एक यथार्थवादी एबिसिनियन बिल्ली का बच्चा सुबह के बेडरूम सेटिंग में उठता है और अपने मालक के साथ इंटरैक्ट करता है। यह प्रॉम्प्ट किरदार रेफरेंस शीट्स, प्राकृतिक फेलिन फिजिक्स और हैंडहेल्ड कैमरा रियलिज्म पर सख्त पालन पर जोर देता है।
-
-#### 📝 Prompt
-
-```
-अपलोड किए गए बिल्ली के बच्चे के किरदार [Kitten Character Image] की थ्री-व्यू डायग्राम का सख्ती से संदर्भ लें। वीडियो में हमेशा लगभग 2 महीने का वही एबिसिनियन बिल्ली का बच्चा होना चाहिए। सिर से शरीर के अनुपात, बिल्ली के बच्चे का शारीरिक गठन, चेहरे की आकृति, बड़े सीधे कान, ग्रे-हराई बादाम जैसी आंखें, गहरी आईलाइनर, ईंट-गुलाबी-भूरी नाक की नोक, गर्म भूरी सूक्ष्म टिकेड फर, गहरे ताज और पीठ, हल्का गर्म अप्रिकोट ठुड्डी और छाती, छोटे अंग, छोटे बिल्ली के बच्चे के पंजे, और थ्री-व्यू में दिखाए गए अनुसार गहरी पूंछ की नोक के साथ पूर्ण संगति बनाए रखें। आयु को नहीं बदलें, इसे बड़ा होने न दें, फर का रंग या चेहरे की विशेषताओं को नहीं बदलें।
-
-यथार्थवादी घर का बेडरूम, सुबह का समय, खिड़की से आती नरम प्राकृतिक रोशनी, बिस्तर पर थोड़ा बिखरा हुआ ऑफ-व्हाइट कॉटन बेडिंग। दृश्य एक यथार्थवादी जीवन रिकॉर्डिंग है जिसे मालक ने जागने के तुरंत बाद अपने फोन पर अनौपचारिक रूप से शूट किया है।
-
-0-2 सेकंड: बिल्ली का बच्चा अभी-अभी जागा है, नरम कंबल पर लेटा हुआ, धीरे-धीरे अपना सिर उठाकर कैमरे की ओर देखता है, आंखें अभी भी नींद में हैं, कान हल्के से घूम रहे हैं। वह सबसे पहले अपने दो अगले पंजों को फैलाता है, अपने निचले हिस्से को थोड़ा ऊपर उठाता है, एक बहुत ही प्राकृतिक बिल्ली स्ट्रेचिंग मोशन करते हुए।
-
-2-4 सेकंड: स्ट्रेच करने के बाद, बिल्ली का बच्चा कैमरे की ओर चलता है, मालक की ओर ऊपर देखता है, मुंह थोड़ा खुलता है, एक छोटी, दूधिया आवाज़ वाली बिल्ली की म्याऊँ निकालता है। अभिव्यक्ति जिज्ञासु और थोड़ी स्नेहपूर्ण है, इंसानों की तरह बात नहीं कर सकता।
-
-4-7 सेकंड: मालक का हाथ स्वाभाविक रूप से फ्रेम में आता है। बिल्ली का बच्चा सक्रिय रूप से ऊपर जाता है, अपने माथे और गालों को मालक की उंगलियों और हथेली से रगड़ता है, आंखें आराम से मिचमीचाते हुए, कान ढीले होते हैं। मालक हल्के से उसकी ठुड्डी और गालों को खुजाता है, बिल्ली का बच्चा स्पष्ट रूप से इसका आनंद लेता है।
-
-7-10 सेकंड: बिल्ली का बच्चा अचानक थोड़ा खेलवान हो जाता है, अपने दो छोटे अगले पंजों का उपयोग करके मालक की एक उंगली को हल्के से गले लगाता है, कंबल पर अपनी तरफ लुढ़क जाता है, पिछले पैरों से हल्के से लात मारता है, लेकिन हमला या काटना नहीं। अंत में, वह उंगली छोड़ देता है, कंबल पर लेटकर कैमरे की ओर ऊपर देखता है, कान ऊपर उठे हुए, एक बहुत ही प्राकृतिक और प्यारा समापन शॉट बनाता है।
-
-कुल मिलाकर, यह "एक असली बिल्ली का बच्चा इन क्रियाओं को कर रहा है" होना चाहिए, न कि एक बिल्ली पर लागू की गई इंसानी क्रियाएं। हल्का एन्थ्रोपोमॉर्फिज्म केवल भावनाओं और इंटरैक्शन की भावना में प्रतिबिंबित होता है; सभी शारीरिक गतिविधियों को एक वास्तविक 2 महीने के बिल्ली के बच्चे की कंकाल संरचना, जोड़ों की गति की सीमा, गुरुत्वाकर्षण केंद्र और संतुलन विधियों का पालन करना चाहिए।
-
-यथार्थवादी फोटोग्राफी, असली फर विवरण, असली बिल्ली के बच्चे की गति की जड़ता, थोड़ा हैंडहेल्ड कैमरा महसूस, कैमरा स्थिति बिस्तर की ऊंचाई के करीब, क्लोज-रेंज ट्रैकिंग शॉट, कभी-कभी बहुत हल्के प्राकृतिक फोकस परिवर्तन। कोई व्यावसायिक विज्ञापन महसूस नहीं, कोई स्टूडियो शूट महसूस नहीं, कोई अत्यधिक सिनेमाई गुणवत्ता नहीं। गर्म लेकिन अत्यधिक नारंगी-पीले नहीं, इनडोर मॉर्निंग लाइट, कम गहराई का क्षेत्र (shallow depth of field), यथार्थवादी जीवन स्नैपशॉट टेक्सचर।
-
-कोई वयस्क बिल्लियाँ नहीं, शरीर को लंबा न करें, कोई लंबे पैर नहीं, कोई मोटापे नहीं, कोई गोल चेहरे वाले ब्रिटिश शॉर्टहेयर प्रकार नहीं, सिर से शरीर के अनुपात को नहीं बदलें, कानों को सिकोड़ें नहीं, आंखों को पूरी तरह गोले कार्टून जैसे न बनाएं, कोई सफेद छाती का फर नहीं, कोई स्पष्ट टैबी धारियाँ नहीं, कोई फुलफुल लंबे बाल नहीं, फर का रंग नहीं बदलें, कोई अतिरिक्त पैटर्न नहीं, आंखों का रंग नहीं बदलें, कोई मोटी पूंछ नहीं।
-
-कोई खड़े होकर चलना नहीं, कोई द्विपाद स्थिति नहीं, इंसानों की तरह हाथ हिलाना नहीं, कोई इंसानी अभिव्यक्तियाँ नहीं, इंसानी भाषा बोलना नहीं, कपड़े पहनना नहीं, कार्टूनिज़ेशन नहीं, एनीमे शैली नहीं, 3D खिलौने जैसा महसूस नहीं, अतिरंजित प्रदर्शन नहीं।
-
-कोई अतिरिक्त बिल्लियाँ नहीं, शरीर की डुप्लिकेशन नहीं, कोई अतिरिक्त अंग नहीं, कई पंजे, कई पूंछें, विकृत पैर नहीं, इंसानी हाथ का विकृतीकरण नहीं, बिल्ली के पंजों और इंसानी हाथों का संलयन नहीं।
-
-कोई बार-बार कट शॉट्स नहीं, अचानक फोकल लंबाई में परिवर्तन नहीं, टेलीपोर्टेशन नहीं, एक्शन फ्रेम स्किपिंग नहीं, अलग-अलग शॉट्स के बीच बिल्ली के शरीर के आकार में बदलाव नहीं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110760033789054976/img/sF3sJXLwqoRCNy-R.jpg" width="600" alt="Seedance 2.0 यथार्थवादी बिल्ली का बच्चा वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12586)**
-
-**Author:** [Cara](https://x.com/Cara_Mosquito) | **Source:** [Link](https://x.com/Cara_Mosquito/status/2110760296302477583) | **Published:** Oct 15, 2026
-
----
 ### भविष्यवादी मल्टी-टेरेन रोडस्टर
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1418,6 +1587,29 @@ Diane Thomas Joy बर्गंडी हाई-फैशन सूट ड्�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12517)**
 
 **Author:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **Source:** [Link](https://x.com/Thoma31928Joy/status/2110151441222606940) | **Published:** Oct 13, 2026
+
+---
+### रेट्रो 1985 एआई रोबोट्स विजुअल्स
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine द्वारा जनरेट किए गए दृश्यों के लिए एक रचनात्मक अवधारणा विवरण, जो 1985 की फिल्म स्टॉक शैली में शूट किया गया है।
+
+#### 📝 Prompt
+
+```
+रोबोट्स। सर्वर्स। मशीनें जो सपने देखती हैं।
+सभी शॉट्स उस फिल्म स्टॉक पर लिए गए हैं जो 1985 को याद रखता है।
+कल, जैसे कल को फिल्माया गया हो।
+
+क्या होता अगर एआई को 1985 में फिल्माया जाता?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110022641792753664/img/NQcxCgKv3iv8kiuD.jpg" width="600" alt="रेट्रो 1985 एआई रोबोट्स विजुअल्स">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12709)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2110062762218926204) | **Published:** Oct 13, 2026
 
 ---
 ### मानव रूप वाले बिल्ली के बच्चे पार्क की बेंच पर दृश्य
@@ -2263,220 +2455,6 @@ In AI Dimensions, Jack Harris, Naia Voss, April Vance, and Daren Korr face an en
 **Author:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **Source:** [Link](https://x.com/b_irmina/status/2108717629229891884) | **Published:** Oct 10, 2026
 
 ---
-### Grok Imagine सुपरहीरोइन रूपांतरण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत प्रॉम्प्ट जो एक पात्र को नीली चमकदार ऊर्जा टेंटैकल्स वाली दिव्य सुपरहीरोइन में बदल देता है।
-
-#### 📝 Prompt
-
-```
-छवि में मौजूद पात्र को एक अत्यंत विशेष और अनोकी सुपरहीरोइन में बदलें। उसकी उपस्थिति को वास्तव में विशेष और दिव्य महसूस कराएं: चमकदार नीले ऊर्जा टेंटैकल्स को तेज, आकाशीय प्लाज्मा धाराओं में बदलें जो घूमती हैं...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108682134311591936/img/xXW9zVtpX2P239YS.jpg" width="600" alt="Grok Imagine सुपरहीरोइन रूपांतरण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12274)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2108682160584728848) | **Published:** Oct 9, 2026
-
----
-### तारों की रोशनी: आध्यात्मिक संदेश
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक काव्यात्मक/आध्यात्मिक प्रॉम्प्ट जो तारों, प्रकाश और चुने जाने से संबंधित दृश्य मांगता है।
-
-#### 📝 Prompt
-
-```
-हमेशा से तारों के बीच होना था
-…~…~… ✨🙏✨ हम जन्म से पहले ही चुने गए थे, ऐसे समय के लिए सुरक्षित रखे गए थे।
-अपनी रोशनी को चमकने दो, मेरे मानव साथियों, यह तुम्हारे भीतर है ✨✨✨🙏📖 उस सुंदर प्रकाश को साझा करो
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108636732988227584/img/7n9u8gZ67HxaSGd4.jpg" width="600" alt="तारों की रोशनी: आध्यात्मिक संदेश">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12280)**
-
-**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2108636771244474393) | **Published:** Oct 9, 2026
-
----
-### Grok Imagine वीडियो प्रॉम्प्ट: कौओं के पंख फैलाना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक शांत वीडियो प्रॉम्प्ट जिसमें सफेद और काले कौ सुबह की धूप में अपने पंख फैला रहे हैं, साथ में हल्की गिटार संगीत की पृष्ठभूमि।
-
-#### 📝 Prompt
-
-```
-सफेद कौ और काला कौ सुबह की धूप में अपने पंख फैलाते हैं, हल्के गिटार संगीत की पृष्ठभूमि ध्वनि
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108617418373464064/img/b_OEDbIq_O2lwhPe.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: कौओं के पंख फैलाना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12284)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2108617464716427403) | **Published:** Oct 9, 2026
-
----
-### लाल-नीली आँखों का ग्लो एडिट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> काले हेलमेट वाले आकृति की आँखों को लाल और नीले रंग में चमकाने के लिए एक विस्तृत प्रॉम्प्ट, जबकि अन्य विशेषताओं को बनाए रखें।
-
-#### 📝 Prompt
-
-```
-केवल काले हेलमेट वाली आकृति की आँखों को बदलें: दर्शक के दृष्टिकोण से बाईं आँख को तेज और गहरे लाल रंग में चमकाएं, और दाईं आँख को तेज और गहरे नीले रंग में चमकाएं। वही मुद्रा, हेलमेट, सूट, टाई, CRT स्कैन लाइन्स, गोलाकार फ्रेमिंग, l...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108600379210698752/img/zfHXKOcyG7TmouL4.jpg" width="600" alt="लाल-नीली आँखों का ग्लो एडिट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12275)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2108600388387762445) | **Published:** Oct 9, 2026
-
----
-### एलन मस्क मार्स लैंडिंग सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एलन मस्क के मार्स पर लैंडिंग और एक राजा से मुलाकात को दर्शाने वाला एक कथात्मक दृश्य, जो Grok और Grok Imagine का उपयोग करके बनाया गया है।
-
-#### 📝 Prompt
-
-```
-मंगल ग्रह ने लाल गलीचा बिछा दिया। एलन उतरते हैं, राजा शर्तें रखता है, और रॉकेट इंतज़ार नहीं करता।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108581990316351488/img/81LlWBsdkG9b98g3.jpg" width="600" alt="एलन मस्क मार्स लैंडिंग सीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12558)**
-
-**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2108582054388732296) | **Published:** Oct 9, 2026
-
----
-### SpaceX Starship ऑर्बिट व्यू
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई वीडियो जनरेशन प्रॉम्प्ट जो SpaceX Starship रॉकेट के चारों ओर 3D फ्लाई-थ्रू और ऑर्बिट की मांग करता है।
-
-#### 📝 Prompt
-
-```
-दृश्य में ऐसे प्रवेश करें जैसे यह 3D हो। SpaceX Starship रॉकेट के चारों ओर एक एपिक शॉट व्यू पाने के लिए ऑर्बिट करें....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108524042990858240/img/7ZRILQCa5Xm2koiC.jpg" width="600" alt="SpaceX Starship ऑर्बिट व्यू">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12277)**
-
-**Author:** [Gorka Cesium](https://x.com/GorkaCesium) | **Source:** [Link](https://x.com/GorkaCesium/status/2108524067737485511) | **Published:** Oct 9, 2026
-
----
-### JSON Camera Control Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> वीडियो जनरेशन के लिए कैमरा मोशन और डेप्थ को परिभाषित करने वाला स्ट्रक्चर्ड JSON-आधारित प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-{"shot": {"motion_level": "medium", "camera_depth": "long shot", "camera_angle": "low angle", "lighting": "dramatic", "subject": "a lone figure walking through a neon-lit alley", "background": "rain-slicked streets reflecting city lights"}}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108418452427862016/img/fcG98gV6NsoHjSBJ.jpg" width="600" alt="JSON Camera Control Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12282)**
-
-**Author:** [Barbara Molen](https://x.com/MolenBarba62710) | **Source:** [Link](https://x.com/MolenBarba62710/status/2108418467158225372) | **Published:** Oct 9, 2026
-
----
-### इन्क्यूबेटर से निकलते हुए मनुष्यों की उम्र के अनुसार वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक साइ-फाई वीडियो प्रॉम्प्ट जो विभिन्न आयु वर्गों में इन्क्यूबेटर से बाहर आ रहे मनुष्यों को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-इन्क्यूबेटर वॉल्ट्स से बनाए गए मनुष्यों को दिखाएं और यह कि वे जन्म के विभिन्न आयु चरणों में बाहर आने पर कैसे दिखते हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108356308898381824/img/849zRTpw-3JAj1hM.jpg" width="600" alt="इन्क्यूबेटर से निकलते हुए मनुष्यों की उम्र के अनुसार वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12281)**
-
-**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2108356350736785611) | **Published:** Oct 9, 2026
-
----
-### Grok Imagine वीडियो प्रॉम्प्ट: लॉक्ड न्यूज़ कैमरा सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत सिनेमाई वीडियो प्रॉम्प्ट जो एक समाचार प्रसारण दृश्य का वर्णन करता है, जिसमें विशेष कैमरा मूवमेंट, ऑडियो क्यू और दृश्य प्रभाव जैसे तैरते हुए दिल शामिल हैं।
-
-#### 📝 Prompt
-
-```
-लॉक्ड न्यूज़ कैमरा, छोटा डिजिटल ज़ूम। वह देर से पलकें झपकाता है, मुंह बहुत कम हिलता है। टिकर बाईं ओर खिसकता है। फ्लैट बैंगनी दिल उसके चेहरे के साथ असिंक में दाहिने किनारे से ऊपर की ओर तैरते हैं। हल्का प्रॉम्प्टर बीप, कम रूम टोन, कोई संगीत नहीं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108343675197558784/img/CvHnWrR0J3lxwiJ0.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: लॉक्ड न्यूज़ कैमरा सीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12283)**
-
-**Author:** [Igor Nesvitt](https://x.com/IgorNesvitt) | **Source:** [Link](https://x.com/IgorNesvitt/status/2108343692826214799) | **Published:** Oct 8, 2026
-
----
-### Grok Imagine प्रॉम्प्ट: अंतरिक्ष यात्री में बदलना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक इमेज-टू-वीडियो ट्रांसफॉर्मेशन प्रॉम्प्ट जिसमें उपयोगकर्ता की फोटो एक रॉकेट पर लॉन्च होने वाले अंतरिक्ष यात्री में बदल जाती है।
-
-#### 📝 Prompt
-
-```
-इसे मेरे अंतरिक्ष यात्री में बदलने और अपने रॉकेट से उड़ान भरने का वीडियो बनाओ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108338085201137664/img/l_PiX3xYz-fjQrkt.jpg" width="600" alt="Grok Imagine प्रॉम्प्ट: अंतरिक्ष यात्री में बदलना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12216)**
-
-**Author:** [Mario](https://x.com/marioklok14) | **Source:** [Link](https://x.com/marioklok14/status/2108338102020518342) | **Published:** Oct 8, 2026
-
----
-### शनि और नेपच्यून संयोग का नृत्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक ब्रह्मांडीय थीम वाला प्रॉम्प्ट जो पृथ्वी पर समन्वित नृत्य महामारी को ट्रिगर करने वाले शनि-नेपच्यून संयोग की कल्पना करता है।
-
-#### 📝 Prompt
-
-```
-शनि और नेपच्यून के संयोग की कल्पना करें: 
-1. सौर मंडल शामिल करें
-2. उनका संयोग एक प्लाज्मा ऊर्जा (plasmatic energy) उत्पन्न करता है
-3. पृथ्वी पर लोग सिंक होकर नाच रहे हैं (1500 के दशक की नृत्य महामारी)
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108327242509983744/img/5prMqFGSDzGhd4qv.jpg" width="600" alt="शनि और नेपच्यून संयोग का नृत्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12213)**
-
-**Author:** [Zaleska Rockabay](https://x.com/zaleskha) | **Source:** [Link](https://x.com/zaleskha/status/2108327337733529948) | **Published:** Oct 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2538,6 +2516,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-18T04:16:43.899Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-18T12:45:10.504Z</sub>
 
 </div>
