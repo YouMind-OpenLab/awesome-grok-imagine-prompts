@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3142** |
+| 📝 Total Prompts | **3148** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-19** |
 
@@ -189,6 +189,85 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### देवदूत के पंखों से प्रकाश का विस्तार
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत दृश्य प्रॉम्प्ट जो एक देवदूत को अपने पंखों के माध्यम से प्रकाश फैलाते हुए और तीसरे स्वर्ग की ओर उड़ान भरते हुए दर्शाता है।
+
+#### 📝 Prompt
+
+```
+एक देवदूत अपने पंखों से खुद को ढकती है, जब तक कि प्रकाश उसके पंखों के माध्यम से फैलकर पूरे शरीर में नहीं समा जाता; वह तीसरे स्वर्ग की ओर उड़ जाती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112002366715187200/img/CuVKtDon9KGFWG1V.jpg" width="600" alt="देवदूत के पंखों से प्रकाश का विस्तार">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12744)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **Published:** Oct 19, 2026
+
+---
+### एलोन मस्क द्वारा न्यू यॉर्क में टेस्ला ड्राइव करने वाला वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine का उपयोग करके न्यू यॉर्क शहर की सड़कों पर एलोन मस्क द्वारा टेस्ला ड्राइव करते हुए एक मज़ेदार वीडियो बनाने के लिए एक सरल प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+मज़ेदार वीडियो। एलोन मस्क और मैं न्यू यॉर्क शहर की सड़कों पर टेस्ला चला रहे हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111927231232524288/img/ACatCxO4jnjOwOtt.jpg" width="600" alt="एलोन मस्क द्वारा न्यू यॉर्क में टेस्ला ड्राइव करने वाला वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12743)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **Published:** Oct 18, 2026
+
+---
+### Claudia एनीमे स्टाइल Tesla Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine का उपयोग करके वास्तविक व्यक्ति को Tesla Roadster दृश्य में एनीमे शैली में बदलने वाला वीडियो जनरेशन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+CLAUDIA × SI — WHITE TESLA ROADSTER 🤍🚀
+एक ही शॉट में रियल से एनीमे @imagine 
+
+@anabology मैंने Claudia को एनीमे शैली में अपनाने की कोशिश की @bot के साथ
+```
+
+<img src="https://pbs.twimg.com/media/HU6OwhcWoAAHtHn.jpg" width="600" alt="Claudia एनीमे स्टाइल Tesla Roadster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12746)**
+
+**Author:** [Dima Nurm](https://x.com/NURM_Dima) | **Source:** [Link](https://x.com/NURM_Dima/status/2111782488544539049) | **Published:** Oct 18, 2026
+
+---
+### नाइट स्क्विरेल बनाम रोबोट मेक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+>  Knightsquirrel की कहानी को आगे बढ़ाता हुआ वीडियो प्रॉम्प्ट, जिसमें वह Bass Mech का उपयोग करके रोबोट्स से लड़ रहा है।
+
+#### 📝 Prompt
+
+```
+ Knightsquirrel की कहानी को आगे बढ़ाएं, जहाँ वह Treble के रोबोट्स से अपने Bass Mech का उपयोग करके लड़ता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111702540928577536/img/vx0G6jhxWBnxh2nZ.jpg" width="600" alt="नाइट स्क्विरेल बनाम रोबोट मेक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12747)**
+
+**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2111702741881921889) | **Published:** Oct 18, 2026
+
+---
 ### ईगल फिशिंग POV वीडियो सीक्वेंस
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +287,32 @@ Why use our gallery?
 **Author:** [Louie Dog](https://x.com/sumwearoutthere) | **Source:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **Published:** Oct 18, 2026
 
 ---
+### VHS झील के राक्षस की खोजी गई फुटेज (Found Footage)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1990 के दशक की वीएचएस कैमकोर्डर फुटेज का अनुकरण करने वाला एक विस्तृत मल्टी-शॉट वीडियो प्रॉम्प्ट, जिसमें झील के राक्षस द्वारा एक परिवार पर हमला, VHS आर्टिफैक्ट्स और विशिष्ट कैमरा मूवमेंट शामिल हैं।
+
+#### 📝 Prompt
+
+```
+1990s का कैमकॉर्डर फाउंड फुटेज, VHS टेप आर्टिफैक्ट्स, ट्रैकिंग लाइन्स, क्रोमैटिक एबरेशन, ऑटो-फोकस हंटींग, ओवरएक्सपोज़्ड हाईलाइट्स, अस्थिर और शौकिया हैंडहेल्ड कैमरा, कोने में जलती हुई डेट टाइमस्टैम्प। कलर ग्रेड: धुंधला ग्रे-हरा, फीकी त्वचा के रंग, ब्लीच हुआ पीला आकाश।
+धुंध के बीच सिल्हूट में दिखने वाला एक विशाल अंधेरे झील का जीव, जिसकी पीठ पर उभरी हुई रेखाएं और लंबी गर्दन है। उत्तरी झील के पास लकड़ी के डॉक पर एक परिवार, जिसके साथ एक कैनो भी है।
+SHOT 1 (0 से 3 सेकंड): संदर्भ छवि से मेल खाता हुआ चौड़ा हैंडहेल्ड शॉट, कैमरा अनाड़ी तरीके से ज़ूम इन करता है जब जीव की पीठ झील के दूर हिस्से में पानी से बाहर निकलती है, पानी चादरों की तरह बहता हुआ।
+SHOT 2 (3 से 6 सेकंड): हैंडहेल्ड मीडियम शॉट, कैमरा तेज़ी से डॉक पर मौजूद परिवार की ओर घूमता है, एक बच्चा इशारा कर रहा है, पिता कैनो को पानी से बाहर खींच रहे हैं, ट्रैकिंग लाइन्स के कारण इमेज में ग्लिट्च दिखाई दे रहा है।
+SHOT 3 (6 से 9 सेकंड): वाइड शॉट, ऑटो-फोकस हंटींग हो रही है, धुंध से लंबी गर्दन ऊपर उठती है, अविश्वसनीय रूप से ऊंची, एक लहर डॉक की ओर बढ़ रही है।
+SHOT 4 (9 से 12 सेकंड): भागते हुए हैंडहेल्ड शॉट, कैमरा हिल रहा है जैसे ऑपरेटर लकड़ी की सीढ़ियों से ऊपर भाग रहा है, पीछे झील चमकती हुई दिखती है, लहर डॉक से टकराती है।
+SHOT 5 (12 से 15 सेकंड): स्थिर शॉट, कैमरा घास पर गिरा हुआ है और किनारे की ओर झुका हुआ है, जीव का सिल्हूट धीरे-धीरे धुंध में वापस समा जाता है, फिर टेप ब्लू स्क्रीन पर ग्लिट्च हो जाता है।
+लून पक्षियों की पुकार, टेप की सरसराहट, माइक्रोफोन पर हवा, झील से गहरे फॉगहॉर्न जैसी पुकार, एक बच्चे की चीख, घबराई हुई सांसें, लकड़ी के टूटने की आवाज़, और अंत में VHS ट्रैकिंग की तीखी आवाज़ जो सन्नाटे में बदल जाती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111585229756391424/img/1K0p3KhB2LfWMhMl.jpg" width="600" alt="VHS झील के राक्षस की खोजी गई फुटेज (Found Footage)">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12748)**
+
+**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2111621281754005784) | **Published:** Oct 18, 2026
+
+---
 ### कपल फोटो टी-शर्ट मॉकअप वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +330,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12706)**
 
 **Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **Published:** Oct 17, 2026
+
+---
+### अंडरवाटर रोडस्टर टेक्स्ट सीन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई वीडियो प्रॉम्प्ट जिसमें काली स्क्रीन पर टेक्स्ट दिखाई देता है, जो एक अंडरवाटर सीन में बदल जाता है जहाँ समुद्र तल पर एक काला हल (hull) रखा है और एक निचली गुंजन सुनाई देती है।
+
+#### 📝 Prompt
+
+```
+काली स्क्रीन। टेक्स्ट: “Elon’s Roadster flies. Ours doesn’t ask.” अंडरवाटर — समुद्र तल पर एक काला हल। निचली गुंजन....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111593551935225856/img/CbwZYpH9Pyj368Sw.jpg" width="600" alt="अंडरवाटर रोडस्टर टेक्स्ट सीन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12745)**
+
+**Author:** [Puchamamax](https://x.com/aaoomaxi) | **Source:** [Link](https://x.com/aaoomaxi/status/2111593612438126991) | **Published:** Oct 17, 2026
 
 ---
 ### इटालियन रेस्तरां सीन प्रॉम्प्ट
@@ -2336,125 +2460,6 @@ Hey Grok मुझे उस देश की पारंपरिक वेश
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **Published:** Oct 10, 2026
 
 ---
-### थाई लड़की भालू के साथ नृत्य करती हुई
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जिसमें एक थाई लड़की अपने संवाद बोलती है और एक टेडी भालू के साथ बैठक कमरे में नृत्य करती है।
-
-#### 📝 Prompt
-
-```
-यहाँ उसके संवाद हैं, पहले थाई भाषा में, फिर अंग्रेजी में:
-“มาเต้นกับฉันสิ หมีน้อย” — “मेरे साथ नाचो, छोटे भालू।”
-फिर वह एक बार घूमती है, भालू को ऊपर उठाती है और कहती है: “เราสองคนเต้นด้วยกัน” — “हम दोनों मिलकर नाचते हैं।”
-लकड़ी का फर्श, साफ़ कारपेट, बैठक कमरा — वह घर पर है। आखिरकार भालू को एक साथी मिल गया है। ❤️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="थाई लड़की भालू के साथ नृत्य करती हुई">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12344)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **Published:** Oct 10, 2026
-
----
-### Zuck It Up मूवी प्रीव्यू
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> मार्क ज़ुकरबर्ग को एक रॉकस्टार के रूप में दिखाते हुए मूवी प्रीव्यू बनाने के लिए प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-“Zuck It Up” के लिए एक मूवी प्रीव्यू बनाएं, जो एक वैकल्पिक ब्रह्मांड (alternative universe) की कहानी है जहाँ मार्क ज़ुकरबर्ग ने Harvard छोड़ दिया था ताकि वे Facebook बेच सकें और सुपर कूल सनग्लासेस पहनकर एक रॉकस्टार की तरह जीवन जी सकें।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="Zuck It Up मूवी प्रीव्यू">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12343)**
-
-**Author:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **Source:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **Published:** Oct 10, 2026
-
----
-### AI Dimensions Architect Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt for Grok Imagine featuring characters Jack Harris, Naia Voss, April Vance, and Daren Korr facing an enemy called the Architect.
-
-#### 📝 Prompt
-
-```
-Here’s the updated video with the characters clearly **facing the Architect and shooting him**:
-
-In AI Dimensions, Jack Harris, Naia Voss, April Vance, and Daren Korr face an enemy whose ambition reaches beyond humanity into the dimensions themselves.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="AI Dimensions Architect Battle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12348)**
-
-**Author:** [Myron Smith](https://x.com/MyronSmithm1) | **Source:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **Published:** Oct 10, 2026
-
----
-### Grok Imagine इंद्रधनुषी तितलियों वाला फूलों का खेत
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine का उपयोग करके रंग-बिरंगे फूलों के खेत में इंद्रधनुष और तितलियों के साथ वीडियो बनाने के लिए एक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-फूलों के खेत में इंद्रधनुष और तितलियाँ 💐 गुलाबी, बैंगनी और पीले रंग....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108811178915012608/img/U5rhLYpmlum9UUPH.jpg" width="600" alt="Grok Imagine इंद्रधनुषी तितलियों वाला फूलों का खेत">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12276)**
-
-**Author:** [Scarlett Coggan](https://x.com/ScarlettEbonyCo) | **Source:** [Link](https://x.com/ScarlettEbonyCo/status/2108811213681635831) | **Published:** Oct 10, 2026
-
----
-### अलौकिक मल्टी-रेफरेंस ब्लेंड
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जटिल प्रॉम्प्ट जो चारों संदर्भ छवियों को एक अलौकिक ध्यान करती महिला के दृश्य में विलीन करता है, जिसमें प्रकाश के प्रभाव शामिल हैं।
-
-#### 📝 Prompt
-
-```
-एक नाटकीय अलौकिक मिश्रण जो सभी चार संदर्भों को एक महाकाव्य दृश्य में विलीन करता है: पहली छवि की शांत, छोटे घुंघराले बालों वाली महिला कमल आसन में ध्यान कर रही है, उसके सीने से चमकते हुए तारों का प्रकाश फूट रहा है और उसके सिर से एक प्रकाश की किरण निकल रही है, अब वह...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108732462193078273/img/h1u7-12JVTW9E0Cr.jpg" width="600" alt="अलौकिक मल्टी-रेफरेंस ब्लेंड">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12279)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2108732499677622751) | **Published:** Oct 10, 2026
-
----
-### Grok Imagine: रैकून और गिलहरी का नृत्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine का उपयोग करके एक धूप वाले दिन मेड़ो में रैकून और गिलहरी के नृत्य करने वाला वीडियो जनरेट करने के लिए प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक रैकून जंगल के पास मेड़ो में गिलहरी के साथ नृत्य कर रहा है, तेज धूप वाला दिन
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108717600096333824/img/q4ydydu2zvP30CQD.jpg" width="600" alt="Grok Imagine: रैकून और गिलहरी का नृत्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12273)**
-
-**Author:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **Source:** [Link](https://x.com/b_irmina/status/2108717629229891884) | **Published:** Oct 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2516,6 +2521,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-19T04:21:29.502Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-19T15:45:19.683Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3142** |
+| 📝 プロンプト総数 | **3148** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-10-19** |
 
@@ -189,6 +189,85 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 天使の翼による光の拡大
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 天使が翼を広げて光を放ち、第三の天へ飛翔する様子を詳細に描写したビジュアルプロンプト。
+
+#### 📝 プロンプト
+
+```
+天使が翼で自身を覆い、その光が翼を通じて広がり全身を貫く瞬間を描く。彼女は第三の天へと飛翔していく。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112002366715187200/img/CuVKtDon9KGFWG1V.jpg" width="600" alt="天使の翼による光の拡大">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12744)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **公開日:** Oct 19, 2026
+
+---
+### Elon Musk が NYC で Tesla を運転する動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、Elon Musk がニューヨークの街を Tesla で運転する面白い動画を生成するためのシンプルなプロンプト。
+
+#### 📝 プロンプト
+
+```
+面白い動画です。Elon Musk と私が New York の街を Tesla で運転しています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111927231232524288/img/ACatCxO4jnjOwOtt.jpg" width="600" alt="Elon Musk が NYC で Tesla を運転する動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12743)**
+
+**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **ソース:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **公開日:** Oct 18, 2026
+
+---
+### Claudia アニメ風 Tesla Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、実在の人物を Tesla Roadster のシーン内でアニメ風に生成する動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+CLAUDIA × SI — WHITE TESLA ROADSTER 🤍🚀
+Real → anime in one take @imagine 
+
+@anabology Claudia を @bot でアニメ風にアレンジしてみました
+```
+
+<img src="https://pbs.twimg.com/media/HU6OwhcWoAAHtHn.jpg" width="600" alt="Claudia アニメ風 Tesla Roadster">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12746)**
+
+**作者:** [Dima Nurm](https://x.com/NURM_Dima) | **ソース:** [Link](https://x.com/NURM_Dima/status/2111782488544539049) | **公開日:** Oct 18, 2026
+
+---
+### Knightsquirrel vs Robots Mech
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bass Mech でロボットと戦う Knightsquirrel の物語を続ける動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+Knightsquirrel が Bass Mech を駆って Treble のロボットたちとの戦闘を続行する
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111702540928577536/img/vx0G6jhxWBnxh2nZ.jpg" width="600" alt="Knightsquirrel vs Robots Mech">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12747)**
+
+**作者:** [Michael Erikson](https://x.com/erikson_michael) | **ソース:** [Link](https://x.com/erikson_michael/status/2111702741881921889) | **公開日:** Oct 18, 2026
+
+---
 ### 鷲の漁 POV ビデオシーケンス
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +287,32 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **作者:** [Louie Dog](https://x.com/sumwearoutthere) | **ソース:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **公開日:** Oct 18, 2026
 
 ---
+### VHS レイクモンスター発見映像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1990年代のビデオカメラで撮影された、湖の怪物が家族を襲う様子をシミュレートした詳細なマルチショット動画プロンプト。VHS特有のアーティファクトや具体的なカメラワークを含みます。
+
+#### 📝 プロンプト
+
+```
+1990年代のビデオカメラによる発見映像、VHSテープのアーティファクト、トラッキングライン、色収差、オートフォーカスの迷い、ハイライトの過露光、揺れる素人のハンドヘルドカメラ、隅に焼き付けられた日付タイムスタンプ。カラーグレーディング：褪せたグレーグリーン、色あせた肌色、白飛びした淡い空。
+背中に隆起があり長い首を持つ巨大な暗い湖の生物。霧越しに主にシルエットとして見える。北部の湖にある木製の桟橋とカヌーの上の家族。
+SHOT 1 (0〜3秒): 参照画像に合わせた広いハンドヘルドショット。カメラは不器用にズームインし、生物の背中が遠くの湖面から現れ、水が一斉に流れ落ちる。
+SHOT 2 (3〜6秒): ハンドヘルドの中景ショット。カメラは桟橋にいる家族へ急激に向きを変える。子供が指差し、父親がカヌーを水中から引き上げようとする中、映像はトラッキングラインでグリッチ化する。
+SHOT 3 (6〜9秒): ワイドショット。オートフォーカスが迷いながら、長い首が霧の中から立ち上がり、信じられないほど高く、波が桟橋へと押し寄せる。
+SHOT 4 (9〜12秒): 走るハンドヘルドショット。オペレーターが木製の階段を駆け上がるにつれてカメラが跳ね、背後には時々湖が見え、波が桟橋に激突する。
+SHOT 5 (12〜15秒): スティッシュショット。カメラは芝生の上に落とされ横倒しになっている。生物のシルエットはゆっくりと霧の中に沈み、その後テープはブルー画面にグリッチする。
+アビの鳴き声、テープヒスノイズ、マイクへの風音、湖からの深い霧笛のような叫び声、子供の叫び声、パニック状態の呼吸、木材が割れる音、最後に静寂へと消えるVHSのトラッキングスクリーチ。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111585229756391424/img/1K0p3KhB2LfWMhMl.jpg" width="600" alt="VHS レイクモンスター発見映像">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12748)**
+
+**作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **ソース:** [Link](https://x.com/AllaAisling/status/2111621281754005784) | **公開日:** Oct 18, 2026
+
+---
 ### カップル写真入りTシャツのモックアップ動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +330,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12706)**
 
 **作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **公開日:** Oct 17, 2026
+
+---
+### 水中ロードスター テキストシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 黒い画面にテキストが表示され、海底に沈んだ黒い船体と低い唸り音が響く水中シーンへと移行するシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+黒い画面。テキスト：「Elon の Roadster は飛ぶ。Our のは聞かない。」水中 — 海底に沈む黒い船体。低い唸り音....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111593551935225856/img/CbwZYpH9Pyj368Sw.jpg" width="600" alt="水中ロードスター テキストシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12745)**
+
+**作者:** [Puchamamax](https://x.com/aaoomaxi) | **ソース:** [Link](https://x.com/aaoomaxi/status/2111593612438126991) | **公開日:** Oct 17, 2026
 
 ---
 ### イタリアンレストランのシーンプロンプト
@@ -2354,125 +2478,6 @@ Hey grok dress me up in the traditional costume of the country I look like I’m
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **公開日:** Oct 10, 2026
 
 ---
-### クマと一緒に踊るタイの少女
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 向けのプロンプト。タイ語を話す少女がリビングでテディベアと踊る動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-彼女のセリフは、まずタイ語、次に英語です：
-「มาเต้นกับฉันสิ หมีน้อย」—「Come dance with me, little bear.」（私と一緒に踊ろうよ、小さなクマさん）
-その後、彼女は一回転し、クマを持ち上げて言います：「เราสองคนเต้นด้วยกัน」—「The two of us dance together.」（私たち二人で一緒に踊るの）
-硬質フローリング、きれいなカーペット、そしてリビングルーム — ここは彼女の家です。ついにクマにもパートナーができました。❤️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="クマと一緒に踊るタイの少女">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12344)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **公開日:** Oct 10, 2026
-
----
-### 「Zuck It Up」映画予告編プレビュー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> マーク・ザッカーバーグをロックスターとして描いた映画予告編のプロンプト。
-
-#### 📝 プロンプト
-
-```
-別世界でマーク・ザッカーバーグがハーバード大学を中退し、Facebook を売却して、クールなサングラスを着用したロックスターのように暮らすという設定の映画『Zuck It Up』の予告編を作成してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="「Zuck It Up」映画予告編プレビュー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12343)**
-
-**作者:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **ソース:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **公開日:** Oct 10, 2026
-
----
-### AIディメンションズ：アーキテクトとの決戦
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine向けのナラティブビデオプロンプト。ジャック・ハリス、ナイア・ヴォス、エイプリル・ヴァンス、ダーレン・コーが「アーキテクト」と呼ばれる敵と対峙します。
-
-#### 📝 プロンプト
-
-```
-**アーキテクトを正面から捉え、射撃する**キャラクターたちが描かれた更新版ビデオはこちらです。
-
-AIディメンションズの世界で、ジャック・ハリス、ナイア・ヴォス、エイプリル・ヴァンス、そしてダーレン・コーは、その野心が人類を超えて次元そのものにまで及ぶ敵「アーキテクト」に立ち向かいます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="AIディメンションズ：アーキテクトとの決戦">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12348)**
-
-**作者:** [Myron Smith](https://x.com/MyronSmithm1) | **ソース:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **公開日:** Oct 10, 2026
-
----
-### Grok Imagine レインボー・バタフライ・フィールド
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine を使用して、カラフルな花畑に虹と蝶が登場する動画を作成するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-花畑の中の虹と蝶 💐 ピンクと紫と黄色....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108811178915012608/img/U5rhLYpmlum9UUPH.jpg" width="600" alt="Grok Imagine レインボー・バタフライ・フィールド">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12276)**
-
-**作者:** [Scarlett Coggan](https://x.com/ScarlettEbonyCo) | **ソース:** [Link](https://x.com/ScarlettEbonyCo/status/2108811213681635831) | **公開日:** Oct 10, 2026
-
----
-### シュールな複数参照ブレンド
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 4 つの参照画像を融合させ、光のエフェクトを施したシュールな瞑想中の女性のシーンを描く複雑なプロンプト。
-
-#### 📝 プロンプト
-
-```
-すべての 4 つの参照を一つの壮大なシーンに融合させた劇的なシュールなミックス: 最初の画像から、蓮の姿勢で瞑想している短いカールの髪の穏やかな女性。彼女の胸からは星明かりが噴き出し、頭頂部から光のビームが発せられ、今は着...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108732462193078273/img/h1u7-12JVTW9E0Cr.jpg" width="600" alt="シュールな複数参照ブレンド">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12279)**
-
-**作者:** [Cyperpienso](https://x.com/cyperpienso) | **ソース:** [Link](https://x.com/cyperpienso/status/2108732499677622751) | **公開日:** Oct 10, 2026
-
----
-### Grok Imagine ラクーンとリスのダンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 晴れた日の草原でラクーンとリスが踊る動画を生成するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-森の中の草原で、明るい日差しの下、リスと一緒に踊るラクーン
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108717600096333824/img/q4ydydu2zvP30CQD.jpg" width="600" alt="Grok Imagine ラクーンとリスのダンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12273)**
-
-**作者:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **ソース:** [Link](https://x.com/b_irmina/status/2108717629229891884) | **公開日:** Oct 10, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2534,6 +2539,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-19T04:21:25.135Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-19T15:45:14.897Z</sub>
 
 </div>

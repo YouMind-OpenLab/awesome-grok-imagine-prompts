@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3142** |
+| 📝 총 프롬프트 수 | **3148** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-10-19** |
 
@@ -189,6 +189,85 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 천사 날개의 빛 확장
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 천사가 날개를 통해 빛을 확장하며 제3천국으로 날아가는 모습을 묘사한 상세한 시각 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+천사가 날개로 자신을 감싸다가 빛이 날개를 통해 퍼져나가 온몸을 관통하는 장면, 그녀는 제3천국으로 날아갑니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112002366715187200/img/CuVKtDon9KGFWG1V.jpg" width="600" alt="천사 날개의 빛 확장">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12744)**
+
+**작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **게시일:** Oct 19, 2026
+
+---
+### Elon Musk가 뉴욕 시에서 Tesla를 운전하는 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 사용하여 Elon Musk가 뉴욕 시 거리를 Tesla로 달리는 재미있는 영상을 생성하기 위한 간단한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+재미있는 영상. Elon Musk와 제가 뉴욕 시 거리에서 Tesla를 운전하고 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111927231232524288/img/ACatCxO4jnjOwOtt.jpg" width="600" alt="Elon Musk가 뉴욕 시에서 Tesla를 운전하는 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12743)**
+
+**작성자:** [Jarosław Justka](https://x.com/jaras70berlin) | **출처:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **게시일:** Oct 18, 2026
+
+---
+### Claudia 애니메이션 스타일 Tesla Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 사용하여 실제 인물을 Tesla Roadster 장면에서 애니메이션 스타일로 변환하는 영상 생성 프롬프트.
+
+#### 📝 프롬프트
+
+```
+CLAUDIA × SI — WHITE TESLA ROADSTER 🤍🚀
+실사 → 원테이크 애니메이션화 @imagine 
+
+@anabology Claudia를 @bot으로 애니메이션 스타일에 적용해 봤습니다
+```
+
+<img src="https://pbs.twimg.com/media/HU6OwhcWoAAHtHn.jpg" width="600" alt="Claudia 애니메이션 스타일 Tesla Roadster">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12746)**
+
+**작성자:** [Dima Nurm](https://x.com/NURM_Dima) | **출처:** [Link](https://x.com/NURM_Dima/status/2111782488544539049) | **게시일:** Oct 18, 2026
+
+---
+### 나이트스쿼럴 vs 로봇 메크
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bass Mech로 로봇과 싸우는 Knightsquirrel 스토리를 이어가는 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+Knightsquirrel이 Bass Mech를 사용하여 Treble의 로봇들과 계속 싸우는 내용을 확장합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111702540928577536/img/vx0G6jhxWBnxh2nZ.jpg" width="600" alt="나이트스쿼럴 vs 로봇 메크">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12747)**
+
+**작성자:** [Michael Erikson](https://x.com/erikson_michael) | **출처:** [Link](https://x.com/erikson_michael/status/2111702741881921889) | **게시일:** Oct 18, 2026
+
+---
 ### 독수리 낚시 POV 영상 시퀀스
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +287,32 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **작성자:** [Louie Dog](https://x.com/sumwearoutthere) | **출처:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **게시일:** Oct 18, 2026
 
 ---
+### VHS 호수 괴물 파운드 푸티지
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1990년대 캠코더로 촬영된 호수 괴물이 가족을 습격하는 장면을 묘사한 상세한 멀티샷 비디오 프롬프트. VHS 아티팩트와 구체적인 카메라 움직임이 포함되었습니다.
+
+#### 📝 프롬프트
+
+```
+1990년대 캠코더 파운드 푸티지, VHS 테이프 아티팩트, 트래킹 라인, 색수차, 자동 초점 탐색, 과노출된 하이라이트, 흔들리는 아마추어 핸드헬드 카메라, 모서리에 새겨진 날짜 타임스탬프. 컬러 그레이딩: 퇴색된 회색-녹색, 바랜 피부 톤, 날아간 창백한 하늘.
+안개를 통해 실루엣으로 주로 보이는, 등뼈가 돌출되고 목이 긴 거대한 어두운 호수 생물. 북부 호수의 나무 부두에 카누를 두고 있는 가족.
+SHOT 1 (0~3초): 참고 이미지와 일치하는 와이드 핸드헬드 샷. 카메라가 서투르게 줌 인하며 호수 저 멀리서 생물의 등이 수면을 깨고 물이 시트처럼 흘러내림.
+SHOT 2 (3~6초): 핸드헬드 미디엄 샷. 카메라가 부두의 가족 쪽으로 급히 이동함. 아이가 손가락으로 가리키고, 아버지가 카누를 물에서 끌어올리며, 이미지가 트래킹 라인으로 글리치 발생.
+SHOT 3 (6~9초): 와이드 샷. 자동 초점이 계속 탐색함. 안개 속에서 긴 목이 불가능할 정도로 높게 솟아오르고, 부두 쪽으로 파도가 밀려옴.
+SHOT 4 (9~12초): 러닝 핸드헬드 샷. 촬영자가 나무 계단을 따라 도망치며 카메라가 심하게 흔들림. 뒤에서 번쩍이는 호수가 보이며, 파도가 부두를 강타함.
+SHOT 5 (12~15초): 스태틱 샷. 카메라가 잔디 위에 떨어지고 옆으로 기울어진 상태. 생물의 실루엣이 안개 속으로 천천히 다시 잠김. 이후 테이프가 글리치되며 블루 스크린으로 전환됨.
+아비류 울음소리, 테이프 히스 노이즈, 마이크에 부는 바람 소리, 호수에서 나는 깊은 안개 경적 같은 울음소리, 아이의 비명, 당황한 숨소리, 나무 부서지는 소리, 마지막 VHS 트래킹 스크리치 소리와 함께 정적.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111585229756391424/img/1K0p3KhB2LfWMhMl.jpg" width="600" alt="VHS 호수 괴물 파운드 푸티지">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12748)**
+
+**작성자:** [Alexandra Aisling](https://x.com/AllaAisling) | **출처:** [Link](https://x.com/AllaAisling/status/2111621281754005784) | **게시일:** Oct 18, 2026
+
+---
 ### 커플 사진 티셔츠 목업 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +330,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12706)**
 
 **작성자:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **출처:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **게시일:** Oct 17, 2026
+
+---
+### 수중 로드스터 텍스트 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 블랙 화면에 텍스트가 표시된 후 해저의 검은 선체와 낮은 웅장한 소리가 들리는 수중 장면으로 전환되는 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+블랙 화면. 텍스트: “Elon의 Roadster는 날아다닌다. ours는 묻지 않는다.” 수중 — 해저의 검은 선체. 낮은 웅장한 소리....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111593551935225856/img/CbwZYpH9Pyj368Sw.jpg" width="600" alt="수중 로드스터 텍스트 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12745)**
+
+**작성자:** [Puchamamax](https://x.com/aaoomaxi) | **출처:** [Link](https://x.com/aaoomaxi/status/2111593612438126991) | **게시일:** Oct 17, 2026
 
 ---
 ### 이탈리아 레스토랑 장면 프롬프트
@@ -2363,125 +2487,6 @@ Hey grok, 내가 어디서 왔을 것 같은지 보고 그 나라의 전통 의�
 **작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **게시일:** Oct 10, 2026
 
 ---
-### 곰과 춤추는 태국 소녀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 거실 환경에서 태국어로 대사를 말하며 테디 베어와 춤추는 소녀를 묘사하는 Grok Imagine용 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-태국어 원문과 영어 번역을 함께 제공합니다:
-“มาเต้นกับฉันสิ หมีน้อย” — “작은 곰아, 나랑 같이 춤춰.”
-그녀가 한 바퀴 돌고 곰 인형을 들어 올리며 말합니다: “เราสองคนเต้นด้วยกัน” — “우리 둘이서 함께 춤을 추자.”
-원목 바닥, 깨끗한 카펫, 거실 — 그녀는 집에 있습니다. 마침내 곰 인형도 파트너를 찾았네요. ❤️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="곰과 춤추는 태국 소녀">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12344)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **게시일:** Oct 10, 2026
-
----
-### Zuck It Up 영화 예고편
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 마크 저커버그를 로큰롤 스타로 묘사하는 영화 예고편 생성 프롬프트.
-
-#### 📝 프롬프트
-
-```
-대체 우주에서 마크 저커버그가 하버드를 중퇴하고 Facebook을 매각한 뒤, 초쿨한 선글라스를 쓰고 로큰롤 스타처럼 살아가는 내용을 담은 “Zuck It Up”의 영화 예고편을 만들어 주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="Zuck It Up 영화 예고편">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12343)**
-
-**작성자:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **출처:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **게시일:** Oct 10, 2026
-
----
-### AI Dimensions Architect Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt for Grok Imagine featuring characters Jack Harris, Naia Voss, April Vance, and Daren Korr facing an enemy called the Architect.
-
-#### 📝 프롬프트
-
-```
-Here’s the updated video with the characters clearly **facing the Architect and shooting him**:
-
-In AI Dimensions, Jack Harris, Naia Voss, April Vance, and Daren Korr face an enemy whose ambition reaches beyond humanity into the dimensions themselves.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="AI Dimensions Architect Battle">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12348)**
-
-**작성자:** [Myron Smith](https://x.com/MyronSmithm1) | **출처:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **게시일:** Oct 10, 2026
-
----
-### Grok Imagine 무지개 나비 꽃밭
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine를 사용하여 무지개와 나비가 있는 다채로운 꽃밭 영상을 제작하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-꽃밭 속의 무지개와 나비 💐 분홍색, 보라색, 노란색....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108811178915012608/img/U5rhLYpmlum9UUPH.jpg" width="600" alt="Grok Imagine 무지개 나비 꽃밭">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12276)**
-
-**작성자:** [Scarlett Coggan](https://x.com/ScarlettEbonyCo) | **출처:** [Link](https://x.com/ScarlettEbonyCo/status/2108811213681635831) | **게시일:** Oct 10, 2026
-
----
-### 초현실적 멀티 레퍼런스 블렌드
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 네 장의 참조 이미지를 초현실적인 명상하는 여성 장면과 빛 효과로 결합한 복잡한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-네 장의 모든 참조를 하나의 웅장한 장면으로 결합한 극적이고 초현실적인 혼합물: 첫 번째 이미지의 차분한 짧은 곱슬머리 여성이 연꽃 자세로 명상하며, 가슴에서 별빛이 폭발하고 정수리에서 빛줄기가 뻗어나오는 모습, 이제 착용한...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108732462193078273/img/h1u7-12JVTW9E0Cr.jpg" width="600" alt="초현실적 멀티 레퍼런스 블렌드">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12279)**
-
-**작성자:** [Cyperpienso](https://x.com/cyperpienso) | **출처:** [Link](https://x.com/cyperpienso/status/2108732499677622751) | **게시일:** Oct 10, 2026
-
----
-### Grok Imagine 너구리 다람쥐 댄스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine를 사용하여 맑은 날 초원에서 너구리와 다람쥐가 춤추는 영상을 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-맑고 화창한 날, 숲 옆 초원에서 너구리가 다람쥐와 함께 춤을 추고 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108717600096333824/img/q4ydydu2zvP30CQD.jpg" width="600" alt="Grok Imagine 너구리 다람쥐 댄스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12273)**
-
-**작성자:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **출처:** [Link](https://x.com/b_irmina/status/2108717629229891884) | **게시일:** Oct 10, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2543,6 +2548,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-19T04:21:26.220Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-19T15:45:15.891Z</sub>
 
 </div>

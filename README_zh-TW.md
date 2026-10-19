@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3142** |
+| 📝 提示詞總數 | **3148** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-10-19** |
 
@@ -189,6 +189,85 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 天使之翼光擴散
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段詳細的視覺提示，描述天使透過翅膀擴展光芒並飛升至第三層天堂的景象。
+
+#### 📝 提示詞
+
+```
+一位天使展開雙翼覆蓋自身，直至光芒透過翅膀擴散並貫穿全身，隨後她飛升至第三層天堂
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112002366715187200/img/CuVKtDon9KGFWG1V.jpg" width="600" alt="天使之翼光擴散">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12744)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **來源:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **發布時間:** Oct 19, 2026
+
+---
+### Elon Musk 駕駛 Tesla 紐約市影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 生成一段 Elon Musk 駕駛 Tesla 穿行於紐約市街道的搞笑影片的簡單提示詞。
+
+#### 📝 提示詞
+
+```
+搞笑影片。我和 Elon Musk 正駕駛著 Tesla 穿行在紐約市的街道上。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111927231232524288/img/ACatCxO4jnjOwOtt.jpg" width="600" alt="Elon Musk 駕駛 Tesla 紐約市影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12743)**
+
+**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **來源:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **發布時間:** Oct 18, 2026
+
+---
+### Claudia 動漫風格 Tesla Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 將真人轉換為動漫風格的 Tesla Roadster 場景影片生成提示詞。
+
+#### 📝 提示詞
+
+```
+CLAUDIA × SI — 白色 TESLA ROADSTER 🤍🚀
+一鏡到底：真人轉動漫 @imagine 
+
+@anabology 我嘗試用 @bot 將 Claudia 轉換成動漫風格
+```
+
+<img src="https://pbs.twimg.com/media/HU6OwhcWoAAHtHn.jpg" width="600" alt="Claudia 動漫風格 Tesla Roadster">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12746)**
+
+**作者:** [Dima Nurm](https://x.com/NURM_Dima) | **來源:** [Link](https://x.com/NURM_Dima/status/2111782488544539049) | **發布時間:** Oct 18, 2026
+
+---
+### Knightsquirrel vs Robots Mech
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 影片提示：延續 Knightsquirrel 的故事，描繪其駕駛 Bass Mech 與機器人戰鬥的場景。
+
+#### 📝 提示詞
+
+```
+延續 Knightsquirrel 的故事，讓他駕駛 Bass Mech 繼續對抗 Treble 的機器人
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111702540928577536/img/vx0G6jhxWBnxh2nZ.jpg" width="600" alt="Knightsquirrel vs Robots Mech">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12747)**
+
+**作者:** [Michael Erikson](https://x.com/erikson_michael) | **來源:** [Link](https://x.com/erikson_michael/status/2111702741881921889) | **發布時間:** Oct 18, 2026
+
+---
 ### 老鷹捕魚 POV 影片序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +287,32 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **作者:** [Louie Dog](https://x.com/sumwearoutthere) | **來源:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **發布時間:** Oct 18, 2026
 
 ---
+### VHS 湖怪尋獲影像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段模擬 1990 年代攝影機拍攝的湖怪攻擊家庭的多鏡頭影片提示，包含 VHS 瑕疵與特定鏡頭運動。
+
+#### 📝 提示詞
+
+```
+1990 年代攝影機尋獲影像，VHS 磁帶瑕疵，追蹤線，色差，自動對焦搜尋，高光過曝，搖晃的業餘手持攝影機，角落燒錄的日期時間戳記。色彩調校：褪色的灰綠色，暗淡的膚色，過曝的蒼白天空。
+一隻巨大的深色湖中生物，背部有脊狀突起，頸部細長，大部分透過迷霧以輪廓呈現。一個家庭在北方湖泊的木製碼頭上，旁邊有一艘獨木舟。
+SHOT 1 (0 至 3 秒)：廣角手持鏡頭，對應參考圖像，攝影機笨拙地變焦，當生物的背部在遠處湖面破水而出時，水流如簾般滑落。
+SHOT 2 (3 至 6 秒)：手持中景鏡頭，攝影機快速轉向碼頭上的家庭，一個孩子指著前方，父親將獨木舟從水中拉出，畫面因追蹤線而產生故障。
+SHOT 3 (6 至 9 秒)：廣角鏡頭，自動對焦搜尋，細長的頸部從迷霧中升起，高得不可思議，一波巨浪朝碼頭滾來。
+SHOT 4 (9 至 12 秒)：奔跑的手持鏡頭，攝影機隨著操作者逃離木製階梯而劇烈震動，背後閃現湖面，巨浪撞擊碼頭。
+SHOT 5 (12 至 15 秒)：靜態鏡頭，攝影機掉落在草地上並側傾，生物的輪廓緩慢沉回迷霧中，隨後磁帶故障轉為藍屏。
+潛鳥的叫聲，磁帶嘶嘶聲，風吹過麥克風的聲音，來自湖面的深沉霧號般的叫聲，孩子的喊叫聲，恐慌的呼吸聲，木材碎裂聲，最後是 VHS 追蹤線的尖嘯聲歸於寂靜。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111585229756391424/img/1K0p3KhB2LfWMhMl.jpg" width="600" alt="VHS 湖怪尋獲影像">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12748)**
+
+**作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **來源:** [Link](https://x.com/AllaAisling/status/2111621281754005784) | **發布時間:** Oct 18, 2026
+
+---
 ### 情侶照片 T 恤模擬圖影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +330,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12706)**
 
 **作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **來源:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **發布時間:** Oct 17, 2026
+
+---
+### 水下 Roadster 文字場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影感的影片提示詞，從帶有文字的黑色螢幕過渡到海底的黑色船體場景，並伴隨低沉的嗡嗡聲。
+
+#### 📝 提示詞
+
+```
+黑色螢幕。文字：「Elon 的 Roadster 飛天。我們的不需要問。」水下 — 海底的黑色船體。低沉的嗡嗡聲....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111593551935225856/img/CbwZYpH9Pyj368Sw.jpg" width="600" alt="水下 Roadster 文字場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12745)**
+
+**作者:** [Puchamamax](https://x.com/aaoomaxi) | **來源:** [Link](https://x.com/aaoomaxi/status/2111593612438126991) | **發布時間:** Oct 17, 2026
 
 ---
 ### 義式餐廳場景提示詞
@@ -2372,125 +2496,6 @@ Hey grok,請幫我換上我看起來像是來自哪個國家的傳統服飾：
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **發布時間:** Oct 10, 2026
 
 ---
-### 泰國女孩與小熊共舞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 影片生成提示詞，內容為一名泰國女孩在客廳場景中說出台詞並與泰迪熊共舞。
-
-#### 📝 提示詞
-
-```
-以下是她的台詞，先泰文後英文：
-“มาเต้นกับฉันสิ หมีน้อย” — “來跟我跳舞吧，小熊。”
-接著她旋轉一圈，舉起小熊說道：“เราสองคนเต้นด้วยกัน” — “我們兩個一起跳舞。”
-硬木地板、乾淨的地毯、客廳——這是她的家。小熊終於有了舞伴。❤️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="泰國女孩與小熊共舞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12344)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **發布時間:** Oct 10, 2026
-
----
-### Zuck It Up 電影預告片預覽
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於製作以 Mark Zuckerberg 為搖滾明星主角的電影預告片提示詞。
-
-#### 📝 提示詞
-
-```
-為「Zuck It Up」製作一部電影預告片，劇情設定在一個平行宇宙中，Mark Zuckerberg 從 Harvard 輟學，賣掉 Facebook，並像搖滾明星一樣生活，佩戴著超酷的太陽眼鏡。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="Zuck It Up 電影預告片預覽">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12343)**
-
-**作者:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **來源:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **發布時間:** Oct 10, 2026
-
----
-### AI Dimensions 架構師之戰
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 Grok Imagine 設計的敘事影片提示，內容包含角色 Jack Harris、Naia Voss、April Vance 與 Daren Korr 對抗名為「架構師」的敵人。
-
-#### 📝 提示詞
-
-```
-以下是更新後的影片，角色們正**面對架構師並向他射擊**：
-
-在 AI Dimensions 中，Jack Harris、Naia Voss、April Vance 和 Daren Korr 必須面對一個野心超越人類、甚至延伸至維度本身的敵人。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="AI Dimensions 架構師之戰">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12348)**
-
-**作者:** [Myron Smith](https://x.com/MyronSmithm1) | **來源:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **發布時間:** Oct 10, 2026
-
----
-### Grok Imagine 彩虹蝴蝶花田
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用 Grok Imagine 生成包含彩虹、蝴蝶和多彩花田的影片提示詞。
-
-#### 📝 提示詞
-
-```
-花田中的彩虹與蝴蝶 💐 粉色、紫色與黃色....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108811178915012608/img/U5rhLYpmlum9UUPH.jpg" width="600" alt="Grok Imagine 彩虹蝴蝶花田">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12276)**
-
-**作者:** [Scarlett Coggan](https://x.com/ScarlettEbonyCo) | **來源:** [Link](https://x.com/ScarlettEbonyCo/status/2108811213681635831) | **發布時間:** Oct 10, 2026
-
----
-### 超現實多參考圖混合
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 將四張參考圖融合為超現實冥想女性場景的複雜提示詞，並包含光影特效。
-
-#### 📝 提示詞
-
-```
-一個戲劇性的超現實混搭作品，將所有四個參考元素融合成一個史詩般的場景：第一張圖中那位留著短捲髮、神情寧靜的女性正以蓮花坐姿冥想，胸口迸發出閃耀的星光，頭頂則有一束光芒射出，現在穿戴...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108732462193078273/img/h1u7-12JVTW9E0Cr.jpg" width="600" alt="超現實多參考圖混合">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12279)**
-
-**作者:** [Cyperpienso](https://x.com/cyperpienso) | **來源:** [Link](https://x.com/cyperpienso/status/2108732499677622751) | **發布時間:** Oct 10, 2026
-
----
-### Grok Imagine 浣熊松鼠跳舞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用 Grok Imagine 生成一段浣熊和松鼠在陽光明媚的草地上跳舞影片的提示詞。
-
-#### 📝 提示詞
-
-```
-一隻浣熊與松鼠在森林旁的草地上跳舞，陽光明媚的一天
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108717600096333824/img/q4ydydu2zvP30CQD.jpg" width="600" alt="Grok Imagine 浣熊松鼠跳舞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12273)**
-
-**作者:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **來源:** [Link](https://x.com/b_irmina/status/2108717629229891884) | **發布時間:** Oct 10, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2552,6 +2557,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-19T04:21:24.087Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-19T15:45:13.480Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3142** |
+| 📝 Total Prompts | **3148** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-19** |
 
@@ -189,11 +189,90 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Eagle Fishing POV Video Sequence
+### Angel Wings Light Expansion
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt describing an eagle swooping down to grab a fish from crystal clear water, transitioning from POV to overhead pull-away shots.
+> A detailed visual prompt describing an angel expanding light through her wings and flying to the third heaven.
+
+#### 📝 Prompt
+
+```
+A angel taking her wings covering herself until her light expands through the wings and penetrates her whole body , she flies into the third heaven
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112002366715187200/img/CuVKtDon9KGFWG1V.jpg" width="600" alt="Angel Wings Light Expansion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12744)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **Published:** Oct 19, 2026
+
+---
+### Elon Musk Driving Tesla NYC Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A simple prompt for generating a funny video featuring Elon Musk driving Teslas through New York City streets using Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Funny video. Elon Musk and I are driving Teslas through the streets of New York.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111927231232524288/img/ACatCxO4jnjOwOtt.jpg" width="600" alt="Elon Musk Driving Tesla NYC Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12743)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **Published:** Oct 18, 2026
+
+---
+### Claudia Anime Style Tesla Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt transforming a real person into anime style within a Tesla Roadster scene using Grok Imagine.
+
+#### 📝 Prompt
+
+```
+CLAUDIA × SI — WHITE TESLA ROADSTER 🤍🚀
+Real → anime in one take @imagine 
+
+@anabology I tried to adapt Claudia into an anime style with @bot
+```
+
+<img src="https://pbs.twimg.com/media/HU6OwhcWoAAHtHn.jpg" width="600" alt="Claudia Anime Style Tesla Roadster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12746)**
+
+**Author:** [Dima Nurm](https://x.com/NURM_Dima) | **Source:** [Link](https://x.com/NURM_Dima/status/2111782488544539049) | **Published:** Oct 18, 2026
+
+---
+### Knightsquirrel vs Robots Mech
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video prompt continuing the Knightsquirrel story fighting robots with a Bass Mech.
+
+#### 📝 Prompt
+
+```
+Extend Knightsquirrel continued to fight the robots of Treble with his Bass Mech
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111702540928577536/img/vx0G6jhxWBnxh2nZ.jpg" width="600" alt="Knightsquirrel vs Robots Mech">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12747)**
+
+**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2111702741881921889) | **Published:** Oct 18, 2026
+
+---
+### Eagle Fishing Cinematic Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt describing an eagle swooping down to grab a fish from clear water, transitioning from POV to overhead shot.
 
 #### 📝 Prompt
 
@@ -201,11 +280,37 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 Eagle swoops down into crystal clear water grabbing a fish keeping the pov then going to an over head pull away shot fading into the clouds
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111635732368355328/img/3sQclpWkqyUIYhBC.jpg" width="600" alt="Eagle Fishing POV Video Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111635732368355328/img/3sQclpWkqyUIYhBC.jpg" width="600" alt="Eagle Fishing Cinematic Shot">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12699)**
 
 **Author:** [Louie Dog](https://x.com/sumwearoutthere) | **Source:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **Published:** Oct 18, 2026
+
+---
+### VHS Lake Monster Found Footage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed multi-shot video prompt simulating 1990s camcorder footage of a lake monster attacking a family, complete with VHS artifacts and specific camera movements.
+
+#### 📝 Prompt
+
+```
+1990s camcorder found footage, VHS tape artifacts, tracking lines, chromatic aberration, auto-focus hunting, overexposed highlights, shaky amateur handheld camera, a date timestamp burned into the corner. Color grade: washed out gray-green, faded skin tones, blown out pale sky.
+A colossal dark lake creature with a ridged back and a long neck, mostly seen in silhouette through fog. A family on a wooden dock with a canoe at a northern lake.
+SHOT 1 (0 to 3s): Wide handheld shot matching the reference image, the camera zooms in clumsily as the creature's back breaks the surface far out on the lake, water rolling off in sheets.
+SHOT 2 (3 to 6s): Handheld medium shot, the camera whips toward the family on the dock, a child pointing, a father pulling the canoe out of the water, the image glitching with tracking lines.
+SHOT 3 (6 to 9s): Wide shot, auto-focus hunting, the long neck rises out of the fog, impossibly tall, a wave rolling toward the dock.
+SHOT 4 (9 to 12s): Running handheld shot, the camera bouncing as the operator flees up the wooden stairs, the lake visible in flashes behind, the wave slamming into the dock.
+SHOT 5 (12 to 15s): Static shot, the camera dropped on the grass and tilted sideways, the creature's silhouette slowly sinking back into the fog, then the tape glitches to blue screen.
+Loons calling, tape hiss, wind on the microphone, a deep foghorn-like call from the lake, a child shouting, panicked breathing, wood cracking, a final VHS tracking screech into silence.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111585229756391424/img/1K0p3KhB2LfWMhMl.jpg" width="600" alt="VHS Lake Monster Found Footage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12748)**
+
+**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2111621281754005784) | **Published:** Oct 18, 2026
 
 ---
 ### Couple photo t-shirt mockup video
@@ -225,6 +330,25 @@ Transform this into a high-quality realistic product mockup of a stylish black c
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12706)**
 
 **Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **Published:** Oct 17, 2026
+
+---
+### Underwater Roadster Text Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring a black screen with text, transitioning to an underwater scene of a black hull on the seabed with a low hum.
+
+#### 📝 Prompt
+
+```
+Black screen. Text: “Elon’s Roadster flies. Ours doesn’t ask.” Underwater — black hull on the seabed. Low hum....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111593551935225856/img/CbwZYpH9Pyj368Sw.jpg" width="600" alt="Underwater Roadster Text Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12745)**
+
+**Author:** [Puchamamax](https://x.com/aaoomaxi) | **Source:** [Link](https://x.com/aaoomaxi/status/2111593612438126991) | **Published:** Oct 17, 2026
 
 ---
 ### Italian Restaurant Scene Prompt
@@ -2411,125 +2535,6 @@ eat your white chocolate, lovely, savor the bite once the white chocolate touche
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **Published:** Oct 10, 2026
 
 ---
-### Thai Girl Dancing with Bear
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine featuring a girl in Thai speaking lines and dancing with a teddy bear in a living room setting.
-
-#### 📝 Prompt
-
-```
-Here’s her line, Thai first, then English:
-“มาเต้นกับฉันสิ หมีน้อย” — “Come dance with me, little bear.”
-Then she spins once, holds the bear up, and says: “เราสองคนเต้นด้วยกัน” — “The two of us dance together.”
-The hardwood floor, the clean carpet, the living room — she’s home. The bear finally has a partner. ❤️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="Thai Girl Dancing with Bear">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12344)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **Published:** Oct 10, 2026
-
----
-### Zuck It Up Movie Preview
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt for creating a movie preview featuring Mark Zuckerberg as a rockstar.
-
-#### 📝 Prompt
-
-```
-Create a preview for “Zuck It Up” for a movie about an alternative universe where Mark Zuckerberg dropped out of Harvard to sell Facebook and live like a rockstar sporting super cool sunglasses
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="Zuck It Up Movie Preview">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12343)**
-
-**Author:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **Source:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **Published:** Oct 10, 2026
-
----
-### AI Dimensions Architect Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt for Grok Imagine featuring characters Jack Harris, Naia Voss, April Vance, and Daren Korr facing an enemy called the Architect.
-
-#### 📝 Prompt
-
-```
-Here’s the updated video with the characters clearly **facing the Architect and shooting him**:
-
-In AI Dimensions, Jack Harris, Naia Voss, April Vance, and Daren Korr face an enemy whose ambition reaches beyond humanity into the dimensions themselves.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="AI Dimensions Architect Battle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12348)**
-
-**Author:** [Myron Smith](https://x.com/MyronSmithm1) | **Source:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **Published:** Oct 10, 2026
-
----
-### Grok Imagine Rainbow Butterfly Field
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for creating a video with rainbows and butterflies in a colorful flower field using Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Rainbows and butterflies in a field of flowers 💐 pink and purple and yellow....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108811178915012608/img/U5rhLYpmlum9UUPH.jpg" width="600" alt="Grok Imagine Rainbow Butterfly Field">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12276)**
-
-**Author:** [Scarlett Coggan](https://x.com/ScarlettEbonyCo) | **Source:** [Link](https://x.com/ScarlettEbonyCo/status/2108811213681635831) | **Published:** Oct 10, 2026
-
----
-### Surreal Multi-Reference Blend
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex prompt blending four reference images into a surreal meditating woman scene with light effects.
-
-#### 📝 Prompt
-
-```
-A dramatic surreal mishmash blending all four references into one epic scene: the serene short-curly-haired woman from the first image meditating in lotus pose with glowing starlight erupting from her chest and a beam of light from her crown, now wea...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108732462193078273/img/h1u7-12JVTW9E0Cr.jpg" width="600" alt="Surreal Multi-Reference Blend">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12279)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2108732499677622751) | **Published:** Oct 10, 2026
-
----
-### Racoon and Squirrel Dancing
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt for a video of a raccoon and squirrel dancing in a sunny meadow.
-
-#### 📝 Prompt
-
-```
-A racoon dancing with the squirrel in the meadow by the forest, bright sunny day
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108717600096333824/img/q4ydydu2zvP30CQD.jpg" width="600" alt="Racoon and Squirrel Dancing">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12273)**
-
-**Author:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **Source:** [Link](https://x.com/b_irmina/status/2108717629229891884) | **Published:** Oct 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2591,6 +2596,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-19T04:21:21.410Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-19T15:45:11.344Z</sub>
 
 </div>

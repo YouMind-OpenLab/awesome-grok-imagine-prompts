@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3142** |
+| 📝 Total Prompts | **3148** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-19** |
 
@@ -189,6 +189,85 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Sự lan tỏa ánh sáng từ đôi cánh thiên thần
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết về hình ảnh một thiên thần đang lan tỏa ánh sáng qua đôi cánh và bay lên tầng trời thứ ba.
+
+#### 📝 Prompt
+
+```
+Một thiên thần dùng đôi cánh che phủ cơ thể cho đến khi ánh sáng lan tỏa xuyên qua đôi cánh và thẩm thấu vào toàn bộ cơ thể, sau đó nàng bay lên tầng trời thứ ba.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112002366715187200/img/CuVKtDon9KGFWG1V.jpg" width="600" alt="Sự lan tỏa ánh sáng từ đôi cánh thiên thần">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12744)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **Published:** Oct 19, 2026
+
+---
+### Video Elon Musk Lái Tesla Tại NYC
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh đơn giản để tạo ra video hài hước về cảnh Elon Musk lái xe Tesla qua các con phố ở New York City bằng Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Video hài hước. Tôi và Elon Musk đang lái xe Tesla qua các con phố của New York.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111927231232524288/img/ACatCxO4jnjOwOtt.jpg" width="600" alt="Video Elon Musk Lái Tesla Tại NYC">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12743)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **Published:** Oct 18, 2026
+
+---
+### Claudia Phong Cách Anime Trong Xe Tesla Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video biến đổi một người thật thành phong cách anime trong cảnh xe Tesla Roadster sử dụng Grok Imagine.
+
+#### 📝 Prompt
+
+```
+CLAUDIA × SI — TESLA ROADSTER MÀU TRẮNG 🤍🚀
+Từ thực tế → anime chỉ trong một lần quay @imagine 
+
+@anabology Tôi đã thử chuyển đổi Claudia sang phong cách anime với @bot
+```
+
+<img src="https://pbs.twimg.com/media/HU6OwhcWoAAHtHn.jpg" width="600" alt="Claudia Phong Cách Anime Trong Xe Tesla Roadster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12746)**
+
+**Author:** [Dima Nurm](https://x.com/NURM_Dima) | **Source:** [Link](https://x.com/NURM_Dima/status/2111782488544539049) | **Published:** Oct 18, 2026
+
+---
+### Knightsquirrel vs Mech Robot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video prompt tiếp tục câu chuyện Knightsquirrel chiến đấu với robot bằng Bass Mech.
+
+#### 📝 Prompt
+
+```
+Tiếp tục câu chuyện của Knightsquirrel khi anh ấy chiến đấu với các robot Treble bằng chiếc Bass Mech của mình
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111702540928577536/img/vx0G6jhxWBnxh2nZ.jpg" width="600" alt="Knightsquirrel vs Mech Robot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12747)**
+
+**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2111702741881921889) | **Published:** Oct 18, 2026
+
+---
 ### Chuỗi video POV câu cá bằng đại bàng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +287,39 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 **Author:** [Louie Dog](https://x.com/sumwearoutthere) | **Source:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **Published:** Oct 18, 2026
 
 ---
+### VHS Quái Vật Hồ – Cảnh Quay Thực Tế
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết cho video nhiều cảnh quay, tái hiện phong cách máy quay cầm tay thập niên 1990 với cảnh quái vật hồ tấn công một gia đình, kèm hiệu ứng nhiễu VHS và các chuyển động máy quay đặc trưng.
+
+#### 📝 Prompt
+
+```
+Hình ảnh quay bằng máy camcorder thập niên 1990, kiểu found footage, với các hiệu ứng nhiễu từ băng VHS, đường tracking, quang sai màu, hiện tượng tự động lấy nét liên tục điều chỉnh, vùng sáng bị cháy quá mức, camera cầm tay nghiệp dư rung lắc, và dòng thời gian được in trực tiếp vào góc khung hình. Bảng màu: xám xanh nhạt, tông da mờ nhạt, bầu trời trắng bệch do phơi sáng quá mức.
+
+Một sinh vật khổng lồ tối màu sống dưới hồ, có lưng gợn sóng và cổ dài, chủ yếu xuất hiện dưới dạng bóng đen xuyên qua màn sương mù. Một gia đình đứng trên bến tàu gỗ cùng một chiếc xuồng canoe tại một hồ nước ở vùng phía bắc.
+
+CẢNH 1 (0 đến 3 giây): Góc quay rộng cầm tay, khớp với hình ảnh tham chiếu, camera phóng to vụng về khi phần lưng của sinh vật nhô lên khỏi mặt nước ở xa trên hồ, nước chảy tràn xuống thành từng lớp.
+
+CẢNH 2 (3 đến 6 giây): Góc quay trung cảnh cầm tay, camera lia nhanh về phía gia đình trên bến tàu, một đứa trẻ đang chỉ tay, người cha kéo chiếc xuồng canoe ra khỏi nước, hình ảnh bị nhiễu loạn bởi các đường tracking.
+
+CẢNH 3 (6 đến 9 giây): Góc quay rộng, chế độ tự động lấy nét liên tục điều chỉnh, chiếc cổ dài vươn lên khỏi màn sương mù, cao đến mức phi thường, một con sóng cuộn trào hướng về phía bến tàu.
+
+CẢNH 4 (9 đến 12 giây): Góc quay cầm tay trong lúc chạy, camera nảy lên khi người quay phim chạy trốn lên cầu thang gỗ, hồ nước thỉnh thoảng hiện ra chớp nhoáng phía sau, con sóng đập mạnh vào bến tàu.
+
+CẢNH 5 (12 đến 15 giây): Góc quay tĩnh, camera bị rơi xuống cỏ và nghiêng sang một bên, bóng đen của sinh vật từ từ chìm lại vào màn sương mù, sau đó băng video bị lỗi chuyển sang màn hình xanh.
+
+Tiếng chim lặn kêu, tiếng rít của băng từ, tiếng gió thổi vào micro, một tiếng kêu trầm như còi báo hiệu từ hồ nước, tiếng đứa trẻ hét lên, hơi thở hoảng loạn, tiếng gỗ gãy nứt, và cuối cùng là tiếng rít nhiễu đặc trưng của VHS trước khi im lặng hoàn toàn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111585229756391424/img/1K0p3KhB2LfWMhMl.jpg" width="600" alt="VHS Quái Vật Hồ – Cảnh Quay Thực Tế">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12748)**
+
+**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2111621281754005784) | **Published:** Oct 18, 2026
+
+---
 ### Video mockup áo thun cặp đôi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +337,25 @@ Biến đổi hình ảnh này thành bản mockup sản phẩm chân thực, ch
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12706)**
 
 **Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **Published:** Oct 17, 2026
+
+---
+### Cảnh Văn Bản Xe Roadster Dưới Nước
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt video điện ảnh với màn hình đen có văn bản, chuyển cảnh sang khung cảnh dưới nước với thân xe màu đen nằm trên đáy biển cùng âm trầm thấp.
+
+#### 📝 Prompt
+
+```
+Màn hình đen. Văn bản: “Elon’s Roadster bay được. Còn của chúng tôi thì không cần hỏi.” Dưới nước — thân xe màu đen nằm trên đáy biển. Âm trầm thấp....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111593551935225856/img/CbwZYpH9Pyj368Sw.jpg" width="600" alt="Cảnh Văn Bản Xe Roadster Dưới Nước">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12745)**
+
+**Author:** [Puchamamax](https://x.com/aaoomaxi) | **Source:** [Link](https://x.com/aaoomaxi/status/2111593612438126991) | **Published:** Oct 17, 2026
 
 ---
 ### Prompt Cảnh Nhà Hàng Ý
@@ -2349,125 +2480,6 @@ Hãy thưởng thức thanh sô-cô-la trắng của bạn, thật tuyệt vời
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **Published:** Oct 10, 2026
 
 ---
-### Cô Gái Thái Nhảy Múa Cùng Gấu Bông
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video cho Grok Imagine, mô tả một cô gái nói tiếng Thái và nhảy múa cùng gấu bông trong phòng khách.
-
-#### 📝 Prompt
-
-```
-Dưới đây là lời thoại của cô ấy, bằng tiếng Thái trước, sau đó là bản dịch tiếng Anh:
-“มาเต้นกับฉันสิ หมีน้อย” — “Hãy nhảy cùng tôi nhé, chú gấu nhỏ.”
-Sau đó, cô ấy xoay một vòng, giơ cao con gấu lên và nói: “เราสองคนเต้นด้วยกัน” — “Hai chúng ta cùng nhảy nhé.”
-Sàn gỗ cứng, tấm thảm sạch sẽ, phòng khách — cô ấy đang ở nhà. Chú gấu cuối cùng cũng có bạn nhảy. ❤️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="Cô Gái Thái Nhảy Múa Cùng Gấu Bông">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12344)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **Published:** Oct 10, 2026
-
----
-### Xem trước phim "Zuck It Up"
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo đoạn giới thiệu phim với hình ảnh Mark Zuckerberg như một ngôi sao nhạc rock.
-
-#### 📝 Prompt
-
-```
-Tạo đoạn giới thiệu cho bộ phim “Zuck It Up”, kể về một vũ trụ song song nơi Mark Zuckerberg bỏ học Harvard để bán Facebook và sống cuộc đời của một ngôi sao nhạc rock với cặp kính râm cực kỳ phong cách.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="Xem trước phim "Zuck It Up"">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12343)**
-
-**Author:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **Source:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **Published:** Oct 10, 2026
-
----
-### Trận Chiến Kiến Trúc Sư AI Dimensions
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video kể chuyện cho Grok Imagine, với các nhân vật Jack Harris, Naia Voss, April Vance và Daren Korr đối đầu với kẻ thù mang tên Architect.
-
-#### 📝 Prompt
-
-```
-Dưới đây là phiên bản video cập nhật với các nhân vật rõ ràng **đối mặt với Architect và bắn hắn**:
-
-Trong AI Dimensions, Jack Harris, Naia Voss, April Vance và Daren Korr phải đối mặt với một kẻ thù có tham vọng vượt ra ngoài phạm vi của con người, vươn tới tận chính các chiều không gian.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="Trận Chiến Kiến Trúc Sư AI Dimensions">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12348)**
-
-**Author:** [Myron Smith](https://x.com/MyronSmithm1) | **Source:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **Published:** Oct 10, 2026
-
----
-### Grok Imagine Cánh Đồng Bướm Cầu Vồng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mẫu câu lệnh để tạo video với cầu vồng và bướm trong cánh đồng hoa đầy màu sắc bằng Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Cầu vồng và bướm trong cánh đồng hoa 💐 hồng, tím và vàng....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108811178915012608/img/U5rhLYpmlum9UUPH.jpg" width="600" alt="Grok Imagine Cánh Đồng Bướm Cầu Vồng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12276)**
-
-**Author:** [Scarlett Coggan](https://x.com/ScarlettEbonyCo) | **Source:** [Link](https://x.com/ScarlettEbonyCo/status/2108811213681635831) | **Published:** Oct 10, 2026
-
----
-### Hòa trộn đa tham chiếu siêu thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh phức tạp kết hợp bốn hình ảnh tham chiếu thành cảnh một người phụ nữ thiền định siêu thực với hiệu ứng ánh sáng.
-
-#### 📝 Prompt
-
-```
-Một sự pha trộn siêu thực đầy kịch tính, kết hợp cả bốn hình ảnh tham chiếu vào một cảnh tượng hoành tráng: người phụ nữ tóc xoăn ngắn thanh thản từ hình ảnh đầu tiên đang ngồi thiền trong tư thế hoa sen, với ánh sao phát sáng bùng nổ từ ngực và một tia sáng tỏa ra từ đỉnh đầu, giờ đây...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108732462193078273/img/h1u7-12JVTW9E0Cr.jpg" width="600" alt="Hòa trộn đa tham chiếu siêu thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12279)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2108732499677622751) | **Published:** Oct 10, 2026
-
----
-### Grok Imagine Raccoon Squirrel Dance
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video raccoon và squirrel nhảy múa trên đồng cỏ ngày nắng đẹp bằng Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Racoon nhảy múa cùng squirrel trên đồng cỏ bên rừng, ngày nắng rực rỡ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108717600096333824/img/q4ydydu2zvP30CQD.jpg" width="600" alt="Grok Imagine Raccoon Squirrel Dance">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12273)**
-
-**Author:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **Source:** [Link](https://x.com/b_irmina/status/2108717629229891884) | **Published:** Oct 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2529,6 +2541,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-19T04:21:28.570Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-19T15:45:17.950Z</sub>
 
 </div>

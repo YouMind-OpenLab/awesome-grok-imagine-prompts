@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3142** |
+| 📝 Total Prompts | **3148** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-19** |
 
@@ -189,6 +189,85 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Expansão de Luz das Asas de Anjo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt visual detalhado descrevendo um anjo expandindo luz através de suas asas e voando para o terceiro céu.
+
+#### 📝 Prompt
+
+```
+Um anjo cobre-se com suas asas até que sua luz se expanda através delas e penetre todo o seu corpo, então ela voa para o terceiro céu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112002366715187200/img/CuVKtDon9KGFWG1V.jpg" width="600" alt="Expansão de Luz das Asas de Anjo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12744)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **Published:** Oct 19, 2026
+
+---
+### Vídeo de Elon Musk Dirigindo Tesla em NYC
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt simples para gerar um vídeo engraçado com Elon Musk dirigindo Teslas pelas ruas de Nova York usando o Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Vídeo engraçado. Eu e o Elon Musk estamos dirigindo Teslas pelas ruas de Nova York.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111927231232524288/img/ACatCxO4jnjOwOtt.jpg" width="600" alt="Vídeo de Elon Musk Dirigindo Tesla em NYC">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12743)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **Published:** Oct 18, 2026
+
+---
+### Claudia em Estilo Anime no Tesla Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de geração de vídeo que transforma uma pessoa real em estilo anime dentro de uma cena do Tesla Roadster usando o Grok Imagine.
+
+#### 📝 Prompt
+
+```
+CLAUDIA × SI — TESLA ROADSTER BRANCO 🤍🚀
+Real → anime em uma única tomada @imagine 
+
+@anabology Tentei adaptar a Claudia para um estilo anime com @bot
+```
+
+<img src="https://pbs.twimg.com/media/HU6OwhcWoAAHtHn.jpg" width="600" alt="Claudia em Estilo Anime no Tesla Roadster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12746)**
+
+**Author:** [Dima Nurm](https://x.com/NURM_Dima) | **Source:** [Link](https://x.com/NURM_Dima/status/2111782488544539049) | **Published:** Oct 18, 2026
+
+---
+### Knightsquirrel vs Robôs Mech
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de vídeo que continua a história do Knightsquirrel lutando contra robôs com um Bass Mech.
+
+#### 📝 Prompt
+
+```
+Estenda a história do Knightsquirrel, continuando sua luta contra os robôs de Treble com seu Bass Mech
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111702540928577536/img/vx0G6jhxWBnxh2nZ.jpg" width="600" alt="Knightsquirrel vs Robôs Mech">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12747)**
+
+**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2111702741881921889) | **Published:** Oct 18, 2026
+
+---
 ### Sequência de Vídeo em POV de Pesca de Águia
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +287,32 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 **Author:** [Louie Dog](https://x.com/sumwearoutthere) | **Source:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **Published:** Oct 18, 2026
 
 ---
+### Metragem Encontrada de Monstro do Lago em VHS
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado com múltiplas cenas, simulando filmagens de câmera de vídeo dos anos 1990 de um monstro do lago atacando uma família, completo com artefatos de VHS e movimentos específicos de câmera.
+
+#### 📝 Prompt
+
+```
+Filmagem encontrada com câmera de vídeo dos anos 1990, artefatos de fita VHS, linhas de rastreamento, aberração cromática, caça ao foco automático, realces superexpostos, câmera amadora instável na mão, carimbo de data queimado no canto. Correção de cor: tons cinza-esverdeados desbotados, cores de pele apagadas, céu pálido estourado.
+Uma criatura colossal e escura do lago com costas enrugadas e pescoço longo, vista principalmente como silhueta através da névoa. Uma família em um cais de madeira com uma canoa em um lago do norte.
+CENA 1 (0 a 3s): Plano aberto com câmera na mão correspondente à imagem de referência, a câmera faz zoom desajeitadamente enquanto as costas da criatura rompem a superfície distante do lago, água escorrendo em cascatas.
+CENA 2 (3 a 6s): Plano médio com câmera na mão, a câmera gira rapidamente para a família no cais, uma criança apontando, um pai puxando a canoa para fora da água, a imagem falhando com linhas de rastreamento.
+CENA 3 (6 a 9s): Plano aberto, caça ao foco automático, o pescoço longo emerge da névoa, impossivelmente alto, uma onda rolando em direção ao cais.
+CENA 4 (9 a 12s): Plano corrido com câmera na mão, a câmera saltando enquanto o operador foge pelas escadas de madeira, o lago visível em flashes ao fundo, a onda atingindo o cais.
+CENA 5 (12 a 15s): Plano estático, a câmera caída na grama e inclinada para o lado, a silhueta da criatura afundando lentamente de volta na névoa, então a fita falha para uma tela azul.
+Gritos de mergulhões, chiado da fita, vento no microfone, um chamado profundo semelhante a uma buzina de nevoeiro vindo do lago, uma criança gritando, respiração ofegante de pânico, madeira rachando, um último guincho de rastreamento VHS até o silêncio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111585229756391424/img/1K0p3KhB2LfWMhMl.jpg" width="600" alt="Metragem Encontrada de Monstro do Lago em VHS">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12748)**
+
+**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2111621281754005784) | **Published:** Oct 18, 2026
+
+---
 ### Vídeo de mockup de camiseta com foto de casal
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +330,25 @@ Transforme isso em um mockup de produto realista e de alta qualidade de uma cami
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12706)**
 
 **Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **Published:** Oct 17, 2026
+
+---
+### Cena Subaquática de Roadster com Texto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico que apresenta uma tela preta com texto, transicionando para uma cena subaquática com um casco preto no fundo do mar e um zumbido grave.
+
+#### 📝 Prompt
+
+```
+Tela preta. Texto: “O Roadster de Elon voa. O nosso não pergunta.” Submerso — casco preto no fundo do mar. Zumbido grave....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111593551935225856/img/CbwZYpH9Pyj368Sw.jpg" width="600" alt="Cena Subaquática de Roadster com Texto">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12745)**
+
+**Author:** [Puchamamax](https://x.com/aaoomaxi) | **Source:** [Link](https://x.com/aaoomaxi/status/2111593612438126991) | **Published:** Oct 17, 2026
 
 ---
 ### Prompt de Cena de Restaurante Italiano
@@ -2368,125 +2492,6 @@ coma seu chocolate branco, querida, saboreie a mordida assim que o chocolate toc
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **Published:** Oct 10, 2026
 
 ---
-### Garota Tailandesa Dançando com Urso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo para o Grok Imagine, apresentando uma garota tailandesa falando frases e dançando com um urso de pelúcia em uma sala de estar.
-
-#### 📝 Prompt
-
-```
-Aqui está a fala dela, primeiro em tailandês, depois em inglês:
-“มาเต้นกับฉันสิ หมีน้อย” — “Venha dançar comigo, ursinho.”
-Em seguida, ela gira uma vez, levanta o urso e diz: “เราสองคนเต้นด้วยกัน” — “Nós dois dançamos juntos.”
-O piso de madeira, o tapete limpo, a sala de estar — ela está em casa. O urso finalmente tem uma parceira. ❤️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="Garota Tailandesa Dançando com Urso">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12344)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **Published:** Oct 10, 2026
-
----
-### Prévia do Filme Zuck It Up
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para criar uma prévia de filme com Mark Zuckerberg como estrela do rock.
-
-#### 📝 Prompt
-
-```
-Crie uma prévia para “Zuck It Up”, um filme sobre um universo alternativo onde Mark Zuckerberg largou Harvard para vender o Facebook e viver como uma estrela do rock, usando óculos de sol super descolados.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="Prévia do Filme Zuck It Up">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12343)**
-
-**Author:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **Source:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **Published:** Oct 10, 2026
-
----
-### Batalha do Arquiteto das Dimensões de IA
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo narrativo para o Grok Imagine, apresentando os personagens Jack Harris, Naia Voss, April Vance e Daren Korr enfrentando um inimigo chamado o Arquiteto.
-
-#### 📝 Prompt
-
-```
-Aqui está o vídeo atualizado com os personagens claramente **enfrentando o Arquiteto e atirando nele**:
-
-Nas Dimensões de IA, Jack Harris, Naia Voss, April Vance e Daren Korr enfrentam um inimigo cuja ambição ultrapassa a humanidade e alcança as próprias dimensões.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="Batalha do Arquiteto das Dimensões de IA">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12348)**
-
-**Author:** [Myron Smith](https://x.com/MyronSmithm1) | **Source:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **Published:** Oct 10, 2026
-
----
-### Grok Imagine Campo de Borboletas Arco-Íris
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para criar um vídeo com arco-íris e borboletas em um campo colorido de flores usando o Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Arco-íris e borboletas em um campo de flores 💐 rosa, roxo e amarelo....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108811178915012608/img/U5rhLYpmlum9UUPH.jpg" width="600" alt="Grok Imagine Campo de Borboletas Arco-Íris">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12276)**
-
-**Author:** [Scarlett Coggan](https://x.com/ScarlettEbonyCo) | **Source:** [Link](https://x.com/ScarlettEbonyCo/status/2108811213681635831) | **Published:** Oct 10, 2026
-
----
-### Mistura Surreal de Múltiplas Referências
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt complexo que mescla quatro imagens de referência em uma cena surreal de uma mulher meditando com efeitos de luz.
-
-#### 📝 Prompt
-
-```
-Uma mistura surreal dramática que funde todas as quatro referências em uma única cena épica: a serena mulher de cabelos curtos e cacheados da primeira imagem, meditando na postura de lótus, com luz estelar brilhante emanando de seu peito e um feixe de luz saindo do topo de sua cabeça, agora vest...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108732462193078273/img/h1u7-12JVTW9E0Cr.jpg" width="600" alt="Mistura Surreal de Múltiplas Referências">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12279)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2108732499677622751) | **Published:** Oct 10, 2026
-
----
-### Dança de Guaxinim e Esquilo com Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para gerar um vídeo de um guaxinim e um esquilo dançando em um prado ensolarado usando o Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Um guaxinim dançando com um esquilo no prado perto da floresta, em um dia ensolarado
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108717600096333824/img/q4ydydu2zvP30CQD.jpg" width="600" alt="Dança de Guaxinim e Esquilo com Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12273)**
-
-**Author:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **Source:** [Link](https://x.com/b_irmina/status/2108717629229891884) | **Published:** Oct 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2548,6 +2553,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-19T04:21:37.048Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-19T15:45:27.886Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3142** |
+| 📝 Total Prompts | **3148** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-19** |
 
@@ -189,6 +189,85 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Melek Kanatları Işık Genişlemesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir meleğin kanatları aracılığıyla ışığı yaymasını ve üçüncü göğe yükselişini detaylı olarak anlatan bir görsel istem.
+
+#### 📝 Prompt
+
+```
+Kanatlarıyla kendini saran bir melek, ışığı kanatlarından yayılıp tüm bedenine nüfuz edene kadar genişletir ve üçüncü göğe doğru uçar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112002366715187200/img/CuVKtDon9KGFWG1V.jpg" width="600" alt="Melek Kanatları Işık Genişlemesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12744)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **Published:** Oct 19, 2026
+
+---
+### Elon Musk'ın NYC'de Tesla Sürdüğü Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine kullanarak Elon Musk'ın New York sokaklarında Tesla sürdüğü komik bir video oluşturmak için basit bir istem.
+
+#### 📝 Prompt
+
+```
+Komik video. Ben ve Elon Musk, New York sokaklarında Tesla sürüyoruz.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111927231232524288/img/ACatCxO4jnjOwOtt.jpg" width="600" alt="Elon Musk'ın NYC'de Tesla Sürdüğü Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12743)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **Published:** Oct 18, 2026
+
+---
+### Claudia Anime Stili Tesla Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine kullanarak gerçek bir kişiyi Tesla Roadster sahnesinde anime stiline dönüştüren video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+CLAUDIA × SI — BEYAZ TESLA ROADSTER 🤍🚀
+Tek çekimde Gerçek → anime @imagine 
+
+@anabology Claudia'yı @bot ile anime stiline uyarlamayı denedim
+```
+
+<img src="https://pbs.twimg.com/media/HU6OwhcWoAAHtHn.jpg" width="600" alt="Claudia Anime Stili Tesla Roadster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12746)**
+
+**Author:** [Dima Nurm](https://x.com/NURM_Dima) | **Source:** [Link](https://x.com/NURM_Dima/status/2111782488544539049) | **Published:** Oct 18, 2026
+
+---
+### Knightsquirrel vs Robot Mech
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Knightsquirrel hikayesinin devamı niteliğindeki video istemi, Bass Mech ile robotlara karşı savaşan Knightsquirrel'i gösteriyor.
+
+#### 📝 Prompt
+
+```
+Knightsquirrel'in Treble'ın robotlarına karşı Bass Mech'i ile savaşmaya devam ettiği sahneyi genişletin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111702540928577536/img/vx0G6jhxWBnxh2nZ.jpg" width="600" alt="Knightsquirrel vs Robot Mech">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12747)**
+
+**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2111702741881921889) | **Published:** Oct 18, 2026
+
+---
 ### Kartal Balık Avı POV Video Sekansı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +287,32 @@ Kartal, kristal berraklığındaki suya dalarak bir balığı kapar; bu an POV (
 **Author:** [Louie Dog](https://x.com/sumwearoutthere) | **Source:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **Published:** Oct 18, 2026
 
 ---
+### VHS Göl Canavarı Buluntu Görüntü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1990'lar kamerası görüntülerini simüle eden, VHS artefaktları ve spesifik kamera hareketleriyle tamamlanmış, bir göl canavarının aileye saldırmasını konu alan detaylı çok çekimli video istemi.
+
+#### 📝 Prompt
+
+```
+1990'lar el kamerası buluntu görüntü, VHS kaset artefaktları, izleme çizgileri, kromatik sapma, otomatik odaklanma titremesi, aşırı pozlanmış parlak noktalar, titrek amatör el kamerası, köşeye kazınmış tarih damgası. Renk tonu: soluk gri-yeşil, solmuş ten renkleri, aşırı beyazlamış gökyüzü.
+Sırtında çıkıntılar olan ve uzun boyunlu devasa koyu renkli bir göl yaratığı, çoğunlukla sis içinde siluet olarak görülüyor. Kuzeyde bir gölde ahşap iskele üzerinde kanoyu taşıyan bir aile.
+ÇEKİM 1 (0-3 sn): Referans görüntüyle uyumlu geniş açılı el kamerası çekimi, kamera yaratığın sırtının gölün uzak kısmında su yüzeyini delip geçerken suyun tabaka halinde akmasıyla beceriksizce yakınlaşıyor.
+ÇEKİM 2 (3-6 sn): El kamerasıyla orta mesafe çekim, kamera iskeledeki aileye doğru ani bir hareketle dönüyor, bir çocuk işaret ediyor, baba kanoyu sudan çıkarıyor, görüntü izleme çizgileriyle bozuluyor.
+ÇEKİM 3 (6-9 sn): Geniş açı çekim, otomatik odaklanma titremesi, uzun boyun sisten dışarı yükseliyor, imkansız derecede yüksek, iskelenin doğru ilerleyen bir dalga.
+ÇEKİM 4 (9-12 sn): Koşarak yapılan el kamerası çekimi, operatör ahşap merdivenlerden kaçarken kamera zıplıyor, arkadan flaş gibi görünen göl, dalganın iskeleye çarpması.
+ÇEKİM 5 (12-15 sn): Sabit çekim, kamera çimenlere düşmüş ve yana yatık, yaratığın silueti yavaşça sise geri batıyor, ardından kaset mavi ekrana geçiyor.
+Dalgıç kuşlarının ötüşü, kaset hışırtısı, mikrofonun rüzgar sesi, gölden gelen derin bir düdük benzeri ses, bir çocuğun bağırması, panik nefesleri, tahtaların çatırdaması, sessizliğe dönüşen son bir VHS izleme cızırtısı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111585229756391424/img/1K0p3KhB2LfWMhMl.jpg" width="600" alt="VHS Göl Canavarı Buluntu Görüntü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12748)**
+
+**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2111621281754005784) | **Published:** Oct 18, 2026
+
+---
 ### Çift Fotoğraflı Tişört Mockup Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +330,25 @@ Bunu şık siyah pamuklu tişörtün yüksek kaliteli ve gerçekçi bir ürün m
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12706)**
 
 **Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **Published:** Oct 17, 2026
+
+---
+### Su Altı Roadster Metin Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Siyah ekran ve metinle başlayan, ardından deniz tabanında siyah bir gövde ve düşük frekanslı uğultu içeren su altı sahnesine geçiş yapan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Siyah ekran. Metin: “Elon’un Roadster’ı uçuyor. Bizimki soru sormuyor.” Su altında — deniz tabanında siyah bir gövde. Düşük frekanslı uğultu....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111593551935225856/img/CbwZYpH9Pyj368Sw.jpg" width="600" alt="Su Altı Roadster Metin Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12745)**
+
+**Author:** [Puchamamax](https://x.com/aaoomaxi) | **Source:** [Link](https://x.com/aaoomaxi/status/2111593612438126991) | **Published:** Oct 17, 2026
 
 ---
 ### İtalyan Restoran Sahnesi İstem Metni
@@ -2356,125 +2480,6 @@ Beyaz çikolatayı ye tatlım, beyaz çikolata dudaklarına değince ısırığ�
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **Published:** Oct 10, 2026
 
 ---
-### Ayı ile Dans Eden Tay Kız
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, bir kızın Tay dilinde replikler söylediği ve oturma odasında bir ayıcıkla dans ettiği video üretim istemi.
-
-#### 📝 Prompt
-
-```
-İşte repliği, önce Tayca, sonra İngilizce:
-“มาเต้นกับฉันสิ หมีน้อย” — “Hadi benimle dans et, küçük ayıcı.”
-Sonra bir tur döner, ayıcıyı havaya kaldırır ve şöyle der: “เราสองคนเต้นด้วยกัน” — “Biz ikimiz birlikte dans ederiz.”
-Parke zemin, temiz halı, oturma odası — evinde. Ayıcık sonunda bir dans partneri buldu. ❤️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="Ayı ile Dans Eden Tay Kız">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12344)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **Published:** Oct 10, 2026
-
----
-### Zuck It Up Film Önizlemesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mark Zuckerberg'i bir rock yıldızı olarak gösteren bir film önizlemesi oluşturmak için istem.
-
-#### 📝 Prompt
-
-```
-Alternatif bir evrende Mark Zuckerberg'in Harvard'dan Facebook'u satmak ve süper havalı güneş gözlükleriyle bir rock yıldızı gibi yaşamak için ayrıldığı "Zuck It Up" adlı film için bir önizleme oluşturun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="Zuck It Up Film Önizlemesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12343)**
-
-**Author:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **Source:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **Published:** Oct 10, 2026
-
----
-### AI Dimensions: Architect Savaşı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Jack Harris, Naia Voss, April Vance ve Daren Korr karakterlerinin Architect adlı düşmanla karşı karşıya geldiği Grok Imagine için bir anlatı video istemi.
-
-#### 📝 Prompt
-
-```
-İşte karakterlerin net bir şekilde **Architect'e dönük olduğu ve ona ateş ettiği** güncellenmiş video:
-
-AI Dimensions'ta Jack Harris, Naia Voss, April Vance ve Daren Korr; hırsı insanlığı aşarak boyutların kendisine uzanan bir düşmanla yüzleşiyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="AI Dimensions: Architect Savaşı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12348)**
-
-**Author:** [Myron Smith](https://x.com/MyronSmithm1) | **Source:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **Published:** Oct 10, 2026
-
----
-### Grok Imagine Gökkuşağı Kelebek Çayırı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine kullanarak renkli bir çiçek tarlasında gökkuşakları ve kelebeklerle video oluşturmak için bir istem.
-
-#### 📝 Prompt
-
-```
-Çiçek tarlasında gökkuşakları ve kelebekler 💐 pembe, mor ve sarı....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108811178915012608/img/U5rhLYpmlum9UUPH.jpg" width="600" alt="Grok Imagine Gökkuşağı Kelebek Çayırı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12276)**
-
-**Author:** [Scarlett Coggan](https://x.com/ScarlettEbonyCo) | **Source:** [Link](https://x.com/ScarlettEbonyCo/status/2108811213681635831) | **Published:** Oct 10, 2026
-
----
-### Surreal Çoklu Referans Harmanı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dört referans görseli, ışık efektleriyle surreal bir meditasyon yapan kadın sahnesinde birleştiren karmaşık bir istem.
-
-#### 📝 Prompt
-
-```
-Tüm dört referansı tek bir epik sahnede birleştiren dramatik ve surreal bir harman: İlk görseldeki kısa kıvırcık saçlı huzurlu kadın, lotus pozunda meditasyon yapıyor; göğsünden parlayan yıldız ışıkları fışkırıyor ve başının tepesinden bir ışık huzmesi çıkıyor, şimdi giy...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108732462193078273/img/h1u7-12JVTW9E0Cr.jpg" width="600" alt="Surreal Çoklu Referans Harmanı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12279)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2108732499677622751) | **Published:** Oct 10, 2026
-
----
-### Grok Imagine Rakun Sincap Dansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine kullanarak güneşli bir günde çayırda dans eden bir rakun ve sincap videosu oluşturmak için bir istem.
-
-#### 📝 Prompt
-
-```
-Ormanın yanındaki çayırda, parlak güneşli bir günde sincapla dans eden bir rakun
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108717600096333824/img/q4ydydu2zvP30CQD.jpg" width="600" alt="Grok Imagine Rakun Sincap Dansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12273)**
-
-**Author:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **Source:** [Link](https://x.com/b_irmina/status/2108717629229891884) | **Published:** Oct 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2536,6 +2541,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-19T04:21:38.159Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-19T15:45:29.023Z</sub>
 
 </div>

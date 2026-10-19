@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3142** |
+| 📝 Total Prompts | **3148** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-19** |
 
@@ -189,6 +189,85 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### การขยายแสงแห่งปีกนางฟ้า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำอธิบายภาพอย่างละเอียดของนางฟ้าที่ขยายแสงผ่านปีกและบินขึ้นสู่สวรรค์ชั้นที่สาม
+
+#### 📝 Prompt
+
+```
+นางฟ้ากางปีกคลุมตัวจนแสงสว่างแผ่ขยายผ่านปีกและซึมซาบไปทั่วทั้งร่างกาย จากนั้นเธอจึงบินขึ้นสู่สวรรค์ชั้นที่สาม
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112002366715187200/img/CuVKtDon9KGFWG1V.jpg" width="600" alt="การขยายแสงแห่งปีกนางฟ้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12744)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **Published:** Oct 19, 2026
+
+---
+### วิดีโอ Elon Musk ขับ Tesla ในนิวยอร์ก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt ง่ายๆ สำหรับสร้างวิดีโอตลกๆ ที่แสดงภาพ Elon Musk ขับรถ Tesla ผ่านถนนในนิวยอร์กด้วย Grok Imagine
+
+#### 📝 Prompt
+
+```
+วิดีโอตลกๆ ผมกับ Elon Musk กำลังขับรถ Tesla ผ่านถนนในนิวยอร์ก
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111927231232524288/img/ACatCxO4jnjOwOtt.jpg" width="600" alt="วิดีโอ Elon Musk ขับ Tesla ในนิวยอร์ก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12743)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **Published:** Oct 18, 2026
+
+---
+### Claudia สไตล์อนิเมะกับ Tesla Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอที่เปลี่ยนบุคคลจริงให้อยู่ในสไตล์อนิเมะภายในฉาก Tesla Roadster โดยใช้ Grok Imagine
+
+#### 📝 Prompt
+
+```
+CLAUDIA × SI — WHITE TESLA ROADSTER 🤍🚀
+จากคนจริงสู่สไตล์อนิเมะในการถ่ายทำครั้งเดียว @imagine 
+
+@anabology ฉันลองปรับ Claudia ให้เป็นสไตล์อนิเมะด้วย @bot
+```
+
+<img src="https://pbs.twimg.com/media/HU6OwhcWoAAHtHn.jpg" width="600" alt="Claudia สไตล์อนิเมะกับ Tesla Roadster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12746)**
+
+**Author:** [Dima Nurm](https://x.com/NURM_Dima) | **Source:** [Link](https://x.com/NURM_Dima/status/2111782488544539049) | **Published:** Oct 18, 2026
+
+---
+### Knightsquirrel ปะทะ หุ่นยนต์ Mech
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอ Prompt ที่เล่าต่อจากเรื่องราวของ Knightsquirrel ในการต่อสู้กับหุ่นยนต์ด้วย Bass Mech
+
+#### 📝 Prompt
+
+```
+ขยายเรื่องราวของ Knightsquirrel ต่อเนื่องจากการต่อสู้กับหุ่นยนต์ของ Treble ด้วย Bass Mech ของเขา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111702540928577536/img/vx0G6jhxWBnxh2nZ.jpg" width="600" alt="Knightsquirrel ปะทะ หุ่นยนต์ Mech">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12747)**
+
+**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2111702741881921889) | **Published:** Oct 18, 2026
+
+---
 ### ลำดับวิดีโอการตกปลาโดยอินทรีในมุมมองบุคคลที่หนึ่ง
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +287,36 @@ Why use our gallery?
 **Author:** [Louie Dog](https://x.com/sumwearoutthere) | **Source:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **Published:** Oct 18, 2026
 
 ---
+### ฟุตเทจตามหาสัตว์ประหลาดในทะเลสาบ VHS
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบหลายช็อตที่จำลองภาพจากกล้องวีดีโอ (Camcorder) ยุค 90s อย่างละเอียด แสดงฉากสัตว์ประหลาดในทะเลสาบโจมตีครอบครัว พร้อมเอฟเฟกต์ VHS และมุมกล้องเฉพาะ
+
+#### 📝 Prompt
+
+```
+ภาพจากกล้อง Camcorder ยุค 1990s ที่ค้นพบ, เอฟเฟกต์เทป VHS, เส้น Tracking, ความคลาดเคลื่อนของสี (Chromatic Aberration), การโฟกัสอัตโนมัติที่ส่ายไปมา, ส่วนสว่างที่แสงจ้าเกินไป, กล้องมือถือแบบสมัครเล่นที่สั่นไหว, ป้ายเวลาประทับมุมภาพ
+การปรับสี: โทนเขียวเทาซีดจาง, สีผิวหม่น, ท้องฟ้าขาวโพลนจนรายละเอียดหาย
+
+สัตว์ประหลาดขนาดมหึมาสีดำสนิทในทะเลสาบ มีสันหลังเป็นลอนและคอยาว มักปรากฏเป็นเงาตะคุ่มผ่านม่านหมอก ครอบครัวหนึ่งอยู่บนท่าเรือไม้ริมทะเลสาบทางเหนือพร้อมเรือแคนู
+
+SHOT 1 (0 ถึง 3 วินาที): ภาพกว้างแบบถือกล้อง มือจับภาพตามภาพอ้างอิง กล้องซูมเข้าอย่างงุ่มง่ามขณะที่หลังของสัตว์ประหลาดโผล่พ้นผิวน้ำไกลออกไปในทะเลสาบ น้ำไหลลงมาเป็นแผ่น
+SHOT 2 (3 ถึง 6 วินาที): ภาพกลางแบบถือกล้อง กล้องแพนอย่างรวดเร็วไปยังครอบครัวบนท่าเรือ เด็กคนหนึ่งกำลังชี้ พ่อพยายามยกเรือแคนูขึ้นจากน้ำ ภาพเกิดอาการ Glitch ด้วยเส้น Tracking
+SHOT 3 (6 ถึง 9 วินาที): ภาพกว้าง ระบบโฟกัสอัตโนมัติทำงานผิดพลาด คอยาวของสัตว์ประหลาดโผล่ขึ้นมาจากหมอก สูงอย่างเหลือเชื่อ คลื่นลูกใหญ่กำลังซัดเข้าหาท่าเรือ
+SHOT 4 (9 ถึง 12 วินาที): ภาพขณะวิ่งถือกล้อง กล้องกระแทกกระเทือนขณะผู้ถ่ายวิ่งหนีขึ้นบันไดไม้ เห็นทะเลสาบวูบวาบอยู่เบื้องหลัง คลื่นซัดกระแทกท่าเรืออย่างรุนแรง
+SHOT 5 (12 ถึง 15 วินาที): ภาพนิ่ง กล้องถูกทิ้งไว้บนหญ้าและเอียงข้าง เงาของสัตว์ประหลาดค่อยๆ จมกลับลงไปในหมอก จากนั้นเทปเกิดอาการ Glitch เป็นหน้าจอสีฟ้า
+
+เสียงนก Loon ร้อง, เสียงฟู่ของเทป, เสียงลมกระทบไมโครโฟน, เสียงร้องต่ำคล้ายแตรหมอกดังมาจากทะเลสาบ, เสียงเด็กร้องตะโกน, เสียงหายใจหอบด้วยความตื่นตระหนก, เสียงไม้แตกหัก, และเสียงกรีดของระบบ Tracking VHS ก่อนตัดสู่ความเงียบ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111585229756391424/img/1K0p3KhB2LfWMhMl.jpg" width="600" alt="ฟุตเทจตามหาสัตว์ประหลาดในทะเลสาบ VHS">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12748)**
+
+**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2111621281754005784) | **Published:** Oct 18, 2026
+
+---
 ### วิดีโอตัวอย่างเสื้อยืดลายรูปคู่รัก
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +334,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12706)**
 
 **Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **Published:** Oct 17, 2026
+
+---
+### ฉากข้อความโรดสเตอร์ใต้น้ำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบภาพยนตร์ที่เริ่มต้นด้วยหน้าจอสีดำพร้อมข้อความ จากนั้นเปลี่ยนเป็นฉากใต้น้ำที่แสดงตัวถังสีดำบนพื้นทะเลพร้อมเสียงหึ่งต่ำ
+
+#### 📝 Prompt
+
+```
+หน้าจอสีดำ ข้อความ: “Elon’s Roadster บินได้ แต่ของเราไม่ถาม” เปลี่ยนเป็นฉากใต้น้ำ — ตัวถังสีดำอยู่บนพื้นทะเล พร้อมเสียงหึ่งต่ำ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111593551935225856/img/CbwZYpH9Pyj368Sw.jpg" width="600" alt="ฉากข้อความโรดสเตอร์ใต้น้ำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12745)**
+
+**Author:** [Puchamamax](https://x.com/aaoomaxi) | **Source:** [Link](https://x.com/aaoomaxi/status/2111593612438126991) | **Published:** Oct 17, 2026
 
 ---
 ### พรอมต์ฉาก ร้านอาหารอิตาเลียน
@@ -2383,125 +2511,6 @@ I love my dog!  Her name is LANIE!
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **Published:** Oct 10, 2026
 
 ---
-### สาวไทยเต้นกับหมี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอใน Grok Imagine ที่แสดงภาพหญิงสาวพูดภาษาไทยและเต้นกับตุ๊กตาหมีในห้องนั่งเล่น
-
-#### 📝 Prompt
-
-```
-นี่คือบทพูดของเธอ โดยเป็นภาษาไทยก่อน แล้วตามด้วยภาษาอังกฤษ:
-“มาเต้นกับฉันสิ หมีน้อย” — “Come dance with me, little bear.”
-จากนั้นเธอหมุนตัวหนึ่งรอบ ยกตุ๊กตาหมีขึ้น และพูดว่า: “เราสองคนเต้นด้วยกัน” — “The two of us dance together.”
-พื้นไม้เนื้อแข็ง พรมที่สะอาด และห้องนั่งเล่น — เธออยู่ที่บ้าน ในที่สุดหมีก็มีคู่เต้นแล้ว ❤️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108853418232074240/img/YqUw3RMBKpZ73UNH.jpg" width="600" alt="สาวไทยเต้นกับหมี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12344)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108853986904203515) | **Published:** Oct 10, 2026
-
----
-### ตัวอย่างภาพยนตร์ Zuck It Up
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างตัวอย่างภาพยนตร์ที่ Mark Zuckerberg เป็นร็อคสตาร์
-
-#### 📝 Prompt
-
-```
-สร้างตัวอย่างภาพยนตร์เรื่อง “Zuck It Up” เกี่ยวกับจักรวาลคู่ขนานที่ Mark Zuckerberg ลาออกจาก Harvard เพื่อขาย Facebook และใช้ชีวิตแบบร็อคสตาร์พร้อมสวมแว่นกันแดดสุดเท่
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108849397337407488/img/odsh4dlYiMtSTuKK.jpg" width="600" alt="ตัวอย่างภาพยนตร์ Zuck It Up">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12343)**
-
-**Author:** [Lisa Kuhnley](https://x.com/LisaJKuhnley) | **Source:** [Link](https://x.com/LisaJKuhnley/status/2108849436033974753) | **Published:** Oct 10, 2026
-
----
-### การต่อสู้ของนักออกแบบมิติ AI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเล่าเรื่องสำหรับ Grok Imagine ที่นำเสนอตัวละคร Jack Harris, Naia Voss, April Vance และ Daren Korr เผชิญหน้ากับศัตรูที่ชื่อ The Architect
-
-#### 📝 Prompt
-
-```
-นี่คือวิดีโอฉบับอัปเดตที่ตัวละคร **เผชิญหน้าและยิงใส่ The Architect** อย่างชัดเจน:
-
-ใน AI Dimensions, Jack Harris, Naia Voss, April Vance และ Daren Korr เผชิญหน้ากับศัตรูที่มีความทะเยอทะยานเกินกว่ามนุษยชาติ ข้ามไปยังตัวมิติเอง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108812101674237952/img/t_pLXpB2CBPuQ33U.jpg" width="600" alt="การต่อสู้ของนักออกแบบมิติ AI">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12348)**
-
-**Author:** [Myron Smith](https://x.com/MyronSmithm1) | **Source:** [Link](https://x.com/MyronSmithm1/status/2108812135434502232) | **Published:** Oct 10, 2026
-
----
-### Grok Imagine Rainbow Butterfly Field
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอที่มีสายรุ้งและผีเสื้อในทุ่งดอกไม้หลากสีสันโดยใช้ Grok Imagine
-
-#### 📝 Prompt
-
-```
-สายรุ้งและผีเสื้อในทุ่งดอกไม้ 💐 ชมพู ม่วง และเหลือง....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108811178915012608/img/U5rhLYpmlum9UUPH.jpg" width="600" alt="Grok Imagine Rainbow Butterfly Field">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12276)**
-
-**Author:** [Scarlett Coggan](https://x.com/ScarlettEbonyCo) | **Source:** [Link](https://x.com/ScarlettEbonyCo/status/2108811213681635831) | **Published:** Oct 10, 2026
-
----
-### การผสมผสานหลายภาพอ้างอิงแบบเหนือจริง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่ซับซ้อนซึ่งผสมผสานภาพอ้างอิงสี่ภาพเข้าด้วยกันเป็นฉากหญิงสาวนั่งสมาธิในสไตล์เหนือจริงพร้อมเอฟเฟกต์แสง
-
-#### 📝 Prompt
-
-```
-การผสมผสานแบบเหนือจริงที่น่าตื่นตาตื่นใจซึ่งรวมทุกภาพอ้างอิงทั้งสี่เข้าด้วยกันเป็นฉากอันยิ่งใหญ่: หญิงสาวผมหยิกสั้นผู้สงบนิ่งจากภาพแรกกำลังนั่งสมาธิในท่าดอกบัว โดยมีแสงดาวเรืองรองพุ่งออกมาจากหน้าอกของเธอ และลำแสงสว่างจากจุดสูงสุดของศีรษะ ซึ่งตอนนี้เธอสวม...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108732462193078273/img/h1u7-12JVTW9E0Cr.jpg" width="600" alt="การผสมผสานหลายภาพอ้างอิงแบบเหนือจริง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12279)**
-
-**Author:** [Cyperpienso](https://x.com/cyperpienso) | **Source:** [Link](https://x.com/cyperpienso/status/2108732499677622751) | **Published:** Oct 10, 2026
-
----
-### Grok Imagine แรคคูนและกระรอกเต้นรำ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอของแรคคูนและกระรอกเต้นรำในทุ่งหญ้าในวันที่แดดสดใสโดยใช้ Grok Imagine
-
-#### 📝 Prompt
-
-```
-แรคคูนเต้นรำกับกระรอกในทุ่งหญ้าข้างป่า ในวันที่แดดสดใส
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108717600096333824/img/q4ydydu2zvP30CQD.jpg" width="600" alt="Grok Imagine แรคคูนและกระรอกเต้นรำ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12273)**
-
-**Author:** [🐯ɨʀʍɨռǟ 🇺🇸イルミナ ✨🌺✨=^_^=](https://x.com/b_irmina) | **Source:** [Link](https://x.com/b_irmina/status/2108717629229891884) | **Published:** Oct 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2563,6 +2572,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-19T04:21:27.354Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-19T15:45:16.925Z</sub>
 
 </div>
