@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3148** |
+| 📝 총 프롬프트 수 | **3160** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-10-20** |
 
@@ -189,6 +189,198 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 일출 자연 풍경
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 산 위로 떠오르는 일출, 뛰어오르는 사슴과 노래하는 새를 묘사한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+❤️🇺🇸🌏
+
+산 너머로 해가 떠오르고, 소나무 사이로 새들이 지저귀는 가운데 숫사슴과 암사슴이 바위를 뛰어넘어 숲속으로 달려 들어갑니다
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112422436566425600/img/igFEX3DPb1fsem8L.jpg" width="600" alt="일출 자연 풍경">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12795)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2112422511124332928) | **게시일:** Oct 20, 2026
+
+---
+### 미래 우주항 교통 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 아티스트 Kendreik의 스타일을 기반으로 한 우주항 장면과 달로 향하는 미래형 교통을 묘사하는 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+아티스트 kendreik @kendreik 의 우주기지(spaceport) 영상에 따르면, 2 개월 전에 제작된 최근 영상들에서 우주기지와 달을 비롯한 미래 우주 교통의 모습을 담아내고 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112350647458680832/img/_Ey09YjuJAQ21mx2.jpg" width="600" alt="미래 우주항 교통 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12797)**
+
+**작성자:** [KENDREIK Artist](https://x.com/kendreik) | **출처:** [Link](https://x.com/kendreik/status/2112350668766011750) | **게시일:** Oct 20, 2026
+
+---
+### 테슬라 로드스터가 오가는 우주공항 교통
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 구불구불한 도로, 테슬라 로드스터, 그리고 생동감 넘치는 분위기를 담은 미래지향적 우주공항 장면을 위한 상세 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 우주항 내부의 활기찬 모습을 보여줍니다. 새로운 Tesla Roadster 가 꼭대기 도시까지 올라갈 수 있도록 도로가 굽이굽이 이어져 있으며, 사람들이 숨 쉴 수 있는 산소가 가득한 생명력 넘치는 대기가 도로를 감싸고 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112348654698635264/img/C-h7uSEh_YcO9tLX.jpg" width="600" alt="테슬라 로드스터가 오가는 우주공항 교통">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12796)**
+
+**작성자:** [KENDREIK Artist](https://x.com/kendreik) | **출처:** [Link](https://x.com/kendreik/status/2112348687657521352) | **게시일:** Oct 20, 2026
+
+---
+### Grok Imagine RGB 판테온 신화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 우주적 허공 속 원색의 디지털 신들을 묘사한 웅장한 신화 일러스트레이션/비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+원색의 고대 디지털 신들인 RGB Pantheon 을 주제로 웅장하고 서사적인 신화 일러스트를 제작하세요. 떠다니는 네온 레드, 그린, 블루 빛줄기와 수정 같은 신전, 그리고 빛나는 RGB 오브로 가득한 광활한 우주적 디지털 공허 속에서... 중앙에...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112343317006729216/img/mN-4edjzYM5xIQIo.jpg" width="600" alt="Grok Imagine RGB 판테온 신화">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12803)**
+
+**작성자:** [Christopher Kulbida](https://x.com/TheWhySpirit) | **출처:** [Link](https://x.com/TheWhySpirit/status/2112343610943476076) | **게시일:** Oct 20, 2026
+
+---
+### Grok Imagine 프롬프트: 다른 말과 기수 추가하기
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine에 이미지를 기반으로 다른 말과 기수를 추가하여 새 영상을 생성하도록 지시하는 짧은 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+제공된 이미지를 바탕으로 다음 프롬프트를 사용해 새 영상을 생성해 줘: "다른 말과 기수도 추가해 줘", 설정은 480p, 10s 로 해 줘.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112331735006629888/img/IAGxVzDEnHP9KWap.jpg" width="600" alt="Grok Imagine 프롬프트: 다른 말과 기수 추가하기">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12804)**
+
+**작성자:** [ブラフマー🌏🍏👑](https://x.com/makoto_so) | **출처:** [Link](https://x.com/makoto_so/status/2112331777843052899) | **게시일:** Oct 19, 2026
+
+---
+### 시추에게 카드를 건네는 고양이
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 고양이가 시추에게 신용카드를 건네고, 시추가 PIN 번호를 묻는 유머러스한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+고양이가 신용카드를 꺼내 시추에게 건네도록 하세요. 그리고 시추가 "심바 씨, 비밀번호가 있나요?"라고 묻게 하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112308018196971520/img/TKe85uU57iMFRR8V.jpg" width="600" alt="시추에게 카드를 건네는 고양이">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12802)**
+
+**작성자:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **출처:** [Link](https://x.com/Soaring2TheMoon/status/2112308141769589093) | **게시일:** Oct 19, 2026
+
+---
+### 동적 장면 전환 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 색상 변화, 침실부터 들판까지의 장면 전환 및 의상 변경을 특징으로 하는 이미지 기반 영상 생성 프롬프트
+
+#### 📝 프롬프트
+
+```
+이미지를 가져와서 해당 단어를 동영상 설명으로 사용하고, 빙글빙글 도는 색상을 추가해 주세요. 침실을 흑백 체크무늬 담보가 깔린 들판으로 바꾸고, 옷은 연한 아이스 옐로 블라우스와 청바지로 변경해 주세요....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112303122706006016/img/9PT99EU-Fmoydhjg.jpg" width="600" alt="동적 장면 전환 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12798)**
+
+**작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2112303166528389334) | **게시일:** Oct 19, 2026
+
+---
+### 우주선 축구 경기장
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 거대한 우주선 경기장 내부에서 펼쳐지는 축구 경기에 대한 상세한 영상 프롬프트로, 유리 돔 아래 지구를 조망하는 장면을 포함합니다.
+
+#### 📝 프롬프트
+
+```
+유리 돔이 덮인 거대한 우주선 경기장에서 지구를 내려다보며 축구를 하는 15 초 분량의 720p 영상....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112296155027501056/img/Jp7p4SWZg-hPXNYE.jpg" width="600" alt="우주선 축구 경기장">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12794)**
+
+**작성자:** [Starship](https://x.com/starship_river) | **출처:** [Link](https://x.com/starship_river/status/2112296207879954695) | **게시일:** Oct 19, 2026
+
+---
+### Grok Imagine Video 프롬프트: Tesla 날아다니는 자동차 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 밝은 주황색 하늘을 배경으로 흰색 Tesla 차량이 정면으로 회전하며 부드럽게 비행한 후 도로로 복귀하는 장면을 묘사한 시네마틱 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+밝은 주황빛 햇살이 가득한 하늘을 배경으로, 이곳은 어디일까요. 하얀색 Tesla 자동차가 정면으로 방향을 틀며 공중으로 부드럽게 날아오른 뒤, 이내 다시 도로 위로 착지하는 모습을 담아주세요....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112251123998281728/img/mnIq8yKuxqD4CLQl.jpg" width="600" alt="Grok Imagine Video 프롬프트: Tesla 날아다니는 자동차 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12799)**
+
+**작성자:** [Ember Art](https://x.com/Ember8184Art) | **출처:** [Link](https://x.com/Ember8184Art/status/2112251138145951830) | **게시일:** Oct 19, 2026
+
+---
+### Grok Imagine 슈퍼카 로봇 변신
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 네온 도시에서 미래형 블랙 슈퍼카가 로봇 전사로 변신하는 고품질 영상 프롬프트
+
+#### 📝 프롬프트
+
+```
+미래지향적인 블랙 슈퍼카가 밤새 네온사인으로 빛나는 메가시티를 질주하다, 젖은 고속도로 위에서 급격히 브레이크를 밟으며 멈춰 섭니다. 보닛이 장갑 흉판으로 갈라지고, 바퀴가 회전하며 어깨로 변형되고, 수백 개의 유압 부품이 정교한 기계적 순서대로 펼쳐집니다. 차체가 솟아오르며 거대한 로봇 전사로 탈바꿈하고, 장갑 사이로 증기가 뿜어져 나오는 가운데 푸른빛의 눈이 번쩍입니다. 카메라가 극적인 360 도 원형 구도로 로봇을 감싸 도는 동안, 로봇은 힘차게 한 걸음 앞으로 내딛습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112218406913282051/img/p2l0BCI_PrQVlPrl.jpg" width="600" alt="Grok Imagine 슈퍼카 로봇 변신">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12801)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2112218502107205691) | **게시일:** Oct 19, 2026
+
+---
 ### 천사 날개의 빛 확장
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +398,44 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12744)**
 
 **작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **게시일:** Oct 19, 2026
+
+---
+### 중국 수묵화 스타일의 Grok Imagine 드론 샷
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 왕희맹의 송대 두루마리에서 영감을 받은 생동감 있는 중국 청록산수화를 통과하는 세로형 시네마틱 드론 샷을 특징으로 하는 Grok Imagine 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+왕희맹의 송나라 두루마리 그림 '천리강산도' 스타일로 그려진 살아 움직이는 중국 청록산수화 내부를 앞으로 비행하는 수직 시네마틱 드론 촬영: 석청과 석록으로 채색된 우뚝 솟은 봉우리들, 산 사이로 흘러가는 안개 낀 구름, 뒤틀린 가지의 소나무, 강 위 작은 정자와 배, 안개를 뚫고 스며드는 황금빛, 수묵 질감과 사실적인 입체감이 어우러진 표현, 느리고 장엄한 움직임, 몽환적인 분위기, 높은 디테일, 8k 해상도
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111994510440030208/img/kxhx0uIqj_goWPDR.jpg" width="600" alt="중국 수묵화 스타일의 Grok Imagine 드론 샷">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12805)**
+
+**작성자:** [Jerry Dai| 顺天](https://x.com/shuntian2026) | **출처:** [Link](https://x.com/shuntian2026/status/2111996041906307225) | **게시일:** Oct 19, 2026
+
+---
+### Grok Imagine 시네마틱 클록 비디오
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 시계가 정확히 8:00을 가리킬 때 책상에서 피곤해하는 남자를 묘사한 상세한 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+6 초짜리 시네마틱 영상 제작: 지친 남자가 책상에 앉아 7:59:58 을 가리키는 아날로그 벽시계를 올려다봅니다. 초침이 두 번 째깍거리며 시계가 정확히 8:00 이 되는 순간을 클로즈업으로 보여줍니다. 분침은 12 를, 시침은 8 을 가리킵니다. 그때...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111949764417724416/img/duft5ue13wvfclvH.jpg" width="600" alt="Grok Imagine 시네마틱 클록 비디오">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12800)**
+
+**작성자:** [Ligma Ballz](https://x.com/LBallz77283) | **출처:** [Link](https://x.com/LBallz77283/status/2111949821171155240) | **게시일:** Oct 18, 2026
 
 ---
 ### Elon Musk가 뉴욕 시에서 Tesla를 운전하는 영상
@@ -2220,273 +2450,6 @@ Sam Elliott이 말을 타고 평원과 사막을 가로지르며 무리의 가�
 **작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2109544110919164271) | **게시일:** Oct 12, 2026
 
 ---
-### 분노로 웃고 울며 찍은 셀피 영상
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 여성이 분노하며 웃고 우는 현실적인 12초 셀피 영상을 생성하기 위한 상세한 프롬프트로, 표정, 카메라 움직임 및 오디오 세부 사항을 지정합니다.
-
-#### 📝 프롬프트
-
-```
-[과제]
-9:16 세로형의 사실적인 스마트폰 셀프 촬영 12초 영상을 생성하세요. 참조 영상 'Anger Stomach Ache'의 누운 자세 구도, 동작 순서, 웃음과 눈물이 섞인 표정, 리듬을 재현하되, 원본 캐릭터를 지정된 성인 여성으로 교체합니다.
-
-[참조 분리 및 캐릭터 고정]
-얼굴 특징, 비율, 긴 검은 머리는 여성 얼굴 참조 이미지 @0ba07db1-974c-467d-80dc-d9dffddac0ba 에 고정하고, 원본 영상의 남성 외모는 상속하지 않습니다.
-의상과 신체 비율은 참조 이미지 @8149c66e-9a91-4b88-bf26-d0a764075ccf 에 고정하며, 의상을 완전히 착용합니다.
-안경은 은색 장식 안경 참조 이미지 @d80c71c5-d330-4baf-8ecf-8b793ee0fee8 에 고정합니다: 얇은 은색 금속 와이어, 열린 곡선형 하단 렌즈 프레임, 투명 코 패드, 코 다리 근처의 작은 리본 모양 금속 코일, 양쪽에 하나씩 매달린 꽃 장식이 포함됩니다. 템플 암(다리)은 귀에 정상적으로 걸리고, 두 눈이 명확히 보입니다. 안경은 전체 영상 동안 착용 상태를 유지하며, 일반 두꺼운 프레임 안경으로 변형되지 않고, 디스플레이 스탠드가 나타나지 않습니다.
-원본 영상은 연기, 셀프 촬영 각도, 동작, 리듬만 고정합니다.
-이전 9 그리드에서 떨어지는 샷은 상속하지 않습니다.
-
-[장면 및 촬영]
-그녀는 흰색 침대 위에 등을 대고 누워 있으며, 머리는 흰색 베개 위에 있고 긴 머리가 자연스럽게 펼쳐져 있습니다.
-왼손은 화면 밖에서 휴대폰을 들고 있으며, 전면 카메라는 얼굴 위 약 40cm 지점에 위치하여 얼굴, 어깨, 상체를 아래쪽으로 촬영합니다. 얼굴이 프레임의 주요 피사체를 차지합니다.
-오른손은 화면 하단 가장자리에 도달하여 복부를 누를 수 있습니다.
-전체적으로 하나의 연속 샷으로 진행되며, 렌즈는 손의 흔들림, 호흡, 어깨 떨림에 따라 약간만 흔들립니다. 자연스러운 침실 조명, 일반적인 스마트폰 네이티브 품질, 사실적인 피부 질감, 뷰티 필터 없음.
-
-[엄격한 타이밍 및 연기]
-0–2.8 초:
-분노한 웃음과 눈물 상태로 즉시 시작합니다. 눈썹은 단단히 찌푸려지고, 눈은 꼭 감겨 있으며, 입꼬리는 수평으로 당겨지고, 간헐적으로 "하하하... 아... 하하" 소리를 냅니다.
-웃음에는 억울함과 분노가 담겨 있으며, 어깨는 가볍게 떨리고, 머리는 베개 위에서 약간 움직입니다.
-은색 꽃 펜던트는 머리 움직임에 따라 부드럽게 흔들리며, 코 패드와 템플 암은 얼굴에 밀착된 상태를 유지합니다.
-2.8–5.8 초:
-숨을 들이마시기 위해 멈추고, 거의 눈을 뜨지 않은 채 휴대폰 화면을 보며, 눈썹은 여전히 찌푸려지고 입꼬리는 내려간 상태로 분노와 억울함을 담아 말합니다:
-"가족들아, 너무 화나서 배가 아파."
-후반부를 말할 때, 오른손으로 복부를 누르고, 머리를 한쪽으로 돌리며, 다시 눈을 꼭 감습니다. 몸의 떨림에 따라 휴대폰이 약간 흔들리지만, 얼굴은 명확하게 읽힐 수 있어야 합니다.
-5.8–9.3 초:
-호흡을 가다듬으려 하지만 다시 끊기는 "하하하... 아..." 소리를 냅니다.
-입을 벌렸다가 잠시 오므렸다가 다시 벌리며, 웃고 싶으면서도 울고 싶은 반응을 보여줍니다. 눈썹은 단단히 찌푸려지고, 콧구멍이 약간 움직이며, 턱이 떨리고, 가끔 이를 드러냅니다.
-머리는 옆으로 기울어진 위치에서 베개 중앙으로 돌아오며, 오른손은 계속 복부를 누릅니다. 안경은 머리와 함께 이동하고, 꽃 펜던트는 자연스럽게 흔들립니다.
-9.3–12 초:\n잠시 눈을 떠 화면을 보며 분노하여 말합니다:
-"너무 화나."
-말을 마친 후, 눈을 감고, 코를 찡그리며, 웃음과 눈물이 섞인 표정을 드러내고, 짧은 쓴웃음과 숨소리로 마무리합니다.
-항상 누운 자리를 유지하며, 일어나 앉지 않고, 추가적인 줄거리는 넣지 않습니다.
-
-[오디오]
-자연스러운 성인 여성 목소리, 근거리 스마트폰 녹음, 대화와 립싱크 동기화.
-웃음에는 억울함과 분노가 담겨 있으며, 어깨는 가볍게 떨리고, 머리는 베개 위에서 약간 움직입니다.
-원본 영상은 연기, 셀프 촬영 각도, 동작, 리듬만 고정합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109433100203589632/img/kqt_Zl2fK-5Wtkri.jpg" width="600" alt="분노로 웃고 울며 찍은 셀피 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12379)**
-
-**작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2109494015062110399) | **게시일:** Oct 12, 2026
-
----
-### Grok Imagine Video Prompt: Birthday Nail Art
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 생일 테마의 손톱 아트와 애니메이션 악어가 포함된 어린 소녀의 네일아트 영상 생성용 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-세 살배기 어린 소녀가 생일 테마로 손톱에 네일아트를 받기를 원합니다. 작은 악어를 살아 움직이게 하되, 원래 디자인을 유지하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109467396356333568/img/mxduTNzHpiJORZTu.jpg" width="600" alt="Grok Imagine Video Prompt: Birthday Nail Art">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12442)**
-
-**작성자:** [Cole Adams](https://x.com/ColeAdams777) | **출처:** [Link](https://x.com/ColeAdams777/status/2109467582981976366) | **게시일:** Oct 12, 2026
-
----
-### 애니메이션 셀피 프로모션 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 고정된 텍스트/로고를 포함하여 소셜 미디어 스토리에 적합한, 여성이 미소 짓고 살짝 움직이는 자연스러운 애니메이션을 제작하기 위한 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-셀피 영상처럼 여성이 미소 지으며 머리와 몸을 살짝 움직이는 자연스럽고 은은한 애니메이션, 부드러운 카메라 흔들림, 텍스트와 로고는 고정되어 선명하게 유지되며, 따뜻한 조명과 높은 품질의 전문적인 프로모션 느낌으로 소셜 미디어 스토리에 적합합니다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109422528821121024/img/GLnA7gcisWnJMY26.jpg" width="600" alt="애니메이션 셀피 프로모션 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12375)**
-
-**작성자:** [Katrina](https://x.com/sLuTmEoUt1988) | **출처:** [Link](https://x.com/sLuTmEoUt1988/status/2109422558110249320) | **게시일:** Oct 11, 2026
-
----
-### Phone Drop Camera Fall Video
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A video prompt using storyboard references to generate a chaotic phone drop sequence with wide-angle distortion and motion blur.
-
-#### 📝 프롬프트
-
-```
-Combine every frame of <<<image @1cbc28c8-e2a8-40e8-bfd6-7b3a7db70034 >>> to create a video. This is a subjective POV of a rear-facing phone accidentally slipping and falling × continuous nine-shot burst during the same fall × multiple failed iPhone shots × exaggerated wide-angle perspective × randomly rotating camera positions, out-of-focus, motion blur, and skewed angles.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109421168004308992/img/umxVZ4wHIS6jBsRr.jpg" width="600" alt="Phone Drop Camera Fall Video">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12380)**
-
-**작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2109421569931932075) | **게시일:** Oct 11, 2026
-
----
-### 영화 같은 음악으로 사진 애니메이션화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 특정 편집 프롬프트: 텍스트/요소는 정적으로 유지하고, 사진 자체만 애니메이션화하며, 음성 음소거 후 어두운 영화풍 음악 추가.
-
-#### 📝 프롬프트
-
-```
-텍스트는 그대로 두고, 모든 요소를 동일하게 유지하되 사진만 애니메이션화하세요. 대화 부분은 음소거(MUTE)하여 소리를 제거하고, 어두운 톤의 영화풍 배경 음악을 추가하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109398315070562304/img/0AEiLghFQKtEpR9x.jpg" width="600" alt="영화 같은 음악으로 사진 애니메이션화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12376)**
-
-**작성자:** [quietrumble](https://x.com/BillHector2) | **출처:** [Link](https://x.com/BillHector2/status/2109398357684982123) | **게시일:** Oct 11, 2026
-
----
-### Grok Imagine: 셰리프 퍼커립스의 결투 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine으로 생성된, 서부극 배경의 셰리프 퍼커립스( Sheriff Puckerlips)가 결투를 준비하는 장면을 묘사한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-새로운 셰리프가 마을에 도착했습니다. 바로 셰리프 퍼커립스입니다. 폴딩 카운티(Paulding County)에서 정오의 결투가 예정되어 있으며, 그는 이를 위해 만반의 준비를 하고 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109375672866988032/img/kxTsfmC46BCdd6tY.jpg" width="600" alt="Grok Imagine: 셰리프 퍼커립스의 결투 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12373)**
-
-**작성자:** [Tony Hammonds](https://x.com/_Walkslowjoe) | **출처:** [Link](https://x.com/_Walkslowjoe/status/2109375981244887120) | **게시일:** Oct 11, 2026
-
----
-### 겨울철 세련된 다람쥐
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 눈이 내리는 추운 환경의 다람쥐에 모자, 안경, 지팡이 같은 액세서리를 추가하는 기발한 프롬프트.
-
-#### 📝 프롬프트
-
-```
-가지 위에 앉은 다람쥐 차가운 바람에 털이 부풀어 오름 검은색 톱햇과 모노클을 착용하고 구리 끝이 달린 검은색 지팡이를 들고 있음
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109363087761690625/img/334dJkAENA4s-uSf.jpg" width="600" alt="겨울철 세련된 다람쥐">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12377)**
-
-**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2109363162902606212) | **게시일:** Oct 11, 2026
-
----
-### 애완동물 쓰다듬기 레퍼런스 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 모든 이미지를 전달하여 동물 쓰다듬기 관련 영상 레퍼런스를 생성하도록 모델에 지시하는 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-표시 및 쓰다듬기. 모든 이미지를 모델에 전달하여 영상 레퍼런스를 생성하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109297908067774465/img/3juxQAuA95kE3g5T.jpg" width="600" alt="애완동물 쓰다듬기 레퍼런스 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12374)**
-
-**작성자:** [Grok imagine user](https://x.com/imagine_user_) | **출처:** [Link](https://x.com/imagine_user_/status/2109297935100043488) | **게시일:** Oct 11, 2026
-
----
-### Grok Imagine 전통 의상 스왑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사용자의 외모를 바탕으로 전통 의상을 입히는 Grok Imagine 프롬프트로, 업로드한 사진을 참고 이미지로 사용할 가능성이 높습니다.
-
-#### 📝 프롬프트
-
-```
-Hey grok, 내가 어디서 왔을 것 같은지 보고 그 나라의 전통 의상을 입혀줘:
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108982519966076928/img/e301O1ZGUOK47rmG.jpg" width="600" alt="Grok Imagine 전통 의상 스왑">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12347)**
-
-**작성자:** [Melanie](https://x.com/melaniehudnall) | **출처:** [Link](https://x.com/melaniehudnall/status/2108982564610281965) | **게시일:** Oct 10, 2026
-
----
-### 타트라 산맥의 고모할머니
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine용 영상 생성 프롬프트로, 약 1906년 폴란드 타트라 산맥에서 말하는 고모할머니를 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-약 1906년, 폴란드 타트라 산맥에서 우리에게 말을 건네는 고모할머니를 상상해 보세요
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108970357713784832/img/LNQ71Jj5bDa7KAG5.jpg" width="600" alt="타트라 산맥의 고모할머니">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12345)**
-
-**작성자:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **출처:** [Link](https://x.com/Trad_Teodor/status/2108970423698473070) | **게시일:** Oct 10, 2026
-
----
-### 달빛 색상의 텍스트 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 검은 배경에서 달빛 색상의 나선형 텍스트가 나타나는 장면으로 확장하는 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-장면을 확장하여 다음 문구를 표시합니다: Together…we can! 이 단어들이 나선형으로 회전하며, 검은 배경 위에 달빛의 아름다운 색상으로 텍스트가 표현되도록 합니다.
-
-저는 제 강아지를 정말 사랑합니다! 그녀의 이름은 LANIE 입니다!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108915631709880320/img/OS8RS_ELfDi8d-ut.jpg" width="600" alt="달빛 색상의 텍스트 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12342)**
-
-**작성자:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **출처:** [Link](https://x.com/Soaring2TheMoon/status/2108915671929328037) | **게시일:** Oct 10, 2026
-
----
-### 화이트 초콜릿 POV 상호작용
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 여성이 화이트 초콜릿을 먹고 시청자에게 먹여주는 1인칭 시점 상호작용을 묘사한 Grok Imagine용 상세 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-사랑스러운 당신, 화이트 초콜릿을 드세요. 입술에 닿는 순간 그 맛을 음미하고, 치아 사이로 부드럽게 당겨보세요. 씹는 동안 가방에서 또 다른 조각을 꺼내 POV 남성의 정확히 같은 손에 올려놓으세요. 음.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108861691656097792/img/lwJhxL9DH6rEcXoB.jpg" width="600" alt="화이트 초콜릿 POV 상호작용">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12346)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **게시일:** Oct 10, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2548,6 +2511,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-20T04:37:32.772Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-20T13:44:31.351Z</sub>
 
 </div>

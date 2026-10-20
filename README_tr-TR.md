@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3148** |
+| 📝 Total Prompts | **3160** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-20** |
 
@@ -189,6 +189,198 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Gün Doğumu Doğa Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dağların üzerinde gün doğumunu, sıçrayan geyikleri ve öten kuşları betimleyen video istemi.
+
+#### 📝 Prompt
+
+```
+❤️🇺🇸🌏
+
+Dağların ardından doğan güneş, çam ağaçları, cıvıldayan kuşlar; geyikler kayaların üzerinden atlayıp ormanın derinliklerine doğru koşuyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112422436566425600/img/igFEX3DPb1fsem8L.jpg" width="600" alt="Gün Doğumu Doğa Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12795)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2112422511124332928) | **Published:** Oct 20, 2026
+
+---
+### Geleceğin Uzay Limanı Trafiği Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sanatçı Kendreik'in tarzına dayanan, Ay'a yönelik gelecekteki trafiği gösteren bir uzay limanı sahnesi oluşturmak için kullanılan video istemi.
+
+#### 📝 Prompt
+
+```
+Sanatçı kendreik @kendreik'in uzay limanı videolarına göre, 2 aylık son videolar bir uzay limanı videosu ve gelecekteki uzay ile Ay'a yönelik trafiği oluşturuyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112350647458680832/img/_Ey09YjuJAQ21mx2.jpg" width="600" alt="Geleceğin Uzay Limanı Trafiği Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12797)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2112350668766011750) | **Published:** Oct 20, 2026
+
+---
+### Tesla Roadster'larla Uzay Limanı Trafiği
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kıvrılan yollar, Tesla Roadster'lar ve atmosferik canlılık içeren fütüristik bir uzay limanı sahnesi için detaylı video istemi.
+
+#### 📝 Prompt
+
+```
+Bu uzay limanının içindeki trafiği gösterin; yeni Tesla Roadster ile en üstteki şehre doğru kıvrılarak yükselen yollar var. Bu yol, insanlar için canlılık ve oksijen dolu bir atmosfer sunuyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112348654698635264/img/C-h7uSEh_YcO9tLX.jpg" width="600" alt="Tesla Roadster'larla Uzay Limanı Trafiği">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12796)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2112348687657521352) | **Published:** Oct 20, 2026
+
+---
+### Grok Imagine RGB Pantheon Mitolojisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kozmik boşlukta ana renklerin dijital tanrılarını konu alan epik bir mitoloji illüstrasyonu/video istemi.
+
+#### 📝 Prompt
+
+```
+Ana renklerin kadim dijital tanrıları olan RGB Pantheon'un görkemli, destansı bir mitoloji illüstrasyonunu oluşturun. Havada süzülen neon kırmızı, yeşil ve mavi ışık huzmeleriyle, kristal tapınaklarla ve parlayan RGB küreleriyle dolu uçsuz bucaksız kozmik bir dijital boşlukta. Merkezde...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112343317006729216/img/mN-4edjzYM5xIQIo.jpg" width="600" alt="Grok Imagine RGB Pantheon Mitolojisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12803)**
+
+**Author:** [Christopher Kulbida](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2112343610943476076) | **Published:** Oct 20, 2026
+
+---
+### Grok Imagine İstemi: Diğer Atları ve Jokeyleri Ekle
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine'a bir görüntü temel alınarak diğer atları ve jokeyleri ekleyerek yeni bir video oluşturması talimatını veren kısa bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sağlanan görseli temel alarak şu prompt ile yeni bir video oluştur: "Add other horses and jockeys too" ve şu ayarları kullan: 480p, 10s.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112331735006629888/img/IAGxVzDEnHP9KWap.jpg" width="600" alt="Grok Imagine İstemi: Diğer Atları ve Jokeyleri Ekle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12804)**
+
+**Author:** [ブラフマー🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2112331777843052899) | **Published:** Oct 19, 2026
+
+---
+### Kedinin Shih Tzu'ya Ödeme Yapması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kedinin kredi kartını Shih Tzu'ya uzattığı ve Shih Tzu'nun PIN kodunu sorduğu eğlenceli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kedinin bir kredi kartı çıkarıp Shih Tzu'ya uzatmasını sağla. Shih Tzu'nun da "PIN kodunuz var mı Bay Simba?" diye sormasını sağla.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112308018196971520/img/TKe85uU57iMFRR8V.jpg" width="600" alt="Kedinin Shih Tzu'ya Ödeme Yapması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12802)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2112308141769589093) | **Published:** Oct 19, 2026
+
+---
+### Dinamik Sahne Geçişli Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Renk değişimleri, yatak odasından tarlaya sahne geçişi ve kıyafet değişiklikleri içeren bir görüntüden video oluşturmak için istem.
+
+#### 📝 Prompt
+
+```
+Görseli alıp içindeki kelimeleri video açıklaması olarak kullanın, dönen renkler ekleyin, yatak odasını siyah beyaz piknik örtüsü serili bir çayırla değiştirin, kıyafeti açık buz sarısı bir bluz ve kot pantolonla değiştirin....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112303122706006016/img/9PT99EU-Fmoydhjg.jpg" width="600" alt="Dinamik Sahne Geçişli Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12798)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112303166528389334) | **Published:** Oct 19, 2026
+
+---
+### Uzay Gemisi Futbol Stadyumu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dünya'yı gören cam kubbeli devasa bir uzay gemisi stadyumunda oynanan futbol maçının detaylı video istemi.
+
+#### 📝 Prompt
+
+```
+Dünya'ya tepeden bakan cam kubbeli devasa bir uzay gemisi stadyumunda oynanan futbolu gösteren 15 saniyelik 720p video....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112296155027501056/img/Jp7p4SWZg-hPXNYE.jpg" width="600" alt="Uzay Gemisi Futbol Stadyumu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12794)**
+
+**Author:** [Starship](https://x.com/starship_river) | **Source:** [Link](https://x.com/starship_river/status/2112296207879954695) | **Published:** Oct 19, 2026
+
+---
+### Grok Imagine Video İstemi: Tesla Uçan Araba Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Parlak turuncu bir gökyüzüne karşı ön cephesini döndürüp yumuşakça uçan ve ardından yola geri dönen beyaz bir Tesla arabayı tasvir eden sinematik bir istem.
+
+#### 📝 Prompt
+
+```
+Parlak turuncu, güneşli bir gökyüzü ekle; burası neresi? Beyaz bir Tesla arabası önden görünür şekilde dönerken ve havaya yükselirken, ardından usulca tekrar yola inerken görülsün....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112251123998281728/img/mnIq8yKuxqD4CLQl.jpg" width="600" alt="Grok Imagine Video İstemi: Tesla Uçan Araba Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12799)**
+
+**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2112251138145951830) | **Published:** Oct 19, 2026
+
+---
+### Grok Imagine Süper Araba Robot Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Neon ışıklı bir şehirde geleceğe ait siyah bir süper arabanın robot savaşçıya dönüştüğünü anlatan yüksek kaliteli video istemi.
+
+#### 📝 Prompt
+
+```
+Fütüristik siyah bir süper spor otomobil, gece vakti neon ışıklarla aydınlanmış bir megakentin sokaklarında hızla ilerledikten sonra ıslak bir otoyolda aniden ve sert bir şekilde fren yapar. Kaput zırhlı göğüs plakalarına bölünür, tekerlekler dönerek omuzlara dönüşür ve yüzlerce hidrolik parça kusursuz mekanik dizilimlerle açılır. Zırhından fışkıran buhar bulutları arasında araç, mavi gözleri parlayan devasa bir robot savaşçıya dönüşerek ayağa kalkar. Kamera dramatik bir 360 derecelik çekimle etrafında dönerken, robot güçlü bir adımla ileri atılır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112218406913282051/img/p2l0BCI_PrQVlPrl.jpg" width="600" alt="Grok Imagine Süper Araba Robot Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12801)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112218502107205691) | **Published:** Oct 19, 2026
+
+---
 ### Melek Kanatları Işık Genişlemesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +398,44 @@ Kanatlarıyla kendini saran bir melek, ışığı kanatlarından yayılıp tüm 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12744)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **Published:** Oct 19, 2026
+
+---
+### Çin Manzara Resmi Stilinde Grok Imagine Drone Çekimi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Wang Ximeng'in Song Hanedanı dönemine ait rulosundan ilham alan, canlı bir Çin mavi-yeşil manzara resmi içinde dikey sinematik drone çekimi içeren Grok Imagine video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Wang Ximeng'in Song Hanedanı dönemine ait "A Thousand Li of Rivers and Mountains" adlı parşömen tablosu üslubunda, canlanmış bir Çin mavi-yeşil manzara resminin içinde ileriye doğru süzülen dikey sinematik drone çekimi: azurit mavisi ve malahit yeşiliyle boyanmış görkemli zirveler, dağlar arasında süzülen sisli bulutlar, kıvrık dallı çam ağaçları, nehirler üzerindeki minik köşkler ve kayıklar, puslu havadan süzülen altın ışık, gerçekçi derinlikle harmanlanan mürekkep yıkama dokusu, yavaş ve heybetli hareket, ethereal atmosfer, yüksek detay, 8k çözünürlük
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111994510440030208/img/kxhx0uIqj_goWPDR.jpg" width="600" alt="Çin Manzara Resmi Stilinde Grok Imagine Drone Çekimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12805)**
+
+**Author:** [Jerry Dai| 顺天](https://x.com/shuntian2026) | **Source:** [Link](https://x.com/shuntian2026/status/2111996041906307225) | **Published:** Oct 19, 2026
+
+---
+### Grok Imagine Sinematik Saat Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Saat tam olarak 8:00'ı gösterirken masada yorgun bir adamın yer aldığı detaylı sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+6 saniyelik sinematik bir video oluştur: Yorgun bir adam masasında otururken, 7:59:58'i gösteren analog bir duvar saatine göz ucuyla bakar. Saniye ibresinin iki kez tıkırdamasıyla saatin tam 8:00'e gelmesini ve yelkovanın 12'yi, akrebin ise 8'i göstermesini yakın çekimle görüntüle. Saat...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111949764417724416/img/duft5ue13wvfclvH.jpg" width="600" alt="Grok Imagine Sinematik Saat Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12800)**
+
+**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2111949821171155240) | **Published:** Oct 18, 2026
 
 ---
 ### Elon Musk'ın NYC'de Tesla Sürdüğü Video
@@ -2213,273 +2443,6 @@ Koyu siluet halinde bir kovboy ve kovgirl, okyanus kıyısında yan yana yarış
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109544110919164271) | **Published:** Oct 12, 2026
 
 ---
-### Öfke, Gülme ve Ağlama Karışımı Selfie Videosu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Bir kadının öfkeden hem güldüğü hem de ağladığı, gerçekçi 12 saniyelik bir selfie videosu oluşturmak için detaylı video istemi; ifadeleri, kamera hareketlerini ve ses detaylarını belirtir.
-
-#### 📝 Prompt
-
-```
-[Görev]
-9:16 dikey formatta, gerçekçi bir akıllı telefon selfie videosu olan 12 saniyelik bir görüntü oluşturun. 'Stomach Ache from Anger' referans videosundaki yatakta uzanma kompozisyonunu, aksiyon sırasını, karışık gülme/ağlama ifadelerini ve ritmi taklit edin; orijinal karakteri belirtilen yetişkin bir kadınla değiştirin.
-
-[Referans Bölünmesi ve Karakter Kilitleme]
-Yüz özellikleri, oranlar ve uzun siyah saçlar @0ba07db1-974c-467d-80dc-d9dffddac0ba numaralı kadın yüz referans görseline kilitlenmelidir; orijinal videodaki erkek görünümü devralınmamalıdır.
-Kıyafetler ve vücut oranları @8149c66e-9a91-4b88-bf26-d0a764075ccf numaralı referans görseline kilitlenmelidir; kıyafetler tam olarak giyilmelidir.
-Gözlükler @d80c71c5-d330-4baf-8ecf-8b793ee0fee8 numaralı gümüş dekoratif gözlük referans görseline kilitlenmelidir: İnce gümüş metal tel, açık eğimli alt göz çerçeveleri, şeffaf burun pedleri, burun köprüsü yakınında küçük kurdeleli metal sargılar ve her iki tarafta birer asılı çiçek. Şakak kolları kulaklara normal şekilde yerleşmeli, her iki göz net görülmelidir. Gözlükler tüm süreç boyunca takılı kalmalı, sıradan kalın çerçeveli gözlüklere dönüşmemeli ve hiçbir sergi standı görünmemelidir.
-Orijinal video yalnızca performansı, selfie açısını, eylemleri ve ritmi kilitlemek için kullanılır.
-Önceki dokuzluk grid'deki düşen çekim devralınmamalıdır.
-
-[Sahne ve Çekim]
-Beyaz bir yatakta sırt üstü yatıyor, başı beyaz bir yastığın üzerinde, uzun saçları doğal olarak yayılmış durumda.
-Sol eli telefonu ekran dışında tutuyor, ön kamera yüzün yaklaşık 40 cm üzerinde konumlandırılmış; yüze, omuzlara ve üst gövdeye yukarıdan aşağıya doğru çekim yapıyor. Yüz, kadrajın ana öznesini oluşturuyor.
-Sağ eli ekranın alt kenarına ulaşarak karın bölgesine basabilir.
-Tek bir kesintisiz çekim olacak; lens sadece tutan elin, nefes almanın ve omuz titremelerinin etkisiyle hafifçe sallanacak. Doğal yatak odası ışığı, sıradan akıllı telefon yerel kalitesi, gerçekçi cilt dokusu, güzellik filtresi yok.
-
-[Katı Zamanlama ve Performans]
-0–2.8 saniye:
-Hemen öfkeli kahkaha ve gözyaşları halinde başlıyor. Kaşları sıkıca çatık, gözleri kapalı, ağız köşeleri yatay olarak gerilmiş, aralıklı olarak "Hahaha... ah... haha" sesi çıkarıyor.
-Kahkahada kırgınlık ve öfke var, omuzlar hafifçe titriyor, baş yastık üzerinde hafifçe hareket ediyor.
-Gümüş çiçek süslemeleri baş hareketleriyle nazikçe sallanıyor, burun pedleri ve şakak kolları yüze uygun şekilde kalıyor.
-2.8–5.8 saniye:
-Nefes almak için duruyor, gözlerini zar zor açarak telefon ekranına bakıyor, kaşları hâlâ çatık, ağız köşeleri aşağı dönük, öfke ve kırgınlıkla konuşuyor:
-"Ailem, o kadar sinirlendim ki midem ağrıyor."
-Cümlenin ikinci yarısını söylerken sağ eli karnına basıyor, başı yana dönüyor, gözler tekrar sıkıca kapanıyor. Telefon vücut titremeleriyle hafifçe sarsılıyor, yüz net okunabilir kalıyor.
-5.8–9.3 saniye:
-Nefesini toparlamaya çalışıyor ama tekrar kırık "Hahaha... ah..." sesleri çıkarıyor.
-Ağız açılıyor, kısa süre büzüşüyor, sonra tekrar açılıyor; aynı anda hem gülmek hem de ağlamak isteyen bir tepki gösteriyor. Kaşlar sıkıca geriliyor, burun delikleri hafifçe hareket ediyor, çene titriyor, zaman zaman dişler görülüyor.
-Baş yan pozisyondan yastığın merkezine geri dönüyor, sağ el karnına basmaya devam ediyor. Gözlükler başla birlikte hareket ediyor, çiçek süslemeleri doğal olarak sallanıyor.
-9.3–12 saniye:
-Gözlerini kısa süre açıp ekrana bakıyor ve öfkeyle söylüyor:
-"Çok kızgınım."
-Konuştuğu sırada gözlerini kapatıyor, burnunu buruşturuyor, karışık gülme/ağlama ifadesi ortaya çıkıyor ve kısa, acı bir kahkaha ile nefes vererek bitiyor.
-Her zaman olduğu gibi yerde yatmaya devam ediyor, doğrulmuyor, ek bir olay örgüsü eklenmiyor.
-
-[Ses]
-Doğal yetişkin kadın sesi, yakın mesafe akıllı telefon kaydı, diyaloglarla senkronize dudak hareketleri.
-Ses tonunda öfke ve kırgınlık hissedilmeli.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109433100203589632/img/kqt_Zl2fK-5Wtkri.jpg" width="600" alt="Öfke, Gülme ve Ağlama Karışımı Selfie Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12379)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109494015062110399) | **Published:** Oct 12, 2026
-
----
-### Grok Imagine Video Prompt: Doğum Günü Tırnak Sanatı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Doğum günü temalı tırnak boyama yapan küçük bir kızın videosunu oluşturmak için kullanılan prompt; animasyonlu bir timsah içerir.
-
-#### 📝 Prompt
-
-```
-Üç yaşındaki küçük kız, tırnaklarının doğum günü temasıyla boyanmasını istiyor. Küçük timsahı canlandır ve orijinal halini koru.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109467396356333568/img/mxduTNzHpiJORZTu.jpg" width="600" alt="Grok Imagine Video Prompt: Doğum Günü Tırnak Sanatı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12442)**
-
-**Author:** [Cole Adams](https://x.com/ColeAdams777) | **Source:** [Link](https://x.com/ColeAdams777/status/2109467582981976366) | **Published:** Oct 12, 2026
-
----
-### Animasyonlu Selfie Tanıtım Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kadının gülümseyip hafifçe hareket ettiği, sabit metin/logo içeren ve sosyal medya hikayelerine uygun selfie videosunu taklit eden ince animasyon için detaylı istem.
-
-#### 📝 Prompt
-
-```
-Kadının selfie videosundaki gibi gülümseyip saçını ve vücudunu hafifçe hareket ettirdiği ince doğal animasyon, yumuşak kamera sarsıntısı, metinler ve logolar sabit ve net kalır, sosyal medya hikayesi için profesyonel tanıtım hissi, sıcak aydınlatma, yüksek kalite
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109422528821121024/img/GLnA7gcisWnJMY26.jpg" width="600" alt="Animasyonlu Selfie Tanıtım Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12375)**
-
-**Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2109422558110249320) | **Published:** Oct 11, 2026
-
----
-### Telefon Düşme Kamerası Video
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Geniş açı bozulması ve hareket bulanıklığı ile kaotik bir telefon düşme sahnesi oluşturmak için storyboard referansları kullanan video istemi.
-
-#### 📝 Prompt
-
-```
-<<<image @1cbc28c8-e2a8-40e8-bfd6-7b3a7db70034 >>> karesinin tamamını birleştirerek bir video oluşturun. Bu, aynı düşüş sırasında arka kameralı bir telefonun yanlışlıkla kayıp düşmesinin subjektif POV'sudur × sürekli dokuz çekim patlaması × başarısız iPhone çekimleri × abartılı geniş açı perspektifi × rastgele dönen kamera pozisyonları, odak dışı, hareket bulanıklığı ve eğik açılar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109421168004308992/img/umxVZ4wHIS6jBsRr.jpg" width="600" alt="Telefon Düşme Kamerası Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12380)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109421569931932075) | **Published:** Oct 11, 2026
-
----
-### Fotoğrafı Sinematik Müzikle Canlandırın
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Özel bir düzenleme istemi: Metin ve öğeler sabit kalsın, fotoğraf canlandırılsın, konuşma sesi kapatılsın ve karanlık sinematik müzik eklensin.
-
-#### 📝 Prompt
-
-```
-Metni olduğu gibi bırakın, her şey aynı kalsın, sadece fotoğrafı canlandırın, konuşma kısmını SESSİZ yapın, konuşmada ses olmasın, karanlık sinematik müzik ekleyin
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109398315070562304/img/0AEiLghFQKtEpR9x.jpg" width="600" alt="Fotoğrafı Sinematik Müzikle Canlandırın">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12376)**
-
-**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2109398357684982123) | **Published:** Oct 11, 2026
-
----
-### Grok Imagine Sheriff Puckerlips Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine tarafından video olarak oluşturulan, Sheriff Puckerlips'in silahlı çatışmaya hazırlandığı bir western sahnesini tanımlayan prompt.
-
-#### 📝 Prompt
-
-```
-Kasabaya yeni bir şerif geldi. O, Şerif Puckerlips. Önünde zorlu bir gün var ve Paulding County'de öğle vaktinde yaşanacak silahlı çatışmaya hazırlanıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109375672866988032/img/kxTsfmC46BCdd6tY.jpg" width="600" alt="Grok Imagine Sheriff Puckerlips Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12373)**
-
-**Author:** [Tony Hammonds](https://x.com/_Walkslowjoe) | **Source:** [Link](https://x.com/_Walkslowjoe/status/2109375981244887120) | **Published:** Oct 11, 2026
-
----
-### Kışın Şık Sincap
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karlı/soğuk bir ortamda sincaba aksesuarlar (silindir şapka, monokl, baston) ekleyen caprice bir istem.
-
-#### 📝 Prompt
-
-```
-Sincap dalda oturuyor soğuk rüzgar tüyleri kabarıyor siyah silindir şapka ekle monokl ekle bakır uçlu siyah baston ekle
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109363087761690625/img/334dJkAENA4s-uSf.jpg" width="600" alt="Kışın Şık Sincap">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12377)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109363162902606212) | **Published:** Oct 11, 2026
-
----
-### Hayvan Sevme Referans Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tüm görselleri modele ileterek bir video referansı oluşturmasını isteyen, muhtemelen hayvanları sevme içerikli bir istem.
-
-#### 📝 Prompt
-
-```
-Göster ve sev. Tüm görselleri modele ileterek bir video referansı oluştur.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109297908067774465/img/3juxQAuA95kE3g5T.jpg" width="600" alt="Hayvan Sevme Referans Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12374)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2109297935100043488) | **Published:** Oct 11, 2026
-
----
-### Grok Imagine Geleneksel Kostüm Değişimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kullanıcının görünümüne göre geleneksel kostümler giydirmesi için Grok Imagine'e yönelik bir istem; muhtemelen referans olarak yüklenen bir fotoğraf kullanılır.
-
-#### 📝 Prompt
-
-```
-Hey grok, bana ait olduğum ülkenin geleneksel kostümünü giydir:
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108982519966076928/img/e301O1ZGUOK47rmG.jpg" width="600" alt="Grok Imagine Geleneksel Kostüm Değişimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12347)**
-
-**Author:** [Melanie](https://x.com/melaniehudnall) | **Source:** [Link](https://x.com/melaniehudnall/status/2108982564610281965) | **Published:** Oct 10, 2026
-
----
-### Tatra Dağları'ndan Büyük Teyze
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, yaklaşık 1906 yılında Polonya'daki Tatra Dağları'ndan konuşan bir büyük teyzeyi tasvir eden bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Hayal edin: Büyük teyzem, yaklaşık 1906 yılında Polonya'daki Tatra Dağları'ndan bize sesleniyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108970357713784832/img/LNQ71Jj5bDa7KAG5.jpg" width="600" alt="Tatra Dağları'ndan Büyük Teyze">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12345)**
-
-**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2108970423698473070) | **Published:** Oct 10, 2026
-
----
-### Ay Renginde Metin Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Siyah arka plan üzerinde spiralli ay rengi metinlerle sahneyi genişletmek için istem.
-
-#### 📝 Prompt
-
-```
-Sahneyi genişletin ve şu kelimeleri göstermeye başlayın: Birlikte…yapabiliriz! Kelimelerin spiral şeklinde dönmesini sağlayın ve siyah bir arka plan üzerinde, ay renklerinde güzel bir yazı tipiyle görünsün.
-
-Köpeğimi çok seviyorum! Adı LANIE!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108915631709880320/img/OS8RS_ELfDi8d-ut.jpg" width="600" alt="Ay Renginde Metin Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12342)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2108915671929328037) | **Published:** Oct 10, 2026
-
----
-### Beyaz Çikolata POV Etkileşimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, bir kadının beyaz çikolata yediği ve izleyiciye beslediği birinci şahıs perspektifli etkileşimi içeren detaylı bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Beyaz çikolatayı ye tatlım, beyaz çikolata dudaklarına değince ısırığın tadını çıkar, dişlerine doğru çek, sonra çiğnerken poşetten bir tane daha al ve POV'daki adamın tam olarak aynı eline koy, Mm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108861691656097792/img/lwJhxL9DH6rEcXoB.jpg" width="600" alt="Beyaz Çikolata POV Etkileşimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12346)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **Published:** Oct 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2541,6 +2504,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-20T04:37:44.723Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-20T13:44:40.111Z</sub>
 
 </div>

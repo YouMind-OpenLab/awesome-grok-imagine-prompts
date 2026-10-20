@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3148** |
+| 📝 Total Prompts | **3160** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-20** |
 
@@ -189,6 +189,198 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ฉากธรรมชาติยามพระอาทิตย์ขึ้น
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่บรรยายภาพพระอาทิตย์ขึ้นเหนือภูเขา มีกวางกระโดดและนกส่งเสียงร้อง
+
+#### 📝 Prompt
+
+```
+❤️🇺🇸🌏
+
+ดวงอาทิตย์ค่อยๆ โผล่พ้นยอดเขา แสงทองสาดส่องผ่านทิวสน เสียงนกร้องขับขานรับวันใหม่ กวางหนุ่มและกวางสาวกระโจนข้ามโขดหินอย่างคล่องแคล่ว แล้ววิ่งหายลับเข้าไปในผืนป่า
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112422436566425600/img/igFEX3DPb1fsem8L.jpg" width="600" alt="ฉากธรรมชาติยามพระอาทิตย์ขึ้น">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12795)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2112422511124332928) | **Published:** Oct 20, 2026
+
+---
+### วิดีโอการจราจรท่าอวกาศยานในอนาคต
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสำหรับสร้างฉากท่าอวกาศยานในสไตล์ของศิลปิน Kendreik ซึ่งแสดงภาพการจราจรไปยังดวงจันทร์ในอนาคต
+
+#### 📝 Prompt
+
+```
+จากข้อมูลของศิลปิน kendreik @kendreik ผู้สร้างสรรค์วิดีโอเกี่ยวกับ spaceport โดยวิดีโอล่าสุดที่เผยแพร่เมื่อ 2 เดือนก่อน ได้จำลองภาพของ spaceport และการเดินทางในอวกาศในอนาคต ทั้งการเดินทางสู่อวกาศและไปยังดวงจันทร์
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112350647458680832/img/_Ey09YjuJAQ21mx2.jpg" width="600" alt="วิดีโอการจราจรท่าอวกาศยานในอนาคต">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12797)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2112350668766011750) | **Published:** Oct 20, 2026
+
+---
+### การจราจรที่ท่าอวกาศยานพร้อมรถ Tesla Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโออย่างละเอียดสำหรับฉากท่าอวกาศยานแห่งอนาคตที่โดดเด่นด้วยถนนคดเคี้ยว รถ Tesla Roadster และบรรยากาศที่มีชีวิตชีวา
+
+#### 📝 Prompt
+
+```
+แสดงให้เห็นถึงบรรยากาศการจราจรภายในท่าอวกาศยานแห่งนี้ ที่มีถนนทอดคดเคี้ยวขึ้นไปสู่เมืองด้านบน โดยมี Tesla Roadster รุ่นใหม่ขับมุ่งหน้าขึ้นไปยังจุดสูงสุดของเมือง ถนนสายนี้เปี่ยมไปด้วยชีวิตชีวา และเต็มไปด้วยบรรยากาศที่อุดมด้วยออกซิเจนเพื่อให้ผู้คนได้หายใจอย่างเต็มปอด
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112348654698635264/img/C-h7uSEh_YcO9tLX.jpg" width="600" alt="การจราจรที่ท่าอวกาศยานพร้อมรถ Tesla Roadster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12796)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2112348687657521352) | **Published:** Oct 20, 2026
+
+---
+### Grok Imagine RGB แพนธีออน ตำนานเทพปกรณัม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ภาพประกอบและวิดีโอเทพปกรณัมสุดอลังการ นำเสนอเทพดิจิทัลแห่งสีหลักในห้วงจักรวาล
+
+#### 📝 Prompt
+
+```
+สร้างภาพประกอบเทพนิยายสุดยิ่งใหญ่ตระการตาของ RGB Pantheon เทพเจ้าดิจิทัลโบราณแห่งแม่สี ในห้วงอวกาศดิจิทัลอันกว้างใหญ่ที่เต็มไปด้วยลำแสงนีออนสีแดง เขียว และน้ำเงินลอยล่อง วิหารคริสตัล และลูกแก้ว RGB เรืองแสง ตรงกลาง...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112343317006729216/img/mN-4edjzYM5xIQIo.jpg" width="600" alt="Grok Imagine RGB แพนธีออน ตำนานเทพปกรณัม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12803)**
+
+**Author:** [Christopher Kulbida](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2112343610943476076) | **Published:** Oct 20, 2026
+
+---
+### Grok Imagine Prompt: เพิ่มม้าและจ๊อกกี้ตัวอื่น
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์วิดีโอสั้นที่สั่งให้ Grok Imagine สร้างวิดีโอใหม่จากภาพโดยเพิ่มม้าและจ๊อกกี้ตัวอื่น
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอใหม่จากภาพที่ให้มาโดยใช้พรอมต์นี้: "Add other horses and jockeys too" พร้อมตั้งค่าดังนี้: 480p, 10s
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112331735006629888/img/IAGxVzDEnHP9KWap.jpg" width="600" alt="Grok Imagine Prompt: เพิ่มม้าและจ๊อกกี้ตัวอื่น">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12804)**
+
+**Author:** [ブラフマー🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2112331777843052899) | **Published:** Oct 19, 2026
+
+---
+### แมวจ่ายค่าอาหารให้ชิห์สุ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอตลกที่แมวส่งบัตรเครดิตให้สุนัขชิห์สุ แล้วชิห์สุถามรหัส PIN
+
+#### 📝 Prompt
+
+```
+ให้แมวหยิบบัตรเครดิตออกมาแล้วยื่นให้คุณชิสุ จากนั้นให้ชิสุถามว่า "คุณซิมบ้า มีรหัส PIN ไหมครับ?"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112308018196971520/img/TKe85uU57iMFRR8V.jpg" width="600" alt="แมวจ่ายค่าอาหารให้ชิห์สุ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12802)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2112308141769589093) | **Published:** Oct 19, 2026
+
+---
+### พรอมต์วิดีโอการเปลี่ยนฉากแบบไดนามิก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอจากภาพ โดยมีการเปลี่ยนสี การเปลี่ยนฉากจากห้องนอนไปยังทุ่งนา และการเปลี่ยนชุด
+
+#### 📝 Prompt
+
+```
+นำรูปภาพไปใช้ โดยให้ข้อความเหล่านี้เป็นคำอธิบายสำหรับวิดีโอ เพิ่มเอฟเฟกต์สีหมุนวน เปลี่ยนฉากจากห้องนอนเป็นทุ่งหญ้าบนผ้าปูแบบตารางหมากรุกสีขาวดำ เปลี่ยนชุดเป็นเสื้อเบลาส์สีเหลืองอ่อนโทนน้ำแข็ง กางเกงยีนส์ ....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112303122706006016/img/9PT99EU-Fmoydhjg.jpg" width="600" alt="พรอมต์วิดีโอการเปลี่ยนฉากแบบไดนามิก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12798)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112303166528389334) | **Published:** Oct 19, 2026
+
+---
+### สนามฟุตบอลบนยานอวกาศ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบละเอียดสำหรับแมตช์ฟุตบอลภายในสนามกีฬาบนยานอวกาศขนาดมหึมาที่มีโดมแก้วมองเห็นโลก
+
+#### 📝 Prompt
+
+```
+วิดีโอความยาว 15 วินาที ความละเอียด 720p ถ่ายทอดการแข่งขันฟุตบอลในสนามกีฬาบนยานอวกาศขนาดมหึมาที่มีโดมกระจก มองลงมาเห็นโลก....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112296155027501056/img/Jp7p4SWZg-hPXNYE.jpg" width="600" alt="สนามฟุตบอลบนยานอวกาศ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12794)**
+
+**Author:** [Starship](https://x.com/starship_river) | **Source:** [Link](https://x.com/starship_river/status/2112296207879954695) | **Published:** Oct 19, 2026
+
+---
+### Grok Imagine Video Prompt: ฉาก Tesla Flying Car
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงภาพยนตร์ที่อธิบายรถ Tesla สีขาวเลี้ยวหน้าตรงและบินขึ้นอย่างนุ่มนวลท่ามกลางท้องฟ้าสีส้มสดใส ก่อนกลับลงสู่ถนนอีกครั้ง
+
+#### 📝 Prompt
+
+```
+ใส่ภาพท้องฟ้าสีส้มสดใสราวกับแสงแดด นี่คือที่ไหนกันนะ รถ Tesla สีขาวที่เห็นอยู่ด้านหน้า ค่อยๆ ลอยตัวขึ้นอย่างนุ่มนวล แล้วหลังจากนั้นก็กลับลงมาสู่พื้นถนนอีกครั้ง....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112251123998281728/img/mnIq8yKuxqD4CLQl.jpg" width="600" alt="Grok Imagine Video Prompt: ฉาก Tesla Flying Car">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12799)**
+
+**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2112251138145951830) | **Published:** Oct 19, 2026
+
+---
+### Grok Imagine การแปลงร่างซูเปอร์คาร์เป็นหุ่นยนต์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอคุณภาพสูงที่อธิบายการแปลงร่างของซูเปอร์คาร์สีดำสุดล้ำสมัยให้กลายเป็นนักรบหุ่นยนต์ในเมืองนีออน
+
+#### 📝 Prompt
+
+```
+ซูเปอร์คาร์สีดำดีไซน์ล้ำยุคพุ่งทะยานผ่านมหานครที่สว่างไสวด้วยแสงนีออนในยามค่ำคืน ก่อนจะเบรกกะทันหันบนทางหลวงเปียกชื้น ฝากระโปรงหน้าแยกออกเป็นเกราะอก ส่วนล้อหมุนขึ้นไปประกอบเป็นไหล่ พร้อมชิ้นส่วนไฮดรอลิกนับร้อยที่กางออกตามลำดับกลไกอันแม่นยำ รถค่อยๆ ยกระดับขึ้นกลายเป็นหุ่นยนต์นักรบขนาดมหึมาที่มีดวงตาสีฟ้าเปล่งประกาย ขณะที่ไอน้ำพวยพุ่งออกมาจากชุดเกราะ หุ่นยนต์ก้าวเท้าไปข้างหน้าอย่างทรงพลัง ในขณะที่กล้องหมุนวนรอบตัวแบบ 360 องศาอย่างน่าตื่นตาตื่นใจ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112218406913282051/img/p2l0BCI_PrQVlPrl.jpg" width="600" alt="Grok Imagine การแปลงร่างซูเปอร์คาร์เป็นหุ่นยนต์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12801)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112218502107205691) | **Published:** Oct 19, 2026
+
+---
 ### การขยายแสงแห่งปีกนางฟ้า
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +398,44 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12744)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **Published:** Oct 19, 2026
+
+---
+### Grok Imagine ถ่ายภาพโดรนในสไตล์ภาพวาดทิวทัศน์จีน
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> พรอมต์สำหรับสร้างวิดีโอด้วย Grok Imagine นำเสนอการถ่ายทำแบบโดรนแนวตั้งที่บินผ่านภาพวาดทิวทัศน์สไตล์จีนสีน้ำเงิน-เขียวที่มีชีวิตชีวา โดยได้รับแรงบันดาลใจจากม้วนภาพวาดสมัยราชวงศ์ซ่งของหวัง ซิเมิง
+
+#### 📝 Prompt
+
+```
+ภาพมุมสูงจากโดรนแบบภาพยนตร์ เคลื่อนที่ไปข้างหน้าภายในภาพวาดทิวทัศน์จีนสีฟ้า-เขียวที่มีชีวิตชีวา ในสไตล์ม้วนภาพ "A Thousand Li of Rivers and Mountains" สมัยราชวงศ์ซ่งของ Wang Ximeng: ยอดเขาสูงตระหง่านที่ระบายด้วยสีน้ำเงินอะซูไรต์และสีเขียวมาลาไคต์ เมฆหมอกบางเบาลอยล่องอยู่ระหว่างขุนเขา ต้นสนกิ่งก้านบิดโค้ง ศาลาและเรือลำเล็ก ๆ บนแม่น้ำ แสงสีทองสาดส่องผ่านสายหมอก พื้นผิวลายพู่กันหมึกจีนผสานเข้ากับมิติความลึกที่สมจริง การเคลื่อนไหวช้า ๆ อย่างสง่างาม บรรยากาศเหนือจริง รายละเอียดสูง ความละเอียดระดับ 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111994510440030208/img/kxhx0uIqj_goWPDR.jpg" width="600" alt="Grok Imagine ถ่ายภาพโดรนในสไตล์ภาพวาดทิวทัศน์จีน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12805)**
+
+**Author:** [Jerry Dai| 顺天](https://x.com/shuntian2026) | **Source:** [Link](https://x.com/shuntian2026/status/2111996041906307225) | **Published:** Oct 19, 2026
+
+---
+### วิดีโอ Grok Imagine Cinematic Clock
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่ละเอียด แสดงภาพชายเหนื่อยล้าที่โต๊ะทำงาน ขณะนาฬิกาบอกเวลา 8:00 น. พอดี
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอแนวภาพยนตร์ความยาว 6 วินาที: ชายที่ดูเหนื่อยล้านั่งอยู่ที่โต๊ะทำงาน แล้วเงยหน้ามองนาฬิกาแขวนผนังแบบอนาล็อกที่บอกเวลา 7:59:58 ภาพโคลสอัพขณะที่เข็มวินาทีเดินไปสองจังหวะและนาฬิกาบอกเวลา 8:00 น. พอดี โดยเข็มนาทีชี้ที่เลข 12 และเข็มชั่วโมงชี้ที่เลข 8 เมื่อ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111949764417724416/img/duft5ue13wvfclvH.jpg" width="600" alt="วิดีโอ Grok Imagine Cinematic Clock">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12800)**
+
+**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2111949821171155240) | **Published:** Oct 18, 2026
 
 ---
 ### วิดีโอ Elon Musk ขับ Tesla ในนิวยอร์ก
@@ -2227,290 +2457,6 @@ Cinematic POV: การนั่งรถไฟเหาะแบบบุค�
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109544110919164271) | **Published:** Oct 12, 2026
 
 ---
-### วิดีโอเซลฟี่หัวเราะร้องไห้ด้วยความโกรธ
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์วิดีโอแบบละเอียดสำหรับสร้างวิดีโอเซลฟี่แนวตั้งสมจริงความยาว 12 วินาที ของผู้หญิงที่หัวเราะและร้องไห้ด้วยความโกรธ โดยระบุรายละเอียดเกี่ยวกับสีหน้า การเคลื่อนไหวของกล้อง และเสียงประกอบ
-
-#### 📝 Prompt
-
-```
-[Task]
-Generate a 12-second, 9:16 vertical realistic smartphone selfie video. Replicate the lying-on-bed composition, action sequence, mixed laughing/crying expressions, and rhythm of the reference video 'Stomach Ache from Anger', replacing the original character with a specified adult female.
-
-[Reference Division and Character Locking]
-Lock the facial features, proportions, and long black hair to the female face reference image @0ba07db1-974c-467d-80dc-d9dffddac0ba; do not inherit the male appearance from the original video.
-Lock clothing and body proportions to the reference image @8149c66e-9a91-4b88-bf26-d0a764075ccf; wear the clothing completely.
-Lock glasses to the silver decorative glasses reference image @d80c71c5-d330-4baf-8ecf-8b793ee0fee8: thin silver metal wire, open curved lower eye frames, transparent nose pads, small bow metal coils near the bridge of the nose, one hanging flower on each side. Temple arms rest normally on ears, both eyes clearly visible. Glasses worn throughout, do not turn into ordinary thick-framed glasses, no display stands appear.
-The original video only locks performance, selfie angle, actions, and rhythm.
-Do not inherit the falling shot from the previous nine-grid.
-
-[Scene and Shooting]
-She lies supine on a white bed, head on a white pillow, long hair naturally spread out.
-Left hand holds the phone off-screen, front camera located about 40cm above the face, shooting down at the face, shoulders, and upper body. The face occupies the main subject of the frame.
-Right hand can reach the bottom edge of the screen to press the abdomen.
-One continuous take throughout, the lens only shakes slightly with the holding hand, breathing, and shoulder tremors. Natural bedroom light, ordinary smartphone native quality, realistic skin texture, no beauty filters.
-
-[Strict Timing and Performance]
-0–2.8 seconds:
-Opens immediately in a state of angry laughter and tears. Her brows are tightly furrowed, eyes squeezed shut, corners of mouth pulled horizontally, intermittently emitting "Hahaha... ah... haha".
-Laughter carries grievance and anger, shoulders tremble lightly, head moves slightly on the pillow.
-Silver flower pendants sway gently with head movements, nose pads and temple arms remain fitted to the face.
-2.8–5.8 seconds:
-She stops to inhale, barely opens her eyes to look at the phone screen, brows still furrowed, corners of mouth turned down, speaking with anger and grievance:
-"Family, I'm so angry my stomach hurts."
-When saying the second half, right hand presses abdomen, head turns to one side, eyes squeeze shut again. Phone shakes slightly with body tremors, face remains clearly readable.
-5.8–9.3 seconds:
-She tries to catch her breath but emits broken "Hahaha... ah..." again.
-Mouth opens, briefly purses, then opens again, showing a reaction wanting to laugh and cry simultaneously. Brows squeeze tight, nostrils move slightly, chin trembles, occasionally showing teeth.
-Head returns from sideways position to center of pillow, right hand continues pressing abdomen. Glasses move with head, flower pendants sway naturally.
-9.3–12 seconds:
-She briefly opens eyes looking at screen, says angrily:
-"I'm furious."
-After speaking, closes eyes, wrinkles nose, reveals mixed laughing/crying expression, ending with a short bitter laugh and exhale.
-Always stays lying in place, does not sit up, no additional plot added.
-
-[Audio]
-Natural adult female voice, close-range smartphone recording, lip sync with dialogue.
-Laughter carries grievance and anger, shoulders tremble lightly, head moves slightly on the pillow.
-Silver flower pendants sway gently with head movements, nose pads and temple arms remain fitted to the face.
-2.8–5.8 seconds:
-She stops to inhale, barely opens her eyes to look at the phone screen, brows still furrowed, corners of mouth turned down, speaking with anger and grievance:
-"Family, I'm so angry my stomach hurts."
-When saying the second half, right hand presses abdomen, head turns to one side, eyes squeeze shut again. Phone shakes slightly with body tremors, face remains clearly readable.
-5.8–9.3 seconds:
-She tries to catch her breath but emits broken "Hahaha... ah..." again.
-Mouth opens, briefly purses, then opens again, showing a reaction wanting to laugh and cry simultaneously. Brows squeeze tight, nostrils move slightly, chin trembles, occasionally showing teeth.
-Head returns from sideways position to center of pillow, right hand continues pressing abdomen. Glasses move with head, flower pendants sway naturally.
-9.3–12 seconds:
-She briefly opens eyes looking at screen, says angrily:
-"I'm furious."
-After speaking, closes eyes, wrinkles nose, reveals mixed laughing/crying expression, ending with a short bitter laugh and exhale.
-Always stays lying in place, does not sit up, no additional plot added.
-
-[Audio]
-Natural adult female voice, close-range smartphone recording, lip sync with dialogue.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109433100203589632/img/kqt_Zl2fK-5Wtkri.jpg" width="600" alt="วิดีโอเซลฟี่หัวเราะร้องไห้ด้วยความโกรธ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12379)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109494015062110399) | **Published:** Oct 12, 2026
-
----
-### พรอมต์วิดีโอ Grok Imagine: ศิลปะเล็บธีมวันเกิด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอของเด็กหญิงตัวน้อยที่ทาสีเล็บลายธีมวันเกิด รวมถึงจระเข้ตัวเล็กแบบเคลื่อนไหวได้
-
-#### 📝 Prompt
-
-```
-เด็กหญิงวัยสามขวบต้องการให้ทาสีเล็บลายธีมวันเกิด จระเข้ตัวน้อยต้องดูมีชีวิตชีวาและคงลักษณะเดิมไว้
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109467396356333568/img/mxduTNzHpiJORZTu.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine: ศิลปะเล็บธีมวันเกิด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12442)**
-
-**Author:** [Cole Adams](https://x.com/ColeAdams777) | **Source:** [Link](https://x.com/ColeAdams777/status/2109467582981976366) | **Published:** Oct 12, 2026
-
----
-### วิดีโอโปรโมทเซลฟี่แบบแอนิเมชัน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt รายละเอียดสำหรับการสร้างแอนิเมชันแบบ subtil ของผู้หญิงที่ยิ้มและขยับตัวเล็กน้อย จำลองวิดีโอเซลฟี่พร้อมข้อความ/โลโก้ที่อยู่นิ่ง เหมาะสำหรับสตอรี่บนโซเชียลมีเดีย
-
-#### 📝 Prompt
-
-```
-แอนิเมชันธรรมชาติแบบ subtil ของผู้หญิงที่ยิ้มและขยับผมกับร่างกายเล็กน้อยเหมือนในวิดีโอเซลฟี่ กล้องส่ายเบาๆ ข้อความและโลโก้อยู่นิ่งและคมชัด ให้ความรู้สึกโปรโมทระดับมืออาชีพสำหรับสตอรี่บนโซเชียลมีเดีย แสงอบอุ่น คุณภาพสูง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109422528821121024/img/GLnA7gcisWnJMY26.jpg" width="600" alt="วิดีโอโปรโมทเซลฟี่แบบแอนิเมชัน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12375)**
-
-**Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2109422558110249320) | **Published:** Oct 11, 2026
-
----
-### วิดีโอโทรศัพท์ตกพื้น
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์วิดีโอที่ใช้ภาพอ้างอิงแบบสตอรี่บอร์ดเพื่อสร้างลำดับเหตุการณ์ที่วุ่นวายเมื่อโทรศัพท์หลุดมือ พร้อมเอฟเฟกต์เลนส์มุมกว้างบิดเบี้ยวและเบลอจากการเคลื่อนไหว
-
-#### 📝 Prompt
-
-```
-รวมทุกเฟรมของ <<<image @1cbc28c8-e2a8-40e8-bfd6-7b3a7db70034 >>> เพื่อสร้างเป็นวิดีโอ เป็นมุมมองบุคคลที่หนึ่ง (POV) ของโทรศัพท์ด้านหลังเครื่องที่ลื่นหลุดมือและตกลงพื้น × ถ่ายต่อเนื่อง 9 ช็อตในจังหวะเดียวกันขณะตก × ภาพ iPhone ที่ถ่ายไม่ติดหลายครั้ง × มุมมองเลนส์มุมกว้างเกินจริง × ตำแหน่งกล้องหมุนสุ่ม ไม่โฟกัส เบลอจากการเคลื่อนไหว และเอียงผิดรูป
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109421168004308992/img/umxVZ4wHIS6jBsRr.jpg" width="600" alt="วิดีโอโทรศัพท์ตกพื้น">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12380)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109421569931932075) | **Published:** Oct 11, 2026
-
----
-### เปลี่ยนภาพนิ่งเป็นวิดีโอพร้อมดนตรีสไตล์ภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งแก้ไขเฉพาะ: คงข้อความและองค์ประกอบให้อยู่นิ่ง, ทำให้อนิเมชั่นเฉพาะในส่วนของภาพถ่าย, ปิดเสียงพูด และเพิ่มเพลงประกอบสไตล์มืดแบบภาพยนตร์
-
-#### 📝 Prompt
-
-```
-คงข้อความไว้เหมือนเดิม ทุกอย่างเหมือนเดิม เพียงแค่ทำให้อนิเมชั่นในส่วนภาพถ่าย, MUTE (ปิดเสียง) ส่วนการพูด, ไม่ให้มีเสียงพูด, เพิ่มเพลงประกอบสไตล์มืดแบบภาพยนตร์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109398315070562304/img/0AEiLghFQKtEpR9x.jpg" width="600" alt="เปลี่ยนภาพนิ่งเป็นวิดีโอพร้อมดนตรีสไตล์ภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12376)**
-
-**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2109398357684982123) | **Published:** Oct 11, 2026
-
----
-### ฉากเชอรีฟพัคเกอร์ลิปส์ใน Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์อธิบายฉากตะวันตกของเชอรีฟพัคเกอร์ลิปส์ที่เตรียมตัวสำหรับการดวลปืน ซึ่งสร้างเป็นวิดีโอโดย Grok Imagine
-
-#### 📝 Prompt
-
-```
-มีเชอรีฟคนใหม่มาถึงเมือง เขาคือเชอรีฟพัคเกอร์ลิปส์ วันเลวร้ายกำลังจะมาถึง และเขากำลังเตรียมตัวสำหรับการดวลปืนตอนเที่ยงวันในเคาน์ตีพอลดิง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109375672866988032/img/kxTsfmC46BCdd6tY.jpg" width="600" alt="ฉากเชอรีฟพัคเกอร์ลิปส์ใน Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12373)**
-
-**Author:** [Tony Hammonds](https://x.com/_Walkslowjoe) | **Source:** [Link](https://x.com/_Walkslowjoe/status/2109375981244887120) | **Published:** Oct 11, 2026
-
----
-### กระรอกสุดเท่ในฤดูหนาว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างสรรค์ที่เพิ่มอุปกรณ์เสริม (หมวกทรงสูง, แว่นตาโมโนเคิล, ไม้เท้า) ให้กับกระรอกในฉากหิมะหรือสภาพอากาศหนาวเย็น
-
-#### 📝 Prompt
-
-```
-กระรอกนั่งอยู่บนกิ่งไม้ ลมหนาวพัดผ่าน ขนฟูขึ้น เพิ่มหมวกทรงสูงสีดำ แว่นตาโมโนเคิล และไม้เท้าสีดำปลายทองแดง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109363087761690625/img/334dJkAENA4s-uSf.jpg" width="600" alt="กระรอกสุดเท่ในฤดูหนาว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12377)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109363162902606212) | **Published:** Oct 11, 2026
-
----
-### วิดีโออ้างอิงการลูบสัตว์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่สั่งให้โมเดลสร้างวิดีโออ้างอิงโดยส่งภาพทั้งหมดเข้าโมเดล ซึ่งมักเกี่ยวข้องกับการลูบสัตว์
-
-#### 📝 Prompt
-
-```
-แสดงและลูบสัตว์ สร้างวิดีโออ้างอิงโดยส่งภาพทั้งหมดเข้าโมเดล
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109297908067774465/img/3juxQAuA95kE3g5T.jpg" width="600" alt="วิดีโออ้างอิงการลูบสัตว์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12374)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2109297935100043488) | **Published:** Oct 11, 2026
-
----
-### สลับชุดประจำชาติด้วย Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Grok Imagine เพื่อสวมใส่ชุดประจำชาติตามลักษณะของผู้ใช้ โดยอาจใช้รูปภาพที่อัปโหลดเป็นอ้างอิง
-
-#### 📝 Prompt
-
-```
-Hey grok ช่วยแต่งตัวฉันในชุดประจำชาติของประเทศที่ฉันดูเหมือนมาจาก:
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108982519966076928/img/e301O1ZGUOK47rmG.jpg" width="600" alt="สลับชุดประจำชาติด้วย Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12347)**
-
-**Author:** [Melanie](https://x.com/melaniehudnall) | **Source:** [Link](https://x.com/melaniehudnall/status/2108982564610281965) | **Published:** Oct 10, 2026
-
----
-### คุณทวดจากเทือกเขาทาตรา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอด้วย Grok Imagine ที่แสดงภาพคุณทวดพูดจากเทือกเขาทาตราในโปแลนด์ ประมาณปี ค.ศ. 1906
-
-#### 📝 Prompt
-
-```
-ลองจินตนาการถึงคุณทวดของผม กำลังพูดกับเราจากเทือกเขาทาตราในโปแลนด์ ประมาณปี ค.ศ. 1906
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108970357713784832/img/LNQ71Jj5bDa7KAG5.jpg" width="600" alt="คุณทวดจากเทือกเขาทาตรา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12345)**
-
-**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2108970423698473070) | **Published:** Oct 10, 2026
-
----
-### Moon Colored Text Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับขยายฉากให้แสดงข้อความสีพระจันทร์หมุนวนบนพื้นหลังสีดำ
-
-#### 📝 Prompt
-
-```
-Extend and have the scene turn to display the words:  Together…we can!  Make the words spiral and be on a black background with beautiful text in the colors of the moon.
-
-I love my dog!  Her name is LANIE!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108915631709880320/img/OS8RS_ELfDi8d-ut.jpg" width="600" alt="Moon Colored Text Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12342)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2108915671929328037) | **Published:** Oct 10, 2026
-
----
-### ปฏิสัมพันธ์ช็อกโกแลตขาวในมุมมองบุคคลที่หนึ่ง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโออย่างละเอียดสำหรับ Grok Imagine ที่จำลองการโต้ตอบในมุมมองบุคคลที่หนึ่ง (POV) โดยผู้หญิงกินช็อกโกแลตขาวและป้อนให้ผู้ที่รับชม
-
-#### 📝 Prompt
-
-```
-กินช็อกโกแลตขาวของคุณสิ ที่รัก สัมผัสรสชาติเมื่อช็อกโกแลตขาวแตะริมฝีปากของคุณ ดึงมันเข้าหาฟันของคุณ จากนั้นขณะเคี้ยว ให้หยิบอีกชิ้นจากถุงแล้ววางลงบนมือของชายในมุมมอง POV ในตำแหน่งเดียวกันเป๊ะ อืม
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108861691656097792/img/lwJhxL9DH6rEcXoB.jpg" width="600" alt="ปฏิสัมพันธ์ช็อกโกแลตขาวในมุมมองบุคคลที่หนึ่ง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12346)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **Published:** Oct 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2572,6 +2518,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-20T04:37:33.794Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-20T13:44:32.286Z</sub>
 
 </div>

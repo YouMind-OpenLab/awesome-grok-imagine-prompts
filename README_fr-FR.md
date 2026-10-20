@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3148** |
+| 📝 Total Prompts | **3160** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-20** |
 
@@ -189,6 +189,198 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Scène de nature au lever du soleil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt vidéo décrivant un lever de soleil sur des montagnes, avec des cerfs qui bondissent et des oiseaux qui chantent.
+
+#### 📝 Prompt
+
+```
+❤️🇺🇸🌏
+
+Le soleil se lève sur les montagnes, les pins, le chant des oiseaux ; un cerf et une biche bondissent par-dessus les rochers et s'élancent dans la forêt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112422436566425600/img/igFEX3DPb1fsem8L.jpg" width="600" alt="Scène de nature au lever du soleil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12795)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2112422511124332928) | **Published:** Oct 20, 2026
+
+---
+### Vidéo du trafic spatial futuriste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite vidéo demandant de créer une scène d'espaceport dans le style de l'artiste Kendreik, illustrant le trafic futuriste vers la Lune.
+
+#### 📝 Prompt
+
+```
+Selon l'artiste kendreik @kendreik, auteur de vidéos de spatioports, des vidéos récentes datant de 2 mois permettent de créer une vidéo d'un spatioport et du trafic spatial futur vers l'espace et la Lune.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112350647458680832/img/_Ey09YjuJAQ21mx2.jpg" width="600" alt="Vidéo du trafic spatial futuriste">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12797)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2112350668766011750) | **Published:** Oct 20, 2026
+
+---
+### Trafic de l'espaceport avec des Tesla Roadsters
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo détaillé pour une scène futuriste d'espaceport, mettant en vedette des routes sinueuses, des Tesla Roadsters et une atmosphère dynamique.
+
+#### 📝 Prompt
+
+```
+Découvrez le trafic à l'intérieur de ce spatioport : des routes sinueuses permettent aux nouvelles Tesla Roadster de grimper jusqu'à la ville haute, tandis que les voies sont dotées d'une atmosphère riche en oxygène et pleine de vie pour les habitants.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112348654698635264/img/C-h7uSEh_YcO9tLX.jpg" width="600" alt="Trafic de l'espaceport avec des Tesla Roadsters">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12796)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2112348687657521352) | **Published:** Oct 20, 2026
+
+---
+### Grok Imagine RGB Panthéon Mythologique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo/illustration épique de mythologie mettant en scène des dieux numériques des couleurs primaires dans un vide cosmique.
+
+#### 📝 Prompt
+
+```
+Créez une illustration mythologique épique et grandiose du Panthéon RGB, les anciens dieux numériques des couleurs primaires. Dans un vaste vide numérique cosmique peuplé de rayons lumineux néon rouges, verts et bleus flottants, de temples cristallins et d'orbes RGB luminescents. Le centra...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112343317006729216/img/mN-4edjzYM5xIQIo.jpg" width="600" alt="Grok Imagine RGB Panthéon Mythologique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12803)**
+
+**Author:** [Christopher Kulbida](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2112343610943476076) | **Published:** Oct 20, 2026
+
+---
+### Prompt Grok Imagine : Ajouter d'autres chevaux et jockeys
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt vidéo court demandant à Grok Imagine de générer une nouvelle vidéo à partir d'une image en ajoutant d'autres chevaux et jockeys.
+
+#### 📝 Prompt
+
+```
+Génère-moi une nouvelle vidéo à partir de l'image fournie en utilisant ce prompt : « Ajoute aussi d'autres chevaux et jockeys » avec les paramètres suivants : 480p, 10s.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112331735006629888/img/IAGxVzDEnHP9KWap.jpg" width="600" alt="Prompt Grok Imagine : Ajouter d'autres chevaux et jockeys">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12804)**
+
+**Author:** [ブラフマー🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2112331777843052899) | **Published:** Oct 19, 2026
+
+---
+### Chat payant un Shih Tzu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite vidéo humoristique où un chat tend une carte de crédit à un Shih Tzu qui demande le code PIN.
+
+#### 📝 Prompt
+
+```
+Faites sortir une carte de crédit par le chat et remettez-la au Shih Tzu. Faites demander au Shih Tzu : y a-t-il un code PIN, M. Simba ?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112308018196971520/img/TKe85uU57iMFRR8V.jpg" width="600" alt="Chat payant un Shih Tzu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12802)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2112308141769589093) | **Published:** Oct 19, 2026
+
+---
+### Prompt Vidéo pour Transition Dynamique de Scène
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour créer une vidéo à partir d'une image, mettant en scène des changements de couleurs, une transition de la chambre au champ et des changements de tenue.
+
+#### 📝 Prompt
+
+```
+Prenez l'image et utilisez les mots comme description pour la vidéo, ajoutez des couleurs tourbillonnantes, remplacez la chambre par un champ avec une couverture à carreaux noirs et blancs, changez la tenue pour un chemisier jaune glace clair et un jean...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112303122706006016/img/9PT99EU-Fmoydhjg.jpg" width="600" alt="Prompt Vidéo pour Transition Dynamique de Scène">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12798)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112303166528389334) | **Published:** Oct 19, 2026
+
+---
+### Stade de Football du Vaisseau Spatial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt vidéo détaillé pour un match de football dans un immense stade spatial avec une coupole en verre surplombant la Terre.
+
+#### 📝 Prompt
+
+```
+Vidéo de 15 s en 720p d'un match de football dans un immense stade-vaisseau spatial doté d'un dôme en verre offrant une vue plongeante sur la Terre...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112296155027501056/img/Jp7p4SWZg-hPXNYE.jpg" width="600" alt="Stade de Football du Vaisseau Spatial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12794)**
+
+**Author:** [Starship](https://x.com/starship_river) | **Source:** [Link](https://x.com/starship_river/status/2112296207879954695) | **Published:** Oct 19, 2026
+
+---
+### Prompt vidéo Grok Imagine : Scène de voiture volante Tesla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique décrivant une voiture Tesla blanche qui se tourne de face et s'envole doucement dans un ciel orange vif avant de revenir sur la route.
+
+#### 📝 Prompt
+
+```
+Inclure un ciel ensoleillé d'un orange éclatant, où cela se passe-t-il. Une Tesla blanche vue de face qui s'envole doucement, puis retombe délicatement sur la route....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112251123998281728/img/mnIq8yKuxqD4CLQl.jpg" width="600" alt="Prompt vidéo Grok Imagine : Scène de voiture volante Tesla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12799)**
+
+**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2112251138145951830) | **Published:** Oct 19, 2026
+
+---
+### Grok Imagine : Transformation de Supercar Robot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo de haute qualité décrivant la transformation d'une supercar noire futuriste en guerrier robotique dans une ville néon.
+
+#### 📝 Prompt
+
+```
+Une supercar noire futuriste fend la nuit à travers une mégapole baignée de néons, avant de piler brutalement sur une autoroute détrempée. Le capot se scinde en plaques de blindage formant un torse cuirassé, les roues pivotent pour devenir des épaules, et des centaines de composants hydrauliques se déploient dans une chorégraphie mécanique d'une précision millimétrée. La voiture se redresse pour former un guerrier robotique colossal aux yeux bleu incandescent, tandis que des jets de vapeur s'échappent de son armure. Le robot fait un pas puissant vers l'avant pendant que la caméra tourne autour de lui dans un spectaculaire plan à 360 degrés.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112218406913282051/img/p2l0BCI_PrQVlPrl.jpg" width="600" alt="Grok Imagine : Transformation de Supercar Robot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12801)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112218502107205691) | **Published:** Oct 19, 2026
+
+---
 ### Expansion de Lumière des Ailes d'Ange
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +398,44 @@ Un ange déploie ses ailes pour se couvrir jusqu'à ce que sa lumière s'étende
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12744)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **Published:** Oct 19, 2026
+
+---
+### Plan de drone Grok Imagine dans le style de la peinture de paysage chinoise
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt pour la génération vidéo de Grok Imagine, mettant en scène un plan cinématographique vertical par drone survolant une peinture de paysage bleu-vert chinoise vivante, inspirée du rouleau de Wang Ximeng datant de la dynastie Song.
+
+#### 📝 Prompt
+
+```
+Plan de drone cinématographique vertical avançant à l'intérieur d'une peinture de paysage chinoise bleu-vert vivante, dans le style du rouleau de la dynastie Song « A Thousand Li of Rivers and Mountains » de Wang Ximeng : des pics vertigineux peints en bleu azurite et vert malachite, des nuages brumeux dérivant entre les montagnes, des pins aux branches tortueuses, de minuscules pavillons et des embarcations sur les rivières, une lumière dorée filtrant à travers la brume, une texture de lavis à l'encre se mêlant à une profondeur réaliste, mouvement lent et majestueux, atmosphère éthérée, haute définition, résolution 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111994510440030208/img/kxhx0uIqj_goWPDR.jpg" width="600" alt="Plan de drone Grok Imagine dans le style de la peinture de paysage chinoise">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12805)**
+
+**Author:** [Jerry Dai| 顺天](https://x.com/shuntian2026) | **Source:** [Link](https://x.com/shuntian2026/status/2111996041906307225) | **Published:** Oct 19, 2026
+
+---
+### Vidéo Cinématographique Grok Imagine Horloge
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique détaillé montrant un homme fatigué à son bureau alors que l'horloge indique exactement 8h00.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo cinématographique de 6 secondes : un homme fatigué est assis à son bureau et lève les yeux vers une horloge murale analogique affichant 7:59:58. Plan rapproché alors que la trotteuse avance de deux crans et que l'horloge indique exactement 8 h 00, la grande aiguille sur le 12 et la petite sur le 8. À...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111949764417724416/img/duft5ue13wvfclvH.jpg" width="600" alt="Vidéo Cinématographique Grok Imagine Horloge">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12800)**
+
+**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2111949821171155240) | **Published:** Oct 18, 2026
 
 ---
 ### Vidéo d'Elon Musk conduisant une Tesla à New York
@@ -2223,275 +2453,6 @@ En silhouette sombre, une cowgirl et un cowboy courent côte à côte sur une pl
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109544110919164271) | **Published:** Oct 12, 2026
 
 ---
-### Vidéo Selfie : Rire Colérique et Larmes
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt vidéo détaillé pour générer une vidéo selfie réaliste de 12 secondes d'une femme riant et pleurant de colère, spécifiant les expressions, le mouvement de caméra et les détails audio.
-
-#### 📝 Prompt
-
-```
-[Tâche]
-Générer une vidéo selfie réaliste verticale (9:16) de 12 secondes, filmée avec un smartphone. Reproduire la composition allongée sur le lit, la séquence d'actions, l'expression mêlant rire et pleurs, ainsi que le rythme de la vidéo de référence « Mal au ventre de colère », en remplaçant le personnage original par une femme adulte spécifiée.
-
-[Référence et verrouillage du personnage]
-Verrouiller les traits du visage, les proportions et les longs cheveux noirs sur l'image de référence du visage féminin @0ba07db1-974c-467d-80dc-d9dffddac0ba ; ne pas hériter de l'apparence masculine de la vidéo originale.
-Verrouiller les vêtements et les proportions corporelles sur l'image de référence @8149c66e-9a91-4b88-bf26-d0a764075ccf ; porter les vêtements complètement.
-Verrouiller les lunettes sur l'image de référence des lunettes décoratives argentées @d80c71c5-d330-4baf-8ecf-8b793ee0fee8 : monture fine en fil métallique argenté, bas des cerclages oculaires courbes ouverts, plaquettes nasales transparentes, petites bobines métalliques en forme de nœud près de l'arête du nez, une fleur suspendue de chaque côté. Les branches reposent normalement sur les oreilles, les deux yeux sont clairement visibles. Les lunettes sont portées tout au long, ne se transforment pas en lunettes ordinaires à monture épaisse, aucun présentoir n'apparaît.
-La vidéo originale ne verrouille que la performance, l'angle selfie, les actions et le rythme.
-Ne pas hériter de la chute de plan de la grille précédente.
-
-[Scène et prise de vue]
-Elle est allongée sur le dos sur un lit blanc, la tête posée sur un oreiller blanc, ses longs cheveux naturellement étalés.
-La main gauche tient le téléphone hors champ, la caméra frontale située à environ 40 cm au-dessus du visage, cadrant vers le bas sur le visage, les épaules et le haut du corps. Le visage occupe le sujet principal du cadre.
-La main droite peut atteindre le bord inférieur de l'écran pour presser l'abdomen.
-Plan-séquence continu tout au long, l'objectif tremble légèrement avec la main qui tient le téléphone, la respiration et les tremblements des épaules. Lumière naturelle de chambre, qualité native ordinaire du smartphone, texture de peau réaliste, sans filtres de beauté.
-
-[Chronométrage strict et performance]
-0–2,8 secondes :
-Commence immédiatement dans un état de rire colérique et de larmes. Ses sourcils sont fortement froncés, les yeux serrés, les coins de la bouche tirés horizontalement, émettant par intermittence « Hahaha... ah... haha ».
-Le rire porte du ressentiment et de la colère, les épaules tremblent légèrement, la tête bouge légèrement sur l'oreiller.
-Les pendentifs floraux argentés oscillent doucement avec les mouvements de la tête, les plaquettes nasales et les branches restent ajustées au visage.
-2,8–5,8 secondes :
-Elle s'arrête pour inspirer, ouvre à peine les yeux pour regarder l'écran du téléphone, les sourcils toujours froncés, les coins de la bouche tombants, parlant avec colère et ressentiment :
-« Famille, je suis tellement en colère que j'ai mal au ventre. »
-En disant la seconde moitié, la main droite presse l'abdomen, la tête tourne d'un côté, les yeux se serrent à nouveau. Le téléphone tremble légèrement avec les secousses du corps, le visage reste clairement lisible.
-5,8–9,3 secondes :
-Elle essaie de reprendre son souffle mais émet à nouveau des « Hahaha... ah... » hachés.
-La bouche s'ouvre, se serre brièvement, puis s'ouvre à nouveau, montrant une réaction voulant rire et pleurer simultanément. Les sourcils se contractent fort, les narines bougent légèrement, le menton tremble, laissant parfois voir les dents.
-La tête revient de sa position latérale au centre de l'oreiller, la main droite continue de presser l'abdomen. Les lunettes bougent avec la tête, les pendentifs floraux oscillent naturellement.
-9,3–12 secondes :
-Elle ouvre brièvement les yeux en regardant l'écran, dit avec colère :
-« Je suis furieuse. »
-Après avoir parlé, elle ferme les yeux, fronce le nez, révèle une expression mêlant rire et pleurs, finissant avec un court rire amer et une expiration.
-Reste toujours allongée sur place, ne se redresse pas, aucune intrigue supplémentaire ajoutée.
-
-[Audio]
-Voix féminine adulte naturelle, enregistrement proche via smartphone, synchronisation labiale avec le dialogue.
-Rires naturels, voix proche, enregistrement smartphone, lip sync avec le dialogue.
-La voix est celle d'une femme adulte naturelle, enregistrée de près avec un smartphone, avec une synchronisation labiale précise sur le dialogue.
-Le rire porte du ressentiment et de la colère.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109433100203589632/img/kqt_Zl2fK-5Wtkri.jpg" width="600" alt="Vidéo Selfie : Rire Colérique et Larmes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12379)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109494015062110399) | **Published:** Oct 12, 2026
-
----
-### Prompt Grok Imagine Vidéo : Nail Art Anniversaire
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo d'une petite fille se faisant peindre les ongles sur le thème de son anniversaire, incluant un crocodile animé.
-
-#### 📝 Prompt
-
-```
-Une petite fille de trois ans souhaite que ses ongles soient peints sur le thème de l'anniversaire. Faites prendre vie au petit crocodile en conservant l'original.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109467396356333568/img/mxduTNzHpiJORZTu.jpg" width="600" alt="Prompt Grok Imagine Vidéo : Nail Art Anniversaire">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12442)**
-
-**Author:** [Cole Adams](https://x.com/ColeAdams777) | **Source:** [Link](https://x.com/ColeAdams777/status/2109467582981976366) | **Published:** Oct 12, 2026
-
----
-### Vidéo promo selfie animée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour créer une animation subtile d'une femme souriante et légèrement en mouvement, imitant une vidéo selfie avec des textes/logos fixes, adaptée aux stories sur les réseaux sociaux.
-
-#### 📝 Prompt
-
-```
-Animation naturelle subtile de la femme souriant et bougeant légèrement ses cheveux et son corps comme dans une vidéo selfie, léger balancement de caméra, les textes et logos restent fixes et nets, ambiance promo professionnelle pour story sur les réseaux sociaux, éclairage chaud, haute qualité
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109422528821121024/img/GLnA7gcisWnJMY26.jpg" width="600" alt="Vidéo promo selfie animée">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12375)**
-
-**Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2109422558110249320) | **Published:** Oct 11, 2026
-
----
-### Vidéo de chute de téléphone avec caméra
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt vidéo utilisant des références de storyboard pour générer une séquence chaotique de chute de téléphone avec distorsion grand-angle et flou de mouvement.
-
-#### 📝 Prompt
-
-```
-Combinez chaque image de <<<image @1cbc28c8-e2a8-40e8-bfd6-7b3a7db70034 >>> pour créer une vidéo. Il s'agit d'une vue subjective (POV) d'un téléphone à caméra arrière qui glisse accidentellement et tombe × rafale continue de neuf prises pendant la même chute × plusieurs photos iPhone ratées × perspective grand-angle exagérée × positions de caméra en rotation aléatoire, mise au point floue, flou de mouvement et angles déformés.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109421168004308992/img/umxVZ4wHIS6jBsRr.jpg" width="600" alt="Vidéo de chute de téléphone avec caméra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12380)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109421569931932075) | **Published:** Oct 11, 2026
-
----
-### Animer une photo avec une musique cinématographique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de montage spécifique : garder le texte et les éléments statiques, animer la photo elle-même, couper la voix et ajouter une musique sombre et cinématographique.
-
-#### 📝 Prompt
-
-```
-Gardez le texte identique, tout reste pareil, animez uniquement la photo, COUPEZ la partie parlée, aucun son sur la voix, ajoutez une musique sombre et cinématographique
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109398315070562304/img/0AEiLghFQKtEpR9x.jpg" width="600" alt="Animer une photo avec une musique cinématographique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12376)**
-
-**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2109398357684982123) | **Published:** Oct 11, 2026
-
----
-### Scène de western avec le shérif Puckerlips générée par Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt décrivant une scène de western où le shérif Puckerlips se prépare pour un duel, généré sous forme de vidéo par Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Un nouveau shérif est arrivé en ville. C'est le shérif Puckerlips. Une journée difficile l'attend et il se prépare pour un duel à midi pile dans le comté de Paulding.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109375672866988032/img/kxTsfmC46BCdd6tY.jpg" width="600" alt="Scène de western avec le shérif Puckerlips générée par Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12373)**
-
-**Author:** [Tony Hammonds](https://x.com/_Walkslowjoe) | **Source:** [Link](https://x.com/_Walkslowjoe/status/2109375981244887120) | **Published:** Oct 11, 2026
-
----
-### Écureuil élégant en hiver
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt fantaisiste ajoutant des accessoires (chapeau haut de forme, monocle, canne) à un écureuil dans un décor enneigé/froid.
-
-#### 📝 Prompt
-
-```
-Écureuil sur une branche, vent froid, fourrure gonflée, ajouter chapeau haut de forme noir, monocle, ajouter canne noire avec pointe en cuivre
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109363087761690625/img/334dJkAENA4s-uSf.jpg" width="600" alt="Écureuil élégant en hiver">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12377)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109363162902606212) | **Published:** Oct 11, 2026
-
----
-### Vidéo de référence pour le caressage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une instruction demandant au modèle de créer une référence vidéo en passant toutes les images, impliquant probablement le caressage d'animaux.
-
-#### 📝 Prompt
-
-```
-Montrer et caresser. Créez une référence vidéo en transmettant toutes les images au modèle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109297908067774465/img/3juxQAuA95kE3g5T.jpg" width="600" alt="Vidéo de référence pour le caressage">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12374)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2109297935100043488) | **Published:** Oct 11, 2026
-
----
-### Échange de costumes traditionnels avec Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une invite pour Grok Imagine habillant l'utilisateur en costumes traditionnels basés sur son apparence, utilisant probablement une photo téléchargée comme référence.
-
-#### 📝 Prompt
-
-```
-Hey grok, habille-moi dans le costume traditionnel du pays dont je ressemble à :
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108982519966076928/img/e301O1ZGUOK47rmG.jpg" width="600" alt="Échange de costumes traditionnels avec Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12347)**
-
-**Author:** [Melanie](https://x.com/melaniehudnall) | **Source:** [Link](https://x.com/melaniehudnall/status/2108982564610281965) | **Published:** Oct 10, 2026
-
----
-### La grande-tante des Tatras
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de génération vidéo pour Grok Imagine représentant une grande-tante parlant depuis les montagnes des Tatras en Pologne vers 1906.
-
-#### 📝 Prompt
-
-```
-Imaginez ma grande-tante, nous parlant depuis les montagnes des Tatras en Pologne vers 1906
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108970357713784832/img/LNQ71Jj5bDa7KAG5.jpg" width="600" alt="La grande-tante des Tatras">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12345)**
-
-**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2108970423698473070) | **Published:** Oct 10, 2026
-
----
-### Animation de texte aux couleurs de la lune
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt pour étendre une scène avec du texte en spirale aux couleurs de la lune sur un fond noir.
-
-#### 📝 Prompt
-
-```
-Étendez et faites tourner la scène pour afficher les mots :  Ensemble… nous pouvons !  Faites tourner les mots en spirale sur un fond noir avec un beau texte aux couleurs de la lune.
-
-J'aime mon chien ! Elle s'appelle LANIE !
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108915631709880320/img/OS8RS_ELfDi8d-ut.jpg" width="600" alt="Animation de texte aux couleurs de la lune">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12342)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2108915671929328037) | **Published:** Oct 10, 2026
-
----
-### Interaction POV au Chocolat Blanc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour la génération de vidéo avec Grok Imagine, impliquant une interaction en perspective à la première personne où une femme mange du chocolat blanc et en donne au spectateur.
-
-#### 📝 Prompt
-
-```
-Mange ton chocolat blanc, ma belle. Savoure chaque bouchée dès que le chocolat touche tes lèvres, porte-le vers tes dents, puis, tout en mâchant, prends-en un autre dans le sachet et place-le exactement dans la main de l'homme en POV. Mmm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108861691656097792/img/lwJhxL9DH6rEcXoB.jpg" width="600" alt="Interaction POV au Chocolat Blanc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12346)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **Published:** Oct 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2553,6 +2514,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-20T04:37:40.542Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-20T13:44:36.930Z</sub>
 
 </div>

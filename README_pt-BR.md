@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3148** |
+| 📝 Total Prompts | **3160** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-20** |
 
@@ -189,6 +189,198 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Cena Natural do Nascer do Sol
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de vídeo descrevendo um nascer do sol sobre montanhas com veados saltando e pássaros cantando.
+
+#### 📝 Prompt
+
+```
+❤️🇺🇸🌏
+
+O sol nasce sobre as montanhas, pinheiros, pássaros cantando, um cervo e uma corça saltam por entre as pedras e correm para dentro da floresta
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112422436566425600/img/igFEX3DPb1fsem8L.jpg" width="600" alt="Cena Natural do Nascer do Sol">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12795)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2112422511124332928) | **Published:** Oct 20, 2026
+
+---
+### Vídeo de Tráfego Espacial Futuro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de vídeo para criar uma cena de um porto espacial no estilo do artista Kendreik, mostrando o tráfego futuro rumo à Lua.
+
+#### 📝 Prompt
+
+```
+Segundo o artista kendreik @kendreik, que cria vídeos de spaceports, os vídeos recentes têm 2 meses e mostram um spaceport e o futuro tráfego para o espaço e para a Lua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112350647458680832/img/_Ey09YjuJAQ21mx2.jpg" width="600" alt="Vídeo de Tráfego Espacial Futuro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12797)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2112350668766011750) | **Published:** Oct 20, 2026
+
+---
+### Tráfego no Spaceport com Tesla Roadsters
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado para uma cena futurista de spaceport, apresentando estradas sinuosas, Tesla Roadsters e vitalidade atmosférica.
+
+#### 📝 Prompt
+
+```
+Mostre o tráfego dentro deste espaçoporto: há estradas sinuosas por onde o novo Tesla Roadster sobe até a cidade no topo, e as vias contam com uma atmosfera rica em oxigênio e cheia de vida para as pessoas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112348654698635264/img/C-h7uSEh_YcO9tLX.jpg" width="600" alt="Tráfego no Spaceport com Tesla Roadsters">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12796)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2112348687657521352) | **Published:** Oct 20, 2026
+
+---
+### Grok Imagine RGB Panteão Mitológico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt épico de ilustração/vídeo de mitologia, apresentando deuses digitais das cores primárias em um vazio cósmico.
+
+#### 📝 Prompt
+
+```
+Crie uma ilustração épica e grandiosa de mitologia do Panteão RGB, os antigos deuses digitais das cores primárias. Em um vasto vazio digital cósmico repleto de raios de luz neon flutuantes em vermelho, verde e azul, templos cristalinos e orbes RGB brilhantes. O centra...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112343317006729216/img/mN-4edjzYM5xIQIo.jpg" width="600" alt="Grok Imagine RGB Panteão Mitológico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12803)**
+
+**Author:** [Christopher Kulbida](https://x.com/TheWhySpirit) | **Source:** [Link](https://x.com/TheWhySpirit/status/2112343610943476076) | **Published:** Oct 20, 2026
+
+---
+### Prompt do Grok Imagine: Adicionar Outros Cavalos e Jóqueis
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt de vídeo curto que instrui o Grok Imagine a gerar um novo vídeo com base em uma imagem, adicionando outros cavalos e jóqueis.
+
+#### 📝 Prompt
+
+```
+Gere um novo vídeo para mim com base na imagem fornecida usando este prompt: "Add other horses and jockeys too" com as seguintes configurações: 480p, 10s.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112331735006629888/img/IAGxVzDEnHP9KWap.jpg" width="600" alt="Prompt do Grok Imagine: Adicionar Outros Cavalos e Jóqueis">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12804)**
+
+**Author:** [ブラフマー🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2112331777843052899) | **Published:** Oct 19, 2026
+
+---
+### Gato Pagando Shih Tzu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo humorístico onde um gato entrega um cartão de crédito a um Shih Tzu que pede o PIN.
+
+#### 📝 Prompt
+
+```
+Faça o gato tirar um cartão de crédito e entregá-lo ao Shih Tzu. Faça o Shih Tzu perguntar: tem senha, Sr. Simba?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112308018196971520/img/TKe85uU57iMFRR8V.jpg" width="600" alt="Gato Pagando Shih Tzu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12802)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2112308141769589093) | **Published:** Oct 19, 2026
+
+---
+### Prompt de Vídeo para Transição Dinâmica de Cena
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para criar um vídeo a partir de uma imagem, com mudança de cores, transição de cena do quarto para o campo e troca de roupas.
+
+#### 📝 Prompt
+
+```
+Pegue a imagem e use as palavras como descrição para o vídeo, adicione cores giratórias, troque o quarto por um campo com uma manta xadrez em preto e branco, mude o look para uma blusa amarelo gelo claro, jeans...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112303122706006016/img/9PT99EU-Fmoydhjg.jpg" width="600" alt="Prompt de Vídeo para Transição Dinâmica de Cena">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12798)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112303166528389334) | **Published:** Oct 19, 2026
+
+---
+### Estádio de Futebol da Nave Espacial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de vídeo detalhado para uma partida de futebol dentro de um enorme estádio de nave espacial com cúpula de vidro com vista para a Terra.
+
+#### 📝 Prompt
+
+```
+Vídeo de 15s em 720p de uma partida de futebol em um estádio gigantesco dentro de uma nave espacial, com cúpula de vidro e vista para a Terra....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112296155027501056/img/Jp7p4SWZg-hPXNYE.jpg" width="600" alt="Estádio de Futebol da Nave Espacial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12794)**
+
+**Author:** [Starship](https://x.com/starship_river) | **Source:** [Link](https://x.com/starship_river/status/2112296207879954695) | **Published:** Oct 19, 2026
+
+---
+### Prompt de Vídeo Grok Imagine: Cena do Carro Voador da Tesla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico que descreve um carro Tesla branco virando de frente e voando suavemente contra um céu laranja vibrante antes de retornar à estrada.
+
+#### 📝 Prompt
+
+```
+Inclua um céu ensolarado em laranja vibrante, onde está isso. Um carro Tesla branco visto de frente, que levanta voo suavemente e, logo depois, retorna à estrada....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112251123998281728/img/mnIq8yKuxqD4CLQl.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Cena do Carro Voador da Tesla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12799)**
+
+**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2112251138145951830) | **Published:** Oct 19, 2026
+
+---
+### Transformação de Supercarro Robô com Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo de alta qualidade descrevendo um supercarro preto futurista se transformando em um guerreiro robótico em uma cidade neon.
+
+#### 📝 Prompt
+
+```
+Um supercarro preto futurista rasga uma megacidade iluminada por neon durante a noite, antes de frear bruscamente em uma rodovia molhada. O capô se divide em placas peitorais blindadas, as rodas giram e se encaixam nos ombros, e centenas de componentes hidráulicos se desdobram em sequências mecânicas precisas. O carro se ergue, transformando-se em um guerreiro robótico colossal de olhos azuis brilhantes, enquanto jatos de vapor irrompem de sua armadura. O robô dá um passo poderoso para frente, com a câmera circulando-o em uma tomada dramática de 360 graus.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112218406913282051/img/p2l0BCI_PrQVlPrl.jpg" width="600" alt="Transformação de Supercarro Robô com Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12801)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112218502107205691) | **Published:** Oct 19, 2026
+
+---
 ### Expansão de Luz das Asas de Anjo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +398,44 @@ Um anjo cobre-se com suas asas até que sua luz se expanda através delas e pene
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12744)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **Published:** Oct 19, 2026
+
+---
+### Grok Imagine: Drone Shot em Estilo de Pintura Paisagística Chinesa
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt para geração de vídeo no Grok Imagine, apresentando um plano cinematográfico vertical de drone atravessando uma pintura paisagística chinesa viva em tons de azul e verde, inspirada no rolo da dinastia Song de Wang Ximeng.
+
+#### 📝 Prompt
+
+```
+Tomada vertical cinematográfica com drone voando para frente dentro de uma pintura chinesa viva de paisagem em azul e verde, no estilo do pergaminho da Dinastia Song "A Thousand Li of Rivers and Mountains", de Wang Ximeng: picos imponentes pintados em azul azurita e verde malaquita, nuvens enevoadas flutuando entre as montanhas, pinheiros de galhos retorcidos, pequenos pavilhões e barcos nos rios, luz dourada filtrando-se pela névoa, textura de tinta aguada mesclando-se a uma profundidade realista, movimento lento e majestoso, atmosfera etérea, alto nível de detalhes, resolução 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111994510440030208/img/kxhx0uIqj_goWPDR.jpg" width="600" alt="Grok Imagine: Drone Shot em Estilo de Pintura Paisagística Chinesa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12805)**
+
+**Author:** [Jerry Dai| 顺天](https://x.com/shuntian2026) | **Source:** [Link](https://x.com/shuntian2026/status/2111996041906307225) | **Published:** Oct 19, 2026
+
+---
+### Vídeo Cinematográfico do Relógio Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico detalhado mostrando um homem cansado em uma mesa no momento exato em que o relógio marca 8:00.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo cinematográfico de 6 segundos: Um homem cansado está sentado à sua mesa e olha para um relógio analógico de parede marcando 7:59:58. Close-up enquanto o ponteiro dos segundos avança duas vezes e o relógio chega exatamente às 8:00, com o ponteiro dos minutos no 12 e o ponteiro das horas no 8. No...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111949764417724416/img/duft5ue13wvfclvH.jpg" width="600" alt="Vídeo Cinematográfico do Relógio Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12800)**
+
+**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2111949821171155240) | **Published:** Oct 18, 2026
 
 ---
 ### Vídeo de Elon Musk dirigindo Tesla em NYC
@@ -2209,283 +2439,6 @@ Em silhueta escura, uma cowgirl e um cowboy correm lado a lado na praia oceânic
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109544110919164271) | **Published:** Oct 12, 2026
 
 ---
-### Vídeo de Selfie Rindo e Chorando de Raiva
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt detalhado para gerar um vídeo realista de selfie de 12 segundos de uma mulher rindo e chorando de raiva, especificando expressões, movimento de câmera e detalhes de áudio.
-
-#### 📝 Prompt
-
-```
-[Tarefa]
-Gere um vídeo vertical realista de smartphone (formato 9:16) com duração de 12 segundos. Replique a composição deitada na cama, a sequência de ações, as expressões mistas de riso/choro e o ritmo do vídeo de referência 'Stomach Ache from Anger', substituindo o personagem original por uma mulher adulta especificada.
-
-[Divisão de Referência e Trava de Personagem]
-Trave os traços faciais, proporções e cabelo preto longo na imagem de referência facial feminina @0ba07db1-974c-467d-80dc-d9dffddac0ba; não herde a aparência masculina do vídeo original.
-Trave as roupas e proporções corporais na imagem de referência @8149c66e-9a91-4b88-bf26-d0a764075ccf; vista as roupas completamente.
-Trave os óculos na imagem de referência dos óculos decorativos prateados @d80c71c5-d330-4baf-8ecf-8b793ee0fee8: fio fino de metal prateado, armações inferiores curvas abertas, plaquetas transparentes, pequenas molas metálicas em forma de laço perto da ponte do nariz, uma flor pendente em cada lado. As hastes descansam normalmente nas orelhas, ambos os olhos claramente visíveis. Os óculos devem ser usados durante todo o vídeo, não se transforme em óculos comuns de armação grossa, sem suportes de exibição aparecendo.
-O vídeo original trava apenas a atuação, ângulo de selfie, ações e ritmo.
-Não herde a queda de câmera do grid anterior de nove imagens.
-
-[Cena e Filmagem]
-Ela está deitada de costas em uma cama branca, cabeça sobre um travesseiro branco, cabelo longo espalhado naturalmente.
-A mão esquerda segura o telefone fora da tela, a câmera frontal localizada cerca de 40cm acima do rosto, filmando para baixo no rosto, ombros e parte superior do corpo. O rosto ocupa o assunto principal do quadro.
-A mão direita pode alcançar a borda inferior da tela para pressionar o abdômen.
-Uma tomada contínua durante todo o tempo, a lente treme apenas ligeiramente com a mão segurando, respiração e tremores dos ombros. Luz natural do quarto, qualidade nativa comum de smartphone, textura de pele realista, sem filtros de beleza.
-
-[Temporização Rigorosa e Atuação]
-0–2,8 segundos:
-Abre imediatamente em um estado de riso irritado e lágrimas. Suas sobrancelhas estão fortemente franzidas, olhos apertados fechados, cantos da boca puxados horizontalmente, emitindo intermitentemente "Hahaha... ah... haha".
-O riso carrega ressentimento e raiva, os ombros tremem levemente, a cabeça se move ligeiramente no travesseiro.
-Pendentes de flores prateadas balançam suavemente com os movimentos da cabeça, plaquetas e hastes permanecem ajustadas ao rosto.
-2,8–5,8 segundos:
-Ela para para inspirar, mal abre os olhos para olhar a tela do telefone, sobrancelhas ainda franzidas, cantos da boca voltados para baixo, falando com raiva e ressentimento:
-"Gente, estou tão brava que minha barriga dói."
-Ao dizer a segunda metade, a mão direita pressiona o abdômen, a cabeça vira para um lado, os olhos se apertam novamente. O telefone treme ligeiramente com os tremores do corpo, o rosto permanece claramente legível.
-5,8–9,3 segundos:
-Ela tenta recuperar o fôlego mas emite um "Hahaha... ah..." quebrado novamente.
-Boca abre, brevemente faz bico, então abre novamente, mostrando uma reação querendo rir e chorar simultaneamente. Sobrancelhas se apertam forte, narinas se movem ligeiramente, queixo treme, ocasionalmente mostrando dentes.
-A cabeça retorna da posição lateral para o centro do travesseiro, a mão direita continua pressionando o abdômen. Óculos se movem com a cabeça, pendentes de flores balançam naturalmente.
-9,3–12 segundos:
-Ela brevemente abre os olhos olhando para a tela, diz com raiva:
-"Estou furiosa."
-Após falar, fecha os olhos, enruga o nariz, revela expressão mista de riso/choro, terminando com uma risada amarga curta e expiração.
-Sempre fica deitada no lugar, não senta, nenhum enredo adicional é adicionado.
-
-[Áudio]
-Voz natural de mulher adulta, gravação próxima de smartphone, sincronia labial com o diálogo.
-O riso é intermitente, com inspirações e sons de respiração, a emoção entrelaça raiva, ressentimento e sorriso amargo.
-Ligeiro atrito do travesseiro, atrito de tecido e ruído de fundo interno, sem narração, sem música de fundo.
-Se a ferramenta de geração suportar áudio de vídeo de referência, priorize corresponder às pausas, risos e ritmo de fala do clipe original.
-
-[Requisitos Chave]
-Retenha o aperto exagerado dos olhos, franzir das sobrancelhas, abertura da boca e balanços da cabeça do clipe original; não pode se transformar em um sorriso bonito ou cabeça falante calma.
-Mantenha a mesma identidade de personagem quando as expressões distorcem os traços faciais.
-Estrutura dos óculos, número de flores, roupas, penteado, roupa de cama e iluminação permanecem consistentes durante todo o tempo.
-Sem troca de rosto, sem óculos flutuando ou atravessando a pele, sem adicionar pingentes de flores, sem braços extras ou dedos anormais.
-Sem cortes, sem quedas, sem ângulos de câmera cambalhotantes, sem câmera lenta, sem trabalho de câmera cinematográfico.
-Não adicione legendas, adesivos de captura de tela, marcas d'água ou interfaces de plataforma aos visuais gerados.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109433100203589632/img/kqt_Zl2fK-5Wtkri.jpg" width="600" alt="Vídeo de Selfie Rindo e Chorando de Raiva">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12379)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109494015062110399) | **Published:** Oct 12, 2026
-
----
-### Prompt de Vídeo Grok Imagine: Arte de Unhas de Aniversário
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar um vídeo de uma menina pequena tendo suas unhas pintadas com tema de aniversário, incluindo um jacaré animado.
-
-#### 📝 Prompt
-
-```
-Uma menina de três anos quer que suas unhas sejam pintadas com tema de aniversário. Faça o pequeno jacaré ganhar vida, mantendo a originalidade.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109467396356333568/img/mxduTNzHpiJORZTu.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Arte de Unhas de Aniversário">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12442)**
-
-**Author:** [Cole Adams](https://x.com/ColeAdams777) | **Source:** [Link](https://x.com/ColeAdams777/status/2109467582981976366) | **Published:** Oct 12, 2026
-
----
-### Vídeo Promocional Animado de Selfie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para criar uma animação sutil de uma mulher sorrindo e se movendo levemente, imitando um vídeo de selfie com texto/logos fixos, ideal para stories de redes sociais.
-
-#### 📝 Prompt
-
-```
-Animação natural e sutil da mulher sorrindo e movendo levemente os cabelos e o corpo, como em um vídeo de selfie, balanço suave da câmera, textos e logos permanecem fixos e nítidos, sensação profissional de promo para story de redes sociais, iluminação quente, alta qualidade
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109422528821121024/img/GLnA7gcisWnJMY26.jpg" width="600" alt="Vídeo Promocional Animado de Selfie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12375)**
-
-**Author:** [Katrina](https://x.com/sLuTmEoUt1988) | **Source:** [Link](https://x.com/sLuTmEoUt1988/status/2109422558110249320) | **Published:** Oct 11, 2026
-
----
-### Vídeo de Queda de Celular
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt de vídeo que utiliza referências de storyboard para gerar uma sequência caótica de queda de celular, com distorção de grande angular e desfoque de movimento.
-
-#### 📝 Prompt
-
-```
-Combine cada quadro de <<<image @1cbc28c8-e2a8-40e8-bfd6-7b3a7db70034 >>> para criar um vídeo. Esta é uma perspectiva subjetiva em primeira pessoa (POV) de um celular virado para trás escorregando acidentalmente e caindo × rajada contínua de nove fotos durante a mesma queda × múltiplas tentativas falhas de capturar imagens do iPhone × perspectiva exagerada de grande angular × posições de câmera rotacionadas aleatoriamente, fora de foco, desfoque de movimento e ângulos distorcidos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109421168004308992/img/umxVZ4wHIS6jBsRr.jpg" width="600" alt="Vídeo de Queda de Celular">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12380)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109421569931932075) | **Published:** Oct 11, 2026
-
----
-### Animação de Foto com Música Cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de edição específico: mantenha o texto/elementos estáticos, anime a foto em si, silencie a fala e adicione música cinematográfica sombria.
-
-#### 📝 Prompt
-
-```
-Mantenha o texto igual, tudo igual, apenas anime a foto, MUTE a parte falada, sem som na fala, adicione música cinematográfica sombria
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109398315070562304/img/0AEiLghFQKtEpR9x.jpg" width="600" alt="Animação de Foto com Música Cinematográfica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12376)**
-
-**Author:** [quietrumble](https://x.com/BillHector2) | **Source:** [Link](https://x.com/BillHector2/status/2109398357684982123) | **Published:** Oct 11, 2026
-
----
-### Cena do Xerife Puckerlips no Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt descrevendo uma cena de faroeste com o Xerife Puckerlips se preparando para um duelo, gerado como vídeo pelo Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Há um novo xerife na cidade. Ele é o Xerife Puckerlips. Um dia difícil está por vir e ele se prepara para um duelo ao meio-dia em ponto no Condado de Paulding.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109375672866988032/img/kxTsfmC46BCdd6tY.jpg" width="600" alt="Cena do Xerife Puckerlips no Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12373)**
-
-**Author:** [Tony Hammonds](https://x.com/_Walkslowjoe) | **Source:** [Link](https://x.com/_Walkslowjoe/status/2109375981244887120) | **Published:** Oct 11, 2026
-
----
-### Esquilo Elegante no Inverno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt lúdico que adiciona acessórios (cartola, monóculo, bengala) a um esquilo em um cenário nevado/frio.
-
-#### 📝 Prompt
-
-```
-Esquilo sentado em galho brisa fria pelo eriçado adicione cartola preta monóculo adicione bengala preta com ponta de cobre
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109363087761690625/img/334dJkAENA4s-uSf.jpg" width="600" alt="Esquilo Elegante no Inverno">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12377)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109363162902606212) | **Published:** Oct 11, 2026
-
----
-### Vídeo de Referência para Acariciar Animais
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt que instrui o modelo a criar um vídeo de referência passando todas as imagens, provavelmente envolvendo acariciar animais.
-
-#### 📝 Prompt
-
-```
-Mostrar e acariciar. Crie uma referência em vídeo passando todas as imagens para o modelo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109297908067774465/img/3juxQAuA95kE3g5T.jpg" width="600" alt="Vídeo de Referência para Acariciar Animais">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12374)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2109297935100043488) | **Published:** Oct 11, 2026
-
----
-### Troca de Traje Tradicional com Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para o Grok Imagine vestir o usuário em trajes tradicionais baseados na sua aparência, provavelmente usando uma foto enviada como referência.
-
-#### 📝 Prompt
-
-```
-Hey grok, me vista com o traje tradicional do país de onde eu pareço ser:
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108982519966076928/img/e301O1ZGUOK47rmG.jpg" width="600" alt="Troca de Traje Tradicional com Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12347)**
-
-**Author:** [Melanie](https://x.com/melaniehudnall) | **Source:** [Link](https://x.com/melaniehudnall/status/2108982564610281965) | **Published:** Oct 10, 2026
-
----
-### Grande Tia das Montanhas Tatra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo para o Grok Imagine retratando uma grande tia falando das Montanhas Tatra, na Polônia, por volta de 1906.
-
-#### 📝 Prompt
-
-```
-Imagine minha grande tia, falando conosco das Montanhas Tatra, na Polônia, por volta de 1906
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108970357713784832/img/LNQ71Jj5bDa7KAG5.jpg" width="600" alt="Grande Tia das Montanhas Tatra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12345)**
-
-**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2108970423698473070) | **Published:** Oct 10, 2026
-
----
-### Animação de Texto na Cor da Lua
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para estender uma cena com texto em espiral na cor da lua sobre um fundo preto.
-
-#### 📝 Prompt
-
-```
-Estenda a cena para exibir as palavras: Juntos… nós podemos! Faça as palavras girarem em espiral sobre um fundo preto, com um texto lindo nas cores da lua.
-
-Eu amo meu cachorro! O nome dela é LANIE!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108915631709880320/img/OS8RS_ELfDi8d-ut.jpg" width="600" alt="Animação de Texto na Cor da Lua">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12342)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2108915671929328037) | **Published:** Oct 10, 2026
-
----
-### Interação POV com Chocolate Branco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para geração de vídeo no Grok Imagine, envolvendo uma interação em primeira pessoa onde uma mulher come chocolate branco e alimenta o espectador.
-
-#### 📝 Prompt
-
-```
-coma seu chocolate branco, querida, saboreie a mordida assim que o chocolate tocar seus lábios, leve-o para dentro até os dentes, então, enquanto mastiga, pegue outro do pacote e coloque na mesma mão exata do homem em POV. Mm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108861691656097792/img/lwJhxL9DH6rEcXoB.jpg" width="600" alt="Interação POV com Chocolate Branco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12346)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2108861800636706988) | **Published:** Oct 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2547,6 +2500,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-20T04:37:42.578Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-20T13:44:38.614Z</sub>
 
 </div>
