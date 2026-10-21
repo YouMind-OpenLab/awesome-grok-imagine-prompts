@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3160** |
+| 📝 Total Prompts | **3185** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-21** |
 
@@ -189,6 +189,479 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Dizüstü Bilgisayar Yavaş Zoom Sinematik
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Statik arka planlı bir oyun dizüstü bilgisayarında yavaş zoom için hassas kamera hareketi istemi.
+
+#### 📝 Prompt
+
+```
+45 derecelik açıyla konumlandırılmış siyah oyuncu dizüstü bilgisayarına doğru hafif, yumuşak ve yavaş bir yakınlaşma; yalnızca akıcı sinematik kamera hareketi, ürün ve arka plan tamamen sabit, döndürme yok, etrafında dönme yok, fotogerçekçi ürün sunumu, sessiz
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112798017090625536/img/AWUm6KNP8K-8MPix.jpg" width="600" alt="Dizüstü Bilgisayar Yavaş Zoom Sinematik">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12844)**
+
+**Author:** [Jacek](https://x.com/Jacek1029984002) | **Source:** [Link](https://x.com/Jacek1029984002/status/2112798047713350106) | **Published:** Oct 21, 2026
+
+---
+### Soyut Kırmızı Arka Plan Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Soyut kırmızı arka plan videosu için kamera ayarlarını ve sahne detaylarını tanımlayan yapılandırılmış JSON istemi.
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "düşük", "camera_depth": "orta yakın çekim", "camera_view": "göz hizası", "camera_movement": "sabit çekim"}, "scene": {"location": "soyut kırmızı arka plan", "environment": "Sahne, düz ve canlı bir kırmızı arka planın hakim olduğu..."}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112788059158958081/img/6fWorOXXx3iB63Ee.jpg" width="600" alt="Soyut Kırmızı Arka Plan Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12852)**
+
+**Author:** [レイヴ](https://x.com/raves9361) | **Source:** [Link](https://x.com/raves9361/status/2112788079555834293) | **Published:** Oct 21, 2026
+
+---
+### Anime Kadın Tesla Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Roket itişleriyle bir Tesla Roadster'a binen ve trafiğin üzerinde uçan anime kadınını içeren bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sporcu sütyeni ve bej rengi tayt giyen anime tarzı bir kadın, roket iticili yeni Tesla Roadster'a binerken gaza basıyor ve trafiğin üzerinden uçuyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112765941310222336/img/DeWpDxRZvODE8WnG.jpg" width="600" alt="Anime Kadın Tesla Roadster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12848)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2112766018804453885) | **Published:** Oct 21, 2026
+
+---
+### Steampunk Samurai Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karakteri belirli ses kısıtlamalarıyla steampunk tarzı animasyonlu bir samuraya dönüştüren video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Hiro'yu steampunk tarzında animasyon bir Kurosawa Shiba Samurayına dönüştür. Konuşma olmasın ve Japon müziği çalsın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112754224903979008/img/eTrYjw9bbWQR_bPl.jpg" width="600" alt="Steampunk Samurai Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12857)**
+
+**Author:** [Simon](https://x.com/schaniteration2) | **Source:** [Link](https://x.com/schaniteration2/status/2112754273981497746) | **Published:** Oct 21, 2026
+
+---
+### Chibi Anime Yeniden Şekillendirme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yüz benzerliğini koruyarak bir karakteri chibi anime stiline yeniden şekillendiren video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Bu görseli klasik chibi anime tarzında yeniden tasarla. Ana karakteri; orantısız büyük bir kafa, minicik bir beden, kocaman parlayan gözler ve sevimli, abartılı oranlarla chibi versiyonuna dönüştürürken yüz hatlarını ve ten rengini birebir koru...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112744200311631872/img/wAljQaQ8N7BzzVYA.jpg" width="600" alt="Chibi Anime Yeniden Şekillendirme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12856)**
+
+**Author:** [Shockwave48 TV](https://x.com/canyon_brown) | **Source:** [Link](https://x.com/canyon_brown/status/2112744312182047054) | **Published:** Oct 21, 2026
+
+---
+### Ejderhaların Okyanus Dalış Uçuşu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İki ejderhanın bir römorkörün altına dalıp tekrar havaya yükseldiği fantastik bir video için prompt.
+
+#### 📝 Prompt
+
+```
+Koyu gri bir ejderha ile gümüş beyazı bir ejderha okyanus üzerinde yan yana uçuyor, suya dalıp sarı römorkörün altından süzülerek geçiyor ve ardından yeniden gökyüzüne yükseliyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112740302830329856/img/CnXd8yw-CLSArONI.jpg" width="600" alt="Ejderhaların Okyanus Dalış Uçuşu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12845)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2112740397541961918) | **Published:** Oct 21, 2026
+
+---
+### Derin Sesli Uzay Keşfi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ay ve Mars'ın ötesini gören gözler hakkında derin bir seslendirme içeren video için istem.
+
+#### 📝 Prompt
+
+```
+Derin bir dış sesle: Ay'ın ve Mars'ın ötesini görebilen, insanlığı daha önce hiç gitmediği yerlere taşıyacak o gözler...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112728615062261760/img/OGILI4iOvDclpSFs.jpg" width="600" alt="Derin Sesli Uzay Keşfi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12853)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2112728646582735171) | **Published:** Oct 21, 2026
+
+---
+### Roadster Gün Batımı Sürüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İki güneşli bir batış sırasında yeni bir dünya ortamında roadster sürüşü için sinematik bir prompt.
+
+#### 📝 Prompt
+
+```
+İki güneşin batışının ardından Optimus ve Kat'ın küçük roadster'ıyla yapılan kısa bir sürüşle keşfedilen yepyeni bir dünya
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112705363422367744/img/Vpq1a_pC5_VfHQS6.jpg" width="600" alt="Roadster Gün Batımı Sürüşü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12841)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2112705475875930480) | **Published:** Oct 21, 2026
+
+---
+### Grok Imagine Inception Şehir Çöküşü Promptu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Inception tarzı şehir çöküşü sahnesi oluşturmak için iki aşamalı promptlar: önce fotoğraftan sinematik bir kare üretme, ardından binaların katlandığı bir videoya dönüştürme.
+
+#### 📝 Prompt
+
+```
+Ekteki fotoğrafı yalnızca yüz/kimlik referansı olarak kullan.
+Yepyeni, sinematik bir kare oluştur.
+
+Kişi zaten Inception'daki rüya çöküşü sahnesinin içinde.
+Paris'i andıran şehir kendi üzerine katlanıyor, binalar tepede bükülüyor, sokak havaya kalkıyor, havada toz uçuşuyor.
+Christopher Nolan sinematik görünümü, 16:9, anamorfik, film greni, dramatik ışıklandırma.
+
+Orijinal fotoğrafın kompozisyonunu birebir kopyalama.
+Orijinal arka planı koruma.
+Fotoğraftan sahneye geçiş yapan bir görsel oluşturma.
+İlk ve tek kare = bitmiş bir film karesi.
+Aynı yüzü koru.
+Metin yok, filigran yok.
+
+Bu görseli hareketlendir.
+Bu görsel zaten ilk karedir. Başka herhangi bir fotoğraftan karartarak geçiş yapma.
+
+Şehir kendi üzerine katlanmaya devam ediyor.
+Binalar yavaşça ters dönüyor, sokaklar havaya kalkıyor, yerçekimi yön değiştiriyor, toz ve enkaz havada süzülüyor.
+Kişi aynı kişi, aynı yüz kalıyor.
+Yavaş ve ağır bir çöküş, sinematik yaklaşım (push-in), alt açı, anamorfik, film greni.
+Kesme yok, farklı bir görselden erime efektiyle geçiş yok, orijinal fotoğrafın anlık parlaması yok.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2112691604612116480/pu/img/61yoOsOc6tnFzsrw.jpg" width="600" alt="Grok Imagine Inception Şehir Çöküşü Promptu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12864)**
+
+**Author:** [ORCHIS STUDIO｜Web導線改善](https://x.com/StudioOrchis) | **Source:** [Link](https://x.com/StudioOrchis/status/2112695369855566318) | **Published:** Oct 21, 2026
+
+---
+### Sos İçin Kavga Eden Soğan Halkaları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Son sos parçası için tartışıp kavga eden iki soğan halkası hakkında eğlenceli bir istem.
+
+#### 📝 Prompt
+
+```
+İki soğan halkası son bir damla sos için tartışıyor, o sosu kapmak için kayıp birbirine giriyorlar..
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112669892734234624/img/541k2lznL0AMkm3f.jpg" width="600" alt="Sos İçin Kavga Eden Soğan Halkaları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12854)**
+
+**Author:** [Billy “Billymack” mcgee](https://x.com/BillyBilly5651) | **Source:** [Link](https://x.com/BillyBilly5651/status/2112669910887227871) | **Published:** Oct 20, 2026
+
+---
+### GTA Tarzında Tesla Roadster Kovalamacası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yeni Tesla Roadster videolarını analiz etmesi ve uçan arabaların dahil olduğu GTA tarzı bir polis kovalamacası videosu oluşturması için yapay zekaya verilen karmaşık istem.
+
+#### 📝 Prompt
+
+```
+Tesla'nın yeni Roadster modeliyle ilgili videoları izleyin, hepsini en ince ayrıntısına kadar kavrayın ve ardından polislerin havada araçlarıyla birini kovaladığı GTA tarzı bir video oluşturun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112641848132911104/img/IeAK_OL17gRSdhPz.jpg" width="600" alt="GTA Tarzında Tesla Roadster Kovalamacası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12846)**
+
+**Author:** [Rise-Raise](https://x.com/rise_raise_ai) | **Source:** [Link](https://x.com/rise_raise_ai/status/2112641880819474436) | **Published:** Oct 20, 2026
+
+---
+### Havada Asılı Duran Roadster'ı Anlatan Adam
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Arka planda havada asılı duran bir Tesla Roadster'ı anlatan bir adam sahnesi için prompt.
+
+#### 📝 Prompt
+
+```
+Ön plandaki bir adam, yeni Tesla Roadster'ın özelliklerini anlatırken araç arka planda havada süzülüyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112636802146160640/img/FBhpY4y1C4HJAe2l.jpg" width="600" alt="Havada Asılı Duran Roadster'ı Anlatan Adam">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12851)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2112636838879871296) | **Published:** Oct 20, 2026
+
+---
+### Tesla Roadster İtici Sıçraması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir otobüsün üzerinden soğuk gaz iticileriyle sıçrayan bir Tesla Roadster'ın 6 saniyelik videosu için fizik tabanlı istem.
+
+#### 📝 Prompt
+
+```
+Tesla Roadster'ın soğuk gaz iticilerini devreye sokarak bir okul otobüsünün üzerinden atladığı 6 saniyelik video
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112622676174897152/img/BSZNURdNcHautPV1.jpg" width="600" alt="Tesla Roadster İtici Sıçraması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12843)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2112622701492031836) | **Published:** Oct 20, 2026
+
+---
+### Gece Megapol Araba Sahnesi İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir sahneyi, fütüristik uçan bir araba ve şehir manzarası eşliğinde gece ortamına dönüştürmek için detaylı istem.
+
+#### 📝 Prompt
+
+```
+Sahneyi, arka planda devasa bir megakent manzarasıyla geceye dönüştür: pencereleri ışıl ışıl parlayan gökdelenler, neon ışıklar ve gecenin karanlığında yoğun bir şehir silueti... Tüm bunları yaparken, iticileriyle havada süzülen ve arkasında buhar izleri bırakan aynı siyah fütüristik arabayı olduğu gibi koru....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112616366079377408/img/t4JMqaM8-byM4MY9.jpg" width="600" alt="Gece Megapol Araba Sahnesi İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12859)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2112616386010710451) | **Published:** Oct 20, 2026
+
+---
+### Tesla Roadster Çöl Uçuşu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tesla Roadster'ın soğuk gaz iticilerini kullanarak çöl manzarasında uçtuğunu gösteren, 6 saniyelik ve 720p çözünürlüğünde bir video için detaylı istem.
+
+#### 📝 Prompt
+
+```
+Tesla Roadster'ın soğuk gaz iticilerini kullanarak çölde uçtuğunu gösteren 6 saniyelik 720p video
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112595996370714625/img/8PQb_u1AQxCQflb8.jpg" width="600" alt="Tesla Roadster Çöl Uçuşu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12847)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2112596021847158826) | **Published:** Oct 20, 2026
+
+---
+### EV Yaşam Tarzı Selfie Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tesla Model 3 içinde EV yaşam tarzı faydalarını tartışan, 1 dakikalık selfie tarzı video için detaylı bir istem.
+
+#### 📝 Prompt
+
+```
+Kadın Model 3'ünün içinde selfie tarzı oturmuş, In-N-Out içeceğini yudumluyor ve Jiffy Lube ya da Midas'ta yağ değiştirmekten nefret ettiği için elektrikli araç hayatını seçtiğini anlatıyor; 1080p video, 1 dakika
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112570881738260480/img/iJuex6ld-47AU77i.jpg" width="600" alt="EV Yaşam Tarzı Selfie Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12842)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2112571075037159729) | **Published:** Oct 20, 2026
+
+---
+### Arthur AI Sanat Tarihi Botu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İnsanların fotoğraflarını çekip onları tarihi sanat eserlerine yerleştiren ve kartpostal basan 'Arthur' adlı bir yapay zeka sanat tarihi botunu içeren mini bir video oluşturmak için komut.
+
+#### 📝 Prompt
+
+```
+Arthur adlı bu küçük yapay zeka sanat tarihi botunu kullanarak kısa bir video hazırlayın. Arthur'un işi, insanların fotoğraflarını alıp tarihi sanat eserlerinin içine yerleştirmek ve onlara bir kartpostal olarak basmaktır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112566005876535296/img/qexBsFsSgzzwferh.jpg" width="600" alt="Arthur AI Sanat Tarihi Botu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12849)**
+
+**Author:** [The Pixel Witch](https://x.com/WGlencora) | **Source:** [Link](https://x.com/WGlencora/status/2112566025049039209) | **Published:** Oct 20, 2026
+
+---
+### Cybertruck'a Yaslanan Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sarılmış bir Cybertruck'a yaslanan ve 'Ben kötü kızım' diyen bir kadın için prompt.
+
+#### 📝 Prompt
+
+```
+Scottdale, AZ'de pembe kaplamalı Cybertruck'ına yaslanan iri yapılı bir kadın gülümseyerek "Ben tam bir fıstığım" diyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112563963363803137/img/L7PSlJ7ZEm2THzii.jpg" width="600" alt="Cybertruck'a Yaslanan Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12855)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2112564183518646624) | **Published:** Oct 20, 2026
+
+---
+### EDM Parti Animasyon Tarzı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sınırlı animasyon, el kamerası efektleri ve EDM parti atmosferine odaklanan video üretim istemi.
+
+#### 📝 Prompt
+
+```
+değişmeyen tarz, kusursuz görsel tutarlılık, edm, sınırlı animasyon, el kamerası, müziği hissetme, techhouse, parti, zıplama, titrek kamera, dinamik, rüzgarlı, perspektif kısalması, el dansı, sözsüz, kamera sağa sola sallanıyor, sabit olmayan kamera,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112521265051557888/img/kA6bDlDrENEFHhD4.jpg" width="600" alt="EDM Parti Animasyon Tarzı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12860)**
+
+**Author:** [レイヴ](https://x.com/raves9361) | **Source:** [Link](https://x.com/raves9361/status/2112521367635857468) | **Published:** Oct 20, 2026
+
+---
+### Grok Imagine Cosplay Pozu Video İstemi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Comiket'te her 3 saniyede bir poz değiştiren bir cosplayer'ın 15 saniyelik videosunu oluşturmak için tutarlılığı sağlamak amacıyla birden fazla referans görsel kullanan bir istem.
+
+#### 📝 Prompt
+
+```
+🎬 Yönetmen Gemini İçin Talimatlar
+Lütfen yüklenen 3 görseli (tam boy, yakın çekim, orta plan) kullanarak 15 saniyelik bir video için Japonca bir prompt hazırla. Prompt'ta "bir cosplayer'ın Comiket'teki fotoğraf çekimi sırasında her 3 saniyede bir kararlı ve fotojenik pozlara geçerek toplamda 5 sahne boyunca değişmesi (her sahnede 2 poz)" işlenmelidir. Videoyu yakın çekim, iddialı bir final pozu ve tek gözle yapılan sevimli bir göz kırpma ile bitir.
+
+BGM "(Görselin atmosferine uygun bir BGM düşün)"
+
+Kişinin yüzünü ve saç stilini tutarlı tut. Görsel veya video oluşturma.
+
+Prompt'taki Görsel 1'i (tam boy) @Image1, Görsel 2'yi (yakın çekim) @Image2 ve Görsel 3'ü (orta plan) @Image3 olarak değiştir.
+
+🎥 Video Oluşturma Prompt'u (Grok Imagine)
+[Temel Ayarlar ve Tutarlılık]
+ * Kişi/Kostüm Referansı: @Image1 (tam boy), @Image2 (yakın çekim) ve @Image3 (orta plan) görsellerindeki kadın cosplayer. Gümüş rengi örgülü saçlar, elf kulakları, mavi-beyaz fantezi kostümü; yüz hatlarının ve saç stilinin tutarlılığını koru.
+ * Mekan: Hareketli Comiket alanı (arka planda bulanıklaştırılmış fotoğrafçılar ve stantlar).
+ * BGM Önerisi: Ferahlatıcı, neşeli ve tempolu EDM/Anison tarzı pop (fantezi hissini uyandıran parıltılı synth sesleriyle).
+[Zaman Çizelgesi ve Yapı (Toplam 15 sn)]
+ * Sahne 1 (0:00 - 0:03) / Ref: @Image1
+   * Açı: Full Shot (Tam Boy)
+   * Poz 1 (0-1,5 sn): Kostümün eteğini hafifçe kaldırarak zarif bir reverans benzeri poz.
+   * Poz 2 (1,5-3 sn): Kollarını iki yana açarak güzelce gülümsemek ve tüm kostümü sergilemek.
+ * Sahne 2 (0:03 - 0:06) / Ref: @Image3
+   * Açı: Medium Shot (Belden yukarısı)
+   * Poz 1 (3-4,5 sn): İki eliyle göğüs hizasında kalp işareti yaparak başını hafifçe eğmek ve gülümsemek.
+   * Poz 2 (4,5-6 sn): Elini çenesine koyarak havalı bir ifadeyle gözlerini kameraya dikmek.
+ * Sahne 3 (0:06 - 0:09) / Ref: @Image1
+   * Açı: Değiştirilmiş açılı Full Shot (çapraz tam boy)
+   * Poz 1 (6-7,5 sn): Vücudunu çapraz döndürerek saçına hafifçe dokunmak ve geriye bakmak.
+   * Poz 2 (7,5-9 sn): Bir adım öne çıkarak bir fantezi kahramanı gibi elini kameraya doğru uzatmak.
+ * Sahne 4 (0:09 - 0:12) / Ref: @Image3
+   * Açı: Medium Shot
+   * Poz 1 (9-10,5 sn): Ellerini yanaklarına koyarak şaşkın ve sevimli bir poz vermek.
+   * Poz 2 (10,5-12 sn): Kameraya doğru içtenlikle el sallamak.
+ * Sahne 5 (0:12 - 0:15) / Ref: @Image2
+   * Açı: Close-up (Yüz ~ Omuzlar)
+   * Poz 1 (12-13,5 sn): Kameraya dikkatlice bakarak yumuşak bir şekilde gülümsemek.
+   * Poz 2 (13,5-15 sn): Kameraya doğru iddialı bir poz verip tek gözle sevimli bir şekilde göz kırpmak ve gülümseyerek donup kalmak.
+```
+
+<img src="https://cms-assets.youmind.com/media/1792568893125_pgdy5x_HU_Yy_NbIAALf6w.jpg" width="600" alt="Grok Imagine Cosplay Pozu Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12865)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2112491518904680856) | **Published:** Oct 20, 2026
+
+---
+### Yıldızlararası Uzay Gemisi Robot Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dünya üzerinde devasa bir uzay gemisinin koruyucu bir robota dönüşmesini anlatan yüksek kaliteli video istemi.
+
+#### 📝 Prompt
+
+```
+Mavi ışık saçan motorlarıyla devasa bir yıldızlararası uzay gemisi, Dünya'nın üzerinde sessizce süzülüyor. Kilometrelerce uzunluğundaki gövdesi birbirine kenetlenen zırh plakalarına ayrılıyor, dev mekanik uzuvlar beliriyor ve gövdesinin dört bir yanında dev enerji reaktörleri ateşleniyor. Geminin kanatları dönerek zırhlı omuzlara dönüşürken, motorları sırtı boyunca parlayan itki sistemlerine evriliyor. Gezegenin siluetine karşı açılan bu devasa koruyucu robot, ışıl ışıl gözlerini aralıyor ve yavaşça uzaklardaki bir uzaylı filosuna doğru dönüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112487211350339584/img/hd6zzmY_6HQKI_Oj.jpg" width="600" alt="Yıldızlararası Uzay Gemisi Robot Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12850)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112488408937300278) | **Published:** Oct 20, 2026
+
+---
+### Kutsal Kitap Yazarı Görsel Düzenleme Promptu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Musa'yı kadın bir yazarla değiştirmek için görsel öğeleri içeren detaylı bir prompt.
+
+#### 📝 Prompt
+
+```
+Bu görseli profesyonelce düzenle: Musa'yı, ön planda küçük ahşap bir masada oturmuş tüy kalemle yazı yazan, İncil döneminden zarif bir kadın yazarla değiştir. Üstüne “¿A quién enviaré?” yazan net ve zarif bir tabela yerleştir. Onun düşüncesini göster...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112467072164724736/img/_mnCCXISwUPY5r09.jpg" width="600" alt="Kutsal Kitap Yazarı Görsel Düzenleme Promptu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12858)**
+
+**Author:** [Gacela Hadassah](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2112467092498784285) | **Published:** Oct 20, 2026
+
+---
 ### Gün Doğumu Doğa Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +681,25 @@ Dağların ardından doğan güneş, çam ağaçları, cıvıldayan kuşlar; gey
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12795)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2112422511124332928) | **Published:** Oct 20, 2026
+
+---
+### Grok Imagine Uçan Motosiklet Dönüşüm Videosu İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fütüristik bir havaalanı hangarında şık metalik bir valizin uçan bir motosiklete dönüştüğünü tasvir eden Grok Imagine için video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Fütüristik bir havalimanı hangarının içinde, şık metalik bir bavul tek başına durmaktadır. Manyetik kilitler serbest kalır ve merkezden uzanan gizli mekanik kollarla birlikte, hassas mühendislik ürünü yüzlerce panel dışa doğru açılır. Tekerlekler ortaya çıkar, gövde uzar ve şasinin altındaki ikiz anti-yerçekimi iticileri devreye girer. Tamamlanan uçan motosiklet sessizce yükselir, havada kendi etrafında döner ve hangar kapılarından geçerek fütüristik bir şehir siluetine doğru hızlanır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112363828638105600/img/OJDQgZoF26_gumFt.jpg" width="600" alt="Grok Imagine Uçan Motosiklet Dönüşüm Videosu İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12861)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112364398350311506) | **Published:** Oct 20, 2026
 
 ---
 ### Geleceğin Uzay Limanı Trafiği Videosu
@@ -829,6 +1321,27 @@ Bu Tesla Roadster'ın soğuk gaz iticilerini ateşleyerek havada süzülmesini, 
 **Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111182254646886773) | **Published:** Oct 16, 2026
 
 ---
+### Grok Imagine Kizomba Dans Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yakın sarılma ve alın teması içeren, 15 saniyelik samimi bir kizomba dans videosu oluşturmak için prompt.
+
+#### 📝 Prompt
+
+```
+15 saniyelik samimi bir kizomba dansı videosu. Çift birbirine çok sıkı sarılmış, ayaklarını neredeyse hiç hareket ettirmiyor.
+
+Saf Yakınlık; alınların neredeyse sürekli temas halinde olduğuna dikkat edin. Samimi enerji aktarımı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111180572626190336/img/xZM6qVfCumNMN63F.jpg" width="600" alt="Grok Imagine Kizomba Dans Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12862)**
+
+**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2111180601797800160) | **Published:** Oct 16, 2026
+
+---
 ### Siberpunk Techno Pazarları
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1418,6 +1931,25 @@ Ağzında kılıç tutan, Jeff Bezos'a benzeyen bir papağanı omzunda taşıyan
 **Author:** [Phillip Oyler](https://x.com/NdnCwby) | **Source:** [Link](https://x.com/NdnCwby/status/2110723009313136790) | **Published:** Oct 15, 2026
 
 ---
+### Huzurlu Doğa Katmanları Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Güneş ışığı ve ağaç dallarını içeren yüksek çözünürlüklü huzurlu bir doğa sahnesi oluşturmak için kullanılan prompt.
+
+#### 📝 Prompt
+
+```
+Yüksek çözünürlüklü, huzur dolu bir sahne. "Katmanları" olan bir şey; belki de asırlık ağaç dallarının arasından süzülen güneş ışığı…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110711965127421952/img/Xs3vyc54482vJr2-.jpg" width="600" alt="Huzurlu Doğa Katmanları Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12863)**
+
+**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2110711998111748354) | **Published:** Oct 15, 2026
+
+---
 ### Ultra Gerçekçi Sinematik Moda Defilesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1720,729 +2252,6 @@ Onun ses tonunu biraz daha yumuşatır mısın? 'Aksiyona hazır, kahvenin güc�
 **Author:** [Laurie Vallance](https://x.com/RemmyChan) | **Source:** [Link](https://x.com/RemmyChan/status/2110432213942866381) | **Published:** Oct 14, 2026
 
 ---
-### Yaşlı Glaeken Diyalog İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, Central Park'ta Yaşlı Glaeken karakterinin Tamirci Jack ile konuşmasını içeren özel bir anlatı istemi.
-
-#### 📝 Prompt
-
-```
-Central Park önünde duran yaşlı Glaeken, Tamirci Jack'e "Bir mızrağın dalları yoktur" diyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110368390686588928/img/kwutMzl4kvsed9UP.jpg" width="600" alt="Yaşlı Glaeken Diyalog İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12551)**
-
-**Author:** [Redacticus](https://x.com/BillDeWaal) | **Source:** [Link](https://x.com/BillDeWaal/status/2110368404431347729) | **Published:** Oct 14, 2026
-
----
-### Grok Imagine Hindistan Cevizi Reklam Videosu İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine kullanarak hindistan cevizi ürünleri için yaratıcı bir reklam videosu oluşturmak amacıyla hazırlanmış video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Hindistan cevizi için 8 saniyelik yaratıcı bir reklam videosu yap.
-
-Yaratıcı ol ve kullanabileceğin tüm kaynakları değerlendir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110317366294831104/img/TUzw1grPIJQ-GTz1.jpg" width="600" alt="Grok Imagine Hindistan Cevizi Reklam Videosu İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12614)**
-
-**Author:** [maryann](https://x.com/Maryann_primex) | **Source:** [Link](https://x.com/Maryann_primex/status/2110317410125238527) | **Published:** Oct 14, 2026
-
----
-### Grok Imagine Video İstemi: Sürreal Uzaylı Yaratık
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için detaylı bir istem: Birleşik ahtapot başlarına ve aşırı çevresel görüş özelliklerine sahip sürreal bir uzaylı yaratık portresi.
-
-#### 📝 Prompt
-
-```
-Sürreal bir uzaylı yaratık portresi: Üst üste konumlandırılmış iki birleşik ahtapot başı; büyük üst başta, maksimum çevresel görüş ve neredeyse hiç kör nokta olmaması için gözler başın en sol ve sağ kenarlarına kadar itilmiş durumda, küçük alt baş...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110251076373123072/img/HmKuhwSIW54QI0qI.jpg" width="600" alt="Grok Imagine Video İstemi: Sürreal Uzaylı Yaratık">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12516)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2110251096585507200) | **Published:** Oct 14, 2026
-
----
-### Video İçin Synthwave Müzik İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine videolarında sinematik bir synthwave parçası oluşturmak için tasarlanmış detaylı metin-müzik istemi.
-
-#### 📝 Prompt
-
-```
-Şık ve fütüristik bir dokunuşa sahip sinematik synthwave; orta tempolu, sürükleyici bir ritim, derin analog baslar, parıldayan arpejli sentezler, vurucu programlanmış davullar ve geniş atmosferik pad'ler. Dinamik geçişler, net transient'ler ve soğuk, cilalı bir hareket ile gece enerjisi hissi veren parlak neon prodüksiyon. Vokal yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110242759021846528/img/09Esw6WtOawZaQv-.jpg" width="600" alt="Video İçin Synthwave Müzik İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12509)**
-
-**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2110243164166443138) | **Published:** Oct 14, 2026
-
----
-### Cybertruck Glitch Dans Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin Cybertruck etrafında dans edip dijital piksellere dönüştüğü sürreal bir video promptu.
-
-#### 📝 Prompt
-
-```
-Sony, Cybertruck etrafında dans eder ve dijital piksellere dönüşmeye başlar; 2 saniyelik videoda tekrar belirir ve kaybolur.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110229685757976577/img/Z09RlBKpl0S89xO9.jpg" width="600" alt="Cybertruck Glitch Dans Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12513)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2110229724962136221) | **Published:** Oct 14, 2026
-
----
-### SpaceX Park Macera Promptu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sir Crimson ve Pearl adlı kedilerin SpaceX New Earth Park macerasını konu alan caprice bir prompt.
-
-#### 📝 Prompt
-
-```
-“Dua Eden Patiler” 🙏🐾🐾🦴🦴
-
-“SpaceX New Earth Park” 
-Sir Crimson ve Kızı Pearl... Büyük bir maceraya çıkıyorlar 🐾🦴🎢🚀🍔
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110204669716807681/img/uySnLcPUlOQdFK9h.jpg" width="600" alt="SpaceX Park Macera Promptu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12514)**
-
-**Author:** [Restful_Path_777](https://x.com/Bchalk_777_777) | **Source:** [Link](https://x.com/Bchalk_777_777/status/2110204702314959303) | **Published:** Oct 14, 2026
-
----
-### Retro HK Aksiyon-Komedi Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli koreografi, sinematografi ve karakter tanımlamalarıyla 1990'lar Hong Kong aksiyon-komedi sahnesini yeniden yaratan son derece detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Konu & Karakterler: İki karakterin yer aldığı 1990'lar Hong Kong aksiyon-komedi sahnesi:
-Retro beyaz ceket, siyah-beyaz çizgili atlet, siyah kravat ve parmakları açık eldiven giyen, susturucu takılı siyah tabanca taşıyan yoğun bakışlı erkek suikastçı.
-Kısa siyah bob kesim saçlı, parlak sarı kolsuz bluz giyen şaşkın genç Asyalı kadın.
-Mekan & Ortam: Banyo ve oturma alanını ayıran sarı döner kapı panelinin bulunduğu, parlak ve minimalist iç mekan. Temiz fayans duvarlar, yüksek kontrastlı aydınlatma ve canlı sarı renk paleti.
-Aksiyon & Hareket Sıralaması:
-00:00 – 00:11: Suikastçının susturuculu tabancasını dramatik şekilde nişan alması ile kadının bitişikteki banyo alanında tuvalette rahatça oturması arasında hızlı geçiş yapan dinamik çekimler.
-00:12 – 00:25: Suikastçı silahını hafifçe indirir ve ortadaki sarı döner bölme duvarına yaslanarak ittirir; bu hareketle duvar dönerek açılır.
-00:26 – 00:38: Komik slapstick zamanlamasıyla, sarı bölme dönerken kadın ayağa kalkar ve dönen kapının etrafından yürüyerek yan odaya geçer; aynı anda suikastçı da kadının boşalttığı alana döner—böylece birbirlerini görmekten son anda kurtulurlar.
-00:39 – 00:40: Kadın diğer taraftan banyo kabine girer ve tam da suikastçı arkasını dönüp açık bölmeye doğru silahını ona doğrulttuğu anda tekrar oturur.
-Sinematografi & Görsel Stil:
-Stil: 1990'lar Hong Kong retro aksiyon-komedi filmi, sinematik film greni, doygun sarı ve beyaz renk paleti, keskin orta plan çekimler.
-Kamera Hareketi: Hızlı kesmeler, göz hizasında çerçeveleme, döner duvarın hareketini takip eden sabit yatay pan.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110187872741711872/img/5W-YTP4uiI1A7SFo.jpg" width="600" alt="Retro HK Aksiyon-Komedi Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12512)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110187947819753643) | **Published:** Oct 14, 2026
-
----
-### Dianmu Tanrıçası Şimşek Video Eklentisi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Dianmu (şimşek tanrıçası) görselini oluşturmak ve bunu Grok Imagine kullanarak 20 saniyelik bir videoya dönüştürmek için kullanılan komutu paylaşan tweet.
-
-#### 📝 Prompt
-
-```
-İstenildiğinde şimşekleri yönlendirdiği söylenen tanrıça Dianmu; her iki elinde parlayan aynalar tutuyor. Lütfen görseli herhangi bir metin içermeyecek şekilde sağlayın. ⚡
-```
-
-<img src="https://cms-assets.youmind.com/media/1791964071791_wfx44u_HUjh6uCa0AA-KwS.jpg" width="600" alt="Dianmu Tanrıçası Şimşek Video Eklentisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12520)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2110184967989010876) | **Published:** Oct 14, 2026
-
----
-### Grok Imagine Video İstemi: Grok Blok Konsepti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Apple HomeView ve Tesla Cybertruck'tan ilham alan 'Grok Blok' adlı kurgusal bir cihazı tasarlamak için yaratıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Yeni Apple HomeView yapay zeka Siri masaüstü ekranına dayanarak, Cybertruck tasarımından ilham alan Grok Blok adında bir Grok versiyonu oluştur @grok
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110173702524461056/img/pIY_MVbU6OnZm2tP.jpg" width="600" alt="Grok Imagine Video İstemi: Grok Blok Konsepti">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12515)**
-
-**Author:** [Heather](https://x.com/HeatherNSB) | **Source:** [Link](https://x.com/HeatherNSB/status/2110173727203934430) | **Published:** Oct 14, 2026
-
----
-### Dinozor Karşılaşması Sinematik Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sisli bir orman ortamında T-rex benzeri bir yırtıcıyla yaşanan gerilimli karşılaşmayı tasvir eden, detaylı çok çekimli video promptu.
-
-#### 📝 Prompt
-
-```
-0-3s: Kadının kütüğün üzerinden sığ nefes alarak baktığı yakın çekim. Arkasında, odak dışında, sisin içinden boynuzlu koyu renkli bir dinozor silüeti belirir.
-3-8s: Devasa, koyu pullu T-rex benzeri yırtıcının ona doğru sinsice ilerlediği yavaş push-in çekimi; pençeleri çamura batıyor. Burun deliklerinden buhar fışkırıyor ve sisin içinde dağılıyor. Kadının ifadesi korkudan paniğe dönüşüyor.
-8-11s: Yüzünün aşırı yakın çekimi: Geniş, yaşlı gözler, titreyen dudaklar, çamurlu yanağından süzülen tek bir damla gözyaşı, hızlı ve sığ nefesler.
-11-13s: Kadının arkasından omuz üstü çekime yumuşak geçiş (dissolve); dinozorun başı yaklaşıyor.
-13-15s: Dinozor birkaç santimetre mesafede donuyor, ardından ağzını sonuna kadar açarak diş sıralarını gösteriyor ve çekim sabit kalırken kulakları sağır eden bir kükreme savuruyor.
-Audio: Yağmur damlaları, uzak orman ambiyansı, düşük frekanslı gürültülerle ağır adımlar, kadının düzensiz nefesleri ve sonunda yüksek sesli bir kükreme.
-Negative prompt: cartoon look, extra limbs, distorted face, text, watermark, blur, low resolution.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110171669566488577/img/ez-SjniUA7QQCw12.jpg" width="600" alt="Dinozor Karşılaşması Sinematik Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12511)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110171733839999253) | **Published:** Oct 14, 2026
-
----
-### Diane Thomas Joy Moda Takım Elbise İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bordo renkli yüksek moda takım elbise giyen ve topluluk etkileşimini teşvik eden Diane Thomas Joy'un videosunu oluşturmak için detaylı bir istem.
-
-#### 📝 Prompt
-
-```
-Diane Thomas Joy, bordo renkli yüksek moda takım elbise, uyumlu topuklu ayakkabılar ve modern aksesuarlar giyiyor; topluluk etkileşiminin gelişmesi ve büyümesi için teşvikte bulunuyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110151405088518144/img/K7Eqgw_s4X7Xsu0i.jpg" width="600" alt="Diane Thomas Joy Moda Takım Elbise İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12517)**
-
-**Author:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **Source:** [Link](https://x.com/Thoma31928Joy/status/2110151441222606940) | **Published:** Oct 13, 2026
-
----
-### Retro 1985 AI Robot Görselleri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine tarafından oluşturulan, 1985 film şeridi tarzında çekilmiş görseller için yaratıcı bir konsept açıklaması.
-
-#### 📝 Prompt
-
-```
-Robotlar. Sunucular. Rüya gören makineler.
-Hepsi 1985'i hatırlayan bir film şeridiyle çekildi.
-Yarın, dünkü gibi filme alındı.
-
-Ya yapay zeka 1985'te filme alınmış olsaydı?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110022641792753664/img/NQcxCgKv3iv8kiuD.jpg" width="600" alt="Retro 1985 AI Robot Görselleri">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12709)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2110062762218926204) | **Published:** Oct 13, 2026
-
----
-### Antropomorfik Yavru Kediler Park Bankı Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Park bankında oturan üç antropomorfik yavru kedinin, birinin tüylerini taradığı, diğerinin bahşiş kutusu tuttuğu ve kameraya el salladığı sevimli bir video oluşturmak için prompt.
-
-#### 📝 Prompt
-
-```
-Üç küçük antropomorfik yavru kedi park bankında oturuyor. Biri minik bir fırça ile diğerinin tüylerini tararken, üçüncüsü ayağa kalkıp bahşiş kutusunu kameraya doğru uzatıyor ve boşta kalan patisiyle jest yapıyor. Bir yaprak süzülerek geçerken hepsi birden heyecanla miyavlayıp el sallamaya başlıyor. Önlerindeki renkli tabelada “Sevimlilik fazlalığı için bahşiş” yazıyor. Ağaçların arasından süzülen yumuşak öğleden sonra güneş ışığı, gerçekçi tüyler ve ifade dolu yüzler, hafif kamera itimi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109990553387401216/img/pxDuws-dgbG7gjnb.jpg" width="600" alt="Antropomorfik Yavru Kediler Park Bankı Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12559)**
-
-**Author:** [Jay Kay](https://x.com/JayKay65220066) | **Source:** [Link](https://x.com/JayKay65220066/status/2110007645910274279) | **Published:** Oct 13, 2026
-
----
-### Matrix Dijital Yağmur Döngü Animasyonu İstem Promptu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tam bir görüntü karesinden başlayan, paleti ve detayları koruyan 15 saniyelik kesintisiz döngülü Matrix dijital yağmur animasyonu oluşturmak için hassas bir prompt.
-
-#### 📝 Prompt
-
-```
-Bu tam görüntüyü, 15 saniyelik kesintisiz döngülü Matrix dijital yağmur animasyonunun ilk karesi olarak kullanın. Orijinal en-boy oranını, kesin kompozisyonu, siyah arka planı, zümrüt yeşili monospace rakam “1” paletini ve her piksel detay...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109962076194238464/img/gu5sGBAfLJZ1SDfg.jpg" width="600" alt="Matrix Dijital Yağmur Döngü Animasyonu İstem Promptu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12519)**
-
-**Author:** [_](https://x.com/ONKiChan1) | **Source:** [Link](https://x.com/ONKiChan1/status/2109962140056740262) | **Published:** Oct 13, 2026
-
----
-### Grok Imagine Sydney Sweeney Su Altı Neon Macera Video Promptu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sydney Sweeney'nin su altı neon gece kulübü macerasını içeren, belirli zamanlama, ışıklandırma ve ses ipuçlarına sahip detaylı sinematik video promptu.
-
-#### 📝 Prompt
-
-```
-AI Video Prompt — Sydney Sweeney Su Altı Neon Macerası
-
-Dikey 9:16 sinematik video, 10 saniye, başrolde tanınabilir yüz hatları, dalgalı sarı saçları ve ifade dolu gülümsemesiyle Sydney Sweeney. Ultra hızlı tempo, whip-pan geçişleri ve yaklaşık her saniyede bir gerçekleşen ritim senkronizasyonlu kesimler.
-
-0–2 saniye: Göğüs kayışına küçük bir aksiyon kamerası takılı şık siyah serbest dalış tulumu giyen Sydney Sweeney, beyaz kumların üzerindeki kristal berraklığında turkuaz suda hızla yüzer. Kamera onu dinamik su altı hareketleriyle takip ederken güneş ışınları yüzünde parıldar.
-
-2–4 saniye: Canlı mercan resiflerinden hızla geçerek alacalı boncuklardan oluşan parlayan bir perdeye doğru ilerler. Parıldayan perdeden patlayarak geçişi sırasında dramatik bir hız rampası (speed ramp) uygulanır. Kamera, mor ışığın çevredeki suyu aydınlattığı gizemli koyu renkli bir mercan mağarasına doğru whip-pan yapar.
-
-4–6 saniye: Neon lazerler, renkli strobe ışıkları, havada süzülen ışıltılı yıldız şeklinde güneş gözlükleri ve müzikle uyumlu hareket eden tropikal balıklarla dolu fütüristik bir su altı gece kulübünün patlayıcı açılışı. Sydney, camgöbeği, macenta ve mor ışıkların yüzünü aydınlattığı parlayan mor bir portaldan çıkarak ortaya çıkar.
-
-6–10 saniye: Sydney büyük boyutlu neon yıldız şeklinde güneş gözlüklerini takar, su altında ağırlıksız ortamda oyunbazca döner ve etrafında parlayan kabarcıklar ile partiküller savrulurken güler. Kamera, enerjik zoomlar, keskin whip-panlar ve pürüzsüz hız rampası geçişleriyle onun etrafında hızla dolaşır; canlı gece kulübü arka planında gülümseyen yüzünün dramatik yakın çekimiyle sonlanır.
-
-Görsel stil: Hiper gerçekçi sinematik görüntüler, doğal yüz detayları, tutarlı karakter görünümü, gerçekçi su altı fiziği, hacimsel ışıklandırma, canlı turkuaz su, neon macenta ve camgöbeği vurgular, mor parıltı, süzülen partiküller, yumuşak hareket bulanıklığı, yüksek kontrast, premium müzik videosu estetiği, 24 fps.
-
-Ses: Enerjik elektronik dans müziği, derin su altı uğultuları, ışıltılı ses efektleri ve gece kulübü açılışında bas drop.
-
-Tutarlılık: Tüm çekimlerde Sydney Sweeney'yi tanınabilir ve görsel olarak tutarlı tutun. Yüz bozulması, mükerrer karakterler, titreyen yüz özellikleri, istenmeyen metinler, logolar veya filigran bulunmamalıdır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109874235179139072/img/tU9teihuV2asbHgy.jpg" width="600" alt="Grok Imagine Sydney Sweeney Su Altı Neon Macera Video Promptu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12439)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2109874273607462953) | **Published:** Oct 13, 2026
-
----
-### Dua Eden Patiler Macera Yolculuğu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sir Crimson ve Daughter Pearl adlı karakterlerin yer aldığı simüle edilmiş bir yolculuk videosu için anlatı tarzında bir istem.
-
-#### 📝 Prompt
-
-```
-"Dua Eden Patiler" 🙏🐾🐾🦴🦴
-
-"Yarına Yolculuk" simüle edilmiş sürüş. Sir Crimson ve Daughter Pearl... büyük macera 🐾🦴🌎🪐
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109809737550233600/img/cz-YyApO3SbQ8arG.jpg" width="600" alt="Dua Eden Patiler Macera Yolculuğu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12510)**
-
-**Author:** [Restful_Path_777](https://x.com/Bchalk_777_777) | **Source:** [Link](https://x.com/Bchalk_777_777/status/2109809814293598376) | **Published:** Oct 13, 2026
-
----
-### Vücut Korkusu Spor Salonu Antrenman Videosu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Anormal kas büyümesi ve gömülü metal plakalar içeren gerçekçi bir spor salonu videosu oluşturmak için karmaşık bir istem. Belirli kamera açıları, zamanlama ve kanlı olmayan korku unsurlarını detaylandırır.
-
-#### 📝 Prompt
-
-```
-[Referans Kilitleme]
-
-Şekil ve ortam referansı olarak yeni üretilen ilk kareyi @1 kullanın.
-
-Erkek yaklaşık 38 yaşında yetişkin, kazıtılmış saç, kısa sakal, üstü çıplak, turuncu kenarlı koyu gri spor şort ve gri-siyah spor ayakkabı giyiyor.
-
-Omuz ve sırtta zaten anormal kas kütleleri var, baştan itibaren mevcut, video boyunca yeniden büyümeyecek.
-
-Sol kürek kemiğinden kaburgalara kadar dikey, asimetrik devasa bir çıkıntı; sağ omuzda daha küçük katmanlı kas şişlikleri var.
-
-Sol kütle yüzeyinde iki koyu mor çatlak benzeri yara, kenarlar kırışık ve düzensiz.
-
-Kütleler gerçek ağırlığa sahip, kasılma ile hafifçe sıkışıyor, balon gibi şişmiyor.
-
-Kan fışkırması, doku patlaması veya ekstra uzuv yok.
-
-[Stil & Kamera]
-
-9:16 dikey, 12 saniyelik kesintisiz akıllı telefon kaydı.
-
-Çekim yapan kişi adamın yaklaşık iki metre arkasında ve solunda duruyor, göğüs hizasından çekim yapıyor.
-
-İki üçte bir arka açıyla açılıyor, omuz/sırt kütlelerini, kolları ve EZ curl barını aynı anda gösteriyor.
-
-Hafif el titremesi, küçük çerçeve ayarlamaları, yörünge hareketi yok, kesme yok, ağır çekim yok.
-
-Sıradan eski bir spor salonu kaydı: düz floresan ışıklar, hafif gürültü, sıkıştırma artefaktları, ter yansımaları, doğal hareket bulanıklığı.
-
-Korku filmi ışıklandırması yok, arka plan müziği yok.
-
-[Ortam & Eşyalar]
-
-Eski topluluk bodrum katı spor salonu, beyaz sütunlar, açık yeşil duvar kaplaması, yıpranmış gri zemin, kırmızı antrenman bankı, dambıl rafı, duvar vantilatörü.
-
-Arka plandaki yetişkin fitness meraklısı gri kıyafetlerle antrenmana devam ediyor, dikizlemiyor, bağırmıyor.
-
-Protagonist her iki eliyle aynı EZ curl barını kavrar, her iki tarafta sabit sayıda siyah ağırlık plakası var.
-
-[0–4s | Curl Tamamlama]
-
-Adam sağlam duruyor, dirsekler vücuda yakın, barı kalçalardan göğse kaldırıyor.
-
-Ön kollar önce bükülüyor, ardından bisepsler kasılıyor.
-
-Sırttaki devasa çıkıntı omuz gerilimi altında hafifçe sıkışıyor, yara konumları değişmeden kalıyor.
-
-Bara aşağı bakıyor, ifadesi zorlanmış, kısa bir nefes veriş.
-
-Telefon hafifçe ayarlanıyor, anormal omuz/sırt ve curling eylemini çerçevede tutuyor.
-
-[4–7s | Yavaş İndirme]
-
-Adam barı neredeyse düz olana kadar kontrollü şekilde indiriyor.
-
-Gerginlik bırakıldığında omuz/sırt yumuşak dokuları hafifçe çöküyor ve sallanıyor, sonra stabilize oluyor.
-
-Ter ciltten aşağı akıyor.
-
-Aniden normal fiziğe küçülemez, yeni kütle eklenemez.
-
-[7–10s | Antrenmanı Bitirme]
-
-Dizlerini büker, öne eğilir, barı ayaklarının önündeki zemine yerleştirir.
-
-Ağırlık plakaları önce zemine değiyor, sonra kavramayı bırakıyor.
-
-Bir kez boğuk metalik çarpma sesi duyuluyor.
-
-Telefon doğal olarak hafifçe aşağı takip ediyor, sonra yukarı dönüyor.
-
-[10–12s | Filmi Çekmeye Devam Etme]
-
-Adam doğruluyor, kameraya doğru dönmeye başlıyor ama tam yüzünü göstermiyor.
-
-Nefes alışverişi hızlanıyor, ter damlaları alnından süzülüyor.
-
-Arka plandaki diğer sporcu sessizce alet değiştiriyor.
-
-Işıklar hafifçe titriyor, ancak genel atmosfer gerçekçi kalıyor.
-
-[Ambiyans & Ses]
-
-Sadece doğal spor salonu sesleri: nefes alma, metal teması, hafif ayak sesleri.
-
-Müzik veya efekt yok.
-
-Görsel tutarlılık kritik: Kas yapısı ve yaralar tüm sahnelerde aynı kalmalı.
-
-Renk paleti solgun ve gerçekçi, aşırı doygunluk yok.
-
-Sonuç olarak, video belgesel tarzında, rahatsız edici ama fantastik olmayan bir vücut korkusu deneyimi sunmalı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109781478963871745/img/F62454rkvV2-o5cl.jpg" width="600" alt="Vücut Korkusu Spor Salonu Antrenman Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12444)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109803808867922199) | **Published:** Oct 13, 2026
-
----
-### Reynolds Gillis Planes Trains Autos video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ryan Reynolds ve Shane Gillis'in başrollerini paylaştığı 'Planes, Trains and Automobiles' filmindeki otel sahnesini yeniden canlandıran bir Grok Imagine video istemi.
-
-#### 📝 Prompt
-
-```
-Ryan Reynolds ve Shane Gillis, Planes Trains and Automobiles filmi otel sahnesinde Steve Martin ve John Candy olarak
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109781204354445312/img/Xtq9zLNv2YAiNH2F.jpg" width="600" alt="Reynolds Gillis Planes Trains Autos video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12441)**
-
-**Author:** [Redacticus](https://x.com/BillDeWaal) | **Source:** [Link](https://x.com/BillDeWaal/status/2109781218048835891) | **Published:** Oct 12, 2026
-
----
-### Restoran Meme Videosu: Ayak Tabanı Şeklinde Kuru Tofu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Bir restoranda, bir müşterinin ayak tabanına benzeyen kuru tofu alıp garsonla etkileşime girdiği, 10 saniyelik dikey ve komik bir video oluşturmak için hazırlanmış prompt.
-
-#### 📝 Prompt
-
-```
-[Genel Ortam]
-
-10 saniye, 9:16 dikey format, restoranda gerçekçi, gündelik akıllı telefon çekimi, tek plan.
-
-Yüklenen yeniden çizilmiş görsel, son kare referansı olarak işlev görür; ayak tabanı şeklindeki kuru tofunun şekli, kavrama pozisyonu, masa düzeni, garsonun görünümü ve nihai kompozisyon bu referansa göre sabitlenir.
-
-[Sahne ve Çekim İlişkisi]
-
-Sıradan küçük bir Çin restoranı, sıcak sarkıt aydınlatmalar, bej renkli masalar, arka planda doğal şekilde yemek yiyip sohbet eden müşteriler.
-
-Ön planda içinde acı biber yağı, kuru tofu, erişte ve sebzelerin bulunduğu büyük beyaz bir kase yer alır; yanında çorba kasesi, demlik ve peçete kutusu bulunur.
-
-Oturmuş yetişkin erkek sol eliyle telefonu tutar, sağ elindeki iki ahşap chopstick ile yiyecekleri alır. Sadece yiyecek alan el kadraja girer; erkeğin yüzü ve vücudu ekran dışında kalır.
-
-Garson siyah üst ve bordo önlük giyer, masanın karşısındaki sağ tarafta konumlanır.
-
-Hafif el titremesi, doğal iç mekan pozlaması, sıradan telefon sıkıştırma kalitesi, güzellik filtresi yok, sinematik renk düzeltmesi yok.
-
-[Anahtar Prop]
-
-Yalnızca bir adet ayak tabanı şeklinde kuru tofu: kahverengimsi sarı, ince dilim, yüzeyi acı biber yağı ve taze soğanla kaplı, net ızgara deseni, konturları son kare ile uyumlu.
-
-Bu esnek bir yiyecektir, gerçek bir ayakkabı tabanı değildir; ayakkabı üstü, kauçuk veya başka bir ayakkabı parçası görünmez.
-
-Chopstickler tofunun üst ucunu kavrar, temas noktaları doğrudur, kaldırıldığında alt uç doğal şekilde sarkar.
-
-[Katı Zaman Akışı]
-
-0–2s:
-
-Kamera hafifçe aşağı doğru, yemek kasesine yönelik. Erkeğin sağ eli soldan kadraja girer, iki ahşap chopstick ile kasenin içindeki tofu parçasının üst ucunu kavrar.
-
-Tofu kısmen acı biber yağının içinde, konturları henüz tam olarak ortaya çıkmamış.
-
-2–4.5s:
-
-Erkek chopstickleri yavaşça yukarı kaldırır.
-
-Tüm tofu parçası kaseden sürekli olarak çıkarılır, önce üst ucu, sonra ızgara deseni, daralan orta bölümü ve yuvarlak alt kısmı görünür hale gelir, böylece ayak tabanı şekli kademeli olarak tamamlanır.
-
-Tofu hafifçe sallanır, iki-ü üç damla sos kaseye geri düşer.
-
-Kamera, tutan elle birlikte hafifçe yükselir, tüm tofu parçasını kadrajda tutar.
-
-4.5–6s:
-
-Erkek chopstickleri durdurur, yiyeceği dikkatle inceliyormuş gibi görünür, şüpheli bir şekilde mırıldanır:
-
-"Bu kuru tofu..."
-
-Garson sesi duyar, masanın diğer tarafından hafifçe yaklaşır, bakışları chopsticklerden tofuya kayar.
-
-6–9s:
-
-Erkek kavramayı sürdürür, tofuyu garsona doğru nazikçe gösterir ve sorar:
-
-"Garson, neden ayakkabı tabanına benziyor?"
-
-Ton doğal, şaşkın, biraz inanmazlık dolu, suçlayıcı bağırışlar yok.
-
-Garson aşağıya bakar, kaşları giderek çatılır, dudakları hafifçe büzülür, duraksar ve hemen cevap vermez.
-
-Tofu hala kase üzerinde asılıdır, garsona dokunmaz.
-
-9–10s:
-
-Kamera, tamamı görünen tofu parçası ve garsonun şaşkın tepkisinde sabitlenir.
-
-Chopstickler, tofu, mutfak gereçleri ve garsonun pozisyonu son kare referansıyla hizalanır, en az bir saniye boyunca sabit tutulur, sessiz komik bir duraklama bırakılır.
-
-[Ses]
-
-Yetişkin erkeğin doğal konuşma sesi, kameraya yakın kaynaklı.
-
-Chopsticklerin kase kenarına hafifçe değme sesleri, sos damlama sesleri, yan masalardan gelen düşük hacimli sohbetler ve mutfak gereçlerinin tıkırtıları korunur.
-
-Anlatım yok, arka plan müziği yok, abartılı komedi ses efektleri yok.
-
-[Süreklilik ve Kısıtlamalar]
-
-Kaldırmadan önce kavranmalı, tofu kaseden sürekli bir yörünge boyunca çıkmalı, ışınlanma yok, çoğaltma yok.
-
-Kaldırma öncesi ve sonrası aynı şekil, boyut, ızgara deseni ve renk korunmalı.
-
-İki chopstick kullanılmalı, yiyecek delinmemeli, deforme edilmemeli; parmaklar normal olmalı.
-
-Garson yalnızca doğal şekilde yaklaşır ve gözlemler, yiyeceği kapmaz, erken bağırmaz.
-
-Kesme yok, ani zoom yok, ağır çekim yok, ek animasyon yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109674296809279488/img/EoN20k23H_nqxK7o.jpg" width="600" alt="Restoran Meme Videosu: Ayak Tabanı Şeklinde Kuru Tofu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12443)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109720765776162888) | **Published:** Oct 12, 2026
-
----
-### Yeti Bulldog Corvette İncelemesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1966 model Corvette convertible'ı inceleyen Yeti adlı Fransız bulldog'un yer aldığı eğlenceli bir Grok Imagine video istemi.
-
-#### 📝 Prompt
-
-```
-Yeti adlı Fransız bulldog'un Mossport yeşili 1966 Corvette convertible arabasını incelediği video. #frenchbulldog #corvette #dog #carreview
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109706028686200833/img/-oDD9GlXGFSTVJ2g.jpg" width="600" alt="Yeti Bulldog Corvette İncelemesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12440)**
-
-**Author:** [Howard Gilson](https://x.com/Howard4S) | **Source:** [Link](https://x.com/Howard4S/status/2109713321830371593) | **Published:** Oct 12, 2026
-
----
-### Sam Elliott Kovboy Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine'ın Sam Elliott'ı at üzerinde ve sürüyü yönlendirirken gösteren fotogerçekçi bir video üretmesi için detaylı istem.
-
-#### 📝 Prompt
-
-```
-Sam Elliott'ın at üzerinde, düzlükler ve çöl boyunca bir sığır sürüsünü yönlendirirken göründüğü fotogerçekçi video. Son sahnede kamera Sam'e doğru kayar, o gülümser ve kovboy şapkasını çıkararak selam verir. Konuşma yok, country müzik eşlik etsin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109648300836093952/img/OtQcWmsSCkdf5cGR.jpg" width="600" alt="Sam Elliott Kovboy Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12438)**
-
-**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2109648322424164530) | **Published:** Oct 12, 2026
-
----
-### Neon Megakent Üzerinde Uzaylı UFO
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine'ı diğer yapay zeka görüntü oluşturucularla karşılaştırmak için kullanılan, alacakaranlıkta neon bir megakentin üzerinde asılı duran devasa bir uzaylı UFO'sunu betimleyen detaylı sinematik istem.
-
-#### 📝 Prompt
-
-```
-Alacakaranlıkta yayılan neon megakentin üzerinde tehditkar bir şekilde asılı duran, devasa ve ultra yüksek teknolojili bir uzaylı UFO'su; karanlık obsidyen çanak gövdesi parlayan silah dizileriyle ve açılı iticilerle donatılmış, uğursuz kırmızı tarama ışınları aşağı doğru keserken çekirdeğinden nabız gibi atan enerji halkaları dalgalanıyor. 3D fütüristik CGI render, derin boşluk siyahları ve parlayan beyaz vurgularla elektrik mavisi (cyan) ve macenta renk paleti, toksik sisin içinden süzülen hacimsel Tanrı ışınları, yansıtıcı metal yüzeyler ve çatırdayan enerji ile karmaşık katmanlı derinlik. Devasa ölçeği vurgulamak için dramatik bir şekilde yükselen sinematik düşük açı dolly çekimi, ince lens parlamasıyla yavaş ve akıcı dönen kamera hareketi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109580352566030336/img/XVmzd3tzI-sDpCry.jpg" width="600" alt="Neon Megakent Üzerinde Uzaylı UFO">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12445)**
-
-**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2109615817902129155) | **Published:** Oct 12, 2026
-
----
-### Zombi İkili Dans Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine kullanarak 15 saniyelik dikey formatlı bir Cadılar Bayramı zombi ikili dans videosu oluşturmak için detaylı istem. Dansçı pozisyonları, korku makyajını önlemek için görünüm kilitleri ve ritimle senkronize edilmiş spesifik kamera yakınlaştırma talimatları gibi katı kısıtlamaları içerir.
-
-#### 📝 Prompt
-
-```
-15s Cadılar Bayramı Zombi İkili Dans | 9:16 Dikey | İki Dansçı | Sabit Arka Plan | Sabit Kamera | Ritim Senkronlu Yakınlaştırma & Yakın Çekim | Korku Trap Hip-Hop
-
-MÜZİK / ENERJİ:
-Başlangıçtan itibaren aniden devreye giren yoğun bir beat, 155 BPM korku trap hip-hop. Sert davullar, ağır baslar, yüksek hız, keskin vurgular, enerjik ve dinamik.
-
-KESİN KİLİT:
-Yalnızca tam olarak iki dansçı. A Dansçısı her zaman SOLDA, B Dansçısı her zaman SAĞDA kalır. Başlangıç karesindeki yüzler, vücutlar, saç stilleri, kıyafetler, pozisyonlar, arka plan, ışıklandırma, renkler ve gölgeler video boyunca aynı kalır. Yer değiştirme yok, yer değişimi yok, morflama yok, ekstra dansçı yok, kesme yok. Arka plan asla değişmez.
-
-Zombi Dansı (En Yüksek Öncelik):
-Her iki dansçı da kollarını omuz hizasında düz bir şekilde öne uzatır, bileklerini tam olarak 90 derece aşağı büker ve parmaklarını doğal ve düz bir şekilde açarak inanılmaz derecede hızlı, agresif ve yüksek enerjili bir "zombi dansı" sergiler. Performans; sert bacaklarla yapılan hızlı "zombi adımları", patlayıcı omuz hareketleri, yoğun chest pop'lar, keskin baş hareketleri, güçlü diz kaldırışları, geniş dizli çökmeler, ani hamleler ve canlı, ritmik vücut sarsıntılarından oluşan bir hareket dizisini içerir.
-
-155 BPM'de ÇİFT TEMPO ayak işleri kullanın, hızlı ivmelenme, ani duruşlar, patlayıcı yeniden başlatmalar ve sert beat vurguları ekleyin.
-Kalıcı zombi kol pozunu korurken her iki dansçının aynı anda farklı dans hareketleri yaptığı bazı bölümler dahil edin.
-
-İKİLİ DANS KURALI:
-Bu bir ikili danstır, ancak sürekli olarak tamamen senkronize olmak zorunda değildirler.
-Aynı genel ritimde hareket ederler, ancak hafif zamanlama farkları, dönüşümlü vurgular ve farklı vücut aksiyonlarıyla.
-
-BİTİŞ:
-İkisi birlikte bir zombi pozu alır ve çekim, kameraya dikilirken kızıl parlayan gözlerine doğru yakın plana zoom yapar.
-
-GÖRÜNÜM KİLİDİ — MUTLAK ÖNCELİK:
-Her iki dansçının başlangıç karesinde gösterildiği gibi orijinal yüzlerini, doğal ten tonlarını, saç stillerini ve makyajlarını tam olarak koruyun. Zombi makyajı, korku makyajı, ceset makyajı, soluk veya gri cilt, kararmış göz çukurları, yüz renk bozukluğu veya grotesk yüz efektleri YOK. Kan, sahte kan, kanama, yaralar, izler, morluklar veya görünen yaralanmalar YOK. Zombi karakterini yalnızca sert vücut hareketleri, doğa dışı baş eğimleri, sürüklenen adımlar, keskin omuz darbeleri ve ürkütücü yüz ifadeleriyle ifade edin. Video boyunca hiçbir dansçının görünümünü değiştirmeyin.
-
-KAMERA:
-Yalnızca sabit önden kamera. Kamera hareketi yok, pan yok, tilt yok, dolly yok.
-Hız ve etki yaratmak için yalnızca hızlı, beat-senkron optik yakınlaştırmalar, ani uzaklaştırmalar ve kısa punch-in yakın çekim çerçevelemesi kullanın, ancak kamera konumunu sabit tutun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109605227141980160/img/fuYzaUPkPABjaSOE.jpg" width="600" alt="Zombi İkili Dans Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12446)**
-
-**Author:** [SPLASH GIRLS@AI Image](https://x.com/splash_GL) | **Source:** [Link](https://x.com/splash_GL/status/2109615069470556358) | **Published:** Oct 12, 2026
-
----
-### Ay'da Lunapark Treni Bakış Açısı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ay'ın yüzeyinde başlayan bir lunapark treni yolculuğunun sinematik birinci şahıs bakış açılı video istemi.
-
-#### 📝 Prompt
-
-```
-Sinematik POV: Ay'ın ıssız yüzeyinde, uzayın sonsuz karanlığında asılı duran heyecan verici birinci şahıs lunapark treni yolculuğu başlıyor. Kamera, imkansız derecede dik bir rayın kenarına yavaşça yaklaşıyor ve ardından nefes kesen...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109587925340131328/img/uyDrinJwjJgcnZZy.jpg" width="600" alt="Ay'da Lunapark Treni Bakış Açısı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12518)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2109587970412212342) | **Published:** Oct 12, 2026
-
----
-### Kovboy ve Kovgirl Plaj Yarışı Siluet Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, gün doğumu renklerinde toynak parıltıları eşliğinde plajda yarışan kovboy ve kovgirl'leri tasvir eden sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Koyu siluet halinde bir kovboy ve kovgirl, okyanus kıyısında yan yana yarışıyor. Her toynak kuma değdiğinde, atların toynaklarından parlak bir gün doğumunun renklerinde ışık patlamaları yayılıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109544031252529153/img/syXmP_gxWX9mJQt4.jpg" width="600" alt="Kovboy ve Kovgirl Plaj Yarışı Siluet Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12378)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109544110919164271) | **Published:** Oct 12, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2504,6 +2313,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-21T04:26:50.489Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-21T13:56:00.759Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3160** |
+| 📝 Total Prompts | **3185** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-21** |
 
@@ -189,6 +189,479 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ซูมช้าแบบภาพยนตร์บนแล็ปท็อป
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์การเคลื่อนไหวของกล้องที่แม่นยำสำหรับการซูมเข้าช้าๆ บนโน้ตบุ๊กเกมมิ่งที่มีพื้นหลังนิ่ง
+
+#### 📝 Prompt
+
+```
+ซูมเข้าอย่างนุ่มนวลและเชื่องช้าไปที่แล็ปท็อปเกมมิ่งสีดำในมุม 45 องศา เคลื่อนกล้องแบบภาพยนตร์อย่างลื่นไหลเท่านั้น ตัวผลิตภัณฑ์และพื้นหลังหยุดนิ่งสนิท ไม่มีการหมุน ไม่มีการโคจรรอบ เผยให้เห็นตัวสินค้าแบบสมจริงระดับภาพถ่าย ไม่มีเสียง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112798017090625536/img/AWUm6KNP8K-8MPix.jpg" width="600" alt="ซูมช้าแบบภาพยนตร์บนแล็ปท็อป">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12844)**
+
+**Author:** [Jacek](https://x.com/Jacek1029984002) | **Source:** [Link](https://x.com/Jacek1029984002/status/2112798047713350106) | **Published:** Oct 21, 2026
+
+---
+### ฉากพื้นหลังสีแดงแบบนามธรรม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ JSON แบบมีโครงสร้างที่กำหนดการตั้งค่ากล้องและรายละเอียดฉากสำหรับวิดีโอพื้นหลังสีแดงแบบนามธรรม
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "ต่ำ", "camera_depth": "ภาพระยะกลางค่อนข้างใกล้ (medium close-up)", "camera_view": "ระดับสายตา", "camera_movement": "กล้องนิ่ง"}, "scene": {"location": "พื้นหลังสีแดงแบบนามธรรม", "environment": "ฉากนี้โดดเด่นด้วยพื้นหลังสีแดงสดทึบ..."}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112788059158958081/img/6fWorOXXx3iB63Ee.jpg" width="600" alt="ฉากพื้นหลังสีแดงแบบนามธรรม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12852)**
+
+**Author:** [レイヴ](https://x.com/raves9361) | **Source:** [Link](https://x.com/raves9361/status/2112788079555834293) | **Published:** Oct 21, 2026
+
+---
+### Tesla Roadster กับหญิงสาวอนิเมะ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับวิดีโอที่แสดงหญิงสาวสไตล์อนิเมะก้าวขึ้น Tesla Roadster พร้อมแรงขับจรวด บินเหนือการจราจร
+
+#### 📝 Prompt
+
+```
+หญิงสาวสไตล์อนิเมะสวมสปอร์ตบราและเลกกิ้งสีเบจ กำลังก้าวขึ้น Tesla Roadster รุ่นใหม่ที่มาพร้อมระบบขับเคลื่อนด้วยแรงขับจากจรวด เมื่อเธอออกตัว รถก็พุ่งทะยานลอยข้ามการจราจรเบื้องล่างไปเลย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112765941310222336/img/DeWpDxRZvODE8WnG.jpg" width="600" alt="Tesla Roadster กับหญิงสาวอนิเมะ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12848)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2112766018804453885) | **Published:** Oct 21, 2026
+
+---
+### การแปลงร่างซามูไรสไตล์สตีมพังค์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างวิดีโอที่เปลี่ยนตัวละครให้เป็นซามูไรแอนิเมชันสไตล์สตีมพังค์ พร้อมข้อกำหนดด้านเสียงเฉพาะ
+
+#### 📝 Prompt
+
+```
+แปลงร่าง Hiro ให้กลายเป็นซามูไรสุนัขพันธุ์ชิบะสไตล์ Kurosawa ในรูปแบบแอนิเมชันสตีมพังก์ โดยไม่มีบทพูด และมีดนตรีญี่ปุ่นประกอบ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112754224903979008/img/eTrYjw9bbWQR_bPl.jpg" width="600" alt="การแปลงร่างซามูไรสไตล์สตีมพังค์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12857)**
+
+**Author:** [Simon](https://x.com/schaniteration2) | **Source:** [Link](https://x.com/schaniteration2/status/2112754273981497746) | **Published:** Oct 21, 2026
+
+---
+### ปรับสไตล์เป็นอนิเมะจิ๋ว Chibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างวิดีโอที่เปลี่ยนสไตล์ตัวละครให้เป็นอนิเมะจิ๋ว (Chibi) โดยยังคงความคล้ายคลึงของใบหน้าไว้
+
+#### 📝 Prompt
+
+```
+ปรับสไตล์ภาพนี้ให้เป็นอนิเมะแนว chibi คลาสสิก เปลี่ยนตัวละครหลักให้อยู่ในเวอร์ชัน chibi ที่มีหัวโต ตัวเล็ก ดวงตาเป็นประกายขนาดใหญ่ และสัดส่วนน่ารักแบบเกินจริง โดยยังคงรักษาใบหน้าและผิวพรรณของเขาให้เหมือนต้นฉบับทุกประการ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112744200311631872/img/wAljQaQ8N7BzzVYA.jpg" width="600" alt="ปรับสไตล์เป็นอนิเมะจิ๋ว Chibi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12856)**
+
+**Author:** [Shockwave48 TV](https://x.com/canyon_brown) | **Source:** [Link](https://x.com/canyon_brown/status/2112744312182047054) | **Published:** Oct 21, 2026
+
+---
+### Dragons Ocean Dive Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แฟนตาซีสำหรับวิดีโอที่แสดงมังกรสองตัวดำน้ำใต้เรือลากจูงและบินกลับขึ้นมา
+
+#### 📝 Prompt
+
+```
+มังกรสีเทาเข้มหนึ่งตัวและมังกรสีขาวเงินอีกหนึ่งตัวบินเคียงคู่กันเหนือผืนมหาสมุทร ก่อนจะดิ่งลงสู่ทะเล พุ่งลอดใต้เรือลากจูงสีเหลือง แล้วทะยานกลับขึ้นไปบนท้องฟ้าอีกครั้ง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112740302830329856/img/CnXd8yw-CLSArONI.jpg" width="600" alt="Dragons Ocean Dive Flight">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12845)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2112740397541961918) | **Published:** Oct 21, 2026
+
+---
+### การสำรวจอวกาศด้วยเสียงบรรยายลึก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับวิดีโอที่มีเสียงบรรยายลึกเกี่ยวกับดวงตาที่มองเห็นไกลเกินกว่าดวงจันทร์และดาวอังคาร
+
+#### 📝 Prompt
+
+```
+ด้วยเสียงบรรยายทุ้มนุ่มลึก: ดวงตาที่มองไกลเกินกว่าดวงจันทร์และดาวอังคาร เพื่อนำพามนุษยชาติไปสู่ดินแดนที่เราไม่เคยไปถึงมาก่อน...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112728615062261760/img/OGILI4iOvDclpSFs.jpg" width="600" alt="การสำรวจอวกาศด้วยเสียงบรรยายลึก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12853)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2112728646582735171) | **Published:** Oct 21, 2026
+
+---
+### การขับรถโรดสเตอร์ยามพระอาทิตย์ตก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เชิงภาพยนตร์สำหรับการขับรถโรดสเตอร์ในฉากโลกใหม่ระหว่างช่วงพระอาทิตย์ตกที่มีดวงอาทิตย์สองดวง
+
+#### 📝 Prompt
+
+```
+สำรวจโลกใบใหม่ไปกับ Optimus และ Kat ขับรถโรดสเตอร์คันเล็กปิดท้ายยามพระอาทิตย์ตกดินพร้อมดวงอาทิตย์สองดวง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112705363422367744/img/Vpq1a_pC5_VfHQS6.jpg" width="600" alt="การขับรถโรดสเตอร์ยามพระอาทิตย์ตก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12841)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2112705475875930480) | **Published:** Oct 21, 2026
+
+---
+### Grok Imagine พรอมต์ฉากเมืองถล่มสไตล์ Inception
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์สองขั้นตอนสำหรับสร้างฉากเมืองถล่มสไตล์ Inception: ขั้นแรกคือการสร้างภาพนิ่งสไตล์ภาพยนตร์จากภาพถ่าย จากนั้นจึงเปลี่ยนเป็นวิดีโอพร้อมอาคารที่พับงอ
+
+#### 📝 Prompt
+
+```
+ใช้ภาพถ่ายที่แนบมาเป็นเพียงข้อมูลอ้างอิงใบหน้า/ตัวตนเท่านั้น
+สร้างภาพนิ่งสไตล์ภาพยนตร์ (cinematic still) ขึ้นมาใหม่ทั้งหมด
+
+ตัวละครอยู่ในฉากเมืองถล่มในฝันจากเรื่อง Inception แล้ว
+เมืองพับตัวเข้าหากันคล้ายปารีส อาคารโค้งงอเหนือศีรษะ ถนนยกตัวขึ้น ฝุ่นคลุ้งในอากาศ
+ลุคภาพยนตร์แบบ Christopher Nolan, อัตราส่วน 16:9, เลนส์ anamorphic, เกรนฟิล์ม (film grain), แสงเงาดราม่า
+
+ห้ามจัดองค์ประกอบภาพตามรูปต้นฉบับ
+ห้ามใช้พื้นหลังเดิมจากรูปต้นฉบับ
+ห้ามทำภาพแบบค่อย ๆ เปลี่ยนจากรูปถ่ายไปเป็นฉาก
+เฟรมแรกและเฟรมเดียว = ภาพนิ่งจากภาพยนตร์ที่เสร็จสมบูรณ์แล้ว
+รักษาใบหน้าเดิมไว้ให้เหมือนเดิม
+ไม่มีข้อความ ไม่มีลายน้ำ
+
+ทำให้ภาพนี้เคลื่อนไหว
+ภาพนี้คือเฟรมแรกอยู่แล้ว ห้ามทำเอฟเฟกต์เฟดอิน (fade) มาจากรูปอื่น
+
+เมืองยังคงพับตัวเข้าหาตัวเองอย่างต่อเนื่อง
+อาคารค่อย ๆ พลิกกลับหัว ถนนลอยขึ้น แรงโน้มถ่วงเปลี่ยนทิศทาง ฝุ่นและเศษซากปลิวล่องลอย
+ตัวละครต้องเป็นคนเดิม ใบหน้าเดิม
+การพังทลายอย่างเชื่องช้าและหนักหน่วง กล้องเคลื่อนเข้าไปใกล้แบบ cinematic ถ่ายมุมต่ำ (low angle), เลนส์ anamorphic, เกรนฟิล์ม
+ห้ามตัดต่อ ห้ามทำ dissolve จากภาพอื่น และห้ามมีแฟลชวาบของรูปต้นฉบับ
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2112691604612116480/pu/img/61yoOsOc6tnFzsrw.jpg" width="600" alt="Grok Imagine พรอมต์ฉากเมืองถล่มสไตล์ Inception">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12864)**
+
+**Author:** [ORCHIS STUDIO｜Web導線改善](https://x.com/StudioOrchis) | **Source:** [Link](https://x.com/StudioOrchis/status/2112695369855566318) | **Published:** Oct 21, 2026
+
+---
+### หัวหอมทอดกับซอสแห่งการต่อสู้
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สุดขี้เล่นเกี่ยวกับหัวหอมทอดสองชิ้นที่ทะเลาะและแย่งชิงซอสหยดสุดท้าย
+
+#### 📝 Prompt
+
+```
+หอมใหญ่ทอดวงแหวนสองวงเถียงกันเรื่องซอสที่เหลืออยู่หยดสุดท้าย แล้วก็ไถลตัวเข้าใส่กันเพื่อแย่งซอสหยดนั้น...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112669892734234624/img/541k2lznL0AMkm3f.jpg" width="600" alt="หัวหอมทอดกับซอสแห่งการต่อสู้">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12854)**
+
+**Author:** [Billy “Billymack” mcgee](https://x.com/BillyBilly5651) | **Source:** [Link](https://x.com/BillyBilly5651/status/2112669910887227871) | **Published:** Oct 20, 2026
+
+---
+### ฉากไล่ล่า Tesla Roadster สไตล์ GTA
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งที่ซับซ้อนซึ่งกำหนดให้ AI วิเคราะห์วิดีโอของ Tesla Roadster รุ่นใหม่ และสร้างวิดีโอฉากไล่ล่าแบบ GTA ที่เกี่ยวข้องกับรถบินได้
+
+#### 📝 Prompt
+
+```
+ดูวิดีโอเกี่ยวกับ Tesla Roadster รุ่นใหม่ให้เข้าใจอย่างถ่องแท้ จากนั้นสร้างวิดีโอแนว GTA ที่ตำรวจขับรถไล่ล่าคนร้ายกลางอากาศ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112641848132911104/img/IeAK_OL17gRSdhPz.jpg" width="600" alt="ฉากไล่ล่า Tesla Roadster สไตล์ GTA">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12846)**
+
+**Author:** [Rise-Raise](https://x.com/rise_raise_ai) | **Source:** [Link](https://x.com/rise_raise_ai/status/2112641880819474436) | **Published:** Oct 20, 2026
+
+---
+### ชายผู้บรรยายรถโรดสเตอร์ที่ลอยอยู่
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับฉากที่ชายคนหนึ่งอธิบายถึง Tesla Roadster ที่ลอยอยู่เบื้องหลัง
+
+#### 📝 Prompt
+
+```
+ชายที่อยู่ด้านหน้ากำลังอธิบายฟีเจอร์ของ Tesla Roadster รุ่นใหม่ ขณะที่รถลอยอยู่ด้านหลัง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112636802146160640/img/FBhpY4y1C4HJAe2l.jpg" width="600" alt="ชายผู้บรรยายรถโรดสเตอร์ที่ลอยอยู่">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12851)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2112636838879871296) | **Published:** Oct 20, 2026
+
+---
+### Tesla Roadster กระโดดด้วย Thruster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt วิดีโอแบบฟิสิกส์ความยาว 6 วินาที แสดง Tesla Roadster ใช้ thrusters ก๊าซเย็นกระโดดข้ามรถบัส
+
+#### 📝 Prompt
+
+```
+วิดีโอความยาว 6 วินาทีของ Tesla Roadster ขณะจุด cold gas thrusters เพื่อกระโดดข้ามรถโรงเรียน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112622676174897152/img/BSZNURdNcHautPV1.jpg" width="600" alt="Tesla Roadster กระโดดด้วย Thruster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12843)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2112622701492031836) | **Published:** Oct 20, 2026
+
+---
+### พรอมต์ฉากเมืองใหญ่ยามค่ำคืนพร้อมรถยนต์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์รายละเอียดสำหรับเปลี่ยนฉากให้เป็นบรรยากาศยามค่ำคืนพร้อมรถบินได้สไตล์อนาคตและพื้นหลังเมือง
+
+#### 📝 Prompt
+
+```
+เปลี่ยนฉากให้เป็นเวลากลางคืน โดยมีฉากหลังเป็นมหานครขนาดใหญ่สุดลูกหูลูกตา: ตึกระฟ้าสูงตระหง่านที่หน้าต่างส่องแสงเรืองรอง แสงไฟนีออน และเส้นขอบฟ้าของเมืองที่หนาแน่นในยามค่ำคืน โดยยังคงรถสีดำดีไซน์ล้ำยุคคันเดิมไว้ให้เหมือนเดิมทุกประการ ลอยตัวอยู่ด้วยเครื่องยนต์ขับดันและร่องรอยไอพ่น....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112616366079377408/img/t4JMqaM8-byM4MY9.jpg" width="600" alt="พรอมต์ฉากเมืองใหญ่ยามค่ำคืนพร้อมรถยนต์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12859)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2112616386010710451) | **Published:** Oct 20, 2026
+
+---
+### Tesla Roadster บินเหนือทะเลทราย
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์รายละเอียดสำหรับวิดีโอความยาว 6 วินาที ความละเอียด 720p แสดง Tesla Roadster ใช้ระบบขับดันด้วยแก๊สเย็น (cold gas thrusters) บินผ่านภูมิทัศน์ทะเลทราย
+
+#### 📝 Prompt
+
+```
+วิดีโอความยาว 6 วินาที ความละเอียด 720p ของ Tesla Roadster ขณะใช้ cold gas thrusters บินทะยานข้ามทะเลทราย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112595996370714625/img/8PQb_u1AQxCQflb8.jpg" width="600" alt="Tesla Roadster บินเหนือทะเลทราย">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12847)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2112596021847158826) | **Published:** Oct 20, 2026
+
+---
+### วิดีโอเซลฟี่สไตล์ไลฟ์สไตล์ EV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์รายละเอียดสำหรับวิดีโอเซลฟี่ยาว 1 นาที ภายในรถ Tesla Model 3 ที่กล่าวถึงประโยชน์ของไลฟ์สไตล์ EV
+
+#### 📝 Prompt
+
+```
+เธอนั่งอยู่ในรถ Model 3 ถ่ายเซลฟี่ ดื่มเครื่องดื่มจากร้าน In-N-Out ไปพลาง พูดถึงเหตุผลที่เธอเลือกวิถีชีวิตแบบ EV เพราะเกลียดการต้องไปเปลี่ยนน้ำมันเครื่องที่ Jiffy Lube หรือ Midas วิดีโอความละเอียด 1080p ความยาว 1 นาที
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112570881738260480/img/iJuex6ld-47AU77i.jpg" width="600" alt="วิดีโอเซลฟี่สไตล์ไลฟ์สไตล์ EV">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12842)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2112571075037159729) | **Published:** Oct 20, 2026
+
+---
+### Arthur AI บอทประวัติศาสตร์ศิลปะ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอสั้นที่นำเสนอ 'Arthur' บอทด้านประวัติศาสตร์ศิลปะ AI ซึ่งทำหน้าที่ถ่ายภาพผู้คน นำไปวางในผลงานศิลปะทางประวัติศาสตร์ และพิมพ์เป็นโปสการ์ด
+
+#### 📝 Prompt
+
+```
+ลองใช้บอทตัวจิ๋ว Arthur the Ai art history bot มาทำคลิปสั้นๆ กันดู หน้าที่ของเขาคือการนำรูปถ่ายของคนไปใส่ไว้ในผลงานศิลปะชื่อดังในอดีต แล้วพิมพ์ออกมาเป็นโปสการ์ดให้เลย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112566005876535296/img/qexBsFsSgzzwferh.jpg" width="600" alt="Arthur AI บอทประวัติศาสตร์ศิลปะ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12849)**
+
+**Author:** [The Pixel Witch](https://x.com/WGlencora) | **Source:** [Link](https://x.com/WGlencora/status/2112566025049039209) | **Published:** Oct 20, 2026
+
+---
+### ผู้หญิงพิง Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับภาพผู้หญิงพิง Cybertruck ที่ห่อฟิล์ม พร้อมข้อความ 'I'm a baaad chick'
+
+#### 📝 Prompt
+
+```
+หญิงสาวร่างอวบที่พิง Cybertruck ห่อสีชมพูของเธออยู่ที่เมือง Scottdale รัฐ AZ ยิ้มกว้างพลางพูดว่า “I’m a baaad chick”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112563963363803137/img/L7PSlJ7ZEm2THzii.jpg" width="600" alt="ผู้หญิงพิง Cybertruck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12855)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2112564183518646624) | **Published:** Oct 20, 2026
+
+---
+### สไตล์แอนิเมชันปาร์ตี้ EDM
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt สำหรับสร้างวิดีโอที่เน้นแอนิเมชันแบบจำกัด เอฟเฟกต์กล้องแบบมือถือ และบรรยากาศปาร์ตี้ EDM
+
+#### 📝 Prompt
+
+```
+สไตล์คงที่, ความสอดคล้องทางภาพสมบูรณ์แบบ, edm, แอนิเมชันแบบจำกัด, กล้องมือถือ, อินไปกับเสียงเพลง, techhouse, ปาร์ตี้, เด้งขึ้นลง, กล้องสั่นไหว, ไดนามิก, ลมพัดแรง, มุมภาพแบบ foreshortening, การเต้นด้วยมือ, ไม่ใช้คำพูด, กล้องโยกซ้ายขวา, กล้องไม่นิ่ง,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112521265051557888/img/kA6bDlDrENEFHhD4.jpg" width="600" alt="สไตล์แอนิเมชันปาร์ตี้ EDM">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12860)**
+
+**Author:** [レイヴ](https://x.com/raves9361) | **Source:** [Link](https://x.com/raves9361/status/2112521367635857468) | **Published:** Oct 20, 2026
+
+---
+### Grok Imagine Prompt วิดีโอท่าคอสเพลย์
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์สำหรับสร้างวิดีโอความยาว 15 วินาทีของคอสเพลเยอร์ที่เปลี่ยนท่าทางทุก 3 วินาทีในงาน Comiket โดยใช้อ้างอิงจากหลายภาพเพื่อความสอดคล้อง
+
+#### 📝 Prompt
+
+```
+🎬 คำแนะนำสำหรับ Director Gemini
+กรุณาสร้างพรอมต์ภาษาญี่ปุ่นสำหรับวิดีโอความยาว 15 วินาที โดยใช้รูปภาพ 3 ภาพที่อัปโหลดมา (ภาพเต็มตัว, ภาพโคลสอัพ, ภาพครึ่งตัว) สลับฉากทั้งหมด 5 ฉาก โดยมีเนื้อหาว่า "คอสเพลเยอร์เปลี่ยนเป็นท่าโพสเด็ดและท่าโพสที่ถ่ายรูปออกมาสวยทุก ๆ 3 วินาที (2 ท่าต่อฉาก) ระหว่างการถ่ายภาพในงาน Comiket" ปิดท้ายด้วยภาพโคลสอัพ ท่าโพสเด็ด และการขยิบตาหนึ่งข้าง
+
+BGM "(คิด BGM ที่เข้ากับบรรยากาศของภาพ)"
+
+รักษาความสม่ำเสมอของใบหน้าและทรงผมของตัวละคร ห้ามสร้างรูปภาพหรือวิดีโอ
+
+ในพรอมต์ ให้แทนที่ Image 1 (ภาพเต็มตัว) ด้วย @Image1, Image 2 (ภาพโคลสอัพ) ด้วย @Image2 และ Image 3 (ภาพครึ่งตัว) ด้วย @Image3
+
+🎥 พรอมต์สร้างวิดีโอ (Grok Imagine)
+[ข้อมูลพื้นฐานและความสม่ำเสมอ]
+ * อ้างอิงบุคคล/เครื่องแต่งกาย: คอสเพลเยอร์หญิงจาก @Image1 (ภาพเต็มตัว), @Image2 (ภาพโคลสอัพ), @Image3 (ภาพครึ่งตัว) ผมเปียสีเงิน หูเอลฟ์ ชุดแฟนตาซีสีฟ้าและขาว รักษาความสม่ำเสมอของรูปหน้าและทรงผม
+ * สถานที่: บริเวณงาน Comiket ที่เต็มไปด้วยผู้คน (ช่างภาพและบูธต่าง ๆ ในพื้นหลังเบลอ)
+ * ข้อเสนอ BGM: เพลง EDM จังหวะเร็วแนวสดใส หรือเพลงป๊อปสไตล์อนิซอง (Anison) ที่มีเสียงซินธ์วิบวับให้ความรู้สึกแบบแฟนตาซี
+[ไทม์ไลน์และโครงสร้าง (รวม 15 วินาที)]
+ * Scene 1 (0:00 - 0:03) / อ้างอิง: @Image1
+   * มุมกล้อง: Full Shot (ภาพเต็มตัว)
+   * Pose 1 (0-1.5 วินาที): ท่าโค้งคำนับอย่างสง่างาม ยกชายกระโปรงชุดขึ้นเบา ๆ
+   * Pose 2 (1.5-3 วินาที): กางแขนออกกว้าง ยิ้มอย่างงดงาม โชว์ชุดให้เห็นเต็มตา
+ * Scene 2 (0:03 - 0:06) / อ้างอิง: @Image3
+   * มุมกล้อง: Medium Shot (ตั้งแต่เอวขึ้นไป)
+   * Pose 1 (3-4.5 วินาที): ทำสัญลักษณ์รูปหัวใจด้วยมือทั้งสองข้างบริเวณหน้าอก เอียงศีรษะเล็กน้อยแล้วยิ้ม
+   * Pose 2 (4.5-6 วินาที): เอามือแตะคาง ทำหน้าเท่พร้อมใช้สายตาไล่ตามกล้อง
+ * Scene 3 (0:06 - 0:09) / อ้างอิง: @Image1
+   * มุมกล้อง: Full Shot โดยเปลี่ยนมุมกล้อง (ภาพเต็มตัวในมุมเฉียง)
+   * Pose 1 (6-7.5 วินาที): บิดตัวเฉียง แตะเส้นผมเบา ๆ แล้วหันกลับมามอง
+   * Pose 2 (7.5-9 วินาที): ก้าวเท้าไปข้างหน้าหนึ่งก้าว เหยียดมือเข้าหากล้องราวกับนางเอกแฟนตาซี
+ * Scene 4 (0:09 - 0:12) / อ้างอิง: @Image3
+   * มุมกล้อง: Medium Shot
+   * Pose 1 (9-10.5 วินาที): เอามือแนบแก้ม ทำท่าตกใจน่ารัก ๆ
+   * Pose 2 (10.5-12 วินาที): โบกมือทักทายกล้องอย่างสดใส
+ * Scene 5 (0:12 - 0:15) / อ้างอิง: @Image2
+   * มุมกล้อง: Close-up (ใบหน้าถึงช่วงไหล่)
+   * Pose 1 (12-13.5 วินาที): จ้องมองกล้องอย่างตั้งใจ ยิ้มอย่างอ่อนโยน
+   * Pose 2 (13.5-15 วินาที): โพสท่าเด็ดเข้าหากล้อง ขยิบตาหนึ่งข้างอย่างน่ารัก แล้วค้างรอยยิ้มไว้
+```
+
+<img src="https://cms-assets.youmind.com/media/1792568893125_pgdy5x_HU_Yy_NbIAALf6w.jpg" width="600" alt="Grok Imagine Prompt วิดีโอท่าคอสเพลย์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12865)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2112491518904680856) | **Published:** Oct 20, 2026
+
+---
+### การแปลงร่างของหุ่นยนต์จากยานอวกาศระหว่างดวงดาว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอคุณภาพสูงที่อธิบายถึงยานอวกาศขนาดมหึมาซึ่งแปลงร่างเป็นหุ่นยนต์ผู้พิทักษ์เหนือโลก
+
+#### 📝 Prompt
+
+```
+ยานอวกาศข้ามดวงดาวขนาดมหึมาลอยนิ่งอยู่เหนือโลกอย่างเงียบงัน พร้อมเครื่องยนต์สีฟ้าที่เปล่งประกาย ลำตัวยาวนับกิโลเมตรแยกออกเป็นแผ่นเกราะที่ประกอบเข้าหากัน แขนขาจักรกลขนาดยักษ์ค่อยๆ โผล่ออกมา และเครื่องปฏิกรณ์พลังงานขนาดใหญ่จุดระเบิดขึ้นทั่วทั้งลำ ปีกของยานหมุนเปลี่ยนรูปเป็นไหล่เกราะหนา ขณะที่เครื่องยนต์แปลงสภาพกลายเป็นระบบขับเคลื่อนเรืองแสงทอดยาวไปตามแนวหลัง หุ่นยนต์ผู้พิทักษ์ร่างยักษ์คลี่ตัวออกเบื้องหน้าดาวเคราะห์ ลืมตาที่ส่องประกายเจิดจ้า แล้วค่อยๆ หันไปเผชิญหน้ากับกองเรือเอเลี่ยนที่อยู่ไกลออกไป
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112487211350339584/img/hd6zzmY_6HQKI_Oj.jpg" width="600" alt="การแปลงร่างของหุ่นยนต์จากยานอวกาศระหว่างดวงดาว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12850)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112488408937300278) | **Published:** Oct 20, 2026
+
+---
+### พรอมต์แก้ไขภาพนักเขียนในคัมภีร์ไบเบิล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับแก้ไขภาพอย่างละเอียด เพื่อเปลี่ยนตัวละครโมเสสให้เป็นนักเขียนหญิง โดยระบุองค์ประกอบทางภาพที่ชัดเจน
+
+#### 📝 Prompt
+
+```
+แก้ไขภาพนี้แบบมืออาชีพ: แทนที่ Moses ด้วยนักเขียนหญิงผู้สง่างามจากยุคพระคัมภีร์ นั่งอยู่ที่โต๊ะไม้ขนาดเล็กบริเวณด้านหน้าของภาพ กำลังเขียนหนังสือด้วยปากกาขนนก เหนือศีรษะของเธอให้ใส่ป้ายข้อความที่ชัดเจนและดูหรูหรา ซึ่งเขียนว่า “¿A quién enviaré?” แสดงให้เห็นถึงคว...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112467072164724736/img/_mnCCXISwUPY5r09.jpg" width="600" alt="พรอมต์แก้ไขภาพนักเขียนในคัมภีร์ไบเบิล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12858)**
+
+**Author:** [Gacela Hadassah](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2112467092498784285) | **Published:** Oct 20, 2026
+
+---
 ### ฉากธรรมชาติยามพระอาทิตย์ขึ้น
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +681,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12795)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2112422511124332928) | **Published:** Oct 20, 2026
+
+---
+### พรอมต์วิดีโอ Grok Imagine การแปลงร่างกระเป๋าเดินทางเป็นมอเตอร์ไซค์บินได้
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอใน Grok Imagine ที่อธิบายการแปลงร่างกระเป๋าเดินทางโลหะเงางามให้กลายเป็นมอเตอร์ไซค์บินได้ภายในโรงเก็บเครื่องบินแห่งสนามบินสไตล์อนาคต
+
+#### 📝 Prompt
+
+```
+กระเป๋าเดินทางโลหะดีไซน์เพรียวบางวางอยู่อย่างโดดเดี่ยวภายในโรงเก็บเครื่องบินของสนามบินแห่งอนาคต ล็อกแม่เหล็กปลดออก แผงชิ้นส่วนนับร้อยที่ออกแบบมาอย่างแม่นยำค่อยๆ กางขยายออกด้านนอก ขณะที่แขนกลซึ่งซ่อนไว้ยืดตัวออกมาจากจุดศูนย์กลาง ล้อกางออก โครงรถยืดยาวขึ้น และเครื่องยนต์ต้านแรงโน้มถ่วงคู่เริ่มทำงานใต้แชสซี มอเตอร์ไซค์บินได้ที่ประกอบเสร็จสมบูรณ์ลอยขึ้นสู่กลางอากาศอย่างไร้เสียง หมุนตัวค้างอยู่กลางเวหา ก่อนจะเร่งเครื่องพุ่งทะยานผ่านประตูโรงเก็บเครื่องบินออกไปสู่เส้นขอบฟ้าของโลกอนาคต
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112363828638105600/img/OJDQgZoF26_gumFt.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine การแปลงร่างกระเป๋าเดินทางเป็นมอเตอร์ไซค์บินได้">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12861)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112364398350311506) | **Published:** Oct 20, 2026
 
 ---
 ### วิดีโอการจราจรท่าอวกาศยานในอนาคต
@@ -833,6 +1325,27 @@ Starship @Image1 บินขึ้นจากพื้นผิวดวงจ
 **Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111182254646886773) | **Published:** Oct 16, 2026
 
 ---
+### พรอมต์เต้น Kizomba สำหรับ Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอเต้น Kizomba แบบใกล้ชิดความยาว 15 วินาที พร้อมท่ากอดแนบชิดและหน้าผากแตะกัน
+
+#### 📝 Prompt
+
+```
+คลิปเต้น kizomba สุดอินทิเมทความยาว 15 วินาที คู่รักสวมกอดกันอย่างแนบชิด แทบไม่ได้ขยับเท้าเลย
+
+ความใกล้ชิดที่แท้จริง สังเกตได้ว่าหน้าผากแทบจะแตะกันตลอดเวลา การส่งต่อพลังงานอันลึกซึ้งระหว่างกัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111180572626190336/img/xZM6qVfCumNMN63F.jpg" width="600" alt="พรอมต์เต้น Kizomba สำหรับ Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12862)**
+
+**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2111180601797800160) | **Published:** Oct 16, 2026
+
+---
 ### ตลาดเทคโนสไตล์ไซเบอร์พังค์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1422,6 +1935,25 @@ Elon Musk ในบทบาทโจรสลัดผู้กล้าหา�
 **Author:** [Phillip Oyler](https://x.com/NdnCwby) | **Source:** [Link](https://x.com/NdnCwby/status/2110723009313136790) | **Published:** Oct 15, 2026
 
 ---
+### เลเยอร์ธรรมชาติอันสงบ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างภาพทิวทัศน์ธรรมชาติอันเงียบสงบที่มีความละเอียดสูง โดยมีแสงแดดและกิ่งไม้
+
+#### 📝 Prompt
+
+```
+ภาพความละเอียดสูงที่ให้ความรู้สึกสงบนิ่ง มี "เลเยอร์" ซ้อนกันอยู่—อาจเป็นแสงแดดที่ลอดผ่านกิ่งก้านของต้นไม้โบราณ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110711965127421952/img/Xs3vyc54482vJr2-.jpg" width="600" alt="เลเยอร์ธรรมชาติอันสงบ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12863)**
+
+**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2110711998111748354) | **Published:** Oct 15, 2026
+
+---
 ### เดินแบบแฟชั่นสไตล์ภาพยนตร์สมจริงระดับอัลตรา
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1724,739 +2256,6 @@ Elon Musk ในบทบาทโจรสลัดผู้กล้าหา�
 **Author:** [Laurie Vallance](https://x.com/RemmyChan) | **Source:** [Link](https://x.com/RemmyChan/status/2110432213942866381) | **Published:** Oct 14, 2026
 
 ---
-### พรอมต์บทสนทนาของ Glaeken ผู้สูงอายุ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์การเล่าเรื่องเฉพาะสำหรับ Grok Imagine ที่นำเสนอตัวละครผู้สูงอายุชื่อ Glaeken กำลังพูดกับ Repairman Jack ในเซ็นทรัลพาร์ก
-
-#### 📝 Prompt
-
-```
-Glaeken ผู้สูงอายุยืนอยู่หน้าเซ็นทรัลพาร์ก บอกกับ Repairman Jack ว่า "หอกไม่มีกิ่งก้าน"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110368390686588928/img/kwutMzl4kvsed9UP.jpg" width="600" alt="พรอมต์บทสนทนาของ Glaeken ผู้สูงอายุ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12551)**
-
-**Author:** [Redacticus](https://x.com/BillDeWaal) | **Source:** [Link](https://x.com/BillDeWaal/status/2110368404431347729) | **Published:** Oct 14, 2026
-
----
-### พรอมต์วิดีโอโฆษณา Grok Imagine Coconut
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอด้วย Grok Imagine เพื่อผลิตโฆษณาสร้างสรรค์สำหรับผลิตภัณฑ์มะพร้าว
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอโฆษณามะพร้าวแบบสร้างสรรค์ ความยาว 8 วินาที
-
-จงใช้ความคิดสร้างสรรค์และทรัพยากรที่มีอยู่ให้เต็มที่
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110317366294831104/img/TUzw1grPIJQ-GTz1.jpg" width="600" alt="พรอมต์วิดีโอโฆษณา Grok Imagine Coconut">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12614)**
-
-**Author:** [maryann](https://x.com/Maryann_primex) | **Source:** [Link](https://x.com/Maryann_primex/status/2110317410125238527) | **Published:** Oct 14, 2026
-
----
-### Grok Imagine Video Prompt: สิ่งมีชีวิตต่างดาวเหนือจริง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แบบละเอียดสำหรับ Grok Imagine ในการสร้างภาพพอร์ตเทรตสิ่งมีชีวิตต่างดาวเหนือจริงที่มีหัวปลาหมึกยักษ์เชื่อมติดกันและคุณสมบัติการมองเห็นรอบข้างขั้นสุด
-
-#### 📝 Prompt
-
-```
-ภาพพอร์ตเทรตสิ่งมีชีวิตต่างดาวเหนือจริง: หัวปลาหมึกยักษ์สองหัวที่เชื่อมติดกันซ้อนทับ โดยหัวบนขนาดใหญ่มีดวงตาขนาดมหึมาที่ถูกดันไปจนชิดขอบซ้ายและขวาของศีรษะมากที่สุดเพื่อเพิ่มการมองเห็นรอบข้างให้สูงสุดและแทบไม่มีจุดบอด ส่วนหัวล่างขนาดเล็ก...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110251076373123072/img/HmKuhwSIW54QI0qI.jpg" width="600" alt="Grok Imagine Video Prompt: สิ่งมีชีวิตต่างดาวเหนือจริง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12516)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2110251096585507200) | **Published:** Oct 14, 2026
-
----
-### พรอมต์เพลง Synthwave สำหรับวิดีโอ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ข้อความ-to-เสียงที่ออกแบบอย่างละเอียดสำหรับใช้งานใน Grok Imagine videos เพื่อสร้างเพลง synthwave แนวภาพยนตร์
-
-#### 📝 Prompt
-
-```
-Synthwave แนวภาพยนตร์ที่มีสไตล์ล้ำสมัยและโฉบเฉี่ยว จังหวะกลางที่ขับเคลื่อนด้วยเบสแบบอะนาล็อกลึก เสียงซินธ์อาร์เปจโจระยิบระยับ กลองโปรแกรมที่หนักแน่น และแพดบรรยากาศกว้าง การผลิตแบบนีออนเงางามพร้อมการค่อยๆ เพิ่มความเข้มข้นที่ไดนามิก ทรานเซียนต์ที่คมชัด และความรู้สึกของการเคลื่อนไหวและพลังงานยามราตรีที่เย็นและขัดเงา ไม่มีเสียงร้อง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110242759021846528/img/09Esw6WtOawZaQv-.jpg" width="600" alt="พรอมต์เพลง Synthwave สำหรับวิดีโอ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12509)**
-
-**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2110243164166443138) | **Published:** Oct 14, 2026
-
----
-### วิดีโอเต้นแบบกลิตช์ของ Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์เหนือจริงที่ตัวละครเต้นรอบ Cybertruck และเกิดอาการกลิตช์กลายเป็นพิกเซลดิจิทัล
-
-#### 📝 Prompt
-
-```
-Sony เต้นรอบ Cybertruck แล้วเริ่มเกิดอาการกลิตช์กลายเป็นพิกเซลดิจิทัล โดยปรากฏและหายไปภายในวิดีโอความยาว 2 วินาที
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110229685757976577/img/Z09RlBKpl0S89xO9.jpg" width="600" alt="วิดีโอเต้นแบบกลิตช์ของ Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12513)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2110229724962136221) | **Published:** Oct 14, 2026
-
----
-### Prompt การผจญภัยใน SpaceX Park
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt สนุกสนานเกี่ยวกับแมวชื่อ Sir Crimson และ Pearl ในการผจญภัยที่ SpaceX New Earth Park
-
-#### 📝 Prompt
-
-```
-"อุ้งเท้าสวดมนต์" 🙏🐾🐾🦴🦴
-
-"SpaceX New Earth Park"
-Sir Crimson และลูกสาว Pearl... ออกไปผจญภัยครั้งใหญ่กันเถอะ 🐾🦴🎢🚀🍔
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110204669716807681/img/uySnLcPUlOQdFK9h.jpg" width="600" alt="Prompt การผจญภัยใน SpaceX Park">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12514)**
-
-**Author:** [Restful_Path_777](https://x.com/Bchalk_777_777) | **Source:** [Link](https://x.com/Bchalk_777_777/status/2110204702314959303) | **Published:** Oct 14, 2026
-
----
-### ฉากแอ็กชันคอมเมดี้สไตล์ย้อนยุคของฮ่องกง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอที่ละเอียดสูงเพื่อสร้างฉากแอ็กชันคอมเมดี้สไตล์ฮ่องกงยุค 90 ขึ้นใหม่ โดยมีการออกแบบท่าเต้น การถ่ายทำ และคำอธิบายตัวละครอย่างเฉพาะเจาะจง
-
-#### 📝 Prompt
-
-```
-ตัวละครและฉาก: ฉากแอ็กชันคอมเมดี้สไตล์ฮ่องกงยุค 90 ที่มีตัวละครสองตัว:
-นักฆ่าชายผู้ดุดัน สวมเสื้อสูทสีขาวสไตล์ย้อนยุค เสื้อกล้ามลายทางขาวดำ เนคไทสีดำ และถุงมือแบบไม่มีนิ้ว ถือปืนพกสีดำพร้อมติดอุปกรณ์ลดเสียง
-หญิงสาวเอเชียวัยเยาว์ที่ดูประหลาดใจ ผมสั้นบ๊อบสีดำ สวมเสื้อแขนกุดสีเหลืองสดใส
-สถานที่และสภาพแวดล้อม: พื้นที่ภายในที่สว่างและเรียบง่าย ประกอบด้วยห้องน้ำและห้องนั่งเล่นที่กั้นด้วยประตูหมุนสีเหลือง กำแพงปูกระเบื้องสะอาด แสงคอนทราสต์สูง และโทนสีเหลืองสดใส
-ลำดับการเคลื่อนไหว:
-00:00 – 00:11: ตัดสลับภาพอย่างรวดเร็วระหว่างนักฆ่าที่ยกปืนขึ้นเล็งอย่างดราม่า กับหญิงสาวที่นั่งสบายๆ บนโถสุขภัณฑ์ในห้องน้ำข้างเคียง
-00:12 – 00:25: นักฆ่าลดอาวุธลงเล็กน้อยแล้วดันกำแพงกั้นหมุนสีเหลืองตรงกลาง ทำให้มันเปิดออก
-00:26 – 00:38: ด้วยจังหวะตลกแบบ slapstick ขณะที่กำแพงกั้นสีเหลืองหมุน หญิงสาวลุกขึ้นเดินอ้อมประตูหมุนไปยังห้องถัดไป ในขณะที่นักฆ่าหมุนเข้าไปในพื้นที่ที่เธอเพิ่งจากมา—ทำให้ทั้งสองเกือบไม่ได้เห็นหน้ากัน
-00:39 – 00:40: หญิงสาวเข้าห้องน้ำจากอีกด้านหนึ่งและนั่งลงอีกครั้ง ทันทีที่นักฆ่าหันกลับมายิงปืนผ่านช่องว่างที่เปิดอยู่ตรงไปที่เธอ
-เทคนิคการถ่ายทำและสไตล์ภาพ:
-สไตล์: ภาพยนตร์แอ็กชันคอมเมดี้สไตล์ย้อนยุคของฮ่องกงยุค 90 มีเกรนฟิล์มแบบภาพยนตร์ โทนสีเหลืองและขาวอิ่มตัว ช็อตขนาดกลางที่คมชัด
-การเคลื่อนกล้อง: ตัดเร็ว กรอบระดับสายตา แพนแนวนอนอย่างมั่นคงตามการหมุนของกำแพง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110187872741711872/img/5W-YTP4uiI1A7SFo.jpg" width="600" alt="ฉากแอ็กชันคอมเมดี้สไตล์ย้อนยุคของฮ่องกง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12512)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110187947819753643) | **Published:** Oct 14, 2026
-
----
-### ส่วนขยายวิดีโอสายฟ้าเทพีเตี้ยนหมู่ Dianmu Goddess Lightning Video Extension
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> โพสต์แชร์พรอมต์สำหรับสร้างภาพเทพีเตี้ยนหมู่ (เทพแห่งสายฟ้า) และขยายเป็นวิดีโอความยาว 20 วินาทีโดยใช้ Grok Imagine
-
-#### 📝 Prompt
-
-```
-เตี้ยนหมู่ เทพีผู้ควบคุมสายฟ้าได้ตามใจปรารถนา เธอถือกระจกเรืองแสงในมือทั้งสองข้าง กรุณาสร้างภาพโดยไม่มีข้อความใดๆ ⚡
-```
-
-<img src="https://cms-assets.youmind.com/media/1791964071791_wfx44u_HUjh6uCa0AA-KwS.jpg" width="600" alt="ส่วนขยายวิดีโอสายฟ้าเทพีเตี้ยนหมู่ Dianmu Goddess Lightning Video Extension">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12520)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2110184967989010876) | **Published:** Oct 14, 2026
-
----
-### Grok Imagine Video Prompt: แนวคิด Grok Blok
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงสร้างสรรค์สำหรับ Grok Imagine ในการออกแบบอุปกรณ์สมมติชื่อ 'Grok Blok' โดยได้รับแรงบันดาลใจจาก Apple HomeView และ Tesla Cybertruck
-
-#### 📝 Prompt
-
-```
-อ้างอิงจากหน้าจอตั้งโต๊ะ AI Siri ของ Apple HomeView รุ่นใหม่ ให้สร้างเวอร์ชันของ Grok ในชื่อ Grok Blok พร้อมดีไซน์ที่ได้รับแรงบันดาลใจจาก Cybertruck @grok
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110173702524461056/img/pIY_MVbU6OnZm2tP.jpg" width="600" alt="Grok Imagine Video Prompt: แนวคิด Grok Blok">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12515)**
-
-**Author:** [Heather](https://x.com/HeatherNSB) | **Source:** [Link](https://x.com/HeatherNSB/status/2110173727203934430) | **Published:** Oct 14, 2026
-
----
-### ลำดับฉากภาพยนตร์การเผชิญหน้ากับไดโนเสาร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอหลายช็อตแบบละเอียดที่บรรยายการเผชิญหน้าสุดตึงเครียดกับนักล่าคล้ายทีเร็กซ์ในป่าหมอก
-
-#### 📝 Prompt
-
-```
-0-3 วินาที: ภาพโคลสอัพของเธอชะโงกมองข้ามท่อนไม้ หายใจแผ่วเบา ด้านหลังเธอ ในระยะโฟกัสที่ไม่ชัดเจน เงาของไดโนเสาร์มีเขาตัวหนึ่งปรากฏขึ้นจากหมอก
-3-8 วินาที: กล้องค่อยๆ เลื่อนเข้าใกล้ (Slow push-in) ขณะนักล่าขนาดใหญ่คล้ายทีเร็กซ์ที่มีเกล็ดสีเข้มย่องเข้าหาเธอ กรงเล็บกดลงบนโคลน ไอน้ำพุ่งออกจากรูจมูกและลอยผ่านหมอก สีหน้าของเธอเปลี่ยนจากความกลัวเป็นความตื่นตระหนก
-8-11 วินาที: ภาพโคลสอัพสุดขีดที่ใบหน้าของเธอ: ดวงตากว้างเต็มไปด้วยน้ำตา ริมฝีปากสั่นระริก น้ำตาไหลลงมาตามแก้มเปื้อนโคลน หายใจถี่และสั้น
-11-13 วินาที: การตัดภาพแบบละลาย (Soft dissolve) ไปยังมุมมองจากด้านหลังไหล่ของเธอ (Over-the-shoulder shot) โดยหัวไดโนเสาร์อยู่ใกล้เข้ามา
-13-15 วินาที: ไดโนเสาร์หยุดนิ่งในระยะไม่กี่นิ้ว จากนั้นอ้าปากกว้างเผยให้เห็นแถวฟัน และคำรามเสียงดังสนั่นขณะที่กล้องค้างภาพไว้
-เสียงประกอบ: เสียงหยดฝน บรรยากาศป่าจากระยะไกล เสียงเท้าหนักพร้อมเสียงครืนต่ำ เสียงหายใจหอบของเธอ และเสียงคำรามดังสนั่นตอนท้าย
-Negative prompt: ลุคการ์ตูน, แขนขาเกิน, ใบหน้าบิดเบี้ยว, ข้อความ, ลายน้ำ, ภาพเบลอ, ความละเอียดต่ำ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110171669566488577/img/ez-SjniUA7QQCw12.jpg" width="600" alt="ลำดับฉากภาพยนตร์การเผชิญหน้ากับไดโนเสาร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12511)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110171733839999253) | **Published:** Oct 14, 2026
-
----
-### พรอมต์ชุดสูทแฟชั่นของ Diane Thomas Joy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แบบละเอียดสำหรับการสร้างวิดีโอของ Diane Thomas Joy ในชุดสูทแฟชั่นระดับไฮเอนด์สีเบอร์กันดี พร้อมส่งเสริมการมีส่วนร่วมของชุมชน
-
-#### 📝 Prompt
-
-```
-Diane Thomas Joy สวมชุดเดรสสูทแฟชั่นระดับไฮเอนด์สีเบอร์กันดี จับคู่กับรองเท้าส้นสูงและเครื่องประดับสมัยใหม่ เพื่อส่งเสริมให้ชุมชนมีปฏิสัมพันธ์และเติบโตอย่างแข็งแกร่ง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110151405088518144/img/K7Eqgw_s4X7Xsu0i.jpg" width="600" alt="พรอมต์ชุดสูทแฟชั่นของ Diane Thomas Joy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12517)**
-
-**Author:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **Source:** [Link](https://x.com/Thoma31928Joy/status/2110151441222606940) | **Published:** Oct 13, 2026
-
----
-### ภาพหุ่นยนต์ AI สไตล์ย้อนยุคปี 1985
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> แนวคิดสร้างสรรค์สำหรับงานภาพสไตล์ฟิล์มปี 1985 สร้างโดย Grok Imagine
-
-#### 📝 Prompt
-
-```
-หุ่นยนต์. เซิร์ฟเวอร์. เครื่องจักรที่ฝัน.
-ทั้งหมดถ่ายด้วยฟิล์มที่ยังคงความทรงจำของปี 1985.
-วันพรุ่งนี้ ถ่ายในสไตล์เมื่อวานนี้.
-
-จะเป็นอย่างไรถ้า AI ถูกถ่ายทำในปี 1985?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110022641792753664/img/NQcxCgKv3iv8kiuD.jpg" width="600" alt="ภาพหุ่นยนต์ AI สไตล์ย้อนยุคปี 1985">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12709)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2110062762218926204) | **Published:** Oct 13, 2026
-
----
-### ฉากลูกแมว擬人บนม้านั่งในสวนสาธารณะ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt สำหรับสร้างวิดีโอที่น่ารักของลูกแมว拟人สามตัวบนม้านั่งในสวน ตัวหนึ่งหวีขน อีกตัวถือกล่องรับทิป และโบกมือทักทายกล้อง
-
-#### 📝 Prompt
-
-```
-ลูกแมว拟人ตัวน้อยสามตัวนั่งอยู่บนม้านั่งในสวน ตัวหนึ่งกำลังหวีขนให้เพื่อนด้วยแปรงขนาดเล็ก ในขณะที่อีกตัวยืนขึ้นและยื่นกล่องรับทิปไปทางกล้อง พร้อมโบกอุ้งเท้าที่เหลือ พวกมันเริ่มโบกมือและส่งเสียงร้องเหมียวอย่างตื่นเต้นเมื่อใบไม้ปลิวผ่าน ป้ายสีสดใสด้านหน้าเขียนว่า “ทิปสำหรับความน่ารักที่ล้นเหลือ” แสงแดดอ่อนๆ ยามบ่ายลอดผ่านต้นไม้ ขนสมจริงและใบหน้าแสดงอารมณ์ กล้องค่อยๆ เลื่อนเข้าหา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109990553387401216/img/pxDuws-dgbG7gjnb.jpg" width="600" alt="ฉากลูกแมว擬人บนม้านั่งในสวนสาธารณะ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12559)**
-
-**Author:** [Jay Kay](https://x.com/JayKay65220066) | **Source:** [Link](https://x.com/JayKay65220066/status/2110007645910274279) | **Published:** Oct 13, 2026
-
----
-### พรอมต์สำหรับสร้างภาพเคลื่อนไหวแบบวนซ้ำของสายฝนดิจิทัลสไตล์ Matrix
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่แม่นยำสำหรับการสร้างภาพเคลื่อนไหวแบบวนซ้ำต่อเนื่อง 15 วินาที ของสายฝนดิจิทัลสไตล์ Matrix โดยเริ่มจากเฟรมภาพที่กำหนดอย่างชัดเจน พร้อมคงโทนสีและรายละเอียดไว้ครบถ้วน
-
-#### 📝 Prompt
-
-```
-ใช้ภาพนี้โดยตรงเป็นเฟรมแรกของภาพเคลื่อนไหวแบบวนซ้ำต่อเนื่อง 15 วินาที ของสายฝนดิจิทัลสไตล์ Matrix คงอัตราส่วนภาพเดิม องค์ประกอบที่ถูกต้อง พื้นหลังสีดำ โทนสีเลข “1” แบบ monospaced สีเขียวมรกต และรายละเอียดทุกพิกเซลไว้...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109962076194238464/img/gu5sGBAfLJZ1SDfg.jpg" width="600" alt="พรอมต์สำหรับสร้างภาพเคลื่อนไหวแบบวนซ้ำของสายฝนดิจิทัลสไตล์ Matrix">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12519)**
-
-**Author:** [_](https://x.com/ONKiChan1) | **Source:** [Link](https://x.com/ONKiChan1/status/2109962140056740262) | **Published:** Oct 13, 2026
-
----
-### พรอมต์วิดีโอ Grok Imagine: การผจญภัยนีออนใต้ทะเลของ Sydney Sweeney
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงภาพยนตร์ที่ละเอียดซึ่งมี Sydney Sweeney ในการผจญภัยในไนต์คลับใต้ทะเลนีออน พร้อมกำหนดเวลา แสง และสัญญาณเสียงเฉพาะ
-
-#### 📝 Prompt
-
-```
-AI Video Prompt — การผจญภัยนีออนใต้ทะเลของ Sydney Sweeney
-
-วิดีโอแนวตั้ง 9:16 สไตล์ภาพยนตร์ ความยาว 10 วินาที นำแสดงโดย Sydney Sweeney ในบทบาทตัวละครหลัก โดยมีลักษณะใบหน้าที่ยังคงเอกลักษณ์ ผมสีบลอนด์เป็นลอน และรอยยิ้มที่สื่ออารมณ์ จังหวะเร็วมาก การเปลี่ยนฉากแบบ whip-pan และการตัดภาพให้ตรงจังหวะเพลงประมาณทุกวินาที
-
-0–2 วินาที: Sydney Sweeney สวมชุดเวทสูทดำน้ำฟรีไดฟ์สีดำเรียบหรู มีกล้องแอคชั่นขนาดเล็กติดอยู่ที่สายรัดหน้าอก เธอว่ายน้ำอย่างรวดเร็วผ่านน้ำสีเทอร์ควอยซ์ใสสะอาดเหนือพื้นทรายขาว แสงแดดกระเพื่อมบนใบหน้าของเธอขณะที่กล้องติดตามการเคลื่อนไหวใต้น้ำอย่างพลวัต
-
-2–4 วินาที: เธอเร่งความเร็วผ่านแนวปะการังสีสันสดใสไปยังม่านลูกปัดเรืองแสงระยิบระยับ จากนั้นมีการเปลี่ยนความเร็วแบบดราม่าเมื่อเธอทะลุผ่านม่านประกายวิบวับ กล้อง whip-pan เข้าไปในถ้ำปะการังมืดลึกลับ ซึ่งแสงสีม่วงส่องสว่างไปทั่วบริเวณน้ำรอบข้าง
-
-4–6 วินาที: เผยให้เห็นไนต์คลับใต้ทะเลสไตล์อนาคตที่เต็มไปด้วยเลเซอร์นีออน ไฟสโตรบสีหลากหลาย แว่นตากันแดดรูปดาวเรืองแสงลอยได้ และปลาเขตร้อนที่เคลื่อนไหวตามจังหวะดนตรี Sydney โผล่ออกมาจากพอร์ทัลเรืองแสงสีม่วง โดยแสงสีฟ้า ม่วงแดง และสีม่วงส่องสว่างบนใบหน้าของเธอ
-
-6–10 วินาที: Sydney สวมแว่นตากันแดดรูปดาวนีออนขนาดใหญ่ หมุนตัวอย่างร่าเริงในสภาวะไร้น้ำหนักใต้น้ำ และหัวเราะขณะฟองอากาศเรืองแสงและอนุภาคหมุนวนรอบตัวเธอ กล้องเคลื่อนที่เป็นวงกลมรอบตัวเธออย่างรวดเร็วพร้อมการซูมที่มีพลัง whip-pan ที่คมชัด และการเปลี่ยนความเร็วแบบราบรื่น จบด้วยภาพโคลสอัพใบหน้าที่ยิ้มของเธออย่างดราม่าท่ามกลางบรรยากาศไนต์คลับที่มีชีวิตชีวา
-
-สไตล์ภาพ: ภาพยนตร์สมจริงระดับไฮเปอร์เรียลิสติก รายละเอียดใบหน้าเหมือนจริง ลักษณะตัวละครสม่ำเสมอ ฟิสิกส์ใต้น้ำสมจริง แสงแบบวอลูเมตริก น้ำสีเทอร์ควอยซ์สดใส ไฮไลท์นีออนสีม่วงแดงและสีฟ้า แสงเรืองสีม่วง อนุภาคลอยได้ เบลอจากการเคลื่อนไหวอย่างนุ่มนวล คอนทราสต์สูง ความสวยงามระดับพรีเมียมของมิวสิควิดีโอ 24 fps
-
-เสียง: เพลงแดนซ์อิเล็กทรอนิกส์ที่มีพลัง เสียง whoosh ใต้น้ำลึก เอฟเฟกต์เสียงประกายระยิบระยับ และเบสดรอปในช่วงเปิดเผยไนต์คลับ
-
-ความต่อเนื่อง: ทำให้ Sydney Sweeney ยังคงจดจำได้ง่ายและมีความสอดคล้องทางสายตาตลอดทุกช็อต ไม่มีการบิดเบี้ยวของใบหน้า ตัวละครซ้ำซ้อน ใบหน้าที่กะพริบ ข้อความที่ไม่ต้องการ โลโก้ หรือลายน้ำ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109874235179139072/img/tU9teihuV2asbHgy.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine: การผจญภัยนีออนใต้ทะเลของ Sydney Sweeney">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12439)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2109874273607462953) | **Published:** Oct 13, 2026
-
----
-### การผจญภัยบนหลังของ Praying Paws
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สไตล์เล่าเรื่องสำหรับวิดีโอจำลองการเดินทางที่มีตัวละครชื่อ Sir Crimson และ Daughter Pearl
-
-#### 📝 Prompt
-
-```
-“Praying Paws” 🙏🐾🐾🦴🦴
-
-“ Journey To Tomorrow” วิดีโอจำลองการเดินทาง Sir Crimson และ Daughter Pearl... การผจญภัยครั้งใหญ่ 🐾🦴🌎🪐
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109809737550233600/img/cz-YyApO3SbQ8arG.jpg" width="600" alt="การผจญภัยบนหลังของ Praying Paws">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12510)**
-
-**Author:** [Restful_Path_777](https://x.com/Bchalk_777_777) | **Source:** [Link](https://x.com/Bchalk_777_777/status/2109809814293598376) | **Published:** Oct 13, 2026
-
----
-### วิดีโอออกกำลังกายยิมสไตล์ Body Horror
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt ขั้นสูงสำหรับการสร้างวิดีโอยิมที่สมจริง แสดงชายที่มีกล้ามเนื้อเจริญเติบโตผิดปกติและแผ่นโลหะฝังอยู่ โดยระบุรายละเอียดมุมกล้อง จังหวะเวลา และองค์ประกอบสยองขวัญโดยไม่มีฉากเลือด
-
-#### 📝 Prompt
-
-```
-[การล็อกอ้างอิง]
-
-ใช้เฟรมแรกที่ถูกสร้างขึ้นใหม่ @1 เป็นอ้างอิงสำหรับรูปทรงและสภาพแวดล้อม
-
-ผู้ชายเป็นวัยผู้ใหญ่ประมาณ 38 ปี ทรงผมสั้นเกรียน มีเคราบางๆ ไม่สวมเสื้อ สวมกางเกงขาสั้นกีฬาสีเทาเข้มขอบสีส้ม รองเท้าผ้าใบสีเทาดำ
-
-ไหล่และหลังมีก้อนกล้ามเนื้อขนาดใหญ่ผิดปกติอยู่แล้วตั้งแต่เริ่มต้น ห้ามให้กล้ามเนื้องอกใหม่ระหว่างวิดีโอ
-
-จากสะบักซ้ายถึงซี่โครงเป็นก้อนนูนขนาดใหญ่แนวตั้งที่ไม่สมมาตร ไหล่ขวามีก้อนกล้ามเนื้อซ้อนกันขนาดเล็กกว่า
-
-พื้นผิวของก้อนด้านซ้ายมีแผลแตกคล้ายรอยแยกสีม่วงเข้มสองแห่ง ขอบแผลย่นและไม่สม่ำเสมอ
-
-ก้อนกล้ามเนื้อเหล่านี้มีน้ำหนักจริง หดตัวเล็กน้อยเมื่อกล้ามเนื้อหดตัว ห้ามให้พองขึ้นเหมือนลูกโป่ง
-
-ห้ามมีเลือดพุ่ง เนื้อเยื่อแตก หรือแขนขาเพิ่มเติม
-
-[สไตล์และกล้อง]
-
-แนวตั้ง 9:16 บันทึกต่อเนื่องด้วยสมาร์ทโฟน 12 วินาที
-
-ผู้ถ่ายยืนอยู่ด้านหลังและทางซ้ายของผู้ชายประมาณสองเมตร ถ่ายในระดับหน้าอก
-
-เปิดด้วยมุมมองด้านหลังสองในสาม แสดงก้อนที่ไหล่/หลัง แขน และบาร์ EZ curl พร้อมกัน
-
-มือสั่นเล็กน้อย ปรับกรอบภาพเล็กน้อย ห้ามหมุนรอบ ห้ามตัดต่อ ห้ามสโลว์โมชั่น
-
-บันทึกภาพยิมเก่าทั่วไป: ไฟฟลูออเรสเซนต์แบนราบ มีสัญญาณรบกวนเล็กน้อย ร่องรอยการบีบอัดภาพ สะท้อนเหงื่อ และการเบลอจากการเคลื่อนไหวตามธรรมชาติ
-
-ห้ามใช้แสงแบบหนังผี ห้ามมีดนตรีประกอบ
-
-[สภาพแวดล้อมและอุปกรณ์]
-
-ยิมใต้ดินชุมชนเก่า เสาสีขาว ผนังครึ่งล่างสีเขียวอ่อน พื้นสีเทาที่สึกหรอ ม้านั่งฝึกสีแดง ชั้นวางดัมเบล พัดลมติดผนัง
-
-คนรักสุขภาพวัยผู้ใหญ่ในชุดสีเทาในพื้นหลังยังคงฝึกต่อไป ห้ามจ้องมอง ห้ามกรีดร้อง
-
-ตัวละครหลักจับบาร์ EZ curl เดียวกันด้วยทั้งสองมือ จำนวนแผ่นน้ำหนักสีดำที่ติดตั้งไว้ทั้งสองข้างคงที่
-
-[0–4s | การทำ Curl ให้เสร็จสมบูรณ์]
-
-ชายยืนมั่นคง ศอกแนบลำตัว ยกบาร์จากสะโพกขึ้นถึงหน้าอก
-
-ปลายแขนงอก่อน จากนั้นไบเซปส์จึงหดตัว
-
-ก้อนนูนขนาดใหญ่ที่หลังหดตัวเล็กน้อยภายใต้แรงดึงของไหล่ ตำแหน่งแผลไม่เปลี่ยนแปลง
-
-เขามองลงที่บาร์ สีหน้าตึงเครียด หายใจออกสั้นๆ
-
-โทรศัพท์ปรับเล็กน้อย รักษาไหล่/หลังที่ผิดปกติและการกระทำ curl ไว้ในกรอบภาพ
-
-[4–7s | การลดความเร็วลงอย่างช้าๆ]
-
-ชายควบคุมการลดลงของบาร์จนแขนเกือบตรง
-
-เนื้อเยื่ออ่อนที่ไหล่/หลังยุบตัวและสั่นไหวเล็กน้อยเมื่อปล่อยแรงตึง จากนั้นจึง stabilize
-
-เหงื่อไหลลงบนผิวหนัง
-
-ห้ามหดกลับเป็นรูปร่างปกติทันที ห้ามเพิ่มก้อนใหม่
-
-[7–10s | จบการฝึก]
-
-เขาคุกเข่า ก้มตัว วางบาร์ลงบนพื้นก่อนเท้า
-
-แผ่นน้ำหนักสัมผัสพื้นก่อน จากนั้นเขาจึงปล่อยมือ
-
-ได้ยินเสียงโลหะทึบดังหนึ่งครั้ง
-
-โทรศัพท์ติดตามลงมาเล็กน้อยตามธรรมชาติ จากนั้นกลับไปที่ลำตัวส่วนบน
-
-ชายยืดตัวขึ้น หายใจหนัก
-
-[10–12s | สังเกตเห็นว่ามีคนถ่าย]
-
-ชายหันศีรษะมามองกล้อง จากนั้นหมุนไหล่และลำตัวเข้าสู่ท่าใกล้ด้านหน้า
-
-แขนห้อยลงตามธรรมชาติ ปริมาณไหล่/หลังที่ยังคงมองเห็นได้จากเงา
-
-เขามองผู้ถ่ายพร้อมหอบ ปากเปิดเล็กน้อย ไม่กระโจนเข้าหากล้อง
-
-จบหน้าจอโดยตรง
-
-[เสียงแวดล้อม]
-
-เสียงหายใจ เสียงเสียดสีของรองเท้า เสียงกระทบเบาๆ ของแผ่นน้ำหนัก การชนของอุปกรณ์ เสียงหึ่งของพัดลมติดผนัง
-
-ห้ามมีเพลงประกอบ ผู้บรรยาย คำบรรยาย หรือเสียงคำรามของสัตว์ประหลาด
-
-[ข้อจำกัดความต่อเนื่อง]
-
-มีตัวละครหลักเพียงคนเดียว สองแขน หนึ่งบาร์เบล
-
-กล้ามเนื้อและแผลที่ผิดปกติรักษาตำแหน่งคงที่ ห้ามเปลี่ยนรูปในแต่ละเฟรม
-
-ลำดับการจับ การ curl การลด การวาง และการปล่อยต้องครบถ้วน
-
-กล้องอยู่ที่ตำแหน่งสังเกตเดิม มุมมองด้านหน้าเกิดขึ้นจากการที่ชายหันกลับมา
-
-ห้ามเพิ่มการโจมตี หนวดปลาหมึก การเปลี่ยนแปลงกะทันหัน หรือระเบิดเลือด
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109781478963871745/img/F62454rkvV2-o5cl.jpg" width="600" alt="วิดีโอออกกำลังกายยิมสไตล์ Body Horror">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12444)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109803808867922199) | **Published:** Oct 13, 2026
-
----
-### วิดีโอ Reynolds Gillis ในฉากจาก Planes Trains Autos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอ Grok Imagine ที่สร้างฉากโรงแรมจากภาพยนตร์เรื่อง 'Planes, Trains and Automobiles' ใหม่ โดยนำแสดงโดย Ryan Reynolds และ Shane Gillis
-
-#### 📝 Prompt
-
-```
-Ryan Reynolds และ Shane Gillis สวมบทบาทเป็น Steve Martin และ John Candy ในฉากโรงแรมจากภาพยนตร์เรื่อง Planes Trains and Automobiles
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109781204354445312/img/Xtq9zLNv2YAiNH2F.jpg" width="600" alt="วิดีโอ Reynolds Gillis ในฉากจาก Planes Trains Autos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12441)**
-
-**Author:** [Redacticus](https://x.com/BillDeWaal) | **Source:** [Link](https://x.com/BillDeWaal/status/2109781218048835891) | **Published:** Oct 12, 2026
-
----
-### วิดีโอมีมร้านอาหาร: เต้าหู้แห้งรูปทรงพื้นรองเท้า
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์สำหรับสร้างวิดีโอแนวตั้งความยาว 10 วินาที ในร้านอาหาร ที่ลูกค้าหยิบเต้าหู้แห้งซึ่งมีลักษณะคล้ายพื้นรองเท้าขึ้นมา และโต้ตอบกับพนักงานเสิร์ฟอย่างตลกขบขัน
-
-#### 📝 Prompt
-
-```
-[ภาพรวมของฉาก]
-
-ความยาว 10 วินาที, อัตราส่วน 9:16 (แนวตั้ง), ภาพสมจริงแบบถ่ายด้วยมือถือในร้านอาหาร, ถ่ายต่อเนื่องครั้งเดียว (single take)
-
-รูปภาพที่อัปโหลดใหม่ทำหน้าที่เป็นอ้างอิงเฟรมสุดท้าย โดยกำหนดรูปร่างของเต้าหู้แห้งรูปทรงพื้นรองเท้า ตำแหน่งการจับ การจัดวางบนโต๊ะ ลักษณะของพนักงานเสิร์ฟ และการจัดองค์ประกอบภาพสุดท้าย
-
-[ฉากและความสัมพันธ์ในการถ่ายทำ]
-
-ร้านอาหารจีนขนาดเล็กทั่วไป ไฟแขวนเพดานโทนอุ่น โต๊ะสีเบจ ลูกค้ากำลังกินอาหารและพูดคุยกันอย่างเป็นธรรมชาติในพื้นหลัง
-
-ฉากหน้ามีชามสีขาวขนาดใหญ่ใส่พริกน้ำมัน เต้าหู้แห้ง บะหมี่ และผัก โดยมีชามน้ำซุป กาน้ำชา และกล่องทิชชู่วางอยู่ใกล้เคียง
-
-ชายวัยผู้ใหญ่ที่นั่งอยู่ถือโทรศัพท์ด้วยมือซ้าย ใช้ตะเกียบไม้สองอันในมือขวาเพื่อคีบอาหาร มีเพียงมือที่คีบอาหารเท่านั้นที่ปรากฏในเฟรม ใบหน้าและร่างกายของชายคนนั้นอยู่นอกจอ
-
-พนักงานเสิร์ฟสวมเสื้อสีดำและผ้ากันเปื้อนสีแดงไวน์ ยืนอยู่ด้านขวาฝั่งตรงข้ามโต๊ะ
-
-กล้องสั่นเล็กน้อยแบบถือด้วยมือ แสงภายในอาคารตามปกติ คุณภาพการบีบอัดจากโทรศัพท์ทั่วไป ไม่มีฟิลเตอร์ความงาม ไม่มีการปรับสีแบบภาพยนตร์
-
-[อุปกรณ์สำคัญ]
-
-มีเพียงชิ้นเดียวของเต้าหู้แห้งรูปทรงพื้นรองเท้า: สีเหลืองอมน้ำตาล เป็นแผ่นบาง ผิวเคลือบด้วยพริกน้ำมันและต้นหอม มีลายตารางชัดเจน เส้นขอบสอดคล้องกับเฟรมสุดท้าย
-
-มันเป็นอาหารที่ยืดหยุ่นได้ ไม่ใช่พื้นรองเท้าจริง ไม่มีส่วนบนของรองเท้า ยาง หรือรองเท้าปรากฏให้เห็น
-
-ตะเกียบคีบที่ปลายด้านบนของเต้าหู้ จุดสัมผัสถูกต้อง ปลายด้านล่างห้อยลงตามธรรมชาติเมื่อยกขึ้น
-
-[สตอรี่บอร์ดเวลาอย่างเคร่งครัด]
-
-0–2 วินาที:
-
-กล้องเอียงลงเล็กน้อยไปยังชามอาหาร มือขวาของชายคนนั้นเข้ามาจากด้านซ้าย ใช้ตะเกียบไม้สองอันคีบปลายด้านบนของชิ้นเต้าหู้ในชาม
-
-เต้าหู้จมอยู่ในพริกน้ำมันบางส่วน ยังไม่เผยเส้นขอบทั้งหมด
-
-2–4.5 วินาที:
-
-ชายคนนั้นค่อยๆ ยกตะเกียบขึ้น
-
-ดึงชิ้นเต้าหู้ทั้งชิ้นออกจากชามอย่างต่อเนื่อง เผยให้เห็นปลายด้านบนก่อน จากนั้นจึงเห็นลายตาราง ส่วนกลางที่แคบลง และปลายโค้งมน ค่อยๆ แสดงรูปทรงพื้นรองเท้าที่สมบูรณ์ออกมา
-
-เต้าหู้แกว่งเบาๆ น้ำซอสหยดกลับลงในชามสองหรือสามหยด
-
-กล้องยกขึ้นเล็กน้อยพร้อมกับมือที่ถือ เพื่อรักษาชิ้นเต้าหู้ทั้งชิ้นให้อยู่ในเฟรม
-
-4.5–6 วินาที:
-
-ชายคนนั้นหยุดตะเกียบ ดูเหมือนกำลังตรวจสอบอาหารอย่างใกล้ชิด พึมพำด้วยความสงสัย:
-
-"เต้าหู้แห้งนี่..."
-
-พนักงานเสิร์ฟได้ยินเสียง จึงก้าวเข้ามาใกล้เล็กน้อยจากฝั่งตรงข้าม สายตาเปลี่ยนจากตะเกียบไปยังเต้าหู้
-
-6–9 วินาที:
-
-ชายคนนั้นยังคงคีบไว้ แสดงเต้าหู้ให้พนักงานเสิร์ฟดูอย่างนุ่มนวล แล้วถามว่า:
-
-"พี่ครับ ทำไมมันดูเหมือนพื้นรองเท้าล่ะ?"
-
-น้ำเสียงเป็นธรรมชาติ สับสน และไม่เชื่อเล็กน้อย ไม่ได้ตะโกนกล่าวหา
-
-พนักงานเสิร์ฟมองลงมาที่เต้าหู้ คิ้วขมวดขึ้นทีละน้อย ริมฝีปากเม้มเบาๆ หยุดคิดสักครู่ ไม่ได้ตอบทันที
-
-เต้าหู้ยังลอยอยู่เหนือชาม ไม่ได้สัมผัสตัวพนักงานเสิร์ฟ
-
-9–10 วินาที:
-
-กล้องหยุดนิ่งที่ชิ้นเต้าหู้ที่สมบูรณ์และปฏิกิริยาที่งุนงงของพนักงานเสิร์ฟ
-
-ตำแหน่งของตะเกียบ เต้าหู้ อุปกรณ์บนโต๊ะ และพนักงานเสิร์ฟ สอดคล้องกับอ้างอิงเฟรมสุดท้าย คงไว้เป็นเวลาอย่างน้อยหนึ่งวินาที เพื่อทิ้งช่วงเงียบที่สร้างความตลกขบขัน
-
-[เสียง]
-
-เสียงพูดตามธรรมชาติของชายวัยผู้ใหญ่ มาจากบริเวณใกล้กล้อง
-
-คงเสียงตะเกียบเคาะขอบชามเบาๆ เสียงน้ำซอสหยด เสียงคุยเบาๆ จากโต๊ะข้างเคียง และเสียงกระทบกันของอุปกรณ์บนโต๊ะ
-
-ไม่มีเสียงบรรยาย ไม่มีเพลงประกอบ ไม่มีเอฟเฟกต์เสียงตลกที่เกินจริง
-
-[ความต่อเนื่องและข้อจำกัด]
-
-ต้องคีบก่อนยกขึ้น เต้าหู้ต้องโผล่ออกจากชามตามเส้นทางต่อเนื่อง ห้ามหายตัวไปมา ห้ามมีชิ้นซ้ำ
-
-รักษารูปทรง ขนาด ลายตาราง และสีเดิมไว้ทั้งก่อนและหลังยกขึ้น
-
-ใช้ตะเกียบสองอัน ห้ามแทงทะลุอาหาร ห้ามบิดเบี้ยว; นิ้วมือต้องดูปกติ
-
-พนักงานเสิร์ฟเข้าใกล้และสังเกตการณ์ตามธรรมชาติเท่านั้น ห้ามแย่งอาหาร ห้ามกรีดร้องก่อนเวลาอันควร
-
-ห้ามตัดต่อ ห้ามซูมกะทันหัน ห้ามสโลว์โมชั่น ห้ามเพิ่มรองเท้าหรืออุปกรณ์ประกอบคำอธิบายอื่นๆ
-
-ผลลัพธ์ที่สร้างขึ้นต้องไม่มีข้อความ ลายน้ำ หรืออินเทอร์เฟซของแพลตฟอร์ม
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109674296809279488/img/EoN20k23H_nqxK7o.jpg" width="600" alt="วิดีโอมีมร้านอาหาร: เต้าหู้แห้งรูปทรงพื้นรองเท้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12443)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109720765776162888) | **Published:** Oct 12, 2026
-
----
-### รีวิว Corvette โดย Yeti สุนัขพันธุ์เฟรนช์บูลด็อก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอสนุกๆ สำหรับ Grok Imagine ที่นำเสนอภาพของ Yeti สุนัขพันธุ์เฟรนช์บูลด็อก กำลังรีวิวรถ Corvette เปิดประทุน ปี 1966
-
-#### 📝 Prompt
-
-```
-Yeti สุนัขพันธุ์เฟรนช์บูลด็อกรีวิวรถ Corvette เปิดประทุน ปี 1966 สีเขียว Mossport Green ￼#frenchbulldog #corvette #dog #carreview
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109706028686200833/img/-oDD9GlXGFSTVJ2g.jpg" width="600" alt="รีวิว Corvette โดย Yeti สุนัขพันธุ์เฟรนช์บูลด็อก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12440)**
-
-**Author:** [Howard Gilson](https://x.com/Howard4S) | **Source:** [Link](https://x.com/Howard4S/status/2109713321830371593) | **Published:** Oct 12, 2026
-
----
-### พรอมต์วิดีโอคาวบอย Sam Elliott
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์รายละเอียดสำหรับ Grok Imagine เพื่อสร้างวิดีโอสมจริงของ Sam Elliott ในมาดคาวบอย ขี่ม้าและต้อนฝูงปศุสัตว์
-
-#### 📝 Prompt
-
-```
-วิดีโอสมจริงของ Sam Elliott ขี่ม้าและต้อนฝูงปศุสัตว์ข้ามทุ่งราบและทะเลทราย ในฉากสุดท้าย กล้องแพนไปหา Sam แล้วเขายิ้มพร้อมเอียงหมวกคาวบอยเล็กน้อย ไม่มีบทพูด ให้ใช้เพลงคันทรี่ประกอบ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109648300836093952/img/OtQcWmsSCkdf5cGR.jpg" width="600" alt="พรอมต์วิดีโอคาวบอย Sam Elliott">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12438)**
-
-**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2109648322424164530) | **Published:** Oct 12, 2026
-
----
-### ยูเอฟโอต่างดาวเหนือมหานครนีออน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงภาพยนตร์ที่ละเอียด อธิบายถึง UFO ต่างดาวขนาดมหึมาลอยอยู่เหนือนครใหญ่ที่เต็มไปด้วยแสงนีออนในช่วงพลบค่ำ ใช้สำหรับเปรียบเทียบ Grok Imagine กับเครื่องมือสร้างภาพด้วย AI ตัวอื่น ๆ
-
-#### 📝 Prompt
-
-```
-UFO ต่างดาวเทคโนโลยีขั้นสูงขนาดมหึมา ลอยอย่างน่าหวาดหวั่นอยู่เหนือมหานครนีออนที่กว้างใหญ่ไพศาลในช่วงพลบค่ำ ตัวจานบินสีดำสนิทราวกับหินออบซิเดียนเต็มไปด้วยอาวุธเรืองแสงและเครื่องยนต์ขับดันทรงเหลี่ยม ลำแสงสีแดงสแกนลงมาเป็นลางร้าย พร้อมวงแหวนพลังงานที่กระเพื่อมเป็นจังหวะจากแกนกลาง ภาพเรนเดอร์ CGI อนาคตแบบ 3 มิติ โทนสีฟ้าไฟฟ้าและม่วงแดงตัดกับสีดำสนิทของสุญญากาศและไฮไลท์สีขาวเรืองแสง แสง God rays แบบ Volumetric ทะลุผ่านหมอกพิษ ความลึกที่มีชั้นรายละเอียดซับซ้อน พื้นผิวโลหะสะท้อนแสง และประกายไฟจากพลังงาน มุมกล้องต่ำแบบ Dolly shot ที่ยกขึ้นอย่างดราม่าเพื่อเน้นย้ำขนาดอันมหาศาล กล้องเคลื่อนที่โคจรรอบอย่างช้าๆ และนุ่มนวล พร้อมเลนส์แฟลร์เล็กน้อย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109580352566030336/img/XVmzd3tzI-sDpCry.jpg" width="600" alt="ยูเอฟโอต่างดาวเหนือมหานครนีออน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12445)**
-
-**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2109615817902129155) | **Published:** Oct 12, 2026
-
----
-### พรอมต์วิดีโอเต้นซอมบี้คู่สำหรับวันฮาโลวีน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ละเอียดสำหรับการสร้างวิดีโอแนวตั้งความยาว 15 วินาที แสดงการเต้นของซอมบี้สองคนในธีม Halloween โดยใช้ Grok Imagine รวมถึงข้อจำกัดที่เข้มงวดเกี่ยวกับตำแหน่งของนักเต้น การล็อกลักษณะภายนอกเพื่อป้องกันเมกอัปแบบสยองขวัญ และคำสั่งซูมกล้องเฉพาะที่ซิงค์กับจังหวะเพลง
-
-#### 📝 Prompt
-
-```
-15s Halloween Zombie Duo Dance | แนวตั้ง 9:16 | นักเต้น 2 คน | พื้นหลังคงที่ | กล้องคงที่ | ซูมและโคลสอัพซิงค์จังหวะ | Horror Trap Hip-Hop
-
-ดนตรี / พลังงาน:
-จังหวะหนักแน่นที่เริ่มต้นอย่างฉับพลันตั้งแต่แรกเริ่ม ความเร็ว 155 BPM ในสไตล์ horror trap hip-hop กลองหนัก เบสลึก เร็ว คมชัด มีพลังและไดนามิก
-
-LOCK สัมบูรณ์:
-มีนักเต้นเพียง 2 คนเท่านั้น นักเต้น A อยู่ด้านซ้ายเสมอ นักเต้น B อยู่ด้านขวาเสมอ หน้าตา ร่างกาย ทรงผม ชุด ตำแหน่ง พื้นหลัง แสง สี และเงาต้องเหมือนกันตลอดทั้งคลิป ห้ามสลับตำแหน่ง ห้ามข้ามพื้นที่ ห้ามเปลี่ยนรูปร่าง ห้ามเพิ่มจำนวนนักเต้น ห้ามตัดต่อ พื้นหลังไม่เปลี่ยนแปลง
-
-ท่าเต้นซอมบี้ (ลำดับความสำคัญสูงสุด):
-นักเต้นทั้งสองเหยียดแขนตรงไปข้างหน้าในระดับไหล่ งอข้อมือลง 90 องศาอย่างแม่นยำ และกางนิ้วมือออกตามธรรมชาติพร้อมแสดงท่า "zombie dance" ที่รวดเร็ว รุนแรง และเต็มไปด้วยพลังงาน การแสดงประกอบด้วยลำดับท่าทางรวมถึง "zombie steps" ที่เร็วด้วยขาแข็งเกร็ง การสะบัดไหล่ที่ระเบิดพลัง chest pops อย่างรุนแรง การเคลื่อนไหวศีรษะที่คมชัด ยกเข่าอย่างทรงพลัง สควอทโดยแยกเข่ากว้าง ลunge อย่างกะทันหัน และการสั่นร่างกายตามจังหวะอย่างรุนแรง
-
-ใช้ footwork แบบ DOUBLE-TIME ที่ 155 BPM เร่งความเร็วอย่างฉับพลัน หยุดนิ่งทันที เริ่มใหม่อย่างระเบิดพลัง และเน้นจังหวะหนัก
-รวมบางช่วงที่นักเต้นทั้งสองทำท่าเต้นต่างกันพร้อมกัน โดยยังคงท่าแขนซอมบี้ถาวรไว้
-
-กฎการเต้นคู่:
-นี่คือการเต้นคู่ แต่พวกเขาต้องไม่ซิงค์กันสมบูรณ์ตลอดเวลา
-พวกเขาเคลื่อนที่ตามจังหวะโดยรวมเดียวกัน แต่มี offset เล็กน้อยในการจับจังหวะ สลับจุดเน้น และมีการกระทำของร่างกายที่แตกต่างกัน
-
-ตอนจบ:
-ทั้งสองคนหยุดในท่าซอมบี้ แล้วกล้องซูมเข้าเป็น close-up ที่ดวงตาซึ่งเรืองแสงสีแดงขณะจ้องมองมาที่กล้อง
-
-APPEARANCE LOCK — ลำดับความสำคัญสัมบูรณ์:
-รักษาหน้าตาเดิม โทนสีผิวธรรมชาติ ทรงผม และเมกอัปของนักเต้นทั้งสองให้ตรงกับเฟรมแรกอย่างเคร่งครัด ห้ามใช้เมกอัปซอมบี้ เมกอัปสยองขวัญ เมกอัปศพ ผิวซีดหรือเทา เบ้าตาดำคล้ำ เปลี่ยนสีใบหน้า หรือเอฟเฟกต์ใบหน้าที่น่าเกลียด ห้ามมีเลือด เลือดปลอม บาดแผลเปิด แผลเป็น รอยช้ำ หรือบาดเจ็บที่มองเห็นได้ สื่อสารตัวละครซอมบี้ผ่านท่าทางร่างกายที่แข็งเกร็ง เอียงศีรษะอย่างไม่เป็นธรรมชาติ ย่างก้าวลากตัว สะบัดไหล่อย่างรุนแรง และสีหน้าที่น่าขนลุกเท่านั้น ห้ามเปลี่ยนแปลงลักษณะของนักเต้นคนใดคนหนึ่งตลอดทั้งวิดีโอ
-
-กล้อง:
-กล้องหน้าคงที่เท่านั้น ไม่มีการเคลื่อนกล้อง ไม่ pan ไม่ tilt ไม่ dolly
-ใช้เพียง optical zoom-in ที่เร็วและซิงค์กับจังหวะ snap zoom-out และ framing แบบ punch-in close-up ชั่วคราว เพื่อสร้างความเร็วและผลกระทบโดยคงตำแหน่งกล้องไว้ ให้พื้นหลังเหมือนเดิมตลอดเวลา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109605227141980160/img/fuYzaUPkPABjaSOE.jpg" width="600" alt="พรอมต์วิดีโอเต้นซอมบี้คู่สำหรับวันฮาโลวีน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12446)**
-
-**Author:** [SPLASH GIRLS@AI Image](https://x.com/splash_GL) | **Source:** [Link](https://x.com/splash_GL/status/2109615069470556358) | **Published:** Oct 12, 2026
-
----
-### มุมมองรถไฟเหาะพระจันทร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอแบบมุมมองบุคคลที่หนึ่ง (POV) สไตล์ภาพยนตร์ สำหรับเครื่องเล่นรถไฟเหาะที่เริ่มต้นจากพื้นผิวของดวงจันทร์
-
-#### 📝 Prompt
-
-```
-Cinematic POV: การนั่งรถไฟเหาะแบบบุคคลที่หนึ่งที่น่าตื่นเต้นเร้าใจ เริ่มต้นบนพื้นผิวอันรกร้างของดวงจันทร์ ลอยอยู่เหนือความมืดมิดไร้ขอบเขตของอวกาศ กล้องค่อยๆ เคลื่อนเข้าใกล้ขอบรางที่ลาดชันอย่างเหลือเชื่อ ก่อนที่จะดิ่งลง...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109587925340131328/img/uyDrinJwjJgcnZZy.jpg" width="600" alt="มุมมองรถไฟเหาะพระจันทร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12518)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2109587970412212342) | **Published:** Oct 12, 2026
-
----
-### พรอมต์วิดีโอภาพเงาการแข่งขันคาวเกิร์ลและคาวบอยบนชายหาด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงภาพยนตร์สำหรับ Grok Imagine ที่แสดงภาพคาวเกิร์ลและคาวบอยแข่งขันกันบนชายหาดพร้อมแสงวูบวาบจากกีบม้าสีพระอาทิตย์ขึ้น
-
-#### 📝 Prompt
-
-```
-ในภาพเงาสีดำ คาวเกิร์ลและคาวบอยแข่งม้าเคียงข้างกันบนชายหาดทะเล แสงวูบวาบสีส้มทองราวกับพระอาทิตย์ขึ้นที่สว่างไสวพุ่งออกมาจากกีบม้าทุกครั้งที่แตะลงบนผืนทราย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109544031252529153/img/syXmP_gxWX9mJQt4.jpg" width="600" alt="พรอมต์วิดีโอภาพเงาการแข่งขันคาวเกิร์ลและคาวบอยบนชายหาด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12378)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109544110919164271) | **Published:** Oct 12, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2518,6 +2317,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-21T04:26:43.772Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-21T13:55:52.452Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3160** |
+| 📝 Total Prompts | **3185** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-21** |
 
@@ -189,6 +189,479 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Laptop Slow Zoom Cinematic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A precise camera movement prompt for a slow zoom on a gaming laptop with static background.
+
+#### 📝 Prompt
+
+```
+Subtle gentle slow zoom in on the black gaming laptop at 45-degree angle, smooth cinematic camera movement only, product and background completely static, no rotation, no orbit, photorealistic product reveal, silent
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112798017090625536/img/AWUm6KNP8K-8MPix.jpg" width="600" alt="Laptop Slow Zoom Cinematic">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12844)**
+
+**Author:** [Jacek](https://x.com/Jacek1029984002) | **Source:** [Link](https://x.com/Jacek1029984002/status/2112798047713350106) | **Published:** Oct 21, 2026
+
+---
+### Abstract Red Background Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Structured JSON prompt defining camera settings and scene details for an abstract red background video.
+
+#### 📝 Prompt
+
+```
+{"shot": {"motion_level": "low", "camera_depth": "medium close-up", "camera_view": "eye level", "camera_movement": "static shot"}, "scene": {"location": "abstract red background", "environment": "The setting is dominated by a solid, vibrant red backg..."}}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112788059158958081/img/6fWorOXXx3iB63Ee.jpg" width="600" alt="Abstract Red Background Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12852)**
+
+**Author:** [レイヴ](https://x.com/raves9361) | **Source:** [Link](https://x.com/raves9361/status/2112788079555834293) | **Published:** Oct 21, 2026
+
+---
+### Anime Woman Tesla Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a video featuring an anime woman stepping into a Tesla Roadster with rocket thrusts, flying over traffic.
+
+#### 📝 Prompt
+
+```
+An anime woman wearing a sports bra and beige leggings stepping into the new Tesla Roadster with rocket trust as she blesses off flies over traffic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112765941310222336/img/DeWpDxRZvODE8WnG.jpg" width="600" alt="Anime Woman Tesla Roadster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12848)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2112766018804453885) | **Published:** Oct 21, 2026
+
+---
+### Steampunk Samurai Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video generation prompt transforming a character into a steampunk animated samurai with specific audio constraints.
+
+#### 📝 Prompt
+
+```
+Make Hiro turn into a steampunk animated Kurosawa Shiba Samurai. No talking and Japanese music.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112754224903979008/img/eTrYjw9bbWQR_bPl.jpg" width="600" alt="Steampunk Samurai Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12857)**
+
+**Author:** [Simon](https://x.com/schaniteration2) | **Source:** [Link](https://x.com/schaniteration2/status/2112754273981497746) | **Published:** Oct 21, 2026
+
+---
+### Chibi Anime Restyle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video generation prompt restyling a character into chibi anime style while preserving facial likeness.
+
+#### 📝 Prompt
+
+```
+Restyle this image into classic chibi anime style. Transform the main character into a chibi version with an oversized head, tiny body, large sparkling eyes, and cute exaggerated proportions while perfectly preserving his exact facial likeness, skin...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112744200311631872/img/wAljQaQ8N7BzzVYA.jpg" width="600" alt="Chibi Anime Restyle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12856)**
+
+**Author:** [Shockwave48 TV](https://x.com/canyon_brown) | **Source:** [Link](https://x.com/canyon_brown/status/2112744312182047054) | **Published:** Oct 21, 2026
+
+---
+### Dragons Ocean Dive Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fantasy prompt for a video of two dragons diving under a tugboat and flying back up.
+
+#### 📝 Prompt
+
+```
+One Dark gray dragon and one silver white dragon fly side by side over ocean diving into ocean gliding under yellow tug boat then flying up into the sky again
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112740302830329856/img/CnXd8yw-CLSArONI.jpg" width="600" alt="Dragons Ocean Dive Flight">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12845)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2112740397541961918) | **Published:** Oct 21, 2026
+
+---
+### Deep Voiceover Space Exploration
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt for a video featuring a deep voiceover about eyes seeing beyond the moon and mars.
+
+#### 📝 Prompt
+
+```
+With voicer over deep : the eyes that can see beyond moon and mars to take humanity where we never been before ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112728615062261760/img/OGILI4iOvDclpSFs.jpg" width="600" alt="Deep Voiceover Space Exploration">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12853)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2112728646582735171) | **Published:** Oct 21, 2026
+
+---
+### Roadster Sunset Drive
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for a roadster ride in a new world setting during a two-sun sunset.
+
+#### 📝 Prompt
+
+```
+A new world explored with Optimus and Kat little roadster ride at end of the two sun sunset
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112705363422367744/img/Vpq1a_pC5_VfHQS6.jpg" width="600" alt="Roadster Sunset Drive">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12841)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2112705475875930480) | **Published:** Oct 21, 2026
+
+---
+### Grok Imagine Inception City Collapse Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Two-step prompts for creating an Inception-style city collapse scene: first generating a cinematic still from a photo, then animating it into a video with folding buildings.
+
+#### 📝 Prompt
+
+```
+Use the attached photo only as a face/identity reference.
+Generate a brand-new cinematic still.
+
+The person is already inside the Inception dream-collapse scene.
+Folding Paris-like city, buildings bending overhead, street lifting, dust in the air.
+Christopher Nolan cinematic look, 16:9, anamorphic, film grain, dramatic lighting.
+
+Do not reproduce the original photo composition.
+Do not keep the original background.
+Do not make a photo-to-scene transition image.
+First and only frame = finished movie still.
+Keep the same face.
+No text, no watermark.
+
+Animate this image.
+This image is already the first frame. Do not fade from any other photo.
+
+The city continues folding in on itself.
+Buildings slowly invert, streets lift, gravity shifts, dust and debris drift.
+The person stays the same person, same face.
+Slow heavy collapse, cinematic push-in, low angle, anamorphic, film grain.
+No cut, no dissolve from a different image, no original-photo flash.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2112691604612116480/pu/img/61yoOsOc6tnFzsrw.jpg" width="600" alt="Grok Imagine Inception City Collapse Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12864)**
+
+**Author:** [ORCHIS STUDIO｜Web導線改善](https://x.com/StudioOrchis) | **Source:** [Link](https://x.com/StudioOrchis/status/2112695369855566318) | **Published:** Oct 21, 2026
+
+---
+### Onion Rings Fighting Sauce
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Whimsical prompt about two onion rings arguing and fighting over the last bit of sauce.
+
+#### 📝 Prompt
+
+```
+Two onion rings arguing over the last bit of sauce and have em sliding and fighting for the last bit of sauce ..
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112669892734234624/img/541k2lznL0AMkm3f.jpg" width="600" alt="Onion Rings Fighting Sauce">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12854)**
+
+**Author:** [Billy “Billymack” mcgee](https://x.com/BillyBilly5651) | **Source:** [Link](https://x.com/BillyBilly5651/status/2112669910887227871) | **Published:** Oct 20, 2026
+
+---
+### GTA Style Tesla Roadster Chase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex prompt instructing the AI to analyze videos of the new Tesla Roadster and generate a GTA-style video of a police pursuit involving flying cars.
+
+#### 📝 Prompt
+
+```
+Watch the videos about Tesla’s new Roadster, understand them fully, then create a GTA-style video of police pursuing someone in the air with both in cars.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112641848132911104/img/IeAK_OL17gRSdhPz.jpg" width="600" alt="GTA Style Tesla Roadster Chase">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12846)**
+
+**Author:** [Rise-Raise](https://x.com/rise_raise_ai) | **Source:** [Link](https://x.com/rise_raise_ai/status/2112641880819474436) | **Published:** Oct 20, 2026
+
+---
+### Man Describing Hovering Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a scene where a man describes a hovering Tesla roadster in the background.
+
+#### 📝 Prompt
+
+```
+Man in foreground describes features of the new Tesla roadster while it hovers in the background
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112636802146160640/img/FBhpY4y1C4HJAe2l.jpg" width="600" alt="Man Describing Hovering Roadster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12851)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2112636838879871296) | **Published:** Oct 20, 2026
+
+---
+### Tesla Roadster Thruster Hop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A physics-based prompt for a 6-second video of a Tesla Roadster using cold gas thrusters to hop over a bus.
+
+#### 📝 Prompt
+
+```
+6s video of Tesla roadster activating cold gas thrusters to hop over a school bus
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112622676174897152/img/BSZNURdNcHautPV1.jpg" width="600" alt="Tesla Roadster Thruster Hop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12843)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2112622701492031836) | **Published:** Oct 20, 2026
+
+---
+### Nighttime Megapolis Car Scene Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt to transform a scene into a nighttime setting with a futuristic floating car and city background.
+
+#### 📝 Prompt
+
+```
+Transform the scene to nighttime with a vast megapolis city background: towering skyscrapers with glowing windows, neon lights, dense urban skyline at night, while keeping the exact same black futuristic car floating with thrusters and vapor trails....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112616366079377408/img/t4JMqaM8-byM4MY9.jpg" width="600" alt="Nighttime Megapolis Car Scene Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12859)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2112616386010710451) | **Published:** Oct 20, 2026
+
+---
+### Tesla Roadster Desert Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt specifying a 6-second, 720p video of a Tesla Roadster using cold gas thrusters to fly through a desert landscape.
+
+#### 📝 Prompt
+
+```
+6s 720p video of the Tesla roadster using its cold gas thrusters to fly through the desert
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112595996370714625/img/8PQb_u1AQxCQflb8.jpg" width="600" alt="Tesla Roadster Desert Flight">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12847)**
+
+**Author:** [Astropub Starbase](https://x.com/AstropubSBTX) | **Source:** [Link](https://x.com/AstropubSBTX/status/2112596021847158826) | **Published:** Oct 20, 2026
+
+---
+### EV Lifestyle Selfie Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for a 1-minute selfie-style video inside a Tesla Model 3 discussing EV lifestyle benefits.
+
+#### 📝 Prompt
+
+```
+She sitting inside of her model 3 selfie style drinking in n out soft drink talking about how she choose EV life because she hates getting oil changes from jiffy line or Midas 1080p video 1 min
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112570881738260480/img/iJuex6ld-47AU77i.jpg" width="600" alt="EV Lifestyle Selfie Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12842)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2112571075037159729) | **Published:** Oct 20, 2026
+
+---
+### Arthur AI Art History Bot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to create a mini video featuring 'Arthur', an AI art history bot that takes photos of people, places them in historical artworks, and prints postcards.
+
+#### 📝 Prompt
+
+```
+use this little bot Arthur the Ai art history bot and make a mini video, his job is to take photos of people and puts them into historical artworks and print them a postcard
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112566005876535296/img/qexBsFsSgzzwferh.jpg" width="600" alt="Arthur AI Art History Bot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12849)**
+
+**Author:** [The Pixel Witch](https://x.com/WGlencora) | **Source:** [Link](https://x.com/WGlencora/status/2112566025049039209) | **Published:** Oct 20, 2026
+
+---
+### Lady Leaning On Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a lady leaning on a wrapped Cybertruck saying 'I'm a baaad chick'.
+
+#### 📝 Prompt
+
+```
+A lady whose thick frame leans on her pink wrapped cybertruck in Scottdale Az smiling as she says” I’m a baaad chick”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112563963363803137/img/L7PSlJ7ZEm2THzii.jpg" width="600" alt="Lady Leaning On Cybertruck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12855)**
+
+**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2112564183518646624) | **Published:** Oct 20, 2026
+
+---
+### EDM Party Animation Style
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video generation prompt focusing on limited animation, handheld camera effects, and EDM party vibes.
+
+#### 📝 Prompt
+
+```
+unchanging style, perfect visual consistency, edm, limited animation, handheld camera, feeling the music, techhouse, party, bouncing, shaky camera, dynamic, windy, foreshortening, hand dancing, non verbal, camera rocks side to side, unstable camera,...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112521265051557888/img/kA6bDlDrENEFHhD4.jpg" width="600" alt="EDM Party Animation Style">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12860)**
+
+**Author:** [レイヴ](https://x.com/raves9361) | **Source:** [Link](https://x.com/raves9361/status/2112521367635857468) | **Published:** Oct 20, 2026
+
+---
+### Grok Imagine Cosplay Pose Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt for generating a 15-second video of a cosplayer changing poses every 3 seconds at Comiket, using multiple reference images for consistency.
+
+#### 📝 Prompt
+
+```
+🎬 Instructions for Director Gemini
+Please create a Japanese prompt for a 15-second video using the 3 uploaded images (full body, close-up, medium), switching through 5 scenes where "a cosplayer changes to decisive poses and photogenic posing every 3 seconds (2 poses per scene) during a photo session at Comiket." End with a close-up, decisive pose, and a wink with one eye.
+
+BGM "(Think of BGM matching the atmosphere of the image)"
+
+Maintain consistency of the person's face and hairstyle. Do not generate images or videos.
+
+Replace Image 1 (full body) in the prompt with @Image1, Image 2 (close-up) with @Image2, and Image 3 (medium) with @Image3.
+
+🎥 Video Generation Prompt (Grok Imagine)
+[Basics & Consistency]
+ * Person/Costume Reference: Female cosplayer from @Image1 (full body), @Image2 (close-up), @Image3 (medium). Silver braided hair, elf ears, blue and white fantasy costume; maintain consistency of facial features and hairstyle.
+ * Location: Bustling Comiket venue (blurred photographers and booths in background).
+ * BGM Proposal: Refreshing, bright uptempo EDM/Anison-style pop (with sparkling synth sounds evoking fantasy).
+[Timeline & Structure (Total 15s)]
+ * Scene 1 (0:00 - 0:03) / Ref: @Image1
+   * Angle: Full Shot (Full Body)
+   * Pose 1 (0-1.5s): Graceful bow-like pose lightly lifting the costume skirt.
+   * Pose 2 (1.5-3s): Spreading arms wide, smiling beautifully, showing off the full costume.
+ * Scene 2 (0:03 - 0:06) / Ref: @Image3
+   * Angle: Medium Shot (Waist up)
+   * Pose 1 (3-4.5s): Making a heart mark with both hands in front of chest, tilting head slightly and smiling.
+   * Pose 2 (4.5-6s): Hand on chin, cool expression while tracking camera with eyes.
+ * Scene 3 (0:06 - 0:09) / Ref: @Image1
+   * Angle: Full Shot with changed angle (diagonal full body)
+   * Pose 1 (6-7.5s): Twisting body diagonally, touching hair lightly, looking back.
+   * Pose 2 (7.5-9s): Stepping one foot forward, extending hand towards camera like a fantasy heroine.
+ * Scene 4 (0:09 - 0:12) / Ref: @Image3
+   * Angle: Medium Shot
+   * Pose 1 (9-10.5s): Hands on cheeks, cute surprised pose.
+   * Pose 2 (10.5-12s): Waving refreshingly towards the camera.
+ * Scene 5 (0:12 - 0:15) / Ref: @Image2
+   * Angle: Close-up (Face ~ Shoulders)
+   * Pose 1 (12-13.5s): Staring intently at camera, smiling gently.
+   * Pose 2 (13.5-15s): Decisive pose towards camera, winking cutely with one eye, freezing with a smile.
+```
+
+<img src="https://cms-assets.youmind.com/media/1792568893125_pgdy5x_HU_Yy_NbIAALf6w.jpg" width="600" alt="Grok Imagine Cosplay Pose Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12865)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2112491518904680856) | **Published:** Oct 20, 2026
+
+---
+### Interstellar Spaceship Robot Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-quality video prompt describing a massive spaceship transforming into a guardian robot above Earth.
+
+#### 📝 Prompt
+
+```
+An enormous interstellar spaceship floats silently above Earth with glowing blue engines. Its kilometer-long hull separates into interlocking armor plates, enormous mechanical limbs emerge, and giant energy reactors ignite across its body. The ship's wings rotate into armored shoulders while its engines transform into glowing propulsion systems along its back. A colossal guardian robot unfolds against the planet, opens its radiant eyes, and slowly turns toward a distant alien fleet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112487211350339584/img/hd6zzmY_6HQKI_Oj.jpg" width="600" alt="Interstellar Spaceship Robot Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12850)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112488408937300278) | **Published:** Oct 20, 2026
+
+---
+### Biblical Writer Image Edit Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for editing an image to replace Moses with a female writer, including specific visual elements.
+
+#### 📝 Prompt
+
+```
+Edit this image professionally: Replace Moses with a elegant female writer from biblical times, seated at a small wooden desk in the foreground, writing with a quill. Above her place a clear elegant sign that reads “¿A quién enviaré?”. Show her thoug...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112467072164724736/img/_mnCCXISwUPY5r09.jpg" width="600" alt="Biblical Writer Image Edit Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12858)**
+
+**Author:** [Gacela Hadassah](https://x.com/esther_san41998) | **Source:** [Link](https://x.com/esther_san41998/status/2112467092498784285) | **Published:** Oct 20, 2026
+
+---
 ### Sunrise Nature Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +681,25 @@ Sun rising over mountains pine trees birds signing buck deer and doe deer leap o
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12795)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2112422511124332928) | **Published:** Oct 20, 2026
+
+---
+### Grok Imagine Flying Motorcycle Transformation Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine describing a sleek metallic suitcase transforming into a flying motorcycle inside a futuristic airport hangar.
+
+#### 📝 Prompt
+
+```
+A sleek metallic suitcase sits alone inside a futuristic airport hangar. Magnetic locks release, and hundreds of precision-engineered panels expand outward as hidden mechanical arms extend from the center. Wheels unfold, the frame lengthens, and twin anti-gravity thrusters activate beneath the chassis. The completed flying motorcycle rises silently, rotates in midair, and accelerates through the hangar doors into a futuristic skyline.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112363828638105600/img/OJDQgZoF26_gumFt.jpg" width="600" alt="Grok Imagine Flying Motorcycle Transformation Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12861)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112364398350311506) | **Published:** Oct 20, 2026
 
 ---
 ### Future Spaceport Traffic Video
@@ -362,11 +854,11 @@ Include a bright orange sunny sky, where is this. white Tesla car seen  to turn 
 **Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2112251138145951830) | **Published:** Oct 19, 2026
 
 ---
-### Grok Imagine Supercar Robot Transformation
+### Supercar Transforms into Robot
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-quality video prompt describing a futuristic black supercar transforming into a robotic warrior in a neon city.
+> A detailed video prompt for a futuristic black supercar transforming into a robotic warrior in a neon city.
 
 #### 📝 Prompt
 
@@ -374,7 +866,7 @@ Include a bright orange sunny sky, where is this. white Tesla car seen  to turn 
 A futuristic black supercar races through a neon-lit megacity at night before braking violently on a wet highway. The hood splits into armored chest plates, wheels rotate into the shoulders, and hundreds of hydraulic components unfold in precise mechanical sequences. The car rises into a towering robotic warrior with glowing blue eyes as steam bursts from its armor. The robot takes one powerful step forward while the camera circles it in a dramatic 360-degree shot.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112218406913282051/img/p2l0BCI_PrQVlPrl.jpg" width="600" alt="Grok Imagine Supercar Robot Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112218406913282051/img/p2l0BCI_PrQVlPrl.jpg" width="600" alt="Supercar Transforms into Robot">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12801)**
 
@@ -753,11 +1245,11 @@ Tesla roadster flying off the hwy into the air by its rocket thrusters flying te
 **Author:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **Source:** [Link](https://x.com/TIME2064/status/2111271416792224030) | **Published:** Oct 17, 2026
 
 ---
-### Grok Imagine Video Prompt - Blonde Woman Close-up
+### First Frame Continuation Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for Grok Imagine starting from a specific first-frame image of a blonde woman with wavy hair and freckles.
+> A prompt instructing the model to animate a video starting from a specific attached first-frame image of a blonde woman.
 
 #### 📝 Prompt
 
@@ -765,7 +1257,7 @@ Tesla roadster flying off the hwy into the air by its rocket thrusters flying te
 The video begins from the frame defined by the attached first-frame image: a close-up of the blonde woman with long wavy blonde hair, blue eyes, freckles, black tank top straps, and silver circle pendant necklace, against a soft green-and-white blurr...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111227053664026624/img/EUJDKPrS2S-58QJR.jpg" width="600" alt="Grok Imagine Video Prompt - Blonde Woman Close-up">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111227053664026624/img/EUJDKPrS2S-58QJR.jpg" width="600" alt="First Frame Continuation Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12698)**
 
@@ -827,6 +1319,27 @@ Starship @Image1 takes off from the surface of the moon using cold gas thrusters
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12651)**
 
 **Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111182254646886773) | **Published:** Oct 16, 2026
+
+---
+### Grok Imagine Kizomba Dance Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a 15-second intimate kizomba dance video with close embrace and forehead touching.
+
+#### 📝 Prompt
+
+```
+15-second intimate kizomba dance clip. Couple in a very close embrace, barely moving their feet.
+
+Pure Intimacy, notice near constant forehead touching. The intimate energy transfer.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111180572626190336/img/xZM6qVfCumNMN63F.jpg" width="600" alt="Grok Imagine Kizomba Dance Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12862)**
+
+**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2111180601797800160) | **Published:** Oct 16, 2026
 
 ---
 ### Cyberpunk Techno Markets
@@ -1418,6 +1931,25 @@ Elon Musk as a swashbuckling pirate holding a Sabre with his teeth and a parrot 
 **Author:** [Phillip Oyler](https://x.com/NdnCwby) | **Source:** [Link](https://x.com/NdnCwby/status/2110723009313136790) | **Published:** Oct 15, 2026
 
 ---
+### Tranquil Nature Layers Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a high-resolution tranquil nature scene involving sunlight and tree branches.
+
+#### 📝 Prompt
+
+```
+A high-resolution, tranquil scene. Something with "layers"—perhaps sunlight filtering through ancient tree branches…
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110711965127421952/img/Xs3vyc54482vJr2-.jpg" width="600" alt="Tranquil Nature Layers Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12863)**
+
+**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2110711998111748354) | **Published:** Oct 15, 2026
+
+---
 ### Ultra-Realistic Fashion Walk Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1720,737 +2252,6 @@ Can you soften her tone. Have say ready for action feel the power of coffee let�
 **Author:** [Laurie Vallance](https://x.com/RemmyChan) | **Source:** [Link](https://x.com/RemmyChan/status/2110432213942866381) | **Published:** Oct 14, 2026
 
 ---
-### Elderly Glaeken Dialogue Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A specific narrative prompt for Grok Imagine featuring an elderly character named Glaeken speaking to Repairman Jack in Central Park.
-
-#### 📝 Prompt
-
-```
-Elderly Glaeken in front of Central Park telling Repairman Jack “A spear has no branches”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110368390686588928/img/kwutMzl4kvsed9UP.jpg" width="600" alt="Elderly Glaeken Dialogue Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12551)**
-
-**Author:** [Redacticus](https://x.com/BillDeWaal) | **Source:** [Link](https://x.com/BillDeWaal/status/2110368404431347729) | **Published:** Oct 14, 2026
-
----
-### Grok Imagine Coconut Ad Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt using Grok Imagine to create a creative advertisement for coconut products.
-
-#### 📝 Prompt
-
-```
-Do a 8 sec creative ads video for a coconut 
-
-Be creative and use whatever resources you can
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110317366294831104/img/TUzw1grPIJQ-GTz1.jpg" width="600" alt="Grok Imagine Coconut Ad Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12614)**
-
-**Author:** [maryann](https://x.com/Maryann_primex) | **Source:** [Link](https://x.com/Maryann_primex/status/2110317410125238527) | **Published:** Oct 14, 2026
-
----
-### Grok Imagine Video Prompt: Surreal Alien Creature
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for Grok Imagine generating a surreal alien creature portrait with fused octopus heads and extreme peripheral vision features.
-
-#### 📝 Prompt
-
-```
-A surreal alien creature portrait: two fused octopus heads stacked, the large upper head with massive eyes pushed all the way to the extreme left and right edges of the head for maximum peripheral vision and almost no blind spot, the small lower head...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110251076373123072/img/HmKuhwSIW54QI0qI.jpg" width="600" alt="Grok Imagine Video Prompt: Surreal Alien Creature">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12516)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2110251096585507200) | **Published:** Oct 14, 2026
-
----
-### Synthwave Music Prompt for Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed text-to-music prompt designed for use within Grok Imagine videos to create a cinematic synthwave track.
-
-#### 📝 Prompt
-
-```
-Cinematic synthwave with a sleek futuristic edge, driving mid-tempo pulse, deep analog bass, shimmering arpeggiated synths, punchy programmed drums, and wide atmospheric pads. Glossy neon production with dynamic builds, crisp transients, and a cool, polished sense of motion and nocturnal energy. No Singing.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110242759021846528/img/09Esw6WtOawZaQv-.jpg" width="600" alt="Synthwave Music Prompt for Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12509)**
-
-**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2110243164166443138) | **Published:** Oct 14, 2026
-
----
-### Sony Cybertruck Glitch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt where Sony dances around a cyber truck and glitches into pixels.
-
-#### 📝 Prompt
-
-```
-Sony dances around the cyber truck and starts glitching into digital pixels and she reappears and disappears in a 2 second video
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110229685757976577/img/Z09RlBKpl0S89xO9.jpg" width="600" alt="Sony Cybertruck Glitch">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12513)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2110229724962136221) | **Published:** Oct 14, 2026
-
----
-### SpaceX Park Adventure Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A whimsical prompt involving cats named Sir Crimson and Pearl in a SpaceX New Earth Park adventure.
-
-#### 📝 Prompt
-
-```
-“The Praying Paws” 🙏🐾🐾🦴🦴
-
-“ The Space X New Earth Park” 
-Sir Crimson and Daughter Pearl... Go I in a big adventure 🐾🦴🎢🚀🍔
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110204669716807681/img/uySnLcPUlOQdFK9h.jpg" width="600" alt="SpaceX Park Adventure Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12514)**
-
-**Author:** [Restful_Path_777](https://x.com/Bchalk_777_777) | **Source:** [Link](https://x.com/Bchalk_777_777/status/2110204702314959303) | **Published:** Oct 14, 2026
-
----
-### Hong Kong Action Comedy Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed video generation prompt for Grok Imagine (and other models) depicting a 1990s Hong Kong action-comedy scene with an assassin and a woman in a bathroom setting, including specific camera movements and timing.
-
-#### 📝 Prompt
-
-```
-Subject & Characters: A 1990s Hong Kong action-comedy scene featuring two characters:
-An intense male assassin dressed in a retro white suit jacket, black-and-white striped undershirt, black tie, and fingerless gloves, holding a black pistol equipped with a detachable suppressor/silencer.
-A surprised young Asian woman with a short black bob haircut, wearing a bright yellow sleeveless top.
-Setting & Environment: A bright, minimalist interior space featuring a bathroom and living area separated by a yellow revolving wall panel door. Clean tile walls, high contrast lighting, and a vibrant yellow color scheme.
-Action & Motion Sequence:
-00:00 – 00:11: Dynamic intercut shots alternating between the assassin dramatically aiming his suppressed handgun and the woman sitting casually on a toilet in the adjoining bathroom area.
-00:12 – 00:25: The assassin lowers his weapon slightly and pushes against the central yellow revolving partition wall, causing it to swivel open.
-00:26 – 00:38: In a comedic slapstick timing, as the yellow partition spins around, the woman stands up and walks around the rotating door into the adjacent room, while the assassin swivels into the space she just vacated—causing them to narrowly miss seeing each other.
-00:39 – 00:40: The woman enters the bathroom stall from the other side and sits back down, right as the assassin turns around and points his gun through the open partition directly back at her.
-Cinematography & Visual Style:
-Style: 1990s Hong Kong retro action-comedy film, cinematic film grain, saturated yellow and white color palette, sharp medium shots.
-Camera Movement: Fast cuts, eye-level framing, steady horizontal panning following the rotation of the revolving wall.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110187872741711872/img/5W-YTP4uiI1A7SFo.jpg" width="600" alt="Hong Kong Action Comedy Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12512)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110187947819753643) | **Published:** Oct 14, 2026
-
----
-### Dianmu Goddess Lightning Video Extension
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A tweet sharing a prompt for generating an image of Dianmu (lightning goddess) and extending it into a 20-second video using Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Dianmu, the goddess said to wield lightning at will; she holds a flashing mirror in each hand. Please provide the image without any text. ⚡
-```
-
-<img src="https://cms-assets.youmind.com/media/1791964071791_wfx44u_HUjh6uCa0AA-KwS.jpg" width="600" alt="Dianmu Goddess Lightning Video Extension">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12520)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2110184967989010876) | **Published:** Oct 14, 2026
-
----
-### Grok Imagine Video Prompt: Grok Blok Concept
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt for Grok Imagine designing a fictional device called 'Grok Blok' inspired by Apple's HomeView and Tesla's Cybertruck.
-
-#### 📝 Prompt
-
-```
-Based on the new apple HomeView AI Siri table top screen, make a Grok version called Grok Blok with Cybertruck inspired design @grok
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110173702524461056/img/pIY_MVbU6OnZm2tP.jpg" width="600" alt="Grok Imagine Video Prompt: Grok Blok Concept">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12515)**
-
-**Author:** [Heather](https://x.com/HeatherNSB) | **Source:** [Link](https://x.com/HeatherNSB/status/2110173727203934430) | **Published:** Oct 14, 2026
-
----
-### Dinosaur Encounter Cinematic Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed multi-shot video prompt featuring a woman encountering a T-rex-like predator, including specific timing, camera moves, audio cues, and negative prompts.
-
-#### 📝 Prompt
-
-```
-0-3s: Close-up of her peering over the log, breathing shallowly. Behind her, out of focus, a dark horned dinosaur silhouette emerges from the mist.
-3-8s: Slow push-in as a huge, dark-scaled T-rex-like predator stalks toward her, claws pressing into the mud. Steam blasts from its nostrils and drifts through the fog. Her expression shifts from fear to panic.
-8-11s: Extreme close-up of her face: wide, tearful eyes, trembling lips, a single tear rolling down her muddy cheek, quick shallow breaths.
-11-13s: Soft dissolve to a over-the-shoulder shot from behind her, the dinosaur's head looming close.
-13-15s: The dinosaur freezes inches away, then opens its jaws wide, showing rows of teeth, and lets out a deafening roar as the shot holds.
-Audio: Rain dripping, distant jungle ambience, heavy footsteps with low rumbles, her ragged breathing, and a loud roar at the end.
-Negative prompt: cartoon look, extra limbs, distorted face, text, watermark, blur, low resolution.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110171669566488577/img/ez-SjniUA7QQCw12.jpg" width="600" alt="Dinosaur Encounter Cinematic Sequence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12511)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110171733839999253) | **Published:** Oct 14, 2026
-
----
-### Diane Thomas Joy Fashion Suit Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a video of Diane Thomas Joy wearing a burgundy high-fashion suit and encouraging community engagement.
-
-#### 📝 Prompt
-
-```
-Diane Thomas Joy wears a burgundy high-fashion suit dress with matching heels and modern accessories, encouraging community engagement to thrive and grow.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110151405088518144/img/K7Eqgw_s4X7Xsu0i.jpg" width="600" alt="Diane Thomas Joy Fashion Suit Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12517)**
-
-**Author:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **Source:** [Link](https://x.com/Thoma31928Joy/status/2110151441222606940) | **Published:** Oct 13, 2026
-
----
-### 1985 Film Stock Robot Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video featuring robots and servers shot in a retro 1985 film stock style using Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Robots. Servers. Machines that dream.
-All shot on a film stock that remembers 1985.
-Tomorrow, filmed like yesterday.
-
-What if AI had been filmed in 1985?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110022641792753664/img/NQcxCgKv3iv8kiuD.jpg" width="600" alt="1985 Film Stock Robot Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12709)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2110062762218926204) | **Published:** Oct 13, 2026
-
----
-### Anthropomorphic Kittens Park Bench Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt for generating a cute video of three anthropomorphic kittens on a park bench, one combing fur, one holding a tip jar, waving at the camera.
-
-#### 📝 Prompt
-
-```
-Three tiny anthropomorphic kittens sit on a park bench. One combs another’s fur with a tiny brush while the third stands and holds the tip jar out toward the camera, gesturing with its free paw. They suddenly all start waving and meowing excitedly as a leaf floats by. A colorful sign in front reads “Tips for cuteness overload ” Soft afternoon sunlight through trees, realistic fur and expressive faces, gentle camera push.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109990553387401216/img/pxDuws-dgbG7gjnb.jpg" width="600" alt="Anthropomorphic Kittens Park Bench Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12559)**
-
-**Author:** [Jay Kay](https://x.com/JayKay65220066) | **Source:** [Link](https://x.com/JayKay65220066/status/2110007645910274279) | **Published:** Oct 13, 2026
-
----
-### Matrix Digital Rain Loop Animation Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A precise prompt for creating a 15-second seamless looping Matrix digital rain animation starting from an exact image frame, preserving palette and details.
-
-#### 📝 Prompt
-
-```
-Use this exact image as the literal first frame of a 15-second seamless looping Matrix digital rain animation. Preserve the original aspect ratio, exact composition, black background, emerald-green monospaced numeral “1” palette, and every pixel deta...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109962076194238464/img/gu5sGBAfLJZ1SDfg.jpg" width="600" alt="Matrix Digital Rain Loop Animation Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12519)**
-
-**Author:** [_](https://x.com/ONKiChan1) | **Source:** [Link](https://x.com/ONKiChan1/status/2109962140056740262) | **Published:** Oct 13, 2026
-
----
-### Sydney Sweeney Underwater Neon Adventure
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex, multi-second video prompt featuring Sydney Sweeney in an underwater neon nightclub sequence with specific pacing, transitions, and visual styles.
-
-#### 📝 Prompt
-
-```
-Vertical 9:16 cinematic video, 10 seconds, starring Sydney Sweeney as the main character, with her recognizable facial features, wavy blonde hair, and expressive smile. Ultra-fast pacing, whip-pan transitions, and beat-synced cuts approximately every second.
-
-0–2 seconds: Sydney Sweeney, wearing a sleek black freediving wetsuit with a small action camera attached to her chest strap, swims rapidly through crystal-clear turquoise water above white sand. Sunbeams ripple across her face as the camera tracks her with dynamic underwater movement.
-
-2–4 seconds: She speeds past vibrant coral reefs toward a shimmering curtain of iridescent beads. A dramatic speed ramp follows as she bursts through the sparkling curtain. The camera whip-pans into a mysterious dark coral cave, where violet light illuminates the surrounding water.
-
-4–6 seconds: Explosive reveal of a futuristic underwater nightclub filled with neon lasers, colorful strobes, floating luminous star-shaped sunglasses, and tropical fish moving rhythmically to the music. Sydney emerges through a glowing violet portal as cyan, magenta, and purple lights illuminate her face.
-
-6–10 seconds: Sydney puts on oversized neon star-shaped sunglasses, spins playfully in zero gravity underwater, and laughs as glowing bubbles and particles swirl around her. The camera circles her rapidly with energetic zooms, sharp whip-pans, and smooth speed-ramp transitions, ending on a dramatic close-up of her smiling face against the vibrant nightclub.
-
-Visual style: Hyper-realistic cinematic footage, lifelike facial details, consistent character appearance, realistic underwater physics, volumetric lighting, vivid turquoise water, neon magenta and cyan highlights, violet glow, floating particles, smooth motion blur, high contrast, premium music-video aesthetics, 24 fps.
-
-Audio: Energetic electronic dance music, deep underwater whooshes, sparkling sound effects, and a bass drop during the nightclub reveal.
-
-Continuity: Keep Sydney Sweeney recognizable and visually consistent throughout all shots. No face distortion, duplicate characters, flickering facial features, unwanted text, logos, or watermarks.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109874235179139072/img/tU9teihuV2asbHgy.jpg" width="600" alt="Sydney Sweeney Underwater Neon Adventure">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12439)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2109874273607462953) | **Published:** Oct 13, 2026
-
----
-### Praying Paws Ride Adventure
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative-style prompt for a simulated ride video involving characters named Sir Crimson and Daughter Pearl.
-
-#### 📝 Prompt
-
-```
-“The Praying Paws” 🙏🐾🐾🦴🦴
-
-“ Journey To Tomorrow” simulated ride. Sir Crimson and Daughter Pearl... big adventure 🐾🦴🌎🪐
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109809737550233600/img/cz-YyApO3SbQ8arG.jpg" width="600" alt="Praying Paws Ride Adventure">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12510)**
-
-**Author:** [Restful_Path_777](https://x.com/Bchalk_777_777) | **Source:** [Link](https://x.com/Bchalk_777_777/status/2109809814293598376) | **Published:** Oct 13, 2026
-
----
-### Grok Imagine Video Prompt: Realistic Gym Horror Transformation
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed video generation prompt for Grok Imagine that creates a realistic, found-footage style horror scene. It features a man in a gym with abnormal muscle growth and embedded metal plates, emphasizing continuity, camera movement, and specific visual constraints to avoid typical AI artifacts.
-
-#### 📝 Prompt
-
-```
-[Reference Lock]
-
-Use the newly generated first frame @1 as the reference for appearance and environment.
-
-The male is an adult around 38 years old, with a buzz cut, short stubble, shirtless, wearing dark grey sports shorts with orange trim, and grey-black sneakers.
-
-Abnormal muscle lumps already exist on his shoulders and back at the start; they do not grow during the video.
-
-From the left scapula to the ribs is a vertical, asymmetric massive bulge; the right shoulder has smaller stacked muscle bumps.
-
-On the surface of the left lump are two dark purple fissure-like wounds, with shriveled, irregular edges.
-
-The lump has real weight, slightly compressing with muscle contraction, not inflating like a balloon.
-
-No blood spraying, tissue bursting, or extra limbs.
-
-[Style and Camera]
-
-9:16 portrait, 12-second continuous mobile phone recording.
-
-The cameraman stands about two meters behind and to the left of the man, shooting from chest height.
-
-Opens with a two-thirds rear angle showing the shoulder/back lump, arms, and EZ curl bar simultaneously.
-
-Slight hand shake, minor composition adjustments, no circling, no cuts, no slow motion.
-
-Ordinary old gym record: flat fluorescent lights, slight noise, compression artifacts, sweat reflections, and natural motion blur.
-
-No horror movie lighting, no background music.
-
-[Environment and Props]
-
-Old community basement gym, white pillars, light green wall wainscoting, worn grey floor, red training bench, dumbbell rack, and wall fan.
-
-An adult fitness enthusiast in grey clothes continues training in the background, not watching or screaming.
-
-The protagonist holds the same EZ curl bar with both hands, with a fixed number of black weight plates on each side.
-
-[0-4s | Completing Bicep Curls Seriously]
-
-The man stands firm, elbows close to body, lifting the bar from hips to chest.
-
-Forearms bend first, then biceps tighten.
-
-The massive back bulge slightly compresses with shoulder force, wound positions remain unchanged.
-
-He looks down at the bar, expression strained, short exhale.
-
-Phone adjusts slightly, keeping abnormal shoulders/back and curl action in frame.
-
-[4-7s | Slowly Lowering]
-
-The man controls the bar descent until arms are nearly straight.
-
-Shoulder/back soft tissues sink and sway slightly with unloading, then stabilize.
-
-Sweat flows down skin.
-
-Cannot suddenly shrink back to normal physique, cannot add new lumps.
-
-[7-10s | Ending Training]
-
-He bends knees, leans forward, places the bar on the ground before his feet.
-
-Weight plates touch ground first, then he releases hands.
-
-A dull metallic clank is heard.
-
-Phone naturally follows down slightly, then lifts back to upper body.
-
-Man straightens up, breathing heavily.
-
-[10-12s | Notices Being Filmed]
-
-The man turns head to look at camera first, then rotates shoulders and torso into a more frontal stance.
-
-Arms hang naturally, abnormal shoulder/back volume still discernible from silhouette.
-
-He pants looking at the filmer, mouth slightly open, does not lunge at camera.
-
-Scene ends directly.
-
-[Live Sound]
-
-Breathing, shoe friction, light clinking of weight plates, equipment collision, and wall fan.
-
-No soundtrack, narration, subtitles, or monster roars.
-
-[Continuity Constraints]
-
-Only one protagonist, two arms, one barbell.
-
-Abnormal muscles and wounds maintain fixed positions, no per-frame morphing.
-
-Sequence of gripping, curling, lowering, landing, releasing is complete.
-
-Camera stays at the same observation position, front view presented by man turning.
-
-No attacks, tentacles, sudden transformations, or bloody bursts.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109781478963871745/img/F62454rkvV2-o5cl.jpg" width="600" alt="Grok Imagine Video Prompt: Realistic Gym Horror Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12444)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109803808867922199) | **Published:** Oct 13, 2026
-
----
-### Grok Imagine Video: Ryan Reynolds and Shane Gillis in Planes Trains and Automobiles
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt for Grok Imagine casting Ryan Reynolds and Shane Gillis as Steve Martin and John Candy in a scene from the movie Planes, Trains and Automobiles.
-
-#### 📝 Prompt
-
-```
-Ryan Reynolds and Shane Gillis as Steve Martin and John Candy in Planes Trains and Automobiles hotel scene
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109781204354445312/img/Xtq9zLNv2YAiNH2F.jpg" width="600" alt="Grok Imagine Video: Ryan Reynolds and Shane Gillis in Planes Trains and Automobiles">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12441)**
-
-**Author:** [Redacticus](https://x.com/BillDeWaal) | **Source:** [Link](https://x.com/BillDeWaal/status/2109781218048835891) | **Published:** Oct 12, 2026
-
----
-### Restaurant Meme Video: Shoe-Sole Dried Tofu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt for creating a humorous 10-second vertical video in a restaurant where a customer picks up dried tofu that looks like a shoe sole, interacting with a waiter.
-
-#### 📝 Prompt
-
-```
-[Overall Setting]
-
-10 seconds, 9:16 vertical, realistic casual smartphone footage in a restaurant, single take.
-
-Uploaded redrawn image serves as end-frame reference, locking the shape of the shoe-sole-shaped dried tofu, gripping position, table layout, waiter's appearance, and final composition.
-
-[Scene & Filming Relationship]
-
-Ordinary small Chinese restaurant, warm pendant lights, beige tables, customers eating and chatting naturally in background.
-
-Foreground features large white bowl containing chili oil, dried tofu, noodles, and vegetables, with soup bowl, teapot, and tissue box nearby.
-
-Seated adult man holds phone with left hand, uses two wooden chopsticks in right hand to pick food. Only picking hand enters frame; man's face and body remain off-screen.
-
-Waiter wears black top and wine-red apron, positioned on right side across the table.
-
-Slight handheld shake, natural indoor exposure, ordinary phone compression quality, no beauty filter, no cinematic color grading.
-
-[Key Prop]
-
-Only one piece of shoe-sole-shaped dried tofu: brownish-yellow, thin slice, surface coated with chili oil and scallions, clear grid pattern, outline consistent with end frame.
-
-It is flexible food, not a real shoe sole, no shoe upper, rubber, or shoes appear.
-
-Chopsticks grip top end of tofu, contact points accurate, bottom end hangs naturally when lifted.
-
-[Strict Time Storyboard]
-
-0–2s:
-
-Camera slightly downward toward dish bowl. Man's right hand enters from left, using two wooden chopsticks to grip top end of tofu piece in bowl.
-
-Tofu partially submerged in chili oil, outline not fully revealed yet.
-
-2–4.5s:
-
-Man slowly lifts chopsticks upward.
-
-Entire tofu piece continuously extracted from bowl, first revealing top end, then grid pattern, narrowed middle section, and rounded bottom, gradually presenting complete shoe-sole shape.
-
-Tofu sways gently, two or three drops of sauce fall back into bowl.
-
-Camera lifts slightly with holding hand, keeping entire tofu piece within frame.
-
-4.5–6s:
-
-Man stops chopsticks, appearing to examine food closely, mutters suspiciously:
-
-"This dried tofu..."
-
-Waiter hears sound, approaches slightly from across table, gaze shifts from chopsticks to tofu.
-
-6–9s:
-
-Man maintains grip, gently displays tofu toward waiter, asks:
-
-"Waiter, why does it look like a shoe sole?"
-
-Tone natural, confused, slightly incredulous, not shouting accusations.
-
-Waiter looks down at it, eyebrows gradually furrow, lips purse lightly, pauses, does not answer immediately.
-
-Tofu still suspended above bowl, does not touch waiter.
-
-9–10s:
-
-Camera rests on complete tofu piece and waiter's puzzled reaction.
-
-Chopsticks, tofu, utensils, and waiter positions align with end-frame reference, hold for at least one second, leaving quiet comedic pause.
-
-[Sound]
-
-Adult man's natural speaking voice, originating near camera.
-
-Retain sounds of chopsticks lightly hitting bowl rim, sauce dripping, low-volume chat from neighboring tables, and clinking utensils.
-
-No narration, no background music, no exaggerated comedy sound effects.
-
-[Continuity & Constraints]
-
-Must grip before lifting, tofu emerges along continuous trajectory from bowl, no teleportation, no duplication.
-
-Maintain same shape, size, grid pattern, and color before and after lifting.
-
-Keep two chopsticks, do not pierce food, do not deform; fingers normal.
-
-Waiter only naturally approaches and observes, does not snatch food, does not scream prematurely.
-
-No cuts, no sudden zoom, no slow motion, no adding shoes or other explanatory props.
-
-Generated output must not include text, watermarks, or platform interfaces.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109674296809279488/img/EoN20k23H_nqxK7o.jpg" width="600" alt="Restaurant Meme Video: Shoe-Sole Dried Tofu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12443)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2109720765776162888) | **Published:** Oct 12, 2026
-
----
-### Yeti Bulldog Corvette Review
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A fun video prompt for Grok Imagine featuring a French bulldog named Yeti reviewing a 1966 Corvette convertible.
-
-#### 📝 Prompt
-
-```
-Yeti the French bulldog car review of a 1966 Corvette convertible in mosssport green ￼#frenchbulldog #corvette #dog #carreview
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109706028686200833/img/-oDD9GlXGFSTVJ2g.jpg" width="600" alt="Yeti Bulldog Corvette Review">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12440)**
-
-**Author:** [Howard Gilson](https://x.com/Howard4S) | **Source:** [Link](https://x.com/Howard4S/status/2109713321830371593) | **Published:** Oct 12, 2026
-
----
-### Sam Elliott Cowboy Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for Grok Imagine to generate a photorealistic video of Sam Elliott as a cowboy riding a horse and guiding cattle.
-
-#### 📝 Prompt
-
-```
-Photorealistic video of Sam Elliott riding a horse and guiding a group of cattle across the plains and the desert. In the last scene the camera pans to Sam and he smiles and tips his cowboy hat. No talking add country music.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109648300836093952/img/OtQcWmsSCkdf5cGR.jpg" width="600" alt="Sam Elliott Cowboy Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12438)**
-
-**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2109648322424164530) | **Published:** Oct 12, 2026
-
----
-### Alien UFO Megacity Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a cinematic scene of an alien UFO hovering over a neon megacity.
-
-#### 📝 Prompt
-
-```
-A massive ultra high-tech alien UFO hovering menacingly above a sprawling neon megacity at dusk, its dark obsidian saucer hull bristling with glowing weapon arrays and angular thrusters, ominous red scanning beams slicing downward while pulsating energy rings ripple from its core. 3D futuristic CGI render, electric cyan and magenta palette with deep void blacks and glowing white accents, volumetric God rays piercing toxic fog, intricate layered depth with reflective metallic surfaces and energy crackling. Cinematic low-angle dolly shot rising dramatically to emphasize colossal scale, slow smooth orbiting camera motion with subtle lens flare.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109580352566030336/img/XVmzd3tzI-sDpCry.jpg" width="600" alt="Alien UFO Megacity Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12445)**
-
-**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2109615817902129155) | **Published:** Oct 12, 2026
-
----
-### Zombie Duo Dance Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a 15-second vertical Halloween zombie duo dance video using Grok Imagine. Includes strict constraints on dancer positions, appearance locks to prevent horror makeup, and specific camera zoom instructions synced to the beat.
-
-#### 📝 Prompt
-
-```
-15s Halloween Zombie Duo Dance | 9:16 Vertical | Two Dancers | Fixed Background | Fixed Camera | Beat-Synced Zoom & Close-Up | Horror Trap Hip-Hop
-
-MUSIC / ENERGY:
-An intense beat that kicks in suddenly right from the start, 155 BPM horror trap hip-hop. Hard drums, heavy bass, High speed, sharp accents, energetic and dynamic.
-
-ABSOLUTE LOCK:
-Exactly two dancers only. Dancer A always stays on the LEFT, Dancer B always stays on the RIGHT. Same faces, bodies, hairstyles, outfits, positions, background, lighting, colors, and shadows throughout. No swapping, no crossing places, no morphing, no extra dancers, no cuts. Background never changes.
-
-Zombie Dance (Top Priority):
-Both dancers extend their arms straight out in front at shoulder height, bend their wrists precisely 90 degrees downward, and spread their fingers naturally and straight, unleashing an incredibly fast, aggressive, and high-energy "zombie dance." The performance features a sequence of movements including rapid "zombie steps" with stiff legs, explosive shoulder actions, intense chest pops, sharp head movements, powerful knee lifts, wide-kneed squats, sudden lunges, and vigorous, rhythmic body shaking.
-
-Use DOUBLE-TIME footwork at 155 BPM, rapid acceleration, abrupt freezes, explosive restarts, and hard beat accents.
-Include some sections where both dancers perform different dance moves at the same time while keeping the permanent zombie arm pose.
-
-DUO DANCE RULE:
-This is a duo dance, but they must not be perfectly synchronized all the time.
-They move in the same overall rhythm, but with slight timing offsets, alternating accents, and different body actions.
-
-FINISH:
-The two of them strike a zombie pose, and the shot zooms in to a close-up of their eyes glowing red as they stare into the camera.
-
-APPEARANCE LOCK — ABSOLUTE PRIORITY:
-Preserve both dancers' original faces, natural skin tones, hairstyles, and makeup exactly as shown in the initial frame. No zombie makeup, horror makeup, corpse makeup, pale or gray skin, darkened eye sockets, facial discoloration, or grotesque facial effects. No blood, fake blood, bleeding, wounds, scars, bruises, or visible injuries. Express the zombie character exclusively through stiff body movements, unnatural head tilts, dragging steps, sharp shoulder hits, and eerie facial expressions. Do not alter either dancer's appearance throughout the video.
-
-CAMERA:
-Fixed frontal camera only. No camera movement, no pan, no tilt, no dolly.
-Use only fast beat-synced optical zoom-ins, snap zoom-outs, and brief punch-in close-up framing to create speed and impact while keeping the camera position fixed. Keep the same background at all times.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109605227141980160/img/fuYzaUPkPABjaSOE.jpg" width="600" alt="Zombie Duo Dance Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12446)**
-
-**Author:** [SPLASH GIRLS@AI Image](https://x.com/splash_GL) | **Source:** [Link](https://x.com/splash_GL/status/2109615069470556358) | **Published:** Oct 12, 2026
-
----
-### Moon Roller Coaster POV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic first-person perspective video prompt of a roller coaster ride starting on the surface of the Moon.
-
-#### 📝 Prompt
-
-```
-Cinematic POV: An exhilarating firs person roller coaster ride begins on the desolate surface of the Moon, suspended above the infinite darkness of space. The camera slowly approaches the edge of an impossibly steep track before plunging into a brea...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109587925340131328/img/uyDrinJwjJgcnZZy.jpg" width="600" alt="Moon Roller Coaster POV">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12518)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2109587970412212342) | **Published:** Oct 12, 2026
-
----
-### Cowgirl Cowboy Beach Race Silhouette Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for Grok Imagine depicting cowgirls and cowboys racing on a beach with sunrise-colored hoof flashes.
-
-#### 📝 Prompt
-
-```
-In dark silhouette cowgirl and cowboy race beside each other on ocean beach fire the color of a brilliant sunrise flashes from the horses hooves when each hoof lands on the sand
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109544031252529153/img/syXmP_gxWX9mJQt4.jpg" width="600" alt="Cowgirl Cowboy Beach Race Silhouette Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12378)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2109544110919164271) | **Published:** Oct 12, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2512,6 +2313,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-21T04:26:40.471Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-21T13:55:48.448Z</sub>
 
 </div>
