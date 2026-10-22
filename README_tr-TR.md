@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3185** |
+| 📝 Total Prompts | **3192** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-22** |
 
@@ -189,6 +189,161 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Video İstemi - Cadılar Bayramı Geçidi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için karakterlerin Cadılar Bayramı geçidinde dans edip şarkı söylediği bir video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Cadılar Bayramı geçit töreninde, dans ederek Cadılar Bayramı'na hoş geldin şarkısını söylerken tasarlayın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113149705920172032/img/iP16iU7191e21OjE.jpg" width="600" alt="Grok Imagine Video İstemi - Cadılar Bayramı Geçidi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12898)**
+
+**Author:** [Tim](https://x.com/timmmy335) | **Source:** [Link](https://x.com/timmmy335/status/2113149726820601962) | **Published:** Oct 22, 2026
+
+---
+### Siber Zırh Motosiklet Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadının özel yapım bir motosiklette siber zırha dönüştüğünü gösteren detaylı sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Kalabalık bir şehir pazar sokağında sinematik bir dönüşüm sahnesi. Üzerinde “VULCAN” yazan (Limited Edition 1 of 7, Twin Turbo) hiper detaylı özel yapım bir motosiklet park halinde durmaktadır; yanardöner gökkuşağı renklerinde egzoz boruları, altın detaylar, taç logolu kırmızı-beyaz yakıt deposu, açıkta kalan mekanik aksam ve parlayan mavi farlarıyla dikkat çeker. Uzun koyu renk saçları olan, siyah deri ceket ve beyaz üst giymiş genç bir kadın yaklaşarak ellerini motosikletin üzerine koyar.
+
+Motosiklete dokunduğu anda pürüzsüz ve ışıldayan bir dönüşüm başlar: Kolları, mor enerji çekirdeklerine sahip şık sibernetik uzuvlara dönüşür; ardından bu değişim tüm vücuduna yayılarak kıyafetlerinin yerini, büyük yüzeyli mor ve mavi kristal ışıklarla kaplı fütüristik metalik bir zırh alır. Zırh tamamen şekillendiğinde kıvılcımlar ve enerji efektleri havaya saçılır. Kadın, yansıtıcı vizöre sahip uyumlu yüksek teknolojili kaskını takar, motosiklete biner ve sokakta ilerleyerek uzaklaşır. Motosikletin egzozları, pazar tezgâhlarının, tentelerin ve yayaların arasından hızla geçerken mor iticilerle parlar; arkasında dinamik bir ışık izi ve hareket bulanıklığı bırakır.
+
+Stil: Yüksek kaliteli sinematik yapay zekâ videosu, gerçekçi aydınlatmayla harmanlanmış bilim kurgu neon ışıkları, pürüzsüz metamorfoz geçişleri, yakın çekimden geniş takip çekimine uzanan dramatik kamera hareketi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113086829318504449/img/uTfo8qn2898X8YVw.jpg" width="600" alt="Siber Zırh Motosiklet Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12900)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113086941365195023) | **Published:** Oct 22, 2026
+
+---
+### Dracula Kan Ejderhası Sürüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sisli bir ortamda, dolunay altında kan ejderhasına binen Dracula'yı siyah kristal zırhla tasvir eden sinematik bir fantastik video istemi.
+
+#### 📝 Prompt
+
+```
+Siyah Kristal Zırhlı Drakula, dolunayın altında sislerin arasından bir Kan Ejderhası'na binerek geçiyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113084723241144320/img/SOmcyuBliZFig8Kr.jpg" width="600" alt="Dracula Kan Ejderhası Sürüşü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12899)**
+
+**Author:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **Source:** [Link](https://x.com/TheEerieHollows/status/2113084756179214722) | **Published:** Oct 22, 2026
+
+---
+### Siberpunk Dönüşen Motosiklet Çarpışması ve Araç Uçuşu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için tasarlanmış, iki zırhlı motosikletin neon pistinde çarpışıp Tesla Cybertruck tarzı bir araca dönüştükten sonra gökyüzüne fırladığı sinematik bilim kurgu sahnesini betimleyen detaylı video üretim istemi. İstem; fotogerçekçi ışıklandırma, yağmur efektleri ve dinamik kamera hareketlerine vurgu yapar.
+
+#### 📝 Prompt
+
+```
+Kasklı iki sürücü, devasa zırhlı motosikletleriyle gece vakti yağmurdan sırılsıklam olmuş neon bir pistte birbirlerine doğru hızla ilerliyor. Şiddetli ve yüksek hızlı bir çarpışmayla kafa kafaya tokuşuyorlar. Kazanın hemen ardından her iki motosiklet de dramatik bir mekanik dönüşüme girerek birleşiyor ve tek bir ağır, Tesla Cybertruck tarzı araca dönüşüyor. Yeni oluşan bu Tesla iticilerini ateşleyerek pistten havalanıyor ve fırtınalı cyberpunk gökyüzüne doğru uçuyor.
+
+Sinematik, fotogerçekçi, üst düzey Transformers bilimkurgu cyberpunk sahnesi; ultra detaylı, IMAX tarzı, 4K. Şiddetli yağmur altında ıslak, fütüristik bir havalimanı pistinde gece vakti; arka planda holografik reklamlar, uçan araçlar ve cyberpunk atmosferiyle parlayan neon bir megakentin silueti.
+
+Pistin iki ucundan birbirine doğru hızlanan, devasa ve ağır zırhlı iki cyberpunk motosiklet (açıkta krom hidrolik aksamları, parlayan camgöbeği ve macenta enerji hatları, karmaşık Transformers tarzı mekanik detaylarıyla koyu mat siyah). Her iki sürücü de yansıtıcı vizörlere ve hafif HUD parıltısına sahip tam yüz kapatan yüksek teknolojili kasklar takıyor; lastikler su saçarken ve motorlar kükreyen bir ses çıkarırken gövdeleri agresif bir şekilde öne eğilmiş durumda.
+
+Kadrajın tam ortasında acımasız, yüksek etkili bir kazayla kafa kafaya çarpışıyorlar — metaller burkuluyor, kıvılcımlar patlıyor, enerji arkları çatırdıyor ve enkaz parçaları ağır çekimde havaya savruluyor. Çarpışmanın hemen ardından her iki motosiklet de muhteşem bir mekanik dönüşüm sekansına giriyor: paneller kayıp yerine oturuyor, bileşenler hidrolik bir hassasiyetle yeniden şekilleniyor, parlayan bağlantı hatları aydınlanıyor ve hurdaya dönen iki motosiklet birleşerek köşeli, endüstriyel, fırçalanmış metal yüzeylere ve kırmızı vurgulu aydınlatmaya sahip mat siyah, devasa ve ağır, Tesla Cybertruck ilhamlı tek bir araca dönüşüyor.
+
+Yeni oluşan Tesla güçleniyor, altındaki iticiler parlak mavi-beyaz plazmayla alev alıyor ve araç pistten büyük bir güçle havalanıyor. Altında uzanan neon şehir manzarasıyla birlikte yağmurlu gece gökyüzünde yana yatıp hızlanarak ardında ışık, buhar ve su serpintisi izleri bırakıyor.
+
+Dinamik kamera çalışması: motosikletleri takip eden alçak takip çekimleri, lense doğru savrulan enkaz parçalarıyla dramatik bir çarpışma yakın çekimi ve ardından Tesla'nın dönüşüp havalanmasını gösteren yükselen bir hava çekimiyle geri açılma. Hacimsel aydınlatma, yoğun yağmur çizgileri, neonlardan ve iticilerden gelen lens parlamaları, fotogerçekçi metal, su, kıvılcım ve parçacık efektleri. Sinematik renk düzenlemesiyle (derin maviler, neon macentalar, sıcak motor parıltıları) destansı ve yüksek enerjili bir atmosfer.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112950958342717440/img/6p3tZcTGg6oFH6aT.jpg" width="600" alt="Siberpunk Dönüşen Motosiklet Çarpışması ve Araç Uçuşu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12904)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112952172111659320) | **Published:** Oct 21, 2026
+
+---
+### Sinematik Ürün Tanıtım Hareketi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir parfüm şişesinin tanıtımı için kamera hareketlerini (zoom, pan) ve kısıtlamaları (döndürme yok) belirten teknik bir istem.
+
+#### 📝 Prompt
+
+```
+Parfüm şişesine doğru hafif ve yumuşak bir kamera yakınlaşması ile yavaşça kaydırma (pan) hareketi, akıcı sinematik geçiş, ürün tamamen sabit kalır; yalnızca kamera yumuşak bir kaydırma veya hafif yakınlaştırma ile hareket eder, döndürme yok, etrafında dolaşma yok, fotogerçekçi ürün sunumu, sessiz
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112866031559639040/img/8FnhGc8SvZca-h56.jpg" width="600" alt="Sinematik Ürün Tanıtım Hareketi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12901)**
+
+**Author:** [Pureそのみ](https://x.com/Pure_ctq) | **Source:** [Link](https://x.com/Pure_ctq/status/2112866052124336133) | **Published:** Oct 21, 2026
+
+---
+### Elon ve Optimus ile Bilim Kurgu Karşılaşması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mars'ta Elon Musk, Optimus Prime ve fantastik bir okyanus kraliçesi arasındaki karşılaşmayı anlatan hikaye istemi.
+
+#### 📝 Prompt
+
+```
+POV: Elon ve Optimus, Mars'ın altındaki gizli okyanus şehri Nereia'nın hükümdarı Kraliçe Thalassa ile tanışıyor. 🌊🔴
+
+İlk teması Elon kurdu. Optimus ise ilk evcil hayvanına kavuştu. 🐟🤖
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112862557614551040/img/3uT-JaGaa_EEdeaN.jpg" width="600" alt="Elon ve Optimus ile Bilim Kurgu Karşılaşması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12902)**
+
+**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2112862617152954798) | **Published:** Oct 21, 2026
+
+---
+### Siberpunk Mekanik Ejderha Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için detaylı bir korku temalı siberpunk video istemi: Bir valiz, yağmurlu bir şehir çatısında biyomekanik bir ejderhaya dönüşür.
+
+#### 📝 Prompt
+
+```
+Sinematik gerçekçi video promptu (korku cyberpunk Transformers evrimi):
+
+Gece vakti bir cyberpunk megakentinin çatısı, yağmurdan kayganlaşmış beton ve neon yansımaları. Yıpranmış koyu renk bir trençkot giyen, sırılsıklam olmuş bitkin bir adam, devasa bir binanın kenarında durmaktadır. Ağır metalik bir bavulu çaresiz bir güçle çatıdan aşağı fırlatır. Bavul, yağmurlu gece göğünde taklalar atarak düşer.
+
+Düşüşün ortasında bavul mekanik bir dehşetle şiddetli bir dönüşüm geçirir: paneller yırtılarak açılır, hidrolik uzuvlar dışarı fırlar, dişliler ve kablolar ıslak, gıcırtılı, et parçalanmasını andıran seslerle metal kabuğu delip geçer. Hızla açılarak devasa bir biyomekanik ejderhaya — yarı makine, yarı kabus bir yaratığa — dönüşür. Parçalı metal pullar canlı bir zırh gibi hareket eder, kırmızı parlayan sibernetik gözler aniden açılır, sivri çelikten ve yarı saydam zardan oluşan kanatlar kemik kıran bir güçle açılır, uzun boynu birbirine geçen bıçaklarla dolu bir ağızla ileri doğru hamle yapar. Dönüşüm sırasında kıvılcımlar, siyah bir sıvı ve neon ışığıyla aydınlanan buhar patlar.
+
+Ejderha havada tamamen şekillenir, şehrin bozuk alarm seslerine karışan tiz, mekanik bir kükreme koparır, ardından avcı bir tehditkarlıkla dalışa geçer ya da daireler çizerek uçar. Karanlık, ıslak, endüstriyel bir atmosfer. Metal dokular, yağmur, yansımalar ve dönüşümün grotesk güzelliği üzerinde aşırı detay. Sinematik anamorfik lensle çekim, dönüşümde ağır çekim vurgusu, bavulun düşüşünü ve ejderhaya dönüşmesini takip eden dinamik izleme kamerası. Yüksek kontrastlı neon aydınlatma (camgöbeği, macenta, koyu kırmızı), hacimsel yağmur, neon tabelalardan süzülen hacimsel tanrı ışınları, gerçekçi fizik, 8K, fotogerçekçi, korku-bilim kurgu tonu, ürkütücü organik-mekanik füzyonla bir üst seviye Transformers tarzı evrim.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112853394557636608/img/Q0g66DublaMppRAX.jpg" width="600" alt="Siberpunk Mekanik Ejderha Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12903)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112853596421406720) | **Published:** Oct 21, 2026
+
+---
 ### Dizüstü Bilgisayar Yavaş Zoom Sinematik
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2118,140 +2273,6 @@ Speed Racer Mach 5 direksiyon simidine sahip yeni bir roadster'ın videosunu olu
 **Author:** [Clingdaddy](https://x.com/Clingdaddy1) | **Source:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **Published:** Oct 15, 2026
 
 ---
-### Velociraptor Koala Melez Yaban Hayatı Fotoğrafı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine'dan, bir velociraptor ile koalanın yetişkin yavrusunu National Geographic yaban hayatı fotoğrafçılığı tarzında görselleştirmesini isteyen bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Bir National Geographic yaban hayatı fotoğrafçısı tarafından yakalanan, bir velociraptor ile koalanın yetişkin yavrusunu hayal edin
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110523454654935041/img/7DvH8zbzZI0LRmCL.jpg" width="600" alt="Velociraptor Koala Melez Yaban Hayatı Fotoğrafı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12604)**
-
-**Author:** [Pitchfork & Torch ♞](https://x.com/SuddenlyJon) | **Source:** [Link](https://x.com/SuddenlyJon/status/2110523509977895261) | **Published:** Oct 15, 2026
-
----
-### Poz ve Gömlek Değişimi İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kadının her iki dönüşünde gömleğini değiştirdiği farklı pozlar aldığı Grok Imagine için detaylı bir hareket istemi.
-
-#### 📝 Prompt
-
-```
-Farklı pozlar veriyor, her iki dönüşünde gömleği değişiyor. İki kez arkasını dönüyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110465968237346817/img/ygAh3MNCrbyGsvAt.jpg" width="600" alt="Poz ve Gömlek Değişimi İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12550)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2110465992073568470) | **Published:** Oct 14, 2026
-
----
-### Sahil Sürüşü Dans Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin sahil sürüşü sahnesinde belirli bir şarkıyı dinliyormuş gibi dans etmesini talimatlandıran video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Bu şarkıyı "Alice Phoebe Lou - SHE (canlı performans)" dinliyormuş gibi dans edin — sahil sürüşü için harika bir seçim. Beth'in çalma listesi çok sağlam....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110446367503945728/img/ZpRC_zpv1GyZ8ZH8.jpg" width="600" alt="Sahil Sürüşü Dans Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12552)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2110446522483511318) | **Published:** Oct 14, 2026
-
----
-### Esintide Süzülen Laleler
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bahçe ortamında hafif bir esintide süzülen laleleri gösteren detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Hafif bir esinti, canlı lalelerin yapraklarını yumuşakça okşar; onları zarif hareketlerle titretir ve süzerken, saplar ve yapraklar huzurlu bahçe ortamında nazikçe salınır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110443956261605376/img/_jfhyvOI1md7eR11.jpg" width="600" alt="Esintide Süzülen Laleler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12555)**
-
-**Author:** [Melinda Maleski (Runaway Outlier)](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2110443974037295533) | **Published:** Oct 14, 2026
-
----
-### Bloopers ve Kahkaha İçeren Video Sıralaması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ciddi anlar ve bloopers kahkahalarını içeren çekim sıralamasını tanımlayan karmaşık bir prompt.
-
-#### 📝 Prompt
-
-```
-Onun blooper sırasında gülmesi gibi. Her çekim arasında eğlenceli anlar yaşaması. Tamam, bazıları başlangıçta olduğu gibi ciddi olmalı, sonra tekrar 'cut' denmeli.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110439226177130497/img/GaAMesxXynlGRFJE.jpg" width="600" alt="Bloopers ve Kahkaha İçeren Video Sıralaması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12553)**
-
-**Author:** [Laurie Vallance](https://x.com/RemmyChan) | **Source:** [Link](https://x.com/RemmyChan/status/2110439263246696547) | **Published:** Oct 14, 2026
-
----
-### Yönetmen Avatar Sahnesini Kesiyor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yönetmenin 'kes' diye bağırdığı, avatarın güldüğü ve rahat bir havayla tekrar denediği eğlenceli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Yönetmen 'kes' diye bağırıyor. O gülüyor, daha rahat ve chill bir havayla karaktere giriyor ve tekrar deniyor.
-@grok @imagine https://t.co/DtyjqfPEPv
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110437928832729088/img/uGF2nDwQYlb69_XD.jpg" width="600" alt="Yönetmen Avatar Sahnesini Kesiyor">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12557)**
-
-**Author:** [Laurie Vallance](https://x.com/RemmyChan) | **Source:** [Link](https://x.com/RemmyChan/status/2110437953923088739) | **Published:** Oct 14, 2026
-
----
-### Yumuşak Tonlu Avatar Oluşturma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli cümleleri daha yumuşak bir tonla söyleyen bir avatar oluşturmak için kullanılan istem.
-
-#### 📝 Prompt
-
-```
-Onun ses tonunu biraz daha yumuşatır mısın? 'Aksiyona hazır, kahvenin gücünü hisset, hadi başlayalım' desin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110431839726772225/img/WHUrz4h8V8FNMgj2.jpg" width="600" alt="Yumuşak Tonlu Avatar Oluşturma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12554)**
-
-**Author:** [Laurie Vallance](https://x.com/RemmyChan) | **Source:** [Link](https://x.com/RemmyChan/status/2110432213942866381) | **Published:** Oct 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2313,6 +2334,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-22T04:30:11.083Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-22T13:57:39.841Z</sub>
 
 </div>

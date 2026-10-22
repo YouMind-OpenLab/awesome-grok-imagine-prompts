@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3185** |
+| 📝 Total Prompts | **3192** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-22** |
 
@@ -189,6 +189,161 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de Video de Grok Imagine - Desfile de Halloween
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video para Grok Imagine que presenta personajes bailando y cantando en un desfile de Halloween.
+
+#### 📝 Prompt
+
+```
+Diseña cómo bailan y cantan la canción de bienvenida a Halloween en el desfile de Halloween
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113149705920172032/img/iP16iU7191e21OjE.jpg" width="600" alt="Prompt de Video de Grok Imagine - Desfile de Halloween">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12898)**
+
+**Author:** [Tim](https://x.com/timmmy335) | **Source:** [Link](https://x.com/timmmy335/status/2113149726820601962) | **Published:** Oct 22, 2026
+
+---
+### Transformación en armadura cibernética de motocicleta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de video cinematográfico detallado que muestra a una mujer transformándose en una armadura cibernética sobre una motocicleta personalizada.
+
+#### 📝 Prompt
+
+```
+Una secuencia de transformación cinematográfica en una bulliciosa calle de mercado urbano. Una motocicleta personalizada hiperdetallada con la inscripción “VULCAN” (Limited Edition 1 of 7, Twin Turbo) está estacionada y luce tubos de escape con un acabado arcoíris iridiscente, detalles dorados, un depósito rojo y blanco con el logotipo de una corona, mecánica a la vista y faros delanteros que emiten un resplandor azul. Una joven de cabello largo y oscuro, vestida con una chaqueta de cuero negra y un top blanco, se acerca y apoya las manos sobre la moto.
+
+Al tocarla, comienza una transformación fluida y luminosa: sus brazos se convierten en elegantes extremidades cibernéticas con núcleos de energía púrpura, y luego el cambio se extiende por todo su cuerpo, reemplazando su ropa por una armadura metálica futurista cubierta de grandes luces cristalinas facetadas en tonos púrpuras y azules. Saltan chispas y estallan efectos de energía mientras la armadura termina de formarse. Se coloca un casco de alta tecnología a juego con visera reflectante, sube a la motocicleta y arranca calle abajo. Los escapes de la moto brillan con propulsores púrpuras mientras acelera entre puestos del mercado, toldos y peatones, dejando tras de sí un rastro dinámico de luz y desenfoque de movimiento.
+
+Estilo: video de IA cinematográfico de gran pulido visual, iluminación realista combinada con resplandores neón de ciencia ficción, transiciones de metamorfosis fluidas y movimientos de cámara dramáticos que pasan de un primer plano a un plano general en seguimiento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113086829318504449/img/uTfo8qn2898X8YVw.jpg" width="600" alt="Transformación en armadura cibernética de motocicleta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12900)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113086941365195023) | **Published:** Oct 22, 2026
+
+---
+### Drácula y el Dragón de Sangre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de video de fantasía cinematográfico que muestra a Drácula con armadura de cristal negro montando un dragón de sangre entre la niebla bajo una luna llena.
+
+#### 📝 Prompt
+
+```
+Drácula con armadura de cristal negro cabalgando un dragón de sangre entre la niebla durante la luna llena
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113084723241144320/img/SOmcyuBliZFig8Kr.jpg" width="600" alt="Drácula y el Dragón de Sangre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12899)**
+
+**Author:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **Source:** [Link](https://x.com/TheEerieHollows/status/2113084756179214722) | **Published:** Oct 22, 2026
+
+---
+### Choque de motos transformadoras cyberpunk y vuelo del vehículo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para la generación de video con Grok Imagine que describe una secuencia cinematográfica de ciencia ficción: dos motocicletas blindadas colisionan en una pista de neón, se transforman mecánicamente en un vehículo estilo Tesla Cybertruck y despegan hacia el cielo. El prompt enfatiza la iluminación fotorrealista, los efectos de lluvia y los movimientos dinámicos de cámara.
+
+#### 📝 Prompt
+
+```
+Dos motoristas con casco, montados en enormes motos blindadas, aceleran uno hacia el otro por una pista de neón empapada por la lluvia durante la noche. Chocan en un violento impacto a alta velocidad. Inmediatamente después de la colisión, ambas motos inician una espectacular transformación mecánica y se fusionan en un único vehículo pesado al estilo Tesla Cybertruck. El recién formado Tesla enciende sus propulsores y despega de la pista, elevándose hacia el tormentoso cielo cyberpunk.
+
+Secuencia cinematográfica fotorrealista de ciencia ficción cyberpunk al nivel de Transformers, con detalles ultra precisos, estilo IMAX, 4K. Noche en una futurista pista de aeropuerto mojada bajo una lluvia torrencial, con el horizonte iluminado por el neón de una megaciudad de fondo, repleto de anuncios holográficos, vehículos voladores y una auténtica atmósfera cyberpunk.
+
+Dos enormes motocicletas cyberpunk fuertemente blindadas (negro mate oscuro con sistemas hidráulicos cromados a la vista, líneas de energía brillantes en cian y magenta, y un intrincado detallado mecánico al estilo Transformers) avanzan a toda velocidad una hacia la otra desde extremos opuestos de la pista. Ambos pilotos llevan cascos integrales de alta tecnología con viseras reflectantes y un sutil resplandor HUD, con los cuerpos inclinados agresivamente hacia adelante mientras los neumáticos levantan agua y los motores rugen.
+
+Chocan frontalmente en un brutal impacto de alta intensidad en el centro del encuadre: el metal se retuerce, saltan chispas, crepitan arcos de energía y los restos vuelan a cámara lenta. Justo después del choque, ambas motos comienzan una espectacular secuencia de transformación mecánica: los paneles se desplazan y encajan, los componentes se reconfiguran con precisión hidráulica, las juntas luminosas se encienden y las dos motos destrozadas se fusionan y reensamblan en un único y enorme vehículo pesado inspirado en el Tesla Cybertruck: angular, industrial, negro mate con superficies de metal cepillado e iluminación de acento en rojo.
+
+El recién formado Tesla cobra vida; los propulsores de su parte inferior se encienden con un plasma azul blanquecino brillante y despega con fuerza de la pista. Se inclina y acelera hacia el cielo nocturno y lluvioso, dejando estelas de luz, vapor y salpicaduras de agua mientras la ciudad de neón se extiende debajo.
+
+Trabajo de cámara dinámico: planos de seguimiento bajos que acompañan a las motos, un primer plano dramático del choque con restos volando hacia el objetivo y, a continuación, un retroceso aéreo ascendente mientras el Tesla se transforma y despega. Iluminación volumétrica, gruesas gotas de lluvia, reflejos de lente provocados por el neón y los propulsores, metal, agua, chispas y efectos de partículas fotorrealistas. Atmósfera épica y de alta energía con etalonaje cinematográfico (azules profundos, magentas de neón, cálidos resplandores de motor).
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112950958342717440/img/6p3tZcTGg6oFH6aT.jpg" width="600" alt="Choque de motos transformadoras cyberpunk y vuelo del vehículo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12904)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112952172111659320) | **Published:** Oct 21, 2026
+
+---
+### Revelación Cinematográfica de Producto en Movimiento
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt técnico que especifica movimientos de cámara (zoom, paneo) y restricciones (sin rotación) para la revelación cinematográfica de un frasco de perfume.
+
+#### 📝 Prompt
+
+```
+Zoom de cámara suave y sutil hacia adelante con un leve paneo lento a lo largo del frasco de perfume, movimiento cinematográfico fluido, el producto permanece completamente inmóvil, solo la cámara se desplaza con un paneo delicado o un zoom suave, sin rotación ni órbita, revelación fotorrealista del producto, sin sonido
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112866031559639040/img/8FnhGc8SvZca-h56.jpg" width="600" alt="Revelación Cinematográfica de Producto en Movimiento">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12901)**
+
+**Author:** [Pureそのみ](https://x.com/Pure_ctq) | **Source:** [Link](https://x.com/Pure_ctq/status/2112866052124336133) | **Published:** Oct 21, 2026
+
+---
+### Encuentro de ciencia ficción con Elon y Optimus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narrativo que describe un encuentro entre Elon Musk, Optimus Prime y una reina fantástica del océano en Marte.
+
+#### 📝 Prompt
+
+```
+POV: Elon y Optimus conocen a la reina Thalassa, soberana de Nereia, la ciudad oceánica oculta bajo Marte. 🌊🔴
+
+Elon hizo el primer contacto. Optimus consiguió su primera mascota. 🐟🤖
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112862557614551040/img/3uT-JaGaa_EEdeaN.jpg" width="600" alt="Encuentro de ciencia ficción con Elon y Optimus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12902)**
+
+**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2112862617152954798) | **Published:** Oct 21, 2026
+
+---
+### Transformación de Dragón Mecánico Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de video detallado en estilo horror cyberpunk para Grok Imagine, donde una maleta se transforma en un dragón biomecánico sobre la azotea de una ciudad lluviosa.
+
+#### 📝 Prompt
+
+```
+Prompt de vídeo realista y cinematográfico (evolución de Transformers cyberpunk de terror):
+
+Azotea nocturna en una megaciudad cyberpunk, hormigón empapado por la lluvia y reflejos de neón. Un hombre exhausto y calado hasta los huesos, enfundado en una gabardina oscura y desgastada, se asoma al borde de un edificio colosal. Con un impulso desesperado, arroja un pesado maletín metálico al vacío. El maletín cae dando tumbos bajo el cielo lluvioso de la noche.
+
+A mitad de la caída, el maletín sufre una transformación violenta digna del terror mecánico: los paneles se abren de golpe, extremidades hidráulicas estallan hacia fuera, engranajes y cables desgarran la carcasa metálica con un sonido húmedo y chirriante que recuerda a la carne viva. Se despliega y muta a toda velocidad hasta convertirse en un dragón biomecánico gigantesco: mitad máquina, mitad pesadilla. Escamas metálicas segmentadas se desplazan como una armadura viva, unos ojos cibernéticos de un rojo incandescente se abren de par en par, alas de acero dentado y membrana translúcida se extienden con una fuerza capaz de quebrar huesos, y un largo cuello se proyecta hacia adelante revelando unas fauces repletas de cuchillas entrelazadas. Chispas, un fluido negro y vapor iluminado por el neón brotan durante la metamorfosis.
+
+El dragón termina de formarse en pleno vuelo, suelta un rugido mecánico y distorsionado que se funde con las alarmas deformadas de la ciudad, y luego se lanza en picado o traza círculos con una amenaza depredadora. Atmósfera industrial, oscura y húmeda. Detalle extremo en las texturas metálicas, la lluvia, los reflejos y la belleza grotesca de la transformación. Rodado con objetivo anamórfico cinematográfico, énfasis en cámara lenta durante la transformación, cámara dinámica de seguimiento que acompaña al maletín mientras cae y se convierte en el dragón. Iluminación de neón de alto contraste (cian, magenta, rojo intenso), lluvia volumétrica, rayos de luz volumétricos (god rays) procedentes de los carteles de neón, físicas realistas, 8K, fotorrealista, tono de ciencia ficción y terror, evolución al más puro estilo Transformers llevada al siguiente nivel con una aterradora fusión orgánico-mecánica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112853394557636608/img/Q0g66DublaMppRAX.jpg" width="600" alt="Transformación de Dragón Mecánico Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12903)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112853596421406720) | **Published:** Oct 21, 2026
+
+---
 ### Zoom cinematográfico lento en laptop
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2118,140 +2273,6 @@ Crea un video del nuevo roadster con el volante Mach 5 de Speed Racer, donde al 
 **Author:** [Clingdaddy](https://x.com/Clingdaddy1) | **Source:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **Published:** Oct 15, 2026
 
 ---
-### Foto de Vida Silvestre: Híbrido de Velociraptor y Koala
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de generación de video que solicita a Grok Imagine visualizar la cría adulta de un velociraptor y un koala en estilo de fotografía de vida silvestre de National Geographic.
-
-#### 📝 Prompt
-
-```
-Imagina la cría adulta de un velociraptor y un koala capturada por un fotógrafo de vida silvestre de National Geographic
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110523454654935041/img/7DvH8zbzZI0LRmCL.jpg" width="600" alt="Foto de Vida Silvestre: Híbrido de Velociraptor y Koala">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12604)**
-
-**Author:** [Pitchfork & Torch ♞](https://x.com/SuddenlyJon) | **Source:** [Link](https://x.com/SuddenlyJon/status/2110523509977895261) | **Published:** Oct 15, 2026
-
----
-### Prompt para cambio de pose y camisa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de movimiento detallado para Grok Imagine donde una mujer realiza diferentes poses, cambiando de camisa cada vez que gira dos veces.
-
-#### 📝 Prompt
-
-```
-Ella está realizando diferentes poses; la camisa cambia cada vez que gira. Ella gira dos veces.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110465968237346817/img/ygAh3MNCrbyGsvAt.jpg" width="600" alt="Prompt para cambio de pose y camisa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12550)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2110465992073568470) | **Published:** Oct 14, 2026
-
----
-### Escena de baile en la playa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de generación de video que instruye a un personaje para bailar como si estuviera escuchando una canción específica durante una escena de conducción por la playa.
-
-#### 📝 Prompt
-
-```
-baila como si escucharas esta canción "SHE" de Alice Phoebe Lou en vivo — buena elección para el paseo por la playa. La lista de reproducción de Beth es sólida....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110446367503945728/img/ZpRC_zpv1GyZ8ZH8.jpg" width="600" alt="Escena de baile en la playa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12552)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2110446522483511318) | **Published:** Oct 14, 2026
-
----
-### Tulipanes meciéndose con la brisa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video detallado que muestra tulipanes meciéndose suavemente con la brisa en un entorno de jardín.
-
-#### 📝 Prompt
-
-```
-Una suave brisa mueve delicadamente los pétalos de los vibrantes tulipanes, haciendo que se agiten y balanceen con gracia mientras los tallos y las hojas se mueven suavemente en el tranquilo entorno del jardín.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110443956261605376/img/_jfhyvOI1md7eR11.jpg" width="600" alt="Tulipanes meciéndose con la brisa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12555)**
-
-**Author:** [Melinda Maleski (Runaway Outlier)](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2110443974037295533) | **Published:** Oct 14, 2026
-
----
-### Secuencia de video con risas por errores
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt complejo que describe una secuencia de tomas, incluyendo momentos serios y risas por errores.
-
-#### 📝 Prompt
-
-```
-Como ella riendo por un error. Divirtiéndose entre cada toma. Ok, algunas son serias, como al principio, pero luego vuelven a decir 'corte'.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110439226177130497/img/GaAMesxXynlGRFJE.jpg" width="600" alt="Secuencia de video con risas por errores">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12553)**
-
-**Author:** [Laurie Vallance](https://x.com/RemmyChan) | **Source:** [Link](https://x.com/RemmyChan/status/2110439263246696547) | **Published:** Oct 14, 2026
-
----
-### El director corta la escena del avatar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video humorístico donde el director grita 'corten', y el avatar se ríe e intenta de nuevo con una vibra relajada.
-
-#### 📝 Prompt
-
-```
-El director grita 'corten'. Ella se ríe, entra en personaje con una vibra más relajada y tranquila, y lo intenta de nuevo.
-@grok  @imagine https://t.co/DtyjqfPEPv
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110437928832729088/img/uGF2nDwQYlb69_XD.jpg" width="600" alt="El director corta la escena del avatar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12557)**
-
-**Author:** [Laurie Vallance](https://x.com/RemmyChan) | **Source:** [Link](https://x.com/RemmyChan/status/2110437953923088739) | **Published:** Oct 14, 2026
-
----
-### Creación de Avatar con Tono Suave
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para crear un avatar con un tono suavizado que dice líneas específicas.
-
-#### 📝 Prompt
-
-```
-¿Puedes suavizar su tono? Que diga: "Listo para la acción, siente el poder del café, vamos"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110431839726772225/img/WHUrz4h8V8FNMgj2.jpg" width="600" alt="Creación de Avatar con Tono Suave">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12554)**
-
-**Author:** [Laurie Vallance](https://x.com/RemmyChan) | **Source:** [Link](https://x.com/RemmyChan/status/2110432213942866381) | **Published:** Oct 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2313,6 +2334,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-22T04:30:04.088Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-22T13:57:32.543Z</sub>
 
 </div>

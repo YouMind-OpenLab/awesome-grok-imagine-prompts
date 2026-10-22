@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3185** |
+| 📝 プロンプト総数 | **3192** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-10-22** |
 
@@ -189,6 +189,161 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Grok Imagine 動画プロンプト - ハロウィンパレード
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ハロウィンパレードを背景にキャラクターが踊り歌う、Grok Imagine 向けの動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+ハロウィンパレードで、ウェルカム・トゥ・ハロウィンの歌に合わせて踊りながら歌う姿をデザインしましょう
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113149705920172032/img/iP16iU7191e21OjE.jpg" width="600" alt="Grok Imagine 動画プロンプト - ハロウィンパレード">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12898)**
+
+**作者:** [Tim](https://x.com/timmmy335) | **ソース:** [Link](https://x.com/timmmy335/status/2113149726820601962) | **公開日:** Oct 22, 2026
+
+---
+### サイバーアーマー バイク変身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> カスタムバイクでサイバーアーマーに変身する女性を描いた、詳細なシネマティック動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+賑やかな街の市場通りを舞台にした、映画のような変身シークエンス。「VULCAN」（限定 7 台のうち 1 台、ツインターボ）と記された超精細なカスタムバイクが駐車されている。虹色に輝くイリデッセントなエキゾーストパイプ、ゴールドのアクセント、クラウンロゴがあしらわれた赤白のタンク、むき出しのメカニカルな構造、そして青く発光するヘッドライトが特徴だ。黒いレザージャケットに白いトップスを着た、長い黒髪の若い女性が近づき、バイクに両手を置く。
+
+彼女が触れた瞬間、滑らかで輝きを帯びた変身が始まる。両腕は紫のエナジーコアを備えた流線型のサイバネティックアームへと変化し、その変容は全身へと広がっていく。衣服は未来的なメタルアーマーへと置き換わり、大きなファセットカットが施された紫とブルーのクリスタルライトが全体を覆う。アーマーが完全に形成されると、スパークとエネルギーエフェクトが弾け飛ぶ。彼女は反射するバイザー付きのハイテクヘルメットを被り、バイクにまたがって通りを走り去っていく。バイクのエキゾーストは紫のスラスターで発光しながら加速し、市場の屋台や日よけ、歩行者たちをすり抜けていく。その軌跡には、躍動感あふれる光の残像とモーションブラーが残される。
+
+スタイル：洗練されたシネマティック AI ビデオ、リアルなライティングと SF ネオングロウの融合、滑らかなモーフィングトランジション、クローズアップからワイドなトラッキングショットへと移るドラマチックなカメラワーク。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113086829318504449/img/uTfo8qn2898X8YVw.jpg" width="600" alt="サイバーアーマー バイク変身">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12900)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2113086941365195023) | **公開日:** Oct 22, 2026
+
+---
+### ドラキュラの血龍ライド
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 満月と霧の中を血のドラゴンに乗って飛ぶ、黒いクリスタルの鎧を纏ったドラキュラを描いたシネマティックなファンタジー動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+満月の夜、霧の中を血の龍にまたがり駆ける、黒水晶の鎧を纏ったドラキュラ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113084723241144320/img/SOmcyuBliZFig8Kr.jpg" width="600" alt="ドラキュラの血龍ライド">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12899)**
+
+**作者:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **ソース:** [Link](https://x.com/TheEerieHollows/status/2113084756179214722) | **公開日:** Oct 22, 2026
+
+---
+### サイバーパンク トランスフォーマーバイクの衝突と車両飛行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けの詳細な動画生成プロンプト。ネオンの滑走路で装甲オートバイ2台が衝突し、テスラ Cybertruck スタイルの車両へメカニカルに変形して空へ飛び立つシネマティックな SF シーンを描きます。フォトリアルなライティング、雨の効果、ダイナミックなカメラワークを重視しています。
+
+#### 📝 プロンプト
+
+```
+ヘルメットを被った 2 人のライダーが、巨大な装甲バイクに跨り、夜の雨に濡れたネオンの滑走路で互いに向かって疾走する。両者は凄まじい高速で激突する。衝突の直後、2 台のバイクは劇的な機械的変形を開始し、融合して 1 台の重厚な Tesla Cybertruck スタイルのビークルとなる。新たに誕生した Tesla はスラスターを点火して滑走路から離陸し、嵐吹き荒れるサイバーパンクの空へと飛び立っていく。
+
+映画のようなフォトリアリスティックな次世代 Transformers SF サイバーパンクシークエンス、超精細、IMAX スタイル、4K。激しい雨が降り注ぐ夜、濡れた未来的な空港の滑走路。背景にはホログラム広告や飛行ビークルが行き交い、サイバーパンク特有の雰囲気を放つ、輝くネオンのメガシティのスカイラインが広がる。
+
+2 台の巨大で重装甲のサイバーパンクモーターサイクル（ダークマットブラックの車体に露出したクロームの油圧パーツ、シアンとマゼンタに発光するエネルギーライン、Transformers を思わせる精緻なメカニカルディテール）が、滑走路の両端から互いに向かって猛スピードで接近する。両ライダーは反射するバイザーと微かに光る HUD を備えたフルフェイスのハイテクヘルメットを着用し、タイヤが水飛沫を上げ、エンジンが轟音を響かせる中、攻撃的に体を前傾させている。
+
+画面中央で、両者は容赦ない高衝撃の正面衝突を起こす——金属が潰れ、火花が炸裂し、エネルギーアークがバチバチと音を立て、破片がスローモーションで飛び散る。衝撃の直後、2 台のバイクは壮観な機械的変形シークエンスを開始する。パネルがスライドしてロックされ、コンポーネントが油圧制御による精密さで再構成され、発光する継ぎ目が明るく灯る。そして大破した 2 台のバイクは融合・再構築され、1 台の巨大で重厚な Tesla Cybertruck を彷彿とさせるビークルへと姿を変える——無骨でインダストリアルなデザイン、ブラッシュドメタル仕上げのマットブラックボディにレッドのアクセントライティング。
+
+新たに誕生した Tesla が起動し、車体下部のスラスターが青白いプラズマを噴射して、力強く滑走路から浮上する。機体を傾けて雨の夜空へと加速し、眼下にネオンシティが広がる中、光と蒸気、水飛沫の軌跡を残していく。
+
+ダイナミックなカメラワーク：バイクを追うローアングルのトラッキングショット、レンズに向かって破片が飛んでくる劇的な衝突のクローズアップ、そして Tesla が変形して離陸するにつれて上昇しながら引いていく空中からのプルバック。ボリュメトリックライティング、激しい雨筋、ネオンとスラスターによるレンズフレア、フォトリアリスティックな金属・水・火花・パーティクルエフェクト。映画的なカラーグレーディング（深いブルー、ネオンマゼンタ、温かみのあるエンジンの発光）による、壮大でエネルギッシュなムード。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112950958342717440/img/6p3tZcTGg6oFH6aT.jpg" width="600" alt="サイバーパンク トランスフォーマーバイクの衝突と車両飛行">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12904)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2112952172111659320) | **公開日:** Oct 21, 2026
+
+---
+### シネマティックな製品発表モーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 香水ボトルの登場シーンのために、カメラワーク（ズーム、パン）と制約条件（回転なし）を指定する技術的なプロンプト。
+
+#### 📝 プロンプト
+
+```
+香水のボトルに向けた、控えめで穏やかなカメラのズームインと、わずかにゆっくりとしたパン。滑らかでシネマティックな動き。製品は完全に静止したままで、カメラだけが柔らかなパンや穏やかなズームで動きます。回転やオービット（周回）はなし。写実的なプロダクトリビール。無音。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112866031559639040/img/8FnhGc8SvZca-h56.jpg" width="600" alt="シネマティックな製品発表モーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12901)**
+
+**作者:** [Pureそのみ](https://x.com/Pure_ctq) | **ソース:** [Link](https://x.com/Pure_ctq/status/2112866052124336133) | **公開日:** Oct 21, 2026
+
+---
+### Elon Musk と Optimus Prime が織りなす SF 的遭遇
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 火星で Elon Musk、Optimus Prime、そしてファンタジーの海洋女王が出会う場面を描いたナラティブ プロンプト。
+
+#### 📝 プロンプト
+
+```
+POV：Elon と Optimus が、火星の海底に隠された都市 Nereia の支配者である Queen Thalassa と出会う。🌊🔴
+
+ファーストコンタクトを果たしたのは Elon。そして Optimus は、人生初のペットを手に入れた。🐟🤖
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112862557614551040/img/3uT-JaGaa_EEdeaN.jpg" width="600" alt="Elon Musk と Optimus Prime が織りなす SF 的遭遇">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12902)**
+
+**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **ソース:** [Link](https://x.com/thesimaximalist/status/2112862617152954798) | **公開日:** Oct 21, 2026
+
+---
+### サイバーパンク・メカニカルドラゴンの変身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用の詳細なホラーサイバーパンク動画プロンプト。雨の街の屋上で、スーツケースがバイオメカニカルドラゴンに変貌するシーンを描きます。
+
+#### 📝 プロンプト
+
+```
+映画のようなリアルな動画プロンプト（ホラー・サイバーパンク・トランスフォーマーの進化）：
+
+雨に濡れたコンクリートとネオンの反射が光る、夜のサイバーパンクメガシティの屋上。擦り切れたダークトレンチコートを着た、疲れ果てて雨に濡れた男が、そびえ立つビルの縁に立っている。彼は絶望的な力で、重厚な金属製スーツケースを屋上から投げ捨てる。スーツケースは雨降る夜空へと落ちていく。
+
+落下の途中、スーツケースは機械的ホラーとも呼べる激しい変形を遂げる。パネルが引き裂かれ、油圧式の四肢が外側へ爆発的に飛び出し、ギアやケーブルが金属の皮膚を突き破り、生々しく軋む肉のような音を立てる。それは急速に展開し、巨大なバイオメカニカルドラゴンへと異形化していく——半分は機械、半分は悪夢そのもの。分割された金属の鱗が生きた鎧のようにうごめき、赤く発光するサイバネティックな目が鋭く見開かれる。ギザギザの鋼鉄と半透明の膜でできた翼が骨の折れるような勢いで広がり、噛み合う刃で埋め尽くされた口を持つ長い首が前方に突き出される。変形の最中には、火花、黒い液体、そしてネオンに照らされた蒸気が噴き出す。
+
+空中で完全に姿を成したドラゴンは、歪んだ都市の警報音と混ざり合うような、歪んだ機械的な咆哮を上げ、捕食者のごとき威圧感をもって急降下するか旋回する。暗く、濡れた、インダストリアルな雰囲気。金属のテクスチャ、雨、反射、そして変形が放つグロテスクな美しさを極限までディテール豊かに描写。シネマティックなアナモルフィックレンズで撮影し、変形シーンはスローモーションを強調。落下するスーツケースがドラゴンへと姿を変える様を追う、ダイナミックなトラッキングカメラワーク。ハイコントラストなネオンライティング（シアン、マゼンタ、ディープレッド）、ボリュメトリックな雨、ネオンサインから差し込むボリュメトリックなゴッドレイ、リアルな物理演算、 8K 、フォトリアル、ホラー SF トーン。恐ろしい有機体と機械の融合による、次世代レベルの Transformers スタイルの進化。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112853394557636608/img/Q0g66DublaMppRAX.jpg" width="600" alt="サイバーパンク・メカニカルドラゴンの変身">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12903)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2112853596421406720) | **公開日:** Oct 21, 2026
+
+---
 ### ノート PC スロー ズーム シネマティック
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2118,140 +2273,6 @@ Elon Musk が海賊姿で、口にくわえたサーベルと、X マークの�
 **作者:** [Clingdaddy](https://x.com/Clingdaddy1) | **ソース:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **公開日:** Oct 15, 2026
 
 ---
-### ヴェロキラプトルとコアラのハイブリッド野生動物写真
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine に、ヴェロキラプトルとコアラの成体雑種を National Geographic の野生動物写真スタイルで可視化させるための動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-National Geographic の野生動物写真家が撮影したような、ヴェロキラプトルとコアラの成体雑種を想像してください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110523454654935041/img/7DvH8zbzZI0LRmCL.jpg" width="600" alt="ヴェロキラプトルとコアラのハイブリッド野生動物写真">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12604)**
-
-**作者:** [Pitchfork & Torch ♞](https://x.com/SuddenlyJon) | **ソース:** [Link](https://x.com/SuddenlyJon/status/2110523509977895261) | **公開日:** Oct 15, 2026
-
----
-### ポーズとシャツ変更のプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 女性が異なるポーズを取り、2回振り向くたびにシャツが変わる、Grok Imagine 用の詳細なモーションプロンプトです。
-
-#### 📝 プロンプト
-
-```
-彼女はさまざまなポーズを取っており、2回振り向くたびにシャツが変わります。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110465968237346817/img/ygAh3MNCrbyGsvAt.jpg" width="600" alt="ポーズとシャツ変更のプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12550)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **ソース:** [Link](https://x.com/owenxplore/status/2110465992073568470) | **公開日:** Oct 14, 2026
-
----
-### ビーチドライブのダンスシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャラクターがビーチドライブ中に特定の曲を聴いているかのように踊るよう指示する動画生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-この曲 "“SHE” by Alice Phoebe Lou live" を聴いているかのように踊って — ビーチドライブに最適な選曲だ。Beth のプレイリストは素晴らしい....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110446367503945728/img/ZpRC_zpv1GyZ8ZH8.jpg" width="600" alt="ビーチドライブのダンスシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12552)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2110446522483511318) | **公開日:** Oct 14, 2026
-
----
-### そよ風に揺れるチューリップ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 庭園の中でそよ風に優しく揺れるチューリップを描いた詳細な動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-穏やかな風が鮮やかなチューリップの花びらを優しく撫で、茎や葉が平和な庭園の風景の中で優雅に揺れ動きます。花びらは繊細にひらめき、しなやかに揺れています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110443956261605376/img/_jfhyvOI1md7eR11.jpg" width="600" alt="そよ風に揺れるチューリップ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12555)**
-
-**作者:** [Melinda Maleski (Runaway Outlier)](https://x.com/CantTameFire) | **ソース:** [Link](https://x.com/CantTameFire/status/2110443974037295533) | **公開日:** Oct 14, 2026
-
----
-### NG集：爆笑シーン連続
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> シリアスな場面とNGでの笑いを含む、一連のテイクを描写する複雑なプロンプト。
-
-#### 📝 プロンプト
-
-```
-彼女がNGで笑っているような感じ。各テイクの間で楽しんでいる。最初のうちはシリアスだけど、またカットがかかる瞬間がある。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110439226177130497/img/GaAMesxXynlGRFJE.jpg" width="600" alt="NG集：爆笑シーン連続">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12553)**
-
-**作者:** [Laurie Vallance](https://x.com/RemmyChan) | **ソース:** [Link](https://x.com/RemmyChan/status/2110439263246696547) | **公開日:** Oct 14, 2026
-
----
-### 監督がアバターシーンでカットを叫ぶ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 監督が「カット！」と叫び、アバターが笑ってリラックスした雰囲気で再挑戦するユーモラスな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-監督が「カット！」と叫ぶ。彼女は笑いながら役に入り直し、もっとリラックスしてクールな雰囲気でもう一度試す。
-@grok @imagine https://t.co/DtyjqfPEPv
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110437928832729088/img/uGF2nDwQYlb69_XD.jpg" width="600" alt="監督がアバターシーンでカットを叫ぶ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12557)**
-
-**作者:** [Laurie Vallance](https://x.com/RemmyChan) | **ソース:** [Link](https://x.com/RemmyChan/status/2110437953923088739) | **公開日:** Oct 14, 2026
-
----
-### ソフトトーンアバターの作成
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 特定のセリフを柔らかいトーンで話すアバターを作成するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-彼女のトーンを柔らかくしてください。「準備完了、コーヒーの力を体感しよう、行こう」と言わせてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110431839726772225/img/WHUrz4h8V8FNMgj2.jpg" width="600" alt="ソフトトーンアバターの作成">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12554)**
-
-**作者:** [Laurie Vallance](https://x.com/RemmyChan) | **ソース:** [Link](https://x.com/RemmyChan/status/2110432213942866381) | **公開日:** Oct 14, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2313,6 +2334,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-22T04:29:59.106Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-22T13:57:26.813Z</sub>
 
 </div>

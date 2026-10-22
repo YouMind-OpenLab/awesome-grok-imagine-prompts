@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3185** |
+| 📝 총 프롬프트 수 | **3192** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-10-22** |
 
@@ -189,6 +189,161 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Grok Imagine Video 프롬프트 - 할로윈 퍼레이드
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine용 영상 생성 프롬프트로, Halloween 퍼레이드 배경에서 캐릭터들이 춤추고 노래하는 장면을 담고 있습니다.
+
+#### 📝 프롬프트
+
+```
+할로윈 퍼레이드에서 할로윈 환영 노래를 부르며 춤추는 모습으로 디자인해 보세요
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113149705920172032/img/iP16iU7191e21OjE.jpg" width="600" alt="Grok Imagine Video 프롬프트 - 할로윈 퍼레이드">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12898)**
+
+**작성자:** [Tim](https://x.com/timmmy335) | **출처:** [Link](https://x.com/timmmy335/status/2113149726820601962) | **게시일:** Oct 22, 2026
+
+---
+### 사이버 아머 오토바이 변신
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 맞춤형 오토바이 위에서 여성이 사이버 아머로 변신하는 모습을 담은 상세한 시네마틱 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+사람들로 붐비는 도시 시장 거리를 배경으로 한 영화 같은 변신 시퀀스. "VULCAN" 이라는 이름이 새겨진 초정밀 커스텀 오토바이(7 대 한정판 중 1 번, 트윈 터보)가 주차되어 있습니다. 무지갯빛 배기 파이프, 골드 액센트, 크라운 로고가 새겨진 레드 앤 화이트 연료 탱크, 외부로 드러난 기계 장치, 그리고 푸르게 빛나는 헤드라이트가 특징입니다. 긴 흑발을 가진 젊은 여성이 블랙 가죽 재킷과 화이트 상의를 입고 다가와 오토바이에 두 손을 얹습니다.
+
+손끝이 닿는 순간, 매끄럽고 빛나는 변신이 시작됩니다. 그녀의 팔은 보랏빛 에너지 코어가 박힌 세련된 사이보그 팔로 바뀌고, 이 변화는 온몸으로 퍼져나가며 입고 있던 옷을 대형 커팅 면의 보라색 및 파란색 크리스탈 라이트로 뒤덮인 미래형 메탈 아머로 대체합니다. 아머가 완전히 형성되면서 스파크와 에너지 이펙트가 뿜어져 나옵니다. 그녀는 반사되는 바이저가 장착된 동일한 디자인의 하이테크 헬멧을 쓰고 오토바이에 올라타 거리를 질주하며 사라집니다. 오토바이의 배기관은 보랏빛 스러스터로 타오르며 시장 가판대, 차양막, 행인들을 빠르게 지나쳐 가속하고, 역동적인 빛의 궤적과 모션 블러를 남깁니다.
+
+스타일: 고도로 정교하게 다듬어진 시네마틱 AI 영상, 사실적인 조명과 SF 네온 글로우의 조화, 부드러운 모핑 전환, 클로즈업에서 와이드 트래킹 샷으로 이어지는 극적인 카메라 무브먼트.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113086829318504449/img/uTfo8qn2898X8YVw.jpg" width="600" alt="사이버 아머 오토바이 변신">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12900)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2113086941365195023) | **게시일:** Oct 22, 2026
+
+---
+### 드라큘라의 핏빛 용 라이딩
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 안개 자욱한 보름달 아래, 검은 수정 갑옷을 입은 드라큘라가 핏빛 용을 타고 날아가는 장면을 담은 시네마틱 판타지 영상 프롬프트.
+
+#### 📝 프롬프트
+
+```
+보름달이 뜬 밤, 안개를 뚫고 피의 용을 타고 질주하는 블랙 크리스탈 아머를 입은 드라큘라
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113084723241144320/img/SOmcyuBliZFig8Kr.jpg" width="600" alt="드라큘라의 핏빛 용 라이딩">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12899)**
+
+**작성자:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **출처:** [Link](https://x.com/TheEerieHollows/status/2113084756179214722) | **게시일:** Oct 22, 2026
+
+---
+### 사이버펑크 트랜스포머 바이크 충돌 및 차량 비행
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 위한 상세한 영상 생성 프롬프트로, 네온 활주로에서 두 대의 장갑 오토바이가 충돌하여 테슬라 사이버트럭 스타일의 차량으로 기계적으로 변신하고 하늘로 발사되는 시네마틱 SF 시퀀스를 묘사합니다. 이 프롬프트는 사실적인 조명, 비 효과, 그리고 동적인 카메라 움직임을 강조합니다.
+
+#### 📝 프롬프트
+
+```
+헬멧을 쓴 두 라이더가 거대한 장갑 바이크를 타고 밤비 젖은 네온 활주로 위를 서로를 향해 질주합니다. 두 바이크는 맹렬한 고속 충돌로 정면으로 부딪힙니다. 충돌 직후, 두 대의 바이크는 극적인 기계적 변형을 시작하며 하나로 융합되어 묵직한 Tesla Cybertruck 스타일의 차량으로 재탄생합니다. 새롭게 완성된 Tesla 는 스러스터를 점화하고 활주로를 박차고 올라 폭풍이 몰아치는 사이버펑크 하늘로 날아오릅니다.
+
+영화 같은 초실사 차세대 Transformers SF 사이버펑크 시퀀스, 초정밀 디테일, IMAX 스타일, 4K. 폭우가 쏟아지는 젖은 미래형 공항 활주로 위의 야경, 배경에는 홀로그램 광고와 비행 차량이 떠 있는 빛나는 네온 메가시티 스카이라인이 사이버펑크 특유의 분위기를 자아냅니다.
+
+거대하고 중무장한 두 대의 사이버펑크 모터사이클(드러난 크롬 유압 장치, 빛나는 시안 및 마젠타 에너지 라인, 정교한 Transformers 스타일의 기계적 디테일이 돋보이는 다크 매트 블랙 바디)이 활주로 양 끝에서 서로를 향해 질주합니다. 두 라이더 모두 반사 바이저와 은은하게 빛나는 HUD 가 장착된 풀페이스 하이테크 헬멧을 착용한 채 공격적으로 상체를 숙이고 있으며, 타이어는 물을 뿜어내고 엔진은 포효합니다.
+
+두 바이크는 프레임 중앙에서 잔혹하고 강력한 충격과 함께 정면 충돌합니다 — 금속이 찌그러지고, 불꽃이 튀며, 에너지 아크가 튕기고, 파편들이 슬로우 모션으로 흩어집니다. 충돌 직후, 두 바이크는 눈부신 기계적 변형 시퀀스를 시작합니다. 패널이 이동해 맞물리고, 부품들이 유압식 정밀함으로 재배치되며, 발광하는 이음새가 빛나고, 부서진 두 대의 바이크가 융합되어 각지고 산업적인 느낌의 거대한 단일 중장비 차량으로 재조립됩니다. 이 차량은 Tesla Cybertruck 에서 영감을 받은 디자인으로, 브러시드 메탈 표면과 레드 액센트 조명이 적용된 매트 블랙 컬러입니다.
+
+완성된 Tesla 가 동력을 충전하고, 하부의 스러스터가 밝은 청백색 플라즈마를 뿜어내며 활주로를 힘차게 이륙합니다. 기체를 기울이며 비 내리는 밤하늘을 향해 가속하고, 아래로 네온 도시가 펼쳐지는 가운데 빛, 수증기, 물보라의 궤적을 남깁니다.
+
+역동적인 카메라 워크: 바이크를 따라가는 로우 앵글 트래킹 샷, 렌즈를 향해 날아오는 파편을 담은 극적인 충돌 클로즈업, 그리고 Tesla 가 변형되어 이륙할 때 상승하며 뒤로 빠지는 에어리얼 풀백. 볼류메트릭 조명, 굵은 빗줄기, 네온과 스러스터에서 발생하는 렌즈 플레어, 초실사 금속, 물, 불꽃 및 파티클 이펙트. 영화 같은 컬러 그레이딩(깊은 블루, 네온 마젠타, 따뜻한 엔진 글로우)이 더해진 웅장하고 에너지 넘치는 분위기.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112950958342717440/img/6p3tZcTGg6oFH6aT.jpg" width="600" alt="사이버펑크 트랜스포머 바이크 충돌 및 차량 비행">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12904)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2112952172111659320) | **게시일:** Oct 21, 2026
+
+---
+### 시네마틱 제품 공개 모션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 향수 병 공개를 위한 카메라 무빙(줌, 팬) 및 제약 사항(회전 없음)을 명시한 기술적 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+향수병을 향해 은은하고 부드럽게 줌인되며 살짝 느리게 패닝하는 카메라 무빙, 매끄러운 시네마틱 모션, 제품은 완전히 고정된 상태 유지, 카메라만 부드러운 패닝이나 은은한 줌으로 움직이며 회전이나 오빗 없음, 사실적인 제품 연출, 무음
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112866031559639040/img/8FnhGc8SvZca-h56.jpg" width="600" alt="시네마틱 제품 공개 모션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12901)**
+
+**작성자:** [Pureそのみ](https://x.com/Pure_ctq) | **출처:** [Link](https://x.com/Pure_ctq/status/2112866052124336133) | **게시일:** Oct 21, 2026
+
+---
+### 엘론 머스크와 Optimus의 SF적 조우
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 화성에서 Elon Musk, Optimus Prime, 그리고 판타지 바다 여왕이 만나는 장면을 묘사하는 내러티브 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+POV: Elon 과 Optimus 가 화성 아래 숨겨진 해양 도시 Nereia 의 통치자, Queen Thalassa 를 만나다. 🌊🔴
+
+Elon 은 첫 접촉에 성공했고, Optimus 는 생애 첫 반려동물을 얻었다. 🐟🤖
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112862557614551040/img/3uT-JaGaa_EEdeaN.jpg" width="600" alt="엘론 머스크와 Optimus의 SF적 조우">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12902)**
+
+**작성자:** [The SI Maximalist](https://x.com/thesimaximalist) | **출처:** [Link](https://x.com/thesimaximalist/status/2112862617152954798) | **게시일:** Oct 21, 2026
+
+---
+### 사이버펑크 기계식 드래곤 변신
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine용 호러 사이버펑크 스타일의 상세한 비디오 프롬프트로, 비 내리는 도시 옥상에서 캐리어가 생체역학적 용으로 변형되는 장면을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+시네마틱 리얼리즘 비디오 프롬프트 (호러 사이버펑크 트랜스포머 진화):
+
+밤의 사이버펑크 메가시티 옥상, 빗물에 젖어 번들거리는 콘크리트와 네온사인의 반사광. 낡은 다크 트렌치코트를 입고 비에 흠뻑 젖은 지친 남자가 고층 빌딩 끝에 서 있다. 그는 절박한 힘을 다해 무거운 금속 여행용 가방을 옥상 밖으로 내던진다. 가방이 비 내리는 밤하늘로 곤두박질친다.
+
+떨어지는 도중, 가방이 기계적인 공포를 자아내며 격렬하게 변형된다. 패널들이 찢겨 열리고 유압식 사지가 바깥으로 터져 나오며, 기어와 케이블이 축축하고 갈려 나가는 살점 같은 소리를 내며 금속 표피를 뚫고 나온다. 순식간에 펼쳐지고 돌연변이처럼 거대한 바이오메카니컬 드래곤 — 절반은 기계, 절반은 악몽인 존재로 진화한다. 분절된 금속 비늘은 살아 숨 쉬는 갑옷처럼 움직이고, 붉게 빛나는 사이보그 눈이 번쩍 뜨이며, 날카로운 강철과 반투명한 막으로 이루어진 날개가 뼈가 부러지는 듯한 힘으로 활짝 펴진다. 그리고 맞물린 칼날로 가득한 턱을 가진 긴 목이 앞으로 채찍처럼 뻗는다. 변형 과정에서 불꽃, 검은 액체, 네온빛을 머금은 증기가 뿜어져 나온다.
+
+드래곤은 공중에서 형태를 완전히 갖춘 뒤, 일그러진 도시의 경보음과 뒤섞이는 왜곡된 기계적 포효를 내지르고, 이어서 포식자 특유의 위협적인 기세로 급강하하거나 선회한다. 어둡고 축축하며 산업적인 분위기. 금속 질감, 빗방울, 반사광, 그리고 변형 과정의 그로테스크한 아름다움에 대한 극단적인 디테일. 시네마틱 아나모픽 렌즈로 촬영, 변형 장면에 슬로우 모션 강조, 떨어지는 가방이 드래곤으로 변하는 과정을 따라가는 역동적인 트래킹 카메라. 고대비 네온 조명(시안, 마젠타, 딥 레드), 볼류메트릭 레인, 네온사인에서 뻗어 나오는 볼류메트릭 갓 레이, 사실적인 물리 효과, 8K, 포토 리얼리스틱, 호러 SF 톤, 소름 끼치는 유기체-기계 융합을 보여주는 한 차원 높은 트랜스포머 스타일의 진화.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112853394557636608/img/Q0g66DublaMppRAX.jpg" width="600" alt="사이버펑크 기계식 드래곤 변신">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12903)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2112853596421406720) | **게시일:** Oct 21, 2026
+
+---
 ### 노트북 느린 줌 시네마틱
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2113,140 +2268,6 @@ Elon Musk가 이를 악물고 Sabre(검)를 물고 있으며, Jeff Bezos를 닮�
 **작성자:** [Clingdaddy](https://x.com/Clingdaddy1) | **출처:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **게시일:** Oct 15, 2026
 
 ---
-### 벨로키랍토르와 코알라 하이브리드 야생 동물 사진
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine에게 벨로키랍토르와 코알라의 성체 자손을 내셔널 지오그래픽 야생 동물 사진 스타일로 시각화하도록 요청하는 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-내셔널 지오그래픽 야생 동물 사진작가의 시선으로 포착된 벨로키랍토르와 코알라의 성체 자손을 상상해 보세요
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110523454654935041/img/7DvH8zbzZI0LRmCL.jpg" width="600" alt="벨로키랍토르와 코알라 하이브리드 야생 동물 사진">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12604)**
-
-**작성자:** [Pitchfork & Torch ♞](https://x.com/SuddenlyJon) | **출처:** [Link](https://x.com/SuddenlyJon/status/2110523509977895261) | **게시일:** Oct 15, 2026
-
----
-### 포즈 및 셔츠 변경 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine에서 여성이 다양한 포즈를 취하며, 두 번 돌아설 때마다 셔츠가 바뀌는 상세한 모션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그녀는 다양한 포즈를 취하고 있으며, 두 번 돌아설 때마다 셔츠가 바뀝니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110465968237346817/img/ygAh3MNCrbyGsvAt.jpg" width="600" alt="포즈 및 셔츠 변경 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12550)**
-
-**작성자:** [Owen](https://x.com/owenxplore) | **출처:** [Link](https://x.com/owenxplore/status/2110465992073568470) | **게시일:** Oct 14, 2026
-
----
-### 해변 드라이브 댄스 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 비치 드라이브 장면에서 특정 노래를 듣는 것처럼 춤을 추도록 지시하는 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이 노래 "Alice Phoebe Lou의 라이브 버전 'SHE'"를 듣는 것처럼 춤을 춰 — 해변 드라이브에 딱 좋은 선택이야. Beth의 플레이리스트 정말 좋네....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110446367503945728/img/ZpRC_zpv1GyZ8ZH8.jpg" width="600" alt="해변 드라이브 댄스 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12552)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2110446522483511318) | **게시일:** Oct 14, 2026
-
----
-### 미풍에 흔들리는 튤립
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 정원 배경에서 미풍에 부드럽게 흔들리는 튤립을 묘사한 상세한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-부드러운 미풍이 생동감 넘치는 튤립의 꽃잎을 살며시 불어, 우아한 움직임으로 꽃잎이 팔랑거리고 흔들리며 줄기와 잎은 평화로운 정원 환경 속에서 부드럽게 움직인다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110443956261605376/img/_jfhyvOI1md7eR11.jpg" width="600" alt="미풍에 흔들리는 튤립">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12555)**
-
-**작성자:** [Melinda Maleski (Runaway Outlier)](https://x.com/CantTameFire) | **출처:** [Link](https://x.com/CantTameFire/status/2110443974037295533) | **게시일:** Oct 14, 2026
-
----
-### NG 웃음 장면 시퀀스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 진지한 순간과 NG 웃음이 포함된 촬영 시퀀스를 설명하는 복잡한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-NG 장면에서 그녀가 웃는 모습처럼. 각 테이크 사이에 즐거운 분위기. 처음에는 진지하다가 다시 컷을 외치는 식으로요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110439226177130497/img/GaAMesxXynlGRFJE.jpg" width="600" alt="NG 웃음 장면 시퀀스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12553)**
-
-**작성자:** [Laurie Vallance](https://x.com/RemmyChan) | **출처:** [Link](https://x.com/RemmyChan/status/2110439263246696547) | **게시일:** Oct 14, 2026
-
----
-### 감독이 아바타 장면을 컷하다
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 감독이 '컷'을 외치고, 아바타가 웃으며 여유로운 분위기로 다시 시도하는 유머러스한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-감독이 컷을 외칩니다. 그녀는 웃으며 더 편안하고 차분한 분위기 속에서 캐릭터에 몰입해 다시 시도합니다.
-@grok  @imagine https://t.co/DtyjqfPEPv
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110437928832729088/img/uGF2nDwQYlb69_XD.jpg" width="600" alt="감독이 아바타 장면을 컷하다">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12557)**
-
-**작성자:** [Laurie Vallance](https://x.com/RemmyChan) | **출처:** [Link](https://x.com/RemmyChan/status/2110437953923088739) | **게시일:** Oct 14, 2026
-
----
-### 부드러운 톤의 아바타 생성
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 특정 대사를 부드럽고 온화한 톤으로 말하는 아바타를 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그녀의 목소리 톤을 부드럽게 해주세요. '준비 완료, 커피의 힘을 느껴보자, 가자!'라고 말하게 해주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110431839726772225/img/WHUrz4h8V8FNMgj2.jpg" width="600" alt="부드러운 톤의 아바타 생성">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12554)**
-
-**작성자:** [Laurie Vallance](https://x.com/RemmyChan) | **출처:** [Link](https://x.com/RemmyChan/status/2110432213942866381) | **게시일:** Oct 14, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2308,6 +2329,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-22T04:30:00.101Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-22T13:57:27.880Z</sub>
 
 </div>
