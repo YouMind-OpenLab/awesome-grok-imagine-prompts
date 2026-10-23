@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3192** |
+| 📝 Total Prompts | **3198** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-23** |
 
@@ -189,11 +189,131 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Grok Imagine Video Prompt - Halloween Parade
+### Gnome Teaching Wrestling Strategy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for Grok Imagine featuring characters dancing and singing in a Halloween parade setting.
+> Creative video prompt featuring a gnome teaching a day trading strategy to a professional wrestler.
+
+#### 📝 Prompt
+
+```
+Make up a day trading strategy and have a gnome teach it to a professional wrestler
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113472198841188352/img/Y8RUguYmhFMnWWdl.jpg" width="600" alt="Gnome Teaching Wrestling Strategy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12956)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113472220819542249) | **Published:** Oct 23, 2026
+
+---
+### Grok Imagine Video Prompt: Scarlett O'Hara Trading
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A variant of the previous prompt replacing the generic queen with Scarlett O'Hara.
+
+#### 📝 Prompt
+
+```
+Make up a day trading strategy and have a gnome teach it to 25 year old Scarlett o’Hara with red hair
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113467945389084672/img/YZVtANzlJ56--xT7.jpg" width="600" alt="Grok Imagine Video Prompt: Scarlett O'Hara Trading">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12959)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113467965798842614) | **Published:** Oct 23, 2026
+
+---
+### Grok Imagine Video Prompt: Gnome Teaching Trading
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal video prompt featuring a gnome teaching day trading strategies to a red-haired Caucasian Egyptian queen.
+
+#### 📝 Prompt
+
+```
+Make up a day trading strategy and have a gnome teach it to 25 year old Caucasian Egyptian queen with red hair
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113466829406339072/img/cviZqEw214MzQkDA.jpg" width="600" alt="Grok Imagine Video Prompt: Gnome Teaching Trading">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12957)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113466855172042931) | **Published:** Oct 23, 2026
+
+---
+### Grok Imagine Gnome Day Trading
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal video prompt where a gnome teaches a day trading strategy to a red-haired queen wearing Crown Jewels.
+
+#### 📝 Prompt
+
+```
+Make up a day trading strategy and have a gnome teach it to his 25 year old gorgeous red haired queen wearing the Crown Jewels.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113465581189967872/img/xFyY8CU2uixgOoGF.jpg" width="600" alt="Grok Imagine Gnome Day Trading">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12961)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **Published:** Oct 23, 2026
+
+---
+### Precise Lip-Sync Video Generation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for creating a lip-sync video using an identity reference image and audio source, with specific instructions on mouth movement and consonant clarity.
+
+#### 📝 Prompt
+
+```
+Use the attached image as the exact identity reference.
+Use the attached audio as the exact lip-sync source.
+
+Lip-sync:
+- Precise syllable timing
+- Keep mouth opening subtle and narrow throughout; never open wide
+- Crisp consonants via lip shaping
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113216625063419904/img/TLjNUGrkce2fBVDT.jpg" width="600" alt="Precise Lip-Sync Video Generation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12958)**
+
+**Author:** [レイヴ](https://x.com/raves9361) | **Source:** [Link](https://x.com/raves9361/status/2113216645950775792) | **Published:** Oct 22, 2026
+
+---
+### Dragon and Nepali Lady Illustration
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video/image prompt for a pointillism illustration featuring a golden dragon and a Nepali lady in traditional attire.
+
+#### 📝 Prompt
+
+```
+Picture book style, pointillism illustration of a golden patterned ornamental, friendly, powerful, sweet dragon with red scale outlines and a wholesome lady from Nepal in traditional outfit relating lovingly.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113190635746537472/img/QdkqV2UFMD-JSL7L.jpg" width="600" alt="Dragon and Nepali Lady Illustration">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12960)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2113190653870125111) | **Published:** Oct 22, 2026
+
+---
+### Halloween Parade Dance Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video prompt to generate a scene of characters dancing and singing in a Halloween parade.
 
 #### 📝 Prompt
 
@@ -201,18 +321,18 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 Design them dancing and singing the welcome to Halloween song in the Halloween parade
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113149705920172032/img/iP16iU7191e21OjE.jpg" width="600" alt="Grok Imagine Video Prompt - Halloween Parade">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113149705920172032/img/iP16iU7191e21OjE.jpg" width="600" alt="Halloween Parade Dance Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12898)**
 
 **Author:** [Tim](https://x.com/timmmy335) | **Source:** [Link](https://x.com/timmmy335/status/2113149726820601962) | **Published:** Oct 22, 2026
 
 ---
-### Cyber Armor Motorcycle Transformation
+### Grok Imagine Cyber Armor Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic video prompt showing a woman transforming into cyber armor on a custom motorcycle.
+> Cinematic video prompt featuring a woman transforming into cyber armor on a motorcycle, shared as a Grok Imagine prompt.
 
 #### 📝 Prompt
 
@@ -224,7 +344,7 @@ As she touches it, a smooth, glowing transformation begins: her arms morph into 
 Style: highly polished cinematic AI video, realistic lighting mixed with sci-fi neon glows, smooth morphing transitions, dramatic camera movement from close-up to wide tracking shot.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113086829318504449/img/uTfo8qn2898X8YVw.jpg" width="600" alt="Cyber Armor Motorcycle Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113086829318504449/img/uTfo8qn2898X8YVw.jpg" width="600" alt="Grok Imagine Cyber Armor Transformation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12900)**
 
@@ -1006,11 +1126,11 @@ Include a bright orange sunny sky, where is this. white Tesla car seen  to turn 
 **Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2112251138145951830) | **Published:** Oct 19, 2026
 
 ---
-### Supercar Transforms into Robot
+### Supercar Robot Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for a futuristic black supercar transforming into a robotic warrior in a neon city.
+> A detailed prompt for Grok Imagine describing a futuristic black supercar transforming into a robotic warrior in a neon city.
 
 #### 📝 Prompt
 
@@ -1018,7 +1138,7 @@ Include a bright orange sunny sky, where is this. white Tesla car seen  to turn 
 A futuristic black supercar races through a neon-lit megacity at night before braking violently on a wet highway. The hood splits into armored chest plates, wheels rotate into the shoulders, and hundreds of hydraulic components unfold in precise mechanical sequences. The car rises into a towering robotic warrior with glowing blue eyes as steam bursts from its armor. The robot takes one powerful step forward while the camera circles it in a dramatic 360-degree shot.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112218406913282051/img/p2l0BCI_PrQVlPrl.jpg" width="600" alt="Supercar Transforms into Robot">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112218406913282051/img/p2l0BCI_PrQVlPrl.jpg" width="600" alt="Supercar Robot Transformation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12801)**
 
@@ -1473,11 +1593,11 @@ Starship @Image1 takes off from the surface of the moon using cold gas thrusters
 **Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111182254646886773) | **Published:** Oct 16, 2026
 
 ---
-### Grok Imagine Kizomba Dance Prompt
+### Grok Imagine Prompt: Intimate Kizomba Dance
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a 15-second intimate kizomba dance video with close embrace and forehead touching.
+> A detailed prompt for generating a 15-second intimate kizomba dance video using Grok Imagine, focusing on close embrace and forehead touching.
 
 #### 📝 Prompt
 
@@ -1487,7 +1607,7 @@ Starship @Image1 takes off from the surface of the moon using cold gas thrusters
 Pure Intimacy, notice near constant forehead touching. The intimate energy transfer.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111180572626190336/img/xZM6qVfCumNMN63F.jpg" width="600" alt="Grok Imagine Kizomba Dance Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111180572626190336/img/xZM6qVfCumNMN63F.jpg" width="600" alt="Grok Imagine Prompt: Intimate Kizomba Dance">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12862)**
 
@@ -2121,155 +2241,6 @@ Ultra-realistic cinematic live-action video of a beautiful adult woman in her mi
 **Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **Published:** Oct 15, 2026
 
 ---
-### Miniature World Inside Outlet Video Prompt
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed prompt for Google Flow and Grok Imagine to generate a seamless 10-second video revealing a miniature character's room inside an electrical outlet.
-
-#### 📝 Prompt
-
-```
-[Basic Settings]
-Thoroughly analyze the attached reference image and SNS profile, design a 'small room where the character would actually live' completely originally, and generate a video.
-- Aspect Ratio: 9:16 (Vertical)
-- Duration: Approx. 10 seconds (Continuous seamless one-cut video without cuts or teleportation)
-- Style: Photorealistic macro cinematography combined with handcrafted miniature diorama aesthetics.
-
-[Profile Analysis and Interior Conversion Rules] (*Design instructions for AI*)
-Extract the following elements from the reference materials and reflect them directly in the room's interior design.
-1. Color Design (Color Palette):
-Extract the character's hair color, eye color, main and sub colors of their costume, and the tone of the profile picture, and reflect them in the shades of wallpaper, rugs, curtains, bedding, and lighting.
-2. Architectural/Interior Style:
-Translate the character's atmosphere and costume taste (Modern, Retro, Fantasy, Japanese, Cyber, Natural, Gothic, etc.) into furniture shapes and wall/floor materials.
-3. Symbolic Items (Select 3-5):
-From the profile text content (occupation, hobbies, likes, skills, worldview) and belongings, select only 3-5 items that symbolize the personality and place them in visually prominent positions within the room. (*Avoid stuffing too many small objects; maintain a balance where hobbies naturally seep into the living space.*)
-
-[10-Second Video Composition (Continuous One Cut)]
-■ 0-2 Seconds (Introduction):
-Real indoor setting. A human hand carefully removes the wall outlet cover. Realistic live-action macro photography capturing textures of plastic, wallpaper, and fingertips. From behind the cover, a small warm light tinged with the room's theme color leaks out.
-■ 2-4 Seconds (Intrusion):
-The camera slowly approaches the opening and peers inside. A deep small residential space gradually appears, and the camera scales down while naturally intruding into the miniature world.
-■ 4-8 Seconds (Daily Life):
-The camera fully enters the room. The resident reference character is living doing 'the single most fitting daily action inferred from the profile (creation, reading, cooking, playing instruments, plant care, tidying, etc.)'. Avoid excessive posing; emphasize natural daily life as if accidentally peeked upon.
-■ 8-10 Seconds (Afterglow):
-The character notices the camera, looks at it briefly, and gives a small, charming reaction. End with a lingering feeling that makes you want to peek again, leaving the warm room atmosphere and small movements.
-
-[Character and Craft Material Feel]
-- Strictly maintain the original identity (facial features, hairstyle, hair color, eyes, costume, accessories) and unify with the room scale. Characters are miniature residents; animals/mascots are not forcibly anthropomorphized but move naturally in their original form.
-- The miniature world has the texture of exquisite handmade crafts. Combine craft materials appropriate for each item, such as wood/clay furniture, fabric/yarn textiles, transparent resin bottles, dried flowers, etc., evoking fibers, knits, and the warmth of handiwork.
-- Express with shallow depth of field, natural bokeh from macro lenses, and soft warm indoor lighting.
-
-[Audio/BGM]
-- Voice: High-pitched, cute child-like small voice. Speak modestly in short fictional words that convey emotion rather than existing languages.
-- BGM: Gentle, warm music-box-style instrumental matching the room's atmosphere. Naturally mix faint daily sounds like small footsteps and rustling cloth.
-
-[Prohibited Items]
-Mixing real-sized furniture, normal wiring depiction, overstuffing small objects, character alteration/dehumanization, adding unnecessary people/animals, displaying subtitles/text/logos/watermarks, excessive magic effects, unnatural cut changes, flashy BGM.
-```
-
-<img src="https://cms-assets.youmind.com/media/1792223062429_al5hqn_HUqoV74a0AAAx3j.jpg" width="600" alt="Miniature World Inside Outlet Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12661)**
-
-**Author:** [りる🍄AI共創Enjoy🪄✨](https://x.com/wow_runa) | **Source:** [Link](https://x.com/wow_runa/status/2110690041051992192) | **Published:** Oct 15, 2026
-
----
-### K-pop choreography dance video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt describing energetic K-pop girl-group choreography with specific moves like arm isolations and hair whips for video generation.
-
-#### 📝 Prompt
-
-```
-She performs an energetic K-pop girl-group choreography, perfectly on beat. Sharp, precise moves: crisp arm isolations, quick head flicks, confident hair whip, a hip sway into a step-and-turn, then a powerful point choreography with both arms. Smooth...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110667670047563776/img/EPHDcOSZ8ZqGn9Dz.jpg" width="600" alt="K-pop choreography dance video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12603)**
-
-**Author:** [Ian spooner](https://x.com/Ianspooner18) | **Source:** [Link](https://x.com/Ianspooner18/status/2110667980489310532) | **Published:** Oct 15, 2026
-
----
-### Hummingbird Natural Movement Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt that animates a reference photo of a hummingbird with natural movement and ambient garden sounds.
-
-#### 📝 Prompt
-
-```
-Make the hummingbird move as they do in nature with ambient garden sound
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817187_2r8gua_HUp0JxMbYAABJIn.jpg" width="600" alt="Hummingbird Natural Movement Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12562)**
-
-**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110627103733698834) | **Published:** Oct 15, 2026
-
----
-### Slow Zoom Out Rainy Leaves Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt creating a slow zoom-out effect on a poinsettia image with falling water drops and quiet rain background audio.
-
-#### 📝 Prompt
-
-```
-Do a slow zoom out on this image (the leaves are from a poinsettia, make it match), let the water drops fall and hear a quiet rain background
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817834_qxvgc5_HUpw89CaYAAvjht.jpg" width="600" alt="Slow Zoom Out Rainy Leaves Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12560)**
-
-**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110623585337532456) | **Published:** Oct 15, 2026
-
----
-### Blue Tiger Gemstone Portrait Prompt
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> An image prompt for generating a blue tiger portrait made of gemstones (sapphire fur, black pearl stripes) intended for ChatGPT/Chappy, then animated with Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Portrait style of a blue tiger made of shining gems. The blue fur looks like sapphire, and the black stripes have the texture of black pearls. The eyes have a dull glow like gray moonstone. Aspect ratio 9:16. No text please 🐯
-```
-
-<img src="https://cms-assets.youmind.com/media/1792050450248_m9uuo2_HUpdk7ga0AA3w0g.jpg" width="600" alt="Blue Tiger Gemstone Portrait Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12561)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2110602413124288819) | **Published:** Oct 15, 2026
-
----
-### Roadster Speed Racer Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt combining a Tesla Roadster with Speed Racer's Mach 5 features, including jumping over speed bumps.
-
-#### 📝 Prompt
-
-```
-Build a video of the new roadster with a Speed a racer Mach 5 steering wheel and pushing a button makes it jump over speed bumps
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110582274685079552/img/ouOp906jxZ9K2t0B.jpg" width="600" alt="Roadster Speed Racer Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12556)**
-
-**Author:** [Clingdaddy](https://x.com/Clingdaddy1) | **Source:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **Published:** Oct 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2331,6 +2302,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-23T04:34:30.756Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-23T13:33:07.225Z</sub>
 
 </div>

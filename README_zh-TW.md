@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3192** |
+| 📝 提示詞總數 | **3198** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-10-23** |
 
@@ -189,6 +189,126 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 地精教授摔角策略
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 創意影片提示：地精向職業摔角選手傳授日內交易策略。
+
+#### 📝 提示詞
+
+```
+編一套當沖交易策略，然後讓地精來教職業摔角手
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113472198841188352/img/Y8RUguYmhFMnWWdl.jpg" width="600" alt="地精教授摔角策略">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12956)**
+
+**作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **來源:** [Link](https://x.com/blarneytrades/status/2113472220819542249) | **發布時間:** Oct 23, 2026
+
+---
+### Grok Imagine 影片提示：Scarlett O'Hara 交易
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 將先前的提示詞進行變體，把泛用的女王角色替換為《亂世佳人》中的 Scarlett O'Hara。
+
+#### 📝 提示詞
+
+```
+編一套當沖交易策略，讓一個地精教給 25 歲、留著一頭紅髮的 Scarlett O'Hara
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113467945389084672/img/YZVtANzlJ56--xT7.jpg" width="600" alt="Grok Imagine 影片提示：Scarlett O'Hara 交易">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12959)**
+
+**作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **來源:** [Link](https://x.com/blarneytrades/status/2113467965798842614) | **發布時間:** Oct 23, 2026
+
+---
+### Grok Imagine Video Prompt：地精傳授交易技巧
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段超現實的影片提示，內容為一名地精向紅髮高加索埃及女王傳授日內交易策略。
+
+#### 📝 提示詞
+
+```
+編一套當沖交易策略，然後讓一個地精把這套策略教給一位 25 歲、紅髮的白人埃及女王
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113466829406339072/img/cviZqEw214MzQkDA.jpg" width="600" alt="Grok Imagine Video Prompt：地精傳授交易技巧">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12957)**
+
+**作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **來源:** [Link](https://x.com/blarneytrades/status/2113466855172042931) | **發布時間:** Oct 23, 2026
+
+---
+### Grok Imagine：地精日內交易
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段超現實的影片提示，描述一位地精向戴著王冠珠寶的紅髮女王傳授日內交易策略。
+
+#### 📝 提示詞
+
+```
+編一套當沖交易策略，然後讓一個地精把這套策略教給他 25 歲、美若天仙的紅髮女王，而且她身上還戴著 Crown Jewels（英國王室御寶）。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113465581189967872/img/xFyY8CU2uixgOoGF.jpg" width="600" alt="Grok Imagine：地精日內交易">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12961)**
+
+**作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **來源:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **發布時間:** Oct 23, 2026
+
+---
+### 精準口型同步影片生成
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 提供詳細的提示詞，用於結合身分參考影像與音訊來源生成口型同步影片，並包含關於嘴部動作及子音清晰度的具體指示。
+
+#### 📝 提示詞
+
+```
+請將附件圖片作為完全一致的人物身分參考。
+請將附件音訊作為完全一致的唇形同步來源。
+
+唇形同步：
+- 精準掌握每個音節的時間點
+- 全程保持嘴型微張且幅度狹窄；切勿張大嘴巴
+- 透過唇形變化讓子音清晰俐落
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113216625063419904/img/TLjNUGrkce2fBVDT.jpg" width="600" alt="精準口型同步影片生成">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12958)**
+
+**作者:** [レイヴ](https://x.com/raves9361) | **來源:** [Link](https://x.com/raves9361/status/2113216645950775792) | **發布時間:** Oct 22, 2026
+
+---
+### 龍與尼泊爾女性插畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片或圖片提示詞，用於生成描繪金色龍與身穿傳統服飾的尼泊爾女性的點彩派插畫。
+
+#### 📝 提示詞
+
+```
+繪本風格，點描派插畫：一隻身上帶有金色花紋裝飾、親切友善、充滿力量又甜美的龍，有著紅色鱗片輪廓，與一位身穿傳統服飾、氣質溫婉的尼泊爾女士深情互動。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113190635746537472/img/QdkqV2UFMD-JSL7L.jpg" width="600" alt="龍與尼泊爾女性插畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12960)**
+
+**作者:** [Carina](https://x.com/Freehere8) | **來源:** [Link](https://x.com/Freehere8/status/2113190653870125111) | **發布時間:** Oct 22, 2026
+
+---
 ### Grok Imagine 影片提示詞 - 萬聖節遊行
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2121,155 +2241,6 @@ Elon Musk 化身為一名揮舞軍刀的豪邁海盜，用牙齒咬著軍刀，�
 **作者:** [Rizi](https://x.com/Rizi_ru) | **來源:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **發布時間:** Oct 15, 2026
 
 ---
-### 插座內的微觀世界影片提示詞
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 為 Google Flow 和 Grok Imagine 設計的詳細提示詞，用於生成一段無縫的 10 秒影片，揭示插座內迷你角色的房間。
-
-#### 📝 提示詞
-
-```
-[基本設定]
-徹底分析附帶的參考圖像與 SNS 個人檔案，完全原創地設計一個「角色實際居住的房間」，並生成影片。
-- 長寬比：9:16 (直式)
-- 時長：約 10 秒 (連續無縫的一鏡到底影片，無剪接或瞬移)
-- 風格：寫實微距攝影結合手工製作微型模型的美學。
-
-[個人檔案分析與室內轉換規則] (*AI 設計指令*)
-從參考資料中提取以下元素，並直接反映在房間的室內設計中。
-1. 色彩設計 (Color Palette)：
-提取角色的髮色、瞳色、服裝的主色與副色，以及頭像的色調，並將其反映在壁紙、地毯、窗簾、寢具和照明的色澤上。
-2. 建築/室內風格：
-將角色的氛圍與服裝品味 (現代、復古、奇幻、日式、賽博、自然、哥德等) 轉化為家具形狀及牆面/地板材質。
-3. 象徵性物品 (選擇 3-5 件)：
-從個人檔案內容 (職業、興趣、喜好、技能、世界觀) 和所有物中，僅選擇 3-5 件能象徵個性的物品，並放置在房間內視覺顯著的位置。(*避免塞入過多小物件；保持興趣自然滲透至生活空間的平衡感。*)
-
-[10 秒影片結構 (連續一鏡到底)]
-■ 0-2 秒 (引入)：
-真實的室內場景。一隻人手小心地取下牆上的插座蓋板。透過寫實的真人微距攝影捕捉塑膠、壁紙和指尖的質感。從蓋板後方，透出帶有房間主題色的微弱暖光。
-■ 2-4 秒 (進入)：
-鏡頭緩慢靠近開口並向內窺視。深邃的小型居住空間逐漸顯現，鏡頭隨之縮小，自然地侵入這個微觀世界。
-■ 4-8 秒 (日常生活)：
-鏡頭完全進入房間。參考角色正在進行「從個人檔案推斷出的最合適單一日常動作 (創作、閱讀、烹飪、演奏樂器、照顧植物、整理等)」。避免過度擺姿勢；強調如同不小心窺見般的自然日常生活。
-■ 8-10 秒 (餘韻)：
-角色注意到鏡頭，短暫地看向它，並給出一個小巧迷人的反應。以令人想再次窺探的 lingering feeling 作結，留下溫暖的房間氛圍和細微的動作。
-
-[角色與工藝材質感]
-- 嚴格維持原始身分特徵 (五官、髮型、髮色、眼睛、服裝、配飾)，並與房間比例統一。角色是微觀居民；動物/吉祥物不強制擬人化，而是以原本形態自然移動。
-- 微觀世界具有精緻手工藝品的質感。為每個物品搭配適當的工艺材料，如木製/黏土家具、布料/毛線織品、透明樹脂瓶、乾花等，喚起纖維、針織感和手作溫度。
-- 使用淺景深、微距鏡頭產生的自然散景 (bokeh) 以及柔和的室內暖光來表現。
-
-[音訊/BGM]
-- 聲音：高音調、可愛的孩童般小聲。用簡短的虛構語句謙遜地說話，傳達情感而非現有語言。
-- BGM：溫和、溫暖的音樂盒風格純音樂，符合房間氛圍。自然混合輕微的日常聲音，如小腳步聲和布料摩擦聲。
-
-[禁止事項]
-混入真實尺寸的家具、描繪正常電線、塞滿過多小物件、改變角色形象/去人性化、添加不必要的人物/動物、顯示字幕/文字/標誌/浮水印、過度的魔法特效、不自然的剪接變化、喧賓奪主的 BGM。
-```
-
-<img src="https://cms-assets.youmind.com/media/1792223062429_al5hqn_HUqoV74a0AAAx3j.jpg" width="600" alt="插座內的微觀世界影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12661)**
-
-**作者:** [りる🍄AI共創Enjoy🪄✨](https://x.com/wow_runa) | **來源:** [Link](https://x.com/wow_runa/status/2110690041051992192) | **發布時間:** Oct 15, 2026
-
----
-### K-pop 編舞舞蹈影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段詳細的提示詞，描述充滿活力的 K-pop 女團編舞，包含手臂分離動作和甩髮等特定動作，適用於影片生成。
-
-#### 📝 提示詞
-
-```
-她表演了一段充滿活力的 K-pop 女團編舞，完美地踩在節拍上。動作俐落精準：清晰的手臂分離動作、快速的甩頭、自信地甩髮、臀部搖擺進入踏步轉體，接著是雙手並用的有力指點式編舞。流暢...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110667670047563776/img/EPHDcOSZ8ZqGn9Dz.jpg" width="600" alt="K-pop 編舞舞蹈影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12603)**
-
-**作者:** [Ian spooner](https://x.com/Ianspooner18) | **來源:** [Link](https://x.com/Ianspooner18/status/2110667980489310532) | **發布時間:** Oct 15, 2026
-
----
-### Grok Imagine 影片提示詞：蜂鳥動態與環境音效
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 影片生成提示詞：讓參考照片中的蜂鳥自然移動，並搭配花園環境音效。
-
-#### 📝 提示詞
-
-```
-讓蜂鳥以自然界中的姿態自然移動，並搭配花園的環境音效
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817187_2r8gua_HUp0JxMbYAABJIn.jpg" width="600" alt="Grok Imagine 影片提示詞：蜂鳥動態與環境音效">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12562)**
-
-**作者:** [Melissa Escárcega](https://x.com/GoEsM3li) | **來源:** [Link](https://x.com/GoEsM3li/status/2110627103733698834) | **發布時間:** Oct 15, 2026
-
----
-### Grok Imagine 影片提示詞：伴隨雨聲的緩慢縮放效果
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的影片生成提示詞，可對一品紅葉片的參考影像套用緩慢縮放效果，並加入落下的水滴與環境雨聲。
-
-#### 📝 提示詞
-
-```
-請對此影像進行緩慢縮放（葉片為一品紅，請確保風格一致），讓水滴落下，並搭配平靜的雨聲作為背景音效
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817834_qxvgc5_HUpw89CaYAAvjht.jpg" width="600" alt="Grok Imagine 影片提示詞：伴隨雨聲的緩慢縮放效果">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12560)**
-
-**作者:** [Melissa Escárcega](https://x.com/GoEsM3li) | **來源:** [Link](https://x.com/GoEsM3li/status/2110623585337532456) | **發布時間:** Oct 15, 2026
-
----
-### 藍虎寶石肖像提示詞
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 用於生成由寶石組成的藍虎肖像的圖像提示詞（蓝宝石皮毛、黑珍珠條紋），適用於 ChatGPT/Chappy，並使用 Grok Imagine 進行動畫製作。
-
-#### 📝 提示詞
-
-```
-一隻由閃亮寶石構成的藍虎肖像風格。藍色皮毛看起來像蓝宝石，黑色條紋具有黑珍珠的質感。眼睛散發著如灰色月光石般柔和的光芒。長寬比 9:16。請不要包含文字 🐯
-```
-
-<img src="https://cms-assets.youmind.com/media/1792050450248_m9uuo2_HUpdk7ga0AA3w0g.jpg" width="600" alt="藍虎寶石肖像提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12561)**
-
-**作者:** [華月光](https://x.com/hanagekkou) | **來源:** [Link](https://x.com/hanagekkou/status/2110602413124288819) | **發布時間:** Oct 15, 2026
-
----
-### Roadster 跳躍動作
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片提示，展示一款全新 Roadster 跑車，配備《馬赫五號》風格的方向盤，正在飛越減速丘。
-
-#### 📝 提示詞
-
-```
-製作一段新 Roadster 的影片，搭配 Speed Racer Mach 5 方向盤，按下按鈕即可讓車輛飛越減速丘
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110582274685079552/img/ouOp906jxZ9K2t0B.jpg" width="600" alt="Roadster 跳躍動作">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12556)**
-
-**作者:** [Clingdaddy](https://x.com/Clingdaddy1) | **來源:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **發布時間:** Oct 15, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2331,6 +2302,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-23T04:34:32.331Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-23T13:33:09.058Z</sub>
 
 </div>

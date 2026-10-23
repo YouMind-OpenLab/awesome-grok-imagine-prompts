@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3192** |
+| 📝 Total Prompts | **3198** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-23** |
 
@@ -189,6 +189,126 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### กลยุทธ์การปล้ำสอนโดยกนอม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงสร้างสรรค์ที่แสดงภาพกนอมกำลังสอนกลยุทธ์การเทรดรายวันให้กับนักมวยปล้ำมืออาชีพ
+
+#### 📝 Prompt
+
+```
+คิดค้นกลยุทธ์เทรดรายวันขึ้นมา แล้วให้โนม (Gnome) เป็นคนสอนนักมวยปล้ำอาชีพ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113472198841188352/img/Y8RUguYmhFMnWWdl.jpg" width="600" alt="กลยุทธ์การปล้ำสอนโดยกนอม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12956)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113472220819542249) | **Published:** Oct 23, 2026
+
+---
+### Grok Imagine Video Prompt: การเทรดของ Scarlett O'Hara
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ตัวแปรของพรอมต์ก่อนหน้า โดยเปลี่ยนจากราชินีทั่วไปเป็น Scarlett O'Hara
+
+#### 📝 Prompt
+
+```
+คิดค้นกลยุทธ์เทรดรายวันขึ้นมา แล้วให้โนม (Gnome) ตัวจิ๋วเป็นคนสอน Scarlett O’Hara วัย 25 ปีที่มีผมสีแดง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113467945389084672/img/YZVtANzlJ56--xT7.jpg" width="600" alt="Grok Imagine Video Prompt: การเทรดของ Scarlett O'Hara">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12959)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113467965798842614) | **Published:** Oct 23, 2026
+
+---
+### พรอมต์วิดีโอ Grok Imagine: นักรบสอนการเทรด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเหนือจริงที่แสดงภาพนักรบกำลังสอนกลยุทธ์การเทรดรายวันแก่ราชินีอียิปต์ผมแดงผิวขาว
+
+#### 📝 Prompt
+
+```
+คิดค้นกลยุทธ์เทรดรายวันขึ้นมา แล้วให้โนม (Gnome) เป็นคนสอนราชินีอียิปต์สาววัย 25 ปี ผิวขาว ผมแดง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113466829406339072/img/cviZqEw214MzQkDA.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine: นักรบสอนการเทรด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12957)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113466855172042931) | **Published:** Oct 23, 2026
+
+---
+### Grok Imagine: นวดกนอมสอนกลยุทธ์ Day Trading
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเหนือจริงที่กนอมสอนกลยุทธ์ Day Trading ให้ราชินีผมแดงผู้สวมเครื่องราชกกุธภัณฑ์
+
+#### 📝 Prompt
+
+```
+คิดค้นกลยุทธ์ Day Trading ขึ้นมาสักหนึ่งกลยุทธ์ แล้วให้โนม (gnome) ตัวหนึ่งเป็นคนสอนให้กับราชินีผมแดงสุดสวยวัย 25 ปี ที่สวมเครื่องราชกกุธภัณฑ์ (Crown Jewels) อยู่
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113465581189967872/img/xFyY8CU2uixgOoGF.jpg" width="600" alt="Grok Imagine: นวดกนอมสอนกลยุทธ์ Day Trading">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12961)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **Published:** Oct 23, 2026
+
+---
+### สร้างวิดีโอ Lip-Sync ที่แม่นยำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt แบบละเอียดสำหรับการสร้างวิดีโอ lip-sync โดยใช้ภาพอ้างอิงตัวตนและแหล่งเสียง พร้อมคำแนะนำเฉพาะเกี่ยวกับการเคลื่อนไหวของปากและความชัดเจนของพยัญชนะ
+
+#### 📝 Prompt
+
+```
+ใช้รูปภาพที่แนบมาเป็นข้อมูลอ้างอิงตัวตนให้ตรงกันทุกประการ
+ใช้ไฟล์เสียงที่แนบมาเป็นต้นฉบับสำหรับทำ Lip-sync ให้ตรงกันทุกประการ
+
+Lip-sync:
+- จังหวะการขยับปากตรงกับพยางค์อย่างแม่นยำ
+- อ้าปากเพียงเล็กน้อยและแคบตลอดทั้งคลิป ห้ามอ้าปากกว้างเด็ดขาด
+- พยัญชนะชัดเจนผ่านการควบคุมรูปทรงริมฝีปาก
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113216625063419904/img/TLjNUGrkce2fBVDT.jpg" width="600" alt="สร้างวิดีโอ Lip-Sync ที่แม่นยำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12958)**
+
+**Author:** [レイヴ](https://x.com/raves9361) | **Source:** [Link](https://x.com/raves9361/status/2113216645950775792) | **Published:** Oct 22, 2026
+
+---
+### ภาพประกอบมังกรและสตรีเนปาล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอ/ภาพสำหรับภาพประกอบสไตล์จุดสี (Pointillism) ที่แสดงมังกรทองและสตรีเนปาลในชุดพื้นเมือง
+
+#### 📝 Prompt
+
+```
+สไตล์หนังสือภาพประกอบเด็ก ภาพวาดแบบพอยน์ทิลลิสม์ (Pointillism) ของมังกรที่ดูเป็นมิตร ทรงพลัง และน่ารักน่าเอ็นดู มีลวดลายประดับสีทอง เกล็ดตัดขอบสีแดง กำลังแสดงความรักความผูกพันอย่างอ่อนโยนกับหญิงสาวชาวเนปาลผู้ใจดีในชุดพื้นเมือง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113190635746537472/img/QdkqV2UFMD-JSL7L.jpg" width="600" alt="ภาพประกอบมังกรและสตรีเนปาล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12960)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2113190653870125111) | **Published:** Oct 22, 2026
+
+---
 ### Grok Imagine Video Prompt - ขบวนพาเหรดวันฮาโลวีน
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2128,155 +2248,6 @@ Elon Musk ในบทบาทโจรสลัดผู้กล้าหา�
 **Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **Published:** Oct 15, 2026
 
 ---
-### พรอมต์วิดีโอโลกจิ๋วภายในปลั๊กไฟ
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์ละเอียดสำหรับ Google Flow และ Grok Imagine เพื่อสร้างวิดีโอต่อเนื่อง 10 วินาที เผยให้เห็นห้องของตัวละครขนาดจิ๋วที่อยู่ภายในเต้ารับไฟฟ้า
-
-#### 📝 Prompt
-
-```
-[การตั้งค่าพื้นฐาน]
-วิเคราะห์ภาพอ้างอิงและโปรไฟล์ SNS ที่แนบมาอย่างละเอียด ออกแบบ 'ห้องเล็กๆ ที่ตัวละครจะอาศัยอยู่จริง' ขึ้นใหม่ทั้งหมดโดยไม่มีต้นแบบ แล้วสร้างวิดีโอ
-- อัตราส่วน: 9:16 (แนวตั้ง)
-- ความยาว: ประมาณ 10 วินาที (วิดีโอช็อตเดียวต่อเนื่องไร้รอยต่อ ไม่มีการตัดสลับหรือวาร์ป)
-- สไตล์: การถ่ายทำมาโครสมจริง ผสมผสานกับสุนทรียศาสตร์ของโมเดลจิ๋วที่ประดิษฐ์ขึ้นด้วยมือ
-
-[กฎการวิเคราะห์โปรไฟล์และการแปลงเป็นงานตกแต่งภายใน] (*คำแนะนำการออกแบบสำหรับ AI*)
-ดึงองค์ประกอบต่อไปนี้จากข้อมูลอ้างอิงและสะท้อนลงในดีไซน์ภายในห้องโดยตรง
-1. การออกแบบสี (Color Palette):
-ดึงสีผม สีตา สีหลักและสีรองของชุดแต่งกาย รวมถึงโทนสีของรูปโปรไฟล์ มาใช้กำหนดเฉดสีของวอลเปเปอร์ พรม ม่าน ชุดเครื่องนอน และแสงไฟ
-2. สถาปัตยกรรม/สไตล์ภายใน:
-แปลบรรยากาศและรสนิยมการแต่งตัวของตัวละคร (เช่น Modern, Retro, Fantasy, Japanese, Cyber, Natural, Gothic ฯลฯ) ให้เป็นรูปทรงเฟอร์นิเจอร์และวัสดุผนัง/พื้น
-3. ไอเทมเชิงสัญลักษณ์ (เลือก 3-5 ชิ้น):
-จากเนื้อหาในโปรไฟล์ (อาชีพ งานอดิเรก สิ่งที่ชอบ ทักษะ มุมมองโลก) และข้าวของส่วนตัว เลือกเฉพาะ 3-5 ชิ้นที่เป็นตัวแทนของบุคลิกภาพและวางไว้ในจุดที่มองเห็นได้ชัดในห้อง (*หลีกเลี่ยงการยัดเยียดวัตถุชิ้นเล็กมากเกินไป รักษาสัดส่วนให้กิจกรรมยามว่างซึมซับเข้าสู่อวกาศการอยู่อาศัยอย่างเป็นธรรมชาติ*)
-
-[โครงสร้างวิดีโอ 10 วินาที (One Cut ต่อเนื่อง)]
-■ 0-2 วินาที (บทนำ):
-ฉากภายในบ้านจริง มือมนุษย์ค่อยๆ ถอดฝาครอบเต้ารับออก ถ่ายภาพมาโครสมจริงจับรายละเอียดผิวสัมผัสของพลาสติก วอลเปเปอร์ และปลายนิ้ว แสงอุ่นขนาดเล็กเจือโทนสีธีมของห้องลอดออกมาจากหลังฝาครอบ
-■ 2-4 วินาที (การแทรกซึม):
-กล้องเคลื่อนเข้าใกล้ช่องเปิดอย่างช้าๆ และมองเข้าไปข้างใน พื้นที่อยู่อาศัยขนาดเล็กแต่ลึกปรากฏขึ้นทีละน้อย กล้องย่อขนาดลงพร้อมแทรกซึมเข้าสู่โลกจิ๋วอย่างแนบเนียน
-■ 4-8 วินาที (ชีวิตประจำวัน):
-กล้องเข้ามาในห้องเต็มรูปแบบ ตัวละครอ้างอิงเจ้าของห้องกำลังทำ 'กิจกรรมประจำวันที่เหมาะสมที่สุดเพียงหนึ่งอย่างซึ่งอนุมานได้จากโปรไฟล์ (เช่น สร้างสรรค์ผลงาน อ่านหนังสือ ทำอาหาร เล่นดนตรี ดูแลต้นไม้ จัดระเบียบ ฯลฯ)' หลีกเลี่ยงการจัดท่าทางเกินจริง เน้นชีวิตประจำวันตามธรรมชาติราวกับบังเอิญแอบเห็น
-■ 8-10 วินาที (ความประทับใจทิ้งท้าย):
-ตัวละครสังเกตเห็นกล้อง มองกลับมาชั่วครู่ และแสดงปฏิกิริยาเล็กน้อยที่น่ารัก จบด้วยอารมณ์ค้างคาที่ทำให้รู้สึกอยากแอบมองอีกครั้ง โดยเหลือไว้ซึ่งบรรยากาศอบอุ่นของห้องและการเคลื่อนไหวเล็กๆ น้อยๆ
-
-[ความรู้สึกของตัวละครและวัสดุงานฝีมือ]
-- รักษาตัวตนเดิมไว้อย่างเคร่งครัด (ลักษณะใบหน้า ทรงผม สีผม ดวงตา ชุดแต่งกาย เครื่องประดับ) และปรับให้สอดคล้องกับสัดส่วนของห้อง ตัวละครคือผู้อยู่อาศัยขนาดจิ๋ว สัตว์/มาสคอตไม่ถูกบังคับให้เป็น擬人化 (anthropomorphized) แต่เคลื่อนไหวตามธรรมชาติในรูปร่างเดิม
-- โลกจิ๋วมีเนื้อสัมผัสของงานฝีมือประณีต ใช้วัสดุงานฝีมือที่เหมาะสมกับแต่ละชิ้น เช่น เฟอร์นิเจอร์ไม้/ดินเหนียว สิ่งทอผ้า/ไหมพรม ขวดเรซินแห้ง ดอกไม้แห้ง เป็นต้น สื่อถึงเส้นใย งานถัก และความอบอุ่นจากฝีมือมนุษย์
-- แสดงผลด้วยระยะชัดลึกตื้น (Shallow depth of field) โบเก้ธรรมชาติจากการถ่ายภาพมาโคร และแสงไฟในบ้านโทนอุ่นนุ่มนวล
-
-[เสียง]
-- เสียงพูด: เสียงสูงแหลมแบบเด็กตัวเล็ก พูดจาสุภาพด้วยคำสั้นๆ ในจินตนาการที่สื่ออารมณ์ ไม่ใช่ภาษาจริง
-- เพลงประกอบ (BGM): ดนตรีบรรเลงสไตล์กล่องเพลงที่เข้ากับบรรยากาศห้อง ผสมเสียงแวดล้อมเบาๆ เช่น เสียงฝีเท้าเล็กๆ หรือเสียงผ้าเสียดสีอย่างเป็นธรรมชาติ
-
-[ข้อห้าม]
-ห้ามผสมเฟอร์นิเจอร์ขนาดใหญ่จริง ห้ามแสดงสายไฟแบบสมจริงทั่วไป ห้ามยัดเยียดวัตถุชิ้นเล็กจำนวนมาก ห้ามเปลี่ยนเอกลักษณ์ตัวละคร ห้ามใส่สัตว์/สิ่งมีชีวิตที่ไม่เกี่ยวข้อง ห้ามแสดงข้อความบนหน้าจอ และห้ามใช้เอฟเฟกต์เวทมนตร์หรือเทคโนโลยีล้ำสมัย
-```
-
-<img src="https://cms-assets.youmind.com/media/1792223062429_al5hqn_HUqoV74a0AAAx3j.jpg" width="600" alt="พรอมต์วิดีโอโลกจิ๋วภายในปลั๊กไฟ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12661)**
-
-**Author:** [りる🍄AI共創Enjoy🪄✨](https://x.com/wow_runa) | **Source:** [Link](https://x.com/wow_runa/status/2110690041051992192) | **Published:** Oct 15, 2026
-
----
-### วิดีโอท่าเต้น K-pop choreography
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์รายละเอียดที่อธิบายท่าเต้น K-pop ของเกิร์ลกรุ๊ปอย่างมีพลัง พร้อมท่าเฉพาะ เช่น การแยกแขน (arm isolations) และการสะบัดผม สำหรับใช้ในการสร้างวิดีโอ
-
-#### 📝 Prompt
-
-```
-เธอแสดงท่าเต้น K-pop ของเกิร์ลกรุ๊ปอย่างมีพลัง ตรงจังหวะเป๊ะทุกท่า: แยกแขน (arm isolations) อย่างคมชัด, สะบัดศีรษะเร็ว ๆ, สะบัดผมอย่างมั่นใจ, เต้นสะโพกพร้อมหมุนตัว, จากนั้นจบด้วยท่าชี้ทรงพลังโดยใช้ทั้งสองแขน อย่างลื่นไหล...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110667670047563776/img/EPHDcOSZ8ZqGn9Dz.jpg" width="600" alt="วิดีโอท่าเต้น K-pop choreography">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12603)**
-
-**Author:** [Ian spooner](https://x.com/Ianspooner18) | **Source:** [Link](https://x.com/Ianspooner18/status/2110667980489310532) | **Published:** Oct 15, 2026
-
----
-### Grok Imagine Video Prompt: การเคลื่อนไหวของนกฮัมมิงเบิร์ดและเสียงบรรยากาศ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างวิดีโอสำหรับ Grok Imagine ที่ทำให้ภาพนกฮัมมิงเบิร์ดในรูปอ้างอิงเคลื่อนไหวอย่างเป็นธรรมชาติ พร้อมเสียงบรรยากาศในสวน
-
-#### 📝 Prompt
-
-```
-ทำให้นกฮัมมิงเบิร์ดเคลื่อนไหวตามธรรมชาติพร้อมเสียงบรรยากาศในสวน
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817187_2r8gua_HUp0JxMbYAABJIn.jpg" width="600" alt="Grok Imagine Video Prompt: การเคลื่อนไหวของนกฮัมมิงเบิร์ดและเสียงบรรยากาศ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12562)**
-
-**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110627103733698834) | **Published:** Oct 15, 2026
-
----
-### Grok Imagine Video Prompt: ซูมออกช้าๆ พร้อมเสียงฝน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอใน Grok Imagine ที่ช่วยสร้างเอฟเฟกต์ซูมออกช้าๆ บนภาพอ้างอิงของใบพอยน์เซตเทีย พร้อมเพิ่มหยดน้ำที่ตกลงมาและเสียงฝนประกอบบรรยากาศ
-
-#### 📝 Prompt
-
-```
-ทำเอฟเฟกต์ซูมออกช้าๆ บนภาพนี้ (ใบไม้เป็นของต้นพอยน์เซตเทีย ทำให้มันดูสมจริง) ให้มีหยดน้ำตกลงมา และใส่เสียงฝนเบาๆ เป็นพื้นหลัง
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817834_qxvgc5_HUpw89CaYAAvjht.jpg" width="600" alt="Grok Imagine Video Prompt: ซูมออกช้าๆ พร้อมเสียงฝน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12560)**
-
-**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110623585337532456) | **Published:** Oct 15, 2026
-
----
-### พรอมต์ภาพ Portrait อัญมณีรูปเสือสีน้ำเงิน
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์สำหรับสร้างภาพ Portrait เสือสีน้ำเงินที่ทำจากอัญมณี (ขนเป็นไพลิน ลายทางเป็นไข่มุกดำ) สำหรับ ChatGPT/Chappy จากนั้นนำไปทำแอนิเมชันด้วย Grok Imagine
-
-#### 📝 Prompt
-
-```
-สไตล์ภาพ Portrait ของเสือสีน้ำเงินที่สร้างขึ้นจากอัญมณีแวววาว ขนสีน้ำเงินมีลักษณะเหมือนไพลิน และลายทางสีดำมีพื้นผิวเหมือนไข่มุกดำ ดวงตามีแสงเรืองรองคล้ายมูนสโตนสีเทา อัตราส่วนภาพ 9:16 ไม่ใส่ข้อความ 🐯
-```
-
-<img src="https://cms-assets.youmind.com/media/1792050450248_m9uuo2_HUpdk7ga0AA3w0g.jpg" width="600" alt="พรอมต์ภาพ Portrait อัญมณีรูปเสือสีน้ำเงิน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12561)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2110602413124288819) | **Published:** Oct 15, 2026
-
----
-### แอ็กชันรถโรดสเตอร์กระโดด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอที่แสดงรถโรดสเตอร์รุ่นใหม่พร้อมพวงมาลัย Speed Racer Mach 5 กระโดดข้ามลูกระนาด
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอของรถโรดสเตอร์รุ่นใหม่ที่มีพวงมาลัย Speed Racer Mach 5 และเมื่อปุ่มถูกกด รถจะกระโดดข้ามลูกระนาด
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110582274685079552/img/ouOp906jxZ9K2t0B.jpg" width="600" alt="แอ็กชันรถโรดสเตอร์กระโดด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12556)**
-
-**Author:** [Clingdaddy](https://x.com/Clingdaddy1) | **Source:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **Published:** Oct 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2338,6 +2309,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-23T04:34:34.064Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-23T13:33:11.844Z</sub>
 
 </div>

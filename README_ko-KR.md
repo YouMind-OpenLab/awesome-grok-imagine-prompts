@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3192** |
+| 📝 총 프롬프트 수 | **3198** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-10-23** |
 
@@ -189,6 +189,126 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 난쟁이의 프로 레슬링 선수 대상 데이 트레이딩 전략 강의
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 프로 레슬링 선수를 가르치는 난쟁이가 데이 트레이딩 전략을 설명하는 창의적인 영상 프롬프트.
+
+#### 📝 프롬프트
+
+```
+데이 트레이딩 전략을 하나 만들어서, 난쟁이가 프로 레슬러에게 그걸 가르치게 해 보세요
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113472198841188352/img/Y8RUguYmhFMnWWdl.jpg" width="600" alt="난쟁이의 프로 레슬링 선수 대상 데이 트레이딩 전략 강의">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12956)**
+
+**작성자:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **출처:** [Link](https://x.com/blarneytrades/status/2113472220819542249) | **게시일:** Oct 23, 2026
+
+---
+### Grok Imagine Video 프롬프트: 스칼렛 오하라 거래
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 이전 프롬프트의 변형으로, 일반적인 여왕을 Scarlett O'Hara로 대체한 버전입니다.
+
+#### 📝 프롬프트
+
+```
+데이 트레이딩 전략을 하나 만들어서, 난쟁이가 빨간 머리의 25 세 스칼렛 오하라(Scarlett O'Hara)에게 그것을 가르쳐 주게 해 주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113467945389084672/img/YZVtANzlJ56--xT7.jpg" width="600" alt="Grok Imagine Video 프롬프트: 스칼렛 오하라 거래">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12959)**
+
+**작성자:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **출처:** [Link](https://x.com/blarneytrades/status/2113467965798842614) | **게시일:** Oct 23, 2026
+
+---
+### Grok Imagine Video 프롬프트: 노움이 트레이딩을 가르치는 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 붉은 머리의 백인 이집트 여왕에게 데이 트레이딩 전략을 가르치는 노움의 초현실적인 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+데이 트레이딩 전략을 하나 만들어서, 난쟁이가 빨간 머리를 한 25 세 백인 이집트 여왕에게 그 전략을 가르치게 해줘
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113466829406339072/img/cviZqEw214MzQkDA.jpg" width="600" alt="Grok Imagine Video 프롬프트: 노움이 트레이딩을 가르치는 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12957)**
+
+**작성자:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **출처:** [Link](https://x.com/blarneytrades/status/2113466855172042931) | **게시일:** Oct 23, 2026
+
+---
+### Grok Imagine 그놈 데이 트레이딩
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 크라운 주얼리를 착용한 붉은 머리 여왕에게 데이 트레이딩 전략을 가르치는 노움의 초현실적인 영상 프롬프트.
+
+#### 📝 프롬프트
+
+```
+데이 트레이딩 전략을 하나 만들어서, 왕관 보석(Crown Jewels)을 착용한 25 세의 아름다운 붉은 머리 여왕에게 난쟁이가 그것을 가르쳐 주게 해 주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113465581189967872/img/xFyY8CU2uixgOoGF.jpg" width="600" alt="Grok Imagine 그놈 데이 트레이딩">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12961)**
+
+**작성자:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **출처:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **게시일:** Oct 23, 2026
+
+---
+### 정밀한 입모양 동기화 영상 생성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 신원 참조 이미지와 오디오 소스를 사용하여 입모양 동기화 영상을 생성하기 위한 상세한 프롬프트로, 입술 움직임과 자음 명확성에 대한 구체적인 지침을 포함합니다.
+
+#### 📝 프롬프트
+
+```
+첨부된 이미지를 정확한 아이덴티티 레퍼런스로 사용하세요.
+첨부된 오디오를 정확한 립싱크 소스로 사용하세요.
+
+립싱크:
+- 정교한 음절 타이밍
+- 입이 벌어지는 정도는 전체적으로 미세하고 좁게 유지하며, 절대 크게 벌리지 마세요
+- 입술 모양을 활용한 또렷한 자음 발음
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113216625063419904/img/TLjNUGrkce2fBVDT.jpg" width="600" alt="정밀한 입모양 동기화 영상 생성">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12958)**
+
+**작성자:** [レイヴ](https://x.com/raves9361) | **출처:** [Link](https://x.com/raves9361/status/2113216645950775792) | **게시일:** Oct 22, 2026
+
+---
+### 용과 네팔 여성 일러스트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 전통 의상을 입은 네팔 여성과 황금 용을 묘사한 점화법 스타일의 영상 및 이미지 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+그림책 스타일, 점묘화 일러스트. 황금빛 무늬가 새겨진 장식품, 붉은 비늘 윤곽을 지닌 다정하면서도 강인하고 사랑스러운 용과 네팔 전통 의상을 입은 따뜻한 인상의 여성이 정답게 교감하는 모습.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113190635746537472/img/QdkqV2UFMD-JSL7L.jpg" width="600" alt="용과 네팔 여성 일러스트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12960)**
+
+**작성자:** [Carina](https://x.com/Freehere8) | **출처:** [Link](https://x.com/Freehere8/status/2113190653870125111) | **게시일:** Oct 22, 2026
+
+---
 ### Grok Imagine Video 프롬프트 - 할로윈 퍼레이드
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2123,151 +2243,6 @@ Elon Musk가 이를 악물고 Sabre(검)를 물고 있으며, Jeff Bezos를 닮�
 **작성자:** [Rizi](https://x.com/Rizi_ru) | **출처:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **게시일:** Oct 15, 2026
 
 ---
-### 콘센트 속 미니어처 세계 영상 프롬프트
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Google Flow 및 Grok Imagine을 사용하여 전기 콘센트 내부의 미니어처 캐릭터 방을 드러내는 매끄러운 10초 영상을 생성하기 위한 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-[기본 설정]
-첨부된 참고 이미지와 SNS 프로필을 철저히 분석하여, '캐릭터가 실제로 거주할 것 같은 작은 방'을 완전히 독자적으로 디자인하고 영상을 생성하세요.
-- 화면 비율: 9:16 (세로)
-- 길이: 약 10초 (컷 전환이나 순간이동 없는 연속적인 원테이크 시ーム리스 영상)
-- 스타일: 사진처럼 사실적인 매크로 촬영과 수제 미니어처 디오라마 미학의 결합.
-
-[프로필 분석 및 인테리어 변환 규칙] (*AI를 위한 디자인 지침*)
-참고 자료에서 다음 요소를 추출하여 방의 인테리어 디자인에 직접 반영하세요.
-1. 색상 디자인 (색상 팔레트):
-캐릭터의 헤어 컬러, 눈동자 색, 의상의 메인 및 서브 컬러, 프로필 사진의 톤을 추출하여 벽지, 러그, 커튼, 침구, 조명의 그라데이션에 반영하세요.
-2. 건축/인테리어 스타일:
-캐릭터의 분위기 및 의상 취향(모던, 레트로, 판타지, 일본풍, 사이버펑크, 내추럴, 고딕 등)을 가구 형태와 벽/바닥 소재로 번역하세요.
-3. 상징적 아이템 (3~5개 선택):
-프로필 텍스트 내용(직업, 취미, 선호도, 기술, 세계관)과 소지품 중에서 개성을 상징하는 단 3~5개의 아이템만 선택하여 방 내에서 시각적으로 눈에 띄는 위치에 배치하세요. (*작은 물건들을 과도하게 채워 넣지 말고, 취미가 생활 공간에 자연스럽게 스며든 균형을 유지하세요.*)
-
-[10초 영상 구성 (연속 원테이크)]
-■ 0-2초 (소개):
-실내 실제 환경. 인간의 손이 벽면 콘센트 커버를 조심스럽게 제거합니다. 플라스틱, 벽지, 손끝의 질감을 포착한 사실적인 라이브 액션 매크로 촬영. 커버 뒤에서 방의 테마 컬러가 감도는 작고 따뜻한 빛이 새어 나옵니다.
-■ 2-4초 (침입):
-카메라가 천천히 구멍으로 다가가 안쪽을 들여다봅니다. 깊고 작은 주거 공간이 점차 모습을 드러내고, 카메라는 축소되면서 미니어처 세계로 자연스럽게 침입합니다.
-■ 4-8초 (일상):
-카메라가 완전히 방 안으로 들어갑니다. 거주 중인 참고 캐릭터가 '프로필로부터 추론된 가장 적합한 단일 일상 행동(창작, 독서, 요리, 악기 연주, 식물 돌보기, 정리정돈 등)'을 하고 있습니다. 과도한 포즈를 피하고, 우연히 엿본 듯한 자연스러운 일상을 강조하세요.
-■ 8-10초 (잔상):
-캐릭터가 카메라를 알아채고 잠시 바라보며 작고 사랑스러운 반응을 보입니다. 따뜻한 방의 분위기와 작은 움직임이 남아 다시 한번 엿보고 싶게 만드는 여운으로 마무리하세요.
-
-[캐릭터 및 공예 소재의 질감]
-- 원래 정체성(얼굴 특징, 헤어스타일, 헤어 컬러, 눈, 의상, 액세서리)을 엄격히 유지하고 방의 스케일에 맞춰 통일하세요. 캐릭터는 미니어처 거주자이며, 동물/마스코트는 억지로 의인화하지 않고 원래 형태로 자연스럽게 움직이도록 하세요.
-- 미니어처 세계는 정교한 수공예품의 질감을 지닙니다. 나무/점토 가구, 직물/니트 텍스타일, 투명한 레진 병, 말린 꽃 등 각 아이템에 적합한 공예 소재를 조합하여 섬유, 니트, 수공예의 따뜻함을 연상시키세요.
-- 얕은 피사계 심도, 매크로 렌즈의 보케 효과, 부드러운 실내 조명을 활용하여 표현하세요.
-
-[금지 사항]
-실제 크기의 가구를 섞거나, 현실적인 배선 노출, 과도한 소품 채우기, 캐릭터 변형 또는 비인간화, 불필요한 사람/동물 추가, 자막이나 로고 표시, 과장된 특수 효과 사용.
-```
-
-<img src="https://cms-assets.youmind.com/media/1792223062429_al5hqn_HUqoV74a0AAAx3j.jpg" width="600" alt="콘센트 속 미니어처 세계 영상 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12661)**
-
-**작성자:** [りる🍄AI共創Enjoy🪄✨](https://x.com/wow_runa) | **출처:** [Link](https://x.com/wow_runa/status/2110690041051992192) | **게시일:** Oct 15, 2026
-
----
-### K-pop 안무 댄스 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 팔 격리 동작과 헤어 윕 등 구체적인 움직임을 포함한 에너지 넘치는 K-pop 걸그룹 안무를 묘사하는 상세한 프롬프트로, 영상 생성에 사용됩니다.
-
-#### 📝 프롬프트
-
-```
-그녀는 비트에 완벽하게 맞춰 에너지 넘치는 K-pop 걸그룹 안무를 선보입니다. 날카롭고 정확한 동작: 선명한 팔 격리(isolation), 빠른 헤드 플릭, 자신감 있는 헤어 윕, 힙 스웨이에서 스텝 앤 턴으로 이어지는 흐름, 그리고 양팔을 활용한 파워풀한 포인트 안무까지. 매끄러운...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110667670047563776/img/EPHDcOSZ8ZqGn9Dz.jpg" width="600" alt="K-pop 안무 댄스 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12603)**
-
-**작성자:** [Ian spooner](https://x.com/Ianspooner18) | **출처:** [Link](https://x.com/Ianspooner18/status/2110667980489310532) | **게시일:** Oct 15, 2026
-
----
-### Grok Imagine 영상 프롬프트: 벌새의 움직임과 앰비언트 사운드
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine용 영상 생성 프롬프트로, 참조 사진의 벌새를 자연스럽고 생동감 있게 움직이게 하며 잔잔한 정원 배경음을 함께 구현합니다.
-
-#### 📝 프롬프트
-
-```
-자연에서처럼 벌새가 부드럽게 움직이도록 하고, 잔잔한 정원 배경음을 함께 넣어주세요
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817187_2r8gua_HUp0JxMbYAABJIn.jpg" width="600" alt="Grok Imagine 영상 프롬프트: 벌새의 움직임과 앰비언트 사운드">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12562)**
-
-**작성자:** [Melissa Escárcega](https://x.com/GoEsM3li) | **출처:** [Link](https://x.com/GoEsM3li/status/2110627103733698834) | **게시일:** Oct 15, 2026
-
----
-### Grok Imagine 비디오 프롬프트: 빗소리와 함께 느린 줌 아웃
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 포인세티아 잎의 참조 이미지에 느린 줌 아웃 효과를 적용하고, 떨어지는 물방울과 잔잔한 빗소리 배경음을 추가하는 Grok Imagine용 비디오 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이 이미지(포인세티아 잎)에 느린 줌 아웃 효과를 적용하세요. 물방울이 떨어지고 잔잔한 빗소리 배경음이 들리도록 해주세요.
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817834_qxvgc5_HUpw89CaYAAvjht.jpg" width="600" alt="Grok Imagine 비디오 프롬프트: 빗소리와 함께 느린 줌 아웃">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12560)**
-
-**작성자:** [Melissa Escárcega](https://x.com/GoEsM3li) | **출처:** [Link](https://x.com/GoEsM3li/status/2110623585337532456) | **게시일:** Oct 15, 2026
-
----
-### 블루 타이거 보석 초상화 프롬프트
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> ChatGPT/Chappy에서 생성하고 Grok Imagine으로 애니메이션화할 예정인, 보석(사파이어 털, 흑진주 줄무늬)으로 이루어진 블루 타이거 초상화 이미지 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-빛나는 보석으로 만들어진 블루 타이거의 초상화 스타일. 파란색 털은 사파이어처럼 보이고, 검은색 줄무늬는 흑진주의 질감을 가지고 있습니다. 눈은 회색 문스톤처럼 은은한 빛을 발합니다. 화면 비율 9:16. 텍스트는 넣지 마세요 🐯
-```
-
-<img src="https://cms-assets.youmind.com/media/1792050450248_m9uuo2_HUpdk7ga0AA3w0g.jpg" width="600" alt="블루 타이거 보석 초상화 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12561)**
-
-**작성자:** [華月光](https://x.com/hanagekkou) | **출처:** [Link](https://x.com/hanagekkou/status/2110602413124288819) | **게시일:** Oct 15, 2026
-
----
-### 로드스터 점프 액션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 스피드 레이서 마하 5 스티어링 휠을 장착한 새로운 로드스터가 과속 방지턱을 뛰어넘는 장면이 담긴 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-스피드 레이서 마하 5 스티어링 휠을 장착한 새로운 로드스터 영상을 제작하세요. 버튼을 누르면 과속 방지턱을 뛰어넘습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110582274685079552/img/ouOp906jxZ9K2t0B.jpg" width="600" alt="로드스터 점프 액션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12556)**
-
-**작성자:** [Clingdaddy](https://x.com/Clingdaddy1) | **출처:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **게시일:** Oct 15, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2329,6 +2304,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-23T04:34:33.581Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-23T13:33:10.901Z</sub>
 
 </div>

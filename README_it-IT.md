@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3192** |
+| 📝 Total Prompts | **3198** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-23** |
 
@@ -189,6 +189,126 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Gnomo che insegna la strategia di wrestling
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video creativo che mostra un gnomo che insegna una strategia di day trading a un wrestler professionista.
+
+#### 📝 Prompt
+
+```
+Inventa una strategia di day trading e fai in modo che uno gnomo la spieghi a un wrestler professionista
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113472198841188352/img/Y8RUguYmhFMnWWdl.jpg" width="600" alt="Gnomo che insegna la strategia di wrestling">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12956)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113472220819542249) | **Published:** Oct 23, 2026
+
+---
+### Prompt video Grok Imagine: Scarlett O'Hara Trading
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una variante del prompt precedente che sostituisce la regina generica con Scarlett O'Hara.
+
+#### 📝 Prompt
+
+```
+Inventa una strategia di day trading e fai in modo che sia uno gnomo a spiegarla a Rossella O'Hara, 25 anni, con i capelli rossi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113467945389084672/img/YZVtANzlJ56--xT7.jpg" width="600" alt="Prompt video Grok Imagine: Scarlett O'Hara Trading">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12959)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113467965798842614) | **Published:** Oct 23, 2026
+
+---
+### Prompt video Grok Imagine: Gnomo che insegna il trading
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video surreale che mostra un gnomo che insegna strategie di day trading a una regina egizia caucasica dai capelli rossi.
+
+#### 📝 Prompt
+
+```
+Inventa una strategia di day trading e fai in modo che uno gnomo la spieghi a una regina egiziana caucasica di 25 anni con i capelli rossi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113466829406339072/img/cviZqEw214MzQkDA.jpg" width="600" alt="Prompt video Grok Imagine: Gnomo che insegna il trading">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12957)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113466855172042931) | **Published:** Oct 23, 2026
+
+---
+### Grok Imagine: Gnome Day Trading
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video surreale in cui un nano insegna una strategia di day trading a una regina dai capelli rossi che indossa i Gioielli della Corona.
+
+#### 📝 Prompt
+
+```
+Inventa una strategia di day trading e fai in modo che uno gnomo la spieghi alla sua splendida regina venticinquenne dai capelli rossi, con indosso i Gioielli della Corona.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113465581189967872/img/xFyY8CU2uixgOoGF.jpg" width="600" alt="Grok Imagine: Gnome Day Trading">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12961)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **Published:** Oct 23, 2026
+
+---
+### Generazione precisa di video con sincronizzazione labiale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per creare un video con sincronizzazione labiale utilizzando un'immagine di riferimento dell'identità e una fonte audio, con istruzioni specifiche sui movimenti della bocca e sulla chiarezza delle consonanti.
+
+#### 📝 Prompt
+
+```
+Usa l'immagine allegata come riferimento esatto per l'identità.
+Usa l'audio allegato come sorgente esatta per il lip-sync.
+
+Lip-sync:
+- Sincronizzazione precisa delle sillabe
+- Mantieni l'apertura della bocca sempre sottile e contenuta; non spalancarla mai
+- Consonanti nitide grazie al movimento delle labbra
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113216625063419904/img/TLjNUGrkce2fBVDT.jpg" width="600" alt="Generazione precisa di video con sincronizzazione labiale">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12958)**
+
+**Author:** [レイヴ](https://x.com/raves9361) | **Source:** [Link](https://x.com/raves9361/status/2113216645950775792) | **Published:** Oct 22, 2026
+
+---
+### Illustrazione di Drago e Signora Nepalese
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video/immagine per un'illustrazione puntinista che raffigura un drago dorato e una signora nepalese in abiti tradizionali.
+
+#### 📝 Prompt
+
+```
+Stile libro illustrato, illustrazione puntinista di un drago dorato decorato con motivi ornamentali, amichevole, potente e dolce, dai contorni delle squame rossi, insieme a una dolce signora del Nepal in abiti tradizionali che interagiscono con affetto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113190635746537472/img/QdkqV2UFMD-JSL7L.jpg" width="600" alt="Illustrazione di Drago e Signora Nepalese">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12960)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2113190653870125111) | **Published:** Oct 22, 2026
+
+---
 ### Prompt Video Grok Imagine - Parata di Halloween
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2123,155 +2243,6 @@ Video live-action cinematografico ultra-realistico di una bella donna adulta sui
 **Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **Published:** Oct 15, 2026
 
 ---
-### Prompt Video: Mondo in Miniatura Dentro una Presa Elettrica
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt dettagliato per Google Flow e Grok Imagine per generare un video fluido di 10 secondi che rivela la stanza di un personaggio in miniatura all'interno di una presa elettrica.
-
-#### 📝 Prompt
-
-```
-[Impostazioni Base]
-Analizza a fondo l'immagine di riferimento allegata e il profilo SNS, progetta completamente da zero una 'piccola stanza dove il personaggio vivrebbe realmente' e genera un video.
-- Formato: 9:16 (Verticale)
-- Durata: Circa 10 secondi (Video continuo senza tagli o teletrasporti)
-- Stile: Cinematografia macro fotorealistica combinata con estetica di diorami in miniatura fatti a mano.
-
-[Analisi del Profilo e Regole di Conversione degli Interni] (*Istruzioni di design per l'AI*)
-Estrai i seguenti elementi dai materiali di riferimento e riflettili direttamente nel design degli interni della stanza.
-1. Design dei Colori (Palette):
-Estrai il colore dei capelli del personaggio, il colore degli occhi, i colori principali e secondari del costume e il tono dell'immagine del profilo, e riflettili nelle tonalità di carta da parati, tappeti, tende, biancheria da letto e illuminazione.
-2. Stile Architettonico/Interni:
-Traduci l'atmosfera del personaggio e il gusto del suo costume (Moderno, Retrò, Fantasy, Giapponese, Cyber, Naturale, Gotico, ecc.) in forme di mobili e materiali di pareti/pavimenti.
-3. Oggetti Simbolici (Scegli 3-5):
-Dal contenuto testuale del profilo (occupazione, hobby, interessi, abilità, visione del mondo) e dagli oggetti personali, seleziona solo 3-5 articoli che simboleggiano la personalità e posizionali in punti visivamente prominenti nella stanza. (*Evita di stipare troppi piccoli oggetti; mantieni un equilibrio dove gli hobby si insinuano naturalmente nello spazio abitativo.*)
-
-[Composizione Video di 10 Secondi (Taglio Continuo)]
-■ 0-2 Secondi (Introduzione):
-Ambientazione interna reale. Una mano umana rimuove con cura la copertura della presa a muro. Fotografia macro live-action realistica che cattura le texture di plastica, carta da parati e punte delle dita. Da dietro la copertura, filtra una piccola luce calda tinta con il colore tematico della stanza.
-■ 2-4 Secondi (Intrusione):
-La camera si avvicina lentamente all'apertura e guarda dentro. Uno spazio residenziale piccolo e profondo appare gradualmente, mentre la camera riduce la scala intrudendo naturalmente nel mondo in miniatura.
-■ 4-8 Secondi (Vita Quotidiana):
-La camera entra completamente nella stanza. Il personaggio di riferimento residente sta vivendo facendo 'la singola azione quotidiana più adatta dedotta dal profilo (creazione, lettura, cucina, suonare strumenti, cura delle piante, riordino, ecc.)'. Evita pose eccessive; enfatizza la vita quotidiana naturale come se fosse stata osservata accidentalmente.
-■ 8-10 Secondi (Dopoeffetto):
-Il personaggio nota la camera, la guarda brevemente e dà una piccola reazione affascinante. Termina con una sensazione persistente che ti fa venire voglia di sbirciare di nuovo, lasciando l'atmosfera calda della stanza e piccoli movimenti.
-
-[Sensazione di Materiale del Personaggio e Artigianato]
-- Mantieni rigorosamente l'identità originale (lineamenti del viso, acconciatura, colore dei capelli, occhi, costume, accessori) e unificala con la scala della stanza. I personaggi sono residenti in miniatura; animali/mascotte non vengono antropomorfizzati forzatamente ma si muovono naturalmente nella loro forma originale.
-- Il mondo in miniatura ha la consistenza di squisiti manufatti artigianali. Combina materiali adatti per ogni articolo, come mobili in legno/argilla, tessuti/filati, bottiglie in resina trasparente, fiori secchi, ecc., evocando fibre, maglieria e il calore del lavoro manuale.
-- Esprimi con profondità di campo ridotta, bokeh naturale dalle lenti macro e illuminazione interna morbida e calda.
-
-[Audio/BGM]
-- Voce: Voce piccola, acuta e infantile. Parla modestamente con brevi parole fittizie che trasmettono emozione piuttosto che lingue esistenti.
-- BGM: Musica strumentale delicata e calda in stile carillon che corrisponde all'atmosfera della stanza. Mixa naturalmente suoni quotidiani deboli come piccoli passi e fruscii di tessuto.
-
-[Elementi Proibiti]
-Miscelazione di mobili a grandezza naturale, rappresentazione di cablaggio normale, sovraccarico di piccoli oggetti, alterazione/deumanizzazione del personaggio, aggiunta di persone/animali non necessari, visualizzazione di sottotitoli/testi/loghi/watermark, effetti magici eccessivi, cambi di taglio innaturali, BGM appariscente.
-```
-
-<img src="https://cms-assets.youmind.com/media/1792223062429_al5hqn_HUqoV74a0AAAx3j.jpg" width="600" alt="Prompt Video: Mondo in Miniatura Dentro una Presa Elettrica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12661)**
-
-**Author:** [りる🍄AI共創Enjoy🪄✨](https://x.com/wow_runa) | **Source:** [Link](https://x.com/wow_runa/status/2110690041051992192) | **Published:** Oct 15, 2026
-
----
-### Video di danza con coreografia K-pop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato che descrive una coreografia energica di un girl group K-pop, con movimenti specifici come isolamenti delle braccia e frustate dei capelli, per la generazione video.
-
-#### 📝 Prompt
-
-```
-Esegue una coreografia energica di un girl group K-pop, perfettamente a tempo. Movimenti netti e precisi: isolamenti crisp delle braccia, rapidi scatti della testa, una sicura frustata dei capelli, un'oscillazione dei fianchi in un passo e giro, poi una potente coreografia di puntamento con entrambe le braccia. Fluida...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110667670047563776/img/EPHDcOSZ8ZqGn9Dz.jpg" width="600" alt="Video di danza con coreografia K-pop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12603)**
-
-**Author:** [Ian spooner](https://x.com/Ianspooner18) | **Source:** [Link](https://x.com/Ianspooner18/status/2110667980489310532) | **Published:** Oct 15, 2026
-
----
-### Prompt Video Grok Imagine: Movimento del Colibrì e Suoni Ambientali
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt di generazione video per Grok Imagine che anima un colibrì in una foto di riferimento, facendolo muovere naturalmente e accompagnandolo con suoni ambientali del giardino.
-
-#### 📝 Prompt
-
-```
-Fa' muovere il colibrì come fa in natura, con suoni ambientali del giardino
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817187_2r8gua_HUp0JxMbYAABJIn.jpg" width="600" alt="Prompt Video Grok Imagine: Movimento del Colibrì e Suoni Ambientali">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12562)**
-
-**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110627103733698834) | **Published:** Oct 15, 2026
-
----
-### Grok Imagine Video Prompt: Zoom Out Lento con Suono di Pioggia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt di generazione video per Grok Imagine che crea un effetto zoom-out lento su un'immagine di riferimento con foglie di poinsettia, aggiungendo gocce d'acqua cadenti e suoni ambientali di pioggia.
-
-#### 📝 Prompt
-
-```
-Esegui uno zoom out lento su questa immagine (le foglie sono di una poinsettia, rendilo coerente), fai cadere le gocce d'acqua e aggiungi un suono di fondo di pioggia calma
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817834_qxvgc5_HUpw89CaYAAvjht.jpg" width="600" alt="Grok Imagine Video Prompt: Zoom Out Lento con Suono di Pioggia">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12560)**
-
-**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110623585337532456) | **Published:** Oct 15, 2026
-
----
-### Prompt per Ritratto di Tigre Blu in Pietre Preziose
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt immagine per generare un ritratto di tigre blu composto da gemme (pelliccia di zaffiro, strisce di perla nera) destinato a ChatGPT/Chappy, successivamente animato con Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Stile ritratto di una tigre blu composta da gemme splendenti. La pelliccia blu appare come zaffiro, mentre le strisce nere hanno la texture delle perle nere. Gli occhi emettono un bagliore opaco simile alla pietra di luna grigia. Rapporto d'aspetto 9:16. Nessun testo, per favore 🐯
-```
-
-<img src="https://cms-assets.youmind.com/media/1792050450248_m9uuo2_HUpdk7ga0AA3w0g.jpg" width="600" alt="Prompt per Ritratto di Tigre Blu in Pietre Preziose">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12561)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2110602413124288819) | **Published:** Oct 15, 2026
-
----
-### Azione di salto della roadster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video che mostra una nuova roadster con volante Mach 5 di Speed Racer che salta sopra i dossi.
-
-#### 📝 Prompt
-
-```
-Crea un video della nuova roadster con il volante Mach 5 di Speed Racer: premendo un pulsante, l'auto salta sopra i dossi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110582274685079552/img/ouOp906jxZ9K2t0B.jpg" width="600" alt="Azione di salto della roadster">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12556)**
-
-**Author:** [Clingdaddy](https://x.com/Clingdaddy1) | **Source:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **Published:** Oct 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2333,6 +2304,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-23T04:34:38.481Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-23T13:33:18.713Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3192** |
+| 📝 Total Prompts | **3198** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-23** |
 
@@ -189,6 +189,126 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Chiến Lược Đấu Vật Của Chú Lùn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video sáng tạo về một chú lùn hướng dẫn chiến lược giao dịch trong ngày cho một đô vật chuyên nghiệp.
+
+#### 📝 Prompt
+
+```
+Hãy nghĩ ra một chiến lược giao dịch trong ngày (day trading) và để một chú lùn gnome dạy nó cho một đô vật chuyên nghiệp
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113472198841188352/img/Y8RUguYmhFMnWWdl.jpg" width="600" alt="Chiến Lược Đấu Vật Của Chú Lùn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12956)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113472220819542249) | **Published:** Oct 23, 2026
+
+---
+### Câu lệnh video Grok Imagine: Giao dịch với Scarlett O'Hara
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một biến thể của câu lệnh trước đó, thay thế nhân vật nữ hoàng chung chung bằng Scarlett O'Hara.
+
+#### 📝 Prompt
+
+```
+Hãy nghĩ ra một chiến lược giao dịch trong ngày và để một chú lùn gnome hướng dẫn nó cho Scarlett O'Hara 25 tuổi với mái tóc đỏ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113467945389084672/img/YZVtANzlJ56--xT7.jpg" width="600" alt="Câu lệnh video Grok Imagine: Giao dịch với Scarlett O'Hara">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12959)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113467965798842614) | **Published:** Oct 23, 2026
+
+---
+### Grok Imagine Video Prompt: Chú Lùn Dạy Giao Dịch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video siêu thực với hình ảnh một chú lùn đang dạy chiến lược giao dịch trong ngày cho một nữ hoàng Ai Cập da trắng, tóc đỏ.
+
+#### 📝 Prompt
+
+```
+Hãy nghĩ ra một chiến lược giao dịch trong ngày (day trading) và để một chú lùn gnome hướng dẫn nó cho một nữ hoàng Ai Cập 25 tuổi, người da trắng, có mái tóc đỏ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113466829406339072/img/cviZqEw214MzQkDA.jpg" width="600" alt="Grok Imagine Video Prompt: Chú Lùn Dạy Giao Dịch">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12957)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113466855172042931) | **Published:** Oct 23, 2026
+
+---
+### Grok Imagine: Yêu tinh Giao dịch Trong ngày
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video siêu thực, trong đó một yêu tinh hướng dẫn chiến lược giao dịch trong ngày cho một nữ hoàng tóc đỏ đội Vương miện Hoàng gia.
+
+#### 📝 Prompt
+
+```
+Hãy nghĩ ra một chiến lược giao dịch trong ngày (day trading) và để một chú lùn gnome hướng dẫn lại cho vị nữ hoàng 25 tuổi tuyệt đẹp với mái tóc đỏ rực, trên đầu đang đội bộ trang sức Crown Jewels.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113465581189967872/img/xFyY8CU2uixgOoGF.jpg" width="600" alt="Grok Imagine: Yêu tinh Giao dịch Trong ngày">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12961)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **Published:** Oct 23, 2026
+
+---
+### Tạo Video Khớp Khẩu Hình Chính Xác
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết để tạo video khớp khẩu hình (lip-sync) sử dụng ảnh tham chiếu nhân vật và nguồn âm thanh, kèm theo các hướng dẫn cụ thể về chuyển động miệng và độ rõ ràng của phụ âm.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh đính kèm làm chuẩn nhận dạng chính xác.
+Sử dụng âm thanh đính kèm làm nguồn đồng bộ khẩu hình (lip-sync) chính xác.
+
+Lip-sync:
+- Căn thời gian từng âm tiết thật chuẩn xác
+- Giữ độ mở miệng nhỏ và hẹp xuyên suốt; tuyệt đối không há to
+- Phụ âm rõ nét nhờ tạo hình môi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113216625063419904/img/TLjNUGrkce2fBVDT.jpg" width="600" alt="Tạo Video Khớp Khẩu Hình Chính Xác">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12958)**
+
+**Author:** [レイヴ](https://x.com/raves9361) | **Source:** [Link](https://x.com/raves9361/status/2113216645950775792) | **Published:** Oct 22, 2026
+
+---
+### Minh họa Rồng và Quý bà Nepal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video/hình ảnh cho một minh họa theo trường phái chấm điểm, nổi bật với hình ảnh rồng vàng và quý bà Nepal trong trang phục truyền thống.
+
+#### 📝 Prompt
+
+```
+Phong cách sách tranh, minh họa điểm họa (pointillism) về một món đồ trang trí hoa văn vàng kim, một chú rồng thân thiện, mạnh mẽ, đáng yêu với đường viền vảy đỏ cùng một người phụ nữ Nepal hiền hậu trong trang phục truyền thống đang âu yếm bên nhau.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113190635746537472/img/QdkqV2UFMD-JSL7L.jpg" width="600" alt="Minh họa Rồng và Quý bà Nepal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12960)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2113190653870125111) | **Published:** Oct 22, 2026
+
+---
 ### Grok Imagine Video Prompt - Diễu Hành Halloween
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2131,155 +2251,6 @@ Video hành động trực tiếp điện ảnh siêu thực về một người
 **Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **Published:** Oct 15, 2026
 
 ---
-### Prompt Video Thế Giới Thu Nhỏ Bên Trong Ổ Cắm
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt chi tiết cho Google Flow và Grok Imagine để tạo video liền mạch 10 giây, hé lộ căn phòng của một nhân vật thu nhỏ bên trong ổ cắm điện.
-
-#### 📝 Prompt
-
-```
-[Cài đặt cơ bản]
-Phân tích kỹ hình ảnh tham chiếu và hồ sơ mạng xã hội đính kèm, thiết kế hoàn toàn mới một 'căn phòng nhỏ mà nhân vật thực sự sống', sau đó tạo video.
-- Tỷ lệ khung hình: 9:16 (Dọc)
-- Thời lượng: Khoảng 10 giây (Video một cảnh quay liền mạch, không cắt ghép hay dịch chuyển tức thời)
-- Phong cách: Quay macro siêu thực kết hợp với thẩm mỹ mô hình thu nhỏ thủ công.
-
-[Quy tắc phân tích hồ sơ và chuyển đổi nội thất] (*Hướng dẫn thiết kế cho AI*)
-Trích xuất các yếu tố sau từ tài liệu tham chiếu và phản ánh trực tiếp vào thiết kế nội thất của căn phòng.
-1. Thiết kế màu sắc (Bảng màu):
-Trích xuất màu tóc, màu mắt, màu chính và phụ của trang phục nhân vật, cùng tông màu của ảnh đại diện, và áp dụng chúng vào tông màu của giấy dán tường, thảm, rèm cửa, đồ trải giường và ánh sáng.
-2. Phong cách kiến trúc/nội thất:
-Chuyển hóa bầu không khí và gu thẩm mỹ trang phục của nhân vật (Hiện đại, Retro, Fantasy, Nhật Bản, Cyber, Tự nhiên, Gothic, v.v.) thành hình dáng đồ nội thất và vật liệu tường/sàn.
-3. Vật phẩm biểu tượng (Chọn 3-5 món):
-Từ nội dung văn bản hồ sơ (nghề nghiệp, sở thích, yêu thích, kỹ năng, thế giới quan) và đồ dùng cá nhân, chỉ chọn 3-5 món mang tính biểu tượng cho tính cách và đặt chúng ở những vị trí nổi bật về mặt thị giác trong phòng. (*Tránh nhồi nhét quá nhiều đồ vật nhỏ; giữ cân bằng để sở thích thấm đẫm tự nhiên vào không gian sống.*)
-
-[Bố cục video 10 giây (Một cảnh quay liên tục)]
-■ 0-2 Giây (Giới thiệu):
-Bối cảnh trong nhà thực tế. Một bàn tay người cẩn thận tháo nắp ổ cắm điện trên tường. Nhiếp ảnh macro chân thực ghi lại kết cấu của nhựa, giấy dán tường và đầu ngón tay. Từ phía sau nắp, một ánh sáng ấm áp nhỏ nhuốm màu chủ đề của căn phòng lọt ra ngoài.
-■ 2-4 Giây (Xâm nhập):
-Camera từ từ tiến gần đến lỗ hổng và nhìn vào bên trong. Một không gian cư trú sâu thẳm và nhỏ bé dần hiện ra, camera thu nhỏ tỷ lệ trong khi xâm nhập tự nhiên vào thế giới thu nhỏ.
-■ 4-8 Giây (Cuộc sống hàng ngày):
-Camera hoàn toàn đi vào phòng. Nhân vật tham chiếu đang sinh hoạt bằng 'hành động hàng ngày phù hợp nhất được suy ra từ hồ sơ (sáng tạo, đọc sách, nấu ăn, chơi nhạc cụ, chăm sóc cây, dọn dẹp, v.v.)'. Tránh tạo dáng quá mức; nhấn mạnh cuộc sống hàng ngày tự nhiên như thể vô tình bắt gặp.
-■ 8-10 Giây (Dư âm):
-Nhân vật nhận ra camera, nhìn nó trong chốc lát và đưa ra một phản ứng nhỏ nhắn, đáng yêu. Kết thúc bằng cảm giác lưu luyến khiến bạn muốn nhìn lại lần nữa, để lại bầu không khí ấm áp của căn phòng và những chuyển động nhỏ.
-
-[Cảm giác chất liệu nhân vật và thủ công]
-- Duy trì nghiêm ngặt danh tính gốc (đặc điểm khuôn mặt, kiểu tóc, màu tóc, mắt, trang phục, phụ kiện) và thống nhất với quy mô căn phòng. Các nhân vật là cư dân thu nhỏ; động vật/mascot không bị ép nhân cách hóa mà di chuyển tự nhiên dưới hình dạng gốc.
-- Thế giới thu nhỏ có kết cấu của đồ thủ công tinh xảo. Kết hợp các vật liệu thủ công phù hợp với từng món đồ, chẳng hạn như đồ nội thất gỗ/đất sét, dệt may vải/sợi len, chai nhựa resin trong suốt, hoa khô, v.v., gợi lên sợi, đan móc và hơi ấm của sự khéo léo.
-- Thể hiện với độ sâu trường ảnh nông, bokeh tự nhiên từ ống kính macro và ánh sáng trong nhà ấm áp, dịu nhẹ.
-
-[Âm thanh/BGM]
-- Giọng nói: Giọng trẻ con cao, dễ thương. Nói khiêm tốn bằng những từ hư cấu ngắn gọn truyền tải cảm xúc thay vì ngôn ngữ tồn tại.
-- BGM: Nhạc cụ phong cách hộp nhạc nhẹ nhàng, ấm áp phù hợp với bầu không khí của căn phòng. Trộn lẫn tự nhiên những âm thanh hàng ngày mờ nhạt như bước chân nhỏ và tiếng sột soạt của vải.
-
-[Vật phẩm bị cấm]
-Trộn lẫn đồ nội thất kích thước thật, mô tả dây điện thông thường, nhồi nhét quá nhiều đồ vật nhỏ, biến đổi/khử nhân hóa nhân vật, thêm người/động vật không cần thiết, hiển thị phụ đề/văn bản/logo/hình mờ, hiệu ứng phép thuật quá mức, thay đổi cảnh quay không tự nhiên, BGM hào nhoáng.
-```
-
-<img src="https://cms-assets.youmind.com/media/1792223062429_al5hqn_HUqoV74a0AAAx3j.jpg" width="600" alt="Prompt Video Thế Giới Thu Nhỏ Bên Trong Ổ Cắm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12661)**
-
-**Author:** [りる🍄AI共創Enjoy🪄✨](https://x.com/wow_runa) | **Source:** [Link](https://x.com/wow_runa/status/2110690041051992192) | **Published:** Oct 15, 2026
-
----
-### Video nhảy vũ đạo K-pop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết mô tả vũ đạo nhóm nhạc nữ K-pop đầy năng lượng với các động tác cụ thể như cô lập cánh tay và quất tóc để tạo video.
-
-#### 📝 Prompt
-
-```
-Cô ấy thực hiện một bài vũ đạo nhóm nhạc nữ K-pop đầy năng lượng, hoàn hảo theo nhịp. Các động tác sắc nét, chính xác: cô lập cánh tay gọn gàng, hất đầu nhanh, quất tóc tự tin, lắc hông kết hợp bước xoay người, sau đó là chuỗi động tác chỉ tay mạnh mẽ bằng cả hai cánh tay. Mượt mà...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110667670047563776/img/EPHDcOSZ8ZqGn9Dz.jpg" width="600" alt="Video nhảy vũ đạo K-pop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12603)**
-
-**Author:** [Ian spooner](https://x.com/Ianspooner18) | **Source:** [Link](https://x.com/Ianspooner18/status/2110667980489310532) | **Published:** Oct 15, 2026
-
----
-### Grok Imagine Video Prompt: Chuyển động của chim ruồi và âm thanh môi trường
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video cho Grok Imagine, giúp làm cho chim ruồi trong ảnh tham chiếu chuyển động tự nhiên, kèm theo âm thanh môi trường khu vườn.
-
-#### 📝 Prompt
-
-```
-Hãy để chim ruồi di chuyển như trong tự nhiên với âm thanh môi trường khu vườn
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817187_2r8gua_HUp0JxMbYAABJIn.jpg" width="600" alt="Grok Imagine Video Prompt: Chuyển động của chim ruồi và âm thanh môi trường">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12562)**
-
-**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110627103733698834) | **Published:** Oct 15, 2026
-
----
-### Grok Imagine Video Prompt: Hiệu ứng thu phóng chậm với âm thanh mưa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lời nhắc tạo video cho Grok Imagine, giúp tạo hiệu ứng thu phóng chậm trên hình ảnh tham chiếu của lá trạng nguyên, kết hợp thêm các giọt nước rơi và âm thanh mưa nền.
-
-#### 📝 Prompt
-
-```
-Hãy thực hiện hiệu ứng thu phóng chậm trên hình ảnh này (các lá thuộc cây trạng nguyên, hãy điều chỉnh cho phù hợp), làm cho các giọt nước rơi xuống và phát âm thanh nền tiếng mưa nhẹ nhàng.
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817834_qxvgc5_HUpw89CaYAAvjht.jpg" width="600" alt="Grok Imagine Video Prompt: Hiệu ứng thu phóng chậm với âm thanh mưa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12560)**
-
-**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110623585337532456) | **Published:** Oct 15, 2026
-
----
-### Prompt Chân Dung Hổ Xanh Bằng Đá Quý
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt hình ảnh để tạo chân dung hổ xanh làm từ đá quý (lông sapphire, vằn ngọc trai đen) dành cho ChatGPT/Chappy, sau đó hoạt hóa bằng Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Phong cách chân dung của một con hổ xanh được làm từ những viên đá quý lấp lánh. Bộ lông màu xanh trông giống như đá sapphire, còn các vằn đen có kết cấu như ngọc trai đen. Đôi mắt tỏa sáng mờ ảo giống như đá moonstone xám. Tỷ lệ khung hình 9:16. Vui lòng không chèn chữ 🐯
-```
-
-<img src="https://cms-assets.youmind.com/media/1792050450248_m9uuo2_HUpdk7ga0AA3w0g.jpg" width="600" alt="Prompt Chân Dung Hổ Xanh Bằng Đá Quý">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12561)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2110602413124288819) | **Published:** Oct 15, 2026
-
----
-### Hành động nhảy của xe Roadster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video mô tả chiếc xe roadster mới với vô-lăng Speed Racer Mach 5 đang nhảy qua các gờ giảm tốc.
-
-#### 📝 Prompt
-
-```
-Tạo một video về chiếc xe roadster mới với vô-lăng Speed Racer Mach 5, trong đó việc nhấn nút sẽ khiến xe nhảy qua các gờ giảm tốc.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110582274685079552/img/ouOp906jxZ9K2t0B.jpg" width="600" alt="Hành động nhảy của xe Roadster">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12556)**
-
-**Author:** [Clingdaddy](https://x.com/Clingdaddy1) | **Source:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **Published:** Oct 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2341,6 +2312,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-23T04:34:34.679Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-23T13:33:12.901Z</sub>
 
 </div>

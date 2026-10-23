@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3192** |
+| 📝 Total Prompts | **3198** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-23** |
 
@@ -189,6 +189,126 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Cüce Profesyonel Güreşçiye Strateji Öğretiyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir cücenin profesyonel bir güreşçiye gün içi işlem stratejisi öğrettiği yaratıcı video istemi.
+
+#### 📝 Prompt
+
+```
+Bir gün içi alım satım stratejisi uydurun ve bunu profesyonel bir güreşçiye bir cüce öğretsin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113472198841188352/img/Y8RUguYmhFMnWWdl.jpg" width="600" alt="Cüce Profesyonel Güreşçiye Strateji Öğretiyor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12956)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113472220819542249) | **Published:** Oct 23, 2026
+
+---
+### Grok Imagine Video İstemi: Scarlett O'Hara Takası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Önceki promptun, genel kraliçe yerine Scarlett O'Hara ile değiştirilmiş bir varyantı.
+
+#### 📝 Prompt
+
+```
+Bir gün içi işlem (day trading) stratejisi uydur ve bu stratejiyi kızıl saçlı, 25 yaşındaki Scarlett O'Hara'ya bir cüce öğretsin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113467945389084672/img/YZVtANzlJ56--xT7.jpg" width="600" alt="Grok Imagine Video İstemi: Scarlett O'Hara Takası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12959)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113467965798842614) | **Published:** Oct 23, 2026
+
+---
+### Grok Imagine Video İstemi: Gün İçi Alım Satımı Öğreten Cüce
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kızıl saçlı Kafkas kökenli bir Mısır kraliçesine gün içi alım satım stratejileri öğreten bir cücenin yer aldığı sürrealist bir video istemi.
+
+#### 📝 Prompt
+
+```
+Bir gün içi alım satım (day trading) stratejisi uydur ve bunu, kızıl saçlı 25 yaşındaki Kafkas kökenli bir Mısır kraliçesine bir cüce öğretsin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113466829406339072/img/cviZqEw214MzQkDA.jpg" width="600" alt="Grok Imagine Video İstemi: Gün İçi Alım Satımı Öğreten Cüce">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12957)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113466855172042931) | **Published:** Oct 23, 2026
+
+---
+### Grok Imagine Gnome Gün İçi İşlem
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kraliyet Mücevherleri takan kızıl saçlı bir kraliçeye gün içi işlem stratejisi öğreten bir cücenin yer aldığı sürreal video istemi.
+
+#### 📝 Prompt
+
+```
+Bir gün içi alım satım (day trading) stratejisi uydurun ve bir cücenin bunu, Kraliyet Mücevherleri'ni takmış 25 yaşındaki muhteşem kızıl saçlı kraliçesine öğretmesini sağlayın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113465581189967872/img/xFyY8CU2uixgOoGF.jpg" width="600" alt="Grok Imagine Gnome Gün İçi İşlem">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12961)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **Published:** Oct 23, 2026
+
+---
+### Hassas Dudak Senkronizasyonu Video Oluşturma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kimlik referans görüntüsü ve ses kaynağı kullanarak dudak senkronizasyonlu video oluşturmak için, ağız hareketleri ve ünsüz netliği konusunda özel talimatlar içeren detaylı bir istem.
+
+#### 📝 Prompt
+
+```
+Ekli görseli birebir kimlik referansı olarak kullanın.
+Ekli ses dosyasını birebir dudak senkronizasyonu kaynağı olarak kullanın.
+
+Dudak senkronizasyonu:
+- Hecelerin kusursuz zamanlaması
+- Ağız açıklığı baştan sona hafif ve dar kalmalı; asla geniş açılmamalı
+- Dudak şekillendirmesiyle net ünsüzler
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113216625063419904/img/TLjNUGrkce2fBVDT.jpg" width="600" alt="Hassas Dudak Senkronizasyonu Video Oluşturma">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12958)**
+
+**Author:** [レイヴ](https://x.com/raves9361) | **Source:** [Link](https://x.com/raves9361/status/2113216645950775792) | **Published:** Oct 22, 2026
+
+---
+### Ejderha ve Nepal'li Kadın İllüstrasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Geleneksel kıyafetler giyen bir ejderha ve Nepal'li kadını içeren noktacılık tarzı illüstrasyon için video/görüntü istemi.
+
+#### 📝 Prompt
+
+```
+Resimli kitap tarzında, puantilist illüstrasyon; altın desenli süslemeli, kırmızı pul hatlarına sahip dost canlısı, güçlü ve sevimli bir ejderha ile geleneksel kıyafetler içindeki şefkatli bir Nepal'li kadının birbirlerine sevgiyle yaklaştığı bir sahne.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113190635746537472/img/QdkqV2UFMD-JSL7L.jpg" width="600" alt="Ejderha ve Nepal'li Kadın İllüstrasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12960)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2113190653870125111) | **Published:** Oct 22, 2026
+
+---
 ### Grok Imagine Video İstemi - Cadılar Bayramı Geçidi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2124,155 +2244,6 @@ Lüks bir otel balo salonunda zarifçe yürüyen, 20'li yaşlarının ortasında
 **Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **Published:** Oct 15, 2026
 
 ---
-### Priz İçi Minyatür Dünya Video İstemcisi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Elektrik prizinin içindeki minyatür bir karakterin odasını gösteren, kesintisiz 10 saniyelik bir video oluşturmak için Google Flow ve Grok Imagine'a yönelik detaylı istem.
-
-#### 📝 Prompt
-
-```
-[Temel Ayarlar]
-Ekli referans görseli ve SNS profilini kapsamlı şekilde analiz edin, karakterin gerçekten yaşayacağı 'küçük oda'yı tamamen özgün olarak tasarlayın ve bir video oluşturun.
-- En Boy Oranı: 9:16 (Dikey)
-- Süre: Yaklaşık 10 saniye (Kesinti veya ışınlanma olmadan, sürekli tek çekim akıcı video)
-- Stil: Fotogerçekçi makro sinematografi ile el yapımı minyatür diorama estetiğinin birleşimi.
-
-[Profil Analizi ve İç Mekan Dönüşüm Kuralları] (*AI için tasarım talimatları*)
-Referans materyallerden aşağıdaki unsurları çıkarın ve doğrudan odanın iç mekan tasarımına yansıtın.
-1. Renk Tasarımı (Renk Paleti):
-Karakterin saç rengi, göz rengi, kostümünün ana ve yan renkleri ile profil fotoğrafının tonunu çıkarın; bunları duvar kağıdı, halı, perde, yatak örtüsü ve aydınlatmanın tonlarına yansıtın.
-2. Mimari/İç Mekan Stili:
-Karakterin atmosferini ve kostüm zevkini (Modern, Retro, Fantastik, Japon, Cyber, Doğal, Gotik vb.) mobilya şekillerine ve duvar/zemin malzemelerine dönüştürün.
-3. Sembolik Eşyalar (3-5 Adet Seçin):
-Profil metni içeriğinden (meslek, hobiler, beğeniler, yetenekler, dünya görüşü) ve eşyalardan, kişiliği simgeleyen yalnızca 3-5 öğeyi seçin ve odada görsel olarak öne çıkan konumlara yerleştirin. (*Çok fazla küçük nesneyi sıkıştırmaktan kaçının; hobilerin yaşam alanına doğal olarak sızdığı bir denge koruyun.*)
-
-[10 Saniyelik Video Kompozisyonu (Sürekli Tek Çekim)]
-■ 0-2 Saniye (Giriş):
-Gerçek iç mekan ortamı. Bir insan eli, duvardaki priz kapağını dikkatlice çıkarır. Plastik, duvar kağıdı ve parmak uçlarının dokularını yakalayan gerçekçi canlı aksiyon makro fotoğrafçılığı. Kapağın arkasından, odanın tema rengiyle harmanlanmış küçük, sıcak bir ışık sızar.
-■ 2-4 Saniye (Girişme):
-Kamera yavaşça açığa yaklaşır ve içeriye bakar. Derin, küçük bir konut mekanı giderek belirir ve kamera, minyatür dünyaya doğal bir şekilde nüfuz ederken ölçeğini küçültür.
-■ 4-8 Saniye (Günlük Yaşam):
-Kamera tamamen odaya girer. Sakin referans karakter, profilden çıkarılan 'en uygun tek günlük eylemi' (yaratım, okuma, yemek pişirme, enstrüman çalma, bitki bakımı, düzenleme vb.) yaparak yaşıyor. Aşırı poz vermeden kaçının; kazara gözetlenmiş gibi doğal günlük yaşamı vurgulayın.
-■ 8-10 Saniye (Sonrası):
-Karakter kamerayı fark eder, kısa süre ona bakar ve küçük, çekici bir tepki verir. Tekrar göz atmak isteyen bir his bırakan, sıcak oda atmosferi ve küçük hareketlerle sonlandırın.
-
-[Karakter ve El Sanatı Malzeme Hissi]
-- Orijinal kimliği (yüz özellikleri, saç modeli, saç rengi, gözler, kostüm, aksesuarlar) kesinlikle koruyun ve oda ölçeğiyle uyumlaştırın. Karakterler minyatür sakinlerdir; hayvanlar/maskotlar zorla antropomorfize edilmez, orijinal formlarında doğal olarak hareket ederler.
-- Minyatür dünya, zarif el sanatlarının dokusuna sahiptir. Her öğe için ahşap/kil mobilyalar, kumaş/yün tekstiller, şeffaf reçine şişeler, kurutulmuş çiçekler gibi uygun el sanatı malzemelerini birleştirin; lifleri, örgüleri ve el işçiliğinin sıcaklığını çağrıştırın.
-- Sığ alan derinliği, makro lenslerden gelen doğal bokeh ve yumuşak, sıcak iç mekan aydınlatmasıyla ifade edin.
-
-[Ses/BGM]
-- Ses: Tiz, sevimli çocuk benzeri küçük ses. Mevcut diller yerine duyguyu ileten kısa, kurgusal sözcüklerle mütevazı konuşun.
-- BGM: Oda atmosferine uygun, nazik, sıcak müzik kutusu tarzı enstrümantal. Küçük ayak sesleri ve hışırtılı kumaş gibi hafif günlük sesleri doğal olarak karıştırın.
-
-[Yasaklanan Öğeler]
-Gerçek boyutlu mobilyaların karıştırılması, normal kablolama tasviri, çok fazla küçük nesne sıkıştırılması, karakter değişikliği/insanlıktan çıkarılması, gereksiz insan/hayvan eklenmesi, altyazı/metin/logo/filigran gösterilmesi, aşırı sihir efektleri, doğal olmayan kesim değişiklikleri, gösterişli BGM.
-```
-
-<img src="https://cms-assets.youmind.com/media/1792223062429_al5hqn_HUqoV74a0AAAx3j.jpg" width="600" alt="Priz İçi Minyatür Dünya Video İstemcisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12661)**
-
-**Author:** [りる🍄AI共創Enjoy🪄✨](https://x.com/wow_runa) | **Source:** [Link](https://x.com/wow_runa/status/2110690041051992192) | **Published:** Oct 15, 2026
-
----
-### K-pop Koreografi Dans Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Video üretimi için kol izolasyonları ve saç savurması gibi spesifik hareketlerle enerjik K-pop kız grubu koreografisini detaylı olarak tanımlayan bir istem.
-
-#### 📝 Prompt
-
-```
-Ritimle tam uyumlu, enerjik bir K-pop kız grubu koreografisi sergiliyor. Keskin ve hassas hareketler: net kol izolasyonları, hızlı baş savurmaları, kendinden emin bir saç savurması, ardından kalça salınımıyla adım atıp dönme ve iki kolla yapılan güçlü nokta koreografisi. Pürüzsüz...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110667670047563776/img/EPHDcOSZ8ZqGn9Dz.jpg" width="600" alt="K-pop Koreografi Dans Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12603)**
-
-**Author:** [Ian spooner](https://x.com/Ianspooner18) | **Source:** [Link](https://x.com/Ianspooner18/status/2110667980489310532) | **Published:** Oct 15, 2026
-
----
-### Grok Imagine Video İstemi: Kolibri Hareketi ve Ortam Sesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, referans fotoğraftaki kolibiyi doğal hareketlerle canlandıran ve bahçe ortam sesleriyle eşleştiren bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Kolibinin doğada olduğu gibi doğal hareketlerle canlandırılmasını sağlayın, arka planda bahçe ortam sesleri olsun
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817187_2r8gua_HUp0JxMbYAABJIn.jpg" width="600" alt="Grok Imagine Video İstemi: Kolibri Hareketi ve Ortam Sesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12562)**
-
-**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110627103733698834) | **Published:** Oct 15, 2026
-
----
-### Grok Imagine Video Prompt: Yağmur Sesiyle Yavaş Zoom Out
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Poinsettia yapraklarının referans görüntüsüne yavaş zoom-out efekti uygulayan, düşen su damlaları ve ortam yağmur sesi ekleyen Grok Imagine için video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Bu görselde (yapraklar bir poinsettia bitkisinden, uyumlu hale getirin) yavaş bir zoom out yapın, su damlalarının düşmesini sağlayın ve sakin bir yağmur arka plan sesi ekleyin
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817834_qxvgc5_HUpw89CaYAAvjht.jpg" width="600" alt="Grok Imagine Video Prompt: Yağmur Sesiyle Yavaş Zoom Out">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12560)**
-
-**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110623585337532456) | **Published:** Oct 15, 2026
-
----
-### Mavi Kaplan Mücevher Portresi İstemi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> ChatGPT/Chappy için üretilen, mücevherlerden (safir kürk, siyah inci çizgiler) oluşan mavi kaplan portresi için bir görüntü istemi; ardından Grok Imagine ile animasyon haline getirilir.
-
-#### 📝 Prompt
-
-```
-Parlayan mücevherlerden yapılmış mavi bir kaplanın portre tarzı. Mavi kürk safir gibi görünüyor ve siyah çizgiler siyah inci dokusuna sahip. Gözler, gri ay taşı gibi mat bir parıltıya sahip. En-boy oranı 9:16. Lütfen metin olmasın 🐯
-```
-
-<img src="https://cms-assets.youmind.com/media/1792050450248_m9uuo2_HUpdk7ga0AA3w0g.jpg" width="600" alt="Mavi Kaplan Mücevher Portresi İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12561)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2110602413124288819) | **Published:** Oct 15, 2026
-
----
-### Roadster Atlama Aksiyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hız tümseklerinin üzerinden atlayan, Speed Racer Mach 5 direksiyon simidine sahip yeni bir roadster'ı içeren video istemi.
-
-#### 📝 Prompt
-
-```
-Speed Racer Mach 5 direksiyon simidine sahip yeni bir roadster'ın videosunu oluşturun; bir düğmeye basıldığında araç hız tümseklerinin üzerinden atlıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110582274685079552/img/ouOp906jxZ9K2t0B.jpg" width="600" alt="Roadster Atlama Aksiyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12556)**
-
-**Author:** [Clingdaddy](https://x.com/Clingdaddy1) | **Source:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **Published:** Oct 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2334,6 +2305,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-23T04:34:40.118Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-23T13:33:21.610Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3192** |
+| 📝 プロンプト総数 | **3198** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-10-23** |
 
@@ -189,6 +189,126 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### グノメのレスリング戦略指導
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> プロレスラーにデイトレード戦略を教えるノームを描いた、クリエイティブな動画プロンプト
+
+#### 📝 プロンプト
+
+```
+デイトレードの戦略をでっち上げて、ノーム（庭の小人）にプロレスラーへ伝授してもらおう
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113472198841188352/img/Y8RUguYmhFMnWWdl.jpg" width="600" alt="グノメのレスリング戦略指導">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12956)**
+
+**作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **ソース:** [Link](https://x.com/blarneytrades/status/2113472220819542249) | **公開日:** Oct 23, 2026
+
+---
+### Grok Imagine Video プロンプト: スカーレット・オハラの取引
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 以前のプロンプトのバリエーションで、一般的な女王をスカーレット・オハラに置き換えています。
+
+#### 📝 プロンプト
+
+```
+デイトレードの戦略を考えて、ノーム（庭の小人）に赤い髪の 25 歳のスカーレット・オハラへ教えさせてください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113467945389084672/img/YZVtANzlJ56--xT7.jpg" width="600" alt="Grok Imagine Video プロンプト: スカーレット・オハラの取引">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12959)**
+
+**作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **ソース:** [Link](https://x.com/blarneytrades/status/2113467965798842614) | **公開日:** Oct 23, 2026
+
+---
+### Grok Imagine Video プロンプト：交易を教えるノーム
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 超現実的な動画プロンプト：赤毛のカウカソイド系エジプト女王にデイトレード戦略を教えるドワーフ
+
+#### 📝 プロンプト
+
+```
+デイトレードの戦略を考えて、ノームにそれを 25 歳の赤毛の白人エジプト女王に教えさせよう
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113466829406339072/img/cviZqEw214MzQkDA.jpg" width="600" alt="Grok Imagine Video プロンプト：交易を教えるノーム">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12957)**
+
+**作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **ソース:** [Link](https://x.com/blarneytrades/status/2113466855172042931) | **公開日:** Oct 23, 2026
+
+---
+### Grok Imagine のノームによるデイトレード
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 王冠の宝石を身に着けた赤毛の女王に、ノームがデイトレード戦略を教えるシュールな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+デイトレードの戦略を考えて、ノームにそれを教えさせてください。教わる相手は、クラウンジュエルを身につけた 25 歳の美しい赤毛の女王です。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113465581189967872/img/xFyY8CU2uixgOoGF.jpg" width="600" alt="Grok Imagine のノームによるデイトレード">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12961)**
+
+**作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **ソース:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **公開日:** Oct 23, 2026
+
+---
+### 高精度リップシンク動画生成
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> アイデンティティ参照画像と音声ソースを使用してリップシンク動画を生成するための詳細なプロンプト。口元の動きや子音の明瞭さに関する具体的な指示が含まれています。
+
+#### 📝 プロンプト
+
+```
+添付の画像を、人物のアイデンティティ（外見）の完全な参照元として使用してください。
+添付の音声を、リップシンクの完全なソースとして使用してください。
+
+リップシンク：
+- 正確な音節タイミング
+- 終始、口の開きは控えめで狭く保ち、大きく開かないこと
+- 唇の形作りによる明瞭な子音
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113216625063419904/img/TLjNUGrkce2fBVDT.jpg" width="600" alt="高精度リップシンク動画生成">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12958)**
+
+**作者:** [レイヴ](https://x.com/raves9361) | **ソース:** [Link](https://x.com/raves9361/status/2113216645950775792) | **公開日:** Oct 22, 2026
+
+---
+### 龍とネパール人女性のイラストレーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 金色の龍と伝統的な衣装を着たネパール人女性を描いた点描画スタイルのイラストレーションのための動画 / 画像プロンプト。
+
+#### 📝 プロンプト
+
+```
+絵本スタイルの点描イラスト。金色の模様が施された装飾品、赤い鱗の輪郭を持つ親しみやすく力強い甘いドラゴン、そして伝統衣装をまとったネパールの心優しい女性が、愛情深く触れ合っている様子。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113190635746537472/img/QdkqV2UFMD-JSL7L.jpg" width="600" alt="龍とネパール人女性のイラストレーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12960)**
+
+**作者:** [Carina](https://x.com/Freehere8) | **ソース:** [Link](https://x.com/Freehere8/status/2113190653870125111) | **公開日:** Oct 22, 2026
+
+---
 ### Grok Imagine 動画プロンプト - ハロウィンパレード
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2124,155 +2244,6 @@ Elon Musk が海賊姿で、口にくわえたサーベルと、X マークの�
 **作者:** [Rizi](https://x.com/Rizi_ru) | **ソース:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **公開日:** Oct 15, 2026
 
 ---
-### アウトレットの中に広がるミニチュア世界｜動画プロンプト
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Google Flow と Grok Imagine で、コンセント内部のミニチュアキャラクターの部屋をシームレスに描く10秒動画を作成するための詳細プロンプト。
-
-#### 📝 プロンプト
-
-```
-[基本設定]
-添付された参考画像と SNS プロフィールを徹底的に分析し、「キャラクターが実際に住んでいる小さな部屋」を完全にオリジナルでデザインし、動画を生成してください。
-- アスペクト比: 9:16 (縦長)
-- 長さ: 約 10 秒 (カットやテレポートのない連続したワンカット動画)
-- スタイル: フォトリアルなマクロ撮影とハンドメイドのミニチュアジオラマ美学を組み合わせたもの。
-
-[プロフィール分析とインテリア変換ルール] (*AI 向けのデザイン指示*)
-参考資料から以下の要素を抽出し、部屋のインテリアデザインに直接反映させてください。
-1. カラーデザイン (カラーパレット):
-キャラクターの髪色、目の色、衣装の主色とサブ色、およびプロフィール写真のトーンを抽出し、壁紙、ラグ、カーテン、寝具、照明の色合いに反映させてください。
-2. 建築/インテリアスタイル:
-キャラクターの雰囲気や衣装の好み (モダン、レトロ、ファンタジー、和風、サイバー、ナチュラル、ゴシックなど) を、家具の形状や壁・床の素材に変換してください。
-3. シンボルアイテム (3〜5 点を選択):
-プロフィールテキストの内容 (職業、趣味、好き嫌い、スキル、世界観) や持ち物から、個性を象徴する 3〜5 点のみを選択し、部屋の中で視覚的に目立つ位置に配置してください。 (*多くの小物を詰め込みすぎず、趣味が生活空間に自然に滲み出るようなバランスを保ってください。*)
-
-[10 秒動画構成 (連続ワンカット)]
-■ 0〜2 秒 (導入):
-実際の室内環境。人間の手のひらが慎重に壁のコンセントカバーを取り外します。プラスチック、壁紙、指先の質感を捉えたリアルな実写マクロ撮影。カバーの裏側から、部屋のテーマカラーに染まった小さな暖かい光が漏れ出します。
-■ 2〜4 秒 (侵入):
-カメラはゆっくりと開口部に近づき、中を覗き込みます。深く小さな居住空間が徐々に現れ、カメラは縮小しながらミニチュアの世界へ自然に侵入していきます。
-■ 4〜8 秒 (日常生活):
-カメラは完全に部屋に入ります。住人の参考キャラクターは、プロフィールから推測される「最も適した単一の日常行動 (創作、読書、料理、楽器演奏、植物の手入れ、片付けなど)」を行っています。過度なポーズを取らず、偶然覗き見たかのような自然な日常生活を強調してください。
-■ 8〜10 秒 (余韻):
-キャラクターはカメラに気づき、一瞬見つめ、小さくて魅力的な反応を見せます。温かい部屋の雰囲気と小さな動きを残し、もう一度覗き見たくなるような余韻で終わります。
-
-[キャラクターと工芸素材の質感]
-- 元のアイデンティティ (顔の特徴、髪型、髪色、目、衣装、アクセサリー) を厳密に維持し、部屋のスケールと統一してください。キャラクターはミニチュアの住人です。動物/マスコットは無理に擬人化せず、元の姿のまま自然に動かしてください。
-- ミニチュアの世界には、精巧なハンドメイド工芸品の質感を持たせてください。木/粘土製の家具、布/糸の織物、透明な樹脂ボトル、ドライフラワーなど、各アイテムに適した工芸素材を組み合わせて、繊維、ニット、手仕事の温もりを喚起してください。
-- 浅い被写界深度、マクロレンズによる自然なボケ、柔らかい暖かい室内照明で表現してください。
-
-[音声/BGM]
-- 声: 高音でかわいい子供のような小さな声。既存の言語ではなく、感情を伝える短い架空の言葉で控えめに話してください。
-- BGM: 部屋の雰囲気に合った、優しく温かいオルゴール風の器楽。小さな足音や布の擦れる音などの微かな日常音を自然にミックスしてください。
-
-[禁止事項]
-実寸大の家具の混在、通常の配線の描写、小物の詰め込みすぎ、キャラクターの変更/非人間化、不要な人物/動物の追加、字幕/テキスト/ロゴ/透かし表示、過剰な魔法効果、不自然なカット変更、派手な BGM。
-```
-
-<img src="https://cms-assets.youmind.com/media/1792223062429_al5hqn_HUqoV74a0AAAx3j.jpg" width="600" alt="アウトレットの中に広がるミニチュア世界｜動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12661)**
-
-**作者:** [りる🍄AI共創Enjoy🪄✨](https://x.com/wow_runa) | **ソース:** [Link](https://x.com/wow_runa/status/2110690041051992192) | **公開日:** Oct 15, 2026
-
----
-### K-POP ガールズグループ振付ダンス動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 腕のアイソレーションやヘアウィップなど、具体的な動きを取り入れた、エネルギッシュなK-POPガールズグループの振付を説明する詳細なプロンプト。動画生成向け。
-
-#### 📝 プロンプト
-
-```
-彼女はリズムに完璧に合わせて、エネルギッシュな K-POP ガールズグループの振付を披露します。鋭く正確な動き：キレのある腕のアイソレーション、素早いヘッドフリック、自信あふれるヘアウィップ、ヒップスウェイからのステップ＆ターン、そして両腕を使った力強いポイント振付へとつながります。滑らか...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110667670047563776/img/EPHDcOSZ8ZqGn9Dz.jpg" width="600" alt="K-POP ガールズグループ振付ダンス動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12603)**
-
-**作者:** [Ian spooner](https://x.com/Ianspooner18) | **ソース:** [Link](https://x.com/Ianspooner18/status/2110667980489310532) | **公開日:** Oct 15, 2026
-
----
-### Grok Imagine 動画プロンプト：ハチドリの動きと環境音
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用の動画生成プロンプト。参考写真のハチドリを自然に動かすアニメーションを作成し、庭の環境音も加えます。
-
-#### 📝 プロンプト
-
-```
-ハチドリを自然のままに動かして、庭の環境音も加えましょう
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817187_2r8gua_HUp0JxMbYAABJIn.jpg" width="600" alt="Grok Imagine 動画プロンプト：ハチドリの動きと環境音">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12562)**
-
-**作者:** [Melissa Escárcega](https://x.com/GoEsM3li) | **ソース:** [Link](https://x.com/GoEsM3li/status/2110627103733698834) | **公開日:** Oct 15, 2026
-
----
-### Grok Imagine 動画プロンプト：雨音付きのゆっくりとしたズームアウト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用の動画生成プロンプト。ポインセチアの葉の参照画像に対してゆっくりとズームアウトする効果を生成し、落ちる水滴と環境音としての雨音を追加します。
-
-#### 📝 プロンプト
-
-```
-この画像（葉はポインセチアのものなので、それに合わせてください）に対してゆっくりとズームアウトしてください。水滴が落ちるようにし、穏やかな雨の背景音を聞こえるようにしてください
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817834_qxvgc5_HUpw89CaYAAvjht.jpg" width="600" alt="Grok Imagine 動画プロンプト：雨音付きのゆっくりとしたズームアウト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12560)**
-
-**作者:** [Melissa Escárcega](https://x.com/GoEsM3li) | **ソース:** [Link](https://x.com/GoEsM3li/status/2110623585337532456) | **公開日:** Oct 15, 2026
-
----
-### 青い虎の宝石ポートレート プロンプト
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> ChatGPT/Chappy で生成し、その後 Grok Imagine でアニメーション化する、サファイアの毛皮と黒真珠の縞模様を持つ宝石製の青い虎のポートレートのための画像プロンプト。
-
-#### 📝 プロンプト
-
-```
-輝く宝石で構成された青い虎のポートレート スタイル。青い毛皮はサファイアのように見え、黒い縞模様には黒真珠のような質感があります。目はグレーのムーンストーンのような鈍い光を放っています。アスペクト比は 9:16 です。テキストなし 🐯
-```
-
-<img src="https://cms-assets.youmind.com/media/1792050450248_m9uuo2_HUpdk7ga0AA3w0g.jpg" width="600" alt="青い虎の宝石ポートレート プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12561)**
-
-**作者:** [華月光](https://x.com/hanagekkou) | **ソース:** [Link](https://x.com/hanagekkou/status/2110602413124288819) | **公開日:** Oct 15, 2026
-
----
-### ロードスター ジャンプアクション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> スピードレーサー マッハ5のステアリングホイールを備えた新型ロードスターが、速度制限バンプ（スパイク）をジャンプする動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-スピードレーサー マッハ5のステアリングホイールを備えた新型ロードスターの動画を構築し、ボタンを押すと速度制限バンプをジャンプするシーンを生成します
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110582274685079552/img/ouOp906jxZ9K2t0B.jpg" width="600" alt="ロードスター ジャンプアクション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12556)**
-
-**作者:** [Clingdaddy](https://x.com/Clingdaddy1) | **ソース:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **公開日:** Oct 15, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2334,6 +2305,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-23T04:34:32.902Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-23T13:33:09.977Z</sub>
 
 </div>

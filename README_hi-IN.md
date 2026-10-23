@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3192** |
+| 📝 Total Prompts | **3198** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-23** |
 
@@ -189,6 +189,126 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### नोम द्वारा रेसलिंग स्ट्रैटेजी की शिक्षा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक क्रिएटिव वीडियो प्रॉम्प्ट जिसमें एक नोम (gnome) एक पेशेवर रेसलर को डेट ट्रेडिंग रणनीति सिखा रहा है।
+
+#### 📝 Prompt
+
+```
+एक डे ट्रेडिंग स्ट्रैटेजी तैयार करें और एक नोम (gnome) से इसे किसी प्रोफेशनल रेसलर को सिखवाएं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113472198841188352/img/Y8RUguYmhFMnWWdl.jpg" width="600" alt="नोम द्वारा रेसलिंग स्ट्रैटेजी की शिक्षा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12956)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113472220819542249) | **Published:** Oct 23, 2026
+
+---
+### Grok Imagine वीडियो प्रॉम्प्ट: स्कारलेट ओ'हारा ट्रेडिंग
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> पिछले प्रॉम्प्ट का एक वेरिएंट जिसमें सामान्य रानी को स्कारलेट ओ'हारा से बदल दिया गया है।
+
+#### 📝 Prompt
+
+```
+एक डे ट्रेडिंग स्ट्रैटेजी तैयार करें और एक नोम (gnome) से इसे 25 साल की लाल बालों वाली स्कारलेट ओ'हारा को सिखवाएं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113467945389084672/img/YZVtANzlJ56--xT7.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: स्कारलेट ओ'हारा ट्रेडिंग">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12959)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113467965798842614) | **Published:** Oct 23, 2026
+
+---
+### Grok Imagine वीडियो प्रॉम्प्ट: ट्रेडिंग सिखाता हुआ नाना
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अलौकिक वीडियो प्रॉम्प्ट जिसमें एक नाना लाल बालों वाली कॉकेशियन मिस्र की रानी को डे ट्रेडिंग रणनीतियाँ सिखा रहा है।
+
+#### 📝 Prompt
+
+```
+एक डे ट्रेडिंग स्ट्रैटेजी तैयार करें और एक नोम (gnome) से इसे 25 साल की लाल बालों वाली श्वेत मिस्री रानी को सिखवाएं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113466829406339072/img/cviZqEw214MzQkDA.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: ट्रेडिंग सिखाता हुआ नाना">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12957)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113466855172042931) | **Published:** Oct 23, 2026
+
+---
+### Grok Imagine Gnome डे ट्रेडिंग
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अलौकिक वीडियो प्रॉम्प्ट जिसमें एक नोम (gnome) मुकुट रत्नों से सजी लाल बालों वाली रानी को डे ट्रेडिंग की रणनीति सिखा रहा है।
+
+#### 📝 Prompt
+
+```
+एक डे ट्रेडिंग स्ट्रैटेजी तैयार करें और एक नोम (gnome) से उसे अपनी 25 साल की बेहद खूबसूरत, लाल बालों वाली रानी को सिखवाएं, जो Crown Jewels पहने हुए है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113465581189967872/img/xFyY8CU2uixgOoGF.jpg" width="600" alt="Grok Imagine Gnome डे ट्रेडिंग">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12961)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **Published:** Oct 23, 2026
+
+---
+### सटीक लिप-सिंक वीडियो जनरेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> पहचान संदर्भ छवि और ऑडियो स्रोत का उपयोग करके लिप-सिंक वीडियो बनाने के लिए एक विस्तृत प्रॉम्प्ट, जिसमें मुंह की गति और व्यंजन स्पष्टता पर विशेष निर्देश शामिल हैं।
+
+#### 📝 Prompt
+
+```
+संलग्न इमेज का उपयोग बिल्कुल वैसी ही आइडेंटिटी रेफरेंस के रूप में करें।
+संलग्न ऑडियो का उपयोग बिल्कुल वैसे ही लिप-सिंक सोर्स के रूप में करें।
+
+लिप-सिंक:
+- सटीक शब्दांश (syllable) टाइमिंग
+- पूरे समय मुँह खुलना हल्का और संकीर्ण रखें; कभी भी ज़्यादा न खोलें
+- होठों की शेपिंग से व्यंजन (consonants) स्पष्ट रहें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113216625063419904/img/TLjNUGrkce2fBVDT.jpg" width="600" alt="सटीक लिप-सिंक वीडियो जनरेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12958)**
+
+**Author:** [レイヴ](https://x.com/raves9361) | **Source:** [Link](https://x.com/raves9361/status/2113216645950775792) | **Published:** Oct 22, 2026
+
+---
+### ड्रैगन और नेपाली महिला का चित्र
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> पारंपरिक पोशाक में एक सुनहरा ड्रैगन और एक नेपाली महिला को दर्शाने वाले बिंदुवाद (pointillism) चित्रण के लिए वीडियो/इमेज प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+पिक्चर बुक स्टाइल, सुनहरे पैटर्न वाले आभूषणों से सजे, लाल शल्कों (scales) की रूपरेखा वाले एक दोस्ताना, ताकतवर और प्यारे ड्रैगन तथा नेपाली पारंपरिक परिधान में सजी एक सौम्य महिला के बीच आपसी प्रेम और लगाव को दर्शाता पॉइंटिलिज़्म इलस्ट्रेशन।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113190635746537472/img/QdkqV2UFMD-JSL7L.jpg" width="600" alt="ड्रैगन और नेपाली महिला का चित्र">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12960)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2113190653870125111) | **Published:** Oct 22, 2026
+
+---
 ### Grok Imagine वीडियो प्रॉम्प्ट - हेलोवीन परेड
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2125,146 +2245,6 @@ Grok Imagine वीडियो मोंटाज प्रॉम्प्ट
 **Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **Published:** Oct 15, 2026
 
 ---
-### आउटलेट के अंदर सूक्ष्म दुनिया का वीडियो प्रॉम्प्ट
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Google Flow और Grok Imagine के लिए एक विस्तृत प्रॉम्प्ट जो बिजली के आउटलेट के अंदर एक लघु पात्र के कमरे को उजागर करने वाला 10 सेकंड का निरंतर वीडियो बनाता है।
-
-#### 📝 Prompt
-
-```
-[बुनियादी सेटिंग्स]
-संलग्न संदर्भ छवि और SNS प्रोफ़ाइल का गहन विश्लेषण करें, 'वह छोटा कमरा जहाँ पात्र वास्तव में रहता होगा' की पूरी तरह से मौलिक डिज़ाइन तैयार करें, और एक वीडियो जनरेट करें।
-- पहलू अनुपात: 9:16 (ऊर्ध्वाधर)
-- अवधि: लगभग 10 सेकंड (कोई कट या टेलीपोर्टेशन नहीं, निरंतर सीमलेस वन-कट वीडियो)
-- शैली: फोटोरियलिस्टिक मैक्रो सिनेमाटोग्राफी और हस्तनिर्मित मिनीचर डायोरामा सौंदर्यशास्त्र का संयोजन।
-
-[प्रोफ़ाइल विश्लेषण और आंतरिक रूपांतरण नियम] (*AI के लिए डिज़ाइन निर्देश*)
-संदर्भ सामग्री से निम्नलिखित तत्वों को निकालें और उन्हें कमरे की आंतरिक डिज़ाइन में सीधे प्रतिबिंबित करें।
-1. रंग डिज़ाइन (Color Palette):
-पात्र के बालों का रंग, आँखों का रंग, पोशाक के मुख्य और उप रंग, और प्रोफ़ाइल चित्र का टोन निकालें, और उन्हें दीवारों के कागज़, कालीनों, पर्दों, बिछाने और रोशनी की छायाओं में शामिल करें।
-2. वास्तुकला/आंतरिक शैली:
-पात्र का माहौल और पोशाक रुचि (Modern, Retro, Fantasy, Japanese, Cyber, Natural, Gothic, आदि) को फर्नीचर के आकार और दीवार/फर्श की सामग्रियों में बदलें।
-3. प्रतीकात्मक वस्तुएँ (3-5 चुनें):
-प्रोफ़ाइल टेक्स्ट सामग्री (व्यासाय, शौक, पसंद, कौशल, विश्व दृष्टिकोण) और सामान से केवल 3-5 ऐसी वस्तुएँ चुनें जो व्यक्तित्व का प्रतीक हैं और उन्हें कमरे में दृश्य रूप से प्रमुख स्थानों पर रखें। (*बहुत सारी छोटी वस्तुओं को भरने से बचें; उस संतुलन को बनाए रखें जहाँ शौक स्वाभाविक रूप से रहने की जगह में घुलते-मिलते हैं।*)
-
-[10-सेकंड वीडियो संरचना (निरंतर वन कट)]
-■ 0-2 सेकंड (परिचय):
-वास्तविक इनडोर सेटिंग। एक मानव हाथ सावधानी से दीवार के आउटलेट कवर को हटाता है। प्लास्टिक, वॉलपेपर और उँगलियों के नोक की बनावट को कैप्चर करते हुए यथार्थवादी लाइव-एक्शन मैक्रो फोटोग्राफी। कवर के पीछे से, कमरे के थीम रंग से रंगा हुआ एक छोटी गर्म रोशनी बाहर रिसती है।
-■ 2-4 सेकंड (प्रवेश):
-कैमरा धीरे-धीरे खुलने वाले हिस्से के पास जाता है और अंदर झांकता है। एक गहरा छोटा आवासीय स्थान धीरे-धीरे दिखाई देता है, और कैमरा मिनीचर दुनिया में स्वाभाविक रूप से प्रवेश करते हुए स्केल डाउन करता है।
-■ 4-8 सेकंड (दैनिक जीवन):
-कैमरा पूरी तरह से कमरे में प्रवेश करता है। निवासी संदर्भ पात्र 'प्रोफ़ाइल से अनुमानित सबसे उपयुक्त एकल दैनिक क्रिया (सृजन, पढ़ना, खाना बनाना, वाद्य यंत्र बजाना, पौधों की देखभाल, सफाई, आदि)' कर रहा है। अत्यधिक पोज़ देने से बचें; यदि गलती से झांक लिया गया हो तो स्वाभाविक दैनिक जीवन पर जोर दें।
-■ 8-10 सेकंड (अनुभव):
-पात्र कैमरे को देखता है, एक क्षण के लिए उसकी ओर देखता है, और एक छोटी, मोहक प्रतिक्रिया देता है। एक ऐसे ठहराव के साथ समाप्त करें जिससे फिर से झांकने का मन करे, गर्म कमरे का माहौल और छोटी हरकतें छोड़कर।
-
-[पात्र और कारीगरी सामग्री का एहसास]
-- मूल पहचान (चेहरे की विशेषताएं, हेयरस्टाइल, बालों का रंग, आँखें, पोशाक, एक्सेसरीज़) को सख्ती से बनाए रखें और इसे मिनीचर दुनिया के पैमाने के अनुसार समायोजित करें।
-```
-
-<img src="https://cms-assets.youmind.com/media/1792223062429_al5hqn_HUqoV74a0AAAx3j.jpg" width="600" alt="आउटलेट के अंदर सूक्ष्म दुनिया का वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12661)**
-
-**Author:** [りる🍄AI共創Enjoy🪄✨](https://x.com/wow_runa) | **Source:** [Link](https://x.com/wow_runa/status/2110690041051992192) | **Published:** Oct 15, 2026
-
----
-### K-pop कोरियोग्राफी डांस वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> वीडियो जनरेशन के लिए ऊर्जावान K-pop गर्ल-ग्रुप कोरियोग्राफी का विस्तृत प्रॉम्प्ट, जिसमें आर्म आइसोलेशन और हेयर व्हिप जैसे विशिष्ट मूव्स शामिल हैं।
-
-#### 📝 Prompt
-
-```
-वह एक ऊर्जावान K-pop गर्ल-ग्रुप कोरियोग्राफी करती है, जो पूरी तरह से बीट पर है। तेज और सटीक मूव्स: क्रिस्प आर्म आइसोलेशन, तेज हेड फ्लिक्स, आत्मविश्वास भरा हेयर व्हिप, फिर हिप स्वे में स्टेप-एंड-टर्न, और दोनों हाथों से शक्तिशाली पॉइंट कोरियोग्राफी। स्मूद...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110667670047563776/img/EPHDcOSZ8ZqGn9Dz.jpg" width="600" alt="K-pop कोरियोग्राफी डांस वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12603)**
-
-**Author:** [Ian spooner](https://x.com/Ianspooner18) | **Source:** [Link](https://x.com/Ianspooner18/status/2110667980489310532) | **Published:** Oct 15, 2026
-
----
-### Grok Imagine वीडियो प्रॉम्प्ट: ह्यूमिंगबर्ड की गति और परिवेश ध्वनि
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जो संदर्भ फोटो में ह्यूमिंगबर्ड को प्राकृतिक रूप से गतिमान करता है, साथ ही उद्यान की परिवेश ध्वनियाँ भी शामिल करता है।
-
-#### 📝 Prompt
-
-```
-ह्यूमिंगबर्ड को प्रकृति में जैसे वे घूमते हैं, उसी तरह गतिमान करें, साथ में उद्यान की परिवेश ध्वनि भी जोड़ें
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817187_2r8gua_HUp0JxMbYAABJIn.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: ह्यूमिंगबर्ड की गति और परिवेश ध्वनि">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12562)**
-
-**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110627103733698834) | **Published:** Oct 15, 2026
-
----
-### Grok Imagine वीडियो प्रॉम्प्ट: बारिश की आवाज़ के साथ धीमा ज़ूम आउट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जो पॉइंसेटिया पत्तियों के संदर्भ छवि पर धीमे ज़ूम-आउट प्रभाव को बनाता है, जिसमें गिरती हुई बूंदें और शांत बारिश की पृष्ठभूमि ध्वनि शामिल होती हैं।
-
-#### 📝 Prompt
-
-```
-इस छवि (जिसमें पॉइंसेटिया की पत्तियाँ हैं, इसे मेल खाते हुए बनाएं) पर धीमा ज़ूम आउट करें, पानी की बूंदों को गिरते हुए दिखाएं और पीछे शांत बारिश की आवाज़ सुनाएं
-```
-
-<img src="https://cms-assets.youmind.com/media/1792136817834_qxvgc5_HUpw89CaYAAvjht.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: बारिश की आवाज़ के साथ धीमा ज़ूम आउट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12560)**
-
-**Author:** [Melissa Escárcega](https://x.com/GoEsM3li) | **Source:** [Link](https://x.com/GoEsM3li/status/2110623585337532456) | **Published:** Oct 15, 2026
-
----
-### नीला बाघ रत्न पोर्ट्रेट प्रॉम्प्ट
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> ChatGPT/Chappy के लिए एक इमेज प्रॉम्प्ट जो नीले बाघ का पोर्ट्रेट बनाता है, जिसकी खाल साफायर जैसी और धारियाँ काली मोती जैसी हैं। इसे Grok Imagine से एनिमेट किया गया है।
-
-#### 📝 Prompt
-
-```
-चमकदार रत्नों से बने नीले बाघ का पोर्ट्रेट स्टाइल। नीली खाल साफायर जैसी दिखती है, और काली धारियाँ काले मोतियों की बनावट वाली हैं। आँखें ग्रे मूनस्टोन जैसी धुंधली चमक रखती हैं। पहलू अनुपात (Aspect Ratio) 9:16। कोई टेक्स्ट नहीं 🐯
-```
-
-<img src="https://cms-assets.youmind.com/media/1792050450248_m9uuo2_HUpdk7ga0AA3w0g.jpg" width="600" alt="नीला बाघ रत्न पोर्ट्रेट प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12561)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2110602413124288819) | **Published:** Oct 15, 2026
-
----
-### रोडस्टर जंप एक्शन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक नए रोडस्टर को स्पीड रेसर मैक 5 स्टीयरिंग व्हील के साथ स्पेड बम्प्स पर कूदते हुए दिखाता एक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-नए रोडस्टर का एक वीडियो बनाएं जिसमें स्पीड रेसर मैक 5 स्टीयरिंग व्हील हो और बटन दबाने पर यह स्पेड बम्प्स पर कूदे
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110582274685079552/img/ouOp906jxZ9K2t0B.jpg" width="600" alt="रोडस्टर जंप एक्शन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12556)**
-
-**Author:** [Clingdaddy](https://x.com/Clingdaddy1) | **Source:** [Link](https://x.com/Clingdaddy1/status/2110582288203292868) | **Published:** Oct 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2326,6 +2306,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-23T04:34:35.293Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-23T13:33:13.840Z</sub>
 
 </div>
