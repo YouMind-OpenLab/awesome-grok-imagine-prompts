@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3198** |
+| 📝 Total Prompts | **3202** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-24** |
 
@@ -189,6 +189,63 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Daily Life Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Video generation prompt for Grok Imagine depicting autumn rainy day walks with consistent character appearance across two cuts.
+
+#### 📝 Prompt
+
+```
+Overall Theme & Structure
+* Total Duration: 12 seconds (6s x 2 cuts)
+* Concept: Autumn after rain, casual daily walk
+* Character Consistency: Maintain consistency of face, hairstyle, and outfit for the woman from @Image1 and @Image2 (glasses, brown hair in bun, yellow zip-up knit, white turtleneck, khaki cargo pants, beige boots).
+BGM
+* Proposal: Warm chill Lo-Fi hip hop/acoustic sound with acoustic guitar and piano (calm music fitting the post-rain cityscape).
+
+[Cut Details]
+Cut 1 (00:00 - 00:06)
+* Base Image: @Image1
+* Location: Park bench (scene with fallen red leaves)
+* Action/Pose:
+  * Pose 1 (0-3s): Start from @Image1 state. Sitting on bench, eyes slightly downcast, still.
+  * Pose 2 (3-6s): Suddenly look at camera (or front), smile softly while adjusting glasses frame slightly.
+Cut 2 (00:06 - 00:12)
+* Base Image: @Image2
+* Location: Street corner sidewalk (post-rain building area)
+* Action/Pose:
+  * Pose 1 (6-9s): Start from @Image2 state. Standing at street corner holding transparent umbrella, looking at camera.
+  * Pose 2 (9-12s): Tilt umbrella slightly, start walking slowly, turn back, smile and wave small at camera.
+```
+
+<img src="https://cms-assets.youmind.com/media/1792827729119_wlde2s_HVXKgy4aMAAKF0l.jpg" width="600" alt="Grok Imagine Daily Life Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12987)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2113835372463472982) | **Published:** Oct 24, 2026
+
+---
+### Rainy Night Tram Stop Cinematic Portrait
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt for Grok Imagine creating a cinematic close-up portrait of a woman in a qipao at a 1930s Shanghai tram stop on a rainy night, featuring specific lighting, camera movements, and style references like Wong Kar-wai.
+
+#### 📝 Prompt
+
+```
+Vertical cinematic chest-up close-up portrait, framed from the collarbone up, 1930s Shanghai rainy night tram stop. Opens immediately on a beautiful elegant Chinese woman in a deep emerald silk qipao with gold piping and high mandarin collar, finger-wave hair, pearl earrings, face in soft three-quarter profile under a warm wet streetlamp, rain falling. Slow orbit around her; behind her, out of focus, the warm round headlight of a vintage tram glides in as bokeh and steam drifts across; she slowly turns her head toward the light. Teal and amber grade, anamorphic bokeh, film grain, Wong Kar-wai mood. Tight framing: hands never in frame. Background fully blurred, no signs, no destination boards, no text or letters anywhere. Sharp from first frame.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113611402556440576/pu/img/zlFgnK4UjmwWCW-c.jpg" width="600" alt="Rainy Night Tram Stop Cinematic Portrait">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12986)**
+
+**Author:** [Brucewu666](https://x.com/452864064q45713) | **Source:** [Link](https://x.com/452864064q45713/status/2113611424572342475) | **Published:** Oct 23, 2026
+
+---
 ### Gnome Teaching Wrestling Strategy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +320,44 @@ Make up a day trading strategy and have a gnome teach it to his 25 year old gorg
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12961)**
 
 **Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **Published:** Oct 23, 2026
+
+---
+### Rooftop Blackout Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cinematic video of a girl and her grandpa watching a city skyline light up from a rooftop during a blackout.
+
+#### 📝 Prompt
+
+```
+Night rooftop over a city in total blackout. A girl and her grandpa stand still, seen from behind; the whole skyline lights up gold. Slow orbit to their faces, smiling in awe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113122860315340800/img/OsjgvqdGlF2ZCjCW.jpg" width="600" alt="Rooftop Blackout Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12984)**
+
+**Author:** [Imagvio AI](https://x.com/Imagvio_AI) | **Source:** [Link](https://x.com/Imagvio_AI/status/2113374844448293044) | **Published:** Oct 22, 2026
+
+---
+### Cyberpunk Body Horror Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for Grok Imagine creating a hyper-realistic cyberpunk scene where a person undergoes a violent mechanical transformation in a rain-soaked neon alley.
+
+#### 📝 Prompt
+
+```
+A lone figure stands in a rain-soaked neon alley deep in a dystopian megacity at night. Towering holographic billboards flicker overhead with corrupted advertisements while endless streams of vehicles streak past on elevated highways. The figure’s body begins a next-level, hyper-realistic transformation: skin splits and peels back in wet, organic layers as black carbon-fiber plates and exposed chrome biomechanics violently erupt from underneath. Flesh and circuitry fuse in real time — tendons rewiring into fiber-optic cables, eyes flooding with liquid metal and splitting into multiple glowing irises, jaw unhinging as teeth morph into a shifting mechanical maw. Blood and coolant spray in slow motion under harsh neon pink and cyan light. The camera is pure cinematic: low-angle tracking shot that pushes in aggressively, then circles the subject as the transformation accelerates into full body horror — limbs elongating, spine fracturing and reforming into a segmented mechanical exoskeleton, face collapsing into a nightmarish hybrid of human and machine. Shallow depth of field, anamorphic lens flares, heavy rain droplets on the lens, volumetric fog, and hyper-detailed photorealistic textures (wet skin, reflective metal, torn fabric, glowing circuitry). Dark, oppressive atmosphere with a rising industrial drone and distorted human screams echoing through the alley. Ultra-realistic, filmic, 35mm, high detail, no stylization.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113287043811815424/img/oYksLa45_B08bXFp.jpg" width="600" alt="Cyberpunk Body Horror Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12985)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113287133167239203) | **Published:** Oct 22, 2026
 
 ---
 ### Precise Lip-Sync Video Generation
@@ -2165,82 +2260,6 @@ Add a fall background with pumpkins and cider. A brown long leaf shirt. Add hat.
 **Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **Published:** Oct 15, 2026
 
 ---
-### Futuristic Multi-Terrain Roadster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a video of an ultra-futuristic roadster with aerodynamic design and multi-terrain capabilities.
-
-#### 📝 Prompt
-
-```
-Create a video with ultra futuristic roadster with aerodynamic design and multi terrain elements!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110747191383887872/img/28XU5XWWf8B-KZ4L.jpg" width="600" alt="Futuristic Multi-Terrain Roadster">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12599)**
-
-**Author:** [Viswanath M. Aluru](https://x.com/vmaluru) | **Source:** [Link](https://x.com/vmaluru/status/2110747222333857995) | **Published:** Oct 15, 2026
-
----
-### Elon Musk Pirate Parody
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A humorous video prompt depicting Elon Musk as a pirate holding a sabre with his teeth and a Jeff Bezos parrot.
-
-#### 📝 Prompt
-
-```
-Elon Musk as a swashbuckling pirate holding a Sabre with his teeth and a parrot that looks like Jeff Bezos standing on a map labeled X marks the spot
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110722991394787328/img/q2n5f55li3qSyr_i.jpg" width="600" alt="Elon Musk Pirate Parody">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12609)**
-
-**Author:** [Phillip Oyler](https://x.com/NdnCwby) | **Source:** [Link](https://x.com/NdnCwby/status/2110723009313136790) | **Published:** Oct 15, 2026
-
----
-### Tranquil Nature Layers Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a high-resolution tranquil nature scene involving sunlight and tree branches.
-
-#### 📝 Prompt
-
-```
-A high-resolution, tranquil scene. Something with "layers"—perhaps sunlight filtering through ancient tree branches…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110711965127421952/img/Xs3vyc54482vJr2-.jpg" width="600" alt="Tranquil Nature Layers Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12863)**
-
-**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2110711998111748354) | **Published:** Oct 15, 2026
-
----
-### Cinematic Fashion Walk Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed prompt for generating an ultra-realistic cinematic video of a woman walking through a luxury hotel ballroom.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic live-action video of a beautiful adult woman in her mid-20s walking gracefully through an elegant luxury hotel ballroom. She wears a stunning champagne-beige, floor-length evening gown with delicate lace embroidery, intricate floral patterns, and a fitted silhouette. Her long, dark brown hair flows naturally as she smiles confidently and looks toward the camera. She walks slowly and elegantly past luxurious floral arrangements, white flower displays, polished marble flooring, and beautifully decorated tables. The background features warm golden chandeliers, rich wooden interiors, soft amber lighting, and elegantly dressed guests moving naturally in the distance. The camera smoothly tracks her movement from a three-quarter angle, capturing the flowing fabric of her gown, realistic walking motion, natural facial expressions, and subtle hair movement. Professional fashion photography aesthetic, warm cinematic color grading, realistic skin texture, detailed fabric, shallow depth of field, natural shadows, smooth camera movement, 4K visual quality, photorealistic details, sophisticated luxury atmosphere. Vertical 9:16 composition, 6–10 seconds, 24 FPS. Maintain consistent facial features, body proportions, dress design, and lighting throughout the entire clip. No sudden cuts, no distorted hands, no extra limbs, no flickering, no artificial movements, no text, no logos, no watermark.
-```
-
-<img src="https://pbs.twimg.com/media/HUq1C0vaMAA1vBH.jpg" width="600" alt="Cinematic Fashion Walk Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12611)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **Published:** Oct 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2302,6 +2321,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-24T04:23:23.819Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-24T12:50:09.285Z</sub>
 
 </div>

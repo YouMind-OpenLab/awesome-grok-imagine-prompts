@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3198** |
+| 📝 Total Prompts | **3202** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-24** |
 
@@ -189,6 +189,65 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de Vídeo do Dia a Dia para Grok Imagine
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt de geração de vídeo para Grok Imagine retratando caminhadas em dias chuvosos de outono, com aparência consistente do personagem entre duas cenas.
+
+#### 📝 Prompt
+
+```
+Tema e Estrutura Geral
+* Duração Total: 12 segundos (6s x 2 cortes)
+* Conceito: Outono após a chuva, passeio casual do dia a dia
+* Consistência da Personagem: Manter a consistência do rosto, penteado e figurino da mulher das imagens @Image1 e @Image2 (óculos, cabelo castanho preso em coque, cardigã de tricô amarelo com zíper, gola alta branca, calça cargo cáqui, botas bege).
+
+BGM
+* Proposta: Som Lo-Fi hip hop/acústico chill e acolhedor, com violão e piano (uma música tranquila que combine com a paisagem urbana depois da chuva).
+
+[Detalhes dos Cortes]
+Corte 1 (00:00 - 00:06)
+* Imagem Base: @Image1
+* Local: Banco de praça (cena com folhas vermelhas caídas)
+* Ação/Pose:
+  * Pose 1 (0-3s): Começar a partir do estado da @Image1. Sentada no banco, olhar levemente para baixo, imóvel.
+  * Pose 2 (3-6s): De repente, olhar para a câmera (ou para frente), sorrir suavemente enquanto ajusta levemente a armação dos óculos.
+
+Corte 2 (00:06 - 00:12)
+* Imagem Base: @Image2
+* Local: Calçada na esquina de uma rua (área com prédios logo após a chuva)
+* Ação/Pose:
+  * Pose 1 (6-9s): Começar a partir do estado da @Image2. De pé na esquina, segurando um guarda-chuva transparente, olhando para a câmera.
+  * Pose 2 (9-12s): Inclinar levemente o guarda-chuva, começar a caminhar devagar, virar-se para trás, sorrir e acenar discretamente para a câmera.
+```
+
+<img src="https://cms-assets.youmind.com/media/1792827729119_wlde2s_HVXKgy4aMAAKF0l.jpg" width="600" alt="Prompt de Vídeo do Dia a Dia para Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12987)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2113835372463472982) | **Published:** Oct 24, 2026
+
+---
+### Retrato Cinematográfico na Parada de Bonde em Noite Chuvosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt detalhado para geração de vídeo no Grok Imagine, criando um retrato cinematográfico em close-up de uma mulher usando qipao em uma parada de bonde na Xangai dos anos 1930 durante uma noite chuvosa, com iluminação específica, movimentos de câmera e referências de estilo como Wong Kar-wai.
+
+#### 📝 Prompt
+
+```
+Retrato em close-up vertical cinematográfico do peito para cima, enquadrado das clavículas para cima, numa paragem de elétrico numa noite chuvosa na Xangai dos anos 1930. Abre imediatamente com uma bela e elegante mulher chinesa num qipao de seda verde-esmeralda escuro com debruns dourados e gola mandarim alta, cabelo em finger waves, brincos de pérolas, rosto num suave perfil de três quartos sob um candeeiro de rua quente e húmido, com a chuva a cair. Órbita lenta à sua volta; atrás dela, desfocado, o farol redondo e quente de um elétrico vintage desliza para o enquadramento enquanto o bokeh e o vapor atravessam a cena; ela vira lentamente a cabeça na direção da luz. Color grading em tons de azul-petróleo e âmbar, bokeh anamórfico, grão de película, atmosfera ao estilo Wong Kar-wai. Enquadramento fechado: as mãos nunca entram no plano. Fundo totalmente desfocado, sem placas, sem painéis de destino, sem texto ou letras em lado nenhum. Nitidez total desde o primeiro fotograma.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113611402556440576/pu/img/zlFgnK4UjmwWCW-c.jpg" width="600" alt="Retrato Cinematográfico na Parada de Bonde em Noite Chuvosa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12986)**
+
+**Author:** [Brucewu666](https://x.com/452864064q45713) | **Source:** [Link](https://x.com/452864064q45713/status/2113611424572342475) | **Published:** Oct 23, 2026
+
+---
 ### Gnomo Ensina Estratégia de Wrestling
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +322,44 @@ Invente uma estratégia de day trading e faça com que um gnomo a ensine à sua 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12961)**
 
 **Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **Published:** Oct 23, 2026
+
+---
+### Prompt de Vídeo: Blecaute no Telhado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para gerar um vídeo cinematográfico de uma menina e seu avô observando o skyline da cidade iluminar-se a partir de um telhado durante um blecaute.
+
+#### 📝 Prompt
+
+```
+Terraço noturno sobre uma cidade em apagão total. Uma menina e o avô estão parados, vistos de costas; todo o horizonte se ilumina em dourado. A câmera orbita lentamente até os seus rostos, sorrindo maravilhados.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113122860315340800/img/OsjgvqdGlF2ZCjCW.jpg" width="600" alt="Prompt de Vídeo: Blecaute no Telhado">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12984)**
+
+**Author:** [Imagvio AI](https://x.com/Imagvio_AI) | **Source:** [Link](https://x.com/Imagvio_AI/status/2113374844448293044) | **Published:** Oct 22, 2026
+
+---
+### Transformação Corporal Cyberpunk com Horror
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado para o Grok Imagine, criando uma cena cyberpunk hiper-realista onde uma pessoa passa por uma transformação mecânica violenta em um beco encharcado pela chuva e iluminado por neon.
+
+#### 📝 Prompt
+
+```
+Uma figura solitária está de pé num beco encharcado pela chuva e iluminado por néon, nas profundezas de uma megacidade distópica à noite. Painéis holográficos gigantescos piscam no alto com anúncios corrompidos, enquanto fluxos intermináveis de veículos rasgam as autoestradas elevadas. O corpo da figura inicia uma transformação hiper-realista de outro nível: a pele rasga-se e descasca em camadas húmidas e orgânicas, enquanto placas negras de fibra de carbono e biomecânica cromada exposta irrompem violentamente por baixo. Carne e circuitos fundem-se em tempo real — tendões reconfiguram-se em cabos de fibra ótica, os olhos inundam-se de metal líquido e dividem-se em múltiplas íris brilhantes, o maxilar desencaixa-se e os dentes transformam-se numa mandíbula mecânica em constante mutação. Sangue e líquido refrigerante espirram em câmara lenta sob a luz intensa de néon rosa e ciano. A câmara é puramente cinematográfica: um travelling em contra-picado que avança de forma agressiva e depois circunda o sujeito à medida que a transformação acelera para um body horror total — membros a alongarem-se, coluna a fracturar-se e a recompor-se num exoesqueleto mecânico segmentado, o rosto a desmoronar-se num híbrido de pesadelo entre humano e máquina. Profundidade de campo reduzida, lens flares anamórficos, gotas de chuva pesadas na objetiva, nevoeiro volumétrico e texturas fotorrealistas hiperdetalhadas (pele molhada, metal refletor, tecido rasgado, circuitos luminosos). Atmosfera sombria e opressiva, com um drone industrial crescente e gritos humanos distorcidos a ecoarem pelo beco. Ultrarrealista, cinematográfico, 35mm, alto nível de detalhe, sem estilização.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113287043811815424/img/oYksLa45_B08bXFp.jpg" width="600" alt="Transformação Corporal Cyberpunk com Horror">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12985)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113287133167239203) | **Published:** Oct 22, 2026
 
 ---
 ### Geração Precisa de Vídeo com Sincronização Labial
@@ -2168,82 +2265,6 @@ Adicione um fundo outonal com abóboras e cidra. Uma camisa longa marrom com fol
 **Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **Published:** Oct 15, 2026
 
 ---
-### Roadster Futurista Multi-Terreno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar um vídeo de um roadster ultra futurista com design aerodinâmico e capacidades multi-terreno.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo com um roadster ultra futurista, apresentando design aerodinâmico e elementos multi-terreno!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110747191383887872/img/28XU5XWWf8B-KZ4L.jpg" width="600" alt="Roadster Futurista Multi-Terreno">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12599)**
-
-**Author:** [Viswanath M. Aluru](https://x.com/vmaluru) | **Source:** [Link](https://x.com/vmaluru/status/2110747222333857995) | **Published:** Oct 15, 2026
-
----
-### Paródia Pirata de Elon Musk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo humorístico retratando Elon Musk como um pirata segurando uma espada com os dentes e um papagaio que se parece com Jeff Bezos.
-
-#### 📝 Prompt
-
-```
-Elon Musk como um pirata destemido segurando uma espada com os dentes e um papagaio que se parece com Jeff Bezos, parado sobre um mapa marcado com 'X' indicando o local do tesouro
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110722991394787328/img/q2n5f55li3qSyr_i.jpg" width="600" alt="Paródia Pirata de Elon Musk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12609)**
-
-**Author:** [Phillip Oyler](https://x.com/NdnCwby) | **Source:** [Link](https://x.com/NdnCwby/status/2110723009313136790) | **Published:** Oct 15, 2026
-
----
-### Prompt de Camadas Tranquilas da Natureza
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para gerar uma cena natural tranquila em alta resolução, envolvendo luz solar e galhos de árvores.
-
-#### 📝 Prompt
-
-```
-Uma cena tranquila e em alta resolução. Algo com "camadas" — talvez a luz do sol filtrando-se por entre os galhos de árvores antigas…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110711965127421952/img/Xs3vyc54482vJr2-.jpg" width="600" alt="Prompt de Camadas Tranquilas da Natureza">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12863)**
-
-**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2110711998111748354) | **Published:** Oct 15, 2026
-
----
-### Desfile de Moda Cinematográfico Ultra-Realista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar um vídeo realista de desfile de moda de uma mulher em um salão de baile de hotel de luxo usando o Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Vídeo cinematográfico ultra-realista ao vivo de uma bela mulher adulta, na casa dos 25 anos, caminhando graciosamente por um elegante salão de baile de hotel de luxo. Ela veste um deslumbrante vestido de gala longo até o chão, na cor champanhe-bege, com delicada bordadura em renda, padrões florais intrincados e silhueta ajustada. Seus longos cabelos castanho-escuros fluem naturalmente enquanto ela sorri confiante e olha para a câmera. Ela caminha lentamente e elegantemente passando por arranjos florais luxuosos, displays de flores brancas, piso de mármore polido e mesas lindamente decoradas. O fundo apresenta lustres dourados quentes, interiores ricos em madeira, iluminação âmbar suave e convidados elegantemente vestidos se movendo naturalmente à distância. A câmera acompanha suavemente seu movimento de um ângulo de três quartos, capturando o tecido fluido do vestido, o movimento realista da caminhada, expressões faciais naturais e o sutil movimento dos cabelos. Estética profissional de fotografia de moda, color grading cinematográfico quente, textura de pele realista, detalhes do tecido, profundidade de campo rasa, sombras naturais, movimento suave da câmera, qualidade visual 4K, detalhes fotorealistas, atmosfera sofisticada de luxo. Composição vertical 9:16, 6–10 segundos, 24 FPS. Manter características faciais consistentes, proporções corporais, design do vestido e iluminação durante todo o clipe. Sem cortes bruscos, sem mãos distorcidas, sem membros extras, sem tremulação, sem movimentos artificiais, sem texto, sem logos, sem marca d'água.
-```
-
-<img src="https://pbs.twimg.com/media/HUq1C0vaMAA1vBH.jpg" width="600" alt="Desfile de Moda Cinematográfico Ultra-Realista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12611)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **Published:** Oct 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2305,6 +2326,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-24T04:23:36.996Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-24T12:50:25.220Z</sub>
 
 </div>

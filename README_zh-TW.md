@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3198** |
+| 📝 提示詞總數 | **3202** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-10-24** |
 
@@ -189,6 +189,65 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Grok Imagine 日常生活影片提示詞
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 用於 Grok Imagine 的影片生成提示詞，描繪秋日雨天的散步場景，並確保兩個鏡頭之間角色外觀的一致性。
+
+#### 📝 提示詞
+
+```
+整體主題與架構
+* 總時長：12 秒（6 秒 x 2 個鏡頭）
+* 概念：秋雨後的日常悠閒散步
+* 角色一致性：維持 @Image1 與 @Image2 中女性的臉部、髮型及服裝一致（眼鏡、棕色包頭、黃色拉鍊針織外套、白色高領內搭、卡其工作褲、米色短靴）。
+
+BGM
+* 建議：溫暖放鬆的 Lo-Fi hip hop／acoustic 風格，搭配木吉他與鋼琴（契合雨後街景的平靜音樂）。
+
+[鏡頭細節]
+鏡頭 1（00:00 - 00:06）
+* 基礎圖片：@Image1
+* 場景：公園長椅（滿地紅葉的景象）
+* 動作／姿勢：
+  * 姿勢 1（0-3 秒）：從 @Image1 的狀態開始。坐在長椅上，眼神微垂，保持靜止。
+  * 姿勢 2（3-6 秒）：突然看向鏡頭（或正前方），輕柔微笑並微微調整鏡框。
+
+鏡頭 2（00:06 - 00:12）
+* 基礎圖片：@Image2
+* 場景：街角人行道（雨後的建築街區）
+* 動作／姿勢：
+  * 姿勢 1（6-9 秒）：從 @Image2 的狀態開始。站在街角撐著透明雨傘，望向鏡頭。
+  * 姿勢 2（9-12 秒）：稍微傾斜雨傘，開始緩步前行，回頭對著鏡頭微笑並輕輕揮手。
+```
+
+<img src="https://cms-assets.youmind.com/media/1792827729119_wlde2s_HVXKgy4aMAAKF0l.jpg" width="600" alt="Grok Imagine 日常生活影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12987)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **來源:** [Link](https://x.com/HaluAIArt/status/2113835372463472982) | **發布時間:** Oct 24, 2026
+
+---
+### 雨夜電車停靠站電影感人像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的詳細影片生成提示，呈現一位身穿旗袍的女子在 1930 年代上海電車停靠站的雨夜中，包含特定的燈光、鏡頭運動以及王家衛風格等參考元素。
+
+#### 📝 提示詞
+
+```
+直式電影感胸部以上特寫人像，構圖自鎖骨起算，場景為 1930 年代上海雨夜的電車站。開場即見一位美麗優雅的中國女子，身穿深祖母綠絲質旗袍，綴有金色滾邊與高立領，搭配手推波浪髮型與珍珠耳環；在溫暖潮濕的路燈下，臉龐呈現柔和的三分側面角度，細雨紛飛。鏡頭緩慢環繞她移動；身後背景虛化，老式電車溫暖的圓形車頭燈化作散景緩緩駛入，蒸氣氤氳飄過畫面；她慢慢將頭轉向光源。青藍與琥珀色調、變形鏡頭散景、底片顆粒感，營造王家衛式的氛圍。緊湊構圖：雙手絕不入鏡。背景完全模糊，無招牌、無路線指示牌，畫面中任何地方皆不得出現文字或字母。首格畫面即須清晰銳利。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113611402556440576/pu/img/zlFgnK4UjmwWCW-c.jpg" width="600" alt="雨夜電車停靠站電影感人像">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12986)**
+
+**作者:** [Brucewu666](https://x.com/452864064q45713) | **來源:** [Link](https://x.com/452864064q45713/status/2113611424572342475) | **發布時間:** Oct 23, 2026
+
+---
 ### 地精教授摔角策略
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +322,44 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12961)**
 
 **作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **來源:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **發布時間:** Oct 23, 2026
+
+---
+### 屋頂停電影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成電影感影片的提示詞，描繪女孩與爺爺在停電期間於屋頂觀看城市天際線亮起的場景。
+
+#### 📝 提示詞
+
+```
+夜晚，一座全面停電的城市屋頂。從背影望去，女孩與爺爺靜靜佇立；整片天際線瞬間亮起金光。鏡頭緩緩環繞至他們的正面，兩人帶著敬畏的神情微笑著。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113122860315340800/img/OsjgvqdGlF2ZCjCW.jpg" width="600" alt="屋頂停電影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12984)**
+
+**作者:** [Imagvio AI](https://x.com/Imagvio_AI) | **來源:** [Link](https://x.com/Imagvio_AI/status/2113374844448293044) | **發布時間:** Oct 22, 2026
+
+---
+### 賽博龐克身體恐怖變異
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的詳細影片提示詞，打造一個超寫實的賽博龐克場景：在雨夜霓虹巷弄中，人物經歷激烈的機械化變異過程。
+
+#### 📝 提示詞
+
+```
+夜幕低垂，在反烏托邦巨型城市的深處，一道孤獨的身影佇立於被雨水浸透的霓虹巷弄中。頭頂上， towering 的全像廣告看板閃爍不定，播放著損毀變調的廣告；高架道路上，川流不息的車陣化作一道道流光疾駛而過。這名身影開始了一場超越極限、超寫實的蛻變：皮膚如濕潤的有機組織般層層撕裂剝落，黑色的碳纖維裝甲與外露的鉻金屬生化機械結構從皮下猛烈破體而出。血肉與電路在眼前即時融合——肌腱重新接線化為光纖纜線，雙眼湧入液態金屬並分裂成多個發光的虹膜，下顎脫臼般張開，牙齒扭曲變形為不斷翻攪的機械巨口。在刺眼的霓虹粉紅與青色燈光下，鮮血與冷卻液以慢動作噴濺四散。鏡頭語言純粹且充滿電影感：採用低角度跟拍鏡頭強勢推進，隨後環繞主體運鏡，此時蛻變加速升級為徹底的肉體恐怖——四肢拉長延伸，脊椎斷裂並重組為分節式的機械外骨骼，臉龐塌陷崩解，化作人機交織的夢魘混合體。淺景深、變形寬銀幕鏡頭光暈、凝結在鏡頭上的沉重雨滴、體積霧，以及超精細的擬真材質（濕潤的皮膚、反光金屬、撕裂的布料、發光的電路）。整體氛圍黑暗壓抑，伴隨著逐漸增強的工業低頻噪音，以及迴盪在巷弄中扭曲失真的人類慘叫聲。超寫實、電影質感、35mm、高細節、無風格化處理。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113287043811815424/img/oYksLa45_B08bXFp.jpg" width="600" alt="賽博龐克身體恐怖變異">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12985)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2113287133167239203) | **發布時間:** Oct 22, 2026
 
 ---
 ### 精準口型同步影片生成
@@ -2165,82 +2262,6 @@ Grok Imagine 影片蒙太奇提示
 **作者:** [Mimi9060](https://x.com/MelodyM662010) | **來源:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **發布時間:** Oct 15, 2026
 
 ---
-### 超未來派多地形敞篷跑車
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成具備空氣動力學設計與多地形行駛能力的超未來派敞篷跑車影片的詳細提示詞。
-
-#### 📝 提示詞
-
-```
-生成一段影片，展示一款具備空氣動力學設計和多地形元素的超未來派敞篷跑車！
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110747191383887872/img/28XU5XWWf8B-KZ4L.jpg" width="600" alt="超未來派多地形敞篷跑車">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12599)**
-
-**作者:** [Viswanath M. Aluru](https://x.com/vmaluru) | **來源:** [Link](https://x.com/vmaluru/status/2110747222333857995) | **發布時間:** Oct 15, 2026
-
----
-### Elon Musk 海盜惡搞版
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段幽默的影片提示，將 Elon Musk 描繪成海盜，用牙齒咬著軍刀，肩上還站著一隻 Jeff Bezos 造型的鸚鵡。
-
-#### 📝 提示詞
-
-```
-Elon Musk 化身為一名揮舞軍刀的豪邁海盜，用牙齒咬著軍刀，肩上站著一隻長得像 Jeff Bezos 的鸚鵡，背景是一張標有「X 記號代表寶藏地點」的地圖
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110722991394787328/img/q2n5f55li3qSyr_i.jpg" width="600" alt="Elon Musk 海盜惡搞版">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12609)**
-
-**作者:** [Phillip Oyler](https://x.com/NdnCwby) | **來源:** [Link](https://x.com/NdnCwby/status/2110723009313136790) | **發布時間:** Oct 15, 2026
-
----
-### 寧靜自然層次提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成包含陽光與樹枝的高解析度寧靜自然場景的提示詞。
-
-#### 📝 提示詞
-
-```
-一幅高解析度的靜謐畫面。帶有「層次感」的意象——或許是陽光穿透古樹枝椏灑落的光影……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110711965127421952/img/Xs3vyc54482vJr2-.jpg" width="600" alt="寧靜自然層次提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12863)**
-
-**作者:** [Matt Wilson](https://x.com/MattWilson8178) | **來源:** [Link](https://x.com/MattWilson8178/status/2110711998111748354) | **發布時間:** Oct 15, 2026
-
----
-### 超寫實電影感時尚走秀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的提示詞，用於使用 Grok Imagine 生成一位女性在豪華酒店宴會廳中進行逼真時尚走秀的影片。
-
-#### 📝 提示詞
-
-```
-一段超寫實的電影感真人影片，展示一位二十多歲中段的美麗成年女性，優雅地穿過一座精緻的豪華酒店宴會廳。她身穿一件令人驚豔的香檳米色及地晚禮服，飾有精緻蕾絲刺繡、複雜花卉圖案以及修身輪廓。她的深棕色長髮自然飄動，自信微笑並望向鏡頭。她緩慢而優雅地走過奢華的花藝佈置、白色花藝展示、拋光大理石地板以及裝飾精美的桌子。背景特徵包括溫暖的金色吊燈、豐富的木質内饰、柔和的琥珀色燈光，以及遠處自然移動的身著正裝的客人。攝影機從四分之三角度平滑跟蹤她的動作，捕捉禮服面料的流動感、逼真的行走動態、自然的臉部表情以及細微的頭髮擺動。專業時尚攝影美學，溫暖的電影級調色，逼真的皮膚質感，細節豐富的面料，淺景深，自然陰影，流暢的攝影機運動，4K 視覺品質，照片級真實細節，精緻奢華的氛圍。垂直 9:16 構圖，時長 6–10 秒，24 FPS。在整個片段中保持一致的面部特徵、身體比例、禮服設計和光照效果。無突然剪輯，無扭曲的手部，無額外肢體，無閃爍，無不自然動作，無文字，無標誌，無浮水印。
-```
-
-<img src="https://pbs.twimg.com/media/HUq1C0vaMAA1vBH.jpg" width="600" alt="超寫實電影感時尚走秀">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12611)**
-
-**作者:** [Rizi](https://x.com/Rizi_ru) | **來源:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **發布時間:** Oct 15, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2302,6 +2323,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-24T04:23:25.731Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-24T12:50:12.326Z</sub>
 
 </div>

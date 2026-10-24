@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3198** |
+| 📝 Total Prompts | **3202** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-24** |
 
@@ -189,6 +189,63 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Günlük Hayat Video İstemi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine için sonbahar yağmurlu gün yürüyüşlerini iki kesit boyunca tutarlı karakter görünümüyle tasvir eden video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Genel Tema ve Yapı
+* Toplam Süre: 12 saniye (6 sn x 2 kesim)
+* Konsept: Yağmur sonrası sonbahar, günlük rahat bir yürüyüş
+* Karakter Tutarlılığı: @Image1 ve @Image2'deki kadının yüz, saç modeli ve kıyafet tutarlılığını koruyun (gözlük, topuz yapılmış kahverengi saç, sarı fermuarlı triko, beyaz balıkçı yaka, haki kargo pantolon, bej bot).
+BGM
+* Öneri: Akustik gitar ve piyano eşliğinde sıcak, sakin bir chill Lo-Fi hip hop/akustik ses (yağmur sonrası şehir manzarasına uygun dingin bir müzik).
+
+[Kesim Detayları]
+Kesim 1 (00:00 - 00:06)
+* Temel Görsel: @Image1
+* Mekan: Park bankı (dökülmüş kırmızı yaprakların olduğu bir sahne)
+* Hareket/Poz:
+  * Poz 1 (0-3 sn): @Image1 durumundan başlayın. Bankta oturuyor, gözleri hafifçe aşağıda, hareketsiz.
+  * Poz 2 (3-6 sn): Aniden kameraya (veya öne) bakmak, gözlük çerçevesini hafifçe düzeltirken yumuşak bir şekilde gülümsemek.
+Kesim 2 (00:06 - 00:12)
+* Temel Görsel: @Image2
+* Mekan: Sokak köşesindeki kaldırım (yağmur sonrası binaların olduğu bölge)
+* Hareket/Poz:
+  * Poz 1 (6-9 sn): @Image2 durumundan başlayın. Şeffaf şemsiyesini tutarak sokak köşesinde duruyor ve kameraya bakıyor.
+  * Poz 2 (9-12 sn): Şemsiyeyi hafifçe eğmek, yavaşça yürümeye başlamak, arkasına dönüp kameraya gülümseyerek küçük bir el sallamak.
+```
+
+<img src="https://cms-assets.youmind.com/media/1792827729119_wlde2s_HVXKgy4aMAAKF0l.jpg" width="600" alt="Grok Imagine Günlük Hayat Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12987)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2113835372463472982) | **Published:** Oct 24, 2026
+
+---
+### Yağmurlu Gece Tramvay Durağı Sinematik Portre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, Wong Kar-wai gibi stil referansları ve belirli aydınlatma ile kamera hareketleri içeren, yağmurlu bir gecede 1930'lar Şanghay tramvay durağında qipao giyen bir kadının sinematik yakın çekim portresini oluşturmak üzere hazırlanmış detaylı video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Dikey sinematik, göğüs hizasından yakın çekim portre; köprücük kemiğinden yukarısı kadrajda, 1930'lar Şangay'ı, yağmurlu bir gece, tramvay durağı. Açılış anında derin zümrüt yeşili, altın şeritli ve yüksek mandarin yakalı ipek qipao elbisesi içinde zarif, güzel bir Çinli kadın belirir; parmak dalgası saç modeli, inci küpeler, sıcak ve ıslak bir sokak lambasının altında yumuşak üç çeyrek profilden görünen yüzü, yağan yağmur. Kameranın etrafında yavaşça dönmesi; arkasında, odak dışı, nostaljik bir tramvayın sıcak, yuvarlak farı bokeh olarak süzülerek kadraja girer ve buhar yayılır; kadın başını yavaşça ışığa doğru çevirir. Teal ve amber renk tonlaması, anamorfik bokeh, film greni, Wong Kar-wai atmosferi. Sıkı kadraj: eller hiçbir zaman kareye girmez. Arka plan tamamen bulanık; tabela yok, durak panosu yok, hiçbir yerde yazı veya harf yok. İlk kareden itibaren keskin netlik.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113611402556440576/pu/img/zlFgnK4UjmwWCW-c.jpg" width="600" alt="Yağmurlu Gece Tramvay Durağı Sinematik Portre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12986)**
+
+**Author:** [Brucewu666](https://x.com/452864064q45713) | **Source:** [Link](https://x.com/452864064q45713/status/2113611424572342475) | **Published:** Oct 23, 2026
+
+---
 ### Cüce Profesyonel Güreşçiye Strateji Öğretiyor
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +320,44 @@ Bir gün içi alım satım (day trading) stratejisi uydurun ve bir cücenin bunu
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12961)**
 
 **Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **Published:** Oct 23, 2026
+
+---
+### Çatı Karartması Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kız ve dedesinin, elektrik kesintisi sırasında çatıdan şehir silüetinin aydınlanmasını izlediği sinematik bir video oluşturmak için istem.
+
+#### 📝 Prompt
+
+```
+Tamamen karanlığa gömülmüş bir şehrin üzerinde, gece vakti bir çatı. Bir kız ve dedesi arkadan görülüyor, kıpırdamadan duruyorlar; tüm şehir silueti birden altın sarısı bir ışıkla aydınlanıyor. Kamera yüzlerine doğru yavaşça dönüyor; ikisi de hayranlık içinde gülümsüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113122860315340800/img/OsjgvqdGlF2ZCjCW.jpg" width="600" alt="Çatı Karartması Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12984)**
+
+**Author:** [Imagvio AI](https://x.com/Imagvio_AI) | **Source:** [Link](https://x.com/Imagvio_AI/status/2113374844448293044) | **Published:** Oct 22, 2026
+
+---
+### Siberpunk Vücut Korkusu Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, bir kişinin yağmurla ıslanmış neon sokakta şiddetli mekanik bir dönüşüm geçirdiği hiper gerçekçi bir siberpunk sahnesini oluşturan detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Gece vakti, distopik bir megakentin derinliklerinde yağmurdan sırılsıklam olmuş neon ışıklı bir sokakta tek başına bir silüet durmaktadır. Devasa holografik reklam panoları tepede bozulmuş reklamlarla titreşirken, yükseltilmiş otoyollarda bitmek bilmeyen araç akınları hızla yanıp geçmektedir. Silüetin bedeni bir üst seviye, hiper gerçekçi bir dönüşüme girer: Derisi ıslak, organik katmanlar halinde yarılıp geriye doğru soyulurken altından siyah karbon fiber plakalar ve açıkta kalmış krom biyomekanik parçalar şiddetle fırlar. Et ve devreler gerçek zamanlı olarak kaynaşır; tendonlar fiber optik kablolara dönüşür, gözler sıvı metalle dolarak birden fazla parlayan irise ayrılır, çene yerinden çıkarken dişler hareketli mekanik bir ağız boşluğuna evrilir. Sert neon pembe ve camgöbeği ışıkların altında kan ile soğutucu sıvı ağır çekimde etrafa saçılır. Kamera tamamen sinematiktir: Agresif biçimde yaklaşan alçak açılı takip çekimi, ardından dönüşüm tam bir beden dehşetine hız kazandıkça öznenin etrafında döner; uzuvlar uzar, omurga kırılıp segmentli mekanik bir dış iskelete dönüşerek yeniden şekillenir, yüz insan ve makinenin kabus gibi bir melezi haline gelerek çöker. Sığ alan derinliği, anamorfik lens parlamaları, lens üzerindeki yoğun yağmur damlaları, hacimsel sis ve hiper detaylı fotogerçekçi dokular (ıslak deri, yansıtıcı metal, yırtılmış kumaş, parlayan devreler). Yükselen endüstriyel bir uğultu ve sokakta yankılanan bozulmuş insan çığlıklarıyla desteklenen karanlık, bunaltıcı bir atmosfer. Ultra gerçekçi, sinematik, 35mm, yüksek detay, stilizasyon yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113287043811815424/img/oYksLa45_B08bXFp.jpg" width="600" alt="Siberpunk Vücut Korkusu Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12985)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113287133167239203) | **Published:** Oct 22, 2026
 
 ---
 ### Hassas Dudak Senkronizasyonu Video Oluşturma
@@ -2168,82 +2263,6 @@ Balkabakları ve elma şırası ile sonbahar arka planı ekle. Kahverengi uzun y
 **Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **Published:** Oct 15, 2026
 
 ---
-### Fütüristik Çok Arazi Yollu Roadster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Aerodinamik tasarıma ve çoklu arazi yeteneklerine sahip ultra fütüristik bir roadster videosu oluşturmak için detaylı istem.
-
-#### 📝 Prompt
-
-```
-Aerodinamik tasarıma ve çoklu arazi unsurlarına sahip ultra fütüristik bir roadster videosu oluşturun!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110747191383887872/img/28XU5XWWf8B-KZ4L.jpg" width="600" alt="Fütüristik Çok Arazi Yollu Roadster">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12599)**
-
-**Author:** [Viswanath M. Aluru](https://x.com/vmaluru) | **Source:** [Link](https://x.com/vmaluru/status/2110747222333857995) | **Published:** Oct 15, 2026
-
----
-### Elon Musk Korsan Parodisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Elon Musk'ın ağzında kılıç ve Jeff Bezos'a benzeyen bir papağanla korsan olarak tasvir edildiği, mizahi bir video istemi.
-
-#### 📝 Prompt
-
-```
-Ağzında kılıç tutan, Jeff Bezos'a benzeyen bir papağanı omzunda taşıyan ve üzerinde 'X işareti hazineyi gösterir' yazılı harita duran Elon Musk'ın maceracı korsan portresi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110722991394787328/img/q2n5f55li3qSyr_i.jpg" width="600" alt="Elon Musk Korsan Parodisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12609)**
-
-**Author:** [Phillip Oyler](https://x.com/NdnCwby) | **Source:** [Link](https://x.com/NdnCwby/status/2110723009313136790) | **Published:** Oct 15, 2026
-
----
-### Huzurlu Doğa Katmanları Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Güneş ışığı ve ağaç dallarını içeren yüksek çözünürlüklü huzurlu bir doğa sahnesi oluşturmak için kullanılan prompt.
-
-#### 📝 Prompt
-
-```
-Yüksek çözünürlüklü, huzur dolu bir sahne. "Katmanları" olan bir şey; belki de asırlık ağaç dallarının arasından süzülen güneş ışığı…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110711965127421952/img/Xs3vyc54482vJr2-.jpg" width="600" alt="Huzurlu Doğa Katmanları Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12863)**
-
-**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2110711998111748354) | **Published:** Oct 15, 2026
-
----
-### Ultra Gerçekçi Sinematik Moda Defilesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine kullanarak lüks bir otel balo salonunda yürüyen gerçekçi bir kadın moda videosu oluşturmak için detaylı istem.
-
-#### 📝 Prompt
-
-```
-Lüks bir otel balo salonunda zarifçe yürüyen, 20'li yaşlarının ortasında güzel bir yetişkin kadının ultra gerçekçi sinematik canlı aksiyon videosu. Üzerinde ince dantel işlemeleri, karmaşık çiçek desenleri ve vücuda oturan kesimiyle büyüleyici şampanya-bej rengi, yere kadar uzanan bir gece elbisesi var. Uzun, koyu kahverengi saçları doğal bir şekilde dalgalanırken, kendinden emin bir şekilde gülümseyerek kameraya bakıyor. Lüks çiçek düzenlemelerinin, beyaz çiçek sergilerinin, cilalı mermer zeminlerin ve özenle dekore edilmiş masaların yanından yavaşça ve zarifçe geçiyor. Arka planda sıcak altın avizeler, zengin ahşap iç mekanlar, yumuşak kehribar aydınlatma ve uzakta doğal hareketlerle elegantly giyinmiş misafirler yer alıyor. Kamera, onun hareketini üç çeyrek açıdan pürüzsüzce takip ederek elbisesinin akan kumaşını, gerçekçi yürüyüş hareketini, doğal yüz ifadelerini ve hafif saç hareketlerini yakalıyor. Profesyonel moda fotoğrafçılığı estetiği, sıcak sinematik renk düzenleme, gerçekçi cilt dokusu, detaylı kumaş, sığ alan derinliği, doğal gölgeler, akıcı kamera hareketi, 4K görsel kalite, fotogerçekçi detaylar, sofistike lüks atmosfer. Dikey 9:16 kompozisyon, 6–10 saniye, 24 FPS. Klip boyunca tutarlı yüz özellikleri, vücut oranları, elbise tasarımı ve aydınlatmayı koruyun. Ani kesimler yok, bozuk eller yok, ekstra uzuvlar yok, titreme yok, yapay hareketler yok, metin yok, logo yok, filigran yok.
-```
-
-<img src="https://pbs.twimg.com/media/HUq1C0vaMAA1vBH.jpg" width="600" alt="Ultra Gerçekçi Sinematik Moda Defilesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12611)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **Published:** Oct 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2305,6 +2324,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-24T04:23:38.010Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-24T12:50:26.227Z</sub>
 
 </div>

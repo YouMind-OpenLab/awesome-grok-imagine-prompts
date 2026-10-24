@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3198** |
+| 📝 총 프롬프트 수 | **3202** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-10-24** |
 
@@ -189,6 +189,65 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Grok Imagine 일상 영상 프롬프트
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 두 컷에 걸쳐 일관된 캐릭터 외형을 유지하며 가을 비 오는 날의 산책을 묘사하는 Grok Imagine 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+전체 테마 및 구성
+* 총 길이: 12 초 (6 초 x 2 컷)
+* 콘셉트: 비 갠 뒤의 가을, 가벼운 일상 산책
+* 캐릭터 일관성: @Image1 과 @Image2 에 등장하는 여성의 얼굴, 헤어스타일, 의상 일관성을 유지합니다(안경, 올려 묶은 갈색 머리, 노란색 집업 니트, 흰색 터틀넥, 카키색 카고 팬츠, 베이지색 부츠).
+
+BGM
+* 제안: 어쿠스틱 기타와 피아노 선율이 어우러진 따뜻한 느낌의 차분한 Lo-Fi 힙합/어쿠스틱 사운드(비 갠 뒤의 도시 풍경과 잘 어울리는 잔잔한 음악).
+
+[컷 상세 설명]
+컷 1 (00:00 - 00:06)
+* 기본 이미지: @Image1
+* 장소: 공원 벤치 (붉은 낙엽이 떨어진 장면)
+* 동작/포즈:
+  * 포즈 1 (0-3 초): @Image1 상태에서 시작합니다. 벤치에 앉아 시선을 살짝 아래로 내린 채 가만히 머물러 있습니다.
+  * 포즈 2 (3-6 초): 문득 카메라(또는 정면)를 바라보며, 안경테를 살짝 고쳐 쓰면서 부드럽게 미소 짓습니다.
+
+컷 2 (00:06 - 00:12)
+* 기본 이미지: @Image2
+* 장소: 길모퉁이 인도 (비 갠 뒤의 건물 주변)
+* 동작/포즈:
+  * 포즈 1 (6-9 초): @Image2 상태에서 시작합니다. 투명 우산을 든 채 길모퉁이에 서서 카메라를 바라봅니다.
+  * 포즈 2 (9-12 초): 우산을 살짝 기울이며 천천히 걷기 시작하고, 뒤를 돌아 카메라를 향해 미소 지으며 작게 손을 흔듭니다.
+```
+
+<img src="https://cms-assets.youmind.com/media/1792827729119_wlde2s_HVXKgy4aMAAKF0l.jpg" width="600" alt="Grok Imagine 일상 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12987)**
+
+**작성자:** [はる](https://x.com/HaluAIArt) | **출처:** [Link](https://x.com/HaluAIArt/status/2113835372463472982) | **게시일:** Oct 24, 2026
+
+---
+### 비 오는 밤 전차 정류장 시네마틱 초상화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Wong Kar-wai 스타일의 조명, 카메라 무브먼트 및 레퍼런스를 포함하여 비 오는 밤 1930년대 상하이 전차 정류장에서 치파오를 입은 여성의 시네마틱 클로즈업 초상화를 Grok Imagine으로 생성하기 위한 상세한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+세로형 시네마틱 가슴 위 클로즈업 초상, 쇄골부터 위로 프레이밍, 1930년대 상하이의 비 내리는 밤 전차 정류장. 금색 파이핑과 높은 만다린 칼라가 더해진 짙은 에메랄드빛 실크 치파오를 입고, 핑거 웨이브 헤어스타일에 진주 귀걸이를 한 아름답고 우아한 중국 여성이 젖은 따뜻한 가로등 아래 부드러운 3/4 측면으로 얼굴을 보이며 즉시 등장하고, 비가 내린다. 그녀를 중심으로 천천히 오비팅하며, 그녀의 뒤쪽 아웃포커스된 공간에서 빈티지 전차의 둥글고 따뜻한 헤드라이트가 보케처럼 부드럽게 미끄러져 들어오고 증기가 화면을 가로질러 피어오른다. 그녀는 빛을 향해 천천히 고개를 돌린다. 틸 앤 앰버 색감, 아나모픽 보케, 필름 그레인, 왕자웨이 특유의 분위기. 타이트한 프레이밍: 손은 절대 프레임에 잡히지 않는다. 배경은 완전히 블러 처리되고, 표지판이나 행선지 안내판, 텍스트나 글자는 어디에도 없다. 첫 프레임부터 선명하게.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113611402556440576/pu/img/zlFgnK4UjmwWCW-c.jpg" width="600" alt="비 오는 밤 전차 정류장 시네마틱 초상화">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12986)**
+
+**작성자:** [Brucewu666](https://x.com/452864064q45713) | **출처:** [Link](https://x.com/452864064q45713/status/2113611424572342475) | **게시일:** Oct 23, 2026
+
+---
 ### 난쟁이의 프로 레슬링 선수 대상 데이 트레이딩 전략 강의
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +322,44 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12961)**
 
 **작성자:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **출처:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **게시일:** Oct 23, 2026
+
+---
+### 옥상 정전 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 정전 중 옥상에서 할아버지와 손녀가 도시 스카이라인이 다시 밝아지는 모습을 바라보는 시네마틱 영상을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+완전히 정전된 도시 위, 밤의 옥상. 한 소녀와 할아버지가 뒷모습을 보인 채 가만히 서 있고, 도시의 스카이라인 전체가 황금빛으로 환하게 밝아오릅니다. 카메라가 두 사람의 얼굴로 천천히 원을 그리며 다가가면, 경이로운 미소가 번집니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113122860315340800/img/OsjgvqdGlF2ZCjCW.jpg" width="600" alt="옥상 정전 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12984)**
+
+**작성자:** [Imagvio AI](https://x.com/Imagvio_AI) | **출처:** [Link](https://x.com/Imagvio_AI/status/2113374844448293044) | **게시일:** Oct 22, 2026
+
+---
+### 사이버펑크 바디 호러 변형
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 위한 상세한 영상 프롬프트로, 비에 젖은 네온 골목에서 한 사람이 격렬한 기계적 변형을 겪는 초현실적인 사이버펑크 장면을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+밤, 디스토피아적 메가시티 깊은 곳의 빗물에 흠뻑 젖은 네온 골목에 외로운 인물이 홀로 서 있다. 머리 위로는 거대한 홀로그램 광고판이 손상된 광고를 내보내며 깜빡이고, 고가도로 위로는 끝없는 차량 행렬이 빛의 궤적을 그리며 질주한다. 인물의 몸이 차원을 초월한 극사실적 변이를 시작한다. 피부가 축축하고 유기적인 층으로 갈라지며 벗겨지고, 그 아래에서 검은 탄소 섬유 판과 크롬이 그대로 드러난 생체 기계 구조가 격렬하게 뚫고 나온다. 살점과 회로가 실시간으로 융합된다. 힘줄은 광섬유 케이블로 재배선되고, 눈에는 액체 금속이 차올라 여러 개의 빛나는 홍채로 분열되며, 턱관절이 탈구되면서 치아는 끊임없이 형태가 바뀌는 기계적 아귀로 변형된다. 강렬한 네온 핑크와 시안 조명 아래로 피와 냉각수가 슬로우 모션으로 튀어 오른다. 카메라는 완벽한 영화적 구도를 잡는다. 공격적으로 피사체를 향해 밀고 들어가는 로우 앵글 트래킹 숏으로 시작해, 변이가 전신 공포(body horror)로 가속화됨에 따라 대상을 원을 그리며 선회한다. 사지가 길게 늘어나고, 척추가 부러졌다가 분절된 기계식 외골격으로 재조립되며, 얼굴은 인간과 기계가 뒤섞인 악몽 같은 형태로 무너져 내린다. 얕은 피사계 심도, 애너모픽 렌즈 플레어, 렌즈 위로 떨어지는 굵은 빗방울, 볼류메트릭 포그, 그리고 극도로 정교한 포토 리얼리스틱 텍스처(젖은 피부, 반사되는 금속, 찢어진 천, 빛나는 회로)가 돋보인다. 점차 고조되는 인더스트리얼 드론 사운드와 골목을 울려 퍼지는 왜곡된 인간의 비명이 어우러져, 어둡고 숨 막히는 분위기를 자아낸다. 초현실적, 필름 룩, 35mm, 고해상도 디테일, 스타일라이징 배제.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113287043811815424/img/oYksLa45_B08bXFp.jpg" width="600" alt="사이버펑크 바디 호러 변형">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12985)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2113287133167239203) | **게시일:** Oct 22, 2026
 
 ---
 ### 정밀한 입모양 동기화 영상 생성
@@ -2167,82 +2264,6 @@ Grok Imagine Video Montage Prompt
 **작성자:** [Mimi9060](https://x.com/MelodyM662010) | **출처:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **게시일:** Oct 15, 2026
 
 ---
-### 미래형 멀티 테레인 로드스터
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 공기역학적 디자인과 멀티 테레인 기능을 갖춘 초미래형 로드스터 영상을 생성하기 위한 상세 프롬프트.
-
-#### 📝 프롬프트
-
-```
-공기역학적 디자인과 멀티 테레인 요소를 갖춘 초미래형 로드스터 영상을 만들어 주세요!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110747191383887872/img/28XU5XWWf8B-KZ4L.jpg" width="600" alt="미래형 멀티 테레인 로드스터">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12599)**
-
-**작성자:** [Viswanath M. Aluru](https://x.com/vmaluru) | **출처:** [Link](https://x.com/vmaluru/status/2110747222333857995) | **게시일:** Oct 15, 2026
-
----
-### Elon Musk 해적 패러디
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Elon Musk가 이를 악물고 검을 물고 Jeff Bezos를 닮은 앵무새와 함께 등장하는 유머러스한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Elon Musk가 이를 악물고 Sabre(검)를 물고 있으며, Jeff Bezos를 닮은 앵무새가 X marks the spot이라고 적힌 지도 위에 서 있는 해적 복장의 모습
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110722991394787328/img/q2n5f55li3qSyr_i.jpg" width="600" alt="Elon Musk 해적 패러디">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12609)**
-
-**작성자:** [Phillip Oyler](https://x.com/NdnCwby) | **출처:** [Link](https://x.com/NdnCwby/status/2110723009313136790) | **게시일:** Oct 15, 2026
-
----
-### 고요한 자연 레이어 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> sunlight과 tree branches가 어우러진 고해상도 평온한 자연 풍경을 생성하기 위한 prompt입니다.
-
-#### 📝 프롬프트
-
-```
-고해상도의 고요한 풍경. '레이어'가 느껴지는 무언가… 예를 들어, 오래된 나뭇가지 사이로 스며드는 햇살 같은 것 말이죠…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110711965127421952/img/Xs3vyc54482vJr2-.jpg" width="600" alt="고요한 자연 레이어 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12863)**
-
-**작성자:** [Matt Wilson](https://x.com/MattWilson8178) | **출처:** [Link](https://x.com/MattWilson8178/status/2110711998111748354) | **게시일:** Oct 15, 2026
-
----
-### 초현실적 시네마틱 패션 워킹
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 사용하여 럭셔리 호텔 연회장에서의 여성 패션 워킹 영상을 생성하기 위한 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-20대 중반의 아름다운 성인이 우아하게 럭셔리 호텔 연회장을 걸어가는 초현실적인 시네마틱 라이브 액션 영상. 그녀는 섬세한 레이스 자수와 정교한 꽃무늬 패턴이 장식된 샴페인 베이지색 롱 이브닝 드레스를 입고 있으며, 몸매가 드러나는 핏 실루엣을 연출합니다. 그녀의 긴 갈색 머리는 자연스럽게 흐르고 있으며, 자신감 있게 미소 지으며 카메라를 응시합니다. 그녀는 고급스러운 꽃 장식, 흰색 꽃 디스플레이, 매끄러운 대리석 바닥, 그리고 아름답게 장식된 테이블들을 지나며 천천히 우아하게 걷습니다. 배경에는 따뜻한 금빛 샹들리에, 풍부한 목재 인테리어, 부드러운 앰버 조명, 그리고 멀리서 자연스럽게 움직이는 세련되게 차려입은 손님들이 보입니다. 카메라는 3/4 각도에서 그녀의 움직임을 부드럽게 추적하며, 드레스의 흐르는 원단, 현실적인 보행 동작, 자연스러운 표정, 그리고 미세한 머리 움직임까지 포착합니다. 전문 패션 사진 미학, 따뜻한 시네마틱 컬러 그레이딩, 사실적인 피부 질감, 디테일한 원단 표현, 얕은 피사계 심도, 자연스러운 그림자, 부드러운 카메라 무빙, 4K 시각 품질, 포토 리얼리스틱 디테일, 세련된 럭셔리 분위기. 세로 9:16 구도, 6~10초 길이, 24 FPS. 전체 클립 동안 얼굴 특징, 신체 비율, 드레스 디자인, 조명을 일정하게 유지하세요. 갑작스러운 컷 전환, 왜곡된 손, 추가 사지, 깜빡임, 부자연스러운 움직임, 텍스트, 로고, 워터마크 금지.
-```
-
-<img src="https://pbs.twimg.com/media/HUq1C0vaMAA1vBH.jpg" width="600" alt="초현실적 시네마틱 패션 워킹">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12611)**
-
-**작성자:** [Rizi](https://x.com/Rizi_ru) | **출처:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **게시일:** Oct 15, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2304,6 +2325,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-24T04:23:27.682Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-24T12:50:14.779Z</sub>
 
 </div>

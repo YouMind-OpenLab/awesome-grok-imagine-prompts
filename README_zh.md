@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3198** |
+| 📝 提示词总数 | **3202** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-10-24** |
 
@@ -189,6 +189,65 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Grok Imagine 日常生活视频提示词
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine 视频生成提示词，描绘秋日雨天漫步场景，确保两个镜头中角色外观一致。
+
+#### 📝 提示词
+
+```
+整体主题与结构
+* 总时长：12 秒（6 秒 x 2 个镜头）
+* 概念：秋雨初歇，日常随性漫步
+* 角色一致性：保持 @Image1 和 @Image2 中女性角色的面部、发型及穿搭一致（戴眼镜、棕色盘发、黄色拉链针织衫、白色高领内搭、卡其色工装裤、米色短靴）。
+
+BGM
+* 建议：温暖慵懒的 Lo-Fi hip hop/原声风格，搭配木吉他与钢琴（契合雨后城市街景的舒缓音乐）。
+
+[镜头详情]
+镜头 1（00:00 - 00:06）
+* 基础图片：@Image1
+* 场景：公园长椅（地面铺满红落叶的画面）
+* 动作/姿态：
+  * 姿态 1（0-3 秒）：从 @Image1 的状态开始。坐在长椅上，目光微垂，保持静止。
+  * 姿态 2（3-6 秒）：突然看向镜头（或正前方），轻轻扶一下镜框，露出浅浅的微笑。
+
+镜头 2（00:06 - 00:12）
+* 基础图片：@Image2
+* 场景：街角人行道（雨后的建筑街区）
+* 动作/姿态：
+  * 姿态 1（6-9 秒）：从 @Image2 的状态开始。撑着透明雨伞站在街角，望向镜头。
+  * 姿态 2（9-12 秒）：将伞微微倾斜，缓缓起步向前走去，随后回头，对着镜头微笑并轻轻挥手。
+```
+
+<img src="https://cms-assets.youmind.com/media/1792827729119_wlde2s_HVXKgy4aMAAKF0l.jpg" width="600" alt="Grok Imagine 日常生活视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12987)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **来源:** [Link](https://x.com/HaluAIArt/status/2113835372463472982) | **发布时间:** Oct 24, 2026
+
+---
+### 雨夜电车站电影感肖像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 打造的详细视频生成提示词，呈现一位身着旗袍的女子在 1930 年代上海雨夜电车站的电影感特写肖像，包含特定的灯光、运镜手法以及王家卫风格等美学参考。
+
+#### 📝 提示词
+
+```
+竖构图电影感胸部以上特写人像，取景自锁骨向上，1930 年代上海雨夜电车站。开场即是一位美丽优雅的中国女性，身着深祖母绿真丝旗袍，镶金边、高立领，手推波纹发型，佩戴珍珠耳环，在温暖湿润的路灯下呈现柔和的三分之四侧脸，细雨纷飞。镜头缓慢环绕她移动；在她身后虚焦处，一辆老式电车温暖的圆形车灯化作光斑缓缓驶入画面，水汽氤氲弥漫；她慢慢将头转向光源。青橙色调，变形宽银幕光斑，胶片颗粒感，王家卫式氛围。紧凑构图：双手始终不出现在画面中。背景完全虚化，无标识牌、无站牌、无任何文字或字母。首帧起即清晰锐利。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113611402556440576/pu/img/zlFgnK4UjmwWCW-c.jpg" width="600" alt="雨夜电车站电影感肖像">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12986)**
+
+**作者:** [Brucewu666](https://x.com/452864064q45713) | **来源:** [Link](https://x.com/452864064q45713/status/2113611424572342475) | **发布时间:** Oct 23, 2026
+
+---
 ### 侏儒教授职业摔角策略
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +322,44 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12961)**
 
 **作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **来源:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **发布时间:** Oct 23, 2026
+
+---
+### 屋顶停电视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成电影感视频的提示词：描绘女孩与祖父在停电期间于屋顶观看城市天际线亮起的场景。
+
+#### 📝 提示词
+
+```
+夜幕下的城市天台，全城陷入一片漆黑。女孩和爷爷静静伫立，镜头从背后拍摄；整条天际线骤然亮起金光。镜头缓缓环绕至两人正面，他们满眼惊叹，露出微笑。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113122860315340800/img/OsjgvqdGlF2ZCjCW.jpg" width="600" alt="屋顶停电视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12984)**
+
+**作者:** [Imagvio AI](https://x.com/Imagvio_AI) | **来源:** [Link](https://x.com/Imagvio_AI/status/2113374844448293044) | **发布时间:** Oct 22, 2026
+
+---
+### 赛博朋克身体恐怖变形
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的详细视频提示词，用于创建一个超写实的赛博朋克场景：一个人在雨夜霓虹小巷中经历剧烈的机械变形。
+
+#### 📝 提示词
+
+```
+夜幕之下，反乌托邦巨型都市深处，一条被雨水浸透的霓虹小巷里，一个孤独的身影静静伫立。头顶巨大的全息广告牌不断闪烁，播放着数据损坏的错乱广告；高架公路上，车流如无尽的光带呼啸而过。这个身影的身体开始了一场超越极限、极致逼真的异变：皮肤像湿润的有机组织般层层撕裂剥落，黑色的碳纤维装甲与裸露的铬合金生物机械结构从皮下猛烈破出。血肉与电路在眼前实时融合——肌腱重组为光纤线缆，双眼被液态金属灌满并分裂成多个发光的虹膜，下颌脱臼张开，牙齿扭曲变形为一张不断蠕动的机械巨口。在刺眼的霓虹粉与青蓝色灯光下，血液与冷却液以慢动作喷溅而出。镜头语言极具电影感：低角度跟拍强势推进，随后环绕主体旋转，此时异变加速升级为彻底的肉体恐怖——四肢拉长，脊椎断裂并重组为分节式机械外骨骼，面部塌陷成人与机器交织的梦魇混合体。浅景深、变形宽银幕镜头光晕、镜片上沉重的雨滴、体积雾，以及超精细的照片级真实材质（湿润的皮肤、反光的金属、撕裂的织物、发光的电路）。氛围黑暗压抑，低沉的工业嗡鸣声逐渐攀升，扭曲的人声惨叫在小巷中回荡。超写实、电影质感、35mm 胶片、高细节、无任何风格化处理。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113287043811815424/img/oYksLa45_B08bXFp.jpg" width="600" alt="赛博朋克身体恐怖变形">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12985)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2113287133167239203) | **发布时间:** Oct 22, 2026
 
 ---
 ### 精准口型同步视频生成
@@ -2168,82 +2265,6 @@ Grok Imagine 视频蒙太奇提示
 **作者:** [Mimi9060](https://x.com/MelodyM662010) | **来源:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **发布时间:** Oct 15, 2026
 
 ---
-### 未来感多地形敞篷跑车
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成具有空气动力学设计和多地形能力的超未来主义敞篷跑车的详细提示词。
-
-#### 📝 提示词
-
-```
-创建一个视频，展示一款具有空气动力学设计和多地形元素的超未来主义敞篷跑车！
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110747191383887872/img/28XU5XWWf8B-KZ4L.jpg" width="600" alt="未来感多地形敞篷跑车">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12599)**
-
-**作者:** [Viswanath M. Aluru](https://x.com/vmaluru) | **来源:** [Link](https://x.com/vmaluru/status/2110747222333857995) | **发布时间:** Oct 15, 2026
-
----
-### 埃隆·马斯克海盗恶搞视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段幽默的视频提示词，描绘了埃隆·马斯克（Elon Musk）扮成海盗，用牙齿咬着一把军刀，肩上还站着一只像杰夫·贝佐斯（Jeff Bezos）的鹦鹉。
-
-#### 📝 提示词
-
-```
-埃隆·马斯克（Elon Musk）扮演一名威风凛凛的海盗，用牙齿咬着一把军刀，肩上站着一只长得像杰夫·贝佐斯（Jeff Bezos）的鹦鹉，脚下踩着一张标有“X 标记此处”的藏宝图
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110722991394787328/img/q2n5f55li3qSyr_i.jpg" width="600" alt="埃隆·马斯克海盗恶搞视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12609)**
-
-**作者:** [Phillip Oyler](https://x.com/NdnCwby) | **来源:** [Link](https://x.com/NdnCwby/status/2110723009313136790) | **发布时间:** Oct 15, 2026
-
----
-### 宁静自然层次提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成包含阳光和树枝的高分辨率宁静自然场景的提示词。
-
-#### 📝 提示词
-
-```
-一幅高分辨率的静谧画面。带有“层次感”的意境——或许是阳光透过古树枝桠洒落而下……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110711965127421952/img/Xs3vyc54482vJr2-.jpg" width="600" alt="宁静自然层次提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12863)**
-
-**作者:** [Matt Wilson](https://x.com/MattWilson8178) | **来源:** [Link](https://x.com/MattWilson8178/status/2110711998111748354) | **发布时间:** Oct 15, 2026
-
----
-### 超写实电影感时尚走秀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用 Grok Imagine 生成奢华酒店宴会厅中女性走秀视频的详细提示词。
-
-#### 📝 提示词
-
-```
-一段超写实的电影感真人实拍视频，展示一位二十多岁的美丽成年女性在优雅的豪华酒店宴会厅中优雅行走。她身穿一件令人惊艳的香槟米色落地晚礼服，饰有精致的蕾丝刺绣、复杂的花卉图案和修身剪裁。当她自信微笑并望向镜头时，深棕色的长发自然飘动。她缓慢而优雅地走过奢华的花艺布置、白色花卉展示、抛光大理石地板以及装饰精美的桌子。背景包括温暖的金色吊灯、丰富的木质内饰、柔和的琥珀色灯光，以及远处衣着考究、自然活动的宾客。摄像机以四分之三角度平滑跟踪她的动作，捕捉礼服面料的流动感、真实的行走动态、自然的面部表情和细微的发丝摆动。专业时尚摄影美学，温暖的电影级调色，逼真的皮肤质感，细节丰富的面料，浅景深，自然阴影，流畅的运镜，4K 画质，照片级真实细节，精致奢华的氛围。竖屏 9:16 构图，时长 6–10 秒，24 FPS。在整个片段中保持面部特征、身体比例、礼服设计和光照的一致性。无突然剪辑，无扭曲的手部，无多余肢体，无闪烁，无人工痕迹的动作，无文字，无标志，无水印。
-```
-
-<img src="https://pbs.twimg.com/media/HUq1C0vaMAA1vBH.jpg" width="600" alt="超写实电影感时尚走秀">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12611)**
-
-**作者:** [Rizi](https://x.com/Rizi_ru) | **来源:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **发布时间:** Oct 15, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2305,6 +2326,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-24T04:23:24.740Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-24T12:50:10.414Z</sub>
 
 </div>

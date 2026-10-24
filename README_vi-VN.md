@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3198** |
+| 📝 Total Prompts | **3202** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-24** |
 
@@ -189,6 +189,63 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine: Prompt Video Cuộc Sống Hàng Ngày
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt tạo video Grok Imagine mô tả cảnh đi dạo trong ngày mưa thu, với ngoại hình nhân vật nhất quán qua hai phân cảnh.
+
+#### 📝 Prompt
+
+```
+Chủ đề & Cấu trúc tổng thể
+* Tổng thời lượng: 12 giây (6s x 2 cảnh)
+* Ý tưởng: Mùa thu sau cơn mưa, tản bộ đời thường
+* Tính nhất quán của nhân vật: Giữ nguyên khuôn mặt, kiểu tóc và trang phục của người phụ nữ trong @Image1 và @Image2 (đeo kính, tóc nâu búi cao, áo len kéo khóa màu vàng, áo cổ lọ trắng, quần túi hộp kaki, bốt màu be).
+BGM
+* Đề xuất: Nhạc Lo-Fi hip hop/acoustic chill ấm áp với guitar acoustic và piano (giai điệu êm dịu, phù hợp với khung cảnh thành phố sau mưa).
+
+[Chi tiết các cảnh]
+Cảnh 1 (00:00 - 00:06)
+* Ảnh gốc: @Image1
+* Bối cảnh: Ghế đá công viên (khung cảnh có lá đỏ rụng)
+* Hành động/Tư thế:
+  * Tư thế 1 (0-3s): Bắt đầu từ trạng thái của @Image1. Ngồi trên ghế, mắt hơi cúi xuống, giữ yên tư thế.
+  * Tư thế 2 (3-6s): Bất chợt nhìn vào camera (hoặc nhìn thẳng phía trước), mỉm cười nhẹ nhàng đồng thời khẽ chỉnh lại gọng kính.
+Cảnh 2 (00:06 - 00:12)
+* Ảnh gốc: @Image2
+* Bối cảnh: Vỉa hè góc phố (khu vực có các tòa nhà sau cơn mưa)
+* Hành động/Tư thế:
+  * Tư thế 1 (6-9s): Bắt đầu từ trạng thái của @Image2. Đứng ở góc phố, tay cầm ô trong suốt, nhìn vào camera.
+  * Tư thế 2 (9-12s): Hơi nghiêng chiếc ô, bắt đầu bước đi chậm rãi rồi ngoái lại, mỉm cười và vẫy tay nhẹ về phía camera.
+```
+
+<img src="https://cms-assets.youmind.com/media/1792827729119_wlde2s_HVXKgy4aMAAKF0l.jpg" width="600" alt="Grok Imagine: Prompt Video Cuộc Sống Hàng Ngày">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12987)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2113835372463472982) | **Published:** Oct 24, 2026
+
+---
+### Chân dung Điện ảnh tại Trạm Xe điện Đêm Mưa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết cho việc tạo video bằng Grok Imagine, khắc họa cận cảnh điện ảnh một phụ nữ mặc sườn xám tại trạm xe điện Thượng Hải thập niên 1930 trong đêm mưa, với ánh sáng đặc trưng, chuyển động máy quay và phong cách tham chiếu từ đạo diễn Vương Gia Vệ.
+
+#### 📝 Prompt
+
+```
+Cảnh chân dung cận ngực theo tỷ lệ dọc mang đậm chất điện ảnh, khung hình lấy từ xương quai xanh trở lên, bối cảnh bến xe điện đêm mưa ở Thượng Hải những năm 1930. Mở đầu ngay lập tức với hình ảnh một người phụ nữ Trung Hoa xinh đẹp và thanh lịch trong tà sườn lưng lụa xanh ngọc lục bảo thẳm, viền chỉ vàng cùng cổ tàu cao, mái tóc uốn lượn sóng nước kiểu thập niên cũ, đeo khuyên tai ngọc trai, gương mặt nghiêng ba phần tư mềm mại dưới ánh đèn đường ấm áp ướt đẫm, mưa rơi lất phất. Góc máy xoay chậm quanh cô; phía sau, mờ ảo ngoài vùng lấy nét, vệt đèn pha tròn ấm áp của chuyến xe điện cổ lướt vào tạo hiệu ứng bokeh xen lẫn làn hơi nước bay ngang; cô từ từ quay đầu về phía luồng sáng ấy. Tông màu teal và amber, bokeh anamorphic, nhiễu hạt phim nhựa, bầu không khí đặc trưng của Vương Gia Vệ. Khung hình chặt: tuyệt đối không để tay lọt vào khung. Hậu cảnh xóa phông hoàn toàn, không biển hiệu, không bảng chỉ điểm đến, không có bất kỳ văn bản hay chữ cái nào xuất hiện. Hình ảnh sắc nét ngay từ khung hình đầu tiên.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113611402556440576/pu/img/zlFgnK4UjmwWCW-c.jpg" width="600" alt="Chân dung Điện ảnh tại Trạm Xe điện Đêm Mưa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12986)**
+
+**Author:** [Brucewu666](https://x.com/452864064q45713) | **Source:** [Link](https://x.com/452864064q45713/status/2113611424572342475) | **Published:** Oct 23, 2026
+
+---
 ### Chiến Lược Đấu Vật Của Chú Lùn
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +320,44 @@ Hãy nghĩ ra một chiến lược giao dịch trong ngày (day trading) và đ
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12961)**
 
 **Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **Published:** Oct 23, 2026
+
+---
+### Prompt Video Mất Điện Trên Sân Thượng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video điện ảnh về một cô gái và ông nội cùng ngắm nhìn đường chân trời thành phố bừng sáng trên sân thượng trong lúc mất điện.
+
+#### 📝 Prompt
+
+```
+Sân thượng về đêm trên một thành phố chìm trong bóng tối hoàn toàn. Một cô bé và ông nội đứng lặng yên, góc máy từ phía sau; cả đường chân trời bỗng bừng sáng ánh vàng. Máy quay chậm rãi vòng sang khuôn mặt hai người, nụ cười rạng rỡ đầy kinh ngạc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113122860315340800/img/OsjgvqdGlF2ZCjCW.jpg" width="600" alt="Prompt Video Mất Điện Trên Sân Thượng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12984)**
+
+**Author:** [Imagvio AI](https://x.com/Imagvio_AI) | **Source:** [Link](https://x.com/Imagvio_AI/status/2113374844448293044) | **Published:** Oct 22, 2026
+
+---
+### Biến Hình Kinh Dị Cơ Thể Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả video chi tiết cho Grok Imagine để tạo ra một cảnh cyberpunk siêu thực, nơi một người trải qua quá trình biến đổi cơ học dữ dội trong con hẻm ngập mưa và ánh đèn neon.
+
+#### 📝 Prompt
+
+```
+Một bóng người đơn độc đứng giữa con hẻm neon ướt đẫm mưa, sâu trong lòng một siêu đô thị dystopian lúc nửa đêm. Những tấm biển quảng cáo hologram khổng lồ nhấp nháy trên cao với các đoạn phim lỗi, trong khi dòng xe cộ bất tận lao vun vút trên những tuyến đường cao tốc trên không. Cơ thể nhân vật bắt đầu bước vào quá trình biến đổi ở một đẳng cấp hoàn toàn mới, chân thực đến từng chi tiết: lớp da nứt toác và bong tróc thành từng mảng ẩm ướt, hữu cơ, để rồi những phiến carbon-fiber đen tuyền cùng khối cơ sinh học chrome lộ thiên hung bạo xé toạc từ bên trong. Da thịt và mạch điện hợp nhất ngay trước mắt — gân cốt tái cấu trúc thành cáp quang, đôi mắt ngập tràn kim loại lỏng rồi tách ra thành nhiều tròng sáng rực rỡ, hàm dưới trật khớp khi hàm răng biến hình thành một khoang miệng máy móc liên tục chuyển động. Máu và dung dịch làm mát bắn tung tóe theo hiệu ứng slow-motion dưới ánh đèn neon hồng và xanh cyan chói gắt. Góc máy đậm chất điện ảnh: cú tracking shot góc thấp tiến sát đầy uy lực, sau đó xoay vòng quanh chủ thể khi quá trình biến đổi leo thang thành nỗi kinh hoàng body horror toàn diện — tứ chi kéo dài, cột sống gãy vụn rồi tái tạo thành bộ khung xương ngoài dạng đốt cơ khí, khuôn mặt sụp đổ thành một thực thể lai tạp ác mộng giữa người và máy. Độ sâu trường ảnh mỏng, lóa ống kính anamorphic, những giọt mưa nặng hạt bám trên thấu kính, sương mù thể tích (volumetric fog) và kết cấu photorealistic sắc nét đến từng chi tiết (da ướt, kim loại phản chiếu, vải rách tơi tả, mạch điện phát sáng). Bầu không khí tối tăm, ngột ngạt hòa cùng tiếng drone công nghiệp trầm đục dâng dần và những tiếng thét méo mó của con người vọng lại khắp con hẻm. Siêu chân thực, đậm chất điện ảnh, 35mm, chi tiết cao, không cách điệu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113287043811815424/img/oYksLa45_B08bXFp.jpg" width="600" alt="Biến Hình Kinh Dị Cơ Thể Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12985)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113287133167239203) | **Published:** Oct 22, 2026
 
 ---
 ### Tạo Video Khớp Khẩu Hình Chính Xác
@@ -2175,82 +2270,6 @@ Thêm nền mùa thu với bí ngô và rượu táo. Áo sơ mi dài tay màu n
 **Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **Published:** Oct 15, 2026
 
 ---
-### Roadster Đa Địa Hình Tương Lai
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết để tạo video về một chiếc roadster siêu tương lai với thiết kế khí động học và khả năng vận hành đa địa hình.
-
-#### 📝 Prompt
-
-```
-Tạo một video về chiếc roadster siêu tương lai với thiết kế khí động học và các yếu tố đa địa hình!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110747191383887872/img/28XU5XWWf8B-KZ4L.jpg" width="600" alt="Roadster Đa Địa Hình Tương Lai">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12599)**
-
-**Author:** [Viswanath M. Aluru](https://x.com/vmaluru) | **Source:** [Link](https://x.com/vmaluru/status/2110747222333857995) | **Published:** Oct 15, 2026
-
----
-### Parody Hải Tặc Elon Musk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video hài hước mô tả Elon Musk như một tên cướp biển cầm thanh kiếm bằng răng và chú vẹt Jeff Bezos.
-
-#### 📝 Prompt
-
-```
-Elon Musk trong vai một tên cướp biển hào hoa, ngậm thanh kiếm Sabre bằng răng, cùng với một con vẹt có ngoại hình giống Jeff Bezos đứng trên bản đồ được đánh dấu 'X marks the spot'
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110722991394787328/img/q2n5f55li3qSyr_i.jpg" width="600" alt="Parody Hải Tặc Elon Musk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12609)**
-
-**Author:** [Phillip Oyler](https://x.com/NdnCwby) | **Source:** [Link](https://x.com/NdnCwby/status/2110723009313136790) | **Published:** Oct 15, 2026
-
----
-### Prompt Cảnh Thiên Nhiên Yên Tĩnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo cảnh thiên nhiên yên tĩnh độ phân giải cao với ánh nắng và cành cây.
-
-#### 📝 Prompt
-
-```
-Một khung cảnh tĩnh lặng với độ phân giải cao. Một thứ gì đó mang "nhiều lớp" — có lẽ là những tia nắng xuyên qua tán cây cổ thụ…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110711965127421952/img/Xs3vyc54482vJr2-.jpg" width="600" alt="Prompt Cảnh Thiên Nhiên Yên Tĩnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12863)**
-
-**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2110711998111748354) | **Published:** Oct 15, 2026
-
----
-### Sải Bước Thời Trang Điện Ảnh Siêu Thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết để tạo video sải bước thời trang chân thực của một phụ nữ trong phòng khiêu vũ khách sạn sang trọng bằng Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Video hành động trực tiếp điện ảnh siêu thực về một người phụ nữ trưởng thành xinh đẹp ngoài 20 tuổi đang sải bước duyên dáng qua phòng khiêu vũ sang trọng của một khách sạn cao cấp. Cô mặc chiếc váy dạ hội dài chấm sàn màu be champagne tuyệt đẹp, với họa tiết thêu ren tinh tế, hoa văn phức tạp và kiểu dáng ôm sát. Mái tóc nâu đen dài tự nhiên bay nhẹ khi cô mỉm cười tự tin và nhìn về phía máy quay. Cô đi chậm rãi và thanh lịch qua những lẵng hoa sang trọng, các tiểu cảnh hoa trắng, sàn đá cẩm thạch bóng loáng và những bàn tiệc được trang trí tinh xảo. Phông nền nổi bật với những chiếc đèn chùm vàng ấm áp, nội thất gỗ cao cấp, ánh sáng hổ phách dịu nhẹ và những vị khách ăn mặc sang trọng di chuyển tự nhiên ở phía xa. Máy quay theo dõi mượt mà từ góc ba phần tư, ghi lại chất vải mềm mại của chiếc váy, chuyển động đi bộ chân thực, biểu cảm khuôn mặt tự nhiên và sự lay động nhẹ nhàng của mái tóc. Thẩm mỹ nhiếp ảnh thời trang chuyên nghiệp, chỉnh màu điện ảnh ấm áp, kết cấu da chân thực, chi tiết vải rõ nét, độ sâu trường ảnh nông, bóng đổ tự nhiên, chuyển động máy quay mượt mà, chất lượng hình ảnh 4K, chi tiết siêu thực, bầu không khí sang trọng tinh tế. Khung dọc tỷ lệ 9:16, thời lượng 6–10 giây, tốc độ khung hình 24 FPS. Duy trì đặc điểm khuôn mặt, tỷ lệ cơ thể, thiết kế váy và ánh sáng nhất quán trong toàn bộ clip. Không cắt đột ngột, không biến dạng bàn tay, không thừa chi, không nhấp nháy, không chuyển động nhân tạo, không có văn bản, không logo, không watermark.
-```
-
-<img src="https://pbs.twimg.com/media/HUq1C0vaMAA1vBH.jpg" width="600" alt="Sải Bước Thời Trang Điện Ảnh Siêu Thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12611)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2110698497037279584) | **Published:** Oct 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2312,6 +2331,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-24T04:23:29.451Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-24T12:50:16.774Z</sub>
 
 </div>
