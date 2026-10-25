@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3202** |
+| 📝 Total Prompts | **3220** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-25** |
 
@@ -189,6 +189,908 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Galaksi Bilyeleri Sahil Oyunu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Her bir bilyenin içinde farklı şekilli bir galaksinin bulunduğu, sahilde oynanan bir bilye oyununu tasvir eden yaratıcı bir istem.
+
+#### 📝 Prompt
+
+```
+Sahilde oynanan bir bilye oyunu; her bir bilyenin içinde farklı şekillerde birer galaksi var
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114132796298219520/img/7nrP0TfK2apF8lo6.jpg" width="600" alt="Galaksi Bilyeleri Sahil Oyunu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13011)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2114132864493363678) | **Published:** Oct 24, 2026
+
+---
+### Profesyonel Portre İyileştirme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kimliği, pozu ve konumu koruyarak bir fotoğrafı cilalı profesyonel bir portreye dönüştüren, ışık ayarlarına odaklanan bir istem.
+
+#### 📝 Prompt
+
+```
+Bu fotoğrafı; aynı kişiyi, aynı pozu, aynı kıyafetleri ve aynı mekânı birebir koruyarak kusursuz, profesyonel kalitede bir portreye dönüştür. Yüz hatlarını... yumuşatacak şekilde özneyi yeniden aydınlat: Bunun için yüzü güzelleştiren, yumuşak ve yönlü bir ana ışık ile hafif bir dolgu ışığı kullan.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114110855096815616/img/ylwm1VpwYUdP2RVK.jpg" width="600" alt="Profesyonel Portre İyileştirme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13017)**
+
+**Author:** [Natalya Mironova](https://x.com/Natali7p3z1) | **Source:** [Link](https://x.com/Natali7p3z1/status/2114110895488147784) | **Published:** Oct 24, 2026
+
+---
+### Satranç Tahtası Ateş Yeniden İnşa Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir satranç tahtasının gökten gelen ateşle yok edildiği ve ardından tüm beyaz taşlarla yeniden inşa edildiği dramatik bir video sekansı oluşturur.
+
+#### 📝 Prompt
+
+```
+Satranç tahtasında mavi ve kırmızı taşlarla şah mat... Üçüncü gökten ateş inip her şeyi yutuyor.
+Tahta yeniden kuruluyor, satranç taşlarının hepsi bembeyaz oluyor....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114075811342901249/img/u9AW7hyBlG7WmnKq.jpg" width="600" alt="Satranç Tahtası Ateş Yeniden İnşa Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13010)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2114075837704307173) | **Published:** Oct 24, 2026
+
+---
+### Grok Imagine vs Gemini: İnsan Yüzü Yakın Çekim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine ve Gemini Argon üzerinde aynı istemi kullanarak yapılan karşılaştırma testi; altın saat ışığında, dağ zirvesinde ufka bakan yorgun ama huzurlu bir adamın yakın çekimi.
+
+#### 📝 Prompt
+
+```
+Yorgun düşmüş ama huzurlu bir adamın yüzüne yakın çekim; dağın zirvesinden ufka bakıyor, rüzgâr saçlarını savuruyor, gün batımının altın sarısı ışığı yüzüne vuruyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114070458324652033/img/BIU37xfFb0q1iDV6.jpg" width="600" alt="Grok Imagine vs Gemini: İnsan Yüzü Yakın Çekim">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13026)**
+
+**Author:** [Vassily](https://x.com/VassilyBeyond) | **Source:** [Link](https://x.com/VassilyBeyond/status/2114070481984770255) | **Published:** Oct 24, 2026
+
+---
+### ShihTzu Dans Referansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Shih Tzu'ların arka ayakları üzerinde yürümesini ve birlikte yavaş dans etmesini animasyonlaştırmak için referans görseller gerektiren karmaşık bir istem.
+
+#### 📝 Prompt
+
+```
+İkinci görseldeki ShihTzu sadece arka ayakları üzerinde yürüyerek birinci görseldeki ShihTzu'nun yanına gelsin ve birlikte yavaş bir dans etsinler.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114067315415248896/img/i5QI6bDDw6Q03aNR.jpg" width="600" alt="ShihTzu Dans Referansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13014)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2114067332800868489) | **Published:** Oct 24, 2026
+
+---
+### Animasyonlu Buton Patlaması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mevcut bir görüntüyü veya videoyu daha havalı hale getirmek ve butona basıldığında epik bir patlama efekti oluşturmak için animasyon talebi.
+
+#### 📝 Prompt
+
+```
+Grok! Bunu hareketlendirip çok daha havalı bir hale getirebilir misin? Bir de butona bastıklarında ortalık efsanevi bir şekilde patlasın!? Şimdiden teşekkürler!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114043596131143680/img/CzkdRZqIkUlQPoGV.jpg" width="600" alt="Animasyonlu Buton Patlaması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13013)**
+
+**Author:** [Tea Enneman](https://x.com/TeaEnneman) | **Source:** [Link](https://x.com/TeaEnneman/status/2114043619737014512) | **Published:** Oct 24, 2026
+
+---
+### Grok Imagine Video İstemi: Güvercin Öğle Yemeğini Çaldı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için detaylı bir video üretim istemi: Bir güvercinin Avrupa şehir meydanında öğle yemeğini çaldığı komedi sahnesi.
+
+#### 📝 Prompt
+
+```
+VİDEO BAŞLIĞI: Güvercin Öğle Yemeğini Kaptı 😂
+
+TOPLAM SÜRE: TAM OLARAK 15 SANİYE
+
+Güneşli bir gündüz vakti, güzel bir Avrupa şehir meydanında geçen, dikey 9:16 formatında ultra gerçekçi bir canlı çekim komedi videosu oluşturun. Tek ve kesintisiz, tutarlı bir görsel...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114012983181639681/img/b00q2GOPlSsLXv0f.jpg" width="600" alt="Grok Imagine Video İstemi: Güvercin Öğle Yemeğini Çaldı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13020)**
+
+**Author:** [Blairy](https://x.com/Blair_54q0) | **Source:** [Link](https://x.com/Blair_54q0/status/2114013121383944593) | **Published:** Oct 24, 2026
+
+---
+### Konser Sahnesi Arka Plan Düzenleme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Metni kaldırmak ve arka planı kırmızı spot ışıkları ve dumanla dramatik bir konser sahnesine dönüştürmek için düzenleme istemi.
+
+#### 📝 Prompt
+
+```
+Bu görseli düzenle: Tüm metinleri ve altyazıları tamamen kaldır. Arka planı çok daha etkileyici, son derece dramatik bir konser sahnesine dönüştür; koyu bordo ve siyah tonlar, güçlü kırmızı spot ışıkları, dramatik ışık huzmeleri, duman ve coşkulu, kalabalık bir...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113977058942693376/img/-sSWyzo1uvveWeNt.jpg" width="600" alt="Konser Sahnesi Arka Plan Düzenleme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13016)**
+
+**Author:** [Puchamamax](https://x.com/aaoomaxi) | **Source:** [Link](https://x.com/aaoomaxi/status/2113977099669381298) | **Published:** Oct 24, 2026
+
+---
+### Grok Imagine için Sinematik AI Video Stilleri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için hazırlanmış, siberpunk, eski Şanghay, çöl gün batımı, mürekkep boyaması bambu, yüksek moda, HK retro, su altı rüyası, Pixar tarzı animasyon, kar alanı mavileri ve parfüm reklamları gibi stilleri kapsayan 10 sinematik video istemi koleksiyonu.
+
+#### 📝 Prompt
+
+```
+gümüş saçlı kadın, yansıtıcı krom ceket, cyberpunk yağmurlu sokak, yüzünde macenta ve cyan neon ışıltısı, yavaş yaklaşma
+kırmızı qipao giymiş Çinli kadın, gece vakti yağmurlu 1930'ler Şanghay sokağında yürüyor, ıslak zeminde neon yansımaları, yavaş takip çekimi, film greni
+gün batımında altın rengi çöl kumullarında uçuşan beyaz keten elbiseli kadın, rüzgârda dalgalanan kumaş, yavaş drone ile geri çekilme
+sisli bambu ormanında zarif Hanfu giymiş kadın, mürekkep yıkama tablosu atmosferi, süzülen sis, yavaş dolly hareketi
+heykelsi siyah couture elbise içinde model, kesintisiz stüdyo fonu, sert rim ışığı, dergi kapağı görünümü
+kalabalık bir gece pazarında kırmızı rüzgarlık giymiş genç kadın, step-printing hareket bulanıklığı, Wong Kar-wai tarzı, film greni
+suda süzülen ipek elbise içinde su altında ilerleyen kadın, turkuaz sudan süzülen güneş ışınları, yavaşça dalgalanan saçlar
+Pixar tarzı stilize sarı yağmurluklu genç kadın, sıcak sonbahar kasabası, havada dönen yapraklar, yumuşak sıcak ışık
+mavi saatte karlı bir alanda kürk detaylı beyaz paltolu kadın, yağan kar, fener bokeh efekti, yavaş yaklaşma
+altın saatte mermer terasta şampanya rengi saten askılı elbiseli kadın, ön planda parlayan parfüm şişesi, ağır çekim saçlar
+dikey sinematik, ilk kareden itibaren keskin netlik, metin yok, eller görünmüyor
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113973790401003520/pu/img/YwJvNBN-HmI0m7mO.jpg" width="600" alt="Grok Imagine için Sinematik AI Video Stilleri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13024)**
+
+**Author:** [Brucewu666](https://x.com/452864064q45713) | **Source:** [Link](https://x.com/452864064q45713/status/2113973811049574864) | **Published:** Oct 24, 2026
+
+---
+### Duygusal sinematik çift videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadının bir bankta ağlayan bir erkeği teselli ettiği gerçekçi sinematik video için detaylı istem.
+
+#### 📝 Prompt
+
+```
+Ultra gerçekçi, sinematik 15 saniyelik dikey 9:16 video. Genç bir adam ahşap bir bankta tek başına oturuyor; gözleri yaşlı, duygusal olarak çökmüş halde, soğuk mavi aydınlatma altında. Genç bir kadın yavaşça yanına yaklaşıyor, onun yanına oturuyor, nazikçe elini tutuyor ve onu kendine doğru çek...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113963178375917568/img/REcTGZL5h71jwiYH.jpg" width="600" alt="Duygusal sinematik çift videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13018)**
+
+**Author:** [Blairy](https://x.com/Blair_54q0) | **Source:** [Link](https://x.com/Blair_54q0/status/2113963223322185765) | **Published:** Oct 24, 2026
+
+---
+### Grok Imagine Video İstemi: Mars Nebulası Harmanı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için iki görseli birleştirmeye yönelik karmaşık bir video/görsel istemi: mavi-mor nebulanın içinde süzülen fotogerçekçi Mars.
+
+#### 📝 Prompt
+
+```
+İki görseli tek bir destansı kozmik sahnede harmanlayın: İkinci görseldeki detaylı, fotogerçekçi Mars gezegenini, ilk görseldeki büyüleyici mavi-mor bulutsu ve yıldız alanının tam ortasında görkemli bir şekilde süzülürken konumlandırın. Kızılımsı turuncu renkteki Mars...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113939607943573504/img/aDIC4Lq4jDEhHdy0.jpg" width="600" alt="Grok Imagine Video İstemi: Mars Nebulası Harmanı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13019)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2113939694312710507) | **Published:** Oct 24, 2026
+
+---
+### Fütüristik Bilim Kurgu Karakterleri Çello
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Üç fütüristik kadın karakterin yer aldığı, holografik çello çalan bir siberborgu içeren yüksek teknolojili bilim kurgu sahnesine ait sinematik prompt.
+
+#### 📝 Prompt
+
+```
+Dramatik, yüksek teknolojili bir bilim kurgu sahnesinde üç fütüristik kadın karakter: siyah takım elbiseli zarif koyu saçlı kadın, parlayan gözleri ve robotik detaylarıyla cyberpunk tarzı kadın, holografik çello çalan ruhani beyaz saçlı cyborg, dinamik kamera hareketi...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113932737694531584/img/rmxTYGdzkD-VWyAC.jpg" width="600" alt="Fütüristik Bilim Kurgu Karakterleri Çello">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13012)**
+
+**Author:** [Alan Gooding](https://x.com/empoweredathome) | **Source:** [Link](https://x.com/empoweredathome/status/2113932768501772425) | **Published:** Oct 24, 2026
+
+---
+### Zombi Kimono Şeker Partisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dev kimyon şekerli bir zombi kimono karakterinin devasa bir lolipop tuttuğu, katı aksesuar yönetimi ve koreografi talimatları içeren Cadılar Bayramı temalı Vinahouse dans videosu için Grok I2V istemi.
+
+#### 📝 Prompt
+
+```
+# GROK I2V PROMPT — SERİ 045
+
+## ZOMBİ KİMONO | VINAHOUSE ŞEKER PARTİSİ
+
+### Tam Entegre Sürüm v1.0 — Seri 041 Tabanlı
+
+Sağlanan referans görseli tam açılış karesi ve tek görsel referans olarak kullanarak, tam 15 saniyelik, ultra fotogerçekçi, sinematik bir Vietnam Vinahouse EDM dans müzik videosu oluşturun.
+
+BAŞLIK:
+
+ZOMBİ KİMONO — VINAHOUSE ŞEKER PARTİSİ
+
+BİRİNCİL YARATICI YÖNLENDİRME:
+
+Başarısı kanıtlanmış SERİ 041 yaz kız grubu koreografisini koruyun: hızlı, eğlenceli, son derece detaylı el ve parmak koreografisi, yaylanan yan adımlar, ritmik ayak vuruşları, kısa göğüs itmeleri, omuz pop'ları, çapraz ön kollar, bilek dönüşleri, akılda kalıcı parmakla işaret etme hareketleri, dönüşler ve ritimle senkronize kesintisiz hareket.
+
+Karakter herhangi biriyle savaşmıyor; neşeli bir Japon Cadılar Bayramı partisinin tadını çıkarıyor.
+
+Dev spiral lolipop eğlenceli bir parti aksesuarıdır, asla bir silah değildir.
+
+Bir aksiyon düellosu, korku saldırısı veya dövüş sahnesi yerine canlı ve göz alıcı bir dans müzik videosu oluşturun.
+
+REFERANS GÖRSEL VE KİMLİK SABİTLEMESİ — KRİTİK:
+
+Tam olarak sağlanan referans görselle başlayın.
+
+Aynı yetişkin kadını, yüzü, saçını, saç modelini, makyajını, vücut oranlarını, kimono tasarımını, çiçek desenlerini, süslemelerini ve aksesuarlarını koruyun.
+
+Dev turuncu, mor ve beyaz spiral lolipopu ile çizgili çubuğunu koruyun.
+
+Ay ışığı altındaki Japon tapınağı avlusunu, sıcak Cadılar Bayramı fenerlerini, parlayan balkabağı fenerlerini (jack-o'-lantern), festival süslemelerini, renkli şekerleri, ay ışığını ve sıcak turuncu-mor aydınlatmayı koruyun.
+
+Kostümlü arka plan katılımcılarını atmosferik parti misafirleri olarak koruyun.
+
+Tüm kamera açıları boyunca tutarlı kimliği, kostümü ve ortamı koruyun.
+
+Kostüm değişimi yok.
+
+Ani mekan değişikliği yok.
+
+Tapınak avlusunun stüdyo, plaj, çatı veya gece kulübüyle değiştirilmesi yok.
+
+Ön plana yeni karakter girmesi yok.
+
+Kan, şiddet, yaralanma veya dövüş yok.
+
+DEV ŞEKER AKSESUARININ KULLANIMI:
+
+Açılış görseli, sanatçının dev boyuttaki spiral lolipopu kameraya doğru tuttuğunu gösterir.
+
+İlk an için tam açılış pozunu koruyun.
+
+İlk iki saniye içinde lolipopu doğal bir şekilde vücuduna yaklaştırır ve yakındaki taş festival sergi alanına güvenli bir şekilde dik olarak yerleştirir.
+
+Kamera açısı elverdiğinde lolipop, sabit bir dekoratif parti aksesuarı olarak görünür olmaya devam eder.
+
+Elleri ardından karmaşık dans koreografisi için tamamen serbest kalır.
+
+Lolipopu kaybettirmeyin, ışınlamayın, çoğaltmayın, havada uçurmayın, dönüştürmeyin veya boyutunu değiştirmeyin.
+
+Onu başkalarına doğru sallamayın.
+
+Kimseye vurmayın.
+
+Silahlı dövüş koreografisi oluşturmayın.
+
+MİMİK KONTROLÜ:
+
+Eğlenceli bir parti enerjisi taşıyan minimalist, yumuşak bir ifade.
+
+Doğal, rahat yüz kasları.
+
+Vokal cümleleri arasında ufak, özgüvenli bir gülümseme.
+
+Yumuşak ve doğrudan göz teması.
+
+Kısa, yaramaz gülümsemeler.
+
+Vietnamca sözler sırasında doğal şarkı söyleme mimikleri.
+
+Abartılı çığlık atma yok.
+
+Korku tarzı hırlama yok.
+
+Agresif yüz oyunculuğu yok.
+
+Teatral aşırı oyunculuk yok.
+
+MÜZİK — ÖZGÜN VİETNAM VINAHOUSE EDM:
+
+ÖZGÜN bir Vietnam Vinahouse EDM parçası oluşturun.
+
+Tempo: yaklaşık 145 BPM, 140–150 BPM aralığında.
+
+Başarılı SERİ 041 plaj neslinin güçlü müzikal yönünü koruyun.
+
+Güçlü four-on-the-floor kick davul.
+
+Derin, kulüp odaklı sub-bass.
+
+Sürükleyici elektronik bas hattı.
+
+Parlak, enerjik lead sentezleyiciler.
+
+Dolgun, ritmik synth stab'ları.
+
+Net elektronik perküsyon.
+
+Yüksek enerjili Vietnam kulüp atmosferi.
+
+Güçlü, akılda kalıcı, tekrar eden vokal hook'ları.
+
+Anında hissedilen ritmik enerji.
+
+Güçlü dans drop'u.
+
+Enerjik final nakaratı.
+
+Net, yetişkin kadın Vietnamca vokalleri.
+
+Ekrandaki sanatçı, Vietnamca vokal hook'larını kendisi söyler.
+
+Hatasız Vietnamca telaffuz.
+
+Yüzü göründüğünde kusursuz ve görünür dudak senkronizasyonu.
+
+Kısa, dolgun, ritmik olarak kusursuz cümleler.
+
+Aşırı yüz oyunculuğu olmadan doğal ağız şekilleri.
+
+ÖZGÜN VİETNAMCA VOKAL HOOK'LARI:
+
+"Lên nào! Lên nào!"
+
+"Nhảy đi! Nhảy đi!"
+
+"Cháy lên! Cháy lên!"
+
+"Hey! Hey! Quẩy lên!"
+
+"Cháy lên! Quẩy lên! Hey!"
+
+Bu hook'ları 15 saniyelik performans boyunca doğal bir şekilde dağıtın.
+
+En hızlı parmak koreografisi ve özel kamera manevrası için kısa enstrümantal boşluklar bırakın.
+
+Film müziğini Kore K-pop'u, soft pop, balad veya sıradan bir arka plan müziğiyle değiştirmeyin.
+
+KOREOGRAFİ TARZI — SERİ 041'İ KORUYUN:
+
+Neşeli bir Japon Cadılar Bayramı ortamına uyarlanmış, özgün profesyonel yaz kız grubu koreografisi.
+
+Hafif, yaylanan, eğlenceli, hızlı ve ritmik olarak kusursuz.
+
+Aşağıdaki hareket dağarcığının tamamını koruyun:
+
+- Akılda kalıcı point-dance el hareketleri.
+
+- Hızlı sağa sola adımlar.
+
+- Hafif ritmik ayak vuruşu vurguları.
+
+- Yaylanan diz hareketleri.
+
+- Kusursuz göğüs ve omuz pop'ları.
+
+- Küçük, keskin göğüs itmeleri.
+
+- Eğlenceli parmakla işaretleme koreografisi.
+
+- Hızlı bilek dönüşleri.
+
+- Uyumlu kol savurmaları.
+
+- Çapraz ön kol kombinasyonları.
+
+- Hızlı yarım dönüşler.
+
+- Akıcı tam vücut dönüşleri.
+
+- Canlı yön değişiklikleri.
+
+- Neşeli, akılda kalıcı sekiz sayımlık dans cümleleri.
+
+Kostüm, koreografiyi basitleştirmek veya zayıflatmak için bir bahane olarak kullanılmamalıdır.
+
+Belirlenmiş hızı, hareket yoğunluğunu ve üst vücut hassasiyetini koruyun.
+
+Hareketi sürekli ve müzikle senkronize tutun.
+
+Sıradan sallanmalar yok.
+
+Rastgele el sallamalar yok.
+
+Uzun süreli sabit pozlar yok.
+
+Ağır çekim dans yok.
+
+El koreografisinin yerini alan tekrar eden ayak hareketleri yok.
+
+Dövüş hareketleri yok.
+
+Arka plan misafirlerine saldırı yok.
+
+HAREKET FİZİĞİ:
+
+Gerçekçi insan biyomekaniği.
+
+Doğal ağırlık aktarımı, denge, eylemsizlik ve momentum.
+
+Fiziksel olarak tutarlı geçişler.
+
+Doğal saç ve kimono kumaşı hareketi.
+
+Hatasız parmak anatomisi.
+
+Havada süzülen ayaklar yok.
+
+Çift uzuvlar yok.
+
+Ani ışınlanma yok.
+
+Kamera hareketini taklit etmek için yapay vücut döndürmesi yok.
+
+SİNEMATOGRAFİ — SON DERECE ÖNEMLİ:
+
+Premium, görsel olarak yaratıcı, yüksek enerjili bir dans müzik videosu oluşturun.
+
+Belirlenmiş SERİ 041 çatı tarzı müzik videosu spesifikasyonunda olduğu gibi, 15 saniye içinde yaklaşık 18–24 farklı sinematik çekim hedefleyin.
+
+Koreografiyi gösterecek kadar kesintisiz tam vücut görüntüsü korurken, sık sık ritimle senkronize kesimler kullanın.
+
+Kullanılacaklar:
+
+- Yer seviyesi perspektifleri.
+
+- Üç çeyrek performans çekimleri.
+
+- Hızlı yatay takip (tracking) çekimleri.
+
+- Dinamik tam vücut hero çekimleri.
+
+- Akıcı dairesel kamera hareketleri.
+
+- 180 derecelik kamera yörüngeleri.
+
+- Hızlı tepeden çekimler.
+
+- Whip-pan geçişleri.
+
+- Snap zoom'lar.
+
+- Crash zoom'lar.
+
+- Hızlı geri çekilmeler.
+
+- Hızlı yakınlaşmalar.
+
+- Kısa Dutch-angle (eğik) çekimler.
+
+- Hareket eşleşmeli kesimler.
+
+- Ritimle senkronize sert kesimler.
+
+Tekrar eden kadrajlamalardan kaçının.
+
+Kamera sanatçıyı asla gözden kaçırmamalıdır.
+
+Karmaşık koreografilerde net tam vücut görüntülerine öncelik verin.
+
+Tüm çekimler aynı Japon Cadılar Bayramı avlusunu korumalıdır.
+
+SAHNE SAHNE ZAMAN ÇİZELGESİ:
+
+0:00–0:02
+
+ŞEKER PARTİSİ AÇILIŞI — KESİNTİSİZ AKSİYON
+
+Tam olarak sağlanan referans görselle başlayın.
+
+Sanatçı, dev spiral lolipopu tutarak kameraya bakar.
+
+Ufak, yaramaz bir gülümseme atar.
+
+Tek bir akıcı, fiziksel olarak tutarlı hareketle lolipopu geri çeker ve yakındaki taş festival sergi alanına güvenli bir şekilde dik olarak yerleştirir.
+
+Şeker, dekoratif bir aksesuar olarak sahnede kalmaya devam eder.
+
+Hemen ardından açılış ritmik dans hareketine geçer.
+
+KAMERA:
+
+Referans kadrajlama ile başlayın.
+
+Okunabilir bir tam vücut dans kompozisyonunu ortaya çıkarmak için akıcı, hızlı bir geri çekilme kullanın.
+
+Kısa üç çeyrek açı.
+
+Net bir önden görünüme dönün.
+
+Kaçınılacaklar:
+
+Lolipopun kaybolması.
+
+Aksesuar çoğalması.
+
+Doğal olmayan el geçişleri.
+
+Arka plan değişimi.
+
+Şiddetli sallama.
+
+Uzun sabit poz verme.
+
+0:02–0:04
+
+CADILAR BAYRAMI DANS UYANIŞI
+
+Sanatçı adım atarak
+```
+
+<img src="https://cms-assets.youmind.com/media/1792914334666_hox57l_HVYXtigacAAZoax.jpg" width="600" alt="Zombi Kimono Şeker Partisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13027)**
+
+**Author:** [リド](https://x.com/ohshie1973) | **Source:** [Link](https://x.com/ohshie1973/status/2113903487595708810) | **Published:** Oct 24, 2026
+
+---
+### Grok Imagine Video İstemi: Tavşan Robotun Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Küçük bir tavşan robotun, bir maceracının yanında devasa bir mek muhafıza dönüştüğü bilim kurgu dönüşüm sahnesini anlatan, Grok Imagine için son derece detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Yıkılmış fütüristik bir şehirde genç sarışın bir maceracı ve onun sevimli, yıpranmış tavşan biçimli robotunun yer aldığı referans görseline dayanarak; akıllara durgunluk veren, fotogerçekçi bir bilim kurgu dönüşüm sahnesi oluştur. Küçük robot aniden donup kalır, kehribar rengi gözleri parlak turuncu bir enerjiye dönüşürken yer sarsılır, toz bulutları yükselir ve kızın koruyucu gözlüklerinde gizemli holografik semboller yansır. İnanılmaz, bir üst seviye mekanik dönüşümle uzun tavşan kulakları eklemli zırh panellerine ayrılır, başı dönen bir titanyum şasinin içine çekilir, küçücük uzuvları devasa hidrolik bacaklara uzar, yüzlerce birbirine kenetlenen metal plaka açılır ve gövdesinin her yanını parlayan enerji kanalları kaplar. Robot, devasa mekanik omuzları, geri çekilebilir enerji topları, parlayan kehribar reaktör çekirdeği, jilet keskinliğinde mekanik detayları ve güçlü hidrolik pistonlarıyla 20 metre boyunda, ağır zırhlı, fütüristik bir koruyucu mecha dönüşerek ayağa kalkar; bu sırada oluşan şok dalgaları, harabeye dönmüş sokakta tozu ve molozları havaya savurur. Kız, devasa makinenin yanında korkusuzca dururken robot onu korumak istercesine diz çöker, ardından muazzam ışıklı gözlerini ufka çevirir ve parlak bir enerji dalgası terk edilmiş şehri aydınlatır. Ultra fotogerçekçi mekanik mühendislik, bileşen bileşen kusursuz dönüşüm, gerçekçi metal deformasyonu, karmaşık dönen dişliler, hidrolik hareketler, uçuşan kıvılcımlar, sinematik ağır çekim, fiziksel olarak doğru yansımalar, hacimsel tanrı ışınları (god rays), anamorfik lens parlamaları, dramatik kamera dönüşü, derin sinematik bas, epik orkestral ses tasarımı, 8K detay, HDR, IMAX kalitesinde görseller, dikey 9:16 format, tamamen tutarlı karakterler, çizgi film görünümü yok, ani kesme (jump cut) yok, metin yok, filigran yok.
+
+Ses efektleri: Derin robotik uyanış sesi, hızlı metalik kilitlenme, hidrolik basınç boşalması, elektrik enerjisi şarj olma sesi, gürleyen dönüşüm darbesi ve epik bir sinematik bas düşüşü.
+
+Viral başlık: KÜÇÜK TAVŞAN ROBOT AZ ÖNCE 20 METRELİK BİR SAVAŞ MAKİNESİNE DÖNÜŞTÜ 🤯⚡
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113871752543784960/img/MZ0-8B4xXRSoBtCZ.jpg" width="600" alt="Grok Imagine Video İstemi: Tavşan Robotun Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13021)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113871980789485707) | **Published:** Oct 24, 2026
+
+---
+### Michelle Obama'nın karanlık oda sahnesine girişi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Referans fotoğrafları kullanarak Michelle Obama'yı Barack Obama ile birlikte belirli bir karanlık oda sahnesine yerleştiren görüntüden videoya prompt.
+
+#### 📝 Prompt
+
+```
+İlk görseli, tek bir mumun bulunduğu karanlık oda ve ahşap masada oturan adamın (Barack Obama) yer aldığı sahnenin birebir aynısı olarak kullanıp diğer referans fotoğraflardan Michelle Obama'yı bu sahneye yerleştirin: kadrajın sağından içeri doğru yürüyor...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113865938248568832/img/eAV62PatZ6vnl6Op.jpg" width="600" alt="Michelle Obama'nın karanlık oda sahnesine girişi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13015)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2113865975020003833) | **Published:** Oct 24, 2026
+
+---
+### Zümrüt Ejderha Genel Savaş Dansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Çin fantastik kadın generalinin bir savaş alanı portresini, belirli kostüm ve koreografi detaylarıyla bir dans performansına dönüştürdüğü yüksek enerjili Vinahouse dans videosu için Grok I2V istemi.
+
+#### 📝 Prompt
+
+```
+GROK I2V PROMPT — SERİ 042
+ZÜMRÜT EJDERHA GENERAL | VINAHOUSE BATTLE DANCE
+Tam Entegre Sürüm v1.0 — Koreografi Koruma ve Ritim Senkronizasyonu
+
+Sağlanan zümrüt yeşili Çin fantezi kadın general görselini birebir açılış görsel referansı olarak kullanarak, tam 15 saniyelik, ultra fotogerçekçi, yüksek enerjili bir Vietnam Vinahouse EDM dans müzik videosu oluşturun.
+BAŞLIK:
+ZÜMRÜT EJDERHA GENERAL — VINAHOUSE BATTLE DANCE
+ANA YARATICI YÖNLENDİRME:
+
+Görkemli bir Çin fantezi kadın generali, dramatik bir savaş alanı portresini güçlü, eğlenceli ve profesyonelce koreografisi yapılmış bir dans müzik videosuna dönüştürüyor.
+
+En başta, elinde tuttuğu Yeşil Ejder Hilal Kılıcı'nı (Qinglong Yanyuedao) dramatik bir şekilde havaya kaldırır ve tamamen kadraj dışına fırlatır.
+
+Hemen ardından enerjik, akılda kalıcı ve ritme kusursuzca senkronize edilmiş bir dans performansına başlar.
+
+Önceki ROOFTOP SUNSET ve VINAHOUSE BEACH DROP müzik videosu spesifikasyonlarından gelen, yerleşik ve zengin yazlık kız grubu koreografi sözlüğünü koruyun.
+
+Koreografiyi sıradan EDM zıplamalarıyla, rastgele dövüş sanatlarıyla, kılıç dövüşüyle veya tekrar eden ayak hareketleriyle değiştirmeyin.
+
+Dans hızlı, çeşitli, temiz, akılda kalıcı ve görsel olarak heyecan verici olmalıdır.
+
+Müzik, yaklaşık 145 BPM hızında başarılı Vietnam Vinahouse EDM yönünü korumalıdır.
+
+Sinematik vurgu, videonun son üçte birlik kısmında gerçekleşen olağanüstü, üç boyutlu dönen tepe kamerası yörüngesidir.
+
+KARAKTER VE KİMLİK SABİTLEMESİ:
+
+Sağlanan referans görseldeki yetişkin Doğu Asyalı kadının aynısını koruyun.
+
+Tanınabilir yüz hatlarını, gözlerini, burnunu, dudaklarını, yüz şeklini, ten rengini ve doğal yüz oranlarını muhafaza edin.
+
+Uzun koyu kahverengi saçlarını, süslü yeşil-altın saç aksesuarını, dekoratif saç tokalarını ve rüzgarda uçuşan serbest saç tellerini koruyun.
+
+Ayrıntılı zümrüt yeşili ve koyu bronz fantezi Çin savaşçı kostümünü muhafaza edin.
+
+Orijinal derin V yaka kesimini, yeşil brokar kumaşı, altın ejderha işlemelerini, şekillendirilmiş omuz zırhını, dekoratif bel zırhını, uçuşan katmanlı etek panellerini, yüksek yan yırtmaçları, zırhlı ön kol koruyucularını ve uzun siyah-altın zırhlı çizmeleri koruyun.
+
+Kostümün orijinal oranlarını, siluetini, kumaş örtüsünü ve dekoratif karmaşıklığını muhafaza edin.
+
+Kostüm yeniden tasarımı yok.
+
+Ek zırh yok.
+
+Saç modeli değişikliği yok.
+
+Modern bir idol kostümüne dönüşüm yok.
+
+Süslü çizmelerin spor ayakkabı veya düz tabanlı ayakkabılarla değiştirilmesi yok.
+
+Performans sergileyen kişi video boyunca aynı kadın olmaya devam eder.
+
+KOSTÜM VE KUMAŞ FİZİĞİ:
+
+Uzun yeşil kumaş paneller, yarı saydam kollar, kurdeleler, serbest saçlar ve işlemeli etek bölümleri koreografiye ve rüzgara dinamik olarak tepki vermelidir.
+
+Katmanlı etek gerçekçi bir kumaş ataletiyle hareket eder.
+
+Zırh sağlam bir şekilde sabit kalır.
+
+Çizmeler orijinal yapısını korur.
+
+Eriyen kostüm yok.
+
+Bacaklara yapışan kumaş yok.
+
+Işınlanan zırh yok.
+
+Doğal olmayan kumaş iç içe geçmesi yok.
+
+İFADE KONTROLÜ — KRİTİK:
+
+Minimalist, yumuşak ifade.
+
+Doğal, ince, ölçülü yüz oyunculuğu.
+
+Yumuşak ama kendinden emin gözler.
+
+Rahatlamış yüz kasları.
+
+Küçük, zahmetsiz bir gülümseme.
+
+Zarif, eğlenceli göz teması.
+
+Güçlü dans hareketlerine rağmen sakin bir özgüven.
+
+Abartılı sırıtma yok.
+
+Teatral bağırma yok.
+
+Agresif savaş ifadeleri yok.
+
+Aşırı kaş hareketleri yok.
+
+Sürekli açık ağız yok.
+
+Vietnamca vokal performansı sırasında, abartısız bir ifadeyi korurken doğru ve doğal dudak senkronizasyonu kullanın.
+
+MEKAN VE ORTAM:
+
+Referans görseldeki aynı epik antik Çin kale avlusunu koruyun.
+
+Devasa geleneksel ahşap kapı.
+
+Antik taş mimari.
+
+Süslü altın ejderha motifli zümrüt yeşili askeri sancaklar.
+
+Uzaktaki askerler ve tören dizilişleri.
+
+Taş döşeli avlu.
+
+Toz ve atmosferik pus.
+
+Uzak dağlar.
+
+Parlak doğal gün ışığı.
+
+Hafif sinematik güneş ışığı.
+
+Sancaklarda, serbest saçlarda ve kumaşta esen rüzgar.
+
+Video boyunca tutarlı bir mimari coğrafya koruyun.
+
+Arka plandaki askerler uzakta ve ikincil konumda kalır.
+
+Performans sergileyene yaklaşmazlar veya dansa katılmazlar.
+
+Sahne değişikliği yok.
+
+Modern şehir yok.
+
+Gece kulübü yok.
+
+Sahne yok.
+
+Plaj yok.
+
+Çatı katı yok.
+
+Arka plan ışınlanması yok.
+
+AÇILIŞ SİLAH HAREKETİ — KRİTİK:
+
+Yeşil Ejder Hilal Kılıcı yalnızca açılış hareketinde görünür.
+
+En başta kadın, referans görselde gösterilen uzun, süslü Yeşil Ejder Hilal Kılıcı'nın aynısını tutmaktadır.
+
+Silah; tanınabilir sapını, kavisli bıçağını, ejderha süslemelerini ve metalik yapısını korumalıdır.
+
+Hemen ardından tek bir kararlı, dramatik silah atma hareketi gerçekleştirir.
+
+Silahı iki eliyle, fiziksel olarak tutarlı ve güçlü bir hareketle yukarı kaldırır.
+
+Bıçak ve sap, tek bir sert nesne olarak hareketi doğal biçimde takip eder.
+
+Sonra tüm silahı kararlı bir şekilde kendinden uzaklaştırarak ekran dışındaki boş bir alana fırlatır.
+
+Silah ellerinden çıkar ve kamera kadrajından tamamen ayrılır.
+
+Elleri tamamen boşalır.
+
+Silah geri dönmez.
+
+Ayrı bir silah yakın çekimi göstermeyin.
+
+Silahın yere düşüşünü göstermeyin.
+
+Herhangi birinin vurulduğunu göstermeyin.
+
+Yaralanma veya kan göstermeyin.
+
+Atma hareketini tekrarlamayın.
+
+Silahın ellerine yapışık kalmasına izin vermeyin.
+
+Silahı başka bir nesneye dönüştürmeyin.
+
+Silaha fazladan zaman harcamayın.
+
+Silah gittikten sonra performans sergileyen anında dansa geçer.
+
+MÜZİK — VİETNAM VINAHOUSE EDM:
+
+ORİJİNAL bir Vietnam Vinahouse EDM parçası oluşturun.
+
+Tempo: yaklaşık 145 BPM, 140–150 BPM aralığında.
+
+VINAHOUSE BEACH DROP'ın enerjik, şık ve bas ağırlıklı müzik yönünü koruyun.
+
+Güçlü four-on-the-floor kick davul.
+
+Derin, kulüp odaklı sub-bass.
+
+Sürükleyici elektronik bas hattı.
+
+Parlak, enerjik ana sentezleyiciler.
+
+Vurucu ritmik synth stab'ları.
+
+Net elektronik perküsyon.
+
+Keskin trampet ve alkış aksanları.
+
+Yüksek enerjili Vietnam kulüp atmosferi.
+
+Güçlü, akılda kalıcı, tekrar eden bir vokal hook'u.
+
+Anında hissedilen ritmik enerji.
+
+Güçlü dans drop'u.
+
+Enerjik final nakaratı.
+
+Net yetişkin kadın Vietnam vokalleri.
+
+Kendinden emin, güçlü, ritmik olarak kusursuz kulüp tarzı şarkı söyleme.
+
+Kısa, akılda kalıcı, tekrar eden Vietnamca ifadeler.
+
+Doğru Vietnamca telaffuz.
+
+Performans sergileyenin şarkı söylediği ve ağzının göründüğü her an net dudak senkronizasyonu.
+
+Müzik yönünü Çin geleneksel enstrümantal müziğine, orkestral savaş müziğine, Kore K-pop'una, tropical house'a, yumuşak bir pop baladına veya sıradan bir arka plan dans müziğine dönüştürmeyin.
+
+Geleneksel Çin mimari görselleri modern Vietnam Vinahouse EDM müziğiyle kontrast oluşturur.
+
+ORİJİNAL VİETNAMCA VOKAL HOOK'LARI:
+
+"Let's go! Let's go!"
+
+"Dance! Dance!"
+
+"Burn up! Burn up!"
+
+"Hey! Hey! Get hyped!"
+
+"Burn up! Get hyped! Hey!"
+
+Hook'ları 15 saniyelik performans boyunca doğal bir şekilde dağıtın.
+
+Vokal ifadelerini kısa, akılda kalıcı ve ritmik olarak vurucu tutun.
+
+En karmaşık koreografiler ve dönen tepe kamera hareketi için kısa enstrümantal boşluklar bırakın.
+
+Görünen ağız hareketlerini Vietnamca hecelerle senkronize edin.
+
+RİTME SENKRONİZE KOREOGRAFİ — ÖNEMLİ:
+
+Mevcut hareket aksanlarını Vinahouse ritmine daha net kilitleyerek yerleşik zengin yazlık kız grubu koreografi yapısını koruyun.
+
+KICK DAVUL:
+
+Güçlü ayak basışlarını, mevcut yan adım aksanlarını, doğal ağırlık aktarımlarını ve ara sıra yapılan hafif tek ayak sıçramalarını belirgin kick vuruşlarıyla senkronize edin.
+
+Orijinal koreografiyi tekrarlayan zıplamalarla değiştirmeyin.
+
+TRAMPET VE ALKIŞ:
+
+Yerleşik omuz patlatmalarını, kompakt göğüs itmelerini, ön kol çaprazlamalarını ve dışa açılan avuç salımlarını keskin trampet ve alkış aksanlarıyla senkronize edin.
+
+SENTEZLEYİCİ AKIŞLARI:
+```
+
+<img src="https://cms-assets.youmind.com/media/1792914331842_bjlvkz_HVXig_YaIAAV2zB.jpg" width="600" alt="Zümrüt Ejderha Genel Savaş Dansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13025)**
+
+**Author:** [リド](https://x.com/ohshie1973) | **Source:** [Link](https://x.com/ohshie1973/status/2113845199734808623) | **Published:** Oct 24, 2026
+
+---
 ### Grok Imagine Günlük Hayat Video İstemi
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -220,7 +1122,7 @@ Kesim 2 (00:06 - 00:12)
   * Poz 2 (9-12 sn): Şemsiyeyi hafifçe eğmek, yavaşça yürümeye başlamak, arkasına dönüp kameraya gülümseyerek küçük bir el sallamak.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1792827729119_wlde2s_HVXKgy4aMAAKF0l.jpg" width="600" alt="Grok Imagine Günlük Hayat Video İstemi">
+<img src="https://cms-assets.youmind.com/media/1792914331188_8nctpf_HVXKgy4aMAAKF0l.jpg" width="600" alt="Grok Imagine Günlük Hayat Video İstemi">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12987)**
 
@@ -463,6 +1365,27 @@ Siyah Kristal Zırhlı Drakula, dolunayın altında sislerin arasından bir Kan 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12899)**
 
 **Author:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **Source:** [Link](https://x.com/TheEerieHollows/status/2113084756179214722) | **Published:** Oct 22, 2026
+
+---
+### Orta Çağ Gigafactory Keşfi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Elon Musk ve Tesla Optimus'un, cüceler tarafından işletilen Orta Çağ tarzı bir Gigafactory keşfettiği, Grok Imagine ile oluşturulan yaratıcı bir prompt senaryosu.
+
+#### 📝 Prompt
+
+```
+POV: Elon Musk ve Tesla Optimus, orta çağ Gigafactory'sini keşfediyor. ⚒️🔥
+
+Cüceler olayı tam anlamış.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112967546399842304/img/yaiC0KRXZ77UznRD.jpg" width="600" alt="Orta Çağ Gigafactory Keşfi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13022)**
+
+**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2112967628205539600) | **Published:** Oct 21, 2026
 
 ---
 ### Siberpunk Dönüşen Motosiklet Çarpışması ve Araç Uçuşu
@@ -1319,6 +2242,25 @@ Komik video. Ben ve Elon Musk, New York sokaklarında Tesla sürüyoruz.
 **Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **Published:** Oct 18, 2026
 
 ---
+### Elon ve Optimus Pazartesi Gelişi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Büyük bir tanıtımın ardından ofise gelen Elon Musk ve Optimus'u tasvir eden, Grok Imagine ile oluşturulmuş esprili bir istem.
+
+#### 📝 Prompt
+
+```
+Perşembe günkü EFSANE tanıtımın ardından pazartesi ofise süzülen Elon Musk ve Tesla Optimus. 🦅🔥
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111828358648516608/img/6gOTLp0zakP_Qipy.jpg" width="600" alt="Elon ve Optimus Pazartesi Gelişi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13023)**
+
+**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2111828533676806310) | **Published:** Oct 18, 2026
+
+---
 ### Claudia Anime Stili Tesla Roadster
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1917,352 +2859,6 @@ Işıkların yumuşakça parıldamasını sağla, yavaş yavaş kar yağmaya ba�
 **Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110963116439683254) | **Published:** Oct 16, 2026
 
 ---
-### Canlı Yayın İçin ChatGPT Sabit Çerçeve İstemcisi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> ChatGPT'nin, muhtemelen Grok Imagine video üretimi için girdi olarak kullanılan, genç bir kadının fotogerçekçi akıllı telefon tarzında sabit bir çerçevesini oluşturması amacıyla hazırlanmış istem.
-
-#### 📝 Prompt
-
-```
-Fotogerçekçi akıllı telefon tarzı fotoğraf, 9:16 dikey. Orijinal kurgusal, yirmili yaşlarının başında Doğu Asyalı genç bir kadın (gerçek bir kişi değil), doğal ten rengi ve gerçekçi doku, yüzünü çevreleyen birkaç tutam saçla gevşekçe geriye toplanmış kahverengi saçlar, fit
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110961041282891776/img/Sp7gR4RlJqOFcv83.jpg" width="600" alt="Canlı Yayın İçin ChatGPT Sabit Çerçeve İstemcisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12660)**
-
-**Author:** [xer rexx](https://x.com/rexx_xer82545) | **Source:** [Link](https://x.com/rexx_xer82545/status/2110961280336953352) | **Published:** Oct 16, 2026
-
----
-### Starlite Majestic Form
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 'Starlite' ve 'MidnightBlue' içeren, soyut veya fantastik temalı video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Majestesiyle Starlite, Void'un derinliklerinden, MidnightBlue Diyarı'ndan
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110958180989808640/img/Nhqqo3VQWSJm8s0q.jpg" width="600" alt="Starlite Majestic Form">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12613)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2110958263479206280) | **Published:** Oct 16, 2026
-
----
-### Jet ski takla atma aksiyon videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir jet ski sürme, büyük bir dalgaya çıkma ve takla atma eylemlerini içeren aksiyon dolu prompt.
-
-#### 📝 Prompt
-
-```
-Okyanusun ortasında jet ski ile eğlenceli vakit geçiren bu kişinin büyük dalga üzerinden takla attığı video
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110943490897268736/img/pzZkvdssBhdmoNI5.jpg" width="600" alt="Jet ski takla atma aksiyon videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12607)**
-
-**Author:** [jdangit](https://x.com/NunnallyJo36826) | **Source:** [Link](https://x.com/NunnallyJo36826/status/2110943740831621223) | **Published:** Oct 16, 2026
-
----
-### Shakespeare Tarzı İngilizce Ses ve Metin Katmanı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karakterin başının üstüne metin eklemek ve sesini Shakespeare tarzı İngilizce'ye, belirli bir kapanış cümlesiyle birlikte değiştirmek için istem.
-
-#### 📝 Prompt
-
-```
-Başının üstüne "Question Everything" yazısını ekle, sesini Shakespeare tarzı İngilizce yap ve sonunda "be kind, virtuous, fair —" desin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110915976053374976/img/cUFAYuTSz5f7Uw7o.jpg" width="600" alt="Shakespeare Tarzı İngilizce Ses ve Metin Katmanı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12591)**
-
-**Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2110916032324157587) | **Published:** Oct 16, 2026
-
----
-### Grok Imagine Video İstemi: Shakespeare Evreni Alıntısı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Metin katmanları eklemek, sesi Shakespeare tarzı İngilizce'ye dönüştürmek ve belirli diyaloglar için Grok Imagine'a yönelik karmaşık bir video istemi.
-
-#### 📝 Prompt
-
-```
-Başının üstüne "Question Everything" (Her Şeyi Sorgula) yazısını ekle, sesini Shakespeare tarzı İngilizce yap ve sonunda "YOU ARE the UNIVERSE" (Sen Evrensindir) desin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110915889394778113/img/dSyx2ks4NYywGtKS.jpg" width="600" alt="Grok Imagine Video İstemi: Shakespeare Evreni Alıntısı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12597)**
-
-**Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2110915920462070122) | **Published:** Oct 16, 2026
-
----
-### Metin İçeren Kadın Shakespeare Tarzı Ses
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Önceki isteme benzer şekilde, farklı bir diyalog içeren kadın karakter için hazırlanmıştır.
-
-#### 📝 Prompt
-
-```
-Başının üstüne "Question Everything" (Her Şeyi Sorgula) yazısını ekleyin. Sesi İngiliz Shakespeare tarzında olsun ve "We are One" (Biz Biriz) desin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110915792049238016/img/7VJMGLGTxGiE14VH.jpg" width="600" alt="Metin İçeren Kadın Shakespeare Tarzı Ses">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12593)**
-
-**Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2110915832016707800) | **Published:** Oct 16, 2026
-
----
-### Piezoelektrik Yol Karoları Teknoloji Montajı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Elektrikli araçlardan elektrik üreten fütüristik piezoelektrik yol karolarını sergileyen, detaylı bir video montaj istemi.
-
-#### 📝 Prompt
-
-```
-Grok Imagine Video Montaj İstemi
-Geçmekte olan elektrikli araçlardan elektrik üreten ve bunu sonraki araçlar için depolayan piezoelektrik yol karolarını gösteren, temiz ve yüksek kaliteli 30–40 saniyelik fütüristik bir teknoloji montajı oluşturun.
-Stil notları (tüm çekimlere uygulayın...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110902576661024768/img/nMzWW2308vYyxq9d.jpg" width="600" alt="Piezoelektrik Yol Karoları Teknoloji Montajı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12656)**
-
-**Author:** [Meme Island](https://x.com/MemeIslandKing) | **Source:** [Link](https://x.com/MemeIslandKing/status/2110902647649636833) | **Published:** Oct 16, 2026
-
----
-### Metal Yapılı Çöl Peyzajlı Bahçe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Parlak öğle güneşi altında, çöl ortamında yerli bitkilerle güzelce düzenlenmiş bir bahçenin gerçekçi videosunu oluşturmak için bir istem.
-
-#### 📝 Prompt
-
-```
-Lüks görünümlü, güzelce düzenlenmiş çiçekler, otlar ve AZ'ye özgü yerli bitkiler; arka planda çöl çalıları ve ötesinde metal bir yapı. Parlak öğle güneşi, sert gölgeler, gerçekçi stil, sinematik aydınlatma....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110891811938209792/img/QmiIv-9lCfdqX4qs.jpg" width="600" alt="Metal Yapılı Çöl Peyzajlı Bahçe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12594)**
-
-**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2110891939893838301) | **Published:** Oct 16, 2026
-
----
-### Kıyıda Koşan Atlar ve Römorkör
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Arka planda sarı bir römorkör bulunan, kıyıda neşeyle koşan iki atın manzaralı videosu için bir istem.
-
-#### 📝 Prompt
-
-```
-Okyanus kenarındaki plajda yan yana neşeyle koşan iki at, arka plana sarı bir römorkör ekleyin
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110871154328223744/img/w_L1LqmSMCL1l3dM.jpg" width="600" alt="Kıyıda Koşan Atlar ve Römorkör">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12596)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2110871242819686908) | **Published:** Oct 15, 2026
-
----
-### Corvette Uzay Kovalamacası İstem Metni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Elon Musk'ın Roadster'ını uzayda kovalayan bir C7 Corvette, Miss America bayrakları ve uçan portakallar içeren sürreal bir video istem metni.
-
-#### 📝 Prompt
-
-```
-Uzaya kırmızı bir C7 Corvette koyun ve Elon'un roadster'ını kovalasın. Arkasında 'Miss America' yazan bir bayrak olsun ve arka planda uçan portakallar görünsün.@elonmusk
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110855213636521984/img/Pbeavm5tfFLV_DWI.jpg" width="600" alt="Corvette Uzay Kovalamacası İstem Metni">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12608)**
-
-**Author:** [a victim of many things!](https://x.com/evidence446653) | **Source:** [Link](https://x.com/evidence446653/status/2110855232917823883) | **Published:** Oct 15, 2026
-
----
-### Komik aşırı tepki veren nöronlar beyin videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Beyindeki nöronların komik karakterler olarak abartılı tepkiler verdiği bir video için mizahi bir istem.
-
-#### 📝 Prompt
-
-```
-Beyindeki nöronların, aşırı tepki verdiği, komik bir video yap.
-
-Bu senin beynin ve kafadan kontaklar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110853340129038336/img/ZWVswso71RtBEyoJ.jpg" width="600" alt="Komik aşırı tepki veren nöronlar beyin videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12605)**
-
-**Author:** [a victim of many things!](https://x.com/evidence446653) | **Source:** [Link](https://x.com/evidence446653/status/2110853367413260479) | **Published:** Oct 15, 2026
-
----
-### Barok Uzay Draması Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Müzik eşliğinde barok tarzı bir uzay sahnesi oluşturmak için bir istem; görkem ve karmaşık katmanları vurgular.
-
-#### 📝 Prompt
-
-```
-Müzik eşliğinde barok tarzda uzay sahnesi. Görkem, derin dini veya sivil drama, karmaşık katmanlar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110849555704983552/img/TZOKI8T7IxtCVEkQ.jpg" width="600" alt="Barok Uzay Draması Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12600)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2110849595634774146) | **Published:** Oct 15, 2026
-
----
-### Grok Imagine Video İstemi: Elektrik Banjo Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için elektrikli banjo, robot el ve altın güverte içeren dinamik bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Elektrik banjolar sahneye girer, Robot el altın DH güverteye dokunur, sahne hızlanır ve ani bir ışık patlaması olur....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110849158818971648/img/wuKoqe2fIwOpLTyR.jpg" width="600" alt="Grok Imagine Video İstemi: Elektrik Banjo Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12612)**
-
-**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2110849273298641275) | **Published:** Oct 15, 2026
-
----
-### Ürkütücü Kilise İskeleti Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Banklarda oturan iskeletlerin vaizin varlığına tepki verdiği, kiliseye giren bir vaizi konu alan video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Vaizin kürsüye doğru yürümesini göster. Banklarda oturan iskeletleri göster. Vaiz içeri girdiğinde iskeletlerden birinin dikleştiğini göster. Ürkütücü sesler ekle ve vaizin "hadi dua edelim" demesini sağla.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110842540085714945/img/cJLiE5uLBkLAWFM6.jpg" width="600" alt="Ürkütücü Kilise İskeleti Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12602)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2110842561086841078) | **Published:** Oct 15, 2026
-
----
-### Grok Imagine Video İstemi: Lilac Nebula Müziği
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 2100 yılında müzik çalan Lilac Nebula adlı bir karakteri içeren, Grok Imagine için bilim kurgu temalı video istemi.
-
-#### 📝 Prompt
-
-```
-Bu arada 2100 yılında, doğumundan 200 yıl sonra Lilac Nebula, onun çalmasını istediğiniz her melodiyi çalar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110838906182889472/img/Bs0aXUTXKUmDQPUW.jpg" width="600" alt="Grok Imagine Video İstemi: Lilac Nebula Müziği">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12598)**
-
-**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2110838935744303400) | **Published:** Oct 15, 2026
-
----
-### Aile fotoğrafı sanatsal işleme videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1908 yılına ait tarihi aile fotoğraflarını günümüz sanatsal işleme teknikleriyle birleştiren ve video çıktısı üreten bir istem.
-
-#### 📝 Prompt
-
-```
-"1908 aile fotoğrafları ve günümüz sanatsal işleme tekniğine dayalı sanatsal işleme"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110833613365538816/img/TzkOHB_b4OrrSxHb.jpg" width="600" alt="Aile fotoğrafı sanatsal işleme videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12606)**
-
-**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2110834563970904205) | **Published:** Oct 15, 2026
-
----
-### Tesla Showroom Gezi Rehberi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tesla showroom otoparkında birinci şahıs bakış açısıyla çekilmiş video promptu.
-
-#### 📝 Prompt
-
-```
-Tesla showroomunun dışındaki otoparkta yürüyorum. Yeni nakliye ile park edilmiş Tesla araçlarına bakıyorum.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110826911727230976/img/d6kegkQ4zmCh0DcW.jpg" width="600" alt="Tesla Showroom Gezi Rehberi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12592)**
-
-**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2110826957680287835) | **Published:** Oct 15, 2026
-
----
-### Grok Imagine Video Prompt: Sonbahar Arka Plan Düzenlemesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için balkabağı, elma şırası ve kıyafet değişiklikleri gibi sonbahar öğelerini ekleyen bir video/görüntü dönüştürme istemi.
-
-#### 📝 Prompt
-
-```
-Balkabakları ve elma şırası ile sonbahar arka planı ekle. Kahverengi uzun yapraklı gömlek. Şapka ekle....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110822642089353216/img/tuyyaASop2urY-eL.jpg" width="600" alt="Grok Imagine Video Prompt: Sonbahar Arka Plan Düzenlemesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12610)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **Published:** Oct 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2324,6 +2920,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-25T04:27:04.975Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-25T13:23:50.670Z</sub>
 
 </div>

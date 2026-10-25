@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3202** |
+| 📝 提示词总数 | **3220** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-10-25** |
 
@@ -189,6 +189,908 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 银河弹珠海滩游戏
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个富有创意的提示词，描述了在海滩上玩弹珠的游戏，每颗弹珠中都包含形状各异的星系。
+
+#### 📝 提示词
+
+```
+海滩上正在进行的弹珠游戏，每颗弹珠里都藏着一个形状各异的星系
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114132796298219520/img/7nrP0TfK2apF8lo6.jpg" width="600" alt="银河弹珠海滩游戏">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13011)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2114132864493363678) | **发布时间:** Oct 24, 2026
+
+---
+### 专业人像增强
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 通过调整光线，将照片显著提升为精致的专业肖像，同时保持人物身份、姿势和背景不变。
+
+#### 📝 提示词
+
+```
+将这张照片大幅优化为一张精致、专业级的人像作品，同时严格保持人物、姿势、服装和场景完全不变。用柔和迷人的定向主光搭配轻柔的补光重新打光，让面部……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114110855096815616/img/ylwm1VpwYUdP2RVK.jpg" width="600" alt="专业人像增强">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13017)**
+
+**作者:** [Natalya Mironova](https://x.com/Natali7p3z1) | **来源:** [Link](https://x.com/Natali7p3z1/status/2114110895488147784) | **发布时间:** Oct 24, 2026
+
+---
+### 棋盘烈火重生视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段戏剧性的视频序列，展示棋盘被天火吞噬后，所有白色棋子重新构建的过程。
+
+#### 📝 提示词
+
+```
+棋盘上红蓝棋子杀得难解难分，忽然天火自第三重天而降，将一切吞噬殆尽。
+项目重新构建，所有棋子都变成了白色……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114075811342901249/img/u9AW7hyBlG7WmnKq.jpg" width="600" alt="棋盘烈火重生视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13010)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2114075837704307173) | **发布时间:** Oct 24, 2026
+
+---
+### Grok Imagine vs Gemini：人脸特写
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用相同提示词对 Grok Imagine 和 Gemini Argon 进行的对比测试，展示了一位疲惫但神情平和的男子在黄金时刻的光线下于山顶眺望地平线的特写镜头。
+
+#### 📝 提示词
+
+```
+面部特写：一个疲惫却内心平静的男人，伫立山巅眺望远方地平线，微风拂过发丝，沐浴在日暮时分的金色余晖中
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114070458324652033/img/BIU37xfFb0q1iDV6.jpg" width="600" alt="Grok Imagine vs Gemini：人脸特写">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13026)**
+
+**作者:** [Vassily](https://x.com/VassilyBeyond) | **来源:** [Link](https://x.com/VassilyBeyond/status/2114070481984770255) | **发布时间:** Oct 24, 2026
+
+---
+### 西施犬舞蹈参考
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个复杂的提示词，需要参考图片来生成西施犬用后腿行走并一起慢舞的动画。
+
+#### 📝 提示词
+
+```
+让图 2 中的 ShihTzu 仅用后腿直立行走，走到图 1 中的 ShihTzu 身边，然后一起跳一支慢舞。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114067315415248896/img/i5QI6bDDw6Q03aNR.jpg" width="600" alt="西施犬舞蹈参考">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13014)**
+
+**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **来源:** [Link](https://x.com/Soaring2TheMoon/status/2114067332800868489) | **发布时间:** Oct 24, 2026
+
+---
+### 按钮爆炸动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 请求对现有图像或视频进行动画处理，使其更具视觉冲击力，并在触发按钮时呈现震撼的爆炸效果。
+
+#### 📝 提示词
+
+```
+Grok！能不能帮我把这个做成动画，效果再酷炫一点？最好是一按按钮就炸裂全场、帅到飞起的那种！？谢啦！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114043596131143680/img/CzkdRZqIkUlQPoGV.jpg" width="600" alt="按钮爆炸动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13013)**
+
+**作者:** [Tea Enneman](https://x.com/TeaEnneman) | **来源:** [Link](https://x.com/TeaEnneman/status/2114043619737014512) | **发布时间:** Oct 24, 2026
+
+---
+### Grok Imagine 视频提示词：鸽子偷走午餐
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的详细视频生成提示词，描绘了在欧洲城市广场上鸽子偷走午餐的喜剧场景。
+
+#### 📝 提示词
+
+```
+视频标题：鸽子抢走了他的午餐 😂
+
+总时长：正好 15 秒
+
+制作一段超写实的真人喜剧视频，采用 9:16 竖屏格式，场景设定在阳光明媚的白天、一座美丽的欧洲城市广场上。使用一个连续、连贯的视觉...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114012983181639681/img/b00q2GOPlSsLXv0f.jpg" width="600" alt="Grok Imagine 视频提示词：鸽子偷走午餐">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13020)**
+
+**作者:** [Blairy](https://x.com/Blair_54q0) | **来源:** [Link](https://x.com/Blair_54q0/status/2114013121383944593) | **发布时间:** Oct 24, 2026
+
+---
+### 演唱会舞台背景编辑
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个编辑提示，用于移除文字并将背景转换为带有红色聚光灯和烟雾效果的戏剧性演唱会舞台。
+
+#### 📝 提示词
+
+```
+编辑这张图片：彻底移除所有文字和说明。将背景改造成一个效果更佳、极具戏剧张力的演唱会舞台，采用深暗红与黑色调，搭配强烈的红色聚光灯、充满视觉冲击力的光束、烟雾效果，以及一大群热情高涨的……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113977058942693376/img/-sSWyzo1uvveWeNt.jpg" width="600" alt="演唱会舞台背景编辑">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13016)**
+
+**作者:** [Puchamamax](https://x.com/aaoomaxi) | **来源:** [Link](https://x.com/aaoomaxi/status/2113977099669381298) | **发布时间:** Oct 24, 2026
+
+---
+### Grok Imagine 电影感 AI 视频风格
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 精心整理的 10 个电影级视频提示词，涵盖赛博朋克、老上海、沙漠日落、水墨竹林、高级时尚、港风复古、水下梦境、皮克斯动画、雪原蓝调及香水广告等多种风格。
+
+#### 📝 提示词
+
+```
+银发女子身穿反光镀铬夹克，赛博朋克雨夜街头，品红与青色霓虹灯光映照在脸上，缓慢推镜头
+中国女子身着红色旗袍，夜晚穿行于 1930 年代上海雨巷，湿漉漉的地面倒映着霓虹灯光，缓慢跟拍镜头，胶片颗粒感
+女子身穿飘逸的白色亚麻长裙，伫立于日落时分的金色沙丘之上，微风拂起裙摆，无人机缓慢拉远镜头
+优雅女子身着汉服，置身雾气缭绕的竹林，水墨画意境，薄雾飘渺，缓慢平移镜头
+模特身穿极具雕塑感的黑色高定礼服，无缝影棚背景，硬轮廓光，杂志封面质感
+年轻女子身穿红色冲锋衣，置身于熙攘的夜市，逐格打印式动态模糊，王家卫影像风格，胶片颗粒感
+女子身穿轻盈丝质长裙在水中漂浮，阳光穿透碧蓝水面，长发缓缓飘动
+皮克斯风格的年轻女子身穿黄色雨衣，温馨的秋日小镇，落叶飞舞，温暖柔和的光线
+女子身穿白色毛领大衣，站在蓝调时刻的雪原上，雪花飘落，灯笼光斑虚化，缓慢推镜头
+女子身穿香槟色缎面吊带裙，伫立于黄金时刻的大理石露台，前景中香水瓶泛着微光，慢动作发丝飘动
+竖屏电影感画面，首帧即清晰锐利，无文字，不露出双手
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113973790401003520/pu/img/YwJvNBN-HmI0m7mO.jpg" width="600" alt="Grok Imagine 电影感 AI 视频风格">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13024)**
+
+**作者:** [Brucewu666](https://x.com/452864064q45713) | **来源:** [Link](https://x.com/452864064q45713/status/2113973811049574864) | **发布时间:** Oct 24, 2026
+
+---
+### 情感电影感情侣视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的提示词，用于生成逼真的电影感视频，展示一位女性在长椅上安慰哭泣的男性。
+
+#### 📝 提示词
+
+```
+超写实电影感 15 秒视频，竖屏 9:16。一名年轻男子独自坐在木椅上，情绪崩溃、眼含泪水，画面笼罩在冷蓝色调的光线中。一位年轻女子缓缓走近，在他身旁坐下，轻轻握住他的手，将他拉入……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113963178375917568/img/REcTGZL5h71jwiYH.jpg" width="600" alt="情感电影感情侣视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13018)**
+
+**作者:** [Blairy](https://x.com/Blair_54q0) | **来源:** [Link](https://x.com/Blair_54q0/status/2113963223322185765) | **发布时间:** Oct 24, 2026
+
+---
+### Grok Imagine 视频提示词：火星与星云混搭
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的复杂视频/图像提示词，用于融合两张图片：漂浮在蓝紫色星云中的写实火星。
+
+#### 📝 提示词
+
+```
+将两张图片融合成一幅史诗级的宇宙场景：把第二张图中细节丰富、照片级逼真的火星，庄严地悬浮在第一张图空灵梦幻的蓝紫色星云与璀璨星空中央。那颗红橙色的火星……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113939607943573504/img/aDIC4Lq4jDEhHdy0.jpg" width="600" alt="Grok Imagine 视频提示词：火星与星云混搭">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13019)**
+
+**作者:** [Ami A](https://x.com/AA63782) | **来源:** [Link](https://x.com/AA63782/status/2113939694312710507) | **发布时间:** Oct 24, 2026
+
+---
+### 未来主义科幻角色大提琴
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影感提示词，描绘了三位未来主义女性角色在高科技科幻场景中的画面，其中包括一位正在演奏全息大提琴的半机械人。
+
+#### 📝 提示词
+
+```
+三位充满未来感的女性角色置身于极具张力的高科技科幻场景中：身着黑色西装的黑发优雅女性、双眼发光且带有机械元素的赛博朋克女性、空灵飘逸的白发半机械人正在演奏全息大提琴，镜头动态运镜……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113932737694531584/img/rmxTYGdzkD-VWyAC.jpg" width="600" alt="未来主义科幻角色大提琴">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13012)**
+
+**作者:** [Alan Gooding](https://x.com/empoweredathome) | **来源:** [Link](https://x.com/empoweredathome/status/2113932768501772425) | **发布时间:** Oct 24, 2026
+
+---
+### 僵尸和服糖果派对
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 适用于 Grok I2V 的提示词，用于制作万圣节主题的 Vinahouse 舞蹈视频。画面中有一位身着僵尸和服的角色手持巨型棒棒糖，并包含严格的道具处理与编舞指令。
+
+#### 📝 提示词
+
+```
+# GROK I2V PROMPT — SERIES 045
+
+## ZOMBIE KIMONO | VINAHOUSE CANDY PARTY
+
+### Full Integrated Edition v1.0 — Based on Series 041
+
+以提供的参考图像作为精确的开场画面和唯一视觉参考，制作一段时长恰好为 15 秒、超写实电影级画质的越南 Vinahouse EDM 舞曲 MV。
+
+标题：
+
+ZOMBIE KIMONO — VINAHOUSE CANDY PARTY
+
+核心创意方向：
+
+保留已获成功的 SERIES 041 夏日女团编舞风格：快速、俏皮、细节丰富的手部与手指动作，富有弹性的侧步，节奏感十足的踏步，干脆利落的胸部推击（chest push）、肩部震动（shoulder pop）、前臂交叉、手腕旋转、令人印象深刻的手指指向动作、转身，以及与节拍全程同步的连贯舞动。
+
+主角正在享受一场欢乐的日本万圣节派对，而非与任何人打斗。
+
+巨大的螺旋棒棒糖是俏皮的派对道具，绝不能当作武器。
+
+打造一支活力四射、视觉效果震撼的舞曲 MV，而非动作对决、恐怖袭击或战斗场景。
+
+参考图像与身份锁定 — 至关重要：
+
+必须以提供的参考图像作为开场画面。
+
+保持同一位成年女性的面部、头发、发型、妆容、身材比例、和服设计、花卉图案、装饰物及配饰不变。
+
+保留巨大的橙、紫、白三色螺旋棒棒糖及其条纹糖棍。
+
+保留月光下的日本寺庙庭院、温暖的万圣节灯笼、发光的南瓜灯、节日装饰、五彩糖果、月光以及暖橙紫色的灯光氛围。
+
+保留身着节日服装的背景人物，将其作为烘托气氛的派对宾客。
+
+在所有镜头角度下，都必须保持人物身份、服装与环境的高度一致。
+
+禁止服装变换。
+
+禁止场景突变。
+
+禁止将寺庙庭院替换为摄影棚、海滩、天台或夜店。
+
+禁止新角色进入前景。
+
+禁止血腥、暴力、受伤或战斗内容。
+
+巨型糖果道具处理：
+
+开场画面中，表演者正将超大号螺旋棒棒糖举向镜头。
+
+在最初瞬间，必须完全保持该开场姿势。
+
+在前两秒内，她自然地将棒棒糖收回身侧，并稳稳地竖立在附近的石制节日展台旁。
+
+只要镜头角度允许，棒棒糖就应作为静止的派对装饰道具保持在画面中。
+
+随后她的双手完全解放，用于完成复杂的舞蹈编排。
+
+禁止让棒棒糖凭空消失、瞬移、复制、悬浮、变形或改变大小。
+
+禁止用它挥打他人。
+
+禁止击打任何人。
+
+禁止编排武器格斗动作。
+
+表情控制：
+
+极简柔和的表情，同时充满俏皮的派对活力。
+
+面部肌肉自然放松。
+
+在演唱间隙露出淡淡的自信微笑。
+
+温柔直视镜头的眼神交流。
+
+短暂的调皮笑容。
+
+演唱越南语歌词时呈现自然的歌唱神态。
+
+禁止夸张尖叫。
+
+禁止恐怖式咆哮。
+
+禁止带有攻击性的面部表演。
+
+禁止戏剧化的过度表演。
+
+音乐 — 原创越南 Vinahouse EDM：
+
+生成一首原创越南 Vinahouse EDM 曲目。
+
+速度：约 145 BPM，控制在 140–150 BPM 之间。
+
+延续大获成功的 SERIES 041 海滩系列中极具冲击力的音乐风格。
+
+强劲的四四拍底鼓（four-on-the-floor kick）。
+
+深沉的夜店风超低音（sub-bass）。
+
+极具推动感的电子贝斯线。
+
+明亮且充满活力的主音合成器。
+
+富有冲击力的节奏型合成器短音（synth stab）。
+
+清脆的电子打击乐。
+
+高能量的越南夜店氛围。
+
+强烈且洗脑的重复人声 Hook。
+
+瞬间爆发的节奏能量。
+
+极具冲击力的舞曲 Drop。
+
+活力四射的最终副歌。
+
+清晰的成年女性越南语人声。
+
+画面中的表演者亲自演唱越南语人声 Hook。
+
+越南语发音准确。
+
+只要出现面部特写，就必须实现精准的口型同步。
+
+短促有力、节奏精准的乐句。
+
+嘴型自然，避免过度的面部表演。
+
+原创越南语人声 HOOK：
+
+"Lên nào! Lên nào!"
+
+"Nhảy đi! Nhảy đi!"
+
+"Cháy lên! Cháy lên!"
+
+"Hey! Hey! Quẩy lên!"
+
+"Cháy lên! Quẩy lên! Hey!"
+
+将这些 Hook 自然地分布在 15 秒的表演中。
+
+为最快的手指编舞和特殊运镜留出简短的纯乐器段落。
+
+禁止将配乐替换为韩国 K-pop、轻柔流行乐、抒情慢歌或普通的背景音乐。
+
+编舞风格 — 保留 SERIES 041 特色：
+
+将原创的专业夏日女团编舞融入日本万圣节派对的欢乐场景中。
+
+轻盈、富有弹性、俏皮、快速且节奏精准。
+
+必须保留以下所有动作元素：
+
+- 洗脑的 Point Dance 手部动作。
+
+- 快速的左右侧步。
+
+- 轻盈的节奏性踏步重音。
+
+- 富有弹性的膝部动作。
+
+- 精准的胸部与肩部震动（pop）。
+
+- 短促有力的胸部推击（chest push）。
+
+- 俏皮的手指指向编舞。
+
+- 快速的手腕旋转。
+
+- 协调的手臂摆动。
+
+- 前臂交叉组合动作。
+
+- 快速的半转身。
+
+- 流畅的全身旋转。
+
+- 活泼的方向变换。
+
+- 欢快且令人印象深刻的八拍舞蹈乐句。
+
+绝不能因服装原因而简化或削弱编舞力度。
+
+保持既有的动作速度、密度以及上半身的精准度。
+
+动作需连贯不断，并与音乐完美同步。
+
+禁止无意义的随意摇摆。
+
+禁止毫无章法的挥手。
+
+禁止长时间的静态定格。
+
+禁止慢动作舞蹈。
+
+禁止用重复的脚部动作替代手部编舞。
+
+禁止战斗类动作。
+
+禁止攻击背景中的宾客。
+
+运动物理：
+
+符合真实的人体生物力学。
+
+自然的重心转移、平衡、惯性与动量。
+
+物理逻辑连贯的动作过渡。
+
+头发与和服面料的自然飘动。
+
+精准的手指解剖结构。
+
+禁止双脚悬空。
+
+禁止肢体重复。
+
+禁止突然瞬移。
+
+禁止用不自然的身体旋转来模拟镜头运动。
+
+摄影与运镜 — 极其重要：
+
+打造一支高端、视觉极具创意、高能量的舞曲 MV。
+
+目标是在 15 秒内呈现约 18–24 个不同的电影级镜头，遵循已确立的 SERIES 041 天台风格 MV 规格。
+
+频繁使用与节拍同步的剪辑，同时保留足够长的不间断全身画面以完整展示编舞。
+
+运用：
+
+- 低角度地面视角。
+
+- 3/4 侧面表演镜头。
+
+- 快速的横向跟拍。
+
+- 动感的全身英雄镜头（hero shot）。
+
+- 流畅的环绕运镜。
+
+- 180 度镜头环绕。
+
+- 快速的俯拍镜头。
+
+- 甩镜头（whip-pan）转场。
+
+- 急推变焦（snap zoom）。
+
+- 冲撞变焦（crash zoom）。
+
+- 快速拉远。
+
+- 快速推进。
+
+- 短暂的荷兰角（Dutch angle）倾斜镜头。
+
+- 动态匹配剪辑（motion-matched cut）。
+
+- 踩点硬切。
+
+避免构图重复。
+
+镜头绝不能跟丢表演者。
+
+在复杂编舞段落优先保证清晰的全身画面。
+
+所有镜头都必须保持在同一个日本万圣节庭院场景中。
+
+逐镜头时间轴：
+
+0:00–0:02
+
+糖果派对开场 — 连续动作
+
+以提供的参考图像作为开场。
+
+表演者面朝镜头，手持巨大的螺旋棒棒糖。
+
+她露出一丝调皮的微笑。
+
+通过一个流畅且符合物理规律的动作，她将棒棒糖收回，并稳稳地竖立在附近的石制节日展台旁。
+
+糖果作为装饰道具继续留在场景中。
+
+她随即无缝衔接至开场的节奏性舞蹈动作。
+
+镜头：
+
+从参考图像的构图开始。
+
+使用流畅快速的拉远镜头，展现清晰可辨的全身舞蹈构图。
+
+短暂的 3/4 侧面角度。
+
+切回清晰的正面视角。
+
+避免：
+
+棒棒糖消失。
+
+道具复制。
+
+不自然的手部动作过渡。
+
+背景被替换。
+
+暴力的挥舞动作。
+
+长时间的静态摆拍。
+
+0:02–0:04
+
+万圣节舞蹈觉醒
+
+表演者步入
+```
+
+<img src="https://cms-assets.youmind.com/media/1792914334666_hox57l_HVYXtigacAAZoax.jpg" width="600" alt="僵尸和服糖果派对">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13027)**
+
+**作者:** [リド](https://x.com/ohshie1973) | **来源:** [Link](https://x.com/ohshie1973/status/2113903487595708810) | **发布时间:** Oct 24, 2026
+
+---
+### Grok Imagine 视频提示词：兔子机器人变身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 编写的高细节视频提示词，描述了一个科幻变身场景：一只小型兔子机器人在冒险者身旁变身为巨型机甲守护者。
+
+#### 📝 提示词
+
+```
+基于参考图像——一位年轻的金发冒险家和她可爱的、饱经风霜的兔子造型机器人，身处一座满目疮痍的未来城市——打造一段震撼人心、照片级写实的科幻变形序列。小兔子机器人突然定格，琥珀色的双眼瞬间爆发出耀眼的橙色能量，大地随之震颤，尘土飞扬，女孩护目镜上倒映出神秘的全息符号。紧接着是一场超乎想象的次世代机械变形：长长的兔耳裂解为多关节装甲板，头部缩入旋转的钛合金底盘，细小的四肢延展成巨大的液压腿，数百块互锁金属板层层展开，发光的能量导管在全身依次点亮。机器人拔地而起，化身为一台高达 20 米的重装未来守护机甲，拥有宽厚的机械肩甲、可伸缩的能量炮、闪耀着琥珀光芒的反应堆核心、锋利如刃的机械细节以及强劲的液压活塞；冲击波席卷废墟街道，扬起漫天尘土与碎石。女孩无所畏惧地伫立在这尊庞然大物身旁，机甲俯身将她护在身侧，随后转动巨大的发光双眼望向地平线，一道璀璨的能量波瞬间照亮了整座废弃之城。超写实机械工程质感，逐部件无缝变形，逼真的金属形变，复杂的旋转齿轮，液压运动，火花飞溅，电影级慢动作，符合物理规律的真实反射，体积光丁达尔效应，变形宽银幕镜头光晕，极具张力的环绕运镜，深沉的电影级低音，史诗管弦乐音效设计，8K 细节，HDR，IMAX 级画质，竖屏 9:16，角色完美一致，无卡通感，无跳剪，无文字，无水印。
+
+音效：低沉的机器人苏醒声、急促的金属咬合锁定声、液压泄压声、电能充能声、雷霆般的变形撞击声，以及史诗级的电影重低音下潜。
+
+爆款标题：小兔子机器人竟变身 20 米战争机器 🤯⚡
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113871752543784960/img/MZ0-8B4xXRSoBtCZ.jpg" width="600" alt="Grok Imagine 视频提示词：兔子机器人变身">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13021)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2113871980789485707) | **发布时间:** Oct 24, 2026
+
+---
+### Michelle Obama 进入暗室场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个图生视频提示词，利用参考照片将 Michelle Obama 置于与 Barack Obama 同框的特定暗室场景中。
+
+#### 📝 提示词
+
+```
+以第一张图片作为精确的场景基础——也就是那间点着一支蜡烛的暗室，以及（Barack Obama）坐在木桌旁的画面——将其他参考照片中的 Michelle Obama 融入该场景：她正从画面右侧走入镜头……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113865938248568832/img/eAV62PatZ6vnl6Op.jpg" width="600" alt="Michelle Obama 进入暗室场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13015)**
+
+**作者:** [Ami A](https://x.com/AA63782) | **来源:** [Link](https://x.com/AA63782/status/2113865975020003833) | **发布时间:** Oct 24, 2026
+
+---
+### 翡翠龙女将军战舞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok I2V 提示词，用于创作高能量 Vinahouse 舞蹈视频。画面展现一位中国奇幻风格的女将军将战场肖像转化为舞蹈表演，并包含特定的服装与编舞锁定要求。
+
+#### 📝 提示词
+
+```
+GROK I2V PROMPT — SERIES 042
+EMERALD DRAGON GENERAL | VINAHOUSE BATTLE DANCE
+Full Integrated Edition v1.0 — Choreography Preservation & Beat Synchronization
+
+使用提供的翡翠绿中国奇幻女将军图片作为精确的开场视觉参考，创作一段时长严格为 15 秒、超写实、高能量的越南 Vinahouse EDM 舞曲音乐视频。
+标题：
+EMERALD DRAGON GENERAL — VINAHOUSE BATTLE DANCE
+核心创意方向：
+
+一位气势恢宏的中国奇幻女将军，将极具戏剧张力的战场肖像，转化为一支充满力量感、俏皮且编舞专业的舞曲音乐视频。
+
+在视频最开始，她以极具张力的动作高举手中握着的青龙偃月刀（Qinglong Yanyuedao），并将其彻底掷出画面之外。
+
+随后她立刻开始一段活力四射、抓耳且与节拍精准同步的舞蹈表演。
+
+保留此前 ROOFTOP SUNSET 和 VINAHOUSE BEACH DROP 音乐视频规范中已确立的丰富夏日女团编舞语汇。
+
+切勿用普通的 EDM 蹦跳、随意的武术动作、剑术打斗或重复的脚步动作来替代原有编舞。
+
+舞蹈必须节奏明快、变化丰富、动作干净利落、令人过目不忘，且具备极强的视觉冲击力。
+
+音乐必须延续成功的越南 Vinahouse EDM 风格，速度保持在约 145 BPM。
+
+电影级高光时刻出现在视频最后三分之一处：一段非凡的三维环绕式顶部俯拍镜头运动。
+
+角色与身份锁定：
+
+严格保留参考图中同一位特征明显的成年东亚女性形象。
+
+保持其辨识度极高的五官、眼睛、鼻子、嘴唇、脸型、肤色及自然的面部比例。
+
+保留她的深棕色长发、华丽的绿金配色发饰、装饰性发簪以及随风飘动的散发。
+
+保留精致的翡翠绿与暗青铜色中国奇幻战士服饰。
+
+保持原有的深 V 领口、绿色织锦面料、金龙刺绣、立体肩甲、装饰性腰甲、飘逸的分层裙摆、高开叉设计、前臂护甲以及黑金配色的长筒战靴。
+
+保留服装原有的比例、轮廓、面料覆盖度及装饰复杂度。
+
+不得重新设计服装。
+
+不得增加额外盔甲。
+
+不得更改发型。
+
+不得变身为现代偶像装束。
+
+不得将华丽战靴替换为运动鞋或平底鞋。
+
+整段视频中，表演者必须始终是同一位女性。
+
+服装与面料物理效果：
+
+长长的绿色布料、半透明衣袖、丝带、散发以及刺绣裙摆部分，必须随编舞动作与风力产生动态响应。
+
+分层裙摆需呈现符合真实物理惯性的摆动。
+
+盔甲必须牢固贴合身体。
+
+战靴保持原有结构不变形。
+
+服装不得出现融化现象。
+
+面料不得与腿部粘连融合。
+
+盔甲不得凭空瞬移。
+
+不得出现不自然的布料穿模现象。
+
+表情控制 —— 关键要求：
+
+极简柔和的表情。
+
+自然、微妙、克制的面部演绎。
+
+眼神柔和却充满自信。
+
+面部肌肉放松。
+
+一抹毫不费力的浅笑。
+
+优雅而俏皮的眼神交流。
+
+即便舞蹈动作强劲有力，神情依然从容自信。
+
+不得夸张咧嘴大笑。
+
+不得做出戏剧化的呐喊表情。
+
+不得出现凶狠的战斗神态。
+
+眉毛不得频繁挑动。
+
+嘴巴不得一直张开。
+
+在演唱越南语人声时，需做到精准自然的唇形同步，同时保持内敛克制的表情。
+
+场景与环境：
+
+保留参考图中同一座宏伟的中国古代堡垒庭院。
+
+巨大的传统木质城门。
+
+古老的石砌建筑。
+
+绣有华丽金龙图案的翡翠绿军旗。
+
+远处的士兵与仪仗队列。
+
+石板铺就的庭院地面。
+
+扬起的尘土与大气薄雾。
+
+远山背景。
+
+明亮的自然日光。
+
+细腻的电影级阳光质感。
+
+微风吹拂旗帜、散发与衣袂。
+
+整段视频中，建筑结构的空间关系必须保持一致。
+
+背景中的士兵始终处于远处，仅作陪衬。
+
+他们不会靠近表演者，也不会加入舞蹈。
+
+不得切换场景。
+
+不得出现现代城市。
+
+不得出现夜店。
+
+不得出现舞台。
+
+不得出现海滩。
+
+不得出现屋顶。
+
+背景不得发生瞬移。
+
+开场武器动作 —— 关键要求：
+
+青龙偃月刀仅在开场动作中出现。
+
+视频一开始，女子手中握着与参考图完全一致的修长华丽的青龙偃月刀。
+
+武器必须保留其辨识度极高的刀杆、弯曲刀刃、龙纹装饰及金属质感。
+
+紧接着，她完成一个果断且极具戏剧张力的弃武动作。
+
+她双手发力向上举起武器，动作充满力量且符合物理逻辑。
+
+刀刃与刀杆作为一个刚性整体，自然跟随动作轨迹。
+
+随后她果断地将整把武器朝画外空白区域掷出。
+
+武器脱手而出，完全飞出镜头画面。
+
+她的双手彻底空出。
+
+武器不再返回画面。
+
+不得单独展示武器的特写镜头。
+
+不得展示武器落地的画面。
+
+不得展示击中任何人的画面。
+
+不得出现受伤或流血镜头。
+
+不得重复投掷动作。
+
+武器不得继续粘附在她手上。
+
+武器不得变形为其他物体。
+
+不要在武器上浪费多余时间。
+
+武器离手后，表演者须立即无缝切入舞蹈。
+
+音乐 —— 越南 VINAHOUSE EDM：
+
+生成一首原创的越南 Vinahouse EDM 曲目。
+
+速度：约 145 BPM，控制在 140–150 BPM 之间。
+
+延续 VINAHOUSE BEACH DROP 中充满活力、时尚且重低音的音乐风格。
+
+强劲的四四拍底鼓（four-on-the-floor kick）。
+
+深邃的夜店风超低音（sub-bass）。
+
+极具推动感的电子贝斯线。
+
+明亮且充满活力的主音合成器。
+
+富有冲击力的节奏型合成器短音（synth stabs）。
+
+清脆的电子打击乐。
+
+利落的军鼓与拍手音效点缀。
+
+高能量的越南夜店氛围。
+
+强劲抓耳、反复循环的人声记忆点（vocal hook）。
+
+瞬间爆发的节奏能量。
+
+震撼的舞曲 Drop 段落。
+
+充满活力的最终副歌。
+
+清晰的成年越南语女声。
+
+自信、有力、节奏精准的夜店风唱腔。
+
+简短、洗脑、重复的越南语短句。
+
+发音准确的越南语。
+
+只要表演者开口演唱且嘴部可见，就必须做到精准的唇形同步。
+
+切勿将音乐风格改为中国传统器乐、管弦战斗配乐、韩国 K-pop、Tropical House、柔和流行抒情曲或普通的背景舞曲。
+
+中国传统建筑的视觉画面与现代越南 Vinahouse EDM 音乐形成强烈反差。
+
+原创越南语人声 HOOKS：
+
+"Let's go! Let's go!"
+
+"Dance! Dance!"
+
+"Burn up! Burn up!"
+
+"Hey! Hey! Get hyped!"
+
+"Burn up! Get hyped! Hey!"
+
+将这些 Hook 自然地分布在 15 秒的表演过程中。
+
+保持人声短语简短、洗脑且节奏感十足。
+
+在最复杂的编舞段落和顶部环绕镜头运动期间，留出短暂的纯器乐空间。
+
+确保可见的嘴部动作与越南语音节精准同步。
+
+踩点编舞同步 —— 重要提示：
+
+保留已确立的丰富夏日女团编舞框架，同时让现有的动作重音更清晰地卡在 Vinahouse 的节拍上。
+
+底鼓（KICK DRUM）：
+
+将有力的落脚、现有的侧步重音、自然的重心转移以及偶尔的单脚轻跳，与突出的底鼓节拍精准同步。
+
+不得用重复的跳跃动作替代原有编舞。
+
+军鼓与拍手（SNARE AND CLAP）：
+
+将已确立的抖肩（shoulder pops）、紧凑的胸部律动、前臂交叉以及向外推掌的动作，与利落的军鼓和拍手重音同步。
+
+合成器跑动（SYNTHESIZER RUNS）：
+```
+
+<img src="https://cms-assets.youmind.com/media/1792914331842_bjlvkz_HVXig_YaIAAV2zB.jpg" width="600" alt="翡翠龙女将军战舞">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13025)**
+
+**作者:** [リド](https://x.com/ohshie1973) | **来源:** [Link](https://x.com/ohshie1973/status/2113845199734808623) | **发布时间:** Oct 24, 2026
+
+---
 ### Grok Imagine 日常生活视频提示词
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -222,7 +1124,7 @@ BGM
   * 姿态 2（9-12 秒）：将伞微微倾斜，缓缓起步向前走去，随后回头，对着镜头微笑并轻轻挥手。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1792827729119_wlde2s_HVXKgy4aMAAKF0l.jpg" width="600" alt="Grok Imagine 日常生活视频提示词">
+<img src="https://cms-assets.youmind.com/media/1792914331188_8nctpf_HVXKgy4aMAAKF0l.jpg" width="600" alt="Grok Imagine 日常生活视频提示词">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12987)**
 
@@ -465,6 +1367,27 @@ BGM
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12899)**
 
 **作者:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **来源:** [Link](https://x.com/TheEerieHollows/status/2113084756179214722) | **发布时间:** Oct 22, 2026
+
+---
+### 中世纪风格超级工厂的发现
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个创意提示词场景：Elon Musk 和 Tesla Optimus 发现了一座由矮人运营的、中世纪风格的 Gigafactory，该图像由 Grok Imagine 生成。
+
+#### 📝 提示词
+
+```
+POV：当 Elon Musk 和 Tesla Optimus 发现了中世纪的 Gigafactory。⚒️🔥
+
+矮人们算是把任务玩明白了。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112967546399842304/img/yaiC0KRXZ77UznRD.jpg" width="600" alt="中世纪风格超级工厂的发现">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13022)**
+
+**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **来源:** [Link](https://x.com/thesimaximalist/status/2112967628205539600) | **发布时间:** Oct 21, 2026
 
 ---
 ### 赛博朋克变形摩托车碰撞与车辆飞行
@@ -1321,6 +2244,25 @@ BGM “（请构思与图片氛围相匹配的 BGM）”
 **作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **来源:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **发布时间:** Oct 18, 2026
 
 ---
+### Elon 与 Optimus 周一抵达
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个幽默的提示词，描述了 Elon Musk 和 Optimus 在大型发布会后抵达办公室的场景，由 Grok Imagine 生成。
+
+#### 📝 提示词
+
+```
+周四的发布会简直炸裂全场，周一 Elon Musk 带着 Tesla Optimus 霸气登场办公室。🦅🔥
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111828358648516608/img/6gOTLp0zakP_Qipy.jpg" width="600" alt="Elon 与 Optimus 周一抵达">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13023)**
+
+**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **来源:** [Link](https://x.com/thesimaximalist/status/2111828533676806310) | **发布时间:** Oct 18, 2026
+
+---
 ### Claudia 动漫风格 Tesla Roadster
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1919,352 +2861,6 @@ Starship @Image1 使用冷气推进器从月球表面起飞
 **作者:** [king miller](https://x.com/kingmiller685) | **来源:** [Link](https://x.com/kingmiller685/status/2110963116439683254) | **发布时间:** Oct 16, 2026
 
 ---
-### ChatGPT 直播静态帧提示词
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个用于 ChatGPT 的提示词，旨在生成一张逼真的智能手机风格静态画面，展示一位年轻女性，可能作为 Grok Imagine 视频生成的输入素材。
-
-#### 📝 提示词
-
-```
-逼真的智能手机风格照片，9:16 竖屏比例。一位原创虚构的年轻东亚女性，二十岁出头（非真实人物），肤色白皙自然且具有真实质感，棕色头发随意扎起，几缕发丝垂在脸侧，身材匀称
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110961041282891776/img/Sp7gR4RlJqOFcv83.jpg" width="600" alt="ChatGPT 直播静态帧提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12660)**
-
-**作者:** [xer rexx](https://x.com/rexx_xer82545) | **来源:** [Link](https://x.com/rexx_xer82545/status/2110961280336953352) | **发布时间:** Oct 16, 2026
-
----
-### Starlite 尊贵造型
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 涉及 'Starlite' 和 'MidnightBlue' 的抽象或奇幻主题视频生成提示词。
-
-#### 📝 提示词
-
-```
-Starlite 以其庄严形态，从虚空深处、MidnightBlue 领域中浮现
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110958180989808640/img/Nhqqo3VQWSJm8s0q.jpg" width="600" alt="Starlite 尊贵造型">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12613)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **来源:** [Link](https://x.com/TLouisevsughan/status/2110958263479206280) | **发布时间:** Oct 16, 2026
-
----
-### 水上摩托艇后空翻动作视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满动感的提示词，描述了驾驶水上摩托艇、冲上巨浪并完成一次后空翻的动作。
-
-#### 📝 提示词
-
-```
-视频中，他正在海上驾驶水上摩托艇尽情玩耍，并在冲上大浪时完成了一次后空翻跳跃
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110943490897268736/img/pzZkvdssBhdmoNI5.jpg" width="600" alt="水上摩托艇后空翻动作视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12607)**
-
-**作者:** [jdangit](https://x.com/NunnallyJo36826) | **来源:** [Link](https://x.com/NunnallyJo36826/status/2110943740831621223) | **发布时间:** Oct 16, 2026
-
----
-### 带文字叠加的莎士比亚式英式语音
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 提示词：在角色头顶添加文字，并将其声音改为莎士比亚式英式口音，附带特定的结束语。
-
-#### 📝 提示词
-
-```
-在他头顶上方添加文字“Question Everything”，将他的声音改为莎士比亚式英式口音，并在结尾处让他说：“be kind, virtuous, fair —”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110915976053374976/img/cUFAYuTSz5f7Uw7o.jpg" width="600" alt="带文字叠加的莎士比亚式英式语音">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12591)**
-
-**作者:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **来源:** [Link](https://x.com/DavidSteenhoek/status/2110916032324157587) | **发布时间:** Oct 16, 2026
-
----
-### Grok Imagine 视频提示词：莎士比亚式宇宙引言
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 设计的复杂视频提示词，包含文字叠加、将声音改为莎士比亚式英音以及特定对话。
-
-#### 📝 提示词
-
-```
-在他头顶上方添加文字“Question Everything”，将他的声音改为莎士比亚式英音，并在结尾说出“YOU ARE the UNIVERSE”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110915889394778113/img/dSyx2ks4NYywGtKS.jpg" width="600" alt="Grok Imagine 视频提示词：莎士比亚式宇宙引言">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12597)**
-
-**作者:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **来源:** [Link](https://x.com/DavidSteenhoek/status/2110915920462070122) | **发布时间:** Oct 16, 2026
-
----
-### 带文本的女性莎士比亚风格语音
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 与之前的提示类似，但针对女性角色并包含不同的对话内容。
-
-#### 📝 提示词
-
-```
-在她头顶上方添加文字“Question Everything”，使她的声音呈现莎士比亚风格的英式口音，并让她说出“We are One”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110915792049238016/img/7VJMGLGTxGiE14VH.jpg" width="600" alt="带文本的女性莎士比亚风格语音">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12593)**
-
-**作者:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **来源:** [Link](https://x.com/DavidSteenhoek/status/2110915832016707800) | **发布时间:** Oct 16, 2026
-
----
-### 压电道路地砖技术蒙太奇
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 展示未来主义压电道路地砖从电动汽车中发电的详细视频蒙太奇提示。
-
-#### 📝 提示词
-
-```
-Grok Imagine 视频蒙太奇提示
-创建一个干净、高质量的 30–40 秒未来科技蒙太奇，展示压电道路地砖如何从驶过的电动汽车中发电并为后续车辆储存电能。
-风格说明（适用于所有镜头...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110902576661024768/img/nMzWW2308vYyxq9d.jpg" width="600" alt="压电道路地砖技术蒙太奇">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12656)**
-
-**作者:** [Meme Island](https://x.com/MemeIslandKing) | **来源:** [Link](https://x.com/MemeIslandKing/status/2110902647649636833) | **发布时间:** Oct 16, 2026
-
----
-### 带金属建筑的沙漠景观花园
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成逼真视频的提示词，展示在明亮正午阳光下，一个拥有本土植物的精美景观沙漠花园。
-
-#### 📝 提示词
-
-```
-精美的景观花卉、香草和亚利桑那州（AZ）本土植物，呈现奢华外观，背景为沙漠灌木丛及远处的金属建筑。明亮的正午阳光，硬朗的阴影，写实风格，电影级布光....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110891811938209792/img/QmiIv-9lCfdqX4qs.jpg" width="600" alt="带金属建筑的沙漠景观花园">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12594)**
-
-**作者:** [Lala](https://x.com/LalaBFox) | **来源:** [Link](https://x.com/LalaBFox/status/2110891939893838301) | **发布时间:** Oct 16, 2026
-
----
-### 海滩上奔跑的马匹与拖船
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段风景视频的提示词，展示两匹马在海滩上欢快地奔跑，背景中有一艘黄色拖船。
-
-#### 📝 提示词
-
-```
-两匹马在海边沙滩上并排欢快奔跑，背景添加一艘黄色拖船
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110871154328223744/img/w_L1LqmSMCL1l3dM.jpg" width="600" alt="海滩上奔跑的马匹与拖船">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12596)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2110871242819686908) | **发布时间:** Oct 15, 2026
-
----
-### Corvette 太空追逐提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段超现实风格的视频提示词：C7 Corvette 在太空中追逐 Elon Musk 的 Roadster，画面中飘扬的美国小姐旗帜与飞舞的橙子交织成奇幻场景。
-
-#### 📝 提示词
-
-```
-把一辆红色 C7 Corvette 放到太空中，去追逐 Elon 的 Roadster。在它后面插一面写着 Miss America 的旗帜，背景中让橙子四处飞舞。@elonmusk
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110855213636521984/img/Pbeavm5tfFLV_DWI.jpg" width="600" alt="Corvette 太空追逐提示">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12608)**
-
-**作者:** [a victim of many things!](https://x.com/evidence446653) | **来源:** [Link](https://x.com/evidence446653/status/2110855232917823883) | **发布时间:** Oct 15, 2026
-
----
-### 搞笑的过度反应神经元大脑视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个幽默的提示词，要求生成一段视频中大脑神经元过度反应的画面，将其拟人化为滑稽的角色。
-
-#### 📝 提示词
-
-```
-制作一段关于大脑中神经元过度反应的视频，风格要搞笑。
-
-这是你的大脑和那些傻乎乎的家伙
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110853340129038336/img/ZWVswso71RtBEyoJ.jpg" width="600" alt="搞笑的过度反应神经元大脑视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12605)**
-
-**作者:** [a victim of many things!](https://x.com/evidence446653) | **来源:** [Link](https://x.com/evidence446653/status/2110853367413260479) | **发布时间:** Oct 15, 2026
-
----
-### 巴洛克风格太空戏剧视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成配有音乐的巴洛克风格太空场景的提示词，强调宏伟气势与复杂层次。
-
-#### 📝 提示词
-
-```
-巴洛克风格太空场景，伴随音乐呈现宏大、深邃的宗教或世俗戏剧感，以及丰富的层次结构。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110849555704983552/img/TZOKI8T7IxtCVEkQ.jpg" width="600" alt="巴洛克风格太空戏剧视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12600)**
-
-**作者:** [Marie](https://x.com/Marie8508319540) | **来源:** [Link](https://x.com/Marie8508319540/status/2110849595634774146) | **发布时间:** Oct 15, 2026
-
----
-### Grok Imagine 视频提示词：电班卓琴场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于 Grok Imagine 的动态视频生成提示词，包含电班卓琴、机械手和金色牌组。
-
-#### 📝 提示词
-
-```
-电班卓琴登场，机械手触碰金色的 DH 牌组，场景加速并伴随一道突然的闪光……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110849158818971648/img/wuKoqe2fIwOpLTyR.jpg" width="600" alt="Grok Imagine 视频提示词：电班卓琴场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12612)**
-
-**作者:** [Michael Erikson](https://x.com/erikson_michael) | **来源:** [Link](https://x.com/erikson_michael/status/2110849273298641275) | **发布时间:** Oct 15, 2026
-
----
-### 恐怖教堂骷髅视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频生成提示词，描述牧师走进教堂，长椅上的骷髅对他的出现做出反应。
-
-#### 📝 提示词
-
-```
-让牧师走上讲台。展示坐在风化长椅上的骷髅。当牧师走进来时，其中一个骷髅坐直身体。营造恐怖音效，并让牧师说“让我们祈祷”。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110842540085714945/img/cJLiE5uLBkLAWFM6.jpg" width="600" alt="恐怖教堂骷髅视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12602)**
-
-**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **来源:** [Link](https://x.com/Soaring2TheMoon/status/2110842561086841078) | **发布时间:** Oct 15, 2026
-
----
-### Grok Imagine 视频提示词：紫罗兰星云音乐
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个以科幻为主题的 Grok Imagine 视频提示词，描绘了名为 Lilac Nebula 的角色在 2100 年演奏音乐的场景。
-
-#### 📝 提示词
-
-```
-与此同时，在 2100 年，也就是她出生 200 年后，Lilac Nebula 正在演奏你想听的任何旋律
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110838906182889472/img/Bs0aXUTXKUmDQPUW.jpg" width="600" alt="Grok Imagine 视频提示词：紫罗兰星云音乐">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12598)**
-
-**作者:** [Cathy has this](https://x.com/lighthouse42f) | **来源:** [Link](https://x.com/lighthouse42f/status/2110838935744303400) | **发布时间:** Oct 15, 2026
-
----
-### 家庭照片艺术渲染视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 结合 1908 年历史家庭照片与现代艺术渲染技术的视频生成提示词。
-
-#### 📝 提示词
-
-```
-“基于 1908 年家庭照片的艺术渲染及现代艺术渲染”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110833613365538816/img/TzkOHB_b4OrrSxHb.jpg" width="600" alt="家庭照片艺术渲染视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12606)**
-
-**作者:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **来源:** [Link](https://x.com/Trad_Teodor/status/2110834563970904205) | **发布时间:** Oct 15, 2026
-
----
-### 特斯拉展厅导览
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 以第一人称视角拍摄的视频提示，展示在特斯拉展厅停车场周围行走的场景。
-
-#### 📝 提示词
-
-```
-我在特斯拉展厅外的停车场里四处走动。我查看那些刚从新车运输中停放好的特斯拉汽车。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110826911727230976/img/d6kegkQ4zmCh0DcW.jpg" width="600" alt="特斯拉展厅导览">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12592)**
-
-**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **来源:** [Link](https://x.com/jaras70berlin/status/2110826957680287835) | **发布时间:** Oct 15, 2026
-
----
-### Grok Imagine 视频提示词：秋季背景编辑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 视频/图像转换提示词：添加南瓜、苹果酒和服装变化等秋季元素。
-
-#### 📝 提示词
-
-```
-添加带有南瓜和苹果酒的秋季背景。一件棕色长叶图案衬衫。加上帽子……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110822642089353216/img/tuyyaASop2urY-eL.jpg" width="600" alt="Grok Imagine 视频提示词：秋季背景编辑">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12610)**
-
-**作者:** [Mimi9060](https://x.com/MelodyM662010) | **来源:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **发布时间:** Oct 15, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2326,6 +2922,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-25T04:26:51.543Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-25T13:23:40.410Z</sub>
 
 </div>

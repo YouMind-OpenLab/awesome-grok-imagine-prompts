@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3202** |
+| 📝 Total Prompts | **3220** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-25** |
 
@@ -189,6 +189,908 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Jogo de Bolinhas na Praia Galáxia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt criativo descrevendo um jogo de bolinhas na praia, onde cada bolinha contém uma galáxia com formato diferente.
+
+#### 📝 Prompt
+
+```
+Jogo de berlindes a ser jogado na praia, em que cada berlinde tem uma galáxia com um formato diferente no seu interior
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114132796298219520/img/7nrP0TfK2apF8lo6.jpg" width="600" alt="Jogo de Bolinhas na Praia Galáxia">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13011)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2114132864493363678) | **Published:** Oct 24, 2026
+
+---
+### Aprimoramento Profissional de Retratos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para transformar dramaticamente uma foto em um retrato profissional polido, mantendo a identidade, a pose e o local, com foco em ajustes de iluminação.
+
+#### 📝 Prompt
+
+```
+Transforme radicalmente esta foto num retrato polido e com qualidade profissional, mantendo exatamente a mesma pessoa, a mesma pose, as mesmas roupas e o mesmo local. Reilumine o sujeito com uma luz principal direcional suave e lisonjeira, acompanhada de um preenchimento delicado, para que o ro...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114110855096815616/img/ylwm1VpwYUdP2RVK.jpg" width="600" alt="Aprimoramento Profissional de Retratos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13017)**
+
+**Author:** [Natalya Mironova](https://x.com/Natali7p3z1) | **Source:** [Link](https://x.com/Natali7p3z1/status/2114110895488147784) | **Published:** Oct 24, 2026
+
+---
+### Vídeo de Reconstrução do Tabuleiro de Xadrez Após Incêndio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gera uma sequência de vídeo dramática onde um tabuleiro de xadrez é consumido por fogo vindo do céu e, em seguida, reconstruído com todas as peças brancas.
+
+#### 📝 Prompt
+
+```
+No tabuleiro de xadrez, xeque-mate nas peças azuis e vermelhas; o fogo desce do terceiro céu e as consome.
+O tabuleiro é reconstruído e todas as peças se tornam brancas...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114075811342901249/img/u9AW7hyBlG7WmnKq.jpg" width="600" alt="Vídeo de Reconstrução do Tabuleiro de Xadrez Após Incêndio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13010)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2114075837704307173) | **Published:** Oct 24, 2026
+
+---
+### Grok Imagine vs Gemini: Close-up do Rosto Humano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Teste comparativo usando o mesmo prompt no Grok Imagine e no Gemini Argon, apresentando um close-up de um homem exausto, mas sereno, olhando para o horizonte no topo de uma montanha com iluminação da hora dourada.
+
+#### 📝 Prompt
+
+```
+Close-up no rosto de um homem exausto, mas sereno, contemplando o horizonte do alto de uma montanha, com o vento a bater-lhe no cabelo e a luz dourada do fim do dia
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114070458324652033/img/BIU37xfFb0q1iDV6.jpg" width="600" alt="Grok Imagine vs Gemini: Close-up do Rosto Humano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13026)**
+
+**Author:** [Vassily](https://x.com/VassilyBeyond) | **Source:** [Link](https://x.com/VassilyBeyond/status/2114070481984770255) | **Published:** Oct 24, 2026
+
+---
+### Referência de Dança de ShihTzu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt complexo que exige imagens de referência para animar Shih Tzus caminhando sobre as patas traseiras e dançando lentamente juntos.
+
+#### 📝 Prompt
+
+```
+Faça com que o ShihTzu da imagem dois entre caminhando apenas sobre as patas traseiras, junte-se ao ShihTzu da imagem um e dancem uma dança lenta juntos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114067315415248896/img/i5QI6bDDw6Q03aNR.jpg" width="600" alt="Referência de Dança de ShihTzu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13014)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2114067332800868489) | **Published:** Oct 24, 2026
+
+---
+### Animação de Explosão no Botão
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Solicitação para animar uma imagem/vídeo existente, tornando-a mais impressionante e causando uma explosão épica ao pressionar um botão.
+
+#### 📝 Prompt
+
+```
+Grok! Dá para animar isso e deixar bem mais irado? E quando clicarem no botão, que exploda de um jeito épico!? Valeu!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114043596131143680/img/CzkdRZqIkUlQPoGV.jpg" width="600" alt="Animação de Explosão no Botão">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13013)**
+
+**Author:** [Tea Enneman](https://x.com/TeaEnneman) | **Source:** [Link](https://x.com/TeaEnneman/status/2114043619737014512) | **Published:** Oct 24, 2026
+
+---
+### Prompt de Vídeo do Grok Imagine: Pombo Rouba Almoço
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para geração de vídeo no Grok Imagine, descrevendo uma cena cômica onde um pombo rouba o almoço em uma praça europeia.
+
+#### 📝 Prompt
+
+```
+TÍTULO DO VÍDEO: O Pombo Roubou o Almoço Dele 😂
+
+DURAÇÃO TOTAL: EXATAMENTE 15 SEGUNDOS
+
+Crie um vídeo de comédia em live-action ultrarrealista no formato vertical 9:16, ambientado numa linda praça de uma cidade europeia num dia ensolarado. Use uma sequência visual contínua e coerente...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114012983181639681/img/b00q2GOPlSsLXv0f.jpg" width="600" alt="Prompt de Vídeo do Grok Imagine: Pombo Rouba Almoço">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13020)**
+
+**Author:** [Blairy](https://x.com/Blair_54q0) | **Source:** [Link](https://x.com/Blair_54q0/status/2114013121383944593) | **Published:** Oct 24, 2026
+
+---
+### Edição de Fundo de Palco de Concerto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de edição para remover o texto e transformar o fundo em um palco de concerto dramático com holofotes vermelhos e fumaça.
+
+#### 📝 Prompt
+
+```
+Edite esta imagem: remova completamente todos os textos e legendas. Transforme o fundo num palco de concerto muito melhor e altamente dramático, com tons profundos de vermelho-escuro e preto, potentes holofotes vermelhos, feixes de luz dramáticos, fumo e um grande público entusiasmado...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113977058942693376/img/-sSWyzo1uvveWeNt.jpg" width="600" alt="Edição de Fundo de Palco de Concerto">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13016)**
+
+**Author:** [Puchamamax](https://x.com/aaoomaxi) | **Source:** [Link](https://x.com/aaoomaxi/status/2113977099669381298) | **Published:** Oct 24, 2026
+
+---
+### Estilos de Vídeo Cinematográfico com IA para Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma coleção de 10 prompts de vídeo cinematográficos para Grok Imagine, cobrindo estilos como cyberpunk, Xangai antiga, pôr do sol no deserto, bambu em tinta nanquim, alta moda, retrô de Hong Kong, sonho subaquático, animação estilo Pixar, azuis da planície nevada e anúncios de perfume.
+
+#### 📝 Prompt
+
+```
+mulher de cabelos prateados com jaqueta cromada reflexiva, rua cyberpunk chuvosa, brilho neon magenta e ciano no rosto, aproximação lenta da câmera
+mulher chinesa em um qipao vermelho caminhando por um beco chuvoso de Xangai dos anos 1930 à noite, reflexos de neon no chão molhado, travelling lento, granulação de filme
+mulher em vestido fluido de linho branco sobre dunas douradas do deserto ao pôr do sol, vento levantando o tecido, recuo lento de drone
+mulher elegante em Hanfu numa floresta de bambu enevoada, atmosfera de pintura a tinta aguada, névoa flutuante, dolly lento
+modelo em vestido preto escultural de alta-costura, fundo de estúdio contínuo, luz de contorno dura, visual de capa de revista
+jovem mulher em corta-vento vermelho num mercado noturno lotado, desfoque de movimento com step-printing, visual Wong Kar-wai, granulação de filme
+mulher em vestido de seda esvoaçante flutuando debaixo d'água, raios de sol atravessando a água turquesa, cabelo movendo-se lentamente
+jovem estilizada estilo Pixar em capa de chuva amarela, cidadezinha aconchegante de outono, folhas girando no ar, luz quente e suave
+mulher em casaco branco com gola de pele num campo nevado na hora azul, neve caindo, bokeh de lanternas, aproximação lenta da câmera
+mulher em vestido-camisola de cetim champanhe num terraço de mármore na golden hour, frasco de perfume brilhante em primeiro plano, cabelo em câmera lenta
+vertical cinematográfico, nítido desde o primeiro frame, sem texto, mãos não visíveis
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113973790401003520/pu/img/YwJvNBN-HmI0m7mO.jpg" width="600" alt="Estilos de Vídeo Cinematográfico com IA para Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13024)**
+
+**Author:** [Brucewu666](https://x.com/452864064q45713) | **Source:** [Link](https://x.com/452864064q45713/status/2113973811049574864) | **Published:** Oct 24, 2026
+
+---
+### Vídeo cinematográfico emocional de casal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para um vídeo cinematográfico realista mostrando uma mulher confortando um homem chorando em um banco.
+
+#### 📝 Prompt
+
+```
+Vídeo cinematográfico ultrarrealista de 15 segundos, vertical 9:16. Um jovem está sentado sozinho num banco de madeira, emocionalmente destruído e com lágrimas nos olhos, sob uma iluminação azul fria. Uma jovem aproxima-se lentamente, senta-se ao seu lado, segura-lhe a mão com delicadeza e puxa-o pa...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113963178375917568/img/REcTGZL5h71jwiYH.jpg" width="600" alt="Vídeo cinematográfico emocional de casal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13018)**
+
+**Author:** [Blairy](https://x.com/Blair_54q0) | **Source:** [Link](https://x.com/Blair_54q0/status/2113963223322185765) | **Published:** Oct 24, 2026
+
+---
+### Prompt de Vídeo Grok Imagine: Fusão Nebulosa de Marte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt complexo de vídeo/imagem para o Grok Imagine combinar duas imagens: Marte fotorrealista flutuando em uma nebulosa azul-roxa.
+
+#### 📝 Prompt
+
+```
+Mescle as duas imagens em uma única cena cósmica épica: posicione o planeta Marte detalhado e fotorrealista da segunda imagem flutuando majestosamente no centro da nebulosa etérea em tons de azul e roxo e do campo estelar da primeira imagem. O Marte avermelhado...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113939607943573504/img/aDIC4Lq4jDEhHdy0.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Fusão Nebulosa de Marte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13019)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2113939694312710507) | **Published:** Oct 24, 2026
+
+---
+### Personagens de Ficção Científica Futurista Tocando Violoncelo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico apresentando três personagens femininas futuristas em uma cena sci-fi de alta tecnologia, incluindo uma ciborgue tocando um violoncelo holográfico.
+
+#### 📝 Prompt
+
+```
+Três personagens femininas futuristas numa cena dramática de ficção científica de alta tecnologia: uma mulher elegante de cabelo escuro num fato preto, uma mulher cyberpunk com olhos brilhantes e elementos robóticos, um ciborgue etéreo de cabelo branco a tocar um violoncelo holográfico, movimento de câmara dinâmico...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113932737694531584/img/rmxTYGdzkD-VWyAC.jpg" width="600" alt="Personagens de Ficção Científica Futurista Tocando Violoncelo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13012)**
+
+**Author:** [Alan Gooding](https://x.com/empoweredathome) | **Source:** [Link](https://x.com/empoweredathome/status/2113932768501772425) | **Published:** Oct 24, 2026
+
+---
+### Festa de Doces Zumbi de Quimono
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt Grok I2V para um vídeo de dança Vinahouse com tema de Halloween, apresentando uma personagem zumbi de quimono segurando um pirulito gigante, com instruções rigorosas de manuseio de adereços e coreografia.
+
+#### 📝 Prompt
+
+```
+# PROMPT GROK I2V — SÉRIE 045
+
+## KIMONO ZUMBI | VINAHOUSE CANDY PARTY
+
+### Edição Totalmente Integrada v1.0 — Baseada na Série 041
+
+Crie um videoclipe de música eletrônica Vinahouse EDM vietnamita com exatamente 15 segundos, ultrarrealista e cinematográfico, usando a imagem de referência fornecida como o quadro inicial exato e única referência visual.
+
+TÍTULO:
+
+KIMONO ZUMBI — VINAHOUSE CANDY PARTY
+
+DIREÇÃO CRIATIVA PRINCIPAL:
+
+Mantenha a coreografia de sucesso já estabelecida do girl group de verão da SÉRIE 041: movimentos rápidos, divertidos e altamente detalhados de mãos e dedos, passos laterais saltitantes, batidas rítmicas dos pés no chão, empurrões curtos de peito, estalos de ombros, antebraços cruzados, rotações de pulso, gestos marcantes apontando com os dedos, giros e movimento contínuo sincronizado com a batida.
+
+A personagem está aproveitando uma festiva festa japonesa de Halloween, não lutando contra ninguém.
+
+O pirulito gigante em espiral é um adereço divertido de festa, nunca uma arma.
+
+Crie um videoclipe de dança animado e espetacular, e não uma batalha de ação, um ataque de terror ou uma cena de combate.
+
+IMAGEM DE REFERÊNCIA E TRAVA DE IDENTIDADE — CRÍTICO:
+
+Comece exatamente com a imagem de referência fornecida.
+
+Preserve a mesma mulher adulta, rosto, cabelo, penteado, maquiagem, proporções corporais, design do quimono, estampas florais, ornamentos e acessórios.
+
+Preserve o pirulito gigante em espiral nas cores laranja, roxo e branco, além de seu cabo listrado.
+
+Preserve o pátio iluminado pela lua do templo japonês, as lanternas quentes de Halloween, as abóboras luminosas (jack-o'-lanterns), as decorações de festival, os doces coloridos, o luar e a iluminação quente em tons de laranja e roxo.
+
+Preserve os participantes fantasiados ao fundo como convidados que compõem o clima da festa.
+
+Mantenha a identidade, o figurino e o ambiente consistentes em todos os ângulos de câmera.
+
+Nenhuma transformação de figurino.
+
+Nenhuma mudança repentina de locação.
+
+Não substitua o pátio do templo por um estúdio, praia, terraço ou boate.
+
+Nenhum personagem novo entrando no primeiro plano.
+
+Sem sangue, violência, ferimentos ou combate.
+
+MANUSEIO DO ADEREÇO DE DOCE GIGANTE:
+
+A imagem inicial mostra a performer segurando o pirulito em espiral gigante em direção à câmera.
+
+Mantenha a pose inicial exata no primeiro instante.
+
+Durante os dois primeiros segundos, ela traz o pirulito naturalmente para perto do corpo e o apoia firmemente na vertical contra a estrutura de pedra decorativa do festival ali perto.
+
+O pirulito permanece visível como um adereço decorativo fixo de festa sempre que o ângulo da câmera permitir.
+
+As mãos dela ficam então totalmente livres para a intrincada coreografia de dança.
+
+Não faça o pirulito desaparecer, se teletransportar, se multiplicar, flutuar, se transformar ou mudar de tamanho.
+
+Não o balance na direção de outras pessoas.
+
+Não acerte ninguém.
+
+Não crie coreografias de combate com armas.
+
+CONTROLE DE EXPRESSÃO:
+
+Expressão suave e minimalista, com a energia divertida de uma festa.
+
+Músculos faciais naturais e relaxados.
+
+Um leve sorriso confiante entre as frases vocais.
+
+Contato visual direto e suave.
+
+Sorrisos breves e travessos.
+
+Expressões naturais de canto durante as letras em vietnamita.
+
+Sem gritos exagerados.
+
+Sem rosnados de terror.
+
+Sem expressões faciais agressivas.
+
+Sem atuação teatral exagerada.
+
+MÚSICA — VINAHOUSE EDM VIETNAMITA ORIGINAL:
+
+Gere uma faixa ORIGINAL de Vinahouse EDM vietnamita.
+
+Andamento: aproximadamente 145 BPM, entre 140 e 150 BPM.
+
+Preserve a direção musical poderosa da bem-sucedida geração de praia da SÉRIE 041.
+
+Bumbo four-on-the-floor potente.
+
+Subgrave profundo voltado para pistas de clube.
+
+Linha de baixo eletrônica pulsante.
+
+Sintetizadores principais brilhantes e energéticos.
+
+Stabs de sintetizador rítmicos e marcantes.
+
+Percussão eletrônica nítida.
+
+Atmosfera de alta energia de clube vietnamita.
+
+Ganchos vocais repetidos, fortes e cativantes.
+
+Energia rítmica imediata.
+
+Drop de dança poderoso.
+
+Refrão final enérgico.
+
+Vocais femininos adultos claros em vietnamita.
+
+A performer na tela canta ela mesma os ganchos vocais em vietnamita.
+
+Pronúncia vietnamita precisa.
+
+Sincronia labial visível e exata sempre que o rosto dela aparecer.
+
+Frases curtas, marcantes e ritmicamente precisas.
+
+Formatos de boca naturais, sem atuação facial excessiva.
+
+GANCHOS VOCAIS ORIGINAIS EM VIETNAMITA:
+
+"Lên nào! Lên nào!"
+
+"Nhảy đi! Nhảy đi!"
+
+"Cháy lên! Cháy lên!"
+
+"Hey! Hey! Quẩy lên!"
+
+"Cháy lên! Quẩy lên! Hey!"
+
+Distribua esses ganchos naturalmente ao longo da performance de 15 segundos.
+
+Deixe breves espaços instrumentais para a coreografia de dedos mais rápida e para a manobra especial de câmera.
+
+Não substitua a trilha sonora por K-pop coreano, pop suave, balada ou música de fundo genérica.
+
+ESTILO DE COREOGRAFIA — PRESERVAR A SÉRIE 041:
+
+Coreografia profissional original de girl group de verão adaptada para um cenário festivo de Halloween japonês.
+
+Leve, saltitante, divertida, rápida e ritmicamente precisa.
+
+Preserve todo o vocabulário de movimentos a seguir:
+
+- Gestos de mão cativantes de point dance.
+
+- Passos rápidos de um lado para o outro.
+
+- Acentos leves e rítmicos de batidas com os pés.
+
+- Movimentos saltitantes de joelhos.
+
+- Estalos precisos de peito e ombros.
+
+- Empurrões curtos e secos de peito.
+
+- Coreografia divertida apontando com os dedos.
+
+- Rotações rápidas de pulso.
+
+- Balanços de braço coordenados.
+
+- Combinações com antebraços cruzados.
+
+- Meios-giros rápidos.
+
+- Giros suaves de corpo inteiro.
+
+- Mudanças de direção animadas.
+
+- Frases de dança alegres e memoráveis de oito tempos.
+
+O figurino não deve ser usado como justificativa para simplificar ou enfraquecer a coreografia.
+
+Preserve a velocidade, a densidade de movimentos e a precisão da parte superior do corpo já estabelecidas.
+
+Mantenha o movimento contínuo e sincronizado com a música.
+
+Sem balançar genérico.
+
+Sem acenos aleatórios de mãos.
+
+Sem poses estáticas prolongadas.
+
+Sem dança em câmera lenta.
+
+Sem jogos de pés repetitivos substituindo a coreografia de mãos.
+
+Sem movimentos de batalha.
+
+Sem ataques aos convidados ao fundo.
+
+FÍSICA DE MOVIMENTO:
+
+Biomecânica humana realista.
+
+Transferência de peso, equilíbrio, inércia e impulso naturais.
+
+Transições fisicamente coerentes.
+
+Movimento natural do cabelo e do tecido do quimono.
+
+Anatomia precisa dos dedos.
+
+Sem pés flutuando.
+
+Sem membros duplicados.
+
+Sem teletransporte repentino.
+
+Sem rotação corporal artificial para imitar movimento de câmera.
+
+CINEMATOGRAFIA — EXTREMAMENTE IMPORTANTE:
+
+Crie um videoclipe de dança premium, visualmente inventivo e de alta energia.
+
+Busque aproximadamente de 18 a 24 planos cinematográficos distintos dentro dos 15 segundos, seguindo a especificação de videoclipe estilo terraço já estabelecida na SÉRIE 041.
+
+Use cortes frequentes sincronizados com a batida, preservando tempo suficiente de filmagem ininterrupta de corpo inteiro para mostrar a coreografia.
+
+Utilize:
+
+- Perspectivas rentes ao chão.
+
+- Planos de performance em três quartos.
+
+- Travellings laterais rápidos.
+
+- Planos heroicos dinâmicos de corpo inteiro.
+
+- Movimentos circulares suaves de câmera.
+
+- Órbitas de câmera de 180 graus.
+
+- Planos aéreos rápidos.
+
+- Transições com whip pan.
+
+- Snap zooms.
+
+- Crash zooms.
+
+- Recuos rápidos.
+
+- Avanços rápidos de câmera.
+
+- Breves planos com Dutch angle.
+
+- Cortes combinados por movimento (motion-matched).
+
+- Cortes secos sincronizados com a batida.
+
+Evite enquadramentos repetitivos.
+
+A câmera nunca pode perder a performer de vista.
+
+Priorize vistas claras de corpo inteiro durante as coreografias complexas.
+
+Todos os planos devem preservar o mesmo pátio japonês de Halloween.
+
+CRONOGRAMA PLANO A PLANO:
+
+0:00–0:02
+
+ABERTURA DA FESTA DE DOCES — AÇÃO CONTÍNUA
+
+Comece exatamente com a imagem de referência fornecida.
+
+A performer está de frente para a câmera segurando o pirulito gigante em espiral.
+
+Ela dá um leve sorriso travesso.
+
+Com um movimento suave e fisicamente coerente, ela puxa o pirulito para trás e o apoia firmemente na vertical contra a estrutura de pedra decorativa do festival ali perto.
+
+O doce permanece na cena como um adereço decorativo.
+
+Ela faz a transição imediata para o movimento rítmico de dança inicial.
+
+CÂMERA:
+
+Comece com o enquadramento de referência.
+
+Use um recuo suave e rápido para revelar uma composição de dança de corpo inteiro legível.
+
+Breve ângulo de três quartos.
+
+Retorne para uma visão frontal clara.
+
+Evite:
+
+Desaparecimento do pirulito.
+
+Duplicação de adereços.
+
+Transições de mãos artificiais.
+
+Substituição do fundo.
+
+Balanços violentos.
+
+Poses estáticas longas.
+
+0:02–0:04
+
+DESPERTAR DA DANÇA DE HALLOWEEN
+
+A performer entra em
+```
+
+<img src="https://cms-assets.youmind.com/media/1792914334666_hox57l_HVYXtigacAAZoax.jpg" width="600" alt="Festa de Doces Zumbi de Quimono">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13027)**
+
+**Author:** [リド](https://x.com/ohshie1973) | **Source:** [Link](https://x.com/ohshie1973/status/2113903487595708810) | **Published:** Oct 24, 2026
+
+---
+### Prompt de Vídeo Grok Imagine: Transformação de Robô Coelho
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo altamente detalhado para o Grok Imagine, descrevendo uma sequência de transformação sci-fi onde um pequeno robô coelho se torna um guardião mecha gigante ao lado de um aventureiro.
+
+#### 📝 Prompt
+
+```
+Crie uma sequência de transformação sci-fi fotorrealista e alucinante, baseada na imagem de referência de uma jovem aventureira loira e seu adorável robô em forma de coelho, desgastado pelo tempo, em uma cidade futurista devastada. O pequeno robô congela de repente, seus olhos âmbar incendeiam-se em uma brilhante energia laranja enquanto o chão treme, a poeira sobe e os óculos da garota refletem misteriosos símbolos holográficos. Em uma incrível transformação mecânica de outro nível, suas longas orelhas de coelho se dividem em painéis de armadura articulados, sua cabeça retrai para um chassi giratório de titânio, membros minúsculos se estendem em pernas hidráulicas gigantescas, centenas de placas metálicas interligadas se desdobram e condutores de energia luminosos acendem por todo o seu corpo. O robô se ergue como um colossal mecha guardião futurista de 20 metros, fortemente blindado, com ombros mecânicos maciços, canhões de energia retráteis, núcleo reator âmbar brilhante, detalhes mecânicos afiados como navalha e poderosos pistões hidráulicos, enquanto ondas de choque lançam poeira e destroços pela rua em ruínas. A garota permanece destemida ao lado da máquina colossal enquanto ela se ajoelha para protegê-la, depois volta seus enormes olhos iluminados para o horizonte, no momento em que uma onda de energia brilhante ilumina a cidade abandonada. Engenharia mecânica ultrafotorrealista, transformação perfeita componente por componente, deformação realista do metal, engrenagens giratórias complexas, movimento hidráulico, faíscas voando, câmera lenta cinematográfica, reflexos fisicamente precisos, raios de luz volumétricos (god rays), flares anamórficos de lente, órbita dramática de câmera, graves cinematográficos profundos, design de som orquestral épico, detalhe 8K, HDR, visuais com qualidade IMAX, formato vertical 9:16, personagens perfeitamente consistentes, sem aparência de desenho animado, sem cortes bruscos, sem texto, sem marca d'água.
+
+Efeitos sonoros: Despertar robótico profundo, travamento metálico rápido, liberação de pressão hidráulica, carregamento de energia elétrica, impacto estrondoso da transformação e uma queda de grave cinematográfica épica.
+
+Título viral: O PEQUENO ROBÔ COELHO ACABOU DE VIRAR UMA MÁQUINA DE GUERRA DE 20 METROS 🤯⚡
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113871752543784960/img/MZ0-8B4xXRSoBtCZ.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Transformação de Robô Coelho">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13021)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113871980789485707) | **Published:** Oct 24, 2026
+
+---
+### Michelle Obama entrando em cena de quarto escuro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de imagem para vídeo que usa fotos de referência para colocar Michelle Obama em uma cena específica de quarto escuro com Barack Obama.
+
+#### 📝 Prompt
+
+```
+Usando a primeira imagem como a cena exata do quarto escuro com a única vela e o homem (Barack Obama) sentado à mesa de madeira, posicione Michelle Obama, a partir das outras fotos de referência, dentro da cena: ela está entrando no enquadramento pela direita...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113865938248568832/img/eAV62PatZ6vnl6Op.jpg" width="600" alt="Michelle Obama entrando em cena de quarto escuro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13015)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2113865975020003833) | **Published:** Oct 24, 2026
+
+---
+### Dança de Batalha do Dragão Esmeralda General
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt Grok I2V para um vídeo de dança Vinahouse de alta energia, apresentando uma general feminina da fantasia chinesa que transforma um retrato de campo de batalha em uma performance de dança, com especificações fixas de figurino e coreografia.
+
+#### 📝 Prompt
+
+```
+PROMPT GROK I2V — SÉRIE 042
+GENERAL DRAGÃO ESMERALDA | VINAHOUSE BATTLE DANCE
+Edição Totalmente Integrada v1.0 — Preservação de Coreografia e Sincronização com a Batida
+
+Crie um videoclipe musical de dança EDM Vinahouse vietnamita de exatamente 15 segundos, ultrarrealista e de alta energia, usando a imagem fornecida da general feminina chinesa de fantasia em verde-esmeralda como referência visual exata para a abertura.
+TÍTULO:
+GENERAL DRAGÃO ESMERALDA — VINAHOUSE BATTLE DANCE
+DIREÇÃO CRIATIVA PRINCIPAL:
+
+Uma magnífica general feminina chinesa de fantasia transforma um retrato dramático de campo de batalha em um videoclipe de dança poderoso, divertido e profissionalmente coreografado.
+
+Logo no início, ela ergue dramaticamente o Green Dragon Crescent Blade (Qinglong Yanyuedao) que está segurando e o arremessa completamente para fora do enquadramento.
+
+Imediatamente, ela inicia uma performance de dança energética, contagiante e perfeitamente sincronizada.
+
+Preserve o rico vocabulário coreográfico já estabelecido de girl group de verão das especificações anteriores dos videoclipes ROOFTOP SUNSET e VINAHOUSE BEACH DROP.
+
+Não substitua a coreografia por pulinhos genéricos de EDM, artes marciais aleatórias, lutas de espada ou passos repetitivos.
+
+A dança deve ser rápida, variada, limpa, memorável e visualmente empolgante.
+
+A música deve manter a bem-sucedida direção de EDM Vinahouse vietnamita a aproximadamente 145 BPM.
+
+O destaque cinematográfico é uma extraordinária órbita de câmera tridimensional giratória sobre a cabeça durante o terço final do vídeo.
+
+TRAVA DE PERSONAGEM E IDENTIDADE:
+
+Preserve exatamente a mesma mulher adulta de traços leste-asiáticos claramente definida na imagem de referência fornecida.
+
+Mantenha seus traços faciais reconhecíveis: olhos, nariz, lábios, formato do rosto, tom de pele e proporções faciais naturais.
+
+Preserve seu longo cabelo castanho-escuro, o ornamento capilar rebuscado em verde e dourado, os grampos decorativos e as mechas soltas esvoaçantes.
+
+Preserve o elaborado traje de guerreira chinesa de fantasia em verde-esmeralda e bronze escuro.
+
+Mantenha o decote original em V profundo, o tecido de brocado verde, o bordado de dragão dourado, as ombreiras esculpidas, a armadura decorativa na cintura, os painéis fluidos da saia em camadas, as fendas laterais altas, as proteções de antebraço blindadas e as botas altas blindadas em preto e dourado.
+
+Preserve as proporções originais do traje, a silhueta, a cobertura de tecido e a complexidade decorativa.
+
+Sem redesign de figurino.
+
+Sem armaduras adicionais.
+
+Sem mudanças no penteado.
+
+Sem transformação em traje de ídolo moderno.
+
+Sem substituir as botas ornamentadas por tênis ou sapatos baixos.
+
+A performer permanece sendo a mesma mulher durante todo o vídeo.
+
+FÍSICA DO TRAJE E DOS TECIDOS:
+
+Os longos painéis de tecido verde, as mangas translúcidas, as fitas, o cabelo solto e as seções bordadas da saia devem responder dinamicamente à coreografia e ao vento.
+
+A saia em camadas se move com inércia realista de tecido.
+
+A armadura permanece firmemente fixada.
+
+As botas mantêm sua estrutura original.
+
+Sem derretimento de figurino.
+
+Sem tecido fundido às pernas.
+
+Sem teletransporte de armadura.
+
+Sem penetração não natural de tecidos.
+
+CONTROLE DE EXPRESSÃO — CRÍTICO:
+
+Expressão suave e minimalista.
+
+Atuação facial natural, sutil e contida.
+
+Olhar suave, mas confiante.
+
+Músculos faciais relaxados.
+
+Um sorriso mínimo e espontâneo.
+
+Contato visual elegante e divertido.
+
+Confiança serena, apesar dos movimentos de dança intensos.
+
+Sem sorrisos exagerados.
+
+Sem gritos teatrais.
+
+Sem expressões agressivas de batalha.
+
+Sem movimentos excessivos de sobrancelhas.
+
+Sem boca constantemente aberta.
+
+Durante a entrega vocal em vietnamita, use uma sincronia labial precisa e natural, mantendo uma expressão discreta.
+
+CENÁRIO E AMBIENTE:
+
+Preserve o mesmo pátio épico de fortaleza chinesa antiga da imagem de referência.
+
+Portão tradicional de madeira maciço.
+
+Arquitetura antiga de pedra.
+
+Estandartes militares verde-esmeralda com motivos ornamentados de dragão dourado.
+
+Soldados distantes e formações cerimoniais.
+
+Pátio pavimentado com pedras.
+
+Poeira e névoa atmosférica.
+
+Montanhas ao longe.
+
+Luz natural intensa do dia.
+
+Luz solar cinematográfica sutil.
+
+Vento movimentando estandartes, cabelos soltos e tecidos.
+
+Mantenha a geografia arquitetônica consistente durante todo o vídeo.
+
+Os soldados ao fundo permanecem distantes e secundários.
+
+Eles não se aproximam da performer nem entram na dança.
+
+Sem mudanças de cena.
+
+Sem cidade moderna.
+
+Sem boate.
+
+Sem palco.
+
+Sem praia.
+
+Sem terraço.
+
+Sem teletransporte de cenário.
+
+AÇÃO INICIAL COM A ARMA — CRÍTICO:
+
+O Green Dragon Crescent Blade aparece apenas durante a ação inicial.
+
+Logo no começo, a mulher está segurando exatamente o mesmo Green Dragon Crescent Blade longo e ornamentado mostrado na imagem de referência.
+
+A arma deve preservar seu cabo reconhecível, lâmina curva, ornamentação de dragão e construção metálica.
+
+Imediatamente, ela executa um único movimento decisivo e dramático de descarte da arma.
+
+Ela ergue a arma para cima com as duas mãos, usando um movimento poderoso e fisicamente coerente.
+
+A lâmina e o cabo acompanham o movimento naturalmente como um único objeto rígido.
+
+Em seguida, ela arremessa a arma inteira de forma decisiva para longe de si, em direção a uma área vazia fora da tela.
+
+A arma sai de suas mãos e deixa completamente o enquadramento da câmera.
+
+Suas mãos ficam totalmente vazias.
+
+A arma não retorna.
+
+Não mostre um close-up separado da arma.
+
+Não mostre a arma caindo.
+
+Não mostre ninguém sendo atingido.
+
+Não mostre ferimentos ou sangue.
+
+Não repita a ação de arremesso.
+
+Não permita que a arma permaneça grudada às mãos dela.
+
+Não transforme a arma em outro objeto.
+
+Não desperdice tempo adicional com a arma.
+
+Assim que a arma desaparecer, a performer faz a transição imediata para a dança.
+
+MÚSICA — EDM VINAHOUSE VIETNAMITA:
+
+Gere uma faixa ORIGINAL de EDM Vinahouse vietnamita.
+
+Andamento: aproximadamente 145 BPM, entre 140 e 150 BPM.
+
+Preserve a direção musical energética, estilosa e com graves pesados de VINAHOUSE BEACH DROP.
+
+Bumbo four-on-the-floor poderoso.
+
+Sub-grave profundo voltado para pistas de dança.
+
+Linha de baixo eletrônica pulsante.
+
+Sintetizadores principais brilhantes e energéticos.
+
+Stabs rítmicos de sintetizador marcantes.
+
+Percussão eletrônica nítida.
+
+Acentos afiados de caixa e palmas.
+
+Atmosfera de clube vietnamita de alta energia.
+
+Um gancho vocal forte, contagiante e repetitivo.
+
+Energia rítmica imediata.
+
+Drop de dança poderoso.
+
+Refrão final energético.
+
+Vocais femininos adultos claros em vietnamita.
+
+Canto estilo clube confiante, vigoroso e ritmicamente preciso.
+
+Frases curtas, contagiantes e repetitivas em vietnamita.
+
+Pronúncia vietnamita precisa.
+
+Sincronia labial clara sempre que a performer cantar e sua boca estiver visível.
+
+Não mude a direção musical para música instrumental tradicional chinesa, música orquestral de batalha, K-pop coreano, tropical house, balada pop suave ou música de dança genérica de fundo.
+
+Os elementos visuais da arquitetura tradicional chinesa contrastam com a música moderna de EDM Vinahouse vietnamita.
+
+GANCHOS VOCAIS ORIGINAIS EM VIETNAMITA:
+
+"Let's go! Let's go!"
+
+"Dance! Dance!"
+
+"Burn up! Burn up!"
+
+"Hey! Hey! Get hyped!"
+
+"Burn up! Get hyped! Hey!"
+
+Distribua os ganchos naturalmente ao longo da performance de 15 segundos.
+
+Mantenha as frases vocais curtas, contagiantes e ritmicamente marcantes.
+
+Deixe breves espaços instrumentais para a coreografia mais complexa e para o movimento giratório da câmera sobre a cabeça.
+
+Sincronize os movimentos visíveis da boca com as sílabas em vietnamita.
+
+COREOGRAFIA SINCRONIZADA COM A BATIDA — IMPORTANTE:
+
+Preserve a rica estrutura coreográfica já estabelecida de girl group de verão, fazendo com que seus acentos de movimento existentes travem de forma mais clara na batida do Vinahouse.
+
+BUMBO:
+
+Sincronize apoios firmes dos pés, os acentos laterais de passo já existentes, transferências naturais de peso e ocasionais saltos leves em um pé com as batidas proeminentes do bumbo.
+
+Não substitua a coreografia original por pulos repetitivos.
+
+CAIXA E PALMAS:
+
+Sincronize os shoulder pops já estabelecidos, impulsos compactos de peito, cruzamentos de antebraço e aberturas de palma para fora com os acentos afiados de caixa e palmas.
+
+PASSAGENS DE SINTETIZADOR:
+```
+
+<img src="https://cms-assets.youmind.com/media/1792914331842_bjlvkz_HVXig_YaIAAV2zB.jpg" width="600" alt="Dança de Batalha do Dragão Esmeralda General">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13025)**
+
+**Author:** [リド](https://x.com/ohshie1973) | **Source:** [Link](https://x.com/ohshie1973/status/2113845199734808623) | **Published:** Oct 24, 2026
+
+---
 ### Prompt de Vídeo do Dia a Dia para Grok Imagine
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -222,7 +1124,7 @@ Corte 2 (00:06 - 00:12)
   * Pose 2 (9-12s): Inclinar levemente o guarda-chuva, começar a caminhar devagar, virar-se para trás, sorrir e acenar discretamente para a câmera.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1792827729119_wlde2s_HVXKgy4aMAAKF0l.jpg" width="600" alt="Prompt de Vídeo do Dia a Dia para Grok Imagine">
+<img src="https://cms-assets.youmind.com/media/1792914331188_8nctpf_HVXKgy4aMAAKF0l.jpg" width="600" alt="Prompt de Vídeo do Dia a Dia para Grok Imagine">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12987)**
 
@@ -465,6 +1367,27 @@ Drácula em uma Armadura de Cristal Negro montando um Dragão de Sangue através
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12899)**
 
 **Author:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **Source:** [Link](https://x.com/TheEerieHollows/status/2113084756179214722) | **Published:** Oct 22, 2026
+
+---
+### Descoberta da Gigafactory Medieval
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um cenário de prompt criativo onde Elon Musk e o Tesla Optimus descobrem uma Gigafactory em estilo medieval, operada por anões, gerado com Grok Imagine.
+
+#### 📝 Prompt
+
+```
+POV: Elon Musk e o Tesla Optimus descobrem a Gigafactory medieval. ⚒️🔥
+
+Os anões entenderam a missão.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112967546399842304/img/yaiC0KRXZ77UznRD.jpg" width="600" alt="Descoberta da Gigafactory Medieval">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13022)**
+
+**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2112967628205539600) | **Published:** Oct 21, 2026
 
 ---
 ### Colisão de Moto Transformadora Cyberpunk e Voo do Veículo
@@ -1321,6 +2244,25 @@ Vídeo engraçado. Eu e o Elon Musk estamos dirigindo Teslas pelas ruas de Nova 
 **Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **Published:** Oct 18, 2026
 
 ---
+### Chegada de Elon e do Optimus na segunda-feira
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt bem-humorado descrevendo Elon Musk e o Optimus chegando ao escritório após um grande anúncio, gerado com Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Elon Musk e o Tesla Optimus chegando no escritório na segunda-feira depois daquela revelação ABSURDA de quinta. 🦅🔥
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111828358648516608/img/6gOTLp0zakP_Qipy.jpg" width="600" alt="Chegada de Elon e do Optimus na segunda-feira">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13023)**
+
+**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2111828533676806310) | **Published:** Oct 18, 2026
+
+---
 ### Claudia em Estilo Anime no Tesla Roadster
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1919,352 +2861,6 @@ Faça o Jesus descer do burro, virar na minha direção, transformar-se em um Je
 **Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110963116439683254) | **Published:** Oct 16, 2026
 
 ---
-### Prompt de Frame Estático para ChatGPT em Transmissão ao Vivo
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt destinado ao ChatGPT para gerar um frame estático fotorrealista estilo smartphone de uma jovem mulher, provavelmente usado como entrada para a geração de vídeo do Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Foto fotorrealista estilo smartphone, vertical 9:16. Uma jovem mulher fictícia original do Leste Asiático na casa dos vinte e poucos anos (não é uma pessoa real), pele clara natural com textura realista, cabelo castanho preso de forma solta com alguns fios emoldurando o rosto, corpo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110961041282891776/img/Sp7gR4RlJqOFcv83.jpg" width="600" alt="Prompt de Frame Estático para ChatGPT em Transmissão ao Vivo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12660)**
-
-**Author:** [xer rexx](https://x.com/rexx_xer82545) | **Source:** [Link](https://x.com/rexx_xer82545/status/2110961280336953352) | **Published:** Oct 16, 2026
-
----
-### Forma Majestosa de Starlite
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de geração de vídeo com tema abstrato ou fantástico envolvendo 'Starlite' e 'MidnightBlue'.
-
-#### 📝 Prompt
-
-```
-Starlite em sua Forma Majestosa, Das profundezas do Vazio, no Reino de MidnightBlue
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110958180989808640/img/Nhqqo3VQWSJm8s0q.jpg" width="600" alt="Forma Majestosa de Starlite">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12613)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2110958263479206280) | **Published:** Oct 16, 2026
-
----
-### Vídeo de ação com backflip em jet ski
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt focado em ação, descrevendo a pilotagem de um jet ski, o impacto com uma onda grande e a execução de um backflip.
-
-#### 📝 Prompt
-
-```
-Vídeo desta pessoa se divertindo ao pilotar um jet ski no oceano, realizando um salto sobre uma onda grande com backflip
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110943490897268736/img/pzZkvdssBhdmoNI5.jpg" width="600" alt="Vídeo de ação com backflip em jet ski">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12607)**
-
-**Author:** [jdangit](https://x.com/NunnallyJo36826) | **Source:** [Link](https://x.com/NunnallyJo36826/status/2110943740831621223) | **Published:** Oct 16, 2026
-
----
-### Voz Britânica Shakespeariana com Sobreposição de Texto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para adicionar texto acima da cabeça de um personagem e alterar sua voz para um sotaque britânico shakespeariano, incluindo uma frase de encerramento específica.
-
-#### 📝 Prompt
-
-```
-Adicione as palavras "Question Everything" acima da cabeça dele, altere a voz para um sotaque britânico shakespeariano e faça com que ele diga ao final: "be kind, virtuous, fair —"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110915976053374976/img/cUFAYuTSz5f7Uw7o.jpg" width="600" alt="Voz Britânica Shakespeariana com Sobreposição de Texto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12591)**
-
-**Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2110916032324157587) | **Published:** Oct 16, 2026
-
----
-### Prompt de Vídeo Grok Imagine: Citação do Universo Shakespeareano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo complexo para o Grok Imagine que adiciona sobreposições de texto, altera a voz para um britânico shakespeariano e inclui diálogo específico.
-
-#### 📝 Prompt
-
-```
-Adicione as palavras "Question Everything" acima da cabeça dele, faça sua voz soar como um britânico shakespeariano e ele diz no final: "YOU ARE the UNIVERSE"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110915889394778113/img/dSyx2ks4NYywGtKS.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Citação do Universo Shakespeareano">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12597)**
-
-**Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2110915920462070122) | **Published:** Oct 16, 2026
-
----
-### Voz Feminina Shakespeariana com Texto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Semelhante ao prompt anterior, mas para uma personagem feminina com diálogo diferente.
-
-#### 📝 Prompt
-
-```
-Adicione as palavras "Question Everything" acima da cabeça dela, faça a voz dela ser shakespeariana britânica e ela diz: "We are One"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110915792049238016/img/7VJMGLGTxGiE14VH.jpg" width="600" alt="Voz Feminina Shakespeariana com Texto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12593)**
-
-**Author:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **Source:** [Link](https://x.com/DavidSteenhoek/status/2110915832016707800) | **Published:** Oct 16, 2026
-
----
-### Montagem Tecnológica de Ladrilhos Piezoelétricos de Estrada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para montagem em vídeo que apresenta ladrilhos piezoelétricos futuristas de estrada gerando eletricidade a partir de veículos elétricos.
-
-#### 📝 Prompt
-
-```
-Prompt de Montagem em Vídeo do Grok Imagine
-Crie uma montagem tecnológica futurista limpa e de alta qualidade, com duração de 30 a 40 segundos, mostrando ladrilhos piezoelétricos de estrada que geram eletricidade a partir de veículos elétricos em passagem e a armazenam para uso posterior.
-Notas de estilo (aplicar a todas as cenas...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110902576661024768/img/nMzWW2308vYyxq9d.jpg" width="600" alt="Montagem Tecnológica de Ladrilhos Piezoelétricos de Estrada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12656)**
-
-**Author:** [Meme Island](https://x.com/MemeIslandKing) | **Source:** [Link](https://x.com/MemeIslandKing/status/2110902647649636833) | **Published:** Oct 16, 2026
-
----
-### Jardim Paisagístico no Deserto com Estrutura Metálica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para gerar um vídeo realista de um jardim paisagístico deslumbrante com plantas nativas em ambiente desértico sob o sol intenso do meio-dia.
-
-#### 📝 Prompt
-
-```
-Flores, ervas e plantas nativas do Arizona (AZ) belamente paisagísticas com aparência luxuosa, fundo com vegetação rasteira do deserto e uma estrutura metálica ao longe. Sol brilhante do meio-dia, sombras duras, estilo realista, iluminação cinematográfica....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110891811938209792/img/QmiIv-9lCfdqX4qs.jpg" width="600" alt="Jardim Paisagístico no Deserto com Estrutura Metálica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12594)**
-
-**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2110891939893838301) | **Published:** Oct 16, 2026
-
----
-### Cavalos Correndo na Praia com Rebocador
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para um vídeo cênico de dois cavalos correndo alegremente em uma praia, com um rebocador amarelo ao fundo.
-
-#### 📝 Prompt
-
-```
-Dois cavalos correndo alegremente lado a lado na praia, à beira-mar, adicione um rebocador amarelo ao fundo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110871154328223744/img/w_L1LqmSMCL1l3dM.jpg" width="600" alt="Cavalos Correndo na Praia com Rebocador">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12596)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2110871242819686908) | **Published:** Oct 15, 2026
-
----
-### Prompt de Perseguição Espacial com Corvette
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo surrealista que apresenta um C7 Corvette perseguindo o Roadster de Elon Musk no espaço, com bandeiras da Miss America e laranjas voando.
-
-#### 📝 Prompt
-
-```
-Coloque um C7 Corvette vermelho no espaço perseguindo o roadster de Elon. Tenha uma bandeira atrás dele dizendo Miss America e laranjas voando pelo fundo.@elonmusk
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110855213636521984/img/Pbeavm5tfFLV_DWI.jpg" width="600" alt="Prompt de Perseguição Espacial com Corvette">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12608)**
-
-**Author:** [a victim of many things!](https://x.com/evidence446653) | **Source:** [Link](https://x.com/evidence446653/status/2110855232917823883) | **Published:** Oct 15, 2026
-
----
-### Vídeo engraçado de neurônios exagerando
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt humorístico solicitando um vídeo de neurônios no cérebro exagerando, personificados como personagens bobos.
-
-#### 📝 Prompt
-
-```
-Faça um vídeo dos neurônios do cérebro exagerando, engraçado.
-
-Este é o seu cérebro e os palhaços
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110853340129038336/img/ZWVswso71RtBEyoJ.jpg" width="600" alt="Vídeo engraçado de neurônios exagerando">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12605)**
-
-**Author:** [a victim of many things!](https://x.com/evidence446653) | **Source:** [Link](https://x.com/evidence446653/status/2110853367413260479) | **Published:** Oct 15, 2026
-
----
-### Vídeo de Drama Espacial Barroco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar uma cena espacial em estilo barroco, acompanhada por música, enfatizando grandiosidade e camadas complexas.
-
-#### 📝 Prompt
-
-```
-Barroco no espaço, acompanhado por música. Grandiosidade, drama religioso ou cívico profundo, camadas complexas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110849555704983552/img/TZOKI8T7IxtCVEkQ.jpg" width="600" alt="Vídeo de Drama Espacial Barroco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12600)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2110849595634774146) | **Published:** Oct 15, 2026
-
----
-### Prompt de Vídeo do Grok Imagine: Cena de Banjos Elétricos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt dinâmico de geração de vídeo para o Grok Imagine, envolvendo banjos elétricos, mãos robóticas e decks dourados.
-
-#### 📝 Prompt
-
-```
-Banjos elétricos entram em cena, uma mão robótica toca um deck DH dourado, a cena acelera e há um súbito clarão de luz....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110849158818971648/img/wuKoqe2fIwOpLTyR.jpg" width="600" alt="Prompt de Vídeo do Grok Imagine: Cena de Banjos Elétricos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12612)**
-
-**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2110849273298641275) | **Published:** Oct 15, 2026
-
----
-### Prompt de Vídeo: Esqueletos na Igreja Assombrada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo que apresenta um pastor entrando em uma igreja com esqueletos nos bancos, que reagem à sua presença.
-
-#### 📝 Prompt
-
-```
-Faça o pastor caminhar até o púlpito. Mostre esqueletos sentados nos bancos desgastados pelo tempo. Faça um dos esqueletos se endireitar quando o pastor entrar. Inclua sons assustadores e faça o pastor dizer: "Vamos orar".
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110842540085714945/img/cJLiE5uLBkLAWFM6.jpg" width="600" alt="Prompt de Vídeo: Esqueletos na Igreja Assombrada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12602)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2110842561086841078) | **Published:** Oct 15, 2026
-
----
-### Prompt de Vídeo Grok Imagine: Lilac Nebula Music
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo com tema sci-fi para o Grok Imagine, envolvendo a personagem Lilac Nebula tocando música no ano de 2100.
-
-#### 📝 Prompt
-
-```
-Enquanto isso, no ano de 2100, 200 anos após seu nascimento, Lilac Nebula toca qualquer melodia que você desejar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110838906182889472/img/Bs0aXUTXKUmDQPUW.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Lilac Nebula Music">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12598)**
-
-**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2110838935744303400) | **Published:** Oct 15, 2026
-
----
-### Vídeo de renderização artística de foto de família
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt que combina fotografias familiares históricas de 1908 com técnicas modernas de renderização artística para gerar vídeos.
-
-#### 📝 Prompt
-
-```
-Renderização artística baseada em fotografias familiares de 1908 e técnicas contemporâneas de renderização artística
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110833613365538816/img/TzkOHB_b4OrrSxHb.jpg" width="600" alt="Vídeo de renderização artística de foto de família">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12606)**
-
-**Author:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **Source:** [Link](https://x.com/Trad_Teodor/status/2110834563970904205) | **Published:** Oct 15, 2026
-
----
-### Tour pela Concessionária Tesla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de vídeo em primeira pessoa caminhando pelo estacionamento da concessionária Tesla.
-
-#### 📝 Prompt
-
-```
-Eu caminho pelo estacionamento externo da concessionária Tesla. Eu observo os carros Tesla que foram estacionados após o transporte.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110826911727230976/img/d6kegkQ4zmCh0DcW.jpg" width="600" alt="Tour pela Concessionária Tesla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12592)**
-
-**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2110826957680287835) | **Published:** Oct 15, 2026
-
----
-### Prompt de Vídeo Grok Imagine: Edição de Fundo Outonal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para transformação de vídeo/imagem no Grok Imagine, adicionando elementos outonais como abóboras, cidra e mudanças de vestuário.
-
-#### 📝 Prompt
-
-```
-Adicione um fundo outonal com abóboras e cidra. Uma camisa longa marrom com folhas. Adicione chapéu....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110822642089353216/img/tuyyaASop2urY-eL.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Edição de Fundo Outonal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12610)**
-
-**Author:** [Mimi9060](https://x.com/MelodyM662010) | **Source:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **Published:** Oct 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2326,6 +2922,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-25T04:27:04.026Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-25T13:23:49.868Z</sub>
 
 </div>

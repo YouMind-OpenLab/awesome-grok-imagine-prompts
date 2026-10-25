@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3202** |
+| 📝 총 프롬프트 수 | **3220** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-10-25** |
 
@@ -189,6 +189,908 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 갤럭시 마블스 비치 게임
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 각 구슬에 서로 다른 모양의 은하가 담긴 해변 구슬치기 게임을 묘사하는 창의적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+해변에서 즐기는 구슬치기, 각 구슬 안에는 서로 다른 모양의 은하가 담겨 있습니다
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114132796298219520/img/7nrP0TfK2apF8lo6.jpg" width="600" alt="갤럭시 마블스 비치 게임">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13011)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2114132864493363678) | **게시일:** Oct 24, 2026
+
+---
+### 전문적인 인물 사진 보정
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 신원, 포즈 및 배경을 유지하면서 조명 조정에 중점을 두어 사진을 세련된 전문 인물 사진으로 극적으로 개선하는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 사진을 세련되고 전문가 수준의 포트레이트로 극적으로 개선해 주세요. 단, 동일한 인물, 같은 포즈, 같은 의상, 같은 배경은 그대로 유지해야 합니다. 인물의 얼굴이...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114110855096815616/img/ylwm1VpwYUdP2RVK.jpg" width="600" alt="전문적인 인물 사진 보정">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13017)**
+
+**작성자:** [Natalya Mironova](https://x.com/Natali7p3z1) | **출처:** [Link](https://x.com/Natali7p3z1/status/2114110895488147784) | **게시일:** Oct 24, 2026
+
+---
+### 체스판 불길 재건 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 체스판이 하늘에서 내린 불길에 휩싸인 후 모든 흰색 말로 재구성되는 극적인 영상 시퀀스를 생성합니다.
+
+#### 📝 프롬프트
+
+```
+체스판 위에서 파란 말과 빨간 말이 체크메이트를 이루자, 제 3 천에서 불이 내려와 이를 모두 삼켜버린다.
+다시 세워진 체스판 위, 모든 말은 하얗게 변해 있다....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114075811342901249/img/u9AW7hyBlG7WmnKq.jpg" width="600" alt="체스판 불길 재건 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13010)**
+
+**작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2114075837704307173) | **게시일:** Oct 24, 2026
+
+---
+### Grok Imagine vs Gemini: 인간 얼굴 클로즈업
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine과 Gemini Argon에 동일한 프롬프트를 적용한 비교 테스트로, 황금 시간대(Golden Hour) 조명 아래 산 정상에서 수평선을 바라보는 지쳐 있지만 평온한 남성의 클로즈업 장면을 담고 있습니다.
+
+#### 📝 프롬프트
+
+```
+지친 기색이 역력하지만 평온한 표정의 남성 얼굴 클로즈업, 산 정상에서 지평선을 바라보며 바람에 머리카락이 흩날리고, 하루의 끝자락에 드리운 황금빛 노을이 감싸는 장면
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114070458324652033/img/BIU37xfFb0q1iDV6.jpg" width="600" alt="Grok Imagine vs Gemini: 인간 얼굴 클로즈업">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13026)**
+
+**작성자:** [Vassily](https://x.com/VassilyBeyond) | **출처:** [Link](https://x.com/VassilyBeyond/status/2114070481984770255) | **게시일:** Oct 24, 2026
+
+---
+### 시추 댄스 레퍼런스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 시추犬이 뒷다리로 걷고 함께 느린 춤을 추는 모습을 애니메이션화하기 위해 참조 이미지가 필요한 복잡한 프롬프트.
+
+#### 📝 프롬프트
+
+```
+이미지 2 의 ShihTzu 가 뒷다리로만 걸어 들어와서 이미지 1 의 ShihTzu 와 합류한 뒤, 함께 느린 춤을 추게 해주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114067315415248896/img/i5QI6bDDw6Q03aNR.jpg" width="600" alt="시추 댄스 레퍼런스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13014)**
+
+**작성자:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **출처:** [Link](https://x.com/Soaring2TheMoon/status/2114067332800868489) | **게시일:** Oct 24, 2026
+
+---
+### 버튼 폭발 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 기존 이미지 또는 비디오에 애니메이션을 적용하여 더 세련되게 만들고, 버튼 클릭 시 웅장한 폭발 효과가 발생하도록 요청합니다.
+
+#### 📝 프롬프트
+
+```
+Grok! 이거 애니메이션으로 만들어서 훨씬 더 멋지게 해줄 수 있어? 그리고 버튼을 누르면 엄청난 폭발이 일어나게 말이야! 부탁해!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114043596131143680/img/CzkdRZqIkUlQPoGV.jpg" width="600" alt="버튼 폭발 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13013)**
+
+**작성자:** [Tea Enneman](https://x.com/TeaEnneman) | **출처:** [Link](https://x.com/TeaEnneman/status/2114043619737014512) | **게시일:** Oct 24, 2026
+
+---
+### Grok Imagine 영상 프롬프트: 비둘기의 점심 강탈
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine용 상세한 영상 생성 프롬프트로, 유럽 도시 광장에서 비둘기가 점심을 훔치는 코미디 장면을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+동영상 제목: 비둘기가 점심을 뺏어갔어요 😂
+
+총 재생 시간: 정확히 15 초
+
+화창한 낮, 아름다운 유럽 도시 광장을 배경으로 한 세로 9:16 비율의 초실사 실사 코미디 동영상을 제작해 주세요. 하나의 끊김 없이 자연스러운 시각...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114012983181639681/img/b00q2GOPlSsLXv0f.jpg" width="600" alt="Grok Imagine 영상 프롬프트: 비둘기의 점심 강탈">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13020)**
+
+**작성자:** [Blairy](https://x.com/Blair_54q0) | **출처:** [Link](https://x.com/Blair_54q0/status/2114013121383944593) | **게시일:** Oct 24, 2026
+
+---
+### 콘서트 무대 배경 편집
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 텍스트를 제거하고 배경을 빨간 스포트라이트와 연기가 어우러진 극적인 콘서트 무대로 변환하는 편집 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 이미지를 수정해 주세요: 모든 텍스트와 캡션을 완전히 제거합니다. 배경은 훨씬 더 멋지고 극적인 콘서트 무대로 바꿔주세요. 짙은 다크 레드와 블랙 톤, 강렬한 레드 스포트라이트, 드라마틱한 조명 빔, 스모그 효과, 그리고 열광하는 대규모...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113977058942693376/img/-sSWyzo1uvveWeNt.jpg" width="600" alt="콘서트 무대 배경 편집">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13016)**
+
+**작성자:** [Puchamamax](https://x.com/aaoomaxi) | **출처:** [Link](https://x.com/aaoomaxi/status/2113977099669381298) | **게시일:** Oct 24, 2026
+
+---
+### Grok Imagine을 위한 시네마틱 AI 영상 스타일
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 사이버펑크, 올드 상하이, 사막 일몰, 수묵 대나무, 하이 패션, HK 레트로, 수중 드림, 픽사풍 애니메이션, 설원 블루, 향수 광고 등 10가지 시네마틱 영상 프롬프트 컬렉션
+
+#### 📝 프롬프트
+
+```
+반사되는 크롬 재킷을 입은 은발의 여성, 사이버펑크 느낌의 비 내리는 거리, 얼굴에 비치는 마젠타와 시안 네온 불빛, 슬로우 푸시인
+빨간 치파오를 입은 중국 여성이 밤비 내리는 1930 년대 상하이 골목을 걷는 모습, 젖은 바닥에 반사된 네온사인, 슬로우 트래킹 숏, 필름 그레인
+해질녘 황금빛 사막 모래언덕 위, 하늘거리는 흰색 린넨 드레스를 입은 여성, 바람에 나부끼는 옷자락, 슬로우 드론 풀백
+안개 낀 대나무 숲 속 우아한 한복 차림의 여성, 수묵화 같은 분위기, 흘러가는 안개, 슬로우 달리
+조형미가 돋보이는 블랙 쿠튀르 가운을 입은 모델, 이음새 없는 스튜디오 배경, 강렬한 림 라이트, 잡지 표지 스타일
+사람들로 붐비는 야시장 속 빨간 윈드브레이커를 입은 젊은 여성, 스텝 프린팅 기법의 모션 블러, 왕가위 감독 특유의 감성, 필름 그레인
+물속을 유영하듯 떠다니는 실크 드레스 차림의 여성, 터키석 빛 바닷물을 통과하는 햇살, 천천히 흩날리는 머리카락
+픽사풍으로 스타일링된 노란 우비를 입은 젊은 여성, 아늑한 가을 마을, 소용돌이치는 낙엽, 따뜻하고 부드러운 조명
+블루 아워 눈 덮인 들판에서 퍼 트리밍이 더해진 화이트 코트를 입은 여성, 흩날리는 눈송이, 랜턴 보케, 슬로우 푸시인
+골든 아워 대리석 테라스 위 샴페인 새틴 슬립 드레스를 입은 여성, 전경에 빛나는 향수병, 슬로모션으로 흩날리는 머리카락
+세로형 시네마틱, 첫 프레임부터 선명한 화질, 텍스트 없음, 손 보이지 않음
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113973790401003520/pu/img/YwJvNBN-HmI0m7mO.jpg" width="600" alt="Grok Imagine을 위한 시네마틱 AI 영상 스타일">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13024)**
+
+**작성자:** [Brucewu666](https://x.com/452864064q45713) | **출처:** [Link](https://x.com/452864064q45713/status/2113973811049574864) | **게시일:** Oct 24, 2026
+
+---
+### 감성적인 시네마틱 커플 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 벤치에서 울고 있는 남자를 위로하는 여자를 보여주는 사실적인 시네마틱 영상을 위한 상세 프롬프트
+
+#### 📝 프롬프트
+
+```
+초현실적인 시네마틱 15 초 영상, 세로 9:16 비율. 한 젊은 남자가 나무 벤치에 홀로 앉아 눈물을 글썽이며 깊은 슬픔에 잠겨 있고, 차가운 블루 톤의 조명이 비추고 있습니다. 한 젊은 여자가 천천히 다가와 그의 옆자리에 앉은 뒤, 다정하게 손을 잡아 그를 이...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113963178375917568/img/REcTGZL5h71jwiYH.jpg" width="600" alt="감성적인 시네마틱 커플 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13018)**
+
+**작성자:** [Blairy](https://x.com/Blair_54q0) | **출처:** [Link](https://x.com/Blair_54q0/status/2113963223322185765) | **게시일:** Oct 24, 2026
+
+---
+### Grok Imagine 영상 프롬프트: 화성 성운 매시업
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 파란색과 보라색 성운 속에 떠 있는 사실적인 화성의 두 이미지를 병합하는 Grok Imagine용 복잡한 영상/이미지 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+두 이미지를 하나로 합쳐 웅장한 우주 장면을 만들어 보세요. 두 번째 이미지에 있는 정교하고 사실적인 화성(Mars) 을 첫 번째 이미지의 신비로운 청보라색 성운과 별밭 한가운데에 위풍당당하게 배치해 주세요. 붉은빛이 도는 주황색 화성은...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113939607943573504/img/aDIC4Lq4jDEhHdy0.jpg" width="600" alt="Grok Imagine 영상 프롬프트: 화성 성운 매시업">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13019)**
+
+**작성자:** [Ami A](https://x.com/AA63782) | **출처:** [Link](https://x.com/AA63782/status/2113939694312710507) | **게시일:** Oct 24, 2026
+
+---
+### 미래형 SF 캐릭터 첼로
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 고도의 기술이 집약된 SF 장면 속 세 명의 미래지향적 여성 캐릭터, 그리고 홀로그램 첼로를 연주하는 사이보그를 묘사한 시네마틱 프롬프트
+
+#### 📝 프롬프트
+
+```
+드라마틱한 하이테크 SF 장면 속 세 명의 미래지향적인 여성 캐릭터: 블랙 수트를 입은 우아한 흑발의 여성, 빛나는 눈과 로봇 요소를 갖춘 사이버펑크 여성, 홀로그램 첼로를 연주하는 신비로운 백발의 사이보그, 역동적인 카메라 무빙...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113932737694531584/img/rmxTYGdzkD-VWyAC.jpg" width="600" alt="미래형 SF 캐릭터 첼로">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13012)**
+
+**작성자:** [Alan Gooding](https://x.com/empoweredathome) | **출처:** [Link](https://x.com/empoweredathome/status/2113932768501772425) | **게시일:** Oct 24, 2026
+
+---
+### 좀비 기모노 캔디 파티
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 할로윈 테마의 Vinahouse 댄스 영상을 위한 Grok I2V 프롬프트로, 거대한 롤리팝을 든 좀비 기모노 캐릭터가 등장하며 엄격한 소품 처리 및 안무 지침이 포함됩니다.
+
+#### 📝 프롬프트
+
+```
+# GROK I2V PROMPT — SERIES 045
+
+## ZOMBIE KIMONO | VINAHOUSE CANDY PARTY
+
+### Full Integrated Edition v1.0 — Based on Series 041
+
+제공된 레퍼런스 이미지를 정확한 오프닝 프레임이자 유일한 시각적 레퍼런스로 사용하여, 정확히 15 초 길이의 초실사급 시네마틱 베트남 Vinahouse EDM 댄스 뮤직비디오를 제작하세요.
+
+TITLE:
+
+ZOMBIE KIMONO — VINAHOUSE CANDY PARTY
+
+PRIMARY CREATIVE DIRECTION:
+
+성공을 거둔 SERIES 041 의 서머 걸그룹 안무를 그대로 유지하세요. 빠르고 경쾌하며 디테일이 살아 있는 핸드·핑거 안무, 통통 튀는 사이드 스텝, 리드미컬한 스톰핑, 짧고 강렬한 체스트 푸시, 숄더 팝, 팔뚝 교차(크로스드 포암), 손목 회전, 기억에 남는 핑거 포인트 제스처, 턴, 그리고 비트와 끊임없이 동기화되는 움직임을 포함합니다.
+
+피사체는 누군가와 싸우는 것이 아니라, 흥겨운 일본 할로윈 파티를 즐기고 있습니다.
+
+거대한 소용돌이 막대사탕은 장난기 가득한 파티 소품이며, 결코 무기가 아닙니다.
+
+액션 배틀, 호러 공격, 전투 장면이 아닌 활기차고 화려한 댄스 뮤직비디오를 제작하세요.
+
+REFERENCE IMAGE AND IDENTITY LOCK — CRITICAL:
+
+정확히 제공된 레퍼런스 이미지로 시작하세요.
+
+동일한 성인 여성의 얼굴, 머리카락, 헤어스타일, 메이크업, 신체 비율, 기모노 디자인, 꽃무늬 패턴, 장신구 및 액세서리를 그대로 유지하세요.
+
+주황색, 보라색, 흰색이 어우러진 거대한 소용돌이 막대사탕과 줄무늬 막대를 그대로 유지하세요.
+
+달빛이 비치는 일본 사찰 마당, 따뜻한 할로윈 랜턴, 빛나는 잭오랜턴, 축제 장식, 알록달록한 캔디, 달빛, 그리고 따뜻하고 주황빛·보랏빛 조명을 그대로 유지하세요.
+
+축제 의상을 입은 배경 인물들은 파티 분위기를 살려주는 게스트로 유지하세요.
+
+모든 카메라 앵글에서 캐릭터의 정체성, 의상, 환경을 일관되게 유지하세요.
+
+의상 변형 금지.
+
+갑작스러운 장소 변경 금지.
+
+사찰 마당을 스튜디오, 해변, 옥상, 나이트클럽으로 교체 금지.
+
+새로운 인물이 전경에 등장하는 것 금지.
+
+유혈, 폭력, 부상, 전투 묘사 금지.
+
+GIANT CANDY PROP HANDLING:
+
+오프닝 이미지는 퍼포머가 초대형 소용돌이 막대사탕을 카메라를 향해 들고 있는 모습입니다.
+
+첫 순간에는 오프닝 포즈를 정확히 유지하세요.
+
+처음 2 초 동안, 그녀는 자연스럽게 막대사탕을 몸쪽으로 가져와 인근 돌로 된 축제 전시대 옆에 안전하게 세워둡니다.
+
+카메라 앵글이 허락할 때, 막대사탕은 고정된 장식용 파티 소품으로 계속 화면에 보여야 합니다.
+
+이후 그녀의 두 손은 정교한 댄스 안무를 위해 완전히 자유로워집니다.
+
+막대사탕이 사라지거나, 순간이동하거나, 개수가 늘어나거나, 공중에 떠 있거나, 형태가 변하거나, 크기가 바뀌지 않게 하세요.
+
+다른 사람을 향해 휘두르지 마세요.
+
+누군가를 타격하지 마세요.
+
+무기를 사용한 전투 안무를 구성하지 마세요.
+
+EXPRESSION CONTROL:
+
+장난기 넘치는 파티 에너지를 담은 미니멀하고 부드러운 표정.
+
+자연스럽고 편안한 얼굴 근육.
+
+보컬 프레이즈 사이에 살짝 짓는 자신감 넘치는 미소.
+
+부드럽고 직접적인 아이 컨택.
+
+짧은 장난기 어린 미소.
+
+베트남어 가사를 부르는 동안 자연스러운 싱잉 표현.
+
+과장된 비명 금지.
+
+호러풍 으르렁거림 금지.
+
+공격적인 얼굴 연기 금지.
+
+연극적인 과장 연기 금지.
+
+MUSIC — ORIGINAL VIETNAMESE VINAHOUSE EDM:
+
+오리지널 베트남 Vinahouse EDM 트랙을 생성하세요.
+
+템포: 약 145 BPM ( 140–150 BPM 범위 내).
+
+성공적이었던 SERIES 041 비치 제너레이션의 강력한 음악적 방향성을 유지하세요.
+
+강력한 포 온 더 플로어(four-on-the-floor) 킥.
+
+깊고 클럽 지향적인 서브 베이스.
+
+몰아붙이는 일렉트로닉 베이스라인.
+
+밝고 에너지 넘치는 리드 신디사이저.
+
+펀치감 있는 리드미컬한 신스 스탭.
+
+깔끔한 일렉트로닉 퍼커션.
+
+하이에너지 베트남 클럽 분위기.
+
+강렬하고 중독성 있는 반복 보컬 훅.
+
+즉각적으로 느껴지는 리듬 에너지.
+
+파워풀한 댄스 드롭.
+
+에너지가 폭발하는 마지막 코러스.
+
+또렷한 성인 여성 베트남어 보컬.
+
+화면 속 퍼포머가 베트남어 보컬 훅을 직접 부릅니다.
+
+정확한 베트남어 발음.
+
+얼굴이 나올 때마다 정밀하게 보이는 립싱크.
+
+짧고 펀치감 있으며 리듬이 정확한 프레이즈.
+
+과도한 얼굴 연기 없이 자연스러운 입 모양.
+
+ORIGINAL VIETNAMESE VOCAL HOOKS:
+
+"Lên nào! Lên nào!"
+
+"Nhảy đi! Nhảy đi!"
+
+"Cháy lên! Cháy lên!"
+
+"Hey! Hey! Quẩy lên!"
+
+"Cháy lên! Quẩy lên! Hey!"
+
+이 훅들을 15 초 퍼포먼스 전체에 자연스럽게 배치하세요.
+
+가장 빠른 핑거 안무와 특별한 카메라 무빙을 위해 짧은 인스트루멘탈 구간을 남겨두세요.
+
+사운드트랙을 한국 K-pop, 소프트 팝, 발라드, 또는 일반적인 배경음악으로 대체하지 마세요.
+
+CHOREOGRAPHY STYLE — PRESERVE SERIES 041:
+
+흥겨운 일본 할로윈 배경에 맞춰 재구성한 오리지널 프로페셔널 서머 걸그룹 안무.
+
+가볍고, 통통 튀며, 장난기 있고, 빠르며, 리듬이 정확해야 합니다.
+
+다음 움직임 요소들을 모두 유지하세요:
+
+- 중독성 있는 포인트 댄스 핸드 제스처.
+
+- 빠른 좌우 스텝.
+
+- 가벼운 리드미컬 스톰핑 액센트.
+
+- 통통 튀는 무릎 움직임.
+
+- 정교한 체스트 팝과 숄더 팝.
+
+- 작고 날카로운 체스트 푸시.
+
+- 장난기 넘치는 핑거 포인트 안무.
+
+- 빠른 손목 회전.
+
+- 호흡이 맞는 암 스윙.
+
+- 팔뚝 교차 콤비네이션.
+
+- 빠른 하프 턴.
+
+- 매끄러운 전신 턴.
+
+- 생동감 넘치는 방향 전환.
+
+- 경쾌하고 기억에 남는 8 카운트 댄스 프레이즈.
+
+의상을 이유로 안무를 단순화하거나 힘을 빼지 마세요.
+
+기존의 속도, 움직임 밀도, 상체 정밀도를 그대로 유지하세요.
+
+움직임이 끊기지 않고 음악과 동기화되도록 하세요.
+
+단순한 좌우 흔들림 금지.
+
+무작위적인 손 흔들기 금지.
+
+길게 멈춰 있는 정적 포즈 금지.
+
+슬로우 모션 댄스 금지.
+
+핸드 안무를 대체하는 반복적인 풋워크 금지.
+
+배틀 동작 금지.
+
+배경 게스트를 향한 공격 금지.
+
+MOTION PHYSICS:
+
+현실적인 인간 생체역학.
+
+자연스러운 무게 이동, 균형, 관성, 운동량.
+
+물리적으로 매끄러운 트랜지션.
+
+자연스러운 머리카락과 기모노 원단의 움직임.
+
+정확한 손가락 해부학적 구조.
+
+발이 뜨는 현상 금지.
+
+사지가 중복되는 현상 금지.
+
+갑작스러운 순간이동 금지.
+
+카메라 무빙을 흉내 내기 위한 부자연스러운 신체 회전 금지.
+
+CINEMATOGRAPHY — EXTREMELY IMPORTANT:
+
+프리미엄급이고 시각적으로 독창적이며 에너지가 넘치는 댄스 뮤직비디오를 제작하세요.
+
+기존 SERIES 041 루프탑 스타일 뮤직비디오 사양처럼, 15 초 내에 약 18–24 개의 뚜렷한 시네마틱 샷을 목표로 하세요.
+
+비트에 맞춘 잦은 컷을 사용하되, 안무를 온전히 보여줄 수 있도록 끊기지 않는 풀바디 숏을 충분히 확보하세요.
+
+사용할 기법:
+
+- 그라운드 레벨 앵글.
+
+- 쓰리쿼터 퍼포먼스 숏.
+
+- 빠른 측면 트래킹 숏.
+
+- 다이내믹한 풀바디 히어로 숏.
+
+- 매끄러운 원형 카메라 무빙.
+
+- 180 도 카메라 오빗.
+
+- 빠른 오버헤드 숏.
+
+- 휩 팬 트랜지션.
+
+- 스냅 줌.
+
+- 크래쉬 줌.
+
+- 래피드 풀백.
+
+- 빠른 푸시인.
+
+- 짧은 더치 앵글 숏.
+
+- 모션 매치 컷.
+
+- 비트 동기화 하드 컷.
+
+반복되는 프레이밍은 피하세요.
+
+카메라는 절대 퍼포머를 놓치지 않아야 합니다.
+
+복잡한 안무 구간에서는 선명한 풀바디 뷰를 우선시하세요.
+
+모든 샷은 동일한 일본 할로윈 마당을 유지해야 합니다.
+
+SHOT-BY-SHOT TIMELINE:
+
+0:00–0:02
+
+CANDY PARTY OPENING — CONTINUOUS ACTION
+
+정확히 제공된 레퍼런스 이미지로 시작하세요.
+
+퍼포머는 거대한 소용돌이 막대사탕을 들고 카메라를 마주 봅니다.
+
+그녀는 살짝 장난기 어린 미소를 짓습니다.
+
+물리적으로 매끄러운 하나의 동작으로, 그녀는 막대사탕을 뒤로 당겨 인근 돌로 된 축제 전시대 옆에 안전하게 세워둡니다.
+
+사탕은 장식용 소품으로 장면 안에 계속 남아 있습니다.
+
+그녀는 곧바로 오프닝 리듬 댄스 동작으로 넘어갑니다.
+
+CAMERA:
+
+레퍼런스 프레이밍으로 시작하세요.
+
+매끄럽고 빠른 풀백을 사용해 안무 전체가 잘 보이는 풀바디 구도를 드러냅니다.
+
+짧은 쓰리쿼터 앵글.
+
+선명한 정면 뷰로 복귀.
+
+피해야 할 사항:
+
+막대사탕이 사라지는 현상.
+
+소품 복제.
+
+부자연스러운 손 동작 전환.
+
+배경 교체.
+
+폭력적으로 휘두르는 동작.
+
+긴 정적 포즈.
+
+0:02–0:04
+
+HALLOWEEN DANCE AWAKENING
+
+퍼포머가 다음으로 발을 내딛으며
+```
+
+<img src="https://cms-assets.youmind.com/media/1792914334666_hox57l_HVYXtigacAAZoax.jpg" width="600" alt="좀비 기모노 캔디 파티">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13027)**
+
+**작성자:** [リド](https://x.com/ohshie1973) | **출처:** [Link](https://x.com/ohshie1973/status/2113903487595708810) | **게시일:** Oct 24, 2026
+
+---
+### Grok Imagine 영상 프롬프트: 토끼 로봇의 메카 변신
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 작은 토끼 로봇이 모험가 옆에서 거대한 메카 가디언으로 변신하는 SF 변환 시퀀스를 묘사한 Grok Imagine용 고품질 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+폐허가 된 미래 도시를 배경으로 한 금발의 어린 모험가와 그녀의 사랑스럽고 낡은 토끼 모양 로봇이 담긴 레퍼런스 이미지를 바탕으로, 눈을 뗄 수 없는 초실사 SF 변신 시퀀스를 제작하세요. 작은 로봇이 갑자기 멈춰 서고, 호박색 눈이 강렬한 주황빛 에너지로 타오르며 땅이 진동하고 먼지가 피어오릅니다. 소녀의 고글에는 신비로운 홀로그램 기호들이 비칩니다. 차원을 뛰어넘는 놀라운 기계적 변신이 시작되며, 긴 토끼 귀가 관절형 장갑 패널로 분리되고, 머리는 회전하는 티타늄 섀시 안으로 수납됩니다. 작은 팔다리는 거대한 유압식 다리로 뻗어나가고, 수백 개의 맞물린 금속 판이 펼쳐지며, 몸 전체에 빛나는 에너지 도관이 점화됩니다. 로봇은 높이 20 미터의 중무장한 미래형 가디언 메카로 우뚝 일어섭니다. 거대한 기계 어깨, 접이식 에너지 캐논, 빛나는 호박색 리액터 코어, 면도날처럼 날카로운 기계 디테일, 강력한 유압 피스톤을 갖추고 있으며, 충격파가 폐허가 된 거리를 따라 먼지와 잔해를 흩뿌립니다. 소녀는 거대한 기계 옆에 두려움 없이 서 있고, 메카는 그녀를 보호하듯 무릎을 꿇은 뒤 빛나는 거대한 두 눈으로 지평선을 응시합니다. 그 순간 찬란한 에너지 파동이 버려진 도시 전체를 환하게 밝힙니다. 초실사 기계 공학, 부품별 매끄러운 변신, 사실적인 금속 변형, 복잡하게 회전하는 기어, 유압 움직임, 튀어 오르는 불꽃, 영화 같은 슬로우 모션, 물리적으로 정확한 반사, 볼류메트릭 갓레이, 아나모픽 렌즈 플레어, 역동적인 카메라 오빗, 묵직한 시네마틱 베이스, 웅장한 오케스트라 사운드 디자인, 8K 디테일, HDR, IMAX 급 비주얼, 세로 9:16 비율, 완벽한 캐릭터 일관성 유지, 만화풍 배제, 점프 컷 없음, 텍스트 없음, 워터마크 없음.
+
+효과음: 묵직한 로봇 각성음, 빠른 금속 잠금음, 유압 해제음, 전기 에너지 충전음, 천둥 같은 변신 충격음, 그리고 웅장한 시네마틱 베이스 드롭.
+
+바이럴 제목: 꼬마 토끼 봇이 방금 20 미터 전쟁 병기로 변신했습니다 🤯⚡
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113871752543784960/img/MZ0-8B4xXRSoBtCZ.jpg" width="600" alt="Grok Imagine 영상 프롬프트: 토끼 로봇의 메카 변신">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13021)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2113871980789485707) | **게시일:** Oct 24, 2026
+
+---
+### 미셸 오바마가 어두운 방에 입장하는 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 참고 사진을 활용하여 미셸 오바마를 버락 오바마와 함께 특정 어두운 방 장면으로 배치하는 이미지 투 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+첫 번째 이미지를 촛불 하나만 켜진 어두운 방에서 (Barack Obama) 가 나무 테이블에 앉아 있는 바로 그 장면으로 사용하고, 다른 참고 사진들에서 Michelle Obama 를 가져와 이 장면 속에 배치해 주세요. 그녀는 화면 오른쪽에서 걸어 들어오고 있습니다...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113865938248568832/img/eAV62PatZ6vnl6Op.jpg" width="600" alt="미셸 오바마가 어두운 방에 입장하는 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13015)**
+
+**작성자:** [Ami A](https://x.com/AA63782) | **출처:** [Link](https://x.com/AA63782/status/2113865975020003833) | **게시일:** Oct 24, 2026
+
+---
+### 에메랄드 드래곤 장군 전투 댄스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 중국 판타지 여장군이 전장 초상화를 댄스 퍼포먼스로 변신시키는 고에너지 비나하우스(Vinahouse) 댄스 영상용 Grok I2V 프롬프트로, 특정 의상과 안무 요소를 고정합니다.
+
+#### 📝 프롬프트
+
+```
+GROK I2V PROMPT — SERIES 042
+EMERALD DRAGON GENERAL | VINAHOUSE BATTLE DANCE
+Full Integrated Edition v1.0 — 안무 보존 및 비트 동기화
+
+제공된 에메랄드빛 중국 판타지 여성 장군 이미지를 정확한 오프닝 비주얼 레퍼런스로 사용하여, 정확히 15 초 길이의 초실사(Ultra-photorealistic) 고에너지 베트남 Vinahouse EDM 댄스 뮤직비디오를 제작하세요.
+제목:
+EMERALD DRAGON GENERAL — VINAHOUSE BATTLE DANCE
+주요 크리에이티브 디렉션:
+
+장엄한 중국 판타지 여성 장군이 극적인 전장 속 초상을 강렬하고 경쾌하며 전문적으로 구성된 댄스 뮤직비디오로 탈바꿈시킵니다.
+
+영상 시작과 동시에 그녀는 들고 있던 청룡언월도(Green Dragon Crescent Blade, Qinglong Yanyuedao)를 극적으로 높이 들어 올린 뒤 프레임 밖으로 완전히 던져 버립니다.
+
+그 직후 에너지 넘치고 중독성 있으며 비트에 정확하게 맞춘 댄스 퍼포먼스를 즉시 시작합니다.
+
+이전 ROOFTOP SUNSET 및 VINAHOUSE BEACH DROP 뮤직비디오 사양에서 확립된 풍성한 여름 걸그룹 스타일의 안무 어휘를 그대로 유지하세요.
+
+안무를 흔한 EDM 바운싱, 무작위 무술 동작, 검술, 또는 반복적인 발동작으로 대체하지 마세요.
+
+댄스는 빠르고 다채로우며 깔끔하고 기억에 남으며 시각적으로 짜릿해야 합니다.
+
+음악은 약 145 BPM 의 성공적인 베트남 Vinahouse EDM 방향성을 그대로 유지해야 합니다.
+
+시네마틱 하이라이트는 영상 마지막 3 분의 1 구간에서 펼쳐지는 압도적인 3 차원 롤링 오버헤드 카메라 궤도 이동입니다.
+
+캐릭터 및 아이덴티티 고정:
+
+제공된 레퍼런스 이미지와 정확히 동일한, 명백히 성인인 동아시아 여성을 유지하세요.
+
+인지 가능한 얼굴 특징, 눈, 코, 입술, 얼굴형, 피부 톤, 자연스러운 얼굴 비율을 그대로 유지하세요.
+
+길게 늘어뜨린 짙은 갈색 머리, 화려한 녹색 및 금색 머리 장식, 장식용 비녀, 바람에 흩날리는 느슨한 머리카락을 보존하세요.
+
+정교하게 디자인된 에메랄드 그린 및 다크 브론즈 색상의 중국 판타지 전사 의상을 유지하세요.
+
+깊은 V 넥 라인, 녹색 비단 직물, 금색 용 자수, 조각된 어깨 갑옷, 장식용 허리 갑옷, 흐르듯 겹쳐진 스커트 패널, 높은 옆트임, 팔뚝 갑옷, 흑금색 롱 부츠 등 원래 디자인을 그대로 유지하세요.
+
+의상의 원래 비율, 실루엣, 직물 커버리지, 장식적 복잡성을 보존하세요.
+
+의상 재디자인 금지.
+
+추가 갑옷 착용 금지.
+
+헤어스타일 변경 금지.
+
+현대 아이돌 의상으로 변신 금지.
+
+화려한 부츠를 운동화나 단화로 교체 금지.
+
+퍼포머는 영상 전체에 걸쳐 동일한 여성이어야 합니다.
+
+의상 및 원단 물리 효과:
+
+긴 녹색 원단 패널, 반투명 소매, 리본, 흩날리는 머리카락, 자수가 놓인 스커트 부분은 안무와 바람에 따라 역동적으로 반응해야 합니다.
+
+겹겹이 이루어진 스커트는 현실적인 원단의 관성에 따라 움직여야 합니다.
+
+갑옷은 몸에 단단히 고정되어 있어야 합니다.
+
+부츠는 원래 구조를 그대로 유지해야 합니다.
+
+의상이 녹아내리는 현상 금지.
+
+원단이 다리에 들러붙는 현상 금지.
+
+갑옷이 순간이동하는 현상 금지.
+
+부자연스러운 천 뚫림(클리핑) 현상 금지.
+
+표정 제어 — 매우 중요:
+
+미니멀하고 부드러운 표정.
+
+자연스럽고 절제된 미세한 얼굴 연기.
+
+부드럽지만 자신감 있는 눈빛.
+
+이완된 얼굴 근육.
+
+힘들이지 않은 아주 작은 미소.
+
+우아하고 장난기 어린 아이 콘택트.
+
+강렬한 댄스 움직임 속에서도 흔들리지 않는 여유로운 자신감.
+
+과장된 활짝 웃음 금지.
+
+연극적인 소리치기 금지.
+
+공격적인 전투 표정 금지.
+
+과도한 눈썹 움직임 금지.
+
+입을 계속 벌리고 있는 모습 금지.
+
+베트남어 보컬 파트에서는 절제된 표정을 유지하면서 정확하고 자연스러운 립싱크를 적용하세요.
+
+배경 및 환경:
+
+레퍼런스 이미지의 웅장한 고대 중국 성곽 안뜰을 그대로 유지하세요.
+
+거대한 전통 목재 대문.
+
+고풍스러운 석조 건축물.
+
+화려한 금색 용 문양이 새겨진 에메랄드빛 군기.
+
+멀리 보이는 병사들과 의식 대형.
+
+돌이 깔린 안뜰.
+
+먼지와 대기 중의 아지랑이.
+
+멀리 보이는 산맥.
+
+밝은 자연 채광.
+
+은은한 시네마틱 햇빛.
+
+깃발, 흩날리는 머리카락, 옷자락을 스치는 바람.
+
+영상 전체에 걸쳐 일관된 건축 지리를 유지하세요.
+
+배경의 병사들은 멀리서 보조 요소로만 머물러야 합니다.
+
+병사들이 퍼포머에게 다가오거나 댄스에 합류하지 않습니다.
+
+장면 전환 금지.
+
+현대 도시 배경 금지.
+
+나이트클럽 금지.
+
+무대 금지.
+
+해변 금지.
+
+옥상 금지.
+
+배경 순간이동 금지.
+
+오프닝 무기 액션 — 매우 중요:
+
+청룡언월도는 오프닝 액션에서만 등장합니다.
+
+영상 시작 시, 여성은 레퍼런스 이미지에 나온 것과 정확히 동일한 길고 화려한 청룡언월도를 들고 있습니다.
+
+무기는 인지 가능한 자루, 곡선형 칼날, 용 장식, 금속 질감을 그대로 유지해야 합니다.
+
+즉시 결단력 있고 극적인 무기 투척 동작 한 번을 수행합니다.
+
+양손으로 무기를 위로 들어 올리며, 물리적으로 자연스럽고 강력한 움직임을 사용합니다.
+
+칼날과 자루는 하나의 단단한 물체로서 움직임에 자연스럽게 따라갑니다.
+
+이후 화면 밖 빈 공간을 향해 무기를 단호하게 던져 버립니다.
+
+무기는 손을 떠나 카메라 프레임을 완전히 벗어납니다.
+
+두 손은 완전히 빈 상태가 됩니다.
+
+무기는 다시 돌아오지 않습니다.
+
+무기 단독 클로즈업 금지.
+
+무기가 땅에 떨어지는 장면 금지.
+
+누군가 무기에 맞는 장면 금지.
+
+부상이나 피 묘사 금지.
+
+투척 동작 반복 금지.
+
+무기가 손에 붙어 있는 현상 금지.
+
+무기가 다른 사물로 변하는 현상 금지.
+
+무기에 추가 시간을 할애하지 마세요.
+
+무기가 사라지면 퍼포머는 즉시 댄스로 전환합니다.
+
+음악 — 베트남 VINAHOUSE EDM:
+
+오리지널 베트남 Vinahouse EDM 트랙을 생성하세요.
+
+템포: 약 145 BPM ( 140 ~ 150 BPM 범위 내).
+
+VINAHOUSE BEACH DROP 의 에너지 넘치고 세련되며 베이스가 강조된 음악적 방향성을 유지하세요.
+
+강력한 포 온 더 플로어(Four-on-the-floor) 킥.
+
+깊고 클럽 지향적인 서브 베이스.
+
+몰입감 있는 일렉트로닉 베이스라인.
+
+밝고 에너지 넘치는 리드 신디사이저.
+
+펀치감 있는 리드미컬한 신스 스탭(Synth stabs).
+
+깔끔한 일렉트로닉 퍼커션.
+
+날카로운 스네어 및 클랩 악센트.
+
+고에너지 베트남 클럽 분위기.
+
+강렬하고 중독성 있는 반복 보컬 훅.
+
+즉각적인 리듬 에너지.
+
+파워풀한 댄스 드롭.
+
+에너지가 폭발하는 마지막 후렴구.
+
+또렷한 성인 여성 베트남어 보컬.
+
+자신감 있고 힘 있으며 리듬감이 정확한 클럽 스타일 가창.
+
+짧고 중독성 있으며 반복적인 베트남어 프레이즈.
+
+정확한 베트남어 발음.
+
+퍼포머가 노래하고 입이 보일 때마다 명확한 립싱크 적용.
+
+음악 방향을 중국 전통 기악곡, 오케스트라 전투 음악, 한국 K-pop, 트로피컬 하우스, 잔잔한 팝 발라드, 흔한 배경 댄스 음악으로 변경하지 마세요.
+
+전통 중국 건축물의 비주얼과 현대적인 베트남 Vinahouse EDM 음악이 대비를 이룹니다.
+
+오리지널 베트남어 보컬 훅:
+
+"Let's go! Let's go!"
+
+"Dance! Dance!"
+
+"Burn up! Burn up!"
+
+"Hey! Hey! Get hyped!"
+
+"Burn up! Get hyped! Hey!"
+
+15 초 퍼포먼스 전반에 걸쳐 훅을 자연스럽게 배치하세요.
+
+보컬 프레이즈는 짧고 중독성 있으며 리듬감 있게 유지하세요.
+
+가장 복잡한 안무와 롤링 오버헤드 카메라 이동을 위해 짧은 인스트루멘탈 여백을 두세요.
+
+입 모양의 움직임을 베트남어 음절에 정확하게 동기화하세요.
+
+비트 동기화 안무 — 중요:
+
+기존에 확립된 풍성한 여름 걸그룹 안무 구조를 유지하면서, 기존 움직임의 악센트가 Vinahouse 비트에 더욱 명확하게 맞물리도록 구성하세요.
+
+킥 드럼:
+
+강한 발 디딤, 기존 사이드 스텝 악센트, 자연스러운 체중 이동, 가끔씩 넣는 가벼운 한 발 홉(Hop) 동작을 눈에 띄는 킥 비트에 동기화하세요.
+
+원래 안무를 반복적인 점프로 대체하지 마세요.
+
+스네어 및 클랩:
+
+기존의 숄더 팝(Shoulder pops), 간결한 가슴 밀기, 팔뚝 교차, 바깥쪽으로 향하는 손바닥 펼침 동작을 날카로운 스네어 및 클랩 악센트에 동기화하세요.
+
+신디사이저 런(SYNTHESIZER RUNS):
+```
+
+<img src="https://cms-assets.youmind.com/media/1792914331842_bjlvkz_HVXig_YaIAAV2zB.jpg" width="600" alt="에메랄드 드래곤 장군 전투 댄스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13025)**
+
+**작성자:** [リド](https://x.com/ohshie1973) | **출처:** [Link](https://x.com/ohshie1973/status/2113845199734808623) | **게시일:** Oct 24, 2026
+
+---
 ### Grok Imagine 일상 영상 프롬프트
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -222,7 +1124,7 @@ BGM
   * 포즈 2 (9-12 초): 우산을 살짝 기울이며 천천히 걷기 시작하고, 뒤를 돌아 카메라를 향해 미소 지으며 작게 손을 흔듭니다.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1792827729119_wlde2s_HVXKgy4aMAAKF0l.jpg" width="600" alt="Grok Imagine 일상 영상 프롬프트">
+<img src="https://cms-assets.youmind.com/media/1792914331188_8nctpf_HVXKgy4aMAAKF0l.jpg" width="600" alt="Grok Imagine 일상 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12987)**
 
@@ -465,6 +1367,27 @@ BGM
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12899)**
 
 **작성자:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **출처:** [Link](https://x.com/TheEerieHollows/status/2113084756179214722) | **게시일:** Oct 22, 2026
+
+---
+### 중세 Gigafactory의 발견
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine으로 생성된 창의적인 프롬프트 시나리오로, Elon Musk와 Tesla Optimus가 난쟁이들이 운영하는 중세 스타일의 Gigafactory를 발견하는 내용을 담고 있습니다.
+
+#### 📝 프롬프트
+
+```
+POV: Elon Musk 와 Tesla Optimus 가 중세 시대 Gigafactory 를 발견한 상황. ⚒️🔥
+
+드워프들, 확실히 일 좀 아는 놈들이네.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112967546399842304/img/yaiC0KRXZ77UznRD.jpg" width="600" alt="중세 Gigafactory의 발견">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13022)**
+
+**작성자:** [The SI Maximalist](https://x.com/thesimaximalist) | **출처:** [Link](https://x.com/thesimaximalist/status/2112967628205539600) | **게시일:** Oct 21, 2026
 
 ---
 ### 사이버펑크 트랜스포머 바이크 충돌 및 차량 비행
@@ -1321,6 +2244,25 @@ BGM "(이미지의 분위기에 어울리는 BGM을 생각해 주세요)"
 **작성자:** [Jarosław Justka](https://x.com/jaras70berlin) | **출처:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **게시일:** Oct 18, 2026
 
 ---
+### Elon과 Optimus의 월요일 출근
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine으로 생성한, 큰 발표 이후 사무실에 도착하는 일론 머스크와 Optimus를 유머러스하게 묘사한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+목요일 공개 행사에서 그야말로 역대급 폭풍을 몰고 온 뒤, 월요일 출근길에 등장하는 Elon Musk 와 Tesla Optimus. 🦅🔥
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111828358648516608/img/6gOTLp0zakP_Qipy.jpg" width="600" alt="Elon과 Optimus의 월요일 출근">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13023)**
+
+**작성자:** [The SI Maximalist](https://x.com/thesimaximalist) | **출처:** [Link](https://x.com/thesimaximalist/status/2111828533676806310) | **게시일:** Oct 18, 2026
+
+---
 ### Claudia 애니메이션 스타일 Tesla Roadster
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1918,352 +2860,6 @@ Starship @Image1이 냉각 가스 추진기를 사용하여 달 표면에서 이
 **작성자:** [king miller](https://x.com/kingmiller685) | **출처:** [Link](https://x.com/kingmiller685/status/2110963116439683254) | **게시일:** Oct 16, 2026
 
 ---
-### 라이브 스트리밍용 ChatGPT 정적 프레임 프롬프트
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> ChatGPT가 젊은 여성의 사실적인 스마트폰 스타일 정적 프레임을 생성하도록 설계된 프롬프트로, Grok Imagine 영상 생성의 입력값으로 사용될 가능성이 높습니다.
-
-#### 📝 프롬프트
-
-```
-사실적인 스마트폰 스타일 사진, 9:16 세로 비율. 실제 인물이 아닌 가상의 동아시아 여성이 20대 초반으로 묘사되며, 자연스럽고 현실적인 질감을 가진 밝은 피부 톤을 지니고 있습니다. 갈색 머리는 느슨하게 묶여 있으며 몇 가닥이 얼굴을 감싸고 있고, 건강하고 균형 잡힌 체형을 하고 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110961041282891776/img/Sp7gR4RlJqOFcv83.jpg" width="600" alt="라이브 스트리밍용 ChatGPT 정적 프레임 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12660)**
-
-**작성자:** [xer rexx](https://x.com/rexx_xer82545) | **출처:** [Link](https://x.com/rexx_xer82545/status/2110961280336953352) | **게시일:** Oct 16, 2026
-
----
-### 스타라이트 마제스틱 폼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 'Starlite'와 'MidnightBlue'를 포함하는 추상적이거나 판타지 테마의 영상 생성 프롬프트.
-
-#### 📝 프롬프트
-
-```
-심연의 Void에서, MidnightBlue의 Realm에 깃든 Starlite의 장엄한 모습
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110958180989808640/img/Nhqqo3VQWSJm8s0q.jpg" width="600" alt="스타라이트 마제스틱 폼">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12613)**
-
-**작성자:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **출처:** [Link](https://x.com/TLouisevsughan/status/2110958263479206280) | **게시일:** Oct 16, 2026
-
----
-### 제트스키 백플립 액션 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 제트스키를 타고 큰 파도를 넘어 백플립을 수행하는 역동적인 액션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-바다에서 제트스키를 타며 큰 파도 점프 후 백플립을 하며 즐기는 모습의 영상
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110943490897268736/img/pzZkvdssBhdmoNI5.jpg" width="600" alt="제트스키 백플립 액션 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12607)**
-
-**작성자:** [jdangit](https://x.com/NunnallyJo36826) | **출처:** [Link](https://x.com/NunnallyJo36826/status/2110943740831621223) | **게시일:** Oct 16, 2026
-
----
-### 텍스트 오버레이가 포함된 셰익스피어풍 영국 영어 음성
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 캐릭터 머리 위에 텍스트를 추가하고, 목소리를 셰익스피어풍 영국 영어로 변경하며 특정 마무리 문장을 포함하는 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그의 머리 위에 'Question Everything'이라는 단어를 추가하고, 그의 목소리를 셰익스피어풍 영국 영어로 변경하세요. 그리고 마지막에 "be kind, virtuous, fair —"라고 말하게 하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110915976053374976/img/cUFAYuTSz5f7Uw7o.jpg" width="600" alt="텍스트 오버레이가 포함된 셰익스피어풍 영국 영어 음성">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12591)**
-
-**작성자:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **출처:** [Link](https://x.com/DavidSteenhoek/status/2110916032324157587) | **게시일:** Oct 16, 2026
-
----
-### Grok Imagine Video 프롬프트: 셰익스피어 우주 인용
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 복잡한 영상 프롬프트로, 텍스트 오버레이 추가, 셰익스피어풍 영국식 영어 음성 변경, 특정 대사 포함
-
-#### 📝 프롬프트
-
-```
-그의 머리 위에 “Question Everything”이라는 문구를 추가하고, 목소리는 셰익스피어풍 영국 영어로 설정하세요. 그리고 마지막에 그는 이렇게 말합니다: “YOU ARE the UNIVERSE”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110915889394778113/img/dSyx2ks4NYywGtKS.jpg" width="600" alt="Grok Imagine Video 프롬프트: 셰익스피어 우주 인용">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12597)**
-
-**작성자:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **출처:** [Link](https://x.com/DavidSteenhoek/status/2110915920462070122) | **게시일:** Oct 16, 2026
-
----
-### 텍스트가 포함된 여성 셰익스피어풍 목소리
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 이전 프롬프트와 유사하지만, 다른 대사를 가진 여성 캐릭터용입니다.
-
-#### 📝 프롬프트
-
-```
-그녀의 머리 위에 'Question Everything'이라는 단어를 추가하고, 그녀의 목소리를 영국식 셰익스피어풍으로 설정하며, 그녀가 "We are One"이라고 말하게 하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110915792049238016/img/7VJMGLGTxGiE14VH.jpg" width="600" alt="텍스트가 포함된 여성 셰익스피어풍 목소리">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12593)**
-
-**작성자:** [davidsteenhoek](https://x.com/DavidSteenhoek) | **출처:** [Link](https://x.com/DavidSteenhoek/status/2110915832016707800) | **게시일:** Oct 16, 2026
-
----
-### 압전 도로 타일 기술 몽타주
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 전기 자동차의 주행으로 전기를 생산하는 미래형 압전 도로 타일을 보여주는 상세한 영상 몽타주 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Grok Imagine Video Montage Prompt
-전기 자동차가 지나갈 때 전기를 생산하고, 이를 다음 차량을 위해 저장하는 압전 도로 타일을 보여주는 깔끔하고 고품질의 30~40초 분량 미래형 기술 몽타주를 만드세요.
-스타일 노트 (모든 컷에 적용...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110902576661024768/img/nMzWW2308vYyxq9d.jpg" width="600" alt="압전 도로 타일 기술 몽타주">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12656)**
-
-**작성자:** [Meme Island](https://x.com/MemeIslandKing) | **출처:** [Link](https://x.com/MemeIslandKing/status/2110902647649636833) | **게시일:** Oct 16, 2026
-
----
-### 금속 건물과 사막 조경 정원
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 밝은 정오의 햇살 아래 사막 환경에서 자생 식물이 심어진 아름다운 조경 정원의 사실적인 영상을 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-고급스러운 분위기를 연출하는 꽃, 허브 및 AZ 자생 식물로 아름답게 조경된 모습. 배경에는 사막 관목과 그 너머에 금속 건물이 보입니다. 밝은 정오의 태양, 강한 그림자, 사실적인 스타일, 시네마틱 조명....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110891811938209792/img/QmiIv-9lCfdqX4qs.jpg" width="600" alt="금속 건물과 사막 조경 정원">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12594)**
-
-**작성자:** [Lala](https://x.com/LalaBFox) | **출처:** [Link](https://x.com/LalaBFox/status/2110891939893838301) | **게시일:** Oct 16, 2026
-
----
-### 해변을 달리는 말과 예인선
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 노란 예인선이 배경으로 보이는 해변에서 신나게 달리는 두 마리의 말을 묘사한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-바다 옆 해변에서 나란히 신나게 달리는 두 마리 말, 배경에 노란 예인선 추가
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110871154328223744/img/w_L1LqmSMCL1l3dM.jpg" width="600" alt="해변을 달리는 말과 예인선">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12596)**
-
-**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2110871242819686908) | **게시일:** Oct 15, 2026
-
----
-### Corvette 우주 추격 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> C7 Corvette가 Elon Musk의 Roadster를 우주에서 추격하는 초현실적인 영상 프롬프트로, Miss America 깃발과 날아다니는 오렌지가 등장합니다.
-
-#### 📝 프롬프트
-
-```
-우주 공간에 빨간색 C7 Corvette를 배치하고 Elon의 roadster를 추격하게 하세요. 뒤에는 Miss America라고 적힌 깃발을 달고 배경에는 오렌지들이 날아다니게 하세요.@elonmusk
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110855213636521984/img/Pbeavm5tfFLV_DWI.jpg" width="600" alt="Corvette 우주 추격 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12608)**
-
-**작성자:** [a victim of many things!](https://x.com/evidence446653) | **출처:** [Link](https://x.com/evidence446653/status/2110855232917823883) | **게시일:** Oct 15, 2026
-
----
-### 웃기게 과잉 반응하는 뇌 뉴런 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 뇌 속 뉴런을 바보 같은 캐릭터로 의인화하여 과잉 반응하는 모습을 담은 유머러스한 영상 프롬프트.
-
-#### 📝 프롬프트
-
-```
-뇌 속 뉴런이 과잉 반응하는 웃긴 영상을 만들어 주세요.
-
-이건 당신의 뇌와 바보들입니다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110853340129038336/img/ZWVswso71RtBEyoJ.jpg" width="600" alt="웃기게 과잉 반응하는 뇌 뉴런 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12605)**
-
-**작성자:** [a victim of many things!](https://x.com/evidence446653) | **출처:** [Link](https://x.com/evidence446653/status/2110853367413260479) | **게시일:** Oct 15, 2026
-
----
-### 바로크 우주 드라마 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 음악과 함께 바로크 스타일의 우주 장면을 생성하기 위한 프롬프트로, 웅장함과 복잡한 레이어를 강조합니다.
-
-#### 📝 프롬프트
-
-```
-음악과 함께하는 바로크 우주 장면: 웅장함, 깊은 종교적 또는 시민적 드라마, 복잡한 레이어.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110849555704983552/img/TZOKI8T7IxtCVEkQ.jpg" width="600" alt="바로크 우주 드라마 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12600)**
-
-**작성자:** [Marie](https://x.com/Marie8508319540) | **출처:** [Link](https://x.com/Marie8508319540/status/2110849595634774146) | **게시일:** Oct 15, 2026
-
----
-### Grok Imagine 영상 프롬프트: 일렉트릭 밴조 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 일렉트릭 밴조, 로봇 손, 골든 덱이 등장하는 Grok Imagine의 역동적인 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-일렉트릭 밴조가 등장하고, 로봇 손이 골든 DH 덱을 만지며, 장면 속도가 빨라지고 갑자기 빛이 번쩍입니다....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110849158818971648/img/wuKoqe2fIwOpLTyR.jpg" width="600" alt="Grok Imagine 영상 프롬프트: 일렉트릭 밴조 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12612)**
-
-**작성자:** [Michael Erikson](https://x.com/erikson_michael) | **출처:** [Link](https://x.com/erikson_michael/status/2110849273298641275) | **게시일:** Oct 15, 2026
-
----
-### 무서운 교회 해골 영상 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 교회의 벤치에 앉아 있는 해골들이 목사의 등장에 반응하는 모습을 담은 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-목사가 연단으로 걸어 올라가게 하세요. 낡은 벤치에 앉아 있는 해골들을 보여주세요. 목사가 들어오면 해골 중 하나가 바로 앉는 모습을 연출하세요. 무서운 효과음을 넣고, 목사가 "우리 기도합시다"라고 말하게 하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110842540085714945/img/cJLiE5uLBkLAWFM6.jpg" width="600" alt="무서운 교회 해골 영상 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12602)**
-
-**작성자:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **출처:** [Link](https://x.com/Soaring2TheMoon/status/2110842561086841078) | **게시일:** Oct 15, 2026
-
----
-### Grok Imagine Video 프롬프트: 라일락 성운 음악
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 2100 년을 배경으로 Lilac Nebula 가 음악 연주하는 장면을 담은 Grok Imagine 용 SF 테마 영상 프롬프트
-
-#### 📝 프롬프트
-
-```
-한편, 2100 년에는 그녀가 태어난 지 200 년이 지난 시점에서 Lilac Nebula 가 원하는 어떤 멜로디든 연주합니다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110838906182889472/img/Bs0aXUTXKUmDQPUW.jpg" width="600" alt="Grok Imagine Video 프롬프트: 라일락 성운 음악">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12598)**
-
-**작성자:** [Cathy has this](https://x.com/lighthouse42f) | **출처:** [Link](https://x.com/lighthouse42f/status/2110838935744303400) | **게시일:** Oct 15, 2026
-
----
-### 가족 사진 예술적 렌더링 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1908 년의 역사적인 가족 사진과 현대의 예술적 렌더링 기술을 결합하여 영상을 생성하는 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-"1908 년 가족 사진을 기반으로 한 예술적 렌더링 및 현대 예술적 렌더링"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110833613365538816/img/TzkOHB_b4OrrSxHb.jpg" width="600" alt="가족 사진 예술적 렌더링 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12606)**
-
-**작성자:** [Traditional_Teodor](https://x.com/Trad_Teodor) | **출처:** [Link](https://x.com/Trad_Teodor/status/2110834563970904205) | **게시일:** Oct 15, 2026
-
----
-### 테슬라 쇼룸 워스루
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 테슬라 쇼룸 주차장을 둘러보는 1인칭 시점 영상 프롬프트
-
-#### 📝 프롬프트
-
-```
-저는 테슬라 쇼룸 외부의 주차장을 걸어 다닙니다. 새로 운송되어 주차된 테슬라 차량들을 살펴봅니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110826911727230976/img/d6kegkQ4zmCh0DcW.jpg" width="600" alt="테슬라 쇼룸 워스루">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12592)**
-
-**작성자:** [Jarosław Justka](https://x.com/jaras70berlin) | **출처:** [Link](https://x.com/jaras70berlin/status/2110826957680287835) | **게시일:** Oct 15, 2026
-
----
-### Grok Imagine Video 프롬프트: 가을 배경 편집
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine에 호박, 사이다, 의상 변경 등 가을 요소를 추가하는 영상/이미지 변환 프롬프트
-
-#### 📝 프롬프트
-
-```
-가을 배경에 호박과 사과 사이다를 추가하세요. 갈색 롱 리프 셔츠를 입히고, 모자도 추가해 주세요....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110822642089353216/img/tuyyaASop2urY-eL.jpg" width="600" alt="Grok Imagine Video 프롬프트: 가을 배경 편집">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12610)**
-
-**작성자:** [Mimi9060](https://x.com/MelodyM662010) | **출처:** [Link](https://x.com/MelodyM662010/status/2110822665821073453) | **게시일:** Oct 15, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2325,6 +2921,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-25T04:26:54.292Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-25T13:23:42.289Z</sub>
 
 </div>
