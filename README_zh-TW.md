@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3220** |
+| 📝 提示詞總數 | **3231** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-10-26** |
 
@@ -189,6 +189,166 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 貓咪雷射筆互動提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 兩隻貓在客廳玩雷射筆的逼真影片詳細提示詞
+
+#### 📝 提示詞
+
+```
+電影感 15 秒 9:16 直式影片，照片級寫實風格，溫暖自然光。固定中景拍攝明亮的客廳窗台。一隻毛茸茸的橘貓與一隻體態流線的灰貓並肩而坐，毛髮柔軟且細節清晰，神態放鬆卻保持警覺，午後的陽光從左側灑落。接著，一個微小的紅色雷射光點出現，在牠們前方的窗台上俏皮地跳動。橘貓雙眼圓睜，壓低身體後用兩隻前掌猛撲過去。灰貓立刻加入，以快速精準的揮掌拍打移動的光點。雷射光點忽左忽右地飛竄，兩隻貓同步跟上，充滿玩鬧的活力，尾巴不停抽動。雷射光點消失。兩隻貓再次並肩坐直，神情滿足又帶著一絲得意，其中一隻輕輕舔著腳掌。柔和的環境室內音、輕快俏皮的喵叫聲、溫柔歡快的背景音樂。結尾畫面為兩隻貓平靜地依偎在一起，暖光映照在牠們的毛髮上，畫面乾淨且主題明確。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114609320792907776/img/e0Bjcny6DJdpAkg1.jpg" width="600" alt="貓咪雷射筆互動提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13072)**
+
+**作者:** [MYS AI](https://x.com/mys1111) | **來源:** [Link](https://x.com/mys1111/status/2114609346738798684) | **發布時間:** Oct 26, 2026
+
+---
+### 科幻外骨骼裝甲變身序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的詳細電影級影片提示，呈現從工業廢墟到未來巨型城市的超寫實科幻變身過程，並包含外骨骼裝甲升級特效。
+
+#### 📝 提示詞
+
+```
+一段超寫實、電影級的 8K 科幻變身片段。畫面從原圖中的角色與夥伴站在荒蕪粗獷的工業廢土開始，地面突然爆發出一股量子能量衝擊波。機械兔猛烈解體，化為液態金屬奈米機器人，盤旋上升並融入 Q 版女孩的夾克之中。她的橘色護目鏡自動升起戴到頭上，雙眼綻放光芒，顯現出銳利的霓虹青藍色生化虹膜。她身上的深色衣物即時轉化為一套先進流線的外骨骼裝甲，表面佈滿脈動的橘色電漿迴路，以及發光的全息兔耳遙測陣列。背景的工業廢墟迅速變化，重新組合成一座高聳入雲、漂浮在雲端之上的未來巨型城市。史詩級環繞運鏡、流暢 60fps、光線追蹤反射、粒子特效，大師級 CGI 品質。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114502639149092865/img/ZOwtBmrGkQDpn-xk.jpg" width="600" alt="科幻外骨骼裝甲變身序列">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13073)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2114503259666964624) | **發布時間:** Oct 25, 2026
+
+---
+### 重返月球太空人提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段由 Grok Imagine 生成的電影感提示詞，描述太空人與不鏽鋼飛船重返月球的場景。
+
+#### 📝 提示詞
+
+```
+重返月球。一名太空人、一艘不鏽鋼太空船，以及地平線彼端的地球——這畫面簡直就像直接從 Grok Imagine 生成的一樣。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114420772751962112/img/fWdSi6d8OfdoQlO-.jpg" width="600" alt="重返月球太空人提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13070)**
+
+**作者:** [Kamil](https://x.com/madebykamil) | **來源:** [Link](https://x.com/madebykamil/status/2114421118475890705) | **發布時間:** Oct 25, 2026
+
+---
+### 奇幻冒險者電影感提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Muca 藝術風格下女性 Fay 冒險者的詳細提示詞，具備電影級光影效果。
+
+#### 📝 提示詞
+
+```
+一位膚色白皙、留著黑色長髮的 Fay 女性，身穿冒險者服裝，採用 Muca 風格繪製，浪漫、英勇且充滿戲劇張力的構圖，電影感氛圍，黃金時刻光線。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114388500350930944/img/gODiL31Lk428JT67.jpg" width="600" alt="奇幻冒險者電影感提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13071)**
+
+**作者:** [John Francavillo](https://x.com/Francavil42824J) | **來源:** [Link](https://x.com/Francavil42824J/status/2114388513621729595) | **發布時間:** Oct 25, 2026
+
+---
+### 賽博龐克 Q 版少女機甲變身影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成豎向電影感影片的完整提示詞，呈現 Q 版少女變身為配備機械翅膀與能量特效的未來主義機甲。
+
+#### 📝 提示詞
+
+```
+超寫實電影級 3D 科幻變身，直式 9:16。一位時髦的 Q 版少女頂著蓬鬆誇張的大捲髮、戴著超大尺寸的未來感墨鏡，身穿深色戰術街頭服飾，搭配金屬鍊飾與厚底靴，自信地佇立在充滿賽博龐克風格的未來巷弄中。突然間，湛藍的能量光波流竄全身，她的墨鏡瞬間化為高科技全像護目鏡，滿頭秀髮分裂成千上萬個微型機械捲髮，寬大的外套則展開成先進的裝甲外骨骼，伴隨著移動的金屬板、旋轉齒輪與閃耀的霓虹電路。她的背包膨脹為巨大的機器人能量系統，身上的鍊條蛻變成懸浮磁力武器，機械肢體也開始繞著她運轉。在令人屏息的慢動作鏡頭中，每一處服裝細節都無縫幻化為未來裝甲，電光火花、飛舞的奈米機器人與全像符號照亮了雨中的巷道。她擺出氣勢磅礡的最終姿勢，身後展開巨大的機械雙翼，靴子啟動發光推進器，藍色能量衝擊波沿著地面擴散開來。照片級真實材質、精密機械結構、流暢的變身動畫、戲劇性運鏡、電影級燈光、體積霧、逼真反射、HDR、8K 細節、史詩級科幻氛圍、震撼人心的最終亮相，變身過程一鏡到底不剪接。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114386204359614464/img/F_fkh7OXwcDUv2zI.jpg" width="600" alt="賽博龐克 Q 版少女機甲變身影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13075)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2114386681466093903) | **發布時間:** Oct 25, 2026
+
+---
+### Grok Imagine 影片提示詞：灰色外星人否認自己是 AI
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段富有創意的影片提示詞，內容為一個灰色外星人直視鏡頭，極力向觀眾證明自己並非 AI。
+
+#### 📝 提示詞
+
+```
+一名灰人直視鏡頭，拼命想說服觀眾自己不是 A.I.。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114384720666537984/img/b_d1O0prf5_jYRap.jpg" width="600" alt="Grok Imagine 影片提示詞：灰色外星人否認自己是 AI">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13074)**
+
+**作者:** [DakaYaro](https://x.com/DakaYaro) | **來源:** [Link](https://x.com/DakaYaro/status/2114384753734635815) | **發布時間:** Oct 25, 2026
+
+---
+### 塔羅聖杯一號藥草園影片
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 此提示詞用於根據先前創建的圖片生成影片，描繪一個裝滿油和玫瑰的酒杯，形似塔羅牌中的聖杯一號。
+
+#### 📝 提示詞
+
+```
+一張以奢華金色裝飾為邊框的圖像。
+一只酒杯漂浮在湛藍澄澈的天空背景中，遠處右上方有一只白鴿飛翔。太陽正好位於酒杯正上方。
+酒杯裡裝滿了礦物油，化身為一座植物標本瓶，裡頭漂浮著白色、粉色與紅色的玫瑰花及花瓣。
+礦物油從酒杯向四方流淌而出，形成一片宛如湖泊的地面，水面上也四處漂浮著白色、粉色與紅色的玫瑰。
+想像塔羅牌中的「聖杯一」（Ace of Cups），但不需要任何文字。請使用 9:16 的比例 🌹
+```
+
+<img src="https://cms-assets.youmind.com/media/1793001452634_6x4gkd_HVeaITTagAAbeJW.jpg" width="600" alt="塔羅聖杯一號藥草園影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13080)**
+
+**作者:** [華月光](https://x.com/hanagekkou) | **來源:** [Link](https://x.com/hanagekkou/status/2114328317998629016) | **發布時間:** Oct 25, 2026
+
+---
+### Cyberpunk Android 變形
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段詳細的電影級提示詞，描述在機器人展覽會上寫實女性 Android 進行變形的場景，包含複雜的機械動畫與光影效果。
+
+#### 📝 提示詞
+
+```
+一段純寫實電影級鏡頭，拍攝一位在頂級機器人博覽會（Robotics Expo）上驚豔全場的女性仿生人。她留著帶有濕髮感的黑色長髮並繫上黑緞帶，肌膚如瓷器般細緻；胸腔、頸部與雙臂則裸露出由拋光鈦金屬與碳纖維打造的骨架結構，以及散發藍光的精密光學感測器。一名身穿黑色科技風外套、胸前掛著識別證掛繩的男子站在近處，正仔細端詳她的肩部關節。
+
+突然間，她開始了超乎想像的進化變形。金屬肋骨與脊椎致動器以精準而優雅的機械律動流暢位移、重新組裝。內部發光迴路隨之脈動，外殼裝甲板向內收縮並重組為更俐落、更先進的裝甲。能量場讓她的髮絲微微揚起。隨著變形加速，她的雙眼燃起強烈的青藍色光芒——肩部致動器鎖定、脊椎節段如望遠鏡般層層伸展，胸甲則摺疊收攏成毫無接縫的高科技外殼。微弱的藍色電弧在她全身躍動閃爍。
+
+攝影機：緩慢的電影式推軌鏡頭搭配淺景深，從她的臉龐與男子的反應開始，接著在變形完成的過程中環繞她滑行。戲劇性的體積光效果，冷調藍色輪廓光與展場溫暖的現場光源相互交融。頂級科幻賽博龐克氛圍，超精細的機械動態，逼真的金屬與肌膚互動質感，絕無卡通或塑膠感。 4K 畫質、變形寬銀幕鏡頭光暈、細膩的底片顆粒感。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114174145147625472/img/s8YjgyosgkPzpllI.jpg" width="600" alt="Cyberpunk Android 變形">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13078)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2114174289935266288) | **發布時間:** Oct 25, 2026
+
+---
 ### 銀河彈珠沙灘遊戲
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -325,6 +485,27 @@ Grok！能不能幫我把這個加上動畫，弄得更酷一點？還有按下�
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13020)**
 
 **作者:** [Blairy](https://x.com/Blair_54q0) | **來源:** [Link](https://x.com/Blair_54q0/status/2114013121383944593) | **發布時間:** Oct 24, 2026
+
+---
+### 女戰士奈米科技裝甲變身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影級科幻影片提示詞，呈現女戰士變身為受《變形金剛》啟發的先進奈米科技裝甲。
+
+#### 📝 提示詞
+
+```
+超寫實、電影級科幻變身畫面，靈感源自參考圖片。一名神祕的女戰士身穿黑色戰術服，佇立在廢棄的未來設施中，手持一把巨型機械武器。突然間，耀眼的藍色能量脈衝流竄過她的裝甲，數百個微型機械組件從她身上脫離、旋轉，並環繞著她的身體進行變形。先進的奈米科技裝甲板從她的靴子與腿部浮現，以機械結構精準鎖定定位；接著，流線型的鈦合金外骨骼組件迅速在她的腰部、胸部、肩膀與手臂上組裝完成。她的手套變形成威力強大的機械護手，金屬肩甲以液壓般的精密度展開，而一頂充滿未來感的頭盔則由液態金屬奈米機器人凝聚成形，隨後又自動收起，露出她的面容。那把巨型武器解體為懸浮的機械零件，無縫整合至她的右臂，化作一門強悍的科幻重砲。她沉重地向前邁出一步，藍色能量紋路瞬間點亮全身裝甲，蒸氣自地面猛烈噴發，雙眼閃爍著電光般的湛藍光芒。最後以極具張力的低角度英雄鏡頭作結——她高舉裝甲手臂，瞄準雷射啟動，整座設施在她身後被光芒徹底照亮。
+
+視覺風格：照片級寫實 3D CGI、受次世代 Transformers 啟發的機械工程設計、精密運作的齒輪、逼真的金屬反射、奈米機器人粒子特效、液壓活塞、電影級體積光效、暗色工業氛圍、8K 超高細節、動態運鏡、震撼的低音衝擊感、流暢無縫的機械變形轉場，無卡通效果、無血腥畫面、無文字、無浮水印。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113996176509067264/img/9JOWLaZexZDxbwaU.jpg" width="600" alt="女戰士奈米科技裝甲變身">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13079)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2113996312274485480) | **發布時間:** Oct 24, 2026
 
 ---
 ### 演唱會舞台背景編輯
@@ -1065,6 +1246,38 @@ BGM
 **作者:** [はる](https://x.com/HaluAIArt) | **來源:** [Link](https://x.com/HaluAIArt/status/2113835372463472982) | **發布時間:** Oct 24, 2026
 
 ---
+### Grok Imagine 提示詞：Elon Musk DJing
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段詳細的提示詞，用於生成 Elon Musk 在 Tesla 工廠中擔任 DJ、周圍環繞著 Optimus 機器人的電影感鏡頭。
+
+#### 📝 提示詞
+
+```
+夜晚，Elon Musk 在巨大的 Tesla 工廠內擔任 DJ 的電影級鏡頭。他站在專業 DJ 混音器與黑膠唱盤後方，身穿棕色飛行員外套與黑色 T 恤，脖子上掛著耳機。他帶著一抹自信的微笑望向鏡頭，同時手指向混音器上發光的播放按鈕。在他身後，數百台 Tesla Optimus 人形機器人整齊列隊、一動也不動地站著，填滿了整座寬敞的工業廠房。遠處背景中，巨大的發光 Tesla 標誌閃耀著光芒。戲劇性的金色聚光燈光束穿透朦朧的空氣，映照在拋光過的工廠地板上。電影級光影、超寫實、8K、淺景深、史詩級規模。
+
+動態／鏡頭建議：
+- 當 Elon 的手指在混音器上移動時，鏡頭緩慢向他推進
+- Elon 頭部細微擺動並露出淡淡微笑
+- 柔和的光束緩慢移動變化
+- 機器人極輕微的待機動作
+- 鏡頭由左至右輕柔平移，營造電影感
+
+較短替代版本：
+Elon Musk 在巨大發光的 Tesla 工廠內，於大批 Tesla Optimus 機器人軍團前擔任 DJ，戲劇性金色聚光燈，電影感，超寫實
+
+反向提示詞（Negative prompt）：
+模糊、臉部扭曲、多餘手指、變形機器人、卡通風格、低畫質、浮水印
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113673455094890496/img/KiDWENrcslEY4xbQ.jpg" width="600" alt="Grok Imagine 提示詞：Elon Musk DJing">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13076)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2113673574376509757) | **發布時間:** Oct 23, 2026
+
+---
 ### 雨夜電車停靠站電影感人像
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1158,6 +1371,25 @@ BGM
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12961)**
 
 **作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **來源:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **發布時間:** Oct 23, 2026
+
+---
+### 驚恐尖叫警告提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成影片場景的提示詞，描述角色尖叫警告故事結束以及新地球的到來。
+
+#### 📝 提示詞
+
+```
+她的尖叫，是四種最令人毛骨悚然的嘶吼交織而成的合音。她放聲吶喊，要將這道警訊直達那些掌控一切的鐵腕。他們的故事正走向終局，而新地球已然降臨。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113387387325698048/img/uZkiITFKWqnrp76D.jpg" width="600" alt="驚恐尖叫警告提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13077)**
+
+**作者:** [Matt Wilson](https://x.com/MattWilson8178) | **來源:** [Link](https://x.com/MattWilson8178/status/2113387506821681386) | **發布時間:** Oct 22, 2026
 
 ---
 ### 屋頂停電影片提示詞
@@ -2528,270 +2760,6 @@ Tesla Roadster 利用火箭推進器從高速公路騰空而起，飛行中的 T
 **作者:** [もっしぃ（野原 生好）](https://x.com/Mosshy) | **來源:** [Link](https://x.com/Mosshy/status/2111209020271026684) | **發布時間:** Oct 16, 2026
 
 ---
-### 星艦月球發射影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 展示星艦使用冷氣推進器從月球起飛的影片提示，並參考輸入圖片。
-
-#### 📝 提示詞
-
-```
-Starship @Image1 使用冷氣推進器從月球表面起飛
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111195673714417664/img/FyLTcyzJGts4Rm6n.jpg" width="600" alt="星艦月球發射影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12649)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2111195978967744532) | **發布時間:** Oct 16, 2026
-
----
-### Tesla Roadster 懸浮影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段詳細的提示詞，用於生成 10 秒 720p 影片，內容為 Tesla Roadster 透過冷氣體推進器懸浮、旋轉並伴隨煙霧效果降落。
-
-#### 📝 提示詞
-
-```
-10 秒 720p 影片，展示這輛 Tesla Roadster 啟動冷氣體推進器以協助懸浮，在空中旋轉一圈後輕柔降回地面，尾氣形成的煙霧被遠光燈照亮並迅速消散
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111182229841813504/img/lM8nyhf1lg776rlj.jpg" width="600" alt="Tesla Roadster 懸浮影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12651)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2111182254646886773) | **發布時間:** Oct 16, 2026
-
----
-### Grok Imagine Kizomba 舞蹈提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成 15 秒親密 Kizomba 舞蹈影片的提示詞，包含緊密擁抱與額頭相觸的細節。
-
-#### 📝 提示詞
-
-```
-15 秒的親密 Kizomba 舞蹈短片。兩人緊緊相擁，雙腳幾乎沒有移動。
-
-純粹的親密感，可以注意到他們的額頭幾乎一直貼在一起。這正是親密能量的流動與傳遞。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111180572626190336/img/xZM6qVfCumNMN63F.jpg" width="600" alt="Grok Imagine Kizomba 舞蹈提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12862)**
-
-**作者:** [Matt Wilson](https://x.com/MattWilson8178) | **來源:** [Link](https://x.com/MattWilson8178/status/2111180601797800160) | **發布時間:** Oct 16, 2026
-
----
-### 賽博龐克科技市場
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段充滿動態感的鏡頭運動提示，帶領觀眾深入擁有飛行汽車的賽博龐克科技市場。
-
-#### 📝 提示詞
-
-```
-鏡頭推進，飛行汽車呼嘯而過，攝影機如無人機般俯衝進入科技市場，呈現賽博龐克風格
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111177341326008321/img/VmPHs-Y5R4AHQSW0.jpg" width="600" alt="賽博龐克科技市場">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12650)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2111177371919569183) | **發布時間:** Oct 16, 2026
-
----
-### 科幻城市白天轉換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 將未來主義科幻城市景觀從夜晚轉變為白天的提示詞，把天空改為明亮的藍色並帶有雲朵，同時調整光照以符合自然日光。
-
-#### 📝 提示詞
-
-```
-將這個未來主義的科幻城市景觀轉變為明亮的白天場景。將黑暗多雲的夜空改為清澈明亮的藍天，伴有柔和的白雲和強烈的陽光。將所有光照調整為自然日光，溫暖的金色陽光照射...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111177072907280385/img/CP0nL1ndM4MpY2SK.jpg" width="600" alt="科幻城市白天轉換">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12653)**
-
-**作者:** [Owen](https://x.com/owenxplore) | **來源:** [Link](https://x.com/owenxplore/status/2111177086643671238) | **發布時間:** Oct 16, 2026
-
----
-### Grok Imagine 帶音訊同步的舞蹈影片提示詞
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 使用 Grok Imagine 生成逼真舞蹈短片的詳細提示詞。該提示詞規定了角色一致性、服裝、配飾以及與上傳音訊檔案精確同步的編舞。包含時長（11.2 秒）、長寬比（9:16）和鏡頭行為（固定鏡頭）等技術參數。
-
-#### 📝 提示詞
-
-```
-逼真的真人實拍舞蹈短片。角色全程使用預設 Character #1 的面部、髮型、體型和身份特徵。Character #1 為成年人。全程僅穿著預設服裝，保持精緻的面部特徵，佩戴裝飾眼鏡和深紫色高跟鞋。身份、髮型、身體、服裝及所有配飾保持一致。
-
-總長度 11.20 秒，9:16 豎屏，30fps，單一連續鏡頭。角色居中，正面面對鏡頭，動作輕盈、俏皮，自然微笑。嚴格執行以下舞蹈序列，不添加新動作或延長準備/定格時間。
-
-[音訊鎖定]
-使用上傳檔案 "lumiraexo_on_Reels_audio only.mp4" 作為唯一配音和背景音樂，從 00:00 開始同步播放。保留原始人聲、音樂、節奏、語調、速度和停頓；禁止重新配音、變調或添加音樂/對白。音軌在約 11.17 秒結束，留下約 0.03 秒的自然靜默。
-身體轉動、手掌推擊、抬膝和手勢需遵循此音訊的實際節拍；不要設定衝突的 BPM。保持自然微笑和呼吸；不要添加明顯的口型同步說話。
-
-[分段動作、表情、視線]
-00:00–00:01.10 | 交替手掌推擊：
-雙腿自然分開，膝蓋放鬆，臀部隨節拍左右轉移重心。左手置於左耳後，左肘向外打開；右臂向鏡頭延伸，手指張開，掌心向前，形成清晰的「停止」手勢。然後右手回到右耳側，左掌向前推擊，隨後收回。手部交換流暢，手掌不觸碰鏡頭。
-表情：從頭到尾保持明亮自然的微笑。
-視線：始終與鏡頭直接對視。
-落點：每次手掌推擊在節拍上達到最大前伸幅度，臀部同時轉移。
-
-00:01.10–00:02.20 | 雙手置於耳後節奏：
-緊接手掌推擊後，雙手移至耳後和後腦勺兩側，肘部自然打開。軀幹放鬆，肩膀輕微反彈，臀部持續左右擺動。頭部輕輕傾斜後回正，頭髮隨著肩部動作自然搖曳。
-表情：微笑柔和化為俏皮、專注的淺笑。
-視線：先看鏡頭，在本段結束前短暫向下看。
-
-00:02.20–00:03.40 | 單次抬膝：
-右手保持在右耳後，左手沿身體外側下降，停在左大腿前方。重心穩定在右腿，左膝向前/向上抬起，略微向左打開，左手懸浮於抬起的大腿上方；然後左腿沿相同路徑回到地面。僅完成一次連續的抬膝動作，不踢腿，不拉扯衣服。軀幹略微傾斜以保持平衡。
-表情：輕抿嘴唇，俏皮的嚴肅感。
-視線：抬腿時看向左腿，落地時回到鏡頭。
-落點：膝蓋最高點命中節拍，落地立即過渡到下一個手勢。
-
-00:03.40–00:04.40 | 胸部指尖框架：
-左脚踩實，雙手回到胸前，掌心朝向鏡頭；拇指和食指靠近，短暫形成小三角形框架。然後雙手從中心向兩側展開，呈弧形下降至腰部。身體保持輕微的左右節奏。
-表情：從含蓄的微笑轉變為燦爛的微笑。
-視線：看著中央指尖，當雙手打開時抬起眼睛直視鏡頭。
-落點：指尖閉合和雙手打開對應連續節拍。
-
-00:04.40–00:07.20 | 低位手部，連續臀部擺動：
-肘部微彎，雙手放鬆成小拳頭，位於身體兩側，略低於腰部，指關節朝向前內側。保持手部低位，依靠膝蓋輕微屈伸進行連續的左右重心轉移，臀部通過中心短暫 thrust 後切換；肩膀輕微反向平衡，前臂隨節奏自然彈跳。腳部基本保持原位。
-表情：放鬆、燦爛的微笑，臉頰自然上揚。
-視線：主要直視鏡頭，偶爾隨頭部傾斜偏移，並立即返回。
-落點：每次臀部 thrust 清晰命中節拍，無慢動作，無拖沓。
-
-00:07.20–00:09.20 | 維持節奏，短暫收斂微笑：
-繼續低位手部和左右臀部擺動，幅度與前一段一致。頭部輕輕向一側傾斜後回正；肩膀隨節拍產生細微反彈，身體沒有明顯的前後移動。
-表情：微笑自然收斂，嘴唇輕閉，形成短暫的平靜狀態；然後嘴角再次上揚。
-視線：短暫看向旁邊，回到鏡頭，保持互動。
-
-00:09.20–00:11.20 | 微笑回歸，自然結束：
-繼續原始的左右重心轉移，雙手保持在身體兩側，手腕放鬆。頭部隨節拍輕微傾斜，最終回到正面，臀部動作自然減少。
-表情：再次展現燦爛微笑，以放鬆、快樂的狀態結束。
-視線：直視鏡頭。
-落點：跟隨音軌的最終節奏自然沉降，無突然僵硬定格。
-
-[鏡頭與場景]
-手機前置鏡頭位置固定，鏡頭高度約在胸部，略微仰拍。豎屏中全景鏡頭，捕捉從頭頂到大腿中下部的範圍，為手掌推擊和抬膝保留空間。向前伸手時自然透視放大；鏡頭保持靜止，無變焦、平移、旋轉或剪輯。
-場景為簡約現代室內：角色身後有兩扇深色木門，配有銀色把手和閉門器；周圍是淺色牆壁和白色天花板，頭頂可見小型圓形燈具。保留真實住宅或酒店房間的日常感。
-柔和的室內環境光照亮面部和身體，背景曝光穩定。圖像具有真實的智慧型手機拍攝質感，保留皮膚紋理、髮絲和織物慣性，無額外光效。
-排除項：換臉、身份漂移、髮型變化、服裝變異、絲襪/眼鏡消失、鞋跟變化；多隻手/手指、手指融合、手掌穿過臉部、關節過度伸展、抬膝不平衡、腳部滑動、混亂的腿部踢擊；動作瞬移、機械式臀部擺動、節奏錯位、固定不變的微笑、視線漂移、異常口型同步；音訊速度變化、音軌錯位、額外配音/音樂；推拉鏡頭移動、數位變焦、剪輯、背景變形、嚴重模糊、字幕、浮水印、標誌。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111172429682769920/img/5Lz1iR3n_pGv40TU.jpg" width="600" alt="Grok Imagine 帶音訊同步的舞蹈影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12658)**
-
-**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2111172841945129256) | **發布時間:** Oct 16, 2026
-
----
-### 電插座微縮房間影片工作流
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 使用 ChatGPT 生成三張風格一致的電插座房間靜態畫面，並利用 Grok Imagine 將其製作成 10 秒鐘影片的完整工作流。
-
-#### 📝 提示詞
-
-```
-寫實垂直 9:16 照片，特寫牆面上帶有柔和奶油色復古花卉圖案的白色標準雙孔電插座面板
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111050135954444288/img/5lT7UXx_6wOloNBm.jpg" width="600" alt="電插座微縮房間影片工作流">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12659)**
-
-**作者:** [xer rexx](https://x.com/rexx_xer82545) | **來源:** [Link](https://x.com/rexx_xer82545/status/2111050341525627391) | **發布時間:** Oct 16, 2026
-
----
-### 鑽石燈泡花環飄雪
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片提示，創造出美麗的花環，其中燈泡如鑽石般閃耀，並伴有頂部飄落的雪花。
-
-#### 📝 提示詞
-
-```
-讓燈泡柔和地閃耀，如同鑽石般璀璨，並製作整個花環。只需創作一件迷人、豐盈且美麗的藝術作品，務必將其製作出精美絕倫的效果。NFEN 請讓雪花飄落在其上方。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110964155981148160/img/Nl_pHIh_KB8vPnXp.jpg" width="600" alt="鑽石燈泡花環飄雪">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12657)**
-
-**作者:** [king miller](https://x.com/kingmiller685) | **來源:** [Link](https://x.com/kingmiller685/status/2110964185496711242) | **發布時間:** Oct 16, 2026
-
----
-### 傳統保守風格聖誕樹
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片提示，旨在以傳統保守的佈置和自然色調打造美麗的聖誕樹。
-
-#### 📝 提示詞
-
-```
-讓這棵聖誕樹在傳統保守的佈置下顯得美麗動人。樹木的色彩應呈現其自然本貌。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110963779651469312/img/eRlyojOUdBaw6Jtc.jpg" width="600" alt="傳統保守風格聖誕樹">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12601)**
-
-**作者:** [king miller](https://x.com/kingmiller685) | **來源:** [Link](https://x.com/kingmiller685/status/2110964151950680444) | **發布時間:** Oct 16, 2026
-
----
-### 冬季場景動畫提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於在場景中添加閃爍燈光、飄雪效果和鋼琴配樂的影片提示詞。
-
-#### 📝 提示詞
-
-```
-讓燈光柔和地閃爍，並緩慢開始下雪，同時配上優美的鋼琴音樂
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110963706334982144/img/qRsLoC8qPWKuB1HJ.jpg" width="600" alt="冬季場景動畫提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12655)**
-
-**作者:** [king miller](https://x.com/kingmiller685) | **來源:** [Link](https://x.com/kingmiller685/status/2110963774920298591) | **發布時間:** Oct 16, 2026
-
----
-### 耶穌下驢回眸場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段描繪耶穌從驢背上走下、轉化為逼真形象並對鏡頭微笑的提示詞。
-
-#### 📝 提示詞
-
-```
-播放耶穌從驢背上走下，轉向我的畫面，讓他變成逼真的耶穌形象，並對著鏡頭露出淡淡的微笑
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110963024739594240/img/iSljy9Lj9q413D72.jpg" width="600" alt="耶穌下驢回眸場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12595)**
-
-**作者:** [king miller](https://x.com/kingmiller685) | **來源:** [Link](https://x.com/kingmiller685/status/2110963116439683254) | **發布時間:** Oct 16, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2853,6 +2821,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-26T04:27:45.536Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-26T15:43:56.757Z</sub>
 
 </div>

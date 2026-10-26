@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3220** |
+| 📝 Total Prompts | **3231** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-26** |
 
@@ -189,6 +189,166 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Mẹo Tương Tác Với Mèo Bằng Bút Laser
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết cho video chân thực về hai chú mèo chơi với bút laser trong phòng khách.
+
+#### 📝 Prompt
+
+```
+Video dọc 15 giây tỷ lệ 9:16 mang phong cách điện ảnh, chân thực như ảnh chụp, ánh sáng tự nhiên ấm áp. Cảnh quay trung bình cố định tại bậu cửa sổ phòng khách ngập tràn ánh sáng. Một chú mèo mướp màu cam lông xù và một chú mèo xám mượt mà ngồi sát bên nhau, bộ lông mềm mại với từng chi tiết rõ nét, dáng vẻ thư thái nhưng vẫn đầy cảnh giác, nắng chiều hắt vào từ phía bên trái. Sau đó, một chấm laser đỏ nhỏ xíu xuất hiện, nhảy nhót tinh nghịch trên bậu cửa ngay trước mặt chúng. Chú mèo cam trợn tròn mắt, hạ thấp người rồi chồm tới bằng cả hai chân trước. Chú mèo xám lập tức nhập cuộc, vờn theo chấm sáng đang di chuyển bằng những cú gạt nhanh gọn và chuẩn xác. Chấm laser vụt sang trái rồi lại tạt sang phải, cả hai chú mèo bám theo nhịp nhàng đầy hứng khởi, đuôi ngoe nguẩy liên hồi. Chấm laser biến mất. Hai chú mèo lại ngồi thẳng dậy cạnh nhau, vẻ mặt mãn nguyện pha chút tự hào, một chú nhẹ nhàng liếm bàn chân. Âm thanh môi trường trong phòng êm dịu, tiếng meo meo vui tai, nền nhạc nhẹ nhàng tươi vui. Video kết thúc bằng hình ảnh hai chú mèo điềm tĩnh ngồi bên nhau, ánh sáng ấm áp phủ lên bộ lông, khung hình sạch sẽ và rõ nét.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114609320792907776/img/e0Bjcny6DJdpAkg1.jpg" width="600" alt="Mẹo Tương Tác Với Mèo Bằng Bút Laser">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13072)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2114609346738798684) | **Published:** Oct 26, 2026
+
+---
+### Chuỗi Biến Hình Bộ Ngoại Khoa Học Viễn Tưởng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết cho video điện ảnh trên Grok Imagine, khắc họa quá trình biến đổi siêu thực từ vùng đất công nghiệp hoang tàn thành siêu đô thị tương lai với các nâng cấp bộ ngoại xương.
+
+#### 📝 Prompt
+
+```
+Một chuỗi biến hình sci-fi điện ảnh 8K siêu chân thực. Mở đầu với nhân vật và người bạn đồng hành trong ảnh gốc đang đứng giữa vùng đất hoang tàn công nghiệp đầy khắc nghiệt, một luồng năng lượng lượng tử bất ngờ bùng phát từ mặt đất. Chú thỏ cơ khí vỡ vụn dữ dội thành hàng tỷ nanite chrome lỏng, cuộn xoáy lên cao rồi hòa quyện vào chiếc áo khoác của cô gái phong cách chibi. Cặp kính bảo hộ màu cam tự động trượt lên đỉnh đầu, trong khi đôi mắt cô bừng sáng với tròng mắt cybernetic neon-cyan sắc lẹm. Bộ trang phục tối màu biến đổi theo thời gian thực thành một bộ exo-suit tối tân, mượt mà, điểm xuyết những đường mạch plasma cam nhấp nháy cùng hệ thống anten telemetry tai thỏ hologram phát sáng rực rỡ. Bối cảnh phế tích công nghiệp phía sau nhanh chóng chuyển mình, lắp ghép lại thành một siêu đô thị tương lai sừng sững lơ lửng giữa tầng mây. Góc máy xoay orbit hoành tráng, chuyển động mượt mà 60fps, phản xạ ray-traced, hiệu ứng hạt, chất lượng CGI đẳng cấp bậc thầy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114502639149092865/img/ZOwtBmrGkQDpn-xk.jpg" width="600" alt="Chuỗi Biến Hình Bộ Ngoại Khoa Học Viễn Tưởng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13073)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114503259666964624) | **Published:** Oct 25, 2026
+
+---
+### Prompt Phi Hành Gia Trở Lại Mặt Trăng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt điện ảnh mô tả phi hành gia và tàu vũ trụ bằng thép không gỉ quay trở lại mặt trăng, được tạo bằng Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Trở lại Mặt Trăng. Một phi hành gia, một con tàu bằng thép không gỉ và Trái Đất lấp ló nơi đường chân trời — chuẩn từng khung hình bước ra từ Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114420772751962112/img/fWdSi6d8OfdoQlO-.jpg" width="600" alt="Prompt Phi Hành Gia Trở Lại Mặt Trăng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13070)**
+
+**Author:** [Kamil](https://x.com/madebykamil) | **Source:** [Link](https://x.com/madebykamil/status/2114421118475890705) | **Published:** Oct 25, 2026
+
+---
+### Prompt điện ảnh cho nhà thám hiểm kỳ ảo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết cho nữ Fay adventurer phong cách nghệ thuật Muca với ánh sáng điện ảnh.
+
+#### 📝 Prompt
+
+```
+Một người phụ nữ Fay da sáng, mái tóc đen dài buông xõa, khoác trên mình trang phục thám hiểm, được thể hiện theo phong cách của Muca, lãng mạn, hào hùng, bố cục đầy kịch tính, đậm chất điện ảnh, ánh sáng giờ vàng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114388500350930944/img/gODiL31Lk428JT67.jpg" width="600" alt="Prompt điện ảnh cho nhà thám hiểm kỳ ảo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13071)**
+
+**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2114388513621729595) | **Published:** Oct 25, 2026
+
+---
+### Prompt Video Biến Hình Mech Cô Gái Chibi Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt toàn diện để tạo video điện ảnh dọc, thể hiện một cô gái chibi biến hình thành bộ giáp tương lai với cánh cơ khí và hiệu ứng năng lượng.
+
+#### 📝 Prompt
+
+```
+Siêu chân thực, biến hình 3D sci-fi đậm chất điện ảnh, khung hình dọc 9:16. Một cô gái chibi sành điệu với mái tóc xoăn xù khổng lồ, kính râm ngoại cỡ mang hơi hướng tương lai, bộ đồ streetwear chiến thuật tối màu, dây xích kim loại và đôi bốt hầm hố đang tự tin đứng giữa con hẻm cyberpunk của thế giới tương lai. Bất chợt, những luồng năng lượng xanh rực sáng chạy dọc cơ thể cô: chiếc kính râm hóa thành tấm che mặt hologram công nghệ cao, mái tóc tách ra thành hàng ngàn lọn xoăn cơ khí tí hon, còn chiếc áo khoác ngoại cỡ bung mở thành một bộ giáp exosuit tân tiến với các tấm kim loại chuyển động, bánh răng xoay tròn và những đường mạch neon phát sáng. Chiếc ba lô trên lưng phình to thành hệ thống năng lượng robot khổng lồ, trong khi đám dây xích biến hóa thành vũ khí từ tính lơ lửng cùng các chi tiết cơ khí bay quỹ đạo quanh người cô. Trong phân cảnh slow-motion nghẹt thở, từng chi tiết trang phục liền mạch hóa thành lớp giáp tương lai, giữa lúc tia lửa điện, đàn nanobot cuộn xoáy và các ký tự hologram thắp sáng cả con hẻm ướt mưa. Cô tung ra tư thế kết màn đầy uy lực khi đôi cánh cơ khí khổng lồ xòe rộng phía sau, đế bốt kích hoạt động cơ đẩy rực sáng, và một đợt sóng xung kích năng lượng xanh lan tỏa khắp mặt đất. Chất liệu chân thực như ảnh chụp, kỹ thuật cơ khí tinh xảo, hoạt ảnh biến hình mượt mà, góc máy chuyển động kịch tính, ánh sáng điện ảnh, sương mù thể tích, phản chiếu chân thực, HDR, chi tiết 8K, bầu không khí sci-fi hoành tráng, khoảnh khắc lộ diện cuối cùng khiến người xem choáng ngợp, không cắt cảnh trong suốt quá trình biến hình.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114386204359614464/img/F_fkh7OXwcDUv2zI.jpg" width="600" alt="Prompt Video Biến Hình Mech Cô Gái Chibi Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13075)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114386681466093903) | **Published:** Oct 25, 2026
+
+---
+### Prompt Video Grok Imagine: Người Ngoài Hành Tinh Xám Phủ Nhận Là AI
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video Grok Imagine sáng tạo với người ngoài hành tinh xám nhìn thẳng vào camera và cố gắng thuyết phục người xem rằng họ không phải là AI.
+
+#### 📝 Prompt
+
+```
+Một người ngoài hành tinh Grey nhìn thẳng vào ống kính và ra sức thuyết phục người xem rằng mình không phải là A.I.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114384720666537984/img/b_d1O0prf5_jYRap.jpg" width="600" alt="Prompt Video Grok Imagine: Người Ngoài Hành Tinh Xám Phủ Nhận Là AI">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13074)**
+
+**Author:** [DakaYaro](https://x.com/DakaYaro) | **Source:** [Link](https://x.com/DakaYaro/status/2114384753734635815) | **Published:** Oct 25, 2026
+
+---
+### Video Herbarium về Lá Bài Ace of Cups trong Bộ Bài Tarot
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Lời nhắc tạo video dựa trên hình ảnh đã được tạo trước đó, mô tả một ly rượu vang chứa đầy dầu và hoa hồng gợi liên tưởng đến lá bài Ace of Cups trong bộ bài Tarot.
+
+#### 📝 Prompt
+
+```
+Một bức ảnh được viền bởi những họa tiết trang trí bằng vàng sang trọng.
+Một chiếc ly rượu lơ lửng trên nền trời xanh trong vắt, với một chú bồ câu trắng đơn độc đang bay ở góc trên bên phải phía xa. Mặt trời tỏa sáng ngay phía trên chiếc ly.
+Chiếc ly chứa đầy tràn dầu khoáng, biến thành một tiêu bản thực vật với những bông hoa và cánh hoa hồng màu trắng, hồng, đỏ bồng bềnh bên trong.
+Dầu khoáng tuôn trào ra khỏi ly theo bốn hướng, tạo thành một mặt đất tựa như hồ nước, nơi những đóa hồng trắng, hồng và đỏ cũng dập dờn đây đó.
+Hình dung về lá bài Tarot Ace of Cups, nhưng không cần có chữ. Vui lòng sử dụng tỷ lệ khung hình 9:16 🌹
+```
+
+<img src="https://cms-assets.youmind.com/media/1793001452634_6x4gkd_HVeaITTagAAbeJW.jpg" width="600" alt="Video Herbarium về Lá Bài Ace of Cups trong Bộ Bài Tarot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13080)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2114328317998629016) | **Published:** Oct 25, 2026
+
+---
+### Biến Hình Android Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt điện ảnh chi tiết mô tả một nữ android siêu thực đang biến hình tại triển lãm robot, nổi bật với các hiệu ứng ánh sáng và hoạt ảnh cơ khí phức tạp.
+
+#### 📝 Prompt
+
+```
+Một cảnh quay điện ảnh chân thực tuyệt đối, khắc họa một nữ android tuyệt đẹp tại một triển lãm Robotics cao cấp. Cô sở hữu mái tóc đen dài ướt mượt buộc bằng dải ruy băng đen, làn da trắng sứ như gốm, cùng phần khung xương kim loại lộ ra ngoài làm từ titanium đánh bóng và sợi carbon. Các cảm biến quang học màu xanh dương phát sáng trải dọc ngực, cổ và cánh tay cô. Một người đàn ông mặc áo khoác công nghệ màu đen, đeo thẻ lanyard, đứng sát bên cạnh để quan sát kỹ khớp vai của cô.
+
+Đột nhiên, cô bắt đầu một màn biến hình vượt tầm đẳng cấp. Khung sườn kim loại và các bộ truyền động dọc cột sống dịch chuyển, tái cấu trúc nhịp nhàng với độ chính xác cơ khí đầy tinh tế. Những mạch điện phát sáng bên trong nhấp nháy theo nhịp đập khi các tấm vỏ ngoài thu lại rồi lắp ghép thành một lớp giáp mới thon gọn và tối tân hơn. Mái tóc cô khẽ bay lên dưới tác động của trường năng lượng. Đôi mắt bùng lên ánh sáng xanh cyan rực rỡ khi quá trình biến hình tăng tốc—các bộ truyền động ở vai khóa chặt, từng đốt sống trượt lồng vào nhau, và những tấm giáp ngực gập lại tạo thành một lớp mai công nghệ cao liền mạch. Những tia năng lượng xanh lam mờ ảo nhảy múa khắp thân hình cô.
+
+Camera: Chuyển động tiến chậm mang đậm chất điện ảnh với độ sâu trường ảnh mỏng, khởi đầu từ gương mặt cô và biểu cảm của người đàn ông, sau đó lướt vòng quanh cô khi quá trình biến hình hoàn tất. Ánh sáng thể tích (volumetric lighting) đầy kịch tính, viền sáng xanh lạnh hòa quyện cùng ánh đèn thực tế ấm áp của sảnh triển lãm. Bầu không khí sci-fi cyberpunk cao cấp, chuyển động cơ khí chi tiết đến từng milimet, sự tương tác chân thực giữa kim loại và da thịt, tuyệt đối không có cảm giác hoạt hình hay nhựa giả tạo. Độ phân giải 4K, lóa ống kính anamorphic, nhiễu hạt phim nhẹ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114174145147625472/img/s8YjgyosgkPzpllI.jpg" width="600" alt="Biến Hình Android Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13078)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114174289935266288) | **Published:** Oct 25, 2026
+
+---
 ### Trò Chơi Bắn Bi Thiên Hà Trên Bãi Biển
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -325,6 +485,27 @@ Tạo một video hài kịch người đóng (live-action) chân thực đến 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13020)**
 
 **Author:** [Blairy](https://x.com/Blair_54q0) | **Source:** [Link](https://x.com/Blair_54q0/status/2114013121383944593) | **Published:** Oct 24, 2026
+
+---
+### Nữ Chiến Binh Biến Hình Thành Giáp Công Nghệ Nano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video khoa học viễn tưởng điện ảnh, mô tả một nữ chiến binh biến hình thành bộ giáp công nghệ nano tiên tiến lấy cảm hứng từ Transformers.
+
+#### 📝 Prompt
+
+```
+Biến hình siêu thực, đậm chất điện ảnh khoa học viễn tưởng, lấy cảm hứng từ hình ảnh tham khảo. Một nữ chiến binh bí ẩn trong bộ đồ chiến thuật màu đen đứng giữa một cơ sở công nghệ tương lai bị bỏ hoang, tay cầm một vũ khí cơ khí khổng lồ. Đột nhiên, những luồng năng lượng xanh rực sáng chạy dọc lớp giáp của cô khi hàng trăm linh kiện robot tí hon tách rời, xoay chuyển và biến hình quanh cơ thể. Các tấm giáp nano công nghệ cao trồi lên từ đôi bốt và chân, khóa chặt vào nhau bằng khớp nối cơ khí, trước khi những bộ phận exoskeleton titan bóng mượt lắp ráp quanh eo, ngực, vai và cánh tay. Đôi găng tay biến đổi thành bao tay robot đầy uy lực, phần giáp vai kim loại bung ra với độ chính xác của hệ thống thủy lực, còn chiếc mũ bảo hiểm tương lai được tạo hình từ các nanobot kim loại lỏng rồi thu lại để lộ gương mặt cô. Khẩu súng khổng lồ tháo rời thành những mảnh cơ khí lơ lửng và hòa nhập liền mạch vào cánh tay phải, trở thành một khẩu pháo sci-fi đầy sức mạnh. Cô bước tới một bước nặng nề khi những đường năng lượng xanh thắp sáng toàn bộ bộ giáp, hơi nước phụt lên từ mặt sàn, và đôi mắt rực sáng sắc xanh điện. Kết thúc bằng góc máy hất thấp đậm chất anh hùng khi cô giơ cánh tay bọc giáp, tia laser ngắm mục tiêu kích hoạt, và cả cơ sở bừng sáng phía sau lưng.
+
+Phong cách hình ảnh: CGI 3D chân thực như ảnh chụp, kỹ thuật cơ khí thế hệ mới lấy cảm hứng từ Transformers, các bánh răng chuyển động tinh xảo, phản xạ kim loại chân thực, hiệu ứng hạt nanobot, pít-tông thủy lực, ánh sáng thể tích chuẩn điện ảnh, bầu không khí công nghiệp tối tăm, chi tiết 8K, chuyển động camera linh hoạt, âm trầm mạnh mẽ, chuyển cảnh cơ khí mượt mà, không hiệu ứng hoạt hình, không máu me, không chữ, không watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113996176509067264/img/9JOWLaZexZDxbwaU.jpg" width="600" alt="Nữ Chiến Binh Biến Hình Thành Giáp Công Nghệ Nano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13079)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113996312274485480) | **Published:** Oct 24, 2026
 
 ---
 ### Chỉnh sửa Nền Sân Khấu Hòa Nhạc
@@ -1129,6 +1310,38 @@ Cảnh 2 (00:06 - 00:12)
 **Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2113835372463472982) | **Published:** Oct 24, 2026
 
 ---
+### Grok Imagine Prompt: Elon Musk Làm DJ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết cho cảnh quay điện ảnh về Elon Musk đang làm DJ trong nhà máy Tesla, xung quanh là các robot Optimus.
+
+#### 📝 Prompt
+
+```
+Cảnh quay điện ảnh Elon Musk đang chơi DJ trong một nhà máy Tesla khổng lồ vào ban đêm. Anh đứng sau bàn mixer và mâm đĩa than chuyên nghiệp, mặc áo khoác bomber màu nâu cùng áo phông đen, tai nghe quàng quanh cổ. Anh hướng mắt về phía ống kính với nụ cười tự tin nhẹ, tay chỉ vào nút play đang phát sáng trên bàn mixer. Phía sau anh, hàng trăm robot hình người Tesla Optimus đứng bất động hoàn toàn theo đội hình, lấp đầy cả nhà kho công nghiệp rộng lớn. Logo Tesla phát sáng khổng lồ tỏa rạng ở hậu cảnh phía xa. Những luồng đèn spotlight vàng rực mang đậm chất điện ảnh xé toạc bầu không khí mờ ảo, phản chiếu trên mặt sàn nhà máy bóng loáng. Ánh sáng điện ảnh, siêu chân thực, 8K, độ sâu trường ảnh mỏng, quy mô hoành tráng.
+
+Gợi ý chuyển động / góc máy:
+- Máy quay từ từ tiến lại gần Elon khi anh di chuyển ngón tay trên bàn mixer
+- Chuyển động đầu tinh tế và nụ cười mỉm của Elon
+- Các luồng ánh sáng dịu nhẹ chậm rãi dịch chuyển
+- Chuyển động chờ cực kỳ tinh tế từ các robot
+- Góc máy trôi nhẹ từ trái sang phải để tạo cảm giác điện ảnh
+
+Phiên bản ngắn thay thế:
+Elon Musk chơi DJ trước đội quân robot Tesla Optimus bên trong nhà máy Tesla phát sáng khổng lồ, đèn spotlight vàng rực đầy kịch tính, phong cách điện ảnh, siêu chân thực
+
+Câu lệnh phủ định (Negative prompt):
+mờ nhòe, biến dạng khuôn mặt, thừa ngón tay, robot méo mó, hoạt hình, chất lượng thấp, watermark
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113673455094890496/img/KiDWENrcslEY4xbQ.jpg" width="600" alt="Grok Imagine Prompt: Elon Musk Làm DJ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13076)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113673574376509757) | **Published:** Oct 23, 2026
+
+---
 ### Chân dung Điện ảnh tại Trạm Xe điện Đêm Mưa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1222,6 +1435,25 @@ Hãy nghĩ ra một chiến lược giao dịch trong ngày (day trading) và đ
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12961)**
 
 **Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **Published:** Oct 23, 2026
+
+---
+### Cảnh Báo Hét Lên Đầy Kinh Hoàng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo cảnh video trong đó nhân vật hét lên lời cảnh báo về sự kết thúc của câu chuyện và sự xuất hiện của Trái Đất Mới.
+
+#### 📝 Prompt
+
+```
+Tiếng hét của cô là sự hòa quyện của 4 tiếng thét kinh hoàng nhất, chồng lên nhau thành một. Cô gào lên để truyền đi lời cảnh báo đến những bàn tay kiểm soát đầy quyền lực. Câu chuyện của họ đang khép lại, và Trái Đất Mới đang dần hiện diện.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113387387325698048/img/uZkiITFKWqnrp76D.jpg" width="600" alt="Cảnh Báo Hét Lên Đầy Kinh Hoàng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13077)**
+
+**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2113387506821681386) | **Published:** Oct 22, 2026
 
 ---
 ### Prompt Video Mất Điện Trên Sân Thượng
@@ -2602,270 +2834,6 @@ Twitch chat emote phong cách kawaii của người đàn ông trong bức ảnh
 **Author:** [もっしぃ（野原 生好）](https://x.com/Mosshy) | **Source:** [Link](https://x.com/Mosshy/status/2111209020271026684) | **Published:** Oct 16, 2026
 
 ---
-### Video Starship Cất Cánh Từ Mặt Trăng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả video về Starship cất cánh từ mặt trăng bằng động cơ đẩy khí lạnh, có tham chiếu đến hình ảnh đầu vào.
-
-#### 📝 Prompt
-
-```
-Starship @Image1 cất cánh từ bề mặt mặt trăng bằng động cơ đẩy khí lạnh
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111195673714417664/img/FyLTcyzJGts4Rm6n.jpg" width="600" alt="Video Starship Cất Cánh Từ Mặt Trăng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12649)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111195978967744532) | **Published:** Oct 16, 2026
-
----
-### Video Tesla Roadster Bay Trên Không
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả chi tiết cho video 10 giây độ phân giải 720p về chiếc Tesla Roadster bay lơ lửng nhờ động cơ đẩy khí lạnh, xoay vòng và hạ cánh kèm hiệu ứng khói.
-
-#### 📝 Prompt
-
-```
-Video 10s độ phân giải 720p ghi lại cảnh chiếc Tesla Roadster kích hoạt các động cơ đẩy khí lạnh để bay lơ lửng, xoay tròn trên không trước khi nhẹ nhàng hạ cánh xuống mặt đất. Khói từ động cơ bị cuốn trôi qua cụm đèn pha chiếu xa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111182229841813504/img/lM8nyhf1lg776rlj.jpg" width="600" alt="Video Tesla Roadster Bay Trên Không">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12651)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111182254646886773) | **Published:** Oct 16, 2026
-
----
-### Grok Imagine: Prompt Nhảy Kizomba
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video nhảy kizomba thân mật kéo dài 15 giây với động tác ôm sát và chạm trán.
-
-#### 📝 Prompt
-
-```
-Đoạn clip 15 giây nhảy kizomba đầy thân mật. Cặp đôi ôm nhau thật sát, chân gần như không di chuyển.
-
-Sự thân mật thuần khiết, để ý sẽ thấy trán họ chạm nhau gần như liên tục. Một sự trao đổi năng lượng đầy gắn kết.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111180572626190336/img/xZM6qVfCumNMN63F.jpg" width="600" alt="Grok Imagine: Prompt Nhảy Kizomba">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12862)**
-
-**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2111180601797800160) | **Published:** Oct 16, 2026
-
----
-### Chợ Techno Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả chuyển động camera năng động, đưa người xem vào các khu chợ techno phong cách cyberpunk với những chiếc xe bay.
-
-#### 📝 Prompt
-
-```
-Phóng to, xe bay lướt qua nhanh chóng, camera lao vào các khu chợ techno như một drone, phong cách cyberpunk
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111177341326008321/img/VmPHs-Y5R4AHQSW0.jpg" width="600" alt="Chợ Techno Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12650)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111177371919569183) | **Published:** Oct 16, 2026
-
----
-### Biến Đổi Cảnh Quan Thành Phố Khoa Học Viễn Tưởng Sang Ban Ngày
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả chi tiết về cách biến đổi cảnh quan thành phố khoa học viễn tưởng từ ban đêm sang ban ngày, với bầu trời xanh sáng có mây và ánh sáng tự nhiên.
-
-#### 📝 Prompt
-
-```
-Hãy biến đổi cảnh quan thành phố khoa học viễn tưởng tương lai này thành một khung cảnh ban ngày rực rỡ. Thay đổi bầu trời đêm tối u ám nhiều mây thành bầu trời xanh trong sáng với những đám mây trắng mềm mại và ánh nắng chói chang. Điều chỉnh toàn bộ hệ thống chiếu sáng theo ánh sáng ban ngày tự nhiên, với những tia nắng vàng ấm áp chiếu rọi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111177072907280385/img/CP0nL1ndM4MpY2SK.jpg" width="600" alt="Biến Đổi Cảnh Quan Thành Phố Khoa Học Viễn Tưởng Sang Ban Ngày">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12653)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111177086643671238) | **Published:** Oct 16, 2026
-
----
-### Grok Imagine: Prompt Video Nhảy Đồng Bộ Âm Thanh
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt chi tiết để tạo video ngắn khiêu vũ chân thực bằng Grok Imagine. Prompt quy định tính nhất quán của nhân vật, trang phục, phụ kiện và biên đạo múa chính xác đồng bộ với tệp âm thanh đã tải lên. Bao gồm các thông số kỹ thuật như thời lượng (11.2s), tỷ lệ khung hình (9:16) và hành vi camera (cảnh quay tĩnh).
-
-#### 📝 Prompt
-
-```
-Video ngắn khiêu vũ người thật đóng, phong cách chân thực. Nhân vật sử dụng khuôn mặt, kiểu tóc, dáng người và đặc điểm nhận dạng của Character #1 được thiết lập sẵn trong suốt video. Character #1 là một người trưởng thành. Mặc duy nhất bộ trang phục được thiết lập sẵn, giữ nguyên nét mặt tinh tế, đeo kính trang trí và đi giày cao gót màu tím đậm. Danh tính, kiểu tóc, cơ thể, trang phục và tất cả phụ kiện đều phải nhất quán.
-
-Tổng thời lượng 11.20 giây, màn dọc tỷ lệ 9:16, tốc độ khung hình 30fps, một cảnh quay liên tục duy nhất. Nhân vật ở trung tâm, đối diện trực tiếp với camera, chuyển động nhẹ nhàng, vui tươi, nụ cười tự nhiên. Thực hiện nghiêm ngặt trình tự khiêu vũ sau đây mà không thêm động tác mới hoặc kéo dài thời gian chuẩn bị/giữ tư thế.
-
-[Khóa Âm Thanh]
-Sử dụng tệp đã tải lên "lumiraexo_on_Reels_audio only.mp4" làm giọng nói và bản nhạc nền duy nhất, bắt đầu đồng bộ từ 00:00. Giữ nguyên giọng hát gốc, âm nhạc, nhịp điệu, tông màu, tốc độ và khoảng nghỉ; không lồng tiếng lại, thay đổi cao độ hoặc thêm nhạc/thoại. Bản nhạc kết thúc vào khoảng ~11.17s, để lại ~0.03s im lặng tự nhiên.
-Cơ thể xoay, lòng bàn tay đẩy, nâng đầu gối và cử chỉ tay tuân theo nhịp thực tế của âm thanh này; không đặt BPM xung đột. Duy trì nụ cười và hơi thở tự nhiên; không thêm lời thoại khớp môi rõ ràng.
-
-[Hành Động, Biểu Cảm, Ánh Mắt Theo Từng Phân Khúc]
-00:00–00:01.10 | Đẩy Tay Xen Kẽ:
-Chân mở rộng tự nhiên, đầu gối thả lỏng, hông chuyển trọng lượng trái/phải theo nhịp. Tay trái đặt sau tai trái, khuỷu tay trái mở ra ngoài; cánh tay phải duỗi về phía camera, ngón tay xòe, lòng bàn tay hướng trước, tạo thành cử chỉ "dừng" rõ ràng. Sau đó tay phải trở về bên tai phải, lòng bàn tay trái đẩy về phía trước rồi thu lại. Trao đổi tay mượt mà, lòng bàn tay không chạm ống kính.
-Biểu cảm: Nụ cười sáng và tự nhiên ngay từ đầu.
-Ánh mắt: Luôn giao tiếp trực tiếp với camera.
-Điểm rơi: Mỗi lần đẩy tay đạt mức tối đa về phía trước đúng nhịp, hông chuyển cùng lúc.
-
-00:01.10–00:02.20 | Nhịp Điệu Với Tay Đặt Sau Tai:
-Theo sau động tác đẩy tay, cả hai tay di chuyển ra sau tai và hai bên phía sau đầu, khuỷu tay mở tự nhiên. Thân trên thả lỏng, vai nảy nhẹ, hông liên tục lắc trái/phải. Đầu nghiêng nhẹ rồi thẳng lại, tóc đung đưa tự nhiên theo chuyển động của vai.
-Biểu cảm: Nụ cười dịu lại thành vẻ tinh nghịch, tập trung với nụ cười mỉm.
-Ánh mắt: Nhìn vào camera trước, nhìn xuống thoáng qua gần cuối phân khúc.
-
-00:02.20–00:03.40 | Nâng Một Đầu Gối:
-Tay phải giữ sau tai phải, tay trái hạ dọc theo cạnh ngoài cơ thể, dừng trước đùi trái. Trọng lượng ổn định trên chân phải, đầu gối trái nâng lên phía trước/lên trên, mở nhẹ sang trái, tay trái lơ lửng trên đùi đang nâng; sau đó chân trái hạ xuống đất theo cùng đường đi. Hoàn thành chỉ một lần nâng đầu gối liên tục, không đá, không kéo quần áo. Thân trên nghiêng nhẹ để cân bằng.
-Biểu cảm: Môi mím nhẹ, vẻ nghiêm túc tinh nghịch.
-Ánh mắt: Nhìn vào chân trái khi nâng, quay lại camera khi hạ xuống.
-Điểm rơi: Điểm cao nhất của đầu gối chạm nhịp, việc hạ xuống ngay lập tức chuyển tiếp sang cử chỉ tiếp theo.
-
-00:03.40–00:04.40 | Khung Ngón Tay Trước Ngực:
-Chân trái đứng vững, cả hai tay trở về ngực, lòng bàn tay nghiêng về phía camera; ngón cái và ngón trỏ tiến lại gần nhau, tạm thời tạo thành khung tam giác nhỏ. Sau đó tay mở rộng từ giữa sang hai bên, hạ xuống theo vòng cung đến eo. Cơ thể duy trì nhịp điệu trái/phải nhẹ.
-Biểu cảm: Từ nụ cười kiềm chế sang nụ cười rạng rỡ.
-Ánh mắt: Nhìn vào các đầu ngón tay ở trung tâm, nâng mắt lên nhìn trực tiếp camera khi tay mở ra.
-Điểm rơi: Việc khép ngón tay và mở tay tương ứng với các nhịp liên tiếp.
-
-00:04.40–00:07.20 | Tay Thấp, Lắc Hông Liên Tục:
-Khuỷu tay hơi cong, tay thả lỏng thành nắm đấm nhỏ, đặt ở hai bên cơ thể, hơi thấp hơn eo, các đốt ngón tay hướng về phía trước-trong. Giữ tay thấp, dựa vào việc co duỗi đầu gối nhẹ để chuyển trọng lượng trái/phải liên tục, hông đẩy ngắn qua trung tâm rồi đổi bên; vai cân bằng ngược lại nhẹ, cẳng tay nảy tự nhiên theo nhịp. Chân hầu như đứng tại chỗ.
-Biểu cảm: Thả lỏng, nụ cười sáng, má nâng tự nhiên.
-Ánh mắt: Chủ yếu nhìn trực tiếp camera, thỉnh thoảng lệch đi với đầu nghiêng, ngay lập tức quay lại.
-Điểm rơi: Mỗi lần đẩy hông chạm rõ ràng vào nhịp, không có chuyển động chậm, không kéo dài.
-
-00:07.20–00:09.20 | Duy Trì Nhịp Điệu, Giảm Nụ Cười Thoáng Qua:
-Tiếp tục tay thấp và lắc hông trái/phải, biên độ nhất quán với phân khúc trước. Đầu nghiêng nhẹ sang một bên rồi thẳng lại; vai tạo ra những cú nảy tinh tế theo nhịp, cơ thể không di chuyển đáng kể về phía trước/sau.
-Biểu cảm: Nụ cười tự nhiên lùi lại, môi khép nhẹ, tạo thành trạng thái bình tĩnh thoáng qua; sau đó khóe miệng lại nhếch lên.
-Ánh mắt: Nhìn sang bên thoáng qua, quay lại camera, duy trì sự tương tác.
-
-00:09.20–00:11.20 | Nụ Cười Trở Lại, Kết Thúc Tự Nhiên:
-Tiếp tục chuyển trọng lượng trái/phải ban đầu, tay vẫn ở hai bên cơ thể, cổ tay thả lỏng. Đầu nghiêng nhẹ theo nhịp, cuối cùng quay lại phía trước, chuyển động hông giảm tự nhiên.
-Biểu cảm: Để lộ nụ cười rạng rỡ một lần nữa, kết thúc trong trạng thái thư giãn, hạnh phúc.
-Ánh mắt: Nhìn trực tiếp camera.
-Điểm rơi: Tuân theo nhịp điệu cuối cùng của bản nhạc để ổn định tự nhiên, không đóng băng cứng nhắc đột ngột.
-
-[Camera & Cảnh Quan]
-Vị trí cố định điện thoại phía trước, ống kính ở độ cao ngang ngực, hơi hướng lên trên. Cảnh quay trung toàn thân dọc, chụp từ trên đầu đến giữa đùi dưới, giữ không gian cho động tác đẩy tay và nâng đầu gối. Phóng to phối cảnh tự nhiên khi vươn tay về phía trước; camera giữ tĩnh, không zoom, lia, xoay hoặc cắt.
-Cảnh quan là nội thất hiện đại đơn giản: Hai cửa gỗ sẫm màu phía sau nhân vật với tay cầm và bộ đóng cửa màu bạc; tường sáng màu xung quanh và trần nhà trắng, các thiết bị chiếu sáng tròn nhỏ có thể nhìn thấy trên cao. Giữ cảm giác đời thường của nơi ở thực tế hoặc phòng khách sạn.
-Ánh sáng môi trường trong nhà mềm mại chiếu sáng khuôn mặt và cơ thể, độ phơi sáng nền ổn định. Hình ảnh có kết cấu quay bằng smartphone chân thực, giữ lại kết cấu da, sợi tóc và quán tính vải, không có hiệu ứng ánh sáng bổ sung.
-Loại trừ: Hoán đổi khuôn mặt, trôi dạt danh tính, thay đổi kiểu tóc, biến đổi trang phục, mất vớ/kính, thay đổi giày cao gót; nhiều bàn tay/ngón tay, ngón tay dính liền, lòng bàn tay xuyên qua mặt, khớp duỗi quá mức, mất cân bằng khi nâng đầu gối, trượt chân, đá chân hỗn loạn; dịch chuyển hành động tức thì, lắc hông máy móc, lệch nhịp điệu, nụ cười cố định không đổi, ánh mắt trôi dạt, khớp môi bất thường; thay đổi tốc độ âm thanh, lệch bản nhạc, thêm giọng nói/nhạc thừa; chuyển động camera đẩy/kéo, zoom kỹ thuật số, cắt ghép, biến dạng nền, mờ nặng, phụ đề, watermark, logo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111172429682769920/img/5Lz1iR3n_pGv40TU.jpg" width="600" alt="Grok Imagine: Prompt Video Nhảy Đồng Bộ Âm Thanh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12658)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2111172841945129256) | **Published:** Oct 16, 2026
-
----
-### Quy trình video phòng thu nhỏ ổ cắm điện
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Quy trình sử dụng ChatGPT để tạo ba khung hình tĩnh nhất quán về phòng có ổ cắm điện và Grok Imagine để tạo video 10 giây từ các khung hình đó.
-
-#### 📝 Prompt
-
-```
-Ảnh dọc 9:16 siêu thực, cận cảnh tấm ốp ổ cắm điện đôi tiêu chuẩn màu trắng trên tường với họa tiết hoa cổ điển kem nhạt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111050135954444288/img/5lT7UXx_6wOloNBm.jpg" width="600" alt="Quy trình video phòng thu nhỏ ổ cắm điện">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12659)**
-
-**Author:** [xer rexx](https://x.com/rexx_xer82545) | **Source:** [Link](https://x.com/rexx_xer82545/status/2111050341525627391) | **Published:** Oct 16, 2026
-
----
-### Vòng hoa tuyết rơi với bóng đèn kim cương
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt video tạo ra vòng hoa tuyệt đẹp, nơi các bóng đèn lấp lánh như kim cương với tuyết rơi phủ trên đỉnh.
-
-#### 📝 Prompt
-
-```
-Hãy làm cho các bóng đèn tỏa sáng nhẹ nhàng, lấp lánh như kim cương và hoàn thiện toàn bộ vòng hoa. Chỉ cần một tác phẩm nghệ thuật xinh đẹp, lộng lẫy và tinh tế, hãy thực hiện thật đẹp mắt. NFEN hãy thêm hiệu ứng tuyết rơi phủ lên trên cùng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110964155981148160/img/Nl_pHIh_KB8vPnXp.jpg" width="600" alt="Vòng hoa tuyết rơi với bóng đèn kim cương">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12657)**
-
-**Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110964185496711242) | **Published:** Oct 16, 2026
-
----
-### Cây thông Noel truyền thống cổ điển
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video để tạo cây thông Noel đẹp mắt với phong cách truyền thống cổ điển và màu sắc tự nhiên.
-
-#### 📝 Prompt
-
-```
-Hãy làm cho cây thông Noel này trở nên đẹp mắt với bối cảnh truyền thống cổ điển. Màu sắc của cây nên giữ nguyên như bản chất tự nhiên của nó.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110963779651469312/img/eRlyojOUdBaw6Jtc.jpg" width="600" alt="Cây thông Noel truyền thống cổ điển">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12601)**
-
-**Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110964151950680444) | **Published:** Oct 16, 2026
-
----
-### Prompt hoạt cảnh mùa đông
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video để thêm ánh sáng lấp lánh, tuyết rơi và nhạc piano vào một cảnh.
-
-#### 📝 Prompt
-
-```
-Hãy làm cho ánh sáng lấp lánh nhẹ nhàng, bắt đầu có tuyết rơi chậm rãi và thêm một bản nhạc piano du dương tuyệt đẹp.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110963706334982144/img/qRsLoC8qPWKuB1HJ.jpg" width="600" alt="Prompt hoạt cảnh mùa đông">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12655)**
-
-**Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110963774920298591) | **Published:** Oct 16, 2026
-
----
-### Cảnh Chúa Jesus bước xuống từ con lừa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả cảnh Chúa Jesus bước xuống từ lưng lừa, biến thành hình ảnh chân thực và mỉm cười với camera.
-
-#### 📝 Prompt
-
-```
-Hãy để Chúa Jesus bước xuống khỏi con lừa, quay mặt về phía tôi, biến thành hình ảnh chân thực của Chúa Jesus và nở một nụ cười nhẹ hướng thẳng vào camera
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110963024739594240/img/iSljy9Lj9q413D72.jpg" width="600" alt="Cảnh Chúa Jesus bước xuống từ con lừa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12595)**
-
-**Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110963116439683254) | **Published:** Oct 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2927,6 +2895,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-26T04:27:49.323Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-26T15:43:59.553Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3220** |
+| 📝 Total Prompts | **3231** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-26** |
 
@@ -189,6 +189,166 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt d'interaction avec pointeur laser pour chats
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt détaillé pour une vidéo réaliste de deux chats jouant avec un pointeur laser dans un salon.
+
+#### 📝 Prompt
+
+```
+Vidéo verticale cinématographique de 15 secondes au format 9:16, photoréaliste, baignée d'une lumière naturelle chaleureuse. Plan moyen fixe sur le rebord lumineux de la fenêtre d'un salon. Un chat roux tigré au pelage touffu et un chat gris à l'allure élégante sont assis côte à côte, leur fourrure douce et finement détaillée, détendus mais attentifs, tandis que la lumière de l'après-midi entre par la gauche. Soudain, un minuscule point laser rouge apparaît et danse avec espièglerie sur le rebord, juste devant eux. Les yeux du chat roux s'écarquillent : il se tapit et bondit en avant avec ses deux pattes antérieures. Le chat gris se joint immédiatement à lui, frappant le point mobile de coups de patte rapides et précis. Le point laser file à gauche puis à droite, les deux chats le suivent avec une énergie complice et parfaitement synchronisée, la queue frémissante. Le laser disparaît. Les deux chats se redressent et se rassoyent côte à côte, l'air satisfait et légèrement fier, l'un d'eux léchant doucement sa patte. Sons d'ambiance feutrés de la pièce, petits miaulements joueurs, musique douce et entraînante. La vidéo se termine sur les deux chats tranquillement assis ensemble, la lumière chaude caressant leur pelage, dans un rendu net et parfaitement lisible.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114609320792907776/img/e0Bjcny6DJdpAkg1.jpg" width="600" alt="Prompt d'interaction avec pointeur laser pour chats">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13072)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2114609346738798684) | **Published:** Oct 26, 2026
+
+---
+### Séquence de transformation d'exosquelette de science-fiction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique détaillé pour Grok Imagine, représentant une transformation hyper-réaliste de science-fiction, passant d'un désert industriel à une mégapole futuriste avec des améliorations d'exosquelette.
+
+#### 📝 Prompt
+
+```
+Une séquence de transformation sci-fi cinématographique hyper-réaliste en 8K. Le personnage et son compagnon de l'image source se tiennent dans un wasteland industriel crasseux lorsqu'une soudaine décharge d'énergie quantique jaillit du sol. Le lapin mécanique se disloque violemment en une nuée de nanites chromées liquides qui s'élèvent en tourbillonnant pour fusionner avec la veste de la jeune fille au style chibi. Ses lunettes orange remontent d'elles-mêmes sur son front tandis que ses yeux s'embrasent, révélant des iris cybernétiques d'un cyan néon perçant. Ses vêtements sombres se métamorphosent en temps réel en une exo-combinaison futuriste et profilée, parcourue de circuits à plasma orange pulsants et dotée de matrices télémétriques holographiques lumineuses en forme d'oreilles de lapin. Les ruines industrielles en arrière-plan se transforment à toute vitesse, leurs débris se réassemblant pour former une mégalopole futuriste vertigineuse flottant dans les nuages. Orbite de caméra épique, fluidité à 60 ips, reflets ray-tracés, effets de particules, qualité CGI digne d'un chef-d'œuvre.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114502639149092865/img/ZOwtBmrGkQDpn-xk.jpg" width="600" alt="Séquence de transformation d'exosquelette de science-fiction">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13073)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114503259666964624) | **Published:** Oct 25, 2026
+
+---
+### Prompt d'astronaute de retour sur la Lune
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique décrivant un astronaute et un vaisseau en acier inoxydable retournant sur la Lune, généré avec Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Retour sur la Lune. Un astronaute, un vaisseau en acier inoxydable et la Terre qui pointe à l'horizon : une image tout droit sortie de Grok Imagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114420772751962112/img/fWdSi6d8OfdoQlO-.jpg" width="600" alt="Prompt d'astronaute de retour sur la Lune">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13070)**
+
+**Author:** [Kamil](https://x.com/madebykamil) | **Source:** [Link](https://x.com/madebykamil/status/2114421118475890705) | **Published:** Oct 25, 2026
+
+---
+### Prompt Cinématographique d'Aventurier Fantasy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt détaillé pour une aventurière Fay dans le style artistique Muca avec un éclairage cinématographique.
+
+#### 📝 Prompt
+
+```
+Une femme Fay à la peau claire et aux longs cheveux noirs, vêtue d'une tenue d'aventurière, réalisée dans le style de Muca, composition romantique, héroïque et dramatique, rendu cinématographique, éclairage de l'heure dorée.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114388500350930944/img/gODiL31Lk428JT67.jpg" width="600" alt="Prompt Cinématographique d'Aventurier Fantasy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13071)**
+
+**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2114388513621729595) | **Published:** Oct 25, 2026
+
+---
+### Prompt de vidéo Cyberpunk Chibi Girl Mech Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complet pour générer une vidéo cinématographique verticale montrant une fille chibi se transformant en armure futuriste avec des ailes mécaniques et des effets d'énergie.
+
+#### 📝 Prompt
+
+```
+Ultra-réaliste, transformation 3D de science-fiction cinématographique, format vertical 9:16. Une fille chibi stylée aux immenses cheveux bouclés, portant des lunettes de soleil futuristes surdimensionnées, une tenue streetwear tactique sombre, des chaînes métalliques et d'imposantes bottes, se tient avec assurance dans une ruelle cyberpunk futuriste. Soudain, une énergie bleue lumineuse pulse à travers son corps : ses lunettes se transforment en une visière holographique high-tech, ses cheveux se divisent en milliers de minuscules boucles mécaniques, et sa veste oversize se déploie pour former une exo-armure blindée avancée dotée de plaques métalliques mobiles, d'engrenages rotatifs et de circuits néon lumineux. Son sac à dos s'étend jusqu'à devenir un gigantesque système énergétique robotisé, tandis que ses chaînes se métamorphosent en armes magnétiques flottantes et que des appendices mécaniques se mettent à orbiter autour d'elle. Dans une séquence au ralenti à couper le souffle, chaque détail vestimentaire se transforme fluidement en armure futuriste, sous les étincelles électriques, les nuées de nanobots tourbillonnants et les symboles holographiques qui illuminent la ruelle pluvieuse. Elle prend une ultime pose puissante alors que d'immenses ailes mécaniques se déploient dans son dos, que ses bottes activent des propulseurs incandescents et qu'une onde de choc d'énergie bleue se propage sur le sol. Textures photoréalistes, ingénierie mécanique complexe, animation de transformation fluide, mouvements de caméra dramatiques, éclairage cinématographique, brouillard volumétrique, reflets réalistes, HDR, détails 8K, atmosphère épique de science-fiction, révélation finale époustouflante, aucun plan de coupe pendant la transformation.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114386204359614464/img/F_fkh7OXwcDUv2zI.jpg" width="600" alt="Prompt de vidéo Cyberpunk Chibi Girl Mech Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13075)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114386681466093903) | **Published:** Oct 25, 2026
+
+---
+### Prompt vidéo Grok Imagine : Alien gris niant son identité d'IA
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo créatif mettant en scène un alien gris regardant la caméra et tentant désespérément de convaincre les spectateurs qu'il n'est pas une IA.
+
+#### 📝 Prompt
+
+```
+Un alien gris regarde droit dans l'objectif et tente désespérément de convaincre le spectateur qu'il n'est pas une I.A.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114384720666537984/img/b_d1O0prf5_jYRap.jpg" width="600" alt="Prompt vidéo Grok Imagine : Alien gris niant son identité d'IA">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13074)**
+
+**Author:** [DakaYaro](https://x.com/DakaYaro) | **Source:** [Link](https://x.com/DakaYaro/status/2114384753734635815) | **Published:** Oct 25, 2026
+
+---
+### Vidéo Herbarium As de Coupes Tarot
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt pour générer une vidéo à partir d'une image créée précédemment, représentant un verre à vin rempli d'huile et de roses, évoquant l'As de Coupes du Tarot.
+
+#### 📝 Prompt
+
+```
+Une image encadrée par de somptueuses décorations dorées.
+Un verre à vin flottant sur un fond de ciel bleu limpide, avec une unique colombe blanche volant au loin dans le coin supérieur droit. Le soleil brille directement au-dessus du verre.
+Le verre est rempli à ras bord d'huile minérale, se transformant en un herbier où flottent des fleurs et des pétales de roses blanches, roses et rouges.
+L'huile minérale s'écoule du verre dans quatre directions, formant un sol semblable à un lac où des roses blanches, roses et rouges flottent également çà et là.
+En s'inspirant de la carte de tarot l'As de Coupes, mais sans aucun texte. Veuillez utiliser un format 9:16 🌹
+```
+
+<img src="https://cms-assets.youmind.com/media/1793001452634_6x4gkd_HVeaITTagAAbeJW.jpg" width="600" alt="Vidéo Herbarium As de Coupes Tarot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13080)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2114328317998629016) | **Published:** Oct 25, 2026
+
+---
+### Transformation Android Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique détaillé décrivant la transformation d'une androïde féminine photoréaliste lors d'un salon de robotique, mettant en vedette des animations mécaniques complexes et des effets d'éclairage.
+
+#### 📝 Prompt
+
+```
+Un plan cinématographique d'un photoréalisme pur montrant une sublime androïde lors d'un salon de la robotique haut de gamme. Elle porte de longs cheveux noirs effet mouillé retenus par un ruban noir, possède une peau de porcelaine et laisse apparaître un châssis métallique squelettique en titane poli et en fibre de carbone, parsemé de capteurs optiques bleus luminescents sur le torse, le cou et les bras. Un homme vêtu d'une veste technique noire et portant un tour de cou avec badge se tient tout près, examinant l'articulation de son épaule.
+
+Soudain, elle entame une transformation d'un niveau supérieur. Sa cage thoracique métallique et ses actionneurs spinaux se déplacent et se reconfigurent avec fluidité dans une élégance mécanique d'une précision absolue. Les circuits internes lumineux pulsent tandis que les plaques externes de son châssis se rétractent pour se réassembler en une armure plus fine et plus perfectionnée. Ses cheveux se soulèvent légèrement sous l'effet du champ d'énergie. Ses yeux s'embrasent d'une intense lumière cyan à mesure que la transformation s'accélère : les actionneurs des épaules se verrouillent, les segments de la colonne vertébrale coulissent comme un télescope et le plastron se replie pour former une carapace high-tech parfaitement lisse. De subtils arcs d'énergie bleue crépitent et dansent sur toute sa silhouette.
+
+Caméra : lent travelling avant cinématographique avec une faible profondeur de champ, débutant sur son visage et la réaction de l'homme, puis glissant autour d'elle jusqu'à l'achèvement de la transformation. Éclairage volumétrique dramatique, lumières de contour bleu froid mêlées aux éclairages pratiques et chaleureux du hall d'exposition. Atmosphère cyberpunk de science-fiction haut de gamme, mouvements mécaniques ultra-détaillés, interaction réaliste entre le métal et la peau, aucun rendu cartoon ou plastique. 4K, lens flare anamorphique, léger grain de pellicule.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114174145147625472/img/s8YjgyosgkPzpllI.jpg" width="600" alt="Transformation Android Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13078)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114174289935266288) | **Published:** Oct 25, 2026
+
+---
 ### Jeu de billes sur la plage Galaxy Marbles
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -325,6 +485,27 @@ Créez une vidéo comique en prises de vues réelles ultra-réalistes au format 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13020)**
 
 **Author:** [Blairy](https://x.com/Blair_54q0) | **Source:** [Link](https://x.com/Blair_54q0/status/2114013121383944593) | **Published:** Oct 24, 2026
+
+---
+### Transformation d'une Guerrière en Armure Nanotechnologique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour une vidéo de science-fiction cinématographique montrant une guerrière se transformant en une armure nanotechnologique avancée inspirée des Transformers.
+
+#### 📝 Prompt
+
+```
+Transformation de science-fiction ultra-réaliste et cinématographique inspirée de l'image de référence. Une mystérieuse guerrière vêtue d'une tenue tactique noire se tient debout à l'intérieur d'une installation futuriste abandonnée, une arme mécanique massive entre les mains. Soudain, des impulsions d'énergie bleue lumineuse traversent son armure tandis que des centaines de minuscules composants robotiques se détachent, pivotent et s'assemblent autour de son corps. Des plaques d'armure issues d'une nanotechnologie avancée émergent de ses bottes et de ses jambes, se verrouillant mécaniquement en place avant que des éléments d'exosquelette en titane profilé ne viennent s'articuler autour de sa taille, de son torse, de ses épaules et de ses bras. Ses gants se métamorphosent en puissants gantelets robotiques, des épaulières métalliques se déploient avec une précision hydraulique, et un casque futuriste prend forme à partir de nanobots en métal liquide avant de se rétracter pour dévoiler son visage. Son arme colossale se désassemble en pièces mécaniques flottantes qui fusionnent parfaitement avec son bras droit pour former un redoutable canon de science-fiction. Elle fait un pas lourd vers l'avant : des lignes d'énergie bleue illuminent son armure intégrale, des jets de vapeur jaillissent du sol et ses yeux brillent d'un bleu électrique. La séquence s'achève sur un plan héroïque spectaculaire en contre-plongée alors qu'elle lève son bras blindé, que les lasers de ciblage s'activent et que l'ensemble de l'installation s'illumine derrière elle.
+
+Style visuel : CGI 3D photoréaliste, ingénierie mécanique de nouvelle génération inspirée de Transformers, engrenages mobiles complexes, reflets métalliques réalistes, effets de particules de nanobots, pistons hydrauliques, éclairage volumétrique cinématographique, atmosphère industrielle sombre, détails en 8K, mouvements de caméra dynamiques, impacts de basses puissants, transitions mécaniques fluides, aucun effet cartoon, aucune scène gore, aucun texte, aucun filigrane.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113996176509067264/img/9JOWLaZexZDxbwaU.jpg" width="600" alt="Transformation d'une Guerrière en Armure Nanotechnologique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13079)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113996312274485480) | **Published:** Oct 24, 2026
 
 ---
 ### Modification d'arrière-plan de scène de concert
@@ -1131,6 +1312,38 @@ Plan 2 (00:06 - 00:12)
 **Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2113835372463472982) | **Published:** Oct 24, 2026
 
 ---
+### Prompt Grok Imagine : Elon Musk DJ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour une prise de vue cinématographique d'Elon Musk en train de mixer dans une usine Tesla, entouré par des robots Optimus.
+
+#### 📝 Prompt
+
+```
+Plan cinématographique d'Elon Musk mixant comme DJ dans une immense usine Tesla, de nuit. Il se tient derrière une table de mixage professionnelle et des platines vinyles, vêtu d'un blouson aviateur marron et d'un t-shirt noir, un casque audio autour du cou. Il regarde l'objectif avec un léger sourire confiant tout en pointant du doigt le bouton play lumineux de la console. Derrière lui, des centaines de robots humanoïdes Tesla Optimus se tiennent parfaitement immobiles, en formation, remplissant ce vaste entrepôt industriel. Un gigantesque logo Tesla illuminé brille au loin en arrière-plan. Des faisceaux de projecteurs dorés dramatiques percent l'air brumeux et se reflètent sur le sol poli de l'usine. Éclairage cinématographique, ultra-réaliste, 8K, faible profondeur de champ, échelle épique.
+
+Suggestions de mouvement / caméra :
+- Lent travelling avant vers Elon alors qu'il déplace son doigt sur la table de mixage
+- Mouvement de tête subtil et léger sourire d'Elon
+- Faisceaux lumineux doux se déplaçant lentement
+- Micro-mouvements d'attente très discrets des robots
+- Léger balayage de la caméra de gauche à droite pour un rendu cinématographique
+
+Version alternative plus courte :
+Elon Musk mixant comme DJ devant une armée de robots Tesla Optimus à l'intérieur d'une gigantesque usine Tesla lumineuse, projecteurs dorés dramatiques, cinématographique, ultra-réaliste
+
+Prompt négatif :
+flou, visage déformé, doigts supplémentaires, robots difformes, dessin animé, basse qualité, filigrane
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113673455094890496/img/KiDWENrcslEY4xbQ.jpg" width="600" alt="Prompt Grok Imagine : Elon Musk DJ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13076)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113673574376509757) | **Published:** Oct 23, 2026
+
+---
 ### Portrait Cinématographique : Arrêt de Tramway sous la Pluie Nocturne
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1224,6 +1437,25 @@ Inventez une stratégie de day trading et faites-la enseigner par un gnome à sa
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12961)**
 
 **Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **Published:** Oct 23, 2026
+
+---
+### Prompt d'avertissement par un cri effrayant
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une scène vidéo où un personnage pousse un cri d'avertissement concernant la fin de son histoire et l'arrivée d'une Nouvelle Terre.
+
+#### 📝 Prompt
+
+```
+Son cri, un mélange des 4 hurlements les plus terrifiants superposés en un seul. Elle crie pour porter son avertissement jusqu'aux mains lourdes du contrôle. Leur histoire touche à sa fin et la Nouvelle Terre arrive.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113387387325698048/img/uZkiITFKWqnrp76D.jpg" width="600" alt="Prompt d'avertissement par un cri effrayant">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13077)**
+
+**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2113387506821681386) | **Published:** Oct 22, 2026
 
 ---
 ### Prompt Vidéo : Panne de Courant sur le Toit
@@ -2594,270 +2826,6 @@ La vidéo commence à partir de la frame définie par l'image de première frame
 **Author:** [もっしぃ（野原 生好）](https://x.com/Mosshy) | **Source:** [Link](https://x.com/Mosshy/status/2111209020271026684) | **Published:** Oct 16, 2026
 
 ---
-### Vidéo du lancement de Starship depuis la Lune
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt vidéo montrant Starship décollant de la Lune à l'aide de propulseurs à gaz froid, en référence à une image d'entrée.
-
-#### 📝 Prompt
-
-```
-Starship @Image1 décolle de la surface de la Lune à l'aide de propulseurs à gaz froid
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111195673714417664/img/FyLTcyzJGts4Rm6n.jpg" width="600" alt="Vidéo du lancement de Starship depuis la Lune">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12649)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111195978967744532) | **Published:** Oct 16, 2026
-
----
-### Vidéo de lévitation de la Tesla Roadster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour une vidéo de 10 secondes en 720p montrant une Tesla Roadster en lévitation grâce à des propulseurs à gaz froid, effectuant une rotation et atterrissant avec des effets de fumée.
-
-#### 📝 Prompt
-
-```
-Vidéo de 10 s en 720p de cette Tesla Roadster actionnant ses propulseurs à gaz froid pour se maintenir en lévitation, effectuant une rotation circulaire avant de se poser doucement au sol, tandis que le panache de fumée est dispersé par les phares à haute intensité.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111182229841813504/img/lM8nyhf1lg776rlj.jpg" width="600" alt="Vidéo de lévitation de la Tesla Roadster">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12651)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111182254646886773) | **Published:** Oct 16, 2026
-
----
-### Prompt de danse Kizomba pour Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo intime de 15 secondes d'une danse kizomba avec étreinte rapprochée et front contre front.
-
-#### 📝 Prompt
-
-```
-Extrait de 15 secondes d'une kizomba intimiste. Un couple enlacé très étroitement, les pieds bougeant à peine.
-
-Intimité pure : remarquez les fronts qui se touchent presque sans cesse. Ce transfert d'énergie si intime.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111180572626190336/img/xZM6qVfCumNMN63F.jpg" width="600" alt="Prompt de danse Kizomba pour Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12862)**
-
-**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2111180601797800160) | **Published:** Oct 16, 2026
-
----
-### Marchés techno cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de mouvement de caméra dynamique plongeant dans des marchés techno cyberpunk avec des voitures volantes.
-
-#### 📝 Prompt
-
-```
-Zoom avant, les voitures volantes passent en trombe, la caméra plonge dans les marchés techno comme un drone, ambiance cyberpunk
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111177341326008321/img/VmPHs-Y5R4AHQSW0.jpg" width="600" alt="Marchés techno cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12650)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111177371919569183) | **Published:** Oct 16, 2026
-
----
-### Transformation diurne d'une ville de science-fiction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour transformer un paysage urbain de science-fiction futuriste, passant de la nuit au jour, avec un ciel bleu vif parsemé de nuages et une lumière ajustée à la clarté naturelle du jour.
-
-#### 📝 Prompt
-
-```
-Transformez ce paysage urbain futuriste de science-fiction en une scène lumineuse de plein jour. Remplacez le ciel nocturne sombre et nuageux par un ciel bleu clair et vif, parsemé de doux nuages blancs et baigné d'un fort ensoleillement. Ajustez l'éclairage pour reproduire la lumière naturelle du jour, avec des rayons de soleil dorés et chauds qui illumina...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111177072907280385/img/CP0nL1ndM4MpY2SK.jpg" width="600" alt="Transformation diurne d'une ville de science-fiction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12653)**
-
-**Author:** [Owen](https://x.com/owenxplore) | **Source:** [Link](https://x.com/owenxplore/status/2111177086643671238) | **Published:** Oct 16, 2026
-
----
-### Prompt de Vidéo de Danse Grok Imagine avec Synchronisation Audio
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt détaillé pour générer une courte vidéo de danse réaliste avec Grok Imagine. Il spécifie la cohérence du personnage, les vêtements, les accessoires et une chorégraphie précise synchronisée sur un fichier audio téléchargé. Le prompt inclut des paramètres techniques tels que la durée (11,2 s), le format d'image (9:16) et le comportement de la caméra (plan fixe).
-
-#### 📝 Prompt
-
-```
-Vidéo courte de danse en prise de vue réelle (live-action), style réaliste. Le personnage utilise tout au long de la séquence le visage, la coiffure, la morphologie et les traits identitaires du Personnage #1 prédéfini. Le Personnage #1 est un adulte. Il porte uniquement la tenue prédéfinie, conserve des traits faciaux délicats, porte des lunettes décoratives et des talons hauts violet foncé. L'identité, la coiffure, la morphologie, la tenue et tous les accessoires restent cohérents.
-
-Durée totale : 11,20 secondes, écran vertical 9:16, 30 fps, plan-séquence unique et continu. Le personnage est centré, face à la caméra, mouvements légers, ludiques, sourire naturel. Exécutez strictement la séquence de danse suivante sans ajouter de nouveaux mouvements ni prolonger les temps de préparation ou de maintien.
-
-[Verrouillage Audio]
-Utilisez le fichier téléchargé "lumiraexo_on_Reels_audio only.mp4" comme seule voix off et piste sonore, démarrant en synchronisation à 00:00. Conservez les voix originales, la musique, le rythme, le ton, la vitesse et les pauses ; pas de redoublage, de changement de hauteur ou d'ajout de musique/dialogue. La piste se termine à ~11,17 s, laissant ~0,03 s de silence naturel.
-Les rotations du corps, poussées de paumes, levées de genoux et gestes des mains suivent le rythme réel de cet audio ; ne définissez pas de BPM conflictuel. Maintenez un sourire et une respiration naturels ; n'ajoutez pas de discours visible avec synchronisation labiale évidente.
-
-[Actions, Expressions et Regards par Segment]
-00:00–00:01,10 | Poussée Alternée de Paume :
-Jambes naturellement écartées, genoux détendus, hanches déplaçant le poids gauche/droite sur le rythme. Main gauche derrière l'oreille gauche, coude gauche ouvert vers l'extérieur ; bras droit tendu vers la caméra, doigts écartés, paume vers l'avant, formant un geste clair de "stop". Puis la main droite revient près de l'oreille droite, la paume gauche pousse vers l'avant, puis se rétracte. Échange fluide des mains, les paumes ne touchent pas l'objectif.
-Expression : Sourire lumineux et naturel dès le début.
-Regard : Contact visuel direct constant avec la caméra.
-Atterrissage : Chaque poussée de paume atteint son extension maximale avant sur le rythme, les hanches se déplacent simultanément.
-
-00:01,10–00:02,20 | Rythme Mains Derrière les Oreilles :
-Après la poussée de paume, les deux mains se placent derrière les oreilles et les côtés arrière de la tête, coudes ouverts naturellement. Torse détendu, épaules légèrement rebondissantes, hanches balançant continuellement gauche/droite. La tête s'incline doucement puis se redresse, les cheveux ondulent naturellement avec le mouvement des épaules.
-Expression : Le sourire s'adoucit en un léger sourire joueur et concentré.
-Regard : Regarde la caméra d'abord, jette brièvement un coup d'œil vers le bas à la fin du segment.
-
-00:02,20–00:03,40 | Levée de Genou Unique :
-La main droite reste derrière l'oreille droite, la main gauche descend le long du côté extérieur du corps, s'arrête devant la cuisse gauche. Poids stable sur la jambe droite, le genou gauche se lève vers l'avant/le haut, s'ouvre légèrement vers la gauche, la main gauche plane au-dessus de la cuisse levée ; puis la jambe gauche retourne au sol par le même chemin. Effectuez une seule levée de genou continue, pas de coup de pied, pas de tiraillement de vêtements. Le torse s'incline légèrement pour l'équilibre.
-Expression : Léger serrement des lèvres, sérieux joueur.
-Regard : Regarde la jambe gauche pendant la levée, revient à la caméra à l'atterrissage.
-Atterrissage : Le point le plus haut du genou touche le rythme, l'atterrissage transitionne immédiatement vers le geste suivant.
-
-00:03,40–00:04,40 | Cadre des Doigts sur la Poitrine :
-Pied gauche posé, les deux mains reviennent sur la poitrine, paumes inclinées vers la caméra ; pouce et index se rapprochent, formant brièvement un petit cadre triangulaire. Puis les mains s'écartent du centre vers les côtés, descendent en arc jusqu'à la taille. Le corps maintient un léger rythme gauche/droite.
-Expression : Du sourire retenu au sourire lumineux.
-Regard : Regarde les bouts des doigts centraux, relève les yeux vers la vue directe de la caméra lorsque les mains s'ouvrent.
-Atterrissage : La fermeture des bouts des doigts et l'ouverture des mains correspondent aux rythmes consécutifs.
-
-00:04,40–00:07,20 | Mains Basses, Balancement Continu des Hanches :
-Coudes légèrement pliés, mains détendues en petits poings, positionnées sur les côtés du corps, légèrement sous la taille, phalanges faisant face à l'intérieur-avant. Gardez les mains basses, comptez sur une légère flexion/extension des genoux pour des déplacements continus du poids gauche/droite, les hanches poussent brièvement à travers le centre puis changent de côté ; les épaules contrebalancent légèrement, les avant-bras rebondissent naturellement avec le rythme. Les pieds restent principalement en place.
-Expression : Détendue, sourire lumineux, joues naturellement relevées.
-Regard : Principalement direct vers la caméra, occasionnellement décalé avec une inclinaison de la tête, revenant immédiatement.
-Atterrissage : Chaque poussée de hanche touche clairement le rythme, pas de ralenti, pas de traînée.
-
-00:07,20–00:09,20 | Maintenir le Rythme, Réduction Brève du Sourire :
-Continuez les mains basses et le balancement gauche/droite des hanches, amplitude cohérente avec le segment précédent. La tête s'incline doucement d'un côté puis se redresse ; les épaules produisent de fins rebonds avec le rythme, le corps ne se déplace pas significativement vers l'avant/arrière.
-Expression : Le sourire recule naturellement, les lèvres se ferment légèrement, formant un bref état calme ; puis les coins de la bouche se relèvent à nouveau.
-Regard : Jette brièvement un coup d'œil de côté, revient à la caméra, maintenant l'interaction.
-
-00:09,20–00:11,20 | Retour du Sourire, Fin Naturelle :
-Continuez les déplacements originaux du poids gauche/droite, les mains restent sur les côtés du corps, poignets détendus. La tête s'incline légèrement avec le rythme, revenant finalement à l'avant, les mouvements des hanches diminuent naturellement.
-Expression : Révèle à nouveau un sourire lumineux, finissant dans un état détendu et heureux.
-Regard : Direct vers la caméra.
-Atterrissage : Suit le rythme final de la piste pour s'installer naturellement, pas de gel rigide soudain.
-
-[Caméra & Scène]
-Position fixe de la caméra frontale du téléphone, objectif à environ la hauteur de la poitrine, légèrement vers le haut. Plan moyen-vertical capturant du dessus de la tête au milieu des cuisses inférieures, préservant l'espace pour la poussée de paume et la levée de genou. Agrandissement perspective naturel lors de l'extension vers l'avant ; la caméra reste statique, pas de zoom, panoramique, rotation ou coupe.
-La scène est un intérieur moderne simple : Deux portes en bois sombre derrière le personnage avec poignées argentées et ferme-portes ; murs clairs environnants et plafond blanc, petits luminaires circulaires visibles au-dessus. Conservez la sensation quotidienne d'une résidence réelle ou d'une chambre d'hôtel.
-Un éclairage ambiant doux d'intérieur illumine le visage et le corps, exposition de fond stable. L'image a une texture authentique de tournage smartphone, conservant la texture de la peau, les mèches de cheveux et l'inertie du tissu, pas d'effets lumineux supplémentaires.
-Exclure : Échange de visage, dérive d'identité, changement de coiffure, variation de tenue, disparition des bas/lunettes, changements de talons ; plusieurs mains/doigts, doigts fusionnés, paume à travers le visage, hyperextension articulaire, déséquilibre de levée de genou, glissement de pied, coups de pied chaotiques ; téléportation d'action, balancements mécaniques des hanches, désalignement du rythme, sourires fixes inchangés, dérive du regard, synchronisation labiale anormale ; changements de vitesse audio, désalignement de piste, voix off/musique supplémentaires ; mouvements de caméra push/pull, zoom numérique, coupures, déformation du fond, flou sévère, sous-titres, filigranes, logos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111172429682769920/img/5Lz1iR3n_pGv40TU.jpg" width="600" alt="Prompt de Vidéo de Danse Grok Imagine avec Synchronisation Audio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12658)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2111172841945129256) | **Published:** Oct 16, 2026
-
----
-### Flux de travail vidéo pour miniature de pièce avec prise électrique
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un flux de travail utilisant ChatGPT pour générer trois images statiques cohérentes d'une pièce avec prise électrique, puis Grok Imagine pour créer une vidéo de 10 secondes à partir de ces images.
-
-#### 📝 Prompt
-
-```
-Photo réaliste verticale au format 9:16, gros plan sur un cache-plaque blanc standard à double prise électrique fixé sur un mur orné de motifs floraux vintage crème doux
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111050135954444288/img/5lT7UXx_6wOloNBm.jpg" width="600" alt="Flux de travail vidéo pour miniature de pièce avec prise électrique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12659)**
-
-**Author:** [xer rexx](https://x.com/rexx_xer82545) | **Source:** [Link](https://x.com/rexx_xer82545/status/2111050341525627391) | **Published:** Oct 16, 2026
-
----
-### Couronne de Bulbes Diamant avec Chute de Neige
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo créant une magnifique couronne où les bulbes scintillent comme des diamants sous la neige.
-
-#### 📝 Prompt
-
-```
-Faites que les bulbes brillent doucement, scintillent comme des diamants et créez l'ensemble de la couronne. Juste une pièce d'art belle, luxueuse et magnifique, faites-la avec élégance. NFEN ajoutez la chute de neige sur le dessus.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110964155981148160/img/Nl_pHIh_KB8vPnXp.jpg" width="600" alt="Couronne de Bulbes Diamant avec Chute de Neige">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12657)**
-
-**Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110964185496711242) | **Published:** Oct 16, 2026
-
----
-### Sapin de Noël traditionnel et sobre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo pour sublimer un sapin de Noël avec une décoration traditionnelle et sobre, aux couleurs naturelles.
-
-#### 📝 Prompt
-
-```
-Rendez ce sapin de Noël magnifique avec une décoration traditionnelle et sobre. Les couleurs du sapin doivent rester naturelles et fidèles à la réalité.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110963779651469312/img/eRlyojOUdBaw6Jtc.jpg" width="600" alt="Sapin de Noël traditionnel et sobre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12601)**
-
-**Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110964151950680444) | **Published:** Oct 16, 2026
-
----
-### Prompt d'animation de scène hivernale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt vidéo pour ajouter des lumières scintillantes, une chute de neige et une musique de piano à une scène.
-
-#### 📝 Prompt
-
-```
-Faites que les lumières scintillent doucement, laissez la neige commencer lentement à tomber et ajoutez une belle musique de piano.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110963706334982144/img/qRsLoC8qPWKuB1HJ.jpg" width="600" alt="Prompt d'animation de scène hivernale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12655)**
-
-**Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110963774920298591) | **Published:** Oct 16, 2026
-
----
-### Scène de Jésus descendant de l'âne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une description de prompt illustrant Jésus descendant d'un âne, se transformant en une figure réaliste et souriant à la caméra.
-
-#### 📝 Prompt
-
-```
-Jésus descend de l'âne, se tourne vers moi, prend une apparence humaine réaliste et adresse un léger sourire directement à la caméra
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110963024739594240/img/iSljy9Lj9q413D72.jpg" width="600" alt="Scène de Jésus descendant de l'âne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12595)**
-
-**Author:** [king miller](https://x.com/kingmiller685) | **Source:** [Link](https://x.com/kingmiller685/status/2110963116439683254) | **Published:** Oct 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2919,6 +2887,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-26T04:27:54.369Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-26T15:44:02.355Z</sub>
 
 </div>
