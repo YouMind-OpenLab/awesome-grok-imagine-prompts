@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3231** |
+| 📝 提示词总数 | **3239** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-10-27** |
 
@@ -189,6 +189,134 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 拟人化警匪搭档电影剧照提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的详细视频/图像提示词，用于创作 1987 年风格的警匪搭档场景，展现雨夜霓虹警局中的拟人化动物角色。
+
+#### 📝 提示词
+
+```
+风格：1987 年搭档警匪片剧照，照片级写实拟人动物，雨夜霓虹警局，百叶窗光影，粉青双色霓虹，暖色台灯，35mm 胶片颗粒感，无文字
+
+1 · 身穿灯芯绒西装的老巴吉度猎犬抱着一个箱子：“我老得干不动这活儿了。”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114968452397981696/img/3KAvfbOYqeaC8fuZ.jpg" width="600" alt="拟人化警匪搭档电影剧照提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13123)**
+
+**作者:** [Nora Vale](https://x.com/NoravaleAI) | **来源:** [Link](https://x.com/NoravaleAI/status/2114969055740256340) | **发布时间:** Oct 27, 2026
+
+---
+### AI Q版变身视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 生成顶级 AI Q版角色变身视频的详细提示词结构。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段进阶变身视频，展现一个 AI Q版角色经历多个阶段的高级形态进化。
+
+[主体与关系]
+核心主体为单个 AI Q版角色：一个可爱的大头 Q版形象，身上带有发光的数字电路纹路、柔软圆润的四肢，以及一颗脉动着能量的 AI 核心。画面中不出现其他角色。
+
+[事件脚本]
+开场：AI Q版角色静静伫立在柔和的霓虹虚空中，身形小巧可爱，体表浮现出简单的发光线条。
+主要事件：它开始进行进阶变身——首先，流线型的金属装甲板覆盖全身，全息双翼随之展开，数字代码流在它周围环绕飞舞；接着，它的体型略微变大，晶体能量碎片汇聚成充满力量的四肢，一顶璀璨的 AI 王冠显现于头顶；最后，完成全面的机械融合，粒子轨迹与光束喷薄而出，达成终极形态。
+结尾：完成进阶变身的 AI Q版角色如英雄般屹立，周身散发着强烈的能量光环，电路光芒闪耀，双翼完全展开。
+
+[保持一致性]
+始终保持单一 AI Q版角色的身份、Q版比例以及连贯的变身进程，不添加任何额外角色或突兀的变化。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114950818344439808/img/oEVJcstUCgyjGtaJ.jpg" width="600" alt="AI Q版变身视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13124)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2114951756870250843) | **发布时间:** Oct 27, 2026
+
+---
+### 赛博朋克变身视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 生成大都市夜景中逼真赛博朋克变身视频的详细提示词。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段纯写实、照片级真实的视频，展现密集巨型都市夜景中上演的次世代科幻赛博朋克变身过程。
+
+[事件脚本]
+开场时，细雨绵绵，被雨水打湿的霓虹街道与高耸的玻璃大厦倒映着全息广告和激光网格，普通行人与车辆在潮湿的柏油路面上穿行。一个孤独的身影步入开阔广场，变身系统随即启动：纳米粒子流从地面升腾而起，如瀑布般倾泻覆盖全身；衣物蜕变为层层叠叠的自适应装甲，表面流转着发光的电路纹路与活性金属甲板；机械义肢与脊柱植入体以精准的机械动作伸展并锁定到位；面部结构随之重塑，化作强化型电子眼与流线型颅骨接口。与此同时，周围的基础设施也同步发生异变——路灯延展为数据塔柱，广告牌碎裂成自由悬浮的全息立体影像，车辆重组为低空悬浮的赛博载具，尾部喷口外露、拖曳着流光轨迹，建筑外墙层层剥开，露出内部巨大的发光管道与霓虹交织的垂直花园。附近的其他身影也同步进行局部变身，四肢与躯干覆上相似的装甲板与光轨，同时保持自然的人体比例。结尾处，完成全部变身的核心人物伫立于彻底进化的赛博朋克世界之中，雨滴继续洒落在反光表面上，全息城市系统全面上线，残余的纳米粒子缓缓沉降，融为环境中的微光。
+
+[保持一致性]
+保持纯照片级真实渲染，精准呈现湿润金属与玻璃的材质反射，还原自然的雨水物理效果，确保变身过程中人体比例始终一致，维持青-品红-琥珀的稳定霓虹色调，并保持连贯的夜间光照，不添加任何风格化或卡通效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114883706259460096/img/HznffzwKdvVg3LYQ.jpg" width="600" alt="赛博朋克变身视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13121)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2114883782545489945) | **发布时间:** Oct 27, 2026
+
+---
+### 阳光海湾海滩场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的风景视频提示词，包含灯塔、城堡、拖船、海豚和玛瑙。
+
+#### 📝 提示词
+
+```
+阳光明媚的海湾沙滩，一侧岬角矗立着灯塔，另一侧岬角坐落着城堡，海中有一艘黄色拖船，两只海豚跃出海面，一条红丝带从天而降飘落在沙滩上，沙地上散落着蓝色玛瑙
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114812002468270080/img/ayAXF9nHbyCSNYs5.jpg" width="600" alt="阳光海湾海滩场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13120)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2114812099801325687) | **发布时间:** Oct 26, 2026
+
+---
+### Logic 与 Magic Eurodance MV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 生成的 2000 年代 Eurodance 音乐视频详细场景描述，采用分屏呈现“理性与感性”主题。
+
+#### 📝 提示词
+
+```
+我的理智说不。
+我的心说行。
+于是我把屏幕一分为二，各分一半。
+
+《LOGIC AND THE MAGIC》：
+我的新歌，一支 2000 年代 Eurodance 风格的 MV——连 HUD 界面都在亲自站队。
+
+• 左半边是 HEAD（理智），冷调青色，计算着风险
+• 右半边是 HEART（心），热辣粉色，数着心跳
+• 一根指针在 NO 与 YES 之间摇摆，贯穿整首歌
+• 当她唱出“no”，NO 就狠狠砸上屏幕；当她唱出“yes”，YES 便拿下胜利
+
+LUMI 拉着一把发光的白色小提琴，从线框构成的虚空走进人声鼎沸的夜店，又飘向粉色的天空；当 drop 落下，网格瞬间碎裂成漫天玫瑰花瓣。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114710323387383808/img/-KwJS278J28v9jON.jpg" width="600" alt="Logic 与 Magic Eurodance MV">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13119)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2114756440200003874) | **发布时间:** Oct 26, 2026
+
+---
 ### 猫咪激光笔互动提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +353,44 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13073)**
 
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2114503259666964624) | **发布时间:** Oct 25, 2026
+
+---
+### Spock Squirrel 歌曲视频提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段为 Grok Imagine 打造的超现实视频生成提示词，内容包含 Mr. Spock 演唱《Space Cowboy》以及一只松鼠演唱《I Believe I Can Fly》。
+
+#### 📝 提示词
+
+```
+添加 Making Art Great Again，画面中 Spock 先生唱着太空牛仔之歌，松鼠说着“我相信我能飞”，尽情发挥你的 Eye Imaga Nation 吧
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114500239390302208/img/wANHTQI0leC2nfXT.jpg" width="600" alt="Spock Squirrel 歌曲视频提示">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13118)**
+
+**作者:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmasQuirrel) | **来源:** [Link](https://x.com/KarmasQuirrel/status/2114500250589180143) | **发布时间:** Oct 25, 2026
+
+---
+### Grok Imagine 视频提示词：海滩情侣场景设置
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 图生视频功能指定参数（720p，6 秒）及内容（写实风格的海滩情侣）的提示词。
+
+#### 📝 提示词
+
+```
+请根据提供的图片，使用以下提示词为我生成一段新视频：“Realistic couple on a beach soft waves behind them”，并采用以下设置：720p、6s。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114497398277836800/img/AXVQqvTE7JVybGsx.jpg" width="600" alt="Grok Imagine 视频提示词：海滩情侣场景设置">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13117)**
+
+**作者:** [Tim Bevins](https://x.com/TimBevinsedyo) | **来源:** [Link](https://x.com/TimBevinsedyo/status/2114497432566251900) | **发布时间:** Oct 25, 2026
 
 ---
 ### 重返月球宇航员提示词
@@ -611,6 +777,25 @@ Grok！能不能帮我把这个做成动画，效果再酷炫一点？最好是�
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13012)**
 
 **作者:** [Alan Gooding](https://x.com/empoweredathome) | **来源:** [Link](https://x.com/empoweredathome/status/2113932768501772425) | **发布时间:** Oct 24, 2026
+
+---
+### Grok Imagine：火星上的晨间咖啡
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影感视频提示词，描述在火星上享用晨间咖啡的场景，具有独特的光影效果。
+
+#### 📝 提示词
+
+```
+火星上的晨间咖啡。当整座城市在脚下静候苏醒，连光线都变得与众不同。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113925387034013696/img/XdJePsOVzW76oDd_.jpg" width="600" alt="Grok Imagine：火星上的晨间咖啡">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13122)**
+
+**作者:** [SophieZX](https://x.com/Z_XSophie) | **来源:** [Link](https://x.com/Z_XSophie/status/2113925565459689499) | **发布时间:** Oct 24, 2026
 
 ---
 ### 僵尸和服糖果派对
@@ -2676,159 +2861,6 @@ CLAUDIA × SI — 白色 Tesla Roadster 🤍🚀
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2111523923150205138) | **发布时间:** Oct 17, 2026
 
 ---
-### 照片亭条带拼贴
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用 Grok Imagine 根据四张附加照片创建经典照片亭条带拼贴的提示词。
-
-#### 📝 提示词
-
-```
-在竖版画布上创建经典的照片亭条带拼贴。将四张附加照片排列成一条垂直的照片亭条带：四个高度相等的矩形单元格上下堆叠，填满整个高度和宽度……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111388481515622400/img/D_n1NPDXvPAPTDE8.jpg" width="600" alt="照片亭条带拼贴">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12707)**
-
-**作者:** [Christian Thormann Andersen](https://x.com/cleancane) | **来源:** [Link](https://x.com/cleancane/status/2111388492794065184) | **发布时间:** Oct 17, 2026
-
----
-### 螺旋光芒至星辰视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段富有诗意的提示词，描述两束光在黑暗中螺旋舞动，洒落的光芒化作夜空中的繁星。
-
-#### 📝 提示词
-
-```
-在黑暗中，两束光相互环绕螺旋舞动，随着它们的移动，洒落的光芒逐渐化作夜空中的繁星
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111340253776953345/img/b9pe-XzIM6bri4ts.jpg" width="600" alt="螺旋光芒至星辰视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12652)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2111340335054135657) | **发布时间:** Oct 17, 2026
-
----
-### 超验阈限音乐视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成连续超验阈限音乐视频序列的复杂提示词，可视化一个自恋的阈限时主作为时间线的架构师。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一个连续的超验阈限音乐视频序列，将一个失控的自恋型阈限时主可视化为过去与不应存在的未来的增强型超验时间线架构师。主要视觉...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111293085527240704/img/CrZQe-DDm8Rp8e0i.jpg" width="600" alt="超验阈限音乐视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12701)**
-
-**作者:** [AscensionToNull](https://x.com/adeptusnull) | **来源:** [Link](https://x.com/adeptusnull/status/2111293107408957641) | **发布时间:** Oct 17, 2026
-
----
-### 特斯拉 Roadster 对决 F1 摩纳哥
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用图像引用提示，将主体置于特斯拉 Roadster 中，在摩纳哥与一级方程式赛车竞速。
-
-#### 📝 提示词
-
-```
-想象 @Image1 驾驶全新的 Tesla Roadster 火箭车，在摩纳哥 🇲🇨 与一级方程式赛车竞速，并套圈所有其他车辆赢得比赛
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111282735461396480/img/r6ogtt-TzB9HCPeJ.jpg" width="600" alt="特斯拉 Roadster 对决 F1 摩纳哥">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12704)**
-
-**作者:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **来源:** [Link](https://x.com/SuperGeekCRC/status/2111282777387843851) | **发布时间:** Oct 17, 2026
-
----
-### 盖·加德纳超级英雄视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详细的提示词，用于制作以盖·加德纳为主角的真人风格视频，融合《蝙蝠侠：英勇无畏》和《少年正义联盟》中的形象。
-
-#### 📝 提示词
-
-```
-创建一个 6 秒的真人风格视频，主角为写实风格的盖·加德纳（Guy Gardner），结合《蝙蝠侠：英勇无畏》中大胆、壮硕的超级英雄形象与《少年正义联盟》中更锐利、更具运动感的造型。他留着红色短发……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111278956355690496/img/7ReSLGlzNQ8WAa47.jpg" width="600" alt="盖·加德纳超级英雄视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12702)**
-
-**作者:** [Ligma Ballz](https://x.com/LBallz77283) | **来源:** [Link](https://x.com/LBallz77283/status/2111278984818544775) | **发布时间:** Oct 17, 2026
-
----
-### 特斯拉火箭推进器飞行
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段展示特斯拉 Roadster 利用火箭推进器从高速公路起飞的视频提示词。
-
-#### 📝 提示词
-
-```
-特斯拉 Roadster 借助火箭推进器从高速公路腾空而起，在空中飞行的特斯拉
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111271405366988800/img/1AZ7UruZa7ynbxvO.jpg" width="600" alt="特斯拉火箭推进器飞行">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12654)**
-
-**作者:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **来源:** [Link](https://x.com/TIME2064/status/2111271416792224030) | **发布时间:** Oct 17, 2026
-
----
-### Grok Imagine 视频提示词 - 金发女子特写
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 适用于 Grok Imagine 的视频生成提示词，起始画面为一张带有波浪卷发和雀斑的金发女子特定首帧图像。
-
-#### 📝 提示词
-
-```
-视频从附件中的首帧图像开始：一位留着金色长卷发、蓝眼睛、有雀斑的女子特写，她穿着黑色吊带背心，佩戴银色圆形吊坠项链，背景为柔和模糊的绿色与白色……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111227053664026624/img/EUJDKPrS2S-58QJR.jpg" width="600" alt="Grok Imagine 视频提示词 - 金发女子特写">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12698)**
-
-**作者:** [SkyCipher (Sky)](https://x.com/skycipher) | **来源:** [Link](https://x.com/skycipher/status/2111227074375561452) | **发布时间:** Oct 16, 2026
-
----
-### Kawaii Twitch 表情视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的提示词，用于根据照片创建表达不满情绪的可爱风格 Twitch 表情动画。
-
-#### 📝 提示词
-
-```
-基于照片中人物的 Kawaii 风格 Twitch 聊天表情，呈现为可爱的动漫风格面孔。表情：pepe-no - 强烈的否定与不满，皱眉、嘴角下撇，浓眉紧锁，双眼半闭流露拒绝之意，深棕色瞳孔，头部轻微...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111209006060736512/img/MTCKcroTEsG0LVto.jpg" width="600" alt="Kawaii Twitch 表情视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12700)**
-
-**作者:** [もっしぃ（野原 生好）](https://x.com/Mosshy) | **来源:** [Link](https://x.com/Mosshy/status/2111209020271026684) | **发布时间:** Oct 16, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2890,6 +2922,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-27T04:51:36.085Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-27T14:38:09.645Z</sub>
 
 </div>

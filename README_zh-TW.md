@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3231** |
+| 📝 提示詞總數 | **3239** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-10-27** |
 
@@ -189,6 +189,134 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 擬人化搭檔警探電影靜幀提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的詳細影像與影片提示詞，用於生成 1987 年風格的搭檔警探場景，呈現雨夜霓虹燈下的警局與擬人化動物角色。
+
+#### 📝 提示詞
+
+```
+風格：1987 年搭檔警探電影劇照、照片級寫實擬人化動物、雨夜霓虹警局、百葉窗光影、粉紅與青綠霓虹燈、溫暖的檯燈、35mm 底片顆粒感、無文字
+
+1 · 穿著燈芯絨西裝的老巴吉度獵犬抱著一個箱子：「我老了，幹不動這行了。」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114968452397981696/img/3KAvfbOYqeaC8fuZ.jpg" width="600" alt="擬人化搭檔警探電影靜幀提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13123)**
+
+**作者:** [Nora Vale](https://x.com/NoravaleAI) | **來源:** [Link](https://x.com/NoravaleAI/status/2114969055740256340) | **發布時間:** Oct 27, 2026
+
+---
+### AI Chibi 變身影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 生成進階 AI Chibi 角色變身影片的詳細提示詞結構。
+
+#### 📝 提示詞
+
+```
+[生成目標]
+生成一段進階變身影片，呈現 AI Q 版角色經歷多重階段的高階蛻變過程。
+
+[主體與關係]
+核心主體為單一 AI Q 版角色：一個大頭、造型可愛的 Q 版人物，身上帶有發光的數位電路紋路、柔軟圓潤的四肢，以及散發能量脈動的 AI 核心。畫面中不會出現其他角色。
+
+[事件腳本]
+開場：AI Q 版角色靜止佇立在柔和的霓虹虛空之中，身形嬌小可愛，身上僅有簡單的發光線條。
+主要事件：它開始進行下一階段的變身——首先，流線型的金屬裝甲板覆蓋全身，全像投影翅膀隨之展開，數位程式碼光流在四周環繞飛舞；接著，體型略微放大，結晶狀的能量碎片組合成強而有力的四肢，頭頂浮現璀璨的 AI 皇冠；最後，完成全面的生化機械融合，粒子軌跡與光束四射迸發，達到最終型態。
+結尾：完全變身的進階 AI Q 版角色以英雄般的姿態挺立，周身散發強烈的能量光暈，電路光芒耀眼，雙翼完全展開。
+
+[保持一致性]
+請維持單一 AI Q 版角色的身分、Q 版比例，以及連貫的變身進程，不要新增其他角色或出現突兀的變化。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114950818344439808/img/oEVJcstUCgyjGtaJ.jpg" width="600" alt="AI Chibi 變身影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13124)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2114951756870250843) | **發布時間:** Oct 27, 2026
+
+---
+### 賽博龐克風格變身影片提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 生成大都會夜景中寫實風格賽博龐克變身影片的詳細提示詞
+
+#### 📝 提示詞
+
+```
+[生成目標]
+生成一段純寫實、照片級逼真的影片，呈現次世代科幻電馭叛客（cyberpunk）變身過程在密集巨型城市夜景中展開的畫面。
+
+[事件腳本]
+開場時，被雨水打濕的霓虹街道與高聳的玻璃帷幕大樓，在綿綿細雨中反射著全息廣告與雷射光網，一般行人與車輛穿梭於潮濕的柏油路面上。一名孤獨的身影步入空曠廣場，此時變身系統啟動：奈米機械流自地面升起並如瀑布般覆蓋全身；衣物蛻變為多層自適應裝甲，表面佈滿發光電路線與活性金屬護板；機械肢體與脊椎植入物以精準的機械動作伸展並鎖定定位；臉部特徵則重組為強化的電子義眼與流線型頭部介面。周圍的基礎設施也同步轉變——路燈延伸成數據塔柱，廣告看板碎裂成自由漂浮的全息立體影像，車輛重新組裝為低空懸浮的電馭運輸載具，外露推進器並拖曳著光軌，建築外牆則向外掀開，露出巨大的發光管線與霓虹垂直花園。附近的其他人物也同步進行局部變身，四肢與軀幹長出類似的裝甲護板與光軌，同時維持正常的人體比例。結尾時，完成變身的中央主角佇立於全面進化的電馭叛客環境中，雨水持續落在反光表面上，全息城市系統全面上線運作，殘留的奈米粒子則沉降為環境中的微光。
+
+[保持一致性]
+維持純照片級逼真渲染，準確呈現濕潤金屬與玻璃上的材質反射、自然的雨滴物理效果、變身過程中一致的人體比例、穩定的青藍—洋紅—琥珀色霓虹色調，以及連續的夜間光照，避免任何風格化或卡通效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114883706259460096/img/HznffzwKdvVg3LYQ.jpg" width="600" alt="賽博龐克風格變身影片提示">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13121)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2114883782545489945) | **發布時間:** Oct 27, 2026
+
+---
+### 陽光海灣沙灘場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段精緻的風景影片提示，包含燈塔、城堡、拖船、海豚與瑪瑙。
+
+#### 📝 提示詞
+
+```
+陽光普照的海灣沙灘，一側岬角矗立著燈塔，另一側岬角坐落著城堡，海面上有一艘黃色拖船，兩隻海豚躍出海面，紅絲帶從天而降落在沙灘上，藍瑪瑙散佈在沙灘的細沙間
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114812002468270080/img/ayAXF9nHbyCSNYs5.jpg" width="600" alt="陽光海灣沙灘場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13120)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2114812099801325687) | **發布時間:** Oct 26, 2026
+
+---
+### Logic and Magic 歐陸舞曲 MV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 在 Grok Imagine 中生成的 2000 年代 Eurodance MV 詳細場景描述，呈現理性與感性主題的雙螢幕對比。
+
+#### 📝 提示詞
+
+```
+我的理智說不。
+我的心卻說好。
+於是我把螢幕一分為二，各給一半。
+
+LOGIC AND THE MAGIC：
+我的新歌，一支 2000 年代 Eurodance 風格的 MV，連 HUD 介面都親自選邊站。
+
+• 左半邊是 HEAD（理智），冷調青色，計算著風險
+• 右半邊是 HEART（心），熱辣粉紅，數著心跳
+• 一根指針在 NO 與 YES 之間擺盪，貫穿整首歌
+• 當她唱出「no」，NO 就狠狠砸上螢幕；當她唱出「yes」，YES 便拿下勝利
+
+LUMI 帶著一把發光的白色小提琴，從線框構成的虛無中走進爆滿的夜店，接著飄向粉色天空；在 drop 落下的瞬間，網格碎裂成漫天玫瑰花瓣。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114710323387383808/img/-KwJS278J28v9jON.jpg" width="600" alt="Logic and Magic 歐陸舞曲 MV">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13119)**
+
+**作者:** [Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2114756440200003874) | **發布時間:** Oct 26, 2026
+
+---
 ### 貓咪雷射筆互動提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +353,44 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13073)**
 
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2114503259666964624) | **發布時間:** Oct 25, 2026
+
+---
+### 史巴克與松鼠歌曲影片提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的超現實影片生成提示，內容包含史巴克先生演唱《Space Cowboy》以及松鼠演唱《I Believe I Can Fly》。
+
+#### 📝 提示詞
+
+```
+運用你的 Eye Imaga Nation，加入 Making Art Great Again，讓 Mr Spock 唱著 space cowboy，松鼠則說著 I believe I can fly
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114500239390302208/img/wANHTQI0leC2nfXT.jpg" width="600" alt="史巴克與松鼠歌曲影片提示">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13118)**
+
+**作者:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmasQuirrel) | **來源:** [Link](https://x.com/KarmasQuirrel/status/2114500250589180143) | **發布時間:** Oct 25, 2026
+
+---
+### Grok Imagine 影片提示詞：海灘情侶場景設定
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 影片生成提示詞：指定解析度（720p）、時長（6 秒）及內容（海灘上的真實情侶），適用於圖生影片功能。
+
+#### 📝 提示詞
+
+```
+請根據提供的圖片，使用以下提示詞幫我生成一支新影片：「Realistic couple on a beach soft waves behind them」，並套用這些設定：720p、6s。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114497398277836800/img/AXVQqvTE7JVybGsx.jpg" width="600" alt="Grok Imagine 影片提示詞：海灘情侶場景設定">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13117)**
+
+**作者:** [Tim Bevins](https://x.com/TimBevinsedyo) | **來源:** [Link](https://x.com/TimBevinsedyo/status/2114497432566251900) | **發布時間:** Oct 25, 2026
 
 ---
 ### 重返月球太空人提示詞
@@ -611,6 +777,25 @@ Grok！能不能幫我把這個加上動畫，弄得更酷一點？還有按下�
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13012)**
 
 **作者:** [Alan Gooding](https://x.com/empoweredathome) | **來源:** [Link](https://x.com/empoweredathome/status/2113932768501772425) | **發布時間:** Oct 24, 2026
+
+---
+### Grok Imagine：火星晨間咖啡
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影感的影片提示，描述在火星上享用晨間咖啡，搭配獨特的光影效果。
+
+#### 📝 提示詞
+
+```
+在火星的早晨喝杯咖啡。當整座城市就在腳下靜靜等待，連灑落的光線都顯得格外不同。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113925387034013696/img/XdJePsOVzW76oDd_.jpg" width="600" alt="Grok Imagine：火星晨間咖啡">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13122)**
+
+**作者:** [SophieZX](https://x.com/Z_XSophie) | **來源:** [Link](https://x.com/Z_XSophie/status/2113925565459689499) | **發布時間:** Oct 24, 2026
 
 ---
 ### 殭屍和服糖果派對
@@ -2607,159 +2792,6 @@ SHOT 5 (12 至 15 秒)：靜態鏡頭，攝影機掉落在草地上並側傾，�
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2111523923150205138) | **發布時間:** Oct 17, 2026
 
 ---
-### Photo Booth 條狀拼貼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用 Grok Imagine 從四張附件照片建立經典 Photo Booth 條狀拼貼的提示詞。
-
-#### 📝 提示詞
-
-```
-在直式人像畫布上建立經典的 Photo Booth 條狀拼貼。將所有四張附件照片排列成單一直式 Photo Booth 條狀：四個等高矩形格垂直堆疊，填滿整體高度與寬度……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111388481515622400/img/D_n1NPDXvPAPTDE8.jpg" width="600" alt="Photo Booth 條狀拼貼">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12707)**
-
-**作者:** [Christian Thormann Andersen](https://x.com/cleancane) | **來源:** [Link](https://x.com/cleancane/status/2111388492794065184) | **發布時間:** Oct 17, 2026
-
----
-### 螺旋光點化為星辰影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段詩意的提示詞，描述兩道光在黑暗中盤旋，散落的火花轉化為夜空中的星辰。
-
-#### 📝 提示詞
-
-```
-在黑暗中，兩道光相互盤旋，移動時散落的火花化作夜空中的星辰
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111340253776953345/img/b9pe-XzIM6bri4ts.jpg" width="600" alt="螺旋光點化為星辰影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12652)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2111340335054135657) | **發布時間:** Oct 17, 2026
-
----
-### 超驗臨界音樂錄影帶
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成連續超驗臨界音樂錄影帶序列的複雜提示，將一個自戀狂式的臨界時間領主視覺化為時間線的建築師。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-生成一個連續的超驗臨界音樂錄影帶序列，將一個精神錯亂、自戀狂式的臨界時間領主視覺化為增強型超驗時間線建築師，操縱著久遠的過去和不應存在的未來。主要演...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111293085527240704/img/CrZQe-DDm8Rp8e0i.jpg" width="600" alt="超驗臨界音樂錄影帶">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12701)**
-
-**作者:** [AscensionToNull](https://x.com/adeptusnull) | **來源:** [Link](https://x.com/adeptusnull/status/2111293107408957641) | **發布時間:** Oct 17, 2026
-
----
-### Tesla Roadster 對決 F1 Monaco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用圖片參考的提示詞，將主體放置在 Tesla Roadster 中，於摩納哥與一級方程式賽車競速。
-
-#### 📝 提示詞
-
-```
-想像 @Image1 駕駛著嶄新的 Tesla Roadster 火箭跑車，在摩納哥 🇲🇨 與一級方程式賽車競速，並透過套圈所有其他車輛贏得比賽
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111282735461396480/img/r6ogtt-TzB9HCPeJ.jpg" width="600" alt="Tesla Roadster 對決 F1 Monaco">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12704)**
-
-**作者:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **來源:** [Link](https://x.com/SuperGeekCRC/status/2111282777387843851) | **發布時間:** Oct 17, 2026
-
----
-### Guy Gardner 超級英雄影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的提示詞，用於製作以 Guy Gardner 為主角的真人風格影片，融合《蝙蝠俠：英勇與大膽》（Batman: The Brave and the Bold）和《少年正義聯盟》（Young Justice）的造型特徵。
-
-#### 📝 提示詞
-
-```
-製作一段 6 秒長、真人風格的影片，主角為寫實版的 Guy Gardner，結合《蝙蝠俠：英勇與大膽》中粗獷壯碩的超級英雄造型與《少年正義聯盟》中更俐落、充滿運動感的風格。他留著短紅髮……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111278956355690496/img/7ReSLGlzNQ8WAa47.jpg" width="600" alt="Guy Gardner 超級英雄影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12702)**
-
-**作者:** [Ligma Ballz](https://x.com/LBallz77283) | **來源:** [Link](https://x.com/LBallz77283/status/2111278984818544775) | **發布時間:** Oct 17, 2026
-
----
-### Tesla 火箭推進器飛行
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段展示 Tesla Roadster 利用火箭推進器從高速公路起飛的影片提示。
-
-#### 📝 提示詞
-
-```
-Tesla Roadster 利用火箭推進器從高速公路騰空而起，飛行中的 Tesla
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111271405366988800/img/1AZ7UruZa7ynbxvO.jpg" width="600" alt="Tesla 火箭推進器飛行">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12654)**
-
-**作者:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **來源:** [Link](https://x.com/TIME2064/status/2111271416792224030) | **發布時間:** Oct 17, 2026
-
----
-### Grok Imagine 影片提示詞 - 金髮女子特寫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的影片生成提示詞，起始於一張特定首幀圖片：一位擁有波浪捲髮與雀斑的金髮女子。
-
-#### 📝 提示詞
-
-```
-影片從附件中的首幀圖片所定義的畫面開始：一位金髮女子的特寫鏡頭，她留著長波浪金髮、藍色眼睛、臉上帶有雀斑，身穿黑色背心吊帶上衣，佩戴銀色圓形墜飾項鍊，背景為柔和模糊的綠白漸層...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111227053664026624/img/EUJDKPrS2S-58QJR.jpg" width="600" alt="Grok Imagine 影片提示詞 - 金髮女子特寫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12698)**
-
-**作者:** [SkyCipher (Sky)](https://x.com/skycipher) | **來源:** [Link](https://x.com/skycipher/status/2111227074375561452) | **發布時間:** Oct 16, 2026
-
----
-### 可愛風格 Twitch 貼圖影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 詳細的提示詞，用於將照片中的男性角色製作成表達不滿情緒的可愛風格 Twitch 貼圖動畫。
-
-#### 📝 提示詞
-
-```
-將照片中的男性角色轉化為可愛動漫風格臉部的 Kawaii 風格 Twitch 聊天貼圖。表情：pepe-no - 強烈反對的拒絕臉，皺眉且嘴角下垂，粗眉緊鎖，深棕色瞳孔半閉以示拒絕，頭部輕微...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111209006060736512/img/MTCKcroTEsG0LVto.jpg" width="600" alt="可愛風格 Twitch 貼圖影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12700)**
-
-**作者:** [もっしぃ（野原 生好）](https://x.com/Mosshy) | **來源:** [Link](https://x.com/Mosshy/status/2111209020271026684) | **發布時間:** Oct 16, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2821,6 +2853,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-27T04:51:36.789Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-27T14:38:11.717Z</sub>
 
 </div>

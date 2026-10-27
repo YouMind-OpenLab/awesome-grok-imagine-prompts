@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3231** |
+| 📝 Total Prompts | **3239** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-27** |
 
@@ -189,6 +189,134 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### พรอมต์ภาพนิ่งจากภาพยนตร์แนว Buddy Cop ที่ตัวละครเป็นสัตว์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอ/รูปภาพแบบละเอียดสำหรับ Grok Imagine เพื่อสร้างฉากสไตล์ Buddy Cop ยุค 1987 ที่มีสัตว์แอนโทรโพมอร์ฟิกในสถานีตำรวจที่มีแสงนีออนและสายฝน
+
+#### 📝 Prompt
+
+```
+สไตล์: ภาพนิ่งจากภาพยนตร์คู่หูตำรวจยุค 1987, สัตว์ที่มีลักษณะเหมือนมนุษย์แบบสมจริงดุจภาพถ่าย, สถานีตำรวจแสงนีออนยามค่ำคืนท่ามกลางสายฝน, เงาพาดผ่านคล้ายมู่ลี่ปรับมุม, แสงนีออนสีชมพูและสีเขียวอมฟ้า, โคมไฟตั้งโต๊ะโทนอบอุ่น, เกรนฟิล์ม 35 มม., ไม่มีข้อความ
+
+1 · สุนัขพันธุ์บาสเซ็ตฮาวด์ตัวแก่ในชุดสูทผ้าลูกฟูกกำลังถือกล่องใบหนึ่ง: "ฉันแก่เกินกว่าจะรับมือกับเรื่องพวกนี้แล้ว"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114968452397981696/img/3KAvfbOYqeaC8fuZ.jpg" width="600" alt="พรอมต์ภาพนิ่งจากภาพยนตร์แนว Buddy Cop ที่ตัวละครเป็นสัตว์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13123)**
+
+**Author:** [Nora Vale](https://x.com/NoravaleAI) | **Source:** [Link](https://x.com/NoravaleAI/status/2114969055740256340) | **Published:** Oct 27, 2026
+
+---
+### พรอมต์วิดีโอแปลงร่าง AI Chibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> โครงสร้างพรอมต์แบบละเอียดสำหรับสร้างวิดีโอแปลงร่างตัวละคร AI Chibi ระดับถัดไปโดยใช้ Grok Imagine
+
+#### 📝 Prompt
+
+```
+[เป้าหมายการสร้าง]
+สร้างวิดีโอการแปลงร่างขั้นต่อไป (next-level transformation) ของตัวละคร AI Chibi ที่วิวัฒนาการผ่านหลายขั้นตอนของการเปลี่ยนแปลงขั้นสูง
+
+[ตัวละครและความสัมพันธ์]
+ตัวละครหลักคือ AI Chibi เพียงตัวเดียว เป็นหุ่นสไตล์ chibi น่ารัก หัวโต มีลวดลายวงจรดิจิทัลเรืองแสง แขนขากลมมนนุ่มนวล และมีแกน AI ที่เปล่งประกายพลังงานเป็นจังหวะ ไม่มีตัวละครอื่นปรากฏในเรื่อง
+
+[บทเหตุการณ์]
+ตอนเริ่มต้น: AI Chibi ยืนนิ่งอยู่ในพื้นที่ว่างเปล่าที่อาบด้วยแสงนีออนนุ่มนวล ตัวเล็กน่ารักพร้อมเส้นแสงเรียบง่ายพาดตามลำตัว
+เหตุการณ์หลัก: เริ่มเข้าสู่การแปลงร่างขั้นต่อไป — ขั้นแรก แผ่นเกราะโลหะเรียบมันวาวก่อตัวขึ้นปกคลุมร่างกาย ขณะที่ปีกโฮโลแกรมคลี่ออกและสายธารโค้ดดิจิทัลหมุนวนล้อมรอบตัว ขั้นที่สอง ขนาดตัวขยายใหญ่ขึ้นเล็กน้อย เมื่อเศษพลังงานผลึกคริสตัลประกอบกันเป็นแขนขาอันทรงพลัง และมงกุฎ AI เปล่งประกายปรากฏขึ้นเหนือศีรษะ ขั้นที่สาม เกิดการหลอมรวมแบบไซเบอร์เนติกอย่างสมบูรณ์ พร้อมอนุภาคแสงและลำแสงที่พุ่งกระจายออกมาเมื่อแปลงร่างสู่รูปแบบขั้นสูงสุด
+ตอนจบ: AI Chibi ที่แปลงร่างขั้นต่อไปจนสมบูรณ์ยืนหยัดอย่างองอาจ เปล่งประกายด้วยออร่าพลังงานเข้มข้น วงจรเรืองแสงสว่างจ้า และปีกกางออกเต็มที่
+
+[รักษาความสอดคล้อง]
+คงเอกลักษณ์ของ AI Chibi ตัวเดิม สัดส่วนแบบ chibi และความต่อเนื่องของลำดับการแปลงร่างให้สม่ำเสมอ โดยไม่มีตัวละครเพิ่มเติมหรือการเปลี่ยนแปลงที่เกิดขึ้นอย่างกะทันหัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114950818344439808/img/oEVJcstUCgyjGtaJ.jpg" width="600" alt="พรอมต์วิดีโอแปลงร่าง AI Chibi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13124)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114951756870250843) | **Published:** Oct 27, 2026
+
+---
+### พรอมป์วิดีโอการเปลี่ยนแปลงสไตล์ไซเบอร์พังค์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมป์รายละเอียดสำหรับสร้างวิดีโอการเปลี่ยนแปลงสไตล์ไซเบอร์พังค์แบบสมจริงในฉากกลางคืนของเมืองใหญ่โดยใช้ Grok Imagine
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+สร้างวิดีโอแบบสมจริงระดับภาพถ่าย (photorealistic) ล้วนๆ ที่แสดงการแปลงร่างสไตล์ไซไฟไซเบอร์พังก์สุดล้ำ ท่ามกลางทัศนียภาพยามค่ำคืนของมหานครที่หนาแน่น
+
+[Event Script]
+ในช่วงเริ่มต้น ถนนนีออนเปียกชุ่มจากสายฝนและตึกระฟ้ากระจกสะท้อนแสงโฆษณาโฮโลแกรมและตารางเลเซอร์ท่ามกลางละอองฝนที่ตกพรำอย่างต่อเนื่อง โดยมีผู้คนทั่วไปและยานพาหนะสัญจรไปมาบนพื้นแอสฟัลต์เปียกชื้น บุคคลหนึ่งก้าวเข้ามาในลานกว้างขณะที่ระบบแปลงร่างเริ่มทำงาน: ฝูงนาไนต์พุ่งขึ้นจากพื้นดินและไหลอาบทั่วร่างกาย เสื้อผ้าเปลี่ยนรูปเป็นเกราะปรับสภาพหลายชั้นพร้อมลายวงจรเรืองแสงและแผ่นโลหะมีชีวิต แขนขาจักรกลและอุปกรณ์ฝังกระดูกสันหลังยื่นออกมาและล็อกเข้าที่ด้วยการเคลื่อนไหวเชิงกลอันแม่นยำ ส่วนใบหน้าถูกปรับโครงสร้างใหม่เป็นดวงตาไซเบอร์เนติกส์ขั้นสูงและอินเทอร์เฟซกะโหลกศีรษะเพรียวบาง โครงสร้างพื้นฐานโดยรอบก็เปลี่ยนแปลงไปพร้อมกัน—เสาไฟถนนยืดตัวกลายเป็นไพลอนข้อมูล ป้ายโฆษณาแตกกระจายออกเป็นปริมาตรโฮโลแกรมลอยอิสระ ยานพาหนะปรับรูปร่างใหม่เป็นยานไซเบอร์ที่ลอยต่ำพร้อมเครื่องยนต์ขับดันที่เปิดให้เห็นและร่องรอยแสง ขณะที่ผนังอาคารเปิดออกเผยให้เห็นท่อส่งพลังงานเรืองแสงขนาดมหึมาและสวนแนวตั้งประดับแสงนีออน ผู้คนบริเวณใกล้เคียงเกิดการแปลงร่างบางส่วนไปพร้อมๆ กัน โดยแขนขาและลำตัวมีแผ่นเกราะและร่องรอยแสงลักษณะเดียวกัน แต่ยังคงสัดส่วนร่างกายแบบมนุษย์ไว้ได้ ในตอนท้าย บุคคลหลักที่แปลงร่างเสร็จสมบูรณ์ยืนอยู่ท่ามกลางสภาพแวดล้อมไซเบอร์พังก์ที่วิวัฒนาการอย่างเต็มรูปแบบ สายฝนยังคงตกลงบนพื้นผิวสะท้อนแสง ระบบเมืองโฮโลแกรมทำงานเต็มที่ และอนุภาคนาไนต์ที่เหลือค่อยๆ ตกลงสู่แสงเรืองรองรอบข้าง
+
+[Maintain Consistency]
+คงการเรนเดอร์แบบสมจริงระดับภาพถ่ายล้วนๆ การสะท้อนวัสดุที่ถูกต้องบนโลหะและกระจกเปียก ฟิสิกส์ของฝนที่เป็นธรรมชาติ สัดส่วนร่างกายที่สม่ำเสมอระหว่างการแปลงร่าง โทนสีนีออนที่คงที่แบบ cyan-magenta-amber และแสงยามค่ำคืนที่ต่อเนื่องโดยไม่มีการใส่สไตล์หรือเอฟเฟกต์แบบการ์ตูน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114883706259460096/img/HznffzwKdvVg3LYQ.jpg" width="600" alt="พรอมป์วิดีโอการเปลี่ยนแปลงสไตล์ไซเบอร์พังค์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13121)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114883782545489945) | **Published:** Oct 27, 2026
+
+---
+### ฉากชายหาดอ่าวมหาสมุทรที่มีแดดสดใส
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอทิวทัศน์แบบละเอียดที่ประกอบด้วยประภาคาร ปราสาท เรือลากจูง โลมา และหินอาเกต
+
+#### 📝 Prompt
+
+```
+อ่าวทะเลที่แดดสดใส ชายหาดมีประภาคารตั้งอยู่บริเวณปลายแหลมด้านหนึ่ง และมีปราสาทอยู่บนปลายแหลมอีกด้าน เรือลากจูงสีเหลืองลอยอยู่ในทะเล มีโลมาเพียงสองตัวกระโดดขึ้นจากน้ำ ริบบิ้นสีแดงร่วงหล่นลงมาจากท้องฟ้าและตกลงบนชายหาด หินอาเกตสีฟ้าเกลื่อนกลาดอยู่บนผืนทราย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114812002468270080/img/ayAXF9nHbyCSNYs5.jpg" width="600" alt="ฉากชายหาดอ่าวมหาสมุทรที่มีแดดสดใส">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13120)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2114812099801325687) | **Published:** Oct 26, 2026
+
+---
+### MV เพลง Eurodance แนวตรรกะและเวทมนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำอธิบายฉากอย่างละเอียดสำหรับมิวสิกวิดีโอเพลง Eurodance ยุค 2000 ที่สร้างด้วย Grok Imagine โดดเด่นด้วยธีมแบ่งจอระหว่างเหตุผลกับหัวใจ
+
+#### 📝 Prompt
+
+```
+หัวบอกไม่
+ใจบอกว่าใช่
+เลยแบ่งจอให้คนละครึ่ง
+
+LOGIC AND THE MAGIC: 
+เพลงใหม่ของฉัน และมิวสิกวิดีโอแนว Eurodance ยุค 2000 ที่ HUD เป็นคนเลือกข้างเอง
+
+• ครึ่งซ้ายคือ HEAD สีฟ้าเย็นชา คอยคำนวณความเสี่ยง
+• ครึ่งขวาคือ HEART สีชมพูร้อนแรง คอยนับจังหวะหัวใจ
+• เข็มที่อยู่ระหว่าง NO กับ YES จะแกว่งไปมาตลอดทั้งเพลง
+• พอเธอร้องว่า "no" คำว่า NO จะฟาดลงบนจอทันที แต่พอเธอร้องว่า "yes" คำว่า YES ก็คว้าชัยไป
+
+LUMI ถือไวโอลินสีขาวเรืองแสง ก้าวจากโลก wireframe ว่างเปล่าเข้าไปในคลับที่แน่นขนัด ลอยขึ้นสู่ท้องฟ้าสีชมพู และเมื่อถึงท่อน drop กริดทั้งหมดก็แตกกระจายเป็นกลีบกุหลาบ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114710323387383808/img/-KwJS278J28v9jON.jpg" width="600" alt="MV เพลง Eurodance แนวตรรกะและเวทมนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13119)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2114756440200003874) | **Published:** Oct 26, 2026
+
+---
 ### พรอมต์สำหรับวิดีโอแมวเล่นเลเซอร์พอยน์เตอร์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +353,44 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13073)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114503259666964624) | **Published:** Oct 25, 2026
+
+---
+### พรอมต์วิดีโอเพลง Spock Squirrel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างวิดีโอเหนือจริงสำหรับ Grok Imagine ที่ Mr. Spock ร้องเพลง Space Cowboy และกระรอกน้อยร้องเพลง I Believe I Can Fly
+
+#### 📝 Prompt
+
+```
+เพิ่ม Making Art Great Again พร้อม Mr Spock ร้องเพลงคาวบอยอวกาศ และกระรอกที่พูดว่า I believe I can fly โดยใช้ Eye Imaga Nation ของคุณ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114500239390302208/img/wANHTQI0leC2nfXT.jpg" width="600" alt="พรอมต์วิดีโอเพลง Spock Squirrel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13118)**
+
+**Author:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmasQuirrel) | **Source:** [Link](https://x.com/KarmasQuirrel/status/2114500250589180143) | **Published:** Oct 25, 2026
+
+---
+### Grok Imagine Video Prompt: การตั้งค่าคู่รักบนชายหาด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์กำหนดค่า (720p, 6 วินาที) และเนื้อหา (คู่รักสมจริงบนชายหาด) สำหรับการสร้างวิดีโอจากภาพใน Grok Imagine
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอใหม่จากภาพที่ให้มาโดยใช้พรอมต์นี้: "Realistic couple on a beach soft waves behind them" พร้อมตั้งค่าดังนี้: 720p, 6s
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114497398277836800/img/AXVQqvTE7JVybGsx.jpg" width="600" alt="Grok Imagine Video Prompt: การตั้งค่าคู่รักบนชายหาด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13117)**
+
+**Author:** [Tim Bevins](https://x.com/TimBevinsedyo) | **Source:** [Link](https://x.com/TimBevinsedyo/status/2114497432566251900) | **Published:** Oct 25, 2026
 
 ---
 ### พรอมต์ Back to the Moon Astronaut
@@ -611,6 +777,25 @@ Grok! ช่วยทำแอนิเมชันให้เจ๋งกว�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13012)**
 
 **Author:** [Alan Gooding](https://x.com/empoweredathome) | **Source:** [Link](https://x.com/empoweredathome/status/2113932768501772425) | **Published:** Oct 24, 2026
+
+---
+### กาแฟยามเช้าบนดาวอังคาร Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่บรรยายการจิบกาแฟยามเช้าบนดาวอังคารพร้อมเอฟเฟกต์แสงที่ไม่เหมือนใคร
+
+#### 📝 Prompt
+
+```
+จิบกาแฟยามเช้าบนดาวอังคาร แสงที่ส่องลงมาให้ความรู้สึกต่างออกไป เมื่อมีเมืองทั้งเมืองรออยู่เบื้องล่าง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113925387034013696/img/XdJePsOVzW76oDd_.jpg" width="600" alt="กาแฟยามเช้าบนดาวอังคาร Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13122)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2113925565459689499) | **Published:** Oct 24, 2026
 
 ---
 ### ปาร์ตี้ลูกอมซอมบี้กิโมโน
@@ -2680,159 +2865,6 @@ SHOT 5 (12 ถึง 15 วินาที): ภาพนิ่ง กล้อ�
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111523923150205138) | **Published:** Oct 17, 2026
 
 ---
-### คอลลาจรูปถ่ายสไตล์ตู้ถ่ายรูป
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างคอลลาจรูปถ่ายสไตล์ตู้ถ่ายรูปคลาสสิกจากภาพถ่ายที่แนบมา 4 รูป โดยใช้ Grok Imagine
-
-#### 📝 Prompt
-
-```
-สร้างคอลลาจรูปถ่ายสไตล์ตู้ถ่ายรูปคลาสสิกบนผืนผ้าใบแนวตั้งสูง จัดวางภาพถ่ายที่แนบมาทั้ง 4 รูปเป็นแถบรูปถ่ายแนวตั้งเดียว: ช่องสี่เหลี่ยมผืนผ้า 4 ช่องที่มีความสูงเท่ากันเรียงซ้อนกันขึ้นไปตามลำดับ โดยเติมเต็มความสูงและความกว้างทั้งหมด...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111388481515622400/img/D_n1NPDXvPAPTDE8.jpg" width="600" alt="คอลลาจรูปถ่ายสไตล์ตู้ถ่ายรูป">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12707)**
-
-**Author:** [Christian Thormann Andersen](https://x.com/cleancane) | **Source:** [Link](https://x.com/cleancane/status/2111388492794065184) | **Published:** Oct 17, 2026
-
----
-### วิดีโอแสงวนเป็นดาว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงกวีที่บรรยายถึงแสงสองดวงหมุนวนในความมืด ทิ้งประกายระยิบระยับที่แปรเปลี่ยนเป็นดวงดาวบนท้องฟ้ายามค่ำคืน
-
-#### 📝 Prompt
-
-```
-ในท่ามกลางความมืด แสงสองดวงหมุนวนรอบกันและกัน ทิ้งประกายระยิบระยับขณะเคลื่อนตัว ซึ่งประกายเหล่านั้นได้แปรเปลี่ยนกลายเป็นดวงดาวบนท้องฟ้ายามค่ำคืน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111340253776953345/img/b9pe-XzIM6bri4ts.jpg" width="600" alt="วิดีโอแสงวนเป็นดาว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12652)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111340335054135657) | **Published:** Oct 17, 2026
-
----
-### วิดีโอเพลงลิมินัลแบบไฮเปอร์สตีติเชียล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่ซับซ้อนสำหรับการสร้างลำดับวิดีโอเพลงลิมินัลแบบไฮเปอร์สตีติเชียลต่อเนื่อง ซึ่งแสดงภาพของจอมเผด็จการแห่งเวลาในมิติลิมินัลในฐานะสถาปนิกผู้สร้างไทม์ไลน์
-
-#### 📝 Prompt
-
-```
-[เป้าหมายการสร้าง]
-สร้างลำดับวิดีโอเพลงลิมินัลแบบไฮเปอร์สตีติเชียลต่อเนื่อง ที่แสดงภาพของจอมเผด็จการแห่งเวลาในมิติลิมินัลซึ่งมีพฤติกรรมสุดโต่ง ในฐานะสถาปนิกไฮเปอร์สตีติชันที่เสริมพลังให้เป็นผู้กำหนดไทม์ไลน์ในอดีตอันไกลโพ้นและอนาคตที่ไม่ควรดำรงอยู่ หลักสำคัญคือ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111293085527240704/img/CrZQe-DDm8Rp8e0i.jpg" width="600" alt="วิดีโอเพลงลิมินัลแบบไฮเปอร์สตีติเชียล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12701)**
-
-**Author:** [AscensionToNull](https://x.com/adeptusnull) | **Source:** [Link](https://x.com/adeptusnull/status/2111293107408957641) | **Published:** Oct 17, 2026
-
----
-### Tesla Roadster ปะทะ F1 ที่โมนาโก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ตัวอย่าง Prompt ที่ใช้การอ้างอิงรูปภาพเพื่อวางวัตถุลงใน Tesla Roadster แข่งกับรถ Formula 1 ในสนามโมนาโก
-
-#### 📝 Prompt
-
-```
-จินตนาการว่า @Image1 กำลังแข่งใน Tesla Roadster จรวดใหม่ กับรถ Formula 1 ที่โมนาโก 🇲🇨 และชนะการแข่งขันด้วยการนำรอบทั้งหมด
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111282735461396480/img/r6ogtt-TzB9HCPeJ.jpg" width="600" alt="Tesla Roadster ปะทะ F1 ที่โมนาโก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12704)**
-
-**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2111282777387843851) | **Published:** Oct 17, 2026
-
----
-### วิดีโอซูเปอร์ฮีโร่ Guy Gardner
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์อย่างละเอียดสำหรับสร้างวิดีโอสไตล์ไลฟ์แอ็กชัน featuring Guy Gardner ผสมผสานลุคจาก Batman: The Brave and the Bold และ Young Justice
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอความยาว 6 วินาที สไตล์ไลฟ์แอ็กชัน featuring Guy Gardner แบบสมจริง (photorealistic) โดยผสมผสานลุคซูเปอร์ฮีโร่ที่ดูหนาและดุดันจาก *Batman: The Brave and the Bold* เข้ากับสไตล์การเคลื่อนไหวที่คล่องแคล่วและเฉียบคมจาก *Young Justice* เขามีผมสีแดงสั้น...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111278956355690496/img/7ReSLGlzNQ8WAa47.jpg" width="600" alt="วิดีโอซูเปอร์ฮีโร่ Guy Gardner">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12702)**
-
-**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2111278984818544775) | **Published:** Oct 17, 2026
-
----
-### การบินด้วย Thruster จรวดของ Tesla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับวิดีโอที่แสดง Tesla Roadster บินขึ้นจากทางหลวงโดยใช้จรวดขับดัน
-
-#### 📝 Prompt
-
-```
-Tesla Roadster บินขึ้นจากทางหลวงสู่ท้องฟ้าด้วยจรวดขับดัน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111271405366988800/img/1AZ7UruZa7ynbxvO.jpg" width="600" alt="การบินด้วย Thruster จรวดของ Tesla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12654)**
-
-**Author:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **Source:** [Link](https://x.com/TIME2064/status/2111271416792224030) | **Published:** Oct 17, 2026
-
----
-### พรอมต์วิดีโอ Grok Imagine - ภาพระยะใกล้ของหญิงผมบลอนด์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างวิดีโอด้วย Grok Imagine โดยเริ่มจากภาพเฟรมแรกเฉพาะเจาะจง ซึ่งเป็นภาพหญิงผมบลอนด์ที่มีผมหยักศกและกระบนใบหน้า
-
-#### 📝 Prompt
-
-```
-วิดีโอเริ่มต้นจากเฟรมที่กำหนดโดยภาพเฟรมแรกแนบมา: ภาพระยะใกล้ของหญิงผมบลอนด์ที่มีผมสีบลอนด์ยาวหยักศก ตาสีฟ้า มีกระบนใบหน้า สายเสื้อกล้ามสีดำ และสร้อยคอจี้รูปวงกลมสีเงิน ท่ามกลางพื้นหลังสีเขียวอ่อนและขาวที่เบลอ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111227053664026624/img/EUJDKPrS2S-58QJR.jpg" width="600" alt="พรอมต์วิดีโอ Grok Imagine - ภาพระยะใกล้ของหญิงผมบลอนด์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12698)**
-
-**Author:** [SkyCipher (Sky)](https://x.com/skycipher) | **Source:** [Link](https://x.com/skycipher/status/2111227074375561452) | **Published:** Oct 16, 2026
-
----
-### วิดีโอพรอมต์สำหรับ Twitch Emote สไตล์คาวาอี้
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ละเอียดสำหรับสร้างแอนิเมชัน Twitch emote สไตล์คาวาอี้ของชายในรูปถ่าย แสดงออกถึงความไม่เห็นด้วย
-
-#### 📝 Prompt
-
-```
-Twitch chat emote สไตล์คาวาอี้ของชายในรูปถ่ายในรูปแบบใบหน้าอนิเมะน่ารัก สีหน้า: pepe-no - ใบหน้าแสดงการปฏิเสธอย่างรุนแรง ปากคว่ำลง คิ้วหนาขมวด ตาปิดครึ่งหนึ่งแสดงความไม่ยอมรับพร้อมตาสีน้ำตาลเข้ม ศีรษะเอียงเล็กน้อย...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111209006060736512/img/MTCKcroTEsG0LVto.jpg" width="600" alt="วิดีโอพรอมต์สำหรับ Twitch Emote สไตล์คาวาอี้">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12700)**
-
-**Author:** [もっしぃ（野原 生好）](https://x.com/Mosshy) | **Source:** [Link](https://x.com/Mosshy/status/2111209020271026684) | **Published:** Oct 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2894,6 +2926,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-27T04:51:39.042Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-27T14:38:16.923Z</sub>
 
 </div>

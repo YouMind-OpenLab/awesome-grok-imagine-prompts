@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3231** |
+| 📝 Total Prompts | **3239** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-27** |
 
@@ -189,6 +189,134 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt für anthropomorphes Buddy-Cop-Filmstill
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-/Bild-Prompt für Grok Imagine zur Erstellung einer Szene im Stil eines Buddy-Cop-Films von 1987 mit anthropomorphen Tieren in einem regnerischen, neonbeleuchteten Polizeirevier.
+
+#### 📝 Prompt
+
+```
+Stil: Standbild aus einem Buddy-Cop-Film von 1987, fotorealistische anthropomorphe Tiere, verregnetes Neon-Polizeirevier bei Nacht, Schatten von Jalousien, pinkes und türkises Neonlicht, warme Schreibtischlampe, 35-mm-Filmkorn, kein Text
+
+1 · Alter Basset im Cordanzug hält eine Kiste: „Ich bin zu alt für diesen Scheiß."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114968452397981696/img/3KAvfbOYqeaC8fuZ.jpg" width="600" alt="Prompt für anthropomorphes Buddy-Cop-Filmstill">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13123)**
+
+**Author:** [Nora Vale](https://x.com/NoravaleAI) | **Source:** [Link](https://x.com/NoravaleAI/status/2114969055740256340) | **Published:** Oct 27, 2026
+
+---
+### AI Chibi-Transformation Video-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Detaillierte Prompt-Struktur zur Erstellung eines erstklassigen AI-Chibi-Charaktertransformationsvideos mit Grok Imagine.
+
+#### 📝 Prompt
+
+```
+[Generierungsziel]
+Erstelle ein Next-Level-Transformationsvideo eines AI Chibi-Charakters, der sich über mehrere Stufen einer hochentwickelten Metamorphose weiterentwickelt.
+
+[Subjekte und Beziehungen]
+Das zentrale Motiv ist ein einzelner AI Chibi: eine niedliche Figur im Chibi-Stil mit großem Kopf, leuchtenden digitalen Schaltkreismustern, weichen, runden Gliedmaßen und einem pulsierenden AI-Kern voller Energie. Es treten keine weiteren Charaktere auf.
+
+[Ablaufskript]
+Zu Beginn: Der AI Chibi steht reglos in einer sanft leuchtenden Neon-Leere – klein und bezaubernd, mit einfachen, leuchtenden Linien auf dem Körper.
+Hauptgeschehen: Die Next-Level-Transformationen beginnen – zuerst bilden sich glatte, metallische Rüstungsplatten über seinem Körper, während sich holografische Flügel entfalten und Ströme aus digitalem Code ihn umwirbeln; dann wächst er leicht an, kristalline Energiesplitter fügen sich zu kraftvollen Gliedmaßen zusammen und eine strahlende AI-Krone erscheint; schließlich kommt es zur vollständigen kybernetischen Verschmelzung, bei der Partikelschweife und Lichtstrahlen hervorbrechen, als er seine ultimative Form erreicht.
+Am Ende: Der vollständig transformierte Next-Level AI Chibi steht heldenhaft da, umhüllt von intensiv leuchtenden Energie-Auren, mit flammenden Schaltkreisen und voll ausgebreiteten Flügeln.
+
+[Konsistenz wahren]
+Die Identität des einzelnen AI Chibi, die Chibi-Proportionen und der kontinuierliche Verlauf der Transformation müssen durchgehend stabil bleiben – ohne zusätzliche Charaktere oder abrupte Veränderungen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114950818344439808/img/oEVJcstUCgyjGtaJ.jpg" width="600" alt="AI Chibi-Transformation Video-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13124)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114951756870250843) | **Published:** Oct 27, 2026
+
+---
+### Cyberpunk-Transformations-Video-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Detaillierte Eingabeaufforderung zur Generierung eines fotorealistischen Cyberpunk-Transformationsvideos in einer nächtlichen Megacity-Szenerie mit Grok Imagine.
+
+#### 📝 Prompt
+
+```
+[Generierungsziel]
+Erzeuge ein rein realistisches, fotorealistisches Video von Sci-Fi-Cyberpunk-Transformationen der nächsten Stufe, die sich in der dichten Nachtkulisse einer Megacity entfalten.
+
+[Ereignisskript]
+Zu Beginn spiegeln regennasse Neonstraßen und aufragende Glastürme holografische Werbung und Laser-Gitter unter einem stetigen Nieselregen wider, während gewöhnliche Fußgänger und Fahrzeuge über den nassen Asphalt ziehen. Eine einsame Gestalt betritt einen offenen Platz, als die Transformationssysteme anspringen: Nanitenschwärme steigen aus dem Boden auf und ergießen sich kaskadenartig über den Körper; Kleidung formt sich zu einer mehrschichtigen adaptiven Rüstung mit leuchtenden Schaltkreisen und Platten aus lebendem Metall um; mechanische Gliedmaßen und Wirbelsäulenimplantate fahren aus und rasten mit präzisen mechanischen Bewegungen ein; Gesichtszüge strukturieren sich zu verbesserten kybernetischen Augen und schlanken Schädelinterfaces um. Die umgebende Infrastruktur wandelt sich zeitgleich – Straßenlaternen wachsen zu Datenpylonen heran, Werbetafeln zerbersten zu frei schwebenden holografischen Volumenkörpern, Fahrzeuge formen sich zu tief schwebenden Cyber-Transportern mit freiliegenden Triebwerken und Lichtspuren um, und Gebäudefassaden klappen auf und geben massive leuchtende Leitungen sowie vertikale Neongärten frei. Weitere Figuren in der Nähe durchlaufen synchronisierte Teiltransformationen: Gliedmaßen und Oberkörper erhalten ähnliche Panzerungen und Lichtspuren, ohne dabei ihre menschlichen Proportionen zu verlieren. Am Ende steht die vollständig transformierte Zentralfigur inmitten eines vollends entwickelten Cyberpunk-Szenarios. Der Regen fällt weiter auf die spiegelnden Oberflächen, die holografischen Stadtsysteme sind komplett online, und zurückbleibende Nanitenpartikel setzen sich als sanftes Umgebungsleuchten ab.
+
+[Konsistenz beibehalten]
+Behalte eine rein fotorealistische Darstellung bei, mit akkuraten Materialreflexionen auf nassem Metall und Glas, natürlicher Regenphysik, gleichbleibenden Körperproportionen während der Transformation, einer stabilen Neon-Farbpalette aus Cyan, Magenta und Bernstein sowie einer durchgehenden Nachtbeleuchtung ohne Stilisierungen oder Cartoon-Effekte.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114883706259460096/img/HznffzwKdvVg3LYQ.jpg" width="600" alt="Cyberpunk-Transformations-Video-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13121)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114883782545489945) | **Published:** Oct 27, 2026
+
+---
+### Sonnige Küstenlandschaft an der Ocean Bay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Landschafts-Video-Prompt mit Leuchttürmen, Burgen, Schleppern, Delfinen und Achaten.
+
+#### 📝 Prompt
+
+```
+Sonnige Meeresbucht, Strand, ein Leuchtturm auf der einen Landzunge, eine Burg auf der anderen, ein gelbes Schleppboot im Meer, nur zwei Delfine springen aus dem Wasser, ein rotes Band fällt vom Himmel und landet am Strand, blaue Achate im Strandsand
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114812002468270080/img/ayAXF9nHbyCSNYs5.jpg" width="600" alt="Sonnige Küstenlandschaft an der Ocean Bay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13120)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2114812099801325687) | **Published:** Oct 26, 2026
+
+---
+### Logic and Magic – Eurodance-MV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Detaillierte Szenenbeschreibungen für ein Eurodance-Musikvideo aus den 2000ern, generiert mit Grok Imagine, mit Split-Screen-Themen von Logik vs. Herz.
+
+#### 📝 Prompt
+
+```
+Mein Kopf sagte Nein.
+Mein Herz sagte Ja.
+Also gab ich beiden eine Bildschirmhälfte.
+
+LOGIC AND THE MAGIC:
+mein neuer Song und ein Eurodance-Musikvideo im 2000er-Stil, in dem das HUD selbst Partei ergreift.
+
+• Die linke Hälfte ist HEAD, kühles Cyan, zählt das Risiko
+• Die rechte Hälfte ist HEART, heißes Pink, zählt die Beats
+• Eine Nadel zwischen NO und YES schwebt durch den ganzen Song
+• Wenn sie „no“ singt, knallt NO auf den Screen. Wenn sie „yes“ singt, gewinnt YES
+
+LUMI trägt eine leuchtend weiße Geige aus einer Wireframe-Leere in einen rappelvollen Club, schwebt hinauf in einen pinken Himmel – und beim Drop zersplittert das Grid in Rosenblüten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114710323387383808/img/-KwJS278J28v9jON.jpg" width="600" alt="Logic and Magic – Eurodance-MV">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13119)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2114756440200003874) | **Published:** Oct 26, 2026
+
+---
 ### Katzen-Laserpointer-Interaktions-Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +353,44 @@ Eine hyperrealistische, cineastische 8K-Sci-Fi-Verwandlungssequenz. Ausgehend vo
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13073)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114503259666964624) | **Published:** Oct 25, 2026
+
+---
+### Spock-Eichhörnchen-Song-Video-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein surrealer Videogenerierungs-Prompt für Grok Imagine, der Mr. Spock zeigt, wie er Space Cowboy singt, und ein Eichhörnchen, das I Believe I Can Fly singt.
+
+#### 📝 Prompt
+
+```
+Füge „Making Art Great Again“ hinzu – mit Mr Spock, der als Space Cowboy singt, und dem Eichhörnchen, das sagt: „I believe I can fly“. Nutze dafür deine Eye Imaga Nation.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114500239390302208/img/wANHTQI0leC2nfXT.jpg" width="600" alt="Spock-Eichhörnchen-Song-Video-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13118)**
+
+**Author:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmasQuirrel) | **Source:** [Link](https://x.com/KarmasQuirrel/status/2114500250589180143) | **Published:** Oct 25, 2026
+
+---
+### Grok Imagine Video-Prompt: Strand-Szenario mit Paar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt, der die Einstellungen (720p, 6s) und den Inhalt (realistisches Paar am Strand) für die Bild-zu-Video-Generierung in Grok Imagine festlegt.
+
+#### 📝 Prompt
+
+```
+Erstelle mir basierend auf dem bereitgestellten Bild ein neues Video mit folgendem Prompt: „Realistisches Paar an einem Strand, sanfte Wellen im Hintergrund“ und diesen Einstellungen: 720p, 6s.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114497398277836800/img/AXVQqvTE7JVybGsx.jpg" width="600" alt="Grok Imagine Video-Prompt: Strand-Szenario mit Paar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13117)**
+
+**Author:** [Tim Bevins](https://x.com/TimBevinsedyo) | **Source:** [Link](https://x.com/TimBevinsedyo/status/2114497432566251900) | **Published:** Oct 25, 2026
 
 ---
 ### Zurück zum Mond – Astronauten-Prompt
@@ -611,6 +777,25 @@ Drei futuristische Frauenfiguren in einer dramatischen High-Tech-Sci-Fi-Szene: e
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13012)**
 
 **Author:** [Alan Gooding](https://x.com/empoweredathome) | **Source:** [Link](https://x.com/empoweredathome/status/2113932768501772425) | **Published:** Oct 24, 2026
+
+---
+### Morgenkaffee auf dem Mars Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt, der das Trinken von Morgenkaffee auf dem Mars mit einzigartigen Lichteffekten beschreibt.
+
+#### 📝 Prompt
+
+```
+Morgenkaffee auf dem Mars. Das Licht wirkt einfach anders, wenn unter dir die Stadt schon wartet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113925387034013696/img/XdJePsOVzW76oDd_.jpg" width="600" alt="Morgenkaffee auf dem Mars Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13122)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2113925565459689499) | **Published:** Oct 24, 2026
 
 ---
 ### Zombie-Kimono-Candy-Party
@@ -2674,159 +2859,6 @@ Wasserdampf steigt von einem breiteren Bach auf, der durch einen Wald fließt. E
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111523923150205138) | **Published:** Oct 17, 2026
 
 ---
-### Fotoautomaten-Streifen-Collage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt zur Erstellung einer klassischen Fotoautomaten-Streifen-Collage aus vier angehängten Fotos mit Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Erstellen Sie eine klassische Fotoautomaten-Streifen-Collage auf einem hohen Hochformat-Canvas. Ordnen Sie alle vier angehängten Fotos in einem einzelnen vertikalen Fotoautomaten-Streifen an: vier gleich hohe rechteckige Zellen, die direkt übereinander gestapelt sind und die gesamte Höhe und Breite ausfüllen...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111388481515622400/img/D_n1NPDXvPAPTDE8.jpg" width="600" alt="Fotoautomaten-Streifen-Collage">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12707)**
-
-**Author:** [Christian Thormann Andersen](https://x.com/cleancane) | **Source:** [Link](https://x.com/cleancane/status/2111388492794065184) | **Published:** Oct 17, 2026
-
----
-### Spiralende Lichter zu Sternen Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein poetischer Prompt, der zwei Lichter beschreibt, die sich in der Dunkelheit umkreisen und Funken werfen, die sich am Nachthimmel in Sterne verwandeln.
-
-#### 📝 Prompt
-
-```
-In der Dunkelheit kreisen zwei Lichter umeinander und werfen beim Bewegen Funken, die am Nachthimmel zu Sternen werden
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111340253776953345/img/b9pe-XzIM6bri4ts.jpg" width="600" alt="Spiralende Lichter zu Sternen Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12652)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111340335054135657) | **Published:** Oct 17, 2026
-
----
-### Hyperstitioneller Liminaler Musikvideo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer Prompt zur Generierung einer kontinuierlichen hyperstitionalen liminalen Musikvideosequenz, die einen egomanischen liminalen Zeitlord als Architekten von Zeitlinien visualisiert.
-
-#### 📝 Prompt
-
-```
-[Generierungsziel]
-Erzeuge eine kontinuierliche hyperstitionale, liminale Musikvideosequenz, die einen enthemmten, egomanischen liminalen Zeitlord als augmentierten Hyperstitions-Architekten von längst vergangenen Zeitlinien und Futures, die nicht existieren sollten, visualisiert. Der Haupt...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111293085527240704/img/CrZQe-DDm8Rp8e0i.jpg" width="600" alt="Hyperstitioneller Liminaler Musikvideo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12701)**
-
-**Author:** [AscensionToNull](https://x.com/adeptusnull) | **Source:** [Link](https://x.com/adeptusnull/status/2111293107408957641) | **Published:** Oct 17, 2026
-
----
-### Tesla Roadster vs. F1 Monaco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der eine Bildreferenz nutzt, um ein Motiv in einem Tesla Roadster zu platzieren, der gegen Formel-1-Autos in Monaco fährt.
-
-#### 📝 Prompt
-
-```
-Stell dir @Image1 vor, wie er im neuen Tesla Roadster-Raketenauto gegen Formel-1-Autos in Monaco 🇲🇨 fährt und das Rennen gewinnt, indem er alle anderen Autos überrundet
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111282735461396480/img/r6ogtt-TzB9HCPeJ.jpg" width="600" alt="Tesla Roadster vs. F1 Monaco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12704)**
-
-**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2111282777387843851) | **Published:** Oct 17, 2026
-
----
-### Guy Gardner Superhelden-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für die Erstellung eines Live-Action-Stil-Videos mit Guy Gardner, das Looks aus Batman: The Brave and the Bold und Young Justice kombiniert.
-
-#### 📝 Prompt
-
-```
-Erstellen Sie ein 6-sekündiges Video im Live-Action-Stil mit einem fotorealistischen Guy Gardner, der den kühnen, stämmigen Superhelden-Look von *Batman: The Brave and the Bold* mit dem schärferen, athletischeren Stil von *Young Justice* kombiniert. Er hat kurze rote Haare...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111278956355690496/img/7ReSLGlzNQ8WAa47.jpg" width="600" alt="Guy Gardner Superhelden-Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12702)**
-
-**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2111278984818544775) | **Published:** Oct 17, 2026
-
----
-### Tesla Roadster mit Raketenantrieb
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für ein Video, das zeigt, wie ein Tesla Roadster dank Raketenantriebs von einer Autobahn abhebt.
-
-#### 📝 Prompt
-
-```
-Tesla Roadster hebt dank Raketenantrieb von der Autobahn ab und fliegt in die Luft
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111271405366988800/img/1AZ7UruZa7ynbxvO.jpg" width="600" alt="Tesla Roadster mit Raketenantrieb">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12654)**
-
-**Author:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **Source:** [Link](https://x.com/TIME2064/status/2111271416792224030) | **Published:** Oct 17, 2026
-
----
-### Grok Imagine Video-Prompt – Nahaufnahme einer blonden Frau
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt für Grok Imagine, der mit einem spezifischen Erstbild einer blonden Frau mit welligen Haaren und Sommersprossen beginnt.
-
-#### 📝 Prompt
-
-```
-Das Video beginnt mit dem durch das angehängte Erstbild definierten Rahmen: eine Nahaufnahme der blonden Frau mit langen, welligen blonden Haaren, blauen Augen, Sommersprossen, Trägern eines schwarzen Tanktops und einer silbernen Kreis-Anhänger-Kette vor einem weichgezeichneten Hintergrund in Grün- und Weißtönen...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111227053664026624/img/EUJDKPrS2S-58QJR.jpg" width="600" alt="Grok Imagine Video-Prompt – Nahaufnahme einer blonden Frau">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12698)**
-
-**Author:** [SkyCipher (Sky)](https://x.com/skycipher) | **Source:** [Link](https://x.com/skycipher/status/2111227074375561452) | **Published:** Oct 16, 2026
-
----
-### Kawaii Twitch-Emote Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung einer Kawaii-Stil-Twitch-Emote-Animation eines Mannes aus einem Foto, der Missbilligung ausdrückt.
-
-#### 📝 Prompt
-
-```
-Twitch-Chat-Emote im Kawaii-Stil des Mannes aus dem Foto als niedliches Anime-Gesicht. Ausdruck: pepe-no – stark missbilligendes Nein-Gesicht, schiefes nach unten gezogenes Mund, zusammengezogene dicke Augenbrauen, halb geschlossene Augen in Ablehnung mit dunkelbraunen Iris, Kopf leicht...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111209006060736512/img/MTCKcroTEsG0LVto.jpg" width="600" alt="Kawaii Twitch-Emote Video-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12700)**
-
-**Author:** [もっしぃ（野原 生好）](https://x.com/Mosshy) | **Source:** [Link](https://x.com/Mosshy/status/2111209020271026684) | **Published:** Oct 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2888,6 +2920,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-27T04:51:42.469Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-27T14:38:24.935Z</sub>
 
 </div>

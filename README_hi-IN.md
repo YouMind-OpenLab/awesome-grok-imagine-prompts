@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3231** |
+| 📝 Total Prompts | **3239** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-27** |
 
@@ -189,6 +189,134 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### एंथ्रोपोमॉर्फिक बडी-कॉप फिल्म स्टिल प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक विस्तृत वीडियो/इमेज प्रॉम्प्ट, जो वर्षा में भीगे नियॉन पुलिस स्टेशन में एंथ्रोपोमॉर्फिक जानवरों के साथ 1987 की बडी-कॉप शैली का दृश्य बनाता है।
+
+#### 📝 Prompt
+
+```
+शैली: 1987 की बडी-कॉप फिल्म का स्टिल, फोटोरियलिस्टिक मानवरूपी जानवर, रात में बारिश भरा नियॉन पुलिस प्रिसिंक्ट, वेनेशियन-ब्लाइंड शैडो, पिंक+टील नियॉन, गर्म डेस्क लैंप, 35mm ग्रेन, कोई टेक्स्ट नहीं
+
+1 · कॉर्डुरॉय सूट पहने एक बूढ़ा बैसेट हाउंड एक बॉक्स पकड़े हुए है: "I'm too old for this."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114968452397981696/img/3KAvfbOYqeaC8fuZ.jpg" width="600" alt="एंथ्रोपोमॉर्फिक बडी-कॉप फिल्म स्टिल प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13123)**
+
+**Author:** [Nora Vale](https://x.com/NoravaleAI) | **Source:** [Link](https://x.com/NoravaleAI/status/2114969055740256340) | **Published:** Oct 27, 2026
+
+---
+### AI Chibi रूपांतरण वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine का उपयोग करके अगले स्तर के AI Chibi किरदार परिवर्तन वीडियो उत्पन्न करने के लिए विस्तृत प्रॉम्प्ट संरचना।
+
+#### 📝 Prompt
+
+```
+[जनरेशन लक्ष्य]
+एक AI Chibi कैरेक्टर का नेक्स्ट-लेवल ट्रांसफॉर्मेशन वीडियो जनरेट करें, जो एडवांस्ड मेटामॉर्फोसिस के कई चरणों से गुजरते हुए विकसित होता है।
+
+[विषय और संबंध]
+मुख्य विषय एक सिंगल AI Chibi है: एक प्यारा, बड़े सिर वाला chibi-स्टाइल फिगर जिस पर ग्लोइंग डिजिटल सर्किट पैटर्न, मुलायम गोल अंग और ऊर्जा से धड़कता हुआ एक AI कोर है। कोई अन्य कैरेक्टर नहीं दिखाई देता।
+
+[इवेंट स्क्रिप्ट]
+शुरुआत में: AI Chibi एक सॉफ्ट नियॉन शून्य (void) में स्थिर खड़ा है — छोटा और बेहद प्यारा, जिसके शरीर पर साधारण ग्लोइंग लाइनें हैं।
+मुख्य इवेंट: यह नेक्स्ट-लेवल ट्रांसफॉर्मेशन शुरू करता है — पहले, इसके शरीर पर स्लीक मेटैलिक आर्मर प्लेट्स बनती हैं, होलोग्राफिक विंग्स खुलते हैं और इसके चारों ओर डिजिटल कोड स्ट्रीम्स घूमती हैं; दूसरे, इसका आकार थोड़ा बढ़ता है जब क्रिस्टलाइन एनर्जी शार्ड्स जुड़कर शक्तिशाली अंग बनाते हैं और एक चमकदार AI क्राउन प्रकट होता है; तीसरे, पार्टिकल ट्रेल्स और लाइट बीम्स के साथ पूरा साइबरनेटिक फ्यूजन होता है, जो इसके अल्टिमेट फॉर्म में बदलने पर फूट पड़ते हैं।
+अंत में: पूरी तरह ट्रांसफॉर्म हुआ नेक्स्ट-लेवल AI Chibi हीरोइक अंदाज में खड़ा है, जो तीव्र एनर्जी ऑरा से चमक रहा है, सर्किट्स दहक रहे हैं और विंग्स पूरी तरह फैले हुए हैं।
+
+[स्थिरता बनाए रखें]
+सिंगल AI Chibi की पहचान, chibi अनुपात और निरंतर ट्रांसफॉर्मेशन प्रग्रेस को बिना किसी अतिरिक्त कैरेक्टर या अचानक बदलाव के स्थिर रखें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114950818344439808/img/oEVJcstUCgyjGtaJ.jpg" width="600" alt="AI Chibi रूपांतरण वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13124)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114951756870250843) | **Published:** Oct 27, 2026
+
+---
+### साइबरपंक ट्रांसफॉर्मेशन वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine का उपयोग करके महानगर की रात के दृश्य में फोटोरियलिस्टिक साइबरपंक ट्रांसफॉर्मेशन वीडियो बनाने के लिए विस्तृत प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+एक घने मेगासिटी के नाइटस्केप में अगले स्तर के साइ-फाई साइबरपंक ट्रांसफॉर्मेशन को दर्शाता हुआ एक शुद्ध यथार्थवादी फोटोरियलिस्टिक वीडियो जनरेट करें।
+
+[Event Script]
+शुरुआत में, बारिश से भीगी नियॉन सड़कें और ऊँची ग्लास टावर्स लगातार हो रही बूंदाबांदी के बीच होलोग्राफिक विज्ञापनों और लेज़र ग्रिड्स को रिफ्लेक्ट करती हैं, जबकि आम राहगीर और वाहन गीली डामर सड़क पर आते-जाते दिखते हैं। एक अकेला व्यक्ति खुले प्लाज़ा में कदम रखता है और तभी ट्रांसफॉर्मेशन सिस्टम सक्रिय हो जाते हैं: ज़मीन से नैनाइट स्ट्रीम्स उठकर शरीर पर छा जाती हैं, कपड़े बदलकर चमकती सर्किट लाइन्स और लिविंग मेटल प्लेटिंग वाली लेयर्ड एडाप्टिव आर्मर में ढल जाते हैं, मैकेनिकल लिम्ब्स और स्पाइनल इम्प्लांट्स सटीक मैकेनिकल मोशन के साथ बाहर निकलकर अपनी जगह पर लॉक हो जाते हैं, और चेहरे की बनावट बदलकर एन्हांस्ड साइबरनेटिक आँखों और स्लीक क्रैनियल इंटरफेसेस का रूप ले लेती है। आस-पास का इंफ्रास्ट्रक्चर भी उसी समय बदलने लगता है—स्ट्रीट लैंप्स बढ़कर डेटा पाइलॉन बन जाते हैं, बिलबोर्ड्स टूटकर हवा में तैरते होलोग्राफिक वॉल्यूम्स में बदल जाते हैं, वाहन एक्सपोज़्ड थ्रस्टर्स और लाइट ट्रेल्स वाले कम ऊँचाई पर उड़ने वाले साइबर ट्रांसपोर्ट्स में तब्दील हो जाते हैं, और इमारतों के फेसाड खुलकर विशाल चमकते कंड्युट्स और नियॉन के वर्टिकल गार्डन्स को दिखाते हैं। पास मौजूद अन्य लोग भी एक साथ आंशिक ट्रांसफॉर्मेशन से गुज़रते हैं; उनकी भुजाओं और धड़ पर इसी तरह की आर्मर प्लेटिंग और लाइट-ट्रेल्स आ जाती हैं, लेकिन उनका मानवीय अनुपात नहीं बिगड़ता। अंत में, पूरी तरह ट्रांसफॉर्म हो चुका मुख्य व्यक्ति एक पूर्ण विकसित साइबरपंक माहौल के बीच खड़ा होता है, रिफ्लेक्टिव सतहों पर बारिश अब भी गिर रही होती है, शहर के होलोग्राफिक सिस्टम पूरी तरह ऑनलाइन होते हैं, और बचे हुए नैनाइट पार्टिकल्स एम्बिएंट ग्लो में समा जाते हैं।
+
+[Maintain Consistency]
+शुद्ध फोटोरियलिस्टिक रेंडरिंग बनाए रखें, गीली धातु और कांच पर सामग्रियों का सटीक रिफ्लेक्शन, बारिश का प्राकृतिक फिजिक्स, ट्रांसफॉर्मेशन के दौरान शरीर के सुसंगत अनुपात, सियान-मैजेंटा-एम्बर का स्थिर नियॉन कलर पैलेट, और बिना किसी स्टाइलाइज़ेशन या कार्टून इफेक्ट्स के लगातार नाइट-टाइम लाइटिंग बरकरार रखें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114883706259460096/img/HznffzwKdvVg3LYQ.jpg" width="600" alt="साइबरपंक ट्रांसफॉर्मेशन वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13121)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114883782545489945) | **Published:** Oct 27, 2026
+
+---
+### सनी ओशन बे बीच सीन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत लैंडस्केप वीडियो प्रॉम्प्ट जिसमें लाइटहाउस, किले, टग बोट्स, डॉल्फिन और एगेट्स शामिल हैं।
+
+#### 📝 Prompt
+
+```
+धूप से नहाया समुद्री खाड़ी का किनारा, एक तरफ ऊँची चट्टान पर लाइटहाउस और दूसरी तरफ शानदार महल, समंदर में बस एक पीला टग बोट तैरता हुआ, दो डॉल्फ़िन पानी से छलाँग लगाते हुए, आसमान से गिरता लाल रिबन जो सीधा बीच पर आकर टिक जाता है, और रेत पर बिखरे नीले एगेट (blue agates)।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114812002468270080/img/ayAXF9nHbyCSNYs5.jpg" width="600" alt="सनी ओशन बे बीच सीन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13120)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2114812099801325687) | **Published:** Oct 26, 2026
+
+---
+### लॉजिक और मैजिक यूरोडांस एमवी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine में बनाई गई 2000s Eurodance म्यूजिक वीडियो के लिए विस्तृत सीन डेस्क्रिप्शन, जिसमें स्प्लिट-स्क्रीन लॉजिक बनाम हार्ट थीम्स शामिल हैं।
+
+#### 📝 Prompt
+
+```
+मेरे दिमाग ने कहा नहीं।
+मेरे दिल ने कहा हाँ।
+तो मैंने दोनों को आधी-आधी स्क्रीन दे दी।
+
+LOGIC AND THE MAGIC: 
+मेरा नया गाना, और एक 2000s Eurodance म्यूजिक वीडियो जहाँ HUD खुद अपना पक्ष चुनता है।
+
+• बाईं तरफ HEAD है, ठंडा सियान रंग, जो खतरे का हिसाब लगा रहा है
+• दाईं तरफ HEART है, चटक पिंक रंग, जो धड़कनें गिन रहा है
+• NO और YES के बीच एक सुई पूरे गाने में इधर-उधर घूमती रहती है
+• जब वो "no" गाती है, तो NO स्क्रीन पर छा जाता है। और जब वो "yes" गाती है, तो जीत YES की होती है
+
+LUMI एक वायरफ्रेम शून्य से चमकता हुआ सफेद वायलिन लेकर एक खचाखच भरे क्लब में आती है, गुलाबी आसमान में तैरने लगती है, और ड्रॉप पर ग्रिड टूटकर गुलाब की पंखुड़ियों में बदल जाता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114710323387383808/img/-KwJS278J28v9jON.jpg" width="600" alt="लॉजिक और मैजिक यूरोडांस एमवी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13119)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2114756440200003874) | **Published:** Oct 26, 2026
+
+---
 ### बिल्ली लेज़र पॉइंटर इंटरैक्शन प्रॉम्प्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +353,44 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13073)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114503259666964624) | **Published:** Oct 25, 2026
+
+---
+### Spock Squirrel Song Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक अलौकिक वीडियो जनरेशन प्रॉम्प्ट, जिसमें Mr. Spock गाना 'Space Cowboy' गा रहे हैं और एक गिलहरी 'I Believe I Can Fly' गा रही है।
+
+#### 📝 Prompt
+
+```
+अपनी Eye Imaga Nation का इस्तेमाल करके Making Art Great Again जोड़ें, जिसमें Mr Spock स्पेस काउबॉय गा रहे हों और गिलहरी कह रही हो "I believe I can fly"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114500239390302208/img/wANHTQI0leC2nfXT.jpg" width="600" alt="Spock Squirrel Song Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13118)**
+
+**Author:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmasQuirrel) | **Source:** [Link](https://x.com/KarmasQuirrel/status/2114500250589180143) | **Published:** Oct 25, 2026
+
+---
+### Grok Imagine वीडियो प्रॉम्प्ट: समुद्र तट पर जोड़े की सेटिंग्स
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine में इमेज-टू-वीडियो जनरेशन के लिए एक प्रॉम्प्ट जो सेटिंग्स (720p, 6s) और सामग्री (समुद्र तट पर यथार्थवादी जोड़ा) निर्दिष्ट करता है।
+
+#### 📝 Prompt
+
+```
+दी गई इमेज के आधार पर इस प्रॉम्प्ट का इस्तेमाल करके मेरे लिए एक नया वीडियो बनाएं: "Realistic couple on a beach soft waves behind them", इन सेटिंग्स के साथ: 720p, 6s.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114497398277836800/img/AXVQqvTE7JVybGsx.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट: समुद्र तट पर जोड़े की सेटिंग्स">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13117)**
+
+**Author:** [Tim Bevins](https://x.com/TimBevinsedyo) | **Source:** [Link](https://x.com/TimBevinsedyo/status/2114497432566251900) | **Published:** Oct 25, 2026
 
 ---
 ### चंद्रमा पर वापसी: अंतरिक्ष यात्री प्रॉम्प्ट
@@ -611,6 +777,25 @@ Grok! क्या तुम इसे एनिमेट करके और �
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13012)**
 
 **Author:** [Alan Gooding](https://x.com/empoweredathome) | **Source:** [Link](https://x.com/empoweredathome/status/2113932768501772425) | **Published:** Oct 24, 2026
+
+---
+### मंगल ग्रह पर सुबह की कॉफी – Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> मंगल ग्रह पर सुबह की कॉफी पीने का एक सिनेमाई वीडियो प्रॉम्प्ट, जिसमें अनोखी लाइटिंग इफेक्ट्स हैं।
+
+#### 📝 Prompt
+
+```
+मंगल ग्रह पर सुबह की कॉफ़ी। जब पूरा शहर नीचे आपका इंतज़ार कर रहा हो, तो रोशनी का असर ही कुछ और होता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113925387034013696/img/XdJePsOVzW76oDd_.jpg" width="600" alt="मंगल ग्रह पर सुबह की कॉफी – Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13122)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2113925565459689499) | **Published:** Oct 24, 2026
 
 ---
 ### ज़ॉम्बी किमोनो कैंडी पार्टी
@@ -2676,159 +2861,6 @@ SHOT 5 (12 से 15 सेकंड): स्थिर शॉट, कैमर�
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111523923150205138) | **Published:** Oct 17, 2026
 
 ---
-### फोटो बूथ स्ट्रिप कोलाज
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine का उपयोग करके चार संलग्न फोटो से एक क्लासिक फोटो बूथ स्ट्रिप कोलाज बनाने के लिए प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक ऊंचा पोर्ट्रेट कैनवस पर एक क्लासिक फोटो-बूथ-स्ट्रिप कोलाज बनाएं। सभी चार संलग्न फोटो को एक लंबवत फोटो-बूथ स्ट्रिप में व्यवस्थित करें: चार समान ऊंचाई वाले आयताकार सेल, जिनमें से एक सीधे दूसरे के ऊपर हो, पूरी ऊंचाई और चौड़ाई को भरते हुए...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111388481515622400/img/D_n1NPDXvPAPTDE8.jpg" width="600" alt="फोटो बूथ स्ट्रिप कोलाज">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12707)**
-
-**Author:** [Christian Thormann Andersen](https://x.com/cleancane) | **Source:** [Link](https://x.com/cleancane/status/2111388492794065184) | **Published:** Oct 17, 2026
-
----
-### सर्पिल रोशनी से तारों तक का वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> अंधेरे में दो रोशनी के सर्पिल आकार को वर्णित करने वाला एक काव्यात्मक प्रॉम्प्ट, जिसमें चमकते हुए स्पार्कल्स रात के आकाश में तारों में बदल जाते हैं।
-
-#### 📝 Prompt
-
-```
-अंधेरे में दो रोशनी एक-दूसरे के चारों ओर घूमती हैं, और हर हलचल के साथ चमकते हुए कण बिखरते हैं — ये चमकते कण रात के आकाश में तारे बन जाते हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111340253776953345/img/b9pe-XzIM6bri4ts.jpg" width="600" alt="सर्पिल रोशनी से तारों तक का वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12652)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111340335054135657) | **Published:** Oct 17, 2026
-
----
-### हाइपरस्टिशनल लिमिनल म्यूजिक वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जटिल प्रॉम्प्ट जो एक निरंतर हाइपरस्टिशनल लिमिनल म्यूजिक-वीडियो सीक्वेंस जनरेट करने के लिए है, जिसमें एक अहंकारी लिमिनल टाइम-लॉर्ड को समयरेखाओं के आर्किटेक्ट के रूप में दर्शाया गया है।
-
-#### 📝 Prompt
-
-```
-[जनरेशन लक्ष्य]
-एक निरंतर हाइपरस्टिशनल लिमिनल म्यूजिक-वीडियो सीक्वेंस जनरेट करें जो एक असंतुलित अहंकारी लिमिनल टाइम-लॉर्ड को दृश्यमान करता है, जिसे अतीत की और भविष्य की उन समयरेखाओं का एगमेंटेड हाइपरस्टिशन आर्किटेक्ट के रूप में दिखाया जाता है जो मौजूद नहीं होनी चाहिए थीं। मुख्य भाव...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111293085527240704/img/CrZQe-DDm8Rp8e0i.jpg" width="600" alt="हाइपरस्टिशनल लिमिनल म्यूजिक वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12701)**
-
-**Author:** [AscensionToNull](https://x.com/adeptusnull) | **Source:** [Link](https://x.com/adeptusnull/status/2111293107408957641) | **Published:** Oct 17, 2026
-
----
-### Tesla Roadster बनाम F1 मोनाको
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्रॉम्प्ट जिसमें इमेज रेफरेंस का उपयोग करके विषय को मोनाको में फॉर्मूला 1 कारों के खिलाफ Tesla Roadster में दौड़ते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-कल्पना करें कि @Image1 नई Tesla Roadster रॉकेट में मोनाको 🇲🇨 में फॉर्मूला 1 कारों के खिलाफ दौड़ रहा है और सभी अन्य कारों को लैप देकर रेस जीत रहा है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111282735461396480/img/r6ogtt-TzB9HCPeJ.jpg" width="600" alt="Tesla Roadster बनाम F1 मोनाको">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12704)**
-
-**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2111282777387843851) | **Published:** Oct 17, 2026
-
----
-### गाय गार्डनर सुपरहीरो वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बैटमैन: द ब्रेव एंड द बोल्ड और यंग जस्टिस की शैली को मिलाकर गाय गार्डनर के लाइव-एक्शन स्टाइल वीडियो बनाने के लिए एक विस्तृत प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-6 सेकंड का, लाइव-एक्शन स्टाइल वीडियो बनाएं जिसमें फोटो-रियलिस्टिक गाय गार्डनर हों, जो *Batman: The Brave and the Bold* के साहसी, भारी-भरकम सुपरहीरो लुक और *Young Justice* के तेज, एथलेटिक स्टाइलिंग को जोड़ते हैं। उनके पास छोटे लाल बाल हैं...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111278956355690496/img/7ReSLGlzNQ8WAa47.jpg" width="600" alt="गाय गार्डनर सुपरहीरो वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12702)**
-
-**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2111278984818544775) | **Published:** Oct 17, 2026
-
----
-### टेस्ला रॉकेट थ्रस्टर फ्लाइट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्रॉम्प्ट जो एक वीडियो दिखाता है जिसमें टेस्ला रोडस्टर रॉकेट थ्रस्टर का उपयोग करके हाईवे से उड़ान भर रहा है।
-
-#### 📝 Prompt
-
-```
-रॉकेट थ्रस्टर के साथ टेस्ला रोडस्टर हाईवे से हवा में उड़ता हुआ, उड़ती हुई टेस्ला
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111271405366988800/img/1AZ7UruZa7ynbxvO.jpg" width="600" alt="टेस्ला रॉकेट थ्रस्टर फ्लाइट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12654)**
-
-**Author:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **Source:** [Link](https://x.com/TIME2064/status/2111271416792224030) | **Published:** Oct 17, 2026
-
----
-### Grok Imagine वीडियो प्रॉम्प्ट - ब्लोंड महिला का क्लोज-अप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जो लहरदार बालों और झुर्रियों वाली एक ब्लोंड महिला की विशिष्ट पहली फ्रेम इमेज से शुरू होता है।
-
-#### 📝 Prompt
-
-```
-वीडियो संलग्न पहली फ्रेम इमेज द्वारा परिभाषित फ्रेम से शुरू होता है: लंबे लहरदार सुनहरे बाल, नीली आँखें, झुर्रियाँ, ब्लैक टैंक टॉप स्ट्रैप्स, और सिल्वर सर्कल पेंडेंट हार वाली एक ब्लोंड महिला का क्लोज-अप, नरम हरे और सफेद धुंधले...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111227053664026624/img/EUJDKPrS2S-58QJR.jpg" width="600" alt="Grok Imagine वीडियो प्रॉम्प्ट - ब्लोंड महिला का क्लोज-अप">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12698)**
-
-**Author:** [SkyCipher (Sky)](https://x.com/skycipher) | **Source:** [Link](https://x.com/skycipher/status/2111227074375561452) | **Published:** Oct 16, 2026
-
----
-### Kawaii Twitch Emote वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> फोटो में दिख रहे व्यक्ति का kawaii-शैली वाला Twitch emote एनिमेशन बनाने के लिए विस्तृत प्रॉम्प्ट, जो असहमति व्यक्त करता है।
-
-#### 📝 Prompt
-
-```
-फोटो में दिख रहे व्यक्ति का Kawaii शैली वाला Twitch चैट emote, एक क्यूट anime-शैली चेहरे के रूप में। भाव: pepe-no - मजबूत असहमति भरा 'ना' चेहरा, मुड़ा हुआ नीचे की ओर देखता हुआ मुँह, सिकुड़ी हुई मोटी भौंहें, आंखें आधी बंद और नकारात्मक भाव के साथ गहरे भूरे रंग की पुतलियां, सिर थोड़ा...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111209006060736512/img/MTCKcroTEsG0LVto.jpg" width="600" alt="Kawaii Twitch Emote वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12700)**
-
-**Author:** [もっしぃ（野原 生好）](https://x.com/Mosshy) | **Source:** [Link](https://x.com/Mosshy/status/2111209020271026684) | **Published:** Oct 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2890,6 +2922,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-27T04:51:40.388Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-27T14:38:20.731Z</sub>
 
 </div>

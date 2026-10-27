@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3231** |
+| 📝 Total Prompts | **3239** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-27** |
 
@@ -189,6 +189,134 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt Still Phim Buddy-Cop Động Vật Nhân Hóa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video/hình ảnh chi tiết cho Grok Imagine để tạo cảnh phim buddy-cop phong cách năm 1987 với các loài động vật nhân hóa trong một trụ sở cảnh sát mưa đêm đầy ánh đèn neon.
+
+#### 📝 Prompt
+
+```
+Phong cách: ảnh tĩnh từ phim cảnh sát hài đôi bạn năm 1987, động vật hình người chân thực như ảnh chụp, đồn cảnh sát ngập ánh đèn neon trong đêm mưa, bóng đổ kiểu rèm sáo ngang, đèn neon hồng + xanh ngọc, đèn bàn ánh sáng ấm, nhiễu hạt phim 35mm, không có chữ
+
+1 · Chú chó săn basset già mặc bộ vest vải nhung gân đang ôm một chiếc hộp: "Tôi già quá rồi, không kham nổi mấy trò này nữa."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114968452397981696/img/3KAvfbOYqeaC8fuZ.jpg" width="600" alt="Prompt Still Phim Buddy-Cop Động Vật Nhân Hóa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13123)**
+
+**Author:** [Nora Vale](https://x.com/NoravaleAI) | **Source:** [Link](https://x.com/NoravaleAI/status/2114969055740256340) | **Published:** Oct 27, 2026
+
+---
+### Prompt Video Biến Hình Chibi Bằng AI
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cấu trúc prompt chi tiết để tạo video biến hình nhân vật Chibi bằng AI thế hệ mới với Grok Imagine.
+
+#### 📝 Prompt
+
+```
+[Mục tiêu tạo sinh]
+Tạo một video biến đổi cấp độ tiếp theo (next-level) của nhân vật AI Chibi, trải qua nhiều giai đoạn tiến hóa siêu phàm.
+
+[Chủ thể và mối quan hệ]
+Chủ thể trung tâm là một AI Chibi duy nhất: nhân vật chibi dễ thương với phần đầu to, cơ thể in hằn các đường mạch điện tử phát sáng, tay chân bo tròn mềm mại cùng lõi AI liên tục tỏa ra năng lượng. Không có bất kỳ nhân vật nào khác xuất hiện.
+
+[Kịch bản sự kiện]
+Mở đầu: AI Chibi đứng yên trong khoảng không neon dịu nhẹ, dáng vẻ nhỏ nhắn đáng yêu với những đường nét phát sáng đơn giản trên cơ thể.
+Sự kiện chính: Nhân vật bắt đầu chuỗi biến đổi lên cấp độ tiếp theo — trước tiên, những lớp giáp kim loại bóng bẩy dần hình thành bao bọc cơ thể, đôi cánh hologram xòe rộng trong khi các luồng mã code kỹ thuật số xoáy tít xung quanh; tiếp đó, kích thước nhân vật lớn hơn một chút khi những mảnh tinh thể năng lượng kết tụ lại thành tứ chi đầy uy lực, đồng thời một chiếc vương miện AI rực rỡ xuất hiện; cuối cùng, quá trình hợp nhất cybernetic hoàn tất với vô số vệt hạt ánh sáng và tia sáng bùng nổ khi nhân vật đạt đến hình thái tối thượng.
+Kết thúc: AI Chibi sau khi biến đổi hoàn toàn đứng hiên ngang như một người hùng, tỏa sáng rực rỡ với quầng năng lượng mãnh liệt, các đường mạch cháy sáng và đôi cánh mở rộng hết cỡ.
+
+[Duy trì tính nhất quán]
+Giữ nguyên danh tính của AI Chibi duy nhất, tỷ lệ cơ thể chuẩn chibi và tiến trình biến đổi liền mạch, tuyệt đối không thêm nhân vật phụ hay thay đổi đột ngột.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114950818344439808/img/oEVJcstUCgyjGtaJ.jpg" width="600" alt="Prompt Video Biến Hình Chibi Bằng AI">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13124)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114951756870250843) | **Published:** Oct 27, 2026
+
+---
+### Mô Tả Video Chuyển Đổi Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết để tạo video chuyển đổi cyberpunk siêu thực trong bối cảnh thành phố đêm bằng Grok Imagine.
+
+#### 📝 Prompt
+
+```
+[Mục tiêu tạo sinh]
+Tạo một video thuần chân thực (photorealistic) tái hiện những màn biến đổi cyberpunk khoa học viễn tưởng đỉnh cao diễn ra giữa khung cảnh đêm của một siêu đô thị sầm uất.
+
+[Kịch bản sự kiện]
+Mở đầu là những con phố neon ướt đẫm nước mưa cùng các tòa tháp kính chọc trời phản chiếu quảng cáo hologram và lưới laser dưới cơn mưa phùn không ngớt, trong khi người đi bộ và xe cộ vẫn tấp nập di chuyển trên mặt đường nhựa ẩm ướt. Một bóng người đơn độc bước vào khoảng sân trống đúng lúc hệ thống biến đổi được kích hoạt: các dòng nanite trồi lên từ mặt đất rồi bao trùm lấy cơ thể, trang phục dần hóa thành lớp giáp thích ứng nhiều tầng với những đường mạch phát sáng và mảng kim loại sống, tay chân cơ khí cùng thiết bị cấy ghép cột sống vươn ra và khớp vào vị trí bằng những chuyển động cơ học chuẩn xác, còn đường nét khuôn mặt thì tái cấu trúc thành đôi mắt cybernetic tối tân cùng giao diện hộp sọ mượt mà. Hạ tầng xung quanh cũng đồng loạt thay đổi—cột đèn đường vươn dài thành trụ dữ liệu, biển quảng cáo vỡ vụn hóa thành những khối hologram lơ lửng tự do, xe cộ biến hình thành phương tiện cyber bay sát mặt đất với ống đẩy lộ thiên và vệt sáng kéo dài, còn mặt tiền các tòa nhà tách mở để lộ những đường ống dẫn khổng lồ phát sáng cùng khu vườn thẳng đứng rực ánh neon. Vài nhân vật gần đó cũng trải qua quá trình biến đổi một phần đồng bộ, tay chân và thân mình phủ lớp giáp tương tự kèm theo vệt sáng nhưng vẫn giữ nguyên tỷ lệ cơ thể người. Ở đoạn kết, nhân vật trung tâm đã biến đổi hoàn toàn đứng giữa một môi trường cyberpunk tiến hóa trọn vẹn, mưa vẫn rơi trên những bề mặt phản chiếu, hệ thống hologram của thành phố hoạt động hết công suất, và các hạt nanite còn sót lại lắng xuống hòa vào luồng sáng mờ ảo bao quanh.
+
+[Duy trì tính nhất quán]
+Giữ nguyên phong cách dựng hình thuần photorealistic, độ phản chiếu vật liệu chính xác trên bề mặt kim loại và kính ướt, hiệu ứng vật lý của mưa tự nhiên, tỷ lệ cơ thể ổn định xuyên suốt quá trình biến đổi, bảng màu neon nhất quán gồm cyan - magenta - amber, cùng hệ thống ánh sáng ban đêm liên tục, tuyệt đối không thêm thắt hiệu ứng cách điệu hay hoạt hình.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114883706259460096/img/HznffzwKdvVg3LYQ.jpg" width="600" alt="Mô Tả Video Chuyển Đổi Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13121)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114883782545489945) | **Published:** Oct 27, 2026
+
+---
+### Cảnh Bãi Biển Sunny Ocean Bay Nắng Đẹp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video phong cảnh chi tiết với ngọn hải đăng, lâu đài, tàu kéo, cá heo và đá mã não.
+
+#### 📝 Prompt
+
+```
+Vịnh biển ngập nắng, một bên là ngọn hải đăng trên mỏm đá, phía đối diện là lâu đài sừng sững. Chiếc tàu kéo màu vàng lẻ loi giữa đại dương, chỉ có hai chú cá heo đang tung mình vọt lên khỏi mặt nước. Dải ruy băng đỏ từ trên trời buông xuống, nhẹ nhàng đáp trên bãi cát, nơi những viên mã não xanh nằm lấp lánh trên nền cát biển.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114812002468270080/img/ayAXF9nHbyCSNYs5.jpg" width="600" alt="Cảnh Bãi Biển Sunny Ocean Bay Nắng Đẹp">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13120)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2114812099801325687) | **Published:** Oct 26, 2026
+
+---
+### MV Eurodance Logic and Magic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết các cảnh quay cho video âm nhạc Eurodance phong cách thập niên 2000, được tạo bằng Grok Imagine, với chủ đề đối lập giữa lý trí và trái tim trên màn hình chia đôi.
+
+#### 📝 Prompt
+
+```
+Lý trí bảo không.
+Con tim bảo có.
+Thế là tôi chia đôi màn hình cho mỗi đứa một nửa.
+
+LOGIC AND THE MAGIC: 
+ca khúc mới của tôi, kèm theo một MV nhạc Eurodance thập niên 2000, nơi chính giao diện HUD sẽ tự chọn phe.
+
+• Nửa trái là HEAD (LÝ TRÍ), sắc xanh cyan lạnh lẽo, đong đếm rủi ro
+• Nửa phải là HEART (CON TIM), sắc hồng rực cháy, đếm từng nhịp đập
+• Một chiếc kim dao động giữa NO và YES xuyên suốt cả bài hát
+• Khi cô ấy hát "no", chữ NO giáng thẳng xuống màn hình. Khi cô ấy hát "yes", YES lên ngôi
+
+LUMI ôm cây vĩ cầm trắng phát sáng bước từ khoảng không wireframe vào một club chật kín người, bay bổng lên bầu trời hồng, và ngay khoảnh khắc drop, toàn bộ lưới ảnh vỡ vụn thành muôn cánh hoa hồng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114710323387383808/img/-KwJS278J28v9jON.jpg" width="600" alt="MV Eurodance Logic and Magic">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13119)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2114756440200003874) | **Published:** Oct 26, 2026
+
+---
 ### Mẹo Tương Tác Với Mèo Bằng Bút Laser
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +353,44 @@ Một chuỗi biến hình sci-fi điện ảnh 8K siêu chân thực. Mở đ�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13073)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114503259666964624) | **Published:** Oct 25, 2026
+
+---
+### Lời nhắc video bài hát Spock Squirrel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc tạo video siêu thực cho Grok Imagine, với cảnh Mr. Spock hát Space Cowboy và một con sóc hát I Believe I Can Fly.
+
+#### 📝 Prompt
+
+```
+thêm Making Art Great Again với Mr Spock hát ca khúc space cowboy và chú sóc nói I believe I can fly bằng chính Eye Imaga Nation của bạn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114500239390302208/img/wANHTQI0leC2nfXT.jpg" width="600" alt="Lời nhắc video bài hát Spock Squirrel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13118)**
+
+**Author:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmasQuirrel) | **Source:** [Link](https://x.com/KarmasQuirrel/status/2114500250589180143) | **Published:** Oct 25, 2026
+
+---
+### Grok Imagine Video Prompt: Cảnh cặp đôi trên bãi biển
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt thiết lập cấu hình (720p, 6 giây) và nội dung (cặp đôi chân thực trên bãi biển) cho việc tạo video từ ảnh trong Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Hãy tạo cho tôi một video mới dựa trên hình ảnh được cung cấp bằng prompt sau: "Realistic couple on a beach soft waves behind them" với các cài đặt: 720p, 6s.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114497398277836800/img/AXVQqvTE7JVybGsx.jpg" width="600" alt="Grok Imagine Video Prompt: Cảnh cặp đôi trên bãi biển">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13117)**
+
+**Author:** [Tim Bevins](https://x.com/TimBevinsedyo) | **Source:** [Link](https://x.com/TimBevinsedyo/status/2114497432566251900) | **Published:** Oct 25, 2026
 
 ---
 ### Prompt Phi Hành Gia Trở Lại Mặt Trăng
@@ -611,6 +777,25 @@ Ba nhân vật nữ mang đậm chất tương lai trong một phân cảnh sci-
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13012)**
 
 **Author:** [Alan Gooding](https://x.com/empoweredathome) | **Source:** [Link](https://x.com/empoweredathome/status/2113932768501772425) | **Published:** Oct 24, 2026
+
+---
+### Cà Phê Buổi Sáng Trên Sao Hỏa Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả prompt video điện ảnh về việc thưởng thức cà phê buổi sáng trên sao Hỏa với hiệu ứng ánh sáng độc đáo.
+
+#### 📝 Prompt
+
+```
+Ly cà phê sáng trên sao Hỏa. Ánh sáng mang một sắc thái khác hẳn khi cả thành phố đang chờ đợi bên dưới.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113925387034013696/img/XdJePsOVzW76oDd_.jpg" width="600" alt="Cà Phê Buổi Sáng Trên Sao Hỏa Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13122)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2113925565459689499) | **Published:** Oct 24, 2026
 
 ---
 ### Tiệc Kẹo Zombie Kimono
@@ -2681,159 +2866,6 @@ Hơi nước bốc lên từ một dòng suối rộng hơn chảy qua khu rừn
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111523923150205138) | **Published:** Oct 17, 2026
 
 ---
-### Ảnh ghép dải Photobooth
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lời nhắc để tạo ảnh ghép dải photobooth cổ điển từ bốn bức ảnh đính kèm bằng Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Tạo một ảnh ghép dải photobooth cổ điển trên khung canvas dọc. Sắp xếp tất cả bốn bức ảnh đính kèm thành một dải photobooth dọc duy nhất: bốn ô hình chữ nhật có chiều cao bằng nhau, xếp chồng lên nhau theo chiều dọc, lấp đầy toàn bộ chiều cao và chiều rộng...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111388481515622400/img/D_n1NPDXvPAPTDE8.jpg" width="600" alt="Ảnh ghép dải Photobooth">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12707)**
-
-**Author:** [Christian Thormann Andersen](https://x.com/cleancane) | **Source:** [Link](https://x.com/cleancane/status/2111388492794065184) | **Published:** Oct 17, 2026
-
----
-### Video Ánh Sáng Xoáy Thành Sao
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt đầy chất thơ mô tả hai luồng ánh sáng xoáy trong bóng tối, tỏa ra những tia lấp lánh biến thành các vì sao trên bầu trời đêm.
-
-#### 📝 Prompt
-
-```
-Trong bóng tối, hai luồng ánh sáng xoáy quanh nhau, mỗi lần di chuyển đều tỏa ra những tia lấp lánh, và những tia ấy hóa thành các vì sao trên bầu trời đêm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111340253776953345/img/b9pe-XzIM6bri4ts.jpg" width="600" alt="Video Ánh Sáng Xoáy Thành Sao">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12652)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111340335054135657) | **Published:** Oct 17, 2026
-
----
-### Video Âm Nhạc Liminal Hyperstitional
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt phức tạp để tạo chuỗi video âm nhạc liminal hyperstitional liên tục, hình dung một chúa tể thời gian liminal mắc chứng tự ái như một kiến trúc sư của các dòng thời gian.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu Tạo nội dung]
-Tạo một chuỗi video âm nhạc liminal hyperstitional liên tục, hình dung một chúa tể thời gian liminal mắc chứng tự ái mất kiểm soát như một kiến trúc sư hyperstition tăng cường của các dòng thời gian trong quá khứ xa xôi và những tương lai không nên tồn tại. Chủ thể chính...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111293085527240704/img/CrZQe-DDm8Rp8e0i.jpg" width="600" alt="Video Âm Nhạc Liminal Hyperstitional">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12701)**
-
-**Author:** [AscensionToNull](https://x.com/adeptusnull) | **Source:** [Link](https://x.com/adeptusnull/status/2111293107408957641) | **Published:** Oct 17, 2026
-
----
-### Tesla Roadster vs F1 Monaco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt sử dụng tham chiếu hình ảnh để đặt chủ thể vào chiếc Tesla Roadster đang đua với các xe Formula 1 tại Monaco.
-
-#### 📝 Prompt
-
-```
-Hãy tưởng tượng @Image1 đang lái chiếc tên lửa Tesla Roadster mới đua với các xe Formula 1 tại Monaco 🇲🇨 và giành chiến thắng bằng cách vượt vòng tất cả các xe khác
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111282735461396480/img/r6ogtt-TzB9HCPeJ.jpg" width="600" alt="Tesla Roadster vs F1 Monaco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12704)**
-
-**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2111282777387843851) | **Published:** Oct 17, 2026
-
----
-### Video Siêu Anh Hùng Guy Gardner
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết để tạo video phong cách live-action với nhân vật Guy Gardner, kết hợp ngoại hình từ Batman: The Brave and the Bold và Young Justice.
-
-#### 📝 Prompt
-
-```
-Tạo một video dài 6 giây theo phong cách live-action với nhân vật Guy Gardner siêu thực, kết hợp vẻ ngoài mạnh mẽ, vạm vỡ của *Batman: The Brave and the Bold* với phong cách thể thao, sắc nét hơn của *Young Justice*. Anh ấy có mái tóc đỏ ngắn...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111278956355690496/img/7ReSLGlzNQ8WAa47.jpg" width="600" alt="Video Siêu Anh Hùng Guy Gardner">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12702)**
-
-**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2111278984818544775) | **Published:** Oct 17, 2026
-
----
-### Tesla Rocket Thruster Flight
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video mô tả chiếc Tesla Roadster bay lên khỏi đường cao tốc nhờ hệ thống tên lửa đẩy.
-
-#### 📝 Prompt
-
-```
-Tesla Roadster bay lên không trung khỏi đường cao tốc nhờ hệ thống tên lửa đẩy, cảnh tượng xe Tesla bay lượn
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111271405366988800/img/1AZ7UruZa7ynbxvO.jpg" width="600" alt="Tesla Rocket Thruster Flight">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12654)**
-
-**Author:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **Source:** [Link](https://x.com/TIME2064/status/2111271416792224030) | **Published:** Oct 17, 2026
-
----
-### Grok Imagine Video Prompt - Cận cảnh Phụ nữ Tóc vàng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video cho Grok Imagine, bắt đầu từ hình ảnh khung đầu tiên cụ thể của một phụ nữ tóc vàng với mái tóc xoăn và tàn nhang.
-
-#### 📝 Prompt
-
-```
-Video bắt đầu từ khung hình được xác định bởi hình ảnh khung đầu tiên đính kèm: cận cảnh người phụ nữ tóc vàng với mái tóc dài xoăn màu vàng, đôi mắt xanh, tàn nhang, dây áo tank top đen và mặt dây chuyền bạc hình tròn, trên nền mờ ảo màu xanh lá cây và trắng...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111227053664026624/img/EUJDKPrS2S-58QJR.jpg" width="600" alt="Grok Imagine Video Prompt - Cận cảnh Phụ nữ Tóc vàng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12698)**
-
-**Author:** [SkyCipher (Sky)](https://x.com/skycipher) | **Source:** [Link](https://x.com/skycipher/status/2111227074375561452) | **Published:** Oct 16, 2026
-
----
-### Prompt Video Twitch Emote Kawaii
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết để tạo hoạt hình Twitch emote phong cách kawaii của một người đàn ông từ ảnh, thể hiện sự phản đối.
-
-#### 📝 Prompt
-
-```
-Twitch chat emote phong cách kawaii của người đàn ông trong bức ảnh dưới dạng khuôn mặt anime dễ thương. Biểu cảm: pepe-no - khuôn mặt phản đối mạnh mẽ, miệng cau có hướng xuống, lông mày rậm nhíu lại, mắt nửa nhắm trong sự từ chối với mống mắt màu nâu sẫm, đầu hơi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111209006060736512/img/MTCKcroTEsG0LVto.jpg" width="600" alt="Prompt Video Twitch Emote Kawaii">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12700)**
-
-**Author:** [もっしぃ（野原 生好）](https://x.com/Mosshy) | **Source:** [Link](https://x.com/Mosshy/status/2111209020271026684) | **Published:** Oct 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2895,6 +2927,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-27T04:51:39.694Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-27T14:38:18.800Z</sub>
 
 </div>

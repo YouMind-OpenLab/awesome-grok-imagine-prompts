@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3231** |
+| 📝 Total Prompts | **3239** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-27** |
 
@@ -189,6 +189,134 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Antropomorfik Ortak Polis Filmi Duran Görüntü İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, yağmurlu neon bir karakolda antropomorfik hayvanlarla 1987 tarzı bir ortak polis sahnesi oluşturan ayrıntılı bir video/görüntü istemi.
+
+#### 📝 Prompt
+
+```
+Stil: 1987 yapımı bir polisiye komedi filminden alınmış kare, fotogerçekçi antropomorfik hayvanlar, gece vakti yağmurlu neon ışıklı karakol, jaluzi gölgeleri, pembe ve turkuaz neon, sıcak tonlu masa lambası, 35mm film greni, metin yok
+
+1 · Kadife pantolon takımı giymiş yaşlı bir basset tazısı elinde bir kutu tutuyor: "Bu işler için artık çok yaşlıyım."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114968452397981696/img/3KAvfbOYqeaC8fuZ.jpg" width="600" alt="Antropomorfik Ortak Polis Filmi Duran Görüntü İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13123)**
+
+**Author:** [Nora Vale](https://x.com/NoravaleAI) | **Source:** [Link](https://x.com/NoravaleAI/status/2114969055740256340) | **Published:** Oct 27, 2026
+
+---
+### AI Chibi Dönüşüm Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine kullanarak üst düzey bir AI Chibi karakter dönüşüm videosu oluşturmak için ayrıntılı istem yapısı.
+
+#### 📝 Prompt
+
+```
+[Oluşturma Hedefi]
+Bir AI Chibi karakterinin birden fazla ileri düzey metamorfoz aşamasından geçerek evrildiği, bir üst seviye dönüşüm videosu oluşturun.
+
+[Konular ve İlişkiler]
+Ana konu tek bir AI Chibi'dir: parlayan dijital devre desenlerine, yumuşak ve yuvarlak hatlı uzuvlara, enerjiyle titreşen bir AI çekirdeğine sahip, sevimli, büyük kafalı chibi tarzı bir figür. Başka hiçbir karakter yer almaz.
+
+[Olay Senaryosu]
+Başlangıçta: AI Chibi, yumuşak neon bir boşlukta hareketsiz durur; küçük ve sevimli görünümüyle vücudunda basit, parlayan çizgiler bulunur.
+Ana olay: Bir üst seviye dönüşümlerine başlar — önce vücudunu pürüzsüz metalik zırh plakaları kaplarken holografik kanatları açılır ve etrafında dijital kod akıntıları döner; ardından boyutu hafifçe büyürken kristal enerji parçacıkları güçlü uzuvlara dönüşür ve ışıl ışıl parlayan bir AI tacı belirir; son olarak tam siber füzyon gerçekleşir ve nihai formuna ulaştığı anda parçacık izleri ile ışık huzmeleri patlar.
+Sonunda: Dönüşümünü tamamen tamamlamış, bir üst seviye AI Chibi kahramanca bir duruşla ayakta durur; yoğun enerji auralarıyla parlar, devreleri alev alev yanar ve kanatları sonuna kadar açılmıştır.
+
+[Tutarlılığı Koruyun]
+Tek AI Chibi kimliğini, chibi oranlarını ve kesintisiz dönüşüm ilerleyişini koruyun; ek karakterler veya ani değişiklikler olmamalıdır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114950818344439808/img/oEVJcstUCgyjGtaJ.jpg" width="600" alt="AI Chibi Dönüşüm Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13124)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114951756870250843) | **Published:** Oct 27, 2026
+
+---
+### Siberpunk Dönüşüm Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine kullanarak bir mega şehir gece manzarasında fotogerçekçi bir siberpunk dönüşüm videosu oluşturmak için ayrıntılı istem.
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+Yoğun bir megakent gece manzarasında gerçekleşen, üst düzey bilim kurgu cyberpunk dönüşümlerini anlatan, tamamen gerçekçi ve fotogerçekçi bir video oluşturun.
+
+[Event Script]
+Başlangıçta, yağmurdan ıslanmış neon sokaklar ve yükselen cam kuleler, sürekli yağan çisenti altında holografik reklamları ve lazer ağlarını yansıtırken sıradan yayalar ve araçlar ıslak asfaltta ilerlemektedir. Yalnız bir figür açık bir meydana adım attığında dönüşüm sistemleri devreye girer: Nanit akıntıları yerden yükselerek bedenin üzerine dökülür; kıyafetler, parlayan devre hatları ve canlı metal plakalara sahip katmanlı adaptif bir zırha dönüşür; mekanik uzuvlar ve omurga implantları hassas mekanik hareketlerle açılarak yerine oturur; yüz hatları ise geliştirilmiş sibernetik gözlere ve şık kraniyal arayüzlere evrilir. Çevredeki altyapı da eş zamanlı olarak dönüşür; sokak lambaları veri direklerine uzar, reklam panoları serbestçe süzülen holografik hacimlere dağılır, araçlar açık iticileri ve ışık izleriyle alçaktan süzülen siber taşıtlara yeniden şekillenir, bina cepheleri aralanarak devasa parlayan kanalları ve neon dikey bahçeleri gözler önüne serer. Yakındaki diğer figürler de senkronize kısmi dönüşümler geçirir; uzuvları ve gövdeleri insan oranlarını kaybetmeden benzer zırh plakaları ve ışık izleri kazanır. Sonunda, tam dönüşümünü tamamlamış ana figür, baştan aşağı evrimleşmiş bir cyberpunk ortamının ortasında durmaktadır. Yağmur yansıtıcı yüzeylere düşmeye devam eder, holografik şehir sistemleri tamamen çevrimiçi hâle gelir ve kalan nanit parçacıkları ortamdaki ambiyans aydınlatmasına karışarak yerleşir.
+
+[Maintain Consistency]
+Tamamen fotogerçekçi işleme kalitesini, ıslak metal ve cam üzerindeki doğru malzeme yansımalarını, doğal yağmur fiziğini, dönüşüm sırasında tutarlı vücut oranlarını, cyan-magenta-amber tonlarından oluşan sabit neon renk paletini ve herhangi bir stilizasyon ya da çizgi film efekti içermeyen kesintisiz gece aydınlatmasını koruyun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114883706259460096/img/HznffzwKdvVg3LYQ.jpg" width="600" alt="Siberpunk Dönüşüm Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13121)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114883782545489945) | **Published:** Oct 27, 2026
+
+---
+### Güneşli Okyanus Koyu Sahne Görüntüsü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Deniz fenerleri, kaleler, römorkörler, yunuslar ve akik taşları içeren detaylı bir manzara video istemi.
+
+#### 📝 Prompt
+
+```
+Güneşli okyanus koyu plajı, bir burunda deniz feneri diğer burunda kale, okyanusta sarı römorkör, okyanustan sıçrayan yalnızca iki yunus, gökyüzünden düşüp sahile inen kırmızı kurdele, kumsalın üzerindeki mavi akik taşları
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114812002468270080/img/ayAXF9nHbyCSNYs5.jpg" width="600" alt="Güneşli Okyanus Koyu Sahne Görüntüsü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13120)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2114812099801325687) | **Published:** Oct 26, 2026
+
+---
+### Logic ve Magic Eurodance MV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine ile oluşturulan, mantık ve kalp temalarını ikiye bölünmüş ekranla işleyen 2000'ler Eurodance müzik videosu için detaylı sahne açıklamaları.
+
+#### 📝 Prompt
+
+```
+Aklım hayır dedi.
+Kalbim evet.
+Ben de ekranı ikisinin arasında paylaştırdım.
+
+LOGIC AND THE MAGIC: 
+yeni şarkım ve HUD'ın bizzat taraf seçtiği 2000'ler Eurodance tarzı bir müzik videosu.
+
+• Sol yarı AKIL; soğuk cyan tonunda, riskleri sayıyor
+• Sağ yarı KALP; sıcak pembe tonunda, atışları sayıyor
+• NO ile YES arasında gidip gelen bir ibre şarkı boyunca süzülüyor
+• "No" diye söylediğinde NO ekrana çarpıyor. "Yes" dediğinde ise YES kazanıyor
+
+LUMI, parıl parıl beyaz kemanını tel kafesli bir boşluktan alıp tıklım tıklım dolu bir kulübe taşıyor, pembe bir gökyüzüne süzülüyor ve drop anında ızgara gül yapraklarına dönüşüp dağılıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114710323387383808/img/-KwJS278J28v9jON.jpg" width="600" alt="Logic ve Magic Eurodance MV">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13119)**
+
+**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2114756440200003874) | **Published:** Oct 26, 2026
+
+---
 ### Kedi Lazer İşaretçisi Etkileşim İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -225,6 +353,44 @@ Hiper gerçekçi, sinematik bir 8K bilim kurgu dönüşüm sahnesi. Kaynak görs
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13073)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114503259666964624) | **Published:** Oct 25, 2026
+
+---
+### Spock Sincap Şarkı Videosu İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için Mr. Spock'un Space Cowboy şarkısını söylediği ve bir sincabın I Believe I Can Fly şarkısını seslendirdiği sürreal bir video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Eye Imaga Nation'ınızı kullanarak, uzay kovboyunu söyleyen Mr Spock ve "I believe I can fly" diyen sincap ile Making Art Great Again'i ekleyin
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114500239390302208/img/wANHTQI0leC2nfXT.jpg" width="600" alt="Spock Sincap Şarkı Videosu İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13118)**
+
+**Author:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmasQuirrel) | **Source:** [Link](https://x.com/KarmasQuirrel/status/2114500250589180143) | **Published:** Oct 25, 2026
+
+---
+### Grok Imagine Video İstemi: Sahil Çifti Ayarları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine'de görüntüden videoya üretim için ayarları (720p, 6s) ve içeriği (gerçekçi bir çift sahilde) belirten istem.
+
+#### 📝 Prompt
+
+```
+Sağlanan görseli temel alarak şu prompt ile yeni bir video oluştur: "Realistic couple on a beach soft waves behind them". Kullanılacak ayarlar: 720p, 6s.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114497398277836800/img/AXVQqvTE7JVybGsx.jpg" width="600" alt="Grok Imagine Video İstemi: Sahil Çifti Ayarları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13117)**
+
+**Author:** [Tim Bevins](https://x.com/TimBevinsedyo) | **Source:** [Link](https://x.com/TimBevinsedyo/status/2114497432566251900) | **Published:** Oct 25, 2026
 
 ---
 ### Ay'a Dönüş Astronot İstemcisi
@@ -611,6 +777,25 @@ Dramatik, yüksek teknolojili bir bilim kurgu sahnesinde üç fütüristik kadı
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13012)**
 
 **Author:** [Alan Gooding](https://x.com/empoweredathome) | **Source:** [Link](https://x.com/empoweredathome/status/2113932768501772425) | **Published:** Oct 24, 2026
+
+---
+### Mars'ta Sabah Kahvesi Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Benzersiz ışık efektleriyle Mars'ta sabah kahvesi içmeyi anlatan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Mars'ta sabah kahvesi. Şehir aşağıda seni beklerken ışık bambaşka vuruyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113925387034013696/img/XdJePsOVzW76oDd_.jpg" width="600" alt="Mars'ta Sabah Kahvesi Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13122)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2113925565459689499) | **Published:** Oct 24, 2026
 
 ---
 ### Zombi Kimono Şeker Partisi
@@ -2674,159 +2859,6 @@ Ormandan geçen daha geniş bir dereden yükselen su buharı, dere kenarında su
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111523923150205138) | **Published:** Oct 17, 2026
 
 ---
-### Fotoğraf Kabini Şerit Kolajı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine kullanarak dört ekli fotoğraftan klasik bir fotoğraf kabini şerit kolajı oluşturmak için istem.
-
-#### 📝 Prompt
-
-```
-Uzun dikey bir tuval üzerinde klasik bir fotoğraf kabini şeridi kolajı oluşturun. Dört ekli fotoğrafın tamamını tek bir dikey fotoğraf kabini şeridinde düzenleyin: Birbirinin hemen üzerine yerleştirilmiş, eşit yükseklikte dört dikdörtgen hücre; tüm yüksekliği ve genişliği dolduracak şekilde...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111388481515622400/img/D_n1NPDXvPAPTDE8.jpg" width="600" alt="Fotoğraf Kabini Şerit Kolajı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12707)**
-
-**Author:** [Christian Thormann Andersen](https://x.com/cleancane) | **Source:** [Link](https://x.com/cleancane/status/2111388492794065184) | **Published:** Oct 17, 2026
-
----
-### Yıldızlara Dönüşen Işık Sarmalları Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlıkta birbirinin etrafında dönen iki ışığı ve bu hareket sırasında saçılan kıvılcımların gece gökyüzünde yıldızlara dönüşmesini anlatan şiirsel bir istem.
-
-#### 📝 Prompt
-
-```
-Karanlıkta iki ışık birbirinin etrafında spiral şeklinde dönerken kıvılcımlar saçar; bu kıvılcımlar gece gökyüzünde yıldızlara dönüşür.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111340253776953345/img/b9pe-XzIM6bri4ts.jpg" width="600" alt="Yıldızlara Dönüşen Işık Sarmalları Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12652)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2111340335054135657) | **Published:** Oct 17, 2026
-
----
-### Hiperstisyonel Eşik Müzik Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Zaman çizgilerinin mimarı olarak bir egomanik eşik zaman lordunu görselleştiren, sürekli hiperstisyonel eşik müzik videosu dizisi oluşturmak için karmaşık bir istem.
-
-#### 📝 Prompt
-
-```
-[Üretim Hedefi]
-Geçmişteki ve var olmaması gereken gelecekteki zaman çizgilerinin arttırılmış hiperstisyon mimarı olarak çılgın bir egomanik eşik zaman lordunu görselleştiren, sürekli hiperstisyonel eşik müzik videosu dizisi üretin. Ana ev...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111293085527240704/img/CrZQe-DDm8Rp8e0i.jpg" width="600" alt="Hiperstisyonel Eşik Müzik Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12701)**
-
-**Author:** [AscensionToNull](https://x.com/adeptusnull) | **Source:** [Link](https://x.com/adeptusnull/status/2111293107408957641) | **Published:** Oct 17, 2026
-
----
-### Tesla Roadster vs F1 Monaco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir görsel referansı kullanarak bir özneyi, Formula 1 araçlarıyla Monaco'da yarışan bir Tesla Roadster'a yerleştiren bir istem.
-
-#### 📝 Prompt
-
-```
-@Image1'in yeni Tesla Roadster roketiyle 🇲🇨 Monaco'da Formula 1 araçlarına karşı yarıştığını ve tüm diğer araçları tur yedirerek yarışı kazandığını hayal edin
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111282735461396480/img/r6ogtt-TzB9HCPeJ.jpg" width="600" alt="Tesla Roadster vs F1 Monaco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12704)**
-
-**Author:** [SuperGeekCRC](https://x.com/SuperGeekCRC) | **Source:** [Link](https://x.com/SuperGeekCRC/status/2111282777387843851) | **Published:** Oct 17, 2026
-
----
-### Guy Gardner Süper Kahraman Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Batman: The Brave and the Bold ve Young Justice dizilerindeki görünümleri harmanlayarak Guy Gardner'ın yer aldığı gerçekçi bir video oluşturmak için detaylı bir istem.
-
-#### 📝 Prompt
-
-```
-6 saniyelik, gerçekçi çekim tarzında, *Batman: The Brave and the Bold*'daki cesur ve iri yapılı süper kahraman görünümü ile *Young Justice*'deki daha keskin ve atletik stilin birleşimini yansıtan fotogerçekçi bir Guy Gardner içeren bir video oluşturun. Kısa kızıl saçları...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111278956355690496/img/7ReSLGlzNQ8WAa47.jpg" width="600" alt="Guy Gardner Süper Kahraman Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12702)**
-
-**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2111278984818544775) | **Published:** Oct 17, 2026
-
----
-### Tesla Roket İtki Sistemi Uçuşu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir Tesla Roadster'ın roket itki sistemlerini kullanarak otoyoldan havaya uçmasını gösteren bir video istemi.
-
-#### 📝 Prompt
-
-```
-Roket itki sistemleriyle otoyoldan havalanan ve havada süzülen Tesla Roadster
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111271405366988800/img/1AZ7UruZa7ynbxvO.jpg" width="600" alt="Tesla Roket İtki Sistemi Uçuşu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12654)**
-
-**Author:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **Source:** [Link](https://x.com/TIME2064/status/2111271416792224030) | **Published:** Oct 17, 2026
-
----
-### Grok Imagine Video Prompt - Sarışın Kadın Yakın Çekim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dalgalı saçlı ve çilli sarışın bir kadının ilk kare görselinden başlayan Grok Imagine için video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Video, ekli ilk kare görseliyle tanımlanan çerçeveden başlar: uzun dalgalı sarı saçları, mavi gözleri, çilleri, siyah askılı üstü ve gümüş yuvarlak kolyesi olan sarışın bir kadının yakın çekimi; arka plan yumuşak yeşil-beyaz bulanık...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111227053664026624/img/EUJDKPrS2S-58QJR.jpg" width="600" alt="Grok Imagine Video Prompt - Sarışın Kadın Yakın Çekim">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12698)**
-
-**Author:** [SkyCipher (Sky)](https://x.com/skycipher) | **Source:** [Link](https://x.com/skycipher/status/2111227074375561452) | **Published:** Oct 16, 2026
-
----
-### Kawaii Twitch Emote Video İstemcisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fotoğraftaki bir adamın onaylamazlık ifade eden kawaii tarzı Twitch emote animasyonunu oluşturmak için detaylı istem.
-
-#### 📝 Prompt
-
-```
-Fotoğraftaki adamın sevimli anime tarzı yüz olarak tasvir edildiği kawaii tarzı Twitch sohbet emotesi. İfade: pepe-no - güçlü onaylamayan hayır ifadesi, buruşuk kalın kaşlar, reddedici yarı kapalı gözler ve koyu kahverengi irisler, hafif baş eğimi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111209006060736512/img/MTCKcroTEsG0LVto.jpg" width="600" alt="Kawaii Twitch Emote Video İstemcisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12700)**
-
-**Author:** [もっしぃ（野原 生好）](https://x.com/Mosshy) | **Source:** [Link](https://x.com/Mosshy/status/2111209020271026684) | **Published:** Oct 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2888,6 +2920,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-27T04:51:46.278Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-27T14:38:32.902Z</sub>
 
 </div>
