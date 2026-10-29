@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3239** |
+| 📝 提示词总数 | **3253** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-10-29** |
 
@@ -189,6 +189,319 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 赛博朋克人类进化视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成科幻赛博朋克视频的详细提示词，展示一个人物在霓虹大都市中经历数字与有机融合的蜕变过程。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段纯次世代进化与次世代蜕变风格的科幻赛博朋克视频。核心主体是一个孤独的人形，在霓虹浸透的超级都市中持续经历数字与有机的形态嬗变，通过层层递进的机械飞升阶段，最终进化为更高级的混合生命体。
+
+[主体与关系]
+中心人物起初只是一个人类剪影，随后逐渐吸收并融合周围的纳米科技、代码流与机械建筑结构。画面中不出现其他角色。城市与人物始终保持着共生关系：环境为其蜕变提供养分，而不断进化的生命体也在重塑着周围的城市。
+
+[事件脚本]
+开场：一个人伫立在雨水冲刷过的街道上，四周是高耸入云的全息摩天大楼，粉色、青色与电光紫的霓虹招牌明灭闪烁。柔和的生物荧光回路如活体纹身般，开始在皮肤上蔓延爬行。
+主要事件：液态金属浪潮与发光的数据丝线从地面和空中汹涌而出，缠绕住整个身体。血肉无缝消融，化作晶体装甲板、神经纤维丝与全息能量场。四肢延展为优雅的多关节机械义体；面部重构为流畅发光的护目镜形态。周围的建筑实时重组——墙壁裂开化为数据传送门，无人机群蜂拥而至并融入人物的新躯体，雨滴在半空中凝结成发光的代码粒子。蜕变随一波波能量脉冲不断升级：每一次脉动都将这个生命体推向更高维度——皮肤变为半透明的铬金质感，骨骼化作悬浮的能量晶格，意识向外扩张为浩瀚的数字光环，重写着整片天际线。
+结尾：完全进化的混合体巍然矗立，成为一个由纯粹光芒、金属与代码构成的优雅后人类实体，微微悬浮于重构后的城市上空。整座超级都市如今与它的全新形态同频共振，霓虹如跳动的血管般奔涌流淌，整个画面散发着超越极限的赛博朋克力量感。
+
+[视觉风格]
+超精细的次世代赛博朋克美学：极致锐利的全息界面、体积感十足的霓虹雾气、潮湿反光的表面、二进制光流粒子，以及幻彩铬金与生物荧光有机科技的完美融合。营造出一种势不可挡、华丽至极的科技飞升氛围。
+
+[镜头]
+动态电影级运镜：以人物的中景开场，随着蜕变启动，镜头开始环绕并向前推进。保持一镜到底的连贯张力，跟拍镜头不断加速，伴随进化中的形体螺旋上升，最终以全景英雄式构图收尾，展现完全蜕变的实体傲立于被重写后的天际线前。
+
+[音效]
+深沉的工业赛博脉冲配乐逐渐攀升，演变为高亢的电子合成音。其中交织着液态金属形变声、层叠的数字故障音效、能量激增的低鸣，以及远处的城市环境音，最终汇聚成一曲恢弘的合成器谐波合唱
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115679892595675136/img/JXYW_KVRWMxvBIPN.jpg" width="600" alt="赛博朋克人类进化视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13148)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115680392078635134) | **发布时间:** Oct 29, 2026
+
+---
+### 蒸汽朋克巴黎：电影级奇幻
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的视频生成提示词，旨在打造融合电影奇幻元素的蒸汽朋克风格巴黎。
+
+#### 📝 提示词
+
+```
+一个从未到来的未来巴黎。⚙️✨
+
+蒸汽朋克高定邂逅电影级奇幻想象。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115650594216235008/img/bIXegfAGGdkXgsTl.jpg" width="600" alt="蒸汽朋克巴黎：电影级奇幻">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13149)**
+
+**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **来源:** [Link](https://x.com/thesimaximalist/status/2115650658942783982) | **发布时间:** Oct 29, 2026
+
+---
+### 灯笼到机器人礼服变身提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的科幻变身视频提示词：灯笼落在女子脚上，触发机械机器人礼服的生成。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段连贯且极具视觉冲击力的变身视频。一盏灯笼落在她的脚上，随即立刻将她变身为机械战甲裙装。
+
+[事件脚本]
+开场时她静立原地，一盏传统纸灯笼从上方落下，正正砸在她的脚上。接触瞬间，灯笼碎裂并释放出耀眼光芒，变身过程从撞击点开始蔓延。金属装甲板、关节与机械部件迅速在脚部成型，随后沿腿部、躯干和手臂向上延伸，将她的衣物彻底转化为一套完整的机械战甲裙装，带有分块式护甲板、发光电路以及液压结构般的细节。随着最后几块装甲板锁定到位，她的姿态也随之改变，切换为更具力量感、更坚固的机甲站姿；裙装完全激活，内部亮起柔和的光芒。
+
+[保持一致性]
+全程保持同一主体不中断；仅有一盏灯笼，且只落在脚上；变身过程不可逆，严格从灯笼落下的瞬间开始，到她被机械战甲裙装完全包裹时结束。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115641158994948096/img/kRKd-vzMhxTAyj4e.jpg" width="600" alt="灯笼到机器人礼服变身提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13147)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115641431864098998) | **发布时间:** Oct 29, 2026
+
+---
+### 电影级科幻空间站视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成逼真科幻视频的精细提示词，展现飞船或轨道站伴随体积光和镜头运动缓缓入画的场景。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段纯粹的电影级写实科幻视频，呈现连贯且极具沉浸感的氛围长镜头。
+
+[事件脚本]
+开场：在冰冷的星光下，展现浩瀚空旷的宇宙深空或未来巨型建筑的走廊。细微的粒子缓缓漂浮，远处星野若隐若现。
+核心事件：科幻全景徐徐展开——一艘线条流畅的巨型飞船或轨道空间站缓缓驶入画面，全息界面与能量场亮起柔和的光芒，体积光束穿透弥漫的雾气或失重环境下的微尘。镜头以连续跟拍的方式平稳向前推进，依次展露精密的金属细节、反光表面以及泛着光芒的推进系统。随着色温从深邃幽蓝悄然过渡至空灵青绿，整体氛围愈发浓厚。
+结尾：画面定格于一个开阔恢弘的全景构图，完整呈现整个科幻场景，并伴有悠长的光轨与柔和的镜头光晕。
+
+[保持一致性]
+保持材质（拉丝金属、玻璃、能量场）纯粹的写实渲染效果，维持统一的冷调电影级布光；除非必要，不出现任何角色；确保科幻世界的空间比例始终稳定。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115629877210607616/img/B0lZcaX1JeaTGu10.jpg" width="600" alt="电影级科幻空间站视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13145)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **发布时间:** Oct 29, 2026
+
+---
+### Grok Imagine 时空穿越肖像提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的提示词，利用用户照片生成其在最能体现自我特质的历史时代的视频。AI 将自主选择年代、发型、服装、妆容及整体造型，同时确保人物形象清晰可辨。
+
+#### 📝 提示词
+
+```
+根据你对我的所有了解，把我放到一个最能让我做回自己的时代。用我的照片，由你来挑选年代、发型、穿搭和妆容，打造整体造型。一定要保证我还能被认出来，别问我任何问题。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115479225167704064/img/RC8RGX6BXUppQhom.jpg" width="600" alt="Grok Imagine 时空穿越肖像提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13156)**
+
+**作者:** [Charles Liebert](https://x.com/Charles_Liebert) | **来源:** [Link](https://x.com/Charles_Liebert/status/2115479241202499709) | **发布时间:** Oct 28, 2026
+
+---
+### Grok Imagine 视频提示词：Lantern 变身序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份用于通过 Grok Imagine 生成角色 Lantern 变身战斗服的电影感视频的详细提示词。内容涵盖事件脚本、视觉风格（魔法少女/超级英雄）、镜头运动及音效设计。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段进阶版变身序列，展现 Lantern 变身为战斗服的过程。核心主体为 Lantern，主要事件是她蓄力变身的过程，最终以全副武装、随时应战的姿态收尾。
+
+[事件脚本]
+开场：Lantern 以自然放松的姿态站立，周身开始泛起柔和的内光，能量粒子在她身边盘旋飞舞。
+主要事件：随着服装不断解构与重塑，能量光芒愈发耀眼——布料重新编织，装甲板凭空显现，发光的提灯图腾与光能纹路逐一锁定在她的全身各处。魔法光轨与粒子爆流环绕四周，她身体微微悬浮，双臂舒展，战斗服在极具张力的层层展现中彻底成型。
+结尾：Lantern 完成全部变身，身着战斗服傲然挺立，气场全开、蓄势待发，残余的能量特效逐渐消散，最终定格为稳健的战斗姿态。
+
+[视觉风格]
+高燃魔法少女 / 超级英雄变身美学，搭配璀璨的光效、发光粒子、能量轨迹以及极具戏剧张力的光影，充分凸显变身的强大力量感。整个序列需保持流畅、史诗感十足，并将视觉冲击力拉满。
+
+[镜头]
+动态电影级运镜：从中景起幅，在能量爆发的高潮阶段环绕并推进镜头，以大开大合的运镜和充满张力的角度捕捉全身变身过程，完美呈现战斗服的成型瞬间。
+
+[声音]
+强劲的能量嗡鸣与呼啸声层层递进，一路攀升至爆发顶点；其间交织着闪烁的光粒子音效，并在战斗服锁定的瞬间加入一记震撼的重击音效（stinger）。无对白。
+
+[保持一致性]
+全程确保 Lantern 作为唯一且连贯的主体。变身前后她的身份特征保持不变，仅服装与能力表现形式切换为战斗服状态。从初始状态到完全变身的战斗形态，需保留清晰连贯的视觉演变过程。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115394762090098689/img/hVHuhI7chEhUhUW-.jpg" width="600" alt="Grok Imagine 视频提示词：Lantern 变身序列">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13150)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115395330632282324) | **发布时间:** Oct 28, 2026
+
+---
+### 带有水粉纹理的宇宙太空场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成宇宙太空场景的详细提示词，采用特定颜色（绿松石色、淡紫色、蓝色）和厚重的水粉画纹理，呈现旋转的星云与繁星。
+
+#### 📝 提示词
+
+```
+仅使用参考图中完全相同的鲜艳青绿色、柔和丁香紫和深邃蓝色，搭配厚重的水粉颜料肌理，创作一幅惊艳的宇宙星空场景。充满魔力的手绘宇宙：旋转的星云、闪耀的星辰、遥远的星系……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115388329575288832/img/D6ISarPDgJvLUjiT.jpg" width="600" alt="带有水粉纹理的宇宙太空场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13144)**
+
+**作者:** [Magdalena Kanas](https://x.com/KanasMagdalena) | **来源:** [Link](https://x.com/KanasMagdalena/status/2115389269413970029) | **发布时间:** Oct 28, 2026
+
+---
+### 韩国王后肖像图像提示词
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 用于生成身着朝鲜王朝传统服饰的韩国王后肖像的图像生成提示词，背景为宫殿与牡丹。用户指出 Grok Imagine 在视频生成过程中添加了发簪等额外细节。
+
+#### 📝 提示词
+
+```
+一位年轻的女王伫立在韩国古宫殿前，四周盛开着橙色的牡丹。她身着宫廷服饰，一袭红色赤古里（jeogori）上绣着奢华的金线纹样，下搭白色裙子（chima）。
+挽起的发髻间插着一支点缀着粉珊瑚的发簪（binyeo），额前佩戴着小巧的银色圆形珠翠（jochi），上面镶嵌着红宝石、蓝宝石与珍珠。
+画面比例 9:16。韩剧风格。
+```
+
+<img src="https://cms-assets.youmind.com/media/1793259730850_wtz5yy_HVszvFsaQAARtCp.jpg" width="600" alt="韩国王后肖像图像提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13157)**
+
+**作者:** [華月光](https://x.com/hanagekkou) | **来源:** [Link](https://x.com/hanagekkou/status/2115341470593143095) | **发布时间:** Oct 28, 2026
+
+---
+### 金属棒变身金属战衣视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的提示词，用于生成科幻风格的变形视频：一位女性手持的金属棒逐渐演变为全身金属战衣。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段缓慢、清晰且极具视觉冲击力的进阶变形序列：她手中握着的金属棒逐渐幻化，最终变形成包裹全身的 metallic suit（金属战衣）。
+
+[事件脚本]
+开场时，她单手握紧金属棒站立，该物体形态完整、坚实，一眼即可辨认出是一根金属棒。变形从掌心接触点开始：金属棒表面逐渐软化，如液态金属般向外流淌，率先覆盖她的手指与手掌。随后，这种金属材质沿着手臂缓慢而持续地向上蔓延，接着流经双肩与躯干，勾勒出棱角分明的几何边缘与高反光镀铬表面，依次成型胸甲、腰甲与胯甲。金属继续向下延伸至双腿，化作大腿与小腿护甲，最终在靴口处收拢闭合，将整套战衣彻底密封。每一个变形阶段都从容不迫且细节拉满，确保从手持金属棒到全身金属战衣的演变过程清晰可辨。结尾处，她已完全被成型的金属战衣包裹；原本的金属棒不再作为独立物体存在，其全部质量已完美融入这身铠甲之中。
+
+[保持一致性]
+全程保持她的身份特征、身材比例、姿势以及“由液态缓慢凝固为固态”的金属变形过程稳定不变。战衣最终的金属质感、反光效果及无缝融合的细节必须始终清晰、前后一致。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115306755467116544/img/YkdNiyOVJAW9E5JR.jpg" width="600" alt="金属棒变身金属战衣视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13146)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115306979820491100) | **发布时间:** Oct 28, 2026
+
+---
+### Grok Imagine 咖啡馆日常生活视频提示词
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个结构化的视频提示词，用于生成一段 12 秒的咖啡馆场景，主角为咖啡师。该提示词利用两张参考图片（@Image1、@Image2）来保持视觉一致性，并为每个镜头定义了特定的姿势和摄像机角度。
+
+#### 📝 提示词
+
+```
+整段视频的基本规格：
+保持人物形象一致。一位年轻的女店员，身穿藏青色 Polo 衫、戴着遮阳空顶帽和棕色围裙。背景是质感温润的木质咖啡吧台。温暖的自然光。
+[镜头 1：0s-6s] 基于 @Image1
+* 动作 1（0s-3s）：@Image1 的画面状态。女店员正用滴滤壶将咖啡小心翼翼地注入白色杯中。
+* 动作 2（3s-6s）：倒完咖啡后，她将壶放回原处，注视着冲好的咖啡，露出温柔的微笑。
+[镜头 2：6s-12s] 基于 @Image2（切换角度）
+* 动作 1（6s-9s）：@Image2 的特写角度。她神情专注又不失温柔地为咖啡续杯，静静看着热气升腾。
+* 动作 2（9s-12s）：她忽然抬头看向镜头（顾客视角），温柔地微笑着说“让您久等了”，并微微低头致意。
+BGM 构想
+“温暖柔和的原声 Bossa Nova（舒缓的吉他旋律搭配咖啡馆环境音）”
+```
+
+<img src="https://cms-assets.youmind.com/media/1793259728803_ncupts_HVrRlRmbYAAzlOW.jpg" width="600" alt="Grok Imagine 咖啡馆日常生活视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13155)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **来源:** [Link](https://x.com/HaluAIArt/status/2115284925310255415) | **发布时间:** Oct 28, 2026
+
+---
+### SpaceX Starship 地球至火星电影级视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 生成的详细视频提示词，用于创作 SpaceX Starship 从地球飞往火星的连续电影级序列，涵盖发射、轨道转移及着陆全过程。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段连贯的电影级视频，展现 SpaceX Starship 飞船搭载乘客从地球飞往火星的全过程。
+
+[事件脚本]
+开场时，Starship 垂直矗立在海岸发射台上，头顶是地球澄澈的蔚蓝天空，透过上层客舱的巨大舷窗，可以清晰看到舱内的宇航员乘组。引擎点火，喷射出明亮的橙色火焰与浓密的白色蒸汽云，飞船随即拔地而起，在大气层中不断加速爬升。镜头随后切换至轨道视角，随着 Starship 滑行进入深空，地球在下方渐渐远去。核心事件：漫长的星际航行，飞船穿越浩瀚虚空，飞向那颗泛着红光的火星圆盘，而火星的轮廓也在视野中逐渐变大。结尾处，Starship 在稀薄的粉红色天空下，于尘土飞扬的火星表面完成受控动力着陆；随着着陆腿触及地面，引擎推力逐步减小，飞船最终稳稳直立停驻。
+
+[保持一致性]
+全程保持 Starship 整体的不锈钢外观、尺寸比例、舷窗布局及推进系统配置稳定不变。地球的蓝色出发环境与火星的红色抵达环境之间需保持清晰的视觉区分。从发射到着陆，始终呈现舱内搭载乘客的画面。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115039304548552704/img/1CW0EkBI89QJx2Z-.jpg" width="600" alt="SpaceX Starship 地球至火星电影级视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13151)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115039637609828487) | **发布时间:** Oct 27, 2026
+
+---
+### Cybercab 风暴视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成科幻视频的详细提示词，展示夜间霓虹闪烁的大都市中成群结队的自动驾驶飞行出租车。
+
+#### 📝 提示词
+
+```
+目的：生成一段 cybercab 风暴视频——密集、高速的流线型自动驾驶飞行出租车群穿梭于未来感十足的夜间都市，汇聚成一场铺天盖地的空中车流风暴。
+
+描述：
+开场时，夜幕下的霓虹巨型都市天际线在阴沉的风暴云层下铺展开来，零星的 cybercab 开始从屋顶和高架停机坪上腾空而起。核心画面：数百辆流光溢彩的 cybercab 加速、倾斜、穿插，编队既整齐划一又狂野不羁；推进器拖曳出蓝白色的光轨，它们如一场由金属与能量交织而成的活体雷暴般布满天空，在摩天大楼之间灵活闪避。结尾处，车群密度达到顶峰，化作一条连绵不绝的空中光河，在流光溢彩的街道上方占据整个画面。
+
+保持一致性
+所有 cybercab 须保持统一的流线型设计，并呈现出庞大集群的规模感；保留夜间霓虹光影、阴沉的风暴天空以及持续的高速运动状态，全程不得出现任何个体碰撞事故或天空突然空旷的画面。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115032410752688128/img/RhB6xI105z_vmLAC.jpg" width="600" alt="Cybercab 风暴视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13153)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115032907261816941) | **发布时间:** Oct 27, 2026
+
+---
 ### 拟人化警匪搭档电影剧照提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -315,6 +628,25 @@ LUMI 拉着一把发光的白色小提琴，从线框构成的虚空走进人声
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13119)**
 
 **作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2114756440200003874) | **发布时间:** Oct 26, 2026
+
+---
+### 女孩与机器人装甲进化
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频提示词，展示女孩与机器人同伴变身为带有白色和金色能量的战斗装甲。
+
+#### 📝 提示词
+
+```
+次世代进化序列。少女与她的机器人伙伴迎来震撼蜕变。白金色的能量在周身汹涌激荡，身上的街头潮服随之幻化为尖端战斗装甲。机器人体型略微膨胀，气势愈发凌厉。碎石残骸腾空而起。电影级质感、张力十足、超高细节的视频。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114718012540620800/img/H2lTw9eyvRiXGnY1.jpg" width="600" alt="女孩与机器人装甲进化">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13154)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2114718405647622441) | **发布时间:** Oct 26, 2026
 
 ---
 ### 猫咪激光笔互动提示词
@@ -1706,6 +2038,25 @@ Elon Musk 在灯火通明的巨型 Tesla 工厂内，面对一支 Tesla Optimus 
 **作者:** [レイヴ](https://x.com/raves9361) | **来源:** [Link](https://x.com/raves9361/status/2113216645950775792) | **发布时间:** Oct 22, 2026
 
 ---
+### 外星人拍打马克·扎克伯格的场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的视频提示词，生成一个虚构的科幻场景：外星人拍打马克·扎克伯格（Mark Zuckerberg），强调逼真的物理效果和镜头运动。
+
+#### 📝 提示词
+
+```
+超写实电影级科幻场景，位于军用机场停机坪上，与参考图保持一致。一个高大且极具压迫感的外星人站在 Mark Zuckerberg 左侧，近距离面对着他。突然，外星人挥手狠狠扇了 Zuckerberg 一巴掌。Zuckerberg 瞬间失去平衡，踉跄后退，重重摔在水泥地上。安保人员震惊不已，其他外星人则在一旁冷眼旁观。整个动作过程中，外星人始终保持在画面左侧。真实的身体物理效果、剧烈的镜头晃动、电影级光影、细腻的面部表情、4K 超写实画质，竖版 9:16 画幅。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113212610980298752/img/UwIEAzUJh2qlyN1q.jpg" width="600" alt="外星人拍打马克·扎克伯格的场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13152)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2113213049255731339) | **发布时间:** Oct 22, 2026
+
+---
 ### 龙与尼泊尔女士插画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2585,282 +2936,6 @@ BGM “（请构思与图片氛围相匹配的 BGM）”
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2112218502107205691) | **发布时间:** Oct 19, 2026
 
 ---
-### 天使之翼光芒扩展
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的视觉提示，描述天使通过翅膀扩展光芒并飞向第三层天堂。
-
-#### 📝 提示词
-
-```
-一位天使用翅膀遮蔽自己，直到光芒透过翅膀扩展并穿透全身，随后她飞入第三层天堂。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112002366715187200/img/CuVKtDon9KGFWG1V.jpg" width="600" alt="天使之翼光芒扩展">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12744)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **发布时间:** Oct 19, 2026
-
----
-### Grok Imagine 中国山水画风格无人机航拍
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Grok Imagine 视频生成提示词：以王希孟宋代长卷为灵感的青绿山水画卷，呈现垂直电影感无人机航拍镜头。
-
-#### 📝 提示词
-
-```
-竖屏电影感无人机镜头向前飞行，穿梭于一幅鲜活的中国青绿山水画中，风格参考王希孟的宋代画卷《千里江山图》：以石青与石绿绘就的巍峨群峰，山间云雾缭绕飘动，苍松枝干虬曲盘绕，江面上点缀着小巧的亭台与舟船，金色光芒穿透薄雾洒落，水墨肌理与写实景深完美交融，运镜缓慢而恢弘大气，意境空灵缥缈，细节丰富，8K 分辨率
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111994510440030208/img/kxhx0uIqj_goWPDR.jpg" width="600" alt="Grok Imagine 中国山水画风格无人机航拍">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12805)**
-
-**作者:** [Jerry Dai| 顺天](https://x.com/shuntian2026) | **来源:** [Link](https://x.com/shuntian2026/status/2111996041906307225) | **发布时间:** Oct 19, 2026
-
----
-### Grok Imagine 电影级时钟视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的电影级视频提示词，展示了一位疲惫的男子坐在桌前，时钟正好指向 8:00。
-
-#### 📝 提示词
-
-```
-制作一段 6 秒的电影感视频：一名疲惫的男子坐在办公桌前，抬头瞥了一眼墙上的指针式时钟，时间显示为 7:59:58。特写镜头中，秒针跳动两下，时钟正好指向 8:00，分针指向 12，时针指向 8。在……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111949764417724416/img/duft5ue13wvfclvH.jpg" width="600" alt="Grok Imagine 电影级时钟视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12800)**
-
-**作者:** [Ligma Ballz](https://x.com/LBallz77283) | **来源:** [Link](https://x.com/LBallz77283/status/2111949821171155240) | **发布时间:** Oct 18, 2026
-
----
-### 埃隆·马斯克驾驶特斯拉纽约视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于使用 Grok Imagine 生成埃隆·马斯克驾驶特斯拉穿越纽约街头搞笑视频的简单提示词。
-
-#### 📝 提示词
-
-```
-搞笑视频。我和埃隆·马斯克正驾驶着特斯拉穿梭在纽约的大街小巷。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111927231232524288/img/ACatCxO4jnjOwOtt.jpg" width="600" alt="埃隆·马斯克驾驶特斯拉纽约视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12743)**
-
-**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **来源:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **发布时间:** Oct 18, 2026
-
----
-### Elon 与 Optimus 周一抵达
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个幽默的提示词，描述了 Elon Musk 和 Optimus 在大型发布会后抵达办公室的场景，由 Grok Imagine 生成。
-
-#### 📝 提示词
-
-```
-周四的发布会简直炸裂全场，周一 Elon Musk 带着 Tesla Optimus 霸气登场办公室。🦅🔥
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111828358648516608/img/6gOTLp0zakP_Qipy.jpg" width="600" alt="Elon 与 Optimus 周一抵达">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13023)**
-
-**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **来源:** [Link](https://x.com/thesimaximalist/status/2111828533676806310) | **发布时间:** Oct 18, 2026
-
----
-### Claudia 动漫风格 Tesla Roadster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用 Grok Imagine 将真人转化为动漫风格的 Tesla Roadster 场景视频生成提示词。
-
-#### 📝 提示词
-
-```
-CLAUDIA × SI — 白色 Tesla Roadster 🤍🚀
-一次生成实现真人到动漫的转换 @imagine 
-
-@anabology 我尝试用 @bot 将 Claudia 改编为动漫风格
-```
-
-<img src="https://pbs.twimg.com/media/HU6OwhcWoAAHtHn.jpg" width="600" alt="Claudia 动漫风格 Tesla Roadster">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12746)**
-
-**作者:** [Dima Nurm](https://x.com/NURM_Dima) | **来源:** [Link](https://x.com/NURM_Dima/status/2111782488544539049) | **发布时间:** Oct 18, 2026
-
----
-### Knightsquirrel 对战机器人机甲
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 视频提示词：延续 Knightsquirrel 的故事，驾驶 Bass Mech 与机器人战斗。
-
-#### 📝 提示词
-
-```
-扩展 Knightsquirrel 的故事，继续驾驶他的 Bass Mech 与 Treble 的机器人战斗
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111702540928577536/img/vx0G6jhxWBnxh2nZ.jpg" width="600" alt="Knightsquirrel 对战机器人机甲">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12747)**
-
-**作者:** [Michael Erikson](https://x.com/erikson_michael) | **来源:** [Link](https://x.com/erikson_michael/status/2111702741881921889) | **发布时间:** Oct 18, 2026
-
----
-### 鹰捕鱼第一人称视角视频序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的视频提示词，描述了一只鹰俯冲入清澈见底的水中抓取一条鱼，镜头从第一人称视角（POV）过渡到俯视拉远镜头。
-
-#### 📝 提示词
-
-```
-鹰俯冲入清澈见底的水中抓取一条鱼，保持第一人称视角（POV），随后切换至俯视拉远镜头，最终淡出融入云层
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111635732368355328/img/3sQclpWkqyUIYhBC.jpg" width="600" alt="鹰捕鱼第一人称视角视频序列">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12699)**
-
-**作者:** [Louie Dog](https://x.com/sumwearoutthere) | **来源:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **发布时间:** Oct 18, 2026
-
----
-### VHS 湖怪伪纪录片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的多镜头视频提示词，模拟 1990 年代摄像机拍摄的湖怪袭击家庭的画面，包含 VHS 伪影和特定的摄影机运动。
-
-#### 📝 提示词
-
-```
-1990 年代摄像机伪纪录片风格，VHS 磁带伪影，跟踪线，色差，自动对焦搜索，高光过曝，摇晃的业余手持摄影机，角落烧录的日期时间戳。色彩分级：褪色的灰绿色，暗淡的肤色，过曝的苍白天空。
-一只巨大的深色湖中生物，背部有脊状突起，长颈，大部分透过雾气以剪影形式呈现。北方湖泊的木制码头上有一家人和一艘独木舟。
-镜头 1（0 至 3 秒）：匹配参考图像的手持广角镜头，摄影机笨拙地变焦，远处湖面生物背部破水而出，水流如帘般倾泻而下。
-镜头 2（3 至 6 秒）：手持中景镜头，摄影机快速摇向码头上的家庭，一个孩子指着，一位父亲将独木舟拉出水面，画面因跟踪线而故障闪烁。
-镜头 3（6 至 9 秒）：广角镜头，自动对焦搜索，长颈从雾中升起，高得不可思议，一股巨浪涌向码头。
-镜头 4（9 至 12 秒）：奔跑中的手持镜头，摄影机随着操作者逃上木制楼梯而剧烈颠簸，背景中闪现湖面，巨浪撞击码头。
-镜头 5（12 至 15 秒）：固定镜头，摄影机掉落在草地上并侧翻，生物的剪影缓缓沉回雾中，随后磁带故障变为蓝屏。
-潜鸟鸣叫，磁带嘶嘶声，风刮过麦克风的声音，湖中传来深沉如雾号般的叫声，孩子的喊叫声，恐慌的呼吸声，木头断裂声，最后是一声 VHS 跟踪噪音后的寂静。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111585229756391424/img/1K0p3KhB2LfWMhMl.jpg" width="600" alt="VHS 湖怪伪纪录片">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12748)**
-
-**作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **来源:** [Link](https://x.com/AllaAisling/status/2111621281754005784) | **发布时间:** Oct 18, 2026
-
----
-### 情侣照片 T 恤样机视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频生成提示词，将输入内容转化为印有特定情侣照片的黑色棉质 T 恤逼真产品样机。
-
-#### 📝 提示词
-
-```
-将其转化为一款时尚黑色棉质 T 恤的高品质逼真产品样机。将那张确切的情侣照片（手臂有纹身、面带微笑的女士与留着黑发、佩戴珍珠项链并拥抱她的男士）大幅居中印在 fro...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111597123510611968/img/FCqcqicB-TWCjLs_.jpg" width="600" alt="情侣照片 T 恤样机视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12706)**
-
-**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **来源:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **发布时间:** Oct 17, 2026
-
----
-### 水下跑车文字场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影感视频提示词，画面从带有文字的黑色屏幕过渡到海底的黑色船体场景，伴有低沉的嗡鸣声。
-
-#### 📝 提示词
-
-```
-黑屏。文字：“Elon 的 Roadster 在飞行。我们的不会问。” 水下——海底的黑色船体。低沉的嗡鸣声....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111593551935225856/img/CbwZYpH9Pyj368Sw.jpg" width="600" alt="水下跑车文字场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12745)**
-
-**作者:** [Puchamamax](https://x.com/aaoomaxi) | **来源:** [Link](https://x.com/aaoomaxi/status/2111593612438126991) | **发布时间:** Oct 17, 2026
-
----
-### 意大利餐厅场景提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的视频场景提示词，描绘了意大利餐厅中配有红酒、海鲜和烛光的环境。
-
-#### 📝 提示词
-
-```
-我身处一家意大利餐厅。桌上放着一瓶红酒和两个酒杯。还有两盘海鲜。女服务员正在为桌上的蜡烛点火。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111562011309981697/img/MD5Nn1DadWn6j6Pw.jpg" width="600" alt="意大利餐厅场景提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12708)**
-
-**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **来源:** [Link](https://x.com/jaras70berlin/status/2111562048945410556) | **发布时间:** Oct 17, 2026
-
----
-### 南瓜田万圣节之夜
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成 45 秒视频的提示词，描绘角色在蓝色月光下的恐怖南瓜田场景。
-
-#### 📝 提示词
-
-```
-45 秒视频，包含这三个角色，背景为恐怖的南瓜田万圣节之夜，伴有蓝色月亮
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111548059507466242/img/WB_3fyDCR7kKHXnj.jpg" width="600" alt="南瓜田万圣节之夜">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12703)**
-
-**作者:** [BlueMoon Operations](https://x.com/CRinkleib) | **来源:** [Link](https://x.com/CRinkleib/status/2111548067057209497) | **发布时间:** Oct 17, 2026
-
----
-### 鹿饮溪水视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频生成提示词，展示鹿在森林溪流中饮水的场景，并指示移除第二只母鹿。
-
-#### 📝 提示词
-
-```
-穿过森林的较宽溪流上方水汽升腾，一只母鹿和一只公鹿正在溪边饮水，请移除第二只母鹿
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111523846931337216/img/3GhXX_Hz2Y1ixHzw.jpg" width="600" alt="鹿饮溪水视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12705)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2111523923150205138) | **发布时间:** Oct 17, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2922,6 +2997,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-29T05:37:09.059Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-29T15:25:33.393Z</sub>
 
 </div>

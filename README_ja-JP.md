@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3239** |
+| 📝 プロンプト総数 | **3253** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-10-29** |
 
@@ -189,6 +189,324 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### サイバーパンク人類進化動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ネオンのメガシティでデジタルと有機体が融合する変貌を遂げる人物を描く、サイバーパンクSF動画生成用の詳細プロンプト。
+
+#### 📝 プロンプト
+
+```
+[生成目標]
+次世代レベルの「進化」と「変容」を描く、SF サイバーパンク動画を生成する。中心となるのは、ネオンに濡れたメガシティで絶え間なくデジタルと有機体が融合する変身を遂げる孤独な人間の姿であり、サイバネティクスによる超越が幾重にも連鎖する段階を経て、より高次元なハイブリッド形態へと進化していく過程である。
+
+[被写体と関係性]
+中心人物は人間のシルエットとして登場し、周囲のナノテクノロジー、コードストリーム、機械的建造物を徐々に吸収・融合させていく。他のキャラクターは一切登場しない。都市と人物は共生関係にあり、環境が変容を促す一方で、進化する存在が周囲の都市そのものを再構築していく。
+
+[イベントスクリプト]
+冒頭：そびえ立つホログラムの摩天楼の下、雨に濡れた街路に一人の人間が立っている。ピンク、シアン、エレクトリックバイオレットのネオンサインが明滅する。やがて、生きたタトゥーのように柔らかい発光回路が肌の上を這い始める。
+主要イベント：液体金属の波と輝くデータスレッドが地面と空中から押し寄せ、身体を包み込む。肉体はシームレスに結晶質のアーマープレート、神経フィラメント、ホログラフィックなエネルギーフィールドへと溶け出していく。四肢は優美な多関節サイバネティクス・エクステンションへと伸び、顔は流線型で発光するバイザー状のフォルムへと再構成される。周囲の建物もリアルタイムで変形し——壁はデータポータルへと開き、ドローンの群れが集まって新たな姿へと融合し、雨粒は空中で凍りつき、輝くコード粒子となる。変容は連続する波によってさらに加速する。エネルギーの脈動が打たれるたびに存在は高次元へと昇華し——皮膚は半透明のクロームへ、骨格は浮遊するエネルギー格子へと変わり、意識はスカイラインを書き換える広大なデジタルオーラへと拡張していく。
+終盤：完全に進化を遂げたハイブリッドは、純粋な光、金属、コードで構成された、高く優美なポストヒューマンの存在として立ち現れ、再構築された都市のわずかに上空に浮遊している。メガシティは今やその新たな姿と完全に同期して鼓動し、ネオンが生きた血管のように流れ、フレーム全体が超越的なサイバーパンクの力を放っている。
+
+[ビジュアルスタイル]
+超精細な次世代サイバーパンク美学：極めてシャープなホログラフィックインターフェース、ボリュメトリックなネオンの霧、濡れて反射するサーフェス、バイナリ光のパーティクルストリーム、虹色に輝くクロームと生物発光するオーガニックテックの融合。絶え間なく続く、美しく圧倒的な技術的昇華の空気感。
+
+[カメラワーク]
+ダイナミックで映画的なカメラフロー：人物のミディアムショットから始まり、変容が始まるとともに周回しながらプッシュインしていく。途切れないワンカットのような躍動感を持ち、進化していく姿に沿って螺旋状に上昇する加速トラッキングショットを経て、書き換えられたスカイラインを背景に、完全に変容した存在をワイドショットでヒロイックに捉えるクライマックスへと至る。
+
+[サウンド]
+重厚なインダストリアル・サイバーパルスのサウンドトラックが高揚感のある電子合成音へと展開していく。液体金属が変形する音、連鎖するデジタルグリッチ、パワーサージのハミング、そして遠くの都市のアンビエンスが重層的に重なり、それらがシンセティックな音色による勝利を讃えるハーモニッククワイアへと進化していく
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115679892595675136/img/JXYW_KVRWMxvBIPN.jpg" width="600" alt="サイバーパンク人類進化動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13148)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2115680392078635134) | **公開日:** Oct 29, 2026
+
+---
+### スチームパンク・パリ シネマティック・ファンタジー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine でスチームパンク美学とシネマティックなファンタジー要素を取り入れたパリの映像を生成するためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+実現しなかった未来のパリ。 ⚙️✨
+
+Steampunk クチュールとシネマティックな幻想の融合。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115650594216235008/img/bIXegfAGGdkXgsTl.jpg" width="600" alt="スチームパンク・パリ シネマティック・ファンタジー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13149)**
+
+**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **ソース:** [Link](https://x.com/thesimaximalist/status/2115650658942783982) | **公開日:** Oct 29, 2026
+
+---
+### ランタンからロボットドレスへの変身プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けの SF 変身動画プロンプト。女性の足にランタンが落ち、機械的なロボットドレスが形成される様子を描写します。
+
+#### 📝 プロンプト
+
+```
+[生成目標]
+インパクトのあるシームレスな変身動画を生成してください。提灯が彼女の足元に落下し、瞬時に彼女を機械的なロボティックドレスへと変身させます。
+
+[イベントスクリプト]
+冒頭では、彼女は静止したまま立ち、上から落ちてきた伝統的な紙の提灯が彼女の足にまっすぐ着地します。接触した瞬間に提灯は割れて発光するエネルギーを放ち、その衝撃点から変身が始まります。金属プレート、関節、ロボットパーツが足元から急速に形成され、脚、胴体、腕へと這い上がるように広がり、彼女の衣服を分割されたアーマーパネル、発光する回路、油圧機構のようなディテールを備えた完全な機械式ロボティックドレスへと変化させます。最後のパネルがカチッと固定されると、彼女の姿勢はより力強く装甲感のある構えへと変わり、柔らかな内部ライトが灯ってドレスが完全に起動します。
+
+[一貫性の維持]
+対象は終始 1 人の人物とし、提灯は 1 つだけで足にのみ落下するようにしてください。また、変身は不可逆的で、提灯が落ちた地点から正確に始まり、彼女が機械式ロボティックドレスに完全に包まれた状態で終了するようにしてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115641158994948096/img/kRKd-vzMhxTAyj4e.jpg" width="600" alt="ランタンからロボットドレスへの変身プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13147)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2115641431864098998) | **公開日:** Oct 29, 2026
+
+---
+### シネマティック SF 宇宙ステーション動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 体積光とカメラワークを備えた、リアルな SF ビデオ生成のための詳細プロンプト。宇宙船または軌道上のステーションが視界に現れるシーンを描きます。
+
+#### 📝 プロンプト
+
+```
+[生成目標]
+途切れることなく没入感のある雰囲気を描き出す、純粋なシネマティックかつフォトリアリスティックな SF 動画を生成します。
+
+[イベントスクリプト]
+開始時：冷たい恒星の光に照らされた、広大で何もない宇宙空間、あるいは未来的な巨大構造物の回廊。微かな粒子の浮遊と、遠くに広がる星々。
+主要イベント：ゆっくりと SF 的な眺望が広がっていきます。流線型の巨大宇宙船や軌道ステーションがフレーム内に現れ、ホログラフィックインターフェースやエネルギーフィールドが柔らかな光を放ちながら起動します。ボリュメトリックライトの光条が、大気中の霞や無重力空間の塵を切り裂くように差し込みます。カメラは連続したトラッキングショットで前方へ滑るように進み、緻密な金属のディテール、反射する表面、発光する推進システムを映し出します。深いブルーから幻想的なシアンへと色温度がわずかに変化し、空間の雰囲気がさらに深まっていきます。
+終了時：SF 世界全体が明らかになった壮大なワイドショットでフレームが落ち着き、残像のような光の軌跡と柔らかなレンズフレアが残ります。
+
+[一貫性の維持]
+素材（ヘアライン加工の金属、ガラス、エネルギーフィールド）の純粋なフォトリアリスティック表現と、一貫した冷たいシネマティックライティングを維持してください。不可欠な場合を除いて人物は登場させず、SF 世界の空間スケールを安定して保ちます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115629877210607616/img/B0lZcaX1JeaTGu10.jpg" width="600" alt="シネマティック SF 宇宙ステーション動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13145)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **公開日:** Oct 29, 2026
+
+---
+### Grok Imagine タイムトラベル・ポートレートプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ユーザーの写真を活用し、最も自分らしく感じられる歴史的な時代での姿を動画として生成する Grok Imagine 向けのプロンプトです。AI が自動的に年代、髪型、服装、メイク、そして全体のルックを選択し、被写体が認識可能な状態を保ちます。
+
+#### 📝 プロンプト
+
+```
+あなたが私について知っているすべての情報をもとに、私が最も自分らしくいられる時代を選んでください。私の写真を使って、年代、ヘアスタイル、服装、メイク、そして全体のルックをあなた自身で決めてください。その際、私だとしっかり分かるようにし、質問は一切しないでください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115479225167704064/img/RC8RGX6BXUppQhom.jpg" width="600" alt="Grok Imagine タイムトラベル・ポートレートプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13156)**
+
+**作者:** [Charles Liebert](https://x.com/Charles_Liebert) | **ソース:** [Link](https://x.com/Charles_Liebert/status/2115479241202499709) | **公開日:** Oct 28, 2026
+
+---
+### Grok Imagine Video プロンプト：Lantern の変身シーケンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、キャラクター「Lantern」が戦闘用ドレスに変身するシネマティックな動画を生成するための詳細なプロンプトです。イベントスクリプト、ビジュアルスタイル（魔法少女／スーパーヒーロー）、カメラワーク、サウンドデザインを指定しています。
+
+#### 📝 プロンプト
+
+```
+[Generation Goal]
+Lantern が戦闘用ドレスへと変身する、一段階上のトランスフォームシーンを生成してください。中心となる被写体は Lantern であり、メインイベントは彼女のパワーアップ変身で、全身の装備が整い戦闘準備が完了した状態で終了します。
+
+[Event Script]
+開始時：Lantern はニュートラル、またはリラックスした姿勢で立っており、彼女の身体が柔らかな内なる光を放ち始めるとともに、エネルギー粒子が周囲を渦巻き始めます。
+メインイベント：衣装が変化し再構築されるにつれてエネルギーフレアが激化していきます——生地が形を変え、装甲プレートが実体化し、発光するランタンモチーフと光エネルギーのアクセントが全身に次々と定着します。魔法のような光の軌跡と粒子のバーストが彼女を取り囲む中、わずかに浮上して両腕を広げると、戦闘用ドレスが劇的かつ幾重にも重なるように姿を現し、完全に組み上がります。
+終了時：Lantern は戦闘用ドレスへの変身を完全に終えて立ち、力強く臨戦態勢に入っています。残存するエネルギーエフェクトが徐々に薄れ、安定した戦闘ポーズへと収束します。
+
+[Visual Style]
+魔法少女／スーパーヒーローの変身シーンを思わせるハイエネルギーな美学。輝くライトエフェクト、発光する粒子、エネルギーの軌跡、そして変身の強大さを際立たせるドラマチックなライティングを取り入れます。一連の流れは滑らかかつ壮大に、そして圧倒的なインパクトを持たせてください。
+
+[Camera]
+ダイナミックで映画的なカメラワーク。ミディアムショットから始まり、エネルギーが最高潮に達するタイミングで被写体を旋回しながらプッシュインし、流れるような動きと劇的なアングルで全身の変身と戦闘用ドレスの形成過程を捉えます。
+
+[Sound]
+クライマックスに向けて高まっていく力強いエネルギーの唸りと風切り音に、きらめく光の粒子エフェクトを重ね、戦闘用ドレスが完成して固定される瞬間には強烈なインパクト音を配置します。セリフはなし。
+
+[Maintain Consistency]
+全体を通して Lantern を唯一の連続した被写体として維持してください。変身前後も彼女のアイデンティティは変わらず、変化するのは服装とパワーの表現のみで、それらが戦闘用ドレスへと移行します。初期状態から完全に変身した戦闘形態に至るまで、明確な視覚的進行を保ってください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115394762090098689/img/hVHuhI7chEhUhUW-.jpg" width="600" alt="Grok Imagine Video プロンプト：Lantern の変身シーケンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13150)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2115395330632282324) | **公開日:** Oct 28, 2026
+
+---
+### ガッシュ質感の宇宙空間シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ターコイズ、ライラック、ブルーなどの特定の色と厚塗りガッシュ画風のテクスチャを使用し、渦巻く星雲や星を特徴とする宇宙空間シーンを生成するための詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+リファレンスとまったく同じ、鮮やかなターコイズシアン、柔らかなライラックパープル、深いブルーの色彩と、厚みのあるガッシュ絵の具のテクスチャだけを使って、息をのむような宇宙空間を描き出してください。魔法のように描かれたコスモス——渦巻く星雲、輝く星々、遠くの銀河……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115388329575288832/img/D6ISarPDgJvLUjiT.jpg" width="600" alt="ガッシュ質感の宇宙空間シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13144)**
+
+**作者:** [Magdalena Kanas](https://x.com/KanasMagdalena) | **ソース:** [Link](https://x.com/KanasMagdalena/status/2115389269413970029) | **公開日:** Oct 28, 2026
+
+---
+### 韓国王妃の肖像画用画像プロンプト
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 朝鮮王朝時代の伝統的な衣装をまとった韓国の王妃の肖像画を生成するための画像プロンプトです。宮殿と牡丹を背景に設定し、ユーザーはGrok Imagineが動画生成中に髪飾りなどの追加ディテールを描き加えた点を指摘しています。
+
+#### 📝 プロンプト
+
+```
+咲き誇るオレンジ色の牡丹に彩られた歴史的な韓国宮廷の前に佇む、若き王妃。豪華な金糸の刺繍が施された赤いチョゴリと白いチマで構成された宮廷衣装を身にまとっています。
+
+結い上げた髪にはピンクサンゴをあしらった簪（ビニョ）が挿され、額にはルビー、サファイア、パールで装飾された小さな銀製の丸いジョチが飾られています。
+
+アスペクト比 9:16 。 K ドラマ風。
+```
+
+<img src="https://cms-assets.youmind.com/media/1793259730850_wtz5yy_HVszvFsaQAARtCp.jpg" width="600" alt="韓国王妃の肖像画用画像プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13157)**
+
+**作者:** [華月光](https://x.com/hanagekkou) | **ソース:** [Link](https://x.com/hanagekkou/status/2115341470593143095) | **公開日:** Oct 28, 2026
+
+---
+### 金属バーからメタリックスーツへ変身する動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 女性が手にした金属バーが全身のメタリックスーツに変身する SF テーマの変身動画を作成するための詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+[Generation Goal]
+彼女が手に持つバーがメタリックなスーツへと変形していく、スローで鮮明な、一段上のトランスフォームシーンを生成してください。
+
+[Event Script]
+冒頭では、彼女は片手でバーをしっかりと握って立っており、その物体は完全に固体として認識できるバーの形状を保っています。変形は手のひらとの接触点から始まります。バーの表面が柔らかくなり、液体金属のように外側へ流れ出して、まず彼女の指と手を覆っていきます。メタリックな素材はゆっくりと途切れることなく腕を這い上がり、肩から胴体へと広がり、シャープな幾何学的エッジと反射するクロームサーフェスを備えたチェストプレート、ウェストアーマー、ヒップガードを形作ります。さらに両脚を下って太ももとすねのアーマーを形成し、最後にブーツ周りを密閉してスーツ全体を完成させます。変形の各段階は意図的で非常に細部まで描かれており、手に持ったバーから全身のメタリックスーツへと至るプロセスが明確にわかるようにします。最後には、完成したメタリックスーツに全身を包まれた状態で彼女が立っています。元のバーは独立した物体としては存在せず、その質量すべてがアーマーへと一体化しています。
+
+[Maintain Consistency]
+彼女のアイデンティティ、身体のプロポーション、ポーズ、そして液体から固体へと連続的に変化していくメタルの変形プロセスを、全体を通して一貫して安定させてください。スーツの最終的なメタリック仕上げ、反射の質感、シームレスな一体化も、明確かつ一貫して表現される必要があります。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115306755467116544/img/YkdNiyOVJAW9E5JR.jpg" width="600" alt="金属バーからメタリックスーツへ変身する動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13146)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2115306979820491100) | **公開日:** Oct 28, 2026
+
+---
+### Grok Imagine向け カフェ日常ビデオプロンプト
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> バリスタが登場する12秒のカフェシーンを生成するための構造化された動画プロンプトです。一貫性を保つために2枚の参考画像（@Image1、@Image2）を使用し、各カットごとの具体的なポーズとカメラアングルを定義しています。
+
+#### 📝 プロンプト
+
+```
+動画全体の基本仕様：
+同一人物の一貫性を保つこと。ネイビーのポロシャツ、バイザー（サンシェード）、ブラウンのエプロンを着用した若い女性店員。落ち着いた木目調のカフェカウンター。温かみのある自然光。
+
+[カット 1 ： 0s-6s] @Image1 に基づく
+* ポーズ 1 （ 0s-3s ）： @Image1 の状態。女性店員がドリップポットから白いカップへ、丁寧にコーヒーを注いでいる。
+* ポーズ 2 （ 3s-6s ）：注ぎ終えた後、ポットを元の位置に戻し、できあがったコーヒーカップを見つめながら優しく微笑む。
+
+[カット 2 ： 6s-12s] @Image2 に基づく（アングル変更）
+* ポーズ 1 （ 6s-9s ）： @Image2 のクローズアップアングル。真剣でありながらも優しい表情で、立ち上る湯気を見つめながらコーヒーを継ぎ足す。
+* ポーズ 2 （ 9s-12s ）：ふとカメラ（お客様側）に視線を上げ、「お待たせいたしました」と優しく微笑みながら、軽く頭を下げる。
+
+BGM のアイデア
+「温かくて心地よいアコースティック・ボサノバ（ゆったりとしたギターとカフェの環境音）」
+```
+
+<img src="https://cms-assets.youmind.com/media/1793259728803_ncupts_HVrRlRmbYAAzlOW.jpg" width="600" alt="Grok Imagine向け カフェ日常ビデオプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13155)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **ソース:** [Link](https://x.com/HaluAIArt/status/2115284925310255415) | **公開日:** Oct 28, 2026
+
+---
+### SpaceX Starship 地球から火星へのシネマティック映像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けの、SpaceX Starship が地球から火星へ向かう連続的なシネマティックシーンを生成するための詳細な動画プロンプト。打ち上げ、軌道移行、着陸を含みます。
+
+#### 📝 プロンプト
+
+```
+[生成目標]
+SpaceX の Starship 宇宙船が人々を地球から火星へ運ぶ、途切れのないシネマティックな動画を生成する。
+
+[イベントスクリプト]
+冒頭では、Starship が青く澄んだ地球の空の下、海岸沿いの発射台上に垂直に立っており、上部の旅客区画にある大きな窓越しに宇宙飛行士のクルーの姿が見える。エンジンが鮮やかなオレンジ色の炎と濃い白い蒸気の雲を噴き出して点火し、機体が離陸して大気圏を突き抜けながら上方へと加速していく。ショットは軌道上からの視点に移り変わり、Starship が深宇宙を進む中、眼下の地球が遠ざかっていく様子が映し出される。主要イベント：長い惑星間航行。機体は虚空を進み、徐々に大きく見える赤みを帯びた火星の円盤へと向かう。終盤では、Starship が薄いピンクがかった空の下、砂塵に覆われた火星表面で制御された動力着陸を行う。着陸脚が地面に触れるにつれてエンジン出力が絞られ、機体は直立した状態で静止する。
+
+[一貫性の維持]
+Starship 全体のステンレス鋼の外観、スケール、窓の配置、推進システムの構成は、全体を通して一定に保つこと。青い地球の出発環境と、赤い火星の到着環境との視覚的な違いを明確に保つこと。打ち上げから着陸まで、乗客として機内に人がいる状態を維持すること。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115039304548552704/img/1CW0EkBI89QJx2Z-.jpg" width="600" alt="SpaceX Starship 地球から火星へのシネマティック映像">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13151)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2115039637609828487) | **公開日:** Oct 27, 2026
+
+---
+### Cybercab Storm Video プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 夜間のネオン輝くメガシティを自律型空飛ぶタクシーが群れをなして飛び交う、SFビデオ生成用の詳細プロンプト。
+
+#### 📝 プロンプト
+
+```
+目的：サイバーキャブの嵐を描いた動画を生成する。流線型の自律飛行タクシーが高密度かつ高速で群れをなし、未来的な夜の都市を駆け抜けて、圧倒的な空中の車両ストームを形成する様子。
+
+説明：
+冒頭では、暗い嵐雲の下にネオン輝くメガシティの夜景が広がり、屋上や高架パッドから点在するサイバーキャブが次々と離陸し始める。メインシーン：数百機の発光するサイバーキャブが加速、傾斜、縫うような飛行を同期しつつも無秩序な編隊で行い、スラスターが青白い光の軌跡を描く。金属とエネルギーが生み出す生きた雷雨のように空を埋め尽くし、そびえ立つ高層ビルの間をすり抜けていく。終盤では群れの密度がピークに達し、光り輝く街路の上空に画面を支配する途切れない光の空中河を作り出す。
+
+一貫性の維持
+サイバーキャブはすべて同一の流線型デザインを保ち、巨大な群れとして描くこと。夜のネオン照明、暗く荒れた空、連続する高速移動を維持し、個体の衝突や空が晴れ上がる描写は入れないこと。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115032410752688128/img/RhB6xI105z_vmLAC.jpg" width="600" alt="Cybercab Storm Video プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13153)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2115032907261816941) | **公開日:** Oct 27, 2026
+
+---
 ### 擬人化バディ・コップ映画風静止画プロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -315,6 +633,25 @@ LUMI は白く輝くバイオリンを抱え、ワイヤーフレームの虚無
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13119)**
 
 **作者:** [Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2114756440200003874) | **公開日:** Oct 26, 2026
+
+---
+### 少女とロボットのアーマー進化
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 少女とロボットの相棒が白と金のエネルギーを纏った戦闘アーマーへと変身する動画のプロンプト。
+
+#### 📝 プロンプト
+
+```
+次世代への進化シークエンス。少女と相棒のロボットが、力強く変身を遂げます。白とゴールドのエネルギーが 2 人を包み込み、纏っていたストリートウェアは最先端のコンバットアーマーへと姿を変えていきます。ロボットはわずかに巨大化し、より攻撃的なフォルムへ。瓦礫が宙に舞い上がります。映画のようなドラマチックかつ高精細な映像。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114718012540620800/img/H2lTw9eyvRiXGnY1.jpg" width="600" alt="少女とロボットのアーマー進化">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13154)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2114718405647622441) | **公開日:** Oct 26, 2026
 
 ---
 ### 猫 レーザーポインター 遊び プロンプト
@@ -1708,6 +2045,25 @@ Cut 2（00:06 - 00:12）
 **作者:** [レイヴ](https://x.com/raves9361) | **ソース:** [Link](https://x.com/raves9361/status/2113216645950775792) | **公開日:** Oct 22, 2026
 
 ---
+### エイリアンがマーク・ザッカーバーグを平手打ちするシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine で生成する架空の SF シーンのプロンプト。空港のタラップでエイリアンが Mark Zuckerberg を平手打ちにする場面を、リアルな物理挙動とカメラワークを重視して描きます。
+
+#### 📝 プロンプト
+
+```
+参考画像に合わせた、軍事空港の滑走路を舞台にした超写実的なシネマティック SF シーン。Mark Zuckerberg の左側に、背が高く威圧感のあるエイリアンが立ち、至近距離で彼と向き合っている。突然、エイリアンが手を振り上げ、Zuckerberg の顔を平手打ちする。Zuckerberg はバランスを崩して後ろによろめき、コンクリートの上に倒れ込む。警備員たちが驚愕する中、他のエイリアンたちはその様子を見つめている。アクション全体を通して、エイリアンは常に左側に配置すること。リアルな身体物理演算、ドラマチックなカメラシェイク、シネマティックなライティング、細部まで描き込まれた表情、4K 品質のリアルさ、縦型 9:16 フォーマット。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113212610980298752/img/UwIEAzUJh2qlyN1q.jpg" width="600" alt="エイリアンがマーク・ザッカーバーグを平手打ちするシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13152)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2113213049255731339) | **公開日:** Oct 22, 2026
+
+---
 ### 龍とネパール人女性のイラストレーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2587,282 +2943,6 @@ BGM「（画像の雰囲気に合った BGM を考えてください）」
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2112218502107205691) | **公開日:** Oct 19, 2026
 
 ---
-### 天使の翼による光の拡大
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 天使が翼を広げて光を放ち、第三の天へ飛翔する様子を詳細に描写したビジュアルプロンプト。
-
-#### 📝 プロンプト
-
-```
-天使が翼で自身を覆い、その光が翼を通じて広がり全身を貫く瞬間を描く。彼女は第三の天へと飛翔していく。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112002366715187200/img/CuVKtDon9KGFWG1V.jpg" width="600" alt="天使の翼による光の拡大">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12744)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **公開日:** Oct 19, 2026
-
----
-### 中国山水画スタイルの Grok Imagine ドローンショット
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Grok Imagine の動画生成用プロンプト。王希孟の宋代絵巻に着想を得た、生きた青緑山水画の中を垂直に飛行するシネマティックなドローンショットを描きます。
-
-#### 📝 プロンプト
-
-```
-縦構図のシネマティックなドローンショットが、王希孟による宋代の絵巻「千里江山図」のスタイルで描かれた生きた中国青緑山水画の中を前方へ飛行する：藍銅鉱の青と孔雀石の緑で彩られたそびえ立つ峰々、山々の間を漂う霞がかった雲、枝ぶりのねじれた松の木、川面に浮かぶ小さな東屋や舟、靄を通して差し込む黄金色の光、水墨画のテクスチャーとリアルな奥行き感の融合、ゆっくりとした荘厳な動き、幻想的な雰囲気、高精細、8k 解像度
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111994510440030208/img/kxhx0uIqj_goWPDR.jpg" width="600" alt="中国山水画スタイルの Grok Imagine ドローンショット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12805)**
-
-**作者:** [Jerry Dai| 顺天](https://x.com/shuntian2026) | **ソース:** [Link](https://x.com/shuntian2026/status/2111996041906307225) | **公開日:** Oct 19, 2026
-
----
-### Grok Imagine シネマティック時計動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 8:00 ちょうどに時計が鳴る、机で疲れた男性を描いた詳細なシネマティック動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-6 秒間のシネマティックな動画を作成してください：疲れた様子の男性がデスクに座り、壁掛けのアナログ時計を見上げると、時刻は 7:59:58 を示しています。秒針が 2 回カチカチと進み、時計がちょうど 8:00 になる瞬間のクローズアップ。長針は 12 を、短針は 8 を指しています。その時…
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111949764417724416/img/duft5ue13wvfclvH.jpg" width="600" alt="Grok Imagine シネマティック時計動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12800)**
-
-**作者:** [Ligma Ballz](https://x.com/LBallz77283) | **ソース:** [Link](https://x.com/LBallz77283/status/2111949821171155240) | **公開日:** Oct 18, 2026
-
----
-### Elon Musk が NYC で Tesla を運転する動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine を使用して、Elon Musk がニューヨークの街を Tesla で運転する面白い動画を生成するためのシンプルなプロンプト。
-
-#### 📝 プロンプト
-
-```
-面白い動画です。Elon Musk と私が New York の街を Tesla で運転しています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111927231232524288/img/ACatCxO4jnjOwOtt.jpg" width="600" alt="Elon Musk が NYC で Tesla を運転する動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12743)**
-
-**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **ソース:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **公開日:** Oct 18, 2026
-
----
-### Elon と Optimus の月曜日の到着
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 大規模な発表後、オフィスに到着する Elon Musk と Optimus を描いたユーモラスなプロンプト。Grok Imagine で生成されました。
-
-#### 📝 プロンプト
-
-```
-木曜日の超ド級の大成功を収めたお披露目の後、月曜日に颯爽と出社する Elon Musk と Tesla Optimus。🦅🔥
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111828358648516608/img/6gOTLp0zakP_Qipy.jpg" width="600" alt="Elon と Optimus の月曜日の到着">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13023)**
-
-**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **ソース:** [Link](https://x.com/thesimaximalist/status/2111828533676806310) | **公開日:** Oct 18, 2026
-
----
-### Claudia アニメ風 Tesla Roadster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine を使用して、実在の人物を Tesla Roadster のシーン内でアニメ風に生成する動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-CLAUDIA × SI — WHITE TESLA ROADSTER 🤍🚀
-Real → anime in one take @imagine 
-
-@anabology Claudia を @bot でアニメ風にアレンジしてみました
-```
-
-<img src="https://pbs.twimg.com/media/HU6OwhcWoAAHtHn.jpg" width="600" alt="Claudia アニメ風 Tesla Roadster">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12746)**
-
-**作者:** [Dima Nurm](https://x.com/NURM_Dima) | **ソース:** [Link](https://x.com/NURM_Dima/status/2111782488544539049) | **公開日:** Oct 18, 2026
-
----
-### Knightsquirrel vs Robots Mech
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bass Mech でロボットと戦う Knightsquirrel の物語を続ける動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-Knightsquirrel が Bass Mech を駆って Treble のロボットたちとの戦闘を続行する
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111702540928577536/img/vx0G6jhxWBnxh2nZ.jpg" width="600" alt="Knightsquirrel vs Robots Mech">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12747)**
-
-**作者:** [Michael Erikson](https://x.com/erikson_michael) | **ソース:** [Link](https://x.com/erikson_michael/status/2111702741881921889) | **公開日:** Oct 18, 2026
-
----
-### 鷲の漁 POV ビデオシーケンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 透き通った水面から魚を捕まえるために急降下する鷲の映像プロンプト。POV から俯瞰への引きショットへと移行するシーンを詳細に説明しています。
-
-#### 📝 プロンプト
-
-```
-透き通った水に急降下し、魚を捕まえる鷲の POV を維持しつつ、その後、雲へと消えていく俯瞰からの引きショットへ移行
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111635732368355328/img/3sQclpWkqyUIYhBC.jpg" width="600" alt="鷲の漁 POV ビデオシーケンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12699)**
-
-**作者:** [Louie Dog](https://x.com/sumwearoutthere) | **ソース:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **公開日:** Oct 18, 2026
-
----
-### VHS レイクモンスター発見映像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1990年代のビデオカメラで撮影された、湖の怪物が家族を襲う様子をシミュレートした詳細なマルチショット動画プロンプト。VHS特有のアーティファクトや具体的なカメラワークを含みます。
-
-#### 📝 プロンプト
-
-```
-1990年代のビデオカメラによる発見映像、VHSテープのアーティファクト、トラッキングライン、色収差、オートフォーカスの迷い、ハイライトの過露光、揺れる素人のハンドヘルドカメラ、隅に焼き付けられた日付タイムスタンプ。カラーグレーディング：褪せたグレーグリーン、色あせた肌色、白飛びした淡い空。
-背中に隆起があり長い首を持つ巨大な暗い湖の生物。霧越しに主にシルエットとして見える。北部の湖にある木製の桟橋とカヌーの上の家族。
-SHOT 1 (0〜3秒): 参照画像に合わせた広いハンドヘルドショット。カメラは不器用にズームインし、生物の背中が遠くの湖面から現れ、水が一斉に流れ落ちる。
-SHOT 2 (3〜6秒): ハンドヘルドの中景ショット。カメラは桟橋にいる家族へ急激に向きを変える。子供が指差し、父親がカヌーを水中から引き上げようとする中、映像はトラッキングラインでグリッチ化する。
-SHOT 3 (6〜9秒): ワイドショット。オートフォーカスが迷いながら、長い首が霧の中から立ち上がり、信じられないほど高く、波が桟橋へと押し寄せる。
-SHOT 4 (9〜12秒): 走るハンドヘルドショット。オペレーターが木製の階段を駆け上がるにつれてカメラが跳ね、背後には時々湖が見え、波が桟橋に激突する。
-SHOT 5 (12〜15秒): スティッシュショット。カメラは芝生の上に落とされ横倒しになっている。生物のシルエットはゆっくりと霧の中に沈み、その後テープはブルー画面にグリッチする。
-アビの鳴き声、テープヒスノイズ、マイクへの風音、湖からの深い霧笛のような叫び声、子供の叫び声、パニック状態の呼吸、木材が割れる音、最後に静寂へと消えるVHSのトラッキングスクリーチ。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111585229756391424/img/1K0p3KhB2LfWMhMl.jpg" width="600" alt="VHS レイクモンスター発見映像">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12748)**
-
-**作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **ソース:** [Link](https://x.com/AllaAisling/status/2111621281754005784) | **公開日:** Oct 18, 2026
-
----
-### カップル写真入りTシャツのモックアップ動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 入力画像を、特定のカップルの写真をあしらった黒いコットンTシャツのリアルな商品モックアップに変換するための動画生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-これを、スタイリッシュな黒いコットンTシャツの高品質でリアルな商品モックアップに変換してください。フロント部分に大きく中央へ配置し、正確なカップルの写真（腕にタトゥーのある笑顔の女性と、黒髪でパールネックレスを着けた男性が彼女を抱きしめている姿）をプリントします...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111597123510611968/img/FCqcqicB-TWCjLs_.jpg" width="600" alt="カップル写真入りTシャツのモックアップ動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12706)**
-
-**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **公開日:** Oct 17, 2026
-
----
-### 水中ロードスター テキストシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 黒い画面にテキストが表示され、海底に沈んだ黒い船体と低い唸り音が響く水中シーンへと移行するシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-黒い画面。テキスト：「Elon の Roadster は飛ぶ。Our のは聞かない。」水中 — 海底に沈む黒い船体。低い唸り音....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111593551935225856/img/CbwZYpH9Pyj368Sw.jpg" width="600" alt="水中ロードスター テキストシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12745)**
-
-**作者:** [Puchamamax](https://x.com/aaoomaxi) | **ソース:** [Link](https://x.com/aaoomaxi/status/2111593612438126991) | **公開日:** Oct 17, 2026
-
----
-### イタリアンレストランのシーンプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ワイン、シーフード、キャンドルライトが特徴的なイタリアンレストランを舞台にした動画シーンの詳細なプロンプト。
-
-#### 📝 プロンプト
-
-```
-私はイタリアンレストランにいます。テーブルには赤ワインのボトルと2つのワイングラスがあります。シーフード料理が2皿並んでいます。ウェイトレスがテーブル上のキャンドルに火をつけていました。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111562011309981697/img/MD5Nn1DadWn6j6Pw.jpg" width="600" alt="イタリアンレストランのシーンプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12708)**
-
-**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **ソース:** [Link](https://x.com/jaras70berlin/status/2111562048945410556) | **公開日:** Oct 17, 2026
-
----
-### カボチャ畑のハロウィンナイト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 青い月が浮かぶ不気味なカボチャ畑を舞台に、キャラクターが登場する45秒の動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-青い月が浮かぶ不気味なカボチャ畑でのハロウィンナイトを背景に、これら3人のキャラクターが登場する45秒の動画
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111548059507466242/img/WB_3fyDCR7kKHXnj.jpg" width="600" alt="カボチャ畑のハロウィンナイト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12703)**
-
-**作者:** [BlueMoon Operations](https://x.com/CRinkleib) | **ソース:** [Link](https://x.com/CRinkleib/status/2111548067057209497) | **公開日:** Oct 17, 2026
-
----
-### 小川で水を飲む鹿の動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 森の小川で水を飲む鹿を描いた動画生成プロンプト。2頭目の雌鹿を削除するよう指示しています。
-
-#### 📝 プロンプト
-
-```
-森の中を流れる幅広の小川から立ち上る水蒸気、そして小川で水を飲んでいる雌鹿と雄鹿。2頭目の雌鹿を削除してください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111523846931337216/img/3GhXX_Hz2Y1ixHzw.jpg" width="600" alt="小川で水を飲む鹿の動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=12705)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2111523923150205138) | **公開日:** Oct 17, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2924,6 +3004,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-29T05:37:11.183Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-29T15:25:35.326Z</sub>
 
 </div>

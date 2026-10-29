@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3239** |
+| 📝 총 프롬프트 수 | **3253** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-10-29** |
 
@@ -189,6 +189,324 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 사이버펑크 인류 진화 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 네온 메가시티에서 인간 형상이 디지털-유기적 변태를 겪는 SF 사이버펑크 영상을 생성하기 위한 상세 프롬프트.
+
+#### 📝 프롬프트
+
+```
+[Generation Goal]
+차원을超越한 진화와 변혁을 그리는 SF 사이버펑크 영상을 생성합니다. 핵심 피사체는 네온으로 물든 메가시티 한가운데서 끊임없이 디지털-유기적 변이를 겪는 단 하나의 인간 형상이며, 연쇄적인 사이버네틱 초월의 단계를 거쳐 궁극의 하이브리드 형태로 진화하는 과정을 담습니다.
+
+[Subjects and Relationships]
+중심 인물은 인간의 실루엣으로 시작해 주변의 나노테크, 코드 스트림, 기계적 건축물을 점차 흡수하고 융합해 나갑니다. 다른 캐릭터는 등장하지 않습니다. 도시와 인물은 공생 관계를 유지합니다. 환경이 변형에 에너지를 공급하고, 진화하는 존재는 다시 자신을 둘러싼 도시를 재구성합니다.
+
+[Event Script]
+시작: 거대한 홀로그램 마천루 아래 빗물에 젖은 거리, 핑크, 시안, 일렉트릭 바이올렛 색조의 네온사인이 깜빡이는 가운데 한 인간이 서 있습니다. 은은한 생체발광 회로가 살아 움직이는 문신처럼 피부 위를 기어오르기 시작합니다.
+주요 사건: 액체 금속의 파도와 빛나는 데이터 실타래가 땅과 허공에서 솟구쳐 몸을 감쌉니다. 살결은 결정질 갑옷 플레이트, 신경 필라멘트, 홀로그래픽 에너지 필드로 매끄럽게 녹아듭니다. 사지는 우아한 다관절 사이버네틱 연장체로 길어지고, 얼굴은 유려하게 빛나는 바이저 형태의 구조로 재편됩니다. 주변 건물들은 실시간으로 형태를 바꿉니다. 벽면이 열려 데이터 포털이 되고, 드론 떼가 몰려들어 인물의 새로운 형상과 융합하며, 빗방울은 허공에서 멈춰 빛나는 코드 입자로 변합니다. 변형은 연속적인 파동을 통해 고조됩니다. 에너지가 맥동할 때마다 존재는 한 차원 더 도약합니다. 피부는 반투명한 크롬으로, 골격은 떠다니는 에너지 격자로 바뀌고, 의식은 스카이라인을 재작성하는 방대한 디지털 아우라로 확장됩니다.
+끝: 완전히 진화한 하이브리드는 순수한 빛, 금속, 코드로 이루어진 거대하고 우아한 포스트휴먼 존재로서, 재구성된 도시 위로 살짝 떠오른 채 서 있습니다. 메가시티는 이제 이 새로운 형상과 완벽하게 동기화되어 맥동하며, 네온은 살아 숨 쉬는 혈관처럼 뻗어 나가고 화면 전체가 초월적인 사이버펑크의 압도적인 힘을 발산합니다.
+
+[Visual Style]
+초정밀 차세대 사이버펑크 미학: 극도로 선명한 홀로그래픽 인터페이스, 볼류메트릭 네온 안개, 젖어 반사되는 표면, 바이너리 빛의 파티클 스트림, 오색찬란한 크롬과 생체발광 유기-테크 융합. 쉼 없이 이어지는 아름답고 경이로운 기술적 승천의 분위기.
+
+[Camera]
+역동적인 시네마틱 흐름: 인간 형상을 미디엄 숏으로 담아내며 시작해, 변형이 시작됨에 따라 궤도를 그리며 피사체를 향해 밀착합니다. 끊김 없는 원테이크의 긴장감 속에서 트래킹 숏이 점점 가속되며 진화하는 형상과 함께 나선형으로 상승하고, 마침내 재창조된 스카이라인을 배경으로 완전히 변모한 존재를 웅장하게 드러내는 와이드 히어로 숏으로 절정에 달합니다.
+
+[Sound]
+깊고 묵직한 인더스트리얼 사이버 펄스 사운드트랙이 고조되며 하늘로 치솟는 일렉트로닉 신시스로 이어집니다. 액체 금속이 형태를 바꾸는 소리, 연쇄적으로 터지는 디지털 글리치, 파워 서지의 웅웅거리는 저음, 그리고 합성 음성의 장엄한 하모니 코러스로 진화하는 먼 도시의 앰비언스가 겹겹이 레이어링됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115679892595675136/img/JXYW_KVRWMxvBIPN.jpg" width="600" alt="사이버펑크 인류 진화 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13148)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2115680392078635134) | **게시일:** Oct 29, 2026
+
+---
+### 스팀펑크 파리: 시네마틱 판타지
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을(를) 사용하여 시네마틱 판타지 요소를 결합한 스팀펑크 스타일의 파리를 생성하는 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+일어나지 않은 미래의 파리. ⚙️✨
+
+스팀펑크 쿠튀르와 시네마틱 판타지의 만남.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115650594216235008/img/bIXegfAGGdkXgsTl.jpg" width="600" alt="스팀펑크 파리: 시네마틱 판타지">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13149)**
+
+**작성자:** [The SI Maximalist](https://x.com/thesimaximalist) | **출처:** [Link](https://x.com/thesimaximalist/status/2115650658942783982) | **게시일:** Oct 29, 2026
+
+---
+### 랜턴에서 로보틱 드레스로 변신하는 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine용 SF 변신 영상 프롬프트로, 랜턴이 여성의 발에 떨어지면 기계적인 로보틱 드레스가 형성되는 장면을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+[Generation Goal]
+임팩트 있는 연속 변신 영상을 생성합니다. 등불이 그녀의 발 위로 떨어지며, 즉시 그녀를 기계식 로봇 드레스로 변형시키기 시작합니다.
+
+[Event Script]
+영상 초반, 그녀가 제자리에 서 있는 상태에서 전통 종이 등불이 위에서 떨어져 그녀의 발등에 정확히 착지합니다. 닿는 순간 등불이 갈라지며 빛나는 에너지를 방출하고, 충격 지점부터 변신이 시작됩니다. 금속 판, 관절, 로봇 부품들이 발을 덮으며 빠르게 형성된 뒤 다리, 몸통, 팔을 타고 올라갑니다. 이 과정에서 그녀의 옷은 분할된 장갑 패널, 빛나는 회로, 유압 장치 같은 디테일이 돋보이는 완전한 기계식 로봇 드레스로 변환됩니다. 마지막 패널들이 제자리에 고정되고 드레스 내부의 은은한 조명이 켜지며 완전히 활성화되면, 그녀의 자세는 더욱 강인하고 단단한 갑옷 형태의 포즈로 바뀝니다.
+
+[Maintain Consistency]
+하나의 피사체를 끊김 없이 유지하고, 등불은 오직 발 위로만 한 번 떨어지도록 설정하며, 등불이 떨어진 정확한 지점에서 시작해 그녀가 기계식 로봇 드레스로 완전히 뒤덮이는 순간 끝나는 일방향 변신을 구현하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115641158994948096/img/kRKd-vzMhxTAyj4e.jpg" width="600" alt="랜턴에서 로보틱 드레스로 변신하는 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13147)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2115641431864098998) | **게시일:** Oct 29, 2026
+
+---
+### 시네마틱 SF 우주 정거장 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 볼류메트릭 조명과 카메라 무브먼트를 활용하여 우주선 또는 궤도 스테이션이 시야에 나타나는 사실적인 SF 영상을 생성하기 위한 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+[생성 목표]
+끊임없이 이어지는 몰입감 있는 분위기 속에서 순수한 시네마틱 퀄리티의 사실적인 SF 영상을 생성합니다.
+
+[이벤트 스크립트]
+시작: 차가운 별빛 아래 펼쳐진 광활하고 텅 빈 우주 공간 또는 미래형 메가스트럭처 복도. 미세하게 떠도는 입자들과 멀리 보이는 별밭.
+주요 이벤트: 서서히 고조되는 SF 풍경이 펼쳐집니다 — 매끄러운 거대 우주선이나 궤도 정거장이 프레임 안으로 등장하고, 홀로그래픽 인터페이스와 에너지 필드가 은은한 빛을 내며 활성화됩니다. 볼류메트릭 라이트 샤프트가 대기 중의 아지랑이나 무중력 상태의 먼지를 뚫고 쏟아집니다. 카메라는 끊김 없이 앞으로 미끄러지듯 이동하며 정교한 금속 디테일, 반사 표면, 빛나는 추진 시스템을 드러냅니다. 짙은 블루에서 신비로운 시안으로 색온도가 미세하게 변화하며 분위기가 한층 깊어집니다.
+끝: SF 환경 전체가 온전히 드러난 웅장하고 넓은 와이드 구도로 프레임이 안정되며, 잔잔한 빛의 궤적과 부드러운 렌즈 플레어가 여운을 남깁니다.
+
+[일관성 유지]
+소재(브러시드 메탈, 유리, 에너지 필드)의 순수한 포토리스틱 렌더링과 일관된 차가운 시네마틱 조명을 유지합니다. 반드시 필요한 경우가 아니면 인물을 배치하지 않으며, SF 세계관의 안정적인 공간 스케일을 유지합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115629877210607616/img/B0lZcaX1JeaTGu10.jpg" width="600" alt="시네마틱 SF 우주 정거장 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13145)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **게시일:** Oct 29, 2026
+
+---
+### Grok Imagine 타임 트래블 초상화 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 프롬프트로 사용자의 사진을 바탕으로, 가장 나답다고 느끼는 역사적 시대의 영상으로 변환하세요. AI가 시대, 헤어스타일, 의상, 메이크업 및 룩을 자율적으로 선택하며, 피사체의 원형은 유지합니다.
+
+#### 📝 프롬프트
+
+```
+나에 대해 알고 있는 모든 정보를 바탕으로, 내가 가장 나다운 모습을 보여줄 수 있는 시대로 데려가 줘. 내 사진을 참고해서 시대, 헤어스타일, 의상, 메이크업, 그리고 전체적인 스타일을 네가 직접 골라줘. 단, 나를 한눈에 알아볼 수 있도록 원래 모습이 유지되어야 하고, 나에게 따로 질문하지 마.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115479225167704064/img/RC8RGX6BXUppQhom.jpg" width="600" alt="Grok Imagine 타임 트래블 초상화 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13156)**
+
+**작성자:** [Charles Liebert](https://x.com/Charles_Liebert) | **출처:** [Link](https://x.com/Charles_Liebert/status/2115479241202499709) | **게시일:** Oct 28, 2026
+
+---
+### Grok Imagine 영상 프롬프트: Lantern 변신 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을(를) 사용하여 'Lantern'이라는 캐릭터가 전투 드레스로 변신하는 시네마틱 영상을 생성하기 위한 상세 프롬프트입니다. 이벤트 스크립트, 비주얼 스타일(매지컬 걸/슈퍼히어로), 카메라 무빙 및 사운드 디자인을 구체적으로 지정합니다.
+
+#### 📝 프롬프트
+
+```
+[Generation Goal]
+Lantern 이 전투복으로 변신하는 한 차원 높은 변신 시퀀스를 생성하세요. 핵심 피사체는 Lantern 이며, 주요 사건은 완전한 무장을 갖추고 전투 준비를 마치는 것으로 끝나는 파워업 변신입니다.
+
+[Event Script]
+시작: Lantern 이 편안한 자세로 서 있으며, 에너지 입자가 주변을 맴돌기 시작하면서 그녀의 몸에서 은은한 내면의 빛이 발산되기 시작합니다.
+주요 사건: 에너지 섬광이 강렬해지며 의상이 변화하고 재구성됩니다. 직물이 새롭게 형성되고 갑옷 플레이트가 실체화되며, 빛나는 랜턴 모티프와 빛 에너지 디테일이 온몸에 자리 잡습니다. 마법 같은 빛의 궤적과 입자 폭발이 그녀를 감싸고, 그녀가 살짝 떠오르며 두 팔을 뻗는 동안 전투복이 극적이고 층층이 드러나며 완성됩니다.
+끝: Lantern 이 전투복으로 완전히 변신한 채 힘차게 서 있으며, 남아있던 에너지 효과가 서서히 사라지고 안정적인 전투 준비 자세를 취합니다.
+
+[Visual Style]
+변신의 압도적인 힘을 강조하는 찬란한 조명 효과, 빛나는 입자, 에너지 궤적, 극적인 라이팅을 갖춘 고에너지 마법소녀/슈퍼히어로 변신 미학. 시퀀스 전체를 유려하고 웅장하며, 강렬함이 한 차원 높게 유지되도록 구성하세요.
+
+[Camera]
+미디엄 샷으로 시작하여 에너지가 최고조에 달할 때 피사체를 선회하며 다가가는 역동적인 시네마틱 카메라. 넓은 움직임과 극적인 앵글로 전신 변신을 담아내어 전투복이 완성되는 과정을 부각합니다.
+
+[Sound]
+절정으로 치솟는 강력하고 상승하는 에너지 굉음과 바람 가르는 소리, 반짝이는 빛 입자 효과 레이어, 그리고 전투복이 완전히 갖춰지는 순간 울리는 강렬한 임팩트 스팅어 사운드. 대사 없음.
+
+[Maintain Consistency]
+Lantern 을 처음부터 끝까지 하나의 연속된 피사체로 유지하세요. 변신 전후의 정체성은 동일하며, 오직 의상과 능력 표현만이 전투복으로 변화합니다. 초기 상태에서 완전히 변신한 전투 형태까지 명확한 시각적 진행 흐름을 유지하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115394762090098689/img/hVHuhI7chEhUhUW-.jpg" width="600" alt="Grok Imagine 영상 프롬프트: Lantern 변신 시퀀스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13150)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2115395330632282324) | **게시일:** Oct 28, 2026
+
+---
+### 구아슈 질감의 우주 공간 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 터키quoise, 라일락, 파랑 등 특정 색상과 두꺼운 구아슈 페인트 질감을 사용하여 소용돌이치는 성운과 별을 특징으로 하는 우주 공간 장면을 생성하기 위한 상세한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+레퍼런스와 정확히 동일한 선명한 터쿼이즈 시안, 부드러운 라일락 퍼플, 깊은 딥 블루 컬러와 두꺼운 구아슈 페인트 질감만으로 환상적인 우주 공간을 완성해 보세요. 마법처럼 그려진 우주: 소용돌이치는 성운, 빛나는 별들, 머나먼 은하까지...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115388329575288832/img/D6ISarPDgJvLUjiT.jpg" width="600" alt="구아슈 질감의 우주 공간 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13144)**
+
+**작성자:** [Magdalena Kanas](https://x.com/KanasMagdalena) | **출처:** [Link](https://x.com/KanasMagdalena/status/2115389269413970029) | **게시일:** Oct 28, 2026
+
+---
+### 한국 왕비 초상화 이미지 프롬프트
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 궁궐 배경과 모란꽃을 배경으로 조선 시대 전통 의상을 입은 한국 왕비의 초상화를 생성하기 위한 이미지 프롬프트입니다. 사용자는 Grok Imagine이 영상 생성 중에 비녀 등 추가 디테일을 넣었다고 언급했습니다.
+
+#### 📝 프롬프트
+
+```
+만개한 주황색 모란이 가득한 한국의 역사적인 궁궐 앞에 서 있는 젊은 왕비. 화려한 금실 자수가 놓인 붉은 저고리와 흰 치마로 이루어진 궁중 예복을 입고 있습니다.
+
+묶어 올린 머리에는 분홍 산호로 장식된 비녀가 꽂혀 있고, 이마 위에는 루비, 사파이어, 진주로 장식된 작은 은빛 둥근 족두리가 얹혀 있습니다.
+
+화면 비율 9:16. K-드라마 스타일.
+```
+
+<img src="https://cms-assets.youmind.com/media/1793259730850_wtz5yy_HVszvFsaQAARtCp.jpg" width="600" alt="한국 왕비 초상화 이미지 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13157)**
+
+**작성자:** [華月光](https://x.com/hanagekkou) | **출처:** [Link](https://x.com/hanagekkou/status/2115341470593143095) | **게시일:** Oct 28, 2026
+
+---
+### 바에서 메탈릭 슈트로 변신하는 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 한 여성이 들고 있는 금속 바가 전신 메탈릭 슈트로 변형되는 SF 스타일 변신 영상을 생성하기 위한 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+[Generation Goal]
+그녀가 손에 쥔 바(bar) 가 금속 수트로 변형되는 느리고 선명한 차원급 변신 시퀀스를 생성합니다.
+
+[Event Script]
+시작 장면에서 그녀는 한 손으로 바를 단단히 쥐고 서 있으며, 이 물체는 완전히 단단한 형태이고 바라는 것을 명확하게 알아볼 수 있습니다. 변형은 그녀의 손바닥과 닿아 있는 지점에서 시작됩니다. 바의 표면이 부드러워지며 액체 금속처럼 바깥으로 흘러내려 가장 먼저 그녀의 손가락과 손을 감쌉니다. 금속 재질은 천천히 끊임없이 팔을 타고 올라간 뒤 어깨와 몸통으로 퍼져나가며, 날카로운 기하학적 모서리와 반사되는 크롬 표면으로 가슴 플레이트, 허리 아머, 엉덩이 가드를 뚜렷하게 형성합니다. 이후 양쪽 다리를 따라 내려가 허벅지와 정강이 아머를 만들고, 마지막으로 부츠 주변을 밀봉하며 수트를 완벽하게 완성합니다. 변형의 모든 단계는 신중하고 매우 세밀하게 진행되어, 손에 쥔 바에서 전신 금속 수트로 이어지는 과정이 분명하게 드러나야 합니다. 마지막 장면에서 그녀는 완성된 금속 수트에 온몸이 완전히 감싸인 채 서 있으며, 원래의 바는 더 이상 독립된 물체로 존재하지 않고 그 질량 전체가 아머에 통합됩니다.
+
+[Maintain Consistency]
+전반적으로 그녀의 정체성, 신체 비율, 포즈, 그리고 액체에서 고체로 이어지는 느리고 연속적인 금속 변형 과정을 일정하게 유지하세요. 수트의 최종 금속 마감, 반사 품질, 그리고 매끄러운 결합 상태가 명확하고 일관되게 유지되어야 합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115306755467116544/img/YkdNiyOVJAW9E5JR.jpg" width="600" alt="바에서 메탈릭 슈트로 변신하는 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13146)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2115306979820491100) | **게시일:** Oct 28, 2026
+
+---
+### Grok Imagine용 카페 일상 영상 프롬프트
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 바리스타가 등장하는 12초 카페 장면을 생성하기 위한 구조화된 영상 프롬프트입니다. 일관성을 유지하기 위해 두 개의 참조 이미지(@Image1, @Image2)를 사용하며, 각 컷별 구체적인 포즈와 카메라 앵글을 정의합니다.
+
+#### 📝 프롬프트
+
+```
+영상 전체 기본 사양:
+동일한 인물의 일관성을 유지하세요. 네이비색 폴로 셔츠, 챙 없는 바이저 선캡, 브라운 앞치마를 착용한 젊은 여성 직원. 차분한 분위기의 우드톤 카페 카운터. 따뜻한 자연광.
+
+[컷 1: 0s-6s] @Image1 기반
+* 포즈 1 (0s-3s): @Image1 의 상태. 여성 직원이 드립 포트에서 흰색 컵으로 조심스럽게 커피를 내리고 있습니다.
+* 포즈 2 (3s-6s): 커피를 다 내린 후 포트를 제자리에 돌려놓고, 완성된 커피잔을 바라보며 부드럽게 미소 짓습니다.
+
+[컷 2: 6s-12s] @Image2 기반 (앵글 변경)
+* 포즈 1 (6s-9s): @Image2 의 클로즈업 앵글. 진지하면서도 부드러운 표정으로 피어오르는 김을 바라보며 커피를 마저 채웁니다.
+* 포즈 2 (9s-12s): 갑자기 카메라(손님 쪽)를 향해 고개를 들고, "기다리게 해서 죄송합니다"라고 말하듯 부드럽게 미소 지으며 살짝 고개를 숙입니다.
+
+BGM 아이디어
+"따뜻하고 잔잔한 어쿠스틱 보사노바 (느린 기타 선율과 카페 환경음)"
+```
+
+<img src="https://cms-assets.youmind.com/media/1793259728803_ncupts_HVrRlRmbYAAzlOW.jpg" width="600" alt="Grok Imagine용 카페 일상 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13155)**
+
+**작성자:** [はる](https://x.com/HaluAIArt) | **출처:** [Link](https://x.com/HaluAIArt/status/2115284925310255415) | **게시일:** Oct 28, 2026
+
+---
+### SpaceX Starship 지구에서 화성까지 시네마틱 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 사용하여 SpaceX Starship의 지구에서 화성으로 이동하는 연속적인 시네마틱 영상(발사, 궤도 이동, 착륙 포함)을 생성하기 위한 상세한 프롬프트
+
+#### 📝 프롬프트
+
+```
+[Generation Goal]
+사람들을 태운 SpaceX Starship 우주선이 지구에서 화성으로 향하는 연속적인 시네마틱 영상을 생성합니다.
+
+[Event Script]
+영상 초반, Starship 은 맑고 푸른 지구의 하늘 아래 해안가 발사대에 수직으로 서 있으며, 상부 승객 구역의 커다란 창을 통해 우주비행사 승무원들의 모습이 보입니다. 엔진이 밝은 주황색 불꽃과 짙은 흰색 증기 구름을 내뿜으며 점화되고, 기체가 이륙해 대기를 뚫고 위를 향해 가속합니다. 이후 장면은 궤도 뷰로 전환되어, Starship 이 심우주를 미끄러지듯 비행하는 동안 아래쪽의 지구가 점점 멀어지는 모습을 보여줍니다. 주요 이벤트: 기체가 텅 빈 우주를 가로질러 점차 크기가 커지는 붉은빛 화성의 원반을 향해 나아가는 긴 행성 간 항해입니다. 영상 마지막에는 Starship 이 옅은 분홍빛 하늘 아래 먼지 자욱한 화성 표면에 제어된 동력 착륙을 수행하며, 착륙 다리가 땅에 닿는 순간 엔진 출력이 줄어들고 기체가 곧게 선 채로 안정적으로 정지합니다.
+
+[Maintain Consistency]
+전체 영상에 걸쳐 Starship 의 스테인리스 스틸 외관, 크기 비율, 창 배치 및 추진 구성을 일정하게 유지하세요. 파란빛이 감도는 지구 출발 환경과 붉은빛의 화성 도착 환경 간의 시각적 대비를 명확히 유지해야 합니다. 또한 이륙부터 착륙까지 기체 내부에 승객이 탑승해 있는 모습을 일관되게 표현하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115039304548552704/img/1CW0EkBI89QJx2Z-.jpg" width="600" alt="SpaceX Starship 지구에서 화성까지 시네마틱 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13151)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2115039637609828487) | **게시일:** Oct 27, 2026
+
+---
+### 사이버캡 폭풍 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 야간 네온 메가시티를 누비는 자율주행 플라잉 택시의 군집을 묘사한 SF 영상 생성용 상세 프롬프트
+
+#### 📝 프롬프트
+
+```
+목적: 사이버캡(cybercab) 폭풍 영상을 생성합니다. 매끄러운 유선형 디자인의 자율주행 플라잉 택시가 빽빽하고 빠른 속도로 무리를 지어 미래지향적인 밤 도시를 가로질러 쏟아져 나오며, 하늘을 뒤덮는 압도적인 차량 폭풍을 만들어내는 장면입니다.
+
+설명:
+영상 시작 부분에서 어두운 먹구름 아래 네온사인으로 빛나는 메가시티의 야경 스카이라인이 펼쳐지며, 곳곳에 흩어진 사이버캡들이 옥상과 고층 이착륙장에서 떠오르기 시작합니다. 주요 장면: 수백 대의 빛나는 사이버캡이 질서와 혼돈이 공존하는 대형으로 가속하고 선회하며 교차 비행합니다. 추진기에서 뿜어져 나오는 푸른빛과 백색의 궤적이 하늘을 가득 채우며, 금속과 에너지로 이루어진 살아있는 뇌우처럼 솟구친 마천루 사이를 빠져나갑니다. 영상 후반부에는 무리의 밀도가 최고조에 달해, 빛나는 거리 위 화면 전체를 압도하는 끊이지 않는 빛의 강줄기를 형성합니다.
+
+일관성 유지
+사이버캡은 모두 동일한 유선형 디자인을 유지하고 거대한 무리를 이루도록 하며, 밤의 네온 조명과 어둡고 폭풍우 치는 하늘, 끊임없는 고속 이동을 일관되게 유지해야 합니다. 개별 기체 간 충돌이나 하늘이 텅 비는 장면은 포함하지 마십시오.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115032410752688128/img/RhB6xI105z_vmLAC.jpg" width="600" alt="사이버캡 폭풍 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13153)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2115032907261816941) | **게시일:** Oct 27, 2026
+
+---
 ### 의인화된 버디 코프 영화 스틸 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -315,6 +633,25 @@ LUMI 는 빛나는 하얀 바이올린을 들고 와이어프레임으로 이루
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13119)**
 
 **작성자:** [Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2114756440200003874) | **게시일:** Oct 26, 2026
+
+---
+### 소녀와 로봇 아머 진화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 소녀와 로봇 동료가 백금 에너지로 전투 아머로 변신하는 영상 프롬프트
+
+#### 📝 프롬프트
+
+```
+다음 단계로의 진화 시퀀스. 소녀와 그녀의 로봇 파트너가 강력한 변신을 시작합니다. 화이트와 골드 빛의 에너지가 두 사람을 휘감으며, 입고 있던 스트리트웨어가 최첨단 전투 아머로 변화합니다. 로봇은 한층 더 크고 공격적인 모습으로 진화하고, 주변의 잔해들이 공중으로 떠오릅니다. 영화처럼 극적이고 디테일이 살아 있는 고품질 영상.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114718012540620800/img/H2lTw9eyvRiXGnY1.jpg" width="600" alt="소녀와 로봇 아머 진화">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13154)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2114718405647622441) | **게시일:** Oct 26, 2026
 
 ---
 ### 고양이 레이저 포인터 상호작용 프롬프트
@@ -1706,6 +2043,25 @@ BGM
 **작성자:** [レイヴ](https://x.com/raves9361) | **출처:** [Link](https://x.com/raves9361/status/2113216645950775792) | **게시일:** Oct 22, 2026
 
 ---
+### 외계인이 마크 저커버그를 때리는 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine에서 생성하는 가상의 SF 장면을 위한 비디오 프롬프트로, 외계인이 공항 활주로에서 마크 저커버그를 때리는 장면을 묘사하며 사실적인 물리 법칙과 카메라 움직임을 강조합니다.
+
+#### 📝 프롬프트
+
+```
+참조 이미지와 일치하는, 군사 공항 활주로 위 초현실적인 시네마틱 SF 장면. 키가 크고 위협적인 외계인이 Mark Zuckerberg 의 왼쪽에 서서 가까운 거리에서 그를 마주 보고 있습니다. 갑자기 외계인이 손을 휘둘러 Zuckerberg 의 뺨을 후려칩니다. Zuckerberg 는 중심을 잃고 뒤로 비틀거리다가 콘크리트 바닥으로 쓰러집니다. 경비원들은 경악한 반응을 보이고, 다른 외계인들은 이를 지켜봅니다. 액션이 진행되는 내내 외계인은 계속 왼쪽에 배치해 주세요. 사실적인 신체 물리 효과, 극적인 카메라 쉐이크, 시네마틱 조명, 섬세한 표정 묘사, 4K 리얼리즘, 세로 9:16 포맷.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113212610980298752/img/UwIEAzUJh2qlyN1q.jpg" width="600" alt="외계인이 마크 저커버그를 때리는 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13152)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2113213049255731339) | **게시일:** Oct 22, 2026
+
+---
 ### 용과 네팔 여성 일러스트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2585,282 +2941,6 @@ BGM "(이미지의 분위기에 어울리는 BGM을 생각해 주세요)"
 **작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2112218502107205691) | **게시일:** Oct 19, 2026
 
 ---
-### 천사 날개의 빛 확장
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 천사가 날개를 통해 빛을 확장하며 제3천국으로 날아가는 모습을 묘사한 상세한 시각 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-천사가 날개로 자신을 감싸다가 빛이 날개를 통해 퍼져나가 온몸을 관통하는 장면, 그녀는 제3천국으로 날아갑니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112002366715187200/img/CuVKtDon9KGFWG1V.jpg" width="600" alt="천사 날개의 빛 확장">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12744)**
-
-**작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2112002389104349278) | **게시일:** Oct 19, 2026
-
----
-### 중국 수묵화 스타일의 Grok Imagine 드론 샷
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 왕희맹의 송대 두루마리에서 영감을 받은 생동감 있는 중국 청록산수화를 통과하는 세로형 시네마틱 드론 샷을 특징으로 하는 Grok Imagine 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-왕희맹의 송나라 두루마리 그림 '천리강산도' 스타일로 그려진 살아 움직이는 중국 청록산수화 내부를 앞으로 비행하는 수직 시네마틱 드론 촬영: 석청과 석록으로 채색된 우뚝 솟은 봉우리들, 산 사이로 흘러가는 안개 낀 구름, 뒤틀린 가지의 소나무, 강 위 작은 정자와 배, 안개를 뚫고 스며드는 황금빛, 수묵 질감과 사실적인 입체감이 어우러진 표현, 느리고 장엄한 움직임, 몽환적인 분위기, 높은 디테일, 8k 해상도
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111994510440030208/img/kxhx0uIqj_goWPDR.jpg" width="600" alt="중국 수묵화 스타일의 Grok Imagine 드론 샷">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12805)**
-
-**작성자:** [Jerry Dai| 顺天](https://x.com/shuntian2026) | **출처:** [Link](https://x.com/shuntian2026/status/2111996041906307225) | **게시일:** Oct 19, 2026
-
----
-### Grok Imagine 시네마틱 클록 비디오
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 시계가 정확히 8:00을 가리킬 때 책상에서 피곤해하는 남자를 묘사한 상세한 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-6 초짜리 시네마틱 영상 제작: 지친 남자가 책상에 앉아 7:59:58 을 가리키는 아날로그 벽시계를 올려다봅니다. 초침이 두 번 째깍거리며 시계가 정확히 8:00 이 되는 순간을 클로즈업으로 보여줍니다. 분침은 12 를, 시침은 8 을 가리킵니다. 그때...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111949764417724416/img/duft5ue13wvfclvH.jpg" width="600" alt="Grok Imagine 시네마틱 클록 비디오">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12800)**
-
-**작성자:** [Ligma Ballz](https://x.com/LBallz77283) | **출처:** [Link](https://x.com/LBallz77283/status/2111949821171155240) | **게시일:** Oct 18, 2026
-
----
-### Elon Musk가 뉴욕 시에서 Tesla를 운전하는 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 사용하여 Elon Musk가 뉴욕 시 거리를 Tesla로 달리는 재미있는 영상을 생성하기 위한 간단한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-재미있는 영상. Elon Musk와 제가 뉴욕 시 거리에서 Tesla를 운전하고 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111927231232524288/img/ACatCxO4jnjOwOtt.jpg" width="600" alt="Elon Musk가 뉴욕 시에서 Tesla를 운전하는 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12743)**
-
-**작성자:** [Jarosław Justka](https://x.com/jaras70berlin) | **출처:** [Link](https://x.com/jaras70berlin/status/2111927270948450616) | **게시일:** Oct 18, 2026
-
----
-### Elon과 Optimus의 월요일 출근
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine으로 생성한, 큰 발표 이후 사무실에 도착하는 일론 머스크와 Optimus를 유머러스하게 묘사한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-목요일 공개 행사에서 그야말로 역대급 폭풍을 몰고 온 뒤, 월요일 출근길에 등장하는 Elon Musk 와 Tesla Optimus. 🦅🔥
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111828358648516608/img/6gOTLp0zakP_Qipy.jpg" width="600" alt="Elon과 Optimus의 월요일 출근">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13023)**
-
-**작성자:** [The SI Maximalist](https://x.com/thesimaximalist) | **출처:** [Link](https://x.com/thesimaximalist/status/2111828533676806310) | **게시일:** Oct 18, 2026
-
----
-### Claudia 애니메이션 스타일 Tesla Roadster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 사용하여 실제 인물을 Tesla Roadster 장면에서 애니메이션 스타일로 변환하는 영상 생성 프롬프트.
-
-#### 📝 프롬프트
-
-```
-CLAUDIA × SI — WHITE TESLA ROADSTER 🤍🚀
-실사 → 원테이크 애니메이션화 @imagine 
-
-@anabology Claudia를 @bot으로 애니메이션 스타일에 적용해 봤습니다
-```
-
-<img src="https://pbs.twimg.com/media/HU6OwhcWoAAHtHn.jpg" width="600" alt="Claudia 애니메이션 스타일 Tesla Roadster">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12746)**
-
-**작성자:** [Dima Nurm](https://x.com/NURM_Dima) | **출처:** [Link](https://x.com/NURM_Dima/status/2111782488544539049) | **게시일:** Oct 18, 2026
-
----
-### 나이트스쿼럴 vs 로봇 메크
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bass Mech로 로봇과 싸우는 Knightsquirrel 스토리를 이어가는 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Knightsquirrel이 Bass Mech를 사용하여 Treble의 로봇들과 계속 싸우는 내용을 확장합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111702540928577536/img/vx0G6jhxWBnxh2nZ.jpg" width="600" alt="나이트스쿼럴 vs 로봇 메크">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12747)**
-
-**작성자:** [Michael Erikson](https://x.com/erikson_michael) | **출처:** [Link](https://x.com/erikson_michael/status/2111702741881921889) | **게시일:** Oct 18, 2026
-
----
-### 독수리 낚시 POV 영상 시퀀스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 투명한 물에서 독수리가 물고기를 낚아채는 장면을 묘사한 상세한 영상 프롬프트로, 1인칭 시점(POV)에서 시작하여 위에서 내려다보는 후퇴 샷으로 전환됩니다.
-
-#### 📝 프롬프트
-
-```
-투명한 물 속으로 급강하하여 물고기를 낚아채는 독수리의 모습을 1인칭 시점(POV)으로 유지하다가, 위에서 내려다보며 멀어지는 샷으로 전환되어 구름 속으로 사라지는 장면
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111635732368355328/img/3sQclpWkqyUIYhBC.jpg" width="600" alt="독수리 낚시 POV 영상 시퀀스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12699)**
-
-**작성자:** [Louie Dog](https://x.com/sumwearoutthere) | **출처:** [Link](https://x.com/sumwearoutthere/status/2111635762487648641) | **게시일:** Oct 18, 2026
-
----
-### VHS 호수 괴물 파운드 푸티지
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1990년대 캠코더로 촬영된 호수 괴물이 가족을 습격하는 장면을 묘사한 상세한 멀티샷 비디오 프롬프트. VHS 아티팩트와 구체적인 카메라 움직임이 포함되었습니다.
-
-#### 📝 프롬프트
-
-```
-1990년대 캠코더 파운드 푸티지, VHS 테이프 아티팩트, 트래킹 라인, 색수차, 자동 초점 탐색, 과노출된 하이라이트, 흔들리는 아마추어 핸드헬드 카메라, 모서리에 새겨진 날짜 타임스탬프. 컬러 그레이딩: 퇴색된 회색-녹색, 바랜 피부 톤, 날아간 창백한 하늘.
-안개를 통해 실루엣으로 주로 보이는, 등뼈가 돌출되고 목이 긴 거대한 어두운 호수 생물. 북부 호수의 나무 부두에 카누를 두고 있는 가족.
-SHOT 1 (0~3초): 참고 이미지와 일치하는 와이드 핸드헬드 샷. 카메라가 서투르게 줌 인하며 호수 저 멀리서 생물의 등이 수면을 깨고 물이 시트처럼 흘러내림.
-SHOT 2 (3~6초): 핸드헬드 미디엄 샷. 카메라가 부두의 가족 쪽으로 급히 이동함. 아이가 손가락으로 가리키고, 아버지가 카누를 물에서 끌어올리며, 이미지가 트래킹 라인으로 글리치 발생.
-SHOT 3 (6~9초): 와이드 샷. 자동 초점이 계속 탐색함. 안개 속에서 긴 목이 불가능할 정도로 높게 솟아오르고, 부두 쪽으로 파도가 밀려옴.
-SHOT 4 (9~12초): 러닝 핸드헬드 샷. 촬영자가 나무 계단을 따라 도망치며 카메라가 심하게 흔들림. 뒤에서 번쩍이는 호수가 보이며, 파도가 부두를 강타함.
-SHOT 5 (12~15초): 스태틱 샷. 카메라가 잔디 위에 떨어지고 옆으로 기울어진 상태. 생물의 실루엣이 안개 속으로 천천히 다시 잠김. 이후 테이프가 글리치되며 블루 스크린으로 전환됨.
-아비류 울음소리, 테이프 히스 노이즈, 마이크에 부는 바람 소리, 호수에서 나는 깊은 안개 경적 같은 울음소리, 아이의 비명, 당황한 숨소리, 나무 부서지는 소리, 마지막 VHS 트래킹 스크리치 소리와 함께 정적.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111585229756391424/img/1K0p3KhB2LfWMhMl.jpg" width="600" alt="VHS 호수 괴물 파운드 푸티지">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12748)**
-
-**작성자:** [Alexandra Aisling](https://x.com/AllaAisling) | **출처:** [Link](https://x.com/AllaAisling/status/2111621281754005784) | **게시일:** Oct 18, 2026
-
----
-### 커플 사진 티셔츠 목업 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 입력 이미지를 특정 커플의 사진이 인쇄된 검은색 면 티셔츠의 사실적인 제품 목업으로 변환하는 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-세련된 검은색 면 티셔츠의 고품질 사실적 제품 목업으로 변환하세요. 정확한 커플 사진(팔에 문신이 있고 웃고 있는 여성과 검은 머리에 진주 목걸이를 한 남성이 그녀를 안고 있는 모습)을 크게 중앙에 배치하여...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111597123510611968/img/FCqcqicB-TWCjLs_.jpg" width="600" alt="커플 사진 티셔츠 목업 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12706)**
-
-**작성자:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **출처:** [Link](https://x.com/maggiejuang1/status/2111597167521534410) | **게시일:** Oct 17, 2026
-
----
-### 수중 로드스터 텍스트 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 블랙 화면에 텍스트가 표시된 후 해저의 검은 선체와 낮은 웅장한 소리가 들리는 수중 장면으로 전환되는 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-블랙 화면. 텍스트: “Elon의 Roadster는 날아다닌다. ours는 묻지 않는다.” 수중 — 해저의 검은 선체. 낮은 웅장한 소리....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111593551935225856/img/CbwZYpH9Pyj368Sw.jpg" width="600" alt="수중 로드스터 텍스트 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12745)**
-
-**작성자:** [Puchamamax](https://x.com/aaoomaxi) | **출처:** [Link](https://x.com/aaoomaxi/status/2111593612438126991) | **게시일:** Oct 17, 2026
-
----
-### 이탈리아 레스토랑 장면 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 와인, 해산물, 촛불이 있는 이탈리아 레스토랑 장면을 위한 상세한 영상 프롬프트
-
-#### 📝 프롬프트
-
-```
-저는 이탈리아 레스토랑에 있습니다. 테이블 위에는 레드 와인 병과 와인 잔 두 개가 놓여 있습니다. 해산물 요리 접시 두 개가 있으며, 웨이트리스가 테이블의 촛불을 켜고 있었습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111562011309981697/img/MD5Nn1DadWn6j6Pw.jpg" width="600" alt="이탈리아 레스토랑 장면 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12708)**
-
-**작성자:** [Jarosław Justka](https://x.com/jaras70berlin) | **출처:** [Link](https://x.com/jaras70berlin/status/2111562048945410556) | **게시일:** Oct 17, 2026
-
----
-### 호박밭 할로윈 밤
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 파란 달이 뜬 무서운 호박밭 배경의 캐릭터가 등장하는 45초 영상 프롬프트.
-
-#### 📝 프롬프트
-
-```
-세 명의 캐릭터가 등장하는 45초 영상, 호박밭 할로윈 무서운 밤, 파란 달
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111548059507466242/img/WB_3fyDCR7kKHXnj.jpg" width="600" alt="호박밭 할로윈 밤">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12703)**
-
-**작성자:** [BlueMoon Operations](https://x.com/CRinkleib) | **출처:** [Link](https://x.com/CRinkleib/status/2111548067057209497) | **게시일:** Oct 17, 2026
-
----
-### 개울에서 물을 마시는 사슴 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 숲 속 개울에서 물을 마시는 사슴을 보여주는 영상 생성 프롬프트로, 두 번째 암사슴 제거를 지시합니다.
-
-#### 📝 프롬프트
-
-```
-숲을 가로지르는 더 넓은 개울에서 수증기가 피어오르는 장면과 개울에서 물을 마치는 암사슴과 수사슴. 두 번째 암사슴은 제거하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111523846931337216/img/3GhXX_Hz2Y1ixHzw.jpg" width="600" alt="개울에서 물을 마시는 사슴 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12705)**
-
-**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2111523923150205138) | **게시일:** Oct 17, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2922,6 +3002,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-29T05:37:12.300Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-29T15:25:36.338Z</sub>
 
 </div>
