@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3253** |
+| 📝 Total Prompts | **3257** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-30** |
 
@@ -189,6 +189,87 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Ninja Fight Duo: Phân cảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video cho Grok Imagine mô tả cảnh hai người cùng hạ gục một ninja, sau đó đánh nhau và kết thúc bằng cái ôm.
+
+#### 📝 Prompt
+
+```
+Cả hai联手 tấn công và hạ gục các ninja, rồi lại quay sang đối đầu nhau. Họ vừa cười vừa đánh nhau, cuối cùng kết thúc bằng một cái ôm thật chặt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116019548096700416/img/AJsozuga-2HCV0l2.jpg" width="600" alt="Ninja Fight Duo: Phân cảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13208)**
+
+**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2116019614442463517) | **Published:** Oct 30, 2026
+
+---
+### Điều hướng 3D trong tranh với Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc video tạo ra chuyển động máy quay 3D điện ảnh xuyên qua một bức tranh tĩnh được tải lên làm tham chiếu, giữ nguyên bố cục gốc đồng thời thêm chiều sâu và hiệu ứng parallax mà không làm hoạt hình các yếu tố.
+
+#### 📝 Prompt
+
+```
+Video bắt đầu từ khung hình của bức tranh được đính kèm, giữ nguyên bố cục, chủ thể, màu sắc, ánh sáng và cách sắp xếp của bức tranh như một không gian ba chiều tĩnh.
+
+Không có bất kỳ người, động vật, đồ vật, mặt nước, tán lá, đám mây, ngọn lửa hay chi tiết nào khác trong tranh chuyển động, hoạt họa hay thay đổi trạng thái. Toàn bộ khung cảnh hoàn toàn đóng băng, tựa như bức tranh vừa hóa thành một mô hình diorama đặc khối và bất động.
+
+Camera thực hiện một cú máy 3D điện ảnh liên tục xuyên qua khung cảnh tĩnh này: từ từ tiến về phía trước, nhẹ nhàng xoay vòng và trôi lướt qua các chủ thể chính cùng những lớp không gian, hé lộ chiều sâu, hiệu ứng thị sai (parallax) và hình khối ba chiều mà tuyệt đối không làm thay đổi hay tạo chuyển động cho bất kỳ nội dung nào bên trong bức tranh.
+
+Chuyển động của camera chỉ đi kèm với cảm giác hiện diện của không gian xung quanh; hoàn toàn không có lời thoại, giọng đọc, âm nhạc hay bất kỳ hiệu ứng âm thanh nào phát ra từ các chi tiết trong tranh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115785431933444096/img/l60Q96XKSFOROJno.jpg" width="600" alt="Điều hướng 3D trong tranh với Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13206)**
+
+**Author:** [Knight World](https://x.com/KnightWorld) | **Source:** [Link](https://x.com/KnightWorld/status/2115786168985870531) | **Published:** Oct 29, 2026
+
+---
+### Kịch bản video biến hình giáp Sci-Fi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt điện ảnh chi tiết để tạo video một nhân vật biến hình thành bộ giáp công nghệ cao trong nhà chứa máy bay, kèm theo các hướng dẫn cụ thể về góc quay, âm thanh và phong cách hình ảnh.
+
+#### 📝 Prompt
+
+```
+[Mục tiêu tạo video]
+Tạo một video biến hình giáp chiến đấu Sci-Fi cường độ cao, đẳng cấp vượt trội. Chủ thể chính là một nhân vật đơn độc đang trải qua quá trình biến đổi bộ giáp công nghệ cao và kích hoạt năng lượng để sẵn sàng chiến đấu, hoàn toàn không xuất hiện bất kỳ loại vũ khí nào.
+
+[Kịch bản sự kiện]
+Mở đầu: Một bóng người cô độc đứng giữa trung tâm của một nhà chứa máy bay công nghệ cao rộng lớn và tối tăm, với sàn kim loại, các đường ống dữ liệu phát sáng cùng ánh sáng xanh lạnh bao trùm. Nhân vật chỉ mặc duy nhất một bộ đồ lót chiến thuật cơ bản.
+Sự kiện chính: Nhân vật khởi động quá trình biến hình bằng cách dang nhẹ hai tay. Các bầy nanite và hạt năng lượng ánh sáng cứng (hard-light) bùng lên từ sàn và tường, nhanh chóng lắp ráp từng phần bộ giáp chiến đấu nhiều lớp — đầu tiên là ống chân và ủng khóa chặt vào chân bằng khớp nối thủy lực, tiếp đến là các tấm giáp đùi và thân khớp vào nhau kèm theo tiếng lách cách cơ học rõ rệt cùng những mối hàn năng lượng, sau đó là cầu vai, găng tay bọc thép và một chiếc mũ bảo hiểm kín mít, mượt mà khép lại bằng một tiếng xì áp suất cuối cùng. Bề mặt giáp chuyển từ màu đen nhám sang các phiến kim loại ngũ sắc phản ứng linh hoạt, điểm xuyết những đường năng lượng màu lục lam nhấp nháy cùng họa tiết ngụy trang thích ứng gợn sóng khắp cơ thể. Nhân vật kiểm tra độ linh hoạt bằng cách chuyển sang các thế đứng chuẩn bị chiến đấu, các phiến giáp uyển chuyển điều chỉnh theo từng cử động trong khi khe đẩy và khiên năng lượng lóe sáng ngắn ngủi để thị phạm. Không có bất kỳ vũ khí nào được tạo ra hay cầm trên tay.
+Kết thúc: Nhân vật đã biến hình hoàn toàn đứng vững chãi trong một thế võ đầy uy lực, bộ giáp khép kín hoàn hảo và tỏa sáng với các tín hiệu năng lượng ổn định, ánh đèn nhà chứa máy bay phản chiếu lấp lánh trên bề mặt giáp bóng loáng.
+
+[Phong cách hình ảnh]
+Thẩm mỹ điện ảnh Sci-Fi chi tiết siêu thực với thiết kế giáp thế hệ mới — các phiến giáp kết hợp hữu cơ - cơ khí, hình ảnh phản chiếu HUD ba chiều trên kính mũ bảo hiểm, những luồng sáng god-ray xuyên khối cắt ngang các hạt năng lượng lơ lửng, ánh sáng viền kịch tính, chất liệu kim loại tương phản cao và hiệu ứng méo nhiệt mờ ảo quanh các đường ống dẫn năng lượng.
+
+[Góc máy]
+Bắt đầu bằng một cú máy toàn cảnh giới thiệu nhà chứa máy bay và nhân vật, sau đó xoay mượt mà 360 độ trong suốt quá trình lắp ráp giáp. Ống kính tiến sát vào các cảnh cận vừa ghi lại khớp khóa giáp và mối hàn năng lượng, tiếp nối bằng những cú lia máy động bám theo từng nhịp chuyển thế đứng của nhân vật. Kết thúc bằng một góc máy toàn cảnh hất thấp đậm chất anh hùng, tôn vinh trọn vẹn đường nét bộ giáp đã hoàn thiện.
+
+[Âm thanh]
+Tiếng rền kích hoạt năng lượng sub-bass trầm đục dâng dần xuyên suốt, hòa quyện cùng tiếng kim loại khóa chốt sắc gọn, tiếng xì hơi nén kín kẽ, âm thanh phóng điện nổ lách tách và tiếng rít vang vọng khi khởi động bộ đẩy. Âm vang môi trường của nhà chứa máy bay cùng tiếng ù ù của máy móc xa xa duy trì liên tục. Tuyệt đối không có âm thanh vũ khí, tiếng súng nổ hay tiếng va chạm của lưỡi kiếm kim loại. Không lời thoại hay thuyết minh.
+
+[Duy trì tính nhất quán]
+Chỉ giữ nguyên một nhân vật duy nhất và một chuỗi biến hình giáp liền mạch. Đảm bảo tuyệt đối không xuất hiện vũ khí, súng đạn, lưỡi kiếm hay bất kỳ trang bị tấn công nào ở mọi giai đoạn. Giữ nguyên tính toàn vẹn của bộ giáp, dải màu chuyển từ đen sang lục lam ngũ sắc, bố cục không gian nhà chứa máy bay và trạng thái chiến đấu khép kín hoàn chỉnh ở phân cảnh cuối.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115713093057892352/img/Zx_4i5Oe9Ds9fcnl.jpg" width="600" alt="Kịch bản video biến hình giáp Sci-Fi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13207)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115713615433204204) | **Published:** Oct 29, 2026
+
+---
 ### Video Tiến hóa Con người Cyberpunk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -299,6 +380,25 @@ Giữ nguyên phong cách kết xuất photorealistic thuần túy cho các ch�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13145)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
+
+---
+### Trang phục ma cho chó đi xin kẹo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo video về một chú chó đứng dậy, mặc trang phục ma và đi xin kẹo trong lễ Halloween.
+
+#### 📝 Prompt
+
+```
+Hãy làm cho chú chó trong bức ảnh này đứng dậy, tự may một bộ trang phục ma rồi mặc vào và đi xin kẹo Halloween nhé.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="Trang phục ma cho chó đi xin kẹo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13205)**
+
+**Author:** [Rawrsteel](https://x.com/rawrsteel88) | **Source:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **Published:** Oct 28, 2026
 
 ---
 ### Câu lệnh chân dung du hành thời gian với Grok Imagine
@@ -2858,82 +2958,6 @@ Cho chú mèo rút thẻ tín dụng ra và đưa cho ShihTzu. Để Shih Tzu h�
 **Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2112308141769589093) | **Published:** Oct 19, 2026
 
 ---
-### Prompt Video Chuyển Cảnh Động
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video từ hình ảnh, với hiệu ứng chuyển màu, chuyển cảnh từ phòng ngủ ra cánh đồng và thay đổi trang phục.
-
-#### 📝 Prompt
-
-```
-Lấy hình ảnh và dùng các từ ngữ đó làm mô tả cho video, thêm hiệu ứng màu sắc xoay vòng, đổi bối cảnh phòng ngủ thành bãi cỏ với tấm thảm kẻ caro đen trắng, thay trang phục thành áo kiểu màu vàng băng nhạt, quần jeans...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112303122706006016/img/9PT99EU-Fmoydhjg.jpg" width="600" alt="Prompt Video Chuyển Cảnh Động">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12798)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112303166528389334) | **Published:** Oct 19, 2026
-
----
-### Sân vận động bóng đá tàu vũ trụ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả video chi tiết về trận đấu bóng đá trong sân vận động tàu vũ trụ khổng lồ với mái vòm kính nhìn ra Trái Đất.
-
-#### 📝 Prompt
-
-```
-Video 15s 720p quay cảnh đá bóng trong một sân vận động trên tàu vũ trụ khổng lồ có mái vòm kính nhìn xuống Trái Đất....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112296155027501056/img/Jp7p4SWZg-hPXNYE.jpg" width="600" alt="Sân vận động bóng đá tàu vũ trụ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12794)**
-
-**Author:** [Starship](https://x.com/starship_river) | **Source:** [Link](https://x.com/starship_river/status/2112296207879954695) | **Published:** Oct 19, 2026
-
----
-### Grok Imagine Video Prompt: Cảnh Xe Bay Tesla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt điện ảnh mô tả chiếc xe Tesla màu trắng quay đầu và bay nhẹ nhàng trên nền trời cam rực rỡ trước khi hạ cánh trở lại mặt đường.
-
-#### 📝 Prompt
-
-```
-Bầu trời trong xanh rực rỡ ánh nắng cam, đây là đâu nhỉ. Một chiếc xe Tesla màu trắng đang hướng thẳng về phía trước rồi từ từ bay lên không trung, sau đó nhẹ nhàng hạ cánh trở lại mặt đường....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112251123998281728/img/mnIq8yKuxqD4CLQl.jpg" width="600" alt="Grok Imagine Video Prompt: Cảnh Xe Bay Tesla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12799)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2112251138145951830) | **Published:** Oct 19, 2026
-
----
-### Grok Imagine: Biến Hình Siêu Xe Thành Robot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video chất lượng cao mô tả một chiếc siêu xe đen tương lai biến hình thành chiến binh robot trong thành phố neon.
-
-#### 📝 Prompt
-
-```
-Một chiếc siêu xe màu đen mang đậm chất tương lai lao vun vút qua đại đô thị rực ánh đèn neon trong đêm, rồi phanh gấp trên mặt đường cao tốc ướt đẫm. Nắp capo tách ra thành những tấm giáp ngực kiên cố, bánh xe xoay chuyển hóa thành vai, cùng hàng trăm chi tiết thủy lực bung mở theo từng nhịp cơ khí chính xác đến hoàn hảo. Chiếc xe vươn mình đứng dậy, biến thành một chiến binh robot khổng lồ với đôi mắt xanh phát sáng, hơi nước phụt mạnh từ lớp áo giáp. Robot tiến lên một bước đầy uy lực trong khi ống kính máy quay xoay quanh nó bằng cú lia 360 độ đầy kịch tính.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112218406913282051/img/p2l0BCI_PrQVlPrl.jpg" width="600" alt="Grok Imagine: Biến Hình Siêu Xe Thành Robot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12801)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112218502107205691) | **Published:** Oct 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2995,6 +3019,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-30T05:36:35.693Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-30T15:16:23.595Z</sub>
 
 </div>

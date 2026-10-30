@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3253** |
+| 📝 총 프롬프트 수 | **3257** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-10-30** |
 
@@ -189,6 +189,86 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 닌자 전투 듀오 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 두 명의 캐릭터가 닌자를 물리친 후 서로 대결하다가 마지막에 포옹으로 마무리되는 장면을 묘사한 Grok Imagine용 비디오 프롬프트.
+
+#### 📝 프롬프트
+
+```
+두 사람은 공격을 퍼부어 닌자를 쓰러뜨린 뒤, 다시 서로를 향해 돌아섭니다. 둘은 웃으며 한바탕 싸움을 벌이고, 결국 서로를 끌어안으며 마무리됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116019548096700416/img/AJsozuga-2HCV0l2.jpg" width="600" alt="닌자 전투 듀오 시퀀스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13208)**
+
+**작성자:** [Michael Erikson](https://x.com/erikson_michael) | **출처:** [Link](https://x.com/erikson_michael/status/2116019614442463517) | **게시일:** Oct 30, 2026
+
+---
+### Grok Imagine으로 그림 속 3D 네비게이션 구현하기
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 참고 이미지로 업로드한 정적 그림을 통해 원본 구도를 유지하면서 깊이감과 패럴랙스 효과를 추가하는 시네마틱 3D 카메라 무브먼트를 생성하는 영상 프롬프트입니다. 요소의 애니메이션은 포함되지 않습니다.
+
+#### 📝 프롬프트
+
+```
+영상은 첨부된 그림이 정의하는 프레임에서 시작되며, 정지된 3 차원 공간으로서 그림의 정확한 구도, 피사체, 색감, 조명, 배치를 그대로 유지합니다.
+
+사람, 동물, 사물, 물, 나뭇잎, 구름, 불꽃 등 그림 속 어떤 요소도 움직이거나 애니메이션 효과를 갖거나 상태가 변하지 않습니다. 마치 그림이 단단하고 움직임 없는 디오라마로 바뀐 것처럼, 장면 전체가 완전히 멈춘 상태를 유지합니다.
+
+카메라는 이 정지된 장면 속에서 끊김 없이 영화적인 3D 트래블링을 수행합니다. 천천히 앞으로 나아가고 부드럽게 궤도를 돌며, 주요 피사체와 공간 레이어를 스쳐 지나갑니다. 이를 통해 깊이감과 패럴랙스(시차), 입체적 형태감을 드러내면서도 그림 내부의 콘텐츠를 전혀 변경하거나 움직이지 않습니다.
+움직임에는 오직 주변 공간의 분위기만 함께할 뿐, 그림 속 어떤 요소에서도 대사, 내레이션, 음악, 효과음이 발생하지 않습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115785431933444096/img/l60Q96XKSFOROJno.jpg" width="600" alt="Grok Imagine으로 그림 속 3D 네비게이션 구현하기">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13206)**
+
+**작성자:** [Knight World](https://x.com/KnightWorld) | **출처:** [Link](https://x.com/KnightWorld/status/2115786168985870531) | **게시일:** Oct 29, 2026
+
+---
+### SF 아머 변신 영상 스크립트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 격납고에서 인물이 하이테크 아머로 변신하는 장면을 생성하기 위한 상세한 시네마틱 프롬프트입니다. 구체적인 카메라, 사운드 및 비주얼 스타일 지침이 포함되어 있습니다.
+
+#### 📝 프롬프트
+
+```
+[생성 목표]
+고강도 차세대 SF 전투 아머 변신 영상을 생성합니다. 핵심 피사체는 단 한 명의 인물이며, 이 인물이 첨단 아머 모핑을 거쳐 전투 준비 태세를 갖추는 과정을 담습니다. 어떠한 종류의 무기도 등장하지 않아야 합니다.
+
+[이벤트 스크립트]
+시작: 금속 바닥과 빛나는 데이터 도관, 차가운 블루 앰비언트 조명이 깔린 넓고 어두운 하이테크 격납고 중앙에 기본 전술 언더수트만 입은 외로운 인간 형상이 홀로 서 있습니다.
+주요 이벤트: 인물이 양팔을 살짝 벌리며 변신을 시작합니다. 나나이트 군집과 하드라이트 에너지 입자가 바닥과 벽에서 뿜어져 나와, 레이어 구조의 전투 아머를 부위별로 빠르게 조립합니다. 먼저 유압식 실링과 함께 그리브와 부츠가 다리에 고정되고, 이어서 허벅지와 몸통 플레이트가 기계적인 클릭음과 에너지 용접 흔적을 남기며 맞물립니다. 그다음 숄더 폴드론과 건틀릿, 그리고 마지막으로 가압된 쉭 소리와 함께 밀봉되는 매끄러운 풀 페이스 헬멧이 장착됩니다. 아머 표면은 매트 블랙에서 반응형 오로라 빛 플레이트로 변화하며, 맥동하는 시안색 에너지 라인과 온몸을 타고 흐르는 적응형 위장 패턴이 나타납니다. 인물이 전투 태세로 자세를 바꾸며 기동성을 테스트하고, 움직임에 따라 아머 플레이트가 유연하게 조절되며 스러스터 벤트와 에너지 실드가 시연용으로 짧게 점멸합니다. 무기는 생성되거나 손에 들리지 않습니다.
+끝: 변신을 마친 인물이 하체가 단단히 고정된 강력한 전투 포즈로 서 있으며, 아머는 완전히 밀봉된 채 안정적인 파워 시그니처로 빛나고 격납고 조명이 매끄러운 표면에 반사됩니다.
+
+[비주얼 스타일]
+차세대 아머 디자인이 돋보이는 초정밀 시네마틱 SF 미학—유기체와 기계가 융합된 플레이트, 헬멧 바이저에 비치는 홀로그래픽 HUD 반사, 떠다니는 에너지 입자를 가르며 쏟아지는 볼류메트릭 갓레이, 극적인 림 라이팅, 고대비 메탈 텍스처, 파워 도관 주변에 일렁이는 미세한 열 왜곡 효과를 적용합니다.
+
+[카메라]
+격납고와 인물을 담은 와이드 에스타블리싱 샷으로 시작하여, 아머 조립 시퀀스 동안 360 도로 부드럽게 궤도를 돕니다. 플레이트 잠금 장치와 에너지 용접 부분을 미디엄 클로즈업으로 파고든 뒤, 인물의 자세 변화를 따라가는 역동적인 트래킹 샷으로 이어집니다. 완성된 아머 실루엣을 강조하는 로우 앵글 히어로 와이드 샷으로 마무리합니다.
+
+[사운드]
+깊은 서브 베이스 파워업 험음이 영상 전반에 걸쳐 고조되며, 날카로운 금속 잠금 소리, 가압 밀봉 시 나는 쉭 소리, 타오르는 에너지 서지, 공명하는 스러스터 점화 사운드가 겹쳐집니다. 격납고 특유의 앰비언트 리버브와 멀리서 들려오는 기계 작동음은 일정하게 유지됩니다. 무기음, 총소리, 금속 칼날 효과음은 배제합니다. 대사나 내레이션은 없습니다.
+
+[일관성 유지]
+단일 인간 형상과 끊김 없는 아머 변신 시퀀스만을 유지합니다. 어떤 단계에서도 무기, 총기, 칼날, 총 또는 어떠한 무장도 등장하지 않도록 합니다. 아머의 완전성, 블랙에서 오로라 빛 시안으로 이어지는 색상 변화, 격납고의 공간 배치, 최종적으로 밀봉된 전투 준비 상태를 그대로 보존합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115713093057892352/img/Zx_4i5Oe9Ds9fcnl.jpg" width="600" alt="SF 아머 변신 영상 스크립트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13207)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2115713615433204204) | **게시일:** Oct 29, 2026
+
+---
 ### 사이버펑크 인류 진화 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -299,6 +379,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13145)**
 
 **작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **게시일:** Oct 29, 2026
+
+---
+### 강아지 유령 코스프레 트릭 오어 트릿
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 강아지가 일어나서 유령 의상을 만들고 트릭 오어 트릿을 하러 가는 영상을 생성합니다.
+
+#### 📝 프롬프트
+
+```
+이 사진 속 강아지가 직접 일어나서 유령 코스튬을 만들고, 그걸 입고 나가서 Trick-or-treating 을 하게 해줘
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="강아지 유령 코스프레 트릭 오어 트릿">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13205)**
+
+**작성자:** [Rawrsteel](https://x.com/rawrsteel88) | **출처:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **게시일:** Oct 28, 2026
 
 ---
 ### Grok Imagine 타임 트래블 초상화 프롬프트
@@ -2865,82 +2964,6 @@ BGM "(이미지의 분위기에 어울리는 BGM을 생각해 주세요)"
 **작성자:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **출처:** [Link](https://x.com/Soaring2TheMoon/status/2112308141769589093) | **게시일:** Oct 19, 2026
 
 ---
-### 동적 장면 전환 영상 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 색상 변화, 침실부터 들판까지의 장면 전환 및 의상 변경을 특징으로 하는 이미지 기반 영상 생성 프롬프트
-
-#### 📝 프롬프트
-
-```
-이미지를 가져와서 해당 단어를 동영상 설명으로 사용하고, 빙글빙글 도는 색상을 추가해 주세요. 침실을 흑백 체크무늬 담보가 깔린 들판으로 바꾸고, 옷은 연한 아이스 옐로 블라우스와 청바지로 변경해 주세요....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112303122706006016/img/9PT99EU-Fmoydhjg.jpg" width="600" alt="동적 장면 전환 영상 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12798)**
-
-**작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2112303166528389334) | **게시일:** Oct 19, 2026
-
----
-### 우주선 축구 경기장
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 거대한 우주선 경기장 내부에서 펼쳐지는 축구 경기에 대한 상세한 영상 프롬프트로, 유리 돔 아래 지구를 조망하는 장면을 포함합니다.
-
-#### 📝 프롬프트
-
-```
-유리 돔이 덮인 거대한 우주선 경기장에서 지구를 내려다보며 축구를 하는 15 초 분량의 720p 영상....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112296155027501056/img/Jp7p4SWZg-hPXNYE.jpg" width="600" alt="우주선 축구 경기장">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12794)**
-
-**작성자:** [Starship](https://x.com/starship_river) | **출처:** [Link](https://x.com/starship_river/status/2112296207879954695) | **게시일:** Oct 19, 2026
-
----
-### Grok Imagine Video 프롬프트: Tesla 날아다니는 자동차 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 밝은 주황색 하늘을 배경으로 흰색 Tesla 차량이 정면으로 회전하며 부드럽게 비행한 후 도로로 복귀하는 장면을 묘사한 시네마틱 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-밝은 주황빛 햇살이 가득한 하늘을 배경으로, 이곳은 어디일까요. 하얀색 Tesla 자동차가 정면으로 방향을 틀며 공중으로 부드럽게 날아오른 뒤, 이내 다시 도로 위로 착지하는 모습을 담아주세요....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112251123998281728/img/mnIq8yKuxqD4CLQl.jpg" width="600" alt="Grok Imagine Video 프롬프트: Tesla 날아다니는 자동차 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12799)**
-
-**작성자:** [Ember Art](https://x.com/Ember8184Art) | **출처:** [Link](https://x.com/Ember8184Art/status/2112251138145951830) | **게시일:** Oct 19, 2026
-
----
-### Grok Imagine 슈퍼카 로봇 변신
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 네온 도시에서 미래형 블랙 슈퍼카가 로봇 전사로 변신하는 고품질 영상 프롬프트
-
-#### 📝 프롬프트
-
-```
-미래지향적인 블랙 슈퍼카가 밤새 네온사인으로 빛나는 메가시티를 질주하다, 젖은 고속도로 위에서 급격히 브레이크를 밟으며 멈춰 섭니다. 보닛이 장갑 흉판으로 갈라지고, 바퀴가 회전하며 어깨로 변형되고, 수백 개의 유압 부품이 정교한 기계적 순서대로 펼쳐집니다. 차체가 솟아오르며 거대한 로봇 전사로 탈바꿈하고, 장갑 사이로 증기가 뿜어져 나오는 가운데 푸른빛의 눈이 번쩍입니다. 카메라가 극적인 360 도 원형 구도로 로봇을 감싸 도는 동안, 로봇은 힘차게 한 걸음 앞으로 내딛습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112218406913282051/img/p2l0BCI_PrQVlPrl.jpg" width="600" alt="Grok Imagine 슈퍼카 로봇 변신">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=12801)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2112218502107205691) | **게시일:** Oct 19, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -3002,6 +3025,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-30T05:36:34.477Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-30T15:16:20.330Z</sub>
 
 </div>

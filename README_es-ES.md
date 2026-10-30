@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3253** |
+| 📝 Total Prompts | **3257** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-30** |
 
@@ -189,6 +189,86 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Secuencia de pelea del Ninja Fight Duo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video para Grok Imagine que muestra a un dúo derrotando a un ninja y luego luchando entre sí, terminando en un abrazo.
+
+#### 📝 Prompt
+
+```
+El dúo pasa al ataque y derrota a los ninjas, pero enseguida vuelven a enfrentarse entre ellos. Riendo mientras pelean, todo termina en un abrazo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116019548096700416/img/AJsozuga-2HCV0l2.jpg" width="600" alt="Secuencia de pelea del Ninja Fight Duo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13208)**
+
+**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2116019614442463517) | **Published:** Oct 30, 2026
+
+---
+### Navegación 3D en pinturas con Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video que crea un movimiento de cámara cinematográfico en 3D a través de una pintura estática subida como referencia, preservando la composición original mientras añade profundidad y efectos de paralaje sin animar los elementos.
+
+#### 📝 Prompt
+
+```
+El video comienza a partir del encuadre definido por la pintura adjunta y conserva su composición, sujetos, colores, iluminación y disposición exactos como un espacio tridimensional estático.
+
+Ninguna persona, animal, objeto, agua, follaje, nube, llama ni cualquier otro elemento pintado se mueve, se anima o cambia de estado. Toda la escena permanece completamente congelada, como si la pintura simplemente se hubiera convertido en un diorama sólido e inmóvil.
+
+La cámara realiza un recorrido cinematográfico 3D continuo a través de esta escena congelada: avanza lentamente hacia adelante, orbita con suavidad y se desplaza junto a los sujetos principales y las capas espaciales, revelando profundidad, paralaje y volumen sin alterar ni animar jamás ningún contenido dentro de la pintura.
+Solo una presencia espacial ambiental acompaña el movimiento; no hay diálogos, narración, música ni efectos de sonido provenientes de ningún elemento de la pintura.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115785431933444096/img/l60Q96XKSFOROJno.jpg" width="600" alt="Navegación 3D en pinturas con Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13206)**
+
+**Author:** [Knight World](https://x.com/KnightWorld) | **Source:** [Link](https://x.com/KnightWorld/status/2115786168985870531) | **Published:** Oct 29, 2026
+
+---
+### Guion de Video de Transformación de Armadura de Ciencia Ficción
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico detallado para generar un video de una figura experimentando una transformación de armadura de alta tecnología en un hangar, con instrucciones específicas sobre cámara, sonido y estilo visual.
+
+#### 📝 Prompt
+
+```
+[Objetivo de generación]
+Genera un video de transformación de armadura de combate Sci-Fi de alto nivel y máxima intensidad. El sujeto central es una figura solitaria que experimenta una metamorfosis avanzada de su armadura y activa sus sistemas para entrar en estado de combate, sin que aparezca ningún tipo de arma.
+
+[Guion de eventos]
+Al inicio: Una figura humana solitaria se encuentra de pie en el centro de un vasto y oscuro hangar de alta tecnología con suelos metálicos, conductos de datos luminosos e iluminación ambiental azul fría, vistiendo únicamente un traje táctico interior básico.
+Evento principal: La figura inicia la transformación separando ligeramente los brazos. Enjambres de nanites y partículas de energía de luz sólida brotan del suelo y las paredes, ensamblando a gran velocidad una armadura de combate por capas y segmento a segmento: primero las grebas y botas se fijan a las piernas mediante sellos hidráulicos; luego, los blindajes de muslos y torso encajan entre sí con chasquidos mecánicos y soldaduras de energía visibles; a continuación, aparecen las hombreras, los guanteletes y un casco aerodinámico totalmente cerrado que sella con un último siseo presurizado. Las superficies de la armadura pasan de un negro mate a placas reactivas iridiscentes con líneas de energía cian pulsantes y patrones de camuflaje adaptativo que ondulan por todo el cuerpo. La figura prueba su movilidad adoptando posturas de combate, mientras las placas de la armadura se ajustan con fluidez a cada movimiento y las toberas de propulsión y los escudos de energía destellan brevemente como demostración. No se materializa ni se empuña ninguna arma.
+Al final: La figura completamente transformada se mantiene firme en una postura de combate poderosa y arraigada al suelo, con la armadura sellada por completo y brillando con señales de energía estables, mientras las luces del hangar se reflejan en sus superficies pulidas.
+
+[Estilo visual]
+Estética Sci-Fi cinematográfica ultradetallada con un diseño de armadura de nueva generación: placas de fusión orgánico-mecánica, reflejos holográficos del HUD en el visor del casco, rayos de luz volumétricos (god-rays) atravesando partículas de energía flotantes, iluminación de contorno dramática, texturas metálicas de alto contraste y una sutil distorsión térmica alrededor de los conductos de energía.
+
+[Cámara]
+Comienza con un plano general de establecimiento del hangar y la figura, para luego orbitar suavemente 360 grados durante la secuencia de ensamblaje de la armadura. Avanza hacia planos medios cortos de los cierres de las placas y las soldaduras de energía, seguidos de planos de seguimiento dinámicos que acompañan los cambios de postura de la figura. Termina con un plano general heroico en contrapicado que resalta la silueta de la armadura completa.
+
+[Sonido]
+Un zumbido profundo de subgraves por la activación de energía va en aumento a lo largo de la escena, combinado con chasquidos metálicos nítidos de los cierres, siseos de sellado presurizado, crepitaciones de sobretensiones energéticas y resonantes silbidos de encendido de los propulsores. La reverberación ambiental del hangar y el zumbido lejano de la maquinaria se mantienen constantes. Sin sonidos de armas, disparos ni efectos de hojas metálicas. Sin diálogos ni narración.
+
+[Mantener coherencia]
+Mantén exclusivamente una única figura humana y una secuencia continua de transformación de la armadura. Asegúrate de que no aparezcan armas, armas de fuego, cuchillas, pistolas ni ningún tipo de armamento en ninguna fase. Preserva la integridad de la armadura, la progresión cromática del negro al cian iridiscente, la distribución espacial del hangar y el estado final sellado y listo para el combate.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115713093057892352/img/Zx_4i5Oe9Ds9fcnl.jpg" width="600" alt="Guion de Video de Transformación de Armadura de Ciencia Ficción">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13207)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115713615433204204) | **Published:** Oct 29, 2026
+
+---
 ### Video de Evolución Humana Cyberpunk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -299,6 +379,25 @@ Conserva un renderizado puramente fotorrealista de los materiales (metales cepil
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13145)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
+
+---
+### Disfraz de fantasma para perros: Truco o trato
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genera un video de un perro levantándose, creando un disfraz de fantasma y saliendo a pedir dulces en Halloween.
+
+#### 📝 Prompt
+
+```
+Haz que el perro de esta foto se levante, se haga su propio disfraz de fantasma, se lo ponga y salga a pedir dulces.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="Disfraz de fantasma para perros: Truco o trato">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13205)**
+
+**Author:** [Rawrsteel](https://x.com/rawrsteel88) | **Source:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **Published:** Oct 28, 2026
 
 ---
 ### Prompt de Retrato Viaje en el Tiempo con Grok Imagine
@@ -2862,82 +2961,6 @@ Haz que el gato saque una tarjeta de crédito y se la entregue al Shih Tzu. Haz 
 **Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2112308141769589093) | **Published:** Oct 19, 2026
 
 ---
-### Prompt de video para transición dinámica de escena
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para crear un video a partir de una imagen, que incluye cambios de color, transición de escena de dormitorio a campo y cambios de vestuario.
-
-#### 📝 Prompt
-
-```
-Toma la imagen y usa las palabras como descripción para el video, añade colores que giren en círculos, cambia el dormitorio por un campo sobre una manta de cuadros blancos y negros, cambia el atuendo por una blusa amarillo hielo claro, jeans...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112303122706006016/img/9PT99EU-Fmoydhjg.jpg" width="600" alt="Prompt de video para transición dinámica de escena">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12798)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112303166528389334) | **Published:** Oct 19, 2026
-
----
-### Estadio de Fútbol de Nave Espacial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de video detallado para un partido de fútbol dentro de un estadio masivo en una nave espacial con una cúpula de cristal que da a la Tierra.
-
-#### 📝 Prompt
-
-```
-Video de 15 s en 720p de un partido de fútbol en un estadio gigantesco dentro de una nave espacial, con una cúpula de cristal desde la que se ve la Tierra abajo....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112296155027501056/img/Jp7p4SWZg-hPXNYE.jpg" width="600" alt="Estadio de Fútbol de Nave Espacial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12794)**
-
-**Author:** [Starship](https://x.com/starship_river) | **Source:** [Link](https://x.com/starship_river/status/2112296207879954695) | **Published:** Oct 19, 2026
-
----
-### Prompt de video para Grok Imagine: Escena del auto volador Tesla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico que describe un Tesla blanco girando hacia el frente y elevándose suavemente contra un cielo naranja brillante antes de regresar a la carretera.
-
-#### 📝 Prompt
-
-```
-Incluye un cielo soleado de color naranja brillante, dónde es esto. un coche Tesla blanco visto girar de frente y volando hacia arriba, suavemente después regresando a la carretera....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112251123998281728/img/mnIq8yKuxqD4CLQl.jpg" width="600" alt="Prompt de video para Grok Imagine: Escena del auto volador Tesla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12799)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2112251138145951830) | **Published:** Oct 19, 2026
-
----
-### Transformación de Supercoche a Robot con Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video de alta calidad que describe la transformación de un superdeportivo negro futurista en un guerrero robótico dentro de una ciudad de neón.
-
-#### 📝 Prompt
-
-```
-Un superdeportivo negro de diseño futurista atraviesa a toda velocidad una megaciudad bañada en luces de neón durante la noche, antes de frenar en seco sobre una autopista mojada. El capó se divide para formar placas pectorales blindadas, las ruedas giran hasta convertirse en los hombros y cientos de componentes hidráulicos se despliegan en secuencias mecánicas milimétricas. El coche se alza transformándose en un imponente guerrero robótico de ojos azules incandescentes, mientras el vapor estalla desde su armadura. El robot da un paso firme hacia adelante y la cámara lo rodea en un espectacular plano de 360 grados.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112218406913282051/img/p2l0BCI_PrQVlPrl.jpg" width="600" alt="Transformación de Supercoche a Robot con Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12801)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112218502107205691) | **Published:** Oct 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2999,6 +3022,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-30T05:36:37.091Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-30T15:16:26.243Z</sub>
 
 </div>

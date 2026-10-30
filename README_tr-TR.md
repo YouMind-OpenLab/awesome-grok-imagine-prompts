@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3253** |
+| 📝 Total Prompts | **3257** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-30** |
 
@@ -189,6 +189,87 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Ninja Fight Duo: Aksiyon Dizisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, bir ikilinin bir ninjayı yenip ardından birbirleriyle dövüşerek sarılmayla sonlanan sahneyi tasvir eden video istemi.
+
+#### 📝 Prompt
+
+```
+İkili saldırıya geçerek ninjaları alt eder, ardından birbirlerine döner ve kavgaya tutuşurken gülmeye başlarlar; bu kapışma sonunda birbirlerine sarılarak son bulur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116019548096700416/img/AJsozuga-2HCV0l2.jpg" width="600" alt="Ninja Fight Duo: Aksiyon Dizisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13208)**
+
+**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2116019614442463517) | **Published:** Oct 30, 2026
+
+---
+### Grok Imagine ile Tablolarda 3D Navigasyon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Referans olarak yüklenen statik bir tablo içinde sinematik 3D kamera hareketi oluşturan video istemi; öğeleri canlandırmadan derinlik ve paralaks efektleri eklerken orijinal kompozisyonu korur.
+
+#### 📝 Prompt
+
+```
+Video, ekteki tablonun belirlediği kareden başlar ve tablonun tam kompozisyonunu, öznelerini, renklerini, ışıklandırmasını ve düzenini durağan bir üç boyutlu alan olarak korur.
+
+Hiçbir insan, hayvan, nesne, su, bitki örtüsü, bulut, alev ya da tabloda yer alan başka hiçbir öğe hareket etmez, canlanmaz veya durum değiştirmez. Tablo adeta katı ve hareketsiz bir dioramaya dönüşmüş gibi tüm sahne tamamen donmuş kalır.
+
+Kamera, bu donmuş sahne içinde kesintisiz, sinematik bir 3D yolculuk gerçekleştirir: Yavaşça ileri doğru ilerler, hafifçe etrafında döner, ana öznelerin ve mekânsal katmanların arasından süzülerek geçer; derinliği, paralaksı ve hacimsel formu gözler önüne sererken tablonun içindeki hiçbir içeriği değiştirmez ya da canlandırmaz.
+
+Bu harekete yalnızca ortamın mekânsal varlığı eşlik eder; tablodaki hiçbir öğeden diyalog, anlatım, müzik veya ses efekti gelmez.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115785431933444096/img/l60Q96XKSFOROJno.jpg" width="600" alt="Grok Imagine ile Tablolarda 3D Navigasyon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13206)**
+
+**Author:** [Knight World](https://x.com/KnightWorld) | **Source:** [Link](https://x.com/KnightWorld/status/2115786168985870531) | **Published:** Oct 29, 2026
+
+---
+### Bilim Kurgu Zırh Dönüşüm Video Senaryosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir hangarda yüksek teknoloji zırh dönüşümü geçiren bir figürün videosunu oluşturmak için detaylı sinematik prompt; belirli kamera, ses ve görsel stil talimatları içerir.
+
+#### 📝 Prompt
+
+```
+[Oluşturma Hedefi]
+Yüksek yoğunluklu, bir üst seviye Bilim Kurgu savaş zırhı dönüşüm videosu oluşturun. Ana odak noktası; gelişmiş zırh metamorfozu geçiren ve savaşa hazır hâle gelmek için güç toplayan tek bir figürdür; videoda hiçbir türde silah yer almamalıdır.
+
+[Olay Senaryosu]
+Başlangıç: Yalnız bir insan figürü; metalik zeminlere, parlayan veri kanallarına ve soğuk mavi ortam aydınlatmasına sahip devasa, karanlık, yüksek teknolojili bir hangarın tam ortasında durmaktadır. Üzerinde yalnızca temel bir taktik iç giysisi vardır.
+Ana olay: Figür, kollarını hafifçe iki yana açarak dönüşümü başlatır. Nanit sürüleri ve katı ışık enerjisi parçacıkları zemin ile duvarlardan fışkırarak katmanlı savaş zırhını parça parça hızla bir araya getirir. Önce baldır korumaları ve botlar hidrolik contalarla bacaklara kilitlenir, ardından uyluk ve gövde plakaları belirgin mekanik tıkırtılar ve enerji kaynaklarıyla birbirine geçer. Bunu omuz zırhları, eldivenler ve son bir basınçlı tıslamayla kapanan aerodinamik, tamamen kapalı bir kask izler. Zırh yüzeyleri mat siyahtan, nabız gibi atan camgöbeği (cyan) enerji hatlarına ve vücutta dalgalanan adaptif kamuflaj desenlerine sahip reaktif iridesan plakalara dönüşür. Figür, hareket kabiliyetini test etmek için savaşa hazır pozisyonlara geçer; her harekette zırh plakaları akıcı biçimde uyum sağlarken, itici havalandırmaları ve enerji kalkanları kısa bir gösterim için alevlenir. Hiçbir silah belirmiyor veya elde tutulmuyor.
+Son: Tamamen dönüşmüş figür, güçlü ve yere sağlam basan bir savaş pozunda durur. Zırh tamamen kapanmıştır, kararlı güç sinyalleriyle parlar ve hangar ışıkları cilalı yüzeylerden yansır.
+
+[Görsel Stil]
+Yeni nesil zırh tasarımına sahip ultra detaylı sinematik Bilim Kurgu estetiği: organik-mekanik füzyon kaplama, kask vizöründe holografik HUD yansımaları, havada süzülen enerji parçacıklarının arasından süzülen hacimsel tanrı ışınları (god-ray), dramatik kenar aydınlatması, yüksek kontrastlı metalik dokular ve güç kanallarının etrafında hafif ısı bozulmaları.
+
+[Kamera]
+Hangarın ve figürün geniş bir açılı kurulum çekimiyle başlar, ardından zırh montajı sırasında yumuşak bir şekilde 360 derece döner. Plaka kilitlerinin ve enerji kaynaklarının orta yakın plan çekimlerine doğru ilerler, ardından figürün duruş değişikliklerini takip eden dinamik izleme çekimleri gelir. Tamamlanmış zırh siluetini vurgulayan, aşağıdan çekilmiş kahramanca bir geniş açıyla sona erer.
+
+[Ses]
+Derin sub-bass güç toplama uğultusu boyunca giderek yükselir; keskin metalik kilitlenme şıngırtıları, basınçlı kapanma tıslamaları, çatırdayan enerji dalgalanmaları ve yankılanan itici ateşleme vızıltılarıyla katmanlanır. Ortam hangar yankısı ve uzaktaki makine uğultuları sabit kalır. Silah sesi, ateşli silah sesi veya metalik kılıç efekti kesinlikle yoktur. Diyalog veya anlatım bulunmaz.
+
+[Tutarlılığı Koruyun]
+Yalnızca tek bir insan figürünü ve kesintisiz bir zırh dönüşüm dizisini koruyun. Hiçbir aşamada silah, ateşli silah, bıçak, tabanca veya herhangi bir teçhizatın görünmediğinden emin olun. Zırh bütünlüğünü, siyahtan iridesan camgöbeğine (cyan) renk geçişini, hangarın mekânsal düzenini ve nihai kapalı savaşa hazır durumu muhafaza edin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115713093057892352/img/Zx_4i5Oe9Ds9fcnl.jpg" width="600" alt="Bilim Kurgu Zırh Dönüşüm Video Senaryosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13207)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115713615433204204) | **Published:** Oct 29, 2026
+
+---
 ### Siberpunk İnsan Evrimi Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -299,6 +380,25 @@ Malzemelerin (fırçalanmış metaller, cam, enerji alanları) saf fotogerçekç
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13145)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
+
+---
+### Köpek Hayalet Kostümü Cadılar Bayramı Şeker Avı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir köpeğin ayağa kalkıp hayalet kostümü giydiği ve cadılar bayramında şeker avına çıktığı bir video oluşturur.
+
+#### 📝 Prompt
+
+```
+Bu fotoğraftaki köpek kalksın, kendi hayalet kostümünü hazırlasın, sonra onu giyip kapı kapı dolaşıp şeker toplasın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="Köpek Hayalet Kostümü Cadılar Bayramı Şeker Avı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13205)**
+
+**Author:** [Rawrsteel](https://x.com/rawrsteel88) | **Source:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **Published:** Oct 28, 2026
 
 ---
 ### Grok Imagine Zaman Yolculuğu Portre İstemi
@@ -2858,82 +2958,6 @@ Kedinin bir kredi kartı çıkarıp Shih Tzu'ya uzatmasını sağla. Shih Tzu'nu
 **Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2112308141769589093) | **Published:** Oct 19, 2026
 
 ---
-### Dinamik Sahne Geçişli Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Renk değişimleri, yatak odasından tarlaya sahne geçişi ve kıyafet değişiklikleri içeren bir görüntüden video oluşturmak için istem.
-
-#### 📝 Prompt
-
-```
-Görseli alıp içindeki kelimeleri video açıklaması olarak kullanın, dönen renkler ekleyin, yatak odasını siyah beyaz piknik örtüsü serili bir çayırla değiştirin, kıyafeti açık buz sarısı bir bluz ve kot pantolonla değiştirin....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112303122706006016/img/9PT99EU-Fmoydhjg.jpg" width="600" alt="Dinamik Sahne Geçişli Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12798)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112303166528389334) | **Published:** Oct 19, 2026
-
----
-### Uzay Gemisi Futbol Stadyumu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dünya'yı gören cam kubbeli devasa bir uzay gemisi stadyumunda oynanan futbol maçının detaylı video istemi.
-
-#### 📝 Prompt
-
-```
-Dünya'ya tepeden bakan cam kubbeli devasa bir uzay gemisi stadyumunda oynanan futbolu gösteren 15 saniyelik 720p video....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112296155027501056/img/Jp7p4SWZg-hPXNYE.jpg" width="600" alt="Uzay Gemisi Futbol Stadyumu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12794)**
-
-**Author:** [Starship](https://x.com/starship_river) | **Source:** [Link](https://x.com/starship_river/status/2112296207879954695) | **Published:** Oct 19, 2026
-
----
-### Grok Imagine Video İstemi: Tesla Uçan Araba Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Parlak turuncu bir gökyüzüne karşı ön cephesini döndürüp yumuşakça uçan ve ardından yola geri dönen beyaz bir Tesla arabayı tasvir eden sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Parlak turuncu, güneşli bir gökyüzü ekle; burası neresi? Beyaz bir Tesla arabası önden görünür şekilde dönerken ve havaya yükselirken, ardından usulca tekrar yola inerken görülsün....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112251123998281728/img/mnIq8yKuxqD4CLQl.jpg" width="600" alt="Grok Imagine Video İstemi: Tesla Uçan Araba Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12799)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2112251138145951830) | **Published:** Oct 19, 2026
-
----
-### Grok Imagine Süper Araba Robot Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Neon ışıklı bir şehirde geleceğe ait siyah bir süper arabanın robot savaşçıya dönüştüğünü anlatan yüksek kaliteli video istemi.
-
-#### 📝 Prompt
-
-```
-Fütüristik siyah bir süper spor otomobil, gece vakti neon ışıklarla aydınlanmış bir megakentin sokaklarında hızla ilerledikten sonra ıslak bir otoyolda aniden ve sert bir şekilde fren yapar. Kaput zırhlı göğüs plakalarına bölünür, tekerlekler dönerek omuzlara dönüşür ve yüzlerce hidrolik parça kusursuz mekanik dizilimlerle açılır. Zırhından fışkıran buhar bulutları arasında araç, mavi gözleri parlayan devasa bir robot savaşçıya dönüşerek ayağa kalkar. Kamera dramatik bir 360 derecelik çekimle etrafında dönerken, robot güçlü bir adımla ileri atılır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112218406913282051/img/p2l0BCI_PrQVlPrl.jpg" width="600" alt="Grok Imagine Süper Araba Robot Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12801)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112218502107205691) | **Published:** Oct 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2995,6 +3019,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-30T05:36:41.708Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-30T15:16:35.441Z</sub>
 
 </div>

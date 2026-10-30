@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3253** |
+| 📝 提示词总数 | **3257** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-10-30** |
 
@@ -189,6 +189,86 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 忍者对决双人序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的视频提示词，描绘两人击败一名忍者后相互对决，最终以拥抱结束的场景。
+
+#### 📝 提示词
+
+```
+两人联手发起进攻，击败了忍者，随后又再次反目成仇。他们一边大笑一边互相打斗，最后却相拥在一起。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116019548096700416/img/AJsozuga-2HCV0l2.jpg" width="600" alt="忍者对决双人序列">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13208)**
+
+**作者:** [Michael Erikson](https://x.com/erikson_michael) | **来源:** [Link](https://x.com/erikson_michael/status/2116019614442463517) | **发布时间:** Oct 30, 2026
+
+---
+### 使用 Grok Imagine 实现绘画中的 3D 导航
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频提示词，通过上传静态画作作为参考，创建电影般的 3D 摄像机运动效果。在保持原始构图的同时，增加深度和视差效果，而不对画面元素进行动画处理。
+
+#### 📝 提示词
+
+```
+视频从所附画作的画面开始，将其构图、主体、色彩、光影与布局原封不动地保留为一个静止的三维空间。
+
+画中的人物、动物、物体、水流、枝叶、云朵、火焰或任何其他绘制元素均不得移动、产生动画或改变状态。整个场景保持完全静止，仿佛这幅画化作了一个凝固不动的立体微缩模型。
+
+镜头在这一静止场景中完成连续的电影级 3D 运镜：缓慢向前推进、轻柔环绕，并掠过主要主体与空间层次，展现出景深、视差与体积感，同时绝不改变或让画中任何内容产生动画。
+伴随镜头运动的仅有环境空间氛围；画中任何元素均不发出对白、旁白、音乐或音效。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115785431933444096/img/l60Q96XKSFOROJno.jpg" width="600" alt="使用 Grok Imagine 实现绘画中的 3D 导航">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13206)**
+
+**作者:** [Knight World](https://x.com/KnightWorld) | **来源:** [Link](https://x.com/KnightWorld/status/2115786168985870531) | **发布时间:** Oct 29, 2026
+
+---
+### 科幻装甲变身视频脚本
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份详细的电影级提示词，用于生成人物在机库中进行高科技装甲变身的视频，包含具体的镜头、音效和视觉风格指令。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段高强度的次世代科幻战斗装甲变身视频。核心主体为一名孤身人物，正在经历先进的装甲形态重构与能量充能，进入战斗就绪状态，全程不出现任何形式的武器。
+
+[事件脚本]
+开场：一名孤立的人影伫立在广阔幽暗的高科技机库中央，脚下是金属地板，四周环绕着发光的数据管线与冷蓝色的环境光，人物仅穿着基础战术内衬衣。
+主要事件：人物微微张开双臂，启动变身程序。纳米虫群与硬光能量粒子从地面和墙壁喷涌而出，将分层式战斗装甲逐块快速拼装成型——首先是胫甲与战靴通过液压密封装置锁定双腿；接着大腿与躯干护甲相互咬合，伴随清晰可见的机械卡扣声与能量焊接光芒；随后肩甲、臂铠依次就位，最后是一顶流线型全封闭头盔，以一声加压气密嘶响完成最终密封。装甲表面由哑光黑转变为反应式虹彩甲片，青蓝色能量纹路随之脉动，自适应迷彩图案在全身泛起涟漪。人物切换至各种战斗姿态以测试机动性，装甲板随每个动作流畅自适应调整，推进器喷口与能量护盾短暂亮起作为演示。全程无任何武器具现化或被握持。
+结尾：完成变身的人物摆出沉稳有力的战斗姿态，装甲全面密封，散发着稳定的能量信号光芒，机库灯光在光洁的装甲表面折射流转。
+
+[视觉风格]
+超精细电影级科幻美学，呈现次世代装甲设计——有机与机械融合的复合甲片、头盔面罩上全息 HUD 的倒影、穿透悬浮能量粒子的体积光（上帝之光）、极具张力的轮廓光、高对比度金属质感，以及动力管线周围细微的热浪扭曲效果。
+
+[镜头]
+以展现机库与人物的全景建立镜头开场，随后在装甲组装过程中平滑地进行 360 度环绕拍摄。推近至中近景，特写装甲板的锁定与能量焊接细节，接着用动态跟拍镜头捕捉人物的姿态变换。最终以低角度英雄式全景收尾，凸显完整装甲的剪影轮廓。
+
+[声音]
+深沉的超低频充能嗡鸣贯穿始终并不断攀升，叠加清脆的金属锁定撞击声、加压密封的嘶嘶声、噼啪作响的能量涌动声，以及浑厚的推进器点火呼啸声。机库的环境混响与远处的机械低频轰鸣持续铺底。不包含任何武器音效、枪声或金属刀刃碰撞声。无对白或旁白。
+
+[保持一致性]
+全程仅保留单一人物与连贯的装甲变身过程。确保在任何阶段都绝对不出现武器、枪械、刀刃、枪支或任何武装装备。保持装甲结构的完整性、由黑转青蓝虹彩的色彩渐变、机库的空间布局，以及最终密封的战斗就绪状态。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115713093057892352/img/Zx_4i5Oe9Ds9fcnl.jpg" width="600" alt="科幻装甲变身视频脚本">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13207)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115713615433204204) | **发布时间:** Oct 29, 2026
+
+---
 ### 赛博朋克人类进化视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -299,6 +379,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13145)**
 
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **发布时间:** Oct 29, 2026
+
+---
+### 狗狗幽灵服装万圣节讨糖
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段视频，展示狗狗起身制作幽灵服装并出门进行万圣节讨糖活动。
+
+#### 📝 提示词
+
+```
+让图片里的这只狗狗站起来，亲手做一套自己的万圣节幽灵服装，然后穿上它去“不给糖就捣蛋”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="狗狗幽灵服装万圣节讨糖">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13205)**
+
+**作者:** [Rawrsteel](https://x.com/rawrsteel88) | **来源:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **发布时间:** Oct 28, 2026
 
 ---
 ### Grok Imagine 时空穿越肖像提示词
@@ -2860,82 +2959,6 @@ BGM “（请构思与图片氛围相匹配的 BGM）”
 **作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **来源:** [Link](https://x.com/Soaring2TheMoon/status/2112308141769589093) | **发布时间:** Oct 19, 2026
 
 ---
-### 动态场景转换视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于从图像生成视频的提示词，包含色彩变化、从卧室到田野的场景转换以及服装更换。
-
-#### 📝 提示词
-
-```
-提取图片，用这些文字作为视频的描述：添加环绕的色彩变化，将卧室场景改为铺着黑白格纹毯子的草地，把服装换成浅冰黄色衬衫、牛仔裤……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112303122706006016/img/9PT99EU-Fmoydhjg.jpg" width="600" alt="动态场景转换视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12798)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2112303166528389334) | **发布时间:** Oct 19, 2026
-
----
-### 太空飞船足球体育场
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为在拥有俯瞰地球玻璃穹顶的巨型宇宙飞船体育场内进行的足球比赛生成详细视频提示词。
-
-#### 📝 提示词
-
-```
-一段 15 秒的 720p 视频，画面是在一艘巨型太空飞船体育场内进行的足球比赛，透过玻璃穹顶可以俯瞰地球……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112296155027501056/img/Jp7p4SWZg-hPXNYE.jpg" width="600" alt="太空飞船足球体育场">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12794)**
-
-**作者:** [Starship](https://x.com/starship_river) | **来源:** [Link](https://x.com/starship_river/status/2112296207879954695) | **发布时间:** Oct 19, 2026
-
----
-### Grok Imagine 视频提示词：特斯拉飞行汽车场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影感十足的提示词，描述了一辆白色特斯拉汽车在明亮的橙色天空背景下转向正面并轻柔起飞，随后返回地面的画面。
-
-#### 📝 提示词
-
-```
-画面中要有一片明亮的橙色晴空，交代清楚这是在哪里。一辆白色 Tesla 汽车先是正面转向镜头，随后腾空飞起，接着又轻柔地落回路面……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112251123998281728/img/mnIq8yKuxqD4CLQl.jpg" width="600" alt="Grok Imagine 视频提示词：特斯拉飞行汽车场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12799)**
-
-**作者:** [Ember Art](https://x.com/Ember8184Art) | **来源:** [Link](https://x.com/Ember8184Art/status/2112251138145951830) | **发布时间:** Oct 19, 2026
-
----
-### Grok Imagine 超跑机器人变身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段高质量视频提示词，描述一辆未来感黑色超级跑车在霓虹都市中变身为机器人战士。
-
-#### 📝 提示词
-
-```
-一辆充满未来感的黑色超级跑车在夜色中疾驰，穿梭于霓虹闪烁的巨型都市，随后在湿滑的高速公路上猛然急刹。引擎盖裂开化作厚重的装甲胸甲，车轮翻转成为双肩，数百个液压部件以精密的机械序列层层展开。跑车拔地而起，变身为一尊巍峨的机甲战士，幽蓝的双目熠熠生辉，蒸汽从铠甲缝隙间喷薄而出。机器人向前迈出气势磅礴的一步，镜头随之环绕，完成了一个极具张力的 360 度运镜。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112218406913282051/img/p2l0BCI_PrQVlPrl.jpg" width="600" alt="Grok Imagine 超跑机器人变身">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=12801)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2112218502107205691) | **发布时间:** Oct 19, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2997,6 +3020,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-30T05:36:32.467Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-30T15:16:16.440Z</sub>
 
 </div>

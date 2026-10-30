@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3253** |
+| 📝 Total Prompts | **3257** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-10-30** |
 
@@ -189,6 +189,86 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Ninja Fight Duo Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for Grok Imagine depicting a duo defeating a ninja and then fighting each other ending in an embrace.
+
+#### 📝 Prompt
+
+```
+The duo goes on attack and defeat the ninja then turn on each other again laughing as the fight each other ending in a embrace
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116019548096700416/img/AJsozuga-2HCV0l2.jpg" width="600" alt="Ninja Fight Duo Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13208)**
+
+**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2116019614442463517) | **Published:** Oct 30, 2026
+
+---
+### 3D Navigation in Paintings with Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt that creates a cinematic 3D camera movement through a static painting uploaded as a reference, preserving the original composition while adding depth and parallax effects without animating elements.
+
+#### 📝 Prompt
+
+```
+The video begins from the frame defined by the attached painting and preserves its exact composition, subjects, colors, lighting, and arrangement as a still three-dimensional space.
+
+No person, animal, object, water, foliage, cloud, flame, or any other painted element moves, animates, or changes state. The entire scene remains completely frozen, as if the painting has simply become a solid, motionless diorama.
+
+The camera performs continuous cinematic 3D travel through this frozen scene: it slowly pushes forward, gently orbits, and drifts past the main subjects and spatial layers, revealing depth, parallax, and volumetric form while never altering or animating any content inside the painting.
+Only ambient spatial presence accompanies the movement; there is no dialogue, narration, music, or sound effects from any element within the painting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115785431933444096/img/l60Q96XKSFOROJno.jpg" width="600" alt="3D Navigation in Paintings with Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13206)**
+
+**Author:** [Knight World](https://x.com/KnightWorld) | **Source:** [Link](https://x.com/KnightWorld/status/2115786168985870531) | **Published:** Oct 29, 2026
+
+---
+### Sci-Fi Armor Transformation Video Script
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for generating a video of a figure undergoing a high-tech armor transformation in a hangar, with specific camera, sound, and visual style instructions.
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+Generate a high-intensity next-level Sci-Fi combat armor transformation video. The core subject is a solitary figure undergoing advanced armor morphing and powering up for combat readiness, with no weapons of any kind appearing.
+
+[Event Script]
+At the start: A lone human figure stands centered in a vast, dark high-tech hangar with metallic floors, glowing data conduits, and cold blue ambient lighting, wearing only basic tactical undersuit.
+Principal event: The figure initiates the transformation by spreading arms slightly. Nanite swarms and hard-light energy particles erupt from the floor and walls, rapidly assembling layered combat armor segment by segment—first greaves and boots locking onto legs with hydraulic seals, then thigh and torso plating interlocking with visible mechanical clicks and energy welds, followed by shoulder pauldrons, gauntlets, and a sleek fully enclosed helmet that seals with a final pressurized hiss. Armor surfaces shift from matte black to reactive iridescent plates with pulsing cyan energy lines and adaptive camouflage patterns that ripple across the body. The figure tests mobility by shifting into combat-ready stances, armor plates adjusting fluidly with each motion while thruster vents and energy shields briefly flare for demonstration. No weapons materialize or are held.
+At the end: Fully transformed figure stands in a powerful, grounded combat pose, armor fully sealed and glowing with stable power signatures, hangar lights reflecting off the polished surfaces.
+
+[Visual Style]
+Ultra-detailed cinematic Sci-Fi aesthetic with next-generation armor design—organic-mechanical fusion plating, holographic HUD reflections in the helmet visor, volumetric god-rays cutting through floating energy particles, dramatic rim lighting, high-contrast metallic textures, and subtle heat distortion around power conduits.
+
+[Camera]
+Begins with a wide establishing shot of the hangar and figure, then smoothly orbits 360 degrees during the armor assembly sequence. Pushes into medium close-ups of plating locks and energy welds, followed by dynamic tracking shots that follow the figure’s stance shifts. Ends on a low-angle heroic wide shot emphasizing the completed armor silhouette.
+
+[Sound]
+Deep sub-bass power-up hum builds throughout, layered with sharp metallic locking clanks, pressurized sealing hisses, crackling energy surges, and resonant thruster ignition whooshes. Ambient hangar reverb and distant machinery drones remain constant. No weapon sounds, gunfire, or metallic blade effects. No dialogue or narration.
+
+[Maintain Consistency]
+Keep a single human figure and continuous armor transformation sequence only. Ensure zero weapons, firearms, blades, guns, or any armaments appear at any stage. Preserve armor integrity, color progression from black to iridescent cyan, spatial hangar layout, and the final sealed combat-ready state.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115713093057892352/img/Zx_4i5Oe9Ds9fcnl.jpg" width="600" alt="Sci-Fi Armor Transformation Video Script">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13207)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115713615433204204) | **Published:** Oct 29, 2026
+
+---
 ### Cyberpunk Human Evolution Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -299,6 +379,25 @@ Preserve pure photorealistic rendering of materials (brushed metals, glass, ener
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13145)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
+
+---
+### Dog Ghost Costume Trick-or-Treat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a video of a dog getting up, making a ghost costume, and going trick-or-treating.
+
+#### 📝 Prompt
+
+```
+Have the dog in this picture get up and make its own ghost costume and then put it on and go trick-or-treating
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="Dog Ghost Costume Trick-or-Treat">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13205)**
+
+**Author:** [Rawrsteel](https://x.com/rawrsteel88) | **Source:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **Published:** Oct 28, 2026
 
 ---
 ### Grok Imagine Time Travel Portrait Prompt
@@ -2867,82 +2966,6 @@ Have the cat pull out a credit card and hand it to the ShihTzu.   Have the Shih 
 **Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2112308141769589093) | **Published:** Oct 19, 2026
 
 ---
-### Dynamic Scene Transition Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt to create a video from an image, featuring changing colors, a scene transition from bedroom to field, and outfit changes.
-
-#### 📝 Prompt
-
-```
-Take image use the words as a description for video , add circling colors change bedroom to field on a checkered blanket white and black , change outfit to light ice yellow blouse , jeans ....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112303122706006016/img/9PT99EU-Fmoydhjg.jpg" width="600" alt="Dynamic Scene Transition Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12798)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2112303166528389334) | **Published:** Oct 19, 2026
-
----
-### Space Ship Soccer Stadium
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Detailed video prompt for a soccer match inside a massive spaceship stadium with a glass dome overlooking Earth.
-
-#### 📝 Prompt
-
-```
-15s 720p video of soccer in a massive space ship stadium with glass dome looking down on Earth....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112296155027501056/img/Jp7p4SWZg-hPXNYE.jpg" width="600" alt="Space Ship Soccer Stadium">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12794)**
-
-**Author:** [Starship](https://x.com/starship_river) | **Source:** [Link](https://x.com/starship_river/status/2112296207879954695) | **Published:** Oct 19, 2026
-
----
-### Grok Imagine Video Prompt: Tesla Flying Car Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt describing a white Tesla car turning frontal and flying gently against a bright orange sky before returning to the road.
-
-#### 📝 Prompt
-
-```
-Include a bright orange sunny sky, where is this. white Tesla car seen  to turn frontal, and  flying up, gently after that returning on the road....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112251123998281728/img/mnIq8yKuxqD4CLQl.jpg" width="600" alt="Grok Imagine Video Prompt: Tesla Flying Car Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12799)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2112251138145951830) | **Published:** Oct 19, 2026
-
----
-### Transforming Supercar into Robot Warrior
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt describing a futuristic black supercar transforming into a towering robotic warrior in a neon-lit megacity. Includes details on mechanical unfolding, camera movement, and visual effects.
-
-#### 📝 Prompt
-
-```
-A futuristic black supercar races through a neon-lit megacity at night before braking violently on a wet highway. The hood splits into armored chest plates, wheels rotate into the shoulders, and hundreds of hydraulic components unfold in precise mechanical sequences. The car rises into a towering robotic warrior with glowing blue eyes as steam bursts from its armor. The robot takes one powerful step forward while the camera circles it in a dramatic 360-degree shot.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112218406913282051/img/p2l0BCI_PrQVlPrl.jpg" width="600" alt="Transforming Supercar into Robot Warrior">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12801)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112218502107205691) | **Published:** Oct 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3004,6 +3027,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-30T05:36:31.696Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-30T15:16:14.905Z</sub>
 
 </div>
