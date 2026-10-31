@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3257** |
+| 📝 提示詞總數 | **3278** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-10-31** |
 
@@ -189,6 +189,381 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 能量轉化影片腳本
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的結構化影片生成提示詞，詳細描述從能量到傑作的不間斷轉變過程。
+
+#### 📝 提示詞
+
+```
+[生成目標]
+生成一段連貫且層層遞進的蛻變影片，讓原始的創作能量逐步演化為完整的高階創作形態，最終淬鍊成一件完成的曠世傑作。
+
+[事件腳本]
+開場：在黑暗無垠的虛空中，無形的光能不斷翻湧、脈動。
+主要事件：能量加速交織成複雜的幾何圖騰，隨後結晶化為璀璨的實體物質。色彩、光芒與結構向外層層擴散，形態歷經一次次昇華，在精緻度、複雜度與力量上不斷突破。
+結尾：蛻變完成，化作一件散發光芒的成品，穩固、耀眼且完全進化地佇立於畫面正中央。
+
+[保持一致性]
+維持單一且連貫的蛻變過程。確保從純粹能量到最終實體創作的流轉一氣呵成，不中斷、不倒轉、也不破碎。在整個昇華過程中，該創作必須始終保持為一個完整的個體。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116408123627827200/img/P1wk_K_O1EcEV0Gv.jpg" width="600" alt="能量轉化影片腳本">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13253)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2116409253216841916) | **發布時間:** Oct 31, 2026
+
+---
+### Grok Imagine 影片提示詞：超人 T 恤場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 影片提示詞：生成穿著超人 T 恤的人躺在床上之影片，並包含特定的編輯指令。
+
+#### 📝 提示詞
+
+```
+@Image2 把我加進去，讓我穿著超人衣服坐在床上喝 Jack Daniels，把另一個人從照片裡修掉，改成幫我穿上超人衣服
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116387147515121664/img/6Ic-XY4s2aLR6ISJ.jpg" width="600" alt="Grok Imagine 影片提示詞：超人 T 恤場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13247)**
+
+**作者:** [American Patriot](https://x.com/brandel_kenneth) | **來源:** [Link](https://x.com/brandel_kenneth/status/2116387160391823498) | **發布時間:** Oct 31, 2026
+
+---
+### 夢幻動漫女孩影片提示詞
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 適用於 Grok Imagine 的複雜日文提示詞，用於生成 15 秒動漫風格影片，包含基於參考圖片的特定姿勢、燈光及背景音樂（BGM）指令。
+
+#### 📝 提示詞
+
+```
+[整體指示]
+ * 一致性：在所有場景中，請嚴格維持角色的五官特徵、黑髮的濕潤質感、服裝（黑色蕾絲馬甲、兔耳髮箍、十字架頸飾），以及透過蕾絲窗簾灑落的柔和光線背景。
+ * 氛圍：夢幻且神祕，帶有奇幻而輕柔飄逸的空氣感。
+ * BGM：安靜柔和的配樂，讓音樂盒清透的音色與溫柔的原聲吉他旋律相互交融。
+[時間軸與場景構成（總長 15 秒）]
+ * 場景 1（0-4 秒 / 參考：@Image1）
+   * 鏡頭角度：全景（全身）
+   * 動作 1（0-2 秒）：在柔和的光線下，微微側頭並露出淺笑，同時用指尖輕觸頸間的十字架吊飾。
+   * 動作 2（2-4 秒）：優雅地扭動身軀，將雙手輕輕交疊於胸前，深情凝視鏡頭。
+ * 場景 2（4-8 秒 / 參考：@Image3）
+   * 鏡頭角度：中景（上半身）
+   * 動作 1（4-6 秒）：歪著頭、眼神由下往上仰望，單手輕托臉頰，展現夢幻的神情。
+   * 動作 2（6-8 秒）：輕輕聳肩，雙唇微啟，彷彿正吐著氣息。
+ * 場景 3（8-12 秒 / 參考：@Image1）
+   * 鏡頭角度：全景（全身）
+   * 動作 1（8-10 秒）：緩緩伸出手，用指尖捏住蕾絲窗簾邊緣，帶著彷彿想藏起身體的微笑。
+   * 動作 2（10-12 秒）：從窗簾後探出臉龐，雙手背在身後，擺出優雅的前傾姿勢。
+ * 場景 4（12-15 秒 / 參考：@Image2）
+   * 鏡頭角度：特寫（臉部與頸部）
+   * 動作 1（12-13 秒）：靠近鏡頭，微微歪頭，露出一抹神祕莫測的微笑。
+   * 動作 2 及結尾（13-15 秒）：對著鏡頭可愛地眨一隻眼，並將畫面定格在最完美的姿勢。
+```
+
+<img src="https://cms-assets.youmind.com/media/1793432014893_7x3ghg_HV7Xjl-bAAAJvuI.jpg" width="600" alt="夢幻動漫女孩影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13266)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **來源:** [Link](https://x.com/HaluAIArt/status/2116372086595678521) | **發布時間:** Oct 31, 2026
+
+---
+### John Berkey 風格的太空戰列艦
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的詳細影片生成提示，描述一艘 John Berkey 風格、佈滿戰痕的太空船。
+
+#### 📝 提示詞
+
+```
+John Berkey 風格的太空無畏艦，佈滿歲月痕跡與戰鬥傷疤，在幽暗的月光映照下若隱若現。斑駁的髒白與褪色的橘紅塗裝。當戰艦掠過星球暗面的外層大氣時，船身泛起耀眼的光芒。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116366754809061376/img/snhFquItdFzgnEhI.jpg" width="600" alt="John Berkey 風格的太空戰列艦">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13250)**
+
+**作者:** [Chris](https://x.com/d0gmah) | **來源:** [Link](https://x.com/d0gmah/status/2116366829090132231) | **發布時間:** Oct 31, 2026
+
+---
+### 更衣室化妝場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片提示，描繪一位女性在更衣室塗口紅時，有人敲門的場景。
+
+#### 📝 提示詞
+
+```
+她在化妝間裡上妝。正塗著紅色口紅。有人敲門了……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116357467974057984/img/CKKNN3zO41NhfLwp.jpg" width="600" alt="更衣室化妝場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13252)**
+
+**作者:** [Mimi9060](https://x.com/MelodyM662010) | **來源:** [Link](https://x.com/MelodyM662010/status/2116357485166575633) | **發布時間:** Oct 31, 2026
+
+---
+### 蒸汽龐克巨型結構鳥瞰
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個高度細節化的電影感鳥瞰鏡頭提示，融合未來主義建築與蒸汽龐克機甲元素。
+
+#### 📝 提示詞
+
+```
+史詩級電影感空拍鏡頭，一座龐大的未來主義巨型建築自陡峭山崖拔地而起，將超現代的白金建築風格與精密的蒸汽龐克機甲基地完美融合。下方崖壁完全覆蓋著極度精細的黃銅、青銅、紫銅與深色金屬機械裝甲板、巨大齒輪、活塞、鉚釘裝甲、粗厚的蒸汽管線，以及無數大小不一、散發溫暖金光的圓形發光舷窗。柔和的白色蒸氣與水霧從機械結構中緩緩升起。
+
+透明玻璃與金屬打造的圓柱狀管狀道路氣勢磅礴地蜿蜒穿梭於建築內外，流線型的白色車輛在封閉管道中疾駛。一座鮮紅色的日式鳥居矗立於靠近中央的圓形平台上。高聳入雲的白金摩天大樓擁有優雅的弧形尖塔與金色點綴，並由這些管狀公路相互串連。
+
+背景：壯闊的雲霧群山、遠處下方的翠綠山谷，以及點綴著柔軟白雲的湛藍天空。照片級寫實、超高細節、電影級光影、史詩級規模、9:16 直式構圖。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116320066719580161/img/JVZ1rWS1z6F6ZZcp.jpg" width="600" alt="蒸汽龐克巨型結構鳥瞰">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13260)**
+
+**作者:** [じろじろin下関](https://x.com/ziro1005) | **來源:** [Link](https://x.com/ziro1005/status/2116320179701633287) | **發布時間:** Oct 31, 2026
+
+---
+### 科幻未來主義城市電影場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 高品質科幻影片提示詞，呈現黃昏時分的宏偉未來城市，包含鉻合金摩天大樓、霓虹燈光、懸浮載具以及細膩的大氣效果。
+
+#### 📝 提示詞
+
+```
+一段純粹的科幻電影級寫實影片，描繪暮色時分遼闊的未來城市景觀：流線型的鍍鉻玻璃摩天大樓劃破霓虹閃爍的雲層，懸浮載具在多層高架道路上拖曳出長長的光軌，而下方被雨水打濕的街道上，全息廣告正不斷閃爍。
+
+畫面呈現超寫實的光影效果，包含體積霧與穿透大氣薄霧的體積光（耶穌光）、潮濕金屬與玻璃表面細膩的反射、遠方推進器散發的微妙粒子特效，以及冷調藍紫配色搭配溫暖霓虹點綴所營造出的強烈戲劇對比。
+
+鏡頭採用 sweeping 式的空中建立鏡頭，緩慢推軌穿越高聳建築群，接著平穩跟拍一艘流線型太空船在樓宇間穿梭，最後上升展現這座發光巨型城市的開闊全景。
+
+音效涵蓋先進科技深沉共鳴的環境低頻嗡鳴、遠處推進器的呼嘯聲、雨滴輕敲物體表面的細碎聲響、層次豐富的電子持續音，以及逐漸揚起的管弦合成配樂，層層堆疊出電影般的緊張張力。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116308881739841536/img/hQsIAzFo54uxNS9e.jpg" width="600" alt="科幻未來主義城市電影場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13248)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2116308989868757500) | **發布時間:** Oct 30, 2026
+
+---
+### 銅色禮服上的狗爪影片編輯
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個影片編輯提示，將穿著銅色禮服角色的手部替換為狗爪，並確保蝴蝶結與禮服風格相符。
+
+#### 📝 提示詞
+
+```
+在第二張圖片（穿青銅色禮服的那張）中，請把狗的手改成爪子，不要保留女人的手，並讓她的蝴蝶結與每套禮服互相搭配。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116299330281754625/img/6O98dB_qmH2p0Cij.jpg" width="600" alt="銅色禮服上的狗爪影片編輯">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13256)**
+
+**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **來源:** [Link](https://x.com/Soaring2TheMoon/status/2116299351639388363) | **發布時間:** Oct 30, 2026
+
+---
+### 電影感超現實主義繪畫提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to create a cinematic surreal image and video based on the phrase 'I can paint a picture in my head so vivid I can make you see a different reality'.
+
+#### 📝 提示詞
+
+```
+為這段話打造電影感的超現實圖像與影片……我能在腦海中描繪出無比鮮明的畫面，讓你看見截然不同的現實
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116268603435622400/img/RWrBlJf4OpsBcijf.jpg" width="600" alt="電影感超現實主義繪畫提示">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13259)**
+
+**作者:** [TRUEDANE](https://x.com/REALTRUEDANE) | **來源:** [Link](https://x.com/REALTRUEDANE/status/2116268627964125417) | **發布時間:** Oct 30, 2026
+
+---
+### 線性龍轉化為蝴蝶與蜂鳥
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片轉換提示詞，保留線性藝術風格，將龍morphing為蝴蝶和蜂鳥。
+
+#### 📝 提示詞
+
+```
+維持原本的線材做法，並將龍改成蝴蝶和蜂鳥
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116255961497456640/img/YRUalFp3eJOtmSjS.jpg" width="600" alt="線性龍轉化為蝴蝶與蜂鳥">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13255)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2116256026123264267) | **發布時間:** Oct 30, 2026
+
+---
+### Grok Imagine 影片提示詞：Tesla 街頭追逐
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的複雜動作場景提示詞，包含汽車、警方追擊及高速公路競速動態。
+
+#### 📝 提示詞
+
+```
+讓所有這些車在高速公路上展開街頭飆車追逐戰，前方由兩輛 Tesla Model Y 領頭狂飆，警察緊追著這兩輛 Tesla，而其他車輛則拼命閃避讓路。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116240408808202240/img/_b5-lWVXkaVUuj-m.jpg" width="600" alt="Grok Imagine 影片提示詞：Tesla 街頭追逐">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13249)**
+
+**作者:** [Sohailly Isabel Otero](https://x.com/hiworldsoso) | **來源:** [Link](https://x.com/hiworldsoso/status/2116240470640893967) | **發布時間:** Oct 30, 2026
+
+---
+### 暗黑小紅帽影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Grok Imagine 設計的詳細影片生成提示，描繪一個黑暗童話風格的小紅帽故事。
+
+#### 📝 提示詞
+
+```
+照片級寫實的黑暗童話風格人像，描繪一位靈感源自小紅帽的年輕女子。她留著深棕色長髮，柔和的瀏海輕拂臉龐，膚色白皙，以無所畏懼的銳利眼神直視鏡頭；身上披著一件極長的深紅色連帽斗篷，自雙肩垂落並一路延伸至地面。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116204089583513601/img/d5UTPK4Cs26iaqCu.jpg" width="600" alt="暗黑小紅帽影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13251)**
+
+**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **來源:** [Link](https://x.com/AnnetteHollerWe/status/2116204122051592519) | **發布時間:** Oct 30, 2026
+
+---
+### 中世紀貴婦電影感台詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個複雜的影片提示，內容為中世紀貴婦台詞演出，包含特定的運鏡方式與光影效果。
+
+#### 📝 提示詞
+
+```
+一位膚色如焦糖拿鐵般的棕褐色美麗女子，佇立在擁有拱形穹頂的中世紀城堡裡。她身穿一襲紅色天鵝絨禮服，上頭繡著珍珠與鑽石。她的秀髮是栗棕色，並帶有金銀花般的金色挑染。雙唇呈現鮮明的紅潤色澤，榛果色的眼眸搭配著纖長的睫毛。一抹溫柔的微笑讓她的五官更加動人。光線從城堡的窗戶灑落，映亮了她的秀髮與衣裳。整座城堡寧靜而優美，巨大的蠟燭更襯托出城堡牆面的質感。
+
+這位女子朝鏡頭走來，直視鏡頭並開口說話。
+
+她說：「永遠為光明、自由與愛挺身而出。
+無論面對什麼——我們都將一起——共同面對。」
+
+「陰天漫射光」，85 mm 鏡頭，
+「緩慢推軌鏡頭（slow dolly-in）」，體積光，視差效果，發光效果，交叉淡化，高解析度輸出，原生音訊生成，物理模擬，慢動作，沉浸式光暈，--ar 16.9，超電影感 4k 風格影片
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116189730530324481/img/vTaENYnqSOQCB5IX.jpg" width="600" alt="中世紀貴婦電影感台詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13261)**
+
+**作者:** [Kim Maria](https://x.com/KimMaria8ry) | **來源:** [Link](https://x.com/KimMaria8ry/status/2116189762595766511) | **發布時間:** Oct 30, 2026
+
+---
+### 女性變身白色 Optimus Prime 影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成女性變身白色 Optimus Prime 機器人轉換影片的詳細提示詞。
+
+#### 📝 提示詞
+
+```
+[生成目標]
+生成一段次世代變形影片，內容為一名女性角色將自己變身為白色的 Optimus Prime。核心主體是這名女性，她主動啟動並完成自我變形，最終轉化為白色的 Optimus 機器人形態。
+
+[主體與關係]
+由單一女性完成整個自我變形過程。她起初為人類女性，最終完全轉變為白色的 Optimus Prime，過程中不會出現任何其他角色。變形由她自主啟動，且全程連續不中斷。
+
+[事件腳本]
+開場：女子站在開闊的工業或金屬場景中央，面朝前方、姿態自信，雙臂微微抬起，能量開始在她周身匯聚。
+主要事件：耀眼的白藍雙色能量從她的核心向外湧現。她的身體以流暢無縫的次世代序列進行重組——皮膚與衣物幻化為俐落的白色裝甲板，並點綴紅藍細節；四肢伸展並重新構型為強而有力的機械腿與機械臂；頭部逐漸形成頭盔與面罩，同時保留微妙的女性輪廓特徵；胸部浮現駕駛艙與 Autobot 風格的細節；車輛部件則組裝成經典的 Optimus 卡車與機器人混合結構，整體呈現純白色調與拋光金屬光澤。能量粒子、發光接縫與全像投影疊層不斷加速轉換過程，直到她徹底成為雙足站立的白色 Optimus 形態。
+結尾：完成變身的白色 Optimus 以同樣的姿勢巍然挺立、氣勢磅礡，裝甲完全鎖定，藍色護目鏡散發光芒，身上已無任何殘留的人類特徵，隨時準備投入行動。
+
+[保持一致性]
+維持「單一女性至機器人」的身分連貫性，以白色為主視覺色調，確保 Optimus 的輪廓與細節精準到位、空間方位穩定不變，且自我變形過程全程不中斷。
+
+免責聲明：
+本影片為 AI 生成的虛構科幻概念作品，僅供娛樂用途。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116152701612650497/img/SaQsQ7kOFepCUASS.jpg" width="600" alt="女性變身白色 Optimus Prime 影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13257)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2116152840087650695) | **發布時間:** Oct 30, 2026
+
+---
+### 黃玫瑰花瓣水窪影片剪輯
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個影片剪輯提示，將多片黃玫瑰花瓣整合至一個包含它們的小水窪中。
+
+#### 📝 提示詞
+
+```
+將水窪改為一個小水窪，裡面漂浮著黃色玫瑰花瓣，並移除其他所有的黃色玫瑰花瓣
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116136407186259970/img/rmUCpn211Hrr2QE_.jpg" width="600" alt="黃玫瑰花瓣水窪影片剪輯">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13258)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2116136478892019806) | **發布時間:** Oct 30, 2026
+
+---
+### 女士手提包瞬間變身金屬鎧甲戰衣
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 此提示詞用於生成一段影片：當女士放下手提包時，包包會流暢地展開並變形為一套緊身貼合的金屬鎧甲戰衣。
+
+#### 📝 提示詞
+
+```
+[生成目標]
+生成一段進階的變身序列。核心主角是一名女子，她將包包丟到地上；包包瞬間變形成一套完整的金屬裝甲，並由她穿上。
+
+[事件腳本]
+開場：女子站著手持包包，接著刻意將它丟落在自己前方的地面上。
+主要事件：包包撞擊地面後，立刻展開極具張力的變形過程。它翻摺、擴張，並以流體般的液態金屬動態變化，裝甲板一一卡扣定位，能量線條亮起光芒，各個組件向上延伸並環繞她的身體組裝，最終形成一套完整貼合的金屬裝甲。在變形完成的同時，她踏入裝甲之中，或被正在成形的裝甲完全包覆。
+結尾：她身穿光滑且帶有反射光澤的金屬裝甲站立。原本的包包已不再作為獨立物件存在，而是徹底化為了這套裝甲。她的姿態充滿力量，蓄勢待發。
+
+[保持一致性]
+全程維持女子的身份、五官特徵、身材比例與整體外觀連貫穩定。確保單一包包精確變形成唯一一套金屬裝甲。保持清晰的空間關係：包包起初在她手中，接著落地，最後向外擴張包覆全身。不得出現多餘的人物、包包或裝甲。整個變形過程必須流暢無縫、充滿爆發力且視覺效果震撼，同時不違背因果邏輯。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116124348071477249/img/HAyNwB1nOrpc1OWk.jpg" width="600" alt="女士手提包瞬間變身金屬鎧甲戰衣">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13262)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2116124466593792234) | **發布時間:** Oct 30, 2026
+
+---
 ### 忍者決鬥二人組動作場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +581,118 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13208)**
 
 **作者:** [Michael Erikson](https://x.com/erikson_michael) | **來源:** [Link](https://x.com/erikson_michael/status/2116019614442463517) | **發布時間:** Oct 30, 2026
+
+---
+### 男性進化成終極形態
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成連續變身影片的詳細提示詞，描述一名普通男性如何進化為終極形態以吸引女性。
+
+#### 📝 提示詞
+
+```
+[生成目標]
+生成一段連續的進階蛻變影片。核心主角是一名起初平凡無奇的男子，最終蛻變為最極致的升級形態；主要事件是他層層遞進的蛻變過程，最後自信地站在女子身旁，準備兌現「只要我達成這個目標，我就娶她」的承諾。
+
+[事件腳本]
+開場：一名平凡的男子獨自佇立在簡約的中性空間裡，神情堅定卻毫不起眼。
+主要事件：他經歷一連串層層遞進的蛻變——首先是一股隱微的能量湧遍全身，接著他的衣著與體態升級為更強悍、更俐落的版本，隨後散發出更強大的氣場與更精緻的外貌。每個階段都讓他更上一層樓，直到完全蛻變為散發高價值感的最終形態。
+結尾：完成蛻變的他，高大自信地站在女子身旁，兩人的羈絆清晰可見，「只要我達成這個目標，我就娶她」的誓言就此實現。
+
+[保持一致性]
+在每個蛻變階段中，都必須維持男子的核心身分連貫不變；始終以同一位女子作為這份承諾的唯一對象；並確保最終的配對結果與升級後的呈現維持不變。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116016410371760128/img/MMj11ekfg-BKFtOi.jpg" width="600" alt="男性進化成終極形態">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13254)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2116016843215241216) | **發布時間:** Oct 30, 2026
+
+---
+### Grok Imagine 精緻禮服影片提示詞
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine 精緻禮服影片提示詞：以黑色荷葉邊洋裝女性為主角，結構化為 5 個場景，包含特定姿勢與背景音樂 (BGM) 指示。
+
+#### 📝 提示詞
+
+```
+影片全域設定
+* 長度：15 秒（3 秒 x 5 個場景）
+* 角色一致性：完整保留 @Image1、@Image2、@Image3 中模特兒的五官、髮型與服裝（黑色荷葉邊洋裝、黑色頭飾、黑色半紮髮、藍色眼睛）。
+* 背景音樂（BGM）：溫暖的木吉他搭配柔和平靜的原聲鋼琴合奏。
+
+場景 1（0:00 - 0:03）：中景
+* 基礎圖片：@Image3
+* 姿勢 1（0:00-0:01.5）：微微側頭，雙手輕放胸前，露出溫柔微笑。
+* 姿勢 2（0:01.5-0:03）：單手輕掩嘴角，展現可愛的驚訝表情。
+
+場景 2（0:03 - 0:06）：全景（全身）
+* 基礎圖片：@Image1
+* 姿勢 1（0:03-0:04.5）：輕提裙襬，優雅行屈膝禮（curtsy）。
+* 姿勢 2（0:04.5-0:06）：身體微向斜側扭轉，一腳向後收，突顯整體造型感。
+
+場景 3（0:06 - 0:09）：特寫
+* 基礎圖片：@Image2
+* 姿勢 1（0:06-0:07.5）：直視鏡頭，做出將頭髮撥至耳後的動作。
+* 姿勢 2（0:07.5-0:09）：單手輕托下巴，微微側頭，展現頸部線條與頭飾。
+
+場景 4（0:09 - 0:12）：中景至全景
+* 基礎圖片：@Image3 / @Image1
+* 姿勢 1（0:09-0:10.5）：從微背對鏡頭的角度，帶著笑容轉身。
+* 姿勢 2（0:10.5-0:12）：輕盈半轉身，讓裙襬隨之飄揚。
+
+場景 5（0:12 - 0:15）：壓軸絕美特寫
+* 基礎圖片：@Image2
+* 姿勢 1（0:12-0:13.5）：臉部緩緩靠近鏡頭，眼神回望。
+* 姿勢 2（0:13.5-0:15）：對著鏡頭擺出最完美的姿勢與最燦爛的笑容，俏皮地單眼眨眼後定格。
+```
+
+<img src="https://cms-assets.youmind.com/media/1793432017210_i1uq6z_HV2T1GYbAAEgnAZ.jpg" width="600" alt="Grok Imagine 精緻禮服影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13267)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **來源:** [Link](https://x.com/HaluAIArt/status/2116013473108996400) | **發布時間:** Oct 30, 2026
+
+---
+### Tesla Optimus 變身戰鬥模式 Optimus Prime 影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段用於生成電影感科幻影片的提示詞，描述 Tesla Optimus 在未來主義機庫中變身為戰鬥準備狀態的 Optimus Prime 配置。
+
+#### 📝 提示詞
+
+```
+[生成目標]
+製作一段純科幻風格的次世代 Optimus 變形影片。核心主體為 Tesla Optimus，主要事件是它從流線型的人形外觀，徹底蛻變為高科技、全面進化且隨時可投入戰鬥的次世代 Optimus Prime 形態。
+
+[事件腳本]
+開場：Optimus 佇立於廣闊的未來感機庫中央，維持完整的人形比例，霧面黑與銀色裝甲板反射出冷冽的青色與洋紅色全息光芒。頭部呈現經典的平滑人形面罩。
+主要事件：變形程序啟動。胸甲以液壓般的精準度向兩側展開，露出發出藍光的能量核心與層層摺疊的裝甲組件。雙肩向外擴張並鎖定成巨大的 Prime 風格肩甲，手臂裝甲同步重組為重型護腕。雙腿拉長增厚，轉化為強而有力的趾行式支撐結構；腰部裝甲旋轉並鎖定，構成標誌性的卡車車頭軀幹。頭部外殼剝離重塑，化為配備湛藍發光目鏡的經典 Optimus 頭盔。排氣管自雙肩升起，Autobot 徽章以純粹的能量凝聚成形，整個身軀變得更加高大、裝甲更為厚重，氣勢呈指數級攀升。
+結尾：完成變形的次世代 Optimus 巍然矗立，身形高聳且蓄勢待發。藍色光學感測器熾烈閃耀，能量紋路在每一塊裝甲上脈動流轉，蒸氣與殘留的全息粒子在其腳邊繚繞翻騰。
+
+[視覺風格]
+超高保真度的電影級科幻美學。硬表面機械細節、金屬反光、體積感十足的藍色能量光暈、全息 UI 疊層，以及奈米機器人與光束交織的粒子軌跡。採用青紫（cyan-magenta）冷色調，搭配深邃陰影與銳利的鏡面高光。寫實材質與風格化的能量特效完美融合。
+
+[鏡頭]
+開場為寬廣的英雄式全身鏡頭。變形啟動時，攝影機緩慢順時針環繞並穩定推進。中段以動態低角度跟拍四肢的擴張與裝甲板的連鎖位移。最終畫面定格於極具張力的低角度英雄姿態，隨著最後幾塊裝甲鎖定、能量湧現，鏡頭微微向上傾斜。
+
+[音效]
+低沉的液壓聲與伺服馬達運轉聲，層層疊加上揚的電子能量湧動音效。每一次重大裝甲位移，都精準對應金屬撞擊與磁力鎖定的衝擊聲。結尾以渾厚深沉的低頻能量脈衝，以及共鳴迴盪的 Autobot 啟動音效作收。機庫的環境殘響與遠處的合成風聲，將科幻氛圍烘托至極致。無對白或字幕。
+
+[保持一致性]
+全程維持單一且連貫的主體身分：僅限一個 Optimus。輪廓與比例的演變必須清晰合理，呈現從人形到次世代 Prime 形態的流暢過渡。整段影片中，金屬材質、藍色能量特徵與科幻機庫環境皆須保持高度一致。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115849404607549441/img/HVZXNneM-ghBcJKW.jpg" width="600" alt="Tesla Optimus 變身戰鬥模式 Optimus Prime 影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13263)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2115849688876503049) | **發布時間:** Oct 29, 2026
 
 ---
 ### 使用 Grok Imagine 實現繪畫中的 3D 導覽
@@ -398,6 +885,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13205)**
 
 **作者:** [Rawrsteel](https://x.com/rawrsteel88) | **來源:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **發布時間:** Oct 28, 2026
+
+---
+### 克林姆風格吸血鬼女伯爵藝術
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成古斯塔夫·克林姆風格圖像的提示詞，描繪一位身著金色禮服與蝙蝠翼披風、面色蒼白的吸血鬼女伯爵，置身於月光下的花園中。
+
+#### 📝 提示詞
+
+```
+Gustav Klimt 金箔畫風，蒼白的女吸血鬼伯爵身穿螺旋馬賽克禮服，深紅色 [蝙蝠翼斗篷]，月光灑落的紅玫瑰花園，銀色
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg" width="600" alt="克林姆風格吸血鬼女伯爵藝術">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13264)**
+
+**作者:** [Lid Cracker](https://x.com/LidCracker) | **來源:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **發布時間:** Oct 28, 2026
 
 ---
 ### Grok Imagine 時光穿越人像提示詞
@@ -625,6 +1131,34 @@ BGM 構想
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13123)**
 
 **作者:** [Nora Vale](https://x.com/NoravaleAI) | **來源:** [Link](https://x.com/NoravaleAI/status/2114969055740256340) | **發布時間:** Oct 27, 2026
+
+---
+### AI 美女行走動畫
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一篇日文推文，描述如何使用 Grok Imagine 將先前發布的 AI 美女圖片製作成 6 秒鐘的動畫影片。
+
+#### 📝 提示詞
+
+```
+「嘿，我們再多走一會兒好嗎？」
+
+我用 Grok Imagine 把之前發布的一張 AI 美女圖片，變成了一段 6 秒鐘的影片。
+
+那天靜止的照片，開始動了起來。
+
+她牽起我的手，轉身微笑。
+如果能擁有這樣的假期，該有多好？
+
+她並不存在。但她又確實就在那裡。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114953333001814016/img/_zUF15iol8qlmJvn.jpg" width="600" alt="AI 美女行走動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13265)**
+
+**作者:** [REALENCE](https://x.com/realence_ai) | **來源:** [Link](https://x.com/realence_ai/status/2114953365042135246) | **發布時間:** Oct 27, 2026
 
 ---
 ### AI Chibi 變身影片提示詞
@@ -2439,462 +2973,6 @@ Elon 完成了首次接觸，Optimus 則收穫了人生第一隻寵物。🐟�
 **作者:** [Cathy has this](https://x.com/lighthouse42f) | **來源:** [Link](https://x.com/lighthouse42f/status/2112705475875930480) | **發布時間:** Oct 21, 2026
 
 ---
-### Grok Imagine Inception 城市崩塌提示詞
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 兩步驟提示詞指南，用於創建《全面启动》風格的城市崩塌場景：首先從照片生成電影感靜態畫面，然後將其動畫化為包含建築折疊效果的影片。
-
-#### 📝 提示詞
-
-```
-僅將附件照片作為臉部／身分的參考。
-請生成一張全新的電影劇照。
-
-人物已經身處《全面啟動》（Inception）夢境崩塌的場景之中。
-宛如巴黎的城市正在摺疊，建築在頭頂彎曲翻轉，街道向上掀起，空氣中塵土飛揚。
-Christopher Nolan 式電影質感，16:9，變形寬銀幕鏡頭效果，底片顆粒感，戲劇性光影。
-
-不要複製原圖的構圖。
-不要保留原始背景。
-不要做成「照片漸變為場景」的過渡圖。
-第一格也是唯一的一格＝完成的電影劇照。
-保持同一張臉。
-無文字、無浮水印。
-
-將這張圖片動態化。
-這張圖片本身就是第一格畫面。不要從任何其他照片淡入。
-
-城市持續向內摺疊。
-建築緩慢翻轉倒置，街道升起，重力改變，塵土與碎屑飄散。
-人物必須是同一個人，維持相同的長相。
-緩慢而沉重的崩塌，電影式推軌前進，低角度拍攝，變形寬銀幕鏡頭效果，底片顆粒感。
-不剪接、不從其他圖片溶接、不出現原圖閃現。
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2112691604612116480/pu/img/61yoOsOc6tnFzsrw.jpg" width="600" alt="Grok Imagine Inception 城市崩塌提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12864)**
-
-**作者:** [ORCHIS STUDIO｜Web導線改善](https://x.com/StudioOrchis) | **來源:** [Link](https://x.com/StudioOrchis/status/2112695369855566318) | **發布時間:** Oct 21, 2026
-
----
-### 洋蔥圈爭醬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 關於兩個洋蔥圈爭奪最後一點醬料的趣味提示詞。
-
-#### 📝 提示詞
-
-```
-兩個洋蔥圈為了最後一點醬料吵得不可開交，滑來滑去、大打出手，只為搶到那最後一口醬..
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112669892734234624/img/541k2lznL0AMkm3f.jpg" width="600" alt="洋蔥圈爭醬">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12854)**
-
-**作者:** [Billy “Billymack” mcgee](https://x.com/BillyBilly5651) | **來源:** [Link](https://x.com/BillyBilly5651/status/2112669910887227871) | **發布時間:** Oct 20, 2026
-
----
-### GTA 風格 Tesla Roadster 追逐戰
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個複雜的提示，指示 AI 分析新款 Tesla Roadster 的影片，並生成一段涉及飛行汽車警匪追逐的 GTA 風格影片。
-
-#### 📝 提示詞
-
-```
-觀看關於 Tesla 全新 Roadster 的影片並徹底理解內容，接著製作一段 GTA 風格的影片，呈現警方駕車在空中追逐目標車輛的畫面。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112641848132911104/img/IeAK_OL17gRSdhPz.jpg" width="600" alt="GTA 風格 Tesla Roadster 追逐戰">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12846)**
-
-**作者:** [Rise-Raise](https://x.com/rise_raise_ai) | **來源:** [Link](https://x.com/rise_raise_ai/status/2112641880819474436) | **發布時間:** Oct 20, 2026
-
----
-### 男子描述懸浮 Roadster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個場景提示，描述一名男子在背景中介紹懸浮的 Tesla Roadster。
-
-#### 📝 提示詞
-
-```
-前景中的男子正在介紹全新 Tesla Roadster 的各項功能，而這輛車正懸浮在他身後的背景中
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112636802146160640/img/FBhpY4y1C4HJAe2l.jpg" width="600" alt="男子描述懸浮 Roadster">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12851)**
-
-**作者:** [Astropub Starbase](https://x.com/AstropubSBTX) | **來源:** [Link](https://x.com/AstropubSBTX/status/2112636838879871296) | **發布時間:** Oct 20, 2026
-
----
-### Tesla Roadster 推進器跳躍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 基於物理模擬的提示詞，用於生成一段 6 秒影片，展示 Tesla Roadster 使用冷氣推進器跳過巴士。
-
-#### 📝 提示詞
-
-```
-6 秒影片：Tesla Roadster 啟動冷氣推進器，一躍跳過校車
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112622676174897152/img/BSZNURdNcHautPV1.jpg" width="600" alt="Tesla Roadster 推進器跳躍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12843)**
-
-**作者:** [Astropub Starbase](https://x.com/AstropubSBTX) | **來源:** [Link](https://x.com/AstropubSBTX/status/2112622701492031836) | **發布時間:** Oct 20, 2026
-
----
-### 夜間巨型城市汽車場景提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 詳細提示詞，將場景轉化為未來感十足的夜間都市背景與懸浮汽車。
-
-#### 📝 提示詞
-
-```
-將場景轉換為夜晚，背景設為廣闊的超級大都會：高聳入雲的摩天大樓窗戶透著光芒、霓虹燈閃爍、夜間密集的城市天際線，同時完整保留那輛黑色未來感汽車，讓它繼續依靠推進器懸浮並拖曳出蒸氣尾跡……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112616366079377408/img/t4JMqaM8-byM4MY9.jpg" width="600" alt="夜間巨型城市汽車場景提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12859)**
-
-**作者:** [Astropub Starbase](https://x.com/AstropubSBTX) | **來源:** [Link](https://x.com/AstropubSBTX/status/2112616386010710451) | **發布時間:** Oct 20, 2026
-
----
-### Tesla Roadster 沙漠飛行
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 詳細提示詞，描述一段 6 秒、720p 的影片，內容為 Tesla Roadster 使用冷氣推進器飛越沙漠景觀。
-
-#### 📝 提示詞
-
-```
-一段 6 秒的 720p 影片，展示 Tesla Roadster 啟動冷氣推進器飛越沙漠
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112595996370714625/img/8PQb_u1AQxCQflb8.jpg" width="600" alt="Tesla Roadster 沙漠飛行">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12847)**
-
-**作者:** [Astropub Starbase](https://x.com/AstropubSBTX) | **來源:** [Link](https://x.com/AstropubSBTX/status/2112596021847158826) | **發布時間:** Oct 20, 2026
-
----
-### EV 生活方式自拍影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段詳細的提示詞，用於生成在 Tesla Model 3 內拍攝的 1 分鐘自拍風格影片，探討電動車生活方式的優勢。
-
-#### 📝 提示詞
-
-```
-她坐在 Model 3 車內，以自拍視角喝著 In-N-Out 的飲料，聊著自己為什麼選擇投入 EV 生活——因為她超討厭去 Jiffy Lube 或 Midas 換機油。1080p 影片，片長 1 分鐘
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112570881738260480/img/iJuex6ld-47AU77i.jpg" width="600" alt="EV 生活方式自拍影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12842)**
-
-**作者:** [kyle smith](https://x.com/RadCyberTruck) | **來源:** [Link](https://x.com/RadCyberTruck/status/2112571075037159729) | **發布時間:** Oct 20, 2026
-
----
-### Arthur AI 藝術史機器人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於製作迷你影片的提示詞，內容關於「Arthur」——一款 AI 藝術史機器人。它能拍攝人物照片，將他們融入歷史藝術作品中，並印製明信片。
-
-#### 📝 提示詞
-
-```
-用 Arthur 這個 AI 藝術史小機器人來做一支短影片吧！它的任務就是幫大家拍照，再把照片放進經典的歷史名畫裡，最後印成一張明信片。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112566005876535296/img/qexBsFsSgzzwferh.jpg" width="600" alt="Arthur AI 藝術史機器人">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12849)**
-
-**作者:** [The Pixel Witch](https://x.com/WGlencora) | **來源:** [Link](https://x.com/WGlencora/status/2112566025049039209) | **發布時間:** Oct 20, 2026
-
----
-### 女子倚靠 Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一位女士倚靠在覆蓋著保護膜的 Cybertruck 旁，並說：「我可是很壞的喔。」
-
-#### 📝 提示詞
-
-```
-在亞利桑那州 Scottdale，一位身材豐腴的女士倚靠在她那輛粉色車衣包覆的 Cybertruck 上，笑著說道：「我可是個狠角色。」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112563963363803137/img/L7PSlJ7ZEm2THzii.jpg" width="600" alt="女子倚靠 Cybertruck">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12855)**
-
-**作者:** [kyle smith](https://x.com/RadCyberTruck) | **來源:** [Link](https://x.com/RadCyberTruck/status/2112564183518646624) | **發布時間:** Oct 20, 2026
-
----
-### EDM Party 動畫風格
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 專注於有限動畫、手持攝影效果與 EDM Party 氛圍的影片生成提示詞。
-
-#### 📝 提示詞
-
-```
-風格不變、視覺完美一致、EDM、有限動畫、手持攝影機、感受音樂、Tech House、派對、彈跳感、晃動鏡頭、動態十足、風吹效果、透視縮短、手部舞蹈、無對白、鏡頭左右搖擺、不穩定鏡頭……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112521265051557888/img/kA6bDlDrENEFHhD4.jpg" width="600" alt="EDM Party 動畫風格">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12860)**
-
-**作者:** [レイヴ](https://x.com/raves9361) | **來源:** [Link](https://x.com/raves9361/status/2112521367635857468) | **發布時間:** Oct 20, 2026
-
----
-### Grok Imagine Cosplay 姿勢影片 Prompt
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 生成一段 15 秒影片的 Prompt，描述 Cosplayer 在 Comiket 每 3 秒變換一次姿勢，並使用多張參考圖片確保一致性。
-
-#### 📝 提示詞
-
-```
-🎬 給 Director Gemini 的指令
-請使用上傳的 3 張圖片（全身、特寫、半身），撰寫一段用於生成 15 秒影片的日文提示詞。影片需切換 5 個場景，呈現「在 Comiket 拍照會上，一位 Cosplayer 每 3 秒變換一次俐落姿勢與上鏡 Pose（每個場景 2 個姿勢）」的畫面。結尾請以特寫鏡頭收尾，擺出招牌 Pose 並單眼眨眼。
-
-BGM「（請構思符合圖片氛圍的 BGM）」
-
-請保持人物臉部與髮型的一致性。請勿生成任何圖片或影片。
-
-提示詞中請將 Image 1（全身）替換為 @Image1、Image 2（特寫）替換為 @Image2、Image 3（半身）替換為 @Image3。
-
-🎥 影片生成提示詞（Grok Imagine）
-[基本設定與一致性]
- * 人物／服裝參考：來自 @Image1（全身）、@Image2（特寫）、@Image3（半身）的女性 Cosplayer。銀色編髮、精靈耳、藍白奇幻風服裝；請務必保持五官與髮型一致。
- * 地點：熱鬧的 Comiket 會場（背景中的攝影師與攤位需模糊處理）。
- * BGM 建議：清爽明亮的快節奏 EDM／Anison 風格流行樂（加入閃爍的合成器音色，營造奇幻感）。
-[時間軸與結構（總長 15 秒）]
- * 場景 1（0:00 - 0:03）／參考：@Image1
-   * 鏡頭：Full Shot（全身）
-   * 姿勢 1（0-1.5 秒）：優雅如行禮般輕輕提起服裝裙襬的姿勢。
-   * 姿勢 2（1.5-3 秒）：雙臂大張、展現燦爛笑容，完整秀出整套服裝。
- * 場景 2（0:03 - 0:06）／參考：@Image3
-   * 鏡頭：Medium Shot（腰部以上）
-   * 姿勢 1（3-4.5 秒）：雙手在胸前比出愛心手勢，頭部微傾並微笑。
-   * 姿勢 2（4.5-6 秒）：手托下巴，眼神追隨鏡頭，表情帥氣冷豔。
- * 場景 3（0:06 - 0:09）／參考：@Image1
-   * 鏡頭：變換角度的 Full Shot（斜向全身）
-   * 姿勢 1（6-7.5 秒）：身體斜向扭轉，輕觸髮絲並回眸。
-   * 姿勢 2（7.5-9 秒）：一腳向前踏出，朝鏡頭伸出手，宛如奇幻故事的女主角。
- * 場景 4（0:09 - 0:12）／參考：@Image3
-   * 鏡頭：Medium Shot
-   * 姿勢 1（9-10.5 秒）：雙手捧頰，做出可愛的驚訝姿勢。
-   * 姿勢 2（10.5-12 秒）：朝鏡頭清爽地揮手。
- * 場景 5（0:12 - 0:15）／參考：@Image2
-   * 鏡頭：Close-up（臉部至肩膀）
-   * 姿勢 1（12-13.5 秒）：專注凝視鏡頭，溫柔微笑。
-   * 姿勢 2（13.5-15 秒）：朝鏡頭擺出招牌 Pose，可愛地單眼眨眼，最後定格在笑容上。
-```
-
-<img src="https://cms-assets.youmind.com/media/1792568893125_pgdy5x_HU_Yy_NbIAALf6w.jpg" width="600" alt="Grok Imagine Cosplay 姿勢影片 Prompt">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12865)**
-
-**作者:** [はる](https://x.com/HaluAIArt) | **來源:** [Link](https://x.com/HaluAIArt/status/2112491518904680856) | **發布時間:** Oct 20, 2026
-
----
-### 星際太空船機器人變身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段高品質的影片提示，描述一艘巨大的太空船在地球上空變身為守護機器人的場景。
-
-#### 📝 提示詞
-
-```
-一艘巨大的星際太空船靜靜懸浮在地球上空，引擎散發著幽藍光芒。長達數公里的船體裂解為層層交錯的裝甲板，龐大的機械肢體破殼而出，巨型能量反應爐在全身各處接連點燃。船翼翻轉化為厚重的裝甲肩甲，引擎則蛻變為沿背部排列的發光推進系統。這尊擎天巨神般的守護機甲以地球為背景緩緩展開身軀，睜開璀璨雙眼，徐徐轉向遠方逼近的外星艦隊。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112487211350339584/img/hd6zzmY_6HQKI_Oj.jpg" width="600" alt="星際太空船機器人變身">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12850)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2112488408937300278) | **發布時間:** Oct 20, 2026
-
----
-### 聖經作家圖像編輯提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於將圖像中的摩西替換為女性作家的詳細編輯提示，包含具體的視覺元素。
-
-#### 📝 提示詞
-
-```
-專業編輯這張圖片：將摩西替換為一位來自聖經時代的優雅女作家，讓她坐在前景的一張小木桌前，正以羽毛筆書寫。在她上方放置一個清晰雅緻的標牌，上面寫著「¿A quién enviaré?」。展現她的思緒……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112467072164724736/img/_mnCCXISwUPY5r09.jpg" width="600" alt="聖經作家圖像編輯提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12858)**
-
-**作者:** [Gacela Hadassah](https://x.com/esther_san41998) | **來源:** [Link](https://x.com/esther_san41998/status/2112467092498784285) | **發布時間:** Oct 20, 2026
-
----
-### 日出自然場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 影片提示詞，描述日出時分群山間的景象，鹿群躍動、鳥兒鳴唱。
-
-#### 📝 提示詞
-
-```
-❤️🇺🇸🌏
-
-旭日自群山間冉冉升起，松林蒼翠，鳥語啁啾；公鹿與母鹿輕盈躍過岩石，奔入森林深處
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112422436566425600/img/igFEX3DPb1fsem8L.jpg" width="600" alt="日出自然場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12795)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2112422511124332928) | **發布時間:** Oct 20, 2026
-
----
-### Grok Imagine 飛行摩托車變身影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 影片生成提示詞，描述一個時尚金屬行李箱在未來感機場機庫內變身為飛行摩托車的場景。
-
-#### 📝 提示詞
-
-```
-一只流線型的金屬行李箱，靜靜佇立在充滿未來感的機場機庫中。磁力鎖解開的瞬間，數百片精密打造的裝甲面板向外展開，隱藏於核心的機械臂也隨之伸展而出。輪組翻轉就位、車架延展拉長，底盤下方的雙反重力推進器同步啟動。這台組裝完成的飛行摩托車無聲升起，在半空中俐落旋轉，隨即加速衝出機庫大門，駛入一片充滿未來氣息的天際線。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112363828638105600/img/OJDQgZoF26_gumFt.jpg" width="600" alt="Grok Imagine 飛行摩托車變身影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12861)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2112364398350311506) | **發布時間:** Oct 20, 2026
-
----
-### 未來太空港交通影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片提示，要求根據藝術家 Kendreik 的風格創建太空港場景，展示通往月球的未來交通。
-
-#### 📝 提示詞
-
-```
-根據藝術家 kendreik（@kendreik）發布的太空港影片，這些兩個月前推出的最新影片，呈現了太空港以及未來往返太空與月球的交通景象。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112350647458680832/img/_Ey09YjuJAQ21mx2.jpg" width="600" alt="未來太空港交通影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12797)**
-
-**作者:** [KENDREIK Artist](https://x.com/kendreik) | **來源:** [Link](https://x.com/kendreik/status/2112350668766011750) | **發布時間:** Oct 20, 2026
-
----
-### Tesla Roadsters 穿梭於太空港的交通景象
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段關於未來太空港場景的詳細影片提示，包含蜿蜒道路、Tesla Roadsters 以及充滿活力的氛圍。
-
-#### 📝 提示詞
-
-```
-展現這座太空港內部的交通景象：蜿蜒的道路一路向上延伸，全新的 Tesla Roadster 沿著道路駛向頂層城市；道路上充滿生機，並為人們提供含氧的舒適大氣環境。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112348654698635264/img/C-h7uSEh_YcO9tLX.jpg" width="600" alt="Tesla Roadsters 穿梭於太空港的交通景象">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12796)**
-
-**作者:** [KENDREIK Artist](https://x.com/kendreik) | **來源:** [Link](https://x.com/kendreik/status/2112348687657521352) | **發布時間:** Oct 20, 2026
-
----
-### Grok Imagine RGB 萬神殿神話
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 史詩級神話插畫與影片提示詞，描繪宇宙虛空中以原色為主題的數位神明。
-
-#### 📝 提示詞
-
-```
-創作一幅宏偉壯麗的神話史詩插畫，描繪 RGB Pantheon——掌管原色的遠古數位眾神。畫面置身於浩瀚的宇宙數位虛空之中，四周漂浮著霓虹般的紅、綠、藍光束、水晶神殿，以及閃耀的 RGB 光球。中央...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112343317006729216/img/mN-4edjzYM5xIQIo.jpg" width="600" alt="Grok Imagine RGB 萬神殿神話">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12803)**
-
-**作者:** [Christopher Kulbida](https://x.com/TheWhySpirit) | **來源:** [Link](https://x.com/TheWhySpirit/status/2112343610943476076) | **發布時間:** Oct 20, 2026
-
----
-### Grok Imagine 提示詞：加入其他馬匹與騎師
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一段簡短的影片提示詞，指示 Grok Imagine 基於現有影像生成新影片，並加入其他馬匹與騎師。
-
-#### 📝 提示詞
-
-```
-請根據提供的圖片，使用以下提示詞：「Add other horses and jockeys too」，並搭配下列設定（480p、10s）為我生成一支新影片。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112331735006629888/img/IAGxVzDEnHP9KWap.jpg" width="600" alt="Grok Imagine 提示詞：加入其他馬匹與騎師">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12804)**
-
-**作者:** [ブラフマー🌏🍏👑](https://x.com/makoto_so) | **來源:** [Link](https://x.com/makoto_so/status/2112331777843052899) | **發布時間:** Oct 19, 2026
-
----
-### 貓咪付錢給西施犬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段幽默的影片提示：一隻貓將信用卡交給西施犬，而西施犬則詢問 PIN 碼。
-
-#### 📝 提示詞
-
-```
-讓貓咪拿出一張信用卡，遞給西施犬。接著讓西施犬問：「Simba 先生，請問有密碼嗎？」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112308018196971520/img/TKe85uU57iMFRR8V.jpg" width="600" alt="貓咪付錢給西施犬">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=12802)**
-
-**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **來源:** [Link](https://x.com/Soaring2TheMoon/status/2112308141769589093) | **發布時間:** Oct 19, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2956,6 +3034,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-31T05:15:05.348Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-31T14:47:28.129Z</sub>
 
 </div>
