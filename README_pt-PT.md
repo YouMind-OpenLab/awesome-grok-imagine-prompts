@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3278** |
+| 📝 Total Prompts | **3297** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-01** |
 
@@ -189,6 +189,442 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Vídeo de Drácula Comandando Guerreiros
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar uma cena de vídeo de Drácula em frente ao seu castelo, comandando os Guerreiros Samhain no Halloween.
+
+#### 📝 Prompt
+
+```
+Drácula de pé diante do seu castelo, comandando os seus Samhain Warriors no Halloween
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116750122407112705/img/LkyeIgY6rv7-W6H5.jpg" width="600" alt="Vídeo de Drácula Comandando Guerreiros">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13334)**
+
+**Author:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **Source:** [Link](https://x.com/TheEerieHollows/status/2116750160755642621) | **Published:** Nov 1, 2026
+
+---
+### Vídeo do Dragão e Fênix Yin Yang
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo poético que descreve fogo e gelo girando para formar um símbolo yin-yang, criando uma híbrida de dragão/fênix.
+
+#### 📝 Prompt
+
+```
+Fogo e gelo giram num yin e yang para criar um dragão, como uma fénix a renascer das cinzas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116684271599628289/img/JzUuAIADKSQi1RBs.jpg" width="600" alt="Vídeo do Dragão e Fênix Yin Yang">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13333)**
+
+**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116684377266725060) | **Published:** Nov 1, 2026
+
+---
+### Cena de Carrossel e Balão
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo cinematográfico para o Grok Imagine, descrevendo uma menina assistindo a um carrossel com um balão voando.
+
+#### 📝 Prompt
+
+```
+O carrossel gira de forma inquietante ao som de uma música tensa, enquanto um caleidoscópio de luzes encanta a noite. O balão da menina escapa-lhe das mãos, levado pelo fascínio daquela cena.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116683992468688896/img/u84EgcDPKvBVgZx-.jpg" width="600" alt="Cena de Carrossel e Balão">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13329)**
+
+**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116684122496368759) | **Published:** Nov 1, 2026
+
+---
+### Vídeo de Dança da Vitória do Pavão
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo de um pavão orgulhoso exibindo-se e dançando ao som de música indiana.
+
+#### 📝 Prompt
+
+```
+O pavão todo vaidoso desfila por aí como se fosse o dono do pedaço. A sua dança da vitória tem música indiana de fundo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116683628768006144/img/W8FxcCtxtkq73qyy.jpg" width="600" alt="Vídeo de Dança da Vitória do Pavão">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13336)**
+
+**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116683745118040531) | **Published:** Nov 1, 2026
+
+---
+### Cavalo Galopando com Rastro Colorido
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de geração de vídeo para Grok Imagine retratando um cavalo galopando galantemente, deixando um rastro de cores e levantando poeira, seguido por uma manada de cavalos semelhantes.
+
+#### 📝 Prompt
+
+```
+O cavalo galopa garbosamente, deixando um rastro de cores e levantando poeira com os cascos, à frente de uma manada de cavalos iguais que o segue de perto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116683079687540736/img/TiCIbgwiI_AqjVZQ.jpg" width="600" alt="Cavalo Galopando com Rastro Colorido">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13338)**
+
+**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116683173350474086) | **Published:** Nov 1, 2026
+
+---
+### Bailarina girando para splash de página
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo criativo para o Grok Imagine, onde uma bailarina gira ao som de sinfonias e salta para uma página em um respingo de cores.
+
+#### 📝 Prompt
+
+```
+A bailarina gira ao som de uma sinfonia de notas e salta para dentro da página numa explosão de cores.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116682814477467649/img/4fgUeVjuAmvJWFUX.jpg" width="600" alt="Bailarina girando para splash de página">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13340)**
+
+**Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116682864041553922) | **Published:** Nov 1, 2026
+
+---
+### Cleópatra Chorando ao Ver Marco Antônio Partir
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo dramático para o Grok Imagine mostrando Cleópatra chorando enquanto assiste a Marco Antônio partir para lutar pela última vez.
+
+#### 📝 Prompt
+
+```
+Cleópatra em lágrimas ao ver o seu Marco António partir para a última batalha
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116636125209006080/img/JtgZ1BtuDYGZpeJt.jpg" width="600" alt="Cleópatra Chorando ao Ver Marco Antônio Partir">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13339)**
+
+**Author:** [Christi McGuffey](https://x.com/crermc7) | **Source:** [Link](https://x.com/crermc7/status/2116636143051788391) | **Published:** Oct 31, 2026
+
+---
+### Parada brusca em curva na rodovia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt que instrui um personagem a dirigir em círculos em uma rodovia e parar com um guincho de pneus.
+
+#### 📝 Prompt
+
+```
+Faça-a dirigir em círculos no meio da rodovia e parar cantando pneu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116632577284972544/img/4D9gnngL0-O7DHXb.jpg" width="600" alt="Parada brusca em curva na rodovia">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13337)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2116632597333959048) | **Published:** Oct 31, 2026
+
+---
+### Prompt de Vídeo: Dança de Vampiros e Zumbis
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo do Grok Imagine apresentando vampiros e zumbis dançando enquanto alguém toca um solo.
+
+#### 📝 Prompt
+
+```
+Vampiros e zombies juntam-se à festa enquanto ele arrasa num solo incrível, e todos dançam num frenesim
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116627246517493761/img/52FuPwOYzGOZmXIE.jpg" width="600" alt="Prompt de Vídeo: Dança de Vampiros e Zumbis">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13335)**
+
+**Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2116627359642362230) | **Published:** Oct 31, 2026
+
+---
+### Prompt de Vídeo Retrato de Quarto
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt truncado para gerar um vídeo de 10 segundos de uma mulher deitada na cama, especificando detalhes de traços faciais, roupas, consistência e iluminação. O texto é interrompido no meio da frase.
+
+#### 📝 Prompt
+
+```
+Prompt em chinês (10,00 segundos)
+Personagem
+• Rosto: Seguir integralmente; traços faciais, formato do rosto e cor do cabelo baseados na foto de rosto; manter o mesmo rosto ao longo de toda a cena; cabelos longos pretos puros espalhados de forma solta sobre o travesseiro, com uma mecha solta caindo à frente da bochecha direita; maquiagem leve com blush rosa e lábios vermelhos; sem colares ou joias.
+• Roupas e corpo: Seguir integralmente; camisola de renda cinza-arroxeada com cardigã de manga longa e ombros em renda da mesma cor; estilo, cores e proporções corporais inalterados.
+• Consistência: O rosto e as roupas da personagem não devem mudar em nenhum momento; expressões naturais e reais, sem exageros.
+
+Cenário: Quarto interno, personagem semirreclinada com a cabeça apoiada num travesseiro branco de textura em tricô; por baixo e ao lado dela, um cobertor cinza de pelúcia longa; almofada bege no lado esquerdo do enquadramento; ao fundo, cabeceira cinza-escuro. Iluminação: Luz interna quente e suave, luz principal vinda de cima ligeiramente...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116573763198480385/img/WbVZwj9MnMDo4Y0X.jpg" width="600" alt="Prompt de Vídeo Retrato de Quarto">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13344)**
+
+**Author:** [magic](https://x.com/bingo967218) | **Source:** [Link](https://x.com/bingo967218/status/2116573833096466885) | **Published:** Oct 31, 2026
+
+---
+### Vídeo de Transformação de Armadura de Combate Sci-Fi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt estruturado altamente detalhado para gerar um vídeo de ficção científica com armadura de combate modular que se transforma e implanta armas, incluindo instruções específicas de estilo visual, câmera e som.
+
+#### 📝 Prompt
+
+```
+[Objetivo de Geração]
+Gere um vídeo de armadura de combate Sci-Fi Transformations de outro nível. O elemento central é uma armadura de combate modular avançada, totalmente equipada com armas integradas, e o evento principal é a montagem, transformação e ativação de todo o seu arsenal em uma sequência dinâmica de prontidão para o combate.
+
+[Roteiro do Evento]
+No início: Uma base exoesquelética elegante e de alta tecnologia repousa em um hangar metálico escuro, inerte e compacta.
+Evento principal: A armadura se transforma rapidamente, camada por camada — placas sobrepostas de fibra de carbono e metal líquido se encaixam com precisão, formando um traje de combate de nova geração que cobre o corpo inteiro, com condutores de energia brilhantes, servomotores reforçados nas articulações e painéis de blindagem reativa adaptativa. As armas integradas cobrem toda a estrutura: canhões de plasma duplos montados nos antebraços se estendem e travam, cápsulas de mísseis nos ombros se erguem e são ativadas, um railgun de alta energia nas costas se desdobra com canos rotativos, projetores de feixe na cintura são acionados, lâminas de pulso e facas de combate com fio de nanites saltam e travam no lugar, enquanto os propulsores e emissores de escudo de energia ganham vida pulsando luz. O traje conclui sua transformação em uma configuração de combate absurdamente poderosa e repleta de armas, assumindo então uma postura de batalha com todos os sistemas online e armas travando alvos.
+No final: A armadura de combate Sci-Fi de outro nível, totalmente transformada, está pronta; cada arma acionada e brilhando com energia, uma silhueta imponente, mas ágil, travada em posição de combate sob a iluminação dramática do hangar.
+
+[Estilo Visual]
+Estética Sci-Fi cinematográfica ultradetalhada, com blindagem preta brilhante e cinza-arma, linhas de energia em neon ciano e laranja, elementos holográficos de HUD piscando pela superfície, raios de luz volumétricos (god rays) e reflexos metálicos de alto contraste.
+
+[Câmera]
+Sequência cinematográfica com múltiplos ângulos: começa com um lento e dramático zoom de baixo para cima na estrutura inerte, corta para movimentos orbitais dinâmicos que acompanham cada segmento da armadura se encaixando e cada arma sendo acionada, e termina em um poderoso plano heroico de baixo para cima, circulando o traje totalmente armado.
+
+[Som]
+Estrondos mecânicos profundos de transformação e chiados hidráulicos, tons eletrônicos de inicialização em escala crescente, zumbidos de carregamento de armas e bipes de travamento de alvo, impactos pesados das peças da armadura se encaixando e um ronido potente de motor de combate em baixa frequência, acompanhado por um sutil crescendo da trilha sonora cinematográfica.
+
+[Manter Consistência]
+Mantenha o design da armadura coeso como um único traje de combate de outro nível, totalmente equipado com armas, durante toda a transformação — sem armas faltando, com cores de energia, materiais de blindagem e silhueta consistentes desde a forma base até o estado final pronto para a batalha.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116557500564807680/img/Ve4Cc9MaYv9q4FhW.jpg" width="600" alt="Vídeo de Transformação de Armadura de Combate Sci-Fi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13332)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116557634891649244) | **Published:** Oct 31, 2026
+
+---
+### Prompt de Vídeo Silhueta de Cavalo Gelo Derretido
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado para gerar um vídeo macro realista de cristais de gelo em uma janela derretendo em gotas d'água, revelando silhuetas de cavalos antes de clarear para mostrar as luzes quentes da rua do lado de fora. Inclui instruções específicas de cronologia e restrições negativas.
+
+#### 📝 Prompt
+
+```
+Assunto:
+Vista noturna interior através de vidro simples: cristais de geada densos, úmidos e frios formam naturalmente a silhueta vaga de uma manada de cavalos (aproximadamente vários, sem ser possível contá-los individualmente com clareza) — ainda o brilho real dos cristais de geada, não cavalos em adesivo ou formas esculpidas. Começa totalmente sem derreter; o primeiro quadro é geada pura, sem mostrar a borda superior do radiador. No geral, lê-se como uma tendência de silhueta de cavalo, mas as bordas são todas penugem cristalina semelhante a samambaias/galhos, sem buscar "contar claramente sete cavalos". Após cerca de dois segundos, a borda superior do radiador aparece na parte inferior da tela; poeira de ondas de calor sobe da borda inferior, provocando um derretimento viscoso e contínuo: a mesma linha de frente orgânica sobe quadro a quadro de baixo para cima, a frente é a mesma ponta dentada subindo, o espaçamento entre os dentes muda continuamente, absolutamente não é uma borda brilhante varrendo a imagem; atrás dela, deixa uma película de água legível, úmida e espelhada, seguida por gotas de água claras e quase redondas que escorregam pelo mesmo vidro devido à gravidade. Onde a geada recua, um escudo de luz quente amarelo-sódio da rua lá fora brilha através do vidro. Sem mãos humanas, folhas de bordo, martelos, ídolos ou figuras; sem closes de válvulas de latão ou conexões de tubulação.
+
+Ambiente:
+9:16 macro extremo travado num pedaço de vidro, ligeiramente de cima, coaxial durante toda a cena. Quando a geada está completa, o exterior é uma noite azul fria; o amarelo quente infiltra-se perto da borda superior do radiador; após o recuo da geada, as luzes quentes da rua brilham através do vidro molhado. Não cortar para outra janela.
+
+Clima:
+Legato de descompressão pelo aquecimento — flash frio, respiração suspensa, um empurrão cremoso de derretimento, gotas de água suaves, calor silencioso a assentar.
+
+Som: Dizer apenas uma vez para todo o segmento — chiado da superfície de geada, zumbido do aquecedor, chiado do derretimento, toque das gotas de água, ruído ambiente silencioso da sala; sem música, sem diálogo.
+
+Linha do tempo:
+0:00-0:02: Macro extremo travado, coaxial. Cristais de geada úmidos e frios preenchem imediatamente a tela, vagamente lidos como silhuetas de cavalos contra um azul profundo; ainda sem radiador na parte inferior. Único movimento: brilho úmido e frio rastejando lentamente pelas bordas dos cristais — os cristais permanecem sólidos; a tendência da silhueta não se desloca nem se transforma noutros animais, mas não exigir clareza individual. Sem pingar, sem calor, sem mostrar a borda superior do radiador.
+SFX: Chiado fraco de gelo e geada
+
+0:02-0:04: Coaxial, mesma camada de geada. Borda superior do radiador agora visível na parte inferior; partículas de poeira amarelas quentes e fitas de ondas de calor sobem continuamente dessa borda. O calor sobe, as sombras superiores da geada em forma de cavalo permanecem completas — sem frente de derretimento, sem pingar, sem tubos de válvulas. Breve suspensão da respiração no final do plano.
+SFX: Zumbido suave do aquecedor
+
+0:04-0:07: Travamento coaxial. A borda inferior revela primeiro uma frente de derretimento orgânica, depois sobe continuamente como creme pegajoso — a ponta da frente realmente se desloca quadro a quadro, a mesma ponta dentada subindo continuamente, absolutamente não um derretimento em blocos horizontais escalonados, absolutamente não uma dissipação instantânea de luz, absolutamente não uma varredura de borda brilhante; as formas dos cavalos dissolvem-se naturalmente à medida que a geada afina, absolutamente não mantendo a forma de cavalo separadamente sem derreter ou um bloco inteiro desaparecendo instantaneamente. Sob a frente, o vidro úmido e brilhante expande-se, arrastando reflexos da película de água. A borda superior do radiador permanece apenas como uma faixa metálica quente na borda inferior, o contorno desvanece-se à medida que a legibilidade do vidro molhado diminui — absolutamente não deformando, brilhando como uma lâmpada ou transformando-se em contas. No final deste plano, o mesmo vidro tem película de água e gotas formadas.
+SFX: Chiado suave de derretimento; primeiros toques de gotas de água
+
+0:07-0:09: Mesmo vidro molhado contínuo, mesma luz. Gotas de água claras e quase redondas formam filetes finos que escorregam pela gravidade, ou tremem levemente antes de escorregar — o trajeto é contínuo, absolutamente não o rastro de água inteiro aparecendo instantaneamente. Os reflexos espelhados rolam com o fluxo da água. O impulso assenta num deslizamento extremamente lento + microrrolamento dos reflexos; a ponta da frente quase para, mas ainda apresenta um rastejar subpixel — proibido congelar numa sensação estática ao longo de toda a cena. Sem novo derretimento, sem recongelamento.
+SFX: Toque de gota de água -> silêncio curto
+
+0:09-0:10: Mesmo vidro molhado contínuo. Ligeiro avanço ótico de não mais de 8% entra na área transparente; a geada deixa pontas residuais orgânicas irregulares e bordas duras e úmidas cruzando a metade inferior — absolutamente não uma faixa horizontal larga e alinhada, absolutamente não um buraco de fechadura elíptico, absolutamente não um adesivo com a forma completa de cavalo remanescente; a geada residual já não é legível como uma forma completa de cavalo. A luz quente amarelo-sódio da rua é claramente legível através do vapor de água; parar ao ver o calor.
+SFX: Ruído ambiente silencioso da sala
+
+Estilo: Descompressão macro realista, física de vidro molhado, confronto frio-quente, plano único; o grupo de cavalos apenas como uma sensação natural de silhueta de cristais de geada, não perseguir sete cavalos contáveis.
+
+Negativo: Não derreter antes do aquecimento começar; sem derretimento horizontal escalonado; sem varredura de borda brilhante; sem dissipação instantânea de luz; sem aparecimento instantâneo de gotas/rastros de água; sem vidro fosco seco após o derretimento; sem congelamento quase estático no segmento final; sem saltos de eixo; sem segunda janela; sem buraco de fechadura elíptico; sem faixa residual larga e alinhada; sem válvulas de latão ou conexões de tubulação; sem radiador deformando-se numa cena de rua desfocada; sem formas completas de cavalos em adesivo/desenho/escultura; sem manter a forma de cavalo sem derreter durante o derretimento; sem sete cavalos esculpidos claramente contáveis; sem mãos humanas, folhas de bordo, martelos, ídolos; sem música ou diálogo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116551528156954625/img/neNTetN8llirsF08.jpg" width="600" alt="Prompt de Vídeo Silhueta de Cavalo Gelo Derretido">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13343)**
+
+**Author:** [夏天爱福利](https://x.com/xiantian_xigua) | **Source:** [Link](https://x.com/xiantian_xigua/status/2116551653143007625) | **Published:** Oct 31, 2026
+
+---
+### Equipe de Cães de Trenó na Natureza Selvagem
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para geração de vídeo no Grok Imagine, apresentando cães de trenó Pequinês e Yorkshire Terrier conduzidos por um elfo em uma paisagem congelada.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo de uma equipe de cães de trenó das raças Pequinês e Yorkshire, puxando um pequeno trenó conduzido por um elfo, através de uma paisagem congelada e selvagem
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116551100786749440/img/cmscFmnKWfpJqRBX.jpg" width="600" alt="Equipe de Cães de Trenó na Natureza Selvagem">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13328)**
+
+**Author:** [Richard Russell](https://x.com/zzenrocker) | **Source:** [Link](https://x.com/zzenrocker/status/2116551158043123741) | **Published:** Oct 31, 2026
+
+---
+### Optimus Prime steampunk: dia de folga no lago
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de texto para vídeo focado em personagem, imaginando Optimus Prime relaxando à beira de um lago com um traje steampunk.
+
+#### 📝 Prompt
+
+```
+O Optimus quis imaginar um dia de folga no lago, vestido com o seu traje e máscara steampunk
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116535479495806977/img/BlXUjJ9Lx_KnB9jR.jpg" width="600" alt="Optimus Prime steampunk: dia de folga no lago">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13330)**
+
+**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2116535497728328019) | **Published:** Oct 31, 2026
+
+---
+### Cena do Banco com Cabeça de Abóbora
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma descrição narrativa de uma cena de Halloween onde uma mulher se junta a um visitante com cabeça de abóbora em um banco molhado pela chuva, destinada como prompt de vídeo para o Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Alguns monstros só querem alguém para sentar ao seu lado.
+
+Uma mulher de borgonha junta-se ao nosso visitante com cabeça de abóbora num banco molhado pela chuva. Dois sorrisos cor de âmbar brilham enquanto se encostam um no outro.
+
+SOMEONE LIKE YOU — Bónus do Dia 6
+Desafio Grok Imagine (@grok). Ficção com IA.
+
+Nota do experimento: as duas abóboras acendem juntas antes de se inclinarem, em vez de apenas a dele acender depois.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116524277914554368/img/QPEjtoGl10Fh6RPK.jpg" width="600" alt="Cena do Banco com Cabeça de Abóbora">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13327)**
+
+**Author:** [Fenix AI Cinema](https://x.com/aiproducers) | **Source:** [Link](https://x.com/aiproducers/status/2116524811694248233) | **Published:** Oct 31, 2026
+
+---
+### Prompt de Vídeo de Transformação do Optimus Prime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt complexo para gerar um vídeo de transformação sci-fi de alta energia, onde uma mulher se transforma em um robô Optimus Prime feminino, incluindo instruções específicas de consistência visual.
+
+#### 📝 Prompt
+
+```
+[Objetivo da Geração]
+Gere um vídeo de transformação Sci-Fi de alto nível e energia máxima. O tema central é uma mulher que se transforma em um Optimus Prime com o mesmo esquema de cores.
+
+[Roteiro do Evento]
+No início: Uma mulher imponente está de pé, centralizada em um hangar industrial Sci-Fi escuro, com faíscas e partículas de energia azul flutuando ao seu redor. Ela ativa a transformação, seu corpo travando em uma postura rígida enquanto costuras brilhantes e placas geométricas de luz surgem por sua pele e roupas.
+Evento principal: Sua forma se expande e se reestrutura com conjuntos mecânicos em cascata. Painéis de armadura exatamente da mesma cor do Optimus Prime (vermelho e azul com detalhes em prata) se desdobram e se encaixam sobre seu corpo. Sua cabeça se reconstrói no icônico capacete do Optimus Prime, o peito na grade do caminhão e no símbolo dos Autobots, os braços e as pernas em membros robóticos pesados, todos mantendo o mesmo esquema de cores vermelho-azul-prata. A energia da transformação irrompe para fora em ondas de luz e plasma. A sequência atinge seu ápice quando as últimas peças se fecham com um estalo.
+No final: Ela está de pé, totalmente transformada em uma versão feminina do Optimus Prime com as mesmas cores — uma silhueta colossal e heroica, faróis acesos, grade no peito completa e o símbolo dos Autobots iluminado. Ela ergue um braço em uma pose de vitória imponente, enquanto a energia residual crepita ao seu redor.
+
+[Manter Consistência]
+Mantenha a continuidade da identidade original dela durante toda a transformação, o exato esquema de cores vermelho-azul-prata do Optimus do início ao fim, sem alteração de gênero ou distorção da silhueta após a conclusão, efeitos contínuos de partículas de energia e o ambiente do hangar industrial Sci-Fi estabilizado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116487312762880000/img/fiUXRyqkRubw7VtY.jpg" width="600" alt="Prompt de Vídeo de Transformação do Optimus Prime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13341)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116487554945986671) | **Published:** Oct 31, 2026
+
+---
+### Prompt de Vídeo Grok Imagine Cosplay Asuna
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt de vídeo para o Grok Imagine apresentando uma personagem em cosplay estilo Asuna. Gerado por meio de instruções do Gemini, ele descreve uma sequência de 15 segundos com 4 cenas focadas nos movimentos superiores do corpo e uma piscadela final.
+
+#### 📝 Prompt
+
+```
+🎬 Instruções para o Diretor Gemini
+Por favor, crie um prompt em japonês para um vídeo de 15 segundos (a 4ª cena tem 3 segundos de duração) que utilize com maestria as três imagens enviadas (corpo inteiro, close-up e plano médio) para fazer a transição entre 4 cenas. Altere para "poses chamativas com movimento da parte superior do corpo a cada 4 segundos (2 poses por cena), baseadas nos elementos situacionais das imagens". Termine com um close-up, uma pose decisiva e uma piscadela com um olho. A BGM deve transmitir a sensação de um violão acústico acolhedor e um piano acústico suave e calmo.
+
+Por favor, mantenha a consistência no rosto e no penteado da pessoa. Não é necessário gerar imagens nem vídeos.
+
+No prompt, substitua Imagem 1 (corpo inteiro) por @Image1, Imagem 2 (close-up) por @Image2 e Imagem 3 (plano médio) por @Image3.
+
+🎥 Prompt de Vídeo (Grok Imagine)
+[Configurações Gerais e Consistência]
+ * Personagem/Figurino: Uma mulher de @Image1 (corpo inteiro), @Image2 (close-up) e @Image3 (plano médio). Mantenha total consistência no rosto, no penteado e no figurino de estilo fantasia.
+ * BGM: Som suave de um violão acústico acolhedor e de um piano acústico calmo.
+ * Movimento Geral: Desenvolva poses dinâmicas centradas na parte superior do corpo.
+[Composição das Cenas]
+ * Cena 1 (0-4s / Corpo Inteiro - Baseada em @Image1)
+   * 0-2s: Partindo de uma posição em que está com a mão apoiada no batente da porta, ela sorri suavemente para a câmera e inclina a cabeça.
+   * 2-4s: Ela apoia levemente a mão no punho da espada à cintura e assume uma pose imponente, com o peito estufado.
+ * Cena 2 (4-8s / Plano Médio - Baseada em @Image3)
+   * 4-6s: Ela junta as mãos à frente do peito, inclina levemente a cabeça e dá um sorriso suave.
+   * 6-8s: Ela joga o cabelo para trás com uma das mãos e olha diretamente para a câmera.
+ * Cena 3 (8-12s / Plano Americano - Baseada em @Image2)
+   * 8-10s: Ela faz um pequeno aceno com a mão ao lado do rosto, em direção à câmera.
+   * 10-12s: De uma expressão pensativa, com as pontas dos dedos no queixo, ela muda repentinamente para um sorriso radiante.
+ * Cena 4 (12-15s / Close-Up - Pose Decisiva)
+   * 12-15s: A câmera se aproxima rapidamente para um close-up do rosto. Enquanto faz um sinal de coração ou de paz com a mão, ela dá uma piscadela fofa com um olho e congela a pose.
+```
+
+<img src="https://cms-assets.youmind.com/media/1793518553052_pt5a9o_HV79iB5a4AAFrVM.jpg" width="600" alt="Prompt de Vídeo Grok Imagine Cosplay Asuna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13345)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2116474007780561339) | **Published:** Oct 31, 2026
+
+---
+### Abóboras Saltitantes em Marte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de geração de vídeo apresentando abóboras saltitantes em Marte e uma rede capturando-as.
+
+#### 📝 Prompt
+
+```
+Uma grande rede aparece e os recolhe
+As Abóboras Saltitantes de Marte
+Feliz Halloween, terráqueos! 🤗🎈🎃🎃
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116469301922123777/img/KsdqkQbOAhKBudYv.jpg" width="600" alt="Abóboras Saltitantes em Marte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13331)**
+
+**Author:** [marie roche](https://x.com/mariero45502253) | **Source:** [Link](https://x.com/mariero45502253/status/2116469387188191705) | **Published:** Oct 31, 2026
+
+---
 ### Roteiro de Vídeo de Transformação de Energia
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -398,6 +834,25 @@ Crie uma imagem e um vídeo surrealistas e cinematográficos desta frase… Cons
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13259)**
 
 **Author:** [TRUEDANE](https://x.com/REALTRUEDANE) | **Source:** [Link](https://x.com/REALTRUEDANE/status/2116268627964125417) | **Published:** Oct 30, 2026
+
+---
+### Prompt de Edição de Foto para o Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um conjunto detalhado de instruções para usar o Grok Imagine para editar uma foto enviada, preservando a identidade e os traços faciais.
+
+#### 📝 Prompt
+
+```
+Use a foto enviada como referência exata do personagem. Preserve perfeitamente o rosto e a identidade da pessoa — mesma estrutura facial, formato e cor dos olhos, nariz, lábios, linha do maxilar, maçãs do rosto, testa, tom de pele, poros, textura sutil da pele e traços faciais únicos
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116237598733598720/img/Cbz1YRvD2dBhc7Hf.jpg" width="600" alt="Prompt de Edição de Foto para o Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13342)**
+
+**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2116265801279795385) | **Published:** Oct 30, 2026
 
 ---
 ### Transformação de Dragão de Arame para Borboleta e Beija-Flor
@@ -2647,397 +3102,6 @@ Uma figura solitária está de pé num beco encharcado pela chuva e iluminado po
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113287133167239203) | **Published:** Oct 22, 2026
 
 ---
-### Geração Precisa de Vídeo com Sincronização Labial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para criar um vídeo com sincronização labial usando uma imagem de referência de identidade e fonte de áudio, com instruções específicas sobre o movimento da boca e a clareza das consoantes.
-
-#### 📝 Prompt
-
-```
-Use a imagem anexada como referência exata de identidade.
-Use o áudio anexado como fonte exata para o lip-sync.
-
-Lip-sync:
-- Sincronização precisa das sílabas
-- Mantenha a abertura da boca subtil e estreita durante todo o vídeo; nunca abra muito
-- Consoantes nítidas através do movimento dos lábios
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113216625063419904/img/TLjNUGrkce2fBVDT.jpg" width="600" alt="Geração Precisa de Vídeo com Sincronização Labial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12958)**
-
-**Author:** [レイヴ](https://x.com/raves9361) | **Source:** [Link](https://x.com/raves9361/status/2113216645950775792) | **Published:** Oct 22, 2026
-
----
-### Cena de Alienígena Dando um Tapinha em Mark Zuckerberg
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de vídeo para o Grok Imagine gerando uma cena fictícia de ficção científica onde um alienígena dá um tapinha em Mark Zuckerberg na pista de um aeroporto, com ênfase em física realista e movimento de câmera.
-
-#### 📝 Prompt
-
-```
-Cena cinematográfica de ficção científica ultrarrealista no pátio de um aeroporto militar, fiel à imagem de referência. Um alienígena alto e intimidador está posicionado à esquerda de Mark Zuckerberg, encarando-o de muito perto. De repente, o alienígena desfere um tapa no rosto de Zuckerberg com a mão. Zuckerberg perde o equilíbrio, cambaleia para trás e cai no chão de concreto. Os seguranças reagem em choque enquanto outros alienígenas observam tudo. Mantenha o alienígena à esquerda durante toda a ação. Física corporal realista, tremor de câmera dramático, iluminação cinematográfica, expressões faciais detalhadas, realismo em 4K, formato vertical 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113212610980298752/img/UwIEAzUJh2qlyN1q.jpg" width="600" alt="Cena de Alienígena Dando um Tapinha em Mark Zuckerberg">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13152)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113213049255731339) | **Published:** Oct 22, 2026
-
----
-### Ilustração de Dragão e Mulher Nepalesa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de vídeo/imagem para uma ilustração em pontilhismo, apresentando um dragão dourado e uma mulher nepalesa vestida com trajes tradicionais.
-
-#### 📝 Prompt
-
-```
-Estilo de livro ilustrado, ilustração em pontilhismo de um dragão dourado e ornamentado com padrões — amigável, poderoso e doce, com contornos de escamas vermelhas — e uma adorável senhora do Nepal em traje tradicional, interagindo com ele de forma afetuosa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113190635746537472/img/QdkqV2UFMD-JSL7L.jpg" width="600" alt="Ilustração de Dragão e Mulher Nepalesa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12960)**
-
-**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2113190653870125111) | **Published:** Oct 22, 2026
-
----
-### Prompt de Vídeo Grok Imagine - Desfile de Halloween
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para geração de vídeo no Grok Imagine, apresentando personagens dançando e cantando em um cenário de desfile de Halloween.
-
-#### 📝 Prompt
-
-```
-Crie-os a dançar e a cantar a música de boas-vindas ao Halloween no desfile de Halloween
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113149705920172032/img/iP16iU7191e21OjE.jpg" width="600" alt="Prompt de Vídeo Grok Imagine - Desfile de Halloween">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12898)**
-
-**Author:** [Tim](https://x.com/timmmy335) | **Source:** [Link](https://x.com/timmmy335/status/2113149726820601962) | **Published:** Oct 22, 2026
-
----
-### Transformação em Armadura Cibernética de Motocicleta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico detalhado mostrando uma mulher se transformando em armadura cibernética sobre uma motocicleta personalizada.
-
-#### 📝 Prompt
-
-```
-Uma sequência de transformação cinematográfica numa movimentada rua de mercado da cidade. Uma mota personalizada hiperdetalhada com a inscrição “VULCAN” (Edição Limitada 1 de 7, Twin Turbo) encontra-se estacionada, destacando-se pelos escapes em arco-íris iridescentes, detalhes dourados, depósito vermelho e branco com o logótipo de uma coroa, mecânica à vista e faróis azuis brilhantes. Uma jovem de cabelo longo e escuro, vestindo um blusão de couro preto e um top branco, aproxima-se e pousa as mãos na mota.
-
-Assim que lhe toca, inicia-se uma transformação suave e luminosa: os seus braços transformam-se em membros cibernéticos elegantes com núcleos de energia roxa e, de seguida, a mudança espalha-se por todo o corpo, substituindo a roupa por uma armadura metálica futurista coberta de grandes luzes cristalinas facetadas em tons de roxo e azul. Faíscas e efeitos de energia irrompem à medida que a armadura se forma por completo. Ela coloca um capacete tecnológico a condizer, com viseira refletora, monta a mota e arranca pela rua fora. Os escapes da mota brilham com propulsores roxos enquanto acelera por entre bancas do mercado, toldos e peões, deixando para trás um rasto dinâmico de luz e desfoque de movimento.
-
-Estilo: vídeo de IA cinematográfico altamente polido, iluminação realista combinada com brilhos néon de ficção científica, transições de metamorfose suaves, movimentos de câmara dramáticos desde o grande plano até um plano geral de acompanhamento.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113086829318504449/img/uTfo8qn2898X8YVw.jpg" width="600" alt="Transformação em Armadura Cibernética de Motocicleta">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12900)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113086941365195023) | **Published:** Oct 22, 2026
-
----
-### Dracula: A Montaria do Dragão de Sangue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico de fantasia que retrata Dracula, vestido com armadura de cristal negro, montando um dragão de sangue através da névoa sob a luz da lua cheia.
-
-#### 📝 Prompt
-
-```
-Drácula em uma Armadura de Cristal Negro montando um Dragão de Sangue através da névoa durante a lua cheia
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113084723241144320/img/SOmcyuBliZFig8Kr.jpg" width="600" alt="Dracula: A Montaria do Dragão de Sangue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12899)**
-
-**Author:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **Source:** [Link](https://x.com/TheEerieHollows/status/2113084756179214722) | **Published:** Oct 22, 2026
-
----
-### Descoberta da Gigafactory Medieval
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um cenário de prompt criativo onde Elon Musk e o Tesla Optimus descobrem uma Gigafactory em estilo medieval, operada por anões, gerado com Grok Imagine.
-
-#### 📝 Prompt
-
-```
-POV: Elon Musk e o Tesla Optimus descobrem a Gigafactory medieval. ⚒️🔥
-
-Os anões entenderam a missão.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112967546399842304/img/yaiC0KRXZ77UznRD.jpg" width="600" alt="Descoberta da Gigafactory Medieval">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13022)**
-
-**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2112967628205539600) | **Published:** Oct 21, 2026
-
----
-### Colisão de Moto Transformadora Cyberpunk e Voo do Veículo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para geração de vídeo no Grok Imagine, descrevendo uma sequência cinematográfica de ficção científica onde duas motos blindadas colidem em uma pista de neon, transformam-se mecanicamente em um veículo estilo Tesla Cybertruck e decolam para o céu. O prompt enfatiza iluminação fotorrealista, efeitos de chuva e movimentos dinâmicos de câmera.
-
-#### 📝 Prompt
-
-```
-Dois pilotos de capacete em motos blindadas gigantescas correm um contra o outro numa pista de neon encharcada pela chuva, à noite. Colidem num violento impacto a alta velocidade. Imediatamente após o choque, ambas as motos iniciam uma dramática transformação mecânica e fundem-se num único veículo pesado ao estilo Tesla Cybertruck. O recém-formado Tesla aciona os propulsores e levanta voo da pista, subindo para o céu cyberpunk tempestuoso.
-
-Sequência cinematográfica fotorrealista de ficção científica cyberpunk estilo Transformers de alto nível, ultradetalhada, formato IMAX, 4K. Noite numa pista de aeroporto futurista molhada sob chuva intensa, com o horizonte brilhante de uma megacidade de neon ao fundo, repleta de anúncios holográficos, veículos voadores e atmosfera cyberpunk.
-
-Duas enormes motocicletas cyberpunk fortemente blindadas (preto fosco escuro com sistema hidráulico cromado exposto, linhas de energia brilhantes em ciano e magenta, detalhes mecânicos intrincados no estilo Transformers) aceleram uma na direção da outra a partir das extremidades opostas da pista. Ambos os pilotos usam capacetes high-tech integrais com viseiras reflexivas e um leve brilho de HUD, com os corpos projetados agressivamente para a frente enquanto os pneus espirram água e os motores rugem.
-
-Colidem de frente num choque brutal e de alto impacto no centro do enquadramento — o metal amassa, faíscas explodem, arcos de energia estalam e destroços voam em câmara lenta. Logo após o impacto, ambas as motos iniciam uma espetacular sequência de transformação mecânica: painéis deslocam-se e travam, componentes reconfiguram-se com precisão hidráulica, juntas luminosas acendem-se, e as duas motos destruídas fundem-se e remontam-se num único veículo massivo e pesado inspirado no Tesla Cybertruck — angular, industrial, preto fosco com superfícies de metal escovado e iluminação de destaque em vermelho.
-
-O recém-formado Tesla ganha potência, os propulsores inferiores acendem com plasma azul-branco intenso e levanta voo com força da pista. Inclina-se e acelera para a frente rumo ao céu noturno chuvoso, deixando rastros de luz, vapor e água pulverizada enquanto a cidade de neon se estende lá em baixo.
-
-Trabalho de câmara dinâmico: planos de acompanhamento baixos seguindo as motos, close-up dramático do acidente com destroços a voar na direção da lente e, em seguida, um recuo aéreo ascendente enquanto o Tesla se transforma e descola. Iluminação volumétrica, fortes traços de chuva, flares de lente provenientes dos neons e dos propulsores, metal, água, faíscas e efeitos de partículas fotorrealistas. Atmosfera épica e de alta energia com color grading cinematográfico (azuis profundos, magentas de neon, brilhos quentes dos motores).
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112950958342717440/img/6p3tZcTGg6oFH6aT.jpg" width="600" alt="Colisão de Moto Transformadora Cyberpunk e Voo do Veículo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12904)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112952172111659320) | **Published:** Oct 21, 2026
-
----
-### Revelação Cinematográfica de Produto em Movimento
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt técnico que especifica movimentos de câmera (zoom, pan) e restrições (sem rotação) para a revelação cinematográfica de um frasco de perfume.
-
-#### 📝 Prompt
-
-```
-Zoom suave e delicado da câmera com leve panorâmica lenta pelo frasco de perfume, movimento cinematográfico fluido, o produto permanece totalmente imóvel, apenas a câmera se move com uma panorâmica sutil ou zoom delicado, sem rotação, sem órbita, revelação fotorrealista do produto, silencioso
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112866031559639040/img/8FnhGc8SvZca-h56.jpg" width="600" alt="Revelação Cinematográfica de Produto em Movimento">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12901)**
-
-**Author:** [Pureそのみ](https://x.com/Pure_ctq) | **Source:** [Link](https://x.com/Pure_ctq/status/2112866052124336133) | **Published:** Oct 21, 2026
-
----
-### Encontro de Ficção Científica com Elon e Optimus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt narrativo que descreve um encontro entre Elon Musk, Optimus Prime e uma rainha oceânica fantástica em Marte.
-
-#### 📝 Prompt
-
-```
-POV: Elon e Optimus conhecem a Rainha Thalassa, governante de Nereia, a cidade oceânica escondida sob Marte. 🌊🔴
-
-Elon fez o primeiro contato. Optimus ganhou seu primeiro bichinho de estimação. 🐟🤖
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112862557614551040/img/3uT-JaGaa_EEdeaN.jpg" width="600" alt="Encontro de Ficção Científica com Elon e Optimus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12902)**
-
-**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2112862617152954798) | **Published:** Oct 21, 2026
-
----
-### Transformação de Dragão Mecânico Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo detalhado de horror cyberpunk para o Grok Imagine, onde uma mala se transforma em um dragão biomecânico sobre o telhado de uma cidade chuvosa.
-
-#### 📝 Prompt
-
-```
-Prompt de vídeo realista e cinematográfico (evolução cyberpunk de Transformers com terror):
-
-Terraço de uma megacidade cyberpunk à noite, concreto encharcado pela chuva e reflexos de neon. Um homem exausto, ensopado pela chuva e vestindo um sobretudo escuro e desgastado, está na beira de um edifício imponente. Com um gesto desesperado, ele arremessa uma pesada maleta metálica do alto do prédio. A maleta despencando pelo céu noturno e chuvoso.
-
-Em plena queda, a maleta se transforma violentamente em um horror mecânico: painéis se abrem à força, membros hidráulicos irrompem para fora, engrenagens e cabos rasgam o revestimento metálico com sons úmidos, rangentes e orgânicos. Ela se desdobra e muta rapidamente em um dragão biomecânico colossal — metade máquina, metade pesadelo. Escamas metálicas segmentadas se movem como uma armadura viva, olhos cibernéticos vermelhos e brilhantes se abrem de repente, asas de aço serrilhado e membrana translúcida se estendem com uma força capaz de quebrar ossos, e um longo pescoço avança num estalo, revelando uma mandíbula repleta de lâminas entrelaçadas. Faíscas, um fluido negro e vapor iluminado por neon explodem durante a transformação.
-
-O dragão ganha forma completa no ar e solta um rugido mecânico e distorcido que se mistura às sirenes deformadas da cidade, mergulhando ou sobrevoando o local em círculos com uma ameaça predatória. Atmosfera industrial, escura e úmida. Detalhes extremos nas texturas metálicas, na chuva, nos reflexos e na beleza grotesca da transformação. Filmado com lente anamórfica cinematográfica, ênfase em câmera lenta durante a transformação, câmera dinâmica de acompanhamento que segue a maleta enquanto cai e se torna o dragão. Iluminação neon de alto contraste (ciano, magenta, vermelho profundo), chuva volumétrica, raios de luz volumétricos (god rays) vindos dos letreiros de neon, física realista, 8K, fotorrealista, tom de ficção científica e terror, evolução estilo Transformers de outro nível com uma fusão orgânico-mecânica aterrorizante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112853394557636608/img/Q0g66DublaMppRAX.jpg" width="600" alt="Transformação de Dragão Mecânico Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12903)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2112853596421406720) | **Published:** Oct 21, 2026
-
----
-### Zoom Cinematográfico Lento em Laptop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt preciso de movimento de câmera para um zoom lento em um laptop gamer com fundo estático.
-
-#### 📝 Prompt
-
-```
-Zoom in suave, delicado e lento no laptop gamer preto em um ângulo de 45 graus, apenas movimento de câmera cinematográfico e fluido, produto e fundo completamente estáticos, sem rotação, sem órbita, revelação fotorrealista do produto, silencioso
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112798017090625536/img/AWUm6KNP8K-8MPix.jpg" width="600" alt="Zoom Cinematográfico Lento em Laptop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12844)**
-
-**Author:** [Jacek](https://x.com/Jacek1029984002) | **Source:** [Link](https://x.com/Jacek1029984002/status/2112798047713350106) | **Published:** Oct 21, 2026
-
----
-### Cena de Fundo Vermelho Abstrato
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt JSON estruturado que define as configurações da câmera e os detalhes da cena para um vídeo com fundo vermelho abstrato.
-
-#### 📝 Prompt
-
-```
-{"shot": {"motion_level": "baixo", "camera_depth": "plano médio fechado", "camera_view": "ângulo dos olhos", "camera_movement": "plano estático"}, "scene": {"location": "fundo vermelho abstrato", "environment": "O cenário é dominado por um fundo vermelho sólido e vibrante..."}}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112788059158958081/img/6fWorOXXx3iB63Ee.jpg" width="600" alt="Cena de Fundo Vermelho Abstrato">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12852)**
-
-**Author:** [レイヴ](https://x.com/raves9361) | **Source:** [Link](https://x.com/raves9361/status/2112788079555834293) | **Published:** Oct 21, 2026
-
----
-### Mulher de Anime no Tesla Roadster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para um vídeo com uma mulher de anime entrando em um Tesla Roadster com impulso de foguete, voando sobre o trânsito.
-
-#### 📝 Prompt
-
-```
-Uma mulher de anime vestindo um top esportivo e leggings bege entrando no novo Tesla Roadster com propulsão de foguete, que decola e sobrevoa o trânsito.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112765941310222336/img/DeWpDxRZvODE8WnG.jpg" width="600" alt="Mulher de Anime no Tesla Roadster">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12848)**
-
-**Author:** [kyle smith](https://x.com/RadCyberTruck) | **Source:** [Link](https://x.com/RadCyberTruck/status/2112766018804453885) | **Published:** Oct 21, 2026
-
----
-### Transformação de Samurai Steampunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de geração de vídeo que transforma um personagem em um samurai animado steampunk, com restrições específicas de áudio.
-
-#### 📝 Prompt
-
-```
-Transforme o Hiro num samurai Shiba animado em estilo steampunk, inspirado no Kurosawa. Sem falas e com música japonesa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112754224903979008/img/eTrYjw9bbWQR_bPl.jpg" width="600" alt="Transformação de Samurai Steampunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12857)**
-
-**Author:** [Simon](https://x.com/schaniteration2) | **Source:** [Link](https://x.com/schaniteration2/status/2112754273981497746) | **Published:** Oct 21, 2026
-
----
-### Reestilização Anime Chibi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de geração de vídeo que reformula um personagem para o estilo anime chibi, preservando a semelhança facial.
-
-#### 📝 Prompt
-
-```
-Reestilize esta imagem no clássico estilo de anime chibi. Transforme o personagem principal em uma versão chibi, com cabeça grande, corpo pequeno, olhos enormes e brilhantes e proporções fofas e exageradas, preservando perfeitamente os traços exatos do seu rosto, a pele...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112744200311631872/img/wAljQaQ8N7BzzVYA.jpg" width="600" alt="Reestilização Anime Chibi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12856)**
-
-**Author:** [Shockwave48 TV](https://x.com/canyon_brown) | **Source:** [Link](https://x.com/canyon_brown/status/2112744312182047054) | **Published:** Oct 21, 2026
-
----
-### Voo de Mergulho dos Dragões no Oceano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de fantasia para um vídeo de dois dragões mergulhando sob um rebocador e voando de volta para cima.
-
-#### 📝 Prompt
-
-```
-Um dragão cinza-escuro e um dragão branco-prateado voam lado a lado sobre o oceano, mergulham nas águas, deslizam por baixo de um rebocador amarelo e voltam a alçar voo rumo ao céu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112740302830329856/img/CnXd8yw-CLSArONI.jpg" width="600" alt="Voo de Mergulho dos Dragões no Oceano">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12845)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2112740397541961918) | **Published:** Oct 21, 2026
-
----
-### Exploração Espacial com Narração Grave
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para um vídeo com narração grave sobre olhos que enxergam além da Lua e de Marte.
-
-#### 📝 Prompt
-
-```
-Com voz grave e profunda: os olhos capazes de enxergar além da Lua e de Marte, para levar a humanidade aonde nunca estivemos antes...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112728615062261760/img/OGILI4iOvDclpSFs.jpg" width="600" alt="Exploração Espacial com Narração Grave">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12853)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2112728646582735171) | **Published:** Oct 21, 2026
-
----
-### Pôr do Sol em Roadster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico para um passeio de roadster em um cenário de novo mundo durante o pôr do sol com dois sóis.
-
-#### 📝 Prompt
-
-```
-Um novo mundo explorado com o Optimus e o pequeno passeio de roadster da Kat no fim do pôr do sol duplo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112705363422367744/img/Vpq1a_pC5_VfHQS6.jpg" width="600" alt="Pôr do Sol em Roadster">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12841)**
-
-**Author:** [Cathy has this](https://x.com/lighthouse42f) | **Source:** [Link](https://x.com/lighthouse42f/status/2112705475875930480) | **Published:** Oct 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3099,6 +3163,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-01T05:50:32.324Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-01T15:07:57.922Z</sub>
 
 </div>
