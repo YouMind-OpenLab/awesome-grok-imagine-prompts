@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3297** |
+| 📝 Total Prompts | **3312** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-02** |
 
@@ -189,6 +189,250 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine Prompt: Tiệc Halloween
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc tạo video cho Grok Imagine, mô tả ba cô gái trong trang phục Halloween đang vui mừng trên đường phố.
+
+#### 📝 Prompt
+
+```
+3 cô gái trong trang phục hóa trang đang vui chơi lễ hội Halloween trên đường phố, tinh nghịch vẫy tay chào người xem
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117140720343822336/img/q8jlbnRrTvsPI7Gm.jpg" width="600" alt="Grok Imagine Prompt: Tiệc Halloween">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13407)**
+
+**Author:** [Nore - エッチなAI絵](https://x.com/Clyyinnore) | **Source:** [Link](https://x.com/Clyyinnore/status/2117140748261057006) | **Published:** Nov 2, 2026
+
+---
+### Câu lệnh tạo video Grok Imagine: Mèo nhảy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hai câu lệnh chuyển văn bản thành video cho Grok Imagine, mô tả một chú mèo mướp cam nhảy lên bậu cửa sổ, thể hiện các mô tả chuyển động khác nhau.
+
+#### 📝 Prompt
+
+```
+Một chú mèo mướp màu cam nhảy lên bậu cửa sổ đầy nắng trong một căn hộ ấm cúng, video quay bằng điện thoại cầm tay. Một chú mèo mướp màu cam đang ngồi trên sàn gỗ chùng người xuống, lắc lư hông, rồi bật nhảy một nhịp thật mượt mà lên bậu cửa sổ ngập nắng
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117111170024853505/img/lumtYOISg3OPwzMI.jpg" width="600" alt="Câu lệnh tạo video Grok Imagine: Mèo nhảy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13417)**
+
+**Author:** [能成大事](https://x.com/ncdsoffiecl) | **Source:** [Link](https://x.com/ncdsoffiecl/status/2117112032793174219) | **Published:** Nov 2, 2026
+
+---
+### Nữ Thần Mặt Trăng Đổ Nước Lên Trái Đất
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tưởng tượng thần thoại mô tả nữ thần mặt trăng tương tác với Trái Đất bằng cách đổ nước từ một chiếc bình.
+
+#### 📝 Prompt
+
+```
+Nữ thần Mặt Trăng bay lượn quanh Trái Đất, nàng khẽ cúi mình múc nước vào một chiếc bình tinh xảo rồi tưới xuống khắp địa cầu, để rồi muôn vật trên Trái Đất bừng lên sức sống.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117102288216993792/img/svNKF3J8iqFYSMs_.jpg" width="600" alt="Nữ Thần Mặt Trăng Đổ Nước Lên Trái Đất">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13409)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2117102312493580748) | **Published:** Nov 2, 2026
+
+---
+### Video Nữ Thần Vũ Trụ Châm Ngọn Sao
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc tạo video chi tiết cho Grok Imagine, mô tả cảnh vũ trụ với nữ thần, tàu không gian và một ngôi sao phát nổ đang thiêu đốt Trái Đất.
+
+#### 📝 Prompt
+
+```
+Mặt trăng và vũ trụ, một nữ thần xoay mình giữa những con tàu vũ trụ đang bay quanh quỹ đạo, một vụ nổ vũ trụ rồi Trái Đất hiện ra. Khung hình thứ hai: một ngôi sao bùng cháy, nữ thần lấy ngôi sao ấy ném xuống Trái Đất....
+
+Chúc ngủ ngon nhé, những nhà du hành ngọt ngào của tôi 🤫.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117097850295242753/img/V9NqPCcLbJijEV97.jpg" width="600" alt="Video Nữ Thần Vũ Trụ Châm Ngọn Sao">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13405)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2117097871967486131) | **Published:** Nov 2, 2026
+
+---
+### Góc Nhìn Nội Thất Xe Đua
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video hiển thị góc nhìn thứ nhất khi lái xe trên đường cao tốc với vô lăng đua và dòng xe cộ.
+
+#### 📝 Prompt
+
+```
+Biến vô lăng thành tay lái xe đua rồi phóng hết ga trên xa lộ, lách qua dòng xe cộ 🚘 đang nối đuôi nhau nào! Quá đỉnh!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117081936430510081/img/iqu5AVs1qvT5Sw0N.jpg" width="600" alt="Góc Nhìn Nội Thất Xe Đua">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13403)**
+
+**Author:** [Robert Jurgesen](https://x.com/jurgesen_robert) | **Source:** [Link](https://x.com/jurgesen_robert/status/2117081951379038234) | **Published:** Nov 2, 2026
+
+---
+### Túi Xách Biến Hình Thành Xe Máy Tesla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video biến hình khoa học viễn tưởng chi tiết, trong đó một chiếc túi biến đổi thành xe máy Tesla nặng và một người phụ nữ lái nó rời đi.
+
+#### 📝 Prompt
+
+```
+[Mục tiêu tạo video]
+Tạo một video biến hình đẳng cấp, nơi người phụ nữ thả chiếc túi xuống đất, chiếc túi lập tức hóa thành một chiếc xe máy Tesla Motorbike hầm hố. Sau đó, cô bước lên xe và phóng đi.
+
+[Kịch bản sự kiện]
+Mở đầu: Một người phụ nữ đứng giữa không gian ngoài trời thoáng đãng, tay cầm một chiếc túi. Cô thản nhiên buông tay để chiếc túi rơi xuống đất.
+Sự kiện chính: Chiếc túi ngay lập tức bắt đầu quá trình biến hình ngoạn mục — phình to, thay đổi hình dáng và chuyển hóa cùng những luồng năng lượng phát sáng. Các tấm kim loại bung ra, bánh xe dần định hình, toàn bộ cấu trúc đông đặc lại thành một chiếc Tesla Motorbike mạnh mẽ, mang thiết kế tương lai đặc trưng của Tesla với khung xe lớn, các chi tiết phát sáng đầy uy lực. Cô tiến tới, ngồi lên chiếc Tesla Motorbike vừa hoàn thiện, nắm chặt tay lái, khởi động xe bằng tiếng gầm trầm đầy nội lực rồi lao vút về phía xa.
+Kết thúc: Người phụ nữ lái chiếc Tesla Motorbike rời đi, chiếc túi đã hoàn toàn biến mất, chỉ còn lại bóng dáng chiếc xe khi cô khuất dần.
+
+[Duy trì tính nhất quán]
+Giữ nguyên danh tính, ngoại hình và trang phục của người phụ nữ xuyên suốt video. Chỉ có duy nhất một chiếc túi và nó phải biến đổi trọn vẹn thành chiếc Tesla Motorbike. Đảm bảo mối quan hệ không gian liền mạch cùng trình tự biến hình rõ ràng từ lúc thả túi, hình thành xe cho đến khi phóng đi. Không xuất hiện thêm bất kỳ đồ vật hay nhân vật nào khác.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117079154629689344/img/j9x56KuU5jABSSZz.jpg" width="600" alt="Túi Xách Biến Hình Thành Xe Máy Tesla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13412)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117080385129787552) | **Published:** Nov 2, 2026
+
+---
+### Cảnh cô gái trộm kẹo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt video mô tả một cô gái mắt nâu đang trộm kẹo gần lò sưởi bên trong một ngôi nhà gạch.
+
+#### 📝 Prompt
+
+```
+Cô bé có đôi mắt nâu đang lén lấy kẹo bên lò sưởi xây bằng gạch trong nhà
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117071802144866304/img/J-DT4vxDJrVfpAgF.jpg" width="600" alt="Cảnh cô gái trộm kẹo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13404)**
+
+**Author:** [ScreechR1](https://x.com/ScreechR6) | **Source:** [Link](https://x.com/ScreechR6/status/2117071815981887536) | **Published:** Nov 2, 2026
+
+---
+### Trò chơi Công viên Giải trí Sao Hỏa của Elon Musk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo cảnh video hài hước với Elon Musk và robot Optimus tại công viên giải trí trên sao Hỏa.
+
+#### 📝 Prompt
+
+```
+POV: Elon Musk và Optimus thử trò chơi cảm giác mạnh đầu tiên trên Sao Hỏa. 🎢🚀
+
+Elon thì đang tận hưởng khoảnh khắc đỉnh cao nhất đời.
+Còn Optimus vẫn đang loay hoay tính toán lực G. 🤖😂
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117025387070787584/img/aJcWo3czZcnmJO67.jpg" width="600" alt="Trò chơi Công viên Giải trí Sao Hỏa của Elon Musk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13410)**
+
+**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2117025485871890835) | **Published:** Nov 1, 2026
+
+---
+### Video Bối Cảnh Sân Bay Với Trang Phục Nhiều Lớp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt cho Grok Imagine tạo video sân bay chân thực về một người phụ nữ mặc quá nhiều lớp quần áo.
+
+#### 📝 Prompt
+
+```
+Video quay lén tại sân bay tỉ lệ 9:16 chân thực đến từng chi tiết, được một hành khách bất kỳ ghi lại bằng smartphone từ khoảng cách khá xa. Một người phụ nữ mặc trên mình số lượng lớp áo nhiều đến mức khó tin (15–20 chiếc áo khoác, hoodie, áo len, khăn quàng và quần) đang bước đi chậm rãi...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116970862490374144/img/ZaRNZEBtxgBuf6y9.jpg" width="600" alt="Video Bối Cảnh Sân Bay Với Trang Phục Nhiều Lớp">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13408)**
+
+**Author:** [Realishai](https://x.com/NatureLove216) | **Source:** [Link](https://x.com/NatureLove216/status/2116971011501412751) | **Published:** Nov 1, 2026
+
+---
+### Prompt Video Thiết Kế Váy Cho Sàn Catwalk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt cho Grok Imagine tạo video một người mẫu nữ trình diễn trên sàn catwalk với thiết kế váy mới lạ.
+
+#### 📝 Prompt
+
+```
+Đây là một hướng đi hoàn toàn mới trong thiết kế váy nữ, do Tiến sĩ Michael Taub sáng tạo và thiết kế. Trong video, bạn sẽ thấy cô người mẫu trẻ sải bước trên sàn diễn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116944830475440128/img/z0tjhhXSSGbtF9h1.jpg" width="600" alt="Prompt Video Thiết Kế Váy Cho Sàn Catwalk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13406)**
+
+**Author:** [Michael Taub](https://x.com/Drdick2262) | **Source:** [Link](https://x.com/Drdick2262/status/2116944872510734785) | **Published:** Nov 1, 2026
+
+---
+### Đi bộ trong Nghĩa trang Công giáo Tối với Nến
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Nhắc nhở góc nhìn thứ nhất về việc đi bộ qua một nghĩa trang tối với nến cháy và mộ.
+
+#### 📝 Prompt
+
+```
+Tôi bước vào một nghĩa trang Công giáo. Trời tối om. Tôi men theo những lối đi giữa các phần mộ. Cây cối rợp bóng hai bên đường, còn trên các ngôi mộ, những ngọn nến đang cháy sáng lung linh. Trên tay tôi là một ngọn nến tuyệt đẹp đang bập bùng tỏa sáng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116872170190114816/img/zWpCvG7nsWR6iqV3.jpg" width="600" alt="Đi bộ trong Nghĩa trang Công giáo Tối với Nến">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13411)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2116872203472179602) | **Published:** Nov 1, 2026
+
+---
+### Cinematic Western Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết cho việc tạo video Western điện ảnh dài 6 giây với các góc quay, ánh sáng và chuỗi hành động cụ thể bằng Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Tạo một video điện ảnh phong cách Viễn Tây dài 6 giây, tỷ lệ khung hình rộng 16:9. Hiệu ứng nhiễu hạt phim thô ráp, ánh sáng vàng vọt của giờ vàng phủ đầy bụi, những công trình vùng biên cương dãi dầu mưa nắng, chuyển động chân thực. Không có lời thoại.
+
+0–1,5 giây: Cận cảnh cực đại chiếc ủng của một tên cướp đơn độc giẫm chặt xuống lớp bụi, th...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116759963880058880/img/GFKlhf4hmlRrIdvg.jpg" width="600" alt="Cinematic Western Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13413)**
+
+**Author:** [Ligma Ballz](https://x.com/LBallz77283) | **Source:** [Link](https://x.com/LBallz77283/status/2116759982607630754) | **Published:** Nov 1, 2026
+
+---
 ### Video Dracula Chỉ Huy Chiến Binh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -301,6 +545,34 @@ Nàng vũ công ballet xoay mình theo từng giai điệu giao hưởng, rồi 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13340)**
 
 **Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116682864041553922) | **Published:** Nov 1, 2026
+
+---
+### Mẫu tạo video hoạt hình tự nhiên
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một mẫu cấu trúc để tạo các video liên tục với chuyển động tinh tế của chủ thể, chuyển động camera nhẹ nhàng và âm thanh môi trường từ một cảnh bắt đầu hoặc hình ảnh tham chiếu.
+
+#### 📝 Prompt
+
+```
+[Mục tiêu tạo video]
+Tạo một video liền mạch với chuyển động tự nhiên từ cảnh mở đầu hoặc hình ảnh tham khảo, trong đó chủ thể cử động nhẹ nhàng, góc máy di chuyển mượt mà và âm thanh môi trường khớp với bối cảnh.
+
+[Kịch bản sự kiện]
+Lúc bắt đầu: Các chủ thể và đạo cụ giữ nguyên tư thế cũng như vị trí ban đầu trong khung cảnh.
+Sự kiện chính: Các chủ thể thực hiện những chuyển động tự nhiên tinh tế như nhịp thở, thay đổi dáng người đôi chút hoặc tương tác nhẹ nhàng với môi trường xung quanh; ánh sáng và không khí (nếu có) cũng biến chuyển một cách dịu nhẹ.
+Lúc kết thúc: Các chủ thể trở về trạng thái tĩnh lặng, liên tục trong khi bố cục tổng thể vẫn được duy trì nhất quán.
+
+[Duy trì tính nhất quán]
+Giữ nguyên danh tính, số lượng chủ thể, trang phục, quyền sở hữu đạo cụ, mối quan hệ không gian và phong cách thị giác xuyên suốt toàn bộ video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116643527157276672/img/WUFN93WFdAZYaVT9.jpg" width="600" alt="Mẫu tạo video hoạt hình tự nhiên">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13414)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116643859744833763) | **Published:** Oct 31, 2026
 
 ---
 ### Cleopatra Khóc Khi Xem Marc Antony Rời Đi
@@ -1558,6 +1830,25 @@ Giữ nguyên thiết kế khí động học giống hệt nhau của các cybe
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115032907261816941) | **Published:** Oct 27, 2026
 
 ---
+### Quay Liên Tục Hôn Mũi Thỏ Khói
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết cho video quay liên tục với cảnh hôn mũi thỏ, khói, sóng và các hướng dẫn cụ thể về ánh sáng/chỉnh màu.
+
+#### 📝 Prompt
+
+```
+Một cú máy liền mạch, không cắt, camera cố định. 0-2s: giữ khung hình toàn cảnh khi cô ấy duy trì nụ hôn trên mũi chú thỏ, nhịp thở phập phồng, làn khói lững lờ trôi phía sau. 2-4s: một con sóng tung bọt trắng xóa vỗ qua những tảng đá bên phải, điểm lấy nét chuyển từ hai nhân vật sang vùng sóng cuộn trào, người mẫu và chú thỏ nhòa đi thành những mảng màu kem dịu và họa tiết rằn ri. 4-5s: tiêu điểm trượt trở lại về phía cô khi hàng mi khẽ chớp, đôi mắt đen bóng như thủy tinh của chú thỏ bắt trọn một đốm sáng ngược. Diện mạo: độ sâu trường ảnh mỏng, ánh khói xanh bạc hà và hồng phát sáng, mặt biển xám lạnh như đá phiến, hạt nhiễu mịn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115002726148874240/img/QMaFd0XsBmKpyVGK.jpg" width="600" alt="Quay Liên Tục Hôn Mũi Thỏ Khói">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13415)**
+
+**Author:** [Marco](https://x.com/ai_artworkgen) | **Source:** [Link](https://x.com/ai_artworkgen/status/2115002899579245038) | **Published:** Oct 27, 2026
+
+---
 ### Prompt Still Phim Buddy-Cop Động Vật Nhân Hóa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1750,6 +2041,29 @@ Video dọc 15 giây tỷ lệ 9:16 mang phong cách điện ảnh, chân thực
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13072)**
 
 **Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2114609346738798684) | **Published:** Oct 26, 2026
+
+---
+### Video Biến Hình Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết cho video biến hình cyberpunk dài 15 giây, mô tả một phụ nữ Đông Á chuyển đổi thành bộ giáp kim loại.
+
+#### 📝 Prompt
+
+```
+Video biến hình cyberpunk dài 15 giây, chân thực như ảnh chụp mang đậm chất điện ảnh, tỷ lệ khung hình dọc 9:16, chi tiết siêu sắc nét, ánh sáng và bầu không khí chuẩn phim chiếu rạp.
+Một cô gái trẻ Đông Á xinh đẹp với mái tóc đen ngắn có mái, làn da trắng nhợt, vết hằn đỏ trên má, mặc áo hoodie tai mèo, đang ngồi xổm trên con phố của một thành phố tương lai giữa đêm mưa tuyết. Cô khoác chiếc áo hoodie màu be ngoại cỡ sờn rách in hình đầu lâu đỏ máu cỡ lớn cùng các ký tự tiếng Nhật, mũ trùm tai mèo, tai nghe chụp tai cỡ lớn, balo đai chiến thuật, găng tay hở ngón, dây buộc đùi và đôi bốt chiến đấu cyberpunk hầm hố. Tuyết rơi và mặt đường ướt sũng phản chiếu ánh đèn neon từ những tòa siêu cao ốc chọc trời, biển quảng cáo hologram và xe bay phía xa. Ánh neon xanh lơ - tím - hồng đầy tâm trạng, sương mù thể tích, tuyết rơi nhẹ, độ sâu trường ảnh chuẩn điện ảnh.
+Cô đứng dậy, tự tin bước về phía ống kính với nụ cười trên môi, tuyết văng lên theo từng nhịp bước chân. Rồi cô giơ hai tay lên, những giao diện nhắm mục tiêu hologram phát sáng xanh dương cùng vòng tròn HUD xuất hiện quanh tai nghe và khuôn mặt. Nét mặt cô chuyển sang vẻ kinh ngạc thán phục.
+Màn biến hình bùng nổ bất ngờ: cơ thể cô hóa thành bộ giáp cybernetic kim loại ôm sát toàn thân với những đường năng lượng phát sáng xanh dương và tím, lõi ngực rực sáng xanh, cùng đôi cánh máy móc dệt từ ánh sáng và năng lượng thuần khiết xòe ra sau lưng. Một quầng sáng năng lượng xanh dương chói lọi ngưng tụ phía trên đầu cô. Cô bay bổng lên không trung, hai tay dang rộng, mắt nhắm nghiền trong cơn ngây ngất, những vệt năng lượng tím và tia lửa xoáy cuộn quanh người khi cô vươn lên giữa rừng cao ốc neon và dòng xe bay.
+Thẩm mỹ sci-fi cyberpunk đỉnh cao, chất liệu siêu chân thực (vải ướt, kim loại đánh bóng, đèn neon rực rỡ, hạt tuyết), ánh sáng thể tích đầy kịch tính, hiệu ứng hạt, chỉnh màu chuẩn điện ảnh, bokeh anamorphic, chân thực 8K, mọi thứ đều hoàn hảo đến từng chi tiết, phân cảnh biến hình slow-motion hoành tráng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114544647565410304/img/Vw_84PO1JF5jhKfw.jpg" width="600" alt="Video Biến Hình Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13416)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114544849512980709) | **Published:** Oct 26, 2026
 
 ---
 ### Chuỗi Biến Hình Bộ Ngoại Khoa Học Viễn Tưởng
@@ -2195,906 +2509,6 @@ Ba nhân vật nữ mang đậm chất tương lai trong một phân cảnh sci-
 **Author:** [Alan Gooding](https://x.com/empoweredathome) | **Source:** [Link](https://x.com/empoweredathome/status/2113932768501772425) | **Published:** Oct 24, 2026
 
 ---
-### Cà Phê Buổi Sáng Trên Sao Hỏa Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả prompt video điện ảnh về việc thưởng thức cà phê buổi sáng trên sao Hỏa với hiệu ứng ánh sáng độc đáo.
-
-#### 📝 Prompt
-
-```
-Ly cà phê sáng trên sao Hỏa. Ánh sáng mang một sắc thái khác hẳn khi cả thành phố đang chờ đợi bên dưới.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113925387034013696/img/XdJePsOVzW76oDd_.jpg" width="600" alt="Cà Phê Buổi Sáng Trên Sao Hỏa Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13122)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2113925565459689499) | **Published:** Oct 24, 2026
-
----
-### Tiệc Kẹo Zombie Kimono
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt Grok I2V cho video nhảy Vinahouse chủ đề Halloween, với nhân vật zombie mặc kimono cầm kẹo mút khổng lồ, kèm theo hướng dẫn nghiêm ngặt về xử lý đạo cụ và biên đạo múa.
-
-#### 📝 Prompt
-
-```
-# GROK I2V PROMPT — SERIES 045
-
-## ZOMBIE KIMONO | VINAHOUSE CANDY PARTY
-
-### Phiên bản Tích hợp Đầy đủ v1.0 — Dựa trên Series 041
-
-Tạo một video âm nhạc dance EDM Vinahouse Việt Nam dài chính xác 15 giây, siêu chân thực (ultra-photorealistic) và mang đậm chất điện ảnh, sử dụng hình ảnh tham chiếu được cung cấp làm khung hình mở đầu chính xác và là tham chiếu thị giác duy nhất.
-
-TIÊU ĐỀ:
-
-ZOMBIE KIMONO — VINAHOUSE CANDY PARTY
-
-ĐỊNH HƯỚNG SÁNG TẠO CHÍNH:
-
-Giữ nguyên phần biên đạo vũ điệu nhóm nữ mùa hè đã rất thành công của SERIES 041: các động tác tay và ngón tay nhanh, tinh nghịch, chi tiết cao; bước dạt ngang nhịp nhàng; giậm chân theo nhịp; đẩy ngực gọn gàng; giật vai (shoulder pops); bắt chéo cẳng tay; xoay cổ tay; những cú chỉ tay đặc trưng dễ nhớ; các cú xoay người và chuyển động liên tục đồng bộ với nhịp beat.
-
-Nhân vật đang tận hưởng một bữa tiệc Halloween kiểu Nhật đầy lễ hội, không chiến đấu với bất kỳ ai.
-
-Chiếc kẹo mút xoắn ốc khổng lồ là một đạo cụ tiệc tùng vui nhộn, tuyệt đối không phải vũ khí.
-
-Hãy tạo ra một video âm nhạc nhảy múa sôi động, hoành tráng thay vì một trận chiến hành động, cảnh tấn công kinh dị hay giao tranh.
-
-HÌNH ẢNH THAM CHIẾU VÀ KHÓA NHẬN DẠNG — CỰC KỲ QUAN TRỌNG:
-
-Bắt đầu bằng chính xác hình ảnh tham chiếu được cung cấp.
-
-Giữ nguyên cùng một người phụ nữ trưởng thành đó, bao gồm khuôn mặt, mái tóc, kiểu tóc, lớp trang điểm, tỷ lệ cơ thể, thiết kế kimono, họa tiết hoa, đồ trang trí và phụ kiện.
-
-Giữ nguyên chiếc kẹo mút xoắn ốc khổng lồ màu cam, tím và trắng cùng cây gậy sọc của nó.
-
-Giữ nguyên khoảng sân đền Nhật Bản dưới ánh trăng, những chiếc đèn lồng Halloween ấm áp, bí ngô phát sáng (jack-o'-lanterns), đồ trang trí lễ hội, kẹo nhiều màu sắc, ánh trăng và hệ thống ánh sáng cam - tím ấm áp.
-
-Giữ nguyên những người tham gia mặc trang phục lễ hội ở hậu cảnh như các vị khách dự tiệc tạo không khí.
-
-Duy trì sự nhất quán về nhận dạng, trang phục và môi trường qua mọi góc máy.
-
-Không biến đổi trang phục.
-
-Không thay đổi bối cảnh đột ngột.
-
-Không thay thế sân đền bằng phim trường, bãi biển, sân thượng hay hộp đêm.
-
-Không có nhân vật mới bước vào tiền cảnh.
-
-Không có máu me, bạo lực, thương tích hay giao tranh.
-
-XỬ LÝ ĐẠO CỤ KẸO KHỔNG LỒ:
-
-Hình ảnh mở đầu cho thấy người biểu diễn cầm chiếc kẹo mút xoắn ốc ngoại cỡ hướng về phía camera.
-
-Giữ nguyên tư thế mở đầu này trong khoảnh khắc đầu tiên.
-
-Trong hai giây đầu tiên, cô ấy tự nhiên đưa chiếc kẹo lại gần cơ thể hơn và đặt nó đứng vững chắc tựa vào khu trưng bày lễ hội bằng đá gần đó.
-
-Chiếc kẹo vẫn hiện diện như một đạo cụ trang trí cố định của bữa tiệc khi góc máy cho phép.
-
-Sau đó, đôi tay cô hoàn toàn tự do để thực hiện các vũ đạo phức tạp.
-
-Không làm chiếc kẹo biến mất, dịch chuyển tức thời, nhân bản, bay lơ lửng, biến hình hay thay đổi kích thước.
-
-Không vung nó vào người khác.
-
-Không đánh bất kỳ ai.
-
-Không dàn dựng các pha giao tranh bằng vũ khí.
-
-KIỂM SOÁT BIỂU CẢM:
-
-Biểu cảm nhẹ nhàng, tối giản nhưng tràn đầy năng lượng tiệc tùng tinh nghịch.
-
-Cơ mặt tự nhiên, thư giãn.
-
-Một nụ cười tự tin nhỏ giữa các câu hát.
-
-Ánh mắt giao tiếp trực diện dịu dàng.
-
-Những nụ cười tinh nghịch thoáng qua.
-
-Biểu cảm ca hát tự nhiên trong các đoạn lời tiếng Việt.
-
-Không la hét cường điệu.
-
-Không gầm gừ kiểu kinh dị.
-
-Không diễn xuất gương mặt hung hăng.
-
-Không diễn kịch quá lố.
-
-ÂM NHẠC — BẢN EDM VINAHOUSE VIỆT NAM GỐC:
-
-Tạo một bản nhạc EDM Vinahouse Việt Nam NGUYÊN BẢN.
-
-Nhịp độ: khoảng 145 BPM, nằm trong khoảng 140–150 BPM.
-
-Giữ nguyên định hướng âm nhạc mạnh mẽ của thế hệ bãi biển SERIES 041 đã thành công.
-
-Tiếng kick four-on-the-floor uy lực.
-
-Âm sub-bass trầm dày chuẩn club.
-
-Đường bass điện tử dồn dập.
-
-Tiếng synthesizer lead sáng, tràn đầy năng lượng.
-
-Các nốt synth stabs dứt khoát, đúng nhịp.
-
-Bộ gõ điện tử sắc nét.
-
-Không khí hộp đêm Việt Nam năng lượng cao.
-
-Các câu hook giọng hát lặp lại mạnh mẽ, bắt tai.
-
-Năng lượng nhịp điệu bùng nổ ngay lập tức.
-
-Đoạn drop dance cực mạnh.
-
-Điệp khúc cuối tràn đầy năng lượng.
-
-Giọng hát nữ trưởng thành người Việt rõ ràng.
-
-Người biểu diễn trên màn hình tự hát các câu hook tiếng Việt.
-
-Phát âm tiếng Việt chuẩn xác.
-
-Khẩu hình khớp chính xác với âm thanh mỗi khi quay cận mặt.
-
-Các câu hát ngắn, dứt khoát, chuẩn xác về nhịp điệu.
-
-Khẩu hình miệng tự nhiên, không diễn xuất gương mặt quá mức.
-
-CÁC CÂU HOOK GIỌNG HÁT TIẾNG VIỆT NGUYÊN BẢN:
-
-"Lên nào! Lên nào!"
-
-"Nhảy đi! Nhảy đi!"
-
-"Cháy lên! Cháy lên!"
-
-"Hey! Hey! Quẩy lên!"
-
-"Cháy lên! Quẩy lên! Hey!"
-
-Phân bổ các câu hook này một cách tự nhiên xuyên suốt màn trình diễn 15 giây.
-
-Để lại những khoảng trống nhạc cụ ngắn dành cho phần vũ đạo ngón tay nhanh nhất và cú chuyển động camera đặc biệt.
-
-Không thay thế nhạc nền bằng K-pop Hàn Quốc, soft pop, ballad hay nhạc nền chung chung.
-
-PHONG CÁCH VŨ ĐẠO — GIỮ NGUYÊN SERIES 041:
-
-Vũ đạo nhóm nữ mùa hè chuyên nghiệp nguyên bản, được điều chỉnh cho phù hợp với bối cảnh Halloween Nhật Bản lễ hội.
-
-Nhẹ nhàng, nhún nhảy, tinh nghịch, nhanh và chuẩn xác về nhịp điệu.
-
-Giữ nguyên toàn bộ vốn từ vựng chuyển động sau:
-
-- Các động tác tay point-dance bắt tai.
-
-- Bước dạt ngang nhanh.
-
-- Những cú giậm chân nhấn nhá nhẹ nhàng theo nhịp.
-
-- Chuyển động đầu gối nhún nhảy.
-
-- Các cú giật ngực và vai chuẩn xác.
-
-- Những cú đẩy ngực nhỏ, dứt khoát.
-
-- Vũ đạo chỉ tay tinh nghịch.
-
-- Xoay cổ tay nhanh.
-
-- Đánh tay phối hợp nhịp nhàng.
-
-- Tổ hợp bắt chéo cẳng tay.
-
-- Xoay nửa vòng nhanh.
-
-- Xoay toàn thân mượt mà.
-
-- Đổi hướng sống động.
-
-- Các cụm nhảy 8 nhịp vui tươi, dễ nhớ.
-
-Không được lấy trang phục làm lý do để đơn giản hóa hay làm yếu đi vũ đạo.
-
-Giữ nguyên tốc độ, mật độ chuyển động và độ chuẩn xác của phần thân trên đã được thiết lập.
-
-Duy trì chuyển động liên tục và đồng bộ với âm nhạc.
-
-Không lắc lư chung chung.
-
-Không vẫy tay ngẫu nhiên.
-
-Không giữ tư thế tĩnh quá lâu.
-
-Không nhảy slow-motion.
-
-Không dùng các bước chân lặp đi lặp lại để thay thế vũ đạo tay.
-
-Không có động tác chiến đấu.
-
-Không tấn công khách mời ở hậu cảnh.
-
-VẬT LÝ CHUYỂN ĐỘNG:
-
-Cơ sinh học con người chân thực.
-
-Sự chuyển trọng tâm, thăng bằng, quán tính và đà tự nhiên.
-
-Các chuyển cảnh logic về mặt vật lý.
-
-Chuyển động của tóc và vải kimono tự nhiên.
-
-Giải phẫu ngón tay chính xác.
-
-Không bị bay chân khỏi mặt đất.
-
-Không nhân bản chi thể.
-
-Không dịch chuyển tức thời đột ngột.
-
-Không xoay cơ thể một cách giả tạo để mô phỏng chuyển động camera.
-
-KỸ THUẬT QUAY PHIM — CỰC KỲ QUAN TRỌNG:
-
-Tạo ra một video âm nhạc nhảy múa cao cấp, sáng tạo về mặt thị giác và tràn đầy năng lượng.
-
-Hướng tới khoảng 18–24 cảnh quay điện ảnh riêng biệt trong 15 giây, giống như thông số kỹ thuật video âm nhạc phong cách sân thượng của SERIES 041 đã thiết lập.
-
-Sử dụng các cú cắt đồng bộ nhịp beat thường xuyên, đồng thời giữ lại đủ thời lượng cảnh toàn thân liền mạch để thể hiện rõ vũ đạo.
-
-Sử dụng:
-
-- Góc nhìn sát mặt đất.
-
-- Cảnh quay ba phần tư (three-quarter).
-
-- Các cú lia máy ngang (tracking shot) nhanh.
-
-- Cảnh quay hero toàn thân sống động.
-
-- Chuyển động camera xoay tròn mượt mà.
-
-- Quỹ đạo camera 180 độ.
-
-- Cảnh quay từ trên xuống nhanh.
-
-- Chuyển cảnh whip-pan (lia máy vút).
-
-- Snap zoom (zoom giật).
-
-- Crash zoom (zoom lao).
-
-- Kéo lùi camera nhanh.
-
-- Đẩy cận camera nhanh.
-
-- Cảnh quay góc nghiêng Dutch-angle ngắn.
-
-- Cắt khớp chuyển động (motion-matched cuts).
-
-- Cắt cứng đồng bộ nhịp beat.
-
-Tránh bố cục khung hình lặp lại.
-
-Camera không bao giờ được để mất dấu người biểu diễn.
-
-Ưu tiên góc quay toàn thân rõ nét trong các đoạn vũ đạo phức tạp.
-
-Tất cả cảnh quay phải giữ nguyên cùng một khoảng sân Halloween Nhật Bản đó.
-
-TIMELINE TỪNG CẢNH QUAY:
-
-0:00–0:02
-
-KHAI MÀN TIỆC KẸO — HÀNH ĐỘNG LIÊN TỤC
-
-Bắt đầu bằng chính xác hình ảnh tham chiếu được cung cấp.
-
-Người biểu diễn đối diện camera, tay cầm chiếc kẹo mút xoắn ốc khổng lồ.
-
-Cô nở một nụ cười tinh nghịch nhỏ.
-
-Với một chuyển động mượt mà, logic về mặt vật lý, cô kéo chiếc kẹo lại và đặt nó đứng vững chắc tựa vào khu trưng bày lễ hội bằng đá gần đó.
-
-Chiếc kẹo vẫn nằm trong cảnh như một đạo cụ trang trí.
-
-Cô lập tức chuyển sang động tác nhảy mở màn theo nhịp.
-
-CAMERA:
-
-Bắt đầu với khung hình tham chiếu.
-
-Sử dụng cú kéo lùi mượt mà, nhanh chóng để lộ ra bố cục nhảy toàn thân dễ theo dõi.
-
-Góc ba phần tư ngắn.
-
-Trở lại góc nhìn trực diện rõ ràng.
-
-Tránh:
-
-Kẹo biến mất.
-
-Nhân bản đạo cụ.
-
-Chuyển động tay thiếu tự nhiên.
-
-Thay thế hậu cảnh.
-
-Vung kẹo bạo lực.
-
-Tạo dáng tĩnh quá lâu.
-
-0:02–0:04
-
-THỨC TỈNH VŨ ĐIỆU HALLOWEEN
-
-Người biểu diễn bước vào
-```
-
-<img src="https://cms-assets.youmind.com/media/1792914334666_hox57l_HVYXtigacAAZoax.jpg" width="600" alt="Tiệc Kẹo Zombie Kimono">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13027)**
-
-**Author:** [リド](https://x.com/ohshie1973) | **Source:** [Link](https://x.com/ohshie1973/status/2113903487595708810) | **Published:** Oct 24, 2026
-
----
-### Grok Imagine Video Prompt: Biến Hình Robot Thỏ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video chi tiết cho Grok Imagine, mô tả cảnh biến hình khoa học viễn tưởng khi một chú robot thỏ nhỏ trở thành người khổng lồ mech bảo vệ bên cạnh nhà thám hiểm.
-
-#### 📝 Prompt
-
-```
-Tạo một phân cảnh biến đổi khoa học viễn tưởng chân thực đến kinh ngạc, dựa trên hình ảnh tham khảo về cô gái thám hiểm tóc vàng trẻ tuổi cùng chú robot thỏ nhỏ bé, đáng yêu nhưng đã sờn cũ giữa một thành phố tương lai hoang tàn. Chú robot nhỏ đột ngột đứng sững, đôi mắt hổ phách bùng lên thành luồng năng lượng cam rực rỡ trong khi mặt đất rung chuyển, bụi mù mịt cuộn bay và cặp kính bảo hộ của cô gái phản chiếu những ký tự hologram bí ẩn. Trong màn biến hình cơ khí đỉnh cao khó tin tiếp theo, đôi tai thỏ dài tách ra thành các tấm giáp khớp nối linh hoạt, phần đầu thu gọn vào khung gầm titan xoay tròn, những chi thể tí hon vươn dài thành cặp chân thủy lực khổng lồ, hàng trăm phiến kim loại đan cài bung mở, và các đường ống dẫn năng lượng phát sáng rực cháy khắp thân. Robot vươn mình trỗi dậy thành một cỗ máy mecha hộ vệ tương lai cao 20 mét bọc giáp hạng nặng, với bờ vai cơ khí đồ sộ, pháo năng lượng có thể thu gọn, lõi lò phản ứng hổ phách phát quang, từng chi tiết cơ khí sắc lẹm như dao cạo cùng hệ thống piston thủy lực mạnh mẽ, trong khi sóng xung kích hất tung bụi đất và gạch vụn bay khắp con phố đổ nát. Cô gái đứng hiên ngang không chút sợ hãi bên cạnh cỗ máy khổng lồ khi nó quỳ gối che chở cho mình, rồi hướng đôi mắt phát sáng to lớn về phía đường chân trời, nơi một luồng sóng năng lượng chói lòa thắp sáng cả thành phố bỏ hoang. Kỹ thuật cơ khí siêu chân thực, quá trình biến hình liền mạch từng bộ phận, hiệu ứng biến dạng kim loại như thật, hệ thống bánh răng xoay phức tạp, chuyển động thủy lực, tia lửa bắn tung tóe, slow-motion đậm chất điện ảnh, phản xạ vật lý chính xác, tia sáng thần thánh volumetric, lóa ống kính anamorphic, góc máy quay vòng đầy kịch tính, âm trầm điện ảnh sâu lắng, thiết kế âm thanh dàn nhạc giao hưởng hùng tráng, chi tiết 8K, HDR, chất lượng hình ảnh chuẩn IMAX, khung dọc 9:16, nhân vật đồng nhất hoàn hảo, không tạo hình hoạt hình, không cắt cảnh giật cục, không chữ, không watermark.
-
-Hiệu ứng âm thanh: Tiếng thức tỉnh của robot trầm đục, tiếng khóa kim loại liên hồi, tiếng xả áp suất thủy lực, âm thanh nạp năng lượng điện, tiếng va chạm chấn động lúc biến hình và cú drop bass điện ảnh hoành tráng.
-
-Tiêu đề viral: CHÚ ROBOT THỎ NHỎ BÉ VỪA HÓA THÀNH CỖ MÁY CHIẾN TRANH CAO 20 MÉT 🤯⚡
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113871752543784960/img/MZ0-8B4xXRSoBtCZ.jpg" width="600" alt="Grok Imagine Video Prompt: Biến Hình Robot Thỏ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13021)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113871980789485707) | **Published:** Oct 24, 2026
-
----
-### Michelle Obama bước vào cảnh phòng tối
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chuyển đổi hình ảnh thành video sử dụng các bức ảnh tham chiếu để đưa Michelle Obama vào một cảnh phòng tối cụ thể cùng với Barack Obama.
-
-#### 📝 Prompt
-
-```
-Sử dụng hình ảnh đầu tiên làm bối cảnh chính xác của căn phòng tối với một ngọn nến duy nhất và người đàn ông (Barack Obama) đang ngồi bên chiếc bàn gỗ, hãy đưa Michelle Obama từ các bức ảnh tham khảo khác vào khung cảnh này: bà ấy đang bước vào khung hình từ phía bên phải...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113865938248568832/img/eAV62PatZ6vnl6Op.jpg" width="600" alt="Michelle Obama bước vào cảnh phòng tối">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13015)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2113865975020003833) | **Published:** Oct 24, 2026
-
----
-### Múa Chiến Thần Rồng Ngọc Lục
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt Grok I2V cho video nhảy Vinahouse năng lượng cao, với một nữ tướng giả tưởng Trung Quốc biến chân dung chiến trường thành màn trình diễn vũ đạo cùng các yêu cầu cụ thể về trang phục và động tác.
-
-#### 📝 Prompt
-
-```
-GROK I2V PROMPT — SERIES 042
-EMERALD DRAGON GENERAL | VINAHOUSE BATTLE DANCE
-Full Integrated Edition v1.0 — Choreography Preservation & Beat Synchronization
-
-Tạo một video âm nhạc dance EDM Vinahouse Việt Nam dài chính xác 15 giây, siêu chân thực (ultra-photorealistic), tràn đầy năng lượng, sử dụng hình ảnh cung cấp về nữ tướng giả tưởng Trung Hoa mặc giáp xanh ngọc lục bảo làm khung hình mở đầu chuẩn xác.
-TÊN VIDEO:
-EMERALD DRAGON GENERAL — VINAHOUSE BATTLE DANCE
-ĐỊNH HƯỚNG SÁNG TẠO CHÍNH:
-
-Một nữ tướng giả tưởng Trung Hoa uy nghi biến bức chân dung chiến trường đầy kịch tính thành một video âm nhạc dance mạnh mẽ, tinh nghịch và được biên đạo chuyên nghiệp.
-
-Ngay từ khoảnh khắc đầu tiên, cô giơ cao Thanh Long Yển Nguyệt Đao (Green Dragon Crescent Blade) đang cầm trên tay một cách đầy kịch tính rồi ném hẳn ra khỏi khung hình.
-
-Cô lập tức bắt đầu màn trình diễn vũ đạo tràn đầy năng lượng, cuốn hút và đồng bộ nhịp điệu một cách chính xác.
-
-Giữ nguyên hệ thống ngôn ngữ vũ đạo nhóm nhạc nữ mùa hè phong phú đã thiết lập trong các bản mô tả video âm nhạc ROOFTOP SUNSET và VINAHOUSE BEACH DROP trước đó.
-
-Không thay thế vũ đạo bằng các động tác nhún nhảy EDM chung chung, võ thuật ngẫu hứng, múa kiếm hay bước chân lặp đi lặp lại.
-
-Vũ đạo phải nhanh, đa dạng, dứt khoát, dễ nhớ và mãn nhãn.
-
-Âm nhạc phải giữ đúng định hướng EDM Vinahouse Việt Nam thành công trước đó ở tốc độ khoảng 145 BPM.
-
-Điểm nhấn điện ảnh là cú lia máy quỹ đạo cuộn ba chiều trên không cực kỳ ấn tượng trong một phần ba thời lượng cuối của video.
-
-KHÓA NHÂN VẬT VÀ NHẬN DIỆN:
-
-Giữ nguyên chính xác người phụ nữ Đông Á trưởng thành rõ ràng từ hình ảnh tham chiếu được cung cấp.
-
-Duy trì các đường nét khuôn mặt dễ nhận biết: mắt, mũi, môi, dáng mặt, màu da và tỷ lệ khuôn mặt tự nhiên.
-
-Giữ nguyên mái tóc dài màu nâu sẫm, trâm cài tóc vàng xanh cầu kỳ, các kẹp tóc trang trí và những lọn tóc bay tự do trong gió.
-
-Giữ nguyên bộ trang phục chiến binh giả tưởng Trung Hoa màu xanh ngọc lục bảo và đồng sẫm vô cùng tỉ mỉ.
-
-Duy trì cổ áo khoét sâu chữ V nguyên bản, chất liệu gấm xanh, họa tiết rồng thêu vàng, giáp vai đúc nổi, giáp eo trang trí, tà váy xếp lớp tung bay, đường xẻ tà cao, giáp bảo vệ cẳng tay và đôi bốt giáp cao màu đen phối vàng.
-
-Giữ nguyên tỷ lệ, phom dáng, độ che phủ chất liệu và mức độ phức tạp trong trang trí của bộ trang phục.
-
-Không thiết kế lại trang phục.
-
-Không thêm giáp trụ.
-
-Không thay đổi kiểu tóc.
-
-Không biến đổi thành trang phục idol hiện đại.
-
-Không thay đôi bốt cầu kỳ bằng giày thể thao hay giày bệt.
-
-Người biểu diễn phải là cùng một người phụ nữ xuyên suốt toàn bộ video.
-
-VẬT LÝ TRANG PHỤC VÀ CHẤT LIỆU:
-
-Các dải vải xanh dài, tay áo xuyên thấu, dải ruy băng, tóc bay và phần váy thêu phải chuyển động linh hoạt theo vũ đạo và luồng gió.
-
-Tà váy xếp lớp chuyển động với quán tính chất liệu chân thực.
-
-Giáp trụ luôn bám chắc vào cơ thể.
-
-Đôi bốt giữ nguyên cấu trúc ban đầu.
-
-Không để trang phục bị chảy nhão.
-
-Không để vải dính chặt vào chân.
-
-Không để giáp dịch chuyển tức thời (teleport).
-
-Không để vải xuyên qua nhau phi thực tế.
-
-KIỂM SOÁT BIỂU CẢM — CỰC KỲ QUAN TRỌNG:
-
-Biểu cảm nhẹ nhàng, tối giản.
-
-Diễn xuất khuôn mặt tự nhiên, tinh tế và chừng mực.
-
-Ánh mắt dịu dàng nhưng đầy tự tin.
-
-Cơ mặt thư giãn.
-
-Nụ cười mỉm nhẹ nhàng, không gượng ép.
-
-Giao tiếp bằng ánh mắt thanh lịch, tinh nghịch.
-
-Thần thái bình tĩnh, tự tin dù vũ đạo rất mạnh mẽ.
-
-Không cười toe toét quá đà.
-
-Không la hét mang tính sân khấu.
-
-Không biểu cảm chiến đấu hung dữ.
-
-Không nhướn mày liên tục.
-
-Không há miệng mọi lúc.
-
-Trong các đoạn hát tiếng Việt, đồng bộ khẩu hình miệng chính xác, tự nhiên nhưng vẫn giữ biểu cảm chừng mực.
-
-BỐI CẢNH VÀ MÔI TRƯỜNG:
-
-Giữ nguyên khoảng sân pháo đài Trung Hoa cổ đại hùng vĩ từ hình ảnh tham chiếu.
-
-Cổng gỗ truyền thống khổng lồ.
-
-Kiến trúc đá cổ kính.
-
-Cờ quân sự màu xanh ngọc lục bảo với họa tiết rồng vàng cầu kỳ.
-
-Binh lính và đội hình nghi lễ ở phía xa.
-
-Sân lát đá.
-
-Bụi mờ và sương mù khí quyển.
-
-Dãy núi phía xa.
-
-Ánh sáng ban ngày tự nhiên rực rỡ.
-
-Ánh nắng điện ảnh tinh tế.
-
-Gió thổi qua cờ xí, tóc bay và tà áo.
-
-Duy trì nhất quán bố cục kiến trúc địa lý xuyên suốt toàn bộ video.
-
-Binh lính hậu cảnh luôn ở xa và đóng vai trò phụ trợ.
-
-Họ không tiến lại gần người biểu diễn hay tham gia nhảy.
-
-Không chuyển cảnh.
-
-Không có thành phố hiện đại.
-
-Không có hộp đêm.
-
-Không có sân khấu.
-
-Không có bãi biển.
-
-Không có sân thượng.
-
-Không để hậu cảnh dịch chuyển tức thời.
-
-HÀNH ĐỘNG VŨ KHÍ MỞ ĐẦU — CỰC KỲ QUAN TRỌNG:
-
-Thanh Long Yển Nguyệt Đao chỉ xuất hiện trong hành động mở đầu.
-
-Ngay từ đầu, người phụ nữ cầm chính xác cây Thanh Long Yển Nguyệt Đao dài và cầu kỳ như trong hình ảnh tham chiếu.
-
-Vũ khí phải giữ nguyên cán, lưỡi đao cong, họa tiết rồng và kết cấu kim loại dễ nhận biết.
-
-Ngay lập tức, cô thực hiện một động tác vứt bỏ vũ khí dứt khoát và đầy kịch tính.
-
-Cô dùng cả hai tay giơ vũ khí lên cao bằng một chuyển động mạnh mẽ, hợp lý về mặt vật lý.
-
-Lưỡi đao và cán di chuyển tự nhiên như một khối cứng duy nhất.
-
-Sau đó, cô quyết đoán ném toàn bộ vũ khí ra xa khỏi người, hướng về một khoảng trống ngoài khung hình.
-
-Vũ khí rời khỏi tay cô và bay hoàn toàn ra khỏi khung hình camera.
-
-Hai tay cô hoàn toàn trống không.
-
-Vũ khí không quay trở lại.
-
-Không quay cận cảnh vũ khí riêng biệt.
-
-Không quay cảnh vũ khí chạm đất.
-
-Không quay cảnh ai đó bị đánh trúng.
-
-Không có thương tích hay máu me.
-
-Không lặp lại hành động ném.
-
-Không để vũ khí dính liền vào tay cô.
-
-Không biến vũ khí thành vật thể khác.
-
-Không lãng phí thêm thời lượng cho vũ khí.
-
-Ngay khi vũ khí biến mất, người biểu diễn lập tức chuyển sang nhảy.
-
-ÂM NHẠC — EDM VINAHOUSE VIỆT NAM:
-
-Tạo một bản nhạc EDM Vinahouse Việt Nam NGUYÊN BẢN.
-
-Nhịp độ: khoảng 145 BPM, nằm trong khoảng 140–150 BPM.
-
-Giữ nguyên định hướng âm nhạc tràn đầy năng lượng, sành điệu và nặng bass của VINAHOUSE BEACH DROP.
-
-Tiếng kick four-on-the-floor mạnh mẽ.
-
-Sub-bass trầm dày đậm chất club.
-
-Đường bass điện tử dồn dập.
-
-Synth lead sáng, giàu năng lượng.
-
-Những nốt synth stabs giật nhịp dứt khoát.
-
-Bộ gõ điện tử sắc bén.
-
-Tiếng snare và clap nhấn nhá đanh gọn.
-
-Không khí club Việt Nam bùng nổ.
-
-Một câu hook giọng hát lặp lại mạnh mẽ, bắt tai.
-
-Năng lượng nhịp điệu bùng nổ ngay lập tức.
-
-Đoạn drop dance uy lực.
-
-Điệp khúc cuối tràn đầy năng lượng.
-
-Giọng hát nữ trưởng thành người Việt rõ ràng.
-
-Cách hát đậm chất club: tự tin, mạnh mẽ, chuẩn xác nhịp điệu.
-
-Những câu hát tiếng Việt ngắn, bắt tai, lặp lại.
-
-Phát âm tiếng Việt chuẩn xác.
-
-Đồng bộ khẩu hình miệng rõ ràng mỗi khi người biểu diễn hát và nhìn thấy miệng.
-
-Không chuyển hướng âm nhạc sang nhạc cụ truyền thống Trung Hoa, nhạc giao hưởng chiến trận, K-pop Hàn Quốc, tropical house, pop ballad nhẹ nhàng hay nhạc nền dance chung chung.
-
-Hình ảnh kiến trúc Trung Hoa truyền thống tương phản với âm nhạc EDM Vinahouse Việt Nam hiện đại.
-
-CÂU HOOK GIỌNG HÁT VIỆT NAM NGUYÊN BẢN:
-
-"Let's go! Let's go!"
-
-"Dance! Dance!"
-
-"Burn up! Burn up!"
-
-"Hey! Hey! Get hyped!"
-
-"Burn up! Get hyped! Hey!"
-
-Phân bổ các câu hook một cách tự nhiên xuyên suốt màn trình diễn 15 giây.
-
-Giữ các câu hát ngắn, bắt tai và giật nhịp mạnh mẽ.
-
-Chừa những khoảng nhạc cụ ngắn cho các đoạn vũ đạo phức tạp nhất và cú lia máy cuộn trên không.
-
-Đồng bộ chuyển động miệng nhìn thấy được với từng âm tiết tiếng Việt.
-
-VŨ ĐẠO ĐỒNG BỘ NHỊP ĐIỆU — LƯU Ý QUAN TRỌNG:
-
-Giữ nguyên cấu trúc vũ đạo nhóm nhạc nữ mùa hè phong phú đã thiết lập, đồng thời khóa các điểm nhấn chuyển động hiện có khớp rõ ràng hơn với nhịp Vinahouse.
-
-KICK DRUM:
-
-Đồng bộ những bước dậm chân mạnh, điểm nhấn bước ngang hiện có, chuyển trọng tâm tự nhiên và thỉnh thoảng là những cú nhún một chân nhẹ nhàng với các nhịp kick nổi bật.
-
-Không thay thế vũ đạo gốc bằng việc nhún nhảy liên tục.
-
-SNARE VÀ CLAP:
-
-Đồng bộ các động tác hất vai (shoulder pops), đẩy ngực gọn, đan chéo cẳng tay và bung lòng bàn tay ra ngoài đã thiết lập với các nhịp snare và clap đanh gọn.
-
-SYNTHESIZER RUNS:
-```
-
-<img src="https://cms-assets.youmind.com/media/1792914331842_bjlvkz_HVXig_YaIAAV2zB.jpg" width="600" alt="Múa Chiến Thần Rồng Ngọc Lục">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13025)**
-
-**Author:** [リド](https://x.com/ohshie1973) | **Source:** [Link](https://x.com/ohshie1973/status/2113845199734808623) | **Published:** Oct 24, 2026
-
----
-### Grok Imagine: Prompt Video Cuộc Sống Hàng Ngày
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt tạo video Grok Imagine mô tả cảnh đi dạo trong ngày mưa thu, với ngoại hình nhân vật nhất quán qua hai phân cảnh.
-
-#### 📝 Prompt
-
-```
-Chủ đề & Cấu trúc tổng thể
-* Tổng thời lượng: 12 giây (6s x 2 cảnh)
-* Ý tưởng: Mùa thu sau cơn mưa, tản bộ đời thường
-* Tính nhất quán của nhân vật: Giữ nguyên khuôn mặt, kiểu tóc và trang phục của người phụ nữ trong @Image1 và @Image2 (đeo kính, tóc nâu búi cao, áo len kéo khóa màu vàng, áo cổ lọ trắng, quần túi hộp kaki, bốt màu be).
-BGM
-* Đề xuất: Nhạc Lo-Fi hip hop/acoustic chill ấm áp với guitar acoustic và piano (giai điệu êm dịu, phù hợp với khung cảnh thành phố sau mưa).
-
-[Chi tiết các cảnh]
-Cảnh 1 (00:00 - 00:06)
-* Ảnh gốc: @Image1
-* Bối cảnh: Ghế đá công viên (khung cảnh có lá đỏ rụng)
-* Hành động/Tư thế:
-  * Tư thế 1 (0-3s): Bắt đầu từ trạng thái của @Image1. Ngồi trên ghế, mắt hơi cúi xuống, giữ yên tư thế.
-  * Tư thế 2 (3-6s): Bất chợt nhìn vào camera (hoặc nhìn thẳng phía trước), mỉm cười nhẹ nhàng đồng thời khẽ chỉnh lại gọng kính.
-Cảnh 2 (00:06 - 00:12)
-* Ảnh gốc: @Image2
-* Bối cảnh: Vỉa hè góc phố (khu vực có các tòa nhà sau cơn mưa)
-* Hành động/Tư thế:
-  * Tư thế 1 (6-9s): Bắt đầu từ trạng thái của @Image2. Đứng ở góc phố, tay cầm ô trong suốt, nhìn vào camera.
-  * Tư thế 2 (9-12s): Hơi nghiêng chiếc ô, bắt đầu bước đi chậm rãi rồi ngoái lại, mỉm cười và vẫy tay nhẹ về phía camera.
-```
-
-<img src="https://cms-assets.youmind.com/media/1792914331188_8nctpf_HVXKgy4aMAAKF0l.jpg" width="600" alt="Grok Imagine: Prompt Video Cuộc Sống Hàng Ngày">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12987)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2113835372463472982) | **Published:** Oct 24, 2026
-
----
-### Grok Imagine Prompt: Elon Musk Làm DJ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết cho cảnh quay điện ảnh về Elon Musk đang làm DJ trong nhà máy Tesla, xung quanh là các robot Optimus.
-
-#### 📝 Prompt
-
-```
-Cảnh quay điện ảnh Elon Musk đang chơi DJ trong một nhà máy Tesla khổng lồ vào ban đêm. Anh đứng sau bàn mixer và mâm đĩa than chuyên nghiệp, mặc áo khoác bomber màu nâu cùng áo phông đen, tai nghe quàng quanh cổ. Anh hướng mắt về phía ống kính với nụ cười tự tin nhẹ, tay chỉ vào nút play đang phát sáng trên bàn mixer. Phía sau anh, hàng trăm robot hình người Tesla Optimus đứng bất động hoàn toàn theo đội hình, lấp đầy cả nhà kho công nghiệp rộng lớn. Logo Tesla phát sáng khổng lồ tỏa rạng ở hậu cảnh phía xa. Những luồng đèn spotlight vàng rực mang đậm chất điện ảnh xé toạc bầu không khí mờ ảo, phản chiếu trên mặt sàn nhà máy bóng loáng. Ánh sáng điện ảnh, siêu chân thực, 8K, độ sâu trường ảnh mỏng, quy mô hoành tráng.
-
-Gợi ý chuyển động / góc máy:
-- Máy quay từ từ tiến lại gần Elon khi anh di chuyển ngón tay trên bàn mixer
-- Chuyển động đầu tinh tế và nụ cười mỉm của Elon
-- Các luồng ánh sáng dịu nhẹ chậm rãi dịch chuyển
-- Chuyển động chờ cực kỳ tinh tế từ các robot
-- Góc máy trôi nhẹ từ trái sang phải để tạo cảm giác điện ảnh
-
-Phiên bản ngắn thay thế:
-Elon Musk chơi DJ trước đội quân robot Tesla Optimus bên trong nhà máy Tesla phát sáng khổng lồ, đèn spotlight vàng rực đầy kịch tính, phong cách điện ảnh, siêu chân thực
-
-Câu lệnh phủ định (Negative prompt):
-mờ nhòe, biến dạng khuôn mặt, thừa ngón tay, robot méo mó, hoạt hình, chất lượng thấp, watermark
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113673455094890496/img/KiDWENrcslEY4xbQ.jpg" width="600" alt="Grok Imagine Prompt: Elon Musk Làm DJ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13076)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113673574376509757) | **Published:** Oct 23, 2026
-
----
-### Chân dung Điện ảnh tại Trạm Xe điện Đêm Mưa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả chi tiết cho việc tạo video bằng Grok Imagine, khắc họa cận cảnh điện ảnh một phụ nữ mặc sườn xám tại trạm xe điện Thượng Hải thập niên 1930 trong đêm mưa, với ánh sáng đặc trưng, chuyển động máy quay và phong cách tham chiếu từ đạo diễn Vương Gia Vệ.
-
-#### 📝 Prompt
-
-```
-Cảnh chân dung cận ngực theo tỷ lệ dọc mang đậm chất điện ảnh, khung hình lấy từ xương quai xanh trở lên, bối cảnh bến xe điện đêm mưa ở Thượng Hải những năm 1930. Mở đầu ngay lập tức với hình ảnh một người phụ nữ Trung Hoa xinh đẹp và thanh lịch trong tà sườn lưng lụa xanh ngọc lục bảo thẳm, viền chỉ vàng cùng cổ tàu cao, mái tóc uốn lượn sóng nước kiểu thập niên cũ, đeo khuyên tai ngọc trai, gương mặt nghiêng ba phần tư mềm mại dưới ánh đèn đường ấm áp ướt đẫm, mưa rơi lất phất. Góc máy xoay chậm quanh cô; phía sau, mờ ảo ngoài vùng lấy nét, vệt đèn pha tròn ấm áp của chuyến xe điện cổ lướt vào tạo hiệu ứng bokeh xen lẫn làn hơi nước bay ngang; cô từ từ quay đầu về phía luồng sáng ấy. Tông màu teal và amber, bokeh anamorphic, nhiễu hạt phim nhựa, bầu không khí đặc trưng của Vương Gia Vệ. Khung hình chặt: tuyệt đối không để tay lọt vào khung. Hậu cảnh xóa phông hoàn toàn, không biển hiệu, không bảng chỉ điểm đến, không có bất kỳ văn bản hay chữ cái nào xuất hiện. Hình ảnh sắc nét ngay từ khung hình đầu tiên.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113611402556440576/pu/img/zlFgnK4UjmwWCW-c.jpg" width="600" alt="Chân dung Điện ảnh tại Trạm Xe điện Đêm Mưa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12986)**
-
-**Author:** [Brucewu666](https://x.com/452864064q45713) | **Source:** [Link](https://x.com/452864064q45713/status/2113611424572342475) | **Published:** Oct 23, 2026
-
----
-### Chiến Lược Đấu Vật Của Chú Lùn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video sáng tạo về một chú lùn hướng dẫn chiến lược giao dịch trong ngày cho một đô vật chuyên nghiệp.
-
-#### 📝 Prompt
-
-```
-Hãy nghĩ ra một chiến lược giao dịch trong ngày (day trading) và để một chú lùn gnome dạy nó cho một đô vật chuyên nghiệp
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113472198841188352/img/Y8RUguYmhFMnWWdl.jpg" width="600" alt="Chiến Lược Đấu Vật Của Chú Lùn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12956)**
-
-**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113472220819542249) | **Published:** Oct 23, 2026
-
----
-### Câu lệnh video Grok Imagine: Giao dịch với Scarlett O'Hara
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một biến thể của câu lệnh trước đó, thay thế nhân vật nữ hoàng chung chung bằng Scarlett O'Hara.
-
-#### 📝 Prompt
-
-```
-Hãy nghĩ ra một chiến lược giao dịch trong ngày và để một chú lùn gnome hướng dẫn nó cho Scarlett O'Hara 25 tuổi với mái tóc đỏ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113467945389084672/img/YZVtANzlJ56--xT7.jpg" width="600" alt="Câu lệnh video Grok Imagine: Giao dịch với Scarlett O'Hara">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12959)**
-
-**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113467965798842614) | **Published:** Oct 23, 2026
-
----
-### Grok Imagine Video Prompt: Chú Lùn Dạy Giao Dịch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video siêu thực với hình ảnh một chú lùn đang dạy chiến lược giao dịch trong ngày cho một nữ hoàng Ai Cập da trắng, tóc đỏ.
-
-#### 📝 Prompt
-
-```
-Hãy nghĩ ra một chiến lược giao dịch trong ngày (day trading) và để một chú lùn gnome hướng dẫn nó cho một nữ hoàng Ai Cập 25 tuổi, người da trắng, có mái tóc đỏ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113466829406339072/img/cviZqEw214MzQkDA.jpg" width="600" alt="Grok Imagine Video Prompt: Chú Lùn Dạy Giao Dịch">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12957)**
-
-**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113466855172042931) | **Published:** Oct 23, 2026
-
----
-### Grok Imagine: Yêu tinh Giao dịch Trong ngày
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video siêu thực, trong đó một yêu tinh hướng dẫn chiến lược giao dịch trong ngày cho một nữ hoàng tóc đỏ đội Vương miện Hoàng gia.
-
-#### 📝 Prompt
-
-```
-Hãy nghĩ ra một chiến lược giao dịch trong ngày (day trading) và để một chú lùn gnome hướng dẫn lại cho vị nữ hoàng 25 tuổi tuyệt đẹp với mái tóc đỏ rực, trên đầu đang đội bộ trang sức Crown Jewels.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113465581189967872/img/xFyY8CU2uixgOoGF.jpg" width="600" alt="Grok Imagine: Yêu tinh Giao dịch Trong ngày">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12961)**
-
-**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2113465601888854093) | **Published:** Oct 23, 2026
-
----
-### Cảnh Báo Hét Lên Đầy Kinh Hoàng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo cảnh video trong đó nhân vật hét lên lời cảnh báo về sự kết thúc của câu chuyện và sự xuất hiện của Trái Đất Mới.
-
-#### 📝 Prompt
-
-```
-Tiếng hét của cô là sự hòa quyện của 4 tiếng thét kinh hoàng nhất, chồng lên nhau thành một. Cô gào lên để truyền đi lời cảnh báo đến những bàn tay kiểm soát đầy quyền lực. Câu chuyện của họ đang khép lại, và Trái Đất Mới đang dần hiện diện.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113387387325698048/img/uZkiITFKWqnrp76D.jpg" width="600" alt="Cảnh Báo Hét Lên Đầy Kinh Hoàng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13077)**
-
-**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2113387506821681386) | **Published:** Oct 22, 2026
-
----
-### Prompt Video Mất Điện Trên Sân Thượng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video điện ảnh về một cô gái và ông nội cùng ngắm nhìn đường chân trời thành phố bừng sáng trên sân thượng trong lúc mất điện.
-
-#### 📝 Prompt
-
-```
-Sân thượng về đêm trên một thành phố chìm trong bóng tối hoàn toàn. Một cô bé và ông nội đứng lặng yên, góc máy từ phía sau; cả đường chân trời bỗng bừng sáng ánh vàng. Máy quay chậm rãi vòng sang khuôn mặt hai người, nụ cười rạng rỡ đầy kinh ngạc.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113122860315340800/img/OsjgvqdGlF2ZCjCW.jpg" width="600" alt="Prompt Video Mất Điện Trên Sân Thượng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12984)**
-
-**Author:** [Imagvio AI](https://x.com/Imagvio_AI) | **Source:** [Link](https://x.com/Imagvio_AI/status/2113374844448293044) | **Published:** Oct 22, 2026
-
----
-### Biến Hình Kinh Dị Cơ Thể Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả video chi tiết cho Grok Imagine để tạo ra một cảnh cyberpunk siêu thực, nơi một người trải qua quá trình biến đổi cơ học dữ dội trong con hẻm ngập mưa và ánh đèn neon.
-
-#### 📝 Prompt
-
-```
-Một bóng người đơn độc đứng giữa con hẻm neon ướt đẫm mưa, sâu trong lòng một siêu đô thị dystopian lúc nửa đêm. Những tấm biển quảng cáo hologram khổng lồ nhấp nháy trên cao với các đoạn phim lỗi, trong khi dòng xe cộ bất tận lao vun vút trên những tuyến đường cao tốc trên không. Cơ thể nhân vật bắt đầu bước vào quá trình biến đổi ở một đẳng cấp hoàn toàn mới, chân thực đến từng chi tiết: lớp da nứt toác và bong tróc thành từng mảng ẩm ướt, hữu cơ, để rồi những phiến carbon-fiber đen tuyền cùng khối cơ sinh học chrome lộ thiên hung bạo xé toạc từ bên trong. Da thịt và mạch điện hợp nhất ngay trước mắt — gân cốt tái cấu trúc thành cáp quang, đôi mắt ngập tràn kim loại lỏng rồi tách ra thành nhiều tròng sáng rực rỡ, hàm dưới trật khớp khi hàm răng biến hình thành một khoang miệng máy móc liên tục chuyển động. Máu và dung dịch làm mát bắn tung tóe theo hiệu ứng slow-motion dưới ánh đèn neon hồng và xanh cyan chói gắt. Góc máy đậm chất điện ảnh: cú tracking shot góc thấp tiến sát đầy uy lực, sau đó xoay vòng quanh chủ thể khi quá trình biến đổi leo thang thành nỗi kinh hoàng body horror toàn diện — tứ chi kéo dài, cột sống gãy vụn rồi tái tạo thành bộ khung xương ngoài dạng đốt cơ khí, khuôn mặt sụp đổ thành một thực thể lai tạp ác mộng giữa người và máy. Độ sâu trường ảnh mỏng, lóa ống kính anamorphic, những giọt mưa nặng hạt bám trên thấu kính, sương mù thể tích (volumetric fog) và kết cấu photorealistic sắc nét đến từng chi tiết (da ướt, kim loại phản chiếu, vải rách tơi tả, mạch điện phát sáng). Bầu không khí tối tăm, ngột ngạt hòa cùng tiếng drone công nghiệp trầm đục dâng dần và những tiếng thét méo mó của con người vọng lại khắp con hẻm. Siêu chân thực, đậm chất điện ảnh, 35mm, chi tiết cao, không cách điệu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113287043811815424/img/oYksLa45_B08bXFp.jpg" width="600" alt="Biến Hình Kinh Dị Cơ Thể Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=12985)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113287133167239203) | **Published:** Oct 22, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3156,6 +2570,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-02T05:46:11.666Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-02T18:27:18.337Z</sub>
 
 </div>
