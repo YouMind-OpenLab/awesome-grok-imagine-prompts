@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3312** |
+| 📝 Total Prompts | **3321** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-03** |
 
@@ -189,6 +189,179 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Vom Papier zur SpaceX-Rakete: Eine Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für die Erstellung eines kontinuierlichen Videos, in dem sich ein Blatt Papier in eine startende SpaceX Falcon 9 Rakete verwandelt.
+
+#### 📝 Prompt
+
+```
+[Generierungsziel]
+Erzeuge ein hochwertiges, durchgehendes Video einer Transformationssequenz der Extraklasse, in der sich ein gewöhnliches Blatt Papier in eine vollständige SpaceX-Rakete verwandelt.
+
+[Ereignisablauf]
+Zu Beginn: Ein einzelnes, sauberes weißes Blatt Papier liegt flach und unbewegt auf einer dunklen Oberfläche unter weichem Studiolicht.  
+Hauptereignis: Das Papier faltet und knickt sich plötzlich mit präzisen, origamiartigen Bewegungen selbst und formt sich rasant zu einer geometrischen Raketenstruktur. Diese Struktur dehnt sich aus, verhärtet sich und wandelt sich in den stromlinienförmigen weißen Rumpf einer SpaceX Falcon 9-Rakete mit schwarzer Zwischenstufe, Gitterflossen und Landebeinen um. Feine metallische Details und das SpaceX-Logo erscheinen auf dem Rumpf, während die Papiertextur vollständig in einen polierten Aerospace-Verbundwerkstoff übergeht. Die Treibstofftanks werden unter Druck gesetzt, die Triebwerke zünden mit hellblauer Flamme und die fertige Rakete hebt senkrecht ab.  
+Am Ende: Die vollständig verwandelte SpaceX-Rakete beschleunigt nach oben in einen sternenklaren schwarzen Himmel und hinterlässt eine klare weiße Abgasspur.
+
+[Konsistenz wahren]
+Behalte während der gesamten Transformation exakt ein einziges, durchgehendes Objekt bei – vom anfänglichen Blatt Papier bis zur finalen SpaceX-Rakete –, ohne dass zusätzliche Objekte oder Duplikate auftauchen. Bewahre das saubere Weiß-Schwarz-Farbschema von SpaceX, die originalgetreue Silhouette der Falcon 9 sowie eine fließende, hochauflösende Materialmetamorphose, ohne die Identität als Einzelobjekt aufzubrechen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117514318187044864/img/DZcYFvnzswmnQrId.jpg" width="600" alt="Vom Papier zur SpaceX-Rakete: Eine Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13471)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117514672920207810) | **Published:** Nov 3, 2026
+
+---
+### Grok Imagine Video-Prompt: Hände mischen Karten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für die Videogenerierung mit Grok Imagine, der Nahaufnahmen von Händen zeigt, die Spielkarten auf einem Holztisch durchmischen (Riffle Shuffle), aufgenommen im Stil eines Handyvideos.
+
+#### 📝 Prompt
+
+```
+Nahaufnahme der Hände einer Person, die auf einem Holztisch ein Kartenspiel mischt – aufgenommen als Handyvideo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117472338543583233/img/LMCNHJ8vTEaOoyhk.jpg" width="600" alt="Grok Imagine Video-Prompt: Hände mischen Karten">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13477)**
+
+**Author:** [能成大事](https://x.com/ncdsoffiecl) | **Source:** [Link](https://x.com/ncdsoffiecl/status/2117472779100442701) | **Published:** Nov 3, 2026
+
+---
+### Sci-Fi-Rüstungs-Transformationsvideo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter mehrstufiger Prompt zur Video-Generierung für Grok Imagine, der die Verwandlung einer Frau in Kampfpanzerung und eines Kaninchens in ein Motorrad beschreibt.
+
+#### 📝 Prompt
+
+```
+[Generierungsziel]
+Erstelle ein Next-Level-Transformations- und Evolutionsvideo der Frau. Zunächst lässt sie eine Wasserflasche vor ihre Füße fallen, dann verwandelt sich ihr Kleid in einen weißen, metallischen Kampfanzug, und am Ende formt sich das Kaninchen zu einem schweren Tesla-Motorrad um, mit dem sie davonfährt.
+
+[Ereignisablauf]
+Zu Beginn: Die Frau steht ruhig da und hält eine durchsichtige Wasserflasche in der Hand. Ein Kaninchen ruht nahe ihren Füßen. Sie lässt die Flasche bewusst fallen, sodass sie vor ihren Füßen aufkommt und das Wasser herausspritzt. In dem Moment, in dem die Flasche den Boden berührt, breitet sich vom Aufprallpunkt aus leuchtende Energie aus.
+Hauptereignis: Ihr gewöhnliches Kleid verwandelt sich blitzschnell in einen eleganten, weißen, metallischen Kampfanzug – segmentierte Panzerplatten, verstärkte Gelenke, polierte, reflektierende Oberflächen und integrierte Kampfdetails formen sich um ihren Körper, während sie kampfbereit stehen bleibt. Sobald die Rüstung vollständig eingerastet ist, beginnt die Verwandlung des Kaninchens: Sein Körper dehnt sich aus, verhärtet sich und strukturiert sich zu einem schweren, schwarz-silbernen Tesla-Motorrad um, mit massiver Metallkarosserie, leuchtenden elektrischen Akzenten und kraftvollen Reifen.
+Am Ende: Die voll gepanzerte Frau steigt auf das schwere Tesla-Motorrad, greift den Lenker und rast mit hoher Geschwindigkeit in die Ferne davon.
+
+[Konsistenz wahren]
+Behalte durchgehend dieselbe Frau bei: Ihre Identität, ihr Gesicht, ihre Haare und ihre Körperproportionen bleiben unverändert. Die Rüstung behält nach ihrer Entstehung ihr weißes, metallisches und kampfbereites Erscheinungsbild. Das Kaninchen verwandelt sich vollständig in ein einziges schweres Tesla-Motorrad, ohne dass tierische Merkmale zurückbleiben. Die Sequenz läuft lückenlos ab: Flasche fällt → Verwandlung vom Kleid zur Rüstung → Verwandlung vom Kaninchen zum Motorrad → sie fährt davon.
+
+Haftungsausschluss: 
+Dieses Video ist ein KI-generiertes, fiktives Sci-Fi-Konzept, das ausschließlich zu Unterhaltungszwecken erstellt wurde. Die futuristischen Transformationen, die Roboter-Rüstung und die Spezialeffekte sind frei erfunden und stellen weder reale Technologien noch tatsächliche Ereignisse dar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117435480140595200/img/9luLTNJO0iTegk7_.jpg" width="600" alt="Sci-Fi-Rüstungs-Transformationsvideo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13472)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117435530942238748) | **Published:** Nov 3, 2026
+
+---
+### Majestischer Sprung des Tigers vom Berg
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein dramatischer Video-Prompt, der einen halbtransparenten, leuchtenden Tiger zeigt, wie er aus dem Inneren eines Berges springt, begleitet von siegreicher Musik.
+
+#### 📝 Prompt
+
+```
+Erstelle eine dramatische Szene, in der ein majestätischer, halbtransparenter, lichtstrahlender Tiger aus dem Herzen eines Berges springt. Füge triumphale Musik hinzu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117358778433564672/img/qVmkzELTw22m0DBg.jpg" width="600" alt="Majestischer Sprung des Tigers vom Berg">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13473)**
+
+**Author:** [A](https://x.com/A0448492963657) | **Source:** [Link](https://x.com/A0448492963657/status/2117358796158746693) | **Published:** Nov 2, 2026
+
+---
+### Seahawk hebt Grizzly auf – Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein humorvoller, sportthemenbasierter Prompt, der einen Seahawk-Maskottchen zeigt, wie es einen Grizzly-Bären hochhebt und in den Puget Sound fallen lässt.
+
+#### 📝 Prompt
+
+```
+Ein Seahawk in einem Pullover in den Seahawks-Farben, der mit seinen Krallen einen Grizzly hochhebt und ihn in den Puget Sound fallen lässt @Seahawks
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117304682750091264/img/xweMEEr1e4180c2z.jpg" width="600" alt="Seahawk hebt Grizzly auf – Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13475)**
+
+**Author:** [HistoryGuy](https://x.com/HistoryGuy510) | **Source:** [Link](https://x.com/HistoryGuy510/status/2117304700156657856) | **Published:** Nov 2, 2026
+
+---
+### Neuronales Erwachen in Chrome für Android
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter, kinematografischer Render-Prompt des Gesichts einer Chrome-Android-Frau, der biomechanische Nanotechnologie und Schaltkreise unter zurückgezogenen Hautpaneelen offenbart.
+
+#### 📝 Prompt
+
+```
+Extreme Nahaufnahme, filmischer Render eines verchromten Androiden-Frauengesichts, geschlossene Augen, friedlicher Ausdruck, vor einem hellen High-Key-Hintergrund mit Farbverlauf von Weiß zu Eisblau. Große Bereiche der spiegelnd verchromten Gesichtshaut sind entlang der haarfeinen Paneelnähte zurückgefahren und geben den Blick auf dichte biomechanische Nanotechnologie frei: Reihen winziger Kolben und Pleuelstangen in Bewegung, Spiralfedern, ineinandergreifende Mikro-Zahnradgetriebe, kleine silberne Motherboards mit Mikrochips, Kondensatoren, Widerständen und Lötspuren sowie geflochtene Glasfaserkabel und leuchtend eisblaue und cyanfarbene Leiterbahnen, die sich über Wange, Kiefer und Schläfe ziehen. Die Augenlider weisen einen deutlich sichtbaren, winzigen Scharniermechanismus auf; unter einem geschlossenen Auge schimmert schwach die Iris hindurch. Spiegelchrom, reinweiße Lichtreflexe, eisblaue LED-Akzente, filigranste, aber klar erkennbare Mechanik und Elektronik, fotorealistischer 3D-Render.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117246398756249601/img/5AzQdj3BTra1ST7F.jpg" width="600" alt="Neuronales Erwachen in Chrome für Android">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13474)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2117270520106520868) | **Published:** Nov 2, 2026
+
+---
+### Kinoästhetik: Schneefall und Kirschblüten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt im Kinostil mit Schneefall, Kirschblüten und einer Nahaufnahme der Augen einer Frau.
+
+#### 📝 Prompt
+
+```
+Ein cineastisches Video der Extraklasse: Sanfter Schneefall treibt durch voll erblühte Kirschbäume. Zartrosa Blütenblätter und weiße Schneeflocken sinken gemeinsam durch die Luft, wirbeln sacht umher und fangen das Licht ein. Die Kamera gleitet langsam vorwärts und leicht nach oben durch die blühenden Bäume, um dann in eine intime Nahaufnahme der Augen einer Frau überzugehen. Ihre Augen sind groß, ausdrucksstark und leuchtend, umrahmt von sanft fallenden Schneeflocken und schwebenden Kirschblütenblättern, die im Vorder- und Hintergrund weich verschwimmen. Warmes, goldenes Licht fällt durch die Baumkronen und erschafft eine verträumte, geradezu ätherische Atmosphäre. Die Kamera bewegt sich in fließenden, schwerelosen cineastischen Bewegungen und hält die emotionale Kraft ihres Blickes fest, während Schnee und Blüten weiter vorbeiziehen. Ambienter Klang aus leisem Wind, sanft fallendem Schnee und dem zarten Rascheln der Blüten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117259659534872577/img/haHQzQ23_JoXS2g2.jpg" width="600" alt="Kinoästhetik: Schneefall und Kirschblüten">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13470)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117259728007159931) | **Published:** Nov 2, 2026
+
+---
+### Kamera-Zoom in das Katzenhaus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, der eine schnelle Kamerabewegung durch Büsche auf ein Haus hin beschreibt, die durch eine sich öffnende Tür eindringt und eine Katze im Inneren enthüllt.
+
+#### 📝 Prompt
+
+```
+Die Kamera bewegt sich schnell durch die Büsche auf das Haus zu, die Tür öffnet sich und drinnen entdecken wir die Katze.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117182995366879232/img/Av3Bv6H4yO6r2cp-.jpg" width="600" alt="Kamera-Zoom in das Katzenhaus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13476)**
+
+**Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117183034248298948) | **Published:** Nov 2, 2026
+
+---
 ### Grok Imagine Prompt: Halloween-Feier
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1243,6 +1416,25 @@ Dieses Video ist ein KI-generiertes, fiktives Sci-Fi-Konzept, das ausschließlic
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13257)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116152840087650695) | **Published:** Oct 30, 2026
+
+---
+### Grok Imagine Dynamischer Prompt: Cyberpunk-Waifu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter dynamischer Prompt für Grok Imagine, der ein futuristisches Cyberpunk-/Steampunk-Modell beschreibt, das vor einem Bildschirm tanzt und arbeitet.
+
+#### 📝 Prompt
+
+```
+Die Musik hat einen guten Beat. Ein weibliches Model im Waifu-Stil mit pinken Haaren ist in einer mittleren Nahaufnahme zu sehen, wie sie vor einem Bildschirm arbeitet und dabei rhythmisch wippt und tanzt. Sie trägt futuristische Mode im Cyberpunk-Steampunk-Look.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116139657570226176/img/wrxctVeVu0a7Tx4P.jpg" width="600" alt="Grok Imagine Dynamischer Prompt: Cyberpunk-Waifu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13478)**
+
+**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2116142171451543878) | **Published:** Oct 30, 2026
 
 ---
 ### Gelbe Rosenblätter-Pfütze Video-Bearbeitung
@@ -2334,193 +2526,6 @@ Nahaufnahme des Gesichts eines erschöpften, aber friedlichen Mannes, der vom Gi
 **Author:** [Vassily](https://x.com/VassilyBeyond) | **Source:** [Link](https://x.com/VassilyBeyond/status/2114070481984770255) | **Published:** Oct 24, 2026
 
 ---
-### ShihTzu Tanz-Referenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer Prompt, der Referenzbilder erfordert, um Shih Tzus beim Gehen auf den Hinterbeinen und beim langsamen Tanzen zu animieren.
-
-#### 📝 Prompt
-
-```
-Lass den ShihTzu aus Bild zwei nur auf den Hinterbeinen hereinspazieren, sich zum ShihTzu aus Bild eins gesellen und gemeinsam einen langsamen Tanz tanzen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114067315415248896/img/i5QI6bDDw6Q03aNR.jpg" width="600" alt="ShihTzu Tanz-Referenz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13014)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2114067332800868489) | **Published:** Oct 24, 2026
-
----
-### Schaltflächen-Explosion animieren
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Anfrage zur Animation eines vorhandenen Bildes oder Videos, um es cooler zu gestalten und eine epische Explosion auszulösen, wenn ein Button gedrückt wird.
-
-#### 📝 Prompt
-
-```
-Grok! Könntest du das animieren und noch cooler machen? Und wenn sie auf den Button klicken, soll er in einem absolut epischen Spektakel explodieren!? Danke dir!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114043596131143680/img/CzkdRZqIkUlQPoGV.jpg" width="600" alt="Schaltflächen-Explosion animieren">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13013)**
-
-**Author:** [Tea Enneman](https://x.com/TeaEnneman) | **Source:** [Link](https://x.com/TeaEnneman/status/2114043619737014512) | **Published:** Oct 24, 2026
-
----
-### Grok Imagine Video-Prompt: Taube stiehlt Mittagessen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Generierungsprompt für Grok Imagine, der eine Comedy-Szene beschreibt, in der eine Taube das Mittagessen auf einem europäischen Stadtplatz stiehlt.
-
-#### 📝 Prompt
-
-```
-VIDEOTITEL: Die Taube hat sein Mittagessen geklaut 😂
-
-GESAMTDAUER: GENAU 15 SEKUNDEN
-
-Erstelle ein ultrarealistisches Comedy-Video im Realfilm-Stil im vertikalen 9:16-Format, das an einem sonnigen Tag auf einem wunderschönen europäischen Stadtplatz spielt. Verwende eine durchgehende, stimmige visuelle...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114012983181639681/img/b00q2GOPlSsLXv0f.jpg" width="600" alt="Grok Imagine Video-Prompt: Taube stiehlt Mittagessen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13020)**
-
-**Author:** [Blairy](https://x.com/Blair_54q0) | **Source:** [Link](https://x.com/Blair_54q0/status/2114013121383944593) | **Published:** Oct 24, 2026
-
----
-### Weibliche Kriegerin: Nanotech-Rüstungstransformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für ein cineastisches Sci-Fi-Video, das eine weibliche Kriegerin zeigt, die sich in eine fortschrittliche Nanotechnologie-Rüstung im Stil von Transformers verwandelt.
-
-#### 📝 Prompt
-
-```
-Ultrarealistische, cineastische Sci-Fi-Transformation, inspiriert vom Referenzbild. Eine geheimnisvolle Kriegerin in einem schwarzen taktischen Anzug steht in einer verlassenen futuristischen Anlage und hält eine gewaltige mechanische Waffe. Plötzlich pulsieren leuchtend blaue Energieströme durch ihre Rüstung, während sich Hunderte winziger Roboterkomponenten von ihr lösen, um ihren Körper rotieren und sich transformieren. Hochentwickelte Nanotechnologie-Rüstungsplatten schieben sich aus ihren Stiefeln und Beinen hervor und rasten mechanisch ein, bevor sich schlanke Titan-Exoskelett-Teile um Taille, Brust, Schultern und Arme zusammensetzen. Ihre Handschuhe verwandeln sich in mächtige Roboter-Panzerhandschuhe, metallene Schulterpanzer entfalten sich mit hydraulischer Präzision, und ein futuristischer Helm formt sich aus Flüssigmetall-Nanobots, bevor er sich zurückzieht und ihr Gesicht freigibt. Ihre riesige Waffe zerlegt sich in schwebende mechanische Einzelteile und fügt sich nahtlos als mächtige Sci-Fi-Kanone in ihren rechten Arm ein. Sie macht einen schweren Schritt nach vorn, während blaue Energielinien ihren vollständig gepanzerten Anzug erleuchten, Dampf aus dem Boden schießt und ihre Augen elektrisch blau aufleuchten. Ende mit einer dramatischen Heldenaufnahme aus der Froschperspektive: Sie hebt ihren gepanzerten Arm, Ziel-Laser aktivieren sich, und die gesamte Anlage erstrahlt hinter ihr.
-
-Visueller Stil: Fotorealistisches 3D-CGI, mechanisches Engineering der nächsten Generation im Transformers-Stil, filigrane bewegliche Zahnräder, realistische Metallreflexionen, Nanobot-Partikeleffekte, Hydraulikkolben, cineastische volumetrische Beleuchtung, dunkle Industrieatmosphäre, 8K-Detailtiefe, dynamische Kamerabewegung, kraftvolle Bass-Impacts, nahtlose mechanische Übergänge, keine Cartoon-Effekte, kein Blut, kein Text, kein Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113996176509067264/img/9JOWLaZexZDxbwaU.jpg" width="600" alt="Weibliche Kriegerin: Nanotech-Rüstungstransformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13079)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113996312274485480) | **Published:** Oct 24, 2026
-
----
-### Konzertbühnen-Hintergrund bearbeiten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Bearbeitungsprompt zum Entfernen von Text und zur Umwandlung des Hintergrunds in eine dramatische Konzertbühne mit roten Scheinwerfern und Rauch.
-
-#### 📝 Prompt
-
-```
-Bearbeite dieses Bild: Entferne sämtliche Texte und Beschriftungen vollständig. Verwandle den Hintergrund in eine deutlich bessere, hochdramatische Konzertbühne mit tiefen Dunkelrot- und Schwarztönen, kraftvollen roten Scheinwerfern, dramatischen Lichtstrahlen, Nebel und einem großen, begeisterten...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113977058942693376/img/-sSWyzo1uvveWeNt.jpg" width="600" alt="Konzertbühnen-Hintergrund bearbeiten">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13016)**
-
-**Author:** [Puchamamax](https://x.com/aaoomaxi) | **Source:** [Link](https://x.com/aaoomaxi/status/2113977099669381298) | **Published:** Oct 24, 2026
-
----
-### Cineastische KI-Video-Stile für Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine Sammlung von 10 cineastischen Video-Prompts für Grok Imagine, die Stile wie Cyberpunk, Alt-Shanghai, Wüsten-Sonnenuntergang, Tuschmalerei-Bambus, High Fashion, HK-Retro, Unterwasser-Traum, Pixar-ähnliche Animation, Schneefeld-Blau und Parfum-Werbung abdecken.
-
-#### 📝 Prompt
-
-```
-Frau mit silbernem Haar in einer spiegelnden Chromjacke, verregnete Cyberpunk-Straße, magenta- und cyanfarbenes Neonlicht auf ihrem Gesicht, langsame Kamerafahrt nach vorn
-Chinesin in einem roten Qipao, die nachts durch eine regnerische Shanghaier Gasse der 1930er Jahre läuft, Neonreflexionen auf dem nassen Boden, langsame Kamerafahrt, Filmkorn
-Frau in einem fließenden weißen Leinenkleid auf goldenen Wüstendünen bei Sonnenuntergang, Wind hebt den Stoff, langsamer Drohnen-Rückzug
-elegante Frau im Hanfu in einem nebligen Bambuswald, Atmosphäre eines Tuschemalerei-Gemäldes, ziehender Nebel, langsame Dolly-Fahrt
-Model in einer skulpturalen schwarzen Couture-Robe, nahtloser Studiohintergrund, hartes Kantenlicht, Magazin-Cover-Look
-junge Frau in einem roten Windbreaker auf einem belebten Nachtmarkt, Bewegungsunschärfe durch Step-Printing, Wong-Kar-wai-Look, Filmkorn
-Frau in einem schwebenden Seidenkleid, das unter Wasser treibt, Sonnenstrahlen durch türkisfarbenes Wasser, langsam wehendes Haar
-Pixar-artig stilisierte junge Frau in einem gelben Regenmantel, gemütliche Herbststadt, wirbelnde Blätter, warmes weiches Licht
-Frau in einem weißem Mantel mit Pelzbesatz auf einem verschneiten Feld zur blauen Stunde, fallender Schnee, Laternen-Bokeh, langsame Kamerafahrt nach vorn
-Frau in einem champagnerfarbenen Satin-Slip-Dress auf einer Marmorterrasse zur Goldenen Stunde, leuchtender Parfümflakon im Vordergrund, Haare in Zeitlupe
-vertikal, filmisch, ab dem ersten Frame scharf, kein Text, Hände nicht sichtbar
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113973790401003520/pu/img/YwJvNBN-HmI0m7mO.jpg" width="600" alt="Cineastische KI-Video-Stile für Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13024)**
-
-**Author:** [Brucewu666](https://x.com/452864064q45713) | **Source:** [Link](https://x.com/452864064q45713/status/2113973811049574864) | **Published:** Oct 24, 2026
-
----
-### Emotionales kinematografisches Paarvideo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für ein realistisches, kinematografisches Video, das eine Frau zeigt, die einen weinenden Mann auf einer Bank tröstet.
-
-#### 📝 Prompt
-
-```
-Ultraprealistisches, cineastisches 15-Sekunden-Video, vertikal 9:16. Ein junger Mann sitzt allein auf einer Holzbank, emotional am Ende, mit Tränen in den Augen, kaltes blaues Licht. Eine junge Frau nähert sich langsam, setzt sich neben ihn, nimmt sanft seine Hand und zieht ihn i...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113963178375917568/img/REcTGZL5h71jwiYH.jpg" width="600" alt="Emotionales kinematografisches Paarvideo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13018)**
-
-**Author:** [Blairy](https://x.com/Blair_54q0) | **Source:** [Link](https://x.com/Blair_54q0/status/2113963223322185765) | **Published:** Oct 24, 2026
-
----
-### Grok Imagine Video-Prompt: Mars-Nebel-Mashup
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer Video-/Bild-Prompt für Grok Imagine zur Zusammenführung zweier Bilder: fotorealistischer Mars, schwebend in einem blau-violetten Nebel.
-
-#### 📝 Prompt
-
-```
-Verschmelze die beiden Bilder zu einer epischen kosmischen Szene: Platziere den detaillierten, fotorealistischen Planeten Mars aus dem zweiten Bild majestätisch schwebend im Zentrum des ätherischen blau-violetten Nebels und Sternenfelds aus dem ersten Bild. Der rötlich-orange Mars ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113939607943573504/img/aDIC4Lq4jDEhHdy0.jpg" width="600" alt="Grok Imagine Video-Prompt: Mars-Nebel-Mashup">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13019)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2113939694312710507) | **Published:** Oct 24, 2026
-
----
-### Zellistinnen in futuristischen Sci-Fi-Charakteren
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Prompt mit drei futuristischen weiblichen Charakteren in einer High-Tech-Sci-Fi-Szene, darunter eine Cyborg, die ein holografisches Cello spielt.
-
-#### 📝 Prompt
-
-```
-Drei futuristische Frauenfiguren in einer dramatischen High-Tech-Sci-Fi-Szene: eine elegante dunkelhaarige Frau im schwarzen Anzug, eine Cyberpunk-Frau mit leuchtenden Augen und robotischen Elementen, ein ätherischer weißhaariger Cyborg, der auf einem holografischen Cello spielt, dynamische Kamerabewegung …
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113932737694531584/img/rmxTYGdzkD-VWyAC.jpg" width="600" alt="Zellistinnen in futuristischen Sci-Fi-Charakteren">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13012)**
-
-**Author:** [Alan Gooding](https://x.com/empoweredathome) | **Source:** [Link](https://x.com/empoweredathome/status/2113932768501772425) | **Published:** Oct 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2582,6 +2587,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-03T02:26:12.590Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-03T12:05:05.402Z</sub>
 
 </div>

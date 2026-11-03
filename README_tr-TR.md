@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3312** |
+| 📝 Total Prompts | **3321** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-03** |
 
@@ -189,6 +189,179 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Kağıttan SpaceX Roketine Dönüşüm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kağıt yaprağının fırlatma aşamasındaki SpaceX Falcon 9 roketine dönüştüğü kesintisiz bir video oluşturmak için detaylı istem.
+
+#### 📝 Prompt
+
+```
+[Oluşturma Hedefi]
+Sıradan bir kağıdın eksiksiz bir SpaceX roketine dönüştüğü, üst düzey bir dönüşüm sekansını kesintisiz ve yüksek kaliteli bir video olarak oluşturun.
+
+[Olay Senaryosu]
+Başlangıçta: Yumuşak stüdyo ışığı altında, koyu bir zemin üzerinde tek parça temiz beyaz bir kağıt dümdüz ve hareketsiz durmaktadır.  
+Ana olay: Kağıt aniden origami benzeri kusursuz hareketlerle kendi üzerine katlanıp kıvrılarak hızla geometrik bir roket formuna bürünür. Yapı genişler, sertleşir ve siyah ara kademesi, ızgara kanatçıkları ile iniş ayaklarıyla birlikte şık beyaz gövdeli bir SpaceX Falcon 9 roketine dönüşür. Kağıt dokusu tamamen cilalı havacılık kompozit malzemesine karışırken, gövde boyunca ince metalik detaylar ve SpaceX logosu belirir. İtki yakıt tankları basınçlanır, motorlar parlak mavi bir alevle ateşlenir ve tamamlanan roket dikey olarak kalkış yapar.  
+Sonunda: Tamamen dönüşmüş SpaceX roketi, ardında tertemiz beyaz bir egzoz izi bırakarak yıldızlarla kaplı simsiyah gökyüzüne doğru hızla yükselir.
+
+[Tutarlılığı Koruyun]
+Dönüşüm boyunca — ilk kağıttan nihai SpaceX roketine kadar — tam olarak tek bir kesintisiz nesneyi koruyun; hiçbir ek nesne veya kopya belirmemelidir. Beyazdan siyaha uzanan temiz SpaceX renk paletini, gerçeğe uygun Falcon 9 siluetini ve tek nesne kimliğini bozmadan pürüzsüz, yüksek doğruluklu malzeme metamorfozunu muhafaza edin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117514318187044864/img/DZcYFvnzswmnQrId.jpg" width="600" alt="Kağıttan SpaceX Roketine Dönüşüm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13471)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117514672920207810) | **Published:** Nov 3, 2026
+
+---
+### Grok Imagine Video İstemi: Ellerin Kartları Karıştırması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için bir video oluşturma istemi; ahşap bir masada iskambil kağıtlarını riffling (karıştırma) tekniğiyle karıştıran ellerin yakın çekim görüntüsünü, el telefonu estetiğiyle sunar.
+
+#### 📝 Prompt
+
+```
+Ahşap bir masada iskambil destesini karıştıran birinin ellerinin yakın çekimi, cep telefonuyla çekilmiş video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117472338543583233/img/LMCNHJ8vTEaOoyhk.jpg" width="600" alt="Grok Imagine Video İstemi: Ellerin Kartları Karıştırması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13477)**
+
+**Author:** [能成大事](https://x.com/ncdsoffiecl) | **Source:** [Link](https://x.com/ncdsoffiecl/status/2117472779100442701) | **Published:** Nov 3, 2026
+
+---
+### Bilim Kurgu Zırh Dönüşüm Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, bir kadının savaş zırhına ve bir tavşanın motosiklete dönüştüğünü anlatan detaylı çok adımlı video üretim istemi.
+
+#### 📝 Prompt
+
+```
+[Oluşturma Hedefi]
+Kadının bir üst seviyeye geçen dönüşüm ve evrim videosunu oluşturun. Önce ayaklarının dibine bir su şişesi düşürür, ardından elbisesi beyaz metalik bir savaş zırhına dönüşür ve sonunda tavşan, üzerine binip uzaklaştığı ağır bir Tesla motosiklete dönüşür.
+
+[Olay Senaryosu]
+Başlangıçta: Kadın, elinde şeffaf bir su şişesiyle sakin bir şekilde durmaktadır. Ayaklarının dibinde bir tavşan dinlenmektedir. Su şişesini bilerek bırakır; şişe ayaklarının dibine düşer ve su etrafa yayılır. Şişenin yere çarptığı anda, darbe noktasından parlayan bir enerji yayılır.
+Ana olay: Sıradan elbisesi hızla şık, beyaz metalik bir savaş zırhına dönüşür — parçalı zırh plakaları, güçlendirilmiş eklem yerleri, cilalı yansıtıcı yüzeyler ve entegre edilmiş savaş detayları, kadın hazır bir şekilde dururken vücudunun etrafında şekillenir. Zırh tamamen yerine oturup kilitlendiği an, tavşan da dönüşmeye başlar: bedeni genişler, sertleşir ve katı metalik gövdesi, parlayan elektrikli vurguları ile güçlü tekerlekleri olan ağır, siyah-gümüş bir Tesla motosiklete dönüşerek yeniden şekillenir.
+Sonunda: Tamamen zırhlanmış kadın ağır Tesla motosiklete biner, gidonu kavrar ve hızla uzaklara doğru sürüp gider.
+
+[Tutarlılığı Koruyun]
+Baştan sona aynı kadını koruyun: kimliği, yüzü, saçları ve vücut oranları değişmeden kalmalıdır. Zırh, bir kez oluştuktan sonra beyaz metalik ve savaşa hazır görünümünü korumalıdır. Tavşan, hiçbir hayvan özelliği kalmadan tamamen tek bir ağır Tesla motosiklete dönüşmelidir. Sahne kesintisiz ilerlemelidir: şişenin düşmesi → elbiseden zırha evrim → tavşandan motosiklete evrim → kadının sürüp gitmesi.
+
+Yasal Uyarı: 
+Bu video, yalnızca eğlence amacıyla oluşturulmuş, yapay zeka tarafından üretilen kurgusal bir bilim kurgu konseptidir. Fütüristik dönüşümler, robotik zırh ve özel efektler tamamen hayal ürünüdür; gerçek teknolojileri veya olayları yansıtmamaktadır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117435480140595200/img/9luLTNJO0iTegk7_.jpg" width="600" alt="Bilim Kurgu Zırh Dönüşüm Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13472)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117435530942238748) | **Published:** Nov 3, 2026
+
+---
+### Görkemli Kaplan Dağ Atlaması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir dağın kalbinden ışık saçan yarı saydam bir kaplanın atlayışını ve zafer müziğini içeren dramatik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Işık saçan görkemli, yarı saydam bir kaplanın dağın kalbinden fırladığı dramatik bir sahne oluşturun. Zafer dolu bir müzik ekleyin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117358778433564672/img/qVmkzELTw22m0DBg.jpg" width="600" alt="Görkemli Kaplan Dağ Atlaması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13473)**
+
+**Author:** [A](https://x.com/A0448492963657) | **Source:** [Link](https://x.com/A0448492963657/status/2117358796158746693) | **Published:** Nov 2, 2026
+
+---
+### Seahawks Lifting Grizzly Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir Seahawks maskotunun bir Grizzly ayısını kaldırıp Puget Sound'a attığı, mizahi ve spor temalı animasyon promptu.
+
+#### 📝 Prompt
+
+```
+Seahawks renklerinde bir kazak giymiş bir Seahawk'ın pençeleriyle bir Grizzly'yi kaldırıp Puget Sound'a bırakması @Seahawks
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117304682750091264/img/xweMEEr1e4180c2z.jpg" width="600" alt="Seahawks Lifting Grizzly Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13475)**
+
+**Author:** [HistoryGuy](https://x.com/HistoryGuy510) | **Source:** [Link](https://x.com/HistoryGuy510/status/2117304700156657856) | **Published:** Nov 2, 2026
+
+---
+### Krom Android Nöral Uyanış
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Geri çekilmiş deri panellerinin altında biyomekanik nanoteknoloji ve devreleri ortaya çıkan krom bir android kadının yüzünün detaylı sinematik render istemi.
+
+#### 📝 Prompt
+
+```
+Krom bir android kadının yüzünün aşırı yakın çekim sinematik render'ı; gözleri kapalı, huzurlu, parlak beyazdan buzul mavisi tonlarına geçen high-key bir arka plan üzerinde. Ayna krom yüzeyli cildin geniş bölümleri, saç çizgisindeki panel dikişleri boyunca geriye açılarak altındaki yoğun biyomekanik nanoteknolojiyi gözler önüne seriyor: esneyen minyatür piston ve biyel kolu sıraları, sarmal yaylar, birbirine kenetlenmiş mikro dişli takımları, mikroçipler, kapasitörler, dirençler ve lehim izleri barındıran küçük gümüş anakartlar, örgülü fiber optik kablolar ile yanak, çene ve şakak boyunca uzanan, buzul mavisi ve camgöbeği renginde parlayan devre hatları. Göz kapaklarında minicik bir menteşe mekanizması açıkça seçiliyor; kapalı bir gözün altında iris silik bir biçimde fark edilebiliyor. Ayna krom, saf beyaz vurgular, buzul mavisi LED detaylar, son derece ince işlenmiş ama net bir şekilde ayırt edilebilen mekanik ve elektronik bileşenler, fotogerçekçi 3D render.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117246398756249601/img/5AzQdj3BTra1ST7F.jpg" width="600" alt="Krom Android Nöral Uyanış">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13474)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2117270520106520868) | **Published:** Nov 2, 2026
+
+---
+### Sinematik Kar Çiçekleri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kar yağışı, kiraz çiçekleri ve bir kadının gözlerinin yakın çekimini içeren detaylı sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Tam çiçek açmış kiraz ağaçlarının arasından süzülen yumuşak kar yağışını anlatan, bir üst seviye sinematik bir video. Zarif pembe yapraklar ve beyaz kar taneleri havada birlikte düşüyor, usulca dönerek ışığı yakalıyor. Kamera çiçekli ağaçların arasında yavaşça ileri ve hafifçe yukarı doğru süzülüyor, ardından bir kadının gözlerine odaklanan samimi bir yakın çekime geçiyor. Gözleri iri, etkileyici ve ışıltılı; ön planda ve arka planda yumuşak bir şekilde bulanıklaşan, usulca dökülen kar taneleri ve havada uçuşan kiraz çiçeği yapraklarıyla çerçevelenmiş. Sıcak altın rengi ışık ağaçların arasından süzülerek rüya gibi, büyüleyici bir atmosfer yaratıyor. Kamera pürüzsüz, havada süzülen sinematik bir hareketle ilerliyor; kar ve yapraklar süzülmeye devam ederken kadının bakışlarındaki duygusal gücü koruyor. Hafif rüzgârın, usulca yağan karın ve çiçeklerin belli belirsiz hışırtısının ambiyans sesleri.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117259659534872577/img/haHQzQ23_JoXS2g2.jpg" width="600" alt="Sinematik Kar Çiçekleri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13470)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117259728007159931) | **Published:** Nov 2, 2026
+
+---
+### Kedi Evinin İçine Yakınlaşan Kamera
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Çalıların arasından hızla bir eve doğru ilerleyen ve açık kapıdan içeri girerek içindeki kediyi gösteren kamera hareketini tanımlayan video istemi.
+
+#### 📝 Prompt
+
+```
+Kamera çalıların arasından hızla eve doğru ilerler, kapı açılır ve içeride kediyi görürüz.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117182995366879232/img/Av3Bv6H4yO6r2cp-.jpg" width="600" alt="Kedi Evinin İçine Yakınlaşan Kamera">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13476)**
+
+**Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117183034248298948) | **Published:** Nov 2, 2026
+
+---
 ### Grok Imagine İstemi: Cadılar Bayramı Kutlaması
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1242,6 +1415,25 @@ Bu video, yalnızca eğlence amacıyla oluşturulmuş, yapay zekâ tarafından �
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13257)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116152840087650695) | **Published:** Oct 30, 2026
+
+---
+### Grok Imagine Dinamik İstem: Cyberpunk Waifu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gelecekteki bir cyberpunk/steampunk kadın modelin dans ederken ve ekran başında çalışırken tasvir edildiği, Grok Imagine için detaylı dinamik istem.
+
+#### 📝 Prompt
+
+```
+Müziğin ritmi çok iyi. Waifu estetiğinden ilham alan, pembe saçlı bir kadın model, ekranda çalışırken zıplıyor ve dans ediyor; orta yakın çekim kadrajda yer alıyor. Cyberpunk ve steampunk tarzını harmanlayan fütüristik kıyafetler giyiyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116139657570226176/img/wrxctVeVu0a7Tx4P.jpg" width="600" alt="Grok Imagine Dinamik İstem: Cyberpunk Waifu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13478)**
+
+**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2116142171451543878) | **Published:** Oct 30, 2026
 
 ---
 ### Sarı Gül Yaprakları Birikintisi Video Düzenleme
@@ -2327,193 +2519,6 @@ Yorgun düşmüş ama huzurlu bir adamın yüzüne yakın çekim; dağın zirves
 **Author:** [Vassily](https://x.com/VassilyBeyond) | **Source:** [Link](https://x.com/VassilyBeyond/status/2114070481984770255) | **Published:** Oct 24, 2026
 
 ---
-### ShihTzu Dans Referansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Shih Tzu'ların arka ayakları üzerinde yürümesini ve birlikte yavaş dans etmesini animasyonlaştırmak için referans görseller gerektiren karmaşık bir istem.
-
-#### 📝 Prompt
-
-```
-İkinci görseldeki ShihTzu sadece arka ayakları üzerinde yürüyerek birinci görseldeki ShihTzu'nun yanına gelsin ve birlikte yavaş bir dans etsinler.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114067315415248896/img/i5QI6bDDw6Q03aNR.jpg" width="600" alt="ShihTzu Dans Referansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13014)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2114067332800868489) | **Published:** Oct 24, 2026
-
----
-### Animasyonlu Buton Patlaması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mevcut bir görüntüyü veya videoyu daha havalı hale getirmek ve butona basıldığında epik bir patlama efekti oluşturmak için animasyon talebi.
-
-#### 📝 Prompt
-
-```
-Grok! Bunu hareketlendirip çok daha havalı bir hale getirebilir misin? Bir de butona bastıklarında ortalık efsanevi bir şekilde patlasın!? Şimdiden teşekkürler!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114043596131143680/img/CzkdRZqIkUlQPoGV.jpg" width="600" alt="Animasyonlu Buton Patlaması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13013)**
-
-**Author:** [Tea Enneman](https://x.com/TeaEnneman) | **Source:** [Link](https://x.com/TeaEnneman/status/2114043619737014512) | **Published:** Oct 24, 2026
-
----
-### Grok Imagine Video İstemi: Güvercin Öğle Yemeğini Çaldı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için detaylı bir video üretim istemi: Bir güvercinin Avrupa şehir meydanında öğle yemeğini çaldığı komedi sahnesi.
-
-#### 📝 Prompt
-
-```
-VİDEO BAŞLIĞI: Güvercin Öğle Yemeğini Kaptı 😂
-
-TOPLAM SÜRE: TAM OLARAK 15 SANİYE
-
-Güneşli bir gündüz vakti, güzel bir Avrupa şehir meydanında geçen, dikey 9:16 formatında ultra gerçekçi bir canlı çekim komedi videosu oluşturun. Tek ve kesintisiz, tutarlı bir görsel...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114012983181639681/img/b00q2GOPlSsLXv0f.jpg" width="600" alt="Grok Imagine Video İstemi: Güvercin Öğle Yemeğini Çaldı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13020)**
-
-**Author:** [Blairy](https://x.com/Blair_54q0) | **Source:** [Link](https://x.com/Blair_54q0/status/2114013121383944593) | **Published:** Oct 24, 2026
-
----
-### Kadın Savaşçı Nanoteknoloji Zırhı Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Transformers'tan ilham alan gelişmiş nanoteknoloji zırhına dönüşen bir kadın savaşçıyı gösteren sinematik bilim kurgu videosu için bir istem.
-
-#### 📝 Prompt
-
-```
-Referans görselden ilham alan, ultra gerçekçi, sinematik bilim kurgu dönüşümü. Siyah taktik kıyafetli gizemli bir kadın savaşçı, devasa mekanik bir silahı tutarak terk edilmiş fütüristik bir tesisin içinde durmaktadır. Aniden zırhından parlayan mavi enerji dalgaları yayılırken yüzlerce minik robotik bileşen vücudunun etrafında ayrılıp dönerek dönüşmeye başlar. Gelişmiş nanoteknoloji zırh plakaları botlarından ve bacaklarından yükselir, mekanik olarak yerlerine oturur; ardından belini, göğsünü, omuzlarını ve kollarını saran şık titanyum dış iskelet parçaları bir araya gelir. Eldivenleri güçlü robotik el zırhlarına dönüşür, metalik omuz korumaları hidrolik bir hassasiyetle açılır ve sıvı metal nanobotlardan oluşan fütüristik bir kask şekillenip yüzünü ortaya çıkarmak için geri çekilir. Devasa silahı havada süzen mekanik parçalara ayrılarak kusursuz bir şekilde sağ koluna entegre olur ve güçlü bir bilim kurgu topuna dönüşür. Mavi enerji hatları tam donanımlı zırhlı kıyafetini aydınlatırken ağır bir adım atar, yerden buhar fışkırır ve gözleri elektrik mavisiyle parlar. Zırhlı kolunu kaldırdığı, hedefleme lazerlerinin devreye girdiği ve tüm tesisin arkasında ışıl ışıl yandığı dramatik, aşağıdan çekilmiş bir kahraman pozuyla sahne son bulur.
-
-Görsel stil: Fotogerçekçi 3D CGI, yeni nesil Transformers ilhamlı mekanik mühendislik, karmaşık hareketli dişliler, gerçekçi metal yansımalar, nanobot partikül efektleri, hidrolik pistonlar, sinematik hacimsel aydınlatma, karanlık endüstriyel atmosfer, 8K detay, dinamik kamera hareketi, güçlü bas vuruşları, kusursuz mekanik geçişler, çizgi film efekti yok, kan/şiddet yok, metin yok, filigran yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113996176509067264/img/9JOWLaZexZDxbwaU.jpg" width="600" alt="Kadın Savaşçı Nanoteknoloji Zırhı Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13079)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2113996312274485480) | **Published:** Oct 24, 2026
-
----
-### Konser Sahnesi Arka Plan Düzenleme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Metni kaldırmak ve arka planı kırmızı spot ışıkları ve dumanla dramatik bir konser sahnesine dönüştürmek için düzenleme istemi.
-
-#### 📝 Prompt
-
-```
-Bu görseli düzenle: Tüm metinleri ve altyazıları tamamen kaldır. Arka planı çok daha etkileyici, son derece dramatik bir konser sahnesine dönüştür; koyu bordo ve siyah tonlar, güçlü kırmızı spot ışıkları, dramatik ışık huzmeleri, duman ve coşkulu, kalabalık bir...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113977058942693376/img/-sSWyzo1uvveWeNt.jpg" width="600" alt="Konser Sahnesi Arka Plan Düzenleme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13016)**
-
-**Author:** [Puchamamax](https://x.com/aaoomaxi) | **Source:** [Link](https://x.com/aaoomaxi/status/2113977099669381298) | **Published:** Oct 24, 2026
-
----
-### Grok Imagine için Sinematik AI Video Stilleri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için hazırlanmış, siberpunk, eski Şanghay, çöl gün batımı, mürekkep boyaması bambu, yüksek moda, HK retro, su altı rüyası, Pixar tarzı animasyon, kar alanı mavileri ve parfüm reklamları gibi stilleri kapsayan 10 sinematik video istemi koleksiyonu.
-
-#### 📝 Prompt
-
-```
-gümüş saçlı kadın, yansıtıcı krom ceket, cyberpunk yağmurlu sokak, yüzünde macenta ve cyan neon ışıltısı, yavaş yaklaşma
-kırmızı qipao giymiş Çinli kadın, gece vakti yağmurlu 1930'ler Şanghay sokağında yürüyor, ıslak zeminde neon yansımaları, yavaş takip çekimi, film greni
-gün batımında altın rengi çöl kumullarında uçuşan beyaz keten elbiseli kadın, rüzgârda dalgalanan kumaş, yavaş drone ile geri çekilme
-sisli bambu ormanında zarif Hanfu giymiş kadın, mürekkep yıkama tablosu atmosferi, süzülen sis, yavaş dolly hareketi
-heykelsi siyah couture elbise içinde model, kesintisiz stüdyo fonu, sert rim ışığı, dergi kapağı görünümü
-kalabalık bir gece pazarında kırmızı rüzgarlık giymiş genç kadın, step-printing hareket bulanıklığı, Wong Kar-wai tarzı, film greni
-suda süzülen ipek elbise içinde su altında ilerleyen kadın, turkuaz sudan süzülen güneş ışınları, yavaşça dalgalanan saçlar
-Pixar tarzı stilize sarı yağmurluklu genç kadın, sıcak sonbahar kasabası, havada dönen yapraklar, yumuşak sıcak ışık
-mavi saatte karlı bir alanda kürk detaylı beyaz paltolu kadın, yağan kar, fener bokeh efekti, yavaş yaklaşma
-altın saatte mermer terasta şampanya rengi saten askılı elbiseli kadın, ön planda parlayan parfüm şişesi, ağır çekim saçlar
-dikey sinematik, ilk kareden itibaren keskin netlik, metin yok, eller görünmüyor
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113973790401003520/pu/img/YwJvNBN-HmI0m7mO.jpg" width="600" alt="Grok Imagine için Sinematik AI Video Stilleri">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13024)**
-
-**Author:** [Brucewu666](https://x.com/452864064q45713) | **Source:** [Link](https://x.com/452864064q45713/status/2113973811049574864) | **Published:** Oct 24, 2026
-
----
-### Duygusal sinematik çift videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kadının bir bankta ağlayan bir erkeği teselli ettiği gerçekçi sinematik video için detaylı istem.
-
-#### 📝 Prompt
-
-```
-Ultra gerçekçi, sinematik 15 saniyelik dikey 9:16 video. Genç bir adam ahşap bir bankta tek başına oturuyor; gözleri yaşlı, duygusal olarak çökmüş halde, soğuk mavi aydınlatma altında. Genç bir kadın yavaşça yanına yaklaşıyor, onun yanına oturuyor, nazikçe elini tutuyor ve onu kendine doğru çek...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113963178375917568/img/REcTGZL5h71jwiYH.jpg" width="600" alt="Duygusal sinematik çift videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13018)**
-
-**Author:** [Blairy](https://x.com/Blair_54q0) | **Source:** [Link](https://x.com/Blair_54q0/status/2113963223322185765) | **Published:** Oct 24, 2026
-
----
-### Grok Imagine Video İstemi: Mars Nebulası Harmanı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için iki görseli birleştirmeye yönelik karmaşık bir video/görsel istemi: mavi-mor nebulanın içinde süzülen fotogerçekçi Mars.
-
-#### 📝 Prompt
-
-```
-İki görseli tek bir destansı kozmik sahnede harmanlayın: İkinci görseldeki detaylı, fotogerçekçi Mars gezegenini, ilk görseldeki büyüleyici mavi-mor bulutsu ve yıldız alanının tam ortasında görkemli bir şekilde süzülürken konumlandırın. Kızılımsı turuncu renkteki Mars...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113939607943573504/img/aDIC4Lq4jDEhHdy0.jpg" width="600" alt="Grok Imagine Video İstemi: Mars Nebulası Harmanı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13019)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2113939694312710507) | **Published:** Oct 24, 2026
-
----
-### Fütüristik Bilim Kurgu Karakterleri Çello
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Üç fütüristik kadın karakterin yer aldığı, holografik çello çalan bir siberborgu içeren yüksek teknolojili bilim kurgu sahnesine ait sinematik prompt.
-
-#### 📝 Prompt
-
-```
-Dramatik, yüksek teknolojili bir bilim kurgu sahnesinde üç fütüristik kadın karakter: siyah takım elbiseli zarif koyu saçlı kadın, parlayan gözleri ve robotik detaylarıyla cyberpunk tarzı kadın, holografik çello çalan ruhani beyaz saçlı cyborg, dinamik kamera hareketi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113932737694531584/img/rmxTYGdzkD-VWyAC.jpg" width="600" alt="Fütüristik Bilim Kurgu Karakterleri Çello">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13012)**
-
-**Author:** [Alan Gooding](https://x.com/empoweredathome) | **Source:** [Link](https://x.com/empoweredathome/status/2113932768501772425) | **Published:** Oct 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2575,6 +2580,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-03T02:26:17.654Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-03T12:05:09.268Z</sub>
 
 </div>
