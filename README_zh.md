@@ -2654,6 +2654,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-04T12:16:48.106Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-04T20:29:04.340Z</sub>
 
 </div>
