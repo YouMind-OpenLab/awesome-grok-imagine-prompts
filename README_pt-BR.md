@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3321** |
+| 📝 Total Prompts | **3330** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-04** |
 
@@ -189,6 +189,222 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de vídeo para evolução de laser nos olhos até Optimus Prime de cristal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar uma sequência de transformação em que um personagem dispara raios laser dos olhos, desencadeando uma reação evolutiva que o cristaliza em um Optimus Prime de estrutura cristalina.
+
+#### 📝 Prompt
+
+```
+[Objetivo da Geração]
+Gere uma sequência de transformação de outro nível na qual ela dispara um feixe de laser dos olhos em direção ao chão, o laser desencadeia uma reação de evolução e a energia se cristaliza formando um Optimus com estrutura de cristal.
+
+[Roteiro do Evento]
+No início, ela está parada no centro, com o olhar fixo à frente e o corpo já carregado pela energia residual da fase anterior. De repente, ambos os olhos disparam dois feixes de laser de alta intensidade que atingem o chão bem diante dela. Ao entrar em contato, os lasers explodem em um campo evolutivo que se expande: o solo racha, a luz se irradia para todos os lados e redes geométricas de cristais crescem e se entrelaçam rapidamente. A massa de cristais em formação se ergue, com as facetas se multiplicando e se encaixando até formar um imponente Optimus com estrutura de cristal. A forma final se materializa por completo — um majestoso Optimus Prime cristalino —, surgindo inteiro e estável enquanto a energia residual do laser se dissipa.
+
+[Manter a Consistência]
+Mantenha inalterados a identidade dela, a emissão dos lasers pelos olhos e o processo exato de evolução para cristal; a única entidade final criada é o Optimus com estrutura de cristal, sem adicionar personagens ou desfechos alternativos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="Prompt de vídeo para evolução de laser nos olhos até Optimus Prime de cristal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13516)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **Published:** Nov 4, 2026
+
+---
+### Prompt de Vídeo: Transformação de Bolsa Cyberpunk em Armadura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para geração de vídeo no Grok Imagine que cria uma sequência cinematográfica de ficção científica, onde a bolsa de uma mulher se transforma em armadura metálica completa de combate em um beco cyberpunk com luzes neon.
+
+#### 📝 Prompt
+
+```
+[Objetivo da Geração]
+Gere uma sequência de Transformações Sci-Fi cyberpunk puramente cinematográfica e de altíssimo nível, na qual a bolsa transforma a mulher em um traje completo de armadura metálica de combate. O foco central é a mulher, e o evento principal é a bolsa iniciando uma metamorfose high-tech completa que termina com ela totalmente vestida em uma avançada armadura metálica de combate.
+
+[Roteiro do Evento]
+No início: Uma mulher solitária está de pé em um beco cyberpunk noturno, encharcado pela chuva e banhado por luzes neon. Anúncios holográficos gigantescos e uma densa arquitetura vertical brilham ao fundo. Ela veste um traje contemporâneo estiloso e carrega uma bolsa high-tech elegante no ombro. Luzes intensas de ciano, magenta e roxo profundo refletem no asfalto molhado e no vidro.
+
+Evento principal: A bolsa é ativada por um pulso de energia de baixa frequência. Fluxos de nanites e tentáculos de metal líquido irrompem dela, envolvendo rapidamente o corpo da mulher em uma cascada contínua e fluida. O material escorre sobre sua pele, membros e tronco, construindo placas metálicas sobrepostas, articulações móveis, condutores de energia brilhantes, blindagem reforçada e um capacete de combate avançado que se forma ao redor de sua cabeça. Faíscas de plasma, fragmentos de interface holográfica e rastros de luz volumétrica espiralam ao seu redor enquanto a armadura se trava no lugar. Sua postura muda de uma pose casual para uma posição de prontidão para o combate.
+
+No final: Ela permanece de pé, totalmente transformada em um traje completo de armadura metálica de combate de corpo inteiro, feita de placas high-tech contínuas com linhas de energia ciano brilhantes, a viseira do capacete iluminada, e a bolsa original completamente integrada e desaparecida. A chuva continua a escorrer pelas superfícies metálicas polidas sob uma iluminação neon cinematográfica.
+
+[Estilo Visual e Atmosfera]
+Estética Sci-Fi cyberpunk puramente cinematográfica e de altíssimo nível. Superfícies metálicas ultradetalhadas com reflexos úmidos, raios de luz volumétricos (god rays) cortando a chuva e a névoa holográfica, color grading neon de alto contraste, lens flares anamórficos e uma rica profundidade atmosférica. A transformação transmite uma sensação de poder, fluidez e inevitabilidade.
+
+[Câmera]
+Começa com um plano médio-aberto dramático que estabelece o beco e a mulher. Um movimento orbital suave de tracking circula a personagem enquanto os nanites são ativados, depois avança em um close fechado para capturar o fluxo de metal líquido pelo seu corpo. Avanço dinâmico e heroico em contra-plongée (ângulo baixo) enquanto as últimas placas da armadura se travam e o capacete se fecha. Termina com um dolly-out lento e imponente, revelando a figura totalmente blindada em silhueta contra o cenário urbano iluminado.
+
+[Som]
+Um grave profundo de sub-bass quando a bolsa é ativada, combinado com sons metálicos afiados de transformação, o zumbido rápido do enxame de nanites, descargas de energia crepitantes e impactos hidráulicos pesados das placas se travando. Chuva ambiente cyberpunk, trânsito distante e zumbidos holográficos. Encerra com um tom poderoso e ressonante de ativação da armadura e um único swell cinematográfico sustentado.
+
+[Manter Consistência]
+Mantenha a mulher como o único sujeito da cena. A bolsa é a fonte exclusiva da transformação e se integra totalmente à armadura final. A armadura deve ser completa, metálica, de estilo combate cobrindo o corpo inteiro, sem nenhuma parte exposta ou cobertura parcial.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117832745493897216/img/Xvh3ToZ7O-Hbtjpj.jpg" width="600" alt="Prompt de Vídeo: Transformação de Bolsa Cyberpunk em Armadura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13520)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117832838594896196) | **Published:** Nov 4, 2026
+
+---
+### Prompt de Vídeo: Transformação de Mulher em Optimus Prime a partir de Bolsa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para geração de vídeo no Grok Imagine, onde uma mulher solta sua bolsa, que se transforma em sua própria persona vestida como Optimus Prime.
+
+#### 📝 Prompt
+
+```
+[Objetivo da Geração]
+Gere um vídeo de transformação de outro nível com uma mulher que solta a bolsa no chão; a bolsa se transforma repentinamente nela mesma como Optimus.
+
+[Roteiro do Evento]
+No início, ela está de pé segurando a bolsa e, em seguida, a solta propositalmente no chão. A bolsa atinge o solo e imediatamente inicia uma transformação dramática e cheia de energia: ela se expande, se desdobra, placas metálicas e articulações mecânicas surgem, linhas de energia brilhantes percorrem a forma em constante mudança, painéis de armadura se encaixam no lugar, e a bolsa se reconfigura por completo na sua exata versão como Optimus — imponente, poderosa, totalmente blindada e pronta para a ação. No final, ela (como Optimus) permanece de pé, confiante, exatamente onde a bolsa estava, com a transformação concluída.
+
+[Manter a Consistência]
+Ela e sua forma Optimus permanecem como a mesma personagem única durante todo o vídeo; a bolsa é a única fonte da transformação e se converte inteiramente nela mesma como Optimus, sem que sobrem objetos ou personagens extras.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117796038522396672/img/dXvU0eXEhlJxm8Kg.jpg" width="600" alt="Prompt de Vídeo: Transformação de Mulher em Optimus Prime a partir de Bolsa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13521)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117796166192578893) | **Published:** Nov 4, 2026
+
+---
+### Prompt do Grok Imagine: Movimento de Câmera Dollie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado descrevendo um movimento de câmera dollie de duas mulheres caminhando para frente com sabres, enfatizando o movimento natural e sem deformação.
+
+#### 📝 Prompt
+
+```
+Câmera em dolly de volta enquanto as duas mulheres caminham casualmente em direção à câmera. A mulher chinesa olha para a outra mulher enquanto andam, sem tropeços no passo, sem ações estranhas, sem andar rápido. Elas mantêm os sabres nas mãos, sem deformações (morphing), sem movimentos antinaturais.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117779481158914048/img/azt0cuqU6jGP_ZA4.jpg" width="600" alt="Prompt do Grok Imagine: Movimento de Câmera Dollie">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13518)**
+
+**Author:** [Gentugo](https://x.com/GentugoMartukro) | **Source:** [Link](https://x.com/GentugoMartukro/status/2117779510976290960) | **Published:** Nov 4, 2026
+
+---
+### Cena de Sitcom dos Anos 80 com o Segredo da Supermodelo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo que cria uma cena cômica no estilo de sitcom dos anos 80, apresentando uma adolescente pedindo segredos de beleza a uma supermodelo.
+
+#### 📝 Prompt
+
+```
+Uma cena de uma sitcom dos anos 80 em que uma adolescente implora para uma supermodelo revelar o segredo da sua pele e corpo perfeitos. A supermodelo faz uma pausa por um instante e então mostra um pequeno compressor e um aerógrafo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117727841836261376/img/HQOyNuD1MB10NKny.jpg" width="600" alt="Cena de Sitcom dos Anos 80 com o Segredo da Supermodelo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13519)**
+
+**Author:** [Rusty Zimmer](https://x.com/Rust_E) | **Source:** [Link](https://x.com/Rust_E/status/2117727865550856421) | **Published:** Nov 3, 2026
+
+---
+### Integrar Imagem ao Vídeo de Cena
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt que instrui o modelo a integrar uma imagem específica em uma cena e executá-la junto com os vídeos anteriores.
+
+#### 📝 Prompt
+
+```
+Integre esta imagem ao prompt da cena, execute junto com os vídeos anteriores e combine uma imagem criativa e imaginativa da mensagem com os vídeos anteriores
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117706260296425472/img/TkAmlW2hzf5YNAQa.jpg" width="600" alt="Integrar Imagem ao Vídeo de Cena">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13517)**
+
+**Author:** [Un Predictable Chaos FIXER](https://x.com/Prophecy120) | **Source:** [Link](https://x.com/Prophecy120/status/2117706298162852285) | **Published:** Nov 3, 2026
+
+---
+### Transformação de trem-robô de ficção científica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt altamente detalhado para gerar um vídeo cinematográfico de ficção científica onde um trem-bala futurista se transforma em um robô gigante bípede de combate.
+
+#### 📝 Prompt
+
+```
+[Objetivo da Geração]
+Gere um vídeo de ficção científica de alto nível mostrando um trem-bala futurista passando por uma transformação mecânica e robótica completa, tornando-se um imponente robô de combate bípede.
+
+[Roteiro do Evento]
+No início: Um trem-bala prateado e preto, elegante e aerodinâmico, dispara pelos trilhos elevados de levitação magnética (maglev) de uma megacidade cyberpunk iluminada por neon durante a noite. Os motores zumbem deixando rastros de energia azul, enquanto as luzes da cidade passam como borrões.
+Evento principal: O trem inicia sua sequência completa de transformação. Os painéis frontais da locomotiva se abrem com precisão hidráulica, revelando reatores centrais incandescentes. Os vagões laterais se dobram e se reconfiguram: as rodas se retraem para dar lugar a pernas mecânicas complexas que se desdobram e travam no lugar, formando membros bípedes blindados. A carroceria principal gira 90 graus, erguendo-se para formar um torso humanoide colossal com placas de armadura entrelaçadas. O cone frontal se transforma em uma cabeça robótica detalhada, cujos olhos em formato de visor acendem em um tom vermelho-alaranjado. Os braços são montados a partir dos módulos do teto e da parte inferior, equipados com mãos mecânicas multiarticuladas e suportes para armas de energia. Todas as peças se encaixam entre faíscas, vapor e pistões hidráulicos batendo na posição final.
+No final: O mecha gigante já totalmente transformado permanece de pé sobre os trilhos, dominando o horizonte da cidade em uma pose poderosa e pronta para o combate, com o núcleo do peito brilhando intensamente, preparado para a ação.
+
+[Estilo Visual]
+Transformação mecânica de ficção científica ultradetalhada, com placas de armadura complexas e entrelaçadas, engrenagens, pistões, cabos e dutos de energia visíveis. Texturas metálicas hiper-realistas em cromo e preto fosco, com detalhes em neon azul e vermelho brilhantes. Atmosfera cyberpunk cinematográfica com iluminação volumétrica, lens flares e efeitos de partículas gerados por vapor e faíscas.
+
+[Câmera]
+Sequência dinâmica em múltiplos ângulos: começa com um travelling baixo acompanhando o trem em alta velocidade, muda para tomadas orbitais dramáticas durante a transformação, cortes rápidos para closes das peças se transformando (rodas virando pés, painéis se dobrando em armaduras) e, por fim, a câmera se afasta para um plano aberto heroico em contra-plongée, mostrando o robô completo erguido contra a cidade de neon.
+
+[Som]
+O ronco grave dos motores do trem dá lugar a fortes chiados hidráulicos, estalos metálicos, engrenagens rangendo, zumbidos de energia carregando e, por fim, um rugido mecânico grave e profundo quando o robô é totalmente ativado. Ruído ambiente de uma cidade cyberpunk e trânsito ao longe.
+
+[Manter Consistência]
+Preserve a transformação única e contínua de um único trem em um único robô completo. Mantenha todas as peças mecânicas originadas da estrutura original do trem. Preserve a mesma linguagem visual de ficção científica, os brilhos de energia e o ambiente noturno cyberpunk do início ao fim.
+
+Aviso legal: 
+Este vídeo é um conceito fictício de ficção científica gerado por IA, criado exclusivamente para fins de entretenimento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117622516717928448/img/1NIOWBUtsdb37GpP.jpg" width="600" alt="Transformação de trem-robô de ficção científica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13515)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117622653720707335) | **Published:** Nov 3, 2026
+
+---
+### Prompt de Vídeo do Grok Imagine: Explosão da Bola em Terafab
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo para o Grok Imagine que retrata uma mulher soltando uma bola que explode e se transforma em uma grande estrutura chamada Terafab.
+
+#### 📝 Prompt
+
+```
+[Objetivo da Geração]
+Gere um vídeo contínuo de transformação em outro nível da mulher. Ela segura uma bola na mão, solta-a propositalmente no chão, a bola impacta e explode, e dessa explosão um Terafab completo se materializa e ganha forma por inteiro.
+
+[Roteiro do Evento]
+No início: A mulher está de pé em um espaço aberto e livre, com o braço estendido para frente, segurando a bola firmemente na mão e olhando para baixo com total concentração.
+Evento principal: Ela abre os dedos e deixa a bola cair em linha reta. A bola bate com força no chão e detona imediatamente em uma explosão intensa e brilhante de luz, energia e partículas em expansão. Do centro da explosão, um Terafab se constrói rapidamente — a estrutura se montando, as superfícies se solidificando e a forma se completando.
+No final: A bola original desaparece, a explosão se dissipa por completo e um Terafab intacto e totalmente formado repousa firme no chão em seu lugar. A mulher permanece ali perto, observando o resultado final.
+
+[Manter a Consistência]
+Mantenha a identidade, a aparência, as roupas e a expressão facial da mulher inalteradas durante todo o vídeo. Mantenha exatamente uma única bola, que é solta e destruída na explosão. O único Terafab completo resultante deve ser o único objeto final no chão. Preserve o espaço aberto no solo e a sequência clara de causa e efeito: queda → explosão no impacto → formação do Terafab.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117553831756308480/img/Xk-uMqzsAOvGo7bA.jpg" width="600" alt="Prompt de Vídeo do Grok Imagine: Explosão da Bola em Terafab">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13522)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117553931559825645) | **Published:** Nov 3, 2026
+
+---
 ### Transformação de Papel em Foguete da SpaceX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -545,6 +761,45 @@ Vídeo ultrarrealista em 9:16, estilo flagra de aeroporto, filmado a uma distân
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13408)**
 
 **Author:** [Realishai](https://x.com/NatureLove216) | **Source:** [Link](https://x.com/NatureLove216/status/2116971011501412751) | **Published:** Nov 1, 2026
+
+---
+### Prompt de Vídeo de Combate: Transformação do Guerreiro Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt altamente detalhado para gerar um vídeo contínuo de combate de um guerreiro cyberpunk passando por transformações de equipamento durante a batalha, incluindo especificações de estilo visual, câmera e som.
+
+#### 📝 Prompt
+
+```
+[Objetivo de Geração]
+Gere um vídeo de combate contínuo de alto nível com um guerreiro cyberpunk sci-fi totalmente equipado para batalha, travado em um confronto intenso. O sujeito central é um lutador cyberpunk fortemente blindado, vestindo equipamento de combate completo, executando transformações avançadas de próximo nível durante o combate total.
+
+[Sujeitos e Relações]
+O guerreiro é um combatente cyberpunk solitário usando traje de combate completo: armadura de exoesqueleto motorizada em preto fosco com bordas neon, dutos de energia brilhantes em ciano e roxo, placas reforçadas no peito, ombros e membros, traje de combate multicamadas sob a armadura, capacete integrado com visor HUD, manoplas armadas e pontos de fixação modulares. Nenhum outro personagem aparece. Todas as transformações são melhorias autônomas dos equipamentos e sistemas corporais deste único lutador.
+
+[Roteiro de Eventos]
+No início: O guerreiro está de pé em um beco de uma cidade cyberpunk encharcado pela chuva e banhado por luzes neon, sob letreiros holográficos piscantes e reflexos no asfalto molhado, já totalmente equipado em postura de prontidão para o combate, com armas embainhadas, mas sistemas ligados.
+
+Evento principal: Engajamento imediato em combate total. O guerreiro ativa transformações sequenciais de próximo nível no meio da luta — primeiro, as placas da armadura se reconfiguram e se expandem com travas hidráulicas e surtos de energia para proteção máxima; depois, as manoplas se transformam em lâminas de plasma de alta energia e extensões de canhão elétrico (railgun), seguidas por impulsos de propulsores e escudos adaptativos que se desdobram a partir da mochila e das articulações. O lutador avança, salta e combate fogo inimigo/invisível com movimentos marciais-cibernéticos fluidos e de alta velocidade, cada transformação escalando seu poder: a armadura endurece ainda mais, a aura de energia se intensifica do ciano ao violeta, e as armas alternam entre modos (corte de lâmina → rajada de projéteis → golpe com escudo de energia). Chuva, faíscas e luzes neon cortam a silhueta em transformação à medida que a intensidade do combate atinge o ápice.
+
+No final: O guerreiro permanece vitorioso em seu estado final totalmente transformado — armadura completamente travada na configuração de combate definitiva, dutos de energia ardendo em intensidade máxima, armas totalmente acionadas e prontas, com as luzes da cidade refletindo nas placas aprimoradas enquanto descargas residuais de energia desaparecem ao redor de seus pés.
+
+[Estilo Visual]
+Estética cyberpunk sci-fi hiperdetalhada de próximo nível: superfícies molhadas e brilhantes, névoa neon volumétrica, iluminação de alto contraste em ciano/magenta/roxo elétrico, detalhes mecânicos intrincados de transformação com painéis que mudam de forma de maneira fluida, faíscas, partículas de energia e sobreposições holográficas de HUD. Intensidade de combate fotorrealista, porém estilizada, com desfoque de movimento dinâmico nos membros e rastros deixados pelas armas.
+
+[Câmera]
+Cinematografia de combate dinâmica: começa em um plano médio estabelecendo todo o traje de combate, seguido por planos de acompanhamento rápidos seguindo os avanços e as transformações, planos baixos imponentes durante a reconfiguração da armadura, movimentos orbitais circulando o guerreiro durante a metamorfose das armas, e termina com um zoom lento, dramático e baixo aproximando-se da postura final transformada.
+
+[Som]
+Áudio imersivo de combate total: estalos hidráulicos e metálicos profundos, zumbidos de energia de alta frequência, estalos de descarga de plasma, impactos graves pesados e uma trilha rítmica e pulsante de synthwave que acelera junto com a intensidade do combate.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116947344814145536/img/1GrU3LE_wII7c0bJ.jpg" width="600" alt="Prompt de Vídeo de Combate: Transformação do Guerreiro Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13523)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116947477060628755) | **Published:** Nov 1, 2026
 
 ---
 ### Prompt de Vídeo para Design de Vestido de Passarela
@@ -2337,186 +2592,6 @@ De volta à Lua. Um astronauta, uma nave de aço inoxidável e a Terra despontan
 **Author:** [Kamil](https://x.com/madebykamil) | **Source:** [Link](https://x.com/madebykamil/status/2114421118475890705) | **Published:** Oct 25, 2026
 
 ---
-### Prompt Cinematográfico de Aventureira Fantasia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detalhado para uma aventureira Fay no estilo de arte Muca com iluminação cinematográfica.
-
-#### 📝 Prompt
-
-```
-Uma mulher Fay de pele clara e longos cabelos negros, vestindo trajes de aventureira, no estilo de Muca, composição romântica, heroica e dramática, cinematográfica, iluminação de golden hour.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114388500350930944/img/gODiL31Lk428JT67.jpg" width="600" alt="Prompt Cinematográfico de Aventureira Fantasia">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13071)**
-
-**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2114388513621729595) | **Published:** Oct 25, 2026
-
----
-### Prompt de Vídeo de Transformação Mecha Chibi Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt completo para gerar um vídeo cinematográfico vertical mostrando uma garota chibi se transformando em armadura futurista com asas mecânicas e efeitos de energia.
-
-#### 📝 Prompt
-
-```
-Transformação sci-fi 3D cinematográfica e ultrarrealista, formato vertical 9:16. Uma garota chibi estilosa, com um cabelo cacheado volumoso, óculos de sol futuristas oversized, look streetwear tático escuro, correntes metálicas e botas pesadas, posa com confiança em um beco cyberpunk futurista. De repente, pulsos de energia azul brilhante percorrem seu corpo enquanto os óculos se transformam em um visor holográfico de alta tecnologia, o cabelo se divide em milhares de pequenos cachos mecânicos e a jaqueta oversized se desdobra em uma exotraje blindada avançada, com placas de metal em movimento, engrenagens giratórias e circuitos de neon luminosos. A mochila se expande até virar um gigantesco sistema robótico de energia, as correntes se transformam em armas magnéticas flutuantes e apêndices mecânicos passam a orbitar ao redor dela. Em uma sequência de tirar o fôlego em câmera lenta, cada detalhe da roupa se converte perfeitamente em uma armadura futurista, enquanto faíscas elétricas, nanobots em redemoinho e símbolos holográficos iluminam o beco chuvoso. Ela faz uma pose final poderosa quando asas mecânicas gigantes se abrem atrás dela, suas botas ativam propulsores brilhantes e uma onda de choque de energia azul se espalha pelo chão. Texturas fotorrealistas, engenharia mecânica minuciosa, animação de transformação fluida, movimentos de câmera dramáticos, iluminação cinematográfica, névoa volumétrica, reflexos realistas, HDR, detalhes em 8K, atmosfera sci-fi épica, revelação final de cair o queixo, sem cortes durante a transformação.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114386204359614464/img/F_fkh7OXwcDUv2zI.jpg" width="600" alt="Prompt de Vídeo de Transformação Mecha Chibi Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13075)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114386681466093903) | **Published:** Oct 25, 2026
-
----
-### Prompt de Vídeo Grok Imagine: Alienígena Cinza Negando Identidade de IA
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo criativo apresentando um alienígena cinza olhando para a câmera e tentando desesperadamente convencer os espectadores de que não é uma IA.
-
-#### 📝 Prompt
-
-```
-Um Alienígena Cinza olha diretamente para a câmera e tenta, desesperadamente, convencer o espectador de que não é uma I.A.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114384720666537984/img/b_d1O0prf5_jYRap.jpg" width="600" alt="Prompt de Vídeo Grok Imagine: Alienígena Cinza Negando Identidade de IA">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13074)**
-
-**Author:** [DakaYaro](https://x.com/DakaYaro) | **Source:** [Link](https://x.com/DakaYaro/status/2114384753734635815) | **Published:** Oct 25, 2026
-
----
-### Vídeo Herbarium Ás de Copas do Tarot
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt para gerar um vídeo com base em uma imagem criada anteriormente, retratando uma taça de vinho cheia de óleo e rosas, semelhante ao Ás de Copas do Tarot.
-
-#### 📝 Prompt
-
-```
-Uma imagem emoldurada por luxuosas decorações douradas.
-Uma taça de vinho flutuando contra o fundo de um céu azul límpido, com uma única pomba branca voando ao longe, no canto superior direito. O sol aparece exatamente acima da taça.
-A taça está cheia até a borda com óleo mineral, transformando-se em um herbário com flores e pétalas de rosas brancas, rosas e vermelhas flutuando em seu interior.
-O óleo mineral escorre da taça em quatro direções, formando um chão que lembra um lago, onde rosas brancas, rosas e vermelhas também flutuam aqui e ali.
-Inspirado na carta de tarô Ás de Copas, mas sem nenhum texto. Por favor, use a proporção 9:16 🌹
-```
-
-<img src="https://cms-assets.youmind.com/media/1793001452634_6x4gkd_HVeaITTagAAbeJW.jpg" width="600" alt="Vídeo Herbarium Ás de Copas do Tarot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13080)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2114328317998629016) | **Published:** Oct 25, 2026
-
----
-### Transformação Android Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico detalhado descrevendo uma android feminina fotorealista em transformação durante uma exposição de robótica, com animações mecânicas complexas e efeitos de iluminação.
-
-#### 📝 Prompt
-
-```
-Um plano cinematográfico puramente fotorrealista de uma androide deslumbrante em uma Expo de Robótica de alto padrão. Ela tem cabelos escuros longos com efeito molhado presos por uma fita preta, pele de porcelana e um chassi metálico esquelético exposto de titânio polido, fibra de carbono e sensores ópticos azuis brilhantes espalhados pelo peito, pescoço e braços. Um homem vestindo uma jaqueta tech preta com um crachá pendurado no cordão está bem perto, examinando a articulação do ombro dela.
-
-De repente, ela inicia uma transformação de outro nível. Sua caixa torácica metálica e os atuadores da coluna se deslocam e se reconfiguram fluidamente, com uma elegância mecânica precisa. Os circuitos internos luminosos pulsam enquanto as placas externas do chassi recuam e se remontam formando uma armadura mais aerodinâmica e avançada. O cabelo se ergue levemente por causa do campo de energia. Seus olhos acendem com uma intensa luz ciano à medida que a transformação acelera — os atuadores dos ombros travam, os segmentos da coluna se estendem como um telescópio e o revestimento do peito se dobra em uma carapaça high-tech sem emendas. Sutis arcos de energia azul dançam pela sua estrutura.
-
-Câmera: Aproximação cinematográfica lenta com profundidade de campo reduzida, começando no rosto dela e na reação do homem, depois contornando-a suavemente enquanto a transformação se conclui. Iluminação volumétrica dramática, rim lights em azul frio misturadas às luzes práticas e quentes do pavilhão da expo. Atmosfera cyberpunk sci-fi de altíssimo nível, movimento mecânico ultradetalhado, interação realista entre metal e pele, sem visual de desenho animado ou plástico. 4K, lens flare anamórfico, granulação sutil de película.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114174145147625472/img/s8YjgyosgkPzpllI.jpg" width="600" alt="Transformação Android Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13078)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114174289935266288) | **Published:** Oct 25, 2026
-
----
-### Jogo de Bolinhas de Gude Galácticas na Praia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt criativo descrevendo um jogo de bolinhas de gude na praia, onde cada bolinha contém uma galáxia de formato diferente.
-
-#### 📝 Prompt
-
-```
-Jogo de bolinhas de gude sendo jogado na praia, cada uma com uma galáxia de formato diferente dentro
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114132796298219520/img/7nrP0TfK2apF8lo6.jpg" width="600" alt="Jogo de Bolinhas de Gude Galácticas na Praia">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13011)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2114132864493363678) | **Published:** Oct 24, 2026
-
----
-### Melhoria Profissional de Retratos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para melhorar drasticamente uma foto, transformando-a em um retrato profissional polido, mantendo a identidade, a pose e o local, com foco em ajustes de iluminação.
-
-#### 📝 Prompt
-
-```
-Transforme radicalmente esta foto em um retrato polido e com qualidade profissional, mantendo exatamente a mesma pessoa, a mesma pose, as mesmas roupas e o mesmo local. Reilumine o modelo com uma luz principal direcional suave e lisonjeira, além de um preenchimento delicado, para que o ro...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114110855096815616/img/ylwm1VpwYUdP2RVK.jpg" width="600" alt="Melhoria Profissional de Retratos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13017)**
-
-**Author:** [Natalya Mironova](https://x.com/Natali7p3z1) | **Source:** [Link](https://x.com/Natali7p3z1/status/2114110895488147784) | **Published:** Oct 24, 2026
-
----
-### Vídeo de Reconstrução do Tabuleiro de Xadrez em Chamas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gera uma sequência dramática de vídeo onde um tabuleiro de xadrez é consumido por fogo vindo do céu e depois reconstruído com todas as peças brancas.
-
-#### 📝 Prompt
-
-```
-Tabuleiro de xadrez, xeque-mate nas peças azuis e vermelhas, o fogo desce do terceiro céu e consome tudo.
-O tabuleiro é reconstruído e as peças passam a ser todas brancas....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114075811342901249/img/u9AW7hyBlG7WmnKq.jpg" width="600" alt="Vídeo de Reconstrução do Tabuleiro de Xadrez em Chamas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13010)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2114075837704307173) | **Published:** Oct 24, 2026
-
----
-### Grok Imagine vs Gemini: Close-up de rosto humano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Teste comparativo usando o mesmo prompt no Grok Imagine e no Gemini Argon, apresentando um close-up de um homem exausto mas sereno olhando para o horizonte no topo de uma montanha com iluminação da hora dourada.
-
-#### 📝 Prompt
-
-```
-Close-up no rosto de um homem exausto, mas em paz, contemplando o horizonte do alto de uma montanha, com o vento batendo no cabelo e a luz dourada do fim de tarde
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114070458324652033/img/BIU37xfFb0q1iDV6.jpg" width="600" alt="Grok Imagine vs Gemini: Close-up de rosto humano">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13026)**
-
-**Author:** [Vassily](https://x.com/VassilyBeyond) | **Source:** [Link](https://x.com/VassilyBeyond/status/2114070481984770255) | **Published:** Oct 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2578,6 +2653,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-04T00:47:55.258Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-04T12:16:56.305Z</sub>
 
 </div>

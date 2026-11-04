@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3321** |
+| 📝 提示詞總數 | **3330** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-11-04** |
 
@@ -189,6 +189,222 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 雷射眼進化至水晶 Optimus Prime 影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這段詳細的提示詞用於生成一段變身序列，描述角色從眼中發射雷射光束，引發進化反應，最終結晶化為水晶結構的 Optimus Prime。
+
+#### 📝 提示詞
+
+```
+[生成目標]
+生成一段進階的變身序列：她從雙眼向地面射出雷射光束，雷射觸發進化反應，能量隨之結晶化，最終形成水晶結構的 Optimus。
+
+[事件腳本]
+開場時，她佇立於畫面中央，目光直視前方，身上仍蓄積著上一階段殘留的能量。她的雙眼突然射出兩道高強度雷射光束，直接擊中眼前的地面。接觸瞬間，雷射爆發並向外擴散成一片進化力場：大地龜裂、光芒四射，幾何狀的水晶晶格迅速生長並彼此交錯嵌合。逐漸成形的水晶團塊向上攀升，切面不斷增生、相互咬合，最終堆疊成一座高聳的水晶結構 Optimus。最終形態完全實體化——一尊氣勢磅礡的水晶版 Optimus Prime 巍然矗立，穩固而完整，殘餘的雷射能量也隨之消散。
+
+[保持一致性]
+請維持她的身分、眼部雷射發射，以及「進化轉化為水晶」的精確過程不變；最終生成的唯一實體就是水晶結構的 Optimus，不得新增任何角色或衍生其他結局。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="雷射眼進化至水晶 Optimus Prime 影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13516)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **發布時間:** Nov 4, 2026
+
+---
+### 賽博龐克包包變身鎧甲影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的詳細影片生成提示詞，打造電影級科幻變身場景：在霓虹閃爍的賽博龐克巷弄中，女性的包包瞬間轉化為全金屬戰鬥鎧甲。
+
+#### 📝 提示詞
+
+```
+[生成目標]
+生成一段純電影級、次世代的科幻賽博龐克變形片段：她的包包將她變身為一套全金屬戰鬥裝甲。核心主體為這名女性，主要事件是包包啟動一場完整的高科技蛻變，最終讓她全身穿戴上先進的金屬戰鬥裝甲。
+
+[事件腳本]
+開場：一名孤身女子佇立在夜裡濕滑、霓虹閃爍的賽博龐克巷弄中。她身後是高聳的全息廣告與密集的垂直建築，散發著光芒。她身穿時尚的現代服裝，肩上揹著一只流線型的高科技包包。沉鬱的青色、洋紅色與深紫色光線，映照在潮濕的路面與玻璃上。
+
+主要事件：包包發出一道低頻能量脈衝並啟動。奈米機械流與液態金屬觸鬚從中噴湧而出，以連綿流暢的姿態迅速纏繞她全身。材質漫過她的肌膚、四肢與軀幹，逐步建構出層疊的金屬甲片、活動關節、發光的能量導管、強化裝甲板，以及在她頭部成型的先進戰鬥頭盔。當裝甲鎖定就位時，電漿火花、全息介面碎片與立體光軌在她四周盤旋飛舞。她的姿態也從平民模樣轉變為備戰架勢。
+
+結尾：她已完成變身，全身覆蓋著由無縫高科技甲片組成的金屬戰鬥裝甲，青色能量線條閃耀其中，頭盔面罩亮起光芒，原本的包包已完全融入裝甲之中，不復存在。在電影感的霓虹燈光下，雨水持續劃過光滑如鏡的金屬表面。
+
+[視覺風格與氛圍]
+純粹的電影級次世代科幻賽博龐克美學。超精細的金屬表面帶有濕潤反光，立體耶穌光穿透雨絲與全息霧氣，高對比的霓虹調色、變形寬銀幕鏡頭光暈，以及豐富的空間景深。整場變身過程充滿力量、流暢且勢不可擋。
+
+[鏡頭]
+以極具張力的中廣角鏡頭開場，交代巷弄與女子的環境。當奈米機械啟動時，平穩的跟拍環繞鏡頭繞行她周身，接著快速推近，捕捉液態金屬流經她身體的細節。隨著最後幾塊裝甲板鎖定、頭盔密合，鏡頭轉為動態的低角度英雄式推進。結尾以緩慢而有力的推軌拉遠收尾，展現全副武裝的身影映襯在發光的城市天際線前。
+
+[音效]
+包包啟動時傳來深沉的超低音轟鳴，交織著銳利的金屬形變聲、奈米機械群飛掠的呼嘯聲、劈啪作響的能量釋放聲，以及沉重的液壓裝甲鎖定撞擊聲。環境音包含賽博龐克式的雨聲、遠處車流聲與全息投影的嗡嗡聲。結尾以震撼共鳴的裝甲充能音效，搭配單一綿延的電影感漸強音浪作收。
+
+[保持一致性]
+全程僅以該名女子為唯一主體。包包是變身的唯一來源，並完全融入最終的裝甲之中。裝甲必須完整、全金屬、全身包覆的戰鬥款式，不得有任何局部裸露。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117832745493897216/img/Xvh3ToZ7O-Hbtjpj.jpg" width="600" alt="賽博龐克包包變身鎧甲影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13520)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2117832838594896196) | **發布時間:** Nov 4, 2026
+
+---
+### 包包變身 Optimus Prime 女性角色影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的影片生成提示詞：描述一位女性放下包包，隨後包包變身為身穿 Optimus Prime 裝扮的她本人。
+
+#### 📝 提示詞
+
+```
+[生成目標]
+生成一段進階變身影片：一名女子將包包丟到地上，包包瞬間變身為 Optimus 造型的她。
+
+[事件腳本]
+一開始她站著手拿包包，接著刻意將包包丟到地上。包包一接觸地面，立刻展開充滿張力的高能量變身過程：體積膨脹、結構展開，浮現金屬裝甲與機械關節，發光的能量線條在不斷變化的形體上快速竄動，裝甲板一一鎖定到位，最後包包完全重組為 Optimus 造型的她——身形高挺、氣勢強大、全副武裝且蓄勢待發。結尾時，她（以 Optimus 的姿態）自信地站在原本包包的位置，變身就此完成。
+
+[保持一致性]
+她與 Optimus 造型的她在整段過程中必須是同一個角色；包包是唯一的變身來源，並會完全轉化為 Optimus 造型的她，不會留下任何多餘的物品或角色。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117796038522396672/img/dXvU0eXEhlJxm8Kg.jpg" width="600" alt="包包變身 Optimus Prime 女性角色影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13521)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2117796166192578893) | **發布時間:** Nov 4, 2026
+
+---
+### Grok Imagine 提示詞：攝影軌道車行走鏡頭
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段詳細的影片提示詞，描述兩名女性手持軍刀向前行走的攝影軌道車（Dolly）鏡頭，強調自然流暢的動作且無變形效果。
+
+#### 📝 提示詞
+
+```
+攝影機推軌鏡頭（Camera Dolly）恢復，兩名女子輕鬆自在地朝鏡頭方向走來。行走時，中國女子轉頭看向另一名女子，步伐流暢不中斷、沒有怪異舉動、也沒有快走，兩人手中持續握著軍刀，無任何變形或突兀不自然的動作
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117779481158914048/img/azt0cuqU6jGP_ZA4.jpg" width="600" alt="Grok Imagine 提示詞：攝影軌道車行走鏡頭">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13518)**
+
+**作者:** [Gentugo](https://x.com/GentugoMartukro) | **來源:** [Link](https://x.com/GentugoMartukro/status/2117779510976290960) | **發布時間:** Nov 4, 2026
+
+---
+### 80 年代情景喜劇場景：超模的美容秘密
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個影片生成提示，創造出 80 年代情景喜劇風格的幽默場景，內容是一名少女向超級名模請教美容秘訣。
+
+#### 📝 提示詞
+
+```
+一幕 80 年代情境喜劇的場景：一名青少女苦苦哀求超級名模，希望她透露擁有完美膚質與身材的祕訣。超模停頓了一下，接著拿出一台小型空壓機和噴槍。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117727841836261376/img/HQOyNuD1MB10NKny.jpg" width="600" alt="80 年代情景喜劇場景：超模的美容秘密">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13519)**
+
+**作者:** [Rusty Zimmer](https://x.com/Rust_E) | **來源:** [Link](https://x.com/Rust_E/status/2117727865550856421) | **發布時間:** Nov 3, 2026
+
+---
+### 將圖片整合至場景影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 此提示詞指示模型將特定圖片整合至場景中，並與先前生成的影片一併執行。
+
+#### 📝 提示詞
+
+```
+將這張圖片整合到場景提示詞中一起執行，並與先前的影片結合；同時製作一張充滿創意與想像力的訊息圖片，再將其與先前的影片整合在一起。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117706260296425472/img/TkAmlW2hzf5YNAQa.jpg" width="600" alt="將圖片整合至場景影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13517)**
+
+**作者:** [Un Predictable Chaos FIXER](https://x.com/Prophecy120) | **來源:** [Link](https://x.com/Prophecy120/status/2117706298162852285) | **發布時間:** Nov 3, 2026
+
+---
+### 科幻列車機器人變形
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段高度細緻的提示詞，用於生成電影級科幻影片，內容為未來感的子彈列車變形成巨大的雙足戰鬥機器人。
+
+#### 📝 提示詞
+
+```
+[生成目標]
+生成一段次世代科幻影片，呈現一列未來感高速列車徹底進行機械變形，化身為 towering 的雙足戰鬥機器人。
+
+[事件腳本]
+開場：一列流線型的銀黑子彈列車，在夜間沿著高架磁浮軌道疾駛，穿越霓虹閃爍的賽博龐克巨型城市。引擎發出低鳴並拖曳出藍色能量光軌，城市燈火化作流光飛逝而過。
+主要事件：列車啟動完整的變形程序。車頭面板以液壓般的精準度向兩側展開，露出發光的核心反應爐。側邊車廂開始摺疊重組：車輪收回，轉化為複雜的機械腿並展開鎖定，形成裝甲化的雙足肢體。主車體旋轉 90 度，向上抬升成為巨大的人形軀幹，表面覆蓋層層交錯的裝甲板。車頭鼻錐變形成細節豐富的機器人頭部，護目鏡般的雙眼亮起紅橘色光芒。手臂由車頂與底盤模組組裝而成，配備多關節機械手掌與能量武器掛載點。所有部件伴隨著火花、蒸氣與液壓活塞的撞擊聲，精準鎖定至最終位置。
+結尾：完成變形的巨型機甲挺立於軌道之上，以充滿力量的備戰姿態俯瞰整座城市天際線，胸口核心散發耀眼光芒，隨時準備迎戰。
+
+[視覺風格]
+超精細的機械科幻變形過程，呈現精密咬合的裝甲板、清晰可見的齒輪、活塞、纜線與能量導管。超寫實金屬材質，結合鍍鉻、霧面黑與發光的霓虹藍／紅色點綴。電影級賽博龐克氛圍，搭配體積光、鏡頭光暈，以及蒸氣與火花帶來的粒子特效。
+
+[鏡頭]
+動態多角度運鏡序列：開場以低角度跟拍鏡頭與疾駛的列車平行移動；變形期間切換為極具張力的環繞鏡頭；快速剪接至變形部件的特寫（車輪化為雙足、面板摺疊成裝甲）；最後拉遠，以英雄式低角度廣角鏡頭，呈現完成的機器人在霓虹城市中傲然挺立的畫面。
+
+[音效]
+深沉轟鳴的列車引擎聲逐漸轉為沉重的液壓嘶嘶聲、金屬撞擊聲、齒輪摩擦聲、能量啟動的呼嘯聲，並在機器人完全啟動時，以一聲低沉的機械怒吼作結。背景融入賽博龐克城市的環境音與遠處車流聲。
+
+[保持一致性]
+維持單一列車連續變形為一台完整機器人的過程。所有機械部件皆須源自原始列車結構。全程保持統一的科幻設計語彙、發光能量點綴，以及賽博龐克的夜景環境。
+
+免責聲明：
+本影片為 AI 生成的虛構科幻概念，僅供娛樂用途。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117622516717928448/img/1NIOWBUtsdb37GpP.jpg" width="600" alt="科幻列車機器人變形">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13515)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2117622653720707335) | **發布時間:** Nov 3, 2026
+
+---
+### Grok Imagine 影片提示詞：球體爆炸轉化為 Terafab
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 影片生成提示詞：描繪一名女子掉落球體，球體爆炸並轉化為名為 Terafab 的大型結構。
+
+#### 📝 提示詞
+
+```
+[生成目標]
+生成一段女子連續進階變化的影片。她手中握著一顆球，刻意將球丟落地面，球體撞擊後猛烈爆炸，並從爆炸中實體化、完整建構出一座 Terafab。
+
+[事件腳本]
+開場：女子站在空曠的場地上，手臂向前伸直，手中緊握著球，神情專注地低頭凝視。
+主要事件：她鬆開手指，讓球垂直落下。球重重砸向地面，瞬間引爆出一道刺眼強光，伴隨著能量與向外擴散的粒子。在爆炸中心，一座 Terafab 迅速自我建構——結構逐步組裝、表面逐漸凝實，最終完成整體外型。
+結尾：原本的球已消失無蹤，爆炸光芒完全褪去，原地留下一座完整成形的 Terafab 穩固矗立於地面。女子站在一旁，注視著完成的成果。
+
+[保持一致性]
+全程維持女子的身份、外貌、服裝與人數不變。確保僅有一顆球被丟下並在爆炸中摧毀。最終生成的單一完整 Terafab 必須是地面上唯一的物體。保留空曠的地面場景，以及「丟落 → 撞擊爆炸 → Terafab 成形」的清晰因果順序。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117553831756308480/img/Xk-uMqzsAOvGo7bA.jpg" width="600" alt="Grok Imagine 影片提示詞：球體爆炸轉化為 Terafab">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13522)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2117553931559825645) | **發布時間:** Nov 3, 2026
+
+---
 ### 從紙張到 SpaceX 火箭的變形
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -545,6 +761,45 @@ Optimus 還在努力計算 G 力中。🤖😂
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13408)**
 
 **作者:** [Realishai](https://x.com/NatureLove216) | **來源:** [Link](https://x.com/NatureLove216/status/2116971011501412751) | **發布時間:** Nov 1, 2026
+
+---
+### 賽博龐克戰士戰鬥變身影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成賽博龐克戰士在戰鬥中進行裝備變身的連續戰鬥影片的高細節提示詞，包含視覺風格、鏡頭及音效規格。
+
+#### 📝 提示詞
+
+```
+[生成目標]
+生成一段次世代連續戰鬥影片，主角為一名全副武裝的科幻賽博龐克戰士，正陷入激烈交戰。核心主體是一名身著全套戰鬥裝備的重裝賽博龐克戰士，在全面戰鬥中執行進階的次世代變形。
+
+[主體與關係]
+這名戰士是孤身作戰的賽博龐克鬥士，身穿完整的全套戰鬥服：霧面黑搭配霓虹邊緣的動力外骨骼裝甲、散發青紫色光芒的能量導管、胸甲／肩甲／四肢的強化護板、裝甲內的多層戰鬥服、整合式頭盔與 HUD 顯示面罩、武器化護臂，以及模組化硬點掛架。畫面中不會出現其他角色。所有變形皆為這名單一戰士裝備與身體系統的自主升級。
+
+[事件腳本]
+開場：戰士佇立在一條雨水浸濕、霓虹閃爍的賽博龐克城市巷弄中，頭頂是全像招牌忽明忽暗的光影，腳下是潮濕柏油路面的倒影。他已全副武裝並擺出備戰姿態，武器雖收於鞘中，但系統早已啟動就緒。
+
+主要事件：立即進入全面交戰。戰士在激戰中依序啟動次世代變形——首先，裝甲板透過液壓鎖定與能量湧動重新配置並展開，提供最大防護；接著，護臂變形成高能電漿刃與磁軌砲延伸組件；隨後，推進器爆發加速，自背包與關節處展開的適應性護盾也隨之啟動。這名戰士以流暢高速的武術結合賽博動作衝刺、跳躍，迎擊隱形敵人或敵方火力，每一次變形都讓戰力更上一層樓：裝甲進一步硬化、能量光環由青色轉為強烈的紫羅蘭色、武器在各模式間切換（刀刃斬擊 → 彈幕齊射 → 能量盾猛擊）。當戰鬥強度達到巔峰時，雨水、火花與霓虹光影在不斷變形的輪廓上飛掠而過。
+
+結尾：戰士以最終完全變形的姿態勝利佇立——裝甲徹底鎖定為終極戰鬥形態，能量導管以最高強度綻放光芒，武器全面展開待命，城市燈火映照在強化護板上，腳邊殘留的能量放電逐漸消散。
+
+[視覺風格]
+超精細的次世代科幻賽博龐克美學：濕潤反光表面、體積感霓虹霧氣、高對比的青色／洋紅色／電光紫燈光、精密的機械變形細節與無縫變形的裝甲板、火花、能量粒子，以及全像 HUD 疊加介面。兼具照片寫實與風格化的戰鬥張力，並在肢體與武器軌跡上加入動態模糊效果。
+
+[鏡頭]
+動態戰鬥電影攝影：以中景開場，完整呈現全身戰鬥裝備；接著用快速跟拍鏡頭追蹤衝刺與變形過程；在裝甲重新配置時採用低角度力量感鏡頭；武器變形時以環繞軌道運鏡圍繞戰士旋轉；最後以戲劇性的低角度緩慢推近鏡頭，定格於最終變形姿態作結。
+
+[音效]
+沉浸式全面戰鬥音效：低沉的液壓聲與金屬撞擊聲、高頻能量嗡鳴、電漿放電爆裂聲、厚重低音衝擊，以及一首隨著戰鬥強度不斷加速的強烈節奏 Synthwave 配樂。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116947344814145536/img/1GrU3LE_wII7c0bJ.jpg" width="600" alt="賽博龐克戰士戰鬥變身影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13523)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2116947477060628755) | **發布時間:** Nov 1, 2026
 
 ---
 ### 伸展台服裝設計影片提示詞
@@ -2347,186 +2602,6 @@ LUMI 帶著一把發光的白色小提琴，從線框構成的虛無中走進爆
 **作者:** [Kamil](https://x.com/madebykamil) | **來源:** [Link](https://x.com/madebykamil/status/2114421118475890705) | **發布時間:** Oct 25, 2026
 
 ---
-### 奇幻冒險者電影感提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Muca 藝術風格下女性 Fay 冒險者的詳細提示詞，具備電影級光影效果。
-
-#### 📝 提示詞
-
-```
-一位膚色白皙、留著黑色長髮的 Fay 女性，身穿冒險者服裝，採用 Muca 風格繪製，浪漫、英勇且充滿戲劇張力的構圖，電影感氛圍，黃金時刻光線。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114388500350930944/img/gODiL31Lk428JT67.jpg" width="600" alt="奇幻冒險者電影感提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13071)**
-
-**作者:** [John Francavillo](https://x.com/Francavil42824J) | **來源:** [Link](https://x.com/Francavil42824J/status/2114388513621729595) | **發布時間:** Oct 25, 2026
-
----
-### 賽博龐克 Q 版少女機甲變身影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成豎向電影感影片的完整提示詞，呈現 Q 版少女變身為配備機械翅膀與能量特效的未來主義機甲。
-
-#### 📝 提示詞
-
-```
-超寫實電影級 3D 科幻變身，直式 9:16。一位時髦的 Q 版少女頂著蓬鬆誇張的大捲髮、戴著超大尺寸的未來感墨鏡，身穿深色戰術街頭服飾，搭配金屬鍊飾與厚底靴，自信地佇立在充滿賽博龐克風格的未來巷弄中。突然間，湛藍的能量光波流竄全身，她的墨鏡瞬間化為高科技全像護目鏡，滿頭秀髮分裂成千上萬個微型機械捲髮，寬大的外套則展開成先進的裝甲外骨骼，伴隨著移動的金屬板、旋轉齒輪與閃耀的霓虹電路。她的背包膨脹為巨大的機器人能量系統，身上的鍊條蛻變成懸浮磁力武器，機械肢體也開始繞著她運轉。在令人屏息的慢動作鏡頭中，每一處服裝細節都無縫幻化為未來裝甲，電光火花、飛舞的奈米機器人與全像符號照亮了雨中的巷道。她擺出氣勢磅礡的最終姿勢，身後展開巨大的機械雙翼，靴子啟動發光推進器，藍色能量衝擊波沿著地面擴散開來。照片級真實材質、精密機械結構、流暢的變身動畫、戲劇性運鏡、電影級燈光、體積霧、逼真反射、HDR、8K 細節、史詩級科幻氛圍、震撼人心的最終亮相，變身過程一鏡到底不剪接。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114386204359614464/img/F_fkh7OXwcDUv2zI.jpg" width="600" alt="賽博龐克 Q 版少女機甲變身影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13075)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2114386681466093903) | **發布時間:** Oct 25, 2026
-
----
-### Grok Imagine 影片提示詞：灰色外星人否認自己是 AI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段富有創意的影片提示詞，內容為一個灰色外星人直視鏡頭，極力向觀眾證明自己並非 AI。
-
-#### 📝 提示詞
-
-```
-一名灰人直視鏡頭，拼命想說服觀眾自己不是 A.I.。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114384720666537984/img/b_d1O0prf5_jYRap.jpg" width="600" alt="Grok Imagine 影片提示詞：灰色外星人否認自己是 AI">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13074)**
-
-**作者:** [DakaYaro](https://x.com/DakaYaro) | **來源:** [Link](https://x.com/DakaYaro/status/2114384753734635815) | **發布時間:** Oct 25, 2026
-
----
-### 塔羅聖杯一號藥草園影片
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 此提示詞用於根據先前創建的圖片生成影片，描繪一個裝滿油和玫瑰的酒杯，形似塔羅牌中的聖杯一號。
-
-#### 📝 提示詞
-
-```
-一張以奢華金色裝飾為邊框的圖像。
-一只酒杯漂浮在湛藍澄澈的天空背景中，遠處右上方有一只白鴿飛翔。太陽正好位於酒杯正上方。
-酒杯裡裝滿了礦物油，化身為一座植物標本瓶，裡頭漂浮著白色、粉色與紅色的玫瑰花及花瓣。
-礦物油從酒杯向四方流淌而出，形成一片宛如湖泊的地面，水面上也四處漂浮著白色、粉色與紅色的玫瑰。
-想像塔羅牌中的「聖杯一」（Ace of Cups），但不需要任何文字。請使用 9:16 的比例 🌹
-```
-
-<img src="https://cms-assets.youmind.com/media/1793001452634_6x4gkd_HVeaITTagAAbeJW.jpg" width="600" alt="塔羅聖杯一號藥草園影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13080)**
-
-**作者:** [華月光](https://x.com/hanagekkou) | **來源:** [Link](https://x.com/hanagekkou/status/2114328317998629016) | **發布時間:** Oct 25, 2026
-
----
-### Cyberpunk Android 變形
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段詳細的電影級提示詞，描述在機器人展覽會上寫實女性 Android 進行變形的場景，包含複雜的機械動畫與光影效果。
-
-#### 📝 提示詞
-
-```
-一段純寫實電影級鏡頭，拍攝一位在頂級機器人博覽會（Robotics Expo）上驚豔全場的女性仿生人。她留著帶有濕髮感的黑色長髮並繫上黑緞帶，肌膚如瓷器般細緻；胸腔、頸部與雙臂則裸露出由拋光鈦金屬與碳纖維打造的骨架結構，以及散發藍光的精密光學感測器。一名身穿黑色科技風外套、胸前掛著識別證掛繩的男子站在近處，正仔細端詳她的肩部關節。
-
-突然間，她開始了超乎想像的進化變形。金屬肋骨與脊椎致動器以精準而優雅的機械律動流暢位移、重新組裝。內部發光迴路隨之脈動，外殼裝甲板向內收縮並重組為更俐落、更先進的裝甲。能量場讓她的髮絲微微揚起。隨著變形加速，她的雙眼燃起強烈的青藍色光芒——肩部致動器鎖定、脊椎節段如望遠鏡般層層伸展，胸甲則摺疊收攏成毫無接縫的高科技外殼。微弱的藍色電弧在她全身躍動閃爍。
-
-攝影機：緩慢的電影式推軌鏡頭搭配淺景深，從她的臉龐與男子的反應開始，接著在變形完成的過程中環繞她滑行。戲劇性的體積光效果，冷調藍色輪廓光與展場溫暖的現場光源相互交融。頂級科幻賽博龐克氛圍，超精細的機械動態，逼真的金屬與肌膚互動質感，絕無卡通或塑膠感。 4K 畫質、變形寬銀幕鏡頭光暈、細膩的底片顆粒感。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114174145147625472/img/s8YjgyosgkPzpllI.jpg" width="600" alt="Cyberpunk Android 變形">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13078)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2114174289935266288) | **發布時間:** Oct 25, 2026
-
----
-### 銀河彈珠沙灘遊戲
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個描述在沙灘上玩彈珠遊戲的創意提示，其中每顆彈珠都包含形狀各異的星系。
-
-#### 📝 提示詞
-
-```
-在海灘上進行的彈珠遊戲，每顆彈珠裡都藏著形狀各異的星系
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114132796298219520/img/7nrP0TfK2apF8lo6.jpg" width="600" alt="銀河彈珠沙灘遊戲">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13011)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2114132864493363678) | **發布時間:** Oct 24, 2026
-
----
-### 專業人像優化
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 透過調整光線，將照片大幅優化為精緻的專業人像，同時保留原有的身分特徵、姿勢與場景。
-
-#### 📝 提示詞
-
-```
-將這張照片大幅優化為精緻、專業級的人像攝影，同時完整保留原圖中的人物、姿勢、服裝與場景。請以柔和迷人的定向主光搭配溫和的補光重新打光，讓臉...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114110855096815616/img/ylwm1VpwYUdP2RVK.jpg" width="600" alt="專業人像優化">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13017)**
-
-**作者:** [Natalya Mironova](https://x.com/Natali7p3z1) | **來源:** [Link](https://x.com/Natali7p3z1/status/2114110895488147784) | **發布時間:** Oct 24, 2026
-
----
-### 棋盤烈火重生影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段戲劇性的影片序列，描述棋盤被天火吞噬後，再以全白棋子重建的過程。
-
-#### 📝 提示詞
-
-```
-棋盤上藍紅兩方棋子正殺得難分難解，一道天火自第三重天而降，將一切吞噬殆盡。
-專案重新建立後，所有棋子都變成了白色……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114075811342901249/img/u9AW7hyBlG7WmnKq.jpg" width="600" alt="棋盤烈火重生影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13010)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **來源:** [Link](https://x.com/SaSHeaven26/status/2114075837704307173) | **發布時間:** Oct 24, 2026
-
----
-### Grok Imagine vs Gemini：人像特寫比較
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用相同提示詞對 Grok Imagine 與 Gemini Argon 進行比較測試，呈現一位在黃金時段光線下、於山頂凝視地平線的疲憊卻安詳男子之面部特寫。
-
-#### 📝 提示詞
-
-```
-特寫一位疲憊卻神情安詳的男子臉龐，他佇立山巔眺望遠方地平線，微風輕拂髮絲，沐浴在日暮時分的金色餘暉中
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114070458324652033/img/BIU37xfFb0q1iDV6.jpg" width="600" alt="Grok Imagine vs Gemini：人像特寫比較">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13026)**
-
-**作者:** [Vassily](https://x.com/VassilyBeyond) | **來源:** [Link](https://x.com/VassilyBeyond/status/2114070481984770255) | **發布時間:** Oct 24, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2588,6 +2663,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-04T00:47:43.923Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-04T12:16:48.806Z</sub>
 
 </div>

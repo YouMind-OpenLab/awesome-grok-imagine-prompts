@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3321** |
+| 📝 Total Prompts | **3330** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-04** |
 
@@ -189,11 +189,227 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Paper to SpaceX Rocket Transformation
+### Laser Eye Evolution to Crystal Optimus Prime Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a continuous video where a sheet of paper transforms into a launching SpaceX Falcon 9 rocket.
+> A detailed prompt for generating a transformation sequence where a character fires laser beams from her eyes that trigger an evolution reaction, crystallizing into a crystal-structure Optimus Prime.
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+Generate a next-level transformation sequence in which she fires a laser beam from her eyes to the ground, the laser triggers an evolution reaction, and the energy crystallizes into a crystal-structure Optimus.
+
+[Event Script]
+At the start she stands centered, eyes locked forward, body already charged with residual power from the previous stage. Both eyes suddenly emit twin high-intensity laser beams that strike the ground directly in front of her. On contact the lasers erupt into a spreading evolutionary field: the earth cracks, light cascades outward, and geometric crystal lattices rapidly grow and interlock. The forming crystal mass expands upward, facets multiplying and interlocking into a towering crystal-structure Optimus. The final form fully materializes—an imposing crystalline Optimus Prime—standing complete and stable as the residual laser energy fades.
+
+[Maintain Consistency]
+Keep her identity, eye-laser emission, and the exact evolution-to-crystal process stable; the only final entity created is the crystal-structure Optimus, with no added characters or alternate outcomes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="Laser Eye Evolution to Crystal Optimus Prime Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13516)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **Published:** Nov 4, 2026
+
+---
+### Cyberpunk Bag to Armor Transformation Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt for Grok Imagine that creates a cinematic sci-fi transformation sequence where a woman's bag turns into full metallic combat armor in a neon cyberpunk alley.
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+Generate a pure cinematic next-level Transformations Sci-Fi cyberpunk sequence in which her bag transforms her into a full metallic combat armor suit. The core subject is the woman, and the principal event is the bag initiating a complete high-tech metamorphosis that ends with her fully clad in advanced metallic combat armor.
+
+[Event Script]
+At the start: A lone woman stands in a rain-slicked neon-drenched cyberpunk alley at night. Towering holographic advertisements and dense vertical architecture glow behind her. She wears a stylish contemporary outfit and carries a sleek high-tech bag on her shoulder. Moody cyan, magenta, and deep purple light reflects off wet pavement and glass.
+
+Principal event: The bag activates with a low-frequency energy pulse. Nanite streams and liquid-metal tendrils erupt from it, rapidly wrapping around her body in a continuous, fluid cascade. The material flows over her skin, limbs, and torso, building layered metallic plates, articulated joints, glowing energy conduits, reinforced plating, and an advanced combat helmet that forms around her head. Sparks of plasma, holographic interface fragments, and volumetric light trails spiral around her as the armor locks into place. Her posture shifts from civilian to combat-ready stance.
+
+At the end: She stands fully transformed in a complete full-body metallic combat armor suit of seamless high-tech plates with glowing cyan energy lines, helmet visor illuminated, the original bag fully integrated and gone. Rain continues to streak across the polished metal surfaces under cinematic neon lighting.
+
+[Visual Style and Mood]
+Pure cinematic next-level Sci-Fi cyberpunk aesthetic. Ultra-detailed metallic surfaces with wet reflections, volumetric god rays cutting through rain and holographic fog, high-contrast neon color grading, anamorphic lens flares, and rich atmospheric depth. The transformation feels powerful, fluid, and inevitable.
+
+[Camera]
+Begins in a dramatic medium-wide shot establishing the alley and the woman. Smooth tracking orbit circles her as the nanites activate, then pushes in tightly to capture the liquid-metal flow across her body. Dynamic low-angle heroic push-in as the final armor plates lock and the helmet seals. Ends on a powerful slow dolly-out revealing the fully armored figure silhouetted against the glowing cityscape.
+
+[Sound]
+Deep sub-bass rumble as the bag activates, layered with sharp metallic morphing and nanite swarm whooshes, crackling energy discharges, and heavy hydraulic plate-locking impacts. Ambient cyberpunk rain, distant traffic, and holographic hums. Ends with a powerful resonant armor-power-up tone and a single sustained cinematic swell.
+
+[Maintain Consistency]
+Keep the single woman as the only subject. The bag is the exclusive source of the transformation and fully integrates into the final armor. Armor is complete, metallic, full-body combat style with no partial coverage.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117832745493897216/img/Xvh3ToZ7O-Hbtjpj.jpg" width="600" alt="Cyberpunk Bag to Armor Transformation Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13520)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117832838594896196) | **Published:** Nov 4, 2026
+
+---
+### Bag to Optimus Woman Transformation Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine where a woman drops her bag, which then transforms into her own persona dressed as Optimus Prime.
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+Generate a next-level transformation video of a woman who drops her bag on the ground; the bag suddenly transforms into herself as Optimus.
+
+[Event Script]
+At the start she stands holding the bag, then deliberately drops it onto the ground. The bag hits the surface and immediately begins a dramatic high-energy transformation: it expands, unfolds, metallic plating and mechanical joints emerge, glowing energy lines race across the shifting form, armor panels lock into place, and the bag fully reforms into her exact self as Optimus — standing tall, powerful, fully armored, and ready. At the end she (as Optimus) stands confidently in place of the bag, the transformation complete.
+
+[Maintain Consistency]
+She and her Optimus form remain the same single character throughout; the bag is the sole source of the transformation and completely becomes her Optimus self with no extra objects or characters remaining.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117796038522396672/img/dXvU0eXEhlJxm8Kg.jpg" width="600" alt="Bag to Optimus Woman Transformation Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13521)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117796166192578893) | **Published:** Nov 4, 2026
+
+---
+### Grok Imagine Prompt: Camera Dollie Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt describing a camera dollie shot of two women walking forward with sabers, emphasizing natural movement and no morphing.
+
+#### 📝 Prompt
+
+```
+Camera Dollie’s back as the two women casually walk forward towards camera,  Chinese woman looks at other woman as they walk,no hitch in stride, no weird actions,  no fast walking,  they keep sabers in their hands, no morphing, no unnatural movements
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117779481158914048/img/azt0cuqU6jGP_ZA4.jpg" width="600" alt="Grok Imagine Prompt: Camera Dollie Walk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13518)**
+
+**Author:** [Gentugo](https://x.com/GentugoMartukro) | **Source:** [Link](https://x.com/GentugoMartukro/status/2117779510976290960) | **Published:** Nov 4, 2026
+
+---
+### 80s Sitcom Scene with Super Model Secret
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt creating a comedic scene in the style of an 80s sitcom, featuring a teenage girl asking a super model for beauty secrets.
+
+#### 📝 Prompt
+
+```
+A scene from an 80s sitcom with a teenage girl is pleading with a super model to reveal the secret to her perfect complexion and figure. The super model pauses a moment then reveals a small compressor and airbrush.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117727841836261376/img/HQOyNuD1MB10NKny.jpg" width="600" alt="80s Sitcom Scene with Super Model Secret">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13519)**
+
+**Author:** [Rusty Zimmer](https://x.com/Rust_E) | **Source:** [Link](https://x.com/Rust_E/status/2117727865550856421) | **Published:** Nov 3, 2026
+
+---
+### Integrate Picture into Scene Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt instructing the model to integrate a specific picture into a scene and run it together with previous videos.
+
+#### 📝 Prompt
+
+```
+Integrate this picture into the scene prompt run together previous videos and integrate a A creative imaginative picture of message with previous videos
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117706260296425472/img/TkAmlW2hzf5YNAQa.jpg" width="600" alt="Integrate Picture into Scene Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13517)**
+
+**Author:** [Un Predictable Chaos FIXER](https://x.com/Prophecy120) | **Source:** [Link](https://x.com/Prophecy120/status/2117706298162852285) | **Published:** Nov 3, 2026
+
+---
+### Sci-fi train robot transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt for generating a cinematic sci-fi video where a futuristic bullet train transforms into a giant bipedal combat robot.
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+Generate a next-level sci-fi video of a futuristic high-speed train undergoing a complete mechanical robotic transformation into a towering bipedal combat robot.
+
+[Event Script]
+At the start: A sleek, aerodynamic silver-and-black bullet train races along elevated maglev tracks through a neon-lit cyberpunk megacity at night, engines humming with blue energy trails, city lights streaking past.
+Principal event: The train begins its complete transformation sequence. Front locomotive panels split open with hydraulic precision, revealing glowing core reactors. Side carriages fold and reconfigure: wheels retract into complex mechanical legs that unfold and lock into place, forming armored bipedal limbs. The main body rotates 90 degrees, elevating into a massive humanoid torso with interlocking armored plating. The front nose cone morphs into a detailed robotic head with visor eyes that ignite in red-orange light. Arms assemble from roof and undercarriage modules, complete with multi-jointed mechanical hands and energy weapon mounts. All segments lock together with sparks, steam, and hydraulic pistons slamming into final position.
+At the end: The fully transformed giant robotic mech stands upright on the tracks, towering over the city skyline in a powerful battle-ready pose, chest core glowing brightly, ready for action.
+
+[Visual Style]
+Ultra-detailed mechanical sci-fi transformation with intricate interlocking armor plates, visible gears, pistons, cables, and energy conduits. Hyper-realistic metallic textures with chrome, matte black, and glowing neon blue/red accents. Cinematic cyberpunk atmosphere with volumetric lighting, lens flares, and particle effects from steam and sparks.
+
+[Camera]
+Dynamic multi-angle sequence: starts with a low tracking shot alongside the speeding train, switches to dramatic orbiting shots during the transformation, rapid cuts to close-ups of transforming parts (wheels becoming feet, panels folding into armor), then pulls back into a heroic low-angle wide shot of the completed robot standing tall against the neon city.
+
+[Sound]
+Deep rumbling train engines transition into heavy hydraulic hisses, metallic clanks, grinding gears, powering-up energy whooshes, and a final deep bass mechanical roar as the robot fully activates. Ambient cyberpunk city noise and distant traffic.
+
+[Maintain Consistency]
+Preserve the single continuous transformation of one train into one complete robot. Keep all mechanical parts originating from the original train structure. Maintain consistent sci-fi design language, glowing energy accents, and cyberpunk night environment throughout.
+
+Disclaimer: 
+This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117622516717928448/img/1NIOWBUtsdb37GpP.jpg" width="600" alt="Sci-fi train robot transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13515)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117622653720707335) | **Published:** Nov 3, 2026
+
+---
+### Grok Imagine Video Prompt: Ball Explosion into Terafab
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Grok Imagine depicting a woman dropping a ball that explodes and transforms into a large structure called a Terafab.
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+Generate a continuous next-level transformation video of the woman. She holds a ball in her hand, deliberately drops it onto the ground, the ball impacts and blasts, and from the explosion a complete Terafab materializes and fully forms.
+
+[Event Script]
+At the start: The woman stands in an open clear space, arm extended forward, gripping the ball securely in her hand, looking down at it with focused intensity.
+Principal event: She opens her fingers and drops the ball straight down. The ball hits the ground hard, immediately detonates in a sharp bright blast of light, energy, and expanding particles. From the center of the blast a Terafab rapidly constructs itself — structure assembling, surfaces solidifying, and form completing.
+At the end: The original ball is gone, the blast fully fades, and a fully formed intact Terafab rests solidly on the ground in its place. The woman stands nearby, watching the completed result.
+
+[Maintain Consistency]
+Keep the woman’s identity, appearance, clothing, and count unchanged throughout. Keep exactly one ball that is dropped and destroyed in the blast. Keep the resulting single complete Terafab as the only final object on the ground. Preserve the open ground space and the clear cause-and-effect sequence of drop → impact blast → Terafab formation.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117553831756308480/img/Xk-uMqzsAOvGo7bA.jpg" width="600" alt="Grok Imagine Video Prompt: Ball Explosion into Terafab">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13522)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117553931559825645) | **Published:** Nov 3, 2026
+
+---
+### Grok Imagine Paper to SpaceX Rocket Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed script for a continuous video transformation where paper folds into a SpaceX Falcon 9 rocket and launches.
 
 #### 📝 Prompt
 
@@ -208,9 +424,11 @@ At the end: the fully transformed SpaceX rocket accelerates upward into a star-f
 
 [Maintain Consistency]
 Keep exactly one continuous object throughout the transformation—from the initial paper sheet to the final SpaceX rocket—with no additional objects or copies appearing. Preserve clean white-to-black SpaceX color scheme, accurate Falcon 9 silhouette, and smooth, high-fidelity material metamorphosis without breaking the single-object identity.
+
+Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117514318187044864/img/DZcYFvnzswmnQrId.jpg" width="600" alt="Paper to SpaceX Rocket Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117514318187044864/img/DZcYFvnzswmnQrId.jpg" width="600" alt="Grok Imagine Paper to SpaceX Rocket Transformation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13471)**
 
@@ -236,11 +454,11 @@ Close-up of a person's hands shuffling a deck of playing cards on a wooden table
 **Author:** [能成大事](https://x.com/ncdsoffiecl) | **Source:** [Link](https://x.com/ncdsoffiecl/status/2117472779100442701) | **Published:** Nov 3, 2026
 
 ---
-### Sci-Fi Armor Transformation Video
+### Dress to Armor Rabbit to Bike Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-step video generation prompt for Grok Imagine describing a woman transforming into combat armor and a rabbit turning into a motorbike.
+> A complex multi-stage transformation video prompt for Grok Imagine involving a woman's dress turning into armor and a rabbit transforming into a Tesla motorbike.
 
 #### 📝 Prompt
 
@@ -255,12 +473,9 @@ At the end: The fully armored woman mounts the heavy Tesla motorbike, grips the 
 
 [Maintain Consistency]
 Keep the same woman throughout: her identity, face, hair, and body proportions remain unchanged. The armor stays white metallic and combat-ready once formed. The rabbit fully becomes one heavy Tesla motorbike with no residual animal features. The sequence remains continuous: bottle drop → dress-to-armor evolution → rabbit-to-motorbike evolution → she rides away.
-
-Disclaimer: 
-This video is an AI-generated fictional sci-fi concept created for entertainment purposes only. The futuristic transformations, robotic armor, and special effects are imaginary and do not represent real technology or events.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117435480140595200/img/9luLTNJO0iTegk7_.jpg" width="600" alt="Sci-Fi Armor Transformation Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117435480140595200/img/9luLTNJO0iTegk7_.jpg" width="600" alt="Dress to Armor Rabbit to Bike Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13472)**
 
@@ -459,11 +674,11 @@ Make the steering wheel a racing one and race down the interstate with a bounce 
 **Author:** [Robert Jurgesen](https://x.com/jurgesen_robert) | **Source:** [Link](https://x.com/jurgesen_robert/status/2117081951379038234) | **Published:** Nov 2, 2026
 
 ---
-### Bag to Tesla Motorbike Transformation
+### Woman Bag Transforms into Tesla Motorbike
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Detailed script-based prompt for grok-imagine to generate a transformation video where a woman's bag morphs into a Tesla Motorbike she rides away on.
+> A detailed video generation prompt where a woman drops her bag, which transforms into a futuristic Tesla motorbike that she then rides away on.
 
 #### 📝 Prompt
 
@@ -480,7 +695,7 @@ At the end: The woman is riding the heavy Tesla Motorbike away, bag completely g
 Keep the woman’s identity, appearance, and clothing stable throughout. Maintain a single bag that fully becomes the only heavy Tesla Motorbike. Ensure continuous spatial relationships and clear transformation sequence from bag drop to bike formation to ride-away. No other objects or characters appear.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117079154629689344/img/j9x56KuU5jABSSZz.jpg" width="600" alt="Bag to Tesla Motorbike Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117079154629689344/img/j9x56KuU5jABSSZz.jpg" width="600" alt="Woman Bag Transforms into Tesla Motorbike">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13412)**
 
@@ -545,6 +760,45 @@ Ultra-realistic 9:16 candid airport video, filmed from a considerable distance b
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13408)**
 
 **Author:** [Realishai](https://x.com/NatureLove216) | **Source:** [Link](https://x.com/NatureLove216/status/2116971011501412751) | **Published:** Nov 1, 2026
+
+---
+### Cyberpunk Warrior Combat Transformation Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt for generating a continuous combat video of a cyberpunk warrior undergoing gear transformations during battle, including visual style, camera, and sound specifications.
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+Generate a next-level continuous combat video of a fully combat-dressed Sci-Fi cyberpunk warrior locked in intense battle. The core subject is a heavily armored cyberpunk fighter in full combat gear, executing advanced next-level transformations during full combat.
+
+[Subjects and Relationships]
+The warrior is a lone cyberpunk combatant in complete full-combat dress: matte black and neon-edged powered exoskeleton armor with glowing cyan-purple energy conduits, reinforced plating across chest/shoulders/limbs, multi-layered combat suit under the armor, integrated helmet with visor HUD, weaponized gauntlets, and modular hardpoints. No other characters appear. All transformations are self-contained upgrades of this single fighter’s gear and body systems.
+
+[Event Script]
+At the start: The warrior stands in a rain-slicked neon-drenched cyberpunk city alley under flickering holographic signs and wet asphalt reflections, already fully geared in combat-ready stance, weapons holstered but systems powered.
+
+Principal event: Immediate full-combat engagement. The warrior activates sequential next-level transformations mid-fight — first the armor plates reconfigure and expand with hydraulic locks and energy surges for maximum protection, then gauntlets morph into high-energy plasma blades and rail-gun extensions, followed by thruster boosts and adaptive shielding that unfold from the backpack and joints. The fighter dashes, leaps, and combats invisible/enemy fire with fluid, high-speed martial-cyber moves, each transformation escalating power: armor hardens further, energy aura intensifies from cyan to violet, weapons cycle through modes (blade slash → projectile barrage → energy shield bash). Rain, sparks, and neon light streak across the transforming silhouette as combat intensity peaks.
+
+At the end: The warrior stands victorious in a final fully transformed state — armor fully locked into ultimate combat configuration, energy conduits blazing at peak intensity, weapons fully deployed and ready, city lights reflecting off the enhanced plating while residual energy discharges fade around the feet.
+
+[Visual Style]
+Hyper-detailed next-level Sci-Fi cyberpunk aesthetic: glossy wet surfaces, volumetric neon fog, high-contrast cyan/magenta/electric-purple lighting, intricate mechanical transformation details with seamless morphing panels, sparks, energy particles, and holographic HUD overlays. Photorealistic yet stylized combat intensity with dynamic motion blur on limbs and weapon trails.
+
+[Camera]
+Dynamic combat cinematography: starts in medium shot establishing the full combat dress, then rapid tracking shots following the dash and transformations, low-angle power shots during armor reconfiguration, circling orbital moves around the warrior during weapon morphs, and ends in a dramatic low slow push-in on the final transformed stance.
+
+[Sound]
+Immersive full-combat audio: deep hydraulic and metallic clanks, high-frequency energy whines, plasma discharge cracks, heavy bass impacts, and a driving rhythmic synth-wave track that accelerates with the combat intensity.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116947344814145536/img/1GrU3LE_wII7c0bJ.jpg" width="600" alt="Cyberpunk Warrior Combat Transformation Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13523)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116947477060628755) | **Published:** Nov 1, 2026
 
 ---
 ### Runway Dress Design Video Prompt
@@ -720,11 +974,11 @@ The ballerina spins around to a symphony of notes and jumps into the page in a s
 **Author:** [Swetha Prabhakar](https://x.com/sprabs12) | **Source:** [Link](https://x.com/sprabs12/status/2116682864041553922) | **Published:** Nov 1, 2026
 
 ---
-### Grok Imagine Video Prompt: Natural Animation Template
+### Subtle Natural Motion Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A generic template prompt for generating subtle natural animations from a starting scene or reference image using Grok Imagine.
+> A reusable prompt template for generating continuous videos with subtle subject motion, gentle camera movement, and ambient sound matching the environment.
 
 #### 📝 Prompt
 
@@ -739,9 +993,11 @@ At the end: Subjects settle into a calm, continuous state while the overall comp
 
 [Maintain Consistency]
 Keep all subject identities, counts, clothing, prop ownership, spatial relationships, and visual style stable throughout.
+
+Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116643527157276672/img/WUFN93WFdAZYaVT9.jpg" width="600" alt="Grok Imagine Video Prompt: Natural Animation Template">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116643527157276672/img/WUFN93WFdAZYaVT9.jpg" width="600" alt="Subtle Natural Motion Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13414)**
 
@@ -1070,11 +1326,11 @@ Happy Halloween Earthlings! 🤗🎈🎃🎃
 **Author:** [marie roche](https://x.com/mariero45502253) | **Source:** [Link](https://x.com/mariero45502253/status/2116469387188191705) | **Published:** Oct 31, 2026
 
 ---
-### Abstract Energy Transformation Video Prompt
+### Energy to Masterpiece Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a continuous video where raw luminous energy evolves into a solid, complex geometric masterpiece in a dark void.
+> A prompt describing the evolution of raw creative energy from a void into geometric patterns, crystallizing into radiant solid matter, and finally becoming a completed masterpiece.
 
 #### 📝 Prompt
 
@@ -1089,11 +1345,9 @@ At the end: The transformation completes into a finished, glowing creation that 
 
 [Maintain Consistency]
 Keep a single continuous transformation sequence. Preserve the unbroken flow from pure energy into the final solid creation without interruption, reverse, or fragmentation. The creation remains one coherent entity throughout its elevation.
-
-Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116408123627827200/img/P1wk_K_O1EcEV0Gv.jpg" width="600" alt="Abstract Energy Transformation Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116408123627827200/img/P1wk_K_O1EcEV0Gv.jpg" width="600" alt="Energy to Masterpiece Transformation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13253)**
 
@@ -1219,11 +1473,11 @@ Background: dramatic misty mountains, green valleys far below, bright blue sky w
 **Author:** [じろじろin下関](https://x.com/ziro1005) | **Source:** [Link](https://x.com/ziro1005/status/2116320179701633287) | **Published:** Oct 31, 2026
 
 ---
-### Grok Imagine Video Prompt: Futuristic Cityscape Twilight
+### Futuristic Cityscape Twilight Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic sci-fi video prompt for Grok Imagine depicting a vast futuristic city at twilight with neon lights, hovering vehicles, and holographic advertisements.
+> A prompt for generating a photorealistic sci-fi cinematic video of a futuristic cityscape at twilight, detailing visuals, camera movements, and sound design.
 
 #### 📝 Prompt
 
@@ -1234,7 +1488,7 @@ The camera uses a sweeping aerial establishing shot that slowly dollies forward 
 The sound includes deep resonant ambient hums of advanced technology, distant thruster whooshes, soft rain patter on surfaces, layered electronic drones, and a subtle rising orchestral-synth score that builds cinematic tension.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116308881739841536/img/hQsIAzFo54uxNS9e.jpg" width="600" alt="Grok Imagine Video Prompt: Futuristic Cityscape Twilight">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116308881739841536/img/hQsIAzFo54uxNS9e.jpg" width="600" alt="Futuristic Cityscape Twilight Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13248)**
 
@@ -1669,11 +1923,11 @@ Keep a single human figure and continuous armor transformation sequence only. En
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115713615433204204) | **Published:** Oct 29, 2026
 
 ---
-### Cyberpunk Human Evolution Video
+### Cyberpunk Human Evolution Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a sci-fi cyberpunk video showing a human figure undergoing digital-organic metamorphosis in a neon megacity.
+> A detailed prompt for generating a sci-fi cyberpunk video featuring a lone human undergoing continuous digital-organic metamorphosis in a neon-drenched megacity. It includes specific instructions for subject relationships, event script, visual style, camera movement, and sound design.
 
 #### 📝 Prompt
 
@@ -1696,10 +1950,10 @@ Hyper-detailed next-level cyberpunk aesthetic: ultra-sharp holographic interface
 Dynamic cinematic flow: begins in medium shot on the human figure, then orbits and pushes in as transformation begins. Continuous one-take energy with accelerating tracking shots that spiral upward alongside the evolving form, culminating in a wide heroic reveal of the fully transformed entity against the rewritten skyline.
 
 [Sound]
-Deep industrial cyber-pulse soundtrack builds into soaring electronic synthesis. Layered with liquid-metal morphing sounds, cascading digital glitches, power-surge hums, and distant city ambience that evolves into a triumphant harmonic choir of synthetic t
+Deep industrial cyber-pulse soundtrack builds into soaring electronic synthesis. Layered with liquid-metal morphing sounds, cascading digital glitches, power-surge hums, and distant city ambience that evolves into a triumphant harmonic choir of synthetic tones.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115679892595675136/img/JXYW_KVRWMxvBIPN.jpg" width="600" alt="Cyberpunk Human Evolution Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115679892595675136/img/JXYW_KVRWMxvBIPN.jpg" width="600" alt="Cyberpunk Human Evolution Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13148)**
 
@@ -1727,11 +1981,11 @@ Steampunk couture meets cinematic fantasy.
 **Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2115650658942783982) | **Published:** Oct 29, 2026
 
 ---
-### Mechanical Robotic Dress Transformation Prompt
+### Lantern to Mechanical Robotic Dress Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Detailed prompt for generating a continuous transformation video where a lantern turns a woman into a mechanical robotic dress.
+> A detailed prompt for generating a continuous high-impact transformation video where a paper lantern drops on a woman's foot and transforms her into a mechanical robotic dress with glowing circuitry and armor panels.
 
 #### 📝 Prompt
 
@@ -1746,7 +2000,7 @@ At the start she stands in place as a traditional paper lantern falls from above
 Keep a single continuous subject, one lantern that drops only onto the foot, and a one-way transformation that begins exactly at the drop and ends with her fully enclosed in the mechanical robotic dress.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115641158994948096/img/kRKd-vzMhxTAyj4e.jpg" width="600" alt="Mechanical Robotic Dress Transformation Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115641158994948096/img/kRKd-vzMhxTAyj4e.jpg" width="600" alt="Lantern to Mechanical Robotic Dress Transformation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13147)**
 
@@ -1838,11 +2092,11 @@ Based on everything you know about me, place me in the era where I would feel mo
 **Author:** [Charles Liebert](https://x.com/Charles_Liebert) | **Source:** [Link](https://x.com/Charles_Liebert/status/2115479241202499709) | **Published:** Oct 28, 2026
 
 ---
-### Grok Imagine Video Prompt: Lantern Transformation Sequence
+### Lantern Combat Dress Transformation Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a cinematic video of a character named Lantern transforming into her combat dress using Grok Imagine. It specifies the event script, visual style (magical girl/superhero), camera movements, and sound design.
+> A detailed prompt for generating a magical girl/superhero transformation sequence where Lantern transforms into her combat dress. Includes event script, visual style, camera, and sound instructions.
 
 #### 📝 Prompt
 
@@ -1868,7 +2122,7 @@ Powerful rising energy hums and whooshes that build into a climactic surge, laye
 Keep Lantern as the single continuous subject throughout. Her identity remains the same before and after the transformation; only her clothing and power presentation change into the combat dress. Preserve clear visual progression from start state to fully transformed combat form.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115394762090098689/img/hVHuhI7chEhUhUW-.jpg" width="600" alt="Grok Imagine Video Prompt: Lantern Transformation Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115394762090098689/img/hVHuhI7chEhUhUW-.jpg" width="600" alt="Lantern Combat Dress Transformation Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13150)**
 
@@ -2335,186 +2589,6 @@ Back to the Moon. One astronaut, one stainless steel ship and Earth over the hor
 **Author:** [Kamil](https://x.com/madebykamil) | **Source:** [Link](https://x.com/madebykamil/status/2114421118475890705) | **Published:** Oct 25, 2026
 
 ---
-### Fantasy Adventurer Cinematic Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Detailed prompt for a female Fay adventurer in Muca art style with cinematic lighting.
-
-#### 📝 Prompt
-
-```
-A Female light skined, long black haired Fay woman in adventurers garb, done in the style of Muca, romantic, heroic , dramatic composition, Cinamatic, golden hour lighting.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114388500350930944/img/gODiL31Lk428JT67.jpg" width="600" alt="Fantasy Adventurer Cinematic Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13071)**
-
-**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2114388513621729595) | **Published:** Oct 25, 2026
-
----
-### Cyberpunk Chibi Girl Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a cinematic 3D sci-fi transformation video of a chibi girl into futuristic armor using Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic, cinematic 3D sci-fi transformation, vertical 9:16. A stylish chibi girl with enormous curly hair, oversized futuristic sunglasses, a dark tactical streetwear outfit, metallic chains, and chunky boots stands confidently in a futuristic cyberpunk alley. Suddenly, glowing blue energy pulses through her body as her sunglasses transform into a high-tech holographic visor, her hair separates into thousands of tiny mechanical curls, and her oversized jacket unfolds into an advanced armored exosuit with moving metal plates, rotating gears, and luminous neon circuits. Her backpack expands into a massive robotic energy system, while her chains morph into floating magnetic weapons and mechanical appendages orbit around her. In a breathtaking slow-motion sequence, every clothing detail transforms seamlessly into futuristic armor as electric sparks, swirling nanobots, and holographic symbols illuminate the rainy alley. She performs a powerful final pose as giant mechanical wings unfold behind her, her boots activate glowing thrusters, and a shockwave of blue energy spreads across the ground. Photorealistic textures, intricate mechanical engineering, fluid transformation animation, dramatic camera movement, cinematic lighting, volumetric fog, realistic reflections, HDR, 8K detail, epic sci-fi atmosphere, jaw-dropping final reveal, no cuts during transformation.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114386204359614464/img/F_fkh7OXwcDUv2zI.jpg" width="600" alt="Cyberpunk Chibi Girl Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13075)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114386681466093903) | **Published:** Oct 25, 2026
-
----
-### Grok Imagine Video Prompt: Grey Alien Denying AI Identity
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt featuring a grey alien looking into the camera and desperately trying to convince viewers it is not an AI.
-
-#### 📝 Prompt
-
-```
-A Grey Alien looks directly into the camera and desperately tries to convince the viewer that he’s not an A.I.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114384720666537984/img/b_d1O0prf5_jYRap.jpg" width="600" alt="Grok Imagine Video Prompt: Grey Alien Denying AI Identity">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13074)**
-
-**Author:** [DakaYaro](https://x.com/DakaYaro) | **Source:** [Link](https://x.com/DakaYaro/status/2114384753734635815) | **Published:** Oct 25, 2026
-
----
-### Tarot Cup Ace Herbarium Video
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A prompt for generating a video based on a previously created image, depicting a wine glass filled with oil and roses resembling the Tarot Ace of Cups.
-
-#### 📝 Prompt
-
-```
-An image bordered by luxurious gold decorations.
-A wine glass floating against a clear blue sky background, with a single white dove flying in the distant upper right. The sun appears directly above the glass.
-The glass is filled to the brim with mineral oil, becoming a herbarium with white, pink, and red rose flowers and petals floating inside.
-Mineral oil flows out from the glass in four directions, forming a lake-like ground where white, pink, and red roses also float here and there.
-Imagining the Tarot card Ace of Cups, but no text is needed. Please use aspect ratio 9:16 🌹
-```
-
-<img src="https://cms-assets.youmind.com/media/1793001452634_6x4gkd_HVeaITTagAAbeJW.jpg" width="600" alt="Tarot Cup Ace Herbarium Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13080)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2114328317998629016) | **Published:** Oct 25, 2026
-
----
-### Cyberpunk Android Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt describing a photorealistic female android transforming at a robotics expo, featuring complex mechanical animations and lighting effects.
-
-#### 📝 Prompt
-
-```
-A pure photorealistic cinematic shot of a stunning female android at a high-end Robotics Expo. She has long wet-look dark hair with a black ribbon, porcelain skin, and an exposed skeletal metallic chassis of polished titanium, carbon fiber, and glowing blue optical sensors across her chest, neck, and arms. A man in a black tech jacket with a lanyard stands close, examining her shoulder joint.
-
-Suddenly, she begins a next-level transformation. Her metallic ribcage and spinal actuators fluidly shift and reconfigure with precise mechanical elegance. Internal glowing circuits pulse as her outer chassis plates retract and reassemble into sleeker, more advanced armor. Her hair lifts slightly from the energy field. Her eyes ignite with intense cyan light as the transformation accelerates—shoulder actuators lock, spinal segments telescope, and chest plating folds into a seamless high-tech carapace. Subtle blue energy arcs dance across her frame.
-
-Camera: Slow cinematic push-in with shallow depth of field, starting on her face and the man’s reaction, then gliding around her as the transformation completes. Dramatic volumetric lighting, cool blue rim lights mixed with warm expo hall practicals. High-end sci-fi cyberpunk atmosphere, ultra-detailed mechanical motion, realistic metal and skin interaction, no cartoon or plastic look. 4K, anamorphic lens flare, subtle film grain.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114174145147625472/img/s8YjgyosgkPzpllI.jpg" width="600" alt="Cyberpunk Android Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13078)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114174289935266288) | **Published:** Oct 25, 2026
-
----
-### Galaxy Marbles Beach Game Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Whimsical prompt about playing marbles on a beach where each marble contains a galaxy.
-
-#### 📝 Prompt
-
-```
-Game of marbles being played on the beach each marble has a differently shaped galaxy inside it
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114132796298219520/img/7nrP0TfK2apF8lo6.jpg" width="600" alt="Galaxy Marbles Beach Game Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13011)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2114132864493363678) | **Published:** Oct 24, 2026
-
----
-### Professional Portrait Enhancement
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt to dramatically improve a photo into a polished professional portrait while maintaining identity, pose, and location, focusing on lighting adjustments.
-
-#### 📝 Prompt
-
-```
-Dramatically improve this photo into a polished, professional-quality portrait while keeping the exact same person, same pose, same clothing, and same location. Re-light the subject with flattering soft directional key light and gentle fill so the fa...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114110855096815616/img/ylwm1VpwYUdP2RVK.jpg" width="600" alt="Professional Portrait Enhancement">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13017)**
-
-**Author:** [Natalya Mironova](https://x.com/Natali7p3z1) | **Source:** [Link](https://x.com/Natali7p3z1/status/2114110895488147784) | **Published:** Oct 24, 2026
-
----
-### Chessboard Fire Rebuild Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a dramatic video sequence where a chessboard is consumed by fire from heaven and then rebuilt with all white pieces.
-
-#### 📝 Prompt
-
-```
-Chessboard a checkmate blue pieces and red , fire comes down from the third heaven and consumes it .
-Board is rebuilt chess pieces become all white ....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114075811342901249/img/u9AW7hyBlG7WmnKq.jpg" width="600" alt="Chessboard Fire Rebuild Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13010)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2114075837704307173) | **Published:** Oct 24, 2026
-
----
-### Grok Imagine vs Gemini: Human Face Close-up
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comparison test using the same prompt on Grok Imagine and Gemini Argon, featuring a close-up of an exhausted but peaceful man looking at the horizon on a mountain peak with golden hour lighting.
-
-#### 📝 Prompt
-
-```
-Close-up on the face of an exhausted but peaceful man, looking at the horizon from the top of a mountain, wind in his hair, golden light of the end of the day
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114070458324652033/img/BIU37xfFb0q1iDV6.jpg" width="600" alt="Grok Imagine vs Gemini: Human Face Close-up">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13026)**
-
-**Author:** [Vassily](https://x.com/VassilyBeyond) | **Source:** [Link](https://x.com/VassilyBeyond/status/2114070481984770255) | **Published:** Oct 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2576,6 +2650,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-04T00:47:42.010Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-04T12:16:47.439Z</sub>
 
 </div>

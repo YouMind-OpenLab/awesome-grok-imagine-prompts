@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3321** |
+| 📝 Total Prompts | **3330** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-04** |
 
@@ -189,6 +189,222 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt Video Laser Eye Evolution to Crystal Optimus Prime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt chi tiết để tạo ra chuỗi biến hình, trong đó nhân vật bắn tia laser từ mắt kích hoạt phản ứng tiến hóa, kết tinh thành Optimus Prime cấu trúc pha lê.
+
+#### 📝 Prompt
+
+```
+[Mục tiêu tạo sinh]
+Tạo ra một chuỗi biến hình đột phá, trong đó cô phóng tia laser từ mắt xuống mặt đất; tia laser kích hoạt phản ứng tiến hóa và năng lượng kết tinh thành Optimus với cấu trúc tinh thể.
+
+[Kịch bản sự kiện]
+Mở đầu, cô đứng ở vị trí trung tâm, ánh mắt hướng thẳng về phía trước, cơ thể vẫn còn tích tụ nguồn năng lượng dư thừa từ giai đoạn trước. Đột nhiên, cả hai mắt cùng phát ra hai luồng laser cường độ cao giáng thẳng xuống mặt đất ngay trước mặt cô. Khi chạm đất, các tia laser bùng nổ tạo thành một trường tiến hóa lan rộng: mặt đất nứt toác, ánh sáng tuôn trào ra xung quanh, những mạng tinh thể hình học nhanh chóng mọc lên và đan cài vào nhau. Khối tinh thể đang hình thành vươn cao dần, các mặt cắt nhân lên rồi khớp nối chặt chẽ, dựng nên một Optimus sừng sững mang cấu trúc tinh thể. Hình thái cuối cùng hiện diện trọn vẹn — một Optimus Prime bằng pha lê đầy uy lực — đứng vững vàng và ổn định khi phần năng lượng laser còn sót lại dần tan biến.
+
+[Duy trì tính nhất quán]
+Giữ nguyên danh tính của cô, cơ chế phóng tia laser từ mắt và chính xác quá trình tiến hóa thành tinh thể; thực thể duy nhất được tạo ra ở cuối là Optimus với cấu trúc tinh thể, không thêm bất kỳ nhân vật nào hay diễn biến thay thế khác.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="Prompt Video Laser Eye Evolution to Crystal Optimus Prime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13516)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **Published:** Nov 4, 2026
+
+---
+### Prompt Video Biến Hình Từ Túi Xách Sang Giáp Chiến Đấu Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết cho Grok Imagine để tạo ra cảnh biến hình khoa học viễn tưởng điện ảnh, trong đó chiếc túi của một người phụ nữ chuyển hóa thành bộ giáp chiến đấu kim loại hoàn chỉnh trong một con hẻm cyberpunk đầy ánh đèn neon.
+
+#### 📝 Prompt
+
+```
+[Mục tiêu tạo sinh]
+Tạo ra một phân cảnh biến hình Sci-Fi cyberpunk thuần chất điện ảnh, đẳng cấp vượt trội, trong đó chiếc túi xách biến cô thành một bộ giáp chiến đấu kim loại hoàn chỉnh. Nhân vật trung tâm là người phụ nữ, và sự kiện chính là chiếc túi khởi động quá trình biến đổi công nghệ cao toàn diện, kết thúc khi cô khoác lên mình trọn vẹn bộ giáp chiến đấu kim loại tối tân.
+
+[Kịch bản sự kiện]
+Mở đầu: Một người phụ nữ đứng đơn độc trong con hẻm cyberpunk về đêm, mặt đường ướt nhẹp phản chiếu ánh đèn neon rực rỡ. Phía sau cô là những bảng quảng cáo hologram khổng lồ cùng kiến trúc dọc dày đặc đang phát sáng. Cô mặc một bộ trang phục đương thời sành điệu, vai đeo chiếc túi công nghệ cao với thiết kế mượt mà. Ánh sáng u ám mang sắc xanh lơ (cyan), hồng đậm (magenta) và tím thẳm hắt lên mặt đường ướt và những tấm kính.
+
+Sự kiện chính: Chiếc túi kích hoạt bằng một xung năng lượng tần số thấp. Các dòng nanite và xúc tu kim loại lỏng phun trào từ bên trong, nhanh chóng cuốn quanh cơ thể cô theo một dòng chảy liên tục, mượt mà. Chất liệu này trượt trên da, tay chân và thân mình cô, đắp nên từng lớp giáp kim loại xếp tầng, các khớp nối linh hoạt, những ống dẫn năng lượng phát sáng, lớp giáp gia cố và một chiếc mũ bảo hiểm chiến đấu tối tân dần định hình quanh đầu cô. Tia plasma bắn tung tóe, các mảnh giao diện hologram và vệt sáng thể tích xoáy tròn quanh người cô khi bộ giáp khóa chặt vào vị trí. Tư thế của cô chuyển từ dáng vẻ thường dân sang thế đứng sẵn sàng chiến đấu.
+
+Kết thúc: Cô đứng đó, đã biến đổi hoàn toàn trong bộ giáp chiến đấu kim loại bao phủ toàn thân, được ghép từ những phiến công nghệ cao liền mạch với các đường năng lượng xanh lơ phát sáng, kính mũ bảo hiểm bừng sáng, còn chiếc túi ban đầu đã hòa nhập hoàn toàn vào bộ giáp và không còn dấu vết. Mưa vẫn tiếp tục xối trên bề mặt kim loại bóng loáng dưới ánh đèn neon đậm chất điện ảnh.
+
+[Phong cách thị giác và Cảm xúc]
+Thẩm mỹ Sci-Fi cyberpunk thuần chất điện ảnh ở đẳng cấp mới. Bề mặt kim loại siêu chi tiết với độ phản chiếu ướt át, những tia sáng thần thánh (god rays) thể tích xuyên qua màn mưa và sương mù hologram, màu neon tương phản cao, lóa ống kính anamorphic và chiều sâu không khí phong phú. Quá trình biến hình toát lên cảm giác mạnh mẽ, uyển chuyển và tất yếu.
+
+[Góc máy]
+Bắt đầu bằng cú máy medium-wide đầy kịch tính để thiết lập bối cảnh con hẻm và người phụ nữ. Góc máy tracking mượt mà xoay vòng quanh cô khi các nanite kích hoạt, sau đó tiến sát lại để bắt trọn dòng chảy kim loại lỏng lướt trên cơ thể. Cú đẩy máy góc thấp (low-angle) đầy động lực và hào hùng khi những phiến giáp cuối cùng khóa chặt và mũ bảo hiểm khép kín. Kết thúc bằng cú dolly-out chậm rãi, mạnh mẽ, hé lộ bóng đen của nhân vật khoác giáp toàn thân in trên nền thành phố rực sáng.
+
+[Âm thanh]
+Tiếng ầm ì sub-bass trầm đục khi chiếc túi kích hoạt, đan xen với âm thanh biến hình kim loại sắc lạnh, tiếng rít vun vút của bầy nanite, tiếng phóng điện nổ lách tách và những cú va đập thủy lực nặng nề khi các phiến giáp khóa chặt. Âm thanh môi trường gồm tiếng mưa cyberpunk, xe cộ xa xa và tiếng vo ve của hologram. Đoạn kết bùng nổ với âm hưởng nạp năng lượng cho bộ giáp đầy cộng hưởng và một nốt nhạc điện ảnh ngân dài duy nhất.
+
+[Duy trì tính nhất quán]
+Giữ người phụ nữ làm nhân vật duy nhất trong khung hình. Chiếc túi là nguồn gốc duy nhất của quá trình biến hình và phải hòa nhập hoàn toàn vào bộ giáp cuối cùng. Bộ giáp phải hoàn chỉnh, bằng kim loại, che phủ toàn thân theo phong cách chiến đấu, tuyệt đối không hở bất kỳ phần nào.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117832745493897216/img/Xvh3ToZ7O-Hbtjpj.jpg" width="600" alt="Prompt Video Biến Hình Từ Túi Xách Sang Giáp Chiến Đấu Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13520)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117832838594896196) | **Published:** Nov 4, 2026
+
+---
+### Lời Nhắc Video Biến Đổi Từ Túi Xách Thành Optimus Prime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc tạo video cho Grok Imagine, trong đó một người phụ nữ thả chiếc túi của mình và nó biến hình thành chính cô ấy với ngoại hình Optimus Prime.
+
+#### 📝 Prompt
+
+```
+[Mục tiêu tạo video]
+Tạo một video biến hình đỉnh cao về một người phụ nữ thả chiếc túi xuống đất; chiếc túi bất ngờ biến thành chính cô ấy trong hình hài Optimus.
+
+[Kịch bản sự kiện]
+Mở đầu, cô đứng cầm chiếc túi trên tay, sau đó cố tình thả nó xuống đất. Khi chiếc túi vừa chạm mặt đất, quá trình biến hình đầy kịch tính và bùng nổ năng lượng lập tức diễn ra: nó phình to, bung mở, để lộ các tấm kim loại và khớp nối cơ khí, những đường năng lượng phát sáng chạy dọc theo hình khối đang chuyển động, các mảng giáp khóa chặt vào vị trí, và chiếc túi hoàn toàn tái tạo thành chính cô dưới hình dạng Optimus — cao lớn, mạnh mẽ, khoác trọn bộ giáp và sẵn sàng chiến đấu. Ở cảnh cuối, cô (dưới hình hài Optimus) tự tin đứng ngay tại vị trí của chiếc túi, quá trình biến hình kết thúc trọn vẹn.
+
+[Duy trì tính nhất quán]
+Cô ấy và hình dáng Optimus của mình luôn là cùng một nhân vật xuyên suốt video; chiếc túi là nguồn gốc duy nhất của sự biến hình và hoàn toàn hóa thành chính cô trong hình hài Optimus, không còn sót lại bất kỳ đồ vật hay nhân vật nào khác.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117796038522396672/img/dXvU0eXEhlJxm8Kg.jpg" width="600" alt="Lời Nhắc Video Biến Đổi Từ Túi Xách Thành Optimus Prime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13521)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117796166192578893) | **Published:** Nov 4, 2026
+
+---
+### Grok Imagine Prompt: Camera Dollie Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết prompt video về cảnh quay camera dollie của hai người phụ nữ đi về phía trước với kiếm, nhấn mạnh chuyển động tự nhiên và không có hiệu ứng biến dạng.
+
+#### 📝 Prompt
+
+```
+Camera Dolly trở lại khi hai người phụ nữ thong thả bước về phía camera, người phụ nữ Trung Quốc nhìn sang người phụ nữ còn lại trong lúc cả hai đang đi, nhịp bước đều đặn không vấp váp, không có hành động kỳ lạ, không bước nhanh, họ vẫn cầm thanh kiếm trên tay, không biến dạng hình ảnh, không có chuyển động thiếu tự nhiên
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117779481158914048/img/azt0cuqU6jGP_ZA4.jpg" width="600" alt="Grok Imagine Prompt: Camera Dollie Walk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13518)**
+
+**Author:** [Gentugo](https://x.com/GentugoMartukro) | **Source:** [Link](https://x.com/GentugoMartukro/status/2117779510976290960) | **Published:** Nov 4, 2026
+
+---
+### Cảnh phim sitcom thập niên 80 với bí mật của siêu mẫu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video xây dựng một cảnh hài hước theo phong cách sitcom thập niên 80, trong đó một cô gái tuổi teen hỏi bí quyết làm đẹp từ một siêu mẫu.
+
+#### 📝 Prompt
+
+```
+Một phân cảnh trong bộ phim sitcom thập niên 80: cô gái tuổi teen nài nỉ một siêu mẫu tiết lộ bí quyết để có được làn da hoàn hảo cùng vóc dáng vạn người mê. Siêu mẫu trầm ngâm một lát rồi lôi ra một chiếc máy nén khí nhỏ và cây bút phun sơn airbrush.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117727841836261376/img/HQOyNuD1MB10NKny.jpg" width="600" alt="Cảnh phim sitcom thập niên 80 với bí mật của siêu mẫu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13519)**
+
+**Author:** [Rusty Zimmer](https://x.com/Rust_E) | **Source:** [Link](https://x.com/Rust_E/status/2117727865550856421) | **Published:** Nov 3, 2026
+
+---
+### Tích hợp hình ảnh vào video cảnh quay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh hướng dẫn mô hình tích hợp một hình ảnh cụ thể vào cảnh quay và chạy cùng với các video trước đó.
+
+#### 📝 Prompt
+
+```
+Lồng ghép hình ảnh này vào prompt bối cảnh để chạy cùng các video trước đó, đồng thời kết hợp một bức ảnh truyền tải thông điệp đầy sáng tạo và giàu trí tưởng tượng với những video cũ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117706260296425472/img/TkAmlW2hzf5YNAQa.jpg" width="600" alt="Tích hợp hình ảnh vào video cảnh quay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13517)**
+
+**Author:** [Un Predictable Chaos FIXER](https://x.com/Prophecy120) | **Source:** [Link](https://x.com/Prophecy120/status/2117706298162852285) | **Published:** Nov 3, 2026
+
+---
+### Biến hình robot tàu hỏa khoa học viễn tưởng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết cao để tạo video khoa học viễn tưởng điện ảnh, trong đó một tàu cao tốc tương lai biến hình thành robot chiến đấu hai chân khổng lồ.
+
+#### 📝 Prompt
+
+```
+[Mục tiêu tạo video]
+Tạo một video khoa học viễn tưởng đỉnh cao về một đoàn tàu siêu tốc tương lai đang trải qua quá trình biến đổi cơ khí hoàn toàn thành một robot chiến đấu hai chân khổng lồ.
+
+[Kịch bản sự kiện]
+Mở đầu: Một đoàn tàu cao tốc hình viên đạn màu bạc đen với thiết kế khí động học lướt đi trên đường ray đệm từ trên cao, xuyên qua một siêu đô thị cyberpunk rực ánh đèn neon giữa màn đêm. Động cơ gầm rú để lại những vệt năng lượng xanh lam, trong khi ánh đèn thành phố vụt qua như những dải sáng.
+Sự kiện chính: Đoàn tàu bắt đầu chuỗi biến đổi toàn diện. Các tấm ốp ở đầu tàu tách ra với độ chính xác của hệ thống thủy lực, để lộ lõi phản ứng phát sáng rực rỡ. Các toa xe hai bên gập lại và tái cấu trúc: bánh xe thu vào trong, nhường chỗ cho những cặp chân cơ khí phức tạp bung ra và khóa chặt, tạo thành các chi thể bọc giáp. Thân tàu xoay 90 độ, vươn lên trở thành phần thân mình đồ sộ của một hình nhân khổng lồ với các lớp giáp đan cài vào nhau. Phần mũi tàu biến hóa thành chiếc đầu robot chi tiết, đôi mắt kính visor bừng sáng ánh đỏ cam. Cánh tay được lắp ráp từ các module trên nóc và gầm tàu, hoàn thiện với bàn tay cơ khí đa khớp cùng bệ gắn vũ khí năng lượng. Mọi bộ phận khớp nối vào nhau trong tiếng xèo xèo của tia lửa điện, luồng hơi nước phụt ra và các piston thủy lực đóng sập vào vị trí cuối cùng.
+Kết thúc: Robot mech khổng lồ sau khi biến đổi hoàn toàn đứng thẳng trên đường ray, sừng sững vượt qua cả đường chân trời của thành phố trong tư thế sẵn sàng chiến đấu đầy uy lực, lõi ngực phát sáng rực rỡ, chờ lệnh xuất kích.
+
+[Phong cách hình ảnh]
+Quá trình biến đổi cơ khí khoa học viễn tưởng siêu chi tiết với các lớp giáp đan cài tinh xảo, lộ rõ bánh răng, piston, dây cáp và ống dẫn năng lượng. Chất liệu kim loại siêu thực với sắc chrome, đen nhám, điểm xuyết bằng những vệt neon xanh/đỏ phát sáng. Bầu không khí cyberpunk đậm chất điện ảnh với ánh sáng thể tích (volumetric lighting), hiệu ứng lóa ống kính (lens flare) cùng các hạt bụi từ hơi nước và tia lửa bay tung tóe.
+
+[Góc máy]
+Chuỗi góc quay động linh hoạt: bắt đầu bằng cú lia máy tầm thấp chạy dọc theo đoàn tàu đang lao nhanh, chuyển sang những góc quay bao quanh đầy kịch tính trong lúc biến đổi, cắt cảnh liên tục đến các cận cảnh chi tiết (bánh xe hóa thành bàn chân, tấm ốp gập lại thành áo giáp), rồi lùi xa dần để lấy góc rộng từ dưới lên đầy hào hùng, khắc họa robot hoàn chỉnh đứng sừng sững giữa thành phố neon.
+
+[Âm thanh]
+Tiếng động cơ tàu ầm ầm trầm đục chuyển dần sang tiếng xì hơi thủy lực nặng nề, tiếng kim loại va đập chát chúa, tiếng bánh răng nghiến vào nhau, tiếng vù vù của năng lượng đang nạp, và cuối cùng là tiếng gầm cơ khí trầm vang dội khi robot được kích hoạt hoàn toàn. Âm thanh nền là tiếng ồn đặc trưng của đô thị cyberpunk và dòng xe cộ phía xa.
+
+[Duy trì tính nhất quán]
+Giữ nguyên một quá trình biến đổi liền mạch duy nhất từ một đoàn tàu thành một robot hoàn chỉnh. Đảm bảo mọi chi tiết cơ khí đều bắt nguồn từ chính cấu trúc của đoàn tàu ban đầu. Duy trì ngôn ngữ thiết kế khoa học viễn tưởng, các điểm nhấn năng lượng phát sáng và bối cảnh đêm cyberpunk xuyên suốt toàn bộ video.
+
+Tuyên bố miễn trừ trách nhiệm: 
+Video này là một ý tưởng khoa học viễn tưởng hư cấu do AI tạo ra, chỉ nhằm mục đích giải trí.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117622516717928448/img/1NIOWBUtsdb37GpP.jpg" width="600" alt="Biến hình robot tàu hỏa khoa học viễn tưởng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13515)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117622653720707335) | **Published:** Nov 3, 2026
+
+---
+### Grok Imagine Video Prompt: Quả bóng phát nổ thành Terafab
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video cho Grok Imagine mô tả một người phụ nữ thả quả bóng, quả bóng phát nổ và biến đổi thành một cấu trúc lớn gọi là Terafab.
+
+#### 📝 Prompt
+
+```
+[Mục tiêu tạo video]
+Tạo một video biến đổi liên tục, chuyển cảnh mượt mà sang cấp độ tiếp theo của người phụ nữ. Cô cầm một quả cầu trên tay, cố tình thả nó xuống đất, quả cầu va chạm và phát nổ, rồi từ vụ nổ đó, một Terafab hoàn chỉnh hiện ra và định hình trọn vẹn.
+
+[Kịch bản sự kiện]
+Lúc bắt đầu: Người phụ nữ đứng giữa một khoảng không gian trống trải, cánh tay vươn thẳng về phía trước, bàn tay nắm chặt quả cầu, ánh mắt tập trung nhìn xuống nó đầy quyết tâm.
+Sự kiện chính: Cô xòe các ngón tay và thả quả cầu rơi thẳng xuống. Quả cầu đập mạnh xuống đất, lập tức phát nổ thành một luồng sáng chói lòa, bùng nổ năng lượng cùng các hạt lan tỏa. Từ tâm vụ nổ, một Terafab nhanh chóng tự lắp ráp — khung sườn dần ghép nối, các bề mặt đông đặc lại và hình khối hoàn thiện.
+Lúc kết thúc: Quả cầu ban đầu đã biến mất, luồng sáng nổ tan hẳn, thay vào đó là một Terafab nguyên vẹn, hoàn chỉnh nằm vững chãi trên mặt đất. Người phụ nữ đứng gần đó, ngắm nhìn thành quả vừa được tạo ra.
+
+[Duy trì tính nhất quán]
+Giữ nguyên danh tính, ngoại hình, trang phục và số lượng nhân vật người phụ nữ trong suốt video. Chỉ có duy nhất một quả cầu được thả xuống và phá hủy trong vụ nổ. Kết quả cuối cùng chỉ là một Terafab hoàn chỉnh duy nhất nằm trên mặt đất. Giữ nguyên bối cảnh không gian trống trải và trình tự nhân quả rõ ràng: thả rơi → va chạm phát nổ → hình thành Terafab.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117553831756308480/img/Xk-uMqzsAOvGo7bA.jpg" width="600" alt="Grok Imagine Video Prompt: Quả bóng phát nổ thành Terafab">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13522)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117553931559825645) | **Published:** Nov 3, 2026
+
+---
 ### Biến Đổi Từ Giấy Thành Tên Lửa SpaceX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -545,6 +761,45 @@ Video quay lén tại sân bay tỉ lệ 9:16 chân thực đến từng chi ti�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13408)**
 
 **Author:** [Realishai](https://x.com/NatureLove216) | **Source:** [Link](https://x.com/NatureLove216/status/2116971011501412751) | **Published:** Nov 1, 2026
+
+---
+### Prompt Video Biến Hình Chiến Đấu Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết để tạo video chiến đấu liên tục của một chiến binh cyberpunk với các màn biến hình trang bị trong trận chiến, bao gồm thông số về phong cách hình ảnh, máy quay và âm thanh.
+
+#### 📝 Prompt
+
+```
+[Mục tiêu tạo sinh]
+Tạo một video chiến đấu liên tục cấp độ tiếp theo (next-level) về một chiến binh Sci-Fi cyberpunk mặc giáp chiến đấu toàn diện đang lao vào trận chiến khốc liệt. Chủ thể chính là một tay đấm cyberpunk bọc giáp hạng nặng với đầy đủ trang bị tác chiến, thực hiện các màn biến hình nâng cấp đỉnh cao ngay giữa lúc giao tranh.
+
+[Chủ thể và mối quan hệ]
+Chiến binh này là một đấu thủ cyberpunk đơn độc trong bộ đồ tác chiến hoàn chỉnh: bộ giáp exoskeleton trợ lực màu đen nhám viền neon, các ống dẫn năng lượng phát sáng xanh lơ - tím, lớp giáp gia cố dày đặc ở ngực/vai/tứ chi, bộ đồ chiến đấu nhiều lớp bên dưới lớp giáp, mũ bảo hiểm tích hợp kính HUD, găng tay vũ khí hóa và các điểm gắn module cứng. Không có nhân vật nào khác xuất hiện. Mọi màn biến hình đều là quá trình tự nâng cấp của riêng trang bị và hệ thống cơ thể người chiến binh này.
+
+[Kịch bản sự kiện]
+Mở đầu: Chiến binh đứng trong con hẻm thành phố cyberpunk ướt sũng nước mưa và ngập tràn ánh đèn neon, dưới những tấm biển hologram chớp nháy cùng mặt đường nhựa loang bóng nước. Nhân vật đã mặc giáp đầy đủ trong tư thế sẵn sàng chiến đấu, vũ khí nằm gọn trong bao nhưng mọi hệ thống đều đã được kích hoạt.
+
+Sự kiện chính: Lập tức bước vào giao tranh toàn diện. Giữa trận đánh, chiến binh lần lượt kích hoạt các pha biến hình next-level — đầu tiên, các mảng giáp tái cấu trúc và bung rộng nhờ khóa thủy lực cùng luồng năng lượng trào dâng để đạt mức phòng thủ tối đa; tiếp đó, găng tay biến đổi thành lưỡi dao plasma năng lượng cao và nòng súng rail-gun nối dài; sau cùng là bộ đẩy tăng tốc và khiên thích ứng bung ra từ ba lô cùng các khớp nối. Đấu thủ lao vút, bật nhảy và đối phó với hỏa lực vô hình/của kẻ thù bằng những đòn thế võ thuật - cyber mượt mà, tốc độ cao. Mỗi lần biến hình lại đẩy sức mạnh lên một tầm mới: giáp càng thêm cứng cáp, hào quang năng lượng chuyển sắc từ xanh lơ sang tím thẫm, vũ khí luân phiên đổi chế độ (chém bằng lưỡi dao → nã đạn liên thanh → đập khiên năng lượng). Mưa tuôn, tia lửa bắn tung và ánh neon xẹt qua bóng hình đang biến hóa khi nhịp độ trận chiến chạm đỉnh.
+
+Kết thúc: Chiến binh đứng hiên ngang trong chiến thắng ở trạng thái biến hình cuối cùng — lớp giáp đã khóa chặt vào cấu hình tác chiến tối thượng, các ống dẫn năng lượng rực sáng hết công suất, vũ khí bung ra trọn vẹn và sẵn sàng khai hỏa. Ánh đèn thành phố phản chiếu trên lớp giáp cường hóa trong khi những luồng năng lượng dư thừa dần tan biến quanh đôi chân.
+
+[Phong cách thị giác]
+Thẩm mỹ Sci-Fi cyberpunk next-level siêu chi tiết: bề mặt ướt bóng bẩy, sương mù neon thể tích (volumetric), ánh sáng tương phản cao với tông xanh lơ/hồng cánh sen/tím điện, chi tiết cơ khí biến hình tinh xảo cùng các mảng giáp trượt chuyển mượt mà, tia lửa, hạt năng lượng và lớp phủ HUD hologram. Cường độ chiến đấu chân thực như ảnh chụp nhưng vẫn mang đậm tính cách điệu, kết hợp hiệu ứng mờ chuyển động (motion blur) linh hoạt trên tứ chi và vệt lướt của vũ khí.
+
+[Góc máy]
+Kỹ thuật quay phim hành động linh hoạt: bắt đầu bằng cảnh trung (medium shot) phô diễn trọn vẹn bộ đồ tác chiến, sau đó chuyển nhanh sang các cú lia máy bám sát (tracking shot) theo từng nhịp lao vút và biến hình, góc máy thấp đầy uy lực khi giáp tái cấu trúc, cú xoay quỹ đạo vòng quanh chiến binh lúc vũ khí thay hình đổi dạng, và khép lại bằng cú đẩy máy chậm, góc thấp đầy kịch tính vào tư thế biến hình cuối cùng.
+
+[Âm thanh]
+Âm thanh tác chiến toàn diện đầy tính đắm chìm: tiếng thủy lực trầm đục và kim loại va đập chát chúa, tiếng rít năng lượng tần số cao, tiếng nổ lách tách của phóng điện plasma, những nhịp bass giáng mạnh, cùng bản nhạc synth-wave dồn dập tăng tốc theo nhịp độ khốc liệt của trận chiến.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116947344814145536/img/1GrU3LE_wII7c0bJ.jpg" width="600" alt="Prompt Video Biến Hình Chiến Đấu Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13523)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2116947477060628755) | **Published:** Nov 1, 2026
 
 ---
 ### Prompt Video Thiết Kế Váy Cho Sàn Catwalk
@@ -2334,186 +2589,6 @@ Trở lại Mặt Trăng. Một phi hành gia, một con tàu bằng thép khôn
 **Author:** [Kamil](https://x.com/madebykamil) | **Source:** [Link](https://x.com/madebykamil/status/2114421118475890705) | **Published:** Oct 25, 2026
 
 ---
-### Prompt điện ảnh cho nhà thám hiểm kỳ ảo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết cho nữ Fay adventurer phong cách nghệ thuật Muca với ánh sáng điện ảnh.
-
-#### 📝 Prompt
-
-```
-Một người phụ nữ Fay da sáng, mái tóc đen dài buông xõa, khoác trên mình trang phục thám hiểm, được thể hiện theo phong cách của Muca, lãng mạn, hào hùng, bố cục đầy kịch tính, đậm chất điện ảnh, ánh sáng giờ vàng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114388500350930944/img/gODiL31Lk428JT67.jpg" width="600" alt="Prompt điện ảnh cho nhà thám hiểm kỳ ảo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13071)**
-
-**Author:** [John Francavillo](https://x.com/Francavil42824J) | **Source:** [Link](https://x.com/Francavil42824J/status/2114388513621729595) | **Published:** Oct 25, 2026
-
----
-### Prompt Video Biến Hình Mech Cô Gái Chibi Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt toàn diện để tạo video điện ảnh dọc, thể hiện một cô gái chibi biến hình thành bộ giáp tương lai với cánh cơ khí và hiệu ứng năng lượng.
-
-#### 📝 Prompt
-
-```
-Siêu chân thực, biến hình 3D sci-fi đậm chất điện ảnh, khung hình dọc 9:16. Một cô gái chibi sành điệu với mái tóc xoăn xù khổng lồ, kính râm ngoại cỡ mang hơi hướng tương lai, bộ đồ streetwear chiến thuật tối màu, dây xích kim loại và đôi bốt hầm hố đang tự tin đứng giữa con hẻm cyberpunk của thế giới tương lai. Bất chợt, những luồng năng lượng xanh rực sáng chạy dọc cơ thể cô: chiếc kính râm hóa thành tấm che mặt hologram công nghệ cao, mái tóc tách ra thành hàng ngàn lọn xoăn cơ khí tí hon, còn chiếc áo khoác ngoại cỡ bung mở thành một bộ giáp exosuit tân tiến với các tấm kim loại chuyển động, bánh răng xoay tròn và những đường mạch neon phát sáng. Chiếc ba lô trên lưng phình to thành hệ thống năng lượng robot khổng lồ, trong khi đám dây xích biến hóa thành vũ khí từ tính lơ lửng cùng các chi tiết cơ khí bay quỹ đạo quanh người cô. Trong phân cảnh slow-motion nghẹt thở, từng chi tiết trang phục liền mạch hóa thành lớp giáp tương lai, giữa lúc tia lửa điện, đàn nanobot cuộn xoáy và các ký tự hologram thắp sáng cả con hẻm ướt mưa. Cô tung ra tư thế kết màn đầy uy lực khi đôi cánh cơ khí khổng lồ xòe rộng phía sau, đế bốt kích hoạt động cơ đẩy rực sáng, và một đợt sóng xung kích năng lượng xanh lan tỏa khắp mặt đất. Chất liệu chân thực như ảnh chụp, kỹ thuật cơ khí tinh xảo, hoạt ảnh biến hình mượt mà, góc máy chuyển động kịch tính, ánh sáng điện ảnh, sương mù thể tích, phản chiếu chân thực, HDR, chi tiết 8K, bầu không khí sci-fi hoành tráng, khoảnh khắc lộ diện cuối cùng khiến người xem choáng ngợp, không cắt cảnh trong suốt quá trình biến hình.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114386204359614464/img/F_fkh7OXwcDUv2zI.jpg" width="600" alt="Prompt Video Biến Hình Mech Cô Gái Chibi Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13075)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114386681466093903) | **Published:** Oct 25, 2026
-
----
-### Prompt Video Grok Imagine: Người Ngoài Hành Tinh Xám Phủ Nhận Là AI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video Grok Imagine sáng tạo với người ngoài hành tinh xám nhìn thẳng vào camera và cố gắng thuyết phục người xem rằng họ không phải là AI.
-
-#### 📝 Prompt
-
-```
-Một người ngoài hành tinh Grey nhìn thẳng vào ống kính và ra sức thuyết phục người xem rằng mình không phải là A.I.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114384720666537984/img/b_d1O0prf5_jYRap.jpg" width="600" alt="Prompt Video Grok Imagine: Người Ngoài Hành Tinh Xám Phủ Nhận Là AI">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13074)**
-
-**Author:** [DakaYaro](https://x.com/DakaYaro) | **Source:** [Link](https://x.com/DakaYaro/status/2114384753734635815) | **Published:** Oct 25, 2026
-
----
-### Video Herbarium về Lá Bài Ace of Cups trong Bộ Bài Tarot
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Lời nhắc tạo video dựa trên hình ảnh đã được tạo trước đó, mô tả một ly rượu vang chứa đầy dầu và hoa hồng gợi liên tưởng đến lá bài Ace of Cups trong bộ bài Tarot.
-
-#### 📝 Prompt
-
-```
-Một bức ảnh được viền bởi những họa tiết trang trí bằng vàng sang trọng.
-Một chiếc ly rượu lơ lửng trên nền trời xanh trong vắt, với một chú bồ câu trắng đơn độc đang bay ở góc trên bên phải phía xa. Mặt trời tỏa sáng ngay phía trên chiếc ly.
-Chiếc ly chứa đầy tràn dầu khoáng, biến thành một tiêu bản thực vật với những bông hoa và cánh hoa hồng màu trắng, hồng, đỏ bồng bềnh bên trong.
-Dầu khoáng tuôn trào ra khỏi ly theo bốn hướng, tạo thành một mặt đất tựa như hồ nước, nơi những đóa hồng trắng, hồng và đỏ cũng dập dờn đây đó.
-Hình dung về lá bài Tarot Ace of Cups, nhưng không cần có chữ. Vui lòng sử dụng tỷ lệ khung hình 9:16 🌹
-```
-
-<img src="https://cms-assets.youmind.com/media/1793001452634_6x4gkd_HVeaITTagAAbeJW.jpg" width="600" alt="Video Herbarium về Lá Bài Ace of Cups trong Bộ Bài Tarot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13080)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2114328317998629016) | **Published:** Oct 25, 2026
-
----
-### Biến Hình Android Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt điện ảnh chi tiết mô tả một nữ android siêu thực đang biến hình tại triển lãm robot, nổi bật với các hiệu ứng ánh sáng và hoạt ảnh cơ khí phức tạp.
-
-#### 📝 Prompt
-
-```
-Một cảnh quay điện ảnh chân thực tuyệt đối, khắc họa một nữ android tuyệt đẹp tại một triển lãm Robotics cao cấp. Cô sở hữu mái tóc đen dài ướt mượt buộc bằng dải ruy băng đen, làn da trắng sứ như gốm, cùng phần khung xương kim loại lộ ra ngoài làm từ titanium đánh bóng và sợi carbon. Các cảm biến quang học màu xanh dương phát sáng trải dọc ngực, cổ và cánh tay cô. Một người đàn ông mặc áo khoác công nghệ màu đen, đeo thẻ lanyard, đứng sát bên cạnh để quan sát kỹ khớp vai của cô.
-
-Đột nhiên, cô bắt đầu một màn biến hình vượt tầm đẳng cấp. Khung sườn kim loại và các bộ truyền động dọc cột sống dịch chuyển, tái cấu trúc nhịp nhàng với độ chính xác cơ khí đầy tinh tế. Những mạch điện phát sáng bên trong nhấp nháy theo nhịp đập khi các tấm vỏ ngoài thu lại rồi lắp ghép thành một lớp giáp mới thon gọn và tối tân hơn. Mái tóc cô khẽ bay lên dưới tác động của trường năng lượng. Đôi mắt bùng lên ánh sáng xanh cyan rực rỡ khi quá trình biến hình tăng tốc—các bộ truyền động ở vai khóa chặt, từng đốt sống trượt lồng vào nhau, và những tấm giáp ngực gập lại tạo thành một lớp mai công nghệ cao liền mạch. Những tia năng lượng xanh lam mờ ảo nhảy múa khắp thân hình cô.
-
-Camera: Chuyển động tiến chậm mang đậm chất điện ảnh với độ sâu trường ảnh mỏng, khởi đầu từ gương mặt cô và biểu cảm của người đàn ông, sau đó lướt vòng quanh cô khi quá trình biến hình hoàn tất. Ánh sáng thể tích (volumetric lighting) đầy kịch tính, viền sáng xanh lạnh hòa quyện cùng ánh đèn thực tế ấm áp của sảnh triển lãm. Bầu không khí sci-fi cyberpunk cao cấp, chuyển động cơ khí chi tiết đến từng milimet, sự tương tác chân thực giữa kim loại và da thịt, tuyệt đối không có cảm giác hoạt hình hay nhựa giả tạo. Độ phân giải 4K, lóa ống kính anamorphic, nhiễu hạt phim nhẹ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114174145147625472/img/s8YjgyosgkPzpllI.jpg" width="600" alt="Biến Hình Android Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13078)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114174289935266288) | **Published:** Oct 25, 2026
-
----
-### Trò Chơi Bắn Bi Thiên Hà Trên Bãi Biển
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt sáng tạo mô tả trò chơi bắn bi trên bãi biển, trong đó mỗi viên bi chứa một thiên hà có hình dạng khác nhau.
-
-#### 📝 Prompt
-
-```
-Trò chơi bắn bi trên bãi biển, mỗi viên bi lại chứa bên trong một thiên hà mang hình dáng khác nhau
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114132796298219520/img/7nrP0TfK2apF8lo6.jpg" width="600" alt="Trò Chơi Bắn Bi Thiên Hà Trên Bãi Biển">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13011)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2114132864493363678) | **Published:** Oct 24, 2026
-
----
-### Nâng Cấp Chân Dung Chuyên Nghiệp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt giúp nâng cấp ảnh thành chân dung chuyên nghiệp hoàn hảo, giữ nguyên danh tính, tư thế và bối cảnh, tập trung vào điều chỉnh ánh sáng.
-
-#### 📝 Prompt
-
-```
-Nâng cấp đáng kể bức ảnh này thành một chân dung hoàn thiện, chất lượng chuyên nghiệp trong khi vẫn giữ nguyên chính xác người trong ảnh, tư thế, trang phục và địa điểm. Hãy chiếu sáng lại chủ thể bằng ánh sáng chính định hướng mềm mại, tôn dáng cùng ánh sáng phụ dịu nhẹ để khuôn...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114110855096815616/img/ylwm1VpwYUdP2RVK.jpg" width="600" alt="Nâng Cấp Chân Dung Chuyên Nghiệp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13017)**
-
-**Author:** [Natalya Mironova](https://x.com/Natali7p3z1) | **Source:** [Link](https://x.com/Natali7p3z1/status/2114110895488147784) | **Published:** Oct 24, 2026
-
----
-### Video Tái Dựng Bàn Cờ Trong Lửa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo ra một chuỗi video kịch tính, trong đó bàn cờ bị thiêu rụi bởi lửa từ trời và sau đó được tái dựng với toàn bộ các quân cờ màu trắng.
-
-#### 📝 Prompt
-
-```
-Bàn cờ chiếu tướng, quân xanh và quân đỏ đối đầu, lửa từ tầng trời thứ ba giáng xuống thiêu rụi tất cả.
-Bàn cờ được dựng lại, các quân cờ đều chuyển sang màu trắng....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114075811342901249/img/u9AW7hyBlG7WmnKq.jpg" width="600" alt="Video Tái Dựng Bàn Cờ Trong Lửa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13010)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2114075837704307173) | **Published:** Oct 24, 2026
-
----
-### Grok Imagine vs Gemini: Cận cảnh khuôn mặt con người
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bài kiểm tra so sánh sử dụng cùng một prompt trên Grok Imagine và Gemini Argon, với cận cảnh khuôn mặt của một người đàn ông mệt mỏi nhưng bình yên đang nhìn về phía chân trời trên đỉnh núi trong ánh nắng vàng.
-
-#### 📝 Prompt
-
-```
-Cận cảnh gương mặt một người đàn ông mệt nhoài nhưng thanh thản, đang phóng tầm mắt về phía đường chân trời từ đỉnh núi, gió thổi tung mái tóc, ánh nắng vàng rực của buổi chiều tà
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114070458324652033/img/BIU37xfFb0q1iDV6.jpg" width="600" alt="Grok Imagine vs Gemini: Cận cảnh khuôn mặt con người">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13026)**
-
-**Author:** [Vassily](https://x.com/VassilyBeyond) | **Source:** [Link](https://x.com/VassilyBeyond/status/2114070481984770255) | **Published:** Oct 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2575,6 +2650,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-04T00:47:47.228Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-04T12:16:51.495Z</sub>
 
 </div>
