@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3330** |
+| 📝 提示词总数 | **3343** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-05** |
 
@@ -189,6 +189,207 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Grok Imagine 提示词：王子将女仆变身为公主
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的视频生成提示词，描述一位年轻王子向女仆伸出手，女仆在握住他的手后变身为公主。
+
+#### 📝 提示词
+
+```
+一位年轻的王子向女仆伸出手，当女仆握住王子的手时，她便化身成了公主。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg" width="600" alt="Grok Imagine 提示词：王子将女仆变身为公主">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13552)**
+
+**作者:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **来源:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **发布时间:** Nov 5, 2026
+
+---
+### 科幻战斗装甲激活序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的提示词，生成一段逼真的视频，展示模块化战斗装甲以液压精度和能量点火从非激活状态转变为战斗就绪配置。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段极具电影感且逼真的科幻视频，展示次世代变形战斗装甲。核心主体是一套先进的模块化战斗装甲，它将经历多阶段变形——从流线型的休眠战衣，逐步转化为全面激活、随时投入战斗的动力装甲，重点突出机械精密感、能量系统以及高度紧张的临战状态。
+
+[事件脚本]
+开场：一套流线型贴身基础战斗服静立在光线昏暗的高科技机库中。装甲呈哑光黑色，表面带有低调的六边形甲片纹理；在冰冷的工业照明下，处于休眠状态的蓝色能量纹路若隐若现。
+主要事件：变形程序启动。甲片以液压级的精准度开始位移与扩张——胸甲与肩甲模块向外展开，层层咬合的复合装甲迅速覆盖躯干与四肢，护手重组为适配重型武器的形态，头盔闭合锁死，多段式面甲精准卡入位。与此同时，沿脊柱、关节及胸部反应堆分布的能量核心依次点亮。伺服机构锁定，推进器从小腿与背部弹出，全身能量护盾网格短暂闪耀后趋于稳定，装甲正式进入战斗构型。
+结尾：完成变形的战斗装甲全面激活，摆出充满张力的备战姿态——头盔内 HUD 界面泛着微光，能量纹路脉动着明亮的青蓝色光芒，甲片紧密咬合，表面布满逼真的金属质感与战斗划痕，随时准备投入激战。
+
+[保持一致性]
+全程将装甲视为一个连续的整体：基础轮廓保持不变，仅通过机械结构进行变形演化；材质始终保持哑光黑与拉丝金属质感，搭配青蓝色能量点缀；整体比例与核心设计语言不得改变。不添加任何额外角色、集成系统以外的武器，也不切换场景环境。
+
+画面需呈现超写实的科幻材质细节，包括细微划痕、油膜反光、能量散热口周围的热浪扭曲效果、体积光以及锐利的景深表现。
+镜头采用连贯的电影级环绕运镜：起始于未激活战衣的低角度四分之三侧面中景，在变形过程中平滑推进并环绕拍摄，用特写捕捉铰链的机械运动与能量核心的点火瞬间，最后拉远至展现英雄般全身备战姿态的全景。
+音效包含低沉的液压嘶鸣声、金属甲片的碰撞声与伺服电机的运转声、逐渐升高的能量嗡鸣与启动提示音、最终锁定时的沉闷撞击声，以及伴随远处机械轰鸣的低频机库环境底噪。
+
+免责声明：本视频为 AI 生成的虚构科幻概念内容，仅供娱乐用途。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118214379577466880/img/BwjxKE4VgaiN6GAp.jpg" width="600" alt="科幻战斗装甲激活序列">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13550)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118214893291905466) | **发布时间:** Nov 5, 2026
+
+---
+### Grok Imagine 电影级奇幻骑士视频提示词
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 为 Grok Imagine 设计的详细视频生成提示词，用于创建高质量 3D 电影级奇幻场景，展现一位带有红色魔法特效和动态镜头运镜的女骑士。
+
+#### 📝 提示词
+
+```
+忠实还原原图的角色设计、五官、发型、盔甲、武器及配色。
+
+超高质量 3D CG 电影级奇幻画面。
+
+一位美丽的女骑士傲然伫立于战场之上，手握长剑。长发与披风随风飘扬，盔甲上精致的纹饰折射出耀眼光芒。
+
+镜头缓缓推进，鲜红的魔法能量从剑身喷涌而出，红色光粒在四周飞舞流转。
+
+女骑士目光如炬直视前方，猛然挥出强力一剑。一道巨大的红色斩击撕裂空间，激荡出层层冲击波。
+
+电影级动态运镜，人物动作自然流畅……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118206378787708928/img/6ObFG3H2YUNBW3jL.jpg" width="600" alt="Grok Imagine 电影级奇幻骑士视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13557)**
+
+**作者:** [KyoukahanabiAITO](https://x.com/Kyoukahanabi135) | **来源:** [Link](https://x.com/Kyoukahanabi135/status/2118206409175453837) | **发布时间:** Nov 5, 2026
+
+---
+### 女子将木棍变成警车抓捕小偷
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的详细视频生成提示词：一名女子丢下一根木棍，木棍瞬间变为一辆警车，她随即驾车前往下一条街道追捕小偷。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段连贯的进阶变形视频。核心主体是一名女子，她将一根木棍丢在地上，木棍随即变成一辆警车；她坐进车内驶离现场，并在下一条街道抓获了一名小偷。
+
+[事件脚本]
+开场：女子手持一根普通木棍站立，神情专注、蓄势待发。她将木棍丢在面前的地上。木棍立刻开始变形——不断拉伸、重塑并散发光芒，最终扩展成一辆全尺寸的警车，配有警灯、徽章标识和坚固的车身。她走上前，打开驾驶座车门，坐进车内，关上车门，启动引擎，沿街道驶离。
+
+主要事件：警车拐入下一条街道。一名小偷正抱着赃物在人行道或路面上向前狂奔。女子加速行驶，将车横在小偷前方截断去路，随后迅速下车，一把抓住并制服小偷，使其无法逃脱。
+
+结尾：小偷被女子牢牢控制，两人站在停好的警车旁；木棍变警车的变形过程彻底完成且状态稳定，没有发生任何回退还原。
+
+[保持一致性]
+全程保持女子的身份、服装和外貌一致。确保始终是同一根木棍，并完整变成一辆警车。保留因果顺序：丢下 → 变形 → 上车 → 驶离 → 在下一条街道抓获小偷。空间关系需清晰明确（木棍落地的位置、行驶路线、下一条街道的抓捕地点）。不包含任何对话或字幕。
+
+免责声明：本视频为 AI 生成的虚构科幻概念内容，仅供娱乐。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="女子将木棍变成警车抓捕小偷">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13549)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118157892272496679) | **发布时间:** Nov 5, 2026
+
+---
+### 牛仔鹰头外星人星球
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个超现实的视频提示词，描绘了一位长着鹰头的牛仔身处外星世界。
+
+#### 📝 提示词
+
+```
+一位老牛仔的特写镜头，他正仰望夜空。镜头缓缓拉远，只见他骑在一匹马上，马长着一颗比例匀称的鹰头。随着镜头继续后拉，画面逐渐展现出他们身处一颗外星球尘土飞扬的山丘之巅，头顶是异星的璀璨星空。他调转坐骑，在镜头拉至全景的过程中缓缓策马远去。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg" width="600" alt="牛仔鹰头外星人星球">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13547)**
+
+**作者:** [Carlton Hinds](https://x.com/methuselaschild) | **来源:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **发布时间:** Nov 4, 2026
+
+---
+### 激光破坏与水晶战衣变身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 适用于 Grok Imagine 的提示词：女性角色发射激光摧毁周围环境，同时她的连衣裙变身为黑白水晶战衣。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段进阶变身序列：女性角色将激光能量从手中释放至地面，摧毁周围的一切，同时她的裙装变为一套黑白水晶战衣。
+
+[事件脚本]
+开场：她以原本的形象与裙装伫立待命，单手高举。
+核心事件：她将强烈的激光束汇聚于掌心，径直轰向地面。激光触地瞬间爆发出巨大的毁灭冲击波，将环境中的一切夷为平地——建筑崩塌碎裂，残骸漫天飞舞，地表在刺眼的强光中龟裂、气化。与此同时，她的裙装开始蜕变结晶：布料硬化重塑，化作一套利落的黑白水晶战衣，棱角分明的晶面、泛着幽光的黑色脉络与高反光白色甲片层层覆盖全身，让她蜕变为力量感爆棚的全新形态。
+结尾：她身着成型后的黑白水晶战衣傲然挺立于废墟之中，残余的激光能量逐渐消散，毁灭已然落幕。
+
+[保持一致性]
+全程保持她的核心特征、面部五官、身材比例以及变身造成的破坏效果稳定不变。水晶战衣仅限黑、白两色。不出现其他任何角色。
+
+免责声明：本视频为 AI 生成的虚构科幻概念作品，仅供娱乐之用。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg" width="600" alt="激光破坏与水晶战衣变身">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13551)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118025535955591205) | **发布时间:** Nov 4, 2026
+
+---
+### Grok Imagine 提示词：蜘蛛侠服装亮相 MSG
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 视频生成提示词：身穿蜘蛛侠服装在麦迪逊广场花园表演《Kill Tony》。
+
+#### 📝 提示词
+
+```
+让一个穿着蜘蛛侠服装的人拎着一盒中餐走上麦迪逊广场花园的舞台，来一场 Kill Tony 式的表演
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118020441881133056/img/v3kE_4RZ4JT5ZNve.jpg" width="600" alt="Grok Imagine 提示词：蜘蛛侠服装亮相 MSG">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13553)**
+
+**作者:** [Jesse Coligan](https://x.com/greenteasmokerX) | **来源:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **发布时间:** Nov 4, 2026
+
+---
+### 汽车行驶视频生成
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成特定分辨率和时长设置下汽车行驶视频的说明。
+
+#### 📝 提示词
+
+```
+使用以下提示词帮我生成一个新视频：“A car driving”，设置如下：480p、15s、auto。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117961303968948224/img/4fxSAuyTQql0gi5D.jpg" width="600" alt="汽车行驶视频生成">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13546)**
+
+**作者:** [Joseph Dixon](https://x.com/JosephDixo60750) | **来源:** [Link](https://x.com/JosephDixo60750/status/2117961380464889953) | **发布时间:** Nov 4, 2026
+
+---
 ### 激光眼进化至水晶擎天柱视频提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -213,6 +414,44 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13516)**
 
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **发布时间:** Nov 4, 2026
+
+---
+### 星尘飞龙
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 视频提示词：添加微小的淡绿色和闪亮的浅蓝色龙，它们带着星尘效果缓慢飞行。
+
+#### 📝 提示词
+
+```
+添加一条淡绿色的小龙和一条闪闪发光的浅蓝色小龙，让它们缓缓盘旋飞舞，每一次振翅都洒落点点星尘
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117853828729217024/img/_UDmHIIc2gMiLSdR.jpg" width="600" alt="星尘飞龙">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13548)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2117853925177221209) | **发布时间:** Nov 4, 2026
+
+---
+### Grok Imagine 未来忍者服饰提示词
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 适用于 Grok Imagine 的图像提示词，描绘一位梳着黑色丸子头、身着霓虹忍者裙的未来女忍（Kunoichi），背景为城市景观，旨在后续进行动画化处理。
+
+#### 📝 提示词
+
+```
+“一位来自未来的女忍者，背景是林立着粉色与淡紫色摩天大楼的城市。她梳着黑色丸子头，身穿以青色和黑色为主色调的忍者服。画面比例 9:16。请勿添加文字 🥷”
+```
+
+<img src="https://cms-assets.youmind.com/media/1793865241306_98do0q_HWQXzhabwAAQF0c.jpg" width="600" alt="Grok Imagine 未来忍者服饰提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13558)**
+
+**作者:** [華月光](https://x.com/hanagekkou) | **来源:** [Link](https://x.com/hanagekkou/status/2117844350847840763) | **发布时间:** Nov 4, 2026
 
 ---
 ### 赛博朋克风格背包变机甲视频提示词
@@ -335,6 +574,34 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13517)**
 
 **作者:** [Un Predictable Chaos FIXER](https://x.com/Prophecy120) | **来源:** [Link](https://x.com/Prophecy120/status/2117706298162852285) | **发布时间:** Nov 3, 2026
+
+---
+### 埃隆·马斯克单色水中悬浮视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 适用于 Grok Imagine 的视频生成提示词，可创建埃隆·马斯克悬浮于与肤色一致的水中的连续场景。该提示词强调缓慢自然的运动、无水面破裂效果以及身份特征的一致性保持。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段 Elon Musk 在水中持续漂浮的视频，水的颜色与周围漂浮的水完全一致，Elon Musk 在其中轻柔地漂浮悬浮。
+
+[事件脚本]
+开场：Elon Musk 完全浸没在单色水中，处于失重漂浮状态，身体放松轻盈，四肢微微舒展，呈现自然的漂浮姿态。
+主要事件：他缓慢而持续地漂移，随着细微的水流起伏，身体轻轻转动或位移，始终保持完全浸没和悬浮状态；同色的水流在他周身及上方流淌，水面始终平静无波。
+结尾：Elon Musk 在同色水中保持稳定漂浮与悬浮，依然完全浸没，动作平缓且连贯。
+
+[保持一致性]
+全程保持 Elon Musk 的身份、面部特征、发型和身材比例稳定不变。水的颜色始终保持均匀，并与他周围漂浮的水完全一致。画面中不出现其他人物、物体或颜色变化。动作保持缓慢、自然、连贯，没有突然的动作或水面波动。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117671174524276737/img/r8RAvhFoJOKn4Qzx.jpg" width="600" alt="埃隆·马斯克单色水中悬浮视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13554)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2117671226097483934) | **发布时间:** Nov 3, 2026
 
 ---
 ### 科幻列车机器人变形
@@ -576,6 +843,46 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13476)**
 
 **作者:** [Joseph Dixon](https://x.com/JosephDixo60750) | **来源:** [Link](https://x.com/JosephDixo60750/status/2117183034248298948) | **发布时间:** Nov 2, 2026
+
+---
+### Grok Imagine 士兵装甲组装视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 设计的全面提示词，用于生成科幻战斗变身视频：士兵被纳米锻造装甲快速覆盖并部署武器。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段连贯、高强度的科幻战斗变身序列：一名全副武装的士兵逐步换装为次世代战斗装甲。核心主体为单名精英战士，起始状态为基础作战服，最终完成全套高级战斗装甲着装，武器展开并进入待发状态。
+
+[主体与关系]
+画面中仅有一名精英作战人员独立站立。从始至终，其身份、身体比例与轮廓保持一致。不出现其他次要角色。
+
+[事件脚本]
+开场：在机库昏暗的灯光下，这名作战人员身着标准作战服（战术裤、修身战斗上衣、作战靴）站立，尚未配备重型装甲。
+主要过程：纳米锻造装甲板以连续波次迅速成型并锁定于全身——先是胸甲与背甲，接着是关节式四肢护甲、肩甲，最后是头盔。一体化挂载点依次激活：一把主等离子步枪“咔哒”一声卡入右手挂载点；左前臂弹出一把副能量刃；双肩搭载的双联装微型导弹舱展开并完成解锁。随着关节闭合、系统启动，伺服驱动器泛起冰冷的蓝色能量光芒。
+结尾：作战人员已完全锁定于次世代战斗装甲之中，武器充能完毕、蓄势待发，面罩亮起瞄准 HUD 界面，姿态凌厉，随时准备投入战斗。
+
+[视觉风格]
+硬表面科幻装甲，采用哑光黑色复合装甲板、发光的青色能量导管以及锐利的棱角几何造型。材质表现需达到最终渲染级别——既有身经百战的磨损痕迹，又保持崭新质感，并带有细微的热浪扭曲效果与残留的能量粒子。
+
+[镜头]
+动态一镜到底风格：以中景全身镜头开场，在装甲成型过程中缓慢环绕拍摄；最后几块装甲板锁定、武器通电时，镜头快速推近，特写最终的持械姿态。
+
+[声音]
+沉闷的金属锁定撞击声与液压嘶鸣声，能量武器逐渐升高的充能嗡鸣声，最后一声清脆的武器解锁脆响，以及变身完成时低沉而充满压迫感的重低音脉冲。无对白或字幕。
+
+[保持一致性]
+在整个变身过程中，须保持作战人员身份唯一且连贯、武器配置固定、装甲配色方案统一（黑/青），并确保空间朝向始终一致。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117146941893017600/img/zRr752esbQ41dbu9.jpg" width="600" alt="Grok Imagine 士兵装甲组装视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13556)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2117146990882521125) | **发布时间:** Nov 2, 2026
 
 ---
 ### Grok Imagine 提示词：万圣节庆祝活动
@@ -1889,6 +2196,32 @@ John Berkey 风格的太空无畏舰，尽显岁月沧桑与战斗伤痕，在�
 **作者:** [Knight World](https://x.com/KnightWorld) | **来源:** [Link](https://x.com/KnightWorld/status/2115786168985870531) | **发布时间:** Oct 29, 2026
 
 ---
+### 新娘造型变身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的提示词，用于生成新娘准备过程的连续视频，包括化妆、发型设计、穿婚纱以及佩戴配饰。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段连贯的视频，展现一位女性作为新娘筹备婚礼、梳妆打扮的全过程。
+
+[事件脚本]
+视频开始时，她静静地坐在光线柔和的新娘化妆间里，身穿简约的内衣或浴袍，长发自然披散。她细致地化好新娘妆，随后将头发盘成优雅的发髻，或打理成柔美的波浪卷。接着，在他人帮助下穿上洁白的婚纱，并轻轻抚平裙摆的褶皱。她依次佩戴好首饰、头纱或花饰，然后起身走到全身镜前打量自己。视频结尾，她已装扮完毕，面带浅笑，眼中闪烁着对婚礼的期待与光彩，婚纱与配饰一应俱全，做好了出嫁的准备。
+
+[保持一致性]
+全程保持同一位女性的形象，确保五官特征、肤色和身材比例前后一致。维持白色婚纱主题、优雅的服饰风格以及私密的新娘化妆间场景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115769473902780416/img/APqpQFVnu3Lu8SqB.jpg" width="600" alt="新娘造型变身">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13555)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115769679423611129) | **发布时间:** Oct 29, 2026
+
+---
 ### 科幻装甲变身视频脚本
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2296,303 +2629,6 @@ BGM 构想
 **作者:** [Marco](https://x.com/ai_artworkgen) | **来源:** [Link](https://x.com/ai_artworkgen/status/2115002899579245038) | **发布时间:** Oct 27, 2026
 
 ---
-### 拟人化警匪搭档电影剧照提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 设计的详细视频/图像提示词，用于创作 1987 年风格的警匪搭档场景，展现雨夜霓虹警局中的拟人化动物角色。
-
-#### 📝 提示词
-
-```
-风格：1987 年搭档警匪片剧照，照片级写实拟人动物，雨夜霓虹警局，百叶窗光影，粉青双色霓虹，暖色台灯，35mm 胶片颗粒感，无文字
-
-1 · 身穿灯芯绒西装的老巴吉度猎犬抱着一个箱子：“我老得干不动这活儿了。”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114968452397981696/img/3KAvfbOYqeaC8fuZ.jpg" width="600" alt="拟人化警匪搭档电影剧照提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13123)**
-
-**作者:** [Nora Vale](https://x.com/NoravaleAI) | **来源:** [Link](https://x.com/NoravaleAI/status/2114969055740256340) | **发布时间:** Oct 27, 2026
-
----
-### AI 美女行走动画
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一条日文推文，描述了如何使用 Grok Imagine 将之前发布的 AI 美女图片制作成 6 秒的动画视频。
-
-#### 📝 提示词
-
-```
-“嘿，我们再走一会儿吧？”
-
-我用 Grok Imagine 把之前发过的一张 AI 美女图，变成了一段 6 秒的视频。
-
-照片里那个定格的女孩，动了起来。
-
-被牵起手的那一刻，她转过身，微微一笑。
-要是假期能这样度过，该有多好？
-
-她并不存在。但她又分明就在那里。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114953333001814016/img/_zUF15iol8qlmJvn.jpg" width="600" alt="AI 美女行走动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13265)**
-
-**作者:** [REALENCE](https://x.com/realence_ai) | **来源:** [Link](https://x.com/realence_ai/status/2114953365042135246) | **发布时间:** Oct 27, 2026
-
----
-### AI Q版变身视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用 Grok Imagine 生成顶级 AI Q版角色变身视频的详细提示词结构。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段进阶变身视频，展现一个 AI Q版角色经历多个阶段的高级形态进化。
-
-[主体与关系]
-核心主体为单个 AI Q版角色：一个可爱的大头 Q版形象，身上带有发光的数字电路纹路、柔软圆润的四肢，以及一颗脉动着能量的 AI 核心。画面中不出现其他角色。
-
-[事件脚本]
-开场：AI Q版角色静静伫立在柔和的霓虹虚空中，身形小巧可爱，体表浮现出简单的发光线条。
-主要事件：它开始进行进阶变身——首先，流线型的金属装甲板覆盖全身，全息双翼随之展开，数字代码流在它周围环绕飞舞；接着，它的体型略微变大，晶体能量碎片汇聚成充满力量的四肢，一顶璀璨的 AI 王冠显现于头顶；最后，完成全面的机械融合，粒子轨迹与光束喷薄而出，达成终极形态。
-结尾：完成进阶变身的 AI Q版角色如英雄般屹立，周身散发着强烈的能量光环，电路光芒闪耀，双翼完全展开。
-
-[保持一致性]
-始终保持单一 AI Q版角色的身份、Q版比例以及连贯的变身进程，不添加任何额外角色或突兀的变化。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114950818344439808/img/oEVJcstUCgyjGtaJ.jpg" width="600" alt="AI Q版变身视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13124)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2114951756870250843) | **发布时间:** Oct 27, 2026
-
----
-### 赛博朋克变身视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用 Grok Imagine 生成大都市夜景中逼真赛博朋克变身视频的详细提示词。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段纯写实、照片级真实的视频，展现密集巨型都市夜景中上演的次世代科幻赛博朋克变身过程。
-
-[事件脚本]
-开场时，细雨绵绵，被雨水打湿的霓虹街道与高耸的玻璃大厦倒映着全息广告和激光网格，普通行人与车辆在潮湿的柏油路面上穿行。一个孤独的身影步入开阔广场，变身系统随即启动：纳米粒子流从地面升腾而起，如瀑布般倾泻覆盖全身；衣物蜕变为层层叠叠的自适应装甲，表面流转着发光的电路纹路与活性金属甲板；机械义肢与脊柱植入体以精准的机械动作伸展并锁定到位；面部结构随之重塑，化作强化型电子眼与流线型颅骨接口。与此同时，周围的基础设施也同步发生异变——路灯延展为数据塔柱，广告牌碎裂成自由悬浮的全息立体影像，车辆重组为低空悬浮的赛博载具，尾部喷口外露、拖曳着流光轨迹，建筑外墙层层剥开，露出内部巨大的发光管道与霓虹交织的垂直花园。附近的其他身影也同步进行局部变身，四肢与躯干覆上相似的装甲板与光轨，同时保持自然的人体比例。结尾处，完成全部变身的核心人物伫立于彻底进化的赛博朋克世界之中，雨滴继续洒落在反光表面上，全息城市系统全面上线，残余的纳米粒子缓缓沉降，融为环境中的微光。
-
-[保持一致性]
-保持纯照片级真实渲染，精准呈现湿润金属与玻璃的材质反射，还原自然的雨水物理效果，确保变身过程中人体比例始终一致，维持青-品红-琥珀的稳定霓虹色调，并保持连贯的夜间光照，不添加任何风格化或卡通效果。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114883706259460096/img/HznffzwKdvVg3LYQ.jpg" width="600" alt="赛博朋克变身视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13121)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2114883782545489945) | **发布时间:** Oct 27, 2026
-
----
-### 阳光海湾海滩场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详细的风景视频提示词，包含灯塔、城堡、拖船、海豚和玛瑙。
-
-#### 📝 提示词
-
-```
-阳光明媚的海湾沙滩，一侧岬角矗立着灯塔，另一侧岬角坐落着城堡，海中有一艘黄色拖船，两只海豚跃出海面，一条红丝带从天而降飘落在沙滩上，沙地上散落着蓝色玛瑙
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114812002468270080/img/ayAXF9nHbyCSNYs5.jpg" width="600" alt="阳光海湾海滩场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13120)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2114812099801325687) | **发布时间:** Oct 26, 2026
-
----
-### Logic 与 Magic Eurodance MV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 生成的 2000 年代 Eurodance 音乐视频详细场景描述，采用分屏呈现“理性与感性”主题。
-
-#### 📝 提示词
-
-```
-我的理智说不。
-我的心说行。
-于是我把屏幕一分为二，各分一半。
-
-《LOGIC AND THE MAGIC》：
-我的新歌，一支 2000 年代 Eurodance 风格的 MV——连 HUD 界面都在亲自站队。
-
-• 左半边是 HEAD（理智），冷调青色，计算着风险
-• 右半边是 HEART（心），热辣粉色，数着心跳
-• 一根指针在 NO 与 YES 之间摇摆，贯穿整首歌
-• 当她唱出“no”，NO 就狠狠砸上屏幕；当她唱出“yes”，YES 便拿下胜利
-
-LUMI 拉着一把发光的白色小提琴，从线框构成的虚空走进人声鼎沸的夜店，又飘向粉色的天空；当 drop 落下，网格瞬间碎裂成漫天玫瑰花瓣。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114710323387383808/img/-KwJS278J28v9jON.jpg" width="600" alt="Logic 与 Magic Eurodance MV">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13119)**
-
-**作者:** [Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2114756440200003874) | **发布时间:** Oct 26, 2026
-
----
-### 女孩与机器人装甲进化
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频提示词，展示女孩与机器人同伴变身为带有白色和金色能量的战斗装甲。
-
-#### 📝 提示词
-
-```
-次世代进化序列。少女与她的机器人伙伴迎来震撼蜕变。白金色的能量在周身汹涌激荡，身上的街头潮服随之幻化为尖端战斗装甲。机器人体型略微膨胀，气势愈发凌厉。碎石残骸腾空而起。电影级质感、张力十足、超高细节的视频。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114718012540620800/img/H2lTw9eyvRiXGnY1.jpg" width="600" alt="女孩与机器人装甲进化">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13154)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2114718405647622441) | **发布时间:** Oct 26, 2026
-
----
-### 猫咪激光笔互动提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成两只猫在客厅玩激光笔的逼真视频的详细提示词。
-
-#### 📝 提示词
-
-```
-电影感 15 秒 9:16 竖版视频，照片级真实画质，温暖的自然光。固定中景镜头，拍摄明亮的客厅窗台。一只毛茸茸的橘猫和一只体态修长的灰猫并排而坐，毛发柔软且细节丰富，神态放松又保持警觉，午后的阳光从左侧倾洒而入。接着，一个小小的红色激光点出现，在它们面前的窗台上调皮地跳跃舞动。橘猫双眼圆睁，压低身体，用两只前爪猛地扑了上去。灰猫立刻加入，快速精准地挥爪拨弄着移动的光点。激光点忽左忽右地飞速移动，两只猫默契十足、活力满满地跟着追逐，尾巴轻轻抽动。激光点消失。两只猫重新并排端坐，神情满足又略带得意，其中一只轻轻舔了舔爪子。柔和的房间环境音，轻快俏皮的喵叫声，温柔欢快的背景音乐。画面以两只猫安静依偎在一起收尾，温暖的光线洒在它们的毛发上，画面干净清晰。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114609320792907776/img/e0Bjcny6DJdpAkg1.jpg" width="600" alt="猫咪激光笔互动提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13072)**
-
-**作者:** [MYS AI](https://x.com/mys1111) | **来源:** [Link](https://x.com/mys1111/status/2114609346738798684) | **发布时间:** Oct 26, 2026
-
----
-### 赛博朋克变身视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度详细的提示词，用于生成一段 15 秒的赛博朋克风格变身视频，展示一位东亚女性变身为金属装甲的过程。
-
-#### 📝 提示词
-
-```
-电影级照片写实 15 秒赛博朋克变身视频，竖屏 9:16 画幅比例，超精细细节，纯正电影级光影与氛围。
-
-一位美丽的东亚年轻女性，黑色短发带刘海，皮肤白皙，脸颊有红色印记，身穿连帽猫耳卫衣，在夜晚飘雪落雨的未来城市街道上蹲伏。她穿着一件宽松的做旧米色连帽衫，上面印有巨大的血红色骷髅图案和日文字符，搭配猫耳兜帽、大号头戴式耳机、战术背带背包、露指手套、大腿绑带以及厚重的赛博朋克战斗靴。地面积雪与湿滑路面倒映着背景中巍峨巨型摩天楼、全息广告牌和飞行汽车的霓虹灯光。青紫粉交织的霓虹光晕营造出浓郁情绪氛围，体积雾弥漫，雪花轻舞，呈现电影级景深效果。
-
-她站起身，面带微笑自信地走向镜头，靴子踢起阵阵飞雪。随后她抬起双手，发光的蓝色全息瞄准界面与环形 HUD 浮现在耳机和面部周围。她的神情转为惊叹。
-
-瞬间爆发强力变身：她的身体幻化为一套流线型全身金属机械装甲，表面流动着紫蓝相间的发光能量纹路，胸口亮起幽蓝核心，背后展开由纯粹光能构成的机械双翼。头顶凝聚出一道明亮的蓝色能量光环。她腾空而起，双臂舒展，双眼沉醉般微闭，紫色能量轨迹与火花环绕周身飞舞，在霓虹高楼与穿梭的飞行器之间不断攀升。
-
-次世代科幻赛博朋克美学，超写实材质表现（湿润织物、抛光金属、闪耀霓虹、纷飞雪粒），极具张力的体积光效与粒子特效，纯正电影级调色，变形宽银幕散景，8K 照片级真实画质，每一处细节都完美无瑕，史诗级慢动作变身片段。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114544647565410304/img/Vw_84PO1JF5jhKfw.jpg" width="600" alt="赛博朋克变身视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13416)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2114544849512980709) | **发布时间:** Oct 26, 2026
-
----
-### 科幻外骨骼装甲变身序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的电影级视频提示词，适用于 Grok Imagine，描绘了从工业废土到未来主义巨型城市的超写实科幻变身过程，包含外骨骼装甲升级。
-
-#### 📝 提示词
-
-```
-一段超写实、电影质感的 8K 科幻变身序列。画面始于源图中角色与同伴伫立于粗粝的工业废土之上，地面骤然爆发出一股量子能量冲击波。机械兔剧烈崩解为液态铬纳米机器人，盘旋升腾并融入 Q 版少女的外套之中。她的橙色护目镜自动上推至头顶，双眼亮起刺目的霓虹青色电子义眼虹膜。深色衣物实时蜕变为先进的流线型外骨骼战甲，表面布满脉动的橙色等离子电路与发光的全息兔耳遥测阵列。背景的工业废墟急速变幻，重组为一座高耸入云、悬浮于天际的未来巨型都市。史诗级环绕运镜，丝滑 60fps，光线追踪反射，粒子特效，大师级 CGI 画质。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114502639149092865/img/ZOwtBmrGkQDpn-xk.jpg" width="600" alt="科幻外骨骼装甲变身序列">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13073)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2114503259666964624) | **发布时间:** Oct 25, 2026
-
----
-### Spock Squirrel 歌曲视频提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段为 Grok Imagine 打造的超现实视频生成提示词，内容包含 Mr. Spock 演唱《Space Cowboy》以及一只松鼠演唱《I Believe I Can Fly》。
-
-#### 📝 提示词
-
-```
-添加 Making Art Great Again，画面中 Spock 先生唱着太空牛仔之歌，松鼠说着“我相信我能飞”，尽情发挥你的 Eye Imaga Nation 吧
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114500239390302208/img/wANHTQI0leC2nfXT.jpg" width="600" alt="Spock Squirrel 歌曲视频提示">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13118)**
-
-**作者:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmasQuirrel) | **来源:** [Link](https://x.com/KarmasQuirrel/status/2114500250589180143) | **发布时间:** Oct 25, 2026
-
----
-### Grok Imagine 视频提示词：海滩情侣场景设置
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 图生视频功能指定参数（720p，6 秒）及内容（写实风格的海滩情侣）的提示词。
-
-#### 📝 提示词
-
-```
-请根据提供的图片，使用以下提示词为我生成一段新视频：“Realistic couple on a beach soft waves behind them”，并采用以下设置：720p、6s。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114497398277836800/img/AXVQqvTE7JVybGsx.jpg" width="600" alt="Grok Imagine 视频提示词：海滩情侣场景设置">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13117)**
-
-**作者:** [Tim Bevins](https://x.com/TimBevinsedyo) | **来源:** [Link](https://x.com/TimBevinsedyo/status/2114497432566251900) | **发布时间:** Oct 25, 2026
-
----
-### 重返月球宇航员提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影感提示词，描述宇航员与不锈钢飞船重返月球的场景，由 Grok Imagine 生成。
-
-#### 📝 提示词
-
-```
-重返月球。一位宇航员，一艘不锈钢飞船，地平线之上悬浮着地球——这画面简直像是直接从 Grok Imagine 里生成的。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114420772751962112/img/fWdSi6d8OfdoQlO-.jpg" width="600" alt="重返月球宇航员提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13070)**
-
-**作者:** [Kamil](https://x.com/madebykamil) | **来源:** [Link](https://x.com/madebykamil/status/2114421118475890705) | **发布时间:** Oct 25, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2654,6 +2690,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-05T01:12:16.966Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-05T12:23:10.545Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3330** |
+| 📝 Total Prompts | **3343** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-05** |
 
@@ -189,6 +189,207 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Grok Imagine İstem: Prens, hizmetçiyi prensese dönüştürüyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genç bir prensin elini uzattığı ve hizmetçinin bu eli aldığında prensese dönüştüğü Grok Imagine için video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Genç bir prensin elini hizmetçiye uzatması ve hizmetçinin prensin elini tuttuğunda bir prensese dönüşmesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118227610325192704/img/4FUI-nhMxiGsE-0-.jpg" width="600" alt="Grok Imagine İstem: Prens, hizmetçiyi prensese dönüştürüyor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13552)**
+
+**Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
+
+---
+### Bilim Kurgu Savaş Zırhı Aktivasyon Dizisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, modüler savaş zırhının hidrolik hassasiyet ve enerji ateşlemesiyle pasif durumdan savaşa hazır konfigürasyona dönüştüğünü gösteren gerçekçi bir video oluşturan istem.
+
+#### 📝 Prompt
+
+```
+[Oluşturma Hedefi]
+Yeni nesil Dönüşümlü Savaş Zırhını anlatan, tamamen sinematik ve gerçekçi bir Bilim Kurgu videosu oluşturun. Ana konu; şık ve pasif bir kıyafetten tam aktif, savaşa hazır bir güç zırhına çok aşamalı bir dönüşüm geçiren gelişmiş modüler savaş zırhıdır. Videoda mekanik hassasiyet, enerji sistemleri ve yüksek riskli muharebe hazırlığı vurgulanmalıdır.
+
+[Olay Senaryosu]
+Başlangıçta: Vücudu saran şık bir temel savaş kıyafeti, loş ışıklı yüksek teknolojili bir hangarda hareketsiz durmaktadır. Mat siyah renkteki zırhın üzerinde ince altıgen plakalar bulunur ve soğuk endüstriyel aydınlatma altında, sönmüş mavi enerji hatları belli belirsiz seçilir.
+Ana olay: Dönüşüm dizisi devreye girer. Plakalar hidrolik bir hassasiyetle kaymaya ve genişlemeye başlar; göğüs ve omuz modülleri dışa doğru açılır, birbirine kenetlenen katmanlı zırh gövde ve uzuvlara yayılır, eldivenler ağır silah kullanımına uygun biçime bürünür, kask çok parçalı yüz plakası yerine oturarak kapanır ve omurga, eklem yerleri ile göğüs reaktörü boyunca parlayan enerji çekirdekleri ateşlenir. Servolar kilitlenir, baldırlardan ve sırttan iticiler çıkar; zırh savaş konfigürasyonuna ulaştığında tüm vücudu kaplayan enerji kalkanı ağı kısa bir an parlar ve ardından dengelenir.
+Sonunda: Tamamen dönüşmüş savaş zırhı, dinamik bir hazır duruş pozisyonunda tam aktif hâlde ayakta durur. Kask HUD ışığıyla parlar, enerji hatları canlı bir camgöbeği renginde titreşir, plakalar kilitlenmiştir ve gerçekçi metal dokularıyla üzerlerinde savaş izleri taşıyan zırh, anında çatışmaya girmeye hazırdır.
+
+[Tutarlılığı Koruyun]
+Zırhı baştan sona tek ve kesintisiz bir bütün olarak koruyun: aynı temel siluet yalnızca mekanik dönüşümle evrilmeli; mat siyah ve fırçalanmış metal malzemeler ile camgöbeği enerji detayları tutarlı olmalı, genel ölçek veya temel tasarım dilinde hiçbir değişiklik yapılmamalıdır. Ek karakterler, entegre sistemlerin dışında silahlar veya ortam değişiklikleri kesinlikle olmamalıdır.
+
+Görseller; mikro çizikler, yağ yansımaları, enerji havalandırmalarının etrafındaki ısı bozulması, hacimsel aydınlatma ve keskin alan derinliği içeren ultra gerçekçi bilim kurgu materyallerini yansıtmalıdır.
+Kamera, pasif zırhın aşağıdan üç çeyrek orta plan çekimiyle başlayan kesintisiz sinematik bir yörünge izlemeli; dönüşüm sırasında yumuşak bir şekilde yaklaşıp etrafında dönerek menteşe ve çekirdeklerin aşırı yakın çekimleriyle plaka mekaniğini ve enerji ateşlemesini yakalamalı, ardından sonunda kahramanca bir tam boy duruşunu gösterecek şekilde geri çekilmelidir.
+Ses tasarımı; derin hidrolik tıslamaları, metalik plaka şakırtıları ve servo vızıltıları, yükselen enerji uğultuları ve güç açılış sesleri, son bir ağır kilitlenme gürültüsü ile uzaktan gelen makine seslerinin eşlik ettiği düşük frekanslı bir hangar ambiyansı içermelidir.
+
+Yasal Uyarı: Bu video, yalnızca eğlence amacıyla oluşturulmuş, yapay zeka tarafından üretilen kurgusal bir bilim kurgu konseptidir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118214379577466880/img/BwjxKE4VgaiN6GAp.jpg" width="600" alt="Bilim Kurgu Savaş Zırhı Aktivasyon Dizisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13550)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118214893291905466) | **Published:** Nov 5, 2026
+
+---
+### Grok Imagine Sinematik Fantastik Şövalye Video İstemi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine için, kırmızı büyü efektleri ve dinamik kamera hareketleriyle öne çıkan yüksek kaliteli 3D sinematik fantastik bir sahne oluşturan detaylı bir video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Orijinal görseldeki karakter tasarımını, yüz hatlarını, saç stilini, zırhı, silahı ve renkleri birebir koru.
+
+Ultra yüksek kaliteli 3D CG sinematik fantastik görüntü.
+
+Güzel bir kadın şövalye, kılıcını kavramış halde savaş meydanında gururla dikiliyor. Uzun saçları ve pelerini rüzgârda dalgalanırken, zırhındaki ince işlemeler ışığı yansıtıyor.
+
+Kamera yavaşça yaklaştıkça, kılıçtan canlı kırmızı bir büyü enerjisi taşıyor ve etrafta kırmızı ışık parçacıkları dans ediyor.
+
+Kadın şövalye keskin bakışlarla ileriye doğru bakıp kılıcını tüm gücüyle savuruyor. Devasa kırmızı bir kılıç darbesi uzayı yararak şok dalgaları yayıyor.
+
+Sinematik dinamik kamera hareketleri, doğal ve akıcı insan hareketleri...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118206378787708928/img/6ObFG3H2YUNBW3jL.jpg" width="600" alt="Grok Imagine Sinematik Fantastik Şövalye Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13557)**
+
+**Author:** [KyoukahanabiAITO](https://x.com/Kyoukahanabi135) | **Source:** [Link](https://x.com/Kyoukahanabi135/status/2118206409175453837) | **Published:** Nov 5, 2026
+
+---
+### Kadın, Hırsızı Yakalamak İçin Çubuğu Polis Arabasına Dönüştürdü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için detaylı bir video üretim istemi: Bir kadın, yere düşürdüğü çubuğun polis arabasına dönüştüğünü ve ardından hırsızı yakalamak için bu aracı kullandığı sahneyi tasvir eder.
+
+#### 📝 Prompt
+
+```
+[Oluşturma Hedefi]
+Kesintisiz, bir sonraki seviyeye geçen bir dönüşüm videosu oluşturun. Ana konu, yere bir sopa bırakarak onu bir polis arabasına dönüştüren bir kadındır; kadın arabaya biner, oradan uzaklaşır ve yan sokaktaki bir hırsızı yakalar.
+
+[Olay Senaryosu]
+Başlangıçta: Kadın elinde düz bir sopayla durmakta, odaklanmış ve hazır beklemektedir. Sopayı önündeki yere bırakır. Sopa anında dönüşmeye başlar; uzar, şekil değiştirir ve parlayarak ışıkları, amblem işaretleri ve sağlam bir gövdesi olan tam boyutlu bir polis arabasına genişler. Kadın öne doğru adım atar, sürücü kapısını açar, içeri oturur, kapıyı kapatır, motoru çalıştırır ve sokağın aşağısına doğru sürerek uzaklaşır.
+
+Ana olay: Polis arabası yan sokağa döner. Bir hırsız, çalıntı malları taşıyarak kaldırımda ya da yolda ileriye doğru koşmaktadır. Kadın hızlanır, arabayı hırsızın yolunu kesecek şekilde konumlandırır, hızla araçtan iner ve hırsızı yakalayıp kaçamayacak şekilde tutarak etkisiz hale getirir.
+
+Sonunda: Hırsız güvenli bir şekilde yakalanmış olup park halindeki polis arabasının yanında kadın tarafından tutulmaktadır; sopanın polis arabasına dönüşümü tamamen gerçekleşmiş ve kararlıdır, herhangi bir geri dönüş yaşanmaz.
+
+[Tutarlılığı Koruyun]
+Kadının kimliğini, kıyafetini ve görünümünü baştan sona tutarlı tutun. Tamamen tek bir polis arabasına dönüşen tek bir sopayı koruyun. Nedensel sıralamayı muhafaza edin: bırakma → dönüşme → arabaya binme → uzaklaşma → yan sokaktaki hırsızı yakalama. Mekânsal ilişkileri net tutun (yere bırakılma noktası, sokak güzergâhı, yan sokaktaki yakalama). Diyalog veya altyazı bulunmamalıdır.
+
+Yasal Uyarı: Bu video, yalnızca eğlence amacıyla oluşturulmuş, yapay zekâ tarafından üretilmiş kurgusal bir bilim kurgu konseptidir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="Kadın, Hırsızı Yakalamak İçin Çubuğu Polis Arabasına Dönüştürdü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13549)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118157892272496679) | **Published:** Nov 5, 2026
+
+---
+### Kovboy Kartal Başlı Uzay Gezegeni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uzay gezegeninde kartal başlı bir kovboyun yer aldığı sürreal video istemi.
+
+#### 📝 Prompt
+
+```
+Gece gökyüzüne bakan yaşlı bir kovboyun yakın çekimi. Kamera geriye doğru çekilirken, orantılı büyüklükte bir kartal kafasına sahip bir atın üzerinde oturduğu ortaya çıkar. Kamera geriye çekilmeye devam ettikçe, ikisinin de yabancı yıldızların altındaki bir uzaylı gezegeninde, tozlu bir tepenin zirvesinde olduğu anlaşılır. Kovboy bineğini çevirir ve kamera geniş açı için geriye doğru çekilirken yavaşça uzaklaşır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118055156185227264/img/J3H4c43Dnw0pVIlt.jpg" width="600" alt="Kovboy Kartal Başlı Uzay Gezegeni">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13547)**
+
+**Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
+
+---
+### Lazer Yıkımı ve Kristal Takım Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadın karakterin çevresini yok eden lazerler ateşlediği ve elbisesinin siyah-beyaz kristal bir takıma dönüştüğü Grok Imagine için bir istem.
+
+#### 📝 Prompt
+
+```
+[Oluşturma Hedefi]
+Kadın karakterin elindeki lazer enerjisini yere bırakarak etrafındaki her şeyi yok ettiği, bu sırada elbisesinin siyah beyaz bir kristal zırha dönüştüğü üst düzey bir dönüşüm sahnesi oluşturun.
+
+[Olay Senaryosu]
+Başlangıç: Orijinal hâli ve elbisesiyle, elini kaldırmış şekilde hazır bekliyor. 
+Ana olay: Elindeki yoğun lazer ışınlarını yönlendirerek doğrudan yere bırakıyor. Lazerler zemine çarparak devasa bir yıkım dalgasına dönüşüyor ve çevredeki her şeyi yerle bir ediyor; yapılar parçalanıyor, enkaz havaya saçılıyor, yüzeyler çatlayıp parlak flaşlarla buharlaşıyor. Aynı anda elbisesi şekil değiştirip kristalleşiyor: kumaş sertleşerek keskin kristal yüzeylere, parlayan siyah damarlara ve tüm vücudunu saran yansıtıcı beyaz zırh plakalarına sahip, şık siyah beyaz bir kristal zırha dönüşüyor ve onu yepyeni, güçlü bir forma kavuşturuyor. 
+Sonuç: Yıkıma uğramış çevrenin ortasında, tamamlanmış siyah beyaz kristal zırhıyla güçlenmiş bir şekilde duruyor; kalıntı lazer enerjisi sönüyor ve yıkım tamamlanıyor.
+
+[Tutarlılığı Koruyun]
+Temel kimliğini, yüz hatlarını, vücut oranlarını ve dönüşümün yarattığı yıkıcı sonucu baştan sona sabit tutun. Kristal zırh yalnızca siyah ve beyaz renklerde kalmalıdır. Başka hiçbir karakter görünmemelidir.
+
+Yasal Uyarı: Bu video, yalnızca eğlence amacıyla oluşturulmuş yapay zekâ destekli kurgusal bir bilim kurgu konseptidir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg" width="600" alt="Lazer Yıkımı ve Kristal Takım Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13551)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118025535955591205) | **Published:** Nov 4, 2026
+
+---
+### Grok Imagine İstemi: MSG'de Örümcek Adam Kostümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Madison Square Garden'da Kill Tony performansını sergileyen bir Örümcek Adam kostümü giyen kişinin sahneye çıktığı Grok Imagine video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Madison Square Garden sahnesine elinde bir kutu Çin yemeğiyle Örümcek Adam kostümlü bir adam çıksın ve Kill Tony performansı sergilesin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118020441881133056/img/v3kE_4RZ4JT5ZNve.jpg" width="600" alt="Grok Imagine İstemi: MSG'de Örümcek Adam Kostümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13553)**
+
+**Author:** [Jesse Coligan](https://x.com/greenteasmokerX) | **Source:** [Link](https://x.com/greenteasmokerX/status/2118021022171459947) | **Published:** Nov 4, 2026
+
+---
+### Araba Sürüşü Video Oluşturma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Belirli çözünürlük ve süre ayarlarıyla bir araba sürüş videosu oluşturmak için talimatlar.
+
+#### 📝 Prompt
+
+```
+Şu prompt'u kullanarak benim için yeni bir video oluştur: "A car driving" ve şu ayarları uygula: 480p, 15s, auto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117961303968948224/img/4fxSAuyTQql0gi5D.jpg" width="600" alt="Araba Sürüşü Video Oluşturma">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13546)**
+
+**Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117961380464889953) | **Published:** Nov 4, 2026
+
+---
 ### Lazer Göz Evrimi Crystal Optimus Prime Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -213,6 +414,44 @@ Karakterin kimliğini, gözlerinden yayılan lazeri ve evrimden kristale geçiş
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13516)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117869379568492932) | **Published:** Nov 4, 2026
+
+---
+### Yıldız Tozuyla Uçan Ejderhalar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yavaşça uçan, parlayan açık mavi ve soluk yeşil küçük ejderhaların yıldız tozu efektleriyle gösterildiği bir video istemi.
+
+#### 📝 Prompt
+
+```
+Küçücük soluk yeşil bir ejderha ile parlak açık mavi bir ejderhayı ekleyin; etrafta yavaşça süzülerek uçsunlar ve her kanat çırpışlarında ardında yıldız tozu bıraksınlar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117853828729217024/img/_UDmHIIc2gMiLSdR.jpg" width="600" alt="Yıldız Tozuyla Uçan Ejderhalar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13548)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2117853925177221209) | **Published:** Nov 4, 2026
+
+---
+### Grok Imagine Gelecekçi Ninja Elbise İstemi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine için, şehir arka planı önünde topuz saçlı ve neoninja elbiseli bir gelecekçi kunoichi (kadın ninja) tasvir eden, daha sonra animasyon haline getirilmesi amaçlanan bir görüntü istemi.
+
+#### 📝 Prompt
+
+```
+"Pembe ve açık mor gökdelenlerle kaplı bir şehir manzarası önünde duran, siyah topuzlu saç stiline sahip, cyan ve siyah tonlarında tasarlanmış bir ninja kıyafeti giyen fütüristik bir kunoichi. En boy oranı 9:16. Lütfen metin olmasın 🥷"
+```
+
+<img src="https://cms-assets.youmind.com/media/1793865241306_98do0q_HWQXzhabwAAQF0c.jpg" width="600" alt="Grok Imagine Gelecekçi Ninja Elbise İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13558)**
+
+**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2117844350847840763) | **Published:** Nov 4, 2026
 
 ---
 ### Siberpunk Çantadan Zırha Dönüşüm Video İstemi
@@ -335,6 +574,34 @@ Bu görseli sahne promptuna entegre edin, önceki videolarla birlikte çalışt�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13517)**
 
 **Author:** [Un Predictable Chaos FIXER](https://x.com/Prophecy120) | **Source:** [Link](https://x.com/Prophecy120/status/2117706298162852285) | **Published:** Nov 3, 2026
+
+---
+### Elon Musk'ın Monokromatik Suda Süzülmesi Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, Elon Musk'ın vücut rengiyle uyumlu su içinde sürekli ve doğal bir şekilde süzüldüğü bir sahne oluşturan video üretim istemi. İstem, yüzey kırılmaları olmadan yavaş ve doğal hareket ile tutarlı kimlik korumasını belirtir.
+
+#### 📝 Prompt
+
+```
+[Oluşturma Hedefi]
+Elon Musk'ın, etrafındaki suyla tamamen aynı renkte bir suyun içinde kesintisiz olarak süzüldüğü bir video oluşturun; Elon Musk bu suyun içinde nazikçe yüzer hâlde ve askıda kalmalıdır.
+
+[Olay Akışı]
+Başlangıçta: Elon Musk tek renkli suyun tamamen içine gömülmüş ve ağırlıksız bir şekilde süzülmektedir; vücudu rahat ve su yüzeyinde kalacak kadar hafiftir, uzuvları doğal bir yüzme pozisyonunda hafifçe açık durmaktadır.
+Ana olay: Yavaş ve kesintisiz bir şekilde sürüklenir, hafif su akıntılarıyla birlikte yükselip alçalır; tamamen suyun altında ve askıda kalarak bedeni usulca döner ya da yer değiştirir, birebir aynı renkteki su yüzeyi hiç bozmadan etrafından ve üzerinden akar.
+Sonda: Elon Musk aynı renkteki suyun içinde kararlı bir biçimde süzülmeye ve askıda kalmaya devam eder; hâlâ tamamen suya gömülüdür ve sakin, kesintisiz hareketini sürdürür.
+
+[Tutarlılığı Koru]
+Elon Musk'ın kimliği, yüz hatları, saç stili ve vücut oranları boyunca sabit kalmalıdır. Suyun rengi her zaman tekdüze olmalı ve onu çevreleyen suyun rengiyle birebir aynı kalmalıdır. Başka hiçbir insan, nesne veya renk değişimi görünmemelidir. Hareketler yavaş, doğal ve kesintisiz olmalı; ani hareketler veya su yüzeyinin bozulması kesinlikle yaşanmamalıdır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117671174524276737/img/r8RAvhFoJOKn4Qzx.jpg" width="600" alt="Elon Musk'ın Monokromatik Suda Süzülmesi Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13554)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117671226097483934) | **Published:** Nov 3, 2026
 
 ---
 ### Bilim Kurgu Tren Robot Dönüşümü
@@ -576,6 +843,46 @@ Kamera çalıların arasından hızla eve doğru ilerler, kapı açılır ve iç
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13476)**
 
 **Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117183034248298948) | **Published:** Nov 2, 2026
+
+---
+### Grok Imagine Asker Zırhı Montajı Video İstem Metni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir askerin nano-dövme plakalarla hızla zırhlandığı ve silahlarını devreye soktuğu bir bilim kurgu savaş dönüşüm videosu oluşturmak için Grok Imagine'e yönelik kapsamlı istem metni.
+
+#### 📝 Prompt
+
+```
+[Oluşturma Hedefi]
+Tam teçhizatlı bir askerin, üst düzey bir savaş zırhına dönüşmesini konu alan kesintisiz ve yüksek tempolu bir bilimkurgu savaş dönüşüm sahnesi oluşturun. Ana odak noktası; standart savaş kıyafetiyle başlayan ve gelişmiş savaş zırhını tamamen kuşanmış, silahları konuşlandırılmış ve kullanıma hazır hâle gelmiş tek bir elit savaşçıdır.
+
+[Karakterler ve İlişkiler]
+Tek bir elit savaş operatörü yalnız başına durmaktadır. Kimlik, vücut oranları ve siluet baştan sona kadar tutarlılığını korur. İkincil hiçbir karakter yer almaz.
+
+[Olay Akışı]
+Başlangıç: Operatör, loş hangar aydınlatması altında, ağır zırhtan yoksun şekilde standart savaş kıyafetiyle (taktik pantolon, vücudu saran savaş üst giysisi, botlar) ayakta durmaktadır.
+Ana olay: Nano-teknolojiyle dövülmüş zırh plakaları ardışık dalgalar hâlinde hızla somutlaşarak gövdeye kilitlenir; önce göğüs ve sırt plakaları, ardından eklemli uzuv zırhları, omuzluklar ve kask belirir. Entegre sabitleme noktaları; sağ eldeki yuvaya oturan birincil bir plazma tüfeği, sol ön koldan uzanan ikincil bir enerji kılıcı ve açılarak ateşlemeye hazırlanan çift omuz monteli mikro-füze rampalarını devreye sokar. Eklemler kapanıp sistemler güç kazanırken servo aktüatörler soğuk mavi bir enerjiyle parlar.
+Sonuç: Operatör, üst düzey savaş zırhına tamamen kilitlenmiş, silahları şarj edilmiş ve kullanıma hazır, vizörü hedefleme HUD'u ile aydınlanmış, agresif ve savaşa hazır bir duruşla ayakta durmaktadır.
+
+[Görsel Stil]
+Mat siyah kompozit plakalara, parlayan camgöbeği enerji kanallarına ve keskin köşeli geometrik hatlara sahip sert yüzeyli (hard-surface) bilimkurgu zırhı. Malzeme dokusu eksiksiz biçimde işlenmiştir; yıpranmış ama kusursuz görünen bir savaş estetiği, hafif ısı dalgalanmaları ve kalıntı enerji partikülleri içerir.
+
+[Kamera]
+Dinamik tek çekim tarzı: Orta mesafe tam vücut çekimiyle başlar, zırh oluşurken yavaşça etrafında döner, ardından son plakalar yerine oturup silahlar güç kazandığında nihai silahlı poza doğru sıkı bir yakın çekime geçer.
+
+[Ses]
+Derin metalik kilitlenme sesleri ve hidrolik tıslamalar, yükselen enerji silahı güç alma uğultusu, son keskin kurma klik sesi ve dönüşüm tamamlandığında duyulan düşük, agresif bir bas titreşimi. Diyalog veya altyazı yoktur.
+
+[Tutarlılığı Koruyun]
+Dönüşüm boyunca tek ve kesintisiz bir operatör kimliğini, tek bir silah setini, tutarlı bir zırh renk paletini (siyah/camgöbeği) ve mekânsal yönelimi koruyun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117146941893017600/img/zRr752esbQ41dbu9.jpg" width="600" alt="Grok Imagine Asker Zırhı Montajı Video İstem Metni">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13556)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117146990882521125) | **Published:** Nov 2, 2026
 
 ---
 ### Grok Imagine İstemi: Cadılar Bayramı Kutlaması
@@ -1894,6 +2201,32 @@ Bu harekete yalnızca ortamın mekânsal varlığı eşlik eder; tablodaki hiçb
 **Author:** [Knight World](https://x.com/KnightWorld) | **Source:** [Link](https://x.com/KnightWorld/status/2115786168985870531) | **Published:** Oct 29, 2026
 
 ---
+### Gelin Hazırlık Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadının gelin olarak hazırlanmasını gösteren sürekli bir video oluşturmak için detaylı prompt; makyaj, saç şekillendirme, gelinlik giyme ve aksesuar ekleme aşamalarını içerir.
+
+#### 📝 Prompt
+
+```
+[Oluşturma Hedefi]
+Bir kadının düğünü için gelin olarak hazırlandığı ve süslendiği kesintisiz bir video oluşturun.
+
+[Olay Senaryosu]
+Başlangıçta, loş ışıklı bir gelin odasında sade iç çamaşırları veya bir sabahlıkla, saçları açık halde sakin bir şekilde oturur. Özenle gelin makyajını yapar, ardından saçlarını zarif bir topuz ya da yumuşak dalgalar halinde şekillendirir. Sonrasında beyaz bir gelinlik giymesi için kendisine yardım edilir; kumaş yerine otururken onu özenle düzeltir. Takılarını, duvağını veya çiçekli aksesuarlarını ekler, ardından ayağa kalkıp boy aynasında kendine bakar. Videonun sonunda tamamen bir gelin olarak hazırdır; yüzünde ışıltılı bir heyecanla hafifçe gülümser, gelinliği ve aksesuarları tamamlanmış, evlenmeye hazır hâldedir.
+
+[Tutarlılığı Koruyun]
+Aynı kadını, yüz hatlarını, ten rengini ve vücut oranlarını baştan sona tutarlı tutun. Beyaz gelin temasını, zarif kıyafetleri ve özel gelin odası ortamını koruyun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115769473902780416/img/APqpQFVnu3Lu8SqB.jpg" width="600" alt="Gelin Hazırlık Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13555)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115769679423611129) | **Published:** Oct 29, 2026
+
+---
 ### Bilim Kurgu Zırh Dönüşüm Video Senaryosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2301,299 +2634,6 @@ Tek kesintisiz çekim, kurgu yok, sabitlenmiş kamera. 0-2s: tavşanın burnunda
 **Author:** [Marco](https://x.com/ai_artworkgen) | **Source:** [Link](https://x.com/ai_artworkgen/status/2115002899579245038) | **Published:** Oct 27, 2026
 
 ---
-### Antropomorfik Ortak Polis Filmi Duran Görüntü İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, yağmurlu neon bir karakolda antropomorfik hayvanlarla 1987 tarzı bir ortak polis sahnesi oluşturan ayrıntılı bir video/görüntü istemi.
-
-#### 📝 Prompt
-
-```
-Stil: 1987 yapımı bir polisiye komedi filminden alınmış kare, fotogerçekçi antropomorfik hayvanlar, gece vakti yağmurlu neon ışıklı karakol, jaluzi gölgeleri, pembe ve turkuaz neon, sıcak tonlu masa lambası, 35mm film greni, metin yok
-
-1 · Kadife pantolon takımı giymiş yaşlı bir basset tazısı elinde bir kutu tutuyor: "Bu işler için artık çok yaşlıyım."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114968452397981696/img/3KAvfbOYqeaC8fuZ.jpg" width="600" alt="Antropomorfik Ortak Polis Filmi Duran Görüntü İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13123)**
-
-**Author:** [Nora Vale](https://x.com/NoravaleAI) | **Source:** [Link](https://x.com/NoravaleAI/status/2114969055740256340) | **Published:** Oct 27, 2026
-
----
-### AI Güzellik Yürüyüş Animasyonu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine kullanılarak daha önce paylaşılan bir AI güzellik görselinin 6 saniyelik bir videoya dönüştürülmesini anlatan Japonca tweet.
-
-#### 📝 Prompt
-
-```
-"Hey, biraz daha yürüyelim mi?"
-
-Daha önce paylaştığım bir yapay zekâ güzelini Grok Imagine ile 6 saniyelik bir videoya dönüştürdüm.
-
-O günün tek kare fotoğrafı canlanmaya başlıyor.
-
-Elini tuttuğunuzda size doğru dönüp gülümsüyor.
-Böyle bir tatil harika olmaz mıydı?
-
-Aslında o yok. Ama bir o kadar da orada, tam karşınızda.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114953333001814016/img/_zUF15iol8qlmJvn.jpg" width="600" alt="AI Güzellik Yürüyüş Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13265)**
-
-**Author:** [REALENCE](https://x.com/realence_ai) | **Source:** [Link](https://x.com/realence_ai/status/2114953365042135246) | **Published:** Oct 27, 2026
-
----
-### AI Chibi Dönüşüm Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine kullanarak üst düzey bir AI Chibi karakter dönüşüm videosu oluşturmak için ayrıntılı istem yapısı.
-
-#### 📝 Prompt
-
-```
-[Oluşturma Hedefi]
-Bir AI Chibi karakterinin birden fazla ileri düzey metamorfoz aşamasından geçerek evrildiği, bir üst seviye dönüşüm videosu oluşturun.
-
-[Konular ve İlişkiler]
-Ana konu tek bir AI Chibi'dir: parlayan dijital devre desenlerine, yumuşak ve yuvarlak hatlı uzuvlara, enerjiyle titreşen bir AI çekirdeğine sahip, sevimli, büyük kafalı chibi tarzı bir figür. Başka hiçbir karakter yer almaz.
-
-[Olay Senaryosu]
-Başlangıçta: AI Chibi, yumuşak neon bir boşlukta hareketsiz durur; küçük ve sevimli görünümüyle vücudunda basit, parlayan çizgiler bulunur.
-Ana olay: Bir üst seviye dönüşümlerine başlar — önce vücudunu pürüzsüz metalik zırh plakaları kaplarken holografik kanatları açılır ve etrafında dijital kod akıntıları döner; ardından boyutu hafifçe büyürken kristal enerji parçacıkları güçlü uzuvlara dönüşür ve ışıl ışıl parlayan bir AI tacı belirir; son olarak tam siber füzyon gerçekleşir ve nihai formuna ulaştığı anda parçacık izleri ile ışık huzmeleri patlar.
-Sonunda: Dönüşümünü tamamen tamamlamış, bir üst seviye AI Chibi kahramanca bir duruşla ayakta durur; yoğun enerji auralarıyla parlar, devreleri alev alev yanar ve kanatları sonuna kadar açılmıştır.
-
-[Tutarlılığı Koruyun]
-Tek AI Chibi kimliğini, chibi oranlarını ve kesintisiz dönüşüm ilerleyişini koruyun; ek karakterler veya ani değişiklikler olmamalıdır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114950818344439808/img/oEVJcstUCgyjGtaJ.jpg" width="600" alt="AI Chibi Dönüşüm Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13124)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114951756870250843) | **Published:** Oct 27, 2026
-
----
-### Siberpunk Dönüşüm Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine kullanarak bir mega şehir gece manzarasında fotogerçekçi bir siberpunk dönüşüm videosu oluşturmak için ayrıntılı istem.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Yoğun bir megakent gece manzarasında gerçekleşen, üst düzey bilim kurgu cyberpunk dönüşümlerini anlatan, tamamen gerçekçi ve fotogerçekçi bir video oluşturun.
-
-[Event Script]
-Başlangıçta, yağmurdan ıslanmış neon sokaklar ve yükselen cam kuleler, sürekli yağan çisenti altında holografik reklamları ve lazer ağlarını yansıtırken sıradan yayalar ve araçlar ıslak asfaltta ilerlemektedir. Yalnız bir figür açık bir meydana adım attığında dönüşüm sistemleri devreye girer: Nanit akıntıları yerden yükselerek bedenin üzerine dökülür; kıyafetler, parlayan devre hatları ve canlı metal plakalara sahip katmanlı adaptif bir zırha dönüşür; mekanik uzuvlar ve omurga implantları hassas mekanik hareketlerle açılarak yerine oturur; yüz hatları ise geliştirilmiş sibernetik gözlere ve şık kraniyal arayüzlere evrilir. Çevredeki altyapı da eş zamanlı olarak dönüşür; sokak lambaları veri direklerine uzar, reklam panoları serbestçe süzülen holografik hacimlere dağılır, araçlar açık iticileri ve ışık izleriyle alçaktan süzülen siber taşıtlara yeniden şekillenir, bina cepheleri aralanarak devasa parlayan kanalları ve neon dikey bahçeleri gözler önüne serer. Yakındaki diğer figürler de senkronize kısmi dönüşümler geçirir; uzuvları ve gövdeleri insan oranlarını kaybetmeden benzer zırh plakaları ve ışık izleri kazanır. Sonunda, tam dönüşümünü tamamlamış ana figür, baştan aşağı evrimleşmiş bir cyberpunk ortamının ortasında durmaktadır. Yağmur yansıtıcı yüzeylere düşmeye devam eder, holografik şehir sistemleri tamamen çevrimiçi hâle gelir ve kalan nanit parçacıkları ortamdaki ambiyans aydınlatmasına karışarak yerleşir.
-
-[Maintain Consistency]
-Tamamen fotogerçekçi işleme kalitesini, ıslak metal ve cam üzerindeki doğru malzeme yansımalarını, doğal yağmur fiziğini, dönüşüm sırasında tutarlı vücut oranlarını, cyan-magenta-amber tonlarından oluşan sabit neon renk paletini ve herhangi bir stilizasyon ya da çizgi film efekti içermeyen kesintisiz gece aydınlatmasını koruyun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114883706259460096/img/HznffzwKdvVg3LYQ.jpg" width="600" alt="Siberpunk Dönüşüm Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13121)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114883782545489945) | **Published:** Oct 27, 2026
-
----
-### Güneşli Okyanus Koyu Sahne Görüntüsü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Deniz fenerleri, kaleler, römorkörler, yunuslar ve akik taşları içeren detaylı bir manzara video istemi.
-
-#### 📝 Prompt
-
-```
-Güneşli okyanus koyu plajı, bir burunda deniz feneri diğer burunda kale, okyanusta sarı römorkör, okyanustan sıçrayan yalnızca iki yunus, gökyüzünden düşüp sahile inen kırmızı kurdele, kumsalın üzerindeki mavi akik taşları
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114812002468270080/img/ayAXF9nHbyCSNYs5.jpg" width="600" alt="Güneşli Okyanus Koyu Sahne Görüntüsü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13120)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2114812099801325687) | **Published:** Oct 26, 2026
-
----
-### Logic ve Magic Eurodance MV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine ile oluşturulan, mantık ve kalp temalarını ikiye bölünmüş ekranla işleyen 2000'ler Eurodance müzik videosu için detaylı sahne açıklamaları.
-
-#### 📝 Prompt
-
-```
-Aklım hayır dedi.
-Kalbim evet.
-Ben de ekranı ikisinin arasında paylaştırdım.
-
-LOGIC AND THE MAGIC: 
-yeni şarkım ve HUD'ın bizzat taraf seçtiği 2000'ler Eurodance tarzı bir müzik videosu.
-
-• Sol yarı AKIL; soğuk cyan tonunda, riskleri sayıyor
-• Sağ yarı KALP; sıcak pembe tonunda, atışları sayıyor
-• NO ile YES arasında gidip gelen bir ibre şarkı boyunca süzülüyor
-• "No" diye söylediğinde NO ekrana çarpıyor. "Yes" dediğinde ise YES kazanıyor
-
-LUMI, parıl parıl beyaz kemanını tel kafesli bir boşluktan alıp tıklım tıklım dolu bir kulübe taşıyor, pembe bir gökyüzüne süzülüyor ve drop anında ızgara gül yapraklarına dönüşüp dağılıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114710323387383808/img/-KwJS278J28v9jON.jpg" width="600" alt="Logic ve Magic Eurodance MV">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13119)**
-
-**Author:** [Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2114756440200003874) | **Published:** Oct 26, 2026
-
----
-### Kız ve Robot Zırh Evrimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kız ve robot arkadaşının beyaz ve altın enerjili savaş zırhına dönüştüğü video için bir prompt.
-
-#### 📝 Prompt
-
-```
-Bir üst seviye evrim dizilimi. Kız ve robot yol arkadaşı, güçlü bir dönüşüm geçiriyor. Sokak modası kıyafetleri gelişmiş savaş zırhlarına dönüşürken beyaz ve altın rengi enerji etraflarında dalgalanıyor. Robot biraz daha büyüyor ve çok daha saldırgan bir görünüme bürünüyor. Etraftaki enkaz havaya yükseliyor. Sinematik, dramatik, yüksek detaylı video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114718012540620800/img/H2lTw9eyvRiXGnY1.jpg" width="600" alt="Kız ve Robot Zırh Evrimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13154)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114718405647622441) | **Published:** Oct 26, 2026
-
----
-### Kedi Lazer İşaretçisi Etkileşim İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İki kedinin oturma odasında lazer işaretçisiyle oynadığı gerçekçi bir video için detaylı istem.
-
-#### 📝 Prompt
-
-```
-Sinematik, 15 saniyelik, 9:16 dikey video, fotogerçekçi, sıcak doğal ışık. Aydınlık bir oturma odasının pencere pervazını gösteren sabit orta plan çekimi. Tüyleri yumuşacık turuncu tekir bir kedi ile zarif gri bir kedi yan yana oturuyor; tüylerindeki detaylar net, halleri rahat ama tetikte, öğleden sonra güneşi soldan içeri süzülüyor. Ardından küçücük kırmızı bir lazer noktası beliriyor ve önlerindeki pervazda neşeyle dans etmeye başlıyor. Turuncu kedinin gözleri kocaman açılıyor, alçalıp iki ön pençesiyle birden atılıyor. Gri kedi hemen ona katılıyor, hareket eden noktaya hızlı ve isabetli patilerle vuruyor. Lazer noktası önce sola sonra sağa fırlıyor, her iki kedi de senkronize ve oyun dolu bir enerjiyle onu takip ediyor, kuyrukları seğiriyor. Lazer kayboluyor. İki kedi tekrar yan yana dik oturuyor; yüzlerinde tatmin olmuş, hafif gururlu bir ifade var, biri usulca patisini yalıyor. Yumuşak ortam sesleri, hafif ve şakacı miyavlamalar, neşeli ve sakin bir müzik. Video, iki kedinin yan yana sakin sakin oturduğu, tüylerine vuran sıcak ışığın temiz ve net bir şekilde görüldüğü bir kareyle sona eriyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114609320792907776/img/e0Bjcny6DJdpAkg1.jpg" width="600" alt="Kedi Lazer İşaretçisi Etkileşim İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13072)**
-
-**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2114609346738798684) | **Published:** Oct 26, 2026
-
----
-### Siberpunk Dönüşüm Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Doğu Asyalı bir kadının metalik zırha dönüştüğü, 15 saniyelik siberpunk tarzı dönüşüm videosu için son derece detaylı istem.
-
-#### 📝 Prompt
-
-```
-Sinematik, fotogerçekçi, 15 saniyelik cyberpunk dönüşüm videosu, dikey 9:16 en boy oranı, ultra detaylı, saf sinema kalitesinde aydınlatma ve atmosfer.
-Kısa siyah saçlı ve kahküllü, soluk tenli, yanaklarında kırmızı izler olan, kedi kulaklı kapüşonlu sweatshirt giyen güzel genç bir Doğu Asyalı kadın; gece vakti kar yağan yağmurlu fütüristik bir şehir sokağında çömelmiş duruyor. Üzerinde büyük kan kırmızısı bir kafatası grafiği ve Japonca karakterler bulunan oversize yıpranmış bej rengi bir kapüşonlu sweatshirt, kedi kulaklı kapüşon, büyük kulak üstü kulaklık, taktik yelekli sırt çantası, parmaksız eldiven, uyluk kayışları ve ağır cyberpunk savaş botları var. Kar ve ıslak zemin; arka plandaki devasa gökdelenlerden, holografik reklam panolarından ve uçan arabalardan yayılan neon ışıkları yansıtıyor. Kasvetli camgöbeği-mor-pembe neon parıltısı, hacimsel sis, hafif kar yağışı, sinematik alan derinliği.
-Ayağa kalkıp kendinden emin bir şekilde kameraya doğru yürüyor, gülümsüyor ve botlarından karlar havaya kalkıyor. Ardından ellerini kaldırdığında, kulaklığının ve yüzünün etrafında mavi parlayan holografik hedefleme arayüzleri ile dairesel HUD'lar beliriyor. Yüzündeki ifade hayranlık ve şaşkınlığa dönüşüyor.
-Ani ve güçlü bir dönüşüm: Bedeni; mor ve mavi parlayan enerji hatlarına, ışıldayan mavi bir göğüs çekirdeğine sahip, pürüzsüz tam vücut metalik bir sibernetik zırh takımına dönüşüyor ve arkasında saf ışık ile enerjiden oluşan mekanik kanatlar açılıyor. Başının üzerinde parlak mavi bir enerji halesi beliriyor. Kollarını iki yana açarak havaya yükseliyor, gözleri mest olmuş bir halde kapalı; neon gökdelenler ve uçan araçlar arasında yükselirken etrafında mor enerji izleri ve kıvılcımlar dönüyor.
-Üst düzey bilim kurgu cyberpunk estetiği, hiper gerçekçi materyaller (ıslak kumaş, cilalı metal, parlayan neon, kar tanecikleri), dramatik hacimsel aydınlatma, partikül efektleri, saf sinematik renk düzenlemesi, anamorfik bokeh, 8K fotogerçekçilik, her şey kusursuz görünüyor, destansı ağır çekim dönüşüm sahnesi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114544647565410304/img/Vw_84PO1JF5jhKfw.jpg" width="600" alt="Siberpunk Dönüşüm Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13416)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114544849512980709) | **Published:** Oct 26, 2026
-
----
-### Bilim Kurgu Dış İskelet Giysisi Dönüşüm Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Endüstriyel bir çorak araziden geleceğin megakentine geçiş ve dış iskelet giysisi yükseltmeleri ile hiper gerçekçi bilim kurgu dönüşümünü tasvir eden, Grok Imagine için detaylı sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Hiper gerçekçi, sinematik bir 8K bilim kurgu dönüşüm sahnesi. Kaynak görseldeki karakter ve yoldaşının kasvetli, endüstriyel bir çölde durduğu andan başlayarak yerden ani bir kuantum enerji patlaması yükselir. Mekanik tavşan şiddetle parçalanarak sıvı krom nanitlere dönüşür; bu nanitler girdap gibi yukarı doğru kıvrılarak chibi tarzındaki kızın ceketine kaynaşır. Kızın turuncu gözlükleri kendiliğinden başının üzerine kalkarken gözleri delici bir neon camgöbeği sibernetik irisle parlar. Üzerindeki koyu renkli kıyafetler an be an gelişmiş, pürüzsüz bir ekzo-kostüme dönüşür; bu kostüm nabız gibi atan turuncu plazma devreleri ve ışıldayan holografik tavşan kulağı telemetri dizileriyle kaplıdır. Arka plandaki endüstriyel harabeler hızla şekil değiştirerek bulutların arasında süzülen devasa, fütüristik bir megakente dönüşür. Epik kamera dönüşü, akıcı 60fps, ışın izlemeli yansımalar, parçacık efektleri, ustalık eseri CGI kalitesi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114502639149092865/img/ZOwtBmrGkQDpn-xk.jpg" width="600" alt="Bilim Kurgu Dış İskelet Giysisi Dönüşüm Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13073)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2114503259666964624) | **Published:** Oct 25, 2026
-
----
-### Spock Sincap Şarkı Videosu İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için Mr. Spock'un Space Cowboy şarkısını söylediği ve bir sincabın I Believe I Can Fly şarkısını seslendirdiği sürreal bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Eye Imaga Nation'ınızı kullanarak, uzay kovboyunu söyleyen Mr Spock ve "I believe I can fly" diyen sincap ile Making Art Great Again'i ekleyin
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114500239390302208/img/wANHTQI0leC2nfXT.jpg" width="600" alt="Spock Sincap Şarkı Videosu İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13118)**
-
-**Author:** [KarmasQuirrel🪃🐿🙏🕊️🔔🗽⚖️🪽](https://x.com/KarmasQuirrel) | **Source:** [Link](https://x.com/KarmasQuirrel/status/2114500250589180143) | **Published:** Oct 25, 2026
-
----
-### Grok Imagine Video İstemi: Sahil Çifti Ayarları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine'de görüntüden videoya üretim için ayarları (720p, 6s) ve içeriği (gerçekçi bir çift sahilde) belirten istem.
-
-#### 📝 Prompt
-
-```
-Sağlanan görseli temel alarak şu prompt ile yeni bir video oluştur: "Realistic couple on a beach soft waves behind them". Kullanılacak ayarlar: 720p, 6s.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114497398277836800/img/AXVQqvTE7JVybGsx.jpg" width="600" alt="Grok Imagine Video İstemi: Sahil Çifti Ayarları">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13117)**
-
-**Author:** [Tim Bevins](https://x.com/TimBevinsedyo) | **Source:** [Link](https://x.com/TimBevinsedyo/status/2114497432566251900) | **Published:** Oct 25, 2026
-
----
-### Ay'a Dönüş Astronot İstemcisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine ile oluşturulan, bir astronotu ve Ay'a dönen paslanmaz çelik gemiyi tasvir eden sinematik istemci.
-
-#### 📝 Prompt
-
-```
-Ay'a dönüş. Bir astronot, paslanmaz çelik bir uzay gemisi ve ufukta beliren Dünya; tam da Grok Imagine'den fırlamış gibi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114420772751962112/img/fWdSi6d8OfdoQlO-.jpg" width="600" alt="Ay'a Dönüş Astronot İstemcisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13070)**
-
-**Author:** [Kamil](https://x.com/madebykamil) | **Source:** [Link](https://x.com/madebykamil/status/2114421118475890705) | **Published:** Oct 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2655,6 +2695,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-05T01:12:33.907Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-05T12:23:28.576Z</sub>
 
 </div>
