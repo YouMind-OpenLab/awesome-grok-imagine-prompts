@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3343** |
+| 📝 Total Prompts | **3352** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-06** |
 
@@ -189,6 +189,176 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Camion che si trasforma in un robot gigante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complesso per la generazione video che utilizza immagini di riferimento per creare una ripresa continua di un camion pesante in corsa che si trasforma in un guerriero stile Optimus.
+
+#### 📝 Prompt
+
+```
+[Obiettivo di generazione]
+Genera un video continuo di un camion pesante futuristico che sfreccia lungo una strada di montagna, per poi trasformarsi in un gigantesco guerriero torreggiante in stile Optimus. Il soggetto principale è il camion rosso e blu, mentre l'evento centrale è la sua corsa ad alta velocità seguita da una trasformazione meccanica dettagliata nella forma di robot bipede.
+
+[Ruolo delle risorse di riferimento]
+@image1 definisce l'aspetto generale del camion: cabina rossa con decorazioni blu simili a fiamme, container blu con graffiti rossi, scarichi cromati, fari, ruote e la scena della strada di montagna durante la golden hour sotto un cielo drammaticamente nuvoloso; non inventare persone o veicoli aggiuntivi.
+@image2 definisce il design del guerriero gigante finale: corazza rossa e blu, dettagli meccanici cromati, occhi blu luminosi, finestrini sul petto, piedi simili a ruote e silhouette complessiva ispirata a Optimus; il paesaggio montano al tramonto presente in @image2 può essere utilizzato per rafforzare la continuità dell'illuminazione e dell'ambiente.
+
+[Soggetti e relazioni]
+L'unico camion presente in @image1 è il solo veicolo ed è esattamente la stessa entità che si trasforma nell'unico guerriero gigante di @image2. Non compaiono altri camion, robot o personaggi. La strada, le colline erbose, le montagne innevate in lontananza e il cielo drammaticamente nuvoloso rimangono coerenti per tutta la durata.
+
+[Sceneggiatura degli eventi]
+All'inizio: il camion con cabina rossa e container blu sfreccia verso la telecamera lungo l'autostrada d'asfalto, con i fari accesi, il motore che romba, le ruote che girano vorticosamente e il vento che sferza l'aria, il tutto immerso nella luce dorata del tramonto tra pesanti nuvole.
+Evento principale: il camion prosegue ad alta velocità per un breve istante, quindi avvia una trasformazione precisa e realistica. Ogni ruota, pannello, blocco motore, tubo di scappamento, container del rimorchio e giunto meccanico si apre, ruota e si riconfigura con movimenti intricati e dal peso tangibile. La cabina si solleva diventando il busto e la testa, le sezioni del rimorchio formano gli arti e le piastre della corazza, le ruote diventano i piedi e i componenti cromati si bloccano in posizione fino a quando il gigantesco guerriero in stile Optimus non si erge completamente dritto sulla stessa strada.
+Alla fine: il guerriero gigante si erge alto e stabile sull'autostrada rivolto verso lo spettatore, con gli occhi blu luminosi e la corazza rossa e blu completa, ancora circondato dal paesaggio montano e dalla luce del tramonto; la forma originale del camion non esiste più come veicolo.
+
+[Mantenere la coerenza]
+Mantieni rigorosamente lo schema cromatico rosso e blu, le decorazioni con fiamme/graffiti, i dettagli cromati e l'estetica meccanica continui dal camion al robot. Preserva l'identità di singola entità, in modo che il guerriero sia inequivocabilmente il camion trasformato. Mantieni l'ambiente della strada di montagna, l'illuminazione della golden hour, il cielo drammaticamente nuvoloso e le proporzioni realistiche della trasformazione. Tutti i movimenti meccanici devono risultare precisi, pesanti e fisicamente credibili, senza salti improvvisi o parti mancanti.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118521388332150784/img/F14J6-9cAMYnqKLX.jpg" width="600" alt="Camion che si trasforma in un robot gigante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13600)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118521533421457741) | **Published:** Nov 6, 2026
+
+---
+### Video Cinematografico della Discesa del Robot Optimus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per la generazione di video che descrive un enorme robot simile a Optimus che scende dalle nuvole in una città futuristica, con movimenti di camera cinematografici e sound design.
+
+#### 📝 Prompt
+
+```
+Un gigantesco robot Optimus scende dalle nuvole verso una città futuristica, atterrando tra grattacieli altissimi mentre potenti onde d'urto si propagano lungo le strade. La telecamera ruota attorno al suo enorme corpo metallico, mentre i suoi occhi blu squarciano l'oscurità.
+
+Le immagini restituiscono un'atmosfera sci-fi cinematografica e ad alta tecnologia, con luci drammatiche che fendono la foschia notturna e superfici metalliche riflettenti.
+
+La telecamera compie una dinamica orbita circolare attorno al robot gigante: parte da un'inquadratura ampia per catturare la discesa e l'impatto dell'atterraggio, per poi stringere progressivamente risalendo lungo il corpo fino agli occhi blu luminosi.
+
+Il comparto sonoro include i profondi boati dell'atterraggio, il rombo delle onde d'urto in espansione, risonanze metalliche e il basso brusio di sottofondo della città a fare da base all'intera scena.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118386448382459904/img/YBy0vRRPGCaswKYq.jpg" width="600" alt="Video Cinematografico della Discesa del Robot Optimus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13601)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118387174093558252) | **Published:** Nov 5, 2026
+
+---
+### Prompt di Test per la Sincronizzazione Labiale di Grok Imagine Video 1.5 Lite
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt di test per Grok Imagine Video 1.5 Lite su Higgsfield, progettato per generare un breve clip di una donna che pronuncia un dialogo specifico con sincronizzazione labiale accurata in un ambiente piovoso.
+
+#### 📝 Prompt
+
+```
+Una donna con un impermeabile giallo, alla fermata dell'autobus sotto la pioggia, si gira verso la telecamera e dice: "Scusate il ritardo, il 47 si è guastato."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115096039568883712/img/3H5aVATrpuG9vAiw.jpg" width="600" alt="Prompt di Test per la Sincronizzazione Labiale di Grok Imagine Video 1.5 Lite">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13603)**
+
+**Author:** [Which AI Won](https://x.com/whichaiwon) | **Source:** [Link](https://x.com/whichaiwon/status/2118342571592446154) | **Published:** Nov 5, 2026
+
+---
+### Prompt Video Cinematografico: Angelo Caduto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare un video cinematografico di un angelo caduto in un cratere di una città antica utilizzando Grok Imagine. La scena presenta fumo ascendente, pioggia che cade, fasci di luce che si chiudono e piume in fiamme.
+
+#### 📝 Prompt
+
+```
+angelo femminile con ali bianche bruciate e scurite sulle punte, inginocchiato in un cratere fumante al centro di una città antica, lo sguardo rivolto verso l'alto dove un fascio di luce si richiude nel cielo, pioggia sottile, inquadratura dall'alto, fantasy cinematografico, verticale 4:5
+
+l'angelo solleva lentamente il viso, la pioggia cade, il fumo si alza dal cratere, il fascio di luce si chiude, piume bruciate volano nel vento, la camera scende lentamente fino a raggiungerla
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118169027029663744/img/asNAYbWxjmoI9cAu.jpg" width="600" alt="Prompt Video Cinematografico: Angelo Caduto">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13607)**
+
+**Author:** [rxufnx](https://x.com/rxufnx) | **Source:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **Published:** Nov 5, 2026
+
+---
+### Video di Danza Hip Hop Electro Dark
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt dettagliato per la generazione video con Grok Imagine, che presenta una sequenza di danza hip-hop. Utilizza tre immagini di riferimento per mantenere la coerenza del personaggio (capelli neri raccolti verso l'alto, abito gotico in velluto) e specifica quattro scene con coreografie precise come body wave e isolamenti su una durata di 15 secondi.
+
+#### 📝 Prompt
+
+```
+🎥 Prompt Video (Grok Imagine)
+Condizioni Globali e BGM
+* Stile/Coerenza: Mantenere assoluta coerenza nei tratti del viso, nell'acconciatura e nell'outfit della persona in @Image1, @Image2, @Image3 (capelli neri raccolti in modo disordinato, abito gotico in velluto blu navy e rosso vino).
+* Musica/Atmosfera: Electro Hip-Hop lento e dark con bassi potenti. Un BGM ritmato e stiloso dal sapore POP. Esprimere una forza magnetica attraverso l'immobilità.
+Scena 1 (0-4s): Piano Medio
+* Immagine di base: @Image3
+* Azione (4s / 2 step):
+  * [0-2s]: Body wave che fluisce dolcemente dal petto al collo a tempo con il beat.
+  * [2-4s]: Isolamento netto del collo verso sinistra/destra, mantenendo lo sguardo fisso e freddo dritto davanti a sé.
+Scena 2 (4-8s): Campo Lungo (Figura Intera)
+* Immagine di base: @Image1
+* Azione (4s / 2 step):
+  * [4-6s]: Cavalcando il beat pesante, un'onda ampia e lenta fa ondeggiare bacino e parte superiore del corpo.
+  * [6-8s]: Isolamento netto delle mani che si incrociano in modo rapido e fluido. L'orlo dell'abito ondeggia con eleganza.
+Scena 3 (8-12s): Piano Medio
+* Immagine di base: @Image3
+* Azione (4s / 2 step):
+  * [8-10s]: Movimento back wave che collega spalle e petto in modo fluido.
+  * [10-12s]: Posa netta che blocca simultaneamente le punte delle dita e il collo, perfettamente a tempo con il climax del brano.
+Scena 4 (12-15s): Primo Piano (Ultima Scena)
+* Immagine di base: @Image2
+* Azione (3s):
+  * [12-14s]: Primo piano che zooma lentamente sempre più vicino al viso. Segue il ritmo con sottili isolamenti di testa e collo.
+  * [14-15s (Finale)]: Posa finale rivolta alla camera, strizza l'occhio destro in modo cool e sbarazzino, per poi immobilizzarsi.
+```
+
+<img src="https://cms-assets.youmind.com/media/1793951423787_2g1t88_HWVUat6a0AAOV7P.jpg" width="600" alt="Video di Danza Hip Hop Electro Dark">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13608)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118285947921989988) | **Published:** Nov 5, 2026
+
+---
+### Trasformazione Cinematografica di Optimus Prime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genera un video cinematografico di fantascienza di alta qualità che mostra Optimus Prime mentre subisce complesse trasformazioni meccaniche.
+
+#### 📝 Prompt
+
+```
+[Obiettivo di generazione]
+Genera un video Sci-Fi cinematografico di altissimo livello con trasformazioni next-level protagoniste di Optimus, rappresentando le avanzate sequenze di conversione del robot in uno stile realistico e fotorealistico.
+
+[Sceneggiatura degli eventi]
+All'inizio, Optimus è in piedi, completamente formato come robot umanoide all'interno di un hangar industriale futuristico, illuminato da una drammatica luce volumetrica. L'evento principale si sviluppa attraverso una trasformazione next-level a più stadi: le piastre corazzate esterne e gli arti si muovono con un'articolazione meccanica di precisione, i sistemi interni si illuminano e si riconfigurano, i componenti si ripiegano e si riassemblano in configurazioni alternative da combattimento o veicolari, con una fisica ultrarealistica e dettagliata di metalli, sistemi idraulici e flussi energetici. Gli stati ibridi intermedi rivelano complessi meccanismi a incastro prima di completarsi in una modalità avanzata totalmente trasformata. Alla fine, Optimus si blocca nella configurazione finale, stabile e potente, circondato da effetti energetici residui e scintille che si dissolvono.
+
+[Mantenere la coerenza]
+Mantieni Optimus come unico soggetto centrale, con un linguaggio di design Sci-Fi next-level coerente, texture metalliche fotorealistiche, continuità dell'illuminazione e consequenzialità logica della trasformazione per tutta la durata del video. Le immagini offrono un realismo Sci-Fi cinematografico fotorealistico con materiali ad alta fedeltà, illuminazione subsurface sugli elementi energetici e profondità atmosferica. La camera utilizza un tracciamento cinematografico dinamico: parte da un piano medio eroico, ruota con fluidi movimenti di carrello e gru per seguire le articolazioni meccaniche chiave, poi stringe in primi piani dettagliati sui componenti in trasformazione, prima di allargarsi su un campo lungo d'ambientazione che mostra la forma definitiva. Il sonoro include profondi stridii metallici e il ronzio dei servomotori idraulici, stratificati con picchi di energia elettronica, impatti di bassi risonanti e una crescente colonna sonora orchestrale Sci-Fi cinematografica che intensifica il ritmo durante l'intera conversione.
+
+Avvertenza: Questo video è un concept Sci-Fi fittizio generato dall'IA, creato esclusivamente a scopo di intrattenimento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118282841377345537/img/9CGR1l58Ow2LJFkx.jpg" width="600" alt="Trasformazione Cinematografica di Optimus Prime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13602)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
+
+---
 ### Prompt Grok Imagine: il principe trasforma la cameriera in principessa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -269,6 +439,38 @@ Movimenti di camera dinamici e cinematografici, movimenti umani naturali e fluid
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13557)**
 
 **Author:** [KyoukahanabiAITO](https://x.com/Kyoukahanabi135) | **Source:** [Link](https://x.com/Kyoukahanabi135/status/2118206409175453837) | **Published:** Nov 5, 2026
+
+---
+### Grok Imagine Video Prompt: Trasformazione dell'abito
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt video complesso per Grok Imagine: una donna in un abito di tulle cambia posa in un ambiente in rovina, con riferimento a due immagini di input.
+
+#### 📝 Prompt
+
+```
+Prompt Video (Grok Imagine)
+Impostazioni Globali e Mantenimento della Coerenza
+ * Personaggio: La donna di @Image1 e @Image2 (la stessa persona). Mantenere rigorosamente l'abito in tulle nero con balze, il choker a fiocco al collo, i capelli neri raccolti e il trucco naturale.
+ * Sfondo/Atmosfera: Uno spazio chic che ricorda delle rovine. Giochi di luce e ombra sulle pareti, atmosfera misteriosa e languida.
+ * BGM: Chill lo-fi hip-hop malinconico e sommesso, oppure un brano ambient per pianoforte.
+Composizione delle Inquadrature (Totale 8 secondi / Cambio ogni 4 secondi)
+[INQUADRATURA 1] (0:00 - 0:04)
+ * Immagine di riferimento: @Image1
+ * Posa 1 (0:00 - 0:02): Mano destra dietro la testa, sguardo fisso e silenzioso in camera con un'espressione annoiata.
+ * Posa 2 (0:02 - 0:04): Lo sguardo si abbassa leggermente, le punte delle dita sfiorano delicatamente il fiocco del choker al collo.
+[INQUADRATURA 2] (0:04 - 0:08)
+ * Immagine di riferimento: @Image2
+ * Posa 1 (0:04 - 0:06): Mano sinistra intrecciata dietro la testa, collo leggermente inclinato e sorriso rivolto alla camera.
+ * Posa 2 (0:06 - 0:08): Viso ritratto leggermente all'indietro, accarezza dolcemente i capelli distogliendo timidamente lo sguardo.
+```
+
+<img src="https://cms-assets.youmind.com/media/1793951411817_swqq6d_HWQN4x3a0AAINdr.jpg" width="600" alt="Grok Imagine Video Prompt: Trasformazione dell'abito">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13604)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
 
 ---
 ### Una donna trasforma un bastone in un'auto della polizia per catturare un ladro
@@ -1187,6 +1389,25 @@ Dracula in piedi davanti al suo castello, mentre guida i suoi Samhain Warriors n
 **Author:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **Source:** [Link](https://x.com/TheEerieHollows/status/2116750160755642621) | **Published:** Nov 1, 2026
 
 ---
+### Clip Fantasy dell'Aereo KY-22
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video in modalità riferimento per Grok Imagine, per creare un clip fantasy sul design dell'aereo KY-22 Krechet.
+
+#### 📝 Prompt
+
+```
+Breve clip fantasy sul mio nuovo progetto di velivolo, il KY-22 "Krechet", un aeromobile VTOL a rotori coassiali
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116692721079365632/img/f_1tHFvq-mZzY_Wz.jpg" width="600" alt="Clip Fantasy dell'Aereo KY-22">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13606)**
+
+**Author:** [Spectro](https://x.com/Spectromachina) | **Source:** [Link](https://x.com/Spectromachina/status/2116693542621880790) | **Published:** Nov 1, 2026
+
+---
 ### Video Yin Yang Drago Fenice
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1824,6 +2045,50 @@ Nella seconda immagine, quella con il vestito color bronzo, fai in modo che il c
 **Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2116299351639388363) | **Published:** Oct 30, 2026
 
 ---
+### Prompt Video Danza di Halloween
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per video verticale di una danza solista di Halloween con musica trap hip-hop, camera fissa e istruzioni coreografiche specifiche.
+
+#### 📝 Prompt
+
+```
+Danza solista di Halloween | 9:16 Verticale | Un solo ballerino | Sfondo fisso | Telecamera fissa | Zoom e primi piani sincronizzati con il beat | Horror Trap Hip-Hop
+
+MUSICA / ENERGIA:
+Un beat intenso che esplode all'improvviso fin dal primo istante, trap hip-hop a 155 BPM. Batterie potenti, bassi profondi, ritmo serrato, accenti netti, energia pura e dinamismo esplosivo.
+
+BLOCCO ASSOLUTO:
+Stessi volti, corpi, acconciature, outfit, posizioni, sfondo, illuminazione, colori e ombre dall'inizio alla fine. Nessuna sostituzione, nessuno scambio di posizione, nessun morphing, nessun ballerino extra, nessuno stacco di montaggio. Lo sfondo non cambia mai.
+
+DANZA (Priorità assoluta):
+Il ballerino distende entrambe le braccia dritte in avanti all'altezza delle spalle con i gomiti tesi, piega i polsi esattamente di 90 gradi verso il basso e apre le dita in modo naturale e disteso, scatenando una danza incredibilmente veloce, aggressiva e ad altissima energia. La performance si sviluppa attraverso una sequenza di movimenti che include passi rapidissimi a gambe rigide ed esplosivi movimenti delle spalle.
+A metà brano, dà le spalle alla telecamera, spinge in fuori i fianchi e li muove in modo sensuale. Tornando frontale, si sussegue una serie incalzante di movimenti: chest pop secchi e percussivi; scatti improvvisi e fulminei della testa; ginocchiate potenti; squat a gambe divaricate; affondi bruschi; e un oscillare ritmico e dinamico di tutto il corpo, uno dopo l'altro senza sosta.
+Usa un footwork in DOUBLE-TIME a 155 BPM, accelerazioni fulminee, freeze improvvisi, ripartenze esplosive e accenti marcati sul beat.
+
+REGOLA DELLA DANZA:
+I movimenti non devono essere perfettamente sincronizzati in ogni istante.
+Si segue lo stesso ritmo generale, ma con leggeri sfasamenti temporali, accenti alternati e azioni del corpo differenti.
+
+CHIUSURA (Ultimi 0,2 secondi):
+Un primo piano del ballerino che inclina la testa, forma un cuore con le mani e manda un bacio verso la telecamera.
+
+BLOCCO DELL'ASPETTO — PRIORITÀ ASSOLUTA:
+Mantieni il volto originale, l'incarnato naturale, l'acconciatura e il trucco del ballerino esattamente come compaiono nel frame iniziale. Non alterare in alcun modo l'aspetto per tutta la durata del video.
+
+TELECAMERA:
+Esclusivamente frontale e fissa. Nessun movimento di camera, niente pan, niente tilt, niente dolly.
+Usa solo zoom ottici in entrata rapidi e sincronizzati con il beat, snap zoom in uscita e brevi punch-in con inquadrature ravvicinate per dare velocità e impatto, mantenendo sempre la stessa posizione della telecamera. Lo sfondo deve restare identico in ogni momento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116232733513179136/img/XsNQfiypmO6re3Ds.jpg" width="600" alt="Prompt Video Danza di Halloween">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13605)**
+
+**Author:** [SPLASH GIRLS@AI Image](https://x.com/splash_GL) | **Source:** [Link](https://x.com/splash_GL/status/2116289052164976917) | **Published:** Oct 30, 2026
+
+---
 ### Prompt di Pittura Surreale Cinematografica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2414,226 +2679,6 @@ Dipinto a foglia d'oro di Gustav Klimt, pallida contessa vampira in un abito a m
 **Author:** [Lid Cracker](https://x.com/LidCracker) | **Source:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **Published:** Oct 28, 2026
 
 ---
-### Prompt per Ritratto con Viaggio nel Tempo su Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per Grok Imagine che utilizza la foto di un utente per generare un video di lui nell'era storica in cui si sente più a suo agio. L'intelligenza artificiale seleziona autonomamente il decennio, l'acconciatura, l'abbigliamento, il trucco e lo stile, assicurando che il soggetto rimanga riconoscibile.
-
-#### 📝 Prompt
-
-```
-In base a tutto ciò che sai di me, catapultami nell'epoca in cui mi sentirei più me stesso. Usa la mia foto e scegli tu il decennio, l'acconciatura, l'outfit, il trucco e il look. Assicurati che io resti riconoscibile e non farmi domande.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115479225167704064/img/RC8RGX6BXUppQhom.jpg" width="600" alt="Prompt per Ritratto con Viaggio nel Tempo su Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13156)**
-
-**Author:** [Charles Liebert](https://x.com/Charles_Liebert) | **Source:** [Link](https://x.com/Charles_Liebert/status/2115479241202499709) | **Published:** Oct 28, 2026
-
----
-### Prompt Video Grok Imagine: Sequenza di Trasformazione di Lantern
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per generare un video cinematografico di un personaggio di nome Lantern che si trasforma nel suo abito da combattimento utilizzando Grok Imagine. Specifica lo script dell'evento, lo stile visivo (magical girl/supereroe), i movimenti della camera e il sound design.
-
-#### 📝 Prompt
-
-```
-[Obiettivo di generazione]
-Genera una sequenza di trasformazione di livello superiore in cui Lantern si trasforma nel suo abito da combattimento. Il soggetto principale è Lantern e l'evento centrale è la sua trasformazione potenziante, che si conclude con lei completamente equipaggiata e pronta per la battaglia.
-
-[Sceneggiatura dell'evento]
-All'inizio: Lantern è in piedi in una posa neutra o rilassata; la sua figura inizia a brillare di una tenue luce interiore mentre particelle di energia cominciano a turbinarle attorno.
-Evento centrale: le fiammate di energia si intensificano mentre il suo abbigliamento muta e si ricostruisce: i tessuti si riformano, le piastre dell'armatura si materializzano e motivi luminosi a forma di lanterna con accenti di pura energia luminosa si incastrano lungo tutto il corpo. Scie di luce magica ed esplosioni di particelle la avvolgono mentre si solleva leggermente da terra, braccia distese, e l'abito da combattimento si assembla completamente in una rivelazione drammatica e stratificata.
-Alla fine: Lantern è in piedi, completamente trasformata nel suo abito da combattimento, potente e pronta, con gli effetti energetici residui che svaniscono mentre assume una stabile posa da combattimento.
-
-[Stile visivo]
-Estetica da trasformazione ad alta energia in stile magical girl / supereroina, con effetti di luce luminosi, particelle incandescenti, scie energetiche e un'illuminazione drammatica che esalta la potenza del cambiamento. La sequenza deve risultare fluida, epica e di un'intensità fuori scala.
-
-[Telecamera]
-Telecamera cinematografica dinamica che parte con un campo medio, per poi ruotare intorno al soggetto e stringere l'inquadratura durante il picco di energia, catturando la trasformazione dell'intero corpo con movimenti ampi e angolazioni drammatiche che mettono in risalto la formazione dell'abito da combattimento.
-
-[Audio]
-Potenti ronzii e fruscii di energia crescente che culminano in un'ondata climatica, arricchiti da scintillanti effetti sonori di particelle luminose e da un forte stinger d'impatto nel momento in cui l'abito da combattimento si blocca in posizione. Nessun dialogo.
-
-[Mantieni la coerenza]
-Mantieni Lantern come unico soggetto continuo dall'inizio alla fine. La sua identità resta invariata prima e dopo la trasformazione; cambiano solo l'abbigliamento e la manifestazione dei suoi poteri, che assumono la forma dell'abito da combattimento. Preserva una chiara progressione visiva dallo stato iniziale fino alla forma da combattimento completa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115394762090098689/img/hVHuhI7chEhUhUW-.jpg" width="600" alt="Prompt Video Grok Imagine: Sequenza di Trasformazione di Lantern">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13150)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115395330632282324) | **Published:** Oct 28, 2026
-
----
-### Scena cosmica con texture a guache
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per generare una scena spaziale cosmica utilizzando colori specifici (turchese, lilla, blu) e una texture di pittura a guache densa, caratterizzata da nebulose vorticose e stelle.
-
-#### 📝 Prompt
-
-```
-Crea una straordinaria scena spaziale cosmica utilizzando esclusivamente gli stessi identici colori del riferimento: un turchese ciano vibrante, un morbido lilla e un blu profondo, con la densa texture della pittura a guazzo. Un cosmo dipinto e magico: nebulose vorticose, stelle luminose, galassie lontane...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115388329575288832/img/D6ISarPDgJvLUjiT.jpg" width="600" alt="Scena cosmica con texture a guache">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13144)**
-
-**Author:** [Magdalena Kanas](https://x.com/KanasMagdalena) | **Source:** [Link](https://x.com/KanasMagdalena/status/2115389269413970029) | **Published:** Oct 28, 2026
-
----
-### Prompt per Immagine di Ritratto della Regina Coreana
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt per la generazione di immagini che crea un ritratto di una regina coreana in abiti tradizionali dell'era Joseon, ambientato su uno sfondo di palazzo con peonie. L'utente nota che Grok Imagine ha aggiunto dettagli extra come forcine durante la generazione del video.
-
-#### 📝 Prompt
-
-```
-Una giovane regina in piedi davanti a un'antica corte coreana, immersa in una fioritura di peonie arancioni. Indossa un abito di corte reale composto da un jeogori rosso con sontuosi ricami in filo d'oro e una chima bianca.
-I capelli raccolti sono impreziositi da una forcina (binyeo) ornata di corallo rosa, mentre sulla fronte porta dei piccoli jochi rotondi in argento decorati con rubini, zaffiri e perle.
-Rapporto d'aspetto 9:16. Stile K-drama.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793259730850_wtz5yy_HVszvFsaQAARtCp.jpg" width="600" alt="Prompt per Immagine di Ritratto della Regina Coreana">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13157)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2115341470593143095) | **Published:** Oct 28, 2026
-
----
-### Video della Trasformazione da Barra a Tuta Metallica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per generare un video di trasformazione fantascientifico in cui una barra metallica tenuta da una donna si trasforma in una tuta metallica completa.
-
-#### 📝 Prompt
-
-```
-[Obiettivo di generazione]
-Genera una sequenza di trasformazione lenta, nitida e di livello superiore in cui l'asta che tiene in mano si trasforma nella sua armatura metallica.
-
-[Script degli eventi]
-All'inizio è in piedi e stringe saldamente l'asta con una mano; l'oggetto è completamente solido e chiaramente riconoscibile come un'asta. La trasformazione ha inizio nel punto di contatto con il palmo: la superficie dell'asta si ammorbidisce e si espande verso l'esterno come metallo liquido, rivestendo per prime le dita e la mano. Il materiale metallico risale lentamente e senza interruzioni lungo il braccio, per poi estendersi sulle spalle e sul busto, delineando la corazza pettorale, l'armatura della vita e le protezioni delle anche con spigoli geometrici netti e superfici cromate riflettenti. Continua a scendere lungo entrambe le gambe, formando le protezioni per cosce e stinchi, e infine si richiude attorno agli stivali sigillando completamente l'armatura. Ogni fase della metamorfosi è intenzionale e ricca di dettagli, così che il passaggio dall'asta tenuta in mano all'armatura metallica integrale resti inequivocabile. Alla fine è in piedi, interamente avvolta nell'armatura metallica completata; l'asta originale non esiste più come oggetto separato, poiché tutta la sua massa è ora integrata nella corazza.
-
-[Mantenere la coerenza]
-Mantieni stabili per tutta la durata la sua identità, le proporzioni del corpo, la posa e il processo continuo e lento di trasformazione del metallo da liquido a solido. La finitura metallica finale dell'armatura, la sua capacità riflettente e l'integrazione perfetta tra i vari elementi devono rimanere nitide e coerenti.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115306755467116544/img/YkdNiyOVJAW9E5JR.jpg" width="600" alt="Video della Trasformazione da Barra a Tuta Metallica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13146)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115306979820491100) | **Published:** Oct 28, 2026
-
----
-### Prompt Video Vita Quotidiana al Caffè per Grok Imagine
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt video strutturato per generare una scena di caffè di 12 secondi con un barista. Utilizza due immagini di riferimento (@Image1, @Image2) per mantenere la coerenza e definisce pose specifiche e angolazioni della camera per ogni inquadratura.
-
-#### 📝 Prompt
-
-```
-Specifiche di base per l'intero video:
-Mantenere la coerenza dello stesso personaggio. Una giovane commessa che indossa una polo blu navy, una visiera parasole e un grembiule marrone. Un bancone da caffè in legno dall'atmosfera tranquilla. Luce naturale calda.
-[Cut 1: 0s-6s] Basato su @Image1
-* Posa 1 (0s-3s): Stato di @Image1. La commessa versa con cura il caffè da una caffettiera a filtro in una tazza bianca.
-* Posa 2 (3s-6s): Dopo aver finito di versare, ripone la caffettiera e sorride dolcemente guardando la tazza di caffè appena preparata.
-[Cut 2: 6s-12s] Basato su @Image2 (Cambio inquadratura)
-* Posa 1 (6s-9s): Inquadratura ravvicinata di @Image2. Aggiunge altro caffè con un'espressione seria ma delicata, osservando il vapore che sale.
-* Posa 2 (9s-12s): Alza improvvisamente lo sguardo verso la telecamera (dal lato del cliente), sorride dolcemente dicendo "Scusi per l'attesa" e china leggermente il capo.
-Idea BGM
-"Bossa nova acustica calda e delicata (chitarra lenta e suoni d'ambiente da caffè)"
-```
-
-<img src="https://cms-assets.youmind.com/media/1793259728803_ncupts_HVrRlRmbYAAzlOW.jpg" width="600" alt="Prompt Video Vita Quotidiana al Caffè per Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13155)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2115284925310255415) | **Published:** Oct 28, 2026
-
----
-### Video Cinematografico SpaceX Starship: Dalla Terra a Marte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per la generazione video con Grok Imagine, che crea una sequenza cinematografica continua di un SpaceX Starship in viaggio dalla Terra a Marte, includendo il lancio, il transito orbitale e l'atterraggio.
-
-#### 📝 Prompt
-
-```
-[Obiettivo di generazione]
-Genera un video cinematografico continuo di un'astronave SpaceX Starship che trasporta persone dalla Terra a Marte.
-
-[Script degli eventi]
-All'inizio, lo Starship è posizionato in verticale su una rampa di lancio costiera sotto il limpido cielo blu della Terra, con un equipaggio di astronauti visibile attraverso le ampie finestre della sezione passeggeri superiore. I motori si accendono sprigionando fiamme arancioni brillanti e dense nuvole di vapore bianco mentre il veicolo decolla, accelerando verso l'alto attraverso l'atmosfera. L'inquadratura passa poi a una vista orbitale che mostra la Terra allontanarsi in basso, mentre lo Starship viaggia nello spazio profondo. Evento principale: il lungo viaggio interplanetario, con il velivolo che attraversa il vuoto cosmico in direzione del disco rossastro di Marte, che diventa progressivamente più grande. Alla fine, lo Starship esegue un atterraggio controllato a propulsione sulla polverosa superficie marziana, sotto un cielo sottile e rosato, con i motori che riducono la spinta mentre i carrelli di atterraggio toccano il suolo e il veicolo si arresta in posizione verticale.
-
-[Mantenere la coerenza]
-Mantieni invariati per tutta la durata l'aspetto generale in acciaio inossidabile dello Starship, le sue dimensioni, la disposizione delle finestre e la configurazione dei propulsori. Preserva una netta distinzione visiva tra l'ambiente blu della partenza dalla Terra e quello rosso dell'arrivo su Marte. Mantieni costante la presenza delle persone come passeggeri all'interno del veicolo, dal lancio fino all'atterraggio.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115039304548552704/img/1CW0EkBI89QJx2Z-.jpg" width="600" alt="Video Cinematografico SpaceX Starship: Dalla Terra a Marte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13151)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115039637609828487) | **Published:** Oct 27, 2026
-
----
-### Prompt Video Tempesta Cybercab
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per generare un video di fantascienza con taxi volanti autonomi che si muovono in sciami attraverso una megacittà illuminata al neon durante la notte.
-
-#### 📝 Prompt
-
-```
-Scopo: Generare un video di una tempesta di cybercab: uno sciame denso e ad altissima velocità di eleganti taxi volanti autonomi che sfreccia attraverso una città notturna futuristica, dando vita a un'impressionante tempesta aerea di veicoli.
-
-Descrizione:
-All'inizio, lo skyline notturno di una megalopoli illuminata al neon si estende in basso sotto scure nubi temporalesche, con i primi cybercab sparsi che iniziano a decollare dai tetti e dalle piattaforme sopraelevate. Evento principale: centinaia di cybercab luminosi accelerano, virano e si intrecciano in formazioni sincronizzate ma caotiche; i loro propulsori lasciano scie di luce bianco-azzurra mentre riempiono il cielo come un temporale vivente di metallo ed energia, schivando gli imponenti grattacieli. Nel finale, lo sciame raggiunge la massima densità, creando un fiume continuo di luci sospeso che domina l'inquadratura sopra le strade illuminate.
-
-Mantenere la coerenza
-I cybercab devono rimanere identici nel design elegante e formare uno sciame sterminato; preservare l'illuminazione notturna al neon, il cielo scuro e tempestoso e il movimento continuo ad alta velocità, senza collisioni tra i singoli veicoli o improvvisi squarci nel cielo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115032410752688128/img/RhB6xI105z_vmLAC.jpg" width="600" alt="Prompt Video Tempesta Cybercab">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13153)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115032907261816941) | **Published:** Oct 27, 2026
-
----
-### Scatto Continuo Coniglio Bacio Fumo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per un video a scatto continuo che include un bacio sul naso di un coniglio, fumo, onde e istruzioni specifiche sull'illuminazione e sulla color grading.
-
-#### 📝 Prompt
-
-```
-Un'unica ripresa continua, senza tagli, camera fissa. 0-2s: mantieni l'inquadratura larga mentre lei tiene il bacio sul naso del coniglietto, respira, il fumo si dissolve alle sue spalle. 2-4s: un'onda si infrange bianca sugli scogli a destra e la messa a fuoco passa dalla coppia al mare in burrasca, la modella e il coniglietto si fondono in morbide forme color crema e mimetiche. 4-5s: il fuoco torna su di lei mentre le ciglia fremono, l'occhio nero e lucido del coniglietto cattura un riflesso di controluce. Look: profondità di campo ridotta, bagliore di fumo verde menta e rosa, mare grigio ardesia e freddo, grana fine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115002726148874240/img/QMaFd0XsBmKpyVGK.jpg" width="600" alt="Scatto Continuo Coniglio Bacio Fumo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13415)**
-
-**Author:** [Marco](https://x.com/ai_artworkgen) | **Source:** [Link](https://x.com/ai_artworkgen/status/2115002899579245038) | **Published:** Oct 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2695,6 +2740,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-06T06:14:46.028Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-06T16:03:54.550Z</sub>
 
 </div>

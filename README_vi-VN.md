@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3343** |
+| 📝 Total Prompts | **3352** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-06** |
 
@@ -189,6 +189,176 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Xe Tải Biến Hình Thành Robot Khổng Lồ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video phức tạp sử dụng hình ảnh tham chiếu để tạo ra cảnh quay liên tục của một chiếc xe tải hạng nặng đang chạy và biến hình thành chiến binh phong cách Optimus.
+
+#### 📝 Prompt
+
+```
+[Mục tiêu tạo sinh]
+Tạo một video liền mạch về chiếc xe tải hạng nặng mang phong cách tương lai đang lao nhanh trên đường cao tốc vùng núi, sau đó biến hình thành một chiến binh khổng lồ sừng sững theo kiểu Optimus. Chủ thể trung tâm là chiếc xe tải hai tông màu đỏ - xanh, và sự kiện chính là cảnh xe phóng với tốc độ cao rồi chuyển hóa chi tiết bằng cơ khí thành hình dáng robot hai chân.
+
+[Vai trò của tài liệu tham khảo]
+@image1 được dùng để định hình diện mạo tổng thể của xe tải: cabin màu đỏ với các họa tiết ngọn lửa màu xanh, thùng container màu xanh có hình graffiti đỏ, ống xả mạ chrome, đèn pha, bánh xe, cùng khung cảnh con đường miền núi trong ánh sáng giờ vàng dưới bầu trời mây cuộn đầy kịch tính; không tự ý thêm người hay phương tiện khác.
+@image2 được dùng làm thiết kế cho chiến binh khổng lồ ở đoạn kết: lớp giáp đỏ - xanh, chi tiết cơ khí mạ chrome, đôi mắt phát sáng màu xanh, cửa kính ngực, bàn chân dạng bánh xe và tổng thể vóc dáng lấy cảm hứng từ Optimus; bối cảnh hoàng hôn miền núi trong @image2 có thể dùng để củng cố sự liền mạch về ánh sáng và môi trường.
+
+[Chủ thể và mối quan hệ]
+Chiếc xe tải duy nhất trong @image1 là phương tiện duy nhất xuất hiện, đồng thời chính là thực thể sẽ biến hình thành chiến binh khổng lồ duy nhất trong @image2. Không có thêm bất kỳ xe tải, robot hay nhân vật nào khác. Con đường, những ngọn đồi cỏ, dãy núi tuyết phía xa và bầu trời mây cuộn vẫn giữ nguyên sự nhất quán xuyên suốt.
+
+[Kịch bản sự kiện]
+Mở đầu: chiếc xe tải cabin đỏ kéo thùng container xanh lao thẳng về phía camera trên mặt đường nhựa, đèn pha bật sáng, động cơ gầm rú, bánh xe quay tít, gió rít qua thân xe dưới ánh hoàng hôn rực rỡ và tầng mây dày đặc.
+Sự kiện chính: xe tiếp tục lao đi với tốc độ cao trong chốc lát, rồi bắt đầu quá trình biến hình chuẩn xác và chân thực. Từng bánh xe, tấm ốp, khối động cơ, ống xả, thùng container và các khớp cơ khí lần lượt bung ra, xoay chuyển và tái cấu trúc bằng những chuyển động phức tạp, đầy sức nặng. Cabin nhô lên trở thành phần thân và đầu, các khoang thùng tạo nên tay chân cùng lớp giáp, bánh xe hóa thành bàn chân, và những chi tiết mạ chrome khớp chặt vào vị trí cho đến khi chiến binh khổng lồ kiểu Optimus đứng thẳng hoàn toàn ngay trên chính con đường đó.
+Kết thúc: chiến binh khổng lồ đứng vững chãi, sừng sững trên đường cao tốc hướng về phía người xem, đôi mắt xanh phát sáng, bộ giáp đỏ - xanh hoàn chỉnh, xung quanh vẫn là khung cảnh núi non và ánh hoàng hôn; hình dáng chiếc xe tải ban đầu đã hoàn toàn biến mất.
+
+[Duy trì tính nhất quán]
+Giữ nguyên vẹn bảng màu đỏ - xanh, các họa tiết ngọn lửa/graffiti, chi tiết mạ chrome và thẩm mỹ cơ khí xuyên suốt từ lúc còn là xe tải đến khi thành robot. Bảo toàn tính đồng nhất của thực thể duy nhất để người xem nhận ra ngay chiến binh chính là chiếc xe tải vừa biến hình. Duy trì bối cảnh đường cao tốc miền núi, ánh sáng giờ vàng, bầu trời mây cuộn đầy kịch tính và tỷ lệ biến hình chân thực. Mọi chuyển động cơ khí phải luôn chuẩn xác, nặng nề, tuân thủ vật lý, không bị giật cục hay thiếu hụt chi tiết.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118521388332150784/img/F14J6-9cAMYnqKLX.jpg" width="600" alt="Xe Tải Biến Hình Thành Robot Khổng Lồ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13600)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118521533421457741) | **Published:** Nov 6, 2026
+
+---
+### Video Điện Ảnh Cảnh Robot Optimus Hạ Cánh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video chi tiết mô tả một robot khổng lồ giống Optimus hạ cánh từ đám mây xuống thành phố tương lai, với các chuyển động camera điện ảnh và thiết kế âm thanh sống động.
+
+#### 📝 Prompt
+
+```
+Một robot Optimus khổng lồ từ trên mây giáng xuống một thành phố tương lai, đáp thẳng giữa những tòa nhà chọc trời sừng sững trong khi các luồng sóng xung kích mạnh mẽ lan tỏa khắp mặt đường. Ống kính lia vòng quanh thân hình kim loại đồ sộ của nó, đúng lúc đôi mắt xanh bừng sáng xé toạc màn đêm.
+
+Phần hình ảnh mang đậm chất điện ảnh khoa học viễn tưởng với công nghệ cao: ánh sáng đầy kịch tính xuyên qua lớp sương mù ban đêm và phản chiếu lấp lánh trên những bề mặt kim loại.
+
+Ống kính di chuyển theo quỹ đạo vòng cung đầy năng động quanh con robot khổng lồ, bắt đầu bằng góc rộng để ghi lại trọn vẹn cú giáng xuống cùng lực va chạm khi tiếp đất, sau đó lướt dần sát dọc theo cơ thể hướng về phía đôi mắt xanh phát sáng.
+
+Âm thanh bao gồm những tiếng va đập trầm đục khi hạ cánh, tiếng ầm ì của sóng xung kích lan rộng, âm vang kim loại, cùng tiếng ồn nền trầm thấp của thành phố ẩn dưới bầu không khí đầy kịch tính.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118386448382459904/img/YBy0vRRPGCaswKYq.jpg" width="600" alt="Video Điện Ảnh Cảnh Robot Optimus Hạ Cánh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13601)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118387174093558252) | **Published:** Nov 5, 2026
+
+---
+### Prompt thử nghiệm đồng bộ môi cho Grok Imagine Video 1.5 Lite
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt thử nghiệm dành cho Grok Imagine Video 1.5 Lite trên Higgsfield, dùng để tạo một đoạn video ngắn về một phụ nữ đang nói lời thoại cụ thể với khả năng đồng bộ môi chính xác trong bối cảnh trời mưa.
+
+#### 📝 Prompt
+
+```
+Một người phụ nữ mặc áo mưa màu vàng tại trạm xe buýt giữa trời mưa quay sang phía camera và nói: 'Xin lỗi vì tôi đến trễ, chuyến xe buýt số 47 bị hỏng.'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115096039568883712/img/3H5aVATrpuG9vAiw.jpg" width="600" alt="Prompt thử nghiệm đồng bộ môi cho Grok Imagine Video 1.5 Lite">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13603)**
+
+**Author:** [Which AI Won](https://x.com/whichaiwon) | **Source:** [Link](https://x.com/whichaiwon/status/2118342571592446154) | **Published:** Nov 5, 2026
+
+---
+### Prompt Video Điện Ảnh Thiên Thần Sa Ngã
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video điện ảnh về thiên thần sa ngã trong miệng hố cổ thành bằng Grok Imagine. Cảnh quay có khói bốc lên, mưa rơi, tia sáng khép lại và lông vũ đang cháy.
+
+#### 📝 Prompt
+
+```
+nữ thiên thần với đôi cánh trắng cháy sém và ngả màu tối ở phần đầu cánh, đang quỳ gối trong một hố sâu bốc khói giữa lòng thành phố cổ kính, ngước nhìn lên nơi một luồng ánh sáng khép lại trên bầu trời, mưa phùn, góc máy từ trên cao, fantasy điện ảnh, khung dọc 4:5
+
+thiên thần từ từ ngẩng mặt lên, mưa rơi, khói bốc lên từ hố sâu, luồng ánh sáng khép lại, những chiếc lông vũ cháy xém bay theo gió, camera chậm rãi hạ xuống cho đến khi tiến sát đến cô
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118169027029663744/img/asNAYbWxjmoI9cAu.jpg" width="600" alt="Prompt Video Điện Ảnh Thiên Thần Sa Ngã">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13607)**
+
+**Author:** [rxufnx](https://x.com/rxufnx) | **Source:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **Published:** Nov 5, 2026
+
+---
+### Video Nhảy Hip Hop Dark Electro
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Hướng dẫn tạo video chi tiết cho Grok Imagine, tập trung vào chuỗi điệu nhảy hip-hop. Prompt sử dụng ba hình ảnh tham chiếu để duy trì sự nhất quán về nhân vật (tóc đen dựng đứng, váy gothic nhung) và mô tả bốn cảnh với các động tác vũ đạo chính xác như body wave và isolation trong thời lượng 15 giây.
+
+#### 📝 Prompt
+
+```
+🎥 Video Prompt (Grok Imagine)
+Điều kiện chung & BGM
+* Phong cách/Độ nhất quán: Giữ nguyên tuyệt đối đường nét khuôn mặt, kiểu tóc và trang phục của nhân vật trong @Image1, @Image2, @Image3 (tóc đen búi rối, đầm nhung gothic phối xanh navy và đỏ rượu).
+* Nhạc/Không khí: Slow & Dark Electro Hip-Hop với âm bass dày, nặng. BGM mang nhịp điệu POP thời thượng và phong cách. Thể hiện thần thái mạnh mẽ, chất lừ ngay cả khi đứng yên.
+Cảnh 1 (0-4s): Medium Shot
+* Ảnh gốc: @Image3
+* Hành động (4s / 2 bước):
+  * [0-2s]: Body wave uốn lượn mượt mà từ ngực lên cổ theo đúng nhịp beat.
+  * [2-4s]: Isolation cổ trái/phải dứt khoát, ánh mắt nhìn thẳng đầy lạnh lùng.
+Cảnh 2 (4-8s): Full Shot (Toàn thân)
+* Ảnh gốc: @Image1
+* Hành động (4s / 2 bước):
+  * [4-6s]: Bắt trọn nhịp beat nặng, thực hiện một cú wave lớn, chậm rãi lan tỏa từ hông lên phần thân trên.
+  * [6-8s]: Isolation tay sắc bén, đan chéo tay nhanh và mượt. Tà váy bay nhẹ nhàng, thanh lịch.
+Cảnh 3 (8-12s): Medium Shot
+* Ảnh gốc: @Image3
+* Hành động (4s / 2 bước):
+  * [8-10s]: Chuyển động back wave kết nối vai và ngực liền mạch.
+  * [10-12s]: Tạo dáng pose cực gắt, khóa chặt đầu ngón tay và cổ cùng lúc ngay khoảnh khắc cao trào của bài hát.
+Cảnh 4 (12-15s): Close-up (Cảnh cuối)
+* Ảnh gốc: @Image2
+* Hành động (3s):
+  * [12-14s]: Cảnh cận zoom chậm dần vào gương mặt. Nhún nhảy theo nhịp bằng những cú isolation đầu và cổ thật tinh tế.
+  * [14-15s (Cuối cùng)] : Pose kết thúc hướng thẳng về phía camera, nháy mắt phải vừa ngầu vừa đáng yêu rồi đóng băng khung hình.
+```
+
+<img src="https://cms-assets.youmind.com/media/1793951423787_2g1t88_HWVUat6a0AAOV7P.jpg" width="600" alt="Video Nhảy Hip Hop Dark Electro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13608)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118285947921989988) | **Published:** Nov 5, 2026
+
+---
+### Biến hình Optimus Prime phong cách điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo video khoa học viễn tưởng cao cấp mang phong cách điện ảnh, tái hiện quá trình biến hình cơ khí phức tạp của Optimus Prime.
+
+#### 📝 Prompt
+
+```
+[Mục tiêu tạo video]
+Tạo một video Sci-Fi điện ảnh cao cấp về quá trình Biến hình đỉnh cao với nhân vật Optimus, khắc họa các chuỗi chuyển đổi tiên tiến của robot theo phong cách chân thực, chuẩn photorealistic.
+
+[Kịch bản sự kiện]
+Mở đầu, Optimus đứng sừng sững dưới hình hài một robot hình người hoàn chỉnh trong một nhà chứa máy công nghiệp mang đậm chất tương lai, được bao trùm bởi ánh sáng volumetric đầy kịch tính. Sự kiện chính diễn ra qua một chuỗi biến hình đỉnh cao nhiều giai đoạn: các tấm giáp ngoài và chi tiết cơ khí dịch chuyển nhờ hệ thống khớp nối chính xác tuyệt đối, các bộ phận bên trong phát sáng và tự tái cấu trúc, từng linh kiện gập lại rồi lắp ráp thành các dạng chiến đấu hoặc phương tiện khác nhau, tuân theo nguyên lý vật lý siêu chi tiết và chân thực của kim loại, thủy lực cũng như dòng năng lượng. Các trạng thái trung gian hé lộ những cơ cấu khớp nối phức tạp đan xen vào nhau trước khi hoàn tất quá trình chuyển đổi sang chế độ nâng cao cuối cùng. Ở phân cảnh kết thúc, Optimus khóa chặt vào cấu hình biến hình sau cùng, vững chãi và uy mãnh giữa những vệt năng lượng còn sót lại cùng tàn lửa đang dần tắt.
+
+[Duy trì tính nhất quán]
+Giữ Optimus là chủ thể trung tâm duy nhất xuyên suốt video, với ngôn ngữ thiết kế Sci-Fi đỉnh cao nhất quán, chất liệu kim loại chuẩn photorealistic, ánh sáng liền mạch và logic biến hình hợp lý. Phần hình ảnh phải toát lên chất điện ảnh Sci-Fi chân thực với vật liệu có độ trung thực cao, hiệu ứng ánh sáng xuyên thấu (subsurface lighting) trên các yếu tố năng lượng và chiều sâu không khí ấn tượng. Góc máy sử dụng kỹ thuật tracking điện ảnh động: bắt đầu bằng cú máy medium shot đầy hào hùng, lia vòng quanh mượt mà bằng dolly và crane để bám sát các chuyển động cơ khí then chốt, sau đó đẩy cận cảnh vào từng chi tiết đang biến hình trước khi kéo ra góc rộng toàn cảnh để phô diễn hình hài hoàn chỉnh. Phần âm thanh bao gồm tiếng nghiến kim loại trầm đục và tiếng rít của servo thủy lực, hòa quyện cùng những đợt xung năng lượng điện tử, tiếng bass cộng hưởng và bản nhạc giao hưởng Sci-Fi điện ảnh dồn dập, liên tục đẩy cao trào cảm xúc xuyên suốt quá trình biến hình.
+
+Tuyên bố miễn trừ trách nhiệm: Video này là một ý tưởng Sci-Fi hư cấu do AI tạo ra, chỉ nhằm mục đích giải trí.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118282841377345537/img/9CGR1l58Ow2LJFkx.jpg" width="600" alt="Biến hình Optimus Prime phong cách điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13602)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
+
+---
 ### Grok Imagine Prompt: Hoàng tử biến cô hầu gái thành công chúa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -269,6 +439,38 @@ Góc máy điện ảnh chuyển động linh hoạt, các cử động của nh
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13557)**
 
 **Author:** [KyoukahanabiAITO](https://x.com/Kyoukahanabi135) | **Source:** [Link](https://x.com/Kyoukahanabi135/status/2118206409175453837) | **Published:** Nov 5, 2026
+
+---
+### Grok Imagine Video Prompt: Biến đổi Trang phục
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt tạo video phức tạp cho Grok Imagine, mô tả một phụ nữ trong chiếc váy voan chuyển động giữa các tư thế tại bối cảnh đổ nát, tham chiếu hai hình ảnh đầu vào.
+
+#### 📝 Prompt
+
+```
+Video Prompt (Grok Imagine)
+Cài đặt chung & Duy trì tính nhất quán
+ * Nhân vật: Người phụ nữ trong @Image1 và @Image2 (cùng một người). Giữ nguyên tuyệt đối chiếc váy voan đen xếp tầng, vòng cổ ribbon, tóc đen búi cao và lối trang điểm tự nhiên.
+ * Bối cảnh/Không khí: Không gian mang nét hoài cổ như một phế tích sang trọng. Ánh sáng và bóng tối đổ trên các bức tường, tạo nên bầu không khí bí ẩn và phảng phất nét u buồn.
+ * BGM: Nhạc chill lo-fi hip-hop trầm lắng, tĩnh lặng, hoặc một bản piano ambient.
+Bố cục cảnh quay (Tổng 8 giây / Chuyển cảnh mỗi 4 giây)
+[CUT 1] (0:00 - 0:04)
+ * Ảnh tham khảo: @Image1
+ * Tư thế 1 (0:00 - 0:02): Tay phải đặt sau đầu, ánh mắt tĩnh lặng nhìn thẳng vào camera với vẻ mặt đượm buồn.
+ * Tư thế 2 (0:02 - 0:04): Ánh mắt khẽ cụp xuống, đầu ngón tay nhẹ nhàng chạm vào dải ribbon trên vòng cổ.
+[CUT 2] (0:04 - 0:08)
+ * Ảnh tham khảo: @Image2
+ * Tư thế 1 (0:04 - 0:06): Tay trái vòng ra sau đầu, hơi nghiêng cổ và mỉm cười hướng về phía camera.
+ * Tư thế 2 (0:06 - 0:08): Hơi ngả mặt ra sau, nhẹ nhàng vuốt tóc trong khi e thẹn lảng tránh ánh nhìn.
+```
+
+<img src="https://cms-assets.youmind.com/media/1793951411817_swqq6d_HWQN4x3a0AAINdr.jpg" width="600" alt="Grok Imagine Video Prompt: Biến đổi Trang phục">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13604)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
 
 ---
 ### Người Phụ Nữ Biến Cây Gậy Thành Xe Cảnh Sát Để Bắt Trộm
@@ -1187,6 +1389,25 @@ Dracula đứng trước lâu đài của mình, chỉ huy đội quân Samhain 
 **Author:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **Source:** [Link](https://x.com/TheEerieHollows/status/2116750160755642621) | **Published:** Nov 1, 2026
 
 ---
+### Đoạn phim kỳ ảo về máy bay KY-22
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video chế độ tham chiếu cho Grok Imagine, tạo một đoạn phim kỳ ảo về thiết kế máy bay KY-22 Krechet.
+
+#### 📝 Prompt
+
+```
+Đoạn clip ngắn đầy chất viễn tưởng về thiết kế máy bay mới của tôi, chiếc KY-22 "Krechet" – một mẫu VTOL sử dụng rotor đồng trục.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116692721079365632/img/f_1tHFvq-mZzY_Wz.jpg" width="600" alt="Đoạn phim kỳ ảo về máy bay KY-22">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13606)**
+
+**Author:** [Spectro](https://x.com/Spectromachina) | **Source:** [Link](https://x.com/Spectromachina/status/2116693542621880790) | **Published:** Nov 1, 2026
+
+---
 ### Video Rồng Phượng Âm Dương
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1823,6 +2044,50 @@ Phần âm thanh bao gồm tiếng ù trầm vang vọng của nền công ngh�
 **Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2116299351639388363) | **Published:** Oct 30, 2026
 
 ---
+### Mẹo tạo video nhảy Halloween
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mẹo tạo video dọc cho điệu nhảy đơn Halloween với nhạc trap hip-hop, máy quay cố định và hướng dẫn biên đạo cụ thể.
+
+#### 📝 Prompt
+
+```
+Nhảy solo Halloween | Dọc 9:16 | Một vũ công | Phông nền cố định | Máy quay cố định | Zoom & Cận cảnh theo nhịp beat | Horror Trap Hip-Hop
+
+ÂM NHẠC / NĂNG LƯỢNG:
+Nhịp beat căng thẳng bùng nổ ngay từ giây đầu tiên, thể loại trap hip-hop 155 BPM. Trống đánh mạnh, bass dày, tốc độ cao, điểm nhấn sắc lẹm, tràn đầy năng lượng và biến hóa liên tục.
+
+KHÓA TUYỆT ĐỐI:
+Giữ nguyên gương mặt, hình thể, kiểu tóc, trang phục, vị trí, phông nền, ánh sáng, màu sắc và bóng đổ trong suốt toàn bộ video. Không thay thế nhân vật, không đổi chỗ, không biến hình (morph), không thêm vũ công phụ, không cắt cảnh. Phông nền tuyệt đối không thay đổi.
+
+VŨ ĐIỆU (Ưu tiên số 1):
+Vũ công duỗi thẳng hai tay về phía trước ngang tầm vai, khuỷu tay thẳng, gập cổ tay chính xác 90 độ xuống dưới, các ngón tay xòe ra tự nhiên và thẳng, bung lụa một điệu nhảy cực nhanh, dữ dội và bùng nổ năng lượng. Phần trình diễn bao gồm chuỗi động tác như bước chân nhanh với đôi chân cứng cáp, chuyển động vai bùng nổ.
+Giữa bài hát, cô ấy quay lưng lại phía máy quay, đẩy hông ra sau và lắc hông đầy gợi cảm. Khi xoay người về phía trước, một loạt động tác dồn dập được tung ra: những cú chest pop nảy ngực dứt khoát theo nhịp trống; hất đầu đột ngột, chớp nhoáng; nâng gối mạnh mẽ; squat dạng rộng chân; chùng chân (lunge) bất ngờ; cùng những cú đảo toàn thân uyển chuyển, nhịp nhàng — tất cả nối tiếp nhau liên hoàn.
+Sử dụng kỹ thuật bước chân DOUBLE-TIME ở nhịp 155 BPM, tăng tốc đột ngột, khựng lại bất ngờ, bùng nổ trở lại tức thì và nhấn nhá thật mạnh vào từng nhịp beat.
+
+QUY TẮC VŨ ĐIỆU:
+nhưng không được đồng bộ hoàn hảo mọi lúc.
+Họ di chuyển theo cùng một nhịp điệu tổng thể, nhưng lệch pha nhẹ về thời gian, luân phiên điểm nhấn và thực hiện các chuyển động cơ thể khác nhau.
+
+KẾT THÚC (0,2 giây cuối):
+Cận cảnh cô ấy nghiêng đầu, tạo hình trái tim bằng hai tay và chu môi hôn về phía ống kính.
+
+KHÓA NGOẠI HÌNH — ƯU TIÊN TUYỆT ĐỐI:
+Giữ nguyên gương mặt gốc, tông da tự nhiên, kiểu tóc và lớp trang điểm của cả hai vũ công chính xác như khung hình đầu tiên. Tuyệt đối không làm thay đổi ngoại hình của bất kỳ vũ công nào trong suốt video.
+
+MÁY QUAY:
+Chỉ dùng góc máy chính diện cố định. Không di chuyển máy, không lia ngang (pan), không chúc/ngước (tilt), không tiến/lùi (dolly).
+Chỉ sử dụng zoom quang học nhanh khớp nhịp beat, zoom out giật cục và những cú punch-in cận cảnh chớp nhoáng để tạo tốc độ lẫn sức nặng thị giác, trong khi vẫn giữ nguyên vị trí máy quay. Luôn duy trì cùng một phông nền xuyên suốt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116232733513179136/img/XsNQfiypmO6re3Ds.jpg" width="600" alt="Mẹo tạo video nhảy Halloween">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13605)**
+
+**Author:** [SPLASH GIRLS@AI Image](https://x.com/splash_GL) | **Source:** [Link](https://x.com/splash_GL/status/2116289052164976917) | **Published:** Oct 30, 2026
+
+---
 ### Prompt Vẽ Tranh Siêu Thực Điện Ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2409,226 +2674,6 @@ Tranh dát vàng lá phong cách Gustav Klimt, nữ bá tước ma cà rồng da
 **Author:** [Lid Cracker](https://x.com/LidCracker) | **Source:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **Published:** Oct 28, 2026
 
 ---
-### Câu lệnh chân dung du hành thời gian với Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Câu lệnh cho Grok Imagine sử dụng ảnh của người dùng để tạo video đưa họ về thời kỳ lịch sử mà họ cảm thấy là chính mình nhất. AI tự động chọn thập kỷ, kiểu tóc, trang phục, phong cách trang điểm và diện mạo trong khi vẫn đảm bảo chủ thể dễ nhận biết.
-
-#### 📝 Prompt
-
-```
-Dựa trên tất cả những gì bạn biết về tôi, hãy đưa tôi trở về thời kỳ mà tôi cảm thấy được là chính mình nhất. Hãy dùng ảnh của tôi và tự chọn thập kỷ, kiểu tóc, trang phục, lối trang điểm cũng như diện mạo phù hợp. Nhớ giữ nguyên các đường nét để tôi vẫn có thể nhận ra chính mình, và đừng hỏi tôi bất cứ câu nào nhé.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115479225167704064/img/RC8RGX6BXUppQhom.jpg" width="600" alt="Câu lệnh chân dung du hành thời gian với Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13156)**
-
-**Author:** [Charles Liebert](https://x.com/Charles_Liebert) | **Source:** [Link](https://x.com/Charles_Liebert/status/2115479241202499709) | **Published:** Oct 28, 2026
-
----
-### Grok Imagine Video Prompt: Chuỗi Biến Hình của Lantern
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả chi tiết để tạo video điện ảnh về nhân vật Lantern biến đổi thành trang phục chiến đấu bằng Grok Imagine. Bao gồm kịch bản sự kiện, phong cách hình ảnh (cô gái phép thuật/siêu anh hùng), chuyển động camera và thiết kế âm thanh.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo sinh]
-Tạo một chuỗi biến hình đỉnh cao, nơi Lantern hóa thân vào bộ chiến phục của mình. Nhân vật trung tâm là Lantern, và sự kiện chính là màn biến hình tăng cường sức mạnh, kết thúc khi cô đã trang bị đầy đủ và sẵn sàng bước vào trận chiến.
-
-[Kịch bản sự kiện]
-Khởi đầu: Lantern đứng ở tư thế trung tính hoặc thoải mái, cơ thể bắt đầu phát ra ánh sáng dịu nhẹ từ bên trong khi các hạt năng lượng xoay quanh cô.
-Sự kiện chính: Những luồng năng lượng bùng lên dữ dội hơn khi trang phục của cô thay đổi và tái cấu trúc — vải vóc định hình lại, các lớp giáp hiện ra, những họa tiết lồng đèn phát sáng cùng các điểm nhấn bằng năng lượng ánh sáng lần lượt khớp vào vị trí trên khắp cơ thể. Những vệt sáng ma thuật và các đợt nổ hạt bao quanh cô trong lúc cô nhấc bổng người lên, hai tay dang rộng, để bộ chiến phục hoàn thiện qua từng lớp một cách đầy ấn tượng.
-Kết thúc: Lantern đứng đó với diện mạo đã biến hình hoàn toàn trong bộ chiến phục, tràn đầy sức mạnh và sẵn sàng nghênh chiến, những hiệu ứng năng lượng còn sót lại dần tan biến khi cô hạ xuống tư thế chiến đấu vững chãi.
-
-[Phong cách thị giác]
-Thẩm mỹ biến hình kiểu magical girl / siêu anh hùng tràn đầy năng lượng, với hiệu ứng ánh sáng rực rỡ, các hạt phát quang, vệt năng lượng và cách đánh sáng kịch tính nhằm tôn lên sức mạnh của quá trình chuyển đổi. Giữ cho toàn bộ chuỗi cảnh thật mượt mà, hoành tráng và có cường độ vượt trội.
-
-[Góc máy]
-Góc máy điện ảnh linh hoạt, bắt đầu bằng cỡ cảnh trung (medium shot), sau đó xoay vòng và tiến sát vào nhân vật ngay tại thời điểm năng lượng đạt đỉnh, ghi lại trọn vẹn quá trình biến hình toàn thân bằng những chuyển động quét rộng và góc máy kịch tính làm nổi bật sự hình thành của bộ chiến phục.
-
-[Âm thanh]
-Tiếng vo ve và tiếng rít của năng lượng dâng trào mạnh mẽ, đẩy lên đến cao trào, hòa quyện cùng hiệu ứng âm thanh lấp lánh của các hạt ánh sáng và một tiếng va đập đanh gọn vang lên khi bộ chiến phục khóa chặt vào vị trí. Không có lời thoại.
-
-[Duy trì tính nhất quán]
-Giữ Lantern là chủ thể duy nhất xuyên suốt toàn bộ cảnh quay. Danh tính của cô không thay đổi trước và sau khi biến hình; chỉ có trang phục và cách thể hiện sức mạnh là chuyển hóa thành bộ chiến phục. Đảm bảo mạch thị giác rõ ràng từ trạng thái ban đầu cho đến hình thái chiến đấu hoàn chỉnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115394762090098689/img/hVHuhI7chEhUhUW-.jpg" width="600" alt="Grok Imagine Video Prompt: Chuỗi Biến Hình của Lantern">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13150)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115395330632282324) | **Published:** Oct 28, 2026
-
----
-### Cảnh Không Gian Vũ Trụ Với Kết Cấu Sơn Gouache
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết để tạo cảnh không gian vũ trụ sử dụng các màu sắc cụ thể (xanh ngọc, tím lilac, xanh dương) và kết cấu sơn gouache dày, nổi bật với các tinh vân xoáy và những vì sao.
-
-#### 📝 Prompt
-
-```
-Tạo một khung cảnh vũ trụ không gian tuyệt đẹp chỉ sử dụng chính xác các màu sắc từ ảnh tham khảo: xanh ngọc lam rực rỡ, tím hoa cà dịu nhẹ và xanh dương thẳm, cùng chất liệu sơn gouache dày đặc. Một vũ trụ hội họa đầy ma thuật: những tinh vân cuộn xoáy, các vì sao tỏa sáng lấp lánh, những thiên hà xa xôi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115388329575288832/img/D6ISarPDgJvLUjiT.jpg" width="600" alt="Cảnh Không Gian Vũ Trụ Với Kết Cấu Sơn Gouache">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13144)**
-
-**Author:** [Magdalena Kanas](https://x.com/KanasMagdalena) | **Source:** [Link](https://x.com/KanasMagdalena/status/2115389269413970029) | **Published:** Oct 28, 2026
-
----
-### Prompt Tạo Ảnh Chân Dung Nữ Hoàng Hàn Quốc
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt tạo ảnh chân dung nữ hoàng Hàn Quốc trong trang phục truyền thống thời Joseon, với bối cảnh cung điện và hoa mẫu đơn. Người dùng lưu ý rằng Grok Imagine đã thêm các chi tiết như trâm cài tóc khi tạo video.
-
-#### 📝 Prompt
-
-```
-Một vị nữ vương trẻ đứng trước khung cảnh cung đình Hàn Quốc cổ kính, bao quanh là những đóa mẫu đơn màu cam đang nở rộ. Nàng khoác trên mình bộ triều phục hoàng gia gồm áo jeogori đỏ thêu chỉ vàng lộng lẫy và váy chima trắng.
-Mái tóc búi gọn của nàng cài chiếc trâm binyeo đính san hô hồng, trên trán điểm xuyết những chiếc jochi tròn nhỏ bằng bạc nạm hồng ngọc, sapphire và ngọc trai.
-Tỷ lệ khung hình 9:16. Phong cách phim truyền hình Hàn Quốc (K-drama).
-```
-
-<img src="https://cms-assets.youmind.com/media/1793259730850_wtz5yy_HVszvFsaQAARtCp.jpg" width="600" alt="Prompt Tạo Ảnh Chân Dung Nữ Hoàng Hàn Quốc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13157)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2115341470593143095) | **Published:** Oct 28, 2026
-
----
-### Video biến đổi từ thanh kim loại thành bộ đồ giáp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết để tạo video biến đổi phong cách sci-fi, trong đó một thanh kim loại do phụ nữ cầm sẽ chuyển hóa thành bộ đồ giáp toàn thân.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo sinh]
-Tạo một chuỗi biến hình chậm rãi, rõ nét và ở đẳng cấp cao hơn, trong đó thanh kim loại cô đang cầm trên tay dần chuyển hóa thành bộ giáp kim loại của mình.
-
-[Kịch bản sự kiện]
-Ở cảnh mở đầu, cô đứng vững vàng với một tay nắm chặt thanh kim loại; vật thể lúc này hoàn toàn rắn chắc và dễ dàng nhận diện là một thanh kim loại. Quá trình biến hình bắt đầu ngay tại điểm tiếp xúc với lòng bàn tay: bề mặt thanh kim loại mềm ra và lan tỏa như kim loại lỏng, bao bọc lấy các ngón tay rồi đến cả bàn tay trước tiên. Chất liệu kim loại từ từ bò lên cánh tay một cách liên tục, sau đó lan qua vai và thân người, định hình rõ từng mảng giáp ngực, giáp eo và phần bảo vệ hông với những đường viền hình học sắc sảo cùng bề mặt chrome phản chiếu lấp lánh. Dòng kim loại tiếp tục chảy xuống hai chân, tạo thành lớp giáp đùi và ống chân, cuối cùng khép kín quanh đôi bốt và hoàn thiện toàn bộ bộ giáp. Mỗi giai đoạn biến đổi đều diễn ra có chủ đích và cực kỳ chi tiết, giúp quá trình chuyển hóa từ thanh kim loại cầm tay sang bộ giáp toàn thân luôn rõ ràng, không thể nhầm lẫn. Ở cảnh kết, cô đứng đó với toàn thân được bao bọc trọn vẹn trong bộ giáp kim loại đã hoàn thiện; thanh kim loại ban đầu không còn tồn tại như một vật thể riêng biệt nữa, bởi toàn bộ khối lượng của nó giờ đây đã hòa làm một với bộ giáp.
-
-[Duy trì tính nhất quán]
-Giữ nguyên danh tính, tỷ lệ cơ thể, tư thế của nhân vật cũng như quá trình biến đổi liên tục, chậm rãi từ kim loại lỏng sang kim loại rắn xuyên suốt toàn bộ cảnh quay. Lớp hoàn thiện kim loại cuối cùng, độ bóng phản chiếu và sự liền mạch của bộ giáp phải luôn được thể hiện rõ nét và đồng nhất.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115306755467116544/img/YkdNiyOVJAW9E5JR.jpg" width="600" alt="Video biến đổi từ thanh kim loại thành bộ đồ giáp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13146)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115306979820491100) | **Published:** Oct 28, 2026
-
----
-### Prompt Video Cuộc Sống Hàng Ngày Tại Quán Cà Phê Cho Grok Imagine
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt video có cấu trúc để tạo cảnh quán cà phê dài 12 giây với nhân viên pha chế. Prompt sử dụng hai hình ảnh tham chiếu (@Image1, @Image2) để duy trì sự nhất quán và xác định cụ thể tư thế cũng như góc máy quay cho từng cảnh cắt.
-
-#### 📝 Prompt
-
-```
-Thông số cơ bản cho toàn bộ video:
-Giữ nguyên sự nhất quán của cùng một nhân vật. Một nữ nhân viên trẻ mặc áo polo màu xanh navy, đội mũ lưỡi trai che nắng và đeo tạp dề màu nâu. Quầy pha chế bằng gỗ mang lại cảm giác yên bình. Ánh sáng tự nhiên ấm áp.
-[Cảnh 1: 0s-6s] Dựa trên @Image1
-* Tư thế 1 (0s-3s): Trạng thái của @Image1. Nữ nhân viên đang cẩn thận rót cà phê từ bình drip vào chiếc cốc màu trắng.
-* Tư thế 2 (3s-6s): Sau khi rót xong, cô đặt bình về chỗ cũ và mỉm cười dịu dàng nhìn ly cà phê vừa hoàn thành.
-[Cảnh 2: 6s-12s] Dựa trên @Image2 (Thay đổi góc máy)
-* Tư thế 1 (6s-9s): Góc cận cảnh của @Image2. Cô châm thêm cà phê với vẻ mặt nghiêm túc nhưng vẫn đầy dịu dàng, mắt dõi theo làn khói đang bay lên.
-* Tư thế 2 (9s-12s): Cô bất ngờ ngước nhìn thẳng vào camera (góc nhìn của khách hàng), mỉm cười nhẹ nhàng nói "Xin lỗi vì đã để bạn chờ lâu," rồi khẽ cúi đầu.
-Ý tưởng BGM
-"Nhạc acoustic bossa nova ấm áp và nhẹ nhàng (tiếng guitar chậm rãi hòa cùng âm thanh không gian quán cà phê)"
-```
-
-<img src="https://cms-assets.youmind.com/media/1793259728803_ncupts_HVrRlRmbYAAzlOW.jpg" width="600" alt="Prompt Video Cuộc Sống Hàng Ngày Tại Quán Cà Phê Cho Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13155)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2115284925310255415) | **Published:** Oct 28, 2026
-
----
-### Video điện ảnh về hành trình của SpaceX Starship từ Trái Đất đến Sao Hỏa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả chi tiết cho việc tạo video bằng Grok Imagine, tái hiện cảnh tàu SpaceX Starship di chuyển từ Trái Đất đến Sao Hỏa với các giai đoạn phóng, quá cảnh quỹ đạo và hạ cánh.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo video]
-Tạo một video điện ảnh liền mạch về tàu vũ trụ SpaceX Starship chở người từ Trái Đất đến Sao Hỏa.
-
-[Kịch bản sự kiện]
-Mở đầu, tàu Starship đứng thẳng trên bệ phóng ven biển dưới bầu trời Trái Đất xanh trong vắt, qua những ô cửa sổ lớn ở khoang hành khách phía trên có thể thấy rõ phi hành đoàn. Động cơ phụt lên ngọn lửa màu cam rực rỡ cùng những đám hơi nước trắng đặc khi tàu rời bệ phóng, tăng tốc lao vút qua bầu khí quyển. Góc máy chuyển sang khung cảnh quỹ đạo, cho thấy Trái Đất lùi dần lại phía dưới trong lúc Starship lướt đi giữa không gian sâu thẳm. Sự kiện chính: hành trình liên hành tinh dài đằng đẵng, con tàu băng qua khoảng không vô tận hướng về đĩa sáng đỏ au của Sao Hỏa đang lớn dần lên. Ở đoạn kết, Starship hạ cánh bằng động cơ có kiểm soát xuống bề mặt bụi bặm của Sao Hỏa dưới bầu trời mỏng manh nhuốm sắc hồng, động cơ giảm công suất khi các chân đáp chạm đất và con tàu dừng lại vững chãi ở tư thế thẳng đứng.
-
-[Duy trì tính nhất quán]
-Giữ nguyên vẻ ngoài bằng thép không gỉ, tỷ lệ kích thước, cách bố trí cửa sổ và cấu hình động cơ đẩy của Starship xuyên suốt toàn bộ video. Đảm bảo sự khác biệt rõ ràng về mặt thị giác giữa môi trường khởi hành màu xanh lam của Trái Đất và môi trường đặt chân màu đỏ của Sao Hỏa. Duy trì sự hiện diện của hành khách bên trong tàu từ lúc phóng cho đến khi hạ cánh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115039304548552704/img/1CW0EkBI89QJx2Z-.jpg" width="600" alt="Video điện ảnh về hành trình của SpaceX Starship từ Trái Đất đến Sao Hỏa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13151)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115039637609828487) | **Published:** Oct 27, 2026
-
----
-### Cybercab Storm Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết để tạo video khoa học viễn tưởng về taxi bay tự hành swarm qua một siêu thành phố rực rỡ ánh đèn neon vào ban đêm.
-
-#### 📝 Prompt
-
-```
-Mục đích: Tạo một video về cơn bão cybercab: một bầy xe taxi bay tự hành kiểu dáng khí động học, đông đúc và di chuyển với tốc độ cao, lao vút qua một thành phố đêm mang phong cách tương lai, tạo nên một cơn bão phương tiện trên không đầy choáng ngợp.
-
-Mô tả:
-Ở phần mở đầu, đường chân trời của một siêu đô thị rực sáng ánh đèn neon vào ban đêm trải dài bên dưới những đám mây bão đen kịt, với những chiếc cybercab rải rác bắt đầu cất cánh từ các mái nhà và bãi đáp trên cao. Sự kiện chính: hàng trăm chiếc cybercab phát sáng tăng tốc, nghiêng cánh và luồn lách theo những đội hình vừa đồng bộ vừa hỗn loạn, động cơ đẩy của chúng vạch ra những vệt sáng xanh trắng khi lấp kín bầu trời như một cơn giông bão sống động bằng kim loại và năng lượng, né tránh giữa những tòa nhà chọc trời cao vút. Ở đoạn kết, mật độ bầy xe đạt đỉnh, tạo thành một dòng sông ánh sáng liên tục trên không trung, bao trùm toàn bộ khung hình phía trên những con phố rực sáng.
-
-Duy trì tính nhất quán
-Giữ nguyên thiết kế khí động học giống hệt nhau của các cybercab và đảm bảo số lượng đủ lớn để tạo thành một bầy xe khổng lồ, duy trì ánh đèn neon đặc trưng của màn đêm, bầu trời bão tối sầm cùng chuyển động tốc độ cao liên tục, không có bất kỳ vụ va chạm riêng lẻ nào hay khoảng trống nào trên bầu trời.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115032410752688128/img/RhB6xI105z_vmLAC.jpg" width="600" alt="Cybercab Storm Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13153)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115032907261816941) | **Published:** Oct 27, 2026
-
----
-### Quay Liên Tục Hôn Mũi Thỏ Khói
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết cho video quay liên tục với cảnh hôn mũi thỏ, khói, sóng và các hướng dẫn cụ thể về ánh sáng/chỉnh màu.
-
-#### 📝 Prompt
-
-```
-Một cú máy liền mạch, không cắt, camera cố định. 0-2s: giữ khung hình toàn cảnh khi cô ấy duy trì nụ hôn trên mũi chú thỏ, nhịp thở phập phồng, làn khói lững lờ trôi phía sau. 2-4s: một con sóng tung bọt trắng xóa vỗ qua những tảng đá bên phải, điểm lấy nét chuyển từ hai nhân vật sang vùng sóng cuộn trào, người mẫu và chú thỏ nhòa đi thành những mảng màu kem dịu và họa tiết rằn ri. 4-5s: tiêu điểm trượt trở lại về phía cô khi hàng mi khẽ chớp, đôi mắt đen bóng như thủy tinh của chú thỏ bắt trọn một đốm sáng ngược. Diện mạo: độ sâu trường ảnh mỏng, ánh khói xanh bạc hà và hồng phát sáng, mặt biển xám lạnh như đá phiến, hạt nhiễu mịn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115002726148874240/img/QMaFd0XsBmKpyVGK.jpg" width="600" alt="Quay Liên Tục Hôn Mũi Thỏ Khói">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13415)**
-
-**Author:** [Marco](https://x.com/ai_artworkgen) | **Source:** [Link](https://x.com/ai_artworkgen/status/2115002899579245038) | **Published:** Oct 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2690,6 +2735,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-06T06:14:38.866Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-06T16:03:48.629Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3343** |
+| 📝 Total Prompts | **3352** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-06** |
 
@@ -189,6 +189,176 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Truck Transforming into Giant Robot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex video generation prompt using reference images to create a continuous shot of a heavy-duty truck racing and transforming into an Optimus-style warrior.
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+Generate a continuous video of a futuristic heavy-duty truck racing along a mountain highway, then transforming into a towering Optimus-style giant warrior. The core subject is the red-and-blue truck, and the principal event is its high-speed drive followed by a detailed mechanical transformation into the bipedal robot form.
+
+[Reference Asset Roles]
+@image1 is used for the truck’s overall appearance, red cab with blue flame-like markings, blue shipping container with red graffiti, chrome exhaust stacks, headlights, wheels, and the golden-hour mountain road scene under dramatic cloudy skies; do not invent extra people or vehicles.
+@image2 is used for the final giant warrior’s design: red-and-blue armored plating, chrome mechanical details, blue glowing eyes, chest windows, wheel-like feet, and overall Optimus-inspired silhouette; the mountain sunset landscape in @image2 may reinforce lighting and environment continuity.
+
+[Subjects and Relationships]
+The single truck from @image1 is the only vehicle and is the exact same entity that transforms into the single giant warrior from @image2. No additional trucks, robots, or characters appear. The road, grassy hills, distant snow-capped mountains, and dramatic cloudy sky remain consistent throughout.
+
+[Event Script]
+At the start: the red-cab truck with blue container races toward the camera along the asphalt highway, headlights on, engine roaring, wheels spinning, and wind rushing past under the golden sunset light with heavy clouds.
+Principal event: the truck continues at high speed for a short beat, then begins a precise, realistic transformation. Every wheel, panel, engine block, exhaust stack, trailer container, and mechanicals joint unfolds, rotates, and reconfigures with intricate, weighty motion. The cab rises and becomes the torso and head, the trailer sections form the limbs and armor plates, wheels become feet, and chrome components lock into place until the towering Optimus-style warrior stands fully upright on the same road.
+At the end: the giant warrior stands tall and stable on the highway facing the viewer, blue eyes glowing, red-and-blue armor complete, with the mountain landscape and sunset light still surrounding it; the original truck form no longer exists as a vehicle.
+
+[Maintain Consistency]
+Keep the exact red-and-blue color scheme, flame/graffiti markings, chrome details, and mechanical aesthetics continuous from truck to robot. Preserve the single-entity identity so the warrior is unmistakably the transformed truck. Maintain the mountain highway environment, golden-hour lighting, dramatic cloudy sky, and realistic scale of the transformation. All mechanical movements remain precise, heavy, and physically believable with no abrupt jumps or missing parts.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118521388332150784/img/F14J6-9cAMYnqKLX.jpg" width="600" alt="Truck Transforming into Giant Robot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13600)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118521533421457741) | **Published:** Nov 6, 2026
+
+---
+### Optimus Robot Descent Cinematic Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt describing a massive Optimus-like robot descending from clouds into a futuristic city with cinematic camera movements and sound design.
+
+#### 📝 Prompt
+
+```
+A massive Optimus robot descends from the clouds into a futuristic city, landing between towering skyscrapers as powerful shockwaves ripple outward across the streets. The camera circles his enormous metallic body while his blue eyes illuminate the darkness.
+
+The visuals present a high-tech, cinematic sci-fi atmosphere with dramatic lighting cutting through night-time haze and reflective metallic surfaces.
+
+The camera uses a dynamic circling orbit around the giant robot, starting wide to capture the descent and landing impact, then sweeping closer along the body toward the glowing blue eyes.
+
+The sound includes deep booming impacts from the landing, spreading shockwave rumble, metallic resonance, and low ambient city hum under the drama.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118386448382459904/img/YBy0vRRPGCaswKYq.jpg" width="600" alt="Optimus Robot Descent Cinematic Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13601)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118387174093558252) | **Published:** Nov 5, 2026
+
+---
+### Grok Imagine Video 1.5 Lite Lip-Sync Test Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A test prompt for Grok Imagine Video 1.5 Lite on Higgsfield to generate a short clip of a woman speaking specific dialogue with accurate lip synchronization in a rainy setting.
+
+#### 📝 Prompt
+
+```
+A woman in a yellow raincoat at a rainy bus stop turns to the camera and says: 'Sorry I'm late, the 47 bus broke down.'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115096039568883712/img/3H5aVATrpuG9vAiw.jpg" width="600" alt="Grok Imagine Video 1.5 Lite Lip-Sync Test Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13603)**
+
+**Author:** [Which AI Won](https://x.com/whichaiwon) | **Source:** [Link](https://x.com/whichaiwon/status/2118342571592446154) | **Published:** Nov 5, 2026
+
+---
+### Fallen Angel Cinematic Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cinematic video of a fallen angel in an ancient city crater using Grok Imagine. The scene features rising smoke, falling rain, closing light beams, and burning feathers.
+
+#### 📝 Prompt
+
+```
+female angel with white wings burned and darkened at the tips, kneeling in a smoking crater in the middle of an ancient city, looking up where a beam of light closes in the sky, fine rain, high camera angle, cinematic fantasy, vertical 4:5
+
+the angel slowly raises her face, rain falls, smoke rises from the crater, the beam of light closes, burnt feathers fly in the wind, the camera slowly descends until it reaches her
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118169027029663744/img/asNAYbWxjmoI9cAu.jpg" width="600" alt="Fallen Angel Cinematic Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13607)**
+
+**Author:** [rxufnx](https://x.com/rxufnx) | **Source:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **Published:** Nov 5, 2026
+
+---
+### Dark Electro Hip Hop Dance Video
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed video generation prompt for Grok Imagine featuring a hip-hop dance sequence. It uses three reference images to maintain character consistency (black up-hair, velvet gothic dress) and specifies four scenes with precise choreography like body waves and isolations over a 15-second duration.
+
+#### 📝 Prompt
+
+```
+🎥 Video Prompt (Grok Imagine)
+Global Conditions & BGM
+* Style/Consistency: Fully maintain facial features, hairstyle, and outfit consistency of the person in @Image1, @Image2, @Image3 (messy black up-hair, navy and wine-red velvet gothic dress).
+* Music/Atmosphere: Slow & Dark Electro Hip-Hop with heavy bass. POP-feeling rhythmic and stylish BGM. Express cool strength within stillness.
+Scene 1 (0-4s): Medium Shot
+* Base Image: @Image3
+* Action (4s / 2 steps):
+  * [0-2s]: Body wave smoothly rippling from chest to neck in sync with beat.
+  * [2-4s]: Sharp isolation of neck left/right, fixing gaze coolly straight ahead.
+Scene 2 (4-8s): Full Shot (Whole Body)
+* Base Image: @Image1
+* Action (4s / 2 steps):
+  * [4-6s]: Riding heavy beat, large slow wave undulating hips and upper body.
+  * [6-8s]: Sharp hand isolation crossing hands quickly and smoothly. Dress hem sways elegantly.
+Scene 3 (8-12s): Medium Shot
+* Base Image: @Image3
+* Action (4s / 2 steps):
+  * [8-10s]: Back wave movement linking shoulders and chest smoothly.
+  * [10-12s]: Sharp posing stopping fingertips and neck simultaneously in sync with song climax.
+Scene 4 (12-15s): Close-up (Last Scene)
+* Base Image: @Image2
+* Action (3s):
+  * [12-14s]: Close-up slowly zooming further into face. Beating rhythm with subtle isolation of head and neck.
+  * [14-15s (Last)]: Final pose facing camera, winking coolly and cutely with right eye, then freezing.
+```
+
+<img src="https://cms-assets.youmind.com/media/1793951423787_2g1t88_HWVUat6a0AAOV7P.jpg" width="600" alt="Dark Electro Hip Hop Dance Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13608)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118285947921989988) | **Published:** Nov 5, 2026
+
+---
+### Optimus Prime Cinematic Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a high-end cinematic Sci-Fi video of Optimus Prime undergoing complex mechanical transformations.
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+Generate a high-end cinematic Sci-Fi video of next-level Transformations featuring Optimus, portraying the robot's advanced conversion sequences in a realistic, photorealistic style.
+
+[Event Script]
+At the start, Optimus stands fully formed as a humanoid robot in a futuristic industrial hangar under dramatic volumetric lighting. The principal event unfolds as a multi-stage next-level transformation: external armor plates and limbs shift with precise mechanical articulation, internal systems glow and reconfigure, components fold and reassemble into alternate combat or vehicle configurations with ultra-detailed realistic physics of metal, hydraulics, and energy flows. Intermediate hybrid states reveal complex interlocking mechanisms before completing into a fully transformed advanced mode. At the end, Optimus locks into the final transformed configuration, stable and powerful amid residual energy effects and settling sparks.
+
+[Maintain Consistency]
+Keep Optimus as the sole central subject with consistent next-level Sci-Fi design language, photorealistic metal textures, lighting continuity, and transformation causality throughout. The visuals present photorealistic cinematic Sci-Fi realism with high-fidelity materials, subsurface lighting on energy elements, and atmospheric depth. The camera uses dynamic cinematic tracking: beginning in a heroic medium shot, circling with smooth dolly and crane movements to follow key mechanical articulations, then pushing into detailed close-ups of transforming components before pulling back to a wide establishing view of the completed form. The sound includes deep metallic grinding and hydraulic servo whirs, layered with electronic energy surges, resonant bass impacts, and a rising cinematic orchestral Sci-Fi score that builds intensity through the conversion.
+
+Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118282841377345537/img/9CGR1l58Ow2LJFkx.jpg" width="600" alt="Optimus Prime Cinematic Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13602)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **Published:** Nov 5, 2026
+
+---
 ### Grok Imagine Prompt: Prince transforms maid into princess
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,11 +378,11 @@ a young prince extending his hand out to the maid, and when then maid takes the 
 **Author:** [Awesome God New Life Ministries](https://x.com/AwesomeGodNewL) | **Source:** [Link](https://x.com/AwesomeGodNewL/status/2118227641027416471) | **Published:** Nov 5, 2026
 
 ---
-### Sci-Fi Combat Armor Activation Sequence
+### Sci-Fi Combat Armor Transformation Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for Grok Imagine generating a realistic video of modular combat armor transforming from an inactive state to battle-ready configuration with hydraulic precision and energy ignition.
+> A detailed cinematic prompt for generating a sci-fi video showing modular combat armor transforming from inactive to battle-ready.
 
 #### 📝 Prompt
 
@@ -235,7 +405,7 @@ The sound includes deep hydraulic hisses, metallic plate clanks and servo whirs,
 Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118214379577466880/img/BwjxKE4VgaiN6GAp.jpg" width="600" alt="Sci-Fi Combat Armor Activation Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118214379577466880/img/BwjxKE4VgaiN6GAp.jpg" width="600" alt="Sci-Fi Combat Armor Transformation Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13550)**
 
@@ -271,11 +441,43 @@ Cinematic dynamic camera work, natural and smooth human movements...
 **Author:** [KyoukahanabiAITO](https://x.com/Kyoukahanabi135) | **Source:** [Link](https://x.com/Kyoukahanabi135/status/2118206409175453837) | **Published:** Nov 5, 2026
 
 ---
-### Woman Transforms Stick Into Police Car To Catch Thief
+### Grok Imagine Video Prompt: Dress Transformation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A complex video generation prompt for Grok Imagine featuring a woman in a tulle dress transitioning between poses in a ruined setting, referencing two input images.
+
+#### 📝 Prompt
+
+```
+Video Prompt (Grok Imagine)
+Global Settings & Consistency Maintenance
+ * Character: Woman from @Image1 and @Image2 (same person). Completely maintain black tulle frill dress, ribbon choker at neck, black hair up-style, natural makeup.
+ * Background/Atmosphere: Chic ruin-like space. Light and shadow hitting walls, mysterious and ennui atmosphere.
+ * BGM: Melancholic and quiet chill lo-fi hip-hop, or ambient piano piece.
+Cut Composition (Total 8 seconds / Switch every 4 seconds)
+[CUT 1] (0:00 - 0:04)
+ * Reference Image: @Image1
+ * Pose 1 (0:00 - 0:02): Right hand placed behind head, looking quietly at the camera with an ennui expression.
+ * Pose 2 (0:02 - 0:04): Gaze drops slightly, fingertips gently touch the ribbon on the neck choker.
+[CUT 2] (0:04 - 0:08)
+ * Reference Image: @Image2
+ * Pose 1 (0:04 - 0:06): Left hand wrapped behind head, tilting neck slightly and smiling at the camera.
+ * Pose 2 (0:06 - 0:08): Pull face back slightly, gently touching hair while shyly averting gaze.
+```
+
+<img src="https://cms-assets.youmind.com/media/1793951411817_swqq6d_HWQN4x3a0AAINdr.jpg" width="600" alt="Grok Imagine Video Prompt: Dress Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13604)**
+
+**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
+
+---
+### Stick to Police Car Transformation Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video generation prompt for Grok Imagine where a woman drops a stick that transforms into a police car, which she then drives to catch a thief on the next street.
+> Generates a continuous transformation video where a stick becomes a police car which is then driven to catch a thief.
 
 #### 📝 Prompt
 
@@ -296,7 +498,7 @@ Keep the woman’s identity, clothing, and appearance consistent throughout. Mai
 Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="Woman Transforms Stick Into Police Car To Catch Thief">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="Stick to Police Car Transformation Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13549)**
 
@@ -322,11 +524,11 @@ A close-up of an old cowboy, staring at the sky at night. the camera pulls back 
 **Author:** [Carlton Hinds](https://x.com/methuselaschild) | **Source:** [Link](https://x.com/methuselaschild/status/2118055239005913545) | **Published:** Nov 4, 2026
 
 ---
-### Laser Destruction and Crystal Suit Transformation
+### Grok Imagine Video Transformation Sequence Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for Grok Imagine where a female character fires lasers destroying surroundings while her dress transforms into a white and black crystal suit.
+> A detailed video generation prompt for Grok Imagine creating a sci-fi transformation sequence where a character destroys surroundings with laser energy while morphing into a crystal suit.
 
 #### 📝 Prompt
 
@@ -341,11 +543,9 @@ At the end: She stands empowered in the completed white and black crystal suit a
 
 [Maintain Consistency]
 Keep her core identity, facial features, body proportions, and the transformation's destructive outcome stable throughout. The crystal suit remains white and black only. No other characters appear.
-
-Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg" width="600" alt="Laser Destruction and Crystal Suit Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118025342107688960/img/ADns-X_iBOBmN-bg.jpg" width="600" alt="Grok Imagine Video Transformation Sequence Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13551)**
 
@@ -390,11 +590,11 @@ Generate me a new video using this prompt: "A car driving" with the following se
 **Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117961380464889953) | **Published:** Nov 4, 2026
 
 ---
-### Eye Lasers Create Crystal Optimus Prime
+### Laser to Crystal Optimus
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Grok Imagine video prompt describing a woman firing eye lasers that cause the ground to crystallize into a massive crystal structure resembling Optimus Prime.
+> A video prompt for Grok Imagine where eye lasers trigger a transformation into a crystal-structure Optimus Prime.
 
 #### 📝 Prompt
 
@@ -412,7 +612,7 @@ Disclaimer:
 This video is an AI-generated fictional sci-fi concept created for entertainment purposes only. The futuristic transformations  and special effects are imaginary and do not represent real technology or events.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="Eye Lasers Create Crystal Optimus Prime">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="Laser to Crystal Optimus">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13516)**
 
@@ -457,11 +657,11 @@ Add one tiny pale green dragon and one shiny light blue dragon flying slowly aro
 **Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2117844350847840763) | **Published:** Nov 4, 2026
 
 ---
-### Cyberpunk Bag Transforms Woman Into Combat Armor
+### Grok Bag Armor Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic prompt for Grok Imagine where a woman's bag activates nanites and liquid metal to transform her into a full metallic combat armor suit in a neon cyberpunk alley.
+> A prompt for generating a cyberpunk video where a woman's high-tech bag initiates a nanite-based transformation into a full metallic combat armor suit.
 
 #### 📝 Prompt
 
@@ -486,10 +686,10 @@ Begins in a dramatic medium-wide shot establishing the alley and the woman. Smoo
 Deep sub-bass rumble as the bag activates, layered with sharp metallic morphing and nanite swarm whooshes, crackling energy discharges, and heavy hydraulic plate-locking impacts. Ambient cyberpunk rain, distant traffic, and holographic hums. Ends with a powerful resonant armor-power-up tone and a single sustained cinematic swell.
 
 [Maintain Consistency]
-Keep the single woman as the only subject. The bag is the exclusive source of the transformation and fully integrates into the final armor. Armor is complete, metallic, full-body combat style with no partial coverage.
+Keep the single woman as the only subject. The bag is the exclusive source of the transformation and fully integrates into the final armor. Armor is complete, metallic, full-body combat style with no partial coverage. N
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117832745493897216/img/Xvh3ToZ7O-Hbtjpj.jpg" width="600" alt="Cyberpunk Bag Transforms Woman Into Combat Armor">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117832745493897216/img/Xvh3ToZ7O-Hbtjpj.jpg" width="600" alt="Grok Bag Armor Transformation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13520)**
 
@@ -609,11 +809,11 @@ Keep Elon Musk’s identity, facial features, hairstyle, and body proportions st
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117671226097483934) | **Published:** Nov 3, 2026
 
 ---
-### Train to Robot Transformation
+### Cyberpunk Train Robot Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt for Grok Imagine describing a futuristic high-speed train transforming into a towering bipedal combat robot in a neon-lit cyberpunk city.
+> A highly detailed video generation prompt for Grok Imagine describing a futuristic train transforming into a giant robot in a cyberpunk city.
 
 #### 📝 Prompt
 
@@ -639,18 +839,18 @@ Deep rumbling train engines transition into heavy hydraulic hisses, metallic cla
 Preserve the single continuous transformation of one train into one complete robot. Keep all mechanical parts originating from the original train structure. Maintain consistent sci-fi design language, glowing energy accents, and cyberpunk night environment throughout.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117622516717928448/img/1NIOWBUtsdb37GpP.jpg" width="600" alt="Train to Robot Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117622516717928448/img/1NIOWBUtsdb37GpP.jpg" width="600" alt="Cyberpunk Train Robot Transformation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13515)**
 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2117622653720707335) | **Published:** Nov 3, 2026
 
 ---
-### Grok Imagine Video Prompt: Terafab Transformation
+### Grok Ball Drop Terafab Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a continuous transformation video where a woman drops a ball that explodes into a Terafab structure.
+> A prompt for generating a video where a woman drops a ball that explodes and transforms into a complete Terafab structure.
 
 #### 📝 Prompt
 
@@ -665,11 +865,9 @@ At the end: The original ball is gone, the blast fully fades, and a fully formed
 
 [Maintain Consistency]
 Keep the woman’s identity, appearance, clothing, and count unchanged throughout. Keep exactly one ball that is dropped and destroyed in the blast. Keep the resulting single complete Terafab as the only final object on the ground. Preserve the open ground space and the clear cause-and-effect sequence of drop → impact blast → Terafab formation.
-
-Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117553831756308480/img/Xk-uMqzsAOvGo7bA.jpg" width="600" alt="Grok Imagine Video Prompt: Terafab Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117553831756308480/img/Xk-uMqzsAOvGo7bA.jpg" width="600" alt="Grok Ball Drop Terafab Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13522)**
 
@@ -680,7 +878,7 @@ Disclaimer: This video is an AI-generated fictional sci-fi concept created for e
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for Grok Imagine describing a continuous video transformation sequence where a sheet of paper folds into a SpaceX Falcon 9 rocket and launches.
+> Complex transformation prompt where ordinary paper evolves into a SpaceX Falcon 9 rocket and lifts off, generated by Grok Imagine.
 
 #### 📝 Prompt
 
@@ -723,11 +921,11 @@ Close-up of a person's hands shuffling a deck of playing cards on a wooden table
 **Author:** [能成大事](https://x.com/ncdsoffiecl) | **Source:** [Link](https://x.com/ncdsoffiecl/status/2117472779100442701) | **Published:** Nov 3, 2026
 
 ---
-### Grok Imagine Video Prompt: Armor & Motorbike Transformation
+### Dress to Armor & Rabbit to Bike
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex prompt for a transformation video where a woman's dress becomes combat armor and a rabbit becomes a Tesla motorbike.
+> A complex video prompt for Grok Imagine involving a woman's dress transforming into combat armor and a rabbit turning into a Tesla motorbike.
 
 #### 📝 Prompt
 
@@ -747,7 +945,7 @@ Disclaimer:
 This video is an AI-generated fictional sci-fi concept created for entertainment purposes only. The futuristic transformations, robotic armor, and special effects are imaginary and do not represent real technology or events.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117435480140595200/img/9luLTNJO0iTegk7_.jpg" width="600" alt="Grok Imagine Video Prompt: Armor & Motorbike Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117435480140595200/img/9luLTNJO0iTegk7_.jpg" width="600" alt="Dress to Armor & Rabbit to Bike">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13472)**
 
@@ -986,11 +1184,11 @@ Make the steering wheel a racing one and race down the interstate with a bounce 
 **Author:** [Robert Jurgesen](https://x.com/jurgesen_robert) | **Source:** [Link](https://x.com/jurgesen_robert/status/2117081951379038234) | **Published:** Nov 2, 2026
 
 ---
-### Woman Transforms Bag into Tesla Motorbike
+### Bag to Tesla Motorbike Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a transformation video where a woman's bag morphs into a futuristic Tesla motorbike which she then rides away.
+> A detailed video prompt for Grok Imagine describing a woman dropping her bag which transforms into a heavy Tesla Motorbike she then rides away on.
 
 #### 📝 Prompt
 
@@ -1005,9 +1203,11 @@ At the end: The woman is riding the heavy Tesla Motorbike away, bag completely g
 
 [Maintain Consistency]
 Keep the woman’s identity, appearance, and clothing stable throughout. Maintain a single bag that fully becomes the only heavy Tesla Motorbike. Ensure continuous spatial relationships and clear transformation sequence from bag drop to bike formation to ride-away. No other objects or characters appear.
+Disclaimer: 
+This video is an AI-generated fictional sci-fi concept created for entertainment purposes only. The futuristic transformations, special effects are imaginary and do not represent real technology or events.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117079154629689344/img/j9x56KuU5jABSSZz.jpg" width="600" alt="Woman Transforms Bag into Tesla Motorbike">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117079154629689344/img/j9x56KuU5jABSSZz.jpg" width="600" alt="Bag to Tesla Motorbike Transformation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13412)**
 
@@ -1074,11 +1274,11 @@ Ultra-realistic 9:16 candid airport video, filmed from a considerable distance b
 **Author:** [Realishai](https://x.com/NatureLove216) | **Source:** [Link](https://x.com/NatureLove216/status/2116971011501412751) | **Published:** Nov 1, 2026
 
 ---
-### Grok Imagine Video Prompt: Cyberpunk Warrior Combat
+### Grok Cyberpunk Combat Warrior
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed prompt for a cyberpunk combat scene featuring a warrior undergoing sequential armor and weapon transformations.
+> A detailed prompt for generating a video of a cyberpunk warrior engaging in intense combat with sequential armor and weapon transformations in a neon-lit alley.
 
 #### 📝 Prompt
 
@@ -1106,7 +1306,7 @@ Dynamic combat cinematography: starts in medium shot establishing the full comba
 Immersive full-combat audio: deep hydraulic and met
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116947344814145536/img/1GrU3LE_wII7c0bJ.jpg" width="600" alt="Grok Imagine Video Prompt: Cyberpunk Warrior Combat">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116947344814145536/img/1GrU3LE_wII7c0bJ.jpg" width="600" alt="Grok Cyberpunk Combat Warrior">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13523)**
 
@@ -1189,6 +1389,25 @@ Dracula standing in front of his castle, commanding his Samhain Warriors on Hall
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13334)**
 
 **Author:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **Source:** [Link](https://x.com/TheEerieHollows/status/2116750160755642621) | **Published:** Nov 1, 2026
+
+---
+### KY-22 Aircraft Fantasy Clip
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A reference-mode video prompt for Grok Imagine creating a fantasy clip about the KY-22 Krechet aircraft design.
+
+#### 📝 Prompt
+
+```
+fantasy short clip about my new aircraft design, the KY-22 "Krechet", a coaxial rotor Vtol aircraft
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116692721079365632/img/f_1tHFvq-mZzY_Wz.jpg" width="600" alt="KY-22 Aircraft Fantasy Clip">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13606)**
+
+**Author:** [Spectro](https://x.com/Spectromachina) | **Source:** [Link](https://x.com/Spectromachina/status/2116693542621880790) | **Published:** Nov 1, 2026
 
 ---
 ### Fire and Ice Dragon Phoenix
@@ -1824,6 +2043,50 @@ In the second image, the one with the bronze dress, make the dog have paws inste
 **Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2116299351639388363) | **Published:** Oct 30, 2026
 
 ---
+### Halloween Dance Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Vertical video prompt for a Halloween solo dance with trap hip-hop music, fixed camera, and specific choreography instructions.
+
+#### 📝 Prompt
+
+```
+Halloween solo Dance | 9:16 Vertical | One Dancers | Fixed Background | Fixed Camera | Beat-Synced Zoom & Close-Up | Horror Trap Hip-Hop
+
+MUSIC / ENERGY:
+An intense beat that kicks in suddenly right from the start, 155 BPM trap hip-hop. Hard drums, heavy bass, High speed, sharp accents, energetic and dynamic.
+
+ABSOLUTE LOCK:
+Same faces, bodies, hairstyles, outfits, positions, background, lighting, colors, and shadows throughout. No swapping, no crossing places, no morphing, no extra dancers, no cuts. Background never changes.
+
+Dance (Top Priority):
+Dancers extend both arms straight forward at shoulder height with elbows extended, bend their wrists precisely 90 degrees downward, and spread their fingers naturally and straight, unleashing an incredibly fast, aggressive, and high-energy dance. The performance features a sequence of movements including rapid with stiff legs, explosive shoulder actions,
+In the middle of the song, she turns her back to the camera, thrusts her hips out, and shakes them sexily. Facing forward, a series of rapid movements unfolds: sharp, percussive chest pops; sudden, swift jerks of the head; powerful knee lifts; wide-stanced squats; abrupt lunges; and dynamic, rhythmic full-body swaying—all following one after another.
+Use DOUBLE-TIME footwork at 155 BPM, rapid acceleration, abrupt freezes, explosive restarts, and hard beat accents.
+
+DANCE RULE:
+but they must not be perfectly synchronized all the time.
+They move in the same overall rhythm, but with slight timing offsets, alternating accents, and different body actions.
+
+FINISH(Final 0.2 seconds):
+A close-up of her tilting her head, forming a heart shape with her hands, and making a kissing expression toward the camera.
+
+APPEARANCE LOCK — ABSOLUTE PRIORITY:
+Preserve both dancers' original faces, natural skin tones, hairstyles, and makeup exactly as shown in the initial frame. Do not alter either dancer's appearance throughout the video.
+
+CAMERA:
+Fixed frontal camera only. No camera movement, no pan, no tilt, no dolly.
+Use only fast beat-synced optical zoom-ins, snap zoom-outs, and brief punch-in close-up framing to create speed and impact while keeping the camera position fixed. Keep the same background at all times.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116232733513179136/img/XsNQfiypmO6re3Ds.jpg" width="600" alt="Halloween Dance Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13605)**
+
+**Author:** [SPLASH GIRLS@AI Image](https://x.com/splash_GL) | **Source:** [Link](https://x.com/splash_GL/status/2116289052164976917) | **Published:** Oct 30, 2026
+
+---
 ### Cinematic Surreal Reality Painting Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2062,11 +2325,11 @@ The duo goes on attack and defeat the ninja then turn on each other again laughi
 **Author:** [Michael Erikson](https://x.com/erikson_michael) | **Source:** [Link](https://x.com/erikson_michael/status/2116019614442463517) | **Published:** Oct 30, 2026
 
 ---
-### Man Transformation to Ultimate Form
+### Grok Imagine Transformation Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a continuous transformation video where an ordinary man evolves into his ultimate elevated form to impress a woman.
+> A detailed prompt for generating a continuous transformation video where an ordinary man evolves into his ultimate form beside a woman, specifically designed for Grok Imagine.
 
 #### 📝 Prompt
 
@@ -2083,7 +2346,7 @@ At the end: Fully transformed, he stands tall and confident next to the woman, t
 Keep the man’s core identity continuous through every transformation stage, preserve the single woman as the constant target of the commitment, and ensure the final pairing and elevated outcome remain unchanged.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116016410371760128/img/MMj11ekfg-BKFtOi.jpg" width="600" alt="Man Transformation to Ultimate Form">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116016410371760128/img/MMj11ekfg-BKFtOi.jpg" width="600" alt="Grok Imagine Transformation Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13254)**
 
@@ -2132,11 +2395,11 @@ Scene 5 (0:12 - 0:15): Last Superb Close-up
 **Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2116013473108996400) | **Published:** Oct 30, 2026
 
 ---
-### Tesla Optimus to Battle-Ready Prime Transformation Video
+### Grok Optimus Transformation Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a cinematic sci-fi video where Tesla Optimus transforms into a battle-ready Optimus Prime configuration within a futuristic hangar.
+> A detailed prompt for generating a sci-fi video where Tesla Optimus transforms into a battle-ready Optimus Prime configuration within a futuristic hangar.
 
 #### 📝 Prompt
 
@@ -2162,7 +2425,7 @@ Deep hydraulic and servo whirrs layered with rising electronic power surges. Met
 Keep single continuous subject identity throughout: one Optimus only. Preserve the evolving silhouette and proportions as a clear, logical progression from humanoid to next-level Prime form. Maintain consistent metallic materials, blue energy signature, and SCI-FI hangar environment for the entire sequence.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115849404607549441/img/HVZXNneM-ghBcJKW.jpg" width="600" alt="Tesla Optimus to Battle-Ready Prime Transformation Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115849404607549441/img/HVZXNneM-ghBcJKW.jpg" width="600" alt="Grok Optimus Transformation Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13263)**
 
@@ -2409,229 +2672,6 @@ Gustav Klimt gold-leaf painting, pale vampire countess in a spiral-mosaic gown, 
 **Author:** [Lid Cracker](https://x.com/LidCracker) | **Source:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **Published:** Oct 28, 2026
 
 ---
-### Grok Imagine Time Travel Portrait Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Grok Imagine that uses a user's photo to generate a video of them in the historical era where they feel most themselves. The AI autonomously selects the decade, hairstyle, outfit, makeup, and look while ensuring the subject remains recognizable.
-
-#### 📝 Prompt
-
-```
-Based on everything you know about me, place me in the era where I would feel most like myself. Use my photo and choose the decade, hairstyle, outfit, makeup, and look yourself. Ensure that I remain recognizable and do not ask me any questions.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115479225167704064/img/RC8RGX6BXUppQhom.jpg" width="600" alt="Grok Imagine Time Travel Portrait Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13156)**
-
-**Author:** [Charles Liebert](https://x.com/Charles_Liebert) | **Source:** [Link](https://x.com/Charles_Liebert/status/2115479241202499709) | **Published:** Oct 28, 2026
-
----
-### Grok Imagine Magical Girl Combat Dress Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Grok Imagine to generate a magical girl style transformation sequence where Lantern powers up into a combat dress with light effects and particle bursts.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Generate a next-level transformation sequence where Lantern transforms into her combat dress. The core subject is Lantern, and the principal event is her power-up transformation that ends with her fully equipped and ready for battle.
-
-[Event Script]
-At the start: Lantern stands in a neutral or casual stance, her form beginning to glow with soft inner light as energy particles start to swirl around her.
-Principal event: Energy flares intensify as her outfit shifts and rebuilds—fabric reforming, armor plating materializing, glowing lantern motifs and light-energy accents locking into place across her body. Magical light trails and particle bursts surround her while she rises slightly, arms extending, as the combat dress fully assembles in a dramatic, layered reveal.
-At the end: Lantern stands fully transformed in her combat dress, powerful and ready, with residual energy effects fading into a stable combat-ready pose.
-
-[Visual Style]
-High-energy magical girl / superhero transformation aesthetic with luminous light effects, glowing particles, energy trails, and dramatic lighting that emphasizes the power of the change. Keep the sequence fluid, epic, and next-level in intensity.
-
-[Camera]
-Dynamic cinematic camera that starts in a medium shot, then circles and pushes in during the peak energy surge, capturing the full body transformation with sweeping motion and dramatic angles that highlight the combat dress formation.
-
-[Sound]
-Powerful rising energy hums and whooshes that build into a climactic surge, layered with shimmering light-particle effects and a strong impact stinger as the combat dress locks into place. No dialogue.
-
-[Maintain Consistency]
-Keep Lantern as the single continuous subject throughout. Her identity remains the same before and after the transformation; only her clothing and power presentation change into the combat dress. Preserve clear visual progression from start state to fully transformed combat form.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115394762090098689/img/hVHuhI7chEhUhUW-.jpg" width="600" alt="Grok Imagine Magical Girl Combat Dress Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13150)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115395330632282324) | **Published:** Oct 28, 2026
-
----
-### Cosmic Space Scene with Gouache Texture
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a cosmic space scene using specific colors (turquoise, lilac, blue) and thick gouache paint texture, featuring swirling nebulae and stars.
-
-#### 📝 Prompt
-
-```
-Create a stunning cosmic space scene using only the exact same vibrant turquoise cyan, soft lilac purple and deep blue colors and thick gouache paint texture from the reference. Magical painted cosmos: swirling nebulae, glowing stars, distant galaxies...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115388329575288832/img/D6ISarPDgJvLUjiT.jpg" width="600" alt="Cosmic Space Scene with Gouache Texture">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13144)**
-
-**Author:** [Magdalena Kanas](https://x.com/KanasMagdalena) | **Source:** [Link](https://x.com/KanasMagdalena/status/2115389269413970029) | **Published:** Oct 28, 2026
-
----
-### Korean Queen Portrait Image Prompt
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> An image generation prompt for creating a portrait of a Korean queen in traditional Chosun-era attire, set against a palace background with peonies. The user notes that Grok Imagine added extra details like hairpins during video generation.
-
-#### 📝 Prompt
-
-```
-A young queen standing in front of a historic Korean court filled with blooming orange peonies. She wears royal court attire consisting of a red jeogori with luxurious gold thread embroidery and a white chima.
-She has a pink coral-adorned hairpin (binyeo) in her tied-back hair, and small silver round jochi decorated with rubies, sapphires, and pearls on her forehead.
-Aspect ratio 9:16. K-drama style.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793259730850_wtz5yy_HVszvFsaQAARtCp.jpg" width="600" alt="Korean Queen Portrait Image Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13157)**
-
-**Author:** [華月光](https://x.com/hanagekkou) | **Source:** [Link](https://x.com/hanagekkou/status/2115341470593143095) | **Published:** Oct 28, 2026
-
----
-### Bar to Metallic Suit Transformation Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a sci-fi transformation video where a metal bar held by a woman morphs into a full-body metallic suit.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Generate a slow, clear, next-level transformation sequence in which the bar held in her hand morphs into her metallic suit.
-
-[Event Script]
-At the start she stands holding the bar firmly in one hand, the object fully solid and recognizable as a bar. The transformation begins at the point of contact with her palm: the bar’s surface softens and flows outward like liquid metal, coating her fingers and hand first. The metallic material creeps slowly and continuously up her arm, then across her shoulders and torso, defining chest plating, waist armor, and hip guards with sharp geometric edges and reflective chrome surfaces. It continues down both legs, forming thigh and shin armor, and finally seals around her boots and seals the suit completely. Every stage of the morph is deliberate and highly detailed so the progression from handheld bar to full-body metallic suit remains unmistakable. At the end she stands fully encased in the completed metallic suit; the original bar no longer exists as a separate object, its entire mass now integrated into the armor.
-
-[Maintain Consistency]
-Keep her identity, body proportions, pose, and the continuous slow liquid-to-solid metal transformation process stable throughout. The suit’s final metallic finish, reflective quality, and seamless integration must remain clear and consistent.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115306755467116544/img/YkdNiyOVJAW9E5JR.jpg" width="600" alt="Bar to Metallic Suit Transformation Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13146)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115306979820491100) | **Published:** Oct 28, 2026
-
----
-### Cafe Daily Life Video Prompt for Grok Imagine
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A structured video prompt for generating a 12-second cafe scene featuring a barista. It uses two reference images (@Image1, @Image2) to maintain consistency and defines specific poses and camera angles for each cut.
-
-#### 📝 Prompt
-
-```
-Basic specifications for the entire video:
-Maintain consistency of the same person. A young female clerk wearing a navy polo shirt, visor sun shade, and brown apron. A calm wooden cafe counter. Warm natural light.
-[Cut 1: 0s-6s] Based on @Image1
-* Pose 1 (0s-3s): State of @Image1. The female clerk is carefully pouring coffee from a drip pot into a white cup.
-* Pose 2 (3s-6s): After finishing pouring, she puts the pot back and smiles gently looking at the finished coffee cup.
-[Cut 2: 6s-12s] Based on @Image2 (Change angle)
-* Pose 1 (6s-9s): Close-up angle of @Image2. She tops up the coffee with a serious yet gentle expression, watching the steam rise.
-* Pose 2 (9s-12s): She suddenly looks up at the camera (customer side), smiles gently saying "Sorry for the wait," and bows her head slightly.
-BGM Idea
-"Warm and gentle acoustic bossa nova (slow guitar and cafe ambient sounds)"
-```
-
-<img src="https://cms-assets.youmind.com/media/1793259728803_ncupts_HVrRlRmbYAAzlOW.jpg" width="600" alt="Cafe Daily Life Video Prompt for Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13155)**
-
-**Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2115284925310255415) | **Published:** Oct 28, 2026
-
----
-### SpaceX Starship Earth to Mars Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt describing a SpaceX Starship journey from Earth launch to Mars landing, with specific details on engines, environments, and consistency.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Generate a continuous cinematic video of a SpaceX Starship spacecraft carrying people from Earth to Mars.
-
-[Event Script]
-At the start, the Starship stands vertically on a coastal launch pad under clear blue Earth skies, with a crew of astronauts visible through the large windows of the upper passenger section. Engines ignite with bright orange flames and dense white vapor clouds as the vehicle lifts off, accelerating upward through the atmosphere. The shot transitions to orbital view showing Earth receding below as Starship coasts through deep space. Principal event: the long interplanetary voyage, with the craft traveling through the void toward the reddish disk of Mars, which grows steadily larger. At the end, Starship performs a controlled powered landing on the dusty Martian surface under a thin pinkish sky, engines throttling down as landing legs touch the ground and the vehicle comes to rest upright.
-
-[Maintain Consistency]
-Keep the Starship’s overall stainless-steel appearance, scale, window layout, and propulsion configuration stable throughout. Maintain clear visual distinction between the blue Earth departure environment and the red Mars arrival environment. Preserve the presence of people as passengers inside the vehicle from launch through landing.
-
-Disclaimer: 
-This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115039304548552704/img/1CW0EkBI89QJx2Z-.jpg" width="600" alt="SpaceX Starship Earth to Mars Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13151)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115039637609828487) | **Published:** Oct 27, 2026
-
----
-### Grok Imagine Video Prompt: Storm of Cybercabs
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-energy sci-fi video prompt for Grok Imagine featuring a dense swarm of autonomous flying taxis creating an aerial storm over a neon night city.
-
-#### 📝 Prompt
-
-```
-Purpose: Generate a video of a storm of cybercabs: a dense, high-speed swarm of sleek autonomous flying taxis surging through a futuristic night city, forming an overwhelming aerial storm of vehicles.
-
-Discription:
-At the start, a neon-lit megacity skyline at night stretches below under dark storm clouds, with scattered cybercabs beginning to lift from rooftops and elevated pads. Principal event: hundreds of glowing cybercabs accelerate, bank, and weave in synchronized yet chaotic formations, their thrusters streaking blue-white light trails as they fill the sky like a living thunderstorm of metal and energy, dodging between towering skyscrapers. At the end, the swarm peaks in density, creating a continuous aerial river of lights that dominates the frame above the glowing streets.
-
-Maintain Consistency
-Keep the cybercabs identical in sleek design and count as a massive swarm, preserve night-time neon lighting, dark stormy sky, and continuous high-speed motion without individual crashes or clearings of the sky.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115032410752688128/img/RhB6xI105z_vmLAC.jpg" width="600" alt="Grok Imagine Video Prompt: Storm of Cybercabs">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13153)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115032907261816941) | **Published:** Oct 27, 2026
-
----
-### Continuous Shot Kiss Bunny Smoke
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Detailed prompt for a continuous shot video involving a kiss on a bunny's nose, smoke, waves, and specific lighting/color grading instructions.
-
-#### 📝 Prompt
-
-```
-One continuous shot, no cuts, locked-off camera. 0-2s: hold the wide frame as she keeps the kiss on the bunny's nose, breathing, smoke drifting behind. 2-4s: a wave breaks white over the rocks on the right and focus pulls off the pair onto the churning surf, the model and bunny melting into soft cream and camouflage shapes. 4-5s: focus slides back to her as her lashes flutter, the bunny's glassy black eye catching a bead of backlight. Look: shallow depth, mint and pink smoke glow, cold slate sea, fine grain.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115002726148874240/img/QMaFd0XsBmKpyVGK.jpg" width="600" alt="Continuous Shot Kiss Bunny Smoke">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13415)**
-
-**Author:** [Marco](https://x.com/ai_artworkgen) | **Source:** [Link](https://x.com/ai_artworkgen/status/2115002899579245038) | **Published:** Oct 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2693,6 +2733,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-06T06:14:32.213Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-06T16:03:42.298Z</sub>
 
 </div>

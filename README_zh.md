@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3343** |
+| 📝 提示词总数 | **3352** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-06** |
 
@@ -189,6 +189,181 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 卡车变身巨型机器人
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个复杂的视频生成提示词，利用参考图像创建一个重型卡车疾驰并变身为擎天柱风格战士的连续镜头。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段连贯的视频：一辆充满未来感的重型卡车在山间公路上疾驰，随后变形为一尊高耸的 Optimus 风格巨型战士。核心主体是这辆红蓝配色的卡车，主要事件是它的高速行驶，以及随后精细的机械变形过程——最终化为双足机器人形态。
+
+[参考素材作用]
+@image1 用于确定卡车的整体外观：红色车头搭配蓝色火焰状涂装、带有红色涂鸦的蓝色货柜、镀铬排气管、前大灯、车轮，以及在极具张力的云层下沐浴着黄金时刻光线的山间公路场景；请勿凭空添加额外的人物或车辆。
+@image2 用于确定最终巨型战士的设计：红蓝相间的装甲板、镀铬机械细节、发光的蓝色双眼、胸部车窗、形似车轮的双脚，以及整体致敬 Optimus 的轮廓剪影；@image2 中的山间日落景观可用于强化光影与环境的连贯性。
+
+[主体与关系]
+@image1 中的那辆卡车是画面中唯一的车辆，它与 @image2 中唯一的巨型战士是完全相同的实体（由前者变形而来）。不得出现其他卡车、机器人或角色。公路、长满青草的山丘、远处的雪山以及极具张力的云层天空在整个过程中须保持一致。
+
+[事件脚本]
+开场：在金色夕阳与厚重云层的映衬下，这辆红色车头、蓝色货柜的卡车沿着柏油公路朝镜头疾驰而来，车灯亮起，引擎轰鸣，车轮飞转，风声呼啸而过。
+主要事件：卡车继续高速行驶片刻，随即开始精准且写实的变形。每一个车轮、面板、发动机缸体、排气管、货柜箱体和机械关节都在展开、旋转并重新组合，动作精密且充满厚重的力量感。车头升起化作躯干与头部，货柜各部分构成四肢与装甲板，车轮变为双脚，镀铬部件逐一锁定到位，直到这尊高耸的 Optimus 风格战士在同一条公路上完全直立起身。
+结尾：巨型战士稳稳矗立在公路上，面朝观众，蓝色双眼闪烁光芒，红蓝装甲完整呈现，四周依然是山间景观与落日余晖；原本的卡车已彻底完成变形，不再以车辆形态存在。
+
+[保持一致性]
+从卡车到机器人的整个过程中，必须严格保持红蓝配色方案、火焰/涂鸦图案、镀铬细节与机械美学的一致性。确保单一实体的身份特征贯穿始终，让观众一眼认出战士就是由该卡车变形而来。维持山间公路环境、黄金时刻的光影、极具张力的云层天空以及符合物理常识的变形比例。所有机械运动都必须精准、厚重且符合物理规律，不得出现突兀的跳变或零件缺失。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118521388332150784/img/F14J6-9cAMYnqKLX.jpg" width="600" alt="卡车变身巨型机器人">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13600)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118521533421457741) | **发布时间:** Nov 6, 2026
+
+---
+### Optimus 机器人降临电影感视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的视频生成提示词，描述了一个巨大的类 Optimus 机器人从云层中降落到未来城市，包含电影级运镜和音效设计。
+
+#### 📝 提示词
+
+```
+一台巨型 Optimus 机器人从云层中降落至未来都市，稳稳落在高耸的摩天大楼之间，强大的冲击波沿着街道向四周层层扩散。镜头环绕着他庞大的金属身躯缓缓移动，幽蓝的双眸瞬间点亮了整片黑暗。
+
+画面呈现出极具科技感与电影质感的科幻氛围，戏剧性的光影划破夜幕下的薄雾，在金属表面折射出冷冽的反光。
+
+镜头采用动态环绕运镜拍摄这台巨型机器人：起幅为全景，完整捕捉其从天而降与落地时的震撼冲击；随后沿机身一路推近，最终定格在那双泛着蓝光的眼睛上。
+
+音效方面，落地时传来沉闷的轰然巨响，冲击波的低频轰鸣不断向外蔓延，伴随着金属共振声，而在这些充满张力的声响之下，还铺垫着城市低沉的环境底噪。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118386448382459904/img/YBy0vRRPGCaswKYq.jpg" width="600" alt="Optimus 机器人降临电影感视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13601)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118387174093558252) | **发布时间:** Nov 5, 2026
+
+---
+### Grok Imagine Video 1.5 Lite 口型同步测试提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 在 Higgsfield 上用于 Grok Imagine Video 1.5 Lite 的测试提示词，旨在生成一段雨中女性说话并实现精准口型同步的短视频片段。
+
+#### 📝 提示词
+
+```
+一位身穿黄色雨衣的女子站在雨中的公交站，她转向镜头说道：“抱歉我迟到了，47 路公交车抛锚了。”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115096039568883712/img/3H5aVATrpuG9vAiw.jpg" width="600" alt="Grok Imagine Video 1.5 Lite 口型同步测试提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13603)**
+
+**作者:** [Which AI Won](https://x.com/whichaiwon) | **来源:** [Link](https://x.com/whichaiwon/status/2118342571592446154) | **发布时间:** Nov 5, 2026
+
+---
+### 堕落天使电影感视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Grok Imagine 生成古老城市陨石坑中堕落天使的电影感视频提示词。场景包含升腾的烟雾、飘落的雨滴、逐渐闭合的光束以及燃烧的羽毛。
+
+#### 📝 提示词
+
+```
+白色羽翼尖端焦黑燃烧的女天使，跪在古城中央冒着浓烟的巨坑中，仰望天空中正在合拢的光束，细雨纷飞，高机位俯拍，电影感奇幻风格，竖版 4:5
+
+天使缓缓抬起脸庞，雨丝飘落，弹坑中烟雾升腾，光束逐渐收拢，烧焦的羽毛随风飞舞，镜头缓缓下降直至推近她
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118169027029663744/img/asNAYbWxjmoI9cAu.jpg" width="600" alt="堕落天使电影感视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13607)**
+
+**作者:** [rxufnx](https://x.com/rxufnx) | **来源:** [Link](https://x.com/rxufnx/status/2118327480918438306) | **发布时间:** Nov 5, 2026
+
+---
+### 暗黑电子嘻哈舞蹈视频
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 为 Grok Imagine 设计的详细视频生成提示词，呈现一段嘻哈舞蹈序列。通过三张参考图片保持角色一致性（黑色竖发、天鹅绒哥特式连衣裙），并在 15 秒时长内精确编排身体波浪和隔离动作等四个场景。
+
+#### 📝 提示词
+
+```
+🎥 视频提示词（Grok Imagine）
+
+全局设定与 BGM
+* 风格/一致性：完全保持 @Image1、@Image2、@Image3 中人物的五官、发型与服装一致（凌乱黑色盘发，藏蓝与酒红丝绒哥特风连衣裙）。
+* 音乐/氛围：Slow & Dark Electro Hip-Hop，重低音。带有 POP 感的律动时尚 BGM。于静止中展现酷飒的力量感。
+
+场景 1（0-4s）：中景
+* 基础图片：@Image3
+* 动作（4s / 2 个阶段）：
+  * [0-2s]：身体 wave 随节拍从胸口流畅传导至颈部。
+  * [2-4s]：颈部左右 sharp isolation，目光冷峻直视前方。
+
+场景 2（4-8s）：全景（全身）
+* 基础图片：@Image1
+* 动作（4s / 2 个阶段）：
+  * [4-6s]：踩着重拍，髋部与上半身做出缓慢的大幅度 wave。
+  * [6-8s]：手部 sharp isolation，双手快速流畅交叉。裙摆优雅摇曳。
+
+场景 3（8-12s）：中景
+* 基础图片：@Image3
+* 动作（4s / 2 个阶段）：
+  * [8-10s]：Back wave 动作将肩膀与胸口流畅串联。
+  * [10-12s]：配合歌曲高潮，指尖与颈部同时 sharp posing 定格。
+
+场景 4（12-15s）：特写（结尾镜头）
+* 基础图片：@Image2
+* 动作（3s）：
+  * [12-14s]：特写镜头缓缓向面部推进。头部与颈部以细微的 isolation 卡点律动。
+  * [14-15s（结尾）]：最终 pose 直面镜头，右眼又酷又俏皮地眨一下，随后画面定格。
+```
+
+<img src="https://cms-assets.youmind.com/media/1793951423787_2g1t88_HWVUat6a0AAOV7P.jpg" width="600" alt="暗黑电子嘻哈舞蹈视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13608)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **来源:** [Link](https://x.com/HaluAIArt/status/2118285947921989988) | **发布时间:** Nov 5, 2026
+
+---
+### 擎天柱电影级变形
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段高端科幻风格的视频，展示擎天柱进行复杂的机械变形过程。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段高端电影级科幻视频，展现 Optimus 的次世代变形过程，以写实、照片级逼真的风格呈现该机器人精密复杂的变形序列。
+
+[事件脚本]
+开场时，Optimus 以完整的人形机器人姿态伫立于充满未来感的工业机库中，沐浴在极具戏剧张力的体积光下。核心画面将展开一场多阶段的次世代变形：外部装甲板与四肢通过精密的机械关节联动发生位移，内部系统泛起光芒并重新排布，各部件折叠重组为不同的战斗或载具形态，金属、液压系统与能量流动的超精细物理效果逼真至极。过渡阶段的混合形态会展现出错综复杂的咬合机械结构，直至最终完成向高级形态的全面变形。结尾处，Optimus 锁定最终变形形态，在残余的能量光效与渐渐消散的火花中尽显沉稳与强悍。
+
+[保持一致性]
+全程确保 Optimus 作为唯一的视觉主体，保持统一的次世代科幻设计语言、照片级金属质感、连贯的光影效果以及合理的变形逻辑。画面需呈现照片级电影科幻质感，具备高保真材质、能量元素的次表面光照效果以及丰富的空间景深。镜头采用动态电影级运镜：以英雄式中景开场，通过流畅的轨道平移与摇臂运动环绕拍摄，紧跟关键的机械联动细节；随后推进至变形部件的特写镜头，最后拉远为全景，展现变形完成后的整体形态。音效包含低沉的金属摩擦声与液压伺服电机的运转声，交织着电子能量涌动声、浑厚的低频冲击音，以及层层递进的电影级科幻管弦配乐，随变形过程不断推高紧张氛围。
+
+免责声明：本视频为 AI 生成的虚构科幻概念作品，仅供娱乐之用。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118282841377345537/img/9CGR1l58Ow2LJFkx.jpg" width="600" alt="擎天柱电影级变形">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13602)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118283217383874730) | **发布时间:** Nov 5, 2026
+
+---
 ### Grok Imagine 提示词：王子将女仆变身为公主
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -269,6 +444,38 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13557)**
 
 **作者:** [KyoukahanabiAITO](https://x.com/Kyoukahanabi135) | **来源:** [Link](https://x.com/Kyoukahanabi135/status/2118206409175453837) | **发布时间:** Nov 5, 2026
+
+---
+### Grok Imagine 视频提示词：礼服变身
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个用于 Grok Imagine 的复杂视频生成提示词，展示了一位身穿薄纱礼服的女性在废墟场景中变换姿势的过程，并引用了两张输入图像。
+
+#### 📝 提示词
+
+```
+视频提示词（Grok Imagine）
+全局设置与一致性保持
+ * 角色：来自 @Image1 和 @Image2 的女性（同一人）。务必完整保留黑色薄纱荷叶边连衣裙、颈部丝带项圈、黑色盘发造型以及自然妆容。
+ * 背景/氛围：时尚废墟风格空间。光影投射在墙面上，营造神秘而慵懒的氛围。
+ * BGM：忧郁安静的 chill lo-fi hip-hop，或氛围感钢琴曲。
+分镜构成（总时长 8 秒 / 每 4 秒切换一次）
+[CUT 1]（0:00 - 0:04）
+ * 参考图片：@Image1
+ * 姿势 1（0:00 - 0:02）：右手置于脑后，神情慵懒地静静注视镜头。
+ * 姿势 2（0:02 - 0:04）：视线微微下垂，指尖轻触颈部的丝带项圈。
+[CUT 2]（0:04 - 0:08）
+ * 参考图片：@Image2
+ * 姿势 1（0:04 - 0:06）：左手绕至脑后，头部微倾，对着镜头微笑。
+ * 姿势 2（0:06 - 0:08）：脸部微微后仰，轻抚头发，同时羞涩地移开视线。
+```
+
+<img src="https://cms-assets.youmind.com/media/1793951411817_swqq6d_HWQN4x3a0AAINdr.jpg" width="600" alt="Grok Imagine 视频提示词：礼服变身">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13604)**
+
+**作者:** [はる](https://x.com/HaluAIArt) | **来源:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **发布时间:** Nov 5, 2026
 
 ---
 ### 女子将木棍变成警车抓捕小偷
@@ -1187,6 +1394,25 @@ Optimus 还在疯狂计算 G 力呢。🤖😂
 **作者:** [Myst(eerie)0us Vincent Malarkey](https://x.com/TheEerieHollows) | **来源:** [Link](https://x.com/TheEerieHollows/status/2116750160755642621) | **发布时间:** Nov 1, 2026
 
 ---
+### KY-22 飞机幻想短片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于 Grok Imagine 的参考模式视频提示词，旨在创作关于 KY-22 Krechet 飞机设计的幻想短片。
+
+#### 📝 提示词
+
+```
+一段关于我全新飞行器设计的幻想短片——KY-22 “Krechet”，一款共轴双旋翼垂直起降（VTOL）飞行器
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116692721079365632/img/f_1tHFvq-mZzY_Wz.jpg" width="600" alt="KY-22 飞机幻想短片">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13606)**
+
+**作者:** [Spectro](https://x.com/Spectromachina) | **来源:** [Link](https://x.com/Spectromachina/status/2116693542621880790) | **发布时间:** Nov 1, 2026
+
+---
 ### 阴阳龙凤视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1824,6 +2050,50 @@ John Berkey 风格的太空无畏舰，尽显岁月沧桑与战斗伤痕，在�
 **作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **来源:** [Link](https://x.com/Soaring2TheMoon/status/2116299351639388363) | **发布时间:** Oct 30, 2026
 
 ---
+### 万圣节舞蹈视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 万圣节独舞竖屏视频提示词，包含 Trap Hip-Hop 音乐、固定机位及特定编舞指令。
+
+#### 📝 提示词
+
+```
+万圣节独舞 | 9:16 竖屏 | 1 位舞者 | 固定背景 | 固定机位 | 卡点缩放与特写 | 恐怖 Trap Hip-Hop
+
+音乐 / 能量：
+开场瞬间爆发的强烈节拍，155 BPM 的 trap hip-hop。硬朗鼓点、厚重低音、极速节奏、利落重音，充满爆发力与动感。
+
+绝对锁定：
+全程保持相同的面容、身形、发型、服装、站位、背景、灯光、色彩与阴影。禁止换人、禁止交叉走位、禁止变形、禁止增加额外舞者、禁止剪辑切换。背景始终保持不变。
+
+舞蹈（最高优先级）：
+舞者双臂在肩部高度向前伸直，肘部不弯曲，手腕精准向下弯折 90 度，手指自然张开并绷直，随即展开一段极速、极具攻击性且能量爆棚的舞蹈。表演包含一系列动作：双腿僵直的快速舞步、爆发力十足的肩部动作；
+歌曲中段，她背对镜头，挺胯并性感地扭动。转回正面后，一连串快节奏动作接连上演：干脆利落的胸部震动（chest pops）、迅猛突然的甩头、有力的提膝、宽距深蹲、急停弓步，以及充满律动的全身摇摆——所有动作一气呵成。
+采用 155 BPM 的双倍速（DOUBLE-TIME）脚步动作，配合急速加速、骤停顿点、爆发性重启以及强烈的重拍卡点。
+
+舞蹈规则：
+但动作不能始终完全同步。
+整体节奏保持一致，但在时间上带有细微错位，重音交替出现，身体动作各不相同。
+
+结尾（最后 0.2 秒）：
+特写镜头：她微微歪头，双手比心，对着镜头做出亲吻的表情。
+
+外观锁定 — 绝对优先：
+严格保留初始画面中两位舞者的原始面容、自然肤色、发型与妆容。视频全程不得改变任何一位舞者的外观。
+
+镜头：
+仅限固定正面机位。禁止移动镜头、禁止摇摄、禁止俯仰、禁止推拉。
+仅使用快速的卡点光学变焦推近、急拉变焦以及短暂的特写切入构图来营造速度感与冲击力，同时保持机位固定不变。全程保持同一背景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116232733513179136/img/XsNQfiypmO6re3Ds.jpg" width="600" alt="万圣节舞蹈视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13605)**
+
+**作者:** [SPLASH GIRLS@AI Image](https://x.com/splash_GL) | **来源:** [Link](https://x.com/splash_GL/status/2116289052164976917) | **发布时间:** Oct 30, 2026
+
+---
 ### 电影感超现实主义绘画提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2409,226 +2679,6 @@ John Berkey 风格的太空无畏舰，尽显岁月沧桑与战斗伤痕，在�
 **作者:** [Lid Cracker](https://x.com/LidCracker) | **来源:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **发布时间:** Oct 28, 2026
 
 ---
-### Grok Imagine 时空穿越肖像提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 设计的提示词，利用用户照片生成其在最能体现自我特质的历史时代的视频。AI 将自主选择年代、发型、服装、妆容及整体造型，同时确保人物形象清晰可辨。
-
-#### 📝 提示词
-
-```
-根据你对我的所有了解，把我放到一个最能让我做回自己的时代。用我的照片，由你来挑选年代、发型、穿搭和妆容，打造整体造型。一定要保证我还能被认出来，别问我任何问题。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115479225167704064/img/RC8RGX6BXUppQhom.jpg" width="600" alt="Grok Imagine 时空穿越肖像提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13156)**
-
-**作者:** [Charles Liebert](https://x.com/Charles_Liebert) | **来源:** [Link](https://x.com/Charles_Liebert/status/2115479241202499709) | **发布时间:** Oct 28, 2026
-
----
-### Grok Imagine 视频提示词：Lantern 变身序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份用于通过 Grok Imagine 生成角色 Lantern 变身战斗服的电影感视频的详细提示词。内容涵盖事件脚本、视觉风格（魔法少女/超级英雄）、镜头运动及音效设计。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段进阶版变身序列，展现 Lantern 变身为战斗服的过程。核心主体为 Lantern，主要事件是她蓄力变身的过程，最终以全副武装、随时应战的姿态收尾。
-
-[事件脚本]
-开场：Lantern 以自然放松的姿态站立，周身开始泛起柔和的内光，能量粒子在她身边盘旋飞舞。
-主要事件：随着服装不断解构与重塑，能量光芒愈发耀眼——布料重新编织，装甲板凭空显现，发光的提灯图腾与光能纹路逐一锁定在她的全身各处。魔法光轨与粒子爆流环绕四周，她身体微微悬浮，双臂舒展，战斗服在极具张力的层层展现中彻底成型。
-结尾：Lantern 完成全部变身，身着战斗服傲然挺立，气场全开、蓄势待发，残余的能量特效逐渐消散，最终定格为稳健的战斗姿态。
-
-[视觉风格]
-高燃魔法少女 / 超级英雄变身美学，搭配璀璨的光效、发光粒子、能量轨迹以及极具戏剧张力的光影，充分凸显变身的强大力量感。整个序列需保持流畅、史诗感十足，并将视觉冲击力拉满。
-
-[镜头]
-动态电影级运镜：从中景起幅，在能量爆发的高潮阶段环绕并推进镜头，以大开大合的运镜和充满张力的角度捕捉全身变身过程，完美呈现战斗服的成型瞬间。
-
-[声音]
-强劲的能量嗡鸣与呼啸声层层递进，一路攀升至爆发顶点；其间交织着闪烁的光粒子音效，并在战斗服锁定的瞬间加入一记震撼的重击音效（stinger）。无对白。
-
-[保持一致性]
-全程确保 Lantern 作为唯一且连贯的主体。变身前后她的身份特征保持不变，仅服装与能力表现形式切换为战斗服状态。从初始状态到完全变身的战斗形态，需保留清晰连贯的视觉演变过程。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115394762090098689/img/hVHuhI7chEhUhUW-.jpg" width="600" alt="Grok Imagine 视频提示词：Lantern 变身序列">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13150)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115395330632282324) | **发布时间:** Oct 28, 2026
-
----
-### 带有水粉纹理的宇宙太空场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成宇宙太空场景的详细提示词，采用特定颜色（绿松石色、淡紫色、蓝色）和厚重的水粉画纹理，呈现旋转的星云与繁星。
-
-#### 📝 提示词
-
-```
-仅使用参考图中完全相同的鲜艳青绿色、柔和丁香紫和深邃蓝色，搭配厚重的水粉颜料肌理，创作一幅惊艳的宇宙星空场景。充满魔力的手绘宇宙：旋转的星云、闪耀的星辰、遥远的星系……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115388329575288832/img/D6ISarPDgJvLUjiT.jpg" width="600" alt="带有水粉纹理的宇宙太空场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13144)**
-
-**作者:** [Magdalena Kanas](https://x.com/KanasMagdalena) | **来源:** [Link](https://x.com/KanasMagdalena/status/2115389269413970029) | **发布时间:** Oct 28, 2026
-
----
-### 韩国王后肖像图像提示词
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 用于生成身着朝鲜王朝传统服饰的韩国王后肖像的图像生成提示词，背景为宫殿与牡丹。用户指出 Grok Imagine 在视频生成过程中添加了发簪等额外细节。
-
-#### 📝 提示词
-
-```
-一位年轻的女王伫立在韩国古宫殿前，四周盛开着橙色的牡丹。她身着宫廷服饰，一袭红色赤古里（jeogori）上绣着奢华的金线纹样，下搭白色裙子（chima）。
-挽起的发髻间插着一支点缀着粉珊瑚的发簪（binyeo），额前佩戴着小巧的银色圆形珠翠（jochi），上面镶嵌着红宝石、蓝宝石与珍珠。
-画面比例 9:16。韩剧风格。
-```
-
-<img src="https://cms-assets.youmind.com/media/1793259730850_wtz5yy_HVszvFsaQAARtCp.jpg" width="600" alt="韩国王后肖像图像提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13157)**
-
-**作者:** [華月光](https://x.com/hanagekkou) | **来源:** [Link](https://x.com/hanagekkou/status/2115341470593143095) | **发布时间:** Oct 28, 2026
-
----
-### 金属棒变身金属战衣视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的提示词，用于生成科幻风格的变形视频：一位女性手持的金属棒逐渐演变为全身金属战衣。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段缓慢、清晰且极具视觉冲击力的进阶变形序列：她手中握着的金属棒逐渐幻化，最终变形成包裹全身的 metallic suit（金属战衣）。
-
-[事件脚本]
-开场时，她单手握紧金属棒站立，该物体形态完整、坚实，一眼即可辨认出是一根金属棒。变形从掌心接触点开始：金属棒表面逐渐软化，如液态金属般向外流淌，率先覆盖她的手指与手掌。随后，这种金属材质沿着手臂缓慢而持续地向上蔓延，接着流经双肩与躯干，勾勒出棱角分明的几何边缘与高反光镀铬表面，依次成型胸甲、腰甲与胯甲。金属继续向下延伸至双腿，化作大腿与小腿护甲，最终在靴口处收拢闭合，将整套战衣彻底密封。每一个变形阶段都从容不迫且细节拉满，确保从手持金属棒到全身金属战衣的演变过程清晰可辨。结尾处，她已完全被成型的金属战衣包裹；原本的金属棒不再作为独立物体存在，其全部质量已完美融入这身铠甲之中。
-
-[保持一致性]
-全程保持她的身份特征、身材比例、姿势以及“由液态缓慢凝固为固态”的金属变形过程稳定不变。战衣最终的金属质感、反光效果及无缝融合的细节必须始终清晰、前后一致。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115306755467116544/img/YkdNiyOVJAW9E5JR.jpg" width="600" alt="金属棒变身金属战衣视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13146)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115306979820491100) | **发布时间:** Oct 28, 2026
-
----
-### Grok Imagine 咖啡馆日常生活视频提示词
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个结构化的视频提示词，用于生成一段 12 秒的咖啡馆场景，主角为咖啡师。该提示词利用两张参考图片（@Image1、@Image2）来保持视觉一致性，并为每个镜头定义了特定的姿势和摄像机角度。
-
-#### 📝 提示词
-
-```
-整段视频的基本规格：
-保持人物形象一致。一位年轻的女店员，身穿藏青色 Polo 衫、戴着遮阳空顶帽和棕色围裙。背景是质感温润的木质咖啡吧台。温暖的自然光。
-[镜头 1：0s-6s] 基于 @Image1
-* 动作 1（0s-3s）：@Image1 的画面状态。女店员正用滴滤壶将咖啡小心翼翼地注入白色杯中。
-* 动作 2（3s-6s）：倒完咖啡后，她将壶放回原处，注视着冲好的咖啡，露出温柔的微笑。
-[镜头 2：6s-12s] 基于 @Image2（切换角度）
-* 动作 1（6s-9s）：@Image2 的特写角度。她神情专注又不失温柔地为咖啡续杯，静静看着热气升腾。
-* 动作 2（9s-12s）：她忽然抬头看向镜头（顾客视角），温柔地微笑着说“让您久等了”，并微微低头致意。
-BGM 构想
-“温暖柔和的原声 Bossa Nova（舒缓的吉他旋律搭配咖啡馆环境音）”
-```
-
-<img src="https://cms-assets.youmind.com/media/1793259728803_ncupts_HVrRlRmbYAAzlOW.jpg" width="600" alt="Grok Imagine 咖啡馆日常生活视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13155)**
-
-**作者:** [はる](https://x.com/HaluAIArt) | **来源:** [Link](https://x.com/HaluAIArt/status/2115284925310255415) | **发布时间:** Oct 28, 2026
-
----
-### SpaceX Starship 地球至火星电影级视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 生成的详细视频提示词，用于创作 SpaceX Starship 从地球飞往火星的连续电影级序列，涵盖发射、轨道转移及着陆全过程。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段连贯的电影级视频，展现 SpaceX Starship 飞船搭载乘客从地球飞往火星的全过程。
-
-[事件脚本]
-开场时，Starship 垂直矗立在海岸发射台上，头顶是地球澄澈的蔚蓝天空，透过上层客舱的巨大舷窗，可以清晰看到舱内的宇航员乘组。引擎点火，喷射出明亮的橙色火焰与浓密的白色蒸汽云，飞船随即拔地而起，在大气层中不断加速爬升。镜头随后切换至轨道视角，随着 Starship 滑行进入深空，地球在下方渐渐远去。核心事件：漫长的星际航行，飞船穿越浩瀚虚空，飞向那颗泛着红光的火星圆盘，而火星的轮廓也在视野中逐渐变大。结尾处，Starship 在稀薄的粉红色天空下，于尘土飞扬的火星表面完成受控动力着陆；随着着陆腿触及地面，引擎推力逐步减小，飞船最终稳稳直立停驻。
-
-[保持一致性]
-全程保持 Starship 整体的不锈钢外观、尺寸比例、舷窗布局及推进系统配置稳定不变。地球的蓝色出发环境与火星的红色抵达环境之间需保持清晰的视觉区分。从发射到着陆，始终呈现舱内搭载乘客的画面。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115039304548552704/img/1CW0EkBI89QJx2Z-.jpg" width="600" alt="SpaceX Starship 地球至火星电影级视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13151)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115039637609828487) | **发布时间:** Oct 27, 2026
-
----
-### Cybercab 风暴视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成科幻视频的详细提示词，展示夜间霓虹闪烁的大都市中成群结队的自动驾驶飞行出租车。
-
-#### 📝 提示词
-
-```
-目的：生成一段 cybercab 风暴视频——密集、高速的流线型自动驾驶飞行出租车群穿梭于未来感十足的夜间都市，汇聚成一场铺天盖地的空中车流风暴。
-
-描述：
-开场时，夜幕下的霓虹巨型都市天际线在阴沉的风暴云层下铺展开来，零星的 cybercab 开始从屋顶和高架停机坪上腾空而起。核心画面：数百辆流光溢彩的 cybercab 加速、倾斜、穿插，编队既整齐划一又狂野不羁；推进器拖曳出蓝白色的光轨，它们如一场由金属与能量交织而成的活体雷暴般布满天空，在摩天大楼之间灵活闪避。结尾处，车群密度达到顶峰，化作一条连绵不绝的空中光河，在流光溢彩的街道上方占据整个画面。
-
-保持一致性
-所有 cybercab 须保持统一的流线型设计，并呈现出庞大集群的规模感；保留夜间霓虹光影、阴沉的风暴天空以及持续的高速运动状态，全程不得出现任何个体碰撞事故或天空突然空旷的画面。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115032410752688128/img/RhB6xI105z_vmLAC.jpg" width="600" alt="Cybercab 风暴视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13153)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115032907261816941) | **发布时间:** Oct 27, 2026
-
----
-### 连续镜头：亲吻兔子与烟雾
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 连续镜头视频的详细提示词，包含亲吻兔子鼻子、烟雾、海浪以及特定的灯光和色彩分级指令。
-
-#### 📝 提示词
-
-```
-一镜到底，无剪辑，固定机位。0-2 秒：保持全景构图，她继续亲吻兔子的鼻尖，呼吸起伏，烟雾在身后缭绕飘散。2-4 秒：右侧礁石上浪花翻涌出白沫，焦点从两者身上移开，转向翻腾的海浪，模特与兔子渐渐融化为柔和的奶油色与迷彩色块。4-5 秒：焦点重新滑回她身上，睫毛轻颤，兔子乌黑透亮的眼珠捕捉到一点逆光光斑。视觉风格：浅景深，薄荷绿与粉色烟雾微光，冷调青灰色海面，细腻颗粒感。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115002726148874240/img/QMaFd0XsBmKpyVGK.jpg" width="600" alt="连续镜头：亲吻兔子与烟雾">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13415)**
-
-**作者:** [Marco](https://x.com/ai_artworkgen) | **来源:** [Link](https://x.com/ai_artworkgen/status/2115002899579245038) | **发布时间:** Oct 27, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2690,6 +2740,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-06T06:14:33.221Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-06T16:03:43.496Z</sub>
 
 </div>
