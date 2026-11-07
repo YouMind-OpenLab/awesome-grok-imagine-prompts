@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3352** |
+| 📝 提示词总数 | **3354** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-07** |
 
@@ -189,6 +189,50 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 风吹黄丝带视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 视频提示词：蓝天下的草地上，一条黄色丝带随风飘扬。
+
+#### 📝 提示词
+
+```
+湛蓝的天空，绿草繁花，一条黄丝带缠绕在草丛中随风飘扬
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg" width="600" alt="风吹黄丝带视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13644)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **发布时间:** Nov 7, 2026
+
+---
+### 女性擎天柱赛博朋克雨景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个 Grok Imagine 提示词，用于生成电影感赛博朋克场景：女性版擎天柱行走在雨水浸透的街道上，霓虹灯倒影闪烁。
+
+#### 📝 提示词
+
+```
+女性版 Optimus 缓步穿行于被雨水浸透的未来都市。霓虹光影在她的装甲上流转，数百辆机器人车辆纷纷停下，注视着它们的领袖。
+
+画面呈现出电影感十足的高对比度赛博朋克风格：湿漉漉的柏油路面、闪烁的霓虹招牌，以及连绵不断的雨丝。
+
+镜头采用低角度跟拍，从她身后缓缓跟随，随后平移并抬升为中远景，展现出沿街停驻的机器人车队。
+
+声音方面，包括大雨敲击金属的声响、她脚步中低沉的机械嗡鸣、远处车流声逐渐归于寂静，以及深沉浑厚的环境配乐。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="女性擎天柱赛博朋克雨景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13645)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **发布时间:** Nov 6, 2026
+
+---
 ### 卡车变身巨型机器人
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2641,44 +2685,6 @@ John Berkey 风格的太空无畏舰，尽显岁月沧桑与战斗伤痕，在�
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **发布时间:** Oct 29, 2026
 
 ---
-### 狗狗幽灵服装万圣节讨糖
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段视频，展示狗狗起身制作幽灵服装并出门进行万圣节讨糖活动。
-
-#### 📝 提示词
-
-```
-让图片里的这只狗狗站起来，亲手做一套自己的万圣节幽灵服装，然后穿上它去“不给糖就捣蛋”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="狗狗幽灵服装万圣节讨糖">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13205)**
-
-**作者:** [Rawrsteel](https://x.com/rawrsteel88) | **来源:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **发布时间:** Oct 28, 2026
-
----
-### 克里姆特风格吸血鬼女伯爵艺术
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成古斯塔夫·克里姆特风格图像的提示词，描绘了一位身穿金色礼服和蝙蝠翼斗篷的苍白吸血鬼女伯爵，置身于月光花园之中。
-
-#### 📝 提示词
-
-```
-古斯塔夫·克里姆特（Gustav Klimt）金箔画风，面色苍白的吸血鬼女伯爵身着螺旋马赛克长裙，身披深红色 [蝙蝠翼斗篷]，月光下的红玫瑰花园，银色
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg" width="600" alt="克里姆特风格吸血鬼女伯爵艺术">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13264)**
-
-**作者:** [Lid Cracker](https://x.com/LidCracker) | **来源:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **发布时间:** Oct 28, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2740,6 +2746,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-07T05:52:24.936Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-07T15:04:33.860Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3352** |
+| 📝 Total Prompts | **3354** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-07** |
 
@@ -189,6 +189,50 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Video de Cinta Amarilla al Viento
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video para Grok Imagine que muestra una cinta amaronda ondeando al viento sobre el césped bajo un cielo azul.
+
+#### 📝 Prompt
+
+```
+cielo azul brillante, césped con flores, una cinta amarilla atrapada en la hierba ondeando al viento
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg" width="600" alt="Video de Cinta Amarilla al Viento">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13644)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **Published:** Nov 7, 2026
+
+---
+### Escena de Cyberpunk con Lluvia: Optimus Femenina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para Grok Imagine de una escena cyberpunk cinematográfica que muestra a una Optimus Prime femenina caminando por calles empapadas en lluvia con reflejos de neón.
+
+#### 📝 Prompt
+
+```
+Optimus femenina camina lentamente por una metrópolis futurista empapada por la lluvia. Los reflejos de neón se deslizan por su armadura mientras cientos de vehículos robóticos se detienen para observar a su líder.
+
+La imagen presenta un estilo ciberpunk cinematográfico y de alto contraste, con asfalto mojado, letreros de neón brillantes y trazos de lluvia incesantes.
+
+La cámara emplea un plano secuencia en contrapicado que la sigue lentamente desde atrás; luego gira y asciende hasta un plano general medio que revela los vehículos robóticos detenidos a lo largo de las calles.
+
+El sonido incluye lluvia intensa golpeando el metal, el grave zumbido mecánico de sus pasos, el tráfico lejano que se desvanece hasta quedar en silencio y una banda sonora ambiental profunda y resonante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="Escena de Cyberpunk con Lluvia: Optimus Femenina">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
+
+---
 ### Camión que se transforma en un robot gigante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2641,44 +2685,6 @@ Conserva un renderizado puramente fotorrealista de los materiales (metales cepil
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
 
 ---
-### Disfraz de fantasma para perros: Truco o trato
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera un video de un perro levantándose, creando un disfraz de fantasma y saliendo a pedir dulces en Halloween.
-
-#### 📝 Prompt
-
-```
-Haz que el perro de esta foto se levante, se haga su propio disfraz de fantasma, se lo ponga y salga a pedir dulces.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="Disfraz de fantasma para perros: Truco o trato">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13205)**
-
-**Author:** [Rawrsteel](https://x.com/rawrsteel88) | **Source:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **Published:** Oct 28, 2026
-
----
-### Arte de Condesa Vampiro en Estilo Klimt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para generar una imagen al estilo de Gustav Klimt que muestra a una condesa vampira pálida con un vestido dorado y una capa con alas de murciélago en un jardín bajo la luz de la luna.
-
-#### 📝 Prompt
-
-```
-Pintura con pan de oro al estilo de Gustav Klimt, pálida condesa vampiro con un vestido de mosaico en espiral, [capa de alas de murciélago] carmesí, jardín de rosas rojas bañado por la luz de la luna, plata
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg" width="600" alt="Arte de Condesa Vampiro en Estilo Klimt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13264)**
-
-**Author:** [Lid Cracker](https://x.com/LidCracker) | **Source:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **Published:** Oct 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2740,6 +2746,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T05:52:33.898Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T15:04:41.270Z</sub>
 
 </div>

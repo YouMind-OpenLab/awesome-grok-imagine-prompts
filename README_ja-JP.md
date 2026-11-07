@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3352** |
+| 📝 プロンプト総数 | **3354** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-11-07** |
 
@@ -189,6 +189,50 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 風に揺れる黄色いリボンの動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 青空の下、草原で風に揺れる黄色いリボンを描いた Grok Imagine 用の動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+澄み渡る青空、花が咲き誇る草原、風に揺れる草むらに絡みついた黄色いリボン
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg" width="600" alt="風に揺れる黄色いリボンの動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13644)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **公開日:** Nov 7, 2026
+
+---
+### 女性オプティマス プライム サイバーパンク 雨のシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 雨に濡れた街を歩く女性版オプティマスプライムとネオンの反射を描いた、シネマティックなサイバーパンクシーンのGrok Imagineプロンプト。
+
+#### 📝 プロンプト
+
+```
+女性の Optimus が、雨に濡れた未来都市をゆっくりと歩き進みます。ネオンの反射光が彼女の装甲の上を滑るように動き、何百台ものロボット車両が足を止め、自らのリーダーを見つめています。
+
+映像は、映画のようなハイコントラストのサイバーパンクスタイルで描かれ、濡れたアスファルト、輝くネオンサイン、そして降り続く雨筋が画面を彩ります。
+
+カメラはローアングルのトラッキングショットで背後から彼女をゆっくりと追いかけ、その後パンしながら上昇してミディアムワイドショットへと移行し、路上に立ち並んで停止したロボット車両群を映し出します。
+
+サウンドは、金属に叩きつける激しい雨音、足取りから響く低く機械的な駆動音、次第に静寂へと溶けていく遠くの交通音、そして深く重厚なアンビエントスコアで構成されています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="女性オプティマス プライム サイバーパンク 雨のシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13645)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **公開日:** Nov 6, 2026
+
+---
 ### トラックが巨大ロボットに変形
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2651,44 +2695,6 @@ Steampunk クチュールとシネマティックな幻想の融合。
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **公開日:** Oct 29, 2026
 
 ---
-### 犬のおばけ仮装 トリック・オア・トリート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 犬が立ち上がり、おばけの仮装をしてトリック・オア・トリートに出かける動画を作成します。
-
-#### 📝 プロンプト
-
-```
-この写真の犬を起こして、自分でハロウィンのゴースト衣装を作らせて、それを着てトリック・オア・トリートに行かせてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="犬のおばけ仮装 トリック・オア・トリート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13205)**
-
-**作者:** [Rawrsteel](https://x.com/rawrsteel88) | **ソース:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **公開日:** Oct 28, 2026
-
----
-### クリムト風 吸血鬼伯爵夫人アート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 月光に照らされた庭園で、金色のガウンと蝙蝠の翼のようなマントをまとった蒼白な吸血鬼伯爵夫人を描く、グスタフ・クリムト風の画像生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-グスタフ・クリムトの金箔画、螺旋モザイクのドレスを纏った青白い吸血鬼の伯爵夫人、深紅の [bat-wing cloak] 、赤い薔薇が咲き誇る月明かりの庭園、銀色
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg" width="600" alt="クリムト風 吸血鬼伯爵夫人アート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13264)**
-
-**作者:** [Lid Cracker](https://x.com/LidCracker) | **ソース:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **公開日:** Oct 28, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2750,6 +2756,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-07T05:52:27.184Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-07T15:04:36.145Z</sub>
 
 </div>

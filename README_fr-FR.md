@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3352** |
+| 📝 Total Prompts | **3354** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-07** |
 
@@ -189,6 +189,50 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Vidéo de Ruban Jaune Soufflé par le Vent
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt vidéo pour Grok Imagine mettant en scène un ruban jaune flottant au vent sur l'herbe sous un ciel bleu.
+
+#### 📝 Prompt
+
+```
+ciel bleu éclatant, herbe parsemée de fleurs, ruban jaune pris dans l'herbe et flottant au vent
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg" width="600" alt="Vidéo de Ruban Jaune Soufflé par le Vent">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13644)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **Published:** Nov 7, 2026
+
+---
+### Scène Cyberpunk Pluvieuse avec Optimus Féminin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt Grok Imagine pour une scène cyberpunk cinématographique mettant en vedette une Optimus Prime féminine marchant dans des rues détrempées par la pluie, avec des reflets néon.
+
+#### 📝 Prompt
+
+```
+Une Optimus féminine avance lentement dans une métropole futuriste détrempée par la pluie. Les reflets des néons glissent sur son armure tandis que des centaines de véhicules robotisés s'immobilisent pour observer leur leader.
+
+L'image adopte un style cyberpunk cinématographique à fort contraste : asphalte luisant, enseignes au néon éclatantes et traînées de pluie ininterrompues.
+
+La caméra effectue un travelling en contre-plongée qui la suit lentement de dos, puis pivote et s'élève vers un plan moyen large révélant les véhicules robotisés arrêtés qui bordent les rues.
+
+La bande-son mêle le crépitement de la pluie battante sur le métal, le sourd bourdonnement mécanique de ses pas, le bruit lointain de la circulation qui s'éteint peu à peu dans le silence, et une nappe ambiante profonde et résonante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="Scène Cyberpunk Pluvieuse avec Optimus Féminin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
+
+---
 ### Camion se transformant en robot géant
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2639,44 +2683,6 @@ Préserver un rendu purement photoréaliste des matériaux (métaux brossés, ve
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
 
 ---
-### Costume de fantôme pour chien : Trick-or-Treat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Génère une vidéo d'un chien qui se lève, confectionne un costume de fantôme et part faire du « trick-or-treat ».
-
-#### 📝 Prompt
-
-```
-Fais en sorte que le chien sur cette photo se lève, fabrique son propre costume de fantôme, l'enfile et parte récolter des bonbons pour Halloween.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="Costume de fantôme pour chien : Trick-or-Treat">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13205)**
-
-**Author:** [Rawrsteel](https://x.com/rawrsteel88) | **Source:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **Published:** Oct 28, 2026
-
----
-### Art de Comtesse Vampire au Style Klimt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt pour générer une image dans le style de Gustav Klimt, représentant une comtesse vampire pâle vêtue d'une robe dorée et d'un manteau à ailes de chauve-souris dans un jardin éclairé par la lune.
-
-#### 📝 Prompt
-
-```
-Peinture à la feuille d'or de Gustav Klimt, pâle comtesse vampire vêtue d'une robe en mosaïque spiralée, [cape ailes de chauve-souris] cramoisie, jardin de roses rouges baigné de clair de lune, argent
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg" width="600" alt="Art de Comtesse Vampire au Style Klimt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13264)**
-
-**Author:** [Lid Cracker](https://x.com/LidCracker) | **Source:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **Published:** Oct 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2738,6 +2744,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T05:52:37.414Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T15:04:44.217Z</sub>
 
 </div>

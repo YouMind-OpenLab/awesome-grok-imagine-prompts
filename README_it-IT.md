@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3352** |
+| 📝 Total Prompts | **3354** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-07** |
 
@@ -189,6 +189,50 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Video del Nastro Giallo Svolazzante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video per Grok Imagine che mostra un nastro giallo che svolazza nel vento sull'erba sotto un cielo azzurro.
+
+#### 📝 Prompt
+
+```
+cielo azzurro e luminoso, prato fiorito, un nastro giallo impigliato nell'erba che sventola al vento
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg" width="600" alt="Video del Nastro Giallo Svolazzante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13644)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **Published:** Nov 7, 2026
+
+---
+### Scena Cyberpunk Femminile di Optimus sotto la Pioggia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt Grok Imagine per una scena cyberpunk cinematografica con un Optimus Prime femminile che cammina per strade bagnate dalla pioggia, con riflessi al neon.
+
+#### 📝 Prompt
+
+```
+Optimus femminile cammina lentamente attraverso una metropoli futuristica sferzata dalla pioggia. I riflessi al neon scivolano sulla sua armatura mentre centinaia di veicoli robotici si fermano a osservare la loro leader.
+
+Le immagini restituiscono un'estetica cyberpunk cinematografica e ad alto contrasto, con asfalto bagnato, insegne al neon luminose e scie di pioggia continue.
+
+La telecamera utilizza una carrellata dal basso che la segue lentamente da dietro, per poi ruotare e sollevarsi in un campo medio-lungo che rivela i veicoli robotici fermi allineati lungo le strade.
+
+Il sonoro comprende il rumore della pioggia battente sul metallo, il profondo ronzio meccanico dei suoi passi, il traffico in lontananza che sfuma nel silenzio e una colonna sonora ambientale profonda e risonante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="Scena Cyberpunk Femminile di Optimus sotto la Pioggia">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
+
+---
 ### Camion che si trasforma in un robot gigante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2641,44 +2685,6 @@ Preserva un rendering puramente fotorealistico dei materiali (metalli spazzolati
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
 
 ---
-### Costume da Fantasma per Cani: Dolcetto o Scherzetto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera un video di un cane che si alza, crea un costume da fantasma e va a fare "dolcetto o scherzetto".
-
-#### 📝 Prompt
-
-```
-Fai alzare il cane in questa immagine, fagli creare il suo costume da fantasma, poi faglielo indossare e mandalo a fare dolcetto o scherzetto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="Costume da Fantasma per Cani: Dolcetto o Scherzetto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13205)**
-
-**Author:** [Rawrsteel](https://x.com/rawrsteel88) | **Source:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **Published:** Oct 28, 2026
-
----
-### Arte della Contessa Vampira in Stile Klimt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per generare un'immagine nello stile di Gustav Klimt, raffigurante una pallida contessa vampira in un abito dorato e mantello ad ali di pipistrello in un giardino illuminato dalla luna.
-
-#### 📝 Prompt
-
-```
-Dipinto a foglia d'oro di Gustav Klimt, pallida contessa vampira in un abito a mosaico a spirale, [mantello ad ali di pipistrello] cremisi, giardino di rose rosse al chiaro di luna, argento
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg" width="600" alt="Arte della Contessa Vampira in Stile Klimt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13264)**
-
-**Author:** [Lid Cracker](https://x.com/LidCracker) | **Source:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **Published:** Oct 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2740,6 +2746,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T05:52:38.341Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T15:04:45.263Z</sub>
 
 </div>

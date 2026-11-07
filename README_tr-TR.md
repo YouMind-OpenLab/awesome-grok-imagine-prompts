@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3352** |
+| 📝 Total Prompts | **3354** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-07** |
 
@@ -189,6 +189,50 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Rüzgârda Uçuşan Sarı Şerit Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için mavi gökyüzü altında çimenlerin üzerinde rüzgârda uçuşan sarı bir şeridi betimleyen video istemi.
+
+#### 📝 Prompt
+
+```
+berrak mavi gökyüzü, çiçekli çimenler, rüzgârda savrularak otlara takılmış sarı kurdele
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg" width="600" alt="Rüzgârda Uçuşan Sarı Şerit Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13644)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **Published:** Nov 7, 2026
+
+---
+### Kadın Optimus Cyberpunk Yağmurlu Sahne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Islak sokaklarda neon yansımaları eşliğinde yürüyen kadın Optimus Prime'ı konu alan sinematik bir siberpunk sahnesi için Grok Imagine istemi.
+
+#### 📝 Prompt
+
+```
+Kadın Optimus, yağmurdan sırılsıklam olmuş fütüristik bir metropolde ağır adımlarla ilerliyor. Yüzlerce robot araç durup liderlerini izlerken neon yansımaları zırhının üzerinde geziniyor.
+
+Görseller; ıslak asfalt, parlayan neon tabelalar ve kesintisiz yağan yağmur damlalarıyla sinematik, yüksek kontrastlı bir cyberpunk tarzı sunuyor.
+
+Kamera, onu arkadan yavaşça takip eden alçak açılı bir kaydırma çekimi kullanıyor; ardından panoramik hareketle yükselerek sokakları kaplayan durmuş robot araçları gözler önüne seren orta genişlikte bir plana geçiyor.
+
+Ses tasarımında metale çarpan şiddetli yağmurun sesi, adımlarının çıkardığı boğuk mekanik uğultu, sessizliğe karışarak uzaklaşan trafik sesleri ve derin, yankılanan bir ambient müzik yer alıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="Kadın Optimus Cyberpunk Yağmurlu Sahne">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
+
+---
 ### Kamyon Dev Bir Robota Dönüşüyor
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2641,44 +2685,6 @@ Malzemelerin (fırçalanmış metaller, cam, enerji alanları) saf fotogerçekç
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
 
 ---
-### Köpek Hayalet Kostümü Cadılar Bayramı Şeker Avı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir köpeğin ayağa kalkıp hayalet kostümü giydiği ve cadılar bayramında şeker avına çıktığı bir video oluşturur.
-
-#### 📝 Prompt
-
-```
-Bu fotoğraftaki köpek kalksın, kendi hayalet kostümünü hazırlasın, sonra onu giyip kapı kapı dolaşıp şeker toplasın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="Köpek Hayalet Kostümü Cadılar Bayramı Şeker Avı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13205)**
-
-**Author:** [Rawrsteel](https://x.com/rawrsteel88) | **Source:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **Published:** Oct 28, 2026
-
----
-### Klimt Tarzı Vampir Kontes Sanatı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ay ışığındaki bir bahçede, altın elbise ve yarasa kanatlı pelerin giyen solgun bir vampir kontesi tasvir eden Gustav Klimt tarzında görsel üretmek için bir istem.
-
-#### 📝 Prompt
-
-```
-Gustav Klimt altın varak tablosu, sarmal mozaik elbiseli solgun vampir kontes, kızıl [yarasa kanatlı pelerin], kırmızı güllerle dolu ay ışığı altında bir bahçe, gümüş
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg" width="600" alt="Klimt Tarzı Vampir Kontes Sanatı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13264)**
-
-**Author:** [Lid Cracker](https://x.com/LidCracker) | **Source:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **Published:** Oct 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2740,6 +2746,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T05:52:41.827Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T15:04:48.499Z</sub>
 
 </div>

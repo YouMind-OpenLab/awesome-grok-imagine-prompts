@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3352** |
+| 📝 Total Prompts | **3354** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-07** |
 
@@ -189,6 +189,50 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### हवा में लहराता पीला रिबन वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वीडियो प्रॉम्प्ट जिसमें नीले आसमान के नीचे हरी घास पर हवा में लहराता हुआ पीला रिबन दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+चमकता नीला आसमान, फूलों से सजी घास, और हवा में लहराती घास में उलझी पीली रिबन
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg" width="600" alt="हवा में लहराता पीला रिबन वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13644)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **Published:** Nov 7, 2026
+
+---
+### महिला ऑप्टिमस साइबरपंक बारिश का दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई साइबरपंक दृश्य के लिए Grok Imagine प्रॉम्प्ट जिसमें एक महिला ऑप्टिमस प्राइम नियोन प्रतिबिंबों वाले बारिश से भीगे सड़कों पर चलती हुई दिखाई दे रही हैं।
+
+#### 📝 Prompt
+
+```
+Female Optimus बारिश से भीगी एक भविष्यवादी महानगर में धीरे-धीरे चलती है। उनके आर्मर पर नियॉन लाइट्स की झलक चमक रही है, जबकि सैकड़ों रोबोटिक वाहन रुककर अपने लीडर को देख रहे हैं।
+
+यह विज़ुअल्स एक सिनेमाई, हाई-कंट्रास्ट साइबरपंक स्टाइल पेश करता है — जिसमें भीगी सड़कें, चमकते नियॉन साइन और लगातार गिरती बारिश की बूँदें नज़र आती हैं।
+
+कैमरा एक लो-एंगल ट्रैकिंग शॉट का इस्तेमाल करता है जो पीछे से उन्हें धीरे-धीरे फॉलो करता है, फिर पैन करके ऊपर उठता है और मीडियम वाइड शॉट में बदल जाता है, जहाँ सड़कों के किनारे खड़े रोबोटिक वाहनों की कतार दिखाई देती है।
+
+साउंड में मेटल पर गिरती तेज़ बारिश की आवाज़, उनके कदमों की हल्की मैकेनिकल गुंज, दूर जाती ट्रैफिक की आवाज़ जो धीरे-धीरे खामोशी में बदल जाती है, और एक गहरा, गूंजता हुआ एम्बिएंट बैकग्राउंड स्कोर शामिल है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="महिला ऑप्टिमस साइबरपंक बारिश का दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
+
+---
 ### ट्रक का विशाल रोबोट में रूपांतरण
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2644,44 +2688,6 @@ Little Red Riding Hood से प्रेरित एक युवती क�
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
 
 ---
-### कुत्ते का भूत कॉस्ट्यूम ट्रिक-ऑर-ट्रीट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक कुत्ते के उठने, भूत का कॉस्ट्यूम बनाने और ट्रिक-ऑर-ट्रीट करने का वीडियो बनाता है।
-
-#### 📝 Prompt
-
-```
-इस तस्वीर वाले कुत्ते को उठाओ, उसे अपना भूतिया कॉस्ट्यूम खुद बनवाओ, फिर उसे पहनकर trick-or-treating के लिए भेज दो।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="कुत्ते का भूत कॉस्ट्यूम ट्रिक-ऑर-ट्रीट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13205)**
-
-**Author:** [Rawrsteel](https://x.com/rawrsteel88) | **Source:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **Published:** Oct 28, 2026
-
----
-### क्लिम्ट शैली में वैम्पायर काउंटेस कला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गुस्ताव क्लिम्ट की शैली में एक छवि उत्पन्न करने के लिए एक प्रॉम्प्ट, जिसमें सोने के गाउन और चमगादड़-पंख वाले लबादे में एक पीली वैम्पायर काउंटेस चाँदनी बगीचे में दिखाई देती है।
-
-#### 📝 Prompt
-
-```
-Gustav Klimt की गोल्ड-लीफ पेंटिंग, सर्पिल-मोज़ेक गाउन में पीली वैम्पायर काउंटेस, गहरे लाल रंग का [bat-wing cloak], लाल गुलाबों से सजा चाँदनी में नहाया बगीचा, चाँदी
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg" width="600" alt="क्लिम्ट शैली में वैम्पायर काउंटेस कला">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13264)**
-
-**Author:** [Lid Cracker](https://x.com/LidCracker) | **Source:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **Published:** Oct 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2743,6 +2749,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T05:52:32.830Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T15:04:40.320Z</sub>
 
 </div>

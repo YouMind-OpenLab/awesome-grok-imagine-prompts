@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3352** |
+| 📝 총 프롬프트 수 | **3354** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-11-07** |
 
@@ -189,6 +189,50 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 바람에 날리는 노란 리본 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 파란 하늘 아래 초원에서 바람에 나부끼는 노란 리본을 묘사한 Grok Imagine용 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+맑고 푸른 하늘, 꽃이 핀 풀밭, 바람에 날려 풀숲에 걸린 노란 리본
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg" width="600" alt="바람에 날리는 노란 리본 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13644)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **게시일:** Nov 7, 2026
+
+---
+### 여성 옵티머스 사이버펑크 비 오는 거리 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 네온 반사가 빛나는 비에 젖은 거리를 걷는 여성 옵티머스 프라임을 담은 시네마틱 사이버펑크 장면을 위한 Grok Imagine 프롬프트.
+
+#### 📝 프롬프트
+
+```
+여성형 Optimus 가 빗물에 흠뻑 젖은 미래형 대도시를 천천히 걸어갑니다. 수백 대의 로봇 차량이 멈춰 서서 자신들의 리더를 지켜보는 가운데, 네온 불빛이 그녀의 갑옷 위로 반사되어 흘러갑니다.
+
+영상은 젖은 아스팔트와 빛나는 네온사인, 끊임없이 쏟아지는 빗줄기를 담아내며 영화적이고 대비가 강렬한 사이버펑크 스타일을 연출합니다.
+
+카메라는 로우 앵글 트래킹 숏으로 뒤에서 그녀를 천천히 따라가다가, 패닝하며 상승해 미디엄 와이드 숏으로 전환되어 거리를 가득 메운 채 멈춰 선 로봇 차량들을 드러냅니다.
+
+사운드에는 금속 위로 세차게 내리꽂히는 빗소리, 발걸음에서 울리는 낮고 기계적인 웅웅거림, 점차 잦아들며 정적으로 사라지는 먼 곳의 교통 소음, 그리고 깊고 묵직하게 울려 퍼지는 앰비언트 스코어가 담겨 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="여성 옵티머스 사이버펑크 비 오는 거리 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13645)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **게시일:** Nov 6, 2026
+
+---
 ### 거대 로봇으로 변신하는 트럭
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2642,44 +2686,6 @@ John Berkey 스타일의 우주 드레드노트. 세월의 흔적과 전투 상�
 **작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **게시일:** Oct 29, 2026
 
 ---
-### 강아지 유령 코스프레 트릭 오어 트릿
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 강아지가 일어나서 유령 의상을 만들고 트릭 오어 트릿을 하러 가는 영상을 생성합니다.
-
-#### 📝 프롬프트
-
-```
-이 사진 속 강아지가 직접 일어나서 유령 코스튬을 만들고, 그걸 입고 나가서 Trick-or-treating 을 하게 해줘
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="강아지 유령 코스프레 트릭 오어 트릿">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13205)**
-
-**작성자:** [Rawrsteel](https://x.com/rawrsteel88) | **출처:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **게시일:** Oct 28, 2026
-
----
-### 클림트 스타일의 뱀파이어 백작부인 아트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 달빛이 비치는 정원에서 금색 드레스와 박쥐 날개 망토를 입은 창백한 뱀파이어 백작부인을 구스타프 클림트의 스타일로 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-구스타프 클림트(Gustav Klimt)의 금박 회화, 나선형 모자이크 드레스를 입은 창백한 뱀파이어 백작부인, 진홍빛 [박쥐 날개 망토], 붉은 장미가 만발한 달빛 정원, 은빛
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg" width="600" alt="클림트 스타일의 뱀파이어 백작부인 아트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13264)**
-
-**작성자:** [Lid Cracker](https://x.com/LidCracker) | **출처:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **게시일:** Oct 28, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2741,6 +2747,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-07T05:52:29.762Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-07T15:04:37.107Z</sub>
 
 </div>

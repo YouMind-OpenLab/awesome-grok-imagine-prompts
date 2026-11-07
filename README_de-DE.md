@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3352** |
+| 📝 Total Prompts | **3354** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-07** |
 
@@ -189,6 +189,50 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Gelbes Band im Wind Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt für Grok Imagine mit einem gelben Band, das im Wind auf dem Gras unter blauem Himmel weht.
+
+#### 📝 Prompt
+
+```
+Strahlend blauer Himmel, Gras mit Blumen, ein gelbes Band, das sich im Gras verfangen hat und im Wind weht
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg" width="600" alt="Gelbes Band im Wind Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13644)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **Published:** Nov 7, 2026
+
+---
+### Weiblicher Optimus Cyberpunk Regenszene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Grok Imagine Prompt für eine cineastische Cyberpunk-Szene mit einem weiblichen Optimus Prime, der durch regennasse Straßen mit Neonreflexionen geht.
+
+#### 📝 Prompt
+
+```
+Eine weibliche Optimus schreitet langsam durch eine regennasse Metropole der Zukunft. Neonreflexionen gleiten über ihre Rüstung, während Hunderte von Roboterfahrzeugen anhalten und ihrer Anführerin nachblicken.
+
+Die Bilder zeigen einen cineastischen Cyberpunk-Stil mit hohem Kontrast: nasser Asphalt, leuchtende Neonschilder und unablässig fallende Regenschlieren.
+
+Die Kamera nutzt eine tiefe Verfolgungsfahrt, die ihr langsam von hinten folgt, dann schwenkt und sich zu einer Halbtotale erhebt, in der die am Straßenrand aufgereihten, stillstehenden Roboterfahrzeuge sichtbar werden.
+
+Der Ton umfasst prasselnden Regen auf Metall, das tiefe mechanische Summen ihrer Schritte, fernen Verkehr, der in Stille verklingt, sowie einen tiefen, resonanten Ambient-Soundtrack.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="Weiblicher Optimus Cyberpunk Regenszene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
+
+---
 ### LKW verwandelt sich in einen riesigen Roboter
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2639,44 +2683,6 @@ Bewahre das rein fotorealistische Rendering der Materialien (gebürstetes Metall
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
 
 ---
-### Hund im Geisterkostüm: Süßes oder Saures
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Erstellt ein Video, in dem ein Hund aufsteht, ein Geisterkostüm anlegt und zu Halloween Süßes-oder-Saures-Runden macht.
-
-#### 📝 Prompt
-
-```
-Lass den Hund auf diesem Bild aufstehen, sich sein eigenes Geisterkostüm basteln, es anziehen und dann Süßes oder Saures spielen gehen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="Hund im Geisterkostüm: Süßes oder Saures">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13205)**
-
-**Author:** [Rawrsteel](https://x.com/rawrsteel88) | **Source:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **Published:** Oct 28, 2026
-
----
-### Klimt-Stil: Kunst der Vampirgräfin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines Bildes im Stil von Gustav Klimt, das eine blasse Vampirgräfin in einem goldenen Kleid und einem Fledermausflügel-Umhang in einem mondbeleuchteten Garten zeigt.
-
-#### 📝 Prompt
-
-```
-Gustav Klimt Blattgold-Gemälde, blasse Vampirgräfin in einem Spiral-Mosaik-Kleid, purpurroter [Fledermausflügel-Umhang], mondbeschienener Garten mit roten Rosen, Silber
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg" width="600" alt="Klimt-Stil: Kunst der Vampirgräfin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13264)**
-
-**Author:** [Lid Cracker](https://x.com/LidCracker) | **Source:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **Published:** Oct 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2738,6 +2744,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T05:52:36.293Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T15:04:43.133Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3352** |
+| 📝 Total Prompts | **3354** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-07** |
 
@@ -189,6 +189,50 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Video Dải Ruy Băng Vàng Bay Trong Gió
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc video cho Grok Imagine với hình ảnh dải ruy băng vàng bay trong gió trên bãi cỏ dưới bầu trời xanh.
+
+#### 📝 Prompt
+
+```
+Bầu trời xanh trong vắt, thảm cỏ điểm xuyết những đóa hoa, dải ruy băng vàng vướng trên ngọn cỏ bay phấp phới trong gió
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg" width="600" alt="Video Dải Ruy Băng Vàng Bay Trong Gió">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13644)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **Published:** Nov 7, 2026
+
+---
+### Cảnh Cyberpunk Nữ Optimus Trong Mưa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt Grok Imagine cho một cảnh cyberpunk điện ảnh, với hình ảnh nữ Optimus Prime bước đi trên những con phố ướt đẫm mưa và phản chiếu ánh đèn neon.
+
+#### 📝 Prompt
+
+```
+Nữ Optimus chậm rãi bước qua một siêu đô thị tương lai ướt đẫm trong mưa. Ánh đèn neon phản chiếu lướt trên lớp giáp của cô khi hàng trăm phương tiện robot dừng lại, dõi theo vị thủ lĩnh của mình.
+
+Phần hình ảnh mang đậm phong cách cyberpunk điện ảnh với độ tương phản cao: mặt đường nhựa ướt nhẹp, những biển hiệu neon rực sáng và vệt mưa rơi không ngớt.
+
+Máy quay sử dụng góc máy tracking thấp, từ từ bám theo cô từ phía sau, rồi lia và nâng dần lên cỡ cảnh trung toàn (medium wide shot), để lộ ra hàng loạt phương tiện robot đang nối đuôi nhau đỗ kín hai bên đường.
+
+Âm thanh bao gồm tiếng mưa nặng hạt gõ xuống kim loại, tiếng động cơ trầm đục vang lên theo từng bước chân của cô, tiếng xe cộ xa xăm nhạt dần vào thinh lặng, cùng bản nhạc nền ambient trầm bổng đầy cộng hưởng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="Cảnh Cyberpunk Nữ Optimus Trong Mưa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
+
+---
 ### Xe Tải Biến Hình Thành Robot Khổng Lồ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2636,44 +2680,6 @@ Giữ nguyên phong cách kết xuất photorealistic thuần túy cho các ch�
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
 
 ---
-### Trang phục ma cho chó đi xin kẹo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo video về một chú chó đứng dậy, mặc trang phục ma và đi xin kẹo trong lễ Halloween.
-
-#### 📝 Prompt
-
-```
-Hãy làm cho chú chó trong bức ảnh này đứng dậy, tự may một bộ trang phục ma rồi mặc vào và đi xin kẹo Halloween nhé.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="Trang phục ma cho chó đi xin kẹo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13205)**
-
-**Author:** [Rawrsteel](https://x.com/rawrsteel88) | **Source:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **Published:** Oct 28, 2026
-
----
-### Tranh Nữ Bá Tước Ma Cà Rồng Phong Cách Klimt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo hình ảnh theo phong cách Gustav Klimt, khắc họa một nữ bá tước ma cà rồng da trắng bệch trong chiếc váy vàng và áo choàng cánh dơi giữa khu vườn dưới ánh trăng.
-
-#### 📝 Prompt
-
-```
-Tranh dát vàng lá phong cách Gustav Klimt, nữ bá tước ma cà rồng da nhợt nhạt trong bộ đầm khảm mosaic xoắn ốc, [áo choàng cánh dơi] đỏ thẫm, khu vườn hoa hồng đỏ ngập ánh trăng, bạc
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg" width="600" alt="Tranh Nữ Bá Tước Ma Cà Rồng Phong Cách Klimt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13264)**
-
-**Author:** [Lid Cracker](https://x.com/LidCracker) | **Source:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **Published:** Oct 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2735,6 +2741,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T05:52:31.810Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T15:04:39.229Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3352** |
+| 📝 Total Prompts | **3354** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-07** |
 
@@ -189,11 +189,55 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Truck Transforming into Giant Robot
+### Wind Blown Yellow Ribbon Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex video generation prompt using reference images to create a continuous shot of a heavy-duty truck racing and transforming into an Optimus-style warrior.
+> A video prompt for Grok Imagine featuring a yellow ribbon blowing in the wind on grass under a blue sky.
+
+#### 📝 Prompt
+
+```
+bright blue sky, grass with flowers, yellow ribbon caught in grass blowing in the wind
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg" width="600" alt="Wind Blown Yellow Ribbon Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13644)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **Published:** Nov 7, 2026
+
+---
+### Female Optimus Cyberpunk Rain Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Grok Imagine prompt for a cinematic cyberpunk scene featuring a female Optimus Prime walking through rain-soaked streets with neon reflections.
+
+#### 📝 Prompt
+
+```
+Female Optimus walks slowly through a rain-soaked futuristic metropolis. Neon reflections move across her armor as hundreds of robotic vehicles stop and watch their leader.
+
+The visuals present a cinematic, high-contrast cyberpunk style with wet asphalt, glowing neon signs, and continuous rain streaks.
+
+The camera uses a low-angle tracking shot that slowly follows her from behind, then pans and rises to a medium wide shot revealing the stopped robotic vehicles lining the streets.
+
+The sound includes heavy rain on metal, the low mechanical hum of her footsteps, distant traffic fading into silence, and a deep resonant ambient score.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="Female Optimus Cyberpunk Rain Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
+
+---
+### Grok Imagine Prompt: Truck Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Detailed structured prompt for Grok Imagine video generation involving a futuristic truck transforming into an Optimus-style warrior using reference images.
 
 #### 📝 Prompt
 
@@ -215,9 +259,11 @@ At the end: the giant warrior stands tall and stable on the highway facing the v
 
 [Maintain Consistency]
 Keep the exact red-and-blue color scheme, flame/graffiti markings, chrome details, and mechanical aesthetics continuous from truck to robot. Preserve the single-entity identity so the warrior is unmistakably the transformed truck. Maintain the mountain highway environment, golden-hour lighting, dramatic cloudy sky, and realistic scale of the transformation. All mechanical movements remain precise, heavy, and physically believable with no abrupt jumps or missing parts.
+
+Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118521388332150784/img/F14J6-9cAMYnqKLX.jpg" width="600" alt="Truck Transforming into Giant Robot">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118521388332150784/img/F14J6-9cAMYnqKLX.jpg" width="600" alt="Grok Imagine Prompt: Truck Transformation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13600)**
 
@@ -473,11 +519,11 @@ Cut Composition (Total 8 seconds / Switch every 4 seconds)
 **Author:** [はる](https://x.com/HaluAIArt) | **Source:** [Link](https://x.com/HaluAIArt/status/2118184025399378348) | **Published:** Nov 5, 2026
 
 ---
-### Stick to Police Car Transformation Video
+### Woman Transforms Stick to Police Car Chase
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a continuous transformation video where a stick becomes a police car which is then driven to catch a thief.
+> A detailed video generation prompt for Grok Imagine describing a woman dropping a stick that transforms into a police car, which she then uses to catch a thief.
 
 #### 📝 Prompt
 
@@ -498,7 +544,7 @@ Keep the woman’s identity, clothing, and appearance consistent throughout. Mai
 Disclaimer: This video is an AI-generated fictional sci-fi concept created for entertainment purposes only.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="Stick to Police Car Transformation Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118157848110829568/img/wq812izbBA7yJfHF.jpg" width="600" alt="Woman Transforms Stick to Police Car Chase">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13549)**
 
@@ -590,11 +636,11 @@ Generate me a new video using this prompt: "A car driving" with the following se
 **Author:** [Joseph Dixon](https://x.com/JosephDixo60750) | **Source:** [Link](https://x.com/JosephDixo60750/status/2117961380464889953) | **Published:** Nov 4, 2026
 
 ---
-### Laser to Crystal Optimus
+### Laser Eye Crystal Optimus Evolution
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt for Grok Imagine where eye lasers trigger a transformation into a crystal-structure Optimus Prime.
+> A complex Grok Imagine prompt describing a character firing laser beams from her eyes that trigger an evolution reaction, crystallizing into a crystal-structure Optimus Prime.
 
 #### 📝 Prompt
 
@@ -607,12 +653,9 @@ At the start she stands centered, eyes locked forward, body already charged with
 
 [Maintain Consistency]
 Keep her identity, eye-laser emission, and the exact evolution-to-crystal process stable; the only final entity created is the crystal-structure Optimus, with no added characters or alternate outcomes.
-
-Disclaimer: 
-This video is an AI-generated fictional sci-fi concept created for entertainment purposes only. The futuristic transformations  and special effects are imaginary and do not represent real technology or events.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="Laser to Crystal Optimus">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117869075825332225/img/edm2usuXlYUr39lp.jpg" width="600" alt="Laser Eye Crystal Optimus Evolution">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13516)**
 
@@ -878,7 +921,7 @@ Keep the woman’s identity, appearance, clothing, and count unchanged throughou
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Complex transformation prompt where ordinary paper evolves into a SpaceX Falcon 9 rocket and lifts off, generated by Grok Imagine.
+> A detailed Grok Imagine prompt describing a continuous transformation sequence where a sheet of paper folds into origami and evolves into a launching SpaceX Falcon 9 rocket.
 
 #### 📝 Prompt
 
@@ -2634,44 +2677,6 @@ Preserve pure photorealistic rendering of materials (brushed metals, glass, ener
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
 
 ---
-### Dog Ghost Costume Trick-or-Treat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of a dog getting up, making a ghost costume, and going trick-or-treating.
-
-#### 📝 Prompt
-
-```
-Have the dog in this picture get up and make its own ghost costume and then put it on and go trick-or-treating
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="Dog Ghost Costume Trick-or-Treat">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13205)**
-
-**Author:** [Rawrsteel](https://x.com/rawrsteel88) | **Source:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **Published:** Oct 28, 2026
-
----
-### Klimt Style Vampire Countess Art
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating an image in the style of Gustav Klimt featuring a pale vampire countess in a gold gown and bat-wing cloak within a moonlit garden.
-
-#### 📝 Prompt
-
-```
-Gustav Klimt gold-leaf painting, pale vampire countess in a spiral-mosaic gown, crimson [bat-wing cloak], moonlit garden of red roses, silver
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg" width="600" alt="Klimt Style Vampire Countess Art">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13264)**
-
-**Author:** [Lid Cracker](https://x.com/LidCracker) | **Source:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **Published:** Oct 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2733,6 +2738,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T05:52:23.817Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T15:04:32.891Z</sub>
 
 </div>

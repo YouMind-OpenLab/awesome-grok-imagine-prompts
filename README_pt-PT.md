@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3352** |
+| 📝 Total Prompts | **3354** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-07** |
 
@@ -189,6 +189,50 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Vídeo de Fita Amarela ao Vento
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo para o Grok Imagine apresentando uma fita amarela balançando ao vento na grama sob um céu azul.
+
+#### 📝 Prompt
+
+```
+céu azul brilhante, relva com flores, fita amarela presa na erva a esvoaçar ao vento
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg" width="600" alt="Vídeo de Fita Amarela ao Vento">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13644)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **Published:** Nov 7, 2026
+
+---
+### Cena Cyberpunk Feminina da Optimus na Chuva
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt do Grok Imagine para uma cena cyberpunk cinematográfica, apresentando uma Optimus Prime feminina caminhando por ruas encharcadas de chuva com reflexos neon.
+
+#### 📝 Prompt
+
+```
+A Optimus feminina caminha lentamente por uma metrópole futurista encharcada pela chuva. Reflexos de néon deslizam pela sua armadura enquanto centenas de veículos robóticos param para observar a sua líder.
+
+O visual apresenta um estilo cyberpunk cinematográfico e de alto contraste, com asfalto molhado, letreiros de néon brilhantes e traços contínuos de chuva.
+
+A câmara utiliza um travelling em contra-mergulho que a segue lentamente pelas costas, fazendo depois uma panorâmica e subindo para um plano médio aberto que revela os veículos robóticos parados ao longo das ruas.
+
+O som inclui chuva forte a bater no metal, o zumbido mecânico grave dos seus passos, o trânsito distante a desvanecer-se no silêncio e uma banda sonora ambiente profunda e ressonante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="Cena Cyberpunk Feminina da Optimus na Chuva">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
+
+---
 ### Caminhão se Transforma em Robô Gigante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2641,44 +2685,6 @@ Preserve a renderização puramente fotorrealista dos materiais (metais escovado
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
 
 ---
-### Fantasia de Fantasma para Cachorro: Doces ou Travessuras
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gera um vídeo de um cachorro levantando, vestindo uma fantasia de fantasma e indo fazer 'doces ou travessuras'.
-
-#### 📝 Prompt
-
-```
-Faça o cachorro desta imagem se levantar, criar a própria fantasia de fantasma, vesti-la e sair para pedir doces no Halloween
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="Fantasia de Fantasma para Cachorro: Doces ou Travessuras">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13205)**
-
-**Author:** [Rawrsteel](https://x.com/rawrsteel88) | **Source:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **Published:** Oct 28, 2026
-
----
-### Arte da Condessa Vampira no Estilo Klimt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para gerar uma imagem no estilo de Gustav Klimt, retratando uma condessa vampira pálida vestindo um vestido dourado e uma capa com asas de morcego em um jardim iluminado pela lua.
-
-#### 📝 Prompt
-
-```
-Pintura em folha de ouro de Gustav Klimt, condessa vampira pálida num vestido de mosaico em espiral, [capa de asas de morcego] carmesim, jardim de rosas vermelhas ao luar, prata
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg" width="600" alt="Arte da Condessa Vampira no Estilo Klimt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13264)**
-
-**Author:** [Lid Cracker](https://x.com/LidCracker) | **Source:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **Published:** Oct 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2740,6 +2746,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T05:52:40.494Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T15:04:47.571Z</sub>
 
 </div>

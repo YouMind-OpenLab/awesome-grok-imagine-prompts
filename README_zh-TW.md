@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3352** |
+| 📝 提示詞總數 | **3354** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-11-07** |
 
@@ -189,6 +189,50 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 隨風飄揚的黃絲帶影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的影片提示，呈現藍天綠草間隨風飄揚的黃絲帶。
+
+#### 📝 提示詞
+
+```
+蔚藍的天空、開滿花朵的草地，一條黃絲帶纏在草叢間隨風飄揚
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg" width="600" alt="隨風飄揚的黃絲帶影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13644)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **發布時間:** Nov 7, 2026
+
+---
+### 女性 Optimus Prime 賽博龐克雨夜場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 提示詞，打造電影感十足的賽博龐克場景：女性版 Optimus Prime 穿行於雨水浸濕的街道，霓虹燈倒影交織。
+
+#### 📝 提示詞
+
+```
+女性版 Optimus 緩步穿行於大雨滂沱的未來都會。霓虹倒影在她身上的裝甲流轉閃爍，數百輛機器人車輛紛紛停下，靜靜注視著它們的領袖。
+
+畫面呈現出電影感十足的高對比賽博龐克風格：濕潤的柏油路面、閃耀的霓虹招牌，以及綿延不絕的雨絲。
+
+鏡頭採用低角度跟拍，從背後緩緩追隨她的步伐，隨後平移並逐漸拉高至中全景，展現出沿街停滿的機器人車隊。
+
+音效包含雨水重擊金屬的聲響、她腳步傳出的低沉機械運轉聲、遠處車流漸趨寂靜，以及深邃而充滿共鳴的環境配樂。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="女性 Optimus Prime 賽博龐克雨夜場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13645)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **發布時間:** Nov 6, 2026
+
+---
 ### 卡車變身巨型機器人
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2645,44 +2689,6 @@ John Berkey 風格的太空無畏艦，佈滿歲月痕跡與戰鬥傷疤，在�
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **發布時間:** Oct 29, 2026
 
 ---
-### 狗狗幽靈裝扮萬聖節討糖
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段影片，內容為狗狗起身製作幽靈服裝，並前往萬聖節「不給糖就搗蛋」。
-
-#### 📝 提示詞
-
-```
-讓這張圖片裡的狗狗站起來，自己動手做一套萬聖節鬼裝，接著穿上它去討糖果。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="狗狗幽靈裝扮萬聖節討糖">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13205)**
-
-**作者:** [Rawrsteel](https://x.com/rawrsteel88) | **來源:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **發布時間:** Oct 28, 2026
-
----
-### 克林姆風格吸血鬼女伯爵藝術
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成古斯塔夫·克林姆風格圖像的提示詞，描繪一位身著金色禮服與蝙蝠翼披風、面色蒼白的吸血鬼女伯爵，置身於月光下的花園中。
-
-#### 📝 提示詞
-
-```
-Gustav Klimt 金箔畫風，蒼白的女吸血鬼伯爵身穿螺旋馬賽克禮服，深紅色 [蝙蝠翼斗篷]，月光灑落的紅玫瑰花園，銀色
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg" width="600" alt="克林姆風格吸血鬼女伯爵藝術">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13264)**
-
-**作者:** [Lid Cracker](https://x.com/LidCracker) | **來源:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **發布時間:** Oct 28, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2744,6 +2750,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-07T05:52:25.940Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-07T15:04:35.080Z</sub>
 
 </div>

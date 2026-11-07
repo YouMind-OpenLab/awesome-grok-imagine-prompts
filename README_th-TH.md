@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3352** |
+| 📝 Total Prompts | **3354** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-07** |
 
@@ -189,6 +189,50 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### วิดีโอริบบิ้นสีเหลืองปลิวตามลม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งวิดีโอสำหรับ Grok Imagine ที่แสดงภาพริบบิ้นสีเหลืองปลิวไสวบนทุ่งหญ้าใต้ท้องฟ้าสีคราม
+
+#### 📝 Prompt
+
+```
+ท้องฟ้าสีฟ้าสดใส ทุ่งหญ้าที่แซมด้วยดอกไม้ และริบบิ้นสีเหลืองที่เกี่ยวพันอยู่กับยอดหญ้ากำลังปลิวไสวไปตามสายลม
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118934348334571520/img/QCbLeXA2bUs1ko4a.jpg" width="600" alt="วิดีโอริบบิ้นสีเหลืองปลิวตามลม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13644)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **Published:** Nov 7, 2026
+
+---
+### ฉากหญิง Optimus ในบรรยากาศไซเบอร์พังค์กลางสายฝน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ Grok Imagine สำหรับฉากไซเบอร์พังค์แบบภาพยนตร์ที่นำเสนอภาพ Optimus Prime หญิงเดินผ่านถนนเปียกฝนพร้อมแสงสะท้อนจากไฟนีออน
+
+#### 📝 Prompt
+
+```
+Optimus เวอร์ชันหญิงก้าวเดินอย่างเชื่องช้าผ่านมหานครแห่งอนาคตที่ชุ่มฉ่ำไปด้วยสายฝน แสงสะท้อนจากป้ายนีออนเคลื่อนตัววาววับไปทั่วชุดเกราะของเธอ ขณะที่พาหนะหุ่นยนต์นับร้อยคันหยุดนิ่งเพื่อเฝ้ามองผู้นำของพวกตน
+
+ภาพทั้งหมดถ่ายทอดสไตล์ไซเบอร์พังก์แบบภาพยนตร์ที่มีความเปรียบต่างสูง ทั้งพื้นแอสฟัลต์เปียกชื้น ป้ายไฟนีออนเรืองแสง และสายฝนที่โปรยปรายลงมาไม่ขาดสาย
+
+กล้องใช้มุมต่ำแบบ Tracking shot ค่อยๆ เคลื่อนตามเธอไปจากด้านหลัง ก่อนจะแพนและยกขึ้นเป็นช็อต Medium wide เผยให้เห็นขบวนพาหนะหุ่นยนต์ที่จอดเรียงรายอยู่เต็มสองฝั่งถนน
+
+ส่วนเสียงประกอบนั้นประกอบด้วยเสียงฝนตกกระหน่ำกระทบโลหะ เสียงฮัมเชิงกลทุ้มต่ำจากฝีเท้าของเธอ เสียงจราจรไกลๆ ที่ค่อยๆ จางหายไปในความเงียบงัน และดนตรีแอมเบียนต์บรรยากาศที่ดังก้องกังวานลึกซึ้ง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="ฉากหญิง Optimus ในบรรยากาศไซเบอร์พังค์กลางสายฝน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118658346840416611) | **Published:** Nov 6, 2026
+
+---
 ### รถบรรทุกแปลงร่างเป็นหุ่นยนต์ยักษ์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2646,44 +2690,6 @@ Grok Imagine challenge (@grok) นิยาย AI
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
 
 ---
-### ชุดผีสำหรับสุนัข Trick-or-Treat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สร้างวิดีโอของสุนัขที่ลุกขึ้น ทำชุดผี และออกไปขอขนมวันฮาโลวีน
-
-#### 📝 Prompt
-
-```
-ให้หมาในรูปนี้ลุกขึ้นมาทำชุดผีด้วยตัวเอง แล้วใส่ชุดนั้นออกไปเล่น trick-or-treating
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115577949667639296/img/4gtU6FKZ0p_xfJc9.jpg" width="600" alt="ชุดผีสำหรับสุนัข Trick-or-Treat">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13205)**
-
-**Author:** [Rawrsteel](https://x.com/rawrsteel88) | **Source:** [Link](https://x.com/rawrsteel88/status/2115577963358110032) | **Published:** Oct 28, 2026
-
----
-### ศิลปะแวมไพร์เคาน์เตสสไตล์คลิมท์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างภาพสไตล์กุสตาฟ คลิมท์ featuring เคาน์เตสแวมไพร์ผิวซีดในชุดเดรสสีทองและผ้าคลุมปีกค้างคาวภายในสวนแสงจันทร์
-
-#### 📝 Prompt
-
-```
-ภาพวาดทองคำเปลวสไตล์ Gustav Klimt, เคาน์เตสแวมไพร์ผิวซีดในชุดกระโปรงโมเสกลายก้นหอย, [เสื้อคลุมปีกค้างคาว] สีแดงเลือดนก, สวนกุหลาบแดงใต้แสงจันทร์, สีเงิน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115493748641550336/img/7cKvgLW2jx4vEQ1t.jpg" width="600" alt="ศิลปะแวมไพร์เคาน์เตสสไตล์คลิมท์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13264)**
-
-**Author:** [Lid Cracker](https://x.com/LidCracker) | **Source:** [Link](https://x.com/LidCracker/status/2115493850647003475) | **Published:** Oct 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2745,6 +2751,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T05:52:30.836Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T15:04:38.136Z</sub>
 
 </div>
