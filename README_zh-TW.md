@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3354** |
+| 📝 提示詞總數 | **3357** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-11-08** |
 
@@ -189,6 +189,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 霓虹武術女劍客提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 適用於 Grok Imagine 的提示詞，可變更服裝與髮色，並加入武術劍招動作。
+
+#### 📝 提示詞
+
+```
+把她的衣服改成螢光黃、頭髮改成綠色，再讓她揮舞手中的劍，做出幾個武術動作。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119231907724394497/img/wfoT3GsatWtlsjAW.jpg" width="600" alt="霓虹武術女劍客提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13673)**
+
+**作者:** [Herbert Krspyleg75 Joseph](https://x.com/Herbertkrspyleg) | **來源:** [Link](https://x.com/Herbertkrspyleg/status/2119232026230305214) | **發布時間:** Nov 8, 2026
+
+---
 ### 隨風飄揚的黃絲帶影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,55 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13644)**
 
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **發布時間:** Nov 7, 2026
+
+---
+### SpaceX 超越地球的蒙太奇
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段紀錄片風格的提示詞，用於 SpaceX 蒙太奇影片，呈現軌道前哨站、深空飛船，以及關於在群星間生活的動人旁白。
+
+#### 📝 提示詞
+
+```
+SpaceX – Beyond Earth
+一段充滿遠見的影像蒙太奇，呈現 SpaceX 的各項技術與人類探索者如何在地球之外開疆闢土——從軌道前哨站、深空飛行器，到人類在星際間建立的第一個永久據點。
+畫面採用電影級的高科技紀錄片風格：流線型的金屬硬體、地出（Earthrise）與浩瀚星海、SpaceX 俐落的黑白設計語彙、柔和的體積光，以及一種沉靜堅定又令人敬畏的氛圍。
+鏡頭運用大範圍的軌道跟拍、緩慢推近居住艙與載具的推軌鏡頭，以及輕柔的空中視角，突顯整體規模與推進的步伐。
+聲音部分包含沉穩且鼓舞人心的旁白，緩緩說出：「人類不再只是仰望星空，我們正在打造能在群星之間生活的技術。」背景層層交織著深沉的環境引擎低鳴、輕柔的推進器噴射聲，以及細膩而振奮人心的管弦配樂。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="SpaceX 超越地球的蒙太奇">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13675)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **發布時間:** Nov 7, 2026
+
+---
+### Optimus 從海中崛起
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影感的提示詞，描述 Optimus Prime 從暴風雨中湧現的海面崛起，水流順著他的裝甲傾瀉而下，閃電照亮整個場景。
+
+#### 📝 提示詞
+
+```
+[生成目標]
+生成一段連續影片，呈現狂風暴雨中一個巨大的金屬輪廓從深海升起：當 Optimus Prime 完全浮出水面、屹立於波浪之上時，海水自他的裝甲上傾瀉而下。
+
+[事件腳本]
+開場：畫面僅見漆黑的海面與猛烈的暴風雨，雨水與閃電交織在翻騰的黑色汪洋上。主要事件：一個巨大的金屬輪廓破水而出，穩步上升；海水如瀑布般從 Optimus Prime 裝甲的每一處關節與板塊大量流瀉。他持續攀升，直到整個上半身，最後是巍峨的全身完全脫離海面。結尾：Optimus Prime 已完全浮出並挺立於波濤洶湧的海洋之上，在閃電照亮的天空下，裝甲仍不斷淌著水流。
+
+[保持一致性]
+維持 Optimus Prime 的身分、金屬裝甲造型以及單一連續上升動作的穩定；全程保持深海場景、猛烈雷暴、傾瀉的水流與陰暗的暴風雨氛圍。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="Optimus 從海中崛起">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13674)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **發布時間:** Nov 6, 2026
 
 ---
 ### 女性 Optimus Prime 賽博龐克雨夜場景
@@ -272,7 +340,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video generation prompt describing a massive Optimus-like robot descending from clouds into a futuristic city with cinematic camera movements and sound design.
+> A detailed cinematic prompt for generating a video of a massive Optimus robot descending into a futuristic city with shockwaves and dynamic camera movements.
 
 #### 📝 提示詞
 
@@ -2614,81 +2682,6 @@ John Berkey 風格的太空無畏艦，佈滿歲月痕跡與戰鬥傷疤，在�
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2115680392078635134) | **發布時間:** Oct 29, 2026
 
 ---
-### 蒸汽龐克巴黎電影奇幻風
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於 Grok Imagine 的影片生成提示詞，打造結合電影奇幻元素的蒸汽龐克風格巴黎。
-
-#### 📝 提示詞
-
-```
-從未實現的未來巴黎。⚙️✨
-
-當蒸汽龐克高級訂製服，邂逅電影般的奇幻想像。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115650594216235008/img/bIXegfAGGdkXgsTl.jpg" width="600" alt="蒸汽龐克巴黎電影奇幻風">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13149)**
-
-**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **來源:** [Link](https://x.com/thesimaximalist/status/2115650658942783982) | **發布時間:** Oct 29, 2026
-
----
-### 燈籠變機械禮服轉換提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 適用於 Grok Imagine 的科幻風格轉換影片提示詞：描述燈籠掉落至女性腳部，觸發機械式機器人禮服的生成過程。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-生成一段連續且極具視覺衝擊力的變身影片。一盞燈籠掉落在她的腳上，並立刻開始將她轉化為一套機械機器人洋裝。
-
-[事件腳本]
-一開始，她站在原地，一盞傳統紙燈籠從上方落下，不偏不倚地砸在她的腳上。接觸的瞬間，燈籠碎裂並釋放出耀眼的光芒，變身過程隨即從撞擊點展開。金屬甲片、關節與機械結構迅速在腳部成形，接著沿著腿部、軀幹一路蔓延至手臂，將她原本的衣物徹底轉化為一套完整的機械機器人洋裝，配備分節式裝甲板、發光電路以及液壓般的機械細節。隨著最後幾塊甲片鎖定到位，她的姿態也轉變為更強悍、更具裝甲感的架勢，整件洋裝完全啟動，內部透出柔和的光暈。
-
-[保持一致性]
-全程維持同一個主體、僅有一盞燈籠且只落在腳上；變身過程為單向不可逆，必須精確從燈籠落下的那一刻開始，直到她完全被機械機器人洋裝包覆為止。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115641158994948096/img/kRKd-vzMhxTAyj4e.jpg" width="600" alt="燈籠變機械禮服轉換提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13147)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2115641431864098998) | **發布時間:** Oct 29, 2026
-
----
-### 電影感科幻太空站影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成寫實科幻影片的詳細提示詞，呈現太空船或軌道站點在體積光照明與鏡頭運動下緩緩入鏡的畫面。
-
-#### 📝 提示詞
-
-```
-[生成目標]
-生成一段純粹電影感且照片級寫實的科幻影片，呈現連貫且沉浸式的氛圍場景。
-
-[事件腳本]
-開場：在冰冷的星光下，展現遼闊空曠的宇宙虛空或未來主義巨型結構走廊。細微的粒子緩緩飄動，遠處可見點點星空。
-主要事件：科幻全景徐徐展開——巨大而流線型的太空船或軌道空間站緩緩進入畫面，全像投影介面與能量場亮起柔和光芒，體積光束穿透大氣薄霧或零重力塵埃。鏡頭以連續推軌的方式平穩向前移動，逐步揭示精密的金屬細節、反光表面與發光的推進系統。隨著色溫從深邃藍調悄然轉為空靈的青藍色，整體氛圍更顯深邃。
-結尾：畫面定格於寬廣壯闊的構圖，完整呈現整個科幻場景，並伴隨 lingering 的光軌與柔和的鏡頭光暈。
-
-[保持一致性]
-維持材質（拉絲金屬、玻璃、能量場）的純照片級寫實渲染效果，採用一致的冷調電影光影；除非必要，否則不出現任何角色，並確保科幻世界的空間比例穩定不變。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115629877210607616/img/B0lZcaX1JeaTGu10.jpg" width="600" alt="電影感科幻太空站影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=13145)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **來源:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **發布時間:** Oct 29, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2750,6 +2743,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-08T05:51:35.484Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-08T15:15:37.240Z</sub>
 
 </div>

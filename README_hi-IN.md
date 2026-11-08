@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3354** |
+| 📝 Total Prompts | **3357** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-08** |
 
@@ -189,6 +189,25 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### नियॉन मार्शल आर्ट तलवारबाज महिला प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक प्रॉम्प्ट जो कपड़ों और बालों का रंग बदलता है, साथ ही मार्शल आर्ट तलवारबाजी की चालें जोड़ता है।
+
+#### 📝 Prompt
+
+```
+उसके कपड़ों को नियॉन येलो कर दो, बाल हरे कर दो, और उसे अपनी तलवार से कुछ मार्शल आर्ट मूव्स दिखाते हुए बनाओ।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119231907724394497/img/wfoT3GsatWtlsjAW.jpg" width="600" alt="नियॉन मार्शल आर्ट तलवारबाज महिला प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13673)**
+
+**Author:** [Herbert Krspyleg75 Joseph](https://x.com/Herbertkrspyleg) | **Source:** [Link](https://x.com/Herbertkrspyleg/status/2119232026230305214) | **Published:** Nov 8, 2026
+
+---
 ### हवा में लहराता पीला रिबन वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,59 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13644)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **Published:** Nov 7, 2026
+
+---
+### SpaceX अंतरिक्ष से परे मोंटाज
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> SpaceX मोंटाज के लिए एक डॉक्यूमेंट्री-शैली का प्रॉम्प्ट जिसमें कक्षीय चौकियाँ, गहरे अंतरिक्ष के यान और तारों के बीच जीवन के बारे में प्रेरणादायक वर्णन शामिल हैं।
+
+#### 📝 Prompt
+
+```
+SpaceX – Beyond Earth
+
+पृथ्वी से परे काम करती SpaceX की तकनीकों और मानव अन्वेषकों का एक दूरदर्शी मोंटाज — कक्षीय चौकियों (orbital outposts) और डीप-स्पेस यानों से लेकर तारों के बीच हमारी पहली स्थायी पकड़ तक।
+
+दृश्य एक सिनेमाई, हाई-टेक डॉक्यूमेंट्री शैली पेश करते हैं: चिकना धात्विक हार्डवेयर, Earthrise और तारों से भरा आसमान, SpaceX की साफ-सुथरी सफेद और काली डिज़ाइन भाषा, कोमल वॉल्यूमेट्रिक लाइट, और एक शांत दृढ़ता व विस्मय का अहसास।
+
+कैमरा व्यापक ऑर्बिटल ट्रैकिंग शॉट्स के साथ चलता है, हैबिटैट्स और वाहनों के पार धीमे डॉली पुश होते हैं, और ऐसे कोमल एरियल नज़रिए उभरते हैं जो पैमाने और प्रगति को रेखांकित करते हैं।
+
+आवाज़ में एक शांत, प्रेरक वर्णन शामिल है जो ये पंक्तियाँ बोलता है — “Humanity isn't just reaching for the stars anymore. We're building the technology to live among them,” — जिसे गहरे एम्बिएंट इंजन की गूंज, थ्रस्टर्स की हल्की बौछारों और एक सूक्ष्म, उत्साहवर्धक ऑर्केस्ट्रल स्कोर के साथ पिरोया गया है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="SpaceX अंतरिक्ष से परे मोंटाज">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13675)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **Published:** Nov 7, 2026
+
+---
+### समुद्र से उभरता ऑप्टिमस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक प्रॉम्प्ट जिसमें ऑप्टिमस प्राइम तूफानी समुद्र से उभरते हुए दिखाई दे रहे हैं, उनकी कवच पर पानी बह रहा है और बिजली की रोशनी पूरे दृश्य को जगमगा रही है।
+
+#### 📝 Prompt
+
+```
+[Generation Goal]
+एक भयंकर तूफ़ान के दौरान गहरे समुद्र से उभरते एक विशाल धातुई आकार का लगातार वीडियो जनरेट करें: Optimus Prime जब पूरी तरह बाहर निकलकर लहरों के ऊपर खड़ा होता है, तो उसके कवच से पानी झरने की तरह बहता है।
+
+[Event Script]
+शुरुआत में: केवल अंधेरा समुद्री सतह और भीषण तूफ़ान दिखाई देता है, जिसमें बारिश हो रही है और बिजली काले, उफनते समुद्र पर चमक रही है। मुख्य घटना: एक विशाल धातुई आकार सतह को चीरता हुआ बाहर आता है और लगातार ऊपर उठता जाता है; Optimus Prime के कवच के हर जोड़ और प्लेट से पानी मोटी धारों में बह रहा है। वह तब तक ऊपर उठता रहता है जब तक उसका पूरा ऊपरी शरीर और फिर उसका संपूर्ण ऊँचा रूप लहरों से पूरी तरह बाहर नहीं आ जाता। अंत में: Optimus Prime तूफ़ानी समुद्र के ऊपर पूरी तरह बाहर निकलकर सीधा खड़ा है, और बिजली से रोशन आसमान के नीचे उसके कवच से अभी भी पानी बह रहा है।
+
+[Maintain Consistency]
+Optimus Prime की पहचान, उसके धातुई कवच वाले रूप और एक ही लगातार ऊपर उठने वाली गति को स्थिर रखें; पूरे वीडियो में गहरे समुद्र का परिवेश, भयंकर तूफ़ान, बहता हुआ पानी और अंधेरे तूफ़ानी माहौल को बनाए रखें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="समुद्र से उभरता ऑप्टिमस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13674)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **Published:** Nov 6, 2026
 
 ---
 ### महिला ऑप्टिमस साइबरपंक बारिश का दृश्य
@@ -2613,81 +2685,6 @@ Little Red Riding Hood से प्रेरित एक युवती क�
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115680392078635134) | **Published:** Oct 29, 2026
 
 ---
-### स्टीमपंक पेरिस सिनेमाई फैंटेसी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट जो स्टीमपंक एस्थेटिक और सिनेमाई फैंटेसी तत्वों के साथ पेरिस का संस्करण बनाता है।
-
-#### 📝 Prompt
-
-```
-एक ऐसे भविष्य का पेरिस, जो कभी आया ही नहीं। ⚙️✨
-
-जहाँ Steampunk couture सिनेमाई फंतासी से रूबरू होता है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115650594216235008/img/bIXegfAGGdkXgsTl.jpg" width="600" alt="स्टीमपंक पेरिस सिनेमाई फैंटेसी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13149)**
-
-**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2115650658942783982) | **Published:** Oct 29, 2026
-
----
-### लैंपन से रोबोटिक ड्रेस में बदलाव का प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक साइ-फ़ाई ट्रांसफॉर्मेशन वीडियो प्रॉम्प्ट, जिसमें एक लैंपन किसी महिला के पैर पर गिरता है और एक यांत्रिक रोबोटिक ड्रेस का निर्माण होता है।
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-एक निरंतर और प्रभावशाली ट्रांसफ़ॉर्मेशन वीडियो जनरेट करें। एक लालटेन उसके पैर पर गिरती है और तुरंत उसे एक मैकेनिकल रोबोटिक ड्रेस में बदलना शुरू कर देती है।
-
-[Event Script]
-शुरुआत में वह अपनी जगह खड़ी रहती है, जब ऊपर से एक पारंपरिक कागज़ की लालटेन गिरकर सीधे उसके पैर पर आ लगती है। संपर्क में आते ही लालटेन टूट जाती है और उसमें से चमकदार ऊर्जा निकलने लगती है, जिससे ठीक उसी जगह से ट्रांसफ़ॉर्मेशन शुरू हो जाता है। मेटैलिक प्लेटिंग, जॉइंट्स और रोबोटिक हिस्से तेज़ी से उसके पैर पर बनने लगते हैं और फिर उसके पैर, धड़ और बांहों की ओर बढ़ते जाते हैं, जिससे उसके कपड़े पूरी तरह से एक मैकेनिकल रोबोटिक ड्रेस में बदल जाते हैं — जिसमें खंडित आर्मर पैनल्स, चमकती हुई सर्किट्री और हाइड्रोलिक जैसे बारीक डिज़ाइन शामिल होते हैं। जैसे ही आखिरी पैनल्स अपनी जगह पर लॉक होते हैं और ड्रेस अंदरूनी हल्की रोशनी के साथ पूरी तरह सक्रिय हो जाती है, उसका शरीर का ढंग भी बदलकर अधिक मजबूत और आर्मर्ड स्टांस में आ जाता है।
-
-[Maintain Consistency]
-पूरे वीडियो में एक ही पात्र को निरंतर बनाए रखें, एक ही लालटेन जो सिर्फ पैर पर गिरे, और ट्रांसफ़ॉर्मेशन एकतरफ़ा (one-way) होना चाहिए — जो ठीक लालटेन गिरने के क्षण से शुरू हो और उसके पूरी तरह मैकेनिकल रोबोटिक ड्रेस में समा जाने पर खत्म हो।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115641158994948096/img/kRKd-vzMhxTAyj4e.jpg" width="600" alt="लैंपन से रोबोटिक ड्रेस में बदलाव का प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13147)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115641431864098998) | **Published:** Oct 29, 2026
-
----
-### सिनेमाई साइ-फाई स्पेस स्टेशन वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अंतरिक्ष यान या कक्षीय स्टेशन को वॉल्यूमेट्रिक लाइटिंग और कैमरा मूवमेंट के साथ उभरते हुए दिखाने वाले फोटोरियलिस्टिक साइ-फाई वीडियो बनाने के लिए एक विस्तृत प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-एक शुद्ध सिनेमैटिक और फोटोरियलिस्टिक Sci-Fi वीडियो जनरेट करें, जिसमें एक निरंतर और इमर्सिव वातावरणीय दृश्य-क्रम (sequence) हो।
-
-[Event Script]
-शुरुआत में: ठंडी तारों वाली रोशनी के नीचे विशाल, खाली ब्रह्मांडीय शून्य या किसी फ्यूचरिस्टिक मेगास्ट्रक्चर का गलियारा। हल्के कणों का बहाव और दूर दिखाई देते तारों के झुंड।
-मुख्य घटना: धीरे-धीरे एक Sci-Fi नज़ारा खुलता है — फ्रेम में एक विशाल, चिकना स्पेसक्राफ्ट या ऑर्बिटल स्टेशन उभरता है, होलोग्राफिक इंटरफेस और एनर्जी फील्ड्स हल्की चमक के साथ सक्रिय होते हैं, और वॉल्यूमेट्रिक लाइट शाफ्ट्स वायुमंडलीय धुंध या जीरो-ग्रेविटी धूल को चीरती हुई निकलती हैं। कैमरा एक निरंतर ट्रैकिंग मूवमेंट में आगे की ओर बढ़ता है, जो जटिल मेटैलिक डिटेल्स, रिफ्लेक्टिव सतहों और चमकते प्रोपल्शन सिस्टम्स को उजागर करता है। डीप ब्लू से लेकर ईथेरियल सियान तक रंग के तापमान (color temperature) में सूक्ष्म बदलावों के साथ माहौल और भी गहरा होता जाता है।
-अंत में: फ्रेम Sci-Fi वातावरण के पूरी तरह खुलकर सामने आने वाले एक विस्तृत और भव्य कंपोज़िशन पर स्थिर हो जाता है, जिसमें रोशनी की लंबी ट्रेल्स और सॉफ्ट लेंस फ्लेयर्स बने रहते हैं।
-
-[Maintain Consistency]
-मटेरियल्स (ब्रश्ड मेटल्स, ग्लास, एनर्जी फील्ड्स) की शुद्ध फोटोरियलिस्टिक रेंडरिंग बनाए रखें, लगातार ठंडी सिनेमैटिक लाइटिंग सुनिश्चित करें, अत्यंत आवश्यक होने के अलावा कोई कैरेक्टर न रखें, और Sci-Fi दुनिया का स्थिर स्पेशियल स्केल बनाए रखें।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115629877210607616/img/B0lZcaX1JeaTGu10.jpg" width="600" alt="सिनेमाई साइ-फाई स्पेस स्टेशन वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13145)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2749,6 +2746,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-08T05:51:40.751Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-08T15:15:42.623Z</sub>
 
 </div>

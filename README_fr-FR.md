@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3354** |
+| 📝 Total Prompts | **3357** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-08** |
 
@@ -189,6 +189,25 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de l'épéiste néon en arts martiaux
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour Grok Imagine qui modifie les couleurs des vêtements et des cheveux tout en ajoutant des mouvements d'arts martiaux avec une épée.
+
+#### 📝 Prompt
+
+```
+Mets-lui des vêtements jaune fluo, les cheveux verts, et fais-lui enchaîner quelques mouvements d'arts martiaux avec son épée.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119231907724394497/img/wfoT3GsatWtlsjAW.jpg" width="600" alt="Prompt de l'épéiste néon en arts martiaux">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13673)**
+
+**Author:** [Herbert Krspyleg75 Joseph](https://x.com/Herbertkrspyleg) | **Source:** [Link](https://x.com/Herbertkrspyleg/status/2119232026230305214) | **Published:** Nov 8, 2026
+
+---
 ### Vidéo de Ruban Jaune Soufflé par le Vent
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,55 @@ ciel bleu éclatant, herbe parsemée de fleurs, ruban jaune pris dans l'herbe et
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13644)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **Published:** Nov 7, 2026
+
+---
+### Montage SpaceX au-delà de la Terre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de style documentaire pour un montage SpaceX mettant en scène des avant-postes orbitaux, des engins spatiaux lointains et une narration inspirante sur la vie parmi les étoiles.
+
+#### 📝 Prompt
+
+```
+SpaceX – Au-delà de la Terre
+Un montage visionnaire des technologies SpaceX et des explorateurs humains à l'œuvre au-delà de notre planète, des avant-postes orbitaux et vaisseaux spatiaux lointains jusqu'aux premières implantations permanentes parmi les étoiles.
+L'esthétique adopte un style documentaire cinématographique et high-tech : équipements métalliques aux lignes épurées, lever de Terre et champs d'étoiles, langage visuel noir et blanc caractéristique de SpaceX, lumière volumétrique douce, le tout imprégné d'une détermination sereine et d'un profond sentiment d'émerveillement.
+La caméra évolue à travers de vastes travellings orbitaux, de lents mouvements d'avancée sur les habitats et les véhicules, ainsi que de délicates perspectives aériennes qui soulignent l'ampleur du projet et les progrès accomplis.
+La bande-son comprend une voix off calme et inspirante prononçant ces mots : « L'humanité ne se contente plus de tendre la main vers les étoiles. Nous concevons les technologies pour vivre parmi elles », superposée aux bourdonnements ambiants et profonds des moteurs, à de douces impulsions de propulseurs et à une partition orchestrale subtile et exaltante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="Montage SpaceX au-delà de la Terre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13675)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **Published:** Nov 7, 2026
+
+---
+### Optimus s'élevant de l'océan
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique décrivant Optimus Prime émergeant d'un océan déchaîné, l'eau ruisselant sur son armure et les éclairs illuminant la scène.
+
+#### 📝 Prompt
+
+```
+[Objectif de génération]
+Générer une vidéo continue montrant une immense silhouette métallique émergeant des profondeurs de l'océan en pleine tempête violente : l'eau ruisselle de l'armure d' Optimus Prime tandis qu'il se dresse entièrement au-dessus des flots.
+
+[Scénario de l'événement]
+Au début : seule la surface sombre de l'océan et un violent orage sont visibles, la pluie battante et les éclairs déchirant une mer noire et déchaînée. Événement principal : une immense silhouette métallique perce la surface et s'élève progressivement ; l'eau ruisselle en véritables cascades sur chaque articulation et chaque plaque de l'armure d' Optimus Prime . Il poursuit son ascension jusqu'à ce que tout le haut de son corps, puis sa stature colossale tout entière, se dressent nettement au-dessus des vagues. À la fin : Optimus Prime se tient debout, entièrement émergé et droit au-dessus de l'océan tourmenté par la tempête, son armure toujours ruisselante d'eau sous un ciel zébré d'éclairs.
+
+[Maintenir la cohérence]
+Préserver l'identité d' Optimus Prime , sa forme cuirassée métallique et la fluidité de son unique mouvement d'ascension continu ; maintenir tout au long de la vidéo le cadre océanique profond, l'orage violent, les cascades d'eau et l'atmosphère sombre de la tempête.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="Optimus s'élevant de l'océan">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13674)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **Published:** Nov 6, 2026
 
 ---
 ### Scène Cyberpunk Pluvieuse avec Optimus Féminin
@@ -2608,81 +2676,6 @@ Une bande-son cyber-pulse industrielle et profonde qui s'intensifie jusqu'à une
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115680392078635134) | **Published:** Oct 29, 2026
 
 ---
-### Fantasy Cinématographique Steampunk à Paris
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de génération vidéo pour Grok Imagine créant une version steampunk de Paris avec des éléments fantastiques cinématographiques.
-
-#### 📝 Prompt
-
-```
-Paris dans un futur qui n'a jamais existé. ⚙️✨
-
-Quand la haute couture steampunk rencontre la fantaisie cinématographique.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115650594216235008/img/bIXegfAGGdkXgsTl.jpg" width="600" alt="Fantasy Cinématographique Steampunk à Paris">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13149)**
-
-**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2115650658942783982) | **Published:** Oct 29, 2026
-
----
-### Prompt de transformation : Lanterne en Robe Robotique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt vidéo de transformation science-fiction pour Grok Imagine : une lanterne tombe sur le pied d'une femme, déclenchant la formation mécanique d'une robe robotique.
-
-#### 📝 Prompt
-
-```
-[Objectif de génération]
-Générer une vidéo de transformation continue à fort impact visuel. Une lanterne tombe sur son pied et commence immédiatement à la transformer en une robe robotique mécanique.
-
-[Script des événements]
-Au début, elle se tient immobile tandis qu'une lanterne traditionnelle en papier chute d'en haut et atterrit précisément sur son pied. Au contact, la lanterne se fissure et libère une énergie lumineuse ; la transformation démarre alors au point d'impact. Des plaques métalliques, des articulations et des segments robotiques se forment rapidement sur le pied, puis remontent le long de sa jambe, de son torse et de ses bras, convertissant ses vêtements en une véritable robe robotique mécanique dotée de panneaux d'armure segmentés, de circuits lumineux et de détails évoquant un système hydraulique. Sa posture s'affirme, adoptant une position plus robuste et blindée à mesure que les derniers panneaux se verrouillent et que la robe s'active entièrement dans un doux halo de lumières internes.
-
-[Maintenir la cohérence]
-Conserver un seul et même sujet en continu, une unique lanterne qui ne tombe que sur le pied, ainsi qu'une transformation irréversible qui débute exactement au moment de la chute et s'achève lorsqu'elle est entièrement enveloppée dans la robe robotique mécanique.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115641158994948096/img/kRKd-vzMhxTAyj4e.jpg" width="600" alt="Prompt de transformation : Lanterne en Robe Robotique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13147)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115641431864098998) | **Published:** Oct 29, 2026
-
----
-### Vidéo cinématographique de station spatiale de science-fiction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour générer une vidéo de science-fiction photoréaliste mettant en scène un vaisseau spatial ou une station orbitale qui apparaît à l'écran, avec un éclairage volumétrique et des mouvements de caméra.
-
-#### 📝 Prompt
-
-```
-[Objectif de génération]
-Générer une vidéo de science-fiction purement cinématographique et photoréaliste, composée d'une séquence atmosphérique continue et immersive.
-
-[Scénario de l'événement]
-Au début : Un vaste vide cosmique désert ou le couloir d'une mégastructure futuriste baigné par la lumière froide des étoiles. De subtils mouvements de particules et des champs stellaires lointains.
-Événement principal : Un panorama de science-fiction se déploie lentement — un immense vaisseau spatial aux lignes épurées ou une station orbitale apparaît dans le cadre, tandis que des interfaces holographiques et des champs d'énergie s'activent dans de douces lueurs. Des faisceaux de lumière volumétrique percent la brume atmosphérique ou la poussière en apesanteur. La caméra glisse vers l'avant dans un travelling continu, révélant des détails métalliques complexes, des surfaces réfléchissantes et des systèmes de propulsion incandescents. L'atmosphère s'intensifie grâce à de subtiles variations de température de couleur, passant des bleus profonds à des cyans éthérés.
-À la fin : Le plan se stabilise sur une composition large et épique dévoilant l'environnement de science-fiction dans son intégralité, accompagné de traînées lumineuses persistantes et de doux reflets d'objectif (lens flares).
-
-[Maintenir la cohérence]
-Préserver un rendu purement photoréaliste des matériaux (métaux brossés, verre, champs d'énergie), un éclairage cinématographique froid et constant, n'inclure aucun personnage sauf si indispensable, et maintenir une échelle spatiale stable pour cet univers de science-fiction.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115629877210607616/img/B0lZcaX1JeaTGu10.jpg" width="600" alt="Vidéo cinématographique de station spatiale de science-fiction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13145)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2744,6 +2737,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-08T05:51:44.652Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-08T15:15:46.552Z</sub>
 
 </div>

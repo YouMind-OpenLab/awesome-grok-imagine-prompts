@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3354** |
+| 📝 총 프롬프트 수 | **3357** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-11-08** |
 
@@ -189,6 +189,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 네온 무술 여검사 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine에서 의상 색상과 머리색을 변경하고 무술 검술 동작을 추가하는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+옷은 네온 옐로우로, 머리카락은 초록색으로 바꿔 주고, 검을 들고 무술 동작을 몇 가지 하게 만들어 주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119231907724394497/img/wfoT3GsatWtlsjAW.jpg" width="600" alt="네온 무술 여검사 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13673)**
+
+**작성자:** [Herbert Krspyleg75 Joseph](https://x.com/Herbertkrspyleg) | **출처:** [Link](https://x.com/Herbertkrspyleg/status/2119232026230305214) | **게시일:** Nov 8, 2026
+
+---
 ### 바람에 날리는 노란 리본 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,58 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13644)**
 
 **작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **게시일:** Nov 7, 2026
+
+---
+### SpaceX Beyond Earth 몽타주
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 궤도 전초 기지, 심우주 우주선, 그리고 별 사이에서의 삶에 대한 영감을 주는 내레이션이 포함된 SpaceX 몽타주를 위한 다큐멘터리 스타일 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+SpaceX – Beyond Earth
+궤도 전초기지와 심우주 탐사선부터 별들 사이에 마련된 인류 최초의 영구 거점까지, 지구 너머에서 활약하는 SpaceX 의 기술과 인간 탐험가들의 모습을 담은 비전 있는 몽타주입니다.
+
+영상은 영화적이고 하이테크한 다큐멘터리 스타일을 구현합니다. 유려한 메탈릭 하드웨어, 떠오르는 지구(Earthrise)와 별이 쏟아지는 우주, 깔끔한 화이트 앤 블랙 톤의 SpaceX 디자인 언어, 부드러운 볼류메트릭 조명, 그리고 고요한 결의와 경외감이 어우러집니다.
+
+카메라는 궤도를 따라 넓게 훑어가는 트래킹 숏, 서식지와 기체를 가로지르며 천천히 밀고 들어가는 돌리 푸시, 규모감과 진척도를 강조하는 부드러운 공중 시점으로 움직입니다.
+
+사운드는 “인류는 더 이상 별을 향해 손을 뻗기만 하지 않습니다. 우리는 그 별들 사이에서 살아갈 기술을 만들고 있습니다.”라는 내레이션이 차분하고 감동적인 목소리로 울려 퍼지며, 깊은 앰비언트 엔진음, 부드러운 스러스터 분사 소리, 은은하면서도 희망을 북돋우는 오케스트라 사운드트랙 위에 겹쳐집니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="SpaceX Beyond Earth 몽타주">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13675)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **게시일:** Nov 7, 2026
+
+---
+### 바다에서 떠오르는 옵티머스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 폭풍우 치는 바다에서 등장하는 옵티머스 프라임의 시네마틱한 장면을 묘사하는 프롬프트로, 그의 아머를 타고 흐르는 물줄기와 번개가 비추는 드라마틱한 연출을 포함합니다.
+
+#### 📝 프롬프트
+
+```
+[생성 목표]
+거센 뇌우가 몰아치는 깊은 바다에서 거대한 금속 실루엣이 솟아오르는 장면을 끊김 없는 영상으로 생성합니다. Optimus Prime 이 완전히 수면 위로 나와 파도 위에 우뚝 서는 순간, 그의 갑옷에서 물줄기가 폭포처럼 쏟아져 내립니다.
+
+[이벤트 스크립트]
+시작: 어두운 바다 표면과 거센 폭풍만 보이며, 빗줄기와 번개가 검게 요동치는 바다 위를 가로지릅니다. 주요 이벤트: 거대한 금속 실루엣이 수면을 뚫고 steadily 솟아오르며, Optimus Prime 의 갑옷 관절과 판금 곳곳에서 두꺼운 물줄기가 폭포처럼 쏟아집니다. 그는 계속 몸을 일으켜 상체 전체가 드러나고, 마침내 압도적인 전신이 파도 위로 완전히 모습을 드러냅니다. 끝: Optimus Prime 이 폭풍이 휘몰아치는 바다 위에 온전히 일어난 채 곧게 서 있으며, 번개가 하늘을 가르는 동안 갑옷에서는 여전히 물이 흘러내립니다.
+
+[일관성 유지]
+Optimus Prime 의 정체성과 금속 갑옷 형태, 그리고 단절 없이 이어지는 상승 동작을 일정하게 유지하세요. 심해 배경, 격렬한 뇌우, 쏟아지는 물줄기, 어둡고 폭풍우 치는 분위기는 영상 전반에 걸쳐 그대로 유지해야 합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="바다에서 떠오르는 옵티머스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13674)**
+
+**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **게시일:** Nov 6, 2026
 
 ---
 ### 여성 옵티머스 사이버펑크 비 오는 거리 장면
@@ -2611,81 +2682,6 @@ John Berkey 스타일의 우주 드레드노트. 세월의 흔적과 전투 상�
 **작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2115680392078635134) | **게시일:** Oct 29, 2026
 
 ---
-### 스팀펑크 파리: 시네마틱 판타지
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을(를) 사용하여 시네마틱 판타지 요소를 결합한 스팀펑크 스타일의 파리를 생성하는 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-일어나지 않은 미래의 파리. ⚙️✨
-
-스팀펑크 쿠튀르와 시네마틱 판타지의 만남.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115650594216235008/img/bIXegfAGGdkXgsTl.jpg" width="600" alt="스팀펑크 파리: 시네마틱 판타지">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13149)**
-
-**작성자:** [The SI Maximalist](https://x.com/thesimaximalist) | **출처:** [Link](https://x.com/thesimaximalist/status/2115650658942783982) | **게시일:** Oct 29, 2026
-
----
-### 랜턴에서 로보틱 드레스로 변신하는 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine용 SF 변신 영상 프롬프트로, 랜턴이 여성의 발에 떨어지면 기계적인 로보틱 드레스가 형성되는 장면을 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-[Generation Goal]
-임팩트 있는 연속 변신 영상을 생성합니다. 등불이 그녀의 발 위로 떨어지며, 즉시 그녀를 기계식 로봇 드레스로 변형시키기 시작합니다.
-
-[Event Script]
-영상 초반, 그녀가 제자리에 서 있는 상태에서 전통 종이 등불이 위에서 떨어져 그녀의 발등에 정확히 착지합니다. 닿는 순간 등불이 갈라지며 빛나는 에너지를 방출하고, 충격 지점부터 변신이 시작됩니다. 금속 판, 관절, 로봇 부품들이 발을 덮으며 빠르게 형성된 뒤 다리, 몸통, 팔을 타고 올라갑니다. 이 과정에서 그녀의 옷은 분할된 장갑 패널, 빛나는 회로, 유압 장치 같은 디테일이 돋보이는 완전한 기계식 로봇 드레스로 변환됩니다. 마지막 패널들이 제자리에 고정되고 드레스 내부의 은은한 조명이 켜지며 완전히 활성화되면, 그녀의 자세는 더욱 강인하고 단단한 갑옷 형태의 포즈로 바뀝니다.
-
-[Maintain Consistency]
-하나의 피사체를 끊김 없이 유지하고, 등불은 오직 발 위로만 한 번 떨어지도록 설정하며, 등불이 떨어진 정확한 지점에서 시작해 그녀가 기계식 로봇 드레스로 완전히 뒤덮이는 순간 끝나는 일방향 변신을 구현하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115641158994948096/img/kRKd-vzMhxTAyj4e.jpg" width="600" alt="랜턴에서 로보틱 드레스로 변신하는 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13147)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2115641431864098998) | **게시일:** Oct 29, 2026
-
----
-### 시네마틱 SF 우주 정거장 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 볼류메트릭 조명과 카메라 무브먼트를 활용하여 우주선 또는 궤도 스테이션이 시야에 나타나는 사실적인 SF 영상을 생성하기 위한 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-[생성 목표]
-끊임없이 이어지는 몰입감 있는 분위기 속에서 순수한 시네마틱 퀄리티의 사실적인 SF 영상을 생성합니다.
-
-[이벤트 스크립트]
-시작: 차가운 별빛 아래 펼쳐진 광활하고 텅 빈 우주 공간 또는 미래형 메가스트럭처 복도. 미세하게 떠도는 입자들과 멀리 보이는 별밭.
-주요 이벤트: 서서히 고조되는 SF 풍경이 펼쳐집니다 — 매끄러운 거대 우주선이나 궤도 정거장이 프레임 안으로 등장하고, 홀로그래픽 인터페이스와 에너지 필드가 은은한 빛을 내며 활성화됩니다. 볼류메트릭 라이트 샤프트가 대기 중의 아지랑이나 무중력 상태의 먼지를 뚫고 쏟아집니다. 카메라는 끊김 없이 앞으로 미끄러지듯 이동하며 정교한 금속 디테일, 반사 표면, 빛나는 추진 시스템을 드러냅니다. 짙은 블루에서 신비로운 시안으로 색온도가 미세하게 변화하며 분위기가 한층 깊어집니다.
-끝: SF 환경 전체가 온전히 드러난 웅장하고 넓은 와이드 구도로 프레임이 안정되며, 잔잔한 빛의 궤적과 부드러운 렌즈 플레어가 여운을 남깁니다.
-
-[일관성 유지]
-소재(브러시드 메탈, 유리, 에너지 필드)의 순수한 포토리스틱 렌더링과 일관된 차가운 시네마틱 조명을 유지합니다. 반드시 필요한 경우가 아니면 인물을 배치하지 않으며, SF 세계관의 안정적인 공간 스케일을 유지합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115629877210607616/img/B0lZcaX1JeaTGu10.jpg" width="600" alt="시네마틱 SF 우주 정거장 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=13145)**
-
-**작성자:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **출처:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **게시일:** Oct 29, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2747,6 +2743,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-08T05:51:37.391Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-08T15:15:39.451Z</sub>
 
 </div>

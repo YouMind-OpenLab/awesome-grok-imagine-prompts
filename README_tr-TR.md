@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3354** |
+| 📝 Total Prompts | **3357** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-08** |
 
@@ -189,6 +189,25 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Neon Dövüş Sanatları Kılıç Ustası İstem
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için kıyafet ve saç renklerini değiştirirken dövüş sanatları kılıç hareketleri ekleyen bir istem.
+
+#### 📝 Prompt
+
+```
+Kıyafetlerini neon sarıya, saçlarını yeşile çevir ve kılıcıyla birkaç dövüş sanatı hareketi yaptır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119231907724394497/img/wfoT3GsatWtlsjAW.jpg" width="600" alt="Neon Dövüş Sanatları Kılıç Ustası İstem">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13673)**
+
+**Author:** [Herbert Krspyleg75 Joseph](https://x.com/Herbertkrspyleg) | **Source:** [Link](https://x.com/Herbertkrspyleg/status/2119232026230305214) | **Published:** Nov 8, 2026
+
+---
 ### Rüzgârda Uçuşan Sarı Şerit Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,58 @@ berrak mavi gökyüzü, çiçekli çimenler, rüzgârda savrularak otlara takıl
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13644)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **Published:** Nov 7, 2026
+
+---
+### SpaceX Dünya Ötesi Montaj
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yörünge üsleri, derin uzay araçları ve yıldızlar arasında yaşam hakkında ilham verici anlatımlar içeren SpaceX montajı için belgesel tarzı bir istem.
+
+#### 📝 Prompt
+
+```
+SpaceX – Dünya'nın Ötesinde
+Yörünge üslerinden derin uzay araçlarına ve yıldızlar arasındaki ilk kalıcı ayak izlerine kadar, SpaceX teknolojilerinin ve Dünya'nın ötesinde çalışan insan kaşiflerin vizyoner bir kolajı.
+
+Görseller sinematik, yüksek teknolojili bir belgesel tarzı sunuyor: şık metalik donanımlar, Earthrise (Dünya Doğuşu) ve yıldız tarlaları, temiz beyaz-siyah SpaceX tasarım dili, yumuşak hacimsel ışık ile sessiz bir kararlılık ve hayranlık hissi.
+
+Kamera; geniş açılı yörünge takip çekimleriyle, yaşam alanları ve araçlar boyunca yapılan yavaş dolly itme hareketleriyle ve ölçeği ile ilerlemeyi vurgulayan zarif hava perspektifleriyle akıyor.
+
+Ses tasarımı ise “İnsanlık artık sadece yıldızlara uzanmıyor. Onların arasında yaşamak için teknolojiyi inşa ediyoruz,” sözlerini söyleyen sakin ve ilham verici bir anlatımı; derin ambiyans motor uğultuları, yumuşak itici ateşleme sesleri ve ince, ruh yükseltici bir orkestral müzikle harmanlıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="SpaceX Dünya Ötesi Montaj">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13675)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **Published:** Nov 7, 2026
+
+---
+### Optimus'un Okyanustan Yükselişi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fırtınalı bir okyanustan yükselen Optimus Prime'ı, zırhından akan su ve sahneyi aydınlatan şimşeklerle betimleyen sinematik bir prompt.
+
+#### 📝 Prompt
+
+```
+[Oluşturma Hedefi]
+Şiddetli bir fırtına sırasında derin okyanustan yükselen devasa metalik bir siluetin kesintisiz videosunu oluşturun: Optimus Prime tamamen su yüzeyine çıkıp dalgaların üzerinde dikildiğinde, zırhından sular şelale gibi aşağı dökülür.
+
+[Olay Senaryosu]
+Başlangıçta: Yalnızca karanlık okyanus yüzeyi ve ağır fırtına görünür; yağmur yağar ve şimşekler kapkara, köpüren denizin üzerinde çakar. Ana olay: Devasa metalik bir siluet su yüzeyini yararak istikrarlı bir şekilde yükselir; Optimus Prime'ın zırhındaki her eklem yerinden ve plakadan sular gürül gürül aşağı akar. Önce üst gövdesinin tamamı, ardından tüm görkemli boyu dalgaların üzerinde net bir şekilde belirene kadar yükselmeye devam eder. Sonunda: Optimus Prime, fırtınalı okyanusun üzerinde tamamen su yüzeyine çıkmış ve dimdik ayakta dururken, şimşeklerle aydınlanan gökyüzünün altında zırhından hâlâ sular süzülmektedir.
+
+[Tutarlılığı Koruyun]
+Optimus Prime'ın kimliğini, metalik zırhlı formunu ve tek parça, kesintisiz yükseliş hareketini sabit tutun; derin okyanus ortamını, şiddetli gök gürültülü fırtınayı, aşağı dökülen suları ve karanlık fırtına atmosferini baştan sona koruyun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="Optimus'un Okyanustan Yükselişi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13674)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **Published:** Nov 6, 2026
 
 ---
 ### Kadın Optimus Cyberpunk Yağmurlu Sahne
@@ -2610,81 +2681,6 @@ Derin endüstriyel cyber-pulse müziği, yükselen elektronik sentezlerle güçl
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115680392078635134) | **Published:** Oct 29, 2026
 
 ---
-### Steampunk Paris Sinematik Fantazi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için sinematik fantastik öğelerle Paris'in steampunk estetiğine sahip bir versiyonunu oluşturan video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Hiç yaşanmamış bir gelecekte Paris. ⚙️✨
-
-Steampunk couture ile sinematik fantezinin buluşma noktası.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115650594216235008/img/bIXegfAGGdkXgsTl.jpg" width="600" alt="Steampunk Paris Sinematik Fantazi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13149)**
-
-**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2115650658942783982) | **Published:** Oct 29, 2026
-
----
-### Fenerden Robotik Elbiseye Dönüşüm İstem Metni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için bir bilim kurgu dönüşüm videosu istem metni: Bir fenerin kadının ayağına düşmesiyle mekanik robotik elbisenin oluşumu tetiklenir.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Yüksek etkili, kesintisiz bir dönüşüm videosu oluşturun. Bir fener ayağına düşer ve onu anında mekanik robotik bir elbiseye dönüştürmeye başlar.
-
-[Event Script]
-Başlangıçta olduğu yerde dururken, yukarıdan gelen geleneksel bir kağıt fener tam olarak ayağının üzerine düşer. Temas anında fener çatlar, parlayan bir enerji açığa çıkarır ve dönüşüm tam bu çarpma noktasından başlar. Metalik plakalar, eklem yerleri ve robotik parçalar hızla ayağını kaplar; ardından bacağına, gövdesine ve kollarına doğru tırmanarak kıyafetlerini segmentli zırh panelleri, parlayan devre hatları ve hidrolik detaylara sahip tam teşekküllü mekanik robotik bir elbiseye dönüştürür. Son paneller yerine oturduğunda duruşu daha güçlü ve zırhlı bir hâl alır; elbise içeriden yayılan yumuşak ışıklarla tamamen aktif hâle gelir.
-
-[Maintain Consistency]
-Tek ve kesintisiz bir karakter kullanın; fener yalnızca bir kez ve sadece ayağın üzerine düşmelidir. Dönüşüm tek yönlü ilerlemeli, tam düşme anında başlamalı ve karakterin mekanik robotik elbiseyle tamamen kaplanmasıyla son bulmalıdır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115641158994948096/img/kRKd-vzMhxTAyj4e.jpg" width="600" alt="Fenerden Robotik Elbiseye Dönüşüm İstem Metni">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13147)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115641431864098998) | **Published:** Oct 29, 2026
-
----
-### Sinematik Bilim Kurgu Uzay İstasyonu Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hacimsel ışıklandırma ve kamera hareketleriyle uzay aracının veya yörünge istasyonunun görünür hale geldiği fotogerçekçi bir bilim kurgu videosu oluşturmak için ayrıntılı bir komut.
-
-#### 📝 Prompt
-
-```
-[Oluşturma Hedefi]
-Kesintisiz, sürükleyici ve atmosferik bir sekansa sahip, tamamen sinematik ve fotogerçekçi bir Bilim Kurgu videosu oluşturun.
-
-[Olay Senaryosu]
-Başlangıçta: Soğuk yıldız ışığı altında uçsuz bucaksız, boş bir kozmik boşluk ya da fütüristik bir mega yapının koridoru. Hafifçe süzülen parçacıklar ve uzak yıldız alanları.
-Ana olay: Yavaş yavaş şekillenen bir Bilim Kurgu manzarası gözler önüne serilir — devasa, aerodinamik bir uzay aracı veya yörünge istasyonu kadraja girer; holografik arayüzler ve enerji alanları yumuşak ışıltılarla devreye girer, hacimsel ışık huzmeleri atmosferik pusun ya da sıfır yerçekimli tozun içinden süzülür. Kamera kesintisiz bir takip hareketiyle ileriye doğru süzülerek karmaşık metalik detayları, yansıtıcı yüzeyleri ve parlayan tahrik sistemlerini ortaya çıkarır. Atmosfer, koyu mavilerden büyüleyici camgöbeği tonlarına uzanan ince renk sıcaklığı geçişleriyle derinleşir.
-Sonunda: Kadraj, Bilim Kurgu ortamının tüm görkemiyle açığa çıktığı geniş, epik bir kompozisyonda karar kılar; geride kalan ışık izleri ve yumuşak lens parlamaları sahneyi tamamlar.
-
-[Tutarlılığı Koruyun]
-Malzemelerin (fırçalanmış metaller, cam, enerji alanları) saf fotogerçekçi işlenmesini, tutarlı soğuk sinematik aydınlatmayı ve Bilim Kurgu dünyasının dengeli mekansal ölçeğini koruyun; kesinlikle gerekli olmadıkça karakter kullanmayın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115629877210607616/img/B0lZcaX1JeaTGu10.jpg" width="600" alt="Sinematik Bilim Kurgu Uzay İstasyonu Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13145)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2746,6 +2742,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-08T05:51:48.706Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-08T15:15:51.343Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3354** |
+| 📝 提示词总数 | **3357** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-11-08** |
 
@@ -189,6 +189,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 霓虹武侠女剑客提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 Grok Imagine 的提示词，可在添加武术剑法动作的同时更改服装颜色和发色。
+
+#### 📝 提示词
+
+```
+把她的衣服改成荧光黄，头发换成绿色，再让她拿着剑耍几招武术动作。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119231907724394497/img/wfoT3GsatWtlsjAW.jpg" width="600" alt="霓虹武侠女剑客提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13673)**
+
+**作者:** [Herbert Krspyleg75 Joseph](https://x.com/Herbertkrspyleg) | **来源:** [Link](https://x.com/Herbertkrspyleg/status/2119232026230305214) | **发布时间:** Nov 8, 2026
+
+---
 ### 风吹黄丝带视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,55 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13644)**
 
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **发布时间:** Nov 7, 2026
+
+---
+### SpaceX Beyond Earth 混剪
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段纪录片风格的 SpaceX 混剪提示词，展示轨道前哨站、深空飞船以及关于在群星间生活的鼓舞人心的旁白。
+
+#### 📝 提示词
+
+```
+SpaceX – Beyond Earth
+一部充满远见的混剪作品，展现 SpaceX 技术与人类探索者在地外空间协同工作的场景——从轨道前哨站、深空飞行器，到人类在星辰间建立的首个永久立足点。
+画面呈现出电影级的高科技纪录片风格：流线型的金属硬件、地出（Earthrise）与浩瀚星海、简洁的黑白 SpaceX 设计语言、柔和的体积光，以及一种静谧而坚定的敬畏感。
+镜头运用宏大的轨道跟拍、缓慢推近栖息舱与飞行器的移动摄影，以及凸显规模感与探索进程的轻柔航拍视角。
+声音部分包含沉稳而振奋人心的旁白，念出这样的台词：“人类不再只是仰望星空，我们正在打造真正栖居群星之间的技术。”旁白交织着深沉的环境引擎低鸣、轻柔的推进器喷射声，以及细腻昂扬的管弦配乐。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="SpaceX Beyond Earth 混剪">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13675)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **发布时间:** Nov 7, 2026
+
+---
+### 擎天柱从海洋中崛起
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影感提示词，描绘擎天柱从暴风雨中的海洋崛起，水珠顺着他的装甲倾泻而下，闪电照亮整个场景。
+
+#### 📝 提示词
+
+```
+[生成目标]
+生成一段连贯的视频：在狂风暴雨中，一个巨大的金属轮廓从深海缓缓升起——当擎天柱（Optimus Prime）完全浮出水面、屹立于波涛之上时，海水顺着他的装甲倾泻而下。
+
+[事件脚本]
+开场：画面中只有漆黑的海面与猛烈的风暴，暴雨如注，闪电划破翻涌的黑色海洋。核心事件：一个巨大的金属轮廓破水而出，稳步上升；海水如瀑布般从 Optimus Prime 装甲的每一处关节与甲板上奔流而下。他不断向上攀升，先是上半身完全露出，随后整个巍峨的身躯彻底脱离海浪。结尾：Optimus Prime 全身挺立于惊涛骇浪之上，在电闪雷鸣的天空下，装甲上依然水流如注。
+
+[保持一致性]
+保持 Optimus Prime 的身份特征、金属装甲形态以及连贯的上升动作稳定不变；全程维持深海场景、猛烈雷暴、倾泻的水流与阴沉的风暴氛围。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="擎天柱从海洋中崛起">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13674)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **发布时间:** Nov 6, 2026
 
 ---
 ### 女性擎天柱赛博朋克雨景
@@ -2610,81 +2678,6 @@ John Berkey 风格的太空无畏舰，尽显岁月沧桑与战斗伤痕，在�
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115680392078635134) | **发布时间:** Oct 29, 2026
 
 ---
-### 蒸汽朋克巴黎：电影级奇幻
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 设计的视频生成提示词，旨在打造融合电影奇幻元素的蒸汽朋克风格巴黎。
-
-#### 📝 提示词
-
-```
-一个从未到来的未来巴黎。⚙️✨
-
-蒸汽朋克高定邂逅电影级奇幻想象。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115650594216235008/img/bIXegfAGGdkXgsTl.jpg" width="600" alt="蒸汽朋克巴黎：电影级奇幻">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13149)**
-
-**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **来源:** [Link](https://x.com/thesimaximalist/status/2115650658942783982) | **发布时间:** Oct 29, 2026
-
----
-### 灯笼到机器人礼服变身提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 设计的科幻变身视频提示词：灯笼落在女子脚上，触发机械机器人礼服的生成。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段连贯且极具视觉冲击力的变身视频。一盏灯笼落在她的脚上，随即立刻将她变身为机械战甲裙装。
-
-[事件脚本]
-开场时她静立原地，一盏传统纸灯笼从上方落下，正正砸在她的脚上。接触瞬间，灯笼碎裂并释放出耀眼光芒，变身过程从撞击点开始蔓延。金属装甲板、关节与机械部件迅速在脚部成型，随后沿腿部、躯干和手臂向上延伸，将她的衣物彻底转化为一套完整的机械战甲裙装，带有分块式护甲板、发光电路以及液压结构般的细节。随着最后几块装甲板锁定到位，她的姿态也随之改变，切换为更具力量感、更坚固的机甲站姿；裙装完全激活，内部亮起柔和的光芒。
-
-[保持一致性]
-全程保持同一主体不中断；仅有一盏灯笼，且只落在脚上；变身过程不可逆，严格从灯笼落下的瞬间开始，到她被机械战甲裙装完全包裹时结束。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115641158994948096/img/kRKd-vzMhxTAyj4e.jpg" width="600" alt="灯笼到机器人礼服变身提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13147)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115641431864098998) | **发布时间:** Oct 29, 2026
-
----
-### 电影级科幻空间站视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成逼真科幻视频的精细提示词，展现飞船或轨道站伴随体积光和镜头运动缓缓入画的场景。
-
-#### 📝 提示词
-
-```
-[生成目标]
-生成一段纯粹的电影级写实科幻视频，呈现连贯且极具沉浸感的氛围长镜头。
-
-[事件脚本]
-开场：在冰冷的星光下，展现浩瀚空旷的宇宙深空或未来巨型建筑的走廊。细微的粒子缓缓漂浮，远处星野若隐若现。
-核心事件：科幻全景徐徐展开——一艘线条流畅的巨型飞船或轨道空间站缓缓驶入画面，全息界面与能量场亮起柔和的光芒，体积光束穿透弥漫的雾气或失重环境下的微尘。镜头以连续跟拍的方式平稳向前推进，依次展露精密的金属细节、反光表面以及泛着光芒的推进系统。随着色温从深邃幽蓝悄然过渡至空灵青绿，整体氛围愈发浓厚。
-结尾：画面定格于一个开阔恢弘的全景构图，完整呈现整个科幻场景，并伴有悠长的光轨与柔和的镜头光晕。
-
-[保持一致性]
-保持材质（拉丝金属、玻璃、能量场）纯粹的写实渲染效果，维持统一的冷调电影级布光；除非必要，不出现任何角色；确保科幻世界的空间比例始终稳定。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115629877210607616/img/B0lZcaX1JeaTGu10.jpg" width="600" alt="电影级科幻空间站视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=13145)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **来源:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **发布时间:** Oct 29, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2746,6 +2739,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-08T05:51:34.605Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-08T15:15:36.013Z</sub>
 
 </div>

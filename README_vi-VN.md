@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3354** |
+| 📝 Total Prompts | **3357** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-08** |
 
@@ -189,6 +189,25 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Nhắc nhở về nữ kiếm sĩ võ thuật neon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một nhắc nhở cho Grok Imagine để thay đổi màu trang phục và màu tóc đồng thời thêm các động tác kiếm thuật.
+
+#### 📝 Prompt
+
+```
+Đổi quần áo của cô ấy sang màu vàng neon, tóc chuyển thành màu xanh lá, rồi cho cô ấy thực hiện vài động tác võ thuật với thanh kiếm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119231907724394497/img/wfoT3GsatWtlsjAW.jpg" width="600" alt="Nhắc nhở về nữ kiếm sĩ võ thuật neon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13673)**
+
+**Author:** [Herbert Krspyleg75 Joseph](https://x.com/Herbertkrspyleg) | **Source:** [Link](https://x.com/Herbertkrspyleg/status/2119232026230305214) | **Published:** Nov 8, 2026
+
+---
 ### Video Dải Ruy Băng Vàng Bay Trong Gió
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,55 @@ Bầu trời xanh trong vắt, thảm cỏ điểm xuyết những đóa hoa, d�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13644)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **Published:** Nov 7, 2026
+
+---
+### Bản Dựng Phim SpaceX Vượt Ra Ngoài Trái Đất
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt phong cách tài liệu cho một bản dựng phim về SpaceX, bao gồm các tiền đồn trên quỹ đạo, tàu vũ trụ không gian sâu và lời kể truyền cảm hứng về cuộc sống giữa các vì sao.
+
+#### 📝 Prompt
+
+```
+SpaceX – Beyond Earth
+Một bản dựng đầy tầm nhìn về các công nghệ của SpaceX và những nhà thám hiểm đang làm việc ngoài Trái Đất, từ các tiền đồn trên quỹ đạo, tàu vũ trụ không gian sâu cho đến những bước chân định cư vĩnh viễn đầu tiên giữa các vì sao.
+Phần hình ảnh mang phong cách phim tài liệu điện ảnh, đậm chất công nghệ cao: những thiết bị kim loại bóng bẩy, cảnh Trái Đất mọc lên cùng bầu trời đầy sao, ngôn ngữ thiết kế trắng đen tinh giản đặc trưng của SpaceX, ánh sáng thể tích mềm mại, toát lên sự quyết tâm thầm lặng xen lẫn niềm kinh ngạc.
+Camera di chuyển bằng những cú lia theo quỹ đạo bao quát, những cú đẩy dolly chậm rãi qua các khu sinh sống và phương tiện, cùng góc máy trên không nhẹ nhàng nhằm tôn lên quy mô và tiến trình phát triển.
+Âm thanh bao gồm phần lời dẫn trầm tĩnh, truyền cảm hứng với câu nói “Nhân loại không còn chỉ vươn tay tới các vì sao nữa. Chúng ta đang kiến tạo công nghệ để sống giữa chúng,” được lồng ghép trên nền tiếng động cơ ambient trầm ấm, những luồng phụt động cơ đẩy êm ái và một bản nhạc giao hưởng tinh tế, đầy cảm hứng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="Bản Dựng Phim SpaceX Vượt Ra Ngoài Trái Đất">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13675)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **Published:** Nov 7, 2026
+
+---
+### Optimus trỗi dậy từ đại dương
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả hình ảnh điện ảnh về Optimus Prime bước ra từ đại dương bão tố, nước chảy tràn trên bộ giáp và ánh chớp chiếu sáng toàn cảnh.
+
+#### 📝 Prompt
+
+```
+[Mục tiêu tạo video]
+Tạo một video liền mạch về bóng dáng kim loại khổng lồ trồi lên từ đáy đại dương sâu thẳm giữa cơn bão sấm sét dữ dội: nước tuôn xối xả từ lớp giáp của Optimus Prime khi anh hoàn toàn nhô lên và đứng sừng sững trên những con sóng.
+
+[Kịch bản sự kiện]
+Mở đầu: chỉ thấy mặt biển tối đen và cơn bão cuồng nộ, mưa trút xuống cùng những tia chớp xé ngang vùng biển đen ngòm đang cuộn trào. Sự kiện chính: một bóng dáng kim loại khổng lồ phá vỡ mặt nước, từ từ vươn lên; nước đổ thành từng mảng lớn từ mọi khớp nối và tấm giáp trên cơ thể Optimus Prime. Anh tiếp tục trồi lên cho đến khi toàn bộ phần thân trên, rồi cả vóc dáng cao lớn uy nghi hiện ra trọn vẹn phía trên những ngọn sóng. Kết thúc: Optimus Prime đứng thẳng, hoàn toàn nhô lên khỏi mặt đại dương đang dậy sóng, lớp giáp vẫn còn ướt đẫm nước chảy ròng ròng dưới bầu trời rực sáng ánh chớp.
+
+[Duy trì tính nhất quán]
+Giữ nguyên hình ảnh nhận diện, dáng vẻ bọc giáp kim loại và chuyển động trồi lên liên tục, duy nhất của Optimus Prime; duy trì bối cảnh đại dương sâu thẳm, cơn bão sấm sét dữ dội, dòng nước tuôn xối xả và bầu không khí u ám của cơn bão xuyên suốt toàn bộ video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="Optimus trỗi dậy từ đại dương">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13674)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **Published:** Nov 6, 2026
 
 ---
 ### Cảnh Cyberpunk Nữ Optimus Trong Mưa
@@ -2605,81 +2673,6 @@ Nhạc nền cyber-pulse công nghiệp trầm đục dần dâng lên thành nh
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115680392078635134) | **Published:** Oct 29, 2026
 
 ---
-### Paris Steampunk: Fantasy Điện Ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video cho Grok Imagine, tái hiện Paris theo phong cách steampunk với các yếu tố fantasy điện ảnh.
-
-#### 📝 Prompt
-
-```
-Paris trong một tương lai chưa từng xảy ra. ⚙️✨
-
-Khi thời trang Steampunk giao hòa cùng thế giới điện ảnh kỳ ảo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115650594216235008/img/bIXegfAGGdkXgsTl.jpg" width="600" alt="Paris Steampunk: Fantasy Điện Ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13149)**
-
-**Author:** [The SI Maximalist](https://x.com/thesimaximalist) | **Source:** [Link](https://x.com/thesimaximalist/status/2115650658942783982) | **Published:** Oct 29, 2026
-
----
-### Prompt Biến Hình Từ Đèn Lồng Thành Váy Robot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video biến hình khoa học viễn tưởng cho Grok Imagine, trong đó một chiếc đèn lồng rơi xuống chân phụ nữ, kích hoạt quá trình hình thành váy robot cơ khí.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo video]
-Tạo một video biến hình liên tục với hiệu ứng thị giác mạnh mẽ. Một chiếc đèn lồng rơi trúng chân cô gái và ngay lập tức bắt đầu quá trình biến đổi cơ thể cô thành một bộ đầm robot cơ khí.
-
-[Kịch bản sự kiện]
-Mở đầu, cô đứng yên tại chỗ khi một chiếc đèn lồng giấy truyền thống từ trên cao rơi xuống và đáp chính xác lên bàn chân cô. Ngay khi chạm vào, chiếc đèn lồng nứt vỡ, giải phóng luồng năng lượng phát sáng, và quá trình biến hình khởi động ngay tại điểm va chạm. Các lớp giáp kim loại, khớp nối và chi tiết máy nhanh chóng hình thành bao phủ lấy bàn chân, sau đó lan dần lên cẳng chân, thân mình và cánh tay, chuyển hóa trang phục của cô thành một bộ đầm robot cơ khí hoàn chỉnh với các tấm giáp phân mảnh, mạch điện phát sáng cùng những chi tiết thủy lực đặc trưng. Dáng đứng của cô thay đổi sang tư thế vững chãi và đầy uy lực hơn khi những tấm giáp cuối cùng khóa chặt vào vị trí, đồng thời bộ đầm được kích hoạt hoàn toàn với ánh sáng dịu nhẹ tỏa ra từ bên trong.
-
-[Duy trì tính nhất quán]
-Giữ nguyên một nhân vật duy nhất xuyên suốt, chỉ có một chiếc đèn lồng rơi đúng vào bàn chân, và quá trình biến hình diễn ra theo một chiều — bắt đầu chính xác tại khoảnh khắc đèn lồng rơi xuống và kết thúc khi cô đã được bao bọc hoàn toàn trong bộ đầm robot cơ khí.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115641158994948096/img/kRKd-vzMhxTAyj4e.jpg" width="600" alt="Prompt Biến Hình Từ Đèn Lồng Thành Váy Robot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13147)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115641431864098998) | **Published:** Oct 29, 2026
-
----
-### Video Trạm Không Gian Khoa Học Viễn Tưởng Điện Ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết để tạo video khoa học viễn tưởng chân thực, mô tả tàu vũ trụ hoặc trạm quỹ đạo xuất hiện với ánh sáng thể tích và chuyển động camera.
-
-#### 📝 Prompt
-
-```
-[Mục tiêu tạo video]
-Tạo một video Sci-Fi thuần điện ảnh và chân thực như ảnh chụp (photorealistic), với chuỗi cảnh mang bầu không khí liền mạch, cuốn hút.
-
-[Kịch bản sự kiện]
-Mở đầu: Khoảng không vũ trụ bao la, trống rỗng hoặc hành lang của một siêu cấu trúc tương lai dưới ánh sao lạnh lẽo. Những hạt bụi trôi lững lờ cùng các dải sao xa xăm.
-Sự kiện chính: Khung cảnh Sci-Fi dần hé lộ chậm rãi — một tàu vũ trụ khổng lồ bóng bẩy hoặc trạm quỹ đạo tiến vào khung hình, các giao diện hologram và trường năng lượng kích hoạt với ánh sáng dịu nhẹ, những luồng sáng volumetric xuyên qua lớp sương mù trong không khí hoặc bụi lơ lửng trong môi trường không trọng lực. Camera lướt về phía trước bằng cú máy tracking liên tục, phô diễn từng chi tiết kim loại tinh xảo, bề mặt phản chiếu và hệ thống đẩy phát sáng. Bầu không khí trở nên sâu lắng hơn nhờ sự chuyển đổi tinh tế của nhiệt độ màu từ xanh dương thẳm sang sắc xanh lục lam huyền ảo.
-Kết thúc: Khung hình dừng lại ở một bố cục góc rộng đầy hùng vĩ, hé lộ trọn vẹn môi trường Sci-Fi, điểm xuyết bởi những vệt sáng kéo dài và hiệu ứng lens flare mềm mại.
-
-[Duy trì tính nhất quán]
-Giữ nguyên phong cách kết xuất photorealistic thuần túy cho các chất liệu (kim loại xước, kính, trường năng lượng), duy trì ánh sáng điện ảnh tông lạnh xuyên suốt, không có nhân vật trừ khi thật sự cần thiết, đồng thời đảm bảo tỷ lệ không gian ổn định cho thế giới Sci-Fi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115629877210607616/img/B0lZcaX1JeaTGu10.jpg" width="600" alt="Video Trạm Không Gian Khoa Học Viễn Tưởng Điện Ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13145)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **Published:** Oct 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2741,6 +2734,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-08T05:51:39.514Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-08T15:15:41.544Z</sub>
 
 </div>

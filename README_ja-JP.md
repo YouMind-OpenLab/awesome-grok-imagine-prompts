@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3354** |
+| 📝 プロンプト総数 | **3357** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-11-08** |
 
@@ -189,6 +189,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### ネオン・マーシャルアーツ・ソードウーマン プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine で衣装の色や髪色を変更し、武術の剣技を追加するためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+服をネオンイエローに、髪をグリーンに変えて、剣を使っていくつか martial arts の動きをさせてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119231907724394497/img/wfoT3GsatWtlsjAW.jpg" width="600" alt="ネオン・マーシャルアーツ・ソードウーマン プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13673)**
+
+**作者:** [Herbert Krspyleg75 Joseph](https://x.com/Herbertkrspyleg) | **ソース:** [Link](https://x.com/Herbertkrspyleg/status/2119232026230305214) | **公開日:** Nov 8, 2026
+
+---
 ### 風に揺れる黄色いリボンの動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,59 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13644)**
 
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2118934426633785350) | **公開日:** Nov 7, 2026
+
+---
+### SpaceX 地球の向こう側 モンタージュ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 宇宙での暮らしを描く感動的なナレーションとともに、軌道上の拠点や深宇宙探査機が登場する SpaceX のドキュメンタリー風モンタージュのプロンプト
+
+#### 📝 プロンプト
+
+```
+SpaceX – Beyond Earth
+
+地球の外で活動する SpaceX のテクノロジーと人類の探査者たちを描いた、未来を見据えるモンタージュ。軌道上の前線基地や深宇宙船から、星々の間に築かれる最初の恒久的な拠点までを映し出します。
+
+映像はシネマティックでハイテクなドキュメンタリースタイルを採用しています。流線型のメタリックな機体、地球の出（アースライズ）と満天の星空、白と黒を基調としたクリーンな SpaceX のデザイン言語、柔らかなボリュメトリックライト、そして静かなる決意と畏敬の念が漂います。
+
+カメラは、雄大な軌道トラッキングショット、居住区や機体を横切るゆっくりとしたドリーイン、そしてスケール感と前進を強調する穏やかな空撮視点で動いていきます。
+
+サウンドには、落ち着いたトーンで希望を与えるナレーション「人類はもはや、ただ星に手を伸ばしているだけではない。星々の中で生きるためのテクノロジーを築いているのだ」が重なります。その下には、深く響くアンビエントなエンジンの駆動音、柔らかなスラスターの噴射音、そしてさりげなく心を高揚させるオーケストラスコアがレイヤーされています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118871611386515456/img/Tfb-eyjZPPKC0JK4.jpg" width="600" alt="SpaceX 地球の向こう側 モンタージュ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13675)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2118871728680272112) | **公開日:** Nov 7, 2026
+
+---
+### 海から現れるオプティマス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 嵐の海から現れるオプティマスプライムのシネマティックなプロンプト。鎧から水が滴り落ち、稲妻がシーンを照らし出す。
+
+#### 📝 プロンプト
+
+```
+[生成目標]
+激しい雷雨の中、深海から巨大な金属のシルエットが立ち上がる連続動画を生成します。 Optimus Prime が完全に姿を現して波の上にそびえ立つと、そのアーマーからは大量の水が流れ落ちます。
+
+[イベントスクリプト]
+開始時：暗い海面と激しい嵐だけが映し出され、黒く荒れ狂う海に雨と稲妻が走ります。主要イベント：巨大な金属のシルエットが海面を破り、着実に上昇します。 Optimus Prime のアーマーのあらゆる関節やプレートから、水が滝のように流れ落ちます。彼は上半身全体、そして最終的にはそびえ立つ全身が波の上にはっきりと現れるまで、上昇を続けます。終了時： Optimus Prime は嵐で荒れ狂う海の上で完全に直立した姿となり、稲妻に照らされた空の下、アーマーからはまだ水が流れ続けています。
+
+[一貫性の維持]
+Optimus Prime のアイデンティティ、金属製のアーマー姿、途切れのない一連の上昇動作を安定して保ちます。また、深海という舞台設定、激しい雷雨、流れ落ちる水、暗い嵐の雰囲気を全体を通して維持してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118761821905584128/img/JMEVDEMR_5inYpJO.jpg" width="600" alt="海から現れるオプティマス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13674)**
+
+**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **公開日:** Nov 6, 2026
 
 ---
 ### 女性オプティマス プライム サイバーパンク 雨のシーン
@@ -2620,81 +2692,6 @@ John Berkey スタイルの宇宙ドレッドノート。経年劣化と戦闘�
 **作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2115680392078635134) | **公開日:** Oct 29, 2026
 
 ---
-### スチームパンク・パリ シネマティック・ファンタジー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine でスチームパンク美学とシネマティックなファンタジー要素を取り入れたパリの映像を生成するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-実現しなかった未来のパリ。 ⚙️✨
-
-Steampunk クチュールとシネマティックな幻想の融合。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115650594216235008/img/bIXegfAGGdkXgsTl.jpg" width="600" alt="スチームパンク・パリ シネマティック・ファンタジー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13149)**
-
-**作者:** [The SI Maximalist](https://x.com/thesimaximalist) | **ソース:** [Link](https://x.com/thesimaximalist/status/2115650658942783982) | **公開日:** Oct 29, 2026
-
----
-### ランタンからロボットドレスへの変身プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 向けの SF 変身動画プロンプト。女性の足にランタンが落ち、機械的なロボットドレスが形成される様子を描写します。
-
-#### 📝 プロンプト
-
-```
-[生成目標]
-インパクトのあるシームレスな変身動画を生成してください。提灯が彼女の足元に落下し、瞬時に彼女を機械的なロボティックドレスへと変身させます。
-
-[イベントスクリプト]
-冒頭では、彼女は静止したまま立ち、上から落ちてきた伝統的な紙の提灯が彼女の足にまっすぐ着地します。接触した瞬間に提灯は割れて発光するエネルギーを放ち、その衝撃点から変身が始まります。金属プレート、関節、ロボットパーツが足元から急速に形成され、脚、胴体、腕へと這い上がるように広がり、彼女の衣服を分割されたアーマーパネル、発光する回路、油圧機構のようなディテールを備えた完全な機械式ロボティックドレスへと変化させます。最後のパネルがカチッと固定されると、彼女の姿勢はより力強く装甲感のある構えへと変わり、柔らかな内部ライトが灯ってドレスが完全に起動します。
-
-[一貫性の維持]
-対象は終始 1 人の人物とし、提灯は 1 つだけで足にのみ落下するようにしてください。また、変身は不可逆的で、提灯が落ちた地点から正確に始まり、彼女が機械式ロボティックドレスに完全に包まれた状態で終了するようにしてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115641158994948096/img/kRKd-vzMhxTAyj4e.jpg" width="600" alt="ランタンからロボットドレスへの変身プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13147)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2115641431864098998) | **公開日:** Oct 29, 2026
-
----
-### シネマティック SF 宇宙ステーション動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 体積光とカメラワークを備えた、リアルな SF ビデオ生成のための詳細プロンプト。宇宙船または軌道上のステーションが視界に現れるシーンを描きます。
-
-#### 📝 プロンプト
-
-```
-[生成目標]
-途切れることなく没入感のある雰囲気を描き出す、純粋なシネマティックかつフォトリアリスティックな SF 動画を生成します。
-
-[イベントスクリプト]
-開始時：冷たい恒星の光に照らされた、広大で何もない宇宙空間、あるいは未来的な巨大構造物の回廊。微かな粒子の浮遊と、遠くに広がる星々。
-主要イベント：ゆっくりと SF 的な眺望が広がっていきます。流線型の巨大宇宙船や軌道ステーションがフレーム内に現れ、ホログラフィックインターフェースやエネルギーフィールドが柔らかな光を放ちながら起動します。ボリュメトリックライトの光条が、大気中の霞や無重力空間の塵を切り裂くように差し込みます。カメラは連続したトラッキングショットで前方へ滑るように進み、緻密な金属のディテール、反射する表面、発光する推進システムを映し出します。深いブルーから幻想的なシアンへと色温度がわずかに変化し、空間の雰囲気がさらに深まっていきます。
-終了時：SF 世界全体が明らかになった壮大なワイドショットでフレームが落ち着き、残像のような光の軌跡と柔らかなレンズフレアが残ります。
-
-[一貫性の維持]
-素材（ヘアライン加工の金属、ガラス、エネルギーフィールド）の純粋なフォトリアリスティック表現と、一貫した冷たいシネマティックライティングを維持してください。不可欠な場合を除いて人物は登場させず、SF 世界の空間スケールを安定して保ちます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115629877210607616/img/B0lZcaX1JeaTGu10.jpg" width="600" alt="シネマティック SF 宇宙ステーション動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=13145)**
-
-**作者:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **ソース:** [Link](https://x.com/Aiminithoughts/status/2115630912725790872) | **公開日:** Oct 29, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2756,6 +2753,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-08T05:51:36.398Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-08T15:15:38.231Z</sub>
 
 </div>
