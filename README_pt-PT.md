@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3357** |
+| 📝 Total Prompts | **3359** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-11** |
 
@@ -189,6 +189,29 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de vídeo do jogo de lanches da garota-gato
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt divertido para geração de vídeo no Grok Imagine, apresentando uma garota-gato e seu parceiro jogando um 'jogo de lanches' no Dia do Lanche, comendo juntos um lanche pelas duas pontas e terminando com um beijo.
+
+#### 📝 Prompt
+
+```
+Uma garota com orelhas de gato e o culpado do Conan estão jogando o "Snack Game" porque hoje é o Dia do Snack. O Snack Game é aquela brincadeira de festa em que duas pessoas seguram as pontas de um mesmo palito de snack na boca e vão comendo em direção ao centro, até terminarem com um beijinho.
+
+Então, no Dia do Snack,
+o parceiro virou uma fofa garota com orelhas de gato 🩷
+Alerele, que coisa mais estranha.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120176411919151104/img/PK_Bq2OwpCWiS5x4.jpg" width="600" alt="Prompt de vídeo do jogo de lanches da garota-gato">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13722)**
+
+**Author:** [Cha1972](https://x.com/Cha1972j) | **Source:** [Link](https://x.com/Cha1972j/status/2120176451861549449) | **Published:** Nov 10, 2026
+
+---
 ### Prompt de Espadachim de Artes Marciais Neon
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +229,33 @@ Deixe as roupas dela em amarelo neon, o cabelo verde e faça-a executar alguns m
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13673)**
 
 **Author:** [Herbert Krspyleg75 Joseph](https://x.com/Herbertkrspyleg) | **Source:** [Link](https://x.com/Herbertkrspyleg/status/2119232026230305214) | **Published:** Nov 8, 2026
+
+---
+### Transformação do Traje de Chuva da Female Optimus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo altamente detalhado para uma transformação sci-fi, onde uma Transformer feminina estilo Optimus ativa uma mochila que se desdobra em um traje impermeável enquanto caminha por uma cidade chuvosa.
+
+#### 📝 Prompt
+
+```
+Prompt de Vídeo de Transformação Sci-Fi de Próximo Nível
+
+Ultracinemático • Fotorrealista
+
+Prompt:
+
+Uma bela e elegante Transformer Optimus feminina, com um impressionante corpo robótico futurista em branco e prata, caminha com confiança por uma movimentada rua de uma cidade moderna, carregando uma mochila estilosa de alta tecnologia. De repente, uma chuva forte começa a cair do céu. Sem interromper o ritmo natural dos seus passos, ela leva a mão atrás do ombro e pressiona um botão de transformação luminoso na mochila. Num instante, a mochila é ativada com sons mecânicos, desdobrando-se em centenas de pequenos componentes robóticos e projetando um material plástico transparente e impermeável que envolve rapidamente todo o seu corpo, criando um traje futurista de proteção contra a chuva perfeitamente ajustado. A transformação ocorre de forma fluida, sem que ela precise parar de andar. Os pedestres ao redor param, observam completamente maravilhados e sacam os smartphones para registrar essa tecnologia inacreditável. Planos fechados cinematográficos revelam cada detalhe mecânico enquanto as gotas de chuva escorregam pela cobertura protetora transparente.
+
+Estilo Visual: CGI 3D ultrarrealista, robótica fotorrealista, engenharia sci-fi de próximo nível, transformação mecânica incrivelmente detalhada, física de chuva realista, movimentos de câmera cinematográficos, iluminação dramática, 8K HDR, reflexos realistas, atmosfera urbana imersiva, movimento contínuo e fluido, obra-prima.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119004090092974080/img/M55uu6ZEiUVUBidb.jpg" width="600" alt="Transformação do Traje de Chuva da Female Optimus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13721)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2119004183089074322) | **Published:** Nov 7, 2026
 
 ---
 ### Vídeo de Fita Amarela ao Vento
@@ -2604,80 +2654,6 @@ Manter a mesma mulher, com os traços faciais, o tom de pele e as proporções c
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115769679423611129) | **Published:** Oct 29, 2026
 
 ---
-### Roteiro de Vídeo de Transformação em Armadura Sci-Fi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico detalhado para gerar um vídeo de uma figura passando por uma transformação em armadura de alta tecnologia em um hangar, com instruções específicas de câmera, som e estilo visual.
-
-#### 📝 Prompt
-
-```
-[Objetivo de Geração]
-Gere um vídeo de transformação de armadura de combate Sci-Fi de alto nível e alta intensidade. O elemento central é uma figura solitária passando por uma metamorfose avançada da armadura e ativando seus sistemas para prontidão de combate, sem o surgimento de nenhum tipo de arma.
-
-[Roteiro do Evento]
-No início: Uma figura humana solitária está de pé, centralizada em um vasto e escuro hangar de alta tecnologia com piso metálico, conduítes de dados luminosos e iluminação ambiente azul fria, vestindo apenas um traje tático básico por baixo.
-Evento principal: A figura inicia a transformação abrindo levemente os braços. Enxames de nanites e partículas de energia de luz sólida irrompem do chão e das paredes, montando rapidamente uma armadura de combate em camadas, segmento por segmento — primeiro as caneleiras e botas travando nas pernas com selos hidráulicos, depois as placas das coxas e do tronco se encaixando com cliques mecânicos visíveis e soldas de energia, seguidas pelas ombreiras, manoplas e um capacete elegante totalmente fechado que sela com um último chiado pressurizado. As superfícies da armadura mudam de preto fosco para placas reativas iridescentes com linhas de energia ciano pulsantes e padrões de camuflagem adaptativa que ondulam pelo corpo. A figura testa a mobilidade assumindo posturas de prontidão para combate, com as placas da armadura se ajustando de forma fluida a cada movimento, enquanto as saídas dos propulsores e os escudos de energia brilham brevemente para demonstração. Nenhuma arma se materializa ou é segurada.
-No final: A figura totalmente transformada permanece em uma postura de combate poderosa e firme, com a armadura completamente selada e brilhando com assinaturas de energia estáveis, enquanto as luzes do hangar refletem nas superfícies polidas.
-
-[Estilo Visual]
-Estética cinematográfica Sci-Fi ultradetalhada com design de armadura de próxima geração — placas de fusão orgânico-mecânica, reflexos holográficos do HUD na viseira do capacete, raios de luz volumétricos (god rays) cortando partículas de energia flutuantes, iluminação de contorno dramática, texturas metálicas de alto contraste e sutil distorção térmica ao redor dos conduítes de energia.
-
-[Câmera]
-Começa com um plano geral aberto do hangar e da figura, depois orbita suavemente 360 graus durante a sequência de montagem da armadura. Avança para planos médios fechados nos travamentos das placas e soldas de energia, seguidos por movimentos dinâmicos de câmera que acompanham as mudanças de postura da figura. Termina em um plano geral heroico em contra-plongée, destacando a silhueta da armadura concluída.
-
-[Som]
-Um zumbido grave de sub-bass de ativação cresce ao longo de toda a cena, sobreposto a estalos metálicos secos de travamento, chiados de selagem pressurizada, surtos de energia crepitantes e o sopro ressonante da ignição dos propulsores. A reverberação ambiente do hangar e o ronco distante das máquinas permanecem constantes. Sem sons de armas, tiros ou efeitos de lâminas metálicas. Sem diálogos ou narração.
-
-[Manter Consistência]
-Mantenha apenas uma única figura humana e uma sequência contínua de transformação da armadura. Garanta que nenhuma arma, arma de fogo, lâmina, pistola ou qualquer tipo de armamento apareça em nenhuma etapa. Preserve a integridade da armadura, a progressão de cores do preto para o ciano iridescente, a disposição espacial do hangar e o estado final selado e pronto para combate.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115713093057892352/img/Zx_4i5Oe9Ds9fcnl.jpg" width="600" alt="Roteiro de Vídeo de Transformação em Armadura Sci-Fi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13207)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115713615433204204) | **Published:** Oct 29, 2026
-
----
-### Vídeo de Evolução Humana Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar um vídeo de ficção científica cyberpunk, mostrando uma figura humana passando por uma metamorfose digital-orgânica em uma megacidade neon.
-
-#### 📝 Prompt
-
-```
-[Objetivo da Geração]
-Gere um vídeo de ficção científica cyberpunk de Evolução e Transformação de outro nível, em estado puro. O elemento central é uma figura humana solitária passando por uma metamorfose digital-orgânica contínua em uma megacidade banhada por neon, evoluindo para uma forma híbrida superior através de estágios em cascata de transcendência cibernética.
-
-[Sujeitos e Relações]
-A figura central começa como uma silhueta humana que progressivamente absorve e se funde com a nanotecnologia ao redor, fluxos de código e arquitetura mecânica. Nenhum outro personagem aparece. A cidade e a figura permanecem presas em uma relação simbiótica: o ambiente alimenta a transformação enquanto o ser em evolução remodela a cidade ao seu redor.
-
-[Roteiro de Eventos]
-No início: Um humano está de pé em meio a ruas molhadas pela chuva sob arranha-céus holográficos imponentes, com letreiros de neon piscando em rosa, ciano e violeta elétrico. Circuitos bioluminescentes suaves começam a rastejar pela pele como tatuagens vivas.
-Evento principal: Ondas de metal líquido e fios de dados brilhantes irrompem do chão e do ar, envolvendo o corpo. A carne se dissolve perfeitamente em placas de armadura cristalina, filamentos neurais e campos de energia holográfica. Os membros se alongam em elegantes extensões cibernéticas multiarticuladas; o rosto se reestrutura em uma forma lisa e luminosa, semelhante a um visor. Os edifícios ao redor se reconfiguram em tempo real — paredes se abrem em portais de dados, drones formam enxames e se fundem à nova forma da figura, a chuva congela no ar transformando-se em partículas luminosas de código. A transformação escala em ondas sucessivas: cada pulso de energia eleva o ser ainda mais — a pele torna-se cromo translúcido, o esqueleto transforma-se em grades de energia flutuantes, a consciência expande-se em uma vasta aura digital que reescreve o horizonte.
-No final: O híbrido totalmente evoluído ergue-se como uma entidade pós-humana imponente e elegante, feita de pura luz, metal e código, flutuando levemente acima da cidade reestruturada. A megacidade agora pulsa em perfeita sincronia com sua nova forma, o neon escorrendo como veias vivas, com todo o quadro irradiando um poder cyberpunk transcendente.
-
-[Estilo Visual]
-Estética cyberpunk hiperdetalhada de outro nível: interfaces holográficas ultranítidas, névoa de neon volumétrica, superfícies molhadas e reflexivas, fluxos de partículas de luz binária, cromo iridescente e fusão orgânico-tecnológica bioluminescente. Atmosfera de ascensão tecnológica implacável e belíssima.
-
-[Câmera]
-Fluxo cinematográfico dinâmico: começa em um plano médio na figura humana, depois orbita e avança conforme a transformação se inicia. Energia contínua de plano-sequência com movimentos de câmera acelerados que espiralam para cima acompanhando a forma em evolução, culminando em uma revelação heroica em plano aberto da entidade totalmente transformada contra o horizonte reescrito.
-
-[Som]
-Trilha sonora de pulso cibernético industrial profundo que cresce até uma síntese eletrônica arrebatadora. Em camadas com sons de mutação de metal líquido, falhas digitais em cascata, zumbidos de picos de energia e a ambiência distante da cidade, que evolui para um coro harmônico triunfante de tons sintéticos
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115679892595675136/img/JXYW_KVRWMxvBIPN.jpg" width="600" alt="Vídeo de Evolução Humana Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13148)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115680392078635134) | **Published:** Oct 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2739,6 +2715,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-11T05:57:35.374Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-11T22:57:54.432Z</sub>
 
 </div>

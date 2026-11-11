@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3357** |
+| 📝 Total Prompts | **3359** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-11** |
 
@@ -189,6 +189,29 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Katzenmädchen-Snack-Spiel: Video-Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein lustiger Video-Generierungs-Prompt für Grok Imagine, der ein Katzenmädchen und einen Partner zeigt, die am Snack-Tag ein 'Snack-Spiel' spielen: Sie essen gemeinsam einen Snack von beiden Enden und beenden das Spiel mit einem Kuss.
+
+#### 📝 Prompt
+
+```
+Ein Mädchen mit Katzenohren und der Täter aus Conan spielen ein „Snack Game“, weil heute Snack Day ist. Beim Snack Game handelt es sich um ein Partyspiel, bei dem zwei Personen jeweils ein Ende eines Snack-Sticks in den Mund nehmen und zur Mitte hin knabbern – bis sie sich am Ende leicht küssen.
+
+Also, am Snack Day
+hat sich der Partner in ein süßes Mädchen mit Katzenohren verwandelt 🩷
+Alerele, was für eine verrückte Sache.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120176411919151104/img/PK_Bq2OwpCWiS5x4.jpg" width="600" alt="Katzenmädchen-Snack-Spiel: Video-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13722)**
+
+**Author:** [Cha1972](https://x.com/Cha1972j) | **Source:** [Link](https://x.com/Cha1972j/status/2120176451861549449) | **Published:** Nov 10, 2026
+
+---
 ### Prompt: Neon-Kampfsport-Schwertkämpferin
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +229,33 @@ Mach ihre Kleidung neongelb, ihre Haare grün und lass sie ein paar Kampfsport-M
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13673)**
 
 **Author:** [Herbert Krspyleg75 Joseph](https://x.com/Herbertkrspyleg) | **Source:** [Link](https://x.com/Herbertkrspyleg/status/2119232026230305214) | **Published:** Nov 8, 2026
+
+---
+### Weibliche Optimus Regenanzug-Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt für eine Sci-Fi-Transformation: Ein weiblicher Optimus Transformer aktiviert einen Rucksack, der sich beim Gehen durch eine regnerische Stadt in einen wasserdichten Anzug entfaltet.
+
+#### 📝 Prompt
+
+```
+Next-Level Sci-Fi Transformations-Video-Prompt
+
+Ultra-kinematografisch • Fotorealistisch
+
+Prompt:
+
+Eine wunderschöne, elegante weibliche Optimus Transformer mit einem atemberaubenden, futuristischen Roboter-Körper in Weiß und Silber geht selbstbewusst durch eine belebte Straße einer modernen Stadt. Sie trägt einen stylischen High-Tech-Rucksack. Plötzlich beginnt es in Strömen zu regnen. Während sie ganz natürlich weitergeht, greift sie über die Schulter nach hinten und drückt einen leuchtenden Transformationsknopf an ihrem Rucksack. Sofort erwacht der Rucksack mit mechanischen Geräuschen zum Leben: Er entfaltet sich in Hunderte winzige Robotik-Komponenten und gibt ein transparentes, wasserdichtes Kunststoffmaterial frei, das sich blitzschnell um ihren gesamten Körper legt und einen perfekt sitzenden, futuristischen Regenschutzanzug formt. Die Transformation läuft völlig fließend ab, ohne dass sie auch nur einen Schritt langsamer wird. Die Passanten um sie herum bleiben stehen, starren fassungslos auf dieses Spektakel und zücken ihre Smartphones, um diese unglaubliche Technologie festzuhalten. Kinoreife Nahaufnahmen offenbaren jedes noch so kleine mechanische Detail, während die Regentropfen über die transparente Schutzhülle gleiten.
+
+Visueller Stil: Ultrarealistisches 3D-CGI, fotorealistische Robotik, Next-Level-Sci-Fi-Technik, unglaublich detaillierte mechanische Transformation, realistische Regenphysik, kinoreife Kamerabewegungen, dramatische Beleuchtung, 8K HDR, realistische Reflexionen, immersive Stadtatmosphäre, fließende, durchgehende Bewegung, Meisterwerk.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119004090092974080/img/M55uu6ZEiUVUBidb.jpg" width="600" alt="Weibliche Optimus Regenanzug-Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13721)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2119004183089074322) | **Published:** Nov 7, 2026
 
 ---
 ### Gelbes Band im Wind Video
@@ -2602,80 +2652,6 @@ Behalte durchgehend dieselbe Frau bei, mit konstanten Gesichtszügen, demselben 
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115769679423611129) | **Published:** Oct 29, 2026
 
 ---
-### Sci-Fi-Rüstungsverwandlung: Video-Skript
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter cineastischer Prompt zur Erstellung eines Videos, das die Verwandlung einer Figur in hochtechnologische Rüstung in einem Hangar zeigt, mit spezifischen Anweisungen für Kamera, Sound und visuellen Stil.
-
-#### 📝 Prompt
-
-```
-[Generierungsziel]
-Erstelle ein hochintensives Sci-Fi-Kampfpanzerungs-Transformationsvideo der nächsten Stufe. Im Mittelpunkt steht eine einzelne Figur, die eine fortschrittliche Rüstungsmorphose durchläuft und ihre Systeme für den Kampfeinsatz hochfährt – dabei dürfen keinerlei Waffen jeglicher Art erscheinen.
-
-[Ereignisskript]
-Zu Beginn: Eine einsame menschliche Gestalt steht zentriert in einem riesigen, dunklen High-Tech-Hangar mit metallischen Böden, leuchtenden Datenleitungen und kaltem blauem Umgebungslicht. Sie trägt lediglich einen einfachen taktischen Unteranzug.
-Hauptereignis: Die Figur leitet die Transformation ein, indem sie die Arme leicht ausbreitet. Nanitenschwärme und Hartlicht-Energiepartikel schießen aus dem Boden und den Wänden empor und fügen Segment für Segment blitzschnell eine mehrschichtige Kampfpanzerung zusammen – zuerst rasten Beinschienen und Stiefel mit hydraulischen Dichtungen an den Beinen ein, dann greifen Oberschenkel- und Torso-Panzerplatten mit deutlich hörbarem mechanischen Klicken und sichtbaren Energieverschweißungen ineinander. Es folgen Schulterpanzer, Panzerhandschuhe und ein stromlinienförmiger, vollständig geschlossener Helm, der mit einem letzten Druckluft-Zischen abdichtet. Die Rüstungsoberflächen wechseln von mattem Schwarz zu reaktiven, schillernden Platten mit pulsierenden cyanfarbenen Energielinien und adaptiven Tarnmustern, die wellenförmig über den Körper gleiten. Die Figur testet ihre Beweglichkeit, indem sie in verschiedene kampfbereite Haltungen wechselt; die Panzerplatten passen sich jeder Bewegung fließend an, während Triebwerksöffnungen und Energieschilde zur Demonstration kurz aufleuchten. Es materialisieren sich keine Waffen, noch werden welche gehalten.
-Am Ende: Die vollständig transformierte Figur verharrt in einer kraftvollen, stabilen Kampfpose. Die Rüstung ist komplett versiegelt und leuchtet mit stabilen Energiesignaturen, während sich das Licht des Hangars auf den polierten Oberflächen spiegelt.
-
-[Visueller Stil]
-Ultradaillierte, cineastische Sci-Fi-Ästhetik mit einem Rüstungsdesign der nächsten Generation – organisch-mechanische Fusionspanzerung, holografische HUD-Reflexionen im Helmvisier, volumetrische God-Rays, die durch schwebende Energiepartikel schneiden, dramatisches Kantenlicht (Rim Lighting), kontrastreiche Metalltexturen und subtile Hitzeflimmer-Effekte rund um die Energieleitungen.
-
-[Kamera]
-Beginnt mit einer weiten Establishing-Einstellung des Hangars und der Figur, umkreist diese dann während der Rüstungsmontage fließend um 360 Grad. Geht in mittlere Nahaufnahmen der einrastenden Panzerplatten und Energieverschweißungen über, gefolgt von dynamischen Kamerafahrten, die den Positionswechseln der Figur folgen. Endet mit einer heroischen Weitwinkel-Aufnahme aus der Froschperspektive, die die Silhouette der fertigen Rüstung betont.
-
-[Ton]
-Ein tiefes Sub-Bass-Summen beim Hochfahren der Systeme baut sich kontinuierlich auf, unterlegt mit scharfem metallischem Einrasten, zischendem Druckausgleich, knisternden Energieentladungen und resonantem Fauchen der Triebwerkszündungen. Der Hall des Hangars und das ferne Brummen von Maschinen bleiben konstant im Hintergrund. Keine Waffengeräusche, Schüsse oder Klangeffekte von Metallklingen. Kein Dialog und kein Voiceover.
-
-[Konsistenz wahren]
-Zeige ausschließlich eine einzige menschliche Figur und eine durchgehende Rüstungstransformation. Stelle sicher, dass in keiner Phase Waffen, Schusswaffen, Klingen oder sonstige Bewaffnung auftauchen. Bewahre die strukturelle Integrität der Rüstung, den Farbverlauf von Schwarz zu schillerndem Cyan, die räumliche Anordnung des Hangars sowie den finalen, versiegelten und kampfbereiten Zustand.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115713093057892352/img/Zx_4i5Oe9Ds9fcnl.jpg" width="600" alt="Sci-Fi-Rüstungsverwandlung: Video-Skript">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13207)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115713615433204204) | **Published:** Oct 29, 2026
-
----
-### Cyberpunk-Menschliche-Evolution-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Generierung eines Sci-Fi-Cyberpunk-Videos, das eine menschliche Figur bei einer digital-organischen Metamorphose in einer Neon-Metropole zeigt.
-
-#### 📝 Prompt
-
-```
-[Generierungsziel]
-Erstelle ein Sci-Fi-Cyberpunk-Video der absoluten Spitzenklasse, das Evolution und Transformation auf ein völlig neues Level hebt. Im Zentrum steht eine einzelne menschliche Gestalt, die in einer von Neonlicht durchfluteten Megacity eine fortlaufende digital-organische Metamorphose durchläuft und sich über kaskadenartige Stufen kybernetischer Transzendenz zu einer überlegenen Hybridform weiterentwickelt.
-
-[Subjekte und Beziehungen]
-Die zentrale Figur beginnt als menschliche Silhouette, die nach und nach umliegende Nanotechnologie, Code-Ströme und mechanische Architektur absorbiert und mit ihnen verschmilzt. Es treten keine weiteren Charaktere auf. Die Stadt und die Gestalt sind untrennbar in einer symbiotischen Beziehung verbunden: Die Umgebung nährt die Transformation, während das sich entwickelnde Wesen die Stadt um sich herum neu formt.
-
-[Ablaufskript]
-Zu Beginn: Ein Mensch steht auf regennassen Straßen unter gigantischen holografischen Wolkenkratzern, während Neonschilder in Pink, Cyan und elektrischem Violett flackern. Sanft biolumineszente Schaltkreise beginnen, wie lebendige Tattoos über die Haut zu kriechen.
-Hauptgeschehen: Wellen aus flüssigem Metall und leuchtenden Datenfäden schießen aus dem Boden und der Luft empor und umhüllen den Körper. Fleisch löst sich nahtlos in kristalline Panzerplatten, neuronale Filamente und holografische Energiefelder auf. Gliedmaßen strecken sich zu eleganten, mehrgelenkigen kybernetischen Verlängerungen; das Gesicht formt sich zu einem glatten, leuchtenden Visier um. Die umliegenden Gebäude rekonfigurieren sich in Echtzeit – Wände öffnen sich zu Datenportalen, Drohnenschwärme verschmelzen mit der neuen Gestalt der Figur, Regentropfen gefrieren mitten in der Luft zu leuchtenden Code-Partikeln. Die Transformation eskaliert in aufeinanderfolgenden Wellen: Jeder Energiepuls hebt das Wesen auf eine höhere Stufe – die Haut wird zu transparentem Chrom, das Skelett verwandelt sich in schwebende Energiegitter, das Bewusstsein dehnt sich zu einer gewaltigen digitalen Aura aus, die die Skyline neu schreibt.
-Am Ende: Der vollständig entwickelte Hybrid steht als hoch aufragende, elegante posthumane Entität aus purem Licht, Metall und Code da und schwebt leicht über der neu geformten Stadt. Die Megacity pulsiert nun im perfekten Einklang mit ihrer neuen Gestalt, Neonlicht fließt wie lebendige Adern, und das gesamte Bild strahlt transzendente Cyberpunk-Power aus.
-
-[Visueller Stil]
-Hyperdetaillierte Next-Level-Cyberpunk-Ästhetik: gestochen scharfe holografische Interfaces, volumetrischer Neon-Nebel, nasse, reflektierende Oberflächen, Partikelströme aus binärem Licht sowie irisierendes Chrom in Fusion mit biolumineszenter Organic-Tech. Eine Atmosphäre unaufhaltsamen, wunderschönen technologischen Aufstiegs.
-
-[Kamera]
-Dynamischer, filmischer Fluss: Beginnt in einer Halbtotalen auf der menschlichen Figur, umkreist sie dann und fährt näher heran, sobald die Transformation einsetzt. Durchgehende One-Take-Energie mit schneller werdenden Kamerafahrten, die sich spiralförmig zusammen mit der sich entwickelnden Gestalt nach oben schrauben – gipfelnd in einer weiten, heroischen Enthüllung des vollständig transformierten Wesens vor der neu geschriebenen Skyline.
-
-[Ton]
-Ein tiefgründiger industrieller Cyber-Pulse-Soundtrack steigert sich zu erhebender elektronischer Synthese. Untermalt mit Morphing-Geräuschen von flüssigem Metall, kaskadierenden digitalen Glitches, dem Brummen von Energieschüben und ferner Stadtatmosphäre, die sich zu einem triumphalen harmonischen Chor aus synthetischen Tönen entwickelt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115679892595675136/img/JXYW_KVRWMxvBIPN.jpg" width="600" alt="Cyberpunk-Menschliche-Evolution-Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13148)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115680392078635134) | **Published:** Oct 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2737,6 +2713,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-11T05:57:31.800Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-11T22:57:50.288Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3357** |
+| 📝 Total Prompts | **3359** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-11** |
 
@@ -189,6 +189,29 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Kedi kız atıştırmalık oyunu video istemi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine için eğlenceli bir video oluşturma istemi. Bir kedi kız ve partneri, Snack Günü'nde 'atıştırmalık oyunu' oynuyor; her iki uçtan birlikte bir atıştırmalık yiyorlar ve öpücük ile sona eriyor.
+
+#### 📝 Prompt
+
+```
+Atıştırmalık Günü olduğu için kedi kulaklı bir kız ile Conan'ın suçlusu "Atıştırmalık Oyunu" oynuyor. Atıştırmalık Oyunu, iki kişinin bir atıştırmalık çubuğunun iki ucunu ağızlarına alıp ortasına doğru yiyerek ilerlediği ve hafif bir öpücükle son bulan bir parti oyunudur.
+
+Yani Atıştırmalık Günü'nde,
+partner sevimli, kedi kulaklı bir kıza dönüştü 🩷
+Alerele, ne tuhaf bir şey.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120176411919151104/img/PK_Bq2OwpCWiS5x4.jpg" width="600" alt="Kedi kız atıştırmalık oyunu video istemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13722)**
+
+**Author:** [Cha1972](https://x.com/Cha1972j) | **Source:** [Link](https://x.com/Cha1972j/status/2120176451861549449) | **Published:** Nov 10, 2026
+
+---
 ### Neon Dövüş Sanatları Kılıç Ustası İstem
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +229,33 @@ Kıyafetlerini neon sarıya, saçlarını yeşile çevir ve kılıcıyla birkaç
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13673)**
 
 **Author:** [Herbert Krspyleg75 Joseph](https://x.com/Herbertkrspyleg) | **Source:** [Link](https://x.com/Herbertkrspyleg/status/2119232026230305214) | **Published:** Nov 8, 2026
+
+---
+### Dişil Optimus Yağmur Tulumu Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yağmurlu bir şehirde yürürken sırt çantasının su geçirmez bir tulum haline geldiği, yüksek detaylı bir bilim kurgu dönüşüm video istemi.
+
+#### 📝 Prompt
+
+```
+Yeni Nesil Bilim Kurgu Dönüşüm Videosu Prompt'u
+
+Ultra Sinematik • Fotogerçekçi
+
+Prompt:
+
+Çarpıcı, fütüristik beyaz-gümüş robotik gövdeye sahip güzel ve zarif bir kadın Optimus Transformer, şık ve yüksek teknolojili bir sırt çantasıyla kalabalık bir modern şehir caddesinde kendinden emin adımlarla yürüyor. Aniden gökyüzünden şiddetli bir yağmur boşanmaya başlıyor. Doğal yürüyüşünü hiç bozmadan omzunun arkasına uzanıp sırt çantasındaki parlayan dönüşüm düğmesine basıyor. Sırt çantası anında mekanik sesler çıkararak aktive oluyor; yüzlerce minik robotik bileşene ayrılıp açılıyor ve tüm vücudunu hızla saran şeffaf, su geçirmez plastik bir malzeme uzatarak kusursuz oturan fütüristik bir yağmurdan korunma kıyafetine dönüşüyor. Bu dönüşüm, yürüyüşünü hiç aksatmadan kusursuz bir şekilde gerçekleşiyor. Etrafındaki yayalar durup büyük bir hayranlıkla izliyor ve bu inanılmaz teknolojiyi kaydetmek için akıllı telefonlarını çıkarıyor. Yağmur damlaları şeffaf koruyucu katmanın üzerinde süzülürken, sinematik yakın çekimler her bir mekanik detayı gözler önüne seriyor.
+
+Görsel Stil: Ultra gerçekçi 3D CGI, fotogerçekçi robotik, yeni nesil bilim kurgu mühendisliği, inanılmaz detaylı mekanik dönüşüm, gerçekçi yağmur fiziği, sinematik kamera hareketleri, dramatik aydınlatma, 8K HDR, gerçekçi yansımalar, sürükleyici şehir atmosferi, akıcı kesintisiz hareket, başyapıt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119004090092974080/img/M55uu6ZEiUVUBidb.jpg" width="600" alt="Dişil Optimus Yağmur Tulumu Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13721)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2119004183089074322) | **Published:** Nov 7, 2026
 
 ---
 ### Rüzgârda Uçuşan Sarı Şerit Videosu
@@ -2607,80 +2657,6 @@ Aynı kadını, yüz hatlarını, ten rengini ve vücut oranlarını baştan son
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115769679423611129) | **Published:** Oct 29, 2026
 
 ---
-### Bilim Kurgu Zırh Dönüşüm Video Senaryosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir hangarda yüksek teknoloji zırh dönüşümü geçiren bir figürün videosunu oluşturmak için detaylı sinematik prompt; belirli kamera, ses ve görsel stil talimatları içerir.
-
-#### 📝 Prompt
-
-```
-[Oluşturma Hedefi]
-Yüksek yoğunluklu, bir üst seviye Bilim Kurgu savaş zırhı dönüşüm videosu oluşturun. Ana odak noktası; gelişmiş zırh metamorfozu geçiren ve savaşa hazır hâle gelmek için güç toplayan tek bir figürdür; videoda hiçbir türde silah yer almamalıdır.
-
-[Olay Senaryosu]
-Başlangıç: Yalnız bir insan figürü; metalik zeminlere, parlayan veri kanallarına ve soğuk mavi ortam aydınlatmasına sahip devasa, karanlık, yüksek teknolojili bir hangarın tam ortasında durmaktadır. Üzerinde yalnızca temel bir taktik iç giysisi vardır.
-Ana olay: Figür, kollarını hafifçe iki yana açarak dönüşümü başlatır. Nanit sürüleri ve katı ışık enerjisi parçacıkları zemin ile duvarlardan fışkırarak katmanlı savaş zırhını parça parça hızla bir araya getirir. Önce baldır korumaları ve botlar hidrolik contalarla bacaklara kilitlenir, ardından uyluk ve gövde plakaları belirgin mekanik tıkırtılar ve enerji kaynaklarıyla birbirine geçer. Bunu omuz zırhları, eldivenler ve son bir basınçlı tıslamayla kapanan aerodinamik, tamamen kapalı bir kask izler. Zırh yüzeyleri mat siyahtan, nabız gibi atan camgöbeği (cyan) enerji hatlarına ve vücutta dalgalanan adaptif kamuflaj desenlerine sahip reaktif iridesan plakalara dönüşür. Figür, hareket kabiliyetini test etmek için savaşa hazır pozisyonlara geçer; her harekette zırh plakaları akıcı biçimde uyum sağlarken, itici havalandırmaları ve enerji kalkanları kısa bir gösterim için alevlenir. Hiçbir silah belirmiyor veya elde tutulmuyor.
-Son: Tamamen dönüşmüş figür, güçlü ve yere sağlam basan bir savaş pozunda durur. Zırh tamamen kapanmıştır, kararlı güç sinyalleriyle parlar ve hangar ışıkları cilalı yüzeylerden yansır.
-
-[Görsel Stil]
-Yeni nesil zırh tasarımına sahip ultra detaylı sinematik Bilim Kurgu estetiği: organik-mekanik füzyon kaplama, kask vizöründe holografik HUD yansımaları, havada süzülen enerji parçacıklarının arasından süzülen hacimsel tanrı ışınları (god-ray), dramatik kenar aydınlatması, yüksek kontrastlı metalik dokular ve güç kanallarının etrafında hafif ısı bozulmaları.
-
-[Kamera]
-Hangarın ve figürün geniş bir açılı kurulum çekimiyle başlar, ardından zırh montajı sırasında yumuşak bir şekilde 360 derece döner. Plaka kilitlerinin ve enerji kaynaklarının orta yakın plan çekimlerine doğru ilerler, ardından figürün duruş değişikliklerini takip eden dinamik izleme çekimleri gelir. Tamamlanmış zırh siluetini vurgulayan, aşağıdan çekilmiş kahramanca bir geniş açıyla sona erer.
-
-[Ses]
-Derin sub-bass güç toplama uğultusu boyunca giderek yükselir; keskin metalik kilitlenme şıngırtıları, basınçlı kapanma tıslamaları, çatırdayan enerji dalgalanmaları ve yankılanan itici ateşleme vızıltılarıyla katmanlanır. Ortam hangar yankısı ve uzaktaki makine uğultuları sabit kalır. Silah sesi, ateşli silah sesi veya metalik kılıç efekti kesinlikle yoktur. Diyalog veya anlatım bulunmaz.
-
-[Tutarlılığı Koruyun]
-Yalnızca tek bir insan figürünü ve kesintisiz bir zırh dönüşüm dizisini koruyun. Hiçbir aşamada silah, ateşli silah, bıçak, tabanca veya herhangi bir teçhizatın görünmediğinden emin olun. Zırh bütünlüğünü, siyahtan iridesan camgöbeğine (cyan) renk geçişini, hangarın mekânsal düzenini ve nihai kapalı savaşa hazır durumu muhafaza edin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115713093057892352/img/Zx_4i5Oe9Ds9fcnl.jpg" width="600" alt="Bilim Kurgu Zırh Dönüşüm Video Senaryosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13207)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115713615433204204) | **Published:** Oct 29, 2026
-
----
-### Siberpunk İnsan Evrimi Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir insan figürünün neon ışıklarıyla aydınlanmış bir megakentte dijital-organik metamorfoz geçirdiği, bilim kurgu ve siberpunk temalı bir video oluşturmak için detaylı istem.
-
-#### 📝 Prompt
-
-```
-[Oluşturma Hedefi]
-Bir üst seviye Evrim ve bir üst seviye Dönüşüm temalı, bilim kurgu cyberpunk tarzında kusursuz bir video oluşturun. Ana konu, neon ışıklarla yıkanmış bir megakentte sürekli olarak dijital-organik bir başkalaşım geçiren yalnız bir insan figürüdür; bu figür, siber aşkınlığın ardışık evrelerinden geçerek daha üstün bir melez forma evrilir.
-
-[Konular ve İlişkiler]
-Merkezdeki figür, bir insan silueti olarak başlar ve zamanla çevresindeki nanoteknolojiyi, kod akışlarını ve mekanik mimariyi içine çekerek onlarla bütünleşir. Başka hiçbir karakter yer almaz. Şehir ve figür simbiyotik bir ilişki içinde birbirine kenetlenmiştir: Çevre dönüşümü beslerken, evrilen varlık da etrafındaki şehri yeniden şekillendirir.
-
-[Olay Senaryosu]
-Başlangıçta: Bir insan, göğe uzanan holografik gökdelenlerin altında, yağmurdan ıslanmış sokaklarda durmaktadır; pembe, camgöbeği ve elektrik moru renklerde titreyen neon tabelalar etrafı aydınlatır. Yumuşak biyolüminesans devreler, yaşayan dövmeler gibi tenin üzerinde ilerlemeye başlar.
-Ana olay: Yerden ve havadan yükselen sıvı metal dalgaları ile parlayan veri iplikçikleri bedeni sarar. Et, kusursuz bir şekilde kristal zırh plakalarına, nöral filamentlere ve holografik enerji alanlarına dönüşür. Uzuvlar, zarif ve çok eklemli sibernetik uzantılara doğru uzar; yüz ise pürüzsüz, parlayan bir vizör formuna bürünür. Çevredeki binalar gerçek zamanlı olarak yeniden şekillenir; duvarlar veri portallarına açılır, dronlar sürüler halinde gelip figürün yeni formuyla kaynaşır, yağmur damlaları havada asılı kalarak ışıldayan kod parçacıklarına dönüşür. Dönüşüm art arda gelen dalgalarla tırmanır: Her enerji atımı varlığı bir adım daha yukarı taşır; ten yarı saydam kroma, iskelet havada süzülen enerji kafeslerine dönüşür, bilinç ise gökyüzü siluetini yeniden yazan devasa bir dijital auraya yayılır.
-Sonunda: Tamamen evrilmiş melez varlık; saf ışıktan, metalden ve koddan oluşan, heybetli ve zarif bir insan ötesi (post-human) figür olarak, yeniden yapılandırılmış şehrin hemen üzerinde süzülür. Megakent artık bu yeni formla kusursuz bir uyum içinde atar; neon ışıklar canlı damarlar gibi süzülür ve tüm kare aşkın bir cyberpunk gücüyle parlar.
-
-[Görsel Stil]
-Aşırı detaylı, bir üst seviye cyberpunk estetiği: ultra keskin holografik arayüzler, hacimsel neon sis, ıslak ve yansıtıcı yüzeyler, ikili (binary) ışık parçacık akışları, yanardöner krom ile biyolüminesans organik-teknoloji füzyonu. Dur durak bilmeyen, büyüleyici bir teknolojik yükseliş atmosferi.
-
-[Kamera]
-Dinamik sinematik akış: İnsan figürünü orta plan çekimle yakalayarak başlar, ardından dönüşüm başladıkça figürün etrafında döner ve ona yaklaşır. Kesintisiz tek plan enerjisiyle, evrilen formun etrafında sarmal çizerek yükselen hızlanan takip çekimleri; tamamen dönüşmüş varlığın, yeniden yazılmış gökyüzü siluetine karşı görkemli bir geniş açıyla ortaya çıkmasıyla zirveye ulaşır.
-
-[Ses]
-Derin endüstriyel cyber-pulse müziği, yükselen elektronik sentezlerle güçlenir. Sıvı metal dönüşüm sesleri, ardışık dijital glitch'ler, güç dalgalanması uğultuları ve sentetik tonlardan oluşan zafer dolu bir armonik koroya dönüşen uzak şehir ambiyansı ile katmanlanır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115679892595675136/img/JXYW_KVRWMxvBIPN.jpg" width="600" alt="Siberpunk İnsan Evrimi Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13148)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115680392078635134) | **Published:** Oct 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2742,6 +2718,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-11T05:57:36.211Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-11T22:57:55.391Z</sub>
 
 </div>

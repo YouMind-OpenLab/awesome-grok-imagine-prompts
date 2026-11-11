@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3357** |
+| 📝 Total Prompts | **3359** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-11-11** |
 
@@ -189,6 +189,29 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Cat girl snack game video prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A fun video generation prompt for Grok Imagine featuring a cat girl and a partner playing a 'snack game' on Snack Day, eating one snack together from both ends, ending with a kiss.
+
+#### 📝 Prompt
+
+```
+A cat-eared girl and Conan's culprit are doing a 'Snack Game' because it's Snack Day. The Snack Game refers to a party game where two people hold both ends of one snack stick in their mouths and eat towards the center, ending with a light kiss.
+
+So, on Snack Day,
+the partner turned into a cute cat-eared girl 🩷
+Alerele, what a strange thing.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120176411919151104/img/PK_Bq2OwpCWiS5x4.jpg" width="600" alt="Cat girl snack game video prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13722)**
+
+**Author:** [Cha1972](https://x.com/Cha1972j) | **Source:** [Link](https://x.com/Cha1972j/status/2120176451861549449) | **Published:** Nov 10, 2026
+
+---
 ### Neon Martial Arts Swordswoman Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +229,33 @@ Turn her clothes neon yellow, turn hair green, make her do a few martial art mov
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13673)**
 
 **Author:** [Herbert Krspyleg75 Joseph](https://x.com/Herbertkrspyleg) | **Source:** [Link](https://x.com/Herbertkrspyleg/status/2119232026230305214) | **Published:** Nov 8, 2026
+
+---
+### Female Optimus Rain Suit Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for a sci-fi transformation where a female Optimus Transformer activates a backpack that unfolds into a waterproof suit while walking through a rainy city.
+
+#### 📝 Prompt
+
+```
+Next-Level Sci-Fi Transformation Video Prompt
+
+Ultra Cinematic • Photorealistic
+
+Prompt:
+
+A beautiful, elegant female Optimus Transformer with a stunning futuristic white-and-silver robotic body walks confidently through a crowded modern city street, carrying a stylish high-tech backpack. Suddenly, heavy rain begins pouring from the sky. While continuing to walk naturally, she reaches behind her shoulder and presses a glowing transformation button on her backpack. Instantly, the backpack activates with mechanical sounds, unfolding into hundreds of tiny robotic components and extending transparent waterproof plastic material that rapidly wraps around her entire body, creating a perfectly fitted futuristic rain-protection suit. The transformation happens seamlessly without stopping her walk. Pedestrians around her stop, stare in complete amazement, and pull out their smartphones to record this unbelievable technology. Cinematic close-up shots reveal every mechanical detail as rain droplets slide across the transparent protective covering.
+
+Visual Style: Ultra-realistic 3D CGI, photorealistic robotics, next-level sci-fi engineering, incredibly detailed mechanical transformation, realistic rain physics, cinematic camera movements, dramatic lighting, 8K HDR, realistic reflections, immersive city atmosphere, smooth continuous motion, masterpiece.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119004090092974080/img/M55uu6ZEiUVUBidb.jpg" width="600" alt="Female Optimus Rain Suit Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13721)**
+
+**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2119004183089074322) | **Published:** Nov 7, 2026
 
 ---
 ### Wind Blown Yellow Ribbon Video
@@ -231,7 +281,7 @@ bright blue sky, grass with flowers, yellow ribbon caught in grass blowing in th
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A documentary-style prompt for a SpaceX montage featuring orbital outposts, deep-space craft, and inspiring narration about living among the stars.
+> A detailed prompt for a SpaceX documentary-style video montage.
 
 #### 📝 Prompt
 
@@ -276,11 +326,11 @@ Keep Optimus Prime’s identity, metallic armored form, and single continuous ri
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118762128475635964) | **Published:** Nov 6, 2026
 
 ---
-### Female Optimus Cyberpunk City
+### Female Optimus Prime in Cyberpunk Rain
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for a cyberpunk-style video featuring a female Optimus walking through a rainy futuristic metropolis with neon reflections and robotic vehicles watching.
+> A video prompt generating a cinematic scene of a female Optimus Prime walking through a rain-soaked futuristic metropolis with neon reflections and robotic vehicles watching.
 
 #### 📝 Prompt
 
@@ -294,7 +344,7 @@ The camera uses a low-angle tracking shot that slowly follows her from behind, t
 The sound includes heavy rain on metal, the low mechanical hum of her footsteps, distant traffic fading into silence, and a deep resonant ambient score.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="Female Optimus Cyberpunk City">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118657831540838400/img/mE7DDYE04fJ9p1Ox.jpg" width="600" alt="Female Optimus Prime in Cyberpunk Rain">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13645)**
 
@@ -336,11 +386,11 @@ Keep the exact red-and-blue color scheme, flame/graffiti markings, chrome detail
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2118521533421457741) | **Published:** Nov 6, 2026
 
 ---
-### Optimus Robot Descent
+### Optimus Robot City Landing Shockwave
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for generating a video of a massive Optimus robot descending into a futuristic city with shockwaves and dynamic camera movements.
+> A video prompt featuring a massive Optimus robot descending from clouds into a futuristic city, creating shockwaves, with dynamic camera movements and sound design.
 
 #### 📝 Prompt
 
@@ -354,7 +404,7 @@ The camera uses a dynamic circling orbit around the giant robot, starting wide t
 The sound includes deep booming impacts from the landing, spreading shockwave rumble, metallic resonance, and low ambient city hum under the drama.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118386448382459904/img/YBy0vRRPGCaswKYq.jpg" width="600" alt="Optimus Robot Descent">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118386448382459904/img/YBy0vRRPGCaswKYq.jpg" width="600" alt="Optimus Robot City Landing Shockwave">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13601)**
 
@@ -2585,80 +2635,6 @@ Keep the same woman, her facial features, skin tone, and body proportions consis
 **Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115769679423611129) | **Published:** Oct 29, 2026
 
 ---
-### Sci-Fi Armor Transformation Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a high-intensity sci-fi combat armor transformation video using Grok Imagine, featuring nanite assembly and cinematic lighting without weapons.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Generate a high-intensity next-level Sci-Fi combat armor transformation video. The core subject is a solitary figure undergoing advanced armor morphing and powering up for combat readiness, with no weapons of any kind appearing.
-
-[Event Script]
-At the start: A lone human figure stands centered in a vast, dark high-tech hangar with metallic floors, glowing data conduits, and cold blue ambient lighting, wearing only basic tactical undersuit.
-Principal event: The figure initiates the transformation by spreading arms slightly. Nanite swarms and hard-light energy particles erupt from the floor and walls, rapidly assembling layered combat armor segment by segment—first greaves and boots locking onto legs with hydraulic seals, then thigh and torso plating interlocking with visible mechanical clicks and energy welds, followed by shoulder pauldrons, gauntlets, and a sleek fully enclosed helmet that seals with a final pressurized hiss. Armor surfaces shift from matte black to reactive iridescent plates with pulsing cyan energy lines and adaptive camouflage patterns that ripple across the body. The figure tests mobility by shifting into combat-ready stances, armor plates adjusting fluidly with each motion while thruster vents and energy shields briefly flare for demonstration. No weapons materialize or are held.
-At the end: Fully transformed figure stands in a powerful, grounded combat pose, armor fully sealed and glowing with stable power signatures, hangar lights reflecting off the polished surfaces.
-
-[Visual Style]
-Ultra-detailed cinematic Sci-Fi aesthetic with next-generation armor design—organic-mechanical fusion plating, holographic HUD reflections in the helmet visor, volumetric god-rays cutting through floating energy particles, dramatic rim lighting, high-contrast metallic textures, and subtle heat distortion around power conduits.
-
-[Camera]
-Begins with a wide establishing shot of the hangar and figure, then smoothly orbits 360 degrees during the armor assembly sequence. Pushes into medium close-ups of plating locks and energy welds, followed by dynamic tracking shots that follow the figure’s stance shifts. Ends on a low-angle heroic wide shot emphasizing the completed armor silhouette.
-
-[Sound]
-Deep sub-bass power-up hum builds throughout, layered with sharp metallic locking clanks, pressurized sealing hisses, crackling energy surges, and resonant thruster ignition whooshes. Ambient hangar reverb and distant machinery drones remain constant. No weapon sounds, gunfire, or metallic blade effects. No dialogue or narration.
-
-[Maintain Consistency]
-Keep a single human figure and continuous armor transformation sequence only. Ensure zero weapons, firearms, blades, guns, or any armaments appear at any stage. Preserve armor integrity, color progression from black to iridescent cyan, spatial hangar layout, and the final sealed combat-ready state.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115713093057892352/img/Zx_4i5Oe9Ds9fcnl.jpg" width="600" alt="Sci-Fi Armor Transformation Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13207)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115713615433204204) | **Published:** Oct 29, 2026
-
----
-### Cyberpunk Human Evolution Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed sci-fi video prompt for Grok Imagine showing a human figure undergoing continuous digital-organic metamorphosis in a neon megacity, evolving into a superior hybrid form.
-
-#### 📝 Prompt
-
-```
-[Generation Goal]
-Generate a pure next-level Evolution and next-level Transformation Sci-Fi cyberpunk video. The core subject is a lone human figure undergoing continuous digital-organic metamorphosis in a neon-drenched megacity, evolving into a superior hybrid form through cascading stages of cybernetic transcendence.
-
-[Subjects and Relationships]
-The central figure begins as a human silhouette that progressively absorbs and merges with surrounding nanotech, code streams, and mechanical architecture. No other characters appear. The city and the figure remain locked in a symbiotic relationship: the environment feeds the transformation while the evolving being reshapes the city around it.
-
-[Event Script]
-At the start: A human stands amid rain-slicked streets under towering holographic skyscrapers, neon signs flickering in pink, cyan, and electric violet. Soft bioluminescent circuits begin to crawl across the skin like living tattoos.
-Principal event: Waves of liquid metal and glowing data threads surge from the ground and air, wrapping the body. Flesh seamlessly dissolves into crystalline armor plates, neural filaments, and holographic energy fields. Limbs elongate into elegant multi-jointed cybernetic extensions; the face restructures into a sleek, glowing visor-like form. Surrounding buildings reconfigure in real time—walls open into data portals, drones swarm and fuse into the figure’s new form, rain freezes mid-air into luminous code particles. The transformation escalates through successive waves: each pulse of energy elevates the being further—skin becomes translucent chrome, skeleton turns into floating energy lattices, consciousness expands into a vast digital aura that rewrites the skyline.
-At the end: The fully evolved hybrid stands as a towering, elegant post-human entity of pure light, metal, and code, hovering slightly above the restructured city. The megacity now pulses in perfect sync with its new form, neon cascading like living veins, the entire frame radiating transcendent cyberpunk power.
-
-[Visual Style]
-Hyper-detailed next-level cyberpunk aesthetic: ultra-sharp holographic interfaces, volumetric neon fog, wet reflective surfaces, particle streams of binary light, iridescent chrome and bioluminescent organic-tech fusion. Atmosphere of relentless, beautiful technological ascension.
-
-[Camera]
-Dynamic cinematic flow: begins in medium shot on the human figure, then orbits and pushes in as transformation begins. Continuous one-take energy with accelerating tracking shots that spiral upward alongside the evolving form, culminating in a wide heroic reveal of the fully transformed entity against the rewritten skyline.
-
-[Sound]
-Deep industrial cyber-pulse soundtrack builds into soaring electronic synthesis. Layered with liquid-metal morphing sounds, cascading digital glitches, power-surge hums, and distant city ambience that evolves into a triumphant harmonic choir of synthetic tones.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115679892595675136/img/JXYW_KVRWMxvBIPN.jpg" width="600" alt="Cyberpunk Human Evolution Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=13148)**
-
-**Author:** [Ai Mini Thoughts Creator](https://x.com/Aiminithoughts) | **Source:** [Link](https://x.com/Aiminithoughts/status/2115680392078635134) | **Published:** Oct 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2720,6 +2696,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-11T05:57:22.417Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-11T22:57:39.152Z</sub>
 
 </div>
